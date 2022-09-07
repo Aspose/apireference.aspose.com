@@ -1,7 +1,7 @@
 ---
 title: SelectActivePage
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Selects an active document page for editing.
 type: docs
 weight: 530
 url: /net/aspose.page.xps/xpsdocument/selectactivepage/

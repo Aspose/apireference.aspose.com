@@ -1,9 +1,9 @@
 ---
 title: XpsElementLinkTarget
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Class incapsulating the relative namedaddress hyperlink target.
 type: docs
-weight: 940
+weight: 2980
 url: /net/aspose.page.xps.xpsmodel/xpselementlinktarget/
 ---
 ## XpsElementLinkTarget class
@@ -18,10 +18,10 @@ public sealed class XpsElementLinkTarget : XpsHyperlinkTarget
 
 | Name | Description |
 | --- | --- |
-| [XpsElementLinkTarget](xpselementlinktarget)(XpsCanvas) | Creates the new instance. |
-| [XpsElementLinkTarget](xpselementlinktarget)(XpsGlyphs) | Creates the new instance. |
-| [XpsElementLinkTarget](xpselementlinktarget)(XpsPage) | Creates the new instance. |
-| [XpsElementLinkTarget](xpselementlinktarget)(XpsPath) | Creates the new instance. |
+| [XpsElementLinkTarget](xpselementlinktarget#constructor)(XpsCanvas) | Creates the new instance. |
+| [XpsElementLinkTarget](xpselementlinktarget#constructor_1)(XpsGlyphs) | Creates the new instance. |
+| [XpsElementLinkTarget](xpselementlinktarget#constructor_2)(XpsPage) | Creates the new instance. |
+| [XpsElementLinkTarget](xpselementlinktarget#constructor_3)(XpsPath) | Creates the new instance. |
 
 ### See Also
 

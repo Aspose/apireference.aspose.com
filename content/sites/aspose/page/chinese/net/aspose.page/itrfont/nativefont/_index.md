@@ -3,7 +3,7 @@ title: NativeFont
 second_title: Aspose.Page for .NET API 参考
 description: 返回此字体对应的 System.Drawing.Font
 type: docs
-weight: 70
+weight: 80
 url: /zh/net/aspose.page/itrfont/nativefont/
 ---
 ## ITrFont.NativeFont property

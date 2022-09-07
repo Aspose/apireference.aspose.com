@@ -1,14 +1,14 @@
 ---
 title: XpsElement
 second_title: Справочник по Aspose.Page для .NET API
-description: Класс инкапсулирующий общие функции элементов XPS.
+description: Класс объединяющий общие функции элементов XPS.
 type: docs
-weight: 930
+weight: 2970
 url: /ru/net/aspose.page.xps.xpsmodel/xpselement/
 ---
 ## XpsElement class
 
-Класс, инкапсулирующий общие функции элементов XPS.
+Класс, объединяющий общие функции элементов XPS.
 
 ```csharp
 public abstract class XpsElement : XpsObject, IEnumerable<XpsContentElement>
@@ -19,13 +19,13 @@ public abstract class XpsElement : XpsObject, IEnumerable<XpsContentElement>
 | Имя | Описание |
 | --- | --- |
 | [Count](../../aspose.page.xps.xpsmodel/xpselement/count) { get; } | Возвращает количество дочерних элементов. |
-| [Item](../../aspose.page.xps.xpsmodel/xpselement/item) { get; } | Предоставляет доступ к дочерним элементам по индексу*i*. |
+| [Item](../../aspose.page.xps.xpsmodel/xpselement/item) { get; } | Предоставляет доступ к дочерним элементам по индексу*i* . |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| [GetEnumerator](../../aspose.page.xps.xpsmodel/xpselement/getenumerator)() | Реализация интерфейсаIEnumerable. |
+| [GetEnumerator](../../aspose.page.xps.xpsmodel/xpselement/getenumerator)() | РеализацияIEnumerable интерфейс. |
 
 ### Смотрите также
 

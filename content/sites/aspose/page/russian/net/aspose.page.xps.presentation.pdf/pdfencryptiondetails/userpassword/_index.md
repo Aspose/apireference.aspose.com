@@ -1,14 +1,14 @@
 ---
 title: UserPassword
 second_title: Справочник по Aspose.Page для .NET API
-description: Получает или задает пароль пользователя.
+description: Получает или устанавливает пароль пользователя.
 type: docs
 weight: 50
 url: /ru/net/aspose.page.xps.presentation.pdf/pdfencryptiondetails/userpassword/
 ---
 ## PdfEncryptionDetails.UserPassword property
 
-Получает или задает пароль пользователя.
+Получает или устанавливает пароль пользователя.
 
 ```csharp
 public string UserPassword { get; set; }

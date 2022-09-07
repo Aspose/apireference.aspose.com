@@ -1,14 +1,14 @@
 ---
 title: OpacityMask
 second_title: Aspose.Page for .NET API 参考
-description: 返回/设置指定 alpha 值掩码 的画笔它以与 Opacity 属性相同的方式应用于元素 但允许元素的不同区域使用不同的 alpha 值
+description: 返回/设置画笔指定 alpha 值 的遮罩该遮罩以与不透明度属性 相同的方式应用于元素但允许元素的不同区域使用不同的 alpha 值
 type: docs
 weight: 30
 url: /zh/net/aspose.page.xps.xpsmodel/xpscontentelement/opacitymask/
 ---
 ## XpsContentElement.OpacityMask property
 
-返回/设置指定 alpha 值掩码 的画笔，它以与 Opacity 属性相同的方式应用于元素， 但允许元素的不同区域使用不同的 alpha 值。
+返回/设置画笔指定 alpha 值 的遮罩，该遮罩以与不透明度属性 相同的方式应用于元素，但允许元素的不同区域使用不同的 alpha 值。
 
 ```csharp
 public XpsBrush OpacityMask { get; set; }

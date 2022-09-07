@@ -17,7 +17,7 @@ public XpsPolyLineSegment CreatePolyLineSegment(PointF[] points, bool isStroked 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | points | PointF[] | 定义折线段的多个线段的一组坐标。 |
-| isStroked | Boolean | 指定是否绘制此段路径的笔划。 |
+| isStroked | Boolean | 指定是否绘制此路径段的笔画。 |
 
 ### 返回值
 

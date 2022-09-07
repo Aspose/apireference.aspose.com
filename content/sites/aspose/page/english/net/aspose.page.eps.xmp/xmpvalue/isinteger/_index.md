@@ -1,7 +1,7 @@
 ---
 title: IsInteger
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Returns true if value is integer.
 type: docs
 weight: 60
 url: /net/aspose.page.eps.xmp/xmpvalue/isinteger/

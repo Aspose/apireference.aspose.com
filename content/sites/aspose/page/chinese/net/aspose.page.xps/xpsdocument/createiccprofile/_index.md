@@ -1,14 +1,14 @@
 ---
 title: CreateIccProfile
 second_title: Aspose.Page for .NET API 参考
-description: 从位于 iccProfilePath的 ICC 配置文件中创建新的 ICC 配置文件资源
+description: 从位于 的 ICC 配置文件文件中创建新的 ICC 配置文件资源iccProfilePath.
 type: docs
 weight: 220
 url: /zh/net/aspose.page.xps/xpsdocument/createiccprofile/
 ---
 ## CreateIccProfile(string) {#createiccprofile_1}
 
-从位于 *iccProfilePath*的 ICC 配置文件中创建新的 ICC 配置文件资源。
+从位于 的 ICC 配置文件文件中创建新的 ICC 配置文件资源*iccProfilePath*.
 
 ```csharp
 public XpsIccProfile CreateIccProfile(string iccProfilePath)
@@ -33,7 +33,7 @@ public XpsIccProfile CreateIccProfile(string iccProfilePath)
 
 ## CreateIccProfile(Stream) {#createiccprofile}
 
-从*stream*创建一个新的 ICC 配置文件资源。
+创建一个新的 ICC 配置文件资源*stream*.
 
 ```csharp
 public XpsIccProfile CreateIccProfile(Stream stream)

@@ -3,7 +3,7 @@ title: TRANSPARENT
 second_title: Справочник по Aspose.Page для .NET API
 description: Ключ свойства Прозрачный.
 type: docs
-weight: 610
+weight: 600
 url: /ru/net/aspose.page.eps.device/imagedevice/transparent/
 ---
 ## ImageDevice.TRANSPARENT field

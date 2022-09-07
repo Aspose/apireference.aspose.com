@@ -3,7 +3,7 @@ title: Margins
 second_title: Справочник по Aspose.Page для .NET API
 description: Этот класс инкапсулирует верхнее левое нижнее и правое поля.
 type: docs
-weight: 210
+weight: 220
 url: /ru/net/aspose.page/margins/
 ---
 ## Margins class

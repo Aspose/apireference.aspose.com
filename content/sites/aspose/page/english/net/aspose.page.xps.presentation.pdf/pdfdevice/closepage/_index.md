@@ -1,7 +1,7 @@
 ---
 title: ClosePage
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Accomplishes the page.
 type: docs
 weight: 130
 url: /net/aspose.page.xps.presentation.pdf/pdfdevice/closepage/

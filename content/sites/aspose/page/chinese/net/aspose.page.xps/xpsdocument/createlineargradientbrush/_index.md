@@ -17,7 +17,7 @@ public XpsLinearGradientBrush CreateLinearGradientBrush(List<XpsGradientStop> gr
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| gradientStops | List`1 | 渐变停止点列表。 |
+| gradientStops | List`1 | 梯度停止列表。 |
 | startPoint | PointF | 线性渐变的起点。 |
 | endPoint | PointF | 线性渐变的终点。 |
 

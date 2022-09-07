@@ -1,7 +1,7 @@
 ---
 title: TransformPoint
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Applies the affine transformation represented by this Matrix to a specified point.
 type: docs
 weight: 190
 url: /net/aspose.page.xps.xpsmodel/xpsmatrix/transformpoint/

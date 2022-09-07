@@ -3,7 +3,7 @@ title: XpsGradientStop
 second_title: Справочник по Aspose.Page для .NET API
 description: Класс инкапсулирующий функции элемента GradientStop. Этот элемент используется как элементами LinearGradientBrush так и элементами RadialGradientBrush для определения местоположения и диапазона цветовой последовательности для визуализации градиента.
 type: docs
-weight: 1010
+weight: 3050
 url: /ru/net/aspose.page.xps.xpsmodel/xpsgradientstop/
 ---
 ## XpsGradientStop class
@@ -18,8 +18,8 @@ public sealed class XpsGradientStop : XpsObject
 
 | Имя | Описание |
 | --- | --- |
-| [Color](../../aspose.page.xps.xpsmodel/xpsgradientstop/color) { get; } | Конечный цвет градиента. |
-| [Offset](../../aspose.page.xps.xpsmodel/xpsgradientstop/offset) { get; } | Возвращает/устанавливает смещение градиента. Смещение указывает точку в прогрессии градиента, в котором указан цвет. Цвета между смещениями градиента в последовательности интерполируются. |
+| [Color](../../aspose.page.xps.xpsmodel/xpsgradientstop/color) { get; } | Цвет остановки градиента. |
+| [Offset](../../aspose.page.xps.xpsmodel/xpsgradientstop/offset) { get; } | Возвращает/устанавливает смещение градиента. Смещение указывает точку вдоль прогрессии градиента, в котором указан цвет. Цвета между смещениями градиента в прогрессии интерполируются. |
 
 ## Методы
 

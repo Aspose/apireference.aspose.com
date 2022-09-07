@@ -3,7 +3,7 @@ title: XpsArrayT
 second_title: Aspose.Page for .NET API 参考
 description: 封装常见 XPS 模型数组对象特征的类
 type: docs
-weight: 850
+weight: 2890
 url: /zh/net/aspose.page.xps.xpsmodel/xpsarray-1/
 ---
 ## XpsArray&lt;T&gt; class
@@ -24,7 +24,7 @@ public abstract class XpsArray<T> : XpsObject
 | 姓名 | 描述 |
 | --- | --- |
 | [Count](../../aspose.page.xps.xpsmodel/xpsarray`1/count) { get; } | 返回元素的数量。 |
-| [Item](../../aspose.page.xps.xpsmodel/xpsarray`1/item) { get; } | 通过索引*i*提供对数组元素的访问。 |
+| [Item](../../aspose.page.xps.xpsmodel/xpsarray`1/item) { get; } | 通过索引提供对数组元素的访问*i*. |
 
 ## 方法
 
@@ -32,7 +32,7 @@ public abstract class XpsArray<T> : XpsObject
 | --- | --- |
 | [Add](../../aspose.page.xps.xpsmodel/xpsarray`1/add)(T) | 将新对象添加到数组中。 |
 | [Insert](../../aspose.page.xps.xpsmodel/xpsarray`1/insert)(int, T) | 将新对象插入到数组中指定位置。 |
-| [Remove](../../aspose.page.xps.xpsmodel/xpsarray`1/remove)(T) | 从数组中移除一个对象。 |
+| [Remove](../../aspose.page.xps.xpsmodel/xpsarray`1/remove)(T) | 从数组中删除一个对象。 |
 | [RemoveAt](../../aspose.page.xps.xpsmodel/xpsarray`1/removeat)(int) | 从数组中的指定位置移除一个对象。 |
 
 ### 也可以看看

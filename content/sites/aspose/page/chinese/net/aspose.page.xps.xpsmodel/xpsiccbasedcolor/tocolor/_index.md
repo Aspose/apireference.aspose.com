@@ -16,7 +16,7 @@ public override Color ToColor()
 
 ### 返回值
 
-System.Drawing.Color 结构。
+System.Drawing.Color结构体。
 
 ### 也可以看看
 

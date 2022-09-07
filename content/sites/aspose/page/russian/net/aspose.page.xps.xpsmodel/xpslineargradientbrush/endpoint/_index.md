@@ -1,14 +1,14 @@
 ---
 title: EndPoint
 second_title: Справочник по Aspose.Page для .NET API
-description: Возвращает/устанавливает конечную точку линейного градиента.
+description: Возвращает/задает конечную точку линейного градиента.
 type: docs
 weight: 10
 url: /ru/net/aspose.page.xps.xpsmodel/xpslineargradientbrush/endpoint/
 ---
 ## XpsLinearGradientBrush.EndPoint property
 
-Возвращает/устанавливает конечную точку линейного градиента.
+Возвращает/задает конечную точку линейного градиента.
 
 ```csharp
 public PointF EndPoint { get; set; }

@@ -1,7 +1,7 @@
 ---
 title: UpdatePageParameters
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Updates the current page parameters.
 type: docs
 weight: 360
 url: /net/aspose.page.xps.presentation.pdf/pdfdevice/updatepageparameters/

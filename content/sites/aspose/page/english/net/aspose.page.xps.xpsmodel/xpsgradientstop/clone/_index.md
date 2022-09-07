@@ -1,7 +1,7 @@
 ---
 title: Clone
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Clones this gradient stop.
 type: docs
 weight: 30
 url: /net/aspose.page.xps.xpsmodel/xpsgradientstop/clone/

@@ -1,14 +1,14 @@
 ---
 title: DrawPolyline
 second_title: Aspose.Page for .NET API 参考
-description: 绘制多段线
+description: 绘制折线
 type: docs
 weight: 250
 url: /zh/net/aspose.page/device/drawpolyline/
 ---
 ## DrawPolyline(int[], int[], int) {#drawpolyline_1}
 
-绘制多段线。
+绘制折线。
 
 ```csharp
 public virtual void DrawPolyline(int[] xPoints, int[] yPoints, int nPoints)
@@ -30,7 +30,7 @@ public virtual void DrawPolyline(int[] xPoints, int[] yPoints, int nPoints)
 
 ## DrawPolyline(double[], double[], int) {#drawpolyline}
 
-绘制多段线。
+绘制折线。
 
 ```csharp
 public virtual void DrawPolyline(double[] xPoints, double[] yPoints, int nPoints)

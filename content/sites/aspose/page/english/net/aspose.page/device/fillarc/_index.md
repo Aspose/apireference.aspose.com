@@ -1,7 +1,7 @@
 ---
 title: FillArc
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Fills an arc.
 type: docs
 weight: 310
 url: /net/aspose.page/device/fillarc/

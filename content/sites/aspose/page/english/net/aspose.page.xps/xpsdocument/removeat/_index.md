@@ -1,7 +1,7 @@
 ---
 title: RemoveAt
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Removes an element at index position from the active page.
 type: docs
 weight: 470
 url: /net/aspose.page.xps/xpsdocument/removeat/

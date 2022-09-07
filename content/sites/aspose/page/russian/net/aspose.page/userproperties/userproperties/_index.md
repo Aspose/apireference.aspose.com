@@ -44,7 +44,7 @@ public UserProperties(Dictionary<string, object> defaults)
 
 ## UserProperties(Dictionary&lt;string, object&gt;, Dictionary&lt;string, object&gt;) {#constructor_2}
 
-Создает UserProperties с таблицей defaults и altDefaults, которые ищутся в указанном порядке.
+Создает UserProperties с таблицей defaults и altDefaults, , которые ищутся в указанном порядке.
 
 ```csharp
 public UserProperties(Dictionary<string, object> defaults, Dictionary<string, object> altDefaults)

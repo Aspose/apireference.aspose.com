@@ -1,12 +1,12 @@
 ---
 title: Aspose.Page.EPS.XMP
 second_title: Aspose.Page for .NET API 参考
-description: Aspose.Page.EPS.XMP 命名空间提供用于读取更改 EPS 中的 XMP 元数据的类文件
+description: 的 Aspose.Page.EPS.XMP命名空间提供用于读取更改 EPS 文件中的 XMP 元数据的类
 type: docs
 weight: 40
 url: /zh/net/aspose.page.eps.xmp/
 ---
-**Aspose.Page.EPS.XMP** 命名空间提供用于读取、更改 EPS 中的 XMP 元数据的类文件。
+的 **Aspose.Page.EPS.XMP**命名空间提供用于读取、更改 EPS 文件中的 XMP 元数据的类。
 
 ## 课程
 

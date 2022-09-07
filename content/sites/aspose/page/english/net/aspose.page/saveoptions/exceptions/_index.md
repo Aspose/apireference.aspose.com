@@ -1,7 +1,7 @@
 ---
 title: Exceptions
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Returns a list of suppressed conversion errors If SuppressErrors is true.
 type: docs
 weight: 40
 url: /net/aspose.page/saveoptions/exceptions/

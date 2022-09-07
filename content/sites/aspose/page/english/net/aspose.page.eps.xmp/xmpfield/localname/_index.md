@@ -1,7 +1,7 @@
 ---
 title: LocalName
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Gets or sets the name of the local.
 type: docs
 weight: 50
 url: /net/aspose.page.eps.xmp/xmpfield/localname/

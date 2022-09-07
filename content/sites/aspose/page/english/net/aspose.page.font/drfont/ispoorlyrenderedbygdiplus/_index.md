@@ -1,7 +1,7 @@
 ---
 title: IsPoorlyRenderedByGdiPlus
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Returns True for Microsoft Sans Serif font. This one is poorly rendered by GDI. See Test286 and Gemini6959.
 type: docs
 weight: 260
 url: /net/aspose.page.font/drfont/ispoorlyrenderedbygdiplus/

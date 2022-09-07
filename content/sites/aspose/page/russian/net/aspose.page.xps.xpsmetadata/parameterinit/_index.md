@@ -1,39 +1,42 @@
 ---
 title: ParameterInit
 second_title: Справочник по Aspose.Page для .NET API
-description: Класс реализующий инициализатор параметра билета печати.
+description: Класс реализующий общий инициализатор параметра PrintTicket. Базовый класс для всех инициализаторов параметров определяемых схемой. Определяет значение для экземпляраэлемент. А элемент является целью ссылки сделаннойParameterRef./parameterref элемент. https//docs.microsoft.com/enus/windows/win32/printdocs/parameterinit
 type: docs
-weight: 670
+weight: 2710
 url: /ru/net/aspose.page.xps.xpsmetadata/parameterinit/
 ---
 ## ParameterInit class
 
-Класс, реализующий инициализатор параметра билета печати.
+Класс, реализующий общий инициализатор параметра PrintTicket. Базовый класс для всех инициализаторов параметров, определяемых схемой. Определяет значение для экземпляраэлемент. А элемент является целью ссылки, сделанной[`ParameterRef`](../parameterref) элемент. https://docs.microsoft.com/en-us/windows/win32/printdocs/parameterinit
 
 ```csharp
-public class ParameterInit : IPrintTicketItem
+ParameterDef
+```
+
+```csharp
+ParameterInit
+```
+
+```csharp
+public class ParameterInit : PrintTicketElement, IPrintTicketItem
 ```
 
 ## Конструкторы
 
 | Имя | Описание |
 | --- | --- |
-| [ParameterInit](parameterinit)(string, Value) | Создает экземпляр инициализации параметра билета печати. |
+| [ParameterInit](parameterinit)(string, Value) | Создает новый экземпляр. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [Name](../../aspose.page.xps.xpsmetadata/parameterinit/name) { get; } | Возвращает имя параметра. |
-
-## Методы
-
-| Имя | Описание |
-| --- | --- |
-| override [ToString](../../aspose.page.xps.xpsmetadata/parameterinit/tostring)() | Возвращает строковое представление. |
+| [Name](../../aspose.page.xps.xpsmetadata/printticketelement/name) { get; } | Получает имя элемента. |
 
 ### Смотрите также
 
+* class [PrintTicketElement](../printticketelement)
 * interface [IPrintTicketItem](../iprintticketitem)
 * пространство имен [Aspose.Page.XPS.XpsMetadata](../../aspose.page.xps.xpsmetadata)
 * сборка [Aspose.Page](../../)

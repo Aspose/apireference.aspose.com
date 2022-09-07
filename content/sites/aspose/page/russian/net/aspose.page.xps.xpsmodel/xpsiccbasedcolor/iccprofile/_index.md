@@ -1,14 +1,14 @@
 ---
 title: IccProfile
 second_title: Справочник по Aspose.Page для .NET API
-description: Возвращает ресурс профиля ICC на основе которого цвет.
+description: Возвращает ресурс профиля ICC с цветом основанным на .
 type: docs
 weight: 10
 url: /ru/net/aspose.page.xps.xpsmodel/xpsiccbasedcolor/iccprofile/
 ---
 ## XpsIccBasedColor.IccProfile property
 
-Возвращает ресурс профиля ICC, на основе которого цвет.
+Возвращает ресурс профиля ICC с цветом, основанным на .
 
 ```csharp
 public XpsIccProfile IccProfile { get; }

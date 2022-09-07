@@ -1,12 +1,12 @@
 ---
 title: XpsDocument
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Creates empty XPS document with default page size.
 type: docs
 weight: 10
 url: /net/aspose.page.xps/xpsdocument/xpsdocument/
 ---
-## XpsDocument constructor (1 of 4)
+## XpsDocument() {#constructor}
 
 Creates empty XPS document with default page size.
 
@@ -22,7 +22,7 @@ public XpsDocument()
 
 ---
 
-## XpsDocument constructor (2 of 4)
+## XpsDocument(string) {#constructor_2}
 
 Opens an existing XPS document located at the *path*.
 
@@ -42,7 +42,7 @@ public XpsDocument(string path)
 
 ---
 
-## XpsDocument constructor (3 of 4)
+## XpsDocument(string, LoadOptions) {#constructor_3}
 
 Opens an existing document located at the *path* as XPS document.
 
@@ -64,7 +64,7 @@ public XpsDocument(string path, LoadOptions options)
 
 ---
 
-## XpsDocument constructor (4 of 4)
+## XpsDocument(Stream, LoadOptions) {#constructor_1}
 
 Loads an existing document stored in the *stream* as XPS document.
 

@@ -1,9 +1,9 @@
 ---
 title: Rotate
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Rotate the current transformation matrix over the Zaxis. Calls writeTransformTransform. Rotating with a positive angle theta rotates points on the positive x axis toward the positive y axis.
 type: docs
-weight: 400
+weight: 390
 url: /net/aspose.page.eps.device/imagedevice/rotate/
 ---
 ## ImageDevice.Rotate method

@@ -1,14 +1,14 @@
 ---
 title: Multiply
 second_title: Aspose.Page for .NET API 参考
-description: 将此矩阵乘以matrix 指定的矩阵顺序由matrixOrder指定
+description: 将此矩阵乘以由matrix 按指定的顺序matrixOrder.
 type: docs
 weight: 110
 url: /zh/net/aspose.page.xps.xpsmodel/xpsmatrix/multiply/
 ---
 ## Multiply(Matrix, MatrixOrder) {#multiply_3}
 
-将此矩阵乘以*matrix* 指定的矩阵，顺序由*matrixOrder指定*。
+将此矩阵乘以由*matrix* 按指定的顺序*matrixOrder*.
 
 ```csharp
 public void Multiply(Matrix matrix, MatrixOrder matrixOrder)
@@ -17,7 +17,7 @@ public void Multiply(Matrix matrix, MatrixOrder matrixOrder)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | matrix | Matrix | 矩阵。 |
-| matrixOrder | MatrixOrder | 顺序。 |
+| matrixOrder | MatrixOrder | 命令。 |
 
 ### 也可以看看
 
@@ -29,7 +29,7 @@ public void Multiply(Matrix matrix, MatrixOrder matrixOrder)
 
 ## Multiply(Matrix) {#multiply_2}
 
-将此矩阵乘以*matrix* 指定的矩阵，默认（前置）顺序。
+将此矩阵乘以由*matrix* 默认（前置）顺序。
 
 ```csharp
 public void Multiply(Matrix matrix)
@@ -49,7 +49,7 @@ public void Multiply(Matrix matrix)
 
 ## Multiply(XpsMatrix, MatrixOrder) {#multiply_1}
 
-将此矩阵乘以*matrix* 指定的矩阵，顺序由*matrixOrder指定*。
+将此矩阵乘以由*matrix* 按指定的顺序*matrixOrder*.
 
 ```csharp
 public void Multiply(XpsMatrix matrix, MatrixOrder matrixOrder)
@@ -58,7 +58,7 @@ public void Multiply(XpsMatrix matrix, MatrixOrder matrixOrder)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | matrix | XpsMatrix | 矩阵。 |
-| matrixOrder | MatrixOrder | 顺序。 |
+| matrixOrder | MatrixOrder | 命令。 |
 
 ### 也可以看看
 
@@ -70,7 +70,7 @@ public void Multiply(XpsMatrix matrix, MatrixOrder matrixOrder)
 
 ## Multiply(XpsMatrix) {#multiply}
 
-将此矩阵乘以*matrix* 指定的矩阵，默认（前置）顺序。
+将此矩阵乘以由*matrix* 默认（前置）顺序。
 
 ```csharp
 public void Multiply(XpsMatrix matrix)

@@ -3,7 +3,7 @@ title: EndDocument
 second_title: Aspose.Page for .NET API 参考
 description: 在文档呈现后对设备进行必要的准备
 type: docs
-weight: 240
+weight: 230
 url: /zh/net/aspose.page.eps.device/imagedevice/enddocument/
 ---
 ## ImageDevice.EndDocument method

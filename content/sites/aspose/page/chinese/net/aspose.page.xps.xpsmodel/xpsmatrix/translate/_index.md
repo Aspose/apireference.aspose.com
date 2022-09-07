@@ -1,14 +1,14 @@
 ---
 title: Translate
 second_title: Aspose.Page for .NET API 参考
-description: 按照matrixOrder指定的顺序将指定的平移向量应用于此矩阵
+description: 按指定的顺序将指定的平移向量应用于此矩阵matrixOrder.
 type: docs
 weight: 210
 url: /zh/net/aspose.page.xps.xpsmodel/xpsmatrix/translate/
 ---
 ## Translate(float, float, MatrixOrder) {#translate_1}
 
-按照*matrixOrder*指定的顺序将指定的平移向量应用于此矩阵。
+按指定的顺序将指定的平移向量应用于此矩阵*matrixOrder*.
 
 ```csharp
 public void Translate(float offsetX, float offsetY, MatrixOrder matrixOrder)
@@ -16,9 +16,9 @@ public void Translate(float offsetX, float offsetY, MatrixOrder matrixOrder)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| offsetX | Single | 偏移量 X |
-| offsetY | Single | 偏移量 Y . |
-| matrixOrder | MatrixOrder | 顺序。 |
+| offsetX | Single | 偏移量 X。 |
+| offsetY | Single | 偏移量 Y。 |
+| matrixOrder | MatrixOrder | 命令。 |
 
 ### 也可以看看
 
@@ -38,8 +38,8 @@ public void Translate(float offsetX, float offsetY)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| offsetX | Single | 偏移量 X |
-| offsetY | Single | 偏移量 Y . |
+| offsetX | Single | 偏移量 X。 |
+| offsetY | Single | 偏移量 Y。 |
 
 ### 也可以看看
 

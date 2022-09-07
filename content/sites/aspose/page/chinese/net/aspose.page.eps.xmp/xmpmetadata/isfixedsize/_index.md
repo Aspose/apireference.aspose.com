@@ -1,14 +1,14 @@
 ---
 title: IsFixedSize
 second_title: Aspose.Page for .NET API 参考
-description: 检查colleciton是否有固定大小
+description: 检查colleciton 是否有固定大小
 type: docs
 weight: 20
 url: /zh/net/aspose.page.eps.xmp/xmpmetadata/isfixedsize/
 ---
 ## XmpMetadata.IsFixedSize property
 
-检查colleciton是否有固定大小。
+检查colleciton 是否有固定大小。
 
 ```csharp
 public bool IsFixedSize { get; }

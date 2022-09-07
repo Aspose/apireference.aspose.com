@@ -1,14 +1,14 @@
 ---
 title: Page
 second_title: Справочник по Aspose.Page для .NET API
-description: Возвращает экземплярXpsPageaspose.page.xps.xpsmodel/xpspageдля активной страницы.
+description: ВозвращаетXpsPageaspose.page.xps.xpsmodel/xpspage экземпляр для активной страницы.
 type: docs
 weight: 60
 url: /ru/net/aspose.page.xps/xpsdocument/page/
 ---
 ## XpsDocument.Page property
 
-Возвращает экземпляр[`XpsPage`](../../../aspose.page.xps.xpsmodel/xpspage)для активной страницы.
+Возвращает[`XpsPage`](../../../aspose.page.xps.xpsmodel/xpspage) экземпляр для активной страницы.
 
 ```csharp
 public XpsPage Page { get; }

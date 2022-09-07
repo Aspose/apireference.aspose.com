@@ -1,14 +1,14 @@
 ---
 title: XpsPolyBezierSegment
 second_title: Aspose.Page for .NET API 参考
-description: 封装 PolyBezierSegment 元素特征的类 这个元素描述了一组三次贝塞尔曲线
+description: 封装 PolyBezierSegment 元素特征的类 该元素描述了一组三次贝塞尔曲线
 type: docs
-weight: 1200
+weight: 3240
 url: /zh/net/aspose.page.xps.xpsmodel/xpspolybeziersegment/
 ---
 ## XpsPolyBezierSegment class
 
-封装 PolyBezierSegment 元素特征的类。 这个元素描述了一组三次贝塞尔曲线。
+封装 PolyBezierSegment 元素特征的类。 该元素描述了一组三次贝塞尔曲线。
 
 ```csharp
 public class XpsPolyBezierSegment : XpsPathPolySegment
@@ -18,7 +18,7 @@ public class XpsPolyBezierSegment : XpsPathPolySegment
 
 | 姓名 | 描述 |
 | --- | --- |
-| [IsStroked](../../aspose.page.xps.xpsmodel/xpspathsegment/isstroked) { get; set; } | 返回/设置指定是否绘制该路径段的笔划的值。 |
+| [IsStroked](../../aspose.page.xps.xpsmodel/xpspathsegment/isstroked) { get; set; } | 返回/设置指定是否绘制此段路径的笔划的值。 |
 
 ## 方法
 

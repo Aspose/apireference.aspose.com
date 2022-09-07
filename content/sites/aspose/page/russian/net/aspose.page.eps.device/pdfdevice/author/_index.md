@@ -3,7 +3,7 @@ title: AUTHOR
 second_title: Справочник по Aspose.Page для .NET API
 description: Значение свойства Автор.
 type: docs
-weight: 330
+weight: 320
 url: /ru/net/aspose.page.eps.device/pdfdevice/author/
 ---
 ## PdfDevice.AUTHOR field

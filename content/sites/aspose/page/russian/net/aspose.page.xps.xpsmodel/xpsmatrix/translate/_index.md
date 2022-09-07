@@ -1,14 +1,14 @@
 ---
 title: Translate
 second_title: Справочник по Aspose.Page для .NET API
-description: Применяет указанный вектор смещения к этой матрице в порядке указанномmatrixOrder.
+description: Применяет указанный вектор смещения к этой матрице в порядке указанномmatrixOrder .
 type: docs
 weight: 210
 url: /ru/net/aspose.page.xps.xpsmodel/xpsmatrix/translate/
 ---
 ## Translate(float, float, MatrixOrder) {#translate_1}
 
-Применяет указанный вектор смещения к этой матрице в порядке, указанном*matrixOrder*.
+Применяет указанный вектор смещения к этой матрице в порядке, указанном*matrixOrder* .
 
 ```csharp
 public void Translate(float offsetX, float offsetY, MatrixOrder matrixOrder)
@@ -16,9 +16,9 @@ public void Translate(float offsetX, float offsetY, MatrixOrder matrixOrder)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| offsetX | Single | Смещение X. |
-| offsetY | Single | Смещение Y . |
-| matrixOrder | MatrixOrder | Порядок. |
+| offsetX | Single | Смещение Х. |
+| offsetY | Single | Смещение Ю. |
+| matrixOrder | MatrixOrder | Приказ. |
 
 ### Смотрите также
 
@@ -30,7 +30,7 @@ public void Translate(float offsetX, float offsetY, MatrixOrder matrixOrder)
 
 ## Translate(float, float) {#translate}
 
-Применяет указанный вектор смещения к этой матрице.
+Применяет указанный вектор переноса к этой матрице.
 
 ```csharp
 public void Translate(float offsetX, float offsetY)
@@ -38,8 +38,8 @@ public void Translate(float offsetX, float offsetY)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| offsetX | Single | Смещение X. |
-| offsetY | Single | Смещение Y . |
+| offsetX | Single | Смещение Х. |
+| offsetY | Single | Смещение Ю. |
 
 ### Смотрите также
 

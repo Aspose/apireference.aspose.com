@@ -1,7 +1,7 @@
 ---
 title: Center
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Returns/sets the center point of the radial gradient that is the center of the ellipse.
 type: docs
 weight: 10
 url: /net/aspose.page.xps.xpsmodel/xpsradialgradientbrush/center/

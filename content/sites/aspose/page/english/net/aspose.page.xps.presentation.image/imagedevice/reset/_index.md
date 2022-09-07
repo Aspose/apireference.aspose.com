@@ -1,7 +1,7 @@
 ---
 title: Reset
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Resets the device.
 type: docs
 weight: 260
 url: /net/aspose.page.xps.presentation.image/imagedevice/reset/

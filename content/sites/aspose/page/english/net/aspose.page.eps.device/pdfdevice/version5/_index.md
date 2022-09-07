@@ -1,9 +1,9 @@
 ---
 title: VERSION5
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Version of Adobe Acrobat Reader property value.
 type: docs
-weight: 500
+weight: 490
 url: /net/aspose.page.eps.device/pdfdevice/version5/
 ---
 ## PdfDevice.VERSION5 field

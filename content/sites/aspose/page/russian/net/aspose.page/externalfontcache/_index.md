@@ -1,14 +1,14 @@
 ---
 title: ExternalFontCache
 second_title: Справочник по Aspose.Page для .NET API
-description: Используйте этот класс для получения инкапсуляции шрифта в форме которая принимаетсяDevice./device.
+description: Используйте этот класс для получения инкапсуляции шрифта в форме приемлемой дляDevice./device .
 type: docs
-weight: 140
+weight: 150
 url: /ru/net/aspose.page/externalfontcache/
 ---
 ## ExternalFontCache class
 
-Используйте этот класс для получения инкапсуляции шрифта в форме, которая принимается[`Device`](../device).
+Используйте этот класс для получения инкапсуляции шрифта в форме, приемлемой для[`Device`](../device) .
 
 ```csharp
 public class ExternalFontCache
@@ -24,8 +24,8 @@ public class ExternalFontCache
 
 | Имя | Описание |
 | --- | --- |
-| [FetchDrFont](../../aspose.page/externalfontcache/fetchdrfont)(string, float, FontStyle, string) | Извлекает[`DrFont`](../../aspose.page.font/drfont)по имени семейства шрифтов, размеру, стилю и альтернативному имени семейства шрифтов. |
-| static [FetchDrFont](../../aspose.page/externalfontcache/fetchdrfont)(string, float, FontStyle) | Выборка[`DrFont`](../../aspose.page.font/drfont)по имени семейства шрифтов, размеру и стилю. |
+| [FetchDrFont](../../aspose.page/externalfontcache/fetchdrfont)(string, float, FontStyle, string) | выборки[`DrFont`](../../aspose.page.font/drfont) по имени семейства шрифтов, размеру, стилю и альтернативному имени семейства шрифтов. |
+| static [FetchDrFont](../../aspose.page/externalfontcache/fetchdrfont)(string, float, FontStyle) | выборки[`DrFont`](../../aspose.page.font/drfont) по названию семейства шрифтов, размеру и стилю. |
 
 ### Смотрите также
 

@@ -1,14 +1,14 @@
 ---
 title: Multiply
 second_title: Справочник по Aspose.Page для .NET API
-description: Умножает эту матрицу на матрицу заданнуюmatrix в порядке указанномmatrixOrder.
+description: Умножает эту матрицу на матрицу заданную параметромmatrix в порядке указанномmatrixOrder .
 type: docs
 weight: 110
 url: /ru/net/aspose.page.xps.xpsmodel/xpsmatrix/multiply/
 ---
 ## Multiply(Matrix, MatrixOrder) {#multiply_3}
 
-Умножает эту матрицу на матрицу, заданную*matrix* в порядке, указанном*matrixOrder*.
+Умножает эту матрицу на матрицу, заданную параметром*matrix* в порядке, указанном*matrixOrder* .
 
 ```csharp
 public void Multiply(Matrix matrix, MatrixOrder matrixOrder)
@@ -17,7 +17,7 @@ public void Multiply(Matrix matrix, MatrixOrder matrixOrder)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | matrix | Matrix | Матрица. |
-| matrixOrder | MatrixOrder | Порядок. |
+| matrixOrder | MatrixOrder | Приказ. |
 
 ### Смотрите также
 
@@ -29,7 +29,7 @@ public void Multiply(Matrix matrix, MatrixOrder matrixOrder)
 
 ## Multiply(Matrix) {#multiply_2}
 
-Умножает эту матрицу на матрицу, указанную в*matrix* в порядке по умолчанию (Prepend).
+Умножает эту матрицу на матрицу, заданную параметром*matrix* в порядке по умолчанию (в начале).
 
 ```csharp
 public void Multiply(Matrix matrix)
@@ -49,7 +49,7 @@ public void Multiply(Matrix matrix)
 
 ## Multiply(XpsMatrix, MatrixOrder) {#multiply_1}
 
-Умножает эту матрицу на матрицу, заданную*matrix* в порядке, указанном*matrixOrder*.
+Умножает эту матрицу на матрицу, заданную параметром*matrix* в порядке, указанном*matrixOrder* .
 
 ```csharp
 public void Multiply(XpsMatrix matrix, MatrixOrder matrixOrder)
@@ -58,7 +58,7 @@ public void Multiply(XpsMatrix matrix, MatrixOrder matrixOrder)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | matrix | XpsMatrix | Матрица. |
-| matrixOrder | MatrixOrder | Порядок. |
+| matrixOrder | MatrixOrder | Приказ. |
 
 ### Смотрите также
 
@@ -70,7 +70,7 @@ public void Multiply(XpsMatrix matrix, MatrixOrder matrixOrder)
 
 ## Multiply(XpsMatrix) {#multiply}
 
-Умножает эту матрицу на матрицу, указанную в*matrix* в порядке по умолчанию (Prepend).
+Умножает эту матрицу на матрицу, заданную параметром*matrix* в порядке по умолчанию (в начале).
 
 ```csharp
 public void Multiply(XpsMatrix matrix)

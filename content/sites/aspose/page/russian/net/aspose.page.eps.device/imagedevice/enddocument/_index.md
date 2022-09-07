@@ -3,7 +3,7 @@ title: EndDocument
 second_title: Справочник по Aspose.Page для .NET API
 description: Выполняет необходимую подготовку устройства после рендеринга документа.
 type: docs
-weight: 240
+weight: 230
 url: /ru/net/aspose.page.eps.device/imagedevice/enddocument/
 ---
 ## ImageDevice.EndDocument method

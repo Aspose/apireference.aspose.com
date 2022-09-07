@@ -3,7 +3,7 @@ title: SUBJECT
 second_title: Aspose.Page for .NET API 参考
 description: 主题属性值
 type: docs
-weight: 460
+weight: 450
 url: /zh/net/aspose.page.eps.device/pdfdevice/subject/
 ---
 ## PdfDevice.SUBJECT field

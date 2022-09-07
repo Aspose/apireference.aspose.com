@@ -1,7 +1,7 @@
 ---
 title: ReNew
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Reset device to initial state for whole document. Used for reseting output stream.
 type: docs
 weight: 460
 url: /net/aspose.page/device/renew/

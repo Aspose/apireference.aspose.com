@@ -1,14 +1,14 @@
 ---
 title: Add
 second_title: Справочник по Aspose.Page для .NET API
-description: Добавляет список элементов в конец списка элементов функций. Каждый из них должен бытьFeatureaspose.page.xps.xpsmetadata/featureOptionaspose.page.xps.xpsmetadata/optionилиPropertyaspose.page.xps.xpsmetadata/propertyобъект.
+description: Добавляет список элементов в конец списка элементов этой функции. Каждый должен бытьFeatureaspose.page.xps.xpsmetadata/feature  анOptionaspose.page.xps.xpsmetadata/option илиPropertyaspose.page.xps.xpsmetadata/property экземпляр.
 type: docs
-weight: 30
+weight: 20
 url: /ru/net/aspose.page.xps.xpsmetadata/feature/add/
 ---
 ## Feature.Add method
 
-Добавляет список элементов в конец списка элементов функций. Каждый из них должен быть[`Feature`](../../feature),[`Option`](../../option)или[`Property`](../../property)объект.
+Добавляет список элементов в конец списка элементов этой функции. Каждый должен быть[`Feature`](../../feature) , ан[`Option`](../../option) или[`Property`](../../property) экземпляр.
 
 ```csharp
 public void Add(params IFeatureItem[] items)

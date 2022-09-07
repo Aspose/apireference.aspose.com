@@ -1,14 +1,14 @@
 ---
 title: FillArc
 second_title: Aspose.Page for .NET API 参考
-description: 填充圆弧
+description: 填充弧线
 type: docs
 weight: 310
 url: /zh/net/aspose.page/device/fillarc/
 ---
 ## Device.FillArc method
 
-填充圆弧。
+填充弧线。
 
 ```csharp
 public virtual void FillArc(double x, double y, double width, double height, double startAngle, 

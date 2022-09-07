@@ -11,16 +11,16 @@ url: /ru/net/aspose.page.xps.xpsmetadata/jobprintticket/jobprintticket/
 Создает экземпляр билета печати на уровне задания.
 
 ```csharp
-public JobPrintTicket(params IPrintTicketItem[] items)
+public JobPrintTicket(params IJobPrintTicketItem[] items)
 ```
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| items | IPrintTicketItem[] | Произвольный массив[`IPrintTicketItem`](../../iprintticketitem)объекты. Каждый может быть[`Feature`](../../feature),[`ParameterInit`](../../parameterinit)или[`Property`](../../property)object. |
+| items | IJobPrintTicketItem[] | Произвольный массив[`IJobPrintTicketItem`](../../ijobprintticketitem) instances. Каждый может быть[`Feature`](../../feature) , а[`ParameterInit`](../../parameterinit) или[`Property`](../../property) пример. |
 
 ### Смотрите также
 
-* interface [IPrintTicketItem](../../iprintticketitem)
+* interface [IJobPrintTicketItem](../../ijobprintticketitem)
 * class [JobPrintTicket](../../jobprintticket)
 * пространство имен [Aspose.Page.XPS.XpsMetadata](../../jobprintticket)
 * сборка [Aspose.Page](../../../)

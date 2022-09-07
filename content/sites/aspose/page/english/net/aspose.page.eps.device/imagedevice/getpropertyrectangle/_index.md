@@ -1,9 +1,9 @@
 ---
 title: GetPropertyRectangle
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Gets a value of rectangle property.
 type: docs
-weight: 310
+weight: 300
 url: /net/aspose.page.eps.device/imagedevice/getpropertyrectangle/
 ---
 ## ImageDevice.GetPropertyRectangle method

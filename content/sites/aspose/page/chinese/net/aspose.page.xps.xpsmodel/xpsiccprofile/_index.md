@@ -3,7 +3,7 @@ title: XpsIccProfile
 second_title: Aspose.Page for .NET API 参考
 description: 封装 ICC 配置文件资源的类
 type: docs
-weight: 1050
+weight: 3090
 url: /zh/net/aspose.page.xps.xpsmodel/xpsiccprofile/
 ---
 ## XpsIccProfile class

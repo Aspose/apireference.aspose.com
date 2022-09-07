@@ -1,17 +1,37 @@
 ---
 title: Property
 second_title: Справочник по Aspose.Page для .NET API
-description: Класс реализующий свойство билета печати.
+description: Класс реализующий общий PrintTicket . Базовый класс для всех свойств определенных схемой. A элемент объявляет устройство форматирование задания или другое соответствующее свойство  имя которого задается его атрибутом имени. АValue./value элемент используется для присвоения значения. А может быть сложным возможно содержать несколько подсвойств. Подсвойства также представлены элементы. https//docs.microsoft.com/enus/windows/win32/printdocs/property
 type: docs
-weight: 730
+weight: 2750
 url: /ru/net/aspose.page.xps.xpsmetadata/property/
 ---
 ## Property class
 
-Класс, реализующий свойство билета печати.
+Класс, реализующий общий PrintTicket . Базовый класс для всех свойств, определенных схемой. A элемент объявляет устройство, форматирование задания или другое соответствующее свойство , имя которого задается его атрибутом имени. А[`Value`](../value) элемент используется для присвоения значения. А может быть сложным, возможно, содержать несколько подсвойств. Подсвойства также представлены элементы. https://docs.microsoft.com/en-us/windows/win32/printdocs/property
 
 ```csharp
-public class Property : IEnumerable<IPropertyItem>, IFeatureItem, IOptionItem, IPrintTicketItem, 
+Property
+```
+
+```csharp
+Property
+```
+
+```csharp
+Property
+```
+
+```csharp
+Property
+```
+
+```csharp
+Property
+```
+
+```csharp
+public class Property : CompositePrintTicketElement, IFeatureItem, IOptionItem, IPrintTicketItem, 
     IPropertyItem, IScoredPropertyItem
 ```
 
@@ -19,27 +39,22 @@ public class Property : IEnumerable<IPropertyItem>, IFeatureItem, IOptionItem, I
 
 | Имя | Описание |
 | --- | --- |
-| [Property](property)(string, params IPropertyItem[]) | Создает общий экземпляр свойства билета печати. |
+| [Property](property#constructor)(string, Property, params IPropertyItem[]) | Создает новый экземпляр. |
+| [Property](property#constructor_1)(string, Value, params IPropertyItem[]) | Создает новый экземпляр. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [Name](../../aspose.page.xps.xpsmetadata/property/name) { get; } | Возвращает имя свойства. |
-
-## Методы
-
-| Имя | Описание |
-| --- | --- |
-| [GetEnumerator](../../aspose.page.xps.xpsmetadata/property/getenumerator)() | Реализация интерфейсаIEnumerable. |
-| override [ToString](../../aspose.page.xps.xpsmetadata/property/tostring)() | Возвращает строковое представление. |
+| [Name](../../aspose.page.xps.xpsmetadata/printticketelement/name) { get; } | Получает имя элемента. |
 
 ### Смотрите также
 
-* interface [IPropertyItem](../ipropertyitem)
+* class [CompositePrintTicketElement](../compositeprintticketelement)
 * interface [IFeatureItem](../ifeatureitem)
 * interface [IOptionItem](../ioptionitem)
 * interface [IPrintTicketItem](../iprintticketitem)
+* interface [IPropertyItem](../ipropertyitem)
 * interface [IScoredPropertyItem](../iscoredpropertyitem)
 * пространство имен [Aspose.Page.XPS.XpsMetadata](../../aspose.page.xps.xpsmetadata)
 * сборка [Aspose.Page](../../)

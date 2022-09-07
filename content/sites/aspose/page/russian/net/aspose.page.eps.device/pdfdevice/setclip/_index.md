@@ -3,7 +3,7 @@ title: SetClip
 second_title: Справочник по Aspose.Page для .NET API
 description: Определяет клип устройства.
 type: docs
-weight: 240
+weight: 230
 url: /ru/net/aspose.page.eps.device/pdfdevice/setclip/
 ---
 ## PdfDevice.SetClip method

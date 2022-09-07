@@ -1,33 +1,29 @@
 ---
 title: Value
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: The base class that incapsulates a Property./property or a ScoredProperty./scoredproperty value in a PrintTicket document. A Value element associates a literal with a type. https//docs.microsoft.com/enus/windows/win32/printdocs/value
 type: docs
-weight: 770
+weight: 2870
 url: /net/aspose.page.xps.xpsmetadata/value/
 ---
 ## Value class
 
-Class implementing print ticket property value.
+The base class that incapsulates a [`Property`](../property) or a [`ScoredProperty`](../scoredproperty) value in a PrintTicket document. A Value element associates a literal with a type. https://docs.microsoft.com/en-us/windows/win32/printdocs/value
 
 ```csharp
-public class Value : IPropertyItem, IScoredPropertyItem
+public class Value : PrintTicketElement, IPropertyItem, IScoredPropertyItem
 ```
 
-## Constructors
+## Properties
 
 | Name | Description |
 | --- | --- |
-| [Value](value)(ValueType, string) | Creates print ticket property value. |
-
-## Methods
-
-| Name | Description |
-| --- | --- |
-| override [ToString](../../aspose.page.xps.xpsmetadata/value/tostring)() | Returns the string representation. |
+| [Name](../../aspose.page.xps.xpsmetadata/printticketelement/name) { get; } | Gets the element name. |
+| [ValueString](../../aspose.page.xps.xpsmetadata/value/valuestring) { get; } | Gets the value as string. |
 
 ### See Also
 
+* class [PrintTicketElement](../printticketelement)
 * interface [IPropertyItem](../ipropertyitem)
 * interface [IScoredPropertyItem](../iscoredpropertyitem)
 * namespace [Aspose.Page.XPS.XpsMetadata](../../aspose.page.xps.xpsmetadata)

@@ -1,7 +1,7 @@
 ---
 title: Clone
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Clones this linear gradient brush.
 type: docs
 weight: 30
 url: /net/aspose.page.xps.xpsmodel/xpslineargradientbrush/clone/

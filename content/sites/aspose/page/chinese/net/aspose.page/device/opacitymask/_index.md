@@ -1,14 +1,14 @@
 ---
 title: OpacityMask
 second_title: Aspose.Page for .NET API 参考
-description: 返回或指定当前的不透明蒙版
+description: 返回或指定当前的不透明度掩码
 type: docs
 weight: 90
 url: /zh/net/aspose.page/device/opacitymask/
 ---
 ## Device.OpacityMask property
 
-返回或指定当前的不透明蒙版。
+返回或指定当前的不透明度掩码。
 
 ```csharp
 public virtual Brush OpacityMask { get; set; }

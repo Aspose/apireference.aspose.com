@@ -16,7 +16,7 @@ public XpsLinearGradientBrush Clone()
 
 ### 返回值
 
-克隆此线性渐变画笔。
+克隆这个线性渐变画笔。
 
 ### 也可以看看
 

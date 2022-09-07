@@ -1,7 +1,7 @@
 ---
 title: OpacityMask
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Returns/sets the brush specifying a mask of alpha values that is applied to the element in the same fashion as the Opacity attribute but allowing different alpha values for different areas of the element.
 type: docs
 weight: 30
 url: /net/aspose.page.xps.xpsmodel/xpscontentelement/opacitymask/

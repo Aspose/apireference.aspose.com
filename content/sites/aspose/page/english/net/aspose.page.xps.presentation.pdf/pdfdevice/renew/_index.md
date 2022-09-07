@@ -1,7 +1,7 @@
 ---
 title: ReNew
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Sets the devices to the initial state.
 type: docs
 weight: 250
 url: /net/aspose.page.xps.presentation.pdf/pdfdevice/renew/

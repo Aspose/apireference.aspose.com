@@ -1,14 +1,14 @@
 ---
 title: Create
 second_title: Aspose.Page for .NET API 参考
-description: 基于此设备实例创建一个新的设备实例 写入此设备图形状态即创建ApsCanvas实例 具有相应的 RenderTransform 和 Clip 属性
+description: 基于此设备实例创建新的设备实例 写入此设备图形状态即创建ApsCanvasinstances 具有相应的 RenderTransform 和 Clip 属性
 type: docs
 weight: 150
 url: /zh/net/aspose.page.xps.presentation.image/imagedevice/create/
 ---
 ## ImageDevice.Create method
 
-基于此设备实例创建一个新的设备实例。 写入此设备图形状态，即创建ApsCanvas实例 具有相应的 RenderTransform 和 Clip 属性。
+基于此设备实例创建新的设备实例。 写入此设备图形状态，即创建ApsCanvasinstance(s) 具有相应的 RenderTransform 和 Clip 属性。
 
 ```csharp
 public override Device Create()

@@ -1,7 +1,7 @@
 ---
 title: AscentPoints
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Returns the cell ascent in points.
 type: docs
 weight: 20
 url: /net/aspose.page.font/drfont/ascentpoints/

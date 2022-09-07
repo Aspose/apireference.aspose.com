@@ -3,7 +3,7 @@ title: XpsLineJoin
 second_title: Aspose.Page for .NET API 参考
 description: Path 元素的 StrokeLineJoin 属性的有效值
 type: docs
-weight: 1090
+weight: 3130
 url: /zh/net/aspose.page.xps.xpsmodel/xpslinejoin/
 ---
 ## XpsLineJoin enumeration
@@ -19,7 +19,7 @@ public enum XpsLineJoin
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
 | Miter | `0` | 斜接线连接。 |
-| Bevel | `1` | 斜角线连接。 |
+| Bevel | `1` | 斜线连接。 |
 | Round | `2` | 圆线连接。 |
 
 ### 也可以看看

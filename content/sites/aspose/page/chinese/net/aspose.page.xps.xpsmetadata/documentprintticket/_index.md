@@ -1,14 +1,14 @@
 ---
 title: DocumentPrintTicket
 second_title: Aspose.Page for .NET API 参考
-description: 类封装文档级打印票的特性
+description: 封装文档级打印票的类
 type: docs
-weight: 450
+weight: 720
 url: /zh/net/aspose.page.xps.xpsmetadata/documentprintticket/
 ---
 ## DocumentPrintTicket class
 
-类封装文档级打印票的特性
+封装文档级打印票的类。
 
 ```csharp
 public sealed class DocumentPrintTicket : PrintTicket
@@ -18,14 +18,15 @@ public sealed class DocumentPrintTicket : PrintTicket
 
 | 姓名 | 描述 |
 | --- | --- |
-| [DocumentPrintTicket](documentprintticket)(params IPrintTicketItem[]) | 创建文档级打印票据实例。 |
+| [DocumentPrintTicket](documentprintticket)(params IDocumentPrintTicketItem[]) | 创建一个文档级打印票实例。 |
 
 ## 方法
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Add](../../aspose.page.xps.xpsmetadata/printticket/add)(params IPrintTicketItem[]) | 将项目列表添加到打印票项目列表的末尾。 每一个都可以是[`Feature`](../feature),[`Option`](../option)或[`Property`](../property)对象。 |
-| [GetEnumerator](../../aspose.page.xps.xpsmetadata/printticket/getenumerator)() | IEnumerable接口的实现。 |
+| [Add](../../aspose.page.xps.xpsmetadata/documentprintticket/add)(params IDocumentPrintTicketItem[]) | 将项目数组添加到此 PrintTicket 项目列表的末尾。 每一个都可能是一个[`Feature`](../feature)， 一个[`Option`](../option)或一个[`Property`](../property)实例. |
+| [GetEnumerator](../../aspose.page.xps.xpsmetadata/printticket/getenumerator)() | 返回打印票项目名称枚举器。 |
+| [Remove](../../aspose.page.xps.xpsmetadata/printticket/remove)(params string[]) | 从此 PrintTicket 项目列表中删除项目。 |
 
 ### 也可以看看
 

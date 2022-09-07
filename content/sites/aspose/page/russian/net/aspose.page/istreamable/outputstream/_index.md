@@ -1,14 +1,14 @@
 ---
 title: OutputStream
 second_title: Справочник по Aspose.Page для .NET API
-description: Получает или задает выходной поток.
+description: Получает или указывает выходной поток.
 type: docs
 weight: 10
 url: /ru/net/aspose.page/istreamable/outputstream/
 ---
 ## IStreamable.OutputStream property
 
-Получает или задает выходной поток.
+Получает или указывает выходной поток.
 
 ```csharp
 public Stream OutputStream { get; set; }

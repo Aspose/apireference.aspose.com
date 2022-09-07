@@ -1,9 +1,9 @@
 ---
 title: GetTransform
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Gets the current transform.
 type: docs
-weight: 330
+weight: 320
 url: /net/aspose.page.eps.device/imagedevice/gettransform/
 ---
 ## ImageDevice.GetTransform method

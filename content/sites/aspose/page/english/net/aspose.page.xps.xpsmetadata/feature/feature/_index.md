@@ -1,52 +1,52 @@
 ---
 title: Feature
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Creates a new PrintTicket feature instance.
 type: docs
 weight: 10
 url: /net/aspose.page.xps.xpsmetadata/feature/feature/
 ---
-## Feature constructor (1 of 2)
+## Feature(string, Option, params IFeatureItem[]) {#constructor_1}
 
-Creates common print ticket feature instance.
+Creates a new PrintTicket feature instance.
 
 ```csharp
-public Feature(string name, Option option, params Property[] properties)
+public Feature(string name, Option option, params IFeatureItem[] items)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| name | String | Feature name. |
-| option | Option | Mandatory [`Option`](../../option) object. |
-| properties | Property[] | Arbitrary array [`Property`](../../property) objects to insert before *option*. |
+| name | String | A feature name. |
+| option | Option | Required [`Option`](../../option) instance. |
+| items | IFeatureItem[] | An arbitrary array of [`IFeatureItem`](../../ifeatureitem) instances. Each one must be a [`Feature`](../../feature), an [`Option`](../../option) or a [`Property`](../../property) instance. |
 
 ### See Also
 
 * class [Option](../../option)
-* class [Property](../../property)
+* interface [IFeatureItem](../../ifeatureitem)
 * class [Feature](../../feature)
 * namespace [Aspose.Page.XPS.XpsMetadata](../../feature)
 * assembly [Aspose.Page](../../../)
 
 ---
 
-## Feature constructor (2 of 2)
+## Feature(string, Feature, params IFeatureItem[]) {#constructor}
 
-Creates common print ticket feature instance.
+Creates a new PrintTicket feature instance.
 
 ```csharp
-public Feature(string name, Feature feature, params Property[] properties)
+public Feature(string name, Feature feature, params IFeatureItem[] items)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| name | String | Feature name. |
-| feature | Feature | Mandatory [`Feature`](../../feature) object. |
-| properties | Property[] | Arbitrary array [`Property`](../../property) objects to insert before *feature*. |
+| name | String | A feature name. |
+| feature | Feature | Required [`Feature`](../../feature) instance. |
+| items | IFeatureItem[] | An arbitrary array of [`IFeatureItem`](../../ifeatureitem) instances. Each one must be a [`Feature`](../../feature), an [`Option`](../../option) or a [`Property`](../../property) instance. |
 
 ### See Also
 
-* class [Property](../../property)
+* interface [IFeatureItem](../../ifeatureitem)
 * class [Feature](../../feature)
 * namespace [Aspose.Page.XPS.XpsMetadata](../../feature)
 * assembly [Aspose.Page](../../../)

@@ -1,14 +1,14 @@
 ---
 title: Insert
 second_title: Справочник по Aspose.Page для .NET API
-description: Вставляет элемент в дочерний список этого холста в позицииindex.
+description: Вставляет элемент в дочерний список этого холста вindex позиция.
 type: docs
 weight: 70
 url: /ru/net/aspose.page.xps.xpsmodel/xpscanvas/insert/
 ---
 ## XpsCanvas.Insert&lt;T&gt; method
 
-Вставляет элемент в дочерний список этого холста в позиции*index*.
+Вставляет элемент в дочерний список этого холста в*index* позиция.
 
 ```csharp
 public T Insert<T>(int index, T element)

@@ -1,7 +1,7 @@
 ---
 title: Margins
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Initializes an instance of Margin class.
 type: docs
 weight: 10
 url: /net/aspose.page/margins/margins/

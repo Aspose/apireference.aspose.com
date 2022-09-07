@@ -1,33 +1,29 @@
 ---
 title: Value
 second_title: Справочник по Aspose.Page для .NET API
-description: Класс реализующий значение свойства билета печати.
+description: Базовый класс инкапсулирующийProperty./property илиScoredProperty./scoredproperty значение в документе PrintTicket. Элемент Value связывает литерал с типом. https//docs.microsoft.com/enus/windows/win32/printdocs/value
 type: docs
-weight: 770
+weight: 2870
 url: /ru/net/aspose.page.xps.xpsmetadata/value/
 ---
 ## Value class
 
-Класс, реализующий значение свойства билета печати.
+Базовый класс, инкапсулирующий[`Property`](../property) или[`ScoredProperty`](../scoredproperty) значение в документе PrintTicket. Элемент Value связывает литерал с типом. https://docs.microsoft.com/en-us/windows/win32/printdocs/value
 
 ```csharp
-public class Value : IPropertyItem, IScoredPropertyItem
+public class Value : PrintTicketElement, IPropertyItem, IScoredPropertyItem
 ```
 
-## Конструкторы
+## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [Value](value)(ValueType, string) | Создает значение свойства билета печати. |
-
-## Методы
-
-| Имя | Описание |
-| --- | --- |
-| override [ToString](../../aspose.page.xps.xpsmetadata/value/tostring)() | Возвращает строковое представление. |
+| [Name](../../aspose.page.xps.xpsmetadata/printticketelement/name) { get; } | Получает имя элемента. |
+| [ValueString](../../aspose.page.xps.xpsmetadata/value/valuestring) { get; } | Получает значение в виде строки. |
 
 ### Смотрите также
 
+* class [PrintTicketElement](../printticketelement)
 * interface [IPropertyItem](../ipropertyitem)
 * interface [IScoredPropertyItem](../iscoredpropertyitem)
 * пространство имен [Aspose.Page.XPS.XpsMetadata](../../aspose.page.xps.xpsmetadata)

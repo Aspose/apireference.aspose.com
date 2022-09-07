@@ -1,7 +1,7 @@
 ---
 title: EdgeMode
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Returns/sets the value that controls how edges of paths within the canvas are rendered.
 type: docs
 weight: 10
 url: /net/aspose.page.xps.xpsmodel/xpscanvas/edgemode/

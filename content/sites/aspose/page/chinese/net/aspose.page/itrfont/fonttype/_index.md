@@ -3,7 +3,7 @@ title: FontType
 second_title: Aspose.Page for .NET API 参考
 description: 返回 Adobe 分类中的字体类型
 type: docs
-weight: 60
+weight: 70
 url: /zh/net/aspose.page/itrfont/fonttype/
 ---
 ## ITrFont.FontType property

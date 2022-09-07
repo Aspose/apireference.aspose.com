@@ -3,7 +3,7 @@ title: TRANSPARENT
 second_title: Справочник по Aspose.Page для .NET API
 description: Ключ свойства Прозрачный.
 type: docs
-weight: 480
+weight: 470
 url: /ru/net/aspose.page.eps.device/pdfdevice/transparent/
 ---
 ## PdfDevice.TRANSPARENT field

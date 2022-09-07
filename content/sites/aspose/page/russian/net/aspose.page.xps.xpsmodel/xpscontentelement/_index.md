@@ -1,14 +1,14 @@
 ---
 title: XpsContentElement
 second_title: Справочник по Aspose.Page для .NET API
-description: Инкапсулирует функции элементов содержимого XPSCanvas Path и Glyphs.
+description: Инкапсулирует функции элементов содержимого XPS Canvas Path и Glyphs.
 type: docs
-weight: 900
+weight: 2940
 url: /ru/net/aspose.page.xps.xpsmodel/xpscontentelement/
 ---
 ## XpsContentElement class
 
-Инкапсулирует функции элементов содержимого XPS:Canvas, Path и Glyphs.
+Инкапсулирует функции элементов содержимого XPS: Canvas, Path и Glyphs.
 
 ```csharp
 public abstract class XpsContentElement : XpsHyperlinkElement
@@ -18,19 +18,19 @@ public abstract class XpsContentElement : XpsHyperlinkElement
 
 | Имя | Описание |
 | --- | --- |
-| [Clip](../../aspose.page.xps.xpsmodel/xpscontentelement/clip) { get; set; } | Возвращает/устанавливает экземпляр геометрии пути, ограничивающий визуализируемую область элемента. |
+| [Clip](../../aspose.page.xps.xpsmodel/xpscontentelement/clip) { get; set; } | Возвращает/задает экземпляр геометрии пути, ограничивающий визуализируемую область элемента. |
 | [Count](../../aspose.page.xps.xpsmodel/xpselement/count) { get; } | Возвращает количество дочерних элементов. |
-| [HyperlinkTarget](../../aspose.page.xps.xpsmodel/xpshyperlinkelement/hyperlinktarget) { get; set; } | Возвращает/устанавливает целевой объект гиперссылки. |
-| [Item](../../aspose.page.xps.xpsmodel/xpselement/item) { get; } | Предоставляет доступ к дочерним элементам по индексу*i*. |
+| [HyperlinkTarget](../../aspose.page.xps.xpsmodel/xpshyperlinkelement/hyperlinktarget) { get; set; } | Возвращает/задает целевой объект гиперссылки. |
+| [Item](../../aspose.page.xps.xpsmodel/xpselement/item) { get; } | Предоставляет доступ к дочерним элементам по индексу*i* . |
 | [Opacity](../../aspose.page.xps.xpsmodel/xpscontentelement/opacity) { get; set; } | Возвращает/устанавливает значение, определяющее равномерную прозрачность элемента. |
-| [OpacityMask](../../aspose.page.xps.xpsmodel/xpscontentelement/opacitymask) { get; set; } | Возвращает/задает кисть, задающую маску альфа-значений , которая применяется к элементу таким же образом, как атрибут непрозрачности, но допускает разные значения альфа для разных областей элемента. |
-| [RenderTransform](../../aspose.page.xps.xpsmodel/xpscontentelement/rendertransform) { get; set; } | Возвращает/задает матрицу аффинного преобразования, устанавливающую новую систему координат для всех атрибутов элемента и для всех дочерних элементов (если они есть). |
+| [OpacityMask](../../aspose.page.xps.xpsmodel/xpscontentelement/opacitymask) { get; set; } | Возвращает/задает кисть, задающую маску альфа-значений , которая применяется к элементу таким же образом, как атрибут непрозрачности, , но допускает разные значения альфа-канала для разных областей элемента. |
+| [RenderTransform](../../aspose.page.xps.xpsmodel/xpscontentelement/rendertransform) { get; set; } | Возвращает/задает матрицу аффинного преобразования, устанавливающую новую координатную рамку для всех атрибутов элемента и для всех дочерних элементов (если есть). |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| [GetEnumerator](../../aspose.page.xps.xpsmodel/xpselement/getenumerator)() | Реализация интерфейсаIEnumerable. |
+| [GetEnumerator](../../aspose.page.xps.xpsmodel/xpselement/getenumerator)() | РеализацияIEnumerable интерфейс. |
 
 ### Смотрите также
 

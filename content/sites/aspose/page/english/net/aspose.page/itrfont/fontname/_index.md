@@ -1,9 +1,9 @@
 ---
 title: FontName
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Returns font name.
 type: docs
-weight: 50
+weight: 60
 url: /net/aspose.page/itrfont/fontname/
 ---
 ## ITrFont.FontName property

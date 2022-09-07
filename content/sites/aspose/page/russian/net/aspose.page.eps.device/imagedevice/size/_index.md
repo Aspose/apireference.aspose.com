@@ -3,7 +3,7 @@ title: Size
 second_title: Справочник по Aspose.Page для .NET API
 description: Возвращает или указывает размер страницы.
 type: docs
-weight: 140
+weight: 130
 url: /ru/net/aspose.page.eps.device/imagedevice/size/
 ---
 ## ImageDevice.Size property

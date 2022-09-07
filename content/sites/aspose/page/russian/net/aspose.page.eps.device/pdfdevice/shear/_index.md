@@ -1,14 +1,14 @@
 ---
 title: Shear
 second_title: Справочник по Aspose.Page для .NET API
-description: Срезает текущую матрицу преобразования. Вызывает writeTransformпреобразование.
+description: Срезает текущую матрицу преобразования. Вызывает writeTransformTransform.
 type: docs
-weight: 260
+weight: 250
 url: /ru/net/aspose.page.eps.device/pdfdevice/shear/
 ---
 ## PdfDevice.Shear method
 
-Срезает текущую матрицу преобразования. Вызывает writeTransform(преобразование).
+Срезает текущую матрицу преобразования. Вызывает writeTransform(Transform).
 
 ```csharp
 public override void Shear(double shx, double shy)

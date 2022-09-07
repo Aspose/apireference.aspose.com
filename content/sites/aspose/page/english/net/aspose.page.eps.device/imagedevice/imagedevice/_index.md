@@ -1,12 +1,12 @@
 ---
 title: ImageDevice
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Initializes new instance of ImageDeviceaspose.page.eps.device/imagedevice.
 type: docs
 weight: 10
 url: /net/aspose.page.eps.device/imagedevice/imagedevice/
 ---
-## ImageDevice constructor (1 of 4)
+## ImageDevice() {#constructor}
 
 Initializes new instance of [`ImageDevice`](../../imagedevice).
 
@@ -22,7 +22,7 @@ public ImageDevice()
 
 ---
 
-## ImageDevice constructor (2 of 4)
+## ImageDevice(Size) {#constructor_2}
 
 Initializes new instance of [`ImageDevice`](../../imagedevice) with specified size of a page.
 
@@ -42,7 +42,7 @@ public ImageDevice(Size size)
 
 ---
 
-## ImageDevice constructor (3 of 4)
+## ImageDevice(ImageFormat) {#constructor_1}
 
 Initializes new instance of [`ImageDevice`](../../imagedevice) with specified image format.
 
@@ -62,7 +62,7 @@ public ImageDevice(ImageFormat imageFormat)
 
 ---
 
-## ImageDevice constructor (4 of 4)
+## ImageDevice(Size, ImageFormat) {#constructor_3}
 
 Initializes new instance of [`ImageDevice`](../../imagedevice) with specified size of a page and image format.
 

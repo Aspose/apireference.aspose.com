@@ -3,7 +3,7 @@ title: XpsStyleSimulations
 second_title: Справочник по Aspose.Page для .NET API
 description: Допустимые значения свойства StyleSimulations элемента Glyphs.
 type: docs
-weight: 1270
+weight: 3310
 url: /ru/net/aspose.page.xps.xpsmodel/xpsstylesimulations/
 ---
 ## XpsStyleSimulations enumeration
@@ -18,10 +18,10 @@ public enum XpsStyleSimulations
 
 | Имя | Ценность | Описание |
 | --- | --- | --- |
-| None | `0` | Без имитации стиля |
-| ItalicSimulation | `1` | Моделирование курсивом |
+| None | `0` | Без моделирования стиля |
+| ItalicSimulation | `1` | Курсив, моделирование |
 | BoldSimulation | `2` | Смелая симуляция |
-| BoldItalicSimulation | `3` | Моделирование полужирного курсива |
+| BoldItalicSimulation | `3` | Жирный курсив, имитация |
 
 ### Смотрите также
 

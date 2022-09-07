@@ -1,9 +1,9 @@
 ---
 title: PsDocument
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: This class encapsulates PS/EPS documents.
 type: docs
-weight: 90
+weight: 100
 url: /net/aspose.page.eps/psdocument/
 ---
 ## PsDocument class
@@ -32,8 +32,12 @@ public sealed class PsDocument : Document
 | --- | --- |
 | [GetXmpMetadata](../../aspose.page.eps/psdocument/getxmpmetadata)() | Reads PS/EPS file and extracts XmpMetdata if it already exists or add new one if it doesn't exist. |
 | [Merge](../../aspose.page.eps/psdocument/merge)(string[], Device, SaveOptions) | Merges PS/EPS files to a device. |
-| [Save](../../aspose.page.eps/psdocument/save)(Stream) | Saves given [`PsDocument`](../psdocument) as EPS file. This method is used only after updating XMP metadata. It saves initial EPS file with updated existing metadata or new one created while calling GetMetadata method. In the last case all necessary PostScript code and EPS comments are added. |
-| override [Save](../../aspose.page.eps/psdocument/save)(Device, SaveOptions) | Saves PS/EPS file to a device. |
+| [Save](../../aspose.page.eps/psdocument/save#save_1)(Stream) | Saves given [`PsDocument`](../psdocument) as EPS file. This method is used only after updating XMP metadata. It saves initial EPS file with updated existing metadata or new one created while calling GetMetadata method. In the last case all necessary PostScript code and EPS comments are added. |
+| override [Save](../../aspose.page.eps/psdocument/save#save)(Device, SaveOptions) | Saves PS/EPS file to a device. |
+| static [SaveImageAsEps](../../aspose.page.eps/psdocument/saveimageaseps#saveimageaseps)(Bitmap, Stream, PsSaveOptions) | Saves Bitmap object to EPS output stream. |
+| static [SaveImageAsEps](../../aspose.page.eps/psdocument/saveimageaseps#saveimageaseps_1)(Bitmap, string, PsSaveOptions) | Saves Bitmap object to EPS file. |
+| static [SaveImageAsEps](../../aspose.page.eps/psdocument/saveimageaseps#saveimageaseps_2)(Stream, Stream, PsSaveOptions) | Saves PNG/JPEG/TIFF/BMP/GIF/EMF image from input stream to EPS output stream. |
+| static [SaveImageAsEps](../../aspose.page.eps/psdocument/saveimageaseps#saveimageaseps_3)(string, string, PsSaveOptions) | Saves PNG/JPEG/TIFF/BMP/GIF/EMF image from file to EPS file. |
 
 ### See Also
 

@@ -3,7 +3,7 @@ title: XmpField
 second_title: Aspose.Page for .NET API 参考
 description: 表示 XMP 字段
 type: docs
-weight: 100
+weight: 110
 url: /zh/net/aspose.page.eps.xmp/xmpfield/
 ---
 ## XmpField class
@@ -21,7 +21,7 @@ public class XmpField
 | static [Empty](../../aspose.page.eps.xmp/xmpfield/empty) { get; } | 获取一个空的 xmp 字段。 |
 | static [Lang](../../aspose.page.eps.xmp/xmpfield/lang) { get; } | 获取 xml:lang 限定符。 |
 | [FieldType](../../aspose.page.eps.xmp/xmpfield/fieldtype) { get; } | 获取字段的类型。 |
-| [IsEmpty](../../aspose.page.eps.xmp/xmpfield/isempty) { get; } | 获取一个值，该值指示此实例是否为空。 |
+| [IsEmpty](../../aspose.page.eps.xmp/xmpfield/isempty) { get; } | 获取一个指示此实例是否为空的值。 |
 | [LocalName](../../aspose.page.eps.xmp/xmpfield/localname) { get; set; } | 获取或设置本地名称。 |
 | [Name](../../aspose.page.eps.xmp/xmpfield/name) { get; } | 获取名称。 |
 | [NamespaceUri](../../aspose.page.eps.xmp/xmpfield/namespaceuri) { get; set; } | 获取命名空间 URI。 |
@@ -34,10 +34,10 @@ public class XmpField
 | --- | --- |
 | override [Equals](../../aspose.page.eps.xmp/xmpfield/equals)(object) | 表示此实例与指定对象是否相等。 |
 | override [GetHashCode](../../aspose.page.eps.xmp/xmpfield/gethashcode)() | 返回此实例的哈希码。 |
-| [ToArray](../../aspose.page.eps.xmp/xmpfield/toarray)() | 以数组形式获取值。 |
-| [ToStructure](../../aspose.page.eps.xmp/xmpfield/tostructure)() | 获取值作为结构。 |
-| [operator ==](../../aspose.page.eps.xmp/xmpfield/op_equality) | 实现运算符 ==。 |
-| [operator !=](../../aspose.page.eps.xmp/xmpfield/op_inequality) | 实现运算符 !=。 |
+| [ToArray](../../aspose.page.eps.xmp/xmpfield/toarray)() | 以数组的形式获取值。 |
+| [ToStructure](../../aspose.page.eps.xmp/xmpfield/tostructure)() | 以结构形式获取值。 |
+| [operator ==](../../aspose.page.eps.xmp/xmpfield/op_equality) | 实现运算符 ==. |
+| [operator !=](../../aspose.page.eps.xmp/xmpfield/op_inequality) | 实现运算符 !=. |
 
 ### 也可以看看
 

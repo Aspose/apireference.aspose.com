@@ -1,12 +1,12 @@
 ---
 title: CreateRadialGradientBrush
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Creates a new radial gradient brush.
 type: docs
 weight: 330
 url: /net/aspose.page.xps/xpsdocument/createradialgradientbrush/
 ---
-## XpsDocument.CreateRadialGradientBrush method (1 of 2)
+## CreateRadialGradientBrush(List&lt;XpsGradientStop&gt;, PointF, PointF, float, float) {#createradialgradientbrush}
 
 Creates a new radial gradient brush.
 
@@ -37,7 +37,7 @@ New radial gradient brush.
 
 ---
 
-## XpsDocument.CreateRadialGradientBrush method (2 of 2)
+## CreateRadialGradientBrush(PointF, PointF, float, float) {#createradialgradientbrush_1}
 
 Creates a new radial gradient brush.
 

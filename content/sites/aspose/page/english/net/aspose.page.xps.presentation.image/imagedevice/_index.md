@@ -1,9 +1,9 @@
 ---
 title: ImageDevice
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Class incapsulating image composing device.
 type: docs
-weight: 270
+weight: 290
 url: /net/aspose.page.xps.presentation.image/imagedevice/
 ---
 ## ImageDevice class
@@ -18,8 +18,8 @@ public class ImageDevice : Device, IMultiPageDevice
 
 | Name | Description |
 | --- | --- |
-| [ImageDevice](imagedevice)() | Creates the new instance. |
-| [ImageDevice](imagedevice)(Size) | Creates the new instance with specified media size. |
+| [ImageDevice](imagedevice#constructor)() | Creates the new instance. |
+| [ImageDevice](imagedevice#constructor_1)(Size) | Creates the new instance with specified media size. |
 
 ## Properties
 
@@ -83,12 +83,12 @@ public class ImageDevice : Device, IMultiPageDevice
 | virtual [InitClip](../../aspose.page/device/initclip)() | Initializes clip of the device. |
 | [InitPageNumbers](../../aspose.page.xps.presentation.image/imagedevice/initpagenumbers)() | Initializes numbers of pages to output. |
 | [IsProperty](../../aspose.page/device/isproperty)(string) | Gets a value of boolean property. |
-| virtual [OpenPage](../../aspose.page.xps.presentation.image/imagedevice/openpage)(string) | Starts a new page with the specifies title. |
-| virtual [OpenPage](../../aspose.page.xps.presentation.image/imagedevice/openpage)(float, float) | Starts a new page with the specified width and height. |
+| virtual [OpenPage](../../aspose.page.xps.presentation.image/imagedevice/openpage#openpage_1)(string) | Starts a new page with the specifies title. |
+| virtual [OpenPage](../../aspose.page.xps.presentation.image/imagedevice/openpage#openpage)(float, float) | Starts a new page with the specified width and height. |
 | virtual [OpenPartition](../../aspose.page.xps.presentation.image/imagedevice/openpartition)() | Starts a new document partition. |
 | override [ReNew](../../aspose.page.xps.presentation.image/imagedevice/renew)() | Sets the devices to the initial state. |
 | override [Reset](../../aspose.page.xps.presentation.image/imagedevice/reset)() | Resets the device. |
-| override [Rotate](../../aspose.page.xps.presentation.image/imagedevice/rotate)(double) | Applies a clockwise rotation about the origin to the current transformation matrix. |
+| override [Rotate](../../aspose.page.xps.presentation.image/imagedevice/rotate#rotate)(double) | Applies a clockwise rotation about the origin to the current transformation matrix. |
 | virtual [Rotate](../../aspose.page/device/rotate)(double, double, double) | Rotate the current transformation matrix around a point. |
 | override [Scale](../../aspose.page.xps.presentation.image/imagedevice/scale)(double, double) | Applies the specified scale vector to the current transformation matrix. |
 | override [SetClip](../../aspose.page.xps.presentation.image/imagedevice/setclip)(GraphicsPath) | Adds the specified path to the current clip path. |

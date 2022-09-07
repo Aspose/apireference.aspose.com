@@ -3,7 +3,7 @@ title: XpsPageLinkTarget
 second_title: Aspose.Page for .NET API 参考
 description: 封装页面超链接目标的类
 type: docs
-weight: 1140
+weight: 3180
 url: /zh/net/aspose.page.xps.xpsmodel/xpspagelinktarget/
 ---
 ## XpsPageLinkTarget class

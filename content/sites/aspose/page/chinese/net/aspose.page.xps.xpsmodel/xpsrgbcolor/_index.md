@@ -3,7 +3,7 @@ title: XpsRgbColor
 second_title: Aspose.Page for .NET API 参考
 description: 封装任何颜色空间sRGB 或 scRGB的 RGB 颜色
 type: docs
-weight: 1240
+weight: 3280
 url: /zh/net/aspose.page.xps.xpsmodel/xpsrgbcolor/
 ---
 ## XpsRgbColor class
@@ -18,7 +18,7 @@ public sealed class XpsRgbColor : XpsColor
 
 | 姓名 | 描述 |
 | --- | --- |
-| override [ToColor](../../aspose.page.xps.xpsmodel/xpsrgbcolor/tocolor)() | 获取 .NET 本机表示 RGB 颜色的便捷方法。 |
+| override [ToColor](../../aspose.page.xps.xpsmodel/xpsrgbcolor/tocolor)() | 获取 .NET 本机表示的 RGB 颜色的便捷方法。 |
 
 ### 也可以看看
 

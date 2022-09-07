@@ -21,7 +21,7 @@ public XpsPolyBezierSegment CreatePolyBezierSegment(PointF[] points, bool isStro
 
 ### Возвращаемое значение
 
-Новый сегмент кубической кривой Безье.
+Новый сегмент кубических кривых Безье.
 
 ### Смотрите также
 

@@ -1,14 +1,14 @@
 ---
 title: Reset
 second_title: Справочник по Aspose.Page для .NET API
-description: Сброс устройства в исходное состояние для страницы.
+description: Сбросить устройство в исходное состояние для страницы.
 type: docs
-weight: 390
+weight: 380
 url: /ru/net/aspose.page.eps.device/imagedevice/reset/
 ---
 ## ImageDevice.Reset method
 
-Сброс устройства в исходное состояние для страницы.
+Сбросить устройство в исходное состояние для страницы.
 
 ```csharp
 public override void Reset()

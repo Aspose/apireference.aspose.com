@@ -1,7 +1,7 @@
 ---
 title: DrawRect
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Draws a rectangle.
 type: docs
 weight: 260
 url: /net/aspose.page/device/drawrect/

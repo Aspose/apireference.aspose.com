@@ -1,9 +1,9 @@
 ---
 title: DrawString
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Draws a string at given point.
 type: docs
-weight: 130
+weight: 120
 url: /net/aspose.page.eps.device/pdfdevice/drawstring/
 ---
 ## PdfDevice.DrawString method

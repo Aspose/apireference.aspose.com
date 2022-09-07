@@ -1,7 +1,7 @@
 ---
 title: RadiusY
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Returns/sets the radius in the y dimension of the ellipse which defines the radial gradient.
 type: docs
 weight: 40
 url: /net/aspose.page.xps.xpsmodel/xpsradialgradientbrush/radiusy/

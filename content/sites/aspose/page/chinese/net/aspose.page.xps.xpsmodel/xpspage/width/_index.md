@@ -1,14 +1,14 @@
 ---
 title: Width
 second_title: Aspose.Page for .NET API 参考
-description: 返回/设置页面宽度以 有效坐标空间单位的实数表示
+description: 返回/设置页面宽度以有效坐标空间的 单位表示
 type: docs
 weight: 20
 url: /zh/net/aspose.page.xps.xpsmodel/xpspage/width/
 ---
 ## XpsPage.Width property
 
-返回/设置页面宽度，以 有效坐标空间单位的实数表示。
+返回/设置页面宽度，以有效坐标空间的 单位表示。
 
 ```csharp
 public float Width { get; set; }

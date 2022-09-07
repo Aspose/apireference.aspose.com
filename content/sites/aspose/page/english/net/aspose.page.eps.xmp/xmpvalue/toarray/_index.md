@@ -1,7 +1,7 @@
 ---
 title: ToArray
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Returns array.
 type: docs
 weight: 120
 url: /net/aspose.page.eps.xmp/xmpvalue/toarray/

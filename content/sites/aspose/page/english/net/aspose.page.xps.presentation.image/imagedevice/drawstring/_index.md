@@ -1,7 +1,7 @@
 ---
 title: DrawString
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Draws a string at the specified position.
 type: docs
 weight: 180
 url: /net/aspose.page.xps.presentation.image/imagedevice/drawstring/

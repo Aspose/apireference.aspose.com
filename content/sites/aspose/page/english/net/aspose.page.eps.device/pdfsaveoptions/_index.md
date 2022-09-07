@@ -1,7 +1,7 @@
 ---
 title: PdfSaveOptions
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: This class contains input and output streams and other options necessary for managing conversion process.
 type: docs
 weight: 70
 url: /net/aspose.page.eps.device/pdfsaveoptions/
@@ -18,8 +18,8 @@ public class PdfSaveOptions : SaveOptions
 
 | Name | Description |
 | --- | --- |
-| [PdfSaveOptions](pdfsaveoptions)() | Initializes a new instance of the [`PdfSaveOptions`](../pdfsaveoptions) class with default values for flags !:SuppressErrors (true) and !:Debug (false). |
-| [PdfSaveOptions](pdfsaveoptions)(bool) | Initializes a new instance of the [`PdfSaveOptions`](../pdfsaveoptions) class with default values for flag !:Debug (false). |
+| [PdfSaveOptions](pdfsaveoptions#constructor)() | Initializes a new instance of the [`PdfSaveOptions`](../pdfsaveoptions) class with default values for flags !:SuppressErrors (true) and !:Debug (false). |
+| [PdfSaveOptions](pdfsaveoptions#constructor_1)(bool) | Initializes a new instance of the [`PdfSaveOptions`](../pdfsaveoptions) class with default values for flag !:Debug (false). |
 
 ## Properties
 

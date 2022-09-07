@@ -20,8 +20,8 @@ public XpsGlyphs CreateGlyphs(string fontFamily, float fontRenderingEmSize, Font
 | fontFamily | String | Семейство шрифтов. |
 | fontRenderingEmSize | Single | Размер шрифта. |
 | fontStyle | FontStyle | Стиль шрифта. |
-| originX | Single | Начальная координата X глифов. |
-| originY | Single | Начальная координата Y глифов. |
+| originX | Single | Координата X начала координат глифов. |
+| originY | Single | Координата Y начала координат глифов. |
 | unicodeString | String | Строка для печати. |
 
 ### Возвращаемое значение
@@ -50,8 +50,8 @@ public XpsGlyphs CreateGlyphs(XpsFont font, float fontRenderingEmSize, float ori
 | --- | --- | --- |
 | font | XpsFont | Ресурс шрифта. |
 | fontRenderingEmSize | Single | Размер шрифта. |
-| originX | Single | Начальная координата X глифов. |
-| originY | Single | Начальная координата Y глифов. |
+| originX | Single | Координата X начала координат глифов. |
+| originY | Single | Координата Y начала координат глифов. |
 | unicodeString | String | Строка для печати. |
 
 ### Возвращаемое значение

@@ -1,7 +1,7 @@
 ---
 title: Image
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Returns image resource used to for the brush.
 type: docs
 weight: 10
 url: /net/aspose.page.xps.xpsmodel/xpsimagebrush/image/

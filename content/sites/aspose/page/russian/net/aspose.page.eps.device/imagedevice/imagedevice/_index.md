@@ -1,14 +1,14 @@
 ---
 title: ImageDevice
 second_title: Справочник по Aspose.Page для .NET API
-description: Инициализирует новый экземплярImageDeviceaspose.page.eps.device/imagedevice.
+description: Инициализирует новый экземплярImageDeviceaspose.page.eps.device/imagedevice .
 type: docs
 weight: 10
 url: /ru/net/aspose.page.eps.device/imagedevice/imagedevice/
 ---
 ## ImageDevice() {#constructor}
 
-Инициализирует новый экземпляр[`ImageDevice`](../../imagedevice).
+Инициализирует новый экземпляр[`ImageDevice`](../../imagedevice) .
 
 ```csharp
 public ImageDevice()
@@ -24,7 +24,7 @@ public ImageDevice()
 
 ## ImageDevice(Size) {#constructor_2}
 
-Инициализирует новый экземпляр[`ImageDevice`](../../imagedevice)с указанным размером страницы.
+Инициализирует новый экземпляр[`ImageDevice`](../../imagedevice) с указанным размером страницы.
 
 ```csharp
 public ImageDevice(Size size)
@@ -44,7 +44,7 @@ public ImageDevice(Size size)
 
 ## ImageDevice(ImageFormat) {#constructor_1}
 
-Инициализирует новый экземпляр[`ImageDevice`](../../imagedevice)с указанным форматом изображения.
+Инициализирует новый экземпляр[`ImageDevice`](../../imagedevice) с указанным форматом изображения.
 
 ```csharp
 public ImageDevice(ImageFormat imageFormat)

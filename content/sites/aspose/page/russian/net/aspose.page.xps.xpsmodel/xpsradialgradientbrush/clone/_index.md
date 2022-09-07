@@ -1,14 +1,14 @@
 ---
 title: Clone
 second_title: Справочник по Aspose.Page для .NET API
-description: Клонирует эту радиальную градиентную кисть.
+description: Клонирует эту кисть с радиальным градиентом.
 type: docs
 weight: 50
 url: /ru/net/aspose.page.xps.xpsmodel/xpsradialgradientbrush/clone/
 ---
 ## XpsRadialGradientBrush.Clone method
 
-Клонирует эту радиальную градиентную кисть.
+Клонирует эту кисть с радиальным градиентом.
 
 ```csharp
 public XpsRadialGradientBrush Clone()

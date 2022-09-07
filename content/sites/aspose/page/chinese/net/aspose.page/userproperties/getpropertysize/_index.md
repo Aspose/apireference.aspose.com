@@ -1,14 +1,14 @@
 ---
 title: GetPropertySize
 second_title: Aspose.Page for .NET API 参考
-description: 获取 size 属性值
+description: 获取大小属性值
 type: docs
 weight: 100
 url: /zh/net/aspose.page/userproperties/getpropertysize/
 ---
 ## GetPropertySize(string) {#getpropertysize}
 
-获取 size 属性值。
+获取大小属性值。
 
 ```csharp
 public virtual Size GetPropertySize(string key)
@@ -16,11 +16,11 @@ public virtual Size GetPropertySize(string key)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| key | String | 属性名称。 |
+| key | String | 财产的名称。 |
 
 ### 返回值
 
-属性值。
+适当的价值。
 
 ### 也可以看看
 
@@ -32,7 +32,7 @@ public virtual Size GetPropertySize(string key)
 
 ## GetPropertySize(string, Size) {#getpropertysize_1}
 
-获取 size 属性值。如果请求的属性不存在，则返回提供的默认值。
+获取大小属性值。如果请求的属性不存在，则返回提供的默认值。
 
 ```csharp
 public virtual Size GetPropertySize(string key, Size def)
@@ -40,12 +40,12 @@ public virtual Size GetPropertySize(string key, Size def)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| key | String | 属性名称。 |
+| key | String | 财产的名称。 |
 | def | Size | 属性的默认值。 |
 
 ### 返回值
 
-属性值。
+适当的价值。
 
 ### 也可以看看
 

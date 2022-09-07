@@ -3,7 +3,7 @@ title: GetCharWidth
 second_title: Справочник по Aspose.Page для .NET API
 description: Возвращает ширину символа.
 type: docs
-weight: 130
+weight: 140
 url: /ru/net/aspose.page/itrfont/getcharwidth/
 ---
 ## ITrFont.GetCharWidth method
@@ -16,7 +16,7 @@ public float GetCharWidth(char charValue)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| charValue | Char | Символ. |
+| charValue | Char | Персонаж. |
 
 ### Возвращаемое значение
 

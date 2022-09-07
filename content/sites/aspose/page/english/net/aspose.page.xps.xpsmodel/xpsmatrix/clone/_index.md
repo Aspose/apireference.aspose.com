@@ -1,7 +1,7 @@
 ---
 title: Clone
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Clones this transformation matrix.
 type: docs
 weight: 80
 url: /net/aspose.page.xps.xpsmodel/xpsmatrix/clone/

@@ -1,7 +1,7 @@
 ---
 title: Translate
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Applies the specified translation vector to the current transformation matrix.
 type: docs
 weight: 340
 url: /net/aspose.page.xps.presentation.image/imagedevice/translate/

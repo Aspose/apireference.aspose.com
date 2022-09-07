@@ -1,7 +1,7 @@
 ---
 title: Value
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Gets the value.
 type: docs
 weight: 90
 url: /net/aspose.page.eps.xmp/xmpfield/value/

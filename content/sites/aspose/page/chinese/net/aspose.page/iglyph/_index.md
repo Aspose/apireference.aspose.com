@@ -3,7 +3,7 @@ title: IGlyph
 second_title: Aspose.Page for .NET API 参考
 description: 这个接口可以访问字形的主要参数
 type: docs
-weight: 160
+weight: 170
 url: /zh/net/aspose.page/iglyph/
 ---
 ## IGlyph interface
@@ -20,7 +20,7 @@ public interface IGlyph
 | --- | --- |
 | [AdvanceWidth](../../aspose.page/iglyph/advancewidth) { get; } | 返回字形的高级宽度。 |
 | [CharCode](../../aspose.page/iglyph/charcode) { get; } | 返回字形的字符代码。 |
-| [LeftSideBearing](../../aspose.page/iglyph/leftsidebearing) { get; } | 返回字形的左侧方位。 |
+| [LeftSideBearing](../../aspose.page/iglyph/leftsidebearing) { get; } | 返回字形的左侧方位角。 |
 
 ### 也可以看看
 

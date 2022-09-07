@@ -1,14 +1,14 @@
 ---
 title: OpacityMask
 second_title: Aspose.Page for .NET API 参考
-description: 获取/设置不透明蒙版的画笔遮罩适用于 Paint 或 Strike
+description: 获取/设置不透明蒙版的画笔遮罩适用于 Paint 或 Strike.
 type: docs
 weight: 70
 url: /zh/net/aspose.page.xps.presentation.pdf/pdfdevice/opacitymask/
 ---
 ## PdfDevice.OpacityMask property
 
-获取/设置不透明蒙版的画笔。遮罩适用于 Paint 或 Strike。
+获取/设置不透明蒙版的画笔。遮罩适用于 Paint 或 Strike.
 
 ```csharp
 public override Brush OpacityMask { get; set; }

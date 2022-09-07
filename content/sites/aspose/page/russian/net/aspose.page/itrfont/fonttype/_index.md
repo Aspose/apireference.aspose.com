@@ -3,7 +3,7 @@ title: FontType
 second_title: Справочник по Aspose.Page для .NET API
 description: Возвращает тип шрифта по классификации Adobe.
 type: docs
-weight: 60
+weight: 70
 url: /ru/net/aspose.page/itrfont/fonttype/
 ---
 ## ITrFont.FontType property

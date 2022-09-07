@@ -1,7 +1,7 @@
 ---
 title: IsFixedSize
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Checks if colleciton has fixed size.
 type: docs
 weight: 20
 url: /net/aspose.page.eps.xmp/xmpmetadata/isfixedsize/

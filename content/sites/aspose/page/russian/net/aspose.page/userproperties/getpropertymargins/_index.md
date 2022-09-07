@@ -20,7 +20,7 @@ public virtual Margins GetPropertyMargins(string key)
 
 ### Возвращаемое значение
 
-Значение свойства.
+Стоимость имущества.
 
 ### Смотрите также
 
@@ -46,7 +46,7 @@ public virtual Margins GetPropertyMargins(string key, Margins def)
 
 ### Возвращаемое значение
 
-Значение свойства.
+Стоимость имущества.
 
 ### Смотрите также
 

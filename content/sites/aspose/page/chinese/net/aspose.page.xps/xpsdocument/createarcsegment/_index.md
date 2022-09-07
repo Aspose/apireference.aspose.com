@@ -19,14 +19,14 @@ public XpsArcSegment CreateArcSegment(PointF point, SizeF size, float rotationAn
 | --- | --- | --- |
 | point | PointF | 椭圆弧的端点。 |
 | size | SizeF | 椭圆弧的 x 和 y 半径作为 x,y 对。 |
-| rotationAngle | Single | 指示椭圆相对于当前坐标系的旋转方式。 |
+| rotationAngle | Single | 指示椭圆如何相对于当前坐标系旋转。 |
 | isLargeArc | Boolean | 确定是否使用 180 或更大的扫描绘制弧。 |
 | sweepDirection | XpsSweepDirection | 绘制圆弧的方向。 |
-| isStroked | Boolean | 指定是否绘制此段路径的笔划。 |
+| isStroked | Boolean | 指定是否绘制此路径段的笔画。 |
 
 ### 返回值
 
-新椭圆弧段。
+新的椭圆弧段。
 
 ### 也可以看看
 

@@ -20,7 +20,7 @@ public virtual double GetPropertyDouble(string key)
 
 ### Возвращаемое значение
 
-Значение свойства.
+Стоимость имущества.
 
 ### Смотрите также
 
@@ -45,7 +45,7 @@ public virtual double GetPropertyDouble(string key, double def)
 
 ### Возвращаемое значение
 
-Значение свойства.
+Стоимость имущества.
 
 ### Смотрите также
 

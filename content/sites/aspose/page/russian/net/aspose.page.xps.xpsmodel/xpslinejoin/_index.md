@@ -3,7 +3,7 @@ title: XpsLineJoin
 second_title: Справочник по Aspose.Page для .NET API
 description: Допустимые значения свойства StrokeLineJoin элемента Path.
 type: docs
-weight: 1090
+weight: 3130
 url: /ru/net/aspose.page.xps.xpsmodel/xpslinejoin/
 ---
 ## XpsLineJoin enumeration
@@ -19,8 +19,8 @@ public enum XpsLineJoin
 | Имя | Ценность | Описание |
 | --- | --- | --- |
 | Miter | `0` | Соединение линии под углом. |
-| Bevel | `1` | Соединение по линии скоса. |
-| Round | `2` | Соединение по круговой линии. |
+| Bevel | `1` | Соединение линии скоса. |
+| Round | `2` | Круговая линия соединения. |
 
 ### Смотрите также
 

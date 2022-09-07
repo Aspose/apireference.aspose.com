@@ -16,7 +16,7 @@ public XpsGradientStop CreateGradientStop(XpsColor color, float offset)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| color | XpsColor | Конечный цвет градиента. |
+| color | XpsColor | Цвет остановки градиента. |
 | offset | Single | Смещение градиента. |
 
 ### Возвращаемое значение
@@ -43,7 +43,7 @@ public XpsGradientStop CreateGradientStop(Color color, float offset)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| color | Color | Конечный цвет градиента. |
+| color | Color | Цвет остановки градиента. |
 | offset | Single | Смещение градиента. |
 
 ### Возвращаемое значение

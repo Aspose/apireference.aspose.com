@@ -1,14 +1,14 @@
 ---
 title: JobPrintTicket
 second_title: Справочник по Aspose.Page для .NET API
-description: Возвращает/устанавливает билет задания печати документа
+description: Возвращает/устанавливает задание печати документа ticket
 type: docs
 weight: 50
 url: /ru/net/aspose.page.xps/xpsdocument/jobprintticket/
 ---
 ## XpsDocument.JobPrintTicket property
 
-Возвращает/устанавливает билет задания печати документа
+Возвращает/устанавливает задание печати документа ticket
 
 ```csharp
 public JobPrintTicket JobPrintTicket { get; set; }

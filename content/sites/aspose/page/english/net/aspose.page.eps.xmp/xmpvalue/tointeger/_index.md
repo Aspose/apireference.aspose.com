@@ -1,7 +1,7 @@
 ---
 title: ToInteger
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Converts to integer.
 type: docs
 weight: 170
 url: /net/aspose.page.eps.xmp/xmpvalue/tointeger/

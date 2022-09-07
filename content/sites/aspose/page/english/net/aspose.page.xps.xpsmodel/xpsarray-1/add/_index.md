@@ -1,7 +1,7 @@
 ---
 title: Add
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Adds a new object into array.
 type: docs
 weight: 30
 url: /net/aspose.page.xps.xpsmodel/xpsarray-1/add/

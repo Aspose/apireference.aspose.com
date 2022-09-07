@@ -1,14 +1,14 @@
 ---
 title: Skew
 second_title: Справочник по Aspose.Page для .NET API
-description: Применяет указанное косое преобразование к этой матрице.
+description: Применяет к этой матрице указанное косое преобразование.
 type: docs
 weight: 160
 url: /ru/net/aspose.page.xps.xpsmodel/xpsmatrix/skew/
 ---
 ## XpsMatrix.Skew method
 
-Применяет указанное косое преобразование к этой матрице.
+Применяет к этой матрице указанное косое преобразование.
 
 ```csharp
 public void Skew(double skewX, double skewY)
@@ -16,8 +16,8 @@ public void Skew(double skewX, double skewY)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| skewX | Double | Наклон x. |
-| skewY | Double | Наклон y. |
+| skewX | Double | Перекос х. |
+| skewY | Double | Перекос y. |
 
 ### Смотрите также
 

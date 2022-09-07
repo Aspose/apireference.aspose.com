@@ -1,7 +1,7 @@
 ---
 title: SaveOptions
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Initializes save options.
 type: docs
 weight: 90
 url: /net/aspose.page.xps.presentation.pdf/pdfdevice/saveoptions/

@@ -20,7 +20,7 @@ public virtual Color GetPropertyColor(string key)
 
 ### Возвращаемое значение
 
-Значение свойства.
+Стоимость имущества.
 
 ### Смотрите также
 
@@ -45,7 +45,7 @@ public virtual Color GetPropertyColor(string key, Color def)
 
 ### Возвращаемое значение
 
-Значение свойства.
+Стоимость имущества.
 
 ### Смотрите также
 

@@ -1,14 +1,14 @@
 ---
 title: InsertGlyphs
 second_title: Справочник по Aspose.Page для .NET API
-description: Вставляет новые глифы в список дочерних элементов этого холста в позицииindex.
+description: Вставляет новые глифы в дочерний список этого холста вindex позиция.
 type: docs
 weight: 90
 url: /ru/net/aspose.page.xps.xpsmodel/xpscanvas/insertglyphs/
 ---
 ## XpsCanvas.InsertGlyphs method
 
-Вставляет новые глифы в список дочерних элементов этого холста в позиции*index*.
+Вставляет новые глифы в дочерний список этого холста в*index* позиция.
 
 ```csharp
 public XpsGlyphs InsertGlyphs(int index, string fontFamily, float fontSize, FontStyle fontStyle, 
@@ -17,11 +17,11 @@ public XpsGlyphs InsertGlyphs(int index, string fontFamily, float fontSize, Font
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| index | Int32 | Позиция, в которую должны быть вставлены новые глифы. |
+| index | Int32 | Позиция, в которой должны быть вставлены новые глифы. |
 | fontFamily | String | Семейство шрифтов. |
 | fontSize | Single | Размер шрифта. |
 | fontStyle | FontStyle | Стиль шрифта. |
-| originX | Single | Начальная координата X глифов. |
+| originX | Single | Координата X начала координат глифов. |
 | originY | Single | Координата T начала координат глифов. |
 | unicodeString | String | Строка для печати. |
 

@@ -1,7 +1,7 @@
 ---
 title: RemoveSegmentAt
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Removes a path segment from the list of child segments of the last path figure at index position.
 type: docs
 weight: 80
 url: /net/aspose.page.xps.xpsmodel/xpspathgeometry/removesegmentat/

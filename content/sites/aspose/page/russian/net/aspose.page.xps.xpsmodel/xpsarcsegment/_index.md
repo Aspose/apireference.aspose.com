@@ -3,7 +3,7 @@ title: XpsArcSegment
 second_title: Справочник по Aspose.Page для .NET API
 description: Класс инкапсулирующий функции элемента ArcSegment. Этот элемент описывает эллиптическую дугу.
 type: docs
-weight: 840
+weight: 2880
 url: /ru/net/aspose.page.xps.xpsmodel/xpsarcsegment/
 ---
 ## XpsArcSegment class
@@ -19,10 +19,10 @@ public class XpsArcSegment : XpsPathSegment
 | Имя | Описание |
 | --- | --- |
 | [IsLargeArc](../../aspose.page.xps.xpsmodel/xpsarcsegment/islargearc) { get; set; } | Возвращает/устанавливает значение, определяющее, рисуется ли дуга с разверткой 180 или больше. |
-| [IsStroked](../../aspose.page.xps.xpsmodel/xpspathsegment/isstroked) { get; set; } | Возвращает/устанавливает значение, указывающее, будет ли рисоваться штрих для этого сегмента пути. |
+| [IsStroked](../../aspose.page.xps.xpsmodel/xpspathsegment/isstroked) { get; set; } | Возвращает/задает значение, указывающее, будет ли рисоваться штрих для этого сегмента пути. |
 | [Point](../../aspose.page.xps.xpsmodel/xpsarcsegment/point) { get; set; } | Возвращает/устанавливает конечную точку эллиптической дуги. |
-| [RotationAngle](../../aspose.page.xps.xpsmodel/xpsarcsegment/rotationangle) { get; set; } | Возвращает/устанавливает значение, указывающее, как эллипс повернут относительно текущей системы координат. |
-| [Size](../../aspose.page.xps.xpsmodel/xpsarcsegment/size) { get; set; } | Возвращает/устанавливает x и y радиусы эллиптической дуги в виде пары x,y. |
+| [RotationAngle](../../aspose.page.xps.xpsmodel/xpsarcsegment/rotationangle) { get; set; } | Возвращает/устанавливает значение, указывающее, как эллипс поворачивается относительно текущей системы координат. |
+| [Size](../../aspose.page.xps.xpsmodel/xpsarcsegment/size) { get; set; } | Возвращает/задает радиус x и y эллиптической дуги в виде пары x,y. |
 | [SweepDirection](../../aspose.page.xps.xpsmodel/xpsarcsegment/sweepdirection) { get; set; } | Возвращает/устанавливает значение, определяющее направление, в котором рисуется дуга. |
 
 ## Методы

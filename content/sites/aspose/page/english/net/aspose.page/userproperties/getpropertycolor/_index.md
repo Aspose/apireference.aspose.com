@@ -1,12 +1,12 @@
 ---
 title: GetPropertyColor
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Gets color property value.
 type: docs
 weight: 40
 url: /net/aspose.page/userproperties/getpropertycolor/
 ---
-## UserProperties.GetPropertyColor method (1 of 2)
+## GetPropertyColor(string) {#getpropertycolor}
 
 Gets color property value.
 
@@ -30,7 +30,7 @@ Property value.
 
 ---
 
-## UserProperties.GetPropertyColor method (2 of 2)
+## GetPropertyColor(string, Color) {#getpropertycolor_1}
 
 Gets color property value. If requested property is absent, returns provided default value.
 

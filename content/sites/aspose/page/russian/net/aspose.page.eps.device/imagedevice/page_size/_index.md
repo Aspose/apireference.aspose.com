@@ -3,7 +3,7 @@ title: PAGE_SIZE
 second_title: Справочник по Aspose.Page для .NET API
 description: Ключ свойства Размер страницы.
 type: docs
-weight: 590
+weight: 580
 url: /ru/net/aspose.page.eps.device/imagedevice/page_size/
 ---
 ## ImageDevice.PAGE_SIZE field

@@ -1,7 +1,7 @@
 ---
 title: SetNamedValue
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Sets named value into a structure. Previous named value if already exists will be replaced with new one.
 type: docs
 weight: 230
 url: /net/aspose.page.eps.xmp/xmpmetadata/setnamedvalue/

@@ -1,9 +1,9 @@
 ---
 title: XpsColor
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: The base class incapsulating common color features.
 type: docs
-weight: 880
+weight: 2920
 url: /net/aspose.page.xps.xpsmodel/xpscolor/
 ---
 ## XpsColor class

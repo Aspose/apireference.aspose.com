@@ -1,9 +1,9 @@
 ---
 title: EMIT_WARNINGS
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Emit warnings property value.
 type: docs
-weight: 550
+weight: 540
 url: /net/aspose.page.eps.device/imagedevice/emit_warnings/
 ---
 ## ImageDevice.EMIT_WARNINGS field

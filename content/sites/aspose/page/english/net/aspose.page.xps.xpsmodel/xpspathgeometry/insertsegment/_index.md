@@ -1,7 +1,7 @@
 ---
 title: InsertSegment
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Inserts a path segment to the list of child segments of the last path figure at index position.
 type: docs
 weight: 60
 url: /net/aspose.page.xps.xpsmodel/xpspathgeometry/insertsegment/

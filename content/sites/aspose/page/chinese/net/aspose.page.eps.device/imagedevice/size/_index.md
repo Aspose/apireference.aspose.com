@@ -3,7 +3,7 @@ title: Size
 second_title: Aspose.Page for .NET API 参考
 description: 返回或指定页面大小
 type: docs
-weight: 140
+weight: 130
 url: /zh/net/aspose.page.eps.device/imagedevice/size/
 ---
 ## ImageDevice.Size property

@@ -1,14 +1,14 @@
 ---
 title: TextStrokeWidth
 second_title: Aspose.Page for .NET API 参考
-description: 返回或指定当前文本笔划宽度
+description: 返回或指定当前文本笔画宽度
 type: docs
 weight: 160
 url: /zh/net/aspose.page/device/textstrokewidth/
 ---
 ## Device.TextStrokeWidth property
 
-返回或指定当前文本笔划宽度。
+返回或指定当前文本笔画宽度。
 
 ```csharp
 public virtual float TextStrokeWidth { get; set; }

@@ -1,12 +1,12 @@
 ---
 title: CreateImage
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Creates a new image resource out of image file located at the imagePath.
 type: docs
 weight: 230
 url: /net/aspose.page.xps/xpsdocument/createimage/
 ---
-## XpsDocument.CreateImage method (1 of 2)
+## CreateImage(string) {#createimage_1}
 
 Creates a new image resource out of image file located at the *imagePath*.
 
@@ -31,7 +31,7 @@ New image resource.
 
 ---
 
-## XpsDocument.CreateImage method (2 of 2)
+## CreateImage(Stream) {#createimage}
 
 Creates a new image resource out of *stream*.
 

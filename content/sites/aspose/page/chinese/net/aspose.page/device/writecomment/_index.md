@@ -16,7 +16,7 @@ public virtual void WriteComment(string comment)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| comment | String | 要写入的注释。 |
+| comment | String | 要写的评论。 |
 
 ### 也可以看看
 

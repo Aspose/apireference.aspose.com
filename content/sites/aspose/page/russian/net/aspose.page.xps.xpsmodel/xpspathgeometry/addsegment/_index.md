@@ -1,14 +1,14 @@
 ---
 title: AddSegment
 second_title: Справочник по Aspose.Page для .NET API
-description: Добавляет сегмент пути в список дочерних сегментов последней фигуры паха.
+description: Добавляет сегмент пути в список дочерних сегментов последней фигуры pah.
 type: docs
 weight: 40
 url: /ru/net/aspose.page.xps.xpsmodel/xpspathgeometry/addsegment/
 ---
 ## XpsPathGeometry.AddSegment method
 
-Добавляет сегмент пути в список дочерних сегментов последней фигуры паха.
+Добавляет сегмент пути в список дочерних сегментов последней фигуры pah.
 
 ```csharp
 public XpsPathSegment AddSegment(XpsPathSegment segment)

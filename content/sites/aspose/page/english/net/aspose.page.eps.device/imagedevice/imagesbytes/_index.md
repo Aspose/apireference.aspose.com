@@ -1,7 +1,7 @@
 ---
 title: ImagesBytes
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Returns resulting images in bytes one byte array for one page.
 type: docs
 weight: 80
 url: /net/aspose.page.eps.device/imagedevice/imagesbytes/

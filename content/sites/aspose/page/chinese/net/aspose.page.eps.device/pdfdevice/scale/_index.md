@@ -1,14 +1,14 @@
 ---
 title: Scale
 second_title: Aspose.Page for .NET API 参考
-description: 缩放当前变换矩阵调用 writeTransformTransform
+description: 缩放当前变换矩阵调用 writeTransformTransform.
 type: docs
-weight: 230
+weight: 220
 url: /zh/net/aspose.page.eps.device/pdfdevice/scale/
 ---
 ## PdfDevice.Scale method
 
-缩放当前变换矩阵。调用 writeTransform(Transform)。
+缩放当前变换矩阵。调用 writeTransform(Transform).
 
 ```csharp
 public override void Scale(double sx, double sy)

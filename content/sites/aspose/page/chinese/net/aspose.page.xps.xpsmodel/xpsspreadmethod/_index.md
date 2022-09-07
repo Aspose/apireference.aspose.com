@@ -3,7 +3,7 @@ title: XpsSpreadMethod
 second_title: Aspose.Page for .NET API 参考
 description: 渐变画笔的 SpreadMethod 属性的有效值
 type: docs
-weight: 1260
+weight: 3300
 url: /zh/net/aspose.page.xps.xpsmodel/xpsspreadmethod/
 ---
 ## XpsSpreadMethod enumeration
@@ -18,9 +18,9 @@ public enum XpsSpreadMethod
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| Pad | `0` | 在该方法中，第一个颜色和最后一个颜色用于填充剩余的 开头和结尾的填充区域。 |
+| Pad | `0` | 在这个方法中，第一个颜色和最后一个颜色用于填充剩余的 填充区域的开始和结束。 |
 | Reflect | `1` | 在此方法中，渐变停止点以相反的顺序重复播放以覆盖填充区域。 |
-| Repeat | `2` | 在此方法中，渐变停止按顺序重复，直到填充区域被覆盖。 |
+| Repeat | `2` | 在这种方法中，渐变停止按顺序重复，直到填充区域被覆盖。 |
 
 ### 也可以看看
 

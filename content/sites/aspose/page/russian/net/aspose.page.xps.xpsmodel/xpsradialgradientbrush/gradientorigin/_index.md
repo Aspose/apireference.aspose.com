@@ -1,14 +1,14 @@
 ---
 title: GradientOrigin
 second_title: Справочник по Aspose.Page для .NET API
-description: Возвращает/устанавливает исходную точку радиального градиента.
+description: Возвращает/задает исходную точку радиального градиента.
 type: docs
 weight: 20
 url: /ru/net/aspose.page.xps.xpsmodel/xpsradialgradientbrush/gradientorigin/
 ---
 ## XpsRadialGradientBrush.GradientOrigin property
 
-Возвращает/устанавливает исходную точку радиального градиента.
+Возвращает/задает исходную точку радиального градиента.
 
 ```csharp
 public PointF GradientOrigin { get; set; }

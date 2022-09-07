@@ -1,14 +1,14 @@
 ---
 title: XpsArrayT
 second_title: Справочник по Aspose.Page для .NET API
-description: Класс инкапсулирующий общие свойства объекта массива модели XPS.
+description: Класс инкапсулирующий общие функции объекта массива модели XPS.
 type: docs
-weight: 850
+weight: 2890
 url: /ru/net/aspose.page.xps.xpsmodel/xpsarray-1/
 ---
 ## XpsArray&lt;T&gt; class
 
-Класс, инкапсулирующий общие свойства объекта массива модели XPS.
+Класс, инкапсулирующий общие функции объекта массива модели XPS.
 
 ```csharp
 public abstract class XpsArray<T> : XpsObject
@@ -24,7 +24,7 @@ public abstract class XpsArray<T> : XpsObject
 | Имя | Описание |
 | --- | --- |
 | [Count](../../aspose.page.xps.xpsmodel/xpsarray`1/count) { get; } | Возвращает количество элементов. |
-| [Item](../../aspose.page.xps.xpsmodel/xpsarray`1/item) { get; } | Предоставляет доступ к элементу массива по индексу*i*. |
+| [Item](../../aspose.page.xps.xpsmodel/xpsarray`1/item) { get; } | Предоставляет доступ к элементу массива по индексу*i* . |
 
 ## Методы
 

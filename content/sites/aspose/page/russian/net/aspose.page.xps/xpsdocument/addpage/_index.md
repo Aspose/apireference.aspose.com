@@ -33,7 +33,7 @@ public XpsPage AddPage(bool activate = true)
 
 ## AddPage(float, float, bool) {#addpage_2}
 
-Добавляет в документ пустую страницу с указанными *width*и*height*.
+Добавляет пустую страницу в документ с указанным *width* а также*height* .
 
 ```csharp
 public XpsPage AddPage(float width, float height, bool activate = true)
@@ -68,7 +68,7 @@ public XpsPage AddPage(XpsPage page, bool activate = true)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| page | XpsPage | Страница для добавления. |
+| page | XpsPage | Страница, которую нужно добавить. |
 | activate | Boolean | Флаг, указывающий, следует ли выбирать добавленную страницу как активную. |
 
 ### Возвращаемое значение

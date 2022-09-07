@@ -1,7 +1,7 @@
 ---
 title: SweepDirection
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Returns/sets value specifying the direction in which the arc is drawn.
 type: docs
 weight: 50
 url: /net/aspose.page.xps.xpsmodel/xpsarcsegment/sweepdirection/

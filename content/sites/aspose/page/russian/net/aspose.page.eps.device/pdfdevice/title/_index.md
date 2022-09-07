@@ -1,14 +1,14 @@
 ---
 title: TITLE
 second_title: Справочник по Aspose.Page для .NET API
-description: Значение свойства Заголовок.
+description: Значение свойства Название.
 type: docs
-weight: 470
+weight: 460
 url: /ru/net/aspose.page.eps.device/pdfdevice/title/
 ---
 ## PdfDevice.TITLE field
 
-Значение свойства "Заголовок".
+Значение свойства «Название».
 
 ```csharp
 public static readonly string TITLE;

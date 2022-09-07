@@ -1,14 +1,14 @@
 ---
 title: XpsFileResource
 second_title: Справочник по Aspose.Page для .NET API
-description: Класс объединяющий общие черты всех файловых ресурсов.
+description: Класс объединяющий общие функции всех файловых ресурсов.
 type: docs
-weight: 960
+weight: 3000
 url: /ru/net/aspose.page.xps.xpsmodel/xpsfileresource/
 ---
 ## XpsFileResource class
 
-Класс, объединяющий общие черты всех файловых ресурсов.
+Класс, объединяющий общие функции всех файловых ресурсов.
 
 ```csharp
 public class XpsFileResource

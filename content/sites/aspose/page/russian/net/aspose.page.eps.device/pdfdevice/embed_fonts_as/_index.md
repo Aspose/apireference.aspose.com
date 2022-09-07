@@ -3,7 +3,7 @@ title: EMBED_FONTS_AS
 second_title: Справочник по Aspose.Page для .NET API
 description: Ключ свойства Какой шрифт используется для встраивания.
 type: docs
-weight: 380
+weight: 370
 url: /ru/net/aspose.page.eps.device/pdfdevice/embed_fonts_as/
 ---
 ## PdfDevice.EMBED_FONTS_AS field

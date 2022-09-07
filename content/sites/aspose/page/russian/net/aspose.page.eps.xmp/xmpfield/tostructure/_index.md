@@ -1,14 +1,14 @@
 ---
 title: ToStructure
 second_title: Справочник по Aspose.Page для .NET API
-description: Получает значение как структуру.
+description: Получает значение в виде структуры.
 type: docs
 weight: 130
 url: /ru/net/aspose.page.eps.xmp/xmpfield/tostructure/
 ---
 ## XmpField.ToStructure method
 
-Получает значение как структуру.
+Получает значение в виде структуры.
 
 ```csharp
 public XmpField[] ToStructure()

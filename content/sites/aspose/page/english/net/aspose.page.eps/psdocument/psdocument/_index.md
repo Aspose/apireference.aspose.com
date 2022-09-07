@@ -1,7 +1,7 @@
 ---
 title: PsDocument
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Initializes PsDocumentaspose.page.eps/psdocument with a stream of PS/EPS file.
 type: docs
 weight: 10
 url: /net/aspose.page.eps/psdocument/psdocument/

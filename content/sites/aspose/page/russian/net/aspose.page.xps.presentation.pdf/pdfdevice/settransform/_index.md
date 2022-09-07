@@ -1,14 +1,14 @@
 ---
 title: SetTransform
 second_title: Справочник по Aspose.Page для .NET API
-description: Устанавливает текущую матрицу преобразования.
+description: Задает текущую матрицу преобразования.
 type: docs
 weight: 310
 url: /ru/net/aspose.page.xps.presentation.pdf/pdfdevice/settransform/
 ---
 ## PdfDevice.SetTransform method
 
-Устанавливает текущую матрицу преобразования.
+Задает текущую матрицу преобразования.
 
 ```csharp
 public override void SetTransform(Matrix transform)
@@ -16,7 +16,7 @@ public override void SetTransform(Matrix transform)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| transform | Matrix | Новая матрица преобразования. |
+| transform | Matrix | Новая матрица трансформации. |
 
 ### Смотрите также
 

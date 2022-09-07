@@ -1,7 +1,7 @@
 ---
 title: DrawLine
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Draws a line segment.
 type: docs
 weight: 220
 url: /net/aspose.page/device/drawline/

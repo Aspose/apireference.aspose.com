@@ -1,7 +1,7 @@
 ---
 title: ContainsKey
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Determines does this dictionary contasins specified key.
 type: docs
 weight: 150
 url: /net/aspose.page.eps.xmp/xmpmetadata/containskey/

@@ -1,7 +1,7 @@
 ---
 title: AddSegment
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Adds a path segment to the list of child segments of the last pah figure.
 type: docs
 weight: 40
 url: /net/aspose.page.xps.xpsmodel/xpspathgeometry/addsegment/

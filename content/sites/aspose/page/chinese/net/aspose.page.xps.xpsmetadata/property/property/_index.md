@@ -1,26 +1,51 @@
 ---
 title: Property
 second_title: Aspose.Page for .NET API 参考
-description: 创建通用打印票属性实例
+description: 创建一个新实例
 type: docs
 weight: 10
 url: /zh/net/aspose.page.xps.xpsmetadata/property/property/
 ---
-## Property constructor
+## Property(string, Property, params IPropertyItem[]) {#constructor}
 
-创建通用打印票属性实例。
+创建一个新实例。
 
 ```csharp
-public Property(string name, params IPropertyItem[] items)
+public Property(string name, Property property, params IPropertyItem[] items)
 ```
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | name | String | 属性名称。 |
-| items | IPropertyItem[] | [`IPropertyItem`](../../ipropertyitem)对象的数组。 每一个都必须是[`Property`](../../property)或[`Value`](../../value)目的。 |
+| property | Property | 一个强制性的[`Property`](../../property)实例。 |
+| items | IPropertyItem[] | 任意数组[`IPropertyItem`](../../ipropertyitem)instance. 每一个都必须是一个[`Property`](../../property)或一个[`Value`](../../value)实例。 |
 
 ### 也可以看看
 
+* interface [IPropertyItem](../../ipropertyitem)
+* class [Property](../../property)
+* 命名空间 [Aspose.Page.XPS.XpsMetadata](../../property)
+* 部件 [Aspose.Page](../../../)
+
+---
+
+## Property(string, Value, params IPropertyItem[]) {#constructor_1}
+
+创建一个新实例。
+
+```csharp
+public Property(string name, Value value, params IPropertyItem[] items)
+```
+
+| 范围 | 类型 | 描述 |
+| --- | --- | --- |
+| name | String | 属性名称。 |
+| value | Value | 一个强制性的[`Value`](../../value)实例。 |
+| items | IPropertyItem[] | 任意数组[`IPropertyItem`](../../ipropertyitem)instance. 每一个都必须是一个[`Property`](../../property)或一个[`Value`](../../value)实例。 |
+
+### 也可以看看
+
+* class [Value](../../value)
 * interface [IPropertyItem](../../ipropertyitem)
 * class [Property](../../property)
 * 命名空间 [Aspose.Page.XPS.XpsMetadata](../../property)

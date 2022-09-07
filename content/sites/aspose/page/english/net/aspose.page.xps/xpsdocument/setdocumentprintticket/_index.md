@@ -1,7 +1,7 @@
 ---
 title: SetDocumentPrintTicket
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Links the printTicket to the document indexed by documentIndex.
 type: docs
 weight: 540
 url: /net/aspose.page.xps/xpsdocument/setdocumentprintticket/

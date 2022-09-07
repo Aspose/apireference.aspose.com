@@ -3,7 +3,7 @@ title: SetTransform
 second_title: Aspose.Page for .NET API 参考
 description: 指定当前变换
 type: docs
-weight: 430
+weight: 420
 url: /zh/net/aspose.page.eps.device/imagedevice/settransform/
 ---
 ## ImageDevice.SetTransform method
@@ -16,7 +16,7 @@ public override void SetTransform(Matrix transform)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| transform | Matrix | 一个变换。 |
+| transform | Matrix | 一个转变。 |
 
 ### 也可以看看
 

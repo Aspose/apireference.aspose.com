@@ -1,7 +1,7 @@
 ---
 title: Format
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Image format.
 type: docs
 weight: 70
 url: /net/aspose.page.eps.device/imagedevice/format/

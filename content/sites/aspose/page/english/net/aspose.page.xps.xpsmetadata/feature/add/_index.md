@@ -1,14 +1,14 @@
 ---
 title: Add
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Adds a list of items to the end of this features item list. Each one must be a Featureaspose.page.xps.xpsmetadata/feature an Optionaspose.page.xps.xpsmetadata/option or a Propertyaspose.page.xps.xpsmetadata/property instance.
 type: docs
-weight: 30
+weight: 20
 url: /net/aspose.page.xps.xpsmetadata/feature/add/
 ---
 ## Feature.Add method
 
-Adds list of items to the end of feature items list. Each one must be a [`Feature`](../../feature), [`Option`](../../option) or [`Property`](../../property) object.
+Adds a list of items to the end of this feature's item list. Each one must be a [`Feature`](../../feature), an [`Option`](../../option) or a [`Property`](../../property) instance.
 
 ```csharp
 public void Add(params IFeatureItem[] items)

@@ -1,7 +1,7 @@
 ---
 title: Paint
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Returns or specifies current paint.
 type: docs
 weight: 50
 url: /net/aspose.page.eps.device/pdfdevice/paint/

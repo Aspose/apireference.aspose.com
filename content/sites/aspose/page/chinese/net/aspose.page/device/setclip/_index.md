@@ -16,7 +16,7 @@ public virtual void SetClip(GraphicsPath clipPath)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| clipPath | GraphicsPath | 剪辑路径。 |
+| clipPath | GraphicsPath | 剪切路径。 |
 
 ### 也可以看看
 

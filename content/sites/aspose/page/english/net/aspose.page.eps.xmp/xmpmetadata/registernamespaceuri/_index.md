@@ -1,12 +1,12 @@
 ---
 title: RegisterNamespaceUri
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Registers namespace URI.
 type: docs
 weight: 200
 url: /net/aspose.page.eps.xmp/xmpmetadata/registernamespaceuri/
 ---
-## XmpMetadata.RegisterNamespaceUri method (1 of 2)
+## RegisterNamespaceUri(string, string) {#registernamespaceuri}
 
 Registers namespace URI.
 
@@ -27,7 +27,7 @@ public void RegisterNamespaceUri(string prefix, string namespaceUri)
 
 ---
 
-## XmpMetadata.RegisterNamespaceUri method (2 of 2)
+## RegisterNamespaceUri(string, string, string) {#registernamespaceuri_1}
 
 Registers namespace URI.
 

@@ -3,7 +3,7 @@ title: BACKGROUND_COLOR
 second_title: Справочник по Aspose.Page для .NET API
 description: Ключ свойства Цвет фона.
 type: docs
-weight: 520
+weight: 510
 url: /ru/net/aspose.page.eps.device/imagedevice/background_color/
 ---
 ## ImageDevice.BACKGROUND_COLOR field

@@ -1,14 +1,14 @@
 ---
 title: SmallCapsScaleFactor
 second_title: Справочник по Aspose.Page для .NET API
-description: Получает коэффициент масштабирования SmallCaps.
+description: Получает масштабный коэффициент SmallCaps.
 type: docs
 weight: 150
 url: /ru/net/aspose.page.font/drfont/smallcapsscalefactor/
 ---
 ## DrFont.SmallCapsScaleFactor property
 
-Получает коэффициент масштабирования SmallCaps.
+Получает масштабный коэффициент SmallCaps.
 
 ```csharp
 public float SmallCapsScaleFactor { get; }

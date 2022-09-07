@@ -1,14 +1,14 @@
 ---
 title: Merge
 second_title: Aspose.Page for .NET API 参考
-description: 使用Deviceaspose.page/device实例将 XPS 文档合并为 PDF
+description: 使用Deviceaspose.page/device实例.
 type: docs
 weight: 450
 url: /zh/net/aspose.page.xps/xpsdocument/merge/
 ---
 ## Merge(string[], Device, SaveOptions) {#merge}
 
-使用[`Device`](../../../aspose.page/device)实例将 XPS 文档合并为 PDF。
+使用[`Device`](../../../aspose.page/device)实例.
 
 ```csharp
 public void Merge(string[] filesForMerge, Device device, SaveOptions options)
@@ -17,7 +17,7 @@ public void Merge(string[] filesForMerge, Device device, SaveOptions options)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | filesForMerge | String[] | XPS 文件，用于与本文档合并到输出设备。 |
-| device | Device | [`Device`](../../../aspose.page/device)实例。 |
+| device | Device | 这[`Device`](../../../aspose.page/device)实例。 |
 | options | SaveOptions | 文档保存选项。 |
 
 ### 也可以看看
@@ -40,7 +40,7 @@ public void Merge(string[] filesForMerge, Stream outStream)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| filesForMerge | String[] | XPS 文件，用于与本文档合并。 |
+| filesForMerge | String[] | 用于与此文档合并的 XPS 文件。 |
 | stream | Stream | 保存合并的 XPS 文档的输出流。 |
 
 ### 也可以看看

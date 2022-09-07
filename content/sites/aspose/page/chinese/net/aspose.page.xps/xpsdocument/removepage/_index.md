@@ -1,14 +1,14 @@
 ---
 title: RemovePage
 second_title: Aspose.Page for .NET API 参考
-description: 从文档中删除页面
+description: 从文档中删除一个页面
 type: docs
 weight: 490
 url: /zh/net/aspose.page.xps/xpsdocument/removepage/
 ---
 ## XpsDocument.RemovePage method
 
-从文档中删除页面。
+从文档中删除一个页面。
 
 ```csharp
 public XpsPage RemovePage(XpsPage page)

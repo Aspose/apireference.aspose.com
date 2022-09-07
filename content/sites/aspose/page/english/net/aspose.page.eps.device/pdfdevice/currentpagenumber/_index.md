@@ -1,7 +1,7 @@
 ---
 title: CurrentPageNumber
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Current page number.
 type: docs
 weight: 20
 url: /net/aspose.page.eps.device/pdfdevice/currentpagenumber/

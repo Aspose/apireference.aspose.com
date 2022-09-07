@@ -3,7 +3,7 @@ title: SetClip
 second_title: Справочник по Aspose.Page для .NET API
 description: Форма зажимов.
 type: docs
-weight: 420
+weight: 410
 url: /ru/net/aspose.page.eps.device/imagedevice/setclip/
 ---
 ## ImageDevice.SetClip method
@@ -16,7 +16,7 @@ public override void SetClip(GraphicsPath path)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| path | GraphicsPath | Путь, используемый для отсечения. |
+| path | GraphicsPath | Путь, который используется для отсечения. |
 
 ### Смотрите также
 

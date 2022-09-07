@@ -3,7 +3,7 @@ title: VERSION
 second_title: Aspose.Page for .NET API 参考
 description: 版本属性键
 type: docs
-weight: 490
+weight: 480
 url: /zh/net/aspose.page.eps.device/pdfdevice/version/
 ---
 ## PdfDevice.VERSION field

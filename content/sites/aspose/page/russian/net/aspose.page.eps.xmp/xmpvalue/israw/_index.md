@@ -1,7 +1,7 @@
 ---
 title: IsRaw
 second_title: Справочник по Aspose.Page для .NET API
-description: Значение не поддерживается/неизвестно предоставляется необработанный XML-код.
+description: Значение не поддерживается/неизвестно предоставляется необработанный XMLкод.
 type: docs
 weight: 90
 url: /ru/net/aspose.page.eps.xmp/xmpvalue/israw/

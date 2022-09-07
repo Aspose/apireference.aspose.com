@@ -1,14 +1,14 @@
 ---
 title: CreateIccProfile
 second_title: Справочник по Aspose.Page для .NET API
-description: Создает новый ресурс профиля ICC из файла профиля ICC расположенного по адресу iccProfilePath.
+description: Создает новый ресурс профиля ICC из файла профиля ICC расположенного по адресу the iccProfilePath .
 type: docs
 weight: 220
 url: /ru/net/aspose.page.xps/xpsdocument/createiccprofile/
 ---
 ## CreateIccProfile(string) {#createiccprofile_1}
 
-Создает новый ресурс профиля ICC из файла профиля ICC, расположенного по адресу *iccProfilePath*.
+Создает новый ресурс профиля ICC из файла профиля ICC, расположенного по адресу the *iccProfilePath* .
 
 ```csharp
 public XpsIccProfile CreateIccProfile(string iccProfilePath)
@@ -16,7 +16,7 @@ public XpsIccProfile CreateIccProfile(string iccProfilePath)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| iccProfilePath | String | Путь к профилю ICC, используемому в качестве ресурса. |
+| iccProfilePath | String | Путь к профилю ICC, который следует использовать в качестве ресурса. |
 
 ### Возвращаемое значение
 
@@ -33,7 +33,7 @@ public XpsIccProfile CreateIccProfile(string iccProfilePath)
 
 ## CreateIccProfile(Stream) {#createiccprofile}
 
-Создает новый ресурс профиля ICC из*stream*.
+Создает новый ресурс профиля ICC из*stream* .
 
 ```csharp
 public XpsIccProfile CreateIccProfile(Stream stream)
@@ -41,7 +41,7 @@ public XpsIccProfile CreateIccProfile(Stream stream)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| stream | Stream | Поток, содержащий ICC-профиль, который следует использовать в качестве ресурса. |
+| stream | Stream | Поток, содержащий профиль ICC, который следует использовать в качестве ресурса. |
 
 ### Возвращаемое значение
 

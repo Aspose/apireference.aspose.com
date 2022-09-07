@@ -1,7 +1,7 @@
 ---
 title: Properties
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Copies properties including its defaults into this UserProperties
 type: docs
 weight: 20
 url: /net/aspose.page/userproperties/properties/

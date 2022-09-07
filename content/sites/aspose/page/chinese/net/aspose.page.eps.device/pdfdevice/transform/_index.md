@@ -3,7 +3,7 @@ title: Transform
 second_title: Aspose.Page for .NET API 参考
 description: 变换当前变换矩阵调用 writeTransformTransform
 type: docs
-weight: 290
+weight: 280
 url: /zh/net/aspose.page.eps.device/pdfdevice/transform/
 ---
 ## PdfDevice.Transform method
@@ -16,7 +16,7 @@ public override void Transform(Matrix transform)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| transform | Matrix | Transform 被应用。 |
+| transform | Matrix | 要应用的变换。 |
 
 ### 也可以看看
 

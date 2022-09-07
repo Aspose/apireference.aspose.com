@@ -1,7 +1,7 @@
 ---
 title: op_Inequality
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Implements the operator .
 type: docs
 weight: 230
 url: /net/aspose.page.xps.xpsmodel/xpsmatrix/op_inequality/

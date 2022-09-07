@@ -1,7 +1,7 @@
 ---
 title: ToString
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Make up a string representing this margins object.
 type: docs
 weight: 90
 url: /net/aspose.page/margins/tostring/

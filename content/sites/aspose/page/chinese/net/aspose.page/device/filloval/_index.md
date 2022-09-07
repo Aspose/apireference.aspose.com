@@ -1,14 +1,14 @@
 ---
 title: FillOval
 second_title: Aspose.Page for .NET API 参考
-description: 填充椭圆
+description: 填充椭圆形
 type: docs
 weight: 320
 url: /zh/net/aspose.page/device/filloval/
 ---
 ## Device.FillOval method
 
-填充椭圆。
+填充椭圆形。
 
 ```csharp
 public virtual void FillOval(double x, double y, double width, double height)

@@ -1,7 +1,7 @@
 ---
 title: Stroke
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Returns or specifies current stroke.
 type: docs
 weight: 140
 url: /net/aspose.page/device/stroke/

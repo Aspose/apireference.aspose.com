@@ -34,7 +34,7 @@ public XpsFont CreateFont(string fontFamily, FontStyle fontStyle)
 
 ## CreateFont(Stream) {#createfont}
 
-Создает новый ресурс шрифта TrueType вне потока.
+Создает новый ресурс шрифта TrueType из потока.
 
 ```csharp
 public XpsFont CreateFont(Stream stream)
@@ -42,7 +42,7 @@ public XpsFont CreateFont(Stream stream)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| stream | Stream | Поток, содержащий ICC-профиль, который следует использовать в качестве ресурса. |
+| stream | Stream | Поток, содержащий профиль ICC, который следует использовать в качестве ресурса. |
 
 ### Возвращаемое значение
 

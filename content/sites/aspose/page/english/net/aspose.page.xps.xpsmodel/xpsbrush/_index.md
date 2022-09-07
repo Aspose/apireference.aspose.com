@@ -1,9 +1,9 @@
 ---
 title: XpsBrush
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Class incapsulating common features of all brush elements.
 type: docs
-weight: 860
+weight: 2900
 url: /net/aspose.page.xps.xpsmodel/xpsbrush/
 ---
 ## XpsBrush class

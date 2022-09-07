@@ -1,14 +1,14 @@
 ---
 title: IsStroked
 second_title: Aspose.Page for .NET API 参考
-description: 返回/设置指定是否绘制该路径段的笔划的值
+description: 返回/设置指定是否绘制此段路径的笔划的值
 type: docs
 weight: 10
 url: /zh/net/aspose.page.xps.xpsmodel/xpspathsegment/isstroked/
 ---
 ## XpsPathSegment.IsStroked property
 
-返回/设置指定是否绘制该路径段的笔划的值。
+返回/设置指定是否绘制此段路径的笔划的值。
 
 ```csharp
 public bool IsStroked { get; set; }

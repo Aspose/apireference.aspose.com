@@ -1,7 +1,7 @@
 ---
 title: Width
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Returns/sets width of the page expressed as a real number in units of the effective coordinate space.
 type: docs
 weight: 20
 url: /net/aspose.page.xps.xpsmodel/xpspage/width/

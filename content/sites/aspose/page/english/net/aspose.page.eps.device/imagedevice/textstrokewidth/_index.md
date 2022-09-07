@@ -1,9 +1,9 @@
 ---
 title: TextStrokeWidth
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Returns or specifies current text stroke width.
 type: docs
-weight: 170
+weight: 160
 url: /net/aspose.page.eps.device/imagedevice/textstrokewidth/
 ---
 ## ImageDevice.TextStrokeWidth property

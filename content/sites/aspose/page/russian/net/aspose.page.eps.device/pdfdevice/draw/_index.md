@@ -3,7 +3,7 @@ title: Draw
 second_title: Справочник по Aspose.Page для .NET API
 description: Рисует путь.
 type: docs
-weight: 110
+weight: 100
 url: /ru/net/aspose.page.eps.device/pdfdevice/draw/
 ---
 ## PdfDevice.Draw method
@@ -16,7 +16,7 @@ public override void Draw(GraphicsPath s)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| s | GraphicsPath | Путь для рисования. |
+| s | GraphicsPath | Путь, который нужно нарисовать. |
 
 ### Смотрите также
 

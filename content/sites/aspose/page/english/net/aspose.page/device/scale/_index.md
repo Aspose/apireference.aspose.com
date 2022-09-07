@@ -1,7 +1,7 @@
 ---
 title: Scale
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Scales the current transformation matrix. Calls writeTransformTransform.
 type: docs
 weight: 490
 url: /net/aspose.page/device/scale/

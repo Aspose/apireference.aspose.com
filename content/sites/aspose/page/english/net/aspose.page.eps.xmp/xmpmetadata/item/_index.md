@@ -1,7 +1,7 @@
 ---
 title: Item
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Gets or sets data from metadata.
 type: docs
 weight: 50
 url: /net/aspose.page.eps.xmp/xmpmetadata/item/

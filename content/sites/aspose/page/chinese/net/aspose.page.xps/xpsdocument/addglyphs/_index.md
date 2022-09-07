@@ -26,7 +26,7 @@ public XpsGlyphs AddGlyphs(string fontFamily, float fontRenderingEmSize, FontSty
 
 ### 返回值
 
-添加字形。
+添加了字形。
 
 ### 也可以看看
 
@@ -56,7 +56,7 @@ public XpsGlyphs AddGlyphs(XpsFont font, float fontRenderingEmSize, float origin
 
 ### 返回值
 
-添加字形。
+添加了字形。
 
 ### 也可以看看
 

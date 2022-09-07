@@ -3,7 +3,7 @@ title: SetClip
 second_title: Aspose.Page for .NET API 参考
 description: 剪辑形状
 type: docs
-weight: 420
+weight: 410
 url: /zh/net/aspose.page.eps.device/imagedevice/setclip/
 ---
 ## ImageDevice.SetClip method

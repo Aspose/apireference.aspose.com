@@ -3,7 +3,7 @@ title: DeriveFont
 second_title: Справочник по Aspose.Page для .NET API
 description: Создает эквивалент этого шрифта с новым размером.
 type: docs
-weight: 120
+weight: 130
 url: /ru/net/aspose.page/itrfont/derivefont/
 ---
 ## DeriveFont(float) {#derivefont}
@@ -81,7 +81,7 @@ public ITrFont DeriveFont(float size, FontStyle style)
 
 ## DeriveFont(Matrix) {#derivefont_2}
 
-f символ Создает эквивалент этого шрифта с новым преобразованием.
+f character Создает эквивалент этого шрифта с новым преобразованием.
 
 ```csharp
 public ITrFont DeriveFont(Matrix transform)

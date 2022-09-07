@@ -1,7 +1,7 @@
 ---
 title: SyncRoot
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Gets collection synchronization object.
 type: docs
 weight: 80
 url: /net/aspose.page.eps.xmp/xmpmetadata/syncroot/

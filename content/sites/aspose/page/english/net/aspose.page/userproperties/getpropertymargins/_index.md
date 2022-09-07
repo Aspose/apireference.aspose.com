@@ -1,12 +1,12 @@
 ---
 title: GetPropertyMargins
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Gets margins property value.
 type: docs
 weight: 80
 url: /net/aspose.page/userproperties/getpropertymargins/
 ---
-## UserProperties.GetPropertyMargins method (1 of 2)
+## GetPropertyMargins(string) {#getpropertymargins}
 
 Gets margins property value.
 
@@ -31,7 +31,7 @@ Property value.
 
 ---
 
-## UserProperties.GetPropertyMargins method (2 of 2)
+## GetPropertyMargins(string, Margins) {#getpropertymargins_1}
 
 Gets margins property value. If requested property is absent, returns provided default value.
 

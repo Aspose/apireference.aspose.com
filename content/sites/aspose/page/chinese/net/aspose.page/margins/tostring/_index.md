@@ -1,14 +1,14 @@
 ---
 title: ToString
 second_title: Aspose.Page for .NET API 参考
-description: 组成一个字符串来表示这个边距对象
+description: 组成一个代表这个边距对象的字符串
 type: docs
 weight: 90
 url: /zh/net/aspose.page/margins/tostring/
 ---
 ## Margins.ToString method
 
-组成一个字符串来表示这个边距对象。
+组成一个代表这个边距对象的字符串。
 
 ```csharp
 public override string ToString()

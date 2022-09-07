@@ -1,7 +1,7 @@
 ---
 title: TextRenderingHint
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Gets/sets the text rendering hint.
 type: docs
 weight: 60
 url: /net/aspose.page.xps.presentation.image/imagesaveoptions/textrenderinghint/

@@ -18,18 +18,18 @@ public class PdfSaveOptions : SaveOptions
 
 | 姓名 | 描述 |
 | --- | --- |
-| [PdfSaveOptions](pdfsaveoptions#constructor)() | 使用默认值 初始化[`PdfSaveOptions`](../pdfsaveoptions)类的新实例:用于标志!:SuppressErrors(true) 和!:Debug(false)。 |
-| [PdfSaveOptions](pdfsaveoptions#constructor_1)(bool) | 使用标志的默认值初始化[`PdfSaveOptions`](../pdfsaveoptions)类的新实例!:Debug(false). |
+| [PdfSaveOptions](pdfsaveoptions#constructor)() | 初始化[`PdfSaveOptions`](../pdfsaveoptions)标志的默认值 的类!:SuppressErrors（真实）和!:Debug（假）. |
+| [PdfSaveOptions](pdfsaveoptions#constructor_1)(bool) | 初始化[`PdfSaveOptions`](../pdfsaveoptions)具有标志默认值的类!:Debug（假）. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [AdditionalFontsFolders](../../aspose.page/saveoptions/additionalfontsfolders) { get; set; } | 指定转换器应在其中找到输入文档字体的其他文件夹。 默认文件夹是标准字体文件夹，操作系统在其中查找内部需要的字体。 |
+| [AdditionalFontsFolders](../../aspose.page/saveoptions/additionalfontsfolders) { get; set; } | 指定转换器应在其中查找输入文档字体的其他文件夹。 默认文件夹是标准字体文件夹，操作系统在其中查找内部需要的字体。 |
 | virtual [Debug](../../aspose.page/saveoptions/debug) { get; set; } | 指定是否必须将调试信息打印到标准输出流。 |
-| virtual [Exceptions](../../aspose.page/saveoptions/exceptions) { get; } | 如果!:SuppressErrors为真，则返回抑制的转换错误列表。 |
+| virtual [Exceptions](../../aspose.page/saveoptions/exceptions) { get; } | 返回抑制的转换错误列表 如果!:SuppressErrors是真的。 |
 | [JpegQualityLevel](../../aspose.page/saveoptions/jpegqualitylevel) { get; set; } | 质量类别指定图像的压缩级别。 可用值是 0 到 100。 指定的数字越小，压缩率越高，因此图像质量越低。 0 值导致最低质量的图像，而 100 导致最高质量。 |
-| virtual [SupressErrors](../../aspose.page/saveoptions/supresserrors) { get; set; } | 指定是否必须抑制错误。 如果真正的抑制错误被添加到[`Exceptions`](../../aspose.page/saveoptions/exceptions)列表。 如果为假，第一个错误将终止程序。 |
+| virtual [SupressErrors](../../aspose.page/saveoptions/supresserrors) { get; set; } | 指定是否必须抑制错误。 如果将真正抑制的错误添加到[`Exceptions`](../../aspose.page/saveoptions/exceptions)list. 如果为假，第一个错误将终止程序。 |
 
 ### 也可以看看
 

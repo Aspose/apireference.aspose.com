@@ -3,7 +3,7 @@ title: PRODUCER
 second_title: Справочник по Aspose.Page для .NET API
 description: Значение свойства Производитель.
 type: docs
-weight: 600
+weight: 590
 url: /ru/net/aspose.page.eps.device/imagedevice/producer/
 ---
 ## ImageDevice.PRODUCER field

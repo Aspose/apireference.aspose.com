@@ -1,14 +1,14 @@
 ---
 title: RemoveAt
 second_title: Aspose.Page for .NET API 参考
-description: 从活动页面中删除index位置的元素
+description: 删除一个元素index活动页面的位置
 type: docs
 weight: 470
 url: /zh/net/aspose.page.xps/xpsdocument/removeat/
 ---
 ## XpsDocument.RemoveAt method
 
-从活动页面中删除*index*位置的元素。
+删除一个元素*index*活动页面的位置。
 
 ```csharp
 public XpsContentElement RemoveAt(int index)
@@ -16,11 +16,11 @@ public XpsContentElement RemoveAt(int index)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| index | Int32 | 应该删除元素的位置。 |
+| index | Int32 | 应删除元素的位置。 |
 
 ### 返回值
 
-已移除元素。
+移除元素。
 
 ### 也可以看看
 

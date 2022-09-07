@@ -1,7 +1,7 @@
 ---
 title: Opacity
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Returns or specifies current background of the page.
 type: docs
 weight: 100
 url: /net/aspose.page.eps.device/imagedevice/opacity/

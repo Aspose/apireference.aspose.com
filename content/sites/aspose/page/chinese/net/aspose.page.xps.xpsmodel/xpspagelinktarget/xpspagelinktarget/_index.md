@@ -16,7 +16,7 @@ public XpsPageLinkTarget(int targetPageNumber)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| targetPageNumber | Int32 | 整个 XPS 文档（固定文档序列）内的绝对页码。 |
+| targetPageNumber | Int32 | 整个 XPS 文档（固定文档序列）中的绝对页码。 |
 
 ### 也可以看看
 

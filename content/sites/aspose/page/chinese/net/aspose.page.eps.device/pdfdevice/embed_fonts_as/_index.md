@@ -1,14 +1,14 @@
 ---
 title: EMBED_FONTS_AS
 second_title: Aspose.Page for .NET API 参考
-description: 什么字体类型用于嵌入 属性键
+description: 用于嵌入的字体类型属性键
 type: docs
-weight: 380
+weight: 370
 url: /zh/net/aspose.page.eps.device/pdfdevice/embed_fonts_as/
 ---
 ## PdfDevice.EMBED_FONTS_AS field
 
-"什么字体类型用于嵌入" 属性键。
+“用于嵌入的字体类型”属性键。
 
 ```csharp
 public static readonly string EMBED_FONTS_AS;

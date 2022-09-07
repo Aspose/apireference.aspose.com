@@ -1,14 +1,14 @@
 ---
 title: Dispose
 second_title: Справочник по Aspose.Page для .NET API
-description: Удаляет графический контекст. Если при создании restoreOnDispose было true будет вызван writeGraphicsRestore.
+description: Удаляет графический контекст. Если при создании restoreOnDispose было установлено значение true будет вызываться writeGraphicsRestore.
 type: docs
-weight: 100
+weight: 90
 url: /ru/net/aspose.page.eps.device/pdfdevice/dispose/
 ---
 ## PdfDevice.Dispose method
 
-Удаляет графический контекст. Если при создании restoreOnDispose было true, будет вызван writeGraphicsRestore().
+Удаляет графический контекст. Если при создании restoreOnDispose было установлено значение true, будет вызываться writeGraphicsRestore().
 
 ```csharp
 public override void Dispose()

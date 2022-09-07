@@ -1,14 +1,14 @@
 ---
 title: XpsGlyphs
 second_title: Aspose.Page for .NET API 参考
-description: 封装 Glyphs 元素特性的类 此元素表示来自单一字体的一系列统一格式的文本 提供准确呈现所需的信息并支持搜索 和查看消费者时的选择功能
+description: 封装 Glyphs 元素功能的类 此元素表示来自单一字体的一系列统一格式的文本 它提供准确呈现所需的信息并支持查看消费者时的搜索 和选择功能
 type: docs
-weight: 990
+weight: 3030
 url: /zh/net/aspose.page.xps.xpsmodel/xpsglyphs/
 ---
 ## XpsGlyphs class
 
-封装 Glyphs 元素特性的类。 此元素表示来自单一字体的一系列统一格式的文本。 提供准确呈现所需的信息，并支持搜索 和查看消费者时的选择功能。
+封装 Glyphs 元素功能的类。 此元素表示来自单一字体的一系列统一格式的文本。 它提供准确呈现所需的信息，并支持查看消费者时的搜索 和选择功能。
 
 ```csharp
 public sealed class XpsGlyphs : XpsContentElement
@@ -18,29 +18,29 @@ public sealed class XpsGlyphs : XpsContentElement
 
 | 姓名 | 描述 |
 | --- | --- |
-| [BidiLevel](../../aspose.page.xps.xpsmodel/xpsglyphs/bidilevel) { get; set; } | 返回/设置指定 Unicode 算法双向嵌套级别的值。 偶数表示从左到右的布局，奇数表示从右到左的布局。 从右到左布局将运行原点放置在第一个字形的右侧， 具有正的前进宽度（表示向左前进）放置随后的 前一个字形左侧的字形。 |
+| [BidiLevel](../../aspose.page.xps.xpsmodel/xpsglyphs/bidilevel) { get; set; } | 返回/设置指定 Unicode 算法双向嵌套级别的值。 偶数表示从左到右的布局，奇数表示从右到左的布局。 从右到左的布局将运行原点放在右侧在第一个字形中， 具有正前进宽度（表示向左前进），将随后的 字形放在前一个字形的左侧。 |
 | [Clip](../../aspose.page.xps.xpsmodel/xpscontentelement/clip) { get; set; } | 返回/设置限制元素渲染区域的路径几何实例。 |
 | [Count](../../aspose.page.xps.xpsmodel/xpselement/count) { get; } | 返回子元素的数量。 |
 | [Fill](../../aspose.page.xps.xpsmodel/xpsglyphs/fill) { get; set; } | 返回/设置用于填充渲染字形形状的画笔。 |
 | [Font](../../aspose.page.xps.xpsmodel/xpsglyphs/font) { get; } | 返回用于排版元素文本的 TrueType 字体的字体资源。 |
-| [FontRenderingEmSize](../../aspose.page.xps.xpsmodel/xpsglyphs/fontrenderingemsize) { get; set; } | 返回/设置以绘图表面为单位的字体大小，表示为浮点数 以有效坐标空间为单位。 |
+| [FontRenderingEmSize](../../aspose.page.xps.xpsmodel/xpsglyphs/fontrenderingemsize) { get; set; } | 以绘图表面单位返回/设置字体大小，以有效坐标空间为单位表示为 float 。 |
 | [HyperlinkTarget](../../aspose.page.xps.xpsmodel/xpshyperlinkelement/hyperlinktarget) { get; set; } | 返回/设置超链接目标对象。 |
-| [IsSideways](../../aspose.page.xps.xpsmodel/xpsglyphs/issideways) { get; set; } | 返回/设置指示字形在其一侧翻转的值， 原点被定义为未翻转字形的顶部中心. |
-| [Item](../../aspose.page.xps.xpsmodel/xpselement/item) { get; } | 通过索引*i*提供对元素子元素的访问。 |
+| [IsSideways](../../aspose.page.xps.xpsmodel/xpsglyphs/issideways) { get; set; } | 返回/设置指示字形在其一侧翻转的值， 将原点定义为未翻转字形的顶部中心。 |
+| [Item](../../aspose.page.xps.xpsmodel/xpselement/item) { get; } | 通过索引提供对元素子项的访问*i*. |
 | [Opacity](../../aspose.page.xps.xpsmodel/xpscontentelement/opacity) { get; set; } | 返回/设置定义元素统一透明度的值。 |
-| [OpacityMask](../../aspose.page.xps.xpsmodel/xpscontentelement/opacitymask) { get; set; } | 返回/设置指定 alpha 值掩码 的画笔，它以与 Opacity 属性相同的方式应用于元素， 但允许元素的不同区域使用不同的 alpha 值。 |
+| [OpacityMask](../../aspose.page.xps.xpsmodel/xpscontentelement/opacitymask) { get; set; } | 返回/设置画笔指定 alpha 值 的遮罩，该遮罩以与不透明度属性 相同的方式应用于元素，但允许元素的不同区域使用不同的 alpha 值。 |
 | [OriginX](../../aspose.page.xps.xpsmodel/xpsglyphs/originx) { get; set; } | 返回/设置运行中第一个字形的 x 坐标， 以有效坐标空间为单位。 |
 | [OriginY](../../aspose.page.xps.xpsmodel/xpsglyphs/originy) { get; set; } | 返回/设置运行中第一个字形的 y 坐标， 以有效坐标空间为单位。 |
 | [RenderTransform](../../aspose.page.xps.xpsmodel/xpscontentelement/rendertransform) { get; set; } | 返回/设置仿射变换矩阵，为元素的所有属性和所有子元素（如果有）建立一个新的坐标系 。 |
 | [StyleSimulations](../../aspose.page.xps.xpsmodel/xpsglyphs/stylesimulations) { get; set; } | 返回/设置指定样式模拟的值。 |
-| [UnicodeString](../../aspose.page.xps.xpsmodel/xpsglyphs/unicodestring) { get; set; } | 返回/设置由 Glyphs 元素呈现的文本字符串。 文本被指定为 Unicode 代码点。 |
+| [UnicodeString](../../aspose.page.xps.xpsmodel/xpsglyphs/unicodestring) { get; set; } | 返回/设置由 Glyphs 元素呈现的文本字符串。 文本指定为 Unicode 代码点。 |
 
 ## 方法
 
 | 姓名 | 描述 |
 | --- | --- |
 | [Clone](../../aspose.page.xps.xpsmodel/xpsglyphs/clone)() | 克隆这个字形。 |
-| [GetEnumerator](../../aspose.page.xps.xpsmodel/xpselement/getenumerator)() | IEnumerable接口的实现。 |
+| [GetEnumerator](../../aspose.page.xps.xpsmodel/xpselement/getenumerator)() | 执行IEnumerable接口. |
 
 ### 也可以看看
 

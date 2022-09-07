@@ -1,25 +1,26 @@
 ---
 title: Aspose.Page
 second_title: Aspose.Page for .NET API 参考
-description: Aspose.Page 是 Aspose.Page 库的所有类的根命名空间它们是像 Device 直接在其中或者通过几个子命名空间间接地在其中
+description: 的 Aspose.Page是 Aspose.Page 库的所有类的根命名空间它们可以直接在其中 设备或间接通过几个子命名空间
 type: docs
 weight: 10
 url: /zh/net/aspose.page/
 ---
-**Aspose.Page** 是 Aspose.Page 库的所有类的根命名空间，它们是像 **Device** 直接在其中，或者通过几个子命名空间间接地在其中。
+的 **Aspose.Page**是 Aspose.Page 库的所有类的根命名空间，它们可以直接在其中 **设备**或间接通过几个子命名空间。
 
 ## 课程
 
 | 班级 | 描述 |
 | --- | --- |
 | [BuildVersionInfo](./buildversioninfo) | 此类提供有关当前产品构建的信息。 |
-| [Device](./device) | 这个类封装了文档到抽象设备的渲染。 文档的呈现是逐页执行的。 |
+| [Device](./device) | 这个类封装了文档到抽象设备的渲染。 文档的渲染是逐页执行的。 |
 | [Document](./document) | 所有封装文档的超类。 |
-| [ExternalFontCache](./externalfontcache) | 使用此类以[`Device`](../aspose.page/device)接受的形式获取字体封装。 |
+| [ExternalFontCache](./externalfontcache) | 使用该类来获取字体封装，其格式为[`Device`](../aspose.page/device). |
 | [License](./license) | 提供许可组件的方法。 |
 | [Margins](./margins) | 这个类封装了上、左、下、右边距。 |
+| [Metered](./metered) | 提供设置计量键的方法。 |
 | [SaveOptions](./saveoptions) | 此类包含管理转换过程所需的选项。 |
-| [UserProperties](./userproperties) | 允许设置类型属性并返回 的特殊属性类。如果此属性对象不包含该属性，它还允许搜索两个默认属性对象 的连接。 |
+| [UserProperties](./userproperties) | 允许设置类型属性并返回 的特殊属性类。如果此属性对象不包含该属性，它还允许搜索两个默认属性 objects 的连接。 |
 ## 接口
 
 | 界面 | 描述 |

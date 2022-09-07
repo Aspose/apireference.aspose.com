@@ -1,14 +1,14 @@
 ---
 title: Reset
 second_title: Aspose.Page for .NET API 参考
-description: 如果将设置页面设备参数此方法允许将写入流返回到页面的开头
+description: 如果要设置页面设备参数此方法允许将写入流返回到页面的开头
 type: docs
-weight: 210
+weight: 200
 url: /zh/net/aspose.page.eps.device/pdfdevice/reset/
 ---
 ## PdfDevice.Reset method
 
-如果将设置页面设备参数，此方法允许将写入流返回到页面的开头。
+如果要设置页面设备参数，此方法允许将写入流返回到页面的开头。
 
 ```csharp
 public override void Reset()

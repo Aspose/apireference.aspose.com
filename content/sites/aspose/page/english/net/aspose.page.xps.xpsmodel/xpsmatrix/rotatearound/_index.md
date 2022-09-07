@@ -1,12 +1,12 @@
 ---
 title: RotateAround
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Applies clockwise rotation by angle around the pivot to this Matrix in order specified by matrixOrder.
 type: docs
 weight: 140
 url: /net/aspose.page.xps.xpsmodel/xpsmatrix/rotatearound/
 ---
-## XpsMatrix.RotateAround method (1 of 2)
+## RotateAround(float, PointF, MatrixOrder) {#rotatearound_1}
 
 Applies clockwise rotation by *angle* around the *pivot* to this Matrix in order specified by *matrixOrder*.
 
@@ -28,7 +28,7 @@ public void RotateAround(float angle, PointF pivot, MatrixOrder matrixOrder)
 
 ---
 
-## XpsMatrix.RotateAround method (2 of 2)
+## RotateAround(float, PointF) {#rotatearound}
 
 Applies clockwise rotation by *angle* around the *pivot* to this Matrix in default (Prepend) order.
 

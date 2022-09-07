@@ -1,7 +1,7 @@
 ---
 title: IsLargeArc
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Returns/sets value determining whether the arc is drawn with a sweep of 180 or greater.
 type: docs
 weight: 10
 url: /net/aspose.page.xps.xpsmodel/xpsarcsegment/islargearc/

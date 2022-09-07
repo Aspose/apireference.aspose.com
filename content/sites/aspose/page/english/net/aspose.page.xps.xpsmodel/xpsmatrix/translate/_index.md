@@ -1,12 +1,12 @@
 ---
 title: Translate
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Applies the specified translation vector to this Matrix in order specified by matrixOrder.
 type: docs
 weight: 210
 url: /net/aspose.page.xps.xpsmodel/xpsmatrix/translate/
 ---
-## XpsMatrix.Translate method (1 of 2)
+## Translate(float, float, MatrixOrder) {#translate_1}
 
 Applies the specified translation vector to this Matrix in order specified by *matrixOrder*.
 
@@ -28,7 +28,7 @@ public void Translate(float offsetX, float offsetY, MatrixOrder matrixOrder)
 
 ---
 
-## XpsMatrix.Translate method (2 of 2)
+## Translate(float, float) {#translate}
 
 Applies the specified translation vector to this Matrix.
 

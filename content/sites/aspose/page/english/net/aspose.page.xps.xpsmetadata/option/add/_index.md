@@ -1,22 +1,22 @@
 ---
 title: Add
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Adds a list of items to the end of this options item list. Each one must be a ScoredPropertyaspose.page.xps.xpsmetadata/scoredproperty or Propertyaspose.page.xps.xpsmetadata/property instance.
 type: docs
 weight: 20
 url: /net/aspose.page.xps.xpsmetadata/option/add/
 ---
 ## Option.Add method
 
-Adds list of properties to the end of option properties list. Each one must be a [`ScoredProperty`](../../scoredproperty) or [`Property`](../../property) object.
+Adds a list of items to the end of this option's item list. Each one must be a [`ScoredProperty`](../../scoredproperty) or [`Property`](../../property) instance.
 
 ```csharp
-public void Add(params IOptionItem[] properties)
+public void Add(params IOptionItem[] items)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| properties | IOptionItem[] | List of properties to add. |
+| items | IOptionItem[] | List of items to add. |
 
 ### See Also
 

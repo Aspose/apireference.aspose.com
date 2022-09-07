@@ -1,14 +1,14 @@
 ---
 title: CreateFont
 second_title: Aspose.Page for .NET API 参考
-description: 创建新的 TrueType 字体资源
+description: 创建一个新的 TrueType 字体资源
 type: docs
 weight: 190
 url: /zh/net/aspose.page.xps/xpsdocument/createfont/
 ---
 ## CreateFont(string, FontStyle) {#createfont_1}
 
-创建新的 TrueType 字体资源。
+创建一个新的 TrueType 字体资源。
 
 ```csharp
 public XpsFont CreateFont(string fontFamily, FontStyle fontStyle)

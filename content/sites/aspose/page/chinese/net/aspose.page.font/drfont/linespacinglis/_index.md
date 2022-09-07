@@ -1,14 +1,14 @@
 ---
 title: LineSpacingLis
 second_title: Aspose.Page for .NET API 参考
-description: 返回此字体的单元格间距 lis 这是两个字形基线之间的垂直距离
+description: 返回此字体 lis 的单元格间距 这是两个字形基线之间的垂直距离
 type: docs
 weight: 120
 url: /zh/net/aspose.page.font/drfont/linespacinglis/
 ---
 ## DrFont.LineSpacingLis property
 
-返回此字体的单元格间距 (lis)。 这是两个字形基线之间的垂直距离。
+返回此字体 (lis) 的单元格间距。 这是两个字形基线之间的垂直距离。
 
 ```csharp
 public int LineSpacingLis { get; }

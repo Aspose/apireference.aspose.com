@@ -16,11 +16,11 @@ public virtual Margins GetPropertyMargins(string key)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| key | String | 属性名称。 |
+| key | String | 财产的名称。 |
 
 ### 返回值
 
-属性值。
+适当的价值。
 
 ### 也可以看看
 
@@ -41,12 +41,12 @@ public virtual Margins GetPropertyMargins(string key, Margins def)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| key | String | 属性名称。 |
+| key | String | 财产的名称。 |
 | def | Margins | 属性的默认值。 |
 
 ### 返回值
 
-属性值。
+适当的价值。
 
 ### 也可以看看
 

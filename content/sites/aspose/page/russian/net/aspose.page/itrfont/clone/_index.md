@@ -3,7 +3,7 @@ title: Clone
 second_title: Справочник по Aspose.Page для .NET API
 description: Клонирует шрифт.
 type: docs
-weight: 110
+weight: 120
 url: /ru/net/aspose.page/itrfont/clone/
 ---
 ## ITrFont.Clone method

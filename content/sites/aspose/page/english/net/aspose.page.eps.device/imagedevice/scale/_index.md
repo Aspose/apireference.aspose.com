@@ -1,9 +1,9 @@
 ---
 title: Scale
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Scales the current transformation matrix. Calls writeTransformTransform.
 type: docs
-weight: 410
+weight: 400
 url: /net/aspose.page.eps.device/imagedevice/scale/
 ---
 ## ImageDevice.Scale method

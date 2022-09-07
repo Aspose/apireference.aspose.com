@@ -1,9 +1,9 @@
 ---
 title: DrawImage
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Draws an image with assigned transform and background.
 type: docs
-weight: 220
+weight: 210
 url: /net/aspose.page.eps.device/imagedevice/drawimage/
 ---
 ## ImageDevice.DrawImage method

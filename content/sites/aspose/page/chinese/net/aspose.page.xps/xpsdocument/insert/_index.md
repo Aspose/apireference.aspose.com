@@ -1,14 +1,14 @@
 ---
 title: Insert
 second_title: Aspose.Page for .NET API 参考
-description: 将元素画布路径或字形插入到活动页面 在index位置
+description: 将元素画布路径或字形插入到活动页面 atindex位置.
 type: docs
 weight: 390
 url: /zh/net/aspose.page.xps/xpsdocument/insert/
 ---
 ## XpsDocument.Insert&lt;T&gt; method
 
-将元素（画布、路径或字形）插入到活动页面 在*index*位置。
+将元素（画布、路径或字形）插入到活动页面 at*index*位置.
 
 ```csharp
 public T Insert<T>(int index, T element)
@@ -18,12 +18,12 @@ public T Insert<T>(int index, T element)
 | 范围 | 描述 |
 | --- | --- |
 | T | 元素的类型。 |
-| index | 应该插入*element*的位置。 |
+| index | 位置*element*应该插入。 |
 | element | 要插入的元素。 |
 
 ### 返回值
 
-插入的元素。
+插入元素。
 
 ### 也可以看看
 

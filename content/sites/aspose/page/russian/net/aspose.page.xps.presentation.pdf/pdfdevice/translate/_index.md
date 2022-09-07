@@ -17,7 +17,7 @@ public override void Translate(double x, double y)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | x | Double | Смещение x. |
-| y | Double | Смещение по оси y. |
+| y | Double | Y смещение. |
 
 ### Смотрите также
 

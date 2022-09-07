@@ -1,14 +1,14 @@
 ---
 title: DescentLis
 second_title: Aspose.Page for .NET API 参考
-description: 此字体的单元格下降 lis 这是从单元格底部到单元格基线的垂直距离
+description: 此字体的单元格下降lis 这是从单元格底部到单元格基线的垂直距离
 type: docs
 weight: 50
 url: /zh/net/aspose.page.font/drfont/descentlis/
 ---
 ## DrFont.DescentLis property
 
-此字体的单元格下降 (lis)。 这是从单元格底部到单元格基线的垂直距离。
+此字体的单元格下降（lis）。 这是从单元格底部到单元格基线的垂直距离。
 
 ```csharp
 public int DescentLis { get; }

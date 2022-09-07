@@ -3,7 +3,7 @@ title: PdfImageCompression
 second_title: Справочник по Aspose.Page для .NET API
 description: Указывает тип сжатия применяемый к изображениям в файле PDF.
 type: docs
-weight: 350
+weight: 370
 url: /ru/net/aspose.page.xps.presentation.pdf/pdfimagecompression/
 ---
 ## PdfImageCompression enumeration
@@ -20,10 +20,10 @@ public enum PdfImageCompression
 | --- | --- | --- |
 | Auto | `0` | Автоматически выбирает наиболее подходящее сжатие для каждого изображения. |
 | None | `1` | Сохраняет необработанные байты изображения, что приводит к увеличению размера файла PDF. |
-| Rle | `2` | Сжатие длины прогона. |
+| Rle | `2` | Сжатие длины цикла. |
 | Flate | `3` | Плоское сжатие. |
-| LzwBaselinePredictor | `4` | Выбор предиктора ограничен предиктором PNG Paeth для ускорения процесса. На практике работает на удивление хорошо. Лучше, чемLzwOptimizedPredictor. |
-| LzwOptimizedPredictor | `5` | Выбор предиктора более сложен и должен привести к меньшим размерам изображения, но занимает больше времени. |
+| LzwBaselinePredictor | `4` | Выбор предиктора ограничен предиктором PNG Paeth для ускорения процесса. На практике работает на удивление хорошо. Лучше чемLzwOptimizedPredictor . |
+| LzwOptimizedPredictor | `5` | Выбор предиктора более сложен и должен привести к меньшим размерам изображения, но займет больше времени. |
 | Jpeg | `6` | Сжатие JPEG. Не поддерживает прозрачность. |
 
 ### Смотрите также

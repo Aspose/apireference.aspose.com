@@ -1,7 +1,7 @@
 ---
 title: PageNumbers
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Gets/sets the array of numbers of pages to convert.
 type: docs
 weight: 30
 url: /net/aspose.page.xps.presentation.image/imagesaveoptions/pagenumbers/

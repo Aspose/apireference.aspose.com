@@ -3,7 +3,7 @@ title: FontName
 second_title: Справочник по Aspose.Page для .NET API
 description: Возвращает имя шрифта.
 type: docs
-weight: 50
+weight: 60
 url: /ru/net/aspose.page/itrfont/fontname/
 ---
 ## ITrFont.FontName property

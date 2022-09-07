@@ -1,14 +1,14 @@
 ---
 title: OutputStream
 second_title: Aspose.Page for .NET API 参考
-description: 指定或返回输出流
+description: 指定或返回一个输出流
 type: docs
 weight: 40
 url: /zh/net/aspose.page.eps.device/pdfdevice/outputstream/
 ---
 ## PdfDevice.OutputStream property
 
-指定或返回输出流。
+指定或返回一个输出流。
 
 ```csharp
 public Stream OutputStream { get; set; }

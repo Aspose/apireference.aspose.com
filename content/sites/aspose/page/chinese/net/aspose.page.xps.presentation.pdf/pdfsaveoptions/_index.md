@@ -1,9 +1,9 @@
 ---
 title: PdfSaveOptions
 second_title: Aspose.Page for .NET API 参考
-description: XPS-as-PDF 保存选项的类
+description: XPSasPDF 保存选项的类
 type: docs
-weight: 360
+weight: 380
 url: /zh/net/aspose.page.xps.presentation.pdf/pdfsaveoptions/
 ---
 ## PdfSaveOptions class
@@ -24,17 +24,17 @@ public class PdfSaveOptions : SaveOptions
 
 | 姓名 | 描述 |
 | --- | --- |
-| [AdditionalFontsFolders](../../aspose.page/saveoptions/additionalfontsfolders) { get; set; } | 指定转换器应在其中找到输入文档字体的其他文件夹。 默认文件夹是标准字体文件夹，操作系统在其中查找内部需要的字体。 |
+| [AdditionalFontsFolders](../../aspose.page/saveoptions/additionalfontsfolders) { get; set; } | 指定转换器应在其中查找输入文档字体的其他文件夹。 默认文件夹是标准字体文件夹，操作系统在其中查找内部需要的字体。 |
 | virtual [Debug](../../aspose.page/saveoptions/debug) { get; set; } | 指定是否必须将调试信息打印到标准输出流。 |
 | [EncryptionDetails](../../aspose.page.xps.presentation.pdf/pdfsaveoptions/encryptiondetails) { get; set; } | 获取或设置加密细节。如果未设置，则不会执行加密。 |
-| virtual [Exceptions](../../aspose.page/saveoptions/exceptions) { get; } | 如果!:SuppressErrors为真，则返回抑制的转换错误列表。 |
-| [ImageCompression](../../aspose.page.xps.presentation.pdf/pdfsaveoptions/imagecompression) { get; set; } | 指定要用于文档中所有图像的压缩类型。 默认为Auto。 |
+| virtual [Exceptions](../../aspose.page/saveoptions/exceptions) { get; } | 返回抑制的转换错误列表 如果!:SuppressErrors是真的。 |
+| [ImageCompression](../../aspose.page.xps.presentation.pdf/pdfsaveoptions/imagecompression) { get; set; } | 指定用于文档中所有图像的压缩类型。 默认为Auto. |
 | [JpegQualityLevel](../../aspose.page/saveoptions/jpegqualitylevel) { get; set; } | 质量类别指定图像的压缩级别。 可用值是 0 到 100。 指定的数字越小，压缩率越高，因此图像质量越低。 0 值导致最低质量的图像，而 100 导致最高质量。 |
-| [OutlineTreeExpansionLevel](../../aspose.page.xps.presentation.pdf/pdfsaveoptions/outlinetreeexpansionlevel) { get; set; } | 指定查看 PDF 文件时文档大纲应展开到什么级别。 1 - 仅显示第一级大纲项， 2 - 仅显示第一级和第二级大纲项， 等等。 默认为 1。 |
-| [OutlineTreeHeight](../../aspose.page.xps.presentation.pdf/pdfsaveoptions/outlinetreeheight) { get; set; } | 指定要保存的文档大纲树的高度。 0 - 大纲树不会被转换， 1 - 只会转换第一级大纲项， 等等。 |
+| [OutlineTreeExpansionLevel](../../aspose.page.xps.presentation.pdf/pdfsaveoptions/outlinetreeexpansionlevel) { get; set; } | 指定查看 PDF 文件时文档大纲应展开到哪一级。 1 - 仅显示第一级大纲项目， 2 - 仅显示第一级和第二级大纲项目， 依此类推。 默认为 1. |
+| [OutlineTreeHeight](../../aspose.page.xps.presentation.pdf/pdfsaveoptions/outlinetreeheight) { get; set; } | 指定要保存的文档大纲树的高度。 0 - 不转换大纲树， 1 - 只转换第一级大纲项， 以此类推。 |
 | [PageNumbers](../../aspose.page.xps.presentation.pdf/pdfsaveoptions/pagenumbers) { get; set; } | 获取/设置要转换的页数数组。 |
-| virtual [SupressErrors](../../aspose.page/saveoptions/supresserrors) { get; set; } | 指定是否必须抑制错误。 如果真正的抑制错误被添加到[`Exceptions`](../../aspose.page/saveoptions/exceptions)列表。 如果为假，第一个错误将终止程序。 |
-| [TextCompression](../../aspose.page.xps.presentation.pdf/pdfsaveoptions/textcompression) { get; set; } | 指定用于除图像之外的所有内容流的压缩类型。 默认为Flate。 |
+| virtual [SupressErrors](../../aspose.page/saveoptions/supresserrors) { get; set; } | 指定是否必须抑制错误。 如果将真正抑制的错误添加到[`Exceptions`](../../aspose.page/saveoptions/exceptions)list. 如果为假，第一个错误将终止程序。 |
+| [TextCompression](../../aspose.page.xps.presentation.pdf/pdfsaveoptions/textcompression) { get; set; } | 指定用于除图像之外的所有内容流的压缩类型。 默认为Flate. |
 
 ### 也可以看看
 

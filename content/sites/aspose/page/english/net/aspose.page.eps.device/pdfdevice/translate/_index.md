@@ -1,9 +1,9 @@
 ---
 title: Translate
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Translates the current transformation matrix. Calls writeTransformTransform.
 type: docs
-weight: 300
+weight: 290
 url: /net/aspose.page.eps.device/pdfdevice/translate/
 ---
 ## PdfDevice.Translate method

@@ -1,14 +1,14 @@
 ---
 title: Save
 second_title: Aspose.Page for .NET API 参考
-description: 将 XPS 文档保存到位于path的 XPS 文件中
+description: 将 XPS 文档保存到位于path.
 type: docs
 weight: 510
 url: /zh/net/aspose.page.xps/xpsdocument/save/
 ---
 ## Save(string) {#save_2}
 
-将 XPS 文档保存到位于*path*的 XPS 文件中。
+将 XPS 文档保存到位于*path*.
 
 ```csharp
 public void Save(string path)
@@ -28,7 +28,7 @@ public void Save(string path)
 
 ## Save(Stream) {#save_1}
 
-将 XPS 文档保存到流。
+将 XPS 文档保存到流中。
 
 ```csharp
 public void Save(Stream stream)
@@ -48,7 +48,7 @@ public void Save(Stream stream)
 
 ## Save(Device, SaveOptions) {#save}
 
-使用[`Device`](../../../aspose.page/device)实例保存文档。
+使用[`Device`](../../../aspose.page/device)实例.
 
 ```csharp
 public override void Save(Device device, SaveOptions options)
@@ -56,7 +56,7 @@ public override void Save(Device device, SaveOptions options)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| device | Device | [`Device`](../../../aspose.page/device)实例。 |
+| device | Device | 这[`Device`](../../../aspose.page/device)实例。 |
 | options | SaveOptions | 文档保存选项。 |
 
 ### 也可以看看

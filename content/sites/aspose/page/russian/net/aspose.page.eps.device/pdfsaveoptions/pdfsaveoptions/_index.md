@@ -1,14 +1,14 @@
 ---
 title: PdfSaveOptions
 second_title: Справочник по Aspose.Page для .NET API
-description: Инициализирует новый экземпляр классаPdfSaveOptionsaspose.page.eps.device/pdfsaveoptionsсо значениями по умолчанию для флаговSuppressErrorstrue иDebugfalse.
+description: Инициализирует новый экземплярPdfSaveOptionsaspose.page.eps.device/pdfsaveoptions класс со значениями по умолчанию для флаговSuppressErrors правда иDebug ложь.
 type: docs
 weight: 10
 url: /ru/net/aspose.page.eps.device/pdfsaveoptions/pdfsaveoptions/
 ---
 ## PdfSaveOptions() {#constructor}
 
-Инициализирует новый экземпляр класса[`PdfSaveOptions`](../../pdfsaveoptions)со значениями по умолчанию для флагов!:SuppressErrors(true) и!:Debug(false).
+Инициализирует новый экземпляр[`PdfSaveOptions`](../../pdfsaveoptions) класс со значениями по умолчанию для флагов!:SuppressErrors (правда) и!:Debug (ложь).
 
 ```csharp
 public PdfSaveOptions()
@@ -24,7 +24,7 @@ public PdfSaveOptions()
 
 ## PdfSaveOptions(bool) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`PdfSaveOptions`](../../pdfsaveoptions)со значениями по умолчанию для флага!:Отладка(ложь).
+Инициализирует новый экземпляр[`PdfSaveOptions`](../../pdfsaveoptions) класс со значениями по умолчанию для флага!:Debug (ложь).
 
 ```csharp
 public PdfSaveOptions(bool supressErrors)
@@ -32,7 +32,7 @@ public PdfSaveOptions(bool supressErrors)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| supressErrors | Boolean | Указывает, должны ли быть подавлены ошибки. Если true, в список!:Exceptionsдобавляются подавленные ошибки. |
+| supressErrors | Boolean | Указывает, должны ли подавляться ошибки. Если истинные подавленные ошибки добавляются!:Exceptions список. |
 
 ### Смотрите также
 

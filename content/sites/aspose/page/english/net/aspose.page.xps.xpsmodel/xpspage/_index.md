@@ -1,9 +1,9 @@
 ---
 title: XpsPage
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Class incapsulating FixedPage element features. This element contains the contents of a page and is the root element of a FixedPage part.
 type: docs
-weight: 1130
+weight: 3170
 url: /net/aspose.page.xps.xpsmodel/xpspage/
 ---
 ## XpsPage class

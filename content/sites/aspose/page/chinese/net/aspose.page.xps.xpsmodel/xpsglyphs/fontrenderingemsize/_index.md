@@ -1,14 +1,14 @@
 ---
 title: FontRenderingEmSize
 second_title: Aspose.Page for .NET API 参考
-description: 返回/设置以绘图表面为单位的字体大小表示为浮点数 以有效坐标空间为单位
+description: 以绘图表面单位返回/设置字体大小以有效坐标空间为单位表示为 float 
 type: docs
 weight: 40
 url: /zh/net/aspose.page.xps.xpsmodel/xpsglyphs/fontrenderingemsize/
 ---
 ## XpsGlyphs.FontRenderingEmSize property
 
-返回/设置以绘图表面为单位的字体大小，表示为浮点数 以有效坐标空间为单位。
+以绘图表面单位返回/设置字体大小，以有效坐标空间为单位表示为 float 。
 
 ```csharp
 public float FontRenderingEmSize { get; set; }

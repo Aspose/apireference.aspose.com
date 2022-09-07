@@ -1,9 +1,9 @@
 ---
 title: XpsTilingBrush
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Class incapsulating common features of tiling brushes elements VisualBrush and ImageBrush.
 type: docs
-weight: 1300
+weight: 3340
 url: /net/aspose.page.xps.xpsmodel/xpstilingbrush/
 ---
 ## XpsTilingBrush class

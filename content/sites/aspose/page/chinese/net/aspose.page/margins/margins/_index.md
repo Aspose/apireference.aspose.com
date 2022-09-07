@@ -18,7 +18,7 @@ public Margins(int top, int left, int bottom, int right)
 | --- | --- | --- |
 | top | Int32 | 上边距。 |
 | left | Int32 | 左边距。 |
-| bottom | Int32 | 底部边距。 |
+| bottom | Int32 | 下边距。 |
 | right | Int32 | 右边距。 |
 
 ### 也可以看看

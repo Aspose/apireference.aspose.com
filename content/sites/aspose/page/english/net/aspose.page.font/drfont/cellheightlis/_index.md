@@ -1,7 +1,7 @@
 ---
 title: CellHeightLis
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Returns cell height of this font lis. This is a shortcut for AscentLisaspose.page.font/drfont/ascentlis  DescentLisaspose.page.font/drfont/descentlis.
 type: docs
 weight: 30
 url: /net/aspose.page.font/drfont/cellheightlis/

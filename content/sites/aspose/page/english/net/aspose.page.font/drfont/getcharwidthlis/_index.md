@@ -1,7 +1,7 @@
 ---
 title: GetCharWidthLis
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Gets the char width lis.
 type: docs
 weight: 190
 url: /net/aspose.page.font/drfont/getcharwidthlis/

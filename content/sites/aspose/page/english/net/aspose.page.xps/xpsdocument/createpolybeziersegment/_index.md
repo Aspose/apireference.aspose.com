@@ -1,7 +1,7 @@
 ---
 title: CreatePolyBezierSegment
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Creates a new set of cubic Bézier curves.
 type: docs
 weight: 300
 url: /net/aspose.page.xps/xpsdocument/createpolybeziersegment/

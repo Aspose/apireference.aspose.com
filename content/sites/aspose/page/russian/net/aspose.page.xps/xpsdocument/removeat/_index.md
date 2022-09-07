@@ -1,14 +1,14 @@
 ---
 title: RemoveAt
 second_title: Справочник по Aspose.Page для .NET API
-description: Удаляет элемент в позицииindexс активной страницы.
+description: Удаляет элемент вindex позиция с активной страницы.
 type: docs
 weight: 470
 url: /ru/net/aspose.page.xps/xpsdocument/removeat/
 ---
 ## XpsDocument.RemoveAt method
 
-Удаляет элемент в позиции*index*с активной страницы.
+Удаляет элемент в*index* позиция с активной страницы.
 
 ```csharp
 public XpsContentElement RemoveAt(int index)

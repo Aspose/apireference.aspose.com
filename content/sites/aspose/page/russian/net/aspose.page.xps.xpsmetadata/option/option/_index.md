@@ -1,23 +1,23 @@
 ---
 title: Option
 second_title: Справочник по Aspose.Page для .NET API
-description: Создает общий экземпляр функции печати билетов.
+description: Создает новый экземпляр опции PrintTicket.
 type: docs
 weight: 10
 url: /ru/net/aspose.page.xps.xpsmetadata/option/option/
 ---
-## Option(string, params IOptionItem[]) {#constructor_1}
+## Option(string, params IOptionItem[]) {#constructor_2}
 
-Создает общий экземпляр функции печати билетов.
+Создает новый экземпляр опции PrintTicket.
 
 ```csharp
-public Option(string name, params IOptionItem[] properties)
+public Option(string name, params IOptionItem[] items)
 ```
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | name | String | Произвольное имя опции. |
-| properties | IOptionItem[] | Массив объектов[`IOptionItem`](../../ioptionitem). Каждое из них должно быть[`ScoredProperty`](../../scoredproperty)или[`Property`](../../property)объект. |
+| items | IOptionItem[] | Произвольный массив[`IOptionItem`](../../ioptionitem)instances. Каждый должен быть[`ScoredProperty`](../../scoredproperty) или[`Property`](../../property) пример. |
 
 ### Смотрите также
 
@@ -30,19 +30,39 @@ public Option(string name, params IOptionItem[] properties)
 
 ## Option(params IOptionItem[]) {#constructor}
 
-Создает общий экземпляр функции печати билетов.
+Создает новый экземпляр опции PrintTicket.
 
 ```csharp
-public Option(params IOptionItem[] properties)
+public Option(params IOptionItem[] items)
 ```
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| properties | IOptionItem[] | Массив объектов[`IOptionItem`](../../ioptionitem). Каждое из них должно быть[`ScoredProperty`](../../scoredproperty)или[`Property`](../../property)объект. |
+| items | IOptionItem[] | Произвольный массив[`IOptionItem`](../../ioptionitem)instances. Каждый должен быть[`ScoredProperty`](../../scoredproperty) или[`Property`](../../property) пример. |
 
 ### Смотрите также
 
 * interface [IOptionItem](../../ioptionitem)
+* class [Option](../../option)
+* пространство имен [Aspose.Page.XPS.XpsMetadata](../../option)
+* сборка [Aspose.Page](../../../)
+
+---
+
+## Option(Option) {#constructor_1}
+
+Создает экземпляр варианта клонирования.
+
+```csharp
+public Option(Option option)
+```
+
+| Параметр | Тип | Описание |
+| --- | --- | --- |
+| option | Option | Экземпляр опции для клонирования. |
+
+### Смотрите также
+
 * class [Option](../../option)
 * пространство имен [Aspose.Page.XPS.XpsMetadata](../../option)
 * сборка [Aspose.Page](../../../)

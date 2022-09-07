@@ -3,7 +3,7 @@ title: XpsEdgeMode
 second_title: Справочник по Aspose.Page для .NET API
 description: Допустимые значения свойства RenderOptions.EdgeMode элемента Canvas.
 type: docs
-weight: 920
+weight: 2960
 url: /ru/net/aspose.page.xps.xpsmodel/xpsedgemode/
 ---
 ## XpsEdgeMode enumeration

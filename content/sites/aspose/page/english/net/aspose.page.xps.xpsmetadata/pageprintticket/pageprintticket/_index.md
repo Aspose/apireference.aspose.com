@@ -1,26 +1,26 @@
 ---
 title: PagePrintTicket
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Creates a pagelevel print ticket instance.
 type: docs
 weight: 10
 url: /net/aspose.page.xps.xpsmetadata/pageprintticket/pageprintticket/
 ---
 ## PagePrintTicket constructor
 
-Creates page-level print ticket instance.
+Creates a page-level print ticket instance.
 
 ```csharp
-public PagePrintTicket(params IPrintTicketItem[] items)
+public PagePrintTicket(params IPagePrintTicketItem[] items)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| items | IPrintTicketItem[] | Arbitrary array [`IPrintTicketItem`](../../iprintticketitem) objects. Each one can be [`Feature`](../../feature), [`ParameterInit`](../../parameterinit) or [`Property`](../../property) object. |
+| items | IPagePrintTicketItem[] | An arbitrary array of [`IPagePrintTicketItem`](../../ipageprintticketitem) instances. Each one can be a [`Feature`](../../feature), a [`ParameterInit`](../../parameterinit) or a [`Property`](../../property) instance. |
 
 ### See Also
 
-* interface [IPrintTicketItem](../../iprintticketitem)
+* interface [IPagePrintTicketItem](../../ipageprintticketitem)
 * class [PagePrintTicket](../../pageprintticket)
 * namespace [Aspose.Page.XPS.XpsMetadata](../../pageprintticket)
 * assembly [Aspose.Page](../../../)

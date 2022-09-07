@@ -1,7 +1,7 @@
 ---
 title: TotalPageCount
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Returns total number of pages in all documents inside XPS document.
 type: docs
 weight: 80
 url: /net/aspose.page.xps/xpsdocument/totalpagecount/

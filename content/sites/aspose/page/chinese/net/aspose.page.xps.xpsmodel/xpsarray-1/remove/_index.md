@@ -1,14 +1,14 @@
 ---
 title: Remove
 second_title: Aspose.Page for .NET API 参考
-description: 从数组中移除一个对象
+description: 从数组中删除一个对象
 type: docs
 weight: 50
 url: /zh/net/aspose.page.xps.xpsmodel/xpsarray-1/remove/
 ---
 ## XpsArray&lt;T&gt;.Remove method
 
-从数组中移除一个对象。
+从数组中删除一个对象。
 
 ```csharp
 public T Remove(T obj)
@@ -20,7 +20,7 @@ public T Remove(T obj)
 
 ### 返回值
 
-已移除对象。
+移除的对象。
 
 ### 也可以看看
 

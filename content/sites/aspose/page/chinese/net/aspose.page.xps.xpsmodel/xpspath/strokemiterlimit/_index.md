@@ -1,14 +1,14 @@
 ---
 title: StrokeMiterLimit
 second_title: Aspose.Page for .NET API 参考
-description: 返回/设置最大斜接长度与笔划粗细的一半之间的比率 仅当 StrokeLineJoin 属性指定 Miter 时此值才有意义.
+description: 返回/设置最大斜接长度与笔划厚度一半之间的比率 此值仅在以下情况下才有意义StrokeLineJoin属性指定斜接.
 type: docs
 weight: 90
 url: /zh/net/aspose.page.xps.xpsmodel/xpspath/strokemiterlimit/
 ---
 ## XpsPath.StrokeMiterLimit property
 
-返回/设置最大斜接长度与笔划粗细的一半之间的比率。 仅当` StrokeLineJoin` 属性指定` Miter` 时，此值才有意义.
+返回/设置最大斜接长度与笔划厚度一半之间的比率。 此值仅在以下情况下才有意义`StrokeLineJoin`属性指定`斜接`.
 
 ```csharp
 public float StrokeMiterLimit { get; set; }

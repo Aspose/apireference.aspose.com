@@ -1,12 +1,12 @@
 ---
 title: CreatePathFigure
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Creates a new path figure.
 type: docs
 weight: 280
 url: /net/aspose.page.xps/xpsdocument/createpathfigure/
 ---
-## XpsDocument.CreatePathFigure method (1 of 2)
+## CreatePathFigure(PointF, bool) {#createpathfigure}
 
 Creates a new path figure.
 
@@ -32,7 +32,7 @@ New path figure.
 
 ---
 
-## XpsDocument.CreatePathFigure method (2 of 2)
+## CreatePathFigure(PointF, List&lt;XpsPathSegment&gt;, bool) {#createpathfigure_1}
 
 Creates a new path figure.
 

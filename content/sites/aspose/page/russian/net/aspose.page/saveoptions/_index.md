@@ -1,14 +1,14 @@
 ---
 title: SaveOptions
 second_title: Справочник по Aspose.Page для .NET API
-description: Этот класс содержит опции необходимые для управления процессом преобразования.
+description: Этот класс содержит параметры необходимые для управления процессом преобразования.
 type: docs
-weight: 220
+weight: 240
 url: /ru/net/aspose.page/saveoptions/
 ---
 ## SaveOptions class
 
-Этот класс содержит опции, необходимые для управления процессом преобразования.
+Этот класс содержит параметры, необходимые для управления процессом преобразования.
 
 ```csharp
 public abstract class SaveOptions
@@ -18,18 +18,18 @@ public abstract class SaveOptions
 
 | Имя | Описание |
 | --- | --- |
-| [SaveOptions](saveoptions#constructor)() | Инициализирует новый экземпляр класса[`SaveOptions`](../saveoptions)со значениями по умолчанию для флагов!:SuppressErrors(истина) и[`Debug`](./debug)(ложь). |
-| [SaveOptions](saveoptions#constructor_1)(bool) | Инициализирует новый экземпляр класса[`SaveOptions`](../saveoptions)со значением по умолчанию для флага[`Debug`](./debug)(ложь). |
+| [SaveOptions](saveoptions#constructor)() | Инициализирует новый экземпляр[`SaveOptions`](../saveoptions) класс со значениями по умолчанию для флагов!:SuppressErrors (правда) и[`Debug`](./debug) (ложь). |
+| [SaveOptions](saveoptions#constructor_1)(bool) | Инициализирует новый экземпляр[`SaveOptions`](../saveoptions) класс со значением по умолчанию для флага[`Debug`](./debug) (ложь). |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [AdditionalFontsFolders](../../aspose.page/saveoptions/additionalfontsfolders) { get; set; } | Указывает дополнительные папки, в которых конвертер должен найти шрифты для входного документа. Папка по умолчанию - стандартная папка шрифтов, в которой ОС находит шрифты для внутренних нужд. |
+| [AdditionalFontsFolders](../../aspose.page/saveoptions/additionalfontsfolders) { get; set; } | Указывает дополнительные папки, в которых конвертер должен найти шрифты для входного документа. Папка по умолчанию — стандартная папка шрифтов, в которой ОС находит шрифты для внутренних нужд. |
 | virtual [Debug](../../aspose.page/saveoptions/debug) { get; set; } | Указывает, должна ли отладочная информация выводиться в стандартный поток вывода или нет. |
-| virtual [Exceptions](../../aspose.page/saveoptions/exceptions) { get; } | Возвращает список подавленных ошибок преобразования. Если!:SuppressErrorsистинно. |
-| [JpegQualityLevel](../../aspose.page/saveoptions/jpegqualitylevel) { get; set; } | Категория "Качество" указывает уровень сжатия изображения. Доступные значения:от 0 до 100. Чем меньше указанное число, тем выше степень сжатия и, следовательно, ниже качество изображения. Значение 0 приводит к самому низкому качеству изображения, а 100 — к самому высокому. |
-| virtual [SupressErrors](../../aspose.page/saveoptions/supresserrors) { get; set; } | Указывает, должны ли ошибки подавляться или нет. Если true, в список[`Exceptions`](./exceptions)добавляются подавленные ошибки. Если false, первая ошибка завершит программу. |
+| virtual [Exceptions](../../aspose.page/saveoptions/exceptions) { get; } | Возвращает список подавленных ошибок преобразования.!:SuppressErrors верно. |
+| [JpegQualityLevel](../../aspose.page/saveoptions/jpegqualitylevel) { get; set; } | Категория «Качество» указывает уровень сжатия изображения. Доступные значения от 0 до 100. Чем меньше указанное число, тем выше степень сжатия и, следовательно, ниже качество изображения. Значение 0 приводит к изображению самого низкого качества, а 100 — к самому высокому. |
+| virtual [SupressErrors](../../aspose.page/saveoptions/supresserrors) { get; set; } | Указывает, должны ли подавляться ошибки. Если истинные подавленные ошибки добавляются[`Exceptions`](./exceptions) list. Если false, первая ошибка приведет к завершению программы. |
 
 ### Смотрите также
 

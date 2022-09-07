@@ -3,7 +3,7 @@ title: XpsColor
 second_title: Справочник по Aspose.Page для .NET API
 description: Базовый класс объединяющий общие цветовые характеристики.
 type: docs
-weight: 880
+weight: 2920
 url: /ru/net/aspose.page.xps.xpsmodel/xpscolor/
 ---
 ## XpsColor class

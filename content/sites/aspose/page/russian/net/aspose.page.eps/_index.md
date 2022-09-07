@@ -1,12 +1,12 @@
 ---
 title: Aspose.Page.EPS
 second_title: Справочник по Aspose.Page для .NET API
-description: The Aspose.Page.EPS  это корневое пространство имен для всех классов которые имеют дело с PS/EPS файлы.
+description: Aspose.Page.EPS является корневым пространством имен для всех классов работающих с файлами PS/EPS.
 type: docs
 weight: 20
 url: /ru/net/aspose.page.eps/
 ---
-The **Aspose.Page.EPS** — это корневое пространство имен для всех классов, которые имеют дело с PS/EPS файлы.
+**Aspose.Page.EPS** является корневым пространством имен для всех классов, работающих с файлами PS/EPS.
 
 ## Классы
 

@@ -1,12 +1,12 @@
 ---
 title: AddDocument
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Adds an empty document with default page size.
 type: docs
 weight: 110
 url: /net/aspose.page.xps/xpsdocument/adddocument/
 ---
-## XpsDocument.AddDocument method (1 of 2)
+## AddDocument(bool) {#adddocument}
 
 Adds an empty document with default page size.
 
@@ -26,7 +26,7 @@ public void AddDocument(bool activate = true)
 
 ---
 
-## XpsDocument.AddDocument method (2 of 2)
+## AddDocument(float, float, bool) {#adddocument_1}
 
 Adds an empty document with the first page dimensions *width* and *height*.
 

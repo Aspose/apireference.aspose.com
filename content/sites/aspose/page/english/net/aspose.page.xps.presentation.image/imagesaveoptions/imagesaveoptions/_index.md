@@ -1,7 +1,7 @@
 ---
 title: ImageSaveOptions
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Creates new instance of options.
 type: docs
 weight: 10
 url: /net/aspose.page.xps.presentation.image/imagesaveoptions/imagesaveoptions/

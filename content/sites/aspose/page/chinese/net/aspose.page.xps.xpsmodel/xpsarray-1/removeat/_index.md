@@ -20,7 +20,7 @@ public T RemoveAt(int index)
 
 ### 返回值
 
-已移除对象。
+移除的对象。
 
 ### 也可以看看
 

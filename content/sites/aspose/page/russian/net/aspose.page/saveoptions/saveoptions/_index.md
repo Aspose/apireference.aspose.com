@@ -1,14 +1,14 @@
 ---
 title: SaveOptions
 second_title: Справочник по Aspose.Page для .NET API
-description: Инициализирует новый экземпляр классаSaveOptionsaspose.page/saveoptionsсо значениями по умолчанию для флаговSuppressErrorsистина иDebugaspose.page/saveoptions/debugложь.
+description: Инициализирует новый экземплярSaveOptionsaspose.page/saveoptions класс со значениями по умолчанию для флаговSuppressErrors правда иDebugaspose.page/saveoptions/debug ложь.
 type: docs
 weight: 10
 url: /ru/net/aspose.page/saveoptions/saveoptions/
 ---
 ## SaveOptions() {#constructor}
 
-Инициализирует новый экземпляр класса[`SaveOptions`](../../saveoptions)со значениями по умолчанию для флагов!:SuppressErrors(истина) и[`Debug`](../debug)(ложь).
+Инициализирует новый экземпляр[`SaveOptions`](../../saveoptions) класс со значениями по умолчанию для флагов!:SuppressErrors (правда) и[`Debug`](../debug) (ложь).
 
 ```csharp
 public SaveOptions()
@@ -24,7 +24,7 @@ public SaveOptions()
 
 ## SaveOptions(bool) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`SaveOptions`](../../saveoptions)со значением по умолчанию для флага[`Debug`](../debug)(ложь).
+Инициализирует новый экземпляр[`SaveOptions`](../../saveoptions) класс со значением по умолчанию для флага[`Debug`](../debug) (ложь).
 
 ```csharp
 public SaveOptions(bool supressErrors)
@@ -32,7 +32,7 @@ public SaveOptions(bool supressErrors)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| supressErrors | Boolean | Указывает, должны ли быть подавлены ошибки. Если true, в список[`Exceptions`](../exceptions)добавляются подавленные ошибки. |
+| supressErrors | Boolean | Указывает, должны ли подавляться ошибки. Если истинные подавленные ошибки добавляются[`Exceptions`](../exceptions) список. |
 
 ### Смотрите также
 

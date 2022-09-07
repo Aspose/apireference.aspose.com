@@ -1,7 +1,7 @@
 ---
 title: Clear
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Clears metadata.
 type: docs
 weight: 130
 url: /net/aspose.page.eps.xmp/xmpmetadata/clear/

@@ -1,7 +1,7 @@
 ---
 title: ToColor
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Convenience method for getting .NET native representation of ICC based color.
 type: docs
 weight: 20
 url: /net/aspose.page.xps.xpsmodel/xpsiccbasedcolor/tocolor/

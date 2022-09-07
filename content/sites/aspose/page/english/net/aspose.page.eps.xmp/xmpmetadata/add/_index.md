@@ -1,12 +1,12 @@
 ---
 title: Add
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Adds value to metadata.
 type: docs
 weight: 100
 url: /net/aspose.page.eps.xmp/xmpmetadata/add/
 ---
-## XmpMetadata.Add method (1 of 3)
+## Add(string, XmpValue) {#add_1}
 
 Adds value to metadata.
 
@@ -28,7 +28,7 @@ public void Add(string key, XmpValue value)
 
 ---
 
-## XmpMetadata.Add method (2 of 3)
+## Add(string, object) {#add_2}
 
 Adds value to metadata.
 
@@ -49,7 +49,7 @@ public void Add(string key, object value)
 
 ---
 
-## XmpMetadata.Add method (3 of 3)
+## Add(KeyValuePair&lt;string, XmpValue&gt;) {#add}
 
 Adds pair with key and value into the dictionary.
 

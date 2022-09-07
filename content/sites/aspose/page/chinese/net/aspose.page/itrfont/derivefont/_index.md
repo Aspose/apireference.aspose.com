@@ -1,14 +1,14 @@
 ---
 title: DeriveFont
 second_title: Aspose.Page for .NET API 参考
-description: 使用新大小创建与此字体等效的字体
+description: 使用新大小创建此字体的等效项
 type: docs
-weight: 120
+weight: 130
 url: /zh/net/aspose.page/itrfont/derivefont/
 ---
 ## DeriveFont(float) {#derivefont}
 
-使用新大小创建与此字体等效的字体。
+使用新大小创建此字体的等效项。
 
 ```csharp
 public ITrFont DeriveFont(float size)
@@ -20,7 +20,7 @@ public ITrFont DeriveFont(float size)
 
 ### 返回值
 
-新字体。
+一种新字体。
 
 ### 也可以看看
 
@@ -44,7 +44,7 @@ public ITrFont DeriveFont(FontStyle style)
 
 ### 返回值
 
-新字体。
+一种新字体。
 
 ### 也可以看看
 
@@ -56,7 +56,7 @@ public ITrFont DeriveFont(FontStyle style)
 
 ## DeriveFont(float, FontStyle) {#derivefont_1}
 
-以新的大小和样式创建此字体的等效项。
+使用新的大小和样式创建此字体的等效项。
 
 ```csharp
 public ITrFont DeriveFont(float size, FontStyle style)
@@ -69,7 +69,7 @@ public ITrFont DeriveFont(float size, FontStyle style)
 
 ### 返回值
 
-新字体。
+一种新字体。
 
 ### 也可以看看
 
@@ -81,7 +81,7 @@ public ITrFont DeriveFont(float size, FontStyle style)
 
 ## DeriveFont(Matrix) {#derivefont_2}
 
-f 字符 使用新变换创建此字体的等效项。
+f character 使用新的转换创建此字体的等效项。
 
 ```csharp
 public ITrFont DeriveFont(Matrix transform)
@@ -89,11 +89,11 @@ public ITrFont DeriveFont(Matrix transform)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| transform | Matrix | 转换新字体。 |
+| transform | Matrix | 新字体的转换。 |
 
 ### 返回值
 
-新字体。
+一种新字体。
 
 ### 也可以看看
 

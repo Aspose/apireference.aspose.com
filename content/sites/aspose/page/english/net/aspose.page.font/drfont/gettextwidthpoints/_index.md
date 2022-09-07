@@ -1,12 +1,12 @@
 ---
 title: GetTextWidthPoints
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Gets the text width points.
 type: docs
 weight: 240
 url: /net/aspose.page.font/drfont/gettextwidthpoints/
 ---
-## DrFont.GetTextWidthPoints method (1 of 2)
+## GetTextWidthPoints(string) {#gettextwidthpoints}
 
 Gets the text width points.
 
@@ -30,7 +30,7 @@ Returns width
 
 ---
 
-## DrFont.GetTextWidthPoints method (2 of 2)
+## GetTextWidthPoints(string, int, int) {#gettextwidthpoints_1}
 
 Gets the text width points.
 

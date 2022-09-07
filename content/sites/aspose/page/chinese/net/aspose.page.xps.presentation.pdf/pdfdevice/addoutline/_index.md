@@ -29,7 +29,7 @@ public virtual void AddOutline(int outlineLevel, string description)
 
 ## AddOutline(PointF, int, string) {#addoutline_1}
 
-添加以原点为目标的大纲项。
+添加一个以原点为目标的大纲项目。
 
 ```csharp
 public virtual void AddOutline(PointF origin, int outlineLevel, string description)

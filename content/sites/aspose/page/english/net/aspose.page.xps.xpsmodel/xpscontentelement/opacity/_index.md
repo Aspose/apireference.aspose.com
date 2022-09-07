@@ -1,7 +1,7 @@
 ---
 title: Opacity
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Returns/sets the value defining the uniform transparency of the element.
 type: docs
 weight: 20
 url: /net/aspose.page.xps.xpsmodel/xpscontentelement/opacity/

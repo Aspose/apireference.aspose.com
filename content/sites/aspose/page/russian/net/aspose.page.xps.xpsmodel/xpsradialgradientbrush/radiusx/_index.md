@@ -1,14 +1,14 @@
 ---
 title: RadiusX
 second_title: Справочник по Aspose.Page для .NET API
-description: Возвращает/устанавливает радиус в измерении x эллипса который определяет радиальный градиент.
+description: Возвращает/задает радиус в измерении x эллипса который определяет радиальный градиент.
 type: docs
 weight: 30
 url: /ru/net/aspose.page.xps.xpsmodel/xpsradialgradientbrush/radiusx/
 ---
 ## XpsRadialGradientBrush.RadiusX property
 
-Возвращает/устанавливает радиус в измерении x эллипса, который определяет радиальный градиент.
+Возвращает/задает радиус в измерении x эллипса, который определяет радиальный градиент.
 
 ```csharp
 public float RadiusX { get; set; }

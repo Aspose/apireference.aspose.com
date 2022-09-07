@@ -1,14 +1,14 @@
 ---
 title: Center
 second_title: Aspose.Page for .NET API 参考
-description: 返回/设置径向 渐变的中心点即椭圆的中心
+description: 返回/设置radial 渐变的中心点即椭圆的中心
 type: docs
 weight: 10
 url: /zh/net/aspose.page.xps.xpsmodel/xpsradialgradientbrush/center/
 ---
 ## XpsRadialGradientBrush.Center property
 
-返回/设置径向 渐变的中心点（即椭圆的中心）。
+返回/设置radial 渐变的中心点（即椭圆的中心）。
 
 ```csharp
 public PointF Center { get; set; }

@@ -1,9 +1,9 @@
 ---
 title: PAGE_MARGINS
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Page margins property key.
 type: docs
-weight: 440
+weight: 430
 url: /net/aspose.page.eps.device/pdfdevice/page_margins/
 ---
 ## PdfDevice.PAGE_MARGINS field

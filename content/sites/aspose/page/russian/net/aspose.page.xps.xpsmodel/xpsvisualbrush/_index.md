@@ -3,7 +3,7 @@ title: XpsVisualBrush
 second_title: Справочник по Aspose.Page для .NET API
 description: Класс инкапсулирующий функции элемента свойства VisualBrush. Этот элемент используется для заполнения области рисунком.
 type: docs
-weight: 1320
+weight: 3360
 url: /ru/net/aspose.page.xps.xpsmodel/xpsvisualbrush/
 ---
 ## XpsVisualBrush class
@@ -18,11 +18,11 @@ public sealed class XpsVisualBrush : XpsTilingBrush
 
 | Имя | Описание |
 | --- | --- |
-| [Opacity](../../aspose.page.xps.xpsmodel/xpsbrush/opacity) { get; set; } | Возвращает/устанавливает значение, определяющее равномерную прозрачность заливки кистью. |
-| [TileMode](../../aspose.page.xps.xpsmodel/xpstilingbrush/tilemode) { get; set; } | Возвращает/устанавливает значение, указывающее, как выполняется тайлинг в заполненной геометрии. |
-| [Transform](../../aspose.page.xps.xpsmodel/xpstransformablebrush/transform) { get; set; } | Возвращает/задает матричное преобразование, примененное к координатному пространству кисти. Свойство Transform объединяется с текущим эффективным преобразованием рендеринга для получения эффективного преобразования рендеринга, локального для кисти. Окно просмотра для кисти преобразуется с использованием локального эффективного преобразования рендеринга. |
-| [Viewbox](../../aspose.page.xps.xpsmodel/xpstilingbrush/viewbox) { get; set; } | Возвращает/устанавливает область исходного содержимого кисти, которая должна быть сопоставлена с областью просмотра. |
-| [Viewport](../../aspose.page.xps.xpsmodel/xpstilingbrush/viewport) { get; set; } | Возвращает/устанавливает положение и размеры первого фрагмента кисти. Последующие плитки располагаются относительно этой плитки, как указано в режиме плитки. |
+| [Opacity](../../aspose.page.xps.xpsmodel/xpsbrush/opacity) { get; set; } | Возвращает/задает значение, определяющее равномерную прозрачность заливки кистью. |
+| [TileMode](../../aspose.page.xps.xpsmodel/xpstilingbrush/tilemode) { get; set; } | Возвращает/устанавливает значение, указывающее, как выполняется разбиение на мозаику в заполненной геометрии. |
+| [Transform](../../aspose.page.xps.xpsmodel/xpstransformablebrush/transform) { get; set; } | Возвращает/задает матричное преобразование, примененное к координатному пространству кисти. Свойство Transform объединяется с текущим эффективным преобразованием рендеринга для получения эффективного преобразования рендеринга, локального для кисти. Окно просмотра для brush преобразуется с использованием локального эффективного преобразования рендеринга. |
+| [Viewbox](../../aspose.page.xps.xpsmodel/xpstilingbrush/viewbox) { get; set; } | Возвращает/задает область исходного содержимого кисти, которая должна быть сопоставлена с окном просмотра. |
+| [Viewport](../../aspose.page.xps.xpsmodel/xpstilingbrush/viewport) { get; set; } | Возвращает/устанавливает положение и размеры первой плитки кисти. Последующие плитки располагаются относительно этой плитки, как указано в режиме плитки. |
 | [Visual](../../aspose.page.xps.xpsmodel/xpsvisualbrush/visual) { get; } | Возвращает/задает элемент Path, Glyphs или Canvas, используемый для рисования исходного содержимого кисти. |
 
 ## Методы
@@ -30,7 +30,7 @@ public sealed class XpsVisualBrush : XpsTilingBrush
 | Имя | Описание |
 | --- | --- |
 | [Clone](../../aspose.page.xps.xpsmodel/xpsvisualbrush/clone)() | Клонирует эту визуальную кисть. |
-| [SetVisual](../../aspose.page.xps.xpsmodel/xpsvisualbrush/setvisual)(XpsContentElement) | Устанавливает*visual*как визуальный элемент визуальной кисти. |
+| [SetVisual](../../aspose.page.xps.xpsmodel/xpsvisualbrush/setvisual)(XpsContentElement) | Наборы*visual* как визуальный элемент визуальной кисти. |
 
 ### Смотрите также
 

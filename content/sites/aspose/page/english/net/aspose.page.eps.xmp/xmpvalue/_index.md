@@ -1,9 +1,9 @@
 ---
 title: XmpValue
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Represents XMP value
 type: docs
-weight: 130
+weight: 140
 url: /net/aspose.page.eps.xmp/xmpvalue/
 ---
 ## XmpValue class
@@ -18,11 +18,11 @@ public class XmpValue
 
 | Name | Description |
 | --- | --- |
-| [XmpValue](xmpvalue)(DateTime) | Constructor for date time value. |
-| [XmpValue](xmpvalue)(double) | Constructor for floating point Value. |
-| [XmpValue](xmpvalue)(int) | Consructor for integer value. |
-| [XmpValue](xmpvalue)(string) | Constructor for string value. |
-| [XmpValue](xmpvalue)(XmpValue[]) | Constructor for array value. |
+| [XmpValue](xmpvalue#constructor_3)(DateTime) | Constructor for date time value. |
+| [XmpValue](xmpvalue#constructor_1)(double) | Constructor for floating point Value. |
+| [XmpValue](xmpvalue#constructor_2)(int) | Consructor for integer value. |
+| [XmpValue](xmpvalue#constructor_4)(string) | Constructor for string value. |
+| [XmpValue](xmpvalue#constructor)(XmpValue[]) | Constructor for array value. |
 
 ## Properties
 
@@ -52,12 +52,12 @@ public class XmpValue
 | [ToNamedValue](../../aspose.page.eps.xmp/xmpvalue/tonamedvalue)() | Returns XMP value as named value. |
 | [ToNamedValues](../../aspose.page.eps.xmp/xmpvalue/tonamedvalues)() | Returns XMP value as named value collection. |
 | [ToRaw](../../aspose.page.eps.xmp/xmpvalue/toraw)() | Raw XML code for unknown/unsupported values. |
-| override [ToString](../../aspose.page.eps.xmp/xmpvalue/tostring)() | Returns string representation of XmpValue. |
-| [ToString](../../aspose.page.eps.xmp/xmpvalue/tostring)(IFormatProvider) | Returns string representation. |
+| override [ToString](../../aspose.page.eps.xmp/xmpvalue/tostring#tostring)() | Returns string representation of XmpValue. |
+| [ToString](../../aspose.page.eps.xmp/xmpvalue/tostring#tostring_1)(IFormatProvider) | Returns string representation. |
 | [ToStringValue](../../aspose.page.eps.xmp/xmpvalue/tostringvalue)() | Converts to string. |
 | [ToStructure](../../aspose.page.eps.xmp/xmpvalue/tostructure)() | Returns XMP value as structure (set of fields). |
-| [explicit operator](../../aspose.page.eps.xmp/xmpvalue/op_explicit) | Converts XmpValue to array. (5 operators) |
-| [implicit operator](../../aspose.page.eps.xmp/xmpvalue/op_implicit) | Converts string to XmpValue. (5 operators) |
+| [explicit operator](../../aspose.page.eps.xmp/xmpvalue/op_explicit#op_explicit) | Converts XmpValue to array. (5 operators) |
+| [implicit operator](../../aspose.page.eps.xmp/xmpvalue/op_implicit#op_implicit_4) | Converts string to XmpValue. (5 operators) |
 
 ### See Also
 

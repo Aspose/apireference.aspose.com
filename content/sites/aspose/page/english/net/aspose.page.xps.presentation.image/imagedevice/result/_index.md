@@ -1,7 +1,7 @@
 ---
 title: Result
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Returns the resulting images byte arrays. The first dimension is for inner documents and the second one is for pages within inner documents.
 type: docs
 weight: 90
 url: /net/aspose.page.xps.presentation.image/imagedevice/result/

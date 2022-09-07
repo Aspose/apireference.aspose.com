@@ -1,14 +1,14 @@
 ---
 title: CreatePolyQuadraticBezierSegment
 second_title: Справочник по Aspose.Page для .NET API
-description: Создает новый набор квадратичных кривых Безье из предыдущей точки на фигуре пути через набор вершин используя указанные контрольные точки.
+description: Создает новый набор квадратичных кривых Безье от предыдущей точки на фигуре пути через set вершин используя указанные контрольные точки.
 type: docs
 weight: 320
 url: /ru/net/aspose.page.xps/xpsdocument/createpolyquadraticbeziersegment/
 ---
 ## XpsDocument.CreatePolyQuadraticBezierSegment method
 
-Создает новый набор квадратичных кривых Безье из предыдущей точки на фигуре пути через набор вершин, используя указанные контрольные точки.
+Создает новый набор квадратичных кривых Безье от предыдущей точки на фигуре пути через set вершин, используя указанные контрольные точки.
 
 ```csharp
 public XpsPolyQuadraticBezierSegment CreatePolyQuadraticBezierSegment(PointF[] points, 

@@ -1,14 +1,14 @@
 ---
 title: XpsCanvas
 second_title: Aspose.Page for .NET API 参考
-description: 封装 Canvas 元素特性的类 此元素将元素组合在一起例如Glyphs 和 Path 元素 可以在画布中进行分组以便被标识为一个单元作为超链接目标或 以将组合属性值应用于每个子元素和祖先元素
+description: 封装 Canvas 元素功能的类 此元素将元素组合在一起例如字形和路径元素 可以在画布中分组以便被标识为一个单元作为超链接目标或 将组合属性值应用于每个子元素和祖先元素
 type: docs
-weight: 870
+weight: 2910
 url: /zh/net/aspose.page.xps.xpsmodel/xpscanvas/
 ---
 ## XpsCanvas class
 
-封装 Canvas 元素特性的类。 此元素将元素组合在一起。例如，Glyphs 和 Path 元素 可以在画布中进行分组，以便被标识为一个单元（作为超链接目标）或 以将组合属性值应用于每个子元素和祖先元素。
+封装 Canvas 元素功能的类。 此元素将元素组合在一起。例如，字形和路径元素 可以在画布中分组，以便被标识为一个单元（作为超链接目标）或 将组合属性值应用于每个子元素和祖先元素。
 
 ```csharp
 public sealed class XpsCanvas : XpsContentElement
@@ -22,9 +22,9 @@ public sealed class XpsCanvas : XpsContentElement
 | [Count](../../aspose.page.xps.xpsmodel/xpselement/count) { get; } | 返回子元素的数量。 |
 | [EdgeMode](../../aspose.page.xps.xpsmodel/xpscanvas/edgemode) { get; set; } | 返回/设置控制画布内路径边缘如何呈现的值。 |
 | [HyperlinkTarget](../../aspose.page.xps.xpsmodel/xpshyperlinkelement/hyperlinktarget) { get; set; } | 返回/设置超链接目标对象。 |
-| [Item](../../aspose.page.xps.xpsmodel/xpselement/item) { get; } | 通过索引*i*提供对元素子元素的访问。 |
+| [Item](../../aspose.page.xps.xpsmodel/xpselement/item) { get; } | 通过索引提供对元素子项的访问*i*. |
 | [Opacity](../../aspose.page.xps.xpsmodel/xpscontentelement/opacity) { get; set; } | 返回/设置定义元素统一透明度的值。 |
-| [OpacityMask](../../aspose.page.xps.xpsmodel/xpscontentelement/opacitymask) { get; set; } | 返回/设置指定 alpha 值掩码 的画笔，它以与 Opacity 属性相同的方式应用于元素， 但允许元素的不同区域使用不同的 alpha 值。 |
+| [OpacityMask](../../aspose.page.xps.xpsmodel/xpscontentelement/opacitymask) { get; set; } | 返回/设置画笔指定 alpha 值 的遮罩，该遮罩以与不透明度属性 相同的方式应用于元素，但允许元素的不同区域使用不同的 alpha 值。 |
 | [RenderTransform](../../aspose.page.xps.xpsmodel/xpscontentelement/rendertransform) { get; set; } | 返回/设置仿射变换矩阵，为元素的所有属性和所有子元素（如果有）建立一个新的坐标系 。 |
 
 ## 方法
@@ -36,11 +36,11 @@ public sealed class XpsCanvas : XpsContentElement
 | [AddGlyphs](../../aspose.page.xps.xpsmodel/xpscanvas/addglyphs)(string, float, FontStyle, float, float, string) | 将新字形添加到此画布的子列表中。 |
 | [AddPath](../../aspose.page.xps.xpsmodel/xpscanvas/addpath)(XpsPathGeometry) | 向此画布的子列表添加新路径。 |
 | [Clone](../../aspose.page.xps.xpsmodel/xpscanvas/clone)() | 克隆此画布。 |
-| [GetEnumerator](../../aspose.page.xps.xpsmodel/xpselement/getenumerator)() | IEnumerable接口的实现。 |
-| [Insert&lt;T&gt;](../../aspose.page.xps.xpsmodel/xpscanvas/insert)(int, T) | 在*index*位置插入一个元素到此画布的子列表中。 |
-| [InsertCanvas](../../aspose.page.xps.xpsmodel/xpscanvas/insertcanvas)(int) | 在*index*位置将新画布插入此画布的子列表。 |
-| [InsertGlyphs](../../aspose.page.xps.xpsmodel/xpscanvas/insertglyphs)(int, string, float, FontStyle, float, float, string) | 将新字形插入到此画布的子列表*index*位置。 |
-| [InsertPath](../../aspose.page.xps.xpsmodel/xpscanvas/insertpath)(int, XpsPathGeometry) | 在*index*位置插入此画布子列表的新路径。 |
+| [GetEnumerator](../../aspose.page.xps.xpsmodel/xpselement/getenumerator)() | 执行IEnumerable接口. |
+| [Insert&lt;T&gt;](../../aspose.page.xps.xpsmodel/xpscanvas/insert)(int, T) | 在此画布的子列表中插入一个元素*index*位置. |
+| [InsertCanvas](../../aspose.page.xps.xpsmodel/xpscanvas/insertcanvas)(int) | 在此画布的子列表中插入一个新画布*index*位置. |
+| [InsertGlyphs](../../aspose.page.xps.xpsmodel/xpscanvas/insertglyphs)(int, string, float, FontStyle, float, float, string) | 在此画布的子列表中插入新字形*index*位置. |
+| [InsertPath](../../aspose.page.xps.xpsmodel/xpscanvas/insertpath)(int, XpsPathGeometry) | 在此画布的子列表中插入新路径*index*位置. |
 
 ### 也可以看看
 

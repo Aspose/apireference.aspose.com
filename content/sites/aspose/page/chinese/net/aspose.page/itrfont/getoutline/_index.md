@@ -3,7 +3,7 @@ title: GetOutline
 second_title: Aspose.Page for .NET API 参考
 description: 返回指定位置的字形轮廓
 type: docs
-weight: 140
+weight: 150
 url: /zh/net/aspose.page/itrfont/getoutline/
 ---
 ## ITrFont.GetOutline method
@@ -16,7 +16,7 @@ public GraphicsPath GetOutline(char charValue, float x, float y)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| charValue | Char | 字符。 |
+| charValue | Char | 特点。 |
 | x | Single | 字符位置的 X 坐标。 |
 | y | Single | 字符位置的 Y 坐标。 |
 

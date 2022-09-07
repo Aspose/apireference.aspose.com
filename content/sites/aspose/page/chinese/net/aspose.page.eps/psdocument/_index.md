@@ -3,7 +3,7 @@ title: PsDocument
 second_title: Aspose.Page for .NET API 参考
 description: 这个类封装了PS/EPS文件
 type: docs
-weight: 90
+weight: 100
 url: /zh/net/aspose.page.eps/psdocument/
 ---
 ## PsDocument class
@@ -18,22 +18,26 @@ public sealed class PsDocument : Document
 
 | 姓名 | 描述 |
 | --- | --- |
-| [PsDocument](psdocument)(Stream) | 使用 PS/EPS 文件流初始化[`PsDocument`](../psdocument)。 |
+| [PsDocument](psdocument)(Stream) | 初始化[`PsDocument`](../psdocument)带有 PS/EPS 文件流。 |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [NumberOfPages](../../aspose.page.eps/psdocument/numberofpages) { get; } | 返回结果 PDF 文档的页数。 |
+| [NumberOfPages](../../aspose.page.eps/psdocument/numberofpages) { get; } | 返回生成的 PDF 文档的页数。 |
 
 ## 方法
 
 | 姓名 | 描述 |
 | --- | --- |
 | [GetXmpMetadata](../../aspose.page.eps/psdocument/getxmpmetadata)() | 读取 PS/EPS 文件，如果 XmpMetdata 已存在则提取它，如果不存在则添加新的。 |
-| [Merge](../../aspose.page.eps/psdocument/merge)(string[], Device, SaveOptions) | 将 PS/EPS 文件合并到设备。 |
-| [Save](../../aspose.page.eps/psdocument/save#save_1)(Stream) | 保存给定[`PsDocument`](../psdocument)为 EPS 文件。此方法仅在更新 XMP 元数据后使用。 它使用更新的现有元数据或在调用 GetMetadata 方法时创建的新元数据保存初始 EPS 文件。 在最后一种情况下，添加了所有必要的 PostScript 代码和 EPS 注释。 |
+| [Merge](../../aspose.page.eps/psdocument/merge)(string[], Device, SaveOptions) | 将 PS/EPS 文件合并到设备中。 |
+| [Save](../../aspose.page.eps/psdocument/save#save_1)(Stream) | 保存给定[`PsDocument`](../psdocument)作为EPS文件。此方法仅在更新 XMP 元数据后使用。 它使用更新的现有元数据或在调用 GetMetadata 方法时创建的新元数据保存初始 EPS 文件。 在最后一种情况下，添加所有必要的 PostScript 代码和 EPS 注释。 |
 | override [Save](../../aspose.page.eps/psdocument/save#save)(Device, SaveOptions) | 将 PS/EPS 文件保存到设备。 |
+| static [SaveImageAsEps](../../aspose.page.eps/psdocument/saveimageaseps#saveimageaseps)(Bitmap, Stream, PsSaveOptions) | 将位图对象保存到 EPS 输出流。 |
+| static [SaveImageAsEps](../../aspose.page.eps/psdocument/saveimageaseps#saveimageaseps_1)(Bitmap, string, PsSaveOptions) | 将位图对象保存到 EPS 文件。 |
+| static [SaveImageAsEps](../../aspose.page.eps/psdocument/saveimageaseps#saveimageaseps_2)(Stream, Stream, PsSaveOptions) | 将 PNG/JPEG/TIFF/BMP/GIF/EMF 图像从输入流保存到 EPS 输出流。 |
+| static [SaveImageAsEps](../../aspose.page.eps/psdocument/saveimageaseps#saveimageaseps_3)(string, string, PsSaveOptions) | 将 PNG/JPEG/TIFF/BMP/GIF/EMF 图像从文件保存到 EPS 文件。 |
 
 ### 也可以看看
 

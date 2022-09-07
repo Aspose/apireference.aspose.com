@@ -1,7 +1,7 @@
 ---
 title: Create
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Creates a copy of this device.
 type: docs
 weight: 170
 url: /net/aspose.page/device/create/

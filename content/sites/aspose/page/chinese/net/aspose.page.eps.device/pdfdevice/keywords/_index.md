@@ -3,7 +3,7 @@ title: KEYWORDS
 second_title: Aspose.Page for .NET API 参考
 description: 关键字属性值
 type: docs
-weight: 420
+weight: 410
 url: /zh/net/aspose.page.eps.device/pdfdevice/keywords/
 ---
 ## PdfDevice.KEYWORDS field

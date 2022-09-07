@@ -1,9 +1,9 @@
 ---
 title: TRANSPARENT
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Transparent property key.
 type: docs
-weight: 480
+weight: 470
 url: /net/aspose.page.eps.device/pdfdevice/transparent/
 ---
 ## PdfDevice.TRANSPARENT field

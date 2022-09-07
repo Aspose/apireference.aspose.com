@@ -3,7 +3,7 @@ title: Margins
 second_title: Aspose.Page for .NET API 参考
 description: 这个类封装了上左下右边距
 type: docs
-weight: 210
+weight: 220
 url: /zh/net/aspose.page/margins/
 ---
 ## Margins class
@@ -27,7 +27,7 @@ public class Margins
 | override [Equals](../../aspose.page/margins/equals)(object) | 将此边距与其他边距进行比较。 |
 | override [GetHashCode](../../aspose.page/margins/gethashcode)() | 计算此边距对象的哈希码。 |
 | [set](../../aspose.page/margins/set)(int, int, int, int) | 指定边距值。 |
-| override [ToString](../../aspose.page/margins/tostring)() | 组成一个字符串来表示这个边距对象。 |
+| override [ToString](../../aspose.page/margins/tostring)() | 组成一个代表这个边距对象的字符串。 |
 
 ## 字段
 

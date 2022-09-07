@@ -1,9 +1,9 @@
 ---
 title: WriteComment
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Writes a comment.
 type: docs
-weight: 320
+weight: 310
 url: /net/aspose.page.eps.device/pdfdevice/writecomment/
 ---
 ## PdfDevice.WriteComment method

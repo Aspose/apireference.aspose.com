@@ -1,12 +1,12 @@
 ---
 title: ImageDevice
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Creates the new instance.
 type: docs
 weight: 10
 url: /net/aspose.page.xps.presentation.image/imagedevice/imagedevice/
 ---
-## ImageDevice constructor (1 of 2)
+## ImageDevice() {#constructor}
 
 Creates the new instance.
 
@@ -22,7 +22,7 @@ public ImageDevice()
 
 ---
 
-## ImageDevice constructor (2 of 2)
+## ImageDevice(Size) {#constructor_1}
 
 Creates the new instance with specified media size.
 

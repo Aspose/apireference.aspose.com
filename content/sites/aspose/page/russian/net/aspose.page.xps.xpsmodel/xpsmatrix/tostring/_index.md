@@ -1,14 +1,14 @@
 ---
 title: ToString
 second_title: Справочник по Aspose.Page для .NET API
-description: Возвращает строковое представление этого экземпляраXpsMatrixaspose.page.xps.xpsmodel/xpsmatrix.
+description: Возвращает строковое представление этогоXpsMatrixaspose.page.xps.xpsmodel/xpsmatrix экземпляр.
 type: docs
 weight: 170
 url: /ru/net/aspose.page.xps.xpsmodel/xpsmatrix/tostring/
 ---
 ## XpsMatrix.ToString method
 
-Возвращает строковое представление этого экземпляра[`XpsMatrix`](../../xpsmatrix).
+Возвращает строковое представление этого[`XpsMatrix`](../../xpsmatrix) экземпляр.
 
 ```csharp
 public override string ToString()

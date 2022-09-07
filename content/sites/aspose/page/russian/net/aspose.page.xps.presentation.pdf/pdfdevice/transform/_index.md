@@ -1,14 +1,14 @@
 ---
 title: Transform
 second_title: Справочник по Aspose.Page для .NET API
-description: Умножает текущую матрицу преобразования на указаннуюMatrix.
+description: Умножает текущую матрицу преобразования на заданноеMatrix .
 type: docs
 weight: 340
 url: /ru/net/aspose.page.xps.presentation.pdf/pdfdevice/transform/
 ---
 ## PdfDevice.Transform method
 
-Умножает текущую матрицу преобразования на указаннуюMatrix.
+Умножает текущую матрицу преобразования на заданноеMatrix .
 
 ```csharp
 public override void Transform(Matrix transform)

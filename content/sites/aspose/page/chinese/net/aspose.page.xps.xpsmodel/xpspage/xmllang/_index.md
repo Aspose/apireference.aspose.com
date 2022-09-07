@@ -1,14 +1,14 @@
 ---
 title: XmlLang
 second_title: Aspose.Page for .NET API 参考
-description: 返回/设置指定用于 当前元素和任何子元素或后代元素的默认语言的值
+description: 返回/设置值指定用于 当前元素和任何子元素或后代元素的默认语言
 type: docs
 weight: 30
 url: /zh/net/aspose.page.xps.xpsmodel/xpspage/xmllang/
 ---
 ## XpsPage.XmlLang property
 
-返回/设置指定用于 当前元素和任何子元素或后代元素的默认语言的值。
+返回/设置值，指定用于 当前元素和任何子元素或后代元素的默认语言。
 
 ```csharp
 public string XmlLang { get; set; }

@@ -3,7 +3,7 @@ title: ORIENTATION
 second_title: Справочник по Aspose.Page для .NET API
 description: Ключ свойства Ориентация.
 type: docs
-weight: 430
+weight: 420
 url: /ru/net/aspose.page.eps.device/pdfdevice/orientation/
 ---
 ## PdfDevice.ORIENTATION field

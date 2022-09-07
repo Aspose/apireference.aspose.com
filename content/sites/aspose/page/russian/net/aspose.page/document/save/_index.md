@@ -16,7 +16,7 @@ public abstract void Save(Device device, SaveOptions options)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| device | Device | Устройство вывода. |
+| device | Device | Выходное устройство. |
 | options | SaveOptions | Содержит флаги, определяющие вывод ошибок, возникших во время преобразования. |
 
 ### Смотрите также

@@ -1,14 +1,14 @@
 ---
 title: Image
 second_title: Справочник по Aspose.Page для .NET API
-description: Возвращает ресурс изображения используемый для кисти.
+description: Возвращает ресурс изображения использованный для кисти.
 type: docs
 weight: 10
 url: /ru/net/aspose.page.xps.xpsmodel/xpsimagebrush/image/
 ---
 ## XpsImageBrush.Image property
 
-Возвращает ресурс изображения, используемый для кисти.
+Возвращает ресурс изображения, использованный для кисти.
 
 ```csharp
 public XpsImage Image { get; }

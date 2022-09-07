@@ -1,14 +1,14 @@
 ---
 title: op_Equality
 second_title: Aspose.Page for .NET API 参考
-description: 实现运算符 
+description: 实现运算符 .
 type: docs
 weight: 220
 url: /zh/net/aspose.page.xps.xpsmodel/xpsmatrix/op_equality/
 ---
 ## XpsMatrix Equality operator
 
-实现运算符 ==。
+实现运算符 ==.
 
 ```csharp
 public static bool operator ==(XpsMatrix a, XpsMatrix b)

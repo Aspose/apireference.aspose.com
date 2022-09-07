@@ -3,7 +3,7 @@ title: ClosePage
 second_title: Справочник по Aspose.Page для .NET API
 description: Выполняет необходимую подготовку устройства после отображения страницы.
 type: docs
-weight: 180
+weight: 170
 url: /ru/net/aspose.page.eps.device/imagedevice/closepage/
 ---
 ## ImageDevice.ClosePage method

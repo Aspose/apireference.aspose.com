@@ -1,9 +1,9 @@
 ---
 title: SetClip
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Specifies the clip of the device.
 type: docs
-weight: 240
+weight: 230
 url: /net/aspose.page.eps.device/pdfdevice/setclip/
 ---
 ## PdfDevice.SetClip method

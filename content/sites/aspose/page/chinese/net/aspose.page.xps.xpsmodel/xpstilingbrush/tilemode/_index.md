@@ -1,14 +1,14 @@
 ---
 title: TileMode
 second_title: Aspose.Page for .NET API 参考
-description: 返回/设置指定如何在填充几何体中执行平铺的值
+description: 返回/设置指定如何在填充几何图形中执行平铺的值
 type: docs
 weight: 10
 url: /zh/net/aspose.page.xps.xpsmodel/xpstilingbrush/tilemode/
 ---
 ## XpsTilingBrush.TileMode property
 
-返回/设置指定如何在填充几何体中执行平铺的值。
+返回/设置指定如何在填充几何图形中执行平铺的值。
 
 ```csharp
 public XpsTileMode TileMode { get; set; }

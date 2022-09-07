@@ -1,14 +1,14 @@
 ---
 title: SupressErrors
 second_title: Справочник по Aspose.Page для .NET API
-description: Указывает должны ли ошибки подавляться или нет. Если true в списокExceptionsaspose.page/saveoptions/exceptionsдобавляются подавленные ошибки. Если false первая ошибка завершит программу.
+description: Указывает должны ли подавляться ошибки. Если истинные подавленные ошибки добавляютсяExceptionsaspose.page/saveoptions/exceptions list. Если false первая ошибка приведет к завершению программы.
 type: docs
 weight: 60
 url: /ru/net/aspose.page/saveoptions/supresserrors/
 ---
 ## SaveOptions.SupressErrors property
 
-Указывает, должны ли ошибки подавляться или нет. Если true, в список[`Exceptions`](../exceptions)добавляются подавленные ошибки. Если false, первая ошибка завершит программу.
+Указывает, должны ли подавляться ошибки. Если истинные подавленные ошибки добавляются[`Exceptions`](../exceptions) list. Если false, первая ошибка приведет к завершению программы.
 
 ```csharp
 public virtual bool SupressErrors { get; set; }

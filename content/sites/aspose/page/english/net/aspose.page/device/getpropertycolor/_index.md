@@ -1,7 +1,7 @@
 ---
 title: GetPropertyColor
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Gets a value of color property.
 type: docs
 weight: 370
 url: /net/aspose.page/device/getpropertycolor/

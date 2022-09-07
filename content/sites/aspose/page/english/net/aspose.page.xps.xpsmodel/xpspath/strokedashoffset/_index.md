@@ -1,7 +1,7 @@
 ---
 title: StrokeDashOffset
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Returns/sets the start point for repeating the dash array pattern. If this value is omitted the dash array aligns with the origin of the stroke.
 type: docs
 weight: 60
 url: /net/aspose.page.xps.xpsmodel/xpspath/strokedashoffset/

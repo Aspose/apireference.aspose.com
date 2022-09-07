@@ -1,14 +1,14 @@
 ---
 title: PdfSaveOptions
 second_title: Aspose.Page for .NET API 参考
-description: 使用默认值 初始化PdfSaveOptionsaspose.page.eps.device/pdfsaveoptions类的新实例用于标志SuppressErrorstrue 和Debugfalse
+description: 初始化PdfSaveOptionsaspose.page.eps.device/pdfsaveoptions标志的默认值 的类SuppressErrors真实和Debug假.
 type: docs
 weight: 10
 url: /zh/net/aspose.page.eps.device/pdfsaveoptions/pdfsaveoptions/
 ---
 ## PdfSaveOptions() {#constructor}
 
-使用默认值 初始化[`PdfSaveOptions`](../../pdfsaveoptions)类的新实例:用于标志!:SuppressErrors(true) 和!:Debug(false)。
+初始化[`PdfSaveOptions`](../../pdfsaveoptions)标志的默认值 的类!:SuppressErrors（真实）和!:Debug（假）.
 
 ```csharp
 public PdfSaveOptions()
@@ -24,7 +24,7 @@ public PdfSaveOptions()
 
 ## PdfSaveOptions(bool) {#constructor_1}
 
-使用标志的默认值初始化[`PdfSaveOptions`](../../pdfsaveoptions)类的新实例!:Debug(false).
+初始化[`PdfSaveOptions`](../../pdfsaveoptions)具有标志默认值的类!:Debug（假）.
 
 ```csharp
 public PdfSaveOptions(bool supressErrors)
@@ -32,7 +32,7 @@ public PdfSaveOptions(bool supressErrors)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| supressErrors | Boolean | 指定是否必须抑制错误。 如果真正的抑制错误被添加到!:Exceptions列表。 |
+| supressErrors | Boolean | 指定是否必须抑制错误。 如果将真正抑制的错误添加到!:Exceptions列表。 |
 
 ### 也可以看看
 

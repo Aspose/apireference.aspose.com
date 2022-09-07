@@ -3,7 +3,7 @@ title: AUTHOR
 second_title: Aspose.Page for .NET API 参考
 description: 作者属性值
 type: docs
-weight: 330
+weight: 320
 url: /zh/net/aspose.page.eps.device/pdfdevice/author/
 ---
 ## PdfDevice.AUTHOR field

@@ -1,14 +1,14 @@
 ---
 title: LeadingPoints
 second_title: Справочник по Aspose.Page для .NET API
-description: Возвращает интерлиньяж данного шрифта lis. Это ярлык дляLineSpacingLisaspose.page.font/drfont/linespacinglis-CellHeightLisaspose.page.font/drfont/cellheightlis.
+description: Возвращает интерлиньяж этого шрифта lis. Это ярлык дляLineSpacingLisaspose.page.font/drfont/linespacinglis CellHeightLisaspose.page.font/drfont/cellheightlis .
 type: docs
 weight: 110
 url: /ru/net/aspose.page.font/drfont/leadingpoints/
 ---
 ## DrFont.LeadingPoints property
 
-Возвращает интерлиньяж данного шрифта (lis). Это ярлык для[`LineSpacingLis`](../linespacinglis)-[`CellHeightLis`](../cellheightlis).
+Возвращает интерлиньяж этого шрифта (lis). Это ярлык для[`LineSpacingLis`](../linespacinglis) -[`CellHeightLis`](../cellheightlis) .
 
 ```csharp
 public float LeadingPoints { get; }

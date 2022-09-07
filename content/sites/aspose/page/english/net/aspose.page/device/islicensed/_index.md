@@ -1,7 +1,7 @@
 ---
 title: IsLicensed
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Indicates whether this instance of Aspose.Page library is licensed.
 type: docs
 weight: 70
 url: /net/aspose.page/device/islicensed/

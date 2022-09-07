@@ -1,14 +1,14 @@
 ---
 title: XpsObject
 second_title: Справочник по Aspose.Page для .NET API
-description: Класс инкапсулирующий общие функции объекта модели XPS.
+description: Класс объединяющий общие функции объекта модели XPS.
 type: docs
-weight: 1120
+weight: 3160
 url: /ru/net/aspose.page.xps.xpsmodel/xpsobject/
 ---
 ## XpsObject class
 
-Класс, инкапсулирующий общие функции объекта модели XPS.
+Класс, объединяющий общие функции объекта модели XPS.
 
 ```csharp
 public abstract class XpsObject

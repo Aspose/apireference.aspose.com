@@ -1,21 +1,22 @@
 ---
 title: IFeatureItem
 second_title: Aspose.Page for .NET API 参考
-description: 可以作为打印票功能项的类的基本接口
+description: 可能是打印模式的类的基本接口Feature./feature项目.
 type: docs
-weight: 500
+weight: 860
 url: /zh/net/aspose.page.xps.xpsmetadata/ifeatureitem/
 ---
 ## IFeatureItem interface
 
-可以作为打印票功能项的类的基本接口。
+可能是打印模式的类的基本接口[`Feature`](../feature)项目.
 
 ```csharp
-public interface IFeatureItem
+public interface IFeatureItem : IPrintTicketElementChild
 ```
 
 ### 也可以看看
 
+* interface [IPrintTicketElementChild](../iprintticketelementchild)
 * 命名空间 [Aspose.Page.XPS.XpsMetadata](../../aspose.page.xps.xpsmetadata)
 * 部件 [Aspose.Page](../../)
 

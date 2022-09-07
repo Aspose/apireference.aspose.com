@@ -1,12 +1,12 @@
 ---
 title: Remove
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Removes entry from metadata.
 type: docs
 weight: 210
 url: /net/aspose.page.eps.xmp/xmpmetadata/remove/
 ---
-## XmpMetadata.Remove method (1 of 2)
+## Remove(string) {#remove_1}
 
 Removes entry from metadata.
 
@@ -30,7 +30,7 @@ True - if key removed; otherwise, false.
 
 ---
 
-## XmpMetadata.Remove method (2 of 2)
+## Remove(KeyValuePair&lt;string, XmpValue&gt;) {#remove}
 
 Removes key/value pair from the colleciton.
 

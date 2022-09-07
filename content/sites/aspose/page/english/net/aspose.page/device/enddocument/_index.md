@@ -1,7 +1,7 @@
 ---
 title: EndDocument
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Makes necessary preparation of device after the document has been rendered.
 type: docs
 weight: 290
 url: /net/aspose.page/device/enddocument/

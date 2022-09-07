@@ -1,9 +1,9 @@
 ---
 title: XpsExternalLinkTarget
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Class incapsulating the external hyperlink target.
 type: docs
-weight: 950
+weight: 2990
 url: /net/aspose.page.xps.xpsmodel/xpsexternallinktarget/
 ---
 ## XpsExternalLinkTarget class

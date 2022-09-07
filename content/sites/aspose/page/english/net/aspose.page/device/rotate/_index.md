@@ -1,12 +1,12 @@
 ---
 title: Rotate
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Rotate the current transformation matrix. Calls writeTransformTransform. Rotating with a positive angle theta rotates points on the positive x axis toward the positive y axis.
 type: docs
 weight: 480
 url: /net/aspose.page/device/rotate/
 ---
-## Device.Rotate method (1 of 2)
+## Rotate(double) {#rotate}
 
 Rotate the current transformation matrix. Calls writeTransform(Transform). Rotating with a positive angle theta rotates points on the positive x axis toward the positive y axis.
 
@@ -26,7 +26,7 @@ public virtual void Rotate(double theta)
 
 ---
 
-## Device.Rotate method (2 of 2)
+## Rotate(double, double, double) {#rotate_1}
 
 Rotate the current transformation matrix around a point.
 

@@ -3,7 +3,7 @@ title: GetCharWidth
 second_title: Aspose.Page for .NET API 参考
 description: 返回字符的宽度
 type: docs
-weight: 130
+weight: 140
 url: /zh/net/aspose.page/itrfont/getcharwidth/
 ---
 ## ITrFont.GetCharWidth method
@@ -16,7 +16,7 @@ public float GetCharWidth(char charValue)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| charValue | Char | 字符。 |
+| charValue | Char | 特点。 |
 
 ### 返回值
 

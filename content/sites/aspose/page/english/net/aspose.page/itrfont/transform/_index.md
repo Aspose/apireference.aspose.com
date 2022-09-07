@@ -1,9 +1,9 @@
 ---
 title: Transform
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Returns font transform.
 type: docs
-weight: 100
+weight: 110
 url: /net/aspose.page/itrfont/transform/
 ---
 ## ITrFont.Transform property

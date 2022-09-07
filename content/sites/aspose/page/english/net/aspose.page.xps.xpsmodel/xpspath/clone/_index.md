@@ -1,7 +1,7 @@
 ---
 title: Clone
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Clones this path.
 type: docs
 weight: 120
 url: /net/aspose.page.xps.xpsmodel/xpspath/clone/

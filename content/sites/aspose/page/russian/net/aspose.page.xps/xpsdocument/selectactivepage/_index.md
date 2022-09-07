@@ -20,13 +20,13 @@ public XpsPage SelectActivePage(int pageNumber)
 
 ### Возвращаемое значение
 
-[`XpsPage`](../../../aspose.page.xps.xpsmodel/xpspage)экземпляр для активной страницы.
+[`XpsPage`](../../../aspose.page.xps.xpsmodel/xpspage) экземпляр для активной страницы.
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentException | Вызывается, когда *pageNumber*выходит за пределы. |
+| ArgumentException | Выброшено, когда *pageNumber* находится за пределами. |
 
 ### Смотрите также
 

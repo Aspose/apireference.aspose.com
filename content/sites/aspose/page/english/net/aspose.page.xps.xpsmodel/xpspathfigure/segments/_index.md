@@ -1,7 +1,7 @@
 ---
 title: Segments
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Return list of child path segments.
 type: docs
 weight: 30
 url: /net/aspose.page.xps.xpsmodel/xpspathfigure/segments/

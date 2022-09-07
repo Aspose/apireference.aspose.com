@@ -3,7 +3,7 @@ title: Create
 second_title: Справочник по Aspose.Page для .NET API
 description: Создает копию этого устройства.
 type: docs
-weight: 90
+weight: 80
 url: /ru/net/aspose.page.eps.device/pdfdevice/create/
 ---
 ## PdfDevice.Create method

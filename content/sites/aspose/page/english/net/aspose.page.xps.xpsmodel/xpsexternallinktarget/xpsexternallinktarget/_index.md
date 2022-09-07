@@ -1,7 +1,7 @@
 ---
 title: XpsExternalLinkTarget
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Creates the new instance.
 type: docs
 weight: 10
 url: /net/aspose.page.xps.xpsmodel/xpsexternallinktarget/xpsexternallinktarget/

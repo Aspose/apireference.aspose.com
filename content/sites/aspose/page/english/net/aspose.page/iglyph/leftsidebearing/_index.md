@@ -1,7 +1,7 @@
 ---
 title: LeftSideBearing
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Returns left side bearing of the glyph.
 type: docs
 weight: 30
 url: /net/aspose.page/iglyph/leftsidebearing/

@@ -1,17 +1,47 @@
 ---
 title: Property
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: The class that implements a common PrintTicket
 type: docs
-weight: 730
+weight: 2750
 url: /net/aspose.page.xps.xpsmetadata/property/
 ---
 ## Property class
 
-Class implementing print ticket property.
+The class that implements a common PrintTicket
 
 ```csharp
-public class Property : IEnumerable<IPropertyItem>, IFeatureItem, IOptionItem, IPrintTicketItem, 
+Property
+```
+
+. The base class for all schema-defined properties. A
+
+```csharp
+Property
+```
+
+element declares a device, job formatting, or other relevant property whose name is given by its name attribute. A [`Value`](../value) element is used to assign a value to the
+
+```csharp
+Property
+```
+
+. A
+
+```csharp
+Property
+```
+
+can be complex, possibly containing multiple subproperties. Subproperties are also represented by
+
+```csharp
+Property
+```
+
+elements. https://docs.microsoft.com/en-us/windows/win32/printdocs/property
+
+```csharp
+public class Property : CompositePrintTicketElement, IFeatureItem, IOptionItem, IPrintTicketItem, 
     IPropertyItem, IScoredPropertyItem
 ```
 
@@ -19,27 +49,22 @@ public class Property : IEnumerable<IPropertyItem>, IFeatureItem, IOptionItem, I
 
 | Name | Description |
 | --- | --- |
-| [Property](property)(string, params IPropertyItem[]) | Creates common print ticket property instance. |
+| [Property](property#constructor)(string, Property, params IPropertyItem[]) | Creates a new instance. |
+| [Property](property#constructor_1)(string, Value, params IPropertyItem[]) | Creates a new instance. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Name](../../aspose.page.xps.xpsmetadata/property/name) { get; } | Returns property name. |
-
-## Methods
-
-| Name | Description |
-| --- | --- |
-| [GetEnumerator](../../aspose.page.xps.xpsmetadata/property/getenumerator)() | Implementation of IEnumerable interface. |
-| override [ToString](../../aspose.page.xps.xpsmetadata/property/tostring)() | Returns the string representation. |
+| [Name](../../aspose.page.xps.xpsmetadata/printticketelement/name) { get; } | Gets the element name. |
 
 ### See Also
 
-* interface [IPropertyItem](../ipropertyitem)
+* class [CompositePrintTicketElement](../compositeprintticketelement)
 * interface [IFeatureItem](../ifeatureitem)
 * interface [IOptionItem](../ioptionitem)
 * interface [IPrintTicketItem](../iprintticketitem)
+* interface [IPropertyItem](../ipropertyitem)
 * interface [IScoredPropertyItem](../iscoredpropertyitem)
 * namespace [Aspose.Page.XPS.XpsMetadata](../../aspose.page.xps.xpsmetadata)
 * assembly [Aspose.Page](../../)

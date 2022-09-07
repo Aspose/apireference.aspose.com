@@ -1,37 +1,48 @@
 ---
 title: Option
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: The class that implements a common PrintTicket
 type: docs
-weight: 600
+weight: 1590
 url: /net/aspose.page.xps.xpsmetadata/option/
 ---
 ## Option class
 
-Class implementing print ticket option.
+The class that implements a common PrintTicket
 
 ```csharp
-public class Option : IEnumerable<IOptionItem>, IFeatureItem
+Option
+```
+
+. The base class for all schema-defined options. An Option element contains all of the [`Property`](../property) and [`ScoredProperty`](../scoredproperty) elements associated with this option. https://docs.microsoft.com/en-us/windows/win32/printdocs/option
+
+```csharp
+public class Option : CompositePrintTicketElement, IFeatureItem
 ```
 
 ## Constructors
 
 | Name | Description |
 | --- | --- |
-| [Option](option)(params IOptionItem[]) | Creates common print ticket feature instance. |
-| [Option](option)(string, params IOptionItem[]) | Creates common print ticket feature instance. |
+| [Option](option#constructor)(params IOptionItem[]) | Creates a new PrintTicket option instance. |
+| [Option](option#constructor_1)(Option) | Creates a clone option instance. |
+| [Option](option#constructor_2)(string, params IOptionItem[]) | Creates a new PrintTicket option instance. |
+
+## Properties
+
+| Name | Description |
+| --- | --- |
+| [Name](../../aspose.page.xps.xpsmetadata/printticketelement/name) { get; } | Gets the element name. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Add](../../aspose.page.xps.xpsmetadata/option/add)(params IOptionItem[]) | Adds list of properties to the end of option properties list. Each one must be a [`ScoredProperty`](../scoredproperty) or [`Property`](../property) object. |
-| [GetEnumerator](../../aspose.page.xps.xpsmetadata/option/getenumerator)() | Implementation of IEnumerable interface. |
-| override [ToString](../../aspose.page.xps.xpsmetadata/option/tostring)() | Returns the string representation. |
+| [Add](../../aspose.page.xps.xpsmetadata/option/add)(params IOptionItem[]) | Adds a list of items to the end of this option's item list. Each one must be a [`ScoredProperty`](../scoredproperty) or [`Property`](../property) instance. |
 
 ### See Also
 
-* interface [IOptionItem](../ioptionitem)
+* class [CompositePrintTicketElement](../compositeprintticketelement)
 * interface [IFeatureItem](../ifeatureitem)
 * namespace [Aspose.Page.XPS.XpsMetadata](../../aspose.page.xps.xpsmetadata)
 * assembly [Aspose.Page](../../)

@@ -3,7 +3,7 @@ title: TextRenderingMode
 second_title: Aspose.Page for .NET API 参考
 description: 返回或指定当前文本渲染模式
 type: docs
-weight: 160
+weight: 150
 url: /zh/net/aspose.page.eps.device/imagedevice/textrenderingmode/
 ---
 ## ImageDevice.TextRenderingMode property

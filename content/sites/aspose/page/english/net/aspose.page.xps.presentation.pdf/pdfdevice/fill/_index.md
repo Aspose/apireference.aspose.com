@@ -1,7 +1,7 @@
 ---
 title: Fill
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Fills the specified path.
 type: docs
 weight: 200
 url: /net/aspose.page.xps.presentation.pdf/pdfdevice/fill/

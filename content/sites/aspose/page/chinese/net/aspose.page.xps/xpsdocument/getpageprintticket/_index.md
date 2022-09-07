@@ -1,14 +1,14 @@
 ---
 title: GetPagePrintTicket
 second_title: Aspose.Page for .NET API 参考
-description: 返回索引的文档中pageIndex 索引的页面的打印票文档索引documentIndex
+description: 返回由索引的页面的打印票pageIndex 在被索引的文档中documentIndex.
 type: docs
 weight: 380
 url: /zh/net/aspose.page.xps/xpsdocument/getpageprintticket/
 ---
 ## XpsDocument.GetPagePrintTicket method
 
-返回索引的文档中*pageIndex* 索引的页面的打印票文档索引*documentIndex*。
+返回由索引的页面的打印票*pageIndex* 在被索引的文档中*documentIndex*.
 
 ```csharp
 public PagePrintTicket GetPagePrintTicket(int documentIndex, int pageIndex)
@@ -17,11 +17,11 @@ public PagePrintTicket GetPagePrintTicket(int documentIndex, int pageIndex)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | documentIndex | Int32 | 文档的索引。 |
-| pageIndex | Int32 | 要返回打印票的页面的索引。 |
+| pageIndex | Int32 | 要返回其打印票的页面的索引。 |
 
 ### 返回值
 
-页面的打印票。
+Page 的打印票。
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: SaveOptions
 second_title: Aspose.Page for .NET API 参考
-description: 用于管理渲染过程的选项
+description: 用于管理渲染进程的选项
 type: docs
-weight: 130
+weight: 120
 url: /zh/net/aspose.page.eps.device/imagedevice/saveoptions/
 ---
 ## ImageDevice.SaveOptions property
 
-用于管理渲染过程的选项。
+用于管理渲染进程的选项。
 
 ```csharp
 public override SaveOptions SaveOptions { set; }

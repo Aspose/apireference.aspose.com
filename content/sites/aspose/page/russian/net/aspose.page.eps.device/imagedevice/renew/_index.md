@@ -1,14 +1,14 @@
 ---
 title: ReNew
 second_title: Справочник по Aspose.Page для .NET API
-description: Сброс устройства в исходное состояние для всего документа.
+description: Сбросить устройство в исходное состояние для всего документа.
 type: docs
-weight: 380
+weight: 370
 url: /ru/net/aspose.page.eps.device/imagedevice/renew/
 ---
 ## ImageDevice.ReNew method
 
-Сброс устройства в исходное состояние для всего документа.
+Сбросить устройство в исходное состояние для всего документа.
 
 ```csharp
 public override void ReNew()

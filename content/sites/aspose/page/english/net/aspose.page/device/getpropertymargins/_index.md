@@ -1,7 +1,7 @@
 ---
 title: GetPropertyMargins
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Gets a value of margin property.
 type: docs
 weight: 400
 url: /net/aspose.page/device/getpropertymargins/

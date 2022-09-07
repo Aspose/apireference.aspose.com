@@ -17,7 +17,7 @@ public virtual void DrawArc(double x, double y, double width, double height, dou
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| x | Double | X координата центра дуги. |
+| x | Double | Координата X центра дуги. |
 | y | Double | Координата Y центра дуги. |
 | width | Double | Ширина описанного прямоугольника. |
 | height | Double | Высота описанного прямоугольника. |

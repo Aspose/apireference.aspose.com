@@ -1,12 +1,12 @@
 ---
 title: op_Implicit
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Converts string to XmpValue.
 type: docs
 weight: 250
 url: /net/aspose.page.eps.xmp/xmpvalue/op_implicit/
 ---
-## XmpValue Implicit operator (1 of 5)
+## implicit operator {#op_implicit_4}
 
 Converts string to XmpValue.
 
@@ -30,7 +30,7 @@ XmlValue.
 
 ---
 
-## XmpValue Implicit operator (2 of 5)
+## implicit operator {#op_implicit_1}
 
 Converts integer into XmpValue.
 
@@ -54,7 +54,7 @@ XmlValue.
 
 ---
 
-## XmpValue Implicit operator (3 of 5)
+## implicit operator {#op_implicit}
 
 Converts double into XmpValue.
 
@@ -78,7 +78,7 @@ XmlValue.
 
 ---
 
-## XmpValue Implicit operator (4 of 5)
+## implicit operator {#op_implicit_2}
 
 Converts DateTime into XmpValue.
 
@@ -102,7 +102,7 @@ XmlValue.
 
 ---
 
-## XmpValue Implicit operator (5 of 5)
+## implicit operator {#op_implicit_3}
 
 Converts array to XmpValue.
 

@@ -16,7 +16,7 @@ public abstract Color ToColor()
 
 ### 返回值
 
-Color结构
+Color结构体
 
 ### 也可以看看
 

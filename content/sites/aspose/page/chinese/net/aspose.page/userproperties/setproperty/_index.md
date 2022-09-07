@@ -16,12 +16,12 @@ public virtual object SetProperty(string key, string value)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| key | String | 属性名称。 |
-| value | String | 属性值。 |
+| key | String | 财产的名称。 |
+| value | String | 财产的价值。 |
 
 ### 返回值
 
-属性。
+一个财产。
 
 ### 也可以看看
 
@@ -41,12 +41,12 @@ public virtual object SetProperty(string key, string[] value)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| key | String | 属性名称。 |
-| value | String[] | 属性值。 |
+| key | String | 财产的名称。 |
+| value | String[] | 财产的价值。 |
 
 ### 返回值
 
-属性。
+一个财产。
 
 ### 也可以看看
 
@@ -67,12 +67,12 @@ public static object SetProperty(Dictionary<string, object> properties, string k
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | properties | Dictionary`2 | 属性表。 |
-| key | String | 属性名称。 |
-| value | String[] | 属性值。 |
+| key | String | 财产的名称。 |
+| value | String[] | 财产的价值。 |
 
 ### 返回值
 
-属性。
+一个财产。
 
 ### 也可以看看
 
@@ -92,12 +92,12 @@ public virtual object SetProperty(string key, Color value)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| key | String | 属性名称。 |
-| value | Color | 属性值。 |
+| key | String | 财产的名称。 |
+| value | Color | 财产的价值。 |
 
 ### 返回值
 
-属性。
+一个财产。
 
 ### 也可以看看
 
@@ -109,7 +109,7 @@ public virtual object SetProperty(string key, Color value)
 
 ## SetProperty(Dictionary&lt;string, object&gt;, string, Color) {#setproperty_5}
 
-在指定的属性表中设置颜色属性值。
+在指定属性表中设置颜色属性值。
 
 ```csharp
 public static object SetProperty(Dictionary<string, object> properties, string key, Color value)
@@ -118,12 +118,12 @@ public static object SetProperty(Dictionary<string, object> properties, string k
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | properties | Dictionary`2 | 属性表。 |
-| key | String | 属性名称。 |
-| value | Color | 属性值。 |
+| key | String | 财产的名称。 |
+| value | Color | 财产的价值。 |
 
 ### 返回值
 
-属性。
+一个财产。
 
 ### 也可以看看
 
@@ -143,12 +143,12 @@ public virtual object SetProperty(string key, Rectangle value)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| key | String | 属性名称。 |
-| value | Rectangle | 属性值。 |
+| key | String | 财产的名称。 |
+| value | Rectangle | 财产的价值。 |
 
 ### 返回值
 
-属性。
+一个财产。
 
 ### 也可以看看
 
@@ -160,7 +160,7 @@ public virtual object SetProperty(string key, Rectangle value)
 
 ## SetProperty(Dictionary&lt;string, object&gt;, string, Rectangle) {#setproperty_6}
 
-设置指定属性表中的矩形属性值。
+在指定属性表中设置矩形属性值。
 
 ```csharp
 public static object SetProperty(Dictionary<string, object> properties, string key, Rectangle value)
@@ -169,12 +169,12 @@ public static object SetProperty(Dictionary<string, object> properties, string k
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | properties | Dictionary`2 | 属性表。 |
-| key | String | 属性名称。 |
-| value | Rectangle | 属性值。 |
+| key | String | 财产的名称。 |
+| value | Rectangle | 财产的价值。 |
 
 ### 返回值
 
-属性。
+一个财产。
 
 ### 也可以看看
 
@@ -194,12 +194,12 @@ public virtual object SetProperty(string key, Margins value)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| key | String | 属性名称。 |
-| value | Margins | 属性值。 |
+| key | String | 财产的名称。 |
+| value | Margins | 财产的价值。 |
 
 ### 返回值
 
-属性。
+一个财产。
 
 ### 也可以看看
 
@@ -221,12 +221,12 @@ public static object SetProperty(Dictionary<string, object> properties, string k
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | properties | Dictionary`2 | 属性表。 |
-| key | String | 属性名称。 |
-| value | Margins | 属性值。 |
+| key | String | 财产的名称。 |
+| value | Margins | 财产的价值。 |
 
 ### 返回值
 
-属性。
+一个财产。
 
 ### 也可以看看
 
@@ -247,12 +247,12 @@ public virtual object SetProperty(string key, Size value)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| key | String | 属性名称。 |
-| value | Size | 属性值。 |
+| key | String | 财产的名称。 |
+| value | Size | 财产的价值。 |
 
 ### 返回值
 
-属性。
+一个财产。
 
 ### 也可以看看
 
@@ -264,7 +264,7 @@ public virtual object SetProperty(string key, Size value)
 
 ## SetProperty(Dictionary&lt;string, object&gt;, string, Size) {#setproperty_7}
 
-在指定的属性表中设置大小属性值。
+在指定属性表中设置大小属性值。
 
 ```csharp
 public static object SetProperty(Dictionary<string, object> properties, string key, Size value)
@@ -273,12 +273,12 @@ public static object SetProperty(Dictionary<string, object> properties, string k
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | properties | Dictionary`2 | 属性表。 |
-| key | String | 属性名称。 |
-| value | Size | 属性值。 |
+| key | String | 财产的名称。 |
+| value | Size | 财产的价值。 |
 
 ### 返回值
 
-属性。
+一个财产。
 
 ### 也可以看看
 
@@ -298,12 +298,12 @@ public virtual object SetProperty(string key, int value)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| key | String | 属性名称。 |
-| value | Int32 | 属性值。 |
+| key | String | 财产的名称。 |
+| value | Int32 | 财产的价值。 |
 
 ### 返回值
 
-属性。
+一个财产。
 
 ### 也可以看看
 
@@ -324,12 +324,12 @@ public static object SetProperty(Dictionary<string, object> properties, string k
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | properties | Dictionary`2 | 属性表。 |
-| key | String | 属性名称。 |
-| value | Int32 | 属性值。 |
+| key | String | 财产的名称。 |
+| value | Int32 | 财产的价值。 |
 
 ### 返回值
 
-属性。
+一个财产。
 
 ### 也可以看看
 
@@ -349,12 +349,12 @@ public virtual object SetProperty(string key, double value)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| key | String | 属性名称。 |
-| value | Double | 属性值。 |
+| key | String | 财产的名称。 |
+| value | Double | 财产的价值。 |
 
 ### 返回值
 
-属性。
+一个财产。
 
 ### 也可以看看
 
@@ -375,12 +375,12 @@ public static object SetProperty(Dictionary<string, object> properties, string k
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | properties | Dictionary`2 | 属性表。 |
-| key | String | 属性名称。 |
-| value | Double | 属性值。 |
+| key | String | 财产的名称。 |
+| value | Double | 财产的价值。 |
 
 ### 返回值
 
-属性。
+一个财产。
 
 ### 也可以看看
 
@@ -400,12 +400,12 @@ public virtual object SetProperty(string key, float value)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| key | String | 属性名称。 |
-| value | Single | 属性值。 |
+| key | String | 财产的名称。 |
+| value | Single | 财产的价值。 |
 
 ### 返回值
 
-属性。
+一个财产。
 
 ### 也可以看看
 
@@ -426,12 +426,12 @@ public static object SetProperty(Dictionary<string, object> properties, string k
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | properties | Dictionary`2 | 属性表。 |
-| key | String | 属性名称。 |
-| value | Single | 属性值。 |
+| key | String | 财产的名称。 |
+| value | Single | 财产的价值。 |
 
 ### 返回值
 
-属性。
+一个财产。
 
 ### 也可以看看
 
@@ -451,12 +451,12 @@ public virtual object SetProperty(string key, bool value)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| key | String | 属性名称。 |
-| value | Boolean | 属性值。 |
+| key | String | 财产的名称。 |
+| value | Boolean | 财产的价值。 |
 
 ### 返回值
 
-属性。
+一个财产。
 
 ### 也可以看看
 
@@ -477,12 +477,12 @@ public static object SetProperty(Dictionary<string, object> properties, string k
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | properties | Dictionary`2 | 属性表。 |
-| key | String | 属性名称。 |
-| value | Boolean | 属性值。 |
+| key | String | 财产的名称。 |
+| value | Boolean | 财产的价值。 |
 
 ### 返回值
 
-属性。
+一个财产。
 
 ### 也可以看看
 

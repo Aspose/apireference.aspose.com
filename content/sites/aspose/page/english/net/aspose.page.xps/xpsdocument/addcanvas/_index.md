@@ -1,7 +1,7 @@
 ---
 title: AddCanvas
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Adds a new canvas to the active page.
 type: docs
 weight: 100
 url: /net/aspose.page.xps/xpsdocument/addcanvas/

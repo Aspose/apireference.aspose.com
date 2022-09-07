@@ -16,7 +16,7 @@ public override string ToString()
 
 ### 返回值
 
-类型名称。
+键入名称。
 
 ### 也可以看看
 

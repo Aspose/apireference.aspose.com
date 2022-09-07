@@ -1,7 +1,7 @@
 ---
 title: IsReadOnly
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Checks if collection is readonly.
 type: docs
 weight: 30
 url: /net/aspose.page.eps.xmp/xmpmetadata/isreadonly/

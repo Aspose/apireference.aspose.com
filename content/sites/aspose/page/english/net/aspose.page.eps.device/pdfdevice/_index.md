@@ -1,7 +1,7 @@
 ---
 title: PdfDevice
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: This class encapsulates rendering of document to PDF.
 type: docs
 weight: 60
 url: /net/aspose.page.eps.device/pdfdevice/
@@ -18,8 +18,8 @@ public class PdfDevice : Device, IMultiPageDevice, IStreamable
 
 | Name | Description |
 | --- | --- |
-| [PdfDevice](pdfdevice)(Stream) | Initializes new instance of [`PdfDevice`](../pdfdevice) with output stream. |
-| [PdfDevice](pdfdevice)(Stream, Size) | Initializes new instance of [`PdfDevice`](../pdfdevice) with output stream and specified size of a page. |
+| [PdfDevice](pdfdevice#constructor)(Stream) | Initializes new instance of [`PdfDevice`](../pdfdevice) with output stream. |
+| [PdfDevice](pdfdevice#constructor_1)(Stream, Size) | Initializes new instance of [`PdfDevice`](../pdfdevice) with output stream and specified size of a page. |
 
 ## Properties
 
@@ -36,7 +36,7 @@ public class PdfDevice : Device, IMultiPageDevice, IStreamable
 | virtual [OpacityMask](../../aspose.page/device/opacitymask) { get; set; } | Returns or specifies current opacity mask. |
 | [OutputStream](../../aspose.page.eps.device/pdfdevice/outputstream) { get; set; } | Specifies or returns an output stream. |
 | override [Paint](../../aspose.page.eps.device/pdfdevice/paint) { set; } | Returns or specifies current paint. |
-| [Properties](../../aspose.page.eps.device/pdfdevice/properties) { get; set; } | Device properties including metadata. |
+| [Properties](../../aspose.page/device/properties) { get; set; } | Device properties including metadata. |
 | virtual [SaveOptions](../../aspose.page/device/saveoptions) { set; } | Options for managing rendering process. |
 | virtual [Size](../../aspose.page/device/size) { get; set; } | Returns or specifies a size of the page. |
 | override [Stroke](../../aspose.page.eps.device/pdfdevice/stroke) { set; } | Returns or specifies current stroke. |
@@ -81,11 +81,11 @@ public class PdfDevice : Device, IMultiPageDevice, IStreamable
 | override [InitClip](../../aspose.page.eps.device/pdfdevice/initclip)() | Initializes clip of the device. |
 | virtual [InitPageNumbers](../../aspose.page.eps.device/pdfdevice/initpagenumbers)() | Initializes numbers of pages to output. |
 | [IsProperty](../../aspose.page/device/isproperty)(string) | Gets a value of boolean property. |
-| virtual [OpenPage](../../aspose.page.eps.device/pdfdevice/openpage)(string) | Makes necessary preparation of the device before page rendering. |
-| virtual [OpenPage](../../aspose.page.eps.device/pdfdevice/openpage)(float, float) | Makes necessary preparation of the device before each page rendering. |
+| virtual [OpenPage](../../aspose.page.eps.device/pdfdevice/openpage#openpage_1)(string) | Makes necessary preparation of the device before page rendering. |
+| virtual [OpenPage](../../aspose.page.eps.device/pdfdevice/openpage#openpage)(float, float) | Makes necessary preparation of the device before each page rendering. |
 | override [ReNew](../../aspose.page.eps.device/pdfdevice/renew)() | Reset device to initial state for whole document. Used for reseting output stream. |
 | override [Reset](../../aspose.page.eps.device/pdfdevice/reset)() | If page device parameters will be set this method allows to return writing stream back the begining of page. |
-| override [Rotate](../../aspose.page.eps.device/pdfdevice/rotate)(double) | Rotate the current transform over the Z-axis. Calls writeTransform(Transform). Rotating with a positive angle theta rotates points on the positive x axis toward the positive y axis. |
+| override [Rotate](../../aspose.page.eps.device/pdfdevice/rotate#rotate)(double) | Rotate the current transform over the Z-axis. Calls writeTransform(Transform). Rotating with a positive angle theta rotates points on the positive x axis toward the positive y axis. |
 | virtual [Rotate](../../aspose.page/device/rotate)(double, double, double) | Rotate the current transformation matrix around a point. |
 | override [Scale](../../aspose.page.eps.device/pdfdevice/scale)(double, double) | Scales the current transformation matrix. Calls writeTransform(Transform). |
 | override [SetClip](../../aspose.page.eps.device/pdfdevice/setclip)(GraphicsPath) | Specifies the clip of the device. |

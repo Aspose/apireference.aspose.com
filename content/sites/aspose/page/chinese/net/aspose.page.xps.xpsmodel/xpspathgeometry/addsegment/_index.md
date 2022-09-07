@@ -20,7 +20,7 @@ public XpsPathSegment AddSegment(XpsPathSegment segment)
 
 ### 返回值
 
-添加路径段。
+添加了路径段。
 
 ### 也可以看看
 

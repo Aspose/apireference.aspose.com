@@ -1,12 +1,12 @@
 ---
 title: Multiply
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Multiplies this matrix by the matrix specified by the matrix in order specified by matrixOrder.
 type: docs
 weight: 110
 url: /net/aspose.page.xps.xpsmodel/xpsmatrix/multiply/
 ---
-## XpsMatrix.Multiply method (1 of 4)
+## Multiply(Matrix, MatrixOrder) {#multiply_3}
 
 Multiplies this matrix by the matrix specified by the *matrix* in order specified by *matrixOrder*.
 
@@ -27,7 +27,7 @@ public void Multiply(Matrix matrix, MatrixOrder matrixOrder)
 
 ---
 
-## XpsMatrix.Multiply method (2 of 4)
+## Multiply(Matrix) {#multiply_2}
 
 Multiplies this matrix by the matrix specified by the *matrix* in default (Prepend) order.
 
@@ -47,7 +47,7 @@ public void Multiply(Matrix matrix)
 
 ---
 
-## XpsMatrix.Multiply method (3 of 4)
+## Multiply(XpsMatrix, MatrixOrder) {#multiply_1}
 
 Multiplies this matrix by the matrix specified by the *matrix* in order specified by *matrixOrder*.
 
@@ -68,7 +68,7 @@ public void Multiply(XpsMatrix matrix, MatrixOrder matrixOrder)
 
 ---
 
-## XpsMatrix.Multiply method (4 of 4)
+## Multiply(XpsMatrix) {#multiply}
 
 Multiplies this matrix by the matrix specified by the *matrix* in default (Prepend) order.
 

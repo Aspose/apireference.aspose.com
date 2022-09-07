@@ -1,14 +1,14 @@
 ---
 title: PsConverterException
 second_title: Справочник по Aspose.Page для .NET API
-description: Инициализирует новый экземпляр классаPsConverterExceptionaspose.page.eps/psconverterexception.
+description: Инициализирует новый экземплярPsConverterExceptionaspose.page.eps/psconverterexception класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.page.eps/psconverterexception/psconverterexception/
 ---
 ## PsConverterException constructor
 
-Инициализирует новый экземпляр класса[`PsConverterException`](../../psconverterexception).
+Инициализирует новый экземпляр[`PsConverterException`](../../psconverterexception) класс.
 
 ```csharp
 public PsConverterException(string errorStr)

@@ -18,7 +18,7 @@ public void AddNamedValue(string structureKey, string valueKey, XmpValue value)
 | --- | --- | --- |
 | structureKey | String | 要在字典中搜索的结构的键。 |
 | valueKey | String | 要添加到结构中的值的名称。 |
-| value | XmpValue | 要添加到结构中的值。 |
+| value | XmpValue | 添加到结构中的价值。 |
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: CreatePathGeometry
 second_title: Aspose.Page for .NET API 参考
-description: 创建一个新的路径几何
+description: 创建一个新的路径几何图形
 type: docs
 weight: 290
 url: /zh/net/aspose.page.xps/xpsdocument/createpathgeometry/
 ---
 ## CreatePathGeometry() {#createpathgeometry}
 
-创建一个新的路径几何。
+创建一个新的路径几何图形。
 
 ```csharp
 public XpsPathGeometry CreatePathGeometry()
@@ -16,7 +16,7 @@ public XpsPathGeometry CreatePathGeometry()
 
 ### 返回值
 
-新路径几何。
+新的路径几何。
 
 ### 也可以看看
 
@@ -29,7 +29,7 @@ public XpsPathGeometry CreatePathGeometry()
 
 ## CreatePathGeometry(List&lt;XpsPathFigure&gt;) {#createpathgeometry_1}
 
-使用指定的路径图形列表创建新的路径几何。
+使用指定的路径图形列表创建一个新的路径几何图形。
 
 ```csharp
 public XpsPathGeometry CreatePathGeometry(List<XpsPathFigure> pathFigures)
@@ -41,7 +41,7 @@ public XpsPathGeometry CreatePathGeometry(List<XpsPathFigure> pathFigures)
 
 ### 返回值
 
-新路径几何。
+新的路径几何。
 
 ### 也可以看看
 
@@ -55,7 +55,7 @@ public XpsPathGeometry CreatePathGeometry(List<XpsPathFigure> pathFigures)
 
 ## CreatePathGeometry(string) {#createpathgeometry_2}
 
-创建一个以缩写形式指定的新路径几何。
+创建一个以缩写形式指定的新路径几何图形。
 
 ```csharp
 public XpsPathGeometry CreatePathGeometry(string abbreviatedGeometry)
@@ -67,7 +67,7 @@ public XpsPathGeometry CreatePathGeometry(string abbreviatedGeometry)
 
 ### 返回值
 
-新路径几何。
+新的路径几何。
 
 ### 也可以看看
 

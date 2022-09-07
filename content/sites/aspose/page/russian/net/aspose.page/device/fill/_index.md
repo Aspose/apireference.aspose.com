@@ -16,7 +16,7 @@ public virtual void Fill(GraphicsPath path)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| path | GraphicsPath | Путь для заполнения. |
+| path | GraphicsPath | Путь, который нужно заполнить. |
 
 ### Смотрите также
 

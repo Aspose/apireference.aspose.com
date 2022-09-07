@@ -1,7 +1,7 @@
 ---
 title: CreatePolyLineSegment
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Creates a new polygonal drawing containing an arbitrary number of individual vertices.
 type: docs
 weight: 310
 url: /net/aspose.page.xps/xpsdocument/createpolylinesegment/

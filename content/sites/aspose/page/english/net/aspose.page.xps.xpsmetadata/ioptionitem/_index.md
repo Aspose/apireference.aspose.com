@@ -1,21 +1,22 @@
 ---
 title: IOptionItem
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: The interface of classes that may be Print Schema Option./option items.
 type: docs
-weight: 510
+weight: 880
 url: /net/aspose.page.xps.xpsmetadata/ioptionitem/
 ---
 ## IOptionItem interface
 
-Basic interface for classes that can be a print ticket option item.
+The interface of classes that may be Print Schema [`Option`](../option) items.
 
 ```csharp
-public interface IOptionItem
+public interface IOptionItem : IPrintTicketElementChild
 ```
 
 ### See Also
 
+* interface [IPrintTicketElementChild](../iprintticketelementchild)
 * namespace [Aspose.Page.XPS.XpsMetadata](../../aspose.page.xps.xpsmetadata)
 * assembly [Aspose.Page](../../)
 

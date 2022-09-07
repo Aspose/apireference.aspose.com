@@ -1,14 +1,14 @@
 ---
 title: Properties
 second_title: Aspose.Page for .NET API 参考
-description: 复制属性包括其默认值到此 UserProperties
+description: 将属性包括其默认值复制到此 UserProperties
 type: docs
 weight: 20
 url: /zh/net/aspose.page/userproperties/properties/
 ---
 ## UserProperties.Properties property
 
-复制属性，包括其默认值到此 UserProperties
+将属性（包括其默认值）复制到此 UserProperties
 
 ```csharp
 public virtual Dictionary<string, object> Properties { set; }

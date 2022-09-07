@@ -1,7 +1,7 @@
 ---
 title: ClosePartition
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Accomplished the document partition.
 type: docs
 weight: 140
 url: /net/aspose.page.xps.presentation.pdf/pdfdevice/closepartition/

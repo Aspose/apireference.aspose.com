@@ -3,7 +3,7 @@ title: WriteComment
 second_title: Справочник по Aspose.Page для .NET API
 description: Пишет комментарий.
 type: docs
-weight: 500
+weight: 490
 url: /ru/net/aspose.page.eps.device/imagedevice/writecomment/
 ---
 ## ImageDevice.WriteComment method

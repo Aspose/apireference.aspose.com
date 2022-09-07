@@ -17,11 +17,11 @@ public XpsPolyBezierSegment CreatePolyBezierSegment(PointF[] points, bool isStro
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | points | PointF[] | 多个贝塞尔线段的控制点。 |
-| isStroked | Boolean | 指定是否绘制此段路径的笔划。 |
+| isStroked | Boolean | 指定是否绘制此路径段的笔画。 |
 
 ### 返回值
 
-新三次贝塞尔曲线段。
+新的三次贝塞尔曲线段。
 
 ### 也可以看看
 

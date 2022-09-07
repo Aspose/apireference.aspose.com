@@ -1,7 +1,7 @@
 ---
 title: FontRenderingEmSize
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Returns/sets the font size in drawing surface units expressed as a float in units of the effective coordinate space.
 type: docs
 weight: 40
 url: /net/aspose.page.xps.xpsmodel/xpsglyphs/fontrenderingemsize/

@@ -1,7 +1,7 @@
 ---
 title: OpenPartition
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Starts a new document partition.
 type: docs
 weight: 240
 url: /net/aspose.page.xps.presentation.pdf/pdfdevice/openpartition/

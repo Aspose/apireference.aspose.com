@@ -1,14 +1,14 @@
 ---
 title: XpsPolyBezierSegment
 second_title: Справочник по Aspose.Page для .NET API
-description: Класс инкапсулирующий функции элемента PolyBezierSegment. Этот элемент описывает набор кубических кривых Безье.
+description: Класс инкапсулирующий свойства элемента PolyBezierSegment. Этот элемент описывает набор кубических кривых Безье.
 type: docs
-weight: 1200
+weight: 3240
 url: /ru/net/aspose.page.xps.xpsmodel/xpspolybeziersegment/
 ---
 ## XpsPolyBezierSegment class
 
-Класс, инкапсулирующий функции элемента PolyBezierSegment. Этот элемент описывает набор кубических кривых Безье.
+Класс, инкапсулирующий свойства элемента PolyBezierSegment. Этот элемент описывает набор кубических кривых Безье.
 
 ```csharp
 public class XpsPolyBezierSegment : XpsPathPolySegment
@@ -18,7 +18,7 @@ public class XpsPolyBezierSegment : XpsPathPolySegment
 
 | Имя | Описание |
 | --- | --- |
-| [IsStroked](../../aspose.page.xps.xpsmodel/xpspathsegment/isstroked) { get; set; } | Возвращает/устанавливает значение, указывающее, будет ли рисоваться штрих для этого сегмента пути. |
+| [IsStroked](../../aspose.page.xps.xpsmodel/xpspathsegment/isstroked) { get; set; } | Возвращает/задает значение, указывающее, будет ли рисоваться штрих для этого сегмента пути. |
 
 ## Методы
 

@@ -3,7 +3,7 @@ title: Create
 second_title: Aspose.Page for .NET API 参考
 description: 创建此设备的副本
 type: docs
-weight: 190
+weight: 180
 url: /zh/net/aspose.page.eps.device/imagedevice/create/
 ---
 ## ImageDevice.Create method

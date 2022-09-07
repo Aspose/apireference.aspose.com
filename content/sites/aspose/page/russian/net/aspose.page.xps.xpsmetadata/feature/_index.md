@@ -1,42 +1,45 @@
 ---
 title: Feature
 second_title: Справочник по Aspose.Page для .NET API
-description: Класс реализующий функцию общей печати билетов.
+description: Класс инкапсулирующий общую функцию схемы печати. Базовый класс для всех функций определяемых схемой. A элемент содержит полный списокOption./option а такжеProperty./property элементы которые полностью описывают атрибут устройства параметр форматирования задания или другую соответствующую характеристику.
 type: docs
-weight: 460
+weight: 810
 url: /ru/net/aspose.page.xps.xpsmetadata/feature/
 ---
 ## Feature class
 
-Класс, реализующий функцию общей печати билетов.
+Класс, инкапсулирующий общую функцию схемы печати. Базовый класс для всех функций, определяемых схемой. A элемент содержит полный список[`Option`](../option) а также[`Property`](../property) элементы, которые полностью описывают атрибут устройства, параметр форматирования задания или другую соответствующую характеристику.
 
 ```csharp
-public class Feature : IEnumerable<IFeatureItem>, IFeatureItem, IPrintTicketItem
+Feature
+```
+
+```csharp
+public class Feature : CompositePrintTicketElement, IFeatureItem, IPrintTicketItem
 ```
 
 ## Конструкторы
 
 | Имя | Описание |
 | --- | --- |
-| [Feature](feature#constructor)(string, Feature, params Property[]) | Создает общий экземпляр функции печати билетов. |
-| [Feature](feature#constructor_1)(string, Option, params Property[]) | Создает общий экземпляр функции печати билетов. |
+| [Feature](feature#constructor)(string, Feature, params IFeatureItem[]) | Создает новый экземпляр функции PrintTicket. |
+| [Feature](feature#constructor_1)(string, Option, params IFeatureItem[]) | Создает новый экземпляр функции PrintTicket. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [Name](../../aspose.page.xps.xpsmetadata/feature/name) { get; } | Возвращает имя функции. |
+| [Name](../../aspose.page.xps.xpsmetadata/printticketelement/name) { get; } | Получает имя элемента. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| [Add](../../aspose.page.xps.xpsmetadata/feature/add)(params IFeatureItem[]) | Добавляет список элементов в конец списка элементов функций. Каждый из них должен быть[`Feature`](../feature),[`Option`](../option)или[`Property`](../property)объект. |
-| [GetEnumerator](../../aspose.page.xps.xpsmetadata/feature/getenumerator)() | Реализация интерфейсаIEnumerable. |
-| override [ToString](../../aspose.page.xps.xpsmetadata/feature/tostring)() | Возвращает строковое представление. |
+| [Add](../../aspose.page.xps.xpsmetadata/feature/add)(params IFeatureItem[]) | Добавляет список элементов в конец списка элементов этой функции. Каждый должен быть[`Feature`](../feature) , ан[`Option`](../option) или[`Property`](../property) экземпляр. |
 
 ### Смотрите также
 
+* class [CompositePrintTicketElement](../compositeprintticketelement)
 * interface [IFeatureItem](../ifeatureitem)
 * interface [IPrintTicketItem](../iprintticketitem)
 * пространство имен [Aspose.Page.XPS.XpsMetadata](../../aspose.page.xps.xpsmetadata)

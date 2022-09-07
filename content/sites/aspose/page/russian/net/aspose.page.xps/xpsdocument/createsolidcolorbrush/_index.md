@@ -16,7 +16,7 @@ public XpsSolidColorBrush CreateSolidColorBrush(XpsColor color)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| color | XpsColor | Цвет залитых элементов. |
+| color | XpsColor | Цвет заполненных элементов. |
 
 ### Возвращаемое значение
 
@@ -42,7 +42,7 @@ public XpsSolidColorBrush CreateSolidColorBrush(Color color)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| color | Color | Цвет залитых элементов. |
+| color | Color | Цвет заполненных элементов. |
 
 ### Возвращаемое значение
 

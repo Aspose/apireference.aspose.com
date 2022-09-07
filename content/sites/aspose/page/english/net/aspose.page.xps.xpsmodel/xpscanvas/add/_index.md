@@ -1,7 +1,7 @@
 ---
 title: Add
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Adds an element to this canvass child list.
 type: docs
 weight: 20
 url: /net/aspose.page.xps.xpsmodel/xpscanvas/add/

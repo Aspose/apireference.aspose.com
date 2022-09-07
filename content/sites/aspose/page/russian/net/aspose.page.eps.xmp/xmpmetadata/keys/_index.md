@@ -1,14 +1,14 @@
 ---
 title: Keys
 second_title: Справочник по Aspose.Page для .NET API
-description: Получает коллекцию ключей метаданных.
+description: Получает набор ключей метаданных.
 type: docs
 weight: 60
 url: /ru/net/aspose.page.eps.xmp/xmpmetadata/keys/
 ---
 ## XmpMetadata.Keys property
 
-Получает коллекцию ключей метаданных.
+Получает набор ключей метаданных.
 
 ```csharp
 public ICollection<string> Keys { get; }

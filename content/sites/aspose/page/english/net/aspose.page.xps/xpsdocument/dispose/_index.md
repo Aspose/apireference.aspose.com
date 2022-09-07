@@ -1,7 +1,7 @@
 ---
 title: Dispose
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Disposes the instance.
 type: docs
 weight: 360
 url: /net/aspose.page.xps/xpsdocument/dispose/

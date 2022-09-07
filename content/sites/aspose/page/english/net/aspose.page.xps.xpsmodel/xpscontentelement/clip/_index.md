@@ -1,7 +1,7 @@
 ---
 title: Clip
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Returns/sets the path geometry instance limiting the rendered region of the element.
 type: docs
 weight: 10
 url: /net/aspose.page.xps.xpsmodel/xpscontentelement/clip/

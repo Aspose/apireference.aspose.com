@@ -1,14 +1,14 @@
 ---
 title: Scale
 second_title: Справочник по Aspose.Page для .NET API
-description: Применяет указанный вектор масштаба scaleX и scaleY к этой матрице в порядке указанномmatrixOrder.
+description: Применяет указанный вектор масштаба scaleX и scaleY к этой матрице в порядке  заданномmatrixOrder .
 type: docs
 weight: 150
 url: /ru/net/aspose.page.xps.xpsmodel/xpsmatrix/scale/
 ---
 ## Scale(float, float, MatrixOrder) {#scale_1}
 
-Применяет указанный вектор масштаба (scaleX и scaleY) к этой матрице в порядке указанном*matrixOrder*.
+Применяет указанный вектор масштаба (scaleX и scaleY) к этой матрице в порядке , заданном*matrixOrder* .
 
 ```csharp
 public void Scale(float scaleX, float scaleY, MatrixOrder matrixOrder)
@@ -16,9 +16,9 @@ public void Scale(float scaleX, float scaleY, MatrixOrder matrixOrder)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| scaleX | Single | Масштаб X. |
-| scaleY | Single | Масштаб Y . |
-| matrixOrder | MatrixOrder | Порядок. |
+| scaleX | Single | Шкала Х. |
+| scaleY | Single | Шкала Ю. |
+| matrixOrder | MatrixOrder | Приказ. |
 
 ### Смотрите также
 
@@ -30,7 +30,7 @@ public void Scale(float scaleX, float scaleY, MatrixOrder matrixOrder)
 
 ## Scale(float, float) {#scale}
 
-Применяет указанный вектор масштаба (масштабX и масштабY) к этой матрице в порядке по умолчанию (в начале).
+Применяет указанный вектор масштаба (scaleX и scaleY) к этой матрице в порядке по умолчанию (Prepend).
 
 ```csharp
 public void Scale(float scaleX, float scaleY)
@@ -38,8 +38,8 @@ public void Scale(float scaleX, float scaleY)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| scaleX | Single | Масштаб x. |
-| scaleY | Single | Масштаб y. |
+| scaleX | Single | Масштаб х. |
+| scaleY | Single | Шкала у. |
 
 ### Смотрите также
 

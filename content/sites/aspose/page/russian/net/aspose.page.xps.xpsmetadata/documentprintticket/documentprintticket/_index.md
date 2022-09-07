@@ -11,16 +11,16 @@ url: /ru/net/aspose.page.xps.xpsmetadata/documentprintticket/documentprintticket
 Создает экземпляр билета печати на уровне документа.
 
 ```csharp
-public DocumentPrintTicket(params IPrintTicketItem[] items)
+public DocumentPrintTicket(params IDocumentPrintTicketItem[] items)
 ```
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| items | IPrintTicketItem[] | Произвольный массив[`IPrintTicketItem`](../../iprintticketitem)объекты. Каждый может быть[`Feature`](../../feature),[`ParameterInit`](../../parameterinit)или[`Property`](../../property)object. |
+| items | IDocumentPrintTicketItem[] | Произвольный массив[`IDocumentPrintTicketItem`](../../idocumentprintticketitem) instances. Каждый может быть[`Feature`](../../feature) , а[`ParameterInit`](../../parameterinit) или[`Property`](../../property) пример. |
 
 ### Смотрите также
 
-* interface [IPrintTicketItem](../../iprintticketitem)
+* interface [IDocumentPrintTicketItem](../../idocumentprintticketitem)
 * class [DocumentPrintTicket](../../documentprintticket)
 * пространство имен [Aspose.Page.XPS.XpsMetadata](../../documentprintticket)
 * сборка [Aspose.Page](../../../)

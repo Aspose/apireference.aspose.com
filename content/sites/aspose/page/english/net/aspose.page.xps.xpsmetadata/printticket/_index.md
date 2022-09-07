@@ -1,35 +1,40 @@
 ---
 title: PrintTicket
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: The class that implements a common PrintTicket of any scope. The base class for job document and pagelevel print tickets. A
 type: docs
-weight: 700
+weight: 2730
 url: /net/aspose.page.xps.xpsmetadata/printticket/
 ---
 ## PrintTicket class
 
-Basic class incapsulating common features of a print ticket of any levels
+The class that implements a common PrintTicket of any scope. The base class for job-, document- and page-level print tickets. A
 
 ```csharp
-public abstract class PrintTicket : IEnumerable<IPrintTicketItem>
+PrintTicket
 ```
 
-## Constructors
+element is the root element of the PrintTicket document. A
 
-| Name | Description |
-| --- | --- |
-| [PrintTicket](printticket)(params IPrintTicketItem[]) | Creates print ticket instance. |
+```csharp
+PrintTicket
+```
+
+element contains all job formatting information required to output a job. https://docs.microsoft.com/en-us/windows/win32/printdocs/printticket
+
+```csharp
+public abstract class PrintTicket : IEnumerable<string>
+```
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Add](../../aspose.page.xps.xpsmetadata/printticket/add)(params IPrintTicketItem[]) | Adds list of items to the end of print ticket items list. Each one can be [`Feature`](../feature), [`Option`](../option) or [`Property`](../property) object. |
-| [GetEnumerator](../../aspose.page.xps.xpsmetadata/printticket/getenumerator)() | Implementation of IEnumerable interface. |
+| [GetEnumerator](../../aspose.page.xps.xpsmetadata/printticket/getenumerator)() | Returns the print ticket item names enumerator. |
+| [Remove](../../aspose.page.xps.xpsmetadata/printticket/remove)(params string[]) | Removes an item from this PrintTicket item list. |
 
 ### See Also
 
-* interface [IPrintTicketItem](../iprintticketitem)
 * namespace [Aspose.Page.XPS.XpsMetadata](../../aspose.page.xps.xpsmetadata)
 * assembly [Aspose.Page](../../)
 

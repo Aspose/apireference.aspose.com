@@ -1,9 +1,9 @@
 ---
 title: XpsFillRule
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Valid values of PathGeometry elements FillRule property.
 type: docs
-weight: 970
+weight: 3010
 url: /net/aspose.page.xps.xpsmodel/xpsfillrule/
 ---
 ## XpsFillRule enumeration

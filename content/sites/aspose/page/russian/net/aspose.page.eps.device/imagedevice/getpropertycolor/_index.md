@@ -3,7 +3,7 @@ title: GetPropertyColor
 second_title: Справочник по Aspose.Page для .NET API
 description: Получает значение свойства цвета.
 type: docs
-weight: 270
+weight: 260
 url: /ru/net/aspose.page.eps.device/imagedevice/getpropertycolor/
 ---
 ## ImageDevice.GetPropertyColor method
@@ -20,7 +20,7 @@ public Color GetPropertyColor(string key)
 
 ### Возвращаемое значение
 
-Значение свойства.
+Стоимость свойства.
 
 ### Смотрите также
 

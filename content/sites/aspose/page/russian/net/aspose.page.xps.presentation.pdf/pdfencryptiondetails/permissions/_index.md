@@ -1,14 +1,14 @@
 ---
 title: Permissions
 second_title: Справочник по Aspose.Page для .NET API
-description: Получает или устанавливает разрешения.
+description: Получает или задает разрешения.
 type: docs
 weight: 40
 url: /ru/net/aspose.page.xps.presentation.pdf/pdfencryptiondetails/permissions/
 ---
 ## PdfEncryptionDetails.Permissions property
 
-Получает или устанавливает разрешения.
+Получает или задает разрешения.
 
 ```csharp
 public int Permissions { get; set; }

@@ -1,7 +1,7 @@
 ---
 title: IsIdentity
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Gets a value indicating whether this instance is identity matrix.
 type: docs
 weight: 10
 url: /net/aspose.page.xps.xpsmodel/xpsmatrix/isidentity/

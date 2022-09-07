@@ -3,7 +3,7 @@ title: XpsDashCap
 second_title: Справочник по Aspose.Page для .NET API
 description: Допустимые значения свойства StrokeDashCap элемента Path.
 type: docs
-weight: 910
+weight: 2950
 url: /ru/net/aspose.page.xps.xpsmodel/xpsdashcap/
 ---
 ## XpsDashCap enumeration
@@ -20,7 +20,7 @@ public enum XpsDashCap
 | --- | --- | --- |
 | Flat | `0` | Плоская крышка приборной панели. |
 | Round | `1` | Колпачок с круглой чертой. |
-| Square | `2` | Квадратный штрих. |
+| Square | `2` | Квадратная черточка. |
 | Triangle | `3` | Колпачок с треугольным краем. |
 
 ### Смотрите также

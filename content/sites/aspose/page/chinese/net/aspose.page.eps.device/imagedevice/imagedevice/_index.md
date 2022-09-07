@@ -1,14 +1,14 @@
 ---
 title: ImageDevice
 second_title: Aspose.Page for .NET API 参考
-description: 初始化ImageDeviceaspose.page.eps.device/imagedevice的新实例
+description: 初始化的新实例ImageDeviceaspose.page.eps.device/imagedevice.
 type: docs
 weight: 10
 url: /zh/net/aspose.page.eps.device/imagedevice/imagedevice/
 ---
 ## ImageDevice() {#constructor}
 
-初始化[`ImageDevice`](../../imagedevice)的新实例。
+初始化的新实例[`ImageDevice`](../../imagedevice).
 
 ```csharp
 public ImageDevice()
@@ -24,7 +24,7 @@ public ImageDevice()
 
 ## ImageDevice(Size) {#constructor_2}
 
-用指定的页面大小初始化[`ImageDevice`](../../imagedevice)的新实例。
+初始化的新实例[`ImageDevice`](../../imagedevice)具有指定大小的页面。
 
 ```csharp
 public ImageDevice(Size size)
@@ -44,7 +44,7 @@ public ImageDevice(Size size)
 
 ## ImageDevice(ImageFormat) {#constructor_1}
 
-用指定的图像格式初始化[`ImageDevice`](../../imagedevice)的新实例。
+初始化的新实例[`ImageDevice`](../../imagedevice)具有指定的图像格式。
 
 ```csharp
 public ImageDevice(ImageFormat imageFormat)
@@ -64,7 +64,7 @@ public ImageDevice(ImageFormat imageFormat)
 
 ## ImageDevice(Size, ImageFormat) {#constructor_3}
 
-使用指定的页面大小和图像格式初始化[`ImageDevice`](../../imagedevice)的新实例。
+初始化的新实例[`ImageDevice`](../../imagedevice)具有指定的页面大小和图像格式。
 
 ```csharp
 public ImageDevice(Size size, ImageFormat imageFormat)

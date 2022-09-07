@@ -1,14 +1,14 @@
 ---
 title: Properties
 second_title: Справочник по Aspose.Page для .NET API
-description: Копирует свойства включая значения по умолчанию в этот UserProperties
+description: Копирует свойства включая их значения по умолчанию в этот UserProperties
 type: docs
 weight: 20
 url: /ru/net/aspose.page/userproperties/properties/
 ---
 ## UserProperties.Properties property
 
-Копирует свойства, включая значения по умолчанию, в этот UserProperties
+Копирует свойства, включая их значения по умолчанию, в этот UserProperties
 
 ```csharp
 public virtual Dictionary<string, object> Properties { set; }

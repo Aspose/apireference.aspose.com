@@ -1,7 +1,7 @@
 ---
 title: RemoveAt
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Removes an object from array at specified position.
 type: docs
 weight: 60
 url: /net/aspose.page.xps.xpsmodel/xpsarray-1/removeat/

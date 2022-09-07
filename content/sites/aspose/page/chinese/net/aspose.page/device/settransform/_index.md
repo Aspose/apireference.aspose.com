@@ -16,7 +16,7 @@ public virtual void SetTransform(Matrix transform)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| transform | Matrix | 一个变换。 |
+| transform | Matrix | 一个转变。 |
 
 ### 也可以看看
 

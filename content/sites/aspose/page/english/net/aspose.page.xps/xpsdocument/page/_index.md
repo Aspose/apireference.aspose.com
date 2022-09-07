@@ -1,7 +1,7 @@
 ---
 title: Page
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Returns an XpsPageaspose.page.xps.xpsmodel/xpspage instance for active page.
 type: docs
 weight: 60
 url: /net/aspose.page.xps/xpsdocument/page/

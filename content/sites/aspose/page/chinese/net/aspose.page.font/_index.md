@@ -1,12 +1,12 @@
 ---
 title: Aspose.Page.Font
 second_title: Aspose.Page for .NET API 参考
-description: Aspose.Page.Font 命名空间包含用于字体操作的类
+description: 的 Aspose.Page.Font命名空间包含用于字体操作的类
 type: docs
 weight: 50
 url: /zh/net/aspose.page.font/
 ---
-**Aspose.Page.Font** 命名空间包含用于字体操作的类。
+的 **Aspose.Page.Font**命名空间包含用于字体操作的类。
 
 ## 课程
 

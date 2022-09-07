@@ -3,7 +3,7 @@ title: TextStrokeWidth
 second_title: Справочник по Aspose.Page для .NET API
 description: Возвращает или указывает текущую ширину обводки текста.
 type: docs
-weight: 170
+weight: 160
 url: /ru/net/aspose.page.eps.device/imagedevice/textstrokewidth/
 ---
 ## ImageDevice.TextStrokeWidth property

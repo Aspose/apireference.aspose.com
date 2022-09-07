@@ -1,12 +1,12 @@
 ---
 title: Contains
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Checks does key is contained in metadata.
 type: docs
 weight: 140
 url: /net/aspose.page.eps.xmp/xmpmetadata/contains/
 ---
-## XmpMetadata.Contains method (1 of 2)
+## Contains(string) {#contains_1}
 
 Checks does key is contained in metadata.
 
@@ -30,7 +30,7 @@ True if key is contained in the metadata.
 
 ---
 
-## XmpMetadata.Contains method (2 of 2)
+## Contains(KeyValuePair&lt;string, XmpValue&gt;) {#contains}
 
 Checks does specified key-value pair is contained in the dictionary.
 

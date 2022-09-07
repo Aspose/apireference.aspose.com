@@ -1,14 +1,14 @@
 ---
 title: Scale
 second_title: Справочник по Aspose.Page для .NET API
-description: Масштабирует текущую матрицу преобразования. Вызывает writeTransformпреобразование.
+description: Масштабирует текущую матрицу преобразования. Вызывает writeTransformTransform.
 type: docs
 weight: 490
 url: /ru/net/aspose.page/device/scale/
 ---
 ## Device.Scale method
 
-Масштабирует текущую матрицу преобразования. Вызывает writeTransform(преобразование).
+Масштабирует текущую матрицу преобразования. Вызывает writeTransform(Transform).
 
 ```csharp
 public virtual void Scale(double x, double y)
@@ -16,8 +16,8 @@ public virtual void Scale(double x, double y)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| x | Double | Масштаб по оси X. |
-| y | Double | Масштаб по оси Y. |
+| x | Double | Шкала по оси X. |
+| y | Double | Шкала по оси Y. |
 
 ### Смотрите также
 

@@ -1,14 +1,14 @@
 ---
 title: GetDocumentPrintTicket
 second_title: Справочник по Aspose.Page для .NET API
-description: Возвращает билет печати документа проиндексированногоdocumentIndex.
+description: Возвращает билет печати документа проиндексированногоdocumentIndex .
 type: docs
 weight: 370
 url: /ru/net/aspose.page.xps/xpsdocument/getdocumentprintticket/
 ---
 ## XpsDocument.GetDocumentPrintTicket method
 
-Возвращает билет печати документа, проиндексированного*documentIndex*.
+Возвращает билет печати документа, проиндексированного*documentIndex* .
 
 ```csharp
 public DocumentPrintTicket GetDocumentPrintTicket(int documentIndex)
@@ -16,11 +16,11 @@ public DocumentPrintTicket GetDocumentPrintTicket(int documentIndex)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| documentIndex | Int32 | Индекс документа, билет печати которого нужно вернуть. |
+| documentIndex | Int32 | Индекс документа, билет печати которого необходимо вернуть. |
 
 ### Возвращаемое значение
 
-Билет печати документа.
+Билет для печати документа.
 
 ### Смотрите также
 

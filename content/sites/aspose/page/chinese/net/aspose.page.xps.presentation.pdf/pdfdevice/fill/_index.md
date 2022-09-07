@@ -16,7 +16,7 @@ public override void Fill(GraphicsPath path)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| path | GraphicsPath | 要填充的路径。 |
+| path | GraphicsPath | 填充路径。 |
 
 ### 也可以看看
 

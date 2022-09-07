@@ -3,7 +3,7 @@ title: GetTransform
 second_title: Aspose.Page for .NET API 参考
 description: 获取当前变换
 type: docs
-weight: 160
+weight: 150
 url: /zh/net/aspose.page.eps.device/pdfdevice/gettransform/
 ---
 ## PdfDevice.GetTransform method

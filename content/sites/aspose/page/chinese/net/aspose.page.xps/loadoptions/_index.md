@@ -3,7 +3,7 @@ title: LoadOptions
 second_title: Aspose.Page for .NET API 参考
 description: 文档加载选项的基本类
 type: docs
-weight: 250
+weight: 270
 url: /zh/net/aspose.page.xps/loadoptions/
 ---
 ## LoadOptions class

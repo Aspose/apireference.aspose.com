@@ -3,7 +3,7 @@ title: Size
 second_title: Aspose.Page for .NET API 参考
 description: 返回字体大小
 type: docs
-weight: 80
+weight: 90
 url: /zh/net/aspose.page/itrfont/size/
 ---
 ## ITrFont.Size property

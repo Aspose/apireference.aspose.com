@@ -1,7 +1,7 @@
 ---
 title: ToColor
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Convenience method for getting .NET native representation of RGB color.
 type: docs
 weight: 10
 url: /net/aspose.page.xps.xpsmodel/xpsrgbcolor/tocolor/

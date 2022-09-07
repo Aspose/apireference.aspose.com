@@ -1,7 +1,7 @@
 ---
 title: Insert
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Inserts an element Canvas Path or Glyphs to the active page at index position.
 type: docs
 weight: 390
 url: /net/aspose.page.xps/xpsdocument/insert/

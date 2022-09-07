@@ -3,7 +3,7 @@ title: UpdatePageParameters
 second_title: Справочник по Aspose.Page для .NET API
 description: Обновляет параметры страницы с другого многостраничного устройства.
 type: docs
-weight: 490
+weight: 480
 url: /ru/net/aspose.page.eps.device/imagedevice/updatepageparameters/
 ---
 ## ImageDevice.UpdatePageParameters method

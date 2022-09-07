@@ -1,7 +1,7 @@
 ---
 title: Draw
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Draws a path.
 type: docs
 weight: 190
 url: /net/aspose.page/device/draw/

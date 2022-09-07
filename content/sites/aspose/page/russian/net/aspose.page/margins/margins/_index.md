@@ -18,8 +18,8 @@ public Margins(int top, int left, int bottom, int right)
 | --- | --- | --- |
 | top | Int32 | Верхнее поле. |
 | left | Int32 | Левое поле. |
-| bottom | Int32 | Нижнее поле. |
-| right | Int32 | Правое поле. |
+| bottom | Int32 | Нижний край. |
+| right | Int32 | Правая маржа. |
 
 ### Смотрите также
 

@@ -1,14 +1,14 @@
 ---
 title: UserProperties
 second_title: Справочник по Aspose.Page для .NET API
-description: Специальный класс свойств который позволяет устанавливать и возвращать типизированные свойства . Это также позволяет искать соединение двух объектов свойства по умолчанию  если этот объект свойства не содержит свойства.
+description: Специальный класс свойств который позволяет устанавливать типизированные свойства и возвращать . Это также позволяет искать соединение двух объектов свойства по умолчанию  если этот объект свойства не содержит свойство.
 type: docs
-weight: 240
+weight: 260
 url: /ru/net/aspose.page/userproperties/
 ---
 ## UserProperties class
 
-Специальный класс свойств, который позволяет устанавливать и возвращать типизированные свойства . Это также позволяет искать соединение двух объектов свойства по умолчанию , если этот объект свойства не содержит свойства.
+Специальный класс свойств, который позволяет устанавливать типизированные свойства и возвращать . Это также позволяет искать соединение двух объектов свойства по умолчанию , если этот объект свойства не содержит свойство.
 
 ```csharp
 public class UserProperties : Dictionary<string, object>
@@ -20,13 +20,13 @@ public class UserProperties : Dictionary<string, object>
 | --- | --- |
 | [UserProperties](userproperties#constructor)() | Инициализирует пустой экземпляр класса UserProperties. |
 | [UserProperties](userproperties#constructor_1)(Dictionary&lt;string, object&gt;) | Инициализирует класс UserProperties со значениями по умолчанию. |
-| [UserProperties](userproperties#constructor_2)(Dictionary&lt;string, object&gt;, Dictionary&lt;string, object&gt;) | Создает UserProperties с таблицей defaults и altDefaults, которые ищутся в указанном порядке. |
+| [UserProperties](userproperties#constructor_2)(Dictionary&lt;string, object&gt;, Dictionary&lt;string, object&gt;) | Создает UserProperties с таблицей defaults и altDefaults, , которые ищутся в указанном порядке. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| virtual [Properties](../../aspose.page/userproperties/properties) { set; } | Копирует свойства, включая значения по умолчанию, в этот UserProperties |
+| virtual [Properties](../../aspose.page/userproperties/properties) { set; } | Копирует свойства, включая их значения по умолчанию, в этот UserProperties |
 
 ## Методы
 
@@ -38,8 +38,8 @@ public class UserProperties : Dictionary<string, object>
 | virtual [GetPropertyColor](../../aspose.page/userproperties/getpropertycolor#getpropertycolor_1)(string, Color) | Получает значение свойства цвета. Если запрошенное свойство отсутствует, возвращает предоставленное значение по умолчанию. |
 | virtual [GetPropertyDouble](../../aspose.page/userproperties/getpropertydouble#getpropertydouble)(string) | Получает двойное значение свойства. |
 | virtual [GetPropertyDouble](../../aspose.page/userproperties/getpropertydouble#getpropertydouble_1)(string, double) | Получает двойное значение свойства. Если запрошенное свойство отсутствует, возвращает предоставленное значение по умолчанию. |
-| virtual [GetPropertyFloat](../../aspose.page/userproperties/getpropertyfloat#getpropertyfloat)(string) | Получает значение свойства float. |
-| virtual [GetPropertyFloat](../../aspose.page/userproperties/getpropertyfloat#getpropertyfloat_1)(string, float) | Получает значение свойства float. Если запрошенное свойство отсутствует, возвращает предоставленное значение по умолчанию. |
+| virtual [GetPropertyFloat](../../aspose.page/userproperties/getpropertyfloat#getpropertyfloat)(string) | Получает значение свойства с плавающей запятой. |
+| virtual [GetPropertyFloat](../../aspose.page/userproperties/getpropertyfloat#getpropertyfloat_1)(string, float) | Получает значение свойства с плавающей запятой. Если запрошенное свойство отсутствует, возвращает предоставленное значение по умолчанию. |
 | virtual [GetPropertyInt](../../aspose.page/userproperties/getpropertyint#getpropertyint)(string) | Получает целочисленное значение свойства. |
 | virtual [GetPropertyInt](../../aspose.page/userproperties/getpropertyint#getpropertyint_1)(string, int) | Получает целочисленное значение свойства. Если запрошенное свойство отсутствует, возвращает предоставленное значение по умолчанию. |
 | virtual [GetPropertyMargins](../../aspose.page/userproperties/getpropertymargins#getpropertymargins)(string) | Получает значение свойства полей. |
@@ -61,17 +61,17 @@ public class UserProperties : Dictionary<string, object>
 | virtual [SetProperty](../../aspose.page/userproperties/setproperty#setproperty)(string, Margins) | Устанавливает значение свойства полей. |
 | virtual [SetProperty](../../aspose.page/userproperties/setproperty#setproperty_6)(string, Rectangle) | Устанавливает значение свойства прямоугольника. |
 | virtual [SetProperty](../../aspose.page/userproperties/setproperty#setproperty_7)(string, Size) | Устанавливает значение свойства размера. |
-| virtual [SetProperty](../../aspose.page/userproperties/setproperty#setproperty_8)(string, string) | Устанавливает значение строкового свойства. |
+| virtual [SetProperty](../../aspose.page/userproperties/setproperty#setproperty_8)(string, string) | Задает значение строкового свойства. |
 | virtual [SetProperty](../../aspose.page/userproperties/setproperty#setproperty_9)(string, string[]) | Устанавливает значение свойства строкового массива. |
 | static [SetProperty](../../aspose.page/userproperties/setproperty#setproperty_1)(Dictionary&lt;string, object&gt;, string, bool) | Устанавливает логическое значение свойства в указанной таблице свойств. |
 | static [SetProperty](../../aspose.page/userproperties/setproperty#setproperty_5)(Dictionary&lt;string, object&gt;, string, Color) | Устанавливает значение свойства цвета в указанной таблице свойств. |
 | static [SetProperty](../../aspose.page/userproperties/setproperty#setproperty_2)(Dictionary&lt;string, object&gt;, string, double) | Устанавливает двойное значение свойства в указанной таблице свойств. |
-| static [SetProperty](../../aspose.page/userproperties/setproperty#setproperty_4)(Dictionary&lt;string, object&gt;, string, float) | Устанавливает плавающее значение свойства в указанной таблице свойств. |
+| static [SetProperty](../../aspose.page/userproperties/setproperty#setproperty_4)(Dictionary&lt;string, object&gt;, string, float) | Устанавливает значение свойства с плавающей запятой в указанной таблице свойств. |
 | static [SetProperty](../../aspose.page/userproperties/setproperty#setproperty_3)(Dictionary&lt;string, object&gt;, string, int) | Устанавливает целочисленное значение свойства в указанной таблице свойств. |
 | static [SetProperty](../../aspose.page/userproperties/setproperty#setproperty)(Dictionary&lt;string, object&gt;, string, Margins) | Устанавливает значение свойства полей в указанной таблице свойств. |
 | static [SetProperty](../../aspose.page/userproperties/setproperty#setproperty_6)(Dictionary&lt;string, object&gt;, string, Rectangle) | Устанавливает значение свойства прямоугольника в указанной таблице свойств. |
-| static [SetProperty](../../aspose.page/userproperties/setproperty#setproperty_7)(Dictionary&lt;string, object&gt;, string, Size) | Устанавливает значение свойства размера в указанной таблице свойств. |
-| static [SetProperty](../../aspose.page/userproperties/setproperty#setproperty_8)(Dictionary&lt;string, object&gt;, string, string[]) | Устанавливает значение свойства строкового массива в указанной таблице свойств. |
+| static [SetProperty](../../aspose.page/userproperties/setproperty#setproperty_7)(Dictionary&lt;string, object&gt;, string, Size) | Задает значение свойства размера в указанной таблице свойств. |
+| static [SetProperty](../../aspose.page/userproperties/setproperty#setproperty_8)(Dictionary&lt;string, object&gt;, string, string[]) | Задает значение свойства строкового массива в указанной таблице свойств. |
 
 ### Смотрите также
 

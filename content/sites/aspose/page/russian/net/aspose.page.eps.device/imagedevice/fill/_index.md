@@ -3,7 +3,7 @@ title: Fill
 second_title: Справочник по Aspose.Page для .NET API
 description: Заполняет путь.
 type: docs
-weight: 250
+weight: 240
 url: /ru/net/aspose.page.eps.device/imagedevice/fill/
 ---
 ## ImageDevice.Fill method
@@ -16,7 +16,7 @@ public override void Fill(GraphicsPath s)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| s | GraphicsPath | Путь для заполнения. |
+| s | GraphicsPath | Путь, который нужно заполнить. |
 
 ### Смотрите также
 

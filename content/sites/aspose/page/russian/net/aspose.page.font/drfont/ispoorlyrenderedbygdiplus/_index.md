@@ -1,14 +1,14 @@
 ---
 title: IsPoorlyRenderedByGdiPlus
 second_title: Справочник по Aspose.Page для .NET API
-description: Возвращает True для шрифта Microsoft Sans Serif. Этот плохо отображается GDI. См. Test286 и Gemini-6959.
+description: Возвращает True для шрифта Microsoft Sans Serif. Этот плохо отображается GDI. См. Test286 и Gemini6959.
 type: docs
 weight: 260
 url: /ru/net/aspose.page.font/drfont/ispoorlyrenderedbygdiplus/
 ---
 ## DrFont.IsPoorlyRenderedByGdiPlus method
 
-Возвращает True для шрифта "Microsoft Sans Serif". Этот плохо отображается GDI+. См. Test286 и Gemini-6959.
+Возвращает True для шрифта Microsoft Sans Serif. Этот плохо отображается GDI+. См. Test286 и Gemini-6959.
 
 ```csharp
 public static bool IsPoorlyRenderedByGdiPlus(string fontName)
@@ -16,11 +16,11 @@ public static bool IsPoorlyRenderedByGdiPlus(string fontName)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| fontName | String | Имя шрифта. |
+| fontName | String | Название шрифта. |
 
 ### Возвращаемое значение
 
-` true` if [плохо отображается GDI plus] [указанное имя шрифта]; в противном случае` false` .
+`истинный` если [плохо отображается с помощью GDI plus] [указанное имя шрифта]; в противном случае,`ЛОЖЬ` .
 
 ### Смотрите также
 

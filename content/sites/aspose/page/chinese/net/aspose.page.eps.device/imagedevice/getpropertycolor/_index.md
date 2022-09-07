@@ -3,7 +3,7 @@ title: GetPropertyColor
 second_title: Aspose.Page for .NET API 参考
 description: 获取颜色属性的值
 type: docs
-weight: 270
+weight: 260
 url: /zh/net/aspose.page.eps.device/imagedevice/getpropertycolor/
 ---
 ## ImageDevice.GetPropertyColor method
@@ -16,11 +16,11 @@ public Color GetPropertyColor(string key)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| key | String | 属性名称。 |
+| key | String | 财产的名称。 |
 
 ### 返回值
 
-属性值。
+财产价值。
 
 ### 也可以看看
 

@@ -3,7 +3,7 @@ title: FontName
 second_title: Aspose.Page for .NET API 参考
 description: 返回字体名称
 type: docs
-weight: 50
+weight: 60
 url: /zh/net/aspose.page/itrfont/fontname/
 ---
 ## ITrFont.FontName property

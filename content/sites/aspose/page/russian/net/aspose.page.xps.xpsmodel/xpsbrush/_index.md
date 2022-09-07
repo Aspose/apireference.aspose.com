@@ -1,14 +1,14 @@
 ---
 title: XpsBrush
 second_title: Справочник по Aspose.Page для .NET API
-description: Класс инкапсулирующий общие черты всех элементов кисти.
+description: Класс объединяющий общие черты всех элементов кисти.
 type: docs
-weight: 860
+weight: 2900
 url: /ru/net/aspose.page.xps.xpsmodel/xpsbrush/
 ---
 ## XpsBrush class
 
-Класс, инкапсулирующий общие черты всех элементов кисти.
+Класс, объединяющий общие черты всех элементов кисти.
 
 ```csharp
 public abstract class XpsBrush : XpsObject
@@ -18,7 +18,7 @@ public abstract class XpsBrush : XpsObject
 
 | Имя | Описание |
 | --- | --- |
-| [Opacity](../../aspose.page.xps.xpsmodel/xpsbrush/opacity) { get; set; } | Возвращает/устанавливает значение, определяющее равномерную прозрачность заливки кистью. |
+| [Opacity](../../aspose.page.xps.xpsmodel/xpsbrush/opacity) { get; set; } | Возвращает/задает значение, определяющее равномерную прозрачность заливки кистью. |
 
 ### Смотрите также
 

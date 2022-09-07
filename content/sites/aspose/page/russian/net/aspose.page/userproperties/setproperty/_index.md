@@ -1,14 +1,14 @@
 ---
 title: SetProperty
 second_title: Справочник по Aspose.Page для .NET API
-description: Устанавливает значение строкового свойства.
+description: Задает значение строкового свойства.
 type: docs
 weight: 140
 url: /ru/net/aspose.page/userproperties/setproperty/
 ---
 ## SetProperty(string, string) {#setproperty_8}
 
-Устанавливает значение строкового свойства.
+Задает значение строкового свойства.
 
 ```csharp
 public virtual object SetProperty(string key, string value)
@@ -17,11 +17,11 @@ public virtual object SetProperty(string key, string value)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | key | String | Имя свойства. |
-| value | String | Значение свойства. |
+| value | String | Стоимость имущества. |
 
 ### Возвращаемое значение
 
-Свойство.
+Недвижимость.
 
 ### Смотрите также
 
@@ -42,11 +42,11 @@ public virtual object SetProperty(string key, string[] value)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | key | String | Имя свойства. |
-| value | String[] | Значение свойства. |
+| value | String[] | Стоимость имущества. |
 
 ### Возвращаемое значение
 
-Свойство.
+Недвижимость.
 
 ### Смотрите также
 
@@ -58,7 +58,7 @@ public virtual object SetProperty(string key, string[] value)
 
 ## SetProperty(Dictionary&lt;string, object&gt;, string, string[]) {#setproperty_8}
 
-Устанавливает значение свойства строкового массива в указанной таблице свойств.
+Задает значение свойства строкового массива в указанной таблице свойств.
 
 ```csharp
 public static object SetProperty(Dictionary<string, object> properties, string key, string[] value)
@@ -68,11 +68,11 @@ public static object SetProperty(Dictionary<string, object> properties, string k
 | --- | --- | --- |
 | properties | Dictionary`2 | Таблица свойств. |
 | key | String | Имя свойства. |
-| value | String[] | Значение свойства. |
+| value | String[] | Стоимость имущества. |
 
 ### Возвращаемое значение
 
-Свойство.
+Недвижимость.
 
 ### Смотрите также
 
@@ -93,11 +93,11 @@ public virtual object SetProperty(string key, Color value)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | key | String | Имя свойства. |
-| value | Color | Значение свойства. |
+| value | Color | Стоимость имущества. |
 
 ### Возвращаемое значение
 
-Свойство.
+Недвижимость.
 
 ### Смотрите также
 
@@ -119,11 +119,11 @@ public static object SetProperty(Dictionary<string, object> properties, string k
 | --- | --- | --- |
 | properties | Dictionary`2 | Таблица свойств. |
 | key | String | Имя свойства. |
-| value | Color | Значение свойства. |
+| value | Color | Стоимость имущества. |
 
 ### Возвращаемое значение
 
-Свойство.
+Недвижимость.
 
 ### Смотрите также
 
@@ -144,11 +144,11 @@ public virtual object SetProperty(string key, Rectangle value)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | key | String | Имя свойства. |
-| value | Rectangle | Значение свойства. |
+| value | Rectangle | Стоимость имущества. |
 
 ### Возвращаемое значение
 
-Свойство.
+Недвижимость.
 
 ### Смотрите также
 
@@ -170,11 +170,11 @@ public static object SetProperty(Dictionary<string, object> properties, string k
 | --- | --- | --- |
 | properties | Dictionary`2 | Таблица свойств. |
 | key | String | Имя свойства. |
-| value | Rectangle | Значение свойства. |
+| value | Rectangle | Стоимость имущества. |
 
 ### Возвращаемое значение
 
-Свойство.
+Недвижимость.
 
 ### Смотрите также
 
@@ -195,11 +195,11 @@ public virtual object SetProperty(string key, Margins value)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | key | String | Имя свойства. |
-| value | Margins | Значение свойства. |
+| value | Margins | Стоимость имущества. |
 
 ### Возвращаемое значение
 
-Свойство.
+Недвижимость.
 
 ### Смотрите также
 
@@ -222,11 +222,11 @@ public static object SetProperty(Dictionary<string, object> properties, string k
 | --- | --- | --- |
 | properties | Dictionary`2 | Таблица свойств. |
 | key | String | Имя свойства. |
-| value | Margins | Значение свойства. |
+| value | Margins | Стоимость имущества. |
 
 ### Возвращаемое значение
 
-Свойство.
+Недвижимость.
 
 ### Смотрите также
 
@@ -248,11 +248,11 @@ public virtual object SetProperty(string key, Size value)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | key | String | Имя свойства. |
-| value | Size | Значение свойства. |
+| value | Size | Стоимость имущества. |
 
 ### Возвращаемое значение
 
-Свойство.
+Недвижимость.
 
 ### Смотрите также
 
@@ -264,7 +264,7 @@ public virtual object SetProperty(string key, Size value)
 
 ## SetProperty(Dictionary&lt;string, object&gt;, string, Size) {#setproperty_7}
 
-Устанавливает значение свойства размера в указанной таблице свойств.
+Задает значение свойства размера в указанной таблице свойств.
 
 ```csharp
 public static object SetProperty(Dictionary<string, object> properties, string key, Size value)
@@ -274,11 +274,11 @@ public static object SetProperty(Dictionary<string, object> properties, string k
 | --- | --- | --- |
 | properties | Dictionary`2 | Таблица свойств. |
 | key | String | Имя свойства. |
-| value | Size | Значение свойства. |
+| value | Size | Стоимость имущества. |
 
 ### Возвращаемое значение
 
-Свойство.
+Недвижимость.
 
 ### Смотрите также
 
@@ -299,11 +299,11 @@ public virtual object SetProperty(string key, int value)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | key | String | Имя свойства. |
-| value | Int32 | Значение свойства. |
+| value | Int32 | Стоимость имущества. |
 
 ### Возвращаемое значение
 
-Свойство.
+Недвижимость.
 
 ### Смотрите также
 
@@ -325,11 +325,11 @@ public static object SetProperty(Dictionary<string, object> properties, string k
 | --- | --- | --- |
 | properties | Dictionary`2 | Таблица свойств. |
 | key | String | Имя свойства. |
-| value | Int32 | Значение свойства. |
+| value | Int32 | Стоимость имущества. |
 
 ### Возвращаемое значение
 
-Свойство.
+Недвижимость.
 
 ### Смотрите также
 
@@ -350,11 +350,11 @@ public virtual object SetProperty(string key, double value)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | key | String | Имя свойства. |
-| value | Double | Значение свойства. |
+| value | Double | Стоимость имущества. |
 
 ### Возвращаемое значение
 
-Свойство.
+Недвижимость.
 
 ### Смотрите также
 
@@ -376,11 +376,11 @@ public static object SetProperty(Dictionary<string, object> properties, string k
 | --- | --- | --- |
 | properties | Dictionary`2 | Таблица свойств. |
 | key | String | Имя свойства. |
-| value | Double | Значение свойства. |
+| value | Double | Стоимость имущества. |
 
 ### Возвращаемое значение
 
-Свойство.
+Недвижимость.
 
 ### Смотрите также
 
@@ -401,11 +401,11 @@ public virtual object SetProperty(string key, float value)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | key | String | Имя свойства. |
-| value | Single | Значение свойства. |
+| value | Single | Стоимость имущества. |
 
 ### Возвращаемое значение
 
-Свойство.
+Недвижимость.
 
 ### Смотрите также
 
@@ -417,7 +417,7 @@ public virtual object SetProperty(string key, float value)
 
 ## SetProperty(Dictionary&lt;string, object&gt;, string, float) {#setproperty_4}
 
-Устанавливает плавающее значение свойства в указанной таблице свойств.
+Устанавливает значение свойства с плавающей запятой в указанной таблице свойств.
 
 ```csharp
 public static object SetProperty(Dictionary<string, object> properties, string key, float value)
@@ -427,11 +427,11 @@ public static object SetProperty(Dictionary<string, object> properties, string k
 | --- | --- | --- |
 | properties | Dictionary`2 | Таблица свойств. |
 | key | String | Имя свойства. |
-| value | Single | Значение свойства. |
+| value | Single | Стоимость имущества. |
 
 ### Возвращаемое значение
 
-Свойство.
+Недвижимость.
 
 ### Смотрите также
 
@@ -452,11 +452,11 @@ public virtual object SetProperty(string key, bool value)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | key | String | Имя свойства. |
-| value | Boolean | Значение свойства. |
+| value | Boolean | Стоимость имущества. |
 
 ### Возвращаемое значение
 
-Свойство.
+Недвижимость.
 
 ### Смотрите также
 
@@ -478,11 +478,11 @@ public static object SetProperty(Dictionary<string, object> properties, string k
 | --- | --- | --- |
 | properties | Dictionary`2 | Таблица свойств. |
 | key | String | Имя свойства. |
-| value | Boolean | Значение свойства. |
+| value | Boolean | Стоимость имущества. |
 
 ### Возвращаемое значение
 
-Свойство.
+Недвижимость.
 
 ### Смотрите также
 

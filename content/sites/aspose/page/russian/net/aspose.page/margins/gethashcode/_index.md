@@ -1,7 +1,7 @@
 ---
 title: GetHashCode
 second_title: Справочник по Aspose.Page для .NET API
-description: Вычисляет хэш-код для этого объекта полей.
+description: Вычисляет хэшкод для этого объекта полей.
 type: docs
 weight: 70
 url: /ru/net/aspose.page/margins/gethashcode/

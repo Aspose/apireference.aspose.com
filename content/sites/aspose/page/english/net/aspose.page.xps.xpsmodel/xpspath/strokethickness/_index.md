@@ -1,7 +1,7 @@
 ---
 title: StrokeThickness
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Returns/sets the thickness of a stroke in units of the effective coordinate space includes the paths render transform. The stroke is drawn on top of the boundary of the geometry specified by the Path elements Data property. Half of the StrokeThickness extends outside of the geometry specified by the Data property and the other half extends inside of the geometry.
 type: docs
 weight: 110
 url: /net/aspose.page.xps.xpsmodel/xpspath/strokethickness/

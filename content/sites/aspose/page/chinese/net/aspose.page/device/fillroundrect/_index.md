@@ -1,14 +1,14 @@
 ---
 title: FillRoundRect
 second_title: Aspose.Page for .NET API 参考
-description: 填充圆角矩形
+description: 填充一个圆形矩形
 type: docs
 weight: 350
 url: /zh/net/aspose.page/device/fillroundrect/
 ---
 ## Device.FillRoundRect method
 
-填充圆角矩形。
+填充一个圆形矩形。
 
 ```csharp
 public virtual void FillRoundRect(double x, double y, double width, double height, double arcWidth, 
@@ -17,12 +17,12 @@ public virtual void FillRoundRect(double x, double y, double width, double heigh
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| x | Double | 矩形左上角的X坐标。 |
-| y | Double | 矩形左上角的Y坐标。 |
+| x | Double | 矩形左上角的 X 坐标。 |
+| y | Double | 矩形左上角的 Y 坐标。 |
 | width | Double | 矩形的宽度。 |
 | height | Double | 矩形的高度。 |
-| arcWidth | Double | 圆角矩形的外接矩形的宽度。 |
-| arcHeight | Double | 圆角矩形的外接矩形的高度。 |
+| arcWidth | Double | 圆弧矩形角的外接矩形宽度。 |
+| arcHeight | Double | 圆弧矩形角的外接矩形的高度。 |
 
 ### 也可以看看
 

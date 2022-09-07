@@ -1,7 +1,7 @@
 ---
 title: FillRect
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Fills a rectangle.
 type: docs
 weight: 340
 url: /net/aspose.page/device/fillrect/

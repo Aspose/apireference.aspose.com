@@ -1,14 +1,14 @@
 ---
 title: Save
 second_title: Справочник по Aspose.Page для .NET API
-description: Сохраняет файл PS/EPS на устройстве.
+description: Сохраняет файл PS/EPS на устройство.
 type: docs
 weight: 50
 url: /ru/net/aspose.page.eps/psdocument/save/
 ---
 ## Save(Device, SaveOptions) {#save}
 
-Сохраняет файл PS/EPS на устройстве.
+Сохраняет файл PS/EPS на устройство.
 
 ```csharp
 public override void Save(Device device, SaveOptions options)
@@ -16,7 +16,7 @@ public override void Save(Device device, SaveOptions options)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| device | Device | Устройство вывода. |
+| device | Device | Выходное устройство. |
 | options | SaveOptions | Содержит флаги, определяющие вывод ошибок, возникших во время преобразования. |
 
 ### Смотрите также
@@ -31,7 +31,7 @@ public override void Save(Device device, SaveOptions options)
 
 ## Save(Stream) {#save_1}
 
-Сохраняет данные[`PsDocument`](../../psdocument)как файл EPS. Этот метод используется только после обновления метаданных XMP. Сохраняет исходный файл EPS с обновленными существующими метаданными или новыми, созданными при вызове метода GetMetadata. В последнем случае добавляется весь необходимый код PostScript и комментарии EPS.
+сохранено[`PsDocument`](../../psdocument) как EPS-файл. Этот метод используется только после обновления метаданных XMP. Он сохраняет исходный файл EPS с обновленными существующими метаданными или новым, созданным при вызове метода GetMetadata. В последнем случае добавляется весь необходимый код PostScript и комментарии EPS.
 
 ```csharp
 public void Save(Stream epsStream)

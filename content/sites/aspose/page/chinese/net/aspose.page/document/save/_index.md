@@ -16,7 +16,7 @@ public abstract void Save(Device device, SaveOptions options)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| device | Device | 输出设备。 |
+| device | Device | 一种输出设备。 |
 | options | SaveOptions | 包含指定转换期间抛出的错误输出的标志。 |
 
 ### 也可以看看

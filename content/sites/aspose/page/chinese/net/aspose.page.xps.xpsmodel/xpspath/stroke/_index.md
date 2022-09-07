@@ -1,14 +1,14 @@
 ---
 title: Stroke
 second_title: Aspose.Page for .NET API 参考
-description: 返回/设置用于绘制笔划的画笔
+description: 返回/设置用于绘制笔触的画笔
 type: docs
 weight: 30
 url: /zh/net/aspose.page.xps.xpsmodel/xpspath/stroke/
 ---
 ## XpsPath.Stroke property
 
-返回/设置用于绘制笔划的画笔。
+返回/设置用于绘制笔触的画笔。
 
 ```csharp
 public XpsBrush Stroke { get; set; }

@@ -1,7 +1,7 @@
 ---
 title: M22
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Gets the M22 element.
 type: docs
 weight: 50
 url: /net/aspose.page.xps.xpsmodel/xpsmatrix/m22/

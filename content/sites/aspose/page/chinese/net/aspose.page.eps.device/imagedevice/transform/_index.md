@@ -1,14 +1,14 @@
 ---
 title: Transform
 second_title: Aspose.Page for .NET API 参考
-description: 变换当前变换矩阵调用 writeTransformTransform
+description: 变换当前变换矩阵调用 writeTransformTransform.
 type: docs
-weight: 470
+weight: 460
 url: /zh/net/aspose.page.eps.device/imagedevice/transform/
 ---
 ## ImageDevice.Transform method
 
-变换当前变换矩阵。调用 writeTransform(Transform)。
+变换当前变换矩阵。调用 writeTransform(Transform).
 
 ```csharp
 public override void Transform(Matrix transform)

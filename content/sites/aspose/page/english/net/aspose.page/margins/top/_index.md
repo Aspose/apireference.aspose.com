@@ -1,7 +1,7 @@
 ---
 title: top
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Top margin.
 type: docs
 weight: 50
 url: /net/aspose.page/margins/top/

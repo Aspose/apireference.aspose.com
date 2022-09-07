@@ -1,12 +1,12 @@
 ---
 title: PdfDevice
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Initializes new instance of PdfDeviceaspose.page.eps.device/pdfdevice with output stream.
 type: docs
 weight: 10
 url: /net/aspose.page.eps.device/pdfdevice/pdfdevice/
 ---
-## PdfDevice constructor (1 of 2)
+## PdfDevice(Stream) {#constructor}
 
 Initializes new instance of [`PdfDevice`](../../pdfdevice) with output stream.
 
@@ -26,7 +26,7 @@ public PdfDevice(Stream ros)
 
 ---
 
-## PdfDevice constructor (2 of 2)
+## PdfDevice(Stream, Size) {#constructor_1}
 
 Initializes new instance of [`PdfDevice`](../../pdfdevice) with output stream and specified size of a page.
 

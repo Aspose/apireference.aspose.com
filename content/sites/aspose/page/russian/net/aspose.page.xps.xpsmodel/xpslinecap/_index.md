@@ -3,7 +3,7 @@ title: XpsLineCap
 second_title: Справочник по Aspose.Page для .NET API
 description: Допустимые значения свойств StrokeStartLineCap и StrokeEndLineCap элемента Path.
 type: docs
-weight: 1080
+weight: 3120
 url: /ru/net/aspose.page.xps.xpsmodel/xpslinecap/
 ---
 ## XpsLineCap enumeration
@@ -18,10 +18,10 @@ public enum XpsLineCap
 
 | Имя | Ценность | Описание |
 | --- | --- | --- |
-| Flat | `0` | Колпачок с плоской линией. |
-| Round | `1` | Заглушка круглой строки. |
-| Square | `2` | Заглушка квадратной линии. |
-| Triangle | `3` | Крышка треугольной линии. |
+| Flat | `0` | Крышка плоской линии. |
+| Round | `1` | Колпачок круглой линии. |
+| Square | `2` | Крышка квадратной линии. |
+| Triangle | `3` | Колпачок линии треугольника. |
 
 ### Смотрите также
 

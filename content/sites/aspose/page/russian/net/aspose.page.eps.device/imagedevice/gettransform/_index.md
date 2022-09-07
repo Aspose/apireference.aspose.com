@@ -3,7 +3,7 @@ title: GetTransform
 second_title: Справочник по Aspose.Page для .NET API
 description: Получает текущее преобразование.
 type: docs
-weight: 330
+weight: 320
 url: /ru/net/aspose.page.eps.device/imagedevice/gettransform/
 ---
 ## ImageDevice.GetTransform method

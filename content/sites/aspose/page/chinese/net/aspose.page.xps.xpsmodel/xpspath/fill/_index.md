@@ -1,14 +1,14 @@
 ---
 title: Fill
 second_title: Aspose.Page for .NET API 参考
-description: 返回/设置用于绘制由路径的 Data 属性指定 几何图形的画笔
+description: 返回/设置用于绘制几何图形的画笔 由路径的Data属性指定
 type: docs
 weight: 20
 url: /zh/net/aspose.page.xps.xpsmodel/xpspath/fill/
 ---
 ## XpsPath.Fill property
 
-返回/设置用于绘制由路径的 Data 属性指定 几何图形的画笔。
+返回/设置用于绘制几何图形的画笔 由路径的Data属性指定
 
 ```csharp
 public XpsBrush Fill { get; set; }

@@ -3,7 +3,7 @@ title: PAGE_MARGINS
 second_title: Справочник по Aspose.Page для .NET API
 description: Ключ свойства Поля страницы.
 type: docs
-weight: 440
+weight: 430
 url: /ru/net/aspose.page.eps.device/pdfdevice/page_margins/
 ---
 ## PdfDevice.PAGE_MARGINS field

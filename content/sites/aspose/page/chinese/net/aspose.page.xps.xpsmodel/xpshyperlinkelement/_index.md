@@ -1,14 +1,14 @@
 ---
 title: XpsHyperlinkElement
 second_title: Aspose.Page for .NET API 参考
-description: 封装了可以是超链接的 XPS 元素的共同特征
+description: 封装了 XPS 元素的共同特征可以是超链接
 type: docs
-weight: 1020
+weight: 3060
 url: /zh/net/aspose.page.xps.xpsmodel/xpshyperlinkelement/
 ---
 ## XpsHyperlinkElement class
 
-封装了可以是超链接的 XPS 元素的共同特征。
+封装了 XPS 元素的共同特征，可以是超链接。
 
 ```csharp
 public abstract class XpsHyperlinkElement : XpsElement
@@ -20,13 +20,13 @@ public abstract class XpsHyperlinkElement : XpsElement
 | --- | --- |
 | [Count](../../aspose.page.xps.xpsmodel/xpselement/count) { get; } | 返回子元素的数量。 |
 | [HyperlinkTarget](../../aspose.page.xps.xpsmodel/xpshyperlinkelement/hyperlinktarget) { get; set; } | 返回/设置超链接目标对象。 |
-| [Item](../../aspose.page.xps.xpsmodel/xpselement/item) { get; } | 通过索引*i*提供对元素子元素的访问。 |
+| [Item](../../aspose.page.xps.xpsmodel/xpselement/item) { get; } | 通过索引提供对元素子项的访问*i*. |
 
 ## 方法
 
 | 姓名 | 描述 |
 | --- | --- |
-| [GetEnumerator](../../aspose.page.xps.xpsmodel/xpselement/getenumerator)() | IEnumerable接口的实现。 |
+| [GetEnumerator](../../aspose.page.xps.xpsmodel/xpselement/getenumerator)() | 执行IEnumerable接口. |
 
 ### 也可以看看
 

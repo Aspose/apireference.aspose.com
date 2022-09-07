@@ -20,7 +20,7 @@ public virtual RectangleF GetPropertyRectangle(string key)
 
 ### Возвращаемое значение
 
-Значение свойства.
+Стоимость имущества.
 
 ### Смотрите также
 
@@ -45,7 +45,7 @@ public virtual RectangleF GetPropertyRectangle(string key, RectangleF def)
 
 ### Возвращаемое значение
 
-Значение свойства.
+Стоимость имущества.
 
 ### Смотрите также
 

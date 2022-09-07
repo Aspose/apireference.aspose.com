@@ -3,7 +3,7 @@ title: FIT_TO_PAGE
 second_title: Справочник по Aspose.Page для .NET API
 description: Ключ свойства По размеру страницы.
 type: docs
-weight: 560
+weight: 550
 url: /ru/net/aspose.page.eps.device/imagedevice/fit_to_page/
 ---
 ## ImageDevice.FIT_TO_PAGE field

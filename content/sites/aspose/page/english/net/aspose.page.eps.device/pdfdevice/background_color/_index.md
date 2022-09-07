@@ -1,9 +1,9 @@
 ---
 title: BACKGROUND_COLOR
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Background color property key.
 type: docs
-weight: 350
+weight: 340
 url: /net/aspose.page.eps.device/pdfdevice/background_color/
 ---
 ## PdfDevice.BACKGROUND_COLOR field

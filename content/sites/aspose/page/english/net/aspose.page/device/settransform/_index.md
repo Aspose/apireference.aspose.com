@@ -1,7 +1,7 @@
 ---
 title: SetTransform
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Specifies current transform.
 type: docs
 weight: 510
 url: /net/aspose.page/device/settransform/

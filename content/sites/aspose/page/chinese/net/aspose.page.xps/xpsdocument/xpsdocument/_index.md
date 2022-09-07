@@ -24,7 +24,7 @@ public XpsDocument()
 
 ## XpsDocument(string) {#constructor_2}
 
-打开位于*path*的现有 XPS 文档。
+打开位于*path*.
 
 ```csharp
 public XpsDocument(string path)
@@ -44,7 +44,7 @@ public XpsDocument(string path)
 
 ## XpsDocument(string, LoadOptions) {#constructor_3}
 
-打开位于*path*的现有文档作为 XPS 文档。
+打开位于*path*作为 XPS 文档。
 
 ```csharp
 public XpsDocument(string path, LoadOptions options)
@@ -66,7 +66,7 @@ public XpsDocument(string path, LoadOptions options)
 
 ## XpsDocument(Stream, LoadOptions) {#constructor_1}
 
-将存储在*stream*中的现有文档加载为 XPS 文档。
+加载存储在*stream*作为 XPS 文档。
 
 ```csharp
 public XpsDocument(Stream stream, LoadOptions options)

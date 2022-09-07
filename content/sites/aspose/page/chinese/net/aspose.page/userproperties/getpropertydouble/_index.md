@@ -1,14 +1,14 @@
 ---
 title: GetPropertyDouble
 second_title: Aspose.Page for .NET API 参考
-description: 获取双精度属性值
+description: 获取双属性值
 type: docs
 weight: 50
 url: /zh/net/aspose.page/userproperties/getpropertydouble/
 ---
 ## GetPropertyDouble(string) {#getpropertydouble}
 
-获取双精度属性值。
+获取双属性值。
 
 ```csharp
 public virtual double GetPropertyDouble(string key)
@@ -16,11 +16,11 @@ public virtual double GetPropertyDouble(string key)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| key | String | 属性名称。 |
+| key | String | 财产的名称。 |
 
 ### 返回值
 
-属性值。
+适当的价值。
 
 ### 也可以看看
 
@@ -32,7 +32,7 @@ public virtual double GetPropertyDouble(string key)
 
 ## GetPropertyDouble(string, double) {#getpropertydouble_1}
 
-获取双精度属性值。如果请求的属性不存在，则返回提供的默认值。
+获取双属性值。如果请求的属性不存在，则返回提供的默认值。
 
 ```csharp
 public virtual double GetPropertyDouble(string key, double def)
@@ -40,12 +40,12 @@ public virtual double GetPropertyDouble(string key, double def)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| key | String | 属性名称。 |
+| key | String | 财产的名称。 |
 | def | Double | 属性的默认值。 |
 
 ### 返回值
 
-属性值。
+适当的价值。
 
 ### 也可以看看
 

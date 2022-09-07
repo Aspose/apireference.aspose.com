@@ -1,14 +1,14 @@
 ---
 title: InsertPath
 second_title: Справочник по Aspose.Page для .NET API
-description: Вставляет новый путь к дочернему списку этого холста вindexposition.
+description: Вставляет новый путь к дочернему списку этого холста вindex позиция.
 type: docs
 weight: 100
 url: /ru/net/aspose.page.xps.xpsmodel/xpscanvas/insertpath/
 ---
 ## XpsCanvas.InsertPath method
 
-Вставляет новый путь к дочернему списку этого холста в*index*position.
+Вставляет новый путь к дочернему списку этого холста в*index* позиция.
 
 ```csharp
 public XpsPath InsertPath(int index, XpsPathGeometry data)
@@ -16,7 +16,7 @@ public XpsPath InsertPath(int index, XpsPathGeometry data)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| index | Int32 | Позиция, в которую следует вставить новый путь. |
+| index | Int32 | Позиция, в которой должен быть вставлен новый путь. |
 | data | XpsPathGeometry | Геометрия пути. |
 
 ### Возвращаемое значение

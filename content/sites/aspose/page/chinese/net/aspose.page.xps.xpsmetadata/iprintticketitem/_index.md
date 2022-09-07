@@ -1,27 +1,22 @@
 ---
 title: IPrintTicketItem
 second_title: Aspose.Page for .NET API 参考
-description: 可以作为打印票项目的类的基本接口
+description: 类的基接口PrintTicket./printticket根元素 items. 它也是定义范围前缀的接口的基本接口
 type: docs
-weight: 520
+weight: 910
 url: /zh/net/aspose.page.xps.xpsmetadata/iprintticketitem/
 ---
 ## IPrintTicketItem interface
 
-可以作为打印票项目的类的基本接口。
+类的基接口[`PrintTicket`](../printticket)根元素 items. 它也是定义范围前缀的接口的基本接口。
 
 ```csharp
-public interface IPrintTicketItem
+public interface IPrintTicketItem : IPrintTicketElementChild
 ```
-
-## 特性
-
-| 姓名 | 描述 |
-| --- | --- |
-| [Name](../../aspose.page.xps.xpsmetadata/iprintticketitem/name) { get; } | 返回项目名称。 |
 
 ### 也可以看看
 
+* interface [IPrintTicketElementChild](../iprintticketelementchild)
 * 命名空间 [Aspose.Page.XPS.XpsMetadata](../../aspose.page.xps.xpsmetadata)
 * 部件 [Aspose.Page](../../)
 

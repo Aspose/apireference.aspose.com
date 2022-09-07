@@ -1,7 +1,7 @@
 ---
 title: ToNamedValue
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Returns XMP value as named value.
 type: docs
 weight: 180
 url: /net/aspose.page.eps.xmp/xmpvalue/tonamedvalue/

@@ -3,12 +3,12 @@ title: EMBED_FONTS
 second_title: Справочник по Aspose.Page для .NET API
 description: Ключ свойства Встроить шрифт в документ.
 type: docs
-weight: 530
+weight: 520
 url: /ru/net/aspose.page.eps.device/imagedevice/embed_fonts/
 ---
 ## ImageDevice.EMBED_FONTS field
 
-Ключ свойства "Встроить шрифт в документ".
+Ключ свойства «Встроить шрифт в документ».
 
 ```csharp
 public static readonly string EMBED_FONTS;

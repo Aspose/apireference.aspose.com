@@ -1,7 +1,7 @@
 ---
 title: OpacityMask
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Gets/sets the brush for opacity mask. The mask applies over Paint or Strike.
 type: docs
 weight: 70
 url: /net/aspose.page.xps.presentation.image/imagedevice/opacitymask/

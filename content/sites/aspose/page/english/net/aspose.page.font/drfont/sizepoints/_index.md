@@ -1,7 +1,7 @@
 ---
 title: SizePoints
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Gets size of this font points.
 type: docs
 weight: 140
 url: /net/aspose.page.font/drfont/sizepoints/

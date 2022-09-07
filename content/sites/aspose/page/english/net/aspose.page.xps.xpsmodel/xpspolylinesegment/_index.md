@@ -1,9 +1,9 @@
 ---
 title: XpsPolyLineSegment
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Class incapsulating PolyLineSegment element features. This element describes a polygonal drawing containing an arbitrary number of individual vertices.
 type: docs
-weight: 1210
+weight: 3250
 url: /net/aspose.page.xps.xpsmodel/xpspolylinesegment/
 ---
 ## XpsPolyLineSegment class

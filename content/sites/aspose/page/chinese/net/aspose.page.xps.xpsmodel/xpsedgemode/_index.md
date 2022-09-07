@@ -3,7 +3,7 @@ title: XpsEdgeMode
 second_title: Aspose.Page for .NET API 参考
 description: Canvas 元素的 RenderOptions.EdgeMode 属性的有效值
 type: docs
-weight: 920
+weight: 2960
 url: /zh/net/aspose.page.xps.xpsmodel/xpsedgemode/
 ---
 ## XpsEdgeMode enumeration
@@ -19,7 +19,7 @@ public enum XpsEdgeMode
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
 | None | `0` | 边缘将以消费者的默认方式呈现。 |
-| Aliased | `1` | 边缘将被别名。 |
+| Aliased | `1` | 边缘将被别名化。 |
 
 ### 也可以看看
 

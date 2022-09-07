@@ -1,14 +1,14 @@
 ---
 title: GetTextWidthPoints
 second_title: Aspose.Page for .NET API 参考
-description: 获取文本宽度点
+description: 获取文本宽度点数
 type: docs
 weight: 240
 url: /zh/net/aspose.page.font/drfont/gettextwidthpoints/
 ---
 ## GetTextWidthPoints(string) {#gettextwidthpoints}
 
-获取文本宽度点。
+获取文本宽度点数。
 
 ```csharp
 public float GetTextWidthPoints(string text)
@@ -32,7 +32,7 @@ public float GetTextWidthPoints(string text)
 
 ## GetTextWidthPoints(string, int, int) {#gettextwidthpoints_1}
 
-获取文本宽度点。
+获取文本宽度点数。
 
 ```csharp
 public float GetTextWidthPoints(string text, int startIndex, int charCount)

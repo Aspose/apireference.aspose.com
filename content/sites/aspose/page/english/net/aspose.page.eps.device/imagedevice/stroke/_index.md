@@ -1,9 +1,9 @@
 ---
 title: Stroke
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Returns or specifies current stroke.
 type: docs
-weight: 150
+weight: 140
 url: /net/aspose.page.eps.device/imagedevice/stroke/
 ---
 ## ImageDevice.Stroke property

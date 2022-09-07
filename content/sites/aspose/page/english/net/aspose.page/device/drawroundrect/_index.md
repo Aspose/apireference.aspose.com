@@ -1,7 +1,7 @@
 ---
 title: DrawRoundRect
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Draws a round rectangle.
 type: docs
 weight: 270
 url: /net/aspose.page/device/drawroundrect/

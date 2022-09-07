@@ -1,7 +1,7 @@
 ---
 title: PathFigures
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Returns list of child path figures.
 type: docs
 weight: 20
 url: /net/aspose.page.xps.xpsmodel/xpspathgeometry/pathfigures/

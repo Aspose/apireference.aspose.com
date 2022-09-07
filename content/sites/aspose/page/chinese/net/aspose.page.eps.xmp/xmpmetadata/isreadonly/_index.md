@@ -1,14 +1,14 @@
 ---
 title: IsReadOnly
 second_title: Aspose.Page for .NET API 参考
-description: 检查集合是否为只读
+description: 检查集合是否是只读的
 type: docs
 weight: 30
 url: /zh/net/aspose.page.eps.xmp/xmpmetadata/isreadonly/
 ---
 ## XmpMetadata.IsReadOnly property
 
-检查集合是否为只读。
+检查集合是否是只读的。
 
 ```csharp
 public bool IsReadOnly { get; }

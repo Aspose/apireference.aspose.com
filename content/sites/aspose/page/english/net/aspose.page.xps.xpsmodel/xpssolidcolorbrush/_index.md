@@ -1,9 +1,9 @@
 ---
 title: XpsSolidColorBrush
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Class incapsulating SolidColorBrush property element features. This element is used to fill defined geometric regions with a solid color.
 type: docs
-weight: 1250
+weight: 3290
 url: /net/aspose.page.xps.xpsmodel/xpssolidcolorbrush/
 ---
 ## XpsSolidColorBrush class

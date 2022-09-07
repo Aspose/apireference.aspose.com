@@ -1,14 +1,14 @@
 ---
 title: SetDocumentPrintTicket
 second_title: Aspose.Page for .NET API 参考
-description: 将printTicket链接到由documentIndex索引的文档
+description: 链接printTicket到索引的文档documentIndex.
 type: docs
 weight: 540
 url: /zh/net/aspose.page.xps/xpsdocument/setdocumentprintticket/
 ---
 ## XpsDocument.SetDocumentPrintTicket method
 
-将*printTicket*链接到由*documentIndex*索引的文档。
+链接*printTicket*到索引的文档*documentIndex*.
 
 ```csharp
 public void SetDocumentPrintTicket(int documentIndex, DocumentPrintTicket printTicket)
@@ -16,7 +16,7 @@ public void SetDocumentPrintTicket(int documentIndex, DocumentPrintTicket printT
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| documentIndex | Int32 | 打印票链接到的文档索引。 |
+| documentIndex | Int32 | 要将打印票链接到的文档索引。 |
 | printTicket | DocumentPrintTicket | 要链接的打印票。 |
 
 ### 也可以看看

@@ -1,7 +1,7 @@
 ---
 title: NumberOfPages
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Returns the number of pages in resulting PDF document.
 type: docs
 weight: 20
 url: /net/aspose.page.eps/psdocument/numberofpages/

@@ -3,7 +3,7 @@ title: EMIT_WARNINGS
 second_title: Aspose.Page for .NET API 参考
 description: 发出警告属性值
 type: docs
-weight: 400
+weight: 390
 url: /zh/net/aspose.page.eps.device/pdfdevice/emit_warnings/
 ---
 ## PdfDevice.EMIT_WARNINGS field

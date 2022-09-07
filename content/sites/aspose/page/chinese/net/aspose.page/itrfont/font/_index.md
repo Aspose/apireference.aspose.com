@@ -3,7 +3,7 @@ title: Font
 second_title: Aspose.Page for .NET API 参考
 description: 返回此字体对应的 DrFont
 type: docs
-weight: 40
+weight: 50
 url: /zh/net/aspose.page/itrfont/font/
 ---
 ## ITrFont.Font property
@@ -11,7 +11,7 @@ url: /zh/net/aspose.page/itrfont/font/
 返回此字体对应的 DrFont。
 
 ```csharp
-public #=zmElufxkM5h18Cs0vJConlEg3BX0O Font { get; }
+public #=zgJsZdbI3xoKvsy0PMMz6NrWZ$wkA Font { get; }
 ```
 
 ### 也可以看看

@@ -1,7 +1,7 @@
 ---
 title: Opacity
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Gets/sets the opacity.
 type: docs
 weight: 60
 url: /net/aspose.page.xps.presentation.pdf/pdfdevice/opacity/

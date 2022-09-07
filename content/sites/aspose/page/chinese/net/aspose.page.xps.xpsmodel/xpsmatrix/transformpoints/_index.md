@@ -30,7 +30,7 @@ public void TransformPoints(PointF[] points, int startIndex, int numberOfPoints)
 
 ## TransformPoints(PointF[]) {#transformpoints}
 
-将此 Matrix 表示的仿射变换应用于指定的点数组。
+将此矩阵表示的仿射变换应用于指定的点数组。
 
 ```csharp
 public void TransformPoints(PointF[] points)

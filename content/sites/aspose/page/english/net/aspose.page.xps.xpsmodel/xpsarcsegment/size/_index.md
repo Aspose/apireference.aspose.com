@@ -1,7 +1,7 @@
 ---
 title: Size
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Returns/sets the x and y radius of the elliptical arc as an xy pair.
 type: docs
 weight: 40
 url: /net/aspose.page.xps.xpsmodel/xpsarcsegment/size/

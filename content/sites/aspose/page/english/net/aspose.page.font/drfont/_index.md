@@ -1,9 +1,9 @@
 ---
 title: DrFont
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Use this class instead of GDI Font
 type: docs
-weight: 150
+weight: 160
 url: /net/aspose.page.font/drfont/
 ---
 ## DrFont class
@@ -46,8 +46,8 @@ public class DrFont
 | override [GetHashCode](../../aspose.page.font/drfont/gethashcode)() | Returns a hash code for this instance. |
 | [GetTextSizePoints](../../aspose.page.font/drfont/gettextsizepoints)(string) | Returns measurement text box of the text in points. |
 | [GetTextWidthLis](../../aspose.page.font/drfont/gettextwidthlis)(string) | Gets the text width lis. |
-| [GetTextWidthPoints](../../aspose.page.font/drfont/gettextwidthpoints)(string) | Gets the text width points. |
-| [GetTextWidthPoints](../../aspose.page.font/drfont/gettextwidthpoints)(string, int, int) | Gets the text width points. |
+| [GetTextWidthPoints](../../aspose.page.font/drfont/gettextwidthpoints#gettextwidthpoints)(string) | Gets the text width points. |
+| [GetTextWidthPoints](../../aspose.page.font/drfont/gettextwidthpoints#gettextwidthpoints_1)(string, int, int) | Gets the text width points. |
 | [Replace](../../aspose.page.font/drfont/replace)(DrFont) | Replace font content |
 | static [IsPoorlyRenderedByGdiPlus](../../aspose.page.font/drfont/ispoorlyrenderedbygdiplus)(string) | Returns True for "Microsoft Sans Serif" font. This one is poorly rendered by GDI+. See Test286 and Gemini-6959. |
 

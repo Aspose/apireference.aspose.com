@@ -1,14 +1,14 @@
 ---
 title: XpsPolyLineSegment
 second_title: Справочник по Aspose.Page для .NET API
-description: Класс инкапсулирующий функции элемента PolyLineSegment. Этот элемент описывает многоугольный рисунок содержащий произвольное количество отдельных вершин.
+description: Класс инкапсулирующий свойства элемента PolyLineSegment. Этот элемент описывает многоугольный рисунок содержащий произвольное количество отдельных вершин.
 type: docs
-weight: 1210
+weight: 3250
 url: /ru/net/aspose.page.xps.xpsmodel/xpspolylinesegment/
 ---
 ## XpsPolyLineSegment class
 
-Класс, инкапсулирующий функции элемента PolyLineSegment. Этот элемент описывает многоугольный рисунок, содержащий произвольное количество отдельных вершин.
+Класс, инкапсулирующий свойства элемента PolyLineSegment. Этот элемент описывает многоугольный рисунок, содержащий произвольное количество отдельных вершин.
 
 ```csharp
 public class XpsPolyLineSegment : XpsPathPolySegment
@@ -18,7 +18,7 @@ public class XpsPolyLineSegment : XpsPathPolySegment
 
 | Имя | Описание |
 | --- | --- |
-| [IsStroked](../../aspose.page.xps.xpsmodel/xpspathsegment/isstroked) { get; set; } | Возвращает/устанавливает значение, указывающее, будет ли рисоваться штрих для этого сегмента пути. |
+| [IsStroked](../../aspose.page.xps.xpsmodel/xpspathsegment/isstroked) { get; set; } | Возвращает/задает значение, указывающее, будет ли рисоваться штрих для этого сегмента пути. |
 
 ## Методы
 

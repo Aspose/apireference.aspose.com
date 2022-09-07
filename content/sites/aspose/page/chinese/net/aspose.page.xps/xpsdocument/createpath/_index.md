@@ -1,14 +1,14 @@
 ---
 title: CreatePath
 second_title: Aspose.Page for .NET API 参考
-description: 创建新路径
+description: 创建一个新路径
 type: docs
 weight: 270
 url: /zh/net/aspose.page.xps/xpsdocument/createpath/
 ---
 ## XpsDocument.CreatePath method
 
-创建新路径。
+创建一个新路径。
 
 ```csharp
 public XpsPath CreatePath(XpsPathGeometry data)

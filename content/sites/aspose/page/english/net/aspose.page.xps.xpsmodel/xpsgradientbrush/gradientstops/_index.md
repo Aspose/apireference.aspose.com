@@ -1,7 +1,7 @@
 ---
 title: GradientStops
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Returns/sets list of gradient stops that comprise the gradient.
 type: docs
 weight: 20
 url: /net/aspose.page.xps.xpsmodel/xpsgradientbrush/gradientstops/

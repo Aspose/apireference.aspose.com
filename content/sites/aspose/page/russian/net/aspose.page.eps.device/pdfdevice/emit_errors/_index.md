@@ -3,7 +3,7 @@ title: EMIT_ERRORS
 second_title: Справочник по Aspose.Page для .NET API
 description: Значение свойства Выдавать ошибки.
 type: docs
-weight: 390
+weight: 380
 url: /ru/net/aspose.page.eps.device/pdfdevice/emit_errors/
 ---
 ## PdfDevice.EMIT_ERRORS field

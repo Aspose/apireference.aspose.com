@@ -16,7 +16,7 @@ public virtual void FillOval(double x, double y, double width, double height)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| x | Double | X координата центра овала. |
+| x | Double | Координата X центра овала. |
 | y | Double | Координата Y центра овала. |
 | width | Double | Ширина описанного прямоугольника. |
 | height | Double | Высота описанного прямоугольника. |

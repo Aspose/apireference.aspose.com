@@ -1,7 +1,7 @@
 ---
 title: GetProperty
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Gets a value of string property.
 type: docs
 weight: 360
 url: /net/aspose.page/device/getproperty/

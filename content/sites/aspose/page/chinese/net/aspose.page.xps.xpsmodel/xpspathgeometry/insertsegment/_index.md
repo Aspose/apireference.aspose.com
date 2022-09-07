@@ -1,14 +1,14 @@
 ---
 title: InsertSegment
 second_title: Aspose.Page for .NET API 参考
-description: 在index位置的最后一个路径图 的子段列表中插入一个路径段
+description: 将路径段插入到 的最后一个路径图的子段列表中index位置.
 type: docs
 weight: 60
 url: /zh/net/aspose.page.xps.xpsmodel/xpspathgeometry/insertsegment/
 ---
 ## XpsPathGeometry.InsertSegment method
 
-在*index*位置的最后一个路径图 的子段列表中插入一个路径段。
+将路径段插入到 的最后一个路径图的子段列表中*index*位置.
 
 ```csharp
 public XpsPathSegment InsertSegment(int index, XpsPathSegment segment)

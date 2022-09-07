@@ -3,7 +3,7 @@ title: SaveOptions
 second_title: Справочник по Aspose.Page для .NET API
 description: Опции для управления процессом рендеринга.
 type: docs
-weight: 130
+weight: 120
 url: /ru/net/aspose.page.eps.device/imagedevice/saveoptions/
 ---
 ## ImageDevice.SaveOptions property

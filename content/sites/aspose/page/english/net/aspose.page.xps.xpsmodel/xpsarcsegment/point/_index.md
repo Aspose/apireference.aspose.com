@@ -1,7 +1,7 @@
 ---
 title: Point
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Returns/sets the endpoint of the elliptical arc.
 type: docs
 weight: 20
 url: /net/aspose.page.xps.xpsmodel/xpsarcsegment/point/

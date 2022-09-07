@@ -1,14 +1,14 @@
 ---
 title: IsClosed
 second_title: Справочник по Aspose.Page для .NET API
-description: Возвращает/устанавливает значение указывающее замкнута ли фигура пути.
+description: Возвращает/задает значение указывающее закрыта ли фигура пути.
 type: docs
 weight: 10
 url: /ru/net/aspose.page.xps.xpsmodel/xpspathfigure/isclosed/
 ---
 ## XpsPathFigure.IsClosed property
 
-Возвращает/устанавливает значение, указывающее, замкнута ли фигура пути.
+Возвращает/задает значение, указывающее, закрыта ли фигура пути.
 
 ```csharp
 public bool IsClosed { get; set; }

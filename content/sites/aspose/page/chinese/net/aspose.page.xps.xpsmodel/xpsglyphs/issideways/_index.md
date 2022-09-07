@@ -1,14 +1,14 @@
 ---
 title: IsSideways
 second_title: Aspose.Page for .NET API 参考
-description: 返回/设置指示字形在其一侧翻转的值 原点被定义为未翻转字形的顶部中心.
+description: 返回/设置指示字形在其一侧翻转的值 将原点定义为未翻转字形的顶部中心
 type: docs
 weight: 50
 url: /zh/net/aspose.page.xps.xpsmodel/xpsglyphs/issideways/
 ---
 ## XpsGlyphs.IsSideways property
 
-返回/设置指示字形在其一侧翻转的值， 原点被定义为未翻转字形的顶部中心.
+返回/设置指示字形在其一侧翻转的值， 将原点定义为未翻转字形的顶部中心。
 
 ```csharp
 public bool IsSideways { get; set; }

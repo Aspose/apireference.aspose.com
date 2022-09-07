@@ -1,21 +1,22 @@
 ---
 title: IOptionItem
 second_title: Aspose.Page for .NET API 参考
-description: 可以作为打印票选项项目的类的基本接口
+description: 可能是 Print Schema 的类的接口Option./option项目.
 type: docs
-weight: 510
+weight: 880
 url: /zh/net/aspose.page.xps.xpsmetadata/ioptionitem/
 ---
 ## IOptionItem interface
 
-可以作为打印票选项项目的类的基本接口。
+可能是 Print Schema 的类的接口[`Option`](../option)项目.
 
 ```csharp
-public interface IOptionItem
+public interface IOptionItem : IPrintTicketElementChild
 ```
 
 ### 也可以看看
 
+* interface [IPrintTicketElementChild](../iprintticketelementchild)
 * 命名空间 [Aspose.Page.XPS.XpsMetadata](../../aspose.page.xps.xpsmetadata)
 * 部件 [Aspose.Page](../../)
 

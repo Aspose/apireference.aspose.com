@@ -1,12 +1,12 @@
 ---
 title: Aspose.Page.EPS.XMP
 second_title: Справочник по Aspose.Page для .NET API
-description: Пространство имен Aspose.Page.EPS.XMP предоставляет классы для чтения изменения метаданных XMP в EPS файлы.
+description: Aspose.Page.EPS.XMP пространство имен предоставляет классы для чтения изменения метаданных XMP в файлах EPS.
 type: docs
 weight: 40
 url: /ru/net/aspose.page.eps.xmp/
 ---
-Пространство имен **Aspose.Page.EPS.XMP** предоставляет классы для чтения, изменения метаданных XMP в EPS файлы.
+**Aspose.Page.EPS.XMP** пространство имен предоставляет классы для чтения, изменения метаданных XMP в файлах EPS.
 
 ## Классы
 

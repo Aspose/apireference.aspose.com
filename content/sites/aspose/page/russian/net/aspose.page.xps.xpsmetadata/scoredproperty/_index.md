@@ -1,36 +1,45 @@
 ---
 title: ScoredProperty
 second_title: Справочник по Aspose.Page для .NET API
-description: Класс реализующий свойство оценки билета печати.
+description: Класс реализующий общий PrintTicket . Базовый класс для всех оцениваемых свойств определенных схемой. A element объявляет свойство присущее an Option./option определение. Такие свойства следует сравнивать при оценке того насколько близко запрошенныйOption./option соответствует поддерживаемому устройствомOption./option . https//docs.microsoft.com/enus/windows/win32/printdocs/scoredproperty
 type: docs
-weight: 760
+weight: 2790
 url: /ru/net/aspose.page.xps.xpsmetadata/scoredproperty/
 ---
 ## ScoredProperty class
 
-Класс, реализующий свойство оценки билета печати.
+Класс, реализующий общий PrintTicket . Базовый класс для всех оцениваемых свойств, определенных схемой. A element объявляет свойство, присущее an [`Option`](../option) определение. Такие свойства следует сравнивать при оценке того, насколько близко запрошенный[`Option`](../option) соответствует поддерживаемому устройством[`Option`](../option) . https://docs.microsoft.com/en-us/windows/win32/printdocs/scoredproperty
 
 ```csharp
-public class ScoredProperty : IEnumerable<IScoredPropertyItem>, IOptionItem, IScoredPropertyItem
+ScoredProperty
+```
+
+```csharp
+ScoredProperty
+```
+
+```csharp
+public class ScoredProperty : CompositePrintTicketElement, IOptionItem, IScoredPropertyItem
 ```
 
 ## Конструкторы
 
 | Имя | Описание |
 | --- | --- |
-| [ScoredProperty](scoredproperty)(string, params IScoredPropertyItem[]) | Создает экземпляр оцениваемого свойства билета печати. |
+| [ScoredProperty](scoredproperty#constructor)(string, ParameterRef) | Создает новый экземпляр. |
+| [ScoredProperty](scoredproperty#constructor_1)(string, Value, params IScoredPropertyItem[]) | Создает новый экземпляр. |
 
-## Методы
+## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [GetEnumerator](../../aspose.page.xps.xpsmetadata/scoredproperty/getenumerator)() | Реализация интерфейсаIEnumerable. |
-| override [ToString](../../aspose.page.xps.xpsmetadata/scoredproperty/tostring)() | Возвращает строковое представление. |
+| [Name](../../aspose.page.xps.xpsmetadata/printticketelement/name) { get; } | Получает имя элемента. |
 
 ### Смотрите также
 
-* interface [IScoredPropertyItem](../iscoredpropertyitem)
+* class [CompositePrintTicketElement](../compositeprintticketelement)
 * interface [IOptionItem](../ioptionitem)
+* interface [IScoredPropertyItem](../iscoredpropertyitem)
 * пространство имен [Aspose.Page.XPS.XpsMetadata](../../aspose.page.xps.xpsmetadata)
 * сборка [Aspose.Page](../../)
 

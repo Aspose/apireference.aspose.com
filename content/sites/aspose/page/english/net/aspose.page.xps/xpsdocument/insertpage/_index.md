@@ -1,12 +1,12 @@
 ---
 title: InsertPage
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Inserts an empty page to the document with default page size at index position.
 type: docs
 weight: 430
 url: /net/aspose.page.xps/xpsdocument/insertpage/
 ---
-## XpsDocument.InsertPage method (1 of 3)
+## InsertPage(int, bool) {#insertpage_1}
 
 Inserts an empty page to the document with default page size at *index* position.
 
@@ -32,7 +32,7 @@ Inserted page.
 
 ---
 
-## XpsDocument.InsertPage method (2 of 3)
+## InsertPage(int, float, float, bool) {#insertpage_2}
 
 Inserts an empty page to the document with specified *width* and *height* at *index* position.
 
@@ -60,7 +60,7 @@ Inserted page.
 
 ---
 
-## XpsDocument.InsertPage method (3 of 3)
+## InsertPage(int, XpsPage, bool) {#insertpage}
 
 Inserts a page to the document at *index* position.
 

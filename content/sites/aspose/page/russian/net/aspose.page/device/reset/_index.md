@@ -1,14 +1,14 @@
 ---
 title: Reset
 second_title: Справочник по Aspose.Page для .NET API
-description: Сброс устройства в исходное состояние для страницы.
+description: Сбросить устройство в исходное состояние для страницы.
 type: docs
 weight: 470
 url: /ru/net/aspose.page/device/reset/
 ---
 ## Device.Reset method
 
-Сброс устройства в исходное состояние для страницы.
+Сбросить устройство в исходное состояние для страницы.
 
 ```csharp
 public virtual void Reset()

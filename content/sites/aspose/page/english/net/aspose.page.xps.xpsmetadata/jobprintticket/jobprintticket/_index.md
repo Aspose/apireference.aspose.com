@@ -1,26 +1,26 @@
 ---
 title: JobPrintTicket
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Creates a joblevel print ticket instance.
 type: docs
 weight: 10
 url: /net/aspose.page.xps.xpsmetadata/jobprintticket/jobprintticket/
 ---
 ## JobPrintTicket constructor
 
-Creates job-level print ticket instance.
+Creates a job-level print ticket instance.
 
 ```csharp
-public JobPrintTicket(params IPrintTicketItem[] items)
+public JobPrintTicket(params IJobPrintTicketItem[] items)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| items | IPrintTicketItem[] | Arbitrary array [`IPrintTicketItem`](../../iprintticketitem) objects. Each one can be [`Feature`](../../feature), [`ParameterInit`](../../parameterinit) or [`Property`](../../property) object. |
+| items | IJobPrintTicketItem[] | An arbitrary array of [`IJobPrintTicketItem`](../../ijobprintticketitem) instances. Each one can be a [`Feature`](../../feature), a [`ParameterInit`](../../parameterinit) or a [`Property`](../../property) instance. |
 
 ### See Also
 
-* interface [IPrintTicketItem](../../iprintticketitem)
+* interface [IJobPrintTicketItem](../../ijobprintticketitem)
 * class [JobPrintTicket](../../jobprintticket)
 * namespace [Aspose.Page.XPS.XpsMetadata](../../jobprintticket)
 * assembly [Aspose.Page](../../../)

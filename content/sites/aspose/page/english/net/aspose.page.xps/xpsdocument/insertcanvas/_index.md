@@ -1,7 +1,7 @@
 ---
 title: InsertCanvas
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Inserts a new canvas to the active page at index position.
 type: docs
 weight: 400
 url: /net/aspose.page.xps/xpsdocument/insertcanvas/

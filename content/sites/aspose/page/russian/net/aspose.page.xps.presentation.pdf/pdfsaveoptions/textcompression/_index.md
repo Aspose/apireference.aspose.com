@@ -1,14 +1,14 @@
 ---
 title: TextCompression
 second_title: Справочник по Aspose.Page для .NET API
-description: Указывает тип сжатия который будет использоваться для всех потоков содержимого кроме изображений. Значение по умолчаниюFlate.
+description: Указывает тип сжатия который будет использоваться для всех потоков контента кроме изображений. По умолчаниюFlate .
 type: docs
 weight: 70
 url: /ru/net/aspose.page.xps.presentation.pdf/pdfsaveoptions/textcompression/
 ---
 ## PdfSaveOptions.TextCompression property
 
-Указывает тип сжатия, который будет использоваться для всех потоков содержимого, кроме изображений. Значение по умолчанию:Flate.
+Указывает тип сжатия, который будет использоваться для всех потоков контента, кроме изображений. По умолчанию:Flate .
 
 ```csharp
 public PdfTextCompression TextCompression { get; set; }

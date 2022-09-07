@@ -1,7 +1,7 @@
 ---
 title: ImageDevice
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: This class encapsulates rendering of document to image.
 type: docs
 weight: 40
 url: /net/aspose.page.eps.device/imagedevice/
@@ -18,10 +18,10 @@ public class ImageDevice : Device, IMultiPageDevice
 
 | Name | Description |
 | --- | --- |
-| [ImageDevice](imagedevice)() | Initializes new instance of [`ImageDevice`](../imagedevice). |
-| [ImageDevice](imagedevice)(ImageFormat) | Initializes new instance of [`ImageDevice`](../imagedevice) with specified image format. |
-| [ImageDevice](imagedevice)(Size) | Initializes new instance of [`ImageDevice`](../imagedevice) with specified size of a page. |
-| [ImageDevice](imagedevice)(Size, ImageFormat) | Initializes new instance of [`ImageDevice`](../imagedevice) with specified size of a page and image format. |
+| [ImageDevice](imagedevice#constructor)() | Initializes new instance of [`ImageDevice`](../imagedevice). |
+| [ImageDevice](imagedevice#constructor_1)(ImageFormat) | Initializes new instance of [`ImageDevice`](../imagedevice) with specified image format. |
+| [ImageDevice](imagedevice#constructor_2)(Size) | Initializes new instance of [`ImageDevice`](../imagedevice) with specified size of a page. |
+| [ImageDevice](imagedevice#constructor_3)(Size, ImageFormat) | Initializes new instance of [`ImageDevice`](../imagedevice) with specified size of a page and image format. |
 
 ## Properties
 
@@ -39,7 +39,7 @@ public class ImageDevice : Device, IMultiPageDevice
 | override [Opacity](../../aspose.page.eps.device/imagedevice/opacity) { get; set; } | Returns or specifies current background of the page. |
 | virtual [OpacityMask](../../aspose.page/device/opacitymask) { get; set; } | Returns or specifies current opacity mask. |
 | override [Paint](../../aspose.page.eps.device/imagedevice/paint) { get; set; } | Returns or specifies current paint. |
-| [Properties](../../aspose.page.eps.device/imagedevice/properties) { get; set; } | Device properties including metadata. |
+| [Properties](../../aspose.page/device/properties) { get; set; } | Device properties including metadata. |
 | override [SaveOptions](../../aspose.page.eps.device/imagedevice/saveoptions) { set; } | Options for managing rendering process. |
 | override [Size](../../aspose.page.eps.device/imagedevice/size) { get; set; } | Returns or specifies a size of the page. |
 | override [Stroke](../../aspose.page.eps.device/imagedevice/stroke) { get; set; } | Returns or specifies current stroke. |
@@ -73,22 +73,22 @@ public class ImageDevice : Device, IMultiPageDevice
 | virtual [FillPolygon](../../aspose.page/device/fillpolygon)(int[], int[], int) | Fills a poligone. |
 | virtual [FillRect](../../aspose.page/device/fillrect)(double, double, double, double) | Fills a rectangle. |
 | virtual [FillRoundRect](../../aspose.page/device/fillroundrect)(double, double, double, double, double, double) | Fills a round rectangle. |
-| [GetProperty](../../aspose.page.eps.device/imagedevice/getproperty)(string) | Gets a value of string property. (2 methods) |
-| [GetPropertyColor](../../aspose.page.eps.device/imagedevice/getpropertycolor)(string) | Gets a value of color property. (2 methods) |
-| [GetPropertyDouble](../../aspose.page.eps.device/imagedevice/getpropertydouble)(string) | Gets a value of double property. (2 methods) |
-| [GetPropertyInt](../../aspose.page.eps.device/imagedevice/getpropertyint)(string) | Gets a value of integer property. (2 methods) |
-| [GetPropertyMargins](../../aspose.page.eps.device/imagedevice/getpropertymargins)(string) | Gets a value of margins property. (2 methods) |
-| [GetPropertyRectangle](../../aspose.page.eps.device/imagedevice/getpropertyrectangle)(string) | Gets a value of rectangle property. (2 methods) |
-| [GetPropertySize](../../aspose.page.eps.device/imagedevice/getpropertysize)(string) | Gets a value of size property. (2 methods) |
+| [GetProperty](../../aspose.page.eps.device/imagedevice/getproperty#getproperty)(string) | Gets a value of string property. (2 methods) |
+| [GetPropertyColor](../../aspose.page.eps.device/imagedevice/getpropertycolor#getpropertycolor)(string) | Gets a value of color property. (2 methods) |
+| [GetPropertyDouble](../../aspose.page.eps.device/imagedevice/getpropertydouble#getpropertydouble)(string) | Gets a value of double property. (2 methods) |
+| [GetPropertyInt](../../aspose.page.eps.device/imagedevice/getpropertyint#getpropertyint)(string) | Gets a value of integer property. (2 methods) |
+| [GetPropertyMargins](../../aspose.page.eps.device/imagedevice/getpropertymargins#getpropertymargins)(string) | Gets a value of margins property. (2 methods) |
+| [GetPropertyRectangle](../../aspose.page.eps.device/imagedevice/getpropertyrectangle#getpropertyrectangle)(string) | Gets a value of rectangle property. (2 methods) |
+| [GetPropertySize](../../aspose.page.eps.device/imagedevice/getpropertysize#getpropertysize)(string) | Gets a value of size property. (2 methods) |
 | override [GetTransform](../../aspose.page.eps.device/imagedevice/gettransform)() | Gets the current transform. |
 | override [InitClip](../../aspose.page.eps.device/imagedevice/initclip)() | Initializes a clip of the device. |
 | virtual [InitPageNumbers](../../aspose.page.eps.device/imagedevice/initpagenumbers)() | Initializes numbers of pages to output. |
-| [IsProperty](../../aspose.page.eps.device/imagedevice/isproperty)(string) | Gets a value of boolean property. (2 methods) |
-| virtual [OpenPage](../../aspose.page.eps.device/imagedevice/openpage)(string) | Makes necessary preparation of the device before page rendering. |
-| virtual [OpenPage](../../aspose.page.eps.device/imagedevice/openpage)(float, float) | Makes necessary preparation of the device before each page rendering. |
+| [IsProperty](../../aspose.page.eps.device/imagedevice/isproperty#isproperty)(string) | Gets a value of boolean property. (2 methods) |
+| virtual [OpenPage](../../aspose.page.eps.device/imagedevice/openpage#openpage_1)(string) | Makes necessary preparation of the device before page rendering. |
+| virtual [OpenPage](../../aspose.page.eps.device/imagedevice/openpage#openpage)(float, float) | Makes necessary preparation of the device before each page rendering. |
 | override [ReNew](../../aspose.page.eps.device/imagedevice/renew)() | Reset device to initial state for whole document. |
 | override [Reset](../../aspose.page.eps.device/imagedevice/reset)() | Reset the device to initial state for a page. |
-| override [Rotate](../../aspose.page.eps.device/imagedevice/rotate)(double) | Rotate the current transformation matrix over the Z-axis. Calls writeTransform(Transform). Rotating with a positive angle theta rotates points on the positive x axis toward the positive y axis. |
+| override [Rotate](../../aspose.page.eps.device/imagedevice/rotate#rotate)(double) | Rotate the current transformation matrix over the Z-axis. Calls writeTransform(Transform). Rotating with a positive angle theta rotates points on the positive x axis toward the positive y axis. |
 | virtual [Rotate](../../aspose.page/device/rotate)(double, double, double) | Rotate the current transformation matrix around a point. |
 | override [Scale](../../aspose.page.eps.device/imagedevice/scale)(double, double) | Scales the current transformation matrix. Calls writeTransform(Transform). |
 | override [SetClip](../../aspose.page.eps.device/imagedevice/setclip)(GraphicsPath) | Clips shape. |

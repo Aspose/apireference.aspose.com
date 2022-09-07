@@ -1,7 +1,7 @@
 ---
 title: Count
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Returns number of child elements.
 type: docs
 weight: 10
 url: /net/aspose.page.xps.xpsmodel/xpselement/count/

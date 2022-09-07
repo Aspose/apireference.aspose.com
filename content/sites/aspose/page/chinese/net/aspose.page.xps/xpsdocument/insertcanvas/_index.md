@@ -1,14 +1,14 @@
 ---
 title: InsertCanvas
 second_title: Aspose.Page for .NET API 参考
-description: 在index位置将新画布插入活动页面
+description: 在活动页面中插入一个新画布index位置.
 type: docs
 weight: 400
 url: /zh/net/aspose.page.xps/xpsdocument/insertcanvas/
 ---
 ## XpsDocument.InsertCanvas method
 
-在*index*位置将新画布插入活动页面。
+在活动页面中插入一个新画布*index*位置.
 
 ```csharp
 public XpsCanvas InsertCanvas(int index)
@@ -16,7 +16,7 @@ public XpsCanvas InsertCanvas(int index)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| index | Int32 | 应该插入新画布的位置。 |
+| index | Int32 | 应插入新画布的位置。 |
 
 ### 返回值
 

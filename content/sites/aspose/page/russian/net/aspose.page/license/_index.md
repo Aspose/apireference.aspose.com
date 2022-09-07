@@ -1,14 +1,14 @@
 ---
 title: License
 second_title: Справочник по Aspose.Page для .NET API
-description: Предоставляет методы для лицензирования компонента.
+description: Предоставляет методы лицензирования компонента.
 type: docs
-weight: 200
+weight: 210
 url: /ru/net/aspose.page/license/
 ---
 ## License class
 
-Предоставляет методы для лицензирования компонента.
+Предоставляет методы лицензирования компонента.
 
 ```csharp
 public class License
@@ -24,7 +24,7 @@ public class License
 
 | Имя | Описание |
 | --- | --- |
-| [Embedded](../../aspose.page/license/embedded) { get; set; } | Номер лицензии был добавлен как встроенный ресурс. |
+| [Embedded](../../aspose.page/license/embedded) { get; set; } | Номер лицензии добавлен как встроенный ресурс. |
 
 ## Методы
 
@@ -35,7 +35,7 @@ public class License
 
 ### Примеры
 
-В этом примере будет предпринята попытка найти файл лицензии с именем MyLicense.lic в папке, содержащей  компонент, в папке, содержащей вызывающую сборку , в папке входной сборки, а затем во встроенных ресурсах вызывающей сборки.
+В этом примере будет предпринята попытка найти файл лицензии с именем MyLicense.lic в папке, содержащей  компонент в папке, содержащей вызывающую сборку, в папке входной сборки, а затем во встроенных ресурсах вызывающей сборки.
 
 ```csharp
 [C#]
@@ -50,7 +50,7 @@ Dim license As license = New license
 License.SetLicense("MyLicense.lic")
 ```
 
-jar-файл компонента:
+файл jar компонента:
 
 ```csharp
 License license = new License();

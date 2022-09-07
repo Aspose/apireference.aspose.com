@@ -1,14 +1,14 @@
 ---
 title: XpsPolyQuadraticBezierSegment
 second_title: Справочник по Aspose.Page для .NET API
-description: Класс инкапсулирующий функции элемента PolyQuadraticBezierSegment. Этот элемент описывает набор квадратичных кривых Безье из предыдущей точки в фигуре пути через набор вершин используя заданные контрольные точки.
+description: Класс инкапсулирующий свойства элемента PolyQuadraticBezierSegment. Этот элемент описывает набор квадратичных кривых Безье от предыдущей точки in фигура пути через набор вершин с использованием заданных контрольных точек.
 type: docs
-weight: 1220
+weight: 3260
 url: /ru/net/aspose.page.xps.xpsmodel/xpspolyquadraticbeziersegment/
 ---
 ## XpsPolyQuadraticBezierSegment class
 
-Класс, инкапсулирующий функции элемента PolyQuadraticBezierSegment. Этот элемент описывает набор квадратичных кривых Безье из предыдущей точки в фигуре пути через набор вершин, используя заданные контрольные точки.
+Класс, инкапсулирующий свойства элемента PolyQuadraticBezierSegment. Этот элемент описывает набор квадратичных кривых Безье от предыдущей точки in фигура пути через набор вершин с использованием заданных контрольных точек.
 
 ```csharp
 public class XpsPolyQuadraticBezierSegment : XpsPathPolySegment
@@ -18,7 +18,7 @@ public class XpsPolyQuadraticBezierSegment : XpsPathPolySegment
 
 | Имя | Описание |
 | --- | --- |
-| [IsStroked](../../aspose.page.xps.xpsmodel/xpspathsegment/isstroked) { get; set; } | Возвращает/устанавливает значение, указывающее, будет ли рисоваться штрих для этого сегмента пути. |
+| [IsStroked](../../aspose.page.xps.xpsmodel/xpspathsegment/isstroked) { get; set; } | Возвращает/задает значение, указывающее, будет ли рисоваться штрих для этого сегмента пути. |
 
 ## Методы
 

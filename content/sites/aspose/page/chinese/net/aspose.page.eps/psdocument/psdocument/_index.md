@@ -1,14 +1,14 @@
 ---
 title: PsDocument
 second_title: Aspose.Page for .NET API 参考
-description: 使用 PS/EPS 文件流初始化PsDocumentaspose.page.eps/psdocument
+description: 初始化PsDocumentaspose.page.eps/psdocument带有 PS/EPS 文件流
 type: docs
 weight: 10
 url: /zh/net/aspose.page.eps/psdocument/psdocument/
 ---
 ## PsDocument constructor
 
-使用 PS/EPS 文件流初始化[`PsDocument`](../../psdocument)。
+初始化[`PsDocument`](../../psdocument)带有 PS/EPS 文件流。
 
 ```csharp
 public PsDocument(Stream psStream)

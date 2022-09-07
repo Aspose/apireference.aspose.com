@@ -3,7 +3,7 @@ title: XpsLineCap
 second_title: Aspose.Page for .NET API 参考
 description: Path 元素的 StrokeStartLineCap 和 StrokeEndLineCap 属性的有效值
 type: docs
-weight: 1080
+weight: 3120
 url: /zh/net/aspose.page.xps.xpsmodel/xpslinecap/
 ---
 ## XpsLineCap enumeration
@@ -19,9 +19,9 @@ public enum XpsLineCap
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
 | Flat | `0` | 扁线帽。 |
-| Round | `1` | 圆线帽。 |
+| Round | `1` | 圆线帽. |
 | Square | `2` | 方形线帽。 |
-| Triangle | `3` | 三角线帽。 |
+| Triangle | `3` | 三角线帽. |
 
 ### 也可以看看
 

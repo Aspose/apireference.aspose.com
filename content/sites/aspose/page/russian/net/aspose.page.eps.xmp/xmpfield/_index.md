@@ -3,7 +3,7 @@ title: XmpField
 second_title: Справочник по Aspose.Page для .NET API
 description: Представляет поле XMP.
 type: docs
-weight: 100
+weight: 110
 url: /ru/net/aspose.page.eps.xmp/xmpfield/
 ---
 ## XmpField class
@@ -22,7 +22,7 @@ public class XmpField
 | static [Lang](../../aspose.page.eps.xmp/xmpfield/lang) { get; } | Получает квалификатор xml:lang. |
 | [FieldType](../../aspose.page.eps.xmp/xmpfield/fieldtype) { get; } | Получает тип поля. |
 | [IsEmpty](../../aspose.page.eps.xmp/xmpfield/isempty) { get; } | Получает значение, указывающее, является ли этот экземпляр пустым. |
-| [LocalName](../../aspose.page.eps.xmp/xmpfield/localname) { get; set; } | Получает или задает имя локального объекта. |
+| [LocalName](../../aspose.page.eps.xmp/xmpfield/localname) { get; set; } | Получает или задает имя локального. |
 | [Name](../../aspose.page.eps.xmp/xmpfield/name) { get; } | Получает имя. |
 | [NamespaceUri](../../aspose.page.eps.xmp/xmpfield/namespaceuri) { get; set; } | Получает URI пространства имен. |
 | [Prefix](../../aspose.page.eps.xmp/xmpfield/prefix) { get; set; } | Получает префикс. |
@@ -32,10 +32,10 @@ public class XmpField
 
 | Имя | Описание |
 | --- | --- |
-| override [Equals](../../aspose.page.eps.xmp/xmpfield/equals)(object) | Указывает, равны ли этот экземпляр и указанный объект. |
-| override [GetHashCode](../../aspose.page.eps.xmp/xmpfield/gethashcode)() | Возвращает хэш-код для данного экземпляра. |
+| override [Equals](../../aspose.page.eps.xmp/xmpfield/equals)(object) | Указывает, равны ли данный экземпляр и указанный объект. |
+| override [GetHashCode](../../aspose.page.eps.xmp/xmpfield/gethashcode)() | Возвращает хэш-код для этого экземпляра. |
 | [ToArray](../../aspose.page.eps.xmp/xmpfield/toarray)() | Получает значение в виде массива. |
-| [ToStructure](../../aspose.page.eps.xmp/xmpfield/tostructure)() | Получает значение как структуру. |
+| [ToStructure](../../aspose.page.eps.xmp/xmpfield/tostructure)() | Получает значение в виде структуры. |
 | [operator ==](../../aspose.page.eps.xmp/xmpfield/op_equality) | Реализует оператор ==. |
 | [operator !=](../../aspose.page.eps.xmp/xmpfield/op_inequality) | Реализует оператор !=. |
 

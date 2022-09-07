@@ -1,12 +1,12 @@
 ---
 title: CreateIccProfile
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Creates a new ICC profile resource out of ICC profile file located at the iccProfilePath.
 type: docs
 weight: 220
 url: /net/aspose.page.xps/xpsdocument/createiccprofile/
 ---
-## XpsDocument.CreateIccProfile method (1 of 2)
+## CreateIccProfile(string) {#createiccprofile_1}
 
 Creates a new ICC profile resource out of ICC profile file located at the *iccProfilePath*.
 
@@ -31,7 +31,7 @@ New ICC profile resource.
 
 ---
 
-## XpsDocument.CreateIccProfile method (2 of 2)
+## CreateIccProfile(Stream) {#createiccprofile}
 
 Creates a new ICC profile resource out of *stream*.
 

@@ -17,7 +17,7 @@ public virtual void DrawPolyline(int[] xPoints, int[] yPoints, int nPoints)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | xPoints | Int32[] | X координаты точек. |
-| yPoints | Int32[] | Y координата точек. |
+| yPoints | Int32[] | Координата Y точек. |
 | nPoints | Int32 | Количество баллов. |
 
 ### Смотрите также
@@ -39,7 +39,7 @@ public virtual void DrawPolyline(double[] xPoints, double[] yPoints, int nPoints
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | xPoints | Double[] | X координаты точек. |
-| yPoints | Double[] | Y координата точек. |
+| yPoints | Double[] | Координата Y точек. |
 | nPoints | Int32 | Количество баллов. |
 
 ### Смотрите также

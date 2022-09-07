@@ -1,7 +1,7 @@
 ---
 title: AddPath
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Adds a new path to this canvass child list.
 type: docs
 weight: 50
 url: /net/aspose.page.xps.xpsmodel/xpscanvas/addpath/

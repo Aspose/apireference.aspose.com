@@ -1,7 +1,7 @@
 ---
 title: StartPoint
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Returns/sets the starting point for the first segment of the path figure.
 type: docs
 weight: 40
 url: /net/aspose.page.xps.xpsmodel/xpspathfigure/startpoint/

@@ -1,14 +1,14 @@
 ---
 title: XpsSolidColorBrush
 second_title: Aspose.Page for .NET API 参考
-description: 封装 SolidColorBrush 属性元素特征的类 此元素用于用纯色填充定义的几何区域
+description: 封装 SolidColorBrush 属性元素 features 的类 此元素用于用纯色填充定义的几何区域
 type: docs
-weight: 1250
+weight: 3290
 url: /zh/net/aspose.page.xps.xpsmodel/xpssolidcolorbrush/
 ---
 ## XpsSolidColorBrush class
 
-封装 SolidColorBrush 属性元素特征的类。 此元素用于用纯色填充定义的几何区域。
+封装 SolidColorBrush 属性元素 features 的类。 此元素用于用纯色填充定义的几何区域。
 
 ```csharp
 public sealed class XpsSolidColorBrush : XpsBrush
@@ -19,7 +19,7 @@ public sealed class XpsSolidColorBrush : XpsBrush
 | 姓名 | 描述 |
 | --- | --- |
 | [Color](../../aspose.page.xps.xpsmodel/xpssolidcolorbrush/color) { get; set; } | 返回/设置填充元素的颜色。 |
-| [Opacity](../../aspose.page.xps.xpsmodel/xpsbrush/opacity) { get; set; } | 返回/设置定义画笔填充的统一透明度的值。 |
+| [Opacity](../../aspose.page.xps.xpsmodel/xpsbrush/opacity) { get; set; } | 返回/设置定义画笔填充均匀透明度的值。 |
 
 ## 方法
 

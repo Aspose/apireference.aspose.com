@@ -3,7 +3,7 @@ title: InitPageNumbers
 second_title: Aspose.Page for .NET API 参考
 description: 初始化要输出的页数
 type: docs
-weight: 180
+weight: 170
 url: /zh/net/aspose.page.eps.device/pdfdevice/initpagenumbers/
 ---
 ## PdfDevice.InitPageNumbers method

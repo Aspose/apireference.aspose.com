@@ -1,42 +1,47 @@
 ---
 title: Feature
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: The class that incapsulates a common Print Schema feature. The base class for all schemadefined features. A
 type: docs
-weight: 460
+weight: 810
 url: /net/aspose.page.xps.xpsmetadata/feature/
 ---
 ## Feature class
 
-Class implementing common print ticket feature.
+The class that incapsulates a common Print Schema feature. The base class for all schema-defined features. A
 
 ```csharp
-public class Feature : IEnumerable<IFeatureItem>, IFeatureItem, IPrintTicketItem
+Feature
+```
+
+element contains a complete list of the [`Option`](../option) and [`Property`](../property) elements that fully describe a device attribute, job formatting setting, or other relevant characteristic. https://docs.microsoft.com/en-us/windows/win32/printdocs/feature
+
+```csharp
+public class Feature : CompositePrintTicketElement, IFeatureItem, IPrintTicketItem
 ```
 
 ## Constructors
 
 | Name | Description |
 | --- | --- |
-| [Feature](feature)(string, Feature, params Property[]) | Creates common print ticket feature instance. |
-| [Feature](feature)(string, Option, params Property[]) | Creates common print ticket feature instance. |
+| [Feature](feature#constructor)(string, Feature, params IFeatureItem[]) | Creates a new PrintTicket feature instance. |
+| [Feature](feature#constructor_1)(string, Option, params IFeatureItem[]) | Creates a new PrintTicket feature instance. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Name](../../aspose.page.xps.xpsmetadata/feature/name) { get; } | Returns feature name. |
+| [Name](../../aspose.page.xps.xpsmetadata/printticketelement/name) { get; } | Gets the element name. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Add](../../aspose.page.xps.xpsmetadata/feature/add)(params IFeatureItem[]) | Adds list of items to the end of feature items list. Each one must be a [`Feature`](../feature), [`Option`](../option) or [`Property`](../property) object. |
-| [GetEnumerator](../../aspose.page.xps.xpsmetadata/feature/getenumerator)() | Implementation of IEnumerable interface. |
-| override [ToString](../../aspose.page.xps.xpsmetadata/feature/tostring)() | Returns the string representation. |
+| [Add](../../aspose.page.xps.xpsmetadata/feature/add)(params IFeatureItem[]) | Adds a list of items to the end of this feature's item list. Each one must be a [`Feature`](../feature), an [`Option`](../option) or a [`Property`](../property) instance. |
 
 ### See Also
 
+* class [CompositePrintTicketElement](../compositeprintticketelement)
 * interface [IFeatureItem](../ifeatureitem)
 * interface [IPrintTicketItem](../iprintticketitem)
 * namespace [Aspose.Page.XPS.XpsMetadata](../../aspose.page.xps.xpsmetadata)

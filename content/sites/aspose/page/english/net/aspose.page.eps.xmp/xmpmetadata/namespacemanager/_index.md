@@ -1,7 +1,7 @@
 ---
 title: NamespaceManager
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Gets namespace manager.
 type: docs
 weight: 70
 url: /net/aspose.page.eps.xmp/xmpmetadata/namespacemanager/

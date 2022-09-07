@@ -1,9 +1,9 @@
 ---
 title: ReNew
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Reset device to initial state for whole document.
 type: docs
-weight: 380
+weight: 370
 url: /net/aspose.page.eps.device/imagedevice/renew/
 ---
 ## ImageDevice.ReNew method

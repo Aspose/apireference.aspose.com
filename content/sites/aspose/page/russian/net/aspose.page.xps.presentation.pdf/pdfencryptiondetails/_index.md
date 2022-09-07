@@ -1,14 +1,14 @@
 ---
 title: PdfEncryptionDetails
 second_title: Справочник по Aspose.Page для .NET API
-description: Содержит детали для шифрования pdf.
+description: Содержит детали для шифрования PDF.
 type: docs
-weight: 340
+weight: 360
 url: /ru/net/aspose.page.xps.presentation.pdf/pdfencryptiondetails/
 ---
 ## PdfEncryptionDetails class
 
-Содержит детали для шифрования pdf.
+Содержит детали для шифрования PDF.
 
 ```csharp
 public class PdfEncryptionDetails
@@ -18,7 +18,7 @@ public class PdfEncryptionDetails
 
 | Имя | Описание |
 | --- | --- |
-| [PdfEncryptionDetails](pdfencryptiondetails)(string, string, int, PdfEncryptionAlgorithm) | Инициализирует новый экземпляр классаPdfEncryptionDetailsCore. |
+| [PdfEncryptionDetails](pdfencryptiondetails)(string, string, int, PdfEncryptionAlgorithm) | Инициализирует новый экземплярPdfEncryptionDetailsCore класс. |
 
 ## Характеристики
 
@@ -26,8 +26,8 @@ public class PdfEncryptionDetails
 | --- | --- |
 | [EncryptionAlgorithm](../../aspose.page.xps.presentation.pdf/pdfencryptiondetails/encryptionalgorithm) { get; set; } | Получает или задает режим шифрования. |
 | [OwnerPassword](../../aspose.page.xps.presentation.pdf/pdfencryptiondetails/ownerpassword) { get; set; } | Получает или задает пароль владельца. |
-| [Permissions](../../aspose.page.xps.presentation.pdf/pdfencryptiondetails/permissions) { get; set; } | Получает или устанавливает разрешения. |
-| [UserPassword](../../aspose.page.xps.presentation.pdf/pdfencryptiondetails/userpassword) { get; set; } | Получает или задает пароль пользователя. |
+| [Permissions](../../aspose.page.xps.presentation.pdf/pdfencryptiondetails/permissions) { get; set; } | Получает или задает разрешения. |
+| [UserPassword](../../aspose.page.xps.presentation.pdf/pdfencryptiondetails/userpassword) { get; set; } | Получает или устанавливает пароль пользователя. |
 
 ### Смотрите также
 

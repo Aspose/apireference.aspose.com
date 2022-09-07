@@ -1,14 +1,14 @@
 ---
 title: GetPropertyFloat
 second_title: Справочник по Aspose.Page для .NET API
-description: Получает значение свойства float.
+description: Получает значение свойства с плавающей запятой.
 type: docs
 weight: 60
 url: /ru/net/aspose.page/userproperties/getpropertyfloat/
 ---
 ## GetPropertyFloat(string) {#getpropertyfloat}
 
-Получает значение свойства float.
+Получает значение свойства с плавающей запятой.
 
 ```csharp
 public virtual float GetPropertyFloat(string key)
@@ -20,7 +20,7 @@ public virtual float GetPropertyFloat(string key)
 
 ### Возвращаемое значение
 
-Значение свойства.
+Стоимость имущества.
 
 ### Смотрите также
 
@@ -32,7 +32,7 @@ public virtual float GetPropertyFloat(string key)
 
 ## GetPropertyFloat(string, float) {#getpropertyfloat_1}
 
-Получает значение свойства float. Если запрошенное свойство отсутствует, возвращает предоставленное значение по умолчанию.
+Получает значение свойства с плавающей запятой. Если запрошенное свойство отсутствует, возвращает предоставленное значение по умолчанию.
 
 ```csharp
 public virtual float GetPropertyFloat(string key, float def)
@@ -45,7 +45,7 @@ public virtual float GetPropertyFloat(string key, float def)
 
 ### Возвращаемое значение
 
-Значение свойства.
+Стоимость имущества.
 
 ### Смотрите также
 

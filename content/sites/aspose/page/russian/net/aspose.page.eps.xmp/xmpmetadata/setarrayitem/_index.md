@@ -1,14 +1,14 @@
 ---
 title: SetArrayItem
 second_title: Справочник по Aspose.Page для .NET API
-description: Устанавливает значение в массиве. Предыдущее значение будет заменено новым.
+description: Задает значение в массиве. Предыдущее значение будет заменено новым.
 type: docs
 weight: 220
 url: /ru/net/aspose.page.eps.xmp/xmpmetadata/setarrayitem/
 ---
 ## XmpMetadata.SetArrayItem method
 
-Устанавливает значение в массиве. Предыдущее значение будет заменено новым.
+Задает значение в массиве. Предыдущее значение будет заменено новым.
 
 ```csharp
 public void SetArrayItem(string arrayKey, int index, XmpValue value)

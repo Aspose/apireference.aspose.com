@@ -3,7 +3,7 @@ title: XpsSweepDirection
 second_title: Aspose.Page for .NET API 参考
 description: ArcSegment 元素的 SweepDirection 属性的有效值
 type: docs
-weight: 1280
+weight: 3320
 url: /zh/net/aspose.page.xps.xpsmodel/xpssweepdirection/
 ---
 ## XpsSweepDirection enumeration

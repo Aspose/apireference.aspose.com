@@ -1,7 +1,7 @@
 ---
 title: IsRaw
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Value is unsupported/unknown and raw XML code is provided.
 type: docs
 weight: 90
 url: /net/aspose.page.eps.xmp/xmpvalue/israw/

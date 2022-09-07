@@ -1,12 +1,12 @@
 ---
 title: CreateColor
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Creates a new color.
 type: docs
 weight: 180
 url: /net/aspose.page.xps/xpsdocument/createcolor/
 ---
-## XpsDocument.CreateColor method (1 of 7)
+## CreateColor(Color) {#createcolor_5}
 
 Creates a new color.
 
@@ -31,7 +31,7 @@ New color.
 
 ---
 
-## XpsDocument.CreateColor method (2 of 7)
+## CreateColor(int, int, int, int) {#createcolor_2}
 
 Creates a new color in sRGB color space.
 
@@ -59,7 +59,7 @@ New color.
 
 ---
 
-## XpsDocument.CreateColor method (3 of 7)
+## CreateColor(int, int, int) {#createcolor_1}
 
 Creates a new color in sRGB color space.
 
@@ -86,7 +86,7 @@ New color.
 
 ---
 
-## XpsDocument.CreateColor method (4 of 7)
+## CreateColor(float, float, float, float) {#createcolor_4}
 
 Creates a new color in scRGB color space.
 
@@ -114,7 +114,7 @@ New color.
 
 ---
 
-## XpsDocument.CreateColor method (5 of 7)
+## CreateColor(float, float, float) {#createcolor_3}
 
 Creates a new color in scRGB color space.
 
@@ -141,7 +141,7 @@ New color.
 
 ---
 
-## XpsDocument.CreateColor method (6 of 7)
+## CreateColor(string, params float[]) {#createcolor_6}
 
 Creates a new color in ICC based color space.
 
@@ -167,7 +167,7 @@ New color.
 
 ---
 
-## XpsDocument.CreateColor method (7 of 7)
+## CreateColor(XpsIccProfile, params float[]) {#createcolor}
 
 Creates a new color in ICC based color space.
 

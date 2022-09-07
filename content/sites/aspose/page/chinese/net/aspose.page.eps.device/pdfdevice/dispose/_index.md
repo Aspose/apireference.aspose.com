@@ -3,7 +3,7 @@ title: Dispose
 second_title: Aspose.Page for .NET API 参考
 description: 处理图形上下文如果创建时 restoreOnDispose 为真 writeGraphicsRestore 将被调用
 type: docs
-weight: 100
+weight: 90
 url: /zh/net/aspose.page.eps.device/pdfdevice/dispose/
 ---
 ## PdfDevice.Dispose method

@@ -3,7 +3,7 @@ title: XpsColorInterpolationMode
 second_title: Справочник по Aspose.Page для .NET API
 description: Допустимые значения свойства ColorInterpolationMode кистей градиента.
 type: docs
-weight: 890
+weight: 2930
 url: /ru/net/aspose.page.xps.xpsmodel/xpscolorinterpolationmode/
 ---
 ## XpsColorInterpolationMode enumeration
@@ -18,7 +18,7 @@ public enum XpsColorInterpolationMode
 
 | Имя | Ценность | Описание |
 | --- | --- | --- |
-| SRgbLinearInterpolation | `0` | SRgbLinearРежим интерполяции. |
+| SRgbLinearInterpolation | `0` | SRgbLinearInterpolation mode. |
 | ScRgbLinearInterpolation | `1` | ScRgbLinearРежим интерполяции. |
 
 ### Смотрите также

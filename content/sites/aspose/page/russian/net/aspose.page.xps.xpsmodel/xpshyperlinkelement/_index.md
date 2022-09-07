@@ -1,14 +1,14 @@
 ---
 title: XpsHyperlinkElement
 second_title: Справочник по Aspose.Page для .NET API
-description: Содержит общие черты элементов XPS которые могут быть гиперссылками.
+description: Содержит общие черты XPSэлементов которые могут быть гиперссылками.
 type: docs
-weight: 1020
+weight: 3060
 url: /ru/net/aspose.page.xps.xpsmodel/xpshyperlinkelement/
 ---
 ## XpsHyperlinkElement class
 
-Содержит общие черты элементов XPS, которые могут быть гиперссылками.
+Содержит общие черты XPS-элементов, которые могут быть гиперссылками.
 
 ```csharp
 public abstract class XpsHyperlinkElement : XpsElement
@@ -19,14 +19,14 @@ public abstract class XpsHyperlinkElement : XpsElement
 | Имя | Описание |
 | --- | --- |
 | [Count](../../aspose.page.xps.xpsmodel/xpselement/count) { get; } | Возвращает количество дочерних элементов. |
-| [HyperlinkTarget](../../aspose.page.xps.xpsmodel/xpshyperlinkelement/hyperlinktarget) { get; set; } | Возвращает/устанавливает целевой объект гиперссылки. |
-| [Item](../../aspose.page.xps.xpsmodel/xpselement/item) { get; } | Предоставляет доступ к дочерним элементам по индексу*i*. |
+| [HyperlinkTarget](../../aspose.page.xps.xpsmodel/xpshyperlinkelement/hyperlinktarget) { get; set; } | Возвращает/задает целевой объект гиперссылки. |
+| [Item](../../aspose.page.xps.xpsmodel/xpselement/item) { get; } | Предоставляет доступ к дочерним элементам по индексу*i* . |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| [GetEnumerator](../../aspose.page.xps.xpsmodel/xpselement/getenumerator)() | Реализация интерфейсаIEnumerable. |
+| [GetEnumerator](../../aspose.page.xps.xpsmodel/xpselement/getenumerator)() | РеализацияIEnumerable интерфейс. |
 
 ### Смотрите также
 

@@ -19,7 +19,7 @@ public virtual void DrawLine(double x1, double y1, double x2, double y2)
 | x1 | Double | 段开始的 X 坐标。 |
 | y1 | Double | 段开始的 Y 坐标。 |
 | x2 | Double | 段末端的 X 坐标。 |
-| y2 | Double | 段末端的 Y 坐标。 |
+| y2 | Double | 段结束的 Y 坐标。 |
 
 ### 也可以看看
 

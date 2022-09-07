@@ -3,7 +3,7 @@ title: ToString
 second_title: Справочник по Aspose.Page для .NET API
 description: Возвращает имя типа устройства.
 type: docs
-weight: 280
+weight: 270
 url: /ru/net/aspose.page.eps.device/pdfdevice/tostring/
 ---
 ## PdfDevice.ToString method

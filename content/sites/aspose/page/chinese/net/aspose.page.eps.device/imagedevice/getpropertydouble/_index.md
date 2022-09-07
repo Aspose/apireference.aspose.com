@@ -1,14 +1,14 @@
 ---
 title: GetPropertyDouble
 second_title: Aspose.Page for .NET API 参考
-description: 获取 double 属性的值
+description: 获取双属性值
 type: docs
-weight: 280
+weight: 270
 url: /zh/net/aspose.page.eps.device/imagedevice/getpropertydouble/
 ---
 ## ImageDevice.GetPropertyDouble method
 
-获取 double 属性的值。
+获取双属性值。
 
 ```csharp
 public double GetPropertyDouble(string key)
@@ -16,11 +16,11 @@ public double GetPropertyDouble(string key)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| key | String | 属性名称。 |
+| key | String | 财产的名称。 |
 
 ### 返回值
 
-属性值。
+财产价值。
 
 ### 也可以看看
 

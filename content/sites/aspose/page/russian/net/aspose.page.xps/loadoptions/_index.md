@@ -1,14 +1,14 @@
 ---
 title: LoadOptions
 second_title: Справочник по Aspose.Page для .NET API
-description: Базовый класс для параметров загрузки документа.
+description: Базовый класс для параметров загрузки документов.
 type: docs
-weight: 250
+weight: 270
 url: /ru/net/aspose.page.xps/loadoptions/
 ---
 ## LoadOptions class
 
-Базовый класс для параметров загрузки документа.
+Базовый класс для параметров загрузки документов.
 
 ```csharp
 public abstract class LoadOptions

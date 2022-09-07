@@ -28,7 +28,7 @@ public void AddDocument(bool activate = true)
 
 ## AddDocument(float, float, bool) {#adddocument_1}
 
-Добавляет пустой документ с размерами первой страницы *ширина*и*высота*.
+Добавляет пустой документ с размерами первой страницы *width* а также*height* .
 
 ```csharp
 public void AddDocument(float width, float height, bool activate = true)

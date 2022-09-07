@@ -1,7 +1,7 @@
 ---
 title: Font
 second_title: Aspose.Page for .NET API Reference
-description: 
+description: Specifies current font.
 type: docs
 weight: 30
 url: /net/aspose.page.eps.device/pdfdevice/font/

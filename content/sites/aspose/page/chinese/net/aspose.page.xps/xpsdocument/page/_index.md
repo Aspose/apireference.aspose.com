@@ -1,14 +1,14 @@
 ---
 title: Page
 second_title: Aspose.Page for .NET API 参考
-description: 返回活动页面的XpsPageaspose.page.xps.xpsmodel/xpspage实例
+description: 返回一个XpsPageaspose.page.xps.xpsmodel/xpspage活动页面的实例
 type: docs
 weight: 60
 url: /zh/net/aspose.page.xps/xpsdocument/page/
 ---
 ## XpsDocument.Page property
 
-返回活动页面的[`XpsPage`](../../../aspose.page.xps.xpsmodel/xpspage)实例。
+返回一个[`XpsPage`](../../../aspose.page.xps.xpsmodel/xpspage)活动页面的实例。
 
 ```csharp
 public XpsPage Page { get; }
