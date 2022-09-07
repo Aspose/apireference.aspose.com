@@ -1,7 +1,7 @@
 ---
 title: PageOutputColor.IPageOutputColorOptionItem
 second_title: Aspose.Page for Java API Reference
-description: The interface of any PageOutputColorOption item.
+description: The interface of any PageOutputColorOption item.
 type: docs
 weight: 12
 url: /java/com.aspose.xps.metadata/pageoutputcolor.ipageoutputcoloroptionitem/

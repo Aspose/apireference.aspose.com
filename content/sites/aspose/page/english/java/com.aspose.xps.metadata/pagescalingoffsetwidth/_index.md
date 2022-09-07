@@ -1,7 +1,7 @@
 ---
 title: PageScalingOffsetWidth
 second_title: Aspose.Page for Java API Reference
-description: Specifies the scaling offset in the ImageableSizeWidth direction for custom scaling.
+description: Specifies the scaling offset in the ImageableSizeWidth direction for custom scaling.
 type: docs
 weight: 123
 url: /java/com.aspose.xps.metadata/pagescalingoffsetwidth/

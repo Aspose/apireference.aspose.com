@@ -1,7 +1,7 @@
 ---
 title: PageMediaType
 second_title: Aspose.Page for Java API Reference
-description: Describes the MediaType options and the characteristics of each option.
+description: Describes the MediaType options and the characteristics of each option.
 type: docs
 weight: 110
 url: /java/com.aspose.xps.metadata/pagemediatype/

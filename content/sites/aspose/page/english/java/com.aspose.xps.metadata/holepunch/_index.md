@@ -1,7 +1,7 @@
 ---
 title: HolePunch
 second_title: Aspose.Page for Java API Reference
-description: The base class for JobHolePunch and DocumentHolePunch features classes.
+description: The base class for JobHolePunch and DocumentHolePunch features classes.
 type: docs
 weight: 39
 url: /java/com.aspose.xps.metadata/holepunch/

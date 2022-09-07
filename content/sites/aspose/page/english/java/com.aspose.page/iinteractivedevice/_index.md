@@ -5,7 +5,8 @@ description: The interface defining interactive features processing methods.
 type: docs
 weight: 20
 url: /java/com.aspose.page/iinteractivedevice/
----```
+---
+```
 public interface IInteractiveDevice
 ```
 

@@ -1,7 +1,7 @@
 ---
 title: ScoredProperty
 second_title: Aspose.Page for Java API Reference
-description: The class that implements a common PrintTicket ScoredProperty.
+description: The class that implements a common PrintTicket ScoredProperty.
 type: docs
 weight: 146
 url: /java/com.aspose.xps.metadata/scoredproperty/

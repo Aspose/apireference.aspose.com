@@ -1,7 +1,7 @@
 ---
 title: PageWatermark.LayeringOption
 second_title: Aspose.Page for Java API Reference
-description: Describes the Layering feature options.
+description: Describes the Layering feature options.
 type: docs
 weight: 11
 url: /java/com.aspose.xps.metadata/pagewatermark.layeringoption/

@@ -1,7 +1,7 @@
 ---
 title: Collate
 second_title: Aspose.Page for Java API Reference
-description: The base class for DocumentCollate and JobCollateAllDocuments features classes.
+description: The base class for DocumentCollate and JobCollateAllDocuments features classes.
 type: docs
 weight: 10
 url: /java/com.aspose.xps.metadata/collate/

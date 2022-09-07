@@ -1,7 +1,7 @@
 ---
 title: JobDigitalSignatureProcessing.JobDigitalSignatureProcessingOption
 second_title: Aspose.Page for Java API Reference
-description: Describes the JobDigitalSignatureProcessing feature options.
+description: Describes the JobDigitalSignatureProcessing feature options.
 type: docs
 weight: 10
 url: /java/com.aspose.xps.metadata/jobdigitalsignatureprocessing.jobdigitalsignatureprocessingoption/

@@ -1,7 +1,7 @@
 ---
 title: Option
 second_title: Aspose.Page for Java API Reference
-description: The class that implements a common PrintTicket Option.
+description: The class that implements a common PrintTicket Option.
 type: docs
 weight: 76
 url: /java/com.aspose.xps.metadata/option/

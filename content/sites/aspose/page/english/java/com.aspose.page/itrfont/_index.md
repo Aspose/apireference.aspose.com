@@ -5,7 +5,8 @@ description: This interface give access to main parameters of font.
 type: docs
 weight: 25
 url: /java/com.aspose.page/itrfont/
----```
+---
+```
 public interface ITrFont
 ```
 

@@ -1,7 +1,7 @@
 ---
 title: PageMediaType.PrePrinted
 second_title: Aspose.Page for Java API Reference
-description: Defines constants for the PrePrinted scored property value.
+description: Defines constants for the PrePrinted scored property value.
 type: docs
 weight: 14
 url: /java/com.aspose.xps.metadata/pagemediatype.preprinted/

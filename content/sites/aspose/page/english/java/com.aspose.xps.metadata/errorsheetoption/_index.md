@@ -1,7 +1,7 @@
 ---
 title: JobErrorSheet.ErrorSheetOption
 second_title: Aspose.Page for Java API Reference
-description: Describes the JobErrorSheet feature options.
+description: Describes the JobErrorSheet feature options.
 type: docs
 weight: 10
 url: /java/com.aspose.xps.metadata/joberrorsheet.errorsheetoption/

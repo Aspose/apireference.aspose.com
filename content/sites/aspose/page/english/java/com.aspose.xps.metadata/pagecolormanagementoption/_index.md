@@ -1,7 +1,7 @@
 ---
 title: PageColorManagement.PageColorManagementOption
 second_title: Aspose.Page for Java API Reference
-description: Describes the PageColorManagement feature options.
+description: Describes the PageColorManagement feature options.
 type: docs
 weight: 10
 url: /java/com.aspose.xps.metadata/pagecolormanagement.pagecolormanagementoption/

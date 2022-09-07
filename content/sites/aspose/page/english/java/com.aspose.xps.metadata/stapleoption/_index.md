@@ -1,7 +1,7 @@
 ---
 title: Staple.StapleOption
 second_title: Aspose.Page for Java API Reference
-description: Describes the JobStapleAllDocuments and DocumentStaple features options.
+description: Describes the JobStapleAllDocuments DocumentStaple features options.
 type: docs
 weight: 10
 url: /java/com.aspose.xps.metadata/staple.stapleoption/

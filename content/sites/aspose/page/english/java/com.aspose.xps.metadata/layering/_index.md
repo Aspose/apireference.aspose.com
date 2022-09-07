@@ -1,7 +1,7 @@
 ---
 title: PageWatermark.Layering
 second_title: Aspose.Page for Java API Reference
-description: Describes inner Layering feature.
+description: Describes inner Layering feature.
 type: docs
 weight: 10
 url: /java/com.aspose.xps.metadata/pagewatermark.layering/

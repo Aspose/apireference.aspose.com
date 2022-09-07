@@ -1,7 +1,7 @@
 ---
 title: PageOutputQuality.PageOutputQualityOption
 second_title: Aspose.Page for Java API Reference
-description: Defines PageOutputQuality feature options.
+description: Defines PageOutputQuality feature options.
 type: docs
 weight: 10
 url: /java/com.aspose.xps.metadata/pageoutputquality.pageoutputqualityoption/

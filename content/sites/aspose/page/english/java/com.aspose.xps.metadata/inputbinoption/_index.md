@@ -1,7 +1,7 @@
 ---
 title: InputBin.InputBinOption
 second_title: Aspose.Page for Java API Reference
-description: Describes the JobInputBin DocumentInputBin and PageInputBin features options.
+description: Describes the JobInputBin DocumentInputBin and PageInputBin features options.
 type: docs
 weight: 14
 url: /java/com.aspose.xps.metadata/inputbin.inputbinoption/

@@ -1,7 +1,7 @@
 ---
 title: PagePhotoPrintingIntent.PagePhotoPrintingIntentOption
 second_title: Aspose.Page for Java API Reference
-description: Defines PagePhotoPrintingIntent feature options.
+description: Defines PagePhotoPrintingIntent feature options.
 type: docs
 weight: 10
 url: /java/com.aspose.xps.metadata/pagephotoprintingintent.pagephotoprintingintentoption/

@@ -1,7 +1,7 @@
 ---
 title: PageWatermark.PageWatermarkOption
 second_title: Aspose.Page for Java API Reference
-description: Describes the PageWatermark features options.
+description: Describes the PageWatermark features options.
 type: docs
 weight: 12
 url: /java/com.aspose.xps.metadata/pagewatermark.pagewatermarkoption/

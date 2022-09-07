@@ -1,7 +1,7 @@
 ---
 title: PageMediaSize.IPageMediaSizeOptionItem
 second_title: Aspose.Page for Java API Reference
-description: The interface of any PageMediaSizeOption item.
+description: The interface of any PageMediaSizeOption item.
 type: docs
 weight: 12
 url: /java/com.aspose.xps.metadata/pagemediasize.ipagemediasizeoptionitem/

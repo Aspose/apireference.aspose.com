@@ -1,7 +1,7 @@
 ---
 title: PageDeviceColorSpaceUsage.PageDeviceColorSpaceUsageOption
 second_title: Aspose.Page for Java API Reference
-description: Describes the PageDeviceColorSpaceUsage feature options.
+description: Describes the PageDeviceColorSpaceUsage feature options.
 type: docs
 weight: 10
 url: /java/com.aspose.xps.metadata/pagedevicecolorspaceusage.pagedevicecolorspaceusageoption/

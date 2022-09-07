@@ -1,7 +1,7 @@
 ---
 title: JobErrorSheet.ErrorSheetWhen
 second_title: Aspose.Page for Java API Reference
-description: Describes inner ErrorSheetWhen feature.
+description: Describes inner ErrorSheetWhen feature.
 type: docs
 weight: 11
 url: /java/com.aspose.xps.metadata/joberrorsheet.errorsheetwhen/

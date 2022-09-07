@@ -1,7 +1,7 @@
 ---
 title: JobPrimaryBannerSheet.BannerSheetOption
 second_title: Aspose.Page for Java API Reference
-description: Represents options of the JobPrimaryBannerSheet feature.
+description: Represents options of the JobPrimaryBannerSheet feature.
 type: docs
 weight: 10
 url: /java/com.aspose.xps.metadata/jobprimarybannersheet.bannersheetoption/

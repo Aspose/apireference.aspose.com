@@ -1,7 +1,7 @@
 ---
 title: Collate.CollateOption
 second_title: Aspose.Page for Java API Reference
-description: Describes the DocumentCollate and JobCollateAllDocuments features options.
+description: Describes the DocumentCollate and JobCollateAllDocuments features options.
 type: docs
 weight: 10
 url: /java/com.aspose.xps.metadata/collate.collateoption/
