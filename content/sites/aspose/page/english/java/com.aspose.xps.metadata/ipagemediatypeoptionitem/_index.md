@@ -1,7 +1,7 @@
 ---
 title: PageMediaType.IPageMediaTypeOptionItem
 second_title: Aspose.Page for Java API Reference
-description: The interface of any PageMediaType item.
+description: The interface of any PageMediaType item.
 type: docs
 weight: 18
 url: /java/com.aspose.xps.metadata/pagemediatype.ipagemediatypeoptionitem/

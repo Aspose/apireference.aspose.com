@@ -1,7 +1,7 @@
 ---
 title: NUp.PresentationDirection
 second_title: Aspose.Page for Java API Reference
-description: Describes inner PresentationDirection feature.
+description: Describes inner PresentationDirection feature.
 type: docs
 weight: 10
 url: /java/com.aspose.xps.metadata/nup.presentationdirection/

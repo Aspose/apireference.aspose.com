@@ -1,7 +1,7 @@
 ---
 title: Duplex.DuplexOption
 second_title: Aspose.Page for Java API Reference
-description: Describes the JobDuplexAllDocumentsContiguously and DocumentDuplex features options.
+description: Describes the JobDuplexAllDocumentsContiguously and DocumentDuplex features options.
 type: docs
 weight: 11
 url: /java/com.aspose.xps.metadata/duplex.duplexoption/

@@ -5,7 +5,8 @@ description: This interface give access to main parameters of glyph.
 type: docs
 weight: 19
 url: /java/com.aspose.page/iglyph/
----```
+---
+```
 public interface IGlyph
 ```
 

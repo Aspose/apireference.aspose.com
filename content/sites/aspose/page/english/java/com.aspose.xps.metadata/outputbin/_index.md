@@ -1,7 +1,7 @@
 ---
 title: OutputBin
 second_title: Aspose.Page for Java API Reference
-description: The base class for JobOutputBin DocumentOutputBin and PageOutputBin features classes.
+description: The base class for JobOutputBin DocumentOutputBin and PageOutputBin features classes.
 type: docs
 weight: 77
 url: /java/com.aspose.xps.metadata/outputbin/

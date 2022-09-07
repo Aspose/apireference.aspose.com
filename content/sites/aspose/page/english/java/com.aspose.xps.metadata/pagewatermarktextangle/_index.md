@@ -1,7 +1,7 @@
 ---
 title: PageWatermarkTextAngle
 second_title: Aspose.Page for Java API Reference
-description: Specifies the angle of the watermark text relative to the PageImageableSizeWidth direction.
+description: Specifies the angle of the watermark text relative to the PageImageableSizeWidth direction.
 type: docs
 weight: 134
 url: /java/com.aspose.xps.metadata/pagewatermarktextangle/

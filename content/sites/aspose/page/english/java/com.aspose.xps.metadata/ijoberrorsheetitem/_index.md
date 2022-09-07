@@ -1,7 +1,7 @@
 ---
 title: JobErrorSheet.IJobErrorSheetItem
 second_title: Aspose.Page for Java API Reference
-description: The interface of any JobErrorSheet feature item.
+description: The interface of any JobErrorSheet feature item.
 type: docs
 weight: 12
 url: /java/com.aspose.xps.metadata/joberrorsheet.ijoberrorsheetitem/

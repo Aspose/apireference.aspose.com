@@ -1,7 +1,7 @@
 ---
 title: Value
 second_title: Aspose.Page for Java API Reference
-description: The base class that incapsulates a Property or a ScoredProperty value in a PrintTicket document.
+description: The base class that incapsulates a Property or a ScoredProperty value in a PrintTicket document.
 type: docs
 weight: 152
 url: /java/com.aspose.xps.metadata/value/

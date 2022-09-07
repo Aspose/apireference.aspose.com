@@ -1,7 +1,7 @@
 ---
 title: PageMediaSize.PageMediaSizeOption
 second_title: Aspose.Page for Java API Reference
-description: Describes the PageMediaSize feature options.
+description: Describes the PageMediaSize feature options.
 type: docs
 weight: 10
 url: /java/com.aspose.xps.metadata/pagemediasize.pagemediasizeoption/

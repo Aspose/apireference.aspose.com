@@ -1,7 +1,7 @@
 ---
 title: JobErrorSheet.ErrorSheetWhen.ErrorSheetWhenOption
 second_title: Aspose.Page for Java API Reference
-description: Describes the ErrorSheetWhen feature options.
+description: Describes the ErrorSheetWhen feature options.
 type: docs
 weight: 10
 url: /java/com.aspose.xps.metadata/joberrorsheet.errorsheetwhen.errorsheetwhenoption/

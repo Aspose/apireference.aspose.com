@@ -1,7 +1,7 @@
 ---
 title: PageSourceColorProfile.PageSourceColorProfileOption
 second_title: Aspose.Page for Java API Reference
-description: Describes the PageSourceColorProfile feature options.
+description: Describes the PageSourceColorProfile feature options.
 type: docs
 weight: 10
 url: /java/com.aspose.xps.metadata/pagesourcecolorprofile.pagesourcecolorprofileoption/

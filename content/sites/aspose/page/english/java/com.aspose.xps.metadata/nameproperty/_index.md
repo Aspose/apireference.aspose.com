@@ -1,7 +1,7 @@
 ---
 title: NameProperty
 second_title: Aspose.Page for Java API Reference
-description: The base class for JobName and DocumentName properties classes.
+description: The base class for JobName and DocumentName properties classes.
 type: docs
 weight: 75
 url: /java/com.aspose.xps.metadata/nameproperty/

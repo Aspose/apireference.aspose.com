@@ -1,7 +1,7 @@
 ---
 title: JobBindAllDocuments.IBindingOptionItem
 second_title: Aspose.Page for Java API Reference
-description: The interface of any BindingOption item.
+description: The interface of any BindingOption item.
 type: docs
 weight: 12
 url: /java/com.aspose.xps.metadata/jobbindalldocuments.ibindingoptionitem/

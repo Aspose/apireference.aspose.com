@@ -1,7 +1,7 @@
 ---
 title: PageScaling.ScaleOffsetAlignmentOption
 second_title: Aspose.Page for Java API Reference
-description: Describes the ScaleOffsetAlignment features options.
+description: Describes the ScaleOffsetAlignment features options.
 type: docs
 weight: 12
 url: /java/com.aspose.xps.metadata/pagescaling.scaleoffsetalignmentoption/

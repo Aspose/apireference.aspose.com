@@ -1,7 +1,7 @@
 ---
 title: PageBlendColorSpace.PageBlendColorSpaceOption
 second_title: Aspose.Page for Java API Reference
-description: Describes the PageBlendColorSpace feature options.
+description: Describes the PageBlendColorSpace feature options.
 type: docs
 weight: 10
 url: /java/com.aspose.xps.metadata/pageblendcolorspace.pageblendcolorspaceoption/

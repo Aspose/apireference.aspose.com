@@ -1,7 +1,7 @@
 ---
 title: JobOutputOptimization.JobOutputOptimizationOption
 second_title: Aspose.Page for Java API Reference
-description: Describes the JobOutputOptimization feature options.
+description: Describes the JobOutputOptimization feature options.
 type: docs
 weight: 10
 url: /java/com.aspose.xps.metadata/joboutputoptimization.joboutputoptimizationoption/

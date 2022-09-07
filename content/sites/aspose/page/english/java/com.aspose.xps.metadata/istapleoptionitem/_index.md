@@ -1,7 +1,7 @@
 ---
 title: Staple.IStapleOptionItem
 second_title: Aspose.Page for Java API Reference
-description: The interface of any StapleOption item.
+description: The interface of any StapleOption item.
 type: docs
 weight: 11
 url: /java/com.aspose.xps.metadata/staple.istapleoptionitem/

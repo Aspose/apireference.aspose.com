@@ -1,7 +1,7 @@
 ---
 title: DocumentSeparatorSheet.DocumentSeparatorSheetOption
 second_title: Aspose.Page for Java API Reference
-description: Describes the DocumentSeparatorSheet feature options.
+description: Describes the DocumentSeparatorSheet feature options.
 type: docs
 weight: 10
 url: /java/com.aspose.xps.metadata/documentseparatorsheet.documentseparatorsheetoption/

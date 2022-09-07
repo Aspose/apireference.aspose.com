@@ -1,7 +1,7 @@
 ---
 title: RollCut.RollCutOption
 second_title: Aspose.Page for Java API Reference
-description: Describes the JobRollCutAtEndOfJob and DocumentRollCut features options.
+description: Describes the JobRollCutAtEndOfJob and DocumentRollCut features options.
 type: docs
 weight: 10
 url: /java/com.aspose.xps.metadata/rollcut.rollcutoption/

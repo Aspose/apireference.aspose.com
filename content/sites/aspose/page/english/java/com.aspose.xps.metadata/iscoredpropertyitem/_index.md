@@ -1,7 +1,7 @@
 ---
 title: IScoredPropertyItem
 second_title: Aspose.Page for Java API Reference
-description: The base interface for classes that may be PrintTicket ScoredProperty items.
+description: The base interface for classes that may be PrintTicket ScoredProperty items.
 type: docs
 weight: 161
 url: /java/com.aspose.xps.metadata/iscoredpropertyitem/

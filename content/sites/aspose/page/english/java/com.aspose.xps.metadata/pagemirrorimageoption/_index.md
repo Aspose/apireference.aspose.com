@@ -1,7 +1,7 @@
 ---
 title: PageMirrorImage.PageMirrorImageOption
 second_title: Aspose.Page for Java API Reference
-description: Defines PageMirrorImage feature options.
+description: Defines PageMirrorImage feature options.
 type: docs
 weight: 10
 url: /java/com.aspose.xps.metadata/pagemirrorimage.pagemirrorimageoption/

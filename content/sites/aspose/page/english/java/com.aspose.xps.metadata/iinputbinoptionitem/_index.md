@@ -1,7 +1,7 @@
 ---
 title: InputBin.IInputBinOptionItem
 second_title: Aspose.Page for Java API Reference
-description: The interface of any InputBinOption item.
+description: The interface of any InputBinOption item.
 type: docs
 weight: 19
 url: /java/com.aspose.xps.metadata/inputbin.iinputbinoptionitem/

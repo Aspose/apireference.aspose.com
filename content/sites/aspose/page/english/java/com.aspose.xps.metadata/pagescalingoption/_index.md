@@ -1,7 +1,7 @@
 ---
 title: PageScaling.PageScalingOption
 second_title: Aspose.Page for Java API Reference
-description: Describes the PageScaling features options.
+description: Describes the PageScaling features options.
 type: docs
 weight: 10
 url: /java/com.aspose.xps.metadata/pagescaling.pagescalingoption/

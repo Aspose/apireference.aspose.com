@@ -1,7 +1,7 @@
 ---
 title: PageWatermark.IPageWatermarkItem
 second_title: Aspose.Page for Java API Reference
-description: The interface of any PageWatermark feature item.
+description: The interface of any PageWatermark feature item.
 type: docs
 weight: 13
 url: /java/com.aspose.xps.metadata/pagewatermark.ipagewatermarkitem/

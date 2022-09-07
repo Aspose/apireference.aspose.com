@@ -1,7 +1,7 @@
 ---
 title: PageResolution.PageResolutionOption
 second_title: Aspose.Page for Java API Reference
-description: Describes the PageResolution features options.
+description: Describes the PageResolution features options.
 type: docs
 weight: 10
 url: /java/com.aspose.xps.metadata/pageresolution.pageresolutionoption/

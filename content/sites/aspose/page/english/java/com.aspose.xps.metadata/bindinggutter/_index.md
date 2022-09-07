@@ -1,7 +1,7 @@
 ---
 title: JobBindAllDocuments.BindingGutter
 second_title: Aspose.Page for Java API Reference
-description: Describes the way to specify the BindingGutter scored property value whether by an integer value or by the reference to the DocumentBindingGutter parameter.
+description: Describes the way to specify the BindingGutter scored property value whether by an integer value or by the reference to the DocumentBindingGutter parameter.
 type: docs
 weight: 10
 url: /java/com.aspose.xps.metadata/jobbindalldocuments.bindinggutter/

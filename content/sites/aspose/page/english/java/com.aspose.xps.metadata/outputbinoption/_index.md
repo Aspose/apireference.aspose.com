@@ -1,7 +1,7 @@
 ---
 title: OutputBin.OutputBinOption
 second_title: Aspose.Page for Java API Reference
-description: Describes the JobOutputBin DocumentOutputBin and PageOutputBin features options.
+description: Describes the JobOutputBin DocumentOutputBin and PageOutputBin features options.
 type: docs
 weight: 11
 url: /java/com.aspose.xps.metadata/outputbin.outputbinoption/

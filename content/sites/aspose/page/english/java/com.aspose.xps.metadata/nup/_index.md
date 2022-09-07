@@ -1,7 +1,7 @@
 ---
 title: NUp
 second_title: Aspose.Page for Java API Reference
-description: The base class for JobNUpAllDocumentsContiguously and DocumentNUp features classes.
+description: The base class for JobNUpAllDocumentsContiguously and DocumentNUp features classes.
 type: docs
 weight: 74
 url: /java/com.aspose.xps.metadata/nup/

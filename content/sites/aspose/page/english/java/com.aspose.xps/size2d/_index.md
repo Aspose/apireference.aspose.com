@@ -1,7 +1,7 @@
 ---
 title: Size2D
 second_title: Aspose.Page for Java API Reference
-description: The codeSize2D/code class describes dimensions w x h.
+description: The codeSize2D/code class describes dimensions w x h.
 type: docs
 weight: 11
 url: /java/com.aspose.xps/size2d/

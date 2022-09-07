@@ -1,7 +1,7 @@
 ---
 title: RollCut
 second_title: Aspose.Page for Java API Reference
-description: The base class for JobRollCutAtEndOfJob and DocumentRollCut features classes.
+description: The base class for JobRollCutAtEndOfJob and DocumentRollCut features classes.
 type: docs
 weight: 145
 url: /java/com.aspose.xps.metadata/rollcut/

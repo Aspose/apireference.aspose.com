@@ -1,7 +1,7 @@
 ---
 title: PageScalingScaleHeight
 second_title: Aspose.Page for Java API Reference
-description: Specifies the scaling factor in the ImageableSizeHeight direction for custom scaling.
+description: Specifies the scaling factor in the ImageableSizeHeight direction for custom scaling.
 type: docs
 weight: 125
 url: /java/com.aspose.xps.metadata/pagescalingscaleheight/

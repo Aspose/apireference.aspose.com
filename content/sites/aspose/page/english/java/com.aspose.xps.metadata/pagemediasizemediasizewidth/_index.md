@@ -1,7 +1,7 @@
 ---
 title: PageMediaSizeMediaSizeWidth
 second_title: Aspose.Page for Java API Reference
-description: Specifies the dimension MediaSizeHeight direction for the Custom MediaSize option.
+description: Specifies the dimension MediaSizeHeight direction for the Custom MediaSize option.
 type: docs
 weight: 104
 url: /java/com.aspose.xps.metadata/pagemediasizemediasizewidth/
