@@ -3,7 +3,7 @@ title: AutoSkew
 second_title: Справочник по Aspose.OCR для .NET API
 description: Получает или задает флаг указывающий следует ли включить автоматическую коррекцию перекоса изображения. Включено true по умолчанию.
 type: docs
-weight: 40
+weight: 50
 url: /ru/net/aspose.ocr/recognitionsettings/autoskew/
 ---
 ## RecognitionSettings.AutoSkew property

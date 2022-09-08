@@ -3,7 +3,7 @@ title: StartPage
 second_title: Справочник по Aspose.OCR для .NET API
 description: Установить первую страницу для распознавания.
 type: docs
-weight: 110
+weight: 120
 url: /ru/net/aspose.ocr/documentrecognitionsettings/startpage/
 ---
 ## DocumentRecognitionSettings.StartPage property
@@ -16,7 +16,7 @@ public int StartPage { get; set; }
 
 ### Стоимость имущества
 
-По умолчанию:` 0` .
+По умолчанию`0` .
 
 ### Смотрите также
 

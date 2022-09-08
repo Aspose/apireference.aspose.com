@@ -1,14 +1,14 @@
 ---
 title: PagesNumber
 second_title: Справочник по Aspose.OCR для .NET API
-description: Установить количество страниц для распознавания многостраничного pdf файла.
+description: Установить количество страниц для распознавания многостраничного файла pdf.
 type: docs
-weight: 100
+weight: 110
 url: /ru/net/aspose.ocr/documentrecognitionsettings/pagesnumber/
 ---
 ## DocumentRecognitionSettings.PagesNumber property
 
-Установить количество страниц для распознавания многостраничного pdf файла.
+Установить количество страниц для распознавания многостраничного файла pdf.
 
 ```csharp
 public int PagesNumber { get; set; }
@@ -16,7 +16,7 @@ public int PagesNumber { get; set; }
 
 ### Стоимость имущества
 
-По умолчанию:` 1` .
+По умолчанию`1` .
 
 ### Смотрите также
 

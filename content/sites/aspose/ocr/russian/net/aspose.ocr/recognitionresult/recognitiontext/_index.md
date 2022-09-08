@@ -1,14 +1,14 @@
 ---
 title: RecognitionText
 second_title: Справочник по Aspose.OCR для .NET API
-description: Получает результат распознавания одной строкой.
+description: Получить результат распознавания одной строкой.
 type: docs
 weight: 50
 url: /ru/net/aspose.ocr/recognitionresult/recognitiontext/
 ---
 ## RecognitionResult.RecognitionText property
 
-Получает результат распознавания одной строкой.
+Получить результат распознавания одной строкой.
 
 ```csharp
 public string RecognitionText { get; }

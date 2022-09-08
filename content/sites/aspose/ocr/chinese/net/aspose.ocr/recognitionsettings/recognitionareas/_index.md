@@ -1,14 +1,14 @@
 ---
 title: RecognitionAreas
 second_title: Aspose.OCR for .NET API 参考
-description: 获取或设置要处理的文本区域列表  允许手动指定带有文本的区域以便更准确地识别 如果设置了自定义区域DetectAreasaspose.ocr/recognitionsettings/detectareas和AutoSkewaspose.ocr/recognitionsettings/autoskew属性将是忽略  禁用 DetectAreas 和 AutoSkew
+description: 获取或设置要处理的文本区域列表  允许手动指定带有文本的区域以便更准确地识别 如果设置了自定义区域DetectAreasaspose.ocr/recognitionsettings/detectareas和AutoSkewaspose.ocr/recognitionsettings/autoskew属性将被忽略  禁用 DetectAreas 和 AutoSkew.
 type: docs
-weight: 110
+weight: 120
 url: /zh/net/aspose.ocr/recognitionsettings/recognitionareas/
 ---
 ## RecognitionSettings.RecognitionAreas property
 
-获取或设置要处理的文本区域列表。  允许手动指定带有文本的区域，以便更准确地识别。 如果设置了自定义区域[`DetectAreas`](../detectareas)和[`AutoSkew`](../autoskew)属性将是忽略。  禁用 DetectAreas 和 AutoSkew。
+获取或设置要处理的文本区域列表。  允许手动指定带有文本的区域以便更准确地识别。 如果设置了自定义区域[`DetectAreas`](../detectareas)和[`AutoSkew`](../autoskew)属性将被忽略。  禁用 DetectAreas 和 AutoSkew.
 
 ```csharp
 public List<Rectangle> RecognitionAreas { set; }

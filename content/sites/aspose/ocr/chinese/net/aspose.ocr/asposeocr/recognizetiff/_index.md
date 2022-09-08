@@ -1,14 +1,14 @@
 ---
 title: RecognizeTiff
 second_title: Aspose.OCR for .NET API 参考
-description: 从多页 TIFF 图像中识别文本  通过指定DocumentRecognitionSettingsaspose.ocr/documentrecognitionsettings的能力识别 TIFF 文件 仅支持 TIFF TIF不支持其他图像类型
+description: 从多页 TIFF 图像中识别文本  识别具有指定能力的 TIFF 文件DocumentRecognitionSettingsaspose.ocr/documentrecognitionsettings. 仅支持 TIFF TIF不支持其他图像类型
 type: docs
 weight: 140
 url: /zh/net/aspose.ocr/asposeocr/recognizetiff/
 ---
 ## AsposeOcr.RecognizeTiff method
 
-从多页 TIFF 图像中识别文本。  通过指定[`DocumentRecognitionSettings`](../../documentrecognitionsettings)的能力识别 TIFF 文件。 仅支持 TIFF (TIF)。不支持其他图像类型。
+从多页 TIFF 图像中识别文本。  识别具有指定能力的 TIFF 文件[`DocumentRecognitionSettings`](../../documentrecognitionsettings). 仅支持 TIFF (TIF)。不支持其他图像类型。
 
 ```csharp
 public List<RecognitionResult> RecognizeTiff(string fullPath, DocumentRecognitionSettings settings)
@@ -21,7 +21,7 @@ public List<RecognitionResult> RecognizeTiff(string fullPath, DocumentRecognitio
 
 ### 返回值
 
-[`RecognitionResult`](../../recognitionresult)具有图像识别结果的对象列表。
+这[`RecognitionResult`](../../recognitionresult)具有图像识别结果的对象列表。
 
 ### 也可以看看
 

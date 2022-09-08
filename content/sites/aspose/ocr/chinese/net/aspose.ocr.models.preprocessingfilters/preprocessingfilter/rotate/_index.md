@@ -3,7 +3,7 @@ title: Rotate
 second_title: Aspose.OCR for .NET API 参考
 description: 旋转原始图像
 type: docs
-weight: 80
+weight: 100
 url: /zh/net/aspose.ocr.models.preprocessingfilters/preprocessingfilter/rotate/
 ---
 ## PreprocessingFilter.Rotate method
@@ -16,11 +16,11 @@ public static PreprocessingFilter Rotate(float angle)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| angle | Single | 旋转角度。 从 -360 到 360 |
+| angle | Single | 旋转角度。从 -360 到 360 |
 
 ### 返回值
 
-RotateFilter 对象。
+旋转过滤器对象。
 
 ### 也可以看看
 

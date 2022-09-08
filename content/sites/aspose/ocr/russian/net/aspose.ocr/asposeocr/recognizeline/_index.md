@@ -16,7 +16,7 @@ public string RecognizeLine(string fullPath)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| fullPath | String | Путь к образу. |
+| fullPath | String | Путь к изображению. |
 
 ### Возвращаемое значение
 

@@ -3,7 +3,7 @@ title: Rotate
 second_title: Справочник по Aspose.OCR для .NET API
 description: Повернуть исходное изображение.
 type: docs
-weight: 80
+weight: 100
 url: /ru/net/aspose.ocr.models.preprocessingfilters/preprocessingfilter/rotate/
 ---
 ## PreprocessingFilter.Rotate method
@@ -16,11 +16,11 @@ public static PreprocessingFilter Rotate(float angle)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| angle | Single | Угол поворота. От -360 до 360 |
+| angle | Single | Угол поворота.От -360 до 360 |
 
 ### Возвращаемое значение
 
-Объект RotateFilter.
+Поверните объект фильтра.
 
 ### Смотрите также
 

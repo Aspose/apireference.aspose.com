@@ -19,9 +19,9 @@ public void Save(string fullFileName, SaveFormat saveFormat, bool applySpellingC
 | --- | --- | --- |
 | fullFileName | String | Имя файла с путем сохранения результата распознавания в выбранном формате. |
 | saveFormat | SaveFormat | Формат документа (Docx, Txt, Pdf). |
-| applySpellingCorrection | Boolean | Установите значение true, чтобы исправить слова с ошибками, если они есть у вас в результате распознавания. |
-| language | SpellCheckLanguage | Словарь для проверки правописания (необязательно). |
-| dictionaryPath | String | Необязательно. Полный путь к пользовательскому словарю в формате .txt. Формат:[слово - пробел - частота (число)]. Пример:23135851162\nто 3400031103\n |
+| applySpellingCorrection | Boolean | Установите значение true, чтобы исправить слова с ошибками, если они есть в вашем результате распознавания. |
+| language | SpellCheckLanguage | Словарь для проверки орфографии (по желанию). |
+| dictionaryPath | String | Необязательно. Полный путь к пользовательскому словарю в формате .txt. Формат: [слово - пробел - частота (число)]. Пример: 23135851162\nто 3400031103\n |
 
 ### Смотрите также
 
@@ -46,9 +46,9 @@ public void Save(MemoryStream stream, SaveFormat saveFormat, bool applySpellingC
 | --- | --- | --- |
 | stream | MemoryStream | MemoryStream для сохранения результата распознавания в выбранном формате. |
 | saveFormat | SaveFormat | Формат документа (Docx, Txt, Pdf). |
-| applySpellingCorrection | Boolean | Установите значение true, чтобы исправить слова с ошибками, если они есть у вас в результате распознавания. |
-| language | SpellCheckLanguage | Словарь для проверки правописания (необязательно). |
-| dictionaryPath | String | Необязательно. Полный путь к пользовательскому словарю в формате .txt. Формат:[слово - пробел - частота (число)]. Пример:23135851162\nто 3400031103\n |
+| applySpellingCorrection | Boolean | Установите значение true, чтобы исправить слова с ошибками, если они есть в вашем результате распознавания. |
+| language | SpellCheckLanguage | Словарь для проверки орфографии (по желанию). |
+| dictionaryPath | String | Необязательно. Полный путь к пользовательскому словарю в формате .txt. Формат: [слово - пробел - частота (число)]. Пример: 23135851162\nто 3400031103\n |
 
 ### Смотрите также
 

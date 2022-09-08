@@ -3,7 +3,7 @@ title: ToGrayscale
 second_title: Aspose.OCR for .NET API 参考
 description: 将图像转换为灰度图像 灰度图像在图像中有 256 级光0 到 255
 type: docs
-weight: 110
+weight: 130
 url: /zh/net/aspose.ocr.models.preprocessingfilters/preprocessingfilter/tograyscale/
 ---
 ## PreprocessingFilter.ToGrayscale method
@@ -16,7 +16,7 @@ public static PreprocessingFilter ToGrayscale()
 
 ### 返回值
 
-GrayscaleFilter 对象。
+灰度过滤器对象。
 
 ### 也可以看看
 

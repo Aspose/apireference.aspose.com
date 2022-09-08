@@ -1,14 +1,14 @@
 ---
 title: SkewAngle
 second_title: Aspose.OCR for .NET API 参考
-description: 获取或设置图像旋转角度  设置此值将禁用AutoSkewaspose.ocr/recognitionsettings/autoskew属性以便自动不应用歪斜校正 默认为零
+description: 获取或设置图像旋转的角度  设置此值将禁用AutoSkewaspose.ocr/recognitionsettings/autoskew属性因此不应用自动倾斜校正 默认为零
 type: docs
-weight: 130
+weight: 140
 url: /zh/net/aspose.ocr/recognitionsettings/skewangle/
 ---
 ## RecognitionSettings.SkewAngle property
 
-获取或设置图像旋转角度。  设置此值将禁用[`AutoSkew`](../autoskew)属性，以便自动不应用歪斜校正。 默认为零。
+获取或设置图像旋转的角度。  设置此值将禁用[`AutoSkew`](../autoskew)属性，因此不应用自动倾斜校正。 默认为零。
 
 ```csharp
 public float SkewAngle { set; }

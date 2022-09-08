@@ -3,7 +3,7 @@ title: Language
 second_title: Справочник по Aspose.OCR для .NET API
 description: Получает или задает язык используемый для OCR.  Определяет алфавит используемый при распознавании. Многоязычный по умолчанию.
 type: docs
-weight: 80
+weight: 90
 url: /ru/net/aspose.ocr/documentrecognitionsettings/language/
 ---
 ## DocumentRecognitionSettings.Language property

@@ -1,14 +1,14 @@
 ---
 title: op_Addition
 second_title: Справочник по Aspose.OCR для .NET API
-description: Завершить полный результат из распознанных фрагментов строк.
+description: Для завершения полного результата из распознанных фрагментов строк.
 type: docs
 weight: 130
 url: /ru/net/aspose.ocr/recognitionresult/op_addition/
 ---
 ## RecognitionResult Addition operator
 
-Завершить полный результат из распознанных фрагментов (строк).
+Для завершения полного результата из распознанных фрагментов (строк).
 
 ```csharp
 public static RecognitionResult operator +(RecognitionResult main, RecognitionResult part)

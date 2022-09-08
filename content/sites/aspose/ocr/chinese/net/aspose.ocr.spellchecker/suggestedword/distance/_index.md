@@ -1,14 +1,14 @@
 ---
 title: Distance
 second_title: Aspose.OCR for .NET API 参考
-description: 搜索和建议之间的距离
+description: 搜索到的和建议之间的距离
 type: docs
 weight: 10
 url: /zh/net/aspose.ocr.spellchecker/suggestedword/distance/
 ---
 ## SuggestedWord.Distance property
 
-搜索和建议之间的距离。
+搜索到的和建议之间的距离。
 
 ```csharp
 public int Distance { get; set; }

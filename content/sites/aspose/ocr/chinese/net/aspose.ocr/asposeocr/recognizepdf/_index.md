@@ -1,14 +1,14 @@
 ---
 title: RecognizePdf
 second_title: Aspose.OCR for .NET API 参考
-description: 从扫描的 pdf 中识别文本提取图像  识别具有指定RecognitionSettingsaspose.ocr/recognitionsettings能力的 pdf 文件 仅支持扫描的 PDF不支持可搜索的 PDF
+description: 从扫描的 pdf 中识别文本提取图像  识别具有指定能力的 pdf 文件RecognitionSettingsaspose.ocr/recognitionsettings. 仅支持扫描的 PDF不支持可搜索的 PDF.
 type: docs
 weight: 130
 url: /zh/net/aspose.ocr/asposeocr/recognizepdf/
 ---
 ## RecognizePdf(MemoryStream, DocumentRecognitionSettings) {#recognizepdf}
 
-从扫描的 pdf 中识别文本（提取图像）。  识别具有指定[`RecognitionSettings`](../../recognitionsettings)能力的 pdf 文件。 仅支持扫描的 PDF。不支持可搜索的 PDF。
+从扫描的 pdf 中识别文本（提取图像）。  识别具有指定能力的 pdf 文件[`RecognitionSettings`](../../recognitionsettings). 仅支持扫描的 PDF。不支持可搜索的 PDF.
 
 ```csharp
 public List<RecognitionResult> RecognizePdf(MemoryStream stream, 
@@ -17,12 +17,12 @@ public List<RecognitionResult> RecognizePdf(MemoryStream stream,
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| stream | MemoryStream | pdf文件的内存流。 |
+| stream | MemoryStream | 带有 pdf 文件的内存流。 |
 | settings | DocumentRecognitionSettings | 识别设置。 |
 
 ### 返回值
 
-[`RecognitionResult`](../../recognitionresult)带有图像识别结果的对象。
+这[`RecognitionResult`](../../recognitionresult)具有图像识别结果的对象。
 
 ### 也可以看看
 
@@ -36,7 +36,7 @@ public List<RecognitionResult> RecognizePdf(MemoryStream stream,
 
 ## RecognizePdf(string, DocumentRecognitionSettings) {#recognizepdf_1}
 
-从扫描的 pdf 中识别文本（提取图像）。  识别具有指定[`RecognitionSettings`](../../recognitionsettings)能力的 pdf 文件。 仅支持扫描的 PDF。不支持可搜索的 PDF。
+从扫描的 pdf 中识别文本（提取图像）。  识别具有指定能力的 pdf 文件[`RecognitionSettings`](../../recognitionsettings). 仅支持扫描的 PDF。不支持可搜索的 PDF.
 
 ```csharp
 public List<RecognitionResult> RecognizePdf(string fullPath, DocumentRecognitionSettings settings)
@@ -49,7 +49,7 @@ public List<RecognitionResult> RecognizePdf(string fullPath, DocumentRecognition
 
 ### 返回值
 
-[`RecognitionResult`](../../recognitionresult)带有图像识别结果的对象。
+这[`RecognitionResult`](../../recognitionresult)具有图像识别结果的对象。
 
 ### 也可以看看
 

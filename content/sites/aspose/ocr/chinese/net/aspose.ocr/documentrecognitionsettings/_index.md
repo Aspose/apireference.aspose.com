@@ -1,14 +1,14 @@
 ---
 title: DocumentRecognitionSettings
 second_title: Aspose.OCR for .NET API 参考
-description: pdf识别设置 包含允许自定义识别过程的元素
+description: pdf 识别的设置 包含允许自定义识别过程的元素
 type: docs
 weight: 50
 url: /zh/net/aspose.ocr/documentrecognitionsettings/
 ---
 ## DocumentRecognitionSettings class
 
-pdf识别设置。 包含允许自定义识别过程的元素。
+pdf 识别的设置。 包含允许自定义识别过程的元素。
 
 ```csharp
 public class DocumentRecognitionSettings
@@ -18,8 +18,8 @@ public class DocumentRecognitionSettings
 
 | 姓名 | 描述 |
 | --- | --- |
-| [DocumentRecognitionSettings](documentrecognitionsettings#constructor)(int, int) | 用一组短属性初始化[`DocumentRecognitionSettings`](../documentrecognitionsettings)类的新实例。 |
-| [DocumentRecognitionSettings](documentrecognitionsettings#constructor_1)(int, int, Language, bool, bool, int) | 使用完整的属性集初始化[`DocumentRecognitionSettings`](../documentrecognitionsettings)类的新实例。 |
+| [DocumentRecognitionSettings](documentrecognitionsettings#constructor)(int, int) | 初始化[`DocumentRecognitionSettings`](../documentrecognitionsettings)具有简短属性集的类。 |
+| [DocumentRecognitionSettings](documentrecognitionsettings#constructor_1)(int, int, Language, bool, bool, int) | 初始化[`DocumentRecognitionSettings`](../documentrecognitionsettings)具有全套属性的类。 |
 
 ## 特性
 
@@ -27,16 +27,17 @@ public class DocumentRecognitionSettings
 | --- | --- |
 | [Allowed](../../aspose.ocr/documentrecognitionsettings/allowed) { get; set; } | 允许的字符集。确定识别结果允许的字符类型。 |
 | [AutoContrast](../../aspose.ocr/documentrecognitionsettings/autocontrast) { get; set; } | 允许在识别之前对图像使用额外的对比度校正算法。 |
-| [AutoSkew](../../aspose.ocr/documentrecognitionsettings/autoskew) { set; } | 获取或设置指示是否应启用自动图像倾斜校正的标志。 默认启用 (true)。 |
-| [DetectAreas](../../aspose.ocr/documentrecognitionsettings/detectareas) { set; } | 获取或设置指示是否应启用自动文本区域检测的标志。  启用文档结构识别模块。这需要更多时间和内存来处理图像 但在复杂情况下提供更准确的结果。 禁用（设置为 false）以获得更快的图像处理或结构简单的图像。 |
-| [DetectAreasMode](../../aspose.ocr/documentrecognitionsettings/detectareasmode) { get; set; } | 允许为文档类型区域选择最佳模式:文档、照片、纯文本、列、图像。 |
+| [AutoDenoising](../../aspose.ocr/documentrecognitionsettings/autodenoising) { get; set; } | 允许使用额外的神经网络来改善图像 - 减少噪音。 对具有扫描伪影、失真、斑点、耀斑、渐变、外来元素的图像很有用。 |
+| [AutoSkew](../../aspose.ocr/documentrecognitionsettings/autoskew) { set; } | 获取或设置一个标志，指示是否应启用自动图像倾斜校正。 默认启用（true）。 |
+| [DetectAreas](../../aspose.ocr/documentrecognitionsettings/detectareas) { set; } | 获取或设置一个标志，指示是否应启用自动文本区域检测。  启用文档结构识别模块。这需要更多时间和内存来处理图像， 但在复杂情况下会提供更准确的结果。 禁用（设置为 false）以加快图像处理速度或在图像结构简单的情况下。 |
+| [DetectAreasMode](../../aspose.ocr/documentrecognitionsettings/detectareasmode) { get; set; } | 允许为文档类型区域选择最佳模式：文档、照片、纯文本、列、图像。 |
 | [IgnoredCharacters](../../aspose.ocr/documentrecognitionsettings/ignoredcharacters) { get; set; } | 设置识别符号的黑名单。 |
 | [Language](../../aspose.ocr/documentrecognitionsettings/language) { set; } | 获取或设置用于 OCR 的语言。  确定识别过程中使用的字母表。 默认为多语言。 |
-| [LinesFiltration](../../aspose.ocr/documentrecognitionsettings/linesfiltration) { get; set; } | 允许识别表格中的文本（围绕行的区域）。 |
+| [LinesFiltration](../../aspose.ocr/documentrecognitionsettings/linesfiltration) { get; set; } | 允许识别表格中的文本（围绕线的区域）。 |
 | [PagesNumber](../../aspose.ocr/documentrecognitionsettings/pagesnumber) { get; set; } | 设置识别多页pdf文件的页数。 |
 | [StartPage](../../aspose.ocr/documentrecognitionsettings/startpage) { get; set; } | 设置识别的第一页。 |
-| [ThreadsCount](../../aspose.ocr/documentrecognitionsettings/threadscount) { set; } | 获取或设置要处理的线程数。  默认情况下，0 表示将使用与处理器数量相等的线程数来处理图像。 ThreadsCount = 1 表示图像将在主线程中处理。 |
-| [ThresholdValue](../../aspose.ocr/documentrecognitionsettings/thresholdvalue) { set; } | 获取或设置图像二值化的自定义阈值。 范围从 1 到 255。 |
+| [ThreadsCount](../../aspose.ocr/documentrecognitionsettings/threadscount) { set; } | 获取或设置要处理的线程数。 默认情况下，0 表示将使用与您的处理器数量相等的线程数处理图像。 ThreadsCount = 1 表示将在主线程中处理图像。 |
+| [ThresholdValue](../../aspose.ocr/documentrecognitionsettings/thresholdvalue) { set; } | 获取或设置图像二值化的自定义阈值。 范围从1到255。 |
 
 ### 也可以看看
 

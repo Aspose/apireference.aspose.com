@@ -3,7 +3,7 @@ title: PreprocessingFilters
 second_title: Aspose.OCR for .NET API 参考
 description: 允许通过调整预处理方法为 OCR 准备图像
 type: docs
-weight: 100
+weight: 110
 url: /zh/net/aspose.ocr/recognitionsettings/preprocessingfilters/
 ---
 ## RecognitionSettings.PreprocessingFilters property

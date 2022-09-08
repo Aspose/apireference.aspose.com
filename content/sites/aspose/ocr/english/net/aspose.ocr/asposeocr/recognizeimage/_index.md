@@ -6,7 +6,7 @@ type: docs
 weight: 80
 url: /net/aspose.ocr/asposeocr/recognizeimage/
 ---
-## RecognizeImage(string) {#recognizeimage_6}
+## RecognizeImage(string) {#recognizeimage_8}
 
 Recognizes text on image.
 
@@ -34,7 +34,7 @@ Uses automatic image skew correction and text areas detection. Supports GIF, PNG
 
 ---
 
-## RecognizeImage(string, RecognitionSettings) {#recognizeimage_1}
+## RecognizeImage(string, RecognitionSettings) {#recognizeimage_3}
 
 Recognizes text on image.
 
@@ -65,7 +65,7 @@ Recognizes image with the ability to specify [`RecognitionSettings`](../../recog
 
 ---
 
-## RecognizeImage(MemoryStream) {#recognizeimage_4}
+## RecognizeImage(MemoryStream) {#recognizeimage_6}
 
 Recognizes text on image.
 
@@ -93,7 +93,7 @@ Uses automatic image skew correction and text areas detection. Support GIF, PNG,
 
 ---
 
-## RecognizeImage(MemoryStream, RecognitionSettings) {#recognizeimage}
+## RecognizeImage(MemoryStream, RecognitionSettings) {#recognizeimage_2}
 
 Recognizes text on image.  Recognizes image with the ability to specify [`RecognitionSettings`](../../recognitionsettings). Supports GIF, PNG, JPEG, BMP, TIFF.
 
@@ -109,6 +109,76 @@ public RecognitionResult RecognizeImage(MemoryStream stream, RecognitionSettings
 ### Return Value
 
 The [`RecognitionResult`](../../recognitionresult) object with image recognition results.
+
+### See Also
+
+* class [RecognitionResult](../../recognitionresult)
+* class [RecognitionSettings](../../recognitionsettings)
+* class [AsposeOcr](../../asposeocr)
+* namespace [Aspose.OCR](../../asposeocr)
+* assembly [Aspose.OCR](../../../)
+
+---
+
+## RecognizeImage(byte[], int, int, PixelType, RecognitionSettings) {#recognizeimage_1}
+
+Recognizes text on image.
+
+```csharp
+public RecognitionResult RecognizeImage(byte[] imageData, int width, int height, 
+    PixelType pixelFormat, RecognitionSettings settings = null)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| imageData | Byte[] | Decoded image in bytes array. Uses RGB lighting technology for bitsPerPixel &gt; 1. |
+| width | Int32 | Image width. |
+| height | Int32 | Image height. |
+| pixelFormat | PixelType | Supports byte, rgb, bgr, rgba. |
+| settings | RecognitionSettings | Recognition settings. |
+
+### Return Value
+
+The [`RecognitionResult`](../../recognitionresult) object with image recognition results.
+
+### Remarks
+
+Recognizes image with the ability to specify [`RecognitionSettings`](../../recognitionsettings). Supports row decoded byte data.
+
+### See Also
+
+* class [RecognitionResult](../../recognitionresult)
+* enum [PixelType](../../pixeltype)
+* class [RecognitionSettings](../../recognitionsettings)
+* class [AsposeOcr](../../asposeocr)
+* namespace [Aspose.OCR](../../asposeocr)
+* assembly [Aspose.OCR](../../../)
+
+---
+
+## RecognizeImage(Color[], int, int, RecognitionSettings) {#recognizeimage}
+
+Recognizes text on image.
+
+```csharp
+public RecognitionResult RecognizeImage(Color[] imageData, int width, int height, 
+    RecognitionSettings settings = null)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| imageData | Color[] | Decoded image in Aspose.Drawing.Color array. |
+| width | Int32 | Image width. |
+| height | Int32 | Image height. |
+| settings | RecognitionSettings | Recognition settings. |
+
+### Return Value
+
+The [`RecognitionResult`](../../recognitionresult) object with image recognition results.
+
+### Remarks
+
+Recognizes image with the ability to specify [`RecognitionSettings`](../../recognitionsettings). Supports row decoded byte data.
 
 ### See Also
 

@@ -3,7 +3,7 @@ title: LinesFiltration
 second_title: Справочник по Aspose.OCR для .NET API
 description: Позволяет распознавать текст в таблицах области окруженные строками.
 type: docs
-weight: 90
+weight: 100
 url: /ru/net/aspose.ocr/documentrecognitionsettings/linesfiltration/
 ---
 ## DocumentRecognitionSettings.LinesFiltration property
@@ -16,7 +16,7 @@ public bool LinesFiltration { get; set; }
 
 ### Стоимость имущества
 
-` false` позволяет увеличить производительность и не обнаруживает таблицы и удалить линии; иначе` true` . Значение по умолчанию:` false` .
+`ЛОЖЬ` позволяет повысить производительность и не определять таблицы и удалять строки; в противном случае`истинный` . По умолчанию`ЛОЖЬ` .
 
 ### Смотрите также
 

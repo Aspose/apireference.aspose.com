@@ -1,14 +1,14 @@
 ---
 title: Median
 second_title: Справочник по Aspose.OCR для .NET API
-description: Медианный фильтр проходит через каждый элемент изображения и заменяет каждый пиксель медианой соседних пикселей.
+description: Медианный фильтр просматривает каждый элемент изображения и заменяет каждый пиксель медианой соседних пикселей.
 type: docs
-weight: 60
+weight: 80
 url: /ru/net/aspose.ocr.models.preprocessingfilters/preprocessingfilter/median/
 ---
 ## PreprocessingFilter.Median method
 
-Медианный фильтр проходит через каждый элемент изображения и заменяет каждый пиксель медианой соседних пикселей.
+Медианный фильтр просматривает каждый элемент изображения и заменяет каждый пиксель медианой соседних пикселей.
 
 ```csharp
 public static PreprocessingFilter Median()
@@ -16,7 +16,7 @@ public static PreprocessingFilter Median()
 
 ### Возвращаемое значение
 
-Объект MedianFilter.
+Объект Медианный фильтр.
 
 ### Смотрите также
 

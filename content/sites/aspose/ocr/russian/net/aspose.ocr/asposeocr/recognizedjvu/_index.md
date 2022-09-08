@@ -1,14 +1,14 @@
 ---
 title: RecognizeDjvu
 second_title: Справочник по Aspose.OCR для .NET API
-description: Распознавание текста из многостраничного изображения DJVU.  Распознает файл DJVU с возможностью указанияDocumentRecognitionSettingsaspose.ocr/documentrecognitionsettings. Поддерживает только DJVU. Не поддерживает другие типы изображений.
+description: Распознавание текста из многостраничного изображения DJVU.  Распознает файл DJVU с возможностью указатьDocumentRecognitionSettingsaspose.ocr/documentrecognitionsettings . Поддерживает только DJVU. Не поддерживает другие типы изображений.
 type: docs
 weight: 70
 url: /ru/net/aspose.ocr/asposeocr/recognizedjvu/
 ---
 ## AsposeOcr.RecognizeDjvu method
 
-Распознавание текста из многостраничного изображения DJVU.  Распознает файл DJVU с возможностью указания[`DocumentRecognitionSettings`](../../documentrecognitionsettings). Поддерживает только DJVU. Не поддерживает другие типы изображений.
+Распознавание текста из многостраничного изображения DJVU.  Распознает файл DJVU с возможностью указать[`DocumentRecognitionSettings`](../../documentrecognitionsettings) . Поддерживает только DJVU. Не поддерживает другие типы изображений.
 
 ```csharp
 public List<RecognitionResult> RecognizeDjvu(string fullPath, DocumentRecognitionSettings settings)
@@ -21,7 +21,7 @@ public List<RecognitionResult> RecognizeDjvu(string fullPath, DocumentRecognitio
 
 ### Возвращаемое значение
 
-Список[`RecognitionResult`](../../recognitionresult)объектов с результатами распознавания изображений.
+[`RecognitionResult`](../../recognitionresult) список объектов с результатами распознавания изображений.
 
 ### Смотрите также
 

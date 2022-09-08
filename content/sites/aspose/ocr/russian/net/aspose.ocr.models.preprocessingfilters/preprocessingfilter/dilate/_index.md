@@ -3,7 +3,7 @@ title: Dilate
 second_title: Справочник по Aspose.OCR для .NET API
 description: Расширение добавляет пиксели к границам объектов на изображении.
 type: docs
-weight: 40
+weight: 60
 url: /ru/net/aspose.ocr.models.preprocessingfilters/preprocessingfilter/dilate/
 ---
 ## PreprocessingFilter.Dilate method

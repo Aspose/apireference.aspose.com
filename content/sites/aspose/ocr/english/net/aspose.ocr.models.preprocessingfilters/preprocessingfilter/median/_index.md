@@ -6,13 +6,37 @@ type: docs
 weight: 80
 url: /net/aspose.ocr.models.preprocessingfilters/preprocessingfilter/median/
 ---
-## PreprocessingFilter.Median method
+## Median() {#median}
 
 The median filter run through each element of the image and replace each pixel with the median of its neighboring pixels.
 
 ```csharp
 public static PreprocessingFilter Median()
 ```
+
+### Return Value
+
+MedianFilter object.
+
+### See Also
+
+* class [PreprocessingFilter](../../preprocessingfilter)
+* namespace [Aspose.OCR.Models.PreprocessingFilters](../../preprocessingfilter)
+* assembly [Aspose.OCR](../../../)
+
+---
+
+## Median(Rectangle) {#median_1}
+
+The median filter run through each element of the image part and replace each pixel with the median of its neighboring pixels.
+
+```csharp
+public static PreprocessingFilter Median(Rectangle area)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| area | Rectangle | Coordinates of the part of the image to be corrected. |
 
 ### Return Value
 

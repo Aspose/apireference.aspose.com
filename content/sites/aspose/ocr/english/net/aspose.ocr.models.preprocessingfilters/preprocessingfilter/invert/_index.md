@@ -6,13 +6,37 @@ type: docs
 weight: 70
 url: /net/aspose.ocr.models.preprocessingfilters/preprocessingfilter/invert/
 ---
-## PreprocessingFilter.Invert method
+## Invert() {#invert}
 
 Automatically inverts colors in a document image.
 
 ```csharp
 public static PreprocessingFilter Invert()
 ```
+
+### Return Value
+
+InvertFilter object.
+
+### See Also
+
+* class [PreprocessingFilter](../../preprocessingfilter)
+* namespace [Aspose.OCR.Models.PreprocessingFilters](../../preprocessingfilter)
+* assembly [Aspose.OCR](../../../)
+
+---
+
+## Invert(Rectangle) {#invert_1}
+
+Automatically inverts colors in a part of the image.
+
+```csharp
+public static PreprocessingFilter Invert(Rectangle area)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| area | Rectangle | Coordinates of the part of the image to be corrected. |
 
 ### Return Value
 

@@ -1,14 +1,14 @@
 ---
 title: PreprocessingFilters
 second_title: Справочник по Aspose.OCR для .NET API
-description: Позволяет подготовить изображение для распознавания путем настройки методов предварительной обработки.
+description: Позволяет подготовить изображение к распознаванию путем настройки методов предварительной обработки.
 type: docs
-weight: 100
+weight: 110
 url: /ru/net/aspose.ocr/recognitionsettings/preprocessingfilters/
 ---
 ## RecognitionSettings.PreprocessingFilters property
 
-Позволяет подготовить изображение для распознавания путем настройки методов предварительной обработки.
+Позволяет подготовить изображение к распознаванию путем настройки методов предварительной обработки.
 
 ```csharp
 public PreprocessingFilter PreprocessingFilters { get; set; }

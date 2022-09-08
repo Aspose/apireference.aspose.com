@@ -1,14 +1,14 @@
 ---
 title: AllowedCharacters
 second_title: Справочник по Aspose.OCR для .NET API
-description: Набор разрешенных символов. Определяет тип символов разрешенных для результата распознавания.
+description: Установлены допустимые символы. Определяет тип символов разрешенных для результата распознавания.
 type: docs
 weight: 20
 url: /ru/net/aspose.ocr/recognitionsettings/allowedcharacters/
 ---
 ## RecognitionSettings.AllowedCharacters property
 
-Набор разрешенных символов. Определяет тип символов, разрешенных для результата распознавания.
+Установлены допустимые символы. Определяет тип символов, разрешенных для результата распознавания.
 
 ```csharp
 public CharactersAllowedType AllowedCharacters { get; set; }

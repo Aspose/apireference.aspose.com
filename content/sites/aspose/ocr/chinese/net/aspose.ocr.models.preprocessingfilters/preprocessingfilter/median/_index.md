@@ -3,7 +3,7 @@ title: Median
 second_title: Aspose.OCR for .NET API 参考
 description: 中值滤波器遍历图像的每个元素并将每个像素替换为其相邻像素的中值
 type: docs
-weight: 60
+weight: 80
 url: /zh/net/aspose.ocr.models.preprocessingfilters/preprocessingfilter/median/
 ---
 ## PreprocessingFilter.Median method
@@ -16,7 +16,7 @@ public static PreprocessingFilter Median()
 
 ### 返回值
 
-MedianFilter 对象。
+中值过滤器对象。
 
 ### 也可以看看
 

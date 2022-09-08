@@ -1,14 +1,14 @@
 ---
 title: SkewAngle
 second_title: Справочник по Aspose.OCR для .NET API
-description: Получает или задает угол поворота изображения в градусах.  Установка этого значения отключит свойствоAutoSkewaspose.ocr/recognitionsettings/autoskew так что авто коррекция перекоса не применяется. Ноль по умолчанию.
+description: Получает или задает угол поворота изображения в градусах.  Установка этого значения отключитAutoSkewaspose.ocr/recognitionsettings/autoskew свойство чтобы автоматическая коррекция перекоса не применялась. По умолчанию ноль.
 type: docs
-weight: 130
+weight: 140
 url: /ru/net/aspose.ocr/recognitionsettings/skewangle/
 ---
 ## RecognitionSettings.SkewAngle property
 
-Получает или задает угол поворота изображения в градусах.  Установка этого значения отключит свойство[`AutoSkew`](../autoskew), так что авто коррекция перекоса не применяется. Ноль по умолчанию.
+Получает или задает угол поворота изображения в градусах.  Установка этого значения отключит[`AutoSkew`](../autoskew) свойство, чтобы автоматическая коррекция перекоса не применялась. По умолчанию ноль.
 
 ```csharp
 public float SkewAngle { set; }

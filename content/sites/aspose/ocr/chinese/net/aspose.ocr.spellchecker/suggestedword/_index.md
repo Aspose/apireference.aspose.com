@@ -18,7 +18,7 @@ public struct SuggestedWord
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Distance](../../aspose.ocr.spellchecker/suggestedword/distance) { get; set; } | 搜索和建议之间的距离。 |
+| [Distance](../../aspose.ocr.spellchecker/suggestedword/distance) { get; set; } | 搜索到的和建议之间的距离。 |
 | [Word](../../aspose.ocr.spellchecker/suggestedword/word) { get; set; } | 建议的正确拼写单词。 |
 
 ### 也可以看看

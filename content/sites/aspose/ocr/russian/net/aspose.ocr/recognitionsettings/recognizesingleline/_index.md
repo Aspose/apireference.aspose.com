@@ -3,7 +3,7 @@ title: RecognizeSingleLine
 second_title: Справочник по Aspose.OCR для .NET API
 description: Устанавливает распознавание однострочного изображения. Отключено false по умолчанию. Отключить все этапы обработки связанные с разбиением на строки. Установите для этого параметра значение true если ваше изображение содержит только одну строку. Отключает настройки RecognitionAreas поэтому все настройки областей будут игнорироваться.
 type: docs
-weight: 120
+weight: 130
 url: /ru/net/aspose.ocr/recognitionsettings/recognizesingleline/
 ---
 ## RecognitionSettings.RecognizeSingleLine property

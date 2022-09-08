@@ -19,9 +19,9 @@ public void Save(string fullFileName, SaveFormat saveFormat, bool applySpellingC
 | --- | --- | --- |
 | fullFileName | String | 带有用于以所选格式保存识别结果的路径的文件名。 |
 | saveFormat | SaveFormat | 文档格式（Docx、Txt、Pdf）。 |
-| applySpellingCorrection | Boolean | 设置为 true 以纠正拼写错误的单词，以防您的识别结果中有这样的拼写错误。 |
+| applySpellingCorrection | Boolean | 设置 true 以纠正拼写错误的单词，以防您的识别结果中有这样的拼写错误。 |
 | language | SpellCheckLanguage | 拼写检查字典（可选）。 |
-| dictionaryPath | String | 可选。 .txt 格式的用户字典的完整路径。格式为 [单词 - 空格 - 频率（数字）]。 示例:23135851162\n那个 3400031103\n |
+| dictionaryPath | String | 可选。 .txt 格式的用户字典的完整路径。格式为 [word - space - frequence(number)]. 示例：23135851162\nthat 3400031103\n |
 
 ### 也可以看看
 
@@ -46,9 +46,9 @@ public void Save(MemoryStream stream, SaveFormat saveFormat, bool applySpellingC
 | --- | --- | --- |
 | stream | MemoryStream | MemoryStream 用于以所选格式保存识别结果。 |
 | saveFormat | SaveFormat | 文档格式（Docx、Txt、Pdf）。 |
-| applySpellingCorrection | Boolean | 设置为 true 以纠正拼写错误的单词，以防您的识别结果中有这样的拼写错误。 |
+| applySpellingCorrection | Boolean | 设置 true 以纠正拼写错误的单词，以防您的识别结果中有这样的拼写错误。 |
 | language | SpellCheckLanguage | 拼写检查字典（可选）。 |
-| dictionaryPath | String | 可选。 .txt 格式的用户字典的完整路径。格式为 [单词 - 空格 - 频率（数字）]。 示例:23135851162\n那个 3400031103\n |
+| dictionaryPath | String | 可选。 .txt 格式的用户字典的完整路径。格式为 [word - space - frequence(number)]. 示例：23135851162\nthat 3400031103\n |
 
 ### 也可以看看
 

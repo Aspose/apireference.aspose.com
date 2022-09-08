@@ -3,7 +3,7 @@ title: IgnoredCharacters
 second_title: Справочник по Aspose.OCR для .NET API
 description: Устанавливает черный список для символов распознавания.
 type: docs
-weight: 70
+weight: 80
 url: /ru/net/aspose.ocr/recognitionsettings/ignoredcharacters/
 ---
 ## RecognitionSettings.IgnoredCharacters property

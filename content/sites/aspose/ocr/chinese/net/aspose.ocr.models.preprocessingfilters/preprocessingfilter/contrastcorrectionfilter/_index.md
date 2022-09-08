@@ -1,14 +1,14 @@
 ---
 title: ContrastCorrectionFilter
 second_title: Aspose.OCR for .NET API 参考
-description: 对比度校正过滤器
+description: 对比度校正滤镜
 type: docs
-weight: 30
+weight: 50
 url: /zh/net/aspose.ocr.models.preprocessingfilters/preprocessingfilter/contrastcorrectionfilter/
 ---
 ## PreprocessingFilter.ContrastCorrectionFilter method
 
-对比度校正过滤器。
+对比度校正滤镜。
 
 ```csharp
 public static PreprocessingFilter ContrastCorrectionFilter()

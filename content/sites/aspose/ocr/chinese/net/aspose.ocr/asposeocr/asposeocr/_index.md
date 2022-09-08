@@ -1,14 +1,14 @@
 ---
 title: AsposeOcr
 second_title: Aspose.OCR for .NET API 参考
-description: 初始化AsposeOcraspose.ocr/asposeocr类的新实例 空构造函数
+description: 初始化AsposeOcraspose.ocr/asposeocrclass. 空构造函数.
 type: docs
 weight: 10
 url: /zh/net/aspose.ocr/asposeocr/asposeocr/
 ---
 ## AsposeOcr() {#constructor}
 
-初始化[`AsposeOcr`](../../asposeocr)类的新实例。 空构造函数。
+初始化[`AsposeOcr`](../../asposeocr)class. 空构造函数.
 
 ```csharp
 public AsposeOcr()
@@ -24,7 +24,7 @@ public AsposeOcr()
 
 ## AsposeOcr(string) {#constructor_1}
 
-初始化[`AsposeOcr`](../../asposeocr)类的新实例。 使用字母属性设置允许的字符。
+初始化[`AsposeOcr`](../../asposeocr) class. 使用字母属性设置允许的字符。
 
 ```csharp
 public AsposeOcr(string alphabet)

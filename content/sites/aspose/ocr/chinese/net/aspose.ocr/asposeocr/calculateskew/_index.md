@@ -20,7 +20,7 @@ public float CalculateSkew(MemoryStream stream)
 
 ### 返回值
 
-倾斜角度，以度为单位。
+以度为单位的倾斜角度。
 
 ### 也可以看看
 
@@ -44,7 +44,7 @@ public float CalculateSkew(string fullPath)
 
 ### 返回值
 
-倾斜角度，以度为单位。
+以度为单位的倾斜角度。
 
 ### 也可以看看
 

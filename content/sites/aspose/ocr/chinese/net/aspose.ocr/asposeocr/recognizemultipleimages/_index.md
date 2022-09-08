@@ -1,14 +1,14 @@
 ---
 title: RecognizeMultipleImages
 second_title: Aspose.OCR for .NET API 参考
-description: 从列表中识别多个图像  不支持存档和文件夹 最大处理图像数量为 20 支持 GIFPNGJPEGBMPTIFF
+description: 从列表中识别多个图像  不支持存档和文件夹 处理的最大图像数量为 20 支持 GIFPNGJPEGBMPTIFF
 type: docs
 weight: 120
 url: /zh/net/aspose.ocr/asposeocr/recognizemultipleimages/
 ---
 ## RecognizeMultipleImages(List&lt;string&gt;, RecognitionSettings) {#recognizemultipleimages_1}
 
-从列表中识别多个图像。  不支持存档和文件夹。 最大处理图像数量为 20。 支持 GIF、PNG、JPEG、BMP、TIFF。
+从列表中识别多个图像。  不支持存档和文件夹。 处理的最大图像数量为 20。 支持 GIF、PNG、JPEG、BMP、TIFF。
 
 ```csharp
 public RecognitionResult[] RecognizeMultipleImages(List<string> files, RecognitionSettings settings)
@@ -21,7 +21,7 @@ public RecognitionResult[] RecognizeMultipleImages(List<string> files, Recogniti
 
 ### 返回值
 
-[`RecognitionResult`](../../recognitionresult)对象的数组，每个已处理图像的识别结果。
+数组[`RecognitionResult`](../../recognitionresult)每个处理过的图像的识别结果。
 
 ### 也可以看看
 
@@ -35,7 +35,7 @@ public RecognitionResult[] RecognizeMultipleImages(List<string> files, Recogniti
 
 ## RecognizeMultipleImages(List&lt;string&gt;) {#recognizemultipleimages}
 
-使用默认设置识别列表中的多个图像。  不支持存档和文件夹。 最大处理图像数量为 20。 支持 GIF、PNG、JPEG、BMP、TIFF。
+使用默认设置识别列表中的多个图像。  不支持存档和文件夹。 处理的最大图像数量为 20。 支持 GIF、PNG、JPEG、BMP、TIFF。
 
 ```csharp
 public RecognitionResult[] RecognizeMultipleImages(List<string> files)
@@ -47,7 +47,7 @@ public RecognitionResult[] RecognizeMultipleImages(List<string> files)
 
 ### 返回值
 
-[`RecognitionResult`](../../recognitionresult)对象的数组，每个已处理图像的识别结果。
+数组[`RecognitionResult`](../../recognitionresult)每个处理过的图像的识别结果。
 
 ### 也可以看看
 
@@ -60,7 +60,7 @@ public RecognitionResult[] RecognizeMultipleImages(List<string> files)
 
 ## RecognizeMultipleImages(string, RecognitionSettings) {#recognizemultipleimages_3}
 
-识别压缩在 ZIP 存档或文件夹中的多个图像。  不支持嵌套档案和文件夹。 最大处理图像数量为 20。 支持 GIF、PNG、JPEG、BMP、TIFF。
+识别压缩在 ZIP 存档或文件夹中的多个图像。  不支持嵌套档案和文件夹。 处理图像的最大数量为 20。 支持 GIF、PNG、JPEG、BMP、TIFF。
 
 ```csharp
 public RecognitionResult[] RecognizeMultipleImages(string path, RecognitionSettings settings)
@@ -68,12 +68,12 @@ public RecognitionResult[] RecognizeMultipleImages(string path, RecognitionSetti
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| path | String | zip 存档（包括 .zip 扩展名）或文件夹的完整路径图片。 |
+| path | String | zip 存档（包括 .zip 扩展名）或包含图像的文件夹的完整路径。 |
 | settings | RecognitionSettings | 识别设置。 |
 
 ### 返回值
 
-[`RecognitionResult`](../../recognitionresult)对象的数组，每个已处理图像的识别结果。
+数组[`RecognitionResult`](../../recognitionresult)每个处理过的图像的识别结果。
 
 ### 也可以看看
 
@@ -87,7 +87,7 @@ public RecognitionResult[] RecognizeMultipleImages(string path, RecognitionSetti
 
 ## RecognizeMultipleImages(string) {#recognizemultipleimages_2}
 
-识别压缩在 ZIP 存档中或默认设置文件夹中的多个图像。  不支持嵌套档案和文件夹。 最大处理图像数量为 20。 支持 GIF、PNG、JPEG、BMP、TIFF。
+识别压缩在 ZIP 存档中或具有默认设置的文件夹中的多个图像。  不支持嵌套档案和文件夹。 处理图像的最大数量为 20。 支持 GIF、PNG、JPEG、BMP、TIFF。
 
 ```csharp
 public RecognitionResult[] RecognizeMultipleImages(string path)
@@ -95,11 +95,11 @@ public RecognitionResult[] RecognizeMultipleImages(string path)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| path | String | zip 存档（包括 .zip 扩展名）或文件夹的完整路径图片。 |
+| path | String | zip 存档（包括 .zip 扩展名）或包含图像的文件夹的完整路径。 |
 
 ### 返回值
 
-[`RecognitionResult`](../../recognitionresult)对象的数组，每个已处理图像的识别结果。
+数组[`RecognitionResult`](../../recognitionresult)每个处理过的图像的识别结果。
 
 ### 也可以看看
 

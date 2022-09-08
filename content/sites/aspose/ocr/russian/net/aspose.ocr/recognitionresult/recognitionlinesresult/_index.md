@@ -1,14 +1,14 @@
 ---
 title: RecognitionLinesResult
 second_title: Справочник по Aspose.OCR для .NET API
-description: Получает список результатов распознавания со списком строк прямоугольников.
+description: Получает список результатов распознавания со списком строк Прямоугольники.
 type: docs
 weight: 40
 url: /ru/net/aspose.ocr/recognitionresult/recognitionlinesresult/
 ---
 ## RecognitionResult.RecognitionLinesResult property
 
-Получает список результатов распознавания со списком строк (прямоугольников).
+Получает список результатов распознавания со списком строк (Прямоугольники).
 
 ```csharp
 public List<LinesResult> RecognitionLinesResult { get; }

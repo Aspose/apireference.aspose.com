@@ -1,14 +1,14 @@
 ---
 title: Threshold
 second_title: Справочник по Aspose.OCR для .NET API
-description: Создайте двоичное изображение на основе установки порогового значения интенсивности пикселей исходного изображения.
+description: Создать бинарное изображение на основе установки порогового значения интенсивности пикселей исходного изображения.
 type: docs
-weight: 100
+weight: 120
 url: /ru/net/aspose.ocr.models.preprocessingfilters/preprocessingfilter/threshold/
 ---
 ## PreprocessingFilter.Threshold method
 
-Создайте двоичное изображение на основе установки порогового значения интенсивности пикселей исходного изображения.
+Создать бинарное изображение на основе установки порогового значения интенсивности пикселей исходного изображения.
 
 ```csharp
 public static PreprocessingFilter Threshold(int value)

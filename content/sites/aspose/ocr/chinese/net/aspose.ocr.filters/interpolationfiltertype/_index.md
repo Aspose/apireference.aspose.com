@@ -18,19 +18,19 @@ public enum InterpolationFilterType
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| Box | `0` | “盒子”或“最近邻”过滤器ю http://www.imagemagick.org/Usage/filter/#box &lt;参见 href="http://www.imagemagick.org/Usage/filter/#box"&gt;&lt;/See&gt; |
-| Triangle | `1` | “三角形”或“双线性”插值过滤器只是将最近邻域的插值 更进一步。 http://www.imagemagick.org/Usage/filter/#triangle &lt;参见 href="http://www.imagemagick.org/Usage/filter/#三角形"&gt;&lt;/见&gt; |
-| Hermite | `2` | https://en.wikipedia.org/wiki/Hermite_interpolation &lt;参见 href="https://en.wikipedia.org/wiki/Hermite_interpolation"&gt;&lt;/见&gt;&lt;见 href="http://www.imagemagick.org/Usage/filter/#hermite-c"&gt;&lt;/See&gt; |
-| Bell | `3` | http://www.imagemagick.org/Usage/filter/#gaussian &lt;参见 href="http://www.imagemagick.org/Usage/filter/ #gaussian"&gt;&lt;/See&gt; |
-| CubicBSpline | `4` | http://www.imagemagick.org/Usage/filter/#cubics &lt;参见 href="http://www.imagemagick.org/Usage/filter/ #cubics"&gt;&lt;/See&gt; |
-| Lanczos3 | `5` | https://en.wikipedia.org/wiki/Lanczos_resampling &lt;参见 href="https://en.wikipedia.org/wiki/Lanczos_resampling"&gt;&lt;/见&gt; |
-| Mitchell | `6` | http://www.imagemagick.org/Usage/filter/#mitchell &lt;参见 href="http://www.imagemagick.org/Usage/filter/ #mitchell"&gt;&lt;/See&gt; |
-| Cosine | `7` | https://en.wikipedia.org/wiki/Trigonometric_interpolation &lt;参见 href="https://en.wikipedia.org/wiki/Trigonometric_interpolation"&gt;&lt;/见&gt; |
-| CatmullRom | `8` | 'Catrom' (Catmull-Rom) 过滤器是众所周知的标准 三次过滤器，通常用作插值函数。 http://www.imagemagick.org/Usage/filter/#catrom-c &lt;参见 href="http://www.imagemagick.org/Usage/filter /#catrom-c"&gt;&lt;/See&gt; |
-| Quadratic | `9` | http://www.imagemagick.org/Usage/filter/#quadratic &lt;参见 href="http://www.imagemagick.org/Usage/filter/ #quadratic"&gt;&lt;/See&gt; |
-| QuadraticBSpline | `10` | https://en.wikipedia.org/wiki/Spline_interpolation &lt;参见 href="https://en.wikipedia.org/wiki/Spline_interpolation"&gt;&lt;/见&gt; |
-| CubicConvolution | `11` | https://en.wikipedia.org/wiki/Directional_Cubic_Convolution_Interpolation &lt;参见 href="https://en.wikipedia.org/wiki/Directional_Cubic_Convolution_Interpolation"&gt;&lt;/见&gt; |
-| Lanczos8 | `12` | https://en.wikipedia.org/wiki/Lanczos_resampling &lt;参见 href="https://en.wikipedia.org/wiki/Lanczos_resampling"&gt;&lt;/见&gt; |
+| Box | `0` | “盒子”或“最近邻”过滤器ю http://www.imagemagick.org/Usage/filter/#box |
+| Triangle | `1` | “三角形”或“双线性”插值过滤器只是将最近邻域的插值 更进一步。 http://www.imagemagick.org/Usage/filter/#triangle |
+| Hermite | `2` | https://en.wikipedia.org/wiki/Hermite_interpolation |
+| Bell | `3` | http://www.imagemagick.org/Usage/filter/#gaussian |
+| CubicBSpline | `4` | http://www.imagemagick.org/Usage/filter/#cubics |
+| Lanczos3 | `5` | https://en.wikipedia.org/wiki/Lanczos_resampling |
+| Mitchell | `6` | http://www.imagemagick.org/Usage/filter/#mitchell |
+| Cosine | `7` | https://en.wikipedia.org/wiki/Trigonometric_interpolation |
+| CatmullRom | `8` | 'Catrom' (Catmull-Rom) 滤波器是众所周知的标准 三次滤波器，通常用作插值函数。 http://www.imagemagick.org/Usage/filter/#catrom-c |
+| Quadratic | `9` | http://www.imagemagick.org/Usage/filter/#quadratic |
+| QuadraticBSpline | `10` | https://en.wikipedia.org/wiki/Spline_interpolation |
+| CubicConvolution | `11` | https://en.wikipedia.org/wiki/Directional_Cubic_Convolution_Interpolation |
+| Lanczos8 | `12` | https://en.wikipedia.org/wiki/Lanczos_resampling |
 
 ### 也可以看看
 

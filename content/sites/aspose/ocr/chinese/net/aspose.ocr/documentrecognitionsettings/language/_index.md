@@ -3,7 +3,7 @@ title: Language
 second_title: Aspose.OCR for .NET API 参考
 description: 获取或设置用于 OCR 的语言  确定识别过程中使用的字母表 默认为多语言
 type: docs
-weight: 80
+weight: 90
 url: /zh/net/aspose.ocr/documentrecognitionsettings/language/
 ---
 ## DocumentRecognitionSettings.Language property

@@ -1,14 +1,14 @@
 ---
 title: DocumentRecognitionSettings
 second_title: Aspose.OCR for .NET API 参考
-description: 用一组短属性初始化DocumentRecognitionSettingsaspose.ocr/documentrecognitionsettings类的新实例
+description: 初始化DocumentRecognitionSettingsaspose.ocr/documentrecognitionsettings具有简短属性集的类
 type: docs
 weight: 10
 url: /zh/net/aspose.ocr/documentrecognitionsettings/documentrecognitionsettings/
 ---
 ## DocumentRecognitionSettings(int, int) {#constructor}
 
-用一组短属性初始化[`DocumentRecognitionSettings`](../../documentrecognitionsettings)类的新实例。
+初始化[`DocumentRecognitionSettings`](../../documentrecognitionsettings)具有简短属性集的类。
 
 ```csharp
 public DocumentRecognitionSettings(int startPage = 0, int pagesNumber = 1)
@@ -16,7 +16,7 @@ public DocumentRecognitionSettings(int startPage = 0, int pagesNumber = 1)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| startPage | Int32 | 设置识别的第一页。默认为 0。 |
+| startPage | Int32 | 设置第一页进行识别。默认为 0。 |
 | pagesNumber | Int32 | 设置识别多页pdf文件的页数。 |
 
 ### 也可以看看
@@ -29,7 +29,7 @@ public DocumentRecognitionSettings(int startPage = 0, int pagesNumber = 1)
 
 ## DocumentRecognitionSettings(int, int, Language, bool, bool, int) {#constructor_1}
 
-使用完整的属性集初始化[`DocumentRecognitionSettings`](../../documentrecognitionsettings)类的新实例。
+初始化[`DocumentRecognitionSettings`](../../documentrecognitionsettings)具有全套属性的类。
 
 ```csharp
 public DocumentRecognitionSettings(int startPage, int pagesNumber, 
@@ -39,7 +39,7 @@ public DocumentRecognitionSettings(int startPage, int pagesNumber,
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| startPage | Int32 | 设置识别的第一页。默认为 0。 |
+| startPage | Int32 | 设置第一页进行识别。默认为 0。 |
 | pagesNumber | Int32 | 设置识别多页pdf文件的页数。 |
 | language | Language | 用于 OCR 的语言。 |
 | detectAreas | Boolean | 启用自动文本区域检测。 |
