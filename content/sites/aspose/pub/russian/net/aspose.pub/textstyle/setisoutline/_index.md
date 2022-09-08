@@ -1,14 +1,14 @@
 ---
 title: SetIsOutline
 second_title: Справочник по Aspose.PUB для .NET API
-description: Устанавливает обведенный текст
+description: Устанавливает текст выделенный
 type: docs
 weight: 250
 url: /ru/net/aspose.pub/textstyle/setisoutline/
 ---
 ## TextStyle.SetIsOutline method
 
-Устанавливает обведенный текст
+Устанавливает текст, выделенный
 
 ```csharp
 public void SetIsOutline(bool value)
@@ -16,7 +16,7 @@ public void SetIsOutline(bool value)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| value | Boolean | Обведенный текстом значение |
+| value | Boolean | Текстовое значение |
 
 ### Смотрите также
 

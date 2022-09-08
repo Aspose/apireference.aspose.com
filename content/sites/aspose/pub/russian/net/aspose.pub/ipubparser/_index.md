@@ -1,14 +1,14 @@
 ---
 title: IPubParser
 second_title: Справочник по Aspose.PUB для .NET API
-description: Объявляет функциональность которая анализирует файл издателя и возвращаетDocument./documentобъект в результате анализа .
+description: Объявляет функциональность которая анализирует файл публикации и возвращаетDocument./document объект в результате синтаксического анализа.
 type: docs
 weight: 100
 url: /ru/net/aspose.pub/ipubparser/
 ---
 ## IPubParser interface
 
-Объявляет функциональность, которая анализирует файл издателя и возвращает[`Document`](../document)объект в результате анализа .
+Объявляет функциональность, которая анализирует файл публикации и возвращает[`Document`](../document) объект в результате синтаксического анализа.
 
 ```csharp
 public interface IPubParser
@@ -18,7 +18,7 @@ public interface IPubParser
 
 | Имя | Описание |
 | --- | --- |
-| [Parse](../../aspose.pub/ipubparser/parse)() | Анализирует файл издателя и возвращает объект[`Document`](../document)в результате анализа. |
+| [Parse](../../aspose.pub/ipubparser/parse)() | Разбирает файл публикации и возвращает[`Document`](../document) объект в результате разбора. |
 
 ### Смотрите также
 

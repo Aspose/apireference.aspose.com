@@ -1,14 +1,14 @@
 ---
 title: DefaultStyleIndex
 second_title: Справочник по Aspose.PUB для .NET API
-description: Индекс стиля текста по умолчанию в массиве Document.DefaultTextStyles
+description: Индекс стиля текста по умолчанию в Document.DefaultTextStyles array
 type: docs
 weight: 40
 url: /ru/net/aspose.pub/paragraphstyle/defaultstyleindex/
 ---
 ## ParagraphStyle.DefaultStyleIndex property
 
-Индекс стиля текста по умолчанию в массиве Document.DefaultTextStyles
+Индекс стиля текста по умолчанию в Document.DefaultTextStyles array
 
 ```csharp
 public int DefaultStyleIndex { get; }

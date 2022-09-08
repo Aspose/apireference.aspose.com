@@ -16,7 +16,7 @@ public void SetLineSpacingType(LineSpacingType value)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| value | LineSpacingType | Значение типа межстрочного интервала |
+| value | LineSpacingType | Значение межстрочного интервала |
 
 ### Смотрите также
 

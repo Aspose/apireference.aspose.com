@@ -2,6 +2,8 @@
 title: Aspose.PUB Product family
 additionalTitle: Aspose API References
 type: docs
+weight: 10
+description: "API Reference for the developers to manipulate & process Files from Word, Excel, PowerPoint, Visio, PDF, CAD & several other categories in Web, Desktop or Mobile apps using Aspose.PUB."
 url: /pub/
 ---
 

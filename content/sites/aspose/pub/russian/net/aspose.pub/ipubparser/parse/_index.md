@@ -1,14 +1,14 @@
 ---
 title: Parse
 second_title: Справочник по Aspose.PUB для .NET API
-description: Анализирует файл издателя и возвращает объектDocumentaspose.pub/documentв результате анализа.
+description: Разбирает файл публикации и возвращаетDocumentaspose.pub/document объект в результате разбора.
 type: docs
 weight: 10
 url: /ru/net/aspose.pub/ipubparser/parse/
 ---
 ## IPubParser.Parse method
 
-Анализирует файл издателя и возвращает объект[`Document`](../../document)в результате анализа.
+Разбирает файл публикации и возвращает[`Document`](../../document) объект в результате разбора.
 
 ```csharp
 public Document Parse()

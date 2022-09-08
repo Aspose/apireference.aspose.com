@@ -16,7 +16,7 @@ public void SetCompany(string value)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| значение | String | компанию |
+| value | String | Компания |
 
 ### Смотрите также
 

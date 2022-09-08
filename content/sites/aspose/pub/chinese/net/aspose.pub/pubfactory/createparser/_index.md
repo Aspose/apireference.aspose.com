@@ -41,7 +41,7 @@ public static IPubParser CreateParser(Stream pubStream)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| pubStream | Stream | 带有 PUB 数据的流 |
+| pubStream | Stream | 使用 PUB 数据流式传输 |
 
 ### 返回值
 

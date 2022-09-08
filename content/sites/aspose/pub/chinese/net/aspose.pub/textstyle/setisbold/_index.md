@@ -1,14 +1,14 @@
 ---
 title: SetIsBold
 second_title: Aspose.PUB for .NET API 参考
-description: 设置为粗体
+description: 设置为粗体字
 type: docs
 weight: 210
 url: /zh/net/aspose.pub/textstyle/setisbold/
 ---
 ## TextStyle.SetIsBold method
 
-设置为粗体
+设置为粗体字
 
 ```csharp
 public void SetIsBold(bool value)
@@ -16,7 +16,7 @@ public void SetIsBold(bool value)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| value | Boolean | 为粗体值 |
+| value | Boolean | 是粗体值 |
 
 ### 也可以看看
 

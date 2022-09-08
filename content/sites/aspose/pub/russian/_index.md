@@ -2,6 +2,8 @@
 title: Семейство продуктов Aspose.PUB
 additionalTitle: Ссылки на API Aspose
 type: docs
+weight: 10
+description: "Справочник по API для разработчиков, позволяющий манипулировать и обрабатывать файлы из Word, Excel, PowerPoint, Visio, PDF, CAD и некоторых других категорий в веб-приложениях, настольных или мобильных приложениях с помощью Aspose.PUB."
 url: /ru/
 ---
 

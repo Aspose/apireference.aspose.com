@@ -18,15 +18,15 @@ public class PubException : ApplicationException
 
 | Имя | Описание |
 | --- | --- |
-| [PubException](pubexception#constructor)(string) | Инициализирует новый экземпляр класса[`PubException`](../pubexception). |
-| [PubException](pubexception#constructor_1)(string, Exception) | Инициализирует новый экземпляр класса[`PubException`](../pubexception) с указанным сообщение об ошибке и ссылка на внутреннее исключение, которое является причиной этого исключения. |
+| [PubException](pubexception#constructor)(string) | Инициализирует новый экземпляр[`PubException`](../pubexception) класс. |
+| [PubException](pubexception#constructor_1)(string, Exception) | Инициализирует новый экземпляр[`PubException`](../pubexception) класс с указанным сообщением об ошибке и ссылкой на внутреннее исключение, которое является причиной этого исключения. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
 | override [Message](../../aspose.pub.exceptions/pubexception/message) { get; } | Получает сообщение, описывающее текущее исключение. |
-| override [StackTrace](../../aspose.pub.exceptions/pubexception/stacktrace) { get; } | Получает строковое представление непосредственных кадров в стеке вызовов. |
+| override [StackTrace](../../aspose.pub.exceptions/pubexception/stacktrace) { get; } | Получает строковое представление ближайших кадров в стеке вызовов. |
 
 ### Смотрите также
 

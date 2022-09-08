@@ -1,14 +1,14 @@
 ---
 title: TopIndent
 second_title: Справочник по Aspose.PUB для .NET API
-description: Значение верхнего отступа
+description: Верхний отступ value
 type: docs
 weight: 120
 url: /ru/net/aspose.pub/paragraphstyle/topindent/
 ---
 ## ParagraphStyle.TopIndent property
 
-Значение верхнего отступа
+Верхний отступ value
 
 ```csharp
 public int TopIndent { get; }

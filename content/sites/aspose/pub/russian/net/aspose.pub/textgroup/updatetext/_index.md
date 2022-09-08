@@ -1,14 +1,14 @@
 ---
 title: UpdateText
 second_title: Справочник по Aspose.PUB для .NET API
-description: Обновляет текст
+description: Обновления text
 type: docs
 weight: 40
 url: /ru/net/aspose.pub/textgroup/updatetext/
 ---
 ## TextGroup.UpdateText method
 
-Обновляет текст
+Обновления text
 
 ```csharp
 public void UpdateText(string newText)

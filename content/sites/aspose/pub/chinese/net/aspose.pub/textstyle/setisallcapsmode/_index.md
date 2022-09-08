@@ -1,14 +1,14 @@
 ---
 title: SetIsAllCapsMode
 second_title: Aspose.PUB for .NET API 参考
-description: 启用/禁用文本的全部大写模式
+description: 启用/禁用 text 的所有大写模式
 type: docs
 weight: 200
 url: /zh/net/aspose.pub/textstyle/setisallcapsmode/
 ---
 ## TextStyle.SetIsAllCapsMode method
 
-启用/禁用文本的全部大写模式
+启用/禁用 text 的所有大写模式
 
 ```csharp
 public void SetIsAllCapsMode(bool value)
@@ -16,7 +16,7 @@ public void SetIsAllCapsMode(bool value)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| value | Boolean | 全部大写模式已启用 |
+| value | Boolean | 是否启用了全大写模式 |
 
 ### 也可以看看
 

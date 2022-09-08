@@ -16,7 +16,7 @@ public void SetSummaryInfo(SummaryInfo value)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| value | SummaryInfo | Значение сводной информации |
+| value | SummaryInfo | Суммарная информационная ценность |
 
 ### Смотрите также
 

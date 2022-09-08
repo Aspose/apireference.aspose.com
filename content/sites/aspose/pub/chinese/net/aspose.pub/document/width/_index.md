@@ -1,14 +1,14 @@
 ---
 title: Width
 second_title: Aspose.PUB for .NET API 参考
-description: PUB 指标中的文档宽度EMU
+description: PUB 指标中文档的宽度EMU
 type: docs
 weight: 90
 url: /zh/net/aspose.pub/document/width/
 ---
 ## Document.Width property
 
-PUB 指标中的文档宽度（EMU）
+PUB 指标中文档的宽度（EMU）
 
 ```csharp
 public uint Width { get; }

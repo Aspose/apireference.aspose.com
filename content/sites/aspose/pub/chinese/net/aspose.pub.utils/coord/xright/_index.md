@@ -1,14 +1,14 @@
 ---
 title: XRight
 second_title: Aspose.PUB for .NET API 参考
-description: 动车组右下角 X 坐标
+description: 动车组右下角X坐标
 type: docs
 weight: 30
 url: /zh/net/aspose.pub.utils/coord/xright/
 ---
 ## Coord.XRight property
 
-动车组右下角 X 坐标
+动车组右下角X坐标
 
 ```csharp
 public int XRight { get; }

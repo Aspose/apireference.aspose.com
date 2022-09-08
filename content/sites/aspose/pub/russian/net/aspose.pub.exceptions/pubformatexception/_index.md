@@ -18,15 +18,15 @@ public sealed class PubFormatException : PubException
 
 | Имя | Описание |
 | --- | --- |
-| [PubFormatException](pubformatexception#constructor)(string) | Инициализирует новый экземпляр класса[`PubFormatException`](../pubformatexception). |
-| [PubFormatException](pubformatexception#constructor_1)(string, Exception) | Инициализирует новый экземпляр класса[`PubFormatException`](../pubformatexception) с указанным сообщение об ошибке и ссылка на внутреннее исключение, которое является причиной этого исключения. |
+| [PubFormatException](pubformatexception#constructor)(string) | Инициализирует новый экземпляр[`PubFormatException`](../pubformatexception) класс. |
+| [PubFormatException](pubformatexception#constructor_1)(string, Exception) | Инициализирует новый экземпляр[`PubFormatException`](../pubformatexception) класс с указанным сообщением об ошибке и ссылкой на внутреннее исключение, которое является причиной этого исключения. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
 | override [Message](../../aspose.pub.exceptions/pubexception/message) { get; } | Получает сообщение, описывающее текущее исключение. |
-| override [StackTrace](../../aspose.pub.exceptions/pubexception/stacktrace) { get; } | Получает строковое представление непосредственных кадров в стеке вызовов. |
+| override [StackTrace](../../aspose.pub.exceptions/pubexception/stacktrace) { get; } | Получает строковое представление ближайших кадров в стеке вызовов. |
 
 ### Смотрите также
 

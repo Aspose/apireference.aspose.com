@@ -1,14 +1,14 @@
 ---
 title: SetLeftIndent
 second_title: Справочник по Aspose.PUB для .NET API
-description: Устанавливает отступ слева
+description: Устанавливает левый отступ
 type: docs
 weight: 200
 url: /ru/net/aspose.pub/paragraphstyle/setleftindent/
 ---
 ## ParagraphStyle.SetLeftIndent method
 
-Устанавливает отступ слева
+Устанавливает левый отступ
 
 ```csharp
 public void SetLeftIndent(int value)

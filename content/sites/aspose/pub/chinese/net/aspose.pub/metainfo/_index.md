@@ -28,7 +28,7 @@ public class MetaInfo
 | [CodePage](../../aspose.pub/metainfo/codepage) { get; } | 代码页标识符 |
 | [FMTID](../../aspose.pub/metainfo/fmtid) { get; } | FMTID 标识符 |
 | [IsLittleEndian](../../aspose.pub/metainfo/islittleendian) { get; } | 是小端 |
-| [Locale](../../aspose.pub/metainfo/locale) { get; } | 语言环境标识符 |
+| [Locale](../../aspose.pub/metainfo/locale) { get; } | 区域设置标识符 |
 | [PropsCount](../../aspose.pub/metainfo/propscount) { get; } | 属性计数 |
 | [PropsIdentifiers](../../aspose.pub/metainfo/propsidentifiers) { get; } | 属性标识符 |
 | [RawByteOrder](../../aspose.pub/metainfo/rawbyteorder) { get; } | 原始字节顺序 |
@@ -39,7 +39,7 @@ public class MetaInfo
 
 | 姓名 | 描述 |
 | --- | --- |
-| [GetProperty](../../aspose.pub/metainfo/getproperty)(uint) | 通过传递的 ID 获取属性 |
+| [GetProperty](../../aspose.pub/metainfo/getproperty)(uint) | 通过 ID 获取属性 |
 
 ### 也可以看看
 

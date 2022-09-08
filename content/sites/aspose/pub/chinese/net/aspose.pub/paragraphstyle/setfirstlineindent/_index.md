@@ -1,14 +1,14 @@
 ---
 title: SetFirstLineIndent
 second_title: Aspose.PUB for .NET API 参考
-description: 设置首行缩进
+description: 设置第一行缩进
 type: docs
 weight: 170
 url: /zh/net/aspose.pub/paragraphstyle/setfirstlineindent/
 ---
 ## ParagraphStyle.SetFirstLineIndent method
 
-设置首行缩进
+设置第一行缩进
 
 ```csharp
 public void SetFirstLineIndent(int value)
@@ -16,7 +16,7 @@ public void SetFirstLineIndent(int value)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| value | Int32 | 首行缩进值 |
+| value | Int32 | 第一行缩进值 |
 
 ### 也可以看看
 

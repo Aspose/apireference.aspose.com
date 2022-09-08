@@ -1,14 +1,14 @@
 ---
 title: IsItalic
 second_title: Aspose.PUB for .NET API 参考
-description: 是斜体
+description: 是斜体文本
 type: docs
 weight: 80
 url: /zh/net/aspose.pub/textstyle/isitalic/
 ---
 ## TextStyle.IsItalic property
 
-是斜体
+是斜体文本
 
 ```csharp
 public bool IsItalic { get; }

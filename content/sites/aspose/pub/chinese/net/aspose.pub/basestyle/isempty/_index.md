@@ -1,14 +1,14 @@
 ---
 title: IsEmpty
 second_title: Aspose.PUB for .NET API 参考
-description: 样式是否未初始化
+description: 样式未初始化
 type: docs
 weight: 10
 url: /zh/net/aspose.pub/basestyle/isempty/
 ---
 ## BaseStyle.IsEmpty property
 
-样式是否未初始化
+样式未初始化
 
 ```csharp
 public bool IsEmpty { get; }

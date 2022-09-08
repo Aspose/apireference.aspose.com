@@ -1,14 +1,14 @@
 ---
 title: TextGroup
 second_title: Aspose.PUB for .NET API 参考
-description: 文本组
+description: 文字组
 type: docs
 weight: 180
 url: /zh/net/aspose.pub/textgroup/
 ---
 ## TextGroup class
 
-文本组
+文字组
 
 ```csharp
 public class TextGroup
@@ -24,7 +24,7 @@ public class TextGroup
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Style](../../aspose.pub/textgroup/style) { get; } | 文本组样式 |
+| [Style](../../aspose.pub/textgroup/style) { get; } | 文本组的样式 |
 | [Text](../../aspose.pub/textgroup/text) { get; } | 组中的文本 |
 
 ## 方法

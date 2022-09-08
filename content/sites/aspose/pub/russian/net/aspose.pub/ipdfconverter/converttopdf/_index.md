@@ -1,14 +1,14 @@
 ---
 title: ConvertToPdf
 second_title: Справочник по Aspose.PUB для .NET API
-description: Преобразует документ PUB в формат PDF и сохраняет результат как файл PDF
+description: Преобразует документ PUB в формат PDF и сохраняет результат в виде файла PDF
 type: docs
 weight: 10
 url: /ru/net/aspose.pub/ipdfconverter/converttopdf/
 ---
 ## ConvertToPdf(Document, string) {#converttopdf_1}
 
-Преобразует документ PUB в формат PDF и сохраняет результат как файл PDF
+Преобразует документ PUB в формат PDF и сохраняет результат в виде файла PDF
 
 ```csharp
 public void ConvertToPdf(Document doc, string fileName)
@@ -17,7 +17,7 @@ public void ConvertToPdf(Document doc, string fileName)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | doc | Document | PUB-документ |
-| fileName | String | имя файла PDF |
+| fileName | String | имя PDF-файла |
 
 ### Смотрите также
 

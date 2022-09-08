@@ -1,14 +1,14 @@
 ---
 title: SetTitle
 second_title: Справочник по Aspose.PUB для .NET API
-description: Устанавливает название документа
+description: Устанавливает заголовок документа
 type: docs
 weight: 200
 url: /ru/net/aspose.pub/summaryinfo/settitle/
 ---
 ## SummaryInfo.SetTitle method
 
-Устанавливает название документа
+Устанавливает заголовок документа
 
 ```csharp
 public void SetTitle(string value)

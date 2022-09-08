@@ -1,7 +1,7 @@
 ---
 title: YBottom
 second_title: Справочник по Aspose.PUB для .NET API
-description: Y-координата нижнего правого угла в электропоездах
+description: Yкоордината нижнего правого угла в электропоездах
 type: docs
 weight: 40
 url: /ru/net/aspose.pub.utils/coord/ybottom/

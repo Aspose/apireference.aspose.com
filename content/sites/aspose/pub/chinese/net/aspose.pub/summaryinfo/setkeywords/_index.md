@@ -16,7 +16,7 @@ public void SetKeywords(string value)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| value | String | 与文档相关的关键字文档 |
+| value | String | 与文档相关的关键字 |
 
 ### 也可以看看
 

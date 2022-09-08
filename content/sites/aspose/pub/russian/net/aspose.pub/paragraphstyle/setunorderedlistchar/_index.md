@@ -1,14 +1,14 @@
 ---
 title: SetUnorderedListChar
 second_title: Справочник по Aspose.PUB для .NET API
-description: Устанавливает символ для неупорядоченного списка в абзаце
+description: Устанавливает символ для ненумерованного списка в параграфе
 type: docs
 weight: 250
 url: /ru/net/aspose.pub/paragraphstyle/setunorderedlistchar/
 ---
 ## ParagraphStyle.SetUnorderedListChar method
 
-Устанавливает символ для неупорядоченного списка в абзаце
+Устанавливает символ для ненумерованного списка в параграфе
 
 ```csharp
 public void SetUnorderedListChar(char value)
@@ -16,7 +16,7 @@ public void SetUnorderedListChar(char value)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| value | Char | Ненумерованный список char значение |
+| value | Char | Значение символа неупорядоченного списка |
 
 ### Смотрите также
 

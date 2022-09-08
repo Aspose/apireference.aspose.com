@@ -16,7 +16,7 @@ public void SetLineSpacingValue(double value)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| value | Double | Значение междустрочного интервала |
+| value | Double | Значение межстрочного интервала |
 
 ### Смотрите также
 

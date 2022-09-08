@@ -26,22 +26,22 @@ public class SummaryInfo : MetaInfo
 | --- | --- |
 | [AppName](../../aspose.pub/summaryinfo/appname) { get; } | 用于创建文档的应用程序的名称 |
 | [Author](../../aspose.pub/summaryinfo/author) { get; } | 文档的作者 |
-| [CharCount](../../aspose.pub/summaryinfo/charcount) { get; } | 文档中的字符总数 |
+| [CharCount](../../aspose.pub/summaryinfo/charcount) { get; } | 文档中的总字符数 |
 | [Clsid](../../aspose.pub/metainfo/clsid) { get; } | CLSID 标识符 |
 | [CodePage](../../aspose.pub/metainfo/codepage) { get; } | 代码页标识符 |
 | [Comments](../../aspose.pub/summaryinfo/comments) { get; } | 与文档相关的评论 |
-| [DocSecurity](../../aspose.pub/summaryinfo/docsecurity) { get; } | 文档安全 ID 文档安全 ID 是一个 32 位有符号整数，表示一组应用程序建议的 具有以下值的访问控制标志: 0x00000001:密码保护 0x00000002:推荐只读 0x00000004:强制只读 0x00000008:锁定注释 |
+| [DocSecurity](../../aspose.pub/summaryinfo/docsecurity) { get; } | 文档安全 ID 文档安全 ID 是一个 32 位有符号整数，表示一组应用程序建议的 访问控制标志，具有以下值： 0x00000001：受密码保护 0x00000002：只读推荐 0x00000000000000000000004：只读: 为 annotations 锁定 |
 | [FMTID](../../aspose.pub/metainfo/fmtid) { get; } | FMTID 标识符 |
 | [IsLittleEndian](../../aspose.pub/metainfo/islittleendian) { get; } | 是小端 |
 | [Keywords](../../aspose.pub/summaryinfo/keywords) { get; } | 与文档相关的关键字 |
 | [LastAuthor](../../aspose.pub/summaryinfo/lastauthor) { get; } | 文档的最后作者 |
-| [Locale](../../aspose.pub/metainfo/locale) { get; } | 语言环境标识符 |
+| [Locale](../../aspose.pub/metainfo/locale) { get; } | 区域设置标识符 |
 | [PageCount](../../aspose.pub/summaryinfo/pagecount) { get; } | 文档总页数 |
 | [PropsCount](../../aspose.pub/metainfo/propscount) { get; } | 属性计数 |
 | [PropsIdentifiers](../../aspose.pub/metainfo/propsidentifiers) { get; } | 属性标识符 |
 | [RawByteOrder](../../aspose.pub/metainfo/rawbyteorder) { get; } | 原始字节顺序 |
 | [RevNumber](../../aspose.pub/summaryinfo/revnumber) { get; } | 此版本文档的应用程序特定修订号 |
-| [Subject](../../aspose.pub/summaryinfo/subject) { get; } | 文档主题 |
+| [Subject](../../aspose.pub/summaryinfo/subject) { get; } | 文档的主题 |
 | [SysID](../../aspose.pub/metainfo/sysid) { get; } | 系统标识符 |
 | [Template](../../aspose.pub/summaryinfo/template) { get; } | 创建文档的应用程序特定模板 |
 | [Title](../../aspose.pub/summaryinfo/title) { get; } | 文档的标题 |
@@ -52,12 +52,12 @@ public class SummaryInfo : MetaInfo
 
 | 姓名 | 描述 |
 | --- | --- |
-| [GetProperty](../../aspose.pub/metainfo/getproperty)(uint) | 通过传递的 ID 获取属性 |
-| [SetAuthor](../../aspose.pub/summaryinfo/setauthor)(string) | 设置文档作者 |
-| [SetComments](../../aspose.pub/summaryinfo/setcomments)(string) | 设置与文档相关的评论 |
+| [GetProperty](../../aspose.pub/metainfo/getproperty)(uint) | 通过 ID 获取属性 |
+| [SetAuthor](../../aspose.pub/summaryinfo/setauthor)(string) | 设置文档的作者 |
+| [SetComments](../../aspose.pub/summaryinfo/setcomments)(string) | 设置与文档相关的注释 |
 | [SetKeywords](../../aspose.pub/summaryinfo/setkeywords)(string) | 设置与文档相关的关键字 |
 | [SetLastAuthor](../../aspose.pub/summaryinfo/setlastauthor)(string) | 设置文档的最后作者 |
-| [SetSubject](../../aspose.pub/summaryinfo/setsubject)(string) | 设置文档主题 |
+| [SetSubject](../../aspose.pub/summaryinfo/setsubject)(string) | 设置文档的主题 |
 | [SetTitle](../../aspose.pub/summaryinfo/settitle)(string) | 设置文档的标题 |
 
 ### 也可以看看

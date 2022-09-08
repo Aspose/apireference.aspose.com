@@ -18,8 +18,8 @@ public class PubException : ApplicationException
 
 | 姓名 | 描述 |
 | --- | --- |
-| [PubException](pubexception#constructor)(string) | 初始化[`PubException`](../pubexception)类的新实例。 |
-| [PubException](pubexception#constructor_1)(string, Exception) | 使用指定的初始化[`PubException`](../pubexception) 类的新实例错误 消息和对导致此异常的内部异常的引用。 |
+| [PubException](pubexception#constructor)(string) | 初始化[`PubException`](../pubexception)类. |
+| [PubException](pubexception#constructor_1)(string, Exception) | 初始化[`PubException`](../pubexception)具有指定错误 消息的类以及对导致此异常的内部异常的引用。 |
 
 ## 特性
 

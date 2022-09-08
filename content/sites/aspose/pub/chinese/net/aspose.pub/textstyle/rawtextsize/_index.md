@@ -1,14 +1,14 @@
 ---
 title: RawTextSize
 second_title: Aspose.PUB for .NET API 参考
-description: PUB 指标中的文本大小在 EMU 中
+description: PUB 指标中的文本大小以 EMU 为单位
 type: docs
 weight: 130
 url: /zh/net/aspose.pub/textstyle/rawtextsize/
 ---
 ## TextStyle.RawTextSize property
 
-PUB 指标中的文本大小（在 EMU 中）
+PUB 指标中的文本大小（以 EMU 为单位）
 
 ```csharp
 public int RawTextSize { get; }

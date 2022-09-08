@@ -1,7 +1,7 @@
 ---
 title: XRight
 second_title: Справочник по Aspose.PUB для .NET API
-description: X-координата нижнего правого угла в электропоездах
+description: Xкоордината нижнего правого угла в электропоездах
 type: docs
 weight: 30
 url: /ru/net/aspose.pub.utils/coord/xright/

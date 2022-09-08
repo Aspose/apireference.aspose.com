@@ -1,14 +1,14 @@
 ---
 title: SetScaleValue
 second_title: Справочник по Aspose.PUB для .NET API
-description: Устанавливает значение масштаба
+description: Устанавливает значение scale
 type: docs
 weight: 300
 url: /ru/net/aspose.pub/textstyle/setscalevalue/
 ---
 ## TextStyle.SetScaleValue method
 
-Устанавливает значение масштаба
+Устанавливает значение scale
 
 ```csharp
 public void SetScaleValue(double value)
@@ -16,7 +16,7 @@ public void SetScaleValue(double value)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| value | Double | Значение масштаба |
+| value | Double | Значение шкалы |
 
 ### Смотрите также
 

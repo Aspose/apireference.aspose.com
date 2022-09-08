@@ -1,14 +1,14 @@
 ---
 title: SetIsShadow
 second_title: Справочник по Aspose.PUB для .NET API
-description: Наборы затенены текстом
+description: Устанавливает затененный текст
 type: docs
 weight: 260
 url: /ru/net/aspose.pub/textstyle/setisshadow/
 ---
 ## TextStyle.SetIsShadow method
 
-Наборы затенены текстом
+Устанавливает затененный текст
 
 ```csharp
 public void SetIsShadow(bool value)
@@ -16,7 +16,7 @@ public void SetIsShadow(bool value)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| value | Boolean | Затенены текстом |
+| value | Boolean | Затененное значение текста |
 
 ### Смотрите также
 

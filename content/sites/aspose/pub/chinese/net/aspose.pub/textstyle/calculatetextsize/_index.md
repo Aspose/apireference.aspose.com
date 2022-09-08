@@ -1,14 +1,14 @@
 ---
 title: CalculateTextSize
 second_title: Aspose.PUB for .NET API 参考
-description: 以磅为单位计算文本大小
+description: 以点为单位计算文本大小
 type: docs
 weight: 170
 url: /zh/net/aspose.pub/textstyle/calculatetextsize/
 ---
 ## TextStyle.CalculateTextSize method
 
-以磅为单位计算文本大小
+以点为单位计算文本大小
 
 ```csharp
 public double CalculateTextSize()
@@ -16,7 +16,7 @@ public double CalculateTextSize()
 
 ### 返回值
 
-以磅为单位的文本大小
+以点为单位的文本大小
 
 ### 也可以看看
 

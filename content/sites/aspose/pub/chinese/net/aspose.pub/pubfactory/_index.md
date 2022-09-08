@@ -1,14 +1,14 @@
 ---
 title: PubFactory
 second_title: Aspose.PUB for .NET API 参考
-description: PUB 对象工厂
+description: PUB 对象的工厂
 type: docs
 weight: 150
 url: /zh/net/aspose.pub/pubfactory/
 ---
 ## PubFactory class
 
-PUB 对象工厂
+PUB 对象的工厂
 
 ```csharp
 public static class PubFactory

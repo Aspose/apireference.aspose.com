@@ -1,14 +1,14 @@
 ---
 title: IsOrderedList
 second_title: Справочник по Aspose.PUB для .NET API
-description: Список упорядоченных по абзацам
+description: Абзац упорядочен list
 type: docs
 weight: 70
 url: /ru/net/aspose.pub/paragraphstyle/isorderedlist/
 ---
 ## ParagraphStyle.IsOrderedList property
 
-Список упорядоченных по абзацам
+Абзац упорядочен list
 
 ```csharp
 public bool IsOrderedList { get; }

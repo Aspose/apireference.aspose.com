@@ -16,7 +16,7 @@ public void SetCategory(string value)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| value | String | категорию |
+| value | String | категория |
 
 ### Смотрите также
 

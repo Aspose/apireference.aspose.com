@@ -27,40 +27,40 @@ public class TextStyle : BaseStyle
 | [ColorIndex](../../aspose.pub/textstyle/colorindex) { get; } | 获取 Document.Colors 数组中的颜色索引 |
 | [FontIndex](../../aspose.pub/textstyle/fontindex) { get; } | 获取 Document.FontNames 数组中字体名称的索引 |
 | [IsAllCapsMode](../../aspose.pub/textstyle/isallcapsmode) { get; } | 是否启用全大写模式 |
-| [IsBold](../../aspose.pub/textstyle/isbold) { get; } | 是粗体 |
+| [IsBold](../../aspose.pub/textstyle/isbold) { get; } | 是粗体字 |
 | [IsEmboss](../../aspose.pub/textstyle/isemboss) { get; } | 是文字浮雕 |
-| [IsEmpty](../../aspose.pub/basestyle/isempty) { get; } | 样式是否未初始化 |
-| [IsEngrave](../../aspose.pub/textstyle/isengrave) { get; } | 是否刻字 |
-| [IsItalic](../../aspose.pub/textstyle/isitalic) { get; } | 是斜体 |
-| [IsOutline](../../aspose.pub/textstyle/isoutline) { get; } | 是文本概述 |
-| [IsShadow](../../aspose.pub/textstyle/isshadow) { get; } | 文本是否有阴影 |
-| [IsSmallCapsMode](../../aspose.pub/textstyle/issmallcapsmode) { get; } | 是否启用了小型大写模式 |
-| [Locale](../../aspose.pub/textstyle/locale) { get; } | 语言环境标识符 |
-| [RawTextSize](../../aspose.pub/textstyle/rawtextsize) { get; } | PUB 指标中的文本大小（在 EMU 中） |
+| [IsEmpty](../../aspose.pub/basestyle/isempty) { get; } | 样式未初始化 |
+| [IsEngrave](../../aspose.pub/textstyle/isengrave) { get; } | 是否刻有文字 |
+| [IsItalic](../../aspose.pub/textstyle/isitalic) { get; } | 是斜体文本 |
+| [IsOutline](../../aspose.pub/textstyle/isoutline) { get; } | 是文字概述 |
+| [IsShadow](../../aspose.pub/textstyle/isshadow) { get; } | 文本是否被遮蔽 |
+| [IsSmallCapsMode](../../aspose.pub/textstyle/issmallcapsmode) { get; } | 是否启用小型大写模式 |
+| [Locale](../../aspose.pub/textstyle/locale) { get; } | 区域设置标识符 |
+| [RawTextSize](../../aspose.pub/textstyle/rawtextsize) { get; } | PUB 指标中的文本大小（以 EMU 为单位） |
 | [ScaleValue](../../aspose.pub/textstyle/scalevalue) { get; } | 刻度值 |
 | [SuperscriptType](../../aspose.pub/textstyle/superscripttype) { get; } | 上标类型 |
-| [UnderlineType](../../aspose.pub/textstyle/underlinetype) { get; } | 文本的下划线类型 |
+| [UnderlineType](../../aspose.pub/textstyle/underlinetype) { get; } | text 的下划线类型 |
 
 ## 方法
 
 | 姓名 | 描述 |
 | --- | --- |
-| [CalculateTextSize](../../aspose.pub/textstyle/calculatetextsize)() | 以磅为单位计算文本大小 |
+| [CalculateTextSize](../../aspose.pub/textstyle/calculatetextsize)() | 以点为单位计算文本大小 |
 | [SetColorIndex](../../aspose.pub/textstyle/setcolorindex)(int) | 在 Document.Colors 数组中设置颜色索引 |
 | [SetFontIndex](../../aspose.pub/textstyle/setfontindex)(int) | 在 Document.FontNames 数组中设置字体名称的索引 |
-| [SetIsAllCapsMode](../../aspose.pub/textstyle/setisallcapsmode)(bool) | 启用/禁用文本的全部大写模式 |
-| [SetIsBold](../../aspose.pub/textstyle/setisbold)(bool) | 设置为粗体 |
-| [SetIsEmboss](../../aspose.pub/textstyle/setisemboss)(bool) | 设置是文字浮雕 |
-| [SetIsEngrave](../../aspose.pub/textstyle/setisengrave)(bool) | Sets 是文字雕刻 |
+| [SetIsAllCapsMode](../../aspose.pub/textstyle/setisallcapsmode)(bool) | 启用/禁用 text 的所有大写模式 |
+| [SetIsBold](../../aspose.pub/textstyle/setisbold)(bool) | 设置为粗体字 |
+| [SetIsEmboss](../../aspose.pub/textstyle/setisemboss)(bool) | 设置为文字浮雕 |
+| [SetIsEngrave](../../aspose.pub/textstyle/setisengrave)(bool) | 集是文字雕刻 |
 | [SetIsItalic](../../aspose.pub/textstyle/setisitalic)(bool) | 设置为斜体文本 |
-| [SetIsOutline](../../aspose.pub/textstyle/setisoutline)(bool) | 设置为文本轮廓 |
-| [SetIsShadow](../../aspose.pub/textstyle/setisshadow)(bool) | 设置文本阴影 |
-| [SetIsSmallCapsMode](../../aspose.pub/textstyle/setissmallcapsmode)(bool) | 启用/禁用文本的小型大写模式 |
-| [SetLocale](../../aspose.pub/textstyle/setlocale)(int) | 设置区域标识符 |
+| [SetIsOutline](../../aspose.pub/textstyle/setisoutline)(bool) | 设置为文字概述 |
+| [SetIsShadow](../../aspose.pub/textstyle/setisshadow)(bool) | 设置为文本阴影 |
+| [SetIsSmallCapsMode](../../aspose.pub/textstyle/setissmallcapsmode)(bool) | 启用/禁用 text 的小型大写字母模式 |
+| [SetLocale](../../aspose.pub/textstyle/setlocale)(int) | 设置语言环境标识符 |
 | [SetRawTextSize](../../aspose.pub/textstyle/setrawtextsize)(int) | 设置 PUB 指标中的文本大小（在 EMU 中） |
-| [SetScaleValue](../../aspose.pub/textstyle/setscalevalue)(double) | 设置比例值 |
+| [SetScaleValue](../../aspose.pub/textstyle/setscalevalue)(double) | 设置 scale 的值 |
 | [SetSuperscriptType](../../aspose.pub/textstyle/setsuperscripttype)(SuperscriptType) | 设置上标的类型 |
-| [SetUnderlineType](../../aspose.pub/textstyle/setunderlinetype)(UnderlineType) | 设置文本的下划线类型 |
+| [SetUnderlineType](../../aspose.pub/textstyle/setunderlinetype)(UnderlineType) | 为 text 设置下划线类型 |
 
 ### 也可以看看
 

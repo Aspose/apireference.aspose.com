@@ -1,14 +1,14 @@
 ---
 title: SetIsOrderedList
 second_title: Справочник по Aspose.PUB для .NET API
-description: Устанавливает является ли абзац упорядоченным списком
+description: Устанавливает упорядочен ли абзац list
 type: docs
 weight: 190
 url: /ru/net/aspose.pub/paragraphstyle/setisorderedlist/
 ---
 ## ParagraphStyle.SetIsOrderedList method
 
-Устанавливает, является ли абзац упорядоченным списком
+Устанавливает, упорядочен ли абзац list
 
 ```csharp
 public void SetIsOrderedList(bool value)
@@ -16,7 +16,7 @@ public void SetIsOrderedList(bool value)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| value | Boolean | Является ли значение упорядоченного списка |
+| value | Boolean | Значение упорядоченного списка |
 
 ### Смотрите также
 

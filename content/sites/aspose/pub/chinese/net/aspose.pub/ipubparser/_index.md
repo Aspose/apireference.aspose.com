@@ -1,14 +1,14 @@
 ---
 title: IPubParser
 second_title: Aspose.PUB for .NET API 参考
-description: 声明解析发布者文件并返回Document./documentobject 作为解析结果的功能.
+description: 声明解析发布者文件并返回的功能Document./document对象 作为解析的结果
 type: docs
 weight: 100
 url: /zh/net/aspose.pub/ipubparser/
 ---
 ## IPubParser interface
 
-声明解析发布者文件并返回[`Document`](../document)object 作为解析结果的功能.
+声明解析发布者文件并返回的功能[`Document`](../document)对象 作为解析的结果。
 
 ```csharp
 public interface IPubParser
@@ -18,7 +18,7 @@ public interface IPubParser
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Parse](../../aspose.pub/ipubparser/parse)() | 解析发布者文件并返回[`Document`](../document)对象作为解析结果。 |
+| [Parse](../../aspose.pub/ipubparser/parse)() | 解析发布者文件并返回[`Document`](../document)作为解析结果的对象。 |
 
 ### 也可以看看
 

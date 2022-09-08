@@ -19,7 +19,7 @@ public enum SuperscriptType : byte
 | Имя | Ценность | Описание |
 | --- | --- | --- |
 | NoSuperSubScript | `0` | NoSuperSubScript |
-| Superscript | `1` | Верхний индекс |
+| Superscript | `1` | Верхний индекс type |
 | Subscript | `2` | Тип индекса |
 
 ### Смотрите также

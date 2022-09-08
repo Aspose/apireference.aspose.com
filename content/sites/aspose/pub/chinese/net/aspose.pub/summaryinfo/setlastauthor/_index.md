@@ -16,7 +16,7 @@ public void SetLastAuthor(string value)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| value | String | 的最后作者文件 |
+| value | String | 文件的最后作者 |
 
 ### 也可以看看
 

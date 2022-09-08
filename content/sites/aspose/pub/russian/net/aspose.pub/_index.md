@@ -1,12 +1,12 @@
 ---
 title: Aspose.Pub
 second_title: Справочник по Aspose.PUB для .NET API
-description: Пространство имен Aspose.Pub предоставляет классы описывающие объекты PUB.
+description: Aspose.Pubnamespace предоставляет классы описывающие объекты PUB.
 type: docs
 weight: 10
 url: /ru/net/aspose.pub/
 ---
-Пространство имен **Aspose.Pub** предоставляет классы, описывающие объекты PUB.
+**Aspose.Pub**namespace предоставляет классы, описывающие объекты PUB.
 
 ## Классы
 
@@ -14,22 +14,22 @@ url: /ru/net/aspose.pub/
 | --- | --- |
 | [BaseStyle](./basestyle) | Объявляет базовую функциональность для стилей PUB |
 | [BuildVersionInfo](./buildversioninfo) | Этот класс предоставляет информацию о текущей сборке продукта. |
-| [DocSummaryInfo](./docsummaryinfo) | Сводная информация о документе |
+| [DocSummaryInfo](./docsummaryinfo) | Сводка документа info |
 | [Document](./document) | Представляет документ PUB, содержит все поля и соответствующие значения |
-| [License](./license) | Предоставляет методы для лицензирования компонента. |
-| [MetaInfo](./metainfo) | Базовый класс для объектов сводной информации |
-| [ParagraphStyle](./paragraphstyle) | Этот класс описывает стиль параграфа PUB |
-| [PubFactory](./pubfactory) | Фабрика объектов PUB |
-| [SummaryInfo](./summaryinfo) | Общая информация |
+| [License](./license) | Предоставляет методы лицензирования компонента. |
+| [MetaInfo](./metainfo) | Базовый класс для сводных информационных объектов |
+| [ParagraphStyle](./paragraphstyle) | Этот класс описывает стиль абзаца PUB |
+| [PubFactory](./pubfactory) | Фабрика для объектов PUB |
+| [SummaryInfo](./summaryinfo) | Сводная информация |
 | [TextGroup](./textgroup) | Текстовая группа |
 | [TextParagraph](./textparagraph) | Представляет абзац текста PUB |
-| [TextStyle](./textstyle) | Описывает стиль текста PUB |
+| [TextStyle](./textstyle) | Описывает текстовый стиль PUB |
 ## Интерфейсы
 
 | Интерфейс | Описание |
 | --- | --- |
-| [IPdfConverter](./ipdfconverter) | Декларирует функциональность для преобразования документа PUB в документ PDF |
-| [IPubParser](./ipubparser) | Объявляет функциональность, которая анализирует файл издателя и возвращает[`Document`](../aspose.pub/document)объект в результате анализа . |
+| [IPdfConverter](./ipdfconverter) | Декларирует функциональность для преобразования документа PUB в PDF document |
+| [IPubParser](./ipubparser) | Объявляет функциональность, которая анализирует файл публикации и возвращает[`Document`](../aspose.pub/document) объект в результате синтаксического анализа. |
 ## перечисление
 
 | перечисление | Описание |

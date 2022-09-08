@@ -1,14 +1,14 @@
 ---
 title: IsSmallCapsMode
 second_title: Aspose.PUB for .NET API 参考
-description: 是否启用了小型大写模式
+description: 是否启用小型大写模式
 type: docs
 weight: 110
 url: /zh/net/aspose.pub/textstyle/issmallcapsmode/
 ---
 ## TextStyle.IsSmallCapsMode property
 
-是否启用了小型大写模式
+是否启用小型大写模式
 
 ```csharp
 public bool IsSmallCapsMode { get; }

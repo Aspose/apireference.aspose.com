@@ -1,14 +1,14 @@
 ---
 title: Style
 second_title: Aspose.PUB for .NET API 参考
-description: 文本组样式
+description: 文本组的样式
 type: docs
 weight: 20
 url: /zh/net/aspose.pub/textgroup/style/
 ---
 ## TextGroup.Style property
 
-文本组样式
+文本组的样式
 
 ```csharp
 public TextStyle Style { get; }

@@ -1,14 +1,14 @@
 ---
 title: DocSecurity
 second_title: Aspose.PUB for .NET API 参考
-description: 文档安全 ID 文档安全 ID 是一个 32 位有符号整数表示一组应用程序建议的 具有以下值的访问控制标志 0x00000001密码保护 0x00000002推荐只读 0x00000004强制只读 0x00000008锁定注释
+description: 文档安全 ID 文档安全 ID 是一个 32 位有符号整数表示一组应用程序建议的 访问控制标志具有以下值 0x00000001受密码保护 0x00000002只读推荐 0x00000000000000000000004只读 为 annotations 锁定
 type: docs
 weight: 60
 url: /zh/net/aspose.pub/summaryinfo/docsecurity/
 ---
 ## SummaryInfo.DocSecurity property
 
-文档安全 ID 文档安全 ID 是一个 32 位有符号整数，表示一组应用程序建议的 具有以下值的访问控制标志: 0x00000001:密码保护 0x00000002:推荐只读 0x00000004:强制只读 0x00000008:锁定注释
+文档安全 ID 文档安全 ID 是一个 32 位有符号整数，表示一组应用程序建议的 访问控制标志，具有以下值： 0x00000001：受密码保护 0x00000002：只读推荐 0x00000000000000000000004：只读: 为 annotations 锁定
 
 ```csharp
 public int DocSecurity { get; }

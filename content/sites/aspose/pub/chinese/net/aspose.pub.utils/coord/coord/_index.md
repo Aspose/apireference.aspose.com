@@ -32,10 +32,10 @@ public Coord(int xLeft, int yTop, int xRight, int yBottom)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| xLeft | Int32 | 左上角的 X 坐标动车组 |
-| yTop | Int32 | 动车组左上角 Y 坐标 |
-| xRight | Int32 | X 坐标动车组右下角 |
-| yBottom | Int32 | 动车组右下角 Y 坐标 |
+| xLeft | Int32 | 动车组左上角的 X 坐标 |
+| yTop | Int32 | 动车组左上角的 Y 坐标 |
+| xRight | Int32 | 动车组右下角的 X 坐标 |
+| yBottom | Int32 | 动车组右下角的 Y 坐标 |
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: SetUnderlineType
 second_title: Справочник по Aspose.PUB для .NET API
-description: Устанавливает тип подчеркивания для текста
+description: Устанавливает тип подчеркивания для text
 type: docs
 weight: 320
 url: /ru/net/aspose.pub/textstyle/setunderlinetype/
 ---
 ## TextStyle.SetUnderlineType method
 
-Устанавливает тип подчеркивания для текста
+Устанавливает тип подчеркивания для text
 
 ```csharp
 public void SetUnderlineType(UnderlineType value)

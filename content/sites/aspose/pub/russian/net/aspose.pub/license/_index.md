@@ -1,14 +1,14 @@
 ---
 title: License
 second_title: Справочник по Aspose.PUB для .NET API
-description: Предоставляет методы для лицензирования компонента.
+description: Предоставляет методы лицензирования компонента.
 type: docs
 weight: 110
 url: /ru/net/aspose.pub/license/
 ---
 ## License class
 
-Предоставляет методы для лицензирования компонента.
+Предоставляет методы лицензирования компонента.
 
 ```csharp
 public class License

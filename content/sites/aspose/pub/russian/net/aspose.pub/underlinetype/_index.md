@@ -22,18 +22,18 @@ public enum UnderlineType : byte
 | Single | `1` | Одна строка |
 | WordsOnly | `2` | Только слова |
 | Double | `3` | Тип двойного подчеркивания |
-| Dotted | `4` | Тип подчеркивания с точкой |
-| Thick | `6` | Толстое подчеркивание |
+| Dotted | `4` | Тип подчеркивания с точками |
+| Thick | `6` | Толстый тип подчеркивания |
 | Dash | `7` | Тип подчеркивания тире |
-| DotDash | `9` | Тип подчеркивания точка-тире |
+| DotDash | `9` | Тип подчеркивания тире |
 | DotDotDash | `10` | Тип подчеркивания DotDotDash |
 | Wave | `11` | Тип подчеркивания волны |
 | ThickWave | `16` | Тип подчеркивания ThickWave |
 | ThickDot | `17` | Тип подчеркивания ThickDot |
-| ThickDash | `18` | Подчеркивание жирным тире |
-| ThickDotDash | `19` | Тип подчеркивания ThickDotDash |
+| ThickDash | `18` | Тип подчеркивания жирным тире |
+| ThickDotDash | `19` | Подчеркивание жирным тире |
 | ThickDotDotDash | `20` | Тип подчеркивания ThickDotDotDash |
-| LongDash | `21` | Тип подчеркивания LongDash |
+| LongDash | `21` | Тип подчеркивания длинного тире |
 | ThickLongDash | `22` | Тип подчеркивания ThickLongDash |
 | DoubleWave | `23` | Тип подчеркивания DoubleWave |
 

@@ -18,7 +18,7 @@ public abstract class BaseStyle
 
 | 姓名 | 描述 |
 | --- | --- |
-| [IsEmpty](../../aspose.pub/basestyle/isempty) { get; } | 样式是否未初始化 |
+| [IsEmpty](../../aspose.pub/basestyle/isempty) { get; } | 样式未初始化 |
 
 ### 也可以看看
 

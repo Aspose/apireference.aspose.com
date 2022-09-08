@@ -1,14 +1,14 @@
 ---
 title: MetaInfo
 second_title: Справочник по Aspose.PUB для .NET API
-description: Базовый класс для объектов сводной информации
+description: Базовый класс для сводных информационных объектов
 type: docs
 weight: 130
 url: /ru/net/aspose.pub/metainfo/
 ---
 ## MetaInfo class
 
-Базовый класс для объектов сводной информации
+Базовый класс для сводных информационных объектов
 
 ```csharp
 public class MetaInfo
@@ -27,7 +27,7 @@ public class MetaInfo
 | [Clsid](../../aspose.pub/metainfo/clsid) { get; } | Идентификатор CLSID |
 | [CodePage](../../aspose.pub/metainfo/codepage) { get; } | Идентификатор кодовой страницы |
 | [FMTID](../../aspose.pub/metainfo/fmtid) { get; } | Идентификатор FMTID |
-| [IsLittleEndian](../../aspose.pub/metainfo/islittleendian) { get; } | С прямым порядком байтов |
+| [IsLittleEndian](../../aspose.pub/metainfo/islittleendian) { get; } | Маленький порядок байтов |
 | [Locale](../../aspose.pub/metainfo/locale) { get; } | Идентификатор локали |
 | [PropsCount](../../aspose.pub/metainfo/propscount) { get; } | Количество свойств |
 | [PropsIdentifiers](../../aspose.pub/metainfo/propsidentifiers) { get; } | Идентификаторы свойств |

@@ -1,14 +1,14 @@
 ---
 title: UserDefinedProperties
 second_title: Aspose.PUB for .NET API 参考
-description: 用户定义属性
+description: 用户定义的属性
 type: docs
 weight: 50
 url: /zh/net/aspose.pub/docsummaryinfo/userdefinedproperties/
 ---
 ## DocSummaryInfo.UserDefinedProperties property
 
-用户定义属性
+用户定义的属性
 
 ```csharp
 public MetaInfo UserDefinedProperties { get; }

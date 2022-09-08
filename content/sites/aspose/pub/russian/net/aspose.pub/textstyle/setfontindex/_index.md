@@ -1,14 +1,14 @@
 ---
 title: SetFontIndex
 second_title: Справочник по Aspose.PUB для .NET API
-description: Устанавливает индекс имени шрифта в массиве Document.FontNames
+description: Устанавливает индекс имени шрифта в Document.FontNames array
 type: docs
 weight: 190
 url: /ru/net/aspose.pub/textstyle/setfontindex/
 ---
 ## TextStyle.SetFontIndex method
 
-Устанавливает индекс имени шрифта в массиве Document.FontNames
+Устанавливает индекс имени шрифта в Document.FontNames array
 
 ```csharp
 public void SetFontIndex(int value)

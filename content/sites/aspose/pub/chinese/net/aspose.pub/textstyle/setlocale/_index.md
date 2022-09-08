@@ -1,14 +1,14 @@
 ---
 title: SetLocale
 second_title: Aspose.PUB for .NET API 参考
-description: 设置区域标识符
+description: 设置语言环境标识符
 type: docs
 weight: 280
 url: /zh/net/aspose.pub/textstyle/setlocale/
 ---
 ## TextStyle.SetLocale method
 
-设置区域标识符
+设置语言环境标识符
 
 ```csharp
 public void SetLocale(int value)
@@ -16,7 +16,7 @@ public void SetLocale(int value)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| value | Int32 | 区域标识符 |
+| value | Int32 | 语言环境标识符 |
 
 ### 也可以看看
 

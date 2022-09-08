@@ -1,14 +1,14 @@
 ---
 title: SetDefaultStyleIndex
 second_title: Aspose.PUB for .NET API 参考
-description: 在 Document.DefaultTextStyles 数组中设置默认文本样式的索引
+description: 为 Document.DefaultTextStyles 数组中的默认文本样式设置索引
 type: docs
 weight: 160
 url: /zh/net/aspose.pub/paragraphstyle/setdefaultstyleindex/
 ---
 ## ParagraphStyle.SetDefaultStyleIndex method
 
-在 Document.DefaultTextStyles 数组中设置默认文本样式的索引
+为 Document.DefaultTextStyles 数组中的默认文本样式设置索引
 
 ```csharp
 public void SetDefaultStyleIndex(int value)

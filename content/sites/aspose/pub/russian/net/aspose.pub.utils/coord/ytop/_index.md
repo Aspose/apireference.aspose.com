@@ -1,7 +1,7 @@
 ---
 title: YTop
 second_title: Справочник по Aspose.PUB для .NET API
-description: Y-координата левого верхнего угла в электропоездах
+description: Yкоордината левого верхнего угла в электропоездах
 type: docs
 weight: 50
 url: /ru/net/aspose.pub.utils/coord/ytop/

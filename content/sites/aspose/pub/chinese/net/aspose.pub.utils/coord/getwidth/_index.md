@@ -1,14 +1,14 @@
 ---
 title: GetWidth
 second_title: Aspose.PUB for .NET API 参考
-description: 在自然 PUB 度量中返回当前 Coord 对象的宽度
+description: 在自然 PUB 指标中返回当前 Coord 对象的宽度
 type: docs
 weight: 120
 url: /zh/net/aspose.pub.utils/coord/getwidth/
 ---
 ## Coord.GetWidth method
 
-在自然 PUB 度量中返回当前 Coord 对象的宽度
+在自然 PUB 指标中返回当前 Coord 对象的宽度
 
 ```csharp
 public int GetWidth()
@@ -16,7 +16,7 @@ public int GetWidth()
 
 ### 返回值
 
-宽度 in自然 PUB 指标
+自然 PUB 度量中的宽度
 
 ### 也可以看看
 

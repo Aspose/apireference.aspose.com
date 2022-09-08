@@ -1,14 +1,14 @@
 ---
 title: SetColorIndex
 second_title: Справочник по Aspose.PUB для .NET API
-description: Устанавливает индекс цвета в массиве Document.Colors
+description: Устанавливает индекс цвета в Document.Colors array
 type: docs
 weight: 180
 url: /ru/net/aspose.pub/textstyle/setcolorindex/
 ---
 ## TextStyle.SetColorIndex method
 
-Устанавливает индекс цвета в массиве Document.Colors
+Устанавливает индекс цвета в Document.Colors array
 
 ```csharp
 public void SetColorIndex(int value)
@@ -16,7 +16,7 @@ public void SetColorIndex(int value)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| value | Int32 | Значение индекса цвета |
+| value | Int32 | Значение цветового показателя |
 
 ### Смотрите также
 

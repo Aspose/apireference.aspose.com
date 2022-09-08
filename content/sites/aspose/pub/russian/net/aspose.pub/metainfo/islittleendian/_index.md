@@ -1,14 +1,14 @@
 ---
 title: IsLittleEndian
 second_title: Справочник по Aspose.PUB для .NET API
-description: С прямым порядком байтов
+description: Маленький порядок байтов
 type: docs
 weight: 50
 url: /ru/net/aspose.pub/metainfo/islittleendian/
 ---
 ## MetaInfo.IsLittleEndian property
 
-С прямым порядком байтов
+Маленький порядок байтов
 
 ```csharp
 public bool IsLittleEndian { get; }

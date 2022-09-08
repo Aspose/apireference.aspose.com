@@ -1,14 +1,14 @@
 ---
 title: SetUnderlineType
 second_title: Aspose.PUB for .NET API 参考
-description: 设置文本的下划线类型
+description: 为 text 设置下划线类型
 type: docs
 weight: 320
 url: /zh/net/aspose.pub/textstyle/setunderlinetype/
 ---
 ## TextStyle.SetUnderlineType method
 
-设置文本的下划线类型
+为 text 设置下划线类型
 
 ```csharp
 public void SetUnderlineType(UnderlineType value)

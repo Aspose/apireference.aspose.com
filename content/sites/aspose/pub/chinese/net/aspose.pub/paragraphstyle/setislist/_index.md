@@ -16,7 +16,7 @@ public void SetIsList(bool value)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| value | Boolean | 为列表值 |
+| value | Boolean | 是列表值 |
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: GetProperty
 second_title: Aspose.PUB for .NET API 参考
-description: 通过传递的 ID 获取属性
+description: 通过 ID 获取属性
 type: docs
 weight: 120
 url: /zh/net/aspose.pub/metainfo/getproperty/
 ---
 ## MetaInfo.GetProperty method
 
-通过传递的 ID 获取属性
+通过 ID 获取属性
 
 ```csharp
 public object GetProperty(uint id)
@@ -20,7 +20,7 @@ public object GetProperty(uint id)
 
 ### 返回值
 
-属性值
+适当的价值
 
 ### 也可以看看
 

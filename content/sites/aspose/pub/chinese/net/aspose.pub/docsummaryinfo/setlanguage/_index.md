@@ -16,7 +16,7 @@ public void SetLanguage(string value)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| value | String | 语言 |
+| value | String | 语 |
 
 ### 也可以看看
 

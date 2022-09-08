@@ -16,7 +16,7 @@ public void SetLineSpacingType(LineSpacingType value)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| value | LineSpacingType | 行距类型值 |
+| value | LineSpacingType | 行距类型的值 |
 
 ### 也可以看看
 

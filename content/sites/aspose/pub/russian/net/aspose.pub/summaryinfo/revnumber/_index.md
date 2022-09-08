@@ -1,14 +1,14 @@
 ---
 title: RevNumber
 second_title: Справочник по Aspose.PUB для .NET API
-description: Номер редакции для данной версии документа
+description: Номер редакции данного приложения для данной версии документа
 type: docs
 weight: 100
 url: /ru/net/aspose.pub/summaryinfo/revnumber/
 ---
 ## SummaryInfo.RevNumber property
 
-Номер редакции для данной версии документа
+Номер редакции данного приложения для данной версии документа
 
 ```csharp
 public string RevNumber { get; }

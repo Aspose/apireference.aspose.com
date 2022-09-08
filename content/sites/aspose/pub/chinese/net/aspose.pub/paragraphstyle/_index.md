@@ -1,14 +1,14 @@
 ---
 title: ParagraphStyle
 second_title: Aspose.PUB for .NET API 参考
-description: 此类描述 PUB 段落的样式
+description: 这个类描述了PUB段落的样式
 type: docs
 weight: 140
 url: /zh/net/aspose.pub/paragraphstyle/
 ---
 ## ParagraphStyle class
 
-此类描述 PUB 段落的样式
+这个类描述了PUB段落的样式
 
 ```csharp
 public class ParagraphStyle : BaseStyle
@@ -28,7 +28,7 @@ public class ParagraphStyle : BaseStyle
 | [BottomIndent](../../aspose.pub/paragraphstyle/bottomindent) { get; } | 底部缩进 |
 | [DefaultStyleIndex](../../aspose.pub/paragraphstyle/defaultstyleindex) { get; } | Document.DefaultTextStyles 数组中默认文本样式的索引 |
 | [FirstLineIndent](../../aspose.pub/paragraphstyle/firstlineindent) { get; } | 第一行缩进 |
-| [IsEmpty](../../aspose.pub/basestyle/isempty) { get; } | 样式是否未初始化 |
+| [IsEmpty](../../aspose.pub/basestyle/isempty) { get; } | 样式未初始化 |
 | [IsList](../../aspose.pub/paragraphstyle/islist) { get; } | 是列表段落 |
 | [IsOrderedList](../../aspose.pub/paragraphstyle/isorderedlist) { get; } | 是段落有序列表 |
 | [LeftIndent](../../aspose.pub/paragraphstyle/leftindent) { get; } | 左缩进 |
@@ -44,10 +44,10 @@ public class ParagraphStyle : BaseStyle
 | --- | --- |
 | [SetAlignmentType](../../aspose.pub/paragraphstyle/setalignmenttype)(AlignmentType) | 设置对齐类型 |
 | [SetBottomIndent](../../aspose.pub/paragraphstyle/setbottomindent)(int) | 设置底部缩进 |
-| [SetDefaultStyleIndex](../../aspose.pub/paragraphstyle/setdefaultstyleindex)(int) | 在 Document.DefaultTextStyles 数组中设置默认文本样式的索引 |
-| [SetFirstLineIndent](../../aspose.pub/paragraphstyle/setfirstlineindent)(int) | 设置首行缩进 |
+| [SetDefaultStyleIndex](../../aspose.pub/paragraphstyle/setdefaultstyleindex)(int) | 为 Document.DefaultTextStyles 数组中的默认文本样式设置索引 |
+| [SetFirstLineIndent](../../aspose.pub/paragraphstyle/setfirstlineindent)(int) | 设置第一行缩进 |
 | [SetIsList](../../aspose.pub/paragraphstyle/setislist)(bool) | 设置为段落列表 |
-| [SetIsOrderedList](../../aspose.pub/paragraphstyle/setisorderedlist)(bool) | 设置段落是否为有序列表 |
+| [SetIsOrderedList](../../aspose.pub/paragraphstyle/setisorderedlist)(bool) | 设置段落是否有序 list |
 | [SetLeftIndent](../../aspose.pub/paragraphstyle/setleftindent)(int) | 设置左缩进 |
 | [SetLineSpacingType](../../aspose.pub/paragraphstyle/setlinespacingtype)(LineSpacingType) | 设置行距类型 |
 | [SetLineSpacingValue](../../aspose.pub/paragraphstyle/setlinespacingvalue)(double) | 设置行距值 |

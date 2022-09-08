@@ -16,7 +16,7 @@ public void AddDefaultTextStyle(TextStyle value)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| value | TextStyle | 文本样式 |
+| value | TextStyle | 文字样式 |
 
 ### 也可以看看
 

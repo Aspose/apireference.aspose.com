@@ -1,14 +1,14 @@
 ---
 title: ColorIndex
 second_title: Справочник по Aspose.PUB для .NET API
-description: Получает индекс цвета в массиве Document.Colors
+description: Получает индекс цвета в Document.Colors array
 type: docs
 weight: 20
 url: /ru/net/aspose.pub/textstyle/colorindex/
 ---
 ## TextStyle.ColorIndex property
 
-Получает индекс цвета в массиве Document.Colors
+Получает индекс цвета в Document.Colors array
 
 ```csharp
 public int ColorIndex { get; }

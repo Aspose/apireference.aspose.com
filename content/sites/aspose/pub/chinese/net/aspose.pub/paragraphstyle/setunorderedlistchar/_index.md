@@ -16,7 +16,7 @@ public void SetUnorderedListChar(char value)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| value | Char | 无序列表字符值 |
+| value | Char | 无序列表 char 值 |
 
 ### 也可以看看
 

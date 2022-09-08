@@ -16,8 +16,8 @@ public TextGroup(string text, TextStyle style)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| text | String | 组中的文本 |
-| style | TextStyle | 组样式 |
+| text | String | 组内文字 |
+| style | TextStyle | 团体风格 |
 
 ### 也可以看看
 
