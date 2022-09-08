@@ -1,14 +1,14 @@
 ---
 title: IsEngrave
 second_title: Aspose.PUB for .NET API 参考
-description: 是否刻字
+description: 是否刻有文字
 type: docs
 weight: 70
 url: /zh/net/aspose.pub/textstyle/isengrave/
 ---
 ## TextStyle.IsEngrave property
 
-是否刻字
+是否刻有文字
 
 ```csharp
 public bool IsEngrave { get; }

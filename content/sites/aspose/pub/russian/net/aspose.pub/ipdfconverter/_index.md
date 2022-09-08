@@ -1,14 +1,14 @@
 ---
 title: IPdfConverter
 second_title: Справочник по Aspose.PUB для .NET API
-description: Декларирует функциональность для преобразования документа PUB в документ PDF
+description: Декларирует функциональность для преобразования документа PUB в PDF document
 type: docs
 weight: 90
 url: /ru/net/aspose.pub/ipdfconverter/
 ---
 ## IPdfConverter interface
 
-Декларирует функциональность для преобразования документа PUB в документ PDF
+Декларирует функциональность для преобразования документа PUB в PDF document
 
 ```csharp
 public interface IPdfConverter
@@ -19,7 +19,7 @@ public interface IPdfConverter
 | Имя | Описание |
 | --- | --- |
 | [ConvertToPdf](../../aspose.pub/ipdfconverter/converttopdf#converttopdf)(Document, Stream) | Преобразует документ PUB в формат PDF и сохраняет результат в переданном потоке |
-| [ConvertToPdf](../../aspose.pub/ipdfconverter/converttopdf#converttopdf_1)(Document, string) | Преобразует документ PUB в формат PDF и сохраняет результат как файл PDF |
+| [ConvertToPdf](../../aspose.pub/ipdfconverter/converttopdf#converttopdf_1)(Document, string) | Преобразует документ PUB в формат PDF и сохраняет результат в виде файла PDF |
 
 ### Смотрите также
 

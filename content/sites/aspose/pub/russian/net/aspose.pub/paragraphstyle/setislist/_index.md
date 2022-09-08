@@ -1,14 +1,14 @@
 ---
 title: SetIsList
 second_title: Справочник по Aspose.PUB для .NET API
-description: Устанавливает список абзацев
+description: Устанавливает абзац list
 type: docs
 weight: 180
 url: /ru/net/aspose.pub/paragraphstyle/setislist/
 ---
 ## ParagraphStyle.SetIsList method
 
-Устанавливает список абзацев
+Устанавливает абзац list
 
 ```csharp
 public void SetIsList(bool value)
@@ -16,7 +16,7 @@ public void SetIsList(bool value)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| value | Boolean | Является значением списка |
+| value | Boolean | Список значений |
 
 ### Смотрите также
 

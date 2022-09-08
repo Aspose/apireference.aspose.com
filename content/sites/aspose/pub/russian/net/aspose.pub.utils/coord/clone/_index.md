@@ -1,14 +1,14 @@
 ---
 title: Clone
 second_title: Справочник по Aspose.PUB для .NET API
-description: Создана копия объекта
+description: Создана копия object
 type: docs
 weight: 100
 url: /ru/net/aspose.pub.utils/coord/clone/
 ---
 ## Coord.Clone method
 
-Создана копия объекта
+Создана копия object
 
 ```csharp
 public object Clone()

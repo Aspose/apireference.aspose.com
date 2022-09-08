@@ -1,14 +1,14 @@
 ---
 title: SetIsAllCapsMode
 second_title: Справочник по Aspose.PUB для .NET API
-description: Включает/отключает режим всех заглавных букв для текста
+description: Включает/отключает режим всех заглавных букв для text
 type: docs
 weight: 200
 url: /ru/net/aspose.pub/textstyle/setisallcapsmode/
 ---
 ## TextStyle.SetIsAllCapsMode method
 
-Включает/отключает режим всех заглавных букв для текста
+Включает/отключает режим всех заглавных букв для text
 
 ```csharp
 public void SetIsAllCapsMode(bool value)
@@ -16,7 +16,7 @@ public void SetIsAllCapsMode(bool value)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| value | Boolean | Все включен режим заглавных букв |
+| value | Boolean | Включен ли режим всех заглавных букв |
 
 ### Смотрите также
 

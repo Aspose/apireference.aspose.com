@@ -1,18 +1,18 @@
 ---
 title: Aspose.Pub.Exceptions
 second_title: Aspose.PUB for .NET API 参考
-description: 命名空间异常声明 PUB 区域中的异常类
+description: 命名空间异常声明了 PUB 区域中的异常类
 type: docs
 weight: 20
 url: /zh/net/aspose.pub.exceptions/
 ---
-命名空间异常声明 PUB 区域中的异常类
+命名空间异常声明了 PUB 区域中的异常类
 
 ## 课程
 
 | 班级 | 描述 |
 | --- | --- |
-| [ConvertException](./convertexception) | 转换情况的例外 |
+| [ConvertException](./convertexception) | 转换情况例外 |
 | [PubException](./pubexception) | 表示 PUB 应用程序执行期间发生的错误。 |
 | [PubFormatException](./pubformatexception) | PUB 格式例外 |
 

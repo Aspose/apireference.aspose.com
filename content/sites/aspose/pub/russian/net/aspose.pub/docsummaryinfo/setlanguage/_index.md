@@ -16,7 +16,7 @@ public void SetLanguage(string value)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| значение | String | язык |
+| value | String | язык |
 
 ### Смотрите также
 

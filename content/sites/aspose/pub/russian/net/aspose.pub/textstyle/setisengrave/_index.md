@@ -1,14 +1,14 @@
 ---
 title: SetIsEngrave
 second_title: Справочник по Aspose.PUB для .NET API
-description: Устанавливает выгравированный текст
+description: Наборы выгравированы текстом
 type: docs
 weight: 230
 url: /ru/net/aspose.pub/textstyle/setisengrave/
 ---
 ## TextStyle.SetIsEngrave method
 
-Устанавливает выгравированный текст
+Наборы выгравированы текстом
 
 ```csharp
 public void SetIsEngrave(bool value)
@@ -16,7 +16,7 @@ public void SetIsEngrave(bool value)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| value | Boolean | Выгравированный текст |
+| value | Boolean | Является ли текст выгравированным значением |
 
 ### Смотрите также
 

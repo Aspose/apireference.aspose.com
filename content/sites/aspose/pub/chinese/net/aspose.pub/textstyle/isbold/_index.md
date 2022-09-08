@@ -1,14 +1,14 @@
 ---
 title: IsBold
 second_title: Aspose.PUB for .NET API 参考
-description: 是粗体
+description: 是粗体字
 type: docs
 weight: 50
 url: /zh/net/aspose.pub/textstyle/isbold/
 ---
 ## TextStyle.IsBold property
 
-是粗体
+是粗体字
 
 ```csharp
 public bool IsBold { get; }

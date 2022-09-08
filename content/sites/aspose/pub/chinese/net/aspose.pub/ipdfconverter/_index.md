@@ -18,8 +18,8 @@ public interface IPdfConverter
 
 | 姓名 | 描述 |
 | --- | --- |
-| [ConvertToPdf](../../aspose.pub/ipdfconverter/converttopdf#converttopdf)(Document, Stream) | 将 PUB 文档转换为 PDF 格式并将结果保存在通过的流中 |
-| [ConvertToPdf](../../aspose.pub/ipdfconverter/converttopdf#converttopdf_1)(Document, string) | 将 PUB 文档转换为 PDF 格式并保存为 PDF 文件 |
+| [ConvertToPdf](../../aspose.pub/ipdfconverter/converttopdf#converttopdf)(Document, Stream) | 将 PUB 文档转换为 PDF 格式并将结果保存在流中传递 |
+| [ConvertToPdf](../../aspose.pub/ipdfconverter/converttopdf#converttopdf_1)(Document, string) | 将 PUB 文档转换为 PDF 格式并将结果保存为 PDF 文件 |
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: UnderlineType
 second_title: Справочник по Aspose.PUB для .NET API
-description: Тип подчеркивания для текста
+description: Тип подчеркивания для text
 type: docs
 weight: 160
 url: /ru/net/aspose.pub/textstyle/underlinetype/
 ---
 ## TextStyle.UnderlineType property
 
-Тип подчеркивания для текста
+Тип подчеркивания для text
 
 ```csharp
 public UnderlineType UnderlineType { get; }

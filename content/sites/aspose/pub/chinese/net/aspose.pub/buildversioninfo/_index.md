@@ -24,7 +24,7 @@ public sealed class BuildVersionInfo
 
 | 姓名 | 描述 |
 | --- | --- |
-| const [AssemblyVersion](../../aspose.pub/buildversioninfo/assemblyversion) | 汇编版本 |
+| const [AssemblyVersion](../../aspose.pub/buildversioninfo/assemblyversion) | 组装版本 |
 | const [FileVersion](../../aspose.pub/buildversioninfo/fileversion) | 文件版本 |
 | const [Product](../../aspose.pub/buildversioninfo/product) | 产品名称 |
 

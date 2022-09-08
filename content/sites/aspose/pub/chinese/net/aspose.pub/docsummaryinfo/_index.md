@@ -31,19 +31,19 @@ public class DocSummaryInfo : MetaInfo
 | [FMTID](../../aspose.pub/metainfo/fmtid) { get; } | FMTID 标识符 |
 | [IsLittleEndian](../../aspose.pub/metainfo/islittleendian) { get; } | 是小端 |
 | [Language](../../aspose.pub/docsummaryinfo/language) { get; } | 语言值 |
-| [Locale](../../aspose.pub/metainfo/locale) { get; } | 语言环境标识符 |
+| [Locale](../../aspose.pub/metainfo/locale) { get; } | 区域设置标识符 |
 | [PropsCount](../../aspose.pub/metainfo/propscount) { get; } | 属性计数 |
 | [PropsIdentifiers](../../aspose.pub/metainfo/propsidentifiers) { get; } | 属性标识符 |
 | [RawByteOrder](../../aspose.pub/metainfo/rawbyteorder) { get; } | 原始字节顺序 |
 | [SysID](../../aspose.pub/metainfo/sysid) { get; } | 系统标识符 |
-| [UserDefinedProperties](../../aspose.pub/docsummaryinfo/userdefinedproperties) { get; } | 用户定义属性 |
+| [UserDefinedProperties](../../aspose.pub/docsummaryinfo/userdefinedproperties) { get; } | 用户定义的属性 |
 | [Version](../../aspose.pub/metainfo/version) { get; } | 版本值 |
 
 ## 方法
 
 | 姓名 | 描述 |
 | --- | --- |
-| [GetProperty](../../aspose.pub/metainfo/getproperty)(uint) | 通过传递的 ID 获取属性 |
+| [GetProperty](../../aspose.pub/metainfo/getproperty)(uint) | 通过 ID 获取属性 |
 | [SetCategory](../../aspose.pub/docsummaryinfo/setcategory)(string) | 设置类别 |
 | [SetCompany](../../aspose.pub/docsummaryinfo/setcompany)(string) | 设置公司 |
 | [SetLanguage](../../aspose.pub/docsummaryinfo/setlanguage)(string) | 设置语言 |

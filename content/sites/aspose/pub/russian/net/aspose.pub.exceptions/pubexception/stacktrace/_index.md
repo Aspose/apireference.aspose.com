@@ -1,14 +1,14 @@
 ---
 title: StackTrace
 second_title: Справочник по Aspose.PUB для .NET API
-description: Получает строковое представление непосредственных кадров в стеке вызовов.
+description: Получает строковое представление ближайших кадров в стеке вызовов.
 type: docs
 weight: 30
 url: /ru/net/aspose.pub.exceptions/pubexception/stacktrace/
 ---
 ## PubException.StackTrace property
 
-Получает строковое представление непосредственных кадров в стеке вызовов.
+Получает строковое представление ближайших кадров в стеке вызовов.
 
 ```csharp
 public override string StackTrace { get; }

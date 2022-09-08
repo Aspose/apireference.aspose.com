@@ -1,14 +1,14 @@
 ---
 title: PubException
 second_title: Справочник по Aspose.PUB для .NET API
-description: Инициализирует новый экземпляр классаPubExceptionaspose.pub.exceptions/pubexception.
+description: Инициализирует новый экземплярPubExceptionaspose.pub.exceptions/pubexception класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.pub.exceptions/pubexception/pubexception/
 ---
 ## PubException(string) {#constructor}
 
-Инициализирует новый экземпляр класса[`PubException`](../../pubexception).
+Инициализирует новый экземпляр[`PubException`](../../pubexception) класс.
 
 ```csharp
 public PubException(string message)
@@ -28,7 +28,7 @@ public PubException(string message)
 
 ## PubException(string, Exception) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`PubException`](../../pubexception) с указанным сообщение об ошибке и ссылка на внутреннее исключение, которое является причиной этого исключения.
+Инициализирует новый экземпляр[`PubException`](../../pubexception) класс с указанным сообщением об ошибке и ссылкой на внутреннее исключение, которое является причиной этого исключения.
 
 ```csharp
 public PubException(string message, Exception innerException)
@@ -37,7 +37,7 @@ public PubException(string message, Exception innerException)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | message | String | Сообщение об ошибке, объясняющее причину исключения. |
-| innerException | Exception | Исключение, являющееся причиной текущего исключения, или пустая ссылка (Nothing в Visual Basic), если нет внутреннего исключения указано. |
+| innerException | Exception | Исключение, являющееся причиной текущего исключения, или пустая ссылка (Nothing в Visual Basic), если внутреннее исключение не указано. |
 
 ### Смотрите также
 

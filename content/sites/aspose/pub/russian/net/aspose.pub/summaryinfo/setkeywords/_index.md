@@ -1,14 +1,14 @@
 ---
 title: SetKeywords
 second_title: Справочник по Aspose.PUB для .NET API
-description: Устанавливает ключевые слова относящиеся к документу
+description: Устанавливает ключевые слова связанные с документом
 type: docs
 weight: 170
 url: /ru/net/aspose.pub/summaryinfo/setkeywords/
 ---
 ## SummaryInfo.SetKeywords method
 
-Устанавливает ключевые слова, относящиеся к документу
+Устанавливает ключевые слова, связанные с документом
 
 ```csharp
 public void SetKeywords(string value)
@@ -16,7 +16,7 @@ public void SetKeywords(string value)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| value | String | Ключевые слова, относящиеся к документ |
+| value | String | Ключевые слова, связанные с документом |
 
 ### Смотрите также
 

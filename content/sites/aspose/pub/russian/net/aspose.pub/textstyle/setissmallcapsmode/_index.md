@@ -1,14 +1,14 @@
 ---
 title: SetIsSmallCapsMode
 second_title: Справочник по Aspose.PUB для .NET API
-description: Включает/выключает режим прописных букв для текста
+description: Включает/отключает режим малых заглавных букв для text
 type: docs
 weight: 270
 url: /ru/net/aspose.pub/textstyle/setissmallcapsmode/
 ---
 ## TextStyle.SetIsSmallCapsMode method
 
-Включает/выключает режим прописных букв для текста
+Включает/отключает режим малых заглавных букв для text
 
 ```csharp
 public void SetIsSmallCapsMode(bool value)
@@ -16,7 +16,7 @@ public void SetIsSmallCapsMode(bool value)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| value | Boolean | Маленький включен режим заглавных букв |
+| value | Boolean | Включен ли режим малых заглавных букв |
 
 ### Смотрите также
 

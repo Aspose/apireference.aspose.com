@@ -1,14 +1,14 @@
 ---
 title: SetDefaultStyleIndex
 second_title: Справочник по Aspose.PUB для .NET API
-description: Устанавливает индекс стиля текста по умолчанию в массиве Document.DefaultTextStyles
+description: Устанавливает индекс стиля текста по умолчанию в Document.DefaultTextStyles array
 type: docs
 weight: 160
 url: /ru/net/aspose.pub/paragraphstyle/setdefaultstyleindex/
 ---
 ## ParagraphStyle.SetDefaultStyleIndex method
 
-Устанавливает индекс стиля текста по умолчанию в массиве Document.DefaultTextStyles
+Устанавливает индекс стиля текста по умолчанию в Document.DefaultTextStyles array
 
 ```csharp
 public void SetDefaultStyleIndex(int value)

@@ -1,14 +1,14 @@
 ---
 title: SetComments
 second_title: Справочник по Aspose.PUB для .NET API
-description: Устанавливает комментарии к документу
+description: Устанавливает комментарии относящиеся к документу
 type: docs
 weight: 160
 url: /ru/net/aspose.pub/summaryinfo/setcomments/
 ---
 ## SummaryInfo.SetComments method
 
-Устанавливает комментарии к документу
+Устанавливает комментарии, относящиеся к документу
 
 ```csharp
 public void SetComments(string value)

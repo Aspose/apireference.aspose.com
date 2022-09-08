@@ -1,14 +1,14 @@
 ---
 title: SetIsEmboss
 second_title: Aspose.PUB for .NET API 参考
-description: 设置是文字浮雕
+description: 设置为文字浮雕
 type: docs
 weight: 220
 url: /zh/net/aspose.pub/textstyle/setisemboss/
 ---
 ## TextStyle.SetIsEmboss method
 
-设置是文字浮雕
+设置为文字浮雕
 
 ```csharp
 public void SetIsEmboss(bool value)

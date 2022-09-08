@@ -2,6 +2,8 @@
 title: Aspose.PUB 产品系列
 additionalTitle: Aspose API 参考
 type: docs
+weight: 10
+description: "API 参考供开发人员使用 Aspose.PUB 在 Web、桌面或移动应用程序中操作和处理来自 Word、Excel、PowerPoint、Visio、PDF、CAD 和其他几个类别的文件。"
 url: /zh/
 ---
 

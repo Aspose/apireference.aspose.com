@@ -1,14 +1,14 @@
 ---
 title: Coord
 second_title: Aspose.PUB for .NET API 参考
-description: 此类旨在表示与 PUB 字段坐标相关的数据 PUB 中的每个字段保存坐标有 2 对坐标左上角坐标 XLeft YTop 和右下角坐标 X Right YBottom 以特殊公制系统表示的所有坐标 - 英制公制单位EMU附加方法 添加到此类中以将坐标值从英制公制单位转换为英寸
+description: 这个类用来表示与PUB字段坐标相关的数据 PUB中每个字段保存坐标有2对坐标左上角坐标 XLeft YTop和右下角坐标X Right YBottom . 以特殊公制系统表示的所有坐标  英制公制单位 EMU附加方法 被添加到此类中以将坐标值从英制公制单位转换为英寸
 type: docs
 weight: 220
 url: /zh/net/aspose.pub.utils/coord/
 ---
 ## Coord class
 
-此类旨在表示与 PUB 字段坐标相关的数据。 PUB 中的每个字段保存坐标有 2 对坐标:左上角坐标 (XLeft, YTop) 和右下角坐标 (X Right, YBottom)。 以特殊公制系统表示的所有坐标 - 英制公制单位（EMU）。附加方法 添加到此类中，以将坐标值从英制公制单位转换为英寸。
+这个类用来表示与PUB字段坐标相关的数据。 PUB中每个字段保存坐标有2对坐标：左上角坐标 (XLeft, YTop)和右下角坐标(X Right, YBottom) . 以特殊公制系统表示的所有坐标 - 英制公制单位 (EMU)。附加方法 被添加到此类中，以将坐标值从英制公制单位转换为英寸。
 
 ```csharp
 public class Coord : ICloneable
@@ -25,10 +25,10 @@ public class Coord : ICloneable
 
 | 姓名 | 描述 |
 | --- | --- |
-| [XLeft](../../aspose.pub.utils/coord/xleft) { get; } | 动车组左上角 X 坐标 |
-| [XRight](../../aspose.pub.utils/coord/xright) { get; } | 动车组右下角 X 坐标 |
-| [YBottom](../../aspose.pub.utils/coord/ybottom) { get; } | 动车组右下角的 Y 坐标 |
-| [YTop](../../aspose.pub.utils/coord/ytop) { get; } | 动车组左上角 Y 坐标 |
+| [XLeft](../../aspose.pub.utils/coord/xleft) { get; } | 动车组左上角X坐标 |
+| [XRight](../../aspose.pub.utils/coord/xright) { get; } | 动车组右下角X坐标 |
+| [YBottom](../../aspose.pub.utils/coord/ybottom) { get; } | 动车组右下角Y坐标 |
+| [YTop](../../aspose.pub.utils/coord/ytop) { get; } | 动车组左上角Y坐标 |
 
 ## 方法
 
@@ -41,8 +41,8 @@ public class Coord : ICloneable
 | [CalculateY](../../aspose.pub.utils/coord/calculatey#calculatey)() | 将 Y 坐标值从自然 PUB 公制转换为英寸 |
 | [CalculateY](../../aspose.pub.utils/coord/calculatey#calculatey_1)(double) | 将 Y 坐标值从自然 PUB 公制转换为英寸 |
 | [Clone](../../aspose.pub.utils/coord/clone)() | 创建对象的副本 |
-| [GetHeight](../../aspose.pub.utils/coord/getheight)() | 在自然 PUB 度量中返回当前 Coord 对象的高度 |
-| [GetWidth](../../aspose.pub.utils/coord/getwidth)() | 在自然 PUB 度量中返回当前 Coord 对象的宽度 |
+| [GetHeight](../../aspose.pub.utils/coord/getheight)() | 在自然 PUB 指标中返回当前 Coord 对象的高度 |
+| [GetWidth](../../aspose.pub.utils/coord/getwidth)() | 在自然 PUB 指标中返回当前 Coord 对象的宽度 |
 
 ### 也可以看看
 

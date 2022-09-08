@@ -1,14 +1,14 @@
 ---
 title: XLeft
 second_title: Aspose.PUB for .NET API 参考
-description: 动车组左上角 X 坐标
+description: 动车组左上角X坐标
 type: docs
 weight: 20
 url: /zh/net/aspose.pub.utils/coord/xleft/
 ---
 ## Coord.XLeft property
 
-动车组左上角 X 坐标
+动车组左上角X坐标
 
 ```csharp
 public int XLeft { get; }

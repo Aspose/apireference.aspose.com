@@ -1,14 +1,14 @@
 ---
 title: SetSuperscriptType
 second_title: Справочник по Aspose.PUB для .NET API
-description: Устанавливает тип надстрочного индекса
+description: Устанавливает тип верхнего индекса
 type: docs
 weight: 310
 url: /ru/net/aspose.pub/textstyle/setsuperscripttype/
 ---
 ## TextStyle.SetSuperscriptType method
 
-Устанавливает тип надстрочного индекса
+Устанавливает тип верхнего индекса
 
 ```csharp
 public void SetSuperscriptType(SuperscriptType value)
@@ -16,7 +16,7 @@ public void SetSuperscriptType(SuperscriptType value)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| value | SuperscriptType | Значение типа надстрочного индекса |
+| value | SuperscriptType | Значение надстрочного типа |
 
 ### Смотрите также
 

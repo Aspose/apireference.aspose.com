@@ -1,14 +1,14 @@
 ---
 title: Locale
 second_title: Aspose.PUB for .NET API 参考
-description: 语言环境标识符
+description: 区域设置标识符
 type: docs
 weight: 60
 url: /zh/net/aspose.pub/metainfo/locale/
 ---
 ## MetaInfo.Locale property
 
-语言环境标识符
+区域设置标识符
 
 ```csharp
 public uint Locale { get; }

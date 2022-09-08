@@ -1,12 +1,12 @@
 ---
 title: Aspose.Pub
 second_title: Aspose.PUB for .NET API 参考
-description: Aspose.Pub 命名空间提供描述 PUB 对象的类
+description: 的 Aspose.Pub命名空间提供描述 PUB 对象的类
 type: docs
 weight: 10
 url: /zh/net/aspose.pub/
 ---
-**Aspose.Pub** 命名空间提供描述 PUB 对象的类。
+的 **Aspose.Pub**命名空间提供描述 PUB 对象的类。
 
 ## 课程
 
@@ -15,21 +15,21 @@ url: /zh/net/aspose.pub/
 | [BaseStyle](./basestyle) | 声明 PUB 样式的基本功能 |
 | [BuildVersionInfo](./buildversioninfo) | 此类提供有关当前产品构建的信息。 |
 | [DocSummaryInfo](./docsummaryinfo) | 文档摘要信息 |
-| [Document](./document) | 表示 PUB 文档，保存所有字段和相关值 |
+| [Document](./document) | 代表 PUB 文档，保存所有字段和相关值 |
 | [License](./license) | 提供许可组件的方法。 |
 | [MetaInfo](./metainfo) | 摘要信息对象的基类 |
-| [ParagraphStyle](./paragraphstyle) | 此类描述 PUB 段落的样式 |
-| [PubFactory](./pubfactory) | PUB 对象工厂 |
+| [ParagraphStyle](./paragraphstyle) | 这个类描述了PUB段落的样式 |
+| [PubFactory](./pubfactory) | PUB 对象的工厂 |
 | [SummaryInfo](./summaryinfo) | 摘要信息 |
-| [TextGroup](./textgroup) | 文本组 |
-| [TextParagraph](./textparagraph) | 表示 PUB 文本段落 |
+| [TextGroup](./textgroup) | 文字组 |
+| [TextParagraph](./textparagraph) | 代表 PUB 文本段落 |
 | [TextStyle](./textstyle) | 描述 PUB 文本样式 |
 ## 接口
 
 | 界面 | 描述 |
 | --- | --- |
 | [IPdfConverter](./ipdfconverter) | 声明将 PUB 文档转换为 PDF 文档的功能 |
-| [IPubParser](./ipubparser) | 声明解析发布者文件并返回[`Document`](../aspose.pub/document)object 作为解析结果的功能. |
+| [IPubParser](./ipubparser) | 声明解析发布者文件并返回的功能[`Document`](../aspose.pub/document)对象 作为解析的结果。 |
 ## 枚举
 
 | 枚举 | 描述 |

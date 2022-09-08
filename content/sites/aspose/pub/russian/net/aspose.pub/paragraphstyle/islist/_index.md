@@ -1,14 +1,14 @@
 ---
 title: IsList
 second_title: Справочник по Aspose.PUB для .NET API
-description: Параграф списка
+description: Список параграфов
 type: docs
 weight: 60
 url: /ru/net/aspose.pub/paragraphstyle/islist/
 ---
 ## ParagraphStyle.IsList property
 
-Параграф списка
+Список параграфов
 
 ```csharp
 public bool IsList { get; }

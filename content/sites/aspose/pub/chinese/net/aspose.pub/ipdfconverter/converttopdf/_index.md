@@ -1,14 +1,14 @@
 ---
 title: ConvertToPdf
 second_title: Aspose.PUB for .NET API 参考
-description: 将 PUB 文档转换为 PDF 格式并保存为 PDF 文件
+description: 将 PUB 文档转换为 PDF 格式并将结果保存为 PDF 文件
 type: docs
 weight: 10
 url: /zh/net/aspose.pub/ipdfconverter/converttopdf/
 ---
 ## ConvertToPdf(Document, string) {#converttopdf_1}
 
-将 PUB 文档转换为 PDF 格式并保存为 PDF 文件
+将 PUB 文档转换为 PDF 格式并将结果保存为 PDF 文件
 
 ```csharp
 public void ConvertToPdf(Document doc, string fileName)
@@ -16,8 +16,8 @@ public void ConvertToPdf(Document doc, string fileName)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| doc | Document | PUB 文档 |
-| fileName | String | PDF 文件名 |
+| doc | Document | 公开文件 |
+| fileName | String | PDF 文件的名称 |
 
 ### 也可以看看
 
@@ -30,7 +30,7 @@ public void ConvertToPdf(Document doc, string fileName)
 
 ## ConvertToPdf(Document, Stream) {#converttopdf}
 
-将 PUB 文档转换为 PDF 格式并将结果保存在通过的流中
+将 PUB 文档转换为 PDF 格式并将结果保存在流中传递
 
 ```csharp
 public void ConvertToPdf(Document doc, Stream outputStream)
@@ -38,7 +38,7 @@ public void ConvertToPdf(Document doc, Stream outputStream)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| doc | Document | PUB 文档 |
+| doc | Document | 公开文件 |
 | outputStream | Stream | 输出流 |
 
 ### 也可以看看

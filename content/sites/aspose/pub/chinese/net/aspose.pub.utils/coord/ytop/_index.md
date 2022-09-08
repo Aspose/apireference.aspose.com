@@ -1,14 +1,14 @@
 ---
 title: YTop
 second_title: Aspose.PUB for .NET API 参考
-description: 动车组左上角 Y 坐标
+description: 动车组左上角Y坐标
 type: docs
 weight: 50
 url: /zh/net/aspose.pub.utils/coord/ytop/
 ---
 ## Coord.YTop property
 
-动车组左上角 Y 坐标
+动车组左上角Y坐标
 
 ```csharp
 public int YTop { get; }

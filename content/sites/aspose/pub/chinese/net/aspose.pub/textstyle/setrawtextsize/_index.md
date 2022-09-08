@@ -16,7 +16,7 @@ public void SetRawTextSize(int value)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| value | Int32 | EMU 中的文本大小值 |
+| value | Int32 | 动车组中文本大小的值 |
 
 ### 也可以看看
 

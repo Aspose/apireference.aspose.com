@@ -1,14 +1,14 @@
 ---
 title: DocSummaryInfo
 second_title: Справочник по Aspose.PUB для .NET API
-description: Сводная информация о документе
+description: Сводка документа info
 type: docs
 weight: 40
 url: /ru/net/aspose.pub/docsummaryinfo/
 ---
 ## DocSummaryInfo class
 
-Сводная информация о документе
+Сводка документа info
 
 ```csharp
 public class DocSummaryInfo : MetaInfo
@@ -29,7 +29,7 @@ public class DocSummaryInfo : MetaInfo
 | [CodePage](../../aspose.pub/metainfo/codepage) { get; } | Идентификатор кодовой страницы |
 | [Company](../../aspose.pub/docsummaryinfo/company) { get; } | Компания |
 | [FMTID](../../aspose.pub/metainfo/fmtid) { get; } | Идентификатор FMTID |
-| [IsLittleEndian](../../aspose.pub/metainfo/islittleendian) { get; } | С прямым порядком байтов |
+| [IsLittleEndian](../../aspose.pub/metainfo/islittleendian) { get; } | Маленький порядок байтов |
 | [Language](../../aspose.pub/docsummaryinfo/language) { get; } | Значение языка |
 | [Locale](../../aspose.pub/metainfo/locale) { get; } | Идентификатор локали |
 | [PropsCount](../../aspose.pub/metainfo/propscount) { get; } | Количество свойств |

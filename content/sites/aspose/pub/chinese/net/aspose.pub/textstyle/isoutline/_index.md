@@ -1,14 +1,14 @@
 ---
 title: IsOutline
 second_title: Aspose.PUB for .NET API 参考
-description: 是文本概述
+description: 是文字概述
 type: docs
 weight: 90
 url: /zh/net/aspose.pub/textstyle/isoutline/
 ---
 ## TextStyle.IsOutline property
 
-是文本概述
+是文字概述
 
 ```csharp
 public bool IsOutline { get; }

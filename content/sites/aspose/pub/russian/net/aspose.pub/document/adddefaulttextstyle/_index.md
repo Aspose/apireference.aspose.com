@@ -16,7 +16,7 @@ public void AddDefaultTextStyle(TextStyle value)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| значение | TextStyle | стиль текста |
+| value | TextStyle | стиль текста |
 
 ### Смотрите также
 

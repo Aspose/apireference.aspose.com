@@ -16,11 +16,11 @@ public double CalculateX(double pageWidth)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| pageWidth | Double | 与当前坐标所在的页面 |
+| pageWidth | Double | 与当前坐标放置的页面 |
 
 ### 返回值
 
-X 坐标（英寸）
+X坐标以英寸为单位
 
 ### 也可以看看
 
@@ -40,7 +40,7 @@ public double CalculateX()
 
 ### 返回值
 
-X 坐标以英寸为单位
+X坐标以英寸为单位
 
 ### 也可以看看
 

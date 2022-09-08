@@ -1,14 +1,14 @@
 ---
 title: TextParagraph
 second_title: Aspose.PUB for .NET API 参考
-description: 表示 PUB 文本段落
+description: 代表 PUB 文本段落
 type: docs
 weight: 190
 url: /zh/net/aspose.pub/textparagraph/
 ---
 ## TextParagraph class
 
-表示 PUB 文本段落
+代表 PUB 文本段落
 
 ```csharp
 public class TextParagraph

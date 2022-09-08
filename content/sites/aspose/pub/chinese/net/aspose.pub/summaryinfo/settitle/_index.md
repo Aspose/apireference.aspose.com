@@ -16,7 +16,7 @@ public void SetTitle(string value)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| value | String | 文档的标题 |
+| value | String | 文件的标题 |
 
 ### 也可以看看
 

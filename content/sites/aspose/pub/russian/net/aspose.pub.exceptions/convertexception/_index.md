@@ -18,15 +18,15 @@ public sealed class ConvertException : PubException
 
 | Имя | Описание |
 | --- | --- |
-| [ConvertException](convertexception#constructor)(string) | Инициализирует новый экземпляр класса[`ConvertException`](../convertexception). |
-| [ConvertException](convertexception#constructor_1)(string, Exception) | Инициализирует новый экземпляр класса[`ConvertException`](../convertexception) с указанным сообщение об ошибке и ссылка на внутреннее исключение, которое является причиной этого исключения. |
+| [ConvertException](convertexception#constructor)(string) | Инициализирует новый экземпляр[`ConvertException`](../convertexception) класс. |
+| [ConvertException](convertexception#constructor_1)(string, Exception) | Инициализирует новый экземпляр[`ConvertException`](../convertexception) класс с указанным сообщением об ошибке и ссылкой на внутреннее исключение, которое является причиной этого исключения. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
 | override [Message](../../aspose.pub.exceptions/pubexception/message) { get; } | Получает сообщение, описывающее текущее исключение. |
-| override [StackTrace](../../aspose.pub.exceptions/pubexception/stacktrace) { get; } | Получает строковое представление непосредственных кадров в стеке вызовов. |
+| override [StackTrace](../../aspose.pub.exceptions/pubexception/stacktrace) { get; } | Получает строковое представление ближайших кадров в стеке вызовов. |
 
 ### Смотрите также
 

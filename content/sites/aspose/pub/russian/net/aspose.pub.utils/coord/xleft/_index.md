@@ -1,7 +1,7 @@
 ---
 title: XLeft
 second_title: Справочник по Aspose.PUB для .NET API
-description: X-координата левого верхнего угла в электропоездах
+description: Xкоордината левого верхнего угла в электропоездах
 type: docs
 weight: 20
 url: /ru/net/aspose.pub.utils/coord/xleft/

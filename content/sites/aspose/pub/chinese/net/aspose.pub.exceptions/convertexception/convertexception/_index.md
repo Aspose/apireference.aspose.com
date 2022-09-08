@@ -1,14 +1,14 @@
 ---
 title: ConvertException
 second_title: Aspose.PUB for .NET API 参考
-description: 初始化ConvertExceptionaspose.pub.exceptions/convertexception类的新实例
+description: 初始化ConvertExceptionaspose.pub.exceptions/convertexception类.
 type: docs
 weight: 10
 url: /zh/net/aspose.pub.exceptions/convertexception/convertexception/
 ---
 ## ConvertException(string) {#constructor}
 
-初始化[`ConvertException`](../../convertexception)类的新实例。
+初始化[`ConvertException`](../../convertexception)类.
 
 ```csharp
 public ConvertException(string message)
@@ -28,7 +28,7 @@ public ConvertException(string message)
 
 ## ConvertException(string, Exception) {#constructor_1}
 
-使用指定的初始化[`ConvertException`](../../convertexception) 类的新实例错误 消息和对导致此异常的内部异常的引用。
+初始化[`ConvertException`](../../convertexception)具有指定错误 消息的类以及对导致此异常的内部异常的引用。
 
 ```csharp
 public ConvertException(string message, Exception innerException)
@@ -37,7 +37,7 @@ public ConvertException(string message, Exception innerException)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | message | String | 解释异常原因的错误消息。 |
-| innerException | Exception | 导致当前异常的异常，或 如果没有内部异常，则为空引用（在 Visual Basic 中为无）被指定。 |
+| innerException | Exception | 导致当前异常的异常，或者 如果没有指定内部异常，则为空引用（在 Visual Basic 中为 Nothing）。 |
 
 ### 也可以看看
 

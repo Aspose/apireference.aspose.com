@@ -20,7 +20,7 @@ public double CalculateY(double pageHeight)
 
 ### 返回值
 
-Y 坐标（英寸）
+以英寸为单位的 Y 坐标
 
 ### 也可以看看
 

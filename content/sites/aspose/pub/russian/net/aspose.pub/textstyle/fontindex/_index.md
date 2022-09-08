@@ -1,14 +1,14 @@
 ---
 title: FontIndex
 second_title: Справочник по Aspose.PUB для .NET API
-description: Получает индекс имени шрифта в массиве Document.FontNames
+description: Получает индекс имени шрифта в Document.FontNames array
 type: docs
 weight: 30
 url: /ru/net/aspose.pub/textstyle/fontindex/
 ---
 ## TextStyle.FontIndex property
 
-Получает индекс имени шрифта в массиве Document.FontNames
+Получает индекс имени шрифта в Document.FontNames array
 
 ```csharp
 public int FontIndex { get; }

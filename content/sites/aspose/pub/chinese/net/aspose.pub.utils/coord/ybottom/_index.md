@@ -1,14 +1,14 @@
 ---
 title: YBottom
 second_title: Aspose.PUB for .NET API 参考
-description: 动车组右下角的 Y 坐标
+description: 动车组右下角Y坐标
 type: docs
 weight: 40
 url: /zh/net/aspose.pub.utils/coord/ybottom/
 ---
 ## Coord.YBottom property
 
-动车组右下角的 Y 坐标
+动车组右下角Y坐标
 
 ```csharp
 public int YBottom { get; }

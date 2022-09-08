@@ -1,14 +1,14 @@
 ---
 title: CharCount
 second_title: Aspose.PUB for .NET API 参考
-description: 文档中的字符总数
+description: 文档中的总字符数
 type: docs
 weight: 40
 url: /zh/net/aspose.pub/summaryinfo/charcount/
 ---
 ## SummaryInfo.CharCount property
 
-文档中的字符总数
+文档中的总字符数
 
 ```csharp
 public int CharCount { get; }

@@ -1,14 +1,14 @@
 ---
 title: Document
 second_title: Aspose.PUB for .NET API 参考
-description: 表示 PUB 文档保存所有字段和相关值
+description: 代表 PUB 文档保存所有字段和相关值
 type: docs
 weight: 50
 url: /zh/net/aspose.pub/document/
 ---
 ## Document class
 
-表示 PUB 文档，保存所有字段和相关值
+代表 PUB 文档，保存所有字段和相关值
 
 ```csharp
 public class Document
@@ -26,7 +26,7 @@ public class Document
 | [FontNames](../../aspose.pub/document/fontnames) { get; } | 字体名称数组 |
 | [Height](../../aspose.pub/document/height) { get; } | PUB 指标中文档的高度（EMU） |
 | [SummaryInfo](../../aspose.pub/document/summaryinfo) { get; } | 摘要信息 |
-| [Width](../../aspose.pub/document/width) { get; } | PUB 指标中的文档宽度（EMU） |
+| [Width](../../aspose.pub/document/width) { get; } | PUB 指标中文档的宽度（EMU） |
 
 ## 方法
 

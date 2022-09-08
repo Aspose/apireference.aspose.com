@@ -16,7 +16,7 @@ public void SetColorIndex(int value)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| value | Int32 | 值颜色指数 |
+| value | Int32 | 颜色指数值 |
 
 ### 也可以看看
 

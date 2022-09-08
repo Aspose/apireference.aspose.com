@@ -11,7 +11,7 @@ is_root: true
 
 | Пространство имен | Описание |
 | --- | --- |
-| [Aspose.Pub](./aspose.pub) | Пространство имен **Aspose.Pub** предоставляет классы, описывающие объекты PUB. |
+| [Aspose.Pub](./aspose.pub) | **Aspose.Pub**namespace предоставляет классы, описывающие объекты PUB. |
 | [Aspose.Pub.Exceptions](./aspose.pub.exceptions) | Исключения пространства имен объявляют классы для исключений в области PUB |
 | [Aspose.Pub.Utils](./aspose.pub.utils) | Пространство имен Aspose.PUB.Utils предоставляет служебные объекты |
 

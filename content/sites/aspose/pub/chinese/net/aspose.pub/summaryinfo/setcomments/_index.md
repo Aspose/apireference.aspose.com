@@ -1,14 +1,14 @@
 ---
 title: SetComments
 second_title: Aspose.PUB for .NET API 参考
-description: 设置与文档相关的评论
+description: 设置与文档相关的注释
 type: docs
 weight: 160
 url: /zh/net/aspose.pub/summaryinfo/setcomments/
 ---
 ## SummaryInfo.SetComments method
 
-设置与文档相关的评论
+设置与文档相关的注释
 
 ```csharp
 public void SetComments(string value)

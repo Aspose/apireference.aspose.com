@@ -16,11 +16,11 @@ public static IPubParser CreateParser(string fileName)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| fileName | String | Имя файла PUB |
+| fileName | String | Имя PUB-файла |
 
 ### Возвращаемое значение
 
-Парсер PUB
+PUB парсер
 
 ### Смотрите также
 
@@ -45,7 +45,7 @@ public static IPubParser CreateParser(Stream pubStream)
 
 ### Возвращаемое значение
 
-Парсер PUB
+PUB парсер
 
 ### Смотрите также
 

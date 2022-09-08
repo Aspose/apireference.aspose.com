@@ -1,14 +1,14 @@
 ---
 title: SetScaleValue
 second_title: Aspose.PUB for .NET API 参考
-description: 设置比例值
+description: 设置 scale 的值
 type: docs
 weight: 300
 url: /zh/net/aspose.pub/textstyle/setscalevalue/
 ---
 ## TextStyle.SetScaleValue method
 
-设置比例值
+设置 scale 的值
 
 ```csharp
 public void SetScaleValue(double value)
@@ -16,7 +16,7 @@ public void SetScaleValue(double value)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| value | Double | 比例值 |
+| value | Double | 规模价值 |
 
 ### 也可以看看
 

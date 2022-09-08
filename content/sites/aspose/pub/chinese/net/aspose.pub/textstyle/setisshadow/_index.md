@@ -1,14 +1,14 @@
 ---
 title: SetIsShadow
 second_title: Aspose.PUB for .NET API 参考
-description: 设置文本阴影
+description: 设置为文本阴影
 type: docs
 weight: 260
 url: /zh/net/aspose.pub/textstyle/setisshadow/
 ---
 ## TextStyle.SetIsShadow method
 
-设置文本阴影
+设置为文本阴影
 
 ```csharp
 public void SetIsShadow(bool value)
@@ -16,7 +16,7 @@ public void SetIsShadow(bool value)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| value | Boolean | 文本阴影值 |
+| value | Boolean | 是文本阴影值 |
 
 ### 也可以看看
 

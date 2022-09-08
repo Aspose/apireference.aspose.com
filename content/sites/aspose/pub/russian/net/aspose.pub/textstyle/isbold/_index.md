@@ -1,14 +1,14 @@
 ---
 title: IsBold
 second_title: Справочник по Aspose.PUB для .NET API
-description: Текст жирный
+description: Текст полужирный
 type: docs
 weight: 50
 url: /ru/net/aspose.pub/textstyle/isbold/
 ---
 ## TextStyle.IsBold property
 
-Текст жирный
+Текст полужирный
 
 ```csharp
 public bool IsBold { get; }

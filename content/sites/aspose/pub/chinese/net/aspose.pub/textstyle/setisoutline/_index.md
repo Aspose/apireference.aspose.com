@@ -1,14 +1,14 @@
 ---
 title: SetIsOutline
 second_title: Aspose.PUB for .NET API 参考
-description: 设置为文本轮廓
+description: 设置为文字概述
 type: docs
 weight: 250
 url: /zh/net/aspose.pub/textstyle/setisoutline/
 ---
 ## TextStyle.SetIsOutline method
 
-设置为文本轮廓
+设置为文字概述
 
 ```csharp
 public void SetIsOutline(bool value)
@@ -16,7 +16,7 @@ public void SetIsOutline(bool value)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| value | Boolean | 是文本轮廓值 |
+| value | Boolean | 是文本概述值 |
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: SetIsOrderedList
 second_title: Aspose.PUB for .NET API 参考
-description: 设置段落是否为有序列表
+description: 设置段落是否有序 list
 type: docs
 weight: 190
 url: /zh/net/aspose.pub/paragraphstyle/setisorderedlist/
 ---
 ## ParagraphStyle.SetIsOrderedList method
 
-设置段落是否为有序列表
+设置段落是否有序 list
 
 ```csharp
 public void SetIsOrderedList(bool value)
@@ -16,7 +16,7 @@ public void SetIsOrderedList(bool value)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| value | Boolean | 为有序列表值 |
+| value | Boolean | 是有序列表值 |
 
 ### 也可以看看
 

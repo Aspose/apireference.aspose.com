@@ -1,14 +1,14 @@
 ---
 title: ConvertException
 second_title: Aspose.PUB for .NET API 参考
-description: 转换情况的例外
+description: 转换情况例外
 type: docs
 weight: 60
 url: /zh/net/aspose.pub.exceptions/convertexception/
 ---
 ## ConvertException class
 
-转换情况的例外
+转换情况例外
 
 ```csharp
 public sealed class ConvertException : PubException
@@ -18,8 +18,8 @@ public sealed class ConvertException : PubException
 
 | 姓名 | 描述 |
 | --- | --- |
-| [ConvertException](convertexception#constructor)(string) | 初始化[`ConvertException`](../convertexception)类的新实例。 |
-| [ConvertException](convertexception#constructor_1)(string, Exception) | 使用指定的初始化[`ConvertException`](../convertexception) 类的新实例错误 消息和对导致此异常的内部异常的引用。 |
+| [ConvertException](convertexception#constructor)(string) | 初始化[`ConvertException`](../convertexception)类. |
+| [ConvertException](convertexception#constructor_1)(string, Exception) | 初始化[`ConvertException`](../convertexception)具有指定错误 消息的类以及对导致此异常的内部异常的引用。 |
 
 ## 特性
 

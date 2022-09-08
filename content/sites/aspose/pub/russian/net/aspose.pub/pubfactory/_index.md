@@ -1,14 +1,14 @@
 ---
 title: PubFactory
 second_title: Справочник по Aspose.PUB для .NET API
-description: Фабрика объектов PUB
+description: Фабрика для объектов PUB
 type: docs
 weight: 150
 url: /ru/net/aspose.pub/pubfactory/
 ---
 ## PubFactory class
 
-Фабрика объектов PUB
+Фабрика для объектов PUB
 
 ```csharp
 public static class PubFactory

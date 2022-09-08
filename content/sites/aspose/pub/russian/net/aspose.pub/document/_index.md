@@ -34,7 +34,7 @@ public class Document
 | --- | --- |
 | [AddDefaultParagraphStyle](../../aspose.pub/document/adddefaultparagraphstyle)(ParagraphStyle) | Добавляет стиль абзаца по умолчанию |
 | [AddDefaultTextStyle](../../aspose.pub/document/adddefaulttextstyle)(TextStyle) | Добавляет стиль текста по умолчанию |
-| [SetDocSummaryInfo](../../aspose.pub/document/setdocsummaryinfo)(DocSummaryInfo) | Устанавливает сводную информацию о документе |
+| [SetDocSummaryInfo](../../aspose.pub/document/setdocsummaryinfo)(DocSummaryInfo) | Устанавливает сводку документа info |
 | [SetSummaryInfo](../../aspose.pub/document/setsummaryinfo)(SummaryInfo) | Устанавливает сводную информацию |
 
 ### Смотрите также

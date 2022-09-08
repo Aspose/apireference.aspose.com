@@ -1,14 +1,14 @@
 ---
 title: SetSubject
 second_title: Aspose.PUB for .NET API 参考
-description: 设置文档主题
+description: 设置文档的主题
 type: docs
 weight: 190
 url: /zh/net/aspose.pub/summaryinfo/setsubject/
 ---
 ## SummaryInfo.SetSubject method
 
-设置文档主题
+设置文档的主题
 
 ```csharp
 public void SetSubject(string value)
@@ -16,7 +16,7 @@ public void SetSubject(string value)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| value | String | 文档主题 |
+| value | String | 文件的主题 |
 
 ### 也可以看看
 

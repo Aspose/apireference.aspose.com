@@ -1,14 +1,14 @@
 ---
 title: SummaryInfo
 second_title: Справочник по Aspose.PUB для .NET API
-description: Общая информация
+description: Сводная информация
 type: docs
 weight: 160
 url: /ru/net/aspose.pub/summaryinfo/
 ---
 ## SummaryInfo class
 
-Общая информация
+Сводная информация
 
 ```csharp
 public class SummaryInfo : MetaInfo
@@ -29,18 +29,18 @@ public class SummaryInfo : MetaInfo
 | [CharCount](../../aspose.pub/summaryinfo/charcount) { get; } | Общее количество символов в документе |
 | [Clsid](../../aspose.pub/metainfo/clsid) { get; } | Идентификатор CLSID |
 | [CodePage](../../aspose.pub/metainfo/codepage) { get; } | Идентификатор кодовой страницы |
-| [Comments](../../aspose.pub/summaryinfo/comments) { get; } | Комментарии к документу |
-| [DocSecurity](../../aspose.pub/summaryinfo/docsecurity) { get; } | Идентификатор безопасности документа Идентификатор безопасности документа представляет собой 32-битное целое число со знаком, представляющее набор предложенных приложением флаги управления доступом со следующими значениями: 0x00000001:Защита паролем 0x00000002:Рекомендуется только чтение 0x00000004:Только чтение принудительно 0x00000008:Заблокировано для аннотаций |
+| [Comments](../../aspose.pub/summaryinfo/comments) { get; } | Комментарии, связанные с документом |
+| [DocSecurity](../../aspose.pub/summaryinfo/docsecurity) { get; } | Идентификатор безопасности документа Идентификатор безопасности документа представляет собой 32-разрядное целое число со знаком, представляющее набор предлагаемых приложением флагов управления доступом со следующими значениями: : Заблокировано для annotations |
 | [FMTID](../../aspose.pub/metainfo/fmtid) { get; } | Идентификатор FMTID |
-| [IsLittleEndian](../../aspose.pub/metainfo/islittleendian) { get; } | С прямым порядком байтов |
-| [Keywords](../../aspose.pub/summaryinfo/keywords) { get; } | Ключевые слова, относящиеся к документу |
+| [IsLittleEndian](../../aspose.pub/metainfo/islittleendian) { get; } | Маленький порядок байтов |
+| [Keywords](../../aspose.pub/summaryinfo/keywords) { get; } | Ключевые слова, связанные с документом |
 | [LastAuthor](../../aspose.pub/summaryinfo/lastauthor) { get; } | Последний автор документа |
 | [Locale](../../aspose.pub/metainfo/locale) { get; } | Идентификатор локали |
 | [PageCount](../../aspose.pub/summaryinfo/pagecount) { get; } | Общее количество страниц в документе |
 | [PropsCount](../../aspose.pub/metainfo/propscount) { get; } | Количество свойств |
 | [PropsIdentifiers](../../aspose.pub/metainfo/propsidentifiers) { get; } | Идентификаторы свойств |
 | [RawByteOrder](../../aspose.pub/metainfo/rawbyteorder) { get; } | Необработанный порядок байтов |
-| [RevNumber](../../aspose.pub/summaryinfo/revnumber) { get; } | Номер редакции для данной версии документа |
+| [RevNumber](../../aspose.pub/summaryinfo/revnumber) { get; } | Номер редакции данного приложения для данной версии документа |
 | [Subject](../../aspose.pub/summaryinfo/subject) { get; } | Тема документа |
 | [SysID](../../aspose.pub/metainfo/sysid) { get; } | Идентификатор системы |
 | [Template](../../aspose.pub/summaryinfo/template) { get; } | Шаблон для конкретного приложения, из которого был создан документ |
@@ -54,11 +54,11 @@ public class SummaryInfo : MetaInfo
 | --- | --- |
 | [GetProperty](../../aspose.pub/metainfo/getproperty)(uint) | Получает свойство по переданному идентификатору |
 | [SetAuthor](../../aspose.pub/summaryinfo/setauthor)(string) | Устанавливает автора документа |
-| [SetComments](../../aspose.pub/summaryinfo/setcomments)(string) | Устанавливает комментарии к документу |
-| [SetKeywords](../../aspose.pub/summaryinfo/setkeywords)(string) | Устанавливает ключевые слова, относящиеся к документу |
+| [SetComments](../../aspose.pub/summaryinfo/setcomments)(string) | Устанавливает комментарии, относящиеся к документу |
+| [SetKeywords](../../aspose.pub/summaryinfo/setkeywords)(string) | Устанавливает ключевые слова, связанные с документом |
 | [SetLastAuthor](../../aspose.pub/summaryinfo/setlastauthor)(string) | Устанавливает последнего автора документа |
 | [SetSubject](../../aspose.pub/summaryinfo/setsubject)(string) | Устанавливает тему документа |
-| [SetTitle](../../aspose.pub/summaryinfo/settitle)(string) | Устанавливает название документа |
+| [SetTitle](../../aspose.pub/summaryinfo/settitle)(string) | Устанавливает заголовок документа |
 
 ### Смотрите также
 

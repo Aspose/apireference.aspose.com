@@ -1,14 +1,14 @@
 ---
 title: Comments
 second_title: Справочник по Aspose.PUB для .NET API
-description: Комментарии к документу
+description: Комментарии связанные с документом
 type: docs
 weight: 50
 url: /ru/net/aspose.pub/summaryinfo/comments/
 ---
 ## SummaryInfo.Comments property
 
-Комментарии к документу
+Комментарии, связанные с документом
 
 ```csharp
 public string Comments { get; }

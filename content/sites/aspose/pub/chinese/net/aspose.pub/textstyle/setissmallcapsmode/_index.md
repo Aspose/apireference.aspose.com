@@ -1,14 +1,14 @@
 ---
 title: SetIsSmallCapsMode
 second_title: Aspose.PUB for .NET API 参考
-description: 启用/禁用文本的小型大写模式
+description: 启用/禁用 text 的小型大写字母模式
 type: docs
 weight: 270
 url: /zh/net/aspose.pub/textstyle/setissmallcapsmode/
 ---
 ## TextStyle.SetIsSmallCapsMode method
 
-启用/禁用文本的小型大写模式
+启用/禁用 text 的小型大写字母模式
 
 ```csharp
 public void SetIsSmallCapsMode(bool value)
@@ -16,7 +16,7 @@ public void SetIsSmallCapsMode(bool value)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| value | Boolean | 小大写模式已启用 |
+| value | Boolean | 是否启用了小型大写模式 |
 
 ### 也可以看看
 

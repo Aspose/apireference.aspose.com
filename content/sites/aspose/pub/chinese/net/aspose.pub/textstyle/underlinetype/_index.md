@@ -1,14 +1,14 @@
 ---
 title: UnderlineType
 second_title: Aspose.PUB for .NET API 参考
-description: 文本的下划线类型
+description: text 的下划线类型
 type: docs
 weight: 160
 url: /zh/net/aspose.pub/textstyle/underlinetype/
 ---
 ## TextStyle.UnderlineType property
 
-文本的下划线类型
+text 的下划线类型
 
 ```csharp
 public UnderlineType UnderlineType { get; }

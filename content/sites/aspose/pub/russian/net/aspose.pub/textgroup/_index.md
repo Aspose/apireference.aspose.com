@@ -31,7 +31,7 @@ public class TextGroup
 
 | Имя | Описание |
 | --- | --- |
-| [UpdateText](../../aspose.pub/textgroup/updatetext)(string) | Обновляет текст |
+| [UpdateText](../../aspose.pub/textgroup/updatetext)(string) | Обновления text |
 
 ### Смотрите также
 

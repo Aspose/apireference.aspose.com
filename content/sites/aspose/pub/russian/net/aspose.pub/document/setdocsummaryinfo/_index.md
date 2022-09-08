@@ -1,14 +1,14 @@
 ---
 title: SetDocSummaryInfo
 second_title: Справочник по Aspose.PUB для .NET API
-description: Устанавливает сводную информацию о документе
+description: Устанавливает сводку документа info
 type: docs
 weight: 120
 url: /ru/net/aspose.pub/document/setdocsummaryinfo/
 ---
 ## Document.SetDocSummaryInfo method
 
-Устанавливает сводную информацию о документе
+Устанавливает сводку документа info
 
 ```csharp
 public void SetDocSummaryInfo(DocSummaryInfo value)

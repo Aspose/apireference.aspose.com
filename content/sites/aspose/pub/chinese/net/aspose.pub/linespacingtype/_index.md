@@ -18,7 +18,7 @@ public enum LineSpacingType : byte
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| Points | `0` | 行间距直接以点表示 |
+| Points | `0` | 行间距直接以点为单位 |
 | Lines | `1` | 行数系数 |
 
 ### 也可以看看

@@ -1,14 +1,14 @@
 ---
 title: SetIsBold
 second_title: Справочник по Aspose.PUB для .NET API
-description: Устанавливает жирный текст
+description: Устанавливает текст жирным шрифтом
 type: docs
 weight: 210
 url: /ru/net/aspose.pub/textstyle/setisbold/
 ---
 ## TextStyle.SetIsBold method
 
-Устанавливает жирный текст
+Устанавливает текст жирным шрифтом
 
 ```csharp
 public void SetIsBold(bool value)
@@ -16,7 +16,7 @@ public void SetIsBold(bool value)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| value | Boolean | Является полужирным значением |
+| value | Boolean | Значение полужирное |
 
 ### Смотрите также
 

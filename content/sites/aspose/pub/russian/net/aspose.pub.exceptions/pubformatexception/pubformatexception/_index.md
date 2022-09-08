@@ -1,14 +1,14 @@
 ---
 title: PubFormatException
 second_title: Справочник по Aspose.PUB для .NET API
-description: Инициализирует новый экземпляр классаPubFormatExceptionaspose.pub.exceptions/pubformatexception.
+description: Инициализирует новый экземплярPubFormatExceptionaspose.pub.exceptions/pubformatexception класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.pub.exceptions/pubformatexception/pubformatexception/
 ---
 ## PubFormatException(string) {#constructor}
 
-Инициализирует новый экземпляр класса[`PubFormatException`](../../pubformatexception).
+Инициализирует новый экземпляр[`PubFormatException`](../../pubformatexception) класс.
 
 ```csharp
 public PubFormatException(string message)
@@ -28,7 +28,7 @@ public PubFormatException(string message)
 
 ## PubFormatException(string, Exception) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`PubFormatException`](../../pubformatexception) с указанным сообщение об ошибке и ссылка на внутреннее исключение, которое является причиной этого исключения.
+Инициализирует новый экземпляр[`PubFormatException`](../../pubformatexception) класс с указанным сообщением об ошибке и ссылкой на внутреннее исключение, которое является причиной этого исключения.
 
 ```csharp
 public PubFormatException(string message, Exception innerException)
@@ -37,7 +37,7 @@ public PubFormatException(string message, Exception innerException)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | message | String | Сообщение об ошибке, объясняющее причину исключения. |
-| innerException | Exception | Исключение, являющееся причиной текущего исключения, или пустая ссылка (Nothing в Visual Basic), если нет внутреннего исключения указано. |
+| innerException | Exception | Исключение, являющееся причиной текущего исключения, или пустая ссылка (Nothing в Visual Basic), если внутреннее исключение не указано. |
 
 ### Смотрите также
 

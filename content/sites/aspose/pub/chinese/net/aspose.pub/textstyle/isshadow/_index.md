@@ -1,14 +1,14 @@
 ---
 title: IsShadow
 second_title: Aspose.PUB for .NET API 参考
-description: 文本是否有阴影
+description: 文本是否被遮蔽
 type: docs
 weight: 100
 url: /zh/net/aspose.pub/textstyle/isshadow/
 ---
 ## TextStyle.IsShadow property
 
-文本是否有阴影
+文本是否被遮蔽
 
 ```csharp
 public bool IsShadow { get; }
