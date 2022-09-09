@@ -3,7 +3,7 @@ title: Transparency
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 130
+weight: 140
 url: /net/aspose.threed.shading/pbrmaterial/transparency/
 ---
 ## PbrMaterial.Transparency property

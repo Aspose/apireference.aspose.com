@@ -3,7 +3,7 @@ title: MetallicRoughness
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 70
+weight: 80
 url: /net/aspose.threed.shading/pbrmaterial/metallicroughness/
 ---
 ## PbrMaterial.MetallicRoughness property

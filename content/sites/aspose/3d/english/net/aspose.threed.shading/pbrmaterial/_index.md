@@ -44,6 +44,7 @@ public class PbrMaterial : Material
 
 | Name | Description |
 | --- | --- |
+| static [FromMaterial](../../aspose.threed.shading/pbrmaterial/frommaterial)(Material) | Allow convert other material to PbrMaterial |
 | [FindProperty](../../aspose.threed/a3dobject/findproperty)(string) | Finds the property. It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) or native property(Identified by its name) |
 | [GetEnumerator](../../aspose.threed.shading/material/getenumerator)() | Gets the enumerator to enumerate internal texture slots. |
 | [GetProperty](../../aspose.threed/a3dobject/getproperty)(string) | Get the value of specified property |
