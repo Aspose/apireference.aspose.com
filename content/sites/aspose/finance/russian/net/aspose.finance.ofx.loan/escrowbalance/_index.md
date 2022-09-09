@@ -18,16 +18,16 @@ public class EscrowBalance
 
 | Имя | Описание |
 | --- | --- |
-| [EscrowBalance](escrowbalance)() | Инициализирует новый экземпляр класса[`EscrowBalance`](../escrowbalance). |
+| [EscrowBalance](escrowbalance)() | Инициализирует новый экземпляр[`EscrowBalance`](../escrowbalance) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
 | [BalanceAmount](../../aspose.finance.ofx.loan/escrowbalance/balanceamount) { get; set; } | Получает или задает общую сумму, хранящуюся на условном депонировании. |
-| [DateAsOf](../../aspose.finance.ofx.loan/escrowbalance/dateasof) { get; set; } | Получает или задает дату условного депонирования баланса |
+| [DateAsOf](../../aspose.finance.ofx.loan/escrowbalance/dateasof) { get; set; } | Получает или задает дату депонирования баланса |
 | [EscrowFeesBalance](../../aspose.finance.ofx.loan/escrowbalance/escrowfeesbalance) { get; set; } | Получает или задает остаток комиссий, хранящихся на условном депонировании. |
-| [EscrowInsuranceBalance](../../aspose.finance.ofx.loan/escrowbalance/escrowinsurancebalance) { get; set; } | Получает или задает страховой баланс, хранящийся на условном депонировании. |
+| [EscrowInsuranceBalance](../../aspose.finance.ofx.loan/escrowbalance/escrowinsurancebalance) { get; set; } | Получает или задает остаток страховки, хранящейся на условном депонировании. |
 | [EscrowOtherBalance](../../aspose.finance.ofx.loan/escrowbalance/escrowotherbalance) { get; set; } | Получает или задает остаток другой суммы, хранящейся на условном депонировании. |
 | [EscrowPMIBalance](../../aspose.finance.ofx.loan/escrowbalance/escrowpmibalance) { get; set; } | Получает или задает баланс PMI, хранящийся на условном депонировании. |
 | [EscrowTaxBalance](../../aspose.finance.ofx.loan/escrowbalance/escrowtaxbalance) { get; set; } | Получает или задает остаток налогов, хранящихся на условном депонировании. |

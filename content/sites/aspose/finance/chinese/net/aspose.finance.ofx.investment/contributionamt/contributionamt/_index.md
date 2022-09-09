@@ -1,14 +1,14 @@
 ---
 title: ContributionAmt
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化ContributionAmtaspose.finance.ofx.investment/contributionamt类的新实例
+description: 初始化一个新的实例ContributionAmtaspose.finance.ofx.investment/contributionamt类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.investment/contributionamt/contributionamt/
 ---
 ## ContributionAmt constructor
 
-初始化[`ContributionAmt`](../../contributionamt)类的新实例。
+初始化一个新的实例[`ContributionAmt`](../../contributionamt)类.
 
 ```csharp
 public ContributionAmt()

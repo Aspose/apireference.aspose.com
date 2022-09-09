@@ -1,14 +1,14 @@
 ---
 title: AbstractWireRequest
 second_title: Aspose.Finance for .NET API 参考
-description: 有线请求相关类的抽象基类
+description: 电汇请求相关类的抽象基类
 type: docs
 weight: 6310
 url: /zh/net/aspose.finance.ofx.wiretransfer/abstractwirerequest/
 ---
 ## AbstractWireRequest class
 
-有线请求相关类的抽象基类。
+电汇请求相关类的抽象基类。
 
 ```csharp
 public abstract class AbstractWireRequest

@@ -1,14 +1,14 @@
 ---
 title: GetMimeTransactionResponse
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаGetMimeTransactionResponseaspose.finance.ofx.email/getmimetransactionresponse.
+description: Инициализирует новый экземплярGetMimeTransactionResponseaspose.finance.ofx.email/getmimetransactionresponse класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.email/getmimetransactionresponse/getmimetransactionresponse/
 ---
 ## GetMimeTransactionResponse constructor
 
-Инициализирует новый экземпляр класса[`GetMimeTransactionResponse`](../../getmimetransactionresponse).
+Инициализирует новый экземпляр[`GetMimeTransactionResponse`](../../getmimetransactionresponse) класс.
 
 ```csharp
 public GetMimeTransactionResponse()

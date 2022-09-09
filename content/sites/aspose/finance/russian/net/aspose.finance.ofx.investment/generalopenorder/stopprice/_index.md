@@ -1,7 +1,7 @@
 ---
 title: StopPrice
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает стоп-цену.
+description: Получает или задает стопцену.
 type: docs
 weight: 130
 url: /ru/net/aspose.finance.ofx.investment/generalopenorder/stopprice/

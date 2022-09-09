@@ -1,14 +1,14 @@
 ---
 title: ContextEntity
 second_title: Aspose.Finance for .NET API 参考
-description: Context./context的实体
+description: 的实体Context./context.
 type: docs
 weight: 6550
 url: /zh/net/aspose.finance.xbrl/contextentity/
 ---
 ## ContextEntity class
 
-[`Context`](../context)的实体。
+的实体[`Context`](../context).
 
 ```csharp
 public class ContextEntity
@@ -18,13 +18,13 @@ public class ContextEntity
 
 | 姓名 | 描述 |
 | --- | --- |
-| [ContextEntity](contextentity)(string, string) | 初始化[`ContextEntity`](../contextentity)类的新实例。 |
+| [ContextEntity](contextentity)(string, string) | 初始化一个新的实例[`ContextEntity`](../contextentity)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [DimensionMemberList](../../aspose.finance.xbrl/contextentity/dimensionmemberlist) { get; } | 获取段中定义的维度成员列表。 |
+| [DimensionMemberList](../../aspose.finance.xbrl/contextentity/dimensionmemberlist) { get; } | 获取segment. 中定义的维度成员列表 |
 | [Identifier](../../aspose.finance.xbrl/contextentity/identifier) { get; set; } | 获取或设置上下文实体标识符。 |
 | [IdentifierScheme](../../aspose.finance.xbrl/contextentity/identifierscheme) { get; set; } | 获取或设置上下文实体标识符方案。 |
 

@@ -18,22 +18,22 @@ public class BankResponseMessageSetV1 : AbstractResponseMessageSet
 
 | Имя | Описание |
 | --- | --- |
-| [BankResponseMessageSetV1](bankresponsemessagesetv1)() | Инициализирует новый экземпляр класса[`BankResponseMessageSetV1`](../bankresponsemessagesetv1). |
+| [BankResponseMessageSetV1](bankresponsemessagesetv1)() | Инициализирует новый экземпляр[`BankResponseMessageSetV1`](../bankresponsemessagesetv1) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [BankMailSyncResponses](../../aspose.finance.ofx/bankresponsemessagesetv1/bankmailsyncresponses) { get; set; } | Получает или задает коллекцию[`BankMailSyncResponse`](../../aspose.finance.ofx.bank/bankmailsyncresponse). |
-| [BankMailTransactionResponses](../../aspose.finance.ofx/bankresponsemessagesetv1/bankmailtransactionresponses) { get; set; } | Получает или задает коллекцию[`BankMailTransactionResponse`](../../aspose.finance.ofx.bank/bankmailtransactionresponse). |
-| [IntraSyncResponses](../../aspose.finance.ofx/bankresponsemessagesetv1/intrasyncresponses) { get; set; } | Получает или задает коллекцию[`IntraSyncResponse`](../../aspose.finance.ofx.bank/intrasyncresponse). |
-| [IntraTransactionResponses](../../aspose.finance.ofx/bankresponsemessagesetv1/intratransactionresponses) { get; set; } | Получает или задает коллекцию[`IntraTransactionResponse`](../../aspose.finance.ofx.bank/intratransactionresponse). |
-| [RecurringIntraSyncResponses](../../aspose.finance.ofx/bankresponsemessagesetv1/recurringintrasyncresponses) { get; set; } | Получает или задает коллекцию[`RecurringIntraSyncResponse`](../../aspose.finance.ofx.bank/recurringintrasyncresponse). |
-| [RecurringIntraTransactionResponses](../../aspose.finance.ofx/bankresponsemessagesetv1/recurringintratransactionresponses) { get; set; } | Получает или задает коллекцию[`RecurringIntraTransactionResponse`](../../aspose.finance.ofx.bank/recurringintratransactionresponse). |
-| [StatementEndTransactionResponses](../../aspose.finance.ofx/bankresponsemessagesetv1/statementendtransactionresponses) { get; set; } | Получает или задает коллекцию[`StatementEndTransactionResponse`](../../aspose.finance.ofx.bank/statementendtransactionresponse). |
-| [StatementTransactionResponses](../../aspose.finance.ofx/bankresponsemessagesetv1/statementtransactionresponses) { get; set; } | Получает или задает коллекцию[`StatementTransactionResponse`](../../aspose.finance.ofx.bank/statementtransactionresponse). |
-| [StopCheckSyncResponses](../../aspose.finance.ofx/bankresponsemessagesetv1/stopchecksyncresponses) { get; set; } | Получает или задает коллекцию[`StopCheckSyncResponse`](../../aspose.finance.ofx.bank/stopchecksyncresponse). |
-| [StopCheckTransactionResponses](../../aspose.finance.ofx/bankresponsemessagesetv1/stopchecktransactionresponses) { get; set; } | Получает или задает коллекцию[`StopCheckTransactionResponse`](../../aspose.finance.ofx.bank/stopchecktransactionresponse). |
+| [BankMailSyncResponses](../../aspose.finance.ofx/bankresponsemessagesetv1/bankmailsyncresponses) { get; set; } | Получает или задает коллекцию[`BankMailSyncResponse`](../../aspose.finance.ofx.bank/bankmailsyncresponse) . |
+| [BankMailTransactionResponses](../../aspose.finance.ofx/bankresponsemessagesetv1/bankmailtransactionresponses) { get; set; } | Получает или задает коллекцию[`BankMailTransactionResponse`](../../aspose.finance.ofx.bank/bankmailtransactionresponse) . |
+| [IntraSyncResponses](../../aspose.finance.ofx/bankresponsemessagesetv1/intrasyncresponses) { get; set; } | Получает или задает коллекцию[`IntraSyncResponse`](../../aspose.finance.ofx.bank/intrasyncresponse) . |
+| [IntraTransactionResponses](../../aspose.finance.ofx/bankresponsemessagesetv1/intratransactionresponses) { get; set; } | Получает или задает коллекцию[`IntraTransactionResponse`](../../aspose.finance.ofx.bank/intratransactionresponse) . |
+| [RecurringIntraSyncResponses](../../aspose.finance.ofx/bankresponsemessagesetv1/recurringintrasyncresponses) { get; set; } | Получает или задает коллекцию[`RecurringIntraSyncResponse`](../../aspose.finance.ofx.bank/recurringintrasyncresponse) . |
+| [RecurringIntraTransactionResponses](../../aspose.finance.ofx/bankresponsemessagesetv1/recurringintratransactionresponses) { get; set; } | Получает или задает коллекцию[`RecurringIntraTransactionResponse`](../../aspose.finance.ofx.bank/recurringintratransactionresponse) . |
+| [StatementEndTransactionResponses](../../aspose.finance.ofx/bankresponsemessagesetv1/statementendtransactionresponses) { get; set; } | Получает или задает коллекцию[`StatementEndTransactionResponse`](../../aspose.finance.ofx.bank/statementendtransactionresponse) . |
+| [StatementTransactionResponses](../../aspose.finance.ofx/bankresponsemessagesetv1/statementtransactionresponses) { get; set; } | Получает или задает коллекцию[`StatementTransactionResponse`](../../aspose.finance.ofx.bank/statementtransactionresponse) . |
+| [StopCheckSyncResponses](../../aspose.finance.ofx/bankresponsemessagesetv1/stopchecksyncresponses) { get; set; } | Получает или задает коллекцию[`StopCheckSyncResponse`](../../aspose.finance.ofx.bank/stopchecksyncresponse) . |
+| [StopCheckTransactionResponses](../../aspose.finance.ofx/bankresponsemessagesetv1/stopchecktransactionresponses) { get; set; } | Получает или задает коллекцию[`StopCheckTransactionResponse`](../../aspose.finance.ofx.bank/stopchecktransactionresponse) . |
 
 ### Смотрите также
 

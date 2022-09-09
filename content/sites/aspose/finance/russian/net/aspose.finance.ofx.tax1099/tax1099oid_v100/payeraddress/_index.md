@@ -1,14 +1,14 @@
 ---
 title: PayerAddress
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задаетPayerAddressaspose.finance.ofx.tax1099/tax1099oid_v100/payeraddress.
+description: Получает или задаетPayerAddressaspose.finance.ofx.tax1099/tax1099oid_v100/payeraddress .
 type: docs
 weight: 130
 url: /ru/net/aspose.finance.ofx.tax1099/tax1099oid_v100/payeraddress/
 ---
 ## Tax1099OID_V100.PayerAddress property
 
-Получает или задает`PayerAddress`.
+Получает или задает`PayerAddress` .
 
 ```csharp
 public PayerAddress PayerAddress { get; set; }

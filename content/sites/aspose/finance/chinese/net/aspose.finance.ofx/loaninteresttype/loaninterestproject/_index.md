@@ -1,14 +1,14 @@
 ---
 title: LoanInterestProject
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置此贷款预计支付的总利息
+description: 获取或设置此贷款要支付的预计总利息
 type: docs
 weight: 40
 url: /zh/net/aspose.finance.ofx/loaninteresttype/loaninterestproject/
 ---
 ## LoanInterestType.LoanInterestProject property
 
-获取或设置此贷款预计支付的总利息
+获取或设置此贷款要支付的预计总利息
 
 ```csharp
 public string LoanInterestProject { get; set; }

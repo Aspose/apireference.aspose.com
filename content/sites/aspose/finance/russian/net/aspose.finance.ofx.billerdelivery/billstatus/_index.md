@@ -18,7 +18,7 @@ public class BillStatus
 
 | Имя | Описание |
 | --- | --- |
-| [BillStatus](billstatus)() | Инициализирует новый экземпляр класса[`BillStatus`](../billstatus). |
+| [BillStatus](billstatus)() | Инициализирует новый экземпляр[`BillStatus`](../billstatus) класс. |
 
 ## Характеристики
 
@@ -26,7 +26,7 @@ public class BillStatus
 | --- | --- |
 | [BillStatusCode](../../aspose.finance.ofx.billerdelivery/billstatus/billstatuscode) { get; set; } | Получает или задает код состояния счета. |
 | [EffectiveDate](../../aspose.finance.ofx.billerdelivery/billstatus/effectivedate) { get; set; } | Получает или задает дату/время вступления статуса в силу. |
-| [StatusModifiedBy](../../aspose.finance.ofx.billerdelivery/billstatus/statusmodifiedby) { get; set; } | Получает или задает статус, измененный кем. Серверы не обязаны хранить эту информацию. |
+| [StatusModifiedBy](../../aspose.finance.ofx.billerdelivery/billstatus/statusmodifiedby) { get; set; } | Получает или задает статус изменен. Серверы не обязаны хранить эту информацию. |
 
 ### Смотрите также
 

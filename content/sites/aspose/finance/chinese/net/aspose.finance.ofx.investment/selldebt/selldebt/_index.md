@@ -1,14 +1,14 @@
 ---
 title: SellDebt
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化SellDebtaspose.finance.ofx.investment/selldebt类的新实例
+description: 初始化一个新的实例SellDebtaspose.finance.ofx.investment/selldebt类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.investment/selldebt/selldebt/
 ---
 ## SellDebt constructor
 
-初始化[`SellDebt`](../../selldebt)类的新实例。
+初始化一个新的实例[`SellDebt`](../../selldebt)类.
 
 ```csharp
 public SellDebt()

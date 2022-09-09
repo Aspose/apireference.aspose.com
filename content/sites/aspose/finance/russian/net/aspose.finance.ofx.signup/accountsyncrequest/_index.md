@@ -18,15 +18,15 @@ public class AccountSyncRequest : AbstractSyncRequest
 
 | Имя | Описание |
 | --- | --- |
-| [AccountSyncRequest](accountsyncrequest)() | Инициализирует новый экземпляр класса[`AccountSyncRequest`](../accountsyncrequest). |
+| [AccountSyncRequest](accountsyncrequest)() | Инициализирует новый экземпляр[`AccountSyncRequest`](../accountsyncrequest) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [AccountTransactionRequests](../../aspose.finance.ofx.signup/accountsyncrequest/accounttransactionrequests) { get; set; } | Получает или задает коллекцию[`AccountTransactionRequest`](../accounttransactionrequest). |
-| [OfxExtension](../../aspose.finance.ofx.signup/accountsyncrequest/ofxextension) { get; set; } | Получает или задает[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
-| [Refresh](../../aspose.finance.ofx/abstractsyncrequest/refresh) { get; set; } | Получает или задает запрос на обновление текущего состояния. |
+| [AccountTransactionRequests](../../aspose.finance.ofx.signup/accountsyncrequest/accounttransactionrequests) { get; set; } | Получает или задает коллекцию[`AccountTransactionRequest`](../accounttransactionrequest) . |
+| [OfxExtension](../../aspose.finance.ofx.signup/accountsyncrequest/ofxextension) { get; set; } | Получает или задает[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype) . |
+| [Refresh](../../aspose.finance.ofx/abstractsyncrequest/refresh) { get; set; } | Получает или устанавливает запрос на обновление текущего состояния. |
 | [RejectIfMisssing](../../aspose.finance.ofx/abstractsyncrequest/rejectifmisssing) { get; set; } | Если да, не обрабатывать запросы, если токен клиента устарел. |
 | [Token](../../aspose.finance.ofx/abstractsyncrequest/token) { get; set; } | Получает или задает токен. |
 | [TokenOnly](../../aspose.finance.ofx/abstractsyncrequest/tokenonly) { get; set; } | Получает или задает, запрашивать ли только текущий токен без истории. |

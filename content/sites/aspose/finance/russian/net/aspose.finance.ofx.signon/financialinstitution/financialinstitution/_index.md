@@ -1,14 +1,14 @@
 ---
 title: FinancialInstitution
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаFinancialInstitutionaspose.finance.ofx.signon/financialinstitution.
+description: Инициализирует новый экземплярFinancialInstitutionaspose.finance.ofx.signon/financialinstitution класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.signon/financialinstitution/financialinstitution/
 ---
 ## FinancialInstitution constructor
 
-Инициализирует новый экземпляр класса[`FinancialInstitution`](../../financialinstitution).
+Инициализирует новый экземпляр[`FinancialInstitution`](../../financialinstitution) класс.
 
 ```csharp
 public FinancialInstitution()

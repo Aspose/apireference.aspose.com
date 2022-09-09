@@ -1,14 +1,14 @@
 ---
 title: ContributionType
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置当前贡献分配为百分比或金额
+description: 获取或设置当前贡献分配是百分比或金额
 type: docs
 weight: 40
 url: /zh/net/aspose.finance.ofx.investment/contributionsecurity/contributiontype/
 ---
 ## ContributionSecurity.ContributionType property
 
-获取或设置当前贡献分配为百分比或金额。
+获取或设置当前贡献分配是百分比或金额。
 
 ```csharp
 public ContributionTypeEnum ContributionType { get; set; }

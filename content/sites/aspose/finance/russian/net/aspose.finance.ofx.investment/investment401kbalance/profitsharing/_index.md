@@ -1,14 +1,14 @@
 ---
 title: ProfitSharing
 second_title: Справочник по API Aspose.Finance для .NET
-description: Возвращает или задает текущую стоимость всех ценных бумаг приобретенных с помощью взносов Employer Profit Sharing
+description: Получает или задает текущую стоимость всех ценных бумаг приобретенных за счет участия работодателя в прибылях взносов
 type: docs
 weight: 90
 url: /ru/net/aspose.finance.ofx.investment/investment401kbalance/profitsharing/
 ---
 ## Investment401kBalance.ProfitSharing property
 
-Возвращает или задает текущую стоимость всех ценных бумаг, приобретенных с помощью взносов Employer Profit Sharing
+Получает или задает текущую стоимость всех ценных бумаг, приобретенных за счет участия работодателя в прибылях взносов
 
 ```csharp
 public string ProfitSharing { get; set; }

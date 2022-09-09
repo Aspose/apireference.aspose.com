@@ -1,14 +1,14 @@
 ---
 title: PayerAddress
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаPayerAddressaspose.finance.ofx.tax1099/payeraddress.
+description: Инициализирует новый экземплярPayerAddressaspose.finance.ofx.tax1099/payeraddress класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.tax1099/payeraddress/payeraddress/
 ---
 ## PayerAddress constructor
 
-Инициализирует новый экземпляр класса[`PayerAddress`](../../payeraddress).
+Инициализирует новый экземпляр[`PayerAddress`](../../payeraddress) класс.
 
 ```csharp
 public PayerAddress()

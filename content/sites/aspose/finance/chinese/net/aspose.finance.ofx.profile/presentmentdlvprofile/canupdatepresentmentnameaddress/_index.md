@@ -1,14 +1,14 @@
 ---
 title: CanUpdatePresentmentNameAddress
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置是否支持更新与特定账单关联的PresentmentNameAddressaspose.finance.ofx/presentmentnameaddress
+description: 获取或设置是否支持更新PresentmentNameAddressaspose.finance.ofx/presentmentnameaddress与特定账单相关联
 type: docs
 weight: 40
 url: /zh/net/aspose.finance.ofx.profile/presentmentdlvprofile/canupdatepresentmentnameaddress/
 ---
 ## PresentmentDlvProfile.CanUpdatePresentmentNameAddress property
 
-获取或设置是否支持更新与特定账单关联的[`PresentmentNameAddress`](../../../aspose.finance.ofx/presentmentnameaddress)
+获取或设置是否支持更新[`PresentmentNameAddress`](../../../aspose.finance.ofx/presentmentnameaddress)与特定账单相关联，
 
 ```csharp
 public bool CanUpdatePresentmentNameAddress { get; set; }

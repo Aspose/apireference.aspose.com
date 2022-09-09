@@ -1,14 +1,14 @@
 ---
 title: PeriodToDate
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化PeriodToDateaspose.finance.ofx.investment/periodtodate类的新实例
+description: 初始化一个新的实例PeriodToDateaspose.finance.ofx.investment/periodtodate类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.investment/periodtodate/periodtodate/
 ---
 ## PeriodToDate constructor
 
-初始化[`PeriodToDate`](../../periodtodate)类的新实例。
+初始化一个新的实例[`PeriodToDate`](../../periodtodate)类.
 
 ```csharp
 public PeriodToDate()

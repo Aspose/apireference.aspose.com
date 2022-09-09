@@ -1,14 +1,14 @@
 ---
 title: OptionSellEnum
 second_title: Справочник по API Aspose.Finance для .NET
-description: Вариант продать перечисление.
+description: Вариант продажи enum.
 type: docs
 weight: 3350
 url: /ru/net/aspose.finance.ofx.investment/optionsellenum/
 ---
 ## OptionSellEnum enumeration
 
-Вариант продать перечисление.
+Вариант продажи enum.
 
 ```csharp
 public enum OptionSellEnum

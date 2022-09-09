@@ -1,14 +1,14 @@
 ---
 title: Tax1099OID_V100
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаTax1099OID_V100aspose.finance.ofx.tax1099/tax1099oid_v100.
+description: Инициализирует новый экземплярTax1099OID_V100aspose.finance.ofx.tax1099/tax1099oid_v100 класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.tax1099/tax1099oid_v100/tax1099oid_v100/
 ---
 ## Tax1099OID_V100 constructor
 
-Инициализирует новый экземпляр класса[`Tax1099OID_V100`](../../tax1099oid_v100).
+Инициализирует новый экземпляр[`Tax1099OID_V100`](../../tax1099oid_v100) класс.
 
 ```csharp
 public Tax1099OID_V100()

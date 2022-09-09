@@ -1,14 +1,14 @@
 ---
 title: PrincipalYearToDate
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置年初至今支付的总本金
+description: 获取或设置年初至今支付的本金总额
 type: docs
 weight: 50
 url: /zh/net/aspose.finance.ofx/principalbalancetype/principalyeartodate/
 ---
 ## PrincipalBalanceType.PrincipalYearToDate property
 
-获取或设置年初至今支付的总本金。
+获取或设置年初至今支付的本金总额。
 
 ```csharp
 public string PrincipalYearToDate { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: CreditCardStatementEndTransactionRequests
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置CreditCardStatementEndTransactionRequestaspose.finance.ofx.creditcard/creditcardstatementendtransactionrequest的集合
+description: 获取或设置的集合CreditCardStatementEndTransactionRequestaspose.finance.ofx.creditcard/creditcardstatementendtransactionrequest.
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.ofx/creditcardrequestmessagesetv1/creditcardstatementendtransactionrequests/
 ---
 ## CreditcardRequestMessageSetV1.CreditCardStatementEndTransactionRequests property
 
-获取或设置[`CreditCardStatementEndTransactionRequest`](../../../aspose.finance.ofx.creditcard/creditcardstatementendtransactionrequest)的集合。
+获取或设置的集合[`CreditCardStatementEndTransactionRequest`](../../../aspose.finance.ofx.creditcard/creditcardstatementendtransactionrequest).
 
 ```csharp
 public List<CreditCardStatementEndTransactionRequest> 

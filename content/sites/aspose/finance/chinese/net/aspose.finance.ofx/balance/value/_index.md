@@ -8,7 +8,7 @@ url: /zh/net/aspose.finance.ofx/balance/value/
 ---
 ## Balance.Value property
 
-获取或设置余额值。
+获取或设置余额值
 
 ```csharp
 public string Value { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: TypedMemberElement
 second_title: Aspose.Finance for .NET API 参考
-description: 获取成员元素如果它是类型化维度成员
+description: 如果是类型化维度成员则获取成员元素
 type: docs
 weight: 50
 url: /zh/net/aspose.finance.xbrl/dimensionmember/typedmemberelement/
 ---
 ## DimensionMember.TypedMemberElement property
 
-获取成员元素（如果它是类型化维度成员）。
+如果是类型化维度成员，则获取成员元素。
 
 ```csharp
 public Element TypedMemberElement { get; }

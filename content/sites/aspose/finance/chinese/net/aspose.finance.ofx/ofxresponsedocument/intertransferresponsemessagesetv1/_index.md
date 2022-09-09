@@ -1,14 +1,14 @@
 ---
 title: InterTransferResponseMessageSetV1
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置InterTransferResponseMessageSetV1aspose.finance.ofx/ofxresponsedocument/intertransferresponsemessagesetv1
+description: 获取或设置InterTransferResponseMessageSetV1aspose.finance.ofx/ofxresponsedocument/intertransferresponsemessagesetv1.
 type: docs
 weight: 60
 url: /zh/net/aspose.finance.ofx/ofxresponsedocument/intertransferresponsemessagesetv1/
 ---
 ## OfxResponseDocument.InterTransferResponseMessageSetV1 property
 
-获取或设置`InterTransferResponseMessageSetV1`。
+获取或设置`InterTransferResponseMessageSetV1`.
 
 ```csharp
 public InterTransferResponseMessageSetV1 InterTransferResponseMessageSetV1 { get; set; }

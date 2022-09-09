@@ -1,14 +1,14 @@
 ---
 title: Portion
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаPortionaspose.finance.ofx.securitieslist/portion.
+description: Инициализирует новый экземплярPortionaspose.finance.ofx.securitieslist/portion класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.securitieslist/portion/portion/
 ---
 ## Portion constructor
 
-Инициализирует новый экземпляр класса[`Portion`](../../portion).
+Инициализирует новый экземпляр[`Portion`](../../portion) класс.
 
 ```csharp
 public Portion()

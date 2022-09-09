@@ -1,14 +1,14 @@
 ---
 title: InvestmentBankTransaction
 second_title: Справочник по API Aspose.Finance для .NET
-description: Этот класс используется для загрузки банковских транзакций при загрузке инвестиционного отчета.
+description: Этот класс используется для загрузки банковских транзакций при загрузке отчета об инвестициях.
 type: docs
 weight: 2930
 url: /ru/net/aspose.finance.ofx.investment/investmentbanktransaction/
 ---
 ## InvestmentBankTransaction class
 
-Этот класс используется для загрузки банковских транзакций при загрузке инвестиционного отчета.
+Этот класс используется для загрузки банковских транзакций при загрузке отчета об инвестициях.
 
 ```csharp
 public class InvestmentBankTransaction
@@ -18,13 +18,13 @@ public class InvestmentBankTransaction
 
 | Имя | Описание |
 | --- | --- |
-| [InvestmentBankTransaction](investmentbanktransaction)() | Инициализирует новый экземпляр класса[`InvestmentBankTransaction`](../investmentbanktransaction). |
+| [InvestmentBankTransaction](investmentbanktransaction)() | Инициализирует новый экземпляр[`InvestmentBankTransaction`](../investmentbanktransaction) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [StatementTransaction](../../aspose.finance.ofx.investment/investmentbanktransaction/statementtransaction) { get; set; } | Получает или задает[`StatementTransaction`](./statementtransaction). |
+| [StatementTransaction](../../aspose.finance.ofx.investment/investmentbanktransaction/statementtransaction) { get; set; } | Получает или задает[`StatementTransaction`](./statementtransaction) . |
 | [SubAccountFund](../../aspose.finance.ofx.investment/investmentbanktransaction/subaccountfund) { get; set; } | Получает или задает субсчет, связанный со средствами для транзакции. |
 
 ### Смотрите также

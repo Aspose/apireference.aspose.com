@@ -1,14 +1,14 @@
 ---
 title: GeneralSecurityInfo
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаGeneralSecurityInfoaspose.finance.ofx.securitieslist/generalsecurityinfo.
+description: Инициализирует новый экземплярGeneralSecurityInfoaspose.finance.ofx.securitieslist/generalsecurityinfo класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.securitieslist/generalsecurityinfo/generalsecurityinfo/
 ---
 ## GeneralSecurityInfo constructor
 
-Инициализирует новый экземпляр класса[`GeneralSecurityInfo`](../../generalsecurityinfo).
+Инициализирует новый экземпляр[`GeneralSecurityInfo`](../../generalsecurityinfo) класс.
 
 ```csharp
 public GeneralSecurityInfo()

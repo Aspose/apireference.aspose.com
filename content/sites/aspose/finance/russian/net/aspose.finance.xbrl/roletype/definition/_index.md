@@ -1,14 +1,14 @@
 ---
 title: Definition
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает определение вRoleTypeaspose.finance.xbrl/roletype.
+description: Получает определение вRoleTypeaspose.finance.xbrl/roletype .
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.xbrl/roletype/definition/
 ---
 ## RoleType.Definition property
 
-Получает определение в[`RoleType`](../../roletype).
+Получает определение в[`RoleType`](../../roletype) .
 
 ```csharp
 public string Definition { get; set; }

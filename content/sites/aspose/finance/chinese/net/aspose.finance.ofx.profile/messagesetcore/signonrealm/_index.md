@@ -1,14 +1,14 @@
 ---
 title: SignonRealm
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置用于此消息集的登录领域
+description: 获取或设置与此消息集一起使用的登录领域
 type: docs
 weight: 80
 url: /zh/net/aspose.finance.ofx.profile/messagesetcore/signonrealm/
 ---
 ## MessageSetCore.SignonRealm property
 
-获取或设置用于此消息集的登录领域。
+获取或设置与此消息集一起使用的登录领域。
 
 ```csharp
 public string SignonRealm { get; set; }

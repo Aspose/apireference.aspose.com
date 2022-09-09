@@ -1,14 +1,14 @@
 ---
 title: StatementEndResponse
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置StatementEndResponseaspose.finance.ofx.bank/statementendtransactionresponse/statementendresponse
+description: 获取或设置StatementEndResponseaspose.finance.ofx.bank/statementendtransactionresponse/statementendresponse.
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.ofx.bank/statementendtransactionresponse/statementendresponse/
 ---
 ## StatementEndTransactionResponse.StatementEndResponse property
 
-获取或设置`StatementEndResponse`。
+获取或设置`StatementEndResponse`.
 
 ```csharp
 public StatementEndResponse StatementEndResponse { get; set; }

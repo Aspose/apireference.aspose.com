@@ -1,14 +1,14 @@
 ---
 title: PreTax
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает прибыль до вычета налогов.
+description: Получает или задает прибыль до налогообложения.
 type: docs
 weight: 60
 url: /ru/net/aspose.finance.ofx.investment/earnings/pretax/
 ---
 ## Earnings.PreTax property
 
-Получает или задает прибыль до вычета налогов.
+Получает или задает прибыль до налогообложения.
 
 ```csharp
 public string PreTax { get; set; }

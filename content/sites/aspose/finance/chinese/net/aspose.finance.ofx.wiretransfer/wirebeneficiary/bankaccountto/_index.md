@@ -1,14 +1,14 @@
 ---
 title: BankAccountTo
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置BankAccountaspose.finance.ofx/bankaccount的 to 
+description: 获取或设置BankAccountaspose.finance.ofx/bankaccount.
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.ofx.wiretransfer/wirebeneficiary/bankaccountto/
 ---
 ## WireBeneficiary.BankAccountTo property
 
-获取或设置[`BankAccount`](../../../aspose.finance.ofx/bankaccount)的 to 。
+获取或设置[`BankAccount`](../../../aspose.finance.ofx/bankaccount).
 
 ```csharp
 public BankAccount BankAccountTo { get; set; }

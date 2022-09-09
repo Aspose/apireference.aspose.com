@@ -18,7 +18,7 @@ public class TransferProfile
 
 | 姓名 | 描述 |
 | --- | --- |
-| [TransferProfile](transferprofile)() | 初始化[`TransferProfile`](../transferprofile)类的新实例。 |
+| [TransferProfile](transferprofile)() | 初始化一个新的实例[`TransferProfile`](../transferprofile)类. |
 
 ## 特性
 
@@ -28,12 +28,12 @@ public class TransferProfile
 | [CanModificationModels](../../aspose.finance.ofx.profile/transferprofile/canmodificationmodels) { get; set; } | 获取或设置是否允许修改模型。 |
 | [CanModificationTransfers](../../aspose.finance.ofx.profile/transferprofile/canmodificationtransfers) { get; set; } | 获取或设置是否允许修改传输。 |
 | [CanRecurring](../../aspose.finance.ofx.profile/transferprofile/canrecurring) { get; set; } | 获取或设置是否支持循环转账。 |
-| [CanRecurringLoan](../../aspose.finance.ofx.profile/transferprofile/canrecurringloan) { get; set; } | 获取或设置是否支持定期转账。 |
+| [CanRecurringLoan](../../aspose.finance.ofx.profile/transferprofile/canrecurringloan) { get; set; } | 获取或设置是否支持贷款的定期转账。 |
 | [CanScheduled](../../aspose.finance.ofx.profile/transferprofile/canscheduled) { get; set; } | 获取或设置是否支持预定传输。 |
-| [CanScheduledLoan](../../aspose.finance.ofx.profile/transferprofile/canscheduledloan) { get; set; } | 获取或设置是否支持预定的贷款转移。 |
+| [CanScheduledLoan](../../aspose.finance.ofx.profile/transferprofile/canscheduledloan) { get; set; } | 获取或设置是否支持预定的贷款转账。 |
 | [DaysWith](../../aspose.finance.ofx.profile/transferprofile/dayswith) { get; set; } | 获取或设置提款处理日期前的天数， |
 | [DefaultDaysToPay](../../aspose.finance.ofx.profile/transferprofile/defaultdaystopay) { get; set; } | 获取或设置默认支付天数。 |
-| [ModelWindow](../../aspose.finance.ofx.profile/transferprofile/modelwindow) { get; set; } | 获取或设置模型窗口，即在系统上实例化重复事务之前的天数 |
+| [ModelWindow](../../aspose.finance.ofx.profile/transferprofile/modelwindow) { get; set; } | 获取或设置模型窗口，在系统上实例化重复交易之前的天数 |
 | [ProcessingDaysOffs](../../aspose.finance.ofx.profile/transferprofile/processingdaysoffs) { get; set; } | 获取或设置不进行处理的星期几。 |
 | [ProcessingEndTime](../../aspose.finance.ofx.profile/transferprofile/processingendtime) { get; set; } | 获取或设置当天处理结束的时间。 |
 

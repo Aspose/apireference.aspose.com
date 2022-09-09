@@ -1,14 +1,14 @@
 ---
 title: SecurityListResponseMessageSetV1
 second_title: Aspose.Finance for .NET API 参考
-description: 安全列表响应消息设置版本 1 类
+description: 安全列表响应消息集版本 1 类
 type: docs
 weight: 5220
 url: /zh/net/aspose.finance.ofx/securitylistresponsemessagesetv1/
 ---
 ## SecurityListResponseMessageSetV1 class
 
-安全列表响应消息设置版本 1 类。
+安全列表响应消息集版本 1 类。
 
 ```csharp
 public class SecurityListResponseMessageSetV1 : AbstractResponseMessageSet
@@ -18,14 +18,14 @@ public class SecurityListResponseMessageSetV1 : AbstractResponseMessageSet
 
 | 姓名 | 描述 |
 | --- | --- |
-| [SecurityListResponseMessageSetV1](securitylistresponsemessagesetv1)() | 初始化[`SecurityListResponseMessageSetV1`](../securitylistresponsemessagesetv1)类的新实例。 |
+| [SecurityListResponseMessageSetV1](securitylistresponsemessagesetv1)() | 初始化一个新的实例[`SecurityListResponseMessageSetV1`](../securitylistresponsemessagesetv1)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [SecurityList](../../aspose.finance.ofx/securitylistresponsemessagesetv1/securitylist) { get; set; } | 获取或设置[`SecurityList`](../../aspose.finance.ofx.securitieslist/securitylist)。 |
-| [SecurityListTransactionResponses](../../aspose.finance.ofx/securitylistresponsemessagesetv1/securitylisttransactionresponses) { get; set; } | 获取或设置[`SecurityListTransactionResponse`](../../aspose.finance.ofx.securitieslist/securitylisttransactionresponse)的集合。 |
+| [SecurityList](../../aspose.finance.ofx/securitylistresponsemessagesetv1/securitylist) { get; set; } | 获取或设置[`SecurityList`](../../aspose.finance.ofx.securitieslist/securitylist). |
+| [SecurityListTransactionResponses](../../aspose.finance.ofx/securitylistresponsemessagesetv1/securitylisttransactionresponses) { get; set; } | 获取或设置的集合[`SecurityListTransactionResponse`](../../aspose.finance.ofx.securitieslist/securitylisttransactionresponse). |
 
 ### 也可以看看
 

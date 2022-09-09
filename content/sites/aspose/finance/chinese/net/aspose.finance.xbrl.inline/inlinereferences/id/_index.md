@@ -1,14 +1,14 @@
 ---
 title: Id
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置InlineReferencesaspose.finance.xbrl.inline/inlinereferences的 id
+description: 获取或设置 idInlineReferencesaspose.finance.xbrl.inline/inlinereferences.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.xbrl.inline/inlinereferences/id/
 ---
 ## InlineReferences.Id property
 
-获取或设置[`InlineReferences`](../../inlinereferences)的 id。
+获取或设置 id[`InlineReferences`](../../inlinereferences).
 
 ```csharp
 public string Id { get; set; }

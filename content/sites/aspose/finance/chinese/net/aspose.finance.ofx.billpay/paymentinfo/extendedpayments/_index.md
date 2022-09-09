@@ -1,14 +1,14 @@
 ---
 title: ExtendedPayments
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置ExtendedPaymentaspose.finance.ofx.billpay/extendedpayment的集合
+description: 获取或设置的集合ExtendedPaymentaspose.finance.ofx.billpay/extendedpayment.
 type: docs
 weight: 70
 url: /zh/net/aspose.finance.ofx.billpay/paymentinfo/extendedpayments/
 ---
 ## PaymentInfo.ExtendedPayments property
 
-获取或设置[`ExtendedPayment`](../../extendedpayment)的集合。
+获取或设置的集合[`ExtendedPayment`](../../extendedpayment).
 
 ```csharp
 public List<ExtendedPayment> ExtendedPayments { get; set; }

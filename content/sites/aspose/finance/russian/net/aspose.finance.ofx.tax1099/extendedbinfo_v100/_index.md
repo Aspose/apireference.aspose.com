@@ -18,14 +18,14 @@ public class ExtendedBInfo_V100
 
 | Имя | Описание |
 | --- | --- |
-| [ExtendedBInfo_V100](extendedbinfo_v100)() | Инициализирует новый экземпляр класса[`ExtendedBInfo_V100`](../extendedbinfo_v100). |
+| [ExtendedBInfo_V100](extendedbinfo_v100)() | Инициализирует новый экземпляр[`ExtendedBInfo_V100`](../extendedbinfo_v100) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [ProceedDescription_V100s](../../aspose.finance.ofx.tax1099/extendedbinfo_v100/proceeddescription_v100s) { get; set; } | Получает или задает коллекцию[`ProceedDescription_V100`](../proceeddescription_v100). |
-| [ProceedSummary_V100s](../../aspose.finance.ofx.tax1099/extendedbinfo_v100/proceedsummary_v100s) { get; set; } | Получает или задает коллекцию[`ProceedSummary_V100`](../proceedsummary_v100). |
+| [ProceedDescription_V100s](../../aspose.finance.ofx.tax1099/extendedbinfo_v100/proceeddescription_v100s) { get; set; } | Получает или задает коллекцию[`ProceedDescription_V100`](../proceeddescription_v100) . |
+| [ProceedSummary_V100s](../../aspose.finance.ofx.tax1099/extendedbinfo_v100/proceedsummary_v100s) { get; set; } | Получает или задает коллекцию[`ProceedSummary_V100`](../proceedsummary_v100) . |
 
 ### Смотрите также
 

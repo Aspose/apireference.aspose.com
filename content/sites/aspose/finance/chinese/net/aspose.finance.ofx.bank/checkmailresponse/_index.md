@@ -1,14 +1,14 @@
 ---
 title: CheckMailResponse
 second_title: Aspose.Finance for .NET API 参考
-description: 检查邮件通知消息响应类如果服务器接收到银行电子邮件同步消息则服务器返回此响应当已返回支票时
+description: 检查邮件通知消息响应类如果服务器收到银行电子邮件同步消息则服务器返回此响应当已返回支票时
 type: docs
 weight: 380
 url: /zh/net/aspose.finance.ofx.bank/checkmailresponse/
 ---
 ## CheckMailResponse class
 
-检查邮件通知消息响应类。如果服务器接收到银行电子邮件同步消息，则服务器返回此响应（当已返回支票时）。
+检查邮件通知消息响应类。如果服务器收到银行电子邮件同步消息，则服务器返回此响应（当已返回支票时）。
 
 ```csharp
 public class CheckMailResponse : AbstractMailResponse
@@ -18,18 +18,18 @@ public class CheckMailResponse : AbstractMailResponse
 
 | 姓名 | 描述 |
 | --- | --- |
-| [CheckMailResponse](checkmailresponse)() | 初始化[`CheckMailResponse`](../checkmailresponse)类的新实例。 |
+| [CheckMailResponse](checkmailresponse)() | 初始化一个新的实例[`CheckMailResponse`](../checkmailresponse)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [BankAccountFrom](../../aspose.finance.ofx.bank/checkmailresponse/bankaccountfrom) { get; set; } | 获取或设置[`BankAccount`](../../aspose.finance.ofx/bankaccount)的来源。 |
-| [CheckNumber](../../aspose.finance.ofx.bank/checkmailresponse/checknumber) { get; set; } | 获取或设置校验号。 |
+| [BankAccountFrom](../../aspose.finance.ofx.bank/checkmailresponse/bankaccountfrom) { get; set; } | 获取或设置 from[`BankAccount`](../../aspose.finance.ofx/bankaccount). |
+| [CheckNumber](../../aspose.finance.ofx.bank/checkmailresponse/checknumber) { get; set; } | 获取或设置校验号 |
 | [Fee](../../aspose.finance.ofx.bank/checkmailresponse/fee) { get; set; } | 获取或设置为 NSF 评估的费用。 |
-| [Mail](../../aspose.finance.ofx.bank/checkmailresponse/mail) { get; set; } | 获取或设置[`Mail`](./mail)。 |
+| [Mail](../../aspose.finance.ofx.bank/checkmailresponse/mail) { get; set; } | 获取或设置[`Mail`](./mail). |
 | [TransactionAmount](../../aspose.finance.ofx.bank/checkmailresponse/transactionamount) { get; set; } | 获取或设置支票金额。 |
-| [UserDate](../../aspose.finance.ofx.bank/checkmailresponse/userdate) { get; set; } | 获取或设置客户检查日期。 |
+| [UserDate](../../aspose.finance.ofx.bank/checkmailresponse/userdate) { get; set; } | 获取或设置客户支票日期。 |
 
 ### 也可以看看
 

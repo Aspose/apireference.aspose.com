@@ -18,18 +18,18 @@ public class MatchInfo
 
 | 姓名 | 描述 |
 | --- | --- |
-| [MatchInfo](matchinfo)() | 初始化[`MatchInfo`](../matchinfo)类的新实例。 |
+| [MatchInfo](matchinfo)() | 初始化一个新的实例[`MatchInfo`](../matchinfo)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [BaseMatchAmount](../../aspose.finance.ofx.investment/matchinfo/basematchamount) { get; set; } | 获取或设置如果雇员完全参与计划，则由雇主贡献的固定美元金额。 |
+| [BaseMatchAmount](../../aspose.finance.ofx.investment/matchinfo/basematchamount) { get; set; } | 获取或设置在雇员完全参与计划时由雇主贡献的固定美元金额。 |
 | [BaseMatchPercent](../../aspose.finance.ofx.investment/matchinfo/basematchpercent) { get; set; } | 获取或设置员工完全参与计划时匹配的员工工资的固定百分比。 |
 | [MatchPercent](../../aspose.finance.ofx.investment/matchinfo/matchpercent) { get; set; } | 获取或设置匹配的员工贡献百分比。 |
-| [MaxMatchAmount](../../aspose.finance.ofx.investment/matchinfo/maxmatchamount) { get; set; } | 获取或设置任何一年的最大雇主供款金额。 |
-| [MaxMatchPercent](../../aspose.finance.ofx.investment/matchinfo/maxmatchpercent) { get; set; } | 获取或设置当前最大的雇主贡献百分比。 |
-| [StartOfYear](../../aspose.finance.ofx.investment/matchinfo/startofyear) { get; set; } | 获取或设置重置雇主贡献最大值的时间。一些 计划的最大值基于公司财政年度而不是 而不是日历年。如果省略则假定日历年。仅使用 月和日（MMDD）；年（YYYY）和时间被忽略。 |
+| [MaxMatchAmount](../../aspose.finance.ofx.investment/matchinfo/maxmatchamount) { get; set; } | 获取或设置任何一年的最大雇主供款额。 |
+| [MaxMatchPercent](../../aspose.finance.ofx.investment/matchinfo/maxmatchpercent) { get; set; } | 获取或设置当前最大雇主贡献百分比。 |
+| [StartOfYear](../../aspose.finance.ofx.investment/matchinfo/startofyear) { get; set; } | 获取或设置重置雇主贡献最大值的时间。 Some 计划的最大值基于公司会计年度，而不是 而不是日历年。如果省略，则假定为日历年。仅使用 月和日 (MMDD)；年（YYYY）和时间被忽略。 |
 
 ### 也可以看看
 

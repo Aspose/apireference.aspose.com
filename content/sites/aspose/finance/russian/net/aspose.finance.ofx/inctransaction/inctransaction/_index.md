@@ -1,14 +1,14 @@
 ---
 title: IncTransaction
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаIncTransactionaspose.finance.ofx/inctransaction.
+description: Инициализирует новый экземплярIncTransactionaspose.finance.ofx/inctransaction класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx/inctransaction/inctransaction/
 ---
 ## IncTransaction constructor
 
-Инициализирует новый экземпляр класса[`IncTransaction`](../../inctransaction).
+Инициализирует новый экземпляр[`IncTransaction`](../../inctransaction) класс.
 
 ```csharp
 public IncTransaction()

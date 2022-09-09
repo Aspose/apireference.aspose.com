@@ -18,15 +18,15 @@ public class ChangeUserInfoSyncResponse : AbstractSyncResponse
 
 | 姓名 | 描述 |
 | --- | --- |
-| [ChangeUserInfoSyncResponse](changeuserinfosyncresponse)() | 初始化[`ChangeUserInfoSyncResponse`](../changeuserinfosyncresponse)类的新实例。 |
+| [ChangeUserInfoSyncResponse](changeuserinfosyncresponse)() | 初始化一个新的实例[`ChangeUserInfoSyncResponse`](../changeuserinfosyncresponse)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [ChangeUserInfoTransactionResponses](../../aspose.finance.ofx.signup/changeuserinfosyncresponse/changeuserinfotransactionresponses) { get; set; } | 获取或设置[`ChangeUserInfoTransactionResponse`](../changeuserinfotransactionresponse)的集合。 |
-| [LostSynchronization](../../aspose.finance.ofx/abstractsyncresponse/lostsynchronization) { get; set; } | 如果同步请求中的令牌早于服务器历史记录表中的最早条目，则是。在这种情况下，一些响应已经丢失。 如果同步请求中的令牌比服务器历史记录表中的令牌更新或匹配，则否。 |
-| [OfxExtension](../../aspose.finance.ofx.signup/changeuserinfosyncresponse/ofxextension) { get; set; } | 获取或设置[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype)。 |
+| [ChangeUserInfoTransactionResponses](../../aspose.finance.ofx.signup/changeuserinfosyncresponse/changeuserinfotransactionresponses) { get; set; } | 获取或设置的集合[`ChangeUserInfoTransactionResponse`](../changeuserinfotransactionresponse). |
+| [LostSynchronization](../../aspose.finance.ofx/abstractsyncresponse/lostsynchronization) { get; set; } | 如果同步请求中的令牌比服务器历史表中最早的条目更旧，则为是。在这种情况下，一些响应已丢失。 如果同步请求中的令牌比服务器历史表中的令牌更新或匹配，则为否历史表. |
+| [OfxExtension](../../aspose.finance.ofx.signup/changeuserinfosyncresponse/ofxextension) { get; set; } | 获取或设置[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
 | [Token](../../aspose.finance.ofx/abstractsyncresponse/token) { get; set; } | 获取或设置新的同步令牌。 |
 
 ### 也可以看看

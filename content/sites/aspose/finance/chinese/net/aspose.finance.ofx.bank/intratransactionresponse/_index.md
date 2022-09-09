@@ -18,16 +18,16 @@ public class IntraTransactionResponse : AbstractTransactionResponse
 
 | 姓名 | 描述 |
 | --- | --- |
-| [IntraTransactionResponse](intratransactionresponse)() | 初始化[`IntraTransactionResponse`](../intratransactionresponse)类的新实例。 |
+| [IntraTransactionResponse](intratransactionresponse)() | 初始化一个新的实例[`IntraTransactionResponse`](../intratransactionresponse)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
 | [ClientCookie](../../aspose.finance.ofx/abstracttransactionresponse/clientcookie) { get; set; } | 获取或设置要在事务响应中回显的数据 |
-| [OfxExtension](../../aspose.finance.ofx.bank/intratransactionresponse/ofxextension) { get; set; } | 获取或设置[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype)。 |
-| [Response](../../aspose.finance.ofx.bank/intratransactionresponse/response) { get; set; } | 获取或设置[`IntraResponse`](../intraresponse)或[`IntraModResponse`](../intramodresponse)或[`IntraCancellationResponse`](../intracancellationresponse)。 |
-| [Status](../../aspose.finance.ofx/abstracttransactionresponse/status) { get; set; } | 获取或设置[`Status`](../../aspose.finance.ofx/abstracttransactionresponse/status)。 |
+| [OfxExtension](../../aspose.finance.ofx.bank/intratransactionresponse/ofxextension) { get; set; } | 获取或设置[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
+| [Response](../../aspose.finance.ofx.bank/intratransactionresponse/response) { get; set; } | 获取或设置[`IntraResponse`](../intraresponse)或者[`IntraModResponse`](../intramodresponse)或者[`IntraCancellationResponse`](../intracancellationresponse). |
+| [Status](../../aspose.finance.ofx/abstracttransactionresponse/status) { get; set; } | 获取或设置[`Status`](../../aspose.finance.ofx/abstracttransactionresponse/status). |
 | [TransactionUniqueId](../../aspose.finance.ofx/abstracttransactionresponse/transactionuniqueid) { get; set; } | 获取或设置此事务的客户端分配的全局唯一 ID。 |
 
 ### 也可以看看

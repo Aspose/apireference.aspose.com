@@ -18,13 +18,13 @@ public class InterTransferMessageSet : AbstractMessageSet
 
 | 姓名 | 描述 |
 | --- | --- |
-| [InterTransferMessageSet](intertransfermessageset)() | 初始化[`InterTransferMessageSet`](../intertransfermessageset)类的新实例。 |
+| [InterTransferMessageSet](intertransfermessageset)() | 初始化一个新的实例[`InterTransferMessageSet`](../intertransfermessageset)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [InterTransferMessageSetV1](../../aspose.finance.ofx.profile/intertransfermessageset/intertransfermessagesetv1) { get; set; } | 获取或设置[`InterTransferMessageSetV1`](./intertransfermessagesetv1)。 |
+| [InterTransferMessageSetV1](../../aspose.finance.ofx.profile/intertransfermessageset/intertransfermessagesetv1) { get; set; } | 获取或设置[`InterTransferMessageSetV1`](./intertransfermessagesetv1). |
 
 ### 也可以看看
 

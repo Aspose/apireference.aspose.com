@@ -1,14 +1,14 @@
 ---
 title: LoanStatementEndTransactionResponses
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置LoanStatementEndTransactionResponseaspose.finance.ofx.loan/loanstatementendtransactionresponse的集合
+description: 获取或设置的集合LoanStatementEndTransactionResponseaspose.finance.ofx.loan/loanstatementendtransactionresponse.
 type: docs
 weight: 50
 url: /zh/net/aspose.finance.ofx/loanresponsemessagesetv1/loanstatementendtransactionresponses/
 ---
 ## LoanResponseMessageSetV1.LoanStatementEndTransactionResponses property
 
-获取或设置[`LoanStatementEndTransactionResponse`](../../../aspose.finance.ofx.loan/loanstatementendtransactionresponse)的集合。
+获取或设置的集合[`LoanStatementEndTransactionResponse`](../../../aspose.finance.ofx.loan/loanstatementendtransactionresponse).
 
 ```csharp
 public List<LoanStatementEndTransactionResponse> LoanStatementEndTransactionResponses { get; set; }

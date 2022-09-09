@@ -18,15 +18,15 @@ public class PaymentMailTransactionRequest : AbstractTransactionRequest
 
 | Имя | Описание |
 | --- | --- |
-| [PaymentMailTransactionRequest](paymentmailtransactionrequest)() | Инициализирует новый экземпляр класса[`PaymentMailTransactionRequest`](../paymentmailtransactionrequest). |
+| [PaymentMailTransactionRequest](paymentmailtransactionrequest)() | Инициализирует новый экземпляр[`PaymentMailTransactionRequest`](../paymentmailtransactionrequest) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [ClientCookie](../../aspose.finance.ofx/abstracttransactionrequest/clientcookie) { get; set; } | Получает или задает данные, которые будут отображаться в ответе транзакции |
-| [OfxExtension](../../aspose.finance.ofx.billpay/paymentmailtransactionrequest/ofxextension) { get; set; } | Получает или задает[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
-| [PaymentMailRequest](../../aspose.finance.ofx.billpay/paymentmailtransactionrequest/paymentmailrequest) { get; set; } | Получает или задает[`PaymentMailRequest`](./paymentmailrequest). |
+| [ClientCookie](../../aspose.finance.ofx/abstracttransactionrequest/clientcookie) { get; set; } | Получает или задает данные, которые будут отражены в транзакции response |
+| [OfxExtension](../../aspose.finance.ofx.billpay/paymentmailtransactionrequest/ofxextension) { get; set; } | Получает или задает[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype) . |
+| [PaymentMailRequest](../../aspose.finance.ofx.billpay/paymentmailtransactionrequest/paymentmailrequest) { get; set; } | Получает или задает[`PaymentMailRequest`](./paymentmailrequest) . |
 | [TransactionAuthorizationNumber](../../aspose.finance.ofx/abstracttransactionrequest/transactionauthorizationnumber) { get; set; } | Получает или задает номер авторизации транзакции. |
 | [TransactionUniqueId](../../aspose.finance.ofx/abstracttransactionrequest/transactionuniqueid) { get; set; } | Получает или задает назначенный клиентом глобальный уникальный идентификатор для этой транзакции |
 

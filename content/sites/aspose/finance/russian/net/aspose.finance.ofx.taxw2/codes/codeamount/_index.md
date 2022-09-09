@@ -1,14 +1,14 @@
 ---
 title: CodeAmount
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает сумму в долларах для поля 12.
+description: Получает или задает сумму в долларах для ввода поля 12.
 type: docs
 weight: 30
 url: /ru/net/aspose.finance.ofx.taxw2/codes/codeamount/
 ---
 ## Codes.CodeAmount property
 
-Получает или задает сумму в долларах для поля 12.
+Получает или задает сумму в долларах для ввода поля 12.
 
 ```csharp
 public string CodeAmount { get; set; }

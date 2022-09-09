@@ -1,14 +1,14 @@
 ---
 title: PaymentInquiryTransactionRequests
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置PaymentInquiryTransactionRequestaspose.finance.ofx.billpay/paymentinquirytransactionrequest的集合
+description: 获取或设置的集合PaymentInquiryTransactionRequestaspose.finance.ofx.billpay/paymentinquirytransactionrequest.
 type: docs
 weight: 40
 url: /zh/net/aspose.finance.ofx/billpayrequestmessagesetv1/paymentinquirytransactionrequests/
 ---
 ## BillPayRequestMessageSetV1.PaymentInquiryTransactionRequests property
 
-获取或设置[`PaymentInquiryTransactionRequest`](../../../aspose.finance.ofx.billpay/paymentinquirytransactionrequest)的集合。
+获取或设置的集合[`PaymentInquiryTransactionRequest`](../../../aspose.finance.ofx.billpay/paymentinquirytransactionrequest).
 
 ```csharp
 public List<PaymentInquiryTransactionRequest> PaymentInquiryTransactionRequests { get; set; }

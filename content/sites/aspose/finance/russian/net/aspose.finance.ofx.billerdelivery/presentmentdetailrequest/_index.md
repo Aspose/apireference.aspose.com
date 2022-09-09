@@ -1,14 +1,14 @@
 ---
 title: PresentmentDetailRequest
 second_title: Справочник по API Aspose.Finance для .NET
-description: Класс запроса детализации счета.
+description: Класс запроса сведений о счете.
 type: docs
 weight: 1630
 url: /ru/net/aspose.finance.ofx.billerdelivery/presentmentdetailrequest/
 ---
 ## PresentmentDetailRequest class
 
-Класс запроса детализации счета.
+Класс запроса сведений о счете.
 
 ```csharp
 public class PresentmentDetailRequest
@@ -18,7 +18,7 @@ public class PresentmentDetailRequest
 
 | Имя | Описание |
 | --- | --- |
-| [PresentmentDetailRequest](presentmentdetailrequest)() | Инициализирует новый экземпляр класса[`PresentmentDetailRequest`](../presentmentdetailrequest). |
+| [PresentmentDetailRequest](presentmentdetailrequest)() | Инициализирует новый экземпляр[`PresentmentDetailRequest`](../presentmentdetailrequest) класс. |
 
 ## Характеристики
 

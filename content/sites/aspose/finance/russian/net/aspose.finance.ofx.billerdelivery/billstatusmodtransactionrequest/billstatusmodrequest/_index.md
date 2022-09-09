@@ -1,14 +1,14 @@
 ---
 title: BillStatusModRequest
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задаетBillStatusModRequestaspose.finance.ofx.billerdelivery/billstatusmodtransactionrequest/billstatusmodrequest.
+description: Получает или задаетBillStatusModRequestaspose.finance.ofx.billerdelivery/billstatusmodtransactionrequest/billstatusmodrequest .
 type: docs
 weight: 20
 url: /ru/net/aspose.finance.ofx.billerdelivery/billstatusmodtransactionrequest/billstatusmodrequest/
 ---
 ## BillStatusModTransactionRequest.BillStatusModRequest property
 
-Получает или задает`BillStatusModRequest`.
+Получает или задает`BillStatusModRequest` .
 
 ```csharp
 public BillStatusModRequest BillStatusModRequest { get; set; }

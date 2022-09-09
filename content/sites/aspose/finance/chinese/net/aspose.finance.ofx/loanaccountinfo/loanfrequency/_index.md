@@ -1,14 +1,14 @@
 ---
 title: LoanFrequency
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置支付频率
+description: 获取或设置付款频率
 type: docs
 weight: 50
 url: /zh/net/aspose.finance.ofx/loanaccountinfo/loanfrequency/
 ---
 ## LoanAccountInfo.LoanFrequency property
 
-获取或设置支付频率。
+获取或设置付款频率。
 
 ```csharp
 public LoanFrequencyEnum LoanFrequency { get; set; }

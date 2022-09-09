@@ -18,16 +18,16 @@ public class InvestmentStatementResponseMessageSetV1 : AbstractResponseMessageSe
 
 | 姓名 | 描述 |
 | --- | --- |
-| [InvestmentStatementResponseMessageSetV1](investmentstatementresponsemessagesetv1)() | 初始化[`InvestmentStatementResponseMessageSetV1`](../investmentstatementresponsemessagesetv1)类的新实例。 |
+| [InvestmentStatementResponseMessageSetV1](investmentstatementresponsemessagesetv1)() | 初始化一个新的实例[`InvestmentStatementResponseMessageSetV1`](../investmentstatementresponsemessagesetv1)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [InvestmentMailSyncResponses](../../aspose.finance.ofx/investmentstatementresponsemessagesetv1/investmentmailsyncresponses) { get; set; } | 获取或设置[`InvestmentMailSyncResponse`](../../aspose.finance.ofx.investment/investmentmailsyncresponse)的集合。 |
-| [InvestmentMailTransactionResponses](../../aspose.finance.ofx/investmentstatementresponsemessagesetv1/investmentmailtransactionresponses) { get; set; } | 获取或设置[`InvestmentMailTransactionResponse`](../../aspose.finance.ofx.investment/investmentmailtransactionresponse)的集合。 |
-| [InvestmentStatementEndTransactionResponses](../../aspose.finance.ofx/investmentstatementresponsemessagesetv1/investmentstatementendtransactionresponses) { get; set; } | 获取或设置[`InvestmentStatementEndTransactionResponse`](../../aspose.finance.ofx.investment/investmentstatementendtransactionresponse)的集合。 |
-| [InvestmentStatementTransactionResponses](../../aspose.finance.ofx/investmentstatementresponsemessagesetv1/investmentstatementtransactionresponses) { get; set; } | 获取或设置[`InvestmentStatementTransactionResponse`](../../aspose.finance.ofx.investment/investmentstatementtransactionresponse)的集合。 |
+| [InvestmentMailSyncResponses](../../aspose.finance.ofx/investmentstatementresponsemessagesetv1/investmentmailsyncresponses) { get; set; } | 获取或设置的集合[`InvestmentMailSyncResponse`](../../aspose.finance.ofx.investment/investmentmailsyncresponse). |
+| [InvestmentMailTransactionResponses](../../aspose.finance.ofx/investmentstatementresponsemessagesetv1/investmentmailtransactionresponses) { get; set; } | 获取或设置的集合[`InvestmentMailTransactionResponse`](../../aspose.finance.ofx.investment/investmentmailtransactionresponse). |
+| [InvestmentStatementEndTransactionResponses](../../aspose.finance.ofx/investmentstatementresponsemessagesetv1/investmentstatementendtransactionresponses) { get; set; } | 获取或设置的集合[`InvestmentStatementEndTransactionResponse`](../../aspose.finance.ofx.investment/investmentstatementendtransactionresponse). |
+| [InvestmentStatementTransactionResponses](../../aspose.finance.ofx/investmentstatementresponsemessagesetv1/investmentstatementtransactionresponses) { get; set; } | 获取或设置的集合[`InvestmentStatementTransactionResponse`](../../aspose.finance.ofx.investment/investmentstatementtransactionresponse). |
 
 ### 也可以看看
 

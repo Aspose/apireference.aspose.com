@@ -1,14 +1,14 @@
 ---
 title: Links
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает коллекциюCalculationLinkaspose.finance.xbrl/calculationlink.
+description: Получает коллекциюCalculationLinkaspose.finance.xbrl/calculationlink .
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.xbrl/calculationlinkbaseref/links/
 ---
 ## CalculationLinkbaseRef.Links property
 
-Получает коллекцию[`CalculationLink`](../../calculationlink).
+Получает коллекцию[`CalculationLink`](../../calculationlink) .
 
 ```csharp
 public List<CalculationLink> Links { get; }

@@ -1,14 +1,14 @@
 ---
 title: RecurringInstructions
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置RecurringInstructionsaspose.finance.ofx.billpay/recurringpaymentmodrequest/recurringinstructions
+description: 获取或设置RecurringInstructionsaspose.finance.ofx.billpay/recurringpaymentmodrequest/recurringinstructions.
 type: docs
 weight: 60
 url: /zh/net/aspose.finance.ofx.billpay/recurringpaymentmodrequest/recurringinstructions/
 ---
 ## RecurringPaymentModRequest.RecurringInstructions property
 
-获取或设置`RecurringInstructions`。
+获取或设置`RecurringInstructions`.
 
 ```csharp
 public RecurringInstructions RecurringInstructions { get; set; }

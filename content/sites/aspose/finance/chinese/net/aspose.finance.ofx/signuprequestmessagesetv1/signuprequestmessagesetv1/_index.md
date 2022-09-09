@@ -1,14 +1,14 @@
 ---
 title: SignupRequestMessageSetV1
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化SignupRequestMessageSetV1aspose.finance.ofx/signuprequestmessagesetv1类的新实例
+description: 初始化一个新的实例SignupRequestMessageSetV1aspose.finance.ofx/signuprequestmessagesetv1类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx/signuprequestmessagesetv1/signuprequestmessagesetv1/
 ---
 ## SignupRequestMessageSetV1 constructor
 
-初始化[`SignupRequestMessageSetV1`](../../signuprequestmessagesetv1)类的新实例。
+初始化一个新的实例[`SignupRequestMessageSetV1`](../../signuprequestmessagesetv1)类.
 
 ```csharp
 public SignupRequestMessageSetV1()

@@ -1,14 +1,14 @@
 ---
 title: ImageRequestMessageSetV1
 second_title: Справочник по API Aspose.Finance для .NET
-description: Сообщения запроса изображения установили класс версии 1.
+description: Сообщения запроса изображения устанавливают класс версии 1.
 type: docs
 weight: 2320
 url: /ru/net/aspose.finance.ofx/imagerequestmessagesetv1/
 ---
 ## ImageRequestMessageSetV1 class
 
-Сообщения запроса изображения установили класс версии 1.
+Сообщения запроса изображения устанавливают класс версии 1.
 
 ```csharp
 public class ImageRequestMessageSetV1 : AbstractRequestMessageSet
@@ -18,13 +18,13 @@ public class ImageRequestMessageSetV1 : AbstractRequestMessageSet
 
 | Имя | Описание |
 | --- | --- |
-| [ImageRequestMessageSetV1](imagerequestmessagesetv1)() | Инициализирует новый экземпляр класса[`ImageRequestMessageSetV1`](../imagerequestmessagesetv1). |
+| [ImageRequestMessageSetV1](imagerequestmessagesetv1)() | Инициализирует новый экземпляр[`ImageRequestMessageSetV1`](../imagerequestmessagesetv1) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [ImageTransactionRequests](../../aspose.finance.ofx/imagerequestmessagesetv1/imagetransactionrequests) { get; set; } | Получает или задает коллекцию[`ImageTransactionRequest`](../../aspose.finance.ofx.image/imagetransactionrequest). |
+| [ImageTransactionRequests](../../aspose.finance.ofx/imagerequestmessagesetv1/imagetransactionrequests) { get; set; } | Получает или задает коллекцию[`ImageTransactionRequest`](../../aspose.finance.ofx.image/imagetransactionrequest) . |
 
 ### Смотрите также
 

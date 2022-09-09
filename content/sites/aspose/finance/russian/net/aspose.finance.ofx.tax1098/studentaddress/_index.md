@@ -1,14 +1,14 @@
 ---
 title: StudentAddress
 second_title: Справочник по API Aspose.Finance для .NET
-description: Студенческий адрес класса.
+description: Класс адреса учащихся.
 type: docs
 weight: 5760
 url: /ru/net/aspose.finance.ofx.tax1098/studentaddress/
 ---
 ## StudentAddress class
 
-Студенческий адрес класса.
+Класс адреса учащихся.
 
 ```csharp
 public class StudentAddress
@@ -18,20 +18,20 @@ public class StudentAddress
 
 | Имя | Описание |
 | --- | --- |
-| [StudentAddress](studentaddress)() | Инициализирует новый экземпляр класса[`StudentAddress`](../studentaddress). |
+| [StudentAddress](studentaddress)() | Инициализирует новый экземпляр[`StudentAddress`](../studentaddress) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [Address1](../../aspose.finance.ofx.tax1098/studentaddress/address1) { get; set; } | Получает или задает адрес учащегося, строка 1. |
-| [Address2](../../aspose.finance.ofx.tax1098/studentaddress/address2) { get; set; } | Получает или задает адрес учащегося, строка 2. |
-| [Address3](../../aspose.finance.ofx.tax1098/studentaddress/address3) { get; set; } | Получает или задает адрес учащегося, строка 3. |
-| [City](../../aspose.finance.ofx.tax1098/studentaddress/city) { get; set; } | Получает или задает адрес города учащегося. |
+| [Address1](../../aspose.finance.ofx.tax1098/studentaddress/address1) { get; set; } | Получает или задает адрес студента, строка 1. |
+| [Address2](../../aspose.finance.ofx.tax1098/studentaddress/address2) { get; set; } | Получает или задает адрес студента, строка 2. |
+| [Address3](../../aspose.finance.ofx.tax1098/studentaddress/address3) { get; set; } | Получает или задает адрес студента, строка 3. |
+| [City](../../aspose.finance.ofx.tax1098/studentaddress/city) { get; set; } | Получает или задает адрес студента city. |
 | [CountryString](../../aspose.finance.ofx.tax1098/studentaddress/countrystring) { get; set; } | Получает или задает страну адреса учащегося. |
-| [PostalCode](../../aspose.finance.ofx.tax1098/studentaddress/postalcode) { get; set; } | Получает или задает почтовый индекс адреса учащегося. |
+| [PostalCode](../../aspose.finance.ofx.tax1098/studentaddress/postalcode) { get; set; } | Получает или задает почтовый индекс адреса студента. |
 | [State](../../aspose.finance.ofx.tax1098/studentaddress/state) { get; set; } | Получает или задает состояние адреса учащегося. |
-| [StudentName](../../aspose.finance.ofx.tax1098/studentaddress/studentname) { get; set; } | Получает или задает имя учащегося. |
+| [StudentName](../../aspose.finance.ofx.tax1098/studentaddress/studentname) { get; set; } | Получает или задает имя студента. |
 
 ### Смотрите также
 

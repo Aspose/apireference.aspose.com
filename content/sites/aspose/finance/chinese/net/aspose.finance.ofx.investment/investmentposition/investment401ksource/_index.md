@@ -1,14 +1,14 @@
 ---
 title: Investment401kSource
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置此仓位中此证券的资金来源
+description: 获取或设置此仓位中该证券的资金来源
 type: docs
 weight: 60
 url: /zh/net/aspose.finance.ofx.investment/investmentposition/investment401ksource/
 ---
 ## InvestmentPosition.Investment401kSource property
 
-获取或设置此仓位中此证券的资金来源。
+获取或设置此仓位中该证券的资金来源。
 
 ```csharp
 public Investment401kSourceEnum Investment401kSource { get; set; }

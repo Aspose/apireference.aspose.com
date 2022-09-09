@@ -1,14 +1,14 @@
 ---
 title: TypedMemberElement
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает элемент-член если он является элементом типизированного измерения.
+description: Получает элементчлен если он является типизированным элементом измерения.
 type: docs
 weight: 50
 url: /ru/net/aspose.finance.xbrl/dimensionmember/typedmemberelement/
 ---
 ## DimensionMember.TypedMemberElement property
 
-Получает элемент-член, если он является элементом типизированного измерения.
+Получает элемент-член, если он является типизированным элементом измерения.
 
 ```csharp
 public Element TypedMemberElement { get; }

@@ -18,13 +18,13 @@ public class OfxExtensionType
 
 | 姓名 | 描述 |
 | --- | --- |
-| [OfxExtensionType](ofxextensiontype)() | 初始化[`OfxExtensionType`](../ofxextensiontype)类的新实例。 |
+| [OfxExtensionType](ofxextensiontype)() | 初始化一个新的实例[`OfxExtensionType`](../ofxextensiontype)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [OfxElements](../../aspose.finance.ofx/ofxextensiontype/ofxelements) { get; set; } | 获取或设置[`OfxElementType`](../ofxelementtype)的集合。 |
+| [OfxElements](../../aspose.finance.ofx/ofxextensiontype/ofxelements) { get; set; } | 获取或设置的集合[`OfxElementType`](../ofxelementtype). |
 
 ### 也可以看看
 

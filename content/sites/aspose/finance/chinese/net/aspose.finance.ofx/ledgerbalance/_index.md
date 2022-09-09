@@ -1,14 +1,14 @@
 ---
 title: LedgerBalance
 second_title: Aspose.Finance for .NET API 参考
-description: 账本余额类
+description: 分类帐余额类
 type: docs
 weight: 3720
 url: /zh/net/aspose.finance.ofx/ledgerbalance/
 ---
 ## LedgerBalance class
 
-账本余额类。
+分类帐余额类。
 
 ```csharp
 public class LedgerBalance
@@ -18,7 +18,7 @@ public class LedgerBalance
 
 | 姓名 | 描述 |
 | --- | --- |
-| [LedgerBalance](ledgerbalance)() | 初始化[`LedgerBalance`](../ledgerbalance)类的新实例。 |
+| [LedgerBalance](ledgerbalance)() | 初始化一个新的实例[`LedgerBalance`](../ledgerbalance)类. |
 
 ## 特性
 

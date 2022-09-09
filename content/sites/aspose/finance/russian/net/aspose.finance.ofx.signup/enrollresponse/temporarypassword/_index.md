@@ -1,14 +1,14 @@
 ---
 title: TemporaryPassword
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает временный пароль.
+description: Получает или устанавливает временный пароль.
 type: docs
 weight: 30
 url: /ru/net/aspose.finance.ofx.signup/enrollresponse/temporarypassword/
 ---
 ## EnrollResponse.TemporaryPassword property
 
-Получает или задает временный пароль.
+Получает или устанавливает временный пароль.
 
 ```csharp
 public string TemporaryPassword { get; set; }

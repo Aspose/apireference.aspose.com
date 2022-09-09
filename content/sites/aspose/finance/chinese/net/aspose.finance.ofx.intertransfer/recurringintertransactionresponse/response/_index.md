@@ -1,14 +1,14 @@
 ---
 title: Response
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置RecurringInterResponseaspose.finance.ofx.intertransfer/recurringinterresponse或RecurringInterModResponseaspose.finance.ofx.intertransfer/recurringintermodresponse或RecurringInterCancellationResponseaspose.finance.ofx.intertransfer/recurringintercancellationresponse
+description: 获取或设置RecurringInterResponseaspose.finance.ofx.intertransfer/recurringinterresponse或者RecurringInterModResponseaspose.finance.ofx.intertransfer/recurringintermodresponse或者RecurringInterCancellationResponseaspose.finance.ofx.intertransfer/recurringintercancellationresponse.
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.ofx.intertransfer/recurringintertransactionresponse/response/
 ---
 ## RecurringInterTransactionResponse.Response property
 
-获取或设置[`RecurringInterResponse`](../../recurringinterresponse)或[`RecurringInterModResponse`](../../recurringintermodresponse)或[`RecurringInterCancellationResponse`](../../recurringintercancellationresponse)。
+获取或设置[`RecurringInterResponse`](../../recurringinterresponse)或者[`RecurringInterModResponse`](../../recurringintermodresponse)或者[`RecurringInterCancellationResponse`](../../recurringintercancellationresponse).
 
 ```csharp
 public AbstractRecurringInterResponse Response { get; set; }

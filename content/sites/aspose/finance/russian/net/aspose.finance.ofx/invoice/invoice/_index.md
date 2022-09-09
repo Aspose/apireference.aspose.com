@@ -1,14 +1,14 @@
 ---
 title: Invoice
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаInvoiceaspose.finance.ofx/invoice.
+description: Инициализирует новый экземплярInvoiceaspose.finance.ofx/invoice класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx/invoice/invoice/
 ---
 ## Invoice constructor
 
-Инициализирует новый экземпляр класса[`Invoice`](../../invoice).
+Инициализирует новый экземпляр[`Invoice`](../../invoice) класс.
 
 ```csharp
 public Invoice()

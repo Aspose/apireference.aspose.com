@@ -1,14 +1,14 @@
 ---
 title: InterSyncResponse
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаInterSyncResponseaspose.finance.ofx.intertransfer/intersyncresponse.
+description: Инициализирует новый экземплярInterSyncResponseaspose.finance.ofx.intertransfer/intersyncresponse класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.intertransfer/intersyncresponse/intersyncresponse/
 ---
 ## InterSyncResponse constructor
 
-Инициализирует новый экземпляр класса[`InterSyncResponse`](../../intersyncresponse).
+Инициализирует новый экземпляр[`InterSyncResponse`](../../intersyncresponse) класс.
 
 ```csharp
 public InterSyncResponse()

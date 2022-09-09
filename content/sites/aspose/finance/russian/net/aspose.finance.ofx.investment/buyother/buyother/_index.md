@@ -1,14 +1,14 @@
 ---
 title: BuyOther
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаBuyOtheraspose.finance.ofx.investment/buyother.
+description: Инициализирует новый экземплярBuyOtheraspose.finance.ofx.investment/buyother класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.investment/buyother/buyother/
 ---
 ## BuyOther constructor
 
-Инициализирует новый экземпляр класса[`BuyOther`](../../buyother).
+Инициализирует новый экземпляр[`BuyOther`](../../buyother) класс.
 
 ```csharp
 public BuyOther()

@@ -1,14 +1,14 @@
 ---
 title: IncludeImages
 second_title: Aspose.Finance for .NET API 参考
-description: 如果客户希望返回图像徽标则为真
+description: 如果客户想要返回图像徽标则为真
 type: docs
 weight: 90
 url: /zh/net/aspose.finance.ofx.billerdirectory/findbillerrequest/includeimages/
 ---
 ## FindBillerRequest.IncludeImages property
 
-如果客户希望返回图像（徽标），则为真。
+如果客户想要返回图像（徽标）则为真。
 
 ```csharp
 public bool IncludeImages { get; set; }

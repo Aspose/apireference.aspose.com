@@ -1,14 +1,14 @@
 ---
 title: FindBillerTransactionResponse
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化FindBillerTransactionResponseaspose.finance.ofx.billerdirectory/findbillertransactionresponse类的新实例
+description: 初始化一个新的实例FindBillerTransactionResponseaspose.finance.ofx.billerdirectory/findbillertransactionresponse类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.billerdirectory/findbillertransactionresponse/findbillertransactionresponse/
 ---
 ## FindBillerTransactionResponse constructor
 
-初始化[`FindBillerTransactionResponse`](../../findbillertransactionresponse)类的新实例。
+初始化一个新的实例[`FindBillerTransactionResponse`](../../findbillertransactionresponse)类.
 
 ```csharp
 public FindBillerTransactionResponse()

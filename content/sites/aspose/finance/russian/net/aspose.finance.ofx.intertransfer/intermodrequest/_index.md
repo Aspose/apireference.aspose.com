@@ -18,14 +18,14 @@ public class InterModRequest : AbstractInterRequest
 
 | Имя | Описание |
 | --- | --- |
-| [InterModRequest](intermodrequest)() | Инициализирует новый экземпляр класса[`InterModRequest`](../intermodrequest). |
+| [InterModRequest](intermodrequest)() | Инициализирует новый экземпляр[`InterModRequest`](../intermodrequest) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
 | [ServerId](../../aspose.finance.ofx.intertransfer/intermodrequest/serverid) { get; set; } | Получает или задает идентификатор, назначенный сервером для изменяемой передачи. |
-| [TransferInfo](../../aspose.finance.ofx.intertransfer/intermodrequest/transferinfo) { get; set; } | Получает или задает[`TransferInfo`](./transferinfo). |
+| [TransferInfo](../../aspose.finance.ofx.intertransfer/intermodrequest/transferinfo) { get; set; } | Получает или задает[`TransferInfo`](./transferinfo) . |
 
 ### Смотрите также
 

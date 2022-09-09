@@ -1,14 +1,14 @@
 ---
 title: PresentmentDirProfile
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置PresentmentDirProfileaspose.finance.ofx.profile/presentmentdirmessagesetv1/presentmentdirprofile
+description: 获取或设置PresentmentDirProfileaspose.finance.ofx.profile/presentmentdirmessagesetv1/presentmentdirprofile.
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.ofx.profile/presentmentdirmessagesetv1/presentmentdirprofile/
 ---
 ## PresentmentDirMessageSetV1.PresentmentDirProfile property
 
-获取或设置`PresentmentDirProfile`。
+获取或设置`PresentmentDirProfile`.
 
 ```csharp
 public PresentmentDirProfile PresentmentDirProfile { get; set; }

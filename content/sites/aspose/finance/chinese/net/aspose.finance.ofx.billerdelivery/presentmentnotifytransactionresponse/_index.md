@@ -1,14 +1,14 @@
 ---
 title: PresentmentNotifyTransactionResponse
 second_title: Aspose.Finance for .NET API 参考
-description: 传递通知事务响应类
+description: 传递通知交易响应类
 type: docs
 weight: 1820
 url: /zh/net/aspose.finance.ofx.billerdelivery/presentmentnotifytransactionresponse/
 ---
 ## PresentmentNotifyTransactionResponse class
 
-传递通知事务响应类。
+传递通知交易响应类。
 
 ```csharp
 public class PresentmentNotifyTransactionResponse : AbstractTransactionResponse
@@ -18,16 +18,16 @@ public class PresentmentNotifyTransactionResponse : AbstractTransactionResponse
 
 | 姓名 | 描述 |
 | --- | --- |
-| [PresentmentNotifyTransactionResponse](presentmentnotifytransactionresponse)() | 初始化[`PresentmentNotifyTransactionResponse`](../presentmentnotifytransactionresponse)类的新实例。 |
+| [PresentmentNotifyTransactionResponse](presentmentnotifytransactionresponse)() | 初始化一个新的实例[`PresentmentNotifyTransactionResponse`](../presentmentnotifytransactionresponse)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
 | [ClientCookie](../../aspose.finance.ofx/abstracttransactionresponse/clientcookie) { get; set; } | 获取或设置要在事务响应中回显的数据 |
-| [OfxExtension](../../aspose.finance.ofx.billerdelivery/presentmentnotifytransactionresponse/ofxextension) { get; set; } | 获取或设置[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype)。 |
-| [PresentmentNotifyResponse](../../aspose.finance.ofx.billerdelivery/presentmentnotifytransactionresponse/presentmentnotifyresponse) { get; set; } | 获取或设置[`PresentmentNotifyResponse`](./presentmentnotifyresponse)。 |
-| [Status](../../aspose.finance.ofx/abstracttransactionresponse/status) { get; set; } | 获取或设置[`Status`](../../aspose.finance.ofx/abstracttransactionresponse/status)。 |
+| [OfxExtension](../../aspose.finance.ofx.billerdelivery/presentmentnotifytransactionresponse/ofxextension) { get; set; } | 获取或设置[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
+| [PresentmentNotifyResponse](../../aspose.finance.ofx.billerdelivery/presentmentnotifytransactionresponse/presentmentnotifyresponse) { get; set; } | 获取或设置[`PresentmentNotifyResponse`](./presentmentnotifyresponse). |
+| [Status](../../aspose.finance.ofx/abstracttransactionresponse/status) { get; set; } | 获取或设置[`Status`](../../aspose.finance.ofx/abstracttransactionresponse/status). |
 | [TransactionUniqueId](../../aspose.finance.ofx/abstracttransactionresponse/transactionuniqueid) { get; set; } | 获取或设置此事务的客户端分配的全局唯一 ID。 |
 
 ### 也可以看看

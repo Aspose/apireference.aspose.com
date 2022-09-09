@@ -1,14 +1,14 @@
 ---
 title: OldUnits
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置股票拆分前的股数
+description: 获取或设置拆股前的股数
 type: docs
 weight: 80
 url: /zh/net/aspose.finance.ofx.investment/split/oldunits/
 ---
 ## Split.OldUnits property
 
-获取或设置股票拆分前的股数。
+获取或设置拆股前的股数。
 
 ```csharp
 public string OldUnits { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: ReplaceChild
 second_title: Aspose.Finance for .NET API 参考
-description: 将子节点列表中的子节点 old child 替换为 new child并返回 old child 节点
+description: 用新的子节点替换子节点列表中的子节点old child并返回旧的子节点
 type: docs
 weight: 190
 url: /zh/net/aspose.finance.xbrl.dom/node/replacechild/
 ---
 ## Node.ReplaceChild method
 
-将子节点列表中的子节点 old child 替换为 new child，并返回 old child 节点。
+用新的子节点替换子节点列表中的子节点old child，并返回旧的子节点。
 
 ```csharp
 public Node ReplaceChild(Node node, Node child)

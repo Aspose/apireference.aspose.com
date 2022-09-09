@@ -1,14 +1,14 @@
 ---
 title: Loc
 second_title: Справочник по API Aspose.Finance для .NET
-description: Этот класс представляет собой классXlink./xlinkс типом Locator.
+description: Этот класс являетсяXlink./xlink с типом локатора.
 type: docs
 weight: 7830
 url: /ru/net/aspose.finance.xbrl/loc/
 ---
 ## Loc class
 
-Этот класс представляет собой класс[`Xlink`](../xlink)с типом Locator.
+Этот класс является[`Xlink`](../xlink) с типом локатора.
 
 ```csharp
 public class Loc : Locator
@@ -18,7 +18,7 @@ public class Loc : Locator
 
 | Имя | Описание |
 | --- | --- |
-| [Loc](loc)(string, string) | Инициализирует новый экземпляр класса[`Loc`](../loc). |
+| [Loc](loc)(string, string) | Инициализирует новый экземпляр[`Loc`](../loc) класс. |
 
 ## Характеристики
 

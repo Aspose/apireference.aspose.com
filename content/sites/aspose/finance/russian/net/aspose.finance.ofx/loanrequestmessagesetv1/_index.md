@@ -1,14 +1,14 @@
 ---
 title: LoanRequestMessageSetV1
 second_title: Справочник по API Aspose.Finance для .NET
-description: Сообщения о запросе кредита установили класс версии 1.
+description: Сообщения с запросом на получение кредита устанавливают класс версии 1.
 type: docs
 weight: 4110
 url: /ru/net/aspose.finance.ofx/loanrequestmessagesetv1/
 ---
 ## LoanRequestMessageSetV1 class
 
-Сообщения о запросе кредита установили класс версии 1.
+Сообщения с запросом на получение кредита устанавливают класс версии 1.
 
 ```csharp
 public class LoanRequestMessageSetV1 : AbstractRequestMessageSet
@@ -18,17 +18,17 @@ public class LoanRequestMessageSetV1 : AbstractRequestMessageSet
 
 | Имя | Описание |
 | --- | --- |
-| [LoanRequestMessageSetV1](loanrequestmessagesetv1)() | Инициализирует новый экземпляр класса[`LoanRequestMessageSetV1`](../loanrequestmessagesetv1). |
+| [LoanRequestMessageSetV1](loanrequestmessagesetv1)() | Инициализирует новый экземпляр[`LoanRequestMessageSetV1`](../loanrequestmessagesetv1) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [AmortizationTransactionRequests](../../aspose.finance.ofx/loanrequestmessagesetv1/amortizationtransactionrequests) { get; set; } | Получает или задает коллекцию[`AmortizationTransactionRequest`](../../aspose.finance.ofx.loan/amortizationtransactionrequest). |
-| [LoanMailSyncRequests](../../aspose.finance.ofx/loanrequestmessagesetv1/loanmailsyncrequests) { get; set; } | Получает или задает коллекцию[`LoanMailSyncRequest`](../../aspose.finance.ofx.loan/loanmailsyncrequest). |
-| [LoanMailTransactionRequests](../../aspose.finance.ofx/loanrequestmessagesetv1/loanmailtransactionrequests) { get; set; } | Получает или задает коллекцию[`LoanMailTransactionRequest`](../../aspose.finance.ofx.loan/loanmailtransactionrequest). |
-| [LoanStatementEndTransactionRequests](../../aspose.finance.ofx/loanrequestmessagesetv1/loanstatementendtransactionrequests) { get; set; } | Получает или задает коллекцию[`LoanStatementEndTransactionRequest`](../../aspose.finance.ofx.loan/loanstatementendtransactionrequest). |
-| [LoanStatementTransactionRequests](../../aspose.finance.ofx/loanrequestmessagesetv1/loanstatementtransactionrequests) { get; set; } | Получает или задает коллекцию[`LoanStatementTransactionRequest`](../../aspose.finance.ofx.loan/loanstatementtransactionrequest). |
+| [AmortizationTransactionRequests](../../aspose.finance.ofx/loanrequestmessagesetv1/amortizationtransactionrequests) { get; set; } | Получает или задает коллекцию[`AmortizationTransactionRequest`](../../aspose.finance.ofx.loan/amortizationtransactionrequest) . |
+| [LoanMailSyncRequests](../../aspose.finance.ofx/loanrequestmessagesetv1/loanmailsyncrequests) { get; set; } | Получает или задает коллекцию[`LoanMailSyncRequest`](../../aspose.finance.ofx.loan/loanmailsyncrequest) . |
+| [LoanMailTransactionRequests](../../aspose.finance.ofx/loanrequestmessagesetv1/loanmailtransactionrequests) { get; set; } | Получает или задает коллекцию[`LoanMailTransactionRequest`](../../aspose.finance.ofx.loan/loanmailtransactionrequest) . |
+| [LoanStatementEndTransactionRequests](../../aspose.finance.ofx/loanrequestmessagesetv1/loanstatementendtransactionrequests) { get; set; } | Получает или задает коллекцию[`LoanStatementEndTransactionRequest`](../../aspose.finance.ofx.loan/loanstatementendtransactionrequest) . |
+| [LoanStatementTransactionRequests](../../aspose.finance.ofx/loanrequestmessagesetv1/loanstatementtransactionrequests) { get; set; } | Получает или задает коллекцию[`LoanStatementTransactionRequest`](../../aspose.finance.ofx.loan/loanstatementtransactionrequest) . |
 
 ### Смотрите также
 

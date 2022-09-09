@@ -1,14 +1,14 @@
 ---
 title: PresentmentMailTransactionResponse
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化PresentmentMailTransactionResponseaspose.finance.ofx.billerdelivery/presentmentmailtransactionresponse类的新实例
+description: 初始化一个新的实例PresentmentMailTransactionResponseaspose.finance.ofx.billerdelivery/presentmentmailtransactionresponse类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.billerdelivery/presentmentmailtransactionresponse/presentmentmailtransactionresponse/
 ---
 ## PresentmentMailTransactionResponse constructor
 
-初始化[`PresentmentMailTransactionResponse`](../../presentmentmailtransactionresponse)类的新实例。
+初始化一个新的实例[`PresentmentMailTransactionResponse`](../../presentmentmailtransactionresponse)类.
 
 ```csharp
 public PresentmentMailTransactionResponse()

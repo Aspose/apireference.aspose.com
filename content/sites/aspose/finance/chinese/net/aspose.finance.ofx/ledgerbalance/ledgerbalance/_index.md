@@ -1,14 +1,14 @@
 ---
 title: LedgerBalance
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化LedgerBalanceaspose.finance.ofx/ledgerbalance类的新实例
+description: 初始化一个新的实例LedgerBalanceaspose.finance.ofx/ledgerbalance类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx/ledgerbalance/ledgerbalance/
 ---
 ## LedgerBalance constructor
 
-初始化[`LedgerBalance`](../../ledgerbalance)类的新实例。
+初始化一个新的实例[`LedgerBalance`](../../ledgerbalance)类.
 
 ```csharp
 public LedgerBalance()

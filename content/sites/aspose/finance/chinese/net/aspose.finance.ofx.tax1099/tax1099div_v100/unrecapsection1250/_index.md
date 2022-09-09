@@ -1,14 +1,14 @@
 ---
 title: UnrecapSection1250
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置取消回顾第 1250 节增益
+description: 获取或设置取消回顾第 1250 节的增益
 type: docs
 weight: 270
 url: /zh/net/aspose.finance.ofx.tax1099/tax1099div_v100/unrecapsection1250/
 ---
 ## Tax1099DIV_V100.UnrecapSection1250 property
 
-获取或设置取消回顾第 1250 节增益。
+获取或设置取消回顾第 1250 节的增益。
 
 ```csharp
 public string UnrecapSection1250 { get; set; }

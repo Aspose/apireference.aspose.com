@@ -1,14 +1,14 @@
 ---
 title: LoanMailSyncRequest
 second_title: Справочник по API Aspose.Finance для .NET
-description: Класс запроса синхронизации почты займа.
+description: Класс запроса на синхронизацию почты по займу.
 type: docs
 weight: 3860
 url: /ru/net/aspose.finance.ofx.loan/loanmailsyncrequest/
 ---
 ## LoanMailSyncRequest class
 
-Класс запроса синхронизации почты займа.
+Класс запроса на синхронизацию почты по займу.
 
 ```csharp
 public class LoanMailSyncRequest : AbstractSyncRequest
@@ -18,17 +18,17 @@ public class LoanMailSyncRequest : AbstractSyncRequest
 
 | Имя | Описание |
 | --- | --- |
-| [LoanMailSyncRequest](loanmailsyncrequest)() | Инициализирует новый экземпляр класса[`LoanMailSyncRequest`](../loanmailsyncrequest). |
+| [LoanMailSyncRequest](loanmailsyncrequest)() | Инициализирует новый экземпляр[`LoanMailSyncRequest`](../loanmailsyncrequest) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
 | [IncludeImages](../../aspose.finance.ofx.loan/loanmailsyncrequest/includeimages) { get; set; } | Да, если клиент принимает почту с изображениями в теле сообщения. Нет, если клиент не принимает почту с изображениями в теле сообщения. |
-| [LoanAccountFrom](../../aspose.finance.ofx.loan/loanmailsyncrequest/loanaccountfrom) { get; set; } | Получает или задает значение из[`LoanAccount`](../../aspose.finance.ofx/loanaccount). |
-| [LoanMailTransactionRequests](../../aspose.finance.ofx.loan/loanmailsyncrequest/loanmailtransactionrequests) { get; set; } | Получает или задает коллекцию[`LoanMailTransactionRequest`](../loanmailtransactionrequest). |
-| [OfxExtension](../../aspose.finance.ofx.loan/loanmailsyncrequest/ofxextension) { get; set; } | Получает или задает[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
-| [Refresh](../../aspose.finance.ofx/abstractsyncrequest/refresh) { get; set; } | Получает или задает запрос на обновление текущего состояния. |
+| [LoanAccountFrom](../../aspose.finance.ofx.loan/loanmailsyncrequest/loanaccountfrom) { get; set; } | Получает или задает из[`LoanAccount`](../../aspose.finance.ofx/loanaccount) . |
+| [LoanMailTransactionRequests](../../aspose.finance.ofx.loan/loanmailsyncrequest/loanmailtransactionrequests) { get; set; } | Получает или задает коллекцию[`LoanMailTransactionRequest`](../loanmailtransactionrequest) . |
+| [OfxExtension](../../aspose.finance.ofx.loan/loanmailsyncrequest/ofxextension) { get; set; } | Получает или задает[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype) . |
+| [Refresh](../../aspose.finance.ofx/abstractsyncrequest/refresh) { get; set; } | Получает или устанавливает запрос на обновление текущего состояния. |
 | [RejectIfMisssing](../../aspose.finance.ofx/abstractsyncrequest/rejectifmisssing) { get; set; } | Если да, не обрабатывать запросы, если токен клиента устарел. |
 | [Token](../../aspose.finance.ofx/abstractsyncrequest/token) { get; set; } | Получает или задает токен. |
 | [TokenOnly](../../aspose.finance.ofx/abstractsyncrequest/tokenonly) { get; set; } | Получает или задает, запрашивать ли только текущий токен без истории. |

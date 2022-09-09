@@ -1,14 +1,14 @@
 ---
 title: LoanClosings
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает коллекциюLoanClosingaspose.finance.ofx.loan/loanclosing.
+description: Получает или задает коллекциюLoanClosingaspose.finance.ofx.loan/loanclosing .
 type: docs
 weight: 40
 url: /ru/net/aspose.finance.ofx.loan/loanstatementendresponse/loanclosings/
 ---
 ## LoanStatementEndResponse.LoanClosings property
 
-Получает или задает коллекцию[`LoanClosing`](../../loanclosing).
+Получает или задает коллекцию[`LoanClosing`](../../loanclosing) .
 
 ```csharp
 public List<LoanClosing> LoanClosings { get; set; }

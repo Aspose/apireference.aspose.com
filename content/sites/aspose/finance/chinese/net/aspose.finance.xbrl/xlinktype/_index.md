@@ -3,7 +3,7 @@ title: XlinkType
 second_title: Aspose.Finance for .NET API 参考
 description: Xlink 类型枚举
 type: docs
-weight: 8220
+weight: 8230
 url: /zh/net/aspose.finance.xbrl/xlinktype/
 ---
 ## XlinkType enumeration
@@ -22,7 +22,7 @@ public enum XlinkType
 | Simple | `1` | “简单”链接类型。 |
 | Extended | `2` | “扩展”链接类型。 |
 | Locator | `3` | “定位器”链接类型。 |
-| Arc | `4` | “弧形”链接类型。 |
+| Arc | `4` | “弧”链接类型。 |
 | Resource | `5` | “资源”链接类型。 |
 | Title | `6` | “标题”链接类型。 |
 

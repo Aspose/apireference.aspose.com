@@ -1,14 +1,14 @@
 ---
 title: Continuations
 second_title: Aspose.Finance for .NET API 参考
-description: 获取内联 XBRL 文档中InlineContinuationaspose.finance.xbrl.inline/inlinecontinuation的集合
+description: 获取集合InlineContinuationaspose.finance.xbrl.inline/inlinecontinuation在内联 XBRL 文档中
 type: docs
 weight: 40
 url: /zh/net/aspose.finance.xbrl.inline/inlinexbrldocument/continuations/
 ---
 ## InlineXbrlDocument.Continuations property
 
-获取内联 XBRL 文档中[`InlineContinuation`](../../inlinecontinuation)的集合。
+获取集合[`InlineContinuation`](../../inlinecontinuation)在内联 XBRL 文档中。
 
 ```csharp
 public List<InlineContinuation> Continuations { get; }

@@ -1,14 +1,14 @@
 ---
 title: State
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает состояние получателя платежа.
+description: Получает или устанавливает состояние получателя платежа.
 type: docs
 weight: 100
 url: /ru/net/aspose.finance.ofx/payee/state/
 ---
 ## Payee.State property
 
-Получает или задает состояние получателя платежа.
+Получает или устанавливает состояние получателя платежа.
 
 ```csharp
 public string State { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: DueDate
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает срок платежа или дату до которой платеж должен быть получен получателем.
+description: Получает или задает дату платежа или дату до которой платеж должен быть получен получателем платежа.
 type: docs
 weight: 60
 url: /ru/net/aspose.finance.ofx.billpay/paymentinfo/duedate/
 ---
 ## PaymentInfo.DueDate property
 
-Получает или задает срок платежа или дату, до которой платеж должен быть получен получателем.
+Получает или задает дату платежа или дату, до которой платеж должен быть получен получателем платежа.
 
 ```csharp
 public string DueDate { get; set; }

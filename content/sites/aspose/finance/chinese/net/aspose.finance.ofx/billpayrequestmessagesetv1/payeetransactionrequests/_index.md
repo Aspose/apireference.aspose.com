@@ -1,14 +1,14 @@
 ---
 title: PayeeTransactionRequests
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置PayeeTransactionRequestaspose.finance.ofx.billpay/payeetransactionrequest的集合
+description: 获取或设置的集合PayeeTransactionRequestaspose.finance.ofx.billpay/payeetransactionrequest.
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.ofx/billpayrequestmessagesetv1/payeetransactionrequests/
 ---
 ## BillPayRequestMessageSetV1.PayeeTransactionRequests property
 
-获取或设置[`PayeeTransactionRequest`](../../../aspose.finance.ofx.billpay/payeetransactionrequest)的集合。
+获取或设置的集合[`PayeeTransactionRequest`](../../../aspose.finance.ofx.billpay/payeetransactionrequest).
 
 ```csharp
 public List<PayeeTransactionRequest> PayeeTransactionRequests { get; set; }

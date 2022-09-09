@@ -1,14 +1,14 @@
 ---
 title: Value
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置InlineFractionaspose.finance.xbrl.inline/inlinefraction的值
+description: 获取或设置InlineFractionaspose.finance.xbrl.inline/inlinefraction.
 type: docs
 weight: 70
 url: /zh/net/aspose.finance.xbrl.inline/inlinefraction/value/
 ---
 ## InlineFraction.Value property
 
-获取或设置[`InlineFraction`](../../inlinefraction)的值。
+获取或设置[`InlineFraction`](../../inlinefraction).
 
 ```csharp
 public string Value { get; set; }

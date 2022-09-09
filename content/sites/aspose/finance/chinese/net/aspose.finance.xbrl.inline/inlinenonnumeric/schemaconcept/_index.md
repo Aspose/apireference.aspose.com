@@ -1,14 +1,14 @@
 ---
 title: SchemaConcept
 second_title: Aspose.Finance for .NET API 参考
-description: 获取InlineNonnumericaspose.finance.xbrl.inline/inlinenonnumeric的概念
+description: 获取的概念InlineNonnumericaspose.finance.xbrl.inline/inlinenonnumeric.
 type: docs
 weight: 60
 url: /zh/net/aspose.finance.xbrl.inline/inlinenonnumeric/schemaconcept/
 ---
 ## InlineNonnumeric.SchemaConcept property
 
-获取[`InlineNonnumeric`](../../inlinenonnumeric)的概念。
+获取的概念[`InlineNonnumeric`](../../inlinenonnumeric).
 
 ```csharp
 public Concept SchemaConcept { get; }

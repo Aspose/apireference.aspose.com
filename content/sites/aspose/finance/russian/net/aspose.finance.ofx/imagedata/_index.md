@@ -18,18 +18,18 @@ public class ImageData
 
 | Имя | Описание |
 | --- | --- |
-| [ImageData](imagedata)() | Инициализирует новый экземпляр класса[`ImageData`](../imagedata). |
+| [ImageData](imagedata)() | Инициализирует новый экземпляр[`ImageData`](../imagedata) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
 | [CheckSupport](../../aspose.finance.ofx/imagedata/checksupport) { get; set; } | Получает или задает информацию о контрольном изображении. |
-| [ImageAvailDate](../../aspose.finance.ofx/imagedata/imageavaildate) { get; set; } | Получает или задает дату доступности изображения. |
-| [ImageDelay](../../aspose.finance.ofx/imagedata/imagedelay) { get; set; } | Получает или задает количество календарных дней из ServerDate (для изображений выписки) или PostedDate (для изображений транзакций), когда изображение станет доступным. |
-| [ImageRef](../../aspose.finance.ofx/imagedata/imageref) { get; set; } | Получает или задает указанный сервером уникальный идентификатор изображения, который будет использоваться при запросе изображения. |
+| [ImageAvailDate](../../aspose.finance.ofx/imagedata/imageavaildate) { get; set; } | Получает или задает дату доступности образа. |
+| [ImageDelay](../../aspose.finance.ofx/imagedata/imagedelay) { get; set; } | Получает или задает количество календарных дней от ServerDate (для изображений выписки) или PostedDate (для изображений транзакций), когда изображение станет доступным. |
+| [ImageRef](../../aspose.finance.ofx/imagedata/imageref) { get; set; } | Получает или задает указанный сервером уникальный идентификатор изображения, которое будет использоваться во время запроса изображения. |
 | [ImageRefType](../../aspose.finance.ofx/imagedata/imagereftype) { get; set; } | Получает или задает тип ссылки. |
-| [ImageTtl](../../aspose.finance.ofx/imagedata/imagettl) { get; set; } | Получает или задает количество календарных дней, в течение которых изображение будет оставаться доступным на узле после того, как оно станет доступным. |
+| [ImageTtl](../../aspose.finance.ofx/imagedata/imagettl) { get; set; } | Получает или задает количество календарных дней, в течение которых изображение будет оставаться доступным на хосте после того, как оно станет доступным. |
 | [ImageType](../../aspose.finance.ofx/imagedata/imagetype) { get; set; } | Получает или задает тип изображения. |
 
 ### Смотрите также

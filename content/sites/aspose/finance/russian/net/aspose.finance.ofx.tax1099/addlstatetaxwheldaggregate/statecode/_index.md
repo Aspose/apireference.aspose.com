@@ -1,14 +1,14 @@
 ---
 title: StateCode
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает код штата плательщика.
+description: Получает или задает код состояния плательщика.
 type: docs
 weight: 20
 url: /ru/net/aspose.finance.ofx.tax1099/addlstatetaxwheldaggregate/statecode/
 ---
 ## AddlStateTaxWheldAggregate.StateCode property
 
-Получает или задает код штата плательщика.
+Получает или задает код состояния плательщика.
 
 ```csharp
 public string StateCode { get; set; }

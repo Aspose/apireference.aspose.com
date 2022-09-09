@@ -1,14 +1,14 @@
 ---
 title: Contributions
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化Contributionsaspose.finance.ofx.investment/contributions类的新实例
+description: 初始化一个新的实例Contributionsaspose.finance.ofx.investment/contributions类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.investment/contributions/contributions/
 ---
 ## Contributions constructor
 
-初始化[`Contributions`](../../contributions)类的新实例。
+初始化一个新的实例[`Contributions`](../../contributions)类.
 
 ```csharp
 public Contributions()

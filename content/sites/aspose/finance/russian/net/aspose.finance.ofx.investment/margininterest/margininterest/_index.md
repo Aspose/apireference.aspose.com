@@ -1,14 +1,14 @@
 ---
 title: MarginInterest
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаMarginInterestaspose.finance.ofx.investment/margininterest.
+description: Инициализирует новый экземплярMarginInterestaspose.finance.ofx.investment/margininterest класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.investment/margininterest/margininterest/
 ---
 ## MarginInterest constructor
 
-Инициализирует новый экземпляр класса[`MarginInterest`](../../margininterest).
+Инициализирует новый экземпляр[`MarginInterest`](../../margininterest) класс.
 
 ```csharp
 public MarginInterest()

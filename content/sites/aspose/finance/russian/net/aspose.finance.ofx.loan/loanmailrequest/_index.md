@@ -18,14 +18,14 @@ public class LoanMailRequest
 
 | Имя | Описание |
 | --- | --- |
-| [LoanMailRequest](loanmailrequest)() | Инициализирует новый экземпляр класса[`LoanMailRequest`](../loanmailrequest). |
+| [LoanMailRequest](loanmailrequest)() | Инициализирует новый экземпляр[`LoanMailRequest`](../loanmailrequest) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [LoanAccountFrom](../../aspose.finance.ofx.loan/loanmailrequest/loanaccountfrom) { get; set; } | Получает или задает значение из[`LoanAccount`](../../aspose.finance.ofx/loanaccount). |
-| [Mail](../../aspose.finance.ofx.loan/loanmailrequest/mail) { get; set; } | Получает или задает[`Mail`](./mail). |
+| [LoanAccountFrom](../../aspose.finance.ofx.loan/loanmailrequest/loanaccountfrom) { get; set; } | Получает или задает из[`LoanAccount`](../../aspose.finance.ofx/loanaccount) . |
+| [Mail](../../aspose.finance.ofx.loan/loanmailrequest/mail) { get; set; } | Получает или задает[`Mail`](./mail) . |
 
 ### Смотрите также
 

@@ -18,15 +18,15 @@ public class PresentmentNotifyTransactionRequest : AbstractTransactionRequest
 
 | Имя | Описание |
 | --- | --- |
-| [PresentmentNotifyTransactionRequest](presentmentnotifytransactionrequest)() | Инициализирует новый экземпляр класса[`PresentmentNotifyTransactionRequest`](../presentmentnotifytransactionrequest). |
+| [PresentmentNotifyTransactionRequest](presentmentnotifytransactionrequest)() | Инициализирует новый экземпляр[`PresentmentNotifyTransactionRequest`](../presentmentnotifytransactionrequest) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [ClientCookie](../../aspose.finance.ofx/abstracttransactionrequest/clientcookie) { get; set; } | Получает или задает данные, которые будут отображаться в ответе транзакции |
-| [OfxExtension](../../aspose.finance.ofx.billerdelivery/presentmentnotifytransactionrequest/ofxextension) { get; set; } | Получает или задает[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
-| [PresentmentNotifyRequest](../../aspose.finance.ofx.billerdelivery/presentmentnotifytransactionrequest/presentmentnotifyrequest) { get; set; } | Получает или задает[`PresentmentNotifyRequest`](./presentmentnotifyrequest). |
+| [ClientCookie](../../aspose.finance.ofx/abstracttransactionrequest/clientcookie) { get; set; } | Получает или задает данные, которые будут отражены в транзакции response |
+| [OfxExtension](../../aspose.finance.ofx.billerdelivery/presentmentnotifytransactionrequest/ofxextension) { get; set; } | Получает или задает[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype) . |
+| [PresentmentNotifyRequest](../../aspose.finance.ofx.billerdelivery/presentmentnotifytransactionrequest/presentmentnotifyrequest) { get; set; } | Получает или задает[`PresentmentNotifyRequest`](./presentmentnotifyrequest) . |
 | [TransactionAuthorizationNumber](../../aspose.finance.ofx/abstracttransactionrequest/transactionauthorizationnumber) { get; set; } | Получает или задает номер авторизации транзакции. |
 | [TransactionUniqueId](../../aspose.finance.ofx/abstracttransactionrequest/transactionuniqueid) { get; set; } | Получает или задает назначенный клиентом глобальный уникальный идентификатор для этой транзакции |
 

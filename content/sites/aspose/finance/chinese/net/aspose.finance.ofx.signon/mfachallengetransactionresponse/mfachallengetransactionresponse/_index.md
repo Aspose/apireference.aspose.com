@@ -1,14 +1,14 @@
 ---
 title: MFAChallengeTransactionResponse
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化MFAChallengeTransactionResponseaspose.finance.ofx.signon/mfachallengetransactionresponse类的新实例
+description: 初始化一个新的实例MFAChallengeTransactionResponseaspose.finance.ofx.signon/mfachallengetransactionresponse类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.signon/mfachallengetransactionresponse/mfachallengetransactionresponse/
 ---
 ## MFAChallengeTransactionResponse constructor
 
-初始化[`MFAChallengeTransactionResponse`](../../mfachallengetransactionresponse)类的新实例。
+初始化一个新的实例[`MFAChallengeTransactionResponse`](../../mfachallengetransactionresponse)类.
 
 ```csharp
 public MFAChallengeTransactionResponse()

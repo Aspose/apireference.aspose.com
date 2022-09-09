@@ -1,14 +1,14 @@
 ---
 title: Loc
 second_title: Aspose.Finance for .NET API 参考
-description: 这个类是一个Xlink./xlink定位器类型
+description: 这个类是一个Xlink./xlink定位器类型.
 type: docs
 weight: 7830
 url: /zh/net/aspose.finance.xbrl/loc/
 ---
 ## Loc class
 
-这个类是一个[`Xlink`](../xlink)定位器类型。
+这个类是一个[`Xlink`](../xlink)定位器类型.
 
 ```csharp
 public class Loc : Locator
@@ -18,7 +18,7 @@ public class Loc : Locator
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Loc](loc)(string, string) | 初始化[`Loc`](../loc)类的新实例。 |
+| [Loc](loc)(string, string) | 初始化一个新的实例[`Loc`](../loc)类. |
 
 ## 特性
 

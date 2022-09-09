@@ -1,14 +1,14 @@
 ---
 title: InterestRateCash
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает текущую процентную ставку для выдачи наличных действующую на момент загрузки.
+description: Получает или задает текущую процентную ставку для денежных авансов действующую на момент загрузки.
 type: docs
 weight: 80
 url: /ru/net/aspose.finance.ofx.creditcard/creditcardstatementresponse/interestratecash/
 ---
 ## CreditCardStatementResponse.InterestRateCash property
 
-Получает или задает текущую процентную ставку для выдачи наличных, действующую на момент загрузки.
+Получает или задает текущую процентную ставку для денежных авансов, действующую на момент загрузки.
 
 ```csharp
 public string InterestRateCash { get; set; }

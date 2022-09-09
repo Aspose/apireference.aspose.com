@@ -1,14 +1,14 @@
 ---
 title: MailRequest
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置MailRequestaspose.finance.ofx.email/mailtransactionrequest/mailrequest
+description: 获取或设置MailRequestaspose.finance.ofx.email/mailtransactionrequest/mailrequest.
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.ofx.email/mailtransactionrequest/mailrequest/
 ---
 ## MailTransactionRequest.MailRequest property
 
-获取或设置`MailRequest`。
+获取或设置`MailRequest`.
 
 ```csharp
 public MailRequest MailRequest { get; set; }

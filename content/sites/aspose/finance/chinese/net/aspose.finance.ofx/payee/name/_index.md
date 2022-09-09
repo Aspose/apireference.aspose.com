@@ -8,7 +8,7 @@ url: /zh/net/aspose.finance.ofx/payee/name/
 ---
 ## Payee.Name property
 
-获取或设置收款人姓名。
+获取或设置收款人姓名
 
 ```csharp
 public string Name { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: CancelWindow
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает количество дней после совершения межбанковского перевода по истечении которого его можно отменить.
+description: Получает или задает количество дней после совершения межбанковского перевода по истечении которых его можно отменить.
 type: docs
 weight: 30
 url: /ru/net/aspose.finance.ofx.profile/intertransfermessagesetv1/cancelwindow/
 ---
 ## InterTransferMessageSetV1.CancelWindow property
 
-Получает или задает количество дней после совершения межбанковского перевода, по истечении которого его можно отменить.
+Получает или задает количество дней после совершения межбанковского перевода, по истечении которых его можно отменить.
 
 ```csharp
 public string CancelWindow { get; set; }

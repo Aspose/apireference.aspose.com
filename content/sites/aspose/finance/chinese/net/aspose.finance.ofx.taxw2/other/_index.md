@@ -1,14 +1,14 @@
 ---
 title: Other
 second_title: Aspose.Finance for .NET API 参考
-description: 其他类方框 14 的描述和金额
+description: 其他类方框 14. 的描述和数量
 type: docs
 weight: 6160
 url: /zh/net/aspose.finance.ofx.taxw2/other/
 ---
 ## Other class
 
-其他类。方框 14 的描述和金额。
+其他类。方框 14. 的描述和数量
 
 ```csharp
 public class Other
@@ -18,13 +18,13 @@ public class Other
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Other](other)() | 初始化[`Other`](../other)类的新实例。 |
+| [Other](other)() | 初始化一个新的实例[`Other`](../other)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [OtherAmount](../../aspose.finance.ofx.taxw2/other/otheramount) { get; set; } | 获取或设置方框 14 条目的美元金额。 |
+| [OtherAmount](../../aspose.finance.ofx.taxw2/other/otheramount) { get; set; } | 获取或设置框 14 条目美元金额。 |
 | [OtherDescription](../../aspose.finance.ofx.taxw2/other/otherdescription) { get; set; } | 获取或设置框 14 条目描述。 |
 
 ### 也可以看看

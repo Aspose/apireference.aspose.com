@@ -1,14 +1,14 @@
 ---
 title: DepositMailResponse
 second_title: Справочник по API Aspose.Finance для .NET
-description: Класс ответа на почтовое уведомление о депозите. Сервер возвращает этот ответ когда депозит был возвращен если он получает сообщение синхронизации банковской электронной почты.
+description: Класс ответа на уведомление о депонировании почты. Сервер возвращает этот ответ когда депозит был возвращен если он получает сообщение синхронизации банковской электронной почты.
 type: docs
 weight: 420
 url: /ru/net/aspose.finance.ofx.bank/depositmailresponse/
 ---
 ## DepositMailResponse class
 
-Класс ответа на почтовое уведомление о депозите. Сервер возвращает этот ответ (когда депозит был возвращен), если он получает сообщение синхронизации банковской электронной почты.
+Класс ответа на уведомление о депонировании почты. Сервер возвращает этот ответ (когда депозит был возвращен), если он получает сообщение синхронизации банковской электронной почты.
 
 ```csharp
 public class DepositMailResponse : AbstractMailResponse
@@ -18,16 +18,16 @@ public class DepositMailResponse : AbstractMailResponse
 
 | Имя | Описание |
 | --- | --- |
-| [DepositMailResponse](depositmailresponse)() | Инициализирует новый экземпляр класса[`DepositMailResponse`](../depositmailresponse). |
+| [DepositMailResponse](depositmailresponse)() | Инициализирует новый экземпляр[`DepositMailResponse`](../depositmailresponse) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [BankAccountFrom](../../aspose.finance.ofx.bank/depositmailresponse/bankaccountfrom) { get; set; } | Получает или задает значение из[`BankAccount`](../../aspose.finance.ofx/bankaccount). |
-| [Fee](../../aspose.finance.ofx.bank/depositmailresponse/fee) { get; set; } | Получает или задает плату, установленную для NSF. |
-| [Mail](../../aspose.finance.ofx.bank/depositmailresponse/mail) { get; set; } | Получает или задает[`Mail`](./mail). |
-| [TransactionAmount](../../aspose.finance.ofx.bank/depositmailresponse/transactionamount) { get; set; } | Получает или задает сумму депозита. |
+| [BankAccountFrom](../../aspose.finance.ofx.bank/depositmailresponse/bankaccountfrom) { get; set; } | Получает или задает из[`BankAccount`](../../aspose.finance.ofx/bankaccount) . |
+| [Fee](../../aspose.finance.ofx.bank/depositmailresponse/fee) { get; set; } | Получает или задает комиссию, установленную для NSF. |
+| [Mail](../../aspose.finance.ofx.bank/depositmailresponse/mail) { get; set; } | Получает или задает[`Mail`](./mail) . |
+| [TransactionAmount](../../aspose.finance.ofx.bank/depositmailresponse/transactionamount) { get; set; } | Получает или устанавливает сумму депозита. |
 | [UserDate](../../aspose.finance.ofx.bank/depositmailresponse/userdate) { get; set; } | Получает или задает дату депозита клиента. |
 
 ### Смотрите также

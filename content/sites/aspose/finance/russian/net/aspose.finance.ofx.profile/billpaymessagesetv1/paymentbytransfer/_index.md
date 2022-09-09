@@ -1,14 +1,14 @@
 ---
 title: PaymentByTransfer
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает будут ли платежи получателям идентифицированным целевым счетом
+description: Получает или задает будут ли платежи получателям идентифицированным целевым аккаунтом
 type: docs
 weight: 140
 url: /ru/net/aspose.finance.ofx.profile/billpaymessagesetv1/paymentbytransfer/
 ---
 ## BillPayMessageSetV1.PaymentByTransfer property
 
-Получает или задает, будут ли платежи получателям, идентифицированным целевым счетом
+Получает или задает, будут ли платежи получателям, идентифицированным целевым аккаунтом
 
 ```csharp
 public bool PaymentByTransfer { get; set; }

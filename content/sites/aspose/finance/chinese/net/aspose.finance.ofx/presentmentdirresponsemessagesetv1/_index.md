@@ -1,14 +1,14 @@
 ---
 title: PresentmentDirResponseMessageSetV1
 second_title: Aspose.Finance for .NET API 参考
-description: Biller 目录响应消息集版本 1 类
+description: Biller 目录响应消息设置版本 1 类
 type: docs
 weight: 4320
 url: /zh/net/aspose.finance.ofx/presentmentdirresponsemessagesetv1/
 ---
 ## PresentmentDirResponseMessageSetV1 class
 
-Biller 目录响应消息集版本 1 类。
+Biller 目录响应消息设置版本 1 类。
 
 ```csharp
 public class PresentmentDirResponseMessageSetV1 : AbstractResponseMessageSet
@@ -18,13 +18,13 @@ public class PresentmentDirResponseMessageSetV1 : AbstractResponseMessageSet
 
 | 姓名 | 描述 |
 | --- | --- |
-| [PresentmentDirResponseMessageSetV1](presentmentdirresponsemessagesetv1)() | 初始化[`PresentmentDirResponseMessageSetV1`](../presentmentdirresponsemessagesetv1)类的新实例。 |
+| [PresentmentDirResponseMessageSetV1](presentmentdirresponsemessagesetv1)() | 初始化一个新的实例[`PresentmentDirResponseMessageSetV1`](../presentmentdirresponsemessagesetv1)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [FindBillerTransactionResponses](../../aspose.finance.ofx/presentmentdirresponsemessagesetv1/findbillertransactionresponses) { get; set; } | 获取或设置[`FindBillerTransactionResponse`](../../aspose.finance.ofx.billerdirectory/findbillertransactionresponse)的集合。 |
+| [FindBillerTransactionResponses](../../aspose.finance.ofx/presentmentdirresponsemessagesetv1/findbillertransactionresponses) { get; set; } | 获取或设置的集合[`FindBillerTransactionResponse`](../../aspose.finance.ofx.billerdirectory/findbillertransactionresponse). |
 
 ### 也可以看看
 

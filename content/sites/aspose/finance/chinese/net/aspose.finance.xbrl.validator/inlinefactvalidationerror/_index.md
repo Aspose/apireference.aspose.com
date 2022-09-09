@@ -17,8 +17,8 @@ public class InlineFactValidationError : ValidationError
 | 姓名 | 描述 |
 | --- | --- |
 | [Code](../../aspose.finance.xbrl.validator/validationerror/code) { get; } | 获取验证错误代码。 |
-| [Message](../../aspose.finance.xbrl.validator/validationerror/message) { get; } | 获取错误消息。 |
-| [Object](../../aspose.finance.xbrl.validator/inlinefactvalidationerror/object) { get; } | 获取有验证错误的[`Fact`](../../aspose.finance.xbrl/fact)对象。 |
+| [Message](../../aspose.finance.xbrl.validator/validationerror/message) { get; } | 获取错误信息。 |
+| [Object](../../aspose.finance.xbrl.validator/inlinefactvalidationerror/object) { get; } | 获取[`Fact`](../../aspose.finance.xbrl/fact)有验证错误的对象。 |
 
 ### 也可以看看
 

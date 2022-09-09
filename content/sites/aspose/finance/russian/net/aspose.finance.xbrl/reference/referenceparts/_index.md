@@ -1,14 +1,14 @@
 ---
 title: ReferenceParts
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает коллекциюReferencePartaspose.finance.xbrl/referencepart.
+description: Получает коллекциюReferencePartaspose.finance.xbrl/referencepart .
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.xbrl/reference/referenceparts/
 ---
 ## Reference.ReferenceParts property
 
-Получает коллекцию[`ReferencePart`](../../referencepart).
+Получает коллекцию[`ReferencePart`](../../referencepart) .
 
 ```csharp
 public List<ReferencePart> ReferenceParts { get; }

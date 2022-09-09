@@ -1,14 +1,14 @@
 ---
 title: OtherEnroll
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задаетOtherEnrollaspose.finance.ofx.profile/signupmessagesetv1/otherenroll.
+description: Получает или задаетOtherEnrollaspose.finance.ofx.profile/signupmessagesetv1/otherenroll .
 type: docs
 weight: 60
 url: /ru/net/aspose.finance.ofx.profile/signupmessagesetv1/otherenroll/
 ---
 ## SignupMessageSetV1.OtherEnroll property
 
-Получает или задает`OtherEnroll`.
+Получает или задает`OtherEnroll` .
 
 ```csharp
 public OtherEnroll OtherEnroll { get; set; }

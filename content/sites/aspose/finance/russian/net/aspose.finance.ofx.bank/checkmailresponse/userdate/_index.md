@@ -1,14 +1,14 @@
 ---
 title: UserDate
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает дату клиента на чеке.
+description: Получает или устанавливает дату клиента в чеке.
 type: docs
 weight: 70
 url: /ru/net/aspose.finance.ofx.bank/checkmailresponse/userdate/
 ---
 ## CheckMailResponse.UserDate property
 
-Получает или задает дату клиента на чеке.
+Получает или устанавливает дату клиента в чеке.
 
 ```csharp
 public string UserDate { get; set; }

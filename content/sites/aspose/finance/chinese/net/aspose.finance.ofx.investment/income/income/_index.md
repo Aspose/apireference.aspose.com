@@ -1,14 +1,14 @@
 ---
 title: Income
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化Incomeaspose.finance.ofx.investment/income类的新实例
+description: 初始化一个新的实例Incomeaspose.finance.ofx.investment/income类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.investment/income/income/
 ---
 ## Income constructor
 
-初始化[`Income`](../../income)类的新实例。
+初始化一个新的实例[`Income`](../../income)类.
 
 ```csharp
 public Income()

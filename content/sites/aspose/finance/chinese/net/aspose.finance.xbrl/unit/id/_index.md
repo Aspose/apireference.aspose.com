@@ -1,14 +1,14 @@
 ---
 title: Id
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置单元 ID
+description: 获取或设置单元id
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.xbrl/unit/id/
 ---
 ## Unit.Id property
 
-获取或设置单元 ID。
+获取或设置单元id。
 
 ```csharp
 public string Id { get; set; }

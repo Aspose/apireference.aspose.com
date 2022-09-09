@@ -1,14 +1,14 @@
 ---
 title: PresentmentDirMessageSetV1s
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置PresentmentDirMessageSetV1aspose.finance.ofx.profile/presentmentdirmessagesetv1的集合
+description: 获取或设置的集合PresentmentDirMessageSetV1aspose.finance.ofx.profile/presentmentdirmessagesetv1.
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.ofx.profile/presentmentdirmessageset/presentmentdirmessagesetv1s/
 ---
 ## PresentmentDirMessageSet.PresentmentDirMessageSetV1s property
 
-获取或设置[`PresentmentDirMessageSetV1`](../../presentmentdirmessagesetv1)的集合。
+获取或设置的集合[`PresentmentDirMessageSetV1`](../../presentmentdirmessagesetv1).
 
 ```csharp
 public List<PresentmentDirMessageSetV1> PresentmentDirMessageSetV1s { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: LoanTransactionAmount
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задаетLoanTransactionAmountaspose.finance.ofx/transferinfo/loantransactionamount.
+description: Получает или задаетLoanTransactionAmountaspose.finance.ofx/transferinfo/loantransactionamount .
 type: docs
 weight: 50
 url: /ru/net/aspose.finance.ofx/transferinfo/loantransactionamount/
 ---
 ## TransferInfo.LoanTransactionAmount property
 
-Получает или задает`LoanTransactionAmount`.
+Получает или задает`LoanTransactionAmount` .
 
 ```csharp
 public LoanTransactionAmount LoanTransactionAmount { get; set; }

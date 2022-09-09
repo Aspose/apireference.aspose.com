@@ -1,14 +1,14 @@
 ---
 title: Duration
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или устанавливает срок действия заказа.
+description: Получает или устанавливает срок действия ордера.
 type: docs
 weight: 30
 url: /ru/net/aspose.finance.ofx.investment/generalopenorder/duration/
 ---
 ## GeneralOpenOrder.Duration property
 
-Получает или устанавливает срок действия заказа.
+Получает или устанавливает срок действия ордера.
 
 ```csharp
 public DurationEnum Duration { get; set; }

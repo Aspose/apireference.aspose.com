@@ -18,7 +18,7 @@ public class ImageRequest
 
 | Имя | Описание |
 | --- | --- |
-| [ImageRequest](imagerequest)() | Инициализирует новый экземпляр класса[`ImageRequest`](../imagerequest). |
+| [ImageRequest](imagerequest)() | Инициализирует новый экземпляр[`ImageRequest`](../imagerequest) класс. |
 
 ## Характеристики
 

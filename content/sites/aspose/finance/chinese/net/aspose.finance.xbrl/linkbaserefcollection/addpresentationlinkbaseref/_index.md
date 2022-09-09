@@ -1,14 +1,14 @@
 ---
 title: AddPresentationLinkbaseRef
 second_title: Aspose.Finance for .NET API 参考
-description: 将PresentationLinkbaseRefaspose.finance.xbrl/presentationlinkbaseref添加到集合中
+description: 添加一个PresentationLinkbaseRefaspose.finance.xbrl/presentationlinkbaseref收藏.
 type: docs
 weight: 60
 url: /zh/net/aspose.finance.xbrl/linkbaserefcollection/addpresentationlinkbaseref/
 ---
 ## LinkbaseRefCollection.AddPresentationLinkbaseRef method
 
-将[`PresentationLinkbaseRef`](../../presentationlinkbaseref)添加到集合中。
+添加一个[`PresentationLinkbaseRef`](../../presentationlinkbaseref)收藏.
 
 ```csharp
 public void AddPresentationLinkbaseRef(string href)

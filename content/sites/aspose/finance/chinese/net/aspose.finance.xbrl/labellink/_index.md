@@ -18,9 +18,9 @@ public class LabelLink
 
 | 姓名 | 描述 |
 | --- | --- |
-| [LabelArcs](../../aspose.finance.xbrl/labellink/labelarcs) { get; } | 获取[`LabelArc`](../labelarc)的集合。 |
-| [Labels](../../aspose.finance.xbrl/labellink/labels) { get; } | 获取[`Label`](../label)的集合。 |
-| [Locators](../../aspose.finance.xbrl/labellink/locators) { get; } | 获取[`Loc`](../loc)的集合。 |
+| [LabelArcs](../../aspose.finance.xbrl/labellink/labelarcs) { get; } | 获取集合[`LabelArc`](../labelarc). |
+| [Labels](../../aspose.finance.xbrl/labellink/labels) { get; } | 获取集合[`Label`](../label). |
+| [Locators](../../aspose.finance.xbrl/labellink/locators) { get; } | 获取集合[`Loc`](../loc). |
 | [Role](../../aspose.finance.xbrl/labellink/role) { get; set; } | 获取或设置角色。 |
 
 ### 也可以看看

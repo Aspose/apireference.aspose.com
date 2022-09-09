@@ -18,7 +18,7 @@ public class CharType : AbstractStringType
 
 | Имя | Описание |
 | --- | --- |
-| [CharType](chartype)() | Инициализирует новый экземпляр класса[`CharType`](../chartype). |
+| [CharType](chartype)() | Инициализирует новый экземпляр[`CharType`](../chartype) класс. |
 
 ## Характеристики
 

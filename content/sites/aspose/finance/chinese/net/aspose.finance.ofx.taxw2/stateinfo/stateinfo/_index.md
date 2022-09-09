@@ -1,14 +1,14 @@
 ---
 title: StateInfo
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化StateInfoaspose.finance.ofx.taxw2/stateinfo类的新实例
+description: 初始化一个新的实例StateInfoaspose.finance.ofx.taxw2/stateinfo类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.taxw2/stateinfo/stateinfo/
 ---
 ## StateInfo constructor
 
-初始化[`StateInfo`](../../stateinfo)类的新实例。
+初始化一个新的实例[`StateInfo`](../../stateinfo)类.
 
 ```csharp
 public StateInfo()

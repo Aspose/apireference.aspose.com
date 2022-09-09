@@ -1,14 +1,14 @@
 ---
 title: AccountInfos
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает коллекциюAccountInfoaspose.finance.ofx/accountinfo.
+description: Получает или задает коллекциюAccountInfoaspose.finance.ofx/accountinfo .
 type: docs
 weight: 20
 url: /ru/net/aspose.finance.ofx/accountinforesponse/accountinfos/
 ---
 ## AccountInfoResponse.AccountInfos property
 
-Получает или задает коллекцию[`AccountInfo`](../../accountinfo).
+Получает или задает коллекцию[`AccountInfo`](../../accountinfo) .
 
 ```csharp
 public List<AccountInfo> AccountInfos { get; set; }

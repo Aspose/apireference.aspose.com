@@ -18,23 +18,23 @@ public class Split : AbstractInvestmentTransaction
 
 | Имя | Описание |
 | --- | --- |
-| [Split](split)() | Инициализирует новый экземпляр класса[`Split`](../split). |
+| [Split](split)() | Инициализирует новый экземпляр[`Split`](../split) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [Currency](../../aspose.finance.ofx.investment/split/currency) { get; set; } | Получает или задает[`Currency`](./currency). |
-| [Denominator](../../aspose.finance.ofx.investment/split/denominator) { get; set; } | Получает или задает знаменатель коэффициента разделения для разделения акций. |
+| [Currency](../../aspose.finance.ofx.investment/split/currency) { get; set; } | Получает или задает[`Currency`](./currency) . |
+| [Denominator](../../aspose.finance.ofx.investment/split/denominator) { get; set; } | Получает или задает знаменатель коэффициента разделения для дробления акций. |
 | [FractionalCash](../../aspose.finance.ofx.investment/split/fractionalcash) { get; set; } | Получает или устанавливает денежные средства для дробных единиц. |
-| [Investment401kSource](../../aspose.finance.ofx.investment/split/investment401ksource) { get; set; } | Получает или задает источник денег для этой транзакции. |
-| [InvestmentTransaction](../../aspose.finance.ofx.investment/abstractinvestmenttransaction/investmenttransaction) { get; set; } | Получает или задает[`InvestmentTransaction`](../abstractinvestmenttransaction/investmenttransaction). |
-| [NewUnits](../../aspose.finance.ofx.investment/split/newunits) { get; set; } | Получает или задает количество акций после дробления для дробления акций. |
-| [Numerator](../../aspose.finance.ofx.investment/split/numerator) { get; set; } | Получает или задает числитель коэффициента разделения для разделения акций. |
-| [OldUnits](../../aspose.finance.ofx.investment/split/oldunits) { get; set; } | Получает или задает количество акций до разделения для дробления акций. |
-| [OriginCurrency](../../aspose.finance.ofx.investment/split/origincurrency) { get; set; } | Получает или задает источник[`Currency`](./currency). |
-| [SecurityId](../../aspose.finance.ofx.investment/split/securityid) { get; set; } | Получает или задает[`SecurityId`](./securityid). |
-| [SubAccountFund](../../aspose.finance.ofx.investment/split/subaccountfund) { get; set; } | Получает или устанавливает, откуда или куда ушли деньги для транзакции. |
+| [Investment401kSource](../../aspose.finance.ofx.investment/split/investment401ksource) { get; set; } | Получает или устанавливает источник денег для этой транзакции. |
+| [InvestmentTransaction](../../aspose.finance.ofx.investment/abstractinvestmenttransaction/investmenttransaction) { get; set; } | Получает или задает[`InvestmentTransaction`](../abstractinvestmenttransaction/investmenttransaction) . |
+| [NewUnits](../../aspose.finance.ofx.investment/split/newunits) { get; set; } | Получает или задает количество акций после разделения для дробления акций. |
+| [Numerator](../../aspose.finance.ofx.investment/split/numerator) { get; set; } | Получает или задает числитель коэффициента разделения для дробления акций. |
+| [OldUnits](../../aspose.finance.ofx.investment/split/oldunits) { get; set; } | Получает или задает количество акций перед дроблением для дробления акций. |
+| [OriginCurrency](../../aspose.finance.ofx.investment/split/origincurrency) { get; set; } | Получает или задает источник[`Currency`](./currency) . |
+| [SecurityId](../../aspose.finance.ofx.investment/split/securityid) { get; set; } | Получает или задает[`SecurityId`](./securityid) . |
+| [SubAccountFund](../../aspose.finance.ofx.investment/split/subaccountfund) { get; set; } | Получает или задает, откуда пришли или куда ушли деньги для транзакции. |
 | [SubAccountSecurity](../../aspose.finance.ofx.investment/split/subaccountsecurity) { get; set; } | Получает или задает тип субсчета для ценной бумаги. |
 
 ### Смотрите также

@@ -1,14 +1,14 @@
 ---
 title: ExtendedPayments
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает коллекциюExtendedPaymentaspose.finance.ofx.billpay/extendedpayment.
+description: Получает или задает коллекциюExtendedPaymentaspose.finance.ofx.billpay/extendedpayment .
 type: docs
 weight: 70
 url: /ru/net/aspose.finance.ofx.billpay/paymentinfo/extendedpayments/
 ---
 ## PaymentInfo.ExtendedPayments property
 
-Получает или задает коллекцию[`ExtendedPayment`](../../extendedpayment).
+Получает или задает коллекцию[`ExtendedPayment`](../../extendedpayment) .
 
 ```csharp
 public List<ExtendedPayment> ExtendedPayments { get; set; }

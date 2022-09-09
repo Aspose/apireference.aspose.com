@@ -1,14 +1,14 @@
 ---
 title: LastPmtInfoType
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化LastPmtInfoTypeaspose.finance.ofx/lastpmtinfotype类的新实例
+description: 初始化一个新的实例LastPmtInfoTypeaspose.finance.ofx/lastpmtinfotype类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx/lastpmtinfotype/lastpmtinfotype/
 ---
 ## LastPmtInfoType constructor
 
-初始化[`LastPmtInfoType`](../../lastpmtinfotype)类的新实例。
+初始化一个新的实例[`LastPmtInfoType`](../../lastpmtinfotype)类.
 
 ```csharp
 public LastPmtInfoType()

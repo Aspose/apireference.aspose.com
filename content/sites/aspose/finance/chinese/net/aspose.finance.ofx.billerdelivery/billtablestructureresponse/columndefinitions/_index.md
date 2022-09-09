@@ -1,14 +1,14 @@
 ---
 title: ColumnDefinitions
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置ColumnDefinitionaspose.finance.ofx.billerdelivery/columndefinition的集合
+description: 获取或设置的集合ColumnDefinitionaspose.finance.ofx.billerdelivery/columndefinition.
 type: docs
 weight: 40
 url: /zh/net/aspose.finance.ofx.billerdelivery/billtablestructureresponse/columndefinitions/
 ---
 ## BillTableStructureResponse.ColumnDefinitions property
 
-获取或设置[`ColumnDefinition`](../../columndefinition)的集合。
+获取或设置的集合[`ColumnDefinition`](../../columndefinition).
 
 ```csharp
 public List<ColumnDefinition> ColumnDefinitions { get; set; }

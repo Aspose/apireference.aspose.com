@@ -18,14 +18,14 @@ public class BillPaymentAccountInfo : AbstractAccountInfo
 
 | Имя | Описание |
 | --- | --- |
-| [BillPaymentAccountInfo](billpaymentaccountinfo)() | Инициализирует новый экземпляр класса[`BillPaymentAccountInfo`](../billpaymentaccountinfo). |
+| [BillPaymentAccountInfo](billpaymentaccountinfo)() | Инициализирует новый экземпляр[`BillPaymentAccountInfo`](../billpaymentaccountinfo) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [BankAccountFrom](../../aspose.finance.ofx/billpaymentaccountinfo/bankaccountfrom) { get; set; } | Получает или задает значение из[`BankAccount`](../bankaccount). |
-| [ServiceStatus](../../aspose.finance.ofx/billpaymentaccountinfo/servicestatus) { get; set; } | Получает или задает статус учетной записи. |
+| [BankAccountFrom](../../aspose.finance.ofx/billpaymentaccountinfo/bankaccountfrom) { get; set; } | Получает или задает из[`BankAccount`](../bankaccount) . |
+| [ServiceStatus](../../aspose.finance.ofx/billpaymentaccountinfo/servicestatus) { get; set; } | Получает или устанавливает статус учетной записи. |
 
 ### Смотрите также
 

@@ -17,7 +17,7 @@ public void Save(string fileName, OfxVersionEnum ofxVersion)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | fileName | String | Имя создаваемого файла. |
-| ofxVersion | OfxVersionEnum | Версия ofx. |
+| ofxVersion | OfxVersionEnum | Офф версия. |
 
 ### Смотрите также
 

@@ -1,14 +1,14 @@
 ---
 title: MailSyncRequest
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化MailSyncRequestaspose.finance.ofx.email/mailsyncrequest类的新实例
+description: 初始化一个新的实例MailSyncRequestaspose.finance.ofx.email/mailsyncrequest类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.email/mailsyncrequest/mailsyncrequest/
 ---
 ## MailSyncRequest constructor
 
-初始化[`MailSyncRequest`](../../mailsyncrequest)类的新实例。
+初始化一个新的实例[`MailSyncRequest`](../../mailsyncrequest)类.
 
 ```csharp
 public MailSyncRequest()

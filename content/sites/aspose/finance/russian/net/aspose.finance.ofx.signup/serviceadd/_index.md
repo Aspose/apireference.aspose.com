@@ -18,13 +18,13 @@ public class ServiceAdd : AbstractServiceAction
 
 | Имя | Описание |
 | --- | --- |
-| [ServiceAdd](serviceadd)() | Инициализирует новый экземпляр класса[`ServiceAdd`](../serviceadd). |
+| [ServiceAdd](serviceadd)() | Инициализирует новый экземпляр[`ServiceAdd`](../serviceadd) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [AccountTo](../../aspose.finance.ofx.signup/serviceadd/accountto) { get; set; } | Получает или задает значение[`BankAccount`](../../aspose.finance.ofx/bankaccount)или[`CreditCardAccount`](../../aspose.finance.ofx/creditcardaccount)или[`InvestmentAccount`](../../aspose.finance.ofx/investmentaccount)или[`PresentmentAccount`](../../aspose.finance.ofx/presentmentaccount). |
+| [AccountTo](../../aspose.finance.ofx.signup/serviceadd/accountto) { get; set; } | Получает или задает значение[`BankAccount`](../../aspose.finance.ofx/bankaccount) или же[`CreditCardAccount`](../../aspose.finance.ofx/creditcardaccount) или же[`InvestmentAccount`](../../aspose.finance.ofx/investmentaccount) или же[`PresentmentAccount`](../../aspose.finance.ofx/presentmentaccount) . |
 
 ### Смотрите также
 

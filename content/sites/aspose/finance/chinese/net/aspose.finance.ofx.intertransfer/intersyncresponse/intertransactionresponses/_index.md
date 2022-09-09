@@ -1,14 +1,14 @@
 ---
 title: InterTransactionResponses
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置InterTransactionResponseaspose.finance.ofx.intertransfer/intertransactionresponse的集合
+description: 获取或设置的集合InterTransactionResponseaspose.finance.ofx.intertransfer/intertransactionresponse.
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.ofx.intertransfer/intersyncresponse/intertransactionresponses/
 ---
 ## InterSyncResponse.InterTransactionResponses property
 
-获取或设置[`InterTransactionResponse`](../../intertransactionresponse)的集合。
+获取或设置的集合[`InterTransactionResponse`](../../intertransactionresponse).
 
 ```csharp
 public List<InterTransactionResponse> InterTransactionResponses { get; set; }

@@ -8,7 +8,7 @@ url: /zh/net/aspose.finance.ofx.investment/buymutualfund/
 ---
 ## BuyMutualFund class
 
-投资买入共同基金交易类。
+投资买入共同基金交易类
 
 ```csharp
 public class BuyMutualFund : AbstractInvestmentBuyTransaction
@@ -18,15 +18,15 @@ public class BuyMutualFund : AbstractInvestmentBuyTransaction
 
 | 姓名 | 描述 |
 | --- | --- |
-| [BuyMutualFund](buymutualfund)() | 初始化[`BuyMutualFund`](../buymutualfund)类的新实例。 |
+| [BuyMutualFund](buymutualfund)() | 初始化一个新的实例[`BuyMutualFund`](../buymutualfund)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [BuyType](../../aspose.finance.ofx.investment/buymutualfund/buytype) { get; set; } | 获取或设置购买类型。 |
-| [InvestmentBuy](../../aspose.finance.ofx.investment/abstractinvestmentbuytransaction/investmentbuy) { get; set; } | 获取或设置[`InvestmentBuy`](../abstractinvestmentbuytransaction/investmentbuy)。 |
-| [RelateFITransactionID](../../aspose.finance.ofx.investment/buymutualfund/relatefitransactionid) { get; set; } | 获取或设置与共同基金交易相关的交易。 |
+| [BuyType](../../aspose.finance.ofx.investment/buymutualfund/buytype) { get; set; } | 获取或设置购买的类型。 |
+| [InvestmentBuy](../../aspose.finance.ofx.investment/abstractinvestmentbuytransaction/investmentbuy) { get; set; } | 获取或设置[`InvestmentBuy`](../abstractinvestmentbuytransaction/investmentbuy). |
+| [RelateFITransactionID](../../aspose.finance.ofx.investment/buymutualfund/relatefitransactionid) { get; set; } | 获取或设置与共同基金交易所相关的交易。 |
 
 ### 也可以看看
 

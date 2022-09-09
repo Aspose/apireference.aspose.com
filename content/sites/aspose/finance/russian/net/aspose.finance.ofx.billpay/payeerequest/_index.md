@@ -18,14 +18,14 @@ public class PayeeRequest : AbstractPayeeRequest
 
 | Имя | Описание |
 | --- | --- |
-| [PayeeRequest](payeerequest)() | Инициализирует новый экземпляр класса[`PayeeRequest`](../payeerequest). |
+| [PayeeRequest](payeerequest)() | Инициализирует новый экземпляр[`PayeeRequest`](../payeerequest) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [BankAccountTo](../../aspose.finance.ofx.billpay/payeerequest/bankaccountto) { get; set; } | Получает или задает назначение[`BankAccount`](../../aspose.finance.ofx/bankaccount), указанное в странах, осуществляющих оплату переводами |
-| [Payee](../../aspose.finance.ofx.billpay/payeerequest/payee) { get; set; } | Получает или задает полную информацию!:Common.Payee. |
+| [BankAccountTo](../../aspose.finance.ofx.billpay/payeerequest/bankaccountto) { get; set; } | Получает или задает пункт назначения[`BankAccount`](../../aspose.finance.ofx/bankaccount) , указанный в странах, оплачивающих с помощью Transfers |
+| [Payee](../../aspose.finance.ofx.billpay/payeerequest/payee) { get; set; } | Получает или задает полный!:Common.Payee информация. |
 | [PayeeAccounts](../../aspose.finance.ofx.billpay/payeerequest/payeeaccounts) { get; set; } | Получает или задает номер счета пользователя коллекции у получателя платежа. |
 | [PayeeId](../../aspose.finance.ofx.billpay/payeerequest/payeeid) { get; set; } | Получает или задает назначенный сервером идентификатор получателя платежа. |
 

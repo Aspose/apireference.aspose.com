@@ -1,14 +1,14 @@
 ---
 title: ColumnDefinitions
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает коллекциюColumnDefinitionaspose.finance.ofx.billerdelivery/columndefinition.
+description: Получает или задает коллекциюColumnDefinitionaspose.finance.ofx.billerdelivery/columndefinition .
 type: docs
 weight: 40
 url: /ru/net/aspose.finance.ofx.billerdelivery/billtablestructureresponse/columndefinitions/
 ---
 ## BillTableStructureResponse.ColumnDefinitions property
 
-Получает или задает коллекцию[`ColumnDefinition`](../../columndefinition).
+Получает или задает коллекцию[`ColumnDefinition`](../../columndefinition) .
 
 ```csharp
 public List<ColumnDefinition> ColumnDefinitions { get; set; }

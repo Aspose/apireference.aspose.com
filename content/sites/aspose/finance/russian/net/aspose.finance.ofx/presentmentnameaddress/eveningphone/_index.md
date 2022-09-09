@@ -1,14 +1,14 @@
 ---
 title: EveningPhone
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает вечерний номер телефона клиента.
+description: Получает или устанавливает вечерний номер телефона клиента.
 type: docs
 weight: 90
 url: /ru/net/aspose.finance.ofx/presentmentnameaddress/eveningphone/
 ---
 ## PresentmentNameAddress.EveningPhone property
 
-Получает или задает вечерний номер телефона клиента.
+Получает или устанавливает вечерний номер телефона клиента.
 
 ```csharp
 public string EveningPhone { get; set; }

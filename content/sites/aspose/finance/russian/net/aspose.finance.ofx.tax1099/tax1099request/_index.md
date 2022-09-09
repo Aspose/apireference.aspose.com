@@ -1,14 +1,14 @@
 ---
 title: Tax1099Request
 second_title: Справочник по API Aspose.Finance для .NET
-description: Класс запроса Tax 1099. Это запрашивает все типы налоговых форм 1099 с сервера.
+description: Класс запроса Tax 1099. Это запрашивает все типы 1099 налоговых форм с сервера.
 type: docs
 weight: 6050
 url: /ru/net/aspose.finance.ofx.tax1099/tax1099request/
 ---
 ## Tax1099Request class
 
-Класс запроса Tax 1099. Это запрашивает все типы налоговых форм 1099 с сервера.
+Класс запроса Tax 1099. Это запрашивает все типы 1099 налоговых форм с сервера.
 
 ```csharp
 public class Tax1099Request
@@ -18,7 +18,7 @@ public class Tax1099Request
 
 | Имя | Описание |
 | --- | --- |
-| [Tax1099Request](tax1099request)() | Инициализирует новый экземпляр класса[`Tax1099Request`](../tax1099request). |
+| [Tax1099Request](tax1099request)() | Инициализирует новый экземпляр[`Tax1099Request`](../tax1099request) класс. |
 
 ## Характеристики
 
@@ -26,7 +26,7 @@ public class Tax1099Request
 | --- | --- |
 | [AccountNumber](../../aspose.finance.ofx.tax1099/tax1099request/accountnumber) { get; set; } | Получает или задает номер счета получателя. |
 | [RecipientId](../../aspose.finance.ofx.tax1099/tax1099request/recipientid) { get; set; } | Получает или задает идентификатор получателя. |
-| [TaxYears](../../aspose.finance.ofx.tax1099/tax1099request/taxyears) { get; set; } | Получает или задает налоговый год запрашиваемых форм. |
+| [TaxYears](../../aspose.finance.ofx.tax1099/tax1099request/taxyears) { get; set; } | Получает или задает налоговый год запрошенных форм. |
 
 ### Смотрите также
 

@@ -18,7 +18,7 @@ public abstract class LinkbaseRef : SimpleLink
 
 | Имя | Описание |
 | --- | --- |
-| [LinkbaseRef](linkbaseref)() | Инициализирует новый экземпляр класса[`LinkbaseRef`](../linkbaseref). |
+| [LinkbaseRef](linkbaseref)() | Инициализирует новый экземпляр[`LinkbaseRef`](../linkbaseref) класс. |
 
 ## Характеристики
 
@@ -26,10 +26,10 @@ public abstract class LinkbaseRef : SimpleLink
 | --- | --- |
 | [Actuate](../../aspose.finance.xbrl/simplelink/actuate) { get; set; } | Получает или задает атрибут активации простой ссылки. |
 | [Arcrole](../../aspose.finance.xbrl/simplelink/arcrole) { get; set; } | Получает или задает роль дуги простой ссылки. |
-| [ArcroleReferences](../../aspose.finance.xbrl/linkbaseref/arcrolereferences) { get; set; } | Получает или задает коллекцию объектов[`ArcroleReference`](../arcrolereference)в базе ссылок. |
+| [ArcroleReferences](../../aspose.finance.xbrl/linkbaseref/arcrolereferences) { get; set; } | Получает или задает коллекцию[`ArcroleReference`](../arcrolereference) объекты в базе ссылок. |
 | [Href](../../aspose.finance.xbrl/simplelink/href) { get; set; } | Получает или задает URI href простой ссылки. |
 | [Role](../../aspose.finance.xbrl/simplelink/role) { get; set; } | Получает или задает роль простой ссылки. |
-| [RoleReferences](../../aspose.finance.xbrl/linkbaseref/rolereferences) { get; set; } | Получает или задает коллекцию объектов[`RoleReference`](../rolereference)в базе ссылок. |
+| [RoleReferences](../../aspose.finance.xbrl/linkbaseref/rolereferences) { get; set; } | Получает или задает коллекцию[`RoleReference`](../rolereference) объекты в базе ссылок. |
 | [Show](../../aspose.finance.xbrl/simplelink/show) { get; set; } | Получает или задает атрибут показа простой ссылки. |
 | [Title](../../aspose.finance.xbrl/simplelink/title) { get; set; } | Получает или задает простой заголовок ссылки. |
 | [Type](../../aspose.finance.xbrl/xlink/type) { get; } | Получает тип ссылки. |

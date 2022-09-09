@@ -19,7 +19,7 @@ public abstract class AbstractTaxForm1099
 | Имя | Описание |
 | --- | --- |
 | [Corrected](../../aspose.finance.ofx.tax1099/abstracttaxform1099/corrected) { get; set; } | Получает или задает, является ли это исправленной формой. |
-| [ServerId](../../aspose.finance.ofx.tax1099/abstracttaxform1099/serverid) { get; set; } | Получает или задает идентификатор, назначенный хост-сервером форме. |
+| [ServerId](../../aspose.finance.ofx.tax1099/abstracttaxform1099/serverid) { get; set; } | Получает или задает идентификатор, присвоенный хост-сервером форме. |
 | [TaxYear](../../aspose.finance.ofx.tax1099/abstracttaxform1099/taxyear) { get; set; } | Получает или задает налоговый год этой формы. |
 | [Void](../../aspose.finance.ofx.tax1099/abstracttaxform1099/void) { get; set; } | Получает или задает, является ли форма недействительной. |
 

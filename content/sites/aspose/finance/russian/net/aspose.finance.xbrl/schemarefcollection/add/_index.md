@@ -1,14 +1,14 @@
 ---
 title: Add
 second_title: Справочник по API Aspose.Finance для .NET
-description: ДобавьтеSchemaRefaspose.finance.xbrl/schemarefв коллекцию.
+description: ДобавитьSchemaRefaspose.finance.xbrl/schemarefв коллекцию.
 type: docs
 weight: 30
 url: /ru/net/aspose.finance.xbrl/schemarefcollection/add/
 ---
 ## Add(string, string, string) {#add_1}
 
-Добавьте[`SchemaRef`](../../schemaref)в коллекцию.
+Добавить[`SchemaRef`](../../schemaref)в коллекцию.
 
 ```csharp
 public int Add(string href, string namespacePrefix, string namspaceUri)
@@ -22,7 +22,7 @@ public int Add(string href, string namespacePrefix, string namspaceUri)
 
 ### Возвращаемое значение
 
-[`SchemaRef`](../../schemaref)индекс объекта.
+[`SchemaRef`](../../schemaref) индекс объекта.
 
 ### Смотрите также
 
@@ -34,7 +34,7 @@ public int Add(string href, string namespacePrefix, string namspaceUri)
 
 ## Add(string, string) {#add}
 
-Добавьте[`SchemaRef`](../../schemaref)в коллекцию.
+Добавить[`SchemaRef`](../../schemaref)в коллекцию.
 
 ```csharp
 public int Add(string href, string namespacePrefix)
@@ -47,7 +47,7 @@ public int Add(string href, string namespacePrefix)
 
 ### Возвращаемое значение
 
-[`SchemaRef`](../../schemaref)индекс объекта.
+[`SchemaRef`](../../schemaref) индекс объекта.
 
 ### Смотрите также
 

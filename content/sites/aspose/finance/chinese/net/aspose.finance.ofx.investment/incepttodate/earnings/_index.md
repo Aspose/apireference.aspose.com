@@ -1,14 +1,14 @@
 ---
 title: Earnings
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置Earningsaspose.finance.ofx.investment/incepttodate/earnings
+description: 获取或设置Earningsaspose.finance.ofx.investment/incepttodate/earnings.
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.ofx.investment/incepttodate/earnings/
 ---
 ## InceptToDate.Earnings property
 
-获取或设置`Earnings`。
+获取或设置`Earnings`.
 
 ```csharp
 public Earnings Earnings { get; set; }

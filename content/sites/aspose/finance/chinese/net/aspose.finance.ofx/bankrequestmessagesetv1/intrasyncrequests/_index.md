@@ -1,14 +1,14 @@
 ---
 title: IntraSyncRequests
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置IntraSyncRequestaspose.finance.ofx.bank/intrasyncrequest的集合
+description: 获取或设置的集合IntraSyncRequestaspose.finance.ofx.bank/intrasyncrequest.
 type: docs
 weight: 40
 url: /zh/net/aspose.finance.ofx/bankrequestmessagesetv1/intrasyncrequests/
 ---
 ## BankRequestMessageSetV1.IntraSyncRequests property
 
-获取或设置[`IntraSyncRequest`](../../../aspose.finance.ofx.bank/intrasyncrequest)的集合。
+获取或设置的集合[`IntraSyncRequest`](../../../aspose.finance.ofx.bank/intrasyncrequest).
 
 ```csharp
 public List<IntraSyncRequest> IntraSyncRequests { get; set; }

@@ -18,7 +18,7 @@ public class PresentmentNameAddress
 
 | Имя | Описание |
 | --- | --- |
-| [PresentmentNameAddress](presentmentnameaddress)() | Инициализирует новый экземпляр класса[`PresentmentNameAddress`](../presentmentnameaddress). |
+| [PresentmentNameAddress](presentmentnameaddress)() | Инициализирует новый экземпляр[`PresentmentNameAddress`](../presentmentnameaddress) класс. |
 
 ## Характеристики
 
@@ -30,9 +30,9 @@ public class PresentmentNameAddress
 | [BusinessNameAccountHeld](../../aspose.finance.ofx/presentmentnameaddress/businessnameaccountheld) { get; set; } | Получает или задает необязательное имя «Ведет бизнес как», связанное с этой учетной записью. |
 | [City](../../aspose.finance.ofx/presentmentnameaddress/city) { get; set; } | Получает или задает город клиента. |
 | [Country](../../aspose.finance.ofx/presentmentnameaddress/country) { get; set; } | Получает или задает страну клиента. Трехбуквенный код страны из ISO/DIS-3166. |
-| [DayPhone](../../aspose.finance.ofx/presentmentnameaddress/dayphone) { get; set; } | Получает или задает номер телефона клиента в дневное время. |
-| [EveningPhone](../../aspose.finance.ofx/presentmentnameaddress/eveningphone) { get; set; } | Получает или задает вечерний номер телефона клиента. |
-| [NameAccountHeld](../../aspose.finance.ofx/presentmentnameaddress/nameaccountheld) { get; set; } | Получает или задает имя клиента, которое отображается в учетной записи. |
+| [DayPhone](../../aspose.finance.ofx/presentmentnameaddress/dayphone) { get; set; } | Получает или устанавливает номер телефона клиента в дневное время. |
+| [EveningPhone](../../aspose.finance.ofx/presentmentnameaddress/eveningphone) { get; set; } | Получает или устанавливает вечерний номер телефона клиента. |
+| [NameAccountHeld](../../aspose.finance.ofx/presentmentnameaddress/nameaccountheld) { get; set; } | Получает или задает имя клиента, отображаемое в учетной записи. |
 | [PostalCode](../../aspose.finance.ofx/presentmentnameaddress/postalcode) { get; set; } | Получает или задает почтовый индекс клиента. |
 | [State](../../aspose.finance.ofx/presentmentnameaddress/state) { get; set; } | Получает или задает состояние клиента. |
 

@@ -1,14 +1,14 @@
 ---
 title: BillPubInfo
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置BillPubInfoaspose.finance.ofx.billpay/paymentinfo/billpubinfo
+description: 获取或设置BillPubInfoaspose.finance.ofx.billpay/paymentinfo/billpubinfo.
 type: docs
 weight: 40
 url: /zh/net/aspose.finance.ofx.billpay/paymentinfo/billpubinfo/
 ---
 ## PaymentInfo.BillPubInfo property
 
-获取或设置`BillPubInfo`。
+获取或设置`BillPubInfo`.
 
 ```csharp
 public BillPubInfo BillPubInfo { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: ModifyPending
 second_title: Aspose.Finance for .NET API 参考
-description: 如果客户端请求服务器修改未决和未来付款则为真如果客户端未请求服务器修改待处理和未来付款则为 False
+description: 如果客户端请求服务器修改未决和未来付款则为真如果客户端没有请求服务器修改未决和未来的付款则为 False
 type: docs
 weight: 40
 url: /zh/net/aspose.finance.ofx.billpay/recurringpaymentmodresponse/modifypending/
 ---
 ## RecurringPaymentModResponse.ModifyPending property
 
-如果客户端请求服务器修改未决和未来付款，则为真。如果客户端未请求服务器修改待处理和未来付款，则为 False。
+如果客户端请求服务器修改未决和未来付款，则为真。如果客户端没有请求服务器修改未决和未来的付款，则为 False。
 
 ```csharp
 public bool ModifyPending { get; set; }

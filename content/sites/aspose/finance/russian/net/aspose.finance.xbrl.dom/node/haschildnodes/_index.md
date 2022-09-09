@@ -1,14 +1,14 @@
 ---
 title: HasChildNodes
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает есть ли у этого узла дочерние узлы.
+description: Получает есть ли у этого узла дочерние элементы.
 type: docs
 weight: 40
 url: /ru/net/aspose.finance.xbrl.dom/node/haschildnodes/
 ---
 ## Node.HasChildNodes property
 
-Получает, есть ли у этого узла дочерние узлы.
+Получает, есть ли у этого узла дочерние элементы.
 
 ```csharp
 public bool HasChildNodes { get; }

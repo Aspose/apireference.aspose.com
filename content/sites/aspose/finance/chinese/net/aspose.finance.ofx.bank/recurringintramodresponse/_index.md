@@ -18,15 +18,15 @@ public class RecurringIntraModResponse : AbstractRecurringIntraResponse
 
 | 姓名 | 描述 |
 | --- | --- |
-| [RecurringIntraModResponse](recurringintramodresponse)() | 初始化[`RecurringIntraModResponse`](../recurringintramodresponse)类的新实例。 |
+| [RecurringIntraModResponse](recurringintramodresponse)() | 初始化一个新的实例[`RecurringIntraModResponse`](../recurringintramodresponse)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [IntraResponse](../../aspose.finance.ofx.bank/recurringintramodresponse/intraresponse) { get; set; } | 获取或设置[`IntraResponse`](./intraresponse)。 |
+| [IntraResponse](../../aspose.finance.ofx.bank/recurringintramodresponse/intraresponse) { get; set; } | 获取或设置[`IntraResponse`](./intraresponse). |
 | [ModifyPending](../../aspose.finance.ofx.bank/recurringintramodresponse/modifypending) { get; set; } | 获取或设置修改挂起标志。 |
-| [RecurringInstructions](../../aspose.finance.ofx.bank/recurringintramodresponse/recurringinstructions) { get; set; } | 获取或设置[`RecurringInstructions`](./recurringinstructions)。 |
+| [RecurringInstructions](../../aspose.finance.ofx.bank/recurringintramodresponse/recurringinstructions) { get; set; } | 获取或设置[`RecurringInstructions`](./recurringinstructions). |
 | [RecurringServerId](../../aspose.finance.ofx.bank/recurringintramodresponse/recurringserverid) { get; set; } | 获取或设置服务器分配给正在修改的模型的ID。 |
 
 ### 也可以看看

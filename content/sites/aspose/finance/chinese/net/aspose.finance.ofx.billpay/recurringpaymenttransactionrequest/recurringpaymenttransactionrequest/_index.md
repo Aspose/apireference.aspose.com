@@ -1,14 +1,14 @@
 ---
 title: RecurringPaymentTransactionRequest
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化RecurringPaymentTransactionRequestaspose.finance.ofx.billpay/recurringpaymenttransactionrequest类的新实例
+description: 初始化一个新的实例RecurringPaymentTransactionRequestaspose.finance.ofx.billpay/recurringpaymenttransactionrequest类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.billpay/recurringpaymenttransactionrequest/recurringpaymenttransactionrequest/
 ---
 ## RecurringPaymentTransactionRequest constructor
 
-初始化[`RecurringPaymentTransactionRequest`](../../recurringpaymenttransactionrequest)类的新实例。
+初始化一个新的实例[`RecurringPaymentTransactionRequest`](../../recurringpaymenttransactionrequest)类.
 
 ```csharp
 public RecurringPaymentTransactionRequest()

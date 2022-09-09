@@ -1,14 +1,14 @@
 ---
 title: OtherAmount
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置方框 14 条目的美元金额
+description: 获取或设置框 14 条目美元金额
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.ofx.taxw2/other/otheramount/
 ---
 ## Other.OtherAmount property
 
-获取或设置方框 14 条目的美元金额。
+获取或设置框 14 条目美元金额。
 
 ```csharp
 public string OtherAmount { get; set; }

@@ -18,15 +18,15 @@ public class LoanStatementEndTransactionRequest : AbstractTransactionRequest
 
 | Имя | Описание |
 | --- | --- |
-| [LoanStatementEndTransactionRequest](loanstatementendtransactionrequest)() | Инициализирует новый экземпляр класса[`LoanStatementEndTransactionRequest`](../loanstatementendtransactionrequest). |
+| [LoanStatementEndTransactionRequest](loanstatementendtransactionrequest)() | Инициализирует новый экземпляр[`LoanStatementEndTransactionRequest`](../loanstatementendtransactionrequest) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [ClientCookie](../../aspose.finance.ofx/abstracttransactionrequest/clientcookie) { get; set; } | Получает или задает данные, которые будут отображаться в ответе транзакции |
-| [LoanStatementEndRequest](../../aspose.finance.ofx.loan/loanstatementendtransactionrequest/loanstatementendrequest) { get; set; } | Получает или задает[`LoanStatementEndRequest`](./loanstatementendrequest). |
-| [OfxExtension](../../aspose.finance.ofx.loan/loanstatementendtransactionrequest/ofxextension) { get; set; } | Получает или задает[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
+| [ClientCookie](../../aspose.finance.ofx/abstracttransactionrequest/clientcookie) { get; set; } | Получает или задает данные, которые будут отражены в транзакции response |
+| [LoanStatementEndRequest](../../aspose.finance.ofx.loan/loanstatementendtransactionrequest/loanstatementendrequest) { get; set; } | Получает или задает[`LoanStatementEndRequest`](./loanstatementendrequest) . |
+| [OfxExtension](../../aspose.finance.ofx.loan/loanstatementendtransactionrequest/ofxextension) { get; set; } | Получает или задает[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype) . |
 | [TransactionAuthorizationNumber](../../aspose.finance.ofx/abstracttransactionrequest/transactionauthorizationnumber) { get; set; } | Получает или задает номер авторизации транзакции. |
 | [TransactionUniqueId](../../aspose.finance.ofx/abstracttransactionrequest/transactionuniqueid) { get; set; } | Получает или задает назначенный клиентом глобальный уникальный идентификатор для этой транзакции |
 

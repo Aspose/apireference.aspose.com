@@ -1,14 +1,14 @@
 ---
 title: SecurityId
 second_title: Aspose.Finance for .NET API 参考
-description: 必须一致地识别证券以允许客户应用程序准备准确的投资 报告跨越所有用户投资账户即使是在多个金融机构此时既不是证券名称也不是 其符号是标准化的因此OFX 使用 CUSIP 编号唯一的 9 位字母数字 标识符来识别证券 CUSIP 号码可用于当今 交易的绝大多数证券包括那些没有符号的证券例如债券对于没有 CUSIP 的证券 金融机构必须遵循以自己为发行人 来分配 CUSIP 的标准程序以避免与任何其他 CUSIP 发生冲突
+description: 必须一致识别证券以允许客户应用程序在所有用户投资账户中准备准确的投资 报告即使在多个 FI digit alphanumeric 标识符来识别证券 CUSIP 号码可用于今天交易的绝大多数证券 包括那些没有符号的证券如债券对于没有 CUSIP 的证券a 金融机构必须遵循标准程序将自己作为发行人来分配 CUSIP以避免与任何其他 CUSIP 发生冲突
 type: docs
 weight: 5200
 url: /zh/net/aspose.finance.ofx/securityid/
 ---
 ## SecurityId class
 
-必须一致地识别证券，以允许客户应用程序准备准确的投资 报告跨越所有用户投资账户，即使是在多个金融机构。此时，既不是证券名称，也不是 其符号是标准化的。因此，OFX 使用 CUSIP 编号（唯一的 9 位字母数字 标识符）来识别证券。 CUSIP 号码可用于当今 交易的绝大多数证券，包括那些没有符号的证券，例如债券。对于没有 CUSIP 的证券， 金融机构必须遵循以自己为发行人 来分配 CUSIP 的标准程序，以避免与任何其他 CUSIP 发生冲突。
+必须一致识别证券，以允许客户应用程序在所有用户投资账户中准备准确的投资 报告，即使在多个 FI -digit alphanumeric 标识符）来识别证券。 CUSIP 号码可用于今天交易的绝大多数证券 ，包括那些没有符号的证券，如债券。对于没有 CUSIP 的证券，a 金融机构必须遵循标准程序，将自己作为发行人来分配 CUSIP，以避免与任何其他 CUSIP 发生冲突。
 
 ```csharp
 public class SecurityId
@@ -18,13 +18,13 @@ public class SecurityId
 
 | 姓名 | 描述 |
 | --- | --- |
-| [SecurityId](securityid)() | 初始化[`SecurityId`](../securityid)类的新实例。 |
+| [SecurityId](securityid)() | 初始化一个新的实例[`SecurityId`](../securityid)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [UniqueId](../../aspose.finance.ofx/securityid/uniqueid) { get; set; } | 获取或设置证券的唯一标识符。美国金融机构的 CUSIP。 |
+| [UniqueId](../../aspose.finance.ofx/securityid/uniqueid) { get; set; } | 获取或设置证券的唯一标识符。美国金融机构的CUSIP. |
 | [UniqueIdType](../../aspose.finance.ofx/securityid/uniqueidtype) { get; set; } | 获取或设置用于识别证券的标准名称，即美国金融机构的“CUSIP”。 |
 
 ### 也可以看看

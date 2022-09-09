@@ -1,14 +1,14 @@
 ---
 title: AbstractSyncResponse
 second_title: Справочник по API Aspose.Finance для .NET
-description: Абстрактный базовый класс классов связанных с ответом на синхронизацию
+description: Абстрактный базовый класс ответа на синхронизацию связанный с class
 type: docs
 weight: 110
 url: /ru/net/aspose.finance.ofx/abstractsyncresponse/
 ---
 ## AbstractSyncResponse class
 
-Абстрактный базовый класс классов, связанных с ответом на синхронизацию
+Абстрактный базовый класс ответа на синхронизацию, связанный с class
 
 ```csharp
 public class AbstractSyncResponse : AbstractResponse
@@ -18,7 +18,7 @@ public class AbstractSyncResponse : AbstractResponse
 
 | Имя | Описание |
 | --- | --- |
-| [LostSynchronization](../../aspose.finance.ofx/abstractsyncresponse/lostsynchronization) { get; set; } | Да, если токен в запросе на синхронизацию старше, чем самая ранняя запись в таблице истории сервера. В этом случае некоторые ответы были потеряны. Нет, если токен в запросе на синхронизацию новее или совпадает с токеном в таблице истории сервера. |
+| [LostSynchronization](../../aspose.finance.ofx/abstractsyncresponse/lostsynchronization) { get; set; } | Да, если токен в запросе на синхронизацию старше самой ранней записи в таблице истории сервера. В этом случае некоторые ответы были потеряны. Нет, если токен в запросе на синхронизацию новее или совпадает с токеном в таблице сервера. таблица истории. |
 | [Token](../../aspose.finance.ofx/abstractsyncresponse/token) { get; set; } | Получает или задает новый маркер синхронизации. |
 
 ### Смотрите также

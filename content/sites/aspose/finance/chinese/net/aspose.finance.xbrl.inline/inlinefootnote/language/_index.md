@@ -1,14 +1,14 @@
 ---
 title: Language
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置InlineFootnoteaspose.finance.xbrl.inline/inlinefootnote的语言
+description: 获取或设置的语言InlineFootnoteaspose.finance.xbrl.inline/inlinefootnote.
 type: docs
 weight: 50
 url: /zh/net/aspose.finance.xbrl.inline/inlinefootnote/language/
 ---
 ## InlineFootnote.Language property
 
-获取或设置[`InlineFootnote`](../../inlinefootnote)的语言。
+获取或设置的语言[`InlineFootnote`](../../inlinefootnote).
 
 ```csharp
 public string Language { get; set; }

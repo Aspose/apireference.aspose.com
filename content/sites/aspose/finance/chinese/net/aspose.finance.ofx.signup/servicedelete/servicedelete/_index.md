@@ -1,14 +1,14 @@
 ---
 title: ServiceDelete
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化ServiceDeleteaspose.finance.ofx.signup/servicedelete类的新实例
+description: 初始化一个新的实例ServiceDeleteaspose.finance.ofx.signup/servicedelete类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.signup/servicedelete/servicedelete/
 ---
 ## ServiceDelete constructor
 
-初始化[`ServiceDelete`](../../servicedelete)类的新实例。
+初始化一个新的实例[`ServiceDelete`](../../servicedelete)类.
 
 ```csharp
 public ServiceDelete()

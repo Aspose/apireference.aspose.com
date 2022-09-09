@@ -1,14 +1,14 @@
 ---
 title: MFAChallenges
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает коллекциюMFAChallengeaspose.finance.ofx.signon/mfachallenge.
+description: Получает или задает коллекциюMFAChallengeaspose.finance.ofx.signon/mfachallenge .
 type: docs
 weight: 20
 url: /ru/net/aspose.finance.ofx.signon/mfachallengeresponse/mfachallenges/
 ---
 ## MFAChallengeResponse.MFAChallenges property
 
-Получает или задает коллекцию[`MFAChallenge`](../../mfachallenge).
+Получает или задает коллекцию[`MFAChallenge`](../../mfachallenge) .
 
 ```csharp
 public List<MFAChallenge> MFAChallenges { get; set; }

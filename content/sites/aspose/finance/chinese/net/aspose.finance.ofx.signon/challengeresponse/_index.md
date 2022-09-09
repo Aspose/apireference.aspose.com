@@ -18,7 +18,7 @@ public class ChallengeResponse
 
 | 姓名 | 描述 |
 | --- | --- |
-| [ChallengeResponse](challengeresponse)() | 初始化[`ChallengeResponse`](../challengeresponse)类的新实例。 |
+| [ChallengeResponse](challengeresponse)() | 初始化一个新的实例[`ChallengeResponse`](../challengeresponse)类. |
 
 ## 特性
 

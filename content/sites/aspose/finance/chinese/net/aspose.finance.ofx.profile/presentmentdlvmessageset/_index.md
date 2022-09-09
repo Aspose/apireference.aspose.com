@@ -1,14 +1,14 @@
 ---
 title: PresentmentDlvMessageSet
 second_title: Aspose.Finance for .NET API 参考
-description: Biller 传递消息集
+description: Biller 投递消息集.
 type: docs
 weight: 4650
 url: /zh/net/aspose.finance.ofx.profile/presentmentdlvmessageset/
 ---
 ## PresentmentDlvMessageSet class
 
-Biller 传递消息集。
+Biller 投递消息集.
 
 ```csharp
 public class PresentmentDlvMessageSet : AbstractMessageSet
@@ -18,13 +18,13 @@ public class PresentmentDlvMessageSet : AbstractMessageSet
 
 | 姓名 | 描述 |
 | --- | --- |
-| [PresentmentDlvMessageSet](presentmentdlvmessageset)() | 初始化[`PresentmentDlvMessageSet`](../presentmentdlvmessageset)类的新实例。 |
+| [PresentmentDlvMessageSet](presentmentdlvmessageset)() | 初始化一个新的实例[`PresentmentDlvMessageSet`](../presentmentdlvmessageset)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [PresentmentDlvMessageSetV1s](../../aspose.finance.ofx.profile/presentmentdlvmessageset/presentmentdlvmessagesetv1s) { get; set; } | 获取或设置[`PresentmentDlvMessageSetV1`](../presentmentdlvmessagesetv1)的集合。 |
+| [PresentmentDlvMessageSetV1s](../../aspose.finance.ofx.profile/presentmentdlvmessageset/presentmentdlvmessagesetv1s) { get; set; } | 获取或设置的集合[`PresentmentDlvMessageSetV1`](../presentmentdlvmessagesetv1). |
 
 ### 也可以看看
 

@@ -18,14 +18,14 @@ public class LoanMailRequest
 
 | 姓名 | 描述 |
 | --- | --- |
-| [LoanMailRequest](loanmailrequest)() | 初始化[`LoanMailRequest`](../loanmailrequest)类的新实例。 |
+| [LoanMailRequest](loanmailrequest)() | 初始化一个新的实例[`LoanMailRequest`](../loanmailrequest)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [LoanAccountFrom](../../aspose.finance.ofx.loan/loanmailrequest/loanaccountfrom) { get; set; } | 获取或设置[`LoanAccount`](../../aspose.finance.ofx/loanaccount)的来源。 |
-| [Mail](../../aspose.finance.ofx.loan/loanmailrequest/mail) { get; set; } | 获取或设置[`Mail`](./mail)。 |
+| [LoanAccountFrom](../../aspose.finance.ofx.loan/loanmailrequest/loanaccountfrom) { get; set; } | 获取或设置 from[`LoanAccount`](../../aspose.finance.ofx/loanaccount). |
+| [Mail](../../aspose.finance.ofx.loan/loanmailrequest/mail) { get; set; } | 获取或设置[`Mail`](./mail). |
 
 ### 也可以看看
 

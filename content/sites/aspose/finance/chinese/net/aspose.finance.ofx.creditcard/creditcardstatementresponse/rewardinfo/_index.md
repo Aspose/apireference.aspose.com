@@ -1,14 +1,14 @@
 ---
 title: RewardInfo
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置RewardInfoTypeaspose.finance.ofx/rewardinfotype
+description: 获取或设置RewardInfoTypeaspose.finance.ofx/rewardinfotype.
 type: docs
 weight: 140
 url: /zh/net/aspose.finance.ofx.creditcard/creditcardstatementresponse/rewardinfo/
 ---
 ## CreditCardStatementResponse.RewardInfo property
 
-获取或设置[`RewardInfoType`](../../../aspose.finance.ofx/rewardinfotype)。
+获取或设置[`RewardInfoType`](../../../aspose.finance.ofx/rewardinfotype).
 
 ```csharp
 public RewardInfoType RewardInfo { get; set; }

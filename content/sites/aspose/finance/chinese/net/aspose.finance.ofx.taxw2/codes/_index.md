@@ -1,14 +1,14 @@
 ---
 title: Codes
 second_title: Aspose.Finance for .NET API 参考
-description: Box 12 的代码类别代码和数量
+description: Box 12. 的代码类别代码和数量
 type: docs
 weight: 6120
 url: /zh/net/aspose.finance.ofx.taxw2/codes/
 ---
 ## Codes class
 
-Box 12 的代码类别、代码和数量。
+Box 12. 的代码类别、代码和数量
 
 ```csharp
 public class Codes
@@ -18,14 +18,14 @@ public class Codes
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Codes](codes)() | 初始化[`Codes`](../codes)类的新实例。 |
+| [Codes](codes)() | 初始化一个新的实例[`Codes`](../codes)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Code](../../aspose.finance.ofx.taxw2/codes/code) { get; set; } | 获取或设置框 12 代码。 |
-| [CodeAmount](../../aspose.finance.ofx.taxw2/codes/codeamount) { get; set; } | 获取或设置方框 12 条目的美元金额。 |
+| [Code](../../aspose.finance.ofx.taxw2/codes/code) { get; set; } | 获取或设置方框 12 码。 |
+| [CodeAmount](../../aspose.finance.ofx.taxw2/codes/codeamount) { get; set; } | 获取或设置框 12 条目美元金额。 |
 
 ### 也可以看看
 

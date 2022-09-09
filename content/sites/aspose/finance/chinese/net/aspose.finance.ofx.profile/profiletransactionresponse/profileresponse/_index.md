@@ -1,14 +1,14 @@
 ---
 title: ProfileResponse
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置ProfileResponseaspose.finance.ofx.profile/profiletransactionresponse/profileresponse
+description: 获取或设置ProfileResponseaspose.finance.ofx.profile/profiletransactionresponse/profileresponse.
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.ofx.profile/profiletransactionresponse/profileresponse/
 ---
 ## ProfileTransactionResponse.ProfileResponse property
 
-获取或设置`ProfileResponse`。
+获取或设置`ProfileResponse`.
 
 ```csharp
 public ProfileResponse ProfileResponse { get; set; }

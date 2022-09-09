@@ -8,7 +8,7 @@ url: /zh/net/aspose.finance.ofx.billerdelivery/presentmentdetailrequest/
 ---
 ## PresentmentDetailRequest class
 
-账单明细请求类。
+账单明细请求类
 
 ```csharp
 public class PresentmentDetailRequest
@@ -18,7 +18,7 @@ public class PresentmentDetailRequest
 
 | 姓名 | 描述 |
 | --- | --- |
-| [PresentmentDetailRequest](presentmentdetailrequest)() | 初始化[`PresentmentDetailRequest`](../presentmentdetailrequest)类的新实例。 |
+| [PresentmentDetailRequest](presentmentdetailrequest)() | 初始化一个新的实例[`PresentmentDetailRequest`](../presentmentdetailrequest)类. |
 
 ## 特性
 

@@ -20,7 +20,7 @@ public Concept GetConceptByLoc(Loc loc)
 
 ### 返回值
 
-概念。
+这个概念。
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: AccountTransactionResponse
 second_title: Справочник по API Aspose.Finance для .NET
-description: Класс ответа транзакции службы счета.
+description: Класс ответа транзакции службы учетной записи.
 type: docs
 weight: 5530
 url: /ru/net/aspose.finance.ofx.signup/accounttransactionresponse/
 ---
 ## AccountTransactionResponse class
 
-Класс ответа транзакции службы счета.
+Класс ответа транзакции службы учетной записи.
 
 ```csharp
 public class AccountTransactionResponse : AbstractTransactionResponse
@@ -18,16 +18,16 @@ public class AccountTransactionResponse : AbstractTransactionResponse
 
 | Имя | Описание |
 | --- | --- |
-| [AccountTransactionResponse](accounttransactionresponse)() | Инициализирует новый экземпляр класса[`AccountTransactionResponse`](../accounttransactionresponse). |
+| [AccountTransactionResponse](accounttransactionresponse)() | Инициализирует новый экземпляр[`AccountTransactionResponse`](../accounttransactionresponse) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [AccountResponse](../../aspose.finance.ofx.signup/accounttransactionresponse/accountresponse) { get; set; } | Получает или задает[`AccountResponse`](./accountresponse). |
-| [ClientCookie](../../aspose.finance.ofx/abstracttransactionresponse/clientcookie) { get; set; } | Получает или задает данные, которые будут отображаться в ответе транзакции |
-| [OfxExtension](../../aspose.finance.ofx.signup/accounttransactionresponse/ofxextension) { get; set; } | Получает или задает[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
-| [Status](../../aspose.finance.ofx/abstracttransactionresponse/status) { get; set; } | Получает или задает[`Status`](../../aspose.finance.ofx/abstracttransactionresponse/status). |
+| [AccountResponse](../../aspose.finance.ofx.signup/accounttransactionresponse/accountresponse) { get; set; } | Получает или задает[`AccountResponse`](./accountresponse) . |
+| [ClientCookie](../../aspose.finance.ofx/abstracttransactionresponse/clientcookie) { get; set; } | Получает или задает данные, которые будут отражены в транзакции response |
+| [OfxExtension](../../aspose.finance.ofx.signup/accounttransactionresponse/ofxextension) { get; set; } | Получает или задает[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype) . |
+| [Status](../../aspose.finance.ofx/abstracttransactionresponse/status) { get; set; } | Получает или задает[`Status`](../../aspose.finance.ofx/abstracttransactionresponse/status) . |
 | [TransactionUniqueId](../../aspose.finance.ofx/abstracttransactionresponse/transactionuniqueid) { get; set; } | Получает или задает назначенный клиентом глобальный уникальный идентификатор для этой транзакции. |
 
 ### Смотрите также

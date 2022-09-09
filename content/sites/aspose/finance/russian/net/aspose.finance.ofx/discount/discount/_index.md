@@ -1,14 +1,14 @@
 ---
 title: Discount
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаDiscountaspose.finance.ofx/discount.
+description: Инициализирует новый экземплярDiscountaspose.finance.ofx/discount класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx/discount/discount/
 ---
 ## Discount constructor
 
-Инициализирует новый экземпляр класса[`Discount`](../../discount).
+Инициализирует новый экземпляр[`Discount`](../../discount) класс.
 
 ```csharp
 public Discount()

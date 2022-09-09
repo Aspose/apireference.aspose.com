@@ -1,14 +1,14 @@
 ---
 title: CalculationArcs
 second_title: Aspose.Finance for .NET API 参考
-description: 获取CalculationArcaspose.finance.xbrl/calculationarc的集合
+description: 获取集合CalculationArcaspose.finance.xbrl/calculationarc.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.xbrl/calculationlink/calculationarcs/
 ---
 ## CalculationLink.CalculationArcs property
 
-获取[`CalculationArc`](../../calculationarc)的集合。
+获取集合[`CalculationArc`](../../calculationarc).
 
 ```csharp
 public List<CalculationArc> CalculationArcs { get; set; }

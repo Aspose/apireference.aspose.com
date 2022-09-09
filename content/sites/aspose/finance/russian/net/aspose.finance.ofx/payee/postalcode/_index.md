@@ -1,14 +1,14 @@
 ---
 title: PostalCode
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает почтовый индекс получателя.
+description: Получает или задает почтовый индекс получателя платежа.
 type: docs
 weight: 90
 url: /ru/net/aspose.finance.ofx/payee/postalcode/
 ---
 ## Payee.PostalCode property
 
-Получает или задает почтовый индекс получателя.
+Получает или задает почтовый индекс получателя платежа.
 
 ```csharp
 public string PostalCode { get; set; }

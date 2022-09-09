@@ -1,14 +1,14 @@
 ---
 title: RemoveChild
 second_title: Справочник по API Aspose.Finance для .NET
-description: Удаляет дочерний узел указанный старым дочерним из списка дочерних.
+description: Удаляет дочерний узел указанный старым дочерним элементом из списка дочерних элементов.
 type: docs
 weight: 180
 url: /ru/net/aspose.finance.xbrl.dom/node/removechild/
 ---
 ## Node.RemoveChild method
 
-Удаляет дочерний узел, указанный старым дочерним, из списка дочерних.
+Удаляет дочерний узел, указанный старым дочерним элементом, из списка дочерних элементов.
 
 ```csharp
 public void RemoveChild(Node node)
@@ -16,7 +16,7 @@ public void RemoveChild(Node node)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| node | Node | Старое дитя. |
+| node | Node | Старый ребенок. |
 
 ### Смотрите также
 

@@ -1,14 +1,14 @@
 ---
 title: MessageSets
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置基于AbstractMessageSetaspose.finance.ofx.profile/abstractmessageset的消息集集合
+description: 获取或设置基于消息集的集合AbstractMessageSetaspose.finance.ofx.profile/abstractmessageset.
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.ofx.profile/messagesetlist/messagesets/
 ---
 ## MessageSetList.MessageSets property
 
-获取或设置基于[`AbstractMessageSet`](../../abstractmessageset)的消息集集合。
+获取或设置基于消息集的集合[`AbstractMessageSet`](../../abstractmessageset).
 
 ```csharp
 public List<AbstractMessageSet> MessageSets { get; set; }

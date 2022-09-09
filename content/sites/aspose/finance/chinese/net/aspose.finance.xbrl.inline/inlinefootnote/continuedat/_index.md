@@ -1,14 +1,14 @@
 ---
 title: ContinuedAt
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置InlineFootnoteaspose.finance.xbrl.inline/inlinefootnote的延续引用 id
+description: 获取或设置InlineFootnoteaspose.finance.xbrl.inline/inlinefootnote.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.xbrl.inline/inlinefootnote/continuedat/
 ---
 ## InlineFootnote.ContinuedAt property
 
-获取或设置[`InlineFootnote`](../../inlinefootnote)的延续引用 id。
+获取或设置[`InlineFootnote`](../../inlinefootnote).
 
 ```csharp
 public string ContinuedAt { get; set; }

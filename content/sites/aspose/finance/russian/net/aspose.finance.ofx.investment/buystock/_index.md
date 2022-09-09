@@ -1,14 +1,14 @@
 ---
 title: BuyStock
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инвестиционная сделка по покупке акций.
+description: Класс сделки по покупке акций.
 type: docs
 weight: 2720
 url: /ru/net/aspose.finance.ofx.investment/buystock/
 ---
 ## BuyStock class
 
-Инвестиционная сделка по покупке акций.
+Класс сделки по покупке акций.
 
 ```csharp
 public class BuyStock : AbstractInvestmentBuyTransaction
@@ -18,14 +18,14 @@ public class BuyStock : AbstractInvestmentBuyTransaction
 
 | Имя | Описание |
 | --- | --- |
-| [BuyStock](buystock)() | Инициализирует новый экземпляр класса[`BuyStock`](../buystock). |
+| [BuyStock](buystock)() | Инициализирует новый экземпляр[`BuyStock`](../buystock) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
 | [BuyType](../../aspose.finance.ofx.investment/buystock/buytype) { get; set; } | Получает или задает тип покупки. |
-| [InvestmentBuy](../../aspose.finance.ofx.investment/abstractinvestmentbuytransaction/investmentbuy) { get; set; } | Получает или задает[`InvestmentBuy`](../abstractinvestmentbuytransaction/investmentbuy). |
+| [InvestmentBuy](../../aspose.finance.ofx.investment/abstractinvestmentbuytransaction/investmentbuy) { get; set; } | Получает или задает[`InvestmentBuy`](../abstractinvestmentbuytransaction/investmentbuy) . |
 
 ### Смотрите также
 

@@ -18,13 +18,13 @@ public class AccountInfoResponse
 
 | Имя | Описание |
 | --- | --- |
-| [AccountInfoResponse](accountinforesponse)() | Инициализирует новый экземпляр класса[`AccountInfoResponse`](../accountinforesponse). |
+| [AccountInfoResponse](accountinforesponse)() | Инициализирует новый экземпляр[`AccountInfoResponse`](../accountinforesponse) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [AccountInfos](../../aspose.finance.ofx/accountinforesponse/accountinfos) { get; set; } | Получает или задает коллекцию[`AccountInfo`](../accountinfo). |
+| [AccountInfos](../../aspose.finance.ofx/accountinforesponse/accountinfos) { get; set; } | Получает или задает коллекцию[`AccountInfo`](../accountinfo) . |
 | [AccountUpdateDate](../../aspose.finance.ofx/accountinforesponse/accountupdatedate) { get; set; } | Получает или задает дату и время последнего обновления информации об учетной записи на сервере. |
 
 ### Смотрите также

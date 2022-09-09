@@ -1,14 +1,14 @@
 ---
 title: RecurringPaymentTransactionRequest
 second_title: Справочник по API Aspose.Finance для .NET
-description: Класс запроса операции регулярного платежа.
+description: Класс запроса транзакций регулярных платежей.
 type: docs
 weight: 1360
 url: /ru/net/aspose.finance.ofx.billpay/recurringpaymenttransactionrequest/
 ---
 ## RecurringPaymentTransactionRequest class
 
-Класс запроса операции регулярного платежа.
+Класс запроса транзакций регулярных платежей.
 
 ```csharp
 public class RecurringPaymentTransactionRequest : AbstractTransactionRequest
@@ -18,15 +18,15 @@ public class RecurringPaymentTransactionRequest : AbstractTransactionRequest
 
 | Имя | Описание |
 | --- | --- |
-| [RecurringPaymentTransactionRequest](recurringpaymenttransactionrequest)() | Инициализирует новый экземпляр класса[`RecurringPaymentTransactionRequest`](../recurringpaymenttransactionrequest). |
+| [RecurringPaymentTransactionRequest](recurringpaymenttransactionrequest)() | Инициализирует новый экземпляр[`RecurringPaymentTransactionRequest`](../recurringpaymenttransactionrequest) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [ClientCookie](../../aspose.finance.ofx/abstracttransactionrequest/clientcookie) { get; set; } | Получает или задает данные, которые будут отображаться в ответе транзакции |
-| [OfxExtension](../../aspose.finance.ofx.billpay/recurringpaymenttransactionrequest/ofxextension) { get; set; } | Получает или задает[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
-| [Request](../../aspose.finance.ofx.billpay/recurringpaymenttransactionrequest/request) { get; set; } | Получает или задает[`RecurringPaymentRequest`](../recurringpaymentrequest)или[`RecurringPaymentModRequest`](../recurringpaymentmodrequest)или[`RecurringPaymentCancelRequest`](../recurringpaymentcancelrequest). |
+| [ClientCookie](../../aspose.finance.ofx/abstracttransactionrequest/clientcookie) { get; set; } | Получает или задает данные, которые будут отражены в транзакции response |
+| [OfxExtension](../../aspose.finance.ofx.billpay/recurringpaymenttransactionrequest/ofxextension) { get; set; } | Получает или задает[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype) . |
+| [Request](../../aspose.finance.ofx.billpay/recurringpaymenttransactionrequest/request) { get; set; } | Получает или задает[`RecurringPaymentRequest`](../recurringpaymentrequest) или же[`RecurringPaymentModRequest`](../recurringpaymentmodrequest) или же[`RecurringPaymentCancelRequest`](../recurringpaymentcancelrequest) . |
 | [TransactionAuthorizationNumber](../../aspose.finance.ofx/abstracttransactionrequest/transactionauthorizationnumber) { get; set; } | Получает или задает номер авторизации транзакции. |
 | [TransactionUniqueId](../../aspose.finance.ofx/abstracttransactionrequest/transactionuniqueid) { get; set; } | Получает или задает назначенный клиентом глобальный уникальный идентификатор для этой транзакции |
 

@@ -1,14 +1,14 @@
 ---
 title: Tax1098E_V100
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаTax1098E_V100aspose.finance.ofx.tax1098/tax1098e_v100.
+description: Инициализирует новый экземплярTax1098E_V100aspose.finance.ofx.tax1098/tax1098e_v100 класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.tax1098/tax1098e_v100/tax1098e_v100/
 ---
 ## Tax1098E_V100 constructor
 
-Инициализирует новый экземпляр класса[`Tax1098E_V100`](../../tax1098e_v100).
+Инициализирует новый экземпляр[`Tax1098E_V100`](../../tax1098e_v100) класс.
 
 ```csharp
 public Tax1098E_V100()

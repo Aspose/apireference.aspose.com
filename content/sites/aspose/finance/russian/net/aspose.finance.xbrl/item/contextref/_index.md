@@ -1,14 +1,14 @@
 ---
 title: ContextRef
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает ссылку наContextaspose.finance.xbrl/context.
+description: Получает или задает ссылку наContextaspose.finance.xbrl/context .
 type: docs
 weight: 20
 url: /ru/net/aspose.finance.xbrl/item/contextref/
 ---
 ## Item.ContextRef property
 
-Получает или задает ссылку на[`Context`](../../context).
+Получает или задает ссылку на[`Context`](../../context) .
 
 ```csharp
 public Context ContextRef { get; set; }

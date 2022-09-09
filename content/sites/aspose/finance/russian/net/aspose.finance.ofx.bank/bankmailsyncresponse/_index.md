@@ -1,14 +1,14 @@
 ---
 title: BankMailSyncResponse
 second_title: Справочник по API Aspose.Finance для .NET
-description: Класс ответа синхронизации почты банка.
+description: Класс ответа синхронизации банковской почты.
 type: docs
 weight: 340
 url: /ru/net/aspose.finance.ofx.bank/bankmailsyncresponse/
 ---
 ## BankMailSyncResponse class
 
-Класс ответа синхронизации почты банка.
+Класс ответа синхронизации банковской почты.
 
 ```csharp
 public class BankMailSyncResponse : AbstractSyncResponse
@@ -18,16 +18,16 @@ public class BankMailSyncResponse : AbstractSyncResponse
 
 | Имя | Описание |
 | --- | --- |
-| [BankMailSyncResponse](bankmailsyncresponse)() | Инициализирует новый экземпляр класса[`BankMailSyncResponse`](../bankmailsyncresponse). |
+| [BankMailSyncResponse](bankmailsyncresponse)() | Инициализирует новый экземпляр[`BankMailSyncResponse`](../bankmailsyncresponse) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [AccountFrom](../../aspose.finance.ofx.bank/bankmailsyncresponse/accountfrom) { get; set; } | Получает или задает значение из[`BankAccount`](../../aspose.finance.ofx/bankaccount)или[`CreditCardAccount`](../../aspose.finance.ofx/creditcardaccount). |
-| [BankMailTransactionResponses](../../aspose.finance.ofx.bank/bankmailsyncresponse/bankmailtransactionresponses) { get; set; } | Получает или задает коллекцию[`BankMailTransactionResponse`](../bankmailtransactionresponse). |
-| [LostSynchronization](../../aspose.finance.ofx/abstractsyncresponse/lostsynchronization) { get; set; } | Да, если токен в запросе на синхронизацию старше, чем самая ранняя запись в таблице истории сервера. В этом случае некоторые ответы были потеряны. Нет, если токен в запросе на синхронизацию новее или совпадает с токеном в таблице истории сервера. |
-| [OfxExtension](../../aspose.finance.ofx.bank/bankmailsyncresponse/ofxextension) { get; set; } | Получает или задает[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
+| [AccountFrom](../../aspose.finance.ofx.bank/bankmailsyncresponse/accountfrom) { get; set; } | Получает или задает из[`BankAccount`](../../aspose.finance.ofx/bankaccount) или же[`CreditCardAccount`](../../aspose.finance.ofx/creditcardaccount) . |
+| [BankMailTransactionResponses](../../aspose.finance.ofx.bank/bankmailsyncresponse/bankmailtransactionresponses) { get; set; } | Получает или задает коллекцию[`BankMailTransactionResponse`](../bankmailtransactionresponse) . |
+| [LostSynchronization](../../aspose.finance.ofx/abstractsyncresponse/lostsynchronization) { get; set; } | Да, если токен в запросе на синхронизацию старше самой ранней записи в таблице истории сервера. В этом случае некоторые ответы были потеряны. Нет, если токен в запросе на синхронизацию новее или совпадает с токеном в таблице сервера. таблица истории. |
+| [OfxExtension](../../aspose.finance.ofx.bank/bankmailsyncresponse/ofxextension) { get; set; } | Получает или задает[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype) . |
 | [Token](../../aspose.finance.ofx/abstractsyncresponse/token) { get; set; } | Получает или задает новый маркер синхронизации. |
 
 ### Смотрите также

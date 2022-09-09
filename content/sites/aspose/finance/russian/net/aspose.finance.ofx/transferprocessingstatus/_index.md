@@ -1,14 +1,14 @@
 ---
 title: TransferProcessingStatus
 second_title: Справочник по API Aspose.Finance для .NET
-description: Статус обработки перевода содержит текущий статус обработки перевода. Этот класс предназначен для описания изменений статуса связанной передачи после создания.
+description: Статус обработки перевода содержит текущий статус обработки перевода. Этот класс предназначен для описания изменений состояния связанной передачи после создания.
 type: docs
 weight: 6280
 url: /ru/net/aspose.finance.ofx/transferprocessingstatus/
 ---
 ## TransferProcessingStatus class
 
-Статус обработки перевода содержит текущий статус обработки перевода. Этот класс предназначен для описания изменений статуса связанной передачи после создания.
+Статус обработки перевода содержит текущий статус обработки перевода. Этот класс предназначен для описания изменений состояния связанной передачи после создания.
 
 ```csharp
 public class TransferProcessingStatus
@@ -18,7 +18,7 @@ public class TransferProcessingStatus
 
 | Имя | Описание |
 | --- | --- |
-| [TransferProcessingStatus](transferprocessingstatus)() | Инициализирует новый экземпляр класса[`TransferProcessingStatus`](../transferprocessingstatus). |
+| [TransferProcessingStatus](transferprocessingstatus)() | Инициализирует новый экземпляр[`TransferProcessingStatus`](../transferprocessingstatus) класс. |
 
 ## Характеристики
 

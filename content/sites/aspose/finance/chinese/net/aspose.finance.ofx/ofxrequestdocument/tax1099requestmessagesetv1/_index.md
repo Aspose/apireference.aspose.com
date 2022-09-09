@@ -1,14 +1,14 @@
 ---
 title: Tax1099RequestMessageSetV1
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置Tax1099RequestMessageSetV1aspose.finance.ofx/ofxrequestdocument/tax1099requestmessagesetv1
+description: 获取或设置Tax1099RequestMessageSetV1aspose.finance.ofx/ofxrequestdocument/tax1099requestmessagesetv1.
 type: docs
 weight: 170
 url: /zh/net/aspose.finance.ofx/ofxrequestdocument/tax1099requestmessagesetv1/
 ---
 ## OfxRequestDocument.Tax1099RequestMessageSetV1 property
 
-获取或设置`Tax1099RequestMessageSetV1`。
+获取或设置`Tax1099RequestMessageSetV1`.
 
 ```csharp
 public Tax1099RequestMessageSetV1 Tax1099RequestMessageSetV1 { get; set; }

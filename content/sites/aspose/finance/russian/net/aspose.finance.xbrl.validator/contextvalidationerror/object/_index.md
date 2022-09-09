@@ -1,14 +1,14 @@
 ---
 title: Object
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает объектContextaspose.finance.xbrl/contextс ошибкой проверки.
+description: ПолучаетContextaspose.finance.xbrl/contextобъект с ошибкой проверки.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.xbrl.validator/contextvalidationerror/object/
 ---
 ## ContextValidationError.Object property
 
-Получает объект[`Context`](../../../aspose.finance.xbrl/context)с ошибкой проверки.
+Получает[`Context`](../../../aspose.finance.xbrl/context)объект с ошибкой проверки.
 
 ```csharp
 public Context Object { get; }

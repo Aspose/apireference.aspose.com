@@ -1,14 +1,14 @@
 ---
 title: CreditCardStatementTransactionResponses
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置CreditCardStatementTransactionResponseaspose.finance.ofx.creditcard/creditcardstatementtransactionresponse的集合
+description: 获取或设置的集合CreditCardStatementTransactionResponseaspose.finance.ofx.creditcard/creditcardstatementtransactionresponse.
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.ofx/creditcardresponsemessagesetv1/creditcardstatementtransactionresponses/
 ---
 ## CreditcardResponseMessageSetV1.CreditCardStatementTransactionResponses property
 
-获取或设置[`CreditCardStatementTransactionResponse`](../../../aspose.finance.ofx.creditcard/creditcardstatementtransactionresponse)的集合。
+获取或设置的集合[`CreditCardStatementTransactionResponse`](../../../aspose.finance.ofx.creditcard/creditcardstatementtransactionresponse).
 
 ```csharp
 public List<CreditCardStatementTransactionResponse> 

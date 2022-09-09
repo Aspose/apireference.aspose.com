@@ -1,14 +1,14 @@
 ---
 title: InsuranceReimbursement
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или устанавливает страховое возмещение/возврат.
+description: Получает или задает страховое возмещение/возврат.
 type: docs
 weight: 120
 url: /ru/net/aspose.finance.ofx.tax1098/tax1098t_v100/insurancereimbursement/
 ---
 ## Tax1098T_V100.InsuranceReimbursement property
 
-Получает или устанавливает страховое возмещение/возврат.
+Получает или задает страховое возмещение/возврат.
 
 ```csharp
 public string InsuranceReimbursement { get; set; }

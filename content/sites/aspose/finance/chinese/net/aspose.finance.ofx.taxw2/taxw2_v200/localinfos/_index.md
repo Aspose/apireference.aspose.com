@@ -1,14 +1,14 @@
 ---
 title: LocalInfos
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置LocalInfoaspose.finance.ofx.taxw2/localinfo的集合
+description: 获取或设置的集合LocalInfoaspose.finance.ofx.taxw2/localinfo.
 type: docs
 weight: 90
 url: /zh/net/aspose.finance.ofx.taxw2/taxw2_v200/localinfos/
 ---
 ## TaxW2_V200.LocalInfos property
 
-获取或设置[`LocalInfo`](../../localinfo)的集合。
+获取或设置的集合[`LocalInfo`](../../localinfo).
 
 ```csharp
 public List<LocalInfo> LocalInfos { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: Types
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置MessageTypeaspose.finance.ofx/messagetype或CharTypeaspose.finance.ofx/chartype的集合
+description: 获取或设置的集合MessageTypeaspose.finance.ofx/messagetype或者CharTypeaspose.finance.ofx/chartype.
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.ofx.billerdelivery/billdetailrow/types/
 ---
 ## BillDetailRow.Types property
 
-获取或设置[`MessageType`](../../../aspose.finance.ofx/messagetype)或[`CharType`](../../../aspose.finance.ofx/chartype)的集合。
+获取或设置的集合[`MessageType`](../../../aspose.finance.ofx/messagetype)或者[`CharType`](../../../aspose.finance.ofx/chartype).
 
 ```csharp
 public List<AbstractStringType> Types { get; set; }

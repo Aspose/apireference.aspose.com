@@ -18,15 +18,15 @@ public class Tax1098TransactionResponse : AbstractTransactionResponse
 
 | Имя | Описание |
 | --- | --- |
-| [Tax1098TransactionResponse](tax1098transactionresponse)() | Инициализирует новый экземпляр класса[`Tax1098TransactionResponse`](../tax1098transactionresponse). |
+| [Tax1098TransactionResponse](tax1098transactionresponse)() | Инициализирует новый экземпляр[`Tax1098TransactionResponse`](../tax1098transactionresponse) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [ClientCookie](../../aspose.finance.ofx/abstracttransactionresponse/clientcookie) { get; set; } | Получает или задает данные, которые будут отображаться в ответе транзакции |
-| [Status](../../aspose.finance.ofx/abstracttransactionresponse/status) { get; set; } | Получает или задает[`Status`](../../aspose.finance.ofx/abstracttransactionresponse/status). |
-| [Tax1098Response](../../aspose.finance.ofx.tax1098/tax1098transactionresponse/tax1098response) { get; set; } | Получает или задает[`Tax1098Response`](./tax1098response). |
+| [ClientCookie](../../aspose.finance.ofx/abstracttransactionresponse/clientcookie) { get; set; } | Получает или задает данные, которые будут отражены в транзакции response |
+| [Status](../../aspose.finance.ofx/abstracttransactionresponse/status) { get; set; } | Получает или задает[`Status`](../../aspose.finance.ofx/abstracttransactionresponse/status) . |
+| [Tax1098Response](../../aspose.finance.ofx.tax1098/tax1098transactionresponse/tax1098response) { get; set; } | Получает или задает[`Tax1098Response`](./tax1098response) . |
 | [TransactionUniqueId](../../aspose.finance.ofx/abstracttransactionresponse/transactionuniqueid) { get; set; } | Получает или задает назначенный клиентом глобальный уникальный идентификатор для этой транзакции. |
 
 ### Смотрите также

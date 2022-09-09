@@ -18,14 +18,14 @@ public class InlineTuple : InlineFact
 
 | Имя | Описание |
 | --- | --- |
-| [Facts](../../aspose.finance.xbrl.inline/inlinetuple/facts) { get; } | Получает или задает набор дочерних фактов[`InlineTuple`](../inlinetuple). |
+| [Facts](../../aspose.finance.xbrl.inline/inlinetuple/facts) { get; } | Получает или задает набор дочерних фактов[`InlineTuple`](../inlinetuple) . |
 | [Hidden](../../aspose.finance.xbrl.inline/inlinefact/hidden) { get; set; } | Получает или задает, скрыт ли этот факт. |
 | [Id](../../aspose.finance.xbrl.inline/inlinefact/id) { get; set; } | Получает или задает идентификатор встроенного факта. |
 | [Name](../../aspose.finance.xbrl.inline/inlinefact/name) { get; set; } | Получает или задает полное имя встроенного факта. |
-| [Order](../../aspose.finance.xbrl.inline/inlinetuple/order) { get; set; } | Получает или задает порядок[`InlineTuple`](../inlinetuple). |
-| [TargetId](../../aspose.finance.xbrl.inline/inlinetuple/targetid) { get; set; } | Получает или задает целевой идентификатор[`InlineTuple`](../inlinetuple). |
-| [TupleId](../../aspose.finance.xbrl.inline/inlinetuple/tupleid) { get; set; } | Получает или задает идентификатор кортежа[`InlineTuple`](../inlinetuple). |
-| [TupleRefId](../../aspose.finance.xbrl.inline/inlinetuple/tuplerefid) { get; set; } | Получает или задает идентификатор ссылки на кортеж[`InlineTuple`](../inlinetuple). |
+| [Order](../../aspose.finance.xbrl.inline/inlinetuple/order) { get; set; } | Получает или задает порядок[`InlineTuple`](../inlinetuple) . |
+| [TargetId](../../aspose.finance.xbrl.inline/inlinetuple/targetid) { get; set; } | Получает или задает целевой идентификатор[`InlineTuple`](../inlinetuple) . |
+| [TupleId](../../aspose.finance.xbrl.inline/inlinetuple/tupleid) { get; set; } | Получает или задает идентификатор кортежа[`InlineTuple`](../inlinetuple) . |
+| [TupleRefId](../../aspose.finance.xbrl.inline/inlinetuple/tuplerefid) { get; set; } | Получает или задает идентификатор ссылки на кортеж[`InlineTuple`](../inlinetuple) . |
 
 ### Смотрите также
 

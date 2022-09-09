@@ -1,14 +1,14 @@
 ---
 title: WireTransactionRequest
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化WireTransactionRequestaspose.finance.ofx.wiretransfer/wiretransactionrequest类的新实例
+description: 初始化一个新的实例WireTransactionRequestaspose.finance.ofx.wiretransfer/wiretransactionrequest类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.wiretransfer/wiretransactionrequest/wiretransactionrequest/
 ---
 ## WireTransactionRequest constructor
 
-初始化[`WireTransactionRequest`](../../wiretransactionrequest)类的新实例。
+初始化一个新的实例[`WireTransactionRequest`](../../wiretransactionrequest)类.
 
 ```csharp
 public WireTransactionRequest()

@@ -8,7 +8,7 @@ url: /zh/net/aspose.finance.ofx.loan/amortizationtransaction/paymentnumber/
 ---
 ## AmortizationTransaction.PaymentNumber property
 
-获取或设置还款号。
+获取或设置还款号
 
 ```csharp
 public string PaymentNumber { get; set; }

@@ -20,11 +20,11 @@ public enum Investment401kSourceEnum
 | --- | --- | --- |
 | PRETAX | `0` | До налогообложения |
 | AFTERTAX | `1` | После уплаты налогов |
-| MATCH | `2` | Матч |
+| MATCH | `2` | Совпадение |
 | PROFITSHARING | `3` | Разделение прибыли |
 | ROLLOVER | `4` | Перенос |
 | OTHERVEST | `5` | Другое Жилет |
-| OTHERNONVEST | `6` | Прочие неинвестиционные |
+| OTHERNONVEST | `6` | Другое Нежилет |
 
 ### Смотрите также
 

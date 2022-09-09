@@ -1,14 +1,14 @@
 ---
 title: From
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置弧的起点标签
+description: 获取或设置圆弧的起始标签
 type: docs
 weight: 40
 url: /zh/net/aspose.finance.xbrl/arc/from/
 ---
 ## Arc.From property
 
-获取或设置弧的起点标签。
+获取或设置圆弧的起始标签。
 
 ```csharp
 public string From { get; set; }

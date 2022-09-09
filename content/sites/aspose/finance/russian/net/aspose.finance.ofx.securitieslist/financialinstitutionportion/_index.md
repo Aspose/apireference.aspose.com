@@ -1,14 +1,14 @@
 ---
 title: FinancialInstitutionPortion
 second_title: Справочник по API Aspose.Finance для .NET
-description: Часть взаимного фонда с определенной классификацией активов.
+description: Доля взаимного фонда с определенной классификацией активов.
 type: docs
 weight: 5050
 url: /ru/net/aspose.finance.ofx.securitieslist/financialinstitutionportion/
 ---
 ## FinancialInstitutionPortion class
 
-Часть взаимного фонда с определенной классификацией активов.
+Доля взаимного фонда с определенной классификацией активов.
 
 ```csharp
 public class FinancialInstitutionPortion
@@ -18,14 +18,14 @@ public class FinancialInstitutionPortion
 
 | Имя | Описание |
 | --- | --- |
-| [FinancialInstitutionPortion](financialinstitutionportion)() | Инициализирует новый экземпляр классаFinancialInstitutionPort. |
+| [FinancialInstitutionPortion](financialinstitutionportion)() | Инициализирует новый экземпляр[`FinancialInstitutionPortion`](../financialinstitutionportion) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
 | [FIAssetClass](../../aspose.finance.ofx.securitieslist/financialinstitutionportion/fiassetclass) { get; set; } | Получает или задает текстовую строку, содержащую класс активов, определенный FI. |
-| [Percent](../../aspose.finance.ofx.securitieslist/financialinstitutionportion/percent) { get; set; } | Получает или задает процентную долю фонда, относящуюся к этому классу активов. |
+| [Percent](../../aspose.finance.ofx.securitieslist/financialinstitutionportion/percent) { get; set; } | Получает или задает процент фонда, подпадающий под этот класс активов. |
 
 ### Смотрите также
 

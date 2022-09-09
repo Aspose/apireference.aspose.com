@@ -1,14 +1,14 @@
 ---
 title: LoanMessageSet
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化LoanMessageSetaspose.finance.ofx.profile/loanmessageset类的新实例
+description: 初始化一个新的实例LoanMessageSetaspose.finance.ofx.profile/loanmessageset类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.profile/loanmessageset/loanmessageset/
 ---
 ## LoanMessageSet constructor
 
-初始化[`LoanMessageSet`](../../loanmessageset)类的新实例。
+初始化一个新的实例[`LoanMessageSet`](../../loanmessageset)类.
 
 ```csharp
 public LoanMessageSet()

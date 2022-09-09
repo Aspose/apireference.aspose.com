@@ -1,14 +1,14 @@
 ---
 title: IntraTransactionResponse
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化IntraTransactionResponseaspose.finance.ofx.bank/intratransactionresponse类的新实例
+description: 初始化一个新的实例IntraTransactionResponseaspose.finance.ofx.bank/intratransactionresponse类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.bank/intratransactionresponse/intratransactionresponse/
 ---
 ## IntraTransactionResponse constructor
 
-初始化[`IntraTransactionResponse`](../../intratransactionresponse)类的新实例。
+初始化一个新的实例[`IntraTransactionResponse`](../../intratransactionresponse)类.
 
 ```csharp
 public IntraTransactionResponse()

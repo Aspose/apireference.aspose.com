@@ -26,7 +26,7 @@ public class ElementList : IEnumerable<Element>
 | Имя | Описание |
 | --- | --- |
 | [Add](../../aspose.finance.xbrl.dom/elementlist/add)(Element) | Добавляет элемент в конец списка. |
-| [GetEnumerator](../../aspose.finance.xbrl.dom/elementlist/getenumerator)() | Возвращает перечислитель, который перебирает список. |
+| [GetEnumerator](../../aspose.finance.xbrl.dom/elementlist/getenumerator)() | Возвращает перечислитель, который выполняет итерацию по списку. |
 
 ### Смотрите также
 

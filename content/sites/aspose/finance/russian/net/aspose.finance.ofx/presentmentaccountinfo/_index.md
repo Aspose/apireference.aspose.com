@@ -18,14 +18,14 @@ public class PresentmentAccountInfo : AbstractAccountInfo
 
 | Имя | Описание |
 | --- | --- |
-| [PresentmentAccountInfo](presentmentaccountinfo)() | Инициализирует новый экземпляр класса[`PresentmentAccountInfo`](../presentmentaccountinfo). |
+| [PresentmentAccountInfo](presentmentaccountinfo)() | Инициализирует новый экземпляр[`PresentmentAccountInfo`](../presentmentaccountinfo) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [PresentmentAccountFrom](../../aspose.finance.ofx/presentmentaccountinfo/presentmentaccountfrom) { get; set; } | Получает или задает значение из[`PresentmentAccount`](../presentmentaccount). |
-| [Reason](../../aspose.finance.ofx/presentmentaccountinfo/reason) { get; set; } | Получает или задает причину отклонения. |
+| [PresentmentAccountFrom](../../aspose.finance.ofx/presentmentaccountinfo/presentmentaccountfrom) { get; set; } | Получает или задает из[`PresentmentAccount`](../presentmentaccount) . |
+| [Reason](../../aspose.finance.ofx/presentmentaccountinfo/reason) { get; set; } | Получает или задает причину отказа. |
 | [ServiceStatus](../../aspose.finance.ofx/presentmentaccountinfo/servicestatus) { get; set; } | Получает или задает статус службы выставления счетов для этой учетной записи. |
 
 ### Смотрите также

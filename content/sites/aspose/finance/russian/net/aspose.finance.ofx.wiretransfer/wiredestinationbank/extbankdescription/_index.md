@@ -1,14 +1,14 @@
 ---
 title: ExtBankDescription
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задаетExtBankDescriptionaspose.finance.ofx.wiretransfer/wiredestinationbank/extbankdescription.
+description: Получает или задаетExtBankDescriptionaspose.finance.ofx.wiretransfer/wiredestinationbank/extbankdescription .
 type: docs
 weight: 20
 url: /ru/net/aspose.finance.ofx.wiretransfer/wiredestinationbank/extbankdescription/
 ---
 ## WireDestinationBank.ExtBankDescription property
 
-Получает или задает`ExtBankDescription`.
+Получает или задает`ExtBankDescription` .
 
 ```csharp
 public ExtBankDescription ExtBankDescription { get; set; }

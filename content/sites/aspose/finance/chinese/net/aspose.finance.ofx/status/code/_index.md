@@ -1,14 +1,14 @@
 ---
 title: Code
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置错误代码
+description: 获取或设置错误码
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.ofx/status/code/
 ---
 ## Status.Code property
 
-获取或设置错误代码。
+获取或设置错误码
 
 ```csharp
 public string Code { get; set; }

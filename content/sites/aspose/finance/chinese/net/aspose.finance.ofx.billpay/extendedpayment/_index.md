@@ -1,14 +1,14 @@
 ---
 title: ExtendedPayment
 second_title: Aspose.Finance for .NET API 参考
-description: 该类为收款人提供跨多张发票应用付款的信息它的结构允许发票数据的电子处理并允许多张发票以及多个行项目每张发票需指定
+description: 该类为收款人提供跨多张发票应用付款的信息它的结构允许发票数据的电子处理并允许指定多张发票以及每张发票的多个行项目
 type: docs
 weight: 910
 url: /zh/net/aspose.finance.ofx.billpay/extendedpayment/
 ---
 ## ExtendedPayment class
 
-该类为收款人提供跨多张发票应用付款的信息。它的结构允许发票数据的电子处理，并允许多张发票以及多个行项目每张发票，需指定。
+该类为收款人提供跨多张发票应用付款的信息。它的结构允许发票数据的电子处理，并允许指定多张发票以及每张发票的多个行项目。
 
 ```csharp
 public class ExtendedPayment
@@ -18,16 +18,16 @@ public class ExtendedPayment
 
 | 姓名 | 描述 |
 | --- | --- |
-| [ExtendedPayment](extendedpayment)() | 初始化[`ExtendedPayment`](../extendedpayment)类的新实例。 |
+| [ExtendedPayment](extendedpayment)() | 初始化一个新的实例[`ExtendedPayment`](../extendedpayment)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [ExtendedPaymentCheck](../../aspose.finance.ofx.billpay/extendedpayment/extendedpaymentcheck) { get; set; } | 获取或设置用于此付款的支票号码。 |
+| [ExtendedPaymentCheck](../../aspose.finance.ofx.billpay/extendedpayment/extendedpaymentcheck) { get; set; } | 获取或设置用于此次付款的支票号码。 |
 | [ExtendedPaymentDescription](../../aspose.finance.ofx.billpay/extendedpayment/extendedpaymentdescription) { get; set; } | 获取或设置与支付通信的自由文本。 |
-| [ExtendedPaymentFor](../../aspose.finance.ofx.billpay/extendedpayment/extendedpaymentfor) { get; set; } | 获取或设置付款是针对个人帐户还是企业帐户。这允许支付处理器将付款汇至消费者或企业的适当地址。 |
-| [ExtendedPaymentInvoice](../../aspose.finance.ofx.billpay/extendedpayment/extendedpaymentinvoice) { get; set; } | 获取或设置[`ExtendedPaymentInvoice`](./extendedpaymentinvoice)。 |
+| [ExtendedPaymentFor](../../aspose.finance.ofx.billpay/extendedpayment/extendedpaymentfor) { get; set; } | 获取或设置付款是针对个人帐户还是企业帐户。这允许付款处理器将付款汇到消费者或企业的适当地址。 |
+| [ExtendedPaymentInvoice](../../aspose.finance.ofx.billpay/extendedpayment/extendedpaymentinvoice) { get; set; } | 获取或设置[`ExtendedPaymentInvoice`](./extendedpaymentinvoice). |
 
 ### 也可以看看
 

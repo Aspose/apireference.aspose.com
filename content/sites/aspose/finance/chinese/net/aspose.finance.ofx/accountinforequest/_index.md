@@ -18,7 +18,7 @@ public class AccountInfoRequest
 
 | 姓名 | 描述 |
 | --- | --- |
-| [AccountInfoRequest](accountinforequest)() | 初始化[`AccountInfoRequest`](../accountinforequest)类的新实例。 |
+| [AccountInfoRequest](accountinforequest)() | 初始化一个新的实例[`AccountInfoRequest`](../accountinforequest)类. |
 
 ## 特性
 

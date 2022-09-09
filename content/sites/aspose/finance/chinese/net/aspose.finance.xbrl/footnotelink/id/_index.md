@@ -1,14 +1,14 @@
 ---
 title: Id
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置 id
+description: 获取或设置id
 type: docs
 weight: 40
 url: /zh/net/aspose.finance.xbrl/footnotelink/id/
 ---
 ## FootnoteLink.Id property
 
-获取或设置 id。
+获取或设置id。
 
 ```csharp
 public string Id { get; set; }

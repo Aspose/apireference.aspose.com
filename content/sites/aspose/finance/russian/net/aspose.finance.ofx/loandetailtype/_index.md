@@ -18,7 +18,7 @@ public class LoanDetailType
 
 | Имя | Описание |
 | --- | --- |
-| [LoanDetailType](loandetailtype)() | Инициализирует новый экземпляр класса[`LoanDetailType`](../loandetailtype). |
+| [LoanDetailType](loandetailtype)() | Инициализирует новый экземпляр[`LoanDetailType`](../loandetailtype) класс. |
 
 ## Характеристики
 
@@ -26,11 +26,11 @@ public class LoanDetailType
 | --- | --- |
 | [EscrowBalance](../../aspose.finance.ofx/loandetailtype/escrowbalance) { get; set; } | Получает или задает общую сумму, хранящуюся на условном депонировании. |
 | [LoanFrequency](../../aspose.finance.ofx/loandetailtype/loanfrequency) { get; set; } | Получает или задает частоту платежей. |
-| [LoanInitialBalance](../../aspose.finance.ofx/loandetailtype/loaninitialbalance) { get; set; } | Получает или задает начальный остаток кредита. |
+| [LoanInitialBalance](../../aspose.finance.ofx/loandetailtype/loaninitialbalance) { get; set; } | Получает или задает начальный баланс кредита. |
 | [LoanInitialNumberPayments](../../aspose.finance.ofx/loandetailtype/loaninitialnumberpayments) { get; set; } | Получает или задает начальное количество платежей по кредиту. |
 | [LoanMaturityDate](../../aspose.finance.ofx/loandetailtype/loanmaturitydate) { get; set; } | Получает или задает ожидаемую дату окончания кредита. |
 | [LoanRemainingPayments](../../aspose.finance.ofx/loandetailtype/loanremainingpayments) { get; set; } | Получает или задает оставшееся количество платежей по кредиту. |
-| [LoanStartDate](../../aspose.finance.ofx/loandetailtype/loanstartdate) { get; set; } | Получает или задает начальную дату кредита. |
+| [LoanStartDate](../../aspose.finance.ofx/loandetailtype/loanstartdate) { get; set; } | Получает или задает дату начала кредита. |
 | [PrincipalBalance](../../aspose.finance.ofx/loandetailtype/principalbalance) { get; set; } | Получает или задает текущий остаток основной суммы кредита. |
 
 ### Смотрите также

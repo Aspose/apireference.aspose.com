@@ -1,14 +1,14 @@
 ---
 title: StudentName
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает имя учащегося.
+description: Получает или задает имя студента.
 type: docs
 weight: 90
 url: /ru/net/aspose.finance.ofx.tax1098/studentaddress/studentname/
 ---
 ## StudentAddress.StudentName property
 
-Получает или задает имя учащегося.
+Получает или задает имя студента.
 
 ```csharp
 public string StudentName { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: LoanRemainingPayments
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置贷款还款的剩余数量
+description: 获取或设置贷款还款的剩余次数
 type: docs
 weight: 120
 url: /zh/net/aspose.finance.ofx/loanaccountinfo/loanremainingpayments/
 ---
 ## LoanAccountInfo.LoanRemainingPayments property
 
-获取或设置贷款还款的剩余数量
+获取或设置贷款还款的剩余次数
 
 ```csharp
 public string LoanRemainingPayments { get; set; }

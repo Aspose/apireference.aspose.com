@@ -1,14 +1,14 @@
 ---
 title: DetailAvailable
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置结构化详细信息是否可用
+description: 获取或设置结构化细节是否可用
 type: docs
 weight: 130
 url: /zh/net/aspose.finance.ofx.billerdelivery/presentmentbillinfo/detailavailable/
 ---
 ## PresentmentBillInfo.DetailAvailable property
 
-获取或设置结构化详细信息是否可用。
+获取或设置结构化细节是否可用。
 
 ```csharp
 public bool DetailAvailable { get; set; }

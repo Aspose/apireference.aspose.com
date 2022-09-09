@@ -1,14 +1,14 @@
 ---
 title: IntraSyncResponses
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置IntraSyncResponseaspose.finance.ofx.bank/intrasyncresponse的集合
+description: 获取或设置的集合IntraSyncResponseaspose.finance.ofx.bank/intrasyncresponse.
 type: docs
 weight: 40
 url: /zh/net/aspose.finance.ofx/bankresponsemessagesetv1/intrasyncresponses/
 ---
 ## BankResponseMessageSetV1.IntraSyncResponses property
 
-获取或设置[`IntraSyncResponse`](../../../aspose.finance.ofx.bank/intrasyncresponse)的集合。
+获取或设置的集合[`IntraSyncResponse`](../../../aspose.finance.ofx.bank/intrasyncresponse).
 
 ```csharp
 public List<IntraSyncResponse> IntraSyncResponses { get; set; }

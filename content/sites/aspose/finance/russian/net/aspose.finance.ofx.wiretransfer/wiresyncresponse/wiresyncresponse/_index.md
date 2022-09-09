@@ -1,14 +1,14 @@
 ---
 title: WireSyncResponse
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаWireSyncResponseaspose.finance.ofx.wiretransfer/wiresyncresponse.
+description: Инициализирует новый экземплярWireSyncResponseaspose.finance.ofx.wiretransfer/wiresyncresponse класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.wiretransfer/wiresyncresponse/wiresyncresponse/
 ---
 ## WireSyncResponse constructor
 
-Инициализирует новый экземпляр класса[`WireSyncResponse`](../../wiresyncresponse).
+Инициализирует новый экземпляр[`WireSyncResponse`](../../wiresyncresponse) класс.
 
 ```csharp
 public WireSyncResponse()

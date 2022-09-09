@@ -1,14 +1,14 @@
 ---
 title: ImageRequestMessageSetV1
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаImageRequestMessageSetV1aspose.finance.ofx/imagerequestmessagesetv1.
+description: Инициализирует новый экземплярImageRequestMessageSetV1aspose.finance.ofx/imagerequestmessagesetv1 класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx/imagerequestmessagesetv1/imagerequestmessagesetv1/
 ---
 ## ImageRequestMessageSetV1 constructor
 
-Инициализирует новый экземпляр класса[`ImageRequestMessageSetV1`](../../imagerequestmessagesetv1).
+Инициализирует новый экземпляр[`ImageRequestMessageSetV1`](../../imagerequestmessagesetv1) класс.
 
 ```csharp
 public ImageRequestMessageSetV1()

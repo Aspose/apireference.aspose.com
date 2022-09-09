@@ -1,14 +1,14 @@
 ---
 title: EmailMessageSet
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаEmailMessageSetaspose.finance.ofx.profile/emailmessageset.
+description: Инициализирует новый экземплярEmailMessageSetaspose.finance.ofx.profile/emailmessageset класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.profile/emailmessageset/emailmessageset/
 ---
 ## EmailMessageSet constructor
 
-Инициализирует новый экземпляр класса[`EmailMessageSet`](../../emailmessageset).
+Инициализирует новый экземпляр[`EmailMessageSet`](../../emailmessageset) класс.
 
 ```csharp
 public EmailMessageSet()

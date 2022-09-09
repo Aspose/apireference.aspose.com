@@ -1,14 +1,14 @@
 ---
 title: PresentmentDetailTransactionResponses
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置PresentmentDetailTransactionResponseaspose.finance.ofx.billerdelivery/presentmentdetailtransactionresponse的集合
+description: 获取或设置的集合PresentmentDetailTransactionResponseaspose.finance.ofx.billerdelivery/presentmentdetailtransactionresponse.
 type: docs
 weight: 40
 url: /zh/net/aspose.finance.ofx/presentmentdeliveryresponsemessagesetv1/presentmentdetailtransactionresponses/
 ---
 ## PresentmentDeliveryResponseMessageSetV1.PresentmentDetailTransactionResponses property
 
-获取或设置[`PresentmentDetailTransactionResponse`](../../../aspose.finance.ofx.billerdelivery/presentmentdetailtransactionresponse)的集合。
+获取或设置的集合[`PresentmentDetailTransactionResponse`](../../../aspose.finance.ofx.billerdelivery/presentmentdetailtransactionresponse).
 
 ```csharp
 public List<PresentmentDetailTransactionResponse> 

@@ -1,14 +1,14 @@
 ---
 title: Mail
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置Mailaspose.finance.ofx.billpay/paymentmailresponse/mail
+description: 获取或设置Mailaspose.finance.ofx.billpay/paymentmailresponse/mail.
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.ofx.billpay/paymentmailresponse/mail/
 ---
 ## PaymentMailResponse.Mail property
 
-获取或设置`Mail`。
+获取或设置`Mail`.
 
 ```csharp
 public Mail Mail { get; set; }

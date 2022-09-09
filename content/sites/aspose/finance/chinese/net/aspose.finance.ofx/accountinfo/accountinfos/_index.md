@@ -1,14 +1,14 @@
 ---
 title: AccountInfos
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置BankAccountInfoaspose.finance.ofx/bankaccountinfo或LoanAccountInfoaspose.finance.ofx/loanaccountinfo或的集合CreditCardAccountInfoaspose.finance.ofx/creditcardaccountinfo 或BillPaymentAccountInfoaspose.finance.ofx/billpaymentaccountinfo或InvestmentAccountInfoaspose.finance.ofx/investmentaccountinfo或PresentmentAccountInfoaspose.finance.ofx/presentmentaccountinfo
+description: 获取或设置的集合BankAccountInfoaspose.finance.ofx/bankaccountinfo或者LoanAccountInfoaspose.finance.ofx/loanaccountinfo或者CreditCardAccountInfoaspose.finance.ofx/creditcardaccountinfo 或BillPaymentAccountInfoaspose.finance.ofx/billpaymentaccountinfo或者InvestmentAccountInfoaspose.finance.ofx/investmentaccountinfo或者PresentmentAccountInfoaspose.finance.ofx/presentmentaccountinfo.
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.ofx/accountinfo/accountinfos/
 ---
 ## AccountInfo.AccountInfos property
 
-获取或设置[`BankAccountInfo`](../../bankaccountinfo)或[`LoanAccountInfo`](../../loanaccountinfo)或的集合[`CreditCardAccountInfo`](../../creditcardaccountinfo) 或[`BillPaymentAccountInfo`](../../billpaymentaccountinfo)或[`InvestmentAccountInfo`](../../investmentaccountinfo)或[`PresentmentAccountInfo`](../../presentmentaccountinfo)。
+获取或设置的集合[`BankAccountInfo`](../../bankaccountinfo)或者[`LoanAccountInfo`](../../loanaccountinfo)或者[`CreditCardAccountInfo`](../../creditcardaccountinfo) 或[`BillPaymentAccountInfo`](../../billpaymentaccountinfo)或者[`InvestmentAccountInfo`](../../investmentaccountinfo)或者[`PresentmentAccountInfo`](../../presentmentaccountinfo).
 
 ```csharp
 public List<AbstractAccountInfo> AccountInfos { get; set; }

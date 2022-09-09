@@ -1,14 +1,14 @@
 ---
 title: PresentmentMailTransactionResponses
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает коллекциюPresentmentMailTransactionResponseaspose.finance.ofx.billerdelivery/presentmentmailtransactionresponse.
+description: Получает или задает коллекциюPresentmentMailTransactionResponseaspose.finance.ofx.billerdelivery/presentmentmailtransactionresponse .
 type: docs
 weight: 40
 url: /ru/net/aspose.finance.ofx.billerdelivery/presentmentmailsyncresponse/presentmentmailtransactionresponses/
 ---
 ## PresentmentMailSyncResponse.PresentmentMailTransactionResponses property
 
-Получает или задает коллекцию[`PresentmentMailTransactionResponse`](../../presentmentmailtransactionresponse).
+Получает или задает коллекцию[`PresentmentMailTransactionResponse`](../../presentmentmailtransactionresponse) .
 
 ```csharp
 public List<PresentmentMailTransactionResponse> PresentmentMailTransactionResponses { get; set; }

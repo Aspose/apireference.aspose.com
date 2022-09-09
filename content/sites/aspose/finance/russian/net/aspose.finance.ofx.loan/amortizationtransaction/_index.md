@@ -1,14 +1,14 @@
 ---
 title: AmortizationTransaction
 second_title: Справочник по API Aspose.Finance для .NET
-description: Класс проводки амортизации.
+description: Класс операции амортизации.
 type: docs
 weight: 3760
 url: /ru/net/aspose.finance.ofx.loan/amortizationtransaction/
 ---
 ## AmortizationTransaction class
 
-Класс проводки амортизации.
+Класс операции амортизации.
 
 ```csharp
 public class AmortizationTransaction
@@ -18,7 +18,7 @@ public class AmortizationTransaction
 
 | Имя | Описание |
 | --- | --- |
-| [AmortizationTransaction](amortizationtransaction)() | Инициализирует новый экземпляр класса[`AmortizationTransaction`](../amortizationtransaction). |
+| [AmortizationTransaction](amortizationtransaction)() | Инициализирует новый экземпляр[`AmortizationTransaction`](../amortizationtransaction) класс. |
 
 ## Характеристики
 
@@ -26,10 +26,10 @@ public class AmortizationTransaction
 | --- | --- |
 | [AmortizationType](../../aspose.finance.ofx.loan/amortizationtransaction/amortizationtype) { get; set; } | Получает или задает тип амортизации. |
 | [LoanInitBalance](../../aspose.finance.ofx.loan/amortizationtransaction/loaninitbalance) { get; set; } | Получает или устанавливает начальный баланс перед оплатой. |
-| [LoanRate](../../aspose.finance.ofx.loan/amortizationtransaction/loanrate) { get; set; } | Получает или задает[`LoanRateType`](../../aspose.finance.ofx/loanratetype). |
-| [LoanTransactionAmount](../../aspose.finance.ofx.loan/amortizationtransaction/loantransactionamount) { get; set; } | Получает или задает[`LoanTransactionAmount`](./loantransactionamount). |
+| [LoanRate](../../aspose.finance.ofx.loan/amortizationtransaction/loanrate) { get; set; } | Получает или задает[`LoanRateType`](../../aspose.finance.ofx/loanratetype) . |
+| [LoanTransactionAmount](../../aspose.finance.ofx.loan/amortizationtransaction/loantransactionamount) { get; set; } | Получает или задает[`LoanTransactionAmount`](./loantransactionamount) . |
 | [PaymentNumber](../../aspose.finance.ofx.loan/amortizationtransaction/paymentnumber) { get; set; } | Получает или задает номер платежа по кредиту. |
-| [PrincipalBalance](../../aspose.finance.ofx.loan/amortizationtransaction/principalbalance) { get; set; } | Получает или задает[`PrincipalBalanceType`](../../aspose.finance.ofx/principalbalancetype). |
+| [PrincipalBalance](../../aspose.finance.ofx.loan/amortizationtransaction/principalbalance) { get; set; } | Получает или задает[`PrincipalBalanceType`](../../aspose.finance.ofx/principalbalancetype) . |
 
 ### Смотрите также
 

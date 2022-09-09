@@ -18,15 +18,15 @@ public class SecurityRequest
 
 | Имя | Описание |
 | --- | --- |
-| [SecurityRequest](securityrequest)() | Инициализирует новый экземпляр класса[`SecurityRequest`](../securityrequest). |
+| [SecurityRequest](securityrequest)() | Инициализирует новый экземпляр[`SecurityRequest`](../securityrequest) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
 | [FIID](../../aspose.finance.ofx.securitieslist/securityrequest/fiid) { get; set; } | Получает или задает специальный идентификатор FI для ценной бумаги. |
-| [SecurityId](../../aspose.finance.ofx.securitieslist/securityrequest/securityid) { get; set; } | Получает или задает[`SecurityId`](./securityid). |
-| [Ticker](../../aspose.finance.ofx.securitieslist/securityrequest/ticker) { get; set; } | Получает или задает тикер. |
+| [SecurityId](../../aspose.finance.ofx.securitieslist/securityrequest/securityid) { get; set; } | Получает или задает[`SecurityId`](./securityid) . |
+| [Ticker](../../aspose.finance.ofx.securitieslist/securityrequest/ticker) { get; set; } | Получает или устанавливает символ тикера. |
 
 ### Смотрите также
 

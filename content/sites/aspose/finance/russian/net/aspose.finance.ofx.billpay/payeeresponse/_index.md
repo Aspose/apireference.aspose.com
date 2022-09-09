@@ -18,17 +18,17 @@ public class PayeeResponse : AbstractPayeeResponse
 
 | Имя | Описание |
 | --- | --- |
-| [PayeeResponse](payeeresponse)() | Инициализирует новый экземпляр класса[`PayeeResponse`](../payeeresponse). |
+| [PayeeResponse](payeeresponse)() | Инициализирует новый экземпляр[`PayeeResponse`](../payeeresponse) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [BankAccountTo](../../aspose.finance.ofx.billpay/payeeresponse/bankaccountto) { get; set; } | Получает или задает назначение[`BankAccount`](../../aspose.finance.ofx/bankaccount), указанное в странах, осуществляющих оплату переводами |
-| [ExtendedPayee](../../aspose.finance.ofx.billpay/payeeresponse/extendedpayee) { get; set; } | Получает или задает[`ExtendedPayee`](../extendedpayee). |
-| [Payee](../../aspose.finance.ofx.billpay/payeeresponse/payee) { get; set; } | Получает или задает полную информацию[`Payee`](./payee). |
-| [PayeeAccounts](../../aspose.finance.ofx.billpay/payeeresponse/payeeaccounts) { get; set; } | Получает или задает номер счета пользователя коллекции у получателя платежа. |
-| [PayeeListId](../../aspose.finance.ofx.billpay/abstractpayeeresponse/payeelistid) { get; set; } | Получает или задает назначенный сервером идентификатор записи для этой записи получателя. |
+| [BankAccountTo](../../aspose.finance.ofx.billpay/payeeresponse/bankaccountto) { get; set; } | Получает или задает пункт назначения[`BankAccount`](../../aspose.finance.ofx/bankaccount) , указанный в странах, оплачивающих с помощью Transfers |
+| [ExtendedPayee](../../aspose.finance.ofx.billpay/payeeresponse/extendedpayee) { get; set; } | Получает или задает[`ExtendedPayee`](../extendedpayee) . |
+| [Payee](../../aspose.finance.ofx.billpay/payeeresponse/payee) { get; set; } | Получает или задает полный[`Payee`](./payee) информация. |
+| [PayeeAccounts](../../aspose.finance.ofx.billpay/payeeresponse/payeeaccounts) { get; set; } | Получает или задает номер счета пользователя коллекции с получателем платежа . |
+| [PayeeListId](../../aspose.finance.ofx.billpay/abstractpayeeresponse/payeelistid) { get; set; } | Получает или задает назначенный сервером идентификатор записи для этой записи получателя платежа. |
 
 ### Смотрите также
 

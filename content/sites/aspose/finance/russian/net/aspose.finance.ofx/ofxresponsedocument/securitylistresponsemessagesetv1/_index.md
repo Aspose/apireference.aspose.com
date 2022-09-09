@@ -1,14 +1,14 @@
 ---
 title: SecurityListResponseMessageSetV1
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задаетSecurityListResponseMessageSetV1aspose.finance.ofx/ofxresponsedocument/securitylistresponsemessagesetv1.
+description: Получает или задаетSecurityListResponseMessageSetV1aspose.finance.ofx/ofxresponsedocument/securitylistresponsemessagesetv1 .
 type: docs
 weight: 120
 url: /ru/net/aspose.finance.ofx/ofxresponsedocument/securitylistresponsemessagesetv1/
 ---
 ## OfxResponseDocument.SecurityListResponseMessageSetV1 property
 
-Получает или задает`SecurityListResponseMessageSetV1`.
+Получает или задает`SecurityListResponseMessageSetV1` .
 
 ```csharp
 public SecurityListResponseMessageSetV1 SecurityListResponseMessageSetV1 { get; set; }

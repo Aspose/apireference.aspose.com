@@ -1,14 +1,14 @@
 ---
 title: Footnote
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаFootnoteaspose.finance.xbrl/footnote.
+description: Инициализирует новый экземплярFootnoteaspose.finance.xbrl/footnote класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.xbrl/footnote/footnote/
 ---
 ## Footnote constructor
 
-Инициализирует новый экземпляр класса[`Footnote`](../../footnote).
+Инициализирует новый экземпляр[`Footnote`](../../footnote) класс.
 
 ```csharp
 public Footnote(string label)
@@ -16,7 +16,7 @@ public Footnote(string label)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| label | String | Метка сноски. |
+| label | String | Ярлык сноски. |
 
 ### Смотрите также
 

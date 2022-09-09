@@ -1,14 +1,14 @@
 ---
 title: EmployeeContribInsurance
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или устанавливает вклад сотрудника/назначенного сотрудника страховые взносы.
+description: Получает или устанавливает вклад сотрудника/назначенного Рота страховые взносы.
 type: docs
 weight: 70
 url: /ru/net/aspose.finance.ofx.tax1099/tax1099r_v100/employeecontribinsurance/
 ---
 ## Tax1099R_V100.EmployeeContribInsurance property
 
-Получает или устанавливает вклад сотрудника/назначенного сотрудника, страховые взносы.
+Получает или устанавливает вклад сотрудника/назначенного Рота, страховые взносы.
 
 ```csharp
 public string EmployeeContribInsurance { get; set; }

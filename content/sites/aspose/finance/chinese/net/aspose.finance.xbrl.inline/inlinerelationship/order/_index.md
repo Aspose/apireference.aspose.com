@@ -1,14 +1,14 @@
 ---
 title: Order
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置InlineRelationshipaspose.finance.xbrl.inline/inlinerelationship的顺序
+description: 获取或设置的顺序InlineRelationshipaspose.finance.xbrl.inline/inlinerelationship.
 type: docs
 weight: 40
 url: /zh/net/aspose.finance.xbrl.inline/inlinerelationship/order/
 ---
 ## InlineRelationship.Order property
 
-获取或设置[`InlineRelationship`](../../inlinerelationship)的顺序。
+获取或设置的顺序[`InlineRelationship`](../../inlinerelationship).
 
 ```csharp
 public decimal Order { get; set; }

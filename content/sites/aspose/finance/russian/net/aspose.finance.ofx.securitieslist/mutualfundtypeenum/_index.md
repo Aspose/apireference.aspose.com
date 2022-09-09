@@ -1,14 +1,14 @@
 ---
 title: MutualFundTypeEnum
 second_title: Справочник по API Aspose.Finance для .NET
-description: Тип взаимных фондов enum.
+description: Тип взаимного фонда enum.
 type: docs
 weight: 5080
 url: /ru/net/aspose.finance.ofx.securitieslist/mutualfundtypeenum/
 ---
 ## MutualFundTypeEnum enumeration
 
-Тип взаимных фондов enum.
+Тип взаимного фонда enum.
 
 ```csharp
 public enum MutualFundTypeEnum
@@ -18,8 +18,8 @@ public enum MutualFundTypeEnum
 
 | Имя | Ценность | Описание |
 | --- | --- | --- |
-| OPENEND | `0` | Открытый конец |
-| CLOSEEND | `1` | Закрыть Конец |
+| OPENEND | `0` | Открыть Конец |
+| CLOSEEND | `1` | Закрыть End |
 | OTHER | `2` | Другое |
 
 ### Смотрите также

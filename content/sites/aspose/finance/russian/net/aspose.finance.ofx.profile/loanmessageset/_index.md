@@ -1,14 +1,14 @@
 ---
 title: LoanMessageSet
 second_title: Справочник по API Aspose.Finance для .NET
-description: Установлено сообщение о займе.
+description: Набор сообщений о займе.
 type: docs
 weight: 4570
 url: /ru/net/aspose.finance.ofx.profile/loanmessageset/
 ---
 ## LoanMessageSet class
 
-Установлено сообщение о займе.
+Набор сообщений о займе.
 
 ```csharp
 public class LoanMessageSet : AbstractMessageSet
@@ -18,13 +18,13 @@ public class LoanMessageSet : AbstractMessageSet
 
 | Имя | Описание |
 | --- | --- |
-| [LoanMessageSet](loanmessageset)() | Инициализирует новый экземпляр класса[`LoanMessageSet`](../loanmessageset). |
+| [LoanMessageSet](loanmessageset)() | Инициализирует новый экземпляр[`LoanMessageSet`](../loanmessageset) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [LoanMessageSetV1](../../aspose.finance.ofx.profile/loanmessageset/loanmessagesetv1) { get; set; } | Получает или задает[`LoanMessageSetV1`](./loanmessagesetv1). |
+| [LoanMessageSetV1](../../aspose.finance.ofx.profile/loanmessageset/loanmessagesetv1) { get; set; } | Получает или задает[`LoanMessageSetV1`](./loanmessagesetv1) . |
 
 ### Смотрите также
 

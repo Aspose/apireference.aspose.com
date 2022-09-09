@@ -1,14 +1,14 @@
 ---
 title: MessageSetCore
 second_title: Справочник по API Aspose.Finance для .NET
-description: Общий информационный класс набора сообщений.
+description: Общий класс информации о наборе сообщений.
 type: docs
 weight: 4590
 url: /ru/net/aspose.finance.ofx.profile/messagesetcore/
 ---
 ## MessageSetCore class
 
-Общий информационный класс набора сообщений.
+Общий класс информации о наборе сообщений.
 
 ```csharp
 public class MessageSetCore
@@ -18,21 +18,21 @@ public class MessageSetCore
 
 | Имя | Описание |
 | --- | --- |
-| [MessageSetCore](messagesetcore)() | Инициализирует новый экземпляр класса[`MessageSetCore`](../messagesetcore). |
+| [MessageSetCore](messagesetcore)() | Инициализирует новый экземпляр[`MessageSetCore`](../messagesetcore) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
 | [Languages](../../aspose.finance.ofx.profile/messagesetcore/languages) { get; set; } | Получает или задает поддерживаемые языки. |
-| [OfxExtension](../../aspose.finance.ofx.profile/messagesetcore/ofxextension) { get; set; } | Получает или задает[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
-| [OfxSecurity](../../aspose.finance.ofx.profile/messagesetcore/ofxsecurity) { get; set; } | Получает или задает уровень безопасности, необходимый для данного набора сообщений. |
+| [OfxExtension](../../aspose.finance.ofx.profile/messagesetcore/ofxextension) { get; set; } | Получает или задает[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype) . |
+| [OfxSecurity](../../aspose.finance.ofx.profile/messagesetcore/ofxsecurity) { get; set; } | Получает или задает уровень безопасности, необходимый для этого набора сообщений. |
 | [RecoverFileError](../../aspose.finance.ofx.profile/messagesetcore/recoverfileerror) { get; set; } | Получает или задает, поддерживает ли сервер восстановление после ошибок на основе файлов. |
 | [RefreshSupport](../../aspose.finance.ofx.profile/messagesetcore/refreshsupport) { get; set; } | Получает или задает, поддерживает ли сервер обновление при синхронизации. |
 | [ServiceProviderName](../../aspose.finance.ofx.profile/messagesetcore/serviceprovidername) { get; set; } | Получает или задает имя поставщика услуг. |
-| [SignonRealm](../../aspose.finance.ofx.profile/messagesetcore/signonrealm) { get; set; } | Получает или задает область входа в систему для использования с этим набором сообщений. |
+| [SignonRealm](../../aspose.finance.ofx.profile/messagesetcore/signonrealm) { get; set; } | Получает или задает область входа для использования с этим набором сообщений. |
 | [SyncMode](../../aspose.finance.ofx.profile/messagesetcore/syncmode) { get; set; } | Получает или задает режим синхронизации. |
-| [TransportSecurity](../../aspose.finance.ofx.profile/messagesetcore/transportsecurity) { get; set; } | Возвращает или задает необходимость использования безопасности на транспортном уровне. |
+| [TransportSecurity](../../aspose.finance.ofx.profile/messagesetcore/transportsecurity) { get; set; } | Получает или задает необходимость использования безопасности на транспортном уровне. |
 | [Url](../../aspose.finance.ofx.profile/messagesetcore/url) { get; set; } | Получает или задает URL-адрес, по которому должны отправляться сообщения из этого набора. |
 | [Version](../../aspose.finance.ofx.profile/messagesetcore/version) { get; set; } | Получает или задает номер версии набора сообщений. |
 

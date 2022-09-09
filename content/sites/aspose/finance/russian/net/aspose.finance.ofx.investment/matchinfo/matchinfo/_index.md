@@ -1,14 +1,14 @@
 ---
 title: MatchInfo
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаMatchInfoaspose.finance.ofx.investment/matchinfo.
+description: Инициализирует новый экземплярMatchInfoaspose.finance.ofx.investment/matchinfo класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.investment/matchinfo/matchinfo/
 ---
 ## MatchInfo constructor
 
-Инициализирует новый экземпляр класса[`MatchInfo`](../../matchinfo).
+Инициализирует новый экземпляр[`MatchInfo`](../../matchinfo) класс.
 
 ```csharp
 public MatchInfo()

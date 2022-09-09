@@ -1,14 +1,14 @@
 ---
 title: InlineXbrlDocument
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化InlineXbrlDocumentaspose.finance.xbrl.inline/inlinexbrldocument类的新实例并打开一个文件
+description: 初始化一个新的实例InlineXbrlDocumentaspose.finance.xbrl.inline/inlinexbrldocument上课并打开一个文件
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.xbrl.inline/inlinexbrldocument/inlinexbrldocument/
 ---
 ## InlineXbrlDocument constructor
 
-初始化[`InlineXbrlDocument`](../../inlinexbrldocument)类的新实例并打开一个文件。
+初始化一个新的实例[`InlineXbrlDocument`](../../inlinexbrldocument)上课并打开一个文件。
 
 ```csharp
 public InlineXbrlDocument(string fileName)

@@ -1,14 +1,14 @@
 ---
 title: StateDistribution
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает распределение состояния.
+description: Получает или задает распределение состояний.
 type: docs
 weight: 50
 url: /ru/net/aspose.finance.ofx.tax1099/statetaxwithheldaggregate/statedistribution/
 ---
 ## StateTaxWithheldAggregate.StateDistribution property
 
-Получает или задает распределение состояния.
+Получает или задает распределение состояний.
 
 ```csharp
 public string StateDistribution { get; set; }

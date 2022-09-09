@@ -1,14 +1,14 @@
 ---
 title: LoanDetail
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置LoanDetailTypeaspose.finance.ofx/loandetailtype
+description: 获取或设置LoanDetailTypeaspose.finance.ofx/loandetailtype.
 type: docs
 weight: 70
 url: /zh/net/aspose.finance.ofx/creditlineinfotype/loandetail/
 ---
 ## CreditLineInfoType.LoanDetail property
 
-获取或设置[`LoanDetailType`](../../loandetailtype)。
+获取或设置[`LoanDetailType`](../../loandetailtype).
 
 ```csharp
 public LoanDetailType LoanDetail { get; set; }

@@ -18,15 +18,15 @@ public class AmortizationTransactionList
 
 | 姓名 | 描述 |
 | --- | --- |
-| [AmortizationTransactionList](amortizationtransactionlist)() | 初始化[`AmortizationTransactionList`](../amortizationtransactionlist)类的新实例。 |
+| [AmortizationTransactionList](amortizationtransactionlist)() | 初始化一个新的实例[`AmortizationTransactionList`](../amortizationtransactionlist)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [AmortizationTransactions](../../aspose.finance.ofx.loan/amortizationtransactionlist/amortizationtransactions) { get; set; } | 获取或设置[`AmortizationTransaction`](../amortizationtransaction)的集合。 |
+| [AmortizationTransactions](../../aspose.finance.ofx.loan/amortizationtransactionlist/amortizationtransactions) { get; set; } | 获取或设置的集合[`AmortizationTransaction`](../amortizationtransaction). |
 | [EndDate](../../aspose.finance.ofx.loan/amortizationtransactionlist/enddate) { get; set; } | 获取或设置交易数据的结束日期。 |
-| [StartDate](../../aspose.finance.ofx.loan/amortizationtransactionlist/startdate) { get; set; } | 获取或设置事务数据的开始日期。 |
+| [StartDate](../../aspose.finance.ofx.loan/amortizationtransactionlist/startdate) { get; set; } | 获取或设置交易数据的开始日期。 |
 
 ### 也可以看看
 

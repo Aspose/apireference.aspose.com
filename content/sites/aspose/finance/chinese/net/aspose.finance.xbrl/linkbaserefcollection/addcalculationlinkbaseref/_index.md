@@ -1,14 +1,14 @@
 ---
 title: AddCalculationLinkbaseRef
 second_title: Aspose.Finance for .NET API 参考
-description: 将CalculationLinkbaseRefaspose.finance.xbrl/calculationlinkbaseref添加到集合中
+description: 添加一个CalculationLinkbaseRefaspose.finance.xbrl/calculationlinkbaseref收藏.
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.xbrl/linkbaserefcollection/addcalculationlinkbaseref/
 ---
 ## LinkbaseRefCollection.AddCalculationLinkbaseRef method
 
-将[`CalculationLinkbaseRef`](../../calculationlinkbaseref)添加到集合中。
+添加一个[`CalculationLinkbaseRef`](../../calculationlinkbaseref)收藏.
 
 ```csharp
 public void AddCalculationLinkbaseRef(string href)

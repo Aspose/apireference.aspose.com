@@ -1,14 +1,14 @@
 ---
 title: ArcUse
 second_title: Aspose.Finance for .NET API 参考
-description: arc 使用枚举
+description: 弧使用枚举
 type: docs
 weight: 6470
 url: /zh/net/aspose.finance.xbrl/arcuse/
 ---
 ## ArcUse enumeration
 
-arc 使用枚举。
+弧使用枚举。
 
 ```csharp
 public enum ArcUse
@@ -19,8 +19,8 @@ public enum ArcUse
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
 | Unspecified | `0` | 尚未指定此弧的用途。 |
-| Optional | `1` | 该弧的使用是可选的。 |
-| Prohibited | `2` | 禁止使用此弧。 |
+| Optional | `1` | 这个弧的使用是可选的。 |
+| Prohibited | `2` | 禁止使用此弧线。 |
 
 ### 也可以看看
 

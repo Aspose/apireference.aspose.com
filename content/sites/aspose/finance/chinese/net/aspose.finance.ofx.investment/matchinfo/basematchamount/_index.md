@@ -1,14 +1,14 @@
 ---
 title: BaseMatchAmount
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置如果雇员完全参与计划则由雇主贡献的固定美元金额
+description: 获取或设置在雇员完全参与计划时由雇主贡献的固定美元金额
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.ofx.investment/matchinfo/basematchamount/
 ---
 ## MatchInfo.BaseMatchAmount property
 
-获取或设置如果雇员完全参与计划，则由雇主贡献的固定美元金额。
+获取或设置在雇员完全参与计划时由雇主贡献的固定美元金额。
 
 ```csharp
 public string BaseMatchAmount { get; set; }

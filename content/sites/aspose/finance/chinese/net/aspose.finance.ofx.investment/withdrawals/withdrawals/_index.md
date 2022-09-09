@@ -1,14 +1,14 @@
 ---
 title: Withdrawals
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化Withdrawalsaspose.finance.ofx.investment/withdrawals类的新实例
+description: 初始化一个新的实例Withdrawalsaspose.finance.ofx.investment/withdrawals类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.investment/withdrawals/withdrawals/
 ---
 ## Withdrawals constructor
 
-初始化[`Withdrawals`](../../withdrawals)类的新实例。
+初始化一个新的实例[`Withdrawals`](../../withdrawals)类.
 
 ```csharp
 public Withdrawals()

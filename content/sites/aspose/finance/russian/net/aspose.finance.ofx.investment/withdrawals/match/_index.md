@@ -1,14 +1,14 @@
 ---
 title: Match
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает совпадающие выплаты работодателя.
+description: Получает или задает соответствие снятий средств работодателем.
 type: docs
 weight: 30
 url: /ru/net/aspose.finance.ofx.investment/withdrawals/match/
 ---
 ## Withdrawals.Match property
 
-Получает или задает совпадающие выплаты работодателя.
+Получает или задает соответствие снятий средств работодателем.
 
 ```csharp
 public string Match { get; set; }

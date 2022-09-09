@@ -1,14 +1,14 @@
 ---
 title: AddLabelLinkbaseRef
 second_title: Справочник по API Aspose.Finance для .NET
-description: ДобавьтеLabelLinkbaseRefaspose.finance.xbrl/labellinkbaserefв коллекцию.
+description: ДобавитьLabelLinkbaseRefaspose.finance.xbrl/labellinkbaserefв коллекцию.
 type: docs
 weight: 50
 url: /ru/net/aspose.finance.xbrl/linkbaserefcollection/addlabellinkbaseref/
 ---
 ## LinkbaseRefCollection.AddLabelLinkbaseRef method
 
-Добавьте[`LabelLinkbaseRef`](../../labellinkbaseref)в коллекцию.
+Добавить[`LabelLinkbaseRef`](../../labellinkbaseref)в коллекцию.
 
 ```csharp
 public void AddLabelLinkbaseRef(string href)
@@ -16,7 +16,7 @@ public void AddLabelLinkbaseRef(string href)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| href | String | Метка базы ссылок href. |
+| href | String | База ссылок ярлыка href. |
 
 ### Смотрите также
 

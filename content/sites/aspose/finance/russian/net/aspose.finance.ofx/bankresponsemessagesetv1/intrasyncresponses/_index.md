@@ -1,14 +1,14 @@
 ---
 title: IntraSyncResponses
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает коллекциюIntraSyncResponseaspose.finance.ofx.bank/intrasyncresponse.
+description: Получает или задает коллекциюIntraSyncResponseaspose.finance.ofx.bank/intrasyncresponse .
 type: docs
 weight: 40
 url: /ru/net/aspose.finance.ofx/bankresponsemessagesetv1/intrasyncresponses/
 ---
 ## BankResponseMessageSetV1.IntraSyncResponses property
 
-Получает или задает коллекцию[`IntraSyncResponse`](../../../aspose.finance.ofx.bank/intrasyncresponse).
+Получает или задает коллекцию[`IntraSyncResponse`](../../../aspose.finance.ofx.bank/intrasyncresponse) .
 
 ```csharp
 public List<IntraSyncResponse> IntraSyncResponses { get; set; }

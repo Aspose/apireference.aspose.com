@@ -1,14 +1,14 @@
 ---
 title: StatementTransactionResponse
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаStatementTransactionResponseaspose.finance.ofx.bank/statementtransactionresponse.
+description: Инициализирует новый экземплярStatementTransactionResponseaspose.finance.ofx.bank/statementtransactionresponse класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.bank/statementtransactionresponse/statementtransactionresponse/
 ---
 ## StatementTransactionResponse constructor
 
-Инициализирует новый экземпляр класса[`StatementTransactionResponse`](../../statementtransactionresponse).
+Инициализирует новый экземпляр[`StatementTransactionResponse`](../../statementtransactionresponse) класс.
 
 ```csharp
 public StatementTransactionResponse()

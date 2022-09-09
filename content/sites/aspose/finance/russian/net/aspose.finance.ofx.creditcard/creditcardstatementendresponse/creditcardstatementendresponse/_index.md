@@ -1,14 +1,14 @@
 ---
 title: CreditCardStatementEndResponse
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаCreditCardStatementEndResponseaspose.finance.ofx.creditcard/creditcardstatementendresponse.
+description: Инициализирует новый экземплярCreditCardStatementEndResponseaspose.finance.ofx.creditcard/creditcardstatementendresponse класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.creditcard/creditcardstatementendresponse/creditcardstatementendresponse/
 ---
 ## CreditCardStatementEndResponse constructor
 
-Инициализирует новый экземпляр класса[`CreditCardStatementEndResponse`](../../creditcardstatementendresponse).
+Инициализирует новый экземпляр[`CreditCardStatementEndResponse`](../../creditcardstatementendresponse) класс.
 
 ```csharp
 public CreditCardStatementEndResponse()

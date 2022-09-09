@@ -1,14 +1,14 @@
 ---
 title: ServerId
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает идентификатор назначенный хост-сервером форме.
+description: Получает или задает идентификатор присвоенный хостсервером форме.
 type: docs
 weight: 130
 url: /ru/net/aspose.finance.ofx.tax1098/tax1098_v100/serverid/
 ---
 ## Tax1098_V100.ServerId property
 
-Получает или задает идентификатор, назначенный хост-сервером форме.
+Получает или задает идентификатор, присвоенный хост-сервером форме.
 
 ```csharp
 public string ServerId { get; set; }

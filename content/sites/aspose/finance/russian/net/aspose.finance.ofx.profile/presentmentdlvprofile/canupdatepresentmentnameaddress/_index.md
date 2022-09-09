@@ -1,14 +1,14 @@
 ---
 title: CanUpdatePresentmentNameAddress
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает поддерживает ли обновлениеPresentmentNameAddressaspose.finance.ofx/presentmentnameaddressсвязанный с конкретным счетом
+description: Получает или задает поддерживает ли обновлениеPresentmentNameAddressaspose.finance.ofx/presentmentnameaddress связанный с конкретным счетом
 type: docs
 weight: 40
 url: /ru/net/aspose.finance.ofx.profile/presentmentdlvprofile/canupdatepresentmentnameaddress/
 ---
 ## PresentmentDlvProfile.CanUpdatePresentmentNameAddress property
 
-Получает или задает, поддерживает ли обновление[`PresentmentNameAddress`](../../../aspose.finance.ofx/presentmentnameaddress)связанный с конкретным счетом,
+Получает или задает, поддерживает ли обновление[`PresentmentNameAddress`](../../../aspose.finance.ofx/presentmentnameaddress) связанный с конкретным счетом,
 
 ```csharp
 public bool CanUpdatePresentmentNameAddress { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: ContextSenario
 second_title: Справочник по API Aspose.Finance для .NET
-description: СценарийContext./context.
+description: СценарийContext./context .
 type: docs
 weight: 6580
 url: /ru/net/aspose.finance.xbrl/contextsenario/
 ---
 ## ContextSenario class
 
-Сценарий[`Context`](../context).
+Сценарий[`Context`](../context) .
 
 ```csharp
 public class ContextSenario

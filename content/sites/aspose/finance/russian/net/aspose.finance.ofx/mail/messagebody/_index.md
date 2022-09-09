@@ -1,14 +1,14 @@
 ---
 title: MessageBody
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает тело сообщения HTML-кодированный или обычный текст.
+description: Получает или задает текст сообщения HTMLкодированный или обычный текст.
 type: docs
 weight: 50
 url: /ru/net/aspose.finance.ofx/mail/messagebody/
 ---
 ## Mail.MessageBody property
 
-Получает или задает тело сообщения, HTML-кодированный или обычный текст.
+Получает или задает текст сообщения, HTML-кодированный или обычный текст.
 
 ```csharp
 public string MessageBody { get; set; }

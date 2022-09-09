@@ -1,14 +1,14 @@
 ---
 title: LoanStatementEndResponse
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задаетLoanStatementEndResponseaspose.finance.ofx.loan/loanstatementendtransactionresponse/loanstatementendresponse.
+description: Получает или задаетLoanStatementEndResponseaspose.finance.ofx.loan/loanstatementendtransactionresponse/loanstatementendresponse .
 type: docs
 weight: 20
 url: /ru/net/aspose.finance.ofx.loan/loanstatementendtransactionresponse/loanstatementendresponse/
 ---
 ## LoanStatementEndTransactionResponse.LoanStatementEndResponse property
 
-Получает или задает`LoanStatementEndResponse`.
+Получает или задает`LoanStatementEndResponse` .
 
 ```csharp
 public LoanStatementEndResponse LoanStatementEndResponse { get; set; }

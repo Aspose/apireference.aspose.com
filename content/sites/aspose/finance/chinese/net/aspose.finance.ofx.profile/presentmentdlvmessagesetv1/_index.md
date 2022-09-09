@@ -18,15 +18,15 @@ public class PresentmentDlvMessageSetV1 : AbstractMessageSetVersion
 
 | 姓名 | 描述 |
 | --- | --- |
-| [PresentmentDlvMessageSetV1](presentmentdlvmessagesetv1)() | 初始化[`PresentmentDlvMessageSetV1`](../presentmentdlvmessagesetv1)类的新实例。 |
+| [PresentmentDlvMessageSetV1](presentmentdlvmessagesetv1)() | 初始化一个新的实例[`PresentmentDlvMessageSetV1`](../presentmentdlvmessagesetv1)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [EmailProfile](../../aspose.finance.ofx.profile/presentmentdlvmessagesetv1/emailprofile) { get; set; } | 获取或设置[`EmailProfile`](./emailprofile)。 |
-| [MessageSetCore](../../aspose.finance.ofx.profile/abstractmessagesetversion/messagesetcore) { get; set; } | 获取或设置[`MessageSetCore`](../abstractmessagesetversion/messagesetcore)。 |
-| [PresentmentDlvProfile](../../aspose.finance.ofx.profile/presentmentdlvmessagesetv1/presentmentdlvprofile) { get; set; } | 获取或设置[`PresentmentDlvProfile`](./presentmentdlvprofile)。 |
+| [EmailProfile](../../aspose.finance.ofx.profile/presentmentdlvmessagesetv1/emailprofile) { get; set; } | 获取或设置[`EmailProfile`](./emailprofile). |
+| [MessageSetCore](../../aspose.finance.ofx.profile/abstractmessagesetversion/messagesetcore) { get; set; } | 获取或设置[`MessageSetCore`](../abstractmessagesetversion/messagesetcore). |
+| [PresentmentDlvProfile](../../aspose.finance.ofx.profile/presentmentdlvmessagesetv1/presentmentdlvprofile) { get; set; } | 获取或设置[`PresentmentDlvProfile`](./presentmentdlvprofile). |
 
 ### 也可以看看
 

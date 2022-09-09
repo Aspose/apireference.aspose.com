@@ -8,7 +8,7 @@ url: /zh/net/aspose.finance.ofx.billerdirectory/paymentinstrument/paymentinstrum
 ---
 ## PaymentInstrument.PaymentInstrumentType property
 
-获取或设置支付类型。
+获取或设置支付类型
 
 ```csharp
 public PaymentInstrumentEnum PaymentInstrumentType { get; set; }

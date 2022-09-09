@@ -1,14 +1,14 @@
 ---
 title: CanScheduledLoan
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置是否支持预定的贷款转移
+description: 获取或设置是否支持预定的贷款转账
 type: docs
 weight: 80
 url: /zh/net/aspose.finance.ofx.profile/transferprofile/canscheduledloan/
 ---
 ## TransferProfile.CanScheduledLoan property
 
-获取或设置是否支持预定的贷款转移。
+获取或设置是否支持预定的贷款转账。
 
 ```csharp
 public bool CanScheduledLoan { get; set; }

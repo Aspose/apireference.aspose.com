@@ -1,14 +1,14 @@
 ---
 title: UnitRef
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置对InlineFraction的Unitaspose.finance.xbrl/unit的引用
+description: 获取或设置对Unitaspose.finance.xbrl/unit的InlineFractionaspose.finance.xbrl.inline/inlinefraction.
 type: docs
 weight: 60
 url: /zh/net/aspose.finance.xbrl.inline/inlinefraction/unitref/
 ---
 ## InlineFraction.UnitRef property
 
-获取或设置对InlineFraction的[`Unit`](../../../aspose.finance.xbrl/unit)的引用。
+获取或设置对[`Unit`](../../../aspose.finance.xbrl/unit)的[`InlineFraction`](../../inlinefraction).
 
 ```csharp
 public Unit UnitRef { get; set; }

@@ -18,18 +18,18 @@ public class WireRequest : AbstractWireRequest
 
 | Имя | Описание |
 | --- | --- |
-| [WireRequest](wirerequest)() | Инициализирует новый экземпляр класса[`WireRequest`](../wirerequest). |
+| [WireRequest](wirerequest)() | Инициализирует новый экземпляр[`WireRequest`](../wirerequest) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [BankAccountFrom](../../aspose.finance.ofx.wiretransfer/wirerequest/bankaccountfrom) { get; set; } | Получает или задает значение из[`BankAccount`](../../aspose.finance.ofx/bankaccount). |
-| [DueDate](../../aspose.finance.ofx.wiretransfer/wirerequest/duedate) { get; set; } | Получает или задает дату возникновения. |
+| [BankAccountFrom](../../aspose.finance.ofx.wiretransfer/wirerequest/bankaccountfrom) { get; set; } | Получает или задает из[`BankAccount`](../../aspose.finance.ofx/bankaccount) . |
+| [DueDate](../../aspose.finance.ofx.wiretransfer/wirerequest/duedate) { get; set; } | Получает или задает Дату наступления. |
 | [PaymentInstruction](../../aspose.finance.ofx.wiretransfer/wirerequest/paymentinstruction) { get; set; } | Получает или задает платежные инструкции. |
 | [TransferAmount](../../aspose.finance.ofx.wiretransfer/wirerequest/transferamount) { get; set; } | Получает или задает сумму перевода. |
-| [WireBeneficiary](../../aspose.finance.ofx.wiretransfer/wirerequest/wirebeneficiary) { get; set; } | Получает или задает[`WireBeneficiary`](./wirebeneficiary). |
-| [WireDestinationBank](../../aspose.finance.ofx.wiretransfer/wirerequest/wiredestinationbank) { get; set; } | Получает или задает[`WireDestinationBank`](./wiredestinationbank). |
+| [WireBeneficiary](../../aspose.finance.ofx.wiretransfer/wirerequest/wirebeneficiary) { get; set; } | Получает или задает[`WireBeneficiary`](./wirebeneficiary) . |
+| [WireDestinationBank](../../aspose.finance.ofx.wiretransfer/wirerequest/wiredestinationbank) { get; set; } | Получает или задает[`WireDestinationBank`](./wiredestinationbank) . |
 
 ### Смотрите также
 

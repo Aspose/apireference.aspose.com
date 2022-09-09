@@ -1,14 +1,14 @@
 ---
 title: Tax1099MessageSetV1
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化Tax1099MessageSetV1aspose.finance.ofx.profile/tax1099messagesetv1类的新实例
+description: 初始化一个新的实例Tax1099MessageSetV1aspose.finance.ofx.profile/tax1099messagesetv1类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.profile/tax1099messagesetv1/tax1099messagesetv1/
 ---
 ## Tax1099MessageSetV1 constructor
 
-初始化[`Tax1099MessageSetV1`](../../tax1099messagesetv1)类的新实例。
+初始化一个新的实例[`Tax1099MessageSetV1`](../../tax1099messagesetv1)类.
 
 ```csharp
 public Tax1099MessageSetV1()

@@ -1,14 +1,14 @@
 ---
 title: Codes
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化Codesaspose.finance.ofx.taxw2/codes类的新实例
+description: 初始化一个新的实例Codesaspose.finance.ofx.taxw2/codes类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.taxw2/codes/codes/
 ---
 ## Codes constructor
 
-初始化[`Codes`](../../codes)类的新实例。
+初始化一个新的实例[`Codes`](../../codes)类.
 
 ```csharp
 public Codes()

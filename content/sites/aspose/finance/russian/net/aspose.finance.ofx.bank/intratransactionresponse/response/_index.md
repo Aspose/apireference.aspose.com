@@ -1,14 +1,14 @@
 ---
 title: Response
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задаетIntraResponseaspose.finance.ofx.bank/intraresponseилиIntraModResponseaspose.finance.ofx.bank/intramodresponseилиIntraCancellationResponseaspose.finance.ofx.bank/intracancellationresponse.
+description: Получает или задаетIntraResponseaspose.finance.ofx.bank/intraresponse или жеIntraModResponseaspose.finance.ofx.bank/intramodresponse или жеIntraCancellationResponseaspose.finance.ofx.bank/intracancellationresponse .
 type: docs
 weight: 30
 url: /ru/net/aspose.finance.ofx.bank/intratransactionresponse/response/
 ---
 ## IntraTransactionResponse.Response property
 
-Получает или задает[`IntraResponse`](../../intraresponse)или[`IntraModResponse`](../../intramodresponse)или[`IntraCancellationResponse`](../../intracancellationresponse).
+Получает или задает[`IntraResponse`](../../intraresponse) или же[`IntraModResponse`](../../intramodresponse) или же[`IntraCancellationResponse`](../../intracancellationresponse) .
 
 ```csharp
 public AbstractIntraResponse Response { get; set; }

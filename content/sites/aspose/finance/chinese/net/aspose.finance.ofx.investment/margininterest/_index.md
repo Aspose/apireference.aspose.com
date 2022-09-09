@@ -1,14 +1,14 @@
 ---
 title: MarginInterest
 second_title: Aspose.Finance for .NET API 参考
-description: 投资保证金利息等级
+description: 投资保证金利息类
 type: docs
 weight: 3200
 url: /zh/net/aspose.finance.ofx.investment/margininterest/
 ---
 ## MarginInterest class
 
-投资保证金利息等级。
+投资保证金利息类
 
 ```csharp
 public class MarginInterest : AbstractInvestmentTransaction
@@ -18,15 +18,15 @@ public class MarginInterest : AbstractInvestmentTransaction
 
 | 姓名 | 描述 |
 | --- | --- |
-| [MarginInterest](margininterest)() | 初始化[`MarginInterest`](../margininterest)类的新实例。 |
+| [MarginInterest](margininterest)() | 初始化一个新的实例[`MarginInterest`](../margininterest)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Currency](../../aspose.finance.ofx.investment/margininterest/currency) { get; set; } | 获取或设置[`Currency`](./currency)。 |
-| [InvestmentTransaction](../../aspose.finance.ofx.investment/abstractinvestmenttransaction/investmenttransaction) { get; set; } | 获取或设置[`InvestmentTransaction`](../abstractinvestmenttransaction/investmenttransaction)。 |
-| [OriginCurrency](../../aspose.finance.ofx.investment/margininterest/origincurrency) { get; set; } | 获取或设置原点[`Currency`](./currency)。 |
+| [Currency](../../aspose.finance.ofx.investment/margininterest/currency) { get; set; } | 获取或设置[`Currency`](./currency). |
+| [InvestmentTransaction](../../aspose.finance.ofx.investment/abstractinvestmenttransaction/investmenttransaction) { get; set; } | 获取或设置[`InvestmentTransaction`](../abstractinvestmenttransaction/investmenttransaction). |
+| [OriginCurrency](../../aspose.finance.ofx.investment/margininterest/origincurrency) { get; set; } | 获取或设置原点[`Currency`](./currency). |
 | [SubAccountFund](../../aspose.finance.ofx.investment/margininterest/subaccountfund) { get; set; } | 获取或设置交易的钱从哪里来或去哪里。 |
 | [Total](../../aspose.finance.ofx.investment/margininterest/total) { get; set; } | 获取或设置交易总额。 |
 

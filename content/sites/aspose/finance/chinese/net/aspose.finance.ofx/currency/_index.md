@@ -1,14 +1,14 @@
 ---
 title: Currency
 second_title: Aspose.Finance for .NET API 参考
-description: 货币类
+description: 货币类.
 type: docs
 weight: 2090
 url: /zh/net/aspose.finance.ofx/currency/
 ---
 ## Currency class
 
-货币类。
+货币类.
 
 ```csharp
 public class Currency
@@ -18,13 +18,13 @@ public class Currency
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Currency](currency)() | 初始化[`Currency`](../currency)类的新实例。 |
+| [Currency](currency)() | 初始化一个新的实例[`Currency`](../currency)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [CurrencyRate](../../aspose.finance.ofx/currency/currencyrate) { get; set; } | 以十进制表示法获取或设置比率。 |
+| [CurrencyRate](../../aspose.finance.ofx/currency/currencyrate) { get; set; } | 获取或设置比率，以十进制表示。 |
 | [CurSym](../../aspose.finance.ofx/currency/cursym) { get; set; } | 获取或设置货币标识符。 |
 
 ### 也可以看看

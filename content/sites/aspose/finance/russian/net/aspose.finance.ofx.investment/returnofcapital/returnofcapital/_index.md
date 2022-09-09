@@ -1,14 +1,14 @@
 ---
 title: ReturnOfCapital
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаReturnOfCapitalaspose.finance.ofx.investment/returnofcapital.
+description: Инициализирует новый экземплярReturnOfCapitalaspose.finance.ofx.investment/returnofcapital класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.investment/returnofcapital/returnofcapital/
 ---
 ## ReturnOfCapital constructor
 
-Инициализирует новый экземпляр класса[`ReturnOfCapital`](../../returnofcapital).
+Инициализирует новый экземпляр[`ReturnOfCapital`](../../returnofcapital) класс.
 
 ```csharp
 public ReturnOfCapital()

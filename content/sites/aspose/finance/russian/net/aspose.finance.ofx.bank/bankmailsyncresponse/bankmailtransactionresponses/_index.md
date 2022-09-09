@@ -1,14 +1,14 @@
 ---
 title: BankMailTransactionResponses
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает коллекциюBankMailTransactionResponseaspose.finance.ofx.bank/bankmailtransactionresponse.
+description: Получает или задает коллекциюBankMailTransactionResponseaspose.finance.ofx.bank/bankmailtransactionresponse .
 type: docs
 weight: 30
 url: /ru/net/aspose.finance.ofx.bank/bankmailsyncresponse/bankmailtransactionresponses/
 ---
 ## BankMailSyncResponse.BankMailTransactionResponses property
 
-Получает или задает коллекцию[`BankMailTransactionResponse`](../../bankmailtransactionresponse).
+Получает или задает коллекцию[`BankMailTransactionResponse`](../../bankmailtransactionresponse) .
 
 ```csharp
 public List<BankMailTransactionResponse> BankMailTransactionResponses { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: PresentmentNameAddress
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задаетPresentmentNameAddressaspose.finance.ofx/presentmentaccount/presentmentnameaddress.
+description: Получает или задаетPresentmentNameAddressaspose.finance.ofx/presentmentaccount/presentmentnameaddress .
 type: docs
 weight: 80
 url: /ru/net/aspose.finance.ofx/presentmentaccount/presentmentnameaddress/
 ---
 ## PresentmentAccount.PresentmentNameAddress property
 
-Получает или задает`PresentmentNameAddress`.
+Получает или задает`PresentmentNameAddress` .
 
 ```csharp
 public PresentmentNameAddress PresentmentNameAddress { get; set; }

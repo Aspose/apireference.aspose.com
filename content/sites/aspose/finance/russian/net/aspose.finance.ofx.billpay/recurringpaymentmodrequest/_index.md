@@ -18,7 +18,7 @@ public class RecurringPaymentModRequest : AbstractRecurringPaymentRequest
 
 | Имя | Описание |
 | --- | --- |
-| [RecurringPaymentModRequest](recurringpaymentmodrequest)() | Инициализирует новый экземпляр класса[`RecurringPaymentModRequest`](../recurringpaymentmodrequest). |
+| [RecurringPaymentModRequest](recurringpaymentmodrequest)() | Инициализирует новый экземпляр[`RecurringPaymentModRequest`](../recurringpaymentmodrequest) класс. |
 
 ## Характеристики
 
@@ -27,9 +27,9 @@ public class RecurringPaymentModRequest : AbstractRecurringPaymentRequest
 | [FinalAmount](../../aspose.finance.ofx.billpay/recurringpaymentmodrequest/finalamount) { get; set; } | Получает или задает сумму окончательного платежа. |
 | [InitialAmount](../../aspose.finance.ofx.billpay/recurringpaymentmodrequest/initialamount) { get; set; } | Получает или задает сумму первоначального платежа. |
 | [ModifyPending](../../aspose.finance.ofx.billpay/recurringpaymentmodrequest/modifypending) { get; set; } | Получает или устанавливает флаг ожидания изменения. Если клиент устанавливает этот флаг, сервер должен изменить ожидающие и будущие платежи. |
-| [PaymentInfo](../../aspose.finance.ofx.billpay/recurringpaymentmodrequest/paymentinfo) { get; set; } | Получает или задает[`PaymentInfo`](./paymentinfo). |
-| [RecurringInstructions](../../aspose.finance.ofx.billpay/recurringpaymentmodrequest/recurringinstructions) { get; set; } | Получает или задает[`RecurringInstructions`](./recurringinstructions). |
-| [ReferenceServerId](../../aspose.finance.ofx.billpay/recurringpaymentmodrequest/referenceserverid) { get; set; } | Получает или задает идентификатор, присвоенный сервером модифицируемому платежу. |
+| [PaymentInfo](../../aspose.finance.ofx.billpay/recurringpaymentmodrequest/paymentinfo) { get; set; } | Получает или задает[`PaymentInfo`](./paymentinfo) . |
+| [RecurringInstructions](../../aspose.finance.ofx.billpay/recurringpaymentmodrequest/recurringinstructions) { get; set; } | Получает или задает[`RecurringInstructions`](./recurringinstructions) . |
+| [ReferenceServerId](../../aspose.finance.ofx.billpay/recurringpaymentmodrequest/referenceserverid) { get; set; } | Получает или задает идентификатор, присвоенный сервером изменяемому платежу. |
 
 ### Смотрите также
 

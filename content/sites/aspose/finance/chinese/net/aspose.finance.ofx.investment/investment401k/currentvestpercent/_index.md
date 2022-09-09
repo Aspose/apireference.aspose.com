@@ -1,14 +1,14 @@
 ---
 title: CurrentVestPercent
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置截至当前日期归属的雇主供款的估计百分比
+description: 获取或设置截至当前日期归属的雇主缴款的估计百分比
 type: docs
 weight: 40
 url: /zh/net/aspose.finance.ofx.investment/investment401k/currentvestpercent/
 ---
 ## Investment401k.CurrentVestPercent property
 
-获取或设置截至当前日期归属的雇主供款的估计百分比。
+获取或设置截至当前日期归属的雇主缴款的估计百分比。
 
 ```csharp
 public string CurrentVestPercent { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: ChallengeTransactionResponse
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置ChallengeTransactionResponseaspose.finance.ofx.signon/challengetransactionresponse
+description: 获取或设置ChallengeTransactionResponseaspose.finance.ofx.signon/challengetransactionresponse.
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.ofx/signonresponsemessagesetv1/challengetransactionresponse/
 ---
 ## SignonResponseMessageSetV1.ChallengeTransactionResponse property
 
-获取或设置[`ChallengeTransactionResponse`](../../../aspose.finance.ofx.signon/challengetransactionresponse)。
+获取或设置[`ChallengeTransactionResponse`](../../../aspose.finance.ofx.signon/challengetransactionresponse).
 
 ```csharp
 public ChallengeTransactionResponse ChallengeTransactionResponse { get; set; }

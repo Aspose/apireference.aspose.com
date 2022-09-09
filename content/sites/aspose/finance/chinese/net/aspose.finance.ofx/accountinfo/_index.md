@@ -8,7 +8,7 @@ url: /zh/net/aspose.finance.ofx/accountinfo/
 ---
 ## AccountInfo class
 
-账户信息类。
+账户信息类
 
 ```csharp
 public class AccountInfo
@@ -18,15 +18,15 @@ public class AccountInfo
 
 | 姓名 | 描述 |
 | --- | --- |
-| [AccountInfo](accountinfo)() | 初始化[`AccountInfo`](../accountinfo)类的新实例。 |
+| [AccountInfo](accountinfo)() | 初始化一个新的实例[`AccountInfo`](../accountinfo)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [AccountInfos](../../aspose.finance.ofx/accountinfo/accountinfos) { get; set; } | 获取或设置[`BankAccountInfo`](../bankaccountinfo)或[`LoanAccountInfo`](../loanaccountinfo)或的集合[`CreditCardAccountInfo`](../creditcardaccountinfo) 或[`BillPaymentAccountInfo`](../billpaymentaccountinfo)或[`InvestmentAccountInfo`](../investmentaccountinfo)或[`PresentmentAccountInfo`](../presentmentaccountinfo)。 |
+| [AccountInfos](../../aspose.finance.ofx/accountinfo/accountinfos) { get; set; } | 获取或设置的集合[`BankAccountInfo`](../bankaccountinfo)或者[`LoanAccountInfo`](../loanaccountinfo)或者[`CreditCardAccountInfo`](../creditcardaccountinfo) 或[`BillPaymentAccountInfo`](../billpaymentaccountinfo)或者[`InvestmentAccountInfo`](../investmentaccountinfo)或者[`PresentmentAccountInfo`](../presentmentaccountinfo). |
 | [Description](../../aspose.finance.ofx/accountinfo/description) { get; set; } | 获取或设置账户的描述 |
-| [HolderInfo](../../aspose.finance.ofx/accountinfo/holderinfo) { get; set; } | 获取或设置[`HolderInfoType`](../holderinfotype)。 |
+| [HolderInfo](../../aspose.finance.ofx/accountinfo/holderinfo) { get; set; } | 获取或设置[`HolderInfoType`](../holderinfotype). |
 | [Name](../../aspose.finance.ofx/accountinfo/name) { get; set; } | 获取或设置帐户的名称/用户定义的昵称。 |
 | [Phone](../../aspose.finance.ofx/accountinfo/phone) { get; set; } | 获取或设置帐户的电话号码。 |
 

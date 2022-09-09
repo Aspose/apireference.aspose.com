@@ -1,14 +1,14 @@
 ---
 title: Address2
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置付款人地址第 2 行
+description: 获取或设置付款人地址第2行.
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.ofx.tax1099/payeraddress/address2/
 ---
 ## PayerAddress.Address2 property
 
-获取或设置付款人地址，第 2 行。
+获取或设置付款人地址，第2行.
 
 ```csharp
 public string Address2 { get; set; }

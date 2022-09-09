@@ -1,0 +1,58 @@
+---
+title: OfxRequestDocument
+second_title: Referencia de API de Aspose.Finance para .NET
+description: Clase de documento de solicitud de ofx.
+type: docs
+weight: 4210
+url: /es/net/aspose.finance.ofx/ofxrequestdocument/
+---
+## OfxRequestDocument class
+
+Clase de documento de solicitud de ofx.
+
+```csharp
+public class OfxRequestDocument
+```
+
+## Constructores
+
+| Nombre | Descripción |
+| --- | --- |
+| [OfxRequestDocument](ofxrequestdocument#constructor)() | Inicializa una nueva instancia de[`OfxRequestDocument`](../ofxrequestdocument) clase. |
+| [OfxRequestDocument](ofxrequestdocument#constructor_1)(string) | Inicializa una nueva instancia de[`OfxRequestDocument`](../ofxrequestdocument) clase. |
+
+## Propiedades
+
+| Nombre | Descripción |
+| --- | --- |
+| [BankRequestMessageSetV1](../../aspose.finance.ofx/ofxrequestdocument/bankrequestmessagesetv1) { get; set; } | Obtiene o establece el[`BankRequestMessageSetV1`](./bankrequestmessagesetv1) . |
+| [BillPayRequestMessageSetV1](../../aspose.finance.ofx/ofxrequestdocument/billpayrequestmessagesetv1) { get; set; } | Obtiene o establece el[`BillPayRequestMessageSetV1`](./billpayrequestmessagesetv1) . |
+| [CreditcardRequestMessageSetV1](../../aspose.finance.ofx/ofxrequestdocument/creditcardrequestmessagesetv1) { get; set; } | Obtiene o establece el[`CreditcardRequestMessageSetV1`](./creditcardrequestmessagesetv1) . |
+| [EmailRequestMessageSetV1](../../aspose.finance.ofx/ofxrequestdocument/emailrequestmessagesetv1) { get; set; } | Obtiene o establece el[`EmailRequestMessageSetV1`](./emailrequestmessagesetv1) . |
+| [ImageRequestMessageSetV1](../../aspose.finance.ofx/ofxrequestdocument/imagerequestmessagesetv1) { get; set; } | Obtiene o establece el[`ImageRequestMessageSetV1`](./imagerequestmessagesetv1) . |
+| [InterTransferRequestMessageSetV1](../../aspose.finance.ofx/ofxrequestdocument/intertransferrequestmessagesetv1) { get; set; } | Obtiene o establece el[`InterTransferRequestMessageSetV1`](./intertransferrequestmessagesetv1) . |
+| [InvestmentStatementRequestMessageSetV1](../../aspose.finance.ofx/ofxrequestdocument/investmentstatementrequestmessagesetv1) { get; set; } | Obtiene o establece el[`InvestmentStatementRequestMessageSetV1`](./investmentstatementrequestmessagesetv1) . |
+| [LoanRequestMessageSetV1](../../aspose.finance.ofx/ofxrequestdocument/loanrequestmessagesetv1) { get; set; } | Obtiene o establece el[`LoanRequestMessageSetV1`](./loanrequestmessagesetv1) . |
+| [PresentmentDeliveryRequestMessageSetV1](../../aspose.finance.ofx/ofxrequestdocument/presentmentdeliveryrequestmessagesetv1) { get; set; } | Obtiene o establece el[`PresentmentDeliveryRequestMessageSetV1`](./presentmentdeliveryrequestmessagesetv1) . |
+| [PresentmentDirRequestMessageSetV1](../../aspose.finance.ofx/ofxrequestdocument/presentmentdirrequestmessagesetv1) { get; set; } | Obtiene o establece el[`PresentmentDirRequestMessageSetV1`](./presentmentdirrequestmessagesetv1) . |
+| [ProfileRequestMessageSetV1](../../aspose.finance.ofx/ofxrequestdocument/profilerequestmessagesetv1) { get; set; } | Obtiene o establece el[`ProfileRequestMessageSetV1`](./profilerequestmessagesetv1) . |
+| [SecurityListRequestMessageSetV1](../../aspose.finance.ofx/ofxrequestdocument/securitylistrequestmessagesetv1) { get; set; } | Obtiene o establece el[`SecurityListRequestMessageSetV1`](./securitylistrequestmessagesetv1) . |
+| [SignonRequestMessageSetV1](../../aspose.finance.ofx/ofxrequestdocument/signonrequestmessagesetv1) { get; set; } | Obtiene o establece el[`SignonRequestMessageSetV1`](./signonrequestmessagesetv1) . |
+| [SignupRequestMessageSetV1](../../aspose.finance.ofx/ofxrequestdocument/signuprequestmessagesetv1) { get; set; } | Obtiene o establece el[`SignupRequestMessageSetV1`](./signuprequestmessagesetv1) . |
+| [Tax1098RequestMessageSetV1](../../aspose.finance.ofx/ofxrequestdocument/tax1098requestmessagesetv1) { get; set; } | Obtiene o establece el[`Tax1098RequestMessageSetV1`](./tax1098requestmessagesetv1) . |
+| [Tax1099RequestMessageSetV1](../../aspose.finance.ofx/ofxrequestdocument/tax1099requestmessagesetv1) { get; set; } | Obtiene o establece el[`Tax1099RequestMessageSetV1`](./tax1099requestmessagesetv1) . |
+| [TaxW2RequestMessageSetV1](../../aspose.finance.ofx/ofxrequestdocument/taxw2requestmessagesetv1) { get; set; } | Obtiene o establece el[`TaxW2RequestMessageSetV1`](./taxw2requestmessagesetv1) . |
+| [WireTransferRequestMessageSetV1](../../aspose.finance.ofx/ofxrequestdocument/wiretransferrequestmessagesetv1) { get; set; } | Obtiene o establece el[`WireTransferRequestMessageSetV1`](./wiretransferrequestmessagesetv1) . |
+
+## Métodos
+
+| Nombre | Descripción |
+| --- | --- |
+| [Save](../../aspose.finance.ofx/ofxrequestdocument/save)(string, OfxVersionEnum) | Crea y guarda el archivo OFX en el disco. |
+
+### Ver también
+
+* espacio de nombres [Aspose.Finance.Ofx](../../aspose.finance.ofx)
+* asamblea [Aspose.Finance](../../)
+
+<!-- DO NOT EDIT: generated by xmldocmd for Aspose.Finance.dll -->

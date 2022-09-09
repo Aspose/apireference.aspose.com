@@ -1,14 +1,14 @@
 ---
 title: OpenOrderSellDebt
 second_title: Справочник по API Aspose.Finance для .NET
-description: Открытый ордер на продажу класса долга.
+description: Класс открытого ордера на продажу долга.
 type: docs
 weight: 3270
 url: /ru/net/aspose.finance.ofx.investment/openorderselldebt/
 ---
 ## OpenOrderSellDebt class
 
-Открытый ордер на продажу класса долга.
+Класс открытого ордера на продажу долга.
 
 ```csharp
 public class OpenOrderSellDebt : AbstractOpenOrder
@@ -18,13 +18,13 @@ public class OpenOrderSellDebt : AbstractOpenOrder
 
 | Имя | Описание |
 | --- | --- |
-| [OpenOrderSellDebt](openorderselldebt)() | Инициализирует новый экземпляр класса[`OpenOrderSellDebt`](../openorderselldebt). |
+| [OpenOrderSellDebt](openorderselldebt)() | Инициализирует новый экземпляр[`OpenOrderSellDebt`](../openorderselldebt) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [OpenOrder](../../aspose.finance.ofx.investment/abstractopenorder/openorder) { get; set; } | Получает или задает[`GeneralOpenOrder`](../generalopenorder). |
+| [OpenOrder](../../aspose.finance.ofx.investment/abstractopenorder/openorder) { get; set; } | Получает или задает[`GeneralOpenOrder`](../generalopenorder) . |
 
 ### Смотрите также
 

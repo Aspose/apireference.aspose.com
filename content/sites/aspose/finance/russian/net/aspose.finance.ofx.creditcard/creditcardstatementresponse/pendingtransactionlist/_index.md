@@ -1,14 +1,14 @@
 ---
 title: PendingTransactionList
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает значение изPendingTransactionListaspose.finance.ofx.creditcard/creditcardstatementresponse/pendingtransactionlist.
+description: Получает или задает изPendingTransactionListaspose.finance.ofx.creditcard/creditcardstatementresponse/pendingtransactionlist .
 type: docs
 weight: 130
 url: /ru/net/aspose.finance.ofx.creditcard/creditcardstatementresponse/pendingtransactionlist/
 ---
 ## CreditCardStatementResponse.PendingTransactionList property
 
-Получает или задает значение из`PendingTransactionList`.
+Получает или задает из`PendingTransactionList` .
 
 ```csharp
 public PendingTransactionList PendingTransactionList { get; set; }

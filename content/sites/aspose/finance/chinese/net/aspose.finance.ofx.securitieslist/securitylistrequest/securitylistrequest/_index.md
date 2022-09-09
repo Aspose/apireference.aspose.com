@@ -1,14 +1,14 @@
 ---
 title: SecurityListRequest
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化SecurityListRequestaspose.finance.ofx.securitieslist/securitylistrequest类的新实例
+description: 初始化一个新的实例SecurityListRequestaspose.finance.ofx.securitieslist/securitylistrequest类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.securitieslist/securitylistrequest/securitylistrequest/
 ---
 ## SecurityListRequest constructor
 
-初始化[`SecurityListRequest`](../../securitylistrequest)类的新实例。
+初始化一个新的实例[`SecurityListRequest`](../../securitylistrequest)类.
 
 ```csharp
 public SecurityListRequest()

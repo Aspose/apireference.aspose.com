@@ -20,7 +20,7 @@ public enum PaymentProcessStatusEnum
 | --- | --- | --- |
 | CANCELEDON | `0` | Пользователь отменил платеж |
 | WILLPROCESSON | `1` | Будет обработано |
-| PROCESSEDON | `2` | Принято к оплате |
+| PROCESSEDON | `2` | Обработано для оплаты |
 | NOFUNDSON | `3` | Нет средств для оплаты |
 | FAILEDON | `4` | Невозможно произвести оплату по неустановленным причинам |
 

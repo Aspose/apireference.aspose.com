@@ -18,20 +18,20 @@ public class BankMessageSetV1 : AbstractMessageSetVersion
 
 | Имя | Описание |
 | --- | --- |
-| [BankMessageSetV1](bankmessagesetv1)() | Инициализирует новый экземпляр класса[`BankMessageSetV1`](../bankmessagesetv1). |
+| [BankMessageSetV1](bankmessagesetv1)() | Инициализирует новый экземпляр[`BankMessageSetV1`](../bankmessagesetv1) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
 | [ClosingAvailable](../../aspose.finance.ofx.profile/bankmessagesetv1/closingavailable) { get; set; } | Получает или задает, доступна ли информация о закрытии оператора |
-| [EmailProfile](../../aspose.finance.ofx.profile/bankmessagesetv1/emailprofile) { get; set; } | Получает или задает[`EmailProfile`](./emailprofile). |
-| [ImageProfile](../../aspose.finance.ofx.profile/bankmessagesetv1/imageprofile) { get; set; } | Получает или задает[`ImageProfile`](./imageprofile). |
+| [EmailProfile](../../aspose.finance.ofx.profile/bankmessagesetv1/emailprofile) { get; set; } | Получает или задает[`EmailProfile`](./emailprofile) . |
+| [ImageProfile](../../aspose.finance.ofx.profile/bankmessagesetv1/imageprofile) { get; set; } | Получает или задает[`ImageProfile`](./imageprofile) . |
 | [InvalidAccountTypes](../../aspose.finance.ofx.profile/bankmessagesetv1/invalidaccounttypes) { get; set; } | Получает или задает коллекцию неподдерживаемого типа учетной записи. |
-| [MessageSetCore](../../aspose.finance.ofx.profile/abstractmessagesetversion/messagesetcore) { get; set; } | Получает или задает[`MessageSetCore`](../abstractmessagesetversion/messagesetcore). |
+| [MessageSetCore](../../aspose.finance.ofx.profile/abstractmessagesetversion/messagesetcore) { get; set; } | Получает или задает[`MessageSetCore`](../abstractmessagesetversion/messagesetcore) . |
 | [PendingAvailable](../../aspose.finance.ofx.profile/bankmessagesetv1/pendingavailable) { get; set; } | Получает или устанавливает флаг поддержки загрузки отложенной транзакции, по умолчанию false. |
-| [StopCheckProfile](../../aspose.finance.ofx.profile/bankmessagesetv1/stopcheckprofile) { get; set; } | Получает или задает[`StopCheckProfile`](./stopcheckprofile). |
-| [TransferProfile](../../aspose.finance.ofx.profile/bankmessagesetv1/transferprofile) { get; set; } | Получает или задает[`TransferProfile`](./transferprofile). |
+| [StopCheckProfile](../../aspose.finance.ofx.profile/bankmessagesetv1/stopcheckprofile) { get; set; } | Получает или задает[`StopCheckProfile`](./stopcheckprofile) . |
+| [TransferProfile](../../aspose.finance.ofx.profile/bankmessagesetv1/transferprofile) { get; set; } | Получает или задает[`TransferProfile`](./transferprofile) . |
 
 ### Смотрите также
 

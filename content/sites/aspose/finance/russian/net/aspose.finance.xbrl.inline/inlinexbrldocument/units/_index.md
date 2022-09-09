@@ -1,14 +1,14 @@
 ---
 title: Units
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает коллекциюUnitaspose.finance.xbrl/unitво встроенном документе XBRL.
+description: Получает коллекциюUnitaspose.finance.xbrl/unit во встроенном документе XBRL.
 type: docs
 weight: 100
 url: /ru/net/aspose.finance.xbrl.inline/inlinexbrldocument/units/
 ---
 ## InlineXbrlDocument.Units property
 
-Получает коллекцию[`Unit`](../../../aspose.finance.xbrl/unit)во встроенном документе XBRL.
+Получает коллекцию[`Unit`](../../../aspose.finance.xbrl/unit) во встроенном документе XBRL.
 
 ```csharp
 public List<Unit> Units { get; }

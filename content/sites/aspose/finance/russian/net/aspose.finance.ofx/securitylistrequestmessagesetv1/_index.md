@@ -18,13 +18,13 @@ public class SecurityListRequestMessageSetV1 : AbstractRequestMessageSet
 
 | Имя | Описание |
 | --- | --- |
-| [SecurityListRequestMessageSetV1](securitylistrequestmessagesetv1)() | Инициализирует новый экземпляр класса[`SecurityListRequestMessageSetV1`](../securitylistrequestmessagesetv1). |
+| [SecurityListRequestMessageSetV1](securitylistrequestmessagesetv1)() | Инициализирует новый экземпляр[`SecurityListRequestMessageSetV1`](../securitylistrequestmessagesetv1) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [SecurityListTransactionRequests](../../aspose.finance.ofx/securitylistrequestmessagesetv1/securitylisttransactionrequests) { get; set; } | Получает или задает коллекцию[`SecurityListTransactionRequest`](../../aspose.finance.ofx.securitieslist/securitylisttransactionrequest). |
+| [SecurityListTransactionRequests](../../aspose.finance.ofx/securitylistrequestmessagesetv1/securitylisttransactionrequests) { get; set; } | Получает или задает коллекцию[`SecurityListTransactionRequest`](../../aspose.finance.ofx.securitieslist/securitylisttransactionrequest) . |
 
 ### Смотрите также
 

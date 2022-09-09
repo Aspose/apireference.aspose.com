@@ -1,14 +1,14 @@
 ---
 title: PresentmentCounts
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化PresentmentCountsaspose.finance.ofx.billerdelivery/presentmentcounts类的新实例
+description: 初始化一个新的实例PresentmentCountsaspose.finance.ofx.billerdelivery/presentmentcounts类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.billerdelivery/presentmentcounts/presentmentcounts/
 ---
 ## PresentmentCounts constructor
 
-初始化[`PresentmentCounts`](../../presentmentcounts)类的新实例。
+初始化一个新的实例[`PresentmentCounts`](../../presentmentcounts)类.
 
 ```csharp
 public PresentmentCounts()

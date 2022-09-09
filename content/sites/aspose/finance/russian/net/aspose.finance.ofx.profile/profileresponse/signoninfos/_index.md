@@ -1,14 +1,14 @@
 ---
 title: SignonInfos
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает коллекциюSignonInfoaspose.finance.ofx.profile/signoninfo.
+description: Получает или задает коллекциюSignonInfoaspose.finance.ofx.profile/signoninfo .
 type: docs
 weight: 140
 url: /ru/net/aspose.finance.ofx.profile/profileresponse/signoninfos/
 ---
 ## ProfileResponse.SignonInfos property
 
-Получает или задает коллекцию[`SignonInfo`](../../signoninfo).
+Получает или задает коллекцию[`SignonInfo`](../../signoninfo) .
 
 ```csharp
 public List<SignonInfo> SignonInfos { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: Footnote
 second_title: Aspose.Finance for .NET API 参考
-description: 这个类是一个Xlink./xlink资源类型 这是FootnoteLink./footnotelink中唯一允许的资源
+description: 这个类是一个Xlink./xlink资源类型. 这是唯一允许的资源FootnoteLink./footnotelink.
 type: docs
 weight: 7630
 url: /zh/net/aspose.finance.xbrl/footnote/
 ---
 ## Footnote class
 
-这个类是一个[`Xlink`](../xlink)资源类型。 这是[`FootnoteLink`](../footnotelink)中唯一允许的资源。
+这个类是一个[`Xlink`](../xlink)资源类型. 这是唯一允许的资源[`FootnoteLink`](../footnotelink).
 
 ```csharp
 public class Footnote : Resource
@@ -18,7 +18,7 @@ public class Footnote : Resource
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Footnote](footnote)(string) | 初始化[`Footnote`](../footnote)类的新实例。 |
+| [Footnote](footnote)(string) | 初始化一个新的实例[`Footnote`](../footnote)类. |
 
 ## 特性
 

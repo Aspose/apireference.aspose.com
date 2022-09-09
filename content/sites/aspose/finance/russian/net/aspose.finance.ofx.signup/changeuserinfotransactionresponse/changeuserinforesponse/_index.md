@@ -1,14 +1,14 @@
 ---
 title: ChangeUserInfoResponse
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задаетChangeUserInfoResponseaspose.finance.ofx.signup/changeuserinfotransactionresponse/changeuserinforesponse.
+description: Получает или задаетChangeUserInfoResponseaspose.finance.ofx.signup/changeuserinfotransactionresponse/changeuserinforesponse .
 type: docs
 weight: 20
 url: /ru/net/aspose.finance.ofx.signup/changeuserinfotransactionresponse/changeuserinforesponse/
 ---
 ## ChangeUserInfoTransactionResponse.ChangeUserInfoResponse property
 
-Получает или задает`ChangeUserInfoResponse`.
+Получает или задает`ChangeUserInfoResponse` .
 
 ```csharp
 public ChangeUserInfoResponse ChangeUserInfoResponse { get; set; }

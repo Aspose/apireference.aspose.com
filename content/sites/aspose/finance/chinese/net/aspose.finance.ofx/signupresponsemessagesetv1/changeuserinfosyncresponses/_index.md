@@ -1,14 +1,14 @@
 ---
 title: ChangeUserInfoSyncResponses
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置ChangeUserInfoSyncResponseaspose.finance.ofx.signup/changeuserinfosyncresponse的集合
+description: 获取或设置的集合ChangeUserInfoSyncResponseaspose.finance.ofx.signup/changeuserinfosyncresponse.
 type: docs
 weight: 50
 url: /zh/net/aspose.finance.ofx/signupresponsemessagesetv1/changeuserinfosyncresponses/
 ---
 ## SignupResponseMessageSetV1.ChangeUserInfoSyncResponses property
 
-获取或设置[`ChangeUserInfoSyncResponse`](../../../aspose.finance.ofx.signup/changeuserinfosyncresponse)的集合。
+获取或设置的集合[`ChangeUserInfoSyncResponse`](../../../aspose.finance.ofx.signup/changeuserinfosyncresponse).
 
 ```csharp
 public List<ChangeUserInfoSyncResponse> ChangeUserInfoSyncResponses { get; set; }

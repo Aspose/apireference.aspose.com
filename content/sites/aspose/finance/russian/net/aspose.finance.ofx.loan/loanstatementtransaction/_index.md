@@ -18,29 +18,29 @@ public class LoanStatementTransaction
 
 | Имя | Описание |
 | --- | --- |
-| [LoanStatementTransaction](loanstatementtransaction)() | Инициализирует новый экземпляр класса[`LoanStatementTransaction`](../loanstatementtransaction). |
+| [LoanStatementTransaction](loanstatementtransaction)() | Инициализирует новый экземпляр[`LoanStatementTransaction`](../loanstatementtransaction) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [AccountTo](../../aspose.finance.ofx.loan/loanstatementtransaction/accountto) { get; set; } | Получает или задает для счета,[`BankAccount`](../../aspose.finance.ofx/bankaccount)или[`LoanAccount`](../../aspose.finance.ofx/loanaccount). |
+| [AccountTo](../../aspose.finance.ofx.loan/loanstatementtransaction/accountto) { get; set; } | Получает или устанавливает учетную запись,[`BankAccount`](../../aspose.finance.ofx/bankaccount) или же[`LoanAccount`](../../aspose.finance.ofx/loanaccount) . |
 | [CheckNumber](../../aspose.finance.ofx.loan/loanstatementtransaction/checknumber) { get; set; } | Получает или задает контрольный номер. |
 | [CorrectFITransactionId](../../aspose.finance.ofx.loan/loanstatementtransaction/correctfitransactionid) { get; set; } | Получает или задает исправленный идентификатор транзакции. Если присутствует, FITransactionId ранее отправленной транзакции, исправленной этой записью. |
 | [CorrectiveAction](../../aspose.finance.ofx.loan/loanstatementtransaction/correctiveaction) { get; set; } | Получает или задает корректирующее действие. |
-| [Currency](../../aspose.finance.ofx.loan/loanstatementtransaction/currency) { get; set; } | Получает или задает[`Currency`](./currency). |
+| [Currency](../../aspose.finance.ofx.loan/loanstatementtransaction/currency) { get; set; } | Получает или задает[`Currency`](./currency) . |
 | [ExtendedName](../../aspose.finance.ofx.loan/loanstatementtransaction/extendedname) { get; set; } | Получает или задает расширенное имя получателя платежа или описание транзакции. |
 | [FITransactionId](../../aspose.finance.ofx.loan/loanstatementtransaction/fitransactionid) { get; set; } | Получает или задает идентификатор транзакции, выданный финансовым учреждением. |
-| [ImageDatas](../../aspose.finance.ofx.loan/loanstatementtransaction/imagedatas) { get; set; } | Получает или задает коллекцию[`ImageData`](../../aspose.finance.ofx/imagedata). |
-| [LoanTransactionAmount](../../aspose.finance.ofx.loan/loanstatementtransaction/loantransactionamount) { get; set; } | Получает или задает[`LoanTransactionAmount`](./loantransactionamount). |
-| [LoanTransactionType](../../aspose.finance.ofx.loan/loanstatementtransaction/loantransactiontype) { get; set; } | Получает или задает тип транзакции ссуды. |
-| [Memo](../../aspose.finance.ofx.loan/loanstatementtransaction/memo) { get; set; } | Получает или задает дополнительную информацию. |
+| [ImageDatas](../../aspose.finance.ofx.loan/loanstatementtransaction/imagedatas) { get; set; } | Получает или задает коллекцию[`ImageData`](../../aspose.finance.ofx/imagedata) . |
+| [LoanTransactionAmount](../../aspose.finance.ofx.loan/loanstatementtransaction/loantransactionamount) { get; set; } | Получает или задает[`LoanTransactionAmount`](./loantransactionamount) . |
+| [LoanTransactionType](../../aspose.finance.ofx.loan/loanstatementtransaction/loantransactiontype) { get; set; } | Получает или задает тип кредитной транзакции. |
+| [Memo](../../aspose.finance.ofx.loan/loanstatementtransaction/memo) { get; set; } | Получает или устанавливает дополнительную информацию. |
 | [Name](../../aspose.finance.ofx.loan/loanstatementtransaction/name) { get; set; } | Получает или задает имя получателя платежа или описание транзакции. |
-| [OriginCurrency](../../aspose.finance.ofx.loan/loanstatementtransaction/origincurrency) { get; set; } | Получает или задает Origin[`Currency`](./currency). |
-| [PostedDate](../../aspose.finance.ofx.loan/loanstatementtransaction/posteddate) { get; set; } | Получает или задает дату публикации транзакции в аккаунте. |
+| [OriginCurrency](../../aspose.finance.ofx.loan/loanstatementtransaction/origincurrency) { get; set; } | Получает или задает источник[`Currency`](./currency) . |
+| [PostedDate](../../aspose.finance.ofx.loan/loanstatementtransaction/posteddate) { get; set; } | Получает или задает дату, когда транзакция была разнесена по счету. |
 | [ReferenceNumber](../../aspose.finance.ofx.loan/loanstatementtransaction/referencenumber) { get; set; } | Получает или задает ссылочный номер, который однозначно идентифицирует транзакцию. |
-| [ServerTransactionId](../../aspose.finance.ofx.loan/loanstatementtransaction/servertransactionid) { get; set; } | Получает или задает назначенный сервером идентификатор транзакции. |
-| [TransactionAmount](../../aspose.finance.ofx.loan/loanstatementtransaction/transactionamount) { get; set; } | Получает или задает сумму транзакции. |
+| [ServerTransactionId](../../aspose.finance.ofx.loan/loanstatementtransaction/servertransactionid) { get; set; } | Получает или задает идентификатор транзакции, назначенный сервером. |
+| [TransactionAmount](../../aspose.finance.ofx.loan/loanstatementtransaction/transactionamount) { get; set; } | Получает или устанавливает сумму транзакции. |
 | [UserDate](../../aspose.finance.ofx.loan/loanstatementtransaction/userdate) { get; set; } | Получает или задает дату транзакции, инициированной пользователем, если она известна. |
 
 ### Смотрите также

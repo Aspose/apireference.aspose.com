@@ -1,14 +1,14 @@
 ---
 title: RoleReferences
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает коллекцию объектовRoleReferenceaspose.finance.xbrl/rolereferenceв базе ссылок.
+description: Получает или задает коллекциюRoleReferenceaspose.finance.xbrl/rolereference объекты в базе ссылок.
 type: docs
 weight: 30
 url: /ru/net/aspose.finance.xbrl/linkbaseref/rolereferences/
 ---
 ## LinkbaseRef.RoleReferences property
 
-Получает или задает коллекцию объектов[`RoleReference`](../../rolereference)в базе ссылок.
+Получает или задает коллекцию[`RoleReference`](../../rolereference) объекты в базе ссылок.
 
 ```csharp
 public List<RoleReference> RoleReferences { get; set; }

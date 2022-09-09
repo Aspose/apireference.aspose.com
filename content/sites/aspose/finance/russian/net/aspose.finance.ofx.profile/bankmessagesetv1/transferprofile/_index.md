@@ -1,14 +1,14 @@
 ---
 title: TransferProfile
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задаетTransferProfileaspose.finance.ofx.profile/bankmessagesetv1/transferprofile.
+description: Получает или задаетTransferProfileaspose.finance.ofx.profile/bankmessagesetv1/transferprofile .
 type: docs
 weight: 80
 url: /ru/net/aspose.finance.ofx.profile/bankmessagesetv1/transferprofile/
 ---
 ## BankMessageSetV1.TransferProfile property
 
-Получает или задает`TransferProfile`.
+Получает или задает`TransferProfile` .
 
 ```csharp
 public TransferProfile TransferProfile { get; set; }

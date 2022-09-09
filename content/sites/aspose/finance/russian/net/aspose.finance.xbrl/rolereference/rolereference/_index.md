@@ -1,14 +1,14 @@
 ---
 title: RoleReference
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаRoleReferenceaspose.finance.xbrl/rolereference.
+description: Инициализирует новый экземплярRoleReferenceaspose.finance.xbrl/rolereference класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.xbrl/rolereference/rolereference/
 ---
 ## RoleReference constructor
 
-Инициализирует новый экземпляр класса[`RoleReference`](../../rolereference).
+Инициализирует новый экземпляр[`RoleReference`](../../rolereference) класс.
 
 ```csharp
 public RoleReference(RoleType roleType)

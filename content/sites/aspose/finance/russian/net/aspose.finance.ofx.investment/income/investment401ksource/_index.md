@@ -1,14 +1,14 @@
 ---
 title: Investment401kSource
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает источник денег для этой транзакции.
+description: Получает или устанавливает источник денег для этой транзакции.
 type: docs
 weight: 40
 url: /ru/net/aspose.finance.ofx.investment/income/investment401ksource/
 ---
 ## Income.Investment401kSource property
 
-Получает или задает источник денег для этой транзакции.
+Получает или устанавливает источник денег для этой транзакции.
 
 ```csharp
 public Investment401kSourceEnum Investment401kSource { get; set; }

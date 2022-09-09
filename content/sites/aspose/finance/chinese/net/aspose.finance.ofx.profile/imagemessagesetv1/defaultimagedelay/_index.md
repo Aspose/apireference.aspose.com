@@ -1,14 +1,14 @@
 ---
 title: DefaultImageDelay
 second_title: Aspose.Finance for .NET API 参考
-description: 当图像可用时从 ServerDate对于报表图像或 PostedDate对于交易图像获取或设置默认日历天数
+description: 获取或设置从 ServerDate用于报表图像或 PostedDate用于交易图像开始的默认日历天数当图像可用时
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.ofx.profile/imagemessagesetv1/defaultimagedelay/
 ---
 ## ImageMessageSetV1.DefaultImageDelay property
 
-当图像可用时，从 ServerDate（对于报表图像）或 PostedDate（对于交易图像）获取或设置默认日历天数。
+获取或设置从 ServerDate（用于报表图像）或 PostedDate（用于交易图像）开始的默认日历天数，当图像可用时。
 
 ```csharp
 public string DefaultImageDelay { get; set; }

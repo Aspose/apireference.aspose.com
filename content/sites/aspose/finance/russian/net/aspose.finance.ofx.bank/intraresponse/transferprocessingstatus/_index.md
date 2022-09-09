@@ -1,14 +1,14 @@
 ---
 title: TransferProcessingStatus
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задаетTransferProcessingStatusaspose.finance.ofx.bank/intraresponse/transferprocessingstatus.
+description: Получает или задаетTransferProcessingStatusaspose.finance.ofx.bank/intraresponse/transferprocessingstatus .
 type: docs
 weight: 70
 url: /ru/net/aspose.finance.ofx.bank/intraresponse/transferprocessingstatus/
 ---
 ## IntraResponse.TransferProcessingStatus property
 
-Получает или задает`TransferProcessingStatus`.
+Получает или задает`TransferProcessingStatus` .
 
 ```csharp
 public TransferProcessingStatus TransferProcessingStatus { get; set; }

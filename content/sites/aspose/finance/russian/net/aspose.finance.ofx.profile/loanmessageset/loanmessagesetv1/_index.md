@@ -1,14 +1,14 @@
 ---
 title: LoanMessageSetV1
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задаетLoanMessageSetV1aspose.finance.ofx.profile/loanmessageset/loanmessagesetv1.
+description: Получает или задаетLoanMessageSetV1aspose.finance.ofx.profile/loanmessageset/loanmessagesetv1 .
 type: docs
 weight: 20
 url: /ru/net/aspose.finance.ofx.profile/loanmessageset/loanmessagesetv1/
 ---
 ## LoanMessageSet.LoanMessageSetV1 property
 
-Получает или задает`LoanMessageSetV1`.
+Получает или задает`LoanMessageSetV1` .
 
 ```csharp
 public LoanMessageSetV1 LoanMessageSetV1 { get; set; }

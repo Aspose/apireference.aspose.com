@@ -18,15 +18,15 @@ public class MailTransactionRequest : AbstractTransactionRequest
 
 | Имя | Описание |
 | --- | --- |
-| [MailTransactionRequest](mailtransactionrequest)() | Инициализирует новый экземпляр класса[`MailTransactionRequest`](../mailtransactionrequest). |
+| [MailTransactionRequest](mailtransactionrequest)() | Инициализирует новый экземпляр[`MailTransactionRequest`](../mailtransactionrequest) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [ClientCookie](../../aspose.finance.ofx/abstracttransactionrequest/clientcookie) { get; set; } | Получает или задает данные, которые будут отображаться в ответе транзакции |
-| [MailRequest](../../aspose.finance.ofx.email/mailtransactionrequest/mailrequest) { get; set; } | Получает или задает[`MailRequest`](./mailrequest). |
-| [OfxExtension](../../aspose.finance.ofx.email/mailtransactionrequest/ofxextension) { get; set; } | Получает или задает[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
+| [ClientCookie](../../aspose.finance.ofx/abstracttransactionrequest/clientcookie) { get; set; } | Получает или задает данные, которые будут отражены в транзакции response |
+| [MailRequest](../../aspose.finance.ofx.email/mailtransactionrequest/mailrequest) { get; set; } | Получает или задает[`MailRequest`](./mailrequest) . |
+| [OfxExtension](../../aspose.finance.ofx.email/mailtransactionrequest/ofxextension) { get; set; } | Получает или задает[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype) . |
 | [TransactionAuthorizationNumber](../../aspose.finance.ofx/abstracttransactionrequest/transactionauthorizationnumber) { get; set; } | Получает или задает номер авторизации транзакции. |
 | [TransactionUniqueId](../../aspose.finance.ofx/abstracttransactionrequest/transactionuniqueid) { get; set; } | Получает или задает назначенный клиентом глобальный уникальный идентификатор для этой транзакции |
 

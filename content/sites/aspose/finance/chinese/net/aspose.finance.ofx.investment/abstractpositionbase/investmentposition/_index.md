@@ -1,14 +1,14 @@
 ---
 title: InvestmentPosition
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置InvestmentPositionaspose.finance.ofx.investment/abstractpositionbase/investmentposition
+description: 获取或设置InvestmentPositionaspose.finance.ofx.investment/abstractpositionbase/investmentposition.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.investment/abstractpositionbase/investmentposition/
 ---
 ## AbstractPositionBase.InvestmentPosition property
 
-获取或设置`InvestmentPosition`。
+获取或设置`InvestmentPosition`.
 
 ```csharp
 public InvestmentPosition InvestmentPosition { get; set; }

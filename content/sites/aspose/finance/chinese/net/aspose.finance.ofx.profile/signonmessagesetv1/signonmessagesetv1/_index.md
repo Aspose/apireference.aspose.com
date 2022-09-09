@@ -1,14 +1,14 @@
 ---
 title: SignonMessageSetV1
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化SignonMessageSetV1aspose.finance.ofx.profile/signonmessagesetv1类的新实例
+description: 初始化一个新的实例SignonMessageSetV1aspose.finance.ofx.profile/signonmessagesetv1类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.profile/signonmessagesetv1/signonmessagesetv1/
 ---
 ## SignonMessageSetV1 constructor
 
-初始化[`SignonMessageSetV1`](../../signonmessagesetv1)类的新实例。
+初始化一个新的实例[`SignonMessageSetV1`](../../signonmessagesetv1)类.
 
 ```csharp
 public SignonMessageSetV1()

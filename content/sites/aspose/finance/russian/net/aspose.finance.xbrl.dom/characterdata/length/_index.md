@@ -1,7 +1,7 @@
 ---
 title: Length
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает количество 16-битных единиц доступных для данных. Это может иметь нулевое значение т. е. узлы CharacterData могут быть пустыми.
+description: Получает количество 16битных единиц доступных для данных. Это может иметь нулевое значение т. е. узлы CharacterData могут быть пустыми.
 type: docs
 weight: 20
 url: /ru/net/aspose.finance.xbrl.dom/characterdata/length/

@@ -1,14 +1,14 @@
 ---
 title: LinkbaseRefCollection
 second_title: Справочник по API Aspose.Finance для .NET
-description: ПолучаетLinkbaseRefCollectionaspose.finance.xbrl/xbrlinstance/linkbaserefcollectionвXbrlInstanceaspose.finance.xbrl/xbrlinstance.
+description: ПолучаетLinkbaseRefCollectionaspose.finance.xbrl/xbrlinstance/linkbaserefcollection вXbrlInstanceaspose.finance.xbrl/xbrlinstance .
 type: docs
 weight: 60
 url: /ru/net/aspose.finance.xbrl/xbrlinstance/linkbaserefcollection/
 ---
 ## XbrlInstance.LinkbaseRefCollection property
 
-Получает`LinkbaseRefCollection`в[`XbrlInstance`](../../xbrlinstance).
+Получает`LinkbaseRefCollection` в[`XbrlInstance`](../../xbrlinstance) .
 
 ```csharp
 public LinkbaseRefCollection LinkbaseRefCollection { get; }

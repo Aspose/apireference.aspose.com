@@ -1,14 +1,14 @@
 ---
 title: PresentmentGroupAccountInfoTransactionRequests
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает коллекциюPresentmentGroupAccountInfoTransactionRequestaspose.finance.ofx.billerdelivery/presentmentgroupaccountinfotransactionrequest.
+description: Получает или задает коллекциюPresentmentGroupAccountInfoTransactionRequestaspose.finance.ofx.billerdelivery/presentmentgroupaccountinfotransactionrequest .
 type: docs
 weight: 50
 url: /ru/net/aspose.finance.ofx/presentmentdeliveryrequestmessagesetv1/presentmentgroupaccountinfotransactionrequests/
 ---
 ## PresentmentDeliveryRequestMessageSetV1.PresentmentGroupAccountInfoTransactionRequests property
 
-Получает или задает коллекцию[`PresentmentGroupAccountInfoTransactionRequest`](../../../aspose.finance.ofx.billerdelivery/presentmentgroupaccountinfotransactionrequest).
+Получает или задает коллекцию[`PresentmentGroupAccountInfoTransactionRequest`](../../../aspose.finance.ofx.billerdelivery/presentmentgroupaccountinfotransactionrequest) .
 
 ```csharp
 public List<PresentmentGroupAccountInfoTransactionRequest> 

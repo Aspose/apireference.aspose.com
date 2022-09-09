@@ -18,7 +18,7 @@ public class StopCheckProfile
 
 | 姓名 | 描述 |
 | --- | --- |
-| [StopCheckProfile](stopcheckprofile)() | 初始化[`StopCheckProfile`](../stopcheckprofile)类的新实例。 |
+| [StopCheckProfile](stopcheckprofile)() | 初始化一个新的实例[`StopCheckProfile`](../stopcheckprofile)类. |
 
 ## 特性
 
@@ -28,7 +28,7 @@ public class StopCheckProfile
 | [CanUseRange](../../aspose.finance.ofx.profile/stopcheckprofile/canuserange) { get; set; } | 获取或设置是否可以停止一系列检查。 |
 | [ProcessingDaysOffs](../../aspose.finance.ofx.profile/stopcheckprofile/processingdaysoffs) { get; set; } | 获取或设置不进行处理的星期几。 |
 | [ProcessingEndTime](../../aspose.finance.ofx.profile/stopcheckprofile/processingendtime) { get; set; } | 获取或设置当天处理结束的时间。 |
-| [StopCheckFee](../../aspose.finance.ofx.profile/stopcheckprofile/stopcheckfee) { get; set; } | 获取或设置默认止损费 |
+| [StopCheckFee](../../aspose.finance.ofx.profile/stopcheckprofile/stopcheckfee) { get; set; } | 获取或设置默认停止检查费用 |
 
 ### 也可以看看
 

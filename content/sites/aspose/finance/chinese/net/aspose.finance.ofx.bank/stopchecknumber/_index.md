@@ -18,19 +18,19 @@ public class StopCheckNumber
 
 | 姓名 | 描述 |
 | --- | --- |
-| [StopCheckNumber](stopchecknumber)() | 初始化[`StopCheckNumber`](../stopchecknumber)类的新实例。 |
+| [StopCheckNumber](stopchecknumber)() | 初始化一个新的实例[`StopCheckNumber`](../stopchecknumber)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [CheckError](../../aspose.finance.ofx.bank/stopchecknumber/checkerror) { get; set; } | 获取或设置进一步的文字说明。 |
-| [CheckNumber](../../aspose.finance.ofx.bank/stopchecknumber/checknumber) { get; set; } | 获取或设置校验号。 |
-| [CheckStatus](../../aspose.finance.ofx.bank/stopchecknumber/checkstatus) { get; set; } | 获取或设置个别停止检查请求的状态码。 |
-| [Currency](../../aspose.finance.ofx.bank/stopchecknumber/currency) { get; set; } | 获取或设置[`Currency`](./currency)。 |
+| [CheckError](../../aspose.finance.ofx.bank/stopchecknumber/checkerror) { get; set; } | 获取或设置进一步的文字解释。 |
+| [CheckNumber](../../aspose.finance.ofx.bank/stopchecknumber/checknumber) { get; set; } | 获取或设置校验号 |
+| [CheckStatus](../../aspose.finance.ofx.bank/stopchecknumber/checkstatus) { get; set; } | 获取或设置单个停止检查请求的状态码。 |
+| [Currency](../../aspose.finance.ofx.bank/stopchecknumber/currency) { get; set; } | 获取或设置[`Currency`](./currency). |
 | [Name](../../aspose.finance.ofx.bank/stopchecknumber/name) { get; set; } | 获取或设置收款人姓名或描述 |
-| [OriginCurrency](../../aspose.finance.ofx.bank/stopchecknumber/origincurrency) { get; set; } | 获取或设置原点[`Currency`](./currency)。 |
-| [TransactionAmount](../../aspose.finance.ofx.bank/stopchecknumber/transactionamount) { get; set; } | 获取或设置交易金额。 |
+| [OriginCurrency](../../aspose.finance.ofx.bank/stopchecknumber/origincurrency) { get; set; } | 获取或设置原点[`Currency`](./currency). |
+| [TransactionAmount](../../aspose.finance.ofx.bank/stopchecknumber/transactionamount) { get; set; } | 获取或设置交易金额 |
 | [UserDate](../../aspose.finance.ofx.bank/stopchecknumber/userdate) { get; set; } | 获取或设置检查日期。 |
 
 ### 也可以看看

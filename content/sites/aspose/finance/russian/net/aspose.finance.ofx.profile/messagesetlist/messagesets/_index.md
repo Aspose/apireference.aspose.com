@@ -1,14 +1,14 @@
 ---
 title: MessageSets
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает набор сообщений основанный наAbstractMessageSetaspose.finance.ofx.profile/abstractmessageset.
+description: Получает или задает набор сообщений основанный наAbstractMessageSetaspose.finance.ofx.profile/abstractmessageset .
 type: docs
 weight: 20
 url: /ru/net/aspose.finance.ofx.profile/messagesetlist/messagesets/
 ---
 ## MessageSetList.MessageSets property
 
-Получает или задает набор сообщений, основанный на[`AbstractMessageSet`](../../abstractmessageset).
+Получает или задает набор сообщений, основанный на[`AbstractMessageSet`](../../abstractmessageset) .
 
 ```csharp
 public List<AbstractMessageSet> MessageSets { get; set; }

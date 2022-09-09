@@ -1,14 +1,14 @@
 ---
 title: Arcrole
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает роль дуги.
+description: Получает или задает роль дуги дуги.
 type: docs
 weight: 30
 url: /ru/net/aspose.finance.xbrl/arc/arcrole/
 ---
 ## Arc.Arcrole property
 
-Получает или задает роль дуги.
+Получает или задает роль дуги дуги.
 
 ```csharp
 public string Arcrole { get; set; }

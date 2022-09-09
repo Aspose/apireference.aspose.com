@@ -18,13 +18,13 @@ public class ProfileResponseMessageSetV1 : AbstractResponseMessageSet
 
 | 姓名 | 描述 |
 | --- | --- |
-| [ProfileResponseMessageSetV1](profileresponsemessagesetv1)() | 初始化[`ProfileResponseMessageSetV1`](../profileresponsemessagesetv1)类的新实例。 |
+| [ProfileResponseMessageSetV1](profileresponsemessagesetv1)() | 初始化一个新的实例[`ProfileResponseMessageSetV1`](../profileresponsemessagesetv1)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [ProfileTransactionResponses](../../aspose.finance.ofx/profileresponsemessagesetv1/profiletransactionresponses) { get; set; } | 获取或设置[`ProfileTransactionResponse`](../../aspose.finance.ofx.profile/profiletransactionresponse)的集合。 |
+| [ProfileTransactionResponses](../../aspose.finance.ofx/profileresponsemessagesetv1/profiletransactionresponses) { get; set; } | 获取或设置的集合[`ProfileTransactionResponse`](../../aspose.finance.ofx.profile/profiletransactionresponse). |
 
 ### 也可以看看
 

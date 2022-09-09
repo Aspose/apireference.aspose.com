@@ -1,14 +1,14 @@
 ---
 title: PresentmentGroupAccountInfoTransactionResponse
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化PresentmentGroupAccountInfoTransactionResponseaspose.finance.ofx.billerdelivery/presentmentgroupaccountinfotransactionresponse类的新实例
+description: 初始化一个新的实例PresentmentGroupAccountInfoTransactionResponseaspose.finance.ofx.billerdelivery/presentmentgroupaccountinfotransactionresponse类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.billerdelivery/presentmentgroupaccountinfotransactionresponse/presentmentgroupaccountinfotransactionresponse/
 ---
 ## PresentmentGroupAccountInfoTransactionResponse constructor
 
-初始化[`PresentmentGroupAccountInfoTransactionResponse`](../../presentmentgroupaccountinfotransactionresponse)类的新实例。
+初始化一个新的实例[`PresentmentGroupAccountInfoTransactionResponse`](../../presentmentgroupaccountinfotransactionresponse)类.
 
 ```csharp
 public PresentmentGroupAccountInfoTransactionResponse()

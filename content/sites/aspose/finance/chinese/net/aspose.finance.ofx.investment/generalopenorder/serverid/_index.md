@@ -1,14 +1,14 @@
 ---
 title: ServerId
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置唯一的服务器分配事务 ID
+description: 获取或设置服务器分配的唯一事务 ID
 type: docs
 weight: 120
 url: /zh/net/aspose.finance.ofx.investment/generalopenorder/serverid/
 ---
 ## GeneralOpenOrder.ServerId property
 
-获取或设置唯一的服务器分配事务 ID。
+获取或设置服务器分配的唯一事务 ID。
 
 ```csharp
 public string ServerId { get; set; }

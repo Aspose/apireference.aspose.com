@@ -1,14 +1,14 @@
 ---
 title: MailResponse
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置BankMailResponseaspose.finance.ofx.bank/bankmailresponse或CheckMailResponseaspose.finance.ofx.bank/checkmailresponse或DepositMailResponseaspose.finance.ofx.bank/depositmailresponse
+description: 获取或设置BankMailResponseaspose.finance.ofx.bank/bankmailresponse或者CheckMailResponseaspose.finance.ofx.bank/checkmailresponse或者DepositMailResponseaspose.finance.ofx.bank/depositmailresponse.
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.ofx.bank/bankmailtransactionresponse/mailresponse/
 ---
 ## BankMailTransactionResponse.MailResponse property
 
-获取或设置[`BankMailResponse`](../../bankmailresponse)或[`CheckMailResponse`](../../checkmailresponse)或[`DepositMailResponse`](../../depositmailresponse)。
+获取或设置[`BankMailResponse`](../../bankmailresponse)或者[`CheckMailResponse`](../../checkmailresponse)或者[`DepositMailResponse`](../../depositmailresponse).
 
 ```csharp
 public AbstractMailResponse MailResponse { get; set; }

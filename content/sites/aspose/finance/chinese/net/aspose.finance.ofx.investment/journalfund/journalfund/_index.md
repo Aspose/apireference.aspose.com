@@ -1,14 +1,14 @@
 ---
 title: JournalFund
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化JournalFundaspose.finance.ofx.investment/journalfund类的新实例
+description: 初始化一个新的实例JournalFundaspose.finance.ofx.investment/journalfund类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.investment/journalfund/journalfund/
 ---
 ## JournalFund constructor
 
-初始化[`JournalFund`](../../journalfund)类的新实例。
+初始化一个新的实例[`JournalFund`](../../journalfund)类.
 
 ```csharp
 public JournalFund()

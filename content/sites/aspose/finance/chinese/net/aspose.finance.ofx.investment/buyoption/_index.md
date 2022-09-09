@@ -8,7 +8,7 @@ url: /zh/net/aspose.finance.ofx.investment/buyoption/
 ---
 ## BuyOption class
 
-投资买入期权交易类。
+投资买入期权交易类
 
 ```csharp
 public class BuyOption : AbstractInvestmentBuyTransaction
@@ -18,13 +18,13 @@ public class BuyOption : AbstractInvestmentBuyTransaction
 
 | 姓名 | 描述 |
 | --- | --- |
-| [BuyOption](buyoption)() | 初始化[`BuyOption`](../buyoption)类的新实例。 |
+| [BuyOption](buyoption)() | 初始化一个新的实例[`BuyOption`](../buyoption)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [InvestmentBuy](../../aspose.finance.ofx.investment/abstractinvestmentbuytransaction/investmentbuy) { get; set; } | 获取或设置[`InvestmentBuy`](../abstractinvestmentbuytransaction/investmentbuy)。 |
+| [InvestmentBuy](../../aspose.finance.ofx.investment/abstractinvestmentbuytransaction/investmentbuy) { get; set; } | 获取或设置[`InvestmentBuy`](../abstractinvestmentbuytransaction/investmentbuy). |
 | [OptionBuyType](../../aspose.finance.ofx.investment/buyoption/optionbuytype) { get; set; } | 获取或设置期权买入类型。 |
 | [SharePerContract](../../aspose.finance.ofx.investment/buyoption/sharepercontract) { get; set; } | 获取或设置每份合约的股数。 |
 

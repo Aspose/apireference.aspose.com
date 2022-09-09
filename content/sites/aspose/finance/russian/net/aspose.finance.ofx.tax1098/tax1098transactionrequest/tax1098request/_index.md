@@ -1,14 +1,14 @@
 ---
 title: Tax1098Request
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задаетTax1098Requestaspose.finance.ofx.tax1098/tax1098transactionrequest/tax1098request.
+description: Получает или задаетTax1098Requestaspose.finance.ofx.tax1098/tax1098transactionrequest/tax1098request .
 type: docs
 weight: 20
 url: /ru/net/aspose.finance.ofx.tax1098/tax1098transactionrequest/tax1098request/
 ---
 ## Tax1098TransactionRequest.Tax1098Request property
 
-Получает или задает`Tax1098Request`.
+Получает или задает`Tax1098Request` .
 
 ```csharp
 public Tax1098Request Tax1098Request { get; set; }

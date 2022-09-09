@@ -1,14 +1,14 @@
 ---
 title: MeasureQualifiedNames
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает коллекцию полного имени меры оно используется когда единицей измерения является мера.
+description: Получает коллекцию полного имени меры оно используется когда типом единицы измерения является Measure.
 type: docs
 weight: 30
 url: /ru/net/aspose.finance.xbrl/unit/measurequalifiednames/
 ---
 ## Unit.MeasureQualifiedNames property
 
-Получает коллекцию полного имени меры, оно используется, когда единицей измерения является мера.
+Получает коллекцию полного имени меры, оно используется, когда типом единицы измерения является Measure.
 
 ```csharp
 public List<QualifiedName> MeasureQualifiedNames { get; }

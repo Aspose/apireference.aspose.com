@@ -1,14 +1,14 @@
 ---
 title: Section409ADeferrals
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置部分 409A 延迟
+description: 获取或设置第 409A 节延期
 type: docs
 weight: 220
 url: /zh/net/aspose.finance.ofx.tax1099/tax1099misc_v100/section409adeferrals/
 ---
 ## Tax1099MISC_V100.Section409ADeferrals property
 
-获取或设置部分 409A 延迟。
+获取或设置第 409A 节延期。
 
 ```csharp
 public string Section409ADeferrals { get; set; }

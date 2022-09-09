@@ -1,14 +1,14 @@
 ---
 title: GetEnumerator
 second_title: Справочник по API Aspose.Finance для .NET
-description: Возвращает перечислитель выполняющий итерацию по коллекции.
+description: Возвращает перечислитель который выполняет итерацию по коллекции.
 type: docs
 weight: 50
 url: /ru/net/aspose.finance.xbrl/xbrlinstancecollection/getenumerator/
 ---
 ## XbrlInstanceCollection.GetEnumerator method
 
-Возвращает перечислитель, выполняющий итерацию по коллекции.
+Возвращает перечислитель, который выполняет итерацию по коллекции.
 
 ```csharp
 public IEnumerator<XbrlInstance> GetEnumerator()

@@ -1,14 +1,14 @@
 ---
 title: LongShort
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置多空表示不应将购买日期用于期限计算时的销售持有期
+description: 获取或设置多空表示不应将收购日期用于期限计算时的销售持有期
 type: docs
 weight: 80
 url: /zh/net/aspose.finance.ofx.tax1099/proceeddescription_v100/longshort/
 ---
 ## ProceedDescription_V100.LongShort property
 
-获取或设置多空。表示不应将购买日期用于期限计算时的销售持有期。
+获取或设置多空。表示不应将收购日期用于期限计算时的销售持有期。
 
 ```csharp
 public LongShortEnum LongShort { get; set; }

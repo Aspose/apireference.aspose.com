@@ -18,7 +18,7 @@ public class SignonRequest
 
 | 姓名 | 描述 |
 | --- | --- |
-| [SignonRequest](signonrequest)() | 初始化[`SignonRequest`](../signonrequest)类的新实例。 |
+| [SignonRequest](signonrequest)() | 初始化一个新的实例[`SignonRequest`](../signonrequest)类. |
 
 ## 特性
 
@@ -29,19 +29,19 @@ public class SignonRequest
 | [AppId](../../aspose.finance.ofx.signon/signonrequest/appid) { get; set; } | 获取或设置客户端应用的ID |
 | [AppKey](../../aspose.finance.ofx.signon/signonrequest/appkey) { get; set; } | 获取或设置应用程序密钥/标识符；在服务器和客户端之间安排带外。 |
 | [AppVersion](../../aspose.finance.ofx.signon/signonrequest/appversion) { get; set; } | 获取或设置客户端应用程序的版本。 |
-| [AuthToken](../../aspose.finance.ofx.signon/signonrequest/authtoken) { get; set; } | 仅获取或设置此登录会话所需的身份验证令牌。凭证在带外提供给用户。 |
+| [AuthToken](../../aspose.finance.ofx.signon/signonrequest/authtoken) { get; set; } | 仅获取或设置此登录会话所需的身份验证令牌。凭据在带外提供给用户。 |
 | [ClientDate](../../aspose.finance.ofx.signon/signonrequest/clientdate) { get; set; } | 获取或设置来自客户端计算机的请求的日期和时间。 |
-| [ClientUserId](../../aspose.finance.ofx.signon/signonrequest/clientuserid) { get; set; } | 获取或设置标识OFX用户的唯一ID。 |
-| [FinancialInstitution](../../aspose.finance.ofx.signon/signonrequest/financialinstitution) { get; set; } | 获取或设置[`FinancialInstitution`](./financialinstitution)。 |
-| [GenerateUserKey](../../aspose.finance.ofx.signon/signonrequest/generateuserkey) { get; set; } | 获取或设置请求服务器是否返回 USERKEY 以供将来使用， |
+| [ClientUserId](../../aspose.finance.ofx.signon/signonrequest/clientuserid) { get; set; } | 获取或设置OFX用户唯一标识 |
+| [FinancialInstitution](../../aspose.finance.ofx.signon/signonrequest/financialinstitution) { get; set; } | 获取或设置[`FinancialInstitution`](./financialinstitution). |
+| [GenerateUserKey](../../aspose.finance.ofx.signon/signonrequest/generateuserkey) { get; set; } | 获取或设置请求服务器是否返回一个USERKEY供以后使用， |
 | [Language](../../aspose.finance.ofx.signon/signonrequest/language) { get; set; } | 获取或设置文本响应的请求语言。 |
-| [MFAChallengeAnswers](../../aspose.finance.ofx.signon/signonrequest/mfachallengeanswers) { get; set; } | 获取或设置[`MFAChallengeAnswer`](../mfachallengeanswer)的集合。 |
-| [OfxExtension](../../aspose.finance.ofx.signon/signonrequest/ofxextension) { get; set; } | 获取或设置[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype)。 |
+| [MFAChallengeAnswers](../../aspose.finance.ofx.signon/signonrequest/mfachallengeanswers) { get; set; } | 获取或设置的集合[`MFAChallengeAnswer`](../mfachallengeanswer). |
+| [OfxExtension](../../aspose.finance.ofx.signon/signonrequest/ofxextension) { get; set; } | 获取或设置[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
 | [SessionCookie](../../aspose.finance.ofx.signon/signonrequest/sessioncookie) { get; set; } | 获取或设置在先前登录响应中收到的会话 cookie 值，如果首次登录或 FI 未发送则不发送 |
 | [UserCredential1](../../aspose.finance.ofx.signon/signonrequest/usercredential1) { get; set; } | 获取或设置服务器所需的附加用户凭据。 |
 | [UserCredential2](../../aspose.finance.ofx.signon/signonrequest/usercredential2) { get; set; } | 获取或设置服务器所需的附加用户凭据。 |
 | [UserId](../../aspose.finance.ofx.signon/signonrequest/userid) { get; set; } | 获取或设置用户标识字符串。 |
-| [UserKey](../../aspose.finance.ofx.signon/signonrequest/userkey) { get; set; } | 获取或设置之前经过身份验证的上下文。 |
+| [UserKey](../../aspose.finance.ofx.signon/signonrequest/userkey) { get; set; } | 获取或设置之前认证的上下文。 |
 | [UserPassword](../../aspose.finance.ofx.signon/signonrequest/userpassword) { get; set; } | 获取或设置服务器上的用户密码。 |
 
 ### 也可以看看

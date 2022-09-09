@@ -8,7 +8,7 @@ url: /zh/net/aspose.finance.ofx.profile/investmentstatementmessagesetv1/investme
 ---
 ## InvestmentStatementMessageSetV1.Investment401KDownload property
 
-获取或设置FI服务器是否下载401(k)账户信息。
+获取或设置FI服务器是否下载401(k)账户信息
 
 ```csharp
 public bool Investment401KDownload { get; set; }

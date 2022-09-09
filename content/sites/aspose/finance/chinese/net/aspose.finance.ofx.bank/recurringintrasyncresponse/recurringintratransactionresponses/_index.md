@@ -1,14 +1,14 @@
 ---
 title: RecurringIntraTransactionResponses
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置RecurringIntraTransactionResponseaspose.finance.ofx.bank/recurringintratransactionresponse的集合
+description: 获取或设置的集合RecurringIntraTransactionResponseaspose.finance.ofx.bank/recurringintratransactionresponse.
 type: docs
 weight: 40
 url: /zh/net/aspose.finance.ofx.bank/recurringintrasyncresponse/recurringintratransactionresponses/
 ---
 ## RecurringIntraSyncResponse.RecurringIntraTransactionResponses property
 
-获取或设置[`RecurringIntraTransactionResponse`](../../recurringintratransactionresponse)的集合。
+获取或设置的集合[`RecurringIntraTransactionResponse`](../../recurringintratransactionresponse).
 
 ```csharp
 public List<RecurringIntraTransactionResponse> RecurringIntraTransactionResponses { get; set; }

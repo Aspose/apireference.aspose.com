@@ -1,14 +1,14 @@
 ---
 title: ChallengeTransactionResponse
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化ChallengeTransactionResponseaspose.finance.ofx.signon/challengetransactionresponse类的新实例
+description: 初始化一个新的实例ChallengeTransactionResponseaspose.finance.ofx.signon/challengetransactionresponse类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.signon/challengetransactionresponse/challengetransactionresponse/
 ---
 ## ChallengeTransactionResponse constructor
 
-初始化[`ChallengeTransactionResponse`](../../challengetransactionresponse)类的新实例。
+初始化一个新的实例[`ChallengeTransactionResponse`](../../challengetransactionresponse)类.
 
 ```csharp
 public ChallengeTransactionResponse()

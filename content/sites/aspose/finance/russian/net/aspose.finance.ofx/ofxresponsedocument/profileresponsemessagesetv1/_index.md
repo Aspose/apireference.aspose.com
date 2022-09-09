@@ -1,14 +1,14 @@
 ---
 title: ProfileResponseMessageSetV1
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задаетProfileResponseMessageSetV1aspose.finance.ofx/ofxresponsedocument/profileresponsemessagesetv1.
+description: Получает или задаетProfileResponseMessageSetV1aspose.finance.ofx/ofxresponsedocument/profileresponsemessagesetv1 .
 type: docs
 weight: 110
 url: /ru/net/aspose.finance.ofx/ofxresponsedocument/profileresponsemessagesetv1/
 ---
 ## OfxResponseDocument.ProfileResponseMessageSetV1 property
 
-Получает или задает`ProfileResponseMessageSetV1`.
+Получает или задает`ProfileResponseMessageSetV1` .
 
 ```csharp
 public ProfileResponseMessageSetV1 ProfileResponseMessageSetV1 { get; set; }

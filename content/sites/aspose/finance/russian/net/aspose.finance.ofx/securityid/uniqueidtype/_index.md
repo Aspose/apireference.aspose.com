@@ -1,14 +1,14 @@
 ---
 title: UniqueIdType
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает имя стандарта используемого для идентификации ценных бумаг т. е. CUSIP для финансовых организаций в США.
+description: Получает или задает имя стандарта используемого для идентификации ценной бумаги т. е. CUSIP для финансовых организаций в США.
 type: docs
 weight: 30
 url: /ru/net/aspose.finance.ofx/securityid/uniqueidtype/
 ---
 ## SecurityId.UniqueIdType property
 
-Получает или задает имя стандарта, используемого для идентификации ценных бумаг, т. е. «CUSIP» для финансовых организаций в США.
+Получает или задает имя стандарта, используемого для идентификации ценной бумаги, т. е. «CUSIP» для финансовых организаций в США.
 
 ```csharp
 public string UniqueIdType { get; set; }

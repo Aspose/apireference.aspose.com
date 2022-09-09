@@ -1,14 +1,14 @@
 ---
 title: PositionOption
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаPositionOptionaspose.finance.ofx.investment/positionoption.
+description: Инициализирует новый экземплярPositionOptionaspose.finance.ofx.investment/positionoption класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.investment/positionoption/positionoption/
 ---
 ## PositionOption constructor
 
-Инициализирует новый экземпляр класса[`PositionOption`](../../positionoption).
+Инициализирует новый экземпляр[`PositionOption`](../../positionoption) класс.
 
 ```csharp
 public PositionOption()

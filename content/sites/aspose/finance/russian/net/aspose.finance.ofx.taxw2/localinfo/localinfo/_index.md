@@ -1,14 +1,14 @@
 ---
 title: LocalInfo
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаLocalInfoaspose.finance.ofx.taxw2/localinfo.
+description: Инициализирует новый экземплярLocalInfoaspose.finance.ofx.taxw2/localinfo класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.taxw2/localinfo/localinfo/
 ---
 ## LocalInfo constructor
 
-Инициализирует новый экземпляр класса[`LocalInfo`](../../localinfo).
+Инициализирует новый экземпляр[`LocalInfo`](../../localinfo) класс.
 
 ```csharp
 public LocalInfo()

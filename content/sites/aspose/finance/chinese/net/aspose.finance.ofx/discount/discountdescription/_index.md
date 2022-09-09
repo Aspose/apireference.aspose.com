@@ -1,14 +1,14 @@
 ---
 title: DiscountDescription
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置折扣说明
+description: 获取或设置折扣描述
 type: docs
 weight: 40
 url: /zh/net/aspose.finance.ofx/discount/discountdescription/
 ---
 ## Discount.DiscountDescription property
 
-获取或设置折扣说明。
+获取或设置折扣描述。
 
 ```csharp
 public string DiscountDescription { get; set; }

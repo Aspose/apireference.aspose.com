@@ -1,14 +1,14 @@
 ---
 title: AcquiredDate
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置获取的日期
+description: 获取或设置获取日期
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.ofx.tax1099/proceeddescription_v100/acquireddate/
 ---
 ## ProceedDescription_V100.AcquiredDate property
 
-获取或设置获取的日期。
+获取或设置获取日期。
 
 ```csharp
 public string AcquiredDate { get; set; }

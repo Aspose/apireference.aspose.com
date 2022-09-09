@@ -1,14 +1,14 @@
 ---
 title: SecurityId
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задаетSecurityIdaspose.finance.ofx.investment/closureoption/securityid.
+description: Получает или задаетSecurityIdaspose.finance.ofx.investment/closureoption/securityid .
 type: docs
 weight: 50
 url: /ru/net/aspose.finance.ofx.investment/closureoption/securityid/
 ---
 ## ClosureOption.SecurityId property
 
-Получает или задает`SecurityId`.
+Получает или задает`SecurityId` .
 
 ```csharp
 public SecurityId SecurityId { get; set; }

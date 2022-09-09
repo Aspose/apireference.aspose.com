@@ -1,14 +1,14 @@
 ---
 title: AddlStateTaxWheldAggregate
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置AddlStateTaxWheldAggregateaspose.finance.ofx.tax1099/tax1099oid_v100/addlstatetaxwheldaggregate
+description: 获取或设置AddlStateTaxWheldAggregateaspose.finance.ofx.tax1099/tax1099oid_v100/addlstatetaxwheldaggregate.
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.ofx.tax1099/tax1099oid_v100/addlstatetaxwheldaggregate/
 ---
 ## Tax1099OID_V100.AddlStateTaxWheldAggregate property
 
-获取或设置`AddlStateTaxWheldAggregate`。
+获取或设置`AddlStateTaxWheldAggregate`.
 
 ```csharp
 public AddlStateTaxWheldAggregate AddlStateTaxWheldAggregate { get; set; }

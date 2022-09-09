@@ -1,14 +1,14 @@
 ---
 title: SignonResponseMessageSetV1
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаSignonResponseMessageSetV1aspose.finance.ofx/signonresponsemessagesetv1.
+description: Инициализирует новый экземплярSignonResponseMessageSetV1aspose.finance.ofx/signonresponsemessagesetv1 класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx/signonresponsemessagesetv1/signonresponsemessagesetv1/
 ---
 ## SignonResponseMessageSetV1 constructor
 
-Инициализирует новый экземпляр класса[`SignonResponseMessageSetV1`](../../signonresponsemessagesetv1).
+Инициализирует новый экземпляр[`SignonResponseMessageSetV1`](../../signonresponsemessagesetv1) класс.
 
 ```csharp
 public SignonResponseMessageSetV1()

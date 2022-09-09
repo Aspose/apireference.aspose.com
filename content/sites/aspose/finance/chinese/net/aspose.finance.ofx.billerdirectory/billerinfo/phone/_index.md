@@ -1,14 +1,14 @@
 ---
 title: Phone
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置客户信息的记账人电话号码如果存在用于电子记账信息的特殊号码请使用该号码
+description: 获取或设置客户信息的计费者电话号码如果电子计费信息存在特殊号码请使用该号码
 type: docs
 weight: 160
 url: /zh/net/aspose.finance.ofx.billerdirectory/billerinfo/phone/
 ---
 ## BillerInfo.Phone property
 
-获取或设置客户信息的记账人电话号码（如果存在用于电子记账信息的特殊号码，请使用该号码）。
+获取或设置客户信息的计费者电话号码（如果电子计费信息存在特殊号码，请使用该号码）。
 
 ```csharp
 public string Phone { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: TupleRefId
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置InlineNonnumericaspose.finance.xbrl.inline/inlinenonnumeric的元组引用 ID
+description: 获取或设置元组的元组引用idInlineNonnumericaspose.finance.xbrl.inline/inlinenonnumeric.
 type: docs
 weight: 90
 url: /zh/net/aspose.finance.xbrl.inline/inlinenonnumeric/tuplerefid/
 ---
 ## InlineNonnumeric.TupleRefId property
 
-获取或设置[`InlineNonnumeric`](../../inlinenonnumeric)的元组引用 ID。
+获取或设置元组的元组引用id[`InlineNonnumeric`](../../inlinenonnumeric).
 
 ```csharp
 public string TupleRefId { get; set; }

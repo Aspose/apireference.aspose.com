@@ -1,14 +1,14 @@
 ---
 title: PositionOption
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化PositionOptionaspose.finance.ofx.investment/positionoption类的新实例
+description: 初始化一个新的实例PositionOptionaspose.finance.ofx.investment/positionoption类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.investment/positionoption/positionoption/
 ---
 ## PositionOption constructor
 
-初始化[`PositionOption`](../../positionoption)类的新实例。
+初始化一个新的实例[`PositionOption`](../../positionoption)类.
 
 ```csharp
 public PositionOption()

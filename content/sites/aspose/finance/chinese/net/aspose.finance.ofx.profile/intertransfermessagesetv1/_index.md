@@ -18,18 +18,18 @@ public class InterTransferMessageSetV1 : AbstractMessageSetVersion
 
 | 姓名 | 描述 |
 | --- | --- |
-| [InterTransferMessageSetV1](intertransfermessagesetv1)() | 初始化[`InterTransferMessageSetV1`](../intertransfermessagesetv1)类的新实例。 |
+| [InterTransferMessageSetV1](intertransfermessagesetv1)() | 初始化一个新的实例[`InterTransferMessageSetV1`](../intertransfermessagesetv1)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [CanBillPay](../../aspose.finance.ofx.profile/intertransfermessagesetv1/canbillpay) { get; set; } | 获取或设置服务器是否能够将账单支付作为一种转账形式。 |
+| [CanBillPay](../../aspose.finance.ofx.profile/intertransfermessagesetv1/canbillpay) { get; set; } | 获取或设置服务器是否能够以转账形式处理账单支付。 |
 | [CancelWindow](../../aspose.finance.ofx.profile/intertransfermessagesetv1/cancelwindow) { get; set; } | 获取或设置跨行转账发生后的天数可以取消。 |
 | [DomesticTransferFee](../../aspose.finance.ofx.profile/intertransfermessagesetv1/domestictransferfee) { get; set; } | 获取或设置国内跨行转账的标准费用。 |
 | [InternationalTransferFee](../../aspose.finance.ofx.profile/intertransfermessagesetv1/internationaltransferfee) { get; set; } | 获取或设置国际银行间转账的标准费用。 |
-| [MessageSetCore](../../aspose.finance.ofx.profile/abstractmessagesetversion/messagesetcore) { get; set; } | 获取或设置[`MessageSetCore`](../abstractmessagesetversion/messagesetcore)。 |
-| [TransferProfile](../../aspose.finance.ofx.profile/intertransfermessagesetv1/transferprofile) { get; set; } | 获取或设置[`TransferProfile`](./transferprofile)。 |
+| [MessageSetCore](../../aspose.finance.ofx.profile/abstractmessagesetversion/messagesetcore) { get; set; } | 获取或设置[`MessageSetCore`](../abstractmessagesetversion/messagesetcore). |
+| [TransferProfile](../../aspose.finance.ofx.profile/intertransfermessagesetv1/transferprofile) { get; set; } | 获取或设置[`TransferProfile`](./transferprofile). |
 
 ### 也可以看看
 

@@ -18,17 +18,17 @@ public class PayeeModResponse : AbstractPayeeResponse
 
 | Имя | Описание |
 | --- | --- |
-| [PayeeModResponse](payeemodresponse)() | Инициализирует новый экземпляр класса[`PayeeModResponse`](../payeemodresponse). |
+| [PayeeModResponse](payeemodresponse)() | Инициализирует новый экземпляр[`PayeeModResponse`](../payeemodresponse) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [BankAccountTo](../../aspose.finance.ofx.billpay/payeemodresponse/bankaccountto) { get; set; } | Получает или задает место назначения[`BankAccount`](../../aspose.finance.ofx/bankaccount)для стран, которые оплачивают счета с помощью переводов. |
-| [ExtendedPayee](../../aspose.finance.ofx.billpay/payeemodresponse/extendedpayee) { get; set; } | Получает или задает[`ExtendedPayee`](./extendedpayee). |
-| [Payee](../../aspose.finance.ofx.billpay/payeemodresponse/payee) { get; set; } | Получает или задает измененную информацию[`Payee`](./payee). |
+| [BankAccountTo](../../aspose.finance.ofx.billpay/payeemodresponse/bankaccountto) { get; set; } | Получает или задает пункт назначения[`BankAccount`](../../aspose.finance.ofx/bankaccount) для стран, которые оплачивают счета с помощью переводов. |
+| [ExtendedPayee](../../aspose.finance.ofx.billpay/payeemodresponse/extendedpayee) { get; set; } | Получает или задает[`ExtendedPayee`](./extendedpayee) . |
+| [Payee](../../aspose.finance.ofx.billpay/payeemodresponse/payee) { get; set; } | Получает или задает[`Payee`](./payee) информация, которая была изменена. |
 | [PayeeAccounts](../../aspose.finance.ofx.billpay/payeemodresponse/payeeaccounts) { get; set; } | Получает или задает номер счета пользователя коллекции у получателя платежа. |
-| [PayeeListId](../../aspose.finance.ofx.billpay/abstractpayeeresponse/payeelistid) { get; set; } | Получает или задает назначенный сервером идентификатор записи для этой записи получателя. |
+| [PayeeListId](../../aspose.finance.ofx.billpay/abstractpayeeresponse/payeelistid) { get; set; } | Получает или задает назначенный сервером идентификатор записи для этой записи получателя платежа. |
 
 ### Смотрите также
 

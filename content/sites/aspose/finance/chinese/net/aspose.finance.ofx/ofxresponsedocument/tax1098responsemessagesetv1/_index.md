@@ -1,14 +1,14 @@
 ---
 title: Tax1098ResponseMessageSetV1
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置Tax1098ResponseMessageSetV1aspose.finance.ofx/ofxresponsedocument/tax1098responsemessagesetv1
+description: 获取或设置Tax1098ResponseMessageSetV1aspose.finance.ofx/ofxresponsedocument/tax1098responsemessagesetv1.
 type: docs
 weight: 150
 url: /zh/net/aspose.finance.ofx/ofxresponsedocument/tax1098responsemessagesetv1/
 ---
 ## OfxResponseDocument.Tax1098ResponseMessageSetV1 property
 
-获取或设置`Tax1098ResponseMessageSetV1`。
+获取或设置`Tax1098ResponseMessageSetV1`.
 
 ```csharp
 public Tax1098ResponseMessageSetV1 Tax1098ResponseMessageSetV1 { get; set; }

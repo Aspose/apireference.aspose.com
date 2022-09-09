@@ -1,14 +1,14 @@
 ---
 title: SumDescription
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置报告的汇总事务的描述
+description: 获取或设置汇总交易报告的描述
 type: docs
 weight: 60
 url: /zh/net/aspose.finance.ofx.tax1099/proceedsummary_v100/sumdescription/
 ---
 ## ProceedSummary_V100.SumDescription property
 
-获取或设置报告的汇总事务的描述。
+获取或设置汇总交易报告的描述。
 
 ```csharp
 public string SumDescription { get; set; }

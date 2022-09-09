@@ -18,13 +18,13 @@ public class IntraRequest : AbstractIntraRequest
 
 | Имя | Описание |
 | --- | --- |
-| [IntraRequest](intrarequest)() | Инициализирует новый экземпляр класса[`IntraRequest`](../intrarequest). |
+| [IntraRequest](intrarequest)() | Инициализирует новый экземпляр[`IntraRequest`](../intrarequest) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [TransferInfo](../../aspose.finance.ofx.bank/intrarequest/transferinfo) { get; set; } | Получает или задает[`TransferInfo`](./transferinfo). |
+| [TransferInfo](../../aspose.finance.ofx.bank/intrarequest/transferinfo) { get; set; } | Получает или задает[`TransferInfo`](./transferinfo) . |
 
 ### Смотрите также
 

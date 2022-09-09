@@ -1,14 +1,14 @@
 ---
 title: ReinvestDividend
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置是否再投资股息
+description: 获取或设置股息是否再投资
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.ofx.investment/positionstock/reinvestdividend/
 ---
 ## PositionStock.ReinvestDividend property
 
-获取或设置是否再投资股息。
+获取或设置股息是否再投资。
 
 ```csharp
 public bool ReinvestDividend { get; set; }

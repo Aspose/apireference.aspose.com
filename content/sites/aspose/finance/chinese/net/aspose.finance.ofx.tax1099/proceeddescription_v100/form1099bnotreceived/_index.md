@@ -1,14 +1,14 @@
 ---
 title: Form1099BNotReceived
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置表单 1099-B not received
+description: 获取或设置表格 1099B not received
 type: docs
 weight: 60
 url: /zh/net/aspose.finance.ofx.tax1099/proceeddescription_v100/form1099bnotreceived/
 ---
 ## ProceedDescription_V100.Form1099BNotReceived property
 
-获取或设置表单 1099-B not received
+获取或设置表格 1099-B not received
 
 ```csharp
 public bool Form1099BNotReceived { get; set; }

@@ -1,7 +1,7 @@
 ---
 title: Country
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает страну. Трехбуквенный код страны из ISO/DIS-3166.
+description: Получает или задает страну. Трехбуквенный код страны из ISO/DIS3166.
 type: docs
 weight: 60
 url: /ru/net/aspose.finance.ofx/accountholdertype/country/

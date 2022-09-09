@@ -18,16 +18,16 @@ public class LoanMailSyncResponse : AbstractSyncResponse
 
 | Имя | Описание |
 | --- | --- |
-| [LoanMailSyncResponse](loanmailsyncresponse)() | Инициализирует новый экземпляр класса[`LoanMailSyncResponse`](../loanmailsyncresponse). |
+| [LoanMailSyncResponse](loanmailsyncresponse)() | Инициализирует новый экземпляр[`LoanMailSyncResponse`](../loanmailsyncresponse) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [LoanAccountFrom](../../aspose.finance.ofx.loan/loanmailsyncresponse/loanaccountfrom) { get; set; } | Получает или задает значение из[`LoanAccount`](../../aspose.finance.ofx/loanaccount). |
-| [LoanMailTransactionResponses](../../aspose.finance.ofx.loan/loanmailsyncresponse/loanmailtransactionresponses) { get; set; } | Получает или задает коллекцию[`LoanMailTransactionResponse`](../loanmailtransactionresponse). |
-| [LostSynchronization](../../aspose.finance.ofx/abstractsyncresponse/lostsynchronization) { get; set; } | Да, если токен в запросе на синхронизацию старше, чем самая ранняя запись в таблице истории сервера. В этом случае некоторые ответы были потеряны. Нет, если токен в запросе на синхронизацию новее или совпадает с токеном в таблице истории сервера. |
-| [OfxExtension](../../aspose.finance.ofx.loan/loanmailsyncresponse/ofxextension) { get; set; } | Получает или задает[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
+| [LoanAccountFrom](../../aspose.finance.ofx.loan/loanmailsyncresponse/loanaccountfrom) { get; set; } | Получает или задает из[`LoanAccount`](../../aspose.finance.ofx/loanaccount) . |
+| [LoanMailTransactionResponses](../../aspose.finance.ofx.loan/loanmailsyncresponse/loanmailtransactionresponses) { get; set; } | Получает или задает коллекцию[`LoanMailTransactionResponse`](../loanmailtransactionresponse) . |
+| [LostSynchronization](../../aspose.finance.ofx/abstractsyncresponse/lostsynchronization) { get; set; } | Да, если токен в запросе на синхронизацию старше самой ранней записи в таблице истории сервера. В этом случае некоторые ответы были потеряны. Нет, если токен в запросе на синхронизацию новее или совпадает с токеном в таблице сервера. таблица истории. |
+| [OfxExtension](../../aspose.finance.ofx.loan/loanmailsyncresponse/ofxextension) { get; set; } | Получает или задает[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype) . |
 | [Token](../../aspose.finance.ofx/abstractsyncresponse/token) { get; set; } | Получает или задает новый маркер синхронизации. |
 
 ### Смотрите также

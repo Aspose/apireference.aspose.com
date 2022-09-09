@@ -1,14 +1,14 @@
 ---
 title: Phone
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает номер телефона для учетной записи.
+description: Получает или устанавливает номер телефона для учетной записи.
 type: docs
 weight: 60
 url: /ru/net/aspose.finance.ofx/accountinfo/phone/
 ---
 ## AccountInfo.Phone property
 
-Получает или задает номер телефона для учетной записи.
+Получает или устанавливает номер телефона для учетной записи.
 
 ```csharp
 public string Phone { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: HolderTypeEnum
 second_title: Aspose.Finance for .NET API 参考
-description: 帐户持有人类型枚举
+description: 账户持有人类型枚举
 type: docs
 weight: 2270
 url: /zh/net/aspose.finance.ofx/holdertypeenum/
 ---
 ## HolderTypeEnum enumeration
 
-帐户持有人类型枚举。
+账户持有人类型枚举。
 
 ```csharp
 public enum HolderTypeEnum
@@ -21,7 +21,7 @@ public enum HolderTypeEnum
 | INDIVIDUAL | `0` | 个人账户 |
 | JOINT | `1` | 联名账户 |
 | CUSTODIAL | `2` | 保管账户 |
-| TRUST | `3` | 信托账户 |
+| TRUST | `3` | 信任账户 |
 | OTHER | `4` | 其他类型的账户关系 |
 
 ### 也可以看看

@@ -1,14 +1,14 @@
 ---
 title: ServerId
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает идентификатор переноса который необходимо отменить.
+description: Получает или задает идентификатор переноса который нужно отменить.
 type: docs
 weight: 20
 url: /ru/net/aspose.finance.ofx.intertransfer/intercancellationrequest/serverid/
 ---
 ## InterCancellationRequest.ServerId property
 
-Получает или задает идентификатор переноса, который необходимо отменить.
+Получает или задает идентификатор переноса, который нужно отменить.
 
 ```csharp
 public string ServerId { get; set; }

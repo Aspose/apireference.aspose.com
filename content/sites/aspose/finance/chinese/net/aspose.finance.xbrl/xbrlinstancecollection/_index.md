@@ -3,7 +3,7 @@ title: XbrlInstanceCollection
 second_title: Aspose.Finance for .NET API 参考
 description: XBRL 实例的集合
 type: docs
-weight: 8200
+weight: 8210
 url: /zh/net/aspose.finance.xbrl/xbrlinstancecollection/
 ---
 ## XbrlInstanceCollection class
@@ -19,14 +19,14 @@ public class XbrlInstanceCollection : IEnumerable<XbrlInstance>
 | 姓名 | 描述 |
 | --- | --- |
 | [Count](../../aspose.finance.xbrl/xbrlinstancecollection/count) { get; } | 此集合中 XBRL 实例的数量。 |
-| [Item](../../aspose.finance.xbrl/xbrlinstancecollection/item) { get; set; } | 获取并设置集合中指定索引处的[`XbrlInstance`](../xbrlinstance)项目。 |
-| [XbrlDocument](../../aspose.finance.xbrl/xbrlinstancecollection/xbrldocument) { get; } | 获取包含此 XBRL 实例集合的[`XbrlDocument`](./xbrldocument)。 |
+| [Item](../../aspose.finance.xbrl/xbrlinstancecollection/item) { get; set; } | 获取和设置[`XbrlInstance`](../xbrlinstance)集合中指定索引处的项目。 |
+| [XbrlDocument](../../aspose.finance.xbrl/xbrlinstancecollection/xbrldocument) { get; } | 获取[`XbrlDocument`](./xbrldocument)其中包含此 XBRL 实例集合。 |
 
 ## 方法
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Add](../../aspose.finance.xbrl/xbrlinstancecollection/add)() | 将[`XbrlInstance`](../xbrlinstance)添加到集合中。 |
+| [Add](../../aspose.finance.xbrl/xbrlinstancecollection/add)() | 添加一个[`XbrlInstance`](../xbrlinstance)收藏. |
 | [GetEnumerator](../../aspose.finance.xbrl/xbrlinstancecollection/getenumerator)() | 返回一个遍历集合的枚举器。 |
 
 ### 也可以看看

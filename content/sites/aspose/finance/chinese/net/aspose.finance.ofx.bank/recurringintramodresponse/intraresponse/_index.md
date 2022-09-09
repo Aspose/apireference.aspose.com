@@ -1,14 +1,14 @@
 ---
 title: IntraResponse
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置IntraResponseaspose.finance.ofx.bank/recurringintramodresponse/intraresponse
+description: 获取或设置IntraResponseaspose.finance.ofx.bank/recurringintramodresponse/intraresponse.
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.ofx.bank/recurringintramodresponse/intraresponse/
 ---
 ## RecurringIntraModResponse.IntraResponse property
 
-获取或设置`IntraResponse`。
+获取或设置`IntraResponse`.
 
 ```csharp
 public IntraResponse IntraResponse { get; set; }

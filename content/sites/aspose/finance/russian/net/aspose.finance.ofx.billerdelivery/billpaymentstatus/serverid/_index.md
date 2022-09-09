@@ -1,14 +1,14 @@
 ---
 title: ServerID
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает идентификатор серверной транзакции платежа по данному счету.
+description: Получает или задает идентификатор серверной транзакции платежа по этому счету.
 type: docs
 weight: 40
 url: /ru/net/aspose.finance.ofx.billerdelivery/billpaymentstatus/serverid/
 ---
 ## BillPaymentStatus.ServerID property
 
-Получает или задает идентификатор серверной транзакции платежа по данному счету.
+Получает или задает идентификатор серверной транзакции платежа по этому счету.
 
 ```csharp
 public string ServerID { get; set; }

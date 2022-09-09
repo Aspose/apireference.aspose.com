@@ -1,14 +1,14 @@
 ---
 title: LocalInfo
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化LocalInfoaspose.finance.ofx.taxw2/localinfo类的新实例
+description: 初始化一个新的实例LocalInfoaspose.finance.ofx.taxw2/localinfo类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.taxw2/localinfo/localinfo/
 ---
 ## LocalInfo constructor
 
-初始化[`LocalInfo`](../../localinfo)类的新实例。
+初始化一个新的实例[`LocalInfo`](../../localinfo)类.
 
 ```csharp
 public LocalInfo()

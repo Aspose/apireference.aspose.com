@@ -1,14 +1,14 @@
 ---
 title: ArcroleReferences
 second_title: Aspose.Finance for .NET API 参考
-description: 获取内联 XBRL 文档中ArcroleReferenceaspose.finance.xbrl/arcrolereference的集合
+description: 获取集合ArcroleReferenceaspose.finance.xbrl/arcrolereference在内联 XBRL 文档中
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.xbrl.inline/inlinexbrldocument/arcrolereferences/
 ---
 ## InlineXbrlDocument.ArcroleReferences property
 
-获取内联 XBRL 文档中[`ArcroleReference`](../../../aspose.finance.xbrl/arcrolereference)的集合。
+获取集合[`ArcroleReference`](../../../aspose.finance.xbrl/arcrolereference)在内联 XBRL 文档中。
 
 ```csharp
 public List<ArcroleReference> ArcroleReferences { get; }

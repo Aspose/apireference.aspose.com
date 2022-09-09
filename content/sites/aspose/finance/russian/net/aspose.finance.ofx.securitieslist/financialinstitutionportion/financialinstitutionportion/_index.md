@@ -1,14 +1,14 @@
 ---
 title: FinancialInstitutionPortion
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаFinancialInstitutionPort.
+description: Инициализирует новый экземплярFinancialInstitutionPortionaspose.finance.ofx.securitieslist/financialinstitutionportion класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.securitieslist/financialinstitutionportion/financialinstitutionportion/
 ---
 ## FinancialInstitutionPortion constructor
 
-Инициализирует новый экземпляр классаFinancialInstitutionPort.
+Инициализирует новый экземпляр[`FinancialInstitutionPortion`](../../financialinstitutionportion) класс.
 
 ```csharp
 public FinancialInstitutionPortion()

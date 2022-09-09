@@ -18,15 +18,15 @@ public class SellMutualFund : AbstractInvestmentSellTransaction
 
 | 姓名 | 描述 |
 | --- | --- |
-| [SellMutualFund](sellmutualfund)() | 初始化[`SellMutualFund`](../sellmutualfund)类的新实例。 |
+| [SellMutualFund](sellmutualfund)() | 初始化一个新的实例[`SellMutualFund`](../sellmutualfund)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
 | [AverageCostBasis](../../aspose.finance.ofx.investment/sellmutualfund/averagecostbasis) { get; set; } | 获取或设置平均成本基础。 |
-| [InvestmentSell](../../aspose.finance.ofx.investment/abstractinvestmentselltransaction/investmentsell) { get; set; } | 获取或设置[`InvestmentSell`](../abstractinvestmentselltransaction/investmentsell)。 |
-| [RelateFITransactionID](../../aspose.finance.ofx.investment/sellmutualfund/relatefitransactionid) { get; set; } | 获取或设置关联交易的ID。 |
+| [InvestmentSell](../../aspose.finance.ofx.investment/abstractinvestmentselltransaction/investmentsell) { get; set; } | 获取或设置[`InvestmentSell`](../abstractinvestmentselltransaction/investmentsell). |
+| [RelateFITransactionID](../../aspose.finance.ofx.investment/sellmutualfund/relatefitransactionid) { get; set; } | 获取或设置相关交易的ID。 |
 | [SellType](../../aspose.finance.ofx.investment/sellmutualfund/selltype) { get; set; } | 获取或设置卖出类型。 |
 
 ### 也可以看看

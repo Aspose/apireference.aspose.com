@@ -1,14 +1,14 @@
 ---
 title: Contributions
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置Contributionsaspose.finance.ofx.investment/incepttodate/contributions
+description: 获取或设置Contributionsaspose.finance.ofx.investment/incepttodate/contributions.
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.ofx.investment/incepttodate/contributions/
 ---
 ## InceptToDate.Contributions property
 
-获取或设置`Contributions`。
+获取或设置`Contributions`.
 
 ```csharp
 public Contributions Contributions { get; set; }

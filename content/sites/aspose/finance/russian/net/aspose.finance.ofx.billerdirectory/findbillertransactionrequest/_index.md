@@ -18,15 +18,15 @@ public class FindBillerTransactionRequest : AbstractTransactionRequest
 
 | Имя | Описание |
 | --- | --- |
-| [FindBillerTransactionRequest](findbillertransactionrequest)() | Инициализирует новый экземпляр класса[`FindBillerTransactionRequest`](../findbillertransactionrequest). |
+| [FindBillerTransactionRequest](findbillertransactionrequest)() | Инициализирует новый экземпляр[`FindBillerTransactionRequest`](../findbillertransactionrequest) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [ClientCookie](../../aspose.finance.ofx/abstracttransactionrequest/clientcookie) { get; set; } | Получает или задает данные, которые будут отображаться в ответе транзакции |
-| [FindBillerRequest](../../aspose.finance.ofx.billerdirectory/findbillertransactionrequest/findbillerrequest) { get; set; } | Получает или задает[`FindBillerRequest`](./findbillerrequest). |
-| [OfxExtension](../../aspose.finance.ofx.billerdirectory/findbillertransactionrequest/ofxextension) { get; set; } | Получает или задает[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
+| [ClientCookie](../../aspose.finance.ofx/abstracttransactionrequest/clientcookie) { get; set; } | Получает или задает данные, которые будут отражены в транзакции response |
+| [FindBillerRequest](../../aspose.finance.ofx.billerdirectory/findbillertransactionrequest/findbillerrequest) { get; set; } | Получает или задает[`FindBillerRequest`](./findbillerrequest) . |
+| [OfxExtension](../../aspose.finance.ofx.billerdirectory/findbillertransactionrequest/ofxextension) { get; set; } | Получает или задает[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype) . |
 | [TransactionAuthorizationNumber](../../aspose.finance.ofx/abstracttransactionrequest/transactionauthorizationnumber) { get; set; } | Получает или задает номер авторизации транзакции. |
 | [TransactionUniqueId](../../aspose.finance.ofx/abstracttransactionrequest/transactionuniqueid) { get; set; } | Получает или задает назначенный клиентом глобальный уникальный идентификатор для этой транзакции |
 

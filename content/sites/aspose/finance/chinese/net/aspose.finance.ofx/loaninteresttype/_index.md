@@ -1,14 +1,14 @@
 ---
 title: LoanInterestType
 second_title: Aspose.Finance for .NET API 参考
-description: 已付贷款利息
+description: 支付的贷款利息
 type: docs
 weight: 4060
 url: /zh/net/aspose.finance.ofx/loaninteresttype/
 ---
 ## LoanInterestType class
 
-已付贷款利息。
+支付的贷款利息。
 
 ```csharp
 public class LoanInterestType
@@ -18,15 +18,15 @@ public class LoanInterestType
 
 | 姓名 | 描述 |
 | --- | --- |
-| [LoanInterestType](loaninteresttype)() | 初始化[`LoanInterestType`](../loaninteresttype)类的新实例。 |
+| [LoanInterestType](loaninteresttype)() | 初始化一个新的实例[`LoanInterestType`](../loaninteresttype)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
 | [DateAsOf](../../aspose.finance.ofx/loaninteresttype/dateasof) { get; set; } | 获取或设置兴趣信息的日期和时间。 |
-| [LoanInterestLoanToDate](../../aspose.finance.ofx/loaninteresttype/loaninterestloantodate) { get; set; } | 获取或设置迄今为止支付的贷款总利息 |
-| [LoanInterestProject](../../aspose.finance.ofx/loaninteresttype/loaninterestproject) { get; set; } | 获取或设置此贷款预计支付的总利息 |
+| [LoanInterestLoanToDate](../../aspose.finance.ofx/loaninteresttype/loaninterestloantodate) { get; set; } | 获取或设置贷款的总利息支付日期 |
+| [LoanInterestProject](../../aspose.finance.ofx/loaninteresttype/loaninterestproject) { get; set; } | 获取或设置此贷款要支付的预计总利息 |
 | [LoanInterestYearToDate](../../aspose.finance.ofx/loaninteresttype/loaninterestyeartodate) { get; set; } | 获取或设置年初至今支付的总利息。 |
 
 ### 也可以看看

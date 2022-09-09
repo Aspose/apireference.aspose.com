@@ -1,14 +1,14 @@
 ---
 title: ReferenceArcs
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает коллекциюReferenceArcaspose.finance.xbrl/referencearc.
+description: Получает коллекциюReferenceArcaspose.finance.xbrl/referencearc .
 type: docs
 weight: 20
 url: /ru/net/aspose.finance.xbrl/referencelink/referencearcs/
 ---
 ## ReferenceLink.ReferenceArcs property
 
-Получает коллекцию[`ReferenceArc`](../../referencearc).
+Получает коллекцию[`ReferenceArc`](../../referencearc) .
 
 ```csharp
 public List<ReferenceArc> ReferenceArcs { get; }

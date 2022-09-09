@@ -1,14 +1,14 @@
 ---
 title: SignonRequest
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化SignonRequestaspose.finance.ofx.signon/signonrequest类的新实例
+description: 初始化一个新的实例SignonRequestaspose.finance.ofx.signon/signonrequest类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.signon/signonrequest/signonrequest/
 ---
 ## SignonRequest constructor
 
-初始化[`SignonRequest`](../../signonrequest)类的新实例。
+初始化一个新的实例[`SignonRequest`](../../signonrequest)类.
 
 ```csharp
 public SignonRequest()

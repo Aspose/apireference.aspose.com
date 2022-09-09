@@ -1,14 +1,14 @@
 ---
 title: XbrlInstance
 second_title: Справочник по API Aspose.Finance для .NET
-description: Экземпляр XBRL представляет собой фрагмент XML с корневым элементом имеющим тег xbrl. Экземпляр XBRL содержит факты бизнес-отчета причем каждый факт соответствуетConcept./concept определенному в поддерживающей их DTS. Отчет XBRL также содержит контексты и единицы которые предоставляют дополнительную информацию необходимую для интерпретации фактов в отчете.
+description: Экземпляр XBRL представляет собой фрагмент XML с корневым элементом имеющим тег xbrl. Отчет XBRL содержит факты бизнесотчета причем каждый факт соответствуетConcept./concept определены в поддерживающих их DTS. Отчет XBRL также содержит контексты и единицы которые предоставляют дополнительную информацию необходимую для интерпретации фактов в отчете.
 type: docs
-weight: 8190
+weight: 8200
 url: /ru/net/aspose.finance.xbrl/xbrlinstance/
 ---
 ## XbrlInstance class
 
-Экземпляр XBRL представляет собой фрагмент XML с корневым элементом, имеющим тег xbrl. Экземпляр XBRL содержит факты бизнес-отчета, причем каждый факт соответствует[`Concept`](../concept), определенному в поддерживающей их DTS. Отчет XBRL также содержит контексты и единицы, которые предоставляют дополнительную информацию, необходимую для интерпретации фактов в отчете.
+Экземпляр XBRL представляет собой фрагмент XML с корневым элементом, имеющим тег xbrl. Отчет XBRL содержит факты бизнес-отчета, причем каждый факт соответствует[`Concept`](../concept) определены в поддерживающих их DTS. Отчет XBRL также содержит контексты и единицы, которые предоставляют дополнительную информацию, необходимую для интерпретации фактов в отчете.
 
 ```csharp
 public class XbrlInstance
@@ -18,34 +18,34 @@ public class XbrlInstance
 
 | Имя | Описание |
 | --- | --- |
-| [ArcroleReferences](../../aspose.finance.xbrl/xbrlinstance/arcrolereferences) { get; set; } | Получает или задает коллекцию объектов[`ArcroleReference`](../arcrolereference)в экземпляре XBRL. |
-| [Contexts](../../aspose.finance.xbrl/xbrlinstance/contexts) { get; set; } | Получает или задает коллекцию объектов[`Context`](../context)в отчете XBRL. |
-| [Facts](../../aspose.finance.xbrl/xbrlinstance/facts) { get; } | Получает коллекцию объектов[`Fact`](../fact)в экземпляре XBRL. |
-| [FootnoteLinks](../../aspose.finance.xbrl/xbrlinstance/footnotelinks) { get; set; } | Получает или задает коллекцию объектов[`FootnoteLink`](../footnotelink)в экземпляре XBRL. |
-| [Items](../../aspose.finance.xbrl/xbrlinstance/items) { get; } | Получает коллекцию объектов[`Item`](../item)в экземпляре XBRL. |
-| [LinkbaseRefCollection](../../aspose.finance.xbrl/xbrlinstance/linkbaserefcollection) { get; } | Получает[`LinkbaseRefCollection`](./linkbaserefcollection)в[`XbrlInstance`](../xbrlinstance). |
-| [RoleReferences](../../aspose.finance.xbrl/xbrlinstance/rolereferences) { get; set; } | Получает или задает коллекцию объектов[`RoleReference`](../rolereference)в отчете XBRL. |
-| [SchemaLocation](../../aspose.finance.xbrl/xbrlinstance/schemalocation) { get; set; } | Получает или задает расположение схемы |
+| [ArcroleReferences](../../aspose.finance.xbrl/xbrlinstance/arcrolereferences) { get; set; } | Получает или задает коллекцию[`ArcroleReference`](../arcrolereference) объекты в экземпляре XBRL. |
+| [Contexts](../../aspose.finance.xbrl/xbrlinstance/contexts) { get; set; } | Получает или задает коллекцию[`Context`](../context) объекты в экземпляре XBRL. |
+| [Facts](../../aspose.finance.xbrl/xbrlinstance/facts) { get; } | Получает коллекцию[`Fact`](../fact) объекты в экземпляре XBRL. |
+| [FootnoteLinks](../../aspose.finance.xbrl/xbrlinstance/footnotelinks) { get; set; } | Получает или задает коллекцию[`FootnoteLink`](../footnotelink) объекты в экземпляре XBRL. |
+| [Items](../../aspose.finance.xbrl/xbrlinstance/items) { get; } | Получает коллекцию[`Item`](../item) объекты в экземпляре XBRL. |
+| [LinkbaseRefCollection](../../aspose.finance.xbrl/xbrlinstance/linkbaserefcollection) { get; } | Получает[`LinkbaseRefCollection`](./linkbaserefcollection) в[`XbrlInstance`](../xbrlinstance) . |
+| [RoleReferences](../../aspose.finance.xbrl/xbrlinstance/rolereferences) { get; set; } | Получает или задает коллекцию[`RoleReference`](../rolereference) объекты в экземпляре XBRL. |
+| [SchemaLocation](../../aspose.finance.xbrl/xbrlinstance/schemalocation) { get; set; } | Получает или задает схему location |
 | [SchemaRefs](../../aspose.finance.xbrl/xbrlinstance/schemarefs) { get; } | Получает коллекцию SchemaRef. |
-| [Units](../../aspose.finance.xbrl/xbrlinstance/units) { get; set; } | Получает или задает коллекцию объектов[`Unit`](../unit)в отчете XBRL. |
+| [Units](../../aspose.finance.xbrl/xbrlinstance/units) { get; set; } | Получает или задает коллекцию[`Unit`](../unit) объекты в экземпляре XBRL. |
 | [ValidationErrors](../../aspose.finance.xbrl/xbrlinstance/validationerrors) { get; } | Получает коллекцию ошибок проверки. |
-| [XbrlDocument](../../aspose.finance.xbrl/xbrlinstance/xbrldocument) { get; } | Получите[`XbrlDocument`](./xbrldocument), который содержит этот экземпляр. |
+| [XbrlDocument](../../aspose.finance.xbrl/xbrlinstance/xbrldocument) { get; } | Получить[`XbrlDocument`](./xbrldocument) который содержит этот экземпляр. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
 | [CreateElement](../../aspose.finance.xbrl/xbrlinstance/createelement)(string, string, string) | Создать новый элемент. |
-| [GetAllLinkbaseRefCollections](../../aspose.finance.xbrl/xbrlinstance/getalllinkbaserefcollections)() | Получение всех коллекций ссылок на экземпляры xbrl и ссылки на схемы. |
+| [GetAllLinkbaseRefCollections](../../aspose.finance.xbrl/xbrlinstance/getalllinkbaserefcollections)() | Получить все коллекции ссылок в экземпляре xbrl и ссылки на схему. |
 | [GetArcroleTypeByURI](../../aspose.finance.xbrl/xbrlinstance/getarcroletypebyuri)(string) | Получает ArcroleType с указанным uri. |
 | [GetConceptById](../../aspose.finance.xbrl/xbrlinstance/getconceptbyid)(string) | Получает концепт с указанным идентификатором. |
 | [GetConceptByLoc](../../aspose.finance.xbrl/xbrlinstance/getconceptbyloc)(Loc) | Получает концепт по локатору. |
 | [GetConceptByName](../../aspose.finance.xbrl/xbrlinstance/getconceptbyname)(string) | Получает концепт с указанным именем. |
 | [GetContextById](../../aspose.finance.xbrl/xbrlinstance/getcontextbyid)(string) | Получает контекст с указанным идентификатором. |
-| [GetPresentationLinks](../../aspose.finance.xbrl/xbrlinstance/getpresentationlinks)(string, string) | Получает ссылки на презентации в экземпляре xbrl. |
-| [GetRoleTypeByURI](../../aspose.finance.xbrl/xbrlinstance/getroletypebyuri)(string) | Получает тип роли с указанным uri. |
+| [GetPresentationLinks](../../aspose.finance.xbrl/xbrlinstance/getpresentationlinks)(string, string) | Получает ссылки на презентацию в экземпляре xbrl. |
+| [GetRoleTypeByURI](../../aspose.finance.xbrl/xbrlinstance/getroletypebyuri)(string) | Получает RoleType с указанным uri. |
 | [GetUnitById](../../aspose.finance.xbrl/xbrlinstance/getunitbyid)(string) | Получает юнит с указанным идентификатором. |
-| [IsValid](../../aspose.finance.xbrl/xbrlinstance/isvalid)() | Проверяет, действителен ли этот отчет XBRL. |
+| [IsValid](../../aspose.finance.xbrl/xbrlinstance/isvalid)() | Проверяет, является ли этот экземпляр XBRL действительным. |
 | [Validate](../../aspose.finance.xbrl/xbrlinstance/validate)() | Проверяет этот экземпляр XBRL. |
 
 ### Смотрите также

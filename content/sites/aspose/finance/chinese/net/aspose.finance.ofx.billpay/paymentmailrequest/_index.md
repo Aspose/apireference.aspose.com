@@ -18,14 +18,14 @@ public class PaymentMailRequest
 
 | 姓名 | 描述 |
 | --- | --- |
-| [PaymentMailRequest](paymentmailrequest)() | 初始化[`PaymentMailRequest`](../paymentmailrequest)类的新实例。 |
+| [PaymentMailRequest](paymentmailrequest)() | 初始化一个新的实例[`PaymentMailRequest`](../paymentmailrequest)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Mail](../../aspose.finance.ofx.billpay/paymentmailrequest/mail) { get; set; } | 获取或设置[`Mail`](./mail)。 |
-| [PaymentInfo](../../aspose.finance.ofx.billpay/paymentmailrequest/paymentinfo) { get; set; } | 获取或设置[`PaymentInfo`](./paymentinfo)。 |
+| [Mail](../../aspose.finance.ofx.billpay/paymentmailrequest/mail) { get; set; } | 获取或设置[`Mail`](./mail). |
+| [PaymentInfo](../../aspose.finance.ofx.billpay/paymentmailrequest/paymentinfo) { get; set; } | 获取或设置[`PaymentInfo`](./paymentinfo). |
 | [ServerId](../../aspose.finance.ofx.billpay/paymentmailrequest/serverid) { get; set; } | 获取或设置作为通信主题的支付的交易ID。 |
 
 ### 也可以看看

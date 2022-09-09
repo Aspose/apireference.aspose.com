@@ -1,14 +1,14 @@
 ---
 title: FromRefsId
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает исходные идентификаторы ссылокInlineRelationshipaspose.finance.xbrl.inline/inlinerelationship.
+description: Получает или задает исходные идентификаторы ссылокInlineRelationshipaspose.finance.xbrl.inline/inlinerelationship .
 type: docs
 weight: 20
 url: /ru/net/aspose.finance.xbrl.inline/inlinerelationship/fromrefsid/
 ---
 ## InlineRelationship.FromRefsId property
 
-Получает или задает исходные идентификаторы ссылок[`InlineRelationship`](../../inlinerelationship).
+Получает или задает исходные идентификаторы ссылок[`InlineRelationship`](../../inlinerelationship) .
 
 ```csharp
 public string FromRefsId { get; set; }

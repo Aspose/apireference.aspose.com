@@ -18,7 +18,7 @@ public class ArcroleReference : SimpleLink
 
 | Имя | Описание |
 | --- | --- |
-| [ArcroleReference](arcrolereference)(ArcroleType) | Инициализирует новый экземпляр класса[`ArcroleReference`](../arcrolereference). |
+| [ArcroleReference](arcrolereference)(ArcroleType) | Инициализирует новый экземпляр[`ArcroleReference`](../arcrolereference) класс. |
 
 ## Характеристики
 

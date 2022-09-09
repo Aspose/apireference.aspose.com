@@ -1,14 +1,14 @@
 ---
 title: OpenOrders
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает коллекциюOpenOrderBuyDebtaspose.finance.ofx.investment/openorderbuydebtилиOpenOrderBuyMutualFundaspose.finance.ofx.investment/openorderbuymutualfundилиOpenOrderBuyOptionaspose.finance.ofx.investment/openorderbuyoption илиOpenOrderBuyOtheraspose.finance.ofx.investment/openorderbuyotherилиOpenOrderBuyStockaspose.finance.ofx.investment/openorderbuystockилиOpenOrderSellDebtaspose.finance.ofx.investment/openorderselldebt илиOpenOrderSellMutualFundaspose.finance.ofx.investment/openordersellmutualfundилиOpenOrderSellOptionaspose.finance.ofx.investment/openorderselloptionилиOpenOrderSellOtheraspose.finance.ofx.investment/openordersellother илиOpenOrderSellStockaspose.finance.ofx.investment/openordersellstockилиOpenOrderSwitchMutualFundaspose.finance.ofx.investment/openorderswitchmutualfund.
+description: Получает или задает коллекциюOpenOrderBuyDebtaspose.finance.ofx.investment/openorderbuydebt или жеOpenOrderBuyMutualFundaspose.finance.ofx.investment/openorderbuymutualfund или жеOpenOrderBuyOptionaspose.finance.ofx.investment/openorderbuyoption илиOpenOrderBuyOtheraspose.finance.ofx.investment/openorderbuyother или жеOpenOrderBuyStockaspose.finance.ofx.investment/openorderbuystock или жеOpenOrderSellDebtaspose.finance.ofx.investment/openorderselldebt илиOpenOrderSellMutualFundaspose.finance.ofx.investment/openordersellmutualfund или жеOpenOrderSellOptionaspose.finance.ofx.investment/openorderselloption или жеOpenOrderSellOtheraspose.finance.ofx.investment/openordersellother илиOpenOrderSellStockaspose.finance.ofx.investment/openordersellstock или жеOpenOrderSwitchMutualFundaspose.finance.ofx.investment/openorderswitchmutualfund .
 type: docs
 weight: 20
 url: /ru/net/aspose.finance.ofx.investment/investmentopenorderlist/openorders/
 ---
 ## InvestmentOpenOrderList.OpenOrders property
 
-Получает или задает коллекцию[`OpenOrderBuyDebt`](../../openorderbuydebt)или[`OpenOrderBuyMutualFund`](../../openorderbuymutualfund)или[`OpenOrderBuyOption`](../../openorderbuyoption) или[`OpenOrderBuyOther`](../../openorderbuyother)или[`OpenOrderBuyStock`](../../openorderbuystock)или[`OpenOrderSellDebt`](../../openorderselldebt) или[`OpenOrderSellMutualFund`](../../openordersellmutualfund)или[`OpenOrderSellOption`](../../openorderselloption)или[`OpenOrderSellOther`](../../openordersellother) или[`OpenOrderSellStock`](../../openordersellstock)или[`OpenOrderSwitchMutualFund`](../../openorderswitchmutualfund).
+Получает или задает коллекцию[`OpenOrderBuyDebt`](../../openorderbuydebt) или же[`OpenOrderBuyMutualFund`](../../openorderbuymutualfund) или же[`OpenOrderBuyOption`](../../openorderbuyoption) или[`OpenOrderBuyOther`](../../openorderbuyother) или же[`OpenOrderBuyStock`](../../openorderbuystock) или же[`OpenOrderSellDebt`](../../openorderselldebt) или[`OpenOrderSellMutualFund`](../../openordersellmutualfund) или же[`OpenOrderSellOption`](../../openorderselloption) или же[`OpenOrderSellOther`](../../openordersellother) или[`OpenOrderSellStock`](../../openordersellstock) или же[`OpenOrderSwitchMutualFund`](../../openorderswitchmutualfund) .
 
 ```csharp
 public List<AbstractOpenOrder> OpenOrders { get; set; }

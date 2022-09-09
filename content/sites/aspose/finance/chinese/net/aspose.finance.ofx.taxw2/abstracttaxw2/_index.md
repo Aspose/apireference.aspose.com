@@ -18,9 +18,9 @@ public abstract class AbstractTaxW2
 
 | 姓名 | 描述 |
 | --- | --- |
-| [ControlNumber](../../aspose.finance.ofx.taxw2/abstracttaxw2/controlnumber) { get; set; } | 获取或设置控制号。 |
+| [ControlNumber](../../aspose.finance.ofx.taxw2/abstracttaxw2/controlnumber) { get; set; } | 获取或设置控制号 |
 | [TaxYear](../../aspose.finance.ofx.taxw2/abstracttaxw2/taxyear) { get; set; } | 获取或设置此表单的纳税年度，格式为“YYYY”。 |
-| [Void](../../aspose.finance.ofx.taxw2/abstracttaxw2/void) { get; set; } | 获取或设置此 W2 是否为 void 并提供新的 W2。 |
+| [Void](../../aspose.finance.ofx.taxw2/abstracttaxw2/void) { get; set; } | 获取或设置此 W2 是否为无效并提供新的 W2。 |
 
 ### 也可以看看
 

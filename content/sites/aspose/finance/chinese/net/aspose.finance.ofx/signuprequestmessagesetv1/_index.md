@@ -1,14 +1,14 @@
 ---
 title: SignupRequestMessageSetV1
 second_title: Aspose.Finance for .NET API 参考
-description: 注册请求消息设置版本 1 类
+description: 注册请求消息集版本 1 类
 type: docs
 weight: 5680
 url: /zh/net/aspose.finance.ofx/signuprequestmessagesetv1/
 ---
 ## SignupRequestMessageSetV1 class
 
-注册请求消息设置版本 1 类。
+注册请求消息集版本 1 类。
 
 ```csharp
 public class SignupRequestMessageSetV1 : AbstractRequestMessageSet
@@ -18,18 +18,18 @@ public class SignupRequestMessageSetV1 : AbstractRequestMessageSet
 
 | 姓名 | 描述 |
 | --- | --- |
-| [SignupRequestMessageSetV1](signuprequestmessagesetv1)() | 初始化[`SignupRequestMessageSetV1`](../signuprequestmessagesetv1)类的新实例。 |
+| [SignupRequestMessageSetV1](signuprequestmessagesetv1)() | 初始化一个新的实例[`SignupRequestMessageSetV1`](../signuprequestmessagesetv1)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [AccountInfoTransactionRequests](../../aspose.finance.ofx/signuprequestmessagesetv1/accountinfotransactionrequests) { get; set; } | 获取或设置[`AccountInfoTransactionRequest`](../../aspose.finance.ofx.signup/accountinfotransactionrequest)的集合。 |
-| [AccountSyncRequests](../../aspose.finance.ofx/signuprequestmessagesetv1/accountsyncrequests) { get; set; } | 获取或设置[`AccountSyncRequest`](../../aspose.finance.ofx.signup/accountsyncrequest)的集合。 |
-| [AccountTransactionRequests](../../aspose.finance.ofx/signuprequestmessagesetv1/accounttransactionrequests) { get; set; } | 获取或设置[`AccountTransactionRequest`](../../aspose.finance.ofx.signup/accounttransactionrequest)的集合。 |
-| [ChangeUserInfoSyncRequests](../../aspose.finance.ofx/signuprequestmessagesetv1/changeuserinfosyncrequests) { get; set; } | 获取或设置[`ChangeUserInfoSyncRequest`](../../aspose.finance.ofx.signup/changeuserinfosyncrequest)的集合。 |
-| [ChangeUserInfoTransactionRequests](../../aspose.finance.ofx/signuprequestmessagesetv1/changeuserinfotransactionrequests) { get; set; } | 获取或设置[`ChangeUserInfoTransactionRequest`](../../aspose.finance.ofx.signup/changeuserinfotransactionrequest)的集合。 |
-| [EnrollTransactionRequests](../../aspose.finance.ofx/signuprequestmessagesetv1/enrolltransactionrequests) { get; set; } | 获取或设置[`EnrollTransactionRequest`](../../aspose.finance.ofx.signup/enrolltransactionrequest)的集合。 |
+| [AccountInfoTransactionRequests](../../aspose.finance.ofx/signuprequestmessagesetv1/accountinfotransactionrequests) { get; set; } | 获取或设置的集合[`AccountInfoTransactionRequest`](../../aspose.finance.ofx.signup/accountinfotransactionrequest). |
+| [AccountSyncRequests](../../aspose.finance.ofx/signuprequestmessagesetv1/accountsyncrequests) { get; set; } | 获取或设置的集合[`AccountSyncRequest`](../../aspose.finance.ofx.signup/accountsyncrequest). |
+| [AccountTransactionRequests](../../aspose.finance.ofx/signuprequestmessagesetv1/accounttransactionrequests) { get; set; } | 获取或设置的集合[`AccountTransactionRequest`](../../aspose.finance.ofx.signup/accounttransactionrequest). |
+| [ChangeUserInfoSyncRequests](../../aspose.finance.ofx/signuprequestmessagesetv1/changeuserinfosyncrequests) { get; set; } | 获取或设置的集合[`ChangeUserInfoSyncRequest`](../../aspose.finance.ofx.signup/changeuserinfosyncrequest). |
+| [ChangeUserInfoTransactionRequests](../../aspose.finance.ofx/signuprequestmessagesetv1/changeuserinfotransactionrequests) { get; set; } | 获取或设置的集合[`ChangeUserInfoTransactionRequest`](../../aspose.finance.ofx.signup/changeuserinfotransactionrequest). |
+| [EnrollTransactionRequests](../../aspose.finance.ofx/signuprequestmessagesetv1/enrolltransactionrequests) { get; set; } | 获取或设置的集合[`EnrollTransactionRequest`](../../aspose.finance.ofx.signup/enrolltransactionrequest). |
 
 ### 也可以看看
 

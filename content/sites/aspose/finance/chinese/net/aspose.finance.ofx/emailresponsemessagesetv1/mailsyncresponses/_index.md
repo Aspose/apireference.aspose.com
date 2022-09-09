@@ -1,14 +1,14 @@
 ---
 title: MailSyncResponses
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置MailSyncResponseaspose.finance.ofx.email/mailsyncresponse的集合
+description: 获取或设置的集合MailSyncResponseaspose.finance.ofx.email/mailsyncresponse.
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.ofx/emailresponsemessagesetv1/mailsyncresponses/
 ---
 ## EmailResponseMessageSetV1.MailSyncResponses property
 
-获取或设置[`MailSyncResponse`](../../../aspose.finance.ofx.email/mailsyncresponse)的集合。
+获取或设置的集合[`MailSyncResponse`](../../../aspose.finance.ofx.email/mailsyncresponse).
 
 ```csharp
 public List<MailSyncResponse> MailSyncResponses { get; set; }

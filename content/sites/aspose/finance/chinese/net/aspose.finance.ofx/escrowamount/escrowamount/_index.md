@@ -1,14 +1,14 @@
 ---
 title: EscrowAmount
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化EscrowAmountaspose.finance.ofx/escrowamount类的新实例
+description: 初始化一个新的实例EscrowAmountaspose.finance.ofx/escrowamount类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx/escrowamount/escrowamount/
 ---
 ## EscrowAmount constructor
 
-初始化[`EscrowAmount`](../../escrowamount)类的新实例。
+初始化一个新的实例[`EscrowAmount`](../../escrowamount)类.
 
 ```csharp
 public EscrowAmount()

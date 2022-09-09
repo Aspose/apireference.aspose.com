@@ -1,14 +1,14 @@
 ---
 title: RewardInfoType
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаRewardInfoTypeaspose.finance.ofx/rewardinfotype.
+description: Инициализирует новый экземплярRewardInfoTypeaspose.finance.ofx/rewardinfotype класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx/rewardinfotype/rewardinfotype/
 ---
 ## RewardInfoType constructor
 
-Инициализирует новый экземпляр класса[`RewardInfoType`](../../rewardinfotype).
+Инициализирует новый экземпляр[`RewardInfoType`](../../rewardinfotype) класс.
 
 ```csharp
 public RewardInfoType()

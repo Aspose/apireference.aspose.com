@@ -1,14 +1,14 @@
 ---
 title: WireTransactionResponses
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置WireTransactionResponseaspose.finance.ofx.wiretransfer/wiretransactionresponse的集合
+description: 获取或设置的集合WireTransactionResponseaspose.finance.ofx.wiretransfer/wiretransactionresponse.
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.ofx/wiretransferresponsemessagesetv1/wiretransactionresponses/
 ---
 ## WireTransferResponseMessageSetV1.WireTransactionResponses property
 
-获取或设置[`WireTransactionResponse`](../../../aspose.finance.ofx.wiretransfer/wiretransactionresponse)的集合。
+获取或设置的集合[`WireTransactionResponse`](../../../aspose.finance.ofx.wiretransfer/wiretransactionresponse).
 
 ```csharp
 public List<WireTransactionResponse> WireTransactionResponses { get; set; }

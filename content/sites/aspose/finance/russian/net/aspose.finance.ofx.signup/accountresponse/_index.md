@@ -18,14 +18,14 @@ public class AccountResponse
 
 | Имя | Описание |
 | --- | --- |
-| [AccountResponse](accountresponse)() | Инициализирует новый экземпляр класса[`AccountResponse`](../accountresponse). |
+| [AccountResponse](accountresponse)() | Инициализирует новый экземпляр[`AccountResponse`](../accountresponse) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
 | [Service](../../aspose.finance.ofx.signup/accountresponse/service) { get; set; } | Получает или задает службу для добавления/изменения/удаления. |
-| [ServiceAction](../../aspose.finance.ofx.signup/accountresponse/serviceaction) { get; set; } | Получает или задает[`ServiceAdd`](../serviceadd)или[`ServiceChange`](../servicechange)или[`ServiceDelete`](../servicedelete). |
+| [ServiceAction](../../aspose.finance.ofx.signup/accountresponse/serviceaction) { get; set; } | Получает или задает[`ServiceAdd`](../serviceadd) или же[`ServiceChange`](../servicechange) или же[`ServiceDelete`](../servicedelete) . |
 | [ServiceStatus](../../aspose.finance.ofx.signup/accountresponse/servicestatus) { get; set; } | Получает или задает статус службы. |
 
 ### Смотрите также

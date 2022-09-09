@@ -1,14 +1,14 @@
 ---
 title: ServerId
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置用户要取消的传输的ID
+description: 获取或设置用户想要取消的转账ID
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.ofx.bank/intracancellationrequest/serverid/
 ---
 ## IntraCancellationRequest.ServerId property
 
-获取或设置用户要取消的传输的ID。
+获取或设置用户想要取消的转账ID。
 
 ```csharp
 public string ServerId { get; set; }

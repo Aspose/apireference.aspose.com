@@ -18,17 +18,17 @@ public class InvestmentExpense : AbstractInvestmentTransaction
 
 | 姓名 | 描述 |
 | --- | --- |
-| [InvestmentExpense](investmentexpense)() | 初始化[`InvestmentExpense`](../investmentexpense)类的新实例。 |
+| [InvestmentExpense](investmentexpense)() | 初始化一个新的实例[`InvestmentExpense`](../investmentexpense)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Currency](../../aspose.finance.ofx.investment/investmentexpense/currency) { get; set; } | 获取或设置[`Currency`](./currency)。 |
-| [Investment401kSource](../../aspose.finance.ofx.investment/investmentexpense/investment401ksource) { get; set; } | 获取或设置此交易的资金来源。 |
-| [InvestmentTransaction](../../aspose.finance.ofx.investment/abstractinvestmenttransaction/investmenttransaction) { get; set; } | 获取或设置[`InvestmentTransaction`](../abstractinvestmenttransaction/investmenttransaction)。 |
-| [OriginCurrency](../../aspose.finance.ofx.investment/investmentexpense/origincurrency) { get; set; } | 获取或设置原点[`Currency`](./currency)。 |
-| [SecurityId](../../aspose.finance.ofx.investment/investmentexpense/securityid) { get; set; } | 获取或设置[`SecurityId`](./securityid)。 |
+| [Currency](../../aspose.finance.ofx.investment/investmentexpense/currency) { get; set; } | 获取或设置[`Currency`](./currency). |
+| [Investment401kSource](../../aspose.finance.ofx.investment/investmentexpense/investment401ksource) { get; set; } | 获取或设置本次交易的资金来源。 |
+| [InvestmentTransaction](../../aspose.finance.ofx.investment/abstractinvestmenttransaction/investmenttransaction) { get; set; } | 获取或设置[`InvestmentTransaction`](../abstractinvestmenttransaction/investmenttransaction). |
+| [OriginCurrency](../../aspose.finance.ofx.investment/investmentexpense/origincurrency) { get; set; } | 获取或设置原点[`Currency`](./currency). |
+| [SecurityId](../../aspose.finance.ofx.investment/investmentexpense/securityid) { get; set; } | 获取或设置[`SecurityId`](./securityid). |
 | [SubAccountFund](../../aspose.finance.ofx.investment/investmentexpense/subaccountfund) { get; set; } | 获取或设置交易的钱从哪里来或去哪里。 |
 | [SubAccountSecurity](../../aspose.finance.ofx.investment/investmentexpense/subaccountsecurity) { get; set; } | 获取或设置证券的子账户类型。 |
 | [Total](../../aspose.finance.ofx.investment/investmentexpense/total) { get; set; } | 获取或设置交易总额。 |

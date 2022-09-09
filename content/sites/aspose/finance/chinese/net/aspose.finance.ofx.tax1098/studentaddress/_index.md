@@ -1,14 +1,14 @@
 ---
 title: StudentAddress
 second_title: Aspose.Finance for .NET API 参考
-description: 学生地址类
+description: 学生地址班级
 type: docs
 weight: 5760
 url: /zh/net/aspose.finance.ofx.tax1098/studentaddress/
 ---
 ## StudentAddress class
 
-学生地址类。
+学生地址班级。
 
 ```csharp
 public class StudentAddress
@@ -18,7 +18,7 @@ public class StudentAddress
 
 | 姓名 | 描述 |
 | --- | --- |
-| [StudentAddress](studentaddress)() | 初始化[`StudentAddress`](../studentaddress)类的新实例。 |
+| [StudentAddress](studentaddress)() | 初始化一个新的实例[`StudentAddress`](../studentaddress)类. |
 
 ## 特性
 
@@ -26,9 +26,9 @@ public class StudentAddress
 | --- | --- |
 | [Address1](../../aspose.finance.ofx.tax1098/studentaddress/address1) { get; set; } | 获取或设置学生地址，第 1 行。 |
 | [Address2](../../aspose.finance.ofx.tax1098/studentaddress/address2) { get; set; } | 获取或设置学生地址，第 2 行。 |
-| [Address3](../../aspose.finance.ofx.tax1098/studentaddress/address3) { get; set; } | 获取或设置学生地址，第 3 行。 |
+| [Address3](../../aspose.finance.ofx.tax1098/studentaddress/address3) { get; set; } | 获取或设置学生地址，第3行. |
 | [City](../../aspose.finance.ofx.tax1098/studentaddress/city) { get; set; } | 获取或设置学生地址城市。 |
-| [CountryString](../../aspose.finance.ofx.tax1098/studentaddress/countrystring) { get; set; } | 获取或设置学生地址国家。 |
+| [CountryString](../../aspose.finance.ofx.tax1098/studentaddress/countrystring) { get; set; } | 获取或设置学生地址所在国家/地区。 |
 | [PostalCode](../../aspose.finance.ofx.tax1098/studentaddress/postalcode) { get; set; } | 获取或设置学生地址邮政编码。 |
 | [State](../../aspose.finance.ofx.tax1098/studentaddress/state) { get; set; } | 获取或设置学生地址状态。 |
 | [StudentName](../../aspose.finance.ofx.tax1098/studentaddress/studentname) { get; set; } | 获取或设置学生姓名。 |

@@ -1,14 +1,14 @@
 ---
 title: SubAccountTo
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает субсчет на который переводятся ценные бумаги или денежные средства.
+description: Получает или задает субсчет на который переводятся ценные бумаги или наличные деньги.
 type: docs
 weight: 40
 url: /ru/net/aspose.finance.ofx.investment/journalsecurity/subaccountto/
 ---
 ## JournalSecurity.SubAccountTo property
 
-Получает или задает субсчет, на который переводятся ценные бумаги или денежные средства.
+Получает или задает субсчет, на который переводятся ценные бумаги или наличные деньги.
 
 ```csharp
 public SubAccountEnum SubAccountTo { get; set; }

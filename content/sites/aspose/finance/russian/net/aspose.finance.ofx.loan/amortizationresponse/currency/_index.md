@@ -1,14 +1,14 @@
 ---
 title: Currency
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает валюту по умолчанию для инструкции
+description: Получает или задает валюту по умолчанию для оператора
 type: docs
 weight: 30
 url: /ru/net/aspose.finance.ofx.loan/amortizationresponse/currency/
 ---
 ## AmortizationResponse.Currency property
 
-Получает или задает валюту по умолчанию для инструкции
+Получает или задает валюту по умолчанию для оператора
 
 ```csharp
 public CurrencyEnum Currency { get; set; }

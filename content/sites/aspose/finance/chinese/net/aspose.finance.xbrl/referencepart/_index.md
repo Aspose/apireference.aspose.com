@@ -1,14 +1,14 @@
 ---
 title: ReferencePart
 second_title: Aspose.Finance for .NET API 参考
-description: Reference./reference的子成员
+description: 的子成员Reference./reference.
 type: docs
 weight: 7940
 url: /zh/net/aspose.finance.xbrl/referencepart/
 ---
 ## ReferencePart class
 
-[`Reference`](../reference)的子成员。
+的子成员[`Reference`](../reference).
 
 ```csharp
 public class ReferencePart

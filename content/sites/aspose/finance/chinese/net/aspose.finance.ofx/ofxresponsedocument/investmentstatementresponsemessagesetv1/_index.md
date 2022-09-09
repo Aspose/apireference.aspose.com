@@ -1,14 +1,14 @@
 ---
 title: InvestmentStatementResponseMessageSetV1
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置InvestmentStatementResponseMessageSetV1aspose.finance.ofx/ofxresponsedocument/investmentstatementresponsemessagesetv1
+description: 获取或设置InvestmentStatementResponseMessageSetV1aspose.finance.ofx/ofxresponsedocument/investmentstatementresponsemessagesetv1.
 type: docs
 weight: 70
 url: /zh/net/aspose.finance.ofx/ofxresponsedocument/investmentstatementresponsemessagesetv1/
 ---
 ## OfxResponseDocument.InvestmentStatementResponseMessageSetV1 property
 
-获取或设置`InvestmentStatementResponseMessageSetV1`。
+获取或设置`InvestmentStatementResponseMessageSetV1`.
 
 ```csharp
 public InvestmentStatementResponseMessageSetV1 InvestmentStatementResponseMessageSetV1 { get; set; }

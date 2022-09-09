@@ -1,14 +1,14 @@
 ---
 title: Id
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置InlineContinuationaspose.finance.xbrl.inline/inlinecontinuation的 id
+description: 获取或设置 idInlineContinuationaspose.finance.xbrl.inline/inlinecontinuation.
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.xbrl.inline/inlinecontinuation/id/
 ---
 ## InlineContinuation.Id property
 
-获取或设置[`InlineContinuation`](../../inlinecontinuation)的 id。
+获取或设置 id[`InlineContinuation`](../../inlinecontinuation).
 
 ```csharp
 public string Id { get; set; }

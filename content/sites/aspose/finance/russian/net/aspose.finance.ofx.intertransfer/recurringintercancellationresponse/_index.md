@@ -18,7 +18,7 @@ public class RecurringInterCancellationResponse : AbstractRecurringInterResponse
 
 | Имя | Описание |
 | --- | --- |
-| [RecurringInterCancellationResponse](recurringintercancellationresponse)() | Инициализирует новый экземпляр класса[`RecurringInterCancellationResponse`](../recurringintercancellationresponse). |
+| [RecurringInterCancellationResponse](recurringintercancellationresponse)() | Инициализирует новый экземпляр[`RecurringInterCancellationResponse`](../recurringintercancellationresponse) класс. |
 
 ## Характеристики
 

@@ -1,7 +1,7 @@
 ---
 title: Invoice
 second_title: Справочник по API Aspose.Finance для .NET
-description: Класс счета-фактуры.
+description: Класс счетафактуры.
 type: docs
 weight: 3690
 url: /ru/net/aspose.finance.ofx/invoice/
@@ -18,20 +18,20 @@ public class Invoice
 
 | Имя | Описание |
 | --- | --- |
-| [Invoice](invoice)() | Инициализирует новый экземпляр класса[`Invoice`](../invoice). |
+| [Invoice](invoice)() | Инициализирует новый экземпляр[`Invoice`](../invoice) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [Adjustment](../../aspose.finance.ofx/invoice/adjustment) { get; set; } | Получает или задает[`Adjustment`](./adjustment). |
-| [Discount](../../aspose.finance.ofx/invoice/discount) { get; set; } | Получает или задает[`Discount`](./discount). |
+| [Adjustment](../../aspose.finance.ofx/invoice/adjustment) { get; set; } | Получает или задает[`Adjustment`](./adjustment) . |
+| [Discount](../../aspose.finance.ofx/invoice/discount) { get; set; } | Получает или задает[`Discount`](./discount) . |
 | [InvoiceDate](../../aspose.finance.ofx/invoice/invoicedate) { get; set; } | Получает или задает дату применения счета. |
 | [InvoiceDescription](../../aspose.finance.ofx/invoice/invoicedescription) { get; set; } | Получает или задает описание счета. |
 | [InvoiceNumber](../../aspose.finance.ofx/invoice/invoicenumber) { get; set; } | Получает или задает номер счета, связанного с платежом. |
 | [InvoicePaidAmount](../../aspose.finance.ofx/invoice/invoicepaidamount) { get; set; } | Получает или задает сумму оплачиваемого счета |
 | [InvoiceTotalAmount](../../aspose.finance.ofx/invoice/invoicetotalamount) { get; set; } | Получает или задает общую сумму счета. |
-| [LineItems](../../aspose.finance.ofx/invoice/lineitems) { get; set; } | Получает или задает коллекцию[`LineItem`](../lineitem). |
+| [LineItems](../../aspose.finance.ofx/invoice/lineitems) { get; set; } | Получает или задает коллекцию[`LineItem`](../lineitem) . |
 
 ### Смотрите также
 

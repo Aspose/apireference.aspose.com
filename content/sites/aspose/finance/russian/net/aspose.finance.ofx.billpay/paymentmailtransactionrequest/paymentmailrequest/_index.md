@@ -1,14 +1,14 @@
 ---
 title: PaymentMailRequest
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задаетPaymentMailRequestaspose.finance.ofx.billpay/paymentmailtransactionrequest/paymentmailrequest.
+description: Получает или задаетPaymentMailRequestaspose.finance.ofx.billpay/paymentmailtransactionrequest/paymentmailrequest .
 type: docs
 weight: 30
 url: /ru/net/aspose.finance.ofx.billpay/paymentmailtransactionrequest/paymentmailrequest/
 ---
 ## PaymentMailTransactionRequest.PaymentMailRequest property
 
-Получает или задает`PaymentMailRequest`.
+Получает или задает`PaymentMailRequest` .
 
 ```csharp
 public PaymentMailRequest PaymentMailRequest { get; set; }

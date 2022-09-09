@@ -1,14 +1,14 @@
 ---
 title: AddDefinitionLinkbaseRef
 second_title: Aspose.Finance for .NET API 参考
-description: 将DefinitionLinkbaseRefaspose.finance.xbrl/definitionlinkbaseref添加到集合中
+description: 添加一个DefinitionLinkbaseRefaspose.finance.xbrl/definitionlinkbaseref收藏.
 type: docs
 weight: 40
 url: /zh/net/aspose.finance.xbrl/linkbaserefcollection/adddefinitionlinkbaseref/
 ---
 ## LinkbaseRefCollection.AddDefinitionLinkbaseRef method
 
-将[`DefinitionLinkbaseRef`](../../definitionlinkbaseref)添加到集合中。
+添加一个[`DefinitionLinkbaseRef`](../../definitionlinkbaseref)收藏.
 
 ```csharp
 public void AddDefinitionLinkbaseRef(string href)

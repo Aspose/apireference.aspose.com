@@ -1,14 +1,14 @@
 ---
 title: ProfileMessageSetV1
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает коллекциюProfileMessageSetV1aspose.finance.ofx.profile/profilemessageset/profilemessagesetv1.
+description: Получает или задает коллекциюProfileMessageSetV1aspose.finance.ofx.profile/profilemessageset/profilemessagesetv1 .
 type: docs
 weight: 20
 url: /ru/net/aspose.finance.ofx.profile/profilemessageset/profilemessagesetv1/
 ---
 ## ProfileMessageSet.ProfileMessageSetV1 property
 
-Получает или задает коллекцию`ProfileMessageSetV1`.
+Получает или задает коллекцию`ProfileMessageSetV1` .
 
 ```csharp
 public ProfileMessageSetV1 ProfileMessageSetV1 { get; set; }

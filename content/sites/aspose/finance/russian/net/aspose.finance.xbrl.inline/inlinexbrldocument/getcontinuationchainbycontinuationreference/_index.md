@@ -1,14 +1,14 @@
 ---
 title: GetContinuationChainByContinuationReference
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает цепочку продолжения по ссылке продолжения.
+description: Получает цепочку продолжения в соответствии со ссылкой на продолжение.
 type: docs
 weight: 220
 url: /ru/net/aspose.finance.xbrl.inline/inlinexbrldocument/getcontinuationchainbycontinuationreference/
 ---
 ## InlineXbrlDocument.GetContinuationChainByContinuationReference method
 
-Получает цепочку продолжения по ссылке продолжения.
+Получает цепочку продолжения в соответствии со ссылкой на продолжение.
 
 ```csharp
 public List<InlineContinuation> GetContinuationChainByContinuationReference(
@@ -17,11 +17,11 @@ public List<InlineContinuation> GetContinuationChainByContinuationReference(
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| continuationReference | String | Ссылка продолжения |
+| continuationReference | String | Ссылка на продолжение |
 
 ### Возвращаемое значение
 
-Цепочка продолжения.
+Цепь продолжения.
 
 ### Смотрите также
 

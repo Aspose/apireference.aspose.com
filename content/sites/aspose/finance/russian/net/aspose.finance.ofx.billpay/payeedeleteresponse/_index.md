@@ -1,14 +1,14 @@
 ---
 title: PayeeDeleteResponse
 second_title: Справочник по API Aspose.Finance для .NET
-description: Класс ответа на удаление получателя платежа.
+description: Класс ответа на удаление получателя.
 type: docs
 weight: 960
 url: /ru/net/aspose.finance.ofx.billpay/payeedeleteresponse/
 ---
 ## PayeeDeleteResponse class
 
-Класс ответа на удаление получателя платежа.
+Класс ответа на удаление получателя.
 
 ```csharp
 public class PayeeDeleteResponse : AbstractPayeeResponse
@@ -18,13 +18,13 @@ public class PayeeDeleteResponse : AbstractPayeeResponse
 
 | Имя | Описание |
 | --- | --- |
-| [PayeeDeleteResponse](payeedeleteresponse)() | Инициализирует новый экземпляр класса[`PayeeDeleteResponse`](../payeedeleteresponse). |
+| [PayeeDeleteResponse](payeedeleteresponse)() | Инициализирует новый экземпляр[`PayeeDeleteResponse`](../payeedeleteresponse) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [PayeeListId](../../aspose.finance.ofx.billpay/abstractpayeeresponse/payeelistid) { get; set; } | Получает или задает назначенный сервером идентификатор записи для этой записи получателя. |
+| [PayeeListId](../../aspose.finance.ofx.billpay/abstractpayeeresponse/payeelistid) { get; set; } | Получает или задает назначенный сервером идентификатор записи для этой записи получателя платежа. |
 
 ### Смотрите также
 

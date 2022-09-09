@@ -1,14 +1,14 @@
 ---
 title: ServerId
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает идентификатор присвоенный сервером модифицируемому платежу.
+description: Получает или задает идентификатор присвоенный сервером изменяемому платежу.
 type: docs
 weight: 30
 url: /ru/net/aspose.finance.ofx.billpay/paymentmodrequest/serverid/
 ---
 ## PaymentModRequest.ServerId property
 
-Получает или задает идентификатор, присвоенный сервером модифицируемому платежу.
+Получает или задает идентификатор, присвоенный сервером изменяемому платежу.
 
 ```csharp
 public string ServerId { get; set; }

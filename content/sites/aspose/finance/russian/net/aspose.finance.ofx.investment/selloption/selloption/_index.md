@@ -1,14 +1,14 @@
 ---
 title: SellOption
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаSellOptionaspose.finance.ofx.investment/selloption.
+description: Инициализирует новый экземплярSellOptionaspose.finance.ofx.investment/selloption класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.investment/selloption/selloption/
 ---
 ## SellOption constructor
 
-Инициализирует новый экземпляр класса[`SellOption`](../../selloption).
+Инициализирует новый экземпляр[`SellOption`](../../selloption) класс.
 
 ```csharp
 public SellOption()

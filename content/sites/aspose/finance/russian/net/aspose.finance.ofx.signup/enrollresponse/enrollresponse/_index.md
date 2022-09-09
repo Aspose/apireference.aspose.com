@@ -1,14 +1,14 @@
 ---
 title: EnrollResponse
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаEnrollResponseaspose.finance.ofx.signup/enrollresponse.
+description: Инициализирует новый экземплярEnrollResponseaspose.finance.ofx.signup/enrollresponse класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.signup/enrollresponse/enrollresponse/
 ---
 ## EnrollResponse constructor
 
-Инициализирует новый экземпляр класса[`EnrollResponse`](../../enrollresponse).
+Инициализирует новый экземпляр[`EnrollResponse`](../../enrollresponse) класс.
 
 ```csharp
 public EnrollResponse()

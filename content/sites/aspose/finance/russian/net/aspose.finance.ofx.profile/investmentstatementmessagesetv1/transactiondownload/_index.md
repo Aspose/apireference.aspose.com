@@ -1,14 +1,14 @@
 ---
 title: TransactionDownload
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает загружает ли сервер FI транзакции отчета об инвестициях.
+description: Получает или задает загружает ли сервер FI транзакции инвестиционных отчетов.
 type: docs
 weight: 90
 url: /ru/net/aspose.finance.ofx.profile/investmentstatementmessagesetv1/transactiondownload/
 ---
 ## InvestmentStatementMessageSetV1.TransactionDownload property
 
-Получает или задает, загружает ли сервер FI транзакции отчета об инвестициях.
+Получает или задает, загружает ли сервер FI транзакции инвестиционных отчетов.
 
 ```csharp
 public bool TransactionDownload { get; set; }

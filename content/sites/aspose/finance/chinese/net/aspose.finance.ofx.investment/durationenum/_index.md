@@ -18,8 +18,8 @@ public enum DurationEnum
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| DAY | `0` | 日 |
-| GOODTILCANCEL | `1` | 好到取消 |
+| DAY | `0` | 天 |
+| GOODTILCANCEL | `1` | 取消前有效 |
 | IMMEDIATE | `2` | 立即 |
 
 ### 也可以看看

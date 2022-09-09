@@ -1,14 +1,14 @@
 ---
 title: StatementRequest
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задаетStatementRequestaspose.finance.ofx.bank/statementtransactionrequest/statementrequest.
+description: Получает или задаетStatementRequestaspose.finance.ofx.bank/statementtransactionrequest/statementrequest .
 type: docs
 weight: 30
 url: /ru/net/aspose.finance.ofx.bank/statementtransactionrequest/statementrequest/
 ---
 ## StatementTransactionRequest.StatementRequest property
 
-Получает или задает`StatementRequest`.
+Получает или задает`StatementRequest` .
 
 ```csharp
 public StatementRequest StatementRequest { get; set; }

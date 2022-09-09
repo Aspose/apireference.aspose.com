@@ -1,14 +1,14 @@
 ---
 title: AccountInfoTransactionRequests
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает коллекциюAccountInfoTransactionRequestaspose.finance.ofx.signup/accountinfotransactionrequest.
+description: Получает или задает коллекциюAccountInfoTransactionRequestaspose.finance.ofx.signup/accountinfotransactionrequest .
 type: docs
 weight: 20
 url: /ru/net/aspose.finance.ofx/signuprequestmessagesetv1/accountinfotransactionrequests/
 ---
 ## SignupRequestMessageSetV1.AccountInfoTransactionRequests property
 
-Получает или задает коллекцию[`AccountInfoTransactionRequest`](../../../aspose.finance.ofx.signup/accountinfotransactionrequest).
+Получает или задает коллекцию[`AccountInfoTransactionRequest`](../../../aspose.finance.ofx.signup/accountinfotransactionrequest) .
 
 ```csharp
 public List<AccountInfoTransactionRequest> AccountInfoTransactionRequests { get; set; }

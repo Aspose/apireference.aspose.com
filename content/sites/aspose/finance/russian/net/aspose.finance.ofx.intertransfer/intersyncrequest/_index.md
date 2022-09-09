@@ -18,16 +18,16 @@ public class InterSyncRequest : AbstractSyncRequest
 
 | Имя | Описание |
 | --- | --- |
-| [InterSyncRequest](intersyncrequest)() | Инициализирует новый экземпляр класса[`InterSyncRequest`](../intersyncrequest). |
+| [InterSyncRequest](intersyncrequest)() | Инициализирует новый экземпляр[`InterSyncRequest`](../intersyncrequest) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [AccountFrom](../../aspose.finance.ofx.intertransfer/intersyncrequest/accountfrom) { get; set; } | Получает или задает из[`BankAccount`](../../aspose.finance.ofx/bankaccount)или[`CreditCardAccount`](../../aspose.finance.ofx/creditcardaccount)или[`LoanAccount`](../../aspose.finance.ofx/loanaccount). |
-| [InterTransactionRequests](../../aspose.finance.ofx.intertransfer/intersyncrequest/intertransactionrequests) { get; set; } | Получает или задает коллекцию[`InterTransactionRequest`](../intertransactionrequest). |
-| [OfxExtension](../../aspose.finance.ofx.intertransfer/intersyncrequest/ofxextension) { get; set; } | Получает или задает[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
-| [Refresh](../../aspose.finance.ofx/abstractsyncrequest/refresh) { get; set; } | Получает или задает запрос на обновление текущего состояния. |
+| [AccountFrom](../../aspose.finance.ofx.intertransfer/intersyncrequest/accountfrom) { get; set; } | Получает или задает из[`BankAccount`](../../aspose.finance.ofx/bankaccount) или же[`CreditCardAccount`](../../aspose.finance.ofx/creditcardaccount) или же[`LoanAccount`](../../aspose.finance.ofx/loanaccount) . |
+| [InterTransactionRequests](../../aspose.finance.ofx.intertransfer/intersyncrequest/intertransactionrequests) { get; set; } | Получает или задает коллекцию[`InterTransactionRequest`](../intertransactionrequest) . |
+| [OfxExtension](../../aspose.finance.ofx.intertransfer/intersyncrequest/ofxextension) { get; set; } | Получает или задает[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype) . |
+| [Refresh](../../aspose.finance.ofx/abstractsyncrequest/refresh) { get; set; } | Получает или устанавливает запрос на обновление текущего состояния. |
 | [RejectIfMisssing](../../aspose.finance.ofx/abstractsyncrequest/rejectifmisssing) { get; set; } | Если да, не обрабатывать запросы, если токен клиента устарел. |
 | [Token](../../aspose.finance.ofx/abstractsyncrequest/token) { get; set; } | Получает или задает токен. |
 | [TokenOnly](../../aspose.finance.ofx/abstractsyncrequest/tokenonly) { get; set; } | Получает или задает, запрашивать ли только текущий токен без истории. |

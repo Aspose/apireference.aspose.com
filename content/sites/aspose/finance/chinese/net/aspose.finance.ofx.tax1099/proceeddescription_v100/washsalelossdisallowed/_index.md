@@ -1,14 +1,14 @@
 ---
 title: WashSaleLossDisallowed
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置不允许的洗售损失
+description: 获取或设置禁止洗售损失
 type: docs
 weight: 240
 url: /zh/net/aspose.finance.ofx.tax1099/proceeddescription_v100/washsalelossdisallowed/
 ---
 ## ProceedDescription_V100.WashSaleLossDisallowed property
 
-获取或设置不允许的洗售损失。
+获取或设置禁止洗售损失。
 
 ```csharp
 public string WashSaleLossDisallowed { get; set; }

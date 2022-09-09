@@ -1,14 +1,14 @@
 ---
 title: RewardInfo
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задаетRewardInfoTypeaspose.finance.ofx/rewardinfotype.
+description: Получает или задаетRewardInfoTypeaspose.finance.ofx/rewardinfotype .
 type: docs
 weight: 300
 url: /ru/net/aspose.finance.ofx.creditcard/creditcardclosing/rewardinfo/
 ---
 ## CreditCardClosing.RewardInfo property
 
-Получает или задает[`RewardInfoType`](../../../aspose.finance.ofx/rewardinfotype).
+Получает или задает[`RewardInfoType`](../../../aspose.finance.ofx/rewardinfotype) .
 
 ```csharp
 public RewardInfoType RewardInfo { get; set; }

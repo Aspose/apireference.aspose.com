@@ -1,14 +1,14 @@
 ---
 title: ChangeUserInfoRequest
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置ChangeUserInfoRequestaspose.finance.ofx.signup/changeuserinfotransactionrequest/changeuserinforequest
+description: 获取或设置ChangeUserInfoRequestaspose.finance.ofx.signup/changeuserinfotransactionrequest/changeuserinforequest.
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.ofx.signup/changeuserinfotransactionrequest/changeuserinforequest/
 ---
 ## ChangeUserInfoTransactionRequest.ChangeUserInfoRequest property
 
-获取或设置`ChangeUserInfoRequest`。
+获取或设置`ChangeUserInfoRequest`.
 
 ```csharp
 public ChangeUserInfoRequest ChangeUserInfoRequest { get; set; }

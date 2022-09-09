@@ -18,14 +18,14 @@ public class BankMailResponse : AbstractMailResponse
 
 | Имя | Описание |
 | --- | --- |
-| [BankMailResponse](bankmailresponse)() | Инициализирует новый экземпляр класса[`BankMailResponse`](../bankmailresponse). |
+| [BankMailResponse](bankmailresponse)() | Инициализирует новый экземпляр[`BankMailResponse`](../bankmailresponse) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [AccountFrom](../../aspose.finance.ofx.bank/bankmailresponse/accountfrom) { get; set; } | Получает или задает значение из[`BankAccount`](../../aspose.finance.ofx/bankaccount)или[`CreditCardAccount`](../../aspose.finance.ofx/creditcardaccount). |
-| [Mail](../../aspose.finance.ofx.bank/bankmailresponse/mail) { get; set; } | Получает или задает[`Mail`](./mail). |
+| [AccountFrom](../../aspose.finance.ofx.bank/bankmailresponse/accountfrom) { get; set; } | Получает или задает из[`BankAccount`](../../aspose.finance.ofx/bankaccount) или же[`CreditCardAccount`](../../aspose.finance.ofx/creditcardaccount) . |
+| [Mail](../../aspose.finance.ofx.bank/bankmailresponse/mail) { get; set; } | Получает или задает[`Mail`](./mail) . |
 
 ### Смотрите также
 

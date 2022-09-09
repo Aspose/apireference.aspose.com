@@ -1,14 +1,14 @@
 ---
 title: PaymentMailRequest
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置PaymentMailRequestaspose.finance.ofx.billpay/paymentmailtransactionrequest/paymentmailrequest
+description: 获取或设置PaymentMailRequestaspose.finance.ofx.billpay/paymentmailtransactionrequest/paymentmailrequest.
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.ofx.billpay/paymentmailtransactionrequest/paymentmailrequest/
 ---
 ## PaymentMailTransactionRequest.PaymentMailRequest property
 
-获取或设置`PaymentMailRequest`。
+获取或设置`PaymentMailRequest`.
 
 ```csharp
 public PaymentMailRequest PaymentMailRequest { get; set; }

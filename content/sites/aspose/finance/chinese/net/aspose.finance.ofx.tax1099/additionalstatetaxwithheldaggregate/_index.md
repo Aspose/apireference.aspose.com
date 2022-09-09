@@ -18,14 +18,14 @@ public class AdditionalStateTaxWithheldAggregate
 
 | 姓名 | 描述 |
 | --- | --- |
-| [AdditionalStateTaxWithheldAggregate](additionalstatetaxwithheldaggregate)() | 初始化[`AdditionalStateTaxWithheldAggregate`](../additionalstatetaxwithheldaggregate)类的新实例。 |
+| [AdditionalStateTaxWithheldAggregate](additionalstatetaxwithheldaggregate)() | 初始化一个新的实例[`AdditionalStateTaxWithheldAggregate`](../additionalstatetaxwithheldaggregate)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [PayerState](../../aspose.finance.ofx.tax1099/additionalstatetaxwithheldaggregate/payerstate) { get; set; } | 获取或设置付款人的状态码。 |
-| [PayerStateId](../../aspose.finance.ofx.tax1099/additionalstatetaxwithheldaggregate/payerstateid) { get; set; } | 获取或设置付款人的州 ID 号。 |
+| [PayerState](../../aspose.finance.ofx.tax1099/additionalstatetaxwithheldaggregate/payerstate) { get; set; } | 获取或设置付款人的状态码 |
+| [PayerStateId](../../aspose.finance.ofx.tax1099/additionalstatetaxwithheldaggregate/payerstateid) { get; set; } | 获取或设置付款人的状态ID号。 |
 | [StateIncome](../../aspose.finance.ofx.tax1099/additionalstatetaxwithheldaggregate/stateincome) { get; set; } | 获取或设置州收入金额。 |
 | [StateTaxWithheld](../../aspose.finance.ofx.tax1099/additionalstatetaxwithheldaggregate/statetaxwithheld) { get; set; } | 获取或设置州预扣税。 |
 

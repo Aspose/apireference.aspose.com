@@ -18,15 +18,15 @@ public class InvestmentStatementEndTransactionRequest : AbstractTransactionReque
 
 | Имя | Описание |
 | --- | --- |
-| [InvestmentStatementEndTransactionRequest](investmentstatementendtransactionrequest)() | Инициализирует новый экземпляр класса[`InvestmentStatementEndTransactionRequest`](../investmentstatementendtransactionrequest). |
+| [InvestmentStatementEndTransactionRequest](investmentstatementendtransactionrequest)() | Инициализирует новый экземпляр[`InvestmentStatementEndTransactionRequest`](../investmentstatementendtransactionrequest) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [ClientCookie](../../aspose.finance.ofx/abstracttransactionrequest/clientcookie) { get; set; } | Получает или задает данные, которые будут отображаться в ответе транзакции |
-| [InvestmentStatementEndRequest](../../aspose.finance.ofx.investment/investmentstatementendtransactionrequest/investmentstatementendrequest) { get; set; } | Получает или задает[`InvestmentStatementEndRequest`](./investmentstatementendrequest). |
-| [OfxExtension](../../aspose.finance.ofx.investment/investmentstatementendtransactionrequest/ofxextension) { get; set; } | Получает или задает[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
+| [ClientCookie](../../aspose.finance.ofx/abstracttransactionrequest/clientcookie) { get; set; } | Получает или задает данные, которые будут отражены в транзакции response |
+| [InvestmentStatementEndRequest](../../aspose.finance.ofx.investment/investmentstatementendtransactionrequest/investmentstatementendrequest) { get; set; } | Получает или задает[`InvestmentStatementEndRequest`](./investmentstatementendrequest) . |
+| [OfxExtension](../../aspose.finance.ofx.investment/investmentstatementendtransactionrequest/ofxextension) { get; set; } | Получает или задает[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype) . |
 | [TransactionAuthorizationNumber](../../aspose.finance.ofx/abstracttransactionrequest/transactionauthorizationnumber) { get; set; } | Получает или задает номер авторизации транзакции. |
 | [TransactionUniqueId](../../aspose.finance.ofx/abstracttransactionrequest/transactionuniqueid) { get; set; } | Получает или задает назначенный клиентом глобальный уникальный идентификатор для этой транзакции |
 

@@ -1,14 +1,14 @@
 ---
 title: PresentmentDirRequestMessageSetV1
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置PresentmentDirRequestMessageSetV1aspose.finance.ofx/ofxrequestdocument/presentmentdirrequestmessagesetv1
+description: 获取或设置PresentmentDirRequestMessageSetV1aspose.finance.ofx/ofxrequestdocument/presentmentdirrequestmessagesetv1.
 type: docs
 weight: 110
 url: /zh/net/aspose.finance.ofx/ofxrequestdocument/presentmentdirrequestmessagesetv1/
 ---
 ## OfxRequestDocument.PresentmentDirRequestMessageSetV1 property
 
-获取或设置`PresentmentDirRequestMessageSetV1`。
+获取或设置`PresentmentDirRequestMessageSetV1`.
 
 ```csharp
 public PresentmentDirRequestMessageSetV1 PresentmentDirRequestMessageSetV1 { get; set; }

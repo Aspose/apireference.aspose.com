@@ -1,14 +1,14 @@
 ---
 title: InterResponse
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задаетInterResponseaspose.finance.ofx.intertransfer/recurringintermodresponse/interresponse.
+description: Получает или задаетInterResponseaspose.finance.ofx.intertransfer/recurringintermodresponse/interresponse .
 type: docs
 weight: 20
 url: /ru/net/aspose.finance.ofx.intertransfer/recurringintermodresponse/interresponse/
 ---
 ## RecurringInterModResponse.InterResponse property
 
-Получает или задает`InterResponse`.
+Получает или задает`InterResponse` .
 
 ```csharp
 public InterResponse InterResponse { get; set; }

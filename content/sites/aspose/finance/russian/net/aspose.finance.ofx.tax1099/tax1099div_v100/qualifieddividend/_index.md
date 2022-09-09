@@ -1,14 +1,14 @@
 ---
 title: QualifiedDividend
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает квалифицированные дивиденды.
+description: Получает или устанавливает квалифицированные дивиденды.
 type: docs
 weight: 160
 url: /ru/net/aspose.finance.ofx.tax1099/tax1099div_v100/qualifieddividend/
 ---
 ## Tax1099DIV_V100.QualifiedDividend property
 
-Получает или задает квалифицированные дивиденды.
+Получает или устанавливает квалифицированные дивиденды.
 
 ```csharp
 public string QualifiedDividend { get; set; }

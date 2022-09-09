@@ -1,14 +1,14 @@
 ---
 title: Status
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задаетStatusaspose.finance.ofx.signon/signonresponse/status.
+description: Получает или задаетStatusaspose.finance.ofx.signon/signonresponse/status .
 type: docs
 weight: 110
 url: /ru/net/aspose.finance.ofx.signon/signonresponse/status/
 ---
 ## SignonResponse.Status property
 
-Получает или задает`Status`.
+Получает или задает`Status` .
 
 ```csharp
 public Status Status { get; set; }

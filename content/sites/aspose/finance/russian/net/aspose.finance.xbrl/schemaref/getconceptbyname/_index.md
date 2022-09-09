@@ -16,11 +16,11 @@ public Concept GetConceptByName(string conceptName)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| conceptName | String | Имя концепта. |
+| conceptName | String | Название концепции. |
 
 ### Возвращаемое значение
 
-Концепция.
+Концепт.
 
 ### Смотрите также
 

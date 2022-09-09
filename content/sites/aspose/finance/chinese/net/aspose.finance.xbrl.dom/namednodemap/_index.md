@@ -25,12 +25,12 @@ public class NamedNodeMap : IEnumerable<Attr>
 
 | 姓名 | 描述 |
 | --- | --- |
-| [GetEnumerator](../../aspose.finance.xbrl.dom/namednodemap/getenumerator)() | 返回一个遍历映射的枚举器。 |
-| [GetNamedItem](../../aspose.finance.xbrl.dom/namednodemap/getnameditem)(string) | 获取名称指定的属性。 |
+| [GetEnumerator](../../aspose.finance.xbrl.dom/namednodemap/getenumerator)() | 返回一个遍历地图的枚举器。 |
+| [GetNamedItem](../../aspose.finance.xbrl.dom/namednodemap/getnameditem)(string) | 获取 name 指定的属性。 |
 | [GetNamedItemNS](../../aspose.finance.xbrl.dom/namednodemap/getnameditemns)(string, string) | 获取由本地名称和命名空间 URI 指定的属性。 |
 | [RemoveNamedItem](../../aspose.finance.xbrl.dom/namednodemap/removenameditem)(string) | 删除由名称指定的属性。 |
 | [RemoveNamedItemNS](../../aspose.finance.xbrl.dom/namednodemap/removenameditemns)(string, string) | 删除由本地名称和命名空间 URI 指定的属性。 |
-| [SetNamedItem](../../aspose.finance.xbrl.dom/namednodemap/setnameditem)(Attr) | 使用节点名称属性添加节点。如果此映射中已存在具有该名称的节点，则将其替换为新节点。自行替换节点无效。 |
+| [SetNamedItem](../../aspose.finance.xbrl.dom/namednodemap/setnameditem)(Attr) | 使用其 nodeName 属性添加一个节点。如果此映射中已存在具有该名称的节点，则将其替换为新节点。自行替换节点无效。 |
 | [SetNamedItemNS](../../aspose.finance.xbrl.dom/namednodemap/setnameditemns)(Attr) | 使用其 namespaceURI 和 localName 添加一个节点。如果具有该名称空间 URI 和该本地名称的节点已存在于此映射中，则将其替换为新节点。自行替换节点无效。 |
 
 ### 也可以看看

@@ -1,14 +1,14 @@
 ---
 title: UnrealizeProfitPre
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置上一纳税年度未结合约的未实现损益
+description: 获取或设置上一纳税年度未实现合约的未实现损益
 type: docs
 weight: 180
 url: /zh/net/aspose.finance.ofx.tax1099/tax1099b_v100/unrealizeprofitpre/
 ---
 ## Tax1099B_V100.UnrealizeProfitPre property
 
-获取或设置上一纳税年度未结合约的未实现损益。
+获取或设置上一纳税年度未实现合约的未实现损益。
 
 ```csharp
 public string UnrealizeProfitPre { get; set; }

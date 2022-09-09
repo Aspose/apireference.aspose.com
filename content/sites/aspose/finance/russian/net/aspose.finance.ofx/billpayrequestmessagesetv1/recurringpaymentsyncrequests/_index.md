@@ -1,14 +1,14 @@
 ---
 title: RecurringPaymentSyncRequests
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает коллекциюRecurringPaymentSyncRequestaspose.finance.ofx.billpay/recurringpaymentsyncrequest.
+description: Получает или задает коллекциюRecurringPaymentSyncRequestaspose.finance.ofx.billpay/recurringpaymentsyncrequest .
 type: docs
 weight: 90
 url: /ru/net/aspose.finance.ofx/billpayrequestmessagesetv1/recurringpaymentsyncrequests/
 ---
 ## BillPayRequestMessageSetV1.RecurringPaymentSyncRequests property
 
-Получает или задает коллекцию[`RecurringPaymentSyncRequest`](../../../aspose.finance.ofx.billpay/recurringpaymentsyncrequest).
+Получает или задает коллекцию[`RecurringPaymentSyncRequest`](../../../aspose.finance.ofx.billpay/recurringpaymentsyncrequest) .
 
 ```csharp
 public List<RecurringPaymentSyncRequest> RecurringPaymentSyncRequests { get; set; }

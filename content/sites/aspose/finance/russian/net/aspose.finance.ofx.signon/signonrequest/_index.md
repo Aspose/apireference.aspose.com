@@ -1,14 +1,14 @@
 ---
 title: SignonRequest
 second_title: Справочник по API Aspose.Finance для .NET
-description: Класс запроса входа.
+description: Класс запроса на вход.
 type: docs
 weight: 5410
 url: /ru/net/aspose.finance.ofx.signon/signonrequest/
 ---
 ## SignonRequest class
 
-Класс запроса входа.
+Класс запроса на вход.
 
 ```csharp
 public class SignonRequest
@@ -18,26 +18,26 @@ public class SignonRequest
 
 | Имя | Описание |
 | --- | --- |
-| [SignonRequest](signonrequest)() | Инициализирует новый экземпляр класса[`SignonRequest`](../signonrequest). |
+| [SignonRequest](signonrequest)() | Инициализирует новый экземпляр[`SignonRequest`](../signonrequest) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [AccessKey](../../aspose.finance.ofx.signon/signonrequest/accesskey) { get; set; } | Получает или задает значение ключа доступа, полученное в ответе на предыдущий вход, не отправляется при первом входе или не отправляется FI. |
-| [AccessToken](../../aspose.finance.ofx.signon/signonrequest/accesstoken) { get; set; } | Получает или задает внешний токен, который будет использоваться для проверки подлинности. |
+| [AccessKey](../../aspose.finance.ofx.signon/signonrequest/accesskey) { get; set; } | Получает или задает значение ключа доступа, полученное в предыдущем ответе на вход, не отправляется при первом входе или не отправляется FI. |
+| [AccessToken](../../aspose.finance.ofx.signon/signonrequest/accesstoken) { get; set; } | Получает или задает внешний токен, который будет использоваться для аутентификации. |
 | [AppId](../../aspose.finance.ofx.signon/signonrequest/appid) { get; set; } | Получает или задает идентификатор клиентского приложения |
-| [AppKey](../../aspose.finance.ofx.signon/signonrequest/appkey) { get; set; } | Получает или задает ключ/идентификатор приложения; организованы вне диапазона между сервером и клиентом. |
+| [AppKey](../../aspose.finance.ofx.signon/signonrequest/appkey) { get; set; } | Получает или задает ключ/идентификатор приложения; организован внеполосно между сервером и клиентом. |
 | [AppVersion](../../aspose.finance.ofx.signon/signonrequest/appversion) { get; set; } | Получает или задает версию клиентского приложения. |
-| [AuthToken](../../aspose.finance.ofx.signon/signonrequest/authtoken) { get; set; } | Получает или задает токен проверки подлинности, необходимый только для данного сеанса входа. Учетные данные предоставляются пользователю вне диапазона. |
+| [AuthToken](../../aspose.finance.ofx.signon/signonrequest/authtoken) { get; set; } | Получает или задает токен проверки подлинности, необходимый только для этого сеанса входа в систему. Учетные данные предоставляются пользователю вне диапазона. |
 | [ClientDate](../../aspose.finance.ofx.signon/signonrequest/clientdate) { get; set; } | Получает или задает дату и время запроса от клиентского компьютера. |
 | [ClientUserId](../../aspose.finance.ofx.signon/signonrequest/clientuserid) { get; set; } | Получает или задает уникальный идентификатор, идентифицирующий пользователя OFX. |
-| [FinancialInstitution](../../aspose.finance.ofx.signon/signonrequest/financialinstitution) { get; set; } | Получает или задает[`FinancialInstitution`](./financialinstitution). |
+| [FinancialInstitution](../../aspose.finance.ofx.signon/signonrequest/financialinstitution) { get; set; } | Получает или задает[`FinancialInstitution`](./financialinstitution) . |
 | [GenerateUserKey](../../aspose.finance.ofx.signon/signonrequest/generateuserkey) { get; set; } | Получает или задает, должен ли сервер запроса возвращать USERKEY для будущего использования, |
-| [Language](../../aspose.finance.ofx.signon/signonrequest/language) { get; set; } | Получает или задает требуемый язык для текстовых ответов. |
-| [MFAChallengeAnswers](../../aspose.finance.ofx.signon/signonrequest/mfachallengeanswers) { get; set; } | Получает или задает коллекцию[`MFAChallengeAnswer`](../mfachallengeanswer). |
-| [OfxExtension](../../aspose.finance.ofx.signon/signonrequest/ofxextension) { get; set; } | Получает или задает[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
-| [SessionCookie](../../aspose.finance.ofx.signon/signonrequest/sessioncookie) { get; set; } | Получает или задает значение cookie сеанса, полученное в предыдущем ответе на вход, не отправляется при первом входе в систему или если FI |
+| [Language](../../aspose.finance.ofx.signon/signonrequest/language) { get; set; } | Получает или устанавливает запрошенный язык для текстовых ответов. |
+| [MFAChallengeAnswers](../../aspose.finance.ofx.signon/signonrequest/mfachallengeanswers) { get; set; } | Получает или задает коллекцию[`MFAChallengeAnswer`](../mfachallengeanswer) . |
+| [OfxExtension](../../aspose.finance.ofx.signon/signonrequest/ofxextension) { get; set; } | Получает или задает[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype) . |
+| [SessionCookie](../../aspose.finance.ofx.signon/signonrequest/sessioncookie) { get; set; } | Получает или задает значение файла cookie сеанса, полученное в предыдущем ответе на вход, не отправлено при первом входе или если ничего не отправлено FI |
 | [UserCredential1](../../aspose.finance.ofx.signon/signonrequest/usercredential1) { get; set; } | Получает или задает дополнительные учетные данные пользователя, требуемые сервером. |
 | [UserCredential2](../../aspose.finance.ofx.signon/signonrequest/usercredential2) { get; set; } | Получает или задает дополнительные учетные данные пользователя, требуемые сервером. |
 | [UserId](../../aspose.finance.ofx.signon/signonrequest/userid) { get; set; } | Получает или задает строку идентификации пользователя. |

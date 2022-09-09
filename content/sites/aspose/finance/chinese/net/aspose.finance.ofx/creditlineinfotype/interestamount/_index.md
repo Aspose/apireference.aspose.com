@@ -1,14 +1,14 @@
 ---
 title: InterestAmount
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置反映贷款利息的 MinPaymentDue 金额如果有仅当在实施期间将贷款帐户映射到 CREDITLINE 帐户类型时才返回
+description: 获取或设置反映贷款利息的 MinPaymentDue 金额如果有仅在实施期间将贷款帐户映射到 CREDITLINE 帐户类型时返回
 type: docs
 weight: 40
 url: /zh/net/aspose.finance.ofx/creditlineinfotype/interestamount/
 ---
 ## CreditLineInfoType.InterestAmount property
 
-获取或设置反映贷款利息的 MinPaymentDue 金额（如果有）。仅当在实施期间将贷款帐户映射到 CREDITLINE 帐户类型时才返回。
+获取或设置反映贷款利息的 MinPaymentDue 金额（如果有）。仅在实施期间将贷款帐户映射到 CREDITLINE 帐户类型时返回。
 
 ```csharp
 public string InterestAmount { get; set; }

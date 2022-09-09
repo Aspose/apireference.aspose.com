@@ -1,14 +1,14 @@
 ---
 title: InterSyncRequest
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化InterSyncRequestaspose.finance.ofx.intertransfer/intersyncrequest类的新实例
+description: 初始化一个新的实例InterSyncRequestaspose.finance.ofx.intertransfer/intersyncrequest类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.intertransfer/intersyncrequest/intersyncrequest/
 ---
 ## InterSyncRequest constructor
 
-初始化[`InterSyncRequest`](../../intersyncrequest)类的新实例。
+初始化一个新的实例[`InterSyncRequest`](../../intersyncrequest)类.
 
 ```csharp
 public InterSyncRequest()

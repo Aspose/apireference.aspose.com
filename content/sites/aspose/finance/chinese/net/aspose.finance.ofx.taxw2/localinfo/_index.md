@@ -1,14 +1,14 @@
 ---
 title: LocalInfo
 second_title: Aspose.Finance for .NET API 参考
-description: 本地信息类
+description: 本地信息类.
 type: docs
 weight: 6150
 url: /zh/net/aspose.finance.ofx.taxw2/localinfo/
 ---
 ## LocalInfo class
 
-本地信息类。
+本地信息类.
 
 ```csharp
 public class LocalInfo
@@ -18,15 +18,15 @@ public class LocalInfo
 
 | 姓名 | 描述 |
 | --- | --- |
-| [LocalInfo](localinfo)() | 初始化[`LocalInfo`](../localinfo)类的新实例。 |
+| [LocalInfo](localinfo)() | 初始化一个新的实例[`LocalInfo`](../localinfo)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Locality](../../aspose.finance.ofx.taxw2/localinfo/locality) { get; set; } | 获取或设置区域名称。 |
+| [Locality](../../aspose.finance.ofx.taxw2/localinfo/locality) { get; set; } | 获取或设置地区名称。 |
 | [LocalityState](../../aspose.finance.ofx.taxw2/localinfo/localitystate) { get; set; } | 获取或设置与该位置相关的两个字符状态。 |
-| [LocalTaxWithheld](../../aspose.finance.ofx.taxw2/localinfo/localtaxwithheld) { get; set; } | 获取或设置本地预扣税。 |
+| [LocalTaxWithheld](../../aspose.finance.ofx.taxw2/localinfo/localtaxwithheld) { get; set; } | 获取或设置地方预扣税。 |
 | [LocalWages](../../aspose.finance.ofx.taxw2/localinfo/localwages) { get; set; } | 获取或设置本地工资、小费等 |
 
 ### 也可以看看

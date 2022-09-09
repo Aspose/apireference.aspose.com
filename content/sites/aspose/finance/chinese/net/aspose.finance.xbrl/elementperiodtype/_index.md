@@ -1,14 +1,14 @@
 ---
 title: ElementPeriodType
 second_title: Aspose.Finance for .NET API 参考
-description: Concept./concept周期类型枚举
+description: Concept./concept周期类型枚举.
 type: docs
 weight: 7600
 url: /zh/net/aspose.finance.xbrl/elementperiodtype/
 ---
 ## ElementPeriodType enumeration
 
-[`Concept`](../concept)周期类型枚举。
+[`Concept`](../concept)周期类型枚举.
 
 ```csharp
 public enum ElementPeriodType
@@ -19,7 +19,7 @@ public enum ElementPeriodType
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
 | Unknown | `0` | 一个未知的周期类型。 |
-| Instant | `1` | 即时周期类型。 |
+| Instant | `1` | 瞬时周期类型。 |
 | Duration | `2` | 持续时间类型。 |
 
 ### 也可以看看

@@ -1,14 +1,14 @@
 ---
 title: ChangeUserInfoResponse
 second_title: Справочник по API Aspose.Finance для .NET
-description: Изменить класс ответа информации о пользователе.
+description: Изменить класс ответа на информацию о пользователе.
 type: docs
 weight: 5550
 url: /ru/net/aspose.finance.ofx.signup/changeuserinforesponse/
 ---
 ## ChangeUserInfoResponse class
 
-Изменить класс ответа информации о пользователе.
+Изменить класс ответа на информацию о пользователе.
 
 ```csharp
 public class ChangeUserInfoResponse
@@ -18,7 +18,7 @@ public class ChangeUserInfoResponse
 
 | Имя | Описание |
 | --- | --- |
-| [ChangeUserInfoResponse](changeuserinforesponse)() | Инициализирует новый экземпляр класса[`ChangeUserInfoResponse`](../changeuserinforesponse). |
+| [ChangeUserInfoResponse](changeuserinforesponse)() | Инициализирует новый экземпляр[`ChangeUserInfoResponse`](../changeuserinforesponse) класс. |
 
 ## Характеристики
 
@@ -29,7 +29,7 @@ public class ChangeUserInfoResponse
 | [Address3](../../aspose.finance.ofx.signup/changeuserinforesponse/address3) { get; set; } | Получает или задает адресную строку 3. |
 | [City](../../aspose.finance.ofx.signup/changeuserinforesponse/city) { get; set; } | Получает или задает город. |
 | [Country](../../aspose.finance.ofx.signup/changeuserinforesponse/country) { get; set; } | Получает или задает код страны. Трехбуквенный код страны из ISO/DIS-3166. |
-| [DayPhone](../../aspose.finance.ofx.signup/changeuserinforesponse/dayphone) { get; set; } | Получает или задает номер телефона для дневного времени. |
+| [DayPhone](../../aspose.finance.ofx.signup/changeuserinforesponse/dayphone) { get; set; } | Получает или устанавливает номер телефона в дневное время. |
 | [Email](../../aspose.finance.ofx.signup/changeuserinforesponse/email) { get; set; } | Получает или задает электронный адрес электронной почты. |
 | [EveningPhone](../../aspose.finance.ofx.signup/changeuserinforesponse/eveningphone) { get; set; } | Получает или устанавливает вечерний номер телефона. |
 | [FirstName](../../aspose.finance.ofx.signup/changeuserinforesponse/firstname) { get; set; } | Получает или задает имя пользователя. |

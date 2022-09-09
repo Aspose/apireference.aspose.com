@@ -1,14 +1,14 @@
 ---
 title: ImageDatas
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает коллекциюImageDataaspose.finance.ofx/imagedata.
+description: Получает или задает коллекциюImageDataaspose.finance.ofx/imagedata .
 type: docs
 weight: 90
 url: /ru/net/aspose.finance.ofx.loan/loanstatementtransaction/imagedatas/
 ---
 ## LoanStatementTransaction.ImageDatas property
 
-Получает или задает коллекцию[`ImageData`](../../../aspose.finance.ofx/imagedata).
+Получает или задает коллекцию[`ImageData`](../../../aspose.finance.ofx/imagedata) .
 
 ```csharp
 public List<ImageData> ImageDatas { get; set; }

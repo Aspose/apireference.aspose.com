@@ -1,14 +1,14 @@
 ---
 title: Use
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置圆弧的使用
+description: 获取或设置圆弧使用的圆弧
 type: docs
 weight: 100
 url: /zh/net/aspose.finance.xbrl/arc/use/
 ---
 ## Arc.Use property
 
-获取或设置圆弧的使用。
+获取或设置圆弧使用的圆弧。
 
 ```csharp
 public ArcUse Use { get; set; }

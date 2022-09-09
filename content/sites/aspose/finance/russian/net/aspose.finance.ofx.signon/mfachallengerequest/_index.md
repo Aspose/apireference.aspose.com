@@ -18,7 +18,7 @@ public class MFAChallengeRequest
 
 | Имя | Описание |
 | --- | --- |
-| [MFAChallengeRequest](mfachallengerequest)() | Инициализирует новый экземпляр класса[`MFAChallengeRequest`](../mfachallengerequest). |
+| [MFAChallengeRequest](mfachallengerequest)() | Инициализирует новый экземпляр[`MFAChallengeRequest`](../mfachallengerequest) класс. |
 
 ## Характеристики
 

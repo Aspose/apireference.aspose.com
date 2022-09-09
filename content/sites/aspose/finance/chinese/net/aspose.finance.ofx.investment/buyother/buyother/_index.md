@@ -1,14 +1,14 @@
 ---
 title: BuyOther
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化BuyOtheraspose.finance.ofx.investment/buyother类的新实例
+description: 初始化一个新的实例BuyOtheraspose.finance.ofx.investment/buyother类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.investment/buyother/buyother/
 ---
 ## BuyOther constructor
 
-初始化[`BuyOther`](../../buyother)类的新实例。
+初始化一个新的实例[`BuyOther`](../../buyother)类.
 
 ```csharp
 public BuyOther()

@@ -1,14 +1,14 @@
 ---
 title: ProfileMessageSetV1
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置ProfileMessageSetV1aspose.finance.ofx.profile/profilemessageset/profilemessagesetv1的集合
+description: 获取或设置的集合ProfileMessageSetV1aspose.finance.ofx.profile/profilemessageset/profilemessagesetv1.
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.ofx.profile/profilemessageset/profilemessagesetv1/
 ---
 ## ProfileMessageSet.ProfileMessageSetV1 property
 
-获取或设置`ProfileMessageSetV1`的集合。
+获取或设置的集合`ProfileMessageSetV1`.
 
 ```csharp
 public ProfileMessageSetV1 ProfileMessageSetV1 { get; set; }

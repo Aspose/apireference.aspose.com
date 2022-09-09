@@ -8,7 +8,7 @@ url: /zh/net/aspose.finance.ofx.investment/openorderbuystock/
 ---
 ## OpenOrderBuyStock class
 
-开仓买入股票类。
+开仓买入股票类
 
 ```csharp
 public class OpenOrderBuyStock : AbstractOpenOrder
@@ -18,14 +18,14 @@ public class OpenOrderBuyStock : AbstractOpenOrder
 
 | 姓名 | 描述 |
 | --- | --- |
-| [OpenOrderBuyStock](openorderbuystock)() | 初始化[`OpenOrderBuyStock`](../openorderbuystock)类的新实例。 |
+| [OpenOrderBuyStock](openorderbuystock)() | 初始化一个新的实例[`OpenOrderBuyStock`](../openorderbuystock)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [BuyType](../../aspose.finance.ofx.investment/openorderbuystock/buytype) { get; set; } | 获取或设置购买类型。 |
-| [OpenOrder](../../aspose.finance.ofx.investment/abstractopenorder/openorder) { get; set; } | 获取或设置[`GeneralOpenOrder`](../generalopenorder)。 |
+| [BuyType](../../aspose.finance.ofx.investment/openorderbuystock/buytype) { get; set; } | 获取或设置购买的类型。 |
+| [OpenOrder](../../aspose.finance.ofx.investment/abstractopenorder/openorder) { get; set; } | 获取或设置[`GeneralOpenOrder`](../generalopenorder). |
 
 ### 也可以看看
 

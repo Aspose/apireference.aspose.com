@@ -1,14 +1,14 @@
 ---
 title: BankAccountInfo
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化BankAccountInfoaspose.finance.ofx/bankaccountinfo类的新实例
+description: 初始化一个新的实例BankAccountInfoaspose.finance.ofx/bankaccountinfo类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx/bankaccountinfo/bankaccountinfo/
 ---
 ## BankAccountInfo constructor
 
-初始化[`BankAccountInfo`](../../bankaccountinfo)类的新实例。
+初始化一个新的实例[`BankAccountInfo`](../../bankaccountinfo)类.
 
 ```csharp
 public BankAccountInfo()

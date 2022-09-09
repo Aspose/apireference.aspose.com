@@ -1,14 +1,14 @@
 ---
 title: ClientEnroll
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化ClientEnrollaspose.finance.ofx.profile/clientenroll类的新实例
+description: 初始化一个新的实例ClientEnrollaspose.finance.ofx.profile/clientenroll类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.profile/clientenroll/clientenroll/
 ---
 ## ClientEnroll constructor
 
-初始化[`ClientEnroll`](../../clientenroll)类的新实例。
+初始化一个新的实例[`ClientEnroll`](../../clientenroll)类.
 
 ```csharp
 public ClientEnroll()

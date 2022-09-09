@@ -1,14 +1,14 @@
 ---
 title: PaymentInquiryTransactionResponse
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化PaymentInquiryTransactionResponseaspose.finance.ofx.billpay/paymentinquirytransactionresponse类的新实例
+description: 初始化一个新的实例PaymentInquiryTransactionResponseaspose.finance.ofx.billpay/paymentinquirytransactionresponse类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.billpay/paymentinquirytransactionresponse/paymentinquirytransactionresponse/
 ---
 ## PaymentInquiryTransactionResponse constructor
 
-初始化[`PaymentInquiryTransactionResponse`](../../paymentinquirytransactionresponse)类的新实例。
+初始化一个新的实例[`PaymentInquiryTransactionResponse`](../../paymentinquirytransactionresponse)类.
 
 ```csharp
 public PaymentInquiryTransactionResponse()

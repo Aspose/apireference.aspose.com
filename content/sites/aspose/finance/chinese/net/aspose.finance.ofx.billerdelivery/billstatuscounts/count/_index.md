@@ -1,14 +1,14 @@
 ---
 title: Count
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置具有给定账单状态代码的账单数量
+description: 获取或设置给定账单状态码的账单数量
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.ofx.billerdelivery/billstatuscounts/count/
 ---
 ## BillStatusCounts.Count property
 
-获取或设置具有给定账单状态代码的账单数量。
+获取或设置给定账单状态码的账单数量。
 
 ```csharp
 public string Count { get; set; }

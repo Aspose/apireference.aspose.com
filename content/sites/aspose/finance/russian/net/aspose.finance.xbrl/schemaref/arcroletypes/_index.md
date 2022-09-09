@@ -1,14 +1,14 @@
 ---
 title: ArcroleTypes
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает коллекцию объектовArcroleTypeaspose.finance.xbrl/arcroletypeв схеме.
+description: Получает коллекциюArcroleTypeaspose.finance.xbrl/arcroletype объекты в схеме.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.xbrl/schemaref/arcroletypes/
 ---
 ## SchemaRef.ArcroleTypes property
 
-Получает коллекцию объектов[`ArcroleType`](../../arcroletype)в схеме.
+Получает коллекцию[`ArcroleType`](../../arcroletype) объекты в схеме.
 
 ```csharp
 public List<ArcroleType> ArcroleTypes { get; set; }

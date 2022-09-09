@@ -18,15 +18,15 @@ public class EmailResponseMessageSetV1 : AbstractResponseMessageSet
 
 | Имя | Описание |
 | --- | --- |
-| [EmailResponseMessageSetV1](emailresponsemessagesetv1)() | Инициализирует новый экземпляр класса[`EmailResponseMessageSetV1`](../emailresponsemessagesetv1). |
+| [EmailResponseMessageSetV1](emailresponsemessagesetv1)() | Инициализирует новый экземпляр[`EmailResponseMessageSetV1`](../emailresponsemessagesetv1) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [GetMimeTransactionResponses](../../aspose.finance.ofx/emailresponsemessagesetv1/getmimetransactionresponses) { get; set; } | Получает или задает коллекцию[`GetMimeTransactionResponse`](../../aspose.finance.ofx.email/getmimetransactionresponse). |
-| [MailSyncResponses](../../aspose.finance.ofx/emailresponsemessagesetv1/mailsyncresponses) { get; set; } | Получает или задает коллекцию[`MailSyncResponse`](../../aspose.finance.ofx.email/mailsyncresponse). |
-| [MailTransactionResponses](../../aspose.finance.ofx/emailresponsemessagesetv1/mailtransactionresponses) { get; set; } | Получает или задает коллекцию[`MailTransactionResponse`](../../aspose.finance.ofx.email/mailtransactionresponse). |
+| [GetMimeTransactionResponses](../../aspose.finance.ofx/emailresponsemessagesetv1/getmimetransactionresponses) { get; set; } | Получает или задает коллекцию[`GetMimeTransactionResponse`](../../aspose.finance.ofx.email/getmimetransactionresponse) . |
+| [MailSyncResponses](../../aspose.finance.ofx/emailresponsemessagesetv1/mailsyncresponses) { get; set; } | Получает или задает коллекцию[`MailSyncResponse`](../../aspose.finance.ofx.email/mailsyncresponse) . |
+| [MailTransactionResponses](../../aspose.finance.ofx/emailresponsemessagesetv1/mailtransactionresponses) { get; set; } | Получает или задает коллекцию[`MailTransactionResponse`](../../aspose.finance.ofx.email/mailtransactionresponse) . |
 
 ### Смотрите также
 

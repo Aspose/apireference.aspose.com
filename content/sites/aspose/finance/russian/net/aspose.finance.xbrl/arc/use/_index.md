@@ -1,14 +1,14 @@
 ---
 title: Use
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает использование дуги дугой.
+description: Получает или задает использование дуги для дуги.
 type: docs
 weight: 100
 url: /ru/net/aspose.finance.xbrl/arc/use/
 ---
 ## Arc.Use property
 
-Получает или задает использование дуги дугой.
+Получает или задает использование дуги для дуги.
 
 ```csharp
 public ArcUse Use { get; set; }

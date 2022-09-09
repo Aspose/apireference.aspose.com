@@ -1,14 +1,14 @@
 ---
 title: ExtendedPayee
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置ExtendedPayeeaspose.finance.ofx.billpay/paymentresponse/extendedpayee
+description: 获取或设置ExtendedPayeeaspose.finance.ofx.billpay/paymentresponse/extendedpayee.
 type: docs
 weight: 40
 url: /zh/net/aspose.finance.ofx.billpay/paymentresponse/extendedpayee/
 ---
 ## PaymentResponse.ExtendedPayee property
 
-获取或设置`ExtendedPayee`。
+获取或设置`ExtendedPayee`.
 
 ```csharp
 public ExtendedPayee ExtendedPayee { get; set; }

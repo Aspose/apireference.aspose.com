@@ -44,11 +44,11 @@ public class Text : CharacterData
 | [AppendChild](../../aspose.finance.xbrl.dom/node/appendchild)(Node) | 将节点 newChild 添加到该节点的子节点列表的末尾。 |
 | virtual [AppendData](../../aspose.finance.xbrl.dom/characterdata/appenddata)(string) | 将字符串追加到节点字符数据的末尾。 |
 | virtual [DeleteData](../../aspose.finance.xbrl.dom/characterdata/deletedata)(int, int) | 从节点中删除一系列内容。 |
-| virtual [InsertData](../../aspose.finance.xbrl.dom/characterdata/insertdata)(int, string) | 在指定的偏移处插入一个字符串。 |
+| virtual [InsertData](../../aspose.finance.xbrl.dom/characterdata/insertdata)(int, string) | 在指定偏移处插入一个字符串。 |
 | [RemoveChild](../../aspose.finance.xbrl.dom/node/removechild)(Node) | 从子节点列表中删除由 old child 指示的子节点。 |
-| [ReplaceChild](../../aspose.finance.xbrl.dom/node/replacechild)(Node, Node) | 将子节点列表中的子节点 old child 替换为 new child，并返回 old child 节点。 |
+| [ReplaceChild](../../aspose.finance.xbrl.dom/node/replacechild)(Node, Node) | 用新的子节点替换子节点列表中的子节点old child，并返回旧的子节点。 |
 | virtual [ReplaceData](../../aspose.finance.xbrl.dom/characterdata/replacedata)(int, int, string) | 用指定的字符串替换从指定偏移量开始的字符。 |
-| virtual [Substring](../../aspose.finance.xbrl.dom/characterdata/substring)(int, int) | 从节点中提取数据范围。 |
+| virtual [Substring](../../aspose.finance.xbrl.dom/characterdata/substring)(int, int) | 从节点中提取一系列数据。 |
 
 ### 也可以看看
 

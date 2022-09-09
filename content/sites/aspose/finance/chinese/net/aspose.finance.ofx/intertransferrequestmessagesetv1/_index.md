@@ -1,14 +1,14 @@
 ---
 title: InterTransferRequestMessageSetV1
 second_title: Aspose.Finance for .NET API 参考
-description: 银行间转账请求消息集版本 1 类
+description: 银行间转账请求消息设置版本 1 类
 type: docs
 weight: 2590
 url: /zh/net/aspose.finance.ofx/intertransferrequestmessagesetv1/
 ---
 ## InterTransferRequestMessageSetV1 class
 
-银行间转账请求消息集版本 1 类。
+银行间转账请求消息设置版本 1 类。
 
 ```csharp
 public class InterTransferRequestMessageSetV1 : AbstractRequestMessageSet
@@ -18,16 +18,16 @@ public class InterTransferRequestMessageSetV1 : AbstractRequestMessageSet
 
 | 姓名 | 描述 |
 | --- | --- |
-| [InterTransferRequestMessageSetV1](intertransferrequestmessagesetv1)() | 初始化[`InterTransferRequestMessageSetV1`](../intertransferrequestmessagesetv1)类的新实例。 |
+| [InterTransferRequestMessageSetV1](intertransferrequestmessagesetv1)() | 初始化一个新的实例[`InterTransferRequestMessageSetV1`](../intertransferrequestmessagesetv1)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [InterSyncRequests](../../aspose.finance.ofx/intertransferrequestmessagesetv1/intersyncrequests) { get; set; } | 获取或设置[`InterSyncRequest`](../../aspose.finance.ofx.intertransfer/intersyncrequest)的集合。 |
-| [InterTransactionRequests](../../aspose.finance.ofx/intertransferrequestmessagesetv1/intertransactionrequests) { get; set; } | 获取或设置[`InterTransactionRequest`](../../aspose.finance.ofx.intertransfer/intertransactionrequest)的集合。 |
-| [RecurringInterSyncRequests](../../aspose.finance.ofx/intertransferrequestmessagesetv1/recurringintersyncrequests) { get; set; } | 获取或设置[`RecurringInterSyncRequest`](../../aspose.finance.ofx.intertransfer/recurringintersyncrequest)的集合。 |
-| [RecurringInterTransactionRequests](../../aspose.finance.ofx/intertransferrequestmessagesetv1/recurringintertransactionrequests) { get; set; } | 获取或设置[`RecurringInterTransactionRequest`](../../aspose.finance.ofx.intertransfer/recurringintertransactionrequest)的集合。 |
+| [InterSyncRequests](../../aspose.finance.ofx/intertransferrequestmessagesetv1/intersyncrequests) { get; set; } | 获取或设置的集合[`InterSyncRequest`](../../aspose.finance.ofx.intertransfer/intersyncrequest). |
+| [InterTransactionRequests](../../aspose.finance.ofx/intertransferrequestmessagesetv1/intertransactionrequests) { get; set; } | 获取或设置的集合[`InterTransactionRequest`](../../aspose.finance.ofx.intertransfer/intertransactionrequest). |
+| [RecurringInterSyncRequests](../../aspose.finance.ofx/intertransferrequestmessagesetv1/recurringintersyncrequests) { get; set; } | 获取或设置的集合[`RecurringInterSyncRequest`](../../aspose.finance.ofx.intertransfer/recurringintersyncrequest). |
+| [RecurringInterTransactionRequests](../../aspose.finance.ofx/intertransferrequestmessagesetv1/recurringintertransactionrequests) { get; set; } | 获取或设置的集合[`RecurringInterTransactionRequest`](../../aspose.finance.ofx.intertransfer/recurringintertransactionrequest). |
 
 ### 也可以看看
 

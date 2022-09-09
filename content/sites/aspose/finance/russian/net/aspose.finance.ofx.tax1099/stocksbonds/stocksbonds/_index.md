@@ -1,14 +1,14 @@
 ---
 title: StocksBonds
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаStocksBondsaspose.finance.ofx.tax1099/stocksbonds.
+description: Инициализирует новый экземплярStocksBondsaspose.finance.ofx.tax1099/stocksbonds класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.tax1099/stocksbonds/stocksbonds/
 ---
 ## StocksBonds constructor
 
-Инициализирует новый экземпляр класса[`StocksBonds`](../../stocksbonds).
+Инициализирует новый экземпляр[`StocksBonds`](../../stocksbonds) класс.
 
 ```csharp
 public StocksBonds()

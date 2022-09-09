@@ -18,13 +18,13 @@ public class BillPayMessageSet : AbstractMessageSet
 
 | Имя | Описание |
 | --- | --- |
-| [BillPayMessageSet](billpaymessageset)() | Инициализирует новый экземпляр класса[`BillPayMessageSet`](../billpaymessageset). |
+| [BillPayMessageSet](billpaymessageset)() | Инициализирует новый экземпляр[`BillPayMessageSet`](../billpaymessageset) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [BillPayMessageSetV1](../../aspose.finance.ofx.profile/billpaymessageset/billpaymessagesetv1) { get; set; } | Получает или задает[`BillPayMessageSetV1`](./billpaymessagesetv1). |
+| [BillPayMessageSetV1](../../aspose.finance.ofx.profile/billpaymessageset/billpaymessagesetv1) { get; set; } | Получает или задает[`BillPayMessageSetV1`](./billpaymessagesetv1) . |
 
 ### Смотрите также
 

@@ -18,7 +18,7 @@ public class InvestmentTransaction
 
 | Имя | Описание |
 | --- | --- |
-| [InvestmentTransaction](investmenttransaction)() | Инициализирует новый экземпляр класса[`InvestmentTransaction`](../investmenttransaction). |
+| [InvestmentTransaction](investmenttransaction)() | Инициализирует новый экземпляр[`InvestmentTransaction`](../investmenttransaction) класс. |
 
 ## Характеристики
 
@@ -27,9 +27,9 @@ public class InvestmentTransaction
 | [FITransactionId](../../aspose.finance.ofx.investment/investmenttransaction/fitransactionid) { get; set; } | Получает или задает уникальный идентификатор транзакции, назначенный FI |
 | [Memo](../../aspose.finance.ofx.investment/investmenttransaction/memo) { get; set; } | Получает или задает другую информацию о транзакции. |
 | [ReversalFITransactionId](../../aspose.finance.ofx.investment/investmenttransaction/reversalfitransactionid) { get; set; } | Получает или задает идентификатор обратной транзакции. |
-| [ServerId](../../aspose.finance.ofx.investment/investmenttransaction/serverid) { get; set; } | Получает или задает назначенный сервером идентификатор транзакции. |
+| [ServerId](../../aspose.finance.ofx.investment/investmenttransaction/serverid) { get; set; } | Получает или задает идентификатор транзакции, назначенный сервером. |
 | [SettleDate](../../aspose.finance.ofx.investment/investmenttransaction/settledate) { get; set; } | Получает или задает дату расчета; для дробления акций, дата исполнения. |
-| [TradeDate](../../aspose.finance.ofx.investment/investmenttransaction/tradedate) { get; set; } | Получает или задает дату сделки, для дробления акций, день записи. |
+| [TradeDate](../../aspose.finance.ofx.investment/investmenttransaction/tradedate) { get; set; } | Получает или задает дату сделки для дробления акций, день записи. |
 
 ### Смотрите также
 

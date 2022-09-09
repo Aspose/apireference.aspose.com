@@ -18,16 +18,16 @@ public class RecurringPaymentTransactionRequest : AbstractTransactionRequest
 
 | 姓名 | 描述 |
 | --- | --- |
-| [RecurringPaymentTransactionRequest](recurringpaymenttransactionrequest)() | 初始化[`RecurringPaymentTransactionRequest`](../recurringpaymenttransactionrequest)类的新实例。 |
+| [RecurringPaymentTransactionRequest](recurringpaymenttransactionrequest)() | 初始化一个新的实例[`RecurringPaymentTransactionRequest`](../recurringpaymenttransactionrequest)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
 | [ClientCookie](../../aspose.finance.ofx/abstracttransactionrequest/clientcookie) { get; set; } | 获取或设置要在事务响应中回显的数据 |
-| [OfxExtension](../../aspose.finance.ofx.billpay/recurringpaymenttransactionrequest/ofxextension) { get; set; } | 获取或设置[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype)。 |
-| [Request](../../aspose.finance.ofx.billpay/recurringpaymenttransactionrequest/request) { get; set; } | 获取或设置[`RecurringPaymentRequest`](../recurringpaymentrequest)或[`RecurringPaymentModRequest`](../recurringpaymentmodrequest)或[`RecurringPaymentCancelRequest`](../recurringpaymentcancelrequest)。 |
-| [TransactionAuthorizationNumber](../../aspose.finance.ofx/abstracttransactionrequest/transactionauthorizationnumber) { get; set; } | 获取或设置交易授权号。 |
+| [OfxExtension](../../aspose.finance.ofx.billpay/recurringpaymenttransactionrequest/ofxextension) { get; set; } | 获取或设置[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
+| [Request](../../aspose.finance.ofx.billpay/recurringpaymenttransactionrequest/request) { get; set; } | 获取或设置[`RecurringPaymentRequest`](../recurringpaymentrequest)或者[`RecurringPaymentModRequest`](../recurringpaymentmodrequest)或者[`RecurringPaymentCancelRequest`](../recurringpaymentcancelrequest). |
+| [TransactionAuthorizationNumber](../../aspose.finance.ofx/abstracttransactionrequest/transactionauthorizationnumber) { get; set; } | 获取或设置交易授权号 |
 | [TransactionUniqueId](../../aspose.finance.ofx/abstracttransactionrequest/transactionuniqueid) { get; set; } | 获取或设置此事务的客户端分配的全局唯一 ID |
 
 ### 也可以看看

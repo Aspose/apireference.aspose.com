@@ -18,7 +18,7 @@ public class OfxElementType
 
 | 姓名 | 描述 |
 | --- | --- |
-| [OfxElementType](ofxelementtype)() | 初始化[`OfxElementType`](../ofxelementtype)类的新实例。 |
+| [OfxElementType](ofxelementtype)() | 初始化一个新的实例[`OfxElementType`](../ofxelementtype)类. |
 
 ## 特性
 

@@ -1,14 +1,14 @@
 ---
 title: WireBeneficiary
 second_title: Справочник по API Aspose.Finance для .NET
-description: Этот класс описывает получателя электронного перевода.
+description: Этот класс описывает получателя банковского перевода.
 type: docs
 weight: 6340
 url: /ru/net/aspose.finance.ofx.wiretransfer/wirebeneficiary/
 ---
 ## WireBeneficiary class
 
-Этот класс описывает получателя электронного перевода.
+Этот класс описывает получателя банковского перевода.
 
 ```csharp
 public class WireBeneficiary
@@ -18,14 +18,14 @@ public class WireBeneficiary
 
 | Имя | Описание |
 | --- | --- |
-| [WireBeneficiary](wirebeneficiary)() | Инициализирует новый экземпляр класса[`WireBeneficiary`](../wirebeneficiary). |
+| [WireBeneficiary](wirebeneficiary)() | Инициализирует новый экземпляр[`WireBeneficiary`](../wirebeneficiary) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [BankAccountTo](../../aspose.finance.ofx.wiretransfer/wirebeneficiary/bankaccountto) { get; set; } | Получает или задает значение[`BankAccount`](../../aspose.finance.ofx/bankaccount). |
-| [Memo](../../aspose.finance.ofx.wiretransfer/wirebeneficiary/memo) { get; set; } | Получает или задает информацию о получателе. |
+| [BankAccountTo](../../aspose.finance.ofx.wiretransfer/wirebeneficiary/bankaccountto) { get; set; } | Получает или задает значение[`BankAccount`](../../aspose.finance.ofx/bankaccount) . |
+| [Memo](../../aspose.finance.ofx.wiretransfer/wirebeneficiary/memo) { get; set; } | Получает или устанавливает информацию для получателя. |
 | [Name](../../aspose.finance.ofx.wiretransfer/wirebeneficiary/name) { get; set; } | Получает или задает имя получателя. |
 
 ### Смотрите также

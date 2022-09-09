@@ -1,14 +1,14 @@
 ---
 title: StatusViaMods
 second_title: Aspose.Finance for .NET API 参考
-description: 如果为 true则服务器支持通过PaymentModResponse消息来通信服务器发起的支付状态更改
+description: 如果为真服务器支持通过PaymentModResponse消息.
 type: docs
 weight: 180
 url: /zh/net/aspose.finance.ofx.profile/billpaymessagesetv1/statusviamods/
 ---
 ## BillPayMessageSetV1.StatusViaMods property
 
-如果为 true，则服务器支持通过!:PaymentModResponse消息来通信服务器发起的支付状态更改。
+如果为真，服务器支持通过!:PaymentModResponse消息.
 
 ```csharp
 public bool StatusViaMods { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: BillTableStructureRequest
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаBillTableStructureRequestaspose.finance.ofx.billerdelivery/billtablestructurerequest.
+description: Инициализирует новый экземплярBillTableStructureRequestaspose.finance.ofx.billerdelivery/billtablestructurerequest класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.billerdelivery/billtablestructurerequest/billtablestructurerequest/
 ---
 ## BillTableStructureRequest constructor
 
-Инициализирует новый экземпляр класса[`BillTableStructureRequest`](../../billtablestructurerequest).
+Инициализирует новый экземпляр[`BillTableStructureRequest`](../../billtablestructurerequest) класс.
 
 ```csharp
 public BillTableStructureRequest()

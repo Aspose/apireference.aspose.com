@@ -18,17 +18,17 @@ public class InceptToDate
 
 | Имя | Описание |
 | --- | --- |
-| [InceptToDate](incepttodate)() | Инициализирует новый экземпляр класса[`InceptToDate`](../incepttodate). |
+| [InceptToDate](incepttodate)() | Инициализирует новый экземпляр[`InceptToDate`](../incepttodate) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [Contributions](../../aspose.finance.ofx.investment/incepttodate/contributions) { get; set; } | Получает или задает[`Contributions`](./contributions). |
-| [Earnings](../../aspose.finance.ofx.investment/incepttodate/earnings) { get; set; } | Получает или задает[`Earnings`](./earnings). |
-| [EndDate](../../aspose.finance.ofx.investment/incepttodate/enddate) { get; set; } | Получает или задает конечную дату для актуальной информации о начале. |
+| [Contributions](../../aspose.finance.ofx.investment/incepttodate/contributions) { get; set; } | Получает или задает[`Contributions`](./contributions) . |
+| [Earnings](../../aspose.finance.ofx.investment/incepttodate/earnings) { get; set; } | Получает или задает[`Earnings`](./earnings) . |
+| [EndDate](../../aspose.finance.ofx.investment/incepttodate/enddate) { get; set; } | Получает или задает конечную дату для информации о дате начала. |
 | [StartDate](../../aspose.finance.ofx.investment/incepttodate/startdate) { get; set; } | Получает или задает дату начала создания этой учетной записи. |
-| [Withdrawals](../../aspose.finance.ofx.investment/incepttodate/withdrawals) { get; set; } | Получает или задает[`Withdrawals`](./withdrawals). |
+| [Withdrawals](../../aspose.finance.ofx.investment/incepttodate/withdrawals) { get; set; } | Получает или задает[`Withdrawals`](./withdrawals) . |
 
 ### Смотрите также
 

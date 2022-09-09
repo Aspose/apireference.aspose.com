@@ -1,14 +1,14 @@
 ---
 title: InvestmentTransactionList
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化InvestmentTransactionListaspose.finance.ofx.investment/investmenttransactionlist类的新实例
+description: 初始化一个新的实例InvestmentTransactionListaspose.finance.ofx.investment/investmenttransactionlist类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.investment/investmenttransactionlist/investmenttransactionlist/
 ---
 ## InvestmentTransactionList constructor
 
-初始化[`InvestmentTransactionList`](../../investmenttransactionlist)类的新实例。
+初始化一个新的实例[`InvestmentTransactionList`](../../investmenttransactionlist)类.
 
 ```csharp
 public InvestmentTransactionList()

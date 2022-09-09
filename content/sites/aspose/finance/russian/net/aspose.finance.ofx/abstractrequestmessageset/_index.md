@@ -1,14 +1,14 @@
 ---
 title: AbstractRequestMessageSet
 second_title: Справочник по API Aspose.Finance для .NET
-description: Абстрактный базовый класс для всех классов набора сообщений запросов.
+description: Абстрактный базовый класс для всех классов набора сообщений запроса.
 type: docs
 weight: 60
 url: /ru/net/aspose.finance.ofx/abstractrequestmessageset/
 ---
 ## AbstractRequestMessageSet class
 
-Абстрактный базовый класс для всех классов набора сообщений запросов.
+Абстрактный базовый класс для всех классов набора сообщений запроса.
 
 ```csharp
 public abstract class AbstractRequestMessageSet : AbstractTopLevelMessageSet

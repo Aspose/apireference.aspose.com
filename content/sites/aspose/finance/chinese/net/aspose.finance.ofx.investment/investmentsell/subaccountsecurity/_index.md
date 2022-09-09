@@ -1,14 +1,14 @@
 ---
 title: SubAccountSecurity
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置证券的子账户类型
+description: 获取或设置security 的子账户类型
 type: docs
 weight: 150
 url: /zh/net/aspose.finance.ofx.investment/investmentsell/subaccountsecurity/
 ---
 ## InvestmentSell.SubAccountSecurity property
 
-获取或设置证券的子账户类型
+获取或设置security 的子账户类型
 
 ```csharp
 public SubAccountEnum SubAccountSecurity { get; set; }

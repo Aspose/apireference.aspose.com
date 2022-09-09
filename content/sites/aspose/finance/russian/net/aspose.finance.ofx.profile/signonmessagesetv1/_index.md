@@ -18,13 +18,13 @@ public class SignonMessageSetV1 : AbstractMessageSetVersion
 
 | Имя | Описание |
 | --- | --- |
-| [SignonMessageSetV1](signonmessagesetv1)() | Инициализирует новый экземпляр класса[`SignonMessageSetV1`](../signonmessagesetv1). |
+| [SignonMessageSetV1](signonmessagesetv1)() | Инициализирует новый экземпляр[`SignonMessageSetV1`](../signonmessagesetv1) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [MessageSetCore](../../aspose.finance.ofx.profile/abstractmessagesetversion/messagesetcore) { get; set; } | Получает или задает[`MessageSetCore`](../abstractmessagesetversion/messagesetcore). |
+| [MessageSetCore](../../aspose.finance.ofx.profile/abstractmessagesetversion/messagesetcore) { get; set; } | Получает или задает[`MessageSetCore`](../abstractmessagesetversion/messagesetcore) . |
 
 ### Смотрите также
 

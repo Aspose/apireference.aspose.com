@@ -18,13 +18,13 @@ public class AmortizationTransactionList
 
 | Имя | Описание |
 | --- | --- |
-| [AmortizationTransactionList](amortizationtransactionlist)() | Инициализирует новый экземпляр класса[`AmortizationTransactionList`](../amortizationtransactionlist). |
+| [AmortizationTransactionList](amortizationtransactionlist)() | Инициализирует новый экземпляр[`AmortizationTransactionList`](../amortizationtransactionlist) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [AmortizationTransactions](../../aspose.finance.ofx.loan/amortizationtransactionlist/amortizationtransactions) { get; set; } | Получает или задает коллекцию[`AmortizationTransaction`](../amortizationtransaction). |
+| [AmortizationTransactions](../../aspose.finance.ofx.loan/amortizationtransactionlist/amortizationtransactions) { get; set; } | Получает или задает коллекцию[`AmortizationTransaction`](../amortizationtransaction) . |
 | [EndDate](../../aspose.finance.ofx.loan/amortizationtransactionlist/enddate) { get; set; } | Получает или задает дату окончания для данных транзакции. |
 | [StartDate](../../aspose.finance.ofx.loan/amortizationtransactionlist/startdate) { get; set; } | Получает или задает начальную дату для данных транзакции. |
 

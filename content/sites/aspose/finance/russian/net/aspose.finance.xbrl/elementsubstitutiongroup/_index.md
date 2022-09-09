@@ -1,14 +1,14 @@
 ---
 title: ElementSubstitutionGroup
 second_title: Справочник по API Aspose.Finance для .NET
-description: Concept./conceptтип подстановки enum.
+description: Concept./concept тип подстановки enum.
 type: docs
 weight: 7610
 url: /ru/net/aspose.finance.xbrl/elementsubstitutiongroup/
 ---
 ## ElementSubstitutionGroup enumeration
 
-[`Concept`](../concept)тип подстановки enum.
+[`Concept`](../concept) тип подстановки enum.
 
 ```csharp
 public enum ElementSubstitutionGroup
@@ -19,10 +19,10 @@ public enum ElementSubstitutionGroup
 | Имя | Ценность | Описание |
 | --- | --- | --- |
 | Unknown | `0` | Неизвестная группа замещения. |
-| Item | `1` | Группа подстановки элементов. |
-| Tuple | `2` | Группа подстановки кортежа. |
-| DimensionItem | `3` | Группа подстановки элементов измерения. |
-| HypercubeItem | `4` | Группа подстановки элементов гиперкуба. |
+| Item | `1` | Группа замены элементов. |
+| Tuple | `2` | Группа подстановки кортежей. |
+| DimensionItem | `3` | Группа замещения элементов измерения. |
+| HypercubeItem | `4` | Группа замещения элементов гиперкуба. |
 
 ### Смотрите также
 

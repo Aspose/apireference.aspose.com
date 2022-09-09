@@ -1,14 +1,14 @@
 ---
 title: PendingTransactions
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置PendingTransactionaspose.finance.ofx/pendingtransaction的集合
+description: 获取或设置的集合PendingTransactionaspose.finance.ofx/pendingtransaction.
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.ofx/pendingtransactionlist/pendingtransactions/
 ---
 ## PendingTransactionList.PendingTransactions property
 
-获取或设置[`PendingTransaction`](../../pendingtransaction)的集合。
+获取或设置的集合[`PendingTransaction`](../../pendingtransaction).
 
 ```csharp
 public List<PendingTransaction> PendingTransactions { get; set; }

@@ -1,7 +1,7 @@
 ---
 title: Country
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置开票人的国家代码 ISO/DIS-3166 3 字母国家代码标准
+description: 获取或设置开票人的国家代码 ISO/DIS3166 3 字母国家代码标准
 type: docs
 weight: 80
 url: /zh/net/aspose.finance.ofx.billerdirectory/findbillerrequest/country/

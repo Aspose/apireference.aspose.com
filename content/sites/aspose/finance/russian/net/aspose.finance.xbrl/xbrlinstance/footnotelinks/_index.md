@@ -1,14 +1,14 @@
 ---
 title: FootnoteLinks
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает коллекцию объектовFootnoteLinkaspose.finance.xbrl/footnotelinkв экземпляре XBRL.
+description: Получает или задает коллекциюFootnoteLinkaspose.finance.xbrl/footnotelink объекты в экземпляре XBRL.
 type: docs
 weight: 40
 url: /ru/net/aspose.finance.xbrl/xbrlinstance/footnotelinks/
 ---
 ## XbrlInstance.FootnoteLinks property
 
-Получает или задает коллекцию объектов[`FootnoteLink`](../../footnotelink)в экземпляре XBRL.
+Получает или задает коллекцию[`FootnoteLink`](../../footnotelink) объекты в экземпляре XBRL.
 
 ```csharp
 public List<FootnoteLink> FootnoteLinks { get; set; }

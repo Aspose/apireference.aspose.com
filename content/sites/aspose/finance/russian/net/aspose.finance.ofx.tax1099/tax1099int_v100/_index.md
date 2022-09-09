@@ -1,14 +1,14 @@
 ---
 title: Tax1099INT_V100
 second_title: Справочник по API Aspose.Finance для .NET
-description: Налоговая форма 1099-INT V100 класс формы.
+description: Класс формы 1099INT V100.
 type: docs
 weight: 6010
 url: /ru/net/aspose.finance.ofx.tax1099/tax1099int_v100/
 ---
 ## Tax1099INT_V100 class
 
-Налоговая форма 1099-INT V100 класс формы.
+Класс формы 1099-INT V100.
 
 ```csharp
 public class Tax1099INT_V100 : AbstractTaxForm1099
@@ -18,32 +18,32 @@ public class Tax1099INT_V100 : AbstractTaxForm1099
 
 | Имя | Описание |
 | --- | --- |
-| [Tax1099INT_V100](tax1099int_v100)() | Инициализирует новый экземпляр класса[`Tax1099INT_V100`](../tax1099int_v100). |
+| [Tax1099INT_V100](tax1099int_v100)() | Инициализирует новый экземпляр[`Tax1099INT_V100`](../tax1099int_v100) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [AddlStateTaxWheldAggregate](../../aspose.finance.ofx.tax1099/tax1099int_v100/addlstatetaxwheldaggregate) { get; set; } | Получает или задает[`AddlStateTaxWheldAggregate`](./addlstatetaxwheldaggregate). |
+| [AddlStateTaxWheldAggregate](../../aspose.finance.ofx.tax1099/tax1099int_v100/addlstatetaxwheldaggregate) { get; set; } | Получает или задает[`AddlStateTaxWheldAggregate`](./addlstatetaxwheldaggregate) . |
 | [BondPremium](../../aspose.finance.ofx.tax1099/tax1099int_v100/bondpremium) { get; set; } | Получает или задает премию по облигациям. |
 | [Corrected](../../aspose.finance.ofx.tax1099/abstracttaxform1099/corrected) { get; set; } | Получает или задает, является ли это исправленной формой. |
 | [CUSIPNumber](../../aspose.finance.ofx.tax1099/tax1099int_v100/cusipnumber) { get; set; } | Получает или устанавливает комитет по унифицированным процедурам идентификации безопасности. |
 | [EarlyWithdrawalPenalty](../../aspose.finance.ofx.tax1099/tax1099int_v100/earlywithdrawalpenalty) { get; set; } | Получает или задает штраф за досрочное снятие средств. |
 | [FederalTaxWithheld](../../aspose.finance.ofx.tax1099/tax1099int_v100/federaltaxwithheld) { get; set; } | Получает или задает удержанный федеральный подоходный налог. |
 | [ForeignAccountTaxComplianceAct](../../aspose.finance.ofx.tax1099/tax1099int_v100/foreignaccounttaxcomplianceact) { get; set; } | Получает или задает Закон о соблюдении налогового законодательства для иностранных счетов. |
-| [ForeignCountry](../../aspose.finance.ofx.tax1099/tax1099int_v100/foreigncountry) { get; set; } | Получает или задает чужую страну или владение США. |
-| [ForeignTaxPaid](../../aspose.finance.ofx.tax1099/tax1099int_v100/foreigntaxpaid) { get; set; } | Получает или задает уплаченный иностранный налог. |
+| [ForeignCountry](../../aspose.finance.ofx.tax1099/tax1099int_v100/foreigncountry) { get; set; } | Получает или задает владение другой страной или США. |
+| [ForeignTaxPaid](../../aspose.finance.ofx.tax1099/tax1099int_v100/foreigntaxpaid) { get; set; } | Получает или устанавливает уплаченный иностранный налог. |
 | [InterestIncome](../../aspose.finance.ofx.tax1099/tax1099int_v100/interestincome) { get; set; } | Получает или задает процентный доход. |
 | [InterestUSBondTreasury](../../aspose.finance.ofx.tax1099/tax1099int_v100/interestusbondtreasury) { get; set; } | Получает или устанавливает проценты по сберегательным облигациям США и казначейским обязательствам. |
 | [InvestmentExpenses](../../aspose.finance.ofx.tax1099/tax1099int_v100/investmentexpenses) { get; set; } | Получает или задает инвестиционные расходы. |
 | [MarketDiscount](../../aspose.finance.ofx.tax1099/tax1099int_v100/marketdiscount) { get; set; } | Получает или задает рыночную скидку. |
-| [PayerAddress](../../aspose.finance.ofx.tax1099/tax1099int_v100/payeraddress) { get; set; } | Получает или задает[`PayerAddress`](./payeraddress). |
+| [PayerAddress](../../aspose.finance.ofx.tax1099/tax1099int_v100/payeraddress) { get; set; } | Получает или задает[`PayerAddress`](./payeraddress) . |
 | [PayerId](../../aspose.finance.ofx.tax1099/tax1099int_v100/payerid) { get; set; } | Получает или задает федеральный идентификационный номер плательщика. |
 | [PayerRTN](../../aspose.finance.ofx.tax1099/tax1099int_v100/payerrtn) { get; set; } | Получает или задает RTN плательщика. |
 | [RecipientAccount](../../aspose.finance.ofx.tax1099/tax1099int_v100/recipientaccount) { get; set; } | Получает или задает номер счета получателя. |
-| [RecipientAddress](../../aspose.finance.ofx.tax1099/tax1099int_v100/recipientaddress) { get; set; } | Получает или задает[`RecipientAddress`](./recipientaddress). |
+| [RecipientAddress](../../aspose.finance.ofx.tax1099/tax1099int_v100/recipientaddress) { get; set; } | Получает или задает[`RecipientAddress`](./recipientaddress) . |
 | [RecipientId](../../aspose.finance.ofx.tax1099/tax1099int_v100/recipientid) { get; set; } | Получает или задает идентификационный номер получателя. |
-| [ServerId](../../aspose.finance.ofx.tax1099/abstracttaxform1099/serverid) { get; set; } | Получает или задает идентификатор, назначенный хост-сервером форме. |
+| [ServerId](../../aspose.finance.ofx.tax1099/abstracttaxform1099/serverid) { get; set; } | Получает или задает идентификатор, присвоенный хост-сервером форме. |
 | [SpecifiedPrivateActivityBondInterest](../../aspose.finance.ofx.tax1099/tax1099int_v100/specifiedprivateactivitybondinterest) { get; set; } | Получает или задает указанный процент по облигациям частной деятельности. |
 | [StateCode](../../aspose.finance.ofx.tax1099/tax1099int_v100/statecode) { get; set; } | Получает или задает двухсимвольную аббревиатуру почтового индекса. |
 | [StateIdNumber](../../aspose.finance.ofx.tax1099/tax1099int_v100/stateidnumber) { get; set; } | Получает или задает идентификационный номер штата плательщика. |

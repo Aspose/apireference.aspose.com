@@ -18,14 +18,14 @@ public class RecurringInterCancellationRequest : AbstractRecurringInterRequest
 
 | 姓名 | 描述 |
 | --- | --- |
-| [RecurringInterCancellationRequest](recurringintercancellationrequest)() | 初始化[`RecurringInterCancellationRequest`](../recurringintercancellationrequest)类的新实例。 |
+| [RecurringInterCancellationRequest](recurringintercancellationrequest)() | 初始化一个新的实例[`RecurringInterCancellationRequest`](../recurringintercancellationrequest)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
 | [CancelPending](../../aspose.finance.ofx.intertransfer/recurringintercancellationrequest/cancelpending) { get; set; } | 获取或设置取消挂起标志。如果是，服务器应取消所有待处理和未生成的传输。如果否，服务器应该只取消模型（和未生成的传输）。 |
-| [RecurringServerId](../../aspose.finance.ofx.intertransfer/recurringintercancellationrequest/recurringserverid) { get; set; } | 获取或设置服务器分配给正在取消的模型的ID。 |
+| [RecurringServerId](../../aspose.finance.ofx.intertransfer/recurringintercancellationrequest/recurringserverid) { get; set; } | 获取或设置服务器分配给被取消模型的ID。 |
 
 ### 也可以看看
 

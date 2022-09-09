@@ -1,14 +1,14 @@
 ---
 title: BankTransactionList
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаBankTransactionListaspose.finance.ofx/banktransactionlist.
+description: Инициализирует новый экземплярBankTransactionListaspose.finance.ofx/banktransactionlist класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx/banktransactionlist/banktransactionlist/
 ---
 ## BankTransactionList constructor
 
-Инициализирует новый экземпляр класса[`BankTransactionList`](../../banktransactionlist).
+Инициализирует новый экземпляр[`BankTransactionList`](../../banktransactionlist) класс.
 
 ```csharp
 public BankTransactionList()

@@ -1,14 +1,14 @@
 ---
 title: Footnotes
 second_title: Aspose.Finance for .NET API 参考
-description: 获取Footnoteaspose.finance.xbrl/footnote的集合
+description: 获取集合Footnoteaspose.finance.xbrl/footnote.
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.xbrl/footnotelink/footnotes/
 ---
 ## FootnoteLink.Footnotes property
 
-获取[`Footnote`](../../footnote)的集合。
+获取集合[`Footnote`](../../footnote).
 
 ```csharp
 public List<Footnote> Footnotes { get; }

@@ -1,14 +1,14 @@
 ---
 title: LenderAddress
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задаетLenderAddressaspose.finance.ofx.tax1098/tax1098e_v100/lenderaddress.
+description: Получает или задаетLenderAddressaspose.finance.ofx.tax1098/tax1098e_v100/lenderaddress .
 type: docs
 weight: 50
 url: /ru/net/aspose.finance.ofx.tax1098/tax1098e_v100/lenderaddress/
 ---
 ## Tax1098E_V100.LenderAddress property
 
-Получает или задает`LenderAddress`.
+Получает или задает`LenderAddress` .
 
 ```csharp
 public LenderAddress LenderAddress { get; set; }

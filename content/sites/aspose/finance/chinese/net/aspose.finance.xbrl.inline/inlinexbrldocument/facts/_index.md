@@ -1,14 +1,14 @@
 ---
 title: Facts
 second_title: Aspose.Finance for .NET API 参考
-description: 获取内联 XBRL 文档中InlineFactaspose.finance.xbrl.inline/inlinefact的集合
+description: 获取集合InlineFactaspose.finance.xbrl.inline/inlinefact在内联 XBRL 文档中
 type: docs
 weight: 50
 url: /zh/net/aspose.finance.xbrl.inline/inlinexbrldocument/facts/
 ---
 ## InlineXbrlDocument.Facts property
 
-获取内联 XBRL 文档中[`InlineFact`](../../inlinefact)的集合。
+获取集合[`InlineFact`](../../inlinefact)在内联 XBRL 文档中。
 
 ```csharp
 public List<InlineFact> Facts { get; }

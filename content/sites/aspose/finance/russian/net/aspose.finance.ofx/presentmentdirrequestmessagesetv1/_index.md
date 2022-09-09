@@ -18,13 +18,13 @@ public class PresentmentDirRequestMessageSetV1 : AbstractRequestMessageSet
 
 | Имя | Описание |
 | --- | --- |
-| [PresentmentDirRequestMessageSetV1](presentmentdirrequestmessagesetv1)() | Инициализирует новый экземпляр класса[`PresentmentDirRequestMessageSetV1`](../presentmentdirrequestmessagesetv1). |
+| [PresentmentDirRequestMessageSetV1](presentmentdirrequestmessagesetv1)() | Инициализирует новый экземпляр[`PresentmentDirRequestMessageSetV1`](../presentmentdirrequestmessagesetv1) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [FindBillerTransactionRequests](../../aspose.finance.ofx/presentmentdirrequestmessagesetv1/findbillertransactionrequests) { get; set; } | Получает или задает коллекцию[`FindBillerTransactionRequest`](../../aspose.finance.ofx.billerdirectory/findbillertransactionrequest). |
+| [FindBillerTransactionRequests](../../aspose.finance.ofx/presentmentdirrequestmessagesetv1/findbillertransactionrequests) { get; set; } | Получает или задает коллекцию[`FindBillerTransactionRequest`](../../aspose.finance.ofx.billerdirectory/findbillertransactionrequest) . |
 
 ### Смотрите также
 

@@ -1,14 +1,14 @@
 ---
 title: LinkbaseRefCollection
 second_title: Aspose.Finance for .NET API 参考
-description: 获取XbrlInstanceaspose.finance.xbrl/xbrlinstance中的LinkbaseRefCollectionaspose.finance.xbrl/xbrlinstance/linkbaserefcollection
+description: 获取LinkbaseRefCollectionaspose.finance.xbrl/xbrlinstance/linkbaserefcollection在里面XbrlInstanceaspose.finance.xbrl/xbrlinstance.
 type: docs
 weight: 60
 url: /zh/net/aspose.finance.xbrl/xbrlinstance/linkbaserefcollection/
 ---
 ## XbrlInstance.LinkbaseRefCollection property
 
-获取[`XbrlInstance`](../../xbrlinstance)中的`LinkbaseRefCollection`。
+获取`LinkbaseRefCollection`在里面[`XbrlInstance`](../../xbrlinstance).
 
 ```csharp
 public LinkbaseRefCollection LinkbaseRefCollection { get; }

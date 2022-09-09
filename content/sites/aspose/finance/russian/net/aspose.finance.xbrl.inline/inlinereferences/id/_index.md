@@ -1,14 +1,14 @@
 ---
 title: Id
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает идентификаторInlineReferencesaspose.finance.xbrl.inline/inlinereferences.
+description: Получает или задает идентификаторInlineReferencesaspose.finance.xbrl.inline/inlinereferences .
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.xbrl.inline/inlinereferences/id/
 ---
 ## InlineReferences.Id property
 
-Получает или задает идентификатор[`InlineReferences`](../../inlinereferences).
+Получает или задает идентификатор[`InlineReferences`](../../inlinereferences) .
 
 ```csharp
 public string Id { get; set; }

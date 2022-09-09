@@ -1,14 +1,14 @@
 ---
 title: BankMailTransactionRequest
 second_title: Aspose.Finance for .NET API 参考
-description: 银行邮件交易请求类
+description: 银行邮件交易请求类.
 type: docs
 weight: 350
 url: /zh/net/aspose.finance.ofx.bank/bankmailtransactionrequest/
 ---
 ## BankMailTransactionRequest class
 
-银行邮件交易请求类。
+银行邮件交易请求类.
 
 ```csharp
 public class BankMailTransactionRequest : AbstractTransactionRequest
@@ -18,16 +18,16 @@ public class BankMailTransactionRequest : AbstractTransactionRequest
 
 | 姓名 | 描述 |
 | --- | --- |
-| [BankMailTransactionRequest](bankmailtransactionrequest)() | 初始化[`BankMailTransactionRequest`](../bankmailtransactionrequest)类的新实例。 |
+| [BankMailTransactionRequest](bankmailtransactionrequest)() | 初始化一个新的实例[`BankMailTransactionRequest`](../bankmailtransactionrequest)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [BankMailRequest](../../aspose.finance.ofx.bank/bankmailtransactionrequest/bankmailrequest) { get; set; } | 获取或设置[`BankMailRequest`](./bankmailrequest)。 |
+| [BankMailRequest](../../aspose.finance.ofx.bank/bankmailtransactionrequest/bankmailrequest) { get; set; } | 获取或设置[`BankMailRequest`](./bankmailrequest). |
 | [ClientCookie](../../aspose.finance.ofx/abstracttransactionrequest/clientcookie) { get; set; } | 获取或设置要在事务响应中回显的数据 |
-| [OfxExtension](../../aspose.finance.ofx.bank/bankmailtransactionrequest/ofxextension) { get; set; } | 获取或设置[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype)。 |
-| [TransactionAuthorizationNumber](../../aspose.finance.ofx/abstracttransactionrequest/transactionauthorizationnumber) { get; set; } | 获取或设置交易授权号。 |
+| [OfxExtension](../../aspose.finance.ofx.bank/bankmailtransactionrequest/ofxextension) { get; set; } | 获取或设置[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
+| [TransactionAuthorizationNumber](../../aspose.finance.ofx/abstracttransactionrequest/transactionauthorizationnumber) { get; set; } | 获取或设置交易授权号 |
 | [TransactionUniqueId](../../aspose.finance.ofx/abstracttransactionrequest/transactionuniqueid) { get; set; } | 获取或设置此事务的客户端分配的全局唯一 ID |
 
 ### 也可以看看

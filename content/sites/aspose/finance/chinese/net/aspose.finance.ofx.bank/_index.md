@@ -19,23 +19,23 @@ url: /zh/net/aspose.finance.ofx.bank/
 | [AbstractRecurringIntraRequest](./abstractrecurringintrarequest) | 所有重复银行内转账请求相关类的抽象基类。 |
 | [AbstractRecurringIntraResponse](./abstractrecurringintraresponse) | 所有重复银行内转账响应相关类的抽象基类。 |
 | [BankMailRequest](./bankmailrequest) | 银行电子邮件请求类。 |
-| [BankMailResponse](./bankmailresponse) | 银行电子邮件回复类。 |
-| [BankMailSyncRequest](./bankmailsyncrequest) | 银行邮件同步请求类。 |
-| [BankMailSyncResponse](./bankmailsyncresponse) | 银行邮件同步响应类。 |
-| [BankMailTransactionRequest](./bankmailtransactionrequest) | 银行邮件交易请求类。 |
-| [BankMailTransactionResponse](./bankmailtransactionresponse) | 银行邮件交易响应类。 |
+| [BankMailResponse](./bankmailresponse) | 银行邮件回复类。 |
+| [BankMailSyncRequest](./bankmailsyncrequest) | 银行邮件同步请求类 |
+| [BankMailSyncResponse](./bankmailsyncresponse) | 银行邮件同步响应类 |
+| [BankMailTransactionRequest](./bankmailtransactionrequest) | 银行邮件交易请求类. |
+| [BankMailTransactionResponse](./bankmailtransactionresponse) | 银行邮件交易响应类. |
 | [CheckDescription](./checkdescription) | 支票描述必须包含收款人姓名或描述。它还可以包括支票号码、用户开支票的日期和交易金额。 |
-| [CheckMailResponse](./checkmailresponse) | 检查邮件通知消息响应类。如果服务器接收到银行电子邮件同步消息，则服务器返回此响应（当已返回支票时）。 |
+| [CheckMailResponse](./checkmailresponse) | 检查邮件通知消息响应类。如果服务器收到银行电子邮件同步消息，则服务器返回此响应（当已返回支票时）。 |
 | [CheckRange](./checkrange) | 检查范围类。 |
 | [Closing](./closing) | 支票账户、储蓄账户、货币市场账户、CD 账户或信用额度账户使用该类来描述结单信息。 |
-| [DepositMailResponse](./depositmailresponse) | 存款邮件通知消息响应类。如果服务器接收到银行电子邮件同步消息，则服务器返回此响应（当已退回存款时）。 |
+| [DepositMailResponse](./depositmailresponse) | 存款邮件通知消息响应类。如果服务器收到银行电子邮件同步消息，则服务器返回此响应（当押金退回时）。 |
 | [IntraCancellationRequest](./intracancellationrequest) | 银行内转账取消请求类。 |
 | [IntraCancellationResponse](./intracancellationresponse) | 银行内转账取消响应类。 |
-| [IntraModRequest](./intramodrequest) | 银行内转账修改请求类。 |
-| [IntraModResponse](./intramodresponse) | 银行内转账修改响应类。 |
+| [IntraModRequest](./intramodrequest) | 银行内转账修改请求类. |
+| [IntraModResponse](./intramodresponse) | 银行内转账修改响应类. |
 | [IntraRequest](./intrarequest) | 银行内转账请求类。 |
 | [IntraResponse](./intraresponse) | 银行内转账响应类。 |
-| [IntraSyncRequest](./intrasyncrequest) | 银行内交易同步请求类。 |
+| [IntraSyncRequest](./intrasyncrequest) | 银行内交易同步请求类. |
 | [IntraSyncResponse](./intrasyncresponse) | 银行内交易同步响应类。 |
 | [IntraTransactionRequest](./intratransactionrequest) | 银行内转账交易请求类。 |
 | [IntraTransactionResponse](./intratransactionresponse) | 银行内转账交易响应类。 |
@@ -50,19 +50,19 @@ url: /zh/net/aspose.finance.ofx.bank/
 | [RecurringIntraTransactionRequest](./recurringintratransactionrequest) | 定期银行内交易请求类。 |
 | [RecurringIntraTransactionResponse](./recurringintratransactionresponse) | 定期银行内交易响应类。 |
 | [StatementEndRequest](./statementendrequest) | 关闭语句请求类。 |
-| [StatementEndResponse](./statementendresponse) | 结束语句响应类。 |
-| [StatementEndTransactionRequest](./statementendtransactionrequest) | 关闭语句事务请求类。 |
+| [StatementEndResponse](./statementendresponse) | 关闭语句响应类。 |
+| [StatementEndTransactionRequest](./statementendtransactionrequest) | 关闭语句交易请求类。 |
 | [StatementEndTransactionResponse](./statementendtransactionresponse) | 关闭语句事务响应类。 |
 | [StatementRequest](./statementrequest) | 语句请求类 |
-| [StatementResponse](./statementresponse) | 语句响应类。 |
-| [StatementTransactionRequest](./statementtransactionrequest) | 语句事务请求类。 |
-| [StatementTransactionResponse](./statementtransactionresponse) | 语句事务响应类。 |
+| [StatementResponse](./statementresponse) | 语句响应类. |
+| [StatementTransactionRequest](./statementtransactionrequest) | 语句交易请求类. |
+| [StatementTransactionResponse](./statementtransactionresponse) | 语句事务响应类. |
 | [StopCheckNumber](./stopchecknumber) | 停止检查项目类。 |
 | [StopCheckRequest](./stopcheckrequest) | 停止检查请求类。 |
 | [StopCheckResponse](./stopcheckresponse) | 停止检查响应类。 |
 | [StopCheckSyncRequest](./stopchecksyncrequest) | 停止检查同步请求类。 |
-| [StopCheckSyncResponse](./stopchecksyncresponse) | Stop 检查同步响应类。 |
-| [StopCheckTransactionRequest](./stopchecktransactionrequest) | 停止检查事务请求类。 |
+| [StopCheckSyncResponse](./stopchecksyncresponse) | 停止检查同步响应类。 |
+| [StopCheckTransactionRequest](./stopchecktransactionrequest) | 停止检查交易请求类。 |
 | [StopCheckTransactionResponse](./stopchecktransactionresponse) | 停止检查事务响应类。 |
 ## 枚举
 

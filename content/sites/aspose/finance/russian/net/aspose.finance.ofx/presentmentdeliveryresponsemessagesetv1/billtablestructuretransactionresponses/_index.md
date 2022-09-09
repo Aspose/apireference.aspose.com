@@ -1,14 +1,14 @@
 ---
 title: BillTableStructureTransactionResponses
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает коллекциюBillTableStructureTransactionResponseaspose.finance.ofx.billerdelivery/billtablestructuretransactionresponse.
+description: Получает или задает коллекциюBillTableStructureTransactionResponseaspose.finance.ofx.billerdelivery/billtablestructuretransactionresponse .
 type: docs
 weight: 30
 url: /ru/net/aspose.finance.ofx/presentmentdeliveryresponsemessagesetv1/billtablestructuretransactionresponses/
 ---
 ## PresentmentDeliveryResponseMessageSetV1.BillTableStructureTransactionResponses property
 
-Получает или задает коллекцию[`BillTableStructureTransactionResponse`](../../../aspose.finance.ofx.billerdelivery/billtablestructuretransactionresponse).
+Получает или задает коллекцию[`BillTableStructureTransactionResponse`](../../../aspose.finance.ofx.billerdelivery/billtablestructuretransactionresponse) .
 
 ```csharp
 public List<BillTableStructureTransactionResponse> 

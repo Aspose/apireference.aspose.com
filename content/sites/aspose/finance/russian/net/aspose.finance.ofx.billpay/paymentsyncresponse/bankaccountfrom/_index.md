@@ -1,14 +1,14 @@
 ---
 title: BankAccountFrom
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает значение изBankAccountaspose.finance.ofx/bankaccount.
+description: Получает или задает изBankAccountaspose.finance.ofx/bankaccount .
 type: docs
 weight: 20
 url: /ru/net/aspose.finance.ofx.billpay/paymentsyncresponse/bankaccountfrom/
 ---
 ## PaymentSyncResponse.BankAccountFrom property
 
-Получает или задает значение из[`BankAccount`](../../../aspose.finance.ofx/bankaccount).
+Получает или задает из[`BankAccount`](../../../aspose.finance.ofx/bankaccount) .
 
 ```csharp
 public BankAccount BankAccountFrom { get; set; }

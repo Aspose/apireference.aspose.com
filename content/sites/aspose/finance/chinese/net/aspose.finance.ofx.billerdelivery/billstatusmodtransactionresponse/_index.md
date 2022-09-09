@@ -8,7 +8,7 @@ url: /zh/net/aspose.finance.ofx.billerdelivery/billstatusmodtransactionresponse/
 ---
 ## BillStatusModTransactionResponse class
 
-账单状态修改交易响应类。
+账单状态修改交易响应类
 
 ```csharp
 public class BillStatusModTransactionResponse : AbstractTransactionResponse
@@ -18,16 +18,16 @@ public class BillStatusModTransactionResponse : AbstractTransactionResponse
 
 | 姓名 | 描述 |
 | --- | --- |
-| [BillStatusModTransactionResponse](billstatusmodtransactionresponse)() | 初始化[`BillStatusModTransactionResponse`](../billstatusmodtransactionresponse)类的新实例。 |
+| [BillStatusModTransactionResponse](billstatusmodtransactionresponse)() | 初始化一个新的实例[`BillStatusModTransactionResponse`](../billstatusmodtransactionresponse)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [BillStatusModResponse](../../aspose.finance.ofx.billerdelivery/billstatusmodtransactionresponse/billstatusmodresponse) { get; set; } | 获取或设置[`BillStatusModResponse`](./billstatusmodresponse)。 |
+| [BillStatusModResponse](../../aspose.finance.ofx.billerdelivery/billstatusmodtransactionresponse/billstatusmodresponse) { get; set; } | 获取或设置[`BillStatusModResponse`](./billstatusmodresponse). |
 | [ClientCookie](../../aspose.finance.ofx/abstracttransactionresponse/clientcookie) { get; set; } | 获取或设置要在事务响应中回显的数据 |
-| [OfxExtension](../../aspose.finance.ofx.billerdelivery/billstatusmodtransactionresponse/ofxextension) { get; set; } | 获取或设置[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype)。 |
-| [Status](../../aspose.finance.ofx/abstracttransactionresponse/status) { get; set; } | 获取或设置[`Status`](../../aspose.finance.ofx/abstracttransactionresponse/status)。 |
+| [OfxExtension](../../aspose.finance.ofx.billerdelivery/billstatusmodtransactionresponse/ofxextension) { get; set; } | 获取或设置[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
+| [Status](../../aspose.finance.ofx/abstracttransactionresponse/status) { get; set; } | 获取或设置[`Status`](../../aspose.finance.ofx/abstracttransactionresponse/status). |
 | [TransactionUniqueId](../../aspose.finance.ofx/abstracttransactionresponse/transactionuniqueid) { get; set; } | 获取或设置此事务的客户端分配的全局唯一 ID。 |
 
 ### 也可以看看

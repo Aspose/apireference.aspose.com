@@ -18,14 +18,14 @@ public class SellDebt : AbstractInvestmentSellTransaction
 
 | 姓名 | 描述 |
 | --- | --- |
-| [SellDebt](selldebt)() | 初始化[`SellDebt`](../selldebt)类的新实例。 |
+| [SellDebt](selldebt)() | 初始化一个新的实例[`SellDebt`](../selldebt)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
 | [AccruedInterest](../../aspose.finance.ofx.investment/selldebt/accruedinterest) { get; set; } | 获取或设置应计利息。 |
-| [InvestmentSell](../../aspose.finance.ofx.investment/abstractinvestmentselltransaction/investmentsell) { get; set; } | 获取或设置[`InvestmentSell`](../abstractinvestmentselltransaction/investmentsell)。 |
+| [InvestmentSell](../../aspose.finance.ofx.investment/abstractinvestmentselltransaction/investmentsell) { get; set; } | 获取或设置[`InvestmentSell`](../abstractinvestmentselltransaction/investmentsell). |
 | [SellReason](../../aspose.finance.ofx.investment/selldebt/sellreason) { get; set; } | 获取或设置产生卖出债务证券的原因。 |
 
 ### 也可以看看

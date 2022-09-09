@@ -1,14 +1,14 @@
 ---
 title: GetToLocs
 second_title: Aspose.Finance for .NET API 参考
-description: 在DefinitionArcaspose.finance.xbrl/definitionarc中获取Locaspose.finance.xbrl/loc的集合
+description: 获取 to 的集合Locaspose.finance.xbrl/loc在里面DefinitionArcaspose.finance.xbrl/definitionarc.
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.xbrl/definitionarc/gettolocs/
 ---
 ## DefinitionArc.GetToLocs method
 
-在[`DefinitionArc`](../../definitionarc)中获取[`Loc`](../../loc)的集合。
+获取 to 的集合[`Loc`](../../loc)在里面[`DefinitionArc`](../../definitionarc).
 
 ```csharp
 public List<Loc> GetToLocs()
@@ -16,7 +16,7 @@ public List<Loc> GetToLocs()
 
 ### 返回值
 
-到[`Loc`](../../loc)的集合。
+的集合[`Loc`](../../loc).
 
 ### 也可以看看
 

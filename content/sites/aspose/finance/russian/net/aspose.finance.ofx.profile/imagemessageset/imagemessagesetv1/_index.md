@@ -1,14 +1,14 @@
 ---
 title: ImageMessageSetV1
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задаетImageMessageSetV1aspose.finance.ofx.profile/imagemessageset/imagemessagesetv1.
+description: Получает или задаетImageMessageSetV1aspose.finance.ofx.profile/imagemessageset/imagemessagesetv1 .
 type: docs
 weight: 20
 url: /ru/net/aspose.finance.ofx.profile/imagemessageset/imagemessagesetv1/
 ---
 ## ImageMessageSet.ImageMessageSetV1 property
 
-Получает или задает`ImageMessageSetV1`.
+Получает или задает`ImageMessageSetV1` .
 
 ```csharp
 public ImageMessageSetV1 ImageMessageSetV1 { get; set; }

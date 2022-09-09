@@ -18,16 +18,16 @@ public class EnrollTransactionResponse : AbstractTransactionResponse
 
 | Имя | Описание |
 | --- | --- |
-| [EnrollTransactionResponse](enrolltransactionresponse)() | Инициализирует новый экземпляр класса[`EnrollTransactionResponse`](../enrolltransactionresponse). |
+| [EnrollTransactionResponse](enrolltransactionresponse)() | Инициализирует новый экземпляр[`EnrollTransactionResponse`](../enrolltransactionresponse) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [ClientCookie](../../aspose.finance.ofx/abstracttransactionresponse/clientcookie) { get; set; } | Получает или задает данные, которые будут отображаться в ответе транзакции |
-| [EnrollResponse](../../aspose.finance.ofx.signup/enrolltransactionresponse/enrollresponse) { get; set; } | Получает или задает[`EnrollResponse`](./enrollresponse). |
-| [OfxExtension](../../aspose.finance.ofx.signup/enrolltransactionresponse/ofxextension) { get; set; } | Получает или задает[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
-| [Status](../../aspose.finance.ofx/abstracttransactionresponse/status) { get; set; } | Получает или задает[`Status`](../../aspose.finance.ofx/abstracttransactionresponse/status). |
+| [ClientCookie](../../aspose.finance.ofx/abstracttransactionresponse/clientcookie) { get; set; } | Получает или задает данные, которые будут отражены в транзакции response |
+| [EnrollResponse](../../aspose.finance.ofx.signup/enrolltransactionresponse/enrollresponse) { get; set; } | Получает или задает[`EnrollResponse`](./enrollresponse) . |
+| [OfxExtension](../../aspose.finance.ofx.signup/enrolltransactionresponse/ofxextension) { get; set; } | Получает или задает[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype) . |
+| [Status](../../aspose.finance.ofx/abstracttransactionresponse/status) { get; set; } | Получает или задает[`Status`](../../aspose.finance.ofx/abstracttransactionresponse/status) . |
 | [TransactionUniqueId](../../aspose.finance.ofx/abstracttransactionresponse/transactionuniqueid) { get; set; } | Получает или задает назначенный клиентом глобальный уникальный идентификатор для этой транзакции. |
 
 ### Смотрите также

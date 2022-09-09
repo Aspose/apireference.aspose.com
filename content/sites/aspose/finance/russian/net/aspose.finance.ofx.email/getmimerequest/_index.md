@@ -18,13 +18,13 @@ public class GetMimeRequest
 
 | Имя | Описание |
 | --- | --- |
-| [GetMimeRequest](getmimerequest)() | Инициализирует новый экземпляр класса[`GetMimeRequest`](../getmimerequest). |
+| [GetMimeRequest](getmimerequest)() | Инициализирует новый экземпляр[`GetMimeRequest`](../getmimerequest) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [Url](../../aspose.finance.ofx.email/getmimerequest/url) { get; set; } | Получает или задает URL-адрес. |
+| [Url](../../aspose.finance.ofx.email/getmimerequest/url) { get; set; } | Получает или задает URL. |
 
 ### Смотрите также
 

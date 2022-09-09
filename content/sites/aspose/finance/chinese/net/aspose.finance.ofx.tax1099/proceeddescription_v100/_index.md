@@ -1,14 +1,14 @@
 ---
 title: ProceedDescription_V100
 second_title: Aspose.Finance for .NET API 参考
-description: Tax 1099-B 表格收益描述类
+description: 税 1099B 表格收益描述类
 type: docs
 weight: 5940
 url: /zh/net/aspose.finance.ofx.tax1099/proceeddescription_v100/
 ---
 ## ProceedDescription_V100 class
 
-Tax 1099-B 表格收益描述类。
+税 1099-B 表格收益描述类。
 
 ```csharp
 public class ProceedDescription_V100
@@ -18,35 +18,35 @@ public class ProceedDescription_V100
 
 | 姓名 | 描述 |
 | --- | --- |
-| [ProceedDescription_V100](proceeddescription_v100)() | 初始化[`ProceedDescription_V100`](../proceeddescription_v100)类的新实例。 |
+| [ProceedDescription_V100](proceeddescription_v100)() | 初始化一个新的实例[`ProceedDescription_V100`](../proceeddescription_v100)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [AcquiredDate](../../aspose.finance.ofx.tax1099/proceeddescription_v100/acquireddate) { get; set; } | 获取或设置获取的日期。 |
+| [AcquiredDate](../../aspose.finance.ofx.tax1099/proceeddescription_v100/acquireddate) { get; set; } | 获取或设置获取日期。 |
 | [BasisNotShown](../../aspose.finance.ofx.tax1099/proceeddescription_v100/basisnotshown) { get; set; } | 获取或设置未显示的基。 |
-| [CostBasis](../../aspose.finance.ofx.tax1099/proceeddescription_v100/costbasis) { get; set; } | 获取或设置成本基础。如果证券是从另一家金融机构转让的，金融机构可能并不总是知道这一点。 |
+| [CostBasis](../../aspose.finance.ofx.tax1099/proceeddescription_v100/costbasis) { get; set; } | 获取或设置成本基础。如果证券是从另一个 FI 转移的，FI 可能并不总是知道这一点。 |
 | [FederalTaxWithheld](../../aspose.finance.ofx.tax1099/proceeddescription_v100/federaltaxwithheld) { get; set; } | 获取或设置预扣的联邦所得税。 |
-| [Form1099BNotReceived](../../aspose.finance.ofx.tax1099/proceeddescription_v100/form1099bnotreceived) { get; set; } | 获取或设置表单 1099-B not received |
+| [Form1099BNotReceived](../../aspose.finance.ofx.tax1099/proceeddescription_v100/form1099bnotreceived) { get; set; } | 获取或设置表格 1099-B not received |
 | [Form8949Code](../../aspose.finance.ofx.tax1099/proceeddescription_v100/form8949code) { get; set; } | 获取或设置表格 8949 上适用的复选框值。 |
-| [LongShort](../../aspose.finance.ofx.tax1099/proceeddescription_v100/longshort) { get; set; } | 获取或设置多空。表示不应将购买日期用于期限计算时的销售持有期。 |
-| [LossNotAllowed](../../aspose.finance.ofx.tax1099/proceeddescription_v100/lossnotallowed) { get; set; } | 获取或设置不允许的丢失。 |
-| [NoncoveredSecurity](../../aspose.finance.ofx.tax1099/proceeddescription_v100/noncoveredsecurity) { get; set; } | 获取或设置非覆盖安全。 |
+| [LongShort](../../aspose.finance.ofx.tax1099/proceeddescription_v100/longshort) { get; set; } | 获取或设置多空。表示不应将收购日期用于期限计算时的销售持有期。 |
+| [LossNotAllowed](../../aspose.finance.ofx.tax1099/proceeddescription_v100/lossnotallowed) { get; set; } | 获取或设置loss not allowed. |
+| [NoncoveredSecurity](../../aspose.finance.ofx.tax1099/proceeddescription_v100/noncoveredsecurity) { get; set; } | 获取或设置非覆盖证券。 |
 | [NumberShares](../../aspose.finance.ofx.tax1099/proceeddescription_v100/numbershares) { get; set; } | 获取或设置共享数量。 |
 | [SaleDate](../../aspose.finance.ofx.tax1099/proceeddescription_v100/saledate) { get; set; } | 获取或设置销售日期。 |
 | [SaleDescription](../../aspose.finance.ofx.tax1099/proceeddescription_v100/saledescription) { get; set; } | 获取或设置销售描述。 |
 | [SalesPrice](../../aspose.finance.ofx.tax1099/proceeddescription_v100/salesprice) { get; set; } | 获取或设置销售价格。这是销售的总价格，而不是每股价格。 |
 | [SecurityName](../../aspose.finance.ofx.tax1099/proceeddescription_v100/securityname) { get; set; } | 获取或设置安全名称。 |
-| [StateCode](../../aspose.finance.ofx.tax1099/proceeddescription_v100/statecode) { get; set; } | 获取或设置州代扣所得税的邮政简称。 |
+| [StateCode](../../aspose.finance.ofx.tax1099/proceeddescription_v100/statecode) { get; set; } | 获取或设置州代扣所得税的邮政缩写。 |
 | [StateCode2](../../aspose.finance.ofx.tax1099/proceeddescription_v100/statecode2) { get; set; } | 获取或设置第二州预扣税的邮政缩写，第 2 行。 |
-| [StateIdNumber](../../aspose.finance.ofx.tax1099/proceeddescription_v100/stateidnumber) { get; set; } | 获取或设置付款人的州 ID 号。 |
-| [StateIdNumber2](../../aspose.finance.ofx.tax1099/proceeddescription_v100/stateidnumber2) { get; set; } | 获取或设置付款人的州 ID 号，第 2 行。 |
+| [StateIdNumber](../../aspose.finance.ofx.tax1099/proceeddescription_v100/stateidnumber) { get; set; } | 获取或设置付款人的状态ID号。 |
+| [StateIdNumber2](../../aspose.finance.ofx.tax1099/proceeddescription_v100/stateidnumber2) { get; set; } | 获取或设置付款人的状态 ID 号，第 2 行。 |
 | [StateTaxWithheld](../../aspose.finance.ofx.tax1099/proceeddescription_v100/statetaxwithheld) { get; set; } | 获取或设置州所得税代扣代缴金额。 |
 | [StateTaxWithheld2](../../aspose.finance.ofx.tax1099/proceeddescription_v100/statetaxwithheld2) { get; set; } | 获取或设置州所得税预扣金额，第 2 行。 |
-| [VariousDate](../../aspose.finance.ofx.tax1099/proceeddescription_v100/variousdate) { get; set; } | 获取或设置各种采集日期。 |
+| [VariousDate](../../aspose.finance.ofx.tax1099/proceeddescription_v100/variousdate) { get; set; } | 获取或设置各种获取日期。 |
 | [WashSale](../../aspose.finance.ofx.tax1099/proceeddescription_v100/washsale) { get; set; } | 获取或设置洗售。表示销售受洗售规则的约束。 |
-| [WashSaleLossDisallowed](../../aspose.finance.ofx.tax1099/proceeddescription_v100/washsalelossdisallowed) { get; set; } | 获取或设置不允许的洗售损失。 |
+| [WashSaleLossDisallowed](../../aspose.finance.ofx.tax1099/proceeddescription_v100/washsalelossdisallowed) { get; set; } | 获取或设置禁止洗售损失。 |
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: CanBillPay
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置服务器是否能够将账单支付作为一种转账形式
+description: 获取或设置服务器是否能够以转账形式处理账单支付
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.ofx.profile/intertransfermessagesetv1/canbillpay/
 ---
 ## InterTransferMessageSetV1.CanBillPay property
 
-获取或设置服务器是否能够将账单支付作为一种转账形式。
+获取或设置服务器是否能够以转账形式处理账单支付。
 
 ```csharp
 public bool CanBillPay { get; set; }

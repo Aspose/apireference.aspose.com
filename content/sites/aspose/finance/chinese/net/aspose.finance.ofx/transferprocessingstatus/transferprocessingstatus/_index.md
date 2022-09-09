@@ -1,14 +1,14 @@
 ---
 title: TransferProcessingStatus
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化TransferProcessingStatusaspose.finance.ofx/transferprocessingstatus类的新实例
+description: 初始化一个新的实例TransferProcessingStatusaspose.finance.ofx/transferprocessingstatus类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx/transferprocessingstatus/transferprocessingstatus/
 ---
 ## TransferProcessingStatus constructor
 
-初始化[`TransferProcessingStatus`](../../transferprocessingstatus)类的新实例。
+初始化一个新的实例[`TransferProcessingStatus`](../../transferprocessingstatus)类.
 
 ```csharp
 public TransferProcessingStatus()

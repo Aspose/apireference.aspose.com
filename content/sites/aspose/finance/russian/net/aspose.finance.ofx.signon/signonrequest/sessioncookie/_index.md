@@ -1,14 +1,14 @@
 ---
 title: SessionCookie
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает значение cookie сеанса полученное в предыдущем ответе на вход не отправляется при первом входе в систему или если FI
+description: Получает или задает значение файла cookie сеанса полученное в предыдущем ответе на вход не отправлено при первом входе или если ничего не отправлено FI
 type: docs
 weight: 150
 url: /ru/net/aspose.finance.ofx.signon/signonrequest/sessioncookie/
 ---
 ## SignonRequest.SessionCookie property
 
-Получает или задает значение cookie сеанса, полученное в предыдущем ответе на вход, не отправляется при первом входе в систему или если FI
+Получает или задает значение файла cookie сеанса, полученное в предыдущем ответе на вход, не отправлено при первом входе или если ничего не отправлено FI
 
 ```csharp
 public string SessionCookie { get; set; }

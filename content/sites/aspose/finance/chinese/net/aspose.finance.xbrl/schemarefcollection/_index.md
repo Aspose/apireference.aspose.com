@@ -1,14 +1,14 @@
 ---
 title: SchemaRefCollection
 second_title: Aspose.Finance for .NET API 参考
-description: 架构引用的集合
+description: 模式引用的集合
 type: docs
 weight: 8020
 url: /zh/net/aspose.finance.xbrl/schemarefcollection/
 ---
 ## SchemaRefCollection class
 
-架构引用的集合。
+模式引用的集合。
 
 ```csharp
 public class SchemaRefCollection : IEnumerable<SchemaRef>
@@ -19,14 +19,14 @@ public class SchemaRefCollection : IEnumerable<SchemaRef>
 | 姓名 | 描述 |
 | --- | --- |
 | [Count](../../aspose.finance.xbrl/schemarefcollection/count) { get; } | 此集合中的架构引用数。 |
-| [Item](../../aspose.finance.xbrl/schemarefcollection/item) { get; } | 获取集合中指定索引处的[`SchemaRef`](../schemaref)项。 |
+| [Item](../../aspose.finance.xbrl/schemarefcollection/item) { get; } | 获取[`SchemaRef`](../schemaref)集合中指定索引处的项目。 |
 
 ## 方法
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Add](../../aspose.finance.xbrl/schemarefcollection/add#add)(string, string) | 将[`SchemaRef`](../schemaref)添加到集合中。 |
-| [Add](../../aspose.finance.xbrl/schemarefcollection/add#add_1)(string, string, string) | 将[`SchemaRef`](../schemaref)添加到集合中。 |
+| [Add](../../aspose.finance.xbrl/schemarefcollection/add#add)(string, string) | 添加一个[`SchemaRef`](../schemaref)收藏. |
+| [Add](../../aspose.finance.xbrl/schemarefcollection/add#add_1)(string, string, string) | 添加一个[`SchemaRef`](../schemaref)收藏. |
 | [GetEnumerator](../../aspose.finance.xbrl/schemarefcollection/getenumerator)() | 返回一个遍历集合的枚举器。 |
 
 ### 也可以看看

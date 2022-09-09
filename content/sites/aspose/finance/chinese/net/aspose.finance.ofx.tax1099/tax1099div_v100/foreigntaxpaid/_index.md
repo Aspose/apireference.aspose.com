@@ -1,14 +1,14 @@
 ---
 title: ForeignTaxPaid
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置已缴纳的国外税款
+description: 获取或设置国外缴纳的税款
 type: docs
 weight: 80
 url: /zh/net/aspose.finance.ofx.tax1099/tax1099div_v100/foreigntaxpaid/
 ---
 ## Tax1099DIV_V100.ForeignTaxPaid property
 
-获取或设置已缴纳的国外税款。
+获取或设置国外缴纳的税款。
 
 ```csharp
 public string ForeignTaxPaid { get; set; }

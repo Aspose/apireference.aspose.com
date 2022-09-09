@@ -1,14 +1,14 @@
 ---
 title: Status
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задаетStatusaspose.finance.ofx/abstracttransactionresponse/status.
+description: Получает или задаетStatusaspose.finance.ofx/abstracttransactionresponse/status .
 type: docs
 weight: 20
 url: /ru/net/aspose.finance.ofx/abstracttransactionresponse/status/
 ---
 ## AbstractTransactionResponse.Status property
 
-Получает или задает`Status`.
+Получает или задает`Status` .
 
 ```csharp
 public Status Status { get; set; }

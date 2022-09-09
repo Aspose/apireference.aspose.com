@@ -1,14 +1,14 @@
 ---
 title: MailTransactionResponses
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает коллекциюMailTransactionResponseaspose.finance.ofx.email/mailtransactionresponse.
+description: Получает или задает коллекциюMailTransactionResponseaspose.finance.ofx.email/mailtransactionresponse .
 type: docs
 weight: 40
 url: /ru/net/aspose.finance.ofx/emailresponsemessagesetv1/mailtransactionresponses/
 ---
 ## EmailResponseMessageSetV1.MailTransactionResponses property
 
-Получает или задает коллекцию[`MailTransactionResponse`](../../../aspose.finance.ofx.email/mailtransactionresponse).
+Получает или задает коллекцию[`MailTransactionResponse`](../../../aspose.finance.ofx.email/mailtransactionresponse) .
 
 ```csharp
 public List<MailTransactionResponse> MailTransactionResponses { get; set; }

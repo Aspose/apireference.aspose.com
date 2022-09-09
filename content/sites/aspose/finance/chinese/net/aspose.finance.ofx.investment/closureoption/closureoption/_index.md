@@ -1,14 +1,14 @@
 ---
 title: ClosureOption
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化ClosureOptionaspose.finance.ofx.investment/closureoption类的新实例
+description: 初始化一个新的实例ClosureOptionaspose.finance.ofx.investment/closureoption类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.investment/closureoption/closureoption/
 ---
 ## ClosureOption constructor
 
-初始化[`ClosureOption`](../../closureoption)类的新实例。
+初始化一个新的实例[`ClosureOption`](../../closureoption)类.
 
 ```csharp
 public ClosureOption()

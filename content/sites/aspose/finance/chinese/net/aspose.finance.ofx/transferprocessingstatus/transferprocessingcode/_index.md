@@ -1,14 +1,14 @@
 ---
 title: TransferProcessingCode
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置传输处理代码
+description: 获取或设置传输处理码
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.ofx/transferprocessingstatus/transferprocessingcode/
 ---
 ## TransferProcessingStatus.TransferProcessingCode property
 
-获取或设置传输处理代码。
+获取或设置传输处理码
 
 ```csharp
 public TransferStatusEnum TransferProcessingCode { get; set; }

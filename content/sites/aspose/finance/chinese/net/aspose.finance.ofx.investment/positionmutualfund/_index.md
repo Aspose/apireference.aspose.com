@@ -18,15 +18,15 @@ public class PositionMutualFund : AbstractPositionBase
 
 | 姓名 | 描述 |
 | --- | --- |
-| [PositionMutualFund](positionmutualfund)() | 初始化[`PositionMutualFund`](../positionmutualfund)类的新实例。 |
+| [PositionMutualFund](positionmutualfund)() | 初始化一个新的实例[`PositionMutualFund`](../positionmutualfund)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [InvestmentPosition](../../aspose.finance.ofx.investment/abstractpositionbase/investmentposition) { get; set; } | 获取或设置[`InvestmentPosition`](../abstractpositionbase/investmentposition)。 |
+| [InvestmentPosition](../../aspose.finance.ofx.investment/abstractpositionbase/investmentposition) { get; set; } | 获取或设置[`InvestmentPosition`](../abstractpositionbase/investmentposition). |
 | [ReinvestCapitalGain](../../aspose.finance.ofx.investment/positionmutualfund/reinvestcapitalgain) { get; set; } | 获取或设置是否再投资资本收益。 |
-| [ReinvestDividend](../../aspose.finance.ofx.investment/positionmutualfund/reinvestdividend) { get; set; } | 获取或设置是否再投资股息。 |
+| [ReinvestDividend](../../aspose.finance.ofx.investment/positionmutualfund/reinvestdividend) { get; set; } | 获取或设置股息是否再投资。 |
 | [UnitsStreet](../../aspose.finance.ofx.investment/positionmutualfund/unitsstreet) { get; set; } | 获取或设置 FI 街道名称中的单位。 |
 | [UnitsUser](../../aspose.finance.ofx.investment/positionmutualfund/unitsuser) { get; set; } | 直接获取或设置用户名中的单位。 |
 

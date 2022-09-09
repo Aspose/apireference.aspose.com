@@ -1,14 +1,14 @@
 ---
 title: ChecksAndDebits
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置支票和借方的总额包括费用
+description: 获取或设置支票和借方的总和包括费用
 type: docs
 weight: 50
 url: /zh/net/aspose.finance.ofx.bank/closing/checksanddebits/
 ---
 ## Closing.ChecksAndDebits property
 
-获取或设置支票和借方的总额，包括费用。
+获取或设置支票和借方的总和，包括费用。
 
 ```csharp
 public string ChecksAndDebits { get; set; }

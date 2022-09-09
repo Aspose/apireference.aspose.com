@@ -18,16 +18,16 @@ public class CreditCardStatementRequest
 
 | Имя | Описание |
 | --- | --- |
-| [CreditCardStatementRequest](creditcardstatementrequest)() | Инициализирует новый экземпляр класса[`CreditCardStatementRequest`](../creditcardstatementrequest). |
+| [CreditCardStatementRequest](creditcardstatementrequest)() | Инициализирует новый экземпляр[`CreditCardStatementRequest`](../creditcardstatementrequest) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [CreditCardAccountFrom](../../aspose.finance.ofx.creditcard/creditcardstatementrequest/creditcardaccountfrom) { get; set; } | Получает или задает значение из[`CreditCardAccount`](../../aspose.finance.ofx/creditcardaccount). |
-| [IncludePending](../../aspose.finance.ofx.creditcard/creditcardstatementrequest/includepending) { get; set; } | Получает или устанавливает, включать ли флаг ожидающей транзакции; |
+| [CreditCardAccountFrom](../../aspose.finance.ofx.creditcard/creditcardstatementrequest/creditcardaccountfrom) { get; set; } | Получает или задает из[`CreditCardAccount`](../../aspose.finance.ofx/creditcardaccount) . |
+| [IncludePending](../../aspose.finance.ofx.creditcard/creditcardstatementrequest/includepending) { get; set; } | Получает или задает, следует ли включать флаг ожидающей транзакции; |
 | [IncludeTransactionImage](../../aspose.finance.ofx.creditcard/creditcardstatementrequest/includetransactionimage) { get; set; } | Получает или задает, следует ли включать информацию об изображении транзакции. |
-| [IncTransaction](../../aspose.finance.ofx.creditcard/creditcardstatementrequest/inctransaction) { get; set; } | Получает или задает[`IncTransaction`](./inctransaction). |
+| [IncTransaction](../../aspose.finance.ofx.creditcard/creditcardstatementrequest/inctransaction) { get; set; } | Получает или задает[`IncTransaction`](./inctransaction) . |
 
 ### Смотрите также
 

@@ -1,14 +1,14 @@
 ---
 title: TEXT_NODE
 second_title: Справочник по API Aspose.Finance для .NET
-description: Текстовый тип узла.
+description: Тип текстового узла.
 type: docs
 weight: 250
 url: /ru/net/aspose.finance.xbrl.dom/node/text_node/
 ---
 ## Node.TEXT_NODE field
 
-Текстовый тип узла.
+Тип текстового узла.
 
 ```csharp
 public const ushort TEXT_NODE;

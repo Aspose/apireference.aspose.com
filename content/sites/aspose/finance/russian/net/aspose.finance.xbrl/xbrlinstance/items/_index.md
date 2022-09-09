@@ -1,14 +1,14 @@
 ---
 title: Items
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает коллекцию объектовItemaspose.finance.xbrl/itemв экземпляре XBRL.
+description: Получает коллекциюItemaspose.finance.xbrl/item объекты в экземпляре XBRL.
 type: docs
 weight: 50
 url: /ru/net/aspose.finance.xbrl/xbrlinstance/items/
 ---
 ## XbrlInstance.Items property
 
-Получает коллекцию объектов[`Item`](../../item)в экземпляре XBRL.
+Получает коллекцию[`Item`](../../item) объекты в экземпляре XBRL.
 
 ```csharp
 public List<Item> Items { get; }

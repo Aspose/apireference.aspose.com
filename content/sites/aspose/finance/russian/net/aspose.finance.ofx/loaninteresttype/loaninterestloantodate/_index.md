@@ -1,14 +1,14 @@
 ---
 title: LoanInterestLoanToDate
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает общую сумму выплаченных процентов по кредиту на сегодняшний день
+description: Получает или задает общую сумму выплаченных процентов по кредиту на дату
 type: docs
 weight: 30
 url: /ru/net/aspose.finance.ofx/loaninteresttype/loaninterestloantodate/
 ---
 ## LoanInterestType.LoanInterestLoanToDate property
 
-Получает или задает общую сумму выплаченных процентов по кредиту на сегодняшний день
+Получает или задает общую сумму выплаченных процентов по кредиту на дату
 
 ```csharp
 public string LoanInterestLoanToDate { get; set; }

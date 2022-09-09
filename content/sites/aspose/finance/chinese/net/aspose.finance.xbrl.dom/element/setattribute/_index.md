@@ -1,14 +1,14 @@
 ---
 title: SetAttribute
 second_title: Aspose.Finance for .NET API 参考
-description: 添加新属性如果元素中已经存在具有该名称的属性则其值将更改为 value 参数的值
+description: 添加一个新属性如果元素中已存在具有该名称的属性则其值将更改为 value 参数的值
 type: docs
 weight: 150
 url: /zh/net/aspose.finance.xbrl.dom/element/setattribute/
 ---
 ## Element.SetAttribute method
 
-添加新属性。如果元素中已经存在具有该名称的属性，则其值将更改为 value 参数的值。
+添加一个新属性。如果元素中已存在具有该名称的属性，则其值将更改为 value 参数的值。
 
 ```csharp
 public void SetAttribute(string name, string value)

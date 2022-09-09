@@ -1,14 +1,14 @@
 ---
 title: AmortizationTransaction
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化AmortizationTransactionaspose.finance.ofx.loan/amortizationtransaction类的新实例
+description: 初始化一个新的实例AmortizationTransactionaspose.finance.ofx.loan/amortizationtransaction类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.loan/amortizationtransaction/amortizationtransaction/
 ---
 ## AmortizationTransaction constructor
 
-初始化[`AmortizationTransaction`](../../amortizationtransaction)类的新实例。
+初始化一个新的实例[`AmortizationTransaction`](../../amortizationtransaction)类.
 
 ```csharp
 public AmortizationTransaction()

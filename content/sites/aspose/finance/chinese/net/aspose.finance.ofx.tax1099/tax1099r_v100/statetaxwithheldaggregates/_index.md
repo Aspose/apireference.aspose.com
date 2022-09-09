@@ -1,14 +1,14 @@
 ---
 title: StateTaxWithheldAggregates
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置StateTaxWithheldAggregateaspose.finance.ofx.tax1099/statetaxwithheldaggregate的集合
+description: 获取或设置的集合StateTaxWithheldAggregateaspose.finance.ofx.tax1099/statetaxwithheldaggregate.
 type: docs
 weight: 200
 url: /zh/net/aspose.finance.ofx.tax1099/tax1099r_v100/statetaxwithheldaggregates/
 ---
 ## Tax1099R_V100.StateTaxWithheldAggregates property
 
-获取或设置[`StateTaxWithheldAggregate`](../../statetaxwithheldaggregate)的集合。
+获取或设置的集合[`StateTaxWithheldAggregate`](../../statetaxwithheldaggregate).
 
 ```csharp
 public List<StateTaxWithheldAggregate> StateTaxWithheldAggregates { get; set; }

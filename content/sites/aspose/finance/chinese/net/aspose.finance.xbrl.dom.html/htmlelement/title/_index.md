@@ -1,14 +1,14 @@
 ---
 title: Title
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置元素的建议标题请参阅 HTML 4.01 中的 title 属性定义
+description: 获取或设置元素的咨询标题请参阅 HTML 4.01 中的 title 属性定义
 type: docs
 weight: 50
 url: /zh/net/aspose.finance.xbrl.dom.html/htmlelement/title/
 ---
 ## HTMLElement.Title property
 
-获取或设置元素的建议标题。请参阅 HTML 4.01 中的 title 属性定义。
+获取或设置元素的咨询标题。请参阅 HTML 4.01 中的 title 属性定义。
 
 ```csharp
 public string Title { get; set; }

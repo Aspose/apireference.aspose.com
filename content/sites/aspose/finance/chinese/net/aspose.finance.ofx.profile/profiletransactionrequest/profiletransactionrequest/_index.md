@@ -1,14 +1,14 @@
 ---
 title: ProfileTransactionRequest
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化ProfileTransactionRequestaspose.finance.ofx.profile/profiletransactionrequest类的新实例
+description: 初始化一个新的实例ProfileTransactionRequestaspose.finance.ofx.profile/profiletransactionrequest类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.profile/profiletransactionrequest/profiletransactionrequest/
 ---
 ## ProfileTransactionRequest constructor
 
-初始化[`ProfileTransactionRequest`](../../profiletransactionrequest)类的新实例。
+初始化一个新的实例[`ProfileTransactionRequest`](../../profiletransactionrequest)类.
 
 ```csharp
 public ProfileTransactionRequest()

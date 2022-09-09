@@ -1,14 +1,14 @@
 ---
 title: GetNamedItemNS
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает атрибут заданный локальным именем и URI пространства имен.
+description: Получает атрибут указанный локальным именем и URI пространства имен.
 type: docs
 weight: 50
 url: /ru/net/aspose.finance.xbrl.dom/namednodemap/getnameditemns/
 ---
 ## NamedNodeMap.GetNamedItemNS method
 
-Получает атрибут, заданный локальным именем и URI пространства имен.
+Получает атрибут, указанный локальным именем и URI пространства имен.
 
 ```csharp
 public Attr GetNamedItemNS(string namespaceUri, string localName)

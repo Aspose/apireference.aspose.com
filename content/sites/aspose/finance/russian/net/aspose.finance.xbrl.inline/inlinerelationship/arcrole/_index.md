@@ -1,14 +1,14 @@
 ---
 title: Arcrole
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает роль дугиInlineRelationshipaspose.finance.xbrl.inline/inlinerelationship.
+description: Получает или задает роль дугиInlineRelationshipaspose.finance.xbrl.inline/inlinerelationship .
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.xbrl.inline/inlinerelationship/arcrole/
 ---
 ## InlineRelationship.Arcrole property
 
-Получает или задает роль дуги[`InlineRelationship`](../../inlinerelationship).
+Получает или задает роль дуги[`InlineRelationship`](../../inlinerelationship) .
 
 ```csharp
 public string Arcrole { get; set; }

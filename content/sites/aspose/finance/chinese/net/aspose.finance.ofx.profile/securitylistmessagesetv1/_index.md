@@ -18,13 +18,13 @@ public class SecurityListMessageSetV1 : AbstractMessageSetVersion
 
 | 姓名 | 描述 |
 | --- | --- |
-| [SecurityListMessageSetV1](securitylistmessagesetv1)() | 初始化[`SecurityListMessageSetV1`](../securitylistmessagesetv1)类的新实例。 |
+| [SecurityListMessageSetV1](securitylistmessagesetv1)() | 初始化一个新的实例[`SecurityListMessageSetV1`](../securitylistmessagesetv1)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [MessageSetCore](../../aspose.finance.ofx.profile/abstractmessagesetversion/messagesetcore) { get; set; } | 获取或设置[`MessageSetCore`](../abstractmessagesetversion/messagesetcore)。 |
+| [MessageSetCore](../../aspose.finance.ofx.profile/abstractmessagesetversion/messagesetcore) { get; set; } | 获取或设置[`MessageSetCore`](../abstractmessagesetversion/messagesetcore). |
 | [SecurityListRequestDownload](../../aspose.finance.ofx.profile/securitylistmessagesetv1/securitylistrequestdownload) { get; set; } | 获取或设置FI服务器是否响应安全列表请求。 |
 
 ### 也可以看看

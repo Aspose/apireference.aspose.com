@@ -18,14 +18,14 @@ public class RecurringIntraCancellationResponse : AbstractRecurringIntraResponse
 
 | 姓名 | 描述 |
 | --- | --- |
-| [RecurringIntraCancellationResponse](recurringintracancellationresponse)() | 初始化[`RecurringIntraCancellationResponse`](../recurringintracancellationresponse)类的新实例。 |
+| [RecurringIntraCancellationResponse](recurringintracancellationresponse)() | 初始化一个新的实例[`RecurringIntraCancellationResponse`](../recurringintracancellationresponse)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
 | [CancelPending](../../aspose.finance.ofx.bank/recurringintracancellationresponse/cancelpending) { get; set; } | 获取或设置取消挂起标志。是，如果客户端请求服务器取消所有挂起和未生成的传输。如果客户端请求服务器仅取消未生成的传输，则否。 |
-| [RecurringServerId](../../aspose.finance.ofx.bank/recurringintracancellationresponse/recurringserverid) { get; set; } | 获取或设置服务器分配给正在取消的模型的ID。 |
+| [RecurringServerId](../../aspose.finance.ofx.bank/recurringintracancellationresponse/recurringserverid) { get; set; } | 获取或设置服务器分配给被取消模型的ID。 |
 
 ### 也可以看看
 

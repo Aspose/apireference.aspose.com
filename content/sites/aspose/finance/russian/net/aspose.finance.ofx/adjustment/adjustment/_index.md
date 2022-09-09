@@ -1,14 +1,14 @@
 ---
 title: Adjustment
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаAdjustmentaspose.finance.ofx/adjustment.
+description: Инициализирует новый экземплярAdjustmentaspose.finance.ofx/adjustment класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx/adjustment/adjustment/
 ---
 ## Adjustment constructor
 
-Инициализирует новый экземпляр класса[`Adjustment`](../../adjustment).
+Инициализирует новый экземпляр[`Adjustment`](../../adjustment) класс.
 
 ```csharp
 public Adjustment()

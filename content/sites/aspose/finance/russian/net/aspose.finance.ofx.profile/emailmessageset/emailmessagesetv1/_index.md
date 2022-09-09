@@ -1,14 +1,14 @@
 ---
 title: EmailMessageSetV1
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задаетEmailMessageSetV1aspose.finance.ofx.profile/emailmessageset/emailmessagesetv1.
+description: Получает или задаетEmailMessageSetV1aspose.finance.ofx.profile/emailmessageset/emailmessagesetv1 .
 type: docs
 weight: 20
 url: /ru/net/aspose.finance.ofx.profile/emailmessageset/emailmessagesetv1/
 ---
 ## EmailMessageSet.EmailMessageSetV1 property
 
-Получает или задает`EmailMessageSetV1`.
+Получает или задает`EmailMessageSetV1` .
 
 ```csharp
 public EmailMessageSetV1 EmailMessageSetV1 { get; set; }

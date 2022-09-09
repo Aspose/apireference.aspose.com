@@ -1,14 +1,14 @@
 ---
 title: RelateFITransactionID
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置关联交易的ID
+description: 获取或设置相关交易的ID
 type: docs
 weight: 40
 url: /zh/net/aspose.finance.ofx.investment/closureoption/relatefitransactionid/
 ---
 ## ClosureOption.RelateFITransactionID property
 
-获取或设置关联交易的ID。
+获取或设置相关交易的ID。
 
 ```csharp
 public string RelateFITransactionID { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: RoleType
 second_title: Aspose.Finance for .NET API 参考
-description: 此类用于定义自定义角色类型
+description: 该类用于定义自定义角色类型
 type: docs
 weight: 7980
 url: /zh/net/aspose.finance.xbrl/roletype/
 ---
 ## RoleType class
 
-此类用于定义自定义角色类型。
+该类用于定义自定义角色类型。
 
 ```csharp
 public class RoleType
@@ -18,10 +18,10 @@ public class RoleType
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Definition](../../aspose.finance.xbrl/roletype/definition) { get; set; } | 获取[`RoleType`](../roletype)中的定义。 |
-| [Id](../../aspose.finance.xbrl/roletype/id) { get; set; } | 获取[`RoleType`](../roletype)中的 id。 |
-| [RoleUri](../../aspose.finance.xbrl/roletype/roleuri) { get; set; } | 获取[`RoleType`](../roletype)中的角色 URI。 |
-| [UsedOns](../../aspose.finance.xbrl/roletype/usedons) { get; set; } | 获取[`RoleType`](../roletype)中引用时使用的 from 集合。 |
+| [Definition](../../aspose.finance.xbrl/roletype/definition) { get; set; } | 获取定义[`RoleType`](../roletype). |
+| [Id](../../aspose.finance.xbrl/roletype/id) { get; set; } | 获取 id[`RoleType`](../roletype). |
+| [RoleUri](../../aspose.finance.xbrl/roletype/roleuri) { get; set; } | 获取角色 URI[`RoleType`](../roletype). |
+| [UsedOns](../../aspose.finance.xbrl/roletype/usedons) { get; set; } | 获取 from 在引用中使用的集合[`RoleType`](../roletype). |
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: Tax1098TransactionResponse
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаTax1098TransactionResponseaspose.finance.ofx.tax1098/tax1098transactionresponse.
+description: Инициализирует новый экземплярTax1098TransactionResponseaspose.finance.ofx.tax1098/tax1098transactionresponse класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.tax1098/tax1098transactionresponse/tax1098transactionresponse/
 ---
 ## Tax1098TransactionResponse constructor
 
-Инициализирует новый экземпляр класса[`Tax1098TransactionResponse`](../../tax1098transactionresponse).
+Инициализирует новый экземпляр[`Tax1098TransactionResponse`](../../tax1098transactionresponse) класс.
 
 ```csharp
 public Tax1098TransactionResponse()

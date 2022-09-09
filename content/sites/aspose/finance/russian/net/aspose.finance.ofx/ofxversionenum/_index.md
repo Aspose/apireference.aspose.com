@@ -1,14 +1,14 @@
 ---
 title: OfxVersionEnum
 second_title: Справочник по API Aspose.Finance для .NET
-description: Версия Ofx перечисление.
+description: Версия OFX enum.
 type: docs
 weight: 4230
 url: /ru/net/aspose.finance.ofx/ofxversionenum/
 ---
 ## OfxVersionEnum enumeration
 
-Версия Ofx перечисление.
+Версия OFX enum.
 
 ```csharp
 public enum OfxVersionEnum

@@ -1,14 +1,14 @@
 ---
 title: InvestmentStatementRequestMessageSetV1
 second_title: Aspose.Finance for .NET API 参考
-description: 投资声明请求消息集版本 1 类
+description: 投资报表请求消息集版本 1 类
 type: docs
 weight: 3670
 url: /zh/net/aspose.finance.ofx/investmentstatementrequestmessagesetv1/
 ---
 ## InvestmentStatementRequestMessageSetV1 class
 
-投资声明请求消息集版本 1 类。
+投资报表请求消息集版本 1 类。
 
 ```csharp
 public class InvestmentStatementRequestMessageSetV1 : AbstractRequestMessageSet
@@ -18,16 +18,16 @@ public class InvestmentStatementRequestMessageSetV1 : AbstractRequestMessageSet
 
 | 姓名 | 描述 |
 | --- | --- |
-| [InvestmentStatementRequestMessageSetV1](investmentstatementrequestmessagesetv1)() | 初始化[`InvestmentStatementRequestMessageSetV1`](../investmentstatementrequestmessagesetv1)类的新实例。 |
+| [InvestmentStatementRequestMessageSetV1](investmentstatementrequestmessagesetv1)() | 初始化一个新的实例[`InvestmentStatementRequestMessageSetV1`](../investmentstatementrequestmessagesetv1)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [InvestmentMailSyncRequests](../../aspose.finance.ofx/investmentstatementrequestmessagesetv1/investmentmailsyncrequests) { get; set; } | 获取或设置[`InvestmentMailSyncRequest`](../../aspose.finance.ofx.investment/investmentmailsyncrequest)的集合。 |
-| [InvestmentMailTransactionRequests](../../aspose.finance.ofx/investmentstatementrequestmessagesetv1/investmentmailtransactionrequests) { get; set; } | 获取或设置[`InvestmentMailTransactionRequest`](../../aspose.finance.ofx.investment/investmentmailtransactionrequest)的集合。 |
-| [InvestmentStatementEndTransactionRequests](../../aspose.finance.ofx/investmentstatementrequestmessagesetv1/investmentstatementendtransactionrequests) { get; set; } | 获取或设置[`InvestmentStatementEndTransactionRequest`](../../aspose.finance.ofx.investment/investmentstatementendtransactionrequest)的集合。 |
-| [InvestmentStatementTransactionRequests](../../aspose.finance.ofx/investmentstatementrequestmessagesetv1/investmentstatementtransactionrequests) { get; set; } | 获取或设置[`InvestmentStatementTransactionRequest`](../../aspose.finance.ofx.investment/investmentstatementtransactionrequest)的集合。 |
+| [InvestmentMailSyncRequests](../../aspose.finance.ofx/investmentstatementrequestmessagesetv1/investmentmailsyncrequests) { get; set; } | 获取或设置的集合[`InvestmentMailSyncRequest`](../../aspose.finance.ofx.investment/investmentmailsyncrequest). |
+| [InvestmentMailTransactionRequests](../../aspose.finance.ofx/investmentstatementrequestmessagesetv1/investmentmailtransactionrequests) { get; set; } | 获取或设置的集合[`InvestmentMailTransactionRequest`](../../aspose.finance.ofx.investment/investmentmailtransactionrequest). |
+| [InvestmentStatementEndTransactionRequests](../../aspose.finance.ofx/investmentstatementrequestmessagesetv1/investmentstatementendtransactionrequests) { get; set; } | 获取或设置的集合[`InvestmentStatementEndTransactionRequest`](../../aspose.finance.ofx.investment/investmentstatementendtransactionrequest). |
+| [InvestmentStatementTransactionRequests](../../aspose.finance.ofx/investmentstatementrequestmessagesetv1/investmentstatementtransactionrequests) { get; set; } | 获取或设置的集合[`InvestmentStatementTransactionRequest`](../../aspose.finance.ofx.investment/investmentstatementtransactionrequest). |
 
 ### 也可以看看
 

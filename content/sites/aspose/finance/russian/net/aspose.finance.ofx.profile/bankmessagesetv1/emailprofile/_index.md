@@ -1,14 +1,14 @@
 ---
 title: EmailProfile
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задаетEmailProfileaspose.finance.ofx.profile/bankmessagesetv1/emailprofile.
+description: Получает или задаетEmailProfileaspose.finance.ofx.profile/bankmessagesetv1/emailprofile .
 type: docs
 weight: 30
 url: /ru/net/aspose.finance.ofx.profile/bankmessagesetv1/emailprofile/
 ---
 ## BankMessageSetV1.EmailProfile property
 
-Получает или задает`EmailProfile`.
+Получает или задает`EmailProfile` .
 
 ```csharp
 public EmailProfile EmailProfile { get; set; }

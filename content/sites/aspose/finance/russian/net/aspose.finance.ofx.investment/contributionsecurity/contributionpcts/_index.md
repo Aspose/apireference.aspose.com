@@ -1,14 +1,14 @@
 ---
 title: ContributionPcts
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает коллекциюContributionPctaspose.finance.ofx.investment/contributionpct.
+description: Получает или задает коллекциюContributionPctaspose.finance.ofx.investment/contributionpct .
 type: docs
 weight: 30
 url: /ru/net/aspose.finance.ofx.investment/contributionsecurity/contributionpcts/
 ---
 ## ContributionSecurity.ContributionPcts property
 
-Получает или задает коллекцию[`ContributionPct`](../../contributionpct).
+Получает или задает коллекцию[`ContributionPct`](../../contributionpct) .
 
 ```csharp
 public List<ContributionPct> ContributionPcts { get; set; }

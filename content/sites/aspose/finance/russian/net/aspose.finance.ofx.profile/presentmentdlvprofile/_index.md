@@ -1,14 +1,14 @@
 ---
 title: PresentmentDlvProfile
 second_title: Справочник по API Aspose.Finance для .NET
-description: Класс профиля доставки Biller.
+description: Класс профиля доставки биллера.
 type: docs
 weight: 4670
 url: /ru/net/aspose.finance.ofx.profile/presentmentdlvprofile/
 ---
 ## PresentmentDlvProfile class
 
-Класс профиля доставки Biller.
+Класс профиля доставки биллера.
 
 ```csharp
 public class PresentmentDlvProfile
@@ -18,7 +18,7 @@ public class PresentmentDlvProfile
 
 | Имя | Описание |
 | --- | --- |
-| [PresentmentDlvProfile](presentmentdlvprofile)() | Инициализирует новый экземпляр класса[`PresentmentDlvProfile`](../presentmentdlvprofile). |
+| [PresentmentDlvProfile](presentmentdlvprofile)() | Инициализирует новый экземпляр[`PresentmentDlvProfile`](../presentmentdlvprofile) класс. |
 
 ## Характеристики
 
@@ -26,7 +26,7 @@ public class PresentmentDlvProfile
 | --- | --- |
 | [CanSupportGroupId](../../aspose.finance.ofx.profile/presentmentdlvprofile/cansupportgroupid) { get; set; } | Получает или задает, поддерживает ли запросы информации об учетной записи для группы пользователей. |
 | [CanSupportImages](../../aspose.finance.ofx.profile/presentmentdlvprofile/cansupportimages) { get; set; } | Получает или задает, поддерживает ли доставка изображений в виде составных MIME. |
-| [CanUpdatePresentmentNameAddress](../../aspose.finance.ofx.profile/presentmentdlvprofile/canupdatepresentmentnameaddress) { get; set; } | Получает или задает, поддерживает ли обновление[`PresentmentNameAddress`](../../aspose.finance.ofx/presentmentnameaddress)связанный с конкретным счетом, |
+| [CanUpdatePresentmentNameAddress](../../aspose.finance.ofx.profile/presentmentdlvprofile/canupdatepresentmentnameaddress) { get; set; } | Получает или задает, поддерживает ли обновление[`PresentmentNameAddress`](../../aspose.finance.ofx/presentmentnameaddress) связанный с конкретным счетом, |
 | [ProcessingDaysOffs](../../aspose.finance.ofx.profile/presentmentdlvprofile/processingdaysoffs) { get; set; } | Получает или задает дни недели, в которые не выполняется обработка. |
 | [ProcessingEndTime](../../aspose.finance.ofx.profile/presentmentdlvprofile/processingendtime) { get; set; } | Получает или задает время окончания обработки дня. |
 

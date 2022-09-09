@@ -1,14 +1,14 @@
 ---
 title: DaysEnum
 second_title: Справочник по API Aspose.Finance для .NET
-description: День недели перечисление.
+description: День недели перечисл.
 type: docs
 weight: 4460
 url: /ru/net/aspose.finance.ofx.profile/daysenum/
 ---
 ## DaysEnum enumeration
 
-День недели перечисление.
+День недели перечисл.
 
 ```csharp
 public enum DaysEnum
@@ -24,7 +24,7 @@ public enum DaysEnum
 | THURSDAY | `3` | Четверг |
 | FRIDAY | `4` | Пятница |
 | SATURDAY | `5` | Суббота |
-| SUNDAY | `6` | Воскресенье |
+| SUNDAY | `6` | воскресенье |
 
 ### Смотрите также
 

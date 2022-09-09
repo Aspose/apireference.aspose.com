@@ -18,13 +18,13 @@ public class StocksBonds
 
 | 姓名 | 描述 |
 | --- | --- |
-| [StocksBonds](stocksbonds)() | 初始化[`StocksBonds`](../stocksbonds)类的新实例。 |
+| [StocksBonds](stocksbonds)() | 初始化一个新的实例[`StocksBonds`](../stocksbonds)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [StockBondAmount](../../aspose.finance.ofx.tax1099/stocksbonds/stockbondamount) { get; set; } | 获取或设置股票、债券等数量。 |
+| [StockBondAmount](../../aspose.finance.ofx.tax1099/stocksbonds/stockbondamount) { get; set; } | 获取或设置股票、债券等的数量 |
 | [StockBondGross](../../aspose.finance.ofx.tax1099/stocksbonds/stockbondgross) { get; set; } | 获取或设置总收益。 |
 | [StockBondGrossLess](../../aspose.finance.ofx.tax1099/stocksbonds/stockbondgrossless) { get; set; } | 获取或设置总收益减去佣金和期权费。 |
 

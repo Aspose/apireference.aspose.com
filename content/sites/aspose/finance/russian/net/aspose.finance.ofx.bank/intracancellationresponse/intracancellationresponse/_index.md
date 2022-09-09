@@ -1,14 +1,14 @@
 ---
 title: IntraCancellationResponse
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаIntraCancellationResponseaspose.finance.ofx.bank/intracancellationresponse.
+description: Инициализирует новый экземплярIntraCancellationResponseaspose.finance.ofx.bank/intracancellationresponse класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.bank/intracancellationresponse/intracancellationresponse/
 ---
 ## IntraCancellationResponse constructor
 
-Инициализирует новый экземпляр класса[`IntraCancellationResponse`](../../intracancellationresponse).
+Инициализирует новый экземпляр[`IntraCancellationResponse`](../../intracancellationresponse) класс.
 
 ```csharp
 public IntraCancellationResponse()

@@ -1,14 +1,14 @@
 ---
 title: ServiceDelete
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаServiceDeleteaspose.finance.ofx.signup/servicedelete.
+description: Инициализирует новый экземплярServiceDeleteaspose.finance.ofx.signup/servicedelete класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.signup/servicedelete/servicedelete/
 ---
 ## ServiceDelete constructor
 
-Инициализирует новый экземпляр класса[`ServiceDelete`](../../servicedelete).
+Инициализирует новый экземпляр[`ServiceDelete`](../../servicedelete) класс.
 
 ```csharp
 public ServiceDelete()

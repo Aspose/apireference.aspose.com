@@ -27,7 +27,7 @@ public class NamedNodeMap : IEnumerable<Attr>
 | --- | --- |
 | [GetEnumerator](../../aspose.finance.xbrl.dom/namednodemap/getenumerator)() | Возвращает перечислитель, который перебирает карту. |
 | [GetNamedItem](../../aspose.finance.xbrl.dom/namednodemap/getnameditem)(string) | Получает атрибут, указанный по имени. |
-| [GetNamedItemNS](../../aspose.finance.xbrl.dom/namednodemap/getnameditemns)(string, string) | Получает атрибут, заданный локальным именем и URI пространства имен. |
+| [GetNamedItemNS](../../aspose.finance.xbrl.dom/namednodemap/getnameditemns)(string, string) | Получает атрибут, указанный локальным именем и URI пространства имен. |
 | [RemoveNamedItem](../../aspose.finance.xbrl.dom/namednodemap/removenameditem)(string) | Удаляет атрибут, указанный по имени. |
 | [RemoveNamedItemNS](../../aspose.finance.xbrl.dom/namednodemap/removenameditemns)(string, string) | Удаляет атрибут, указанный локальным именем и URI пространства имен. |
 | [SetNamedItem](../../aspose.finance.xbrl.dom/namednodemap/setnameditem)(Attr) | Добавляет узел, используя его атрибут nodeName. Если узел с таким именем уже присутствует на этой карте, он заменяется новым. Замена узла сама по себе не имеет никакого эффекта. |

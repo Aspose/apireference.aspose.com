@@ -1,14 +1,14 @@
 ---
 title: DateAsOf
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает дату условного депонирования баланса
+description: Получает или задает дату депонирования баланса
 type: docs
 weight: 30
 url: /ru/net/aspose.finance.ofx.loan/escrowbalance/dateasof/
 ---
 ## EscrowBalance.DateAsOf property
 
-Получает или задает дату условного депонирования баланса
+Получает или задает дату депонирования баланса
 
 ```csharp
 public string DateAsOf { get; set; }

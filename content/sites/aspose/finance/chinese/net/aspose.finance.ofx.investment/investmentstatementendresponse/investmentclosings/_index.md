@@ -1,14 +1,14 @@
 ---
 title: InvestmentClosings
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置InvestmentClosingaspose.finance.ofx.investment/investmentclosing的集合
+description: 获取或设置的集合InvestmentClosingaspose.finance.ofx.investment/investmentclosing.
 type: docs
 weight: 40
 url: /zh/net/aspose.finance.ofx.investment/investmentstatementendresponse/investmentclosings/
 ---
 ## InvestmentStatementEndResponse.InvestmentClosings property
 
-获取或设置[`InvestmentClosing`](../../investmentclosing)的集合。
+获取或设置的集合[`InvestmentClosing`](../../investmentclosing).
 
 ```csharp
 public List<InvestmentClosing> InvestmentClosings { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: PresentmentCounts
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置PresentmentCountsaspose.finance.ofx.billerdelivery/presentmentlistresponse/presentmentcounts
+description: 获取或设置PresentmentCountsaspose.finance.ofx.billerdelivery/presentmentlistresponse/presentmentcounts.
 type: docs
 weight: 50
 url: /zh/net/aspose.finance.ofx.billerdelivery/presentmentlistresponse/presentmentcounts/
 ---
 ## PresentmentListResponse.PresentmentCounts property
 
-获取或设置`PresentmentCounts`。
+获取或设置`PresentmentCounts`.
 
 ```csharp
 public PresentmentCounts PresentmentCounts { get; set; }

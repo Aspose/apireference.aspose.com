@@ -1,14 +1,14 @@
 ---
 title: TransactionEnum
 second_title: Aspose.Finance for .NET API 参考
-description: 事务类型枚举
+description: 交易类型枚举
 type: docs
 weight: 6260
 url: /zh/net/aspose.finance.ofx/transactionenum/
 ---
 ## TransactionEnum enumeration
 
-事务类型枚举。
+交易类型枚举。
 
 ```csharp
 public enum TransactionEnum
@@ -19,14 +19,14 @@ public enum TransactionEnum
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
 | CREDIT | `0` | 通用信用 |
-| DEBIT | `1` | 通用借记 |
+| DEBIT | `1` | 通用借记卡 |
 | INT | `2` | 赚取或支付的利息 |
 | DIV | `3` | 股息 |
-| FEE | `4` | FI 费 |
+| FEE | `4` | FI 费用 |
 | SRVCHG | `5` | 服务费 |
 | DEP | `6` | 存款 |
 | ATM | `7` | ATM 借记卡或贷记卡 |
-| POS | `8` | 销售点借记或贷记 |
+| POS | `8` | 销售点借方或贷方 |
 | XFER | `9` | 转移 |
 | CHECK | `10` | 检查 |
 | PAYMENT | `11` | 电子支付 |
@@ -34,7 +34,7 @@ public enum TransactionEnum
 | DIRECTDEP | `13` | 直接存款 |
 | DIRECTDEBIT | `14` | 商家发起的扣款 |
 | REPEATPMT | `15` | 重复付款/长期订单 |
-| HOLD | `16` | 仅在[`PendingTransaction`](../pendingtransaction)中有效；表示金额处于暂停状态 |
+| HOLD | `16` | 仅在[`PendingTransaction`](../pendingtransaction);表示金额低于hold |
 | OTHER | `17` | 其他 |
 
 ### 也可以看看

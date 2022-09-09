@@ -1,14 +1,14 @@
 ---
 title: OpenOrderBuyOption
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаOpenOrderBuyOptionaspose.finance.ofx.investment/openorderbuyoption.
+description: Инициализирует новый экземплярOpenOrderBuyOptionaspose.finance.ofx.investment/openorderbuyoption класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.investment/openorderbuyoption/openorderbuyoption/
 ---
 ## OpenOrderBuyOption constructor
 
-Инициализирует новый экземпляр класса[`OpenOrderBuyOption`](../../openorderbuyoption).
+Инициализирует новый экземпляр[`OpenOrderBuyOption`](../../openorderbuyoption) класс.
 
 ```csharp
 public OpenOrderBuyOption()

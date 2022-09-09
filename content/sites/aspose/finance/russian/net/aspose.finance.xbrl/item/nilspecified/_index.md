@@ -1,14 +1,14 @@
 ---
 title: NilSpecified
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает является ли этот элемент нулевым.
+description: Получает или устанавливает является ли этот элемент нулевым.
 type: docs
 weight: 60
 url: /ru/net/aspose.finance.xbrl/item/nilspecified/
 ---
 ## Item.NilSpecified property
 
-Получает или задает, является ли этот элемент нулевым.
+Получает или устанавливает, является ли этот элемент нулевым.
 
 ```csharp
 public bool NilSpecified { get; set; }

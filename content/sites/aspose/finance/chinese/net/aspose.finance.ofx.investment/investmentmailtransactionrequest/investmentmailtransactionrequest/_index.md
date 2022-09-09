@@ -1,14 +1,14 @@
 ---
 title: InvestmentMailTransactionRequest
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化InvestmentMailTransactionRequestaspose.finance.ofx.investment/investmentmailtransactionrequest类的新实例
+description: 初始化一个新的实例InvestmentMailTransactionRequestaspose.finance.ofx.investment/investmentmailtransactionrequest类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.investment/investmentmailtransactionrequest/investmentmailtransactionrequest/
 ---
 ## InvestmentMailTransactionRequest constructor
 
-初始化[`InvestmentMailTransactionRequest`](../../investmentmailtransactionrequest)类的新实例。
+初始化一个新的实例[`InvestmentMailTransactionRequest`](../../investmentmailtransactionrequest)类.
 
 ```csharp
 public InvestmentMailTransactionRequest()

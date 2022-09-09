@@ -17,7 +17,7 @@ public virtual void DeleteData(int offset, int count)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | offset | Int32 | Смещение. |
-| count | Int32 | Счетчик. |
+| count | Int32 | Счет. |
 
 ### Смотрите также
 

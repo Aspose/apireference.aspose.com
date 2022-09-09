@@ -18,15 +18,15 @@ public class AccountSyncResponse : AbstractSyncResponse
 
 | Имя | Описание |
 | --- | --- |
-| [AccountSyncResponse](accountsyncresponse)() | Инициализирует новый экземпляр класса[`AccountSyncResponse`](../accountsyncresponse). |
+| [AccountSyncResponse](accountsyncresponse)() | Инициализирует новый экземпляр[`AccountSyncResponse`](../accountsyncresponse) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [AccountTransactionResponses](../../aspose.finance.ofx.signup/accountsyncresponse/accounttransactionresponses) { get; set; } | Получает или задает коллекцию[`AccountTransactionResponse`](../accounttransactionresponse). |
-| [LostSynchronization](../../aspose.finance.ofx/abstractsyncresponse/lostsynchronization) { get; set; } | Да, если токен в запросе на синхронизацию старше, чем самая ранняя запись в таблице истории сервера. В этом случае некоторые ответы были потеряны. Нет, если токен в запросе на синхронизацию новее или совпадает с токеном в таблице истории сервера. |
-| [OfxExtension](../../aspose.finance.ofx.signup/accountsyncresponse/ofxextension) { get; set; } | Получает или задает[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
+| [AccountTransactionResponses](../../aspose.finance.ofx.signup/accountsyncresponse/accounttransactionresponses) { get; set; } | Получает или задает коллекцию[`AccountTransactionResponse`](../accounttransactionresponse) . |
+| [LostSynchronization](../../aspose.finance.ofx/abstractsyncresponse/lostsynchronization) { get; set; } | Да, если токен в запросе на синхронизацию старше самой ранней записи в таблице истории сервера. В этом случае некоторые ответы были потеряны. Нет, если токен в запросе на синхронизацию новее или совпадает с токеном в таблице сервера. таблица истории. |
+| [OfxExtension](../../aspose.finance.ofx.signup/accountsyncresponse/ofxextension) { get; set; } | Получает или задает[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype) . |
 | [Token](../../aspose.finance.ofx/abstractsyncresponse/token) { get; set; } | Получает или задает новый маркер синхронизации. |
 
 ### Смотрите также

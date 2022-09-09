@@ -1,14 +1,14 @@
 ---
 title: EndDate
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает конечную дату для текущей информации за период.
+description: Получает или задает конечную дату для информации о текущем периоде.
 type: docs
 weight: 40
 url: /ru/net/aspose.finance.ofx.investment/periodtodate/enddate/
 ---
 ## PeriodToDate.EndDate property
 
-Получает или задает конечную дату для текущей информации за период.
+Получает или задает конечную дату для информации о текущем периоде.
 
 ```csharp
 public string EndDate { get; set; }

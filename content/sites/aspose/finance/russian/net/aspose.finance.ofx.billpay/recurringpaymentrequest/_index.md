@@ -18,7 +18,7 @@ public class RecurringPaymentRequest : AbstractRecurringPaymentRequest
 
 | Имя | Описание |
 | --- | --- |
-| [RecurringPaymentRequest](recurringpaymentrequest)() | Инициализирует новый экземпляр класса[`RecurringPaymentRequest`](../recurringpaymentrequest). |
+| [RecurringPaymentRequest](recurringpaymentrequest)() | Инициализирует новый экземпляр[`RecurringPaymentRequest`](../recurringpaymentrequest) класс. |
 
 ## Характеристики
 
@@ -26,8 +26,8 @@ public class RecurringPaymentRequest : AbstractRecurringPaymentRequest
 | --- | --- |
 | [FinalAmount](../../aspose.finance.ofx.billpay/recurringpaymentrequest/finalamount) { get; set; } | Получает или задает сумму окончательного платежа. |
 | [InitialAmount](../../aspose.finance.ofx.billpay/recurringpaymentrequest/initialamount) { get; set; } | Получает или задает сумму первоначального платежа. |
-| [PaymentInfo](../../aspose.finance.ofx.billpay/recurringpaymentrequest/paymentinfo) { get; set; } | Получает или задает[`PaymentInfo`](./paymentinfo). |
-| [RecurringInstructions](../../aspose.finance.ofx.billpay/recurringpaymentrequest/recurringinstructions) { get; set; } | Получает или задает[`RecurringInstructions`](./recurringinstructions). |
+| [PaymentInfo](../../aspose.finance.ofx.billpay/recurringpaymentrequest/paymentinfo) { get; set; } | Получает или задает[`PaymentInfo`](./paymentinfo) . |
+| [RecurringInstructions](../../aspose.finance.ofx.billpay/recurringpaymentrequest/recurringinstructions) { get; set; } | Получает или задает[`RecurringInstructions`](./recurringinstructions) . |
 
 ### Смотрите также
 

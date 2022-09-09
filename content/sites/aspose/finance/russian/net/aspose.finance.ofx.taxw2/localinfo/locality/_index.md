@@ -1,14 +1,14 @@
 ---
 title: Locality
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает название местоположения.
+description: Получает или задает имя местности.
 type: docs
 weight: 20
 url: /ru/net/aspose.finance.ofx.taxw2/localinfo/locality/
 ---
 ## LocalInfo.Locality property
 
-Получает или задает название местоположения.
+Получает или задает имя местности.
 
 ```csharp
 public string Locality { get; set; }

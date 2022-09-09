@@ -1,14 +1,14 @@
 ---
 title: PayeeModRequest
 second_title: Справочник по API Aspose.Finance для .NET
-description: Класс запроса модификации получателя.
+description: Класс запроса на изменение получателя.
 type: docs
 weight: 970
 url: /ru/net/aspose.finance.ofx.billpay/payeemodrequest/
 ---
 ## PayeeModRequest class
 
-Класс запроса модификации получателя.
+Класс запроса на изменение получателя.
 
 ```csharp
 public class PayeeModRequest : AbstractPayeeRequest
@@ -18,16 +18,16 @@ public class PayeeModRequest : AbstractPayeeRequest
 
 | Имя | Описание |
 | --- | --- |
-| [PayeeModRequest](payeemodrequest)() | Инициализирует новый экземпляр класса[`PayeeModRequest`](../payeemodrequest). |
+| [PayeeModRequest](payeemodrequest)() | Инициализирует новый экземпляр[`PayeeModRequest`](../payeemodrequest) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [BankAccountTo](../../aspose.finance.ofx.billpay/payeemodrequest/bankaccountto) { get; set; } | Получает или задает место назначения[`BankAccount`](../../aspose.finance.ofx/bankaccount)для стран, осуществляющих оплату переводами. |
-| [Payee](../../aspose.finance.ofx.billpay/payeemodrequest/payee) { get; set; } | Получает или задает информацию[`Payee`](./payee)для изменения. |
+| [BankAccountTo](../../aspose.finance.ofx.billpay/payeemodrequest/bankaccountto) { get; set; } | Получает или задает пункт назначения[`BankAccount`](../../aspose.finance.ofx/bankaccount) для стран, которые оплачивают переводами. |
+| [Payee](../../aspose.finance.ofx.billpay/payeemodrequest/payee) { get; set; } | Получает или задает[`Payee`](./payee) информация для изменения. |
 | [PayeeAccounts](../../aspose.finance.ofx.billpay/payeemodrequest/payeeaccounts) { get; set; } | Получает или задает номер счета пользователя коллекции у получателя платежа. |
-| [PayeeListId](../../aspose.finance.ofx.billpay/payeemodrequest/payeelistid) { get; set; } | Получает или задает назначенный сервером идентификатор записи для этой записи получателя. |
+| [PayeeListId](../../aspose.finance.ofx.billpay/payeemodrequest/payeelistid) { get; set; } | Получает или задает назначенный сервером идентификатор записи для этой записи получателя платежа. |
 
 ### Смотрите также
 

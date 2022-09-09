@@ -1,14 +1,14 @@
 ---
 title: AccountHolderType
 second_title: Aspose.Finance for .NET API 参考
-description: 帐户持有人信息类
+description: 账户持有人信息类
 type: docs
 weight: 170
 url: /zh/net/aspose.finance.ofx/accountholdertype/
 ---
 ## AccountHolderType class
 
-帐户持有人信息类。
+账户持有人信息类
 
 ```csharp
 public class AccountHolderType
@@ -18,17 +18,17 @@ public class AccountHolderType
 
 | 姓名 | 描述 |
 | --- | --- |
-| [AccountHolderType](accountholdertype)() | 初始化[`AccountHolderType`](../accountholdertype)类的新实例。 |
+| [AccountHolderType](accountholdertype)() | 初始化一个新的实例[`AccountHolderType`](../accountholdertype)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Address1](../../aspose.finance.ofx/accountholdertype/address1) { get; set; } | 获取或设置地址行 1。 |
-| [Address2](../../aspose.finance.ofx/accountholdertype/address2) { get; set; } | 获取或设置地址行 2。 |
-| [Address3](../../aspose.finance.ofx/accountholdertype/address3) { get; set; } | 获取或设置地址行 3。 |
+| [Address1](../../aspose.finance.ofx/accountholdertype/address1) { get; set; } | 获取或设置地址线 1. |
+| [Address2](../../aspose.finance.ofx/accountholdertype/address2) { get; set; } | 获取或设置地址线2. |
+| [Address3](../../aspose.finance.ofx/accountholdertype/address3) { get; set; } | 获取或设置地址线 3. |
 | [City](../../aspose.finance.ofx/accountholdertype/city) { get; set; } | 获取或设置城市。 |
-| [Country](../../aspose.finance.ofx/accountholdertype/country) { get; set; } | 获取或设置国家。来自 ISO/DIS-3166 的 3 个字母的国家/地区代码。 |
+| [Country](../../aspose.finance.ofx/accountholdertype/country) { get; set; } | 获取或设置国家。来自 ISO/DIS-3166. 的 3 个字母的国家/地区代码 |
 | [DayPhone](../../aspose.finance.ofx/accountholdertype/dayphone) { get; set; } | 获取或设置白天电话号码。 |
 | [Email](../../aspose.finance.ofx/accountholdertype/email) { get; set; } | 获取或设置电子邮件地址。 |
 | [EveningPhone](../../aspose.finance.ofx/accountholdertype/eveningphone) { get; set; } | 获取或设置晚间电话号码。 |

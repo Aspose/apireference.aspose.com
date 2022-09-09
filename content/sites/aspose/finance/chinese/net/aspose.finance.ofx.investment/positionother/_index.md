@@ -1,14 +1,14 @@
 ---
 title: PositionOther
 second_title: Aspose.Finance for .NET API 参考
-description: 投资头寸其他类别
+description: 投资头寸其他类
 type: docs
 weight: 3400
 url: /zh/net/aspose.finance.ofx.investment/positionother/
 ---
 ## PositionOther class
 
-投资头寸其他类别。
+投资头寸其他类
 
 ```csharp
 public class PositionOther : AbstractPositionBase
@@ -18,13 +18,13 @@ public class PositionOther : AbstractPositionBase
 
 | 姓名 | 描述 |
 | --- | --- |
-| [PositionOther](positionother)() | 初始化[`PositionOther`](../positionother)类的新实例。 |
+| [PositionOther](positionother)() | 初始化一个新的实例[`PositionOther`](../positionother)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [InvestmentPosition](../../aspose.finance.ofx.investment/abstractpositionbase/investmentposition) { get; set; } | 获取或设置[`InvestmentPosition`](../abstractpositionbase/investmentposition)。 |
+| [InvestmentPosition](../../aspose.finance.ofx.investment/abstractpositionbase/investmentposition) { get; set; } | 获取或设置[`InvestmentPosition`](../abstractpositionbase/investmentposition). |
 
 ### 也可以看看
 

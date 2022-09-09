@@ -1,14 +1,14 @@
 ---
 title: Request
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置RecurringPaymentRequestaspose.finance.ofx.billpay/recurringpaymentrequest或RecurringPaymentModRequestaspose.finance.ofx.billpay/recurringpaymentmodrequest或RecurringPaymentCancelRequestaspose.finance.ofx.billpay/recurringpaymentcancelrequest
+description: 获取或设置RecurringPaymentRequestaspose.finance.ofx.billpay/recurringpaymentrequest或者RecurringPaymentModRequestaspose.finance.ofx.billpay/recurringpaymentmodrequest或者RecurringPaymentCancelRequestaspose.finance.ofx.billpay/recurringpaymentcancelrequest.
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.ofx.billpay/recurringpaymenttransactionrequest/request/
 ---
 ## RecurringPaymentTransactionRequest.Request property
 
-获取或设置[`RecurringPaymentRequest`](../../recurringpaymentrequest)或[`RecurringPaymentModRequest`](../../recurringpaymentmodrequest)或[`RecurringPaymentCancelRequest`](../../recurringpaymentcancelrequest)。
+获取或设置[`RecurringPaymentRequest`](../../recurringpaymentrequest)或者[`RecurringPaymentModRequest`](../../recurringpaymentmodrequest)或者[`RecurringPaymentCancelRequest`](../../recurringpaymentcancelrequest).
 
 ```csharp
 public AbstractRecurringPaymentRequest Request { get; set; }

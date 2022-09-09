@@ -18,17 +18,17 @@ public class ExtBankDescription
 
 | 姓名 | 描述 |
 | --- | --- |
-| [ExtBankDescription](extbankdescription)() | 初始化[`ExtBankDescription`](../extbankdescription)类的新实例。 |
+| [ExtBankDescription](extbankdescription)() | 初始化一个新的实例[`ExtBankDescription`](../extbankdescription)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Address1](../../aspose.finance.ofx.wiretransfer/extbankdescription/address1) { get; set; } | 获取或设置银行地址行 1。 |
-| [Address2](../../aspose.finance.ofx.wiretransfer/extbankdescription/address2) { get; set; } | 获取或设置银行地址行 2。 |
-| [Address3](../../aspose.finance.ofx.wiretransfer/extbankdescription/address3) { get; set; } | 获取或设置银行地址行 3。 |
-| [BANKID](../../aspose.finance.ofx.wiretransfer/extbankdescription/bankid) { get; set; } | 获取或设置银行 ID。路由：ABA 号码或 SWIFT 号码。 |
-| [City](../../aspose.finance.ofx.wiretransfer/extbankdescription/city) { get; set; } | 获取或设置银行所在的城市。 |
+| [Address1](../../aspose.finance.ofx.wiretransfer/extbankdescription/address1) { get; set; } | 获取或设置bank的地址线1. |
+| [Address2](../../aspose.finance.ofx.wiretransfer/extbankdescription/address2) { get; set; } | 获取或设置bank的地址线2. |
+| [Address3](../../aspose.finance.ofx.wiretransfer/extbankdescription/address3) { get; set; } | 获取或设置bank的地址线3. |
+| [BANKID](../../aspose.finance.ofx.wiretransfer/extbankdescription/bankid) { get; set; } | 获取或设置银行 ID。路由：ABA号码或SWIFT号码。 |
+| [City](../../aspose.finance.ofx.wiretransfer/extbankdescription/city) { get; set; } | 获取或设置银行所在城市。 |
 | [Country](../../aspose.finance.ofx.wiretransfer/extbankdescription/country) { get; set; } | 从 ISO/DIS-3166 获取或设置银行的 country.3 字母国家代码。 |
 | [Name](../../aspose.finance.ofx.wiretransfer/extbankdescription/name) { get; set; } | 获取或设置银行的简称。 |
 | [Phone](../../aspose.finance.ofx.wiretransfer/extbankdescription/phone) { get; set; } | 获取或设置银行的电话号码。 |

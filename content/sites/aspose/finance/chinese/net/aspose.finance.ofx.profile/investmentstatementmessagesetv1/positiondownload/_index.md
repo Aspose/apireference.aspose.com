@@ -8,7 +8,7 @@ url: /zh/net/aspose.finance.ofx.profile/investmentstatementmessagesetv1/position
 ---
 ## InvestmentStatementMessageSetV1.PositionDownload property
 
-获取或设置FI服务器是否下载投资报表头寸。
+获取或设置FI服务器是否下载投资报表头寸
 
 ```csharp
 public bool PositionDownload { get; set; }

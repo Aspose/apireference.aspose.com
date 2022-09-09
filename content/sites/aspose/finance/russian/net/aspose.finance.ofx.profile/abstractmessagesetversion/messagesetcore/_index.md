@@ -1,14 +1,14 @@
 ---
 title: MessageSetCore
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задаетMessageSetCoreaspose.finance.ofx.profile/abstractmessagesetversion/messagesetcore.
+description: Получает или задаетMessageSetCoreaspose.finance.ofx.profile/abstractmessagesetversion/messagesetcore .
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.profile/abstractmessagesetversion/messagesetcore/
 ---
 ## AbstractMessageSetVersion.MessageSetCore property
 
-Получает или задает`MessageSetCore`.
+Получает или задает`MessageSetCore` .
 
 ```csharp
 public MessageSetCore MessageSetCore { get; set; }

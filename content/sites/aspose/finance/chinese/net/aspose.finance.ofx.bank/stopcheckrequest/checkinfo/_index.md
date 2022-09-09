@@ -1,14 +1,14 @@
 ---
 title: CheckInfo
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置支票信息CheckRangeaspose.finance.ofx.bank/checkrange或Bank检查描述
+description: 获取或设置校验信息CheckRangeaspose.finance.ofx.bank/checkrange或者CheckDescriptionaspose.finance.ofx.bank/checkdescription.
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.ofx.bank/stopcheckrequest/checkinfo/
 ---
 ## StopCheckRequest.CheckInfo property
 
-获取或设置支票信息，[`CheckRange`](../../checkrange)或Bank。检查描述。
+获取或设置校验信息，[`CheckRange`](../../checkrange)或者[`CheckDescription`](../../checkdescription).
 
 ```csharp
 public AbstractCheckInfo CheckInfo { get; set; }

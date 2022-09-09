@@ -1,14 +1,14 @@
 ---
 title: Request
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задаетInterRequestaspose.finance.ofx.intertransfer/interrequestилиInterModRequestaspose.finance.ofx.intertransfer/intermodrequestилиInterCancellationRequestaspose.finance.ofx.intertransfer/intercancellationrequest.
+description: Получает или задаетInterRequestaspose.finance.ofx.intertransfer/interrequest или жеInterModRequestaspose.finance.ofx.intertransfer/intermodrequest или жеInterCancellationRequestaspose.finance.ofx.intertransfer/intercancellationrequest .
 type: docs
 weight: 30
 url: /ru/net/aspose.finance.ofx.intertransfer/intertransactionrequest/request/
 ---
 ## InterTransactionRequest.Request property
 
-Получает или задает[`InterRequest`](../../interrequest)или[`InterModRequest`](../../intermodrequest)или[`InterCancellationRequest`](../../intercancellationrequest).
+Получает или задает[`InterRequest`](../../interrequest) или же[`InterModRequest`](../../intermodrequest) или же[`InterCancellationRequest`](../../intercancellationrequest) .
 
 ```csharp
 public AbstractInterRequest Request { get; set; }

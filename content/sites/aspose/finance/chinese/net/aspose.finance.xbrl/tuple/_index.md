@@ -1,14 +1,14 @@
 ---
 title: Tuple
 second_title: Aspose.Finance for .NET API 参考
-description: 元组是 XBRL 元组元素的替换组中的一个元素 元组用于将复合事实的各个部分绑定在一起 这些组成部分本身就是事实但必须相互理解 例如某公司董事的姓名年龄薪酬等需要组合在一起才能正确理解
+description: 元组是 XBRL 元组元素的替换组中的一个元素 元组用于将复合事实的各个部分绑定在一起 这些组成部分本身就是事实但必须根据彼此的关系来解释 比如某公司董事的姓名年龄薪酬等需要组合在一起才能正确理解
 type: docs
 weight: 8050
 url: /zh/net/aspose.finance.xbrl/tuple/
 ---
 ## Tuple class
 
-元组是 XBRL 元组元素的替换组中的一个元素。 元组用于将复合事实的各个部分绑定在一起。 这些组成部分本身就是事实，但必须相互理解。 例如，某公司董事的姓名、年龄、薪酬等需要组合在一起才能正确理解。
+元组是 XBRL 元组元素的替换组中的一个元素。 元组用于将复合事实的各个部分绑定在一起。 这些组成部分本身就是事实，但必须根据彼此的关系来解释。 比如某公司董事的姓名、年龄、薪酬等需要组合在一起才能正确理解。
 
 ```csharp
 public class Tuple : Fact
@@ -18,13 +18,13 @@ public class Tuple : Fact
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Tuple](tuple)(Concept) | 初始化[`Tuple`](../tuple)类的新实例。 |
+| [Tuple](tuple)(Concept) | 初始化一个新的实例[`Tuple`](../tuple)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Facts](../../aspose.finance.xbrl/tuple/facts) { get; } | 获取元组中[`Fact`](../fact)对象的集合。 |
+| [Facts](../../aspose.finance.xbrl/tuple/facts) { get; } | 获取集合[`Fact`](../fact)元组中的对象. |
 | [Id](../../aspose.finance.xbrl/fact/id) { get; set; } | 获取或设置事实的 id。 |
 | [Name](../../aspose.finance.xbrl/fact/name) { get; set; } | 获取或设置事实的限定名称。 |
 

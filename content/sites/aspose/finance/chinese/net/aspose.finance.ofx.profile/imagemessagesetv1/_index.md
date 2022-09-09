@@ -18,15 +18,15 @@ public class ImageMessageSetV1 : AbstractMessageSetVersion
 
 | 姓名 | 描述 |
 | --- | --- |
-| [ImageMessageSetV1](imagemessagesetv1)() | 初始化[`ImageMessageSetV1`](../imagemessagesetv1)类的新实例。 |
+| [ImageMessageSetV1](imagemessagesetv1)() | 初始化一个新的实例[`ImageMessageSetV1`](../imagemessagesetv1)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [DefaultImageDelay](../../aspose.finance.ofx.profile/imagemessagesetv1/defaultimagedelay) { get; set; } | 当图像可用时，从 ServerDate（对于报表图像）或 PostedDate（对于交易图像）获取或设置默认日历天数。 |
-| [DefaultImageTtl](../../aspose.finance.ofx.profile/imagemessagesetv1/defaultimagettl) { get; set; } | 获取或设置图像可用后图像在主机上保持可用的默认日历天数。 |
-| [MessageSetCore](../../aspose.finance.ofx.profile/abstractmessagesetversion/messagesetcore) { get; set; } | 获取或设置[`MessageSetCore`](../abstractmessagesetversion/messagesetcore)。 |
+| [DefaultImageDelay](../../aspose.finance.ofx.profile/imagemessagesetv1/defaultimagedelay) { get; set; } | 获取或设置从 ServerDate（用于报表图像）或 PostedDate（用于交易图像）开始的默认日历天数，当图像可用时。 |
+| [DefaultImageTtl](../../aspose.finance.ofx.profile/imagemessagesetv1/defaultimagettl) { get; set; } | 获取或设置一旦图像可用，图像将在主机上保持可用的默认日历天数。 |
+| [MessageSetCore](../../aspose.finance.ofx.profile/abstractmessagesetversion/messagesetcore) { get; set; } | 获取或设置[`MessageSetCore`](../abstractmessagesetversion/messagesetcore). |
 
 ### 也可以看看
 

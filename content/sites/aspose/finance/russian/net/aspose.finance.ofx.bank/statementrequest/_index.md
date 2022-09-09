@@ -1,14 +1,14 @@
 ---
 title: StatementRequest
 second_title: Справочник по API Aspose.Finance для .NET
-description: Класс запроса выписки
+description: Заявление о запросе class
 type: docs
 weight: 670
 url: /ru/net/aspose.finance.ofx.bank/statementrequest/
 ---
 ## StatementRequest class
 
-Класс запроса выписки
+Заявление о запросе class
 
 ```csharp
 public class StatementRequest
@@ -18,16 +18,16 @@ public class StatementRequest
 
 | Имя | Описание |
 | --- | --- |
-| [StatementRequest](statementrequest)() | Инициализирует новый экземпляр класса[`StatementRequest`](../statementrequest). |
+| [StatementRequest](statementrequest)() | Инициализирует новый экземпляр[`StatementRequest`](../statementrequest) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [BankAccountFrom](../../aspose.finance.ofx.bank/statementrequest/bankaccountfrom) { get; set; } | Получает или задает значение из[`BankAccount`](../../aspose.finance.ofx/bankaccount). |
-| [IncludePending](../../aspose.finance.ofx.bank/statementrequest/includepending) { get; set; } | Получает или устанавливает, включать ли флаг ожидающей транзакции; |
+| [BankAccountFrom](../../aspose.finance.ofx.bank/statementrequest/bankaccountfrom) { get; set; } | Получает или задает из[`BankAccount`](../../aspose.finance.ofx/bankaccount) . |
+| [IncludePending](../../aspose.finance.ofx.bank/statementrequest/includepending) { get; set; } | Получает или задает, следует ли включать флаг ожидающей транзакции; |
 | [IncludeTransactionImage](../../aspose.finance.ofx.bank/statementrequest/includetransactionimage) { get; set; } | Получает или задает, следует ли включать информацию об изображении транзакции. |
-| [IncTransaction](../../aspose.finance.ofx.bank/statementrequest/inctransaction) { get; set; } | Получает или задает[`IncTransaction`](./inctransaction). |
+| [IncTransaction](../../aspose.finance.ofx.bank/statementrequest/inctransaction) { get; set; } | Получает или задает[`IncTransaction`](./inctransaction) . |
 
 ### Смотрите также
 

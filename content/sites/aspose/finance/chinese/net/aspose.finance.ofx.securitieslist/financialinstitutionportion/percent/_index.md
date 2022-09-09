@@ -1,14 +1,14 @@
 ---
 title: Percent
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置属于该资产类别的基金的百分比
+description: 获取或设置属于该资产类别的基金百分比
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.ofx.securitieslist/financialinstitutionportion/percent/
 ---
 ## FinancialInstitutionPortion.Percent property
 
-获取或设置属于该资产类别的基金的百分比。
+获取或设置属于该资产类别的基金百分比。
 
 ```csharp
 public string Percent { get; set; }

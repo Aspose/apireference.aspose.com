@@ -8,7 +8,7 @@ url: /zh/net/aspose.finance.ofx.billerdelivery/billstatusmodtransactionrequest/
 ---
 ## BillStatusModTransactionRequest class
 
-账单状态修改交易请求类。
+账单状态修改交易请求类
 
 ```csharp
 public class BillStatusModTransactionRequest : AbstractTransactionRequest
@@ -18,16 +18,16 @@ public class BillStatusModTransactionRequest : AbstractTransactionRequest
 
 | 姓名 | 描述 |
 | --- | --- |
-| [BillStatusModTransactionRequest](billstatusmodtransactionrequest)() | 初始化[`BillStatusModTransactionRequest`](../billstatusmodtransactionrequest)类的新实例。 |
+| [BillStatusModTransactionRequest](billstatusmodtransactionrequest)() | 初始化一个新的实例[`BillStatusModTransactionRequest`](../billstatusmodtransactionrequest)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [BillStatusModRequest](../../aspose.finance.ofx.billerdelivery/billstatusmodtransactionrequest/billstatusmodrequest) { get; set; } | 获取或设置[`BillStatusModRequest`](./billstatusmodrequest)。 |
+| [BillStatusModRequest](../../aspose.finance.ofx.billerdelivery/billstatusmodtransactionrequest/billstatusmodrequest) { get; set; } | 获取或设置[`BillStatusModRequest`](./billstatusmodrequest). |
 | [ClientCookie](../../aspose.finance.ofx/abstracttransactionrequest/clientcookie) { get; set; } | 获取或设置要在事务响应中回显的数据 |
-| [OfxExtension](../../aspose.finance.ofx.billerdelivery/billstatusmodtransactionrequest/ofxextension) { get; set; } | 获取或设置[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype)。 |
-| [TransactionAuthorizationNumber](../../aspose.finance.ofx/abstracttransactionrequest/transactionauthorizationnumber) { get; set; } | 获取或设置交易授权号。 |
+| [OfxExtension](../../aspose.finance.ofx.billerdelivery/billstatusmodtransactionrequest/ofxextension) { get; set; } | 获取或设置[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
+| [TransactionAuthorizationNumber](../../aspose.finance.ofx/abstracttransactionrequest/transactionauthorizationnumber) { get; set; } | 获取或设置交易授权号 |
 | [TransactionUniqueId](../../aspose.finance.ofx/abstracttransactionrequest/transactionuniqueid) { get; set; } | 获取或设置此事务的客户端分配的全局唯一 ID |
 
 ### 也可以看看

@@ -1,14 +1,14 @@
 ---
 title: Order
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置InlineFractionaspose.finance.xbrl.inline/inlinefraction的顺序
+description: 获取或设置的顺序InlineFractionaspose.finance.xbrl.inline/inlinefraction.
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.xbrl.inline/inlinefraction/order/
 ---
 ## InlineFraction.Order property
 
-获取或设置[`InlineFraction`](../../inlinefraction)的顺序。
+获取或设置的顺序[`InlineFraction`](../../inlinefraction).
 
 ```csharp
 public decimal Order { get; set; }

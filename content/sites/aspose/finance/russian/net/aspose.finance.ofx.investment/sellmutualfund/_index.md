@@ -1,14 +1,14 @@
 ---
 title: SellMutualFund
 second_title: Справочник по API Aspose.Finance для .NET
-description: Класс инвестиционных взаимных фондов.
+description: Класс инвестиционных взаимных фондов для продажи.
 type: docs
 weight: 3490
 url: /ru/net/aspose.finance.ofx.investment/sellmutualfund/
 ---
 ## SellMutualFund class
 
-Класс инвестиционных взаимных фондов.
+Класс инвестиционных взаимных фондов для продажи.
 
 ```csharp
 public class SellMutualFund : AbstractInvestmentSellTransaction
@@ -18,14 +18,14 @@ public class SellMutualFund : AbstractInvestmentSellTransaction
 
 | Имя | Описание |
 | --- | --- |
-| [SellMutualFund](sellmutualfund)() | Инициализирует новый экземпляр класса[`SellMutualFund`](../sellmutualfund). |
+| [SellMutualFund](sellmutualfund)() | Инициализирует новый экземпляр[`SellMutualFund`](../sellmutualfund) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
 | [AverageCostBasis](../../aspose.finance.ofx.investment/sellmutualfund/averagecostbasis) { get; set; } | Получает или задает основу средней стоимости. |
-| [InvestmentSell](../../aspose.finance.ofx.investment/abstractinvestmentselltransaction/investmentsell) { get; set; } | Получает или задает[`InvestmentSell`](../abstractinvestmentselltransaction/investmentsell). |
+| [InvestmentSell](../../aspose.finance.ofx.investment/abstractinvestmentselltransaction/investmentsell) { get; set; } | Получает или задает[`InvestmentSell`](../abstractinvestmentselltransaction/investmentsell) . |
 | [RelateFITransactionID](../../aspose.finance.ofx.investment/sellmutualfund/relatefitransactionid) { get; set; } | Получает или задает идентификатор связанной сделки. |
 | [SellType](../../aspose.finance.ofx.investment/sellmutualfund/selltype) { get; set; } | Получает или задает тип продажи. |
 

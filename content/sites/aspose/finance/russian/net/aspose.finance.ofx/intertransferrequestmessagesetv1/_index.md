@@ -1,14 +1,14 @@
 ---
 title: InterTransferRequestMessageSetV1
 second_title: Справочник по API Aspose.Finance для .NET
-description: Сообщения запроса межбанковского перевода установить класс версии 1.
+description: Сообщения запроса межбанковского перевода устанавливают класс версии 1.
 type: docs
 weight: 2590
 url: /ru/net/aspose.finance.ofx/intertransferrequestmessagesetv1/
 ---
 ## InterTransferRequestMessageSetV1 class
 
-Сообщения запроса межбанковского перевода установить класс версии 1.
+Сообщения запроса межбанковского перевода устанавливают класс версии 1.
 
 ```csharp
 public class InterTransferRequestMessageSetV1 : AbstractRequestMessageSet
@@ -18,16 +18,16 @@ public class InterTransferRequestMessageSetV1 : AbstractRequestMessageSet
 
 | Имя | Описание |
 | --- | --- |
-| [InterTransferRequestMessageSetV1](intertransferrequestmessagesetv1)() | Инициализирует новый экземпляр класса[`InterTransferRequestMessageSetV1`](../intertransferrequestmessagesetv1). |
+| [InterTransferRequestMessageSetV1](intertransferrequestmessagesetv1)() | Инициализирует новый экземпляр[`InterTransferRequestMessageSetV1`](../intertransferrequestmessagesetv1) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [InterSyncRequests](../../aspose.finance.ofx/intertransferrequestmessagesetv1/intersyncrequests) { get; set; } | Получает или задает коллекцию[`InterSyncRequest`](../../aspose.finance.ofx.intertransfer/intersyncrequest). |
-| [InterTransactionRequests](../../aspose.finance.ofx/intertransferrequestmessagesetv1/intertransactionrequests) { get; set; } | Получает или задает коллекцию[`InterTransactionRequest`](../../aspose.finance.ofx.intertransfer/intertransactionrequest). |
-| [RecurringInterSyncRequests](../../aspose.finance.ofx/intertransferrequestmessagesetv1/recurringintersyncrequests) { get; set; } | Получает или задает коллекцию[`RecurringInterSyncRequest`](../../aspose.finance.ofx.intertransfer/recurringintersyncrequest). |
-| [RecurringInterTransactionRequests](../../aspose.finance.ofx/intertransferrequestmessagesetv1/recurringintertransactionrequests) { get; set; } | Получает или задает коллекцию[`RecurringInterTransactionRequest`](../../aspose.finance.ofx.intertransfer/recurringintertransactionrequest). |
+| [InterSyncRequests](../../aspose.finance.ofx/intertransferrequestmessagesetv1/intersyncrequests) { get; set; } | Получает или задает коллекцию[`InterSyncRequest`](../../aspose.finance.ofx.intertransfer/intersyncrequest) . |
+| [InterTransactionRequests](../../aspose.finance.ofx/intertransferrequestmessagesetv1/intertransactionrequests) { get; set; } | Получает или задает коллекцию[`InterTransactionRequest`](../../aspose.finance.ofx.intertransfer/intertransactionrequest) . |
+| [RecurringInterSyncRequests](../../aspose.finance.ofx/intertransferrequestmessagesetv1/recurringintersyncrequests) { get; set; } | Получает или задает коллекцию[`RecurringInterSyncRequest`](../../aspose.finance.ofx.intertransfer/recurringintersyncrequest) . |
+| [RecurringInterTransactionRequests](../../aspose.finance.ofx/intertransferrequestmessagesetv1/recurringintertransactionrequests) { get; set; } | Получает или задает коллекцию[`RecurringInterTransactionRequest`](../../aspose.finance.ofx.intertransfer/recurringintertransactionrequest) . |
 
 ### Смотрите также
 

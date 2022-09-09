@@ -1,14 +1,14 @@
 ---
 title: Currency
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化Currencyaspose.finance.ofx/currency类的新实例
+description: 初始化一个新的实例Currencyaspose.finance.ofx/currency类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx/currency/currency/
 ---
 ## Currency constructor
 
-初始化[`Currency`](../../currency)类的新实例。
+初始化一个新的实例[`Currency`](../../currency)类.
 
 ```csharp
 public Currency()

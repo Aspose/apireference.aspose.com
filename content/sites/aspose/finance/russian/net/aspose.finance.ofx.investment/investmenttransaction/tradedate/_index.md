@@ -8,7 +8,7 @@ url: /ru/net/aspose.finance.ofx.investment/investmenttransaction/tradedate/
 ---
 ## InvestmentTransaction.TradeDate property
 
-Получает или задает дату сделки, для дробления акций, день записи.
+Получает или задает дату сделки для дробления акций, день записи.
 
 ```csharp
 public string TradeDate { get; set; }

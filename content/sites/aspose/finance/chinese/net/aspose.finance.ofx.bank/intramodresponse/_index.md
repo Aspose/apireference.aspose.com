@@ -1,14 +1,14 @@
 ---
 title: IntraModResponse
 second_title: Aspose.Finance for .NET API 参考
-description: 银行内转账修改响应类
+description: 银行内转账修改响应类.
 type: docs
 weight: 460
 url: /zh/net/aspose.finance.ofx.bank/intramodresponse/
 ---
 ## IntraModResponse class
 
-银行内转账修改响应类。
+银行内转账修改响应类.
 
 ```csharp
 public class IntraModResponse : AbstractIntraResponse
@@ -18,15 +18,15 @@ public class IntraModResponse : AbstractIntraResponse
 
 | 姓名 | 描述 |
 | --- | --- |
-| [IntraModResponse](intramodresponse)() | 初始化[`IntraModResponse`](../intramodresponse)类的新实例。 |
+| [IntraModResponse](intramodresponse)() | 初始化一个新的实例[`IntraModResponse`](../intramodresponse)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
 | [ServerId](../../aspose.finance.ofx.bank/intramodresponse/serverid) { get; set; } | 获取或设置服务器分配给正在修改的传输的ID。 |
-| [TransferInfo](../../aspose.finance.ofx.bank/intramodresponse/transferinfo) { get; set; } | 获取或设置[`TransferInfo`](./transferinfo)。 |
-| [TransferProcessingStatus](../../aspose.finance.ofx.bank/intramodresponse/transferprocessingstatus) { get; set; } | 获取或设置[`TransferProcessingStatus`](./transferprocessingstatus)。 |
+| [TransferInfo](../../aspose.finance.ofx.bank/intramodresponse/transferinfo) { get; set; } | 获取或设置[`TransferInfo`](./transferinfo). |
+| [TransferProcessingStatus](../../aspose.finance.ofx.bank/intramodresponse/transferprocessingstatus) { get; set; } | 获取或设置[`TransferProcessingStatus`](./transferprocessingstatus). |
 
 ### 也可以看看
 

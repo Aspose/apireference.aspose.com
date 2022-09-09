@@ -18,9 +18,9 @@ public class ReferenceLink
 
 | Имя | Описание |
 | --- | --- |
-| [Locators](../../aspose.finance.xbrl/referencelink/locators) { get; } | Получает коллекцию[`Loc`](../loc). |
-| [ReferenceArcs](../../aspose.finance.xbrl/referencelink/referencearcs) { get; } | Получает коллекцию[`ReferenceArc`](../referencearc). |
-| [References](../../aspose.finance.xbrl/referencelink/references) { get; } | Получает коллекцию[`Reference`](../reference). |
+| [Locators](../../aspose.finance.xbrl/referencelink/locators) { get; } | Получает коллекцию[`Loc`](../loc) . |
+| [ReferenceArcs](../../aspose.finance.xbrl/referencelink/referencearcs) { get; } | Получает коллекцию[`ReferenceArc`](../referencearc) . |
+| [References](../../aspose.finance.xbrl/referencelink/references) { get; } | Получает коллекцию[`Reference`](../reference) . |
 | [Role](../../aspose.finance.xbrl/referencelink/role) { get; set; } | Получает или задает роль. |
 
 ### Смотрите также

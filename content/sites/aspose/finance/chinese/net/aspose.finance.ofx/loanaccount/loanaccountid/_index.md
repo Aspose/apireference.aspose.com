@@ -1,14 +1,14 @@
 ---
 title: LoanAccountId
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置帐户 ID
+description: 获取或设置账户id
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.ofx/loanaccount/loanaccountid/
 ---
 ## LoanAccount.LoanAccountId property
 
-获取或设置帐户 ID。
+获取或设置账户id。
 
 ```csharp
 public string LoanAccountId { get; set; }

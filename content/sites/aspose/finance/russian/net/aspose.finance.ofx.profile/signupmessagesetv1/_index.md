@@ -18,19 +18,19 @@ public class SignupMessageSetV1 : AbstractMessageSetVersion
 
 | Имя | Описание |
 | --- | --- |
-| [SignupMessageSetV1](signupmessagesetv1)() | Инициализирует новый экземпляр класса[`SignupMessageSetV1`](../signupmessagesetv1). |
+| [SignupMessageSetV1](signupmessagesetv1)() | Инициализирует новый экземпляр[`SignupMessageSetV1`](../signupmessagesetv1) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [AvailableAccountStatus](../../aspose.finance.ofx.profile/signupmessagesetv1/availableaccountstatus) { get; set; } | True, если сервер может предоставить информацию об учетных записях с доступным SVSTATUS, False означает, что клиент должен запросить у пользователя конкретную информацию об учетной записи. |
+| [AvailableAccountStatus](../../aspose.finance.ofx.profile/signupmessagesetv1/availableaccountstatus) { get; set; } | True, если сервер может предоставить информацию об учетных записях с доступным SVCSTATUS, False означает, что клиент должен запрашивать у пользователя конкретную информацию об учетной записи. |
 | [ChangeUserInfo](../../aspose.finance.ofx.profile/signupmessagesetv1/changeuserinfo) { get; set; } | Получает или задает, поддерживает ли сервер изменение информации о пользователе на основе клиента. |
 | [ClientActivationRequest](../../aspose.finance.ofx.profile/signupmessagesetv1/clientactivationrequest) { get; set; } | True, если сервер разрешает клиентам делать запросы на активацию службы, False, если сервер будет информировать клиентов только посредством синхронизации добавлений, изменений или удалений служб. |
-| [ClientEnroll](../../aspose.finance.ofx.profile/signupmessagesetv1/clientenroll) { get; set; } | Получает или задает[`ClientEnroll`](./clientenroll). |
-| [MessageSetCore](../../aspose.finance.ofx.profile/abstractmessagesetversion/messagesetcore) { get; set; } | Получает или задает[`MessageSetCore`](../abstractmessagesetversion/messagesetcore). |
-| [OtherEnroll](../../aspose.finance.ofx.profile/signupmessagesetv1/otherenroll) { get; set; } | Получает или задает[`OtherEnroll`](./otherenroll). |
-| [WebEnroll](../../aspose.finance.ofx.profile/signupmessagesetv1/webenroll) { get; set; } | Получает или задает[`WebEnroll`](./webenroll). |
+| [ClientEnroll](../../aspose.finance.ofx.profile/signupmessagesetv1/clientenroll) { get; set; } | Получает или задает[`ClientEnroll`](./clientenroll) . |
+| [MessageSetCore](../../aspose.finance.ofx.profile/abstractmessagesetversion/messagesetcore) { get; set; } | Получает или задает[`MessageSetCore`](../abstractmessagesetversion/messagesetcore) . |
+| [OtherEnroll](../../aspose.finance.ofx.profile/signupmessagesetv1/otherenroll) { get; set; } | Получает или задает[`OtherEnroll`](./otherenroll) . |
+| [WebEnroll](../../aspose.finance.ofx.profile/signupmessagesetv1/webenroll) { get; set; } | Получает или задает[`WebEnroll`](./webenroll) . |
 
 ### Смотрите также
 

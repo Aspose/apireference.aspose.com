@@ -18,7 +18,7 @@ public enum RelatedEnum
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| SPREAD | `0` | 传播 |
+| SPREAD | `0` | 展开 |
 | STRADDLE | `1` | 跨骑 |
 | NONE | `2` | 无 |
 | OTHER | `3` | 其他 |

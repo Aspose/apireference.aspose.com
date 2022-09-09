@@ -1,14 +1,14 @@
 ---
 title: InvestmentStatementMessageSet
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаInvestmentStatementMessageSetaspose.finance.ofx.profile/investmentstatementmessageset.
+description: Инициализирует новый экземплярInvestmentStatementMessageSetaspose.finance.ofx.profile/investmentstatementmessageset класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.profile/investmentstatementmessageset/investmentstatementmessageset/
 ---
 ## InvestmentStatementMessageSet constructor
 
-Инициализирует новый экземпляр класса[`InvestmentStatementMessageSet`](../../investmentstatementmessageset).
+Инициализирует новый экземпляр[`InvestmentStatementMessageSet`](../../investmentstatementmessageset) класс.
 
 ```csharp
 public InvestmentStatementMessageSet()

@@ -1,14 +1,14 @@
 ---
 title: StatementTransactions
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置StatementTransactionaspose.finance.ofx/statementtransaction的集合
+description: 获取或设置的集合StatementTransactionaspose.finance.ofx/statementtransaction.
 type: docs
 weight: 40
 url: /zh/net/aspose.finance.ofx/banktransactionlist/statementtransactions/
 ---
 ## BankTransactionList.StatementTransactions property
 
-获取或设置[`StatementTransaction`](../../statementtransaction)的集合。
+获取或设置的集合[`StatementTransaction`](../../statementtransaction).
 
 ```csharp
 public List<StatementTransaction> StatementTransactions { get; set; }

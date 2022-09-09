@@ -8,7 +8,7 @@ url: /zh/net/aspose.finance.ofx/presentmentaccountinfo/
 ---
 ## PresentmentAccountInfo class
 
-账单提示账户信息类。
+账单提示账户信息类
 
 ```csharp
 public class PresentmentAccountInfo : AbstractAccountInfo
@@ -18,15 +18,15 @@ public class PresentmentAccountInfo : AbstractAccountInfo
 
 | 姓名 | 描述 |
 | --- | --- |
-| [PresentmentAccountInfo](presentmentaccountinfo)() | 初始化[`PresentmentAccountInfo`](../presentmentaccountinfo)类的新实例。 |
+| [PresentmentAccountInfo](presentmentaccountinfo)() | 初始化一个新的实例[`PresentmentAccountInfo`](../presentmentaccountinfo)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [PresentmentAccountFrom](../../aspose.finance.ofx/presentmentaccountinfo/presentmentaccountfrom) { get; set; } | 获取或设置[`PresentmentAccount`](../presentmentaccount)的来源。 |
+| [PresentmentAccountFrom](../../aspose.finance.ofx/presentmentaccountinfo/presentmentaccountfrom) { get; set; } | 获取或设置 from[`PresentmentAccount`](../presentmentaccount). |
 | [Reason](../../aspose.finance.ofx/presentmentaccountinfo/reason) { get; set; } | 获取或设置拒绝原因。 |
-| [ServiceStatus](../../aspose.finance.ofx/presentmentaccountinfo/servicestatus) { get; set; } | 获取或设置此帐户的 Bill Presentment 服务的状态。 |
+| [ServiceStatus](../../aspose.finance.ofx/presentmentaccountinfo/servicestatus) { get; set; } | 获取或设置此帐户的账单显示服务的状态。 |
 
 ### 也可以看看
 

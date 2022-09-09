@@ -1,14 +1,14 @@
 ---
 title: AbstractRecurringPaymentRequest
 second_title: Aspose.Finance for .NET API 参考
-description: 所有定期付款请求相关类的抽象基类
+description: 所有定期支付请求相关类的抽象基类
 type: docs
 weight: 870
 url: /zh/net/aspose.finance.ofx.billpay/abstractrecurringpaymentrequest/
 ---
 ## AbstractRecurringPaymentRequest class
 
-所有定期付款请求相关类的抽象基类。
+所有定期支付请求相关类的抽象基类。
 
 ```csharp
 public abstract class AbstractRecurringPaymentRequest

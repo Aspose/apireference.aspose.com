@@ -1,14 +1,14 @@
 ---
 title: InvestmentBalance
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化InvestmentBalanceaspose.finance.ofx.investment/investmentbalance类的新实例
+description: 初始化一个新的实例InvestmentBalanceaspose.finance.ofx.investment/investmentbalance类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.investment/investmentbalance/investmentbalance/
 ---
 ## InvestmentBalance constructor
 
-初始化[`InvestmentBalance`](../../investmentbalance)类的新实例。
+初始化一个新的实例[`InvestmentBalance`](../../investmentbalance)类.
 
 ```csharp
 public InvestmentBalance()

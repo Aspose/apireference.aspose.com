@@ -1,14 +1,14 @@
 ---
 title: AvailableCash
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置所有子账户的现金余额应包括扫荡基金
+description: 获取或设置所有子账户的现金余额应包括扫荡资金
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.ofx.investment/investmentbalance/availablecash/
 ---
 ## InvestmentBalance.AvailableCash property
 
-获取或设置所有子账户的现金余额。应包括扫荡基金。
+获取或设置所有子账户的现金余额。应包括扫荡资金。
 
 ```csharp
 public string AvailableCash { get; set; }

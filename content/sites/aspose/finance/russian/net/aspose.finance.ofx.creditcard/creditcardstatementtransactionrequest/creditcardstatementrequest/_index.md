@@ -1,14 +1,14 @@
 ---
 title: CreditCardStatementRequest
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задаетCreditCardStatementRequestaspose.finance.ofx.creditcard/creditcardstatementtransactionrequest/creditcardstatementrequest.
+description: Получает или задаетCreditCardStatementRequestaspose.finance.ofx.creditcard/creditcardstatementtransactionrequest/creditcardstatementrequest .
 type: docs
 weight: 20
 url: /ru/net/aspose.finance.ofx.creditcard/creditcardstatementtransactionrequest/creditcardstatementrequest/
 ---
 ## CreditCardStatementTransactionRequest.CreditCardStatementRequest property
 
-Получает или задает`CreditCardStatementRequest`.
+Получает или задает`CreditCardStatementRequest` .
 
 ```csharp
 public CreditCardStatementRequest CreditCardStatementRequest { get; set; }

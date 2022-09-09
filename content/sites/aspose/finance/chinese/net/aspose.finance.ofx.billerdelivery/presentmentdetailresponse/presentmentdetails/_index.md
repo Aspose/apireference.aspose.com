@@ -1,14 +1,14 @@
 ---
 title: PresentmentDetails
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置PresentmentDetailaspose.finance.ofx.billerdelivery/presentmentdetail的集合
+description: 获取或设置的集合PresentmentDetailaspose.finance.ofx.billerdelivery/presentmentdetail.
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.ofx.billerdelivery/presentmentdetailresponse/presentmentdetails/
 ---
 ## PresentmentDetailResponse.PresentmentDetails property
 
-获取或设置[`PresentmentDetail`](../../presentmentdetail)的集合。
+获取或设置的集合[`PresentmentDetail`](../../presentmentdetail).
 
 ```csharp
 public List<PresentmentDetail> PresentmentDetails { get; set; }

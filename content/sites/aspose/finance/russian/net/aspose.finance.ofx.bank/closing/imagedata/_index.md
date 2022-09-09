@@ -1,14 +1,14 @@
 ---
 title: ImageData
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задаетImageDataaspose.finance.ofx.bank/closing/imagedata.
+description: Получает или задаетImageDataaspose.finance.ofx.bank/closing/imagedata .
 type: docs
 weight: 110
 url: /ru/net/aspose.finance.ofx.bank/closing/imagedata/
 ---
 ## Closing.ImageData property
 
-Получает или задает`ImageData`.
+Получает или задает`ImageData` .
 
 ```csharp
 public ImageData ImageData { get; set; }

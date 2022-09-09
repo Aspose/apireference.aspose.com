@@ -18,13 +18,13 @@ public class PositionStock : AbstractPositionBase
 
 | Имя | Описание |
 | --- | --- |
-| [PositionStock](positionstock)() | Инициализирует новый экземпляр класса[`PositionStock`](../positionstock). |
+| [PositionStock](positionstock)() | Инициализирует новый экземпляр[`PositionStock`](../positionstock) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [InvestmentPosition](../../aspose.finance.ofx.investment/abstractpositionbase/investmentposition) { get; set; } | Получает или задает[`InvestmentPosition`](../abstractpositionbase/investmentposition). |
+| [InvestmentPosition](../../aspose.finance.ofx.investment/abstractpositionbase/investmentposition) { get; set; } | Получает или задает[`InvestmentPosition`](../abstractpositionbase/investmentposition) . |
 | [ReinvestDividend](../../aspose.finance.ofx.investment/positionstock/reinvestdividend) { get; set; } | Получает или задает, реинвестировать ли дивиденды. |
 | [UnitsStreet](../../aspose.finance.ofx.investment/positionstock/unitsstreet) { get; set; } | Получает или задает единицы измерения в названии улицы FI. |
 | [UnitsUser](../../aspose.finance.ofx.investment/positionstock/unitsuser) { get; set; } | Получает или задает единицы измерения непосредственно в имени пользователя. |

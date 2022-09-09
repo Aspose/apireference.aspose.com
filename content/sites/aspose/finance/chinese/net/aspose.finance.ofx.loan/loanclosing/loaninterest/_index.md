@@ -1,14 +1,14 @@
 ---
 title: LoanInterest
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置LoanInterestTypeaspose.finance.ofx/loaninteresttype
+description: 获取或设置LoanInterestTypeaspose.finance.ofx/loaninteresttype.
 type: docs
 weight: 130
 url: /zh/net/aspose.finance.ofx.loan/loanclosing/loaninterest/
 ---
 ## LoanClosing.LoanInterest property
 
-获取或设置[`LoanInterestType`](../../../aspose.finance.ofx/loaninteresttype)。
+获取或设置[`LoanInterestType`](../../../aspose.finance.ofx/loaninteresttype).
 
 ```csharp
 public LoanInterestType LoanInterest { get; set; }

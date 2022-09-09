@@ -1,14 +1,14 @@
 ---
 title: SignupMessageSet
 second_title: Aspose.Finance for .NET API 参考
-description: 注册消息集
+description: 注册消息集.
 type: docs
 weight: 4800
 url: /zh/net/aspose.finance.ofx.profile/signupmessageset/
 ---
 ## SignupMessageSet class
 
-注册消息集。
+注册消息集.
 
 ```csharp
 public class SignupMessageSet : AbstractMessageSet
@@ -18,13 +18,13 @@ public class SignupMessageSet : AbstractMessageSet
 
 | 姓名 | 描述 |
 | --- | --- |
-| [SignupMessageSet](signupmessageset)() | 初始化[`SignupMessageSet`](../signupmessageset)类的新实例。 |
+| [SignupMessageSet](signupmessageset)() | 初始化一个新的实例[`SignupMessageSet`](../signupmessageset)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [SignupMessageSetV1](../../aspose.finance.ofx.profile/signupmessageset/signupmessagesetv1) { get; set; } | 获取或设置[`SignupMessageSetV1`](./signupmessagesetv1)。 |
+| [SignupMessageSetV1](../../aspose.finance.ofx.profile/signupmessageset/signupmessagesetv1) { get; set; } | 获取或设置[`SignupMessageSetV1`](./signupmessagesetv1). |
 
 ### 也可以看看
 

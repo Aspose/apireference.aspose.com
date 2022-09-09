@@ -1,14 +1,14 @@
 ---
 title: ProfileTransactionRequests
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает коллекциюProfileTransactionRequestaspose.finance.ofx.profile/profiletransactionrequest.
+description: Получает или задает коллекциюProfileTransactionRequestaspose.finance.ofx.profile/profiletransactionrequest .
 type: docs
 weight: 20
 url: /ru/net/aspose.finance.ofx/profilerequestmessagesetv1/profiletransactionrequests/
 ---
 ## ProfileRequestMessageSetV1.ProfileTransactionRequests property
 
-Получает или задает коллекцию[`ProfileTransactionRequest`](../../../aspose.finance.ofx.profile/profiletransactionrequest).
+Получает или задает коллекцию[`ProfileTransactionRequest`](../../../aspose.finance.ofx.profile/profiletransactionrequest) .
 
 ```csharp
 public List<ProfileTransactionRequest> ProfileTransactionRequests { get; set; }

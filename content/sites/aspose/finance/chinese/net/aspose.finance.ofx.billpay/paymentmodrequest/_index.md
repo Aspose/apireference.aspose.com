@@ -1,14 +1,14 @@
 ---
 title: PaymentModRequest
 second_title: Aspose.Finance for .NET API 参考
-description: 付款修改请求类
+description: 付款修改请求类.
 type: docs
 weight: 1180
 url: /zh/net/aspose.finance.ofx.billpay/paymentmodrequest/
 ---
 ## PaymentModRequest class
 
-付款修改请求类。
+付款修改请求类.
 
 ```csharp
 public class PaymentModRequest : AbstractPaymentRequest
@@ -18,13 +18,13 @@ public class PaymentModRequest : AbstractPaymentRequest
 
 | 姓名 | 描述 |
 | --- | --- |
-| [PaymentModRequest](paymentmodrequest)() | 初始化[`PaymentModRequest`](../paymentmodrequest)类的新实例。 |
+| [PaymentModRequest](paymentmodrequest)() | 初始化一个新的实例[`PaymentModRequest`](../paymentmodrequest)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [PaymentInfo](../../aspose.finance.ofx.billpay/paymentmodrequest/paymentinfo) { get; set; } | 获取或设置[`PaymentInfo`](./paymentinfo)。 |
+| [PaymentInfo](../../aspose.finance.ofx.billpay/paymentmodrequest/paymentinfo) { get; set; } | 获取或设置[`PaymentInfo`](./paymentinfo). |
 | [ServerId](../../aspose.finance.ofx.billpay/paymentmodrequest/serverid) { get; set; } | 获取或设置服务器为正在修改的支付分配的ID。 |
 
 ### 也可以看看

@@ -1,14 +1,14 @@
 ---
 title: RewardInfoType
 second_title: Справочник по API Aspose.Finance для .NET
-description: Открытие агрегата текущей информации программы вознаграждения/баллов.
+description: Открытие агрегата текущей информации о программе вознаграждений/баллов.
 type: docs
 weight: 4970
 url: /ru/net/aspose.finance.ofx/rewardinfotype/
 ---
 ## RewardInfoType class
 
-Открытие агрегата текущей информации программы вознаграждения/баллов.
+Открытие агрегата текущей информации о программе вознаграждений/баллов.
 
 ```csharp
 public class RewardInfoType
@@ -18,13 +18,13 @@ public class RewardInfoType
 
 | Имя | Описание |
 | --- | --- |
-| [RewardInfoType](rewardinfotype)() | Инициализирует новый экземпляр класса[`RewardInfoType`](../rewardinfotype). |
+| [RewardInfoType](rewardinfotype)() | Инициализирует новый экземпляр[`RewardInfoType`](../rewardinfotype) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [Name](../../aspose.finance.ofx/rewardinfotype/name) { get; set; } | Получает или задает название программы вознаграждений. |
+| [Name](../../aspose.finance.ofx/rewardinfotype/name) { get; set; } | Получает или задает имя программы вознаграждения. |
 | [RewardBalance](../../aspose.finance.ofx/rewardinfotype/rewardbalance) { get; set; } | Получает или устанавливает текущий баланс вознаграждений на момент загрузки. |
 | [RewardEarned](../../aspose.finance.ofx/rewardinfotype/rewardearned) { get; set; } | Получает или задает сумму вознаграждения, заработанную с начала года на момент загрузки. |
 

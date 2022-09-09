@@ -8,7 +8,7 @@ url: /zh/net/aspose.finance.ofx.billpay/payeedeleteresponse/
 ---
 ## PayeeDeleteResponse class
 
-收款人删除响应类。
+收款人删除响应类
 
 ```csharp
 public class PayeeDeleteResponse : AbstractPayeeResponse
@@ -18,13 +18,13 @@ public class PayeeDeleteResponse : AbstractPayeeResponse
 
 | 姓名 | 描述 |
 | --- | --- |
-| [PayeeDeleteResponse](payeedeleteresponse)() | 初始化[`PayeeDeleteResponse`](../payeedeleteresponse)类的新实例。 |
+| [PayeeDeleteResponse](payeedeleteresponse)() | 初始化一个新的实例[`PayeeDeleteResponse`](../payeedeleteresponse)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [PayeeListId](../../aspose.finance.ofx.billpay/abstractpayeeresponse/payeelistid) { get; set; } | 获取或设置此收款人记录的服务器分配记录ID。 |
+| [PayeeListId](../../aspose.finance.ofx.billpay/abstractpayeeresponse/payeelistid) { get; set; } | 获取或设置此收款人记录的服务器分配记录 ID。 |
 
 ### 也可以看看
 

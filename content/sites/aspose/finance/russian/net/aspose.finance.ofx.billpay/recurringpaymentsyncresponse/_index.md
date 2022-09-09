@@ -18,16 +18,16 @@ public class RecurringPaymentSyncResponse : AbstractSyncResponse
 
 | Имя | Описание |
 | --- | --- |
-| [RecurringPaymentSyncResponse](recurringpaymentsyncresponse)() | Инициализирует новый экземпляр класса[`RecurringPaymentSyncResponse`](../recurringpaymentsyncresponse). |
+| [RecurringPaymentSyncResponse](recurringpaymentsyncresponse)() | Инициализирует новый экземпляр[`RecurringPaymentSyncResponse`](../recurringpaymentsyncresponse) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [BankAccountFrom](../../aspose.finance.ofx.billpay/recurringpaymentsyncresponse/bankaccountfrom) { get; set; } | Получает или задает значение из[`BankAccount`](../../aspose.finance.ofx/bankaccount). |
-| [LostSynchronization](../../aspose.finance.ofx/abstractsyncresponse/lostsynchronization) { get; set; } | Да, если токен в запросе на синхронизацию старше, чем самая ранняя запись в таблице истории сервера. В этом случае некоторые ответы были потеряны. Нет, если токен в запросе на синхронизацию новее или совпадает с токеном в таблице истории сервера. |
-| [OfxExtension](../../aspose.finance.ofx.billpay/recurringpaymentsyncresponse/ofxextension) { get; set; } | Получает или задает[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
-| [RecurringPaymentTransactionResponses](../../aspose.finance.ofx.billpay/recurringpaymentsyncresponse/recurringpaymenttransactionresponses) { get; set; } | Получает или задает коллекцию[`RecurringPaymentTransactionResponse`](../recurringpaymenttransactionresponse). |
+| [BankAccountFrom](../../aspose.finance.ofx.billpay/recurringpaymentsyncresponse/bankaccountfrom) { get; set; } | Получает или задает из[`BankAccount`](../../aspose.finance.ofx/bankaccount) . |
+| [LostSynchronization](../../aspose.finance.ofx/abstractsyncresponse/lostsynchronization) { get; set; } | Да, если токен в запросе на синхронизацию старше самой ранней записи в таблице истории сервера. В этом случае некоторые ответы были потеряны. Нет, если токен в запросе на синхронизацию новее или совпадает с токеном в таблице сервера. таблица истории. |
+| [OfxExtension](../../aspose.finance.ofx.billpay/recurringpaymentsyncresponse/ofxextension) { get; set; } | Получает или задает[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype) . |
+| [RecurringPaymentTransactionResponses](../../aspose.finance.ofx.billpay/recurringpaymentsyncresponse/recurringpaymenttransactionresponses) { get; set; } | Получает или задает коллекцию[`RecurringPaymentTransactionResponse`](../recurringpaymenttransactionresponse) . |
 | [Token](../../aspose.finance.ofx/abstractsyncresponse/token) { get; set; } | Получает или задает новый маркер синхронизации. |
 
 ### Смотрите также

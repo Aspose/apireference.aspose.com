@@ -18,14 +18,14 @@ public class BankMailRequest
 
 | Имя | Описание |
 | --- | --- |
-| [BankMailRequest](bankmailrequest)() | Инициализирует новый экземпляр класса[`BankMailRequest`](../bankmailrequest). |
+| [BankMailRequest](bankmailrequest)() | Инициализирует новый экземпляр[`BankMailRequest`](../bankmailrequest) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [AccountFrom](../../aspose.finance.ofx.bank/bankmailrequest/accountfrom) { get; set; } | Получает или задает значение из[`BankAccount`](../../aspose.finance.ofx/bankaccount)или[`CreditCardAccount`](../../aspose.finance.ofx/creditcardaccount). |
-| [Mail](../../aspose.finance.ofx.bank/bankmailrequest/mail) { get; set; } | Получает или задает[`Mail`](./mail). |
+| [AccountFrom](../../aspose.finance.ofx.bank/bankmailrequest/accountfrom) { get; set; } | Получает или задает из[`BankAccount`](../../aspose.finance.ofx/bankaccount) или же[`CreditCardAccount`](../../aspose.finance.ofx/creditcardaccount) . |
+| [Mail](../../aspose.finance.ofx.bank/bankmailrequest/mail) { get; set; } | Получает или задает[`Mail`](./mail) . |
 
 ### Смотрите также
 

@@ -20,7 +20,7 @@ public class ContextValidationError : ValidationError
 | --- | --- |
 | [Code](../../aspose.finance.xbrl.validator/validationerror/code) { get; } | Получает код ошибки проверки. |
 | [Message](../../aspose.finance.xbrl.validator/validationerror/message) { get; } | Получает сообщение об ошибке. |
-| [Object](../../aspose.finance.xbrl.validator/contextvalidationerror/object) { get; } | Получает объект[`Context`](../../aspose.finance.xbrl/context)с ошибкой проверки. |
+| [Object](../../aspose.finance.xbrl.validator/contextvalidationerror/object) { get; } | Получает[`Context`](../../aspose.finance.xbrl/context)объект с ошибкой проверки. |
 
 ### Смотрите также
 

@@ -1,14 +1,14 @@
 ---
 title: Payee
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置要修改的Payeeaspose.finance.ofx.billpay/payeemodrequest/payee信息
+description: 获取或设置Payeeaspose.finance.ofx.billpay/payeemodrequest/payee要修改的信息
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.ofx.billpay/payeemodrequest/payee/
 ---
 ## PayeeModRequest.Payee property
 
-获取或设置要修改的`Payee`信息。
+获取或设置`Payee`要修改的信息。
 
 ```csharp
 public Payee Payee { get; set; }

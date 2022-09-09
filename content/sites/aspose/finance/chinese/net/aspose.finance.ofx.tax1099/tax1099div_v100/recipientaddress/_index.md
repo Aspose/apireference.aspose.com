@@ -1,14 +1,14 @@
 ---
 title: RecipientAddress
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置RecipientAddressaspose.finance.ofx.tax1099/tax1099div_v100/recipientaddress
+description: 获取或设置RecipientAddressaspose.finance.ofx.tax1099/tax1099div_v100/recipientaddress.
 type: docs
 weight: 180
 url: /zh/net/aspose.finance.ofx.tax1099/tax1099div_v100/recipientaddress/
 ---
 ## Tax1099DIV_V100.RecipientAddress property
 
-获取或设置`RecipientAddress`。
+获取或设置`RecipientAddress`.
 
 ```csharp
 public RecipientAddress RecipientAddress { get; set; }

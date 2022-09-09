@@ -1,14 +1,14 @@
 ---
 title: PresentmentGroupAccountInfoTransactionRequest
 second_title: Справочник по API Aspose.Finance для .NET
-description: Класс запроса транзакции с информацией об учетной записи группы. Этот класс указывает запрашивает ли клиент информацию об учетной записи для одного пользователя или группы пользователей.
+description: Класс запроса транзакции информации об учетной записи группы. Этот класс указывает запрашивает ли клиент информацию об учетной записи для одного пользователя или группы пользователей.
 type: docs
 weight: 1670
 url: /ru/net/aspose.finance.ofx.billerdelivery/presentmentgroupaccountinfotransactionrequest/
 ---
 ## PresentmentGroupAccountInfoTransactionRequest class
 
-Класс запроса транзакции с информацией об учетной записи группы. Этот класс указывает, запрашивает ли клиент информацию об учетной записи для одного пользователя или группы пользователей.
+Класс запроса транзакции информации об учетной записи группы. Этот класс указывает, запрашивает ли клиент информацию об учетной записи для одного пользователя или группы пользователей.
 
 ```csharp
 public class PresentmentGroupAccountInfoTransactionRequest : AbstractTransactionRequest
@@ -18,19 +18,19 @@ public class PresentmentGroupAccountInfoTransactionRequest : AbstractTransaction
 
 | Имя | Описание |
 | --- | --- |
-| [PresentmentGroupAccountInfoTransactionRequest](presentmentgroupaccountinfotransactionrequest)() | Инициализирует новый экземпляр класса[`PresentmentGroupAccountInfoTransactionRequest`](../presentmentgroupaccountinfotransactionrequest). |
+| [PresentmentGroupAccountInfoTransactionRequest](presentmentgroupaccountinfotransactionrequest)() | Инициализирует новый экземпляр[`PresentmentGroupAccountInfoTransactionRequest`](../presentmentgroupaccountinfotransactionrequest) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [AccountInfoRequest](../../aspose.finance.ofx.billerdelivery/presentmentgroupaccountinfotransactionrequest/accountinforequest) { get; set; } | Получает или задает[`AccountInfoRequest`](./accountinforequest). |
-| [ClientCookie](../../aspose.finance.ofx/abstracttransactionrequest/clientcookie) { get; set; } | Получает или задает данные, которые будут отображаться в ответе транзакции |
+| [AccountInfoRequest](../../aspose.finance.ofx.billerdelivery/presentmentgroupaccountinfotransactionrequest/accountinforequest) { get; set; } | Получает или задает[`AccountInfoRequest`](./accountinforequest) . |
+| [ClientCookie](../../aspose.finance.ofx/abstracttransactionrequest/clientcookie) { get; set; } | Получает или задает данные, которые будут отражены в транзакции response |
 | [GroupId](../../aspose.finance.ofx.billerdelivery/presentmentgroupaccountinfotransactionrequest/groupid) { get; set; } | Получает или задает запрашиваемую информацию об учетной записи для пользователей в группе. |
-| [OfxExtension](../../aspose.finance.ofx.billerdelivery/presentmentgroupaccountinfotransactionrequest/ofxextension) { get; set; } | Получает или задает[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
+| [OfxExtension](../../aspose.finance.ofx.billerdelivery/presentmentgroupaccountinfotransactionrequest/ofxextension) { get; set; } | Получает или задает[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype) . |
 | [TransactionAuthorizationNumber](../../aspose.finance.ofx/abstracttransactionrequest/transactionauthorizationnumber) { get; set; } | Получает или задает номер авторизации транзакции. |
 | [TransactionUniqueId](../../aspose.finance.ofx/abstracttransactionrequest/transactionuniqueid) { get; set; } | Получает или задает назначенный клиентом глобальный уникальный идентификатор для этой транзакции |
-| [UserId](../../aspose.finance.ofx.billerdelivery/presentmentgroupaccountinfotransactionrequest/userid) { get; set; } | Получает или задает запрашиваемую информацию об учетной записи для указанного пользователя |
+| [UserId](../../aspose.finance.ofx.billerdelivery/presentmentgroupaccountinfotransactionrequest/userid) { get; set; } | Получает или задает информацию об учетной записи для указанного пользователя |
 
 ### Смотрите также
 

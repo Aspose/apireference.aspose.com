@@ -1,14 +1,14 @@
 ---
 title: EscrowPMIBalance
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置托管的 PMI 余额
+description: 获取或设置托管的PMI余额
 type: docs
 weight: 70
 url: /zh/net/aspose.finance.ofx.loan/escrowbalance/escrowpmibalance/
 ---
 ## EscrowBalance.EscrowPMIBalance property
 
-获取或设置托管的 PMI 余额。
+获取或设置托管的PMI余额。
 
 ```csharp
 public string EscrowPMIBalance { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: Tax1098TransactionRequests
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置Tax1098TransactionRequestaspose.finance.ofx.tax1098/tax1098transactionrequest的集合
+description: 获取或设置的集合Tax1098TransactionRequestaspose.finance.ofx.tax1098/tax1098transactionrequest.
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.ofx/tax1098requestmessagesetv1/tax1098transactionrequests/
 ---
 ## Tax1098RequestMessageSetV1.Tax1098TransactionRequests property
 
-获取或设置[`Tax1098TransactionRequest`](../../../aspose.finance.ofx.tax1098/tax1098transactionrequest)的集合。
+获取或设置的集合[`Tax1098TransactionRequest`](../../../aspose.finance.ofx.tax1098/tax1098transactionrequest).
 
 ```csharp
 public List<Tax1098TransactionRequest> Tax1098TransactionRequests { get; set; }

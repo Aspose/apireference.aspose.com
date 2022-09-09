@@ -1,14 +1,14 @@
 ---
 title: SecurityListTransactionRequest
 second_title: Справочник по API Aspose.Finance для .NET
-description: Класс запроса транзакции списка безопасности.
+description: Класс запроса транзакции со списком безопасности.
 type: docs
 weight: 5150
 url: /ru/net/aspose.finance.ofx.securitieslist/securitylisttransactionrequest/
 ---
 ## SecurityListTransactionRequest class
 
-Класс запроса транзакции списка безопасности.
+Класс запроса транзакции со списком безопасности.
 
 ```csharp
 public class SecurityListTransactionRequest : AbstractTransactionRequest
@@ -18,15 +18,15 @@ public class SecurityListTransactionRequest : AbstractTransactionRequest
 
 | Имя | Описание |
 | --- | --- |
-| [SecurityListTransactionRequest](securitylisttransactionrequest)() | Инициализирует новый экземпляр класса[`SecurityListTransactionRequest`](../securitylisttransactionrequest). |
+| [SecurityListTransactionRequest](securitylisttransactionrequest)() | Инициализирует новый экземпляр[`SecurityListTransactionRequest`](../securitylisttransactionrequest) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [ClientCookie](../../aspose.finance.ofx/abstracttransactionrequest/clientcookie) { get; set; } | Получает или задает данные, которые будут отображаться в ответе транзакции |
-| [OfxExtension](../../aspose.finance.ofx.securitieslist/securitylisttransactionrequest/ofxextension) { get; set; } | Получает или задает[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
-| [SecurityListRequest](../../aspose.finance.ofx.securitieslist/securitylisttransactionrequest/securitylistrequest) { get; set; } | Получает или задает[`SecurityListRequest`](./securitylistrequest). |
+| [ClientCookie](../../aspose.finance.ofx/abstracttransactionrequest/clientcookie) { get; set; } | Получает или задает данные, которые будут отражены в транзакции response |
+| [OfxExtension](../../aspose.finance.ofx.securitieslist/securitylisttransactionrequest/ofxextension) { get; set; } | Получает или задает[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype) . |
+| [SecurityListRequest](../../aspose.finance.ofx.securitieslist/securitylisttransactionrequest/securitylistrequest) { get; set; } | Получает или задает[`SecurityListRequest`](./securitylistrequest) . |
 | [TransactionAuthorizationNumber](../../aspose.finance.ofx/abstracttransactionrequest/transactionauthorizationnumber) { get; set; } | Получает или задает номер авторизации транзакции. |
 | [TransactionUniqueId](../../aspose.finance.ofx/abstracttransactionrequest/transactionuniqueid) { get; set; } | Получает или задает назначенный клиентом глобальный уникальный идентификатор для этой транзакции |
 

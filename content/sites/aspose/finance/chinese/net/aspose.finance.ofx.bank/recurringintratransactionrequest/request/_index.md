@@ -1,14 +1,14 @@
 ---
 title: Request
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置RecurringIntraRequestaspose.finance.ofx.bank/recurringintrarequest或RecurringIntraModRequestaspose.finance.ofx.bank/recurringintramodrequest或RecurringIntraCancellationRequestaspose.finance.ofx.bank/recurringintracancellationrequest
+description: 获取或设置RecurringIntraRequestaspose.finance.ofx.bank/recurringintrarequest或者RecurringIntraModRequestaspose.finance.ofx.bank/recurringintramodrequest或者RecurringIntraCancellationRequestaspose.finance.ofx.bank/recurringintracancellationrequest.
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.ofx.bank/recurringintratransactionrequest/request/
 ---
 ## RecurringIntraTransactionRequest.Request property
 
-获取或设置[`RecurringIntraRequest`](../../recurringintrarequest)或[`RecurringIntraModRequest`](../../recurringintramodrequest)或[`RecurringIntraCancellationRequest`](../../recurringintracancellationrequest)。
+获取或设置[`RecurringIntraRequest`](../../recurringintrarequest)或者[`RecurringIntraModRequest`](../../recurringintramodrequest)或者[`RecurringIntraCancellationRequest`](../../recurringintracancellationrequest).
 
 ```csharp
 public AbstractRecurringIntraRequest Request { get; set; }

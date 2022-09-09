@@ -1,14 +1,14 @@
 ---
 title: WireDestinationBank
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置WireDestinationBankaspose.finance.ofx.wiretransfer/wirerequest/wiredestinationbank
+description: 获取或设置WireDestinationBankaspose.finance.ofx.wiretransfer/wirerequest/wiredestinationbank.
 type: docs
 weight: 70
 url: /zh/net/aspose.finance.ofx.wiretransfer/wirerequest/wiredestinationbank/
 ---
 ## WireRequest.WireDestinationBank property
 
-获取或设置`WireDestinationBank`。
+获取或设置`WireDestinationBank`.
 
 ```csharp
 public WireDestinationBank WireDestinationBank { get; set; }

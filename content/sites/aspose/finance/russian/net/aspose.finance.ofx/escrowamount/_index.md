@@ -1,14 +1,14 @@
 ---
 title: EscrowAmount
 second_title: Справочник по API Aspose.Finance для .NET
-description: Класс условной суммы.
+description: Класс суммы условного депонирования.
 type: docs
 weight: 2240
 url: /ru/net/aspose.finance.ofx/escrowamount/
 ---
 ## EscrowAmount class
 
-Класс условной суммы.
+Класс суммы условного депонирования.
 
 ```csharp
 public class EscrowAmount
@@ -18,7 +18,7 @@ public class EscrowAmount
 
 | Имя | Описание |
 | --- | --- |
-| [EscrowAmount](escrowamount)() | Инициализирует новый экземпляр класса[`EscrowAmount`](../escrowamount). |
+| [EscrowAmount](escrowamount)() | Инициализирует новый экземпляр[`EscrowAmount`](../escrowamount) класс. |
 
 ## Характеристики
 

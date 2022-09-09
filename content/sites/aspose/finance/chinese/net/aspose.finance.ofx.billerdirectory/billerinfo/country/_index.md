@@ -1,14 +1,14 @@
 ---
 title: Country
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置帐单的国家来自 ISO/DIS-3166 的 3 个字母的国家/地区代码
+description: 获取或设置出票人所在的国家来自 ISO/DIS3166. 的 3 个字母的国家/地区代码
 type: docs
 weight: 110
 url: /zh/net/aspose.finance.ofx.billerdirectory/billerinfo/country/
 ---
 ## BillerInfo.Country property
 
-获取或设置帐单的国家。来自 ISO/DIS-3166 的 3 个字母的国家/地区代码。
+获取或设置出票人所在的国家。来自 ISO/DIS-3166. 的 3 个字母的国家/地区代码
 
 ```csharp
 public string Country { get; set; }

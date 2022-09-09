@@ -1,14 +1,14 @@
 ---
 title: StopCheckRequest
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化StopCheckRequestaspose.finance.ofx.bank/stopcheckrequest类的新实例
+description: 初始化一个新的实例StopCheckRequestaspose.finance.ofx.bank/stopcheckrequest类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.bank/stopcheckrequest/stopcheckrequest/
 ---
 ## StopCheckRequest constructor
 
-初始化[`StopCheckRequest`](../../stopcheckrequest)类的新实例。
+初始化一个新的实例[`StopCheckRequest`](../../stopcheckrequest)类.
 
 ```csharp
 public StopCheckRequest()

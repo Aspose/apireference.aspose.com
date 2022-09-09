@@ -1,14 +1,14 @@
 ---
 title: OptionInfo
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаOptionInfoaspose.finance.ofx.securitieslist/optioninfo.
+description: Инициализирует новый экземплярOptionInfoaspose.finance.ofx.securitieslist/optioninfo класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.securitieslist/optioninfo/optioninfo/
 ---
 ## OptionInfo constructor
 
-Инициализирует новый экземпляр класса[`OptionInfo`](../../optioninfo).
+Инициализирует новый экземпляр[`OptionInfo`](../../optioninfo) класс.
 
 ```csharp
 public OptionInfo()

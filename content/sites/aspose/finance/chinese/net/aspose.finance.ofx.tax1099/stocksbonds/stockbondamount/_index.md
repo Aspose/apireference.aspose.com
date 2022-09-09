@@ -1,14 +1,14 @@
 ---
 title: StockBondAmount
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置股票债券等数量
+description: 获取或设置股票债券等的数量
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.ofx.tax1099/stocksbonds/stockbondamount/
 ---
 ## StocksBonds.StockBondAmount property
 
-获取或设置股票、债券等数量。
+获取或设置股票、债券等的数量
 
 ```csharp
 public string StockBondAmount { get; set; }

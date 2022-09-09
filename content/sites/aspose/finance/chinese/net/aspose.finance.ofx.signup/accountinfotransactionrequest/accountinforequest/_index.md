@@ -1,14 +1,14 @@
 ---
 title: AccountInfoRequest
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置AccountInfoRequestaspose.finance.ofx.signup/accountinfotransactionrequest/accountinforequest
+description: 获取或设置AccountInfoRequestaspose.finance.ofx.signup/accountinfotransactionrequest/accountinforequest.
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.ofx.signup/accountinfotransactionrequest/accountinforequest/
 ---
 ## AccountInfoTransactionRequest.AccountInfoRequest property
 
-获取或设置`AccountInfoRequest`。
+获取或设置`AccountInfoRequest`.
 
 ```csharp
 public AccountInfoRequest AccountInfoRequest { get; set; }

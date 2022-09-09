@@ -1,14 +1,14 @@
 ---
 title: OtherInfo
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаOtherInfoaspose.finance.ofx.securitieslist/otherinfo.
+description: Инициализирует новый экземплярOtherInfoaspose.finance.ofx.securitieslist/otherinfo класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.securitieslist/otherinfo/otherinfo/
 ---
 ## OtherInfo constructor
 
-Инициализирует новый экземпляр класса[`OtherInfo`](../../otherinfo).
+Инициализирует новый экземпляр[`OtherInfo`](../../otherinfo) класс.
 
 ```csharp
 public OtherInfo()

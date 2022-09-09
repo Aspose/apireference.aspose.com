@@ -1,14 +1,14 @@
 ---
 title: DepositMailResponse
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаDepositMailResponseaspose.finance.ofx.bank/depositmailresponse.
+description: Инициализирует новый экземплярDepositMailResponseaspose.finance.ofx.bank/depositmailresponse класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.bank/depositmailresponse/depositmailresponse/
 ---
 ## DepositMailResponse constructor
 
-Инициализирует новый экземпляр класса[`DepositMailResponse`](../../depositmailresponse).
+Инициализирует новый экземпляр[`DepositMailResponse`](../../depositmailresponse) класс.
 
 ```csharp
 public DepositMailResponse()

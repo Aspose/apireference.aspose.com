@@ -1,14 +1,14 @@
 ---
 title: Country
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置客户所在的国家/地区来自 ISO/DIS-3166 的 3 个字母的国家/地区代码
+description: 获取或设置客户所在的国家来自 ISO/DIS3166. 的 3 个字母的国家/地区代码
 type: docs
 weight: 70
 url: /zh/net/aspose.finance.ofx/presentmentnameaddress/country/
 ---
 ## PresentmentNameAddress.Country property
 
-获取或设置客户所在的国家/地区。来自 ISO/DIS-3166 的 3 个字母的国家/地区代码。
+获取或设置客户所在的国家。来自 ISO/DIS-3166. 的 3 个字母的国家/地区代码
 
 ```csharp
 public string Country { get; set; }

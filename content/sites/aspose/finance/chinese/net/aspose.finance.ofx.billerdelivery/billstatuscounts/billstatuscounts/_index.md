@@ -1,14 +1,14 @@
 ---
 title: BillStatusCounts
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化BillStatusCountsaspose.finance.ofx.billerdelivery/billstatuscounts类的新实例
+description: 初始化一个新的实例BillStatusCountsaspose.finance.ofx.billerdelivery/billstatuscounts类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.billerdelivery/billstatuscounts/billstatuscounts/
 ---
 ## BillStatusCounts constructor
 
-初始化[`BillStatusCounts`](../../billstatuscounts)类的新实例。
+初始化一个新的实例[`BillStatusCounts`](../../billstatuscounts)类.
 
 ```csharp
 public BillStatusCounts()

@@ -1,14 +1,14 @@
 ---
 title: StopCheckTransactionRequests
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置StopCheckTransactionRequestaspose.finance.ofx.bank/stopchecktransactionrequest的集合
+description: 获取或设置的集合StopCheckTransactionRequestaspose.finance.ofx.bank/stopchecktransactionrequest.
 type: docs
 weight: 110
 url: /zh/net/aspose.finance.ofx/bankrequestmessagesetv1/stopchecktransactionrequests/
 ---
 ## BankRequestMessageSetV1.StopCheckTransactionRequests property
 
-获取或设置[`StopCheckTransactionRequest`](../../../aspose.finance.ofx.bank/stopchecktransactionrequest)的集合。
+获取或设置的集合[`StopCheckTransactionRequest`](../../../aspose.finance.ofx.bank/stopchecktransactionrequest).
 
 ```csharp
 public List<StopCheckTransactionRequest> StopCheckTransactionRequests { get; set; }

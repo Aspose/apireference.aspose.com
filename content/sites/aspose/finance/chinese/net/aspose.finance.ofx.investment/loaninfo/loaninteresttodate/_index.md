@@ -1,14 +1,14 @@
 ---
 title: LoanInterestToDate
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置迄今为止为此贷款支付的利息总额
+description: 获取或设置该贷款迄今为止支付的利息总额
 type: docs
 weight: 70
 url: /zh/net/aspose.finance.ofx.investment/loaninfo/loaninteresttodate/
 ---
 ## LoanInfo.LoanInterestToDate property
 
-获取或设置迄今为止为此贷款支付的利息总额。
+获取或设置该贷款迄今为止支付的利息总额。
 
 ```csharp
 public string LoanInterestToDate { get; set; }

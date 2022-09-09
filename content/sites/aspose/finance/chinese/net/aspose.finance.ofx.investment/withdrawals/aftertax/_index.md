@@ -1,14 +1,14 @@
 ---
 title: AfterTax
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置税后取款
+description: 获取或设置税后提款
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.ofx.investment/withdrawals/aftertax/
 ---
 ## Withdrawals.AfterTax property
 
-获取或设置税后取款。
+获取或设置税后提款。
 
 ```csharp
 public string AfterTax { get; set; }

@@ -8,7 +8,7 @@ url: /zh/net/aspose.finance.ofx.tax1099/addlstatetaxwheldaggregate/statecode/
 ---
 ## AddlStateTaxWheldAggregate.StateCode property
 
-获取或设置付款人的状态码。
+获取或设置付款人的状态码
 
 ```csharp
 public string StateCode { get; set; }

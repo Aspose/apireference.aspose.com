@@ -1,14 +1,14 @@
 ---
 title: ProfileRequest
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаProfileRequestaspose.finance.ofx.profile/profilerequest.
+description: Инициализирует новый экземплярProfileRequestaspose.finance.ofx.profile/profilerequest класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.profile/profilerequest/profilerequest/
 ---
 ## ProfileRequest constructor
 
-Инициализирует новый экземпляр класса[`ProfileRequest`](../../profilerequest).
+Инициализирует новый экземпляр[`ProfileRequest`](../../profilerequest) класс.
 
 ```csharp
 public ProfileRequest()

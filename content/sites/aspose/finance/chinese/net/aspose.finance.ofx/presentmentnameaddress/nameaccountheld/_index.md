@@ -1,14 +1,14 @@
 ---
 title: NameAccountHeld
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置出现在帐户上的客户姓名
+description: 获取或设置客户在帐户上显示的姓名
 type: docs
 weight: 100
 url: /zh/net/aspose.finance.ofx/presentmentnameaddress/nameaccountheld/
 ---
 ## PresentmentNameAddress.NameAccountHeld property
 
-获取或设置出现在帐户上的客户姓名。
+获取或设置客户在帐户上显示的姓名。
 
 ```csharp
 public string NameAccountHeld { get; set; }

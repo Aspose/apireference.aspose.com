@@ -1,14 +1,14 @@
 ---
 title: InterSyncRequests
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает коллекциюInterSyncRequestaspose.finance.ofx.intertransfer/intersyncrequest.
+description: Получает или задает коллекциюInterSyncRequestaspose.finance.ofx.intertransfer/intersyncrequest .
 type: docs
 weight: 20
 url: /ru/net/aspose.finance.ofx/intertransferrequestmessagesetv1/intersyncrequests/
 ---
 ## InterTransferRequestMessageSetV1.InterSyncRequests property
 
-Получает или задает коллекцию[`InterSyncRequest`](../../../aspose.finance.ofx.intertransfer/intersyncrequest).
+Получает или задает коллекцию[`InterSyncRequest`](../../../aspose.finance.ofx.intertransfer/intersyncrequest) .
 
 ```csharp
 public List<InterSyncRequest> InterSyncRequests { get; set; }

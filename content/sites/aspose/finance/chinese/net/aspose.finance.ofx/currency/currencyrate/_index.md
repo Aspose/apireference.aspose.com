@@ -1,14 +1,14 @@
 ---
 title: CurrencyRate
 second_title: Aspose.Finance for .NET API 参考
-description: 以十进制表示法获取或设置比率
+description: 获取或设置比率以十进制表示
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.ofx/currency/currencyrate/
 ---
 ## Currency.CurrencyRate property
 
-以十进制表示法获取或设置比率。
+获取或设置比率，以十进制表示。
 
 ```csharp
 public string CurrencyRate { get; set; }

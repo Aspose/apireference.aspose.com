@@ -1,14 +1,14 @@
 ---
 title: ProfileTransactionRequest
 second_title: Aspose.Finance for .NET API 参考
-description: Profile 事务请求类
+description: 配置文件事务请求类
 type: docs
 weight: 4720
 url: /zh/net/aspose.finance.ofx.profile/profiletransactionrequest/
 ---
 ## ProfileTransactionRequest class
 
-Profile 事务请求类。
+配置文件事务请求类。
 
 ```csharp
 public class ProfileTransactionRequest : AbstractTransactionRequest
@@ -18,16 +18,16 @@ public class ProfileTransactionRequest : AbstractTransactionRequest
 
 | 姓名 | 描述 |
 | --- | --- |
-| [ProfileTransactionRequest](profiletransactionrequest)() | 初始化[`ProfileTransactionRequest`](../profiletransactionrequest)类的新实例。 |
+| [ProfileTransactionRequest](profiletransactionrequest)() | 初始化一个新的实例[`ProfileTransactionRequest`](../profiletransactionrequest)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
 | [ClientCookie](../../aspose.finance.ofx/abstracttransactionrequest/clientcookie) { get; set; } | 获取或设置要在事务响应中回显的数据 |
-| [OfxExtension](../../aspose.finance.ofx.profile/profiletransactionrequest/ofxextension) { get; set; } | 获取或设置[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype)。 |
-| [ProfileRequest](../../aspose.finance.ofx.profile/profiletransactionrequest/profilerequest) { get; set; } | 获取或设置[`ProfileRequest`](./profilerequest)。 |
-| [TransactionAuthorizationNumber](../../aspose.finance.ofx/abstracttransactionrequest/transactionauthorizationnumber) { get; set; } | 获取或设置交易授权号。 |
+| [OfxExtension](../../aspose.finance.ofx.profile/profiletransactionrequest/ofxextension) { get; set; } | 获取或设置[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
+| [ProfileRequest](../../aspose.finance.ofx.profile/profiletransactionrequest/profilerequest) { get; set; } | 获取或设置[`ProfileRequest`](./profilerequest). |
+| [TransactionAuthorizationNumber](../../aspose.finance.ofx/abstracttransactionrequest/transactionauthorizationnumber) { get; set; } | 获取或设置交易授权号 |
 | [TransactionUniqueId](../../aspose.finance.ofx/abstracttransactionrequest/transactionuniqueid) { get; set; } | 获取或设置此事务的客户端分配的全局唯一 ID |
 
 ### 也可以看看

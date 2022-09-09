@@ -1,14 +1,14 @@
 ---
 title: Refresh
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает запрос на обновление текущего состояния.
+description: Получает или устанавливает запрос на обновление текущего состояния.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx/abstractsyncrequest/refresh/
 ---
 ## AbstractSyncRequest.Refresh property
 
-Получает или задает запрос на обновление текущего состояния.
+Получает или устанавливает запрос на обновление текущего состояния.
 
 ```csharp
 public bool Refresh { get; set; }

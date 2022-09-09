@@ -1,14 +1,14 @@
 ---
 title: InvestmentStatementEndTransactionRequests
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает коллекциюInvestmentStatementEndTransactionRequestaspose.finance.ofx.investment/investmentstatementendtransactionrequest.
+description: Получает или задает коллекциюInvestmentStatementEndTransactionRequestaspose.finance.ofx.investment/investmentstatementendtransactionrequest .
 type: docs
 weight: 40
 url: /ru/net/aspose.finance.ofx/investmentstatementrequestmessagesetv1/investmentstatementendtransactionrequests/
 ---
 ## InvestmentStatementRequestMessageSetV1.InvestmentStatementEndTransactionRequests property
 
-Получает или задает коллекцию[`InvestmentStatementEndTransactionRequest`](../../../aspose.finance.ofx.investment/investmentstatementendtransactionrequest).
+Получает или задает коллекцию[`InvestmentStatementEndTransactionRequest`](../../../aspose.finance.ofx.investment/investmentstatementendtransactionrequest) .
 
 ```csharp
 public List<InvestmentStatementEndTransactionRequest> 

@@ -1,14 +1,14 @@
 ---
 title: Max
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置最大密码字符数
+description: 获取或设置密码字符的最大个数
 type: docs
 weight: 100
 url: /zh/net/aspose.finance.ofx.profile/signoninfo/max/
 ---
 ## SignonInfo.Max property
 
-获取或设置最大密码字符数
+获取或设置密码字符的最大个数
 
 ```csharp
 public string Max { get; set; }

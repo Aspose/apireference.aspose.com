@@ -1,14 +1,14 @@
 ---
 title: ValidationErrors
 second_title: Aspose.Finance for .NET API 参考
-description: 获取内联 XBRL 文档中ValidationErroraspose.finance.xbrl.validator/validationerror的集合
+description: 获取集合ValidationErroraspose.finance.xbrl.validator/validationerror在内联 XBRL 文档中
 type: docs
 weight: 110
 url: /zh/net/aspose.finance.xbrl.inline/inlinexbrldocument/validationerrors/
 ---
 ## InlineXbrlDocument.ValidationErrors property
 
-获取内联 XBRL 文档中[`ValidationError`](../../../aspose.finance.xbrl.validator/validationerror)的集合。
+获取集合[`ValidationError`](../../../aspose.finance.xbrl.validator/validationerror)在内联 XBRL 文档中。
 
 ```csharp
 public List<ValidationError> ValidationErrors { get; set; }

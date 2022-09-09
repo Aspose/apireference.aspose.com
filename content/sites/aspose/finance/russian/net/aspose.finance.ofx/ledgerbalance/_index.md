@@ -18,7 +18,7 @@ public class LedgerBalance
 
 | Имя | Описание |
 | --- | --- |
-| [LedgerBalance](ledgerbalance)() | Инициализирует новый экземпляр класса[`LedgerBalance`](../ledgerbalance). |
+| [LedgerBalance](ledgerbalance)() | Инициализирует новый экземпляр[`LedgerBalance`](../ledgerbalance) класс. |
 
 ## Характеристики
 

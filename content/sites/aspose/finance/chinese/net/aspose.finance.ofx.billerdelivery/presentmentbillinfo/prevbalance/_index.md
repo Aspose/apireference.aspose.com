@@ -1,14 +1,14 @@
 ---
 title: PrevBalance
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置上一期的账户余额
+description: 获取或设置账户上一期的余额
 type: docs
 weight: 210
 url: /zh/net/aspose.finance.ofx.billerdelivery/presentmentbillinfo/prevbalance/
 ---
 ## PresentmentBillInfo.PrevBalance property
 
-获取或设置上一期的账户余额。
+获取或设置账户上一期的余额。
 
 ```csharp
 public string PrevBalance { get; set; }

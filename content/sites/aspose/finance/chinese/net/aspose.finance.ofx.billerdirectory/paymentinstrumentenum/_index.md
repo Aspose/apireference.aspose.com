@@ -18,7 +18,7 @@ public enum PaymentInstrumentEnum
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| CONCENTRATOR | `0` | 与开票人有业务协议的组织，可向开票人发送资金和汇款通知。 |
+| CONCENTRATOR | `0` | 与开票人有业务协议以向开票人发送资金和汇款通知的组织。 |
 | CHECKINGACCOUNT | `1` | 活期存款账户汇票（美国） |
 | CREDITCARD | `2` | 使用信用卡网络通过身份验证/结算付款 |
 | ECOIN | `3` | 电子现金支付协议 |

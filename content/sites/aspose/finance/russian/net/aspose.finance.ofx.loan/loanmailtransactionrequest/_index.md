@@ -1,14 +1,14 @@
 ---
 title: LoanMailTransactionRequest
 second_title: Справочник по API Aspose.Finance для .NET
-description: Класс запросов на получение кредита по электронной почте.
+description: Класс запроса на получение кредита по электронной почте.
 type: docs
 weight: 3880
 url: /ru/net/aspose.finance.ofx.loan/loanmailtransactionrequest/
 ---
 ## LoanMailTransactionRequest class
 
-Класс запросов на получение кредита по электронной почте.
+Класс запроса на получение кредита по электронной почте.
 
 ```csharp
 public class LoanMailTransactionRequest : AbstractTransactionRequest
@@ -18,15 +18,15 @@ public class LoanMailTransactionRequest : AbstractTransactionRequest
 
 | Имя | Описание |
 | --- | --- |
-| [LoanMailTransactionRequest](loanmailtransactionrequest)() | Инициализирует новый экземпляр класса[`LoanMailTransactionRequest`](../loanmailtransactionrequest). |
+| [LoanMailTransactionRequest](loanmailtransactionrequest)() | Инициализирует новый экземпляр[`LoanMailTransactionRequest`](../loanmailtransactionrequest) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [ClientCookie](../../aspose.finance.ofx/abstracttransactionrequest/clientcookie) { get; set; } | Получает или задает данные, которые будут отображаться в ответе транзакции |
-| [LoanMailRequest](../../aspose.finance.ofx.loan/loanmailtransactionrequest/loanmailrequest) { get; set; } | Получает или задает[`LoanMailRequest`](./loanmailrequest). |
-| [OfxExtension](../../aspose.finance.ofx.loan/loanmailtransactionrequest/ofxextension) { get; set; } | Получает или задает[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
+| [ClientCookie](../../aspose.finance.ofx/abstracttransactionrequest/clientcookie) { get; set; } | Получает или задает данные, которые будут отражены в транзакции response |
+| [LoanMailRequest](../../aspose.finance.ofx.loan/loanmailtransactionrequest/loanmailrequest) { get; set; } | Получает или задает[`LoanMailRequest`](./loanmailrequest) . |
+| [OfxExtension](../../aspose.finance.ofx.loan/loanmailtransactionrequest/ofxextension) { get; set; } | Получает или задает[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype) . |
 | [TransactionAuthorizationNumber](../../aspose.finance.ofx/abstracttransactionrequest/transactionauthorizationnumber) { get; set; } | Получает или задает номер авторизации транзакции. |
 | [TransactionUniqueId](../../aspose.finance.ofx/abstracttransactionrequest/transactionuniqueid) { get; set; } | Получает или задает назначенный клиентом глобальный уникальный идентификатор для этой транзакции |
 

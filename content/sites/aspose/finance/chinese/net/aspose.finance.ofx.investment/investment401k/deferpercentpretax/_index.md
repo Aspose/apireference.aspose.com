@@ -1,14 +1,14 @@
 ---
 title: DeferPercentPreTax
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置税前递延的员工工资百分比
+description: 获取或设置税前递延员工工资的百分比
 type: docs
 weight: 60
 url: /zh/net/aspose.finance.ofx.investment/investment401k/deferpercentpretax/
 ---
 ## Investment401k.DeferPercentPreTax property
 
-获取或设置税前递延的员工工资百分比。
+获取或设置税前递延员工工资的百分比。
 
 ```csharp
 public string DeferPercentPreTax { get; set; }

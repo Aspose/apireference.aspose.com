@@ -1,14 +1,14 @@
 ---
 title: PrimaryHolder
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает первичный объектAccountHolderTypeaspose.finance.ofx/accountholdertype.
+description: Получает или задает первичныйAccountHolderTypeaspose.finance.ofx/accountholdertype .
 type: docs
 weight: 20
 url: /ru/net/aspose.finance.ofx/holderinfotype/primaryholder/
 ---
 ## HolderInfoType.PrimaryHolder property
 
-Получает или задает первичный объект[`AccountHolderType`](../../accountholdertype).
+Получает или задает первичный[`AccountHolderType`](../../accountholdertype) .
 
 ```csharp
 public AccountHolderType PrimaryHolder { get; set; }

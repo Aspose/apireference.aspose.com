@@ -1,14 +1,14 @@
 ---
 title: OpenOrderSellStock
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаOpenOrderSellStockaspose.finance.ofx.investment/openordersellstock.
+description: Инициализирует новый экземплярOpenOrderSellStockaspose.finance.ofx.investment/openordersellstock класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.investment/openordersellstock/openordersellstock/
 ---
 ## OpenOrderSellStock constructor
 
-Инициализирует новый экземпляр класса[`OpenOrderSellStock`](../../openordersellstock).
+Инициализирует новый экземпляр[`OpenOrderSellStock`](../../openordersellstock) класс.
 
 ```csharp
 public OpenOrderSellStock()

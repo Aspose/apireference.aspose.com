@@ -1,14 +1,14 @@
 ---
 title: WashSale
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает распродажу стирки. Указывает на то что продажа регулируется правилами распродажи.
+description: Получает или задает распродажу стирки. Указывает что продажа регулируется правилами распродажи.
 type: docs
 weight: 230
 url: /ru/net/aspose.finance.ofx.tax1099/proceeddescription_v100/washsale/
 ---
 ## ProceedDescription_V100.WashSale property
 
-Получает или задает распродажу стирки. Указывает на то, что продажа регулируется правилами распродажи.
+Получает или задает распродажу стирки. Указывает, что продажа регулируется правилами распродажи.
 
 ```csharp
 public bool WashSale { get; set; }

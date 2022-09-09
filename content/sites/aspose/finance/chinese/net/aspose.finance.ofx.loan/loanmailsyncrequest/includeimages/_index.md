@@ -1,14 +1,14 @@
 ---
 title: IncludeImages
 second_title: Aspose.Finance for .NET API 参考
-description: 是如果客户端接受邮件正文中包含图像的邮件如果客户端不接受邮件正文中包含图像的邮件则否
+description: 如果客户端接受邮件正文中包含图像的邮件则为是如果客户端不接受邮件正文中包含图像的邮件则否
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.ofx.loan/loanmailsyncrequest/includeimages/
 ---
 ## LoanMailSyncRequest.IncludeImages property
 
-是，如果客户端接受邮件正文中包含图像的邮件。如果客户端不接受邮件正文中包含图像的邮件，则否。
+如果客户端接受邮件正文中包含图像的邮件，则为是。如果客户端不接受邮件正文中包含图像的邮件，则否。
 
 ```csharp
 public bool IncludeImages { get; set; }

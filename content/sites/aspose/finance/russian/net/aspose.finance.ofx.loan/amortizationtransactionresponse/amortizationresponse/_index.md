@@ -1,14 +1,14 @@
 ---
 title: AmortizationResponse
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задаетAmortizationResponseaspose.finance.ofx.loan/amortizationtransactionresponse/amortizationresponse.
+description: Получает или задаетAmortizationResponseaspose.finance.ofx.loan/amortizationtransactionresponse/amortizationresponse .
 type: docs
 weight: 20
 url: /ru/net/aspose.finance.ofx.loan/amortizationtransactionresponse/amortizationresponse/
 ---
 ## AmortizationTransactionResponse.AmortizationResponse property
 
-Получает или задает`AmortizationResponse`.
+Получает или задает`AmortizationResponse` .
 
 ```csharp
 public AmortizationResponse AmortizationResponse { get; set; }

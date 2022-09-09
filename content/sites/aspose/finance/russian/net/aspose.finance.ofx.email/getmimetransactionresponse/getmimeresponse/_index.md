@@ -1,14 +1,14 @@
 ---
 title: GetMimeResponse
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задаетGetMimeResponseaspose.finance.ofx.email/getmimetransactionresponse/getmimeresponse.
+description: Получает или задаетGetMimeResponseaspose.finance.ofx.email/getmimetransactionresponse/getmimeresponse .
 type: docs
 weight: 20
 url: /ru/net/aspose.finance.ofx.email/getmimetransactionresponse/getmimeresponse/
 ---
 ## GetMimeTransactionResponse.GetMimeResponse property
 
-Получает или задает`GetMimeResponse`.
+Получает или задает`GetMimeResponse` .
 
 ```csharp
 public GetMimeResponse GetMimeResponse { get; set; }

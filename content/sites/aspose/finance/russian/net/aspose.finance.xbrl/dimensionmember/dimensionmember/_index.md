@@ -1,14 +1,14 @@
 ---
 title: DimensionMember
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр типизированного классаDimensionMemberaspose.finance.xbrl/dimensionmember.
+description: Инициализирует новый экземпляр типизированногоDimensionMemberaspose.finance.xbrl/dimensionmember класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.xbrl/dimensionmember/dimensionmember/
 ---
 ## DimensionMember(Concept, Element) {#constructor_1}
 
-Инициализирует новый экземпляр типизированного класса[`DimensionMember`](../../dimensionmember).
+Инициализирует новый экземпляр типизированного[`DimensionMember`](../../dimensionmember) класс.
 
 ```csharp
 public DimensionMember(Concept dimensionConcept, Element typeMember)
@@ -16,7 +16,7 @@ public DimensionMember(Concept dimensionConcept, Element typeMember)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| dimensionConcept | Concept | Концепция измерения. |
+| dimensionConcept | Concept | Концепция размерности. |
 | typeMember | Element | Типизированный элемент-член. |
 
 ### Смотрите также
@@ -31,7 +31,7 @@ public DimensionMember(Concept dimensionConcept, Element typeMember)
 
 ## DimensionMember(Concept, Concept) {#constructor}
 
-Инициализирует новый экземпляр явного класса[`DimensionMember`](../../dimensionmember).
+Инициализирует новый экземпляр явного[`DimensionMember`](../../dimensionmember) класс.
 
 ```csharp
 public DimensionMember(Concept dimensionConcept, Concept explicitMemberConcept)
@@ -39,8 +39,8 @@ public DimensionMember(Concept dimensionConcept, Concept explicitMemberConcept)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| dimensionConcept | Concept | Концепция измерения. |
-| explicitMemberConcept | Concept | Явное понятие члена. |
+| dimensionConcept | Concept | Концепция размерности. |
+| explicitMemberConcept | Concept | Явная концепция члена. |
 
 ### Смотрите также
 

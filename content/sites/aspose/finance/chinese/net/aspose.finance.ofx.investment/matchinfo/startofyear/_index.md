@@ -1,14 +1,14 @@
 ---
 title: StartOfYear
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置重置雇主贡献最大值的时间一些 计划的最大值基于公司财政年度而不是 而不是日历年如果省略则假定日历年仅使用 月和日MMDD年YYYY和时间被忽略
+description: 获取或设置重置雇主贡献最大值的时间 Some 计划的最大值基于公司会计年度而不是 而不是日历年如果省略则假定为日历年仅使用 月和日 MMDD年YYYY和时间被忽略
 type: docs
 weight: 70
 url: /zh/net/aspose.finance.ofx.investment/matchinfo/startofyear/
 ---
 ## MatchInfo.StartOfYear property
 
-获取或设置重置雇主贡献最大值的时间。一些 计划的最大值基于公司财政年度而不是 而不是日历年。如果省略则假定日历年。仅使用 月和日（MMDD）；年（YYYY）和时间被忽略。
+获取或设置重置雇主贡献最大值的时间。 Some 计划的最大值基于公司会计年度，而不是 而不是日历年。如果省略，则假定为日历年。仅使用 月和日 (MMDD)；年（YYYY）和时间被忽略。
 
 ```csharp
 public string StartOfYear { get; set; }

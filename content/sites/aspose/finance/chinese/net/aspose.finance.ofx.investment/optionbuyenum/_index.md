@@ -18,8 +18,8 @@ public enum OptionBuyEnum
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| BUYTOOPEN | `0` | 购买打开 |
-| BUYTOCLOSE | `1` | 买入关闭 |
+| BUYTOOPEN | `0` | 买开 |
+| BUYTOCLOSE | `1` | 买入平仓 |
 
 ### 也可以看看
 

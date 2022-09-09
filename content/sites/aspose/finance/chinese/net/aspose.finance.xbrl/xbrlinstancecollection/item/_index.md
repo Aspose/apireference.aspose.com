@@ -1,14 +1,14 @@
 ---
 title: Item
 second_title: Aspose.Finance for .NET API 参考
-description: 获取并设置集合中指定索引处的XbrlInstanceaspose.finance.xbrl/xbrlinstance项目
+description: 获取和设置XbrlInstanceaspose.finance.xbrl/xbrlinstance集合中指定索引处的项目
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.xbrl/xbrlinstancecollection/item/
 ---
 ## XbrlInstanceCollection indexer
 
-获取并设置集合中指定索引处的[`XbrlInstance`](../../xbrlinstance)项目。
+获取和设置[`XbrlInstance`](../../xbrlinstance)集合中指定索引处的项目。
 
 ```csharp
 public XbrlInstance this[int index] { get; set; }

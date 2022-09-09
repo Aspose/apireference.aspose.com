@@ -3,7 +3,7 @@ title: XbrlExceptionType
 second_title: Aspose.Finance for .NET API 参考
 description: 表示自定义异常类型代码
 type: docs
-weight: 8180
+weight: 8190
 url: /zh/net/aspose.finance.xbrl/xbrlexceptiontype/
 ---
 ## XbrlExceptionType enumeration

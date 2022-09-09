@@ -1,14 +1,14 @@
 ---
 title: ExtendedPaymentInvoice
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаExtendedPaymentInvoiceaspose.finance.ofx.billpay/extendedpaymentinvoice.
+description: Инициализирует новый экземплярExtendedPaymentInvoiceaspose.finance.ofx.billpay/extendedpaymentinvoice класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.billpay/extendedpaymentinvoice/extendedpaymentinvoice/
 ---
 ## ExtendedPaymentInvoice constructor
 
-Инициализирует новый экземпляр класса[`ExtendedPaymentInvoice`](../../extendedpaymentinvoice).
+Инициализирует новый экземпляр[`ExtendedPaymentInvoice`](../../extendedpaymentinvoice) класс.
 
 ```csharp
 public ExtendedPaymentInvoice()

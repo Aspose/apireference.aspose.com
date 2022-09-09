@@ -1,14 +1,14 @@
 ---
 title: Employee
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задаетEmployeeaspose.finance.ofx.taxw2/taxw2_v100/employee.
+description: Получает или задаетEmployeeaspose.finance.ofx.taxw2/taxw2_v100/employee .
 type: docs
 weight: 60
 url: /ru/net/aspose.finance.ofx.taxw2/taxw2_v100/employee/
 ---
 ## TaxW2_V100.Employee property
 
-Получает или задает`Employee`.
+Получает или задает`Employee` .
 
 ```csharp
 public Employee Employee { get; set; }

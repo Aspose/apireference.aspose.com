@@ -1,14 +1,14 @@
 ---
 title: FootnoteLinks
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置 XBRL 实例中FootnoteLinkaspose.finance.xbrl/footnotelink对象的集合
+description: 获取或设置的集合FootnoteLinkaspose.finance.xbrl/footnotelink XBRL 实例中的对象
 type: docs
 weight: 40
 url: /zh/net/aspose.finance.xbrl/xbrlinstance/footnotelinks/
 ---
 ## XbrlInstance.FootnoteLinks property
 
-获取或设置 XBRL 实例中[`FootnoteLink`](../../footnotelink)对象的集合。
+获取或设置的集合[`FootnoteLink`](../../footnotelink) XBRL 实例中的对象。
 
 ```csharp
 public List<FootnoteLink> FootnoteLinks { get; set; }

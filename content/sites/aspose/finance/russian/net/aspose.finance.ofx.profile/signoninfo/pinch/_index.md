@@ -1,7 +1,7 @@
 ---
 title: Pinch
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает поддерживает ли сервер запросы на изменение PIN-кода.
+description: Получает или задает поддерживает ли сервер запросы на изменение PINкода.
 type: docs
 weight: 140
 url: /ru/net/aspose.finance.ofx.profile/signoninfo/pinch/

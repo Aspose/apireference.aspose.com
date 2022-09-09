@@ -1,14 +1,14 @@
 ---
 title: WireSyncRequests
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает коллекциюWireSyncRequestaspose.finance.ofx.wiretransfer/wiresyncrequest.
+description: Получает или задает коллекциюWireSyncRequestaspose.finance.ofx.wiretransfer/wiresyncrequest .
 type: docs
 weight: 20
 url: /ru/net/aspose.finance.ofx/wiretransferrequestmessagesetv1/wiresyncrequests/
 ---
 ## WireTransferRequestMessageSetV1.WireSyncRequests property
 
-Получает или задает коллекцию[`WireSyncRequest`](../../../aspose.finance.ofx.wiretransfer/wiresyncrequest).
+Получает или задает коллекцию[`WireSyncRequest`](../../../aspose.finance.ofx.wiretransfer/wiresyncrequest) .
 
 ```csharp
 public List<WireSyncRequest> WireSyncRequests { get; set; }

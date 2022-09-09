@@ -1,14 +1,14 @@
 ---
 title: PrincipalBalance
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置PrincipalBalanceTypeaspose.finance.ofx/principalbalancetype
+description: 获取或设置PrincipalBalanceTypeaspose.finance.ofx/principalbalancetype.
 type: docs
 weight: 230
 url: /zh/net/aspose.finance.ofx.loan/loanclosing/principalbalance/
 ---
 ## LoanClosing.PrincipalBalance property
 
-获取或设置[`PrincipalBalanceType`](../../../aspose.finance.ofx/principalbalancetype)。
+获取或设置[`PrincipalBalanceType`](../../../aspose.finance.ofx/principalbalancetype).
 
 ```csharp
 public PrincipalBalanceType PrincipalBalance { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: Order
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает порядокInlineNonnumericaspose.finance.xbrl.inline/inlinenonnumeric.
+description: Получает или задает порядокInlineNonnumericaspose.finance.xbrl.inline/inlinenonnumeric .
 type: docs
 weight: 50
 url: /ru/net/aspose.finance.xbrl.inline/inlinenonnumeric/order/
 ---
 ## InlineNonnumeric.Order property
 
-Получает или задает порядок[`InlineNonnumeric`](../../inlinenonnumeric).
+Получает или задает порядок[`InlineNonnumeric`](../../inlinenonnumeric) .
 
 ```csharp
 public decimal Order { get; set; }

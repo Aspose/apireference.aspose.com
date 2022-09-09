@@ -18,14 +18,14 @@ public class SellDebt : AbstractInvestmentSellTransaction
 
 | Имя | Описание |
 | --- | --- |
-| [SellDebt](selldebt)() | Инициализирует новый экземпляр класса[`SellDebt`](../selldebt). |
+| [SellDebt](selldebt)() | Инициализирует новый экземпляр[`SellDebt`](../selldebt) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [AccruedInterest](../../aspose.finance.ofx.investment/selldebt/accruedinterest) { get; set; } | Получает или задает начисленные проценты. |
-| [InvestmentSell](../../aspose.finance.ofx.investment/abstractinvestmentselltransaction/investmentsell) { get; set; } | Получает или задает[`InvestmentSell`](../abstractinvestmentselltransaction/investmentsell). |
+| [AccruedInterest](../../aspose.finance.ofx.investment/selldebt/accruedinterest) { get; set; } | Получает или задает начисленный процент. |
+| [InvestmentSell](../../aspose.finance.ofx.investment/abstractinvestmentselltransaction/investmentsell) { get; set; } | Получает или задает[`InvestmentSell`](../abstractinvestmentselltransaction/investmentsell) . |
 | [SellReason](../../aspose.finance.ofx.investment/selldebt/sellreason) { get; set; } | Получает или задает причину продажи долговой ценной бумаги. |
 
 ### Смотрите также

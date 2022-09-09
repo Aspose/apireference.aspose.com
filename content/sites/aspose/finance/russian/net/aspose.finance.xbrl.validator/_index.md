@@ -12,12 +12,13 @@ url: /ru/net/aspose.finance.xbrl.validator/
 
 | Учебный класс | Описание |
 | --- | --- |
-| [ArcValidationError](./arcvalidationerror) | Этот класс предназначен для ошибок, связанных с проверкой дуги. |
+| [ArcValidationError](./arcvalidationerror) | Этот класс предназначен для ошибки, связанной с проверкой дуги. |
 | [ContextValidationError](./contextvalidationerror) | Этот класс предназначен для ошибок, связанных с проверкой контекста. |
 | [FactValidationError](./factvalidationerror) | Этот класс предназначен для ошибок, связанных с проверкой фактов. |
 | [InlineFactValidationError](./inlinefactvalidationerror) |  |
 | [InlineRelationshipError](./inlinerelationshiperror) |  |
 | [InlineValidationError](./inlinevalidationerror) |  |
+| [SchemaRefValidationError](./schemarefvalidationerror) | Этот класс предназначен для ошибки, связанной с проверкой дуги. |
 | [ValidationError](./validationerror) | этот класс предназначен для базового класса ошибок, связанных с проверкой. |
 ## перечисление
 

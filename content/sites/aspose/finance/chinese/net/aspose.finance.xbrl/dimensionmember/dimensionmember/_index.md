@@ -1,14 +1,14 @@
 ---
 title: DimensionMember
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化类型化DimensionMemberaspose.finance.xbrl/dimensionmember类的新实例
+description: 初始化一个新的 typed 实例DimensionMemberaspose.finance.xbrl/dimensionmember类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.xbrl/dimensionmember/dimensionmember/
 ---
 ## DimensionMember(Concept, Element) {#constructor_1}
 
-初始化类型化[`DimensionMember`](../../dimensionmember)类的新实例。
+初始化一个新的 typed 实例[`DimensionMember`](../../dimensionmember)类.
 
 ```csharp
 public DimensionMember(Concept dimensionConcept, Element typeMember)
@@ -31,7 +31,7 @@ public DimensionMember(Concept dimensionConcept, Element typeMember)
 
 ## DimensionMember(Concept, Concept) {#constructor}
 
-初始化显式[`DimensionMember`](../../dimensionmember)类的新实例。
+初始化显式的新实例[`DimensionMember`](../../dimensionmember)类.
 
 ```csharp
 public DimensionMember(Concept dimensionConcept, Concept explicitMemberConcept)

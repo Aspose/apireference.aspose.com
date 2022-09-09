@@ -1,14 +1,14 @@
 ---
 title: PrincipalBalanceType
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаPrincipalBalanceTypeaspose.finance.ofx/principalbalancetype.
+description: Инициализирует новый экземплярPrincipalBalanceTypeaspose.finance.ofx/principalbalancetype класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx/principalbalancetype/principalbalancetype/
 ---
 ## PrincipalBalanceType constructor
 
-Инициализирует новый экземпляр класса[`PrincipalBalanceType`](../../principalbalancetype).
+Инициализирует новый экземпляр[`PrincipalBalanceType`](../../principalbalancetype) класс.
 
 ```csharp
 public PrincipalBalanceType()

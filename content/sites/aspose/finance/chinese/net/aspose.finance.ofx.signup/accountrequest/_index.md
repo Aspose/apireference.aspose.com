@@ -18,14 +18,14 @@ public class AccountRequest
 
 | 姓名 | 描述 |
 | --- | --- |
-| [AccountRequest](accountrequest)() | 初始化[`AccountRequest`](../accountrequest)类的新实例。 |
+| [AccountRequest](accountrequest)() | 初始化一个新的实例[`AccountRequest`](../accountrequest)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
 | [Service](../../aspose.finance.ofx.signup/accountrequest/service) { get; set; } | 获取或设置要添加/更改/删除的服务。 |
-| [ServiceAction](../../aspose.finance.ofx.signup/accountrequest/serviceaction) { get; set; } | 获取或设置[`ServiceAdd`](../serviceadd)或[`ServiceChange`](../servicechange)或[`ServiceDelete`](../servicedelete)。 |
+| [ServiceAction](../../aspose.finance.ofx.signup/accountrequest/serviceaction) { get; set; } | 获取或设置[`ServiceAdd`](../serviceadd)或者[`ServiceChange`](../servicechange)或者[`ServiceDelete`](../servicedelete). |
 
 ### 也可以看看
 

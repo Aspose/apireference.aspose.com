@@ -1,14 +1,14 @@
 ---
 title: InvestmentPositionList
 second_title: Aspose.Finance for .NET API 参考
-description: 投资头寸列表类
+description: 投资头寸清单类
 type: docs
 weight: 3050
 url: /zh/net/aspose.finance.ofx.investment/investmentpositionlist/
 ---
 ## InvestmentPositionList class
 
-投资头寸列表类。
+投资头寸清单类
 
 ```csharp
 public class InvestmentPositionList
@@ -18,13 +18,13 @@ public class InvestmentPositionList
 
 | 姓名 | 描述 |
 | --- | --- |
-| [InvestmentPositionList](investmentpositionlist)() | 初始化[`InvestmentPositionList`](../investmentpositionlist)类的新实例。 |
+| [InvestmentPositionList](investmentpositionlist)() | 初始化一个新的实例[`InvestmentPositionList`](../investmentpositionlist)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [InvestmentPositions](../../aspose.finance.ofx.investment/investmentpositionlist/investmentpositions) { get; set; } | 获取或设置[`PositionMutualFund`](../positionmutualfund)或PositionStock的集合 或[`PositionDebt`](../positiondebt)或[`PositionOption`](../positionoption)或T：Aspose.Finance.Ofx.Investment.PositionOther。 |
+| [InvestmentPositions](../../aspose.finance.ofx.investment/investmentpositionlist/investmentpositions) { get; set; } | 获取或设置的集合[`PositionMutualFund`](../positionmutualfund)或者[`PositionStock`](../positionstock) 或[`PositionDebt`](../positiondebt)或者[`PositionOption`](../positionoption)或者[`PositionOther`](../positionother). |
 
 ### 也可以看看
 

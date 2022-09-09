@@ -18,17 +18,17 @@ public class InvestmentBalance
 
 | 姓名 | 描述 |
 | --- | --- |
-| [InvestmentBalance](investmentbalance)() | 初始化[`InvestmentBalance`](../investmentbalance)类的新实例。 |
+| [InvestmentBalance](investmentbalance)() | 初始化一个新的实例[`InvestmentBalance`](../investmentbalance)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [AvailableCash](../../aspose.finance.ofx.investment/investmentbalance/availablecash) { get; set; } | 获取或设置所有子账户的现金余额。应包括扫荡基金。 |
-| [BalanceList](../../aspose.finance.ofx.investment/investmentbalance/balancelist) { get; set; } | 获取或设置[`Balance`](../../aspose.finance.ofx/balance)的集合。 |
+| [AvailableCash](../../aspose.finance.ofx.investment/investmentbalance/availablecash) { get; set; } | 获取或设置所有子账户的现金余额。应包括扫荡资金。 |
+| [BalanceList](../../aspose.finance.ofx.investment/investmentbalance/balancelist) { get; set; } | 获取或设置的集合[`Balance`](../../aspose.finance.ofx/balance). |
 | [BuyPower](../../aspose.finance.ofx.investment/investmentbalance/buypower) { get; set; } | 获取或设置购买力。 |
-| [MarginBalance](../../aspose.finance.ofx.investment/investmentbalance/marginbalance) { get; set; } | 获取或设置保证金余额。正余额表示正现金余额，而 负余额表示客户已借入资金。 |
-| [ShortBalance](../../aspose.finance.ofx.investment/investmentbalance/shortbalance) { get; set; } | 获取或设置所有空头头寸的市值。这是一个积极的平衡。 |
+| [MarginBalance](../../aspose.finance.ofx.investment/investmentbalance/marginbalance) { get; set; } | 获取或设置保证金余额。正余额表示现金余额为正，而 a 负余额表示客户已借入资金。 |
+| [ShortBalance](../../aspose.finance.ofx.investment/investmentbalance/shortbalance) { get; set; } | 获取或设置所有空头头寸的市值。这是一个正余额。 |
 
 ### 也可以看看
 

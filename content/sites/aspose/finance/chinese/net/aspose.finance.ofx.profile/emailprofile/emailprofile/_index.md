@@ -1,14 +1,14 @@
 ---
 title: EmailProfile
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化EmailProfileaspose.finance.ofx.profile/emailprofile类的新实例
+description: 初始化一个新的实例EmailProfileaspose.finance.ofx.profile/emailprofile类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.profile/emailprofile/emailprofile/
 ---
 ## EmailProfile constructor
 
-初始化[`EmailProfile`](../../emailprofile)类的新实例。
+初始化一个新的实例[`EmailProfile`](../../emailprofile)类.
 
 ```csharp
 public EmailProfile()

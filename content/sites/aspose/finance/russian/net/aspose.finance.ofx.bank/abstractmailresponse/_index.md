@@ -1,14 +1,14 @@
 ---
 title: AbstractMailResponse
 second_title: Справочник по API Aspose.Finance для .NET
-description: Абстрактный базовый класс для всех классов связанных с банковскими почтовыми ответами.
+description: Абстрактный базовый класс для всех классов связанных с ответами банковской почты.
 type: docs
 weight: 280
 url: /ru/net/aspose.finance.ofx.bank/abstractmailresponse/
 ---
 ## AbstractMailResponse class
 
-Абстрактный базовый класс для всех классов, связанных с банковскими почтовыми ответами.
+Абстрактный базовый класс для всех классов, связанных с ответами банковской почты.
 
 ```csharp
 public abstract class AbstractMailResponse

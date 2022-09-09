@@ -1,14 +1,14 @@
 ---
 title: BorrowerAddress
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаBorrowerAddressaspose.finance.ofx.tax1098/borroweraddress.
+description: Инициализирует новый экземплярBorrowerAddressaspose.finance.ofx.tax1098/borroweraddress класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.tax1098/borroweraddress/borroweraddress/
 ---
 ## BorrowerAddress constructor
 
-Инициализирует новый экземпляр класса[`BorrowerAddress`](../../borroweraddress).
+Инициализирует новый экземпляр[`BorrowerAddress`](../../borroweraddress) класс.
 
 ```csharp
 public BorrowerAddress()

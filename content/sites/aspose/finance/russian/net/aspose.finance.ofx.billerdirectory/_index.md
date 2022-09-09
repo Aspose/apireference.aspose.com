@@ -16,7 +16,7 @@ url: /ru/net/aspose.finance.ofx.billerdirectory/
 | [FindBillerRequest](./findbillerrequest) | Найти класс запроса биллера. |
 | [FindBillerResponse](./findbillerresponse) | Найти класс ответа биллера. |
 | [FindBillerTransactionRequest](./findbillertransactionrequest) | Найти класс запроса транзакции биллера. |
-| [FindBillerTransactionResponse](./findbillertransactionresponse) | Найти класс ответа биллера на транзакцию. |
+| [FindBillerTransactionResponse](./findbillertransactionresponse) | Найти класс ответа на транзакцию биллера. |
 | [PaymentInstrument](./paymentinstrument) | Класс платежного инструмента. |
 ## перечисление
 

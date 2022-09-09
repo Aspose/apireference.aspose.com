@@ -1,14 +1,14 @@
 ---
 title: LossNotAllowed
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает недопустимые потери.
+description: Получает или задает недопустимую потерю.
 type: docs
 weight: 90
 url: /ru/net/aspose.finance.ofx.tax1099/proceeddescription_v100/lossnotallowed/
 ---
 ## ProceedDescription_V100.LossNotAllowed property
 
-Получает или задает недопустимые потери.
+Получает или задает недопустимую потерю.
 
 ```csharp
 public bool LossNotAllowed { get; set; }

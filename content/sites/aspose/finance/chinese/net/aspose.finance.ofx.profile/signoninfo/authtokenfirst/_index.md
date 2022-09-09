@@ -1,14 +1,14 @@
 ---
 title: AuthTokenFirst
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置服务器是否要求客户端在首次登录时发送 AUTHTOKEN
+description: 获取或设置服务器是否要求客户端发送 AUTHTOKEN 作为首次登录的一部分
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.ofx.profile/signoninfo/authtokenfirst/
 ---
 ## SignonInfo.AuthTokenFirst property
 
-获取或设置服务器是否要求客户端在首次登录时发送 AUTHTOKEN。
+获取或设置服务器是否要求客户端发送 AUTHTOKEN 作为首次登录的一部分。
 
 ```csharp
 public bool AuthTokenFirst { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: Loc
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаLocaspose.finance.xbrl/loc.
+description: Инициализирует новый экземплярLocaspose.finance.xbrl/loc класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.xbrl/loc/loc/
 ---
 ## Loc constructor
 
-Инициализирует новый экземпляр класса[`Loc`](../../loc).
+Инициализирует новый экземпляр[`Loc`](../../loc) класс.
 
 ```csharp
 public Loc(string href, string label)
@@ -17,7 +17,7 @@ public Loc(string href, string label)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | href | String | URI href. |
-| label | String | Метка. |
+| label | String | Наклейка. |
 
 ### Смотрите также
 

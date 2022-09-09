@@ -1,14 +1,14 @@
 ---
 title: ContextRef
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置对InlineNonnumeric的Contextaspose.finance.xbrl/context的引用
+description: 获取或设置对Contextaspose.finance.xbrl/context的InlineNonnumericaspose.finance.xbrl.inline/inlinenonnumeric.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.xbrl.inline/inlinenonnumeric/contextref/
 ---
 ## InlineNonnumeric.ContextRef property
 
-获取或设置对InlineNonnumeric的[`Context`](../../../aspose.finance.xbrl/context)的引用。
+获取或设置对[`Context`](../../../aspose.finance.xbrl/context)的[`InlineNonnumeric`](../../inlinenonnumeric).
 
 ```csharp
 public Context ContextRef { get; set; }

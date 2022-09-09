@@ -1,14 +1,14 @@
 ---
 title: FindBillerTransactionRequests
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает коллекциюFindBillerTransactionRequestaspose.finance.ofx.billerdirectory/findbillertransactionrequest.
+description: Получает или задает коллекциюFindBillerTransactionRequestaspose.finance.ofx.billerdirectory/findbillertransactionrequest .
 type: docs
 weight: 20
 url: /ru/net/aspose.finance.ofx/presentmentdirrequestmessagesetv1/findbillertransactionrequests/
 ---
 ## PresentmentDirRequestMessageSetV1.FindBillerTransactionRequests property
 
-Получает или задает коллекцию[`FindBillerTransactionRequest`](../../../aspose.finance.ofx.billerdirectory/findbillertransactionrequest).
+Получает или задает коллекцию[`FindBillerTransactionRequest`](../../../aspose.finance.ofx.billerdirectory/findbillertransactionrequest) .
 
 ```csharp
 public List<FindBillerTransactionRequest> FindBillerTransactionRequests { get; set; }

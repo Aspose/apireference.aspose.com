@@ -1,14 +1,14 @@
 ---
 title: StatementEndResponse
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаStatementEndResponseaspose.finance.ofx.bank/statementendresponse.
+description: Инициализирует новый экземплярStatementEndResponseaspose.finance.ofx.bank/statementendresponse класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.bank/statementendresponse/statementendresponse/
 ---
 ## StatementEndResponse constructor
 
-Инициализирует новый экземпляр класса[`StatementEndResponse`](../../statementendresponse).
+Инициализирует новый экземпляр[`StatementEndResponse`](../../statementendresponse) класс.
 
 ```csharp
 public StatementEndResponse()

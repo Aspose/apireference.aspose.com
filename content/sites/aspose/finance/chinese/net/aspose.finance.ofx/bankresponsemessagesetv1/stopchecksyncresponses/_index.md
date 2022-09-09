@@ -1,14 +1,14 @@
 ---
 title: StopCheckSyncResponses
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置StopCheckSyncResponseaspose.finance.ofx.bank/stopchecksyncresponse的集合
+description: 获取或设置的集合StopCheckSyncResponseaspose.finance.ofx.bank/stopchecksyncresponse.
 type: docs
 weight: 100
 url: /zh/net/aspose.finance.ofx/bankresponsemessagesetv1/stopchecksyncresponses/
 ---
 ## BankResponseMessageSetV1.StopCheckSyncResponses property
 
-获取或设置[`StopCheckSyncResponse`](../../../aspose.finance.ofx.bank/stopchecksyncresponse)的集合。
+获取或设置的集合[`StopCheckSyncResponse`](../../../aspose.finance.ofx.bank/stopchecksyncresponse).
 
 ```csharp
 public List<StopCheckSyncResponse> StopCheckSyncResponses { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: LoanClosing
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化LoanClosingaspose.finance.ofx.loan/loanclosing类的新实例
+description: 初始化一个新的实例LoanClosingaspose.finance.ofx.loan/loanclosing类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.loan/loanclosing/loanclosing/
 ---
 ## LoanClosing constructor
 
-初始化[`LoanClosing`](../../loanclosing)类的新实例。
+初始化一个新的实例[`LoanClosing`](../../loanclosing)类.
 
 ```csharp
 public LoanClosing()

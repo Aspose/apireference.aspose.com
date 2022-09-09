@@ -18,7 +18,7 @@ public abstract class AbstractSecurityInfo
 
 | Имя | Описание |
 | --- | --- |
-| [SecurityInfo](../../aspose.finance.ofx.securitieslist/abstractsecurityinfo/securityinfo) { get; set; } | Получает или задает[`GeneralSecurityInfo`](../generalsecurityinfo). |
+| [SecurityInfo](../../aspose.finance.ofx.securitieslist/abstractsecurityinfo/securityinfo) { get; set; } | Получает или задает[`GeneralSecurityInfo`](../generalsecurityinfo) . |
 
 ### Смотрите также
 

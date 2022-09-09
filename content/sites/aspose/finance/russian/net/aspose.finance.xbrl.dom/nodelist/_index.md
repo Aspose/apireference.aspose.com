@@ -26,7 +26,7 @@ public class NodeList : IEnumerable<Node>
 | Имя | Описание |
 | --- | --- |
 | [Add](../../aspose.finance.xbrl.dom/nodelist/add)(Node) | Добавляет узел в конец списка. |
-| [GetEnumerator](../../aspose.finance.xbrl.dom/nodelist/getenumerator)() | Возвращает перечислитель, который перебирает список. |
+| [GetEnumerator](../../aspose.finance.xbrl.dom/nodelist/getenumerator)() | Возвращает перечислитель, который выполняет итерацию по списку. |
 
 ### Смотрите также
 

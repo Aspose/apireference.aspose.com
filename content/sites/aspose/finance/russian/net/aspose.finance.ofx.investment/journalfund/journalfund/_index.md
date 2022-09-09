@@ -1,14 +1,14 @@
 ---
 title: JournalFund
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаJournalFundaspose.finance.ofx.investment/journalfund.
+description: Инициализирует новый экземплярJournalFundaspose.finance.ofx.investment/journalfund класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.investment/journalfund/journalfund/
 ---
 ## JournalFund constructor
 
-Инициализирует новый экземпляр класса[`JournalFund`](../../journalfund).
+Инициализирует новый экземпляр[`JournalFund`](../../journalfund) класс.
 
 ```csharp
 public JournalFund()

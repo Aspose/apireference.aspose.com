@@ -18,13 +18,13 @@ public class OpenOrderSellStock : AbstractOpenOrder
 
 | 姓名 | 描述 |
 | --- | --- |
-| [OpenOrderSellStock](openordersellstock)() | 初始化[`OpenOrderSellStock`](../openordersellstock)类的新实例。 |
+| [OpenOrderSellStock](openordersellstock)() | 初始化一个新的实例[`OpenOrderSellStock`](../openordersellstock)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [OpenOrder](../../aspose.finance.ofx.investment/abstractopenorder/openorder) { get; set; } | 获取或设置[`GeneralOpenOrder`](../generalopenorder)。 |
+| [OpenOrder](../../aspose.finance.ofx.investment/abstractopenorder/openorder) { get; set; } | 获取或设置[`GeneralOpenOrder`](../generalopenorder). |
 | [SellType](../../aspose.finance.ofx.investment/openordersellstock/selltype) { get; set; } | 获取或设置销售类型。 |
 
 ### 也可以看看

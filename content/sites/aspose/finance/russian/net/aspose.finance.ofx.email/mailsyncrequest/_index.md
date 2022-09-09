@@ -1,14 +1,14 @@
 ---
 title: MailSyncRequest
 second_title: Справочник по API Aspose.Finance для .NET
-description: Класс запроса синхронизации электронной почты.
+description: Класс запросов на синхронизацию электронной почты.
 type: docs
 weight: 2180
 url: /ru/net/aspose.finance.ofx.email/mailsyncrequest/
 ---
 ## MailSyncRequest class
 
-Класс запроса синхронизации электронной почты.
+Класс запросов на синхронизацию электронной почты.
 
 ```csharp
 public class MailSyncRequest : AbstractSyncRequest
@@ -18,16 +18,16 @@ public class MailSyncRequest : AbstractSyncRequest
 
 | Имя | Описание |
 | --- | --- |
-| [MailSyncRequest](mailsyncrequest)() | Инициализирует новый экземпляр класса[`MailSyncRequest`](../mailsyncrequest). |
+| [MailSyncRequest](mailsyncrequest)() | Инициализирует новый экземпляр[`MailSyncRequest`](../mailsyncrequest) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [IncludeImages](../../aspose.finance.ofx.email/mailsyncrequest/includeimages) { get; set; } | True, если клиент принимает почту с изображениями в теле сообщения, False, если клиент не принимает почту с изображениями в теле сообщения |
-| [MailTransactionRequests](../../aspose.finance.ofx.email/mailsyncrequest/mailtransactionrequests) { get; set; } | Получает или задает коллекцию[`MailTransactionRequest`](../mailtransactionrequest). |
-| [OfxExtension](../../aspose.finance.ofx.email/mailsyncrequest/ofxextension) { get; set; } | Получает или задает[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
-| [Refresh](../../aspose.finance.ofx/abstractsyncrequest/refresh) { get; set; } | Получает или задает запрос на обновление текущего состояния. |
+| [IncludeImages](../../aspose.finance.ofx.email/mailsyncrequest/includeimages) { get; set; } | True, если клиент принимает почту с изображениями в теле сообщения, False, если клиент не принимает почту с изображениями в теле сообщения body |
+| [MailTransactionRequests](../../aspose.finance.ofx.email/mailsyncrequest/mailtransactionrequests) { get; set; } | Получает или задает коллекцию[`MailTransactionRequest`](../mailtransactionrequest) . |
+| [OfxExtension](../../aspose.finance.ofx.email/mailsyncrequest/ofxextension) { get; set; } | Получает или задает[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype) . |
+| [Refresh](../../aspose.finance.ofx/abstractsyncrequest/refresh) { get; set; } | Получает или устанавливает запрос на обновление текущего состояния. |
 | [RejectIfMisssing](../../aspose.finance.ofx/abstractsyncrequest/rejectifmisssing) { get; set; } | Если да, не обрабатывать запросы, если токен клиента устарел. |
 | [Token](../../aspose.finance.ofx/abstractsyncrequest/token) { get; set; } | Получает или задает токен. |
 | [TokenOnly](../../aspose.finance.ofx/abstractsyncrequest/tokenonly) { get; set; } | Получает или задает, запрашивать ли только текущий токен без истории. |

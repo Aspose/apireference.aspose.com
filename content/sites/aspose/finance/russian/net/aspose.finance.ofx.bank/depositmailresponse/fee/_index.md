@@ -1,14 +1,14 @@
 ---
 title: Fee
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает плату установленную для NSF.
+description: Получает или задает комиссию установленную для NSF.
 type: docs
 weight: 30
 url: /ru/net/aspose.finance.ofx.bank/depositmailresponse/fee/
 ---
 ## DepositMailResponse.Fee property
 
-Получает или задает плату, установленную для NSF.
+Получает или задает комиссию, установленную для NSF.
 
 ```csharp
 public string Fee { get; set; }

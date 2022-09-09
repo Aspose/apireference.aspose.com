@@ -1,14 +1,14 @@
 ---
 title: EnrollTransactionResponses
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置EnrollTransactionResponseaspose.finance.ofx.signup/enrolltransactionresponse的集合
+description: 获取或设置的集合EnrollTransactionResponseaspose.finance.ofx.signup/enrolltransactionresponse.
 type: docs
 weight: 70
 url: /zh/net/aspose.finance.ofx/signupresponsemessagesetv1/enrolltransactionresponses/
 ---
 ## SignupResponseMessageSetV1.EnrollTransactionResponses property
 
-获取或设置[`EnrollTransactionResponse`](../../../aspose.finance.ofx.signup/enrolltransactionresponse)的集合。
+获取或设置的集合[`EnrollTransactionResponse`](../../../aspose.finance.ofx.signup/enrolltransactionresponse).
 
 ```csharp
 public List<EnrollTransactionResponse> EnrollTransactionResponses { get; set; }

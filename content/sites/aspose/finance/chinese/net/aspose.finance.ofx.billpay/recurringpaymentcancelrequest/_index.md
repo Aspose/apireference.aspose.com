@@ -18,14 +18,14 @@ public class RecurringPaymentCancelRequest : AbstractRecurringPaymentRequest
 
 | 姓名 | 描述 |
 | --- | --- |
-| [RecurringPaymentCancelRequest](recurringpaymentcancelrequest)() | 初始化[`RecurringPaymentCancelRequest`](../recurringpaymentcancelrequest)类的新实例。 |
+| [RecurringPaymentCancelRequest](recurringpaymentcancelrequest)() | 初始化一个新的实例[`RecurringPaymentCancelRequest`](../recurringpaymentcancelrequest)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
 | [CancelPending](../../aspose.finance.ofx.billpay/recurringpaymentcancelrequest/cancelpending) { get; set; } | 获取或设置取消挂起标志。如果为真，服务器应取消所有待处理和未生成的付款。如果为 false，服务器应该只取消模型（和未生成的付款）。 |
-| [ReferenceServerId](../../aspose.finance.ofx.billpay/recurringpaymentcancelrequest/referenceserverid) { get; set; } | 获取或设置服务器分配给取消支付的ID。 |
+| [ReferenceServerId](../../aspose.finance.ofx.billpay/recurringpaymentcancelrequest/referenceserverid) { get; set; } | 获取或设置服务器分配给被取消支付的ID。 |
 
 ### 也可以看看
 

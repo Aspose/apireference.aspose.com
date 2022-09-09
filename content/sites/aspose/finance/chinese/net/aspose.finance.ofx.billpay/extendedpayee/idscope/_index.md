@@ -8,7 +8,7 @@ url: /zh/net/aspose.finance.ofx.billpay/extendedpayee/idscope/
 ---
 ## ExtendedPayee.IdScope property
 
-获取或设置收款人ID的范围。
+获取或设置收款人ID的范围
 
 ```csharp
 public IdScopeEnum IdScope { get; set; }

@@ -8,7 +8,7 @@ url: /zh/net/aspose.finance.ofx.investment/sellstock/
 ---
 ## SellStock class
 
-投资卖出股票类。
+投资卖出股票类
 
 ```csharp
 public class SellStock : AbstractInvestmentSellTransaction
@@ -18,13 +18,13 @@ public class SellStock : AbstractInvestmentSellTransaction
 
 | 姓名 | 描述 |
 | --- | --- |
-| [SellStock](sellstock)() | 初始化[`SellStock`](../sellstock)类的新实例。 |
+| [SellStock](sellstock)() | 初始化一个新的实例[`SellStock`](../sellstock)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [InvestmentSell](../../aspose.finance.ofx.investment/abstractinvestmentselltransaction/investmentsell) { get; set; } | 获取或设置[`InvestmentSell`](../abstractinvestmentselltransaction/investmentsell)。 |
+| [InvestmentSell](../../aspose.finance.ofx.investment/abstractinvestmentselltransaction/investmentsell) { get; set; } | 获取或设置[`InvestmentSell`](../abstractinvestmentselltransaction/investmentsell). |
 | [SellType](../../aspose.finance.ofx.investment/sellstock/selltype) { get; set; } | 获取或设置卖出类型。 |
 
 ### 也可以看看

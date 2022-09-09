@@ -1,7 +1,7 @@
 ---
 title: PrefetchUrls
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает URL-адреса предварительной выборки.
+description: Получает или задает URLадреса предварительной выборки.
 type: docs
 weight: 40
 url: /ru/net/aspose.finance.ofx.billerdelivery/statementimage/prefetchurls/

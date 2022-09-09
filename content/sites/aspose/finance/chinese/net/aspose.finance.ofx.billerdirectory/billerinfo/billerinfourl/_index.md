@@ -1,14 +1,14 @@
 ---
 title: BillerInfoUrl
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置开票人希望客户在注册时拥有的附加信息的人类可读描述的 URL
+description: 获取或设置开票人希望客户在注册时获得的附加信息的可读描述的 URL
 type: docs
 weight: 80
 url: /zh/net/aspose.finance.ofx.billerdirectory/billerinfo/billerinfourl/
 ---
 ## BillerInfo.BillerInfoUrl property
 
-获取或设置开票人希望客户在注册时拥有的附加信息的人类可读描述的 URL。
+获取或设置开票人希望客户在注册时获得的附加信息的可读描述的 URL。
 
 ```csharp
 public string BillerInfoUrl { get; set; }

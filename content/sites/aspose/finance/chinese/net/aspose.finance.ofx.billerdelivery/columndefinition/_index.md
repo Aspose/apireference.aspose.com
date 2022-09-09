@@ -1,14 +1,14 @@
 ---
 title: ColumnDefinition
 second_title: Aspose.Finance for .NET API 参考
-description: 列定义类
+description: 列定义类.
 type: docs
 weight: 1580
 url: /zh/net/aspose.finance.ofx.billerdelivery/columndefinition/
 ---
 ## ColumnDefinition class
 
-列定义类。
+列定义类.
 
 ```csharp
 public class ColumnDefinition
@@ -18,7 +18,7 @@ public class ColumnDefinition
 
 | 姓名 | 描述 |
 | --- | --- |
-| [ColumnDefinition](columndefinition)() | 初始化[`ColumnDefinition`](../columndefinition)类的新实例。 |
+| [ColumnDefinition](columndefinition)() | 初始化一个新的实例[`ColumnDefinition`](../columndefinition)类. |
 
 ## 特性
 

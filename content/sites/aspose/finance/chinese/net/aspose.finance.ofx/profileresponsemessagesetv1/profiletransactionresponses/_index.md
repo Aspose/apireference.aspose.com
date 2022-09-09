@@ -1,14 +1,14 @@
 ---
 title: ProfileTransactionResponses
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置ProfileTransactionResponseaspose.finance.ofx.profile/profiletransactionresponse的集合
+description: 获取或设置的集合ProfileTransactionResponseaspose.finance.ofx.profile/profiletransactionresponse.
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.ofx/profileresponsemessagesetv1/profiletransactionresponses/
 ---
 ## ProfileResponseMessageSetV1.ProfileTransactionResponses property
 
-获取或设置[`ProfileTransactionResponse`](../../../aspose.finance.ofx.profile/profiletransactionresponse)的集合。
+获取或设置的集合[`ProfileTransactionResponse`](../../../aspose.finance.ofx.profile/profiletransactionresponse).
 
 ```csharp
 public List<ProfileTransactionResponse> ProfileTransactionResponses { get; set; }

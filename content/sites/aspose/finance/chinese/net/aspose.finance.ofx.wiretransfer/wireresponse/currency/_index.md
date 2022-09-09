@@ -1,14 +1,14 @@
 ---
 title: Currency
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置转账时使用的币种
+description: 获取或设置转账时使用的货币
 type: docs
 weight: 40
 url: /zh/net/aspose.finance.ofx.wiretransfer/wireresponse/currency/
 ---
 ## WireResponse.Currency property
 
-获取或设置转账时使用的币种。
+获取或设置转账时使用的货币。
 
 ```csharp
 public CurrencyEnum Currency { get; set; }

@@ -18,17 +18,17 @@ public class Unit
 
 | Имя | Описание |
 | --- | --- |
-| [Unit](unit)(UnitType) | Инициализирует новый экземпляр класса[`Unit`](../unit). |
+| [Unit](unit)(UnitType) | Инициализирует новый экземпляр[`Unit`](../unit) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
 | [Id](../../aspose.finance.xbrl/unit/id) { get; set; } | Получает или задает идентификатор объекта. |
-| [MeasureQualifiedNames](../../aspose.finance.xbrl/unit/measurequalifiednames) { get; } | Получает коллекцию полного имени меры, оно используется, когда единицей измерения является мера. |
+| [MeasureQualifiedNames](../../aspose.finance.xbrl/unit/measurequalifiednames) { get; } | Получает коллекцию полного имени меры, оно используется, когда типом единицы измерения является Measure. |
 | [Type](../../aspose.finance.xbrl/unit/type) { get; set; } | Получает или задает тип единицы измерения. |
 | [UnitDenominatorQualifiedNames](../../aspose.finance.xbrl/unit/unitdenominatorqualifiednames) { get; set; } | Получает коллекцию полного имени знаменателя, оно используется, когда типом единицы измерения является Divide. |
-| [UnitNumeratorQualifiedNames](../../aspose.finance.xbrl/unit/unitnumeratorqualifiednames) { get; } | Получает коллекцию полного имени числителя, используется, когда типом единицы измерения является Divide. |
+| [UnitNumeratorQualifiedNames](../../aspose.finance.xbrl/unit/unitnumeratorqualifiednames) { get; } | Получает коллекцию полного имени числителя, оно используется, когда типом единицы измерения является Divide. |
 
 ### Смотрите также
 

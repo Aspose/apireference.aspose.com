@@ -1,14 +1,14 @@
 ---
 title: AccountSyncRequests
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает коллекциюAccountSyncRequestaspose.finance.ofx.signup/accountsyncrequest.
+description: Получает или задает коллекциюAccountSyncRequestaspose.finance.ofx.signup/accountsyncrequest .
 type: docs
 weight: 30
 url: /ru/net/aspose.finance.ofx/signuprequestmessagesetv1/accountsyncrequests/
 ---
 ## SignupRequestMessageSetV1.AccountSyncRequests property
 
-Получает или задает коллекцию[`AccountSyncRequest`](../../../aspose.finance.ofx.signup/accountsyncrequest).
+Получает или задает коллекцию[`AccountSyncRequest`](../../../aspose.finance.ofx.signup/accountsyncrequest) .
 
 ```csharp
 public List<AccountSyncRequest> AccountSyncRequests { get; set; }

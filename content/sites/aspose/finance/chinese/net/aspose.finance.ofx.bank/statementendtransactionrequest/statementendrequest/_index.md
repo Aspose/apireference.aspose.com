@@ -1,14 +1,14 @@
 ---
 title: StatementEndRequest
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置StatementEndRequestaspose.finance.ofx.bank/statementendtransactionrequest/statementendrequest
+description: 获取或设置StatementEndRequestaspose.finance.ofx.bank/statementendtransactionrequest/statementendrequest.
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.ofx.bank/statementendtransactionrequest/statementendrequest/
 ---
 ## StatementEndTransactionRequest.StatementEndRequest property
 
-获取或设置`StatementEndRequest`。
+获取或设置`StatementEndRequest`.
 
 ```csharp
 public StatementEndRequest StatementEndRequest { get; set; }

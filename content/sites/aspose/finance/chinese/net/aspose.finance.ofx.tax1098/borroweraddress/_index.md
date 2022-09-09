@@ -18,7 +18,7 @@ public class BorrowerAddress
 
 | 姓名 | 描述 |
 | --- | --- |
-| [BorrowerAddress](borroweraddress)() | 初始化[`BorrowerAddress`](../borroweraddress)类的新实例。 |
+| [BorrowerAddress](borroweraddress)() | 初始化一个新的实例[`BorrowerAddress`](../borroweraddress)类. |
 
 ## 特性
 
@@ -28,7 +28,7 @@ public class BorrowerAddress
 | [Address2](../../aspose.finance.ofx.tax1098/borroweraddress/address2) { get; set; } | 获取或设置借款人地址，第 2 行。 |
 | [Address3](../../aspose.finance.ofx.tax1098/borroweraddress/address3) { get; set; } | 获取或设置借款人地址，第 3 行。 |
 | [BorrowerName](../../aspose.finance.ofx.tax1098/borroweraddress/borrowername) { get; set; } | 获取或设置借款人姓名。 |
-| [City](../../aspose.finance.ofx.tax1098/borroweraddress/city) { get; set; } | 获取或设置借款人地址城市。 |
+| [City](../../aspose.finance.ofx.tax1098/borroweraddress/city) { get; set; } | 获取或设置借款人地址城市 |
 | [PostalCode](../../aspose.finance.ofx.tax1098/borroweraddress/postalcode) { get; set; } | 获取或设置借款人地址邮政编码。 |
 | [State](../../aspose.finance.ofx.tax1098/borroweraddress/state) { get; set; } | 获取或设置借款人地址状态。 |
 

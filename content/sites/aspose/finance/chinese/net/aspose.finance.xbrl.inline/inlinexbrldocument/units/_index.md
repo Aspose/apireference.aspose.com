@@ -1,14 +1,14 @@
 ---
 title: Units
 second_title: Aspose.Finance for .NET API 参考
-description: 获取内联 XBRL 文档中Unitaspose.finance.xbrl/unit的集合
+description: 获取集合Unitaspose.finance.xbrl/unit在内联 XBRL 文档中
 type: docs
 weight: 100
 url: /zh/net/aspose.finance.xbrl.inline/inlinexbrldocument/units/
 ---
 ## InlineXbrlDocument.Units property
 
-获取内联 XBRL 文档中[`Unit`](../../../aspose.finance.xbrl/unit)的集合。
+获取集合[`Unit`](../../../aspose.finance.xbrl/unit)在内联 XBRL 文档中。
 
 ```csharp
 public List<Unit> Units { get; }

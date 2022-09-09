@@ -1,14 +1,14 @@
 ---
 title: VestInfo
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化VestInfoaspose.finance.ofx.investment/vestinfo类的新实例
+description: 初始化一个新的实例VestInfoaspose.finance.ofx.investment/vestinfo类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.investment/vestinfo/vestinfo/
 ---
 ## VestInfo constructor
 
-初始化[`VestInfo`](../../vestinfo)类的新实例。
+初始化一个新的实例[`VestInfo`](../../vestinfo)类.
 
 ```csharp
 public VestInfo()

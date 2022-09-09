@@ -1,14 +1,14 @@
 ---
 title: InvestmentStatementMessageSet
 second_title: Справочник по API Aspose.Finance для .NET
-description: Установлено сообщение отчета об инвестициях.
+description: Набор сообщений отчета об инвестициях.
 type: docs
 weight: 4550
 url: /ru/net/aspose.finance.ofx.profile/investmentstatementmessageset/
 ---
 ## InvestmentStatementMessageSet class
 
-Установлено сообщение отчета об инвестициях.
+Набор сообщений отчета об инвестициях.
 
 ```csharp
 public class InvestmentStatementMessageSet : AbstractMessageSet
@@ -18,13 +18,13 @@ public class InvestmentStatementMessageSet : AbstractMessageSet
 
 | Имя | Описание |
 | --- | --- |
-| [InvestmentStatementMessageSet](investmentstatementmessageset)() | Инициализирует новый экземпляр класса[`InvestmentStatementMessageSet`](../investmentstatementmessageset). |
+| [InvestmentStatementMessageSet](investmentstatementmessageset)() | Инициализирует новый экземпляр[`InvestmentStatementMessageSet`](../investmentstatementmessageset) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [InvestmentStatementMessageSetV1](../../aspose.finance.ofx.profile/investmentstatementmessageset/investmentstatementmessagesetv1) { get; set; } | Получает или задает[`InvestmentStatementMessageSetV1`](./investmentstatementmessagesetv1). |
+| [InvestmentStatementMessageSetV1](../../aspose.finance.ofx.profile/investmentstatementmessageset/investmentstatementmessagesetv1) { get; set; } | Получает или задает[`InvestmentStatementMessageSetV1`](./investmentstatementmessagesetv1) . |
 
 ### Смотрите также
 

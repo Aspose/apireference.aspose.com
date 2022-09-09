@@ -18,15 +18,15 @@ public class PayeeTransactionRequest : AbstractTransactionRequest
 
 | Имя | Описание |
 | --- | --- |
-| [PayeeTransactionRequest](payeetransactionrequest)() | Инициализирует новый экземпляр класса[`PayeeTransactionRequest`](../payeetransactionrequest). |
+| [PayeeTransactionRequest](payeetransactionrequest)() | Инициализирует новый экземпляр[`PayeeTransactionRequest`](../payeetransactionrequest) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [ClientCookie](../../aspose.finance.ofx/abstracttransactionrequest/clientcookie) { get; set; } | Получает или задает данные, которые будут отображаться в ответе транзакции |
-| [OfxExtension](../../aspose.finance.ofx.billpay/payeetransactionrequest/ofxextension) { get; set; } | Получает или задает[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
-| [Request](../../aspose.finance.ofx.billpay/payeetransactionrequest/request) { get; set; } | Получает или задает[`PayeeRequest`](../payeerequest)или[`PayeeModRequest`](../payeemodrequest)или[`PayeeDeleteRequest`](../payeedeleterequest). |
+| [ClientCookie](../../aspose.finance.ofx/abstracttransactionrequest/clientcookie) { get; set; } | Получает или задает данные, которые будут отражены в транзакции response |
+| [OfxExtension](../../aspose.finance.ofx.billpay/payeetransactionrequest/ofxextension) { get; set; } | Получает или задает[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype) . |
+| [Request](../../aspose.finance.ofx.billpay/payeetransactionrequest/request) { get; set; } | Получает или задает[`PayeeRequest`](../payeerequest) или же[`PayeeModRequest`](../payeemodrequest) или же[`PayeeDeleteRequest`](../payeedeleterequest) . |
 | [TransactionAuthorizationNumber](../../aspose.finance.ofx/abstracttransactionrequest/transactionauthorizationnumber) { get; set; } | Получает или задает номер авторизации транзакции. |
 | [TransactionUniqueId](../../aspose.finance.ofx/abstracttransactionrequest/transactionuniqueid) { get; set; } | Получает или задает назначенный клиентом глобальный уникальный идентификатор для этой транзакции |
 

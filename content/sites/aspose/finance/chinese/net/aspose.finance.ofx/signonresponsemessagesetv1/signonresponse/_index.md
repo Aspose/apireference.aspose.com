@@ -1,14 +1,14 @@
 ---
 title: SignonResponse
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置SignonResponseaspose.finance.ofx.signon/signonresponse
+description: 获取或设置SignonResponseaspose.finance.ofx.signon/signonresponse.
 type: docs
 weight: 40
 url: /zh/net/aspose.finance.ofx/signonresponsemessagesetv1/signonresponse/
 ---
 ## SignonResponseMessageSetV1.SignonResponse property
 
-获取或设置[`SignonResponse`](../../../aspose.finance.ofx.signon/signonresponse)。
+获取或设置[`SignonResponse`](../../../aspose.finance.ofx.signon/signonresponse).
 
 ```csharp
 public SignonResponse SignonResponse { get; set; }

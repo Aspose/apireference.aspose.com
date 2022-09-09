@@ -18,7 +18,7 @@ public class CheckDescription : AbstractCheckInfo
 
 | Имя | Описание |
 | --- | --- |
-| [CheckDescription](checkdescription)() | Инициализирует новый экземпляр класса[`CheckDescription`](../checkdescription). |
+| [CheckDescription](checkdescription)() | Инициализирует новый экземпляр[`CheckDescription`](../checkdescription) класс. |
 
 ## Характеристики
 
@@ -27,7 +27,7 @@ public class CheckDescription : AbstractCheckInfo
 | [CheckNumber](../../aspose.finance.ofx.bank/checkdescription/checknumber) { get; set; } | Получает или задает контрольный номер. |
 | [Name](../../aspose.finance.ofx.bank/checkdescription/name) { get; set; } | Получает или задает имя или описание получателя платежа. |
 | [TransactionAmount](../../aspose.finance.ofx.bank/checkdescription/transactionamount) { get; set; } | Получает или задает сумму транзакции. |
-| [UserDate](../../aspose.finance.ofx.bank/checkdescription/userdate) { get; set; } | Получает или задает дату проверки. |
+| [UserDate](../../aspose.finance.ofx.bank/checkdescription/userdate) { get; set; } | Получает или устанавливает дату проверки. |
 
 ### Смотрите также
 

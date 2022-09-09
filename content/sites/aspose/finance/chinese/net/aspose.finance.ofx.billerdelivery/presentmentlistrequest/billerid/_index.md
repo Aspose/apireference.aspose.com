@@ -1,14 +1,14 @@
 ---
 title: BillerId
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置账单标识符
+description: 获取或设置帐单标识符
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.ofx.billerdelivery/presentmentlistrequest/billerid/
 ---
 ## PresentmentListRequest.BillerId property
 
-获取或设置账单标识符。
+获取或设置帐单标识符。
 
 ```csharp
 public string BillerId { get; set; }

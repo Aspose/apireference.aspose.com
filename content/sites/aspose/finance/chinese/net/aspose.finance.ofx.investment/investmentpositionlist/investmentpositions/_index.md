@@ -1,14 +1,14 @@
 ---
 title: InvestmentPositions
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置PositionMutualFundaspose.finance.ofx.investment/positionmutualfund或PositionStock的集合 或PositionDebtaspose.finance.ofx.investment/positiondebt或PositionOptionaspose.finance.ofx.investment/positionoption或TAspose.Finance.Ofx.Investment.PositionOther
+description: 获取或设置的集合PositionMutualFundaspose.finance.ofx.investment/positionmutualfund或者PositionStockaspose.finance.ofx.investment/positionstock 或PositionDebtaspose.finance.ofx.investment/positiondebt或者PositionOptionaspose.finance.ofx.investment/positionoption或者PositionOtheraspose.finance.ofx.investment/positionother.
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.ofx.investment/investmentpositionlist/investmentpositions/
 ---
 ## InvestmentPositionList.InvestmentPositions property
 
-获取或设置[`PositionMutualFund`](../../positionmutualfund)或PositionStock的集合 或[`PositionDebt`](../../positiondebt)或[`PositionOption`](../../positionoption)或T：Aspose.Finance.Ofx.Investment.PositionOther。
+获取或设置的集合[`PositionMutualFund`](../../positionmutualfund)或者[`PositionStock`](../../positionstock) 或[`PositionDebt`](../../positiondebt)或者[`PositionOption`](../../positionoption)或者[`PositionOther`](../../positionother).
 
 ```csharp
 public List<AbstractPositionBase> InvestmentPositions { get; set; }

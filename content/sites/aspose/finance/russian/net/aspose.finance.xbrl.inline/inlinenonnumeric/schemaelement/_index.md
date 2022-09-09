@@ -1,14 +1,14 @@
 ---
 title: SchemaElement
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает концепциюInlineNonnumericaspose.finance.xbrl.inline/inlinenonnumeric.
+description: Получает концепциюInlineNonnumericaspose.finance.xbrl.inline/inlinenonnumeric .
 type: docs
 weight: 70
 url: /ru/net/aspose.finance.xbrl.inline/inlinenonnumeric/schemaelement/
 ---
 ## InlineNonnumeric.SchemaElement property
 
-Получает концепцию[`InlineNonnumeric`](../../inlinenonnumeric).
+Получает концепцию[`InlineNonnumeric`](../../inlinenonnumeric) .
 
 ```csharp
 public Concept SchemaElement { get; }

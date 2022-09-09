@@ -1,14 +1,14 @@
 ---
 title: StopCheckTransactionRequests
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает коллекциюStopCheckTransactionRequestaspose.finance.ofx.bank/stopchecktransactionrequest.
+description: Получает или задает коллекциюStopCheckTransactionRequestaspose.finance.ofx.bank/stopchecktransactionrequest .
 type: docs
 weight: 40
 url: /ru/net/aspose.finance.ofx.bank/stopchecksyncrequest/stopchecktransactionrequests/
 ---
 ## StopCheckSyncRequest.StopCheckTransactionRequests property
 
-Получает или задает коллекцию[`StopCheckTransactionRequest`](../../stopchecktransactionrequest).
+Получает или задает коллекцию[`StopCheckTransactionRequest`](../../stopchecktransactionrequest) .
 
 ```csharp
 public List<StopCheckTransactionRequest> StopCheckTransactionRequests { get; set; }

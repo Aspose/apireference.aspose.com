@@ -1,14 +1,14 @@
 ---
 title: TransactionAmount
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает сумму транзакции.
+description: Получает или устанавливает сумму транзакции.
 type: docs
 weight: 210
 url: /ru/net/aspose.finance.ofx/statementtransaction/transactionamount/
 ---
 ## StatementTransaction.TransactionAmount property
 
-Получает или задает сумму транзакции.
+Получает или устанавливает сумму транзакции.
 
 ```csharp
 public string TransactionAmount { get; set; }

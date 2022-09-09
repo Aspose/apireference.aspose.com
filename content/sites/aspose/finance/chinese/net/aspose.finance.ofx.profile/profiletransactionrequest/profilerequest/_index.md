@@ -1,14 +1,14 @@
 ---
 title: ProfileRequest
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置ProfileRequestaspose.finance.ofx.profile/profiletransactionrequest/profilerequest
+description: 获取或设置ProfileRequestaspose.finance.ofx.profile/profiletransactionrequest/profilerequest.
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.ofx.profile/profiletransactionrequest/profilerequest/
 ---
 ## ProfileTransactionRequest.ProfileRequest property
 
-获取或设置`ProfileRequest`。
+获取或设置`ProfileRequest`.
 
 ```csharp
 public ProfileRequest ProfileRequest { get; set; }

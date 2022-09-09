@@ -1,14 +1,14 @@
 ---
 title: LoanStatementEndResponse
 second_title: Aspose.Finance for .NET API 参考
-description: 贷款结账声明响应类
+description: 贷款结账报表响应类
 type: docs
 weight: 3910
 url: /zh/net/aspose.finance.ofx.loan/loanstatementendresponse/
 ---
 ## LoanStatementEndResponse class
 
-贷款结账声明响应类。
+贷款结账报表响应类。
 
 ```csharp
 public class LoanStatementEndResponse
@@ -18,15 +18,15 @@ public class LoanStatementEndResponse
 
 | 姓名 | 描述 |
 | --- | --- |
-| [LoanStatementEndResponse](loanstatementendresponse)() | 初始化[`LoanStatementEndResponse`](../loanstatementendresponse)类的新实例。 |
+| [LoanStatementEndResponse](loanstatementendresponse)() | 初始化一个新的实例[`LoanStatementEndResponse`](../loanstatementendresponse)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
 | [Currency](../../aspose.finance.ofx.loan/loanstatementendresponse/currency) { get; set; } | 获取或设置用于结算信息的默认货币。 |
-| [LoanAccountFrom](../../aspose.finance.ofx.loan/loanstatementendresponse/loanaccountfrom) { get; set; } | 获取或设置[`LoanAccount`](../../aspose.finance.ofx/loanaccount)的来源。 |
-| [LoanClosings](../../aspose.finance.ofx.loan/loanstatementendresponse/loanclosings) { get; set; } | 获取或设置[`LoanClosing`](../loanclosing)的集合。 |
+| [LoanAccountFrom](../../aspose.finance.ofx.loan/loanstatementendresponse/loanaccountfrom) { get; set; } | 获取或设置 from[`LoanAccount`](../../aspose.finance.ofx/loanaccount). |
+| [LoanClosings](../../aspose.finance.ofx.loan/loanstatementendresponse/loanclosings) { get; set; } | 获取或设置的集合[`LoanClosing`](../loanclosing). |
 
 ### 也可以看看
 

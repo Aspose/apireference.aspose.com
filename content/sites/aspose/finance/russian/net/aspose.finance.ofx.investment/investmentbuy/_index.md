@@ -1,14 +1,14 @@
 ---
 title: InvestmentBuy
 second_title: Справочник по API Aspose.Finance для .NET
-description: Класс операции инвестиционной покупки.
+description: Класс транзакции инвестиционной покупки.
 type: docs
 weight: 2940
 url: /ru/net/aspose.finance.ofx.investment/investmentbuy/
 ---
 ## InvestmentBuy class
 
-Класс операции инвестиционной покупки.
+Класс транзакции инвестиционной покупки.
 
 ```csharp
 public class InvestmentBuy : AbstractInvestmentTransaction
@@ -18,31 +18,31 @@ public class InvestmentBuy : AbstractInvestmentTransaction
 
 | Имя | Описание |
 | --- | --- |
-| [InvestmentBuy](investmentbuy)() | Инициализирует новый экземпляр класса[`InvestmentBuy`](../investmentbuy). |
+| [InvestmentBuy](investmentbuy)() | Инициализирует новый экземпляр[`InvestmentBuy`](../investmentbuy) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [Commission](../../aspose.finance.ofx.investment/investmentbuy/commission) { get; set; } | Получает или задает комиссию за транзакцию. |
-| [Currency](../../aspose.finance.ofx.investment/investmentbuy/currency) { get; set; } | Получает или задает[`Currency`](./currency). |
+| [Commission](../../aspose.finance.ofx.investment/investmentbuy/commission) { get; set; } | Получает или устанавливает комиссию за транзакцию. |
+| [Currency](../../aspose.finance.ofx.investment/investmentbuy/currency) { get; set; } | Получает или задает[`Currency`](./currency) . |
 | [Fees](../../aspose.finance.ofx.investment/investmentbuy/fees) { get; set; } | Получает или задает комиссию за торговлю. |
-| [Investment401kSource](../../aspose.finance.ofx.investment/investmentbuy/investment401ksource) { get; set; } | Получает или задает источник денег для этой транзакции. |
-| [InvestmentTransaction](../../aspose.finance.ofx.investment/abstractinvestmenttransaction/investmenttransaction) { get; set; } | Получает или задает[`InvestmentTransaction`](../abstractinvestmenttransaction/investmenttransaction). |
+| [Investment401kSource](../../aspose.finance.ofx.investment/investmentbuy/investment401ksource) { get; set; } | Получает или устанавливает источник денег для этой транзакции. |
+| [InvestmentTransaction](../../aspose.finance.ofx.investment/abstractinvestmenttransaction/investmenttransaction) { get; set; } | Получает или задает[`InvestmentTransaction`](../abstractinvestmenttransaction/investmenttransaction) . |
 | [Load](../../aspose.finance.ofx.investment/investmentbuy/load) { get; set; } | Получает или задает нагрузку на транзакцию. |
-| [LoanId](../../aspose.finance.ofx.investment/investmentbuy/loanid) { get; set; } | Возвращает или задает транзакцию, связанную с кредитом или погашением кредита, а также тип кредита. Только для счетов 401(k). |
-| [LoanInterest](../../aspose.finance.ofx.investment/investmentbuy/loaninterest) { get; set; } | Получает или задает, какая часть погашения кредита приходится на проценты. Только для счетов 401(k). |
-| [LoanPrincipal](../../aspose.finance.ofx.investment/investmentbuy/loanprincipal) { get; set; } | Получает или задает, какая часть погашения кредита приходится на основную сумму. Только для счетов 401(k). |
+| [LoanId](../../aspose.finance.ofx.investment/investmentbuy/loanid) { get; set; } | Получает или задает транзакцию, которая была связана с кредитом или погашением кредита, и какой это был кредит. Только для счетов 401(k). |
+| [LoanInterest](../../aspose.finance.ofx.investment/investmentbuy/loaninterest) { get; set; } | Получает или задает проценты по погашению кредита. Только для учетных записей 401(k). |
+| [LoanPrincipal](../../aspose.finance.ofx.investment/investmentbuy/loanprincipal) { get; set; } | Получает или задает, какая часть погашения кредита приходится на основную сумму. Только для учетных записей 401(k). |
 | [Markup](../../aspose.finance.ofx.investment/investmentbuy/markup) { get; set; } | Получает или задает часть цены за единицу, относящуюся к наценке дилера. |
-| [OriginCurrency](../../aspose.finance.ofx.investment/investmentbuy/origincurrency) { get; set; } | Получает или задает источник[`Currency`](./currency). |
-| [PayrollDate](../../aspose.finance.ofx.investment/investmentbuy/payrolldate) { get; set; } | Получает или задает дату, когда средства для данной транзакции были получены путем удержания из заработной платы для счетов 401(k). |
-| [PriorYearContribution](../../aspose.finance.ofx.investment/investmentbuy/prioryearcontribution) { get; set; } | Получает или задает, была ли эта покупка совершена с взносом за предыдущий год для счетов 401(k). |
-| [SecurityId](../../aspose.finance.ofx.investment/investmentbuy/securityid) { get; set; } | Получает или задает[`SecurityId`](./securityid). |
-| [SubAccountFund](../../aspose.finance.ofx.investment/investmentbuy/subaccountfund) { get; set; } | Получает или устанавливает, откуда или куда ушли деньги для транзакции. |
-| [SubAccountSecurity](../../aspose.finance.ofx.investment/investmentbuy/subaccountsecurity) { get; set; } | Получает или задает тип субсчета для ценной бумаги |
+| [OriginCurrency](../../aspose.finance.ofx.investment/investmentbuy/origincurrency) { get; set; } | Получает или задает источник[`Currency`](./currency) . |
+| [PayrollDate](../../aspose.finance.ofx.investment/investmentbuy/payrolldate) { get; set; } | Получает или задает дату, когда средства для данной транзакции были получены за счет удержания из заработной платы для счетов 401(k). |
+| [PriorYearContribution](../../aspose.finance.ofx.investment/investmentbuy/prioryearcontribution) { get; set; } | Получает или задает, была ли эта покупка сделана с взносом за предыдущий год для счетов 401(k). |
+| [SecurityId](../../aspose.finance.ofx.investment/investmentbuy/securityid) { get; set; } | Получает или задает[`SecurityId`](./securityid) . |
+| [SubAccountFund](../../aspose.finance.ofx.investment/investmentbuy/subaccountfund) { get; set; } | Получает или задает, откуда пришли или куда ушли деньги для транзакции. |
+| [SubAccountSecurity](../../aspose.finance.ofx.investment/investmentbuy/subaccountsecurity) { get; set; } | Получает или задает тип дополнительной учетной записи для security |
 | [Taxes](../../aspose.finance.ofx.investment/investmentbuy/taxes) { get; set; } | Получает или устанавливает налоги на сделку. |
 | [Total](../../aspose.finance.ofx.investment/investmentbuy/total) { get; set; } | Получает или задает общую сумму транзакции. |
-| [UnitPrice](../../aspose.finance.ofx.investment/investmentbuy/unitprice) { get; set; } | Получает или задает цену за общеизвестную единицу. Не включает разметку/уценку. Цена акций для акций, взаимных фондов и других. Процент от номинала облигаций. За акцию (не контракт) для опционов. |
+| [UnitPrice](../../aspose.finance.ofx.investment/investmentbuy/unitprice) { get; set; } | Получает или задает цену за общеизвестную единицу. Не включает разметку/уценку. Цена акций для акций, взаимных фондов и других. Процент от номинала облигаций. На акцию (не контракт) для опционов. |
 | [Units](../../aspose.finance.ofx.investment/investmentbuy/units) { get; set; } | Получает или задает единицы измерения. Для действий, основанных на безопасности, кроме дробления акций. Акции для акций, взаимных фондов и др. Номинальная стоимость облигаций. Контракты на опционы. |
 
 ### Смотрите также

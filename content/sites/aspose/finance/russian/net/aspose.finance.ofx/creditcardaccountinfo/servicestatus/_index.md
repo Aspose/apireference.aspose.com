@@ -1,14 +1,14 @@
 ---
 title: ServiceStatus
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает статус учетной записи.
+description: Получает или устанавливает статус учетной записи.
 type: docs
 weight: 40
 url: /ru/net/aspose.finance.ofx/creditcardaccountinfo/servicestatus/
 ---
 ## CreditCardAccountInfo.ServiceStatus property
 
-Получает или задает статус учетной записи.
+Получает или устанавливает статус учетной записи.
 
 ```csharp
 public ServiceStatusEnum ServiceStatus { get; set; }

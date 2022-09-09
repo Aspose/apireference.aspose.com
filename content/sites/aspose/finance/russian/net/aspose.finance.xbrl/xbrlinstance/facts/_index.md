@@ -1,14 +1,14 @@
 ---
 title: Facts
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает коллекцию объектовFactaspose.finance.xbrl/factв экземпляре XBRL.
+description: Получает коллекциюFactaspose.finance.xbrl/fact объекты в экземпляре XBRL.
 type: docs
 weight: 30
 url: /ru/net/aspose.finance.xbrl/xbrlinstance/facts/
 ---
 ## XbrlInstance.Facts property
 
-Получает коллекцию объектов[`Fact`](../../fact)в экземпляре XBRL.
+Получает коллекцию[`Fact`](../../fact) объекты в экземпляре XBRL.
 
 ```csharp
 public List<Fact> Facts { get; }

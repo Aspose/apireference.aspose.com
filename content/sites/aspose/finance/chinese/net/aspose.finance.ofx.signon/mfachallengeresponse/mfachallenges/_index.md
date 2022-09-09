@@ -1,14 +1,14 @@
 ---
 title: MFAChallenges
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置MFAChallengeaspose.finance.ofx.signon/mfachallenge的集合
+description: 获取或设置的集合MFAChallengeaspose.finance.ofx.signon/mfachallenge.
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.ofx.signon/mfachallengeresponse/mfachallenges/
 ---
 ## MFAChallengeResponse.MFAChallenges property
 
-获取或设置[`MFAChallenge`](../../mfachallenge)的集合。
+获取或设置的集合[`MFAChallenge`](../../mfachallenge).
 
 ```csharp
 public List<MFAChallenge> MFAChallenges { get; set; }

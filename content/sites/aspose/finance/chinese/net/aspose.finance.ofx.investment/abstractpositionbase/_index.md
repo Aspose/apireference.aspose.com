@@ -18,7 +18,7 @@ public abstract class AbstractPositionBase
 
 | 姓名 | 描述 |
 | --- | --- |
-| [InvestmentPosition](../../aspose.finance.ofx.investment/abstractpositionbase/investmentposition) { get; set; } | 获取或设置[`InvestmentPosition`](./investmentposition)。 |
+| [InvestmentPosition](../../aspose.finance.ofx.investment/abstractpositionbase/investmentposition) { get; set; } | 获取或设置[`InvestmentPosition`](./investmentposition). |
 
 ### 也可以看看
 

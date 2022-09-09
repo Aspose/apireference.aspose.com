@@ -1,14 +1,14 @@
 ---
 title: CountryString
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или устанавливает страну не сокращая.
+description: Получает или задает страну не сокращайте.
 type: docs
 weight: 60
 url: /ru/net/aspose.finance.ofx.taxw2/employer/countrystring/
 ---
 ## Employer.CountryString property
 
-Получает или устанавливает страну, не сокращая.
+Получает или задает страну, не сокращайте.
 
 ```csharp
 public string CountryString { get; set; }

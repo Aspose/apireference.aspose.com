@@ -1,14 +1,14 @@
 ---
 title: WireTransferRequestMessageSetV1
 second_title: Справочник по API Aspose.Finance для .NET
-description: Сообщения с запросами на банковский перевод установлены класс версии 1.
+description: Сообщения запроса банковского перевода устанавливают класс версии 1.
 type: docs
 weight: 6440
 url: /ru/net/aspose.finance.ofx/wiretransferrequestmessagesetv1/
 ---
 ## WireTransferRequestMessageSetV1 class
 
-Сообщения с запросами на банковский перевод установлены класс версии 1.
+Сообщения запроса банковского перевода устанавливают класс версии 1.
 
 ```csharp
 public class WireTransferRequestMessageSetV1 : AbstractRequestMessageSet
@@ -18,14 +18,14 @@ public class WireTransferRequestMessageSetV1 : AbstractRequestMessageSet
 
 | Имя | Описание |
 | --- | --- |
-| [WireTransferRequestMessageSetV1](wiretransferrequestmessagesetv1)() | Инициализирует новый экземпляр класса[`WireTransferRequestMessageSetV1`](../wiretransferrequestmessagesetv1). |
+| [WireTransferRequestMessageSetV1](wiretransferrequestmessagesetv1)() | Инициализирует новый экземпляр[`WireTransferRequestMessageSetV1`](../wiretransferrequestmessagesetv1) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [WireSyncRequests](../../aspose.finance.ofx/wiretransferrequestmessagesetv1/wiresyncrequests) { get; set; } | Получает или задает коллекцию[`WireSyncRequest`](../../aspose.finance.ofx.wiretransfer/wiresyncrequest). |
-| [WireTransactionRequests](../../aspose.finance.ofx/wiretransferrequestmessagesetv1/wiretransactionrequests) { get; set; } | Получает или задает коллекцию[`WireTransactionRequest`](../../aspose.finance.ofx.wiretransfer/wiretransactionrequest). |
+| [WireSyncRequests](../../aspose.finance.ofx/wiretransferrequestmessagesetv1/wiresyncrequests) { get; set; } | Получает или задает коллекцию[`WireSyncRequest`](../../aspose.finance.ofx.wiretransfer/wiresyncrequest) . |
+| [WireTransactionRequests](../../aspose.finance.ofx/wiretransferrequestmessagesetv1/wiretransactionrequests) { get; set; } | Получает или задает коллекцию[`WireTransactionRequest`](../../aspose.finance.ofx.wiretransfer/wiretransactionrequest) . |
 
 ### Смотрите также
 

@@ -18,17 +18,17 @@ public class AccountInfo
 
 | Имя | Описание |
 | --- | --- |
-| [AccountInfo](accountinfo)() | Инициализирует новый экземпляр класса[`AccountInfo`](../accountinfo). |
+| [AccountInfo](accountinfo)() | Инициализирует новый экземпляр[`AccountInfo`](../accountinfo) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [AccountInfos](../../aspose.finance.ofx/accountinfo/accountinfos) { get; set; } | Получает или задает коллекцию[`BankAccountInfo`](../bankaccountinfo)или[`LoanAccountInfo`](../loanaccountinfo)или[`CreditCardAccountInfo`](../creditcardaccountinfo) или[`BillPaymentAccountInfo`](../billpaymentaccountinfo)или[`InvestmentAccountInfo`](../investmentaccountinfo)или[`PresentmentAccountInfo`](../presentmentaccountinfo). |
+| [AccountInfos](../../aspose.finance.ofx/accountinfo/accountinfos) { get; set; } | Получает или задает коллекцию[`BankAccountInfo`](../bankaccountinfo) или же[`LoanAccountInfo`](../loanaccountinfo) или же[`CreditCardAccountInfo`](../creditcardaccountinfo) или[`BillPaymentAccountInfo`](../billpaymentaccountinfo) или же[`InvestmentAccountInfo`](../investmentaccountinfo) или же[`PresentmentAccountInfo`](../presentmentaccountinfo) . |
 | [Description](../../aspose.finance.ofx/accountinfo/description) { get; set; } | Получает или задает описание учетной записи |
-| [HolderInfo](../../aspose.finance.ofx/accountinfo/holderinfo) { get; set; } | Получает или задает[`HolderInfoType`](../holderinfotype). |
-| [Name](../../aspose.finance.ofx/accountinfo/name) { get; set; } | Получает или задает имя/псевдоним для учетной записи. |
-| [Phone](../../aspose.finance.ofx/accountinfo/phone) { get; set; } | Получает или задает номер телефона для учетной записи. |
+| [HolderInfo](../../aspose.finance.ofx/accountinfo/holderinfo) { get; set; } | Получает или задает[`HolderInfoType`](../holderinfotype) . |
+| [Name](../../aspose.finance.ofx/accountinfo/name) { get; set; } | Получает или задает имя/псевдоним для учетной записи, определяемый пользователем. |
+| [Phone](../../aspose.finance.ofx/accountinfo/phone) { get; set; } | Получает или устанавливает номер телефона для учетной записи. |
 
 ### Смотрите также
 

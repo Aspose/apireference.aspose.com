@@ -14,9 +14,9 @@ url: /ru/net/aspose.finance.ofx.creditcard/
 | --- | --- |
 | [CreditCardClosing](./creditcardclosing) | Счет кредитной карты использует класс CreditCardClosing для описания информации о закрытии выписки. |
 | [CreditCardStatementEndRequest](./creditcardstatementendrequest) | Класс запроса выписки о закрытии кредитной карты. |
-| [CreditCardStatementEndResponse](./creditcardstatementendresponse) | Класс ответа на отчет о закрытии кредитной карты. |
+| [CreditCardStatementEndResponse](./creditcardstatementendresponse) | Класс ответа на заявление о закрытии кредитной карты. |
 | [CreditCardStatementEndTransactionRequest](./creditcardstatementendtransactionrequest) | Класс запроса транзакции выписки по кредитной карте. |
-| [CreditCardStatementEndTransactionResponse](./creditcardstatementendtransactionresponse) | Класс ответа транзакции выписки по кредитной карте. |
+| [CreditCardStatementEndTransactionResponse](./creditcardstatementendtransactionresponse) | Класс ответа транзакции выписки о закрытии кредитной карты. |
 | [CreditCardStatementRequest](./creditcardstatementrequest) | Запрос на загрузку кредитной карты семантически идентичен запросу на загрузку банковской выписки. |
 | [CreditCardStatementResponse](./creditcardstatementresponse) | Класс ответа на загрузку кредитной карты. |
 | [CreditCardStatementTransactionRequest](./creditcardstatementtransactionrequest) | Класс запроса транзакции загрузки кредитной карты. |

@@ -1,14 +1,14 @@
 ---
 title: Tax1098ResponseMessageSetV1
 second_title: Aspose.Finance for .NET API 参考
-description: Tax 1098 响应消息设置版本 1 类
+description: 税 1098 响应消息设置版本 1 类
 type: docs
 weight: 5850
 url: /zh/net/aspose.finance.ofx/tax1098responsemessagesetv1/
 ---
 ## Tax1098ResponseMessageSetV1 class
 
-Tax 1098 响应消息设置版本 1 类。
+税 1098 响应消息设置版本 1 类。
 
 ```csharp
 public class Tax1098ResponseMessageSetV1 : AbstractResponseMessageSet
@@ -18,13 +18,13 @@ public class Tax1098ResponseMessageSetV1 : AbstractResponseMessageSet
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Tax1098ResponseMessageSetV1](tax1098responsemessagesetv1)() | 初始化[`Tax1098ResponseMessageSetV1`](../tax1098responsemessagesetv1)类的新实例。 |
+| [Tax1098ResponseMessageSetV1](tax1098responsemessagesetv1)() | 初始化一个新的实例[`Tax1098ResponseMessageSetV1`](../tax1098responsemessagesetv1)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Tax1098TransactionResponses](../../aspose.finance.ofx/tax1098responsemessagesetv1/tax1098transactionresponses) { get; set; } | 获取或设置[`Tax1098TransactionResponse`](../../aspose.finance.ofx.tax1098/tax1098transactionresponse)的集合。 |
+| [Tax1098TransactionResponses](../../aspose.finance.ofx/tax1098responsemessagesetv1/tax1098transactionresponses) { get; set; } | 获取或设置的集合[`Tax1098TransactionResponse`](../../aspose.finance.ofx.tax1098/tax1098transactionresponse). |
 
 ### 也可以看看
 

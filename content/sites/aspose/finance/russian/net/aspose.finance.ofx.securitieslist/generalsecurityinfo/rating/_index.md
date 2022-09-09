@@ -1,14 +1,14 @@
 ---
 title: Rating
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает рейтинг.
+description: Получает или устанавливает рейтинг.
 type: docs
 weight: 60
 url: /ru/net/aspose.finance.ofx.securitieslist/generalsecurityinfo/rating/
 ---
 ## GeneralSecurityInfo.Rating property
 
-Получает или задает рейтинг.
+Получает или устанавливает рейтинг.
 
 ```csharp
 public string Rating { get; set; }

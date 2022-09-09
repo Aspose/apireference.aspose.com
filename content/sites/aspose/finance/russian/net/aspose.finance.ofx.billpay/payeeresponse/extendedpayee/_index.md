@@ -1,14 +1,14 @@
 ---
 title: ExtendedPayee
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задаетExtendedPayeeaspose.finance.ofx.billpay/extendedpayee.
+description: Получает или задаетExtendedPayeeaspose.finance.ofx.billpay/extendedpayee .
 type: docs
 weight: 30
 url: /ru/net/aspose.finance.ofx.billpay/payeeresponse/extendedpayee/
 ---
 ## PayeeResponse.ExtendedPayee property
 
-Получает или задает[`ExtendedPayee`](../../extendedpayee).
+Получает или задает[`ExtendedPayee`](../../extendedpayee) .
 
 ```csharp
 public ExtendedPayee ExtendedPayee { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: Payee
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置Payeeaspose.finance.ofx/statementtransaction/payee
+description: 获取或设置Payeeaspose.finance.ofx/statementtransaction/payee.
 type: docs
 weight: 150
 url: /zh/net/aspose.finance.ofx/statementtransaction/payee/
 ---
 ## StatementTransaction.Payee property
 
-获取或设置`Payee`。
+获取或设置`Payee`.
 
 ```csharp
 public Payee Payee { get; set; }

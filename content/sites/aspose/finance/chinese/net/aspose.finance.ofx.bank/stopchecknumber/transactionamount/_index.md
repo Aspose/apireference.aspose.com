@@ -8,7 +8,7 @@ url: /zh/net/aspose.finance.ofx.bank/stopchecknumber/transactionamount/
 ---
 ## StopCheckNumber.TransactionAmount property
 
-获取或设置交易金额。
+获取或设置交易金额
 
 ```csharp
 public string TransactionAmount { get; set; }

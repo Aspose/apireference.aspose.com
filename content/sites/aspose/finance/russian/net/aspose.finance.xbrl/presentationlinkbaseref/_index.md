@@ -1,14 +1,14 @@
 ---
 title: PresentationLinkbaseRef
 second_title: Справочник по API Aspose.Finance для .NET
-description: Этот класс используется для представления ссылки на базу ссылок.
+description: Этот класс используется для ссылки на базу ссылок презентации.
 type: docs
 weight: 7880
 url: /ru/net/aspose.finance.xbrl/presentationlinkbaseref/
 ---
 ## PresentationLinkbaseRef class
 
-Этот класс используется для представления ссылки на базу ссылок.
+Этот класс используется для ссылки на базу ссылок презентации.
 
 ```csharp
 public class PresentationLinkbaseRef : LinkbaseRef
@@ -20,11 +20,11 @@ public class PresentationLinkbaseRef : LinkbaseRef
 | --- | --- |
 | [Actuate](../../aspose.finance.xbrl/simplelink/actuate) { get; set; } | Получает или задает атрибут активации простой ссылки. |
 | [Arcrole](../../aspose.finance.xbrl/simplelink/arcrole) { get; set; } | Получает или задает роль дуги простой ссылки. |
-| [ArcroleReferences](../../aspose.finance.xbrl/linkbaseref/arcrolereferences) { get; set; } | Получает или задает коллекцию объектов[`ArcroleReference`](../arcrolereference)в базе ссылок. |
+| [ArcroleReferences](../../aspose.finance.xbrl/linkbaseref/arcrolereferences) { get; set; } | Получает или задает коллекцию[`ArcroleReference`](../arcrolereference) объекты в базе ссылок. |
 | [Href](../../aspose.finance.xbrl/simplelink/href) { get; set; } | Получает или задает URI href простой ссылки. |
-| [Links](../../aspose.finance.xbrl/presentationlinkbaseref/links) { get; } | Получает коллекцию[`PresentationLink`](../presentationlink). |
+| [Links](../../aspose.finance.xbrl/presentationlinkbaseref/links) { get; } | Получает коллекцию[`PresentationLink`](../presentationlink) . |
 | [Role](../../aspose.finance.xbrl/simplelink/role) { get; set; } | Получает или задает роль простой ссылки. |
-| [RoleReferences](../../aspose.finance.xbrl/linkbaseref/rolereferences) { get; set; } | Получает или задает коллекцию объектов[`RoleReference`](../rolereference)в базе ссылок. |
+| [RoleReferences](../../aspose.finance.xbrl/linkbaseref/rolereferences) { get; set; } | Получает или задает коллекцию[`RoleReference`](../rolereference) объекты в базе ссылок. |
 | [Show](../../aspose.finance.xbrl/simplelink/show) { get; set; } | Получает или задает атрибут показа простой ссылки. |
 | [Title](../../aspose.finance.xbrl/simplelink/title) { get; set; } | Получает или задает простой заголовок ссылки. |
 | [Type](../../aspose.finance.xbrl/xlink/type) { get; } | Получает тип ссылки. |

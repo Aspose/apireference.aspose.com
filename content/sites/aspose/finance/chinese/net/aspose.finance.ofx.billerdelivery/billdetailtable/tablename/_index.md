@@ -8,7 +8,7 @@ url: /zh/net/aspose.finance.ofx.billerdelivery/billdetailtable/tablename/
 ---
 ## BillDetailTable.TableName property
 
-获取或设置账单明细表名称。
+获取或设置账单明细表名称
 
 ```csharp
 public string TableName { get; set; }

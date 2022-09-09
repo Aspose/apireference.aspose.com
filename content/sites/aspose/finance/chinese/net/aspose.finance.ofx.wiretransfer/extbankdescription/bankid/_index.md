@@ -1,14 +1,14 @@
 ---
 title: BANKID
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置银行 ID路由ABA 号码或 SWIFT 号码
+description: 获取或设置银行 ID路由ABA号码或SWIFT号码
 type: docs
 weight: 50
 url: /zh/net/aspose.finance.ofx.wiretransfer/extbankdescription/bankid/
 ---
 ## ExtBankDescription.BANKID property
 
-获取或设置银行 ID。路由：ABA 号码或 SWIFT 号码。
+获取或设置银行 ID。路由：ABA号码或SWIFT号码。
 
 ```csharp
 public string BANKID { get; set; }

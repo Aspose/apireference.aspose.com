@@ -1,14 +1,14 @@
 ---
 title: TransactionAmount
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает сумму депозита.
+description: Получает или устанавливает сумму депозита.
 type: docs
 weight: 50
 url: /ru/net/aspose.finance.ofx.bank/depositmailresponse/transactionamount/
 ---
 ## DepositMailResponse.TransactionAmount property
 
-Получает или задает сумму депозита.
+Получает или устанавливает сумму депозита.
 
 ```csharp
 public string TransactionAmount { get; set; }

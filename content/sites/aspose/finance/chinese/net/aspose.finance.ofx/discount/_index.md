@@ -1,14 +1,14 @@
 ---
 title: Discount
 second_title: Aspose.Finance for .NET API 参考
-description: 折扣班
+description: 折扣类.
 type: docs
 weight: 2110
 url: /zh/net/aspose.finance.ofx/discount/
 ---
 ## Discount class
 
-折扣班。
+折扣类.
 
 ```csharp
 public class Discount
@@ -18,7 +18,7 @@ public class Discount
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Discount](discount)() | 初始化[`Discount`](../discount)类的新实例。 |
+| [Discount](discount)() | 初始化一个新的实例[`Discount`](../discount)类. |
 
 ## 特性
 
@@ -26,7 +26,7 @@ public class Discount
 | --- | --- |
 | [DiscountAmount](../../aspose.finance.ofx/discount/discountamount) { get; set; } | 获取或设置折扣金额。 |
 | [DiscountDate](../../aspose.finance.ofx/discount/discountdate) { get; set; } | 获取或设置应用折扣的日期 |
-| [DiscountDescription](../../aspose.finance.ofx/discount/discountdescription) { get; set; } | 获取或设置折扣说明。 |
+| [DiscountDescription](../../aspose.finance.ofx/discount/discountdescription) { get; set; } | 获取或设置折扣描述。 |
 | [DiscountRate](../../aspose.finance.ofx/discount/discountrate) { get; set; } | 获取或设置折扣率。 |
 
 ### 也可以看看

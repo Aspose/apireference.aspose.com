@@ -1,14 +1,14 @@
 ---
 title: PayeeModResponse
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаPayeeModResponseaspose.finance.ofx.billpay/payeemodresponse.
+description: Инициализирует новый экземплярPayeeModResponseaspose.finance.ofx.billpay/payeemodresponse класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.billpay/payeemodresponse/payeemodresponse/
 ---
 ## PayeeModResponse constructor
 
-Инициализирует новый экземпляр класса[`PayeeModResponse`](../../payeemodresponse).
+Инициализирует новый экземпляр[`PayeeModResponse`](../../payeemodresponse) класс.
 
 ```csharp
 public PayeeModResponse()

@@ -8,7 +8,7 @@ url: /zh/net/aspose.finance.ofx.profile/profileresponse/customerservicephone/
 ---
 ## ProfileResponse.CustomerServicePhone property
 
-获取或设置客服电话号码。
+获取或设置客服电话号码
 
 ```csharp
 public string CustomerServicePhone { get; set; }

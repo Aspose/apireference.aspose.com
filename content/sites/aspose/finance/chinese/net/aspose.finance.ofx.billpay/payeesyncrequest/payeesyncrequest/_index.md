@@ -1,14 +1,14 @@
 ---
 title: PayeeSyncRequest
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化PayeeSyncRequestaspose.finance.ofx.billpay/payeesyncrequest类的新实例
+description: 初始化一个新的实例PayeeSyncRequestaspose.finance.ofx.billpay/payeesyncrequest类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.billpay/payeesyncrequest/payeesyncrequest/
 ---
 ## PayeeSyncRequest constructor
 
-初始化[`PayeeSyncRequest`](../../payeesyncrequest)类的新实例。
+初始化一个新的实例[`PayeeSyncRequest`](../../payeesyncrequest)类.
 
 ```csharp
 public PayeeSyncRequest()

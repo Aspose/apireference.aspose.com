@@ -1,14 +1,14 @@
 ---
 title: BillPublisher
 second_title: Aspose.Finance for .NET API 参考
-description: 在服务提供商处获取或设置与此收款人关联的账单发布者的名称
+description: 获取或设置与此收款人关联的账单发布者的名称以便在服务提供商处支付
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.ofx.billpay/billpubinfo/billpublisher/
 ---
 ## BillPubInfo.BillPublisher property
 
-在服务提供商处获取或设置与此收款人关联的账单发布者的名称。
+获取或设置与此收款人关联的账单发布者的名称，以便在服务提供商处支付。
 
 ```csharp
 public string BillPublisher { get; set; }

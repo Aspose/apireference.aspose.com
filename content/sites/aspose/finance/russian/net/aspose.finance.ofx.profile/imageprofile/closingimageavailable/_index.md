@@ -1,14 +1,14 @@
 ---
 title: ClosingImageAvailable
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает поддерживает ли сервер изображения закрывающих инструкций.
+description: Получает или задает поддерживает ли сервер изображения закрывающих операторов.
 type: docs
 weight: 20
 url: /ru/net/aspose.finance.ofx.profile/imageprofile/closingimageavailable/
 ---
 ## ImageProfile.ClosingImageAvailable property
 
-Получает или задает, поддерживает ли сервер изображения закрывающих инструкций.
+Получает или задает, поддерживает ли сервер изображения закрывающих операторов.
 
 ```csharp
 public bool ClosingImageAvailable { get; set; }

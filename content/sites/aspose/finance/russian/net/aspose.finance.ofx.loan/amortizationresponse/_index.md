@@ -1,14 +1,14 @@
 ---
 title: AmortizationResponse
 second_title: Справочник по API Aspose.Finance для .NET
-description: Класс ответа отчета об амортизации.
+description: Класс ответов на заявление об амортизации.
 type: docs
 weight: 3750
 url: /ru/net/aspose.finance.ofx.loan/amortizationresponse/
 ---
 ## AmortizationResponse class
 
-Класс ответа отчета об амортизации.
+Класс ответов на заявление об амортизации.
 
 ```csharp
 public class AmortizationResponse
@@ -18,15 +18,15 @@ public class AmortizationResponse
 
 | Имя | Описание |
 | --- | --- |
-| [AmortizationResponse](amortizationresponse)() | Инициализирует новый экземпляр класса[`AmortizationResponse`](../amortizationresponse). |
+| [AmortizationResponse](amortizationresponse)() | Инициализирует новый экземпляр[`AmortizationResponse`](../amortizationresponse) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [AmortizationTransactionList](../../aspose.finance.ofx.loan/amortizationresponse/amortizationtransactionlist) { get; set; } | Получает или задает[`AmortizationTransactionList`](./amortizationtransactionlist). |
-| [Currency](../../aspose.finance.ofx.loan/amortizationresponse/currency) { get; set; } | Получает или задает валюту по умолчанию для инструкции |
-| [LoanAccountFrom](../../aspose.finance.ofx.loan/amortizationresponse/loanaccountfrom) { get; set; } | Получает или задает значение из[`LoanAccount`](../../aspose.finance.ofx/loanaccount). |
+| [AmortizationTransactionList](../../aspose.finance.ofx.loan/amortizationresponse/amortizationtransactionlist) { get; set; } | Получает или задает[`AmortizationTransactionList`](./amortizationtransactionlist) . |
+| [Currency](../../aspose.finance.ofx.loan/amortizationresponse/currency) { get; set; } | Получает или задает валюту по умолчанию для оператора |
+| [LoanAccountFrom](../../aspose.finance.ofx.loan/amortizationresponse/loanaccountfrom) { get; set; } | Получает или задает из[`LoanAccount`](../../aspose.finance.ofx/loanaccount) . |
 | [MarketingInformation](../../aspose.finance.ofx.loan/amortizationresponse/marketinginformation) { get; set; } | Получает или задает маркетинговую информацию. |
 
 ### Смотрите также

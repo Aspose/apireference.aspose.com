@@ -1,14 +1,14 @@
 ---
 title: ContextPeriod
 second_title: Справочник по API Aspose.Finance для .NET
-description: ПериодContext./context.
+description: Период действияContext./context .
 type: docs
 weight: 6560
 url: /ru/net/aspose.finance.xbrl/contextperiod/
 ---
 ## ContextPeriod class
 
-Период[`Context`](../context).
+Период действия[`Context`](../context) .
 
 ```csharp
 public class ContextPeriod
@@ -18,9 +18,9 @@ public class ContextPeriod
 
 | Имя | Описание |
 | --- | --- |
-| [ContextPeriod](contextperiod#constructor)(ContextPeriodType) | Инициализирует новый экземпляр класса[`ContextPeriod`](../contextperiod). |
-| [ContextPeriod](contextperiod#constructor_1)(DateTime) | Инициализирует новый экземпляр класса[`ContextPeriod`](../contextperiod)с типом Instant. |
-| [ContextPeriod](contextperiod#constructor_2)(DateTime, DateTime) | Инициализирует новый экземпляр класса[`ContextPeriod`](../contextperiod)с типом Duration. |
+| [ContextPeriod](contextperiod#constructor)(ContextPeriodType) | Инициализирует новый экземпляр[`ContextPeriod`](../contextperiod) класс. |
+| [ContextPeriod](contextperiod#constructor_1)(DateTime) | Инициализирует новый экземпляр[`ContextPeriod`](../contextperiod) класс с типом Instant. |
+| [ContextPeriod](contextperiod#constructor_2)(DateTime, DateTime) | Инициализирует новый экземпляр[`ContextPeriod`](../contextperiod) класс с типом Duration. |
 
 ## Характеристики
 

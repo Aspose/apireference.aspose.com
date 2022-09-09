@@ -18,7 +18,7 @@ public class Employee
 
 | Имя | Описание |
 | --- | --- |
-| [Employee](employee)() | Инициализирует новый экземпляр класса[`Employee`](../employee). |
+| [Employee](employee)() | Инициализирует новый экземпляр[`Employee`](../employee) класс. |
 
 ## Характеристики
 

@@ -1,14 +1,14 @@
 ---
 title: GetMimeTransactionResponses
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置GetMimeTransactionResponseaspose.finance.ofx.email/getmimetransactionresponse的集合
+description: 获取或设置的集合GetMimeTransactionResponseaspose.finance.ofx.email/getmimetransactionresponse.
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.ofx/emailresponsemessagesetv1/getmimetransactionresponses/
 ---
 ## EmailResponseMessageSetV1.GetMimeTransactionResponses property
 
-获取或设置[`GetMimeTransactionResponse`](../../../aspose.finance.ofx.email/getmimetransactionresponse)的集合。
+获取或设置的集合[`GetMimeTransactionResponse`](../../../aspose.finance.ofx.email/getmimetransactionresponse).
 
 ```csharp
 public List<GetMimeTransactionResponse> GetMimeTransactionResponses { get; set; }

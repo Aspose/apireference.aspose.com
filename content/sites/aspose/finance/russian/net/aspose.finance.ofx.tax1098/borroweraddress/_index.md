@@ -18,7 +18,7 @@ public class BorrowerAddress
 
 | Имя | Описание |
 | --- | --- |
-| [BorrowerAddress](borroweraddress)() | Инициализирует новый экземпляр класса[`BorrowerAddress`](../borroweraddress). |
+| [BorrowerAddress](borroweraddress)() | Инициализирует новый экземпляр[`BorrowerAddress`](../borroweraddress) класс. |
 
 ## Характеристики
 
@@ -28,7 +28,7 @@ public class BorrowerAddress
 | [Address2](../../aspose.finance.ofx.tax1098/borroweraddress/address2) { get; set; } | Получает или задает адрес заемщика, строка 2. |
 | [Address3](../../aspose.finance.ofx.tax1098/borroweraddress/address3) { get; set; } | Получает или задает адрес заемщика, строка 3. |
 | [BorrowerName](../../aspose.finance.ofx.tax1098/borroweraddress/borrowername) { get; set; } | Получает или задает имя заемщика. |
-| [City](../../aspose.finance.ofx.tax1098/borroweraddress/city) { get; set; } | Получает или задает город адреса заемщика. |
+| [City](../../aspose.finance.ofx.tax1098/borroweraddress/city) { get; set; } | Получает или задает адрес заемщика city. |
 | [PostalCode](../../aspose.finance.ofx.tax1098/borroweraddress/postalcode) { get; set; } | Получает или задает почтовый индекс адреса заемщика. |
 | [State](../../aspose.finance.ofx.tax1098/borroweraddress/state) { get; set; } | Получает или задает состояние адреса заемщика. |
 

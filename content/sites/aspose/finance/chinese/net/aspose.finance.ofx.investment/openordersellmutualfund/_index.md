@@ -1,14 +1,14 @@
 ---
 title: OpenOrderSellMutualFund
 second_title: Aspose.Finance for .NET API 参考
-description: 开单卖出共同基金类
+description: 开放订单卖出共同基金类
 type: docs
 weight: 3280
 url: /zh/net/aspose.finance.ofx.investment/openordersellmutualfund/
 ---
 ## OpenOrderSellMutualFund class
 
-开单卖出共同基金类。
+开放订单卖出共同基金类。
 
 ```csharp
 public class OpenOrderSellMutualFund : AbstractOpenOrder
@@ -18,16 +18,16 @@ public class OpenOrderSellMutualFund : AbstractOpenOrder
 
 | 姓名 | 描述 |
 | --- | --- |
-| [OpenOrderSellMutualFund](openordersellmutualfund)() | 初始化[`OpenOrderSellMutualFund`](../openordersellmutualfund)类的新实例。 |
+| [OpenOrderSellMutualFund](openordersellmutualfund)() | 初始化一个新的实例[`OpenOrderSellMutualFund`](../openordersellmutualfund)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [OpenOrder](../../aspose.finance.ofx.investment/abstractopenorder/openorder) { get; set; } | 获取或设置[`GeneralOpenOrder`](../generalopenorder)。 |
+| [OpenOrder](../../aspose.finance.ofx.investment/abstractopenorder/openorder) { get; set; } | 获取或设置[`GeneralOpenOrder`](../generalopenorder). |
 | [SellAll](../../aspose.finance.ofx.investment/openordersellmutualfund/sellall) { get; set; } | 获取或设置是否出售整个持股。 |
 | [SellType](../../aspose.finance.ofx.investment/openordersellmutualfund/selltype) { get; set; } | 获取或设置销售类型。 |
-| [UnitType](../../aspose.finance.ofx.investment/openordersellmutualfund/unittype) { get; set; } | 获取或设置单位所代表的内容。 |
+| [UnitType](../../aspose.finance.ofx.investment/openordersellmutualfund/unittype) { get; set; } | 获取或设置单位表示的内容。 |
 
 ### 也可以看看
 

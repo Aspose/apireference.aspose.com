@@ -1,14 +1,14 @@
 ---
 title: FinancialInstitutionId
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置金融机构 ID组织内唯一
+description: 获取或设置金融机构 ID在组织内唯一
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.ofx.signon/financialinstitution/financialinstitutionid/
 ---
 ## FinancialInstitution.FinancialInstitutionId property
 
-获取或设置金融机构 ID（组织内唯一）
+获取或设置金融机构 ID（在组织内唯一）
 
 ```csharp
 public string FinancialInstitutionId { get; set; }

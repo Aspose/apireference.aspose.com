@@ -13,25 +13,25 @@ url: /ru/net/aspose.finance.ofx.tax1099/
 | Учебный класс | Описание |
 | --- | --- |
 | [AbstractTaxForm1099](./abstracttaxform1099) | Абстрактный базовый класс налоговой формы 1099 классов. |
-| [AdditionalStateTaxWithheldAggregate](./additionalstatetaxwithheldaggregate) | Налог штата удерживается, когда необходимо указать более одного штата |
+| [AdditionalStateTaxWithheldAggregate](./additionalstatetaxwithheldaggregate) | Налог штата удерживается, если необходимо указать более одного штата |
 | [AddlStateTaxWheldAggregate](./addlstatetaxwheldaggregate) | Необязательный класс удержания налога штата, который обрабатывает декларации об удержании налога для одного или нескольких штатов. |
 | [ExtendedBInfo_V100](./extendedbinfo_v100) | Расширенная информация 1099B, обычно содержащаяся в сводных отчетах брокера 1099B. |
 | [FIDirectDepositInfo](./fidirectdepositinfo) | Дополнительный класс прямого депозита. |
 | [LocalTaxWithheldAggregate](./localtaxwithheldaggregate) | Класс удержания местного налога. |
 | [PayerAddress](./payeraddress) | Класс адреса плательщика. |
-| [ProceedDescription_V100](./proceeddescription_v100) | Налоговая форма 1099-B Класс описания доходов. |
-| [ProceedSummary_V100](./proceedsummary_v100) | Налоговая форма 1099-B сводного класса доходов. |
+| [ProceedDescription_V100](./proceeddescription_v100) | Класс описания доходов в налоговой форме 1099-B. |
+| [ProceedSummary_V100](./proceedsummary_v100) | Суммарный класс налоговой формы 1099-B по поступлениям. |
 | [RecipientAddress](./recipientaddress) |  |
-| [StateTaxWithheldAggregate](./statetaxwithheldaggregate) | Класс удержанного государственного налога. |
+| [StateTaxWithheldAggregate](./statetaxwithheldaggregate) | Класс удержания государственного налога. |
 | [StocksBonds](./stocksbonds) | Акции, облигации и т. д. |
-| [Tax1099B_V100](./tax1099b_v100) | Налоговая 1099B Класс формы V100. |
+| [Tax1099B_V100](./tax1099b_v100) | Класс формы 1099B V100. |
 | [Tax1099DIV_V100](./tax1099div_v100) | Класс формы 1099-DIV V100. |
-| [Tax1099INT_V100](./tax1099int_v100) | Налоговая форма 1099-INT V100 класс формы. |
+| [Tax1099INT_V100](./tax1099int_v100) | Класс формы 1099-INT V100. |
 | [Tax1099MISC_V100](./tax1099misc_v100) | Класс формы Tax 1099 MISC. |
-| [Tax1099OID_V100](./tax1099oid_v100) | Налоговая форма 1099-OID V100 класс формы. |
-| [Tax1099Request](./tax1099request) | Класс запроса Tax 1099. Это запрашивает все типы налоговых форм 1099 с сервера. |
-| [Tax1099Response](./tax1099response) | Класс ответа Tax 1099. |
-| [Tax1099R_V100](./tax1099r_v100) | Налоговая 1099R Класс формы V100. |
+| [Tax1099OID_V100](./tax1099oid_v100) | Класс формы 1099-OID V100. |
+| [Tax1099Request](./tax1099request) | Класс запроса Tax 1099. Это запрашивает все типы 1099 налоговых форм с сервера. |
+| [Tax1099Response](./tax1099response) | Класс ответов Tax 1099. |
+| [Tax1099R_V100](./tax1099r_v100) | Налоговая форма 1099R V100 класс. |
 | [Tax1099TransactionRequest](./tax1099transactionrequest) | Класс запроса транзакции Tax 1099. |
 | [Tax1099TransactionResponse](./tax1099transactionresponse) | Класс ответа транзакции Tax 1099. |
 ## перечисление

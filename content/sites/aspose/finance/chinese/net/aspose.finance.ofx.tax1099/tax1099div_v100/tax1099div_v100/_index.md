@@ -1,14 +1,14 @@
 ---
 title: Tax1099DIV_V100
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化Tax1099DIV_V100aspose.finance.ofx.tax1099/tax1099div_v100类的新实例
+description: 初始化一个新的实例Tax1099DIV_V100aspose.finance.ofx.tax1099/tax1099div_v100类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.tax1099/tax1099div_v100/tax1099div_v100/
 ---
 ## Tax1099DIV_V100 constructor
 
-初始化[`Tax1099DIV_V100`](../../tax1099div_v100)类的新实例。
+初始化一个新的实例[`Tax1099DIV_V100`](../../tax1099div_v100)类.
 
 ```csharp
 public Tax1099DIV_V100()

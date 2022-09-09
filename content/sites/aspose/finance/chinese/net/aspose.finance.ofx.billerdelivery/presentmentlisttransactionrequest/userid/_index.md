@@ -1,14 +1,14 @@
 ---
 title: UserId
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置用户 ID
+description: 获取或设置用户id
 type: docs
 weight: 50
 url: /zh/net/aspose.finance.ofx.billerdelivery/presentmentlisttransactionrequest/userid/
 ---
 ## PresentmentListTransactionRequest.UserId property
 
-获取或设置用户 ID。
+获取或设置用户id。
 
 ```csharp
 public string UserId { get; set; }

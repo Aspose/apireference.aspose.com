@@ -1,14 +1,14 @@
 ---
 title: LoanPaymentAmount
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化LoanPaymentAmountaspose.finance.ofx/loanpaymentamount类的新实例
+description: 初始化一个新的实例LoanPaymentAmountaspose.finance.ofx/loanpaymentamount类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx/loanpaymentamount/loanpaymentamount/
 ---
 ## LoanPaymentAmount constructor
 
-初始化[`LoanPaymentAmount`](../../loanpaymentamount)类的新实例。
+初始化一个新的实例[`LoanPaymentAmount`](../../loanpaymentamount)类.
 
 ```csharp
 public LoanPaymentAmount()

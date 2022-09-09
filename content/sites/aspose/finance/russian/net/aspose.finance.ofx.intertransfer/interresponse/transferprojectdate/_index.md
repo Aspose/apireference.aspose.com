@@ -1,14 +1,14 @@
 ---
 title: TransferProjectDate
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает предполагаемую дату переноса.
+description: Получает или задает прогнозируемую дату переноса.
 type: docs
 weight: 90
 url: /ru/net/aspose.finance.ofx.intertransfer/interresponse/transferprojectdate/
 ---
 ## InterResponse.TransferProjectDate property
 
-Получает или задает предполагаемую дату переноса.
+Получает или задает прогнозируемую дату переноса.
 
 ```csharp
 public string TransferProjectDate { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: OpenOrderDownload
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置FI服务器是否下载投资开放订单
+description: 获取或设置FI服务器是否下载投资未结订单
 type: docs
 weight: 70
 url: /zh/net/aspose.finance.ofx.profile/investmentstatementmessagesetv1/openorderdownload/
 ---
 ## InvestmentStatementMessageSetV1.OpenOrderDownload property
 
-获取或设置FI服务器是否下载投资开放订单
+获取或设置FI服务器是否下载投资未结订单
 
 ```csharp
 public bool OpenOrderDownload { get; set; }

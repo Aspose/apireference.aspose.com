@@ -1,14 +1,14 @@
 ---
 title: Address3
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает строку адреса банка 3.
+description: Получает или задает адресную строку банка 3.
 type: docs
 weight: 40
 url: /ru/net/aspose.finance.ofx.wiretransfer/extbankdescription/address3/
 ---
 ## ExtBankDescription.Address3 property
 
-Получает или задает строку адреса банка 3.
+Получает или задает адресную строку банка 3.
 
 ```csharp
 public string Address3 { get; set; }

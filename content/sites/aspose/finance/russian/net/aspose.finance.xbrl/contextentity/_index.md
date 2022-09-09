@@ -1,14 +1,14 @@
 ---
 title: ContextEntity
 second_title: Справочник по API Aspose.Finance для .NET
-description: ОбъектContext./context.
+description: СущностьContext./context .
 type: docs
 weight: 6550
 url: /ru/net/aspose.finance.xbrl/contextentity/
 ---
 ## ContextEntity class
 
-Объект[`Context`](../context).
+Сущность[`Context`](../context) .
 
 ```csharp
 public class ContextEntity
@@ -18,7 +18,7 @@ public class ContextEntity
 
 | Имя | Описание |
 | --- | --- |
-| [ContextEntity](contextentity)(string, string) | Инициализирует новый экземпляр класса[`ContextEntity`](../contextentity). |
+| [ContextEntity](contextentity)(string, string) | Инициализирует новый экземпляр[`ContextEntity`](../contextentity) класс. |
 
 ## Характеристики
 
@@ -26,7 +26,7 @@ public class ContextEntity
 | --- | --- |
 | [DimensionMemberList](../../aspose.finance.xbrl/contextentity/dimensionmemberlist) { get; } | Получает список элементов измерения, определенный в сегменте. |
 | [Identifier](../../aspose.finance.xbrl/contextentity/identifier) { get; set; } | Получает или задает идентификатор объекта контекста. |
-| [IdentifierScheme](../../aspose.finance.xbrl/contextentity/identifierscheme) { get; set; } | Получает или задает схему идентификатора объекта контекста. |
+| [IdentifierScheme](../../aspose.finance.xbrl/contextentity/identifierscheme) { get; set; } | Получает или задает схему идентификатора сущности контекста. |
 
 ### Смотрите также
 

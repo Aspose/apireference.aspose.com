@@ -1,14 +1,14 @@
 ---
 title: TaxForm1099s
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置Tax1099MISC_V100aspose.finance.ofx.tax1099/tax1099misc_v100或TAX1099R_V100或的集合TAX1099B_V100 或TAX1099INT_V100或TAX1099DIV_V100或TAX1099OID_V100
+description: 获取或设置的集合Tax1099MISC_V100aspose.finance.ofx.tax1099/tax1099misc_v100或者TAX1099R_V100或者TAX1099B_V100 或TAX1099INT_V100或者TAX1099DIV_V100或者TAX1099OID_V100.
 type: docs
 weight: 50
 url: /zh/net/aspose.finance.ofx.tax1099/tax1099response/taxform1099s/
 ---
 ## Tax1099Response.TaxForm1099s property
 
-获取或设置[`Tax1099MISC_V100`](../../tax1099misc_v100)或!:TAX1099R_V100或的集合！:TAX1099B_V100 或!:TAX1099INT_V100或!:TAX1099DIV_V100或!:TAX1099OID_V100。
+获取或设置的集合[`Tax1099MISC_V100`](../../tax1099misc_v100)或者!:TAX1099R_V100或者!:TAX1099B_V100 或!:TAX1099INT_V100或者!:TAX1099DIV_V100或者!:TAX1099OID_V100.
 
 ```csharp
 public List<AbstractTaxForm1099> TaxForm1099s { get; set; }

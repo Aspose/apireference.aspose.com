@@ -1,14 +1,14 @@
 ---
 title: StocksBonds
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置StocksBondsaspose.finance.ofx.tax1099/tax1099b_v100/stocksbonds
+description: 获取或设置StocksBondsaspose.finance.ofx.tax1099/tax1099b_v100/stocksbonds.
 type: docs
 weight: 150
 url: /zh/net/aspose.finance.ofx.tax1099/tax1099b_v100/stocksbonds/
 ---
 ## Tax1099B_V100.StocksBonds property
 
-获取或设置`StocksBonds`。
+获取或设置`StocksBonds`.
 
 ```csharp
 public StocksBonds StocksBonds { get; set; }

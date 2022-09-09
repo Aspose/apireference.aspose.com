@@ -1,14 +1,14 @@
 ---
 title: FindBillerTransactionResponses
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置FindBillerTransactionResponseaspose.finance.ofx.billerdirectory/findbillertransactionresponse的集合
+description: 获取或设置的集合FindBillerTransactionResponseaspose.finance.ofx.billerdirectory/findbillertransactionresponse.
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.ofx/presentmentdirresponsemessagesetv1/findbillertransactionresponses/
 ---
 ## PresentmentDirResponseMessageSetV1.FindBillerTransactionResponses property
 
-获取或设置[`FindBillerTransactionResponse`](../../../aspose.finance.ofx.billerdirectory/findbillertransactionresponse)的集合。
+获取或设置的集合[`FindBillerTransactionResponse`](../../../aspose.finance.ofx.billerdirectory/findbillertransactionresponse).
 
 ```csharp
 public List<FindBillerTransactionResponse> FindBillerTransactionResponses { get; set; }

@@ -18,7 +18,7 @@ public class WireTransferMessageSetV1 : AbstractMessageSetVersion
 
 | 姓名 | 描述 |
 | --- | --- |
-| [WireTransferMessageSetV1](wiretransfermessagesetv1)() | 初始化[`WireTransferMessageSetV1`](../wiretransfermessagesetv1)类的新实例。 |
+| [WireTransferMessageSetV1](wiretransfermessagesetv1)() | 初始化一个新的实例[`WireTransferMessageSetV1`](../wiretransfermessagesetv1)类. |
 
 ## 特性
 
@@ -27,7 +27,7 @@ public class WireTransferMessageSetV1 : AbstractMessageSetVersion
 | [CanScheduled](../../aspose.finance.ofx.profile/wiretransfermessagesetv1/canscheduled) { get; set; } | 获取或设置是否支持预定传输。 |
 | [DomesticTransferFee](../../aspose.finance.ofx.profile/wiretransfermessagesetv1/domestictransferfee) { get; set; } | 获取或设置国内电汇的标准费用。 |
 | [InternationalTransferFee](../../aspose.finance.ofx.profile/wiretransfermessagesetv1/internationaltransferfee) { get; set; } | 获取或设置国际电汇的标准费用。 |
-| [MessageSetCore](../../aspose.finance.ofx.profile/abstractmessagesetversion/messagesetcore) { get; set; } | 获取或设置[`MessageSetCore`](../abstractmessagesetversion/messagesetcore)。 |
+| [MessageSetCore](../../aspose.finance.ofx.profile/abstractmessagesetversion/messagesetcore) { get; set; } | 获取或设置[`MessageSetCore`](../abstractmessagesetversion/messagesetcore). |
 | [ProcessingDaysOffs](../../aspose.finance.ofx.profile/wiretransfermessagesetv1/processingdaysoffs) { get; set; } | 获取或设置不进行处理的星期几。 |
 | [ProcessingEndTime](../../aspose.finance.ofx.profile/wiretransfermessagesetv1/processingendtime) { get; set; } | 获取或设置当天处理结束的时间。 |
 

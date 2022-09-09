@@ -1,14 +1,14 @@
 ---
 title: RecurringPaymentModResponse
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化RecurringPaymentModResponseaspose.finance.ofx.billpay/recurringpaymentmodresponse类的新实例
+description: 初始化一个新的实例RecurringPaymentModResponseaspose.finance.ofx.billpay/recurringpaymentmodresponse类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.billpay/recurringpaymentmodresponse/recurringpaymentmodresponse/
 ---
 ## RecurringPaymentModResponse constructor
 
-初始化[`RecurringPaymentModResponse`](../../recurringpaymentmodresponse)类的新实例。
+初始化一个新的实例[`RecurringPaymentModResponse`](../../recurringpaymentmodresponse)类.
 
 ```csharp
 public RecurringPaymentModResponse()

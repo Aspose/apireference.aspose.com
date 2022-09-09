@@ -1,14 +1,14 @@
 ---
 title: CreditCardStatementTransactionResponse
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化CreditCardStatementTransactionResponseaspose.finance.ofx.creditcard/creditcardstatementtransactionresponse类的新实例
+description: 初始化一个新的实例CreditCardStatementTransactionResponseaspose.finance.ofx.creditcard/creditcardstatementtransactionresponse类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.creditcard/creditcardstatementtransactionresponse/creditcardstatementtransactionresponse/
 ---
 ## CreditCardStatementTransactionResponse constructor
 
-初始化[`CreditCardStatementTransactionResponse`](../../creditcardstatementtransactionresponse)类的新实例。
+初始化一个新的实例[`CreditCardStatementTransactionResponse`](../../creditcardstatementtransactionresponse)类.
 
 ```csharp
 public CreditCardStatementTransactionResponse()

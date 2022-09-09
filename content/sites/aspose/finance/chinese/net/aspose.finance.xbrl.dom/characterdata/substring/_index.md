@@ -1,14 +1,14 @@
 ---
 title: Substring
 second_title: Aspose.Finance for .NET API 参考
-description: 从节点中提取数据范围
+description: 从节点中提取一系列数据
 type: docs
 weight: 70
 url: /zh/net/aspose.finance.xbrl.dom/characterdata/substring/
 ---
 ## CharacterData.Substring method
 
-从节点中提取数据范围。
+从节点中提取一系列数据。
 
 ```csharp
 public virtual string Substring(int offset, int count)
@@ -17,7 +17,7 @@ public virtual string Substring(int offset, int count)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | offset | Int32 | 偏移量。 |
-| count | Int32 | 计数。 |
+| count | Int32 | 伯爵。 |
 
 ### 也可以看看
 

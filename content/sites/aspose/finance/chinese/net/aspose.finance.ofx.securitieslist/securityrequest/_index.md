@@ -18,14 +18,14 @@ public class SecurityRequest
 
 | 姓名 | 描述 |
 | --- | --- |
-| [SecurityRequest](securityrequest)() | 初始化[`SecurityRequest`](../securityrequest)类的新实例。 |
+| [SecurityRequest](securityrequest)() | 初始化一个新的实例[`SecurityRequest`](../securityrequest)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
 | [FIID](../../aspose.finance.ofx.securitieslist/securityrequest/fiid) { get; set; } | 获取或设置证券的 FI 特定 ID。 |
-| [SecurityId](../../aspose.finance.ofx.securitieslist/securityrequest/securityid) { get; set; } | 获取或设置[`SecurityId`](./securityid)。 |
+| [SecurityId](../../aspose.finance.ofx.securitieslist/securityrequest/securityid) { get; set; } | 获取或设置[`SecurityId`](./securityid). |
 | [Ticker](../../aspose.finance.ofx.securitieslist/securityrequest/ticker) { get; set; } | 获取或设置股票代码。 |
 
 ### 也可以看看

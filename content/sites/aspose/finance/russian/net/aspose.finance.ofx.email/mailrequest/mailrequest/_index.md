@@ -1,14 +1,14 @@
 ---
 title: MailRequest
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаMailRequestaspose.finance.ofx.email/mailrequest.
+description: Инициализирует новый экземплярMailRequestaspose.finance.ofx.email/mailrequest класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.email/mailrequest/mailrequest/
 ---
 ## MailRequest constructor
 
-Инициализирует новый экземпляр класса[`MailRequest`](../../mailrequest).
+Инициализирует новый экземпляр[`MailRequest`](../../mailrequest) класс.
 
 ```csharp
 public MailRequest()

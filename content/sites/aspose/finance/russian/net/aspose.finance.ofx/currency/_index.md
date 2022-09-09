@@ -18,7 +18,7 @@ public class Currency
 
 | Имя | Описание |
 | --- | --- |
-| [Currency](currency)() | Инициализирует новый экземпляр класса[`Currency`](../currency). |
+| [Currency](currency)() | Инициализирует новый экземпляр[`Currency`](../currency) класс. |
 
 ## Характеристики
 

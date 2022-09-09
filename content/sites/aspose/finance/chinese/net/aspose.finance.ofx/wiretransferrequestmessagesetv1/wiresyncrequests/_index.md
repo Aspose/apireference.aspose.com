@@ -1,14 +1,14 @@
 ---
 title: WireSyncRequests
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置WireSyncRequestaspose.finance.ofx.wiretransfer/wiresyncrequest的集合
+description: 获取或设置的集合WireSyncRequestaspose.finance.ofx.wiretransfer/wiresyncrequest.
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.ofx/wiretransferrequestmessagesetv1/wiresyncrequests/
 ---
 ## WireTransferRequestMessageSetV1.WireSyncRequests property
 
-获取或设置[`WireSyncRequest`](../../../aspose.finance.ofx.wiretransfer/wiresyncrequest)的集合。
+获取或设置的集合[`WireSyncRequest`](../../../aspose.finance.ofx.wiretransfer/wiresyncrequest).
 
 ```csharp
 public List<WireSyncRequest> WireSyncRequests { get; set; }

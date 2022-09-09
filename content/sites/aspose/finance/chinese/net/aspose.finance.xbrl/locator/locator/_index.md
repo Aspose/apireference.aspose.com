@@ -1,14 +1,14 @@
 ---
 title: Locator
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化Locatoraspose.finance.xbrl/locator类的新实例
+description: 初始化一个新的实例Locatoraspose.finance.xbrl/locator类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.xbrl/locator/locator/
 ---
 ## Locator constructor
 
-初始化[`Locator`](../../locator)类的新实例。
+初始化一个新的实例[`Locator`](../../locator)类.
 
 ```csharp
 public Locator()

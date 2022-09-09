@@ -1,14 +1,14 @@
 ---
 title: Name
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置计费者名称
+description: 获取或设置帐单名称
 type: docs
 weight: 140
 url: /zh/net/aspose.finance.ofx.billerdirectory/billerinfo/name/
 ---
 ## BillerInfo.Name property
 
-获取或设置计费者名称。
+获取或设置帐单名称。
 
 ```csharp
 public string Name { get; set; }

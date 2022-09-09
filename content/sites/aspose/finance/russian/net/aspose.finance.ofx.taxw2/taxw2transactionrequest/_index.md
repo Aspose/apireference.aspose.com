@@ -1,14 +1,14 @@
 ---
 title: TaxW2TransactionRequest
 second_title: Справочник по API Aspose.Finance для .NET
-description: Налоговый класс запроса транзакции W2
+description: Налоговый запрос транзакции W2 class
 type: docs
 weight: 6200
 url: /ru/net/aspose.finance.ofx.taxw2/taxw2transactionrequest/
 ---
 ## TaxW2TransactionRequest class
 
-Налоговый класс запроса транзакции W2
+Налоговый запрос транзакции W2 class
 
 ```csharp
 public class TaxW2TransactionRequest : AbstractTransactionRequest
@@ -18,14 +18,14 @@ public class TaxW2TransactionRequest : AbstractTransactionRequest
 
 | Имя | Описание |
 | --- | --- |
-| [TaxW2TransactionRequest](taxw2transactionrequest)() | Инициализирует новый экземпляр класса[`TaxW2TransactionRequest`](../taxw2transactionrequest). |
+| [TaxW2TransactionRequest](taxw2transactionrequest)() | Инициализирует новый экземпляр[`TaxW2TransactionRequest`](../taxw2transactionrequest) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [ClientCookie](../../aspose.finance.ofx/abstracttransactionrequest/clientcookie) { get; set; } | Получает или задает данные, которые будут отображаться в ответе транзакции |
-| [TaxW2Request](../../aspose.finance.ofx.taxw2/taxw2transactionrequest/taxw2request) { get; set; } | Получает или задает[`TaxW2Request`](./taxw2request). |
+| [ClientCookie](../../aspose.finance.ofx/abstracttransactionrequest/clientcookie) { get; set; } | Получает или задает данные, которые будут отражены в транзакции response |
+| [TaxW2Request](../../aspose.finance.ofx.taxw2/taxw2transactionrequest/taxw2request) { get; set; } | Получает или задает[`TaxW2Request`](./taxw2request) . |
 | [TransactionAuthorizationNumber](../../aspose.finance.ofx/abstracttransactionrequest/transactionauthorizationnumber) { get; set; } | Получает или задает номер авторизации транзакции. |
 | [TransactionUniqueId](../../aspose.finance.ofx/abstracttransactionrequest/transactionuniqueid) { get; set; } | Получает или задает назначенный клиентом глобальный уникальный идентификатор для этой транзакции |
 

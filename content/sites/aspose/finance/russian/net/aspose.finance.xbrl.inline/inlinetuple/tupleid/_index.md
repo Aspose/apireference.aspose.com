@@ -1,14 +1,14 @@
 ---
 title: TupleId
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает идентификатор кортежаInlineTupleaspose.finance.xbrl.inline/inlinetuple.
+description: Получает или задает идентификатор кортежаInlineTupleaspose.finance.xbrl.inline/inlinetuple .
 type: docs
 weight: 40
 url: /ru/net/aspose.finance.xbrl.inline/inlinetuple/tupleid/
 ---
 ## InlineTuple.TupleId property
 
-Получает или задает идентификатор кортежа[`InlineTuple`](../../inlinetuple).
+Получает или задает идентификатор кортежа[`InlineTuple`](../../inlinetuple) .
 
 ```csharp
 public string TupleId { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: SignonRealm
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает идентификаторы этой области.
+description: Получает или устанавливает идентификаторы этой области.
 type: docs
 weight: 150
 url: /ru/net/aspose.finance.ofx.profile/signoninfo/signonrealm/
 ---
 ## SignonInfo.SignonRealm property
 
-Получает или задает идентификаторы этой области.
+Получает или устанавливает идентификаторы этой области.
 
 ```csharp
 public string SignonRealm { get; set; }

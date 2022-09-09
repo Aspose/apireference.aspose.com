@@ -1,14 +1,14 @@
 ---
 title: AdditionalStateTaxWithheldAggregate
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化AdditionalStateTaxWithheldAggregateaspose.finance.ofx.tax1099/additionalstatetaxwithheldaggregate类的新实例
+description: 初始化一个新的实例AdditionalStateTaxWithheldAggregateaspose.finance.ofx.tax1099/additionalstatetaxwithheldaggregate类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.tax1099/additionalstatetaxwithheldaggregate/additionalstatetaxwithheldaggregate/
 ---
 ## AdditionalStateTaxWithheldAggregate constructor
 
-初始化[`AdditionalStateTaxWithheldAggregate`](../../additionalstatetaxwithheldaggregate)类的新实例。
+初始化一个新的实例[`AdditionalStateTaxWithheldAggregate`](../../additionalstatetaxwithheldaggregate)类.
 
 ```csharp
 public AdditionalStateTaxWithheldAggregate()

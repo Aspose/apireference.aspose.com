@@ -1,14 +1,14 @@
 ---
 title: Mail
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置Mailaspose.finance.ofx.bank/checkmailresponse/mail
+description: 获取或设置Mailaspose.finance.ofx.bank/checkmailresponse/mail.
 type: docs
 weight: 50
 url: /zh/net/aspose.finance.ofx.bank/checkmailresponse/mail/
 ---
 ## CheckMailResponse.Mail property
 
-获取或设置`Mail`。
+获取或设置`Mail`.
 
 ```csharp
 public Mail Mail { get; set; }

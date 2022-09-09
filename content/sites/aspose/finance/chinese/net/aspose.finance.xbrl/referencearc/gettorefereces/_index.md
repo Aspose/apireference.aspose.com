@@ -1,14 +1,14 @@
 ---
 title: GetToRefereces
 second_title: Aspose.Finance for .NET API 参考
-description: 在ReferenceArcaspose.finance.xbrl/referencearc中获取Referenceaspose.finance.xbrl/reference的集合
+description: 获取 to 的集合Referenceaspose.finance.xbrl/reference在里面ReferenceArcaspose.finance.xbrl/referencearc.
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.xbrl/referencearc/gettorefereces/
 ---
 ## ReferenceArc.GetToRefereces method
 
-在[`ReferenceArc`](../../referencearc)中获取[`Reference`](../../reference)的集合。
+获取 to 的集合[`Reference`](../../reference)在里面[`ReferenceArc`](../../referencearc).
 
 ```csharp
 public List<Reference> GetToRefereces()
@@ -16,7 +16,7 @@ public List<Reference> GetToRefereces()
 
 ### 返回值
 
-[`Reference`](../../reference)的集合。
+的集合[`Reference`](../../reference).
 
 ### 也可以看看
 

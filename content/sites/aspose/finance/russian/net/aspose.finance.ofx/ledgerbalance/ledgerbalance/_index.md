@@ -1,14 +1,14 @@
 ---
 title: LedgerBalance
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаLedgerBalanceaspose.finance.ofx/ledgerbalance.
+description: Инициализирует новый экземплярLedgerBalanceaspose.finance.ofx/ledgerbalance класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx/ledgerbalance/ledgerbalance/
 ---
 ## LedgerBalance constructor
 
-Инициализирует новый экземпляр класса[`LedgerBalance`](../../ledgerbalance).
+Инициализирует новый экземпляр[`LedgerBalance`](../../ledgerbalance) класс.
 
 ```csharp
 public LedgerBalance()

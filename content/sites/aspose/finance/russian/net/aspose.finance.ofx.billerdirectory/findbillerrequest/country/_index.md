@@ -1,14 +1,14 @@
 ---
 title: Country
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает код страны выставляющего счета. Стандарт трехбуквенного кода страны ISO/DIS-3166.
+description: Получает или задает код страны биллера. Стандарт трехбуквенного кода страны ISO/DIS3166.
 type: docs
 weight: 80
 url: /ru/net/aspose.finance.ofx.billerdirectory/findbillerrequest/country/
 ---
 ## FindBillerRequest.Country property
 
-Получает или задает код страны выставляющего счета. Стандарт трехбуквенного кода страны ISO/DIS-3166.
+Получает или задает код страны биллера. Стандарт трехбуквенного кода страны ISO/DIS-3166.
 
 ```csharp
 public string Country { get; set; }

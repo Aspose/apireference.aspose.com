@@ -1,14 +1,14 @@
 ---
 title: ChangeUserInfoTransactionResponse
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化ChangeUserInfoTransactionResponseaspose.finance.ofx.signup/changeuserinfotransactionresponse类的新实例
+description: 初始化一个新的实例ChangeUserInfoTransactionResponseaspose.finance.ofx.signup/changeuserinfotransactionresponse类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.signup/changeuserinfotransactionresponse/changeuserinfotransactionresponse/
 ---
 ## ChangeUserInfoTransactionResponse constructor
 
-初始化[`ChangeUserInfoTransactionResponse`](../../changeuserinfotransactionresponse)类的新实例。
+初始化一个新的实例[`ChangeUserInfoTransactionResponse`](../../changeuserinfotransactionresponse)类.
 
 ```csharp
 public ChangeUserInfoTransactionResponse()

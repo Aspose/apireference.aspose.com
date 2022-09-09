@@ -18,7 +18,7 @@ public class Employer
 
 | Имя | Описание |
 | --- | --- |
-| [Employer](employer)() | Инициализирует новый экземпляр класса[`Employer`](../employer). |
+| [Employer](employer)() | Инициализирует новый экземпляр[`Employer`](../employer) класс. |
 
 ## Характеристики
 
@@ -28,7 +28,7 @@ public class Employer
 | [Address2](../../aspose.finance.ofx.taxw2/employer/address2) { get; set; } | Получает или задает адрес работодателя, строка 2. |
 | [Address3](../../aspose.finance.ofx.taxw2/employer/address3) { get; set; } | Получает или задает адрес работодателя, строка 3. |
 | [City](../../aspose.finance.ofx.taxw2/employer/city) { get; set; } | Получает или задает город работодателя. |
-| [CountryString](../../aspose.finance.ofx.taxw2/employer/countrystring) { get; set; } | Получает или устанавливает страну, не сокращая. |
+| [CountryString](../../aspose.finance.ofx.taxw2/employer/countrystring) { get; set; } | Получает или задает страну, не сокращайте. |
 | [FederalIdNumber](../../aspose.finance.ofx.taxw2/employer/federalidnumber) { get; set; } | Получает или задает федеральный идентификационный номер работодателя. |
 | [Name1](../../aspose.finance.ofx.taxw2/employer/name1) { get; set; } | Получает или задает имя работодателя, строка 1. |
 | [Name2](../../aspose.finance.ofx.taxw2/employer/name2) { get; set; } | Получает или задает имя работодателя, строка 2. |

@@ -1,14 +1,14 @@
 ---
 title: Request
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置PaymentRequestaspose.finance.ofx.billpay/paymentrequest或PaymentModRequestaspose.finance.ofx.billpay/paymentmodrequest或PaymentCancelRequestaspose.finance.ofx.billpay/paymentcancelrequest
+description: 获取或设置PaymentRequestaspose.finance.ofx.billpay/paymentrequest或者PaymentModRequestaspose.finance.ofx.billpay/paymentmodrequest或者PaymentCancelRequestaspose.finance.ofx.billpay/paymentcancelrequest.
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.ofx.billpay/paymenttransactionrequest/request/
 ---
 ## PaymentTransactionRequest.Request property
 
-获取或设置[`PaymentRequest`](../../paymentrequest)或[`PaymentModRequest`](../../paymentmodrequest)或[`PaymentCancelRequest`](../../paymentcancelrequest)。
+获取或设置[`PaymentRequest`](../../paymentrequest)或者[`PaymentModRequest`](../../paymentmodrequest)或者[`PaymentCancelRequest`](../../paymentcancelrequest).
 
 ```csharp
 public AbstractPaymentRequest Request { get; set; }

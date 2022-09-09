@@ -1,14 +1,14 @@
 ---
 title: Withdrawals
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задаетWithdrawalsaspose.finance.ofx.investment/incepttodate/withdrawals.
+description: Получает или задаетWithdrawalsaspose.finance.ofx.investment/incepttodate/withdrawals .
 type: docs
 weight: 60
 url: /ru/net/aspose.finance.ofx.investment/incepttodate/withdrawals/
 ---
 ## InceptToDate.Withdrawals property
 
-Получает или задает`Withdrawals`.
+Получает или задает`Withdrawals` .
 
 ```csharp
 public Withdrawals Withdrawals { get; set; }

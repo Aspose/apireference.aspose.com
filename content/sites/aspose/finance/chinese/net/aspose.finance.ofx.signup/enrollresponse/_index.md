@@ -18,13 +18,13 @@ public class EnrollResponse
 
 | 姓名 | 描述 |
 | --- | --- |
-| [EnrollResponse](enrollresponse)() | 初始化[`EnrollResponse`](../enrollresponse)类的新实例。 |
+| [EnrollResponse](enrollresponse)() | 初始化一个新的实例[`EnrollResponse`](../enrollresponse)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [ExpireDate](../../aspose.finance.ofx.signup/enrollresponse/expiredate) { get; set; } | 获取或设置临时密码的过期时间 |
+| [ExpireDate](../../aspose.finance.ofx.signup/enrollresponse/expiredate) { get; set; } | 获取或设置临时密码过期时间 |
 | [TemporaryPassword](../../aspose.finance.ofx.signup/enrollresponse/temporarypassword) { get; set; } | 获取或设置临时密码。 |
 | [UserId](../../aspose.finance.ofx.signup/enrollresponse/userid) { get; set; } | 获取或设置用户 ID。 |
 

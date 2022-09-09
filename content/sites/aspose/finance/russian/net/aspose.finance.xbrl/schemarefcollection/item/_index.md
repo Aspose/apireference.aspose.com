@@ -1,14 +1,14 @@
 ---
 title: Item
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает элементSchemaRefaspose.finance.xbrl/schemarefпо указанному индексу в коллекции.
+description: ПолучаетSchemaRefaspose.finance.xbrl/schemaref элемент по указанному индексу в коллекции.
 type: docs
 weight: 20
 url: /ru/net/aspose.finance.xbrl/schemarefcollection/item/
 ---
 ## SchemaRefCollection indexer
 
-Получает элемент[`SchemaRef`](../../schemaref)по указанному индексу в коллекции.
+Получает[`SchemaRef`](../../schemaref) элемент по указанному индексу в коллекции.
 
 ```csharp
 public SchemaRef this[int index] { get; }

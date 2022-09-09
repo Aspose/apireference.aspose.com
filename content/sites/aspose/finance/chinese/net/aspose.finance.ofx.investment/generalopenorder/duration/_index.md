@@ -1,14 +1,14 @@
 ---
 title: Duration
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置订单的有效时间
+description: 获取或设置订单的有效期
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.ofx.investment/generalopenorder/duration/
 ---
 ## GeneralOpenOrder.Duration property
 
-获取或设置订单的有效时间。
+获取或设置订单的有效期。
 
 ```csharp
 public DurationEnum Duration { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: UnitType
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает значение единиц измерения.
+description: Получает или устанавливает что представляют единицы измерения.
 type: docs
 weight: 20
 url: /ru/net/aspose.finance.ofx.investment/openordersellother/unittype/
 ---
 ## OpenOrderSellOther.UnitType property
 
-Получает или задает значение единиц измерения.
+Получает или устанавливает, что представляют единицы измерения.
 
 ```csharp
 public UnitTypeEnum UnitType { get; set; }

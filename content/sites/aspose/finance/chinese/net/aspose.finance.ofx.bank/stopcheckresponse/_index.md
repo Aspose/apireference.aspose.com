@@ -18,17 +18,17 @@ public class StopCheckResponse
 
 | 姓名 | 描述 |
 | --- | --- |
-| [StopCheckResponse](stopcheckresponse)() | 初始化[`StopCheckResponse`](../stopcheckresponse)类的新实例。 |
+| [StopCheckResponse](stopcheckresponse)() | 初始化一个新的实例[`StopCheckResponse`](../stopcheckresponse)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [BankAccountFrom](../../aspose.finance.ofx.bank/stopcheckresponse/bankaccountfrom) { get; set; } | 获取或设置[`BankAccount`](../../aspose.finance.ofx/bankaccount)的来源。 |
+| [BankAccountFrom](../../aspose.finance.ofx.bank/stopcheckresponse/bankaccountfrom) { get; set; } | 获取或设置 from[`BankAccount`](../../aspose.finance.ofx/bankaccount). |
 | [Currency](../../aspose.finance.ofx.bank/stopcheckresponse/currency) { get; set; } | 获取或设置用于结算信息的默认货币。 |
 | [Fee](../../aspose.finance.ofx.bank/stopcheckresponse/fee) { get; set; } | 获取或设置停止检查的费用。 |
 | [FeeMessage](../../aspose.finance.ofx.bank/stopcheckresponse/feemessage) { get; set; } | 获取或设置费用的描述。 |
-| [StopCheckNumbers](../../aspose.finance.ofx.bank/stopcheckresponse/stopchecknumbers) { get; set; } | 获取或设置[`StopCheckNumber`](../stopchecknumber)的集合。 |
+| [StopCheckNumbers](../../aspose.finance.ofx.bank/stopcheckresponse/stopchecknumbers) { get; set; } | 获取或设置的集合[`StopCheckNumber`](../stopchecknumber). |
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: CreditCardStatementEndTransactionRequests
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает коллекциюCreditCardStatementEndTransactionRequestaspose.finance.ofx.creditcard/creditcardstatementendtransactionrequest.
+description: Получает или задает коллекциюCreditCardStatementEndTransactionRequestaspose.finance.ofx.creditcard/creditcardstatementendtransactionrequest .
 type: docs
 weight: 20
 url: /ru/net/aspose.finance.ofx/creditcardrequestmessagesetv1/creditcardstatementendtransactionrequests/
 ---
 ## CreditcardRequestMessageSetV1.CreditCardStatementEndTransactionRequests property
 
-Получает или задает коллекцию[`CreditCardStatementEndTransactionRequest`](../../../aspose.finance.ofx.creditcard/creditcardstatementendtransactionrequest).
+Получает или задает коллекцию[`CreditCardStatementEndTransactionRequest`](../../../aspose.finance.ofx.creditcard/creditcardstatementendtransactionrequest) .
 
 ```csharp
 public List<CreditCardStatementEndTransactionRequest> 

@@ -18,22 +18,22 @@ public class GeneralOpenOrder
 
 | Имя | Описание |
 | --- | --- |
-| [GeneralOpenOrder](generalopenorder)() | Инициализирует новый экземпляр класса[`GeneralOpenOrder`](../generalopenorder). |
+| [GeneralOpenOrder](generalopenorder)() | Инициализирует новый экземпляр[`GeneralOpenOrder`](../generalopenorder) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [Currency](../../aspose.finance.ofx.investment/generalopenorder/currency) { get; set; } | Получает или задает[`Currency`](./currency). |
-| [Duration](../../aspose.finance.ofx.investment/generalopenorder/duration) { get; set; } | Получает или устанавливает срок действия заказа. |
+| [Currency](../../aspose.finance.ofx.investment/generalopenorder/currency) { get; set; } | Получает или задает[`Currency`](./currency) . |
+| [Duration](../../aspose.finance.ofx.investment/generalopenorder/duration) { get; set; } | Получает или устанавливает срок действия ордера. |
 | [FITransactionId](../../aspose.finance.ofx.investment/generalopenorder/fitransactionid) { get; set; } | Получает или задает уникальный идентификатор транзакции, назначенный FI. |
 | [Investment401kSource](../../aspose.finance.ofx.investment/generalopenorder/investment401ksource) { get; set; } | Получает или задает источник денег для этого заказа для счетов 401(k). |
 | [LimitPrice](../../aspose.finance.ofx.investment/generalopenorder/limitprice) { get; set; } | Получает или задает предельную цену. |
 | [Memo](../../aspose.finance.ofx.investment/generalopenorder/memo) { get; set; } | Получает или задает другую информацию о заказе. |
 | [MinUnits](../../aspose.finance.ofx.investment/generalopenorder/minunits) { get; set; } | Получает или задает минимальное количество единиц, которые должны быть заполнены для заказа. |
 | [PlacedDate](../../aspose.finance.ofx.investment/generalopenorder/placeddate) { get; set; } | Получает или задает дату и время размещения заказа. |
-| [Restriction](../../aspose.finance.ofx.investment/generalopenorder/restriction) { get; set; } | Получает или задает специальное ограничение на заказ. |
-| [SecurityId](../../aspose.finance.ofx.investment/generalopenorder/securityid) { get; set; } | Получает или задает[`SecurityId`](./securityid). |
+| [Restriction](../../aspose.finance.ofx.investment/generalopenorder/restriction) { get; set; } | Получает или задает специальное ограничение для заказа. |
+| [SecurityId](../../aspose.finance.ofx.investment/generalopenorder/securityid) { get; set; } | Получает или задает[`SecurityId`](./securityid) . |
 | [ServerId](../../aspose.finance.ofx.investment/generalopenorder/serverid) { get; set; } | Получает или задает уникальный идентификатор транзакции, назначенный сервером. |
 | [StopPrice](../../aspose.finance.ofx.investment/generalopenorder/stopprice) { get; set; } | Получает или задает стоп-цену. |
 | [SubAccount](../../aspose.finance.ofx.investment/generalopenorder/subaccount) { get; set; } | Получает или задает тип дополнительной учетной записи. |

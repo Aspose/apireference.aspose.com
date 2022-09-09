@@ -1,14 +1,14 @@
 ---
 title: StatementEndRequest
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаStatementEndRequestaspose.finance.ofx.bank/statementendrequest.
+description: Инициализирует новый экземплярStatementEndRequestaspose.finance.ofx.bank/statementendrequest класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.bank/statementendrequest/statementendrequest/
 ---
 ## StatementEndRequest constructor
 
-Инициализирует новый экземпляр класса[`StatementEndRequest`](../../statementendrequest).
+Инициализирует новый экземпляр[`StatementEndRequest`](../../statementendrequest) класс.
 
 ```csharp
 public StatementEndRequest()

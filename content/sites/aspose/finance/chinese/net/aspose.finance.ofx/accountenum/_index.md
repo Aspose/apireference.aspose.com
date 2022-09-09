@@ -1,14 +1,14 @@
 ---
 title: AccountEnum
 second_title: Aspose.Finance for .NET API 参考
-description: 帐户类型枚举
+description: 账户类型枚举
 type: docs
 weight: 160
 url: /zh/net/aspose.finance.ofx/accountenum/
 ---
 ## AccountEnum enumeration
 
-帐户类型枚举。
+账户类型枚举。
 
 ```csharp
 public enum AccountEnum

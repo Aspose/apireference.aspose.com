@@ -18,13 +18,13 @@ public class SecurityList
 
 | Имя | Описание |
 | --- | --- |
-| [SecurityList](securitylist)() | Инициализирует новый экземпляр класса[`SecurityList`](../securitylist). |
+| [SecurityList](securitylist)() | Инициализирует новый экземпляр[`SecurityList`](../securitylist) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [SecurityInfos](../../aspose.finance.ofx.securitieslist/securitylist/securityinfos) { get; set; } | Получает или задает коллекцию[`MutualFundInfo`](../mutualfundinfo)или[`StockInfo`](../stockinfo)или[`OptionInfo`](../optioninfo)или[`DebtInfo`](../debtinfo)илиДругаяИнформация. |
+| [SecurityInfos](../../aspose.finance.ofx.securitieslist/securitylist/securityinfos) { get; set; } | Получает или задает коллекцию[`MutualFundInfo`](../mutualfundinfo) или же[`StockInfo`](../stockinfo) или же[`OptionInfo`](../optioninfo) или же[`DebtInfo`](../debtinfo) или же[`OtherInfo`](../otherinfo) . |
 
 ### Смотрите также
 

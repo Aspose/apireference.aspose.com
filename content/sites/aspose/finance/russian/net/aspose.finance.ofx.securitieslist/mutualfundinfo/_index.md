@@ -1,14 +1,14 @@
 ---
 title: MutualFundInfo
 second_title: Справочник по API Aspose.Finance для .NET
-description: Информационный класс взаимных фондов.
+description: Класс информации о взаимных фондах.
 type: docs
 weight: 5070
 url: /ru/net/aspose.finance.ofx.securitieslist/mutualfundinfo/
 ---
 ## MutualFundInfo class
 
-Информационный класс взаимных фондов.
+Класс информации о взаимных фондах.
 
 ```csharp
 public class MutualFundInfo : AbstractSecurityInfo
@@ -18,18 +18,18 @@ public class MutualFundInfo : AbstractSecurityInfo
 
 | Имя | Описание |
 | --- | --- |
-| [MutualFundInfo](mutualfundinfo)() | Инициализирует новый экземпляр класса[`MutualFundInfo`](../mutualfundinfo). |
+| [MutualFundInfo](mutualfundinfo)() | Инициализирует новый экземпляр[`MutualFundInfo`](../mutualfundinfo) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
 | [FIMutualFundAssetClass](../../aspose.finance.ofx.securitieslist/mutualfundinfo/fimutualfundassetclass) { get; set; } | Получает или задает разбивку классов активов, определенных FI, для взаимного фонда. |
-| [MutualFundAssetClass](../../aspose.finance.ofx.securitieslist/mutualfundinfo/mutualfundassetclass) { get; set; } | Получает или задает разбивку классов активов для взаимного фонда. |
+| [MutualFundAssetClass](../../aspose.finance.ofx.securitieslist/mutualfundinfo/mutualfundassetclass) { get; set; } | Получает или задает разбивку класса активов для взаимного фонда. |
 | [MutualFundType](../../aspose.finance.ofx.securitieslist/mutualfundinfo/mutualfundtype) { get; set; } | Получает или задает тип взаимного фонда. |
-| [SecurityInfo](../../aspose.finance.ofx.securitieslist/abstractsecurityinfo/securityinfo) { get; set; } | Получает или задает[`GeneralSecurityInfo`](../generalsecurityinfo). |
+| [SecurityInfo](../../aspose.finance.ofx.securitieslist/abstractsecurityinfo/securityinfo) { get; set; } | Получает или задает[`GeneralSecurityInfo`](../generalsecurityinfo) . |
 | [Yield](../../aspose.finance.ofx.securitieslist/mutualfundinfo/yield) { get; set; } | Получает или задает текущую доходность, сообщаемую как часть активов фонда. |
-| [YieldAsOfDate](../../aspose.finance.ofx.securitieslist/mutualfundinfo/yieldasofdate) { get; set; } | Получает или задает дату «По состоянию на дату» для значения доходности. |
+| [YieldAsOfDate](../../aspose.finance.ofx.securitieslist/mutualfundinfo/yieldasofdate) { get; set; } | Получает или задает дату начала для значения доходности. |
 
 ### Смотрите также
 

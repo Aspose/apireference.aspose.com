@@ -1,14 +1,14 @@
 ---
 title: TechnicalSupportPhone
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает номер телефона службы технической поддержки.
+description: Получает или задает номер телефона технической поддержки.
 type: docs
 weight: 160
 url: /ru/net/aspose.finance.ofx.profile/profileresponse/technicalsupportphone/
 ---
 ## ProfileResponse.TechnicalSupportPhone property
 
-Получает или задает номер телефона службы технической поддержки.
+Получает или задает номер телефона технической поддержки.
 
 ```csharp
 public string TechnicalSupportPhone { get; set; }

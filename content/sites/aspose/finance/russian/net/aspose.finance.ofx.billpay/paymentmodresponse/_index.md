@@ -1,14 +1,14 @@
 ---
 title: PaymentModResponse
 second_title: Справочник по API Aspose.Finance для .NET
-description: Класс ответа модификации платежа.
+description: Класс ответа на изменение платежа.
 type: docs
 weight: 1190
 url: /ru/net/aspose.finance.ofx.billpay/paymentmodresponse/
 ---
 ## PaymentModResponse class
 
-Класс ответа модификации платежа.
+Класс ответа на изменение платежа.
 
 ```csharp
 public class PaymentModResponse : AbstractPaymentResponse
@@ -18,14 +18,14 @@ public class PaymentModResponse : AbstractPaymentResponse
 
 | Имя | Описание |
 | --- | --- |
-| [PaymentModResponse](paymentmodresponse)() | Инициализирует новый экземпляр класса[`PaymentModResponse`](../paymentmodresponse). |
+| [PaymentModResponse](paymentmodresponse)() | Инициализирует новый экземпляр[`PaymentModResponse`](../paymentmodresponse) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [PaymentInfo](../../aspose.finance.ofx.billpay/paymentmodresponse/paymentinfo) { get; set; } | Получает или задает[`PaymentInfo`](./paymentinfo). |
-| [PaymentProcessingStatus](../../aspose.finance.ofx.billpay/paymentmodresponse/paymentprocessingstatus) { get; set; } | Получает или задает[`PaymentProcessingStatus`](./paymentprocessingstatus). |
+| [PaymentInfo](../../aspose.finance.ofx.billpay/paymentmodresponse/paymentinfo) { get; set; } | Получает или задает[`PaymentInfo`](./paymentinfo) . |
+| [PaymentProcessingStatus](../../aspose.finance.ofx.billpay/paymentmodresponse/paymentprocessingstatus) { get; set; } | Получает или задает[`PaymentProcessingStatus`](./paymentprocessingstatus) . |
 | [ServerId](../../aspose.finance.ofx.billpay/abstractpaymentresponse/serverid) { get; set; } | Получает или задает идентификатор, присвоенный сервером платежу. |
 
 ### Смотрите также

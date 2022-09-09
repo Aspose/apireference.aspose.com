@@ -1,14 +1,14 @@
 ---
 title: PresentmentNameAddress
 second_title: Aspose.Finance for .NET API 参考
-description: 与记账员的客户信息
+description: 与记账人的客户信息
 type: docs
 weight: 4330
 url: /zh/net/aspose.finance.ofx/presentmentnameaddress/
 ---
 ## PresentmentNameAddress class
 
-与记账员的客户信息。
+与记账人的客户信息。
 
 ```csharp
 public class PresentmentNameAddress
@@ -18,21 +18,21 @@ public class PresentmentNameAddress
 
 | 姓名 | 描述 |
 | --- | --- |
-| [PresentmentNameAddress](presentmentnameaddress)() | 初始化[`PresentmentNameAddress`](../presentmentnameaddress)类的新实例。 |
+| [PresentmentNameAddress](presentmentnameaddress)() | 初始化一个新的实例[`PresentmentNameAddress`](../presentmentnameaddress)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Address1](../../aspose.finance.ofx/presentmentnameaddress/address1) { get; set; } | 获取或设置客户的地址行 1。 |
-| [Address2](../../aspose.finance.ofx/presentmentnameaddress/address2) { get; set; } | 获取或设置客户的地址行 2。 |
-| [Address3](../../aspose.finance.ofx/presentmentnameaddress/address3) { get; set; } | 获取或设置客户的地址行 3。 |
+| [Address1](../../aspose.finance.ofx/presentmentnameaddress/address1) { get; set; } | 获取或设置客户地址行1. |
+| [Address2](../../aspose.finance.ofx/presentmentnameaddress/address2) { get; set; } | 获取或设置客户地址行2. |
+| [Address3](../../aspose.finance.ofx/presentmentnameaddress/address3) { get; set; } | 获取或设置客户地址行3. |
 | [BusinessNameAccountHeld](../../aspose.finance.ofx/presentmentnameaddress/businessnameaccountheld) { get; set; } | 获取或设置与此帐户关联的可选“经营方式”名称。 |
-| [City](../../aspose.finance.ofx/presentmentnameaddress/city) { get; set; } | 获取或设置客户所在的城市。 |
-| [Country](../../aspose.finance.ofx/presentmentnameaddress/country) { get; set; } | 获取或设置客户所在的国家/地区。来自 ISO/DIS-3166 的 3 个字母的国家/地区代码。 |
+| [City](../../aspose.finance.ofx/presentmentnameaddress/city) { get; set; } | 获取或设置客户所在城市。 |
+| [Country](../../aspose.finance.ofx/presentmentnameaddress/country) { get; set; } | 获取或设置客户所在的国家。来自 ISO/DIS-3166. 的 3 个字母的国家/地区代码 |
 | [DayPhone](../../aspose.finance.ofx/presentmentnameaddress/dayphone) { get; set; } | 获取或设置客户的白天电话号码。 |
 | [EveningPhone](../../aspose.finance.ofx/presentmentnameaddress/eveningphone) { get; set; } | 获取或设置客户的晚间电话号码。 |
-| [NameAccountHeld](../../aspose.finance.ofx/presentmentnameaddress/nameaccountheld) { get; set; } | 获取或设置出现在帐户上的客户姓名。 |
+| [NameAccountHeld](../../aspose.finance.ofx/presentmentnameaddress/nameaccountheld) { get; set; } | 获取或设置客户在帐户上显示的姓名。 |
 | [PostalCode](../../aspose.finance.ofx/presentmentnameaddress/postalcode) { get; set; } | 获取或设置客户的邮政编码。 |
 | [State](../../aspose.finance.ofx/presentmentnameaddress/state) { get; set; } | 获取或设置客户的状态。 |
 

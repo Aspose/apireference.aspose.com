@@ -18,13 +18,13 @@ public class GetMimeResponse
 
 | Имя | Описание |
 | --- | --- |
-| [GetMimeResponse](getmimeresponse)() | Инициализирует новый экземпляр класса[`GetMimeResponse`](../getmimeresponse). |
+| [GetMimeResponse](getmimeresponse)() | Инициализирует новый экземпляр[`GetMimeResponse`](../getmimeresponse) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [Url](../../aspose.finance.ofx.email/getmimeresponse/url) { get; set; } | Получает или задает URL-адрес. |
+| [Url](../../aspose.finance.ofx.email/getmimeresponse/url) { get; set; } | Получает или задает URL. |
 
 ### Смотрите также
 

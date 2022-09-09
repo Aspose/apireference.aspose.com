@@ -1,14 +1,14 @@
 ---
 title: PresentmentMailTransactionRequest
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化PresentmentMailTransactionRequestaspose.finance.ofx.billerdelivery/presentmentmailtransactionrequest类的新实例
+description: 初始化一个新的实例PresentmentMailTransactionRequestaspose.finance.ofx.billerdelivery/presentmentmailtransactionrequest类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.billerdelivery/presentmentmailtransactionrequest/presentmentmailtransactionrequest/
 ---
 ## PresentmentMailTransactionRequest constructor
 
-初始化[`PresentmentMailTransactionRequest`](../../presentmentmailtransactionrequest)类的新实例。
+初始化一个新的实例[`PresentmentMailTransactionRequest`](../../presentmentmailtransactionrequest)类.
 
 ```csharp
 public PresentmentMailTransactionRequest()

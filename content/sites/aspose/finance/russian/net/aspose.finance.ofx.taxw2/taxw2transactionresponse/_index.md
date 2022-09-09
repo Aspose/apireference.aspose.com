@@ -1,14 +1,14 @@
 ---
 title: TaxW2TransactionResponse
 second_title: Справочник по API Aspose.Finance для .NET
-description: Налоговый W2 класс ответа транзакции
+description: Класс ответов по транзакции W2 Tax
 type: docs
 weight: 6210
 url: /ru/net/aspose.finance.ofx.taxw2/taxw2transactionresponse/
 ---
 ## TaxW2TransactionResponse class
 
-Налоговый W2 класс ответа транзакции
+Класс ответов по транзакции W2 Tax
 
 ```csharp
 public class TaxW2TransactionResponse : AbstractTransactionResponse
@@ -18,15 +18,15 @@ public class TaxW2TransactionResponse : AbstractTransactionResponse
 
 | Имя | Описание |
 | --- | --- |
-| [TaxW2TransactionResponse](taxw2transactionresponse)() | Инициализирует новый экземпляр класса[`TaxW2TransactionResponse`](../taxw2transactionresponse). |
+| [TaxW2TransactionResponse](taxw2transactionresponse)() | Инициализирует новый экземпляр[`TaxW2TransactionResponse`](../taxw2transactionresponse) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [ClientCookie](../../aspose.finance.ofx/abstracttransactionresponse/clientcookie) { get; set; } | Получает или задает данные, которые будут отображаться в ответе транзакции |
-| [Status](../../aspose.finance.ofx/abstracttransactionresponse/status) { get; set; } | Получает или задает[`Status`](../../aspose.finance.ofx/abstracttransactionresponse/status). |
-| [TaxW2Response](../../aspose.finance.ofx.taxw2/taxw2transactionresponse/taxw2response) { get; set; } | Получает или задает[`TaxW2Response`](./taxw2response). |
+| [ClientCookie](../../aspose.finance.ofx/abstracttransactionresponse/clientcookie) { get; set; } | Получает или задает данные, которые будут отражены в транзакции response |
+| [Status](../../aspose.finance.ofx/abstracttransactionresponse/status) { get; set; } | Получает или задает[`Status`](../../aspose.finance.ofx/abstracttransactionresponse/status) . |
+| [TaxW2Response](../../aspose.finance.ofx.taxw2/taxw2transactionresponse/taxw2response) { get; set; } | Получает или задает[`TaxW2Response`](./taxw2response) . |
 | [TransactionUniqueId](../../aspose.finance.ofx/abstracttransactionresponse/transactionuniqueid) { get; set; } | Получает или задает назначенный клиентом глобальный уникальный идентификатор для этой транзакции. |
 
 ### Смотрите также

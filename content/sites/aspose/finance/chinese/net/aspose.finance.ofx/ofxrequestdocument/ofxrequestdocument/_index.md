@@ -1,14 +1,14 @@
 ---
 title: OfxRequestDocument
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化OfxRequestDocumentaspose.finance.ofx/ofxrequestdocument类的新实例
+description: 初始化一个新的实例OfxRequestDocumentaspose.finance.ofx/ofxrequestdocument类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx/ofxrequestdocument/ofxrequestdocument/
 ---
 ## OfxRequestDocument() {#constructor}
 
-初始化[`OfxRequestDocument`](../../ofxrequestdocument)类的新实例。
+初始化一个新的实例[`OfxRequestDocument`](../../ofxrequestdocument)类.
 
 ```csharp
 public OfxRequestDocument()
@@ -24,7 +24,7 @@ public OfxRequestDocument()
 
 ## OfxRequestDocument(string) {#constructor_1}
 
-初始化[`OfxRequestDocument`](../../ofxrequestdocument)类的新实例。
+初始化一个新的实例[`OfxRequestDocument`](../../ofxrequestdocument)类.
 
 ```csharp
 public OfxRequestDocument(string fileName)

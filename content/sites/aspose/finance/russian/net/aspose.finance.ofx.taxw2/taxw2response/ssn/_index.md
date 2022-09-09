@@ -1,14 +1,14 @@
 ---
 title: SSN
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает номер социального страхования сотрудника.
+description: Получает или задает номер социального обеспечения сотрудника.
 type: docs
 weight: 20
 url: /ru/net/aspose.finance.ofx.taxw2/taxw2response/ssn/
 ---
 ## TaxW2Response.SSN property
 
-Получает или задает номер социального страхования сотрудника.
+Получает или задает номер социального обеспечения сотрудника.
 
 ```csharp
 public string SSN { get; set; }

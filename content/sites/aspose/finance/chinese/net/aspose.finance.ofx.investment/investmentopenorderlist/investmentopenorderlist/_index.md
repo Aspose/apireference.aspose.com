@@ -1,14 +1,14 @@
 ---
 title: InvestmentOpenOrderList
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化InvestmentOpenOrderListaspose.finance.ofx.investment/investmentopenorderlist类的新实例
+description: 初始化一个新的实例InvestmentOpenOrderListaspose.finance.ofx.investment/investmentopenorderlist类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.investment/investmentopenorderlist/investmentopenorderlist/
 ---
 ## InvestmentOpenOrderList constructor
 
-初始化[`InvestmentOpenOrderList`](../../investmentopenorderlist)类的新实例。
+初始化一个新的实例[`InvestmentOpenOrderList`](../../investmentopenorderlist)类.
 
 ```csharp
 public InvestmentOpenOrderList()

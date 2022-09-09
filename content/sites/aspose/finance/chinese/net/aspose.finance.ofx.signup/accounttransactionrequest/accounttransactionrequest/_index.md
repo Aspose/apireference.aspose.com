@@ -1,14 +1,14 @@
 ---
 title: AccountTransactionRequest
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化AccountTransactionRequestaspose.finance.ofx.signup/accounttransactionrequest类的新实例
+description: 初始化一个新的实例AccountTransactionRequestaspose.finance.ofx.signup/accounttransactionrequest类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.signup/accounttransactionrequest/accounttransactionrequest/
 ---
 ## AccountTransactionRequest constructor
 
-初始化[`AccountTransactionRequest`](../../accounttransactionrequest)类的新实例。
+初始化一个新的实例[`AccountTransactionRequest`](../../accounttransactionrequest)类.
 
 ```csharp
 public AccountTransactionRequest()

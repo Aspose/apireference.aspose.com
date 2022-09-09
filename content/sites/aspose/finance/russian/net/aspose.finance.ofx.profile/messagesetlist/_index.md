@@ -1,14 +1,14 @@
 ---
 title: MessageSetList
 second_title: Справочник по API Aspose.Finance для .NET
-description: информационный класс набора сообщений.
+description: класс информации о списке наборов сообщений.
 type: docs
 weight: 4600
 url: /ru/net/aspose.finance.ofx.profile/messagesetlist/
 ---
 ## MessageSetList class
 
-информационный класс набора сообщений.
+класс информации о списке наборов сообщений.
 
 ```csharp
 public class MessageSetList
@@ -18,13 +18,13 @@ public class MessageSetList
 
 | Имя | Описание |
 | --- | --- |
-| [MessageSetList](messagesetlist)() | Инициализирует новый экземпляр класса[`MessageSetList`](../messagesetlist). |
+| [MessageSetList](messagesetlist)() | Инициализирует новый экземпляр[`MessageSetList`](../messagesetlist) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [MessageSets](../../aspose.finance.ofx.profile/messagesetlist/messagesets) { get; set; } | Получает или задает набор сообщений, основанный на[`AbstractMessageSet`](../abstractmessageset). |
+| [MessageSets](../../aspose.finance.ofx.profile/messagesetlist/messagesets) { get; set; } | Получает или задает набор сообщений, основанный на[`AbstractMessageSet`](../abstractmessageset) . |
 
 ### Смотрите также
 

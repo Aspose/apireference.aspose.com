@@ -1,14 +1,14 @@
 ---
 title: BankTransactionList
 second_title: Aspose.Finance for .NET API 参考
-description: 语句事务数据收集类
+description: 报表交易数据采集类.
 type: docs
 weight: 820
 url: /zh/net/aspose.finance.ofx/banktransactionlist/
 ---
 ## BankTransactionList class
 
-语句事务数据收集类。
+报表交易数据采集类.
 
 ```csharp
 public class BankTransactionList
@@ -18,15 +18,15 @@ public class BankTransactionList
 
 | 姓名 | 描述 |
 | --- | --- |
-| [BankTransactionList](banktransactionlist)() | 初始化[`BankTransactionList`](../banktransactionlist)类的新实例。 |
+| [BankTransactionList](banktransactionlist)() | 初始化一个新的实例[`BankTransactionList`](../banktransactionlist)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
 | [EndDate](../../aspose.finance.ofx/banktransactionlist/enddate) { get; set; } | 获取或设置交易数据的结束日期。 |
-| [StartDate](../../aspose.finance.ofx/banktransactionlist/startdate) { get; set; } | 获取或设置事务数据的开始日期。 |
-| [StatementTransactions](../../aspose.finance.ofx/banktransactionlist/statementtransactions) { get; set; } | 获取或设置[`StatementTransaction`](../statementtransaction)的集合。 |
+| [StartDate](../../aspose.finance.ofx/banktransactionlist/startdate) { get; set; } | 获取或设置交易数据的开始日期。 |
+| [StatementTransactions](../../aspose.finance.ofx/banktransactionlist/statementtransactions) { get; set; } | 获取或设置的集合[`StatementTransaction`](../statementtransaction). |
 
 ### 也可以看看
 

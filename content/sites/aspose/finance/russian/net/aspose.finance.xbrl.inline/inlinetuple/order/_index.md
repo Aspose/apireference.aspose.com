@@ -1,14 +1,14 @@
 ---
 title: Order
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает порядокInlineTupleaspose.finance.xbrl.inline/inlinetuple.
+description: Получает или задает порядокInlineTupleaspose.finance.xbrl.inline/inlinetuple .
 type: docs
 weight: 20
 url: /ru/net/aspose.finance.xbrl.inline/inlinetuple/order/
 ---
 ## InlineTuple.Order property
 
-Получает или задает порядок[`InlineTuple`](../../inlinetuple).
+Получает или задает порядок[`InlineTuple`](../../inlinetuple) .
 
 ```csharp
 public decimal Order { get; set; }

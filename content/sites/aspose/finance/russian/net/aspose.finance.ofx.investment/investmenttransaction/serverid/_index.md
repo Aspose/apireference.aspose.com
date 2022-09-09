@@ -1,14 +1,14 @@
 ---
 title: ServerId
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает назначенный сервером идентификатор транзакции.
+description: Получает или задает идентификатор транзакции назначенный сервером.
 type: docs
 weight: 50
 url: /ru/net/aspose.finance.ofx.investment/investmenttransaction/serverid/
 ---
 ## InvestmentTransaction.ServerId property
 
-Получает или задает назначенный сервером идентификатор транзакции.
+Получает или задает идентификатор транзакции, назначенный сервером.
 
 ```csharp
 public string ServerId { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: OpenOrderDownload
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает загружает ли сервер FI открытые инвестиционные ордера
+description: Получает или задает загружает ли сервер FI открытые инвестиционные заказы
 type: docs
 weight: 70
 url: /ru/net/aspose.finance.ofx.profile/investmentstatementmessagesetv1/openorderdownload/
 ---
 ## InvestmentStatementMessageSetV1.OpenOrderDownload property
 
-Получает или задает, загружает ли сервер FI открытые инвестиционные ордера
+Получает или задает, загружает ли сервер FI открытые инвестиционные заказы
 
 ```csharp
 public bool OpenOrderDownload { get; set; }

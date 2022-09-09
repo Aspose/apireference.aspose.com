@@ -1,14 +1,14 @@
 ---
 title: PresentmentGroupAccountInfoTransactionResponses
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置PresentmentGroupAccountInfoTransactionResponseaspose.finance.ofx.billerdelivery/presentmentgroupaccountinfotransactionresponse的集合
+description: 获取或设置的集合PresentmentGroupAccountInfoTransactionResponseaspose.finance.ofx.billerdelivery/presentmentgroupaccountinfotransactionresponse.
 type: docs
 weight: 50
 url: /zh/net/aspose.finance.ofx/presentmentdeliveryresponsemessagesetv1/presentmentgroupaccountinfotransactionresponses/
 ---
 ## PresentmentDeliveryResponseMessageSetV1.PresentmentGroupAccountInfoTransactionResponses property
 
-获取或设置[`PresentmentGroupAccountInfoTransactionResponse`](../../../aspose.finance.ofx.billerdelivery/presentmentgroupaccountinfotransactionresponse)的集合。
+获取或设置的集合[`PresentmentGroupAccountInfoTransactionResponse`](../../../aspose.finance.ofx.billerdelivery/presentmentgroupaccountinfotransactionresponse).
 
 ```csharp
 public List<PresentmentGroupAccountInfoTransactionResponse> 

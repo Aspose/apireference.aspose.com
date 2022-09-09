@@ -1,14 +1,14 @@
 ---
 title: EstimatedPayoff
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задаетEstimatedPayoffaspose.finance.ofx.loan/loanclosing/estimatedpayoff.
+description: Получает или задаетEstimatedPayoffaspose.finance.ofx.loan/loanclosing/estimatedpayoff .
 type: docs
 weight: 90
 url: /ru/net/aspose.finance.ofx.loan/loanclosing/estimatedpayoff/
 ---
 ## LoanClosing.EstimatedPayoff property
 
-Получает или задает`EstimatedPayoff`.
+Получает или задает`EstimatedPayoff` .
 
 ```csharp
 public EstimatedPayoff EstimatedPayoff { get; set; }

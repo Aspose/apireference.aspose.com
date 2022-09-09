@@ -1,14 +1,14 @@
 ---
 title: City
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置银行所在的城市
+description: 获取或设置银行所在城市
 type: docs
 weight: 60
 url: /zh/net/aspose.finance.ofx.wiretransfer/extbankdescription/city/
 ---
 ## ExtBankDescription.City property
 
-获取或设置银行所在的城市。
+获取或设置银行所在城市。
 
 ```csharp
 public string City { get; set; }

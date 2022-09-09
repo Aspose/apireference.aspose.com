@@ -1,14 +1,14 @@
 ---
 title: TransferDestination
 second_title: Aspose.Finance for .NET API 参考
-description: 如果账户被启用作为银行内或银行间转账的目的地是否则否
+description: 如果帐户被启用作为银行内或银行间转账的目的地是否则否
 type: docs
 weight: 180
 url: /zh/net/aspose.finance.ofx/loanaccountinfo/transferdestination/
 ---
 ## LoanAccountInfo.TransferDestination property
 
-如果账户被启用作为银行内或银行间转账的目的地，是，否则，否。
+如果帐户被启用作为银行内或银行间转账的目的地，是，否则，否。
 
 ```csharp
 public bool TransferDestination { get; set; }

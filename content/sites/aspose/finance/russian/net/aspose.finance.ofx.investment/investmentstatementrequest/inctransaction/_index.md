@@ -1,14 +1,14 @@
 ---
 title: IncTransaction
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задаетIncTransactionaspose.finance.ofx.investment/investmentstatementrequest/inctransaction.
+description: Получает или задаетIncTransactionaspose.finance.ofx.investment/investmentstatementrequest/inctransaction .
 type: docs
 weight: 80
 url: /ru/net/aspose.finance.ofx.investment/investmentstatementrequest/inctransaction/
 ---
 ## InvestmentStatementRequest.IncTransaction property
 
-Получает или задает`IncTransaction`.
+Получает или задает`IncTransaction` .
 
 ```csharp
 public IncTransaction IncTransaction { get; set; }

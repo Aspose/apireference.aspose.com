@@ -1,14 +1,14 @@
 ---
 title: HolderInfo
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задаетHolderInfoTypeaspose.finance.ofx/holderinfotype.
+description: Получает или задаетHolderInfoTypeaspose.finance.ofx/holderinfotype .
 type: docs
 weight: 40
 url: /ru/net/aspose.finance.ofx/accountinfo/holderinfo/
 ---
 ## AccountInfo.HolderInfo property
 
-Получает или задает[`HolderInfoType`](../../holderinfotype).
+Получает или задает[`HolderInfoType`](../../holderinfotype) .
 
 ```csharp
 public HolderInfoType HolderInfo { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: SellStock
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化SellStockaspose.finance.ofx.investment/sellstock类的新实例
+description: 初始化一个新的实例SellStockaspose.finance.ofx.investment/sellstock类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.investment/sellstock/sellstock/
 ---
 ## SellStock constructor
 
-初始化[`SellStock`](../../sellstock)类的新实例。
+初始化一个新的实例[`SellStock`](../../sellstock)类.
 
 ```csharp
 public SellStock()

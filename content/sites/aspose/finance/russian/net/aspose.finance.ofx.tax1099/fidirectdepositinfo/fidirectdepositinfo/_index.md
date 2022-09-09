@@ -1,14 +1,14 @@
 ---
 title: FIDirectDepositInfo
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаFIDirectDepositInfoaspose.finance.ofx.tax1099/fidirectdepositinfo.
+description: Инициализирует новый экземплярFIDirectDepositInfoaspose.finance.ofx.tax1099/fidirectdepositinfo класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.tax1099/fidirectdepositinfo/fidirectdepositinfo/
 ---
 ## FIDirectDepositInfo constructor
 
-Инициализирует новый экземпляр класса[`FIDirectDepositInfo`](../../fidirectdepositinfo).
+Инициализирует новый экземпляр[`FIDirectDepositInfo`](../../fidirectdepositinfo) класс.
 
 ```csharp
 public FIDirectDepositInfo()

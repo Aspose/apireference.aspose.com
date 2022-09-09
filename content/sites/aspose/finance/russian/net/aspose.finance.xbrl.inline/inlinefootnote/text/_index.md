@@ -1,14 +1,14 @@
 ---
 title: Text
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает текстInlineFootnoteaspose.finance.xbrl.inline/inlinefootnote.
+description: Получает или задает текстInlineFootnoteaspose.finance.xbrl.inline/inlinefootnote .
 type: docs
 weight: 60
 url: /ru/net/aspose.finance.xbrl.inline/inlinefootnote/text/
 ---
 ## InlineFootnote.Text property
 
-Получает или задает текст[`InlineFootnote`](../../inlinefootnote).
+Получает или задает текст[`InlineFootnote`](../../inlinefootnote) .
 
 ```csharp
 public string Text { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: PreTax
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置税前提款
+description: 获取或设置税前取款
 type: docs
 weight: 60
 url: /zh/net/aspose.finance.ofx.investment/withdrawals/pretax/
 ---
 ## Withdrawals.PreTax property
 
-获取或设置税前提款。
+获取或设置税前取款。
 
 ```csharp
 public string PreTax { get; set; }

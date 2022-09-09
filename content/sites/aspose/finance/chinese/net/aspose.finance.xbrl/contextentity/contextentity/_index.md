@@ -1,14 +1,14 @@
 ---
 title: ContextEntity
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化ContextEntityaspose.finance.xbrl/contextentity类的新实例
+description: 初始化一个新的实例ContextEntityaspose.finance.xbrl/contextentity类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.xbrl/contextentity/contextentity/
 ---
 ## ContextEntity constructor
 
-初始化[`ContextEntity`](../../contextentity)类的新实例。
+初始化一个新的实例[`ContextEntity`](../../contextentity)类.
 
 ```csharp
 public ContextEntity(string identifierScheme, string identifier)

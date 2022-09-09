@@ -1,14 +1,14 @@
 ---
 title: PaymentAmount
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置下一个贷款支付金额
+description: 获取或设置下一笔还款金额
 type: docs
 weight: 50
 url: /zh/net/aspose.finance.ofx/loanpaymentamount/paymentamount/
 ---
 ## LoanPaymentAmount.PaymentAmount property
 
-获取或设置下一个贷款支付金额。
+获取或设置下一笔还款金额。
 
 ```csharp
 public string PaymentAmount { get; set; }

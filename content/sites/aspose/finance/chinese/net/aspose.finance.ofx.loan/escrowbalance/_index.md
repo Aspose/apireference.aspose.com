@@ -18,7 +18,7 @@ public class EscrowBalance
 
 | 姓名 | 描述 |
 | --- | --- |
-| [EscrowBalance](escrowbalance)() | 初始化[`EscrowBalance`](../escrowbalance)类的新实例。 |
+| [EscrowBalance](escrowbalance)() | 初始化一个新的实例[`EscrowBalance`](../escrowbalance)类. |
 
 ## 特性
 
@@ -29,7 +29,7 @@ public class EscrowBalance
 | [EscrowFeesBalance](../../aspose.finance.ofx.loan/escrowbalance/escrowfeesbalance) { get; set; } | 获取或设置托管中的费用余额。 |
 | [EscrowInsuranceBalance](../../aspose.finance.ofx.loan/escrowbalance/escrowinsurancebalance) { get; set; } | 获取或设置托管中的保险余额。 |
 | [EscrowOtherBalance](../../aspose.finance.ofx.loan/escrowbalance/escrowotherbalance) { get; set; } | 获取或设置托管中其他金额的余额。 |
-| [EscrowPMIBalance](../../aspose.finance.ofx.loan/escrowbalance/escrowpmibalance) { get; set; } | 获取或设置托管的 PMI 余额。 |
+| [EscrowPMIBalance](../../aspose.finance.ofx.loan/escrowbalance/escrowpmibalance) { get; set; } | 获取或设置托管的PMI余额。 |
 | [EscrowTaxBalance](../../aspose.finance.ofx.loan/escrowbalance/escrowtaxbalance) { get; set; } | 获取或设置托管中的税款余额。 |
 
 ### 也可以看看

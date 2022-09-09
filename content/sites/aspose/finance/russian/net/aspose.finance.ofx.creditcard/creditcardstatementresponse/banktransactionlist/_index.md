@@ -1,14 +1,14 @@
 ---
 title: BankTransactionList
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает значение изBankTransactionListaspose.finance.ofx.creditcard/creditcardstatementresponse/banktransactionlist.
+description: Получает или задает изBankTransactionListaspose.finance.ofx.creditcard/creditcardstatementresponse/banktransactionlist .
 type: docs
 weight: 40
 url: /ru/net/aspose.finance.ofx.creditcard/creditcardstatementresponse/banktransactionlist/
 ---
 ## CreditCardStatementResponse.BankTransactionList property
 
-Получает или задает значение из`BankTransactionList`.
+Получает или задает из`BankTransactionList` .
 
 ```csharp
 public BankTransactionList BankTransactionList { get; set; }

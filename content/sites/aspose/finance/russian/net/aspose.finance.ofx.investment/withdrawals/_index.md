@@ -18,14 +18,14 @@ public class Withdrawals
 
 | Имя | Описание |
 | --- | --- |
-| [Withdrawals](withdrawals)() | Инициализирует новый экземпляр класса[`Withdrawals`](../withdrawals). |
+| [Withdrawals](withdrawals)() | Инициализирует новый экземпляр[`Withdrawals`](../withdrawals) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
 | [AfterTax](../../aspose.finance.ofx.investment/withdrawals/aftertax) { get; set; } | Получает или задает сумму после вычета налогов. |
-| [Match](../../aspose.finance.ofx.investment/withdrawals/match) { get; set; } | Получает или задает совпадающие выплаты работодателя. |
+| [Match](../../aspose.finance.ofx.investment/withdrawals/match) { get; set; } | Получает или задает соответствие снятий средств работодателем. |
 | [OtherNonvest](../../aspose.finance.ofx.investment/withdrawals/othernonvest) { get; set; } | Получает или задает другие снятие средств без предоставления прав. |
 | [OtherVest](../../aspose.finance.ofx.investment/withdrawals/othervest) { get; set; } | Получает или задает другие изъятия прав. |
 | [PreTax](../../aspose.finance.ofx.investment/withdrawals/pretax) { get; set; } | Получает или задает снятие средств до уплаты налогов. |

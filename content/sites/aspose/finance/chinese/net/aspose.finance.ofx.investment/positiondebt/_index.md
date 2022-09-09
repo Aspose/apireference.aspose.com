@@ -18,13 +18,13 @@ public class PositionDebt : AbstractPositionBase
 
 | 姓名 | 描述 |
 | --- | --- |
-| [PositionDebt](positiondebt)() | 初始化[`PositionDebt`](../positiondebt)类的新实例。 |
+| [PositionDebt](positiondebt)() | 初始化一个新的实例[`PositionDebt`](../positiondebt)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [InvestmentPosition](../../aspose.finance.ofx.investment/abstractpositionbase/investmentposition) { get; set; } | 获取或设置[`InvestmentPosition`](../abstractpositionbase/investmentposition)。 |
+| [InvestmentPosition](../../aspose.finance.ofx.investment/abstractpositionbase/investmentposition) { get; set; } | 获取或设置[`InvestmentPosition`](../abstractpositionbase/investmentposition). |
 
 ### 也可以看看
 

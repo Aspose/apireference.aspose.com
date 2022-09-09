@@ -18,16 +18,16 @@ public class PrincipalBalanceType
 
 | Имя | Описание |
 | --- | --- |
-| [PrincipalBalanceType](principalbalancetype)() | Инициализирует новый экземпляр класса[`PrincipalBalanceType`](../principalbalancetype). |
+| [PrincipalBalanceType](principalbalancetype)() | Инициализирует новый экземпляр[`PrincipalBalanceType`](../principalbalancetype) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [BalanceAmount](../../aspose.finance.ofx/principalbalancetype/balanceamount) { get; set; } | Получает или задает текущий остаток основного долга по кредиту |
+| [BalanceAmount](../../aspose.finance.ofx/principalbalancetype/balanceamount) { get; set; } | Получает или задает текущий остаток основной суммы кредита |
 | [DateAsOf](../../aspose.finance.ofx/principalbalancetype/dateasof) { get; set; } | Получает или задает дату и время текущего остатка кредита. |
 | [PrincipalLoanToDate](../../aspose.finance.ofx/principalbalancetype/principalloantodate) { get; set; } | Получает или задает общую сумму выплаченного основного долга на сегодняшний день. |
-| [PrincipalYearToDate](../../aspose.finance.ofx/principalbalancetype/principalyeartodate) { get; set; } | Возвращает или задает общую сумму основного долга, выплаченную с начала года. |
+| [PrincipalYearToDate](../../aspose.finance.ofx/principalbalancetype/principalyeartodate) { get; set; } | Получает или задает общую сумму основного долга, выплаченного за год до настоящего времени. |
 
 ### Смотрите также
 

@@ -18,13 +18,13 @@ public class InterTransferMessageSet : AbstractMessageSet
 
 | Имя | Описание |
 | --- | --- |
-| [InterTransferMessageSet](intertransfermessageset)() | Инициализирует новый экземпляр класса[`InterTransferMessageSet`](../intertransfermessageset). |
+| [InterTransferMessageSet](intertransfermessageset)() | Инициализирует новый экземпляр[`InterTransferMessageSet`](../intertransfermessageset) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [InterTransferMessageSetV1](../../aspose.finance.ofx.profile/intertransfermessageset/intertransfermessagesetv1) { get; set; } | Получает или задает[`InterTransferMessageSetV1`](./intertransfermessagesetv1). |
+| [InterTransferMessageSetV1](../../aspose.finance.ofx.profile/intertransfermessageset/intertransfermessagesetv1) { get; set; } | Получает или задает[`InterTransferMessageSetV1`](./intertransfermessagesetv1) . |
 
 ### Смотрите также
 

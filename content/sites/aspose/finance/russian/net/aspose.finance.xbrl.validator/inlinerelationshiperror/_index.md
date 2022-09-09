@@ -18,7 +18,7 @@ public class InlineRelationshipError : ValidationError
 | --- | --- |
 | [Code](../../aspose.finance.xbrl.validator/validationerror/code) { get; } | Получает код ошибки проверки. |
 | [Message](../../aspose.finance.xbrl.validator/validationerror/message) { get; } | Получает сообщение об ошибке. |
-| [Object](../../aspose.finance.xbrl.validator/inlinerelationshiperror/object) { get; } | Получает объект[`Fact`](../../aspose.finance.xbrl/fact)с ошибкой проверки. |
+| [Object](../../aspose.finance.xbrl.validator/inlinerelationshiperror/object) { get; } | Получает[`Fact`](../../aspose.finance.xbrl/fact)объект с ошибкой проверки. |
 
 ### Смотрите также
 

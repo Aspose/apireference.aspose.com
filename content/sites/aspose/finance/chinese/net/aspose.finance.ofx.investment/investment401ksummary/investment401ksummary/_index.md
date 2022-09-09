@@ -1,14 +1,14 @@
 ---
 title: Investment401kSummary
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化Investment401kSummaryaspose.finance.ofx.investment/investment401ksummary类的新实例
+description: 初始化一个新的实例Investment401kSummaryaspose.finance.ofx.investment/investment401ksummary类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.investment/investment401ksummary/investment401ksummary/
 ---
 ## Investment401kSummary constructor
 
-初始化[`Investment401kSummary`](../../investment401ksummary)类的新实例。
+初始化一个新的实例[`Investment401kSummary`](../../investment401ksummary)类.
 
 ```csharp
 public Investment401kSummary()

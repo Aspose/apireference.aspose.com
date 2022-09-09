@@ -1,14 +1,14 @@
 ---
 title: Include
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置是否在报表下载中包含位置
+description: 获取或设置语句下载中是否包含仓位
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.ofx.investment/incposition/include/
 ---
 ## IncPosition.Include property
 
-获取或设置是否在报表下载中包含位置。
+获取或设置语句下载中是否包含仓位。
 
 ```csharp
 public bool Include { get; set; }

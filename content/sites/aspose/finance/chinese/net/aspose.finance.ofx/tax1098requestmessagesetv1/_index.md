@@ -1,14 +1,14 @@
 ---
 title: Tax1098RequestMessageSetV1
 second_title: Aspose.Finance for .NET API 参考
-description: Tax 1098 请求消息集版本 1 类
+description: 税 1098 请求消息设置版本 1 类
 type: docs
 weight: 5840
 url: /zh/net/aspose.finance.ofx/tax1098requestmessagesetv1/
 ---
 ## Tax1098RequestMessageSetV1 class
 
-Tax 1098 请求消息集版本 1 类。
+税 1098 请求消息设置版本 1 类。
 
 ```csharp
 public class Tax1098RequestMessageSetV1 : AbstractRequestMessageSet
@@ -18,13 +18,13 @@ public class Tax1098RequestMessageSetV1 : AbstractRequestMessageSet
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Tax1098RequestMessageSetV1](tax1098requestmessagesetv1)() | 初始化[`Tax1098RequestMessageSetV1`](../tax1098requestmessagesetv1)类的新实例。 |
+| [Tax1098RequestMessageSetV1](tax1098requestmessagesetv1)() | 初始化一个新的实例[`Tax1098RequestMessageSetV1`](../tax1098requestmessagesetv1)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Tax1098TransactionRequests](../../aspose.finance.ofx/tax1098requestmessagesetv1/tax1098transactionrequests) { get; set; } | 获取或设置[`Tax1098TransactionRequest`](../../aspose.finance.ofx.tax1098/tax1098transactionrequest)的集合。 |
+| [Tax1098TransactionRequests](../../aspose.finance.ofx/tax1098requestmessagesetv1/tax1098transactionrequests) { get; set; } | 获取或设置的集合[`Tax1098TransactionRequest`](../../aspose.finance.ofx.tax1098/tax1098transactionrequest). |
 
 ### 也可以看看
 

@@ -18,14 +18,14 @@ public class RecurringIntraCancellationRequest : AbstractRecurringIntraRequest
 
 | Имя | Описание |
 | --- | --- |
-| [RecurringIntraCancellationRequest](recurringintracancellationrequest)() | Инициализирует новый экземпляр класса[`RecurringIntraCancellationRequest`](../recurringintracancellationrequest). |
+| [RecurringIntraCancellationRequest](recurringintracancellationrequest)() | Инициализирует новый экземпляр[`RecurringIntraCancellationRequest`](../recurringintracancellationrequest) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
 | [CancelPending](../../aspose.finance.ofx.bank/recurringintracancellationrequest/cancelpending) { get; set; } | Получает или устанавливает флаг ожидания отмены. Если да, сервер должен отменить все ожидающие и не порожденные передачи. Если нет, сервер должен отменить только модель (и непорожденные передачи). |
-| [RecurringServerId](../../aspose.finance.ofx.bank/recurringintracancellationrequest/recurringserverid) { get; set; } | Получает или задает идентификатор, присвоенный сервером отменяемой модели. |
+| [RecurringServerId](../../aspose.finance.ofx.bank/recurringintracancellationrequest/recurringserverid) { get; set; } | Получает или задает идентификатор, назначенный сервером отменяемой модели. |
 
 ### Смотрите также
 

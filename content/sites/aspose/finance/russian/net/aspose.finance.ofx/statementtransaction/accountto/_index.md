@@ -1,14 +1,14 @@
 ---
 title: AccountTo
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает счет дляBankAccountaspose.finance.ofx/bankaccountилиCreditCardAccountaspose.finance.ofx/creditcardaccount.
+description: Получает или устанавливает учетную записьBankAccountaspose.finance.ofx/bankaccount или жеCreditCardAccountaspose.finance.ofx/creditcardaccount .
 type: docs
 weight: 20
 url: /ru/net/aspose.finance.ofx/statementtransaction/accountto/
 ---
 ## StatementTransaction.AccountTo property
 
-Получает или задает счет для[`BankAccount`](../../bankaccount)или[`CreditCardAccount`](../../creditcardaccount).
+Получает или устанавливает учетную запись,[`BankAccount`](../../bankaccount) или же[`CreditCardAccount`](../../creditcardaccount) .
 
 ```csharp
 public AbstractAccount AccountTo { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: Currency
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задаетCurrencyaspose.finance.ofx.bank/closing/currency.
+description: Получает или задаетCurrencyaspose.finance.ofx.bank/closing/currency .
 type: docs
 weight: 80
 url: /ru/net/aspose.finance.ofx.bank/closing/currency/
 ---
 ## Closing.Currency property
 
-Получает или задает`Currency`.
+Получает или задает`Currency` .
 
 ```csharp
 public Currency Currency { get; set; }

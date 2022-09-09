@@ -1,14 +1,14 @@
 ---
 title: SecurityId
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置SecurityIdaspose.finance.ofx.investment/contributionsecurity/securityid
+description: 获取或设置SecurityIdaspose.finance.ofx.investment/contributionsecurity/securityid.
 type: docs
 weight: 50
 url: /zh/net/aspose.finance.ofx.investment/contributionsecurity/securityid/
 ---
 ## ContributionSecurity.SecurityId property
 
-获取或设置`SecurityId`。
+获取或设置`SecurityId`.
 
 ```csharp
 public SecurityId SecurityId { get; set; }

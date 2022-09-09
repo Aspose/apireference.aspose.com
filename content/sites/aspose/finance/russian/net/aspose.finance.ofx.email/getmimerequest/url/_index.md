@@ -1,14 +1,14 @@
 ---
 title: Url
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает URL-адрес.
+description: Получает или задает URL.
 type: docs
 weight: 20
 url: /ru/net/aspose.finance.ofx.email/getmimerequest/url/
 ---
 ## GetMimeRequest.Url property
 
-Получает или задает URL-адрес.
+Получает или задает URL.
 
 ```csharp
 public string Url { get; set; }

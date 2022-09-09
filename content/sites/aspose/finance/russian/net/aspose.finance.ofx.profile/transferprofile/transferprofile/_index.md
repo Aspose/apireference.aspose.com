@@ -1,14 +1,14 @@
 ---
 title: TransferProfile
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаTransferProfileaspose.finance.ofx.profile/transferprofile.
+description: Инициализирует новый экземплярTransferProfileaspose.finance.ofx.profile/transferprofile класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.profile/transferprofile/transferprofile/
 ---
 ## TransferProfile constructor
 
-Инициализирует новый экземпляр класса[`TransferProfile`](../../transferprofile).
+Инициализирует новый экземпляр[`TransferProfile`](../../transferprofile) класс.
 
 ```csharp
 public TransferProfile()

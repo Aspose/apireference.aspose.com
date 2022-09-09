@@ -19,8 +19,8 @@ public enum CouponFrequencyEnum
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
 | MONTHLY | `0` | 每月 |
-| QUARTERLY | `1` | 每季 |
-| SEMIANNUAL | `2` | 半年一次 |
+| QUARTERLY | `1` | 季刊 |
+| SEMIANNUAL | `2` | 半年刊 |
 | ANNUAL | `3` | 年度 |
 | OTHER | `4` | 其他 |
 

@@ -1,14 +1,14 @@
 ---
 title: InvestmentMailTransactionResponses
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置InvestmentMailTransactionResponseaspose.finance.ofx.investment/investmentmailtransactionresponse的集合
+description: 获取或设置的集合InvestmentMailTransactionResponseaspose.finance.ofx.investment/investmentmailtransactionresponse.
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.ofx/investmentstatementresponsemessagesetv1/investmentmailtransactionresponses/
 ---
 ## InvestmentStatementResponseMessageSetV1.InvestmentMailTransactionResponses property
 
-获取或设置[`InvestmentMailTransactionResponse`](../../../aspose.finance.ofx.investment/investmentmailtransactionresponse)的集合。
+获取或设置的集合[`InvestmentMailTransactionResponse`](../../../aspose.finance.ofx.investment/investmentmailtransactionresponse).
 
 ```csharp
 public List<InvestmentMailTransactionResponse> InvestmentMailTransactionResponses { get; set; }

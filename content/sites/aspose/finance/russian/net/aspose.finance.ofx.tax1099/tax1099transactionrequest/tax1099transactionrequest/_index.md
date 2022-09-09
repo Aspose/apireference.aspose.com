@@ -1,14 +1,14 @@
 ---
 title: Tax1099TransactionRequest
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаTax1099TransactionRequestaspose.finance.ofx.tax1099/tax1099transactionrequest.
+description: Инициализирует новый экземплярTax1099TransactionRequestaspose.finance.ofx.tax1099/tax1099transactionrequest класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.tax1099/tax1099transactionrequest/tax1099transactionrequest/
 ---
 ## Tax1099TransactionRequest constructor
 
-Инициализирует новый экземпляр класса[`Tax1099TransactionRequest`](../../tax1099transactionrequest).
+Инициализирует новый экземпляр[`Tax1099TransactionRequest`](../../tax1099transactionrequest) класс.
 
 ```csharp
 public Tax1099TransactionRequest()

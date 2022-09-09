@@ -1,14 +1,14 @@
 ---
 title: FootnoteArcs
 second_title: Aspose.Finance for .NET API 参考
-description: 获取FootnoteArcaspose.finance.xbrl/footnotearc的集合
+description: 获取集合FootnoteArcaspose.finance.xbrl/footnotearc.
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.xbrl/footnotelink/footnotearcs/
 ---
 ## FootnoteLink.FootnoteArcs property
 
-获取[`FootnoteArc`](../../footnotearc)的集合。
+获取集合[`FootnoteArc`](../../footnotearc).
 
 ```csharp
 public List<FootnoteArc> FootnoteArcs { get; }

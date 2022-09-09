@@ -1,14 +1,14 @@
 ---
 title: ContributionSecurity
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化ContributionSecurityaspose.finance.ofx.investment/contributionsecurity类的新实例
+description: 初始化一个新的实例ContributionSecurityaspose.finance.ofx.investment/contributionsecurity类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.investment/contributionsecurity/contributionsecurity/
 ---
 ## ContributionSecurity constructor
 
-初始化[`ContributionSecurity`](../../contributionsecurity)类的新实例。
+初始化一个新的实例[`ContributionSecurity`](../../contributionsecurity)类.
 
 ```csharp
 public ContributionSecurity()

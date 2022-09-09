@@ -1,14 +1,14 @@
 ---
 title: PresentmentDlvMessageSetV1s
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает коллекциюPresentmentDlvMessageSetV1aspose.finance.ofx.profile/presentmentdlvmessagesetv1.
+description: Получает или задает коллекциюPresentmentDlvMessageSetV1aspose.finance.ofx.profile/presentmentdlvmessagesetv1 .
 type: docs
 weight: 20
 url: /ru/net/aspose.finance.ofx.profile/presentmentdlvmessageset/presentmentdlvmessagesetv1s/
 ---
 ## PresentmentDlvMessageSet.PresentmentDlvMessageSetV1s property
 
-Получает или задает коллекцию[`PresentmentDlvMessageSetV1`](../../presentmentdlvmessagesetv1).
+Получает или задает коллекцию[`PresentmentDlvMessageSetV1`](../../presentmentdlvmessagesetv1) .
 
 ```csharp
 public List<PresentmentDlvMessageSetV1> PresentmentDlvMessageSetV1s { get; set; }

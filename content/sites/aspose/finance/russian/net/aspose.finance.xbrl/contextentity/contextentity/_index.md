@@ -1,14 +1,14 @@
 ---
 title: ContextEntity
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаContextEntityaspose.finance.xbrl/contextentity.
+description: Инициализирует новый экземплярContextEntityaspose.finance.xbrl/contextentity класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.xbrl/contextentity/contextentity/
 ---
 ## ContextEntity constructor
 
-Инициализирует новый экземпляр класса[`ContextEntity`](../../contextentity).
+Инициализирует новый экземпляр[`ContextEntity`](../../contextentity) класс.
 
 ```csharp
 public ContextEntity(string identifierScheme, string identifier)

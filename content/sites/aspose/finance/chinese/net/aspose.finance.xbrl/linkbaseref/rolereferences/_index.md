@@ -1,14 +1,14 @@
 ---
 title: RoleReferences
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置链接库中RoleReferenceaspose.finance.xbrl/rolereference对象的集合
+description: 获取或设置的集合RoleReferenceaspose.finance.xbrl/rolereference链接库中的对象
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.xbrl/linkbaseref/rolereferences/
 ---
 ## LinkbaseRef.RoleReferences property
 
-获取或设置链接库中[`RoleReference`](../../rolereference)对象的集合。
+获取或设置的集合[`RoleReference`](../../rolereference)链接库中的对象。
 
 ```csharp
 public List<RoleReference> RoleReferences { get; set; }

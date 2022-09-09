@@ -1,14 +1,14 @@
 ---
 title: GetToLabels
 second_title: Aspose.Finance for .NET API 参考
-description: 在LabelArcaspose.finance.xbrl/labelarc中获取Labelaspose.finance.xbrl/label的集合
+description: 获取 to 的集合Labelaspose.finance.xbrl/label在里面LabelArcaspose.finance.xbrl/labelarc.
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.xbrl/labelarc/gettolabels/
 ---
 ## LabelArc.GetToLabels method
 
-在[`LabelArc`](../../labelarc)中获取[`Label`](../../label)的集合。
+获取 to 的集合[`Label`](../../label)在里面[`LabelArc`](../../labelarc).
 
 ```csharp
 public List<Label> GetToLabels()
@@ -16,7 +16,7 @@ public List<Label> GetToLabels()
 
 ### 返回值
 
-到[`Label`](../../label)的集合。
+的集合[`Label`](../../label).
 
 ### 也可以看看
 

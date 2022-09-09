@@ -1,14 +1,14 @@
 ---
 title: BillTableStructureRequest
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置BillTableStructureRequestaspose.finance.ofx.billerdelivery/billtablestructuretransactionrequest/billtablestructurerequest
+description: 获取或设置BillTableStructureRequestaspose.finance.ofx.billerdelivery/billtablestructuretransactionrequest/billtablestructurerequest.
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.ofx.billerdelivery/billtablestructuretransactionrequest/billtablestructurerequest/
 ---
 ## BillTableStructureTransactionRequest.BillTableStructureRequest property
 
-获取或设置`BillTableStructureRequest`。
+获取或设置`BillTableStructureRequest`.
 
 ```csharp
 public BillTableStructureRequest BillTableStructureRequest { get; set; }

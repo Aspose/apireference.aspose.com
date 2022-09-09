@@ -1,14 +1,14 @@
 ---
 title: PayeeAccount
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置收款人的用户帐号
+description: 获取或设置收款人的用户账号
 type: docs
 weight: 100
 url: /zh/net/aspose.finance.ofx.billpay/paymentinfo/payeeaccount/
 ---
 ## PaymentInfo.PayeeAccount property
 
-获取或设置收款人的用户帐号。
+获取或设置收款人的用户账号
 
 ```csharp
 public string PayeeAccount { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: MessageSetCore
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置MessageSetCoreaspose.finance.ofx.profile/abstractmessagesetversion/messagesetcore
+description: 获取或设置MessageSetCoreaspose.finance.ofx.profile/abstractmessagesetversion/messagesetcore.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.profile/abstractmessagesetversion/messagesetcore/
 ---
 ## AbstractMessageSetVersion.MessageSetCore property
 
-获取或设置`MessageSetCore`。
+获取或设置`MessageSetCore`.
 
 ```csharp
 public MessageSetCore MessageSetCore { get; set; }

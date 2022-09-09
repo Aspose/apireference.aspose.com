@@ -1,14 +1,14 @@
 ---
 title: LoanStatementRequest
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化LoanStatementRequestaspose.finance.ofx.loan/loanstatementrequest类的新实例
+description: 初始化一个新的实例LoanStatementRequestaspose.finance.ofx.loan/loanstatementrequest类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.loan/loanstatementrequest/loanstatementrequest/
 ---
 ## LoanStatementRequest constructor
 
-初始化[`LoanStatementRequest`](../../loanstatementrequest)类的新实例。
+初始化一个新的实例[`LoanStatementRequest`](../../loanstatementrequest)类.
 
 ```csharp
 public LoanStatementRequest()

@@ -8,7 +8,7 @@ url: /zh/net/aspose.finance.ofx.billerdelivery/billstatus/billstatuscode/
 ---
 ## BillStatus.BillStatusCode property
 
-获取或设置账单状态码。
+获取或设置账单状态码
 
 ```csharp
 public BillStatusCodeEnum BillStatusCode { get; set; }

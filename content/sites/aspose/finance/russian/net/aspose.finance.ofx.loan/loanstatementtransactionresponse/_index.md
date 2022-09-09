@@ -1,14 +1,14 @@
 ---
 title: LoanStatementTransactionResponse
 second_title: Справочник по API Aspose.Finance для .NET
-description: Класс ответа транзакции загрузки займа.
+description: Класс ответа транзакции загрузки ссуды.
 type: docs
 weight: 3980
 url: /ru/net/aspose.finance.ofx.loan/loanstatementtransactionresponse/
 ---
 ## LoanStatementTransactionResponse class
 
-Класс ответа транзакции загрузки займа.
+Класс ответа транзакции загрузки ссуды.
 
 ```csharp
 public class LoanStatementTransactionResponse : AbstractTransactionResponse
@@ -18,16 +18,16 @@ public class LoanStatementTransactionResponse : AbstractTransactionResponse
 
 | Имя | Описание |
 | --- | --- |
-| [LoanStatementTransactionResponse](loanstatementtransactionresponse)() | Инициализирует новый экземпляр класса[`LoanStatementTransactionResponse`](../loanstatementtransactionresponse). |
+| [LoanStatementTransactionResponse](loanstatementtransactionresponse)() | Инициализирует новый экземпляр[`LoanStatementTransactionResponse`](../loanstatementtransactionresponse) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [ClientCookie](../../aspose.finance.ofx/abstracttransactionresponse/clientcookie) { get; set; } | Получает или задает данные, которые будут отображаться в ответе транзакции |
-| [LoanStatementResponse](../../aspose.finance.ofx.loan/loanstatementtransactionresponse/loanstatementresponse) { get; set; } | Получает или задает[`LoanStatementResponse`](./loanstatementresponse). |
-| [OfxExtension](../../aspose.finance.ofx.loan/loanstatementtransactionresponse/ofxextension) { get; set; } | Получает или задает[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
-| [Status](../../aspose.finance.ofx/abstracttransactionresponse/status) { get; set; } | Получает или задает[`Status`](../../aspose.finance.ofx/abstracttransactionresponse/status). |
+| [ClientCookie](../../aspose.finance.ofx/abstracttransactionresponse/clientcookie) { get; set; } | Получает или задает данные, которые будут отражены в транзакции response |
+| [LoanStatementResponse](../../aspose.finance.ofx.loan/loanstatementtransactionresponse/loanstatementresponse) { get; set; } | Получает или задает[`LoanStatementResponse`](./loanstatementresponse) . |
+| [OfxExtension](../../aspose.finance.ofx.loan/loanstatementtransactionresponse/ofxextension) { get; set; } | Получает или задает[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype) . |
+| [Status](../../aspose.finance.ofx/abstracttransactionresponse/status) { get; set; } | Получает или задает[`Status`](../../aspose.finance.ofx/abstracttransactionresponse/status) . |
 | [TransactionUniqueId](../../aspose.finance.ofx/abstracttransactionresponse/transactionuniqueid) { get; set; } | Получает или задает назначенный клиентом глобальный уникальный идентификатор для этой транзакции. |
 
 ### Смотрите также

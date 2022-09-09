@@ -1,14 +1,14 @@
 ---
 title: ServiceChange
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаServiceChangeaspose.finance.ofx.signup/servicechange.
+description: Инициализирует новый экземплярServiceChangeaspose.finance.ofx.signup/servicechange класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.signup/servicechange/servicechange/
 ---
 ## ServiceChange constructor
 
-Инициализирует новый экземпляр класса[`ServiceChange`](../../servicechange).
+Инициализирует новый экземпляр[`ServiceChange`](../../servicechange) класс.
 
 ```csharp
 public ServiceChange()

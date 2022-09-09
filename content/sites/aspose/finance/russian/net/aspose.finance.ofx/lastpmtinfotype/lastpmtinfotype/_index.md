@@ -1,14 +1,14 @@
 ---
 title: LastPmtInfoType
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаLastPmtInfoTypeaspose.finance.ofx/lastpmtinfotype.
+description: Инициализирует новый экземплярLastPmtInfoTypeaspose.finance.ofx/lastpmtinfotype класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx/lastpmtinfotype/lastpmtinfotype/
 ---
 ## LastPmtInfoType constructor
 
-Инициализирует новый экземпляр класса[`LastPmtInfoType`](../../lastpmtinfotype).
+Инициализирует новый экземпляр[`LastPmtInfoType`](../../lastpmtinfotype) класс.
 
 ```csharp
 public LastPmtInfoType()

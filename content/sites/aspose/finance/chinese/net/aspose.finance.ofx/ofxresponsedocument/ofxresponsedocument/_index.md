@@ -1,14 +1,14 @@
 ---
 title: OfxResponseDocument
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化OfxResponseDocumentaspose.finance.ofx/ofxresponsedocument类的新实例
+description: 初始化一个新的实例OfxResponseDocumentaspose.finance.ofx/ofxresponsedocument类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx/ofxresponsedocument/ofxresponsedocument/
 ---
 ## OfxResponseDocument() {#constructor}
 
-初始化[`OfxResponseDocument`](../../ofxresponsedocument)类的新实例。
+初始化一个新的实例[`OfxResponseDocument`](../../ofxresponsedocument)类.
 
 ```csharp
 public OfxResponseDocument()
@@ -24,7 +24,7 @@ public OfxResponseDocument()
 
 ## OfxResponseDocument(string) {#constructor_1}
 
-初始化[`OfxResponseDocument`](../../ofxresponsedocument)类的新实例。
+初始化一个新的实例[`OfxResponseDocument`](../../ofxresponsedocument)类.
 
 ```csharp
 public OfxResponseDocument(string fileName)

@@ -1,14 +1,14 @@
 ---
 title: Tax1098Request
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置Tax1098Requestaspose.finance.ofx.tax1098/tax1098transactionrequest/tax1098request
+description: 获取或设置Tax1098Requestaspose.finance.ofx.tax1098/tax1098transactionrequest/tax1098request.
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.ofx.tax1098/tax1098transactionrequest/tax1098request/
 ---
 ## Tax1098TransactionRequest.Tax1098Request property
 
-获取或设置`Tax1098Request`。
+获取或设置`Tax1098Request`.
 
 ```csharp
 public Tax1098Request Tax1098Request { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: SecurityListMessageSet
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаSecurityListMessageSetaspose.finance.ofx.profile/securitylistmessageset.
+description: Инициализирует новый экземплярSecurityListMessageSetaspose.finance.ofx.profile/securitylistmessageset класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.profile/securitylistmessageset/securitylistmessageset/
 ---
 ## SecurityListMessageSet constructor
 
-Инициализирует новый экземпляр класса[`SecurityListMessageSet`](../../securitylistmessageset).
+Инициализирует новый экземпляр[`SecurityListMessageSet`](../../securitylistmessageset) класс.
 
 ```csharp
 public SecurityListMessageSet()

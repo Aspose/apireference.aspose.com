@@ -17,7 +17,7 @@ public void Save(string fileName, OfxVersionEnum ofxVersion)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | fileName | String | 创建文件的名称。 |
-| ofxVersion | OfxVersionEnum | ofx 版本。 |
+| ofxVersion | OfxVersionEnum | ofx版本。 |
 
 ### 也可以看看
 

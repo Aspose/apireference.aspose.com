@@ -1,14 +1,14 @@
 ---
 title: PayeeListId
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает назначенный сервером идентификатор записи для этой записи получателя.
+description: Получает или задает назначенный сервером идентификатор записи для этой записи получателя платежа.
 type: docs
 weight: 60
 url: /ru/net/aspose.finance.ofx.billpay/recurringpaymentresponse/payeelistid/
 ---
 ## RecurringPaymentResponse.PayeeListId property
 
-Получает или задает назначенный сервером идентификатор записи для этой записи получателя.
+Получает или задает назначенный сервером идентификатор записи для этой записи получателя платежа.
 
 ```csharp
 public string PayeeListId { get; set; }

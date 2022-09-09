@@ -1,14 +1,14 @@
 ---
 title: MessageSetList
 second_title: Aspose.Finance for .NET API 参考
-description: 消息集列表信息类
+description: 消息集列表信息类.
 type: docs
 weight: 4600
 url: /zh/net/aspose.finance.ofx.profile/messagesetlist/
 ---
 ## MessageSetList class
 
-消息集列表信息类。
+消息集列表信息类.
 
 ```csharp
 public class MessageSetList
@@ -18,13 +18,13 @@ public class MessageSetList
 
 | 姓名 | 描述 |
 | --- | --- |
-| [MessageSetList](messagesetlist)() | 初始化[`MessageSetList`](../messagesetlist)类的新实例。 |
+| [MessageSetList](messagesetlist)() | 初始化一个新的实例[`MessageSetList`](../messagesetlist)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [MessageSets](../../aspose.finance.ofx.profile/messagesetlist/messagesets) { get; set; } | 获取或设置基于[`AbstractMessageSet`](../abstractmessageset)的消息集集合。 |
+| [MessageSets](../../aspose.finance.ofx.profile/messagesetlist/messagesets) { get; set; } | 获取或设置基于消息集的集合[`AbstractMessageSet`](../abstractmessageset). |
 
 ### 也可以看看
 

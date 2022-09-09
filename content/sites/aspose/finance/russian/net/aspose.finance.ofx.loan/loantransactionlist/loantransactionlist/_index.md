@@ -1,14 +1,14 @@
 ---
 title: LoanTransactionList
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаLoanTransactionListaspose.finance.ofx.loan/loantransactionlist.
+description: Инициализирует новый экземплярLoanTransactionListaspose.finance.ofx.loan/loantransactionlist класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.loan/loantransactionlist/loantransactionlist/
 ---
 ## LoanTransactionList constructor
 
-Инициализирует новый экземпляр класса[`LoanTransactionList`](../../loantransactionlist).
+Инициализирует новый экземпляр[`LoanTransactionList`](../../loantransactionlist) класс.
 
 ```csharp
 public LoanTransactionList()

@@ -1,14 +1,14 @@
 ---
 title: ProfileRequestMessageSetV1
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаProfileRequestMessageSetV1aspose.finance.ofx/profilerequestmessagesetv1.
+description: Инициализирует новый экземплярProfileRequestMessageSetV1aspose.finance.ofx/profilerequestmessagesetv1 класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx/profilerequestmessagesetv1/profilerequestmessagesetv1/
 ---
 ## ProfileRequestMessageSetV1 constructor
 
-Инициализирует новый экземпляр класса[`ProfileRequestMessageSetV1`](../../profilerequestmessagesetv1).
+Инициализирует новый экземпляр[`ProfileRequestMessageSetV1`](../../profilerequestmessagesetv1) класс.
 
 ```csharp
 public ProfileRequestMessageSetV1()

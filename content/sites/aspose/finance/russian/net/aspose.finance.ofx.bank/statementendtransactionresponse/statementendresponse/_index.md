@@ -1,14 +1,14 @@
 ---
 title: StatementEndResponse
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задаетStatementEndResponseaspose.finance.ofx.bank/statementendtransactionresponse/statementendresponse.
+description: Получает или задаетStatementEndResponseaspose.finance.ofx.bank/statementendtransactionresponse/statementendresponse .
 type: docs
 weight: 30
 url: /ru/net/aspose.finance.ofx.bank/statementendtransactionresponse/statementendresponse/
 ---
 ## StatementEndTransactionResponse.StatementEndResponse property
 
-Получает или задает`StatementEndResponse`.
+Получает или задает`StatementEndResponse` .
 
 ```csharp
 public StatementEndResponse StatementEndResponse { get; set; }

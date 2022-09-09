@@ -1,14 +1,14 @@
 ---
 title: Facts
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает коллекцию объектовFactaspose.finance.xbrl/factв кортеже.
+description: Получает коллекциюFactaspose.finance.xbrl/fact объекты в кортеже.
 type: docs
 weight: 20
 url: /ru/net/aspose.finance.xbrl/tuple/facts/
 ---
 ## Tuple.Facts property
 
-Получает коллекцию объектов[`Fact`](../../fact)в кортеже.
+Получает коллекцию[`Fact`](../../fact) объекты в кортеже.
 
 ```csharp
 public List<Fact> Facts { get; }

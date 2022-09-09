@@ -19,18 +19,18 @@ public class LinkbaseRefCollection : IEnumerable<LinkbaseRef>
 | Имя | Описание |
 | --- | --- |
 | [Count](../../aspose.finance.xbrl/linkbaserefcollection/count) { get; } | Количество ссылок на базу ссылок в этой коллекции. |
-| [Item](../../aspose.finance.xbrl/linkbaserefcollection/item) { get; } | Получает элемент[`LinkbaseRef`](../linkbaseref)по указанному индексу в коллекции. |
+| [Item](../../aspose.finance.xbrl/linkbaserefcollection/item) { get; } | получает[`LinkbaseRef`](../linkbaseref) элемент по указанному индексу в коллекции. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| [AddCalculationLinkbaseRef](../../aspose.finance.xbrl/linkbaserefcollection/addcalculationlinkbaseref)(string) | Добавьте[`CalculationLinkbaseRef`](../calculationlinkbaseref)в коллекцию. |
-| [AddDefinitionLinkbaseRef](../../aspose.finance.xbrl/linkbaserefcollection/adddefinitionlinkbaseref)(string) | Добавьте[`DefinitionLinkbaseRef`](../definitionlinkbaseref)в коллекцию. |
-| [AddLabelLinkbaseRef](../../aspose.finance.xbrl/linkbaserefcollection/addlabellinkbaseref)(string) | Добавьте[`LabelLinkbaseRef`](../labellinkbaseref)в коллекцию. |
-| [AddPresentationLinkbaseRef](../../aspose.finance.xbrl/linkbaserefcollection/addpresentationlinkbaseref)(string) | Добавьте[`PresentationLinkbaseRef`](../presentationlinkbaseref)в коллекцию. |
-| [AddReferenceLinkbaseRef](../../aspose.finance.xbrl/linkbaserefcollection/addreferencelinkbaseref)(string) | Добавьте[`ReferenceLinkbaseRef`](../referencelinkbaseref)в коллекцию. |
-| [GetEnumerator](../../aspose.finance.xbrl/linkbaserefcollection/getenumerator)() | Возвращает перечислитель, выполняющий итерацию по коллекции. |
+| [AddCalculationLinkbaseRef](../../aspose.finance.xbrl/linkbaserefcollection/addcalculationlinkbaseref)(string) | Добавить[`CalculationLinkbaseRef`](../calculationlinkbaseref)в коллекцию. |
+| [AddDefinitionLinkbaseRef](../../aspose.finance.xbrl/linkbaserefcollection/adddefinitionlinkbaseref)(string) | Добавить[`DefinitionLinkbaseRef`](../definitionlinkbaseref)в коллекцию. |
+| [AddLabelLinkbaseRef](../../aspose.finance.xbrl/linkbaserefcollection/addlabellinkbaseref)(string) | Добавить[`LabelLinkbaseRef`](../labellinkbaseref)в коллекцию. |
+| [AddPresentationLinkbaseRef](../../aspose.finance.xbrl/linkbaserefcollection/addpresentationlinkbaseref)(string) | Добавить[`PresentationLinkbaseRef`](../presentationlinkbaseref)в коллекцию. |
+| [AddReferenceLinkbaseRef](../../aspose.finance.xbrl/linkbaserefcollection/addreferencelinkbaseref)(string) | Добавить[`ReferenceLinkbaseRef`](../referencelinkbaseref)в коллекцию. |
+| [GetEnumerator](../../aspose.finance.xbrl/linkbaserefcollection/getenumerator)() | Возвращает перечислитель, который выполняет итерацию по коллекции. |
 
 ### Смотрите также
 

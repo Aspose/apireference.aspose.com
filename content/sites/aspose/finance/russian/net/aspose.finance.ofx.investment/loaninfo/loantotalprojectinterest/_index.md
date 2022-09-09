@@ -1,14 +1,14 @@
 ---
 title: LoanTotalProjectInterest
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает общий прогнозируемый процент подлежащий выплате по данному кредиту.
+description: Получает или задает общий прогнозируемый процент подлежащий выплате по этому кредиту.
 type: docs
 weight: 160
 url: /ru/net/aspose.finance.ofx.investment/loaninfo/loantotalprojectinterest/
 ---
 ## LoanInfo.LoanTotalProjectInterest property
 
-Получает или задает общий прогнозируемый процент, подлежащий выплате по данному кредиту.
+Получает или задает общий прогнозируемый процент, подлежащий выплате по этому кредиту.
 
 ```csharp
 public string LoanTotalProjectInterest { get; set; }

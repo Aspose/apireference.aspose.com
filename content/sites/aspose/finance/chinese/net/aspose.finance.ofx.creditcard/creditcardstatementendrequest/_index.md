@@ -1,14 +1,14 @@
 ---
 title: CreditCardStatementEndRequest
 second_title: Aspose.Finance for .NET API 参考
-description: 信用卡结算报表请求类
+description: 信用卡结帐单请求类
 type: docs
 weight: 1960
 url: /zh/net/aspose.finance.ofx.creditcard/creditcardstatementendrequest/
 ---
 ## CreditCardStatementEndRequest class
 
-信用卡结算报表请求类。
+信用卡结帐单请求类。
 
 ```csharp
 public class CreditCardStatementEndRequest
@@ -18,15 +18,15 @@ public class CreditCardStatementEndRequest
 
 | 姓名 | 描述 |
 | --- | --- |
-| [CreditCardStatementEndRequest](creditcardstatementendrequest)() | 初始化[`CreditCardStatementEndRequest`](../creditcardstatementendrequest)类的新实例。 |
+| [CreditCardStatementEndRequest](creditcardstatementendrequest)() | 初始化一个新的实例[`CreditCardStatementEndRequest`](../creditcardstatementendrequest)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [CreditCardAccountFrom](../../aspose.finance.ofx.creditcard/creditcardstatementendrequest/creditcardaccountfrom) { get; set; } | 获取或设置[`CreditCardAccount`](../../aspose.finance.ofx/creditcardaccount)的来源。 |
+| [CreditCardAccountFrom](../../aspose.finance.ofx.creditcard/creditcardstatementendrequest/creditcardaccountfrom) { get; set; } | 获取或设置 from[`CreditCardAccount`](../../aspose.finance.ofx/creditcardaccount). |
 | [EndDate](../../aspose.finance.ofx.creditcard/creditcardstatementendrequest/enddate) { get; set; } | 获取或设置结帐信息的结束日期。 |
-| [IncludeStatementImage](../../aspose.finance.ofx.creditcard/creditcardstatementendrequest/includestatementimage) { get; set; } | 获取或设置是否包含结束语句图像的数据。 |
+| [IncludeStatementImage](../../aspose.finance.ofx.creditcard/creditcardstatementendrequest/includestatementimage) { get; set; } | 获取或设置是否包含关闭语句图像的数据。 |
 | [StartDate](../../aspose.finance.ofx.creditcard/creditcardstatementendrequest/startdate) { get; set; } | 获取或设置结帐信息的开始日期。 |
 
 ### 也可以看看

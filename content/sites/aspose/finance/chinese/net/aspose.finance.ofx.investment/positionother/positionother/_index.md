@@ -1,14 +1,14 @@
 ---
 title: PositionOther
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化PositionOtheraspose.finance.ofx.investment/positionother类的新实例
+description: 初始化一个新的实例PositionOtheraspose.finance.ofx.investment/positionother类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.investment/positionother/positionother/
 ---
 ## PositionOther constructor
 
-初始化[`PositionOther`](../../positionother)类的新实例。
+初始化一个新的实例[`PositionOther`](../../positionother)类.
 
 ```csharp
 public PositionOther()

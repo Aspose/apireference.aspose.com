@@ -1,14 +1,14 @@
 ---
 title: StopCheckResponse
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаStopCheckResponseaspose.finance.ofx.bank/stopcheckresponse.
+description: Инициализирует новый экземплярStopCheckResponseaspose.finance.ofx.bank/stopcheckresponse класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.bank/stopcheckresponse/stopcheckresponse/
 ---
 ## StopCheckResponse constructor
 
-Инициализирует новый экземпляр класса[`StopCheckResponse`](../../stopcheckresponse).
+Инициализирует новый экземпляр[`StopCheckResponse`](../../stopcheckresponse) класс.
 
 ```csharp
 public StopCheckResponse()

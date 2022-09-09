@@ -1,14 +1,14 @@
 ---
 title: RecurringPaymentCancelResponse
 second_title: Справочник по API Aspose.Finance для .NET
-description: Класс ответа на отмену регулярных платежей.
+description: Класс ответа на отмену повторяющихся платежей.
 type: docs
 weight: 1290
 url: /ru/net/aspose.finance.ofx.billpay/recurringpaymentcancelresponse/
 ---
 ## RecurringPaymentCancelResponse class
 
-Класс ответа на отмену регулярных платежей.
+Класс ответа на отмену повторяющихся платежей.
 
 ```csharp
 public class RecurringPaymentCancelResponse : AbstractRecurringPaymentResponse
@@ -18,13 +18,13 @@ public class RecurringPaymentCancelResponse : AbstractRecurringPaymentResponse
 
 | Имя | Описание |
 | --- | --- |
-| [RecurringPaymentCancelResponse](recurringpaymentcancelresponse)() | Инициализирует новый экземпляр класса[`RecurringPaymentCancelResponse`](../recurringpaymentcancelresponse). |
+| [RecurringPaymentCancelResponse](recurringpaymentcancelresponse)() | Инициализирует новый экземпляр[`RecurringPaymentCancelResponse`](../recurringpaymentcancelresponse) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [CanPending](../../aspose.finance.ofx.billpay/recurringpaymentcancelresponse/canpending) { get; set; } | Получает или устанавливает флаг ожидания отмены. Истинно, если клиент запросил сервер отменить все ожидающие и непорожденные платежи. False, если клиент запросил у сервера отмену только непорожденных платежей. |
+| [CanPending](../../aspose.finance.ofx.billpay/recurringpaymentcancelresponse/canpending) { get; set; } | Получает или устанавливает флаг ожидания отмены. Истинно, если клиент запросил сервер отменить все ожидающие и непорожденные платежи. False, если клиент запросил сервер отменить только непорожденные платежи. |
 | [RecurringServerId](../../aspose.finance.ofx.billpay/abstractrecurringpaymentresponse/recurringserverid) { get; set; } | Получает или задает назначенный сервером идентификатор для этой транзакции. |
 
 ### Смотрите также

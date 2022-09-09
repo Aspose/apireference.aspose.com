@@ -18,15 +18,15 @@ public class AmortizationResponse
 
 | 姓名 | 描述 |
 | --- | --- |
-| [AmortizationResponse](amortizationresponse)() | 初始化[`AmortizationResponse`](../amortizationresponse)类的新实例。 |
+| [AmortizationResponse](amortizationresponse)() | 初始化一个新的实例[`AmortizationResponse`](../amortizationresponse)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [AmortizationTransactionList](../../aspose.finance.ofx.loan/amortizationresponse/amortizationtransactionlist) { get; set; } | 获取或设置[`AmortizationTransactionList`](./amortizationtransactionlist)。 |
-| [Currency](../../aspose.finance.ofx.loan/amortizationresponse/currency) { get; set; } | 获取或设置语句 |
-| [LoanAccountFrom](../../aspose.finance.ofx.loan/amortizationresponse/loanaccountfrom) { get; set; } | 获取或设置[`LoanAccount`](../../aspose.finance.ofx/loanaccount)的来源。 |
+| [AmortizationTransactionList](../../aspose.finance.ofx.loan/amortizationresponse/amortizationtransactionlist) { get; set; } | 获取或设置[`AmortizationTransactionList`](./amortizationtransactionlist). |
+| [Currency](../../aspose.finance.ofx.loan/amortizationresponse/currency) { get; set; } | 获取或设置语句的默认货币 |
+| [LoanAccountFrom](../../aspose.finance.ofx.loan/amortizationresponse/loanaccountfrom) { get; set; } | 获取或设置 from[`LoanAccount`](../../aspose.finance.ofx/loanaccount). |
 | [MarketingInformation](../../aspose.finance.ofx.loan/amortizationresponse/marketinginformation) { get; set; } | 获取或设置营销信息。 |
 
 ### 也可以看看

@@ -1,14 +1,14 @@
 ---
 title: RecipientAddress
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаRecipientAddressaspose.finance.ofx.tax1099/recipientaddress.
+description: Инициализирует новый экземплярRecipientAddressaspose.finance.ofx.tax1099/recipientaddress класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.tax1099/recipientaddress/recipientaddress/
 ---
 ## RecipientAddress constructor
 
-Инициализирует новый экземпляр класса[`RecipientAddress`](../../recipientaddress).
+Инициализирует новый экземпляр[`RecipientAddress`](../../recipientaddress) класс.
 
 ```csharp
 public RecipientAddress()

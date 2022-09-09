@@ -1,14 +1,14 @@
 ---
 title: LinkbaseRef
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаLinkbaseRefaspose.finance.xbrl/linkbaseref.
+description: Инициализирует новый экземплярLinkbaseRefaspose.finance.xbrl/linkbaseref класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.xbrl/linkbaseref/linkbaseref/
 ---
 ## LinkbaseRef constructor
 
-Инициализирует новый экземпляр класса[`LinkbaseRef`](../../linkbaseref).
+Инициализирует новый экземпляр[`LinkbaseRef`](../../linkbaseref) класс.
 
 ```csharp
 public LinkbaseRef()

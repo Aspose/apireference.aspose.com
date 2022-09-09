@@ -1,14 +1,14 @@
 ---
 title: InvestmentStatementResponse
 second_title: Aspose.Finance for .NET API 参考
-description: 投资声明响应类
+description: 投资报表响应类.
 type: docs
 weight: 3120
 url: /zh/net/aspose.finance.ofx.investment/investmentstatementresponse/
 ---
 ## InvestmentStatementResponse class
 
-投资声明响应类。
+投资报表响应类.
 
 ```csharp
 public class InvestmentStatementResponse
@@ -18,7 +18,7 @@ public class InvestmentStatementResponse
 
 | 姓名 | 描述 |
 | --- | --- |
-| [InvestmentStatementResponse](investmentstatementresponse)() | 初始化[`InvestmentStatementResponse`](../investmentstatementresponse)类的新实例。 |
+| [InvestmentStatementResponse](investmentstatementresponse)() | 初始化一个新的实例[`InvestmentStatementResponse`](../investmentstatementresponse)类. |
 
 ## 特性
 
@@ -26,13 +26,13 @@ public class InvestmentStatementResponse
 | --- | --- |
 | [Currency](../../aspose.finance.ofx.investment/investmentstatementresponse/currency) { get; set; } | 获取或设置语句的默认货币。 |
 | [DateAsOf](../../aspose.finance.ofx.investment/investmentstatementresponse/dateasof) { get; set; } |  |
-| [Investment401k](../../aspose.finance.ofx.investment/investmentstatementresponse/investment401k) { get; set; } | 获取或设置[`Investment401k`](./investment401k)。 |
-| [Investment401kBalance](../../aspose.finance.ofx.investment/investmentstatementresponse/investment401kbalance) { get; set; } | 获取或设置[`Investment401kBalance`](./investment401kbalance)。 |
-| [InvestmentAccountFrom](../../aspose.finance.ofx.investment/investmentstatementresponse/investmentaccountfrom) { get; set; } | 获取或设置[`InvestmentAccount`](../../aspose.finance.ofx/investmentaccount)的来源。 |
-| [InvestmentBalance](../../aspose.finance.ofx.investment/investmentstatementresponse/investmentbalance) { get; set; } | 获取或设置[`InvestmentBalance`](./investmentbalance)。 |
-| [InvestmentOpenOrderList](../../aspose.finance.ofx.investment/investmentstatementresponse/investmentopenorderlist) { get; set; } | 获取或设置[`InvestmentOpenOrderList`](./investmentopenorderlist)。 |
-| [InvestmentPositionList](../../aspose.finance.ofx.investment/investmentstatementresponse/investmentpositionlist) { get; set; } | 获取或设置[`InvestmentPositionList`](./investmentpositionlist)。 |
-| [InvestmentTransactionList](../../aspose.finance.ofx.investment/investmentstatementresponse/investmenttransactionlist) { get; set; } | 获取或设置[`InvestmentTransactionList`](./investmenttransactionlist)。 |
+| [Investment401k](../../aspose.finance.ofx.investment/investmentstatementresponse/investment401k) { get; set; } | 获取或设置[`Investment401k`](./investment401k). |
+| [Investment401kBalance](../../aspose.finance.ofx.investment/investmentstatementresponse/investment401kbalance) { get; set; } | 获取或设置[`Investment401kBalance`](./investment401kbalance). |
+| [InvestmentAccountFrom](../../aspose.finance.ofx.investment/investmentstatementresponse/investmentaccountfrom) { get; set; } | 获取或设置 from[`InvestmentAccount`](../../aspose.finance.ofx/investmentaccount). |
+| [InvestmentBalance](../../aspose.finance.ofx.investment/investmentstatementresponse/investmentbalance) { get; set; } | 获取或设置[`InvestmentBalance`](./investmentbalance). |
+| [InvestmentOpenOrderList](../../aspose.finance.ofx.investment/investmentstatementresponse/investmentopenorderlist) { get; set; } | 获取或设置[`InvestmentOpenOrderList`](./investmentopenorderlist). |
+| [InvestmentPositionList](../../aspose.finance.ofx.investment/investmentstatementresponse/investmentpositionlist) { get; set; } | 获取或设置[`InvestmentPositionList`](./investmentpositionlist). |
+| [InvestmentTransactionList](../../aspose.finance.ofx.investment/investmentstatementresponse/investmenttransactionlist) { get; set; } | 获取或设置[`InvestmentTransactionList`](./investmenttransactionlist). |
 | [MarketingInformation](../../aspose.finance.ofx.investment/investmentstatementresponse/marketinginformation) { get; set; } | 获取或设置营销信息， |
 
 ### 也可以看看

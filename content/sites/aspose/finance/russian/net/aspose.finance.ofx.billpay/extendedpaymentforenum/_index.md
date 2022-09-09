@@ -18,7 +18,7 @@ public enum ExtendedPaymentForEnum
 
 | Имя | Ценность | Описание |
 | --- | --- | --- |
-| INDIVIDUAL | `0` | Индивидуальное |
+| INDIVIDUAL | `0` | Индивидуальный |
 | BUSINESS | `1` | Бизнес |
 
 ### Смотрите также

@@ -1,14 +1,14 @@
 ---
 title: AmortizationTransactionResponse
 second_title: Справочник по API Aspose.Finance для .NET
-description: Класс ответа транзакции отчета об амортизации.
+description: Класс ответа транзакции заявления об амортизации.
 type: docs
 weight: 3790
 url: /ru/net/aspose.finance.ofx.loan/amortizationtransactionresponse/
 ---
 ## AmortizationTransactionResponse class
 
-Класс ответа транзакции отчета об амортизации.
+Класс ответа транзакции заявления об амортизации.
 
 ```csharp
 public class AmortizationTransactionResponse : AbstractTransactionResponse
@@ -18,16 +18,16 @@ public class AmortizationTransactionResponse : AbstractTransactionResponse
 
 | Имя | Описание |
 | --- | --- |
-| [AmortizationTransactionResponse](amortizationtransactionresponse)() | Инициализирует новый экземпляр класса[`AmortizationTransactionResponse`](../amortizationtransactionresponse). |
+| [AmortizationTransactionResponse](amortizationtransactionresponse)() | Инициализирует новый экземпляр[`AmortizationTransactionResponse`](../amortizationtransactionresponse) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [AmortizationResponse](../../aspose.finance.ofx.loan/amortizationtransactionresponse/amortizationresponse) { get; set; } | Получает или задает[`AmortizationResponse`](./amortizationresponse). |
-| [ClientCookie](../../aspose.finance.ofx/abstracttransactionresponse/clientcookie) { get; set; } | Получает или задает данные, которые будут отображаться в ответе транзакции |
-| [OfxExtension](../../aspose.finance.ofx.loan/amortizationtransactionresponse/ofxextension) { get; set; } | Получает или задает[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
-| [Status](../../aspose.finance.ofx/abstracttransactionresponse/status) { get; set; } | Получает или задает[`Status`](../../aspose.finance.ofx/abstracttransactionresponse/status). |
+| [AmortizationResponse](../../aspose.finance.ofx.loan/amortizationtransactionresponse/amortizationresponse) { get; set; } | Получает или задает[`AmortizationResponse`](./amortizationresponse) . |
+| [ClientCookie](../../aspose.finance.ofx/abstracttransactionresponse/clientcookie) { get; set; } | Получает или задает данные, которые будут отражены в транзакции response |
+| [OfxExtension](../../aspose.finance.ofx.loan/amortizationtransactionresponse/ofxextension) { get; set; } | Получает или задает[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype) . |
+| [Status](../../aspose.finance.ofx/abstracttransactionresponse/status) { get; set; } | Получает или задает[`Status`](../../aspose.finance.ofx/abstracttransactionresponse/status) . |
 | [TransactionUniqueId](../../aspose.finance.ofx/abstracttransactionresponse/transactionuniqueid) { get; set; } | Получает или задает назначенный клиентом глобальный уникальный идентификатор для этой транзакции. |
 
 ### Смотрите также

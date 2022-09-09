@@ -1,14 +1,14 @@
 ---
 title: Order
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает порядокInlineRelationshipaspose.finance.xbrl.inline/inlinerelationship.
+description: Получает или задает порядокInlineRelationshipaspose.finance.xbrl.inline/inlinerelationship .
 type: docs
 weight: 40
 url: /ru/net/aspose.finance.xbrl.inline/inlinerelationship/order/
 ---
 ## InlineRelationship.Order property
 
-Получает или задает порядок[`InlineRelationship`](../../inlinerelationship).
+Получает или задает порядок[`InlineRelationship`](../../inlinerelationship) .
 
 ```csharp
 public decimal Order { get; set; }

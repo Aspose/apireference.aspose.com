@@ -1,14 +1,14 @@
 ---
 title: RecurringInterTransactionRequest
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаRecurringInterTransactionRequestaspose.finance.ofx.intertransfer/recurringintertransactionrequest.
+description: Инициализирует новый экземплярRecurringInterTransactionRequestaspose.finance.ofx.intertransfer/recurringintertransactionrequest класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.intertransfer/recurringintertransactionrequest/recurringintertransactionrequest/
 ---
 ## RecurringInterTransactionRequest constructor
 
-Инициализирует новый экземпляр класса[`RecurringInterTransactionRequest`](../../recurringintertransactionrequest).
+Инициализирует новый экземпляр[`RecurringInterTransactionRequest`](../../recurringintertransactionrequest) класс.
 
 ```csharp
 public RecurringInterTransactionRequest()

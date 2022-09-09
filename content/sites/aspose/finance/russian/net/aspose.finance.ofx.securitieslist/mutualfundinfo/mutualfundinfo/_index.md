@@ -1,14 +1,14 @@
 ---
 title: MutualFundInfo
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаMutualFundInfoaspose.finance.ofx.securitieslist/mutualfundinfo.
+description: Инициализирует новый экземплярMutualFundInfoaspose.finance.ofx.securitieslist/mutualfundinfo класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.securitieslist/mutualfundinfo/mutualfundinfo/
 ---
 ## MutualFundInfo constructor
 
-Инициализирует новый экземпляр класса[`MutualFundInfo`](../../mutualfundinfo).
+Инициализирует новый экземпляр[`MutualFundInfo`](../../mutualfundinfo) класс.
 
 ```csharp
 public MutualFundInfo()

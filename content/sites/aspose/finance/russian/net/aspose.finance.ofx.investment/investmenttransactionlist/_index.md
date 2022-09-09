@@ -18,15 +18,15 @@ public class InvestmentTransactionList
 
 | Имя | Описание |
 | --- | --- |
-| [InvestmentTransactionList](investmenttransactionlist)() | Инициализирует новый экземпляр класса[`InvestmentTransactionList`](../investmenttransactionlist). |
+| [InvestmentTransactionList](investmenttransactionlist)() | Инициализирует новый экземпляр[`InvestmentTransactionList`](../investmenttransactionlist) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
 | [EndDate](../../aspose.finance.ofx.investment/investmenttransactionlist/enddate) { get; set; } | Получает или задает дату окончания для данных транзакции. |
-| [InvestmentBankTransactions](../../aspose.finance.ofx.investment/investmenttransactionlist/investmentbanktransactions) { get; set; } | Получает или задает коллекцию[`InvestmentBankTransaction`](../investmentbanktransaction). |
-| [InvestmentTransactions](../../aspose.finance.ofx.investment/investmenttransactionlist/investmenttransactions) { get; set; } | Получает или задает коллекцию[`BuyDebt`](../buydebt)или[`BuyMutualFund`](../buymutualfund)или[`BuyOption`](../buyoption)или[`BuyOther`](../buyother)или[`BuyStock`](../buystock) или[`ClosureOption`](../closureoption)или[`Income`](../income)или[`InvestmentExpense`](../investmentexpense)или[`JournalFund`](../journalfund)или[`JournalSecurity`](../journalsecurity) или[`MarginInterest`](../margininterest)или[`Reinvest`](../reinvest)или[`ReturnOfCapital`](../returnofcapital)или[`SellDebt`](../selldebt)или[`SellMutualFund`](../sellmutualfund) или[`SellOption`](../selloption)или[`SellOther`](../sellother)или[`SellStock`](../sellstock)или[`Split`](../split)или[`Transfer`](../transfer). |
+| [InvestmentBankTransactions](../../aspose.finance.ofx.investment/investmenttransactionlist/investmentbanktransactions) { get; set; } | Получает или задает коллекцию[`InvestmentBankTransaction`](../investmentbanktransaction) . |
+| [InvestmentTransactions](../../aspose.finance.ofx.investment/investmenttransactionlist/investmenttransactions) { get; set; } | Получает или задает коллекцию[`BuyDebt`](../buydebt) или же[`BuyMutualFund`](../buymutualfund) или же[`BuyOption`](../buyoption) или же[`BuyOther`](../buyother) или же[`BuyStock`](../buystock) или[`ClosureOption`](../closureoption) или же[`Income`](../income) или же[`InvestmentExpense`](../investmentexpense) или же[`JournalFund`](../journalfund) или же[`JournalSecurity`](../journalsecurity) или[`MarginInterest`](../margininterest) или же[`Reinvest`](../reinvest) или же[`ReturnOfCapital`](../returnofcapital) или же[`SellDebt`](../selldebt) или же[`SellMutualFund`](../sellmutualfund) или[`SellOption`](../selloption) или же[`SellOther`](../sellother) или же[`SellStock`](../sellstock) или же[`Split`](../split) или же[`Transfer`](../transfer) . |
 | [StartDate](../../aspose.finance.ofx.investment/investmenttransactionlist/startdate) { get; set; } | Получает или задает начальную дату для данных транзакции. |
 
 ### Смотрите также

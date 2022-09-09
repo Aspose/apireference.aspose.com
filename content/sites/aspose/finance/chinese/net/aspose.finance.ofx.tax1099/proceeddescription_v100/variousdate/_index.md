@@ -1,14 +1,14 @@
 ---
 title: VariousDate
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置各种采集日期
+description: 获取或设置各种获取日期
 type: docs
 weight: 220
 url: /zh/net/aspose.finance.ofx.tax1099/proceeddescription_v100/variousdate/
 ---
 ## ProceedDescription_V100.VariousDate property
 
-获取或设置各种采集日期。
+获取或设置各种获取日期。
 
 ```csharp
 public bool VariousDate { get; set; }

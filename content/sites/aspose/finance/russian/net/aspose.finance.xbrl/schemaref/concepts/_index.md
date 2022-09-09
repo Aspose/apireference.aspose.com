@@ -1,14 +1,14 @@
 ---
 title: Concepts
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает коллекциюConceptaspose.finance.xbrl/concept определенную в схеме.
+description: Получает коллекциюConceptaspose.finance.xbrl/concept определено в схеме.
 type: docs
 weight: 30
 url: /ru/net/aspose.finance.xbrl/schemaref/concepts/
 ---
 ## SchemaRef.Concepts property
 
-Получает коллекцию[`Concept`](../../concept), определенную в схеме.
+Получает коллекцию[`Concept`](../../concept) определено в схеме.
 
 ```csharp
 public List<Concept> Concepts { get; }

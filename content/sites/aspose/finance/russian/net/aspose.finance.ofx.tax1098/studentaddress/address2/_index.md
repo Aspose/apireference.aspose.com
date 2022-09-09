@@ -1,14 +1,14 @@
 ---
 title: Address2
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает адрес учащегося строка 2.
+description: Получает или задает адрес студента строка 2.
 type: docs
 weight: 30
 url: /ru/net/aspose.finance.ofx.tax1098/studentaddress/address2/
 ---
 ## StudentAddress.Address2 property
 
-Получает или задает адрес учащегося, строка 2.
+Получает или задает адрес студента, строка 2.
 
 ```csharp
 public string Address2 { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: SchemaConcept
 second_title: Aspose.Finance for .NET API 参考
-description: 获取InlineFractionaspose.finance.xbrl.inline/inlinefraction的概念
+description: 获取的概念InlineFractionaspose.finance.xbrl.inline/inlinefraction.
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.xbrl.inline/inlinefraction/schemaconcept/
 ---
 ## InlineFraction.SchemaConcept property
 
-获取[`InlineFraction`](../../inlinefraction)的概念。
+获取的概念[`InlineFraction`](../../inlinefraction).
 
 ```csharp
 public Concept SchemaConcept { get; }

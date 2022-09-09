@@ -1,14 +1,14 @@
 ---
 title: Discount
 second_title: Справочник по API Aspose.Finance для .NET
-description: Дисконтный класс.
+description: Класс скидки.
 type: docs
 weight: 2110
 url: /ru/net/aspose.finance.ofx/discount/
 ---
 ## Discount class
 
-Дисконтный класс.
+Класс скидки.
 
 ```csharp
 public class Discount
@@ -18,7 +18,7 @@ public class Discount
 
 | Имя | Описание |
 | --- | --- |
-| [Discount](discount)() | Инициализирует новый экземпляр класса[`Discount`](../discount). |
+| [Discount](discount)() | Инициализирует новый экземпляр[`Discount`](../discount) класс. |
 
 ## Характеристики
 

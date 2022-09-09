@@ -1,14 +1,14 @@
 ---
 title: BillStatusCodeEnum
 second_title: Aspose.Finance for .NET API 参考
-description: 账单状态代码枚举
+description: 账单状态码枚举
 type: docs
 weight: 1470
 url: /zh/net/aspose.finance.ofx.billerdelivery/billstatuscodeenum/
 ---
 ## BillStatusCodeEnum enumeration
 
-账单状态代码枚举。
+账单状态码枚举。
 
 ```csharp
 public enum BillStatusCodeEnum
@@ -18,12 +18,12 @@ public enum BillStatusCodeEnum
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| WITHDRAWN | `0` | 开票人或出版商不再希望显示此帐单。 |
-| UNDELIVERABLE | `1` | 试图及时将该账单交付给消费者的尝试失败了。当向消费者出示 账单时，通常不使用此状态。但是，使用此状态的通知涵盖了许多有用的情况。 |
-| NEW | `2` | 服务器尚未将账单发送到客户端或客户端代理。这是账单的初始状态代码。 |
+| WITHDRAWN | `0` | 帐单或出版商不再希望显示此帐单。 |
+| UNDELIVERABLE | `1` | 尝试及时将此账单交付给消费者失败。当向消费者出示 账单时，通常不使用此状态。但是，使用此状态的通知涵盖了许多有用的情况。 |
+| NEW | `2` | 服务器尚未将账单发送到客户端或客户端代理。这是账单的初始状态码。 |
 | DELIVERED | `3` | 服务器已将账单发送到客户端或客户端代理。 |
-| VIEWED | `4` | 客户已看到帐单。表示已交付的先前状态。 |
-| RETIRED | `5` | 客户不再希望看到此账单。表示已交付的先前状态。 |
+| VIEWED | `4` | 客户已看到帐单。暗示 DELIVERED. 的先前状态 |
+| RETIRED | `5` | 客户不再希望看到此帐单。暗示 DELIVERED. 的先前状态 |
 
 ### 也可以看看
 

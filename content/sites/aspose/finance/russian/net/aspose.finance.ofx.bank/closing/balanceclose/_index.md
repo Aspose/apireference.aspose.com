@@ -1,14 +1,14 @@
 ---
 title: BalanceClose
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает баланс закрытия отчета.
+description: Получает или задает баланс заключительной выписки.
 type: docs
 weight: 20
 url: /ru/net/aspose.finance.ofx.bank/closing/balanceclose/
 ---
 ## Closing.BalanceClose property
 
-Получает или задает баланс закрытия отчета.
+Получает или задает баланс заключительной выписки.
 
 ```csharp
 public string BalanceClose { get; set; }

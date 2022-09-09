@@ -1,14 +1,14 @@
 ---
 title: PresentmentDirProfile
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаPresentmentDirProfileaspose.finance.ofx.profile/presentmentdirprofile.
+description: Инициализирует новый экземплярPresentmentDirProfileaspose.finance.ofx.profile/presentmentdirprofile класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.profile/presentmentdirprofile/presentmentdirprofile/
 ---
 ## PresentmentDirProfile constructor
 
-Инициализирует новый экземпляр класса[`PresentmentDirProfile`](../../presentmentdirprofile).
+Инициализирует новый экземпляр[`PresentmentDirProfile`](../../presentmentdirprofile) класс.
 
 ```csharp
 public PresentmentDirProfile()

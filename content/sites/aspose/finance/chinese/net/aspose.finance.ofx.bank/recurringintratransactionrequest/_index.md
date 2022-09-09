@@ -18,16 +18,16 @@ public class RecurringIntraTransactionRequest : AbstractTransactionRequest
 
 | 姓名 | 描述 |
 | --- | --- |
-| [RecurringIntraTransactionRequest](recurringintratransactionrequest)() | 初始化[`RecurringIntraTransactionRequest`](../recurringintratransactionrequest)类的新实例。 |
+| [RecurringIntraTransactionRequest](recurringintratransactionrequest)() | 初始化一个新的实例[`RecurringIntraTransactionRequest`](../recurringintratransactionrequest)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
 | [ClientCookie](../../aspose.finance.ofx/abstracttransactionrequest/clientcookie) { get; set; } | 获取或设置要在事务响应中回显的数据 |
-| [OfxExtension](../../aspose.finance.ofx.bank/recurringintratransactionrequest/ofxextension) { get; set; } | 获取或设置[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype)。 |
-| [Request](../../aspose.finance.ofx.bank/recurringintratransactionrequest/request) { get; set; } | 获取或设置[`RecurringIntraRequest`](../recurringintrarequest)或[`RecurringIntraModRequest`](../recurringintramodrequest)或[`RecurringIntraCancellationRequest`](../recurringintracancellationrequest)。 |
-| [TransactionAuthorizationNumber](../../aspose.finance.ofx/abstracttransactionrequest/transactionauthorizationnumber) { get; set; } | 获取或设置交易授权号。 |
+| [OfxExtension](../../aspose.finance.ofx.bank/recurringintratransactionrequest/ofxextension) { get; set; } | 获取或设置[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
+| [Request](../../aspose.finance.ofx.bank/recurringintratransactionrequest/request) { get; set; } | 获取或设置[`RecurringIntraRequest`](../recurringintrarequest)或者[`RecurringIntraModRequest`](../recurringintramodrequest)或者[`RecurringIntraCancellationRequest`](../recurringintracancellationrequest). |
+| [TransactionAuthorizationNumber](../../aspose.finance.ofx/abstracttransactionrequest/transactionauthorizationnumber) { get; set; } | 获取或设置交易授权号 |
 | [TransactionUniqueId](../../aspose.finance.ofx/abstracttransactionrequest/transactionuniqueid) { get; set; } | 获取或设置此事务的客户端分配的全局唯一 ID |
 
 ### 也可以看看

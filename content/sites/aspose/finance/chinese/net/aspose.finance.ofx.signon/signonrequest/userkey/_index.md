@@ -1,14 +1,14 @@
 ---
 title: UserKey
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置之前经过身份验证的上下文
+description: 获取或设置之前认证的上下文
 type: docs
 weight: 190
 url: /zh/net/aspose.finance.ofx.signon/signonrequest/userkey/
 ---
 ## SignonRequest.UserKey property
 
-获取或设置之前经过身份验证的上下文。
+获取或设置之前认证的上下文。
 
 ```csharp
 public string UserKey { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: Decimals
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置InlineNonfractionaspose.finance.xbrl.inline/inlinenonfraction的小数
+description: 获取或设置小数点InlineNonfractionaspose.finance.xbrl.inline/inlinenonfraction.
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.xbrl.inline/inlinenonfraction/decimals/
 ---
 ## InlineNonfraction.Decimals property
 
-获取或设置[`InlineNonfraction`](../../inlinenonfraction)的小数。
+获取或设置小数点[`InlineNonfraction`](../../inlinenonfraction).
 
 ```csharp
 public int Decimals { get; set; }

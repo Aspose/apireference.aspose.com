@@ -1,14 +1,14 @@
 ---
 title: ContributionPcts
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置ContributionPctaspose.finance.ofx.investment/contributionpct的集合
+description: 获取或设置的集合ContributionPctaspose.finance.ofx.investment/contributionpct.
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.ofx.investment/contributionsecurity/contributionpcts/
 ---
 ## ContributionSecurity.ContributionPcts property
 
-获取或设置[`ContributionPct`](../../contributionpct)的集合。
+获取或设置的集合[`ContributionPct`](../../contributionpct).
 
 ```csharp
 public List<ContributionPct> ContributionPcts { get; set; }

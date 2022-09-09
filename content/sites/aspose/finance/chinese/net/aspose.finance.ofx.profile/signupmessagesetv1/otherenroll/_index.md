@@ -1,14 +1,14 @@
 ---
 title: OtherEnroll
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置OtherEnrollaspose.finance.ofx.profile/signupmessagesetv1/otherenroll
+description: 获取或设置OtherEnrollaspose.finance.ofx.profile/signupmessagesetv1/otherenroll.
 type: docs
 weight: 60
 url: /zh/net/aspose.finance.ofx.profile/signupmessagesetv1/otherenroll/
 ---
 ## SignupMessageSetV1.OtherEnroll property
 
-获取或设置`OtherEnroll`。
+获取或设置`OtherEnroll`.
 
 ```csharp
 public OtherEnroll OtherEnroll { get; set; }

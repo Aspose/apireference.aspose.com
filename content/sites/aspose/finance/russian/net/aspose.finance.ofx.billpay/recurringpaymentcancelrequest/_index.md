@@ -1,14 +1,14 @@
 ---
 title: RecurringPaymentCancelRequest
 second_title: Справочник по API Aspose.Finance для .NET
-description: Класс запросов на отмену регулярных платежей.
+description: Класс запроса на отмену регулярного платежа.
 type: docs
 weight: 1280
 url: /ru/net/aspose.finance.ofx.billpay/recurringpaymentcancelrequest/
 ---
 ## RecurringPaymentCancelRequest class
 
-Класс запросов на отмену регулярных платежей.
+Класс запроса на отмену регулярного платежа.
 
 ```csharp
 public class RecurringPaymentCancelRequest : AbstractRecurringPaymentRequest
@@ -18,7 +18,7 @@ public class RecurringPaymentCancelRequest : AbstractRecurringPaymentRequest
 
 | Имя | Описание |
 | --- | --- |
-| [RecurringPaymentCancelRequest](recurringpaymentcancelrequest)() | Инициализирует новый экземпляр класса[`RecurringPaymentCancelRequest`](../recurringpaymentcancelrequest). |
+| [RecurringPaymentCancelRequest](recurringpaymentcancelrequest)() | Инициализирует новый экземпляр[`RecurringPaymentCancelRequest`](../recurringpaymentcancelrequest) класс. |
 
 ## Характеристики
 

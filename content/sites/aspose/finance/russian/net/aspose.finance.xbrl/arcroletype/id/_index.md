@@ -1,14 +1,14 @@
 ---
 title: Id
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает идентификатор вArcroleTypeaspose.finance.xbrl/arcroletype.
+description: Получает идентификатор вArcroleTypeaspose.finance.xbrl/arcroletype .
 type: docs
 weight: 30
 url: /ru/net/aspose.finance.xbrl/arcroletype/id/
 ---
 ## ArcroleType.Id property
 
-Получает идентификатор в[`ArcroleType`](../../arcroletype).
+Получает идентификатор в[`ArcroleType`](../../arcroletype) .
 
 ```csharp
 public string Id { get; set; }

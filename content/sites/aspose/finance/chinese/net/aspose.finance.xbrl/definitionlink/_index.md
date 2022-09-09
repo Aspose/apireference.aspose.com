@@ -18,8 +18,8 @@ public class DefinitionLink
 
 | 姓名 | 描述 |
 | --- | --- |
-| [DefinitionArcs](../../aspose.finance.xbrl/definitionlink/definitionarcs) { get; } | 获取[`DefinitionArc`](../definitionarc)的集合。 |
-| [Locators](../../aspose.finance.xbrl/definitionlink/locators) { get; } | 获取[`Loc`](../loc)的集合。 |
+| [DefinitionArcs](../../aspose.finance.xbrl/definitionlink/definitionarcs) { get; } | 获取集合[`DefinitionArc`](../definitionarc). |
+| [Locators](../../aspose.finance.xbrl/definitionlink/locators) { get; } | 获取集合[`Loc`](../loc). |
 | [Role](../../aspose.finance.xbrl/definitionlink/role) { get; set; } | 获取或设置角色。 |
 
 ### 也可以看看

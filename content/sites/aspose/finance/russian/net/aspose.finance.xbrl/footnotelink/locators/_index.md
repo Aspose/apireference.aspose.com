@@ -1,14 +1,14 @@
 ---
 title: Locators
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает коллекциюLocaspose.finance.xbrl/loc.
+description: Получает коллекциюLocaspose.finance.xbrl/loc .
 type: docs
 weight: 50
 url: /ru/net/aspose.finance.xbrl/footnotelink/locators/
 ---
 ## FootnoteLink.Locators property
 
-Получает коллекцию[`Loc`](../../loc).
+Получает коллекцию[`Loc`](../../loc) .
 
 ```csharp
 public List<Loc> Locators { get; }

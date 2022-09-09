@@ -1,14 +1,14 @@
 ---
 title: Closing
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化Closingaspose.finance.ofx.bank/closing类的新实例
+description: 初始化一个新的实例Closingaspose.finance.ofx.bank/closing类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.bank/closing/closing/
 ---
 ## Closing constructor
 
-初始化[`Closing`](../../closing)类的新实例。
+初始化一个新的实例[`Closing`](../../closing)类.
 
 ```csharp
 public Closing()

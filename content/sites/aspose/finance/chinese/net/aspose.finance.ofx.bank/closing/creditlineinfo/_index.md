@@ -1,14 +1,14 @@
 ---
 title: CreditLineInfo
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置CreditLineInfoTypeaspose.finance.ofx/creditlineinfotype
+description: 获取或设置CreditLineInfoTypeaspose.finance.ofx/creditlineinfotype.
 type: docs
 weight: 70
 url: /zh/net/aspose.finance.ofx.bank/closing/creditlineinfo/
 ---
 ## Closing.CreditLineInfo property
 
-获取或设置[`CreditLineInfoType`](../../../aspose.finance.ofx/creditlineinfotype)。
+获取或设置[`CreditLineInfoType`](../../../aspose.finance.ofx/creditlineinfotype).
 
 ```csharp
 public CreditLineInfoType CreditLineInfo { get; set; }

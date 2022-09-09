@@ -1,14 +1,14 @@
 ---
 title: BankMessageSetV1
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаBankMessageSetV1aspose.finance.ofx.profile/bankmessagesetv1.
+description: Инициализирует новый экземплярBankMessageSetV1aspose.finance.ofx.profile/bankmessagesetv1 класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.profile/bankmessagesetv1/bankmessagesetv1/
 ---
 ## BankMessageSetV1 constructor
 
-Инициализирует новый экземпляр класса[`BankMessageSetV1`](../../bankmessagesetv1).
+Инициализирует новый экземпляр[`BankMessageSetV1`](../../bankmessagesetv1) класс.
 
 ```csharp
 public BankMessageSetV1()

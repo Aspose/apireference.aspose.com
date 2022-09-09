@@ -1,14 +1,14 @@
 ---
 title: PresentmentDetail
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化PresentmentDetailaspose.finance.ofx.billerdelivery/presentmentdetail类的新实例
+description: 初始化一个新的实例PresentmentDetailaspose.finance.ofx.billerdelivery/presentmentdetail类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.billerdelivery/presentmentdetail/presentmentdetail/
 ---
 ## PresentmentDetail constructor
 
-初始化[`PresentmentDetail`](../../presentmentdetail)类的新实例。
+初始化一个新的实例[`PresentmentDetail`](../../presentmentdetail)类.
 
 ```csharp
 public PresentmentDetail()

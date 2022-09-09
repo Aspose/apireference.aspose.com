@@ -1,14 +1,14 @@
 ---
 title: LocalTaxWithheldAggregates
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置LocalTaxWithheldAggregateaspose.finance.ofx.tax1099/localtaxwithheldaggregate的集合
+description: 获取或设置的集合LocalTaxWithheldAggregateaspose.finance.ofx.tax1099/localtaxwithheldaggregate.
 type: docs
 weight: 120
 url: /zh/net/aspose.finance.ofx.tax1099/tax1099r_v100/localtaxwithheldaggregates/
 ---
 ## Tax1099R_V100.LocalTaxWithheldAggregates property
 
-获取或设置[`LocalTaxWithheldAggregate`](../../localtaxwithheldaggregate)的集合。
+获取或设置的集合[`LocalTaxWithheldAggregate`](../../localtaxwithheldaggregate).
 
 ```csharp
 public List<LocalTaxWithheldAggregate> LocalTaxWithheldAggregates { get; set; }

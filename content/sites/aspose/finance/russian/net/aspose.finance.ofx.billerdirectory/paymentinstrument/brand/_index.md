@@ -1,14 +1,14 @@
 ---
 title: Brand
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает принятый бренд для данного типа платежа.
+description: Получает или устанавливает принятый бренд для данного типа платежа.
 type: docs
 weight: 20
 url: /ru/net/aspose.finance.ofx.billerdirectory/paymentinstrument/brand/
 ---
 ## PaymentInstrument.Brand property
 
-Получает или задает принятый бренд для данного типа платежа.
+Получает или устанавливает принятый бренд для данного типа платежа.
 
 ```csharp
 public string Brand { get; set; }

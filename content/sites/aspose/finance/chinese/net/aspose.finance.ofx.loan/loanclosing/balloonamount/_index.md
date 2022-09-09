@@ -1,14 +1,14 @@
 ---
 title: BalloonAmount
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置气球支付金额对于常规贷款不包括在内或为零否则会膨胀支付金额
+description: 获取或设置气球支付金额常规贷款不包括在内或为零否则会膨胀支付金额
 type: docs
 weight: 50
 url: /zh/net/aspose.finance.ofx.loan/loanclosing/balloonamount/
 ---
 ## LoanClosing.BalloonAmount property
 
-获取或设置气球支付金额。对于常规贷款，不包括在内或为零，否则会膨胀支付金额。
+获取或设置气球支付金额。常规贷款不包括在内或为零，否则会膨胀支付金额。
 
 ```csharp
 public string BalloonAmount { get; set; }

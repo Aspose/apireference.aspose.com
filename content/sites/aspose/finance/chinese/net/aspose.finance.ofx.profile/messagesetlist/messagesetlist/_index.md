@@ -1,14 +1,14 @@
 ---
 title: MessageSetList
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化MessageSetListaspose.finance.ofx.profile/messagesetlist类的新实例
+description: 初始化一个新的实例MessageSetListaspose.finance.ofx.profile/messagesetlist类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.profile/messagesetlist/messagesetlist/
 ---
 ## MessageSetList constructor
 
-初始化[`MessageSetList`](../../messagesetlist)类的新实例。
+初始化一个新的实例[`MessageSetList`](../../messagesetlist)类.
 
 ```csharp
 public MessageSetList()

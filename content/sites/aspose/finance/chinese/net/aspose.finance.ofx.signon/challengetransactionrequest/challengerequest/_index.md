@@ -1,14 +1,14 @@
 ---
 title: ChallengeRequest
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置ChallengeRequestaspose.finance.ofx.signon/challengetransactionrequest/challengerequest
+description: 获取或设置ChallengeRequestaspose.finance.ofx.signon/challengetransactionrequest/challengerequest.
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.ofx.signon/challengetransactionrequest/challengerequest/
 ---
 ## ChallengeTransactionRequest.ChallengeRequest property
 
-获取或设置`ChallengeRequest`。
+获取或设置`ChallengeRequest`.
 
 ```csharp
 public ChallengeRequest ChallengeRequest { get; set; }

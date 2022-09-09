@@ -8,7 +8,7 @@ url: /zh/net/aspose.finance.ofx.tax1099/tax1099div_v100/qualifieddividend/
 ---
 ## Tax1099DIV_V100.QualifiedDividend property
 
-获取或设置合格分红。
+获取或设置合格分红
 
 ```csharp
 public string QualifiedDividend { get; set; }

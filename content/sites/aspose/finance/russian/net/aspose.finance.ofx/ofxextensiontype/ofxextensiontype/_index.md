@@ -1,14 +1,14 @@
 ---
 title: OfxExtensionType
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаOfxExtensionTypeaspose.finance.ofx/ofxextensiontype.
+description: Инициализирует новый экземплярOfxExtensionTypeaspose.finance.ofx/ofxextensiontype класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx/ofxextensiontype/ofxextensiontype/
 ---
 ## OfxExtensionType constructor
 
-Инициализирует новый экземпляр класса[`OfxExtensionType`](../../ofxextensiontype).
+Инициализирует новый экземпляр[`OfxExtensionType`](../../ofxextensiontype) класс.
 
 ```csharp
 public OfxExtensionType()

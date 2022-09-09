@@ -1,14 +1,14 @@
 ---
 title: InterestYearToDate
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает проценты выплаченные по счету за текущий год
+description: Получает или задает проценты за текущий год выплаченные по счету
 type: docs
 weight: 160
 url: /ru/net/aspose.finance.ofx.creditcard/creditcardclosing/interestyeartodate/
 ---
 ## CreditCardClosing.InterestYearToDate property
 
-Получает или задает проценты, выплаченные по счету за текущий год
+Получает или задает проценты за текущий год, выплаченные по счету
 
 ```csharp
 public string InterestYearToDate { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: RecurringIntraCancellationResponse
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化RecurringIntraCancellationResponseaspose.finance.ofx.bank/recurringintracancellationresponse类的新实例
+description: 初始化一个新的实例RecurringIntraCancellationResponseaspose.finance.ofx.bank/recurringintracancellationresponse类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.bank/recurringintracancellationresponse/recurringintracancellationresponse/
 ---
 ## RecurringIntraCancellationResponse constructor
 
-初始化[`RecurringIntraCancellationResponse`](../../recurringintracancellationresponse)类的新实例。
+初始化一个新的实例[`RecurringIntraCancellationResponse`](../../recurringintracancellationresponse)类.
 
 ```csharp
 public RecurringIntraCancellationResponse()

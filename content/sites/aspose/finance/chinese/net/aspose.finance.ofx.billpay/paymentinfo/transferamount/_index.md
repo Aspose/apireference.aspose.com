@@ -8,7 +8,7 @@ url: /zh/net/aspose.finance.ofx.billpay/paymentinfo/transferamount/
 ---
 ## PaymentInfo.TransferAmount property
 
-获取或设置支付金额。
+获取或设置支付金额
 
 ```csharp
 public string TransferAmount { get; set; }

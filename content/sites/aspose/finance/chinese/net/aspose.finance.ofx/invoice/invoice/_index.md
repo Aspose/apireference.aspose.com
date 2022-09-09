@@ -1,14 +1,14 @@
 ---
 title: Invoice
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化Invoiceaspose.finance.ofx/invoice类的新实例
+description: 初始化一个新的实例Invoiceaspose.finance.ofx/invoice类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx/invoice/invoice/
 ---
 ## Invoice constructor
 
-初始化[`Invoice`](../../invoice)类的新实例。
+初始化一个新的实例[`Invoice`](../../invoice)类.
 
 ```csharp
 public Invoice()

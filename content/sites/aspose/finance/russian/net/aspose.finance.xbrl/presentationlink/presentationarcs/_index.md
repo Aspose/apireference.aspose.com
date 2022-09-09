@@ -1,14 +1,14 @@
 ---
 title: PresentationArcs
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает коллекциюPresentationArcaspose.finance.xbrl/presentationarc.
+description: Получает коллекциюPresentationArcaspose.finance.xbrl/presentationarc .
 type: docs
 weight: 20
 url: /ru/net/aspose.finance.xbrl/presentationlink/presentationarcs/
 ---
 ## PresentationLink.PresentationArcs property
 
-Получает коллекцию[`PresentationArc`](../../presentationarc).
+Получает коллекцию[`PresentationArc`](../../presentationarc) .
 
 ```csharp
 public List<PresentationArc> PresentationArcs { get; }

@@ -18,22 +18,22 @@ public class Transfer : AbstractInvestmentTransaction
 
 | Имя | Описание |
 | --- | --- |
-| [Transfer](transfer)() | Инициализирует новый экземпляр класса[`Transfer`](../transfer). |
+| [Transfer](transfer)() | Инициализирует новый экземпляр[`Transfer`](../transfer) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
 | [AverageCostBasis](../../aspose.finance.ofx.investment/transfer/averagecostbasis) { get; set; } | Получает или задает базовую среднюю стоимость этой позиции. |
-| [Investment401kSource](../../aspose.finance.ofx.investment/transfer/investment401ksource) { get; set; } | Получает или задает источник денег для этой ценной бумаги в этой позиции. |
-| [InvestmentAccountFrom](../../aspose.finance.ofx.investment/transfer/investmentaccountfrom) { get; set; } | Получает или задает значение из[`InvestmentAccount`](../../aspose.finance.ofx/investmentaccount). |
-| [InvestmentTransaction](../../aspose.finance.ofx.investment/abstractinvestmenttransaction/investmenttransaction) { get; set; } | Получает или задает[`InvestmentTransaction`](../abstractinvestmenttransaction/investmenttransaction). |
+| [Investment401kSource](../../aspose.finance.ofx.investment/transfer/investment401ksource) { get; set; } | Получает или устанавливает источник денег для этой ценной бумаги в этой позиции. |
+| [InvestmentAccountFrom](../../aspose.finance.ofx.investment/transfer/investmentaccountfrom) { get; set; } | Получает или задает из[`InvestmentAccount`](../../aspose.finance.ofx/investmentaccount) . |
+| [InvestmentTransaction](../../aspose.finance.ofx.investment/abstractinvestmenttransaction/investmenttransaction) { get; set; } | Получает или задает[`InvestmentTransaction`](../abstractinvestmenttransaction/investmenttransaction) . |
 | [PositionType](../../aspose.finance.ofx.investment/transfer/positiontype) { get; set; } | Получает или задает тип позиции. |
 | [PurchaseDate](../../aspose.finance.ofx.investment/transfer/purchasedate) { get; set; } | Получает или задает исходную дату покупки ценной бумаги. |
-| [SecurityId](../../aspose.finance.ofx.investment/transfer/securityid) { get; set; } | Получает или задает[`SecurityId`](./securityid). |
+| [SecurityId](../../aspose.finance.ofx.investment/transfer/securityid) { get; set; } | Получает или задает[`SecurityId`](./securityid) . |
 | [SubAccountSecurity](../../aspose.finance.ofx.investment/transfer/subaccountsecurity) { get; set; } | Получает или задает тип субсчета для ценной бумаги. |
-| [TransferAction](../../aspose.finance.ofx.investment/transfer/transferaction) { get; set; } | Получает или задает действие для передачи. |
-| [UnitPrice](../../aspose.finance.ofx.investment/transfer/unitprice) { get; set; } | Получает или задает цену за общеизвестную единицу. Не включает разметку/уценку. Цена акций для акций, взаимных фондов и других. Процент от номинала облигаций. За акцию (не контракт) для опционов. |
+| [TransferAction](../../aspose.finance.ofx.investment/transfer/transferaction) { get; set; } | Получает или задает действие для переводов. |
+| [UnitPrice](../../aspose.finance.ofx.investment/transfer/unitprice) { get; set; } | Получает или задает цену за общеизвестную единицу. Не включает разметку/уценку. Цена акций для акций, взаимных фондов и других. Процент от номинала облигаций. На акцию (не контракт) для опционов. |
 | [Units](../../aspose.finance.ofx.investment/transfer/units) { get; set; } | Получает или задает единицы измерения. Для действий, основанных на безопасности, кроме дробления акций. Акции для акций, взаимных фондов и др. Номинальная стоимость облигаций. Контракты на опционы. |
 
 ### Смотрите также

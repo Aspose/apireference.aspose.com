@@ -1,14 +1,14 @@
 ---
 title: InvestmentAccountFrom
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает значение изInvestmentAccountaspose.finance.ofx/investmentaccount.
+description: Получает или задает изInvestmentAccountaspose.finance.ofx/investmentaccount .
 type: docs
 weight: 30
 url: /ru/net/aspose.finance.ofx/investmentaccountinfo/investmentaccountfrom/
 ---
 ## InvestmentAccountInfo.InvestmentAccountFrom property
 
-Получает или задает значение из[`InvestmentAccount`](../../investmentaccount).
+Получает или задает из[`InvestmentAccount`](../../investmentaccount) .
 
 ```csharp
 public InvestmentAccount InvestmentAccountFrom { get; set; }

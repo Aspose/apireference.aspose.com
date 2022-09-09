@@ -1,14 +1,14 @@
 ---
 title: AccountBalance
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置本期末账户余额
+description: 获取或设置本期期末账户余额
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.ofx.billerdelivery/presentmentbillinfo/accountbalance/
 ---
 ## PresentmentBillInfo.AccountBalance property
 
-获取或设置本期末账户余额。
+获取或设置本期期末账户余额
 
 ```csharp
 public string AccountBalance { get; set; }

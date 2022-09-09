@@ -1,14 +1,14 @@
 ---
 title: Earnings
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задаетEarningsaspose.finance.ofx.investment/periodtodate/earnings.
+description: Получает или задаетEarningsaspose.finance.ofx.investment/periodtodate/earnings .
 type: docs
 weight: 30
 url: /ru/net/aspose.finance.ofx.investment/periodtodate/earnings/
 ---
 ## PeriodToDate.Earnings property
 
-Получает или задает`Earnings`.
+Получает или задает`Earnings` .
 
 ```csharp
 public Earnings Earnings { get; set; }

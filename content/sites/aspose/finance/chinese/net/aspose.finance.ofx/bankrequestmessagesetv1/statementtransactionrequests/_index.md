@@ -1,14 +1,14 @@
 ---
 title: StatementTransactionRequests
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置StatementTransactionRequestaspose.finance.ofx.bank/statementtransactionrequest的集合
+description: 获取或设置的集合StatementTransactionRequestaspose.finance.ofx.bank/statementtransactionrequest.
 type: docs
 weight: 90
 url: /zh/net/aspose.finance.ofx/bankrequestmessagesetv1/statementtransactionrequests/
 ---
 ## BankRequestMessageSetV1.StatementTransactionRequests property
 
-获取或设置[`StatementTransactionRequest`](../../../aspose.finance.ofx.bank/statementtransactionrequest)的集合。
+获取或设置的集合[`StatementTransactionRequest`](../../../aspose.finance.ofx.bank/statementtransactionrequest).
 
 ```csharp
 public List<StatementTransactionRequest> StatementTransactionRequests { get; set; }

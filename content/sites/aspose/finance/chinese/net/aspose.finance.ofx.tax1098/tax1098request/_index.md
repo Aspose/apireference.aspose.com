@@ -1,14 +1,14 @@
 ---
 title: Tax1098Request
 second_title: Aspose.Finance for .NET API 参考
-description: 税 1098 请求类这会从服务器请求所有 1098 税表
+description: 税 1098 请求类这会从服务器请求所有 1098 个税表
 type: docs
 weight: 5780
 url: /zh/net/aspose.finance.ofx.tax1098/tax1098request/
 ---
 ## Tax1098Request class
 
-税 1098 请求类。这会从服务器请求所有 1098 税表。
+税 1098 请求类。这会从服务器请求所有 1098 个税表。
 
 ```csharp
 public class Tax1098Request
@@ -18,15 +18,15 @@ public class Tax1098Request
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Tax1098Request](tax1098request)() | 初始化[`Tax1098Request`](../tax1098request)类的新实例。 |
+| [Tax1098Request](tax1098request)() | 初始化一个新的实例[`Tax1098Request`](../tax1098request)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [AccountNumber](../../aspose.finance.ofx.tax1098/tax1098request/accountnumber) { get; set; } | 获取或设置借款人的帐号，如果与 SSN 不同。 |
+| [AccountNumber](../../aspose.finance.ofx.tax1098/tax1098request/accountnumber) { get; set; } | 获取或设置借款人的帐号，如果与SSN不同。 |
 | [SSN](../../aspose.finance.ofx.tax1098/tax1098request/ssn) { get; set; } | 获取或设置借款人的社会保险号。 |
-| [TaxYears](../../aspose.finance.ofx.tax1098/tax1098request/taxyears) { get; set; } | 获取或设置所请求表单的纳税年度。 |
+| [TaxYears](../../aspose.finance.ofx.tax1098/tax1098request/taxyears) { get; set; } | 获取或设置所请求表格的纳税年度。 |
 
 ### 也可以看看
 

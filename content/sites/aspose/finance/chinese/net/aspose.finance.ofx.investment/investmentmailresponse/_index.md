@@ -8,7 +8,7 @@ url: /zh/net/aspose.finance.ofx.investment/investmentmailresponse/
 ---
 ## InvestmentMailResponse class
 
-投资邮件回复类。
+投资邮件回复类
 
 ```csharp
 public class InvestmentMailResponse
@@ -18,14 +18,14 @@ public class InvestmentMailResponse
 
 | 姓名 | 描述 |
 | --- | --- |
-| [InvestmentMailResponse](investmentmailresponse)() | 初始化[`InvestmentMailResponse`](../investmentmailresponse)类的新实例。 |
+| [InvestmentMailResponse](investmentmailresponse)() | 初始化一个新的实例[`InvestmentMailResponse`](../investmentmailresponse)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [InvestmentAccountFrom](../../aspose.finance.ofx.investment/investmentmailresponse/investmentaccountfrom) { get; set; } | 获取或设置[`InvestmentAccount`](../../aspose.finance.ofx/investmentaccount)的来源。 |
-| [Mail](../../aspose.finance.ofx.investment/investmentmailresponse/mail) { get; set; } | 获取或设置[`Mail`](./mail)。 |
+| [InvestmentAccountFrom](../../aspose.finance.ofx.investment/investmentmailresponse/investmentaccountfrom) { get; set; } | 获取或设置 from[`InvestmentAccount`](../../aspose.finance.ofx/investmentaccount). |
+| [Mail](../../aspose.finance.ofx.investment/investmentmailresponse/mail) { get; set; } | 获取或设置[`Mail`](./mail). |
 
 ### 也可以看看
 

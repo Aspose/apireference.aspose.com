@@ -1,14 +1,14 @@
 ---
 title: Href
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置简单链接 href URI
+description: 获取或设置简单链接href URI.
 type: docs
 weight: 40
 url: /zh/net/aspose.finance.xbrl/simplelink/href/
 ---
 ## SimpleLink.Href property
 
-获取或设置简单链接 href URI。
+获取或设置简单链接href URI.
 
 ```csharp
 public string Href { get; set; }

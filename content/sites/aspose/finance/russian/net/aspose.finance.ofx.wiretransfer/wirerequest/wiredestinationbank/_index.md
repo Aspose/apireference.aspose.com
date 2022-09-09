@@ -1,14 +1,14 @@
 ---
 title: WireDestinationBank
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задаетWireDestinationBankaspose.finance.ofx.wiretransfer/wirerequest/wiredestinationbank.
+description: Получает или задаетWireDestinationBankaspose.finance.ofx.wiretransfer/wirerequest/wiredestinationbank .
 type: docs
 weight: 70
 url: /ru/net/aspose.finance.ofx.wiretransfer/wirerequest/wiredestinationbank/
 ---
 ## WireRequest.WireDestinationBank property
 
-Получает или задает`WireDestinationBank`.
+Получает или задает`WireDestinationBank` .
 
 ```csharp
 public WireDestinationBank WireDestinationBank { get; set; }

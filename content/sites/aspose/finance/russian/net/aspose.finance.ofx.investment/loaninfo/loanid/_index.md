@@ -1,14 +1,14 @@
 ---
 title: LoanId
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает идентификатор этой ссуды.
+description: Получает или задает идентификатор этого займа.
 type: docs
 weight: 60
 url: /ru/net/aspose.finance.ofx.investment/loaninfo/loanid/
 ---
 ## LoanInfo.LoanId property
 
-Получает или задает идентификатор этой ссуды.
+Получает или задает идентификатор этого займа.
 
 ```csharp
 public string LoanId { get; set; }

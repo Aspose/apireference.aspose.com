@@ -1,14 +1,14 @@
 ---
 title: IsTypedDimension
 second_title: Aspose.Finance for .NET API 参考
-description: 获取是否为类型化维度概念
+description: 获取是否为类型维度概念
 type: docs
 weight: 60
 url: /zh/net/aspose.finance.xbrl/concept/istypeddimension/
 ---
 ## Concept.IsTypedDimension property
 
-获取是否为类型化维度概念。
+获取是否为类型维度概念。
 
 ```csharp
 public bool IsTypedDimension { get; }

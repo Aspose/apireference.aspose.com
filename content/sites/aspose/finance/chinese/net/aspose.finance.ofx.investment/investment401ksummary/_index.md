@@ -1,14 +1,14 @@
 ---
 title: Investment401kSummary
 second_title: Aspose.Finance for .NET API 参考
-description: 对 401k 帐户的贡献列表
+description: 401k 账户供款清单
 type: docs
 weight: 2910
 url: /zh/net/aspose.finance.ofx.investment/investment401ksummary/
 ---
 ## Investment401kSummary class
 
-对 401(k) 帐户的贡献列表。
+401(k) 账户供款清单。
 
 ```csharp
 public class Investment401kSummary
@@ -18,15 +18,15 @@ public class Investment401kSummary
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Investment401kSummary](investment401ksummary)() | 初始化[`Investment401kSummary`](../investment401ksummary)类的新实例。 |
+| [Investment401kSummary](investment401ksummary)() | 初始化一个新的实例[`Investment401kSummary`](../investment401ksummary)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [InceptToDate](../../aspose.finance.ofx.investment/investment401ksummary/incepttodate) { get; set; } | 获取或设置迄今为止的总贡献（自成立以来） |
-| [PeriodToDate](../../aspose.finance.ofx.investment/investment401ksummary/periodtodate) { get; set; } | 获取或设置期间的截止日期。 |
-| [YearToDate](../../aspose.finance.ofx.investment/investment401ksummary/yeartodate) { get; set; } | 获取或设置本日历年迄今为止的贡献。 |
+| [InceptToDate](../../aspose.finance.ofx.investment/investment401ksummary/incepttodate) { get; set; } | 获取或设置迄今为止的总贡献（自开始以来） |
+| [PeriodToDate](../../aspose.finance.ofx.investment/investment401ksummary/periodtodate) { get; set; } | 获取或设置期间的贡献日期。 |
+| [YearToDate](../../aspose.finance.ofx.investment/investment401ksummary/yeartodate) { get; set; } | 获取或设置本日历年截至日期的供款。 |
 
 ### 也可以看看
 

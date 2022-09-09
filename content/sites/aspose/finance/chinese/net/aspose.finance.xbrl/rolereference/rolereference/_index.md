@@ -1,14 +1,14 @@
 ---
 title: RoleReference
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化RoleReferenceaspose.finance.xbrl/rolereference类的新实例
+description: 初始化一个新的实例RoleReferenceaspose.finance.xbrl/rolereference类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.xbrl/rolereference/rolereference/
 ---
 ## RoleReference constructor
 
-初始化[`RoleReference`](../../rolereference)类的新实例。
+初始化一个新的实例[`RoleReference`](../../rolereference)类.
 
 ```csharp
 public RoleReference(RoleType roleType)

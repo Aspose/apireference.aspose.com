@@ -1,14 +1,14 @@
 ---
 title: Fees
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置适用于交易的费用
+description: 获取或设置应用于交易的费用
 type: docs
 weight: 40
 url: /zh/net/aspose.finance.ofx.investment/investmentsell/fees/
 ---
 ## InvestmentSell.Fees property
 
-获取或设置适用于交易的费用。
+获取或设置应用于交易的费用。
 
 ```csharp
 public string Fees { get; set; }

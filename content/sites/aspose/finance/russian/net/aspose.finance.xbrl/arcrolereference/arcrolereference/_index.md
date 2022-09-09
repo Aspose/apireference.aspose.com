@@ -1,14 +1,14 @@
 ---
 title: ArcroleReference
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаArcroleReferenceaspose.finance.xbrl/arcrolereference.
+description: Инициализирует новый экземплярArcroleReferenceaspose.finance.xbrl/arcrolereference класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.xbrl/arcrolereference/arcrolereference/
 ---
 ## ArcroleReference constructor
 
-Инициализирует новый экземпляр класса[`ArcroleReference`](../../arcrolereference).
+Инициализирует новый экземпляр[`ArcroleReference`](../../arcrolereference) класс.
 
 ```csharp
 public ArcroleReference(ArcroleType arcroleType)
@@ -16,7 +16,7 @@ public ArcroleReference(ArcroleType arcroleType)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| arcroleType | ArcroleType | Тип ArcroleType. |
+| arcroleType | ArcroleType | Тип Аркроле. |
 
 ### Смотрите также
 

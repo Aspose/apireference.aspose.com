@@ -1,14 +1,14 @@
 ---
 title: ContinuedAt
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает идентификатор ссылки продолженияInlineNonnumericaspose.finance.xbrl.inline/inlinenonnumeric.
+description: Получает или задает идентификатор ссылки продолженияInlineNonnumericaspose.finance.xbrl.inline/inlinenonnumeric .
 type: docs
 weight: 20
 url: /ru/net/aspose.finance.xbrl.inline/inlinenonnumeric/continuedat/
 ---
 ## InlineNonnumeric.ContinuedAt property
 
-Получает или задает идентификатор ссылки продолжения[`InlineNonnumeric`](../../inlinenonnumeric).
+Получает или задает идентификатор ссылки продолжения[`InlineNonnumeric`](../../inlinenonnumeric) .
 
 ```csharp
 public string ContinuedAt { get; set; }

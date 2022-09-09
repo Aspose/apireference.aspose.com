@@ -1,14 +1,14 @@
 ---
 title: PayeeAccounts
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает номер счета пользователя коллекции у получателя платежа.
+description: Получает или задает номер счета пользователя коллекции с получателем платежа .
 type: docs
 weight: 50
 url: /ru/net/aspose.finance.ofx.billpay/payeeresponse/payeeaccounts/
 ---
 ## PayeeResponse.PayeeAccounts property
 
-Получает или задает номер счета пользователя коллекции у получателя платежа.
+Получает или задает номер счета пользователя коллекции с получателем платежа .
 
 ```csharp
 public List<string> PayeeAccounts { get; set; }

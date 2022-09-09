@@ -1,14 +1,14 @@
 ---
 title: RecurringInterModResponse
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаRecurringInterModResponseaspose.finance.ofx.intertransfer/recurringintermodresponse.
+description: Инициализирует новый экземплярRecurringInterModResponseaspose.finance.ofx.intertransfer/recurringintermodresponse класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.intertransfer/recurringintermodresponse/recurringintermodresponse/
 ---
 ## RecurringInterModResponse constructor
 
-Инициализирует новый экземпляр класса[`RecurringInterModResponse`](../../recurringintermodresponse).
+Инициализирует новый экземпляр[`RecurringInterModResponse`](../../recurringintermodresponse) класс.
 
 ```csharp
 public RecurringInterModResponse()

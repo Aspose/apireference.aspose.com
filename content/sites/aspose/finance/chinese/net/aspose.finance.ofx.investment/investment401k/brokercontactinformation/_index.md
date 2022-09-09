@@ -1,14 +1,14 @@
 ---
 title: BrokerContactInformation
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置经纪商联系人的姓名以及任何可用的联系信息例如电话号码
+description: 获取或设置经纪人的联系人姓名以及任何可用的联系信息例如电话号码
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.ofx.investment/investment401k/brokercontactinformation/
 ---
 ## Investment401k.BrokerContactInformation property
 
-获取或设置经纪商联系人的姓名，以及任何可用的联系信息，例如电话号码。
+获取或设置经纪人的联系人姓名，以及任何可用的联系信息，例如电话号码。
 
 ```csharp
 public string BrokerContactInformation { get; set; }

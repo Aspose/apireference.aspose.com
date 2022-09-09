@@ -1,14 +1,14 @@
 ---
 title: ServiceStatus
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置此帐户的 Bill Presentment 服务的状态
+description: 获取或设置此帐户的账单显示服务的状态
 type: docs
 weight: 40
 url: /zh/net/aspose.finance.ofx/presentmentaccountinfo/servicestatus/
 ---
 ## PresentmentAccountInfo.ServiceStatus property
 
-获取或设置此帐户的 Bill Presentment 服务的状态。
+获取或设置此帐户的账单显示服务的状态。
 
 ```csharp
 public ServiceStatus2Enum ServiceStatus { get; set; }

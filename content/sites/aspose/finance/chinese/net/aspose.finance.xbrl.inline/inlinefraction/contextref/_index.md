@@ -1,14 +1,14 @@
 ---
 title: ContextRef
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置对InlineFraction的Contextaspose.finance.xbrl/context的引用
+description: 获取或设置对Contextaspose.finance.xbrl/context的InlineFractionaspose.finance.xbrl.inline/inlinefraction.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.xbrl.inline/inlinefraction/contextref/
 ---
 ## InlineFraction.ContextRef property
 
-获取或设置对InlineFraction的[`Context`](../../../aspose.finance.xbrl/context)的引用。
+获取或设置对[`Context`](../../../aspose.finance.xbrl/context)的[`InlineFraction`](../../inlinefraction).
 
 ```csharp
 public Context ContextRef { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: EmailProfile
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置EmailProfileaspose.finance.ofx.profile/bankmessagesetv1/emailprofile
+description: 获取或设置EmailProfileaspose.finance.ofx.profile/bankmessagesetv1/emailprofile.
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.ofx.profile/bankmessagesetv1/emailprofile/
 ---
 ## BankMessageSetV1.EmailProfile property
 
-获取或设置`EmailProfile`。
+获取或设置`EmailProfile`.
 
 ```csharp
 public EmailProfile EmailProfile { get; set; }

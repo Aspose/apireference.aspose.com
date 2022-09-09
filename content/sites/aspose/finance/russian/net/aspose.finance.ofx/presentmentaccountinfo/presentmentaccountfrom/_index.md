@@ -1,14 +1,14 @@
 ---
 title: PresentmentAccountFrom
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает значение изPresentmentAccountaspose.finance.ofx/presentmentaccount.
+description: Получает или задает изPresentmentAccountaspose.finance.ofx/presentmentaccount .
 type: docs
 weight: 20
 url: /ru/net/aspose.finance.ofx/presentmentaccountinfo/presentmentaccountfrom/
 ---
 ## PresentmentAccountInfo.PresentmentAccountFrom property
 
-Получает или задает значение из[`PresentmentAccount`](../../presentmentaccount).
+Получает или задает из[`PresentmentAccount`](../../presentmentaccount) .
 
 ```csharp
 public PresentmentAccount PresentmentAccountFrom { get; set; }

@@ -8,7 +8,7 @@ url: /zh/net/aspose.finance.ofx.creditcard/creditcardstatementtransactionrequest
 ---
 ## CreditCardStatementTransactionRequest class
 
-信用卡下载交易请求类。
+信用卡下载交易请求类
 
 ```csharp
 public class CreditCardStatementTransactionRequest : AbstractTransactionRequest
@@ -18,16 +18,16 @@ public class CreditCardStatementTransactionRequest : AbstractTransactionRequest
 
 | 姓名 | 描述 |
 | --- | --- |
-| [CreditCardStatementTransactionRequest](creditcardstatementtransactionrequest)() | 初始化[`CreditCardStatementTransactionRequest`](../creditcardstatementtransactionrequest)类的新实例。 |
+| [CreditCardStatementTransactionRequest](creditcardstatementtransactionrequest)() | 初始化一个新的实例[`CreditCardStatementTransactionRequest`](../creditcardstatementtransactionrequest)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
 | [ClientCookie](../../aspose.finance.ofx/abstracttransactionrequest/clientcookie) { get; set; } | 获取或设置要在事务响应中回显的数据 |
-| [CreditCardStatementRequest](../../aspose.finance.ofx.creditcard/creditcardstatementtransactionrequest/creditcardstatementrequest) { get; set; } | 获取或设置[`CreditCardStatementRequest`](./creditcardstatementrequest)。 |
-| [OfxExtension](../../aspose.finance.ofx.creditcard/creditcardstatementtransactionrequest/ofxextension) { get; set; } | 获取或设置[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype)。 |
-| [TransactionAuthorizationNumber](../../aspose.finance.ofx/abstracttransactionrequest/transactionauthorizationnumber) { get; set; } | 获取或设置交易授权号。 |
+| [CreditCardStatementRequest](../../aspose.finance.ofx.creditcard/creditcardstatementtransactionrequest/creditcardstatementrequest) { get; set; } | 获取或设置[`CreditCardStatementRequest`](./creditcardstatementrequest). |
+| [OfxExtension](../../aspose.finance.ofx.creditcard/creditcardstatementtransactionrequest/ofxextension) { get; set; } | 获取或设置[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
+| [TransactionAuthorizationNumber](../../aspose.finance.ofx/abstracttransactionrequest/transactionauthorizationnumber) { get; set; } | 获取或设置交易授权号 |
 | [TransactionUniqueId](../../aspose.finance.ofx/abstracttransactionrequest/transactionuniqueid) { get; set; } | 获取或设置此事务的客户端分配的全局唯一 ID |
 
 ### 也可以看看

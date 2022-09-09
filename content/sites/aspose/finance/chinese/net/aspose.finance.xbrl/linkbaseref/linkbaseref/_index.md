@@ -1,14 +1,14 @@
 ---
 title: LinkbaseRef
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化LinkbaseRefaspose.finance.xbrl/linkbaseref类的新实例
+description: 初始化一个新的实例LinkbaseRefaspose.finance.xbrl/linkbaseref类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.xbrl/linkbaseref/linkbaseref/
 ---
 ## LinkbaseRef constructor
 
-初始化[`LinkbaseRef`](../../linkbaseref)类的新实例。
+初始化一个新的实例[`LinkbaseRef`](../../linkbaseref)类.
 
 ```csharp
 public LinkbaseRef()

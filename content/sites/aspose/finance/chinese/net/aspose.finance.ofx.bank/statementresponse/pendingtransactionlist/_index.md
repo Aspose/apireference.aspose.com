@@ -1,14 +1,14 @@
 ---
 title: PendingTransactionList
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置PendingTransactionListaspose.finance.ofx.bank/statementresponse/pendingtransactionlist的来源
+description: 获取或设置 fromPendingTransactionListaspose.finance.ofx.bank/statementresponse/pendingtransactionlist.
 type: docs
 weight: 110
 url: /zh/net/aspose.finance.ofx.bank/statementresponse/pendingtransactionlist/
 ---
 ## StatementResponse.PendingTransactionList property
 
-获取或设置`PendingTransactionList`的来源。
+获取或设置 from`PendingTransactionList`.
 
 ```csharp
 public PendingTransactionList PendingTransactionList { get; set; }

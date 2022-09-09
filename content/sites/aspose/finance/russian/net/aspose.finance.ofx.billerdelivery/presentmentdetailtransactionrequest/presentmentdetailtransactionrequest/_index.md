@@ -1,14 +1,14 @@
 ---
 title: PresentmentDetailTransactionRequest
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаPresentmentDetailTransactionRequestaspose.finance.ofx.billerdelivery/presentmentdetailtransactionrequest.
+description: Инициализирует новый экземплярPresentmentDetailTransactionRequestaspose.finance.ofx.billerdelivery/presentmentdetailtransactionrequest класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.billerdelivery/presentmentdetailtransactionrequest/presentmentdetailtransactionrequest/
 ---
 ## PresentmentDetailTransactionRequest constructor
 
-Инициализирует новый экземпляр класса[`PresentmentDetailTransactionRequest`](../../presentmentdetailtransactionrequest).
+Инициализирует новый экземпляр[`PresentmentDetailTransactionRequest`](../../presentmentdetailtransactionrequest) класс.
 
 ```csharp
 public PresentmentDetailTransactionRequest()

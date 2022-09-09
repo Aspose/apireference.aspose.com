@@ -18,13 +18,13 @@ public class BillDetailRow
 
 | 姓名 | 描述 |
 | --- | --- |
-| [BillDetailRow](billdetailrow)() | 初始化[`BillDetailRow`](../billdetailrow)类的新实例。 |
+| [BillDetailRow](billdetailrow)() | 初始化一个新的实例[`BillDetailRow`](../billdetailrow)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Types](../../aspose.finance.ofx.billerdelivery/billdetailrow/types) { get; set; } | 获取或设置[`MessageType`](../../aspose.finance.ofx/messagetype)或[`CharType`](../../aspose.finance.ofx/chartype)的集合。 |
+| [Types](../../aspose.finance.ofx.billerdelivery/billdetailrow/types) { get; set; } | 获取或设置的集合[`MessageType`](../../aspose.finance.ofx/messagetype)或者[`CharType`](../../aspose.finance.ofx/chartype). |
 
 ### 也可以看看
 

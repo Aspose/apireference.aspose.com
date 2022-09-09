@@ -1,14 +1,14 @@
 ---
 title: Resource
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаResourceaspose.finance.xbrl/resource.
+description: Инициализирует новый экземплярResourceaspose.finance.xbrl/resource класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.xbrl/resource/resource/
 ---
 ## Resource constructor
 
-Инициализирует новый экземпляр класса[`Resource`](../../resource).
+Инициализирует новый экземпляр[`Resource`](../../resource) класс.
 
 ```csharp
 public Resource()

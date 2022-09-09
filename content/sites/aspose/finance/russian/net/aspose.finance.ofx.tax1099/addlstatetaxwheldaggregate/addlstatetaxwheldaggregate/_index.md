@@ -1,14 +1,14 @@
 ---
 title: AddlStateTaxWheldAggregate
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаAddlStateTaxWheldAggregateaspose.finance.ofx.tax1099/addlstatetaxwheldaggregate.
+description: Инициализирует новый экземплярAddlStateTaxWheldAggregateaspose.finance.ofx.tax1099/addlstatetaxwheldaggregate класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.tax1099/addlstatetaxwheldaggregate/addlstatetaxwheldaggregate/
 ---
 ## AddlStateTaxWheldAggregate constructor
 
-Инициализирует новый экземпляр класса[`AddlStateTaxWheldAggregate`](../../addlstatetaxwheldaggregate).
+Инициализирует новый экземпляр[`AddlStateTaxWheldAggregate`](../../addlstatetaxwheldaggregate) класс.
 
 ```csharp
 public AddlStateTaxWheldAggregate()

@@ -1,14 +1,14 @@
 ---
 title: BankTransactionList
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化BankTransactionListaspose.finance.ofx/banktransactionlist类的新实例
+description: 初始化一个新的实例BankTransactionListaspose.finance.ofx/banktransactionlist类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx/banktransactionlist/banktransactionlist/
 ---
 ## BankTransactionList constructor
 
-初始化[`BankTransactionList`](../../banktransactionlist)类的新实例。
+初始化一个新的实例[`BankTransactionList`](../../banktransactionlist)类.
 
 ```csharp
 public BankTransactionList()

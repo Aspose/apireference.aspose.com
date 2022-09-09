@@ -1,14 +1,14 @@
 ---
 title: IntraResponse
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задаетIntraResponseaspose.finance.ofx.bank/recurringintraresponse/intraresponse.
+description: Получает или задаетIntraResponseaspose.finance.ofx.bank/recurringintraresponse/intraresponse .
 type: docs
 weight: 20
 url: /ru/net/aspose.finance.ofx.bank/recurringintraresponse/intraresponse/
 ---
 ## RecurringIntraResponse.IntraResponse property
 
-Получает или задает`IntraResponse`.
+Получает или задает`IntraResponse` .
 
 ```csharp
 public IntraResponse IntraResponse { get; set; }

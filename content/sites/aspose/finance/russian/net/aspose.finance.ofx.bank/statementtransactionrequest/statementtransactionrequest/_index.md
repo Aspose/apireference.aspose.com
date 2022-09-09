@@ -1,14 +1,14 @@
 ---
 title: StatementTransactionRequest
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаStatementTransactionRequestaspose.finance.ofx.bank/statementtransactionrequest.
+description: Инициализирует новый экземплярStatementTransactionRequestaspose.finance.ofx.bank/statementtransactionrequest класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.bank/statementtransactionrequest/statementtransactionrequest/
 ---
 ## StatementTransactionRequest constructor
 
-Инициализирует новый экземпляр класса[`StatementTransactionRequest`](../../statementtransactionrequest).
+Инициализирует новый экземпляр[`StatementTransactionRequest`](../../statementtransactionrequest) класс.
 
 ```csharp
 public StatementTransactionRequest()

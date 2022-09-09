@@ -1,14 +1,14 @@
 ---
 title: Payee
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задаетPayeeaspose.finance.ofx/statementtransaction/payee.
+description: Получает или задаетPayeeaspose.finance.ofx/statementtransaction/payee .
 type: docs
 weight: 150
 url: /ru/net/aspose.finance.ofx/statementtransaction/payee/
 ---
 ## StatementTransaction.Payee property
 
-Получает или задает`Payee`.
+Получает или задает`Payee` .
 
 ```csharp
 public Payee Payee { get; set; }

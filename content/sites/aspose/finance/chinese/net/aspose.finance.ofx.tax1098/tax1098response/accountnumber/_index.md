@@ -1,14 +1,14 @@
 ---
 title: AccountNumber
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置借款人的帐号如果与 SSN 不同
+description: 获取或设置借款人的帐号如果与SSN不同
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.ofx.tax1098/tax1098response/accountnumber/
 ---
 ## Tax1098Response.AccountNumber property
 
-获取或设置借款人的帐号，如果与 SSN 不同。
+获取或设置借款人的帐号，如果与SSN不同。
 
 ```csharp
 public string AccountNumber { get; set; }

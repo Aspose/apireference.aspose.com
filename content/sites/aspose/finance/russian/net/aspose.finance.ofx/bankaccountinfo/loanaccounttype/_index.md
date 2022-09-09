@@ -1,14 +1,14 @@
 ---
 title: LoanAccountType
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает тип кредитного счета
+description: Получает или задает тип ссудного счета
 type: docs
 weight: 40
 url: /ru/net/aspose.finance.ofx/bankaccountinfo/loanaccounttype/
 ---
 ## BankAccountInfo.LoanAccountType property
 
-Получает или задает тип кредитного счета
+Получает или задает тип ссудного счета
 
 ```csharp
 public LoanAccountEnum LoanAccountType { get; set; }

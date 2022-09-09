@@ -1,14 +1,14 @@
 ---
 title: Balance
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化Balanceaspose.finance.ofx/balance类的新实例
+description: 初始化一个新的实例Balanceaspose.finance.ofx/balance类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx/balance/balance/
 ---
 ## Balance constructor
 
-初始化[`Balance`](../../balance)类的新实例。
+初始化一个新的实例[`Balance`](../../balance)类.
 
 ```csharp
 public Balance()

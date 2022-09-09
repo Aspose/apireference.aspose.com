@@ -1,14 +1,14 @@
 ---
 title: StatementEndResponse
 second_title: Справочник по API Aspose.Finance для .NET
-description: Класс ответа заключительного заявления.
+description: Класс ответов на заключительное заявление.
 type: docs
 weight: 640
 url: /ru/net/aspose.finance.ofx.bank/statementendresponse/
 ---
 ## StatementEndResponse class
 
-Класс ответа заключительного заявления.
+Класс ответов на заключительное заявление.
 
 ```csharp
 public class StatementEndResponse
@@ -18,14 +18,14 @@ public class StatementEndResponse
 
 | Имя | Описание |
 | --- | --- |
-| [StatementEndResponse](statementendresponse)() | Инициализирует новый экземпляр класса[`StatementEndResponse`](../statementendresponse). |
+| [StatementEndResponse](statementendresponse)() | Инициализирует новый экземпляр[`StatementEndResponse`](../statementendresponse) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [BankAccountFrom](../../aspose.finance.ofx.bank/statementendresponse/bankaccountfrom) { get; set; } | Получает или задает значение из[`BankAccount`](../../aspose.finance.ofx/bankaccount). |
-| [Closings](../../aspose.finance.ofx.bank/statementendresponse/closings) { get; set; } | Получает или задает коллекцию[`Closing`](../closing). |
+| [BankAccountFrom](../../aspose.finance.ofx.bank/statementendresponse/bankaccountfrom) { get; set; } | Получает или задает из[`BankAccount`](../../aspose.finance.ofx/bankaccount) . |
+| [Closings](../../aspose.finance.ofx.bank/statementendresponse/closings) { get; set; } | Получает или задает коллекцию[`Closing`](../closing) . |
 | [Currency](../../aspose.finance.ofx.bank/statementendresponse/currency) { get; set; } | Получает или задает валюту по умолчанию, используемую для закрытия информации. |
 
 ### Смотрите также

@@ -1,14 +1,14 @@
 ---
 title: SubAccountSecurity
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает тип субсчета для ценной бумаги
+description: Получает или задает тип дополнительной учетной записи для security
 type: docs
 weight: 70
 url: /ru/net/aspose.finance.ofx.investment/closureoption/subaccountsecurity/
 ---
 ## ClosureOption.SubAccountSecurity property
 
-Получает или задает тип субсчета для ценной бумаги
+Получает или задает тип дополнительной учетной записи для security
 
 ```csharp
 public SubAccountEnum SubAccountSecurity { get; set; }

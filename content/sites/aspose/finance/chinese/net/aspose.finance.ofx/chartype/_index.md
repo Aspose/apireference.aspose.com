@@ -18,7 +18,7 @@ public class CharType : AbstractStringType
 
 | 姓名 | 描述 |
 | --- | --- |
-| [CharType](chartype)() | 初始化[`CharType`](../chartype)类的新实例。 |
+| [CharType](chartype)() | 初始化一个新的实例[`CharType`](../chartype)类. |
 
 ## 特性
 

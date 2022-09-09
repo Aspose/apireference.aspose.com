@@ -1,14 +1,14 @@
 ---
 title: IncomeType
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置投资收益类型
+description: 获取或设置投资收益的类型
 type: docs
 weight: 50
 url: /zh/net/aspose.finance.ofx.investment/reinvest/incometype/
 ---
 ## Reinvest.IncomeType property
 
-获取或设置投资收益类型。
+获取或设置投资收益的类型。
 
 ```csharp
 public IncomeEnum IncomeType { get; set; }

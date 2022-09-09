@@ -1,14 +1,14 @@
 ---
 title: ClosureOption
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инвестиционное закрытие позиции по классу сделки опциона.
+description: Инвестиционное закрытие позиции для опционного класса сделки.
 type: docs
 weight: 2730
 url: /ru/net/aspose.finance.ofx.investment/closureoption/
 ---
 ## ClosureOption class
 
-Инвестиционное закрытие позиции по классу сделки опциона.
+Инвестиционное закрытие позиции для опционного класса сделки.
 
 ```csharp
 public class ClosureOption : AbstractInvestmentTransaction
@@ -18,19 +18,19 @@ public class ClosureOption : AbstractInvestmentTransaction
 
 | Имя | Описание |
 | --- | --- |
-| [ClosureOption](closureoption)() | Инициализирует новый экземпляр класса[`ClosureOption`](../closureoption). |
+| [ClosureOption](closureoption)() | Инициализирует новый экземпляр[`ClosureOption`](../closureoption) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
 | [Gain](../../aspose.finance.ofx.investment/closureoption/gain) { get; set; } | Получает или задает общее усиление. |
-| [InvestmentTransaction](../../aspose.finance.ofx.investment/abstractinvestmenttransaction/investmenttransaction) { get; set; } | Получает или задает[`InvestmentTransaction`](../abstractinvestmenttransaction/investmenttransaction). |
+| [InvestmentTransaction](../../aspose.finance.ofx.investment/abstractinvestmenttransaction/investmenttransaction) { get; set; } | Получает или задает[`InvestmentTransaction`](../abstractinvestmenttransaction/investmenttransaction) . |
 | [OptionAction](../../aspose.finance.ofx.investment/closureoption/optionaction) { get; set; } | Получает или задает тип действия параметра. |
 | [RelateFITransactionID](../../aspose.finance.ofx.investment/closureoption/relatefitransactionid) { get; set; } | Получает или задает идентификатор связанной сделки. |
-| [SecurityId](../../aspose.finance.ofx.investment/closureoption/securityid) { get; set; } | Получает или задает[`SecurityId`](./securityid). |
+| [SecurityId](../../aspose.finance.ofx.investment/closureoption/securityid) { get; set; } | Получает или задает[`SecurityId`](./securityid) . |
 | [SharePerContract](../../aspose.finance.ofx.investment/closureoption/sharepercontract) { get; set; } | Получает или задает количество акций на контракт. |
-| [SubAccountSecurity](../../aspose.finance.ofx.investment/closureoption/subaccountsecurity) { get; set; } | Получает или задает тип субсчета для ценной бумаги |
+| [SubAccountSecurity](../../aspose.finance.ofx.investment/closureoption/subaccountsecurity) { get; set; } | Получает или задает тип дополнительной учетной записи для security |
 | [Units](../../aspose.finance.ofx.investment/closureoption/units) { get; set; } | Получает или задает единицы измерения. Для действий, основанных на безопасности, кроме дробления акций. Акции для акций, взаимных фондов и др. Номинальная стоимость облигаций. Контракты на опционы. |
 
 ### Смотрите также

@@ -1,14 +1,14 @@
 ---
 title: RoleReferences
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает коллекциюRoleReferenceaspose.finance.xbrl/rolereferenceво встроенном документе XBRL.
+description: Получает коллекциюRoleReferenceaspose.finance.xbrl/rolereference во встроенном документе XBRL.
 type: docs
 weight: 90
 url: /ru/net/aspose.finance.xbrl.inline/inlinexbrldocument/rolereferences/
 ---
 ## InlineXbrlDocument.RoleReferences property
 
-Получает коллекцию[`RoleReference`](../../../aspose.finance.xbrl/rolereference)во встроенном документе XBRL.
+Получает коллекцию[`RoleReference`](../../../aspose.finance.xbrl/rolereference) во встроенном документе XBRL.
 
 ```csharp
 public List<RoleReference> RoleReferences { get; }

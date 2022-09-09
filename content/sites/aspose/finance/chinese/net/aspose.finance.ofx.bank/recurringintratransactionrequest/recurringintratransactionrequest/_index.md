@@ -1,14 +1,14 @@
 ---
 title: RecurringIntraTransactionRequest
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化RecurringIntraTransactionRequestaspose.finance.ofx.bank/recurringintratransactionrequest类的新实例
+description: 初始化一个新的实例RecurringIntraTransactionRequestaspose.finance.ofx.bank/recurringintratransactionrequest类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.bank/recurringintratransactionrequest/recurringintratransactionrequest/
 ---
 ## RecurringIntraTransactionRequest constructor
 
-初始化[`RecurringIntraTransactionRequest`](../../recurringintratransactionrequest)类的新实例。
+初始化一个新的实例[`RecurringIntraTransactionRequest`](../../recurringintratransactionrequest)类.
 
 ```csharp
 public RecurringIntraTransactionRequest()

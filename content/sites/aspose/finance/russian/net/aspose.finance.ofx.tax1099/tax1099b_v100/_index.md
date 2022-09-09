@@ -1,14 +1,14 @@
 ---
 title: Tax1099B_V100
 second_title: Справочник по API Aspose.Finance для .NET
-description: Налоговая 1099B Класс формы V100.
+description: Класс формы 1099B V100.
 type: docs
 weight: 5990
 url: /ru/net/aspose.finance.ofx.tax1099/tax1099b_v100/
 ---
 ## Tax1099B_V100 class
 
-Налоговая 1099B Класс формы V100.
+Класс формы 1099B V100.
 
 ```csharp
 public class Tax1099B_V100 : AbstractTaxForm1099
@@ -18,7 +18,7 @@ public class Tax1099B_V100 : AbstractTaxForm1099
 
 | Имя | Описание |
 | --- | --- |
-| [Tax1099B_V100](tax1099b_v100)() | Инициализирует новый экземпляр класса[`Tax1099B_V100`](../tax1099b_v100). |
+| [Tax1099B_V100](tax1099b_v100)() | Инициализирует новый экземпляр[`Tax1099B_V100`](../tax1099b_v100) класс. |
 
 ## Характеристики
 
@@ -29,21 +29,21 @@ public class Tax1099B_V100 : AbstractTaxForm1099
 | [Corrected](../../aspose.finance.ofx.tax1099/abstracttaxform1099/corrected) { get; set; } | Получает или задает, является ли это исправленной формой. |
 | [CUSIPNumber](../../aspose.finance.ofx.tax1099/tax1099b_v100/cusipnumber) { get; set; } | Получает или задает номер Комитета по унифицированным процедурам идентификации безопасности. |
 | [Description](../../aspose.finance.ofx.tax1099/tax1099b_v100/description) { get; set; } | Получает или задает описание. |
-| [ExtendedBInfo_V100](../../aspose.finance.ofx.tax1099/tax1099b_v100/extendedbinfo_v100) { get; set; } | Получает или задает[`ExtendedBInfo_V100`](./extendedbinfo_v100). |
+| [ExtendedBInfo_V100](../../aspose.finance.ofx.tax1099/tax1099b_v100/extendedbinfo_v100) { get; set; } | Получает или задает[`ExtendedBInfo_V100`](./extendedbinfo_v100) . |
 | [FederalTaxWithheld](../../aspose.finance.ofx.tax1099/tax1099b_v100/federaltaxwithheld) { get; set; } | Получает или задает удержанный федеральный подоходный налог. |
-| [PayerAddress](../../aspose.finance.ofx.tax1099/tax1099b_v100/payeraddress) { get; set; } | Получает или задает[`PayerAddress`](./payeraddress). |
+| [PayerAddress](../../aspose.finance.ofx.tax1099/tax1099b_v100/payeraddress) { get; set; } | Получает или задает[`PayerAddress`](./payeraddress) . |
 | [PayerId](../../aspose.finance.ofx.tax1099/tax1099b_v100/payerid) { get; set; } | Получает или задает федеральный идентификационный номер плательщика. |
 | [Profit](../../aspose.finance.ofx.tax1099/tax1099b_v100/profit) { get; set; } | Получает или задает реализованную прибыль или убыток. |
-| [RecipientAccount](../../aspose.finance.ofx.tax1099/tax1099b_v100/recipientaccount) { get; set; } | Получает или задает номер учетной записи получателя. |
-| [RecipientAddress](../../aspose.finance.ofx.tax1099/tax1099b_v100/recipientaddress) { get; set; } | Получает или задает[`RecipientAddress`](./recipientaddress). |
+| [RecipientAccount](../../aspose.finance.ofx.tax1099/tax1099b_v100/recipientaccount) { get; set; } | Получает или задает номер счета получателя. |
+| [RecipientAddress](../../aspose.finance.ofx.tax1099/tax1099b_v100/recipientaddress) { get; set; } | Получает или задает[`RecipientAddress`](./recipientaddress) . |
 | [RecipientId](../../aspose.finance.ofx.tax1099/tax1099b_v100/recipientid) { get; set; } | Получает или задает идентификационный номер получателя. |
 | [SaleDate](../../aspose.finance.ofx.tax1099/tax1099b_v100/saledate) { get; set; } | Получает или задает дату продажи. |
-| [ServerId](../../aspose.finance.ofx.tax1099/abstracttaxform1099/serverid) { get; set; } | Получает или задает идентификатор, назначенный хост-сервером форме. |
-| [StocksBonds](../../aspose.finance.ofx.tax1099/tax1099b_v100/stocksbonds) { get; set; } | Получает или задает[`StocksBonds`](./stocksbonds). |
+| [ServerId](../../aspose.finance.ofx.tax1099/abstracttaxform1099/serverid) { get; set; } | Получает или задает идентификатор, присвоенный хост-сервером форме. |
+| [StocksBonds](../../aspose.finance.ofx.tax1099/tax1099b_v100/stocksbonds) { get; set; } | Получает или задает[`StocksBonds`](./stocksbonds) . |
 | [TaxYear](../../aspose.finance.ofx.tax1099/abstracttaxform1099/taxyear) { get; set; } | Получает или задает налоговый год этой формы. |
 | [TINNotification](../../aspose.finance.ofx.tax1099/tax1099b_v100/tinnotification) { get; set; } | Получает или задает второе уведомление TIN. |
-| [UnrealizeProfit](../../aspose.finance.ofx.tax1099/tax1099b_v100/unrealizeprofit) { get; set; } | Получает или задает нереализованную прибыль или убыток по открытым контрактам в этом налоговом году. |
-| [UnrealizeProfitPre](../../aspose.finance.ofx.tax1099/tax1099b_v100/unrealizeprofitpre) { get; set; } | Получает или задает нереализованную прибыль или убыток по открытым контрактам в предыдущем налоговом году. |
+| [UnrealizeProfit](../../aspose.finance.ofx.tax1099/tax1099b_v100/unrealizeprofit) { get; set; } | Получает или устанавливает нереализованную прибыль или убыток по открытым контрактам в этом налоговом году. |
+| [UnrealizeProfitPre](../../aspose.finance.ofx.tax1099/tax1099b_v100/unrealizeprofitpre) { get; set; } | Получает или устанавливает нереализованную прибыль или убыток по открытым контрактам в предыдущем налоговом году. |
 | [Void](../../aspose.finance.ofx.tax1099/abstracttaxform1099/void) { get; set; } | Получает или задает, является ли форма недействительной. |
 
 ### Смотрите также

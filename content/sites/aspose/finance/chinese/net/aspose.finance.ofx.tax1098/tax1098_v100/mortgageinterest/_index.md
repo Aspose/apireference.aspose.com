@@ -1,14 +1,14 @@
 ---
 title: MortgageInterest
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置从借款人收到的抵押贷款利息
+description: 获取或设置从借款人那里收到的抵押贷款利息
 type: docs
 weight: 80
 url: /zh/net/aspose.finance.ofx.tax1098/tax1098_v100/mortgageinterest/
 ---
 ## Tax1098_V100.MortgageInterest property
 
-获取或设置从借款人收到的抵押贷款利息。
+获取或设置从借款人那里收到的抵押贷款利息。
 
 ```csharp
 public string MortgageInterest { get; set; }

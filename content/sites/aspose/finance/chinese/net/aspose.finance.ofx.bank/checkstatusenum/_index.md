@@ -18,7 +18,7 @@ public enum CheckStatusEnum
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| Status0 | `0` | OK |
+| Status0 | `0` | 好的 |
 | Status1 | `1` | 拒绝 |
 | Status100 | `2` | 检查未找到 |
 | Status101 | `3` | 检查已发布 |

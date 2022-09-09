@@ -1,14 +1,14 @@
 ---
 title: RecurringPaymentTransactionResponse
 second_title: Справочник по API Aspose.Finance для .NET
-description: Класс ответа транзакции регулярных платежей.
+description: Класс ответа на повторяющиеся платежные операции.
 type: docs
 weight: 1370
 url: /ru/net/aspose.finance.ofx.billpay/recurringpaymenttransactionresponse/
 ---
 ## RecurringPaymentTransactionResponse class
 
-Класс ответа транзакции регулярных платежей.
+Класс ответа на повторяющиеся платежные операции.
 
 ```csharp
 public class RecurringPaymentTransactionResponse : AbstractTransactionResponse
@@ -18,16 +18,16 @@ public class RecurringPaymentTransactionResponse : AbstractTransactionResponse
 
 | Имя | Описание |
 | --- | --- |
-| [RecurringPaymentTransactionResponse](recurringpaymenttransactionresponse)() | Инициализирует новый экземпляр класса[`RecurringPaymentTransactionResponse`](../recurringpaymenttransactionresponse). |
+| [RecurringPaymentTransactionResponse](recurringpaymenttransactionresponse)() | Инициализирует новый экземпляр[`RecurringPaymentTransactionResponse`](../recurringpaymenttransactionresponse) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [ClientCookie](../../aspose.finance.ofx/abstracttransactionresponse/clientcookie) { get; set; } | Получает или задает данные, которые будут отображаться в ответе транзакции |
-| [OfxExtension](../../aspose.finance.ofx.billpay/recurringpaymenttransactionresponse/ofxextension) { get; set; } | Получает или задает[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
-| [Response](../../aspose.finance.ofx.billpay/recurringpaymenttransactionresponse/response) { get; set; } | Получает или задает[`RecurringPaymentResponse`](../recurringpaymentresponse)или[`RecurringPaymentModResponse`](../recurringpaymentmodresponse)или[`RecurringPaymentCancelResponse`](../recurringpaymentcancelresponse). |
-| [Status](../../aspose.finance.ofx/abstracttransactionresponse/status) { get; set; } | Получает или задает[`Status`](../../aspose.finance.ofx/abstracttransactionresponse/status). |
+| [ClientCookie](../../aspose.finance.ofx/abstracttransactionresponse/clientcookie) { get; set; } | Получает или задает данные, которые будут отражены в транзакции response |
+| [OfxExtension](../../aspose.finance.ofx.billpay/recurringpaymenttransactionresponse/ofxextension) { get; set; } | Получает или задает[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype) . |
+| [Response](../../aspose.finance.ofx.billpay/recurringpaymenttransactionresponse/response) { get; set; } | Получает или задает[`RecurringPaymentResponse`](../recurringpaymentresponse) или же[`RecurringPaymentModResponse`](../recurringpaymentmodresponse) или же[`RecurringPaymentCancelResponse`](../recurringpaymentcancelresponse) . |
+| [Status](../../aspose.finance.ofx/abstracttransactionresponse/status) { get; set; } | Получает или задает[`Status`](../../aspose.finance.ofx/abstracttransactionresponse/status) . |
 | [TransactionUniqueId](../../aspose.finance.ofx/abstracttransactionresponse/transactionuniqueid) { get; set; } | Получает или задает назначенный клиентом глобальный уникальный идентификатор для этой транзакции. |
 
 ### Смотрите также

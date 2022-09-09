@@ -1,14 +1,14 @@
 ---
 title: InlineFact
 second_title: Aspose.Finance for .NET API 参考
-description: 这个抽象类是内联文档中事实的基类包括InlineFraction./inlinefractionInlineNonfractionInlineNonnumeric./inlinenonnumericInlineTuple./inlinetuple
+description: 这个抽象类如果是内联文档中事实的基类包括InlineFraction./inlinefractionInlineNonfraction./inlinenonfractionInlineNonnumeric./inlinenonnumericInlineTuple./inlinetuple.
 type: docs
 weight: 7670
 url: /zh/net/aspose.finance.xbrl.inline/inlinefact/
 ---
 ## InlineFact class
 
-这个抽象类是内联文档中事实的基类，包括[`InlineFraction`](../inlinefraction),InlineNonfraction，[`InlineNonnumeric`](../inlinenonnumeric)，[`InlineTuple`](../inlinetuple)。
+这个抽象类如果是内联文档中事实的基类，包括[`InlineFraction`](../inlinefraction),[`InlineNonfraction`](../inlinenonfraction),[`InlineNonnumeric`](../inlinenonnumeric),[`InlineTuple`](../inlinetuple).
 
 ```csharp
 public abstract class InlineFact

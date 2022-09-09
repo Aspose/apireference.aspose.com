@@ -1,14 +1,14 @@
 ---
 title: PayeeTransactionRequest
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化PayeeTransactionRequestaspose.finance.ofx.billpay/payeetransactionrequest类的新实例
+description: 初始化一个新的实例PayeeTransactionRequestaspose.finance.ofx.billpay/payeetransactionrequest类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.billpay/payeetransactionrequest/payeetransactionrequest/
 ---
 ## PayeeTransactionRequest constructor
 
-初始化[`PayeeTransactionRequest`](../../payeetransactionrequest)类的新实例。
+初始化一个新的实例[`PayeeTransactionRequest`](../../payeetransactionrequest)类.
 
 ```csharp
 public PayeeTransactionRequest()

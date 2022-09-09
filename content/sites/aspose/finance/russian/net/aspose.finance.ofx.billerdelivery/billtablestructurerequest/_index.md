@@ -18,7 +18,7 @@ public class BillTableStructureRequest
 
 | Имя | Описание |
 | --- | --- |
-| [BillTableStructureRequest](billtablestructurerequest)() | Инициализирует новый экземпляр класса[`BillTableStructureRequest`](../billtablestructurerequest). |
+| [BillTableStructureRequest](billtablestructurerequest)() | Инициализирует новый экземпляр[`BillTableStructureRequest`](../billtablestructurerequest) класс. |
 
 ## Характеристики
 

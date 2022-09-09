@@ -1,14 +1,14 @@
 ---
 title: PayeeDeleteRequest
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化PayeeDeleteRequestaspose.finance.ofx.billpay/payeedeleterequest类的新实例
+description: 初始化一个新的实例PayeeDeleteRequestaspose.finance.ofx.billpay/payeedeleterequest类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.billpay/payeedeleterequest/payeedeleterequest/
 ---
 ## PayeeDeleteRequest constructor
 
-初始化[`PayeeDeleteRequest`](../../payeedeleterequest)类的新实例。
+初始化一个新的实例[`PayeeDeleteRequest`](../../payeedeleterequest)类.
 
 ```csharp
 public PayeeDeleteRequest()

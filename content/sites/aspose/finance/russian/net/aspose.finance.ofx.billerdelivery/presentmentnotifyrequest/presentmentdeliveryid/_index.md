@@ -1,14 +1,14 @@
 ---
 title: PresentmentDeliveryId
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задаетPresentmentDeliveryIdaspose.finance.ofx.billerdelivery/presentmentnotifyrequest/presentmentdeliveryid.
+description: Получает или задаетPresentmentDeliveryIdaspose.finance.ofx.billerdelivery/presentmentnotifyrequest/presentmentdeliveryid .
 type: docs
 weight: 20
 url: /ru/net/aspose.finance.ofx.billerdelivery/presentmentnotifyrequest/presentmentdeliveryid/
 ---
 ## PresentmentNotifyRequest.PresentmentDeliveryId property
 
-Получает или задает`PresentmentDeliveryId`.
+Получает или задает`PresentmentDeliveryId` .
 
 ```csharp
 public PresentmentDeliveryId PresentmentDeliveryId { get; set; }

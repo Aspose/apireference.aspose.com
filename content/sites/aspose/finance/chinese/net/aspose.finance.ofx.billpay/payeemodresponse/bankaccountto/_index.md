@@ -1,14 +1,14 @@
 ---
 title: BankAccountTo
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置使用转账支付账单的国家/地区的目的地BankAccountaspose.finance.ofx/bankaccount
+description: 获取或设置目的地BankAccountaspose.finance.ofx/bankaccount对于使用转账支付账单的国家/地区
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.ofx.billpay/payeemodresponse/bankaccountto/
 ---
 ## PayeeModResponse.BankAccountTo property
 
-获取或设置使用转账支付账单的国家/地区的目的地[`BankAccount`](../../../aspose.finance.ofx/bankaccount)。
+获取或设置目的地[`BankAccount`](../../../aspose.finance.ofx/bankaccount)对于使用转账支付账单的国家/地区。
 
 ```csharp
 public BankAccount BankAccountTo { get; set; }

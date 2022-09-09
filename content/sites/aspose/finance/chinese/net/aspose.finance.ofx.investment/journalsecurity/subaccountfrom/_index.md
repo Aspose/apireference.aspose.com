@@ -1,14 +1,14 @@
 ---
 title: SubAccountFrom
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置用于转移证券或现金的子账户
+description: 获取或设置证券或现金转出的子账户
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.ofx.investment/journalsecurity/subaccountfrom/
 ---
 ## JournalSecurity.SubAccountFrom property
 
-获取或设置用于转移证券或现金的子账户。
+获取或设置证券或现金转出的子账户。
 
 ```csharp
 public SubAccountEnum SubAccountFrom { get; set; }

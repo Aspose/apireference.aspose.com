@@ -1,14 +1,14 @@
 ---
 title: PayeeDeleteResponse
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаPayeeDeleteResponseaspose.finance.ofx.billpay/payeedeleteresponse.
+description: Инициализирует новый экземплярPayeeDeleteResponseaspose.finance.ofx.billpay/payeedeleteresponse класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.billpay/payeedeleteresponse/payeedeleteresponse/
 ---
 ## PayeeDeleteResponse constructor
 
-Инициализирует новый экземпляр класса[`PayeeDeleteResponse`](../../payeedeleteresponse).
+Инициализирует новый экземпляр[`PayeeDeleteResponse`](../../payeedeleteresponse) класс.
 
 ```csharp
 public PayeeDeleteResponse()

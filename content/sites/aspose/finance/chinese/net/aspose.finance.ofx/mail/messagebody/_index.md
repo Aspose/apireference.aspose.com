@@ -8,7 +8,7 @@ url: /zh/net/aspose.finance.ofx/mail/messagebody/
 ---
 ## Mail.MessageBody property
 
-获取或设置邮件正文、HTML 编码或纯文本。
+获取或设置邮件正文，HTML 编码或纯文本。
 
 ```csharp
 public string MessageBody { get; set; }

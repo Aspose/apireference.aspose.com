@@ -18,15 +18,15 @@ public class CreditCardStatementEndTransactionRequest : AbstractTransactionReque
 
 | Имя | Описание |
 | --- | --- |
-| [CreditCardStatementEndTransactionRequest](creditcardstatementendtransactionrequest)() | Инициализирует новый экземпляр класса[`CreditCardStatementEndTransactionRequest`](../creditcardstatementendtransactionrequest). |
+| [CreditCardStatementEndTransactionRequest](creditcardstatementendtransactionrequest)() | Инициализирует новый экземпляр[`CreditCardStatementEndTransactionRequest`](../creditcardstatementendtransactionrequest) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [ClientCookie](../../aspose.finance.ofx/abstracttransactionrequest/clientcookie) { get; set; } | Получает или задает данные, которые будут отображаться в ответе транзакции |
-| [CreditCardStatementEndRequest](../../aspose.finance.ofx.creditcard/creditcardstatementendtransactionrequest/creditcardstatementendrequest) { get; set; } | Получает или задает[`CreditCardStatementEndRequest`](./creditcardstatementendrequest). |
-| [OfxExtension](../../aspose.finance.ofx.creditcard/creditcardstatementendtransactionrequest/ofxextension) { get; set; } | Получает или задает[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
+| [ClientCookie](../../aspose.finance.ofx/abstracttransactionrequest/clientcookie) { get; set; } | Получает или задает данные, которые будут отражены в транзакции response |
+| [CreditCardStatementEndRequest](../../aspose.finance.ofx.creditcard/creditcardstatementendtransactionrequest/creditcardstatementendrequest) { get; set; } | Получает или задает[`CreditCardStatementEndRequest`](./creditcardstatementendrequest) . |
+| [OfxExtension](../../aspose.finance.ofx.creditcard/creditcardstatementendtransactionrequest/ofxextension) { get; set; } | Получает или задает[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype) . |
 | [TransactionAuthorizationNumber](../../aspose.finance.ofx/abstracttransactionrequest/transactionauthorizationnumber) { get; set; } | Получает или задает номер авторизации транзакции. |
 | [TransactionUniqueId](../../aspose.finance.ofx/abstracttransactionrequest/transactionuniqueid) { get; set; } | Получает или задает назначенный клиентом глобальный уникальный идентификатор для этой транзакции |
 

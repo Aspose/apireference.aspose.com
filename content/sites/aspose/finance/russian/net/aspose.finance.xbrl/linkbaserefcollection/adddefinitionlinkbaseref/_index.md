@@ -1,14 +1,14 @@
 ---
 title: AddDefinitionLinkbaseRef
 second_title: Справочник по API Aspose.Finance для .NET
-description: ДобавьтеDefinitionLinkbaseRefaspose.finance.xbrl/definitionlinkbaserefв коллекцию.
+description: ДобавитьDefinitionLinkbaseRefaspose.finance.xbrl/definitionlinkbaserefв коллекцию.
 type: docs
 weight: 40
 url: /ru/net/aspose.finance.xbrl/linkbaserefcollection/adddefinitionlinkbaseref/
 ---
 ## LinkbaseRefCollection.AddDefinitionLinkbaseRef method
 
-Добавьте[`DefinitionLinkbaseRef`](../../definitionlinkbaseref)в коллекцию.
+Добавить[`DefinitionLinkbaseRef`](../../definitionlinkbaseref)в коллекцию.
 
 ```csharp
 public void AddDefinitionLinkbaseRef(string href)
@@ -16,7 +16,7 @@ public void AddDefinitionLinkbaseRef(string href)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| href | String | База ссылок определения href. |
+| href | String | Определение базы ссылок href. |
 
 ### Смотрите также
 

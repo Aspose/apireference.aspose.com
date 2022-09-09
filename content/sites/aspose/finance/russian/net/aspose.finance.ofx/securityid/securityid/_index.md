@@ -1,14 +1,14 @@
 ---
 title: SecurityId
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаSecurityIdaspose.finance.ofx/securityid.
+description: Инициализирует новый экземплярSecurityIdaspose.finance.ofx/securityid класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx/securityid/securityid/
 ---
 ## SecurityId constructor
 
-Инициализирует новый экземпляр класса[`SecurityId`](../../securityid).
+Инициализирует новый экземпляр[`SecurityId`](../../securityid) класс.
 
 ```csharp
 public SecurityId()

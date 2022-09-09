@@ -1,14 +1,14 @@
 ---
 title: Invoice
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置Invoiceaspose.finance.ofx.billerdelivery/presentmentbillinfo/invoice
+description: 获取或设置Invoiceaspose.finance.ofx.billerdelivery/presentmentbillinfo/invoice.
 type: docs
 weight: 140
 url: /zh/net/aspose.finance.ofx.billerdelivery/presentmentbillinfo/invoice/
 ---
 ## PresentmentBillInfo.Invoice property
 
-获取或设置`Invoice`。
+获取或设置`Invoice`.
 
 ```csharp
 public Invoice Invoice { get; set; }

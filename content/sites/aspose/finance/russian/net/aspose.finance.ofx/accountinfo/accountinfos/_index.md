@@ -1,14 +1,14 @@
 ---
 title: AccountInfos
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает коллекциюBankAccountInfoaspose.finance.ofx/bankaccountinfoилиLoanAccountInfoaspose.finance.ofx/loanaccountinfoилиCreditCardAccountInfoaspose.finance.ofx/creditcardaccountinfo илиBillPaymentAccountInfoaspose.finance.ofx/billpaymentaccountinfoилиInvestmentAccountInfoaspose.finance.ofx/investmentaccountinfoилиPresentmentAccountInfoaspose.finance.ofx/presentmentaccountinfo.
+description: Получает или задает коллекциюBankAccountInfoaspose.finance.ofx/bankaccountinfo или жеLoanAccountInfoaspose.finance.ofx/loanaccountinfo или жеCreditCardAccountInfoaspose.finance.ofx/creditcardaccountinfo илиBillPaymentAccountInfoaspose.finance.ofx/billpaymentaccountinfo или жеInvestmentAccountInfoaspose.finance.ofx/investmentaccountinfo или жеPresentmentAccountInfoaspose.finance.ofx/presentmentaccountinfo .
 type: docs
 weight: 20
 url: /ru/net/aspose.finance.ofx/accountinfo/accountinfos/
 ---
 ## AccountInfo.AccountInfos property
 
-Получает или задает коллекцию[`BankAccountInfo`](../../bankaccountinfo)или[`LoanAccountInfo`](../../loanaccountinfo)или[`CreditCardAccountInfo`](../../creditcardaccountinfo) или[`BillPaymentAccountInfo`](../../billpaymentaccountinfo)или[`InvestmentAccountInfo`](../../investmentaccountinfo)или[`PresentmentAccountInfo`](../../presentmentaccountinfo).
+Получает или задает коллекцию[`BankAccountInfo`](../../bankaccountinfo) или же[`LoanAccountInfo`](../../loanaccountinfo) или же[`CreditCardAccountInfo`](../../creditcardaccountinfo) или[`BillPaymentAccountInfo`](../../billpaymentaccountinfo) или же[`InvestmentAccountInfo`](../../investmentaccountinfo) или же[`PresentmentAccountInfo`](../../presentmentaccountinfo) .
 
 ```csharp
 public List<AbstractAccountInfo> AccountInfos { get; set; }

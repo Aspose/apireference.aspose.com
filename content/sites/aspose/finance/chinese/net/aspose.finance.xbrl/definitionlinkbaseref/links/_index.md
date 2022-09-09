@@ -1,14 +1,14 @@
 ---
 title: Links
 second_title: Aspose.Finance for .NET API 参考
-description: 获取DefinitionLinkaspose.finance.xbrl/definitionlink的集合
+description: 获取集合DefinitionLinkaspose.finance.xbrl/definitionlink.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.xbrl/definitionlinkbaseref/links/
 ---
 ## DefinitionLinkbaseRef.Links property
 
-获取[`DefinitionLink`](../../definitionlink)的集合。
+获取集合[`DefinitionLink`](../../definitionlink).
 
 ```csharp
 public List<DefinitionLink> Links { get; }

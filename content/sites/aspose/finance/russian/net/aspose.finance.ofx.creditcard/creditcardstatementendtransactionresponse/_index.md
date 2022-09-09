@@ -1,14 +1,14 @@
 ---
 title: CreditCardStatementEndTransactionResponse
 second_title: Справочник по API Aspose.Finance для .NET
-description: Класс ответа транзакции выписки по кредитной карте.
+description: Класс ответа транзакции выписки о закрытии кредитной карты.
 type: docs
 weight: 1990
 url: /ru/net/aspose.finance.ofx.creditcard/creditcardstatementendtransactionresponse/
 ---
 ## CreditCardStatementEndTransactionResponse class
 
-Класс ответа транзакции выписки по кредитной карте.
+Класс ответа транзакции выписки о закрытии кредитной карты.
 
 ```csharp
 public class CreditCardStatementEndTransactionResponse : AbstractTransactionResponse
@@ -18,16 +18,16 @@ public class CreditCardStatementEndTransactionResponse : AbstractTransactionResp
 
 | Имя | Описание |
 | --- | --- |
-| [CreditCardStatementEndTransactionResponse](creditcardstatementendtransactionresponse)() | Инициализирует новый экземпляр класса[`CreditCardStatementEndTransactionResponse`](../creditcardstatementendtransactionresponse). |
+| [CreditCardStatementEndTransactionResponse](creditcardstatementendtransactionresponse)() | Инициализирует новый экземпляр[`CreditCardStatementEndTransactionResponse`](../creditcardstatementendtransactionresponse) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [ClientCookie](../../aspose.finance.ofx/abstracttransactionresponse/clientcookie) { get; set; } | Получает или задает данные, которые будут отображаться в ответе транзакции |
-| [CreditCardStatementEndResponse](../../aspose.finance.ofx.creditcard/creditcardstatementendtransactionresponse/creditcardstatementendresponse) { get; set; } | Получает или задает[`CreditCardStatementEndResponse`](./creditcardstatementendresponse). |
-| [OfxExtension](../../aspose.finance.ofx.creditcard/creditcardstatementendtransactionresponse/ofxextension) { get; set; } | Получает или задает[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
-| [Status](../../aspose.finance.ofx/abstracttransactionresponse/status) { get; set; } | Получает или задает[`Status`](../../aspose.finance.ofx/abstracttransactionresponse/status). |
+| [ClientCookie](../../aspose.finance.ofx/abstracttransactionresponse/clientcookie) { get; set; } | Получает или задает данные, которые будут отражены в транзакции response |
+| [CreditCardStatementEndResponse](../../aspose.finance.ofx.creditcard/creditcardstatementendtransactionresponse/creditcardstatementendresponse) { get; set; } | Получает или задает[`CreditCardStatementEndResponse`](./creditcardstatementendresponse) . |
+| [OfxExtension](../../aspose.finance.ofx.creditcard/creditcardstatementendtransactionresponse/ofxextension) { get; set; } | Получает или задает[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype) . |
+| [Status](../../aspose.finance.ofx/abstracttransactionresponse/status) { get; set; } | Получает или задает[`Status`](../../aspose.finance.ofx/abstracttransactionresponse/status) . |
 | [TransactionUniqueId](../../aspose.finance.ofx/abstracttransactionresponse/transactionuniqueid) { get; set; } | Получает или задает назначенный клиентом глобальный уникальный идентификатор для этой транзакции. |
 
 ### Смотрите также

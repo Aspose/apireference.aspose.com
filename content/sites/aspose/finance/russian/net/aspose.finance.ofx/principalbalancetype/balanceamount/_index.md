@@ -1,14 +1,14 @@
 ---
 title: BalanceAmount
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает текущий остаток основного долга по кредиту
+description: Получает или задает текущий остаток основной суммы кредита
 type: docs
 weight: 20
 url: /ru/net/aspose.finance.ofx/principalbalancetype/balanceamount/
 ---
 ## PrincipalBalanceType.BalanceAmount property
 
-Получает или задает текущий остаток основного долга по кредиту
+Получает или задает текущий остаток основной суммы кредита
 
 ```csharp
 public string BalanceAmount { get; set; }

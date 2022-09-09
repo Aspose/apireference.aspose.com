@@ -18,15 +18,15 @@ public class PresentmentDlvProfile
 
 | 姓名 | 描述 |
 | --- | --- |
-| [PresentmentDlvProfile](presentmentdlvprofile)() | 初始化[`PresentmentDlvProfile`](../presentmentdlvprofile)类的新实例。 |
+| [PresentmentDlvProfile](presentmentdlvprofile)() | 初始化一个新的实例[`PresentmentDlvProfile`](../presentmentdlvprofile)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [CanSupportGroupId](../../aspose.finance.ofx.profile/presentmentdlvprofile/cansupportgroupid) { get; set; } | 获取或设置是否支持一组用户的帐号信息请求。 |
+| [CanSupportGroupId](../../aspose.finance.ofx.profile/presentmentdlvprofile/cansupportgroupid) { get; set; } | 获取或设置是否支持一组用户的账号信息请求。 |
 | [CanSupportImages](../../aspose.finance.ofx.profile/presentmentdlvprofile/cansupportimages) { get; set; } | 获取或设置是否支持将图像作为多部分 MIME 传递。 |
-| [CanUpdatePresentmentNameAddress](../../aspose.finance.ofx.profile/presentmentdlvprofile/canupdatepresentmentnameaddress) { get; set; } | 获取或设置是否支持更新与特定账单关联的[`PresentmentNameAddress`](../../aspose.finance.ofx/presentmentnameaddress) |
+| [CanUpdatePresentmentNameAddress](../../aspose.finance.ofx.profile/presentmentdlvprofile/canupdatepresentmentnameaddress) { get; set; } | 获取或设置是否支持更新[`PresentmentNameAddress`](../../aspose.finance.ofx/presentmentnameaddress)与特定账单相关联， |
 | [ProcessingDaysOffs](../../aspose.finance.ofx.profile/presentmentdlvprofile/processingdaysoffs) { get; set; } | 获取或设置不进行处理的星期几。 |
 | [ProcessingEndTime](../../aspose.finance.ofx.profile/presentmentdlvprofile/processingendtime) { get; set; } | 获取或设置当天处理结束的时间。 |
 

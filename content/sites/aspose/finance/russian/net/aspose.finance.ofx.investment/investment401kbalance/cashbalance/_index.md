@@ -1,14 +1,14 @@
 ---
 title: CashBalance
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает доступный остаток денежных средств для учетной записи 401k.
+description: Получает или задает баланс денежных средств доступный для учетной записи 401k.
 type: docs
 weight: 40
 url: /ru/net/aspose.finance.ofx.investment/investment401kbalance/cashbalance/
 ---
 ## Investment401kBalance.CashBalance property
 
-Получает или задает доступный остаток денежных средств для учетной записи 401(k).
+Получает или задает баланс денежных средств, доступный для учетной записи 401(k).
 
 ```csharp
 public string CashBalance { get; set; }

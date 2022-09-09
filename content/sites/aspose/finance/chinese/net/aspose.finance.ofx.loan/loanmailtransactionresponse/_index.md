@@ -18,16 +18,16 @@ public class LoanMailTransactionResponse : AbstractTransactionResponse
 
 | 姓名 | 描述 |
 | --- | --- |
-| [LoanMailTransactionResponse](loanmailtransactionresponse)() | 初始化[`LoanMailTransactionResponse`](../loanmailtransactionresponse)类的新实例。 |
+| [LoanMailTransactionResponse](loanmailtransactionresponse)() | 初始化一个新的实例[`LoanMailTransactionResponse`](../loanmailtransactionresponse)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
 | [ClientCookie](../../aspose.finance.ofx/abstracttransactionresponse/clientcookie) { get; set; } | 获取或设置要在事务响应中回显的数据 |
-| [LoanMailResponse](../../aspose.finance.ofx.loan/loanmailtransactionresponse/loanmailresponse) { get; set; } | 获取或设置[`LoanMailResponse`](./loanmailresponse)。 |
-| [OfxExtension](../../aspose.finance.ofx.loan/loanmailtransactionresponse/ofxextension) { get; set; } | 获取或设置[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype)。 |
-| [Status](../../aspose.finance.ofx/abstracttransactionresponse/status) { get; set; } | 获取或设置[`Status`](../../aspose.finance.ofx/abstracttransactionresponse/status)。 |
+| [LoanMailResponse](../../aspose.finance.ofx.loan/loanmailtransactionresponse/loanmailresponse) { get; set; } | 获取或设置[`LoanMailResponse`](./loanmailresponse). |
+| [OfxExtension](../../aspose.finance.ofx.loan/loanmailtransactionresponse/ofxextension) { get; set; } | 获取或设置[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
+| [Status](../../aspose.finance.ofx/abstracttransactionresponse/status) { get; set; } | 获取或设置[`Status`](../../aspose.finance.ofx/abstracttransactionresponse/status). |
 | [TransactionUniqueId](../../aspose.finance.ofx/abstracttransactionresponse/transactionuniqueid) { get; set; } | 获取或设置此事务的客户端分配的全局唯一 ID。 |
 
 ### 也可以看看

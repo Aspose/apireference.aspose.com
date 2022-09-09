@@ -1,14 +1,14 @@
 ---
 title: BuyOther
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инвестиционная покупка другой класс сделки.
+description: Инвестиционная покупка другого класса транзакции.
 type: docs
 weight: 2710
 url: /ru/net/aspose.finance.ofx.investment/buyother/
 ---
 ## BuyOther class
 
-Инвестиционная покупка другой класс сделки.
+Инвестиционная покупка другого класса транзакции.
 
 ```csharp
 public class BuyOther : AbstractInvestmentBuyTransaction
@@ -18,13 +18,13 @@ public class BuyOther : AbstractInvestmentBuyTransaction
 
 | Имя | Описание |
 | --- | --- |
-| [BuyOther](buyother)() | Инициализирует новый экземпляр класса[`BuyOther`](../buyother). |
+| [BuyOther](buyother)() | Инициализирует новый экземпляр[`BuyOther`](../buyother) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [InvestmentBuy](../../aspose.finance.ofx.investment/abstractinvestmentbuytransaction/investmentbuy) { get; set; } | Получает или задает[`InvestmentBuy`](../abstractinvestmentbuytransaction/investmentbuy). |
+| [InvestmentBuy](../../aspose.finance.ofx.investment/abstractinvestmentbuytransaction/investmentbuy) { get; set; } | Получает или задает[`InvestmentBuy`](../abstractinvestmentbuytransaction/investmentbuy) . |
 
 ### Смотрите также
 

@@ -1,14 +1,14 @@
 ---
 title: InlineContinuation
 second_title: Aspose.Finance for .NET API 参考
-description: 此类用于继续内联 XBRL 文档
+description: 此类用于内联 XBRL 文档的延续
 type: docs
 weight: 7660
 url: /zh/net/aspose.finance.xbrl.inline/inlinecontinuation/
 ---
 ## InlineContinuation class
 
-此类用于继续内联 XBRL 文档。
+此类用于内联 XBRL 文档的延续。
 
 ```csharp
 public class InlineContinuation
@@ -18,9 +18,9 @@ public class InlineContinuation
 
 | 姓名 | 描述 |
 | --- | --- |
-| [ContinuedAt](../../aspose.finance.xbrl.inline/inlinecontinuation/continuedat) { get; set; } | 获取或设置[`InlineContinuation`](../inlinecontinuation)的延续引用 id。 |
-| [Id](../../aspose.finance.xbrl.inline/inlinecontinuation/id) { get; set; } | 获取或设置[`InlineContinuation`](../inlinecontinuation)的 id。 |
-| [Value](../../aspose.finance.xbrl.inline/inlinecontinuation/value) { get; set; } | 获取或设置[`InlineContinuation`](../inlinecontinuation)的值。 |
+| [ContinuedAt](../../aspose.finance.xbrl.inline/inlinecontinuation/continuedat) { get; set; } | 获取或设置[`InlineContinuation`](../inlinecontinuation). |
+| [Id](../../aspose.finance.xbrl.inline/inlinecontinuation/id) { get; set; } | 获取或设置 id[`InlineContinuation`](../inlinecontinuation). |
+| [Value](../../aspose.finance.xbrl.inline/inlinecontinuation/value) { get; set; } | 获取或设置[`InlineContinuation`](../inlinecontinuation). |
 
 ### 也可以看看
 

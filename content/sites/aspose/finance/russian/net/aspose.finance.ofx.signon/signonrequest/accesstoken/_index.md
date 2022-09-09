@@ -1,14 +1,14 @@
 ---
 title: AccessToken
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает внешний токен который будет использоваться для проверки подлинности.
+description: Получает или задает внешний токен который будет использоваться для аутентификации.
 type: docs
 weight: 30
 url: /ru/net/aspose.finance.ofx.signon/signonrequest/accesstoken/
 ---
 ## SignonRequest.AccessToken property
 
-Получает или задает внешний токен, который будет использоваться для проверки подлинности.
+Получает или задает внешний токен, который будет использоваться для аутентификации.
 
 ```csharp
 public string AccessToken { get; set; }

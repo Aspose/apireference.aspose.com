@@ -1,14 +1,14 @@
 ---
 title: PeriodToDate
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置期间的截止日期
+description: 获取或设置期间的贡献日期
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.ofx.investment/investment401ksummary/periodtodate/
 ---
 ## Investment401kSummary.PeriodToDate property
 
-获取或设置期间的截止日期。
+获取或设置期间的贡献日期。
 
 ```csharp
 public PeriodToDate PeriodToDate { get; set; }

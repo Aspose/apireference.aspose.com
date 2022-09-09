@@ -1,14 +1,14 @@
 ---
 title: DayPhone
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает номер телефона для дневного времени.
+description: Получает или устанавливает номер телефона в дневное время.
 type: docs
 weight: 70
 url: /ru/net/aspose.finance.ofx.signup/changeuserinforequest/dayphone/
 ---
 ## ChangeUserInfoRequest.DayPhone property
 
-Получает или задает номер телефона для дневного времени.
+Получает или устанавливает номер телефона в дневное время.
 
 ```csharp
 public string DayPhone { get; set; }

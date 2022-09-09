@@ -18,21 +18,21 @@ public class InvestmentPosition
 
 | 姓名 | 描述 |
 | --- | --- |
-| [InvestmentPosition](investmentposition)() | 初始化[`InvestmentPosition`](../investmentposition)类的新实例。 |
+| [InvestmentPosition](investmentposition)() | 初始化一个新的实例[`InvestmentPosition`](../investmentposition)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
 | [AverageCostBasis](../../aspose.finance.ofx.investment/investmentposition/averagecostbasis) { get; set; } | 获取或设置该职位的平均成本基础。 |
-| [Currency](../../aspose.finance.ofx.investment/investmentposition/currency) { get; set; } | 获取或设置[`Currency`](./currency)。 |
-| [DatePriceAsOf](../../aspose.finance.ofx.investment/investmentposition/datepriceasof) { get; set; } | 获取或设置单价、市值、成本基准的日期时间。 |
-| [HeldinAccount](../../aspose.finance.ofx.investment/investmentposition/heldinaccount) { get; set; } | 获取或设置子账号类型。 |
-| [Investment401kSource](../../aspose.finance.ofx.investment/investmentposition/investment401ksource) { get; set; } | 获取或设置此仓位中此证券的资金来源。 |
+| [Currency](../../aspose.finance.ofx.investment/investmentposition/currency) { get; set; } | 获取或设置[`Currency`](./currency). |
+| [DatePriceAsOf](../../aspose.finance.ofx.investment/investmentposition/datepriceasof) { get; set; } | 获取或设置单价和市值的日期和时间，以及成本基准。 |
+| [HeldinAccount](../../aspose.finance.ofx.investment/investmentposition/heldinaccount) { get; set; } | 获取或设置子账号类型 |
+| [Investment401kSource](../../aspose.finance.ofx.investment/investmentposition/investment401ksource) { get; set; } | 获取或设置此仓位中该证券的资金来源。 |
 | [MarketValue](../../aspose.finance.ofx.investment/investmentposition/marketvalue) { get; set; } | 获取或设置该仓位的市值。 |
 | [Memo](../../aspose.finance.ofx.investment/investmentposition/memo) { get; set; } | 获取或设置评论。 |
-| [PositionType](../../aspose.finance.ofx.investment/investmentposition/positiontype) { get; set; } | 获取或设置位置类型。 |
-| [SecurityId](../../aspose.finance.ofx.investment/investmentposition/securityid) { get; set; } | 获取或设置[`SecurityId`](./securityid)。 |
+| [PositionType](../../aspose.finance.ofx.investment/investmentposition/positiontype) { get; set; } | 获取或设置仓位类型。 |
+| [SecurityId](../../aspose.finance.ofx.investment/investmentposition/securityid) { get; set; } | 获取或设置[`SecurityId`](./securityid). |
 | [UnitPrice](../../aspose.finance.ofx.investment/investmentposition/unitprice) { get; set; } | 获取或设置单价。 |
 | [Units](../../aspose.finance.ofx.investment/investmentposition/units) { get; set; } | 获取或设置单位。 |
 

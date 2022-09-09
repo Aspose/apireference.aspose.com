@@ -1,14 +1,14 @@
 ---
 title: StateCode2
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает почтовое сокращение подоходного налога второго штата строка 2.
+description: Получает или задает сокращенное почтовое обозначение подоходного налога второго штата строка 2.
 type: docs
 weight: 170
 url: /ru/net/aspose.finance.ofx.tax1099/proceeddescription_v100/statecode2/
 ---
 ## ProceedDescription_V100.StateCode2 property
 
-Получает или задает почтовое сокращение подоходного налога второго штата, строка 2.
+Получает или задает сокращенное почтовое обозначение подоходного налога второго штата, строка 2.
 
 ```csharp
 public string StateCode2 { get; set; }

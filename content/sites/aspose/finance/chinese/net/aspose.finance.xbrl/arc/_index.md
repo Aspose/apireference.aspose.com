@@ -1,14 +1,14 @@
 ---
 title: Arc
 second_title: Aspose.Finance for .NET API 参考
-description: Arc 类型的 Xlink 的基本抽象类
+description: Xlink 的 Arc 类型的抽象基类
 type: docs
 weight: 6460
 url: /zh/net/aspose.finance.xbrl/arc/
 ---
 ## Arc class
 
-Arc 类型的 Xlink 的基本抽象类。
+Xlink 的 Arc 类型的抽象基类。
 
 ```csharp
 public abstract class Arc : Xlink
@@ -18,22 +18,22 @@ public abstract class Arc : Xlink
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Arc](arc)() | 初始化[`Arc`](../arc)类的新实例。 |
+| [Arc](arc)() | 初始化一个新的实例[`Arc`](../arc)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
 | [Actuate](../../aspose.finance.xbrl/arc/actuate) { get; set; } | 获取或设置圆弧的驱动。 |
-| [Arcrole](../../aspose.finance.xbrl/arc/arcrole) { get; set; } | 获取或设置圆弧的圆弧。 |
-| [From](../../aspose.finance.xbrl/arc/from) { get; set; } | 获取或设置弧的起点标签。 |
-| [Order](../../aspose.finance.xbrl/arc/order) { get; set; } | 获取或设置弧的顺序。 |
+| [Arcrole](../../aspose.finance.xbrl/arc/arcrole) { get; set; } | 获取或设置弧的弧线。 |
+| [From](../../aspose.finance.xbrl/arc/from) { get; set; } | 获取或设置圆弧的起始标签。 |
+| [Order](../../aspose.finance.xbrl/arc/order) { get; set; } | 获取或设置圆弧的顺序。 |
 | [Priority](../../aspose.finance.xbrl/arc/priority) { get; set; } | 获取或设置圆弧的优先级。 |
 | [Show](../../aspose.finance.xbrl/arc/show) { get; set; } | 获取或设置弧的显示。 |
 | [Title](../../aspose.finance.xbrl/arc/title) { get; set; } | 获取或设置弧的标题。 |
 | [To](../../aspose.finance.xbrl/arc/to) { get; set; } | 获取或设置圆弧的 to 标签。 |
 | [Type](../../aspose.finance.xbrl/xlink/type) { get; } | 获取链接类型。 |
-| [Use](../../aspose.finance.xbrl/arc/use) { get; set; } | 获取或设置圆弧的使用。 |
+| [Use](../../aspose.finance.xbrl/arc/use) { get; set; } | 获取或设置圆弧使用的圆弧。 |
 
 ### 也可以看看
 

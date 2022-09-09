@@ -16,7 +16,7 @@ public virtual void AppendData(string data)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| value | String | Данные содержимого. |
+| value | String | Данные контента. |
 
 ### Смотрите также
 

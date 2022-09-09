@@ -1,14 +1,14 @@
 ---
 title: BasisNotShown
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает не показанное основание.
+description: Получает или задает не показанную основу.
 type: docs
 weight: 30
 url: /ru/net/aspose.finance.ofx.tax1099/proceeddescription_v100/basisnotshown/
 ---
 ## ProceedDescription_V100.BasisNotShown property
 
-Получает или задает не показанное основание.
+Получает или задает не показанную основу.
 
 ```csharp
 public bool BasisNotShown { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: ChangeUserInfoTransactionResponse
 second_title: Справочник по API Aspose.Finance для .NET
-description: Изменить класс ответа транзакции с информацией о пользователе.
+description: Изменить класс ответа на транзакцию с информацией о пользователе.
 type: docs
 weight: 5590
 url: /ru/net/aspose.finance.ofx.signup/changeuserinfotransactionresponse/
 ---
 ## ChangeUserInfoTransactionResponse class
 
-Изменить класс ответа транзакции с информацией о пользователе.
+Изменить класс ответа на транзакцию с информацией о пользователе.
 
 ```csharp
 public class ChangeUserInfoTransactionResponse : AbstractTransactionResponse
@@ -18,16 +18,16 @@ public class ChangeUserInfoTransactionResponse : AbstractTransactionResponse
 
 | Имя | Описание |
 | --- | --- |
-| [ChangeUserInfoTransactionResponse](changeuserinfotransactionresponse)() | Инициализирует новый экземпляр класса[`ChangeUserInfoTransactionResponse`](../changeuserinfotransactionresponse). |
+| [ChangeUserInfoTransactionResponse](changeuserinfotransactionresponse)() | Инициализирует новый экземпляр[`ChangeUserInfoTransactionResponse`](../changeuserinfotransactionresponse) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [ChangeUserInfoResponse](../../aspose.finance.ofx.signup/changeuserinfotransactionresponse/changeuserinforesponse) { get; set; } | Получает или задает[`ChangeUserInfoResponse`](./changeuserinforesponse). |
-| [ClientCookie](../../aspose.finance.ofx/abstracttransactionresponse/clientcookie) { get; set; } | Получает или задает данные, которые будут отображаться в ответе транзакции |
-| [OfxExtension](../../aspose.finance.ofx.signup/changeuserinfotransactionresponse/ofxextension) { get; set; } | Получает или задает[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
-| [Status](../../aspose.finance.ofx/abstracttransactionresponse/status) { get; set; } | Получает или задает[`Status`](../../aspose.finance.ofx/abstracttransactionresponse/status). |
+| [ChangeUserInfoResponse](../../aspose.finance.ofx.signup/changeuserinfotransactionresponse/changeuserinforesponse) { get; set; } | Получает или задает[`ChangeUserInfoResponse`](./changeuserinforesponse) . |
+| [ClientCookie](../../aspose.finance.ofx/abstracttransactionresponse/clientcookie) { get; set; } | Получает или задает данные, которые будут отражены в транзакции response |
+| [OfxExtension](../../aspose.finance.ofx.signup/changeuserinfotransactionresponse/ofxextension) { get; set; } | Получает или задает[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype) . |
+| [Status](../../aspose.finance.ofx/abstracttransactionresponse/status) { get; set; } | Получает или задает[`Status`](../../aspose.finance.ofx/abstracttransactionresponse/status) . |
 | [TransactionUniqueId](../../aspose.finance.ofx/abstracttransactionresponse/transactionuniqueid) { get; set; } | Получает или задает назначенный клиентом глобальный уникальный идентификатор для этой транзакции. |
 
 ### Смотрите также

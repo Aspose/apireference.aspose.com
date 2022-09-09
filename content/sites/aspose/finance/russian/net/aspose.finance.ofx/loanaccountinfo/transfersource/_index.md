@@ -1,14 +1,14 @@
 ---
 title: TransferSource
 second_title: Справочник по API Aspose.Finance для .NET
-description: Если аккаунт включен в качестве источника для внутрибанковского или межбанковского перевода да иначе нет.
+description: Если счет включен как источник внутрибанковского или межбанковского перевода да иначе нет.
 type: docs
 weight: 190
 url: /ru/net/aspose.finance.ofx/loanaccountinfo/transfersource/
 ---
 ## LoanAccountInfo.TransferSource property
 
-Если аккаунт включен в качестве источника для внутрибанковского или межбанковского перевода, да, иначе нет.
+Если счет включен как источник внутрибанковского или межбанковского перевода, да, иначе нет.
 
 ```csharp
 public bool TransferSource { get; set; }

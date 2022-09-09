@@ -1,14 +1,14 @@
 ---
 title: MFAPhraseLabel
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置文本挑战问题这应该尽可能适合向用户显示
+description: 获取或设置文本质询问题这应该尽可能适合向用户显示
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.ofx.signon/mfachallenge/mfaphraselabel/
 ---
 ## MFAChallenge.MFAPhraseLabel property
 
-获取或设置文本挑战问题。这应该尽可能适合向用户显示。
+获取或设置文本质询问题。这应该尽可能适合向用户显示。
 
 ```csharp
 public string MFAPhraseLabel { get; set; }

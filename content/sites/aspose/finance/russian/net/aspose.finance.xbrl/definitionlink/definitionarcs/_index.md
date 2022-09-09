@@ -1,14 +1,14 @@
 ---
 title: DefinitionArcs
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает коллекциюDefinitionArcaspose.finance.xbrl/definitionarc.
+description: Получает коллекциюDefinitionArcaspose.finance.xbrl/definitionarc .
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.xbrl/definitionlink/definitionarcs/
 ---
 ## DefinitionLink.DefinitionArcs property
 
-Получает коллекцию[`DefinitionArc`](../../definitionarc).
+Получает коллекцию[`DefinitionArc`](../../definitionarc) .
 
 ```csharp
 public List<DefinitionArc> DefinitionArcs { get; }

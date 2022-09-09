@@ -18,7 +18,7 @@ public class PaymentInquiryRequest
 
 | Имя | Описание |
 | --- | --- |
-| [PaymentInquiryRequest](paymentinquiryrequest)() | Инициализирует новый экземпляр класса[`PaymentInquiryRequest`](../paymentinquiryrequest). |
+| [PaymentInquiryRequest](paymentinquiryrequest)() | Инициализирует новый экземпляр[`PaymentInquiryRequest`](../paymentinquiryrequest) класс. |
 
 ## Характеристики
 

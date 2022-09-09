@@ -1,14 +1,14 @@
 ---
 title: RecipientAccount
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает номер учетной записи получателя.
+description: Получает или задает номер счета получателя.
 type: docs
 weight: 110
 url: /ru/net/aspose.finance.ofx.tax1099/tax1099b_v100/recipientaccount/
 ---
 ## Tax1099B_V100.RecipientAccount property
 
-Получает или задает номер учетной записи получателя.
+Получает или задает номер счета получателя.
 
 ```csharp
 public string RecipientAccount { get; set; }

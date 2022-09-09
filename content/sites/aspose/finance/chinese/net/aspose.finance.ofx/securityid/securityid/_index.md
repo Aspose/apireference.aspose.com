@@ -1,14 +1,14 @@
 ---
 title: SecurityId
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化SecurityIdaspose.finance.ofx/securityid类的新实例
+description: 初始化一个新的实例SecurityIdaspose.finance.ofx/securityid类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx/securityid/securityid/
 ---
 ## SecurityId constructor
 
-初始化[`SecurityId`](../../securityid)类的新实例。
+初始化一个新的实例[`SecurityId`](../../securityid)类.
 
 ```csharp
 public SecurityId()

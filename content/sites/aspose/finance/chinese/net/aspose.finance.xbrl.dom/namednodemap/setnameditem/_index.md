@@ -1,14 +1,14 @@
 ---
 title: SetNamedItem
 second_title: Aspose.Finance for .NET API 参考
-description: 使用节点名称属性添加节点如果此映射中已存在具有该名称的节点则将其替换为新节点自行替换节点无效
+description: 使用其 nodeName 属性添加一个节点如果此映射中已存在具有该名称的节点则将其替换为新节点自行替换节点无效
 type: docs
 weight: 80
 url: /zh/net/aspose.finance.xbrl.dom/namednodemap/setnameditem/
 ---
 ## NamedNodeMap.SetNamedItem method
 
-使用节点名称属性添加节点。如果此映射中已存在具有该名称的节点，则将其替换为新节点。自行替换节点无效。
+使用其 nodeName 属性添加一个节点。如果此映射中已存在具有该名称的节点，则将其替换为新节点。自行替换节点无效。
 
 ```csharp
 public Attr SetNamedItem(Attr item)

@@ -1,14 +1,14 @@
 ---
 title: FactValidationError
 second_title: Aspose.Finance for .NET API 参考
-description: 此类用于事实验证相关错误
+description: 此类用于事实验证相关的错误
 type: docs
 weight: 8100
 url: /zh/net/aspose.finance.xbrl.validator/factvalidationerror/
 ---
 ## FactValidationError class
 
-此类用于事实验证相关错误。
+此类用于事实验证相关的错误。
 
 ```csharp
 public class FactValidationError : ValidationError
@@ -19,8 +19,8 @@ public class FactValidationError : ValidationError
 | 姓名 | 描述 |
 | --- | --- |
 | [Code](../../aspose.finance.xbrl.validator/validationerror/code) { get; } | 获取验证错误代码。 |
-| [Message](../../aspose.finance.xbrl.validator/validationerror/message) { get; } | 获取错误消息。 |
-| [Object](../../aspose.finance.xbrl.validator/factvalidationerror/object) { get; } | 获取有验证错误的[`Fact`](../../aspose.finance.xbrl/fact)对象。 |
+| [Message](../../aspose.finance.xbrl.validator/validationerror/message) { get; } | 获取错误信息。 |
+| [Object](../../aspose.finance.xbrl.validator/factvalidationerror/object) { get; } | 获取[`Fact`](../../aspose.finance.xbrl/fact)有验证错误的对象。 |
 
 ### 也可以看看
 

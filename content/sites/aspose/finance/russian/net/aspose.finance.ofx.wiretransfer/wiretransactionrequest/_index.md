@@ -18,15 +18,15 @@ public class WireTransactionRequest : AbstractTransactionRequest
 
 | Имя | Описание |
 | --- | --- |
-| [WireTransactionRequest](wiretransactionrequest)() | Инициализирует новый экземпляр класса[`WireTransactionRequest`](../wiretransactionrequest). |
+| [WireTransactionRequest](wiretransactionrequest)() | Инициализирует новый экземпляр[`WireTransactionRequest`](../wiretransactionrequest) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [ClientCookie](../../aspose.finance.ofx/abstracttransactionrequest/clientcookie) { get; set; } | Получает или задает данные, которые будут отображаться в ответе транзакции |
-| [OfxExtension](../../aspose.finance.ofx.wiretransfer/wiretransactionrequest/ofxextension) { get; set; } | Получает или задает[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
-| [Request](../../aspose.finance.ofx.wiretransfer/wiretransactionrequest/request) { get; set; } | Получает или задает[`WireRequest`](../wirerequest)или[`WireCancellationRequest`](../wirecancellationrequest). |
+| [ClientCookie](../../aspose.finance.ofx/abstracttransactionrequest/clientcookie) { get; set; } | Получает или задает данные, которые будут отражены в транзакции response |
+| [OfxExtension](../../aspose.finance.ofx.wiretransfer/wiretransactionrequest/ofxextension) { get; set; } | Получает или задает[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype) . |
+| [Request](../../aspose.finance.ofx.wiretransfer/wiretransactionrequest/request) { get; set; } | Получает или задает[`WireRequest`](../wirerequest) или же[`WireCancellationRequest`](../wirecancellationrequest) . |
 | [TransactionAuthorizationNumber](../../aspose.finance.ofx/abstracttransactionrequest/transactionauthorizationnumber) { get; set; } | Получает или задает номер авторизации транзакции. |
 | [TransactionUniqueId](../../aspose.finance.ofx/abstracttransactionrequest/transactionuniqueid) { get; set; } | Получает или задает назначенный клиентом глобальный уникальный идентификатор для этой транзакции |
 

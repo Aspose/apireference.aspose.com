@@ -1,14 +1,14 @@
 ---
 title: AccountHolderType
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаAccountHolderTypeaspose.finance.ofx/accountholdertype.
+description: Инициализирует новый экземплярAccountHolderTypeaspose.finance.ofx/accountholdertype класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx/accountholdertype/accountholdertype/
 ---
 ## AccountHolderType constructor
 
-Инициализирует новый экземпляр класса[`AccountHolderType`](../../accountholdertype).
+Инициализирует новый экземпляр[`AccountHolderType`](../../accountholdertype) класс.
 
 ```csharp
 public AccountHolderType()

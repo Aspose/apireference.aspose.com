@@ -18,19 +18,19 @@ public class Contributions
 
 | Имя | Описание |
 | --- | --- |
-| [Contributions](contributions)() | Инициализирует новый экземпляр класса[`Contributions`](../contributions). |
+| [Contributions](contributions)() | Инициализирует новый экземпляр[`Contributions`](../contributions) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [AfterTax](../../aspose.finance.ofx.investment/contributions/aftertax) { get; set; } | Получает или задает взнос после уплаты налогов. |
-| [Match](../../aspose.finance.ofx.investment/contributions/match) { get; set; } | Получает или задает соответствующий взнос работодателя. |
+| [AfterTax](../../aspose.finance.ofx.investment/contributions/aftertax) { get; set; } | Получает или задает вклад после уплаты налогов. |
+| [Match](../../aspose.finance.ofx.investment/contributions/match) { get; set; } | Получает или задает соответствующий вклад работодателя. |
 | [OtherNonvest](../../aspose.finance.ofx.investment/contributions/othernonvest) { get; set; } | Получает или задает другие взносы, не связанные с передачей прав. |
 | [OtherVest](../../aspose.finance.ofx.investment/contributions/othervest) { get; set; } | Получает или задает другие взносы с передачей прав. |
 | [PreTax](../../aspose.finance.ofx.investment/contributions/pretax) { get; set; } | Получает или задает взнос до налогообложения. |
 | [ProfitSharing](../../aspose.finance.ofx.investment/contributions/profitsharing) { get; set; } | Получает или задает долю участия в прибылях. |
-| [Rollover](../../aspose.finance.ofx.investment/contributions/rollover) { get; set; } | Получает или задает взнос при переносе. |
+| [Rollover](../../aspose.finance.ofx.investment/contributions/rollover) { get; set; } | Получает или задает вклад при пролонгации. |
 | [Total](../../aspose.finance.ofx.investment/contributions/total) { get; set; } | Получает или задает сумму взносов из всех источников финансирования. |
 
 ### Смотрите также

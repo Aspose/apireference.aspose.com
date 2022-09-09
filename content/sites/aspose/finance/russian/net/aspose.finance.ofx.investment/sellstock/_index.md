@@ -1,14 +1,14 @@
 ---
 title: SellStock
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инвестиционный класс акций.
+description: Инвестиционная продажа класса акций.
 type: docs
 weight: 3530
 url: /ru/net/aspose.finance.ofx.investment/sellstock/
 ---
 ## SellStock class
 
-Инвестиционный класс акций.
+Инвестиционная продажа класса акций.
 
 ```csharp
 public class SellStock : AbstractInvestmentSellTransaction
@@ -18,13 +18,13 @@ public class SellStock : AbstractInvestmentSellTransaction
 
 | Имя | Описание |
 | --- | --- |
-| [SellStock](sellstock)() | Инициализирует новый экземпляр класса[`SellStock`](../sellstock). |
+| [SellStock](sellstock)() | Инициализирует новый экземпляр[`SellStock`](../sellstock) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [InvestmentSell](../../aspose.finance.ofx.investment/abstractinvestmentselltransaction/investmentsell) { get; set; } | Получает или задает[`InvestmentSell`](../abstractinvestmentselltransaction/investmentsell). |
+| [InvestmentSell](../../aspose.finance.ofx.investment/abstractinvestmentselltransaction/investmentsell) { get; set; } | Получает или задает[`InvestmentSell`](../abstractinvestmentselltransaction/investmentsell) . |
 | [SellType](../../aspose.finance.ofx.investment/sellstock/selltype) { get; set; } | Получает или задает тип продажи. |
 
 ### Смотрите также

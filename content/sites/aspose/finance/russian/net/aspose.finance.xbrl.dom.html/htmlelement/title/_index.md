@@ -1,14 +1,14 @@
 ---
 title: Title
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает информационный заголовок элемента. См. определение атрибута title в HTML 4.01.
+description: Получает или задает рекомендательный заголовок элемента. См. определение атрибута title в HTML 4.01.
 type: docs
 weight: 50
 url: /ru/net/aspose.finance.xbrl.dom.html/htmlelement/title/
 ---
 ## HTMLElement.Title property
 
-Получает или задает информационный заголовок элемента. См. определение атрибута title в HTML 4.01.
+Получает или задает рекомендательный заголовок элемента. См. определение атрибута title в HTML 4.01.
 
 ```csharp
 public string Title { get; set; }

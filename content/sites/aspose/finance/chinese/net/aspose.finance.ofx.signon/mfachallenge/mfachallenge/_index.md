@@ -1,14 +1,14 @@
 ---
 title: MFAChallenge
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化MFAChallengeaspose.finance.ofx.signon/mfachallenge类的新实例
+description: 初始化一个新的实例MFAChallengeaspose.finance.ofx.signon/mfachallenge类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.signon/mfachallenge/mfachallenge/
 ---
 ## MFAChallenge constructor
 
-初始化[`MFAChallenge`](../../mfachallenge)类的新实例。
+初始化一个新的实例[`MFAChallenge`](../../mfachallenge)类.
 
 ```csharp
 public MFAChallenge()

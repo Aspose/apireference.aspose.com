@@ -1,14 +1,14 @@
 ---
 title: ClientEnroll
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置ClientEnrollaspose.finance.ofx.profile/signupmessagesetv1/clientenroll
+description: 获取或设置ClientEnrollaspose.finance.ofx.profile/signupmessagesetv1/clientenroll.
 type: docs
 weight: 50
 url: /zh/net/aspose.finance.ofx.profile/signupmessagesetv1/clientenroll/
 ---
 ## SignupMessageSetV1.ClientEnroll property
 
-获取或设置`ClientEnroll`。
+获取或设置`ClientEnroll`.
 
 ```csharp
 public ClientEnroll ClientEnroll { get; set; }

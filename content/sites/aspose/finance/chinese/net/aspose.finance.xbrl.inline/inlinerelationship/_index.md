@@ -18,11 +18,11 @@ public class InlineRelationship
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Arcrole](../../aspose.finance.xbrl.inline/inlinerelationship/arcrole) { get; set; } | 获取或设置[`InlineRelationship`](../inlinerelationship)的 arcrole。 |
-| [FromRefsId](../../aspose.finance.xbrl.inline/inlinerelationship/fromrefsid) { get; set; } | 获取或设置[`InlineRelationship`](../inlinerelationship)的参考 ID。 |
-| [LinkRole](../../aspose.finance.xbrl.inline/inlinerelationship/linkrole) { get; set; } | 获取或设置[`InlineRelationship`](../inlinerelationship)的链接角色。 |
-| [Order](../../aspose.finance.xbrl.inline/inlinerelationship/order) { get; set; } | 获取或设置[`InlineRelationship`](../inlinerelationship)的顺序。 |
-| [ToRefsId](../../aspose.finance.xbrl.inline/inlinerelationship/torefsid) { get; set; } | 获取或设置[`InlineRelationship`](../inlinerelationship)的引用 ID。 |
+| [Arcrole](../../aspose.finance.xbrl.inline/inlinerelationship/arcrole) { get; set; } | 获取或设置[`InlineRelationship`](../inlinerelationship). |
+| [FromRefsId](../../aspose.finance.xbrl.inline/inlinerelationship/fromrefsid) { get; set; } | 获取或设置[`InlineRelationship`](../inlinerelationship). |
+| [LinkRole](../../aspose.finance.xbrl.inline/inlinerelationship/linkrole) { get; set; } | 获取或设置链接角色[`InlineRelationship`](../inlinerelationship). |
+| [Order](../../aspose.finance.xbrl.inline/inlinerelationship/order) { get; set; } | 获取或设置的顺序[`InlineRelationship`](../inlinerelationship). |
+| [ToRefsId](../../aspose.finance.xbrl.inline/inlinerelationship/torefsid) { get; set; } | 获取或设置[`InlineRelationship`](../inlinerelationship). |
 
 ### 也可以看看
 

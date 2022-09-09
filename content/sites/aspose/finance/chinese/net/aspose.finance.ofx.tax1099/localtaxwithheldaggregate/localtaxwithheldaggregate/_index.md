@@ -1,14 +1,14 @@
 ---
 title: LocalTaxWithheldAggregate
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化LocalTaxWithheldAggregateaspose.finance.ofx.tax1099/localtaxwithheldaggregate类的新实例
+description: 初始化一个新的实例LocalTaxWithheldAggregateaspose.finance.ofx.tax1099/localtaxwithheldaggregate类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.tax1099/localtaxwithheldaggregate/localtaxwithheldaggregate/
 ---
 ## LocalTaxWithheldAggregate constructor
 
-初始化[`LocalTaxWithheldAggregate`](../../localtaxwithheldaggregate)类的新实例。
+初始化一个新的实例[`LocalTaxWithheldAggregate`](../../localtaxwithheldaggregate)类.
 
 ```csharp
 public LocalTaxWithheldAggregate()

@@ -1,14 +1,14 @@
 ---
 title: ClosingImageAvailable
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置服务器是否支持关闭语句图像
+description: 获取或设置服务器是否支持关闭语句图片
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.ofx.profile/imageprofile/closingimageavailable/
 ---
 ## ImageProfile.ClosingImageAvailable property
 
-获取或设置服务器是否支持关闭语句图像。
+获取或设置服务器是否支持关闭语句图片
 
 ```csharp
 public bool ClosingImageAvailable { get; set; }

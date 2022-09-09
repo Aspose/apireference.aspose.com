@@ -1,14 +1,14 @@
 ---
 title: Response
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置PaymentResponseaspose.finance.ofx.billpay/paymentresponse或PaymentModResponseaspose.finance.ofx.billpay/paymentmodresponse或PaymentCancelResponseaspose.finance.ofx.billpay/paymentcancelresponse
+description: 获取或设置PaymentResponseaspose.finance.ofx.billpay/paymentresponse或者PaymentModResponseaspose.finance.ofx.billpay/paymentmodresponse或者PaymentCancelResponseaspose.finance.ofx.billpay/paymentcancelresponse.
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.ofx.billpay/paymenttransactionresponse/response/
 ---
 ## PaymentTransactionResponse.Response property
 
-获取或设置[`PaymentResponse`](../../paymentresponse)或[`PaymentModResponse`](../../paymentmodresponse)或[`PaymentCancelResponse`](../../paymentcancelresponse)。
+获取或设置[`PaymentResponse`](../../paymentresponse)或者[`PaymentModResponse`](../../paymentmodresponse)或者[`PaymentCancelResponse`](../../paymentcancelresponse).
 
 ```csharp
 public AbstractPaymentResponse Response { get; set; }

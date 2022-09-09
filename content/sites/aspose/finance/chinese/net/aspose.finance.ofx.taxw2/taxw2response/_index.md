@@ -1,14 +1,14 @@
 ---
 title: TaxW2Response
 second_title: Aspose.Finance for .NET API 参考
-description: Tax W2 响应类
+description: 税务 W2 响应类
 type: docs
 weight: 6190
 url: /zh/net/aspose.finance.ofx.taxw2/taxw2response/
 ---
 ## TaxW2Response class
 
-Tax W2 响应类。
+税务 W2 响应类。
 
 ```csharp
 public class TaxW2Response
@@ -18,14 +18,14 @@ public class TaxW2Response
 
 | 姓名 | 描述 |
 | --- | --- |
-| [TaxW2Response](taxw2response)() | 初始化[`TaxW2Response`](../taxw2response)类的新实例。 |
+| [TaxW2Response](taxw2response)() | 初始化一个新的实例[`TaxW2Response`](../taxw2response)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [SSN](../../aspose.finance.ofx.taxw2/taxw2response/ssn) { get; set; } | 获取或设置员工的社会保险号。 |
-| [TAXW2s](../../aspose.finance.ofx.taxw2/taxw2response/taxw2s) { get; set; } | 获取或设置[`TaxW2_V100`](../taxw2_v100)或TaxW2_V200的集合。 |
+| [SSN](../../aspose.finance.ofx.taxw2/taxw2response/ssn) { get; set; } | 获取或设置员工的社会安全号码。 |
+| [TAXW2s](../../aspose.finance.ofx.taxw2/taxw2response/taxw2s) { get; set; } | 获取或设置的集合[`TaxW2_V100`](../taxw2_v100)或者[`TaxW2_V200`](../taxw2_v200). |
 
 ### 也可以看看
 

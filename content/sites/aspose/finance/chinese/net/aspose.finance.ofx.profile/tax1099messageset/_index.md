@@ -18,13 +18,13 @@ public class Tax1099MessageSet : AbstractMessageSet
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Tax1099MessageSet](tax1099messageset)() | 初始化[`Tax1099MessageSet`](../tax1099messageset)类的新实例。 |
+| [Tax1099MessageSet](tax1099messageset)() | 初始化一个新的实例[`Tax1099MessageSet`](../tax1099messageset)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Tax1099MessageSetV1](../../aspose.finance.ofx.profile/tax1099messageset/tax1099messagesetv1) { get; set; } | 获取或设置[`Tax1099MessageSetV1`](./tax1099messagesetv1)。 |
+| [Tax1099MessageSetV1](../../aspose.finance.ofx.profile/tax1099messageset/tax1099messagesetv1) { get; set; } | 获取或设置[`Tax1099MessageSetV1`](./tax1099messagesetv1). |
 
 ### 也可以看看
 

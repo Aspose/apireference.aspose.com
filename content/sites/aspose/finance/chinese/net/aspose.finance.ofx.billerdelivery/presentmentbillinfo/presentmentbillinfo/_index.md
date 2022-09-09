@@ -1,14 +1,14 @@
 ---
 title: PresentmentBillInfo
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化PresentmentBillInfoaspose.finance.ofx.billerdelivery/presentmentbillinfo类的新实例
+description: 初始化一个新的实例PresentmentBillInfoaspose.finance.ofx.billerdelivery/presentmentbillinfo类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.billerdelivery/presentmentbillinfo/presentmentbillinfo/
 ---
 ## PresentmentBillInfo constructor
 
-初始化[`PresentmentBillInfo`](../../presentmentbillinfo)类的新实例。
+初始化一个新的实例[`PresentmentBillInfo`](../../presentmentbillinfo)类.
 
 ```csharp
 public PresentmentBillInfo()

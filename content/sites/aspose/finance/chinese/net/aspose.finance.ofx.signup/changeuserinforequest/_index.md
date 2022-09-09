@@ -1,14 +1,14 @@
 ---
 title: ChangeUserInfoRequest
 second_title: Aspose.Finance for .NET API 参考
-description: 更改用户信息请求类别
+description: 更改用户信息请求类
 type: docs
 weight: 5540
 url: /zh/net/aspose.finance.ofx.signup/changeuserinforequest/
 ---
 ## ChangeUserInfoRequest class
 
-更改用户信息请求类别。
+更改用户信息请求类。
 
 ```csharp
 public class ChangeUserInfoRequest
@@ -18,17 +18,17 @@ public class ChangeUserInfoRequest
 
 | 姓名 | 描述 |
 | --- | --- |
-| [ChangeUserInfoRequest](changeuserinforequest)() | 初始化[`ChangeUserInfoRequest`](../changeuserinforequest)类的新实例。 |
+| [ChangeUserInfoRequest](changeuserinforequest)() | 初始化一个新的实例[`ChangeUserInfoRequest`](../changeuserinforequest)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Address1](../../aspose.finance.ofx.signup/changeuserinforequest/address1) { get; set; } | 获取或设置地址行 1。 |
-| [Address2](../../aspose.finance.ofx.signup/changeuserinforequest/address2) { get; set; } | 获取或设置地址行 2。 |
-| [Address3](../../aspose.finance.ofx.signup/changeuserinforequest/address3) { get; set; } | 获取或设置地址行 3。 |
+| [Address1](../../aspose.finance.ofx.signup/changeuserinforequest/address1) { get; set; } | 获取或设置地址线 1. |
+| [Address2](../../aspose.finance.ofx.signup/changeuserinforequest/address2) { get; set; } | 获取或设置地址线2. |
+| [Address3](../../aspose.finance.ofx.signup/changeuserinforequest/address3) { get; set; } | 获取或设置地址线 3. |
 | [City](../../aspose.finance.ofx.signup/changeuserinforequest/city) { get; set; } | 获取或设置城市。 |
-| [Country](../../aspose.finance.ofx.signup/changeuserinforequest/country) { get; set; } | 获取或设置国家代码。来自 ISO/DIS-3166 的 3 个字母的国家/地区代码。 |
+| [Country](../../aspose.finance.ofx.signup/changeuserinforequest/country) { get; set; } | 获取或设置国家代码。来自 ISO/DIS-3166. 的 3 个字母的国家/地区代码 |
 | [DayPhone](../../aspose.finance.ofx.signup/changeuserinforequest/dayphone) { get; set; } | 获取或设置白天电话号码。 |
 | [Email](../../aspose.finance.ofx.signup/changeuserinforequest/email) { get; set; } | 获取或设置电子邮件地址。 |
 | [EveningPhone](../../aspose.finance.ofx.signup/changeuserinforequest/eveningphone) { get; set; } | 获取或设置晚间电话号码。 |

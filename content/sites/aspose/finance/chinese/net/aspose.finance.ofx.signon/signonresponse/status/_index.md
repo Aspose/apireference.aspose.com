@@ -1,14 +1,14 @@
 ---
 title: Status
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置Statusaspose.finance.ofx.signon/signonresponse/status
+description: 获取或设置Statusaspose.finance.ofx.signon/signonresponse/status.
 type: docs
 weight: 110
 url: /zh/net/aspose.finance.ofx.signon/signonresponse/status/
 ---
 ## SignonResponse.Status property
 
-获取或设置`Status`。
+获取或设置`Status`.
 
 ```csharp
 public Status Status { get; set; }

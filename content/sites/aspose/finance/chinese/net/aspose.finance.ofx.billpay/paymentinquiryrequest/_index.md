@@ -8,7 +8,7 @@ url: /zh/net/aspose.finance.ofx.billpay/paymentinquiryrequest/
 ---
 ## PaymentInquiryRequest class
 
-支付状态查询请求类。
+支付状态查询请求类
 
 ```csharp
 public class PaymentInquiryRequest
@@ -18,7 +18,7 @@ public class PaymentInquiryRequest
 
 | 姓名 | 描述 |
 | --- | --- |
-| [PaymentInquiryRequest](paymentinquiryrequest)() | 初始化[`PaymentInquiryRequest`](../paymentinquiryrequest)类的新实例。 |
+| [PaymentInquiryRequest](paymentinquiryrequest)() | 初始化一个新的实例[`PaymentInquiryRequest`](../paymentinquiryrequest)类. |
 
 ## 特性
 

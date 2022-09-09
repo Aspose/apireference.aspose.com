@@ -8,7 +8,7 @@ url: /zh/net/aspose.finance.ofx.creditcard/creditcardstatementtransactionrespons
 ---
 ## CreditCardStatementTransactionResponse class
 
-信用卡下载交易响应类。
+信用卡下载交易响应类
 
 ```csharp
 public class CreditCardStatementTransactionResponse : AbstractTransactionResponse
@@ -18,16 +18,16 @@ public class CreditCardStatementTransactionResponse : AbstractTransactionRespons
 
 | 姓名 | 描述 |
 | --- | --- |
-| [CreditCardStatementTransactionResponse](creditcardstatementtransactionresponse)() | 初始化[`CreditCardStatementTransactionResponse`](../creditcardstatementtransactionresponse)类的新实例。 |
+| [CreditCardStatementTransactionResponse](creditcardstatementtransactionresponse)() | 初始化一个新的实例[`CreditCardStatementTransactionResponse`](../creditcardstatementtransactionresponse)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
 | [ClientCookie](../../aspose.finance.ofx/abstracttransactionresponse/clientcookie) { get; set; } | 获取或设置要在事务响应中回显的数据 |
-| [CreditCardStatementResponse](../../aspose.finance.ofx.creditcard/creditcardstatementtransactionresponse/creditcardstatementresponse) { get; set; } | 获取或设置[`CreditCardStatementResponse`](./creditcardstatementresponse)。 |
-| [OfxExtension](../../aspose.finance.ofx.creditcard/creditcardstatementtransactionresponse/ofxextension) { get; set; } | 获取或设置[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype)。 |
-| [Status](../../aspose.finance.ofx/abstracttransactionresponse/status) { get; set; } | 获取或设置[`Status`](../../aspose.finance.ofx/abstracttransactionresponse/status)。 |
+| [CreditCardStatementResponse](../../aspose.finance.ofx.creditcard/creditcardstatementtransactionresponse/creditcardstatementresponse) { get; set; } | 获取或设置[`CreditCardStatementResponse`](./creditcardstatementresponse). |
+| [OfxExtension](../../aspose.finance.ofx.creditcard/creditcardstatementtransactionresponse/ofxextension) { get; set; } | 获取或设置[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
+| [Status](../../aspose.finance.ofx/abstracttransactionresponse/status) { get; set; } | 获取或设置[`Status`](../../aspose.finance.ofx/abstracttransactionresponse/status). |
 | [TransactionUniqueId](../../aspose.finance.ofx/abstracttransactionresponse/transactionuniqueid) { get; set; } | 获取或设置此事务的客户端分配的全局唯一 ID。 |
 
 ### 也可以看看

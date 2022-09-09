@@ -1,14 +1,14 @@
 ---
 title: WireSyncRequest
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаWireSyncRequestaspose.finance.ofx.wiretransfer/wiresyncrequest.
+description: Инициализирует новый экземплярWireSyncRequestaspose.finance.ofx.wiretransfer/wiresyncrequest класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.wiretransfer/wiresyncrequest/wiresyncrequest/
 ---
 ## WireSyncRequest constructor
 
-Инициализирует новый экземпляр класса[`WireSyncRequest`](../../wiresyncrequest).
+Инициализирует новый экземпляр[`WireSyncRequest`](../../wiresyncrequest) класс.
 
 ```csharp
 public WireSyncRequest()

@@ -1,14 +1,14 @@
 ---
 title: RoleUri
 second_title: Aspose.Finance for .NET API 参考
-description: 获取RoleTypeaspose.finance.xbrl/roletype中的角色 URI
+description: 获取角色 URIRoleTypeaspose.finance.xbrl/roletype.
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.xbrl/roletype/roleuri/
 ---
 ## RoleType.RoleUri property
 
-获取[`RoleType`](../../roletype)中的角色 URI。
+获取角色 URI[`RoleType`](../../roletype).
 
 ```csharp
 public Uri RoleUri { get; set; }

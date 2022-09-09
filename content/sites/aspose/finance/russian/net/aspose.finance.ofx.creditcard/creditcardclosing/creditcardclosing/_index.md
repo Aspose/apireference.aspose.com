@@ -1,14 +1,14 @@
 ---
 title: CreditCardClosing
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаCreditCardClosingaspose.finance.ofx.creditcard/creditcardclosing.
+description: Инициализирует новый экземплярCreditCardClosingaspose.finance.ofx.creditcard/creditcardclosing класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.creditcard/creditcardclosing/creditcardclosing/
 ---
 ## CreditCardClosing constructor
 
-Инициализирует новый экземпляр класса[`CreditCardClosing`](../../creditcardclosing).
+Инициализирует новый экземпляр[`CreditCardClosing`](../../creditcardclosing) класс.
 
 ```csharp
 public CreditCardClosing()

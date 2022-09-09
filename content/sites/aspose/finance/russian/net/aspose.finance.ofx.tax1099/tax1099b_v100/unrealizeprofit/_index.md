@@ -1,14 +1,14 @@
 ---
 title: UnrealizeProfit
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает нереализованную прибыль или убыток по открытым контрактам в этом налоговом году.
+description: Получает или устанавливает нереализованную прибыль или убыток по открытым контрактам в этом налоговом году.
 type: docs
 weight: 170
 url: /ru/net/aspose.finance.ofx.tax1099/tax1099b_v100/unrealizeprofit/
 ---
 ## Tax1099B_V100.UnrealizeProfit property
 
-Получает или задает нереализованную прибыль или убыток по открытым контрактам в этом налоговом году.
+Получает или устанавливает нереализованную прибыль или убыток по открытым контрактам в этом налоговом году.
 
 ```csharp
 public string UnrealizeProfit { get; set; }

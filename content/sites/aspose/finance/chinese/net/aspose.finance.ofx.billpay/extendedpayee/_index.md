@@ -1,14 +1,14 @@
 ---
 title: ExtendedPayee
 second_title: Aspose.Finance for .NET API 参考
-description: 类将收款人标识符传达给客户它还包含收款人的处理日参数对于处理日参数与处理器默认值不同的任何收款人即使对于没有收款人 ID 的收款人它也可以发送给客户端
+description: 该类将收款人标识符传达给客户端它还包含收款人的处理日参数对于处理日参数与处理器默认值不同的任何收款人即使对于没有收款人 ID 的收款人它也可以发送给客户端
 type: docs
 weight: 900
 url: /zh/net/aspose.finance.ofx.billpay/extendedpayee/
 ---
 ## ExtendedPayee class
 
-类将收款人标识符传达给客户。它还包含收款人的处理日参数。对于处理日参数与处理器默认值不同的任何收款人，即使对于没有收款人 ID 的收款人，它也可以发送给客户端。
+该类将收款人标识符传达给客户端。它还包含收款人的处理日参数。对于处理日参数与处理器默认值不同的任何收款人，即使对于没有收款人 ID 的收款人，它也可以发送给客户端。
 
 ```csharp
 public class ExtendedPayee
@@ -18,16 +18,16 @@ public class ExtendedPayee
 
 | 姓名 | 描述 |
 | --- | --- |
-| [ExtendedPayee](extendedpayee)() | 初始化[`ExtendedPayee`](../extendedpayee)类的新实例。 |
+| [ExtendedPayee](extendedpayee)() | 初始化一个新的实例[`ExtendedPayee`](../extendedpayee)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
 | [DaysToPay](../../aspose.finance.ofx.billpay/extendedpayee/daystopay) { get; set; } | 获取或设置处理所需的最小工作日数。 |
-| [IdScope](../../aspose.finance.ofx.billpay/extendedpayee/idscope) { get; set; } | 获取或设置收款人ID的范围。 |
+| [IdScope](../../aspose.finance.ofx.billpay/extendedpayee/idscope) { get; set; } | 获取或设置收款人ID的范围 |
 | [Name](../../aspose.finance.ofx.billpay/extendedpayee/name) { get; set; } | 获取或设置标准收款人姓名。 |
-| [PayeeId](../../aspose.finance.ofx.billpay/extendedpayee/payeeid) { get; set; } | 获取或设置服务器分配的收款人 ID。 |
+| [PayeeId](../../aspose.finance.ofx.billpay/extendedpayee/payeeid) { get; set; } | 获取或设置服务器分配的收款人ID。 |
 
 ### 也可以看看
 

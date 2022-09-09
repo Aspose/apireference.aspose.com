@@ -1,14 +1,14 @@
 ---
 title: UseHtml
 second_title: Справочник по API Aspose.Finance для .NET
-description: Истинно для текста в формате HTML. False для обычного текста.
+description: True для текста в формате HTML. False для обычного текста.
 type: docs
 weight: 80
 url: /ru/net/aspose.finance.ofx/mail/usehtml/
 ---
 ## Mail.UseHtml property
 
-Истинно для текста в формате HTML. False для обычного текста.
+True для текста в формате HTML. False для обычного текста.
 
 ```csharp
 public bool UseHtml { get; set; }

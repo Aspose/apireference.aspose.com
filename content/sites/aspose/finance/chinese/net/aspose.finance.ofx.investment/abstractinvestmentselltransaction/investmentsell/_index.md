@@ -1,14 +1,14 @@
 ---
 title: InvestmentSell
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置InvestmentSellaspose.finance.ofx.investment/abstractinvestmentselltransaction/investmentsell
+description: 获取或设置InvestmentSellaspose.finance.ofx.investment/abstractinvestmentselltransaction/investmentsell.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.investment/abstractinvestmentselltransaction/investmentsell/
 ---
 ## AbstractInvestmentSellTransaction.InvestmentSell property
 
-获取或设置`InvestmentSell`。
+获取或设置`InvestmentSell`.
 
 ```csharp
 public InvestmentSell InvestmentSell { get; set; }

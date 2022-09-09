@@ -18,17 +18,17 @@ public class LoanMessageSetV1 : AbstractMessageSetVersion
 
 | 姓名 | 描述 |
 | --- | --- |
-| [LoanMessageSetV1](loanmessagesetv1)() | 初始化[`LoanMessageSetV1`](../loanmessagesetv1)类的新实例。 |
+| [LoanMessageSetV1](loanmessagesetv1)() | 初始化一个新的实例[`LoanMessageSetV1`](../loanmessagesetv1)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [AmortizationAvailable](../../aspose.finance.ofx.profile/loanmessagesetv1/amortizationavailable) { get; set; } | 获取或设置摊销信息是否可用 |
-| [CanEmail](../../aspose.finance.ofx.profile/loanmessagesetv1/canemail) { get; set; } | 获取或设置是否支持通用借贷电子邮件。 |
+| [AmortizationAvailable](../../aspose.finance.ofx.profile/loanmessagesetv1/amortizationavailable) { get; set; } | 获取或设置摊销报表信息是否可用 |
+| [CanEmail](../../aspose.finance.ofx.profile/loanmessagesetv1/canemail) { get; set; } | 获取或设置是否支持通用贷款邮件。 |
 | [ClosingAvailable](../../aspose.finance.ofx.profile/loanmessagesetv1/closingavailable) { get; set; } | 获取或设置结帐信息是否可用 |
-| [ImageProfile](../../aspose.finance.ofx.profile/loanmessagesetv1/imageprofile) { get; set; } | 获取或设置[`ImageProfile`](./imageprofile)。 |
-| [MessageSetCore](../../aspose.finance.ofx.profile/abstractmessagesetversion/messagesetcore) { get; set; } | 获取或设置[`MessageSetCore`](../abstractmessagesetversion/messagesetcore)。 |
+| [ImageProfile](../../aspose.finance.ofx.profile/loanmessagesetv1/imageprofile) { get; set; } | 获取或设置[`ImageProfile`](./imageprofile). |
+| [MessageSetCore](../../aspose.finance.ofx.profile/abstractmessagesetversion/messagesetcore) { get; set; } | 获取或设置[`MessageSetCore`](../abstractmessagesetversion/messagesetcore). |
 | [TransactionDownload](../../aspose.finance.ofx.profile/loanmessagesetv1/transactiondownload) { get; set; } | 获取或设置是否可以下载贷款报表交易。 |
 
 ### 也可以看看

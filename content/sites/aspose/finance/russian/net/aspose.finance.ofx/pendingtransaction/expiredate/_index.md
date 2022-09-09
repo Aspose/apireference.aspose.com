@@ -1,14 +1,14 @@
 ---
 title: ExpireDate
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает дату истечения срока удержания этой транзакции. Действителен только для TransactionType HOLD.
+description: Получает или задает дату истечения срока хранения этой транзакции. Допустимо только для TransactionType HOLD.
 type: docs
 weight: 30
 url: /ru/net/aspose.finance.ofx/pendingtransaction/expiredate/
 ---
 ## PendingTransaction.ExpireDate property
 
-Получает или задает дату истечения срока удержания этой транзакции. Действителен только для TransactionType HOLD.
+Получает или задает дату истечения срока хранения этой транзакции. Допустимо только для TransactionType HOLD.
 
 ```csharp
 public string ExpireDate { get; set; }

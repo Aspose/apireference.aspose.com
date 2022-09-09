@@ -1,14 +1,14 @@
 ---
 title: Response
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置InterResponseaspose.finance.ofx.intertransfer/interresponse或InterModResponseaspose.finance.ofx.intertransfer/intermodresponse或InterCancellationResponseaspose.finance.ofx.intertransfer/intercancellationresponse
+description: 获取或设置InterResponseaspose.finance.ofx.intertransfer/interresponse或者InterModResponseaspose.finance.ofx.intertransfer/intermodresponse或者InterCancellationResponseaspose.finance.ofx.intertransfer/intercancellationresponse.
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.ofx.intertransfer/intertransactionresponse/response/
 ---
 ## InterTransactionResponse.Response property
 
-获取或设置[`InterResponse`](../../interresponse)或[`InterModResponse`](../../intermodresponse)或[`InterCancellationResponse`](../../intercancellationresponse)。
+获取或设置[`InterResponse`](../../interresponse)或者[`InterModResponse`](../../intermodresponse)或者[`InterCancellationResponse`](../../intercancellationresponse).
 
 ```csharp
 public AbstractInterResponse Response { get; set; }

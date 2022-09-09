@@ -1,14 +1,14 @@
 ---
 title: Format
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает форматInlineNonnumericaspose.finance.xbrl.inline/inlinenonnumeric.
+description: Получает или задает форматInlineNonnumericaspose.finance.xbrl.inline/inlinenonnumeric .
 type: docs
 weight: 40
 url: /ru/net/aspose.finance.xbrl.inline/inlinenonnumeric/format/
 ---
 ## InlineNonnumeric.Format property
 
-Получает или задает формат[`InlineNonnumeric`](../../inlinenonnumeric).
+Получает или задает формат[`InlineNonnumeric`](../../inlinenonnumeric) .
 
 ```csharp
 public XmlQualifiedName Format { get; set; }

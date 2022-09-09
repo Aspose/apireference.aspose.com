@@ -1,14 +1,14 @@
 ---
 title: TransferDaysWithdraw
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置在处理日期之前的天数用于通过转账方式提取资金
+description: 获取或设置在处理日期之前的天数以通过转账方式提取资金
 type: docs
 weight: 190
 url: /zh/net/aspose.finance.ofx.profile/billpaymessagesetv1/transferdayswithdraw/
 ---
 ## BillPayMessageSetV1.TransferDaysWithdraw property
 
-获取或设置在处理日期之前的天数，用于通过转账方式提取资金。
+获取或设置在处理日期之前的天数，以通过转账方式提取资金。
 
 ```csharp
 public string TransferDaysWithdraw { get; set; }

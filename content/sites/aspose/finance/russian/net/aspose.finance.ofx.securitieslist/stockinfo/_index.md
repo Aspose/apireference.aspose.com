@@ -1,14 +1,14 @@
 ---
 title: StockInfo
 second_title: Справочник по API Aspose.Finance для .NET
-description: Класс биржевой информации.
+description: Класс информации об акциях.
 type: docs
 weight: 5190
 url: /ru/net/aspose.finance.ofx.securitieslist/stockinfo/
 ---
 ## StockInfo class
 
-Класс биржевой информации.
+Класс информации об акциях.
 
 ```csharp
 public class StockInfo : AbstractSecurityInfo
@@ -18,16 +18,16 @@ public class StockInfo : AbstractSecurityInfo
 
 | Имя | Описание |
 | --- | --- |
-| [StockInfo](stockinfo)() | Инициализирует новый экземпляр класса[`StockInfo`](../stockinfo). |
+| [StockInfo](stockinfo)() | Инициализирует новый экземпляр[`StockInfo`](../stockinfo) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [AssetClass](../../aspose.finance.ofx.securitieslist/stockinfo/assetclass) { get; set; } | Получает или задает класс актива. |
+| [AssetClass](../../aspose.finance.ofx.securitieslist/stockinfo/assetclass) { get; set; } | Получает или задает класс активов. |
 | [FIAssetClass](../../aspose.finance.ofx.securitieslist/stockinfo/fiassetclass) { get; set; } | Получает или задает текстовую строку, содержащую класс активов, определенный FI. |
-| [SecurityInfo](../../aspose.finance.ofx.securitieslist/abstractsecurityinfo/securityinfo) { get; set; } | Получает или задает[`GeneralSecurityInfo`](../generalsecurityinfo). |
-| [StockType](../../aspose.finance.ofx.securitieslist/stockinfo/stocktype) { get; set; } | Получает или задает тип материала |
+| [SecurityInfo](../../aspose.finance.ofx.securitieslist/abstractsecurityinfo/securityinfo) { get; set; } | Получает или задает[`GeneralSecurityInfo`](../generalsecurityinfo) . |
+| [StockType](../../aspose.finance.ofx.securitieslist/stockinfo/stocktype) { get; set; } | Получает или задает тип запаса |
 | [Yield](../../aspose.finance.ofx.securitieslist/stockinfo/yield) { get; set; } | Получает или задает текущую доходность, сообщаемую как дивиденд, выраженный как часть текущей цены акции. |
 | [YieldAsOfDate](../../aspose.finance.ofx.securitieslist/stockinfo/yieldasofdate) { get; set; } | Получает или задает текущую дату для значения доходности. |
 

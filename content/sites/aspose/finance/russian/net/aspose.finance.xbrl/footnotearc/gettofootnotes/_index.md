@@ -1,14 +1,14 @@
 ---
 title: GetToFootnotes
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает коллекциюFootnoteaspose.finance.xbrl/footnoteвFootnoteArcaspose.finance.xbrl/footnotearc.
+description: Получает коллекциюFootnoteaspose.finance.xbrl/footnote вFootnoteArcaspose.finance.xbrl/footnotearc .
 type: docs
 weight: 30
 url: /ru/net/aspose.finance.xbrl/footnotearc/gettofootnotes/
 ---
 ## FootnoteArc.GetToFootnotes method
 
-Получает коллекцию[`Footnote`](../../footnote)в[`FootnoteArc`](../../footnotearc).
+Получает коллекцию[`Footnote`](../../footnote) в[`FootnoteArc`](../../footnotearc) .
 
 ```csharp
 public List<Footnote> GetToFootnotes()

@@ -1,14 +1,14 @@
 ---
 title: RateType
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置速率类型
+description: 获取或设置速率的类型
 type: docs
 weight: 40
 url: /zh/net/aspose.finance.ofx/loanratetype/ratetype/
 ---
 ## LoanRateType.RateType property
 
-获取或设置速率类型。
+获取或设置速率的类型。
 
 ```csharp
 public LoanRateEnum RateType { get; set; }

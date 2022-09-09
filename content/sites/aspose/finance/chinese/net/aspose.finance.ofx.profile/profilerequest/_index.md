@@ -18,7 +18,7 @@ public class ProfileRequest
 
 | 姓名 | 描述 |
 | --- | --- |
-| [ProfileRequest](profilerequest)() | 初始化[`ProfileRequest`](../profilerequest)类的新实例。 |
+| [ProfileRequest](profilerequest)() | 初始化一个新的实例[`ProfileRequest`](../profilerequest)类. |
 
 ## 特性
 

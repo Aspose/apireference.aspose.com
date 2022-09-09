@@ -18,15 +18,15 @@ public class PayerAddress
 
 | Имя | Описание |
 | --- | --- |
-| [PayerAddress](payeraddress)() | Инициализирует новый экземпляр класса[`PayerAddress`](../payeraddress). |
+| [PayerAddress](payeraddress)() | Инициализирует новый экземпляр[`PayerAddress`](../payeraddress) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [Address1](../../aspose.finance.ofx.tax1099/payeraddress/address1) { get; set; } | Получает или задает адрес плательщика, строка 1. |
-| [Address2](../../aspose.finance.ofx.tax1099/payeraddress/address2) { get; set; } | Получает или задает адрес плательщика, строка 2. |
-| [Address3](../../aspose.finance.ofx.tax1099/payeraddress/address3) { get; set; } | Получает или задает адрес плательщика, строка 3. |
+| [Address1](../../aspose.finance.ofx.tax1099/payeraddress/address1) { get; set; } | Получает или устанавливает адрес плательщика, строка 1. |
+| [Address2](../../aspose.finance.ofx.tax1099/payeraddress/address2) { get; set; } | Получает или устанавливает адрес плательщика, строка 2. |
+| [Address3](../../aspose.finance.ofx.tax1099/payeraddress/address3) { get; set; } | Получает или устанавливает адрес плательщика, строка 3. |
 | [City](../../aspose.finance.ofx.tax1099/payeraddress/city) { get; set; } | Получает или устанавливает город плательщика. |
 | [PayerName1](../../aspose.finance.ofx.tax1099/payeraddress/payername1) { get; set; } | Получает или задает имя плательщика, строка 1. |
 | [PayerName2](../../aspose.finance.ofx.tax1099/payeraddress/payername2) { get; set; } | Получает или задает имя плательщика, строка 2. |

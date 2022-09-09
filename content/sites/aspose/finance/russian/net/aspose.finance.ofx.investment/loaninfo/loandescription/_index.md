@@ -1,14 +1,14 @@
 ---
 title: LoanDescription
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает описание займа
+description: Получает или задает описание кредита
 type: docs
 weight: 50
 url: /ru/net/aspose.finance.ofx.investment/loaninfo/loandescription/
 ---
 ## LoanInfo.LoanDescription property
 
-Получает или задает описание займа
+Получает или задает описание кредита
 
 ```csharp
 public string LoanDescription { get; set; }

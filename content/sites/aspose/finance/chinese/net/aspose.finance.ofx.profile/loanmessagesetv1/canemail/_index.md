@@ -1,14 +1,14 @@
 ---
 title: CanEmail
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置是否支持通用借贷电子邮件
+description: 获取或设置是否支持通用贷款邮件
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.ofx.profile/loanmessagesetv1/canemail/
 ---
 ## LoanMessageSetV1.CanEmail property
 
-获取或设置是否支持通用借贷电子邮件。
+获取或设置是否支持通用贷款邮件。
 
 ```csharp
 public bool CanEmail { get; set; }

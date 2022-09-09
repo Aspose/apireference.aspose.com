@@ -1,14 +1,14 @@
 ---
 title: ContextRef
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает ссылку наContextaspose.finance.xbrl/contextInlineNonfractionaspose.finance.xbrl.inline/inlinenonfraction.
+description: Получает или задает ссылку наContextaspose.finance.xbrl/context принадлежащийInlineNonfractionaspose.finance.xbrl.inline/inlinenonfraction .
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.xbrl.inline/inlinenonfraction/contextref/
 ---
 ## InlineNonfraction.ContextRef property
 
-Получает или задает ссылку на[`Context`](../../../aspose.finance.xbrl/context)[`InlineNonfraction`](../../inlinenonfraction).
+Получает или задает ссылку на[`Context`](../../../aspose.finance.xbrl/context) принадлежащий[`InlineNonfraction`](../../inlinenonfraction) .
 
 ```csharp
 public Context ContextRef { get; set; }

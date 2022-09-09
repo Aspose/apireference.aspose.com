@@ -1,14 +1,14 @@
 ---
 title: Insurance
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или устанавливает страхование жизни несчастных случаев здоровья в кредит.
+description: Получает или оформляет кредит на страхование жизни несчастных случаев и болезней.
 type: docs
 weight: 30
 url: /ru/net/aspose.finance.ofx/loantransactionamount/insurance/
 ---
 ## LoanTransactionAmount.Insurance property
 
-Получает или устанавливает страхование жизни, несчастных случаев, здоровья в кредит.
+Получает или оформляет кредит на страхование жизни, несчастных случаев и болезней.
 
 ```csharp
 public string Insurance { get; set; }

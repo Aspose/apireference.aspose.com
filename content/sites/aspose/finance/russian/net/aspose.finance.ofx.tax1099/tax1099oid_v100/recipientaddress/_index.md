@@ -1,14 +1,14 @@
 ---
 title: RecipientAddress
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задаетRecipientAddressaspose.finance.ofx.tax1099/tax1099oid_v100/recipientaddress.
+description: Получает или задаетRecipientAddressaspose.finance.ofx.tax1099/tax1099oid_v100/recipientaddress .
 type: docs
 weight: 160
 url: /ru/net/aspose.finance.ofx.tax1099/tax1099oid_v100/recipientaddress/
 ---
 ## Tax1099OID_V100.RecipientAddress property
 
-Получает или задает`RecipientAddress`.
+Получает или задает`RecipientAddress` .
 
 ```csharp
 public RecipientAddress RecipientAddress { get; set; }

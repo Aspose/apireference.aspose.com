@@ -1,14 +1,14 @@
 ---
 title: TransferInfo
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置TransferInfoaspose.finance.ofx.intertransfer/interrequest/transferinfo
+description: 获取或设置TransferInfoaspose.finance.ofx.intertransfer/interrequest/transferinfo.
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.ofx.intertransfer/interrequest/transferinfo/
 ---
 ## InterRequest.TransferInfo property
 
-获取或设置`TransferInfo`。
+获取或设置`TransferInfo`.
 
 ```csharp
 public TransferInfo TransferInfo { get; set; }

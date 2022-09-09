@@ -1,14 +1,14 @@
 ---
 title: BillDetailRows
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает коллекциюBillDetailRowaspose.finance.ofx.billerdelivery/billdetailrow.
+description: Получает или задает коллекциюBillDetailRowaspose.finance.ofx.billerdelivery/billdetailrow .
 type: docs
 weight: 20
 url: /ru/net/aspose.finance.ofx.billerdelivery/billdetailtable/billdetailrows/
 ---
 ## BillDetailTable.BillDetailRows property
 
-Получает или задает коллекцию[`BillDetailRow`](../../billdetailrow).
+Получает или задает коллекцию[`BillDetailRow`](../../billdetailrow) .
 
 ```csharp
 public List<BillDetailRow> BillDetailRows { get; set; }

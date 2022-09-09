@@ -1,14 +1,14 @@
 ---
 title: NamespaceUri
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает URI пространства имен концепции.
+description: Получает URI пространства имен концепта.
 type: docs
 weight: 80
 url: /ru/net/aspose.finance.xbrl/concept/namespaceuri/
 ---
 ## Concept.NamespaceUri property
 
-Получает URI пространства имен концепции.
+Получает URI пространства имен концепта.
 
 ```csharp
 public string NamespaceUri { get; }

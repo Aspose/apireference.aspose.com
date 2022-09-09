@@ -1,14 +1,14 @@
 ---
 title: AccountInfoRequest
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задаетAccountInfoRequestaspose.finance.ofx.signup/accountinfotransactionrequest/accountinforequest.
+description: Получает или задаетAccountInfoRequestaspose.finance.ofx.signup/accountinfotransactionrequest/accountinforequest .
 type: docs
 weight: 20
 url: /ru/net/aspose.finance.ofx.signup/accountinfotransactionrequest/accountinforequest/
 ---
 ## AccountInfoTransactionRequest.AccountInfoRequest property
 
-Получает или задает`AccountInfoRequest`.
+Получает или задает`AccountInfoRequest` .
 
 ```csharp
 public AccountInfoRequest AccountInfoRequest { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: FinancialInstitution
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置FinancialInstitutionaspose.finance.ofx.signon/signonresponse/financialinstitution
+description: 获取或设置FinancialInstitutionaspose.finance.ofx.signon/signonresponse/financialinstitution.
 type: docs
 weight: 40
 url: /zh/net/aspose.finance.ofx.signon/signonresponse/financialinstitution/
 ---
 ## SignonResponse.FinancialInstitution property
 
-获取或设置`FinancialInstitution`。
+获取或设置`FinancialInstitution`.
 
 ```csharp
 public FinancialInstitution FinancialInstitution { get; set; }

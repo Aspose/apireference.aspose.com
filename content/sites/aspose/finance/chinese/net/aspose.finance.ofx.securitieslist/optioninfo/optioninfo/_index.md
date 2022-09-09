@@ -1,14 +1,14 @@
 ---
 title: OptionInfo
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化OptionInfoaspose.finance.ofx.securitieslist/optioninfo类的新实例
+description: 初始化一个新的实例OptionInfoaspose.finance.ofx.securitieslist/optioninfo类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.securitieslist/optioninfo/optioninfo/
 ---
 ## OptionInfo constructor
 
-初始化[`OptionInfo`](../../optioninfo)类的新实例。
+初始化一个新的实例[`OptionInfo`](../../optioninfo)类.
 
 ```csharp
 public OptionInfo()

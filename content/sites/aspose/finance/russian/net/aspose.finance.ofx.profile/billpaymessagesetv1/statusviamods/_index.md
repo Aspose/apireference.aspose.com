@@ -1,14 +1,14 @@
 ---
 title: StatusViaMods
 second_title: Справочник по API Aspose.Finance для .NET
-description: При значении true сервер поддерживает передачу инициированных сервером изменений статуса платежа посредством сообщенияPaymentModResponse.
+description: Если true сервер поддерживает передачу инициированных сервером изменений статуса платежа посредствомPaymentModResponse сообщение.
 type: docs
 weight: 180
 url: /ru/net/aspose.finance.ofx.profile/billpaymessagesetv1/statusviamods/
 ---
 ## BillPayMessageSetV1.StatusViaMods property
 
-При значении true сервер поддерживает передачу инициированных сервером изменений статуса платежа посредством сообщения!:PaymentModResponse.
+Если true, сервер поддерживает передачу инициированных сервером изменений статуса платежа посредством!:PaymentModResponse сообщение.
 
 ```csharp
 public bool StatusViaMods { get; set; }

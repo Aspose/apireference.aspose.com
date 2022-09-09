@@ -18,7 +18,7 @@ public class IntraCancellationResponse : AbstractIntraResponse
 
 | Имя | Описание |
 | --- | --- |
-| [IntraCancellationResponse](intracancellationresponse)() | Инициализирует новый экземпляр класса[`IntraCancellationResponse`](../intracancellationresponse). |
+| [IntraCancellationResponse](intracancellationresponse)() | Инициализирует новый экземпляр[`IntraCancellationResponse`](../intracancellationresponse) класс. |
 
 ## Характеристики
 

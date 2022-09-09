@@ -1,14 +1,14 @@
 ---
 title: TaxableAmountNotDetermined
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает налогооблагаемую сумму которая не определена
+description: Получает или задает не определенную налогооблагаемую сумму
 type: docs
 weight: 220
 url: /ru/net/aspose.finance.ofx.tax1099/tax1099r_v100/taxableamountnotdetermined/
 ---
 ## Tax1099R_V100.TaxableAmountNotDetermined property
 
-Получает или задает налогооблагаемую сумму, которая не определена
+Получает или задает не определенную налогооблагаемую сумму
 
 ```csharp
 public bool TaxableAmountNotDetermined { get; set; }

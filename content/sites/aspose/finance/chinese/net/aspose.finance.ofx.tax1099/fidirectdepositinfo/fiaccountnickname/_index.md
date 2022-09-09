@@ -1,14 +1,14 @@
 ---
 title: FIAccountNickname
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置帐户昵称
+description: 获取或设置帐号昵称
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.ofx.tax1099/fidirectdepositinfo/fiaccountnickname/
 ---
 ## FIDirectDepositInfo.FIAccountNickname property
 
-获取或设置帐户昵称。
+获取或设置帐号昵称。
 
 ```csharp
 public string FIAccountNickname { get; set; }

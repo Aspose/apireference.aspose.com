@@ -20,7 +20,7 @@ public Concept GetConceptById(string conceptId)
 
 ### Возвращаемое значение
 
-Концепция.
+Концепт.
 
 ### Смотрите также
 

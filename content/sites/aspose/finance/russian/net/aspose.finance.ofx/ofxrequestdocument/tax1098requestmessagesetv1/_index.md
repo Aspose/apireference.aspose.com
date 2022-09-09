@@ -1,14 +1,14 @@
 ---
 title: Tax1098RequestMessageSetV1
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задаетTax1098RequestMessageSetV1aspose.finance.ofx/ofxrequestdocument/tax1098requestmessagesetv1.
+description: Получает или задаетTax1098RequestMessageSetV1aspose.finance.ofx/ofxrequestdocument/tax1098requestmessagesetv1 .
 type: docs
 weight: 160
 url: /ru/net/aspose.finance.ofx/ofxrequestdocument/tax1098requestmessagesetv1/
 ---
 ## OfxRequestDocument.Tax1098RequestMessageSetV1 property
 
-Получает или задает`Tax1098RequestMessageSetV1`.
+Получает или задает`Tax1098RequestMessageSetV1` .
 
 ```csharp
 public Tax1098RequestMessageSetV1 Tax1098RequestMessageSetV1 { get; set; }

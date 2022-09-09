@@ -18,13 +18,13 @@ public class OfxElementType
 
 | Имя | Описание |
 | --- | --- |
-| [OfxElementType](ofxelementtype)() | Инициализирует новый экземпляр класса[`OfxElementType`](../ofxelementtype). |
+| [OfxElementType](ofxelementtype)() | Инициализирует новый экземпляр[`OfxElementType`](../ofxelementtype) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [Name](../../aspose.finance.ofx/ofxelementtype/name) { get; set; } | Получает или задает понятное отображаемое имя пользовательского элемента |
+| [Name](../../aspose.finance.ofx/ofxelementtype/name) { get; set; } | Получает или задает понятное отображаемое имя для пользовательского элемента element |
 | [TagName](../../aspose.finance.ofx/ofxelementtype/tagname) { get; set; } | Получает или задает имя пользовательского элемента. |
 | [TagType](../../aspose.finance.ofx/ofxelementtype/tagtype) { get; set; } | Получает или задает любой определенный тип OFX (дата, сумма и т. д.) или стандартный формат для определения буквенного или числового поля. |
 | [TagValue](../../aspose.finance.ofx/ofxelementtype/tagvalue) { get; set; } | Получает или задает значение данных пользовательского элемента. |

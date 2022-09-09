@@ -1,14 +1,14 @@
 ---
 title: StopCheckFee
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает комиссию за стоп-чек по умолчанию
+description: Получает или задает комиссию за остановку проверки по умолчанию
 type: docs
 weight: 60
 url: /ru/net/aspose.finance.ofx.profile/stopcheckprofile/stopcheckfee/
 ---
 ## StopCheckProfile.StopCheckFee property
 
-Получает или задает комиссию за стоп-чек по умолчанию
+Получает или задает комиссию за остановку проверки по умолчанию
 
 ```csharp
 public string StopCheckFee { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: FinancialInstitutionId
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает идентификатор финансового учреждения уникальный в пределах Организации
+description: Получает или задает идентификатор финансового учреждения уникальный в пределах организации
 type: docs
 weight: 20
 url: /ru/net/aspose.finance.ofx.signon/financialinstitution/financialinstitutionid/
 ---
 ## FinancialInstitution.FinancialInstitutionId property
 
-Получает или задает идентификатор финансового учреждения (уникальный в пределах Организации)
+Получает или задает идентификатор финансового учреждения (уникальный в пределах организации)
 
 ```csharp
 public string FinancialInstitutionId { get; set; }

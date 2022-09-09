@@ -18,7 +18,7 @@ public class StocksBonds
 
 | Имя | Описание |
 | --- | --- |
-| [StocksBonds](stocksbonds)() | Инициализирует новый экземпляр класса[`StocksBonds`](../stocksbonds). |
+| [StocksBonds](stocksbonds)() | Инициализирует новый экземпляр[`StocksBonds`](../stocksbonds) класс. |
 
 ## Характеристики
 

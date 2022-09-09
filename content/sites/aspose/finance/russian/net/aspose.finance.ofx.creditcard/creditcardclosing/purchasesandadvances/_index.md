@@ -1,14 +1,14 @@
 ---
 title: PurchasesAndAdvances
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает общее количество покупок и авансов наличными.
+description: Получает или задает общую сумму покупок и выдачи наличных.
 type: docs
 weight: 290
 url: /ru/net/aspose.finance.ofx.creditcard/creditcardclosing/purchasesandadvances/
 ---
 ## CreditCardClosing.PurchasesAndAdvances property
 
-Получает или задает общее количество покупок и авансов наличными.
+Получает или задает общую сумму покупок и выдачи наличных.
 
 ```csharp
 public string PurchasesAndAdvances { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: ProfileTransactionRequests
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置ProfileTransactionRequestaspose.finance.ofx.profile/profiletransactionrequest的集合
+description: 获取或设置的集合ProfileTransactionRequestaspose.finance.ofx.profile/profiletransactionrequest.
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.ofx/profilerequestmessagesetv1/profiletransactionrequests/
 ---
 ## ProfileRequestMessageSetV1.ProfileTransactionRequests property
 
-获取或设置[`ProfileTransactionRequest`](../../../aspose.finance.ofx.profile/profiletransactionrequest)的集合。
+获取或设置的集合[`ProfileTransactionRequest`](../../../aspose.finance.ofx.profile/profiletransactionrequest).
 
 ```csharp
 public List<ProfileTransactionRequest> ProfileTransactionRequests { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: PresentmentDirResponseMessageSetV1
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置PresentmentDirResponseMessageSetV1aspose.finance.ofx/ofxresponsedocument/presentmentdirresponsemessagesetv1
+description: 获取或设置PresentmentDirResponseMessageSetV1aspose.finance.ofx/ofxresponsedocument/presentmentdirresponsemessagesetv1.
 type: docs
 weight: 100
 url: /zh/net/aspose.finance.ofx/ofxresponsedocument/presentmentdirresponsemessagesetv1/
 ---
 ## OfxResponseDocument.PresentmentDirResponseMessageSetV1 property
 
-获取或设置`PresentmentDirResponseMessageSetV1`。
+获取或设置`PresentmentDirResponseMessageSetV1`.
 
 ```csharp
 public PresentmentDirResponseMessageSetV1 PresentmentDirResponseMessageSetV1 { get; set; }

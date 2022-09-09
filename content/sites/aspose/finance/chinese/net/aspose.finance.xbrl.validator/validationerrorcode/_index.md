@@ -3,7 +3,7 @@ title: ValidationErrorCode
 second_title: Aspose.Finance for .NET API 参考
 description: 验证错误代码枚举
 type: docs
-weight: 8150
+weight: 8160
 url: /zh/net/aspose.finance.xbrl.validator/validationerrorcode/
 ---
 ## ValidationErrorCode enumeration
@@ -18,68 +18,76 @@ public enum ValidationErrorCode
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| ContextPeriodNoStartTime | `0` | 上下文周期类型是持续时间，但没有开始日期。 |
-| ContextPeriodNoEndTime | `1` | 上下文周期类型是持续时间，但没有结束日期。 |
-| ContextPeriodStartAfterEnd | `2` | 上下文周期类型为持续时间，但结束日期早于开始日期。 |
-| ContextInstantNoTime | `3` | 上下文 peroid 类型是即时的，但没有即时日期。 |
-| ContextScenarioXbrlNamespace | `4` | 上下文场景不能有 xbrl 命名空间节点。 |
-| ContextScenarioXbrlSubstitutionGroup | `5` | 上下文场景不能在 xbrl 命名空间中定义的元素的替换组中有元素。 |
-| ContextScenarioEmpty | `6` | 上下文场景不能为空" |
-| ContextSegmentXbrlNamespace | `7` | 上下文段不能有 xbrl 命名空间节点。 |
-| ContextSegmentXbrlSubstitutionGroup | `8` | 上下文段不能在 xbrl 命名空间中定义的元素的替换组中有元素。 |
-| ContextSegmentEmpty | `9` | 上下文段不能为空 |
-| ItemNoContext | `10` | 项目必须有上下文。 |
-| ItemPeroidTypeConflictWithContext | `11` | 项目的期间类型与上下文冲突。 |
-| ItemNumericNoUnit | `12` | 项目是数字，必须有一个单位。 |
-| MonetaryItemNoSingleUnitMeasure | `13` | 项目是货币类型，必须有一个单位度量。 |
-| MonetaryItemNoISO4217 | `14` | 项目是货币类型并且必须具有 Iso 4217 样式的单位度量。 |
-| ShareItemNoSingleUnitMeasure | `15` | 项目是共享类型，必须有一个单位度量。 |
-| ShareItemNoShareUnitMeasure | `16` | 项目是共享类型，并且必须具有 xbrli:shares 单位度量。 |
-| NillItemWithPrecisionOrDecimals | `17` | 项目为零，不能有精度或小数。 |
-| FractionItemWithPrecisionOrDecimals | `18` | 项目是分数类型，不能有精度或小数。 |
-| NumericItemWithBothPrecisionAndDecimals | `19` | 项目是数字类型，不能同时具有精度和小数。 |
-| NumericItemWithoutPrecisionOrDecimals | `20` | 项目是数字类型，必须具有精度或小数。 |
-| NonNumericItemWithPrecisionOrDecimals | `21` | 项目不是数字类型，不能有精度或小数。 |
-| FootnoteArcFromNotFound | `22` | 无法从 Loc 找到脚注弧。 |
-| FootnoteArcToNotFound | `23` | 脚注弧找不到脚注。 |
-| DefinitionArcFromNotFound | `24` | 无法从 Loc 找到定义弧。 |
-| DefinitionArcToNotFound | `25` | 找不到到 Loc 的定义弧。 |
-| EssenceAliasDefinitionArcDifferentType | `26` | Essence-alias 定义弧有不同的类型。 |
-| EssenceAliasDefinitionArcDifferentPeriodType | `27` | Essence-alias 定义弧有不同的 periodTypes。 |
-| EssenceAliasDefinitionArcDifferentBalance | `28` | Essence-alias 定义弧有不同的平衡。 |
-| CalculationArcFromNotFound | `29` | 无法从 Loc 找到计算弧。 |
-| CalculationArcToNotFound | `30` | 计算弧找不到到 Loc。 |
-| CalculationArcZeroWeight | `31` | 计算弧的权重为零。 |
-| CalculationArcSummationItemNonNumeric | `32` | 求和项计算弧有非数值概念。 |
-| CalculationArcIllegalBalancecWeight | `33` | 求和项计算弧有非数值概念。 |
-| LabelArcFromNotFound | `34` | 无法从 Loc 找到标签弧。 |
-| LabelArcToNotFound | `35` | 标签弧找不到标签。 |
-| PresentationArcFromNotFound | `36` | 无法从 Loc 找到演示弧。 |
-| PresentationArcToNotFound | `37` | 找不到到 Loc 的演示弧。 |
-| PresentationArcPreferredLabelNotFound | `38` | 演示弧找不到首选标签。 |
-| ReferenceArcFromNotFound | `39` | 无法从 Loc 找到参考弧。 |
-| ReferenceArcToNotFound | `40` | 参考弧找不到参考。 |
-| InlineFactMissContext | `41` | Inline Fact 找不到上下文。 |
-| InlineFactMissUnit | `42` | Inline Fact 找不到单位。 |
-| InlineDuplicatedId | `43` | 内联 Xbrl 文档的 ID 重复。 |
-| InlineRelationshipMissFromRef | `44` | 无法从 ref 中找到内联关系。 |
-| InlineRelationshipMissToRef | `45` | 内联关系找不到引用。 |
-| InlineRelationshipIllegalFromRef | `46` | 引用的内联关系非法。 |
-| InlineRelationshipIllegalToRef | `47` | 内联关系引用非法。 |
-| InlineContinuationNotMatch | `48` | Inline Continuation 有非法匹配。 |
-| InlineFootnoteNotlang | `49` | 内联脚注没有语言。 |
-| InlineFractionIllegalChildElement | `50` | Inline Fraction 包含非法子元素。 |
-| InlineFractionIllegalAttrbuites | `51` | Inline Fraction 具有非法属性。 |
-| InlineFractionIllegalAncestor | `52` | Inline Fraction 具有非法祖先。 |
-| InlineFractionTermNegative | `53` | 内联分数具有负项。 |
-| InlineHeaderIllegalAncestor | `54` | Inline Fraction 有非法标签。 |
-| InlineHeaderDisplayNone | `55` | 内联标题父 div 节点没有“display:none”样式。 |
-| InlineHeaderIllegalChildElement | `56` | 内联标头具有多个“隐藏”元素或多个“资源”元素。 |
-| InlineNonFractionIllegalAncestor | `57` | Inline nonFraction 具有非法祖先。 |
-| InlineNonFractionIllegalChildElement | `58` | Inline nonFraction 具有非法的 Child Elemnt。 |
-| InlineNonFractionIllegalProperties | `59` | Inline nonFraction 具有非法属性。 |
-| InlineNonFractionTermNegative | `60` | Inline nonFraction 具有 Term Negative。 |
-| InlineTupleIllegalChildElement | `61` | 内联元组包含非法元素。 |
+| SchemaRefNoTypeSimple | `0` | SchemaRef 类型必须出现并且必须具有“简单”的固定内容。 |
+| SchemaRefNoHref | `1` | SchemaRef 必须有一个 href 属性。 |
+| ContextNoId | `2` | 上下文 id 必须包含 id 属性。 |
+| ContextNoEntity | `3` | 实体元素是上下文元素的必填内容。 |
+| ContextEntityNoIdentifier | `4` | 实体元素必须包含标识符元素 |
+| ContextPeriodNoStartTime | `5` | 上下文周期类型为持续时间，但没有开始日期。 |
+| ContextPeriodNoEndTime | `6` | 上下文周期类型是持续时间，但没有结束日期。 |
+| ContextPeriodStartAfterEnd | `7` | 上下文周期类型为持续时间，但结束日期早于开始日期。 |
+| ContextInstantNoTime | `8` | 上下文周期类型是即时的，但没有即时日期。 |
+| ContextScenarioXbrlNamespace | `9` | 上下文场景不能有 xbrl 命名空间节点。 |
+| ContextScenarioXbrlSubstitutionGroup | `10` | 上下文场景不能在 xbrl 命名空间中定义的元素的替换组中有元素。 |
+| ContextScenarioEmpty | `11` | 上下文场景不能为空" |
+| ContextSegmentXbrlNamespace | `12` | 上下文段不能有 xbrl 命名空间节点。 |
+| ContextSegmentXbrlSubstitutionGroup | `13` | 上下文段不能在 xbrl 命名空间中定义的元素的替换组中有元素。 |
+| ContextSegmentEmpty | `14` | 上下文段不能为空 |
+| ItemNoContext | `15` | 项目必须有上下文。 |
+| ItemPeroidTypeConflictWithContext | `16` | 项目的期间类型与上下文冲突。 |
+| ItemNumericNoUnit | `17` | 项目是数字，必须有一个单位。 |
+| MonetaryItemNoSingleUnitMeasure | `18` | 项目是货币类型，必须有一个单位度量。 |
+| MonetaryItemNoISO4217 | `19` | 项目为货币类型，必须采用 Iso 4217 样式单位度量。 |
+| ShareItemNoSingleUnitMeasure | `20` | 项目是共享类型，必须有一个单位度量。 |
+| ShareItemNoShareUnitMeasure | `21` | 项目是共享类型，必须有 xbrli:shares 单位度量。 |
+| NillItemWithPrecisionOrDecimals | `22` | 项目为零，不能有精度或小数。 |
+| FractionItemWithPrecisionOrDecimals | `23` | 项目是分数类型，不能有精度或小数。 |
+| NumericItemWithBothPrecisionAndDecimals | `24` | 项目是数字类型，不能同时具有精度和小数。 |
+| NumericItemWithoutPrecisionOrDecimals | `25` | 项目是数字类型，必须具有精度或小数。 |
+| NonNumericItemWithPrecisionOrDecimals | `26` | 项目不是数字类型，不能有精度或小数。 |
+| FootnoteArcFromNotFound | `27` | 无法从 Loc. 找到脚注弧 |
+| FootnoteArcToNotFound | `28` | 脚注弧找不到脚注。 |
+| DefinitionArcFromNotFound | `29` | 无法从 Loc 找到定义弧。 |
+| DefinitionArcToNotFound | `30` | 找不到到 Loc. 的定义弧 |
+| EssenceAliasDefinitionArcDifferentType | `31` | 本质-别名定义弧有不同的类型。 |
+| EssenceAliasDefinitionArcDifferentPeriodType | `32` | Essence-alias 定义弧有不同的 periodTypes. |
+| EssenceAliasDefinitionArcDifferentBalance | `33` | 本质-别名定义弧有不同的平衡。 |
+| CalculationArcFromNotFound | `34` | 无法从 Loc. 找到计算弧 |
+| CalculationArcToNotFound | `35` | 计算弧找不到到 Loc. |
+| CalculationArcZeroWeight | `36` | 计算弧的权重为零。 |
+| CalculationArcSummationItemNonNumeric | `37` | 求和项计算弧有非数字概念。 |
+| CalculationArcIllegalBalancecWeight | `38` | 求和项计算弧有非数字概念。 |
+| LabelArcFromNotFound | `39` | 无法从 Loc. 找到标签弧 |
+| LabelArcToNotFound | `40` | 标签弧找不到标签。 |
+| PresentationArcFromNotFound | `41` | 无法从 Loc. 找到演示弧 |
+| PresentationArcToNotFound | `42` | 找不到到 Loc. 的演示弧 |
+| PresentationArcPreferredLabelNotFound | `43` | 展示弧找不到preferredLabel. |
+| ReferenceArcFromNotFound | `44` | 无法从 Loc. 找到参考弧 |
+| ReferenceArcToNotFound | `45` | 参考弧找不到参考。 |
+| InlineFactMissContext | `46` | Inline Fact 找不到上下文。 |
+| InlineFactMissUnit | `47` | Inline Fact 找不到单位。 |
+| InlineDuplicatedId | `48` | 内联 Xbrl 文档的 id 重复。 |
+| InlineRelationshipMissFromRef | `49` | 无法从 ref. 中找到内联关系 |
+| InlineRelationshipMissToRef | `50` | 内联关系找不到到 ref. |
+| InlineRelationshipIllegalFromRef | `51` | 内联关系从 ref. 非法 |
+| InlineRelationshipIllegalToRef | `52` | 内联关系对 ref. 是非法的 |
+| InlineContinuationNotMatch | `53` | 内联继续匹配非法。 |
+| InlineFootnoteNotlang | `54` | 内联脚注没有语言。 |
+| InlineFractionIllegalChildElement | `55` | 内联分数具有非法子元素。 |
+| InlineFractionIllegalAttrbuites | `56` | 内联分数具有非法属性。 |
+| InlineFractionIllegalAncestor | `57` | 内联分数具有非法祖先。 |
+| InlineFractionTermNegative | `58` | 内联分数具有负项。 |
+| InlineHeaderIllegalAncestor | `59` | 内联分数有非法标签。 |
+| InlineHeaderDisplayNone | `60` | 内联标题父 div 节点没有“display:none”样式。 |
+| InlineHeaderIllegalChildElement | `61` | 内联标题有多个“隐藏”元素或多个“资源”元素。 |
+| InlineNonFractionIllegalAncestor | `62` | 内联非分数具有非法祖先。 |
+| InlineNonFractionIllegalChildElement | `63` | 内联 nonFraction 具有非法子元素。 |
+| InlineNonFractionIllegalProperties | `64` | 内联 nonFraction 具有非法属性。 |
+| InlineNonFractionTermNegative | `65` | 内联 nonFraction 有 Term Negative. |
+| InlineTupleIllegalChildElement | `66` | 内联元组有非法元素。 |
+| InlineContinuationNoId | `67` | ix:continuation 元素必须有一个 id 属性.. |
+| InlineContinuationIllegalAncestor | `68` | ix:continuation 元素不得是 ix:hidden 元素的后代。 |
+| InlineExcludeIllegalAncestor | `69` | ix:exclude 元素必须是至少一个 ix:continuation、ix:footnote 或 ix:nonNumeric 元素的后代。 |
 
 ### 也可以看看
 

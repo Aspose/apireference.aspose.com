@@ -1,14 +1,14 @@
 ---
 title: LoanTransactionEnum
 second_title: Справочник по API Aspose.Finance для .NET
-description: Тип кредитной операции enum.
+description: Тип операции ссуды enum.
 type: docs
 weight: 3990
 url: /ru/net/aspose.finance.ofx.loan/loantransactionenum/
 ---
 ## LoanTransactionEnum enumeration
 
-Тип кредитной операции enum.
+Тип операции ссуды enum.
 
 ```csharp
 public enum LoanTransactionEnum
@@ -19,12 +19,12 @@ public enum LoanTransactionEnum
 | Имя | Ценность | Описание |
 | --- | --- | --- |
 | PAYMENT | `0` | Платеж по кредиту - общая сумма основного долга, процентов, условного депонирования |
-| FEE | `1` | Комиссия за кредит |
+| FEE | `1` | Плата за кредит |
 | LATE | `2` | Плата за просрочку платежа |
 | INT | `3` | Проценты начисляются, добавляются к остатку кредита |
-| ADVANCE | `4` | Аванс наличными, который добавляется к основному балансу |
-| XFER | `5` | Перевод основной суммы на/с другого счета, кредита или ДДА |
-| BALLOON | `6` | Оплата шара |
+| ADVANCE | `4` | Денежный аванс, который добавляется к основному балансу |
+| XFER | `5` | Перевод основной суммы на/с другого счета, кредита или DDA |
+| BALLOON | `6` | Оплата шара на сумму |
 | OTHER | `7` | Другое |
 
 ### Смотрите также

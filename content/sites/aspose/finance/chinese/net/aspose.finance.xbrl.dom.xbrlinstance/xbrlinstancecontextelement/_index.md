@@ -44,13 +44,13 @@ public class XbrlInstanceContextElement : XbrlInstanceElement
 | [GetAttribute](../../aspose.finance.xbrl.dom/element/getattribute)(string) | 按名称获取属性值。 |
 | [GetAttributeNS](../../aspose.finance.xbrl.dom/element/getattributens)(string, string) | 通过本地名称和命名空间 URI 获取属性值。 |
 | [HasAttribute](../../aspose.finance.xbrl.dom/element/hasattribute)(string) | 在此元素上指定具有给定名称的属性或具有默认值时返回 true，否则返回 false。 |
-| [HasAttributeNS](../../aspose.finance.xbrl.dom/element/hasattributens)(string, string) | 在此元素上指定具有给定本地名称和命名空间 URI 的属性或具有默认值时返回 true，否则返回 false。 |
+| [HasAttributeNS](../../aspose.finance.xbrl.dom/element/hasattributens)(string, string) | 如果在此元素上指定了具有给定本地名称和命名空间 URI 的属性或具有默认值，则返回 true，否则返回 false。 |
 | [RemoveAttribute](../../aspose.finance.xbrl.dom/element/removeattribute)(string) | 按名称删除属性。 |
 | [RemoveAttributeNS](../../aspose.finance.xbrl.dom/element/removeattributens)(string, string) | 按本地名称和命名空间 URI 删除属性。 |
 | [RemoveChild](../../aspose.finance.xbrl.dom/node/removechild)(Node) | 从子节点列表中删除由 old child 指示的子节点。 |
-| [ReplaceChild](../../aspose.finance.xbrl.dom/node/replacechild)(Node, Node) | 将子节点列表中的子节点 old child 替换为 new child，并返回 old child 节点。 |
-| [SetAttribute](../../aspose.finance.xbrl.dom/element/setattribute)(string, string) | 添加新属性。如果元素中已经存在具有该名称的属性，则其值将更改为 value 参数的值。 |
-| [SetAttributeNS](../../aspose.finance.xbrl.dom/element/setattributens)(string, string, string) | 添加新属性。如果元素上已经存在具有相同本地名称和命名空间 URI 的属性，则将其前缀更改为qualifiedName 的前缀部分，并将其值更改为值参数。 |
+| [ReplaceChild](../../aspose.finance.xbrl.dom/node/replacechild)(Node, Node) | 用新的子节点替换子节点列表中的子节点old child，并返回旧的子节点。 |
+| [SetAttribute](../../aspose.finance.xbrl.dom/element/setattribute)(string, string) | 添加一个新属性。如果元素中已存在具有该名称的属性，则其值将更改为 value 参数的值。 |
+| [SetAttributeNS](../../aspose.finance.xbrl.dom/element/setattributens)(string, string, string) | 添加一个新属性。如果元素上已经存在具有相同本地名称和命名空间URI的属性，则将其前缀更改为qualifiedName的前缀部分，并将其值更改为值参数。 |
 
 ### 也可以看看
 

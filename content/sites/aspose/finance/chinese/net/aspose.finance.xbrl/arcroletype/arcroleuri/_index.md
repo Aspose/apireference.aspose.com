@@ -1,14 +1,14 @@
 ---
 title: ArcroleUri
 second_title: Aspose.Finance for .NET API 参考
-description: 获取ArcroleTypeaspose.finance.xbrl/arcroletype中的 arc 角色 URI
+description: 获取 arc 角色 URIArcroleTypeaspose.finance.xbrl/arcroletype.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.xbrl/arcroletype/arcroleuri/
 ---
 ## ArcroleType.ArcroleUri property
 
-获取[`ArcroleType`](../../arcroletype)中的 arc 角色 URI。
+获取 arc 角色 URI[`ArcroleType`](../../arcroletype).
 
 ```csharp
 public Uri ArcroleUri { get; set; }

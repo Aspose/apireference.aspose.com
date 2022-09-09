@@ -1,14 +1,14 @@
 ---
 title: InterestRatePurchase
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置购买的实际利率考虑到在此报表期间应用的利率的任何变化
+description: 获取或设置购买的实际利率考虑到在此报表期间应用的任何利率变化
 type: docs
 weight: 140
 url: /zh/net/aspose.finance.ofx.creditcard/creditcardclosing/interestratepurchase/
 ---
 ## CreditCardClosing.InterestRatePurchase property
 
-获取或设置购买的实际利率，考虑到在此报表期间应用的利率的任何变化。
+获取或设置购买的实际利率，考虑到在此报表期间应用的任何利率变化。
 
 ```csharp
 public string InterestRatePurchase { get; set; }

@@ -18,17 +18,17 @@ public class Withdrawals
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Withdrawals](withdrawals)() | 初始化[`Withdrawals`](../withdrawals)类的新实例。 |
+| [Withdrawals](withdrawals)() | 初始化一个新的实例[`Withdrawals`](../withdrawals)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [AfterTax](../../aspose.finance.ofx.investment/withdrawals/aftertax) { get; set; } | 获取或设置税后取款。 |
-| [Match](../../aspose.finance.ofx.investment/withdrawals/match) { get; set; } | 获取或设置雇主匹配提款。 |
+| [AfterTax](../../aspose.finance.ofx.investment/withdrawals/aftertax) { get; set; } | 获取或设置税后提款。 |
+| [Match](../../aspose.finance.ofx.investment/withdrawals/match) { get; set; } | 获取或设置匹配提款的雇主。 |
 | [OtherNonvest](../../aspose.finance.ofx.investment/withdrawals/othernonvest) { get; set; } | 获取或设置其他非归属提款。 |
 | [OtherVest](../../aspose.finance.ofx.investment/withdrawals/othervest) { get; set; } | 获取或设置其他归属提款。 |
-| [PreTax](../../aspose.finance.ofx.investment/withdrawals/pretax) { get; set; } | 获取或设置税前提款。 |
+| [PreTax](../../aspose.finance.ofx.investment/withdrawals/pretax) { get; set; } | 获取或设置税前取款。 |
 | [ProfitSharing](../../aspose.finance.ofx.investment/withdrawals/profitsharing) { get; set; } | 获取或设置分红提款。 |
 | [Rollover](../../aspose.finance.ofx.investment/withdrawals/rollover) { get; set; } | 获取或设置展期提款。 |
 | [Total](../../aspose.finance.ofx.investment/withdrawals/total) { get; set; } | 获取或设置所有资金来源的取款总和。 |

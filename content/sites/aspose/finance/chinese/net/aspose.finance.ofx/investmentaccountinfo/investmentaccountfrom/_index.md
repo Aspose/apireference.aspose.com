@@ -1,14 +1,14 @@
 ---
 title: InvestmentAccountFrom
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置InvestmentAccountaspose.finance.ofx/investmentaccount的来源
+description: 获取或设置 fromInvestmentAccountaspose.finance.ofx/investmentaccount.
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.ofx/investmentaccountinfo/investmentaccountfrom/
 ---
 ## InvestmentAccountInfo.InvestmentAccountFrom property
 
-获取或设置[`InvestmentAccount`](../../investmentaccount)的来源。
+获取或设置 from[`InvestmentAccount`](../../investmentaccount).
 
 ```csharp
 public InvestmentAccount InvestmentAccountFrom { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: MailSyncRequests
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает коллекциюMailSyncRequestaspose.finance.ofx.email/mailsyncrequest.
+description: Получает или задает коллекциюMailSyncRequestaspose.finance.ofx.email/mailsyncrequest .
 type: docs
 weight: 30
 url: /ru/net/aspose.finance.ofx/emailrequestmessagesetv1/mailsyncrequests/
 ---
 ## EmailRequestMessageSetV1.MailSyncRequests property
 
-Получает или задает коллекцию[`MailSyncRequest`](../../../aspose.finance.ofx.email/mailsyncrequest).
+Получает или задает коллекцию[`MailSyncRequest`](../../../aspose.finance.ofx.email/mailsyncrequest) .
 
 ```csharp
 public List<MailSyncRequest> MailSyncRequests { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: DepositMailResponse
 second_title: Aspose.Finance for .NET API 参考
-description: 存款邮件通知消息响应类如果服务器接收到银行电子邮件同步消息则服务器返回此响应当已退回存款时
+description: 存款邮件通知消息响应类如果服务器收到银行电子邮件同步消息则服务器返回此响应当押金退回时
 type: docs
 weight: 420
 url: /zh/net/aspose.finance.ofx.bank/depositmailresponse/
 ---
 ## DepositMailResponse class
 
-存款邮件通知消息响应类。如果服务器接收到银行电子邮件同步消息，则服务器返回此响应（当已退回存款时）。
+存款邮件通知消息响应类。如果服务器收到银行电子邮件同步消息，则服务器返回此响应（当押金退回时）。
 
 ```csharp
 public class DepositMailResponse : AbstractMailResponse
@@ -18,15 +18,15 @@ public class DepositMailResponse : AbstractMailResponse
 
 | 姓名 | 描述 |
 | --- | --- |
-| [DepositMailResponse](depositmailresponse)() | 初始化[`DepositMailResponse`](../depositmailresponse)类的新实例。 |
+| [DepositMailResponse](depositmailresponse)() | 初始化一个新的实例[`DepositMailResponse`](../depositmailresponse)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [BankAccountFrom](../../aspose.finance.ofx.bank/depositmailresponse/bankaccountfrom) { get; set; } | 获取或设置[`BankAccount`](../../aspose.finance.ofx/bankaccount)的来源。 |
+| [BankAccountFrom](../../aspose.finance.ofx.bank/depositmailresponse/bankaccountfrom) { get; set; } | 获取或设置 from[`BankAccount`](../../aspose.finance.ofx/bankaccount). |
 | [Fee](../../aspose.finance.ofx.bank/depositmailresponse/fee) { get; set; } | 获取或设置为 NSF 评估的费用。 |
-| [Mail](../../aspose.finance.ofx.bank/depositmailresponse/mail) { get; set; } | 获取或设置[`Mail`](./mail)。 |
+| [Mail](../../aspose.finance.ofx.bank/depositmailresponse/mail) { get; set; } | 获取或设置[`Mail`](./mail). |
 | [TransactionAmount](../../aspose.finance.ofx.bank/depositmailresponse/transactionamount) { get; set; } | 获取或设置存款金额。 |
 | [UserDate](../../aspose.finance.ofx.bank/depositmailresponse/userdate) { get; set; } | 获取或设置客户存款日期。 |
 

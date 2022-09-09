@@ -23,7 +23,7 @@ public class HTMLHeadingElement : HTMLElement
 | [ChildElements](../../aspose.finance.xbrl.dom/element/childelements) { get; } | 获取元素的子元素。 |
 | [ChildNodes](../../aspose.finance.xbrl.dom/node/childnodes) { get; } | 获取子节点。 |
 | [ClassName](../../aspose.finance.xbrl.dom.html/htmlelement/classname) { get; set; } | 获取或设置元素的类属性。由于与许多语言公开的“类”关键字冲突，此属性已被重命名。请参阅 HTML 4.01 中的类属性定义。 |
-| [Dir](../../aspose.finance.xbrl.dom.html/htmlelement/dir) { get; set; } | 获取或设置方向性中性文本的基本方向和表格的方向性。请参阅 HTML 4.01 中的 dir 属性定义。 |
+| [Dir](../../aspose.finance.xbrl.dom.html/htmlelement/dir) { get; set; } | 获取或设置方向性中性文本的基本方向和表格的方向性。请参阅 HTML 4.01. 中的 dir 属性定义 |
 | [FirstChild](../../aspose.finance.xbrl.dom/node/firstchild) { get; } | 获取此节点的第一个子节点。如果没有这样的节点，则返回 null。 |
 | [HasChildNodes](../../aspose.finance.xbrl.dom/node/haschildnodes) { get; } | 获取此节点是否有子节点。 |
 | [Id](../../aspose.finance.xbrl.dom.html/htmlelement/id) { get; set; } | 获取或设置元素的标识符。请参阅 HTML 4.01 中的 id 属性定义。 |
@@ -41,7 +41,7 @@ public class HTMLHeadingElement : HTMLElement
 | override [Prefix](../../aspose.finance.xbrl.dom/element/prefix) { get; } | 获取元素的前缀。 |
 | [PreviousSibling](../../aspose.finance.xbrl.dom/node/previoussibling) { get; } | 获取紧接在此节点之前的节点。如果没有这样的节点，则返回 null。 |
 | override [TextContent](../../aspose.finance.xbrl.dom/element/textcontent) { get; set; } | 获取元素的文本内容。 |
-| [Title](../../aspose.finance.xbrl.dom.html/htmlelement/title) { get; set; } | 获取或设置元素的建议标题。请参阅 HTML 4.01 中的 title 属性定义。 |
+| [Title](../../aspose.finance.xbrl.dom.html/htmlelement/title) { get; set; } | 获取或设置元素的咨询标题。请参阅 HTML 4.01 中的 title 属性定义。 |
 
 ## 方法
 
@@ -51,13 +51,13 @@ public class HTMLHeadingElement : HTMLElement
 | [GetAttribute](../../aspose.finance.xbrl.dom/element/getattribute)(string) | 按名称获取属性值。 |
 | [GetAttributeNS](../../aspose.finance.xbrl.dom/element/getattributens)(string, string) | 通过本地名称和命名空间 URI 获取属性值。 |
 | [HasAttribute](../../aspose.finance.xbrl.dom/element/hasattribute)(string) | 在此元素上指定具有给定名称的属性或具有默认值时返回 true，否则返回 false。 |
-| [HasAttributeNS](../../aspose.finance.xbrl.dom/element/hasattributens)(string, string) | 在此元素上指定具有给定本地名称和命名空间 URI 的属性或具有默认值时返回 true，否则返回 false。 |
+| [HasAttributeNS](../../aspose.finance.xbrl.dom/element/hasattributens)(string, string) | 如果在此元素上指定了具有给定本地名称和命名空间 URI 的属性或具有默认值，则返回 true，否则返回 false。 |
 | [RemoveAttribute](../../aspose.finance.xbrl.dom/element/removeattribute)(string) | 按名称删除属性。 |
 | [RemoveAttributeNS](../../aspose.finance.xbrl.dom/element/removeattributens)(string, string) | 按本地名称和命名空间 URI 删除属性。 |
 | [RemoveChild](../../aspose.finance.xbrl.dom/node/removechild)(Node) | 从子节点列表中删除由 old child 指示的子节点。 |
-| [ReplaceChild](../../aspose.finance.xbrl.dom/node/replacechild)(Node, Node) | 将子节点列表中的子节点 old child 替换为 new child，并返回 old child 节点。 |
-| [SetAttribute](../../aspose.finance.xbrl.dom/element/setattribute)(string, string) | 添加新属性。如果元素中已经存在具有该名称的属性，则其值将更改为 value 参数的值。 |
-| [SetAttributeNS](../../aspose.finance.xbrl.dom/element/setattributens)(string, string, string) | 添加新属性。如果元素上已经存在具有相同本地名称和命名空间 URI 的属性，则将其前缀更改为qualifiedName 的前缀部分，并将其值更改为值参数。 |
+| [ReplaceChild](../../aspose.finance.xbrl.dom/node/replacechild)(Node, Node) | 用新的子节点替换子节点列表中的子节点old child，并返回旧的子节点。 |
+| [SetAttribute](../../aspose.finance.xbrl.dom/element/setattribute)(string, string) | 添加一个新属性。如果元素中已存在具有该名称的属性，则其值将更改为 value 参数的值。 |
+| [SetAttributeNS](../../aspose.finance.xbrl.dom/element/setattributens)(string, string, string) | 添加一个新属性。如果元素上已经存在具有相同本地名称和命名空间URI的属性，则将其前缀更改为qualifiedName的前缀部分，并将其值更改为值参数。 |
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: PreTax
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置税前收益
+description: 获取或设置税前收入
 type: docs
 weight: 60
 url: /zh/net/aspose.finance.ofx.investment/earnings/pretax/
 ---
 ## Earnings.PreTax property
 
-获取或设置税前收益。
+获取或设置税前收入。
 
 ```csharp
 public string PreTax { get; set; }

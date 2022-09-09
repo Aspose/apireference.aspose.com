@@ -18,13 +18,13 @@ public class OfxExtensionType
 
 | Имя | Описание |
 | --- | --- |
-| [OfxExtensionType](ofxextensiontype)() | Инициализирует новый экземпляр класса[`OfxExtensionType`](../ofxextensiontype). |
+| [OfxExtensionType](ofxextensiontype)() | Инициализирует новый экземпляр[`OfxExtensionType`](../ofxextensiontype) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [OfxElements](../../aspose.finance.ofx/ofxextensiontype/ofxelements) { get; set; } | Получает или задает коллекцию[`OfxElementType`](../ofxelementtype). |
+| [OfxElements](../../aspose.finance.ofx/ofxextensiontype/ofxelements) { get; set; } | Получает или задает коллекцию[`OfxElementType`](../ofxelementtype) . |
 
 ### Смотрите также
 

@@ -8,7 +8,7 @@ url: /zh/net/aspose.finance.ofx.investment/investmentbuy/
 ---
 ## InvestmentBuy class
 
-投资买入交易类。
+投资买入交易类
 
 ```csharp
 public class InvestmentBuy : AbstractInvestmentTransaction
@@ -18,31 +18,31 @@ public class InvestmentBuy : AbstractInvestmentTransaction
 
 | 姓名 | 描述 |
 | --- | --- |
-| [InvestmentBuy](investmentbuy)() | 初始化[`InvestmentBuy`](../investmentbuy)类的新实例。 |
+| [InvestmentBuy](investmentbuy)() | 初始化一个新的实例[`InvestmentBuy`](../investmentbuy)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
 | [Commission](../../aspose.finance.ofx.investment/investmentbuy/commission) { get; set; } | 获取或设置交易佣金。 |
-| [Currency](../../aspose.finance.ofx.investment/investmentbuy/currency) { get; set; } | 获取或设置[`Currency`](./currency)。 |
-| [Fees](../../aspose.finance.ofx.investment/investmentbuy/fees) { get; set; } | 获取或设置适用于交易的费用。 |
-| [Investment401kSource](../../aspose.finance.ofx.investment/investmentbuy/investment401ksource) { get; set; } | 获取或设置此交易的资金来源。 |
-| [InvestmentTransaction](../../aspose.finance.ofx.investment/abstractinvestmenttransaction/investmenttransaction) { get; set; } | 获取或设置[`InvestmentTransaction`](../abstractinvestmenttransaction/investmenttransaction)。 |
+| [Currency](../../aspose.finance.ofx.investment/investmentbuy/currency) { get; set; } | 获取或设置[`Currency`](./currency). |
+| [Fees](../../aspose.finance.ofx.investment/investmentbuy/fees) { get; set; } | 获取或设置应用于交易的费用。 |
+| [Investment401kSource](../../aspose.finance.ofx.investment/investmentbuy/investment401ksource) { get; set; } | 获取或设置本次交易的资金来源。 |
+| [InvestmentTransaction](../../aspose.finance.ofx.investment/abstractinvestmenttransaction/investmenttransaction) { get; set; } | 获取或设置[`InvestmentTransaction`](../abstractinvestmenttransaction/investmenttransaction). |
 | [Load](../../aspose.finance.ofx.investment/investmentbuy/load) { get; set; } | 获取或设置事务的负载。 |
-| [LoanId](../../aspose.finance.ofx.investment/investmentbuy/loanid) { get; set; } | 获取或设置交易是由于贷款还是贷款还款，以及它是哪笔贷款。仅适用于 401(k) 帐户。 |
+| [LoanId](../../aspose.finance.ofx.investment/investmentbuy/loanid) { get; set; } | 获取或设置交易是由于贷款或还款，以及它是哪笔贷款。仅适用于 401(k) 帐户。 |
 | [LoanInterest](../../aspose.finance.ofx.investment/investmentbuy/loaninterest) { get; set; } | 获取或设置多少贷款偿还是利息。仅适用于 401(k) 帐户。 |
-| [LoanPrincipal](../../aspose.finance.ofx.investment/investmentbuy/loanprincipal) { get; set; } | 获取或设置多少贷款偿还是本金。仅适用于 401(k) 帐户。 |
+| [LoanPrincipal](../../aspose.finance.ofx.investment/investmentbuy/loanprincipal) { get; set; } | 获取或设置本金偿还的贷款金额。仅适用于 401(k) 帐户。 |
 | [Markup](../../aspose.finance.ofx.investment/investmentbuy/markup) { get; set; } | 获取或设置归因于经销商加价的单价部分。 |
-| [OriginCurrency](../../aspose.finance.ofx.investment/investmentbuy/origincurrency) { get; set; } | 获取或设置原点[`Currency`](./currency)。 |
-| [PayrollDate](../../aspose.finance.ofx.investment/investmentbuy/payrolldate) { get; set; } | 获取或设置通过 401(k) 帐户的工资扣除获得此交易的资金的日期。 |
-| [PriorYearContribution](../../aspose.finance.ofx.investment/investmentbuy/prioryearcontribution) { get; set; } | 获取或设置此购买是否是在前一年为 401(k) 帐户捐款的情况下进行的。 |
-| [SecurityId](../../aspose.finance.ofx.investment/investmentbuy/securityid) { get; set; } | 获取或设置[`SecurityId`](./securityid)。 |
+| [OriginCurrency](../../aspose.finance.ofx.investment/investmentbuy/origincurrency) { get; set; } | 获取或设置原点[`Currency`](./currency). |
+| [PayrollDate](../../aspose.finance.ofx.investment/investmentbuy/payrolldate) { get; set; } | 获取或设置通过 401(k) 帐户的工资扣除获得此交易资金的日期。 |
+| [PriorYearContribution](../../aspose.finance.ofx.investment/investmentbuy/prioryearcontribution) { get; set; } | 获取或设置此购买是否是在上一年为 401(k) 帐户捐款的情况下进行的。 |
+| [SecurityId](../../aspose.finance.ofx.investment/investmentbuy/securityid) { get; set; } | 获取或设置[`SecurityId`](./securityid). |
 | [SubAccountFund](../../aspose.finance.ofx.investment/investmentbuy/subaccountfund) { get; set; } | 获取或设置交易的钱从哪里来或去哪里。 |
-| [SubAccountSecurity](../../aspose.finance.ofx.investment/investmentbuy/subaccountsecurity) { get; set; } | 获取或设置证券的子账户类型 |
+| [SubAccountSecurity](../../aspose.finance.ofx.investment/investmentbuy/subaccountsecurity) { get; set; } | 获取或设置security 的子账户类型 |
 | [Taxes](../../aspose.finance.ofx.investment/investmentbuy/taxes) { get; set; } | 获取或设置交易税。 |
 | [Total](../../aspose.finance.ofx.investment/investmentbuy/total) { get; set; } | 获取或设置交易总额。 |
-| [UnitPrice](../../aspose.finance.ofx.investment/investmentbuy/unitprice) { get; set; } | 获取或设置每个常用报价单位的价格。不包括标记/降价。股票、共同基金等的股价。债券面值的百分比。期权的每股（非合约）。 |
+| [UnitPrice](../../aspose.finance.ofx.investment/investmentbuy/unitprice) { get; set; } | 获取或设置每个常用单位的价格。不包括标记/降价。股票、共同基金等的股价。债券面值的百分比。期权的每股（非合约）。 |
 | [Units](../../aspose.finance.ofx.investment/investmentbuy/units) { get; set; } | 获取或设置单位。用于除股票分割以外的基于安全的操作。股票、共同基金等的股票。债券的面值。期权合约。 |
 
 ### 也可以看看

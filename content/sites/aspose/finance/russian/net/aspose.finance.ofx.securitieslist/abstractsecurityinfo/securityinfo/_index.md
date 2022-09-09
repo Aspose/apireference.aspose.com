@@ -1,14 +1,14 @@
 ---
 title: SecurityInfo
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задаетGeneralSecurityInfoaspose.finance.ofx.securitieslist/generalsecurityinfo.
+description: Получает или задаетGeneralSecurityInfoaspose.finance.ofx.securitieslist/generalsecurityinfo .
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.securitieslist/abstractsecurityinfo/securityinfo/
 ---
 ## AbstractSecurityInfo.SecurityInfo property
 
-Получает или задает[`GeneralSecurityInfo`](../../generalsecurityinfo).
+Получает или задает[`GeneralSecurityInfo`](../../generalsecurityinfo) .
 
 ```csharp
 public GeneralSecurityInfo SecurityInfo { get; set; }

@@ -18,7 +18,7 @@ public class PaymentCancelResponse : AbstractPaymentResponse
 
 | Имя | Описание |
 | --- | --- |
-| [PaymentCancelResponse](paymentcancelresponse)() | Инициализирует новый экземпляр класса[`PaymentCancelResponse`](../paymentcancelresponse). |
+| [PaymentCancelResponse](paymentcancelresponse)() | Инициализирует новый экземпляр[`PaymentCancelResponse`](../paymentcancelresponse) класс. |
 
 ## Характеристики
 

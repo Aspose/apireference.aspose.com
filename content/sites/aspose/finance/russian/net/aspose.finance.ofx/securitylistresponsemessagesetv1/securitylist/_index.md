@@ -1,14 +1,14 @@
 ---
 title: SecurityList
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задаетSecurityListaspose.finance.ofx.securitieslist/securitylist.
+description: Получает или задаетSecurityListaspose.finance.ofx.securitieslist/securitylist .
 type: docs
 weight: 20
 url: /ru/net/aspose.finance.ofx/securitylistresponsemessagesetv1/securitylist/
 ---
 ## SecurityListResponseMessageSetV1.SecurityList property
 
-Получает или задает[`SecurityList`](../../../aspose.finance.ofx.securitieslist/securitylist).
+Получает или задает[`SecurityList`](../../../aspose.finance.ofx.securitieslist/securitylist) .
 
 ```csharp
 public SecurityList SecurityList { get; set; }

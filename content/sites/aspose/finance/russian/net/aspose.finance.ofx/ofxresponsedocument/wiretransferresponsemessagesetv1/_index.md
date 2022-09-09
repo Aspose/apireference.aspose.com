@@ -1,14 +1,14 @@
 ---
 title: WireTransferResponseMessageSetV1
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задаетWireTransferResponseMessageSetV1aspose.finance.ofx/ofxresponsedocument/wiretransferresponsemessagesetv1.
+description: Получает или задаетWireTransferResponseMessageSetV1aspose.finance.ofx/ofxresponsedocument/wiretransferresponsemessagesetv1 .
 type: docs
 weight: 180
 url: /ru/net/aspose.finance.ofx/ofxresponsedocument/wiretransferresponsemessagesetv1/
 ---
 ## OfxResponseDocument.WireTransferResponseMessageSetV1 property
 
-Получает или задает`WireTransferResponseMessageSetV1`.
+Получает или задает`WireTransferResponseMessageSetV1` .
 
 ```csharp
 public WireTransferResponseMessageSetV1 WireTransferResponseMessageSetV1 { get; set; }

@@ -18,7 +18,7 @@ public class LoanRateType
 
 | Имя | Описание |
 | --- | --- |
-| [LoanRateType](loanratetype)() | Инициализирует новый экземпляр класса[`LoanRateType`](../loanratetype). |
+| [LoanRateType](loanratetype)() | Инициализирует новый экземпляр[`LoanRateType`](../loanratetype) класс. |
 
 ## Характеристики
 

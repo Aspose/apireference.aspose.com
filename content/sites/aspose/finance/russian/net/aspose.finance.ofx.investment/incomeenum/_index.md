@@ -1,14 +1,14 @@
 ---
 title: IncomeEnum
 second_title: Справочник по API Aspose.Finance для .NET
-description: Тип дохода от инвестиций enum.
+description: Тип инвестиционного дохода enum.
 type: docs
 weight: 2880
 url: /ru/net/aspose.finance.ofx.investment/incomeenum/
 ---
 ## IncomeEnum enumeration
 
-Тип дохода от инвестиций enum.
+Тип инвестиционного дохода enum.
 
 ```csharp
 public enum IncomeEnum
@@ -19,9 +19,9 @@ public enum IncomeEnum
 | Имя | Ценность | Описание |
 | --- | --- | --- |
 | CGLONG | `0` | Прирост капитала в долгосрочной перспективе |
-| CGSHORT | `1` | Прирост капитала - краткосрочный |
-| DIV | `2` | Дивиденды |
-| INTEREST | `3` | Проценты |
+| CGSHORT | `1` | Прирост капитала — краткосрочный |
+| DIV | `2` | Дивиденд |
+| INTEREST | `3` | Интерес |
 | MISC | `4` | Разное |
 
 ### Смотрите также

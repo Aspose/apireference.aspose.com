@@ -1,14 +1,14 @@
 ---
 title: MFAChallengeTransactionRequest
 second_title: Справочник по API Aspose.Finance для .NET
-description: Класс запроса транзакции оспаривания MFA
+description: Запрос на транзакцию вызова MFA class
 type: docs
 weight: 5350
 url: /ru/net/aspose.finance.ofx.signon/mfachallengetransactionrequest/
 ---
 ## MFAChallengeTransactionRequest class
 
-Класс запроса транзакции оспаривания MFA
+Запрос на транзакцию вызова MFA class
 
 ```csharp
 public class MFAChallengeTransactionRequest : AbstractTransactionRequest
@@ -18,15 +18,15 @@ public class MFAChallengeTransactionRequest : AbstractTransactionRequest
 
 | Имя | Описание |
 | --- | --- |
-| [MFAChallengeTransactionRequest](mfachallengetransactionrequest)() | Инициализирует новый экземпляр класса[`MFAChallengeTransactionRequest`](../mfachallengetransactionrequest). |
+| [MFAChallengeTransactionRequest](mfachallengetransactionrequest)() | Инициализирует новый экземпляр[`MFAChallengeTransactionRequest`](../mfachallengetransactionrequest) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [ClientCookie](../../aspose.finance.ofx/abstracttransactionrequest/clientcookie) { get; set; } | Получает или задает данные, которые будут отображаться в ответе транзакции |
-| [MFAChallengeRequest](../../aspose.finance.ofx.signon/mfachallengetransactionrequest/mfachallengerequest) { get; set; } | Получает или задает[`MFAChallengeRequest`](./mfachallengerequest). |
-| [OfxExtension](../../aspose.finance.ofx.signon/mfachallengetransactionrequest/ofxextension) { get; set; } | Получает или задает[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
+| [ClientCookie](../../aspose.finance.ofx/abstracttransactionrequest/clientcookie) { get; set; } | Получает или задает данные, которые будут отражены в транзакции response |
+| [MFAChallengeRequest](../../aspose.finance.ofx.signon/mfachallengetransactionrequest/mfachallengerequest) { get; set; } | Получает или задает[`MFAChallengeRequest`](./mfachallengerequest) . |
+| [OfxExtension](../../aspose.finance.ofx.signon/mfachallengetransactionrequest/ofxextension) { get; set; } | Получает или задает[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype) . |
 | [TransactionAuthorizationNumber](../../aspose.finance.ofx/abstracttransactionrequest/transactionauthorizationnumber) { get; set; } | Получает или задает номер авторизации транзакции. |
 | [TransactionUniqueId](../../aspose.finance.ofx/abstracttransactionrequest/transactionuniqueid) { get; set; } | Получает или задает назначенный клиентом глобальный уникальный идентификатор для этой транзакции |
 

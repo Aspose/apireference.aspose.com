@@ -1,14 +1,14 @@
 ---
 title: LoanTransactionList
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化LoanTransactionListaspose.finance.ofx.loan/loantransactionlist类的新实例
+description: 初始化一个新的实例LoanTransactionListaspose.finance.ofx.loan/loantransactionlist类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.loan/loantransactionlist/loantransactionlist/
 ---
 ## LoanTransactionList constructor
 
-初始化[`LoanTransactionList`](../../loantransactionlist)类的新实例。
+初始化一个新的实例[`LoanTransactionList`](../../loantransactionlist)类.
 
 ```csharp
 public LoanTransactionList()

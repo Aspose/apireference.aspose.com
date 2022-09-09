@@ -1,14 +1,14 @@
 ---
 title: InterTransactionRequests
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает коллекциюInterTransactionRequestaspose.finance.ofx.intertransfer/intertransactionrequest.
+description: Получает или задает коллекциюInterTransactionRequestaspose.finance.ofx.intertransfer/intertransactionrequest .
 type: docs
 weight: 30
 url: /ru/net/aspose.finance.ofx.intertransfer/intersyncrequest/intertransactionrequests/
 ---
 ## InterSyncRequest.InterTransactionRequests property
 
-Получает или задает коллекцию[`InterTransactionRequest`](../../intertransactionrequest).
+Получает или задает коллекцию[`InterTransactionRequest`](../../intertransactionrequest) .
 
 ```csharp
 public List<InterTransactionRequest> InterTransactionRequests { get; set; }

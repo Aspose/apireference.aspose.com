@@ -1,14 +1,14 @@
 ---
 title: StudentAddress
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化StudentAddressaspose.finance.ofx.tax1098/studentaddress类的新实例
+description: 初始化一个新的实例StudentAddressaspose.finance.ofx.tax1098/studentaddress类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.tax1098/studentaddress/studentaddress/
 ---
 ## StudentAddress constructor
 
-初始化[`StudentAddress`](../../studentaddress)类的新实例。
+初始化一个新的实例[`StudentAddress`](../../studentaddress)类.
 
 ```csharp
 public StudentAddress()

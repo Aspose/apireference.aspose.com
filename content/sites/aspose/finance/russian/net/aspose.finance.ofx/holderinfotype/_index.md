@@ -1,14 +1,14 @@
 ---
 title: HolderInfoType
 second_title: Справочник по API Aspose.Finance для .NET
-description: Информация о владельце счета включая информацию об основном и вторичном владельце.
+description: Информация о владельце учетной записи включая информацию об основном и вторичном владельце.
 type: docs
 weight: 2260
 url: /ru/net/aspose.finance.ofx/holderinfotype/
 ---
 ## HolderInfoType class
 
-Информация о владельце счета, включая информацию об основном и вторичном владельце.
+Информация о владельце учетной записи, включая информацию об основном и вторичном владельце.
 
 ```csharp
 public class HolderInfoType
@@ -18,14 +18,14 @@ public class HolderInfoType
 
 | Имя | Описание |
 | --- | --- |
-| [HolderInfoType](holderinfotype)() | Инициализирует новый экземпляр класса[`HolderInfoType`](../holderinfotype). |
+| [HolderInfoType](holderinfotype)() | Инициализирует новый экземпляр[`HolderInfoType`](../holderinfotype) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [PrimaryHolder](../../aspose.finance.ofx/holderinfotype/primaryholder) { get; set; } | Получает или задает первичный объект[`AccountHolderType`](../accountholdertype). |
-| [SecondaryHolder](../../aspose.finance.ofx/holderinfotype/secondaryholder) { get; set; } | Получает или задает вторичный объект[`AccountHolderType`](../accountholdertype). |
+| [PrimaryHolder](../../aspose.finance.ofx/holderinfotype/primaryholder) { get; set; } | Получает или задает первичный[`AccountHolderType`](../accountholdertype) . |
+| [SecondaryHolder](../../aspose.finance.ofx/holderinfotype/secondaryholder) { get; set; } | Получает или задает вторичный[`AccountHolderType`](../accountholdertype) . |
 
 ### Смотрите также
 

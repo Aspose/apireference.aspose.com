@@ -1,14 +1,14 @@
 ---
 title: Request
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задаетIntraRequestaspose.finance.ofx.bank/intrarequestилиIntraModRequestaspose.finance.ofx.bank/intramodrequestилиIntraCancellationRequestaspose.finance.ofx.bank/intracancellationrequest.
+description: Получает или задаетIntraRequestaspose.finance.ofx.bank/intrarequest или жеIntraModRequestaspose.finance.ofx.bank/intramodrequest или жеIntraCancellationRequestaspose.finance.ofx.bank/intracancellationrequest .
 type: docs
 weight: 30
 url: /ru/net/aspose.finance.ofx.bank/intratransactionrequest/request/
 ---
 ## IntraTransactionRequest.Request property
 
-Получает или задает[`IntraRequest`](../../intrarequest)или[`IntraModRequest`](../../intramodrequest)или[`IntraCancellationRequest`](../../intracancellationrequest).
+Получает или задает[`IntraRequest`](../../intrarequest) или же[`IntraModRequest`](../../intramodrequest) или же[`IntraCancellationRequest`](../../intracancellationrequest) .
 
 ```csharp
 public AbstractIntraRequest Request { get; set; }

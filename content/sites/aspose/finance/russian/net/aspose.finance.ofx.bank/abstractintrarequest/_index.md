@@ -1,14 +1,14 @@
 ---
 title: AbstractIntraRequest
 second_title: Справочник по API Aspose.Finance для .NET
-description: Абстрактный базовый класс для всех классов связанных с внутрибанковскими запросами на перевод.
+description: Абстрактный базовый класс для всех классов связанных с запросом на внутрибанковский перевод.
 type: docs
 weight: 260
 url: /ru/net/aspose.finance.ofx.bank/abstractintrarequest/
 ---
 ## AbstractIntraRequest class
 
-Абстрактный базовый класс для всех классов, связанных с внутрибанковскими запросами на перевод.
+Абстрактный базовый класс для всех классов, связанных с запросом на внутрибанковский перевод.
 
 ```csharp
 public abstract class AbstractIntraRequest

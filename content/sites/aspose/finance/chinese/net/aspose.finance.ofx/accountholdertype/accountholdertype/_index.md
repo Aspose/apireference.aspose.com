@@ -1,14 +1,14 @@
 ---
 title: AccountHolderType
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化AccountHolderTypeaspose.finance.ofx/accountholdertype类的新实例
+description: 初始化一个新的实例AccountHolderTypeaspose.finance.ofx/accountholdertype类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx/accountholdertype/accountholdertype/
 ---
 ## AccountHolderType constructor
 
-初始化[`AccountHolderType`](../../accountholdertype)类的新实例。
+初始化一个新的实例[`AccountHolderType`](../../accountholdertype)类.
 
 ```csharp
 public AccountHolderType()

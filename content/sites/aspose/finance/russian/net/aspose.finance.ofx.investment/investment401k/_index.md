@@ -1,14 +1,14 @@
 ---
 title: Investment401k
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инвестиционный класс информации о счете 401k.
+description: Инвестиционный класс 401k счета информации.
 type: docs
 weight: 2890
 url: /ru/net/aspose.finance.ofx.investment/investment401k/
 ---
 ## Investment401k class
 
-Инвестиционный класс информации о счете 401(k).
+Инвестиционный класс 401(k) счета информации.
 
 ```csharp
 public class Investment401k
@@ -18,25 +18,25 @@ public class Investment401k
 
 | Имя | Описание |
 | --- | --- |
-| [Investment401k](investment401k)() | Инициализирует новый экземпляр класса[`Investment401k`](../investment401k). |
+| [Investment401k](investment401k)() | Инициализирует новый экземпляр[`Investment401k`](../investment401k) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
 | [BrokerContactInformation](../../aspose.finance.ofx.investment/investment401k/brokercontactinformation) { get; set; } | Получает или задает имя контактного лица брокера, а также любую доступную контактную информацию, например номер телефона. |
-| [ContributionInformation](../../aspose.finance.ofx.investment/investment401k/contributioninformation) { get; set; } | Получает или задает коллекцию[`ContributionSecurity`](../contributionsecurity). |
-| [CurrentVestPercent](../../aspose.finance.ofx.investment/investment401k/currentvestpercent) { get; set; } | Получает или задает расчетный процент отчислений работодателя на текущую дату. |
+| [ContributionInformation](../../aspose.finance.ofx.investment/investment401k/contributioninformation) { get; set; } | Получает или задает коллекцию[`ContributionSecurity`](../contributionsecurity) . |
+| [CurrentVestPercent](../../aspose.finance.ofx.investment/investment401k/currentvestpercent) { get; set; } | Получает или задает оценочный процент взносов работодателя на текущую дату. |
 | [DeferPercentAfterTax](../../aspose.finance.ofx.investment/investment401k/deferpercentaftertax) { get; set; } | Получает или задает процент отложенной зарплаты сотрудника после уплаты налогов. |
 | [DeferPercentPreTax](../../aspose.finance.ofx.investment/investment401k/deferpercentpretax) { get; set; } | Получает или задает процент отложенной зарплаты сотрудника до налогообложения. |
-| [EmployerContactInformation](../../aspose.finance.ofx.investment/investment401k/employercontactinformation) { get; set; } | Получает или задает имя контактного лица в работодателе, а также любую доступную контактную информацию, например номер телефона. |
+| [EmployerContactInformation](../../aspose.finance.ofx.investment/investment401k/employercontactinformation) { get; set; } | Получает или задает имя контактного лица у работодателя, а также любую доступную контактную информацию, например номер телефона. |
 | [EmployerName](../../aspose.finance.ofx.investment/investment401k/employername) { get; set; } | Получает или задает имя работодателя. |
-| [Investment401kSummary](../../aspose.finance.ofx.investment/investment401k/investment401ksummary) { get; set; } | Получает или задает[`Investment401kSummary`](./investment401ksummary). |
-| [LoanInfos](../../aspose.finance.ofx.investment/investment401k/loaninfos) { get; set; } | Получает или задает коллекцию[`LoanInfo`](../loaninfo). |
-| [MatchInfo](../../aspose.finance.ofx.investment/investment401k/matchinfo) { get; set; } | Получает или задает[`MatchInfo`](./matchinfo). |
+| [Investment401kSummary](../../aspose.finance.ofx.investment/investment401k/investment401ksummary) { get; set; } | Получает или задает[`Investment401kSummary`](./investment401ksummary) . |
+| [LoanInfos](../../aspose.finance.ofx.investment/investment401k/loaninfos) { get; set; } | Получает или задает коллекцию[`LoanInfo`](../loaninfo) . |
+| [MatchInfo](../../aspose.finance.ofx.investment/investment401k/matchinfo) { get; set; } | Получает или задает[`MatchInfo`](./matchinfo) . |
 | [PlanId](../../aspose.finance.ofx.investment/investment401k/planid) { get; set; } | Получает или задает номер плана. |
-| [PlanJoinDate](../../aspose.finance.ofx.investment/investment401k/planjoindate) { get; set; } | Получает или задает дату присоединения сотрудника к плану. |
-| [VestInfos](../../aspose.finance.ofx.investment/investment401k/vestinfos) { get; set; } | Получает или задает коллекцию[`VestInfo`](../vestinfo). |
+| [PlanJoinDate](../../aspose.finance.ofx.investment/investment401k/planjoindate) { get; set; } | Получает или задает дату, когда сотрудник присоединился к плану. |
+| [VestInfos](../../aspose.finance.ofx.investment/investment401k/vestinfos) { get; set; } | Получает или задает коллекцию[`VestInfo`](../vestinfo) . |
 
 ### Смотрите также
 

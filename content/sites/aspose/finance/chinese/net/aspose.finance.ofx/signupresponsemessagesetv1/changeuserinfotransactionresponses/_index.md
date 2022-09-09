@@ -1,14 +1,14 @@
 ---
 title: ChangeUserInfoTransactionResponses
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置ChangeUserInfoTransactionResponseaspose.finance.ofx.signup/changeuserinfotransactionresponse的集合
+description: 获取或设置的集合ChangeUserInfoTransactionResponseaspose.finance.ofx.signup/changeuserinfotransactionresponse.
 type: docs
 weight: 60
 url: /zh/net/aspose.finance.ofx/signupresponsemessagesetv1/changeuserinfotransactionresponses/
 ---
 ## SignupResponseMessageSetV1.ChangeUserInfoTransactionResponses property
 
-获取或设置[`ChangeUserInfoTransactionResponse`](../../../aspose.finance.ofx.signup/changeuserinfotransactionresponse)的集合。
+获取或设置的集合[`ChangeUserInfoTransactionResponse`](../../../aspose.finance.ofx.signup/changeuserinfotransactionresponse).
 
 ```csharp
 public List<ChangeUserInfoTransactionResponse> ChangeUserInfoTransactionResponses { get; set; }

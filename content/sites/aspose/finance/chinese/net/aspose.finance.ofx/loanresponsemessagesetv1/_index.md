@@ -18,17 +18,17 @@ public class LoanResponseMessageSetV1 : AbstractResponseMessageSet
 
 | 姓名 | 描述 |
 | --- | --- |
-| [LoanResponseMessageSetV1](loanresponsemessagesetv1)() | 初始化[`LoanResponseMessageSetV1`](../loanresponsemessagesetv1)类的新实例。 |
+| [LoanResponseMessageSetV1](loanresponsemessagesetv1)() | 初始化一个新的实例[`LoanResponseMessageSetV1`](../loanresponsemessagesetv1)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [AmortizationTransactionResponses](../../aspose.finance.ofx/loanresponsemessagesetv1/amortizationtransactionresponses) { get; set; } | 获取或设置[`AmortizationTransactionResponse`](../../aspose.finance.ofx.loan/amortizationtransactionresponse)的集合。 |
-| [LoanMailSyncResponses](../../aspose.finance.ofx/loanresponsemessagesetv1/loanmailsyncresponses) { get; set; } | 获取或设置[`LoanMailSyncResponse`](../../aspose.finance.ofx.loan/loanmailsyncresponse)的集合。 |
-| [LoanMailTransactionResponses](../../aspose.finance.ofx/loanresponsemessagesetv1/loanmailtransactionresponses) { get; set; } | 获取或设置[`LoanMailTransactionResponse`](../../aspose.finance.ofx.loan/loanmailtransactionresponse)的集合。 |
-| [LoanStatementEndTransactionResponses](../../aspose.finance.ofx/loanresponsemessagesetv1/loanstatementendtransactionresponses) { get; set; } | 获取或设置[`LoanStatementEndTransactionResponse`](../../aspose.finance.ofx.loan/loanstatementendtransactionresponse)的集合。 |
-| [LoanStatementTransactionResponses](../../aspose.finance.ofx/loanresponsemessagesetv1/loanstatementtransactionresponses) { get; set; } | 获取或设置[`LoanStatementTransactionResponse`](../../aspose.finance.ofx.loan/loanstatementtransactionresponse)的集合。 |
+| [AmortizationTransactionResponses](../../aspose.finance.ofx/loanresponsemessagesetv1/amortizationtransactionresponses) { get; set; } | 获取或设置的集合[`AmortizationTransactionResponse`](../../aspose.finance.ofx.loan/amortizationtransactionresponse). |
+| [LoanMailSyncResponses](../../aspose.finance.ofx/loanresponsemessagesetv1/loanmailsyncresponses) { get; set; } | 获取或设置的集合[`LoanMailSyncResponse`](../../aspose.finance.ofx.loan/loanmailsyncresponse). |
+| [LoanMailTransactionResponses](../../aspose.finance.ofx/loanresponsemessagesetv1/loanmailtransactionresponses) { get; set; } | 获取或设置的集合[`LoanMailTransactionResponse`](../../aspose.finance.ofx.loan/loanmailtransactionresponse). |
+| [LoanStatementEndTransactionResponses](../../aspose.finance.ofx/loanresponsemessagesetv1/loanstatementendtransactionresponses) { get; set; } | 获取或设置的集合[`LoanStatementEndTransactionResponse`](../../aspose.finance.ofx.loan/loanstatementendtransactionresponse). |
+| [LoanStatementTransactionResponses](../../aspose.finance.ofx/loanresponsemessagesetv1/loanstatementtransactionresponses) { get; set; } | 获取或设置的集合[`LoanStatementTransactionResponse`](../../aspose.finance.ofx.loan/loanstatementtransactionresponse). |
 
 ### 也可以看看
 

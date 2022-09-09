@@ -1,14 +1,14 @@
 ---
 title: AccountInfoRequest
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаAccountInfoRequestaspose.finance.ofx/accountinforequest.
+description: Инициализирует новый экземплярAccountInfoRequestaspose.finance.ofx/accountinforequest класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx/accountinforequest/accountinforequest/
 ---
 ## AccountInfoRequest constructor
 
-Инициализирует новый экземпляр класса[`AccountInfoRequest`](../../accountinforequest).
+Инициализирует новый экземпляр[`AccountInfoRequest`](../../accountinforequest) класс.
 
 ```csharp
 public AccountInfoRequest()

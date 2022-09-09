@@ -1,14 +1,14 @@
 ---
 title: Phone
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置文件管理器地址电话号码
+description: 获取或设置申报人地址电话号码
 type: docs
 weight: 80
 url: /zh/net/aspose.finance.ofx.tax1098/fileraddress/phone/
 ---
 ## FilerAddress.Phone property
 
-获取或设置文件管理器地址电话号码。
+获取或设置申报人地址电话号码。
 
 ```csharp
 public string Phone { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: LineItem
 second_title: Aspose.Finance for .NET API 参考
-description: 订单项类
+description: 订单项类别
 type: docs
 weight: 3730
 url: /zh/net/aspose.finance.ofx/lineitem/
 ---
 ## LineItem class
 
-订单项类。
+订单项类别。
 
 ```csharp
 public class LineItem
@@ -18,7 +18,7 @@ public class LineItem
 
 | 姓名 | 描述 |
 | --- | --- |
-| [LineItem](lineitem)() | 初始化[`LineItem`](../lineitem)类的新实例。 |
+| [LineItem](lineitem)() | 初始化一个新的实例[`LineItem`](../lineitem)类. |
 
 ## 特性
 

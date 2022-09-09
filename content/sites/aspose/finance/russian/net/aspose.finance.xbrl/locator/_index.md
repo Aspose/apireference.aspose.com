@@ -1,14 +1,14 @@
 ---
 title: Locator
 second_title: Справочник по API Aspose.Finance для .NET
-description: Базовый абстрактный класс Xlink с типом Locator.
+description: Базовый абстрактный класс Xlink с типом локатора.
 type: docs
 weight: 7850
 url: /ru/net/aspose.finance.xbrl/locator/
 ---
 ## Locator class
 
-Базовый абстрактный класс Xlink с типом Locator.
+Базовый абстрактный класс Xlink с типом локатора.
 
 ```csharp
 public abstract class Locator : Xlink
@@ -18,7 +18,7 @@ public abstract class Locator : Xlink
 
 | Имя | Описание |
 | --- | --- |
-| [Locator](locator)() | Инициализирует новый экземпляр класса[`Locator`](../locator). |
+| [Locator](locator)() | Инициализирует новый экземпляр[`Locator`](../locator) класс. |
 
 ## Характеристики
 

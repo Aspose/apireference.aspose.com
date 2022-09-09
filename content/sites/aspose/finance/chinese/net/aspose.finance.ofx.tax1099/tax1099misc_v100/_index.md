@@ -1,14 +1,14 @@
 ---
 title: Tax1099MISC_V100
 second_title: Aspose.Finance for .NET API 参考
-description: Tax 1099 MISC 表单类
+description: 税 1099 MISC 表格类
 type: docs
 weight: 6020
 url: /zh/net/aspose.finance.ofx.tax1099/tax1099misc_v100/
 ---
 ## Tax1099MISC_V100 class
 
-Tax 1099 MISC 表单类。
+税 1099 MISC 表格类。
 
 ```csharp
 public class Tax1099MISC_V100 : AbstractTaxForm1099
@@ -18,13 +18,13 @@ public class Tax1099MISC_V100 : AbstractTaxForm1099
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Tax1099MISC_V100](tax1099misc_v100)() | 初始化[`Tax1099MISC_V100`](../tax1099misc_v100)类的新实例。 |
+| [Tax1099MISC_V100](tax1099misc_v100)() | 初始化一个新的实例[`Tax1099MISC_V100`](../tax1099misc_v100)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [AdditionalStateTaxWithheldAggregate](../../aspose.finance.ofx.tax1099/tax1099misc_v100/additionalstatetaxwithheldaggregate) { get; set; } | 获取或设置[`AdditionalStateTaxWithheldAggregate`](./additionalstatetaxwithheldaggregate)。 |
+| [AdditionalStateTaxWithheldAggregate](../../aspose.finance.ofx.tax1099/tax1099misc_v100/additionalstatetaxwithheldaggregate) { get; set; } | 获取或设置[`AdditionalStateTaxWithheldAggregate`](./additionalstatetaxwithheldaggregate). |
 | [Corrected](../../aspose.finance.ofx.tax1099/abstracttaxform1099/corrected) { get; set; } | 获取或设置这是否是一个更正的形式。 |
 | [CropInsuranceProceed](../../aspose.finance.ofx.tax1099/tax1099misc_v100/cropinsuranceproceed) { get; set; } | 获取或设置农作物保险收益。 |
 | [ExcessGolden](../../aspose.finance.ofx.tax1099/tax1099misc_v100/excessgolden) { get; set; } | 获取或设置多余的金降落伞支付。 |
@@ -35,25 +35,25 @@ public class Tax1099MISC_V100 : AbstractTaxForm1099
 | [MedicalHealthPayment](../../aspose.finance.ofx.tax1099/tax1099misc_v100/medicalhealthpayment) { get; set; } | 获取或设置医疗/健康支付。 |
 | [NonemployeeCompensation](../../aspose.finance.ofx.tax1099/tax1099misc_v100/nonemployeecompensation) { get; set; } | 获取或设置非员工薪酬。 |
 | [OtherIncome](../../aspose.finance.ofx.tax1099/tax1099misc_v100/otherincome) { get; set; } | 获取或设置其他收入。 |
-| [Payer5KSales](../../aspose.finance.ofx.tax1099/tax1099misc_v100/payer5ksales) { get; set; } | 获取或设置付款人将 5,000 美元或更多的消费品直接销售给（收件人）进行转售。 |
-| [PayerAddress](../../aspose.finance.ofx.tax1099/tax1099misc_v100/payeraddress) { get; set; } | 获取或设置[`PayerAddress`](./payeraddress)。 |
+| [Payer5KSales](../../aspose.finance.ofx.tax1099/tax1099misc_v100/payer5ksales) { get; set; } | 获取或设置付款人将 5,000 美元或更多的消费品直接销售给（收件人）以进行转售。 |
+| [PayerAddress](../../aspose.finance.ofx.tax1099/tax1099misc_v100/payeraddress) { get; set; } | 获取或设置[`PayerAddress`](./payeraddress). |
 | [PayerId](../../aspose.finance.ofx.tax1099/tax1099misc_v100/payerid) { get; set; } | 获取或设置付款人的联邦标识号。 |
-| [PayerState](../../aspose.finance.ofx.tax1099/tax1099misc_v100/payerstate) { get; set; } | 获取或设置付款人的状态码。 |
-| [PayerStateId](../../aspose.finance.ofx.tax1099/tax1099misc_v100/payerstateid) { get; set; } | 获取或设置付款人的州 ID 号。 |
+| [PayerState](../../aspose.finance.ofx.tax1099/tax1099misc_v100/payerstate) { get; set; } | 获取或设置付款人的状态码 |
+| [PayerStateId](../../aspose.finance.ofx.tax1099/tax1099misc_v100/payerstateid) { get; set; } | 获取或设置付款人的状态ID号。 |
 | [RecipientAccount](../../aspose.finance.ofx.tax1099/tax1099misc_v100/recipientaccount) { get; set; } | 获取或设置收件人的帐号。 |
-| [RecipientAddress](../../aspose.finance.ofx.tax1099/tax1099misc_v100/recipientaddress) { get; set; } | 获取或设置[`RecipientAddress`](./recipientaddress)。 |
+| [RecipientAddress](../../aspose.finance.ofx.tax1099/tax1099misc_v100/recipientaddress) { get; set; } | 获取或设置[`RecipientAddress`](./recipientaddress). |
 | [RecipientId](../../aspose.finance.ofx.tax1099/tax1099misc_v100/recipientid) { get; set; } | 获取或设置收件人的标识号。 |
 | [Rents](../../aspose.finance.ofx.tax1099/tax1099misc_v100/rents) { get; set; } | 获取或设置租金。 |
 | [Royalties](../../aspose.finance.ofx.tax1099/tax1099misc_v100/royalties) { get; set; } | 获取或设置版税。 |
-| [Section409ADeferrals](../../aspose.finance.ofx.tax1099/tax1099misc_v100/section409adeferrals) { get; set; } | 获取或设置部分 409A 延迟。 |
-| [Section409AIncome](../../aspose.finance.ofx.tax1099/tax1099misc_v100/section409aincome) { get; set; } | 获取或设置第 409A 节的收入。 |
-| [ServerId](../../aspose.finance.ofx.tax1099/abstracttaxform1099/serverid) { get; set; } | 获取或设置主机服务器分配给表单的 ID。 |
+| [Section409ADeferrals](../../aspose.finance.ofx.tax1099/tax1099misc_v100/section409adeferrals) { get; set; } | 获取或设置第 409A 节延期。 |
+| [Section409AIncome](../../aspose.finance.ofx.tax1099/tax1099misc_v100/section409aincome) { get; set; } | 获取或设置第 409A 节收入。 |
+| [ServerId](../../aspose.finance.ofx.tax1099/abstracttaxform1099/serverid) { get; set; } | 获取或设置主机服务器分配给表单的ID。 |
 | [StateIncome](../../aspose.finance.ofx.tax1099/tax1099misc_v100/stateincome) { get; set; } | 获取或设置州收入金额。 |
 | [StateTaxWithheld](../../aspose.finance.ofx.tax1099/tax1099misc_v100/statetaxwithheld) { get; set; } | 获取或设置州预扣税。 |
 | [SubstitutePayments](../../aspose.finance.ofx.tax1099/tax1099misc_v100/substitutepayments) { get; set; } | 获取或设置替代股息或利息的替代付款。 |
 | [TaxYear](../../aspose.finance.ofx.tax1099/abstracttaxform1099/taxyear) { get; set; } | 获取或设置此表单的纳税年度。 |
 | [TINNotification](../../aspose.finance.ofx.tax1099/tax1099misc_v100/tinnotification) { get; set; } | 获取或设置第二个 TIN 通知。 |
-| [Void](../../aspose.finance.ofx.tax1099/abstracttaxform1099/void) { get; set; } | 获取或设置表单是否为无效。 |
+| [Void](../../aspose.finance.ofx.tax1099/abstracttaxform1099/void) { get; set; } | 获取或设置表单是否为void。 |
 
 ### 也可以看看
 

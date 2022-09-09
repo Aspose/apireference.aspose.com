@@ -1,14 +1,14 @@
 ---
 title: CanNotify
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置服务器是否在同步响应中返回DepositMailResponse或CheckMailResponse
+description: 获取或设置服务器是否返回DepositMailResponse或者CheckMailResponse在同步响应中
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.ofx.profile/emailprofile/cannotify/
 ---
 ## EmailProfile.CanNotify property
 
-获取或设置服务器是否在同步响应中返回!:DepositMailResponse或!:CheckMailResponse。
+获取或设置服务器是否返回!:DepositMailResponse或者!:CheckMailResponse在同步响应中。
 
 ```csharp
 public bool CanNotify { get; set; }

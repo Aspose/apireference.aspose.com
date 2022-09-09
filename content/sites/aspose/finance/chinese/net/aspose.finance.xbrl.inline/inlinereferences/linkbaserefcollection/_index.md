@@ -1,14 +1,14 @@
 ---
 title: LinkbaseRefCollection
 second_title: Aspose.Finance for .NET API 参考
-description: 获取InlineReferencesaspose.finance.xbrl.inline/inlinereferences中的LinkbaseRefCollectionaspose.finance.xbrl.inline/inlinereferences/linkbaserefcollection.
+description: 获取LinkbaseRefCollectionaspose.finance.xbrl.inline/inlinereferences/linkbaserefcollection在里面InlineReferencesaspose.finance.xbrl.inline/inlinereferences.
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.xbrl.inline/inlinereferences/linkbaserefcollection/
 ---
 ## InlineReferences.LinkbaseRefCollection property
 
-获取[`InlineReferences`](../../inlinereferences)中的`LinkbaseRefCollection`.
+获取`LinkbaseRefCollection`在里面[`InlineReferences`](../../inlinereferences).
 
 ```csharp
 public LinkbaseRefCollection LinkbaseRefCollection { get; }

@@ -18,7 +18,7 @@ public class AbstractInvestmentSellTransaction : AbstractInvestmentTransactionBa
 
 | Имя | Описание |
 | --- | --- |
-| [InvestmentSell](../../aspose.finance.ofx.investment/abstractinvestmentselltransaction/investmentsell) { get; set; } | Получает или задает[`InvestmentSell`](./investmentsell). |
+| [InvestmentSell](../../aspose.finance.ofx.investment/abstractinvestmentselltransaction/investmentsell) { get; set; } | Получает или задает[`InvestmentSell`](./investmentsell) . |
 
 ### Смотрите также
 

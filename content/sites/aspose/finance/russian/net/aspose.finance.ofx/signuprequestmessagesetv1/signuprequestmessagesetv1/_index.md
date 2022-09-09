@@ -1,14 +1,14 @@
 ---
 title: SignupRequestMessageSetV1
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаSignupRequestMessageSetV1aspose.finance.ofx/signuprequestmessagesetv1.
+description: Инициализирует новый экземплярSignupRequestMessageSetV1aspose.finance.ofx/signuprequestmessagesetv1 класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx/signuprequestmessagesetv1/signuprequestmessagesetv1/
 ---
 ## SignupRequestMessageSetV1 constructor
 
-Инициализирует новый экземпляр класса[`SignupRequestMessageSetV1`](../../signuprequestmessagesetv1).
+Инициализирует новый экземпляр[`SignupRequestMessageSetV1`](../../signuprequestmessagesetv1) класс.
 
 ```csharp
 public SignupRequestMessageSetV1()

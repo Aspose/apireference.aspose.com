@@ -1,14 +1,14 @@
 ---
 title: GetToFootnotes
 second_title: Aspose.Finance for .NET API 参考
-description: 在FootnoteArcaspose.finance.xbrl/footnotearc中获取Footnoteaspose.finance.xbrl/footnote的集合
+description: 获取 to 的集合Footnoteaspose.finance.xbrl/footnote在里面FootnoteArcaspose.finance.xbrl/footnotearc.
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.xbrl/footnotearc/gettofootnotes/
 ---
 ## FootnoteArc.GetToFootnotes method
 
-在[`FootnoteArc`](../../footnotearc)中获取[`Footnote`](../../footnote)的集合。
+获取 to 的集合[`Footnote`](../../footnote)在里面[`FootnoteArc`](../../footnotearc).
 
 ```csharp
 public List<Footnote> GetToFootnotes()
@@ -16,7 +16,7 @@ public List<Footnote> GetToFootnotes()
 
 ### 返回值
 
-[`Footnote`](../../footnote)的集合。
+的集合[`Footnote`](../../footnote).
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: BillStatusCounts
 second_title: Справочник по API Aspose.Finance для .NET
-description: Статус счета учитывает класс.
+description: Класс подсчета статуса счета.
 type: docs
 weight: 1480
 url: /ru/net/aspose.finance.ofx.billerdelivery/billstatuscounts/
 ---
 ## BillStatusCounts class
 
-Статус счета учитывает класс.
+Класс подсчета статуса счета.
 
 ```csharp
 public class BillStatusCounts
@@ -18,7 +18,7 @@ public class BillStatusCounts
 
 | Имя | Описание |
 | --- | --- |
-| [BillStatusCounts](billstatuscounts)() | Инициализирует новый экземпляр класса[`BillStatusCounts`](../billstatuscounts). |
+| [BillStatusCounts](billstatuscounts)() | Инициализирует новый экземпляр[`BillStatusCounts`](../billstatuscounts) класс. |
 
 ## Характеристики
 

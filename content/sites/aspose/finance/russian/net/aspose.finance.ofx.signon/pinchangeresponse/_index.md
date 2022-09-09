@@ -18,13 +18,13 @@ public class PinChangeResponse
 
 | Имя | Описание |
 | --- | --- |
-| [PinChangeResponse](pinchangeresponse)() | Инициализирует новый экземпляр класса[`PinChangeResponse`](../pinchangeresponse). |
+| [PinChangeResponse](pinchangeresponse)() | Инициализирует новый экземпляр[`PinChangeResponse`](../pinchangeresponse) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [ChangedDate](../../aspose.finance.ofx.signon/pinchangeresponse/changeddate) { get; set; } | Получает или задает дату и время смены пароля. |
+| [ChangedDate](../../aspose.finance.ofx.signon/pinchangeresponse/changeddate) { get; set; } | Получает или задает дату и время изменения пароля. |
 | [UserId](../../aspose.finance.ofx.signon/pinchangeresponse/userid) { get; set; } | Получает или задает строку идентификации пользователя. |
 
 ### Смотрите также

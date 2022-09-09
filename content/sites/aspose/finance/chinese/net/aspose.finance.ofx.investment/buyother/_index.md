@@ -8,7 +8,7 @@ url: /zh/net/aspose.finance.ofx.investment/buyother/
 ---
 ## BuyOther class
 
-投资买入其他交易类。
+投资买入其他交易类
 
 ```csharp
 public class BuyOther : AbstractInvestmentBuyTransaction
@@ -18,13 +18,13 @@ public class BuyOther : AbstractInvestmentBuyTransaction
 
 | 姓名 | 描述 |
 | --- | --- |
-| [BuyOther](buyother)() | 初始化[`BuyOther`](../buyother)类的新实例。 |
+| [BuyOther](buyother)() | 初始化一个新的实例[`BuyOther`](../buyother)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [InvestmentBuy](../../aspose.finance.ofx.investment/abstractinvestmentbuytransaction/investmentbuy) { get; set; } | 获取或设置[`InvestmentBuy`](../abstractinvestmentbuytransaction/investmentbuy)。 |
+| [InvestmentBuy](../../aspose.finance.ofx.investment/abstractinvestmentbuytransaction/investmentbuy) { get; set; } | 获取或设置[`InvestmentBuy`](../abstractinvestmentbuytransaction/investmentbuy). |
 
 ### 也可以看看
 

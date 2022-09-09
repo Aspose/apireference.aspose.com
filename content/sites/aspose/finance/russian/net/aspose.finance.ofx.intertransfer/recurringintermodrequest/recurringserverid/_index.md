@@ -1,14 +1,14 @@
 ---
 title: RecurringServerId
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает идентификатор присвоенный сервером модифицируемой модели.
+description: Получает или задает идентификатор назначенный сервером модифицируемой модели.
 type: docs
 weight: 50
 url: /ru/net/aspose.finance.ofx.intertransfer/recurringintermodrequest/recurringserverid/
 ---
 ## RecurringInterModRequest.RecurringServerId property
 
-Получает или задает идентификатор, присвоенный сервером модифицируемой модели.
+Получает или задает идентификатор, назначенный сервером модифицируемой модели.
 
 ```csharp
 public string RecurringServerId { get; set; }

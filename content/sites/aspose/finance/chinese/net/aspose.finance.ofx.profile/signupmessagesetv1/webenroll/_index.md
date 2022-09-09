@@ -1,14 +1,14 @@
 ---
 title: WebEnroll
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置WebEnrollaspose.finance.ofx.profile/signupmessagesetv1/webenroll
+description: 获取或设置WebEnrollaspose.finance.ofx.profile/signupmessagesetv1/webenroll.
 type: docs
 weight: 70
 url: /zh/net/aspose.finance.ofx.profile/signupmessagesetv1/webenroll/
 ---
 ## SignupMessageSetV1.WebEnroll property
 
-获取或设置`WebEnroll`。
+获取或设置`WebEnroll`.
 
 ```csharp
 public WebEnroll WebEnroll { get; set; }

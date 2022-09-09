@@ -1,14 +1,14 @@
 ---
 title: BillTableStructureRequest
 second_title: Aspose.Finance for .NET API 参考
-description: 表结构请求类
+description: 表结构请求类.
 type: docs
 weight: 1530
 url: /zh/net/aspose.finance.ofx.billerdelivery/billtablestructurerequest/
 ---
 ## BillTableStructureRequest class
 
-表结构请求类。
+表结构请求类.
 
 ```csharp
 public class BillTableStructureRequest
@@ -18,7 +18,7 @@ public class BillTableStructureRequest
 
 | 姓名 | 描述 |
 | --- | --- |
-| [BillTableStructureRequest](billtablestructurerequest)() | 初始化[`BillTableStructureRequest`](../billtablestructurerequest)类的新实例。 |
+| [BillTableStructureRequest](billtablestructurerequest)() | 初始化一个新的实例[`BillTableStructureRequest`](../billtablestructurerequest)类. |
 
 ## 特性
 

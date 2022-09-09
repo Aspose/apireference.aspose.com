@@ -1,14 +1,14 @@
 ---
 title: StateTaxWithheldAggregates
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает коллекциюStateTaxWithheldAggregateaspose.finance.ofx.tax1099/statetaxwithheldaggregate.
+description: Получает или задает коллекциюStateTaxWithheldAggregateaspose.finance.ofx.tax1099/statetaxwithheldaggregate .
 type: docs
 weight: 200
 url: /ru/net/aspose.finance.ofx.tax1099/tax1099r_v100/statetaxwithheldaggregates/
 ---
 ## Tax1099R_V100.StateTaxWithheldAggregates property
 
-Получает или задает коллекцию[`StateTaxWithheldAggregate`](../../statetaxwithheldaggregate).
+Получает или задает коллекцию[`StateTaxWithheldAggregate`](../../statetaxwithheldaggregate) .
 
 ```csharp
 public List<StateTaxWithheldAggregate> StateTaxWithheldAggregates { get; set; }

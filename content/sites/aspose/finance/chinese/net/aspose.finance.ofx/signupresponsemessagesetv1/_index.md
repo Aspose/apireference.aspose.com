@@ -18,18 +18,18 @@ public class SignupResponseMessageSetV1 : AbstractResponseMessageSet
 
 | 姓名 | 描述 |
 | --- | --- |
-| [SignupResponseMessageSetV1](signupresponsemessagesetv1)() | 初始化[`SignupResponseMessageSetV1`](../signupresponsemessagesetv1)类的新实例。 |
+| [SignupResponseMessageSetV1](signupresponsemessagesetv1)() | 初始化一个新的实例[`SignupResponseMessageSetV1`](../signupresponsemessagesetv1)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [AccountInfoTransactionResponses](../../aspose.finance.ofx/signupresponsemessagesetv1/accountinfotransactionresponses) { get; set; } | 获取或设置[`AccountInfoTransactionResponse`](../../aspose.finance.ofx.signup/accountinfotransactionresponse)的集合。 |
-| [AccountSyncResponses](../../aspose.finance.ofx/signupresponsemessagesetv1/accountsyncresponses) { get; set; } | 获取或设置[`AccountSyncResponse`](../../aspose.finance.ofx.signup/accountsyncresponse)的集合。 |
-| [AccountTransactionResponses](../../aspose.finance.ofx/signupresponsemessagesetv1/accounttransactionresponses) { get; set; } | 获取或设置[`AccountTransactionResponse`](../../aspose.finance.ofx.signup/accounttransactionresponse)的集合。 |
-| [ChangeUserInfoSyncResponses](../../aspose.finance.ofx/signupresponsemessagesetv1/changeuserinfosyncresponses) { get; set; } | 获取或设置[`ChangeUserInfoSyncResponse`](../../aspose.finance.ofx.signup/changeuserinfosyncresponse)的集合。 |
-| [ChangeUserInfoTransactionResponses](../../aspose.finance.ofx/signupresponsemessagesetv1/changeuserinfotransactionresponses) { get; set; } | 获取或设置[`ChangeUserInfoTransactionResponse`](../../aspose.finance.ofx.signup/changeuserinfotransactionresponse)的集合。 |
-| [EnrollTransactionResponses](../../aspose.finance.ofx/signupresponsemessagesetv1/enrolltransactionresponses) { get; set; } | 获取或设置[`EnrollTransactionResponse`](../../aspose.finance.ofx.signup/enrolltransactionresponse)的集合。 |
+| [AccountInfoTransactionResponses](../../aspose.finance.ofx/signupresponsemessagesetv1/accountinfotransactionresponses) { get; set; } | 获取或设置的集合[`AccountInfoTransactionResponse`](../../aspose.finance.ofx.signup/accountinfotransactionresponse). |
+| [AccountSyncResponses](../../aspose.finance.ofx/signupresponsemessagesetv1/accountsyncresponses) { get; set; } | 获取或设置的集合[`AccountSyncResponse`](../../aspose.finance.ofx.signup/accountsyncresponse). |
+| [AccountTransactionResponses](../../aspose.finance.ofx/signupresponsemessagesetv1/accounttransactionresponses) { get; set; } | 获取或设置的集合[`AccountTransactionResponse`](../../aspose.finance.ofx.signup/accounttransactionresponse). |
+| [ChangeUserInfoSyncResponses](../../aspose.finance.ofx/signupresponsemessagesetv1/changeuserinfosyncresponses) { get; set; } | 获取或设置的集合[`ChangeUserInfoSyncResponse`](../../aspose.finance.ofx.signup/changeuserinfosyncresponse). |
+| [ChangeUserInfoTransactionResponses](../../aspose.finance.ofx/signupresponsemessagesetv1/changeuserinfotransactionresponses) { get; set; } | 获取或设置的集合[`ChangeUserInfoTransactionResponse`](../../aspose.finance.ofx.signup/changeuserinfotransactionresponse). |
+| [EnrollTransactionResponses](../../aspose.finance.ofx/signupresponsemessagesetv1/enrolltransactionresponses) { get; set; } | 获取或设置的集合[`EnrollTransactionResponse`](../../aspose.finance.ofx.signup/enrolltransactionresponse). |
 
 ### 也可以看看
 

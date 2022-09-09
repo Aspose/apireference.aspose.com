@@ -18,7 +18,7 @@ public class FilerAddress
 
 | 姓名 | 描述 |
 | --- | --- |
-| [FilerAddress](fileraddress)() | 初始化[`FilerAddress`](../fileraddress)类的新实例。 |
+| [FilerAddress](fileraddress)() | 初始化一个新的实例[`FilerAddress`](../fileraddress)类. |
 
 ## 特性
 
@@ -30,8 +30,8 @@ public class FilerAddress
 | [City](../../aspose.finance.ofx.tax1098/fileraddress/city) { get; set; } | 获取或设置文件管理器地址城市。 |
 | [CountryString](../../aspose.finance.ofx.tax1098/fileraddress/countrystring) { get; set; } | 获取或设置文件管理器地址国家。 |
 | [FilerName](../../aspose.finance.ofx.tax1098/fileraddress/filername) { get; set; } | 获取或设置文件管理器的名称。 |
-| [Phone](../../aspose.finance.ofx.tax1098/fileraddress/phone) { get; set; } | 获取或设置文件管理器地址电话号码。 |
-| [PostalCode](../../aspose.finance.ofx.tax1098/fileraddress/postalcode) { get; set; } | 获取或设置归档地址邮政编码。 |
+| [Phone](../../aspose.finance.ofx.tax1098/fileraddress/phone) { get; set; } | 获取或设置申报人地址电话号码。 |
+| [PostalCode](../../aspose.finance.ofx.tax1098/fileraddress/postalcode) { get; set; } | 获取或设置申报人地址邮政编码。 |
 | [State](../../aspose.finance.ofx.tax1098/fileraddress/state) { get; set; } | 获取或设置文件管理器地址状态。 |
 
 ### 也可以看看

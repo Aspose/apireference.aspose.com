@@ -1,14 +1,14 @@
 ---
 title: GetMimeRequest
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置GetMimeRequestaspose.finance.ofx.email/getmimetransactionrequest/getmimerequest
+description: 获取或设置GetMimeRequestaspose.finance.ofx.email/getmimetransactionrequest/getmimerequest.
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.ofx.email/getmimetransactionrequest/getmimerequest/
 ---
 ## GetMimeTransactionRequest.GetMimeRequest property
 
-获取或设置`GetMimeRequest`。
+获取或设置`GetMimeRequest`.
 
 ```csharp
 public GetMimeRequest GetMimeRequest { get; set; }

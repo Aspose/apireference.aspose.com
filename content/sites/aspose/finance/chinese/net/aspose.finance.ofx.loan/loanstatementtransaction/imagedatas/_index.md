@@ -1,14 +1,14 @@
 ---
 title: ImageDatas
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置ImageDataaspose.finance.ofx/imagedata的集合
+description: 获取或设置的集合ImageDataaspose.finance.ofx/imagedata.
 type: docs
 weight: 90
 url: /zh/net/aspose.finance.ofx.loan/loanstatementtransaction/imagedatas/
 ---
 ## LoanStatementTransaction.ImageDatas property
 
-获取或设置[`ImageData`](../../../aspose.finance.ofx/imagedata)的集合。
+获取或设置的集合[`ImageData`](../../../aspose.finance.ofx/imagedata).
 
 ```csharp
 public List<ImageData> ImageDatas { get; set; }

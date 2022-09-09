@@ -1,14 +1,14 @@
 ---
 title: BillerInfo
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаBillerInfoaspose.finance.ofx.billerdirectory/billerinfo.
+description: Инициализирует новый экземплярBillerInfoaspose.finance.ofx.billerdirectory/billerinfo класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.billerdirectory/billerinfo/billerinfo/
 ---
 ## BillerInfo constructor
 
-Инициализирует новый экземпляр класса[`BillerInfo`](../../billerinfo).
+Инициализирует новый экземпляр[`BillerInfo`](../../billerinfo) класс.
 
 ```csharp
 public BillerInfo()

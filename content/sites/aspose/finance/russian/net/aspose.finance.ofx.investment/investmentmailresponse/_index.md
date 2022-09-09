@@ -1,14 +1,14 @@
 ---
 title: InvestmentMailResponse
 second_title: Справочник по API Aspose.Finance для .NET
-description: Класс ответа по инвестиционной электронной почте.
+description: Класс ответа по электронной почте об инвестициях.
 type: docs
 weight: 2980
 url: /ru/net/aspose.finance.ofx.investment/investmentmailresponse/
 ---
 ## InvestmentMailResponse class
 
-Класс ответа по инвестиционной электронной почте.
+Класс ответа по электронной почте об инвестициях.
 
 ```csharp
 public class InvestmentMailResponse
@@ -18,14 +18,14 @@ public class InvestmentMailResponse
 
 | Имя | Описание |
 | --- | --- |
-| [InvestmentMailResponse](investmentmailresponse)() | Инициализирует новый экземпляр класса[`InvestmentMailResponse`](../investmentmailresponse). |
+| [InvestmentMailResponse](investmentmailresponse)() | Инициализирует новый экземпляр[`InvestmentMailResponse`](../investmentmailresponse) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [InvestmentAccountFrom](../../aspose.finance.ofx.investment/investmentmailresponse/investmentaccountfrom) { get; set; } | Получает или задает значение из[`InvestmentAccount`](../../aspose.finance.ofx/investmentaccount). |
-| [Mail](../../aspose.finance.ofx.investment/investmentmailresponse/mail) { get; set; } | Получает или задает[`Mail`](./mail). |
+| [InvestmentAccountFrom](../../aspose.finance.ofx.investment/investmentmailresponse/investmentaccountfrom) { get; set; } | Получает или задает из[`InvestmentAccount`](../../aspose.finance.ofx/investmentaccount) . |
+| [Mail](../../aspose.finance.ofx.investment/investmentmailresponse/mail) { get; set; } | Получает или задает[`Mail`](./mail) . |
 
 ### Смотрите также
 

@@ -1,7 +1,7 @@
 ---
 title: CreateHtmlElement
 second_title: Справочник по API Aspose.Finance для .NET
-description: Создает HTML-элемент.
+description: Создает HTMLэлемент.
 type: docs
 weight: 120
 url: /ru/net/aspose.finance.xbrl.inline/inlinexbrldocument/createhtmlelement/
@@ -16,8 +16,8 @@ public HTMLElement CreateHtmlElement(string name, string prefix = null)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| name | String | Локальное имя элемента Html. |
-| prefix | String | Префикс элемента Html. |
+| name | String | Локальное имя элемента HTML. |
+| prefix | String | Префикс элемента HTML. |
 
 ### Возвращаемое значение
 

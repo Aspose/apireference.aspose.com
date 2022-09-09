@@ -1,14 +1,14 @@
 ---
 title: Employer
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置Employeraspose.finance.ofx.taxw2/taxw2_v200/employer
+description: 获取或设置Employeraspose.finance.ofx.taxw2/taxw2_v200/employer.
 type: docs
 weight: 70
 url: /zh/net/aspose.finance.ofx.taxw2/taxw2_v200/employer/
 ---
 ## TaxW2_V200.Employer property
 
-获取或设置`Employer`。
+获取或设置`Employer`.
 
 ```csharp
 public Employer Employer { get; set; }

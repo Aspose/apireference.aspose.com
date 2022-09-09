@@ -1,14 +1,14 @@
 ---
 title: LoanAccountInfo
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化LoanAccountInfoaspose.finance.ofx/loanaccountinfo类的新实例
+description: 初始化一个新的实例LoanAccountInfoaspose.finance.ofx/loanaccountinfo类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx/loanaccountinfo/loanaccountinfo/
 ---
 ## LoanAccountInfo constructor
 
-初始化[`LoanAccountInfo`](../../loanaccountinfo)类的新实例。
+初始化一个新的实例[`LoanAccountInfo`](../../loanaccountinfo)类.
 
 ```csharp
 public LoanAccountInfo()

@@ -1,14 +1,14 @@
 ---
 title: AccountFrom
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置BankAccountaspose.finance.ofx/bankaccount或CreditCardAccountaspose.finance.ofx/creditcardaccount的来源
+description: 获取或设置 fromBankAccountaspose.finance.ofx/bankaccount或者CreditCardAccountaspose.finance.ofx/creditcardaccount.
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.ofx.bank/bankmailsyncrequest/accountfrom/
 ---
 ## BankMailSyncRequest.AccountFrom property
 
-获取或设置[`BankAccount`](../../../aspose.finance.ofx/bankaccount)或[`CreditCardAccount`](../../../aspose.finance.ofx/creditcardaccount)的来源。
+获取或设置 from[`BankAccount`](../../../aspose.finance.ofx/bankaccount)或者[`CreditCardAccount`](../../../aspose.finance.ofx/creditcardaccount).
 
 ```csharp
 public AbstractAccount AccountFrom { get; set; }

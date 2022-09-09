@@ -1,14 +1,14 @@
 ---
 title: Dir
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置方向性中性文本的基本方向和表格的方向性请参阅 HTML 4.01 中的 dir 属性定义
+description: 获取或设置方向性中性文本的基本方向和表格的方向性请参阅 HTML 4.01. 中的 dir 属性定义
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.xbrl.dom.html/htmlelement/dir/
 ---
 ## HTMLElement.Dir property
 
-获取或设置方向性中性文本的基本方向和表格的方向性。请参阅 HTML 4.01 中的 dir 属性定义。
+获取或设置方向性中性文本的基本方向和表格的方向性。请参阅 HTML 4.01. 中的 dir 属性定义
 
 ```csharp
 public string Dir { get; set; }

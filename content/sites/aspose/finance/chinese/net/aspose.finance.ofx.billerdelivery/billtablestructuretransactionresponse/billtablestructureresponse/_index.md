@@ -1,14 +1,14 @@
 ---
 title: BillTableStructureResponse
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置BillTableStructureResponseaspose.finance.ofx.billerdelivery/billtablestructuretransactionresponse/billtablestructureresponse
+description: 获取或设置BillTableStructureResponseaspose.finance.ofx.billerdelivery/billtablestructuretransactionresponse/billtablestructureresponse.
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.ofx.billerdelivery/billtablestructuretransactionresponse/billtablestructureresponse/
 ---
 ## BillTableStructureTransactionResponse.BillTableStructureResponse property
 
-获取或设置`BillTableStructureResponse`。
+获取或设置`BillTableStructureResponse`.
 
 ```csharp
 public BillTableStructureResponse BillTableStructureResponse { get; set; }

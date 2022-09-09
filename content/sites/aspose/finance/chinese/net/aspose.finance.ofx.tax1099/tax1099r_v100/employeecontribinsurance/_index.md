@@ -1,14 +1,14 @@
 ---
 title: EmployeeContribInsurance
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置员工/指定 Roth contrib保险费
+description: 获取或设置员工/指定罗斯贡献保险费
 type: docs
 weight: 70
 url: /zh/net/aspose.finance.ofx.tax1099/tax1099r_v100/employeecontribinsurance/
 ---
 ## Tax1099R_V100.EmployeeContribInsurance property
 
-获取或设置员工/指定 Roth contrib，保险费。
+获取或设置员工/指定罗斯贡献，保险费。
 
 ```csharp
 public string EmployeeContribInsurance { get; set; }

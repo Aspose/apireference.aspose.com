@@ -1,14 +1,14 @@
 ---
 title: PinChangeRequest
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化PinChangeRequestaspose.finance.ofx.signon/pinchangerequest类的新实例
+description: 初始化一个新的实例PinChangeRequestaspose.finance.ofx.signon/pinchangerequest类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.signon/pinchangerequest/pinchangerequest/
 ---
 ## PinChangeRequest constructor
 
-初始化[`PinChangeRequest`](../../pinchangerequest)类的新实例。
+初始化一个新的实例[`PinChangeRequest`](../../pinchangerequest)类.
 
 ```csharp
 public PinChangeRequest()

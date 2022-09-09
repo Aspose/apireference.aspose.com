@@ -1,14 +1,14 @@
 ---
 title: FIDirectDepositInfo
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化FIDirectDepositInfoaspose.finance.ofx.tax1099/fidirectdepositinfo类的新实例
+description: 初始化一个新的实例FIDirectDepositInfoaspose.finance.ofx.tax1099/fidirectdepositinfo类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.tax1099/fidirectdepositinfo/fidirectdepositinfo/
 ---
 ## FIDirectDepositInfo constructor
 
-初始化[`FIDirectDepositInfo`](../../fidirectdepositinfo)类的新实例。
+初始化一个新的实例[`FIDirectDepositInfo`](../../fidirectdepositinfo)类.
 
 ```csharp
 public FIDirectDepositInfo()

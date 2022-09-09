@@ -1,14 +1,14 @@
 ---
 title: Checking
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置账户是否有写支票权限
+description: 获取或设置账号是否有写支票权限
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.ofx/investmentaccountinfo/checking/
 ---
 ## InvestmentAccountInfo.Checking property
 
-获取或设置账户是否有写支票权限。
+获取或设置账号是否有写支票权限
 
 ```csharp
 public bool Checking { get; set; }

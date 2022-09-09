@@ -1,14 +1,14 @@
 ---
 title: SignupMessageSet
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаSignupMessageSetaspose.finance.ofx.profile/signupmessageset.
+description: Инициализирует новый экземплярSignupMessageSetaspose.finance.ofx.profile/signupmessageset класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.profile/signupmessageset/signupmessageset/
 ---
 ## SignupMessageSet constructor
 
-Инициализирует новый экземпляр класса[`SignupMessageSet`](../../signupmessageset).
+Инициализирует новый экземпляр[`SignupMessageSet`](../../signupmessageset) класс.
 
 ```csharp
 public SignupMessageSet()

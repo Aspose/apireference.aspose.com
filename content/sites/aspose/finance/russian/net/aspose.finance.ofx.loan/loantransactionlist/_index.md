@@ -18,14 +18,14 @@ public class LoanTransactionList
 
 | Имя | Описание |
 | --- | --- |
-| [LoanTransactionList](loantransactionlist)() | Инициализирует новый экземпляр класса[`LoanTransactionList`](../loantransactionlist). |
+| [LoanTransactionList](loantransactionlist)() | Инициализирует новый экземпляр[`LoanTransactionList`](../loantransactionlist) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
 | [EndDate](../../aspose.finance.ofx.loan/loantransactionlist/enddate) { get; set; } | Получает или задает дату окончания для данных транзакции. |
-| [LoanStatementTransactions](../../aspose.finance.ofx.loan/loantransactionlist/loanstatementtransactions) { get; set; } | Получает или задает коллекцию[`LoanStatementTransaction`](../loanstatementtransaction). |
+| [LoanStatementTransactions](../../aspose.finance.ofx.loan/loantransactionlist/loanstatementtransactions) { get; set; } | Получает или задает коллекцию[`LoanStatementTransaction`](../loanstatementtransaction) . |
 | [StartDate](../../aspose.finance.ofx.loan/loantransactionlist/startdate) { get; set; } | Получает или задает начальную дату для данных транзакции. |
 
 ### Смотрите также

@@ -1,14 +1,14 @@
 ---
 title: Message
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置来自 FI 的文字说明
+description: 获取或设置来自 FI 的文本解释
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.ofx/status/message/
 ---
 ## Status.Message property
 
-获取或设置来自 FI 的文字说明。
+获取或设置来自 FI 的文本解释。
 
 ```csharp
 public string Message { get; set; }

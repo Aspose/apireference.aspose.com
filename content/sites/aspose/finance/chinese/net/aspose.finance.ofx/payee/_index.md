@@ -18,21 +18,21 @@ public class Payee
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Payee](payee)() | 初始化[`Payee`](../payee)类的新实例。 |
+| [Payee](payee)() | 初始化一个新的实例[`Payee`](../payee)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Address1](../../aspose.finance.ofx/payee/address1) { get; set; } | 获取或设置收款人的地址行 1。 |
-| [Address2](../../aspose.finance.ofx/payee/address2) { get; set; } | 获取或设置收款人的地址行 2。 |
-| [Address3](../../aspose.finance.ofx/payee/address3) { get; set; } | 获取或设置收款人的地址行 3。 |
+| [Address1](../../aspose.finance.ofx/payee/address1) { get; set; } | 获取或设置收款人地址行1. |
+| [Address2](../../aspose.finance.ofx/payee/address2) { get; set; } | 获取或设置收款人地址行2. |
+| [Address3](../../aspose.finance.ofx/payee/address3) { get; set; } | 获取或设置收款人地址行3. |
 | [City](../../aspose.finance.ofx/payee/city) { get; set; } | 获取或设置收款人所在城市。 |
-| [Country](../../aspose.finance.ofx/payee/country) { get; set; } | 获取或设置收款人所在的国家，来自 ISO/DIS-3166 的 3 字母国家代码。 |
-| [Name](../../aspose.finance.ofx/payee/name) { get; set; } | 获取或设置收款人姓名。 |
+| [Country](../../aspose.finance.ofx/payee/country) { get; set; } | 获取或设置收款人的国家，来自 ISO/DIS-3166 的 3 个字母的国家代码。 |
+| [Name](../../aspose.finance.ofx/payee/name) { get; set; } | 获取或设置收款人姓名 |
 | [Phone](../../aspose.finance.ofx/payee/phone) { get; set; } | 获取或设置收款人的电话号码。 |
 | [PostalCode](../../aspose.finance.ofx/payee/postalcode) { get; set; } | 获取或设置收款人的邮政编码。 |
-| [State](../../aspose.finance.ofx/payee/state) { get; set; } | 获取或设置收款人的状态。 |
+| [State](../../aspose.finance.ofx/payee/state) { get; set; } | 获取或设置收款人状态 |
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: ExtendedPaymentInvoice
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задаетExtendedPaymentInvoiceaspose.finance.ofx.billpay/extendedpayment/extendedpaymentinvoice.
+description: Получает или задаетExtendedPaymentInvoiceaspose.finance.ofx.billpay/extendedpayment/extendedpaymentinvoice .
 type: docs
 weight: 50
 url: /ru/net/aspose.finance.ofx.billpay/extendedpayment/extendedpaymentinvoice/
 ---
 ## ExtendedPayment.ExtendedPaymentInvoice property
 
-Получает или задает`ExtendedPaymentInvoice`.
+Получает или задает`ExtendedPaymentInvoice` .
 
 ```csharp
 public ExtendedPaymentInvoice ExtendedPaymentInvoice { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: TaxW2Request
 second_title: Справочник по API Aspose.Finance для .NET
-description: Класс запроса W2. Это запрашивает налоговую форму W2 с сервера.
+description: Класс запроса налога W2. Это запрашивает налоговую форму W2 с сервера.
 type: docs
 weight: 6180
 url: /ru/net/aspose.finance.ofx.taxw2/taxw2request/
 ---
 ## TaxW2Request class
 
-Класс запроса W2. Это запрашивает налоговую форму W2 с сервера.
+Класс запроса налога W2. Это запрашивает налоговую форму W2 с сервера.
 
 ```csharp
 public class TaxW2Request
@@ -18,14 +18,14 @@ public class TaxW2Request
 
 | Имя | Описание |
 | --- | --- |
-| [TaxW2Request](taxw2request)() | Инициализирует новый экземпляр класса[`TaxW2Request`](../taxw2request). |
+| [TaxW2Request](taxw2request)() | Инициализирует новый экземпляр[`TaxW2Request`](../taxw2request) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [SSN](../../aspose.finance.ofx.taxw2/taxw2request/ssn) { get; set; } | Получает или задает номер социального страхования сотрудника. |
-| [TaxYears](../../aspose.finance.ofx.taxw2/taxw2request/taxyears) { get; set; } | Получает или задает налоговые годы запрашиваемых форм в формате «ГГГГ». |
+| [SSN](../../aspose.finance.ofx.taxw2/taxw2request/ssn) { get; set; } | Получает или задает номер социального обеспечения сотрудника. |
+| [TaxYears](../../aspose.finance.ofx.taxw2/taxw2request/taxyears) { get; set; } | Получает или задает налоговые годы запрошенных форм в формате «ГГГГ». |
 
 ### Смотрите также
 

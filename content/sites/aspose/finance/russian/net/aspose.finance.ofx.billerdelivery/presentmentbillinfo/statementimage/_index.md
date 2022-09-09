@@ -1,14 +1,14 @@
 ---
 title: StatementImage
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задаетStatementImageaspose.finance.ofx.billerdelivery/presentmentbillinfo/statementimage.
+description: Получает или задаетStatementImageaspose.finance.ofx.billerdelivery/presentmentbillinfo/statementimage .
 type: docs
 weight: 220
 url: /ru/net/aspose.finance.ofx.billerdelivery/presentmentbillinfo/statementimage/
 ---
 ## PresentmentBillInfo.StatementImage property
 
-Получает или задает`StatementImage`.
+Получает или задает`StatementImage` .
 
 ```csharp
 public StatementImage StatementImage { get; set; }

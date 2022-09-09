@@ -1,14 +1,14 @@
 ---
 title: CallDate
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置下一个调用日期
+description: 获取或设置下次调用日期
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.ofx.securitieslist/debtinfo/calldate/
 ---
 ## DebtInfo.CallDate property
 
-获取或设置下一个调用日期。
+获取或设置下次调用日期。
 
 ```csharp
 public string CallDate { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: Labels
 second_title: Aspose.Finance for .NET API 参考
-description: 获取Labelaspose.finance.xbrl/label的集合
+description: 获取集合Labelaspose.finance.xbrl/label.
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.xbrl/labellink/labels/
 ---
 ## LabelLink.Labels property
 
-获取[`Label`](../../label)的集合。
+获取集合[`Label`](../../label).
 
 ```csharp
 public List<Label> Labels { get; }

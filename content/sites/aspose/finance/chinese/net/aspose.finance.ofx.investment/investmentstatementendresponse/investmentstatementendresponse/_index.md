@@ -1,14 +1,14 @@
 ---
 title: InvestmentStatementEndResponse
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化InvestmentStatementEndResponseaspose.finance.ofx.investment/investmentstatementendresponse类的新实例
+description: 初始化一个新的实例InvestmentStatementEndResponseaspose.finance.ofx.investment/investmentstatementendresponse类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.investment/investmentstatementendresponse/investmentstatementendresponse/
 ---
 ## InvestmentStatementEndResponse constructor
 
-初始化[`InvestmentStatementEndResponse`](../../investmentstatementendresponse)类的新实例。
+初始化一个新的实例[`InvestmentStatementEndResponse`](../../investmentstatementendresponse)类.
 
 ```csharp
 public InvestmentStatementEndResponse()

@@ -18,30 +18,30 @@ public class LoanStatementTransaction
 
 | 姓名 | 描述 |
 | --- | --- |
-| [LoanStatementTransaction](loanstatementtransaction)() | 初始化[`LoanStatementTransaction`](../loanstatementtransaction)类的新实例。 |
+| [LoanStatementTransaction](loanstatementtransaction)() | 初始化一个新的实例[`LoanStatementTransaction`](../loanstatementtransaction)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [AccountTo](../../aspose.finance.ofx.loan/loanstatementtransaction/accountto) { get; set; } | 获取或设置帐户[`BankAccount`](../../aspose.finance.ofx/bankaccount)或[`LoanAccount`](../../aspose.finance.ofx/loanaccount)。 |
-| [CheckNumber](../../aspose.finance.ofx.loan/loanstatementtransaction/checknumber) { get; set; } | 获取或设置校验号。 |
+| [AccountTo](../../aspose.finance.ofx.loan/loanstatementtransaction/accountto) { get; set; } | 获取或设置帐户，[`BankAccount`](../../aspose.finance.ofx/bankaccount)或者[`LoanAccount`](../../aspose.finance.ofx/loanaccount). |
+| [CheckNumber](../../aspose.finance.ofx.loan/loanstatementtransaction/checknumber) { get; set; } | 获取或设置校验号 |
 | [CorrectFITransactionId](../../aspose.finance.ofx.loan/loanstatementtransaction/correctfitransactionid) { get; set; } | 获取或设置更正的事务 ID。如果存在，则此记录更正的先前发送的事务的 FITransactionId。 |
 | [CorrectiveAction](../../aspose.finance.ofx.loan/loanstatementtransaction/correctiveaction) { get; set; } | 获取或设置纠正措施。 |
-| [Currency](../../aspose.finance.ofx.loan/loanstatementtransaction/currency) { get; set; } | 获取或设置[`Currency`](./currency)。 |
+| [Currency](../../aspose.finance.ofx.loan/loanstatementtransaction/currency) { get; set; } | 获取或设置[`Currency`](./currency). |
 | [ExtendedName](../../aspose.finance.ofx.loan/loanstatementtransaction/extendedname) { get; set; } | 获取或设置收款人扩展名或交易描述。 |
-| [FITransactionId](../../aspose.finance.ofx.loan/loanstatementtransaction/fitransactionid) { get; set; } | 获取或设置金融机构签发的交易ID。 |
-| [ImageDatas](../../aspose.finance.ofx.loan/loanstatementtransaction/imagedatas) { get; set; } | 获取或设置[`ImageData`](../../aspose.finance.ofx/imagedata)的集合。 |
-| [LoanTransactionAmount](../../aspose.finance.ofx.loan/loanstatementtransaction/loantransactionamount) { get; set; } | 获取或设置[`LoanTransactionAmount`](./loantransactionamount)。 |
+| [FITransactionId](../../aspose.finance.ofx.loan/loanstatementtransaction/fitransactionid) { get; set; } | 获取或设置金融机构下发的交易ID。 |
+| [ImageDatas](../../aspose.finance.ofx.loan/loanstatementtransaction/imagedatas) { get; set; } | 获取或设置的集合[`ImageData`](../../aspose.finance.ofx/imagedata). |
+| [LoanTransactionAmount](../../aspose.finance.ofx.loan/loanstatementtransaction/loantransactionamount) { get; set; } | 获取或设置[`LoanTransactionAmount`](./loantransactionamount). |
 | [LoanTransactionType](../../aspose.finance.ofx.loan/loanstatementtransaction/loantransactiontype) { get; set; } | 获取或设置贷款交易类型。 |
 | [Memo](../../aspose.finance.ofx.loan/loanstatementtransaction/memo) { get; set; } | 获取或设置额外信息。 |
 | [Name](../../aspose.finance.ofx.loan/loanstatementtransaction/name) { get; set; } | 获取或设置收款人姓名或交易描述。 |
-| [OriginCurrency](../../aspose.finance.ofx.loan/loanstatementtransaction/origincurrency) { get; set; } | 获取或设置来源[`Currency`](./currency)。 |
+| [OriginCurrency](../../aspose.finance.ofx.loan/loanstatementtransaction/origincurrency) { get; set; } | 获取或设置原点[`Currency`](./currency). |
 | [PostedDate](../../aspose.finance.ofx.loan/loanstatementtransaction/posteddate) { get; set; } | 获取或设置交易过帐到帐户的日期。 |
 | [ReferenceNumber](../../aspose.finance.ofx.loan/loanstatementtransaction/referencenumber) { get; set; } | 获取或设置唯一标识事务的参考号。 |
 | [ServerTransactionId](../../aspose.finance.ofx.loan/loanstatementtransaction/servertransactionid) { get; set; } | 获取或设置服务器分配的事务 ID。 |
-| [TransactionAmount](../../aspose.finance.ofx.loan/loanstatementtransaction/transactionamount) { get; set; } | 获取或设置交易量。 |
-| [UserDate](../../aspose.finance.ofx.loan/loanstatementtransaction/userdate) { get; set; } | 获取或设置用户发起事务的日期（如果已知）。 |
+| [TransactionAmount](../../aspose.finance.ofx.loan/loanstatementtransaction/transactionamount) { get; set; } | 获取或设置交易金额 |
+| [UserDate](../../aspose.finance.ofx.loan/loanstatementtransaction/userdate) { get; set; } | 获取或设置用户发起交易的日期，如果已知的话。 |
 
 ### 也可以看看
 

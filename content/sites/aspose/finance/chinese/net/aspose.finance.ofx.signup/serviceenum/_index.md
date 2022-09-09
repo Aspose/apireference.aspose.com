@@ -21,7 +21,7 @@ public enum ServiceEnum
 | BANKSVC | `0` | 银行服务。 |
 | BPSVC | `1` | 支付服务。 |
 | INVSVC | `2` | 投资服务。 |
-| PRESSVC | `3` | 账单提示服务。 |
+| PRESSVC | `3` | 票据提示服务。 |
 
 ### 也可以看看
 

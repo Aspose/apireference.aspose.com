@@ -19,7 +19,7 @@ public enum DurationEnum
 | Имя | Ценность | Описание |
 | --- | --- | --- |
 | DAY | `0` | День |
-| GOODTILCANCEL | `1` | До отмены |
+| GOODTILCANCEL | `1` | Хорошо до отмены |
 | IMMEDIATE | `2` | Немедленно |
 
 ### Смотрите также

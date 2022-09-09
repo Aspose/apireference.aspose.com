@@ -1,14 +1,14 @@
 ---
 title: Request
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задаетPaymentRequestaspose.finance.ofx.billpay/paymentrequestилиPaymentModRequestaspose.finance.ofx.billpay/paymentmodrequestилиPaymentCancelRequestaspose.finance.ofx.billpay/paymentcancelrequest.
+description: Получает или задаетPaymentRequestaspose.finance.ofx.billpay/paymentrequest или жеPaymentModRequestaspose.finance.ofx.billpay/paymentmodrequest или жеPaymentCancelRequestaspose.finance.ofx.billpay/paymentcancelrequest .
 type: docs
 weight: 30
 url: /ru/net/aspose.finance.ofx.billpay/paymenttransactionrequest/request/
 ---
 ## PaymentTransactionRequest.Request property
 
-Получает или задает[`PaymentRequest`](../../paymentrequest)или[`PaymentModRequest`](../../paymentmodrequest)или[`PaymentCancelRequest`](../../paymentcancelrequest).
+Получает или задает[`PaymentRequest`](../../paymentrequest) или же[`PaymentModRequest`](../../paymentmodrequest) или же[`PaymentCancelRequest`](../../paymentcancelrequest) .
 
 ```csharp
 public AbstractPaymentRequest Request { get; set; }

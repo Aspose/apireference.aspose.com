@@ -1,14 +1,14 @@
 ---
 title: StopCheckProfile
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаStopCheckProfileaspose.finance.ofx.profile/stopcheckprofile.
+description: Инициализирует новый экземплярStopCheckProfileaspose.finance.ofx.profile/stopcheckprofile класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.profile/stopcheckprofile/stopcheckprofile/
 ---
 ## StopCheckProfile constructor
 
-Инициализирует новый экземпляр класса[`StopCheckProfile`](../../stopcheckprofile).
+Инициализирует новый экземпляр[`StopCheckProfile`](../../stopcheckprofile) класс.
 
 ```csharp
 public StopCheckProfile()

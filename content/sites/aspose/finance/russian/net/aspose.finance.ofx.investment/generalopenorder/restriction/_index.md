@@ -1,14 +1,14 @@
 ---
 title: Restriction
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает специальное ограничение на заказ.
+description: Получает или задает специальное ограничение для заказа.
 type: docs
 weight: 100
 url: /ru/net/aspose.finance.ofx.investment/generalopenorder/restriction/
 ---
 ## GeneralOpenOrder.Restriction property
 
-Получает или задает специальное ограничение на заказ.
+Получает или задает специальное ограничение для заказа.
 
 ```csharp
 public RestrictionEnum Restriction { get; set; }

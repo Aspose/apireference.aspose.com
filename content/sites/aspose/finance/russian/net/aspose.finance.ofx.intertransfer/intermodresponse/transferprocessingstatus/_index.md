@@ -1,14 +1,14 @@
 ---
 title: TransferProcessingStatus
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задаетTransferProcessingStatusaspose.finance.ofx.intertransfer/intermodresponse/transferprocessingstatus.
+description: Получает или задаетTransferProcessingStatusaspose.finance.ofx.intertransfer/intermodresponse/transferprocessingstatus .
 type: docs
 weight: 40
 url: /ru/net/aspose.finance.ofx.intertransfer/intermodresponse/transferprocessingstatus/
 ---
 ## InterModResponse.TransferProcessingStatus property
 
-Получает или задает`TransferProcessingStatus`.
+Получает или задает`TransferProcessingStatus` .
 
 ```csharp
 public TransferProcessingStatus TransferProcessingStatus { get; set; }

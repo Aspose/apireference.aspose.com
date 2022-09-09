@@ -1,14 +1,14 @@
 ---
 title: Split
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаSplitaspose.finance.ofx.investment/split.
+description: Инициализирует новый экземплярSplitaspose.finance.ofx.investment/split класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.investment/split/split/
 ---
 ## Split constructor
 
-Инициализирует новый экземпляр класса[`Split`](../../split).
+Инициализирует новый экземпляр[`Split`](../../split) класс.
 
 ```csharp
 public Split()

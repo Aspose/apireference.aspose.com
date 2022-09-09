@@ -1,14 +1,14 @@
 ---
 title: EscrowAmount
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаEscrowAmountaspose.finance.ofx/escrowamount.
+description: Инициализирует новый экземплярEscrowAmountaspose.finance.ofx/escrowamount класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx/escrowamount/escrowamount/
 ---
 ## EscrowAmount constructor
 
-Инициализирует новый экземпляр класса[`EscrowAmount`](../../escrowamount).
+Инициализирует новый экземпляр[`EscrowAmount`](../../escrowamount) класс.
 
 ```csharp
 public EscrowAmount()

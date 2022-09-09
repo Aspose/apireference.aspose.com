@@ -1,14 +1,14 @@
 ---
 title: LastPmtInfoType
 second_title: Aspose.Finance for .NET API 参考
-description: 最后付款信息类型类
+description: 上次付款信息类型类
 type: docs
 weight: 3710
 url: /zh/net/aspose.finance.ofx/lastpmtinfotype/
 ---
 ## LastPmtInfoType class
 
-最后付款信息类型类。
+上次付款信息类型类。
 
 ```csharp
 public class LastPmtInfoType
@@ -18,7 +18,7 @@ public class LastPmtInfoType
 
 | 姓名 | 描述 |
 | --- | --- |
-| [LastPmtInfoType](lastpmtinfotype)() | 初始化[`LastPmtInfoType`](../lastpmtinfotype)类的新实例。 |
+| [LastPmtInfoType](lastpmtinfotype)() | 初始化一个新的实例[`LastPmtInfoType`](../lastpmtinfotype)类. |
 
 ## 特性
 

@@ -1,14 +1,14 @@
 ---
 title: Context
 second_title: Справочник по API Aspose.Finance для .NET
-description: Этот класс содержит объект период и сценарий которые вместе дают соответствующий контекст для понимания значений элементов.
+description: Этот класс содержит объект период и сценарий которые в совокупности дают соответствующий контекст для понимания значений элементов.
 type: docs
 weight: 6540
 url: /ru/net/aspose.finance.xbrl/context/
 ---
 ## Context class
 
-Этот класс содержит объект, период и сценарий, которые вместе дают соответствующий контекст для понимания значений элементов.
+Этот класс содержит объект, период и сценарий, которые в совокупности дают соответствующий контекст для понимания значений элементов.
 
 ```csharp
 public class Context
@@ -18,13 +18,13 @@ public class Context
 
 | Имя | Описание |
 | --- | --- |
-| [Context](context)(ContextPeriod, ContextEntity) | Инициализирует новый экземпляр класса[`Context`](../context). |
+| [Context](context)(ContextPeriod, ContextEntity) | Инициализирует новый экземпляр[`Context`](../context) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [Entity](../../aspose.finance.xbrl/context/entity) { get; set; } | Получает или задает объект контекста. |
+| [Entity](../../aspose.finance.xbrl/context/entity) { get; set; } | Получает или задает сущность контекста. |
 | [Id](../../aspose.finance.xbrl/context/id) { get; set; } | Получает или задает идентификатор контекста. |
 | [Period](../../aspose.finance.xbrl/context/period) { get; set; } | Получает или задает период контекста. |
 | [Scenario](../../aspose.finance.xbrl/context/scenario) { get; set; } | Получает или задает сценарий контекста. |

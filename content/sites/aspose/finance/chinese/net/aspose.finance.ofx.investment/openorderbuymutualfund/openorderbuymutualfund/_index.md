@@ -1,14 +1,14 @@
 ---
 title: OpenOrderBuyMutualFund
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化OpenOrderBuyMutualFundaspose.finance.ofx.investment/openorderbuymutualfund类的新实例
+description: 初始化一个新的实例OpenOrderBuyMutualFundaspose.finance.ofx.investment/openorderbuymutualfund类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.investment/openorderbuymutualfund/openorderbuymutualfund/
 ---
 ## OpenOrderBuyMutualFund constructor
 
-初始化[`OpenOrderBuyMutualFund`](../../openorderbuymutualfund)类的新实例。
+初始化一个新的实例[`OpenOrderBuyMutualFund`](../../openorderbuymutualfund)类.
 
 ```csharp
 public OpenOrderBuyMutualFund()

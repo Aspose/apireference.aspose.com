@@ -1,14 +1,14 @@
 ---
 title: InceptToDate
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаInceptToDateaspose.finance.ofx.investment/incepttodate.
+description: Инициализирует новый экземплярInceptToDateaspose.finance.ofx.investment/incepttodate класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.investment/incepttodate/incepttodate/
 ---
 ## InceptToDate constructor
 
-Инициализирует новый экземпляр класса[`InceptToDate`](../../incepttodate).
+Инициализирует новый экземпляр[`InceptToDate`](../../incepttodate) класс.
 
 ```csharp
 public InceptToDate()

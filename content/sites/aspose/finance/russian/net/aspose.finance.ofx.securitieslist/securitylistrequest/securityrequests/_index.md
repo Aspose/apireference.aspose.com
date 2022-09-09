@@ -1,14 +1,14 @@
 ---
 title: SecurityRequests
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает коллекциюSecurityRequestaspose.finance.ofx.securitieslist/securityrequest.
+description: Получает или задает коллекциюSecurityRequestaspose.finance.ofx.securitieslist/securityrequest .
 type: docs
 weight: 20
 url: /ru/net/aspose.finance.ofx.securitieslist/securitylistrequest/securityrequests/
 ---
 ## SecurityListRequest.SecurityRequests property
 
-Получает или задает коллекцию[`SecurityRequest`](../../securityrequest).
+Получает или задает коллекцию[`SecurityRequest`](../../securityrequest) .
 
 ```csharp
 public List<SecurityRequest> SecurityRequests { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: DOCUMENT_TYPE_NODE
 second_title: Справочник по API Aspose.Finance для .NET
-description: Тип узла тип документа.
+description: Тип узла типа документа.
 type: docs
 weight: 220
 url: /ru/net/aspose.finance.xbrl.dom/node/document_type_node/
 ---
 ## Node.DOCUMENT_TYPE_NODE field
 
-Тип узла тип документа.
+Тип узла типа документа.
 
 ```csharp
 public const ushort DOCUMENT_TYPE_NODE;

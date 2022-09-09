@@ -1,14 +1,14 @@
 ---
 title: BankMessageSetV1
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задаетBankMessageSetV1aspose.finance.ofx.profile/bankmessageset/bankmessagesetv1.
+description: Получает или задаетBankMessageSetV1aspose.finance.ofx.profile/bankmessageset/bankmessagesetv1 .
 type: docs
 weight: 20
 url: /ru/net/aspose.finance.ofx.profile/bankmessageset/bankmessagesetv1/
 ---
 ## BankMessageSet.BankMessageSetV1 property
 
-Получает или задает`BankMessageSetV1`.
+Получает или задает`BankMessageSetV1` .
 
 ```csharp
 public BankMessageSetV1 BankMessageSetV1 { get; set; }

@@ -18,14 +18,14 @@ public class OpenOrderSellOther : AbstractOpenOrder
 
 | 姓名 | 描述 |
 | --- | --- |
-| [OpenOrderSellOther](openordersellother)() | 初始化[`OpenOrderSellOther`](../openordersellother)类的新实例。 |
+| [OpenOrderSellOther](openordersellother)() | 初始化一个新的实例[`OpenOrderSellOther`](../openordersellother)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [OpenOrder](../../aspose.finance.ofx.investment/abstractopenorder/openorder) { get; set; } | 获取或设置[`GeneralOpenOrder`](../generalopenorder)。 |
-| [UnitType](../../aspose.finance.ofx.investment/openordersellother/unittype) { get; set; } | 获取或设置单位所代表的内容。 |
+| [OpenOrder](../../aspose.finance.ofx.investment/abstractopenorder/openorder) { get; set; } | 获取或设置[`GeneralOpenOrder`](../generalopenorder). |
+| [UnitType](../../aspose.finance.ofx.investment/openordersellother/unittype) { get; set; } | 获取或设置单位表示的内容。 |
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: OverpaidRefund
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置多付利息返还
+description: 获取或设置多付利息的返还
 type: docs
 weight: 100
 url: /zh/net/aspose.finance.ofx.tax1098/tax1098_v100/overpaidrefund/
 ---
 ## Tax1098_V100.OverpaidRefund property
 
-获取或设置多付利息返还。
+获取或设置多付利息的返还。
 
 ```csharp
 public string OverpaidRefund { get; set; }

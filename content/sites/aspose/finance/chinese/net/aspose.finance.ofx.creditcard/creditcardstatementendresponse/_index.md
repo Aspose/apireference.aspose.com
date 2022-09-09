@@ -1,14 +1,14 @@
 ---
 title: CreditCardStatementEndResponse
 second_title: Aspose.Finance for .NET API 参考
-description: 信用卡结算声明响应类
+description: 信用卡结算报表响应类
 type: docs
 weight: 1970
 url: /zh/net/aspose.finance.ofx.creditcard/creditcardstatementendresponse/
 ---
 ## CreditCardStatementEndResponse class
 
-信用卡结算声明响应类。
+信用卡结算报表响应类。
 
 ```csharp
 public class CreditCardStatementEndResponse
@@ -18,14 +18,14 @@ public class CreditCardStatementEndResponse
 
 | 姓名 | 描述 |
 | --- | --- |
-| [CreditCardStatementEndResponse](creditcardstatementendresponse)() | 初始化[`CreditCardStatementEndResponse`](../creditcardstatementendresponse)类的新实例。 |
+| [CreditCardStatementEndResponse](creditcardstatementendresponse)() | 初始化一个新的实例[`CreditCardStatementEndResponse`](../creditcardstatementendresponse)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [CreditCardAccount](../../aspose.finance.ofx.creditcard/creditcardstatementendresponse/creditcardaccount) { get; set; } | 获取或设置[`CreditCardAccount`](./creditcardaccount)的来源。 |
-| [CreditCardClosings](../../aspose.finance.ofx.creditcard/creditcardstatementendresponse/creditcardclosings) { get; set; } | 获取或设置[`CreditCardClosing`](../creditcardclosing)的集合。 |
+| [CreditCardAccount](../../aspose.finance.ofx.creditcard/creditcardstatementendresponse/creditcardaccount) { get; set; } | 获取或设置 from[`CreditCardAccount`](./creditcardaccount). |
+| [CreditCardClosings](../../aspose.finance.ofx.creditcard/creditcardstatementendresponse/creditcardclosings) { get; set; } | 获取或设置的集合[`CreditCardClosing`](../creditcardclosing). |
 | [Currency](../../aspose.finance.ofx.creditcard/creditcardstatementendresponse/currency) { get; set; } | 获取或设置用于结算信息的默认货币。 |
 
 ### 也可以看看

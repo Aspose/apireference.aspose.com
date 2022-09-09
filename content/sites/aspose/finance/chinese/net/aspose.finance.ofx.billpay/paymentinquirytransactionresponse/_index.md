@@ -8,7 +8,7 @@ url: /zh/net/aspose.finance.ofx.billpay/paymentinquirytransactionresponse/
 ---
 ## PaymentInquiryTransactionResponse class
 
-支付状态查询交易响应类。
+支付状态查询交易响应类
 
 ```csharp
 public class PaymentInquiryTransactionResponse : AbstractTransactionResponse
@@ -18,16 +18,16 @@ public class PaymentInquiryTransactionResponse : AbstractTransactionResponse
 
 | 姓名 | 描述 |
 | --- | --- |
-| [PaymentInquiryTransactionResponse](paymentinquirytransactionresponse)() | 初始化[`PaymentInquiryTransactionResponse`](../paymentinquirytransactionresponse)类的新实例。 |
+| [PaymentInquiryTransactionResponse](paymentinquirytransactionresponse)() | 初始化一个新的实例[`PaymentInquiryTransactionResponse`](../paymentinquirytransactionresponse)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
 | [ClientCookie](../../aspose.finance.ofx/abstracttransactionresponse/clientcookie) { get; set; } | 获取或设置要在事务响应中回显的数据 |
-| [OfxExtension](../../aspose.finance.ofx.billpay/paymentinquirytransactionresponse/ofxextension) { get; set; } | 获取或设置[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype)。 |
-| [PaymentInquiryResponse](../../aspose.finance.ofx.billpay/paymentinquirytransactionresponse/paymentinquiryresponse) { get; set; } | 获取或设置[`PaymentInquiryResponse`](./paymentinquiryresponse)。 |
-| [Status](../../aspose.finance.ofx/abstracttransactionresponse/status) { get; set; } | 获取或设置[`Status`](../../aspose.finance.ofx/abstracttransactionresponse/status)。 |
+| [OfxExtension](../../aspose.finance.ofx.billpay/paymentinquirytransactionresponse/ofxextension) { get; set; } | 获取或设置[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
+| [PaymentInquiryResponse](../../aspose.finance.ofx.billpay/paymentinquirytransactionresponse/paymentinquiryresponse) { get; set; } | 获取或设置[`PaymentInquiryResponse`](./paymentinquiryresponse). |
+| [Status](../../aspose.finance.ofx/abstracttransactionresponse/status) { get; set; } | 获取或设置[`Status`](../../aspose.finance.ofx/abstracttransactionresponse/status). |
 | [TransactionUniqueId](../../aspose.finance.ofx/abstracttransactionresponse/transactionuniqueid) { get; set; } | 获取或设置此事务的客户端分配的全局唯一 ID。 |
 
 ### 也可以看看

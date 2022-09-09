@@ -1,14 +1,14 @@
 ---
 title: References
 second_title: Справочник по API Aspose.Finance для .NET
-description: ПолучаетInlineReferencesaspose.finance.xbrl.inline/inlinereferencesво встроенном документе XBRL.
+description: ПолучаетInlineReferencesaspose.finance.xbrl.inline/inlinereferences во встроенном документе XBRL.
 type: docs
 weight: 70
 url: /ru/net/aspose.finance.xbrl.inline/inlinexbrldocument/references/
 ---
 ## InlineXbrlDocument.References property
 
-Получает[`InlineReferences`](../../inlinereferences)во встроенном документе XBRL.
+Получает[`InlineReferences`](../../inlinereferences) во встроенном документе XBRL.
 
 ```csharp
 public InlineReferences References { get; }

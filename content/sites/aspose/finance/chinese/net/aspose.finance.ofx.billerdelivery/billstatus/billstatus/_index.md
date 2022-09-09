@@ -1,14 +1,14 @@
 ---
 title: BillStatus
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化BillStatusaspose.finance.ofx.billerdelivery/billstatus类的新实例
+description: 初始化一个新的实例BillStatusaspose.finance.ofx.billerdelivery/billstatus类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.billerdelivery/billstatus/billstatus/
 ---
 ## BillStatus constructor
 
-初始化[`BillStatus`](../../billstatus)类的新实例。
+初始化一个新的实例[`BillStatus`](../../billstatus)类.
 
 ```csharp
 public BillStatus()

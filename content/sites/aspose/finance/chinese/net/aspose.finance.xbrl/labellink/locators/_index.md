@@ -1,14 +1,14 @@
 ---
 title: Locators
 second_title: Aspose.Finance for .NET API 参考
-description: 获取Locaspose.finance.xbrl/loc的集合
+description: 获取集合Locaspose.finance.xbrl/loc.
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.xbrl/labellink/locators/
 ---
 ## LabelLink.Locators property
 
-获取[`Loc`](../../loc)的集合。
+获取集合[`Loc`](../../loc).
 
 ```csharp
 public List<Loc> Locators { get; }

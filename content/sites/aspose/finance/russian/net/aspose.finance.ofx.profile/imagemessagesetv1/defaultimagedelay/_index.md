@@ -1,14 +1,14 @@
 ---
 title: DefaultImageDelay
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает количество календарных дней по умолчанию из ServerDate для изображений выписки или PostedDate для изображений транзакций когда изображение станет доступным.
+description: Получает или задает количество календарных дней по умолчанию от ServerDate для изображений выписки или PostedDate для изображений транзакций когда изображение станет доступным.
 type: docs
 weight: 20
 url: /ru/net/aspose.finance.ofx.profile/imagemessagesetv1/defaultimagedelay/
 ---
 ## ImageMessageSetV1.DefaultImageDelay property
 
-Получает или задает количество календарных дней по умолчанию из ServerDate (для изображений выписки) или PostedDate (для изображений транзакций), когда изображение станет доступным.
+Получает или задает количество календарных дней по умолчанию от ServerDate (для изображений выписки) или PostedDate (для изображений транзакций), когда изображение станет доступным.
 
 ```csharp
 public string DefaultImageDelay { get; set; }

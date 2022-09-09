@@ -1,14 +1,14 @@
 ---
 title: ServiceAdd
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化ServiceAddaspose.finance.ofx.signup/serviceadd类的新实例
+description: 初始化一个新的实例ServiceAddaspose.finance.ofx.signup/serviceadd类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.signup/serviceadd/serviceadd/
 ---
 ## ServiceAdd constructor
 
-初始化[`ServiceAdd`](../../serviceadd)类的新实例。
+初始化一个新的实例[`ServiceAdd`](../../serviceadd)类.
 
 ```csharp
 public ServiceAdd()

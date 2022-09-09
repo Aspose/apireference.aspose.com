@@ -1,14 +1,14 @@
 ---
 title: Decimals
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает десятичное число дляInlineNonfractionaspose.finance.xbrl.inline/inlinenonfraction.
+description: Получает или задает десятичное числоInlineNonfractionaspose.finance.xbrl.inline/inlinenonfraction .
 type: docs
 weight: 20
 url: /ru/net/aspose.finance.xbrl.inline/inlinenonfraction/decimals/
 ---
 ## InlineNonfraction.Decimals property
 
-Получает или задает десятичное число для[`InlineNonfraction`](../../inlinenonfraction).
+Получает или задает десятичное число[`InlineNonfraction`](../../inlinenonfraction) .
 
 ```csharp
 public int Decimals { get; set; }

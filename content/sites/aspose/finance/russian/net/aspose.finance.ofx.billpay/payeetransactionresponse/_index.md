@@ -1,14 +1,14 @@
 ---
 title: PayeeTransactionResponse
 second_title: Справочник по API Aspose.Finance для .NET
-description: Класс ответа транзакции получателя.
+description: Класс ответа на транзакцию получателя.
 type: docs
 weight: 1040
 url: /ru/net/aspose.finance.ofx.billpay/payeetransactionresponse/
 ---
 ## PayeeTransactionResponse class
 
-Класс ответа транзакции получателя.
+Класс ответа на транзакцию получателя.
 
 ```csharp
 public class PayeeTransactionResponse : AbstractTransactionResponse
@@ -18,16 +18,16 @@ public class PayeeTransactionResponse : AbstractTransactionResponse
 
 | Имя | Описание |
 | --- | --- |
-| [PayeeTransactionResponse](payeetransactionresponse)() | Инициализирует новый экземпляр класса[`PayeeTransactionResponse`](../payeetransactionresponse). |
+| [PayeeTransactionResponse](payeetransactionresponse)() | Инициализирует новый экземпляр[`PayeeTransactionResponse`](../payeetransactionresponse) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [ClientCookie](../../aspose.finance.ofx/abstracttransactionresponse/clientcookie) { get; set; } | Получает или задает данные, которые будут отображаться в ответе транзакции |
-| [OfxExtension](../../aspose.finance.ofx.billpay/payeetransactionresponse/ofxextension) { get; set; } | Получает или задает[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
-| [Response](../../aspose.finance.ofx.billpay/payeetransactionresponse/response) { get; set; } | Получает или задает[`PayeeResponse`](../payeeresponse)или[`PayeeModResponse`](../payeemodresponse)или[`PayeeDeleteResponse`](../payeedeleteresponse). |
-| [Status](../../aspose.finance.ofx/abstracttransactionresponse/status) { get; set; } | Получает или задает[`Status`](../../aspose.finance.ofx/abstracttransactionresponse/status). |
+| [ClientCookie](../../aspose.finance.ofx/abstracttransactionresponse/clientcookie) { get; set; } | Получает или задает данные, которые будут отражены в транзакции response |
+| [OfxExtension](../../aspose.finance.ofx.billpay/payeetransactionresponse/ofxextension) { get; set; } | Получает или задает[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype) . |
+| [Response](../../aspose.finance.ofx.billpay/payeetransactionresponse/response) { get; set; } | Получает или задает[`PayeeResponse`](../payeeresponse) или же[`PayeeModResponse`](../payeemodresponse) или же[`PayeeDeleteResponse`](../payeedeleteresponse) . |
+| [Status](../../aspose.finance.ofx/abstracttransactionresponse/status) { get; set; } | Получает или задает[`Status`](../../aspose.finance.ofx/abstracttransactionresponse/status) . |
 | [TransactionUniqueId](../../aspose.finance.ofx/abstracttransactionresponse/transactionuniqueid) { get; set; } | Получает или задает назначенный клиентом глобальный уникальный идентификатор для этой транзакции. |
 
 ### Смотрите также

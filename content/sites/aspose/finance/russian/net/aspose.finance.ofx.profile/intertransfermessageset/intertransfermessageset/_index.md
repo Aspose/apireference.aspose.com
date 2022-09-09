@@ -1,14 +1,14 @@
 ---
 title: InterTransferMessageSet
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаInterTransferMessageSetaspose.finance.ofx.profile/intertransfermessageset.
+description: Инициализирует новый экземплярInterTransferMessageSetaspose.finance.ofx.profile/intertransfermessageset класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.profile/intertransfermessageset/intertransfermessageset/
 ---
 ## InterTransferMessageSet constructor
 
-Инициализирует новый экземпляр класса[`InterTransferMessageSet`](../../intertransfermessageset).
+Инициализирует новый экземпляр[`InterTransferMessageSet`](../../intertransfermessageset) класс.
 
 ```csharp
 public InterTransferMessageSet()

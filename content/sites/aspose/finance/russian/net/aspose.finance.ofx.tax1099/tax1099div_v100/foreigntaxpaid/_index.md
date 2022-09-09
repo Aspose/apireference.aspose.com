@@ -1,14 +1,14 @@
 ---
 title: ForeignTaxPaid
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает уплаченный иностранный налог.
+description: Получает или устанавливает уплаченный иностранный налог.
 type: docs
 weight: 80
 url: /ru/net/aspose.finance.ofx.tax1099/tax1099div_v100/foreigntaxpaid/
 ---
 ## Tax1099DIV_V100.ForeignTaxPaid property
 
-Получает или задает уплаченный иностранный налог.
+Получает или устанавливает уплаченный иностранный налог.
 
 ```csharp
 public string ForeignTaxPaid { get; set; }

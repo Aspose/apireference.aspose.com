@@ -1,14 +1,14 @@
 ---
 title: OfxExtensionType
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化OfxExtensionTypeaspose.finance.ofx/ofxextensiontype类的新实例
+description: 初始化一个新的实例OfxExtensionTypeaspose.finance.ofx/ofxextensiontype类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx/ofxextensiontype/ofxextensiontype/
 ---
 ## OfxExtensionType constructor
 
-初始化[`OfxExtensionType`](../../ofxextensiontype)类的新实例。
+初始化一个新的实例[`OfxExtensionType`](../../ofxextensiontype)类.
 
 ```csharp
 public OfxExtensionType()

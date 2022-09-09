@@ -1,14 +1,14 @@
 ---
 title: Request
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置IntraRequestaspose.finance.ofx.bank/intrarequest或IntraModRequestaspose.finance.ofx.bank/intramodrequest或IntraCancellationRequestaspose.finance.ofx.bank/intracancellationrequest
+description: 获取或设置IntraRequestaspose.finance.ofx.bank/intrarequest或者IntraModRequestaspose.finance.ofx.bank/intramodrequest或者IntraCancellationRequestaspose.finance.ofx.bank/intracancellationrequest.
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.ofx.bank/intratransactionrequest/request/
 ---
 ## IntraTransactionRequest.Request property
 
-获取或设置[`IntraRequest`](../../intrarequest)或[`IntraModRequest`](../../intramodrequest)或[`IntraCancellationRequest`](../../intracancellationrequest)。
+获取或设置[`IntraRequest`](../../intrarequest)或者[`IntraModRequest`](../../intramodrequest)或者[`IntraCancellationRequest`](../../intracancellationrequest).
 
 ```csharp
 public AbstractIntraRequest Request { get; set; }

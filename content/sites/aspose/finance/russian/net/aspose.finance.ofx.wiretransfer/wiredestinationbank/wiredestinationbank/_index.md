@@ -1,14 +1,14 @@
 ---
 title: WireDestinationBank
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаWireDestinationBankaspose.finance.ofx.wiretransfer/wiredestinationbank.
+description: Инициализирует новый экземплярWireDestinationBankaspose.finance.ofx.wiretransfer/wiredestinationbank класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.wiretransfer/wiredestinationbank/wiredestinationbank/
 ---
 ## WireDestinationBank constructor
 
-Инициализирует новый экземпляр класса[`WireDestinationBank`](../../wiredestinationbank).
+Инициализирует новый экземпляр[`WireDestinationBank`](../../wiredestinationbank) класс.
 
 ```csharp
 public WireDestinationBank()

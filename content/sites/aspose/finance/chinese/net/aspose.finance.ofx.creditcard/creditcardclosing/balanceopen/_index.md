@@ -1,14 +1,14 @@
 ---
 title: BalanceOpen
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置期初报表余额
+description: 获取或设置期初余额
 type: docs
 weight: 40
 url: /zh/net/aspose.finance.ofx.creditcard/creditcardclosing/balanceopen/
 ---
 ## CreditCardClosing.BalanceOpen property
 
-获取或设置期初报表余额。
+获取或设置期初余额。
 
 ```csharp
 public string BalanceOpen { get; set; }

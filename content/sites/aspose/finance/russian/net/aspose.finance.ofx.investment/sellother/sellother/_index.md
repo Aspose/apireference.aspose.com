@@ -1,14 +1,14 @@
 ---
 title: SellOther
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаSellOtheraspose.finance.ofx.investment/sellother.
+description: Инициализирует новый экземплярSellOtheraspose.finance.ofx.investment/sellother класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.investment/sellother/sellother/
 ---
 ## SellOther constructor
 
-Инициализирует новый экземпляр класса[`SellOther`](../../sellother).
+Инициализирует новый экземпляр[`SellOther`](../../sellother) класс.
 
 ```csharp
 public SellOther()

@@ -18,16 +18,16 @@ public class PresentmentListTransactionRequest : AbstractTransactionRequest
 
 | Имя | Описание |
 | --- | --- |
-| [PresentmentListTransactionRequest](presentmentlisttransactionrequest)() | Инициализирует новый экземпляр класса[`PresentmentListTransactionRequest`](../presentmentlisttransactionrequest). |
+| [PresentmentListTransactionRequest](presentmentlisttransactionrequest)() | Инициализирует новый экземпляр[`PresentmentListTransactionRequest`](../presentmentlisttransactionrequest) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [ClientCookie](../../aspose.finance.ofx/abstracttransactionrequest/clientcookie) { get; set; } | Получает или задает данные, которые будут отображаться в ответе транзакции |
+| [ClientCookie](../../aspose.finance.ofx/abstracttransactionrequest/clientcookie) { get; set; } | Получает или задает данные, которые будут отражены в транзакции response |
 | [GroupId](../../aspose.finance.ofx.billerdelivery/presentmentlisttransactionrequest/groupid) { get; set; } | Получает или задает идентификатор группы. |
-| [OfxExtension](../../aspose.finance.ofx.billerdelivery/presentmentlisttransactionrequest/ofxextension) { get; set; } | Получает или задает[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
-| [PresentmentListRequest](../../aspose.finance.ofx.billerdelivery/presentmentlisttransactionrequest/presentmentlistrequest) { get; set; } | Получает или задает[`PresentmentListRequest`](./presentmentlistrequest). |
+| [OfxExtension](../../aspose.finance.ofx.billerdelivery/presentmentlisttransactionrequest/ofxextension) { get; set; } | Получает или задает[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype) . |
+| [PresentmentListRequest](../../aspose.finance.ofx.billerdelivery/presentmentlisttransactionrequest/presentmentlistrequest) { get; set; } | Получает или задает[`PresentmentListRequest`](./presentmentlistrequest) . |
 | [TransactionAuthorizationNumber](../../aspose.finance.ofx/abstracttransactionrequest/transactionauthorizationnumber) { get; set; } | Получает или задает номер авторизации транзакции. |
 | [TransactionUniqueId](../../aspose.finance.ofx/abstracttransactionrequest/transactionuniqueid) { get; set; } | Получает или задает назначенный клиентом глобальный уникальный идентификатор для этой транзакции |
 | [UserId](../../aspose.finance.ofx.billerdelivery/presentmentlisttransactionrequest/userid) { get; set; } | Получает или задает идентификатор пользователя. |

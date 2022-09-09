@@ -19,17 +19,17 @@ public class LinkbaseRefCollection : IEnumerable<LinkbaseRef>
 | 姓名 | 描述 |
 | --- | --- |
 | [Count](../../aspose.finance.xbrl/linkbaserefcollection/count) { get; } | 此集合中的链接库引用数。 |
-| [Item](../../aspose.finance.xbrl/linkbaserefcollection/item) { get; } | 获取集合中指定索引处的[`LinkbaseRef`](../linkbaseref)项目。 |
+| [Item](../../aspose.finance.xbrl/linkbaserefcollection/item) { get; } | 获取[`LinkbaseRef`](../linkbaseref)集合中指定索引处的项目。 |
 
 ## 方法
 
 | 姓名 | 描述 |
 | --- | --- |
-| [AddCalculationLinkbaseRef](../../aspose.finance.xbrl/linkbaserefcollection/addcalculationlinkbaseref)(string) | 将[`CalculationLinkbaseRef`](../calculationlinkbaseref)添加到集合中。 |
-| [AddDefinitionLinkbaseRef](../../aspose.finance.xbrl/linkbaserefcollection/adddefinitionlinkbaseref)(string) | 将[`DefinitionLinkbaseRef`](../definitionlinkbaseref)添加到集合中。 |
-| [AddLabelLinkbaseRef](../../aspose.finance.xbrl/linkbaserefcollection/addlabellinkbaseref)(string) | 将[`LabelLinkbaseRef`](../labellinkbaseref)添加到集合中。 |
-| [AddPresentationLinkbaseRef](../../aspose.finance.xbrl/linkbaserefcollection/addpresentationlinkbaseref)(string) | 将[`PresentationLinkbaseRef`](../presentationlinkbaseref)添加到集合中。 |
-| [AddReferenceLinkbaseRef](../../aspose.finance.xbrl/linkbaserefcollection/addreferencelinkbaseref)(string) | 将[`ReferenceLinkbaseRef`](../referencelinkbaseref)添加到集合中。 |
+| [AddCalculationLinkbaseRef](../../aspose.finance.xbrl/linkbaserefcollection/addcalculationlinkbaseref)(string) | 添加一个[`CalculationLinkbaseRef`](../calculationlinkbaseref)收藏. |
+| [AddDefinitionLinkbaseRef](../../aspose.finance.xbrl/linkbaserefcollection/adddefinitionlinkbaseref)(string) | 添加一个[`DefinitionLinkbaseRef`](../definitionlinkbaseref)收藏. |
+| [AddLabelLinkbaseRef](../../aspose.finance.xbrl/linkbaserefcollection/addlabellinkbaseref)(string) | 添加一个[`LabelLinkbaseRef`](../labellinkbaseref)收藏. |
+| [AddPresentationLinkbaseRef](../../aspose.finance.xbrl/linkbaserefcollection/addpresentationlinkbaseref)(string) | 添加一个[`PresentationLinkbaseRef`](../presentationlinkbaseref)收藏. |
+| [AddReferenceLinkbaseRef](../../aspose.finance.xbrl/linkbaserefcollection/addreferencelinkbaseref)(string) | 添加一个[`ReferenceLinkbaseRef`](../referencelinkbaseref)收藏. |
 | [GetEnumerator](../../aspose.finance.xbrl/linkbaserefcollection/getenumerator)() | 返回一个遍历集合的枚举器。 |
 
 ### 也可以看看

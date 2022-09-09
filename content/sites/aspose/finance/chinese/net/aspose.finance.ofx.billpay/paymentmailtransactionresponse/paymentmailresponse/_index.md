@@ -1,14 +1,14 @@
 ---
 title: PaymentMailResponse
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置PaymentMailResponseaspose.finance.ofx.billpay/paymentmailtransactionresponse/paymentmailresponse
+description: 获取或设置PaymentMailResponseaspose.finance.ofx.billpay/paymentmailtransactionresponse/paymentmailresponse.
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.ofx.billpay/paymentmailtransactionresponse/paymentmailresponse/
 ---
 ## PaymentMailTransactionResponse.PaymentMailResponse property
 
-获取或设置`PaymentMailResponse`。
+获取或设置`PaymentMailResponse`.
 
 ```csharp
 public PaymentMailResponse PaymentMailResponse { get; set; }

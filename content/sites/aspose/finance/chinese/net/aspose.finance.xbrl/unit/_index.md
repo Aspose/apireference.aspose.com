@@ -1,14 +1,14 @@
 ---
 title: Unit
 second_title: Aspose.Finance for .NET API 参考
-description: 此类用于指定测量数值项的单位
+description: 此类用于指定测量数字项的单位
 type: docs
 weight: 8060
 url: /zh/net/aspose.finance.xbrl/unit/
 ---
 ## Unit class
 
-此类用于指定测量数值项的单位。
+此类用于指定测量数字项的单位。
 
 ```csharp
 public class Unit
@@ -18,17 +18,17 @@ public class Unit
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Unit](unit)(UnitType) | 初始化[`Unit`](../unit)类的新实例。 |
+| [Unit](unit)(UnitType) | 初始化[`Unit`](../unit)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Id](../../aspose.finance.xbrl/unit/id) { get; set; } | 获取或设置单元 ID。 |
+| [Id](../../aspose.finance.xbrl/unit/id) { get; set; } | 获取或设置单元id。 |
 | [MeasureQualifiedNames](../../aspose.finance.xbrl/unit/measurequalifiednames) { get; } | 获取度量限定名的集合，单位类型为Measure时使用。 |
 | [Type](../../aspose.finance.xbrl/unit/type) { get; set; } | 获取或设置单位类型。 |
-| [UnitDenominatorQualifiedNames](../../aspose.finance.xbrl/unit/unitdenominatorqualifiednames) { get; set; } | 获取分母限定名的集合，单位类型为 Divide 时使用。 |
-| [UnitNumeratorQualifiedNames](../../aspose.finance.xbrl/unit/unitnumeratorqualifiednames) { get; } | 获取分子限定名的集合，当单位类型为 Divide 时使用。 |
+| [UnitDenominatorQualifiedNames](../../aspose.finance.xbrl/unit/unitdenominatorqualifiednames) { get; set; } | 获取分母限定名集合，单位类型为Divide时使用。 |
+| [UnitNumeratorQualifiedNames](../../aspose.finance.xbrl/unit/unitnumeratorqualifiednames) { get; } | 获取分子限定名的集合，单位类型为Divide时使用。 |
 
 ### 也可以看看
 

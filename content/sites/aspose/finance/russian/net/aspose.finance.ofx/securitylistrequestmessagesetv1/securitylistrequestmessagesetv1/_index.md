@@ -1,14 +1,14 @@
 ---
 title: SecurityListRequestMessageSetV1
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаSecurityListRequestMessageSetV1aspose.finance.ofx/securitylistrequestmessagesetv1.
+description: Инициализирует новый экземплярSecurityListRequestMessageSetV1aspose.finance.ofx/securitylistrequestmessagesetv1 класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx/securitylistrequestmessagesetv1/securitylistrequestmessagesetv1/
 ---
 ## SecurityListRequestMessageSetV1 constructor
 
-Инициализирует новый экземпляр класса[`SecurityListRequestMessageSetV1`](../../securitylistrequestmessagesetv1).
+Инициализирует новый экземпляр[`SecurityListRequestMessageSetV1`](../../securitylistrequestmessagesetv1) класс.
 
 ```csharp
 public SecurityListRequestMessageSetV1()

@@ -1,14 +1,14 @@
 ---
 title: SignonRequestMessageSetV1
 second_title: Справочник по API Aspose.Finance для .NET
-description: Сообщения о входе в систему устанавливают класс версии 1.
+description: Сообщения запроса на вход в систему устанавливают класс версии 1.
 type: docs
 weight: 5430
 url: /ru/net/aspose.finance.ofx/signonrequestmessagesetv1/
 ---
 ## SignonRequestMessageSetV1 class
 
-Сообщения о входе в систему устанавливают класс версии 1.
+Сообщения запроса на вход в систему устанавливают класс версии 1.
 
 ```csharp
 public class SignonRequestMessageSetV1 : AbstractRequestMessageSet
@@ -18,15 +18,15 @@ public class SignonRequestMessageSetV1 : AbstractRequestMessageSet
 
 | Имя | Описание |
 | --- | --- |
-| [SignonRequestMessageSetV1](signonrequestmessagesetv1)() | Инициализирует новый экземпляр класса[`SignonRequestMessageSetV1`](../signonrequestmessagesetv1). |
+| [SignonRequestMessageSetV1](signonrequestmessagesetv1)() | Инициализирует новый экземпляр[`SignonRequestMessageSetV1`](../signonrequestmessagesetv1) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [ChallengeTransactionRequest](../../aspose.finance.ofx/signonrequestmessagesetv1/challengetransactionrequest) { get; set; } | Получает или задает[`ChallengeTransactionRequest`](../../aspose.finance.ofx.signon/challengetransactionrequest). |
-| [PinChangeTransactionRequest](../../aspose.finance.ofx/signonrequestmessagesetv1/pinchangetransactionrequest) { get; set; } | Получает или задает[`PinChangeTransactionRequest`](../../aspose.finance.ofx.signon/pinchangetransactionrequest). |
-| [SignonRequest](../../aspose.finance.ofx/signonrequestmessagesetv1/signonrequest) { get; set; } | Получает или задает[`SignonRequest`](../../aspose.finance.ofx.signon/signonrequest). |
+| [ChallengeTransactionRequest](../../aspose.finance.ofx/signonrequestmessagesetv1/challengetransactionrequest) { get; set; } | Получает или задает[`ChallengeTransactionRequest`](../../aspose.finance.ofx.signon/challengetransactionrequest) . |
+| [PinChangeTransactionRequest](../../aspose.finance.ofx/signonrequestmessagesetv1/pinchangetransactionrequest) { get; set; } | Получает или задает[`PinChangeTransactionRequest`](../../aspose.finance.ofx.signon/pinchangetransactionrequest) . |
+| [SignonRequest](../../aspose.finance.ofx/signonrequestmessagesetv1/signonrequest) { get; set; } | Получает или задает[`SignonRequest`](../../aspose.finance.ofx.signon/signonrequest) . |
 
 ### Смотрите также
 

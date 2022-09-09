@@ -1,14 +1,14 @@
 ---
 title: UsedOns
 second_title: Aspose.Finance for .NET API 参考
-description: 获取RoleTypeaspose.finance.xbrl/roletype中引用时使用的 from 集合
+description: 获取 from 在引用中使用的集合RoleTypeaspose.finance.xbrl/roletype.
 type: docs
 weight: 40
 url: /zh/net/aspose.finance.xbrl/roletype/usedons/
 ---
 ## RoleType.UsedOns property
 
-获取[`RoleType`](../../roletype)中引用时使用的 from 集合。
+获取 from 在引用中使用的集合[`RoleType`](../../roletype).
 
 ```csharp
 public List<string> UsedOns { get; set; }

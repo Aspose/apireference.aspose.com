@@ -1,14 +1,14 @@
 ---
 title: PresentmentCounts
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаPresentmentCountsaspose.finance.ofx.billerdelivery/presentmentcounts.
+description: Инициализирует новый экземплярPresentmentCountsaspose.finance.ofx.billerdelivery/presentmentcounts класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.billerdelivery/presentmentcounts/presentmentcounts/
 ---
 ## PresentmentCounts constructor
 
-Инициализирует новый экземпляр класса[`PresentmentCounts`](../../presentmentcounts).
+Инициализирует новый экземпляр[`PresentmentCounts`](../../presentmentcounts) класс.
 
 ```csharp
 public PresentmentCounts()

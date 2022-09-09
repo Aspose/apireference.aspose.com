@@ -1,14 +1,14 @@
 ---
 title: AdditionalStateTaxWithheldAggregate
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаAdditionalStateTaxWithheldAggregateaspose.finance.ofx.tax1099/additionalstatetaxwithheldaggregate.
+description: Инициализирует новый экземплярAdditionalStateTaxWithheldAggregateaspose.finance.ofx.tax1099/additionalstatetaxwithheldaggregate класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.tax1099/additionalstatetaxwithheldaggregate/additionalstatetaxwithheldaggregate/
 ---
 ## AdditionalStateTaxWithheldAggregate constructor
 
-Инициализирует новый экземпляр класса[`AdditionalStateTaxWithheldAggregate`](../../additionalstatetaxwithheldaggregate).
+Инициализирует новый экземпляр[`AdditionalStateTaxWithheldAggregate`](../../additionalstatetaxwithheldaggregate) класс.
 
 ```csharp
 public AdditionalStateTaxWithheldAggregate()

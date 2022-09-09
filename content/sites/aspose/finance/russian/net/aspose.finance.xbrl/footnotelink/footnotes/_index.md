@@ -1,14 +1,14 @@
 ---
 title: Footnotes
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает коллекциюFootnoteaspose.finance.xbrl/footnote.
+description: Получает коллекциюFootnoteaspose.finance.xbrl/footnote .
 type: docs
 weight: 30
 url: /ru/net/aspose.finance.xbrl/footnotelink/footnotes/
 ---
 ## FootnoteLink.Footnotes property
 
-Получает коллекцию[`Footnote`](../../footnote).
+Получает коллекцию[`Footnote`](../../footnote) .
 
 ```csharp
 public List<Footnote> Footnotes { get; }

@@ -1,14 +1,14 @@
 ---
 title: StateInfo
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаStateInfoaspose.finance.ofx.taxw2/stateinfo.
+description: Инициализирует новый экземплярStateInfoaspose.finance.ofx.taxw2/stateinfo класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.taxw2/stateinfo/stateinfo/
 ---
 ## StateInfo constructor
 
-Инициализирует новый экземпляр класса[`StateInfo`](../../stateinfo).
+Инициализирует новый экземпляр[`StateInfo`](../../stateinfo) класс.
 
 ```csharp
 public StateInfo()

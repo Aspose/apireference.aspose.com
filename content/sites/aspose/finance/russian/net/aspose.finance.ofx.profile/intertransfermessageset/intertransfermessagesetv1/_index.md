@@ -1,14 +1,14 @@
 ---
 title: InterTransferMessageSetV1
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задаетInterTransferMessageSetV1aspose.finance.ofx.profile/intertransfermessageset/intertransfermessagesetv1.
+description: Получает или задаетInterTransferMessageSetV1aspose.finance.ofx.profile/intertransfermessageset/intertransfermessagesetv1 .
 type: docs
 weight: 20
 url: /ru/net/aspose.finance.ofx.profile/intertransfermessageset/intertransfermessagesetv1/
 ---
 ## InterTransferMessageSet.InterTransferMessageSetV1 property
 
-Получает или задает`InterTransferMessageSetV1`.
+Получает или задает`InterTransferMessageSetV1` .
 
 ```csharp
 public InterTransferMessageSetV1 InterTransferMessageSetV1 { get; set; }

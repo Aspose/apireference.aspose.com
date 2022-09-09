@@ -1,14 +1,14 @@
 ---
 title: Memo
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает дополнительную информацию
+description: Получает или устанавливает дополнительную информацию
 type: docs
 weight: 60
 url: /ru/net/aspose.finance.ofx/pendingtransaction/memo/
 ---
 ## PendingTransaction.Memo property
 
-Получает или задает дополнительную информацию
+Получает или устанавливает дополнительную информацию
 
 ```csharp
 public string Memo { get; set; }

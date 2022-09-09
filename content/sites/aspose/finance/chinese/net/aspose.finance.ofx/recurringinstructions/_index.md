@@ -18,7 +18,7 @@ public class RecurringInstructions
 
 | 姓名 | 描述 |
 | --- | --- |
-| [RecurringInstructions](recurringinstructions)() | 初始化[`RecurringInstructions`](../recurringinstructions)类的新实例。 |
+| [RecurringInstructions](recurringinstructions)() | 初始化一个新的实例[`RecurringInstructions`](../recurringinstructions)类. |
 
 ## 特性
 

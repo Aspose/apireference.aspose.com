@@ -1,14 +1,14 @@
 ---
 title: EnrollResponse
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化EnrollResponseaspose.finance.ofx.signup/enrollresponse类的新实例
+description: 初始化一个新的实例EnrollResponseaspose.finance.ofx.signup/enrollresponse类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.signup/enrollresponse/enrollresponse/
 ---
 ## EnrollResponse constructor
 
-初始化[`EnrollResponse`](../../enrollresponse)类的新实例。
+初始化一个新的实例[`EnrollResponse`](../../enrollresponse)类.
 
 ```csharp
 public EnrollResponse()

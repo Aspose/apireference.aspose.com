@@ -1,14 +1,14 @@
 ---
 title: MFAPhraseLabel
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает текстовый контрольный вопрос. Это должно быть как можно более подходящим для отображения пользователю.
+description: Получает или задает текстовый контрольный вопрос. Это должно быть максимально подходящим для отображения пользователю.
 type: docs
 weight: 30
 url: /ru/net/aspose.finance.ofx.signon/mfachallenge/mfaphraselabel/
 ---
 ## MFAChallenge.MFAPhraseLabel property
 
-Получает или задает текстовый контрольный вопрос. Это должно быть как можно более подходящим для отображения пользователю.
+Получает или задает текстовый контрольный вопрос. Это должно быть максимально подходящим для отображения пользователю.
 
 ```csharp
 public string MFAPhraseLabel { get; set; }

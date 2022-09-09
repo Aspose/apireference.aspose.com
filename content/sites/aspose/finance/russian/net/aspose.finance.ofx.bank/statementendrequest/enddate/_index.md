@@ -1,14 +1,14 @@
 ---
 title: EndDate
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает дату окончания сведений о закрытии выписки.
+description: Получает или задает дату окончания информации о закрытии выписки.
 type: docs
 weight: 30
 url: /ru/net/aspose.finance.ofx.bank/statementendrequest/enddate/
 ---
 ## StatementEndRequest.EndDate property
 
-Получает или задает дату окончания сведений о закрытии выписки.
+Получает или задает дату окончания информации о закрытии выписки.
 
 ```csharp
 public string EndDate { get; set; }

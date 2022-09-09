@@ -1,14 +1,14 @@
 ---
 title: ReinvestCapitalGain
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает реинвестировать ли прирост капитала.
+description: Получает или задает следует ли реинвестировать прирост капитала.
 type: docs
 weight: 20
 url: /ru/net/aspose.finance.ofx.investment/positionmutualfund/reinvestcapitalgain/
 ---
 ## PositionMutualFund.ReinvestCapitalGain property
 
-Получает или задает, реинвестировать ли прирост капитала.
+Получает или задает, следует ли реинвестировать прирост капитала.
 
 ```csharp
 public bool ReinvestCapitalGain { get; set; }

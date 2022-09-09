@@ -1,14 +1,14 @@
 ---
 title: PaymentResponse
 second_title: Aspose.Finance for .NET API 参考
-description: 支付响应类
+description: 支付响应类.
 type: docs
 weight: 1230
 url: /zh/net/aspose.finance.ofx.billpay/paymentresponse/
 ---
 ## PaymentResponse class
 
-支付响应类。
+支付响应类.
 
 ```csharp
 public class PaymentResponse : AbstractPaymentResponse
@@ -18,18 +18,18 @@ public class PaymentResponse : AbstractPaymentResponse
 
 | 姓名 | 描述 |
 | --- | --- |
-| [PaymentResponse](paymentresponse)() | 初始化[`PaymentResponse`](../paymentresponse)类的新实例。 |
+| [PaymentResponse](paymentresponse)() | 初始化一个新的实例[`PaymentResponse`](../paymentresponse)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
 | [CheckNumber](../../aspose.finance.ofx.billpay/paymentresponse/checknumber) { get; set; } | 获取或设置校验号 |
-| [Currency](../../aspose.finance.ofx.billpay/paymentresponse/currency) { get; set; } | 获取或设置付款响应的默认货币。 |
-| [ExtendedPayee](../../aspose.finance.ofx.billpay/paymentresponse/extendedpayee) { get; set; } | 获取或设置[`ExtendedPayee`](./extendedpayee)。 |
-| [PayeeListId](../../aspose.finance.ofx.billpay/paymentresponse/payeelistid) { get; set; } | 获取或设置此收款人的服务器分配收款人列表记录ID。 |
-| [PaymentInfo](../../aspose.finance.ofx.billpay/paymentresponse/paymentinfo) { get; set; } | 获取或设置[`PaymentInfo`](./paymentinfo)。 |
-| [PaymentProcessingStatus](../../aspose.finance.ofx.billpay/paymentresponse/paymentprocessingstatus) { get; set; } | 获取或设置[`PaymentProcessingStatus`](./paymentprocessingstatus)。 |
+| [Currency](../../aspose.finance.ofx.billpay/paymentresponse/currency) { get; set; } | 获取或设置支付响应的默认货币。 |
+| [ExtendedPayee](../../aspose.finance.ofx.billpay/paymentresponse/extendedpayee) { get; set; } | 获取或设置[`ExtendedPayee`](./extendedpayee). |
+| [PayeeListId](../../aspose.finance.ofx.billpay/paymentresponse/payeelistid) { get; set; } | 获取或设置此收款人的服务器分配的收款人列表记录ID。 |
+| [PaymentInfo](../../aspose.finance.ofx.billpay/paymentresponse/paymentinfo) { get; set; } | 获取或设置[`PaymentInfo`](./paymentinfo). |
+| [PaymentProcessingStatus](../../aspose.finance.ofx.billpay/paymentresponse/paymentprocessingstatus) { get; set; } | 获取或设置[`PaymentProcessingStatus`](./paymentprocessingstatus). |
 | [ReferenceServerId](../../aspose.finance.ofx.billpay/paymentresponse/referenceserverid) { get; set; } | 如果付款是由付款生成的，则获取或设置付款的引用。 |
 | [ServerId](../../aspose.finance.ofx.billpay/abstractpaymentresponse/serverid) { get; set; } | 获取或设置服务器分配给支付的ID。 |
 

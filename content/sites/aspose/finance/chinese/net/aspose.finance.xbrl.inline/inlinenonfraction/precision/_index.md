@@ -1,14 +1,14 @@
 ---
 title: Precision
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置InlineNonfractionaspose.finance.xbrl.inline/inlinenonfraction的精度
+description: 获取或设置InlineNonfractionaspose.finance.xbrl.inline/inlinenonfraction.
 type: docs
 weight: 70
 url: /zh/net/aspose.finance.xbrl.inline/inlinenonfraction/precision/
 ---
 ## InlineNonfraction.Precision property
 
-获取或设置[`InlineNonfraction`](../../inlinenonfraction)的精度。
+获取或设置[`InlineNonfraction`](../../inlinenonfraction).
 
 ```csharp
 public int Precision { get; set; }

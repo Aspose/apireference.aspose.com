@@ -1,14 +1,14 @@
 ---
 title: TaxW2_V100
 second_title: Справочник по API Aspose.Finance для .NET
-description: Класс формы W2 v100.
+description: Класс налоговой формы W2 v100.
 type: docs
 weight: 6220
 url: /ru/net/aspose.finance.ofx.taxw2/taxw2_v100/
 ---
 ## TaxW2_V100 class
 
-Класс формы W2 v100.
+Класс налоговой формы W2 v100.
 
 ```csharp
 public class TaxW2_V100 : AbstractTaxW2
@@ -18,7 +18,7 @@ public class TaxW2_V100 : AbstractTaxW2
 
 | Имя | Описание |
 | --- | --- |
-| [TaxW2_V100](taxw2_v100)() | Инициализирует новый экземпляр класса[`TaxW2_V100`](../taxw2_v100). |
+| [TaxW2_V100](taxw2_v100)() | Инициализирует новый экземпляр[`TaxW2_V100`](../taxw2_v100) класс. |
 
 ## Характеристики
 
@@ -26,25 +26,25 @@ public class TaxW2_V100 : AbstractTaxW2
 | --- | --- |
 | [AdvancedEIC](../../aspose.finance.ofx.taxw2/taxw2_v100/advancedeic) { get; set; } | Получает или задает авансовый платеж EIC. |
 | [AllocatedTips](../../aspose.finance.ofx.taxw2/taxw2_v100/allocatedtips) { get; set; } | Получает или устанавливает выделенные подсказки. |
-| [Codeses](../../aspose.finance.ofx.taxw2/taxw2_v100/codeses) { get; set; } | Получает или задает коллекцию[`Codes`](../codes). |
+| [Codeses](../../aspose.finance.ofx.taxw2/taxw2_v100/codeses) { get; set; } | Получает или задает коллекцию[`Codes`](../codes) . |
 | [ControlNumber](../../aspose.finance.ofx.taxw2/abstracttaxw2/controlnumber) { get; set; } | Получает или задает контрольный номер. |
 | [DependentCareBenefit](../../aspose.finance.ofx.taxw2/taxw2_v100/dependentcarebenefit) { get; set; } | Получает или устанавливает пособия по уходу за иждивенцами. |
-| [Employee](../../aspose.finance.ofx.taxw2/taxw2_v100/employee) { get; set; } | Получает или задает[`Employee`](./employee). |
-| [Employer](../../aspose.finance.ofx.taxw2/taxw2_v100/employer) { get; set; } | Получает или задает[`Employer`](./employer). |
+| [Employee](../../aspose.finance.ofx.taxw2/taxw2_v100/employee) { get; set; } | Получает или задает[`Employee`](./employee) . |
+| [Employer](../../aspose.finance.ofx.taxw2/taxw2_v100/employer) { get; set; } | Получает или задает[`Employer`](./employer) . |
 | [FederalTaxWithheld](../../aspose.finance.ofx.taxw2/taxw2_v100/federaltaxwithheld) { get; set; } | Получает или задает удержанный федеральный налог. |
-| [LocalInfos](../../aspose.finance.ofx.taxw2/taxw2_v100/localinfos) { get; set; } | Получает или задает коллекцию[`LocalInfo`](../localinfo). |
+| [LocalInfos](../../aspose.finance.ofx.taxw2/taxw2_v100/localinfos) { get; set; } | Получает или задает коллекцию[`LocalInfo`](../localinfo) . |
 | [MedicareTaxWithheld](../../aspose.finance.ofx.taxw2/taxw2_v100/medicaretaxwithheld) { get; set; } | Получает или задает удержанный налог на медицинское обслуживание. |
 | [MedicareWages](../../aspose.finance.ofx.taxw2/taxw2_v100/medicarewages) { get; set; } | Получает или устанавливает заработную плату и чаевые по программе Medicare. |
 | [NonqualifiedPlan](../../aspose.finance.ofx.taxw2/taxw2_v100/nonqualifiedplan) { get; set; } | Получает или задает неквалифицированный план. |
-| [Others](../../aspose.finance.ofx.taxw2/taxw2_v100/others) { get; set; } | Получает или задает коллекцию[`Other`](../other). |
-| [SocialSecurityTaxWithheld](../../aspose.finance.ofx.taxw2/taxw2_v100/socialsecuritytaxwithheld) { get; set; } | Получает или задает удержанный социальный налог. |
+| [Others](../../aspose.finance.ofx.taxw2/taxw2_v100/others) { get; set; } | Получает или задает коллекцию[`Other`](../other) . |
+| [SocialSecurityTaxWithheld](../../aspose.finance.ofx.taxw2/taxw2_v100/socialsecuritytaxwithheld) { get; set; } | Получает или задает удержанный налог на социальное обеспечение. |
 | [SocialSecurityTips](../../aspose.finance.ofx.taxw2/taxw2_v100/socialsecuritytips) { get; set; } | Получает или задает советы по социальному обеспечению. |
 | [SocialSecurityWages](../../aspose.finance.ofx.taxw2/taxw2_v100/socialsecuritywages) { get; set; } | Получает или устанавливает заработную плату социального обеспечения. |
-| [StateInfos](../../aspose.finance.ofx.taxw2/taxw2_v100/stateinfos) { get; set; } | Получает или задает коллекцию[`StateInfo`](../stateinfo). |
+| [StateInfos](../../aspose.finance.ofx.taxw2/taxw2_v100/stateinfos) { get; set; } | Получает или задает коллекцию[`StateInfo`](../stateinfo) . |
 | [Statutory](../../aspose.finance.ofx.taxw2/taxw2_v100/statutory) { get; set; } | Получает или задает штатного сотрудника. |
 | [TaxYear](../../aspose.finance.ofx.taxw2/abstracttaxw2/taxyear) { get; set; } | Получает или задает налоговый год этой формы в формате «ГГГГ». |
-| [Void](../../aspose.finance.ofx.taxw2/abstracttaxw2/void) { get; set; } | Получает или задает значение, указывающее, является ли данное W2 недействительным и будет ли предоставлено новое W2. |
-| [Wages](../../aspose.finance.ofx.taxw2/taxw2_v100/wages) { get; set; } | Получает или устанавливает заработную плату, чаевые, другие компенсации. |
+| [Void](../../aspose.finance.ofx.taxw2/abstracttaxw2/void) { get; set; } | Получает или задает, является ли этот W2 недействительным и будет предоставлен новый W2. |
+| [Wages](../../aspose.finance.ofx.taxw2/taxw2_v100/wages) { get; set; } | Получает или устанавливает заработную плату, чаевые, другую компенсацию. |
 
 ### Смотрите также
 

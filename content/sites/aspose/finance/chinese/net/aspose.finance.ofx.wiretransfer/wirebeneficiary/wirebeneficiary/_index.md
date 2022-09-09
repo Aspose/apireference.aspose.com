@@ -1,14 +1,14 @@
 ---
 title: WireBeneficiary
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化WireBeneficiaryaspose.finance.ofx.wiretransfer/wirebeneficiary类的新实例
+description: 初始化一个新的实例WireBeneficiaryaspose.finance.ofx.wiretransfer/wirebeneficiary类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.wiretransfer/wirebeneficiary/wirebeneficiary/
 ---
 ## WireBeneficiary constructor
 
-初始化[`WireBeneficiary`](../../wirebeneficiary)类的新实例。
+初始化一个新的实例[`WireBeneficiary`](../../wirebeneficiary)类.
 
 ```csharp
 public WireBeneficiary()

@@ -1,14 +1,14 @@
 ---
 title: SecHtmlReportSaveOption
 second_title: Aspose.Finance for .NET API 参考
-description: 表示保存sec html报告的选项
+description: 表示保存 sec html 报告的选项
 type: docs
 weight: 8030
 url: /zh/net/aspose.finance.xbrl/sechtmlreportsaveoption/
 ---
 ## SecHtmlReportSaveOption class
 
-表示保存sec html报告的选项。
+表示保存 sec html 报告的选项。
 
 ```csharp
 public class SecHtmlReportSaveOption : SaveOptions
@@ -24,10 +24,10 @@ public class SecHtmlReportSaveOption : SaveOptions
 
 | 姓名 | 描述 |
 | --- | --- |
-| [AttachedFilesDirectory](../../aspose.finance.xbrl/sechtmlreportsaveoption/attachedfilesdirectory) { get; set; } | 附件将保存到的目录。 仅用于保存到 html 流。 |
+| [AttachedFilesDirectory](../../aspose.finance.xbrl/sechtmlreportsaveoption/attachedfilesdirectory) { get; set; } | 附件要保存到的目录。 仅用于保存到html流。 |
 | [SaveFormat](../../aspose.finance.xbrl/saveoptions/saveformat) { get; set; } | 获取和设置保存文件格式。 |
 | [SaveLinkbasesToDesticationFolder](../../aspose.finance.xbrl/saveoptions/savelinkbasestodesticationfolder) { get; set; } | 获取或设置是否复制本地链接库文件到保存文件夹。 |
-| [SaveSchemasToDesticationFolder](../../aspose.finance.xbrl/saveoptions/saveschemastodesticationfolder) { get; set; } | 获取或设置是否复制本地架构文件到保存文件夹。 |
+| [SaveSchemasToDesticationFolder](../../aspose.finance.xbrl/saveoptions/saveschemastodesticationfolder) { get; set; } | 获取或设置是否复制本地模式文件到保存文件夹。 |
 
 ### 也可以看看
 

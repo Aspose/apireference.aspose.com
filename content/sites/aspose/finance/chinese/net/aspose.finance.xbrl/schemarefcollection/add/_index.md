@@ -1,14 +1,14 @@
 ---
 title: Add
 second_title: Aspose.Finance for .NET API 参考
-description: 将SchemaRefaspose.finance.xbrl/schemaref添加到集合中
+description: 添加一个SchemaRefaspose.finance.xbrl/schemaref收藏.
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.xbrl/schemarefcollection/add/
 ---
 ## Add(string, string, string) {#add_1}
 
-将[`SchemaRef`](../../schemaref)添加到集合中。
+添加一个[`SchemaRef`](../../schemaref)收藏.
 
 ```csharp
 public int Add(string href, string namespacePrefix, string namspaceUri)
@@ -34,7 +34,7 @@ public int Add(string href, string namespacePrefix, string namspaceUri)
 
 ## Add(string, string) {#add}
 
-将[`SchemaRef`](../../schemaref)添加到集合中。
+添加一个[`SchemaRef`](../../schemaref)收藏.
 
 ```csharp
 public int Add(string href, string namespacePrefix)

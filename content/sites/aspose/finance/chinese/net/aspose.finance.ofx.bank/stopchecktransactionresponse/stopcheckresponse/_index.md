@@ -1,14 +1,14 @@
 ---
 title: StopCheckResponse
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置StopCheckResponseaspose.finance.ofx.bank/stopchecktransactionresponse/stopcheckresponse
+description: 获取或设置StopCheckResponseaspose.finance.ofx.bank/stopchecktransactionresponse/stopcheckresponse.
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.ofx.bank/stopchecktransactionresponse/stopcheckresponse/
 ---
 ## StopCheckTransactionResponse.StopCheckResponse property
 
-获取或设置`StopCheckResponse`。
+获取或设置`StopCheckResponse`.
 
 ```csharp
 public StopCheckResponse StopCheckResponse { get; set; }

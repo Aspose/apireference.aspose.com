@@ -1,14 +1,14 @@
 ---
 title: PresentmentDeliveryResponseMessageSetV1
 second_title: Справочник по API Aspose.Finance для .NET
-description: Ответные сообщения Biller о доставке устанавливают класс версии 1.
+description: Ответные сообщения о доставке биллера устанавливают класс версии 1.
 type: docs
 weight: 4300
 url: /ru/net/aspose.finance.ofx/presentmentdeliveryresponsemessagesetv1/
 ---
 ## PresentmentDeliveryResponseMessageSetV1 class
 
-Ответные сообщения Biller о доставке устанавливают класс версии 1.
+Ответные сообщения о доставке биллера устанавливают класс версии 1.
 
 ```csharp
 public class PresentmentDeliveryResponseMessageSetV1 : AbstractResponseMessageSet
@@ -18,20 +18,20 @@ public class PresentmentDeliveryResponseMessageSetV1 : AbstractResponseMessageSe
 
 | Имя | Описание |
 | --- | --- |
-| [PresentmentDeliveryResponseMessageSetV1](presentmentdeliveryresponsemessagesetv1)() | Инициализирует новый экземпляр класса[`PresentmentDeliveryResponseMessageSetV1`](../presentmentdeliveryresponsemessagesetv1). |
+| [PresentmentDeliveryResponseMessageSetV1](presentmentdeliveryresponsemessagesetv1)() | Инициализирует новый экземпляр[`PresentmentDeliveryResponseMessageSetV1`](../presentmentdeliveryresponsemessagesetv1) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [BillStatusModTransactionResponses](../../aspose.finance.ofx/presentmentdeliveryresponsemessagesetv1/billstatusmodtransactionresponses) { get; set; } | Получает или задает коллекцию[`BillStatusModTransactionResponse`](../../aspose.finance.ofx.billerdelivery/billstatusmodtransactionresponse). |
-| [BillTableStructureTransactionResponses](../../aspose.finance.ofx/presentmentdeliveryresponsemessagesetv1/billtablestructuretransactionresponses) { get; set; } | Получает или задает коллекцию[`BillTableStructureTransactionResponse`](../../aspose.finance.ofx.billerdelivery/billtablestructuretransactionresponse). |
-| [PresentmentDetailTransactionResponses](../../aspose.finance.ofx/presentmentdeliveryresponsemessagesetv1/presentmentdetailtransactionresponses) { get; set; } | Получает или задает коллекцию[`PresentmentDetailTransactionResponse`](../../aspose.finance.ofx.billerdelivery/presentmentdetailtransactionresponse). |
-| [PresentmentGroupAccountInfoTransactionResponses](../../aspose.finance.ofx/presentmentdeliveryresponsemessagesetv1/presentmentgroupaccountinfotransactionresponses) { get; set; } | Получает или задает коллекцию[`PresentmentGroupAccountInfoTransactionResponse`](../../aspose.finance.ofx.billerdelivery/presentmentgroupaccountinfotransactionresponse). |
-| [PresentmentListTransactionResponses](../../aspose.finance.ofx/presentmentdeliveryresponsemessagesetv1/presentmentlisttransactionresponses) { get; set; } | Получает или задает коллекцию[`PresentmentListTransactionResponse`](../../aspose.finance.ofx.billerdelivery/presentmentlisttransactionresponse). |
-| [PresentmentMailSyncResponses](../../aspose.finance.ofx/presentmentdeliveryresponsemessagesetv1/presentmentmailsyncresponses) { get; set; } | Получает или задает коллекцию[`PresentmentMailSyncResponse`](../../aspose.finance.ofx.billerdelivery/presentmentmailsyncresponse). |
-| [PresentmentMailTransactionResponses](../../aspose.finance.ofx/presentmentdeliveryresponsemessagesetv1/presentmentmailtransactionresponses) { get; set; } | Получает или задает коллекцию[`PresentmentMailTransactionResponse`](../../aspose.finance.ofx.billerdelivery/presentmentmailtransactionresponse). |
-| [PresentmentNotifyTransactionResponses](../../aspose.finance.ofx/presentmentdeliveryresponsemessagesetv1/presentmentnotifytransactionresponses) { get; set; } | Получает или задает коллекцию[`PresentmentNotifyTransactionResponse`](../../aspose.finance.ofx.billerdelivery/presentmentnotifytransactionresponse). |
+| [BillStatusModTransactionResponses](../../aspose.finance.ofx/presentmentdeliveryresponsemessagesetv1/billstatusmodtransactionresponses) { get; set; } | Получает или задает коллекцию[`BillStatusModTransactionResponse`](../../aspose.finance.ofx.billerdelivery/billstatusmodtransactionresponse) . |
+| [BillTableStructureTransactionResponses](../../aspose.finance.ofx/presentmentdeliveryresponsemessagesetv1/billtablestructuretransactionresponses) { get; set; } | Получает или задает коллекцию[`BillTableStructureTransactionResponse`](../../aspose.finance.ofx.billerdelivery/billtablestructuretransactionresponse) . |
+| [PresentmentDetailTransactionResponses](../../aspose.finance.ofx/presentmentdeliveryresponsemessagesetv1/presentmentdetailtransactionresponses) { get; set; } | Получает или задает коллекцию[`PresentmentDetailTransactionResponse`](../../aspose.finance.ofx.billerdelivery/presentmentdetailtransactionresponse) . |
+| [PresentmentGroupAccountInfoTransactionResponses](../../aspose.finance.ofx/presentmentdeliveryresponsemessagesetv1/presentmentgroupaccountinfotransactionresponses) { get; set; } | Получает или задает коллекцию[`PresentmentGroupAccountInfoTransactionResponse`](../../aspose.finance.ofx.billerdelivery/presentmentgroupaccountinfotransactionresponse) . |
+| [PresentmentListTransactionResponses](../../aspose.finance.ofx/presentmentdeliveryresponsemessagesetv1/presentmentlisttransactionresponses) { get; set; } | Получает или задает коллекцию[`PresentmentListTransactionResponse`](../../aspose.finance.ofx.billerdelivery/presentmentlisttransactionresponse) . |
+| [PresentmentMailSyncResponses](../../aspose.finance.ofx/presentmentdeliveryresponsemessagesetv1/presentmentmailsyncresponses) { get; set; } | Получает или задает коллекцию[`PresentmentMailSyncResponse`](../../aspose.finance.ofx.billerdelivery/presentmentmailsyncresponse) . |
+| [PresentmentMailTransactionResponses](../../aspose.finance.ofx/presentmentdeliveryresponsemessagesetv1/presentmentmailtransactionresponses) { get; set; } | Получает или задает коллекцию[`PresentmentMailTransactionResponse`](../../aspose.finance.ofx.billerdelivery/presentmentmailtransactionresponse) . |
+| [PresentmentNotifyTransactionResponses](../../aspose.finance.ofx/presentmentdeliveryresponsemessagesetv1/presentmentnotifytransactionresponses) { get; set; } | Получает или задает коллекцию[`PresentmentNotifyTransactionResponse`](../../aspose.finance.ofx.billerdelivery/presentmentnotifytransactionresponse) . |
 
 ### Смотрите также
 

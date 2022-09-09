@@ -1,14 +1,14 @@
 ---
 title: Title
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置InlineFootnoteaspose.finance.xbrl.inline/inlinefootnote的标题
+description: 获取或设置标题InlineFootnoteaspose.finance.xbrl.inline/inlinefootnote.
 type: docs
 weight: 70
 url: /zh/net/aspose.finance.xbrl.inline/inlinefootnote/title/
 ---
 ## InlineFootnote.Title property
 
-获取或设置[`InlineFootnote`](../../inlinefootnote)的标题。
+获取或设置标题[`InlineFootnote`](../../inlinefootnote).
 
 ```csharp
 public string Title { get; set; }

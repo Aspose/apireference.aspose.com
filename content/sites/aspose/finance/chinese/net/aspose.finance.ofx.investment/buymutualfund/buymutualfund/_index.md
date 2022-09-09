@@ -1,14 +1,14 @@
 ---
 title: BuyMutualFund
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化BuyMutualFundaspose.finance.ofx.investment/buymutualfund类的新实例
+description: 初始化一个新的实例BuyMutualFundaspose.finance.ofx.investment/buymutualfund类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.investment/buymutualfund/buymutualfund/
 ---
 ## BuyMutualFund constructor
 
-初始化[`BuyMutualFund`](../../buymutualfund)类的新实例。
+初始化一个新的实例[`BuyMutualFund`](../../buymutualfund)类.
 
 ```csharp
 public BuyMutualFund()

@@ -1,14 +1,14 @@
 ---
 title: InvestmentAccount
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаInvestmentAccountaspose.finance.ofx/investmentaccount.
+description: Инициализирует новый экземплярInvestmentAccountaspose.finance.ofx/investmentaccount класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx/investmentaccount/investmentaccount/
 ---
 ## InvestmentAccount constructor
 
-Инициализирует новый экземпляр класса[`InvestmentAccount`](../../investmentaccount).
+Инициализирует новый экземпляр[`InvestmentAccount`](../../investmentaccount) класс.
 
 ```csharp
 public InvestmentAccount()

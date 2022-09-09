@@ -1,14 +1,14 @@
 ---
 title: MFAPhraseId
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置挑战问题的标识符对于这个挑战问题它应该是唯一的但对于用户会话来说不是唯一的
+description: 获取或设置挑战问题的标识符对于这个挑战问题它应该是唯一的但对于用户 session. 来说不是唯一的
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.ofx.signon/mfachallenge/mfaphraseid/
 ---
 ## MFAChallenge.MFAPhraseId property
 
-获取或设置挑战问题的标识符。对于这个挑战问题，它应该是唯一的，但对于用户会话来说不是唯一的。
+获取或设置挑战问题的标识符。对于这个挑战问题，它应该是唯一的，但对于用户 session. 来说不是唯一的
 
 ```csharp
 public string MFAPhraseId { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: LinkbaseRefs
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает коллекциюLinkbaseRefaspose.finance.xbrl/linkbaserefвInlineReferencesaspose.finance.xbrl.inline/inlinereferences.
+description: Получает коллекциюLinkbaseRefaspose.finance.xbrl/linkbaseref вInlineReferencesaspose.finance.xbrl.inline/inlinereferences .
 type: docs
 weight: 30
 url: /ru/net/aspose.finance.xbrl.inline/inlinereferences/linkbaserefs/
 ---
 ## InlineReferences.LinkbaseRefs property
 
-Получает коллекцию[`LinkbaseRef`](../../../aspose.finance.xbrl/linkbaseref)в[`InlineReferences`](../../inlinereferences).
+Получает коллекцию[`LinkbaseRef`](../../../aspose.finance.xbrl/linkbaseref) в[`InlineReferences`](../../inlinereferences) .
 
 ```csharp
 public List<LinkbaseRef> LinkbaseRefs { get; }

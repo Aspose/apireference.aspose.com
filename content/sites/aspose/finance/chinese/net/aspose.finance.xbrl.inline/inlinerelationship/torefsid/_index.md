@@ -1,14 +1,14 @@
 ---
 title: ToRefsId
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置InlineRelationshipaspose.finance.xbrl.inline/inlinerelationship的引用 ID
+description: 获取或设置InlineRelationshipaspose.finance.xbrl.inline/inlinerelationship.
 type: docs
 weight: 50
 url: /zh/net/aspose.finance.xbrl.inline/inlinerelationship/torefsid/
 ---
 ## InlineRelationship.ToRefsId property
 
-获取或设置[`InlineRelationship`](../../inlinerelationship)的引用 ID。
+获取或设置[`InlineRelationship`](../../inlinerelationship).
 
 ```csharp
 public string ToRefsId { get; set; }

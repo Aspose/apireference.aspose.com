@@ -1,14 +1,14 @@
 ---
 title: Address2
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置地址行 2
+description: 获取或设置地址线2.
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.ofx.signup/changeuserinforesponse/address2/
 ---
 ## ChangeUserInfoResponse.Address2 property
 
-获取或设置地址行 2。
+获取或设置地址线2.
 
 ```csharp
 public string Address2 { get; set; }

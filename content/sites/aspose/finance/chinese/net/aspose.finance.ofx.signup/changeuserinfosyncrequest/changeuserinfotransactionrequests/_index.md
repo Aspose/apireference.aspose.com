@@ -1,14 +1,14 @@
 ---
 title: ChangeUserInfoTransactionRequests
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置ChangeUserInfoTransactionRequestaspose.finance.ofx.signup/changeuserinfotransactionrequest的集合
+description: 获取或设置的集合ChangeUserInfoTransactionRequestaspose.finance.ofx.signup/changeuserinfotransactionrequest.
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.ofx.signup/changeuserinfosyncrequest/changeuserinfotransactionrequests/
 ---
 ## ChangeUserInfoSyncRequest.ChangeUserInfoTransactionRequests property
 
-获取或设置[`ChangeUserInfoTransactionRequest`](../../changeuserinfotransactionrequest)的集合。
+获取或设置的集合[`ChangeUserInfoTransactionRequest`](../../changeuserinfotransactionrequest).
 
 ```csharp
 public List<ChangeUserInfoTransactionRequest> ChangeUserInfoTransactionRequests { get; set; }

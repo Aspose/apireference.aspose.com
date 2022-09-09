@@ -1,14 +1,14 @@
 ---
 title: EnrollTransactionRequest
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化EnrollTransactionRequestaspose.finance.ofx.signup/enrolltransactionrequest类的新实例
+description: 初始化一个新的实例EnrollTransactionRequestaspose.finance.ofx.signup/enrolltransactionrequest类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.signup/enrolltransactionrequest/enrolltransactionrequest/
 ---
 ## EnrollTransactionRequest constructor
 
-初始化[`EnrollTransactionRequest`](../../enrolltransactionrequest)类的新实例。
+初始化一个新的实例[`EnrollTransactionRequest`](../../enrolltransactionrequest)类.
 
 ```csharp
 public EnrollTransactionRequest()

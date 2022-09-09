@@ -1,14 +1,14 @@
 ---
 title: JournalSecurity
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаJournalSecurityaspose.finance.ofx.investment/journalsecurity.
+description: Инициализирует новый экземплярJournalSecurityaspose.finance.ofx.investment/journalsecurity класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.investment/journalsecurity/journalsecurity/
 ---
 ## JournalSecurity constructor
 
-Инициализирует новый экземпляр класса[`JournalSecurity`](../../journalsecurity).
+Инициализирует новый экземпляр[`JournalSecurity`](../../journalsecurity) класс.
 
 ```csharp
 public JournalSecurity()

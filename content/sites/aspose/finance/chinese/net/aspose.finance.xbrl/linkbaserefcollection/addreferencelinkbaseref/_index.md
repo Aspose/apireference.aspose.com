@@ -1,14 +1,14 @@
 ---
 title: AddReferenceLinkbaseRef
 second_title: Aspose.Finance for .NET API 参考
-description: 将ReferenceLinkbaseRefaspose.finance.xbrl/referencelinkbaseref添加到集合中
+description: 添加一个ReferenceLinkbaseRefaspose.finance.xbrl/referencelinkbaseref收藏.
 type: docs
 weight: 70
 url: /zh/net/aspose.finance.xbrl/linkbaserefcollection/addreferencelinkbaseref/
 ---
 ## LinkbaseRefCollection.AddReferenceLinkbaseRef method
 
-将[`ReferenceLinkbaseRef`](../../referencelinkbaseref)添加到集合中。
+添加一个[`ReferenceLinkbaseRef`](../../referencelinkbaseref)收藏.
 
 ```csharp
 public void AddReferenceLinkbaseRef(string href)

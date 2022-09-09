@@ -18,13 +18,13 @@ public class BillPaymentAccountInfo : AbstractAccountInfo
 
 | 姓名 | 描述 |
 | --- | --- |
-| [BillPaymentAccountInfo](billpaymentaccountinfo)() | 初始化[`BillPaymentAccountInfo`](../billpaymentaccountinfo)类的新实例。 |
+| [BillPaymentAccountInfo](billpaymentaccountinfo)() | 初始化一个新的实例[`BillPaymentAccountInfo`](../billpaymentaccountinfo)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [BankAccountFrom](../../aspose.finance.ofx/billpaymentaccountinfo/bankaccountfrom) { get; set; } | 获取或设置[`BankAccount`](../bankaccount)的来源。 |
+| [BankAccountFrom](../../aspose.finance.ofx/billpaymentaccountinfo/bankaccountfrom) { get; set; } | 获取或设置 from[`BankAccount`](../bankaccount). |
 | [ServiceStatus](../../aspose.finance.ofx/billpaymentaccountinfo/servicestatus) { get; set; } | 获取或设置账户状态。 |
 
 ### 也可以看看

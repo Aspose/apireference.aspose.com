@@ -1,14 +1,14 @@
 ---
 title: AdjustmentNumber
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置与付款关联的调整号
+description: 获取或设置与支付关联的调整号
 type: docs
 weight: 50
 url: /zh/net/aspose.finance.ofx/adjustment/adjustmentnumber/
 ---
 ## Adjustment.AdjustmentNumber property
 
-获取或设置与付款关联的调整号
+获取或设置与支付关联的调整号
 
 ```csharp
 public string AdjustmentNumber { get; set; }

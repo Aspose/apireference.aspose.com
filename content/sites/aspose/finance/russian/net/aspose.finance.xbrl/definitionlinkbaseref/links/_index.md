@@ -1,14 +1,14 @@
 ---
 title: Links
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает коллекциюDefinitionLinkaspose.finance.xbrl/definitionlink.
+description: Получает коллекциюDefinitionLinkaspose.finance.xbrl/definitionlink .
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.xbrl/definitionlinkbaseref/links/
 ---
 ## DefinitionLinkbaseRef.Links property
 
-Получает коллекцию[`DefinitionLink`](../../definitionlink).
+Получает коллекцию[`DefinitionLink`](../../definitionlink) .
 
 ```csharp
 public List<DefinitionLink> Links { get; }

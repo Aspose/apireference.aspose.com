@@ -1,14 +1,14 @@
 ---
 title: WireResponse
 second_title: Aspose.Finance for .NET API 参考
-description: 电汇响应类
+description: 电汇响应类.
 type: docs
 weight: 6390
 url: /zh/net/aspose.finance.ofx.wiretransfer/wireresponse/
 ---
 ## WireResponse class
 
-电汇响应类。
+电汇响应类.
 
 ```csharp
 public class WireResponse : AbstractWireResponse
@@ -18,24 +18,24 @@ public class WireResponse : AbstractWireResponse
 
 | 姓名 | 描述 |
 | --- | --- |
-| [WireResponse](wireresponse)() | 初始化[`WireResponse`](../wireresponse)类的新实例。 |
+| [WireResponse](wireresponse)() | 初始化一个新的实例[`WireResponse`](../wireresponse)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [BankAccountFrom](../../aspose.finance.ofx.wiretransfer/wireresponse/bankaccountfrom) { get; set; } | 获取或设置[`BankAccount`](../../aspose.finance.ofx/bankaccount)的来源。 |
+| [BankAccountFrom](../../aspose.finance.ofx.wiretransfer/wireresponse/bankaccountfrom) { get; set; } | 获取或设置 from[`BankAccount`](../../aspose.finance.ofx/bankaccount). |
 | [ConfirmationMessage](../../aspose.finance.ofx.wiretransfer/wireresponse/confirmationmessage) { get; set; } | 获取或设置确认消息。 |
-| [Currency](../../aspose.finance.ofx.wiretransfer/wireresponse/currency) { get; set; } | 获取或设置转账时使用的币种。 |
+| [Currency](../../aspose.finance.ofx.wiretransfer/wireresponse/currency) { get; set; } | 获取或设置转账时使用的货币。 |
 | [DueDate](../../aspose.finance.ofx.wiretransfer/wireresponse/duedate) { get; set; } | 获取或设置发生的日期。 |
 | [Fee](../../aspose.finance.ofx.wiretransfer/wireresponse/fee) { get; set; } | 获取或设置为转移评估的费用。 |
-| [PaymentInstruction](../../aspose.finance.ofx.wiretransfer/wireresponse/paymentinstruction) { get; set; } | 获取或设置支付指令。 |
-| [PostedDate](../../aspose.finance.ofx.wiretransfer/wireresponse/posteddate) { get; set; } | 获取或设置传输的实际日期。 |
+| [PaymentInstruction](../../aspose.finance.ofx.wiretransfer/wireresponse/paymentinstruction) { get; set; } | 获取或设置支付指令 |
+| [PostedDate](../../aspose.finance.ofx.wiretransfer/wireresponse/posteddate) { get; set; } | 获取或设置转账的实际日期。 |
 | [ServerId](../../aspose.finance.ofx.wiretransfer/wireresponse/serverid) { get; set; } | 获取或设置此传输的服务器 ID。 |
-| [TransferAmount](../../aspose.finance.ofx.wiretransfer/wireresponse/transferamount) { get; set; } | 获取或设置转账金额。 |
+| [TransferAmount](../../aspose.finance.ofx.wiretransfer/wireresponse/transferamount) { get; set; } | 获取或设置转账金额 |
 | [TransferProjectDate](../../aspose.finance.ofx.wiretransfer/wireresponse/transferprojectdate) { get; set; } | 获取或设置传输的预计日期。 |
-| [WireBeneficiary](../../aspose.finance.ofx.wiretransfer/wireresponse/wirebeneficiary) { get; set; } | 获取或设置[`WireBeneficiary`](./wirebeneficiary)。 |
-| [WireDestinationBank](../../aspose.finance.ofx.wiretransfer/wireresponse/wiredestinationbank) { get; set; } | 获取或设置[`WireDestinationBank`](./wiredestinationbank)。 |
+| [WireBeneficiary](../../aspose.finance.ofx.wiretransfer/wireresponse/wirebeneficiary) { get; set; } | 获取或设置[`WireBeneficiary`](./wirebeneficiary). |
+| [WireDestinationBank](../../aspose.finance.ofx.wiretransfer/wireresponse/wiredestinationbank) { get; set; } | 获取或设置[`WireDestinationBank`](./wiredestinationbank). |
 
 ### 也可以看看
 

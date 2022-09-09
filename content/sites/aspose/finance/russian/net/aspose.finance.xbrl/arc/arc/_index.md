@@ -1,14 +1,14 @@
 ---
 title: Arc
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаArcaspose.finance.xbrl/arc.
+description: Инициализирует новый экземплярArcaspose.finance.xbrl/arc класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.xbrl/arc/arc/
 ---
 ## Arc constructor
 
-Инициализирует новый экземпляр класса[`Arc`](../../arc).
+Инициализирует новый экземпляр[`Arc`](../../arc) класс.
 
 ```csharp
 public Arc()

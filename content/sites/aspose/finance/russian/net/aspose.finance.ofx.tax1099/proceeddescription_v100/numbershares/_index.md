@@ -1,14 +1,14 @@
 ---
 title: NumberShares
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает количество общих ресурсов.
+description: Получает или задает количество долей.
 type: docs
 weight: 110
 url: /ru/net/aspose.finance.ofx.tax1099/proceeddescription_v100/numbershares/
 ---
 ## ProceedDescription_V100.NumberShares property
 
-Получает или задает количество общих ресурсов.
+Получает или задает количество долей.
 
 ```csharp
 public string NumberShares { get; set; }

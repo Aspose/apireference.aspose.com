@@ -1,14 +1,14 @@
 ---
 title: RoleTypes
 second_title: Aspose.Finance for .NET API 参考
-description: 获取架构中RoleTypeaspose.finance.xbrl/roletype对象的集合
+description: 获取集合RoleTypeaspose.finance.xbrl/roletype架构中的对象
 type: docs
 weight: 70
 url: /zh/net/aspose.finance.xbrl/schemaref/roletypes/
 ---
 ## SchemaRef.RoleTypes property
 
-获取架构中[`RoleType`](../../roletype)对象的集合。
+获取集合[`RoleType`](../../roletype)架构中的对象。
 
 ```csharp
 public List<RoleType> RoleTypes { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: ImageRequest
 second_title: Aspose.Finance for .NET API 参考
-description: 图像请求类
+description: 图片请求类.
 type: docs
 weight: 2280
 url: /zh/net/aspose.finance.ofx.image/imagerequest/
 ---
 ## ImageRequest class
 
-图像请求类。
+图片请求类.
 
 ```csharp
 public class ImageRequest
@@ -18,7 +18,7 @@ public class ImageRequest
 
 | 姓名 | 描述 |
 | --- | --- |
-| [ImageRequest](imagerequest)() | 初始化[`ImageRequest`](../imagerequest)类的新实例。 |
+| [ImageRequest](imagerequest)() | 初始化一个新的实例[`ImageRequest`](../imagerequest)类. |
 
 ## 特性
 

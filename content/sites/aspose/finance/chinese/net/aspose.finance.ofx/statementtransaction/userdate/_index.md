@@ -1,14 +1,14 @@
 ---
 title: UserDate
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置用户发起事务的日期如果已知
+description: 获取或设置用户发起交易的日期如果已知的话
 type: docs
 weight: 230
 url: /zh/net/aspose.finance.ofx/statementtransaction/userdate/
 ---
 ## StatementTransaction.UserDate property
 
-获取或设置用户发起事务的日期（如果已知）。
+获取或设置用户发起交易的日期，如果已知的话。
 
 ```csharp
 public string UserDate { get; set; }

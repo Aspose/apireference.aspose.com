@@ -1,14 +1,14 @@
 ---
 title: OptionAction
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置选项操作类型
+description: 获取或设置选项动作类型
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.ofx.investment/closureoption/optionaction/
 ---
 ## ClosureOption.OptionAction property
 
-获取或设置选项操作类型。
+获取或设置选项动作类型。
 
 ```csharp
 public OptionActionEnum OptionAction { get; set; }

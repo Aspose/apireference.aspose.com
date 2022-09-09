@@ -1,14 +1,14 @@
 ---
 title: Entity
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает объект контекста.
+description: Получает или задает сущность контекста.
 type: docs
 weight: 20
 url: /ru/net/aspose.finance.xbrl/context/entity/
 ---
 ## Context.Entity property
 
-Получает или задает объект контекста.
+Получает или задает сущность контекста.
 
 ```csharp
 public ContextEntity Entity { get; set; }

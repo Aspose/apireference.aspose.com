@@ -1,14 +1,14 @@
 ---
 title: MailTransactionRequest
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化MailTransactionRequestaspose.finance.ofx.email/mailtransactionrequest类的新实例
+description: 初始化一个新的实例MailTransactionRequestaspose.finance.ofx.email/mailtransactionrequest类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.email/mailtransactionrequest/mailtransactionrequest/
 ---
 ## MailTransactionRequest constructor
 
-初始化[`MailTransactionRequest`](../../mailtransactionrequest)类的新实例。
+初始化一个新的实例[`MailTransactionRequest`](../../mailtransactionrequest)类.
 
 ```csharp
 public MailTransactionRequest()

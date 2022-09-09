@@ -18,7 +18,7 @@ public enum CheckSupportEnum
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| FRONTONLY | `0` | 图像包含支票的正面。 |
+| FRONTONLY | `0` | 图片包含支票的正面。 |
 | BACKONLY | `1` | 图片包含支票的背面。 |
 | FRONTANDBACK | `2` | 图像包含支票的正面和背面。 |
 

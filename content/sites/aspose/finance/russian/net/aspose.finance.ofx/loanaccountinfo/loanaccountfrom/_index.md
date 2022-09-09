@@ -1,14 +1,14 @@
 ---
 title: LoanAccountFrom
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает значение изLoanAccountaspose.finance.ofx/loanaccount.
+description: Получает или задает изLoanAccountaspose.finance.ofx/loanaccount .
 type: docs
 weight: 40
 url: /ru/net/aspose.finance.ofx/loanaccountinfo/loanaccountfrom/
 ---
 ## LoanAccountInfo.LoanAccountFrom property
 
-Получает или задает значение из[`LoanAccount`](../../loanaccount).
+Получает или задает из[`LoanAccount`](../../loanaccount) .
 
 ```csharp
 public LoanAccount LoanAccountFrom { get; set; }

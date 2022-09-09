@@ -1,14 +1,14 @@
 ---
 title: WireBeneficiary
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задаетWireBeneficiaryaspose.finance.ofx.wiretransfer/wireresponse/wirebeneficiary.
+description: Получает или задаетWireBeneficiaryaspose.finance.ofx.wiretransfer/wireresponse/wirebeneficiary .
 type: docs
 weight: 120
 url: /ru/net/aspose.finance.ofx.wiretransfer/wireresponse/wirebeneficiary/
 ---
 ## WireResponse.WireBeneficiary property
 
-Получает или задает`WireBeneficiary`.
+Получает или задает`WireBeneficiary` .
 
 ```csharp
 public WireBeneficiary WireBeneficiary { get; set; }

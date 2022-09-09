@@ -18,16 +18,16 @@ public class WireTransferMessageSetV1 : AbstractMessageSetVersion
 
 | Имя | Описание |
 | --- | --- |
-| [WireTransferMessageSetV1](wiretransfermessagesetv1)() | Инициализирует новый экземпляр класса[`WireTransferMessageSetV1`](../wiretransfermessagesetv1). |
+| [WireTransferMessageSetV1](wiretransfermessagesetv1)() | Инициализирует новый экземпляр[`WireTransferMessageSetV1`](../wiretransfermessagesetv1) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [CanScheduled](../../aspose.finance.ofx.profile/wiretransfermessagesetv1/canscheduled) { get; set; } | Получает или задает, поддерживает ли передача по расписанию. |
+| [CanScheduled](../../aspose.finance.ofx.profile/wiretransfermessagesetv1/canscheduled) { get; set; } | Получает или задает, поддерживает ли запланированная передача. |
 | [DomesticTransferFee](../../aspose.finance.ofx.profile/wiretransfermessagesetv1/domestictransferfee) { get; set; } | Получает или задает стандартную комиссию за внутренний банковский перевод. |
 | [InternationalTransferFee](../../aspose.finance.ofx.profile/wiretransfermessagesetv1/internationaltransferfee) { get; set; } | Получает или задает стандартную комиссию за международный банковский перевод. |
-| [MessageSetCore](../../aspose.finance.ofx.profile/abstractmessagesetversion/messagesetcore) { get; set; } | Получает или задает[`MessageSetCore`](../abstractmessagesetversion/messagesetcore). |
+| [MessageSetCore](../../aspose.finance.ofx.profile/abstractmessagesetversion/messagesetcore) { get; set; } | Получает или задает[`MessageSetCore`](../abstractmessagesetversion/messagesetcore) . |
 | [ProcessingDaysOffs](../../aspose.finance.ofx.profile/wiretransfermessagesetv1/processingdaysoffs) { get; set; } | Получает или задает дни недели, в которые не выполняется обработка. |
 | [ProcessingEndTime](../../aspose.finance.ofx.profile/wiretransfermessagesetv1/processingendtime) { get; set; } | Получает или задает время окончания обработки дня. |
 

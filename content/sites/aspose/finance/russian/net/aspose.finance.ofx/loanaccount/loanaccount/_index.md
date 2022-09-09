@@ -1,14 +1,14 @@
 ---
 title: LoanAccount
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаLoanAccountaspose.finance.ofx/loanaccount.
+description: Инициализирует новый экземплярLoanAccountaspose.finance.ofx/loanaccount класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx/loanaccount/loanaccount/
 ---
 ## LoanAccount constructor
 
-Инициализирует новый экземпляр класса[`LoanAccount`](../../loanaccount).
+Инициализирует новый экземпляр[`LoanAccount`](../../loanaccount) класс.
 
 ```csharp
 public LoanAccount()

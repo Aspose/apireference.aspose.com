@@ -1,14 +1,14 @@
 ---
 title: ImageMessageSetV1
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаImageMessageSetV1aspose.finance.ofx.profile/imagemessagesetv1.
+description: Инициализирует новый экземплярImageMessageSetV1aspose.finance.ofx.profile/imagemessagesetv1 класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.profile/imagemessagesetv1/imagemessagesetv1/
 ---
 ## ImageMessageSetV1 constructor
 
-Инициализирует новый экземпляр класса[`ImageMessageSetV1`](../../imagemessagesetv1).
+Инициализирует новый экземпляр[`ImageMessageSetV1`](../../imagemessagesetv1) класс.
 
 ```csharp
 public ImageMessageSetV1()

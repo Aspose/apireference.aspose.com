@@ -1,14 +1,14 @@
 ---
 title: CreditcardMessageSetV1
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置CreditcardMessageSetV1aspose.finance.ofx.profile/creditcardmessageset/creditcardmessagesetv1
+description: 获取或设置CreditcardMessageSetV1aspose.finance.ofx.profile/creditcardmessageset/creditcardmessagesetv1.
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.ofx.profile/creditcardmessageset/creditcardmessagesetv1/
 ---
 ## CreditcardMessageSet.CreditcardMessageSetV1 property
 
-获取或设置`CreditcardMessageSetV1`。
+获取或设置`CreditcardMessageSetV1`.
 
 ```csharp
 public CreditcardMessageSetV1 CreditcardMessageSetV1 { get; set; }

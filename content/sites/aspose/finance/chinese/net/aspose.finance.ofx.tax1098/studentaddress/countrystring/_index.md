@@ -1,14 +1,14 @@
 ---
 title: CountryString
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置学生地址国家
+description: 获取或设置学生地址所在国家/地区
 type: docs
 weight: 60
 url: /zh/net/aspose.finance.ofx.tax1098/studentaddress/countrystring/
 ---
 ## StudentAddress.CountryString property
 
-获取或设置学生地址国家。
+获取或设置学生地址所在国家/地区。
 
 ```csharp
 public string CountryString { get; set; }

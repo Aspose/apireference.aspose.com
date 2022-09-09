@@ -1,14 +1,14 @@
 ---
 title: PaymentRequest
 second_title: Aspose.Finance for .NET API 参考
-description: 付款请求类
+description: 支付请求类.
 type: docs
 weight: 1220
 url: /zh/net/aspose.finance.ofx.billpay/paymentrequest/
 ---
 ## PaymentRequest class
 
-付款请求类。
+支付请求类.
 
 ```csharp
 public class PaymentRequest : AbstractPaymentRequest
@@ -18,13 +18,13 @@ public class PaymentRequest : AbstractPaymentRequest
 
 | 姓名 | 描述 |
 | --- | --- |
-| [PaymentRequest](paymentrequest)() | 初始化[`PaymentRequest`](../paymentrequest)类的新实例。 |
+| [PaymentRequest](paymentrequest)() | 初始化一个新的实例[`PaymentRequest`](../paymentrequest)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [PaymentInfo](../../aspose.finance.ofx.billpay/paymentrequest/paymentinfo) { get; set; } | 获取或设置[`PaymentInfo`](./paymentinfo)。 |
+| [PaymentInfo](../../aspose.finance.ofx.billpay/paymentrequest/paymentinfo) { get; set; } | 获取或设置[`PaymentInfo`](./paymentinfo). |
 
 ### 也可以看看
 

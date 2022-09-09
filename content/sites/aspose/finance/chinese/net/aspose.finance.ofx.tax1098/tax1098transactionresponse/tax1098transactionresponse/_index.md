@@ -1,14 +1,14 @@
 ---
 title: Tax1098TransactionResponse
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化Tax1098TransactionResponseaspose.finance.ofx.tax1098/tax1098transactionresponse类的新实例
+description: 初始化一个新的实例Tax1098TransactionResponseaspose.finance.ofx.tax1098/tax1098transactionresponse类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.tax1098/tax1098transactionresponse/tax1098transactionresponse/
 ---
 ## Tax1098TransactionResponse constructor
 
-初始化[`Tax1098TransactionResponse`](../../tax1098transactionresponse)类的新实例。
+初始化一个新的实例[`Tax1098TransactionResponse`](../../tax1098transactionresponse)类.
 
 ```csharp
 public Tax1098TransactionResponse()

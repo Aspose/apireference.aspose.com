@@ -1,14 +1,14 @@
 ---
 title: PresentmentDetailResponse
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаPresentmentDetailResponseaspose.finance.ofx.billerdelivery/presentmentdetailresponse.
+description: Инициализирует новый экземплярPresentmentDetailResponseaspose.finance.ofx.billerdelivery/presentmentdetailresponse класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.billerdelivery/presentmentdetailresponse/presentmentdetailresponse/
 ---
 ## PresentmentDetailResponse constructor
 
-Инициализирует новый экземпляр класса[`PresentmentDetailResponse`](../../presentmentdetailresponse).
+Инициализирует новый экземпляр[`PresentmentDetailResponse`](../../presentmentdetailresponse) класс.
 
 ```csharp
 public PresentmentDetailResponse()

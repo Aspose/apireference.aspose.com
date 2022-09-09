@@ -1,14 +1,14 @@
 ---
 title: LinkRole
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置InlineRelationshipaspose.finance.xbrl.inline/inlinerelationship的链接角色
+description: 获取或设置链接角色InlineRelationshipaspose.finance.xbrl.inline/inlinerelationship.
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.xbrl.inline/inlinerelationship/linkrole/
 ---
 ## InlineRelationship.LinkRole property
 
-获取或设置[`InlineRelationship`](../../inlinerelationship)的链接角色。
+获取或设置链接角色[`InlineRelationship`](../../inlinerelationship).
 
 ```csharp
 public string LinkRole { get; set; }

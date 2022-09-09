@@ -1,14 +1,14 @@
 ---
 title: AdditionalStateTaxWithheldAggregate
 second_title: Справочник по API Aspose.Finance для .NET
-description: Налог штата удерживается когда необходимо указать более одного штата
+description: Налог штата удерживается если необходимо указать более одного штата
 type: docs
 weight: 5870
 url: /ru/net/aspose.finance.ofx.tax1099/additionalstatetaxwithheldaggregate/
 ---
 ## AdditionalStateTaxWithheldAggregate class
 
-Налог штата удерживается, когда необходимо указать более одного штата
+Налог штата удерживается, если необходимо указать более одного штата
 
 ```csharp
 public class AdditionalStateTaxWithheldAggregate
@@ -18,13 +18,13 @@ public class AdditionalStateTaxWithheldAggregate
 
 | Имя | Описание |
 | --- | --- |
-| [AdditionalStateTaxWithheldAggregate](additionalstatetaxwithheldaggregate)() | Инициализирует новый экземпляр класса[`AdditionalStateTaxWithheldAggregate`](../additionalstatetaxwithheldaggregate). |
+| [AdditionalStateTaxWithheldAggregate](additionalstatetaxwithheldaggregate)() | Инициализирует новый экземпляр[`AdditionalStateTaxWithheldAggregate`](../additionalstatetaxwithheldaggregate) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [PayerState](../../aspose.finance.ofx.tax1099/additionalstatetaxwithheldaggregate/payerstate) { get; set; } | Получает или задает код штата плательщика. |
+| [PayerState](../../aspose.finance.ofx.tax1099/additionalstatetaxwithheldaggregate/payerstate) { get; set; } | Получает или задает код состояния плательщика. |
 | [PayerStateId](../../aspose.finance.ofx.tax1099/additionalstatetaxwithheldaggregate/payerstateid) { get; set; } | Получает или задает идентификационный номер штата плательщика. |
 | [StateIncome](../../aspose.finance.ofx.tax1099/additionalstatetaxwithheldaggregate/stateincome) { get; set; } | Получает или задает сумму дохода штата. |
 | [StateTaxWithheld](../../aspose.finance.ofx.tax1099/additionalstatetaxwithheldaggregate/statetaxwithheld) { get; set; } | Получает или задает удержанный налог штата. |

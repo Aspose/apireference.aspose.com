@@ -1,14 +1,14 @@
 ---
 title: SecurityListTransactionRequests
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置SecurityListTransactionRequestaspose.finance.ofx.securitieslist/securitylisttransactionrequest的集合
+description: 获取或设置的集合SecurityListTransactionRequestaspose.finance.ofx.securitieslist/securitylisttransactionrequest.
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.ofx/securitylistrequestmessagesetv1/securitylisttransactionrequests/
 ---
 ## SecurityListRequestMessageSetV1.SecurityListTransactionRequests property
 
-获取或设置[`SecurityListTransactionRequest`](../../../aspose.finance.ofx.securitieslist/securitylisttransactionrequest)的集合。
+获取或设置的集合[`SecurityListTransactionRequest`](../../../aspose.finance.ofx.securitieslist/securitylisttransactionrequest).
 
 ```csharp
 public List<SecurityListTransactionRequest> SecurityListTransactionRequests { get; set; }

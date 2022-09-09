@@ -1,14 +1,14 @@
 ---
 title: PaymentProcessingStatus
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置PaymentProcessingStatusaspose.finance.ofx.billpay/paymentmodresponse/paymentprocessingstatus
+description: 获取或设置PaymentProcessingStatusaspose.finance.ofx.billpay/paymentmodresponse/paymentprocessingstatus.
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.ofx.billpay/paymentmodresponse/paymentprocessingstatus/
 ---
 ## PaymentModResponse.PaymentProcessingStatus property
 
-获取或设置`PaymentProcessingStatus`。
+获取或设置`PaymentProcessingStatus`.
 
 ```csharp
 public PaymentProcessingStatus PaymentProcessingStatus { get; set; }

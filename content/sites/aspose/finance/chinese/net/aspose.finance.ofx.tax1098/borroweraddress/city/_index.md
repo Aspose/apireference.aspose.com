@@ -8,7 +8,7 @@ url: /zh/net/aspose.finance.ofx.tax1098/borroweraddress/city/
 ---
 ## BorrowerAddress.City property
 
-获取或设置借款人地址城市。
+获取或设置借款人地址城市
 
 ```csharp
 public string City { get; set; }

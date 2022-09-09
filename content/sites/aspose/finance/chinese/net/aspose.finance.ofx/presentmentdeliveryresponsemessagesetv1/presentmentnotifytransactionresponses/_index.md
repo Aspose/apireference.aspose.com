@@ -1,14 +1,14 @@
 ---
 title: PresentmentNotifyTransactionResponses
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置PresentmentNotifyTransactionResponseaspose.finance.ofx.billerdelivery/presentmentnotifytransactionresponse的集合
+description: 获取或设置的集合PresentmentNotifyTransactionResponseaspose.finance.ofx.billerdelivery/presentmentnotifytransactionresponse.
 type: docs
 weight: 90
 url: /zh/net/aspose.finance.ofx/presentmentdeliveryresponsemessagesetv1/presentmentnotifytransactionresponses/
 ---
 ## PresentmentDeliveryResponseMessageSetV1.PresentmentNotifyTransactionResponses property
 
-获取或设置[`PresentmentNotifyTransactionResponse`](../../../aspose.finance.ofx.billerdelivery/presentmentnotifytransactionresponse)的集合。
+获取或设置的集合[`PresentmentNotifyTransactionResponse`](../../../aspose.finance.ofx.billerdelivery/presentmentnotifytransactionresponse).
 
 ```csharp
 public List<PresentmentNotifyTransactionResponse> 

@@ -1,14 +1,14 @@
 ---
 title: City
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает город с адресом FI.
+description: Получает или задает адрес FI city.
 type: docs
 weight: 50
 url: /ru/net/aspose.finance.ofx.profile/profileresponse/city/
 ---
 ## ProfileResponse.City property
 
-Получает или задает город с адресом FI.
+Получает или задает адрес FI city.
 
 ```csharp
 public string City { get; set; }

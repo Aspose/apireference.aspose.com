@@ -18,15 +18,15 @@ public class RoleReference : SimpleLink
 
 | 姓名 | 描述 |
 | --- | --- |
-| [RoleReference](rolereference)(RoleType) | 初始化[`RoleReference`](../rolereference)类的新实例。 |
+| [RoleReference](rolereference)(RoleType) | 初始化一个新的实例[`RoleReference`](../rolereference)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
 | [Actuate](../../aspose.finance.xbrl/simplelink/actuate) { get; set; } | 获取或设置简单链接启动属性。 |
-| [Arcrole](../../aspose.finance.xbrl/simplelink/arcrole) { get; set; } | 获取或设置简单链接弧。 |
-| [Href](../../aspose.finance.xbrl/simplelink/href) { get; set; } | 获取或设置简单链接 href URI。 |
+| [Arcrole](../../aspose.finance.xbrl/simplelink/arcrole) { get; set; } | 获取或设置简单链接弧线。 |
+| [Href](../../aspose.finance.xbrl/simplelink/href) { get; set; } | 获取或设置简单链接href URI. |
 | [Role](../../aspose.finance.xbrl/simplelink/role) { get; set; } | 获取或设置简单链接角色。 |
 | [RoleType](../../aspose.finance.xbrl/rolereference/roletype) { get; set; } | 获取或设置[`RoleType`](./roletype) |
 | [RoleUri](../../aspose.finance.xbrl/rolereference/roleuri) { get; } | 获取或设置角色 URI。 |

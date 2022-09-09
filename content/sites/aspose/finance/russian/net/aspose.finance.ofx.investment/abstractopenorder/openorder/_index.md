@@ -1,14 +1,14 @@
 ---
 title: OpenOrder
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задаетGeneralOpenOrderaspose.finance.ofx.investment/generalopenorder.
+description: Получает или задаетGeneralOpenOrderaspose.finance.ofx.investment/generalopenorder .
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.investment/abstractopenorder/openorder/
 ---
 ## AbstractOpenOrder.OpenOrder property
 
-Получает или задает[`GeneralOpenOrder`](../../generalopenorder).
+Получает или задает[`GeneralOpenOrder`](../../generalopenorder) .
 
 ```csharp
 public GeneralOpenOrder OpenOrder { get; set; }

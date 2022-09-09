@@ -1,14 +1,14 @@
 ---
 title: FootnoteRole
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает роль сноски дляInlineFootnoteaspose.finance.xbrl.inline/inlinefootnote.
+description: Получает или задает роль сноскиInlineFootnoteaspose.finance.xbrl.inline/inlinefootnote .
 type: docs
 weight: 20
 url: /ru/net/aspose.finance.xbrl.inline/inlinefootnote/footnoterole/
 ---
 ## InlineFootnote.FootnoteRole property
 
-Получает или задает роль сноски для[`InlineFootnote`](../../inlinefootnote).
+Получает или задает роль сноски[`InlineFootnote`](../../inlinefootnote) .
 
 ```csharp
 public string FootnoteRole { get; set; }

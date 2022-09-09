@@ -1,14 +1,14 @@
 ---
 title: UnitType
 second_title: Справочник по API Aspose.Finance для .NET
-description: Тип единицы измерения enum.
+description: Тип юнита enum.
 type: docs
 weight: 8070
 url: /ru/net/aspose.finance.xbrl/unittype/
 ---
 ## UnitType enumeration
 
-Тип единицы измерения enum.
+Тип юнита enum.
 
 ```csharp
 public enum UnitType

@@ -1,14 +1,14 @@
 ---
 title: ChangeUserInfoTransactionRequests
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает коллекциюChangeUserInfoTransactionRequestaspose.finance.ofx.signup/changeuserinfotransactionrequest.
+description: Получает или задает коллекциюChangeUserInfoTransactionRequestaspose.finance.ofx.signup/changeuserinfotransactionrequest .
 type: docs
 weight: 60
 url: /ru/net/aspose.finance.ofx/signuprequestmessagesetv1/changeuserinfotransactionrequests/
 ---
 ## SignupRequestMessageSetV1.ChangeUserInfoTransactionRequests property
 
-Получает или задает коллекцию[`ChangeUserInfoTransactionRequest`](../../../aspose.finance.ofx.signup/changeuserinfotransactionrequest).
+Получает или задает коллекцию[`ChangeUserInfoTransactionRequest`](../../../aspose.finance.ofx.signup/changeuserinfotransactionrequest) .
 
 ```csharp
 public List<ChangeUserInfoTransactionRequest> ChangeUserInfoTransactionRequests { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: SecondaryHolder
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает вторичный объектAccountHolderTypeaspose.finance.ofx/accountholdertype.
+description: Получает или задает вторичныйAccountHolderTypeaspose.finance.ofx/accountholdertype .
 type: docs
 weight: 30
 url: /ru/net/aspose.finance.ofx/holderinfotype/secondaryholder/
 ---
 ## HolderInfoType.SecondaryHolder property
 
-Получает или задает вторичный объект[`AccountHolderType`](../../accountholdertype).
+Получает или задает вторичный[`AccountHolderType`](../../accountholdertype) .
 
 ```csharp
 public AccountHolderType SecondaryHolder { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: Tax1099OID_V100
 second_title: Aspose.Finance for .NET API 参考
-description: Tax 1099-OID V100 表单类
+description: 税 1099OID V100 表格类
 type: docs
 weight: 6030
 url: /zh/net/aspose.finance.ofx.tax1099/tax1099oid_v100/
 ---
 ## Tax1099OID_V100 class
 
-Tax 1099-OID V100 表单类。
+税 1099-OID V100 表格类。
 
 ```csharp
 public class Tax1099OID_V100 : AbstractTaxForm1099
@@ -18,14 +18,14 @@ public class Tax1099OID_V100 : AbstractTaxForm1099
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Tax1099OID_V100](tax1099oid_v100)() | 初始化[`Tax1099OID_V100`](../tax1099oid_v100)类的新实例。 |
+| [Tax1099OID_V100](tax1099oid_v100)() | 初始化一个新的实例[`Tax1099OID_V100`](../tax1099oid_v100)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
 | [AcquisitionPremium](../../aspose.finance.ofx.tax1099/tax1099oid_v100/acquisitionpremium) { get; set; } | 获取或设置获取溢价。 |
-| [AddlStateTaxWheldAggregate](../../aspose.finance.ofx.tax1099/tax1099oid_v100/addlstatetaxwheldaggregate) { get; set; } | 获取或设置[`AddlStateTaxWheldAggregate`](./addlstatetaxwheldaggregate)。 |
+| [AddlStateTaxWheldAggregate](../../aspose.finance.ofx.tax1099/tax1099oid_v100/addlstatetaxwheldaggregate) { get; set; } | 获取或设置[`AddlStateTaxWheldAggregate`](./addlstatetaxwheldaggregate). |
 | [Corrected](../../aspose.finance.ofx.tax1099/abstracttaxform1099/corrected) { get; set; } | 获取或设置这是否是一个更正的形式。 |
 | [Description](../../aspose.finance.ofx.tax1099/tax1099oid_v100/description) { get; set; } | 获取或设置描述。 |
 | [EarlyWithdrawalPenalty](../../aspose.finance.ofx.tax1099/tax1099oid_v100/earlywithdrawalpenalty) { get; set; } | 获取或设置提前退出惩罚。 |
@@ -33,21 +33,21 @@ public class Tax1099OID_V100 : AbstractTaxForm1099
 | [ForeignAccountTaxComplianceAct](../../aspose.finance.ofx.tax1099/tax1099oid_v100/foreignaccounttaxcomplianceact) { get; set; } | 获取或设置外国账户税收合规法案。 |
 | [InvestmentExpense](../../aspose.finance.ofx.tax1099/tax1099oid_v100/investmentexpense) { get; set; } | 获取或设置投资费用。 |
 | [MarketDiscount](../../aspose.finance.ofx.tax1099/tax1099oid_v100/marketdiscount) { get; set; } | 获取或设置市场折扣。 |
-| [OriginalIssueDiscount](../../aspose.finance.ofx.tax1099/tax1099oid_v100/originalissuediscount) { get; set; } | 获取或设置原始问题折扣。 |
+| [OriginalIssueDiscount](../../aspose.finance.ofx.tax1099/tax1099oid_v100/originalissuediscount) { get; set; } | 获取或设置原始发行折扣。 |
 | [OriginalIssueDiscountOnUSTreasury](../../aspose.finance.ofx.tax1099/tax1099oid_v100/originalissuediscountonustreasury) { get; set; } | 获取或设置美国国债的原始发行折扣。 |
 | [OtherPeriodicInterest](../../aspose.finance.ofx.tax1099/tax1099oid_v100/otherperiodicinterest) { get; set; } | 获取或设置其他周期利息。 |
-| [PayerAddress](../../aspose.finance.ofx.tax1099/tax1099oid_v100/payeraddress) { get; set; } | 获取或设置[`PayerAddress`](./payeraddress)。 |
+| [PayerAddress](../../aspose.finance.ofx.tax1099/tax1099oid_v100/payeraddress) { get; set; } | 获取或设置[`PayerAddress`](./payeraddress). |
 | [PayerId](../../aspose.finance.ofx.tax1099/tax1099oid_v100/payerid) { get; set; } | 获取或设置付款人的联邦识别号。 |
 | [RecipientAccount](../../aspose.finance.ofx.tax1099/tax1099oid_v100/recipientaccount) { get; set; } | 获取或设置收件人的帐号。 |
-| [RecipientAddress](../../aspose.finance.ofx.tax1099/tax1099oid_v100/recipientaddress) { get; set; } | 获取或设置[`RecipientAddress`](./recipientaddress)。 |
+| [RecipientAddress](../../aspose.finance.ofx.tax1099/tax1099oid_v100/recipientaddress) { get; set; } | 获取或设置[`RecipientAddress`](./recipientaddress). |
 | [RecipientId](../../aspose.finance.ofx.tax1099/tax1099oid_v100/recipientid) { get; set; } | 获取或设置收件人的标识号。 |
-| [ServerId](../../aspose.finance.ofx.tax1099/abstracttaxform1099/serverid) { get; set; } | 获取或设置主机服务器分配给表单的 ID。 |
+| [ServerId](../../aspose.finance.ofx.tax1099/abstracttaxform1099/serverid) { get; set; } | 获取或设置主机服务器分配给表单的ID。 |
 | [StateCode](../../aspose.finance.ofx.tax1099/tax1099oid_v100/statecode) { get; set; } | 获取或设置 2 个字符的邮政编码缩写。 |
 | [StateIdNumber](../../aspose.finance.ofx.tax1099/tax1099oid_v100/stateidnumber) { get; set; } | 获取或设置付款人状态标识号。 |
-| [StateTaxWithheld](../../aspose.finance.ofx.tax1099/tax1099oid_v100/statetaxwithheld) { get; set; } | 获取或设置预扣的州所得税。 |
+| [StateTaxWithheld](../../aspose.finance.ofx.tax1099/tax1099oid_v100/statetaxwithheld) { get; set; } | 获取或设置扣缴的州所得税。 |
 | [TaxYear](../../aspose.finance.ofx.tax1099/abstracttaxform1099/taxyear) { get; set; } | 获取或设置此表单的纳税年度。 |
 | [TINNotification](../../aspose.finance.ofx.tax1099/tax1099oid_v100/tinnotification) { get; set; } | 获取或设置第二个 TIN 通知。 |
-| [Void](../../aspose.finance.ofx.tax1099/abstracttaxform1099/void) { get; set; } | 获取或设置表单是否为无效。 |
+| [Void](../../aspose.finance.ofx.tax1099/abstracttaxform1099/void) { get; set; } | 获取或设置表单是否为void。 |
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: PaymentModResponse
 second_title: Aspose.Finance for .NET API 参考
-description: 付款修改响应类
+description: 付款修改响应类.
 type: docs
 weight: 1190
 url: /zh/net/aspose.finance.ofx.billpay/paymentmodresponse/
 ---
 ## PaymentModResponse class
 
-付款修改响应类。
+付款修改响应类.
 
 ```csharp
 public class PaymentModResponse : AbstractPaymentResponse
@@ -18,14 +18,14 @@ public class PaymentModResponse : AbstractPaymentResponse
 
 | 姓名 | 描述 |
 | --- | --- |
-| [PaymentModResponse](paymentmodresponse)() | 初始化[`PaymentModResponse`](../paymentmodresponse)类的新实例。 |
+| [PaymentModResponse](paymentmodresponse)() | 初始化一个新的实例[`PaymentModResponse`](../paymentmodresponse)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [PaymentInfo](../../aspose.finance.ofx.billpay/paymentmodresponse/paymentinfo) { get; set; } | 获取或设置[`PaymentInfo`](./paymentinfo)。 |
-| [PaymentProcessingStatus](../../aspose.finance.ofx.billpay/paymentmodresponse/paymentprocessingstatus) { get; set; } | 获取或设置[`PaymentProcessingStatus`](./paymentprocessingstatus)。 |
+| [PaymentInfo](../../aspose.finance.ofx.billpay/paymentmodresponse/paymentinfo) { get; set; } | 获取或设置[`PaymentInfo`](./paymentinfo). |
+| [PaymentProcessingStatus](../../aspose.finance.ofx.billpay/paymentmodresponse/paymentprocessingstatus) { get; set; } | 获取或设置[`PaymentProcessingStatus`](./paymentprocessingstatus). |
 | [ServerId](../../aspose.finance.ofx.billpay/abstractpaymentresponse/serverid) { get; set; } | 获取或设置服务器分配给支付的ID。 |
 
 ### 也可以看看

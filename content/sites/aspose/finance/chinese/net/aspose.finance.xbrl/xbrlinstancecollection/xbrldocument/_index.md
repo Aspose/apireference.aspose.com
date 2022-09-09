@@ -1,14 +1,14 @@
 ---
 title: XbrlDocument
 second_title: Aspose.Finance for .NET API 参考
-description: 获取包含此 XBRL 实例集合的XbrlDocumentaspose.finance.xbrl/xbrlinstancecollection/xbrldocument
+description: 获取XbrlDocumentaspose.finance.xbrl/xbrlinstancecollection/xbrldocument其中包含此 XBRL 实例集合
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.xbrl/xbrlinstancecollection/xbrldocument/
 ---
 ## XbrlInstanceCollection.XbrlDocument property
 
-获取包含此 XBRL 实例集合的`XbrlDocument`。
+获取`XbrlDocument`其中包含此 XBRL 实例集合。
 
 ```csharp
 public XbrlDocument XbrlDocument { get; }

@@ -1,14 +1,14 @@
 ---
 title: PayeeListId
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置此收款人记录的服务器分配记录ID
+description: 获取或设置此收款人记录的服务器分配记录 ID
 type: docs
 weight: 60
 url: /zh/net/aspose.finance.ofx.billpay/recurringpaymentresponse/payeelistid/
 ---
 ## RecurringPaymentResponse.PayeeListId property
 
-获取或设置此收款人记录的服务器分配记录ID。
+获取或设置此收款人记录的服务器分配记录 ID。
 
 ```csharp
 public string PayeeListId { get; set; }

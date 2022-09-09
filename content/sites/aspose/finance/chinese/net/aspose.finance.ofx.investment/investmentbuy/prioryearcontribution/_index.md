@@ -1,14 +1,14 @@
 ---
 title: PriorYearContribution
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置此购买是否是在前一年为 401k 帐户捐款的情况下进行的
+description: 获取或设置此购买是否是在上一年为 401k 帐户捐款的情况下进行的
 type: docs
 weight: 130
 url: /zh/net/aspose.finance.ofx.investment/investmentbuy/prioryearcontribution/
 ---
 ## InvestmentBuy.PriorYearContribution property
 
-获取或设置此购买是否是在前一年为 401(k) 帐户捐款的情况下进行的。
+获取或设置此购买是否是在上一年为 401(k) 帐户捐款的情况下进行的。
 
 ```csharp
 public bool PriorYearContribution { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: SignupMessageSetV1
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置SignupMessageSetV1aspose.finance.ofx.profile/signupmessageset/signupmessagesetv1
+description: 获取或设置SignupMessageSetV1aspose.finance.ofx.profile/signupmessageset/signupmessagesetv1.
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.ofx.profile/signupmessageset/signupmessagesetv1/
 ---
 ## SignupMessageSet.SignupMessageSetV1 property
 
-获取或设置`SignupMessageSetV1`。
+获取或设置`SignupMessageSetV1`.
 
 ```csharp
 public SignupMessageSetV1 SignupMessageSetV1 { get; set; }

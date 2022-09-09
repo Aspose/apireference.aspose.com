@@ -1,14 +1,14 @@
 ---
 title: LoanPrincipal
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置多少贷款偿还是本金仅适用于 401k 帐户
+description: 获取或设置本金偿还的贷款金额仅适用于 401k 帐户
 type: docs
 weight: 90
 url: /zh/net/aspose.finance.ofx.investment/investmentbuy/loanprincipal/
 ---
 ## InvestmentBuy.LoanPrincipal property
 
-获取或设置多少贷款偿还是本金。仅适用于 401(k) 帐户。
+获取或设置本金偿还的贷款金额。仅适用于 401(k) 帐户。
 
 ```csharp
 public string LoanPrincipal { get; set; }

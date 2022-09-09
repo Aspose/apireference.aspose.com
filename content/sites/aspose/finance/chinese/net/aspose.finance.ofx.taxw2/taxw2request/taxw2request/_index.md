@@ -1,14 +1,14 @@
 ---
 title: TaxW2Request
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化TaxW2Requestaspose.finance.ofx.taxw2/taxw2request类的新实例
+description: 初始化一个新的实例TaxW2Requestaspose.finance.ofx.taxw2/taxw2request类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.taxw2/taxw2request/taxw2request/
 ---
 ## TaxW2Request constructor
 
-初始化[`TaxW2Request`](../../taxw2request)类的新实例。
+初始化一个新的实例[`TaxW2Request`](../../taxw2request)类.
 
 ```csharp
 public TaxW2Request()

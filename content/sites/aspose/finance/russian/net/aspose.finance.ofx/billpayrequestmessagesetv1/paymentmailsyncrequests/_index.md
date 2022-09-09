@@ -1,14 +1,14 @@
 ---
 title: PaymentMailSyncRequests
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает коллекциюPaymentMailSyncRequestaspose.finance.ofx.billpay/paymentmailsyncrequest.
+description: Получает или задает коллекциюPaymentMailSyncRequestaspose.finance.ofx.billpay/paymentmailsyncrequest .
 type: docs
 weight: 50
 url: /ru/net/aspose.finance.ofx/billpayrequestmessagesetv1/paymentmailsyncrequests/
 ---
 ## BillPayRequestMessageSetV1.PaymentMailSyncRequests property
 
-Получает или задает коллекцию[`PaymentMailSyncRequest`](../../../aspose.finance.ofx.billpay/paymentmailsyncrequest).
+Получает или задает коллекцию[`PaymentMailSyncRequest`](../../../aspose.finance.ofx.billpay/paymentmailsyncrequest) .
 
 ```csharp
 public List<PaymentMailSyncRequest> PaymentMailSyncRequests { get; set; }

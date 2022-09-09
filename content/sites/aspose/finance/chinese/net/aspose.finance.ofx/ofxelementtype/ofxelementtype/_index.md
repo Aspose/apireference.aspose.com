@@ -1,14 +1,14 @@
 ---
 title: OfxElementType
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化OfxElementTypeaspose.finance.ofx/ofxelementtype类的新实例
+description: 初始化一个新的实例OfxElementTypeaspose.finance.ofx/ofxelementtype类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx/ofxelementtype/ofxelementtype/
 ---
 ## OfxElementType constructor
 
-初始化[`OfxElementType`](../../ofxelementtype)类的新实例。
+初始化一个新的实例[`OfxElementType`](../../ofxelementtype)类.
 
 ```csharp
 public OfxElementType()

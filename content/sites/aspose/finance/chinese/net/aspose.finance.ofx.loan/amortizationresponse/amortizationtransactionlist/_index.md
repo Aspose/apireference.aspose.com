@@ -1,14 +1,14 @@
 ---
 title: AmortizationTransactionList
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置AmortizationTransactionListaspose.finance.ofx.loan/amortizationresponse/amortizationtransactionlist
+description: 获取或设置AmortizationTransactionListaspose.finance.ofx.loan/amortizationresponse/amortizationtransactionlist.
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.ofx.loan/amortizationresponse/amortizationtransactionlist/
 ---
 ## AmortizationResponse.AmortizationTransactionList property
 
-获取或设置`AmortizationTransactionList`。
+获取或设置`AmortizationTransactionList`.
 
 ```csharp
 public AmortizationTransactionList AmortizationTransactionList { get; set; }

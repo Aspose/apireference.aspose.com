@@ -1,14 +1,14 @@
 ---
 title: PaymentProcessingStatus
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задаетPaymentProcessingStatusaspose.finance.ofx.billpay/paymentmodresponse/paymentprocessingstatus.
+description: Получает или задаетPaymentProcessingStatusaspose.finance.ofx.billpay/paymentmodresponse/paymentprocessingstatus .
 type: docs
 weight: 30
 url: /ru/net/aspose.finance.ofx.billpay/paymentmodresponse/paymentprocessingstatus/
 ---
 ## PaymentModResponse.PaymentProcessingStatus property
 
-Получает или задает`PaymentProcessingStatus`.
+Получает или задает`PaymentProcessingStatus` .
 
 ```csharp
 public PaymentProcessingStatus PaymentProcessingStatus { get; set; }

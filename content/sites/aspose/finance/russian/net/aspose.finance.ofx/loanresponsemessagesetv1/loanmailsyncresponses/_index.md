@@ -1,14 +1,14 @@
 ---
 title: LoanMailSyncResponses
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает коллекциюLoanMailSyncResponseaspose.finance.ofx.loan/loanmailsyncresponse.
+description: Получает или задает коллекциюLoanMailSyncResponseaspose.finance.ofx.loan/loanmailsyncresponse .
 type: docs
 weight: 30
 url: /ru/net/aspose.finance.ofx/loanresponsemessagesetv1/loanmailsyncresponses/
 ---
 ## LoanResponseMessageSetV1.LoanMailSyncResponses property
 
-Получает или задает коллекцию[`LoanMailSyncResponse`](../../../aspose.finance.ofx.loan/loanmailsyncresponse).
+Получает или задает коллекцию[`LoanMailSyncResponse`](../../../aspose.finance.ofx.loan/loanmailsyncresponse) .
 
 ```csharp
 public List<LoanMailSyncResponse> LoanMailSyncResponses { get; set; }

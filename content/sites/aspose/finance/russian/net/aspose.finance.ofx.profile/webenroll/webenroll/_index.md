@@ -1,14 +1,14 @@
 ---
 title: WebEnroll
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаWebEnrollaspose.finance.ofx.profile/webenroll.
+description: Инициализирует новый экземплярWebEnrollaspose.finance.ofx.profile/webenroll класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.profile/webenroll/webenroll/
 ---
 ## WebEnroll constructor
 
-Инициализирует новый экземпляр класса[`WebEnroll`](../../webenroll).
+Инициализирует новый экземпляр[`WebEnroll`](../../webenroll) класс.
 
 ```csharp
 public WebEnroll()

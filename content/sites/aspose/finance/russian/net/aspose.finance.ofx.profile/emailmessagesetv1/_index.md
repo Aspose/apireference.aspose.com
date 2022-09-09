@@ -18,15 +18,15 @@ public class EmailMessageSetV1 : AbstractMessageSetVersion
 
 | Имя | Описание |
 | --- | --- |
-| [EmailMessageSetV1](emailmessagesetv1)() | Инициализирует новый экземпляр класса[`EmailMessageSetV1`](../emailmessagesetv1). |
+| [EmailMessageSetV1](emailmessagesetv1)() | Инициализирует новый экземпляр[`EmailMessageSetV1`](../emailmessagesetv1) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [GetMimeSupport](../../aspose.finance.ofx.profile/emailmessagesetv1/getmimesupport) { get; set; } | Получает или задает, поддерживает ли[`GetMimeRequest`](../../aspose.finance.ofx.email/getmimerequest). |
-| [MailSupport](../../aspose.finance.ofx.profile/emailmessagesetv1/mailsupport) { get; set; } | Истинно, если сервер поддерживает запрос[`MailRequest`](../../aspose.finance.ofx.email/mailrequest). False, если сервер поддерживает только запрос[`MailSyncRequest`](../../aspose.finance.ofx.email/mailsyncrequest). |
-| [MessageSetCore](../../aspose.finance.ofx.profile/abstractmessagesetversion/messagesetcore) { get; set; } | Получает или задает[`MessageSetCore`](../abstractmessagesetversion/messagesetcore). |
+| [GetMimeSupport](../../aspose.finance.ofx.profile/emailmessagesetv1/getmimesupport) { get; set; } | Получает или задает, поддерживает ли[`GetMimeRequest`](../../aspose.finance.ofx.email/getmimerequest) . |
+| [MailSupport](../../aspose.finance.ofx.profile/emailmessagesetv1/mailsupport) { get; set; } | Истинно, если сервер поддерживает[`MailRequest`](../../aspose.finance.ofx.email/mailrequest) запрос. False, если сервер поддерживает только[`MailSyncRequest`](../../aspose.finance.ofx.email/mailsyncrequest) запрос. |
+| [MessageSetCore](../../aspose.finance.ofx.profile/abstractmessagesetversion/messagesetcore) { get; set; } | Получает или задает[`MessageSetCore`](../abstractmessagesetversion/messagesetcore) . |
 
 ### Смотрите также
 

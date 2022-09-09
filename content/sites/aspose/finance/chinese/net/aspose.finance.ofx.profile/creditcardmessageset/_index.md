@@ -1,14 +1,14 @@
 ---
 title: CreditcardMessageSet
 second_title: Aspose.Finance for .NET API 参考
-description: 信用卡消息集类
+description: 信用卡消息集类.
 type: docs
 weight: 4440
 url: /zh/net/aspose.finance.ofx.profile/creditcardmessageset/
 ---
 ## CreditcardMessageSet class
 
-信用卡消息集类。
+信用卡消息集类.
 
 ```csharp
 public class CreditcardMessageSet : AbstractMessageSet
@@ -18,13 +18,13 @@ public class CreditcardMessageSet : AbstractMessageSet
 
 | 姓名 | 描述 |
 | --- | --- |
-| [CreditcardMessageSet](creditcardmessageset)() | 初始化[`CreditcardMessageSet`](../creditcardmessageset)类的新实例。 |
+| [CreditcardMessageSet](creditcardmessageset)() | 初始化一个新的实例[`CreditcardMessageSet`](../creditcardmessageset)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [CreditcardMessageSetV1](../../aspose.finance.ofx.profile/creditcardmessageset/creditcardmessagesetv1) { get; set; } | 获取或设置[`CreditcardMessageSetV1`](./creditcardmessagesetv1)。 |
+| [CreditcardMessageSetV1](../../aspose.finance.ofx.profile/creditcardmessageset/creditcardmessagesetv1) { get; set; } | 获取或设置[`CreditcardMessageSetV1`](./creditcardmessagesetv1). |
 
 ### 也可以看看
 

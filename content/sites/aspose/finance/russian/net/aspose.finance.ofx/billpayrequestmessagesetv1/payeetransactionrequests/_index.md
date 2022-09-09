@@ -1,14 +1,14 @@
 ---
 title: PayeeTransactionRequests
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает коллекциюPayeeTransactionRequestaspose.finance.ofx.billpay/payeetransactionrequest.
+description: Получает или задает коллекциюPayeeTransactionRequestaspose.finance.ofx.billpay/payeetransactionrequest .
 type: docs
 weight: 30
 url: /ru/net/aspose.finance.ofx/billpayrequestmessagesetv1/payeetransactionrequests/
 ---
 ## BillPayRequestMessageSetV1.PayeeTransactionRequests property
 
-Получает или задает коллекцию[`PayeeTransactionRequest`](../../../aspose.finance.ofx.billpay/payeetransactionrequest).
+Получает или задает коллекцию[`PayeeTransactionRequest`](../../../aspose.finance.ofx.billpay/payeetransactionrequest) .
 
 ```csharp
 public List<PayeeTransactionRequest> PayeeTransactionRequests { get; set; }

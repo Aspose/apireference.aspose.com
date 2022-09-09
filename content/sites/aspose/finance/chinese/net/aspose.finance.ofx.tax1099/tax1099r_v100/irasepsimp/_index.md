@@ -1,14 +1,14 @@
 ---
 title: IraSepSimp
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置 IRA/SEP/SIMPLE
+description: 获取或设置 IRA/SEP/SIMPLE.
 type: docs
 weight: 110
 url: /zh/net/aspose.finance.ofx.tax1099/tax1099r_v100/irasepsimp/
 ---
 ## Tax1099R_V100.IraSepSimp property
 
-获取或设置 IRA/SEP/SIMPLE。
+获取或设置 IRA/SEP/SIMPLE.
 
 ```csharp
 public bool IraSepSimp { get; set; }

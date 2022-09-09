@@ -18,15 +18,15 @@ public class GetMimeTransactionRequest : AbstractTransactionRequest
 
 | Имя | Описание |
 | --- | --- |
-| [GetMimeTransactionRequest](getmimetransactionrequest)() | Инициализирует новый экземпляр класса[`GetMimeTransactionRequest`](../getmimetransactionrequest). |
+| [GetMimeTransactionRequest](getmimetransactionrequest)() | Инициализирует новый экземпляр[`GetMimeTransactionRequest`](../getmimetransactionrequest) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [ClientCookie](../../aspose.finance.ofx/abstracttransactionrequest/clientcookie) { get; set; } | Получает или задает данные, которые будут отображаться в ответе транзакции |
-| [GetMimeRequest](../../aspose.finance.ofx.email/getmimetransactionrequest/getmimerequest) { get; set; } | Получает или задает[`GetMimeRequest`](./getmimerequest). |
-| [OfxExtension](../../aspose.finance.ofx.email/getmimetransactionrequest/ofxextension) { get; set; } | Получает или задает[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
+| [ClientCookie](../../aspose.finance.ofx/abstracttransactionrequest/clientcookie) { get; set; } | Получает или задает данные, которые будут отражены в транзакции response |
+| [GetMimeRequest](../../aspose.finance.ofx.email/getmimetransactionrequest/getmimerequest) { get; set; } | Получает или задает[`GetMimeRequest`](./getmimerequest) . |
+| [OfxExtension](../../aspose.finance.ofx.email/getmimetransactionrequest/ofxextension) { get; set; } | Получает или задает[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype) . |
 | [TransactionAuthorizationNumber](../../aspose.finance.ofx/abstracttransactionrequest/transactionauthorizationnumber) { get; set; } | Получает или задает номер авторизации транзакции. |
 | [TransactionUniqueId](../../aspose.finance.ofx/abstracttransactionrequest/transactionuniqueid) { get; set; } | Получает или задает назначенный клиентом глобальный уникальный идентификатор для этой транзакции |
 

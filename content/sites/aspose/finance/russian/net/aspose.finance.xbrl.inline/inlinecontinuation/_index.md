@@ -18,9 +18,9 @@ public class InlineContinuation
 
 | Имя | Описание |
 | --- | --- |
-| [ContinuedAt](../../aspose.finance.xbrl.inline/inlinecontinuation/continuedat) { get; set; } | Получает или задает идентификатор ссылки продолжения[`InlineContinuation`](../inlinecontinuation). |
-| [Id](../../aspose.finance.xbrl.inline/inlinecontinuation/id) { get; set; } | Получает или задает идентификатор[`InlineContinuation`](../inlinecontinuation). |
-| [Value](../../aspose.finance.xbrl.inline/inlinecontinuation/value) { get; set; } | Получает или задает значение[`InlineContinuation`](../inlinecontinuation). |
+| [ContinuedAt](../../aspose.finance.xbrl.inline/inlinecontinuation/continuedat) { get; set; } | Получает или задает идентификатор ссылки продолжения[`InlineContinuation`](../inlinecontinuation) . |
+| [Id](../../aspose.finance.xbrl.inline/inlinecontinuation/id) { get; set; } | Получает или задает идентификатор[`InlineContinuation`](../inlinecontinuation) . |
+| [Value](../../aspose.finance.xbrl.inline/inlinecontinuation/value) { get; set; } | Получает или задает значение[`InlineContinuation`](../inlinecontinuation) . |
 
 ### Смотрите также
 

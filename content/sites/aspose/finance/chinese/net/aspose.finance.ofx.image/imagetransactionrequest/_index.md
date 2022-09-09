@@ -1,14 +1,14 @@
 ---
 title: ImageTransactionRequest
 second_title: Aspose.Finance for .NET API 参考
-description: 图像事务请求类
+description: 图片交易请求类.
 type: docs
 weight: 2290
 url: /zh/net/aspose.finance.ofx.image/imagetransactionrequest/
 ---
 ## ImageTransactionRequest class
 
-图像事务请求类。
+图片交易请求类.
 
 ```csharp
 public class ImageTransactionRequest : AbstractTransactionRequest
@@ -18,16 +18,16 @@ public class ImageTransactionRequest : AbstractTransactionRequest
 
 | 姓名 | 描述 |
 | --- | --- |
-| [ImageTransactionRequest](imagetransactionrequest)() | 初始化[`ImageTransactionRequest`](../imagetransactionrequest)类的新实例。 |
+| [ImageTransactionRequest](imagetransactionrequest)() | 初始化一个新的实例[`ImageTransactionRequest`](../imagetransactionrequest)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
 | [ClientCookie](../../aspose.finance.ofx/abstracttransactionrequest/clientcookie) { get; set; } | 获取或设置要在事务响应中回显的数据 |
-| [ImageRequest](../../aspose.finance.ofx.image/imagetransactionrequest/imagerequest) { get; set; } | 获取或设置[`ImageRequest`](./imagerequest)。 |
-| [OfxExtension](../../aspose.finance.ofx.image/imagetransactionrequest/ofxextension) { get; set; } | 获取或设置[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype)。 |
-| [TransactionAuthorizationNumber](../../aspose.finance.ofx/abstracttransactionrequest/transactionauthorizationnumber) { get; set; } | 获取或设置交易授权号。 |
+| [ImageRequest](../../aspose.finance.ofx.image/imagetransactionrequest/imagerequest) { get; set; } | 获取或设置[`ImageRequest`](./imagerequest). |
+| [OfxExtension](../../aspose.finance.ofx.image/imagetransactionrequest/ofxextension) { get; set; } | 获取或设置[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
+| [TransactionAuthorizationNumber](../../aspose.finance.ofx/abstracttransactionrequest/transactionauthorizationnumber) { get; set; } | 获取或设置交易授权号 |
 | [TransactionUniqueId](../../aspose.finance.ofx/abstracttransactionrequest/transactionuniqueid) { get; set; } | 获取或设置此事务的客户端分配的全局唯一 ID |
 
 ### 也可以看看

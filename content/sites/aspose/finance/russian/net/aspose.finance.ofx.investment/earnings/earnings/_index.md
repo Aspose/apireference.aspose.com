@@ -1,14 +1,14 @@
 ---
 title: Earnings
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаEarningsaspose.finance.ofx.investment/earnings.
+description: Инициализирует новый экземплярEarningsaspose.finance.ofx.investment/earnings класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.investment/earnings/earnings/
 ---
 ## Earnings constructor
 
-Инициализирует новый экземпляр класса[`Earnings`](../../earnings).
+Инициализирует новый экземпляр[`Earnings`](../../earnings) класс.
 
 ```csharp
 public Earnings()

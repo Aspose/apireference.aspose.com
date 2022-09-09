@@ -1,14 +1,14 @@
 ---
 title: ServiceAction
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置ServiceAddaspose.finance.ofx.signup/serviceadd或ServiceChangeaspose.finance.ofx.signup/servicechange或ServiceDeleteaspose.finance.ofx.signup/servicedelete
+description: 获取或设置ServiceAddaspose.finance.ofx.signup/serviceadd或者ServiceChangeaspose.finance.ofx.signup/servicechange或者ServiceDeleteaspose.finance.ofx.signup/servicedelete.
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.ofx.signup/accountrequest/serviceaction/
 ---
 ## AccountRequest.ServiceAction property
 
-获取或设置[`ServiceAdd`](../../serviceadd)或[`ServiceChange`](../../servicechange)或[`ServiceDelete`](../../servicedelete)。
+获取或设置[`ServiceAdd`](../../serviceadd)或者[`ServiceChange`](../../servicechange)或者[`ServiceDelete`](../../servicedelete).
 
 ```csharp
 public AbstractServiceAction ServiceAction { get; set; }

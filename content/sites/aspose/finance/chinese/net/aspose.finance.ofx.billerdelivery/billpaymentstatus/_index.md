@@ -8,7 +8,7 @@ url: /zh/net/aspose.finance.ofx.billerdelivery/billpaymentstatus/
 ---
 ## BillPaymentStatus class
 
-账单支付状态类。
+账单支付状态类
 
 ```csharp
 public class BillPaymentStatus
@@ -18,16 +18,16 @@ public class BillPaymentStatus
 
 | 姓名 | 描述 |
 | --- | --- |
-| [BillPaymentStatus](billpaymentstatus)() | 初始化[`BillPaymentStatus`](../billpaymentstatus)类的新实例。 |
+| [BillPaymentStatus](billpaymentstatus)() | 初始化一个新的实例[`BillPaymentStatus`](../billpaymentstatus)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [BillPaymentStatusCode](../../aspose.finance.ofx.billerdelivery/billpaymentstatus/billpaymentstatuscode) { get; set; } | 获取或设置账单支付状态码。 |
+| [BillPaymentStatusCode](../../aspose.finance.ofx.billerdelivery/billpaymentstatus/billpaymentstatuscode) { get; set; } | 获取或设置账单支付状态码 |
 | [EffectiveDate](../../aspose.finance.ofx.billerdelivery/billpaymentstatus/effectivedate) { get; set; } | 获取或设置状态生效的日期/时间。 |
 | [ServerID](../../aspose.finance.ofx.billerdelivery/billpaymentstatus/serverid) { get; set; } | 获取或设置该账单支付的服务器交易ID。 |
-| [StatusModifiedBy](../../aspose.finance.ofx.billerdelivery/billpaymentstatus/statusmodifiedby) { get; set; } | 获取或设置修改者的状态。服务器不需要存储此信息。 |
+| [StatusModifiedBy](../../aspose.finance.ofx.billerdelivery/billpaymentstatus/statusmodifiedby) { get; set; } | 获取或设置修改者的状态。服务器不需要存储这些信息。 |
 
 ### 也可以看看
 

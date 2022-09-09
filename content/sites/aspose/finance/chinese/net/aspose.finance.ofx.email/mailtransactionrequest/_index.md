@@ -18,16 +18,16 @@ public class MailTransactionRequest : AbstractTransactionRequest
 
 | 姓名 | 描述 |
 | --- | --- |
-| [MailTransactionRequest](mailtransactionrequest)() | 初始化[`MailTransactionRequest`](../mailtransactionrequest)类的新实例。 |
+| [MailTransactionRequest](mailtransactionrequest)() | 初始化一个新的实例[`MailTransactionRequest`](../mailtransactionrequest)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
 | [ClientCookie](../../aspose.finance.ofx/abstracttransactionrequest/clientcookie) { get; set; } | 获取或设置要在事务响应中回显的数据 |
-| [MailRequest](../../aspose.finance.ofx.email/mailtransactionrequest/mailrequest) { get; set; } | 获取或设置[`MailRequest`](./mailrequest)。 |
-| [OfxExtension](../../aspose.finance.ofx.email/mailtransactionrequest/ofxextension) { get; set; } | 获取或设置[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype)。 |
-| [TransactionAuthorizationNumber](../../aspose.finance.ofx/abstracttransactionrequest/transactionauthorizationnumber) { get; set; } | 获取或设置交易授权号。 |
+| [MailRequest](../../aspose.finance.ofx.email/mailtransactionrequest/mailrequest) { get; set; } | 获取或设置[`MailRequest`](./mailrequest). |
+| [OfxExtension](../../aspose.finance.ofx.email/mailtransactionrequest/ofxextension) { get; set; } | 获取或设置[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
+| [TransactionAuthorizationNumber](../../aspose.finance.ofx/abstracttransactionrequest/transactionauthorizationnumber) { get; set; } | 获取或设置交易授权号 |
 | [TransactionUniqueId](../../aspose.finance.ofx/abstracttransactionrequest/transactionuniqueid) { get; set; } | 获取或设置此事务的客户端分配的全局唯一 ID |
 
 ### 也可以看看

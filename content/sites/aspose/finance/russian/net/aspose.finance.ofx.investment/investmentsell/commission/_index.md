@@ -1,14 +1,14 @@
 ---
 title: Commission
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает комиссию за транзакцию.
+description: Получает или устанавливает комиссию за транзакцию.
 type: docs
 weight: 20
 url: /ru/net/aspose.finance.ofx.investment/investmentsell/commission/
 ---
 ## InvestmentSell.Commission property
 
-Получает или задает комиссию за транзакцию.
+Получает или устанавливает комиссию за транзакцию.
 
 ```csharp
 public string Commission { get; set; }

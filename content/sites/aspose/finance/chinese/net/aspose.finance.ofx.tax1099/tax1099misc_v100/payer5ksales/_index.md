@@ -1,14 +1,14 @@
 ---
 title: Payer5KSales
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置付款人将 5000 美元或更多的消费品直接销售给收件人进行转售
+description: 获取或设置付款人将 5000 美元或更多的消费品直接销售给收件人以进行转售
 type: docs
 weight: 120
 url: /zh/net/aspose.finance.ofx.tax1099/tax1099misc_v100/payer5ksales/
 ---
 ## Tax1099MISC_V100.Payer5KSales property
 
-获取或设置付款人将 5,000 美元或更多的消费品直接销售给（收件人）进行转售。
+获取或设置付款人将 5,000 美元或更多的消费品直接销售给（收件人）以进行转售。
 
 ```csharp
 public bool Payer5KSales { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: InvestmentStatementRequest
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化InvestmentStatementRequestaspose.finance.ofx.investment/investmentstatementrequest类的新实例
+description: 初始化一个新的实例InvestmentStatementRequestaspose.finance.ofx.investment/investmentstatementrequest类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.investment/investmentstatementrequest/investmentstatementrequest/
 ---
 ## InvestmentStatementRequest constructor
 
-初始化[`InvestmentStatementRequest`](../../investmentstatementrequest)类的新实例。
+初始化一个新的实例[`InvestmentStatementRequest`](../../investmentstatementrequest)类.
 
 ```csharp
 public InvestmentStatementRequest()

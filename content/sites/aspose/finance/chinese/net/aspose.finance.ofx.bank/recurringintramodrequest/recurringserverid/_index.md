@@ -1,14 +1,14 @@
 ---
 title: RecurringServerId
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置服务器分配给正在修改的模型的 ID
+description: 获取或设置服务器分配给正在修改的模型的ID
 type: docs
 weight: 50
 url: /zh/net/aspose.finance.ofx.bank/recurringintramodrequest/recurringserverid/
 ---
 ## RecurringIntraModRequest.RecurringServerId property
 
-获取或设置服务器分配给正在修改的模型的 ID。
+获取或设置服务器分配给正在修改的模型的ID。
 
 ```csharp
 public string RecurringServerId { get; set; }

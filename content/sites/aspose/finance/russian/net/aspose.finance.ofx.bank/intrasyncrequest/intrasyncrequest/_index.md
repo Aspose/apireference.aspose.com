@@ -1,14 +1,14 @@
 ---
 title: IntraSyncRequest
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаIntraSyncRequestaspose.finance.ofx.bank/intrasyncrequest.
+description: Инициализирует новый экземплярIntraSyncRequestaspose.finance.ofx.bank/intrasyncrequest класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.bank/intrasyncrequest/intrasyncrequest/
 ---
 ## IntraSyncRequest constructor
 
-Инициализирует новый экземпляр класса[`IntraSyncRequest`](../../intrasyncrequest).
+Инициализирует новый экземпляр[`IntraSyncRequest`](../../intrasyncrequest) класс.
 
 ```csharp
 public IntraSyncRequest()

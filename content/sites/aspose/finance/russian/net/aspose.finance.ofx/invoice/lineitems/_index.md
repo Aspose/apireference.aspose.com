@@ -1,14 +1,14 @@
 ---
 title: LineItems
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает коллекциюLineItemaspose.finance.ofx/lineitem.
+description: Получает или задает коллекциюLineItemaspose.finance.ofx/lineitem .
 type: docs
 weight: 90
 url: /ru/net/aspose.finance.ofx/invoice/lineitems/
 ---
 ## Invoice.LineItems property
 
-Получает или задает коллекцию[`LineItem`](../../lineitem).
+Получает или задает коллекцию[`LineItem`](../../lineitem) .
 
 ```csharp
 public List<LineItem> LineItems { get; set; }

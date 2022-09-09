@@ -1,14 +1,14 @@
 ---
 title: LoanRate
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置LoanRateTypeaspose.finance.ofx/loanratetype
+description: 获取或设置LoanRateTypeaspose.finance.ofx/loanratetype.
 type: docs
 weight: 40
 url: /zh/net/aspose.finance.ofx.loan/amortizationtransaction/loanrate/
 ---
 ## AmortizationTransaction.LoanRate property
 
-获取或设置[`LoanRateType`](../../../aspose.finance.ofx/loanratetype)。
+获取或设置[`LoanRateType`](../../../aspose.finance.ofx/loanratetype).
 
 ```csharp
 public LoanRateType LoanRate { get; set; }

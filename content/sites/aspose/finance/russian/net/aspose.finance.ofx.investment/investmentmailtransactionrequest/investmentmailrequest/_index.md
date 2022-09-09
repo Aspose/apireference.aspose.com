@@ -1,14 +1,14 @@
 ---
 title: InvestmentMailRequest
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задаетInvestmentMailRequestaspose.finance.ofx.investment/investmentmailtransactionrequest/investmentmailrequest.
+description: Получает или задаетInvestmentMailRequestaspose.finance.ofx.investment/investmentmailtransactionrequest/investmentmailrequest .
 type: docs
 weight: 20
 url: /ru/net/aspose.finance.ofx.investment/investmentmailtransactionrequest/investmentmailrequest/
 ---
 ## InvestmentMailTransactionRequest.InvestmentMailRequest property
 
-Получает или задает`InvestmentMailRequest`.
+Получает или задает`InvestmentMailRequest` .
 
 ```csharp
 public InvestmentMailRequest InvestmentMailRequest { get; set; }

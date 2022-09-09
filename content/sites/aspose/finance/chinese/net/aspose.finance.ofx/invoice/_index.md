@@ -1,14 +1,14 @@
 ---
 title: Invoice
 second_title: Aspose.Finance for .NET API 参考
-description: 发票类
+description: 发票类.
 type: docs
 weight: 3690
 url: /zh/net/aspose.finance.ofx/invoice/
 ---
 ## Invoice class
 
-发票类。
+发票类.
 
 ```csharp
 public class Invoice
@@ -18,20 +18,20 @@ public class Invoice
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Invoice](invoice)() | 初始化[`Invoice`](../invoice)类的新实例。 |
+| [Invoice](invoice)() | 初始化一个新的实例[`Invoice`](../invoice)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Adjustment](../../aspose.finance.ofx/invoice/adjustment) { get; set; } | 获取或设置[`Adjustment`](./adjustment)。 |
-| [Discount](../../aspose.finance.ofx/invoice/discount) { get; set; } | 获取或设置[`Discount`](./discount)。 |
+| [Adjustment](../../aspose.finance.ofx/invoice/adjustment) { get; set; } | 获取或设置[`Adjustment`](./adjustment). |
+| [Discount](../../aspose.finance.ofx/invoice/discount) { get; set; } | 获取或设置[`Discount`](./discount). |
 | [InvoiceDate](../../aspose.finance.ofx/invoice/invoicedate) { get; set; } | 获取或设置应用发票的日期。 |
 | [InvoiceDescription](../../aspose.finance.ofx/invoice/invoicedescription) { get; set; } | 获取或设置发票说明。 |
 | [InvoiceNumber](../../aspose.finance.ofx/invoice/invoicenumber) { get; set; } | 获取或设置与付款相关的发票编号。 |
 | [InvoicePaidAmount](../../aspose.finance.ofx/invoice/invoicepaidamount) { get; set; } | 获取或设置发票金额 |
 | [InvoiceTotalAmount](../../aspose.finance.ofx/invoice/invoicetotalamount) { get; set; } | 获取或设置发票总金额。 |
-| [LineItems](../../aspose.finance.ofx/invoice/lineitems) { get; set; } | 获取或设置[`LineItem`](../lineitem)的集合。 |
+| [LineItems](../../aspose.finance.ofx/invoice/lineitems) { get; set; } | 获取或设置的集合[`LineItem`](../lineitem). |
 
 ### 也可以看看
 

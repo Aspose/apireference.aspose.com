@@ -1,14 +1,14 @@
 ---
 title: NodeValue
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает значение данного узла в зависимости от его типа.
+description: Получает или задает значение этого узла в зависимости от его типа.
 type: docs
 weight: 110
 url: /ru/net/aspose.finance.xbrl.dom/node/nodevalue/
 ---
 ## Node.NodeValue property
 
-Получает или задает значение данного узла в зависимости от его типа.
+Получает или задает значение этого узла в зависимости от его типа.
 
 ```csharp
 public virtual string NodeValue { get; set; }

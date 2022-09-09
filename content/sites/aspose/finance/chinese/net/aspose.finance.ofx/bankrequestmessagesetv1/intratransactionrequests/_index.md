@@ -1,14 +1,14 @@
 ---
 title: IntraTransactionRequests
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置IntraTransactionRequestaspose.finance.ofx.bank/intratransactionrequest的集合
+description: 获取或设置的集合IntraTransactionRequestaspose.finance.ofx.bank/intratransactionrequest.
 type: docs
 weight: 50
 url: /zh/net/aspose.finance.ofx/bankrequestmessagesetv1/intratransactionrequests/
 ---
 ## BankRequestMessageSetV1.IntraTransactionRequests property
 
-获取或设置[`IntraTransactionRequest`](../../../aspose.finance.ofx.bank/intratransactionrequest)的集合。
+获取或设置的集合[`IntraTransactionRequest`](../../../aspose.finance.ofx.bank/intratransactionrequest).
 
 ```csharp
 public List<IntraTransactionRequest> IntraTransactionRequests { get; set; }

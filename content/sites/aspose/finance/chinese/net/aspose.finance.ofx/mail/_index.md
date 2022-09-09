@@ -1,14 +1,14 @@
 ---
 title: Mail
 second_title: Aspose.Finance for .NET API 参考
-description: 邮件类
+description: 邮件类.
 type: docs
 weight: 4150
 url: /zh/net/aspose.finance.ofx/mail/
 ---
 ## Mail class
 
-邮件类。
+邮件类.
 
 ```csharp
 public class Mail
@@ -18,7 +18,7 @@ public class Mail
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Mail](mail)() | 初始化[`Mail`](../mail)类的新实例。 |
+| [Mail](mail)() | 初始化一个新的实例[`Mail`](../mail)类. |
 
 ## 特性
 
@@ -26,12 +26,12 @@ public class Mail
 | --- | --- |
 | [CreatedDate](../../aspose.finance.ofx/mail/createddate) { get; set; } | 在创建消息时获取或设置。 |
 | [From](../../aspose.finance.ofx/mail/from) { get; set; } | 获取或设置消息来自谁。 |
-| [IncludeImages](../../aspose.finance.ofx/mail/includeimages) { get; set; } | 获取或设置消息正文中是否包含图片。 |
-| [MessageBody](../../aspose.finance.ofx/mail/messagebody) { get; set; } | 获取或设置邮件正文、HTML 编码或纯文本。 |
+| [IncludeImages](../../aspose.finance.ofx/mail/includeimages) { get; set; } | 获取或设置是否在消息体中包含图片。 |
+| [MessageBody](../../aspose.finance.ofx/mail/messagebody) { get; set; } | 获取或设置邮件正文，HTML 编码或纯文本。 |
 | [Subject](../../aspose.finance.ofx/mail/subject) { get; set; } | 获取或设置消息的主题（纯文本，不是 HTML）。 |
 | [To](../../aspose.finance.ofx/mail/to) { get; set; } | 获取或设置消息应该传递给谁。 |
 | [UseHtml](../../aspose.finance.ofx/mail/usehtml) { get; set; } | 对于 HTML 格式的文本为真。纯文本为 False。 |
-| [UserId](../../aspose.finance.ofx/mail/userid) { get; set; } | 获取或设置用户标识。 |
+| [UserId](../../aspose.finance.ofx/mail/userid) { get; set; } | 获取或设置用户标识 |
 
 ### 也可以看看
 

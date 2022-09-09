@@ -1,14 +1,14 @@
 ---
 title: StudentAddress
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаStudentAddressaspose.finance.ofx.tax1098/studentaddress.
+description: Инициализирует новый экземплярStudentAddressaspose.finance.ofx.tax1098/studentaddress класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.tax1098/studentaddress/studentaddress/
 ---
 ## StudentAddress constructor
 
-Инициализирует новый экземпляр класса[`StudentAddress`](../../studentaddress).
+Инициализирует новый экземпляр[`StudentAddress`](../../studentaddress) класс.
 
 ```csharp
 public StudentAddress()

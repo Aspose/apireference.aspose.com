@@ -1,14 +1,14 @@
 ---
 title: CanEmail
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает поддерживает ли общий адрес электронной почты ссуды.
+description: Получает или задает поддерживает ли электронная почта общего кредита.
 type: docs
 weight: 30
 url: /ru/net/aspose.finance.ofx.profile/loanmessagesetv1/canemail/
 ---
 ## LoanMessageSetV1.CanEmail property
 
-Получает или задает, поддерживает ли общий адрес электронной почты ссуды.
+Получает или задает, поддерживает ли электронная почта общего кредита.
 
 ```csharp
 public bool CanEmail { get; set; }

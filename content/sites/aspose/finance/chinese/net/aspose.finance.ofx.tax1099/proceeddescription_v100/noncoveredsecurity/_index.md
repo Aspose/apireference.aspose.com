@@ -1,14 +1,14 @@
 ---
 title: NoncoveredSecurity
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置非覆盖安全
+description: 获取或设置非覆盖证券
 type: docs
 weight: 100
 url: /zh/net/aspose.finance.ofx.tax1099/proceeddescription_v100/noncoveredsecurity/
 ---
 ## ProceedDescription_V100.NoncoveredSecurity property
 
-获取或设置非覆盖安全。
+获取或设置非覆盖证券。
 
 ```csharp
 public bool NoncoveredSecurity { get; set; }

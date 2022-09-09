@@ -1,14 +1,14 @@
 ---
 title: InvestmentBuy
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задаетInvestmentBuyaspose.finance.ofx.investment/abstractinvestmentbuytransaction/investmentbuy.
+description: Получает или задаетInvestmentBuyaspose.finance.ofx.investment/abstractinvestmentbuytransaction/investmentbuy .
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.investment/abstractinvestmentbuytransaction/investmentbuy/
 ---
 ## AbstractInvestmentBuyTransaction.InvestmentBuy property
 
-Получает или задает`InvestmentBuy`.
+Получает или задает`InvestmentBuy` .
 
 ```csharp
 public InvestmentBuy InvestmentBuy { get; set; }

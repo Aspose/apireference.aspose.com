@@ -18,15 +18,15 @@ public class Investment401kBalance
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Investment401kBalance](investment401kbalance)() | 初始化[`Investment401kBalance`](../investment401kbalance)类的新实例。 |
+| [Investment401kBalance](investment401kbalance)() | 初始化一个新的实例[`Investment401kBalance`](../investment401kbalance)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [AfterTax](../../aspose.finance.ofx.investment/investment401kbalance/aftertax) { get; set; } | 获取或设置使用税后员工供款购买的所有证券的当前价值。 |
-| [BalanceList](../../aspose.finance.ofx.investment/investment401kbalance/balancelist) { get; set; } | 获取或设置[`Balance`](../../aspose.finance.ofx/balance)的集合。 |
-| [CashBalance](../../aspose.finance.ofx.investment/investment401kbalance/cashbalance) { get; set; } | 获取或设置 401(k) 帐户可用的现金余额。 |
+| [AfterTax](../../aspose.finance.ofx.investment/investment401kbalance/aftertax) { get; set; } | 获取或设置使用税后员工缴款购买的所有证券的当前价值。 |
+| [BalanceList](../../aspose.finance.ofx.investment/investment401kbalance/balancelist) { get; set; } | 获取或设置的集合[`Balance`](../../aspose.finance.ofx/balance). |
+| [CashBalance](../../aspose.finance.ofx.investment/investment401kbalance/cashbalance) { get; set; } | 获取或设置 401(k) 账户可用的现金余额。 |
 | [Match](../../aspose.finance.ofx.investment/investment401kbalance/match) { get; set; } | 获取或设置使用雇主匹配供款购买的所有证券的当前价值。 |
 | [OtherNonvest](../../aspose.finance.ofx.investment/investment401kbalance/othernonvest) { get; set; } | 获取或设置使用其他（非归属）雇主供款购买的所有证券的当前价值。 |
 | [OtherVest](../../aspose.finance.ofx.investment/investment401kbalance/othervest) { get; set; } | 获取或设置使用其他（归属）雇主供款购买的所有证券的当前价值。 |

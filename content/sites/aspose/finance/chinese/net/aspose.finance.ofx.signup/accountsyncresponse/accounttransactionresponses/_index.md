@@ -1,14 +1,14 @@
 ---
 title: AccountTransactionResponses
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置AccountTransactionResponseaspose.finance.ofx.signup/accounttransactionresponse的集合
+description: 获取或设置的集合AccountTransactionResponseaspose.finance.ofx.signup/accounttransactionresponse.
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.ofx.signup/accountsyncresponse/accounttransactionresponses/
 ---
 ## AccountSyncResponse.AccountTransactionResponses property
 
-获取或设置[`AccountTransactionResponse`](../../accounttransactionresponse)的集合。
+获取或设置的集合[`AccountTransactionResponse`](../../accounttransactionresponse).
 
 ```csharp
 public List<AccountTransactionResponse> AccountTransactionResponses { get; set; }

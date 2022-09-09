@@ -8,7 +8,7 @@ url: /zh/net/aspose.finance.ofx.signon/pinchangeresponse/
 ---
 ## PinChangeResponse class
 
-用户密码更改响应类。
+用户密码更改响应类
 
 ```csharp
 public class PinChangeResponse
@@ -18,7 +18,7 @@ public class PinChangeResponse
 
 | 姓名 | 描述 |
 | --- | --- |
-| [PinChangeResponse](pinchangeresponse)() | 初始化[`PinChangeResponse`](../pinchangeresponse)类的新实例。 |
+| [PinChangeResponse](pinchangeresponse)() | 初始化一个新的实例[`PinChangeResponse`](../pinchangeresponse)类. |
 
 ## 特性
 

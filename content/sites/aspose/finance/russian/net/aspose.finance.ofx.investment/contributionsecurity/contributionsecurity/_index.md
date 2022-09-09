@@ -1,14 +1,14 @@
 ---
 title: ContributionSecurity
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаContributionSecurityaspose.finance.ofx.investment/contributionsecurity.
+description: Инициализирует новый экземплярContributionSecurityaspose.finance.ofx.investment/contributionsecurity класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.investment/contributionsecurity/contributionsecurity/
 ---
 ## ContributionSecurity constructor
 
-Инициализирует новый экземпляр класса[`ContributionSecurity`](../../contributionsecurity).
+Инициализирует новый экземпляр[`ContributionSecurity`](../../contributionsecurity) класс.
 
 ```csharp
 public ContributionSecurity()

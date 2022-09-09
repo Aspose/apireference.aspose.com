@@ -1,14 +1,14 @@
 ---
 title: Wages
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или устанавливает заработную плату чаевые другие компенсации.
+description: Получает или устанавливает заработную плату чаевые другую компенсацию.
 type: docs
 weight: 190
 url: /ru/net/aspose.finance.ofx.taxw2/taxw2_v100/wages/
 ---
 ## TaxW2_V100.Wages property
 
-Получает или устанавливает заработную плату, чаевые, другие компенсации.
+Получает или устанавливает заработную плату, чаевые, другую компенсацию.
 
 ```csharp
 public string Wages { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: PresentmentAccount
 second_title: Aspose.Finance for .NET API 参考
-description: 此类通过帐单发布者帐单 ID 和帐号的组合来唯一标识客户的帐单帐户
+description: 此类通过账单发布者账单 ID 和帐号的组合来唯一标识客户在账单中的账户
 type: docs
 weight: 4270
 url: /zh/net/aspose.finance.ofx/presentmentaccount/
 ---
 ## PresentmentAccount class
 
-此类通过帐单发布者、帐单 ID 和帐号的组合来唯一标识客户的帐单帐户。
+此类通过账单发布者、账单 ID 和帐号的组合来唯一标识客户在账单中的账户。
 
 ```csharp
 public class PresentmentAccount : AbstractAccount
@@ -18,7 +18,7 @@ public class PresentmentAccount : AbstractAccount
 
 | 姓名 | 描述 |
 | --- | --- |
-| [PresentmentAccount](presentmentaccount)() | 初始化[`PresentmentAccount`](../presentmentaccount)类的新实例。 |
+| [PresentmentAccount](presentmentaccount)() | 初始化一个新的实例[`PresentmentAccount`](../presentmentaccount)类. |
 
 ## 特性
 
@@ -26,11 +26,11 @@ public class PresentmentAccount : AbstractAccount
 | --- | --- |
 | [AccountId](../../aspose.finance.ofx/presentmentaccount/accountid) { get; set; } | 获取或设置帐号。 |
 | [BillerId](../../aspose.finance.ofx/presentmentaccount/billerid) { get; set; } | 获取或设置此帐单发布者的帐单 ID。 |
-| [BillerName](../../aspose.finance.ofx/presentmentaccount/billername) { get; set; } | 获取或设置计费者名称。 |
+| [BillerName](../../aspose.finance.ofx/presentmentaccount/billername) { get; set; } | 获取或设置帐单名称。 |
 | [BillPublisher](../../aspose.finance.ofx/presentmentaccount/billpublisher) { get; set; } | 获取或设置票据发布者的官方标准名称。 |
 | [PayeeId](../../aspose.finance.ofx/presentmentaccount/payeeid) { get; set; } | 获取或设置收款人标识符。在用户的支付提供商处标识此 Biller。 |
-| [PayeeListId](../../aspose.finance.ofx/presentmentaccount/payeelistid) { get; set; } | 获取或设置收款人列表标识符。在其支付提供商的用户收款人列表中标识此 Biller。 |
-| [PresentmentNameAddress](../../aspose.finance.ofx/presentmentaccount/presentmentnameaddress) { get; set; } | 获取或设置[`PresentmentNameAddress`](./presentmentnameaddress)。 |
+| [PayeeListId](../../aspose.finance.ofx/presentmentaccount/payeelistid) { get; set; } | 获取或设置收款人列表标识符。在其支付提供商处的用户收款人列表中识别此 Biller。 |
+| [PresentmentNameAddress](../../aspose.finance.ofx/presentmentaccount/presentmentnameaddress) { get; set; } | 获取或设置[`PresentmentNameAddress`](./presentmentnameaddress). |
 | [ServiceProviderName](../../aspose.finance.ofx/presentmentaccount/serviceprovidername) { get; set; } | 获取或设置服务提供者名称。 |
 | [UserId](../../aspose.finance.ofx/presentmentaccount/userid) { get; set; } | 获取或设置客户的用户 ID。 |
 

@@ -1,14 +1,14 @@
 ---
 title: ChangeUserInfoSyncRequest
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаChangeUserInfoSyncRequestaspose.finance.ofx.signup/changeuserinfosyncrequest.
+description: Инициализирует новый экземплярChangeUserInfoSyncRequestaspose.finance.ofx.signup/changeuserinfosyncrequest класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.signup/changeuserinfosyncrequest/changeuserinfosyncrequest/
 ---
 ## ChangeUserInfoSyncRequest constructor
 
-Инициализирует новый экземпляр класса[`ChangeUserInfoSyncRequest`](../../changeuserinfosyncrequest).
+Инициализирует новый экземпляр[`ChangeUserInfoSyncRequest`](../../changeuserinfosyncrequest) класс.
 
 ```csharp
 public ChangeUserInfoSyncRequest()

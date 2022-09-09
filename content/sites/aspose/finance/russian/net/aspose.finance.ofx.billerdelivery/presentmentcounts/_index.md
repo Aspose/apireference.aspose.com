@@ -1,14 +1,14 @@
 ---
 title: PresentmentCounts
 second_title: Справочник по API Aspose.Finance для .NET
-description: Класс Билла Каунта.
+description: Класс счета счетов.
 type: docs
 weight: 1600
 url: /ru/net/aspose.finance.ofx.billerdelivery/presentmentcounts/
 ---
 ## PresentmentCounts class
 
-Класс Билла Каунта.
+Класс счета счетов.
 
 ```csharp
 public class PresentmentCounts
@@ -18,14 +18,14 @@ public class PresentmentCounts
 
 | Имя | Описание |
 | --- | --- |
-| [PresentmentCounts](presentmentcounts)() | Инициализирует новый экземпляр класса[`PresentmentCounts`](../presentmentcounts). |
+| [PresentmentCounts](presentmentcounts)() | Инициализирует новый экземпляр[`PresentmentCounts`](../presentmentcounts) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [BillPaymentStatusCounts](../../aspose.finance.ofx.billerdelivery/presentmentcounts/billpaymentstatuscounts) { get; set; } | Получает или задает коллекцию[`BillPaymentStatusCounts`](../billpaymentstatuscounts). |
-| [BillStatusCounts](../../aspose.finance.ofx.billerdelivery/presentmentcounts/billstatuscounts) { get; set; } | Получает или задает коллекцию[`BillStatusCounts`](../billstatuscounts). |
+| [BillPaymentStatusCounts](../../aspose.finance.ofx.billerdelivery/presentmentcounts/billpaymentstatuscounts) { get; set; } | Получает или задает коллекцию[`BillPaymentStatusCounts`](../billpaymentstatuscounts) . |
+| [BillStatusCounts](../../aspose.finance.ofx.billerdelivery/presentmentcounts/billstatuscounts) { get; set; } | Получает или задает коллекцию[`BillStatusCounts`](../billstatuscounts) . |
 
 ### Смотрите также
 

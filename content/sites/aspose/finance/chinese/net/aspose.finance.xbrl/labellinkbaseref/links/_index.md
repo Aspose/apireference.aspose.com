@@ -1,14 +1,14 @@
 ---
 title: Links
 second_title: Aspose.Finance for .NET API 参考
-description: 获取LabelLinkaspose.finance.xbrl/labellink的集合
+description: 获取集合LabelLinkaspose.finance.xbrl/labellink.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.xbrl/labellinkbaseref/links/
 ---
 ## LabelLinkbaseRef.Links property
 
-获取[`LabelLink`](../../labellink)的集合。
+获取集合[`LabelLink`](../../labellink).
 
 ```csharp
 public List<LabelLink> Links { get; }

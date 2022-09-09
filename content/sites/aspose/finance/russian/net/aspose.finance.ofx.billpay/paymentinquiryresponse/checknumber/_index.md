@@ -1,14 +1,14 @@
 ---
 title: CheckNumber
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает номер чека присвоенный сервером данному платежу.
+description: Получает или задает контрольный номер присвоенный сервером этому платежу.
 type: docs
 weight: 20
 url: /ru/net/aspose.finance.ofx.billpay/paymentinquiryresponse/checknumber/
 ---
 ## PaymentInquiryResponse.CheckNumber property
 
-Получает или задает номер чека, присвоенный сервером данному платежу.
+Получает или задает контрольный номер, присвоенный сервером этому платежу.
 
 ```csharp
 public string CheckNumber { get; set; }

@@ -8,7 +8,7 @@ url: /zh/net/aspose.finance.ofx/accountinforesponse/
 ---
 ## AccountInfoResponse class
 
-账户信息响应类。
+账户信息响应类
 
 ```csharp
 public class AccountInfoResponse
@@ -18,13 +18,13 @@ public class AccountInfoResponse
 
 | 姓名 | 描述 |
 | --- | --- |
-| [AccountInfoResponse](accountinforesponse)() | 初始化[`AccountInfoResponse`](../accountinforesponse)类的新实例。 |
+| [AccountInfoResponse](accountinforesponse)() | 初始化一个新的实例[`AccountInfoResponse`](../accountinforesponse)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [AccountInfos](../../aspose.finance.ofx/accountinforesponse/accountinfos) { get; set; } | 获取或设置[`AccountInfo`](../accountinfo)的集合。 |
+| [AccountInfos](../../aspose.finance.ofx/accountinforesponse/accountinfos) { get; set; } | 获取或设置的集合[`AccountInfo`](../accountinfo). |
 | [AccountUpdateDate](../../aspose.finance.ofx/accountinforesponse/accountupdatedate) { get; set; } | 获取或设置上次更新服务器上帐户信息的日期和时间。 |
 
 ### 也可以看看

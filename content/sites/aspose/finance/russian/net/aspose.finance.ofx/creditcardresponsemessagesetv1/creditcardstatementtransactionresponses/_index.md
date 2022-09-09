@@ -1,14 +1,14 @@
 ---
 title: CreditCardStatementTransactionResponses
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает коллекциюCreditCardStatementTransactionResponseaspose.finance.ofx.creditcard/creditcardstatementtransactionresponse.
+description: Получает или задает коллекциюCreditCardStatementTransactionResponseaspose.finance.ofx.creditcard/creditcardstatementtransactionresponse .
 type: docs
 weight: 30
 url: /ru/net/aspose.finance.ofx/creditcardresponsemessagesetv1/creditcardstatementtransactionresponses/
 ---
 ## CreditcardResponseMessageSetV1.CreditCardStatementTransactionResponses property
 
-Получает или задает коллекцию[`CreditCardStatementTransactionResponse`](../../../aspose.finance.ofx.creditcard/creditcardstatementtransactionresponse).
+Получает или задает коллекцию[`CreditCardStatementTransactionResponse`](../../../aspose.finance.ofx.creditcard/creditcardstatementtransactionresponse) .
 
 ```csharp
 public List<CreditCardStatementTransactionResponse> 

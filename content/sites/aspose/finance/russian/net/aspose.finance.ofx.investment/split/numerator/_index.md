@@ -1,14 +1,14 @@
 ---
 title: Numerator
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает числитель коэффициента разделения для разделения акций.
+description: Получает или задает числитель коэффициента разделения для дробления акций.
 type: docs
 weight: 70
 url: /ru/net/aspose.finance.ofx.investment/split/numerator/
 ---
 ## Split.Numerator property
 
-Получает или задает числитель коэффициента разделения для разделения акций.
+Получает или задает числитель коэффициента разделения для дробления акций.
 
 ```csharp
 public string Numerator { get; set; }

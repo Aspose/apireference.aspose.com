@@ -1,14 +1,14 @@
 ---
 title: InvestmentMailSyncRequests
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置InvestmentMailSyncRequestaspose.finance.ofx.investment/investmentmailsyncrequest的集合
+description: 获取或设置的集合InvestmentMailSyncRequestaspose.finance.ofx.investment/investmentmailsyncrequest.
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.ofx/investmentstatementrequestmessagesetv1/investmentmailsyncrequests/
 ---
 ## InvestmentStatementRequestMessageSetV1.InvestmentMailSyncRequests property
 
-获取或设置[`InvestmentMailSyncRequest`](../../../aspose.finance.ofx.investment/investmentmailsyncrequest)的集合。
+获取或设置的集合[`InvestmentMailSyncRequest`](../../../aspose.finance.ofx.investment/investmentmailsyncrequest).
 
 ```csharp
 public List<InvestmentMailSyncRequest> InvestmentMailSyncRequests { get; set; }

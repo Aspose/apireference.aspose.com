@@ -1,14 +1,14 @@
 ---
 title: ContextPeriod
 second_title: Aspose.Finance for .NET API 参考
-description: 使用 Duration 类型初始化ContextPeriodaspose.finance.xbrl/contextperiod类的新实例
+description: 初始化一个新的实例ContextPeriodaspose.finance.xbrl/contextperiod持续时间类型的类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.xbrl/contextperiod/contextperiod/
 ---
 ## ContextPeriod(DateTime, DateTime) {#constructor_2}
 
-使用 Duration 类型初始化[`ContextPeriod`](../../contextperiod)类的新实例。
+初始化一个新的实例[`ContextPeriod`](../../contextperiod)持续时间类型的类.
 
 ```csharp
 public ContextPeriod(DateTime startDate, DateTime endDate)
@@ -29,7 +29,7 @@ public ContextPeriod(DateTime startDate, DateTime endDate)
 
 ## ContextPeriod(DateTime) {#constructor_1}
 
-使用 Instant 类型初始化[`ContextPeriod`](../../contextperiod)类的新实例。
+初始化一个新的实例[`ContextPeriod`](../../contextperiod)即时类型的类.
 
 ```csharp
 public ContextPeriod(DateTime instantDate)
@@ -49,7 +49,7 @@ public ContextPeriod(DateTime instantDate)
 
 ## ContextPeriod(ContextPeriodType) {#constructor}
 
-初始化[`ContextPeriod`](../../contextperiod)类的新实例。
+初始化一个新的实例[`ContextPeriod`](../../contextperiod)类.
 
 ```csharp
 public ContextPeriod(ContextPeriodType peroidType)
@@ -57,7 +57,7 @@ public ContextPeriod(ContextPeriodType peroidType)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| peroidType | ContextPeriodType | 周期类型。 |
+| peroidType | ContextPeriodType | 期间类型。 |
 
 ### 也可以看看
 

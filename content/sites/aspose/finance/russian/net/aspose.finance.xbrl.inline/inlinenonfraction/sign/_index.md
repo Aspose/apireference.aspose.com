@@ -1,14 +1,14 @@
 ---
 title: Sign
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает знакInlineNonfractionaspose.finance.xbrl.inline/inlinenonfraction.
+description: Получает или задает знакInlineNonfractionaspose.finance.xbrl.inline/inlinenonfraction .
 type: docs
 weight: 100
 url: /ru/net/aspose.finance.xbrl.inline/inlinenonfraction/sign/
 ---
 ## InlineNonfraction.Sign property
 
-Получает или задает знак[`InlineNonfraction`](../../inlinenonfraction).
+Получает или задает знак[`InlineNonfraction`](../../inlinenonfraction) .
 
 ```csharp
 public string Sign { get; set; }

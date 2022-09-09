@@ -1,14 +1,14 @@
 ---
 title: EscrowInsuranceBalance
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает страховой баланс хранящийся на условном депонировании.
+description: Получает или задает остаток страховки хранящейся на условном депонировании.
 type: docs
 weight: 50
 url: /ru/net/aspose.finance.ofx.loan/escrowbalance/escrowinsurancebalance/
 ---
 ## EscrowBalance.EscrowInsuranceBalance property
 
-Получает или задает страховой баланс, хранящийся на условном депонировании.
+Получает или задает остаток страховки, хранящейся на условном депонировании.
 
 ```csharp
 public string EscrowInsuranceBalance { get; set; }

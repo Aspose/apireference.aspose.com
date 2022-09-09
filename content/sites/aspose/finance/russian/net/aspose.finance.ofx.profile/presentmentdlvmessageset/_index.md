@@ -1,14 +1,14 @@
 ---
 title: PresentmentDlvMessageSet
 second_title: Справочник по API Aspose.Finance для .NET
-description: Установлено сообщение о доставке биллера.
+description: Набор сообщений о доставке биллера.
 type: docs
 weight: 4650
 url: /ru/net/aspose.finance.ofx.profile/presentmentdlvmessageset/
 ---
 ## PresentmentDlvMessageSet class
 
-Установлено сообщение о доставке биллера.
+Набор сообщений о доставке биллера.
 
 ```csharp
 public class PresentmentDlvMessageSet : AbstractMessageSet
@@ -18,13 +18,13 @@ public class PresentmentDlvMessageSet : AbstractMessageSet
 
 | Имя | Описание |
 | --- | --- |
-| [PresentmentDlvMessageSet](presentmentdlvmessageset)() | Инициализирует новый экземпляр класса[`PresentmentDlvMessageSet`](../presentmentdlvmessageset). |
+| [PresentmentDlvMessageSet](presentmentdlvmessageset)() | Инициализирует новый экземпляр[`PresentmentDlvMessageSet`](../presentmentdlvmessageset) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [PresentmentDlvMessageSetV1s](../../aspose.finance.ofx.profile/presentmentdlvmessageset/presentmentdlvmessagesetv1s) { get; set; } | Получает или задает коллекцию[`PresentmentDlvMessageSetV1`](../presentmentdlvmessagesetv1). |
+| [PresentmentDlvMessageSetV1s](../../aspose.finance.ofx.profile/presentmentdlvmessageset/presentmentdlvmessagesetv1s) { get; set; } | Получает или задает коллекцию[`PresentmentDlvMessageSetV1`](../presentmentdlvmessagesetv1) . |
 
 ### Смотрите также
 

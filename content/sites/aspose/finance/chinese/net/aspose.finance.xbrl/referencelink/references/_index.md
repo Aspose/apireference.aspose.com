@@ -1,14 +1,14 @@
 ---
 title: References
 second_title: Aspose.Finance for .NET API 参考
-description: 获取Referenceaspose.finance.xbrl/reference的集合
+description: 获取集合Referenceaspose.finance.xbrl/reference.
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.xbrl/referencelink/references/
 ---
 ## ReferenceLink.References property
 
-获取[`Reference`](../../reference)的集合。
+获取集合[`Reference`](../../reference).
 
 ```csharp
 public List<Reference> References { get; }

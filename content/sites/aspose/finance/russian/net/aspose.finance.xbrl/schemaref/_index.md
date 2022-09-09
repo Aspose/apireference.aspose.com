@@ -20,15 +20,15 @@ public class SchemaRef : SimpleLink
 | --- | --- |
 | [Actuate](../../aspose.finance.xbrl/simplelink/actuate) { get; set; } | Получает или задает атрибут активации простой ссылки. |
 | [Arcrole](../../aspose.finance.xbrl/simplelink/arcrole) { get; set; } | Получает или задает роль дуги простой ссылки. |
-| [ArcroleTypes](../../aspose.finance.xbrl/schemaref/arcroletypes) { get; set; } | Получает коллекцию объектов[`ArcroleType`](../arcroletype)в схеме. |
+| [ArcroleTypes](../../aspose.finance.xbrl/schemaref/arcroletypes) { get; set; } | Получает коллекцию[`ArcroleType`](../arcroletype) объекты в схеме. |
 | [ChildSchemas](../../aspose.finance.xbrl/schemaref/childschemas) { get; } | Получает дочерние схемы. |
-| [Concepts](../../aspose.finance.xbrl/schemaref/concepts) { get; } | Получает коллекцию[`Concept`](../concept), определенную в схеме. |
+| [Concepts](../../aspose.finance.xbrl/schemaref/concepts) { get; } | Получает коллекцию[`Concept`](../concept) определено в схеме. |
 | [Href](../../aspose.finance.xbrl/simplelink/href) { get; set; } | Получает или задает URI href простой ссылки. |
-| [LinkbaseRefCollection](../../aspose.finance.xbrl/schemaref/linkbaserefcollection) { get; } | Получает[`LinkbaseRefCollection`](./linkbaserefcollection)в схеме. |
-| [NamespacePrefix](../../aspose.finance.xbrl/schemaref/namespaceprefix) { get; set; } | Получает или задает префикс пространства имен схемы в отчете XBRL. |
+| [LinkbaseRefCollection](../../aspose.finance.xbrl/schemaref/linkbaserefcollection) { get; } | Получает[`LinkbaseRefCollection`](./linkbaserefcollection) в схеме. |
+| [NamespacePrefix](../../aspose.finance.xbrl/schemaref/namespaceprefix) { get; set; } | Получает или задает префикс пространства имен схемы в экземпляре XBRL. |
 | [NamespaceUri](../../aspose.finance.xbrl/schemaref/namespaceuri) { get; set; } | Получает или задает URI пространства имен схемы в экземпляре XBRL. |
 | [Role](../../aspose.finance.xbrl/simplelink/role) { get; set; } | Получает или задает роль простой ссылки. |
-| [RoleTypes](../../aspose.finance.xbrl/schemaref/roletypes) { get; set; } | Получает коллекцию объектов[`RoleType`](../roletype)в схеме. |
+| [RoleTypes](../../aspose.finance.xbrl/schemaref/roletypes) { get; set; } | Получает коллекцию[`RoleType`](../roletype) объекты в схеме. |
 | [Show](../../aspose.finance.xbrl/simplelink/show) { get; set; } | Получает или задает атрибут показа простой ссылки. |
 | [TargetNamespace](../../aspose.finance.xbrl/schemaref/targetnamespace) { get; set; } | Получает или задает целевое пространство имен схемы. |
 | [Title](../../aspose.finance.xbrl/simplelink/title) { get; set; } | Получает или задает простой заголовок ссылки. |
@@ -42,7 +42,7 @@ public class SchemaRef : SimpleLink
 | [GetConceptById](../../aspose.finance.xbrl/schemaref/getconceptbyid)(string) | Получает концепт с указанным идентификатором. |
 | [GetConceptByLoc](../../aspose.finance.xbrl/schemaref/getconceptbyloc)(Loc) | Получает концепт по локатору. |
 | [GetConceptByName](../../aspose.finance.xbrl/schemaref/getconceptbyname)(string) | Получает концепт с указанным именем. |
-| [GetRoleTypeByURI](../../aspose.finance.xbrl/schemaref/getroletypebyuri)(string) | Получает тип роли с указанным uri. |
+| [GetRoleTypeByURI](../../aspose.finance.xbrl/schemaref/getroletypebyuri)(string) | Получает RoleType с указанным uri. |
 
 ### Смотрите также
 

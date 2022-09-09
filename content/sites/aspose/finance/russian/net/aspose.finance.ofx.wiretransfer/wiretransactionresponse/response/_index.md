@@ -1,14 +1,14 @@
 ---
 title: Response
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задаетWireResponseaspose.finance.ofx.wiretransfer/wireresponseилиWireCancellationResponseaspose.finance.ofx.wiretransfer/wirecancellationresponse.
+description: Получает или задаетWireResponseaspose.finance.ofx.wiretransfer/wireresponse или жеWireCancellationResponseaspose.finance.ofx.wiretransfer/wirecancellationresponse .
 type: docs
 weight: 30
 url: /ru/net/aspose.finance.ofx.wiretransfer/wiretransactionresponse/response/
 ---
 ## WireTransactionResponse.Response property
 
-Получает или задает[`WireResponse`](../../wireresponse)или[`WireCancellationResponse`](../../wirecancellationresponse).
+Получает или задает[`WireResponse`](../../wireresponse) или же[`WireCancellationResponse`](../../wirecancellationresponse) .
 
 ```csharp
 public AbstractWireResponse Response { get; set; }

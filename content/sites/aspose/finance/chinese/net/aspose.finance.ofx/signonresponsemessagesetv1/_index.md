@@ -1,14 +1,14 @@
 ---
 title: SignonResponseMessageSetV1
 second_title: Aspose.Finance for .NET API 参考
-description: 登录响应消息设置版本 1 类
+description: 登录响应消息集版本 1 类
 type: docs
 weight: 5440
 url: /zh/net/aspose.finance.ofx/signonresponsemessagesetv1/
 ---
 ## SignonResponseMessageSetV1 class
 
-登录响应消息设置版本 1 类。
+登录响应消息集版本 1 类。
 
 ```csharp
 public class SignonResponseMessageSetV1 : AbstractResponseMessageSet
@@ -18,15 +18,15 @@ public class SignonResponseMessageSetV1 : AbstractResponseMessageSet
 
 | 姓名 | 描述 |
 | --- | --- |
-| [SignonResponseMessageSetV1](signonresponsemessagesetv1)() | 初始化[`SignonResponseMessageSetV1`](../signonresponsemessagesetv1)类的新实例。 |
+| [SignonResponseMessageSetV1](signonresponsemessagesetv1)() | 初始化一个新的实例[`SignonResponseMessageSetV1`](../signonresponsemessagesetv1)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [ChallengeTransactionResponse](../../aspose.finance.ofx/signonresponsemessagesetv1/challengetransactionresponse) { get; set; } | 获取或设置[`ChallengeTransactionResponse`](../../aspose.finance.ofx.signon/challengetransactionresponse)。 |
-| [PinChangeTransactionResponse](../../aspose.finance.ofx/signonresponsemessagesetv1/pinchangetransactionresponse) { get; set; } | 获取或设置[`PinChangeTransactionResponse`](../../aspose.finance.ofx.signon/pinchangetransactionresponse)。 |
-| [SignonResponse](../../aspose.finance.ofx/signonresponsemessagesetv1/signonresponse) { get; set; } | 获取或设置[`SignonResponse`](../../aspose.finance.ofx.signon/signonresponse)。 |
+| [ChallengeTransactionResponse](../../aspose.finance.ofx/signonresponsemessagesetv1/challengetransactionresponse) { get; set; } | 获取或设置[`ChallengeTransactionResponse`](../../aspose.finance.ofx.signon/challengetransactionresponse). |
+| [PinChangeTransactionResponse](../../aspose.finance.ofx/signonresponsemessagesetv1/pinchangetransactionresponse) { get; set; } | 获取或设置[`PinChangeTransactionResponse`](../../aspose.finance.ofx.signon/pinchangetransactionresponse). |
+| [SignonResponse](../../aspose.finance.ofx/signonresponsemessagesetv1/signonresponse) { get; set; } | 获取或设置[`SignonResponse`](../../aspose.finance.ofx.signon/signonresponse). |
 
 ### 也可以看看
 

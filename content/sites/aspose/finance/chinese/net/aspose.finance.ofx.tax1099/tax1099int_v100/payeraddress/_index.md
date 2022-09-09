@@ -1,14 +1,14 @@
 ---
 title: PayerAddress
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置PayerAddressaspose.finance.ofx.tax1099/tax1099int_v100/payeraddress
+description: 获取或设置PayerAddressaspose.finance.ofx.tax1099/tax1099int_v100/payeraddress.
 type: docs
 weight: 140
 url: /zh/net/aspose.finance.ofx.tax1099/tax1099int_v100/payeraddress/
 ---
 ## Tax1099INT_V100.PayerAddress property
 
-获取或设置`PayerAddress`。
+获取或设置`PayerAddress`.
 
 ```csharp
 public PayerAddress PayerAddress { get; set; }

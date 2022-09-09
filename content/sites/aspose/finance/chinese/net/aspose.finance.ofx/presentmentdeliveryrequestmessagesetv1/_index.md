@@ -1,14 +1,14 @@
 ---
 title: PresentmentDeliveryRequestMessageSetV1
 second_title: Aspose.Finance for .NET API 参考
-description: Biller 传递请求消息集版本 1 类
+description: Biller 交付请求消息集版本 1 类
 type: docs
 weight: 4290
 url: /zh/net/aspose.finance.ofx/presentmentdeliveryrequestmessagesetv1/
 ---
 ## PresentmentDeliveryRequestMessageSetV1 class
 
-Biller 传递请求消息集版本 1 类。
+Biller 交付请求消息集版本 1 类。
 
 ```csharp
 public class PresentmentDeliveryRequestMessageSetV1 : AbstractRequestMessageSet
@@ -18,20 +18,20 @@ public class PresentmentDeliveryRequestMessageSetV1 : AbstractRequestMessageSet
 
 | 姓名 | 描述 |
 | --- | --- |
-| [PresentmentDeliveryRequestMessageSetV1](presentmentdeliveryrequestmessagesetv1)() | 初始化[`PresentmentDeliveryRequestMessageSetV1`](../presentmentdeliveryrequestmessagesetv1)类的新实例。 |
+| [PresentmentDeliveryRequestMessageSetV1](presentmentdeliveryrequestmessagesetv1)() | 初始化一个新的实例[`PresentmentDeliveryRequestMessageSetV1`](../presentmentdeliveryrequestmessagesetv1)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [BillStatusModTransactionRequests](../../aspose.finance.ofx/presentmentdeliveryrequestmessagesetv1/billstatusmodtransactionrequests) { get; set; } | 获取或设置[`BillStatusModTransactionRequest`](../../aspose.finance.ofx.billerdelivery/billstatusmodtransactionrequest)的集合。 |
-| [BillTableStructureTransactionRequests](../../aspose.finance.ofx/presentmentdeliveryrequestmessagesetv1/billtablestructuretransactionrequests) { get; set; } | 获取或设置[`BillTableStructureTransactionRequest`](../../aspose.finance.ofx.billerdelivery/billtablestructuretransactionrequest)的集合。 |
-| [PresentmentDetailTransactionRequests](../../aspose.finance.ofx/presentmentdeliveryrequestmessagesetv1/presentmentdetailtransactionrequests) { get; set; } | 获取或设置[`PresentmentDetailTransactionRequest`](../../aspose.finance.ofx.billerdelivery/presentmentdetailtransactionrequest)的集合。 |
-| [PresentmentGroupAccountInfoTransactionRequests](../../aspose.finance.ofx/presentmentdeliveryrequestmessagesetv1/presentmentgroupaccountinfotransactionrequests) { get; set; } | 获取或设置[`PresentmentGroupAccountInfoTransactionRequest`](../../aspose.finance.ofx.billerdelivery/presentmentgroupaccountinfotransactionrequest)的集合。 |
-| [PresentmentListTransactionRequests](../../aspose.finance.ofx/presentmentdeliveryrequestmessagesetv1/presentmentlisttransactionrequests) { get; set; } | 获取或设置[`PresentmentListTransactionRequest`](../../aspose.finance.ofx.billerdelivery/presentmentlisttransactionrequest)的集合。 |
-| [PresentmentMailSyncRequests](../../aspose.finance.ofx/presentmentdeliveryrequestmessagesetv1/presentmentmailsyncrequests) { get; set; } | 获取或设置[`PresentmentMailSyncRequest`](../../aspose.finance.ofx.billerdelivery/presentmentmailsyncrequest)的集合。 |
-| [PresentmentMailTransactionRequests](../../aspose.finance.ofx/presentmentdeliveryrequestmessagesetv1/presentmentmailtransactionrequests) { get; set; } | 获取或设置[`PresentmentMailTransactionRequest`](../../aspose.finance.ofx.billerdelivery/presentmentmailtransactionrequest)的集合。 |
-| [PresentmentNotifyTransactionRequests](../../aspose.finance.ofx/presentmentdeliveryrequestmessagesetv1/presentmentnotifytransactionrequests) { get; set; } | 获取或设置[`PresentmentNotifyTransactionRequest`](../../aspose.finance.ofx.billerdelivery/presentmentnotifytransactionrequest)的集合。 |
+| [BillStatusModTransactionRequests](../../aspose.finance.ofx/presentmentdeliveryrequestmessagesetv1/billstatusmodtransactionrequests) { get; set; } | 获取或设置的集合[`BillStatusModTransactionRequest`](../../aspose.finance.ofx.billerdelivery/billstatusmodtransactionrequest). |
+| [BillTableStructureTransactionRequests](../../aspose.finance.ofx/presentmentdeliveryrequestmessagesetv1/billtablestructuretransactionrequests) { get; set; } | 获取或设置的集合[`BillTableStructureTransactionRequest`](../../aspose.finance.ofx.billerdelivery/billtablestructuretransactionrequest). |
+| [PresentmentDetailTransactionRequests](../../aspose.finance.ofx/presentmentdeliveryrequestmessagesetv1/presentmentdetailtransactionrequests) { get; set; } | 获取或设置的集合[`PresentmentDetailTransactionRequest`](../../aspose.finance.ofx.billerdelivery/presentmentdetailtransactionrequest). |
+| [PresentmentGroupAccountInfoTransactionRequests](../../aspose.finance.ofx/presentmentdeliveryrequestmessagesetv1/presentmentgroupaccountinfotransactionrequests) { get; set; } | 获取或设置的集合[`PresentmentGroupAccountInfoTransactionRequest`](../../aspose.finance.ofx.billerdelivery/presentmentgroupaccountinfotransactionrequest). |
+| [PresentmentListTransactionRequests](../../aspose.finance.ofx/presentmentdeliveryrequestmessagesetv1/presentmentlisttransactionrequests) { get; set; } | 获取或设置的集合[`PresentmentListTransactionRequest`](../../aspose.finance.ofx.billerdelivery/presentmentlisttransactionrequest). |
+| [PresentmentMailSyncRequests](../../aspose.finance.ofx/presentmentdeliveryrequestmessagesetv1/presentmentmailsyncrequests) { get; set; } | 获取或设置的集合[`PresentmentMailSyncRequest`](../../aspose.finance.ofx.billerdelivery/presentmentmailsyncrequest). |
+| [PresentmentMailTransactionRequests](../../aspose.finance.ofx/presentmentdeliveryrequestmessagesetv1/presentmentmailtransactionrequests) { get; set; } | 获取或设置的集合[`PresentmentMailTransactionRequest`](../../aspose.finance.ofx.billerdelivery/presentmentmailtransactionrequest). |
+| [PresentmentNotifyTransactionRequests](../../aspose.finance.ofx/presentmentdeliveryrequestmessagesetv1/presentmentnotifytransactionrequests) { get; set; } | 获取或设置的集合[`PresentmentNotifyTransactionRequest`](../../aspose.finance.ofx.billerdelivery/presentmentnotifytransactionrequest). |
 
 ### 也可以看看
 

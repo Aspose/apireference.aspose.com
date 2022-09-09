@@ -1,14 +1,14 @@
 ---
 title: InvestmentPositionList
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задаетInvestmentPositionListaspose.finance.ofx.investment/investmentstatementresponse/investmentpositionlist.
+description: Получает или задаетInvestmentPositionListaspose.finance.ofx.investment/investmentstatementresponse/investmentpositionlist .
 type: docs
 weight: 90
 url: /ru/net/aspose.finance.ofx.investment/investmentstatementresponse/investmentpositionlist/
 ---
 ## InvestmentStatementResponse.InvestmentPositionList property
 
-Получает или задает`InvestmentPositionList`.
+Получает или задает`InvestmentPositionList` .
 
 ```csharp
 public InvestmentPositionList InvestmentPositionList { get; set; }

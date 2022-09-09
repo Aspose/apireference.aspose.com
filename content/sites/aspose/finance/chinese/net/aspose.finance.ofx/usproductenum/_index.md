@@ -18,13 +18,13 @@ public enum UsProductEnum
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| Item401K | `0` | 401(K) 帐户 |
+| Item401K | `0` | A 401(K) 帐户 |
 | Item403B | `1` | A 403(B) 帐户 |
 | IRA | `2` | IRA 账户 |
 | KEOGH | `3` | Keogh（金钱购买/利润分享） |
 | OTHER | `4` | 其他账户类型 |
 | SARSEP | `5` | 减薪简易雇主养老金计划 |
-| SIMPLE | `6` | 员工储蓄激励匹配计划 |
+| SIMPLE | `6` | 员工储蓄激励配套计划 |
 | NORMAL | `7` | 普通账户 |
 | TDA | `8` | 延税年金 |
 | TRUST | `9` | 信任（包括 UTMA） |

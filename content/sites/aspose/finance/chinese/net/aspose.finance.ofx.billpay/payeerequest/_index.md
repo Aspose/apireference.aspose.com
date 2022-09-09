@@ -8,7 +8,7 @@ url: /zh/net/aspose.finance.ofx.billpay/payeerequest/
 ---
 ## PayeeRequest class
 
-收款人添加请求类。
+收款人添加请求类
 
 ```csharp
 public class PayeeRequest : AbstractPayeeRequest
@@ -18,14 +18,14 @@ public class PayeeRequest : AbstractPayeeRequest
 
 | 姓名 | 描述 |
 | --- | --- |
-| [PayeeRequest](payeerequest)() | 初始化[`PayeeRequest`](../payeerequest)类的新实例。 |
+| [PayeeRequest](payeerequest)() | 初始化一个新的实例[`PayeeRequest`](../payeerequest)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [BankAccountTo](../../aspose.finance.ofx.billpay/payeerequest/bankaccountto) { get; set; } | 获取或设置目的地[`BankAccount`](../../aspose.finance.ofx/bankaccount)，在使用转账付款的国家/地区指定 |
-| [Payee](../../aspose.finance.ofx.billpay/payeerequest/payee) { get; set; } | 获取或设置完整的!:Common.Payee信息。 |
+| [BankAccountTo](../../aspose.finance.ofx.billpay/payeerequest/bankaccountto) { get; set; } | 获取或设置目的地[`BankAccount`](../../aspose.finance.ofx/bankaccount) , 在使用 transfer 付款的国家/地区指定 |
+| [Payee](../../aspose.finance.ofx.billpay/payeerequest/payee) { get; set; } | 获取或设置完整的!:Common.Payee信息. |
 | [PayeeAccounts](../../aspose.finance.ofx.billpay/payeerequest/payeeaccounts) { get; set; } | 获取或设置收款用户与收款人的账号。 |
 | [PayeeId](../../aspose.finance.ofx.billpay/payeerequest/payeeid) { get; set; } | 获取或设置服务器分配的收款人标识符。 |
 

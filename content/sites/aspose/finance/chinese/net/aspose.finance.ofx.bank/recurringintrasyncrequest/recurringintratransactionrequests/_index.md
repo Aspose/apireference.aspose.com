@@ -1,14 +1,14 @@
 ---
 title: RecurringIntraTransactionRequests
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置RecurringIntraTransactionRequestaspose.finance.ofx.bank/recurringintratransactionrequest的集合
+description: 获取或设置的集合RecurringIntraTransactionRequestaspose.finance.ofx.bank/recurringintratransactionrequest.
 type: docs
 weight: 40
 url: /zh/net/aspose.finance.ofx.bank/recurringintrasyncrequest/recurringintratransactionrequests/
 ---
 ## RecurringIntraSyncRequest.RecurringIntraTransactionRequests property
 
-获取或设置[`RecurringIntraTransactionRequest`](../../recurringintratransactionrequest)的集合。
+获取或设置的集合[`RecurringIntraTransactionRequest`](../../recurringintratransactionrequest).
 
 ```csharp
 public List<RecurringIntraTransactionRequest> RecurringIntraTransactionRequests { get; set; }

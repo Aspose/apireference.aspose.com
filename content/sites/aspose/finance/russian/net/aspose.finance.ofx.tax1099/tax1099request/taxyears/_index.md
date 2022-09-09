@@ -1,14 +1,14 @@
 ---
 title: TaxYears
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает налоговый год запрашиваемых форм.
+description: Получает или задает налоговый год запрошенных форм.
 type: docs
 weight: 40
 url: /ru/net/aspose.finance.ofx.tax1099/tax1099request/taxyears/
 ---
 ## Tax1099Request.TaxYears property
 
-Получает или задает налоговый год запрашиваемых форм.
+Получает или задает налоговый год запрошенных форм.
 
 ```csharp
 public List<string> TaxYears { get; set; }

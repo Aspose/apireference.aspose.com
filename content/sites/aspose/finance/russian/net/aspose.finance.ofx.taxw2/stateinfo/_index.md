@@ -18,7 +18,7 @@ public class StateInfo
 
 | Имя | Описание |
 | --- | --- |
-| [StateInfo](stateinfo)() | Инициализирует новый экземпляр класса[`StateInfo`](../stateinfo). |
+| [StateInfo](stateinfo)() | Инициализирует новый экземпляр[`StateInfo`](../stateinfo) класс. |
 
 ## Характеристики
 

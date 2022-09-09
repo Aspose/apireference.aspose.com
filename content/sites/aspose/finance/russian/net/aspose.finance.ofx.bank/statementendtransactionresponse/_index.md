@@ -1,14 +1,14 @@
 ---
 title: StatementEndTransactionResponse
 second_title: Справочник по API Aspose.Finance для .NET
-description: Класс ответа транзакции заявления закрытия.
+description: Класс ответа на транзакцию заявления о закрытии.
 type: docs
 weight: 660
 url: /ru/net/aspose.finance.ofx.bank/statementendtransactionresponse/
 ---
 ## StatementEndTransactionResponse class
 
-Класс ответа транзакции заявления закрытия.
+Класс ответа на транзакцию заявления о закрытии.
 
 ```csharp
 public class StatementEndTransactionResponse : AbstractTransactionResponse
@@ -18,16 +18,16 @@ public class StatementEndTransactionResponse : AbstractTransactionResponse
 
 | Имя | Описание |
 | --- | --- |
-| [StatementEndTransactionResponse](statementendtransactionresponse)() | Инициализирует новый экземпляр класса[`StatementEndTransactionResponse`](../statementendtransactionresponse). |
+| [StatementEndTransactionResponse](statementendtransactionresponse)() | Инициализирует новый экземпляр[`StatementEndTransactionResponse`](../statementendtransactionresponse) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [ClientCookie](../../aspose.finance.ofx/abstracttransactionresponse/clientcookie) { get; set; } | Получает или задает данные, которые будут отображаться в ответе транзакции |
-| [OfxExtension](../../aspose.finance.ofx.bank/statementendtransactionresponse/ofxextension) { get; set; } | Получает или задает[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
-| [StatementEndResponse](../../aspose.finance.ofx.bank/statementendtransactionresponse/statementendresponse) { get; set; } | Получает или задает[`StatementEndResponse`](./statementendresponse). |
-| [Status](../../aspose.finance.ofx/abstracttransactionresponse/status) { get; set; } | Получает или задает[`Status`](../../aspose.finance.ofx/abstracttransactionresponse/status). |
+| [ClientCookie](../../aspose.finance.ofx/abstracttransactionresponse/clientcookie) { get; set; } | Получает или задает данные, которые будут отражены в транзакции response |
+| [OfxExtension](../../aspose.finance.ofx.bank/statementendtransactionresponse/ofxextension) { get; set; } | Получает или задает[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype) . |
+| [StatementEndResponse](../../aspose.finance.ofx.bank/statementendtransactionresponse/statementendresponse) { get; set; } | Получает или задает[`StatementEndResponse`](./statementendresponse) . |
+| [Status](../../aspose.finance.ofx/abstracttransactionresponse/status) { get; set; } | Получает или задает[`Status`](../../aspose.finance.ofx/abstracttransactionresponse/status) . |
 | [TransactionUniqueId](../../aspose.finance.ofx/abstracttransactionresponse/transactionuniqueid) { get; set; } | Получает или задает назначенный клиентом глобальный уникальный идентификатор для этой транзакции. |
 
 ### Смотрите также

@@ -1,14 +1,14 @@
 ---
 title: TransactionAmount
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置交易量
+description: 获取或设置交易金额
 type: docs
 weight: 100
 url: /zh/net/aspose.finance.ofx/pendingtransaction/transactionamount/
 ---
 ## PendingTransaction.TransactionAmount property
 
-获取或设置交易量。
+获取或设置交易金额
 
 ```csharp
 public string TransactionAmount { get; set; }

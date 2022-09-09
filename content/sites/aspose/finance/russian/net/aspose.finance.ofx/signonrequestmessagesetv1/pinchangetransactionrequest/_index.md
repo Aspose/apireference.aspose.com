@@ -1,14 +1,14 @@
 ---
 title: PinChangeTransactionRequest
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задаетPinChangeTransactionRequestaspose.finance.ofx.signon/pinchangetransactionrequest.
+description: Получает или задаетPinChangeTransactionRequestaspose.finance.ofx.signon/pinchangetransactionrequest .
 type: docs
 weight: 30
 url: /ru/net/aspose.finance.ofx/signonrequestmessagesetv1/pinchangetransactionrequest/
 ---
 ## SignonRequestMessageSetV1.PinChangeTransactionRequest property
 
-Получает или задает[`PinChangeTransactionRequest`](../../../aspose.finance.ofx.signon/pinchangetransactionrequest).
+Получает или задает[`PinChangeTransactionRequest`](../../../aspose.finance.ofx.signon/pinchangetransactionrequest) .
 
 ```csharp
 public PinChangeTransactionRequest PinChangeTransactionRequest { get; set; }

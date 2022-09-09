@@ -20,12 +20,12 @@ public enum LoanAccountEnum
 | --- | --- | --- |
 | AUTO | `0` | 汽车贷款 |
 | CONSUMER | `1` | 消费贷款 |
-| MORTGAGE | `2` | 按揭贷款 |
+| MORTGAGE | `2` | 抵押贷款 |
 | COMMERCIAL | `3` | 商业贷款 |
 | STUDENT | `4` | 学生贷款 |
 | MILITARY | `5` | 军事贷款 |
 | SMB | `6` | 小企业贷款 |
-| CONSTR | `7` | 建筑贷款 |
+| CONSTR | `7` | 建设贷款 |
 | HOMEEQUITY | `8` | 房屋净值贷款 |
 
 ### 也可以看看

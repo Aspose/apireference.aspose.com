@@ -1,14 +1,14 @@
 ---
 title: CanEmail
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置FI是否支持投资邮件
+description: 获取或设置FI是否支持投资邮箱
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.ofx.profile/investmentstatementmessagesetv1/canemail/
 ---
 ## InvestmentStatementMessageSetV1.CanEmail property
 
-获取或设置FI是否支持投资邮件。
+获取或设置FI是否支持投资邮箱
 
 ```csharp
 public bool CanEmail { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: PastDueAmount
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置反映逾期金额的 MinPaymentDue 金额如果有
+description: 获取或设置 MinPaymentDue 的金额如果有的话它反映了过期的金额
 type: docs
 weight: 240
 url: /zh/net/aspose.finance.ofx.creditcard/creditcardclosing/pastdueamount/
 ---
 ## CreditCardClosing.PastDueAmount property
 
-获取或设置反映逾期金额的 MinPaymentDue 金额（如果有）。
+获取或设置 MinPaymentDue 的金额，如果有的话，它反映了过期的金额。
 
 ```csharp
 public string PastDueAmount { get; set; }

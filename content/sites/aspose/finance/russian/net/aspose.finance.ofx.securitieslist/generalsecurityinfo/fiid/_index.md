@@ -1,14 +1,14 @@
 ---
 title: FIId
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает идентификационный номер FI для данной ценной бумаги.
+description: Получает или задает идентификационный номер FI для этой ценной бумаги.
 type: docs
 weight: 40
 url: /ru/net/aspose.finance.ofx.securitieslist/generalsecurityinfo/fiid/
 ---
 ## GeneralSecurityInfo.FIId property
 
-Получает или задает идентификационный номер FI для данной ценной бумаги.
+Получает или задает идентификационный номер FI для этой ценной бумаги.
 
 ```csharp
 public string FIId { get; set; }

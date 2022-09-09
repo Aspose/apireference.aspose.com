@@ -1,14 +1,14 @@
 ---
 title: TransferProcessingStatus
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаTransferProcessingStatusaspose.finance.ofx/transferprocessingstatus.
+description: Инициализирует новый экземплярTransferProcessingStatusaspose.finance.ofx/transferprocessingstatus класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx/transferprocessingstatus/transferprocessingstatus/
 ---
 ## TransferProcessingStatus constructor
 
-Инициализирует новый экземпляр класса[`TransferProcessingStatus`](../../transferprocessingstatus).
+Инициализирует новый экземпляр[`TransferProcessingStatus`](../../transferprocessingstatus) класс.
 
 ```csharp
 public TransferProcessingStatus()

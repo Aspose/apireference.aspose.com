@@ -1,14 +1,14 @@
 ---
 title: XbrlInstances
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает коллекцию экземпляров XBRL
+description: Получает экземпляр XBRL collection
 type: docs
 weight: 20
 url: /ru/net/aspose.finance.xbrl/xbrldocument/xbrlinstances/
 ---
 ## XbrlDocument.XbrlInstances property
 
-Получает коллекцию экземпляров XBRL
+Получает экземпляр XBRL collection
 
 ```csharp
 public XbrlInstanceCollection XbrlInstances { get; }

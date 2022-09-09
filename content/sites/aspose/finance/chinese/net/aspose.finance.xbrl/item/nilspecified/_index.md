@@ -1,14 +1,14 @@
 ---
 title: NilSpecified
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置此项是否为 nil
+description: 获取或设置此项是否为零
 type: docs
 weight: 60
 url: /zh/net/aspose.finance.xbrl/item/nilspecified/
 ---
 ## Item.NilSpecified property
 
-获取或设置此项是否为 nil。
+获取或设置此项是否为零。
 
 ```csharp
 public bool NilSpecified { get; set; }

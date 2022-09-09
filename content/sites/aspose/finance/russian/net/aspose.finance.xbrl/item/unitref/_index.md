@@ -1,14 +1,14 @@
 ---
 title: UnitRef
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает ссылку наUnitaspose.finance.xbrl/unit.
+description: Получает или задает ссылку наUnitaspose.finance.xbrl/unit .
 type: docs
 weight: 90
 url: /ru/net/aspose.finance.xbrl/item/unitref/
 ---
 ## Item.UnitRef property
 
-Получает или задает ссылку на[`Unit`](../../unit).
+Получает или задает ссылку на[`Unit`](../../unit) .
 
 ```csharp
 public Unit UnitRef { get; set; }

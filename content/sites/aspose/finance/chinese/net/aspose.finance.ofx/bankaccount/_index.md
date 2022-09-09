@@ -1,14 +1,14 @@
 ---
 title: BankAccount
 second_title: Aspose.Finance for .NET API 参考
-description: OFX 使用银行账户汇总来识别金融机构的账户聚合包含足够的信息来唯一标识一个用于报表下载账单支付和资金转账的帐户
+description: OFX 使用银行账户汇总来识别 FI 的账户聚合包含足够的信息来唯一标识一个帐户用于报表下载账单支付和资金转账
 type: docs
 weight: 780
 url: /zh/net/aspose.finance.ofx/bankaccount/
 ---
 ## BankAccount class
 
-OFX 使用银行账户汇总来识别金融机构的账户。聚合包含足够的信息来唯一标识一个用于报表下载、账单支付和资金转账的帐户。
+OFX 使用银行账户汇总来识别 FI 的账户。聚合包含足够的信息来唯一标识一个帐户，用于报表下载、账单支付和资金转账。
 
 ```csharp
 public class BankAccount : AbstractAccount
@@ -18,13 +18,13 @@ public class BankAccount : AbstractAccount
 
 | 姓名 | 描述 |
 | --- | --- |
-| [BankAccount](bankaccount)() | 初始化[`BankAccount`](../bankaccount)类的新实例。 |
+| [BankAccount](bankaccount)() | 初始化一个新的实例[`BankAccount`](../bankaccount)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [AccountId](../../aspose.finance.ofx/bankaccount/accountid) { get; set; } | 获取或设置帐户标识符。 |
+| [AccountId](../../aspose.finance.ofx/bankaccount/accountid) { get; set; } | 获取或设置账户标识符。 |
 | [AccountKey](../../aspose.finance.ofx/bankaccount/accountkey) { get; set; } | 获取或设置校验和。 |
 | [AccountType](../../aspose.finance.ofx/bankaccount/accounttype) { get; set; } | 获取或设置账户类型 |
 | [BankId](../../aspose.finance.ofx/bankaccount/bankid) { get; set; } | 获取或设置银行标识符。 |

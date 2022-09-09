@@ -1,14 +1,14 @@
 ---
 title: CreditCardClosing
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化CreditCardClosingaspose.finance.ofx.creditcard/creditcardclosing类的新实例
+description: 初始化一个新的实例CreditCardClosingaspose.finance.ofx.creditcard/creditcardclosing类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.creditcard/creditcardclosing/creditcardclosing/
 ---
 ## CreditCardClosing constructor
 
-初始化[`CreditCardClosing`](../../creditcardclosing)类的新实例。
+初始化一个新的实例[`CreditCardClosing`](../../creditcardclosing)类.
 
 ```csharp
 public CreditCardClosing()

@@ -1,14 +1,14 @@
 ---
 title: SignonInfo
 second_title: Справочник по API Aspose.Finance для .NET
-description: Информационный класс Signon.
+description: Класс информации о входе в систему.
 type: docs
 weight: 4770
 url: /ru/net/aspose.finance.ofx.profile/signoninfo/
 ---
 ## SignonInfo class
 
-Информационный класс Signon.
+Класс информации о входе в систему.
 
 ```csharp
 public class SignonInfo
@@ -18,7 +18,7 @@ public class SignonInfo
 
 | Имя | Описание |
 | --- | --- |
-| [SignonInfo](signoninfo)() | Инициализирует новый экземпляр класса[`SignonInfo`](../signoninfo). |
+| [SignonInfo](signoninfo)() | Инициализирует новый экземпляр[`SignonInfo`](../signoninfo) класс. |
 
 ## Характеристики
 
@@ -28,7 +28,7 @@ public class SignonInfo
 | [AuthTokenFirst](../../aspose.finance.ofx.profile/signoninfo/authtokenfirst) { get; set; } | Получает или задает, требует ли сервер от клиентов отправки AUTHTOKEN при первом входе в систему. |
 | [AuthTokenInfoUrl](../../aspose.finance.ofx.profile/signoninfo/authtokeninfourl) { get; set; } | Получает или задает URL-адрес, по которому информация AUTHTOKEN предоставляется учреждением, управляющим сервером OFX. |
 | [AuthTokenLabel](../../aspose.finance.ofx.profile/signoninfo/authtokenlabel) { get; set; } | Получает или задает текстовую метку для AUTHTOKEN. |
-| [CaseSensitive](../../aspose.finance.ofx.profile/signoninfo/casesensitive) { get; set; } | Получает или задает, учитывает ли пароль регистр символов. |
+| [CaseSensitive](../../aspose.finance.ofx.profile/signoninfo/casesensitive) { get; set; } | Возвращает или задает регистрозависимость пароля. |
 | [ChangePinFirst](../../aspose.finance.ofx.profile/signoninfo/changepinfirst) { get; set; } | Получает или задает, требует ли сервер от клиентов смены пароля пользователя при первом входе в систему. |
 | [CharType](../../aspose.finance.ofx.profile/signoninfo/chartype) { get; set; } | Получает или задает допустимый тип символов в пароле. |
 | [ClientuidRequire](../../aspose.finance.ofx.profile/signoninfo/clientuidrequire) { get; set; } | Получает или задает, требуется ли CLIENTUID. |
@@ -37,7 +37,7 @@ public class SignonInfo
 | [MFAChallengeSupport](../../aspose.finance.ofx.profile/signoninfo/mfachallengesupport) { get; set; } | Получает или задает, поддерживает ли сервер функциональность MFACHALLENGE. |
 | [Min](../../aspose.finance.ofx.profile/signoninfo/min) { get; set; } | Получает или задает минимальное количество символов пароля. |
 | [Pinch](../../aspose.finance.ofx.profile/signoninfo/pinch) { get; set; } | Получает или задает, поддерживает ли сервер запросы на изменение PIN-кода. |
-| [SignonRealm](../../aspose.finance.ofx.profile/signoninfo/signonrealm) { get; set; } | Получает или задает идентификаторы этой области. |
+| [SignonRealm](../../aspose.finance.ofx.profile/signoninfo/signonrealm) { get; set; } | Получает или устанавливает идентификаторы этой области. |
 | [Spaces](../../aspose.finance.ofx.profile/signoninfo/spaces) { get; set; } | Получает или задает, разрешены ли пробелы сверх этих символов. |
 | [Special](../../aspose.finance.ofx.profile/signoninfo/special) { get; set; } | Получает или задает, разрешены ли специальные символы помимо этих символов. |
 | [UserCredential1Label](../../aspose.finance.ofx.profile/signoninfo/usercredential1label) { get; set; } | Получает или задает текстовое приглашение для учетных данных пользователя. Если он присутствует, требуются третьи учетные данные (USERCRED1) в дополнение к USERID и USERPASS. |

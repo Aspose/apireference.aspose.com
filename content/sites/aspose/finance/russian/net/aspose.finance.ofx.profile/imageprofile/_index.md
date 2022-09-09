@@ -18,13 +18,13 @@ public class ImageProfile
 
 | Имя | Описание |
 | --- | --- |
-| [ImageProfile](imageprofile)() | Инициализирует новый экземпляр класса[`ImageProfile`](../imageprofile). |
+| [ImageProfile](imageprofile)() | Инициализирует новый экземпляр[`ImageProfile`](../imageprofile) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [ClosingImageAvailable](../../aspose.finance.ofx.profile/imageprofile/closingimageavailable) { get; set; } | Получает или задает, поддерживает ли сервер изображения закрывающих инструкций. |
+| [ClosingImageAvailable](../../aspose.finance.ofx.profile/imageprofile/closingimageavailable) { get; set; } | Получает или задает, поддерживает ли сервер изображения закрывающих операторов. |
 | [TransactionImageAvailable](../../aspose.finance.ofx.profile/imageprofile/transactionimageavailable) { get; set; } | Получает или задает, поддерживает ли сервер образы транзакций. |
 
 ### Смотрите также

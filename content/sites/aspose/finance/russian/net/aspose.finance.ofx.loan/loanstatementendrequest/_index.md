@@ -1,14 +1,14 @@
 ---
 title: LoanStatementEndRequest
 second_title: Справочник по API Aspose.Finance для .NET
-description: Класс запроса выписки о закрытии ссуды.
+description: Класс запроса выписки о закрытии кредита.
 type: docs
 weight: 3900
 url: /ru/net/aspose.finance.ofx.loan/loanstatementendrequest/
 ---
 ## LoanStatementEndRequest class
 
-Класс запроса выписки о закрытии ссуды.
+Класс запроса выписки о закрытии кредита.
 
 ```csharp
 public class LoanStatementEndRequest
@@ -18,15 +18,15 @@ public class LoanStatementEndRequest
 
 | Имя | Описание |
 | --- | --- |
-| [LoanStatementEndRequest](loanstatementendrequest)() | Инициализирует новый экземпляр класса[`LoanStatementEndRequest`](../loanstatementendrequest). |
+| [LoanStatementEndRequest](loanstatementendrequest)() | Инициализирует новый экземпляр[`LoanStatementEndRequest`](../loanstatementendrequest) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [EndDate](../../aspose.finance.ofx.loan/loanstatementendrequest/enddate) { get; set; } | Получает или задает дату окончания сведений о закрытии выписки. |
-| [LoanAccountFrom](../../aspose.finance.ofx.loan/loanstatementendrequest/loanaccountfrom) { get; set; } | Получает или задает значение из[`LoanAccount`](../../aspose.finance.ofx/loanaccount). |
-| [StartDate](../../aspose.finance.ofx.loan/loanstatementendrequest/startdate) { get; set; } | Получает или задает начальную дату для сведений о закрытии выписки. |
+| [EndDate](../../aspose.finance.ofx.loan/loanstatementendrequest/enddate) { get; set; } | Получает или задает дату окончания информации о закрытии выписки. |
+| [LoanAccountFrom](../../aspose.finance.ofx.loan/loanstatementendrequest/loanaccountfrom) { get; set; } | Получает или задает из[`LoanAccount`](../../aspose.finance.ofx/loanaccount) . |
+| [StartDate](../../aspose.finance.ofx.loan/loanstatementendrequest/startdate) { get; set; } | Получает или задает начальную дату для информации о закрытии выписки. |
 
 ### Смотрите также
 

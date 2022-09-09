@@ -1,14 +1,14 @@
 ---
 title: EmailResponseMessageSetV1
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置EmailResponseMessageSetV1aspose.finance.ofx/ofxresponsedocument/emailresponsemessagesetv1
+description: 获取或设置EmailResponseMessageSetV1aspose.finance.ofx/ofxresponsedocument/emailresponsemessagesetv1.
 type: docs
 weight: 50
 url: /zh/net/aspose.finance.ofx/ofxresponsedocument/emailresponsemessagesetv1/
 ---
 ## OfxResponseDocument.EmailResponseMessageSetV1 property
 
-获取或设置`EmailResponseMessageSetV1`。
+获取或设置`EmailResponseMessageSetV1`.
 
 ```csharp
 public EmailResponseMessageSetV1 EmailResponseMessageSetV1 { get; set; }

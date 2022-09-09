@@ -1,14 +1,14 @@
 ---
 title: SecurityListTransactionResponses
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置SecurityListTransactionResponseaspose.finance.ofx.securitieslist/securitylisttransactionresponse的集合
+description: 获取或设置的集合SecurityListTransactionResponseaspose.finance.ofx.securitieslist/securitylisttransactionresponse.
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.ofx/securitylistresponsemessagesetv1/securitylisttransactionresponses/
 ---
 ## SecurityListResponseMessageSetV1.SecurityListTransactionResponses property
 
-获取或设置[`SecurityListTransactionResponse`](../../../aspose.finance.ofx.securitieslist/securitylisttransactionresponse)的集合。
+获取或设置的集合[`SecurityListTransactionResponse`](../../../aspose.finance.ofx.securitieslist/securitylisttransactionresponse).
 
 ```csharp
 public List<SecurityListTransactionResponse> SecurityListTransactionResponses { get; set; }

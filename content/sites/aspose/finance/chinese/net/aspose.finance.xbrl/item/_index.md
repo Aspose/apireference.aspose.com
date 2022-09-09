@@ -18,29 +18,29 @@ public class Item : Fact
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Item](item)(Concept) | 初始化[`Item`](../item)类的新实例。 |
+| [Item](item)(Concept) | 初始化一个新的实例[`Item`](../item)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [ContextRef](../../aspose.finance.xbrl/item/contextref) { get; set; } | 获取或设置对[`Context`](../context)的引用。 |
+| [ContextRef](../../aspose.finance.xbrl/item/contextref) { get; set; } | 获取或设置对[`Context`](../context). |
 | [Decimals](../../aspose.finance.xbrl/item/decimals) { get; set; } | 获取或设置小数点。 |
 | [Id](../../aspose.finance.xbrl/fact/id) { get; set; } | 获取或设置事实的 id。 |
 | [InfiniteDecimals](../../aspose.finance.xbrl/item/infinitedecimals) { get; set; } | 获取或设置此项是否为无限小数。 |
 | [InfinitePrecision](../../aspose.finance.xbrl/item/infiniteprecision) { get; set; } | 获取或设置此项是否具有无限精度。 |
 | [Name](../../aspose.finance.xbrl/fact/name) { get; set; } | 获取或设置事实的限定名称。 |
-| [NilSpecified](../../aspose.finance.xbrl/item/nilspecified) { get; set; } | 获取或设置此项是否为 nil。 |
+| [NilSpecified](../../aspose.finance.xbrl/item/nilspecified) { get; set; } | 获取或设置此项是否为零。 |
 | [Precision](../../aspose.finance.xbrl/item/precision) { get; set; } | 获取或设置精度。 |
 | [SchemaConcept](../../aspose.finance.xbrl/item/schemaconcept) { get; } | 获取概念。 |
-| [UnitRef](../../aspose.finance.xbrl/item/unitref) { get; set; } | 获取或设置对[`Unit`](../unit)的引用。 |
+| [UnitRef](../../aspose.finance.xbrl/item/unitref) { get; set; } | 获取或设置对[`Unit`](../unit). |
 | [Value](../../aspose.finance.xbrl/item/value) { get; set; } | 获取或设置值。 |
 
 ## 方法
 
 | 姓名 | 描述 |
 | --- | --- |
-| [IsTextBlock](../../aspose.finance.xbrl/item/istextblock)() | 检查此项是否为文本块。 |
+| [IsTextBlock](../../aspose.finance.xbrl/item/istextblock)() | 检查该项目是否为文本块。 |
 
 ### 也可以看看
 

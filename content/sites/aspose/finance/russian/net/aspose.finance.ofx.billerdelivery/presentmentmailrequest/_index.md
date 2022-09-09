@@ -1,14 +1,14 @@
 ---
 title: PresentmentMailRequest
 second_title: Справочник по API Aspose.Finance для .NET
-description: Класс почтового запроса представления счета.
+description: Класс почтового запроса на выставление счетов.
 type: docs
 weight: 1730
 url: /ru/net/aspose.finance.ofx.billerdelivery/presentmentmailrequest/
 ---
 ## PresentmentMailRequest class
 
-Класс почтового запроса представления счета.
+Класс почтового запроса на выставление счетов.
 
 ```csharp
 public class PresentmentMailRequest
@@ -18,14 +18,14 @@ public class PresentmentMailRequest
 
 | Имя | Описание |
 | --- | --- |
-| [PresentmentMailRequest](presentmentmailrequest)() | Инициализирует новый экземпляр класса[`PresentmentMailRequest`](../presentmentmailrequest). |
+| [PresentmentMailRequest](presentmentmailrequest)() | Инициализирует новый экземпляр[`PresentmentMailRequest`](../presentmentmailrequest) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [Mail](../../aspose.finance.ofx.billerdelivery/presentmentmailrequest/mail) { get; set; } | Получает или задает[`Mail`](./mail). |
-| [PresentmentAccountFrom](../../aspose.finance.ofx.billerdelivery/presentmentmailrequest/presentmentaccountfrom) { get; set; } | Получает или задает значение из[`PresentmentAccount`](../../aspose.finance.ofx/presentmentaccount). |
+| [Mail](../../aspose.finance.ofx.billerdelivery/presentmentmailrequest/mail) { get; set; } | Получает или задает[`Mail`](./mail) . |
+| [PresentmentAccountFrom](../../aspose.finance.ofx.billerdelivery/presentmentmailrequest/presentmentaccountfrom) { get; set; } | Получает или задает из[`PresentmentAccount`](../../aspose.finance.ofx/presentmentaccount) . |
 
 ### Смотрите также
 

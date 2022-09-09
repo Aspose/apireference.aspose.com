@@ -1,14 +1,14 @@
 ---
 title: AmortizationRequest
 second_title: Aspose.Finance for .NET API 参考
-description: 摊销报表请求类
+description: 摊销报表请求类.
 type: docs
 weight: 3740
 url: /zh/net/aspose.finance.ofx.loan/amortizationrequest/
 ---
 ## AmortizationRequest class
 
-摊销报表请求类。
+摊销报表请求类.
 
 ```csharp
 public class AmortizationRequest
@@ -18,15 +18,15 @@ public class AmortizationRequest
 
 | 姓名 | 描述 |
 | --- | --- |
-| [AmortizationRequest](amortizationrequest)() | 初始化[`AmortizationRequest`](../amortizationrequest)类的新实例。 |
+| [AmortizationRequest](amortizationrequest)() | 初始化一个新的实例[`AmortizationRequest`](../amortizationrequest)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
 | [EndDate](../../aspose.finance.ofx.loan/amortizationrequest/enddate) { get; set; } | 获取或设置交易数据的结束日期。 |
-| [LoanAccountFrom](../../aspose.finance.ofx.loan/amortizationrequest/loanaccountfrom) { get; set; } | 获取或设置[`LoanAccount`](../../aspose.finance.ofx/loanaccount)的来源。 |
-| [StartDate](../../aspose.finance.ofx.loan/amortizationrequest/startdate) { get; set; } | 获取或设置事务数据的开始日期。 |
+| [LoanAccountFrom](../../aspose.finance.ofx.loan/amortizationrequest/loanaccountfrom) { get; set; } | 获取或设置 from[`LoanAccount`](../../aspose.finance.ofx/loanaccount). |
+| [StartDate](../../aspose.finance.ofx.loan/amortizationrequest/startdate) { get; set; } | 获取或设置交易数据的开始日期。 |
 
 ### 也可以看看
 

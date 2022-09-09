@@ -1,14 +1,14 @@
 ---
 title: CostBasis
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置成本基础如果证券是从另一家金融机构转让的金融机构可能并不总是知道这一点
+description: 获取或设置成本基础如果证券是从另一个 FI 转移的FI 可能并不总是知道这一点
 type: docs
 weight: 40
 url: /zh/net/aspose.finance.ofx.tax1099/proceeddescription_v100/costbasis/
 ---
 ## ProceedDescription_V100.CostBasis property
 
-获取或设置成本基础。如果证券是从另一家金融机构转让的，金融机构可能并不总是知道这一点。
+获取或设置成本基础。如果证券是从另一个 FI 转移的，FI 可能并不总是知道这一点。
 
 ```csharp
 public string CostBasis { get; set; }

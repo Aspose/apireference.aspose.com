@@ -1,14 +1,14 @@
 ---
 title: LinkbaseRef
 second_title: Aspose.Finance for .NET API 参考
-description: 此类用于链接库引用
+description: 这个类用于链接库引用
 type: docs
 weight: 7810
 url: /zh/net/aspose.finance.xbrl/linkbaseref/
 ---
 ## LinkbaseRef class
 
-此类用于链接库引用。
+这个类用于链接库引用。
 
 ```csharp
 public abstract class LinkbaseRef : SimpleLink
@@ -18,18 +18,18 @@ public abstract class LinkbaseRef : SimpleLink
 
 | 姓名 | 描述 |
 | --- | --- |
-| [LinkbaseRef](linkbaseref)() | 初始化[`LinkbaseRef`](../linkbaseref)类的新实例。 |
+| [LinkbaseRef](linkbaseref)() | 初始化一个新的实例[`LinkbaseRef`](../linkbaseref)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
 | [Actuate](../../aspose.finance.xbrl/simplelink/actuate) { get; set; } | 获取或设置简单链接启动属性。 |
-| [Arcrole](../../aspose.finance.xbrl/simplelink/arcrole) { get; set; } | 获取或设置简单链接弧。 |
-| [ArcroleReferences](../../aspose.finance.xbrl/linkbaseref/arcrolereferences) { get; set; } | 获取或设置链接库中[`ArcroleReference`](../arcrolereference)对象的集合。 |
-| [Href](../../aspose.finance.xbrl/simplelink/href) { get; set; } | 获取或设置简单链接 href URI。 |
+| [Arcrole](../../aspose.finance.xbrl/simplelink/arcrole) { get; set; } | 获取或设置简单链接弧线。 |
+| [ArcroleReferences](../../aspose.finance.xbrl/linkbaseref/arcrolereferences) { get; set; } | 获取或设置的集合[`ArcroleReference`](../arcrolereference)链接库中的对象。 |
+| [Href](../../aspose.finance.xbrl/simplelink/href) { get; set; } | 获取或设置简单链接href URI. |
 | [Role](../../aspose.finance.xbrl/simplelink/role) { get; set; } | 获取或设置简单链接角色。 |
-| [RoleReferences](../../aspose.finance.xbrl/linkbaseref/rolereferences) { get; set; } | 获取或设置链接库中[`RoleReference`](../rolereference)对象的集合。 |
+| [RoleReferences](../../aspose.finance.xbrl/linkbaseref/rolereferences) { get; set; } | 获取或设置的集合[`RoleReference`](../rolereference)链接库中的对象。 |
 | [Show](../../aspose.finance.xbrl/simplelink/show) { get; set; } | 获取或设置简单链接显示属性。 |
 | [Title](../../aspose.finance.xbrl/simplelink/title) { get; set; } | 获取或设置简单链接标题。 |
 | [Type](../../aspose.finance.xbrl/xlink/type) { get; } | 获取链接类型。 |

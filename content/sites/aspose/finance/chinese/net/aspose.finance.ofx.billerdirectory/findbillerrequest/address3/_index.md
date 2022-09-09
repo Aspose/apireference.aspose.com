@@ -1,14 +1,14 @@
 ---
 title: Address3
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置账单人地址行 3
+description: 获取或设置帐单地址行3.
 type: docs
 weight: 40
 url: /zh/net/aspose.finance.ofx.billerdirectory/findbillerrequest/address3/
 ---
 ## FindBillerRequest.Address3 property
 
-获取或设置账单人地址行 3。
+获取或设置帐单地址行3.
 
 ```csharp
 public string Address3 { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: CreditcardMessageSetV1
 second_title: Справочник по API Aspose.Finance для .NET
-description: Версия 1 набора сообщений кредитной карты
+description: Версия 1 сообщения кредитной карты set
 type: docs
 weight: 4450
 url: /ru/net/aspose.finance.ofx.profile/creditcardmessagesetv1/
 ---
 ## CreditcardMessageSetV1 class
 
-Версия 1 набора сообщений кредитной карты
+Версия 1 сообщения кредитной карты set
 
 ```csharp
 public class CreditcardMessageSetV1 : AbstractMessageSetVersion
@@ -18,15 +18,15 @@ public class CreditcardMessageSetV1 : AbstractMessageSetVersion
 
 | Имя | Описание |
 | --- | --- |
-| [CreditcardMessageSetV1](creditcardmessagesetv1)() | Инициализирует новый экземпляр класса[`CreditcardMessageSetV1`](../creditcardmessagesetv1). |
+| [CreditcardMessageSetV1](creditcardmessagesetv1)() | Инициализирует новый экземпляр[`CreditcardMessageSetV1`](../creditcardmessagesetv1) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [ClosingAvailable](../../aspose.finance.ofx.profile/creditcardmessagesetv1/closingavailable) { get; set; } | Получает или задает, доступна ли информация о закрытии заявления. |
-| [ImageProfile](../../aspose.finance.ofx.profile/creditcardmessagesetv1/imageprofile) { get; set; } | Получает или задает[`ImageProfile`](./imageprofile). |
-| [MessageSetCore](../../aspose.finance.ofx.profile/abstractmessagesetversion/messagesetcore) { get; set; } | Получает или задает[`MessageSetCore`](../abstractmessagesetversion/messagesetcore). |
+| [ClosingAvailable](../../aspose.finance.ofx.profile/creditcardmessagesetv1/closingavailable) { get; set; } | Получает или устанавливает, доступна ли информация о закрытии отчета. |
+| [ImageProfile](../../aspose.finance.ofx.profile/creditcardmessagesetv1/imageprofile) { get; set; } | Получает или задает[`ImageProfile`](./imageprofile) . |
+| [MessageSetCore](../../aspose.finance.ofx.profile/abstractmessagesetversion/messagesetcore) { get; set; } | Получает или задает[`MessageSetCore`](../abstractmessagesetversion/messagesetcore) . |
 | [PendingAvailable](../../aspose.finance.ofx.profile/creditcardmessagesetv1/pendingavailable) { get; set; } | Получает или устанавливает флаг поддержки загрузки отложенной транзакции, по умолчанию false. |
 
 ### Смотрите также

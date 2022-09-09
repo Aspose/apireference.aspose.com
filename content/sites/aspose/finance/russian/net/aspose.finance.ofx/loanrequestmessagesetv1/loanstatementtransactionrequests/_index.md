@@ -1,14 +1,14 @@
 ---
 title: LoanStatementTransactionRequests
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает коллекциюLoanStatementTransactionRequestaspose.finance.ofx.loan/loanstatementtransactionrequest.
+description: Получает или задает коллекциюLoanStatementTransactionRequestaspose.finance.ofx.loan/loanstatementtransactionrequest .
 type: docs
 weight: 60
 url: /ru/net/aspose.finance.ofx/loanrequestmessagesetv1/loanstatementtransactionrequests/
 ---
 ## LoanRequestMessageSetV1.LoanStatementTransactionRequests property
 
-Получает или задает коллекцию[`LoanStatementTransactionRequest`](../../../aspose.finance.ofx.loan/loanstatementtransactionrequest).
+Получает или задает коллекцию[`LoanStatementTransactionRequest`](../../../aspose.finance.ofx.loan/loanstatementtransactionrequest) .
 
 ```csharp
 public List<LoanStatementTransactionRequest> LoanStatementTransactionRequests { get; set; }

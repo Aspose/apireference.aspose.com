@@ -1,14 +1,14 @@
 ---
 title: SecurityListRequest
 second_title: Справочник по API Aspose.Finance для .NET
-description: Класс запроса списка безопасности
+description: Запрос списка безопасности class
 type: docs
 weight: 5140
 url: /ru/net/aspose.finance.ofx.securitieslist/securitylistrequest/
 ---
 ## SecurityListRequest class
 
-Класс запроса списка безопасности
+Запрос списка безопасности class
 
 ```csharp
 public class SecurityListRequest
@@ -18,13 +18,13 @@ public class SecurityListRequest
 
 | Имя | Описание |
 | --- | --- |
-| [SecurityListRequest](securitylistrequest)() | Инициализирует новый экземпляр класса[`SecurityListRequest`](../securitylistrequest). |
+| [SecurityListRequest](securitylistrequest)() | Инициализирует новый экземпляр[`SecurityListRequest`](../securitylistrequest) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [SecurityRequests](../../aspose.finance.ofx.securitieslist/securitylistrequest/securityrequests) { get; set; } | Получает или задает коллекцию[`SecurityRequest`](../securityrequest). |
+| [SecurityRequests](../../aspose.finance.ofx.securitieslist/securitylistrequest/securityrequests) { get; set; } | Получает или задает коллекцию[`SecurityRequest`](../securityrequest) . |
 
 ### Смотрите также
 

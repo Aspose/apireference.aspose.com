@@ -18,14 +18,14 @@ public class MFAChallenge
 
 | Имя | Описание |
 | --- | --- |
-| [MFAChallenge](mfachallenge)() | Инициализирует новый экземпляр класса[`MFAChallenge`](../mfachallenge). |
+| [MFAChallenge](mfachallenge)() | Инициализирует новый экземпляр[`MFAChallenge`](../mfachallenge) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [MFAPhraseId](../../aspose.finance.ofx.signon/mfachallenge/mfaphraseid) { get; set; } | Получает или задает идентификатор контрольного вопроса. Он должен быть уникальным для этого контрольного вопроса, но не уникальным для пользователя, сеанса. |
-| [MFAPhraseLabel](../../aspose.finance.ofx.signon/mfachallenge/mfaphraselabel) { get; set; } | Получает или задает текстовый контрольный вопрос. Это должно быть как можно более подходящим для отображения пользователю. |
+| [MFAPhraseId](../../aspose.finance.ofx.signon/mfachallenge/mfaphraseid) { get; set; } | Получает или задает идентификатор контрольного вопроса. Он должен быть уникальным для этого контрольного вопроса, но не уникальным для пользователя, session. |
+| [MFAPhraseLabel](../../aspose.finance.ofx.signon/mfachallenge/mfaphraselabel) { get; set; } | Получает или задает текстовый контрольный вопрос. Это должно быть максимально подходящим для отображения пользователю. |
 
 ### Смотрите также
 

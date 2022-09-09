@@ -1,14 +1,14 @@
 ---
 title: LoanMailTransactionRequest
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化LoanMailTransactionRequestaspose.finance.ofx.loan/loanmailtransactionrequest类的新实例
+description: 初始化一个新的实例LoanMailTransactionRequestaspose.finance.ofx.loan/loanmailtransactionrequest类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.loan/loanmailtransactionrequest/loanmailtransactionrequest/
 ---
 ## LoanMailTransactionRequest constructor
 
-初始化[`LoanMailTransactionRequest`](../../loanmailtransactionrequest)类的新实例。
+初始化一个新的实例[`LoanMailTransactionRequest`](../../loanmailtransactionrequest)类.
 
 ```csharp
 public LoanMailTransactionRequest()

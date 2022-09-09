@@ -1,14 +1,14 @@
 ---
 title: ExpireDate
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает срок действия.
+description: Получает или задает дату истечения срока действия.
 type: docs
 weight: 30
 url: /ru/net/aspose.finance.ofx.securitieslist/optioninfo/expiredate/
 ---
 ## OptionInfo.ExpireDate property
 
-Получает или задает срок действия.
+Получает или задает дату истечения срока действия.
 
 ```csharp
 public string ExpireDate { get; set; }

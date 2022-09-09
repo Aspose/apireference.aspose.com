@@ -18,13 +18,13 @@ public class PositionDebt : AbstractPositionBase
 
 | Имя | Описание |
 | --- | --- |
-| [PositionDebt](positiondebt)() | Инициализирует новый экземпляр класса[`PositionDebt`](../positiondebt). |
+| [PositionDebt](positiondebt)() | Инициализирует новый экземпляр[`PositionDebt`](../positiondebt) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [InvestmentPosition](../../aspose.finance.ofx.investment/abstractpositionbase/investmentposition) { get; set; } | Получает или задает[`InvestmentPosition`](../abstractpositionbase/investmentposition). |
+| [InvestmentPosition](../../aspose.finance.ofx.investment/abstractpositionbase/investmentposition) { get; set; } | Получает или задает[`InvestmentPosition`](../abstractpositionbase/investmentposition) . |
 
 ### Смотрите также
 

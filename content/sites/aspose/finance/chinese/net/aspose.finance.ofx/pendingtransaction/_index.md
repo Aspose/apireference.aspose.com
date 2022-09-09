@@ -1,14 +1,14 @@
 ---
 title: PendingTransaction
 second_title: Aspose.Finance for .NET API 参考
-description: 此类描述单个待处理事务它标识交易的类型和发起的日期该类还可以提供其他信息来帮助客户识别交易支票号码收款人姓名和备忘录
+description: 此类描述单个待处理事务它标识交易的类型和发起的日期该类还可以提供其他信息来帮助客户识别交易支票号码收款人姓名和备注
 type: docs
 weight: 4250
 url: /zh/net/aspose.finance.ofx/pendingtransaction/
 ---
 ## PendingTransaction class
 
-此类描述单个待处理事务。它标识交易的类型和发起的日期。该类还可以提供其他信息来帮助客户识别交易：支票号码、收款人姓名和备忘录。
+此类描述单个待处理事务。它标识交易的类型和发起的日期。该类还可以提供其他信息来帮助客户识别交易：支票号码、收款人姓名和备注。
 
 ```csharp
 public class PendingTransaction
@@ -18,23 +18,23 @@ public class PendingTransaction
 
 | 姓名 | 描述 |
 | --- | --- |
-| [PendingTransaction](pendingtransaction)() | 初始化[`PendingTransaction`](../pendingtransaction)类的新实例。 |
+| [PendingTransaction](pendingtransaction)() | 初始化一个新的实例[`PendingTransaction`](../pendingtransaction)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Currency](../../aspose.finance.ofx/pendingtransaction/currency) { get; set; } | 获取或设置[`Currency`](./currency)。 |
-| [ExpireDate](../../aspose.finance.ofx/pendingtransaction/expiredate) { get; set; } | 获取或设置此事务的保留到期日期。仅对 TransactionType 有效的是 HOLD。 |
+| [Currency](../../aspose.finance.ofx/pendingtransaction/currency) { get; set; } | 获取或设置[`Currency`](./currency). |
+| [ExpireDate](../../aspose.finance.ofx/pendingtransaction/expiredate) { get; set; } | 获取或设置此事务的保留到期日期。仅对 TransactionType 有效的是 HOLD. |
 | [ExtendedName](../../aspose.finance.ofx/pendingtransaction/extendedname) { get; set; } | 获取或设置收款人扩展名或交易描述。 |
-| [ImageDatas](../../aspose.finance.ofx/pendingtransaction/imagedatas) { get; set; } | 获取或设置[`ImageData`](../imagedata)的集合。 |
+| [ImageDatas](../../aspose.finance.ofx/pendingtransaction/imagedatas) { get; set; } | 获取或设置的集合[`ImageData`](../imagedata). |
 | [Memo](../../aspose.finance.ofx/pendingtransaction/memo) { get; set; } | 获取或设置额外信息 |
 | [Name](../../aspose.finance.ofx/pendingtransaction/name) { get; set; } | 获取或设置收款人姓名或交易描述。 |
-| [OriginCurrency](../../aspose.finance.ofx/pendingtransaction/origincurrency) { get; set; } | 获取或设置原点[`Currency`](./currency)。 |
+| [OriginCurrency](../../aspose.finance.ofx/pendingtransaction/origincurrency) { get; set; } | 获取或设置原点[`Currency`](./currency). |
 | [ReferenceNumber](../../aspose.finance.ofx/pendingtransaction/referencenumber) { get; set; } | 获取或设置事务的参考号（如果有）。 |
-| [TransactionAmount](../../aspose.finance.ofx/pendingtransaction/transactionamount) { get; set; } | 获取或设置交易量。 |
-| [TransactionDate](../../aspose.finance.ofx/pendingtransaction/transactiondate) { get; set; } | 获取或设置事务开始的日期。 |
-| [TransactionType](../../aspose.finance.ofx/pendingtransaction/transactiontype) { get; set; } | 获取或设置事务类型。 |
+| [TransactionAmount](../../aspose.finance.ofx/pendingtransaction/transactionamount) { get; set; } | 获取或设置交易金额 |
+| [TransactionDate](../../aspose.finance.ofx/pendingtransaction/transactiondate) { get; set; } | 获取或设置交易开始的日期。 |
+| [TransactionType](../../aspose.finance.ofx/pendingtransaction/transactiontype) { get; set; } | 获取或设置交易类型。 |
 
 ### 也可以看看
 

@@ -18,13 +18,13 @@ public class BillPayMessageSetV1 : AbstractMessageSetVersion
 
 | 姓名 | 描述 |
 | --- | --- |
-| [BillPayMessageSetV1](billpaymessagesetv1)() | 初始化[`BillPayMessageSetV1`](../billpaymessagesetv1)类的新实例。 |
+| [BillPayMessageSetV1](billpaymessagesetv1)() | 初始化一个新的实例[`BillPayMessageSetV1`](../billpaymessagesetv1)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [BillPresentmentContext](../../aspose.finance.ofx.profile/billpaymessagesetv1/billpresentmentcontext) { get; set; } | 获取或设置支付提供商是否支持支付操作中的账单提示上下文信息。 |
+| [BillPresentmentContext](../../aspose.finance.ofx.profile/billpaymessagesetv1/billpresentmentcontext) { get; set; } | 获取或设置支付提供商是否支持支付操作中的账单呈现上下文信息。 |
 | [CanAddPayee](../../aspose.finance.ofx.profile/billpaymessagesetv1/canaddpayee) { get; set; } | 获取或设置用户是否可以添加收款人。如果为false，则用户仅限于支付系统添加到用户收款人列表中的收款人。 |
 | [CanModificationModels](../../aspose.finance.ofx.profile/billpaymessagesetv1/canmodificationmodels) { get; set; } | 获取或设置是否允许修改模型。 |
 | [CanModificationPayments](../../aspose.finance.ofx.profile/billpaymessagesetv1/canmodificationpayments) { get; set; } | 获取或设置是否允许修改付款。 |
@@ -32,17 +32,17 @@ public class BillPayMessageSetV1 : AbstractMessageSetVersion
 | [DefaultDaysToPay](../../aspose.finance.ofx.profile/billpaymessagesetv1/defaultdaystopay) { get; set; } | 获取或设置支票支付的默认天数（转账除外）。 |
 | [DifferentFirstPayment](../../aspose.finance.ofx.profile/billpaymessagesetv1/differentfirstpayment) { get; set; } | 获取或设置是否支持为模型生成的第一笔付款指定不同的金额 |
 | [DifferentLastPayment](../../aspose.finance.ofx.profile/billpaymessagesetv1/differentlastpayment) { get; set; } | 获取或设置是否支持为模型生成的最后一次付款指定不同的金额 |
-| [HasExtendedPayment](../../aspose.finance.ofx.profile/billpaymessagesetv1/hasextendedpayment) { get; set; } | 获取或设置是否支持!:ExtendedPayment业务支付。 |
-| [MessageSetCore](../../aspose.finance.ofx.profile/abstractmessagesetversion/messagesetcore) { get; set; } | 获取或设置[`MessageSetCore`](../abstractmessagesetversion/messagesetcore)。 |
-| [ModelWindow](../../aspose.finance.ofx.profile/billpaymessagesetv1/modelwindow) { get; set; } | 获取或设置模型窗口；在计划处理重复交易之前，它在系统上被实例化的天数。 |
-| [PaymentByAddress](../../aspose.finance.ofx.profile/billpaymessagesetv1/paymentbyaddress) { get; set; } | 获取或设置是否支持向账单地址标识的收款人付款，即[`Payee`](../../aspose.finance.ofx/payee)。 |
+| [HasExtendedPayment](../../aspose.finance.ofx.profile/billpaymessagesetv1/hasextendedpayment) { get; set; } | 获取或设置是否支持!:ExtendedPayment商业支付。 |
+| [MessageSetCore](../../aspose.finance.ofx.profile/abstractmessagesetversion/messagesetcore) { get; set; } | 获取或设置[`MessageSetCore`](../abstractmessagesetversion/messagesetcore). |
+| [ModelWindow](../../aspose.finance.ofx.profile/billpaymessagesetv1/modelwindow) { get; set; } | 获取或设置模型窗口；在计划处理循环事务之前在系统上对其进行实例化的天数。 |
+| [PaymentByAddress](../../aspose.finance.ofx.profile/billpaymessagesetv1/paymentbyaddress) { get; set; } | 获取或设置是否支持向账单地址标识的收款人付款，即[`Payee`](../../aspose.finance.ofx/payee). |
 | [PaymentByPayeeId](../../aspose.finance.ofx.profile/billpaymessagesetv1/paymentbypayeeid) { get; set; } | 获取或设置是否支持向由服务器提供的收款人 ID 标识的收款人付款。 |
 | [PaymentByTransfer](../../aspose.finance.ofx.profile/billpaymessagesetv1/paymentbytransfer) { get; set; } | 获取或设置是否向目标账户标识的收款人付款 |
-| [PostProcessWindow](../../aspose.finance.ofx.profile/billpaymessagesetv1/postprocesswindow) { get; set; } | 获取或设置事务处理后的天数，可以访问状态查询。 |
+| [PostProcessWindow](../../aspose.finance.ofx.profile/billpaymessagesetv1/postprocesswindow) { get; set; } | 获取或设置事务处理后可以进行状态查询的天数。 |
 | [ProcessingDaysOffs](../../aspose.finance.ofx.profile/billpaymessagesetv1/processingdaysoffs) { get; set; } | 获取或设置不进行处理的星期几。 |
 | [ProcessingEndTime](../../aspose.finance.ofx.profile/billpaymessagesetv1/processingendtime) { get; set; } | 获取或设置当天处理结束的时间。 |
-| [StatusViaMods](../../aspose.finance.ofx.profile/billpaymessagesetv1/statusviamods) { get; set; } | 如果为 true，则服务器支持通过!:PaymentModResponse消息来通信服务器发起的支付状态更改。 |
-| [TransferDaysWithdraw](../../aspose.finance.ofx.profile/billpaymessagesetv1/transferdayswithdraw) { get; set; } | 获取或设置在处理日期之前的天数，用于通过转账方式提取资金。 |
+| [StatusViaMods](../../aspose.finance.ofx.profile/billpaymessagesetv1/statusviamods) { get; set; } | 如果为真，服务器支持通过!:PaymentModResponse消息. |
+| [TransferDaysWithdraw](../../aspose.finance.ofx.profile/billpaymessagesetv1/transferdayswithdraw) { get; set; } | 获取或设置在处理日期之前的天数，以通过转账方式提取资金。 |
 | [TransferDefaultDaysToPay](../../aspose.finance.ofx.profile/billpaymessagesetv1/transferdefaultdaystopay) { get; set; } | 获取或设置通过转账支付的默认天数。 |
 
 ### 也可以看看

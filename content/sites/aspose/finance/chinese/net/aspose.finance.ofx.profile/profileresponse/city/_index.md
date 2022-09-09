@@ -1,14 +1,14 @@
 ---
 title: City
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置 FI 地址城市
+description: 获取或设置FI地址城市
 type: docs
 weight: 50
 url: /zh/net/aspose.finance.ofx.profile/profileresponse/city/
 ---
 ## ProfileResponse.City property
 
-获取或设置 FI 地址城市。
+获取或设置FI地址城市
 
 ```csharp
 public string City { get; set; }

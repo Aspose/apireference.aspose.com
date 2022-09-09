@@ -18,7 +18,7 @@ public class PaymentCancelRequest : AbstractPaymentRequest
 
 | 姓名 | 描述 |
 | --- | --- |
-| [PaymentCancelRequest](paymentcancelrequest)() | 初始化[`PaymentCancelRequest`](../paymentcancelrequest)类的新实例。 |
+| [PaymentCancelRequest](paymentcancelrequest)() | 初始化一个新的实例[`PaymentCancelRequest`](../paymentcancelrequest)类. |
 
 ## 特性
 

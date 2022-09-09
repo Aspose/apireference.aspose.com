@@ -1,14 +1,14 @@
 ---
 title: PaymentDueDate
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает срок платежа.
+description: Получает или задает дату платежа.
 type: docs
 weight: 100
 url: /ru/net/aspose.finance.ofx/creditlineinfotype/paymentduedate/
 ---
 ## CreditLineInfoType.PaymentDueDate property
 
-Получает или задает срок платежа.
+Получает или задает дату платежа.
 
 ```csharp
 public string PaymentDueDate { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: MatchPercent
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает соответствующий процент вклада сотрудников.
+description: Получает или задает процент соответствия вклада сотрудника.
 type: docs
 weight: 40
 url: /ru/net/aspose.finance.ofx.investment/matchinfo/matchpercent/
 ---
 ## MatchInfo.MatchPercent property
 
-Получает или задает соответствующий процент вклада сотрудников.
+Получает или задает процент соответствия вклада сотрудника.
 
 ```csharp
 public string MatchPercent { get; set; }

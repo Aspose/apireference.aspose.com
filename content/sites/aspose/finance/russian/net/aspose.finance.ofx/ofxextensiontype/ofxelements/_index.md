@@ -1,14 +1,14 @@
 ---
 title: OfxElements
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает коллекциюOfxElementTypeaspose.finance.ofx/ofxelementtype.
+description: Получает или задает коллекциюOfxElementTypeaspose.finance.ofx/ofxelementtype .
 type: docs
 weight: 20
 url: /ru/net/aspose.finance.ofx/ofxextensiontype/ofxelements/
 ---
 ## OfxExtensionType.OfxElements property
 
-Получает или задает коллекцию[`OfxElementType`](../../ofxelementtype).
+Получает или задает коллекцию[`OfxElementType`](../../ofxelementtype) .
 
 ```csharp
 public List<OfxElementType> OfxElements { get; set; }

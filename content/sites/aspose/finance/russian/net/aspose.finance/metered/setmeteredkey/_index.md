@@ -1,14 +1,14 @@
 ---
 title: SetMeteredKey
 second_title: Справочник по API Aspose.Finance для .NET
-description: Устанавливает дозированные открытый и закрытый ключ
+description: Устанавливает лимитированный открытый и закрытый ключ
 type: docs
 weight: 20
 url: /ru/net/aspose.finance/metered/setmeteredkey/
 ---
 ## Metered.SetMeteredKey method
 
-Устанавливает дозированные открытый и закрытый ключ
+Устанавливает лимитированный открытый и закрытый ключ
 
 ```csharp
 public void SetMeteredKey(string publicKey, string privateKey)

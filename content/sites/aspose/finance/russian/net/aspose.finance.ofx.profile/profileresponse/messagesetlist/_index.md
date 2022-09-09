@@ -1,14 +1,14 @@
 ---
 title: MessageSetList
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задаетMessageSetListaspose.finance.ofx.profile/profileresponse/messagesetlist.
+description: Получает или задаетMessageSetListaspose.finance.ofx.profile/profileresponse/messagesetlist .
 type: docs
 weight: 110
 url: /ru/net/aspose.finance.ofx.profile/profileresponse/messagesetlist/
 ---
 ## ProfileResponse.MessageSetList property
 
-Получает или задает`MessageSetList`.
+Получает или задает`MessageSetList` .
 
 ```csharp
 public MessageSetList MessageSetList { get; set; }

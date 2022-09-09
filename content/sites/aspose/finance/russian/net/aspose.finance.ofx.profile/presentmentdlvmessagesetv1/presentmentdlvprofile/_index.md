@@ -1,14 +1,14 @@
 ---
 title: PresentmentDlvProfile
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задаетPresentmentDlvProfileaspose.finance.ofx.profile/presentmentdlvmessagesetv1/presentmentdlvprofile.
+description: Получает или задаетPresentmentDlvProfileaspose.finance.ofx.profile/presentmentdlvmessagesetv1/presentmentdlvprofile .
 type: docs
 weight: 30
 url: /ru/net/aspose.finance.ofx.profile/presentmentdlvmessagesetv1/presentmentdlvprofile/
 ---
 ## PresentmentDlvMessageSetV1.PresentmentDlvProfile property
 
-Получает или задает`PresentmentDlvProfile`.
+Получает или задает`PresentmentDlvProfile` .
 
 ```csharp
 public PresentmentDlvProfile PresentmentDlvProfile { get; set; }

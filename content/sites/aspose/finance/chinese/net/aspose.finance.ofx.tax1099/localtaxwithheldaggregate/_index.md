@@ -1,14 +1,14 @@
 ---
 title: LocalTaxWithheldAggregate
 second_title: Aspose.Finance for .NET API 参考
-description: 地方税代扣班
+description: 地方税代扣类
 type: docs
 weight: 5910
 url: /zh/net/aspose.finance.ofx.tax1099/localtaxwithheldaggregate/
 ---
 ## LocalTaxWithheldAggregate class
 
-地方税代扣班。
+地方税代扣类。
 
 ```csharp
 public class LocalTaxWithheldAggregate
@@ -18,7 +18,7 @@ public class LocalTaxWithheldAggregate
 
 | 姓名 | 描述 |
 | --- | --- |
-| [LocalTaxWithheldAggregate](localtaxwithheldaggregate)() | 初始化[`LocalTaxWithheldAggregate`](../localtaxwithheldaggregate)类的新实例。 |
+| [LocalTaxWithheldAggregate](localtaxwithheldaggregate)() | 初始化一个新的实例[`LocalTaxWithheldAggregate`](../localtaxwithheldaggregate)类. |
 
 ## 特性
 

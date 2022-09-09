@@ -1,14 +1,14 @@
 ---
 title: InsertData
 second_title: Aspose.Finance for .NET API 参考
-description: 在指定的偏移处插入一个字符串
+description: 在指定偏移处插入一个字符串
 type: docs
 weight: 50
 url: /zh/net/aspose.finance.xbrl.dom/characterdata/insertdata/
 ---
 ## CharacterData.InsertData method
 
-在指定的偏移处插入一个字符串。
+在指定偏移处插入一个字符串。
 
 ```csharp
 public virtual void InsertData(int offset, string data)

@@ -1,14 +1,14 @@
 ---
 title: OpenOrderSellOption
 second_title: Aspose.Finance for .NET API 参考
-description: 开仓卖出期权类
+description: 开单卖出期权类
 type: docs
 weight: 3290
 url: /zh/net/aspose.finance.ofx.investment/openorderselloption/
 ---
 ## OpenOrderSellOption class
 
-开仓卖出期权类。
+开单卖出期权类。
 
 ```csharp
 public class OpenOrderSellOption : AbstractOpenOrder
@@ -18,13 +18,13 @@ public class OpenOrderSellOption : AbstractOpenOrder
 
 | 姓名 | 描述 |
 | --- | --- |
-| [OpenOrderSellOption](openorderselloption)() | 初始化[`OpenOrderSellOption`](../openorderselloption)类的新实例。 |
+| [OpenOrderSellOption](openorderselloption)() | 初始化一个新的实例[`OpenOrderSellOption`](../openorderselloption)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [OpenOrder](../../aspose.finance.ofx.investment/abstractopenorder/openorder) { get; set; } | 获取或设置[`GeneralOpenOrder`](../generalopenorder)。 |
+| [OpenOrder](../../aspose.finance.ofx.investment/abstractopenorder/openorder) { get; set; } | 获取或设置[`GeneralOpenOrder`](../generalopenorder). |
 | [OptionSellType](../../aspose.finance.ofx.investment/openorderselloption/optionselltype) { get; set; } | 获取或设置销售类型。 |
 
 ### 也可以看看

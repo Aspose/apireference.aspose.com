@@ -1,14 +1,14 @@
 ---
 title: InvestmentExpense
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаInvestmentExpenseaspose.finance.ofx.investment/investmentexpense.
+description: Инициализирует новый экземплярInvestmentExpenseaspose.finance.ofx.investment/investmentexpense класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.investment/investmentexpense/investmentexpense/
 ---
 ## InvestmentExpense constructor
 
-Инициализирует новый экземпляр класса[`InvestmentExpense`](../../investmentexpense).
+Инициализирует новый экземпляр[`InvestmentExpense`](../../investmentexpense) класс.
 
 ```csharp
 public InvestmentExpense()

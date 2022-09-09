@@ -18,7 +18,7 @@ public class RecurringPaymentRequest : AbstractRecurringPaymentRequest
 
 | 姓名 | 描述 |
 | --- | --- |
-| [RecurringPaymentRequest](recurringpaymentrequest)() | 初始化[`RecurringPaymentRequest`](../recurringpaymentrequest)类的新实例。 |
+| [RecurringPaymentRequest](recurringpaymentrequest)() | 初始化一个新的实例[`RecurringPaymentRequest`](../recurringpaymentrequest)类. |
 
 ## 特性
 
@@ -26,8 +26,8 @@ public class RecurringPaymentRequest : AbstractRecurringPaymentRequest
 | --- | --- |
 | [FinalAmount](../../aspose.finance.ofx.billpay/recurringpaymentrequest/finalamount) { get; set; } | 获取或设置最终支付的金额。 |
 | [InitialAmount](../../aspose.finance.ofx.billpay/recurringpaymentrequest/initialamount) { get; set; } | 获取或设置首期付款金额。 |
-| [PaymentInfo](../../aspose.finance.ofx.billpay/recurringpaymentrequest/paymentinfo) { get; set; } | 获取或设置[`PaymentInfo`](./paymentinfo)。 |
-| [RecurringInstructions](../../aspose.finance.ofx.billpay/recurringpaymentrequest/recurringinstructions) { get; set; } | 获取或设置[`RecurringInstructions`](./recurringinstructions)。 |
+| [PaymentInfo](../../aspose.finance.ofx.billpay/recurringpaymentrequest/paymentinfo) { get; set; } | 获取或设置[`PaymentInfo`](./paymentinfo). |
+| [RecurringInstructions](../../aspose.finance.ofx.billpay/recurringpaymentrequest/recurringinstructions) { get; set; } | 获取或设置[`RecurringInstructions`](./recurringinstructions). |
 
 ### 也可以看看
 

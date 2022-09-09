@@ -18,14 +18,14 @@ public class IncPosition
 
 | 姓名 | 描述 |
 | --- | --- |
-| [IncPosition](incposition)() | 初始化[`IncPosition`](../incposition)类的新实例。 |
+| [IncPosition](incposition)() | 初始化一个新的实例[`IncPosition`](../incposition)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [DateAsOf](../../aspose.finance.ofx.investment/incposition/dateasof) { get; set; } | 获取或设置应发送位置的日期。 |
-| [Include](../../aspose.finance.ofx.investment/incposition/include) { get; set; } | 获取或设置是否在报表下载中包含位置。 |
+| [DateAsOf](../../aspose.finance.ofx.investment/incposition/dateasof) { get; set; } | 获取或设置应发送头寸的日期。 |
+| [Include](../../aspose.finance.ofx.investment/incposition/include) { get; set; } | 获取或设置语句下载中是否包含仓位。 |
 
 ### 也可以看看
 

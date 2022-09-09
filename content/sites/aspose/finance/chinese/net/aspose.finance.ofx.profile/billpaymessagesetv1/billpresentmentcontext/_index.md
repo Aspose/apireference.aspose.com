@@ -1,14 +1,14 @@
 ---
 title: BillPresentmentContext
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置支付提供商是否支持支付操作中的账单提示上下文信息
+description: 获取或设置支付提供商是否支持支付操作中的账单呈现上下文信息
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.ofx.profile/billpaymessagesetv1/billpresentmentcontext/
 ---
 ## BillPayMessageSetV1.BillPresentmentContext property
 
-获取或设置支付提供商是否支持支付操作中的账单提示上下文信息。
+获取或设置支付提供商是否支持支付操作中的账单呈现上下文信息。
 
 ```csharp
 public bool BillPresentmentContext { get; set; }

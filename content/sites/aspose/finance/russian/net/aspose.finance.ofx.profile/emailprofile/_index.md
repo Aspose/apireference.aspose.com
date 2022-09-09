@@ -18,14 +18,14 @@ public class EmailProfile
 
 | Имя | Описание |
 | --- | --- |
-| [EmailProfile](emailprofile)() | Инициализирует новый экземпляр класса[`EmailProfile`](../emailprofile). |
+| [EmailProfile](emailprofile)() | Инициализирует новый экземпляр[`EmailProfile`](../emailprofile) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
 | [CanEmail](../../aspose.finance.ofx.profile/emailprofile/canemail) { get; set; } | Получает или задает, поддерживает ли общая банковская электронная почта |
-| [CanNotify](../../aspose.finance.ofx.profile/emailprofile/cannotify) { get; set; } | Получает или задает, возвращает ли сервер!:DepositMailResponseили!:CheckMailResponseв ответах синхронизации. |
+| [CanNotify](../../aspose.finance.ofx.profile/emailprofile/cannotify) { get; set; } | Получает или устанавливает, возвращает ли сервер!:DepositMailResponse или же!:CheckMailResponse в ответах на синхронизацию. |
 
 ### Смотрите также
 

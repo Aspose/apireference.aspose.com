@@ -1,14 +1,14 @@
 ---
 title: FederalTaxWithheld
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置预扣的联邦税
+description: 获取或设置联邦预扣税
 type: docs
 weight: 80
 url: /zh/net/aspose.finance.ofx.taxw2/taxw2_v100/federaltaxwithheld/
 ---
 ## TaxW2_V100.FederalTaxWithheld property
 
-获取或设置预扣的联邦税。
+获取或设置联邦预扣税。
 
 ```csharp
 public string FederalTaxWithheld { get; set; }

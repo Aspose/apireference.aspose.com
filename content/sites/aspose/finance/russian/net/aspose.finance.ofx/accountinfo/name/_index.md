@@ -1,14 +1,14 @@
 ---
 title: Name
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает имя/псевдоним для учетной записи.
+description: Получает или задает имя/псевдоним для учетной записи определяемый пользователем.
 type: docs
 weight: 50
 url: /ru/net/aspose.finance.ofx/accountinfo/name/
 ---
 ## AccountInfo.Name property
 
-Получает или задает имя/псевдоним для учетной записи.
+Получает или задает имя/псевдоним для учетной записи, определяемый пользователем.
 
 ```csharp
 public string Name { get; set; }

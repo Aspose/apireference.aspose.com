@@ -1,14 +1,14 @@
 ---
 title: YearToDate
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化YearToDateaspose.finance.ofx.investment/yeartodate类的新实例
+description: 初始化一个新的实例YearToDateaspose.finance.ofx.investment/yeartodate类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.investment/yeartodate/yeartodate/
 ---
 ## YearToDate constructor
 
-初始化[`YearToDate`](../../yeartodate)类的新实例。
+初始化一个新的实例[`YearToDate`](../../yeartodate)类.
 
 ```csharp
 public YearToDate()

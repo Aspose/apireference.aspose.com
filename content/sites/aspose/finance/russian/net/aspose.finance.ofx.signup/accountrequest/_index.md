@@ -1,14 +1,14 @@
 ---
 title: AccountRequest
 second_title: Справочник по API Aspose.Finance для .NET
-description: Класс запроса обслуживания счета.
+description: Класс запроса на обслуживание учетной записи.
 type: docs
 weight: 5480
 url: /ru/net/aspose.finance.ofx.signup/accountrequest/
 ---
 ## AccountRequest class
 
-Класс запроса обслуживания счета.
+Класс запроса на обслуживание учетной записи.
 
 ```csharp
 public class AccountRequest
@@ -18,14 +18,14 @@ public class AccountRequest
 
 | Имя | Описание |
 | --- | --- |
-| [AccountRequest](accountrequest)() | Инициализирует новый экземпляр класса[`AccountRequest`](../accountrequest). |
+| [AccountRequest](accountrequest)() | Инициализирует новый экземпляр[`AccountRequest`](../accountrequest) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
 | [Service](../../aspose.finance.ofx.signup/accountrequest/service) { get; set; } | Получает или задает службу для добавления/изменения/удаления. |
-| [ServiceAction](../../aspose.finance.ofx.signup/accountrequest/serviceaction) { get; set; } | Получает или задает[`ServiceAdd`](../serviceadd)или[`ServiceChange`](../servicechange)или[`ServiceDelete`](../servicedelete). |
+| [ServiceAction](../../aspose.finance.ofx.signup/accountrequest/serviceaction) { get; set; } | Получает или задает[`ServiceAdd`](../serviceadd) или же[`ServiceChange`](../servicechange) или же[`ServiceDelete`](../servicedelete) . |
 
 ### Смотрите также
 

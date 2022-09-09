@@ -18,7 +18,7 @@ public class PrincipalBalanceType
 
 | 姓名 | 描述 |
 | --- | --- |
-| [PrincipalBalanceType](principalbalancetype)() | 初始化[`PrincipalBalanceType`](../principalbalancetype)类的新实例。 |
+| [PrincipalBalanceType](principalbalancetype)() | 初始化一个新的实例[`PrincipalBalanceType`](../principalbalancetype)类. |
 
 ## 特性
 
@@ -27,7 +27,7 @@ public class PrincipalBalanceType
 | [BalanceAmount](../../aspose.finance.ofx/principalbalancetype/balanceamount) { get; set; } | 获取或设置当前贷款本金余额 |
 | [DateAsOf](../../aspose.finance.ofx/principalbalancetype/dateasof) { get; set; } | 获取或设置当前贷款余额的日期和时间。 |
 | [PrincipalLoanToDate](../../aspose.finance.ofx/principalbalancetype/principalloantodate) { get; set; } | 获取或设置迄今为止支付的贷款本金总额。 |
-| [PrincipalYearToDate](../../aspose.finance.ofx/principalbalancetype/principalyeartodate) { get; set; } | 获取或设置年初至今支付的总本金。 |
+| [PrincipalYearToDate](../../aspose.finance.ofx/principalbalancetype/principalyeartodate) { get; set; } | 获取或设置年初至今支付的本金总额。 |
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: StopCheckNumber
 second_title: Справочник по API Aspose.Finance для .NET
-description: Остановить проверку класса элемента.
+description: Прекратить проверку класса элемента.
 type: docs
 weight: 710
 url: /ru/net/aspose.finance.ofx.bank/stopchecknumber/
 ---
 ## StopCheckNumber class
 
-Остановить проверку класса элемента.
+Прекратить проверку класса элемента.
 
 ```csharp
 public class StopCheckNumber
@@ -18,7 +18,7 @@ public class StopCheckNumber
 
 | Имя | Описание |
 | --- | --- |
-| [StopCheckNumber](stopchecknumber)() | Инициализирует новый экземпляр класса[`StopCheckNumber`](../stopchecknumber). |
+| [StopCheckNumber](stopchecknumber)() | Инициализирует новый экземпляр[`StopCheckNumber`](../stopchecknumber) класс. |
 
 ## Характеристики
 
@@ -26,12 +26,12 @@ public class StopCheckNumber
 | --- | --- |
 | [CheckError](../../aspose.finance.ofx.bank/stopchecknumber/checkerror) { get; set; } | Получает или задает дополнительное текстовое объяснение. |
 | [CheckNumber](../../aspose.finance.ofx.bank/stopchecknumber/checknumber) { get; set; } | Получает или задает контрольный номер. |
-| [CheckStatus](../../aspose.finance.ofx.bank/stopchecknumber/checkstatus) { get; set; } | Получает или задает код состояния для отдельного запроса на остановку проверки. |
-| [Currency](../../aspose.finance.ofx.bank/stopchecknumber/currency) { get; set; } | Получает или задает[`Currency`](./currency). |
+| [CheckStatus](../../aspose.finance.ofx.bank/stopchecknumber/checkstatus) { get; set; } | Получает или задает код состояния для отдельного запроса на проверку остановки. |
+| [Currency](../../aspose.finance.ofx.bank/stopchecknumber/currency) { get; set; } | Получает или задает[`Currency`](./currency) . |
 | [Name](../../aspose.finance.ofx.bank/stopchecknumber/name) { get; set; } | Получает или задает имя или описание получателя платежа |
-| [OriginCurrency](../../aspose.finance.ofx.bank/stopchecknumber/origincurrency) { get; set; } | Получает или задает Origin[`Currency`](./currency). |
+| [OriginCurrency](../../aspose.finance.ofx.bank/stopchecknumber/origincurrency) { get; set; } | Получает или задает источник[`Currency`](./currency) . |
 | [TransactionAmount](../../aspose.finance.ofx.bank/stopchecknumber/transactionamount) { get; set; } | Получает или задает сумму транзакции. |
-| [UserDate](../../aspose.finance.ofx.bank/stopchecknumber/userdate) { get; set; } | Получает или задает дату проверки. |
+| [UserDate](../../aspose.finance.ofx.bank/stopchecknumber/userdate) { get; set; } | Получает или устанавливает дату проверки. |
 
 ### Смотрите также
 

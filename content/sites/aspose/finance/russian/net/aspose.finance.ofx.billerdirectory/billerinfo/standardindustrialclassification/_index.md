@@ -1,14 +1,14 @@
 ---
 title: StandardIndustrialClassification
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает код стандартной отраслевой классификации выставляющего счета.
+description: Получает или задает код стандартной отраслевой классификации биллера.
 type: docs
 weight: 190
 url: /ru/net/aspose.finance.ofx.billerdirectory/billerinfo/standardindustrialclassification/
 ---
 ## BillerInfo.StandardIndustrialClassification property
 
-Получает или задает код стандартной отраслевой классификации выставляющего счета.
+Получает или задает код стандартной отраслевой классификации биллера.
 
 ```csharp
 public string StandardIndustrialClassification { get; set; }

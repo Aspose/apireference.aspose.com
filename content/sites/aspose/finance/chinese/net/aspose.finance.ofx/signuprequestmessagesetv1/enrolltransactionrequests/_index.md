@@ -1,14 +1,14 @@
 ---
 title: EnrollTransactionRequests
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置EnrollTransactionRequestaspose.finance.ofx.signup/enrolltransactionrequest的集合
+description: 获取或设置的集合EnrollTransactionRequestaspose.finance.ofx.signup/enrolltransactionrequest.
 type: docs
 weight: 70
 url: /zh/net/aspose.finance.ofx/signuprequestmessagesetv1/enrolltransactionrequests/
 ---
 ## SignupRequestMessageSetV1.EnrollTransactionRequests property
 
-获取或设置[`EnrollTransactionRequest`](../../../aspose.finance.ofx.signup/enrolltransactionrequest)的集合。
+获取或设置的集合[`EnrollTransactionRequest`](../../../aspose.finance.ofx.signup/enrolltransactionrequest).
 
 ```csharp
 public List<EnrollTransactionRequest> EnrollTransactionRequests { get; set; }

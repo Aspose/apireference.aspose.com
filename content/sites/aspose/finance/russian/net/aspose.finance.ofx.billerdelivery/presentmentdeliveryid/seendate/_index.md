@@ -1,14 +1,14 @@
 ---
 title: SeenDate
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает дату и время когда счет был сделан доступным клиенту запрашивающей стороны.
+description: Получает или задает дату и время когда счет был сделан доступным для клиента запрашивающей стороны.
 type: docs
 weight: 40
 url: /ru/net/aspose.finance.ofx.billerdelivery/presentmentdeliveryid/seendate/
 ---
 ## PresentmentDeliveryId.SeenDate property
 
-Получает или задает дату и время, когда счет был сделан доступным клиенту запрашивающей стороны.
+Получает или задает дату и время, когда счет был сделан доступным для клиента запрашивающей стороны.
 
 ```csharp
 public string SeenDate { get; set; }

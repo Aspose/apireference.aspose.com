@@ -18,13 +18,13 @@ public class TaxW2MessageSetV1 : AbstractMessageSetVersion
 
 | Имя | Описание |
 | --- | --- |
-| [TaxW2MessageSetV1](taxw2messagesetv1)() | Инициализирует новый экземпляр класса[`TaxW2MessageSetV1`](../taxw2messagesetv1). |
+| [TaxW2MessageSetV1](taxw2messagesetv1)() | Инициализирует новый экземпляр[`TaxW2MessageSetV1`](../taxw2messagesetv1) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [MessageSetCore](../../aspose.finance.ofx.profile/abstractmessagesetversion/messagesetcore) { get; set; } | Получает или задает[`MessageSetCore`](../abstractmessagesetversion/messagesetcore). |
+| [MessageSetCore](../../aspose.finance.ofx.profile/abstractmessagesetversion/messagesetcore) { get; set; } | Получает или задает[`MessageSetCore`](../abstractmessagesetversion/messagesetcore) . |
 | [TaxW2Download](../../aspose.finance.ofx.profile/taxw2messagesetv1/taxw2download) { get; set; } | Получает или задает, поддерживает ли сервер загрузку налоговой формы W2. |
 | [TaxYearSupporteds](../../aspose.finance.ofx.profile/taxw2messagesetv1/taxyearsupporteds) { get; set; } | Получает или задает годы, поддерживаемые для загрузки W2 для этого сервера. |
 

@@ -1,14 +1,14 @@
 ---
 title: RecurringInterModRequest
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化RecurringInterModRequestaspose.finance.ofx.intertransfer/recurringintermodrequest类的新实例
+description: 初始化一个新的实例RecurringInterModRequestaspose.finance.ofx.intertransfer/recurringintermodrequest类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.intertransfer/recurringintermodrequest/recurringintermodrequest/
 ---
 ## RecurringInterModRequest constructor
 
-初始化[`RecurringInterModRequest`](../../recurringintermodrequest)类的新实例。
+初始化一个新的实例[`RecurringInterModRequest`](../../recurringintermodrequest)类.
 
 ```csharp
 public RecurringInterModRequest()

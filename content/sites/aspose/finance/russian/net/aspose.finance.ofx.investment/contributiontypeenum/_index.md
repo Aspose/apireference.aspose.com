@@ -1,14 +1,14 @@
 ---
 title: ContributionTypeEnum
 second_title: Справочник по API Aspose.Finance для .NET
-description: Тип распределения вклада.
+description: Тип распределения взносов.
 type: docs
 weight: 2790
 url: /ru/net/aspose.finance.ofx.investment/contributiontypeenum/
 ---
 ## ContributionTypeEnum enumeration
 
-Тип распределения вклада.
+Тип распределения взносов.
 
 ```csharp
 public enum ContributionTypeEnum
@@ -18,7 +18,7 @@ public enum ContributionTypeEnum
 
 | Имя | Ценность | Описание |
 | --- | --- | --- |
-| PCT | `0` | Проценты |
+| PCT | `0` | Процент |
 | AMT | `1` | Сумма |
 
 ### Смотрите также

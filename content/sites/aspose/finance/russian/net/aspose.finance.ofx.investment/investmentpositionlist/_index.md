@@ -18,13 +18,13 @@ public class InvestmentPositionList
 
 | Имя | Описание |
 | --- | --- |
-| [InvestmentPositionList](investmentpositionlist)() | Инициализирует новый экземпляр класса[`InvestmentPositionList`](../investmentpositionlist). |
+| [InvestmentPositionList](investmentpositionlist)() | Инициализирует новый экземпляр[`InvestmentPositionList`](../investmentpositionlist) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [InvestmentPositions](../../aspose.finance.ofx.investment/investmentpositionlist/investmentpositions) { get; set; } | Получает или задает коллекцию[`PositionMutualFund`](../positionmutualfund)или[`PositionStock`](../positionstock) или[`PositionDebt`](../positiondebt)или[`PositionOption`](../positionoption)или[`PositionOther`](../positionother). |
+| [InvestmentPositions](../../aspose.finance.ofx.investment/investmentpositionlist/investmentpositions) { get; set; } | Получает или задает коллекцию[`PositionMutualFund`](../positionmutualfund) или же[`PositionStock`](../positionstock) или[`PositionDebt`](../positiondebt) или же[`PositionOption`](../positionoption) или же[`PositionOther`](../positionother) . |
 
 ### Смотрите также
 

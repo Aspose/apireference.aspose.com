@@ -1,14 +1,14 @@
 ---
 title: PaymentProcessingStatus
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化PaymentProcessingStatusaspose.finance.ofx.billpay/paymentprocessingstatus类的新实例
+description: 初始化一个新的实例PaymentProcessingStatusaspose.finance.ofx.billpay/paymentprocessingstatus类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.billpay/paymentprocessingstatus/paymentprocessingstatus/
 ---
 ## PaymentProcessingStatus constructor
 
-初始化[`PaymentProcessingStatus`](../../paymentprocessingstatus)类的新实例。
+初始化一个新的实例[`PaymentProcessingStatus`](../../paymentprocessingstatus)类.
 
 ```csharp
 public PaymentProcessingStatus()

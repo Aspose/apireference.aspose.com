@@ -1,14 +1,14 @@
 ---
 title: ElementPeriodType
 second_title: Справочник по API Aspose.Finance для .NET
-description: Concept./conceptтип периода перечисление.
+description: Concept./concept тип периода enum.
 type: docs
 weight: 7600
 url: /ru/net/aspose.finance.xbrl/elementperiodtype/
 ---
 ## ElementPeriodType enumeration
 
-[`Concept`](../concept)тип периода перечисление.
+[`Concept`](../concept) тип периода enum.
 
 ```csharp
 public enum ElementPeriodType

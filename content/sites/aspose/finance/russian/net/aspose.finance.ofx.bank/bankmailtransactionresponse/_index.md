@@ -1,14 +1,14 @@
 ---
 title: BankMailTransactionResponse
 second_title: Справочник по API Aspose.Finance для .NET
-description: Класс ответа транзакции банковской почты.
+description: Класс ответа на банковскую почтовую транзакцию.
 type: docs
 weight: 360
 url: /ru/net/aspose.finance.ofx.bank/bankmailtransactionresponse/
 ---
 ## BankMailTransactionResponse class
 
-Класс ответа транзакции банковской почты.
+Класс ответа на банковскую почтовую транзакцию.
 
 ```csharp
 public class BankMailTransactionResponse : AbstractTransactionResponse
@@ -18,16 +18,16 @@ public class BankMailTransactionResponse : AbstractTransactionResponse
 
 | Имя | Описание |
 | --- | --- |
-| [BankMailTransactionResponse](bankmailtransactionresponse)() | Инициализирует новый экземпляр класса[`BankMailTransactionResponse`](../bankmailtransactionresponse). |
+| [BankMailTransactionResponse](bankmailtransactionresponse)() | Инициализирует новый экземпляр[`BankMailTransactionResponse`](../bankmailtransactionresponse) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [ClientCookie](../../aspose.finance.ofx/abstracttransactionresponse/clientcookie) { get; set; } | Получает или задает данные, которые будут отображаться в ответе транзакции |
-| [MailResponse](../../aspose.finance.ofx.bank/bankmailtransactionresponse/mailresponse) { get; set; } | Получает или задает[`BankMailResponse`](../bankmailresponse)или[`CheckMailResponse`](../checkmailresponse)или[`DepositMailResponse`](../depositmailresponse). |
-| [OfxExtension](../../aspose.finance.ofx.bank/bankmailtransactionresponse/ofxextension) { get; set; } | Получает или задает[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
-| [Status](../../aspose.finance.ofx/abstracttransactionresponse/status) { get; set; } | Получает или задает[`Status`](../../aspose.finance.ofx/abstracttransactionresponse/status). |
+| [ClientCookie](../../aspose.finance.ofx/abstracttransactionresponse/clientcookie) { get; set; } | Получает или задает данные, которые будут отражены в транзакции response |
+| [MailResponse](../../aspose.finance.ofx.bank/bankmailtransactionresponse/mailresponse) { get; set; } | Получает или задает[`BankMailResponse`](../bankmailresponse) или же[`CheckMailResponse`](../checkmailresponse) или же[`DepositMailResponse`](../depositmailresponse) . |
+| [OfxExtension](../../aspose.finance.ofx.bank/bankmailtransactionresponse/ofxextension) { get; set; } | Получает или задает[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype) . |
+| [Status](../../aspose.finance.ofx/abstracttransactionresponse/status) { get; set; } | Получает или задает[`Status`](../../aspose.finance.ofx/abstracttransactionresponse/status) . |
 | [TransactionUniqueId](../../aspose.finance.ofx/abstracttransactionresponse/transactionuniqueid) { get; set; } | Получает или задает назначенный клиентом глобальный уникальный идентификатор для этой транзакции. |
 
 ### Смотрите также

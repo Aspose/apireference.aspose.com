@@ -1,14 +1,14 @@
 ---
 title: AbstractRecurringIntraResponse
 second_title: Справочник по API Aspose.Finance для .NET
-description: Абстрактный базовый класс для всех повторяющихся классов ответа на внутрибанковский перевод.
+description: Абстрактный базовый класс для всех классов связанных с повторяющимися ответами на внутрибанковские переводы.
 type: docs
 weight: 300
 url: /ru/net/aspose.finance.ofx.bank/abstractrecurringintraresponse/
 ---
 ## AbstractRecurringIntraResponse class
 
-Абстрактный базовый класс для всех повторяющихся классов ответа на внутрибанковский перевод.
+Абстрактный базовый класс для всех классов, связанных с повторяющимися ответами на внутрибанковские переводы.
 
 ```csharp
 public abstract class AbstractRecurringIntraResponse

@@ -18,13 +18,13 @@ public class WireCancellationResponse : AbstractWireResponse
 
 | Имя | Описание |
 | --- | --- |
-| [WireCancellationResponse](wirecancellationresponse)() | Инициализирует новый экземпляр класса[`WireCancellationResponse`](../wirecancellationresponse). |
+| [WireCancellationResponse](wirecancellationresponse)() | Инициализирует новый экземпляр[`WireCancellationResponse`](../wirecancellationresponse) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [ServerId](../../aspose.finance.ofx.wiretransfer/wirecancellationresponse/serverid) { get; set; } | Получает или задает идентификатор переноса, который необходимо отменить. |
+| [ServerId](../../aspose.finance.ofx.wiretransfer/wirecancellationresponse/serverid) { get; set; } | Получает или задает идентификатор переноса, который нужно отменить. |
 
 ### Смотрите также
 

@@ -1,14 +1,14 @@
 ---
 title: TransferInfo
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задаетTransferInfoaspose.finance.ofx.intertransfer/interrequest/transferinfo.
+description: Получает или задаетTransferInfoaspose.finance.ofx.intertransfer/interrequest/transferinfo .
 type: docs
 weight: 20
 url: /ru/net/aspose.finance.ofx.intertransfer/interrequest/transferinfo/
 ---
 ## InterRequest.TransferInfo property
 
-Получает или задает`TransferInfo`.
+Получает или задает`TransferInfo` .
 
 ```csharp
 public TransferInfo TransferInfo { get; set; }

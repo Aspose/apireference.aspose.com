@@ -1,14 +1,14 @@
 ---
 title: BillDetailTable
 second_title: Aspose.Finance for .NET API 参考
-description: 账单明细表允许计费者以灵活的方式向客户发送表格数据该表可能包含电话账单中的电话呼叫或水电费账单中的电表读数
+description: 账单明细表允许计费者以灵活的方式向客户发送表格数据该表可能包含电话账单中的电话或水电费账单中的电表读数
 type: docs
 weight: 1420
 url: /zh/net/aspose.finance.ofx.billerdelivery/billdetailtable/
 ---
 ## BillDetailTable class
 
-账单明细表允许计费者以灵活的方式向客户发送表格数据。该表可能包含电话账单中的电话呼叫，或水电费账单中的电表读数。
+账单明细表允许计费者以灵活的方式向客户发送表格数据。该表可能包含电话账单中的电话，或水电费账单中的电表读数。
 
 ```csharp
 public class BillDetailTable
@@ -18,15 +18,15 @@ public class BillDetailTable
 
 | 姓名 | 描述 |
 | --- | --- |
-| [BillDetailTable](billdetailtable)() | 初始化[`BillDetailTable`](../billdetailtable)类的新实例。 |
+| [BillDetailTable](billdetailtable)() | 初始化一个新的实例[`BillDetailTable`](../billdetailtable)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [BillDetailRows](../../aspose.finance.ofx.billerdelivery/billdetailtable/billdetailrows) { get; set; } | 获取或设置[`BillDetailRow`](../billdetailrow)的集合。 |
+| [BillDetailRows](../../aspose.finance.ofx.billerdelivery/billdetailtable/billdetailrows) { get; set; } | 获取或设置的集合[`BillDetailRow`](../billdetailrow). |
 | [BillDetailTableType](../../aspose.finance.ofx.billerdelivery/billdetailtable/billdetailtabletype) { get; set; } | 获取或设置账单明细表的类型。 |
-| [TableName](../../aspose.finance.ofx.billerdelivery/billdetailtable/tablename) { get; set; } | 获取或设置账单明细表名称。 |
+| [TableName](../../aspose.finance.ofx.billerdelivery/billdetailtable/tablename) { get; set; } | 获取或设置账单明细表名称 |
 
 ### 也可以看看
 

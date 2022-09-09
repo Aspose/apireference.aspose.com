@@ -1,14 +1,14 @@
 ---
 title: MatchInfo
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化MatchInfoaspose.finance.ofx.investment/matchinfo类的新实例
+description: 初始化一个新的实例MatchInfoaspose.finance.ofx.investment/matchinfo类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.investment/matchinfo/matchinfo/
 ---
 ## MatchInfo constructor
 
-初始化[`MatchInfo`](../../matchinfo)类的新实例。
+初始化一个新的实例[`MatchInfo`](../../matchinfo)类.
 
 ```csharp
 public MatchInfo()

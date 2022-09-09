@@ -1,14 +1,14 @@
 ---
 title: Transfer
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаTransferaspose.finance.ofx.investment/transfer.
+description: Инициализирует новый экземплярTransferaspose.finance.ofx.investment/transfer класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.investment/transfer/transfer/
 ---
 ## Transfer constructor
 
-Инициализирует новый экземпляр класса[`Transfer`](../../transfer).
+Инициализирует новый экземпляр[`Transfer`](../../transfer) класс.
 
 ```csharp
 public Transfer()

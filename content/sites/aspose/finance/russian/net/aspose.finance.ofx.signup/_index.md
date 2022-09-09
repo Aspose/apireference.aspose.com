@@ -14,26 +14,26 @@ url: /ru/net/aspose.finance.ofx.signup/
 | --- | --- |
 | [AbstractServiceAction](./abstractserviceaction) | Абстрактный базовый класс для классов, связанных с действиями службы. |
 | [AccountInfoTransactionRequest](./accountinfotransactionrequest) | Класс запроса транзакции с информацией об учетной записи. |
-| [AccountInfoTransactionResponse](./accountinfotransactionresponse) | Класс ответа транзакции с информацией об учетной записи. |
-| [AccountRequest](./accountrequest) | Класс запроса обслуживания счета. |
+| [AccountInfoTransactionResponse](./accountinfotransactionresponse) | Класс ответа на транзакцию информации об учетной записи. |
+| [AccountRequest](./accountrequest) | Класс запроса на обслуживание учетной записи. |
 | [AccountResponse](./accountresponse) | Класс ответа службы учетной записи. |
 | [AccountSyncRequest](./accountsyncrequest) | Класс запроса синхронизации активации службы. |
 | [AccountSyncResponse](./accountsyncresponse) | Класс ответа синхронизации активации службы. |
 | [AccountTransactionRequest](./accounttransactionrequest) | Класс запроса транзакции обслуживания счета. |
-| [AccountTransactionResponse](./accounttransactionresponse) | Класс ответа транзакции службы счета. |
+| [AccountTransactionResponse](./accounttransactionresponse) | Класс ответа транзакции службы учетной записи. |
 | [ChangeUserInfoRequest](./changeuserinforequest) | Изменить класс запроса информации о пользователе. |
-| [ChangeUserInfoResponse](./changeuserinforesponse) | Изменить класс ответа информации о пользователе. |
+| [ChangeUserInfoResponse](./changeuserinforesponse) | Изменить класс ответа на информацию о пользователе. |
 | [ChangeUserInfoSyncRequest](./changeuserinfosyncrequest) | Изменить класс запроса синхронизации информации пользователя. |
-| [ChangeUserInfoSyncResponse](./changeuserinfosyncresponse) | Изменить класс ответа синхронизации информации о пользователе. |
+| [ChangeUserInfoSyncResponse](./changeuserinfosyncresponse) | Изменить класс ответа на синхронизацию информации о пользователе. |
 | [ChangeUserInfoTransactionRequest](./changeuserinfotransactionrequest) | Изменить класс запроса транзакции с информацией о пользователе. |
-| [ChangeUserInfoTransactionResponse](./changeuserinfotransactionresponse) | Изменить класс ответа транзакции с информацией о пользователе. |
+| [ChangeUserInfoTransactionResponse](./changeuserinfotransactionresponse) | Изменить класс ответа на транзакцию с информацией о пользователе. |
 | [EnrollRequest](./enrollrequest) | Класс запроса на регистрацию. |
 | [EnrollResponse](./enrollresponse) | Класс ответа на регистрацию. |
 | [EnrollTransactionRequest](./enrolltransactionrequest) | Класс запроса транзакции регистрации. |
 | [EnrollTransactionResponse](./enrolltransactionresponse) | Класс ответа транзакции регистрации. |
 | [ServiceAdd](./serviceadd) | Класс добавления услуги. |
 | [ServiceChange](./servicechange) | Класс смены услуги. |
-| [ServiceDelete](./servicedelete) | Класс удаления услуги. |
+| [ServiceDelete](./servicedelete) | Класс удаления службы. |
 ## перечисление
 
 | перечисление | Описание |

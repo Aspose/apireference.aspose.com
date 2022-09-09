@@ -1,14 +1,14 @@
 ---
 title: NodeName
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает имя этой инструкции по обработке.
+description: Получает имя этой инструкции обработки.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.xbrl.dom/processinginstruction/nodename/
 ---
 ## ProcessingInstruction.NodeName property
 
-Получает имя этой инструкции по обработке.
+Получает имя этой инструкции обработки.
 
 ```csharp
 public override string NodeName { get; }

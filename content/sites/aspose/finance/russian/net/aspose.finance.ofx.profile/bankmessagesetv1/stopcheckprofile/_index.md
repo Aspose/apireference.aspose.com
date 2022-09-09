@@ -1,14 +1,14 @@
 ---
 title: StopCheckProfile
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задаетStopCheckProfileaspose.finance.ofx.profile/bankmessagesetv1/stopcheckprofile.
+description: Получает или задаетStopCheckProfileaspose.finance.ofx.profile/bankmessagesetv1/stopcheckprofile .
 type: docs
 weight: 70
 url: /ru/net/aspose.finance.ofx.profile/bankmessagesetv1/stopcheckprofile/
 ---
 ## BankMessageSetV1.StopCheckProfile property
 
-Получает или задает`StopCheckProfile`.
+Получает или задает`StopCheckProfile` .
 
 ```csharp
 public StopCheckProfile StopCheckProfile { get; set; }

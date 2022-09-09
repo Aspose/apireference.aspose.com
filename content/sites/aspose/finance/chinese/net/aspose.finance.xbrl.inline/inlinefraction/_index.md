@@ -18,16 +18,16 @@ public class InlineFraction : InlineFact
 
 | 姓名 | 描述 |
 | --- | --- |
-| [ContextRef](../../aspose.finance.xbrl.inline/inlinefraction/contextref) { get; set; } | 获取或设置对InlineFraction的[`Context`](../../aspose.finance.xbrl/context)的引用。 |
+| [ContextRef](../../aspose.finance.xbrl.inline/inlinefraction/contextref) { get; set; } | 获取或设置对[`Context`](../../aspose.finance.xbrl/context)的[`InlineFraction`](../inlinefraction). |
 | [Hidden](../../aspose.finance.xbrl.inline/inlinefact/hidden) { get; set; } | 获取或设置此事实是否隐藏。 |
 | [Id](../../aspose.finance.xbrl.inline/inlinefact/id) { get; set; } | 获取或设置内联事实的 id。 |
 | [Name](../../aspose.finance.xbrl.inline/inlinefact/name) { get; set; } | 获取或设置内联事实的限定名称。 |
-| [Order](../../aspose.finance.xbrl.inline/inlinefraction/order) { get; set; } | 获取或设置[`InlineFraction`](../inlinefraction)的顺序。 |
-| [SchemaConcept](../../aspose.finance.xbrl.inline/inlinefraction/schemaconcept) { get; } | 获取[`InlineFraction`](../inlinefraction)的概念。 |
-| [TargetId](../../aspose.finance.xbrl.inline/inlinefraction/targetid) { get; set; } | 获取或设置[`InlineFraction`](../inlinefraction)的目标 id。 |
-| [TupleRefId](../../aspose.finance.xbrl.inline/inlinefraction/tuplerefid) { get; set; } | 获取或设置[`InlineFraction`](../inlinefraction)的元组引用 ID。 |
-| [UnitRef](../../aspose.finance.xbrl.inline/inlinefraction/unitref) { get; set; } | 获取或设置对InlineFraction的[`Unit`](../../aspose.finance.xbrl/unit)的引用。 |
-| [Value](../../aspose.finance.xbrl.inline/inlinefraction/value) { get; set; } | 获取或设置[`InlineFraction`](../inlinefraction)的值。 |
+| [Order](../../aspose.finance.xbrl.inline/inlinefraction/order) { get; set; } | 获取或设置的顺序[`InlineFraction`](../inlinefraction). |
+| [SchemaConcept](../../aspose.finance.xbrl.inline/inlinefraction/schemaconcept) { get; } | 获取的概念[`InlineFraction`](../inlinefraction). |
+| [TargetId](../../aspose.finance.xbrl.inline/inlinefraction/targetid) { get; set; } | 获取或设置目标id[`InlineFraction`](../inlinefraction). |
+| [TupleRefId](../../aspose.finance.xbrl.inline/inlinefraction/tuplerefid) { get; set; } | 获取或设置元组的元组引用id[`InlineFraction`](../inlinefraction). |
+| [UnitRef](../../aspose.finance.xbrl.inline/inlinefraction/unitref) { get; set; } | 获取或设置对[`Unit`](../../aspose.finance.xbrl/unit)的[`InlineFraction`](../inlinefraction). |
+| [Value](../../aspose.finance.xbrl.inline/inlinefraction/value) { get; set; } | 获取或设置[`InlineFraction`](../inlinefraction). |
 
 ### 也可以看看
 

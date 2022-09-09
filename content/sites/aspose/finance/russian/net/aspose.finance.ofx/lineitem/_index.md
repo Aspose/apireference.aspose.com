@@ -18,7 +18,7 @@ public class LineItem
 
 | Имя | Описание |
 | --- | --- |
-| [LineItem](lineitem)() | Инициализирует новый экземпляр класса[`LineItem`](../lineitem). |
+| [LineItem](lineitem)() | Инициализирует новый экземпляр[`LineItem`](../lineitem) класс. |
 
 ## Характеристики
 

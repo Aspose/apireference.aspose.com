@@ -18,21 +18,21 @@ public class BillPayRequestMessageSetV1 : AbstractRequestMessageSet
 
 | Имя | Описание |
 | --- | --- |
-| [BillPayRequestMessageSetV1](billpayrequestmessagesetv1)() | Инициализирует новый экземпляр класса[`BillPayRequestMessageSetV1`](../billpayrequestmessagesetv1). |
+| [BillPayRequestMessageSetV1](billpayrequestmessagesetv1)() | Инициализирует новый экземпляр[`BillPayRequestMessageSetV1`](../billpayrequestmessagesetv1) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [PayeeSyncRequests](../../aspose.finance.ofx/billpayrequestmessagesetv1/payeesyncrequests) { get; set; } | Получает или задает коллекцию[`PayeeSyncRequest`](../../aspose.finance.ofx.billpay/payeesyncrequest). |
-| [PayeeTransactionRequests](../../aspose.finance.ofx/billpayrequestmessagesetv1/payeetransactionrequests) { get; set; } | Получает или задает коллекцию[`PayeeTransactionRequest`](../../aspose.finance.ofx.billpay/payeetransactionrequest). |
-| [PaymentInquiryTransactionRequests](../../aspose.finance.ofx/billpayrequestmessagesetv1/paymentinquirytransactionrequests) { get; set; } | Получает или задает коллекцию[`PaymentInquiryTransactionRequest`](../../aspose.finance.ofx.billpay/paymentinquirytransactionrequest). |
-| [PaymentMailSyncRequests](../../aspose.finance.ofx/billpayrequestmessagesetv1/paymentmailsyncrequests) { get; set; } | Получает или задает коллекцию[`PaymentMailSyncRequest`](../../aspose.finance.ofx.billpay/paymentmailsyncrequest). |
-| [PaymentMailTransactionRequests](../../aspose.finance.ofx/billpayrequestmessagesetv1/paymentmailtransactionrequests) { get; set; } | Получает или задает коллекцию[`PaymentMailTransactionRequest`](../../aspose.finance.ofx.billpay/paymentmailtransactionrequest). |
-| [PaymentSyncRequests](../../aspose.finance.ofx/billpayrequestmessagesetv1/paymentsyncrequests) { get; set; } | Получает или задает коллекцию[`PaymentSyncRequest`](../../aspose.finance.ofx.billpay/paymentsyncrequest). |
-| [PaymentTransactionRequests](../../aspose.finance.ofx/billpayrequestmessagesetv1/paymenttransactionrequests) { get; set; } | Получает или задает коллекцию[`PaymentTransactionRequest`](../../aspose.finance.ofx.billpay/paymenttransactionrequest). |
-| [RecurringPaymentSyncRequests](../../aspose.finance.ofx/billpayrequestmessagesetv1/recurringpaymentsyncrequests) { get; set; } | Получает или задает коллекцию[`RecurringPaymentSyncRequest`](../../aspose.finance.ofx.billpay/recurringpaymentsyncrequest). |
-| [RecurringPaymentTransactionRequests](../../aspose.finance.ofx/billpayrequestmessagesetv1/recurringpaymenttransactionrequests) { get; set; } | Получает или задает коллекцию[`RecurringPaymentTransactionRequest`](../../aspose.finance.ofx.billpay/recurringpaymenttransactionrequest). |
+| [PayeeSyncRequests](../../aspose.finance.ofx/billpayrequestmessagesetv1/payeesyncrequests) { get; set; } | Получает или задает коллекцию[`PayeeSyncRequest`](../../aspose.finance.ofx.billpay/payeesyncrequest) . |
+| [PayeeTransactionRequests](../../aspose.finance.ofx/billpayrequestmessagesetv1/payeetransactionrequests) { get; set; } | Получает или задает коллекцию[`PayeeTransactionRequest`](../../aspose.finance.ofx.billpay/payeetransactionrequest) . |
+| [PaymentInquiryTransactionRequests](../../aspose.finance.ofx/billpayrequestmessagesetv1/paymentinquirytransactionrequests) { get; set; } | Получает или задает коллекцию[`PaymentInquiryTransactionRequest`](../../aspose.finance.ofx.billpay/paymentinquirytransactionrequest) . |
+| [PaymentMailSyncRequests](../../aspose.finance.ofx/billpayrequestmessagesetv1/paymentmailsyncrequests) { get; set; } | Получает или задает коллекцию[`PaymentMailSyncRequest`](../../aspose.finance.ofx.billpay/paymentmailsyncrequest) . |
+| [PaymentMailTransactionRequests](../../aspose.finance.ofx/billpayrequestmessagesetv1/paymentmailtransactionrequests) { get; set; } | Получает или задает коллекцию[`PaymentMailTransactionRequest`](../../aspose.finance.ofx.billpay/paymentmailtransactionrequest) . |
+| [PaymentSyncRequests](../../aspose.finance.ofx/billpayrequestmessagesetv1/paymentsyncrequests) { get; set; } | Получает или задает коллекцию[`PaymentSyncRequest`](../../aspose.finance.ofx.billpay/paymentsyncrequest) . |
+| [PaymentTransactionRequests](../../aspose.finance.ofx/billpayrequestmessagesetv1/paymenttransactionrequests) { get; set; } | Получает или задает коллекцию[`PaymentTransactionRequest`](../../aspose.finance.ofx.billpay/paymenttransactionrequest) . |
+| [RecurringPaymentSyncRequests](../../aspose.finance.ofx/billpayrequestmessagesetv1/recurringpaymentsyncrequests) { get; set; } | Получает или задает коллекцию[`RecurringPaymentSyncRequest`](../../aspose.finance.ofx.billpay/recurringpaymentsyncrequest) . |
+| [RecurringPaymentTransactionRequests](../../aspose.finance.ofx/billpayrequestmessagesetv1/recurringpaymenttransactionrequests) { get; set; } | Получает или задает коллекцию[`RecurringPaymentTransactionRequest`](../../aspose.finance.ofx.billpay/recurringpaymenttransactionrequest) . |
 
 ### Смотрите также
 

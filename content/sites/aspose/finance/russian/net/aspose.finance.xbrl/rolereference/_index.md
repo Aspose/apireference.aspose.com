@@ -18,7 +18,7 @@ public class RoleReference : SimpleLink
 
 | Имя | Описание |
 | --- | --- |
-| [RoleReference](rolereference)(RoleType) | Инициализирует новый экземпляр класса[`RoleReference`](../rolereference). |
+| [RoleReference](rolereference)(RoleType) | Инициализирует новый экземпляр[`RoleReference`](../rolereference) класс. |
 
 ## Характеристики
 

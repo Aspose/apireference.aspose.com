@@ -1,14 +1,14 @@
 ---
 title: PayeeModResponse
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化PayeeModResponseaspose.finance.ofx.billpay/payeemodresponse类的新实例
+description: 初始化一个新的实例PayeeModResponseaspose.finance.ofx.billpay/payeemodresponse类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.billpay/payeemodresponse/payeemodresponse/
 ---
 ## PayeeModResponse constructor
 
-初始化[`PayeeModResponse`](../../payeemodresponse)类的新实例。
+初始化一个新的实例[`PayeeModResponse`](../../payeemodresponse)类.
 
 ```csharp
 public PayeeModResponse()

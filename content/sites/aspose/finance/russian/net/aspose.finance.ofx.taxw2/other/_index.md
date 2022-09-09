@@ -1,14 +1,14 @@
 ---
 title: Other
 second_title: Справочник по API Aspose.Finance для .NET
-description: Другой класс. Описание и сумма для графы 14.
+description: Другой класс. Описание и сумма для бокса 14.
 type: docs
 weight: 6160
 url: /ru/net/aspose.finance.ofx.taxw2/other/
 ---
 ## Other class
 
-Другой класс. Описание и сумма для графы 14.
+Другой класс. Описание и сумма для бокса 14.
 
 ```csharp
 public class Other
@@ -18,13 +18,13 @@ public class Other
 
 | Имя | Описание |
 | --- | --- |
-| [Other](other)() | Инициализирует новый экземпляр класса[`Other`](../other). |
+| [Other](other)() | Инициализирует новый экземпляр[`Other`](../other) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [OtherAmount](../../aspose.finance.ofx.taxw2/other/otheramount) { get; set; } | Получает или задает сумму в долларах для поля 14. |
+| [OtherAmount](../../aspose.finance.ofx.taxw2/other/otheramount) { get; set; } | Получает или задает сумму в долларах для ввода поля 14. |
 | [OtherDescription](../../aspose.finance.ofx.taxw2/other/otherdescription) { get; set; } | Получает или задает описание записи поля 14. |
 
 ### Смотрите также

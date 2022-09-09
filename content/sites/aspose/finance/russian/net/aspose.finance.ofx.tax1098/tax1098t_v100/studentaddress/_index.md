@@ -1,14 +1,14 @@
 ---
 title: StudentAddress
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задаетStudentAddressaspose.finance.ofx.tax1098/tax1098t_v100/studentaddress.
+description: Получает или задаетStudentAddressaspose.finance.ofx.tax1098/tax1098t_v100/studentaddress .
 type: docs
 weight: 160
 url: /ru/net/aspose.finance.ofx.tax1098/tax1098t_v100/studentaddress/
 ---
 ## Tax1098T_V100.StudentAddress property
 
-Получает или задает`StudentAddress`.
+Получает или задает`StudentAddress` .
 
 ```csharp
 public StudentAddress StudentAddress { get; set; }

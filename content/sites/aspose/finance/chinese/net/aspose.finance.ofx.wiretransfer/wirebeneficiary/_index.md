@@ -18,13 +18,13 @@ public class WireBeneficiary
 
 | 姓名 | 描述 |
 | --- | --- |
-| [WireBeneficiary](wirebeneficiary)() | 初始化[`WireBeneficiary`](../wirebeneficiary)类的新实例。 |
+| [WireBeneficiary](wirebeneficiary)() | 初始化一个新的实例[`WireBeneficiary`](../wirebeneficiary)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [BankAccountTo](../../aspose.finance.ofx.wiretransfer/wirebeneficiary/bankaccountto) { get; set; } | 获取或设置[`BankAccount`](../../aspose.finance.ofx/bankaccount)的 to 。 |
+| [BankAccountTo](../../aspose.finance.ofx.wiretransfer/wirebeneficiary/bankaccountto) { get; set; } | 获取或设置[`BankAccount`](../../aspose.finance.ofx/bankaccount). |
 | [Memo](../../aspose.finance.ofx.wiretransfer/wirebeneficiary/memo) { get; set; } | 获取或设置收款人信息。 |
 | [Name](../../aspose.finance.ofx.wiretransfer/wirebeneficiary/name) { get; set; } | 获取或设置收款人姓名。 |
 

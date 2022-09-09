@@ -1,14 +1,14 @@
 ---
 title: PayeeListId
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置收款人列表ID如果已分配则需要
+description: 获取或设置收款人列表ID分配时必填
 type: docs
 weight: 120
 url: /zh/net/aspose.finance.ofx.billpay/paymentinfo/payeelistid/
 ---
 ## PaymentInfo.PayeeListId property
 
-获取或设置收款人列表ID（如果已分配则需要），
+获取或设置收款人列表ID（分配时必填），
 
 ```csharp
 public string PayeeListId { get; set; }

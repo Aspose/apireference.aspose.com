@@ -1,14 +1,14 @@
 ---
 title: ImageTransactionRequest
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化ImageTransactionRequestaspose.finance.ofx.image/imagetransactionrequest类的新实例
+description: 初始化一个新的实例ImageTransactionRequestaspose.finance.ofx.image/imagetransactionrequest类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.image/imagetransactionrequest/imagetransactionrequest/
 ---
 ## ImageTransactionRequest constructor
 
-初始化[`ImageTransactionRequest`](../../imagetransactionrequest)类的新实例。
+初始化一个新的实例[`ImageTransactionRequest`](../../imagetransactionrequest)类.
 
 ```csharp
 public ImageTransactionRequest()

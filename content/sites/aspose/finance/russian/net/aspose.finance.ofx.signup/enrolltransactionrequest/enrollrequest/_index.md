@@ -1,14 +1,14 @@
 ---
 title: EnrollRequest
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задаетEnrollRequestaspose.finance.ofx.signup/enrolltransactionrequest/enrollrequest.
+description: Получает или задаетEnrollRequestaspose.finance.ofx.signup/enrolltransactionrequest/enrollrequest .
 type: docs
 weight: 20
 url: /ru/net/aspose.finance.ofx.signup/enrolltransactionrequest/enrollrequest/
 ---
 ## EnrollTransactionRequest.EnrollRequest property
 
-Получает или задает`EnrollRequest`.
+Получает или задает`EnrollRequest` .
 
 ```csharp
 public EnrollRequest EnrollRequest { get; set; }

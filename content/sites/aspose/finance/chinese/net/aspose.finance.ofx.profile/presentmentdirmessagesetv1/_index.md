@@ -1,14 +1,14 @@
 ---
 title: PresentmentDirMessageSetV1
 second_title: Aspose.Finance for .NET API 参考
-description: Biller 目录消息集的版本 1
+description: 帐单目录消息集的版本1
 type: docs
 weight: 4630
 url: /zh/net/aspose.finance.ofx.profile/presentmentdirmessagesetv1/
 ---
 ## PresentmentDirMessageSetV1 class
 
-Biller 目录消息集的版本 1。
+帐单目录消息集的版本1。
 
 ```csharp
 public class PresentmentDirMessageSetV1 : AbstractMessageSetVersion
@@ -18,14 +18,14 @@ public class PresentmentDirMessageSetV1 : AbstractMessageSetVersion
 
 | 姓名 | 描述 |
 | --- | --- |
-| [PresentmentDirMessageSetV1](presentmentdirmessagesetv1)() | 初始化[`PresentmentDirMessageSetV1`](../presentmentdirmessagesetv1)类的新实例。 |
+| [PresentmentDirMessageSetV1](presentmentdirmessagesetv1)() | 初始化一个新的实例[`PresentmentDirMessageSetV1`](../presentmentdirmessagesetv1)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [MessageSetCore](../../aspose.finance.ofx.profile/abstractmessagesetversion/messagesetcore) { get; set; } | 获取或设置[`MessageSetCore`](../abstractmessagesetversion/messagesetcore)。 |
-| [PresentmentDirProfile](../../aspose.finance.ofx.profile/presentmentdirmessagesetv1/presentmentdirprofile) { get; set; } | 获取或设置[`PresentmentDirProfile`](./presentmentdirprofile)。 |
+| [MessageSetCore](../../aspose.finance.ofx.profile/abstractmessagesetversion/messagesetcore) { get; set; } | 获取或设置[`MessageSetCore`](../abstractmessagesetversion/messagesetcore). |
+| [PresentmentDirProfile](../../aspose.finance.ofx.profile/presentmentdirmessagesetv1/presentmentdirprofile) { get; set; } | 获取或设置[`PresentmentDirProfile`](./presentmentdirprofile). |
 
 ### 也可以看看
 

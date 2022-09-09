@@ -1,14 +1,14 @@
 ---
 title: BankMailTransactionResponse
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаBankMailTransactionResponseaspose.finance.ofx.bank/bankmailtransactionresponse.
+description: Инициализирует новый экземплярBankMailTransactionResponseaspose.finance.ofx.bank/bankmailtransactionresponse класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.bank/bankmailtransactionresponse/bankmailtransactionresponse/
 ---
 ## BankMailTransactionResponse constructor
 
-Инициализирует новый экземпляр класса[`BankMailTransactionResponse`](../../bankmailtransactionresponse).
+Инициализирует новый экземпляр[`BankMailTransactionResponse`](../../bankmailtransactionresponse) класс.
 
 ```csharp
 public BankMailTransactionResponse()

@@ -1,14 +1,14 @@
 ---
 title: ArcUse
 second_title: Справочник по API Aspose.Finance для .NET
-description: Перечисление использования дуги.
+description: Использование дуги enum.
 type: docs
 weight: 6470
 url: /ru/net/aspose.finance.xbrl/arcuse/
 ---
 ## ArcUse enumeration
 
-Перечисление использования дуги.
+Использование дуги enum.
 
 ```csharp
 public enum ArcUse
@@ -19,7 +19,7 @@ public enum ArcUse
 | Имя | Ценность | Описание |
 | --- | --- | --- |
 | Unspecified | `0` | Использование этой дуги не указано. |
-| Optional | `1` | Использование этой дуги не является обязательным. |
+| Optional | `1` | Использование этой дуги необязательно. |
 | Prohibited | `2` | Использование этой дуги запрещено. |
 
 ### Смотрите также

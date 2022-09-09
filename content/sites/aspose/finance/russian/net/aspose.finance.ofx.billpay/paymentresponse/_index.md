@@ -1,14 +1,14 @@
 ---
 title: PaymentResponse
 second_title: Справочник по API Aspose.Finance для .NET
-description: Класс ответа платежа.
+description: Класс ответа на платеж.
 type: docs
 weight: 1230
 url: /ru/net/aspose.finance.ofx.billpay/paymentresponse/
 ---
 ## PaymentResponse class
 
-Класс ответа платежа.
+Класс ответа на платеж.
 
 ```csharp
 public class PaymentResponse : AbstractPaymentResponse
@@ -18,19 +18,19 @@ public class PaymentResponse : AbstractPaymentResponse
 
 | Имя | Описание |
 | --- | --- |
-| [PaymentResponse](paymentresponse)() | Инициализирует новый экземпляр класса[`PaymentResponse`](../paymentresponse). |
+| [PaymentResponse](paymentresponse)() | Инициализирует новый экземпляр[`PaymentResponse`](../paymentresponse) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [CheckNumber](../../aspose.finance.ofx.billpay/paymentresponse/checknumber) { get; set; } | Получает или задает контрольный номер |
+| [CheckNumber](../../aspose.finance.ofx.billpay/paymentresponse/checknumber) { get; set; } | Получает или задает номер чека |
 | [Currency](../../aspose.finance.ofx.billpay/paymentresponse/currency) { get; set; } | Получает или задает валюту по умолчанию для платежного ответа. |
-| [ExtendedPayee](../../aspose.finance.ofx.billpay/paymentresponse/extendedpayee) { get; set; } | Получает или задает[`ExtendedPayee`](./extendedpayee). |
-| [PayeeListId](../../aspose.finance.ofx.billpay/paymentresponse/payeelistid) { get; set; } | Получает или задает идентификатор записи списка получателей, назначенный сервером для этого получателя. |
-| [PaymentInfo](../../aspose.finance.ofx.billpay/paymentresponse/paymentinfo) { get; set; } | Получает или задает[`PaymentInfo`](./paymentinfo). |
-| [PaymentProcessingStatus](../../aspose.finance.ofx.billpay/paymentresponse/paymentprocessingstatus) { get; set; } | Получает или задает[`PaymentProcessingStatus`](./paymentprocessingstatus). |
-| [ReferenceServerId](../../aspose.finance.ofx.billpay/paymentresponse/referenceserverid) { get; set; } | Получает или задает ссылки на платеж, если он был сгенерирован платежом. |
+| [ExtendedPayee](../../aspose.finance.ofx.billpay/paymentresponse/extendedpayee) { get; set; } | Получает или задает[`ExtendedPayee`](./extendedpayee) . |
+| [PayeeListId](../../aspose.finance.ofx.billpay/paymentresponse/payeelistid) { get; set; } | Получает или задает назначенный сервером идентификатор записи списка получателей для этого получателя. |
+| [PaymentInfo](../../aspose.finance.ofx.billpay/paymentresponse/paymentinfo) { get; set; } | Получает или задает[`PaymentInfo`](./paymentinfo) . |
+| [PaymentProcessingStatus](../../aspose.finance.ofx.billpay/paymentresponse/paymentprocessingstatus) { get; set; } | Получает или задает[`PaymentProcessingStatus`](./paymentprocessingstatus) . |
+| [ReferenceServerId](../../aspose.finance.ofx.billpay/paymentresponse/referenceserverid) { get; set; } | Получает или устанавливает ссылки на платеж, если он был сгенерирован платежом. |
 | [ServerId](../../aspose.finance.ofx.billpay/abstractpaymentresponse/serverid) { get; set; } | Получает или задает идентификатор, присвоенный сервером платежу. |
 
 ### Смотрите также

@@ -17,7 +17,7 @@ public virtual void InsertData(int offset, string data)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | offset | Int32 | Смещение. |
-| data | String | Данные содержимого. |
+| data | String | Данные контента. |
 
 ### Смотрите также
 

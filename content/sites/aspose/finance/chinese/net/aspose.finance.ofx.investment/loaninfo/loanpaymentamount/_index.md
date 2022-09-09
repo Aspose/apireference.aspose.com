@@ -1,14 +1,14 @@
 ---
 title: LoanPaymentAmount
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置贷款支付金额
+description: 获取或设置还款金额
 type: docs
 weight: 100
 url: /zh/net/aspose.finance.ofx.investment/loaninfo/loanpaymentamount/
 ---
 ## LoanInfo.LoanPaymentAmount property
 
-获取或设置贷款支付金额。
+获取或设置还款金额。
 
 ```csharp
 public string LoanPaymentAmount { get; set; }

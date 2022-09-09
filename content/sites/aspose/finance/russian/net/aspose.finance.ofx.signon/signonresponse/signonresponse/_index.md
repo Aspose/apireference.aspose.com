@@ -1,14 +1,14 @@
 ---
 title: SignonResponse
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаSignonResponseaspose.finance.ofx.signon/signonresponse.
+description: Инициализирует новый экземплярSignonResponseaspose.finance.ofx.signon/signonresponse класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.signon/signonresponse/signonresponse/
 ---
 ## SignonResponse constructor
 
-Инициализирует новый экземпляр класса[`SignonResponse`](../../signonresponse).
+Инициализирует новый экземпляр[`SignonResponse`](../../signonresponse) класс.
 
 ```csharp
 public SignonResponse()

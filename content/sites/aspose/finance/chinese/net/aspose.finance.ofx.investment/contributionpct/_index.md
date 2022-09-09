@@ -18,7 +18,7 @@ public class ContributionPct
 
 | 姓名 | 描述 |
 | --- | --- |
-| [ContributionPct](contributionpct)() | 初始化[`ContributionPct`](../contributionpct)类的新实例。 |
+| [ContributionPct](contributionpct)() | 初始化一个新的实例[`ContributionPct`](../contributionpct)类. |
 
 ## 特性
 

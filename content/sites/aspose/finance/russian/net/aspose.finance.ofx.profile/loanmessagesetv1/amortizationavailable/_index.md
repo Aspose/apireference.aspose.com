@@ -1,14 +1,14 @@
 ---
 title: AmortizationAvailable
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает доступна ли информация об амортизации
+description: Получает или задает доступна ли информация отчета об амортизации
 type: docs
 weight: 20
 url: /ru/net/aspose.finance.ofx.profile/loanmessagesetv1/amortizationavailable/
 ---
 ## LoanMessageSetV1.AmortizationAvailable property
 
-Получает или задает, доступна ли информация об амортизации
+Получает или задает, доступна ли информация отчета об амортизации
 
 ```csharp
 public bool AmortizationAvailable { get; set; }

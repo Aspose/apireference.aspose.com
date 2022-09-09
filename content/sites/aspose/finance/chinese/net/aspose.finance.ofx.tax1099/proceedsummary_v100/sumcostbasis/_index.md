@@ -1,14 +1,14 @@
 ---
 title: SumCostBasis
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置成本基础这是本摘要中报告的所有交易的总成本基础对于表格 8949 代码 A 和 D 交易 应该是向 IRS 报告的成本基础对于所有其他交易成本基础应该是提供者已知的成本基础
+description: 获取或设置成本基础这是本摘要中报告的所有交易的总成本基础对于表格 8949 代码 A 和 D 交易this 应该是向 IRS 报告的成本基础对于所有其他交易成本基础应该是已知的成本基础由提供者.
 type: docs
 weight: 50
 url: /zh/net/aspose.finance.ofx.tax1099/proceedsummary_v100/sumcostbasis/
 ---
 ## ProceedSummary_V100.SumCostBasis property
 
-获取或设置成本基础。这是本摘要中报告的所有交易的总成本基础。对于表格 8949 代码 A 和 D 交易， 应该是向 IRS 报告的成本基础。对于所有其他交易，成本基础应该是提供者已知的成本基础。
+获取或设置成本基础。这是本摘要中报告的所有交易的总成本基础。对于表格 8949 代码 A 和 D 交易，this 应该是向 IRS 报告的成本基础。对于所有其他交易，成本基础应该是已知的成本基础由提供者.
 
 ```csharp
 public string SumCostBasis { get; set; }

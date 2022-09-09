@@ -18,13 +18,13 @@ public class BillDetailRow
 
 | Имя | Описание |
 | --- | --- |
-| [BillDetailRow](billdetailrow)() | Инициализирует новый экземпляр класса[`BillDetailRow`](../billdetailrow). |
+| [BillDetailRow](billdetailrow)() | Инициализирует новый экземпляр[`BillDetailRow`](../billdetailrow) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [Types](../../aspose.finance.ofx.billerdelivery/billdetailrow/types) { get; set; } | Получает или задает коллекцию[`MessageType`](../../aspose.finance.ofx/messagetype)или[`CharType`](../../aspose.finance.ofx/chartype). |
+| [Types](../../aspose.finance.ofx.billerdelivery/billdetailrow/types) { get; set; } | Получает или задает коллекцию[`MessageType`](../../aspose.finance.ofx/messagetype) или же[`CharType`](../../aspose.finance.ofx/chartype) . |
 
 ### Смотрите также
 

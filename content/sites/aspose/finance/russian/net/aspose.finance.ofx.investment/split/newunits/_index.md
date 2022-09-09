@@ -1,14 +1,14 @@
 ---
 title: NewUnits
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает количество акций после дробления для дробления акций.
+description: Получает или задает количество акций после разделения для дробления акций.
 type: docs
 weight: 60
 url: /ru/net/aspose.finance.ofx.investment/split/newunits/
 ---
 ## Split.NewUnits property
 
-Получает или задает количество акций после дробления для дробления акций.
+Получает или задает количество акций после разделения для дробления акций.
 
 ```csharp
 public string NewUnits { get; set; }

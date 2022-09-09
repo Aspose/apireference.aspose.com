@@ -1,14 +1,14 @@
 ---
 title: InterTransactionRequest
 second_title: Справочник по API Aspose.Finance для .NET
-description: Класс запроса операции межбанковского перевода.
+description: Класс запроса транзакции межбанковского перевода.
 type: docs
 weight: 2470
 url: /ru/net/aspose.finance.ofx.intertransfer/intertransactionrequest/
 ---
 ## InterTransactionRequest class
 
-Класс запроса операции межбанковского перевода.
+Класс запроса транзакции межбанковского перевода.
 
 ```csharp
 public class InterTransactionRequest : AbstractTransactionRequest
@@ -18,15 +18,15 @@ public class InterTransactionRequest : AbstractTransactionRequest
 
 | Имя | Описание |
 | --- | --- |
-| [InterTransactionRequest](intertransactionrequest)() | Инициализирует новый экземпляр класса[`InterTransactionRequest`](../intertransactionrequest). |
+| [InterTransactionRequest](intertransactionrequest)() | Инициализирует новый экземпляр[`InterTransactionRequest`](../intertransactionrequest) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [ClientCookie](../../aspose.finance.ofx/abstracttransactionrequest/clientcookie) { get; set; } | Получает или задает данные, которые будут отображаться в ответе транзакции |
-| [OfxExtension](../../aspose.finance.ofx.intertransfer/intertransactionrequest/ofxextension) { get; set; } | Получает или задает[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
-| [Request](../../aspose.finance.ofx.intertransfer/intertransactionrequest/request) { get; set; } | Получает или задает[`InterRequest`](../interrequest)или[`InterModRequest`](../intermodrequest)или[`InterCancellationRequest`](../intercancellationrequest). |
+| [ClientCookie](../../aspose.finance.ofx/abstracttransactionrequest/clientcookie) { get; set; } | Получает или задает данные, которые будут отражены в транзакции response |
+| [OfxExtension](../../aspose.finance.ofx.intertransfer/intertransactionrequest/ofxextension) { get; set; } | Получает или задает[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype) . |
+| [Request](../../aspose.finance.ofx.intertransfer/intertransactionrequest/request) { get; set; } | Получает или задает[`InterRequest`](../interrequest) или же[`InterModRequest`](../intermodrequest) или же[`InterCancellationRequest`](../intercancellationrequest) . |
 | [TransactionAuthorizationNumber](../../aspose.finance.ofx/abstracttransactionrequest/transactionauthorizationnumber) { get; set; } | Получает или задает номер авторизации транзакции. |
 | [TransactionUniqueId](../../aspose.finance.ofx/abstracttransactionrequest/transactionuniqueid) { get; set; } | Получает или задает назначенный клиентом глобальный уникальный идентификатор для этой транзакции |
 

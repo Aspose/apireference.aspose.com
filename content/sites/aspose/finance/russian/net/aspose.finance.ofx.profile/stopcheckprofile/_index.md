@@ -1,14 +1,14 @@
 ---
 title: StopCheckProfile
 second_title: Справочник по API Aspose.Finance для .NET
-description: Остановить проверку класса профиля.
+description: Прекратить проверку класса профиля.
 type: docs
 weight: 4820
 url: /ru/net/aspose.finance.ofx.profile/stopcheckprofile/
 ---
 ## StopCheckProfile class
 
-Остановить проверку класса профиля.
+Прекратить проверку класса профиля.
 
 ```csharp
 public class StopCheckProfile
@@ -18,7 +18,7 @@ public class StopCheckProfile
 
 | Имя | Описание |
 | --- | --- |
-| [StopCheckProfile](stopcheckprofile)() | Инициализирует новый экземпляр класса[`StopCheckProfile`](../stopcheckprofile). |
+| [StopCheckProfile](stopcheckprofile)() | Инициализирует новый экземпляр[`StopCheckProfile`](../stopcheckprofile) класс. |
 
 ## Характеристики
 
@@ -28,7 +28,7 @@ public class StopCheckProfile
 | [CanUseRange](../../aspose.finance.ofx.profile/stopcheckprofile/canuserange) { get; set; } | Получает или задает, может ли остановить ряд проверок. |
 | [ProcessingDaysOffs](../../aspose.finance.ofx.profile/stopcheckprofile/processingdaysoffs) { get; set; } | Получает или задает дни недели, в которые не выполняется обработка. |
 | [ProcessingEndTime](../../aspose.finance.ofx.profile/stopcheckprofile/processingendtime) { get; set; } | Получает или задает время окончания обработки дня. |
-| [StopCheckFee](../../aspose.finance.ofx.profile/stopcheckprofile/stopcheckfee) { get; set; } | Получает или задает комиссию за стоп-чек по умолчанию |
+| [StopCheckFee](../../aspose.finance.ofx.profile/stopcheckprofile/stopcheckfee) { get; set; } | Получает или задает комиссию за остановку проверки по умолчанию |
 
 ### Смотрите также
 

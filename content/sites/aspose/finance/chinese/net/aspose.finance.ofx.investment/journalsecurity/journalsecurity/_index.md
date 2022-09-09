@@ -1,14 +1,14 @@
 ---
 title: JournalSecurity
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化JournalSecurityaspose.finance.ofx.investment/journalsecurity类的新实例
+description: 初始化一个新的实例JournalSecurityaspose.finance.ofx.investment/journalsecurity类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.investment/journalsecurity/journalsecurity/
 ---
 ## JournalSecurity constructor
 
-初始化[`JournalSecurity`](../../journalsecurity)类的新实例。
+初始化一个新的实例[`JournalSecurity`](../../journalsecurity)类.
 
 ```csharp
 public JournalSecurity()

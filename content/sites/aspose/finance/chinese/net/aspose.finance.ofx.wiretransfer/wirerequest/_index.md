@@ -18,18 +18,18 @@ public class WireRequest : AbstractWireRequest
 
 | 姓名 | 描述 |
 | --- | --- |
-| [WireRequest](wirerequest)() | 初始化[`WireRequest`](../wirerequest)类的新实例。 |
+| [WireRequest](wirerequest)() | 初始化一个新的实例[`WireRequest`](../wirerequest)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [BankAccountFrom](../../aspose.finance.ofx.wiretransfer/wirerequest/bankaccountfrom) { get; set; } | 获取或设置[`BankAccount`](../../aspose.finance.ofx/bankaccount)的来源。 |
+| [BankAccountFrom](../../aspose.finance.ofx.wiretransfer/wirerequest/bankaccountfrom) { get; set; } | 获取或设置 from[`BankAccount`](../../aspose.finance.ofx/bankaccount). |
 | [DueDate](../../aspose.finance.ofx.wiretransfer/wirerequest/duedate) { get; set; } | 获取或设置要发生的日期。 |
-| [PaymentInstruction](../../aspose.finance.ofx.wiretransfer/wirerequest/paymentinstruction) { get; set; } | 获取或设置支付指令。 |
-| [TransferAmount](../../aspose.finance.ofx.wiretransfer/wirerequest/transferamount) { get; set; } | 获取或设置转账金额。 |
-| [WireBeneficiary](../../aspose.finance.ofx.wiretransfer/wirerequest/wirebeneficiary) { get; set; } | 获取或设置[`WireBeneficiary`](./wirebeneficiary)。 |
-| [WireDestinationBank](../../aspose.finance.ofx.wiretransfer/wirerequest/wiredestinationbank) { get; set; } | 获取或设置[`WireDestinationBank`](./wiredestinationbank)。 |
+| [PaymentInstruction](../../aspose.finance.ofx.wiretransfer/wirerequest/paymentinstruction) { get; set; } | 获取或设置支付指令 |
+| [TransferAmount](../../aspose.finance.ofx.wiretransfer/wirerequest/transferamount) { get; set; } | 获取或设置转账金额 |
+| [WireBeneficiary](../../aspose.finance.ofx.wiretransfer/wirerequest/wirebeneficiary) { get; set; } | 获取或设置[`WireBeneficiary`](./wirebeneficiary). |
+| [WireDestinationBank](../../aspose.finance.ofx.wiretransfer/wirerequest/wiredestinationbank) { get; set; } | 获取或设置[`WireDestinationBank`](./wiredestinationbank). |
 
 ### 也可以看看
 

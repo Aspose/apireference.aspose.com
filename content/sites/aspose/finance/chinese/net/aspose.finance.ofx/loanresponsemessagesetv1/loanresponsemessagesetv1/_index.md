@@ -1,14 +1,14 @@
 ---
 title: LoanResponseMessageSetV1
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化LoanResponseMessageSetV1aspose.finance.ofx/loanresponsemessagesetv1类的新实例
+description: 初始化一个新的实例LoanResponseMessageSetV1aspose.finance.ofx/loanresponsemessagesetv1类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx/loanresponsemessagesetv1/loanresponsemessagesetv1/
 ---
 ## LoanResponseMessageSetV1 constructor
 
-初始化[`LoanResponseMessageSetV1`](../../loanresponsemessagesetv1)类的新实例。
+初始化一个新的实例[`LoanResponseMessageSetV1`](../../loanresponsemessagesetv1)类.
 
 ```csharp
 public LoanResponseMessageSetV1()

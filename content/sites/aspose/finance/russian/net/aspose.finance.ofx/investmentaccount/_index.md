@@ -18,7 +18,7 @@ public class InvestmentAccount : AbstractAccount
 
 | Имя | Описание |
 | --- | --- |
-| [InvestmentAccount](investmentaccount)() | Инициализирует новый экземпляр класса[`InvestmentAccount`](../investmentaccount). |
+| [InvestmentAccount](investmentaccount)() | Инициализирует новый экземпляр[`InvestmentAccount`](../investmentaccount) класс. |
 
 ## Характеристики
 

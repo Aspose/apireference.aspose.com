@@ -1,14 +1,14 @@
 ---
 title: Value
 second_title: Aspose.Finance for .NET API 参考
-description: 获取属性值
+description: 获取属性的值
 type: docs
 weight: 70
 url: /zh/net/aspose.finance.xbrl.dom/attr/value/
 ---
 ## Attr.Value property
 
-获取属性值。
+获取属性的值。
 
 ```csharp
 public string Value { get; set; }

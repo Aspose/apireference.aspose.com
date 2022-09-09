@@ -1,14 +1,14 @@
 ---
 title: GetNamedItem
 second_title: Aspose.Finance for .NET API 参考
-description: 获取名称指定的属性
+description: 获取 name 指定的属性
 type: docs
 weight: 40
 url: /zh/net/aspose.finance.xbrl.dom/namednodemap/getnameditem/
 ---
 ## NamedNodeMap.GetNamedItem method
 
-获取名称指定的属性。
+获取 name 指定的属性。
 
 ```csharp
 public Attr GetNamedItem(string name)

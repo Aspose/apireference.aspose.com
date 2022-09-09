@@ -1,14 +1,14 @@
 ---
 title: BuyOption
 second_title: Справочник по API Aspose.Finance для .NET
-description: Класс сделки инвестиционного опциона на покупку.
+description: Класс транзакции инвестиционного опциона на покупку.
 type: docs
 weight: 2700
 url: /ru/net/aspose.finance.ofx.investment/buyoption/
 ---
 ## BuyOption class
 
-Класс сделки инвестиционного опциона на покупку.
+Класс транзакции инвестиционного опциона на покупку.
 
 ```csharp
 public class BuyOption : AbstractInvestmentBuyTransaction
@@ -18,13 +18,13 @@ public class BuyOption : AbstractInvestmentBuyTransaction
 
 | Имя | Описание |
 | --- | --- |
-| [BuyOption](buyoption)() | Инициализирует новый экземпляр класса[`BuyOption`](../buyoption). |
+| [BuyOption](buyoption)() | Инициализирует новый экземпляр[`BuyOption`](../buyoption) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [InvestmentBuy](../../aspose.finance.ofx.investment/abstractinvestmentbuytransaction/investmentbuy) { get; set; } | Получает или задает[`InvestmentBuy`](../abstractinvestmentbuytransaction/investmentbuy). |
+| [InvestmentBuy](../../aspose.finance.ofx.investment/abstractinvestmentbuytransaction/investmentbuy) { get; set; } | Получает или задает[`InvestmentBuy`](../abstractinvestmentbuytransaction/investmentbuy) . |
 | [OptionBuyType](../../aspose.finance.ofx.investment/buyoption/optionbuytype) { get; set; } | Получает или задает тип покупки опциона. |
 | [SharePerContract](../../aspose.finance.ofx.investment/buyoption/sharepercontract) { get; set; } | Получает или задает количество акций на контракт. |
 

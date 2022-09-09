@@ -1,14 +1,14 @@
 ---
 title: SchemaLocation
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает расположение схемы
+description: Получает или задает схему location
 type: docs
 weight: 80
 url: /ru/net/aspose.finance.xbrl/xbrlinstance/schemalocation/
 ---
 ## XbrlInstance.SchemaLocation property
 
-Получает или задает расположение схемы
+Получает или задает схему location
 
 ```csharp
 public string SchemaLocation { get; set; }

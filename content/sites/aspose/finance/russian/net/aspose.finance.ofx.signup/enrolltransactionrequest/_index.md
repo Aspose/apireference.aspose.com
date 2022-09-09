@@ -18,15 +18,15 @@ public class EnrollTransactionRequest : AbstractTransactionRequest
 
 | Имя | Описание |
 | --- | --- |
-| [EnrollTransactionRequest](enrolltransactionrequest)() | Инициализирует новый экземпляр класса[`EnrollTransactionRequest`](../enrolltransactionrequest). |
+| [EnrollTransactionRequest](enrolltransactionrequest)() | Инициализирует новый экземпляр[`EnrollTransactionRequest`](../enrolltransactionrequest) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [ClientCookie](../../aspose.finance.ofx/abstracttransactionrequest/clientcookie) { get; set; } | Получает или задает данные, которые будут отображаться в ответе транзакции |
-| [EnrollRequest](../../aspose.finance.ofx.signup/enrolltransactionrequest/enrollrequest) { get; set; } | Получает или задает[`EnrollRequest`](./enrollrequest). |
-| [OfxExtension](../../aspose.finance.ofx.signup/enrolltransactionrequest/ofxextension) { get; set; } | Получает или задает[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
+| [ClientCookie](../../aspose.finance.ofx/abstracttransactionrequest/clientcookie) { get; set; } | Получает или задает данные, которые будут отражены в транзакции response |
+| [EnrollRequest](../../aspose.finance.ofx.signup/enrolltransactionrequest/enrollrequest) { get; set; } | Получает или задает[`EnrollRequest`](./enrollrequest) . |
+| [OfxExtension](../../aspose.finance.ofx.signup/enrolltransactionrequest/ofxextension) { get; set; } | Получает или задает[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype) . |
 | [TransactionAuthorizationNumber](../../aspose.finance.ofx/abstracttransactionrequest/transactionauthorizationnumber) { get; set; } | Получает или задает номер авторизации транзакции. |
 | [TransactionUniqueId](../../aspose.finance.ofx/abstracttransactionrequest/transactionuniqueid) { get; set; } | Получает или задает назначенный клиентом глобальный уникальный идентификатор для этой транзакции |
 

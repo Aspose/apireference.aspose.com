@@ -18,17 +18,17 @@ public class LoanRequestMessageSetV1 : AbstractRequestMessageSet
 
 | 姓名 | 描述 |
 | --- | --- |
-| [LoanRequestMessageSetV1](loanrequestmessagesetv1)() | 初始化[`LoanRequestMessageSetV1`](../loanrequestmessagesetv1)类的新实例。 |
+| [LoanRequestMessageSetV1](loanrequestmessagesetv1)() | 初始化一个新的实例[`LoanRequestMessageSetV1`](../loanrequestmessagesetv1)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [AmortizationTransactionRequests](../../aspose.finance.ofx/loanrequestmessagesetv1/amortizationtransactionrequests) { get; set; } | 获取或设置[`AmortizationTransactionRequest`](../../aspose.finance.ofx.loan/amortizationtransactionrequest)的集合。 |
-| [LoanMailSyncRequests](../../aspose.finance.ofx/loanrequestmessagesetv1/loanmailsyncrequests) { get; set; } | 获取或设置[`LoanMailSyncRequest`](../../aspose.finance.ofx.loan/loanmailsyncrequest)的集合。 |
-| [LoanMailTransactionRequests](../../aspose.finance.ofx/loanrequestmessagesetv1/loanmailtransactionrequests) { get; set; } | 获取或设置[`LoanMailTransactionRequest`](../../aspose.finance.ofx.loan/loanmailtransactionrequest)的集合。 |
-| [LoanStatementEndTransactionRequests](../../aspose.finance.ofx/loanrequestmessagesetv1/loanstatementendtransactionrequests) { get; set; } | 获取或设置[`LoanStatementEndTransactionRequest`](../../aspose.finance.ofx.loan/loanstatementendtransactionrequest)的集合。 |
-| [LoanStatementTransactionRequests](../../aspose.finance.ofx/loanrequestmessagesetv1/loanstatementtransactionrequests) { get; set; } | 获取或设置[`LoanStatementTransactionRequest`](../../aspose.finance.ofx.loan/loanstatementtransactionrequest)的集合。 |
+| [AmortizationTransactionRequests](../../aspose.finance.ofx/loanrequestmessagesetv1/amortizationtransactionrequests) { get; set; } | 获取或设置的集合[`AmortizationTransactionRequest`](../../aspose.finance.ofx.loan/amortizationtransactionrequest). |
+| [LoanMailSyncRequests](../../aspose.finance.ofx/loanrequestmessagesetv1/loanmailsyncrequests) { get; set; } | 获取或设置的集合[`LoanMailSyncRequest`](../../aspose.finance.ofx.loan/loanmailsyncrequest). |
+| [LoanMailTransactionRequests](../../aspose.finance.ofx/loanrequestmessagesetv1/loanmailtransactionrequests) { get; set; } | 获取或设置的集合[`LoanMailTransactionRequest`](../../aspose.finance.ofx.loan/loanmailtransactionrequest). |
+| [LoanStatementEndTransactionRequests](../../aspose.finance.ofx/loanrequestmessagesetv1/loanstatementendtransactionrequests) { get; set; } | 获取或设置的集合[`LoanStatementEndTransactionRequest`](../../aspose.finance.ofx.loan/loanstatementendtransactionrequest). |
+| [LoanStatementTransactionRequests](../../aspose.finance.ofx/loanrequestmessagesetv1/loanstatementtransactionrequests) { get; set; } | 获取或设置的集合[`LoanStatementTransactionRequest`](../../aspose.finance.ofx.loan/loanstatementtransactionrequest). |
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: BankMailSyncResponses
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置BankMailSyncResponseaspose.finance.ofx.bank/bankmailsyncresponse的集合
+description: 获取或设置的集合BankMailSyncResponseaspose.finance.ofx.bank/bankmailsyncresponse.
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.ofx/bankresponsemessagesetv1/bankmailsyncresponses/
 ---
 ## BankResponseMessageSetV1.BankMailSyncResponses property
 
-获取或设置[`BankMailSyncResponse`](../../../aspose.finance.ofx.bank/bankmailsyncresponse)的集合。
+获取或设置的集合[`BankMailSyncResponse`](../../../aspose.finance.ofx.bank/bankmailsyncresponse).
 
 ```csharp
 public List<BankMailSyncResponse> BankMailSyncResponses { get; set; }

@@ -18,14 +18,14 @@ public class TaxW2Response
 
 | Имя | Описание |
 | --- | --- |
-| [TaxW2Response](taxw2response)() | Инициализирует новый экземпляр класса[`TaxW2Response`](../taxw2response). |
+| [TaxW2Response](taxw2response)() | Инициализирует новый экземпляр[`TaxW2Response`](../taxw2response) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [SSN](../../aspose.finance.ofx.taxw2/taxw2response/ssn) { get; set; } | Получает или задает номер социального страхования сотрудника. |
-| [TAXW2s](../../aspose.finance.ofx.taxw2/taxw2response/taxw2s) { get; set; } | Получает или задает коллекцию[`TaxW2_V100`](../taxw2_v100)или[`TaxW2_V200`](../taxw2_v200). |
+| [SSN](../../aspose.finance.ofx.taxw2/taxw2response/ssn) { get; set; } | Получает или задает номер социального обеспечения сотрудника. |
+| [TAXW2s](../../aspose.finance.ofx.taxw2/taxw2response/taxw2s) { get; set; } | Получает или задает коллекцию[`TaxW2_V100`](../taxw2_v100) или же[`TaxW2_V200`](../taxw2_v200) . |
 
 ### Смотрите также
 

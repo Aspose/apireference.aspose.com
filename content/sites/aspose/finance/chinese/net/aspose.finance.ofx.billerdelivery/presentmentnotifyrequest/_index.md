@@ -18,13 +18,13 @@ public class PresentmentNotifyRequest
 
 | 姓名 | 描述 |
 | --- | --- |
-| [PresentmentNotifyRequest](presentmentnotifyrequest)() | 初始化[`PresentmentNotifyRequest`](../presentmentnotifyrequest)类的新实例。 |
+| [PresentmentNotifyRequest](presentmentnotifyrequest)() | 初始化一个新的实例[`PresentmentNotifyRequest`](../presentmentnotifyrequest)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [PresentmentDeliveryId](../../aspose.finance.ofx.billerdelivery/presentmentnotifyrequest/presentmentdeliveryid) { get; set; } | 获取或设置[`PresentmentDeliveryId`](./presentmentdeliveryid)。 |
+| [PresentmentDeliveryId](../../aspose.finance.ofx.billerdelivery/presentmentnotifyrequest/presentmentdeliveryid) { get; set; } | 获取或设置[`PresentmentDeliveryId`](./presentmentdeliveryid). |
 
 ### 也可以看看
 

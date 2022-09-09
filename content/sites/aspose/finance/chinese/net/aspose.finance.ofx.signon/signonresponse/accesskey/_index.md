@@ -1,14 +1,14 @@
 ---
 title: AccessKey
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置客户端应在下一次登录请求中发送的访问密钥
+description: 获取或设置客户端在下次登录请求中应该发送的访问密钥
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.ofx.signon/signonresponse/accesskey/
 ---
 ## SignonResponse.AccessKey property
 
-获取或设置客户端应在下一次登录请求中发送的访问密钥
+获取或设置客户端在下次登录请求中应该发送的访问密钥
 
 ```csharp
 public string AccessKey { get; set; }

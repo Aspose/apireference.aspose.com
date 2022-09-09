@@ -1,14 +1,14 @@
 ---
 title: Include401K
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает следует ли включать в ответ информацию 401k.
+description: Получает или задает следует ли включать информацию 401k в ответ.
 type: docs
 weight: 20
 url: /ru/net/aspose.finance.ofx.investment/investmentstatementrequest/include401k/
 ---
 ## InvestmentStatementRequest.Include401K property
 
-Получает или задает, следует ли включать в ответ информацию 401(k).
+Получает или задает, следует ли включать информацию 401(k) в ответ.
 
 ```csharp
 public bool Include401K { get; set; }

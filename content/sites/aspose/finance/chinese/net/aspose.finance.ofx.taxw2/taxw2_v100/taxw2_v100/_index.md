@@ -1,14 +1,14 @@
 ---
 title: TaxW2_V100
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化TaxW2_V100aspose.finance.ofx.taxw2/taxw2_v100类的新实例
+description: 初始化一个新的实例TaxW2_V100aspose.finance.ofx.taxw2/taxw2_v100类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.taxw2/taxw2_v100/taxw2_v100/
 ---
 ## TaxW2_V100 constructor
 
-初始化[`TaxW2_V100`](../../taxw2_v100)类的新实例。
+初始化一个新的实例[`TaxW2_V100`](../../taxw2_v100)类.
 
 ```csharp
 public TaxW2_V100()

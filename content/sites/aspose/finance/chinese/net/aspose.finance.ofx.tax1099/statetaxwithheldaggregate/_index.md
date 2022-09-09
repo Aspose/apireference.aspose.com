@@ -1,14 +1,14 @@
 ---
 title: StateTaxWithheldAggregate
 second_title: Aspose.Finance for .NET API 参考
-description: 州税预扣班
+description: 州税预扣类
 type: docs
 weight: 5970
 url: /zh/net/aspose.finance.ofx.tax1099/statetaxwithheldaggregate/
 ---
 ## StateTaxWithheldAggregate class
 
-州税预扣班。
+州税预扣类。
 
 ```csharp
 public class StateTaxWithheldAggregate
@@ -18,15 +18,15 @@ public class StateTaxWithheldAggregate
 
 | 姓名 | 描述 |
 | --- | --- |
-| [StateTaxWithheldAggregate](statetaxwithheldaggregate)() | 初始化[`StateTaxWithheldAggregate`](../statetaxwithheldaggregate)类的新实例。 |
+| [StateTaxWithheldAggregate](statetaxwithheldaggregate)() | 初始化一个新的实例[`StateTaxWithheldAggregate`](../statetaxwithheldaggregate)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
 | [Amount](../../aspose.finance.ofx.tax1099/statetaxwithheldaggregate/amount) { get; set; } | 获取或设置预扣金额。 |
-| [PayerState](../../aspose.finance.ofx.tax1099/statetaxwithheldaggregate/payerstate) { get; set; } | 获取或设置付款人的状态码。 |
-| [PayerStateId](../../aspose.finance.ofx.tax1099/statetaxwithheldaggregate/payerstateid) { get; set; } | 获取或设置付款人的州 ID 号。 |
+| [PayerState](../../aspose.finance.ofx.tax1099/statetaxwithheldaggregate/payerstate) { get; set; } | 获取或设置付款人的状态码 |
+| [PayerStateId](../../aspose.finance.ofx.tax1099/statetaxwithheldaggregate/payerstateid) { get; set; } | 获取或设置付款人的状态ID号。 |
 | [StateDistribution](../../aspose.finance.ofx.tax1099/statetaxwithheldaggregate/statedistribution) { get; set; } | 获取或设置状态分布。 |
 
 ### 也可以看看

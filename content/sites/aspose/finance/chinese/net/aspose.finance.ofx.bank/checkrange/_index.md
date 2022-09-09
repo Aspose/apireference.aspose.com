@@ -18,14 +18,14 @@ public class CheckRange : AbstractCheckInfo
 
 | 姓名 | 描述 |
 | --- | --- |
-| [CheckRange](checkrange)() | 初始化[`CheckRange`](../checkrange)类的新实例。 |
+| [CheckRange](checkrange)() | 初始化一个新的实例[`CheckRange`](../checkrange)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
 | [EndCheckNumber](../../aspose.finance.ofx.bank/checkrange/endchecknumber) { get; set; } | 获取或设置要取消的结束校验号；如果只停止一项检查，则省略 |
-| [StartCheckNumber](../../aspose.finance.ofx.bank/checkrange/startchecknumber) { get; set; } | 获取或设置要取消的开始校验号。 |
+| [StartCheckNumber](../../aspose.finance.ofx.bank/checkrange/startchecknumber) { get; set; } | 获取或设置要取消的起始校验号。 |
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: GroupId
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置组 ID
+description: 获取或设置组id
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.ofx.billerdelivery/presentmentlisttransactionrequest/groupid/
 ---
 ## PresentmentListTransactionRequest.GroupId property
 
-获取或设置组 ID。
+获取或设置组id。
 
 ```csharp
 public string GroupId { get; set; }

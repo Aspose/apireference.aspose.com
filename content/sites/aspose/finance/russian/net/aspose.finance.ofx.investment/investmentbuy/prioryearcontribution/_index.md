@@ -1,14 +1,14 @@
 ---
 title: PriorYearContribution
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает была ли эта покупка совершена с взносом за предыдущий год для счетов 401k.
+description: Получает или задает была ли эта покупка сделана с взносом за предыдущий год для счетов 401k.
 type: docs
 weight: 130
 url: /ru/net/aspose.finance.ofx.investment/investmentbuy/prioryearcontribution/
 ---
 ## InvestmentBuy.PriorYearContribution property
 
-Получает или задает, была ли эта покупка совершена с взносом за предыдущий год для счетов 401(k).
+Получает или задает, была ли эта покупка сделана с взносом за предыдущий год для счетов 401(k).
 
 ```csharp
 public bool PriorYearContribution { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: CreditLineInfo
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задаетCreditLineInfoTypeaspose.finance.ofx/creditlineinfotype.
+description: Получает или задаетCreditLineInfoTypeaspose.finance.ofx/creditlineinfotype .
 type: docs
 weight: 70
 url: /ru/net/aspose.finance.ofx.bank/closing/creditlineinfo/
 ---
 ## Closing.CreditLineInfo property
 
-Получает или задает[`CreditLineInfoType`](../../../aspose.finance.ofx/creditlineinfotype).
+Получает или задает[`CreditLineInfoType`](../../../aspose.finance.ofx/creditlineinfotype) .
 
 ```csharp
 public CreditLineInfoType CreditLineInfo { get; set; }

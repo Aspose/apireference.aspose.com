@@ -1,14 +1,14 @@
 ---
 title: SignonResponse
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化SignonResponseaspose.finance.ofx.signon/signonresponse类的新实例
+description: 初始化一个新的实例SignonResponseaspose.finance.ofx.signon/signonresponse类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.signon/signonresponse/signonresponse/
 ---
 ## SignonResponse constructor
 
-初始化[`SignonResponse`](../../signonresponse)类的新实例。
+初始化一个新的实例[`SignonResponse`](../../signonresponse)类.
 
 ```csharp
 public SignonResponse()

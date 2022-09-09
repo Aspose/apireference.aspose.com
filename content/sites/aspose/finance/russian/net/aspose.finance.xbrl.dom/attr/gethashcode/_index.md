@@ -1,7 +1,7 @@
 ---
 title: GetHashCode
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает хэш-код атрибута.
+description: Получает хэшкод атрибута.
 type: docs
 weight: 80
 url: /ru/net/aspose.finance.xbrl.dom/attr/gethashcode/

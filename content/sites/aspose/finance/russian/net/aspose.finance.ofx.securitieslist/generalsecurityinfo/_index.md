@@ -1,14 +1,14 @@
 ---
 title: GeneralSecurityInfo
 second_title: Справочник по API Aspose.Finance для .NET
-description: Класс содержит поля общие для всех типов безопасности.
+description: Класс содержит поля общие для всех типов ценных бумаг.
 type: docs
 weight: 5060
 url: /ru/net/aspose.finance.ofx.securitieslist/generalsecurityinfo/
 ---
 ## GeneralSecurityInfo class
 
-Класс содержит поля, общие для всех типов безопасности.
+Класс содержит поля, общие для всех типов ценных бумаг.
 
 ```csharp
 public class GeneralSecurityInfo
@@ -18,20 +18,20 @@ public class GeneralSecurityInfo
 
 | Имя | Описание |
 | --- | --- |
-| [GeneralSecurityInfo](generalsecurityinfo)() | Инициализирует новый экземпляр класса[`GeneralSecurityInfo`](../generalsecurityinfo). |
+| [GeneralSecurityInfo](generalsecurityinfo)() | Инициализирует новый экземпляр[`GeneralSecurityInfo`](../generalsecurityinfo) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [Currency](../../aspose.finance.ofx.securitieslist/generalsecurityinfo/currency) { get; set; } | Получает или задает[`Currency`](./currency). |
+| [Currency](../../aspose.finance.ofx.securitieslist/generalsecurityinfo/currency) { get; set; } | Получает или задает[`Currency`](./currency) . |
 | [DateAsOf](../../aspose.finance.ofx.securitieslist/generalsecurityinfo/dateasof) { get; set; } | Получает или задает дату для цены за единицу. |
-| [FIId](../../aspose.finance.ofx.securitieslist/generalsecurityinfo/fiid) { get; set; } | Получает или задает идентификационный номер FI для данной ценной бумаги. |
+| [FIId](../../aspose.finance.ofx.securitieslist/generalsecurityinfo/fiid) { get; set; } | Получает или задает идентификационный номер FI для этой ценной бумаги. |
 | [Memo](../../aspose.finance.ofx.securitieslist/generalsecurityinfo/memo) { get; set; } | Получает или устанавливает памятку. |
-| [Rating](../../aspose.finance.ofx.securitieslist/generalsecurityinfo/rating) { get; set; } | Получает или задает рейтинг. |
-| [SecurityId](../../aspose.finance.ofx.securitieslist/generalsecurityinfo/securityid) { get; set; } | Получает или задает[`SecurityId`](./securityid). |
-| [SecurityName](../../aspose.finance.ofx.securitieslist/generalsecurityinfo/securityname) { get; set; } | Получает или задает полное имя безопасности. |
-| [Ticker](../../aspose.finance.ofx.securitieslist/generalsecurityinfo/ticker) { get; set; } | Получает или задает тикер. |
+| [Rating](../../aspose.finance.ofx.securitieslist/generalsecurityinfo/rating) { get; set; } | Получает или устанавливает рейтинг. |
+| [SecurityId](../../aspose.finance.ofx.securitieslist/generalsecurityinfo/securityid) { get; set; } | Получает или задает[`SecurityId`](./securityid) . |
+| [SecurityName](../../aspose.finance.ofx.securitieslist/generalsecurityinfo/securityname) { get; set; } | Получает или задает полное имя ценной бумаги. |
+| [Ticker](../../aspose.finance.ofx.securitieslist/generalsecurityinfo/ticker) { get; set; } | Получает или устанавливает символ тикера. |
 | [UnitPrice](../../aspose.finance.ofx.securitieslist/generalsecurityinfo/unitprice) { get; set; } | Получает или задает текущую цену ценной бумаги. |
 
 ### Смотрите также

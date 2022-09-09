@@ -1,14 +1,14 @@
 ---
 title: PostalCode
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает почтовый индекс адреса учащегося.
+description: Получает или задает почтовый индекс адреса студента.
 type: docs
 weight: 70
 url: /ru/net/aspose.finance.ofx.tax1098/studentaddress/postalcode/
 ---
 ## StudentAddress.PostalCode property
 
-Получает или задает почтовый индекс адреса учащегося.
+Получает или задает почтовый индекс адреса студента.
 
 ```csharp
 public string PostalCode { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: SecurityInfo
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置GeneralSecurityInfoaspose.finance.ofx.securitieslist/generalsecurityinfo
+description: 获取或设置GeneralSecurityInfoaspose.finance.ofx.securitieslist/generalsecurityinfo.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.securitieslist/abstractsecurityinfo/securityinfo/
 ---
 ## AbstractSecurityInfo.SecurityInfo property
 
-获取或设置[`GeneralSecurityInfo`](../../generalsecurityinfo)。
+获取或设置[`GeneralSecurityInfo`](../../generalsecurityinfo).
 
 ```csharp
 public GeneralSecurityInfo SecurityInfo { get; set; }

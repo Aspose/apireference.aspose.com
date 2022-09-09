@@ -1,14 +1,14 @@
 ---
 title: AccountSyncResponses
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置AccountSyncResponseaspose.finance.ofx.signup/accountsyncresponse的集合
+description: 获取或设置的集合AccountSyncResponseaspose.finance.ofx.signup/accountsyncresponse.
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.ofx/signupresponsemessagesetv1/accountsyncresponses/
 ---
 ## SignupResponseMessageSetV1.AccountSyncResponses property
 
-获取或设置[`AccountSyncResponse`](../../../aspose.finance.ofx.signup/accountsyncresponse)的集合。
+获取或设置的集合[`AccountSyncResponse`](../../../aspose.finance.ofx.signup/accountsyncresponse).
 
 ```csharp
 public List<AccountSyncResponse> AccountSyncResponses { get; set; }

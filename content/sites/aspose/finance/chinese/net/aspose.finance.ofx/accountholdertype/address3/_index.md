@@ -1,14 +1,14 @@
 ---
 title: Address3
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置地址行 3
+description: 获取或设置地址线 3.
 type: docs
 weight: 40
 url: /zh/net/aspose.finance.ofx/accountholdertype/address3/
 ---
 ## AccountHolderType.Address3 property
 
-获取或设置地址行 3。
+获取或设置地址线 3.
 
 ```csharp
 public string Address3 { get; set; }

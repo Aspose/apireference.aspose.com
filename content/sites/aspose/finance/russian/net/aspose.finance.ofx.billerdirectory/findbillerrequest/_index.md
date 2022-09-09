@@ -18,7 +18,7 @@ public class FindBillerRequest
 
 | Имя | Описание |
 | --- | --- |
-| [FindBillerRequest](findbillerrequest)() | Инициализирует новый экземпляр класса[`FindBillerRequest`](../findbillerrequest). |
+| [FindBillerRequest](findbillerrequest)() | Инициализирует новый экземпляр[`FindBillerRequest`](../findbillerrequest) класс. |
 
 ## Характеристики
 
@@ -30,10 +30,10 @@ public class FindBillerRequest
 | [BillerId](../../aspose.finance.ofx.billerdirectory/findbillerrequest/billerid) { get; set; } | Получает или задает идентификатор этого биллера в этом издателе счетов. |
 | [City](../../aspose.finance.ofx.billerdirectory/findbillerrequest/city) { get; set; } | Получает или задает город биллера. |
 | [ConsumerPostalCode](../../aspose.finance.ofx.billerdirectory/findbillerrequest/consumerpostalcode) { get; set; } | Получает или задает почтовый индекс клиента, чтобы позволить серверу отфильтровывать биллеров, которые не ведут бизнес в районе клиента |
-| [Country](../../aspose.finance.ofx.billerdirectory/findbillerrequest/country) { get; set; } | Получает или задает код страны выставляющего счета. Стандарт трехбуквенного кода страны ISO/DIS-3166. |
+| [Country](../../aspose.finance.ofx.billerdirectory/findbillerrequest/country) { get; set; } | Получает или задает код страны биллера. Стандарт трехбуквенного кода страны ISO/DIS-3166. |
 | [IncludeImages](../../aspose.finance.ofx.billerdirectory/findbillerrequest/includeimages) { get; set; } | Истинно, если клиент хочет вернуть изображения (логотипы). |
 | [Name](../../aspose.finance.ofx.billerdirectory/findbillerrequest/name) { get; set; } | Получает или задает имя биллера. |
-| [PostalCode](../../aspose.finance.ofx.billerdirectory/findbillerrequest/postalcode) { get; set; } | Получает или задает почтовый индекс выставляющего счета. |
+| [PostalCode](../../aspose.finance.ofx.billerdirectory/findbillerrequest/postalcode) { get; set; } | Получает или задает почтовый индекс биллера. |
 | [StandardIndustryCode](../../aspose.finance.ofx.billerdirectory/findbillerrequest/standardindustrycode) { get; set; } | Получает или задает стандартный отраслевой код биллера. |
 | [State](../../aspose.finance.ofx.billerdirectory/findbillerrequest/state) { get; set; } | Получает или задает состояние биллера. |
 | [UpdateDate](../../aspose.finance.ofx.billerdirectory/findbillerrequest/updatedate) { get; set; } | Получает или задает дату и время последнего изменения любой записи биллера, как сообщает сервер по предыдущему запросу. |

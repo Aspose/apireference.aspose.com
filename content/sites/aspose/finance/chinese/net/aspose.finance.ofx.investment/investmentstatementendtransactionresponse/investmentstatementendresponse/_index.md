@@ -1,14 +1,14 @@
 ---
 title: InvestmentStatementEndResponse
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置InvestmentStatementEndResponseaspose.finance.ofx.investment/investmentstatementendtransactionresponse/investmentstatementendresponse
+description: 获取或设置InvestmentStatementEndResponseaspose.finance.ofx.investment/investmentstatementendtransactionresponse/investmentstatementendresponse.
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.ofx.investment/investmentstatementendtransactionresponse/investmentstatementendresponse/
 ---
 ## InvestmentStatementEndTransactionResponse.InvestmentStatementEndResponse property
 
-获取或设置`InvestmentStatementEndResponse`。
+获取或设置`InvestmentStatementEndResponse`.
 
 ```csharp
 public InvestmentStatementEndResponse InvestmentStatementEndResponse { get; set; }

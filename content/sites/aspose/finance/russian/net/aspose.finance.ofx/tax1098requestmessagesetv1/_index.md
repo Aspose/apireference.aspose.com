@@ -1,14 +1,14 @@
 ---
 title: Tax1098RequestMessageSetV1
 second_title: Справочник по API Aspose.Finance для .NET
-description: Налоговая 1098 сообщения запроса установить версию 1 класс.
+description: Сообщения запроса Tax 1098 устанавливают класс версии 1.
 type: docs
 weight: 5840
 url: /ru/net/aspose.finance.ofx/tax1098requestmessagesetv1/
 ---
 ## Tax1098RequestMessageSetV1 class
 
-Налоговая 1098 сообщения запроса установить версию 1 класс.
+Сообщения запроса Tax 1098 устанавливают класс версии 1.
 
 ```csharp
 public class Tax1098RequestMessageSetV1 : AbstractRequestMessageSet
@@ -18,13 +18,13 @@ public class Tax1098RequestMessageSetV1 : AbstractRequestMessageSet
 
 | Имя | Описание |
 | --- | --- |
-| [Tax1098RequestMessageSetV1](tax1098requestmessagesetv1)() | Инициализирует новый экземпляр класса[`Tax1098RequestMessageSetV1`](../tax1098requestmessagesetv1). |
+| [Tax1098RequestMessageSetV1](tax1098requestmessagesetv1)() | Инициализирует новый экземпляр[`Tax1098RequestMessageSetV1`](../tax1098requestmessagesetv1) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [Tax1098TransactionRequests](../../aspose.finance.ofx/tax1098requestmessagesetv1/tax1098transactionrequests) { get; set; } | Получает или задает коллекцию[`Tax1098TransactionRequest`](../../aspose.finance.ofx.tax1098/tax1098transactionrequest). |
+| [Tax1098TransactionRequests](../../aspose.finance.ofx/tax1098requestmessagesetv1/tax1098transactionrequests) { get; set; } | Получает или задает коллекцию[`Tax1098TransactionRequest`](../../aspose.finance.ofx.tax1098/tax1098transactionrequest) . |
 
 ### Смотрите также
 

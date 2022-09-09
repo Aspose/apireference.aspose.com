@@ -1,14 +1,14 @@
 ---
 title: LedgerBalance
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置LedgerBalanceaspose.finance.ofx.bank/statementresponse/ledgerbalance的来源
+description: 获取或设置 fromLedgerBalanceaspose.finance.ofx.bank/statementresponse/ledgerbalance.
 type: docs
 weight: 90
 url: /zh/net/aspose.finance.ofx.bank/statementresponse/ledgerbalance/
 ---
 ## StatementResponse.LedgerBalance property
 
-获取或设置`LedgerBalance`的来源。
+获取或设置 from`LedgerBalance`.
 
 ```csharp
 public LedgerBalance LedgerBalance { get; set; }

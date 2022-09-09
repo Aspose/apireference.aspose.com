@@ -1,14 +1,14 @@
 ---
 title: MailResponse
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置MailResponseaspose.finance.ofx.email/mailtransactionresponse/mailresponse
+description: 获取或设置MailResponseaspose.finance.ofx.email/mailtransactionresponse/mailresponse.
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.ofx.email/mailtransactionresponse/mailresponse/
 ---
 ## MailTransactionResponse.MailResponse property
 
-获取或设置`MailResponse`。
+获取或设置`MailResponse`.
 
 ```csharp
 public MailResponse MailResponse { get; set; }

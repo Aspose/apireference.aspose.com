@@ -1,14 +1,14 @@
 ---
 title: PrimaryHolder
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置AccountHolderTypeaspose.finance.ofx/accountholdertype的主要
+description: 获取或设置AccountHolderTypeaspose.finance.ofx/accountholdertype.
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.ofx/holderinfotype/primaryholder/
 ---
 ## HolderInfoType.PrimaryHolder property
 
-获取或设置[`AccountHolderType`](../../accountholdertype)的主要。
+获取或设置[`AccountHolderType`](../../accountholdertype).
 
 ```csharp
 public AccountHolderType PrimaryHolder { get; set; }

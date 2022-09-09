@@ -18,14 +18,14 @@ public class CreditcardRequestMessageSetV1 : AbstractRequestMessageSet
 
 | Имя | Описание |
 | --- | --- |
-| [CreditcardRequestMessageSetV1](creditcardrequestmessagesetv1)() | Инициализирует новый экземпляр класса[`CreditcardRequestMessageSetV1`](../creditcardrequestmessagesetv1). |
+| [CreditcardRequestMessageSetV1](creditcardrequestmessagesetv1)() | Инициализирует новый экземпляр[`CreditcardRequestMessageSetV1`](../creditcardrequestmessagesetv1) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [CreditCardStatementEndTransactionRequests](../../aspose.finance.ofx/creditcardrequestmessagesetv1/creditcardstatementendtransactionrequests) { get; set; } | Получает или задает коллекцию[`CreditCardStatementEndTransactionRequest`](../../aspose.finance.ofx.creditcard/creditcardstatementendtransactionrequest). |
-| [CreditCardStatementTransactionRequests](../../aspose.finance.ofx/creditcardrequestmessagesetv1/creditcardstatementtransactionrequests) { get; set; } | Получает или задает коллекцию[`CreditCardStatementTransactionRequest`](../../aspose.finance.ofx.creditcard/creditcardstatementtransactionrequest). |
+| [CreditCardStatementEndTransactionRequests](../../aspose.finance.ofx/creditcardrequestmessagesetv1/creditcardstatementendtransactionrequests) { get; set; } | Получает или задает коллекцию[`CreditCardStatementEndTransactionRequest`](../../aspose.finance.ofx.creditcard/creditcardstatementendtransactionrequest) . |
+| [CreditCardStatementTransactionRequests](../../aspose.finance.ofx/creditcardrequestmessagesetv1/creditcardstatementtransactionrequests) { get; set; } | Получает или задает коллекцию[`CreditCardStatementTransactionRequest`](../../aspose.finance.ofx.creditcard/creditcardstatementtransactionrequest) . |
 
 ### Смотрите также
 

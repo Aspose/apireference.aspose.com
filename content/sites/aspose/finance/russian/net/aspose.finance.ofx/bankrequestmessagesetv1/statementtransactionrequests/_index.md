@@ -1,14 +1,14 @@
 ---
 title: StatementTransactionRequests
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает коллекциюStatementTransactionRequestaspose.finance.ofx.bank/statementtransactionrequest.
+description: Получает или задает коллекциюStatementTransactionRequestaspose.finance.ofx.bank/statementtransactionrequest .
 type: docs
 weight: 90
 url: /ru/net/aspose.finance.ofx/bankrequestmessagesetv1/statementtransactionrequests/
 ---
 ## BankRequestMessageSetV1.StatementTransactionRequests property
 
-Получает или задает коллекцию[`StatementTransactionRequest`](../../../aspose.finance.ofx.bank/statementtransactionrequest).
+Получает или задает коллекцию[`StatementTransactionRequest`](../../../aspose.finance.ofx.bank/statementtransactionrequest) .
 
 ```csharp
 public List<StatementTransactionRequest> StatementTransactionRequests { get; set; }

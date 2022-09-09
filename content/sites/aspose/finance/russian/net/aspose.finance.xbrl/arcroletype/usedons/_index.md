@@ -1,14 +1,14 @@
 ---
 title: UsedOns
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает коллекцию из используемых по ссылке вArcroleTypeaspose.finance.xbrl/arcroletype.
+description: Получает коллекцию из используемых по ссылке вArcroleTypeaspose.finance.xbrl/arcroletype .
 type: docs
 weight: 40
 url: /ru/net/aspose.finance.xbrl/arcroletype/usedons/
 ---
 ## ArcroleType.UsedOns property
 
-Получает коллекцию из используемых по ссылке в[`ArcroleType`](../../arcroletype).
+Получает коллекцию из используемых по ссылке в[`ArcroleType`](../../arcroletype) .
 
 ```csharp
 public List<string> UsedOns { get; set; }

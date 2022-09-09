@@ -18,7 +18,7 @@ public class ChallengeResponse
 
 | Имя | Описание |
 | --- | --- |
-| [ChallengeResponse](challengeresponse)() | Инициализирует новый экземпляр класса[`ChallengeResponse`](../challengeresponse). |
+| [ChallengeResponse](challengeresponse)() | Инициализирует новый экземпляр[`ChallengeResponse`](../challengeresponse) класс. |
 
 ## Характеристики
 

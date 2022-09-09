@@ -1,14 +1,14 @@
 ---
 title: PendingTransactionList
 second_title: Справочник по API Aspose.Finance для .NET
-description: Класс сбора транзакционных данных отложенной выписки
+description: Отложенный сбор данных транзакций выписки class
 type: docs
 weight: 4260
 url: /ru/net/aspose.finance.ofx/pendingtransactionlist/
 ---
 ## PendingTransactionList class
 
-Класс сбора транзакционных данных отложенной выписки
+Отложенный сбор данных транзакций выписки class
 
 ```csharp
 public class PendingTransactionList
@@ -18,14 +18,14 @@ public class PendingTransactionList
 
 | Имя | Описание |
 | --- | --- |
-| [PendingTransactionList](pendingtransactionlist)() | Инициализирует новый экземпляр класса[`PendingTransactionList`](../pendingtransactionlist). |
+| [PendingTransactionList](pendingtransactionlist)() | Инициализирует новый экземпляр[`PendingTransactionList`](../pendingtransactionlist) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
 | [DateAsOf](../../aspose.finance.ofx/pendingtransactionlist/dateasof) { get; set; } | Получает или задает дату и время создания этого набора ожидающих транзакций. |
-| [PendingTransactions](../../aspose.finance.ofx/pendingtransactionlist/pendingtransactions) { get; set; } | Получает или задает коллекцию[`PendingTransaction`](../pendingtransaction). |
+| [PendingTransactions](../../aspose.finance.ofx/pendingtransactionlist/pendingtransactions) { get; set; } | Получает или задает коллекцию[`PendingTransaction`](../pendingtransaction) . |
 
 ### Смотрите также
 

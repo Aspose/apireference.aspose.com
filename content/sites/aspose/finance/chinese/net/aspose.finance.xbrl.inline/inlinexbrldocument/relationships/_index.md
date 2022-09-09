@@ -1,14 +1,14 @@
 ---
 title: Relationships
 second_title: Aspose.Finance for .NET API 参考
-description: 获取内联 XBRL 文档中InlineRelationshipaspose.finance.xbrl.inline/inlinerelationship的集合
+description: 获取集合InlineRelationshipaspose.finance.xbrl.inline/inlinerelationship在内联 XBRL 文档中
 type: docs
 weight: 80
 url: /zh/net/aspose.finance.xbrl.inline/inlinexbrldocument/relationships/
 ---
 ## InlineXbrlDocument.Relationships property
 
-获取内联 XBRL 文档中[`InlineRelationship`](../../inlinerelationship)的集合。
+获取集合[`InlineRelationship`](../../inlinerelationship)在内联 XBRL 文档中。
 
 ```csharp
 public List<InlineRelationship> Relationships { get; }

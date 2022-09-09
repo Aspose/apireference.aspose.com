@@ -1,14 +1,14 @@
 ---
 title: Codes
 second_title: Справочник по API Aspose.Finance для .NET
-description: Класс кода код и сумма для Графы 12.
+description: Класс кода код и сумма для графы 12.
 type: docs
 weight: 6120
 url: /ru/net/aspose.finance.ofx.taxw2/codes/
 ---
 ## Codes class
 
-Класс кода, код и сумма для Графы 12.
+Класс кода, код и сумма для графы 12.
 
 ```csharp
 public class Codes
@@ -18,14 +18,14 @@ public class Codes
 
 | Имя | Описание |
 | --- | --- |
-| [Codes](codes)() | Инициализирует новый экземпляр класса[`Codes`](../codes). |
+| [Codes](codes)() | Инициализирует новый экземпляр[`Codes`](../codes) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
 | [Code](../../aspose.finance.ofx.taxw2/codes/code) { get; set; } | Получает или задает код поля 12. |
-| [CodeAmount](../../aspose.finance.ofx.taxw2/codes/codeamount) { get; set; } | Получает или задает сумму в долларах для поля 12. |
+| [CodeAmount](../../aspose.finance.ofx.taxw2/codes/codeamount) { get; set; } | Получает или задает сумму в долларах для ввода поля 12. |
 
 ### Смотрите также
 

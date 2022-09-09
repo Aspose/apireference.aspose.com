@@ -1,14 +1,14 @@
 ---
 title: PayeeId
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает идентификатор получателя платежа если он доступен.
+description: Получает или устанавливает идентификатор получателя платежа если он доступен.
 type: docs
 weight: 160
 url: /ru/net/aspose.finance.ofx/statementtransaction/payeeid/
 ---
 ## StatementTransaction.PayeeId property
 
-Получает или задает идентификатор получателя платежа, если он доступен.
+Получает или устанавливает идентификатор получателя платежа, если он доступен.
 
 ```csharp
 public string PayeeId { get; set; }

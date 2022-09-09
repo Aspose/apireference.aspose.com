@@ -1,14 +1,14 @@
 ---
 title: ADJCode
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает может включать до девяти кодов настройки на сводном уровне.
+description: Получает или задает до девяти кодов корректировок на сводном уровне.
 type: docs
 weight: 20
 url: /ru/net/aspose.finance.ofx.tax1099/proceedsummary_v100/adjcode/
 ---
 ## ProceedSummary_V100.ADJCode property
 
-Получает или задает, может включать до девяти кодов настройки на сводном уровне.
+Получает или задает до девяти кодов корректировок на сводном уровне.
 
 ```csharp
 public string ADJCode { get; set; }

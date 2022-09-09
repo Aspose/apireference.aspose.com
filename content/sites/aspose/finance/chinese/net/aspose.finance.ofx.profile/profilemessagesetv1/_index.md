@@ -16,13 +16,13 @@ public class ProfileMessageSetV1 : AbstractMessageSetVersion
 
 | 姓名 | 描述 |
 | --- | --- |
-| [ProfileMessageSetV1](profilemessagesetv1)() | 初始化[`ProfileMessageSetV1`](../profilemessagesetv1)类的新实例。 |
+| [ProfileMessageSetV1](profilemessagesetv1)() | 初始化一个新的实例[`ProfileMessageSetV1`](../profilemessagesetv1)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [MessageSetCore](../../aspose.finance.ofx.profile/abstractmessagesetversion/messagesetcore) { get; set; } | 获取或设置[`MessageSetCore`](../abstractmessagesetversion/messagesetcore)。 |
+| [MessageSetCore](../../aspose.finance.ofx.profile/abstractmessagesetversion/messagesetcore) { get; set; } | 获取或设置[`MessageSetCore`](../abstractmessagesetversion/messagesetcore). |
 
 ### 也可以看看
 

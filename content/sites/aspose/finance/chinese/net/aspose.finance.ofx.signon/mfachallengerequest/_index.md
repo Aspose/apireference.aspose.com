@@ -18,7 +18,7 @@ public class MFAChallengeRequest
 
 | 姓名 | 描述 |
 | --- | --- |
-| [MFAChallengeRequest](mfachallengerequest)() | 初始化[`MFAChallengeRequest`](../mfachallengerequest)类的新实例。 |
+| [MFAChallengeRequest](mfachallengerequest)() | 初始化一个新的实例[`MFAChallengeRequest`](../mfachallengerequest)类. |
 
 ## 特性
 

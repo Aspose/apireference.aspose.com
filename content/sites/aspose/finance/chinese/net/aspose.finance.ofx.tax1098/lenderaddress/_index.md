@@ -1,14 +1,14 @@
 ---
 title: LenderAddress
 second_title: Aspose.Finance for .NET API 参考
-description: 贷方地址类
+description: 贷方地址类.
 type: docs
 weight: 5750
 url: /zh/net/aspose.finance.ofx.tax1098/lenderaddress/
 ---
 ## LenderAddress class
 
-贷方地址类。
+贷方地址类.
 
 ```csharp
 public class LenderAddress
@@ -18,7 +18,7 @@ public class LenderAddress
 
 | 姓名 | 描述 |
 | --- | --- |
-| [LenderAddress](lenderaddress)() | 初始化[`LenderAddress`](../lenderaddress)类的新实例。 |
+| [LenderAddress](lenderaddress)() | 初始化一个新的实例[`LenderAddress`](../lenderaddress)类. |
 
 ## 特性
 

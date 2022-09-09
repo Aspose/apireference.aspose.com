@@ -1,14 +1,14 @@
 ---
 title: CreditCardAccount
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化CreditCardAccountaspose.finance.ofx/creditcardaccount类的新实例
+description: 初始化一个新的实例CreditCardAccountaspose.finance.ofx/creditcardaccount类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx/creditcardaccount/creditcardaccount/
 ---
 ## CreditCardAccount constructor
 
-初始化[`CreditCardAccount`](../../creditcardaccount)类的新实例。
+初始化一个新的实例[`CreditCardAccount`](../../creditcardaccount)类.
 
 ```csharp
 public CreditCardAccount()

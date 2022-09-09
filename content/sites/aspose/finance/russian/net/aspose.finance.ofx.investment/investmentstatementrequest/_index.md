@@ -18,20 +18,20 @@ public class InvestmentStatementRequest
 
 | Имя | Описание |
 | --- | --- |
-| [InvestmentStatementRequest](investmentstatementrequest)() | Инициализирует новый экземпляр класса[`InvestmentStatementRequest`](../investmentstatementrequest). |
+| [InvestmentStatementRequest](investmentstatementrequest)() | Инициализирует новый экземпляр[`InvestmentStatementRequest`](../investmentstatementrequest) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [Include401K](../../aspose.finance.ofx.investment/investmentstatementrequest/include401k) { get; set; } | Получает или задает, следует ли включать в ответ информацию 401(k). |
+| [Include401K](../../aspose.finance.ofx.investment/investmentstatementrequest/include401k) { get; set; } | Получает или задает, следует ли включать информацию 401(k) в ответ. |
 | [Include401KBalance](../../aspose.finance.ofx.investment/investmentstatementrequest/include401kbalance) { get; set; } | Получает или задает, следует ли включать в ответ информацию о балансе 401(k). |
 | [IncludeBalance](../../aspose.finance.ofx.investment/investmentstatementrequest/includebalance) { get; set; } | Получает или задает, следует ли включать инвестиционный баланс в ответ. |
-| [IncludeOpenOrder](../../aspose.finance.ofx.investment/investmentstatementrequest/includeopenorder) { get; set; } | Получает или задает, включать ли открытые инвестиционные ордера в ответ. |
+| [IncludeOpenOrder](../../aspose.finance.ofx.investment/investmentstatementrequest/includeopenorder) { get; set; } | Получает или задает, следует ли включать в ответ открытые инвестиционные ордера. |
 | [IncludeTransactionImage](../../aspose.finance.ofx.investment/investmentstatementrequest/includetransactionimage) { get; set; } | Получает или задает, следует ли включать информацию об изображении для банковских транзакций. |
-| [IncPosition](../../aspose.finance.ofx.investment/investmentstatementrequest/incposition) { get; set; } | Получает или задает[`IncPosition`](./incposition). |
-| [IncTransaction](../../aspose.finance.ofx.investment/investmentstatementrequest/inctransaction) { get; set; } | Получает или задает[`IncTransaction`](./inctransaction). |
-| [InvestmentAccountFrom](../../aspose.finance.ofx.investment/investmentstatementrequest/investmentaccountfrom) { get; set; } | Получает или задает значение из[`InvestmentAccount`](../../aspose.finance.ofx/investmentaccount). |
+| [IncPosition](../../aspose.finance.ofx.investment/investmentstatementrequest/incposition) { get; set; } | Получает или задает[`IncPosition`](./incposition) . |
+| [IncTransaction](../../aspose.finance.ofx.investment/investmentstatementrequest/inctransaction) { get; set; } | Получает или задает[`IncTransaction`](./inctransaction) . |
+| [InvestmentAccountFrom](../../aspose.finance.ofx.investment/investmentstatementrequest/investmentaccountfrom) { get; set; } | Получает или задает из[`InvestmentAccount`](../../aspose.finance.ofx/investmentaccount) . |
 
 ### Смотрите также
 

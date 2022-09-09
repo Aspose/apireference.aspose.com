@@ -1,14 +1,14 @@
 ---
 title: ReturnOfCapital
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化ReturnOfCapitalaspose.finance.ofx.investment/returnofcapital类的新实例
+description: 初始化一个新的实例ReturnOfCapitalaspose.finance.ofx.investment/returnofcapital类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.investment/returnofcapital/returnofcapital/
 ---
 ## ReturnOfCapital constructor
 
-初始化[`ReturnOfCapital`](../../returnofcapital)类的新实例。
+初始化一个新的实例[`ReturnOfCapital`](../../returnofcapital)类.
 
 ```csharp
 public ReturnOfCapital()

@@ -1,14 +1,14 @@
 ---
 title: Format
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置InlineNonnumericaspose.finance.xbrl.inline/inlinenonnumeric的格式
+description: 获取或设置InlineNonnumericaspose.finance.xbrl.inline/inlinenonnumeric.
 type: docs
 weight: 40
 url: /zh/net/aspose.finance.xbrl.inline/inlinenonnumeric/format/
 ---
 ## InlineNonnumeric.Format property
 
-获取或设置[`InlineNonnumeric`](../../inlinenonnumeric)的格式。
+获取或设置[`InlineNonnumeric`](../../inlinenonnumeric).
 
 ```csharp
 public XmlQualifiedName Format { get; set; }

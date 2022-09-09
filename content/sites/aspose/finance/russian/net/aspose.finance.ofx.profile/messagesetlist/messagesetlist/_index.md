@@ -1,14 +1,14 @@
 ---
 title: MessageSetList
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаMessageSetListaspose.finance.ofx.profile/messagesetlist.
+description: Инициализирует новый экземплярMessageSetListaspose.finance.ofx.profile/messagesetlist класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.profile/messagesetlist/messagesetlist/
 ---
 ## MessageSetList constructor
 
-Инициализирует новый экземпляр класса[`MessageSetList`](../../messagesetlist).
+Инициализирует новый экземпляр[`MessageSetList`](../../messagesetlist) класс.
 
 ```csharp
 public MessageSetList()

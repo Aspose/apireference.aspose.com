@@ -18,13 +18,13 @@ public class TaxW2MessageSetV1 : AbstractMessageSetVersion
 
 | 姓名 | 描述 |
 | --- | --- |
-| [TaxW2MessageSetV1](taxw2messagesetv1)() | 初始化[`TaxW2MessageSetV1`](../taxw2messagesetv1)类的新实例。 |
+| [TaxW2MessageSetV1](taxw2messagesetv1)() | 初始化一个新的实例[`TaxW2MessageSetV1`](../taxw2messagesetv1)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [MessageSetCore](../../aspose.finance.ofx.profile/abstractmessagesetversion/messagesetcore) { get; set; } | 获取或设置[`MessageSetCore`](../abstractmessagesetversion/messagesetcore)。 |
+| [MessageSetCore](../../aspose.finance.ofx.profile/abstractmessagesetversion/messagesetcore) { get; set; } | 获取或设置[`MessageSetCore`](../abstractmessagesetversion/messagesetcore). |
 | [TaxW2Download](../../aspose.finance.ofx.profile/taxw2messagesetv1/taxw2download) { get; set; } | 获取或设置服务器是否支持W2税表下载。 |
 | [TaxYearSupporteds](../../aspose.finance.ofx.profile/taxw2messagesetv1/taxyearsupporteds) { get; set; } | 获取或设置此服务器的 W2 下载支持的年份。 |
 

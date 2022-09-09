@@ -1,14 +1,14 @@
 ---
 title: MaturityAmount
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает сумму по истечении срока для CD применяется только к счетам CD.
+description: Получает или задает сумму срока погашения для CD применяется только к счетам CD.
 type: docs
 weight: 50
 url: /ru/net/aspose.finance.ofx/bankaccountinfo/maturityamount/
 ---
 ## BankAccountInfo.MaturityAmount property
 
-Получает или задает сумму по истечении срока для CD, применяется только к счетам CD.
+Получает или задает сумму срока погашения для CD, применяется только к счетам CD.
 
 ```csharp
 public string MaturityAmount { get; set; }

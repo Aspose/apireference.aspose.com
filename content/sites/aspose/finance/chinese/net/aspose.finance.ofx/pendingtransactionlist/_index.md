@@ -1,14 +1,14 @@
 ---
 title: PendingTransactionList
 second_title: Aspose.Finance for .NET API 参考
-description: 挂单交易数据采集类
+description: 待定语句交易数据采集类
 type: docs
 weight: 4260
 url: /zh/net/aspose.finance.ofx/pendingtransactionlist/
 ---
 ## PendingTransactionList class
 
-挂单交易数据采集类
+待定语句交易数据采集类
 
 ```csharp
 public class PendingTransactionList
@@ -18,14 +18,14 @@ public class PendingTransactionList
 
 | 姓名 | 描述 |
 | --- | --- |
-| [PendingTransactionList](pendingtransactionlist)() | 初始化[`PendingTransactionList`](../pendingtransactionlist)类的新实例。 |
+| [PendingTransactionList](pendingtransactionlist)() | 初始化一个新的实例[`PendingTransactionList`](../pendingtransactionlist)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
 | [DateAsOf](../../aspose.finance.ofx/pendingtransactionlist/dateasof) { get; set; } | 获取或设置生成这组待处理事务的日期和时间。 |
-| [PendingTransactions](../../aspose.finance.ofx/pendingtransactionlist/pendingtransactions) { get; set; } | 获取或设置[`PendingTransaction`](../pendingtransaction)的集合。 |
+| [PendingTransactions](../../aspose.finance.ofx/pendingtransactionlist/pendingtransactions) { get; set; } | 获取或设置的集合[`PendingTransaction`](../pendingtransaction). |
 
 ### 也可以看看
 

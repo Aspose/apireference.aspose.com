@@ -1,14 +1,14 @@
 ---
 title: Investment401k
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置Investment401kaspose.finance.ofx.investment/investmentstatementresponse/investment401k
+description: 获取或设置Investment401kaspose.finance.ofx.investment/investmentstatementresponse/investment401k.
 type: docs
 weight: 40
 url: /zh/net/aspose.finance.ofx.investment/investmentstatementresponse/investment401k/
 ---
 ## InvestmentStatementResponse.Investment401k property
 
-获取或设置`Investment401k`。
+获取或设置`Investment401k`.
 
 ```csharp
 public Investment401k Investment401k { get; set; }

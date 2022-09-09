@@ -1,14 +1,14 @@
 ---
 title: BuyDebt
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инвестиционная сделка по покупке долга.
+description: Класс сделки по инвестиционной покупке долга.
 type: docs
 weight: 2670
 url: /ru/net/aspose.finance.ofx.investment/buydebt/
 ---
 ## BuyDebt class
 
-Инвестиционная сделка по покупке долга.
+Класс сделки по инвестиционной покупке долга.
 
 ```csharp
 public class BuyDebt : AbstractInvestmentBuyTransaction
@@ -18,14 +18,14 @@ public class BuyDebt : AbstractInvestmentBuyTransaction
 
 | Имя | Описание |
 | --- | --- |
-| [BuyDebt](buydebt)() | Инициализирует новый экземпляр класса[`BuyDebt`](../buydebt). |
+| [BuyDebt](buydebt)() | Инициализирует новый экземпляр[`BuyDebt`](../buydebt) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [AccruedInterest](../../aspose.finance.ofx.investment/buydebt/accruedinterest) { get; set; } | Получает или задает начисленные проценты. |
-| [InvestmentBuy](../../aspose.finance.ofx.investment/abstractinvestmentbuytransaction/investmentbuy) { get; set; } | Получает или задает[`InvestmentBuy`](../abstractinvestmentbuytransaction/investmentbuy). |
+| [AccruedInterest](../../aspose.finance.ofx.investment/buydebt/accruedinterest) { get; set; } | Получает или задает начисленный процент. |
+| [InvestmentBuy](../../aspose.finance.ofx.investment/abstractinvestmentbuytransaction/investmentbuy) { get; set; } | Получает или задает[`InvestmentBuy`](../abstractinvestmentbuytransaction/investmentbuy) . |
 
 ### Смотрите также
 

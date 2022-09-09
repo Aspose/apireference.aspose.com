@@ -18,13 +18,13 @@ public class SecurityListRequest
 
 | 姓名 | 描述 |
 | --- | --- |
-| [SecurityListRequest](securitylistrequest)() | 初始化[`SecurityListRequest`](../securitylistrequest)类的新实例。 |
+| [SecurityListRequest](securitylistrequest)() | 初始化一个新的实例[`SecurityListRequest`](../securitylistrequest)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [SecurityRequests](../../aspose.finance.ofx.securitieslist/securitylistrequest/securityrequests) { get; set; } | 获取或设置[`SecurityRequest`](../securityrequest)的集合。 |
+| [SecurityRequests](../../aspose.finance.ofx.securitieslist/securitylistrequest/securityrequests) { get; set; } | 获取或设置的集合[`SecurityRequest`](../securityrequest). |
 
 ### 也可以看看
 

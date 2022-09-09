@@ -1,14 +1,14 @@
 ---
 title: ExpireDate
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает дату после которой истечет срок действия встроенного маркера проверки подлинности.
+description: Получает или задает дату после которой истечет срок действия встроенного токена проверки подлинности.
 type: docs
 weight: 20
 url: /ru/net/aspose.finance.ofx.billerdelivery/statementimage/expiredate/
 ---
 ## StatementImage.ExpireDate property
 
-Получает или задает дату, после которой истечет срок действия встроенного маркера проверки подлинности.
+Получает или задает дату, после которой истечет срок действия встроенного токена проверки подлинности.
 
 ```csharp
 public string ExpireDate { get; set; }

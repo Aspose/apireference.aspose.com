@@ -1,14 +1,14 @@
 ---
 title: Locality
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置区域名称
+description: 获取或设置地区名称
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.ofx.taxw2/localinfo/locality/
 ---
 ## LocalInfo.Locality property
 
-获取或设置区域名称。
+获取或设置地区名称。
 
 ```csharp
 public string Locality { get; set; }

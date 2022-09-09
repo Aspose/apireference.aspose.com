@@ -1,14 +1,14 @@
 ---
 title: LabelArcs
 second_title: Aspose.Finance for .NET API 参考
-description: 获取LabelArcaspose.finance.xbrl/labelarc的集合
+description: 获取集合LabelArcaspose.finance.xbrl/labelarc.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.xbrl/labellink/labelarcs/
 ---
 ## LabelLink.LabelArcs property
 
-获取[`LabelArc`](../../labelarc)的集合。
+获取集合[`LabelArc`](../../labelarc).
 
 ```csharp
 public List<LabelArc> LabelArcs { get; }

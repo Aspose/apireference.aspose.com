@@ -1,14 +1,14 @@
 ---
 title: Currency
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置Currencyaspose.finance.ofx.loan/loanclosing/currency
+description: 获取或设置Currencyaspose.finance.ofx.loan/loanclosing/currency.
 type: docs
 weight: 70
 url: /zh/net/aspose.finance.ofx.loan/loanclosing/currency/
 ---
 ## LoanClosing.Currency property
 
-获取或设置`Currency`。
+获取或设置`Currency`.
 
 ```csharp
 public Currency Currency { get; set; }

@@ -18,13 +18,13 @@ public class MailResponse
 
 | 姓名 | 描述 |
 | --- | --- |
-| [MailResponse](mailresponse)() | 初始化[`MailResponse`](../mailresponse)类的新实例。 |
+| [MailResponse](mailresponse)() | 初始化一个新的实例[`MailResponse`](../mailresponse)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Mail](../../aspose.finance.ofx.email/mailresponse/mail) { get; set; } | 获取或设置[`Mail`](./mail)。 |
+| [Mail](../../aspose.finance.ofx.email/mailresponse/mail) { get; set; } | 获取或设置[`Mail`](./mail). |
 
 ### 也可以看看
 

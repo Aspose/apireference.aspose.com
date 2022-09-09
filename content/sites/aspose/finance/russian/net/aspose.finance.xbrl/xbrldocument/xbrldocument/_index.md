@@ -1,14 +1,14 @@
 ---
 title: XbrlDocument
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр класса XbrlDocument
+description: Инициализирует новый экземпляр XbrlDocument class
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.xbrl/xbrldocument/xbrldocument/
 ---
 ## XbrlDocument() {#constructor}
 
-Инициализирует новый экземпляр класса XbrlDocument
+Инициализирует новый экземпляр XbrlDocument class
 
 ```csharp
 public XbrlDocument()

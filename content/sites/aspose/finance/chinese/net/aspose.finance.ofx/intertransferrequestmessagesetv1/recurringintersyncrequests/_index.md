@@ -1,14 +1,14 @@
 ---
 title: RecurringInterSyncRequests
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置RecurringInterSyncRequestaspose.finance.ofx.intertransfer/recurringintersyncrequest的集合
+description: 获取或设置的集合RecurringInterSyncRequestaspose.finance.ofx.intertransfer/recurringintersyncrequest.
 type: docs
 weight: 40
 url: /zh/net/aspose.finance.ofx/intertransferrequestmessagesetv1/recurringintersyncrequests/
 ---
 ## InterTransferRequestMessageSetV1.RecurringInterSyncRequests property
 
-获取或设置[`RecurringInterSyncRequest`](../../../aspose.finance.ofx.intertransfer/recurringintersyncrequest)的集合。
+获取或设置的集合[`RecurringInterSyncRequest`](../../../aspose.finance.ofx.intertransfer/recurringintersyncrequest).
 
 ```csharp
 public List<RecurringInterSyncRequest> RecurringInterSyncRequests { get; set; }

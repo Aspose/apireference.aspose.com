@@ -8,7 +8,7 @@ url: /zh/net/aspose.finance.ofx.signon/signonresponse/userkey/
 ---
 ## SignonResponse.UserKey property
 
-为后续请求获取或设置使用用户密钥，而不是 UserId 和 UserPassword。 KeyExpireTime 可以限制生命周期。
+为后续请求获取或设置使用用户密钥而不是 UserId 和 UserPassword。 KeyExpireTime 可以限制生命周期。
 
 ```csharp
 public string UserKey { get; set; }

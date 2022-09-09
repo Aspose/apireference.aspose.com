@@ -1,14 +1,14 @@
 ---
 title: StopCheckResponse
 second_title: Справочник по API Aspose.Finance для .NET
-description: Прекратить проверку класса ответов.
+description: Класс ответа на проверку остановки.
 type: docs
 weight: 730
 url: /ru/net/aspose.finance.ofx.bank/stopcheckresponse/
 ---
 ## StopCheckResponse class
 
-Прекратить проверку класса ответов.
+Класс ответа на проверку остановки.
 
 ```csharp
 public class StopCheckResponse
@@ -18,17 +18,17 @@ public class StopCheckResponse
 
 | Имя | Описание |
 | --- | --- |
-| [StopCheckResponse](stopcheckresponse)() | Инициализирует новый экземпляр класса[`StopCheckResponse`](../stopcheckresponse). |
+| [StopCheckResponse](stopcheckresponse)() | Инициализирует новый экземпляр[`StopCheckResponse`](../stopcheckresponse) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [BankAccountFrom](../../aspose.finance.ofx.bank/stopcheckresponse/bankaccountfrom) { get; set; } | Получает или задает значение из[`BankAccount`](../../aspose.finance.ofx/bankaccount). |
+| [BankAccountFrom](../../aspose.finance.ofx.bank/stopcheckresponse/bankaccountfrom) { get; set; } | Получает или задает из[`BankAccount`](../../aspose.finance.ofx/bankaccount) . |
 | [Currency](../../aspose.finance.ofx.bank/stopcheckresponse/currency) { get; set; } | Получает или задает валюту по умолчанию, используемую для закрытия информации. |
-| [Fee](../../aspose.finance.ofx.bank/stopcheckresponse/fee) { get; set; } | Получает или задает плату за стоп-чек. |
+| [Fee](../../aspose.finance.ofx.bank/stopcheckresponse/fee) { get; set; } | Получает или устанавливает комиссию за стоп-чек. |
 | [FeeMessage](../../aspose.finance.ofx.bank/stopcheckresponse/feemessage) { get; set; } | Получает или задает описание комиссии. |
-| [StopCheckNumbers](../../aspose.finance.ofx.bank/stopcheckresponse/stopchecknumbers) { get; set; } | Получает или задает коллекцию[`StopCheckNumber`](../stopchecknumber). |
+| [StopCheckNumbers](../../aspose.finance.ofx.bank/stopcheckresponse/stopchecknumbers) { get; set; } | Получает или задает коллекцию[`StopCheckNumber`](../stopchecknumber) . |
 
 ### Смотрите также
 

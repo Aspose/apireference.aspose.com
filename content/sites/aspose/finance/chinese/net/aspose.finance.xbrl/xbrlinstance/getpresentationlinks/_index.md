@@ -21,7 +21,7 @@ public List<PresentationLink> GetPresentationLinks(string roleURI, string arcrol
 
 ### 返回值
 
-演示链接与角色 URI 和 arcrole URI
+演示文稿与角色 URI 和 arcrole URI 链接
 
 ### 也可以看看
 

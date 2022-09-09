@@ -1,14 +1,14 @@
 ---
 title: Activity
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置帐户自上一期间以来的净流入和流出
+description: 获取或设置账户自上一期以来的净流入和流出
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.ofx.billerdelivery/presentmentbillinfo/activity/
 ---
 ## PresentmentBillInfo.Activity property
 
-获取或设置帐户自上一期间以来的净流入和流出。
+获取或设置账户自上一期以来的净流入和流出。
 
 ```csharp
 public string Activity { get; set; }

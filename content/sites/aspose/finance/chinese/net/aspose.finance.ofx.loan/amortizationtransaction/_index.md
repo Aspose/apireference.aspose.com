@@ -1,14 +1,14 @@
 ---
 title: AmortizationTransaction
 second_title: Aspose.Finance for .NET API 参考
-description: 摊销交易类
+description: 摊销交易类.
 type: docs
 weight: 3760
 url: /zh/net/aspose.finance.ofx.loan/amortizationtransaction/
 ---
 ## AmortizationTransaction class
 
-摊销交易类。
+摊销交易类.
 
 ```csharp
 public class AmortizationTransaction
@@ -18,7 +18,7 @@ public class AmortizationTransaction
 
 | 姓名 | 描述 |
 | --- | --- |
-| [AmortizationTransaction](amortizationtransaction)() | 初始化[`AmortizationTransaction`](../amortizationtransaction)类的新实例。 |
+| [AmortizationTransaction](amortizationtransaction)() | 初始化一个新的实例[`AmortizationTransaction`](../amortizationtransaction)类. |
 
 ## 特性
 
@@ -26,10 +26,10 @@ public class AmortizationTransaction
 | --- | --- |
 | [AmortizationType](../../aspose.finance.ofx.loan/amortizationtransaction/amortizationtype) { get; set; } | 获取或设置摊销类型。 |
 | [LoanInitBalance](../../aspose.finance.ofx.loan/amortizationtransaction/loaninitbalance) { get; set; } | 获取或设置付款前的期初余额。 |
-| [LoanRate](../../aspose.finance.ofx.loan/amortizationtransaction/loanrate) { get; set; } | 获取或设置[`LoanRateType`](../../aspose.finance.ofx/loanratetype)。 |
-| [LoanTransactionAmount](../../aspose.finance.ofx.loan/amortizationtransaction/loantransactionamount) { get; set; } | 获取或设置[`LoanTransactionAmount`](./loantransactionamount)。 |
-| [PaymentNumber](../../aspose.finance.ofx.loan/amortizationtransaction/paymentnumber) { get; set; } | 获取或设置还款号。 |
-| [PrincipalBalance](../../aspose.finance.ofx.loan/amortizationtransaction/principalbalance) { get; set; } | 获取或设置[`PrincipalBalanceType`](../../aspose.finance.ofx/principalbalancetype)。 |
+| [LoanRate](../../aspose.finance.ofx.loan/amortizationtransaction/loanrate) { get; set; } | 获取或设置[`LoanRateType`](../../aspose.finance.ofx/loanratetype). |
+| [LoanTransactionAmount](../../aspose.finance.ofx.loan/amortizationtransaction/loantransactionamount) { get; set; } | 获取或设置[`LoanTransactionAmount`](./loantransactionamount). |
+| [PaymentNumber](../../aspose.finance.ofx.loan/amortizationtransaction/paymentnumber) { get; set; } | 获取或设置还款号 |
+| [PrincipalBalance](../../aspose.finance.ofx.loan/amortizationtransaction/principalbalance) { get; set; } | 获取或设置[`PrincipalBalanceType`](../../aspose.finance.ofx/principalbalancetype). |
 
 ### 也可以看看
 

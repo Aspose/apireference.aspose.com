@@ -18,15 +18,15 @@ public class BankMailTransactionRequest : AbstractTransactionRequest
 
 | Имя | Описание |
 | --- | --- |
-| [BankMailTransactionRequest](bankmailtransactionrequest)() | Инициализирует новый экземпляр класса[`BankMailTransactionRequest`](../bankmailtransactionrequest). |
+| [BankMailTransactionRequest](bankmailtransactionrequest)() | Инициализирует новый экземпляр[`BankMailTransactionRequest`](../bankmailtransactionrequest) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [BankMailRequest](../../aspose.finance.ofx.bank/bankmailtransactionrequest/bankmailrequest) { get; set; } | Получает или задает[`BankMailRequest`](./bankmailrequest). |
-| [ClientCookie](../../aspose.finance.ofx/abstracttransactionrequest/clientcookie) { get; set; } | Получает или задает данные, которые будут отображаться в ответе транзакции |
-| [OfxExtension](../../aspose.finance.ofx.bank/bankmailtransactionrequest/ofxextension) { get; set; } | Получает или задает[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
+| [BankMailRequest](../../aspose.finance.ofx.bank/bankmailtransactionrequest/bankmailrequest) { get; set; } | Получает или задает[`BankMailRequest`](./bankmailrequest) . |
+| [ClientCookie](../../aspose.finance.ofx/abstracttransactionrequest/clientcookie) { get; set; } | Получает или задает данные, которые будут отражены в транзакции response |
+| [OfxExtension](../../aspose.finance.ofx.bank/bankmailtransactionrequest/ofxextension) { get; set; } | Получает или задает[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype) . |
 | [TransactionAuthorizationNumber](../../aspose.finance.ofx/abstracttransactionrequest/transactionauthorizationnumber) { get; set; } | Получает или задает номер авторизации транзакции. |
 | [TransactionUniqueId](../../aspose.finance.ofx/abstracttransactionrequest/transactionuniqueid) { get; set; } | Получает или задает назначенный клиентом глобальный уникальный идентификатор для этой транзакции |
 

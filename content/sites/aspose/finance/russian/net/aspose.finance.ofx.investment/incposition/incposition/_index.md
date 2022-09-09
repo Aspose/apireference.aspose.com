@@ -1,14 +1,14 @@
 ---
 title: IncPosition
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаIncPositionaspose.finance.ofx.investment/incposition.
+description: Инициализирует новый экземплярIncPositionaspose.finance.ofx.investment/incposition класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.investment/incposition/incposition/
 ---
 ## IncPosition constructor
 
-Инициализирует новый экземпляр класса[`IncPosition`](../../incposition).
+Инициализирует новый экземпляр[`IncPosition`](../../incposition) класс.
 
 ```csharp
 public IncPosition()

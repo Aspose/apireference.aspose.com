@@ -1,14 +1,14 @@
 ---
 title: NamespacePrefix
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает префикс пространства имен схемы в отчете XBRL.
+description: Получает или задает префикс пространства имен схемы в экземпляре XBRL.
 type: docs
 weight: 50
 url: /ru/net/aspose.finance.xbrl/schemaref/namespaceprefix/
 ---
 ## SchemaRef.NamespacePrefix property
 
-Получает или задает префикс пространства имен схемы в отчете XBRL.
+Получает или задает префикс пространства имен схемы в экземпляре XBRL.
 
 ```csharp
 public string NamespacePrefix { get; set; }

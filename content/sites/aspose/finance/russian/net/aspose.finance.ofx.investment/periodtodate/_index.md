@@ -18,15 +18,15 @@ public class PeriodToDate
 
 | Имя | Описание |
 | --- | --- |
-| [PeriodToDate](periodtodate)() | Инициализирует новый экземпляр класса[`PeriodToDate`](../periodtodate). |
+| [PeriodToDate](periodtodate)() | Инициализирует новый экземпляр[`PeriodToDate`](../periodtodate) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [Contributions](../../aspose.finance.ofx.investment/periodtodate/contributions) { get; set; } | Получает или задает[`Contributions`](./contributions). |
-| [Earnings](../../aspose.finance.ofx.investment/periodtodate/earnings) { get; set; } | Получает или задает[`Earnings`](./earnings). |
-| [EndDate](../../aspose.finance.ofx.investment/periodtodate/enddate) { get; set; } | Получает или задает конечную дату для текущей информации за период. |
+| [Contributions](../../aspose.finance.ofx.investment/periodtodate/contributions) { get; set; } | Получает или задает[`Contributions`](./contributions) . |
+| [Earnings](../../aspose.finance.ofx.investment/periodtodate/earnings) { get; set; } | Получает или задает[`Earnings`](./earnings) . |
+| [EndDate](../../aspose.finance.ofx.investment/periodtodate/enddate) { get; set; } | Получает или задает конечную дату для информации о текущем периоде. |
 | [StartDate](../../aspose.finance.ofx.investment/periodtodate/startdate) { get; set; } | Получает или задает дату начала текущего периода |
 | [Withdrawals](../../aspose.finance.ofx.investment/periodtodate/withdrawals) { get; set; } |  |
 

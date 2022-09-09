@@ -1,14 +1,14 @@
 ---
 title: Item
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает элементLinkbaseRefaspose.finance.xbrl/linkbaserefпо указанному индексу в коллекции.
+description: получаетLinkbaseRefaspose.finance.xbrl/linkbaseref элемент по указанному индексу в коллекции.
 type: docs
 weight: 20
 url: /ru/net/aspose.finance.xbrl/linkbaserefcollection/item/
 ---
 ## LinkbaseRefCollection indexer
 
-Получает элемент[`LinkbaseRef`](../../linkbaseref)по указанному индексу в коллекции.
+получает[`LinkbaseRef`](../../linkbaseref) элемент по указанному индексу в коллекции.
 
 ```csharp
 public LinkbaseRef this[int index] { get; }

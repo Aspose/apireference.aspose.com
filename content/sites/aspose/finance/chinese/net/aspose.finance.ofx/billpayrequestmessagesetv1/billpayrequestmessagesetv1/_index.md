@@ -1,14 +1,14 @@
 ---
 title: BillPayRequestMessageSetV1
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化BillPayRequestMessageSetV1aspose.finance.ofx/billpayrequestmessagesetv1类的新实例
+description: 初始化一个新的实例BillPayRequestMessageSetV1aspose.finance.ofx/billpayrequestmessagesetv1类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx/billpayrequestmessagesetv1/billpayrequestmessagesetv1/
 ---
 ## BillPayRequestMessageSetV1 constructor
 
-初始化[`BillPayRequestMessageSetV1`](../../billpayrequestmessagesetv1)类的新实例。
+初始化一个新的实例[`BillPayRequestMessageSetV1`](../../billpayrequestmessagesetv1)类.
 
 ```csharp
 public BillPayRequestMessageSetV1()

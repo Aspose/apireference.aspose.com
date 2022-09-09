@@ -1,14 +1,14 @@
 ---
 title: PresentmentMailSyncRequest
 second_title: Aspose.Finance for .NET API 参考
-description: 账单呈现邮件同步请求类
+description: 账单提示邮件同步请求类
 type: docs
 weight: 1750
 url: /zh/net/aspose.finance.ofx.billerdelivery/presentmentmailsyncrequest/
 ---
 ## PresentmentMailSyncRequest class
 
-账单呈现邮件同步请求类。
+账单提示邮件同步请求类
 
 ```csharp
 public class PresentmentMailSyncRequest : AbstractSyncRequest
@@ -18,20 +18,20 @@ public class PresentmentMailSyncRequest : AbstractSyncRequest
 
 | 姓名 | 描述 |
 | --- | --- |
-| [PresentmentMailSyncRequest](presentmentmailsyncrequest)() | 初始化[`PresentmentMailSyncRequest`](../presentmentmailsyncrequest)类的新实例。 |
+| [PresentmentMailSyncRequest](presentmentmailsyncrequest)() | 初始化一个新的实例[`PresentmentMailSyncRequest`](../presentmentmailsyncrequest)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
 | [IncludeImages](../../aspose.finance.ofx.billerdelivery/presentmentmailsyncrequest/includeimages) { get; set; } | 如果客户端接受邮件正文中包含图像的邮件，则为真。如果客户端不接受邮件正文中包含图像的邮件，则为 False。 |
-| [OfxExtension](../../aspose.finance.ofx.billerdelivery/presentmentmailsyncrequest/ofxextension) { get; set; } | 获取或设置[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype)。 |
-| [PresentmentAccountFrom](../../aspose.finance.ofx.billerdelivery/presentmentmailsyncrequest/presentmentaccountfrom) { get; set; } | 获取或设置[`PresentmentAccount`](../../aspose.finance.ofx/presentmentaccount)的来源。 |
-| [PresentmentMailTransactionRequests](../../aspose.finance.ofx.billerdelivery/presentmentmailsyncrequest/presentmentmailtransactionrequests) { get; set; } | 获取或设置[`PresentmentMailTransactionRequest`](../presentmentmailtransactionrequest)的集合。 |
+| [OfxExtension](../../aspose.finance.ofx.billerdelivery/presentmentmailsyncrequest/ofxextension) { get; set; } | 获取或设置[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
+| [PresentmentAccountFrom](../../aspose.finance.ofx.billerdelivery/presentmentmailsyncrequest/presentmentaccountfrom) { get; set; } | 获取或设置 from[`PresentmentAccount`](../../aspose.finance.ofx/presentmentaccount). |
+| [PresentmentMailTransactionRequests](../../aspose.finance.ofx.billerdelivery/presentmentmailsyncrequest/presentmentmailtransactionrequests) { get; set; } | 获取或设置的集合[`PresentmentMailTransactionRequest`](../presentmentmailtransactionrequest). |
 | [Refresh](../../aspose.finance.ofx/abstractsyncrequest/refresh) { get; set; } | 获取或设置是否请求刷新当前状态。 |
-| [RejectIfMisssing](../../aspose.finance.ofx/abstractsyncrequest/rejectifmisssing) { get; set; } | 如果是，如果客户端令牌已过期，请不要处理请求。 |
+| [RejectIfMisssing](../../aspose.finance.ofx/abstractsyncrequest/rejectifmisssing) { get; set; } | 如果是，如果客户端令牌已过期，则不处理请求。 |
 | [Token](../../aspose.finance.ofx/abstractsyncrequest/token) { get; set; } | 获取或设置令牌。 |
-| [TokenOnly](../../aspose.finance.ofx/abstractsyncrequest/tokenonly) { get; set; } | 获取或设置是否只请求当前令牌而不请求历史。 |
+| [TokenOnly](../../aspose.finance.ofx/abstractsyncrequest/tokenonly) { get; set; } | 获取或设置是否只请求当前令牌而不请求历史记录。 |
 | [UseHtml](../../aspose.finance.ofx.billerdelivery/presentmentmailsyncrequest/usehtml) { get; set; } | 如果客户端需要 HTML 响应，则为 True，如果客户端需要纯文本，则为 False。 |
 
 ### 也可以看看

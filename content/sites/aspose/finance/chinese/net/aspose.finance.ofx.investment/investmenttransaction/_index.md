@@ -18,15 +18,15 @@ public class InvestmentTransaction
 
 | 姓名 | 描述 |
 | --- | --- |
-| [InvestmentTransaction](investmenttransaction)() | 初始化[`InvestmentTransaction`](../investmenttransaction)类的新实例。 |
+| [InvestmentTransaction](investmenttransaction)() | 初始化一个新的实例[`InvestmentTransaction`](../investmenttransaction)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
 | [FITransactionId](../../aspose.finance.ofx.investment/investmenttransaction/fitransactionid) { get; set; } | 获取或设置唯一 FI 分配的事务 ID |
-| [Memo](../../aspose.finance.ofx.investment/investmenttransaction/memo) { get; set; } | 获取或设置有关事务的其他信息。 |
-| [ReversalFITransactionId](../../aspose.finance.ofx.investment/investmenttransaction/reversalfitransactionid) { get; set; } | 获取或设置冲销交易ID。 |
+| [Memo](../../aspose.finance.ofx.investment/investmenttransaction/memo) { get; set; } | 获取或设置交易的其他信息。 |
+| [ReversalFITransactionId](../../aspose.finance.ofx.investment/investmenttransaction/reversalfitransactionid) { get; set; } | 获取或设置冲销交易id。 |
 | [ServerId](../../aspose.finance.ofx.investment/investmenttransaction/serverid) { get; set; } | 获取或设置服务器分配的事务 ID。 |
 | [SettleDate](../../aspose.finance.ofx.investment/investmenttransaction/settledate) { get; set; } | 获取或设置结算日期；对于股票分割，执行日期。 |
 | [TradeDate](../../aspose.finance.ofx.investment/investmenttransaction/tradedate) { get; set; } | 获取或设置交易日期，对于股票分割，记录日。 |

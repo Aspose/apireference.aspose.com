@@ -1,14 +1,14 @@
 ---
 title: SignonRealm
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает область входа в систему для использования с этим набором сообщений.
+description: Получает или задает область входа для использования с этим набором сообщений.
 type: docs
 weight: 80
 url: /ru/net/aspose.finance.ofx.profile/messagesetcore/signonrealm/
 ---
 ## MessageSetCore.SignonRealm property
 
-Получает или задает область входа в систему для использования с этим набором сообщений.
+Получает или задает область входа для использования с этим набором сообщений.
 
 ```csharp
 public string SignonRealm { get; set; }

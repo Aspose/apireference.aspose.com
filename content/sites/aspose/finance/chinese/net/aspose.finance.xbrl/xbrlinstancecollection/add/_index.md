@@ -1,14 +1,14 @@
 ---
 title: Add
 second_title: Aspose.Finance for .NET API 参考
-description: 将XbrlInstanceaspose.finance.xbrl/xbrlinstance添加到集合中
+description: 添加一个XbrlInstanceaspose.finance.xbrl/xbrlinstance收藏.
 type: docs
 weight: 40
 url: /zh/net/aspose.finance.xbrl/xbrlinstancecollection/add/
 ---
 ## XbrlInstanceCollection.Add method
 
-将[`XbrlInstance`](../../xbrlinstance)添加到集合中。
+添加一个[`XbrlInstance`](../../xbrlinstance)收藏.
 
 ```csharp
 public int Add()

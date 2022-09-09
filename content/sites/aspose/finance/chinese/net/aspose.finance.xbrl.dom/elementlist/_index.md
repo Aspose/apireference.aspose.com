@@ -25,7 +25,7 @@ public class ElementList : IEnumerable<Element>
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Add](../../aspose.finance.xbrl.dom/elementlist/add)(Element) | 将元素添加到列表末尾。 |
+| [Add](../../aspose.finance.xbrl.dom/elementlist/add)(Element) | 将元素添加到列表的末尾。 |
 | [GetEnumerator](../../aspose.finance.xbrl.dom/elementlist/getenumerator)() | 返回一个遍历列表的枚举器。 |
 
 ### 也可以看看

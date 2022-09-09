@@ -1,14 +1,14 @@
 ---
 title: OpenOrderSellOther
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化OpenOrderSellOtheraspose.finance.ofx.investment/openordersellother类的新实例
+description: 初始化一个新的实例OpenOrderSellOtheraspose.finance.ofx.investment/openordersellother类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.investment/openordersellother/openordersellother/
 ---
 ## OpenOrderSellOther constructor
 
-初始化[`OpenOrderSellOther`](../../openordersellother)类的新实例。
+初始化一个新的实例[`OpenOrderSellOther`](../../openordersellother)类.
 
 ```csharp
 public OpenOrderSellOther()

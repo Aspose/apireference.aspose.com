@@ -1,14 +1,14 @@
 ---
 title: AccountResponse
 second_title: Aspose.Finance for .NET API 参考
-description: 帐户服务响应类
+description: 账户服务响应类
 type: docs
 weight: 5490
 url: /zh/net/aspose.finance.ofx.signup/accountresponse/
 ---
 ## AccountResponse class
 
-帐户服务响应类。
+账户服务响应类
 
 ```csharp
 public class AccountResponse
@@ -18,14 +18,14 @@ public class AccountResponse
 
 | 姓名 | 描述 |
 | --- | --- |
-| [AccountResponse](accountresponse)() | 初始化[`AccountResponse`](../accountresponse)类的新实例。 |
+| [AccountResponse](accountresponse)() | 初始化一个新的实例[`AccountResponse`](../accountresponse)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
 | [Service](../../aspose.finance.ofx.signup/accountresponse/service) { get; set; } | 获取或设置要添加/更改/删除的服务。 |
-| [ServiceAction](../../aspose.finance.ofx.signup/accountresponse/serviceaction) { get; set; } | 获取或设置[`ServiceAdd`](../serviceadd)或[`ServiceChange`](../servicechange)或[`ServiceDelete`](../servicedelete)。 |
+| [ServiceAction](../../aspose.finance.ofx.signup/accountresponse/serviceaction) { get; set; } | 获取或设置[`ServiceAdd`](../serviceadd)或者[`ServiceChange`](../servicechange)或者[`ServiceDelete`](../servicedelete). |
 | [ServiceStatus](../../aspose.finance.ofx.signup/accountresponse/servicestatus) { get; set; } | 获取或设置服务状态。 |
 
 ### 也可以看看

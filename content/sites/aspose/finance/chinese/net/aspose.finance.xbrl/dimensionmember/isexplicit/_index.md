@@ -1,14 +1,14 @@
 ---
 title: IsExplicit
 second_title: Aspose.Finance for .NET API 参考
-description: 获取此维度成员是否显式
+description: 获取此维度成员是否是显式的
 type: docs
 weight: 40
 url: /zh/net/aspose.finance.xbrl/dimensionmember/isexplicit/
 ---
 ## DimensionMember.IsExplicit property
 
-获取此维度成员是否显式。
+获取此维度成员是否是显式的。
 
 ```csharp
 public bool IsExplicit { get; }

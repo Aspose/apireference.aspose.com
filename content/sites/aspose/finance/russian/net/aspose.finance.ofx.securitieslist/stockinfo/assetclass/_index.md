@@ -1,14 +1,14 @@
 ---
 title: AssetClass
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает класс актива.
+description: Получает или задает класс активов.
 type: docs
 weight: 20
 url: /ru/net/aspose.finance.ofx.securitieslist/stockinfo/assetclass/
 ---
 ## StockInfo.AssetClass property
 
-Получает или задает класс актива.
+Получает или задает класс активов.
 
 ```csharp
 public AssetClassEnum AssetClass { get; set; }

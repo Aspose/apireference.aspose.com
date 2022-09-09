@@ -1,14 +1,14 @@
 ---
 title: MedicareWages
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置医疗保险工资和小费
+description: 获取或设置医保工资和小费
 type: docs
 weight: 110
 url: /zh/net/aspose.finance.ofx.taxw2/taxw2_v200/medicarewages/
 ---
 ## TaxW2_V200.MedicareWages property
 
-获取或设置医疗保险工资和小费。
+获取或设置医保工资和小费。
 
 ```csharp
 public string MedicareWages { get; set; }

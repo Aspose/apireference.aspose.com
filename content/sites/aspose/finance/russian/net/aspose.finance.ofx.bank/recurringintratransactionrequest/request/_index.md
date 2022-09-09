@@ -1,14 +1,14 @@
 ---
 title: Request
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задаетRecurringIntraRequestaspose.finance.ofx.bank/recurringintrarequestилиRecurringIntraModRequestaspose.finance.ofx.bank/recurringintramodrequestилиRecurringIntraCancellationRequestaspose.finance.ofx.bank/recurringintracancellationrequest.
+description: Получает или задаетRecurringIntraRequestaspose.finance.ofx.bank/recurringintrarequest или жеRecurringIntraModRequestaspose.finance.ofx.bank/recurringintramodrequest или жеRecurringIntraCancellationRequestaspose.finance.ofx.bank/recurringintracancellationrequest .
 type: docs
 weight: 30
 url: /ru/net/aspose.finance.ofx.bank/recurringintratransactionrequest/request/
 ---
 ## RecurringIntraTransactionRequest.Request property
 
-Получает или задает[`RecurringIntraRequest`](../../recurringintrarequest)или[`RecurringIntraModRequest`](../../recurringintramodrequest)или[`RecurringIntraCancellationRequest`](../../recurringintracancellationrequest).
+Получает или задает[`RecurringIntraRequest`](../../recurringintrarequest) или же[`RecurringIntraModRequest`](../../recurringintramodrequest) или же[`RecurringIntraCancellationRequest`](../../recurringintracancellationrequest) .
 
 ```csharp
 public AbstractRecurringIntraRequest Request { get; set; }

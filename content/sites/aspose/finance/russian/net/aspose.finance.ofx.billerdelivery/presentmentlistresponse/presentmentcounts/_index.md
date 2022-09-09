@@ -1,14 +1,14 @@
 ---
 title: PresentmentCounts
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задаетPresentmentCountsaspose.finance.ofx.billerdelivery/presentmentlistresponse/presentmentcounts.
+description: Получает или задаетPresentmentCountsaspose.finance.ofx.billerdelivery/presentmentlistresponse/presentmentcounts .
 type: docs
 weight: 50
 url: /ru/net/aspose.finance.ofx.billerdelivery/presentmentlistresponse/presentmentcounts/
 ---
 ## PresentmentListResponse.PresentmentCounts property
 
-Получает или задает`PresentmentCounts`.
+Получает или задает`PresentmentCounts` .
 
 ```csharp
 public PresentmentCounts PresentmentCounts { get; set; }

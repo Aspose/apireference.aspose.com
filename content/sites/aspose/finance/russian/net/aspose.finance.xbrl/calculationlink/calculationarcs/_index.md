@@ -1,14 +1,14 @@
 ---
 title: CalculationArcs
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает коллекциюCalculationArcaspose.finance.xbrl/calculationarc.
+description: Получает коллекциюCalculationArcaspose.finance.xbrl/calculationarc .
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.xbrl/calculationlink/calculationarcs/
 ---
 ## CalculationLink.CalculationArcs property
 
-Получает коллекцию[`CalculationArc`](../../calculationarc).
+Получает коллекцию[`CalculationArc`](../../calculationarc) .
 
 ```csharp
 public List<CalculationArc> CalculationArcs { get; set; }

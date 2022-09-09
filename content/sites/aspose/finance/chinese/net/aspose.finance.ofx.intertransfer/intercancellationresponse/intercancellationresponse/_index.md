@@ -1,14 +1,14 @@
 ---
 title: InterCancellationResponse
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化InterCancellationResponseaspose.finance.ofx.intertransfer/intercancellationresponse类的新实例
+description: 初始化一个新的实例InterCancellationResponseaspose.finance.ofx.intertransfer/intercancellationresponse类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.intertransfer/intercancellationresponse/intercancellationresponse/
 ---
 ## InterCancellationResponse constructor
 
-初始化[`InterCancellationResponse`](../../intercancellationresponse)类的新实例。
+初始化一个新的实例[`InterCancellationResponse`](../../intercancellationresponse)类.
 
 ```csharp
 public InterCancellationResponse()

@@ -1,14 +1,14 @@
 ---
 title: ImageRequestMessageSetV1
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置ImageRequestMessageSetV1aspose.finance.ofx/ofxrequestdocument/imagerequestmessagesetv1
+description: 获取或设置ImageRequestMessageSetV1aspose.finance.ofx/ofxrequestdocument/imagerequestmessagesetv1.
 type: docs
 weight: 60
 url: /zh/net/aspose.finance.ofx/ofxrequestdocument/imagerequestmessagesetv1/
 ---
 ## OfxRequestDocument.ImageRequestMessageSetV1 property
 
-获取或设置`ImageRequestMessageSetV1`。
+获取或设置`ImageRequestMessageSetV1`.
 
 ```csharp
 public ImageRequestMessageSetV1 ImageRequestMessageSetV1 { get; set; }

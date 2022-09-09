@@ -1,14 +1,14 @@
 ---
 title: OpenOrderBuyStock
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化OpenOrderBuyStockaspose.finance.ofx.investment/openorderbuystock类的新实例
+description: 初始化一个新的实例OpenOrderBuyStockaspose.finance.ofx.investment/openorderbuystock类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.investment/openorderbuystock/openorderbuystock/
 ---
 ## OpenOrderBuyStock constructor
 
-初始化[`OpenOrderBuyStock`](../../openorderbuystock)类的新实例。
+初始化一个新的实例[`OpenOrderBuyStock`](../../openorderbuystock)类.
 
 ```csharp
 public OpenOrderBuyStock()

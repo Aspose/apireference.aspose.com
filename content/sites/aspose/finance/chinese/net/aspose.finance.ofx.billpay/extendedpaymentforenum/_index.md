@@ -1,14 +1,14 @@
 ---
 title: ExtendedPaymentForEnum
 second_title: Aspose.Finance for .NET API 参考
-description: 枚举类型的付款
+description: 类型 enum. 的付款
 type: docs
 weight: 920
 url: /zh/net/aspose.finance.ofx.billpay/extendedpaymentforenum/
 ---
 ## ExtendedPaymentForEnum enumeration
 
-枚举类型的付款。
+类型 enum. 的付款
 
 ```csharp
 public enum ExtendedPaymentForEnum

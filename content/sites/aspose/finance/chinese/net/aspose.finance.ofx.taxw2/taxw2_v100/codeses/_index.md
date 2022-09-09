@@ -1,14 +1,14 @@
 ---
 title: Codeses
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置Codesaspose.finance.ofx.taxw2/codes的集合
+description: 获取或设置的集合Codesaspose.finance.ofx.taxw2/codes.
 type: docs
 weight: 40
 url: /zh/net/aspose.finance.ofx.taxw2/taxw2_v100/codeses/
 ---
 ## TaxW2_V100.Codeses property
 
-获取或设置[`Codes`](../../codes)的集合。
+获取或设置的集合[`Codes`](../../codes).
 
 ```csharp
 public List<Codes> Codeses { get; set; }

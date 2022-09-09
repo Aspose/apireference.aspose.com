@@ -1,14 +1,14 @@
 ---
 title: Tax1099Response
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置Tax1099Responseaspose.finance.ofx.tax1099/tax1099transactionresponse/tax1099response
+description: 获取或设置Tax1099Responseaspose.finance.ofx.tax1099/tax1099transactionresponse/tax1099response.
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.ofx.tax1099/tax1099transactionresponse/tax1099response/
 ---
 ## Tax1099TransactionResponse.Tax1099Response property
 
-获取或设置`Tax1099Response`。
+获取或设置`Tax1099Response`.
 
 ```csharp
 public Tax1099Response Tax1099Response { get; set; }

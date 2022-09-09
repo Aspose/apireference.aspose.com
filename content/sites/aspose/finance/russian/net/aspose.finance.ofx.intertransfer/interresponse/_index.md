@@ -18,20 +18,20 @@ public class InterResponse : AbstractInterResponse
 
 | Имя | Описание |
 | --- | --- |
-| [InterResponse](interresponse)() | Инициализирует новый экземпляр класса[`InterResponse`](../interresponse). |
+| [InterResponse](interresponse)() | Инициализирует новый экземпляр[`InterResponse`](../interresponse) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
 | [Currency](../../aspose.finance.ofx.intertransfer/interresponse/currency) { get; set; } | Получает или задает валюту, используемую при переводе. |
-| [PostedDate](../../aspose.finance.ofx.intertransfer/interresponse/posteddate) { get; set; } | Получает или задает фактическую дату передачи. |
-| [ReferenceNumber](../../aspose.finance.ofx.intertransfer/interresponse/referencenumber) { get; set; } | Получает или задает ссылочный номер. Сервер может сгенерировать ссылку или проверить наличие перевода |
+| [PostedDate](../../aspose.finance.ofx.intertransfer/interresponse/posteddate) { get; set; } | Получает или задает фактическую дату переноса. |
+| [ReferenceNumber](../../aspose.finance.ofx.intertransfer/interresponse/referencenumber) { get; set; } | Получает или задает номер ссылки. Сервер может генерировать ссылку или проверять наличие transfer |
 | [ReferenceServerId](../../aspose.finance.ofx.intertransfer/interresponse/referenceserverid) { get; set; } | Получает или задает идентификатор эталонного сервера. Если сервер генерирует ответ по модели повторяющейся передачи, этот идентификатор ссылается на него. |
 | [ServerId](../../aspose.finance.ofx.intertransfer/interresponse/serverid) { get; set; } | Получает или задает идентификатор сервера для этой передачи. |
-| [TransferInfo](../../aspose.finance.ofx.intertransfer/interresponse/transferinfo) { get; set; } | Получает или задает[`TransferInfo`](./transferinfo). |
-| [TransferProcessingStatus](../../aspose.finance.ofx.intertransfer/interresponse/transferprocessingstatus) { get; set; } | Получает или задает[`TransferProcessingStatus`](./transferprocessingstatus). |
-| [TransferProjectDate](../../aspose.finance.ofx.intertransfer/interresponse/transferprojectdate) { get; set; } | Получает или задает предполагаемую дату переноса. |
+| [TransferInfo](../../aspose.finance.ofx.intertransfer/interresponse/transferinfo) { get; set; } | Получает или задает[`TransferInfo`](./transferinfo) . |
+| [TransferProcessingStatus](../../aspose.finance.ofx.intertransfer/interresponse/transferprocessingstatus) { get; set; } | Получает или задает[`TransferProcessingStatus`](./transferprocessingstatus) . |
+| [TransferProjectDate](../../aspose.finance.ofx.intertransfer/interresponse/transferprojectdate) { get; set; } | Получает или задает прогнозируемую дату переноса. |
 
 ### Смотрите также
 

@@ -1,14 +1,14 @@
 ---
 title: TaxW2RequestMessageSetV1
 second_title: Справочник по API Aspose.Finance для .NET
-description: Сообщения запроса Tax W2 set version 1 class.
+description: Сообщения запроса Tax W2 устанавливают класс версии 1.
 type: docs
 weight: 6240
 url: /ru/net/aspose.finance.ofx/taxw2requestmessagesetv1/
 ---
 ## TaxW2RequestMessageSetV1 class
 
-Сообщения запроса Tax W2 set version 1 class.
+Сообщения запроса Tax W2 устанавливают класс версии 1.
 
 ```csharp
 public class TaxW2RequestMessageSetV1 : AbstractRequestMessageSet
@@ -18,13 +18,13 @@ public class TaxW2RequestMessageSetV1 : AbstractRequestMessageSet
 
 | Имя | Описание |
 | --- | --- |
-| [TaxW2RequestMessageSetV1](taxw2requestmessagesetv1)() | Инициализирует новый экземпляр класса[`TaxW2RequestMessageSetV1`](../taxw2requestmessagesetv1). |
+| [TaxW2RequestMessageSetV1](taxw2requestmessagesetv1)() | Инициализирует новый экземпляр[`TaxW2RequestMessageSetV1`](../taxw2requestmessagesetv1) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [TaxW2TransactionRequests](../../aspose.finance.ofx/taxw2requestmessagesetv1/taxw2transactionrequests) { get; set; } | Получает или задает коллекцию[`TaxW2TransactionRequest`](../../aspose.finance.ofx.taxw2/taxw2transactionrequest). |
+| [TaxW2TransactionRequests](../../aspose.finance.ofx/taxw2requestmessagesetv1/taxw2transactionrequests) { get; set; } | Получает или задает коллекцию[`TaxW2TransactionRequest`](../../aspose.finance.ofx.taxw2/taxw2transactionrequest) . |
 
 ### Смотрите также
 

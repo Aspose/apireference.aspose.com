@@ -1,14 +1,14 @@
 ---
 title: Discount
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задаетDiscountaspose.finance.ofx/invoice/discount.
+description: Получает или задаетDiscountaspose.finance.ofx/invoice/discount .
 type: docs
 weight: 30
 url: /ru/net/aspose.finance.ofx/invoice/discount/
 ---
 ## Invoice.Discount property
 
-Получает или задает`Discount`.
+Получает или задает`Discount` .
 
 ```csharp
 public Discount Discount { get; set; }

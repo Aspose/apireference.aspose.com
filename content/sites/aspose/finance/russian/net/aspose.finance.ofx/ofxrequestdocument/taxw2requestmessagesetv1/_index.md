@@ -1,14 +1,14 @@
 ---
 title: TaxW2RequestMessageSetV1
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задаетTaxW2RequestMessageSetV1aspose.finance.ofx/ofxrequestdocument/taxw2requestmessagesetv1.
+description: Получает или задаетTaxW2RequestMessageSetV1aspose.finance.ofx/ofxrequestdocument/taxw2requestmessagesetv1 .
 type: docs
 weight: 180
 url: /ru/net/aspose.finance.ofx/ofxrequestdocument/taxw2requestmessagesetv1/
 ---
 ## OfxRequestDocument.TaxW2RequestMessageSetV1 property
 
-Получает или задает`TaxW2RequestMessageSetV1`.
+Получает или задает`TaxW2RequestMessageSetV1` .
 
 ```csharp
 public TaxW2RequestMessageSetV1 TaxW2RequestMessageSetV1 { get; set; }

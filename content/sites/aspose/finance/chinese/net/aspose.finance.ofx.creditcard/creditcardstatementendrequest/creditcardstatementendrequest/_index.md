@@ -1,14 +1,14 @@
 ---
 title: CreditCardStatementEndRequest
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化CreditCardStatementEndRequestaspose.finance.ofx.creditcard/creditcardstatementendrequest类的新实例
+description: 初始化一个新的实例CreditCardStatementEndRequestaspose.finance.ofx.creditcard/creditcardstatementendrequest类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.creditcard/creditcardstatementendrequest/creditcardstatementendrequest/
 ---
 ## CreditCardStatementEndRequest constructor
 
-初始化[`CreditCardStatementEndRequest`](../../creditcardstatementendrequest)类的新实例。
+初始化一个新的实例[`CreditCardStatementEndRequest`](../../creditcardstatementendrequest)类.
 
 ```csharp
 public CreditCardStatementEndRequest()

@@ -1,14 +1,14 @@
 ---
 title: SellAll
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает нужно ли продавать весь холдинг.
+description: Получает или задает следует ли продавать весь холдинг.
 type: docs
 weight: 20
 url: /ru/net/aspose.finance.ofx.investment/openordersellmutualfund/sellall/
 ---
 ## OpenOrderSellMutualFund.SellAll property
 
-Получает или задает, нужно ли продавать весь холдинг.
+Получает или задает, следует ли продавать весь холдинг.
 
 ```csharp
 public bool SellAll { get; set; }

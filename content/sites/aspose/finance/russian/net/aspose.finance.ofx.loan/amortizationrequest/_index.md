@@ -18,14 +18,14 @@ public class AmortizationRequest
 
 | Имя | Описание |
 | --- | --- |
-| [AmortizationRequest](amortizationrequest)() | Инициализирует новый экземпляр класса[`AmortizationRequest`](../amortizationrequest). |
+| [AmortizationRequest](amortizationrequest)() | Инициализирует новый экземпляр[`AmortizationRequest`](../amortizationrequest) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
 | [EndDate](../../aspose.finance.ofx.loan/amortizationrequest/enddate) { get; set; } | Получает или задает дату окончания для данных транзакции. |
-| [LoanAccountFrom](../../aspose.finance.ofx.loan/amortizationrequest/loanaccountfrom) { get; set; } | Получает или задает значение из[`LoanAccount`](../../aspose.finance.ofx/loanaccount). |
+| [LoanAccountFrom](../../aspose.finance.ofx.loan/amortizationrequest/loanaccountfrom) { get; set; } | Получает или задает из[`LoanAccount`](../../aspose.finance.ofx/loanaccount) . |
 | [StartDate](../../aspose.finance.ofx.loan/amortizationrequest/startdate) { get; set; } | Получает или задает начальную дату для данных транзакции. |
 
 ### Смотрите также

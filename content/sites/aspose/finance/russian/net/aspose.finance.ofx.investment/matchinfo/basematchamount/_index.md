@@ -1,14 +1,14 @@
 ---
 title: BaseMatchAmount
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает фиксированную сумму в долларах внесенную работодателем если работник вообще участвует в плане.
+description: Получает или задает фиксированную сумму в долларах внесенную работодателем если сотрудник вообще участвует в плане.
 type: docs
 weight: 20
 url: /ru/net/aspose.finance.ofx.investment/matchinfo/basematchamount/
 ---
 ## MatchInfo.BaseMatchAmount property
 
-Получает или задает фиксированную сумму в долларах, внесенную работодателем, если работник вообще участвует в плане.
+Получает или задает фиксированную сумму в долларах, внесенную работодателем, если сотрудник вообще участвует в плане.
 
 ```csharp
 public string BaseMatchAmount { get; set; }

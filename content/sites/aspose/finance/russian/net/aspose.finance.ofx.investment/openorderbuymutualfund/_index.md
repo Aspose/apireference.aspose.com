@@ -18,15 +18,15 @@ public class OpenOrderBuyMutualFund : AbstractOpenOrder
 
 | Имя | Описание |
 | --- | --- |
-| [OpenOrderBuyMutualFund](openorderbuymutualfund)() | Инициализирует новый экземпляр класса[`OpenOrderBuyMutualFund`](../openorderbuymutualfund). |
+| [OpenOrderBuyMutualFund](openorderbuymutualfund)() | Инициализирует новый экземпляр[`OpenOrderBuyMutualFund`](../openorderbuymutualfund) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
 | [BuyType](../../aspose.finance.ofx.investment/openorderbuymutualfund/buytype) { get; set; } | Получает или задает тип покупки. |
-| [OpenOrder](../../aspose.finance.ofx.investment/abstractopenorder/openorder) { get; set; } | Получает или задает[`GeneralOpenOrder`](../generalopenorder). |
-| [UnitType](../../aspose.finance.ofx.investment/openorderbuymutualfund/unittype) { get; set; } | Получает или задает значение единиц измерения. |
+| [OpenOrder](../../aspose.finance.ofx.investment/abstractopenorder/openorder) { get; set; } | Получает или задает[`GeneralOpenOrder`](../generalopenorder) . |
+| [UnitType](../../aspose.finance.ofx.investment/openorderbuymutualfund/unittype) { get; set; } | Получает или устанавливает, что представляют единицы измерения. |
 
 ### Смотрите также
 

@@ -1,14 +1,14 @@
 ---
 title: ContributionAmts
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает коллекциюContributionAmtaspose.finance.ofx.investment/contributionamt.
+description: Получает или задает коллекциюContributionAmtaspose.finance.ofx.investment/contributionamt .
 type: docs
 weight: 20
 url: /ru/net/aspose.finance.ofx.investment/contributionsecurity/contributionamts/
 ---
 ## ContributionSecurity.ContributionAmts property
 
-Получает или задает коллекцию[`ContributionAmt`](../../contributionamt).
+Получает или задает коллекцию[`ContributionAmt`](../../contributionamt) .
 
 ```csharp
 public List<ContributionAmt> ContributionAmts { get; set; }

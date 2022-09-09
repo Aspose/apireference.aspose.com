@@ -1,14 +1,14 @@
 ---
 title: DebtInfo
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаDebtInfoaspose.finance.ofx.securitieslist/debtinfo.
+description: Инициализирует новый экземплярDebtInfoaspose.finance.ofx.securitieslist/debtinfo класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.securitieslist/debtinfo/debtinfo/
 ---
 ## DebtInfo constructor
 
-Инициализирует новый экземпляр класса[`DebtInfo`](../../debtinfo).
+Инициализирует новый экземпляр[`DebtInfo`](../../debtinfo) класс.
 
 ```csharp
 public DebtInfo()

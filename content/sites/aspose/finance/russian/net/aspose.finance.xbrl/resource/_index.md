@@ -18,7 +18,7 @@ public abstract class Resource : Xlink
 
 | Имя | Описание |
 | --- | --- |
-| [Resource](resource)() | Инициализирует новый экземпляр класса[`Resource`](../resource). |
+| [Resource](resource)() | Инициализирует новый экземпляр[`Resource`](../resource) класс. |
 
 ## Характеристики
 

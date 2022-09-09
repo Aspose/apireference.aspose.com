@@ -1,14 +1,14 @@
 ---
 title: AccountTo
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает для счетаBankAccountaspose.finance.ofx/bankaccountилиLoanAccountaspose.finance.ofx/loanaccount.
+description: Получает или устанавливает учетную записьBankAccountaspose.finance.ofx/bankaccount или жеLoanAccountaspose.finance.ofx/loanaccount .
 type: docs
 weight: 20
 url: /ru/net/aspose.finance.ofx.loan/loanstatementtransaction/accountto/
 ---
 ## LoanStatementTransaction.AccountTo property
 
-Получает или задает для счета,[`BankAccount`](../../../aspose.finance.ofx/bankaccount)или[`LoanAccount`](../../../aspose.finance.ofx/loanaccount).
+Получает или устанавливает учетную запись,[`BankAccount`](../../../aspose.finance.ofx/bankaccount) или же[`LoanAccount`](../../../aspose.finance.ofx/loanaccount) .
 
 ```csharp
 public AbstractAccount AccountTo { get; set; }

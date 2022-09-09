@@ -1,14 +1,14 @@
 ---
 title: PresentmentDlvProfile
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化PresentmentDlvProfileaspose.finance.ofx.profile/presentmentdlvprofile类的新实例
+description: 初始化一个新的实例PresentmentDlvProfileaspose.finance.ofx.profile/presentmentdlvprofile类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.profile/presentmentdlvprofile/presentmentdlvprofile/
 ---
 ## PresentmentDlvProfile constructor
 
-初始化[`PresentmentDlvProfile`](../../presentmentdlvprofile)类的新实例。
+初始化一个新的实例[`PresentmentDlvProfile`](../../presentmentdlvprofile)类.
 
 ```csharp
 public PresentmentDlvProfile()

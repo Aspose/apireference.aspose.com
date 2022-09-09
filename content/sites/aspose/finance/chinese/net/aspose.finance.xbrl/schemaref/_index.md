@@ -1,14 +1,14 @@
 ---
 title: SchemaRef
 second_title: Aspose.Finance for .NET API 参考
-description: 此类是对成为支持 XBRL 实例的 DTS 的一部分的分类模式的引用
+description: 此类是对分类模式的引用该分类模式成为支持 XBRL 实例的 DTS 的一部分
 type: docs
 weight: 8010
 url: /zh/net/aspose.finance.xbrl/schemaref/
 ---
 ## SchemaRef class
 
-此类是对成为支持 XBRL 实例的 DTS 的一部分的分类模式的引用。
+此类是对分类模式的引用，该分类模式成为支持 XBRL 实例的 DTS 的一部分。
 
 ```csharp
 public class SchemaRef : SimpleLink
@@ -19,18 +19,18 @@ public class SchemaRef : SimpleLink
 | 姓名 | 描述 |
 | --- | --- |
 | [Actuate](../../aspose.finance.xbrl/simplelink/actuate) { get; set; } | 获取或设置简单链接启动属性。 |
-| [Arcrole](../../aspose.finance.xbrl/simplelink/arcrole) { get; set; } | 获取或设置简单链接弧。 |
-| [ArcroleTypes](../../aspose.finance.xbrl/schemaref/arcroletypes) { get; set; } | 获取架构中[`ArcroleType`](../arcroletype)对象的集合。 |
+| [Arcrole](../../aspose.finance.xbrl/simplelink/arcrole) { get; set; } | 获取或设置简单链接弧线。 |
+| [ArcroleTypes](../../aspose.finance.xbrl/schemaref/arcroletypes) { get; set; } | 获取集合[`ArcroleType`](../arcroletype)架构中的对象。 |
 | [ChildSchemas](../../aspose.finance.xbrl/schemaref/childschemas) { get; } | 获取子架构。 |
-| [Concepts](../../aspose.finance.xbrl/schemaref/concepts) { get; } | 获取架构中定义的[`Concept`](../concept)的集合。 |
-| [Href](../../aspose.finance.xbrl/simplelink/href) { get; set; } | 获取或设置简单链接 href URI。 |
-| [LinkbaseRefCollection](../../aspose.finance.xbrl/schemaref/linkbaserefcollection) { get; } | 获取架构中的[`LinkbaseRefCollection`](./linkbaserefcollection)。 |
+| [Concepts](../../aspose.finance.xbrl/schemaref/concepts) { get; } | 获取集合[`Concept`](../concept)在 schema. 中定义 |
+| [Href](../../aspose.finance.xbrl/simplelink/href) { get; set; } | 获取或设置简单链接href URI. |
+| [LinkbaseRefCollection](../../aspose.finance.xbrl/schemaref/linkbaserefcollection) { get; } | 获取[`LinkbaseRefCollection`](./linkbaserefcollection)在架构中。 |
 | [NamespacePrefix](../../aspose.finance.xbrl/schemaref/namespaceprefix) { get; set; } | 获取或设置 XBRL 实例中模式的命名空间前缀。 |
-| [NamespaceUri](../../aspose.finance.xbrl/schemaref/namespaceuri) { get; set; } | 获取或设置 XBRL 实例中模式的命名空间 URI。 |
+| [NamespaceUri](../../aspose.finance.xbrl/schemaref/namespaceuri) { get; set; } | 获取或设置 XBRL 实例中架构的命名空间 URI。 |
 | [Role](../../aspose.finance.xbrl/simplelink/role) { get; set; } | 获取或设置简单链接角色。 |
-| [RoleTypes](../../aspose.finance.xbrl/schemaref/roletypes) { get; set; } | 获取架构中[`RoleType`](../roletype)对象的集合。 |
+| [RoleTypes](../../aspose.finance.xbrl/schemaref/roletypes) { get; set; } | 获取集合[`RoleType`](../roletype)架构中的对象。 |
 | [Show](../../aspose.finance.xbrl/simplelink/show) { get; set; } | 获取或设置简单链接显示属性。 |
-| [TargetNamespace](../../aspose.finance.xbrl/schemaref/targetnamespace) { get; set; } | 获取或设置模式的目标命名空间。 |
+| [TargetNamespace](../../aspose.finance.xbrl/schemaref/targetnamespace) { get; set; } | 获取或设置架构的目标命名空间。 |
 | [Title](../../aspose.finance.xbrl/simplelink/title) { get; set; } | 获取或设置简单链接标题。 |
 | [Type](../../aspose.finance.xbrl/xlink/type) { get; } | 获取链接类型。 |
 

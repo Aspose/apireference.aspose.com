@@ -19,7 +19,7 @@ public enum BuyEnum
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
 | BUY | `0` | 购买 |
-| BUYTOCOVER | `1` | 购买封面 |
+| BUYTOCOVER | `1` | 购买以覆盖 |
 
 ### 也可以看看
 

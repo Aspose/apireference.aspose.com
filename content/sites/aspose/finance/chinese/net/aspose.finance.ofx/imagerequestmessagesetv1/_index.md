@@ -18,13 +18,13 @@ public class ImageRequestMessageSetV1 : AbstractRequestMessageSet
 
 | 姓名 | 描述 |
 | --- | --- |
-| [ImageRequestMessageSetV1](imagerequestmessagesetv1)() | 初始化[`ImageRequestMessageSetV1`](../imagerequestmessagesetv1)类的新实例。 |
+| [ImageRequestMessageSetV1](imagerequestmessagesetv1)() | 初始化一个新的实例[`ImageRequestMessageSetV1`](../imagerequestmessagesetv1)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [ImageTransactionRequests](../../aspose.finance.ofx/imagerequestmessagesetv1/imagetransactionrequests) { get; set; } | 获取或设置[`ImageTransactionRequest`](../../aspose.finance.ofx.image/imagetransactionrequest)的集合。 |
+| [ImageTransactionRequests](../../aspose.finance.ofx/imagerequestmessagesetv1/imagetransactionrequests) { get; set; } | 获取或设置的集合[`ImageTransactionRequest`](../../aspose.finance.ofx.image/imagetransactionrequest). |
 
 ### 也可以看看
 

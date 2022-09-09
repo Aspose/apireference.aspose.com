@@ -1,14 +1,14 @@
 ---
 title: PaymentMailRequest
 second_title: Справочник по API Aspose.Finance для .NET
-description: Класс запроса платежа по электронной почте.
+description: Класс платежного запроса по электронной почте.
 type: docs
 weight: 1120
 url: /ru/net/aspose.finance.ofx.billpay/paymentmailrequest/
 ---
 ## PaymentMailRequest class
 
-Класс запроса платежа по электронной почте.
+Класс платежного запроса по электронной почте.
 
 ```csharp
 public class PaymentMailRequest
@@ -18,14 +18,14 @@ public class PaymentMailRequest
 
 | Имя | Описание |
 | --- | --- |
-| [PaymentMailRequest](paymentmailrequest)() | Инициализирует новый экземпляр класса[`PaymentMailRequest`](../paymentmailrequest). |
+| [PaymentMailRequest](paymentmailrequest)() | Инициализирует новый экземпляр[`PaymentMailRequest`](../paymentmailrequest) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [Mail](../../aspose.finance.ofx.billpay/paymentmailrequest/mail) { get; set; } | Получает или задает[`Mail`](./mail). |
-| [PaymentInfo](../../aspose.finance.ofx.billpay/paymentmailrequest/paymentinfo) { get; set; } | Получает или задает[`PaymentInfo`](./paymentinfo). |
+| [Mail](../../aspose.finance.ofx.billpay/paymentmailrequest/mail) { get; set; } | Получает или задает[`Mail`](./mail) . |
+| [PaymentInfo](../../aspose.finance.ofx.billpay/paymentmailrequest/paymentinfo) { get; set; } | Получает или задает[`PaymentInfo`](./paymentinfo) . |
 | [ServerId](../../aspose.finance.ofx.billpay/paymentmailrequest/serverid) { get; set; } | Получает или задает идентификатор транзакции платежа, являющегося предметом переписки. |
 
 ### Смотрите также

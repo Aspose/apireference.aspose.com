@@ -1,14 +1,14 @@
 ---
 title: ValidationErrors
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает коллекциюValidationErroraspose.finance.xbrl.validator/validationerrorво встроенном документе XBRL.
+description: Получает коллекциюValidationErroraspose.finance.xbrl.validator/validationerror во встроенном документе XBRL.
 type: docs
 weight: 110
 url: /ru/net/aspose.finance.xbrl.inline/inlinexbrldocument/validationerrors/
 ---
 ## InlineXbrlDocument.ValidationErrors property
 
-Получает коллекцию[`ValidationError`](../../../aspose.finance.xbrl.validator/validationerror)во встроенном документе XBRL.
+Получает коллекцию[`ValidationError`](../../../aspose.finance.xbrl.validator/validationerror) во встроенном документе XBRL.
 
 ```csharp
 public List<ValidationError> ValidationErrors { get; set; }

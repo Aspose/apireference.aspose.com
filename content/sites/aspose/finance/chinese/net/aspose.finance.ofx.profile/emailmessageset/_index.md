@@ -18,13 +18,13 @@ public class EmailMessageSet : AbstractMessageSet
 
 | 姓名 | 描述 |
 | --- | --- |
-| [EmailMessageSet](emailmessageset)() | 初始化[`EmailMessageSet`](../emailmessageset)类的新实例。 |
+| [EmailMessageSet](emailmessageset)() | 初始化一个新的实例[`EmailMessageSet`](../emailmessageset)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [EmailMessageSetV1](../../aspose.finance.ofx.profile/emailmessageset/emailmessagesetv1) { get; set; } | 获取或设置[`EmailMessageSetV1`](./emailmessagesetv1)。 |
+| [EmailMessageSetV1](../../aspose.finance.ofx.profile/emailmessageset/emailmessagesetv1) { get; set; } | 获取或设置[`EmailMessageSetV1`](./emailmessagesetv1). |
 
 ### 也可以看看
 

@@ -18,7 +18,7 @@ public class LoanInfo
 
 | 姓名 | 描述 |
 | --- | --- |
-| [LoanInfo](loaninfo)() | 初始化[`LoanInfo`](../loaninfo)类的新实例。 |
+| [LoanInfo](loaninfo)() | 初始化一个新的实例[`LoanInfo`](../loaninfo)类. |
 
 ## 特性
 
@@ -28,16 +28,16 @@ public class LoanInfo
 | [DateAsOf](../../aspose.finance.ofx.investment/loaninfo/dateasof) { get; set; } | 获取或设置当前贷款余额的日期和时间。 |
 | [InitialLoanBalance](../../aspose.finance.ofx.investment/loaninfo/initialloanbalance) { get; set; } | 获取或设置初始贷款余额。 |
 | [LoanDescription](../../aspose.finance.ofx.investment/loaninfo/loandescription) { get; set; } | 获取或设置贷款描述 |
-| [LoanId](../../aspose.finance.ofx.investment/loaninfo/loanid) { get; set; } | 获取或设置此贷款的标识符。 |
-| [LoanInterestToDate](../../aspose.finance.ofx.investment/loaninfo/loaninteresttodate) { get; set; } | 获取或设置迄今为止为此贷款支付的利息总额。 |
-| [LoanMaturityDate](../../aspose.finance.ofx.investment/loaninfo/loanmaturitydate) { get; set; } | 获取或设置预期的外借结束日期。 |
+| [LoanId](../../aspose.finance.ofx.investment/loaninfo/loanid) { get; set; } | 获取或设置本次贷款的标识。 |
+| [LoanInterestToDate](../../aspose.finance.ofx.investment/loaninfo/loaninteresttodate) { get; set; } | 获取或设置该贷款迄今为止支付的利息总额。 |
+| [LoanMaturityDate](../../aspose.finance.ofx.investment/loaninfo/loanmaturitydate) { get; set; } | 获取或设置预期的贷款结束日期。 |
 | [LoanNextPaymentDate](../../aspose.finance.ofx.investment/loaninfo/loannextpaymentdate) { get; set; } | 获取或设置下一个付款到期日。 |
-| [LoanPaymentAmount](../../aspose.finance.ofx.investment/loaninfo/loanpaymentamount) { get; set; } | 获取或设置贷款支付金额。 |
+| [LoanPaymentAmount](../../aspose.finance.ofx.investment/loaninfo/loanpaymentamount) { get; set; } | 获取或设置还款金额。 |
 | [LoanPaymentFrequency](../../aspose.finance.ofx.investment/loaninfo/loanpaymentfrequency) { get; set; } | 获取或设置还款频率。 |
 | [LoanPaymentsInitial](../../aspose.finance.ofx.investment/loaninfo/loanpaymentsinitial) { get; set; } | 获取或设置贷款支付的初始数量。 |
 | [LoanPaymentsRemaining](../../aspose.finance.ofx.investment/loaninfo/loanpaymentsremaining) { get; set; } | 获取或设置剩余的贷款支付次数。 |
 | [LoanRate](../../aspose.finance.ofx.investment/loaninfo/loanrate) { get; set; } | 获取或设置贷款年利率。 |
-| [LoanStartDate](../../aspose.finance.ofx.investment/loaninfo/loanstartdate) { get; set; } | 获取或设置外借开始日期。 |
+| [LoanStartDate](../../aspose.finance.ofx.investment/loaninfo/loanstartdate) { get; set; } | 获取或设置贷款开始日期。 |
 | [LoanTotalProjectInterest](../../aspose.finance.ofx.investment/loaninfo/loantotalprojectinterest) { get; set; } | 获取或设置此贷款要支付的预计总利息。 |
 
 ### 也可以看看

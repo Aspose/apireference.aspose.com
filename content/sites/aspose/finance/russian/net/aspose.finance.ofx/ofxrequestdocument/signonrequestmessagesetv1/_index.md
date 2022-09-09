@@ -1,14 +1,14 @@
 ---
 title: SignonRequestMessageSetV1
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задаетSignonRequestMessageSetV1aspose.finance.ofx/ofxrequestdocument/signonrequestmessagesetv1.
+description: Получает или задаетSignonRequestMessageSetV1aspose.finance.ofx/ofxrequestdocument/signonrequestmessagesetv1 .
 type: docs
 weight: 140
 url: /ru/net/aspose.finance.ofx/ofxrequestdocument/signonrequestmessagesetv1/
 ---
 ## OfxRequestDocument.SignonRequestMessageSetV1 property
 
-Получает или задает`SignonRequestMessageSetV1`.
+Получает или задает`SignonRequestMessageSetV1` .
 
 ```csharp
 public SignonRequestMessageSetV1 SignonRequestMessageSetV1 { get; set; }

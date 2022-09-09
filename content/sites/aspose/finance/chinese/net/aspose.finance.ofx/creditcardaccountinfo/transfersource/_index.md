@@ -1,14 +1,14 @@
 ---
 title: TransferSource
 second_title: Aspose.Finance for .NET API 参考
-description: 如果启用帐户作为银行内或银行间转账的来源则为是否则为否
+description: 如果账户被启用作为银行内或银行间转账的来源是否则否
 type: docs
 weight: 70
 url: /zh/net/aspose.finance.ofx/creditcardaccountinfo/transfersource/
 ---
 ## CreditCardAccountInfo.TransferSource property
 
-如果启用帐户作为银行内或银行间转账的来源，则为是，否则为否。
+如果账户被启用作为银行内或银行间转账的来源，是，否则，否。
 
 ```csharp
 public bool TransferSource { get; set; }

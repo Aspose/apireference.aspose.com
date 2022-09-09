@@ -1,14 +1,14 @@
 ---
 title: InvestmentStatementRequestMessageSetV1
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаInvestmentStatementRequestMessageSetV1aspose.finance.ofx/investmentstatementrequestmessagesetv1.
+description: Инициализирует новый экземплярInvestmentStatementRequestMessageSetV1aspose.finance.ofx/investmentstatementrequestmessagesetv1 класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx/investmentstatementrequestmessagesetv1/investmentstatementrequestmessagesetv1/
 ---
 ## InvestmentStatementRequestMessageSetV1 constructor
 
-Инициализирует новый экземпляр класса[`InvestmentStatementRequestMessageSetV1`](../../investmentstatementrequestmessagesetv1).
+Инициализирует новый экземпляр[`InvestmentStatementRequestMessageSetV1`](../../investmentstatementrequestmessagesetv1) класс.
 
 ```csharp
 public InvestmentStatementRequestMessageSetV1()

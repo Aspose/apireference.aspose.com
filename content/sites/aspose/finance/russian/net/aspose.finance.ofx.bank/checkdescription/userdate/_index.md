@@ -1,14 +1,14 @@
 ---
 title: UserDate
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает дату проверки.
+description: Получает или устанавливает дату проверки.
 type: docs
 weight: 50
 url: /ru/net/aspose.finance.ofx.bank/checkdescription/userdate/
 ---
 ## CheckDescription.UserDate property
 
-Получает или задает дату проверки.
+Получает или устанавливает дату проверки.
 
 ```csharp
 public string UserDate { get; set; }

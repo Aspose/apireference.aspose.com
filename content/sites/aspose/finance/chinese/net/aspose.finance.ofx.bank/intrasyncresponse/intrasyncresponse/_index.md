@@ -1,14 +1,14 @@
 ---
 title: IntraSyncResponse
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化IntraSyncResponseaspose.finance.ofx.bank/intrasyncresponse类的新实例
+description: 初始化一个新的实例IntraSyncResponseaspose.finance.ofx.bank/intrasyncresponse类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.bank/intrasyncresponse/intrasyncresponse/
 ---
 ## IntraSyncResponse constructor
 
-初始化[`IntraSyncResponse`](../../intrasyncresponse)类的新实例。
+初始化一个新的实例[`IntraSyncResponse`](../../intrasyncresponse)类.
 
 ```csharp
 public IntraSyncResponse()

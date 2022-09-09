@@ -1,14 +1,14 @@
 ---
 title: GetToLabels
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает коллекциюLabelaspose.finance.xbrl/labelвLabelArcaspose.finance.xbrl/labelarc.
+description: Получает коллекциюLabelaspose.finance.xbrl/label вLabelArcaspose.finance.xbrl/labelarc .
 type: docs
 weight: 20
 url: /ru/net/aspose.finance.xbrl/labelarc/gettolabels/
 ---
 ## LabelArc.GetToLabels method
 
-Получает коллекцию[`Label`](../../label)в[`LabelArc`](../../labelarc).
+Получает коллекцию[`Label`](../../label) в[`LabelArc`](../../labelarc) .
 
 ```csharp
 public List<Label> GetToLabels()

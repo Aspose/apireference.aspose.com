@@ -1,14 +1,14 @@
 ---
 title: InterModResponse
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаInterModResponseaspose.finance.ofx.intertransfer/intermodresponse.
+description: Инициализирует новый экземплярInterModResponseaspose.finance.ofx.intertransfer/intermodresponse класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.intertransfer/intermodresponse/intermodresponse/
 ---
 ## InterModResponse constructor
 
-Инициализирует новый экземпляр класса[`InterModResponse`](../../intermodresponse).
+Инициализирует новый экземпляр[`InterModResponse`](../../intermodresponse) класс.
 
 ```csharp
 public InterModResponse()

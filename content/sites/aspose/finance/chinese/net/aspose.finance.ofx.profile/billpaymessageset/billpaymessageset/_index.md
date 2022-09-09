@@ -1,14 +1,14 @@
 ---
 title: BillPayMessageSet
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化BillPayMessageSetaspose.finance.ofx.profile/billpaymessageset类的新实例
+description: 初始化一个新的实例BillPayMessageSetaspose.finance.ofx.profile/billpaymessageset类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.profile/billpaymessageset/billpaymessageset/
 ---
 ## BillPayMessageSet constructor
 
-初始化[`BillPayMessageSet`](../../billpaymessageset)类的新实例。
+初始化一个新的实例[`BillPayMessageSet`](../../billpaymessageset)类.
 
 ```csharp
 public BillPayMessageSet()

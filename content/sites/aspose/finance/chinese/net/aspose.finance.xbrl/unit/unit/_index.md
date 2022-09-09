@@ -1,14 +1,14 @@
 ---
 title: Unit
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化Unitaspose.finance.xbrl/unit类的新实例
+description: 初始化Unitaspose.finance.xbrl/unit类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.xbrl/unit/unit/
 ---
 ## Unit constructor
 
-初始化[`Unit`](../../unit)类的新实例。
+初始化[`Unit`](../../unit)类.
 
 ```csharp
 public Unit(UnitType type)

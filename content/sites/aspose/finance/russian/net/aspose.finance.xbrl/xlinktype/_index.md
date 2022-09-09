@@ -1,14 +1,14 @@
 ---
 title: XlinkType
 second_title: Справочник по API Aspose.Finance для .NET
-description: Перечисление типа Xlink.
+description: Тип Xlink enum.
 type: docs
-weight: 8220
+weight: 8230
 url: /ru/net/aspose.finance.xbrl/xlinktype/
 ---
 ## XlinkType enumeration
 
-Перечисление типа Xlink.
+Тип Xlink enum.
 
 ```csharp
 public enum XlinkType
@@ -20,11 +20,11 @@ public enum XlinkType
 | --- | --- | --- |
 | Unspecified | `0` | Неизвестный тип ссылки. |
 | Simple | `1` | "Простой" тип ссылки. |
-| Extended | `2` | "Расширенный" тип ссылки. |
+| Extended | `2` | Тип ссылки "расширенный". |
 | Locator | `3` | Тип ссылки "локатор". |
 | Arc | `4` | Тип ссылки "дуга". |
 | Resource | `5` | Тип ссылки "ресурс". |
-| Title | `6` | Тип ссылки "title". |
+| Title | `6` | Тип ссылки "заголовок". |
 
 ### Смотрите также
 

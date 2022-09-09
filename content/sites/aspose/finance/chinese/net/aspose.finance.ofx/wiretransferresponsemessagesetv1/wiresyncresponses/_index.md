@@ -1,14 +1,14 @@
 ---
 title: WireSyncResponses
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置WireSyncResponseaspose.finance.ofx.wiretransfer/wiresyncresponse的集合
+description: 获取或设置的集合WireSyncResponseaspose.finance.ofx.wiretransfer/wiresyncresponse.
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.ofx/wiretransferresponsemessagesetv1/wiresyncresponses/
 ---
 ## WireTransferResponseMessageSetV1.WireSyncResponses property
 
-获取或设置[`WireSyncResponse`](../../../aspose.finance.ofx.wiretransfer/wiresyncresponse)的集合。
+获取或设置的集合[`WireSyncResponse`](../../../aspose.finance.ofx.wiretransfer/wiresyncresponse).
 
 ```csharp
 public List<WireSyncResponse> WireSyncResponses { get; set; }

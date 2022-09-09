@@ -1,14 +1,14 @@
 ---
 title: BankMailTransactionRequest
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化BankMailTransactionRequestaspose.finance.ofx.bank/bankmailtransactionrequest类的新实例
+description: 初始化一个新的实例BankMailTransactionRequestaspose.finance.ofx.bank/bankmailtransactionrequest类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.bank/bankmailtransactionrequest/bankmailtransactionrequest/
 ---
 ## BankMailTransactionRequest constructor
 
-初始化[`BankMailTransactionRequest`](../../bankmailtransactionrequest)类的新实例。
+初始化一个新的实例[`BankMailTransactionRequest`](../../bankmailtransactionrequest)类.
 
 ```csharp
 public BankMailTransactionRequest()

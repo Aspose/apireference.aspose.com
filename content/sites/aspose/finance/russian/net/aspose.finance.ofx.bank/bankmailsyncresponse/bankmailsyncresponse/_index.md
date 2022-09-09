@@ -1,14 +1,14 @@
 ---
 title: BankMailSyncResponse
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаBankMailSyncResponseaspose.finance.ofx.bank/bankmailsyncresponse.
+description: Инициализирует новый экземплярBankMailSyncResponseaspose.finance.ofx.bank/bankmailsyncresponse класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.bank/bankmailsyncresponse/bankmailsyncresponse/
 ---
 ## BankMailSyncResponse constructor
 
-Инициализирует новый экземпляр класса[`BankMailSyncResponse`](../../bankmailsyncresponse).
+Инициализирует новый экземпляр[`BankMailSyncResponse`](../../bankmailsyncresponse) класс.
 
 ```csharp
 public BankMailSyncResponse()

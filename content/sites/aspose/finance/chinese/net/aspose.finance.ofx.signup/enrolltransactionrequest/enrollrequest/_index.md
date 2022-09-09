@@ -1,14 +1,14 @@
 ---
 title: EnrollRequest
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置EnrollRequestaspose.finance.ofx.signup/enrolltransactionrequest/enrollrequest
+description: 获取或设置EnrollRequestaspose.finance.ofx.signup/enrolltransactionrequest/enrollrequest.
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.ofx.signup/enrolltransactionrequest/enrollrequest/
 ---
 ## EnrollTransactionRequest.EnrollRequest property
 
-获取或设置`EnrollRequest`。
+获取或设置`EnrollRequest`.
 
 ```csharp
 public EnrollRequest EnrollRequest { get; set; }

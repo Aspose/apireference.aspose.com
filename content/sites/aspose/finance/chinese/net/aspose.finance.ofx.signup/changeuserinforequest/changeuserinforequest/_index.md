@@ -1,14 +1,14 @@
 ---
 title: ChangeUserInfoRequest
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化ChangeUserInfoRequestaspose.finance.ofx.signup/changeuserinforequest类的新实例
+description: 初始化一个新的实例ChangeUserInfoRequestaspose.finance.ofx.signup/changeuserinforequest类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.signup/changeuserinforequest/changeuserinforequest/
 ---
 ## ChangeUserInfoRequest constructor
 
-初始化[`ChangeUserInfoRequest`](../../changeuserinforequest)类的新实例。
+初始化一个新的实例[`ChangeUserInfoRequest`](../../changeuserinforequest)类.
 
 ```csharp
 public ChangeUserInfoRequest()

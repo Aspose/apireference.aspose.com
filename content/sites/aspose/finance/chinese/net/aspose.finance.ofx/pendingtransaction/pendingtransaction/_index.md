@@ -1,14 +1,14 @@
 ---
 title: PendingTransaction
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化PendingTransactionaspose.finance.ofx/pendingtransaction类的新实例
+description: 初始化一个新的实例PendingTransactionaspose.finance.ofx/pendingtransaction类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx/pendingtransaction/pendingtransaction/
 ---
 ## PendingTransaction constructor
 
-初始化[`PendingTransaction`](../../pendingtransaction)类的新实例。
+初始化一个新的实例[`PendingTransaction`](../../pendingtransaction)类.
 
 ```csharp
 public PendingTransaction()

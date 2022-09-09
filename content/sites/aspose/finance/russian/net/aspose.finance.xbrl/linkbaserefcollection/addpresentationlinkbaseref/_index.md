@@ -1,14 +1,14 @@
 ---
 title: AddPresentationLinkbaseRef
 second_title: Справочник по API Aspose.Finance для .NET
-description: ДобавьтеPresentationLinkbaseRefaspose.finance.xbrl/presentationlinkbaserefв коллекцию.
+description: ДобавитьPresentationLinkbaseRefaspose.finance.xbrl/presentationlinkbaserefв коллекцию.
 type: docs
 weight: 60
 url: /ru/net/aspose.finance.xbrl/linkbaserefcollection/addpresentationlinkbaseref/
 ---
 ## LinkbaseRefCollection.AddPresentationLinkbaseRef method
 
-Добавьте[`PresentationLinkbaseRef`](../../presentationlinkbaseref)в коллекцию.
+Добавить[`PresentationLinkbaseRef`](../../presentationlinkbaseref)в коллекцию.
 
 ```csharp
 public void AddPresentationLinkbaseRef(string href)

@@ -1,14 +1,14 @@
 ---
 title: Tax1099Request
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化Tax1099Requestaspose.finance.ofx.tax1099/tax1099request类的新实例
+description: 初始化一个新的实例Tax1099Requestaspose.finance.ofx.tax1099/tax1099request类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.tax1099/tax1099request/tax1099request/
 ---
 ## Tax1099Request constructor
 
-初始化[`Tax1099Request`](../../tax1099request)类的新实例。
+初始化一个新的实例[`Tax1099Request`](../../tax1099request)类.
 
 ```csharp
 public Tax1099Request()

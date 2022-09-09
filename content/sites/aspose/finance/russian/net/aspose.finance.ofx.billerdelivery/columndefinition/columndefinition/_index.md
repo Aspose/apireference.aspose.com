@@ -1,14 +1,14 @@
 ---
 title: ColumnDefinition
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаColumnDefinitionaspose.finance.ofx.billerdelivery/columndefinition.
+description: Инициализирует новый экземплярColumnDefinitionaspose.finance.ofx.billerdelivery/columndefinition класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.billerdelivery/columndefinition/columndefinition/
 ---
 ## ColumnDefinition constructor
 
-Инициализирует новый экземпляр класса[`ColumnDefinition`](../../columndefinition).
+Инициализирует новый экземпляр[`ColumnDefinition`](../../columndefinition) класс.
 
 ```csharp
 public ColumnDefinition()

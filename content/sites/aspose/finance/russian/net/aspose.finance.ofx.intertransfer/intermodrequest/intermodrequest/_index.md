@@ -1,14 +1,14 @@
 ---
 title: InterModRequest
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаInterModRequestaspose.finance.ofx.intertransfer/intermodrequest.
+description: Инициализирует новый экземплярInterModRequestaspose.finance.ofx.intertransfer/intermodrequest класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.intertransfer/intermodrequest/intermodrequest/
 ---
 ## InterModRequest constructor
 
-Инициализирует новый экземпляр класса[`InterModRequest`](../../intermodrequest).
+Инициализирует новый экземпляр[`InterModRequest`](../../intermodrequest) класс.
 
 ```csharp
 public InterModRequest()

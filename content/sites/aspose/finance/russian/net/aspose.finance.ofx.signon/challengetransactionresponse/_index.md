@@ -18,16 +18,16 @@ public class ChallengeTransactionResponse : AbstractTransactionResponse
 
 | Имя | Описание |
 | --- | --- |
-| [ChallengeTransactionResponse](challengetransactionresponse)() | Инициализирует новый экземпляр класса[`ChallengeTransactionResponse`](../challengetransactionresponse). |
+| [ChallengeTransactionResponse](challengetransactionresponse)() | Инициализирует новый экземпляр[`ChallengeTransactionResponse`](../challengetransactionresponse) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [ChallengeResponse](../../aspose.finance.ofx.signon/challengetransactionresponse/challengeresponse) { get; set; } | Получает или задает[`ChallengeResponse`](./challengeresponse). |
-| [ClientCookie](../../aspose.finance.ofx/abstracttransactionresponse/clientcookie) { get; set; } | Получает или задает данные, которые будут отображаться в ответе транзакции |
-| [OfxExtension](../../aspose.finance.ofx.signon/challengetransactionresponse/ofxextension) { get; set; } | Получает или задает[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
-| [Status](../../aspose.finance.ofx/abstracttransactionresponse/status) { get; set; } | Получает или задает[`Status`](../../aspose.finance.ofx/abstracttransactionresponse/status). |
+| [ChallengeResponse](../../aspose.finance.ofx.signon/challengetransactionresponse/challengeresponse) { get; set; } | Получает или задает[`ChallengeResponse`](./challengeresponse) . |
+| [ClientCookie](../../aspose.finance.ofx/abstracttransactionresponse/clientcookie) { get; set; } | Получает или задает данные, которые будут отражены в транзакции response |
+| [OfxExtension](../../aspose.finance.ofx.signon/challengetransactionresponse/ofxextension) { get; set; } | Получает или задает[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype) . |
+| [Status](../../aspose.finance.ofx/abstracttransactionresponse/status) { get; set; } | Получает или задает[`Status`](../../aspose.finance.ofx/abstracttransactionresponse/status) . |
 | [TransactionUniqueId](../../aspose.finance.ofx/abstracttransactionresponse/transactionuniqueid) { get; set; } | Получает или задает назначенный клиентом глобальный уникальный идентификатор для этой транзакции. |
 
 ### Смотрите также

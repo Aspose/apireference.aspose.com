@@ -1,14 +1,14 @@
 ---
 title: RestrictionEnum
 second_title: Справочник по API Aspose.Finance для .NET
-description: Ограничение enum.
+description: Перечисление ограничений.
 type: docs
 weight: 3450
 url: /ru/net/aspose.finance.ofx.investment/restrictionenum/
 ---
 ## RestrictionEnum enumeration
 
-Ограничение enum.
+Перечисление ограничений.
 
 ```csharp
 public enum RestrictionEnum
@@ -19,7 +19,7 @@ public enum RestrictionEnum
 | Имя | Ценность | Описание |
 | --- | --- | --- |
 | ALLORNONE | `0` | Все или ничего |
-| MINUNITS | `1` | Минимальные единицы измерения |
+| MINUNITS | `1` | Минимальные единицы |
 | NONE | `2` | Нет |
 
 ### Смотрите также

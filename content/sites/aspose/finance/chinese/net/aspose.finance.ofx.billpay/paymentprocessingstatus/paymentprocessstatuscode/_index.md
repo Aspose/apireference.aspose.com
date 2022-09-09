@@ -8,7 +8,7 @@ url: /zh/net/aspose.finance.ofx.billpay/paymentprocessingstatus/paymentprocessst
 ---
 ## PaymentProcessingStatus.PaymentProcessStatusCode property
 
-获取或设置支付处理状态码。
+获取或设置支付处理状态码
 
 ```csharp
 public PaymentProcessStatusEnum PaymentProcessStatusCode { get; set; }

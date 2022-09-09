@@ -18,14 +18,14 @@ public class CreditcardResponseMessageSetV1 : AbstractResponseMessageSet
 
 | 姓名 | 描述 |
 | --- | --- |
-| [CreditcardResponseMessageSetV1](creditcardresponsemessagesetv1)() | 初始化[`CreditcardResponseMessageSetV1`](../creditcardresponsemessagesetv1)类的新实例。 |
+| [CreditcardResponseMessageSetV1](creditcardresponsemessagesetv1)() | 初始化一个新的实例[`CreditcardResponseMessageSetV1`](../creditcardresponsemessagesetv1)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [CreditCardStatementEndTransactionResponses](../../aspose.finance.ofx/creditcardresponsemessagesetv1/creditcardstatementendtransactionresponses) { get; set; } | 获取或设置[`CreditCardStatementEndTransactionResponse`](../../aspose.finance.ofx.creditcard/creditcardstatementendtransactionresponse)的集合。 |
-| [CreditCardStatementTransactionResponses](../../aspose.finance.ofx/creditcardresponsemessagesetv1/creditcardstatementtransactionresponses) { get; set; } | 获取或设置[`CreditCardStatementTransactionResponse`](../../aspose.finance.ofx.creditcard/creditcardstatementtransactionresponse)的集合。 |
+| [CreditCardStatementEndTransactionResponses](../../aspose.finance.ofx/creditcardresponsemessagesetv1/creditcardstatementendtransactionresponses) { get; set; } | 获取或设置的集合[`CreditCardStatementEndTransactionResponse`](../../aspose.finance.ofx.creditcard/creditcardstatementendtransactionresponse). |
+| [CreditCardStatementTransactionResponses](../../aspose.finance.ofx/creditcardresponsemessagesetv1/creditcardstatementtransactionresponses) { get; set; } | 获取或设置的集合[`CreditCardStatementTransactionResponse`](../../aspose.finance.ofx.creditcard/creditcardstatementtransactionresponse). |
 
 ### 也可以看看
 
