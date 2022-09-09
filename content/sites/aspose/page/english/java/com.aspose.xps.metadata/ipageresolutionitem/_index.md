@@ -12,4 +12,4 @@ url: /java/com.aspose.xps.metadata/pageresolution.ipageresolutionitem/
 public static interface PageResolution.IPageResolutionItem extends IFeatureItem
 ```
 
-The interface of any \`\`\` PageResolution \`\`\` feature item.
+The interface of any  PageResolution  feature item.

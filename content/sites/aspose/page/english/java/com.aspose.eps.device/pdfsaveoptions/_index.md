@@ -17,15 +17,15 @@ This class contains options necessary for managing conversion process.
 
 | Constructor | Description |
 | --- | --- |
-| [PdfSaveOptions()](#PdfSaveOptions--) | Initialize new instance of \`\`\` PdfSaveOptions \`\`\` class with default values for flags \`\`\` suppressErrors \`\`\` (true) and \`\`\` debug \`\`\` (false). |
-| [PdfSaveOptions(boolean supressErrors)](#PdfSaveOptions-boolean-) | Initialize new instance of \`\`\` PdfSaveOptions \`\`\` class with default values for flag \`\`\` debug \`\`\` (false). |
+| [PdfSaveOptions()](#PdfSaveOptions--) | Initialize new instance of  PdfSaveOptions  class with default values for flags  suppressErrors  (true) and  debug  (false). |
+| [PdfSaveOptions(boolean supressErrors)](#PdfSaveOptions-boolean-) | Initialize new instance of  PdfSaveOptions  class with default values for flag  debug  (false). |
 ### PdfSaveOptions() {#PdfSaveOptions--}
 ```
 public PdfSaveOptions()
 ```
 
 
-Initialize new instance of \`\`\` PdfSaveOptions \`\`\` class with default values for flags \`\`\` suppressErrors \`\`\` (true) and \`\`\` debug \`\`\` (false).
+Initialize new instance of  PdfSaveOptions  class with default values for flags  suppressErrors  (true) and  debug  (false).
 
 ### PdfSaveOptions(boolean supressErrors) {#PdfSaveOptions-boolean-}
 ```
@@ -33,7 +33,7 @@ public PdfSaveOptions(boolean supressErrors)
 ```
 
 
-Initialize new instance of \`\`\` PdfSaveOptions \`\`\` class with default values for flag \`\`\` debug \`\`\` (false).
+Initialize new instance of  PdfSaveOptions  class with default values for flag  debug  (false).
 
 **Parameters:**
 | Parameter | Type | Description |

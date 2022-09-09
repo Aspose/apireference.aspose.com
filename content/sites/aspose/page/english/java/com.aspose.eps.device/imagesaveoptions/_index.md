@@ -17,8 +17,8 @@ This class contains options necessary for managing conversion process.
 
 | Constructor | Description |
 | --- | --- |
-| [ImageSaveOptions()](#ImageSaveOptions--) | Initialize new instance of \`\`\` ImageSaveOptions \`\`\` class with default values for flags \`\`\` suppressErrors \`\`\` (true) and \`\`\` debug \`\`\` (false). |
-| [ImageSaveOptions(boolean supressErrors)](#ImageSaveOptions-boolean-) | Initialize new instance of \`\`\` ImageSaveOptions \`\`\` class with default values for flag \`\`\` debug \`\`\` (false). |
+| [ImageSaveOptions()](#ImageSaveOptions--) | Initialize new instance of  ImageSaveOptions  class with default values for flags  suppressErrors  (true) and  debug  (false). |
+| [ImageSaveOptions(boolean supressErrors)](#ImageSaveOptions-boolean-) | Initialize new instance of  ImageSaveOptions  class with default values for flag  debug  (false). |
 ## Methods
 
 | Method | Description |
@@ -31,7 +31,7 @@ public ImageSaveOptions()
 ```
 
 
-Initialize new instance of \`\`\` ImageSaveOptions \`\`\` class with default values for flags \`\`\` suppressErrors \`\`\` (true) and \`\`\` debug \`\`\` (false).
+Initialize new instance of  ImageSaveOptions  class with default values for flags  suppressErrors  (true) and  debug  (false).
 
 ### ImageSaveOptions(boolean supressErrors) {#ImageSaveOptions-boolean-}
 ```
@@ -39,7 +39,7 @@ public ImageSaveOptions(boolean supressErrors)
 ```
 
 
-Initialize new instance of \`\`\` ImageSaveOptions \`\`\` class with default values for flag \`\`\` debug \`\`\` (false).
+Initialize new instance of  ImageSaveOptions  class with default values for flag  debug  (false).
 
 **Parameters:**
 | Parameter | Type | Description |

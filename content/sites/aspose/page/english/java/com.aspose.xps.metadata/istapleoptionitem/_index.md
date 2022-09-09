@@ -12,4 +12,4 @@ url: /java/com.aspose.xps.metadata/staple.istapleoptionitem/
 public static interface Staple.IStapleOptionItem extends IOptionItem
 ```
 
-The interface of any \`\`\` StapleOption \`\`\` item.
+The interface of any  StapleOption  item.

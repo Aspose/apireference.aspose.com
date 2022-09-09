@@ -12,4 +12,4 @@ url: /java/com.aspose.xps.metadata/pagewatermark.ipagewatermarkoptionitem/
 public static interface PageWatermark.IPageWatermarkOptionItem extends IOptionItem
 ```
 
-The interface of any \`\`\` PageWatermarkOption \`\`\` item.
+The interface of any  PageWatermarkOption  item.

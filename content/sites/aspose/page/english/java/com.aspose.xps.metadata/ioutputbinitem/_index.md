@@ -12,4 +12,4 @@ url: /java/com.aspose.xps.metadata/outputbin.ioutputbinitem/
 public static interface OutputBin.IOutputBinItem extends IFeatureItem
 ```
 
-The interface of any \`\`\` JobOutputBin \`\`\`, \`\`\` DocumentOutputBin \`\`\` and \`\`\` PageOutputBin \`\`\` feature item.
+The interface of any  JobOutputBin ,  DocumentOutputBin  and  PageOutputBin  feature item.

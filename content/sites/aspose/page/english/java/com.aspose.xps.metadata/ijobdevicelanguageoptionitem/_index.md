@@ -12,4 +12,4 @@ url: /java/com.aspose.xps.metadata/jobdevicelanguage.ijobdevicelanguageoptionite
 public static interface JobDeviceLanguage.IJobDeviceLanguageOptionItem extends IOptionItem
 ```
 
-The interface of any \`\`\` JobDeviceLanguageOption \`\`\` item.
+The interface of any  JobDeviceLanguageOption  item.

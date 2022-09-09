@@ -15,7 +15,7 @@ java.lang.Object, [com.aspose.xps.metadata.PrintTicketElement](../../com.aspose.
 public static final class InputBin.MediaPath extends ScoredProperty implements InputBin.IInputBinOptionItem
 ```
 
-Defines constants for the \`\`\` MediaPath \`\`\` scored property value.
+Defines constants for the  MediaPath  scored property value.
 ## Fields
 
 | Field | Description |

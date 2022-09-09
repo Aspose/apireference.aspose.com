@@ -15,7 +15,7 @@ java.lang.Object, [com.aspose.xps.metadata.PrintTicketElement](../../com.aspose.
 public final class JobNUpAllDocumentsContiguously extends NUp implements IJobPrintTicketItem
 ```
 
-Describes the output of multiple logical pages to a single physical sheet. All documents in the job are compiled together contiguously. \`\`\` JobNUpAllDocumentsContiguously \`\`\` and \`\`\` DocumentNUp \`\`\` are mutually exclusive. It is up to the driver to determine constraint handling between these keywords. https://docs.microsoft.com/en-us/windows/win32/printdocs/jobnupalldocumentscontiguously
+Describes the output of multiple logical pages to a single physical sheet. All documents in the job are compiled together contiguously.  JobNUpAllDocumentsContiguously  and  DocumentNUp  are mutually exclusive. It is up to the driver to determine constraint handling between these keywords. https://docs.microsoft.com/en-us/windows/win32/printdocs/jobnupalldocumentscontiguously
 ## Constructors
 
 | Constructor | Description |
@@ -25,7 +25,7 @@ Describes the output of multiple logical pages to a single physical sheet. All d
 
 | Method | Description |
 | --- | --- |
-| [addPagesPerSheetOption(int value)](#addPagesPerSheetOption-int-) | Adds and option with a \`\`\` PagesPerSheet \`\`\` scored property value. |
+| [addPagesPerSheetOption(int value)](#addPagesPerSheetOption-int-) | Adds and option with a  PagesPerSheet  scored property value. |
 ### JobNUpAllDocumentsContiguously(NUp.INUpItem[] items) {#JobNUpAllDocumentsContiguously-com.aspose.xps.metadata.NUp.INUpItem...-}
 ```
 public JobNUpAllDocumentsContiguously(NUp.INUpItem[] items)
@@ -45,12 +45,12 @@ public JobNUpAllDocumentsContiguously addPagesPerSheetOption(int value)
 ```
 
 
-Adds and option with a \`\`\` PagesPerSheet \`\`\` scored property value. Specifies the number of logical pages per physical sheet.
+Adds and option with a  PagesPerSheet  scored property value. Specifies the number of logical pages per physical sheet.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | int | A \`\`\` PagesPerSheet \`\`\` scored property value. Supported set can be any set of integers E.g. \{1,2,4,6,8,9,16\}. |
+| value | int | A  PagesPerSheet  scored property value. Supported set can be any set of integers E.g. \{1,2,4,6,8,9,16\}. |
 
 **Returns:**
 [JobNUpAllDocumentsContiguously](../../com.aspose.xps.metadata/jobnupalldocumentscontiguously) - This feature instance.

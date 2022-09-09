@@ -1,7 +1,7 @@
 ---
 title: Size2D.Float
 second_title: Aspose.Page for Java API Reference
-description: The codeFloat/code class defines dimensions specified in float coordinates.
+description: The Float class defines dimensions specified in float coordinates.
 type: docs
 weight: 10
 url: /java/com.aspose.xps/size2d.float/

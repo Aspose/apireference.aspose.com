@@ -12,7 +12,7 @@ java.lang.Object, [com.aspose.xps.metadata.PrintTicketElement](../../com.aspose.
 public static final class PageICMRenderingIntent.PageICMRenderingIntentOption extends Option
 ```
 
-Describes the \`\`\` PageICMRenderingIntent \`\`\` feature options.
+Describes the  PageICMRenderingIntent  feature options.
 ## Fields
 
 | Field | Description |

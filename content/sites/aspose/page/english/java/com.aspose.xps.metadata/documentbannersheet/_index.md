@@ -15,7 +15,7 @@ java.lang.Object, [com.aspose.xps.metadata.PrintTicketElement](../../com.aspose.
 public final class DocumentBannerSheet extends Feature implements IJobPrintTicketItem, IDocumentPrintTicketItem
 ```
 
-Describes the banner sheet to be output for a particular document. The banner sheet should be output on the default \`\`\` PageMediaSize \`\`\` and using the default \`\`\` PageMediaType \`\`\`. The banner sheet should be also isolated from the remainder of the job. This means that any finishing or processing options (such as \`\`\` DocumentDuplex \`\`\`, \`\`\` DocumentStaple \`\`\`, or \`\`\` DocumentBinding \`\`\`) should not include the banner sheet. The banner sheet may or may not be isolated from the remainder of the job. This means that any job finishing or processing options, may include the document banner sheet. The banner sheet should occur as the first sheet of the document. https://docs.microsoft.com/en-us/windows/win32/printdocs/documentbannersheet
+Describes the banner sheet to be output for a particular document. The banner sheet should be output on the default  PageMediaSize  and using the default  PageMediaType . The banner sheet should be also isolated from the remainder of the job. This means that any finishing or processing options (such as  DocumentDuplex ,  DocumentStaple , or  DocumentBinding ) should not include the banner sheet. The banner sheet may or may not be isolated from the remainder of the job. This means that any job finishing or processing options, may include the document banner sheet. The banner sheet should occur as the first sheet of the document. https://docs.microsoft.com/en-us/windows/win32/printdocs/documentbannersheet
 ## Constructors
 
 | Constructor | Description |

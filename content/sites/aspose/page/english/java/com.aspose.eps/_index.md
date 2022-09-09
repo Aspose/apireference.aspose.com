@@ -1,7 +1,7 @@
 ---
 title: com.aspose.eps
 second_title: Aspose.Page for Java API Reference
-description: The bcom.aspose.eps/b is a root package for all classes that deal with PS/EPS files.
+description: The com.aspose.eps is a root package for all classes that deal with PS/EPS files.
 type: docs
 weight: 11
 url: /java/com.aspose.eps/

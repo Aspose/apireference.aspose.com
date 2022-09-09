@@ -12,4 +12,4 @@ url: /java/com.aspose.xps.metadata/ipropertyitem/
 public interface IPropertyItem extends IPrintTicketElementChild
 ```
 
-The base interface for classes that may be a PrintTicket \`\`\` Property \`\`\` items.
+The base interface for classes that may be a PrintTicket  Property  items.

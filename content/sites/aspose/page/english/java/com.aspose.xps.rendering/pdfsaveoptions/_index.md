@@ -120,7 +120,7 @@ public PdfTextCompression getTextCompression()
 ```
 
 
-Returns the compression type to be used for all content streams except images. Default is \`\`\` PdfTextCompression.Flate \`\`\`.
+Returns the compression type to be used for all content streams except images. Default is  PdfTextCompression.Flate .
 
 **Returns:**
 [PdfTextCompression](../../com.aspose.xps.rendering/pdftextcompression) - The compression type.
@@ -130,7 +130,7 @@ public void setTextCompression(PdfTextCompression value)
 ```
 
 
-Sets the compression type to be used for all content streams except images. Default is \`\`\` PdfTextCompression.Flate \`\`\`.
+Sets the compression type to be used for all content streams except images. Default is  PdfTextCompression.Flate .
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -143,7 +143,7 @@ public PdfImageCompression getImageCompression()
 ```
 
 
-Returns the compression type to be used for all images in the document. Default is \`\`\` PdfImageCompression.Auto \`\`\`.
+Returns the compression type to be used for all images in the document. Default is  PdfImageCompression.Auto .
 
 **Returns:**
 [PdfImageCompression](../../com.aspose.xps.rendering/pdfimagecompression) - The compression type.
@@ -153,7 +153,7 @@ public void setImageCompression(PdfImageCompression value)
 ```
 
 
-Sets the compression type to be used for all images in the document. Default is \`\`\` PdfImageCompression.Auto \`\`\`.
+Sets the compression type to be used for all images in the document. Default is  PdfImageCompression.Auto .
 
 **Parameters:**
 | Parameter | Type | Description |

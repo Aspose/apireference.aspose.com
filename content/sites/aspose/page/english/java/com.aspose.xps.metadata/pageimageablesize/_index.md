@@ -15,7 +15,7 @@ java.lang.Object, [com.aspose.xps.metadata.PrintTicketElement](../../com.aspose.
 public final class PageImageableSize extends Property implements IJobPrintTicketItem, IDocumentPrintTicketItem, IPagePrintTicketItem
 ```
 
-Describes the imaged canvas for layout and rendering. This will be reported based on \`\`\` PageMediaSize \`\`\` and \`\`\` PageOrientation \`\`\`. https://docs.microsoft.com/en-us/windows/win32/printdocs/pageimageablesize
+Describes the imaged canvas for layout and rendering. This will be reported based on  PageMediaSize  and  PageOrientation . https://docs.microsoft.com/en-us/windows/win32/printdocs/pageimageablesize
 ## Constructors
 
 | Constructor | Description |

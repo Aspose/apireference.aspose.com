@@ -18,13 +18,13 @@ Class incapsulating Canvas element features. This element groups elements togeth
 | Method | Description |
 | --- | --- |
 | [<T>add(T element)](#-T-add-T-) | Adds an element to this canvas's child list. |
-| [<T>insert(int index, T element)](#-T-insert-int-T-) | Inserts an element to this canvas's child list at \`\`\` index \`\`\` position. |
+| [<T>insert(int index, T element)](#-T-insert-int-T-) | Inserts an element to this canvas's child list at  index  position. |
 | [addCanvas()](#addCanvas--) | Adds a new canvas to this canvas's child list. |
-| [insertCanvas(int index)](#insertCanvas-int-) | Inserts a new canvas to this canvas's child list at \`\`\` index \`\`\` position. |
+| [insertCanvas(int index)](#insertCanvas-int-) | Inserts a new canvas to this canvas's child list at  index  position. |
 | [addPath(XpsPathGeometry data)](#addPath-com.aspose.xps.XpsPathGeometry-) | Adds a new path to this canvas's child list. |
-| [insertPath(int index, XpsPathGeometry data)](#insertPath-int-com.aspose.xps.XpsPathGeometry-) | Inserts a new path to this canvas's child list at \`\`\` index \`\`\` position. |
+| [insertPath(int index, XpsPathGeometry data)](#insertPath-int-com.aspose.xps.XpsPathGeometry-) | Inserts a new path to this canvas's child list at  index  position. |
 | [addGlyphs(String fontFamily, float fontSize, XpsFontStyle fontStyle, float originX, float originY, String unicodeString)](#addGlyphs-java.lang.String-float-com.aspose.xps.XpsFontStyle-float-float-java.lang.String-) | Adds new glyphs to this canvas's child list. |
-| [insertGlyphs(int index, String fontFamily, float fontSize, XpsFontStyle fontStyle, float originX, float originY, String unicodeString)](#insertGlyphs-int-java.lang.String-float-com.aspose.xps.XpsFontStyle-float-float-java.lang.String-) | Inserts new glyphs to this canvas's child list at \`\`\` index \`\`\` position. |
+| [insertGlyphs(int index, String fontFamily, float fontSize, XpsFontStyle fontStyle, float originX, float originY, String unicodeString)](#insertGlyphs-int-java.lang.String-float-com.aspose.xps.XpsFontStyle-float-float-java.lang.String-) | Inserts new glyphs to this canvas's child list at  index  position. |
 | [getEdgeMode()](#getEdgeMode--) | Returns the value that controls how edges of paths within the canvas are rendered. |
 | [setEdgeMode(XpsEdgeMode value)](#setEdgeMode-com.aspose.xps.XpsEdgeMode-) | Sets the value that controls how edges of paths within the canvas are rendered. |
 | [deepClone()](#deepClone--) | Clones this canvas. |
@@ -49,7 +49,7 @@ public T <T>insert(int index, T element)
 ```
 
 
-Inserts an element to this canvas's child list at \`\`\` index \`\`\` position.
+Inserts an element to this canvas's child list at  index  position.
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -75,7 +75,7 @@ public XpsCanvas insertCanvas(int index)
 ```
 
 
-Inserts a new canvas to this canvas's child list at \`\`\` index \`\`\` position.
+Inserts a new canvas to this canvas's child list at  index  position.
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -105,7 +105,7 @@ public XpsPath insertPath(int index, XpsPathGeometry data)
 ```
 
 
-Inserts a new path to this canvas's child list at \`\`\` index \`\`\` position.
+Inserts a new path to this canvas's child list at  index  position.
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -141,7 +141,7 @@ public XpsGlyphs insertGlyphs(int index, String fontFamily, float fontSize, XpsF
 ```
 
 
-Inserts new glyphs to this canvas's child list at \`\`\` index \`\`\` position.
+Inserts new glyphs to this canvas's child list at  index  position.
 
 **Parameters:**
 | Parameter | Type | Description |

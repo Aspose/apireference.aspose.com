@@ -20,9 +20,9 @@ This class encapsulates rendering of document to image.
 
 | Constructor | Description |
 | --- | --- |
-| [ImageDevice()](#ImageDevice--) | Initializes new instance of \`\`\` ImageDevice \`\`\`. |
-| [ImageDevice(Dimension size)](#ImageDevice-java.awt.Dimension-) | Initializes new instance of \`\`\` ImageDevice \`\`\` with specified size of a page. |
-| [ImageDevice(Dimension size, ImageFormat imageFormat)](#ImageDevice-java.awt.Dimension-com.aspose.eps.ImageFormat-) | Initializes new instance of \`\`\` ImageDevice \`\`\` with specified size of a page and image format. |
+| [ImageDevice()](#ImageDevice--) | Initializes new instance of  ImageDevice . |
+| [ImageDevice(Dimension size)](#ImageDevice-java.awt.Dimension-) | Initializes new instance of  ImageDevice  with specified size of a page. |
+| [ImageDevice(Dimension size, ImageFormat imageFormat)](#ImageDevice-java.awt.Dimension-com.aspose.eps.ImageFormat-) | Initializes new instance of  ImageDevice  with specified size of a page and image format. |
 ## Fields
 
 | Field | Description |
@@ -110,7 +110,7 @@ public ImageDevice()
 ```
 
 
-Initializes new instance of \`\`\` ImageDevice \`\`\`.
+Initializes new instance of  ImageDevice .
 
 ### ImageDevice(Dimension size) {#ImageDevice-java.awt.Dimension-}
 ```
@@ -118,7 +118,7 @@ public ImageDevice(Dimension size)
 ```
 
 
-Initializes new instance of \`\`\` ImageDevice \`\`\` with specified size of a page.
+Initializes new instance of  ImageDevice  with specified size of a page.
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -131,7 +131,7 @@ public ImageDevice(Dimension size, ImageFormat imageFormat)
 ```
 
 
-Initializes new instance of \`\`\` ImageDevice \`\`\` with specified size of a page and image format.
+Initializes new instance of  ImageDevice  with specified size of a page and image format.
 
 **Parameters:**
 | Parameter | Type | Description |

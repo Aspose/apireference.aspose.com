@@ -12,7 +12,7 @@ java.lang.Object, [com.aspose.xps.metadata.PrintTicketElement](../../com.aspose.
 public static final class HolePunch.HolePunchOption extends Option
 ```
 
-Describes the \`\`\` HolePunch \`\`\` feature options.
+Describes the  HolePunch  feature options.
 ## Fields
 
 | Field | Description |

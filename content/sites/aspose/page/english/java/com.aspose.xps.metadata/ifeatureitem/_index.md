@@ -12,4 +12,4 @@ url: /java/com.aspose.xps.metadata/ifeatureitem/
 public interface IFeatureItem extends IPrintTicketElementChild
 ```
 
-The base interface for classes that may be Print Schema \`\`\` Feature \`\`\` items.
+The base interface for classes that may be Print Schema  Feature  items.

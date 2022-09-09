@@ -34,7 +34,7 @@ Creates a job-level print ticket instance.
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| items | com.aspose.xps.metadata.IJobPrintTicketItem[] | An arbitrary array of \`\`\` IJobPrintTicketItem \`\`\` instances. Each one can be a \`\`\` Feature \`\`\`, a \`\`\` ParameterInit \`\`\` or a \`\`\` Property \`\`\` instance. |
+| items | com.aspose.xps.metadata.IJobPrintTicketItem[] | An arbitrary array of  IJobPrintTicketItem  instances. Each one can be a  Feature , a  ParameterInit  or a  Property  instance. |
 
 ### add(IJobPrintTicketItem[] items) {#add-com.aspose.xps.metadata.IJobPrintTicketItem...-}
 ```
@@ -42,7 +42,7 @@ public void add(IJobPrintTicketItem[] items)
 ```
 
 
-Adds an array of items to the end of this PrintTicket item list. Each one may be a \`\`\` Feature \`\`\`, a \`\`\` ParameterInit \`\`\` or a \`\`\` Property \`\`\` instance.
+Adds an array of items to the end of this PrintTicket item list. Each one may be a  Feature , a  ParameterInit  or a  Property  instance.
 
 **Parameters:**
 | Parameter | Type | Description |

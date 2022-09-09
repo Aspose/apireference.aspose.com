@@ -17,14 +17,14 @@ This class contains information about an error that is thrown while PS file is c
 
 | Constructor | Description |
 | --- | --- |
-| [PsConverterException(String errorStr)](#PsConverterException-java.lang.String-) | Initializes a new instance of the \`\`\` PsConverterException \`\`\` from \`\`\` errorStr \`\`\` string. |
+| [PsConverterException(String errorStr)](#PsConverterException-java.lang.String-) | Initializes a new instance of the  PsConverterException  from  errorStr  string. |
 ### PsConverterException(String errorStr) {#PsConverterException-java.lang.String-}
 ```
 public PsConverterException(String errorStr)
 ```
 
 
-Initializes a new instance of the \`\`\` PsConverterException \`\`\` from \`\`\` errorStr \`\`\` string.
+Initializes a new instance of the  PsConverterException  from  errorStr  string.
 
 **Parameters:**
 | Parameter | Type | Description |

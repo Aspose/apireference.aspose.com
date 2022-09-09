@@ -12,7 +12,7 @@ java.lang.Object, [com.aspose.xps.metadata.PrintTicketElement](../../com.aspose.
 public static final class DocumentSeparatorSheet.DocumentSeparatorSheetOption extends Option
 ```
 
-Describes the \`\`\` DocumentSeparatorSheet \`\`\` feature options.
+Describes the  DocumentSeparatorSheet  feature options.
 ## Fields
 
 | Field | Description |

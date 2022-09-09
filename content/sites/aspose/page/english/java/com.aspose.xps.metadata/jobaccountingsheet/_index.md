@@ -15,7 +15,7 @@ java.lang.Object, [com.aspose.xps.metadata.PrintTicketElement](../../com.aspose.
 public final class JobAccountingSheet extends Feature implements IJobPrintTicketItem
 ```
 
-Describes the accounting sheet to be output for the job. The accounting sheet should be output on the default \`\`\` PageMediaSize \`\`\` and using the default \`\`\` PageMediaType \`\`\`. The accounting sheet should to be isolated from the remainder of the job. This means that any finishing or processing options (such as \`\`\` JobDuplex \`\`\`, \`\`\` JobStaple \`\`\`, or \`\`\` JobBinding \`\`\`) should not include the accounting sheet. The accounting sheet may occur as the first or last page of the job at the implementer's discretion. https://docs.microsoft.com/en-us/windows/win32/printdocs/jobaccountingsheet
+Describes the accounting sheet to be output for the job. The accounting sheet should be output on the default  PageMediaSize  and using the default  PageMediaType . The accounting sheet should to be isolated from the remainder of the job. This means that any finishing or processing options (such as  JobDuplex ,  JobStaple , or  JobBinding ) should not include the accounting sheet. The accounting sheet may occur as the first or last page of the job at the implementer's discretion. https://docs.microsoft.com/en-us/windows/win32/printdocs/jobaccountingsheet
 ## Constructors
 
 | Constructor | Description |

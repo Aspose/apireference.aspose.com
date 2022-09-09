@@ -15,7 +15,7 @@ java.lang.Object, [com.aspose.xps.metadata.PrintTicketElement](../../com.aspose.
 public static final class JobBindAllDocuments.BindingGutter extends ScoredProperty implements JobBindAllDocuments.IBindingOptionItem
 ```
 
-Describes the way to specify the \`\`\` BindingGutter \`\`\` scored property value, whether by an integer value or by the reference to the \`\`\` DocumentBindingGutter \`\`\` parameter.
+Describes the way to specify the  BindingGutter  scored property value, whether by an integer value or by the reference to the  DocumentBindingGutter  parameter.
 ## Constructors
 
 | Constructor | Description |
@@ -25,7 +25,7 @@ Describes the way to specify the \`\`\` BindingGutter \`\`\` scored property val
 
 | Field | Description |
 | --- | --- |
-| [JobBindAllDocumentsGutter](#JobBindAllDocumentsGutter) | Specifies the \`\`\` BindingGutter \`\`\` scored property value by the reference to the \`\`\` DocumentBindingGutter \`\`\` parameter. |
+| [JobBindAllDocumentsGutter](#JobBindAllDocumentsGutter) | Specifies the  BindingGutter  scored property value by the reference to the  DocumentBindingGutter  parameter. |
 ### BindingGutter(int value) {#BindingGutter-int-}
 ```
 public BindingGutter(int value)
@@ -45,5 +45,5 @@ public static JobBindAllDocuments.BindingGutter JobBindAllDocumentsGutter
 ```
 
 
-Specifies the \`\`\` BindingGutter \`\`\` scored property value by the reference to the \`\`\` DocumentBindingGutter \`\`\` parameter.
+Specifies the  BindingGutter  scored property value by the reference to the  DocumentBindingGutter  parameter.
 

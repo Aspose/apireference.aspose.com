@@ -12,7 +12,7 @@ java.lang.Object, [com.aspose.xps.metadata.PrintTicketElement](../../com.aspose.
 public static final class Collate.CollateOption extends Option
 ```
 
-Describes the \`\`\` DocumentCollate \`\`\` and \`\`\` JobCollateAllDocuments \`\`\` features options.
+Describes the  DocumentCollate  and  JobCollateAllDocuments  features options.
 ## Fields
 
 | Field | Description |

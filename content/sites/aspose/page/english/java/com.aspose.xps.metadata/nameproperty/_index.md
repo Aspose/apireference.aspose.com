@@ -12,4 +12,4 @@ java.lang.Object, [com.aspose.xps.metadata.PrintTicketElement](../../com.aspose.
 public class NameProperty extends Property
 ```
 
-The base class for \`\`\` JobName \`\`\` and \`\`\` DocumentName \`\`\` properties classes.
+The base class for  JobName  and  DocumentName  properties classes.

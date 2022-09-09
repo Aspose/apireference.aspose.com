@@ -12,7 +12,7 @@ java.lang.Object, [com.aspose.xps.metadata.PrintTicketElement](../../com.aspose.
 public static final class PageMediaColor.PageMediaColorOption extends Option
 ```
 
-Describes the \`\`\` PageMediaColor \`\`\` feature options.
+Describes the  PageMediaColor  feature options.
 ## Fields
 
 | Field | Description |

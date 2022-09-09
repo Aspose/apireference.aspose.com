@@ -15,7 +15,7 @@ java.lang.Object, [com.aspose.xps.metadata.PrintTicketElement](../../com.aspose.
 public class ParameterRef extends PrintTicketElement implements IPrintTicketItem
 ```
 
-The class that implements a common PrintTicket parameter reference. A \`\`\` ParameterRef \`\`\` element defines a reference to a \`\`\` ParameterInit \`\`\` element. A \`\`\` ScoredProperty \`\`\` element that contains a ParameterRef element does not have an explicitly-set \`\`\` Value \`\`\` element. Instead, the \`\`\` ScoredProperty \`\`\` element receives its value from the \`\`\` ParameterInit \`\`\` element referenced by a \`\`\` ParameterRef \`\`\` element. https://docs.microsoft.com/en-us/windows/win32/printdocs/parameterref
+The class that implements a common PrintTicket parameter reference. A  ParameterRef  element defines a reference to a  ParameterInit  element. A  ScoredProperty  element that contains a ParameterRef element does not have an explicitly-set  Value  element. Instead, the  ScoredProperty  element receives its value from the  ParameterInit  element referenced by a  ParameterRef  element. https://docs.microsoft.com/en-us/windows/win32/printdocs/parameterref
 ## Constructors
 
 | Constructor | Description |

@@ -17,8 +17,8 @@ This class contains options necessary for managing conversion process.
 
 | Constructor | Description |
 | --- | --- |
-| [SaveOptions()](#SaveOptions--) | Initialize new SaveOptions instance with default values for flags \`\`\` suppressErrors \`\`\` (true) and \`\`\` debug \`\`\` (false). |
-| [SaveOptions(boolean supressErrors)](#SaveOptions-boolean-) | Initialize new SaveOptions instance with default value for flag \`\`\` debug \`\`\` (false). |
+| [SaveOptions()](#SaveOptions--) | Initialize new SaveOptions instance with default values for flags  suppressErrors  (true) and  debug  (false). |
+| [SaveOptions(boolean supressErrors)](#SaveOptions-boolean-) | Initialize new SaveOptions instance with default value for flag  debug  (false). |
 ## Methods
 
 | Method | Description |
@@ -38,7 +38,7 @@ public SaveOptions()
 ```
 
 
-Initialize new SaveOptions instance with default values for flags \`\`\` suppressErrors \`\`\` (true) and \`\`\` debug \`\`\` (false).
+Initialize new SaveOptions instance with default values for flags  suppressErrors  (true) and  debug  (false).
 
 ### SaveOptions(boolean supressErrors) {#SaveOptions-boolean-}
 ```
@@ -46,7 +46,7 @@ public SaveOptions(boolean supressErrors)
 ```
 
 
-Initialize new SaveOptions instance with default value for flag \`\`\` debug \`\`\` (false).
+Initialize new SaveOptions instance with default value for flag  debug  (false).
 
 **Parameters:**
 | Parameter | Type | Description |

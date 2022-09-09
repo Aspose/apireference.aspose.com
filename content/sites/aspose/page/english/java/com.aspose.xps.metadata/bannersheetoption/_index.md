@@ -12,7 +12,7 @@ java.lang.Object, [com.aspose.xps.metadata.PrintTicketElement](../../com.aspose.
 public static final class JobPrimaryBannerSheet.BannerSheetOption extends Option
 ```
 
-Represents options of the \`\`\` JobPrimaryBannerSheet \`\`\` feature.
+Represents options of the  JobPrimaryBannerSheet  feature.
 ## Fields
 
 | Field | Description |
@@ -42,5 +42,5 @@ public static JobPrimaryBannerSheet.BannerSheetOption Custom
 ```
 
 
-Specifies a custom banner sheet should be output. If a \`\`\` JobPrimaryBannerSheetSource \`\`\` \`\`\` ParameterInit \`\`\` element is not specified, this Option should be ignored.
+Specifies a custom banner sheet should be output. If a  JobPrimaryBannerSheetSource   ParameterInit  element is not specified, this Option should be ignored.
 

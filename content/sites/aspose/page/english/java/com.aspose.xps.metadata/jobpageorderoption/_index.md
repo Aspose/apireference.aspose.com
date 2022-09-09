@@ -12,7 +12,7 @@ java.lang.Object, [com.aspose.xps.metadata.PrintTicketElement](../../com.aspose.
 public static final class JobPageOrder.JobPageOrderOption extends Option
 ```
 
-Describes the \`\`\` JobPageOrder \`\`\` feature options.
+Describes the  JobPageOrder  feature options.
 ## Fields
 
 | Field | Description |

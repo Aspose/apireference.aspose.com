@@ -15,7 +15,7 @@ java.lang.Object, [com.aspose.xps.metadata.PrintTicketElement](../../com.aspose.
 public static final class PageMediaType.FrontCoating extends ScoredProperty implements PageMediaType.IPageMediaTypeOptionItem
 ```
 
-Defines constants for the \`\`\` FrontCoating \`\`\` scored property value.
+Defines constants for the  FrontCoating  scored property value.
 ## Fields
 
 | Field | Description |

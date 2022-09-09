@@ -15,7 +15,7 @@ java.lang.Object, [com.aspose.xps.metadata.PrintTicketElement](../../com.aspose.
 public final class JobHolePunch extends HolePunch implements IJobPrintTicketItem
 ```
 
-Describes the hole punching characteristics of the output. All documents are punched together. The \`\`\` JobHolePunch \`\`\` and \`\`\` DocumentHolePunch \`\`\` keywords are mutually exclusive. Both should not be specified simultaneously in a PrintTicket or Print Capabilities document. https://docs.microsoft.com/en-us/windows/win32/printdocs/jobholepunch
+Describes the hole punching characteristics of the output. All documents are punched together. The  JobHolePunch  and  DocumentHolePunch  keywords are mutually exclusive. Both should not be specified simultaneously in a PrintTicket or Print Capabilities document. https://docs.microsoft.com/en-us/windows/win32/printdocs/jobholepunch
 ## Constructors
 
 | Constructor | Description |

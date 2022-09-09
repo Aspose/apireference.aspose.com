@@ -12,4 +12,4 @@ url: /java/com.aspose.xps.metadata/nup.inupitem/
 public static interface NUp.INUpItem extends IFeatureItem
 ```
 
-The interface of any \`\`\` JobNUpAllDocumentsContiguously \`\`\` or \`\`\` DocumentNUp \`\`\` feature item.
+The interface of any  JobNUpAllDocumentsContiguously  or  DocumentNUp  feature item.

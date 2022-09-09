@@ -1,7 +1,7 @@
 ---
 title: com.aspose.xps
 second_title: Aspose.Page for Java API Reference
-description: The bcom.aspose.xps/b is a root package for all classes that deal with XPS document.
+description: The com.aspose.xps is a root package for all classes that deal with XPS document.
 type: docs
 weight: 15
 url: /java/com.aspose.xps/

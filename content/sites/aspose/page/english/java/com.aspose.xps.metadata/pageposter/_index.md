@@ -25,7 +25,7 @@ Describes the output of a single page to multiple physical media sheets. https:/
 
 | Method | Description |
 | --- | --- |
-| [addPagesPerSheetOption(int value)](#addPagesPerSheetOption-int-) | Adds and option with a \`\`\` PagesPerSheet \`\`\` scored property value. |
+| [addPagesPerSheetOption(int value)](#addPagesPerSheetOption-int-) | Adds and option with a  PagesPerSheet  scored property value. |
 ### PagePoster() {#PagePoster--}
 ```
 public PagePoster()
@@ -40,12 +40,12 @@ public PagePoster addPagesPerSheetOption(int value)
 ```
 
 
-Adds and option with a \`\`\` PagesPerSheet \`\`\` scored property value. Specifies the number of physical sheets per logical page.
+Adds and option with a  PagesPerSheet  scored property value. Specifies the number of physical sheets per logical page.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | int | A \`\`\` PagesPerSheet \`\`\` scored property value. |
+| value | int | A  PagesPerSheet  scored property value. |
 
 **Returns:**
 [PagePoster](../../com.aspose.xps.metadata/pageposter) - This feature instance.

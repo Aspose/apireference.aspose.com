@@ -15,7 +15,7 @@ java.lang.Object, [com.aspose.xps.metadata.PrintTicketElement](../../com.aspose.
 public final class JobPrimaryCoverBack extends Feature implements IJobPrintTicketItem
 ```
 
-Describes the back (ending) cover sheet. Each job will have a separate primary sheet. The cover sheet should be printed on the \`\`\` PageMediaSize \`\`\` and \`\`\` PageMediaType \`\`\` used for the final page of the job. The cover sheet should be integrated into processing options (such as \`\`\` JobDuplexAllDocumentsContiguously \`\`\`, \`\`\` JobNUpAllDocumentsContiguously \`\`\`) as indicated by the Option specified. https://docs.microsoft.com/en-us/windows/win32/printdocs/jobprimarycoverback
+Describes the back (ending) cover sheet. Each job will have a separate primary sheet. The cover sheet should be printed on the  PageMediaSize  and  PageMediaType  used for the final page of the job. The cover sheet should be integrated into processing options (such as  JobDuplexAllDocumentsContiguously ,  JobNUpAllDocumentsContiguously ) as indicated by the Option specified. https://docs.microsoft.com/en-us/windows/win32/printdocs/jobprimarycoverback
 ## Constructors
 
 | Constructor | Description |

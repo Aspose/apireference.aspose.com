@@ -15,7 +15,7 @@ java.lang.Object, [com.aspose.xps.metadata.PrintTicketElement](../../com.aspose.
 public static final class NUp.PresentationDirection extends Feature implements NUp.INUpItem
 ```
 
-Describes inner \`\`\` PresentationDirection \`\`\` feature.
+Describes inner  PresentationDirection  feature.
 ## Constructors
 
 | Constructor | Description |

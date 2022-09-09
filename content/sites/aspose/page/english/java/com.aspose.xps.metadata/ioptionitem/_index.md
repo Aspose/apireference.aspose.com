@@ -12,4 +12,4 @@ url: /java/com.aspose.xps.metadata/ioptionitem/
 public interface IOptionItem extends IPrintTicketElementChild
 ```
 
-The interface of classes that may be Print Schema \`\`\` Option \`\`\` items.
+The interface of classes that may be Print Schema  Option  items.
