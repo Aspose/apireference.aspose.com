@@ -1,14 +1,14 @@
 ---
 title: FontAgrumentException
 second_title: Aspose.Font for .NET API 参考
-description: 表示字体参数异常 如果不正确的 agrument 使用可能会引发异常
+description: 表示字体参数异常 不正确的agrument 用法会抛出异常
 type: docs
 weight: 80
 url: /zh/net/aspose.font.exceptions/fontagrumentexception/
 ---
 ## FontAgrumentException class
 
-表示字体参数异常。 如果不正确的 agrument 使用，可能会引发异常。
+表示字体参数异常。 不正确的agrument 用法会抛出异常。
 
 ```csharp
 public class FontAgrumentException : FontException
@@ -18,10 +18,10 @@ public class FontAgrumentException : FontException
 
 | 姓名 | 描述 |
 | --- | --- |
-| [FontAgrumentException](fontagrumentexception#constructor)() | 初始化新的[`FontAgrumentException`](../fontagrumentexception)对象。 |
-| [FontAgrumentException](fontagrumentexception#constructor_2)(string) | 初始化新的[`FontAgrumentException`](../fontagrumentexception)对象。 |
-| [FontAgrumentException](fontagrumentexception#constructor_1)(SerializationInfo, StreamingContext) | 初始化新的[`FontAgrumentException`](../fontagrumentexception)对象。 |
-| [FontAgrumentException](fontagrumentexception#constructor_3)(string, Exception) | 初始化新的[`FontAgrumentException`](../fontagrumentexception)对象。 |
+| [FontAgrumentException](fontagrumentexception#constructor)() | 初始化新的[`FontAgrumentException`](../fontagrumentexception)对象. |
+| [FontAgrumentException](fontagrumentexception#constructor_2)(string) | 初始化新的[`FontAgrumentException`](../fontagrumentexception)对象. |
+| [FontAgrumentException](fontagrumentexception#constructor_1)(SerializationInfo, StreamingContext) | 初始化新的[`FontAgrumentException`](../fontagrumentexception)对象. |
+| [FontAgrumentException](fontagrumentexception#constructor_3)(string, Exception) | 初始化新的[`FontAgrumentException`](../fontagrumentexception)对象. |
 
 ### 也可以看看
 

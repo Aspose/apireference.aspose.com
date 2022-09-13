@@ -1,14 +1,14 @@
 ---
 title: FontName
 second_title: Справочник по API Aspose.Font для .NET
-description: Получает имя шрифта. Установщик имени начертания шрифта еще не реализован.
+description: Получает имя начертания шрифта. Установщик имени начертания шрифта еще не реализован.
 type: docs
 weight: 40
 url: /ru/net/aspose.font.type1/type1font/fontname/
 ---
 ## Type1Font.FontName property
 
-Получает имя шрифта. Установщик имени начертания шрифта еще не реализован.
+Получает имя начертания шрифта. Установщик имени начертания шрифта еще не реализован.
 
 ```csharp
 public override string FontName { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: NameToCodeMap
 second_title: Справочник по API Aspose.Font для .NET
-description: Представляет имя в карту кодов.
+description: Представляет имя для сопоставления кодов.
 type: docs
 weight: 390
 url: /ru/net/aspose.font/nametocodemap/
 ---
 ## NameToCodeMap class
 
-Представляет имя в карту кодов.
+Представляет имя для сопоставления кодов.
 
 ```csharp
 public class NameToCodeMap
@@ -26,7 +26,7 @@ public class NameToCodeMap
 
 | Имя | Описание |
 | --- | --- |
-| [ContainsKey](../../aspose.font/nametocodemap/containskey)(string) | Возвращает true, если ключ уже есть в карте. |
+| [ContainsKey](../../aspose.font/nametocodemap/containskey)(string) | Возвращает true, если ключ уже есть на карте. |
 
 ### Смотрите также
 

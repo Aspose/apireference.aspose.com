@@ -1,14 +1,14 @@
 ---
 title: Multiply
 second_title: Aspose.Font for .NET API 参考
-description: 与另一个变换矩阵相乘 不改变原来的变换矩阵返回一个新的 TransformationMatrix 对象
+description: 与另一个变换矩阵相乘 不改变原始变换矩阵返回一个新的 TransformationMatrix 对象
 type: docs
 weight: 90
 url: /zh/net/aspose.font/transformationmatrix/multiply/
 ---
 ## TransformationMatrix.Multiply method
 
-与另一个变换矩阵相乘。 不改变原来的变换矩阵，返回一个新的 TransformationMatrix 对象。
+与另一个变换矩阵相乘。 不改变原始变换矩阵，返回一个新的 TransformationMatrix 对象。
 
 ```csharp
 public TransformationMatrix Multiply(TransformationMatrix matrix)

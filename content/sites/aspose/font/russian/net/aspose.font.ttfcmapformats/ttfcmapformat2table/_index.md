@@ -19,7 +19,7 @@ public class TtfCMapFormat2Table : TtfCMapFormatBaseTable
 | Имя | Описание |
 | --- | --- |
 | [PlatformId](../../aspose.font.ttfcmapformats/ttfcmapformatbasetable/platformid) { get; } | Получает идентификатор платформы. |
-| [PlatformSpecificId](../../aspose.font.ttfcmapformats/ttfcmapformatbasetable/platformspecificid) { get; } | Получает PlatformSpecificId. |
+| [PlatformSpecificId](../../aspose.font.ttfcmapformats/ttfcmapformatbasetable/platformspecificid) { get; } | Получает идентификатор платформы. |
 
 ## Методы
 

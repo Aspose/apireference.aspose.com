@@ -3,7 +3,7 @@ title: TtfHmtxTable.MetricList
 second_title: Aspose.Font for .NET API 参考
 description: 表示指标列表
 type: docs
-weight: 850
+weight: 860
 url: /zh/net/aspose.font.ttftables/ttfhmtxtable.metriclist/
 ---
 ## TtfHmtxTable.MetricList class
@@ -19,7 +19,7 @@ public class MetricList
 | 姓名 | 描述 |
 | --- | --- |
 | [Count](../../aspose.font.ttftables/metriclist/count) { get; } | 获取指标计数。 |
-| [Item](../../aspose.font.ttftables/metriclist/item) { get; } | 按字形索引获取指标。 |
+| [Item](../../aspose.font.ttftables/metriclist/item) { get; } | 通过字形索引获取指标。 |
 
 ### 也可以看看
 

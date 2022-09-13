@@ -1,14 +1,14 @@
 ---
 title: PlatformId
 second_title: Aspose.Font for .NET API 参考
-description: 获取 PlatformId
+description: 获取 PlatformId.
 type: docs
 weight: 10
 url: /zh/net/aspose.font.ttfcmapformats/ttfcmapformatbasetable/platformid/
 ---
 ## TtfCMapFormatBaseTable.PlatformId property
 
-获取 PlatformId。
+获取 PlatformId.
 
 ```csharp
 public ushort PlatformId { get; }

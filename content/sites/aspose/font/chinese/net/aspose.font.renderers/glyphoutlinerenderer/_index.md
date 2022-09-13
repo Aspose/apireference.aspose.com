@@ -18,7 +18,7 @@ public class GlyphOutlineRenderer : GlyphRendererBase
 
 | 姓名 | 描述 |
 | --- | --- |
-| [GlyphOutlineRenderer](glyphoutlinerenderer)(IGlyphOutlinePainter) | 初始化新的[`GlyphOutlineRenderer`](../glyphoutlinerenderer)对象。 |
+| [GlyphOutlineRenderer](glyphoutlinerenderer)(IGlyphOutlinePainter) | 初始化新的[`GlyphOutlineRenderer`](../glyphoutlinerenderer)对象. |
 
 ## 方法
 
@@ -28,8 +28,8 @@ public class GlyphOutlineRenderer : GlyphRendererBase
 | [RenderGlyph](../../aspose.font.renderers/glyphrendererbase/renderglyph)(IFont, uint) | 渲染字形。 |
 | [RenderGlyph](../../aspose.font.renderers/glyphrendererbase/renderglyph)(IFont, GlyphId, TransformationMatrix) | 渲染字形。 |
 | [RenderGlyph](../../aspose.font.renderers/glyphrendererbase/renderglyph)(IFont, uint, TransformationMatrix) | 渲染字形。 |
-| [RenderGlyph](../../aspose.font.renderers/glyphrendererbase/renderglyph)(IFont, GlyphId, Glyph, TransformationMatrix) | 渲染字形，这个重载版本的一个目标 - 用于字形缓存。 |
-| [RenderIndependentGlyphPath](../../aspose.font.renderers/glyphrendererbase/renderindependentglyphpath)(IFont, GlyphId, Glyph, TransformationMatrix) | 使用独立的字形路径渲染字形。 RenderGlyph() 函数族在渲染时更改字形路径。 然后需要重新加载这个字形。此函数使用字形路径的副本，并且 不会更改原始字形路径，因此可以多次重复使用相同的字形。此版本的函数旨在 与字形缓存一起使用。 |
+| [RenderGlyph](../../aspose.font.renderers/glyphrendererbase/renderglyph)(IFont, GlyphId, Glyph, TransformationMatrix) | 渲染字形，这是这个重载版本的一个目标 - 与字形缓存一起使用。 |
+| [RenderIndependentGlyphPath](../../aspose.font.renderers/glyphrendererbase/renderindependentglyphpath)(IFont, GlyphId, Glyph, TransformationMatrix) | 使用独立的字形路径渲染字形。 RenderGlyph() 函数族在渲染时更改字形路径。 然后导致需要再次重新加载此字形。此函数使用字形路径的副本，并且不会 更改原始字形路径，因此可以多次重复使用相同的字形。此版本的函数旨在 与字形缓存一起使用。 |
 
 ### 也可以看看
 

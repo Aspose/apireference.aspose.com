@@ -1,14 +1,14 @@
 ---
 title: Descender
 second_title: Справочник по API Aspose.Font для .NET
-description: Получает значение нижнего выносного элемента Font в единицах шрифта.
+description: Получает нисходящее значение шрифта в единицах шрифта.
 type: docs
 weight: 20
 url: /ru/net/aspose.font/ifontmetrics/descender/
 ---
 ## IFontMetrics.Descender property
 
-Получает значение нижнего выносного элемента Font в единицах шрифта.
+Получает нисходящее значение шрифта в единицах шрифта.
 
 ```csharp
 public double Descender { get; set; }

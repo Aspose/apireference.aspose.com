@@ -1,14 +1,14 @@
 ---
 title: GetGlyphComponentsById
 second_title: Aspose.Font for .NET API 参考
-description: 通过传递的字形标识符获取一个字形并用该字形的组件 填充传递的字形标识符列表 Glyph id 是字形的唯一编号它取决于字体类型 TTF 字体字形 id 可以是 GlyphStringIdaspose.font.glyphs/glyphstringid 类或 GlyphUInt32Idaspose.font.glyphs/glyphuint32id 类的实例. 通过 Post 表映射为 TTF 字体支持名称字符串字形寻址 如果里面有 CFF 字体则 CFF 结构用于按名称寻址字形
+description: 通过传递的字形标识符获取一个字形并使用此字形的 组件填充传递的字形标识符列表 字形 ID 是字形的唯一编号取决于字体类型 TTF 字体字形 ID 可以是 GlyphStringIdaspose.font.glyphs/glyphstringid 类或 GlyphUInt32Idaspose.font.glyphs/glyphuint32id  class. 通过 Post 表映射支持 TTF 字体的名称字符串字形寻址 在 CFF 字体内部的情况下CFF 结构用于按名称寻址字形
 type: docs
 weight: 190
 url: /zh/net/aspose.font.ttf/ttffont/getglyphcomponentsbyid/
 ---
 ## GetGlyphComponentsById(GlyphId, GlyphIdList) {#getglyphcomponentsbyid}
 
-通过传递的字形标识符获取一个字形，并用该字形的组件 填充传递的字形标识符列表。 Glyph id 是字形的唯一编号，它取决于字体类型。 TTF 字体字形 id 可以是 ([`GlyphStringId`](../../../aspose.font.glyphs/glyphstringid)) 类或 ([`GlyphUInt32Id`](../../../aspose.font.glyphs/glyphuint32id)) 类的实例. 通过 Post 表映射为 TTF 字体支持名称（字符串）字形寻址。 如果里面有 CFF 字体，则 CFF 结构用于按名称寻址字形。
+通过传递的字形标识符获取一个字形，并使用此字形的 组件填充传递的字形标识符列表。 字形 ID 是字形的唯一编号，取决于字体类型。 TTF 字体字形 ID 可以是 ([`GlyphStringId`](../../../aspose.font.glyphs/glyphstringid)) 类或 ([`GlyphUInt32Id`](../../../aspose.font.glyphs/glyphuint32id) ) class. 通过 Post 表映射支持 TTF 字体的名称（字符串）字形寻址。 在 CFF 字体内部的情况下，CFF 结构用于按名称寻址字形。
 
 ```csharp
 public virtual void GetGlyphComponentsById(GlyphId id, GlyphIdList componentsToPopulate)
@@ -21,7 +21,7 @@ public virtual void GetGlyphComponentsById(GlyphId id, GlyphIdList componentsToP
 
 ### 评论
 
-空集合 componentsToPopulate 应该被传递，它将包含字形组件 id 列表。
+应该传递空集合 componentsToPopulate，它将包含字形组件 id 列表。
 
 ### 也可以看看
 
@@ -35,7 +35,7 @@ public virtual void GetGlyphComponentsById(GlyphId id, GlyphIdList componentsToP
 
 ## GetGlyphComponentsById(string, GlyphIdList) {#getglyphcomponentsbyid_1}
 
-通过传递的字形名称获取一个字形，并用该字形的组件 填充传递的字形标识符列表。
+通过传递的字形名称获取一个字形，并用此字形的 组件填充传递的字形标识符列表。
 
 ```csharp
 public void GetGlyphComponentsById(string glyphName, GlyphIdList componentsToPopulate)
@@ -48,7 +48,7 @@ public void GetGlyphComponentsById(string glyphName, GlyphIdList componentsToPop
 
 ### 评论
 
-空集合 componentsToPopulate 应该被传递，它将包含字形组件 id 列表。
+应该传递空集合 componentsToPopulate，它将包含字形组件 id 列表。
 
 ### 也可以看看
 
@@ -61,7 +61,7 @@ public void GetGlyphComponentsById(string glyphName, GlyphIdList componentsToPop
 
 ## GetGlyphComponentsById(uint, GlyphIdList) {#getglyphcomponentsbyid_2}
 
-获取一个通过字形索引传递的字形，并用这个字形的组件 填充传递的字形标识符列表。
+通过传递的字形索引获取一个字形，并用这个字形的组件 填充传递的字形标识符列表。
 
 ```csharp
 public void GetGlyphComponentsById(uint id, GlyphIdList componentsToPopulate)

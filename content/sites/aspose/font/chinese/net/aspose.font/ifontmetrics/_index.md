@@ -18,24 +18,24 @@ public interface IFontMetrics
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Ascender](../../aspose.font/ifontmetrics/ascender) { get; set; } | 以字体单位获取 Font 的升序值。 |
+| [Ascender](../../aspose.font/ifontmetrics/ascender) { get; set; } | 以字体单位获取字体的升序值。 |
 | [Descender](../../aspose.font/ifontmetrics/descender) { get; set; } | 以字体单位获取字体的下降值。 |
 | [FontBBox](../../aspose.font/ifontmetrics/fontbbox) { get; } | 获取字体边界框。 |
-| [FontMatrix](../../aspose.font/ifontmetrics/fontmatrix) { get; } | 获取字体转换矩阵。 |
+| [FontMatrix](../../aspose.font/ifontmetrics/fontmatrix) { get; } | 获取字体变换矩阵。 |
 | [IsFixedPitch](../../aspose.font/ifontmetrics/isfixedpitch) { get; } | True，如果字体是等宽字体。 |
 | [LineGap](../../aspose.font/ifontmetrics/linegap) { get; } | 以字体单位获取字体的 LineGap 值。 |
 | [TypoAscender](../../aspose.font/ifontmetrics/typoascender) { get; set; } | 以字体单位获取字体的印刷升序值。 |
 | [TypoDescender](../../aspose.font/ifontmetrics/typodescender) { get; set; } | 以字体单位获取字体的印刷下降值。 |
 | [TypoLineGap](../../aspose.font/ifontmetrics/typolinegap) { get; } | 以字体单位获取字体的印刷 LineGap 值。 |
-| [UnitsPerEM](../../aspose.font/ifontmetrics/unitsperem) { get; set; } | 获取每 em 的单位。 |
+| [UnitsPerEM](../../aspose.font/ifontmetrics/unitsperem) { get; set; } | 获取每个 em 的单位。 |
 
 ## 方法
 
 | 姓名 | 描述 |
 | --- | --- |
 | [GetAscender](../../aspose.font/ifontmetrics/getascender)(double) | 返回特定字体大小的升序。 |
-| [GetDescender](../../aspose.font/ifontmetrics/getdescender)(double) | 返回特定字体大小的降序。 |
-| [GetGlyphBBox](../../aspose.font/ifontmetrics/getglyphbbox)(GlyphId) | 返回字形 BBox。 |
+| [GetDescender](../../aspose.font/ifontmetrics/getdescender)(double) | 返回特定字体大小的下降器。 |
+| [GetGlyphBBox](../../aspose.font/ifontmetrics/getglyphbbox)(GlyphId) | 返回字形 BBox. |
 | [GetGlyphWidth](../../aspose.font/ifontmetrics/getglyphwidth)(GlyphId) | 返回字形宽度。 |
 | [GetKerningValue](../../aspose.font/ifontmetrics/getkerningvalue)(GlyphId, GlyphId) | 返回字形对的字距调整值。 |
 | [GetTypoAscender](../../aspose.font/ifontmetrics/gettypoascender)(double) | 返回特定字体大小的印刷升序。 |

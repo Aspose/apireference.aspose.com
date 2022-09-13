@@ -1,14 +1,14 @@
 ---
 title: TransformationMatrix
 second_title: Aspose.Font for .NET API 参考
-description: 创建标准的 1 对 1 转换矩阵  ABCD TX TY    1 0 0 1 0 0
+description: 创建标准的 1 到 1 变换矩阵  ABCD TX TY    1 0 0 1 0 0.
 type: docs
 weight: 10
 url: /zh/net/aspose.font/transformationmatrix/transformationmatrix/
 ---
 ## TransformationMatrix() {#constructor}
 
-创建标准的 1 对 1 转换矩阵： [ ABCD TX TY ] = [ 1, 0, 0, 1, 0, 0]。
+创建标准的 1 到 1 变换矩阵： [ ABCD TX TY ] = [ 1, 0, 0, 1, 0, 0].
 
 ```csharp
 public TransformationMatrix()
@@ -24,7 +24,7 @@ public TransformationMatrix()
 
 ## TransformationMatrix(double[]) {#constructor_1}
 
-接受具有以下数组表示的变换矩阵： [ ABCD TX TY ]。
+接受具有以下数组表示的变换矩阵： [ ABCD TX TY ].
 
 ```csharp
 public TransformationMatrix(double[] matrixArray)

@@ -1,14 +1,14 @@
 ---
 title: FontNames
 second_title: Aspose.Font for .NET API 参考
-description: 获取字体名称为MultiLanguageStringaspose.font/multilanguagestring
+description: 获取字体名称作为MultiLanguageStringaspose.font/multilanguagestring.
 type: docs
 weight: 50
 url: /zh/net/aspose.font.sources/fontdefinition/fontnames/
 ---
 ## FontDefinition.FontNames property
 
-获取字体名称为[`MultiLanguageString`](../../../aspose.font/multilanguagestring)。
+获取字体名称作为[`MultiLanguageString`](../../../aspose.font/multilanguagestring).
 
 ```csharp
 public virtual MultiLanguageString FontNames { get; }

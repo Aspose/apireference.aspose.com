@@ -1,14 +1,14 @@
 ---
 title: MacStyle
 second_title: Aspose.Font for .NET API 参考
-description: 获取 uint16 macStyle
+description: 获取 uint16 macStyle.
 type: docs
 weight: 90
 url: /zh/net/aspose.font.ttftables/ttfheadtable/macstyle/
 ---
 ## TtfHeadTable.MacStyle property
 
-获取 uint16 macStyle。
+获取 uint16 macStyle.
 
 ```csharp
 public ushort MacStyle { get; }

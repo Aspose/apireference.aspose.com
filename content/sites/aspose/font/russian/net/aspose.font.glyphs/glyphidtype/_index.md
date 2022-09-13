@@ -1,14 +1,14 @@
 ---
 title: GlyphIdType
 second_title: Справочник по API Aspose.Font для .NET
-description: Указывает типы идентификаторов глифа.
+description: Задает типы идентификаторов глифа.
 type: docs
 weight: 260
 url: /ru/net/aspose.font.glyphs/glyphidtype/
 ---
 ## GlyphIdType enumeration
 
-Указывает типы идентификаторов глифа.
+Задает типы идентификаторов глифа.
 
 ```csharp
 public enum GlyphIdType

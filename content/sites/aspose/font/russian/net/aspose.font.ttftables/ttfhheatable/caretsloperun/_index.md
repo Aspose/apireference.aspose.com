@@ -1,14 +1,14 @@
 ---
 title: CaretSlopeRun
 second_title: Справочник по API Aspose.Font для .NET
-description: Получает неряшливую строку вставки.
+description: Получает прогон каретки.
 type: docs
 weight: 40
 url: /ru/net/aspose.font.ttftables/ttfhheatable/caretsloperun/
 ---
 ## TtfHheaTable.CaretSlopeRun property
 
-Получает неряшливую строку вставки.
+Получает прогон каретки.
 
 ```csharp
 public short CaretSlopeRun { get; }
@@ -16,7 +16,7 @@ public short CaretSlopeRun { get; }
 
 ### Стоимость имущества
 
-Прогон каретки.
+Каре отстойный бег.
 
 ### Смотрите также
 

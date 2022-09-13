@@ -1,14 +1,14 @@
 ---
 title: DecodeToGid
 second_title: Справочник по API Aspose.Font для .NET
-description: Реализация DecodeToGlyphId TTF Font находит таблицу юникода и возвращает идентификатор глифа для символа юникода. Идентификатор глифа  это уникальный номер глифа который зависит от типа шрифта. Например Идентификатор Type1  это имя глифа экземпляр класса GlyphStringIdaspose.font.glyphs/glyphstringid. Идентификатор TTF является индексом int экземпляром класса GlyphUInt32Idaspose.font.glyphs/glyphuint32id.
+description: Реализация DecodeToGlyphId шрифта TTF находит таблицу юникода и возвращает идентификатор глифа для символа юникода. Идентификатор глифа  это уникальный номер глифа который зависит от типа шрифта.GlyphStringIdaspose.font.glyphs/glyphstringid class. Идентификатор TTF является индексом int экземпляром GlyphUInt32Idaspose.font.glyphs/glyphuint32id класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.font.ttf/ttfencoding/decodetogid/
 ---
 ## TtfEncoding.DecodeToGid method
 
-Реализация DecodeToGlyphId TTF Font находит таблицу юникода и возвращает идентификатор глифа для символа юникода. Идентификатор глифа — это уникальный номер глифа, который зависит от типа шрифта. Например: Идентификатор Type1 — это имя глифа, экземпляр класса ([`GlyphStringId`](../../../aspose.font.glyphs/glyphstringid)). Идентификатор TTF является индексом int, экземпляром класса ([`GlyphUInt32Id`](../../../aspose.font.glyphs/glyphuint32id)).
+Реализация DecodeToGlyphId шрифта TTF находит таблицу юникода и возвращает идентификатор глифа для символа юникода. Идентификатор глифа — это уникальный номер глифа, который зависит от типа шрифта.[`GlyphStringId`](../../../aspose.font.glyphs/glyphstringid)) class. Идентификатор TTF является индексом int, экземпляром ([`GlyphUInt32Id`](../../../aspose.font.glyphs/glyphuint32id) класс.
 
 ```csharp
 public GlyphId DecodeToGid(uint unicode)

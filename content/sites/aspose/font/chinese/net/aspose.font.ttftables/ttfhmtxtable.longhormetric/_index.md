@@ -3,7 +3,7 @@ title: TtfHmtxTable.LongHorMetric
 second_title: Aspose.Font for .NET API 参考
 description: 表示指标记录
 type: docs
-weight: 840
+weight: 850
 url: /zh/net/aspose.font.ttftables/ttfhmtxtable.longhormetric/
 ---
 ## TtfHmtxTable.LongHorMetric structure
@@ -19,7 +19,7 @@ public struct LongHorMetric
 | 姓名 | 描述 |
 | --- | --- |
 | [AdvanceWidth](../../aspose.font.ttftables/longhormetric/advancewidth) { get; } | 获取前进宽度值。 |
-| [LeftSideBearing](../../aspose.font.ttftables/longhormetric/leftsidebearing) { get; } | 获取左侧方位角值。 |
+| [LeftSideBearing](../../aspose.font.ttftables/longhormetric/leftsidebearing) { get; } | 获取左侧方位值。 |
 
 ### 也可以看看
 

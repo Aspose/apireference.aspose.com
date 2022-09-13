@@ -3,7 +3,7 @@ title: TtfTableRepository
 second_title: Справочник по API Aspose.Font для .NET
 description: Представляет репозиторий таблиц TTF.
 type: docs
-weight: 1020
+weight: 1030
 url: /ru/net/aspose.font.ttftables/ttftablerepository/
 ---
 ## TtfTableRepository class
@@ -22,8 +22,8 @@ public class TtfTableRepository
 | [CMapTable](../../aspose.font.ttftables/ttftablerepository/cmaptable) { get; } | Получает таблицу CMap. |
 | [CvtTable](../../aspose.font.ttftables/ttftablerepository/cvttable) { get; } | Получает таблицу cvt. |
 | [FpgmTable](../../aspose.font.ttftables/ttftablerepository/fpgmtable) { get; } | Получает таблицу fpgm. |
-| [GlyfTable](../../aspose.font.ttftables/ttftablerepository/glyftable) { get; } | Получает таблицу глифов. |
-| [HeadTable](../../aspose.font.ttftables/ttftablerepository/headtable) { get; } | Получает главный стол. |
+| [GlyfTable](../../aspose.font.ttftables/ttftablerepository/glyftable) { get; } | Получает таблицу символов. |
+| [HeadTable](../../aspose.font.ttftables/ttftablerepository/headtable) { get; } | Получает главную таблицу. |
 | [HheaTable](../../aspose.font.ttftables/ttftablerepository/hheatable) { get; } | Получает таблицу hhea. |
 | [HmtxTable](../../aspose.font.ttftables/ttftablerepository/hmtxtable) { get; } | Получает таблицу hmtx. |
 | [LocaTable](../../aspose.font.ttftables/ttftablerepository/locatable) { get; } | Получает таблицу местоположений. |

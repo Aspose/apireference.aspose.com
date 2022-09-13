@@ -1,14 +1,14 @@
 ---
 title: CffFontException
 second_title: Справочник по API Aspose.Font для .NET
-description: Инициализирует новый объектCffFontExceptionaspose.font.cffexceptions/cfffontexception.
+description: Инициализирует новыйCffFontExceptionaspose.font.cffexceptions/cfffontexception объект.
 type: docs
 weight: 10
 url: /ru/net/aspose.font.cffexceptions/cfffontexception/cfffontexception/
 ---
 ## CffFontException() {#constructor}
 
-Инициализирует новый объект[`CffFontException`](../../cfffontexception).
+Инициализирует новый[`CffFontException`](../../cfffontexception) объект.
 
 ```csharp
 public CffFontException()
@@ -24,7 +24,7 @@ public CffFontException()
 
 ## CffFontException(string) {#constructor_2}
 
-Инициализирует новый объект[`CffFontException`](../../cfffontexception).
+Инициализирует новый[`CffFontException`](../../cfffontexception) объект.
 
 ```csharp
 public CffFontException(string message)
@@ -32,7 +32,7 @@ public CffFontException(string message)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| message | String | Сообщение с описанием ошибки. |
+| message | String | Сообщение, описывающее ошибку. |
 
 ### Смотрите также
 
@@ -44,7 +44,7 @@ public CffFontException(string message)
 
 ## CffFontException(string, Exception) {#constructor_3}
 
-Инициализирует новый объект[`CffFontException`](../../cfffontexception).
+Инициализирует новый[`CffFontException`](../../cfffontexception) объект.
 
 ```csharp
 public CffFontException(string message, Exception innerException)
@@ -52,8 +52,8 @@ public CffFontException(string message, Exception innerException)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| message | String | Сообщение с описанием ошибки. |
-| innerException | Exception | Исключение, являющееся причиной текущего исключения. |
+| message | String | Сообщение, описывающее ошибку. |
+| innerException | Exception | Исключение, которое является причиной текущего исключения. |
 
 ### Смотрите также
 
@@ -65,7 +65,7 @@ public CffFontException(string message, Exception innerException)
 
 ## CffFontException(SerializationInfo, StreamingContext) {#constructor_1}
 
-Инициализирует новый объект[`CffFontException`](../../cfffontexception).
+Инициализирует новый[`CffFontException`](../../cfffontexception) объект.
 
 ```csharp
 public CffFontException(SerializationInfo info, StreamingContext context)

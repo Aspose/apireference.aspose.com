@@ -1,14 +1,14 @@
 ---
 title: NotDefId
 second_title: Aspose.Font for .NET API 参考
-description: 获取非默认值
+description: 获取的不是默认值
 type: docs
 weight: 20
 url: /zh/net/aspose.font.glyphs/glyphstringid/notdefid/
 ---
 ## GlyphStringId.NotDefId property
 
-获取非默认值。
+获取的不是默认值。
 
 ```csharp
 public static GlyphStringId NotDefId { get; }

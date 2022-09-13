@@ -1,14 +1,14 @@
 ---
 title: IsFixedPitch
 second_title: Справочник по API Aspose.Font для .NET
-description: Истинно если Шрифт моноширинный.
+description: Истинно если шрифт моноширинный.
 type: docs
 weight: 50
 url: /ru/net/aspose.font/ifontmetrics/isfixedpitch/
 ---
 ## IFontMetrics.IsFixedPitch property
 
-Истинно, если Шрифт моноширинный.
+Истинно, если шрифт моноширинный.
 
 ```csharp
 public bool IsFixedPitch { get; }

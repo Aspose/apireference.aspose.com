@@ -1,14 +1,14 @@
 ---
 title: GlyphStringId
 second_title: Aspose.Font for .NET API 参考
-description: 初始化新的GlyphStringIdaspose.font.glyphs/glyphstringid对象
+description: 初始化新的GlyphStringIdaspose.font.glyphs/glyphstringid对象.
 type: docs
 weight: 10
 url: /zh/net/aspose.font.glyphs/glyphstringid/glyphstringid/
 ---
 ## GlyphStringId constructor
 
-初始化新的[`GlyphStringId`](../../glyphstringid)对象。
+初始化新的[`GlyphStringId`](../../glyphstringid)对象.
 
 ```csharp
 public GlyphStringId(string value)

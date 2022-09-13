@@ -1,14 +1,14 @@
 ---
 title: GetGlyphById
 second_title: Aspose.Font for .NET API 参考
-description: 按字形 id 返回字形 Glyph id 是字形的唯一编号它取决于字体类型 GlyphId - 派生对象 例如 Type1 的 id 是一个字形名称是 GlyphStringIdaspose.font.glyphs/glyphstringid 类的实例 TTF 的 id 是一个 int 索引是 GlyphUInt32Idaspose.font.glyphs/glyphuint32id 类的实例
+description: 按字形 id 返回字形 字形 id 是字形的唯一编号取决于字体类型 GlyphId  派生对象 例如 Type1的id是一个字形名称实例为GlyphStringIdaspose.font.glyphs/glyphstringid class. TTF 的 id 是一个 int 索引实例为 GlyphUInt32Idaspose.font.glyphs/glyphuint32id 类.
 type: docs
 weight: 180
 url: /zh/net/aspose.font/font/getglyphbyid/
 ---
 ## Font.GetGlyphById method
 
-按字形 id 返回字形。 Glyph id 是字形的唯一编号，它取决于字体类型。 GlyphId - 派生对象。 例如： Type1 的 id 是一个字形名称，是 ([`GlyphStringId`](../../../aspose.font.glyphs/glyphstringid)) 类的实例。 TTF 的 id 是一个 int 索引，是 ([`GlyphUInt32Id`](../../../aspose.font.glyphs/glyphuint32id)) 类的实例。
+按字形 id 返回字形。 字形 id 是字形的唯一编号，取决于字体类型。 GlyphId - 派生对象。 例如： Type1的id是一个字形名称，实例为（[`GlyphStringId`](../../../aspose.font.glyphs/glyphstringid)) class. TTF 的 id 是一个 int 索引，实例为 ([`GlyphUInt32Id`](../../../aspose.font.glyphs/glyphuint32id) 类.
 
 ```csharp
 public abstract Glyph GetGlyphById(GlyphId id)

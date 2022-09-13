@@ -1,14 +1,14 @@
 ---
 title: ToString
 second_title: Aspose.Font for .NET API 参考
-description: 返回字符串表示的字形 id
+description: 返回字形 id 的字符串表示形式
 type: docs
 weight: 50
 url: /zh/net/aspose.font.glyphs/glyphid/tostring/
 ---
 ## GlyphId.ToString method
 
-返回字符串表示的字形 id。
+返回字形 id 的字符串表示形式。
 
 ```csharp
 public abstract string ToString()

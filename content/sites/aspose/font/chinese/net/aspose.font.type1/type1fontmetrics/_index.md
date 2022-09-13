@@ -1,14 +1,14 @@
 ---
 title: Type1FontMetrics
 second_title: Aspose.Font for .NET API 参考
-description: 表示 Type1 字体指标
+description: 表示 Type1 字体规格
 type: docs
-weight: 1060
+weight: 1070
 url: /zh/net/aspose.font.type1/type1fontmetrics/
 ---
 ## Type1FontMetrics class
 
-表示 Type1 字体指标。
+表示 Type1 字体规格。
 
 ```csharp
 public class Type1FontMetrics : FontMetrics
@@ -19,10 +19,10 @@ public class Type1FontMetrics : FontMetrics
 | 姓名 | 描述 |
 | --- | --- |
 | override [Ascender](../../aspose.font.type1/type1fontmetrics/ascender) { get; } | 获取升序值。 |
-| [CapHeight](../../aspose.font.type1/type1fontmetrics/capheight) { get; } | 获取大写高度值。 |
+| [CapHeight](../../aspose.font.type1/type1fontmetrics/capheight) { get; } | 获取上限高度值。 |
 | override [Descender](../../aspose.font.type1/type1fontmetrics/descender) { get; } | 获取下降值。 |
 | override [FontBBox](../../aspose.font.type1/type1fontmetrics/fontbbox) { get; } | 获取 FontBBox 值。 |
-| override [FontMatrix](../../aspose.font.type1/type1fontmetrics/fontmatrix) { get; } | 获取字体转换矩阵。 |
+| override [FontMatrix](../../aspose.font.type1/type1fontmetrics/fontmatrix) { get; } | 获取字体变换矩阵。 |
 | [IsFixedPitch](../../aspose.font/fontmetrics/isfixedpitch) { get; } | 获取 IsFixedPitch 值。 |
 | [ItalicAngle](../../aspose.font.type1/type1fontmetrics/italicangle) { get; } | 获取斜体角度值。 |
 | virtual [LineGap](../../aspose.font/fontmetrics/linegap) { get; } | 获取 LineGap 值。 |
@@ -34,7 +34,7 @@ public class Type1FontMetrics : FontMetrics
 | [UnderlinePosition](../../aspose.font.type1/type1fontmetrics/underlineposition) { get; } | 获取下划线位置值。 |
 | [UnderlineThickness](../../aspose.font.type1/type1fontmetrics/underlinethickness) { get; } | 获取下划线粗细值。 |
 | override [UnitsPerEM](../../aspose.font.type1/type1fontmetrics/unitsperem) { get; set; } | 获取下划线 UnitsPerEM 值。 |
-| [Weight](../../aspose.font.type1/type1fontmetrics/weight) { get; } | 获得权重。 |
+| [Weight](../../aspose.font.type1/type1fontmetrics/weight) { get; } | 获取重量。 |
 | [XHeight](../../aspose.font.type1/type1fontmetrics/xheight) { get; } | 获取 XHeight 值。 |
 
 ## 方法
@@ -42,12 +42,12 @@ public class Type1FontMetrics : FontMetrics
 | 姓名 | 描述 |
 | --- | --- |
 | virtual [GetAscender](../../aspose.font/fontmetrics/getascender)(double) | 返回特定字体大小的升序。 |
-| virtual [GetDescender](../../aspose.font/fontmetrics/getdescender)(double) | 返回特定字体大小的降序。 |
+| virtual [GetDescender](../../aspose.font/fontmetrics/getdescender)(double) | 返回特定字体大小的下降器。 |
 | virtual [GetGlyphBBox](../../aspose.font/fontmetrics/getglyphbbox)(GlyphId) | 返回字形 BBox。 如果没有为字形定义 BBox，则返回 FontBBox。 可能被特定的字体编码继承者覆盖。 |
 | override [GetGlyphWidth](../../aspose.font.type1/type1fontmetrics/getglyphwidth)(GlyphId) | 返回字形宽度。 可能被特定的字体编码继承者覆盖。 |
 | virtual [GetKerningValue](../../aspose.font/fontmetrics/getkerningvalue)(GlyphId, GlyphId) | 返回字形对的字距调整值。 |
-| virtual [GetTypoAscender](../../aspose.font/fontmetrics/gettypoascender)(double) | 返回特定字体大小的降序。 |
-| virtual [GetTypoDescender](../../aspose.font/fontmetrics/gettypodescender)(double) | 返回特定字体大小的降序。 |
+| virtual [GetTypoAscender](../../aspose.font/fontmetrics/gettypoascender)(double) | 返回特定字体大小的下降器。 |
+| virtual [GetTypoDescender](../../aspose.font/fontmetrics/gettypodescender)(double) | 返回特定字体大小的下降器。 |
 | virtual [GetTypoLineGap](../../aspose.font/fontmetrics/gettypolinegap)(double) | 返回特定字体大小的行间距。 |
 | override [MeasureString](../../aspose.font.type1/type1fontmetrics/measurestring)(string, double) | 测量字符串并返回字符串宽度。 |
 

@@ -1,14 +1,14 @@
 ---
 title: GlyphOutlineRenderer
 second_title: Справочник по API Aspose.Font для .NET
-description: Инициализирует новый объектGlyphOutlineRendereraspose.font.renderers/glyphoutlinerenderer.
+description: Инициализирует новыйGlyphOutlineRendereraspose.font.renderers/glyphoutlinerenderer объект.
 type: docs
 weight: 10
 url: /ru/net/aspose.font.renderers/glyphoutlinerenderer/glyphoutlinerenderer/
 ---
 ## GlyphOutlineRenderer constructor
 
-Инициализирует новый объект[`GlyphOutlineRenderer`](../../glyphoutlinerenderer).
+Инициализирует новый[`GlyphOutlineRenderer`](../../glyphoutlinerenderer) объект.
 
 ```csharp
 public GlyphOutlineRenderer(IGlyphOutlinePainter painter)

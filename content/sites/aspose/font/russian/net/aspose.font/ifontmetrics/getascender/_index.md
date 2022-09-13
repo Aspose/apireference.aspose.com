@@ -1,14 +1,14 @@
 ---
 title: GetAscender
 second_title: Справочник по API Aspose.Font для .NET
-description: Возвращает восходящий элемент для определенного размера шрифта.
+description: Возвращает верхний элемент для определенного размера шрифта.
 type: docs
 weight: 110
 url: /ru/net/aspose.font/ifontmetrics/getascender/
 ---
 ## IFontMetrics.GetAscender method
 
-Возвращает восходящий элемент для определенного размера шрифта.
+Возвращает верхний элемент для определенного размера шрифта.
 
 ```csharp
 public double GetAscender(double fontSize)

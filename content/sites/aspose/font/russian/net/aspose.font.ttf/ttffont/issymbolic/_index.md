@@ -1,14 +1,14 @@
 ---
 title: IsSymbolic
 second_title: Справочник по API Aspose.Font для .NET
-description: Возвращает true если Font является символьным.
+description: Возвращает true если шрифт является символическим.
 type: docs
 weight: 100
 url: /ru/net/aspose.font.ttf/ttffont/issymbolic/
 ---
 ## TtfFont.IsSymbolic property
 
-Возвращает true, если Font является символьным.
+Возвращает true, если шрифт является символическим.
 
 ```csharp
 public bool IsSymbolic { get; }

@@ -1,14 +1,14 @@
 ---
 title: Ascender
 second_title: Справочник по API Aspose.Font для .NET
-description: Получает значение по возрастанию для Font в единицах шрифта.
+description: Получает значение по возрастанию шрифта в единицах шрифта.
 type: docs
 weight: 10
 url: /ru/net/aspose.font/ifontmetrics/ascender/
 ---
 ## IFontMetrics.Ascender property
 
-Получает значение по возрастанию для Font в единицах шрифта.
+Получает значение по возрастанию шрифта в единицах шрифта.
 
 ```csharp
 public double Ascender { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: GetGlyphWidth
 second_title: Aspose.Font for .NET API 参考
-description: 按字形 ID 返回字形宽度
+description: 按字形 id 返回字形宽度
 type: docs
 weight: 100
 url: /zh/net/aspose.font.ttf/ttffontmetrics/getglyphwidth/
 ---
 ## TtfFontMetrics.GetGlyphWidth method
 
-按字形 ID 返回字形宽度。
+按字形 id 返回字形宽度。
 
 ```csharp
 public override double GetGlyphWidth(GlyphId glyphId)

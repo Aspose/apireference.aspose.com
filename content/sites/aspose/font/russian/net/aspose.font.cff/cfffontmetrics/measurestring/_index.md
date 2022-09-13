@@ -16,7 +16,7 @@ public override double MeasureString(string unicode, double fontSize)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| unicode | String | Строка Unicode. |
+| unicode | String | Строка Юникода. |
 | fontSize | Double | Размер шрифта. |
 
 ### Возвращаемое значение

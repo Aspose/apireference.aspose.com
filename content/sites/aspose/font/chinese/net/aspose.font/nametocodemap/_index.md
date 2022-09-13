@@ -26,7 +26,7 @@ public class NameToCodeMap
 
 | 姓名 | 描述 |
 | --- | --- |
-| [ContainsKey](../../aspose.font/nametocodemap/containskey)(string) | 如果键已经在映射中，则返回 true。 |
+| [ContainsKey](../../aspose.font/nametocodemap/containskey)(string) | 如果键已经在地图中，则返回 true。 |
 
 ### 也可以看看
 

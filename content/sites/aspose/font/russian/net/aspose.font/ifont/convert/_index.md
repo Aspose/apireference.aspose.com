@@ -16,7 +16,7 @@ public Font Convert(FontType fontType)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| fontType | FontType | тип для преобразования шрифта в |
+| fontType | FontType | тип для преобразования в шрифт в |
 
 ### Возвращаемое значение
 

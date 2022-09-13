@@ -1,14 +1,14 @@
 ---
 title: TtcFontSource
 second_title: Aspose.Font for .NET API 参考
-description: 基于 IStreamSource 流提供对象创建 TTC 字体源
+description: 基于提供对象的 IStreamSource 流创建 TTC 字体源
 type: docs
 weight: 10
 url: /zh/net/aspose.font.ttf/ttcfontsource/ttcfontsource/
 ---
 ## TtcFontSource(StreamSource) {#constructor}
 
-基于 IStreamSource 流提供对象创建 TTC 字体源。
+基于提供对象的 IStreamSource 流创建 TTC 字体源。
 
 ```csharp
 public TtcFontSource(StreamSource source)
@@ -16,7 +16,7 @@ public TtcFontSource(StreamSource source)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| source | StreamSource | 要从中提取 TTC 字体集合数据的源流。 |
+| source | StreamSource | 从中提取 TTC 字体集合数据的源流。 |
 
 ### 也可以看看
 

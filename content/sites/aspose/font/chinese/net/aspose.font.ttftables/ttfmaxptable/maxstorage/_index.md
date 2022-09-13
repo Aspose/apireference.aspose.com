@@ -1,14 +1,14 @@
 ---
 title: MaxStorage
 second_title: Aspose.Font for .NET API 参考
-description: 获取 uint16 maxStorage 数量的存储区位置
+description: 获取 uint16 maxStorage 存储区位置数
 type: docs
 weight: 110
 url: /zh/net/aspose.font.ttftables/ttfmaxptable/maxstorage/
 ---
 ## TtfMaxpTable.MaxStorage property
 
-获取 uint16 maxStorage 数量的存储区位置。
+获取 uint16 maxStorage 存储区位置数。
 
 ```csharp
 public ushort MaxStorage { get; }

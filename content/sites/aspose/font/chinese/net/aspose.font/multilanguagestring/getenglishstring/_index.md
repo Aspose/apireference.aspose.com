@@ -3,7 +3,7 @@ title: GetEnglishString
 second_title: Aspose.Font for .NET API 参考
 description: 如果找到则返回英文字符串 否则返回第一个非英文字符串
 type: docs
-weight: 50
+weight: 70
 url: /zh/net/aspose.font/multilanguagestring/getenglishstring/
 ---
 ## MultiLanguageString.GetEnglishString method
@@ -16,7 +16,7 @@ public string GetEnglishString()
 
 ### 返回值
 
-如果找到英文字符串，否则第一个非英文字符串。
+如果找到英文字符串，否则为第一个非英文字符串。
 
 ### 也可以看看
 

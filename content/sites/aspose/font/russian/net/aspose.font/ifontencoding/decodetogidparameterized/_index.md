@@ -1,14 +1,14 @@
 ---
 title: DecodeToGidParameterized
 second_title: Справочник по API Aspose.Font для .NET
-description: Метод параметризованного декодирования. Некоторые типы шрифтов могут иметь несколько алгоритмов/карт кодирования. Итак интерфейсIEncodingParametersaspose.font/iencodingparametersиспользуется для создания конкретных параметров кодировки шрифта.
+description: Метод параметризованного декодирования. Некоторые типы шрифтов могут иметь несколько алгоритмов/карт кодирования. ИтакIEncodingParametersaspose.font/iencodingparameters интерфейс используется для создания конкретных параметров кодировки шрифта.
 type: docs
 weight: 20
 url: /ru/net/aspose.font/ifontencoding/decodetogidparameterized/
 ---
 ## IFontEncoding.DecodeToGidParameterized method
 
-Метод параметризованного декодирования. Некоторые типы шрифтов могут иметь несколько алгоритмов/карт кодирования. Итак, интерфейс[`IEncodingParameters`](../../iencodingparameters)используется для создания конкретных параметров кодировки шрифта.
+Метод параметризованного декодирования. Некоторые типы шрифтов могут иметь несколько алгоритмов/карт кодирования. Итак,[`IEncodingParameters`](../../iencodingparameters) интерфейс используется для создания конкретных параметров кодировки шрифта.
 
 ```csharp
 public GlyphId DecodeToGidParameterized(IEncodingParameters parameters, uint charCode)
@@ -16,12 +16,12 @@ public GlyphId DecodeToGidParameterized(IEncodingParameters parameters, uint cha
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| parameters | IEncodingParameters | Реализация интерфейса[`IEncodingParameters`](../../iencodingparameters). |
+| parameters | IEncodingParameters | Реализация[`IEncodingParameters`](../../iencodingparameters) интерфейс. |
 | charCode | UInt32 | Код символа, для которого нужно получить идентификатор глифа. |
 
 ### Возвращаемое значение
 
-Идентификатор глифа, относящийся к переданному символьному коду.
+Идентификатор глифа, связанный с переданным кодом символа.
 
 ### Смотрите также
 

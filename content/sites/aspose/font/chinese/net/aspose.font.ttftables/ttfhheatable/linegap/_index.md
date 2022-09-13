@@ -1,14 +1,14 @@
 ---
 title: LineGap
 second_title: Aspose.Font for .NET API 参考
-description: 获取 lineGap
+description: 获取 lineGap.
 type: docs
 weight: 60
 url: /zh/net/aspose.font.ttftables/ttfhheatable/linegap/
 ---
 ## TtfHheaTable.LineGap property
 
-获取 lineGap。
+获取 lineGap.
 
 ```csharp
 public short LineGap { get; }
@@ -16,7 +16,7 @@ public short LineGap { get; }
 
 ### 适当的价值
 
-lineGap。
+线隙。
 
 ### 也可以看看
 

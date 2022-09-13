@@ -1,14 +1,14 @@
 ---
 title: CaretSlopeRise
 second_title: Справочник по API Aspose.Font для .NET
-description: Получает помойку по каретке.
+description: Получает повышение наклона каретки.
 type: docs
 weight: 30
 url: /ru/net/aspose.font.ttftables/ttfhheatable/caretsloperise/
 ---
 ## TtfHheaTable.CaretSlopeRise property
 
-Получает помойку по каретке.
+Получает повышение наклона каретки.
 
 ```csharp
 public short CaretSlopeRise { get; }
@@ -16,7 +16,7 @@ public short CaretSlopeRise { get; }
 
 ### Стоимость имущества
 
-Подъем каре.
+Каретный отстой поднимается.
 
 ### Смотрите также
 

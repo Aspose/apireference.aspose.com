@@ -1,12 +1,12 @@
 ---
 title: Aspose.Font.TtfCMapFormats
 second_title: Справочник по API Aspose.Font для .NET
-description: Пространство имен Aspose.Font.TtfCMapFormats предоставляет классы для работы с различными форматами подтаблиц CMap.
+description: Aspose.Font.TtfCMapFormatsnamespace предоставляет классы для работы с различными форматами подтаблиц CMap.
 type: docs
 weight: 110
 url: /ru/net/aspose.font.ttfcmapformats/
 ---
-Пространство имен **Aspose.Font.TtfCMapFormats** предоставляет классы для работы с различными форматами подтаблиц CMap.
+**Aspose.Font.TtfCMapFormats**namespace предоставляет классы для работы с различными форматами подтаблиц CMap.
 
 ## Классы
 

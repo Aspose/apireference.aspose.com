@@ -18,10 +18,10 @@ public class TtfEncoding : IFontEncoding
 
 | Имя | Описание |
 | --- | --- |
-| [DecodeToGid](../../aspose.font.ttf/ttfencoding/decodetogid)(uint) | Реализация DecodeToGlyphId TTF Font находит таблицу юникода и возвращает идентификатор глифа для символа юникода. Идентификатор глифа — это уникальный номер глифа, который зависит от типа шрифта. Например: Идентификатор Type1 — это имя глифа, экземпляр класса ([`GlyphStringId`](../../aspose.font.glyphs/glyphstringid)). Идентификатор TTF является индексом int, экземпляром класса ([`GlyphUInt32Id`](../../aspose.font.glyphs/glyphuint32id)). |
-| [DecodeToGidParameterized](../../aspose.font.ttf/ttfencoding/decodetogidparameterized)(IEncodingParameters, uint) | Параметризованная версия позволяет использовать определенную таблицу CMap (не юникод). |
-| [Encode](../../aspose.font.ttf/ttfencoding/encode)(uint, uint) | Кодирует глиф. Для шрифтов TTF код символа - unicode. |
-| [GidToUnicode](../../aspose.font.ttf/ttfencoding/gidtounicode)(GlyphId) | Декодирует идентификатор глифа в юникод. Идентификатор глифа — это уникальный номер глифа, который зависит от типа шрифта. Например: Идентификатор Type1 — это имя глифа, экземпляр класса ([`GlyphStringId`](../../aspose.font.glyphs/glyphstringid)). Идентификатор TTF является индексом int, экземпляром класса ([`GlyphUInt32Id`](../../aspose.font.glyphs/glyphuint32id)). |
+| [DecodeToGid](../../aspose.font.ttf/ttfencoding/decodetogid)(uint) | Реализация DecodeToGlyphId шрифта TTF находит таблицу юникода и возвращает идентификатор глифа для символа юникода. Идентификатор глифа — это уникальный номер глифа, который зависит от типа шрифта.[`GlyphStringId`](../../aspose.font.glyphs/glyphstringid)) class. Идентификатор TTF является индексом int, экземпляром ([`GlyphUInt32Id`](../../aspose.font.glyphs/glyphuint32id) класс. |
+| [DecodeToGidParameterized](../../aspose.font.ttf/ttfencoding/decodetogidparameterized)(IEncodingParameters, uint) | Параметризованная версия позволяет использовать определенную таблицу CMap (не Unicode). |
+| [Encode](../../aspose.font.ttf/ttfencoding/encode)(uint, uint) | Кодирует глиф. Для шрифтов TTF код символа — unicode. |
+| [GidToUnicode](../../aspose.font.ttf/ttfencoding/gidtounicode)(GlyphId) | Декодирует идентификатор глифа в Unicode. Идентификатор глифа — это уникальный номер глифа, который зависит от типа шрифта.[`GlyphStringId`](../../aspose.font.glyphs/glyphstringid)) class. Идентификатор TTF является индексом int, экземпляром ([`GlyphUInt32Id`](../../aspose.font.glyphs/glyphuint32id) класс. |
 | [UnicodeToGid](../../aspose.font.ttf/ttfencoding/unicodetogid)(uint) | Декодирует юникод и возвращает идентификатор глифа. |
 
 ### Смотрите также

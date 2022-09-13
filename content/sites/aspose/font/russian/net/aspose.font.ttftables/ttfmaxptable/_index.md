@@ -3,12 +3,12 @@ title: TtfMaxpTable
 second_title: Справочник по API Aspose.Font для .NET
 description: Представляет таблицу maxp файла шрифта TTF.
 type: docs
-weight: 880
+weight: 890
 url: /ru/net/aspose.font.ttftables/ttfmaxptable/
 ---
 ## TtfMaxpTable class
 
-Представляет таблицу "maxp" файла шрифта TTF.
+Представляет таблицу «maxp» файла шрифта TTF.
 
 ```csharp
 public class TtfMaxpTable : TtfTableBase
@@ -19,22 +19,23 @@ public class TtfMaxpTable : TtfTableBase
 | Имя | Описание |
 | --- | --- |
 | [MaxComponentContours](../../aspose.font.ttftables/ttfmaxptable/maxcomponentcontours) { get; } | Получает контуры uint16 maxComponentContours в составном глифе. |
-| [MaxComponentDepth](../../aspose.font.ttftables/ttfmaxptable/maxcomponentdepth) { get; } | Получает uint16 уровней рекурсии maxComponentDepth, устанавливается равным 0, если шрифт содержит только простые глифы. |
-| [MaxComponentElements](../../aspose.font.ttftables/ttfmaxptable/maxcomponentelements) { get; } | Получает uint16 maxComponentElements количество глифов, на которые имеются ссылки на верхнем уровне. |
+| [MaxComponentDepth](../../aspose.font.ttftables/ttfmaxptable/maxcomponentdepth) { get; } | Получает уровни рекурсии uint16 maxComponentDepth, устанавливается равным 0, если шрифт содержит только простые глифы. |
+| [MaxComponentElements](../../aspose.font.ttftables/ttfmaxptable/maxcomponentelements) { get; } | Получает uint16 maxComponentElements количество глифов, на которые есть ссылки на верхнем уровне. |
 | [MaxComponentPoints](../../aspose.font.ttftables/ttfmaxptable/maxcomponentpoints) { get; } | Получает uint16 точек maxComponentPoints в составном глифе. |
-| [MaxContours](../../aspose.font.ttftables/ttfmaxptable/maxcontours) { get; } | Получает uint16 контуров maxContours в несоставном глифе. |
+| [MaxContours](../../aspose.font.ttftables/ttfmaxptable/maxcontours) { get; } | Получает контуры uint16 maxContours в несоставном глифе. |
 | [MaxFunctionDefs](../../aspose.font.ttftables/ttfmaxptable/maxfunctiondefs) { get; } | Получает uint16 maxFunctionDefs число FDEF. |
 | [MaxInstructionDefs](../../aspose.font.ttftables/ttfmaxptable/maxinstructiondefs) { get; } | Получает uint16 maxInstructionDefs число IDEF. |
-| [MaxPoints](../../aspose.font.ttftables/ttfmaxptable/maxpoints) { get; } | Получает uint16 точек maxPoints в несоставном глифе. |
-| [MaxSizeOfInstructions](../../aspose.font.ttftables/ttfmaxptable/maxsizeofinstructions) { get; } | Получает uint16 maxSizeOfInstructions количество байтов для инструкций глифа. |
-| [MaxStackElements](../../aspose.font.ttftables/ttfmaxptable/maxstackelements) { get; } | Получает uint16 maxStackElements максимальную глубину стека. |
+| [MaxPoints](../../aspose.font.ttftables/ttfmaxptable/maxpoints) { get; } | Получает uint16 очков maxPoints в несоставном глифе. |
+| [MaxSizeOfInstructions](../../aspose.font.ttftables/ttfmaxptable/maxsizeofinstructions) { get; } | Получает количество байтов uint16 maxSizeOfInstructions для инструкций глифов. |
+| [MaxStackElements](../../aspose.font.ttftables/ttfmaxptable/maxstackelements) { get; } | Получает максимальную глубину стека uint16 maxStackElements. |
 | [MaxStorage](../../aspose.font.ttftables/ttfmaxptable/maxstorage) { get; } | Получает uint16 maxStorage число мест в области хранения. |
 | [MaxTwilightPoints](../../aspose.font.ttftables/ttfmaxptable/maxtwilightpoints) { get; } | Получает uint16 очков maxTwilightPoints, используемых в Twilight Zone (Z0). |
-| [MaxZones](../../aspose.font.ttftables/ttfmaxptable/maxzones) { get; } | Устанавливает для uint16 maxZones значение 2. |
+| [MaxZones](../../aspose.font.ttftables/ttfmaxptable/maxzones) { get; } | Получает для uint16 maxZones значение 2. |
 | [NumGlyphs](../../aspose.font.ttftables/ttfmaxptable/numglyphs) { get; } | Получает uint16 numGlyphs количество глифов в шрифте. |
 | [Offset](../../aspose.font.ttftables/ttftablebase/offset) { get; } | Получает смещение от начала sfnt. |
+| [TableVersion](../../aspose.font.ttftables/ttfmaxptable/tableversion) { get; } | Получает версию формата. Использовать свойства MajorNumber и MinorNumber объекта[`Version16Dot16`](../../aspose.font.ttfcommon/version16dot16) в шестнадцатеричном представлении для определения используемой версии. |
 | [TtfTables](../../aspose.font.ttftables/ttftablebase/ttftables) { get; } | Ссылка на репозиторий таблиц TTF. |
-| [Version](../../aspose.font.ttftables/ttfmaxptable/version) { get; } | Получает фиксированную версию 0x00010000 if (версия 1.0). |
+| [Version](../../aspose.font.ttftables/ttfmaxptable/version) { get; } | Получает фиксированную версию 0x00010000 if (версия 1.0). Устарело, используйте[`TableVersion`](./tableversion)вместо свойства . |
 | static [Tag](../../aspose.font.ttftables/ttfmaxptable/tag) { get; } | Получает тег таблицы. |
 
 ### Смотрите также

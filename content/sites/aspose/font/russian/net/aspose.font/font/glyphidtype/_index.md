@@ -1,14 +1,14 @@
 ---
 title: GlyphIdType
 second_title: Справочник по API Aspose.Font для .NET
-description: Спецификация типа идентификатора глифа. Для потребителей которым необходимо знать реальный тип bytes.
+description: Спецификация типа идентификатора Glyph. Для потребителей которым необходимо знать реальный тип bytes.
 type: docs
 weight: 110
 url: /ru/net/aspose.font/font/glyphidtype/
 ---
 ## Font.GlyphIdType property
 
-Спецификация типа идентификатора глифа. Для потребителей, которым необходимо знать реальный тип 'bytes[]'.
+Спецификация типа идентификатора Glyph. Для потребителей, которым необходимо знать реальный тип 'bytes[]'.
 
 ```csharp
 public abstract GlyphIdType GlyphIdType { get; }

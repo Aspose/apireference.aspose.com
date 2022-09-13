@@ -14,13 +14,20 @@ url: /zh/net/aspose.font/multilanguagestring/
 public class MultiLanguageString
 ```
 
+## 构造函数
+
+| 姓名 | 描述 |
+| --- | --- |
+| [MultiLanguageString](multilanguagestring)() | 创建空的多语言字符串。 |
+
 ## 方法
 
 | 姓名 | 描述 |
 | --- | --- |
+| [AddLanguageString](../../aspose.font/multilanguagestring/addlanguagestring)(string, int) | 添加特定语言的字符串 |
 | [ContainsString](../../aspose.font/multilanguagestring/containsstring)(string) | 如果字符串存在于所有语言字符串中，则返回 true。 |
 | override [Equals](../../aspose.font/multilanguagestring/equals)(object) | 如果对象被认为相等，则返回 true。 |
-| [GetAllLanguageIds](../../aspose.font/multilanguagestring/getalllanguageids)() | 获取所有字符串的语言标识符，如果没有字符串，则为空数组 |
+| [GetAllLanguageIds](../../aspose.font/multilanguagestring/getalllanguageids)() | 获取所有字符串的语言标识符，如果没有字符串，则获取空数组 |
 | [GetAllStrings](../../aspose.font/multilanguagestring/getallstrings)() | 返回所有语言的所有字符串。 |
 | [GetEnglishString](../../aspose.font/multilanguagestring/getenglishstring)() | 如果找到则返回英文字符串。 否则返回第一个非英文字符串。 |
 | override [GetHashCode](../../aspose.font/multilanguagestring/gethashcode)() | GetHashCode 实现。 |

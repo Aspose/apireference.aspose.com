@@ -16,7 +16,7 @@ public short LineGap { get; }
 
 ### Стоимость имущества
 
-LineGap.
+ЛинияGap.
 
 ### Смотрите также
 

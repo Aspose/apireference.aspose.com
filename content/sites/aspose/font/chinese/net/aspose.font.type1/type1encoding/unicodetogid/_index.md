@@ -1,14 +1,14 @@
 ---
 title: UnicodeToGid
 second_title: Aspose.Font for .NET API 参考
-description: 返回 unicode 的 GlyphId或者 notdef 如果字体不包含 unicode 的字形 Glyph id 是字形的唯一编号它取决于字体类型 例如 Type1 的 id 是一个字形名称是 GlyphStringIdaspose.font.glyphs/glyphstringid 类的实例 TTF 的 id 是一个 int 索引是 GlyphUInt32Idaspose.font.glyphs/glyphuint32id 类的实例
+description: 返回 unicode 的 GlyphId或者 notdef 如果字体不包含 unicode 的字形 字形 id 是字形的唯一编号取决于字体类型 例如 Type1 的 id 是字形名称例如 GlyphStringIdaspose.font.glyphs/glyphstringid class. TTF 的 id 是一个 int 索引实例为 GlyphUInt32Idaspose.font.glyphs/glyphuint32id 类.
 type: docs
 weight: 60
 url: /zh/net/aspose.font.type1/type1encoding/unicodetogid/
 ---
 ## Type1Encoding.UnicodeToGid method
 
-返回 unicode 的 GlyphId。或者 notdef 如果字体不包含 unicode 的字形。 Glyph id 是字形的唯一编号，它取决于字体类型。 例如： Type1 的 id 是一个字形名称，是 ([`GlyphStringId`](../../../aspose.font.glyphs/glyphstringid)) 类的实例。 TTF 的 id 是一个 int 索引，是 ([`GlyphUInt32Id`](../../../aspose.font.glyphs/glyphuint32id)) 类的实例。
+返回 unicode 的 GlyphId。或者 notdef 如果字体不包含 unicode 的字形。 字形 id 是字形的唯一编号，取决于字体类型。 例如： Type1 的 id 是字形名称，例如 ([`GlyphStringId`](../../../aspose.font.glyphs/glyphstringid)) class. TTF 的 id 是一个 int 索引，实例为 ([`GlyphUInt32Id`](../../../aspose.font.glyphs/glyphuint32id) 类.
 
 ```csharp
 public GlyphId UnicodeToGid(uint unicode)
@@ -16,7 +16,7 @@ public GlyphId UnicodeToGid(uint unicode)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| unicode | UInt32 | Unicode 获取字形标识符。 |
+| unicode | UInt32 | 用于获取字形标识符的 Unicode。 |
 
 ### 返回值
 

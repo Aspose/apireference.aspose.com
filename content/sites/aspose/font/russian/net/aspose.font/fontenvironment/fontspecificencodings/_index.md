@@ -1,14 +1,14 @@
 ---
 title: FontSpecificEncodings
 second_title: Справочник по API Aspose.Font для .NET
-description: Сохраняет определенные кодировки для шрифтов ориентированных на потребителя. Например в документах PDF используются специальные кодировки Adobe Symbol и ZapfDingbats.
+description: Хранит определенные кодировки для потребительских шрифтов. Например в документах PDF используются специальные кодировки Adobe Symbol и ZapfDingbats.
 type: docs
 weight: 30
 url: /ru/net/aspose.font/fontenvironment/fontspecificencodings/
 ---
 ## FontEnvironment.FontSpecificEncodings property
 
-Сохраняет определенные кодировки для шрифтов, ориентированных на потребителя. Например, в документах PDF используются специальные кодировки Adobe Symbol и ZapfDingbats.
+Хранит определенные кодировки для потребительских шрифтов. Например, в документах PDF используются специальные кодировки Adobe Symbol и ZapfDingbats.
 
 ```csharp
 public FontSpecificEncodings FontSpecificEncodings { get; }

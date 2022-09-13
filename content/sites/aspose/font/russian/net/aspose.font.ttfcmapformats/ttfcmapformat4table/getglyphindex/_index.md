@@ -16,7 +16,7 @@ public override uint GetGlyphIndex(uint charCode)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| charCode | UInt32 | Код символа. |
+| charCode | UInt32 | Код персонажа. |
 
 ### Возвращаемое значение
 

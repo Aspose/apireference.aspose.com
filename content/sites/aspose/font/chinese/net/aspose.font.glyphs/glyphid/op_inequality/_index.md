@@ -1,14 +1,14 @@
 ---
 title: op_Inequality
 second_title: Aspose.Font for .NET API 参考
-description: 如果两个字形 ID 不相等则返回 true
+description: 如果两个字形 id 不相等则返回 true
 type: docs
 weight: 70
 url: /zh/net/aspose.font.glyphs/glyphid/op_inequality/
 ---
 ## GlyphId Inequality operator
 
-如果两个字形 ID 不相等，则返回 true。
+如果两个字形 id 不相等，则返回 true。
 
 ```csharp
 public static bool operator !=(GlyphId obj1, object obj2)

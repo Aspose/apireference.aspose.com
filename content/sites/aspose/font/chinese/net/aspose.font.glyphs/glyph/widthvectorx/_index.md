@@ -1,14 +1,14 @@
 ---
 title: WidthVectorX
 second_title: Aspose.Font for .NET API 参考
-description: 获取字形宽度向量坐标 x
+description: 获取字形宽度向量坐标x.
 type: docs
 weight: 80
 url: /zh/net/aspose.font.glyphs/glyph/widthvectorx/
 ---
 ## Glyph.WidthVectorX property
 
-获取字形宽度向量。坐标 x。
+获取字形宽度向量。坐标x.
 
 ```csharp
 public double WidthVectorX { get; }

@@ -1,14 +1,14 @@
 ---
 title: GlyphIdType
 second_title: Aspose.Font for .NET API 参考
-description: 字形标识类型规范
+description: 字形 id 类型规范
 type: docs
 weight: 80
 url: /zh/net/aspose.font.type1/type1font/glyphidtype/
 ---
 ## Type1Font.GlyphIdType property
 
-字形标识类型规范。
+字形 id 类型规范。
 
 ```csharp
 public override GlyphIdType GlyphIdType { get; }

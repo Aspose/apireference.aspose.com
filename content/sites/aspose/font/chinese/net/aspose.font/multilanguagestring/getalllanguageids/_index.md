@@ -1,14 +1,14 @@
 ---
 title: GetAllLanguageIds
 second_title: Aspose.Font for .NET API 参考
-description: 获取所有字符串的语言标识符如果没有字符串则为空数组
+description: 获取所有字符串的语言标识符如果没有字符串则获取空数组
 type: docs
-weight: 30
+weight: 50
 url: /zh/net/aspose.font/multilanguagestring/getalllanguageids/
 ---
 ## MultiLanguageString.GetAllLanguageIds method
 
-获取所有字符串的语言标识符，如果没有字符串，则为空数组
+获取所有字符串的语言标识符，如果没有字符串，则获取空数组
 
 ```csharp
 public int[] GetAllLanguageIds()
@@ -16,7 +16,7 @@ public int[] GetAllLanguageIds()
 
 ### 返回值
 
-具有语言标识符的数组或空数组，如果没有字符串存在
+带有语言标识符的数组或空数组（如果不存在字符串）
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: TtfHmtxTable.LongHorMetric
 second_title: Справочник по API Aspose.Font для .NET
-description: Представляет запись метрик.
+description: Представляет запись показателей.
 type: docs
-weight: 840
+weight: 850
 url: /ru/net/aspose.font.ttftables/ttfhmtxtable.longhormetric/
 ---
 ## TtfHmtxTable.LongHorMetric structure
 
-Представляет запись метрик.
+Представляет запись показателей.
 
 ```csharp
 public struct LongHorMetric

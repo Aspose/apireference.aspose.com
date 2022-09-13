@@ -3,7 +3,7 @@ title: Equals
 second_title: Aspose.Font for .NET API 参考
 description: 如果对象被认为相等则返回 true
 type: docs
-weight: 20
+weight: 40
 url: /zh/net/aspose.font/multilanguagestring/equals/
 ---
 ## MultiLanguageString.Equals method
@@ -16,7 +16,7 @@ public override bool Equals(object objToCompare)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| objToCompare | Object | 对象与 |
+| objToCompare | Object | 比较对象 |
 
 ### 返回值
 

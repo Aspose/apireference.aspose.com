@@ -1,14 +1,14 @@
 ---
 title: ToArray
 second_title: Aspose.Font for .NET API 参考
-description: 分配新数组复制变换矩阵并返回
+description: 分配新数组复制变换矩阵并返回它
 type: docs
 weight: 110
 url: /zh/net/aspose.font/transformationmatrix/toarray/
 ---
 ## TransformationMatrix.ToArray method
 
-分配新数组，复制变换矩阵并返回。
+分配新数组，复制变换矩阵并返回它。
 
 ```csharp
 public double[] ToArray()

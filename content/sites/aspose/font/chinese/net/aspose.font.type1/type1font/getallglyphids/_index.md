@@ -1,14 +1,14 @@
 ---
 title: GetAllGlyphIds
 second_title: Aspose.Font for .NET API 参考
-description: 返回字体中可用的所有字形 ID 的数组 Glyph id 是字形的唯一编号它取决于字体类型 Type1 字体字形 ID 可以是 GlyphStringIdaspose.font.glyphs/glyphstringid 类或 GlyphUInt32Idaspose.font.glyphs/glyphuint32id 类的实例.
+description: 返回所有字形 ID 的数组在字体中可用 字形 ID 是字形的唯一编号取决于字体类型 Type1 字体字形 ID 可以是 GlyphStringIdaspose.font.glyphs/glyphstringid 类或 GlyphUInt32Idaspose.font.glyphs/glyphuint32id 类.
 type: docs
 weight: 140
 url: /zh/net/aspose.font.type1/type1font/getallglyphids/
 ---
 ## Type1Font.GetAllGlyphIds method
 
-返回字体中可用的所有字形 ID 的数组。 Glyph id 是字形的唯一编号，它取决于字体类型。 Type1 字体字形 ID 可以是 ([`GlyphStringId`](../../../aspose.font.glyphs/glyphstringid)) 类或 ([`GlyphUInt32Id`](../../../aspose.font.glyphs/glyphuint32id)) 类的实例.
+返回所有字形 ID 的数组，在字体中可用。 字形 ID 是字形的唯一编号，取决于字体类型。 Type1 字体字形 ID 可以是 ([`GlyphStringId`](../../../aspose.font.glyphs/glyphstringid)) 类或 ([`GlyphUInt32Id`](../../../aspose.font.glyphs/glyphuint32id) 类.
 
 ```csharp
 public override GlyphId[] GetAllGlyphIds()

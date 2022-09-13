@@ -16,7 +16,7 @@ public void MoveTo(MoveTo moveTo)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| moveTo | MoveTo | MoveTo 参考 |
+| moveTo | MoveTo | 移动到参考 |
 
 ### 也可以看看
 

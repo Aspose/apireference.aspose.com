@@ -1,14 +1,14 @@
 ---
 title: Font
 second_title: Справочник по API Aspose.Font для .NET
-description: Представляет базовый класс Font.
+description: Представляет базовый класс шрифта.
 type: docs
 weight: 120
 url: /ru/net/aspose.font/font/
 ---
 ## Font class
 
-Представляет базовый класс Font.
+Представляет базовый класс шрифта.
 
 ```csharp
 public abstract class Font : IFont, IFontSaver, IGlyphAccessor
@@ -25,12 +25,12 @@ public abstract class Font : IFont, IFontSaver, IGlyphAccessor
 | abstract [FontNames](../../aspose.font/font/fontnames) { get; } | Получает имена шрифтов. |
 | [FontSaver](../../aspose.font/font/fontsaver) { get; } | Получает функцию сохранения шрифта. |
 | abstract [FontStyle](../../aspose.font/font/fontstyle) { get; } | Получает стиль шрифта. Это значение вычисляется и представляется в обобщенном виде. |
-| abstract [FontType](../../aspose.font/font/fonttype) { get; } | Получает тип шрифта.  Type1, TrueType и т. д. |
+| abstract [FontType](../../aspose.font/font/fonttype) { get; } | Получает тип шрифта. Тип1, TrueType и т. д. |
 | [GlyphAccessor](../../aspose.font/font/glyphaccessor) { get; } | Аксессуар глифа шрифта. Извлекает глифы и идентификаторы глифов. |
-| abstract [GlyphIdType](../../aspose.font/font/glyphidtype) { get; } | Спецификация типа идентификатора глифа. Для потребителей, которым необходимо знать реальный тип 'bytes[]'. |
+| abstract [GlyphIdType](../../aspose.font/font/glyphidtype) { get; } | Спецификация типа идентификатора Glyph. Для потребителей, которым необходимо знать реальный тип 'bytes[]'. |
 | abstract [Metrics](../../aspose.font/font/metrics) { get; } | Получает метрики шрифта. |
 | abstract [NumGlyphs](../../aspose.font/font/numglyphs) { get; } | Получает количество глифов в шрифте. |
-| abstract [PostscriptNames](../../aspose.font/font/postscriptnames) { get; } | Получает постскриптумные имена шрифтов. |
+| abstract [PostscriptNames](../../aspose.font/font/postscriptnames) { get; } | Получает имена шрифтов postscript. |
 | abstract [Style](../../aspose.font/font/style) { get; set; } | Получает или устанавливает стиль шрифта. Это необработанное строковое значение, предоставленное файлом шрифта. |
 
 ## Методы
@@ -42,8 +42,8 @@ public abstract class Font : IFont, IFontSaver, IGlyphAccessor
 | static [Open](../../aspose.font/font/open#open)(FontType, StreamSource) | Открывает шрифт, используя тип шрифта и источник потока. |
 | static [Open](../../aspose.font/font/open#open_2)(FontType, string) | Открывает шрифт, используя тип шрифта и имя файла шрифта. |
 | abstract [Convert](../../aspose.font/font/convert)(FontType) | Преобразует шрифт в другой формат. |
-| abstract [GetAllGlyphIds](../../aspose.font/font/getallglyphids)() | Возвращает все идентификаторы глифов, доступные в шрифте. Идентификатор глифа — это уникальный номер глифа, который зависит от типа шрифта. Например: Идентификатор Type1 — это имя глифа, экземпляр класса ([`GlyphStringId`](../../aspose.font.glyphs/glyphstringid)). Идентификатор TTF является индексом int, экземпляром класса ([`GlyphUInt32Id`](../../aspose.font.glyphs/glyphuint32id)). |
-| abstract [GetGlyphById](../../aspose.font/font/getglyphbyid)(GlyphId) | Возвращает глиф по идентификатору глифа. Идентификатор глифа — это уникальный номер глифа, который зависит от типа шрифта. GlyphId — производный объект. Например: Идентификатор Type1 — это имя глифа, экземпляр класса ([`GlyphStringId`](../../aspose.font.glyphs/glyphstringid)). Идентификатор TTF является индексом int, экземпляром класса ([`GlyphUInt32Id`](../../aspose.font.glyphs/glyphuint32id)). |
+| abstract [GetAllGlyphIds](../../aspose.font/font/getallglyphids)() | Возвращает все идентификаторы глифов, доступные в шрифте. Идентификатор глифа — это уникальный номер глифа, который зависит от типа шрифта. Например: id Type1 — это имя глифа, экземпляр[`GlyphStringId`](../../aspose.font.glyphs/glyphstringid)) class. Идентификатор TTF является индексом int, экземпляром ([`GlyphUInt32Id`](../../aspose.font.glyphs/glyphuint32id) класс. |
+| abstract [GetGlyphById](../../aspose.font/font/getglyphbyid)(GlyphId) | Возвращает глиф по идентификатору глифа. Идентификатор глифа — это уникальный номер для глифа, который зависит от типа шрифта. GlyphId — производный объект. Например: Идентификатор Type1 — это имя глифа, экземпляр ([`GlyphStringId`](../../aspose.font.glyphs/glyphstringid)) class. Идентификатор TTF является индексом int, экземпляром ([`GlyphUInt32Id`](../../aspose.font.glyphs/glyphuint32id) класс. |
 | virtual [GetGlyphsForText](../../aspose.font/font/getglyphsfortext)(string) | Получает представление глифов для текста. |
 | virtual [Save](../../aspose.font/font/save#save)(Stream) | Сохраняет шрифт в исходном формате. |
 | virtual [Save](../../aspose.font/font/save#save_1)(string) | Сохраняет шрифт в исходном формате. |

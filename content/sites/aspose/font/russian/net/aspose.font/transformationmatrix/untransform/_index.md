@@ -16,8 +16,8 @@ public void UnTransform(double x1, double y1, out double x, out double y)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| x1 | Double | Координата x1. |
-| y1 | Double | Координата y1. |
+| x1 | Double | Координата х1. |
+| y1 | Double | Координата у1. |
 | x | Double& | Координата x преобразована обратно. |
 | y | Double& | Координата y преобразована обратно. |
 

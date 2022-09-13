@@ -3,7 +3,7 @@ title: FontSpecificEncodings
 second_title: Aspose.Font for .NET API 参考
 description: 表示消费者感知字体的特定编码
 type: docs
-weight: 1030
+weight: 1040
 url: /zh/net/aspose.font.type1/fontspecificencodings/
 ---
 ## FontSpecificEncodings class

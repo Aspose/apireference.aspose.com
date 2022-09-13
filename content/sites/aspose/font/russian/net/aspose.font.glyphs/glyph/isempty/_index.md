@@ -1,14 +1,14 @@
 ---
 title: IsEmpty
 second_title: Справочник по API Aspose.Font для .NET
-description: Истинно если глиф не содержит инструкции по рисованию.
+description: Истинно если глиф не содержит инструкций по рисованию.
 type: docs
 weight: 20
 url: /ru/net/aspose.font.glyphs/glyph/isempty/
 ---
 ## Glyph.IsEmpty property
 
-Истинно, если глиф не содержит инструкции по рисованию.
+Истинно, если глиф не содержит инструкций по рисованию.
 
 ```csharp
 public bool IsEmpty { get; }

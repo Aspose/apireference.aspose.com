@@ -1,7 +1,7 @@
 ---
 title: Count
 second_title: Справочник по API Aspose.Font для .NET
-description: Получает количество пар имя-код на карте.
+description: Получает количество пар имякод на карте.
 type: docs
 weight: 10
 url: /ru/net/aspose.font/nametocodemap/count/

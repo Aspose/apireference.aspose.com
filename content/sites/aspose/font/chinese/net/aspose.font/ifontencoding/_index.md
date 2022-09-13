@@ -1,14 +1,14 @@
 ---
 title: IFontEncoding
 second_title: Aspose.Font for .NET API 参考
-description: 定义字体编码接口
+description: 定义字体编码的接口
 type: docs
 weight: 330
 url: /zh/net/aspose.font/ifontencoding/
 ---
 ## IFontEncoding interface
 
-定义字体编码接口。
+定义字体编码的接口。
 
 ```csharp
 public interface IFontEncoding
@@ -18,11 +18,11 @@ public interface IFontEncoding
 
 | 姓名 | 描述 |
 | --- | --- |
-| [DecodeToGid](../../aspose.font/ifontencoding/decodetogid)(uint) | 解码字符代码并返回字形 id。 Glyph id 是字形的唯一编号，它取决于字体类型。 例如： Type1 的 id 是一个字形名称，是 ([`GlyphStringId`](../../aspose.font.glyphs/glyphstringid)) 类的实例。 TTF 的 id 是一个 int 索引，是 ([`GlyphUInt32Id`](../../aspose.font.glyphs/glyphuint32id)) 类的实例。 注意：字符代码不一定是 unicode。字符代码是字体编码“表”中的字符索引。 |
-| [DecodeToGidParameterized](../../aspose.font/ifontencoding/decodetogidparameterized)(IEncodingParameters, uint) | 参数化解码方法。 某些字体类型可以有多种编码算法/映射。 所以，[`IEncodingParameters`](../iencodingparameters)接口用于创建具体的字体编码参数。 |
-| [Encode](../../aspose.font/ifontencoding/encode)(uint, uint) | 编码字形。 对于 TTF 字体，charCode 是 unicode。 |
-| [GidToUnicode](../../aspose.font/ifontencoding/gidtounicode)(GlyphId) | 将 Gid 解码为 unicode。 Glyph id 是字形的唯一编号，它取决于字体类型。 例如： Type1 的 id 是一个字形名称，是 ([`GlyphStringId`](../../aspose.font.glyphs/glyphstringid)) 类的实例。 TTF 的 id 是一个 int 索引，是 ([`GlyphUInt32Id`](../../aspose.font.glyphs/glyphuint32id)) 类的实例。 |
-| [UnicodeToGid](../../aspose.font/ifontencoding/unicodetogid)(uint) | 解码一个 unicode 并返回 glyph id。 Glyph id 是字形的唯一编号，它取决于字体类型。 例如： Type1 的 id 是一个字形名称，是 ([`GlyphStringId`](../../aspose.font.glyphs/glyphstringid)) 类的实例。 TTF 的 id 是一个 int 索引，是 ([`GlyphUInt32Id`](../../aspose.font.glyphs/glyphuint32id)) 类的实例。 |
+| [DecodeToGid](../../aspose.font/ifontencoding/decodetogid)(uint) | 解码一个字符代码并返回字形id。 字形id是一个字形的唯一编号，它取决于字体类型。 例如： type1的id是一个字形名称，实例为([`GlyphStringId`](../../aspose.font.glyphs/glyphstringid)) class. TTF 的 id 是一个 int 索引，实例为 ([`GlyphUInt32Id`](../../aspose.font.glyphs/glyphuint32id) ) class. 注意：字符代码不一定是 unicode。字符代码是字体编码“表”中的字符索引。 |
+| [DecodeToGidParameterized](../../aspose.font/ifontencoding/decodetogidparameterized)(IEncodingParameters, uint) | 参数化解码方法。 一些字体类型可以有多种编码算法/映射。 所以，[`IEncodingParameters`](../iencodingparameters)接口用于创建具体的字体编码参数。 |
+| [Encode](../../aspose.font/ifontencoding/encode)(uint, uint) | 对字形进行编码。 对于 TTF 字体，charCode 是 unicode。 |
+| [GidToUnicode](../../aspose.font/ifontencoding/gidtounicode)(GlyphId) | 将 Gid 解码为 unicode。 字形 id 是字形的唯一编号，取决于字体类型。 例如： Type1 的 id 是字形名称，实例为 ([`GlyphStringId`](../../aspose.font.glyphs/glyphstringid)) class. TTF 的 id 是一个 int 索引，实例为 ([`GlyphUInt32Id`](../../aspose.font.glyphs/glyphuint32id) 类. |
+| [UnicodeToGid](../../aspose.font/ifontencoding/unicodetogid)(uint) | 解码一个unicode并返回字形id。 字形id是一个字形的唯一编号，它取决于字体类型。 例如： type1的id是一个字形名称，实例为([`GlyphStringId`](../../aspose.font.glyphs/glyphstringid)) class. TTF 的 id 是一个 int 索引，实例为 ([`GlyphUInt32Id`](../../aspose.font.glyphs/glyphuint32id) 类. |
 
 ### 也可以看看
 

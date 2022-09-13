@@ -20,7 +20,7 @@ public bool Contains(GlyphId glyphId)
 
 ### 返回值
 
-如果字形 id 在列表中，则为 true，否则为 false
+如果字形 ID 在列表中，则为 true，否则为 false
 
 ### 也可以看看
 

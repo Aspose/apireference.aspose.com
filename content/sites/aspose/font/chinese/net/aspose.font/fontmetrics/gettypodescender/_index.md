@@ -1,14 +1,14 @@
 ---
 title: GetTypoDescender
 second_title: Aspose.Font for .NET API 参考
-description: 返回特定字体大小的降序
+description: 返回特定字体大小的下降器
 type: docs
 weight: 170
 url: /zh/net/aspose.font/fontmetrics/gettypodescender/
 ---
 ## FontMetrics.GetTypoDescender method
 
-返回特定字体大小的降序。
+返回特定字体大小的下降器。
 
 ```csharp
 public virtual double GetTypoDescender(double fontSize)

@@ -113,7 +113,7 @@ public void RenderGlyph(IFont font, GlyphId glyphId, Glyph glyph,
 | --- | --- | --- |
 | font | IFont | Шрифт, содержащий глиф. |
 | glyphId | GlyphId | Физический индекс глифа внутри шрифта. Обратите внимание, что это не юникод. |
-| glyph | Glyph | Глиф для визуализации. |
+| glyph | Glyph | Глиф для рендеринга. |
 | glyphPlacementMatrix | TransformationMatrix | Матрица, применяемая к координатам глифа. |
 
 ### Смотрите также

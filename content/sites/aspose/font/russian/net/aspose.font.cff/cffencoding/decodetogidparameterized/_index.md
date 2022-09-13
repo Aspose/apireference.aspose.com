@@ -1,14 +1,14 @@
 ---
 title: DecodeToGidParameterized
 second_title: Справочник по API Aspose.Font для .NET
-description: Метод параметризованного декодирования. Не поддерживается для шрифта CFF.
+description: Параметризованный метод декодирования. Не поддерживается для шрифта CFF.
 type: docs
 weight: 20
 url: /ru/net/aspose.font.cff/cffencoding/decodetogidparameterized/
 ---
 ## CffEncoding.DecodeToGidParameterized method
 
-Метод параметризованного декодирования. Не поддерживается для шрифта CFF.
+Параметризованный метод декодирования. Не поддерживается для шрифта CFF.
 
 ```csharp
 public GlyphId DecodeToGidParameterized(IEncodingParameters parameters, uint charCode)
@@ -16,7 +16,7 @@ public GlyphId DecodeToGidParameterized(IEncodingParameters parameters, uint cha
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| parameters | IEncodingParameters | Реализация интерфейса[`IEncodingParameters`](../../../aspose.font/iencodingparameters). |
+| parameters | IEncodingParameters | Реализация[`IEncodingParameters`](../../../aspose.font/iencodingparameters)интерфейс. |
 | charCode | UInt32 | Код символа, для которого нужно получить идентификатор глифа. |
 
 ### Возвращаемое значение

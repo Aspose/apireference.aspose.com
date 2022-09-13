@@ -24,7 +24,7 @@ public void SetLicense(string licenseName)
 
 1. 显式路径。
 
-2. 包含 Aspose 组件装配的文件夹。
+2. 包含 Aspose 组件程序集的文件夹。
 
 3. 包含客户端调用程序集的文件夹。
 
@@ -32,7 +32,7 @@ public void SetLicense(string licenseName)
 
 5. 客户端调用程序集中的嵌入资源。
 
-**注意：** 在 .NET Compact Framework 上，尝试仅在以下位置查找许可证：
+**笔记：**在 .NET Compact Framework 上，尝试仅在以下位置查找许可证：
 
 1. 显式路径。
 

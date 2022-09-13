@@ -1,14 +1,14 @@
 ---
 title: AddName
 second_title: Aspose.Font for .NET API 参考
-description: 将条目添加到表中要添加的字符串数据类别由name参数指定
+description: 将条目添加到表中要添加的字符串数据类别由name参数.
 type: docs
-weight: 10
+weight: 20
 url: /zh/net/aspose.font.ttftables/ttfnametable/addname/
 ---
 ## TtfNameTable.AddName method
 
-将条目添加到表中。要添加的字符串数据类别由*name*参数指定。
+将条目添加到表中。要添加的字符串数据类别由*name*参数.
 
 ```csharp
 public void AddName(NameId nameId, PlatformId platformId, int platformSpecificId, int languageId, 
@@ -17,10 +17,10 @@ public void AddName(NameId nameId, PlatformId platformId, int platformSpecificId
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| nameId | NameId | 名称标识符，逻辑字符串类别，由[`NameId`](../../ttfnametable.nameid)枚举指定 |
+| nameId | NameId | 名称标识符，逻辑字符串类别，由[`NameId`](../../ttfnametable.nameid)枚举 |
 | platformId | PlatformId | 平台标识符 |
-| platformSpecificId | Int32 | 平台特定的编码标识符。请使用来自 此类枚举之一的值 -[`UnicodePlatformSpecificId`](../../ttfnametable.unicodeplatformspecificid),[`MacPlatformSpecificId`](../../ttfnametable.macplatformspecificid), [`MSPlatformSpecificId`](../../ttfnametable.msplatformspecificid)。要使用的枚举由上下文定义（*platformId* 参数） |
-| languageId | Int32 | 语言标识符。请使用来自[`MSLanguageId`](../../ttfnametable.mslanguageid)或 [`MacLanguageId`](../../ttfnametable.maclanguageid)枚举的值取决于上下文，由*platformId*参数定义 。 |
+| platformSpecificId | Int32 | 特定于平台的编码标识符。请使用来自 此类枚举之一的值 -[`UnicodePlatformSpecificId`](../../ttfnametable.unicodeplatformspecificid) ,[`MacPlatformSpecificId`](../../ttfnametable.macplatformspecificid) , [`MSPlatformSpecificId`](../../ttfnametable.msplatformspecificid).要使用的枚举由上下文定义（*platformId* 参数) |
+| languageId | Int32 | 语言标识符。请使用价值[`MSLanguageId`](../../ttfnametable.mslanguageid)或 [`MacLanguageId`](../../ttfnametable.maclanguageid)枚举取决于上下文，由 定义*platformId*范围。 |
 | name | String | 实际字符串数据 |
 
 ### 也可以看看

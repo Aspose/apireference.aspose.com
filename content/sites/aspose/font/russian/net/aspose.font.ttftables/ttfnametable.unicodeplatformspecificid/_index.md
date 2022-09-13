@@ -3,7 +3,7 @@ title: TtfNameTable.UnicodePlatformSpecificId
 second_title: Справочник по API Aspose.Font для .NET
 description: Представляет перечисление Unicode для конкретной платформы.
 type: docs
-weight: 970
+weight: 980
 url: /ru/net/aspose.font.ttftables/ttfnametable.unicodeplatformspecificid/
 ---
 ## TtfNameTable.UnicodePlatformSpecificId enumeration
@@ -21,7 +21,7 @@ public enum UnicodePlatformSpecificId
 | Default | `0` | Значение 0 Семантика по умолчанию (Unicode 1.0). |
 | Unicode1_1 | `1` | Значение 1 Семантика Unicode 1.1. |
 | ISO10646_1993 | `2` | Значение 2 Семантика ISO 10646 1993 (устаревшая). |
-| Unicode2_0 | `3` | Значение 3 Семантика Unicode 2.0 или более поздней версии. Только Юникод BMP. |
+| Unicode2_0 | `3` | Значение 3 Семантика Unicode 2.0 или более поздней версии. Только Unicode BMP. |
 | Unicode2_0_Full | `4` | Значение 4 Семантика Unicode 2.0 и более поздних версий (разрешены символы, отличные от BMP), полный репертуар Unicode. |
 
 ### Смотрите также

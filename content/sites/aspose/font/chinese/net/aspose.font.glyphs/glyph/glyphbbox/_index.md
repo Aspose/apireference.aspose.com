@@ -1,14 +1,14 @@
 ---
 title: GlyphBBox
 second_title: Aspose.Font for .NET API 参考
-description: 获取字形 BBox
+description: 获取字形 BBox.
 type: docs
 weight: 10
 url: /zh/net/aspose.font.glyphs/glyph/glyphbbox/
 ---
 ## Glyph.GlyphBBox property
 
-获取字形 BBox。
+获取字形 BBox.
 
 ```csharp
 public FontBBox GlyphBBox { get; }

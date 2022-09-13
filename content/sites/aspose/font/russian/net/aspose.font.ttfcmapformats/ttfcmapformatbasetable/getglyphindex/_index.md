@@ -1,14 +1,14 @@
 ---
 title: GetGlyphIndex
 second_title: Справочник по API Aspose.Font для .NET
-description: Получает индекс глифа для заданного кода символа
+description: Получает индекс глифа для данного символа code
 type: docs
 weight: 40
 url: /ru/net/aspose.font.ttfcmapformats/ttfcmapformatbasetable/getglyphindex/
 ---
 ## TtfCMapFormatBaseTable.GetGlyphIndex method
 
-Получает индекс глифа для заданного кода символа
+Получает индекс глифа для данного символа code
 
 ```csharp
 public virtual uint GetGlyphIndex(uint charCode)

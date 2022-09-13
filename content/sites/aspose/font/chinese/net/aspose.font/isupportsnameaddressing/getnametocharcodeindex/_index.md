@@ -16,7 +16,7 @@ public NameToCodeMap GetNameToCharCodeIndex()
 
 ### 返回值
 
-名称到代码映射对象
+代码映射对象的名称
 
 ### 也可以看看
 

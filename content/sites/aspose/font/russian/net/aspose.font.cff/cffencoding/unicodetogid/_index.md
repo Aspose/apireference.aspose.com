@@ -1,14 +1,14 @@
 ---
 title: UnicodeToGid
 second_title: Справочник по API Aspose.Font для .NET
-description: Декодирует юникод и возвращает идентификатор глифа. Идентификатор глифа  это уникальный номер глифа который зависит от типа шрифта. Идентификатор глифа шрифта CFF может быть экземпляром класса GlyphStringIdaspose.font.glyphs/glyphstringid или класса GlyphUInt32Idaspose.font.glyphs/glyphuint32id .
+description: Декодирует Unicode и возвращает идентификатор глифа. Идентификатор глифа  это уникальный номер глифа который зависит от типа шрифта. CFF Идентификатор глифа шрифта может быть экземпляром GlyphStringIdaspose.font.glyphs/glyphstringid класс или GlyphUInt32Idaspose.font.glyphs/glyphuint32id класс.
 type: docs
 weight: 90
 url: /ru/net/aspose.font.cff/cffencoding/unicodetogid/
 ---
 ## CffEncoding.UnicodeToGid method
 
-Декодирует юникод и возвращает идентификатор глифа. Идентификатор глифа — это уникальный номер глифа, который зависит от типа шрифта. Идентификатор глифа шрифта CFF может быть экземпляром класса ([`GlyphStringId`](../../../aspose.font.glyphs/glyphstringid)) или класса ([`GlyphUInt32Id`](../../../aspose.font.glyphs/glyphuint32id)) .
+Декодирует Unicode и возвращает идентификатор глифа. Идентификатор глифа — это уникальный номер глифа, который зависит от типа шрифта. CFF Идентификатор глифа шрифта может быть экземпляром ([`GlyphStringId`](../../../aspose.font.glyphs/glyphstringid)) класс или ([`GlyphUInt32Id`](../../../aspose.font.glyphs/glyphuint32id) класс.
 
 ```csharp
 public GlyphId UnicodeToGid(uint unicode)
@@ -16,7 +16,7 @@ public GlyphId UnicodeToGid(uint unicode)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| unicode | UInt32 | Юникод, для которого нужно получить идентификатор глифа. |
+| unicode | UInt32 | Unicode для получения идентификатора глифа. |
 
 ### Возвращаемое значение
 

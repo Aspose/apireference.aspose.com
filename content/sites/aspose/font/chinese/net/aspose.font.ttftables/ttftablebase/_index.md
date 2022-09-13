@@ -3,7 +3,7 @@ title: TtfTableBase
 second_title: Aspose.Font for .NET API 参考
 description: 表示 TTF 表定义
 type: docs
-weight: 1010
+weight: 1020
 url: /zh/net/aspose.font.ttftables/ttftablebase/
 ---
 ## TtfTableBase class
@@ -18,7 +18,7 @@ public class TtfTableBase
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Offset](../../aspose.font.ttftables/ttftablebase/offset) { get; } | 从 sfnt 开始处获取偏移量。 |
+| [Offset](../../aspose.font.ttftables/ttftablebase/offset) { get; } | 获取从 sfnt 开始的偏移量。 |
 | [TtfTables](../../aspose.font.ttftables/ttftablebase/ttftables) { get; } | 对 TTF 表存储库的引用。 |
 
 ### 也可以看看

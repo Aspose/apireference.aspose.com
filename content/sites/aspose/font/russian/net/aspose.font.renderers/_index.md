@@ -1,12 +1,12 @@
 ---
 title: Aspose.Font.Renderers
 second_title: Справочник по API Aspose.Font для .NET
-description: Пространство имен Aspose.Font.Renderers предоставляет классы используемые в подсистеме рендеринга в Aspose.Font.
+description: Aspose.Font.Renderers пространство имен предоставляет классы используемые в подсистеме рендеринга в Aspose.Font.
 type: docs
 weight: 60
 url: /ru/net/aspose.font.renderers/
 ---
-Пространство имен **Aspose.Font.Renderers** предоставляет классы, используемые в подсистеме рендеринга в Aspose.Font.
+**Aspose.Font.Renderers** пространство имен предоставляет классы, используемые в подсистеме рендеринга в Aspose.Font.
 
 ## Классы
 

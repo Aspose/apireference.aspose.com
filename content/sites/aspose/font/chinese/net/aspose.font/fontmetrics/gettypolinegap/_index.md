@@ -20,7 +20,7 @@ public virtual double GetTypoLineGap(double fontSize)
 
 ### 返回值
 
-线间距值。
+线间隙值。
 
 ### 也可以看看
 

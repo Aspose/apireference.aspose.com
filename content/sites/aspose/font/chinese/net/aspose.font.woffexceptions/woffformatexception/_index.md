@@ -1,14 +1,14 @@
 ---
 title: WoffFormatException
 second_title: Aspose.Font for .NET API 参考
-description: 表示 WOFF 字体处理相关异常
+description: 表示WOFF字体处理相关异常
 type: docs
-weight: 1080
+weight: 1090
 url: /zh/net/aspose.font.woffexceptions/woffformatexception/
 ---
 ## WoffFormatException class
 
-表示 WOFF 字体处理相关异常。
+表示WOFF字体处理相关异常。
 
 ```csharp
 public class WoffFormatException : ApplicationException
@@ -18,10 +18,10 @@ public class WoffFormatException : ApplicationException
 
 | 姓名 | 描述 |
 | --- | --- |
-| [WoffFormatException](woffformatexception#constructor)() | 初始化新的[`WoffFormatException`](../woffformatexception)对象。 |
-| [WoffFormatException](woffformatexception#constructor_2)(string) | 初始化新的[`WoffFormatException`](../woffformatexception)对象。 |
-| [WoffFormatException](woffformatexception#constructor_1)(SerializationInfo, StreamingContext) | 初始化新的[`WoffFormatException`](../woffformatexception)对象。 |
-| [WoffFormatException](woffformatexception#constructor_3)(string, Exception) | 初始化新的[`WoffFormatException`](../woffformatexception)对象。 |
+| [WoffFormatException](woffformatexception#constructor)() | 初始化新的[`WoffFormatException`](../woffformatexception)对象. |
+| [WoffFormatException](woffformatexception#constructor_2)(string) | 初始化新的[`WoffFormatException`](../woffformatexception)对象. |
+| [WoffFormatException](woffformatexception#constructor_1)(SerializationInfo, StreamingContext) | 初始化新的[`WoffFormatException`](../woffformatexception)对象. |
+| [WoffFormatException](woffformatexception#constructor_3)(string, Exception) | 初始化新的[`WoffFormatException`](../woffformatexception)对象. |
 
 ### 也可以看看
 

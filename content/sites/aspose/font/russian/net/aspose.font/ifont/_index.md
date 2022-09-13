@@ -1,14 +1,14 @@
 ---
 title: IFont
 second_title: Справочник по API Aspose.Font для .NET
-description: Декларирует общую функциональность для всех форматов шрифтов. Реализуется классами Font.
+description: Декларирует общую функциональность для всех форматов шрифтов. Реализуется классами шрифтов.
 type: docs
 weight: 320
 url: /ru/net/aspose.font/ifont/
 ---
 ## IFont interface
 
-Декларирует общую функциональность для всех форматов шрифтов. Реализуется классами Font.
+Декларирует общую функциональность для всех форматов шрифтов. Реализуется классами шрифтов.
 
 ```csharp
 public interface IFont
@@ -26,10 +26,10 @@ public interface IFont
 | [FontSaver](../../aspose.font/ifont/fontsaver) { get; } | Получает функцию сохранения шрифта. |
 | [FontStyle](../../aspose.font/ifont/fontstyle) { get; } | Получает стиль шрифта. Это значение вычисляется и представляется в обобщенном виде. |
 | [FontType](../../aspose.font/ifont/fonttype) { get; } | Получает тип шрифта. |
-| [GlyphAccessor](../../aspose.font/ifont/glyphaccessor) { get; } | Получает метод доступа к глифу шрифта. Извлекает глифы и идентификаторы глифов. |
+| [GlyphAccessor](../../aspose.font/ifont/glyphaccessor) { get; } | Получает средство доступа к глифу шрифта. Извлекает глифы и идентификаторы глифов. |
 | [Metrics](../../aspose.font/ifont/metrics) { get; } | Получает метрики шрифта. |
 | [NumGlyphs](../../aspose.font/ifont/numglyphs) { get; } | Получает количество глифов в шрифте. |
-| [PostscriptNames](../../aspose.font/ifont/postscriptnames) { get; } | Получает постскриптумные имена шрифтов. |
+| [PostscriptNames](../../aspose.font/ifont/postscriptnames) { get; } | Получает имена шрифтов postscript. |
 | [Style](../../aspose.font/ifont/style) { get; set; } | Получает или устанавливает стиль шрифта. Это необработанное строковое значение, предоставленное файлом шрифта. |
 
 ## Методы

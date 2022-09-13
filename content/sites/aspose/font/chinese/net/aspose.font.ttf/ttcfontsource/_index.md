@@ -18,7 +18,7 @@ public class TtcFontSource
 
 | 姓名 | 描述 |
 | --- | --- |
-| [TtcFontSource](ttcfontsource#constructor)(StreamSource) | 基于 IStreamSource 流提供对象创建 TTC 字体源。 |
+| [TtcFontSource](ttcfontsource#constructor)(StreamSource) | 基于提供对象的 IStreamSource 流创建 TTC 字体源。 |
 | [TtcFontSource](ttcfontsource#constructor_1)(string) | 根据 ttc 字体集合文件路径创建 TTC 字体源。 |
 
 ## 方法

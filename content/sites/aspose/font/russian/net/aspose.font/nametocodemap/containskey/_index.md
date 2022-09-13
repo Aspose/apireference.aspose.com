@@ -1,14 +1,14 @@
 ---
 title: ContainsKey
 second_title: Справочник по API Aspose.Font для .NET
-description: Возвращает true если ключ уже есть в карте.
+description: Возвращает true если ключ уже есть на карте.
 type: docs
 weight: 40
 url: /ru/net/aspose.font/nametocodemap/containskey/
 ---
 ## NameToCodeMap.ContainsKey method
 
-Возвращает true, если ключ уже есть в карте.
+Возвращает true, если ключ уже есть на карте.
 
 ```csharp
 public bool ContainsKey(string name)

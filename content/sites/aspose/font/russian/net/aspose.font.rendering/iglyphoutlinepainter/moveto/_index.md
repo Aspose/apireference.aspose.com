@@ -16,7 +16,7 @@ public void MoveTo(MoveTo moveTo)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| moveTo | MoveTo | Ссылка MoveTo |
+| moveTo | MoveTo | ссылка MoveTo |
 
 ### Смотрите также
 

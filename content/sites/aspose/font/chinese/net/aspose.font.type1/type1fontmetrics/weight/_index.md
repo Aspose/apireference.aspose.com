@@ -1,14 +1,14 @@
 ---
 title: Weight
 second_title: Aspose.Font for .NET API 参考
-description: 获得权重
+description: 获取重量
 type: docs
 weight: 120
 url: /zh/net/aspose.font.type1/type1fontmetrics/weight/
 ---
 ## Type1FontMetrics.Weight property
 
-获得权重。
+获取重量。
 
 ```csharp
 public string Weight { get; }

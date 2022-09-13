@@ -1,14 +1,14 @@
 ---
 title: FontAgrumentException
 second_title: Справочник по API Aspose.Font для .NET
-description: Инициализирует новый объектFontAgrumentExceptionaspose.font.exceptions/fontagrumentexception.
+description: Инициализирует новыйFontAgrumentExceptionaspose.font.exceptions/fontagrumentexception объект.
 type: docs
 weight: 10
 url: /ru/net/aspose.font.exceptions/fontagrumentexception/fontagrumentexception/
 ---
 ## FontAgrumentException() {#constructor}
 
-Инициализирует новый объект[`FontAgrumentException`](../../fontagrumentexception).
+Инициализирует новый[`FontAgrumentException`](../../fontagrumentexception) объект.
 
 ```csharp
 public FontAgrumentException()
@@ -24,7 +24,7 @@ public FontAgrumentException()
 
 ## FontAgrumentException(string) {#constructor_2}
 
-Инициализирует новый объект[`FontAgrumentException`](../../fontagrumentexception).
+Инициализирует новый[`FontAgrumentException`](../../fontagrumentexception) объект.
 
 ```csharp
 public FontAgrumentException(string message)
@@ -32,7 +32,7 @@ public FontAgrumentException(string message)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| message | String | Сообщение с описанием ошибки. |
+| message | String | Сообщение, описывающее ошибку. |
 
 ### Смотрите также
 
@@ -44,7 +44,7 @@ public FontAgrumentException(string message)
 
 ## FontAgrumentException(string, Exception) {#constructor_3}
 
-Инициализирует новый объект[`FontAgrumentException`](../../fontagrumentexception).
+Инициализирует новый[`FontAgrumentException`](../../fontagrumentexception) объект.
 
 ```csharp
 public FontAgrumentException(string message, Exception innerException)
@@ -52,8 +52,8 @@ public FontAgrumentException(string message, Exception innerException)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| message | String | Сообщение с описанием ошибки. |
-| innerException | Exception | Исключение, являющееся причиной текущего исключения. |
+| message | String | Сообщение, описывающее ошибку. |
+| innerException | Exception | Исключение, которое является причиной текущего исключения. |
 
 ### Смотрите также
 
@@ -65,7 +65,7 @@ public FontAgrumentException(string message, Exception innerException)
 
 ## FontAgrumentException(SerializationInfo, StreamingContext) {#constructor_1}
 
-Инициализирует новый объект[`FontAgrumentException`](../../fontagrumentexception).
+Инициализирует новый[`FontAgrumentException`](../../fontagrumentexception) объект.
 
 ```csharp
 public FontAgrumentException(SerializationInfo info, StreamingContext context)

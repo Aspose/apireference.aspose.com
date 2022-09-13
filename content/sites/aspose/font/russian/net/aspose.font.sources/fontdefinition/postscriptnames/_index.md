@@ -1,14 +1,14 @@
 ---
 title: PostscriptNames
 second_title: Справочник по API Aspose.Font для .NET
-description: Получает имена шрифтов постскриптума какMultiLanguageStringaspose.font/multilanguagestring.
+description: Получает имена шрифтов postscript какMultiLanguageStringaspose.font/multilanguagestring .
 type: docs
 weight: 80
 url: /ru/net/aspose.font.sources/fontdefinition/postscriptnames/
 ---
 ## FontDefinition.PostscriptNames property
 
-Получает имена шрифтов постскриптума как[`MultiLanguageString`](../../../aspose.font/multilanguagestring).
+Получает имена шрифтов postscript как[`MultiLanguageString`](../../../aspose.font/multilanguagestring) .
 
 ```csharp
 public MultiLanguageString PostscriptNames { get; }

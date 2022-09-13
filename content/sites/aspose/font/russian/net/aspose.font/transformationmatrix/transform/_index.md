@@ -17,7 +17,7 @@ public void Transform(double x, double y, out double x1, out double y1)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | x | Double | Исходная координата x. |
-| y | Double | Исходная координата y. |
+| y | Double | Исходная координата Y. |
 | x1 | Double& | Преобразованная координата x. |
 | y1 | Double& | Преобразованная координата y. |
 

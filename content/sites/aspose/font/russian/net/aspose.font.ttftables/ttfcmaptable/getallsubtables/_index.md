@@ -16,7 +16,7 @@ public TtfCMapSubtableDescription[] GetAllSubtables()
 
 ### Возвращаемое значение
 
-массив объектов[`TtfCMapSubtableDescription`](../../ttfcmaptable.ttfcmapsubtabledescription)
+массив[`TtfCMapSubtableDescription`](../../ttfcmaptable.ttfcmapsubtabledescription) объекты
 
 ### Смотрите также
 

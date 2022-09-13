@@ -1,14 +1,14 @@
 ---
 title: FontCreationException
 second_title: Справочник по API Aspose.Font для .NET
-description: Инициализирует новый объектFontCreationExceptionaspose.font.exceptions/fontcreationexception.
+description: Инициализирует новыйFontCreationExceptionaspose.font.exceptions/fontcreationexception объект.
 type: docs
 weight: 10
 url: /ru/net/aspose.font.exceptions/fontcreationexception/fontcreationexception/
 ---
 ## FontCreationException() {#constructor}
 
-Инициализирует новый объект[`FontCreationException`](../../fontcreationexception).
+Инициализирует новый[`FontCreationException`](../../fontcreationexception) объект.
 
 ```csharp
 public FontCreationException()
@@ -24,7 +24,7 @@ public FontCreationException()
 
 ## FontCreationException(string) {#constructor_2}
 
-Инициализирует новый объект[`FontCreationException`](../../fontcreationexception).
+Инициализирует новый[`FontCreationException`](../../fontcreationexception) объект.
 
 ```csharp
 public FontCreationException(string message)
@@ -32,7 +32,7 @@ public FontCreationException(string message)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| message | String | Сообщение с описанием ошибки. |
+| message | String | Сообщение, описывающее ошибку. |
 
 ### Смотрите также
 
@@ -44,7 +44,7 @@ public FontCreationException(string message)
 
 ## FontCreationException(string, Exception) {#constructor_3}
 
-Инициализирует новый объект[`FontCreationException`](../../fontcreationexception).
+Инициализирует новый[`FontCreationException`](../../fontcreationexception) объект.
 
 ```csharp
 public FontCreationException(string message, Exception innerException)
@@ -52,8 +52,8 @@ public FontCreationException(string message, Exception innerException)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| message | String | Сообщение с описанием ошибки. |
-| innerException | Exception | Исключение, являющееся причиной текущего исключения. |
+| message | String | Сообщение, описывающее ошибку. |
+| innerException | Exception | Исключение, которое является причиной текущего исключения. |
 
 ### Смотрите также
 
@@ -65,7 +65,7 @@ public FontCreationException(string message, Exception innerException)
 
 ## FontCreationException(SerializationInfo, StreamingContext) {#constructor_1}
 
-Инициализирует новый объект[`FontCreationException`](../../fontcreationexception).
+Инициализирует новый[`FontCreationException`](../../fontcreationexception) объект.
 
 ```csharp
 public FontCreationException(SerializationInfo info, StreamingContext context)

@@ -1,14 +1,14 @@
 ---
 title: GetGlyphIndex
 second_title: Aspose.Font for .NET API 参考
-description: 按字形名称获取字形索引
+description: 通过字形名称获取字形索引
 type: docs
 weight: 110
 url: /zh/net/aspose.font.ttftables/ttfposttable/getglyphindex/
 ---
 ## TtfPostTable.GetGlyphIndex method
 
-按字形名称获取字形索引。
+通过字形名称获取字形索引。
 
 ```csharp
 public uint GetGlyphIndex(string glyphName)

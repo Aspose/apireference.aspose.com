@@ -16,7 +16,7 @@ public TtfCMapSubtableDescription[] GetAllSubtables()
 
 ### 返回值
 
-[`TtfCMapSubtableDescription`](../../ttfcmaptable.ttfcmapsubtabledescription)对象数组
+数组[`TtfCMapSubtableDescription`](../../ttfcmaptable.ttfcmapsubtabledescription)对象
 
 ### 也可以看看
 

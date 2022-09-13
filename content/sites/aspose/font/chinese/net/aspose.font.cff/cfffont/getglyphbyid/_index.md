@@ -1,14 +1,14 @@
 ---
 title: GetGlyphById
 second_title: Aspose.Font for .NET API 参考
-description: 按字形 id 返回字形 Glyph id 是字形的唯一编号它取决于字体类型 CFF 字体字形 ID 可以是 GlyphStringIdaspose.font.glyphs/glyphstringid 类或 GlyphUInt32Idaspose.font.glyphs/glyphuint32id 类的实例.
+description: 按字形 id 返回字形 字形 id 是字形的唯一编号取决于字体类型 CFF 字体字形 id 可以是 GlyphStringIdaspose.font.glyphs/glyphstringid 类或 GlyphUInt32Idaspose.font.glyphs/glyphuint32id 类.
 type: docs
 weight: 160
 url: /zh/net/aspose.font.cff/cfffont/getglyphbyid/
 ---
 ## GetGlyphById(GlyphId) {#getglyphbyid}
 
-按字形 id 返回字形。 Glyph id 是字形的唯一编号，它取决于字体类型。 CFF 字体字形 ID 可以是 ([`GlyphStringId`](../../../aspose.font.glyphs/glyphstringid)) 类或 ([`GlyphUInt32Id`](../../../aspose.font.glyphs/glyphuint32id)) 类的实例.
+按字形 id 返回字形。 字形 id 是字形的唯一编号，取决于字体类型。 CFF 字体字形 id 可以是 ([`GlyphStringId`](../../../aspose.font.glyphs/glyphstringid)) 类或 ([`GlyphUInt32Id`](../../../aspose.font.glyphs/glyphuint32id) 类.
 
 ```csharp
 public override Glyph GetGlyphById(GlyphId id)

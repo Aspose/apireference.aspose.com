@@ -1,14 +1,14 @@
 ---
 title: PlatformSpecificId
 second_title: Справочник по API Aspose.Font для .NET
-description: Получает PlatformSpecificId.
+description: Получает идентификатор платформы.
 type: docs
 weight: 20
 url: /ru/net/aspose.font.ttfcmapformats/ttfcmapformatbasetable/platformspecificid/
 ---
 ## TtfCMapFormatBaseTable.PlatformSpecificId property
 
-Получает PlatformSpecificId.
+Получает идентификатор платформы.
 
 ```csharp
 public ushort PlatformSpecificId { get; }

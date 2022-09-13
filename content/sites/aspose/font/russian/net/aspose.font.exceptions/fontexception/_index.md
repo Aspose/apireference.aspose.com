@@ -1,14 +1,14 @@
 ---
 title: FontException
 second_title: Справочник по API Aspose.Font для .NET
-description: Представляет общее исключение связанное с обработкой шрифтов.
+description: Представляет распространенное исключение связанное с обработкой шрифтов.
 type: docs
 weight: 100
 url: /ru/net/aspose.font.exceptions/fontexception/
 ---
 ## FontException class
 
-Представляет общее исключение, связанное с обработкой шрифтов.
+Представляет распространенное исключение, связанное с обработкой шрифтов.
 
 ```csharp
 public class FontException : ApplicationException
@@ -18,10 +18,10 @@ public class FontException : ApplicationException
 
 | Имя | Описание |
 | --- | --- |
-| [FontException](fontexception#constructor)() | Инициализирует новый объект[`FontException`](../fontexception). |
-| [FontException](fontexception#constructor_2)(string) | Инициализирует новый объект[`FontException`](../fontexception). |
-| [FontException](fontexception#constructor_1)(SerializationInfo, StreamingContext) | Инициализирует новый объект[`FontException`](../fontexception). |
-| [FontException](fontexception#constructor_3)(string, Exception) | Инициализирует новый объект[`FontException`](../fontexception). |
+| [FontException](fontexception#constructor)() | Инициализирует новый[`FontException`](../fontexception) объект. |
+| [FontException](fontexception#constructor_2)(string) | Инициализирует новый[`FontException`](../fontexception) объект. |
+| [FontException](fontexception#constructor_1)(SerializationInfo, StreamingContext) | Инициализирует новый[`FontException`](../fontexception) объект. |
+| [FontException](fontexception#constructor_3)(string, Exception) | Инициализирует новый[`FontException`](../fontexception) объект. |
 
 ### Смотрите также
 

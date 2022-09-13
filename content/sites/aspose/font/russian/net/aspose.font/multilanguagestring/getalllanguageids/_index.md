@@ -3,7 +3,7 @@ title: GetAllLanguageIds
 second_title: Справочник по API Aspose.Font для .NET
 description: Получает идентификаторы языка для всех строк или пустой массив если строки отсутствуют
 type: docs
-weight: 30
+weight: 50
 url: /ru/net/aspose.font/multilanguagestring/getalllanguageids/
 ---
 ## MultiLanguageString.GetAllLanguageIds method
@@ -16,7 +16,7 @@ public int[] GetAllLanguageIds()
 
 ### Возвращаемое значение
 
-Массив с идентификаторами языка или пустой массив, если строки отсутствуют
+Массив с идентификаторами языка или пустой массив, если нет строк
 
 ### Смотрите также
 

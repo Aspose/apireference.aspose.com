@@ -1,14 +1,14 @@
 ---
 title: License
 second_title: Справочник по API Aspose.Font для .NET
-description: Предоставляет способы лицензирования компонента.
+description: Предоставляет методы лицензирования компонента.
 type: docs
 weight: 370
 url: /ru/net/aspose.font/license/
 ---
 ## License class
 
-Предоставляет способы лицензирования компонента.
+Предоставляет методы лицензирования компонента.
 
 ```csharp
 public class License

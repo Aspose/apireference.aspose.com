@@ -1,14 +1,14 @@
 ---
 title: GetAllCodes
 second_title: Aspose.Font for .NET API 参考
-description: 从当前 CMap 的子表中获取所有代码
+description: 获取当前 CMap 的子表中的所有代码
 type: docs
 weight: 10
 url: /zh/net/aspose.font.ttfcmapformats/ttfcmapformat6table/getallcodes/
 ---
 ## TtfCMapFormat6Table.GetAllCodes method
 
-从当前 CMap 的子表中获取所有代码。
+获取当前 CMap 的子表中的所有代码。
 
 ```csharp
 public override List<uint> GetAllCodes()

@@ -90,7 +90,7 @@ public FontDefinition(FontType fontType, FontFileDefinition fileDefinition)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | fontType | FontType | 字体类型。 |
-| fileDefinition | FontFileDefinition | FontFileDefinition。 |
+| fileDefinition | FontFileDefinition | 字体文件定义。 |
 
 ### 也可以看看
 
@@ -114,7 +114,7 @@ public FontDefinition(string fontName, FontType fontType, FontFileDefinition fil
 | --- | --- | --- |
 | fontName | String | 字体名称。 |
 | fontType | FontType | 字体类型。 |
-| fileDefinition | FontFileDefinition | FontFileDefinition。 |
+| fileDefinition | FontFileDefinition | 字体文件定义。 |
 
 ### 也可以看看
 
@@ -140,7 +140,7 @@ public FontDefinition(string fontName, string postscriptName, FontType fontType,
 | fontName | String | 字体名称。 |
 | postscriptName | String | Postscript 字体名称。 |
 | fontType | FontType | 字体类型。 |
-| fileDefinition | FontFileDefinition | FontFileDefinition。 |
+| fileDefinition | FontFileDefinition | 字体文件定义。 |
 
 ### 也可以看看
 
@@ -215,7 +215,7 @@ public FontDefinition(MultiLanguageString fontNames, MultiLanguageString postscr
 | fontNames | MultiLanguageString | 字体名称。 |
 | postscriptNames | MultiLanguageString | Postscript 字体名称。 |
 | fontType | FontType | 字体类型。 |
-| fileDefinition | FontFileDefinition | FontFileDefinition。 |
+| fileDefinition | FontFileDefinition | 字体文件定义。 |
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: FontDirectionHint
 second_title: Aspose.Font for .NET API 参考
-description: 获取 int16 fontDirectionHint 0 混合方向字形 1 仅强从左到右的字形 2 与 1 类似但也包含中性 -1 仅强烈从右到左字形 -2 与 -1 类似但也包含中性点
+description: 获取 int16 fontDirectionHint. 0 混合方向字形 1 仅强烈从左到右的字形 2 与 1 相似但也包含中性 1 仅从右到左强烈字形 2 与 1 相似但也包含中性
 type: docs
 weight: 40
 url: /zh/net/aspose.font.ttftables/ttfheadtable/fontdirectionhint/
 ---
 ## TtfHeadTable.FontDirectionHint property
 
-获取 int16 fontDirectionHint。 0 混合方向字形； 1 仅强从左到右的字形； 2 与 1 类似，但也包含中性； -1 仅强烈从右到左字形； -2 与 -1 类似，但也包含中性点。
+获取 int16 fontDirectionHint. 0 混合方向字形； 1 仅强烈从左到右的字形； 2 与 1 相似但也包含中性； -1 仅从右到左强烈字形； -2 与 -1 相似但也包含中性。
 
 ```csharp
 public short FontDirectionHint { get; }

@@ -3,7 +3,7 @@ title: TtfNameTable.MSPlatformSpecificId
 second_title: Справочник по API Aspose.Font для .NET
 description: Представляет перечисление PlatformSpecificId платформы Microsoft.
 type: docs
-weight: 910
+weight: 920
 url: /ru/net/aspose.font.ttftables/ttfnametable.msplatformspecificid/
 ---
 ## TtfNameTable.MSPlatformSpecificId enumeration
@@ -21,13 +21,13 @@ public enum MSPlatformSpecificId
 | Symbol | `0` | Символ MS PlatformSpecificId. |
 | Unicode_BMP_UCS2 | `1` | Unicode BMP (UCS2) MS PlatformSpecificId. |
 | ShiftJIS | `2` | ShiftJIS MS PlatformSpecificId. |
-| PRC | `3` | PRC MS PlatformSpecificId. |
-| Big5 | `4` | Big5 MS PlatformSpecificId. |
+| PRC | `3` | КНР MS PlatformSpecificId. |
+| Big5 | `4` | Специфический идентификатор платформы MS Big5. |
 | Wansung | `5` | Wansung MS PlatformSpecificId. |
-| Johab | `6` | Johab MS PlatformSpecificId. |
-| Reserved1 | `7` | Reserved1 MS PlatformSpecificId. |
-| Reserved2 | `8` | Reserved2 MS PlatformSpecificId. |
-| Reserved3 | `9` | Reserved3 MS PlatformSpecificId. |
+| Johab | `6` | Иохаб MS PlatformSpecificId. |
+| Reserved1 | `7` | Зарезервировано1 MS PlatformSpecificId. |
+| Reserved2 | `8` | Зарезервировано2 MS PlatformSpecificId. |
+| Reserved3 | `9` | Зарезервировано3 MS PlatformSpecificId. |
 | Unicode_UCS4 | `10` | Unicode UCS4 MS PlatformSpecificId. |
 
 ### Смотрите также

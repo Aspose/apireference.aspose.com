@@ -1,7 +1,7 @@
 ---
 title: FindUnicodeTable
 second_title: Aspose.Font for .NET API 参考
-description: 搜索并返回 unicode CMap 如果有 ucs-4 CMap - 首先返回它 否则 - 返回它可以找到的任何 unicode cmap
+description: 搜索并返回 unicode CMap 如果有 ucs4 CMap  首先返回它 否则  返回它可以找到的任何 unicode cmap
 type: docs
 weight: 10
 url: /zh/net/aspose.font.ttftables/ttfcmaptable/findunicodetable/

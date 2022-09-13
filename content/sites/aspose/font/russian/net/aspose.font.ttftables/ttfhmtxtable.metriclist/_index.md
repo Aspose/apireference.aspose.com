@@ -1,14 +1,14 @@
 ---
 title: TtfHmtxTable.MetricList
 second_title: Справочник по API Aspose.Font для .NET
-description: Представляет список метрик.
+description: Представляет список показателей.
 type: docs
-weight: 850
+weight: 860
 url: /ru/net/aspose.font.ttftables/ttfhmtxtable.metriclist/
 ---
 ## TtfHmtxTable.MetricList class
 
-Представляет список метрик.
+Представляет список показателей.
 
 ```csharp
 public class MetricList

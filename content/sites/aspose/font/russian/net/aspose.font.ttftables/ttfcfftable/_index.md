@@ -3,7 +3,7 @@ title: TtfCffTable
 second_title: Справочник по API Aspose.Font для .NET
 description: Представляет таблицу cff файла шрифта TTF.
 type: docs
-weight: 770
+weight: 780
 url: /ru/net/aspose.font.ttftables/ttfcfftable/
 ---
 ## TtfCffTable class
@@ -18,7 +18,7 @@ public class TtfCffTable : TtfTableBase
 
 | Имя | Описание |
 | --- | --- |
-| [CffSource](../../aspose.font.ttftables/ttfcfftable/cffsource) { get; } | Необработанные байты для контуров в представлении в формате компактного шрифта. |
+| [CffSource](../../aspose.font.ttftables/ttfcfftable/cffsource) { get; } | Необработанные байты для контуров в представлении формата компактного шрифта. |
 | [Offset](../../aspose.font.ttftables/ttftablebase/offset) { get; } | Получает смещение от начала sfnt. |
 | [TtfTables](../../aspose.font.ttftables/ttftablebase/ttftables) { get; } | Ссылка на репозиторий таблиц TTF. |
 | static [Tag](../../aspose.font.ttftables/ttfcfftable/tag) { get; } | Получает тег таблицы. |

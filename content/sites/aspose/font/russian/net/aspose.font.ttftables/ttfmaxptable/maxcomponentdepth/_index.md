@@ -1,14 +1,14 @@
 ---
 title: MaxComponentDepth
 second_title: Справочник по API Aspose.Font для .NET
-description: Получает uint16 уровней рекурсии maxComponentDepth устанавливается равным 0 если шрифт содержит только простые глифы.
+description: Получает уровни рекурсии uint16 maxComponentDepth устанавливается равным 0 если шрифт содержит только простые глифы.
 type: docs
 weight: 20
 url: /ru/net/aspose.font.ttftables/ttfmaxptable/maxcomponentdepth/
 ---
 ## TtfMaxpTable.MaxComponentDepth property
 
-Получает uint16 уровней рекурсии maxComponentDepth, устанавливается равным 0, если шрифт содержит только простые глифы.
+Получает уровни рекурсии uint16 maxComponentDepth, устанавливается равным 0, если шрифт содержит только простые глифы.
 
 ```csharp
 public ushort MaxComponentDepth { get; }

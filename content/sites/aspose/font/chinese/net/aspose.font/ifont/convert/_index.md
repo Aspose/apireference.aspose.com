@@ -16,11 +16,11 @@ public Font Convert(FontType fontType)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| fontType | FontType | 类型转换为字体为 |
+| fontType | FontType | 类型转换成字体 |
 
 ### 返回值
 
-字体转换为指定格式
+字体转换成指定格式
 
 ### 也可以看看
 

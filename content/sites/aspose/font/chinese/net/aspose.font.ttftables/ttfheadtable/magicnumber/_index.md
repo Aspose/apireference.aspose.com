@@ -1,14 +1,14 @@
 ---
 title: MagicNumber
 second_title: Aspose.Font for .NET API 参考
-description: 将 uint32 magicNumber 设置为 0x5F0F3CF5
+description: 获取 uint32 magicNumber 设置为 0x5F0F3CF5.
 type: docs
 weight: 100
 url: /zh/net/aspose.font.ttftables/ttfheadtable/magicnumber/
 ---
 ## TtfHeadTable.MagicNumber property
 
-将 uint32 magicNumber 设置为 0x5F0F3CF5。
+获取 uint32 magicNumber 设置为 0x5F0F3CF5.
 
 ```csharp
 public uint MagicNumber { get; }

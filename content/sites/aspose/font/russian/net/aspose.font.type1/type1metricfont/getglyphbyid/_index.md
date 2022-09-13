@@ -1,14 +1,14 @@
 ---
 title: GetGlyphById
 second_title: Справочник по API Aspose.Font для .NET
-description: Возвращает глиф по идентификатору глифа. Не поддерживается для типаType1MetricFontaspose.font.type1/type1metricfont.
+description: Возвращает глиф по идентификатору глифа. Не поддерживается дляType1MetricFontaspose.font.type1/type1metricfontтип.
 type: docs
 weight: 80
 url: /ru/net/aspose.font.type1/type1metricfont/getglyphbyid/
 ---
 ## GetGlyphById(string) {#getglyphbyid_1}
 
-Возвращает глиф по идентификатору глифа. Не поддерживается для типа[`Type1MetricFont`](../../type1metricfont).
+Возвращает глиф по идентификатору глифа. Не поддерживается для[`Type1MetricFont`](../../type1metricfont)тип.
 
 ```csharp
 public override Glyph GetGlyphById(string id)
@@ -33,7 +33,7 @@ public override Glyph GetGlyphById(string id)
 
 ## GetGlyphById(GlyphId) {#getglyphbyid}
 
-Возвращает глиф по идентификатору глифа. Не поддерживается для типа[`Type1MetricFont`](../../type1metricfont).
+Возвращает глиф по идентификатору глифа. Не поддерживается для[`Type1MetricFont`](../../type1metricfont)тип.
 
 ```csharp
 public override Glyph GetGlyphById(GlyphId id)

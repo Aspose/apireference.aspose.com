@@ -1,12 +1,12 @@
 ---
 title: Aspose.Font.Cff
 second_title: Aspose.Font for .NET API 参考
-description: Aspose.Font.Cff 命名空间提供了描述与 CFF 字体格式相关的对象的类
+description: 的 Aspose.Font.Cff命名空间提供描述与 CFF 字体格式相关的对象的类
 type: docs
 weight: 20
 url: /zh/net/aspose.font.cff/
 ---
-**Aspose.Font.Cff** 命名空间提供了描述与 CFF 字体格式相关的对象的类。
+的 **Aspose.Font.Cff**命名空间提供描述与 CFF 字体格式相关的对象的类。
 
 ## 课程
 

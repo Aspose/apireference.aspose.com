@@ -1,14 +1,14 @@
 ---
 title: ItalicAngle
 second_title: Справочник по API Aspose.Font для .NET
-description: Получает фиксированный курсив italicAngle Угол курсива в градусах.
+description: Получает фиксированный угол italicAngle Курсив в градусах.
 type: docs
 weight: 40
 url: /ru/net/aspose.font.ttftables/ttfposttable/italicangle/
 ---
 ## TtfPostTable.ItalicAngle property
 
-Получает фиксированный курсив italicAngle Угол курсива в градусах.
+Получает фиксированный угол italicAngle Курсив в градусах.
 
 ```csharp
 public float ItalicAngle { get; }

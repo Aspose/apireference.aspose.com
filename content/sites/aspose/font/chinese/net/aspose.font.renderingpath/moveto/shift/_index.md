@@ -17,7 +17,7 @@ public void Shift(double dx, double dy)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | dx | Double | 值 dx。 |
-| dy | Double | 值 dy。 |
+| dy | Double | 价值 dy。 |
 
 ### 也可以看看
 

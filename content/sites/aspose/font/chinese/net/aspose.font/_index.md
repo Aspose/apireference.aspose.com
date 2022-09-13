@@ -1,33 +1,33 @@
 ---
 title: Aspose.Font
 second_title: Aspose.Font for .NET API 参考
-description: Aspose.Font 命名空间提供了描述常见 Aspose.Font 对象的类
+description: 的 Aspose.字体命名空间提供描述常见 Aspose.Font 对象的类
 type: docs
 weight: 10
 url: /zh/net/aspose.font/
 ---
-**Aspose.Font** 命名空间提供了描述常见 Aspose.Font 对象的类。
+的 **Aspose.字体**命名空间提供描述常见 Aspose.Font 对象的类。
 
 ## 课程
 
 | 班级 | 描述 |
 | --- | --- |
 | [BuildVersionInfo](./buildversioninfo) | 提供有关当前产品名称和版本的信息。 |
-| [Font](./font) | 表示基字体类。 |
-| [FontBBox](./fontbbox) | 表示字体边界框（BBox）。 |
+| [Font](./font) | 表示基本字体类。 |
+| [FontBBox](./fontbbox) | 代表字体边界框（BBox）。 |
 | [FontEnvironment](./fontenvironment) | 提供有关当前环境和平台的信息。 |
 | [FontMetrics](./fontmetrics) | 表示字体规格。 |
 | [License](./license) | 提供许可组件的方法。 |
 | [MultiLanguageString](./multilanguagestring) | 表示多语言字符串。 |
 | [NameToCodeMap](./nametocodemap) | 表示代码映射的名称。 |
-| [TransformationMatrix](./transformationmatrix) | 表示 3x3 变换矩阵 &#x7C; AB 0 &#x7C; &#x7C;光盘 0 &#x7C; &#x7C;德克萨斯州 1 &#x7C;。 坐标变换如下： x1 = A*x + C*y + TX； y1 = B*x + D*y + TY。 |
+| [TransformationMatrix](./transformationmatrix) | 表示 3x3 变换矩阵 &#x7C; AB 0 &#x7C; &#x7C;光盘 0 &#x7C; &#x7C; TX TY 1 &#x7C;. 坐标变换如下： x1 = A*x + C*y + TX; y1 = B*x + D*y + TY. |
 ## 接口
 
 | 界面 | 描述 |
 | --- | --- |
-| [IEncodingParameters](./iencodingparameters) | 通用接口，支持编码参数。 某些字体类型可以有多种编码算法/映射。 所以，这个接口应该用来创建具体的字体编码参数。 |
+| [IEncodingParameters](./iencodingparameters) | 支持编码参数的通用接口。 一些字体类型可以有多种编码算法/映射。 所以，这个接口应该用于创建具体的字体编码参数。 |
 | [IFont](./ifont) | 声明所有字体格式的通用功能。 由字体类实现。 |
-| [IFontEncoding](./ifontencoding) | 定义字体编码接口。 |
+| [IFontEncoding](./ifontencoding) | 定义字体编码的接口。 |
 | [IFontMetrics](./ifontmetrics) | 定义字体度量工具的接口。 |
 | [IFontSaver](./ifontsaver) | 定义字体保存功能的接口。 |
 | [ISupportsNameAddressing](./isupportsnameaddressing) | 定义特定于支持字形名称寻址的编码的成员。 |

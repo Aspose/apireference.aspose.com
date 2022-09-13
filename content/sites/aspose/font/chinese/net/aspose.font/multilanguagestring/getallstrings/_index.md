@@ -3,7 +3,7 @@ title: GetAllStrings
 second_title: Aspose.Font for .NET API 参考
 description: 返回所有语言的所有字符串
 type: docs
-weight: 40
+weight: 60
 url: /zh/net/aspose.font/multilanguagestring/getallstrings/
 ---
 ## MultiLanguageString.GetAllStrings method

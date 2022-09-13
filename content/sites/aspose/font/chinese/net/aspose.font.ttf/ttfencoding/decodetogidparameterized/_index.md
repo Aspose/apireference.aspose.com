@@ -16,7 +16,7 @@ public GlyphId DecodeToGidParameterized(IEncodingParameters parameters, uint cha
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| parameters | IEncodingParameters | [`IEncodingParameters`](../../../aspose.font/iencodingparameters)接口的实现。 |
+| parameters | IEncodingParameters | 实施[`IEncodingParameters`](../../../aspose.font/iencodingparameters)界面。 |
 | charCode | UInt32 | 获取字形标识符的字符代码。 |
 
 ### 返回值

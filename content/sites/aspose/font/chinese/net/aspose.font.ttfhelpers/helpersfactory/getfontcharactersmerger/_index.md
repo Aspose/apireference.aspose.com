@@ -16,12 +16,12 @@ public static IFontCharactersMerger GetFontCharactersMerger(TtfFont font1, TtfFo
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| font1 | TtfFont | 第一个要合并的字体，该字体将被视为主要字体 |
-| font2 | TtfFont | 要合并的第二个字体 |
+| font1 | TtfFont | 要合并的第一个字体，该字体将被视为主要字体 |
+| font2 | TtfFont | 要合并的第二种字体 |
 
 ### 返回值
 
-[`IFontCharactersMerger`](../../ifontcharactersmerger)instance
+[`IFontCharactersMerger`](../../ifontcharactersmerger)实例
 
 ### 也可以看看
 

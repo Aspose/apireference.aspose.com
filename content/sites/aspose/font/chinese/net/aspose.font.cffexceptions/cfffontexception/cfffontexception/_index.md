@@ -1,14 +1,14 @@
 ---
 title: CffFontException
 second_title: Aspose.Font for .NET API 参考
-description: 初始化新的CffFontExceptionaspose.font.cffexceptions/cfffontexception对象
+description: 初始化新的CffFontExceptionaspose.font.cffexceptions/cfffontexception对象.
 type: docs
 weight: 10
 url: /zh/net/aspose.font.cffexceptions/cfffontexception/cfffontexception/
 ---
 ## CffFontException() {#constructor}
 
-初始化新的[`CffFontException`](../../cfffontexception)对象。
+初始化新的[`CffFontException`](../../cfffontexception)对象.
 
 ```csharp
 public CffFontException()
@@ -24,7 +24,7 @@ public CffFontException()
 
 ## CffFontException(string) {#constructor_2}
 
-初始化新的[`CffFontException`](../../cfffontexception)对象。
+初始化新的[`CffFontException`](../../cfffontexception)对象.
 
 ```csharp
 public CffFontException(string message)
@@ -44,7 +44,7 @@ public CffFontException(string message)
 
 ## CffFontException(string, Exception) {#constructor_3}
 
-初始化新的[`CffFontException`](../../cfffontexception)对象。
+初始化新的[`CffFontException`](../../cfffontexception)对象.
 
 ```csharp
 public CffFontException(string message, Exception innerException)
@@ -65,7 +65,7 @@ public CffFontException(string message, Exception innerException)
 
 ## CffFontException(SerializationInfo, StreamingContext) {#constructor_1}
 
-初始化新的[`CffFontException`](../../cfffontexception)对象。
+初始化新的[`CffFontException`](../../cfffontexception)对象.
 
 ```csharp
 public CffFontException(SerializationInfo info, StreamingContext context)

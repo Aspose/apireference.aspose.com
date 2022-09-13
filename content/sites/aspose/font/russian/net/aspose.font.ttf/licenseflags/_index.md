@@ -26,7 +26,7 @@ public class LicenseFlags
 | [IsNoSubsettingEmbedding](../../aspose.font.ttf/licenseflags/isnosubsettingembedding) { get; } | Определяет, разрешает ли fsType встраивание NoSubsetting. |
 | [IsPreviewAndPrintEmbedding](../../aspose.font.ttf/licenseflags/ispreviewandprintembedding) { get; } | Определяет, разрешает ли fsType встраивание предварительного просмотра и печати. |
 | [IsReservedType](../../aspose.font.ttf/licenseflags/isreservedtype) { get; } | Определяет, установлен ли зарезервированный бит (бит 0) для fsType. |
-| [IsRestrictedLicenseEmbedding](../../aspose.font.ttf/licenseflags/isrestrictedlicenseembedding) { get; } | Определяет, является ли fsType внедрением с ограниченной лицензией. |
+| [IsRestrictedLicenseEmbedding](../../aspose.font.ttf/licenseflags/isrestrictedlicenseembedding) { get; } | Определяет, является ли fsType внедрением ограниченной лицензии. |
 
 ### Смотрите также
 

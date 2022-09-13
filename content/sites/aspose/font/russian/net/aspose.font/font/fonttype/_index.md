@@ -1,14 +1,14 @@
 ---
 title: FontType
 second_title: Справочник по API Aspose.Font для .NET
-description: Получает тип шрифта.  Type1 TrueType и т. д.
+description: Получает тип шрифта. Тип1 TrueType и т. д.
 type: docs
 weight: 90
 url: /ru/net/aspose.font/font/fonttype/
 ---
 ## Font.FontType property
 
-Получает тип шрифта.  Type1, TrueType и т. д.
+Получает тип шрифта. Тип1, TrueType и т. д.
 
 ```csharp
 public abstract FontType FontType { get; }

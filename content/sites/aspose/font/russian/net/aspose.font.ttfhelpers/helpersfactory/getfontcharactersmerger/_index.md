@@ -1,14 +1,14 @@
 ---
 title: GetFontCharactersMerger
 second_title: Справочник по API Aspose.Font для .NET
-description: Создает экземпляр IFontCharactersMerger
+description: Создает экземпляр IFontCharactersMerge
 type: docs
 weight: 10
 url: /ru/net/aspose.font.ttfhelpers/helpersfactory/getfontcharactersmerger/
 ---
 ## HelpersFactory.GetFontCharactersMerger method
 
-Создает экземпляр IFontCharactersMerger
+Создает экземпляр IFontCharactersMerge
 
 ```csharp
 public static IFontCharactersMerger GetFontCharactersMerger(TtfFont font1, TtfFont font2)
@@ -16,12 +16,12 @@ public static IFontCharactersMerger GetFontCharactersMerger(TtfFont font1, TtfFo
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| font1 | TtfFont | Первый шрифт для слияния, этот шрифт будет считаться основным |
-| font2 | TtfFont | Второй шрифт для объединения |
+| font1 | TtfFont | Первый шрифт для слияния, этот шрифт будет считаться основным шрифтом |
+| font2 | TtfFont | Второй шрифт для слияния |
 
 ### Возвращаемое значение
 
-[`IFontCharactersMerger`](../../ifontcharactersmerger)instance
+[`IFontCharactersMerger`](../../ifontcharactersmerger) пример
 
 ### Смотрите также
 

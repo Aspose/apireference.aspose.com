@@ -1,14 +1,14 @@
 ---
 title: IsEmpty
 second_title: Aspose.Font for .NET API 参考
-description: 如果字形不包含绘图指令则为真
+description: 如果字形不包含绘图说明则为真
 type: docs
 weight: 20
 url: /zh/net/aspose.font.glyphs/glyph/isempty/
 ---
 ## Glyph.IsEmpty property
 
-如果字形不包含绘图指令，则为真。
+如果字形不包含绘图说明，则为真。
 
 ```csharp
 public bool IsEmpty { get; }

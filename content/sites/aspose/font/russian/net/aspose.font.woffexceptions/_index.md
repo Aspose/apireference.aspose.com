@@ -1,12 +1,12 @@
 ---
 title: Aspose.Font.WoffExceptions
 second_title: Справочник по API Aspose.Font для .NET
-description: Пространство имен Aspose.Font.WoffExceptions предоставляет классы исключений относящиеся к формату шрифта WOFF.
+description: Aspose.Font.WoffExceptions пространство имен предоставляет классы исключений связанные с форматом шрифта WOFF.
 type: docs
-weight: 150
+weight: 160
 url: /ru/net/aspose.font.woffexceptions/
 ---
-Пространство имен **Aspose.Font.WoffExceptions** предоставляет классы исключений, относящиеся к формату шрифта WOFF.
+**Aspose.Font.WoffExceptions** пространство имен предоставляет классы исключений, связанные с форматом шрифта WOFF.
 
 ## Классы
 

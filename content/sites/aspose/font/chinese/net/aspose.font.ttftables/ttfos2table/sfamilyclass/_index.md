@@ -1,14 +1,14 @@
 ---
 title: SFamilyClass
 second_title: Aspose.Font for .NET API 参考
-description: 这个参数是字体系列设计的一个分类 字体类和字体子类是IBM 分配给每个字体系列的注册值此参数用于在请求的字体不可用时选择替代字体
+description: 此参数是字体系列设计的分类 字体类别和字体子类别是IBM 分配给每个字体系列的注册值此参数用于在请求的字体不可用时选择替代字体
 type: docs
 weight: 60
 url: /zh/net/aspose.font.ttftables/ttfos2table/sfamilyclass/
 ---
 ## TtfOs2Table.SFamilyClass property
 
-这个参数是字体系列设计的一个分类。 字体类和字体子类是IBM 分配给每个字体系列的注册值。此参数用于在请求的字体不可用时选择替代字体。
+此参数是字体系列设计的分类。 字体类别和字体子类别是IBM 分配给每个字体系列的注册值。此参数用于在请求的字体不可用时选择替代字体。
 
 ```csharp
 public short SFamilyClass { get; }

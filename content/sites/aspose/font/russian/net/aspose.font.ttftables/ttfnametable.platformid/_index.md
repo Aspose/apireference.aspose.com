@@ -3,7 +3,7 @@ title: TtfNameTable.PlatformId
 second_title: Справочник по API Aspose.Font для .NET
 description: Представляет перечисление PlatformId.
 type: docs
-weight: 960
+weight: 970
 url: /ru/net/aspose.font.ttftables/ttfnametable.platformid/
 ---
 ## TtfNameTable.PlatformId enumeration
@@ -20,7 +20,7 @@ public enum PlatformId
 | --- | --- | --- |
 | Unicode | `0` | Значение 0 Юникод |
 | Macintosh | `1` | Значение 1 Код диспетчера сценариев Macintosh. |
-| ISO | `2` | Value2 Спецификация Apple: (зарезервировано; не использовать) Спецификация MS: кодировка ISO. Обратите внимание, что идентификатор платформы 2 (ISO) устарел, начиная со спецификации OpenType v1.3. Он был предназначен для представления ISO/IEC 10646, а не Unicode; оба стандарта имеют идентичные коды символов |
+| ISO | `2` | Value2 Спецификация Apple: (зарезервировано; не использовать) Спецификация MS: кодировка ISO. Обратите внимание, что идентификатор платформы 2 (ISO) устарел, начиная со спецификации OpenType v1.3. Он был предназначен для представления ISO/IEC 10646, а не Unicode; оба стандарта имеют одинаковые коды символов |
 | Microsoft | `3` | Значение 3 Кодировка Microsoft. |
 
 ### Смотрите также

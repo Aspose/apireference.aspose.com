@@ -1,14 +1,14 @@
 ---
 title: Scale
 second_title: Aspose.Font for .NET API 参考
-description: 用变换矩阵缩放 x 和 y x1  Ax  Cy y1  Bx  Dy
+description: 用变换矩阵缩放 x 和 y x1  Ax  Cy y1  Bx  Dy.
 type: docs
 weight: 100
 url: /zh/net/aspose.font/transformationmatrix/scale/
 ---
 ## TransformationMatrix.Scale method
 
-用变换矩阵缩放 x 和 y： x1 = A*x + C*y; y1 = B*x + D*y。
+用变换矩阵缩放 x 和 y： x1 = A*x + C*y; y1 = B*x + D*y.
 
 ```csharp
 public void Scale(double x, double y, out double x1, out double y1)

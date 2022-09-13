@@ -1,14 +1,14 @@
 ---
 title: GetAllGlyphIds
 second_title: Справочник по API Aspose.Font для .NET
-description: Возвращает все идентификаторы глифов доступные в шрифте. Не поддерживается для типаType1MetricFontaspose.font.type1/type1metricfont.
+description: Возвращает все идентификаторы глифов доступные в шрифте. Не поддерживается дляType1MetricFontaspose.font.type1/type1metricfontтип.
 type: docs
 weight: 70
 url: /ru/net/aspose.font.type1/type1metricfont/getallglyphids/
 ---
 ## Type1MetricFont.GetAllGlyphIds method
 
-Возвращает все идентификаторы глифов, доступные в шрифте. Не поддерживается для типа[`Type1MetricFont`](../../type1metricfont).
+Возвращает все идентификаторы глифов, доступные в шрифте. Не поддерживается для[`Type1MetricFont`](../../type1metricfont)тип.
 
 ```csharp
 public override GlyphId[] GetAllGlyphIds()
@@ -16,7 +16,7 @@ public override GlyphId[] GetAllGlyphIds()
 
 ### Возвращаемое значение
 
-Все идентификаторы глифов, доступные в Шрифте.
+Все идентификаторы глифов, доступные в Font.
 
 ### Смотрите также
 

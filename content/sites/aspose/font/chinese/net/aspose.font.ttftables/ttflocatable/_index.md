@@ -3,7 +3,7 @@ title: TtfLocaTable
 second_title: Aspose.Font for .NET API 参考
 description: 表示 TTF 字体文件的loca表
 type: docs
-weight: 860
+weight: 870
 url: /zh/net/aspose.font.ttftables/ttflocatable/
 ---
 ## TtfLocaTable class
@@ -18,7 +18,7 @@ public class TtfLocaTable : TtfTableBase
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Offset](../../aspose.font.ttftables/ttftablebase/offset) { get; } | 从 sfnt 开始处获取偏移量。 |
+| [Offset](../../aspose.font.ttftables/ttftablebase/offset) { get; } | 获取从 sfnt 开始的偏移量。 |
 | virtual [Offsets](../../aspose.font.ttftables/ttflocatable/offsets) { get; } | 获取字形偏移列表。 |
 | [TtfTables](../../aspose.font.ttftables/ttftablebase/ttftables) { get; } | 对 TTF 表存储库的引用。 |
 | static [Tag](../../aspose.font.ttftables/ttflocatable/tag) { get; } | 获取表标签。 |

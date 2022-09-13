@@ -16,7 +16,7 @@ public uint this[int index] { get; }
 
 | 范围 | 描述 |
 | --- | --- |
-| index | 偏移索引。 |
+| index | 偏移指数。 |
 
 ### 也可以看看
 

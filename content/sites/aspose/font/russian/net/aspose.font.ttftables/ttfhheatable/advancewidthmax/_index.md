@@ -1,14 +1,14 @@
 ---
 title: AdvanceWidthMax
 second_title: Справочник по API Aspose.Font для .NET
-description: Получает uFWord advanceWidthMax должен соответствовать горизонтальным метрикам.
+description: Получает что uFWord advanceWidthMax должен соответствовать горизонтальным метрикам.
 type: docs
 weight: 10
 url: /ru/net/aspose.font.ttftables/ttfhheatable/advancewidthmax/
 ---
 ## TtfHheaTable.AdvanceWidthMax property
 
-Получает uFWord advanceWidthMax должен соответствовать горизонтальным метрикам.
+Получает, что uFWord advanceWidthMax должен соответствовать горизонтальным метрикам.
 
 ```csharp
 public ushort AdvanceWidthMax { get; }

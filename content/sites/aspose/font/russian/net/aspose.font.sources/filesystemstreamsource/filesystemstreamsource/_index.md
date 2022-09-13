@@ -1,14 +1,14 @@
 ---
 title: FileSystemStreamSource
 second_title: Справочник по API Aspose.Font для .NET
-description: Инициализирует новый объектFileSystemStreamSourceaspose.font.sources/filesystemstreamsource.
+description: Инициализирует новыйFileSystemStreamSourceaspose.font.sources/filesystemstreamsource объект.
 type: docs
 weight: 10
 url: /ru/net/aspose.font.sources/filesystemstreamsource/filesystemstreamsource/
 ---
 ## FileSystemStreamSource constructor
 
-Инициализирует новый объект[`FileSystemStreamSource`](../../filesystemstreamsource).
+Инициализирует новый[`FileSystemStreamSource`](../../filesystemstreamsource) объект.
 
 ```csharp
 public FileSystemStreamSource(string fileName)

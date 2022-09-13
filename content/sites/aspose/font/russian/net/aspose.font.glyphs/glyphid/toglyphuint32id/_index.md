@@ -1,14 +1,14 @@
 ---
 title: ToGlyphUInt32Id
 second_title: Справочник по API Aspose.Font для .NET
-description: Виртуальное приведение к GlyphUInt32Id. GlyphUInt32Id переопределяет возвращаемый экземпляр.
+description: Виртуальное приведение к GlyphUInt32Id. GlyphUInt32Id переопределяет возврат экземпляра.
 type: docs
 weight: 40
 url: /ru/net/aspose.font.glyphs/glyphid/toglyphuint32id/
 ---
 ## GlyphId.ToGlyphUInt32Id method
 
-Виртуальное приведение к GlyphUInt32Id. GlyphUInt32Id переопределяет возвращаемый экземпляр.
+Виртуальное приведение к GlyphUInt32Id. GlyphUInt32Id переопределяет возврат экземпляра.
 
 ```csharp
 public virtual GlyphUInt32Id ToGlyphUInt32Id()
@@ -16,7 +16,7 @@ public virtual GlyphUInt32Id ToGlyphUInt32Id()
 
 ### Возвращаемое значение
 
-null
+нулевой
 
 ### Смотрите также
 

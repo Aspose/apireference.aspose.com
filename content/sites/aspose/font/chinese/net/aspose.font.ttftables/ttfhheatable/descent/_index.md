@@ -1,14 +1,14 @@
 ---
 title: Descent
 second_title: Aspose.Font for .NET API 参考
-description: 获得下降
+description: 获取下降
 type: docs
 weight: 50
 url: /zh/net/aspose.font.ttftables/ttfhheatable/descent/
 ---
 ## TtfHheaTable.Descent property
 
-获得下降。
+获取下降。
 
 ```csharp
 public short Descent { get; }

@@ -1,14 +1,14 @@
 ---
 title: TY
 second_title: Aspose.Font for .NET API 参考
-description: 获取或设置 TY 变换矩阵值
+description: 获取或设置TY变换矩阵值
 type: docs
 weight: 80
 url: /zh/net/aspose.font/transformationmatrix/ty/
 ---
 ## TransformationMatrix.TY property
 
-获取或设置 TY 变换矩阵值。
+获取或设置TY变换矩阵值。
 
 ```csharp
 public double TY { get; set; }

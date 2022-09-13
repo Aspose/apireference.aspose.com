@@ -16,7 +16,7 @@ public FontFileDefinition(StreamSource streamSource)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| streamSource | StreamSource | Источник потока шрифта. |
+| streamSource | StreamSource | Источник потока шрифтов. |
 
 ### Смотрите также
 
@@ -61,7 +61,7 @@ public FontFileDefinition(string fileExtension, StreamSource streamSource, long 
 | --- | --- | --- |
 | fileExtension | String | Расширение файла шрифта. |
 | streamSource | StreamSource | Источник потока шрифтов. |
-| offset | Int64 | Смещение данных шрифта в источнике потока. |
+| offset | Int64 | Смещение к данным шрифта в источнике потока. |
 
 ### Смотрите также
 

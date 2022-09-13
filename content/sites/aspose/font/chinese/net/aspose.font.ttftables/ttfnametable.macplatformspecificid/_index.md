@@ -1,14 +1,14 @@
 ---
 title: TtfNameTable.MacPlatformSpecificId
 second_title: Aspose.Font for .NET API 参考
-description: 表示 Macintosh 平台 PlatformSpecificId 枚举
+description: 代表 Macintosh 平台 PlatformSpecificId 枚举
 type: docs
-weight: 930
+weight: 940
 url: /zh/net/aspose.font.ttftables/ttfnametable.macplatformspecificid/
 ---
 ## TtfNameTable.MacPlatformSpecificId enumeration
 
-表示 Macintosh 平台 PlatformSpecificId 枚举。
+代表 Macintosh 平台 PlatformSpecificId 枚举。
 
 ```csharp
 public enum MacPlatformSpecificId
@@ -18,16 +18,16 @@ public enum MacPlatformSpecificId
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| Roman | `0` | Roman 平台特定值。 |
+| Roman | `0` | 罗马平台特定值。 |
 | Japanese | `1` | 日文平台特定值。 |
 | Traditional_Chinese | `2` | 繁体中文平台特定值。 |
-| Korean | `3` | 韩国平台特定值。 |
+| Korean | `3` | 韩语平台具体值. |
 | Arabic | `4` | 阿拉伯语平台特定值。 |
 | Hebrew | `5` | 希伯来语平台特定值。 |
-| Greek | `6` | 希腊平台特定值。 |
+| Greek | `6` | 希腊语平台特定值。 |
 | Russian | `7` | 俄罗斯平台特定值。 |
 | RSymbol | `8` | RSymbol 平台特定值。 |
-| Devanagari | `9` | Devanagari 平台特定值。 |
+| Devanagari | `9` | 梵文平台特定值。 |
 | Gurmukhi | `10` | Gurmukhi 平台特定值。 |
 | Gujarati | `11` | 古吉拉特语平台特定值。 |
 | Oriya | `12` | Oriya 平台特定值。 |
@@ -43,9 +43,9 @@ public enum MacPlatformSpecificId
 | Laotian | `22` | 老挝平台具体值。 |
 | Georgian | `23` | 格鲁吉亚平台特定值。 |
 | Armenian | `24` | 亚美尼亚平台特定值。 |
-| Simplified_Chinese | `25` | 简体中文平台特定值。 |
+| Simplified_Chinese | `25` | 简体中文平台具体值。 |
 | Tibetan | `26` | 藏语平台具体值。 |
-| Mongolian | `27` | 蒙古语平台特定值。 |
+| Mongolian | `27` | 蒙古语平台具体值。 |
 | Geez | `28` | Geez 平台特定值。 |
 | Slavic | `29` | 斯拉夫平台特定值。 |
 | Vietnamese | `30` | 越南语平台特定值。 |

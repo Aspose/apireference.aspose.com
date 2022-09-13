@@ -33,9 +33,9 @@ public class CffFontMetrics : FontMetrics
 
 | Имя | Описание |
 | --- | --- |
-| virtual [GetAscender](../../aspose.font/fontmetrics/getascender)(double) | Возвращает восходящий элемент для определенного размера шрифта. |
+| virtual [GetAscender](../../aspose.font/fontmetrics/getascender)(double) | Возвращает верхний элемент для определенного размера шрифта. |
 | virtual [GetDescender](../../aspose.font/fontmetrics/getdescender)(double) | Возвращает выносной элемент для определенного размера шрифта. |
-| [GetFontMatrixForGlyph](../../aspose.font.cff/cfffontmetrics/getfontmatrixforglyph)(GlyphId) | Вычисляет матрицу преобразования для глифа, заданного идентификатором. |
+| [GetFontMatrixForGlyph](../../aspose.font.cff/cfffontmetrics/getfontmatrixforglyph)(GlyphId) | Вычисляет матрицу преобразования для глифа, указанного id. |
 | virtual [GetGlyphBBox](../../aspose.font/fontmetrics/getglyphbbox)(GlyphId) | Возвращает глиф BBox. Возвращает FontBBox, если BBox не был определен для глифа. Может быть переопределен определенными наследниками кодировки шрифта. |
 | override [GetGlyphWidth](../../aspose.font.cff/cfffontmetrics/getglyphwidth)(GlyphId) | Возвращает ширину глифа. Может быть переопределен определенными наследниками кодировки шрифта. |
 | virtual [GetKerningValue](../../aspose.font/fontmetrics/getkerningvalue)(GlyphId, GlyphId) | Возвращает значение кернинга для пары глифов. |

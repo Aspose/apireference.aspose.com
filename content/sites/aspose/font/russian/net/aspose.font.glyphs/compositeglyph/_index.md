@@ -20,14 +20,14 @@ public class CompositeGlyph : Glyph
 | --- | --- |
 | [Components](../../aspose.font.glyphs/compositeglyph/components) { get; } | Получает список компонентов. |
 | [GlyphBBox](../../aspose.font.glyphs/glyph/glyphbbox) { get; } | Получает глиф BBox. |
-| [IsEmpty](../../aspose.font.glyphs/glyph/isempty) { get; } | Истинно, если глиф не содержит инструкции по рисованию. |
-| [LeftSidebearingX](../../aspose.font.glyphs/glyph/leftsidebearingx) { get; } | Получает координату X бокового направления глифа. |
+| [IsEmpty](../../aspose.font.glyphs/glyph/isempty) { get; } | Истинно, если глиф не содержит инструкций по рисованию. |
+| [LeftSidebearingX](../../aspose.font.glyphs/glyph/leftsidebearingx) { get; } | Получает координату x бокового направления глифа. |
 | [LeftSidebearingY](../../aspose.font.glyphs/glyph/leftsidebearingy) { get; } | Получает координату y бокового направления глифа. |
 | virtual [Path](../../aspose.font.glyphs/glyph/path) { get; } | Получает путь глифа. |
 | [SourceResolution](../../aspose.font.glyphs/glyph/sourceresolution) { get; } | Получает разрешение исходного набора команд. |
 | [State](../../aspose.font.glyphs/glyph/state) { get; } | Получает состояние глифа. |
-| [WidthVectorX](../../aspose.font.glyphs/glyph/widthvectorx) { get; } | Получает вектор ширины глифа. Координата х. |
-| [WidthVectorY](../../aspose.font.glyphs/glyph/widthvectory) { get; } | Получает вектор ширины глифа. Координата ю. |
+| [WidthVectorX](../../aspose.font.glyphs/glyph/widthvectorx) { get; } | Получает вектор ширины глифа. Координата x. |
+| [WidthVectorY](../../aspose.font.glyphs/glyph/widthvectory) { get; } | Получает вектор ширины глифа. Координата y. |
 
 ## Методы
 

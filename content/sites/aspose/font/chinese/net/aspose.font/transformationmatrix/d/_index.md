@@ -1,14 +1,14 @@
 ---
 title: D
 second_title: Aspose.Font for .NET API 参考
-description: 获取或设置 D 变换矩阵值
+description: 获取或设置D变换矩阵值
 type: docs
 weight: 50
 url: /zh/net/aspose.font/transformationmatrix/d/
 ---
 ## TransformationMatrix.D property
 
-获取或设置 D 变换矩阵值。
+获取或设置D变换矩阵值。
 
 ```csharp
 public double D { get; set; }

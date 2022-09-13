@@ -3,7 +3,7 @@ title: op_Equality
 second_title: Aspose.Font for .NET API 参考
 description: 等式运算符实现
 type: docs
-weight: 80
+weight: 100
 url: /zh/net/aspose.font/multilanguagestring/op_equality/
 ---
 ## operator == {#op_equality}
@@ -16,8 +16,8 @@ public static bool operator ==(MultiLanguageString obj1, string obj2)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| obj1 | MultiLanguageString | 要比较的第一个对象 |
-| obj2 | String | 要比较的第二个对象 |
+| obj1 | MultiLanguageString | 第一个要比较的对象 |
+| obj2 | String | 第二个要比较的对象 |
 
 ### 返回值
 

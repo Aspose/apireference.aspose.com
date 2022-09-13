@@ -3,7 +3,7 @@ title: Tag
 second_title: Aspose.Font for .NET API 参考
 description: 获取表标签
 type: docs
-weight: 60
+weight: 110
 url: /zh/net/aspose.font.ttftables/ttfnametable/tag/
 ---
 ## TtfNameTable.Tag property

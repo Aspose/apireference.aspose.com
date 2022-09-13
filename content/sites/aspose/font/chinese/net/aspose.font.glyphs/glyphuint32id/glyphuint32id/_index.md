@@ -1,14 +1,14 @@
 ---
 title: GlyphUInt32Id
 second_title: Aspose.Font for .NET API 参考
-description: 初始化新的GlyphUInt32Idaspose.font.glyphs/glyphuint32id对象
+description: 初始化新的GlyphUInt32Idaspose.font.glyphs/glyphuint32id对象.
 type: docs
 weight: 10
 url: /zh/net/aspose.font.glyphs/glyphuint32id/glyphuint32id/
 ---
 ## GlyphUInt32Id constructor
 
-初始化新的[`GlyphUInt32Id`](../../glyphuint32id)对象。
+初始化新的[`GlyphUInt32Id`](../../glyphuint32id)对象.
 
 ```csharp
 public GlyphUInt32Id(uint value)

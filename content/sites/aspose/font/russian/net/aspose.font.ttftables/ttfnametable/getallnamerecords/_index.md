@@ -1,14 +1,14 @@
 ---
 title: GetAllNameRecords
 second_title: Справочник по API Aspose.Font для .NET
-description: Возвращает всеNameRecordaspose.font.ttftables/ttfnametable.namerecordструктуры из таблицы
+description: Возвращает всеNameRecordaspose.font.ttftables/ttfnametable.namerecord структуры из table
 type: docs
-weight: 20
+weight: 50
 url: /ru/net/aspose.font.ttftables/ttfnametable/getallnamerecords/
 ---
 ## TtfNameTable.GetAllNameRecords method
 
-Возвращает все[`NameRecord`](../../ttfnametable.namerecord)структуры из таблицы
+Возвращает все[`NameRecord`](../../ttfnametable.namerecord) структуры из table
 
 ```csharp
 public NameRecord[] GetAllNameRecords()
@@ -16,7 +16,7 @@ public NameRecord[] GetAllNameRecords()
 
 ### Возвращаемое значение
 
-Массив структур[`NameRecord`](../../ttfnametable.namerecord)
+Массив[`NameRecord`](../../ttfnametable.namerecord) структуры
 
 ### Смотрите также
 

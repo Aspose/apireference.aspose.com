@@ -1,14 +1,14 @@
 ---
 title: Transform
 second_title: Aspose.Font for .NET API 参考
-description: 用变换矩阵变换 x 和 y x1  Ax  Cy  TX y1  Bx  Dy  TY
+description: 用变换矩阵变换 x 和 y x1  Ax  Cy  TX y1  Bx  Dy  TY.
 type: docs
 weight: 120
 url: /zh/net/aspose.font/transformationmatrix/transform/
 ---
 ## TransformationMatrix.Transform method
 
-用变换矩阵变换 x 和 y： x1 = A*x + C*y + TX； y1 = B*x + D*y + TY。
+用变换矩阵变换 x 和 y： x1 = A*x + C*y + TX; y1 = B*x + D*y + TY.
 
 ```csharp
 public void Transform(double x, double y, out double x1, out double y1)

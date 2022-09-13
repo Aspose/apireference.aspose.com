@@ -18,14 +18,14 @@ public interface IGlyphAccessor
 
 | 姓名 | 描述 |
 | --- | --- |
-| [GlyphIdType](../../aspose.font.glyphs/iglyphaccessor/glyphidtype) { get; } | 字形标识类型规范。 |
+| [GlyphIdType](../../aspose.font.glyphs/iglyphaccessor/glyphidtype) { get; } | 字形 id 类型规范。 |
 
 ## 方法
 
 | 姓名 | 描述 |
 | --- | --- |
-| [GetAllGlyphIds](../../aspose.font.glyphs/iglyphaccessor/getallglyphids)() | 返回字体中可用的所有字形 ID。 Glyph id 是字形的唯一编号，它取决于字体类型。 例如： Type1 的 id 是一个字形名称，是 ([`GlyphStringId`](../glyphstringid)) 类的实例。 TTF 的 id 是一个 int 索引，是 ([`GlyphUInt32Id`](../glyphuint32id)) 类的实例。 |
-| [GetGlyphById](../../aspose.font.glyphs/iglyphaccessor/getglyphbyid)(GlyphId) | 按字形 id 返回字形。 Glyph id 是字形的唯一编号，它取决于字体类型。 GlyphId - 派生对象。 例如： Type1 的 id 是一个字形名称，是 ([`GlyphStringId`](../glyphstringid)) 类的实例。 TTF 的 id 是一个 int 索引，是 ([`GlyphUInt32Id`](../glyphuint32id)) 类的实例。 |
+| [GetAllGlyphIds](../../aspose.font.glyphs/iglyphaccessor/getallglyphids)() | 返回所有字形 id，在 Font 中可用。 字形 id 是字形的唯一编号，取决于字体类型。 例如： Type1 的 id 是字形名称，实例为 ([`GlyphStringId`](../glyphstringid)) class. TTF 的 id 是一个 int 索引，实例为 ([`GlyphUInt32Id`](../glyphuint32id) 类. |
+| [GetGlyphById](../../aspose.font.glyphs/iglyphaccessor/getglyphbyid)(GlyphId) | 按字形 id 返回字形。 字形 id 是字形的唯一编号，取决于字体类型。 GlyphId - 派生对象。 例如： Type1的id是一个字形名称，实例为（[`GlyphStringId`](../glyphstringid)) class. TTF 的 id 是一个 int 索引，实例为 ([`GlyphUInt32Id`](../glyphuint32id) 类. |
 | [GetGlyphsForText](../../aspose.font.glyphs/iglyphaccessor/getglyphsfortext)(string) | 获取文本的字形表示。 |
 
 ### 也可以看看

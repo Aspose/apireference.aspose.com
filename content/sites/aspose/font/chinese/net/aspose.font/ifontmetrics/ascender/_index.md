@@ -1,14 +1,14 @@
 ---
 title: Ascender
 second_title: Aspose.Font for .NET API 参考
-description: 以字体单位获取 Font 的升序值
+description: 以字体单位获取字体的升序值
 type: docs
 weight: 10
 url: /zh/net/aspose.font/ifontmetrics/ascender/
 ---
 ## IFontMetrics.Ascender property
 
-以字体单位获取 Font 的升序值。
+以字体单位获取字体的升序值。
 
 ```csharp
 public double Ascender { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: TtfCMapFormat8Table
 second_title: Aspose.Font for .NET API 参考
-description: 代表 TTF 字体文件的 Format8 CMap 子表
+description: 代表TTF字体文件的Format8 CMap子表
 type: docs
 weight: 710
 url: /zh/net/aspose.font.ttfcmapformats/ttfcmapformat8table/
 ---
 ## TtfCMapFormat8Table class
 
-代表 TTF 字体文件的 Format8 CMap 子表。
+代表TTF字体文件的Format8 CMap子表。
 
 ```csharp
 public class TtfCMapFormat8Table : TtfCMapFormatBaseTable
@@ -18,14 +18,14 @@ public class TtfCMapFormat8Table : TtfCMapFormatBaseTable
 
 | 姓名 | 描述 |
 | --- | --- |
-| [PlatformId](../../aspose.font.ttfcmapformats/ttfcmapformatbasetable/platformid) { get; } | 获取 PlatformId。 |
-| [PlatformSpecificId](../../aspose.font.ttfcmapformats/ttfcmapformatbasetable/platformspecificid) { get; } | 获取 PlatformSpecificId。 |
+| [PlatformId](../../aspose.font.ttfcmapformats/ttfcmapformatbasetable/platformid) { get; } | 获取 PlatformId. |
+| [PlatformSpecificId](../../aspose.font.ttfcmapformats/ttfcmapformatbasetable/platformspecificid) { get; } | 获取 PlatformSpecificId. |
 
 ## 方法
 
 | 姓名 | 描述 |
 | --- | --- |
-| virtual [GetAllCodes](../../aspose.font.ttfcmapformats/ttfcmapformatbasetable/getallcodes)() | 从当前 CMap 的子表中获取所有代码。 |
+| virtual [GetAllCodes](../../aspose.font.ttfcmapformats/ttfcmapformatbasetable/getallcodes)() | 获取当前 CMap 的子表中的所有代码。 |
 | override [GetGlyphIndex](../../aspose.font.ttfcmapformats/ttfcmapformat8table/getglyphindex)(uint) | 获取给定字符代码的字形索引。 |
 
 ### 也可以看看

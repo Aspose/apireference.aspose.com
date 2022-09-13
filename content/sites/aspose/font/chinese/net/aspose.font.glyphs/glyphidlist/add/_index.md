@@ -1,14 +1,14 @@
 ---
 title: Add
 second_title: Aspose.Font for .NET API 参考
-description: 将字形 ID 添加到列表中
+description: 将字形 id 添加到列表中
 type: docs
 weight: 20
 url: /zh/net/aspose.font.glyphs/glyphidlist/add/
 ---
 ## GlyphIdList.Add method
 
-将字形 ID 添加到列表中。
+将字形 id 添加到列表中。
 
 ```csharp
 public void Add(GlyphId glyphId)

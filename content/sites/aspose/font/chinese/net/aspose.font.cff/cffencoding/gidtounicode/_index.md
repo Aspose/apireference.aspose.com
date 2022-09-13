@@ -1,14 +1,14 @@
 ---
 title: GidToUnicode
 second_title: Aspose.Font for .NET API 参考
-description: 将 Gid 解码为 unicode Glyph id 是字形的唯一编号它取决于字体类型 CFF 字体字形 id 可以是 GlyphStringIdaspose.font.glyphs/glyphstringid 类或 GlyphUInt32Idaspose.font.glyphs/glyphuint32id 类的实例.
+description: 将 Gid 解码为 unicode 字形 ID 是字形的唯一编号取决于字体类型 CFF 字体字形 ID 可以是 GlyphStringIdaspose.font.glyphs/glyphstringid 类或 GlyphUInt32Idaspose.font.glyphs/glyphuint32id 类.
 type: docs
 weight: 80
 url: /zh/net/aspose.font.cff/cffencoding/gidtounicode/
 ---
 ## CffEncoding.GidToUnicode method
 
-将 Gid 解码为 unicode。 Glyph id 是字形的唯一编号，它取决于字体类型。 CFF 字体字形 id 可以是 ([`GlyphStringId`](../../../aspose.font.glyphs/glyphstringid)) 类或 ([`GlyphUInt32Id`](../../../aspose.font.glyphs/glyphuint32id)) 类的实例.
+将 Gid 解码为 unicode。 字形 ID 是字形的唯一编号，取决于字体类型。 CFF 字体字形 ID 可以是 ([`GlyphStringId`](../../../aspose.font.glyphs/glyphstringid)) 类或 ([`GlyphUInt32Id`](../../../aspose.font.glyphs/glyphuint32id) 类.
 
 ```csharp
 public uint GidToUnicode(GlyphId gid)
@@ -20,7 +20,7 @@ public uint GidToUnicode(GlyphId gid)
 
 ### 返回值
 
-与传递的字形 id 相关的 Unicode 值。
+与字形 id 相关的 Unicode 值已通过。
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: PlatformSpecificId
 second_title: Aspose.Font for .NET API 参考
-description: 平台特定的编码标识符
+description: 平台特定编码标识符
 type: docs
 weight: 50
 url: /zh/net/aspose.font.ttftables/ttfnametable.namerecord/platformspecificid/
 ---
 ## TtfNameTable.NameRecord.PlatformSpecificId property
 
-平台特定的编码标识符
+平台特定编码标识符
 
 ```csharp
 public ushort PlatformSpecificId { get; }

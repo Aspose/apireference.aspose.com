@@ -1,14 +1,14 @@
 ---
 title: FontDefinition
 second_title: Aspose.Font for .NET API 参考
-description: 表示字体文件集定义 此类包含与字体内部数据无关的字段 这些字段描述字体位置和从 某些字体源文件内存等加载字体所需的其他数据
+description: 表示字体文件集定义 此类包含与字体内部数据无关的字段 这些字段描述字体位置和从 某些字体源文件内存等加载字体所需的另一个数据
 type: docs
 weight: 540
 url: /zh/net/aspose.font.sources/fontdefinition/
 ---
 ## FontDefinition class
 
-表示字体文件集定义。 此类包含与字体内部数据无关的字段。 这些字段描述字体位置和从 某些字体源（文件、内存等）加载字体所需的其他数据。
+表示字体文件集定义。 此类包含与字体内部数据无关的字段。 这些字段描述字体位置和从 某些字体源（文件、内存等）加载字体所需的另一个数据。
 
 ```csharp
 public class FontDefinition
@@ -35,10 +35,10 @@ public class FontDefinition
 | --- | --- |
 | [FileDefinitions](../../aspose.font.sources/fontdefinition/filedefinitions) { get; } | 获取文件定义集合。 |
 | virtual [FontName](../../aspose.font.sources/fontdefinition/fontname) { get; } | 返回字体名称。 |
-| virtual [FontNames](../../aspose.font.sources/fontdefinition/fontnames) { get; } | 获取字体名称为[`MultiLanguageString`](../../aspose.font/multilanguagestring)。 |
+| virtual [FontNames](../../aspose.font.sources/fontdefinition/fontnames) { get; } | 获取字体名称作为[`MultiLanguageString`](../../aspose.font/multilanguagestring). |
 | [FontType](../../aspose.font.sources/fontdefinition/fonttype) { get; } | 获取字体类型。 |
 | virtual [PostscriptName](../../aspose.font.sources/fontdefinition/postscriptname) { get; } | 获取 postscript 字体名称。 |
-| [PostscriptNames](../../aspose.font.sources/fontdefinition/postscriptnames) { get; } | 获取 postscript 字体名称为[`MultiLanguageString`](../../aspose.font/multilanguagestring)。 |
+| [PostscriptNames](../../aspose.font.sources/fontdefinition/postscriptnames) { get; } | 获取 postscript 字体名称作为[`MultiLanguageString`](../../aspose.font/multilanguagestring). |
 
 ## 方法
 

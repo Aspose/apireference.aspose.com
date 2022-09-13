@@ -1,14 +1,14 @@
 ---
 title: FontType
 second_title: Aspose.Font for .NET API 参考
-description: 获取字体类型  Type1TrueType 等
+description: 获取字体类型 Type1TrueType 等
 type: docs
 weight: 90
 url: /zh/net/aspose.font/font/fonttype/
 ---
 ## Font.FontType property
 
-获取字体类型。  Type1、TrueType 等
+获取字体类型。 Type1、TrueType 等
 
 ```csharp
 public abstract FontType FontType { get; }

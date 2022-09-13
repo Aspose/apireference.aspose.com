@@ -1,14 +1,14 @@
 ---
 title: GetGlyphById
 second_title: Справочник по API Aspose.Font для .NET
-description: Возвращает глиф по идентификатору глифа. Идентификатор глифа  это уникальный номер глифа который зависит от типа шрифта. Идентификатор глифа шрифта CFF может быть экземпляром класса GlyphStringIdaspose.font.glyphs/glyphstringid или класса GlyphUInt32Idaspose.font.glyphs/glyphuint32id .
+description: Возвращает глиф по идентификатору глифа. Идентификатор глифа  это уникальный номер для глифа который зависит от типа шрифта. CFF Идентификатор глифа шрифта может быть экземпляром GlyphStringIdaspose.font.glyphs/glyphstringid класс или GlyphUInt32Idaspose.font.glyphs/glyphuint32id класс.
 type: docs
 weight: 160
 url: /ru/net/aspose.font.cff/cfffont/getglyphbyid/
 ---
 ## GetGlyphById(GlyphId) {#getglyphbyid}
 
-Возвращает глиф по идентификатору глифа. Идентификатор глифа — это уникальный номер глифа, который зависит от типа шрифта. Идентификатор глифа шрифта CFF может быть экземпляром класса ([`GlyphStringId`](../../../aspose.font.glyphs/glyphstringid)) или класса ([`GlyphUInt32Id`](../../../aspose.font.glyphs/glyphuint32id)) .
+Возвращает глиф по идентификатору глифа. Идентификатор глифа — это уникальный номер для глифа, который зависит от типа шрифта. CFF Идентификатор глифа шрифта может быть экземпляром ([`GlyphStringId`](../../../aspose.font.glyphs/glyphstringid)) класс или ([`GlyphUInt32Id`](../../../aspose.font.glyphs/glyphuint32id) класс.
 
 ```csharp
 public override Glyph GetGlyphById(GlyphId id)

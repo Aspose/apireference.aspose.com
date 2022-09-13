@@ -24,7 +24,7 @@ public class SegmentPath : ICloneable
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Clone](../../aspose.font.renderingpath/segmentpath/clone)() | 克隆路径。 |
+| [Clone](../../aspose.font.renderingpath/segmentpath/clone)() | 克隆路径. |
 
 ### 也可以看看
 

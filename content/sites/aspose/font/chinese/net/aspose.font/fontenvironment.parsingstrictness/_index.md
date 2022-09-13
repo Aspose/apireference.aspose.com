@@ -19,7 +19,7 @@ public enum ParsingStrictness
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
 | Strict | `0` | 指定严格类型。 |
-| Tolerant | `1` | 指定容错类型。 |
+| Tolerant | `1` | 指定容差类型。 |
 
 ### 也可以看看
 

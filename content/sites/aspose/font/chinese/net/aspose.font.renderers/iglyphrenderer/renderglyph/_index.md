@@ -102,7 +102,7 @@ public void RenderGlyph(IFont font, GlyphId glyphId, TransformationMatrix glyphP
 
 ## RenderGlyph(IFont, GlyphId, Glyph, TransformationMatrix) {#renderglyph_1}
 
-渲染字形，这个重载版本的一个目标 - 用于字形缓存。
+渲染字形，这是这个重载版本的一个目标 - 与字形缓存一起使用。
 
 ```csharp
 public void RenderGlyph(IFont font, GlyphId glyphId, Glyph glyph, 

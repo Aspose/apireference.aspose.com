@@ -1,14 +1,14 @@
 ---
 title: TtfEncodingParameters
 second_title: Aspose.Font for .NET API 参考
-description: 表示 TTF 编码参数 应该用于从 TTF 字体请求特定的编码
+description: 代表TTF编码参数 应该用于从TTF字体请求特定编码
 type: docs
 weight: 620
 url: /zh/net/aspose.font.ttf/ttfencodingparameters/
 ---
 ## TtfEncodingParameters class
 
-表示 TTF 编码参数。 应该用于从 TTF 字体请求特定的编码。
+代表TTF编码参数。 应该用于从TTF字体请求特定编码。
 
 ```csharp
 public class TtfEncodingParameters : IEncodingParameters
@@ -18,7 +18,7 @@ public class TtfEncodingParameters : IEncodingParameters
 
 | 姓名 | 描述 |
 | --- | --- |
-| [TtfEncodingParameters](ttfencodingparameters)(ushort, ushort) | 初始化 TtfEncodingParameters 类的新实例。 以 Platform Id，平台特定的编码 id 作为参数。 这些参数用于从主字体 CMap 表中请求特殊的 CMap 子表， 请参见 OpenType 字体文件规范中的表 'CMap'、'name'。 |
+| [TtfEncodingParameters](ttfencodingparameters)(ushort, ushort) | 初始化 TtfEncodingParameters 类的新实例。 以平台 ID，平台特定编码 id 作为参数。 这些参数用于从主字体 CMap 表中请求特殊的 CMap 子表， 见表 'CMap'，OpenType 字体文件中的'名称'规格. |
 
 ## 特性
 

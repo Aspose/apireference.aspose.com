@@ -1,14 +1,14 @@
 ---
 title: ByteContentStreamSource
 second_title: Справочник по API Aspose.Font для .NET
-description: Представляет источник потока на основе потока содержимого.
+description: Представляет источник потока на основе потока контента.
 type: docs
 weight: 520
 url: /ru/net/aspose.font.sources/bytecontentstreamsource/
 ---
 ## ByteContentStreamSource class
 
-Представляет источник потока на основе потока содержимого.
+Представляет источник потока на основе потока контента.
 
 ```csharp
 public class ByteContentStreamSource : StreamSource
@@ -18,7 +18,7 @@ public class ByteContentStreamSource : StreamSource
 
 | Имя | Описание |
 | --- | --- |
-| [ByteContentStreamSource](bytecontentstreamsource)(byte[]) | Инициализирует новый объект[`ByteContentStreamSource`](../bytecontentstreamsource). |
+| [ByteContentStreamSource](bytecontentstreamsource)(byte[]) | Инициализирует новый[`ByteContentStreamSource`](../bytecontentstreamsource) объект. |
 
 ## Характеристики
 

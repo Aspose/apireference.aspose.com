@@ -1,14 +1,14 @@
 ---
 title: GlyphIdType
 second_title: Aspose.Font for .NET API 参考
-description: 字形标识类型规范 对于需要知道 bytes 真实类型的消费者
+description: Glyph id 类型规范 供需要了解bytes真实类型的消费者使用
 type: docs
 weight: 110
 url: /zh/net/aspose.font/font/glyphidtype/
 ---
 ## Font.GlyphIdType property
 
-字形标识类型规范。 对于需要知道 'bytes[]' 真实类型的消费者。
+Glyph id 类型规范。 供需要了解'bytes[]'真实类型的消费者使用。
 
 ```csharp
 public abstract GlyphIdType GlyphIdType { get; }

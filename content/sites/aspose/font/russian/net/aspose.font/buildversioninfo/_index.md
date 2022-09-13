@@ -19,7 +19,7 @@ public static class BuildVersionInfo
 | Имя | Описание |
 | --- | --- |
 | static [Product](../../aspose.font/buildversioninfo/product) { get; } | Получает полное название продукта. |
-| static [Version](../../aspose.font/buildversioninfo/version) { get; } | Получает версию продукта. |
+| static [Version](../../aspose.font/buildversioninfo/version) { get; } | Получить версию продукта. |
 
 ### Примеры
 

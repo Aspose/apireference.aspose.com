@@ -1,14 +1,14 @@
 ---
 title: CompositeGlyph
 second_title: Aspose.Font for .NET API 参考
-description: 表示字体复合字形
+description: 表示一个字体复合字形
 type: docs
 weight: 200
 url: /zh/net/aspose.font.glyphs/compositeglyph/
 ---
 ## CompositeGlyph class
 
-表示字体复合字形。
+表示一个字体复合字形。
 
 ```csharp
 public class CompositeGlyph : Glyph
@@ -19,15 +19,15 @@ public class CompositeGlyph : Glyph
 | 姓名 | 描述 |
 | --- | --- |
 | [Components](../../aspose.font.glyphs/compositeglyph/components) { get; } | 获取组件列表。 |
-| [GlyphBBox](../../aspose.font.glyphs/glyph/glyphbbox) { get; } | 获取字形 BBox。 |
-| [IsEmpty](../../aspose.font.glyphs/glyph/isempty) { get; } | 如果字形不包含绘图指令，则为真。 |
+| [GlyphBBox](../../aspose.font.glyphs/glyph/glyphbbox) { get; } | 获取字形 BBox. |
+| [IsEmpty](../../aspose.font.glyphs/glyph/isempty) { get; } | 如果字形不包含绘图说明，则为真。 |
 | [LeftSidebearingX](../../aspose.font.glyphs/glyph/leftsidebearingx) { get; } | 获取字形侧方位 x 坐标。 |
 | [LeftSidebearingY](../../aspose.font.glyphs/glyph/leftsidebearingy) { get; } | 获取字形侧方位 y 坐标。 |
 | virtual [Path](../../aspose.font.glyphs/glyph/path) { get; } | 获取字形路径。 |
 | [SourceResolution](../../aspose.font.glyphs/glyph/sourceresolution) { get; } | 获取源命令集的分辨率。 |
 | [State](../../aspose.font.glyphs/glyph/state) { get; } | 获取字形状态。 |
-| [WidthVectorX](../../aspose.font.glyphs/glyph/widthvectorx) { get; } | 获取字形宽度向量。坐标 x。 |
-| [WidthVectorY](../../aspose.font.glyphs/glyph/widthvectory) { get; } | 获取字形宽度向量。坐标y。 |
+| [WidthVectorX](../../aspose.font.glyphs/glyph/widthvectorx) { get; } | 获取字形宽度向量。坐标x. |
+| [WidthVectorY](../../aspose.font.glyphs/glyph/widthvectory) { get; } | 获取字形宽度向量。坐标y. |
 
 ## 方法
 

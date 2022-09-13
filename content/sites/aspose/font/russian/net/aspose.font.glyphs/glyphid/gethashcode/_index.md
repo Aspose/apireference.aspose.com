@@ -1,7 +1,7 @@
 ---
 title: GetHashCode
 second_title: Справочник по API Aspose.Font для .NET
-description: Возвращает хэш-код объекта.
+description: Возвращает хэшкод объекта.
 type: docs
 weight: 20
 url: /ru/net/aspose.font.glyphs/glyphid/gethashcode/
@@ -16,7 +16,7 @@ public abstract int GetHashCode()
 
 ### Возвращаемое значение
 
-Хэш-код объекта.
+Хэшкод объекта.
 
 ### Смотрите также
 

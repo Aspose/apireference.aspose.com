@@ -1,7 +1,7 @@
 ---
 title: Count
 second_title: Aspose.Font for .NET API 参考
-description: 获取地图中名称-代码对的计数
+description: 获取地图中名称代码对的计数
 type: docs
 weight: 10
 url: /zh/net/aspose.font/nametocodemap/count/

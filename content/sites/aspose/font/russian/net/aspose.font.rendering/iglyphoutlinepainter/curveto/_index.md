@@ -16,7 +16,7 @@ public void CurveTo(CurveTo curveTo)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| curveTo | CurveTo | CurveTo ссылка |
+| curveTo | CurveTo | КриваяК ссылке |
 
 ### Смотрите также
 

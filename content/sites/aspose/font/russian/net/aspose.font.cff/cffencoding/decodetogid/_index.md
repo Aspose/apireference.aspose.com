@@ -1,14 +1,14 @@
 ---
 title: DecodeToGid
 second_title: Справочник по API Aspose.Font для .NET
-description: Получает Gid для переданного charCode. Этот метод разработан для CFF CIDFonts  где charCode должен быть допустимым значением CID. Идентификатор глифа  это уникальный номер глифа который зависит от типа шрифта. Идентификатор глифа шрифта CFF может быть экземпляром класса GlyphStringIdaspose.font.glyphs/glyphstringid или класса GlyphUInt32Idaspose.font.glyphs/glyphuint32id .
+description: Получает Gid для переданного charCode. Этот метод разработан для CFF CIDFonts  где charCode должен быть допустимым значением CID. Идентификатор глифа  это уникальный номер глифа который зависит от типа шрифта. Идентификатор глифа шрифта CFF может быть экземпляром GlyphStringIdaspose.font.glyphs/glyphstringid класс или GlyphUInt32Idaspose.font.glyphs/glyphuint32id класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.font.cff/cffencoding/decodetogid/
 ---
 ## CffEncoding.DecodeToGid method
 
-Получает Gid для переданного charCode. Этот метод разработан для CFF CIDFonts, , где charCode должен быть допустимым значением CID. Идентификатор глифа — это уникальный номер глифа, который зависит от типа шрифта. Идентификатор глифа шрифта CFF может быть экземпляром класса ([`GlyphStringId`](../../../aspose.font.glyphs/glyphstringid)) или класса ([`GlyphUInt32Id`](../../../aspose.font.glyphs/glyphuint32id)) .
+Получает Gid для переданного charCode. Этот метод разработан для CFF CIDFonts, , где charCode должен быть допустимым значением CID. Идентификатор глифа — это уникальный номер глифа, который зависит от типа шрифта. Идентификатор глифа шрифта CFF может быть экземпляром ([`GlyphStringId`](../../../aspose.font.glyphs/glyphstringid)) класс или ([`GlyphUInt32Id`](../../../aspose.font.glyphs/glyphuint32id) класс.
 
 ```csharp
 public GlyphId DecodeToGid(uint charCode)
@@ -16,11 +16,11 @@ public GlyphId DecodeToGid(uint charCode)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| charCode | UInt32 | Код символа (CID), для которого нужно получить идентификатор глифа. |
+| charCode | UInt32 | Код символа (CID) для получения идентификатора глифа. |
 
 ### Возвращаемое значение
 
-Идентификатор глифа, связанный с переданным CID.
+Идентификатор глифа, связанный с CID, передан.
 
 ### Смотрите также
 

@@ -1,14 +1,14 @@
 ---
 title: Strictness
 second_title: Aspose.Font for .NET API 参考
-description: 某些字体可能包含意外数据未指定的功能或者可能被粗略裁剪 容错设置推荐给想要打开任何字体而不考虑字体不足的消费者字体内部结构不保证一致 对于想要打开大部分有效和实体字体的消费者建议进行严格设置
+description: 某些字体可能包含意外数据未指定的功能或可能被粗略裁剪 对于想要打开任何字体的消费者无论字体是否不足建议使用容限设置字体内部结构不保证一致 对于想要打开大部分有效和实体字体的消费者建议严格设置
 type: docs
 weight: 40
 url: /zh/net/aspose.font/fontenvironment/strictness/
 ---
 ## FontEnvironment.Strictness property
 
-某些字体可能包含意外数据、未指定的功能，或者可能被粗略裁剪。 容错设置推荐给想要打开任何字体而不考虑字体不足的消费者。字体内部结构不保证一致。 对于想要打开大部分有效和实体字体的消费者，建议进行严格设置。
+某些字体可能包含意外数据、未指定的功能或可能被粗略裁剪。 对于想要打开任何字体的消费者，无论字体是否不足，建议使用容限设置。字体内部结构不保证一致。 对于想要打开大部分有效和实体字体的消费者，建议严格设置。
 
 ```csharp
 public ParsingStrictness Strictness { get; set; }

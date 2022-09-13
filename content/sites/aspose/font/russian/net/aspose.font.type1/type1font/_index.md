@@ -3,7 +3,7 @@ title: Type1Font
 second_title: Справочник по API Aspose.Font для .NET
 description: Представляет шрифт Type1.
 type: docs
-weight: 1050
+weight: 1060
 url: /ru/net/aspose.font.type1/type1font/
 ---
 ## Type1Font class
@@ -21,7 +21,7 @@ public class Type1Font : Font
 | override [Encoding](../../aspose.font.type1/type1font/encoding) { get; } | Получает кодировку шрифта. |
 | override [FontDefinition](../../aspose.font.type1/type1font/fontdefinition) { get; } | Получает определение шрифта. |
 | override [FontFamily](../../aspose.font.type1/type1font/fontfamily) { get; set; } | Получает семейство шрифтов. Установщик семейства шрифтов еще не реализован. |
-| override [FontName](../../aspose.font.type1/type1font/fontname) { get; set; } | Получает имя шрифта. Установщик имени начертания шрифта еще не реализован. |
+| override [FontName](../../aspose.font.type1/type1font/fontname) { get; set; } | Получает имя начертания шрифта. Установщик имени начертания шрифта еще не реализован. |
 | override [FontNames](../../aspose.font.type1/type1font/fontnames) { get; } | Получает имена шрифтов. |
 | [FontSaver](../../aspose.font/font/fontsaver) { get; } | Получает функцию сохранения шрифта. |
 | override [FontStyle](../../aspose.font.type1/type1font/fontstyle) { get; } | Получает стиль шрифта. Это значение вычисляется и представляется в обобщенном виде. |
@@ -30,16 +30,16 @@ public class Type1Font : Font
 | override [GlyphIdType](../../aspose.font.type1/type1font/glyphidtype) { get; } | Спецификация типа идентификатора глифа. |
 | override [Metrics](../../aspose.font.type1/type1font/metrics) { get; } | Получает метрики шрифта. |
 | override [NumGlyphs](../../aspose.font.type1/type1font/numglyphs) { get; } | Получает количество глифов в шрифте. |
-| override [PostscriptNames](../../aspose.font.type1/type1font/postscriptnames) { get; } | Получает постскриптумные имена шрифтов. |
-| override [Style](../../aspose.font.type1/type1font/style) { get; set; } | Получает стиль шрифта. Это необработанное строковое значение, предоставленное файлом шрифта. Установщик стилей еще не реализован. |
+| override [PostscriptNames](../../aspose.font.type1/type1font/postscriptnames) { get; } | Получает имена шрифтов postscript. |
+| override [Style](../../aspose.font.type1/type1font/style) { get; set; } | Получает стиль шрифта. Это необработанное строковое значение, предоставленное файлом шрифта. Установщик стиля еще не реализован. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
 | override [Convert](../../aspose.font.type1/type1font/convert)(FontType) | Преобразует шрифт в другой формат. |
-| override [GetAllGlyphIds](../../aspose.font.type1/type1font/getallglyphids)() | Возвращает массив всех идентификаторов глифов, доступных в Шрифте. Идентификатор глифа — это уникальный номер глифа, который зависит от типа шрифта. Идентификатор глифа шрифта Type1 может быть экземпляром класса ([`GlyphStringId`](../../aspose.font.glyphs/glyphstringid)) или класса ([`GlyphUInt32Id`](../../aspose.font.glyphs/glyphuint32id)) . |
-| override [GetGlyphById](../../aspose.font.type1/type1font/getglyphbyid#getglyphbyid)(GlyphId) | Возвращает глиф по идентификатору глифа. Идентификатор глифа — это уникальный номер глифа, который зависит от типа шрифта. Идентификатор глифа шрифта Type1 может быть экземпляром класса ([`GlyphStringId`](../../aspose.font.glyphs/glyphstringid)) или класса ([`GlyphUInt32Id`](../../aspose.font.glyphs/glyphuint32id)) . |
+| override [GetAllGlyphIds](../../aspose.font.type1/type1font/getallglyphids)() | Возвращает массив всех идентификаторов глифов, доступных в шрифте. Идентификатор глифа — это уникальный номер для глифа, который зависит от типа шрифта. Type1 Идентификатор глифа шрифта может быть экземпляром ([`GlyphStringId`](../../aspose.font.glyphs/glyphstringid)) класс или ([`GlyphUInt32Id`](../../aspose.font.glyphs/glyphuint32id) класс. |
+| override [GetGlyphById](../../aspose.font.type1/type1font/getglyphbyid#getglyphbyid)(GlyphId) | Возвращает глиф по идентификатору глифа. Идентификатор глифа — это уникальный номер для глифа, который зависит от типа шрифта. Type1 Идентификатор глифа шрифта может быть экземпляром ([`GlyphStringId`](../../aspose.font.glyphs/glyphstringid)) класс или ([`GlyphUInt32Id`](../../aspose.font.glyphs/glyphuint32id) класс. |
 | virtual [GetGlyphById](../../aspose.font.type1/type1font/getglyphbyid#getglyphbyid_1)(string) | Возвращает глиф по идентификатору глифа. |
 | [GetGlyphById](../../aspose.font.type1/type1font/getglyphbyid#getglyphbyid_2)(uint) | Возвращает глиф по идентификатору глифа. |
 | virtual [GetGlyphsForText](../../aspose.font/font/getglyphsfortext)(string) | Получает представление глифов для текста. |

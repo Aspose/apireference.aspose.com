@@ -1,14 +1,14 @@
 ---
 title: FontCreationException
 second_title: Aspose.Font for .NET API 参考
-description: 初始化新的FontCreationExceptionaspose.font.exceptions/fontcreationexception对象
+description: 初始化新的FontCreationExceptionaspose.font.exceptions/fontcreationexception对象.
 type: docs
 weight: 10
 url: /zh/net/aspose.font.exceptions/fontcreationexception/fontcreationexception/
 ---
 ## FontCreationException() {#constructor}
 
-初始化新的[`FontCreationException`](../../fontcreationexception)对象。
+初始化新的[`FontCreationException`](../../fontcreationexception)对象.
 
 ```csharp
 public FontCreationException()
@@ -24,7 +24,7 @@ public FontCreationException()
 
 ## FontCreationException(string) {#constructor_2}
 
-初始化新的[`FontCreationException`](../../fontcreationexception)对象。
+初始化新的[`FontCreationException`](../../fontcreationexception)对象.
 
 ```csharp
 public FontCreationException(string message)
@@ -44,7 +44,7 @@ public FontCreationException(string message)
 
 ## FontCreationException(string, Exception) {#constructor_3}
 
-初始化新的[`FontCreationException`](../../fontcreationexception)对象。
+初始化新的[`FontCreationException`](../../fontcreationexception)对象.
 
 ```csharp
 public FontCreationException(string message, Exception innerException)
@@ -65,7 +65,7 @@ public FontCreationException(string message, Exception innerException)
 
 ## FontCreationException(SerializationInfo, StreamingContext) {#constructor_1}
 
-初始化新的[`FontCreationException`](../../fontcreationexception)对象。
+初始化新的[`FontCreationException`](../../fontcreationexception)对象.
 
 ```csharp
 public FontCreationException(SerializationInfo info, StreamingContext context)

@@ -1,14 +1,14 @@
 ---
 title: MaxStackElements
 second_title: Справочник по API Aspose.Font для .NET
-description: Получает uint16 maxStackElements максимальную глубину стека.
+description: Получает максимальную глубину стека uint16 maxStackElements.
 type: docs
 weight: 100
 url: /ru/net/aspose.font.ttftables/ttfmaxptable/maxstackelements/
 ---
 ## TtfMaxpTable.MaxStackElements property
 
-Получает uint16 maxStackElements максимальную глубину стека.
+Получает максимальную глубину стека uint16 maxStackElements.
 
 ```csharp
 public ushort MaxStackElements { get; }

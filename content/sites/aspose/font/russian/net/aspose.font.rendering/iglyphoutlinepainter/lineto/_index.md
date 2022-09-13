@@ -16,7 +16,7 @@ public void LineTo(LineTo lineTo)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| lineTo | LineTo | LineTo reference |
+| lineTo | LineTo | LineTo ссылка |
 
 ### Смотрите также
 

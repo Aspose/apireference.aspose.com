@@ -1,14 +1,14 @@
 ---
 title: PostscriptName
 second_title: Справочник по API Aspose.Font для .NET
-description: Получает постскриптумное имя шрифта.
+description: Получает имя шрифта постскриптума.
 type: docs
 weight: 70
 url: /ru/net/aspose.font.sources/fontdefinition/postscriptname/
 ---
 ## FontDefinition.PostscriptName property
 
-Получает постскриптумное имя шрифта.
+Получает имя шрифта постскриптума.
 
 ```csharp
 public virtual string PostscriptName { get; }

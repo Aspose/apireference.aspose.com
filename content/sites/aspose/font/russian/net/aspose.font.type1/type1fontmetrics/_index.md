@@ -3,7 +3,7 @@ title: Type1FontMetrics
 second_title: Справочник по API Aspose.Font для .NET
 description: Представляет метрики шрифта Type1.
 type: docs
-weight: 1060
+weight: 1070
 url: /ru/net/aspose.font.type1/type1fontmetrics/
 ---
 ## Type1FontMetrics class
@@ -18,7 +18,7 @@ public class Type1FontMetrics : FontMetrics
 
 | Имя | Описание |
 | --- | --- |
-| override [Ascender](../../aspose.font.type1/type1fontmetrics/ascender) { get; } | Получает значение выносного элемента. |
+| override [Ascender](../../aspose.font.type1/type1fontmetrics/ascender) { get; } | Получает значение по возрастанию. |
 | [CapHeight](../../aspose.font.type1/type1fontmetrics/capheight) { get; } | Получает значение высоты кепки. |
 | override [Descender](../../aspose.font.type1/type1fontmetrics/descender) { get; } | Получает значение нижнего выносного элемента. |
 | override [FontBBox](../../aspose.font.type1/type1fontmetrics/fontbbox) { get; } | Получает значение FontBBox. |
@@ -41,7 +41,7 @@ public class Type1FontMetrics : FontMetrics
 
 | Имя | Описание |
 | --- | --- |
-| virtual [GetAscender](../../aspose.font/fontmetrics/getascender)(double) | Возвращает восходящий элемент для определенного размера шрифта. |
+| virtual [GetAscender](../../aspose.font/fontmetrics/getascender)(double) | Возвращает верхний элемент для определенного размера шрифта. |
 | virtual [GetDescender](../../aspose.font/fontmetrics/getdescender)(double) | Возвращает выносной элемент для определенного размера шрифта. |
 | virtual [GetGlyphBBox](../../aspose.font/fontmetrics/getglyphbbox)(GlyphId) | Возвращает глиф BBox. Возвращает FontBBox, если BBox не был определен для глифа. Может быть переопределен определенными наследниками кодировки шрифта. |
 | override [GetGlyphWidth](../../aspose.font.type1/type1fontmetrics/getglyphwidth)(GlyphId) | Возвращает ширину глифа. Может быть переопределен определенными наследниками кодировки шрифта. |

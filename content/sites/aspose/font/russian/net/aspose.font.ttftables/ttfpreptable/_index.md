@@ -3,12 +3,12 @@ title: TtfPrepTable
 second_title: Справочник по API Aspose.Font для .NET
 description: Представляет подготовительную таблицу файла шрифта TTF.
 type: docs
-weight: 1000
+weight: 1010
 url: /ru/net/aspose.font.ttftables/ttfpreptable/
 ---
 ## TtfPrepTable class
 
-Представляет «подготовительную» таблицу файла шрифта TTF.
+Представляет "подготовительную" таблицу файла шрифта TTF.
 
 ```csharp
 public class TtfPrepTable : TtfTableBase

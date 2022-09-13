@@ -20,7 +20,7 @@ public bool Remove(GlyphId glyphId)
 
 ### 返回值
 
-如果项目成功删除，则为 true；否则，错误
+如果项目已成功删除，则为 true；否则为假
 
 ### 也可以看看
 

@@ -3,7 +3,7 @@ title: TtfHmtxTable
 second_title: Справочник по API Aspose.Font для .NET
 description: Представляет таблицу hmtx файла шрифта TTF.
 type: docs
-weight: 830
+weight: 840
 url: /ru/net/aspose.font.ttftables/ttfhmtxtable/
 ---
 ## TtfHmtxTable class
@@ -18,7 +18,7 @@ public class TtfHmtxTable : TtfTableBase
 
 | Имя | Описание |
 | --- | --- |
-| [AdditionalAdvanceWidth](../../aspose.font.ttftables/ttfhmtxtable/additionaladvancewidth) { get; } | В таблице hmtx возможны случаи, когда общее количество глифов не равно hhea.numberOfHMetrics. Для этих случаев таблица hmtx содержит дополнительный массив 'leftSideBearing', который соответствует свойству[`LeftSidebearings`](./leftsidebearings). Но глифы с индексами от hhea.numOfLongHorMetrics до maxp.numGlyphs также имеют ширину. И эти ширины в соответствии со спецификацией для таблицы hmtx имеют такие значения: "Здесь предполагается, что advanceWidth совпадает с advanceWidth для последней записи выше". |
+| [AdditionalAdvanceWidth](../../aspose.font.ttftables/ttfhmtxtable/additionaladvancewidth) { get; } | В таблице hmtx возможны случаи, когда общее количество глифов не равно hhea.numberOfHMetrics. Для этих случаев таблица hmtx содержит дополнительный массив array 'leftSideBearing', соответствующий свойству[`LeftSidebearings`](./leftsidebearings) . Но глифы с индексами от hhea.numOfLongHorMetrics до maxp.numGlyphs тоже имеют ширину. И эти ширины в соответствии со спецификацией для таблицы hmtx имеют такие значения: запись выше". |
 | [HMetrics](../../aspose.font.ttftables/ttfhmtxtable/hmetrics) { get; } | Получает горизонтальные метрики. |
 | [LeftSidebearings](../../aspose.font.ttftables/ttfhmtxtable/leftsidebearings) { get; } | Получает левые подшипники. |
 | [Offset](../../aspose.font.ttftables/ttftablebase/offset) { get; } | Получает смещение от начала sfnt. |

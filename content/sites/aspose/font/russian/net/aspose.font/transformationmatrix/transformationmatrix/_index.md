@@ -24,7 +24,7 @@ public TransformationMatrix()
 
 ## TransformationMatrix(double[]) {#constructor_1}
 
-Принимает матрицу преобразования со следующим представлением в виде массива: [ ABCD TX TY ].
+Принимает матрицу преобразования со следующим представлением массива: [ABCD TX TY].
 
 ```csharp
 public TransformationMatrix(double[] matrixArray)
@@ -32,7 +32,7 @@ public TransformationMatrix(double[] matrixArray)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| matrixArray | Double[] | Массив значений матрицы преобразования, должен состоять из 6 элементов. |
+| matrixArray | Double[] | Массив со значениями матрицы преобразования, должен состоять из 6 элементов. |
 
 ### Смотрите также
 

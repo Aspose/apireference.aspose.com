@@ -16,8 +16,8 @@ public void Shift(double dx, double dy)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| dx | Double | Значение dx. |
-| dy | Double | Значение dy. |
+| dx | Double | Значение дх. |
+| dy | Double | Значение ды. |
 
 ### Смотрите также
 

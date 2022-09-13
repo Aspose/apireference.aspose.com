@@ -24,7 +24,7 @@ public class GlyphIdList : List<GlyphId>
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Add](../../aspose.font.glyphs/glyphidlist/add#add)(GlyphId) | 将字形 ID 添加到列表中。 |
+| [Add](../../aspose.font.glyphs/glyphidlist/add#add)(GlyphId) | 将字形 id 添加到列表中。 |
 | [Clear](../../aspose.font.glyphs/glyphidlist/clear#clear)() | 清除列表。 |
 | [Contains](../../aspose.font.glyphs/glyphidlist/contains#contains)(GlyphId) | 如果字形 ID 在列表中，则返回 true。 |
 | [Remove](../../aspose.font.glyphs/glyphidlist/remove#remove)(GlyphId) | 从列表中删除字形 id。 |

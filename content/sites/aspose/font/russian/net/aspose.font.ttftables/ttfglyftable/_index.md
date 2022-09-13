@@ -1,14 +1,14 @@
 ---
 title: TtfGlyfTable
 second_title: Справочник по API Aspose.Font для .NET
-description: Представляет таблицу глифов файла шрифта TTF.
+description: Представляет таблицу glyf файла шрифта TTF.
 type: docs
-weight: 800
+weight: 810
 url: /ru/net/aspose.font.ttftables/ttfglyftable/
 ---
 ## TtfGlyfTable class
 
-Представляет таблицу «глифов» файла шрифта TTF.
+Представляет таблицу "glyf" файла шрифта TTF.
 
 ```csharp
 public class TtfGlyfTable : TtfTableBase
@@ -26,7 +26,7 @@ public class TtfGlyfTable : TtfTableBase
 
 | Имя | Описание |
 | --- | --- |
-| virtual [ContainsGlyph](../../aspose.font.ttftables/ttfglyftable/containsglyph)(int) | Возвращает true, если таблица содержит глиф с индексом глифа. |
+| virtual [ContainsGlyph](../../aspose.font.ttftables/ttfglyftable/containsglyph)(int) | Возвращает true, если таблица содержит глиф с индексом glyphIndex. |
 | virtual [GetGlyph](../../aspose.font.ttftables/ttfglyftable/getglyph)(uint) | Возвращает глиф по индексу глифа. |
 
 ### Смотрите также

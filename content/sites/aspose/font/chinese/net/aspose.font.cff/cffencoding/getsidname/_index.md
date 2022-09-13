@@ -20,7 +20,7 @@ public string GetSidName(int sid)
 
 ### 返回值
 
-来自字符串 INDEX 的名称（如果找到）。
+如果找到，则来自字符串 INDEX 的名称。
 
 ### 也可以看看
 

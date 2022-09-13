@@ -1,14 +1,14 @@
 ---
 title: X2
 second_title: Aspose.Font for .NET API 参考
-description: 获取坐标 x2
+description: 获取坐标 x2.
 type: docs
 weight: 20
 url: /zh/net/aspose.font.renderingpath/curveto/x2/
 ---
 ## CurveTo.X2 property
 
-获取坐标 x2。
+获取坐标 x2.
 
 ```csharp
 public double X2 { get; }

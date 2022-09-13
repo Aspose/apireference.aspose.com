@@ -23,7 +23,7 @@ public interface IGlyphRenderer
 | [RenderGlyph](../../aspose.font.renderers/iglyphrenderer/renderglyph#renderglyph_2)(IFont, GlyphId, TransformationMatrix) | Визуализирует глиф. |
 | [RenderGlyph](../../aspose.font.renderers/iglyphrenderer/renderglyph#renderglyph_4)(IFont, uint, TransformationMatrix) | Визуализирует глиф. |
 | [RenderGlyph](../../aspose.font.renderers/iglyphrenderer/renderglyph#renderglyph_1)(IFont, GlyphId, Glyph, TransformationMatrix) | Отрисовывает глиф, цель этой перегруженной версии - использовать с кешем для глифов. |
-| [RenderIndependentGlyphPath](../../aspose.font.renderers/iglyphrenderer/renderindependentglyphpath)(IFont, GlyphId, Glyph, TransformationMatrix) | Визуализирует глиф, используя независимый путь глифа. Семейство функций RenderGlyph() изменяет путь глифа при рендеринге. Это приводит к необходимости перезагружать этот глиф заново. Эта функция использует копию пути глифа и не изменяет исходный путь глифа, поэтому один и тот же глиф можно использовать несколько раз. Эта версия функции предназначена для использования с кешем глифов. |
+| [RenderIndependentGlyphPath](../../aspose.font.renderers/iglyphrenderer/renderindependentglyphpath)(IFont, GlyphId, Glyph, TransformationMatrix) | Визуализирует глиф, используя независимый путь глифа. Семейство функций RenderGlyph() изменяет путь глифа при рендеринге. Затем это приводит к необходимости перезагружать этот глиф заново. Эта функция использует копию пути глифа и не изменяет исходный путь глифа, поэтому один и тот же глиф можно использовать несколько раз. Эта версия функции предназначена для использования с кешем глифов. |
 
 ### Смотрите также
 

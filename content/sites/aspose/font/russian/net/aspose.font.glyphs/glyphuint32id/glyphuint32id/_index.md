@@ -1,14 +1,14 @@
 ---
 title: GlyphUInt32Id
 second_title: Справочник по API Aspose.Font для .NET
-description: Инициализирует новый объектGlyphUInt32Idaspose.font.glyphs/glyphuint32id.
+description: Инициализирует новыйGlyphUInt32Idaspose.font.glyphs/glyphuint32id объект.
 type: docs
 weight: 10
 url: /ru/net/aspose.font.glyphs/glyphuint32id/glyphuint32id/
 ---
 ## GlyphUInt32Id constructor
 
-Инициализирует новый объект[`GlyphUInt32Id`](../../glyphuint32id).
+Инициализирует новый[`GlyphUInt32Id`](../../glyphuint32id) объект.
 
 ```csharp
 public GlyphUInt32Id(uint value)

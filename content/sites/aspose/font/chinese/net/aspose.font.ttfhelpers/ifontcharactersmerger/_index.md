@@ -1,14 +1,14 @@
 ---
 title: IFontCharactersMerger
 second_title: Aspose.Font for .NET API 参考
-description: 声明帮助程序功能以合并 TrueType 字体 由参数 font1 传递的字体被认为是主要的这意味着许多与最终合并字体相关的 特征例如度量编码结构等将从该主字体中获取 
+description: 声明帮助器功能以合并 TrueType 字体 由参数 font1 传递的字体被视为主要字体这意味着许多与最终合并字体相关的 特征例如度量编码结构等将从该主字体中获取 
 type: docs
-weight: 740
+weight: 750
 url: /zh/net/aspose.font.ttfhelpers/ifontcharactersmerger/
 ---
 ## IFontCharactersMerger interface
 
-声明帮助程序功能以合并 TrueType 字体。 由参数 font1 传递的字体被认为是主要的。这意味着许多与最终合并字体相关的 特征，例如度量、编码结构等，将从该主字体中获取 。
+声明帮助器功能以合并 TrueType 字体。 由参数 font1 传递的字体被视为主要字体。这意味着许多与最终合并字体相关的 特征，例如度量，编码结构等，将从该主字体中获取 。
 
 ```csharp
 public interface IFontCharactersMerger
@@ -18,9 +18,9 @@ public interface IFontCharactersMerger
 
 | 姓名 | 描述 |
 | --- | --- |
-| [MergeFonts](../../aspose.font.ttfhelpers/ifontcharactersmerger/mergefonts#mergefonts)(GlyphId[], GlyphId[], string) | 根据传递的字形列表合并字体。 为每个传递的字形搜索字符代码，并将找到的字符代码与对应的字形 添加到生成的新字体中。 |
-| [MergeFonts](../../aspose.font.ttfhelpers/ifontcharactersmerger/mergefonts#mergefonts_1)(IDictionary&lt;uint, GlyphId&gt;, IDictionary&lt;uint, GlyphId&gt;, string) | 此方法版本专为您要明确设置结果字体中的字形字符代码的情况而设计。 您提供的字形代码不一定包含在原始字体中。传递 的代码的意义是它将与结果字体中对应的字形标识符相关联。因此，处理字典参数[code, glyph ideitifier] 传递的每个 对的规则是，只会从 原始字体中获取字形标识符，然后将其与结果字体中的对应代码链接. 当第一种字体的某些代码与第二种字体的相同代码冲突时，它会很有帮助。 |
-| [MergeFonts](../../aspose.font.ttfhelpers/ifontcharactersmerger/mergefonts#mergefonts_2)(uint[], uint[], string) | 根据传递的字符代码列表合并字体。 要创建所需的结果字体，只需将要包含 的原始字体的符号代码传递到结果字体中。将自动找到与传递的代码相关的字形。 例如，如果您想将与 中的字母 A 和 B 相关的结果字体字形和与第二个字体中的字母 C 和 D 相关的字形包含到结果中，只需像这样调用此方法: |
+| [MergeFonts](../../aspose.font.ttfhelpers/ifontcharactersmerger/mergefonts#mergefonts)(GlyphId[], GlyphId[], string) | 根据传递的字形列表合并字体。 为传递的每个字形搜索字符代码，并将找到的字符代码与对应的字形 添加到生成的新字体中。 |
+| [MergeFonts](../../aspose.font.ttfhelpers/ifontcharactersmerger/mergefonts#mergefonts_1)(IDictionary&lt;uint, GlyphId&gt;, IDictionary&lt;uint, GlyphId&gt;, string) | 此方法版本专为您要明确设置结果字体中的字形字符代码的情况而设计。 您提供的字形代码不一定包含在原始字体中。传递 的代码的意义在于它将与结果字体中对应的字形标识符相关联。因此，处理字典参数 [code, glyph ideitifier] 传递的每个 对的规则是，只会从 原始字体中获取字形标识符，然后将其与结果字体中的对应代码链接。 在某些情况下会有所帮助第一种字体的代码与第二种字体的相同代码冲突。 |
+| [MergeFonts](../../aspose.font.ttfhelpers/ifontcharactersmerger/mergefonts#mergefonts_2)(uint[], uint[], string) | 根据传递的字符代码列表合并字体。 要创建所需的结果字体，只需将要包含 的原始字体的符号代码传递到结果字体中。将自动找到与传递的代码相关的字形。 例如，如果您想将 中与字母A和B相关的字形包含到结果字体中，以及与第二个字体中的字母C和D相关的字形中，只需调用此方法这个： |
 
 ### 也可以看看
 

@@ -3,7 +3,7 @@ title: TtfCMapTable.TtfCMapSubtableDescription
 second_title: Aspose.Font for .NET API 参考
 description: 提供有关 CMap 子表的简要信息
 type: docs
-weight: 760
+weight: 770
 url: /zh/net/aspose.font.ttftables/ttfcmaptable.ttfcmapsubtabledescription/
 ---
 ## TtfCMapTable.TtfCMapSubtableDescription class
@@ -19,8 +19,8 @@ public abstract class TtfCMapSubtableDescription
 | 姓名 | 描述 |
 | --- | --- |
 | [Format](../../aspose.font.ttftables/ttfcmapsubtabledescription/format) { get; } | 获取子表格式。 |
-| [PlatformId](../../aspose.font.ttftables/ttfcmapsubtabledescription/platformid) { get; } | 获取平台 ID。 |
-| [PlatformSpecificId](../../aspose.font.ttftables/ttfcmapsubtabledescription/platformspecificid) { get; } | 获取特定于平台的编码 ID。 |
+| [PlatformId](../../aspose.font.ttftables/ttfcmapsubtabledescription/platformid) { get; } | 获取平台ID。 |
+| [PlatformSpecificId](../../aspose.font.ttftables/ttfcmapsubtabledescription/platformspecificid) { get; } | 获取特定于平台的编码 id。 |
 
 ### 也可以看看
 

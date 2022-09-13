@@ -1,14 +1,14 @@
 ---
 title: Clone
 second_title: Aspose.Font for .NET API 参考
-description: 克隆路径
+description: 克隆路径.
 type: docs
 weight: 20
 url: /zh/net/aspose.font.renderingpath/segmentpath/clone/
 ---
 ## SegmentPath.Clone method
 
-克隆路径。
+克隆路径.
 
 ```csharp
 public object Clone()

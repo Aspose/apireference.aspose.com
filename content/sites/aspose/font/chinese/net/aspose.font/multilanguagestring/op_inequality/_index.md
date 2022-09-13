@@ -3,7 +3,7 @@ title: op_Inequality
 second_title: Aspose.Font for .NET API 参考
 description: 不等式运算符实现
 type: docs
-weight: 90
+weight: 110
 url: /zh/net/aspose.font/multilanguagestring/op_inequality/
 ---
 ## operator != {#op_inequality}

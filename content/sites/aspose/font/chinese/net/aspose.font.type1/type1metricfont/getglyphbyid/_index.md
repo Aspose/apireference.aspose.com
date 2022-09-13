@@ -1,14 +1,14 @@
 ---
 title: GetGlyphById
 second_title: Aspose.Font for .NET API 参考
-description: 按字形 id 返回字形 Type1MetricFontaspose.font.type1/type1metricfont类型不支持
+description: 按字形 id 返回字形 不支持Type1MetricFontaspose.font.type1/type1metricfont类型.
 type: docs
 weight: 80
 url: /zh/net/aspose.font.type1/type1metricfont/getglyphbyid/
 ---
 ## GetGlyphById(string) {#getglyphbyid_1}
 
-按字形 id 返回字形。 [`Type1MetricFont`](../../type1metricfont)类型不支持。
+按字形 id 返回字形。 不支持[`Type1MetricFont`](../../type1metricfont)类型.
 
 ```csharp
 public override Glyph GetGlyphById(string id)
@@ -33,7 +33,7 @@ public override Glyph GetGlyphById(string id)
 
 ## GetGlyphById(GlyphId) {#getglyphbyid}
 
-按字形 id 返回字形。 [`Type1MetricFont`](../../type1metricfont)类型不支持。
+按字形 id 返回字形。 不支持[`Type1MetricFont`](../../type1metricfont)类型.
 
 ```csharp
 public override Glyph GetGlyphById(GlyphId id)

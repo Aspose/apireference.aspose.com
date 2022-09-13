@@ -1,14 +1,14 @@
 ---
 title: EncodingException
 second_title: Справочник по API Aspose.Font для .NET
-description: Инициализирует новый объектEncodingExceptionaspose.font.exceptions/encodingexception.
+description: Инициализирует новыйEncodingExceptionaspose.font.exceptions/encodingexception объект.
 type: docs
 weight: 10
 url: /ru/net/aspose.font.exceptions/encodingexception/encodingexception/
 ---
 ## EncodingException() {#constructor}
 
-Инициализирует новый объект[`EncodingException`](../../encodingexception).
+Инициализирует новый[`EncodingException`](../../encodingexception) объект.
 
 ```csharp
 public EncodingException()
@@ -24,7 +24,7 @@ public EncodingException()
 
 ## EncodingException(string) {#constructor_2}
 
-Инициализирует новый объект[`EncodingException`](../../encodingexception).
+Инициализирует новый[`EncodingException`](../../encodingexception) объект.
 
 ```csharp
 public EncodingException(string message)
@@ -32,7 +32,7 @@ public EncodingException(string message)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| message | String | Сообщение с описанием ошибки. |
+| message | String | Сообщение, описывающее ошибку. |
 
 ### Смотрите также
 
@@ -44,7 +44,7 @@ public EncodingException(string message)
 
 ## EncodingException(string, Exception) {#constructor_3}
 
-Инициализирует новый объект[`EncodingException`](../../encodingexception).
+Инициализирует новый[`EncodingException`](../../encodingexception) объект.
 
 ```csharp
 public EncodingException(string message, Exception innerException)
@@ -52,8 +52,8 @@ public EncodingException(string message, Exception innerException)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| message | String | Сообщение с описанием ошибки. |
-| innerException | Exception | Исключение, являющееся причиной текущего исключения. |
+| message | String | Сообщение, описывающее ошибку. |
+| innerException | Exception | Исключение, которое является причиной текущего исключения. |
 
 ### Смотрите также
 
@@ -65,7 +65,7 @@ public EncodingException(string message, Exception innerException)
 
 ## EncodingException(SerializationInfo, StreamingContext) {#constructor_1}
 
-Инициализирует новый объект[`EncodingException`](../../encodingexception).
+Инициализирует новый[`EncodingException`](../../encodingexception) объект.
 
 ```csharp
 public EncodingException(SerializationInfo info, StreamingContext context)

@@ -1,14 +1,14 @@
 ---
 title: CheckSumAdjustment
 second_title: Aspose.Font for .NET API 参考
-description: 获取 uint32 checkSumAdjustment计算将其设置为 0计算 head 表的校验和并将其放入表目录中将整个字体求和为 uint32然后存储 B1B0AFBA - sum 头表的校验和不会出错那没问题
+description: 获取 uint32 checkSumAdjustment计算将其设置为 0计算 head 表的校验和并将其放入表目录中将整个字体求和为 uint32然后存储 B1B0AFBA  sum 头表的校验和不会出错没关系
 type: docs
 weight: 10
 url: /zh/net/aspose.font.ttftables/ttfheadtable/checksumadjustment/
 ---
 ## TtfHeadTable.CheckSumAdjustment property
 
-获取 uint32 checkSumAdjustment。计算：将其设置为 0，计算 'head' 表的校验和并将其放入表目录中，将整个字体求和为 uint32，然后存储 B1B0AFBA - sum。 “头”表的校验和不会出错。那没问题。
+获取 uint32 checkSumAdjustment。计算：将其设置为 0，计算 'head' 表的校验和并将其放入表目录中，将整个字体求和为 uint32，然后存储 B1B0AFBA - sum。 “头”表的校验和不会出错。没关系。
 
 ```csharp
 public uint CheckSumAdjustment { get; }

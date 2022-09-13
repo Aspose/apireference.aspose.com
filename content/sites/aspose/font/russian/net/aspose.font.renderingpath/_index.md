@@ -1,12 +1,12 @@
 ---
 title: Aspose.Font.RenderingPath
 second_title: Справочник по API Aspose.Font для .NET
-description: Пространство имен Aspose.Font.RenderingPath предоставляет классы описывающие объекты графических путей  используемые в Aspose.Font.
+description: Aspose.Font.RenderingPathпространство имен предоставляет классы описывающие объекты графических путей  используемые в Aspose.Font.
 type: docs
 weight: 80
 url: /ru/net/aspose.font.renderingpath/
 ---
-Пространство имен **Aspose.Font.RenderingPath** предоставляет классы, описывающие объекты графических путей , используемые в Aspose.Font.
+**Aspose.Font.RenderingPath**пространство имен предоставляет классы, описывающие объекты графических путей , используемые в Aspose.Font.
 
 ## Классы
 

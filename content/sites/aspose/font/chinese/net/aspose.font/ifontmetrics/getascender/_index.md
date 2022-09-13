@@ -20,7 +20,7 @@ public double GetAscender(double fontSize)
 
 ### 返回值
 
-上升值。
+升值。
 
 ### 也可以看看
 

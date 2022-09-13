@@ -1,14 +1,14 @@
 ---
 title: EncodingException
 second_title: Справочник по API Aspose.Font для .NET
-description: Представляет исключение кодирования. Исключение может быть выдано в случае проблем с кодировкой/декодированием текста.
+description: Представляет исключение кодирования. Исключение может быть выдано в случае возникновения проблем с кодированием/декодированием текста.
 type: docs
 weight: 70
 url: /ru/net/aspose.font.exceptions/encodingexception/
 ---
 ## EncodingException class
 
-Представляет исключение кодирования. Исключение может быть выдано в случае проблем с кодировкой/декодированием текста.
+Представляет исключение кодирования. Исключение может быть выдано в случае возникновения проблем с кодированием/декодированием текста.
 
 ```csharp
 public class EncodingException : FontException
@@ -18,10 +18,10 @@ public class EncodingException : FontException
 
 | Имя | Описание |
 | --- | --- |
-| [EncodingException](encodingexception#constructor)() | Инициализирует новый объект[`EncodingException`](../encodingexception). |
-| [EncodingException](encodingexception#constructor_2)(string) | Инициализирует новый объект[`EncodingException`](../encodingexception). |
-| [EncodingException](encodingexception#constructor_1)(SerializationInfo, StreamingContext) | Инициализирует новый объект[`EncodingException`](../encodingexception). |
-| [EncodingException](encodingexception#constructor_3)(string, Exception) | Инициализирует новый объект[`EncodingException`](../encodingexception). |
+| [EncodingException](encodingexception#constructor)() | Инициализирует новый[`EncodingException`](../encodingexception) объект. |
+| [EncodingException](encodingexception#constructor_2)(string) | Инициализирует новый[`EncodingException`](../encodingexception) объект. |
+| [EncodingException](encodingexception#constructor_1)(SerializationInfo, StreamingContext) | Инициализирует новый[`EncodingException`](../encodingexception) объект. |
+| [EncodingException](encodingexception#constructor_3)(string, Exception) | Инициализирует новый[`EncodingException`](../encodingexception) объект. |
 
 ### Смотрите также
 

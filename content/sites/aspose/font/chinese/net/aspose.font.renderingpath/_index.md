@@ -1,12 +1,12 @@
 ---
 title: Aspose.Font.RenderingPath
 second_title: Aspose.Font for .NET API 参考
-description: Aspose.Font.RenderingPath 命名空间提供了描述 Aspose.Font 中使用的图形路径对象 的类
+description: 的 Aspose.Font.RenderingPath命名空间提供了描述 Aspose.Font 中使用的图形路径对象 的类
 type: docs
 weight: 80
 url: /zh/net/aspose.font.renderingpath/
 ---
-**Aspose.Font.RenderingPath** 命名空间提供了描述 Aspose.Font 中使用的图形路径对象 的类。
+的 **Aspose.Font.RenderingPath**命名空间提供了描述 Aspose.Font 中使用的图形路径对象 的类。
 
 ## 课程
 
@@ -14,7 +14,7 @@ url: /zh/net/aspose.font.renderingpath/
 | --- | --- |
 | [ClosePath](./closepath) | 表示 ClosePath 操作。 |
 | [CurveTo](./curveto) | 表示 CurveTo 操作。 |
-| [LineTo](./lineto) | 代表 LineTo 操作。 |
+| [LineTo](./lineto) | 表示 LineTo 操作。 |
 | [MoveTo](./moveto) | 表示 MoveTo 操作。 |
 | [PathSegmentCollection](./pathsegmentcollection) | 表示路径段集合。 |
 | [SegmentPath](./segmentpath) | 表示渲染路径。 |

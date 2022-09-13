@@ -18,12 +18,12 @@ public class CurveTo : IPathSegment
 
 | 姓名 | 描述 |
 | --- | --- |
-| [X1](../../aspose.font.renderingpath/curveto/x1) { get; } | 获取坐标 x1。 |
-| [X2](../../aspose.font.renderingpath/curveto/x2) { get; } | 获取坐标 x2。 |
-| [X3](../../aspose.font.renderingpath/curveto/x3) { get; } | 获取坐标 x3。 |
-| [Y1](../../aspose.font.renderingpath/curveto/y1) { get; } | 获取坐标 y1。 |
-| [Y2](../../aspose.font.renderingpath/curveto/y2) { get; } | 获取坐标 y2。 |
-| [Y3](../../aspose.font.renderingpath/curveto/y3) { get; } | 获取坐标 y3。 |
+| [X1](../../aspose.font.renderingpath/curveto/x1) { get; } | 获取坐标 x1. |
+| [X2](../../aspose.font.renderingpath/curveto/x2) { get; } | 获取坐标 x2. |
+| [X3](../../aspose.font.renderingpath/curveto/x3) { get; } | 获取坐标 x3. |
+| [Y1](../../aspose.font.renderingpath/curveto/y1) { get; } | 获取坐标 y1. |
+| [Y2](../../aspose.font.renderingpath/curveto/y2) { get; } | 获取坐标 y2. |
+| [Y3](../../aspose.font.renderingpath/curveto/y3) { get; } | 获取坐标 y3. |
 
 ## 方法
 

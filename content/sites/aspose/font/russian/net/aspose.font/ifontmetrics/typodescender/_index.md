@@ -1,14 +1,14 @@
 ---
 title: TypoDescender
 second_title: Справочник по API Aspose.Font для .NET
-description: Получает значение типографского нижнего выносного элемента Font в единицах Font.
+description: Получает значение типографского выносного элемента шрифта в единицах шрифта.
 type: docs
 weight: 80
 url: /ru/net/aspose.font/ifontmetrics/typodescender/
 ---
 ## IFontMetrics.TypoDescender property
 
-Получает значение типографского нижнего выносного элемента Font в единицах Font.
+Получает значение типографского выносного элемента шрифта в единицах шрифта.
 
 ```csharp
 public double TypoDescender { get; set; }
