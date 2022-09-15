@@ -1,14 +1,14 @@
 ---
 title: IsCidKeyedFont
 second_title: Aspose.Font for .NET API 参考
-description: 获取指示字体是 cid 键控的值
+description: 获取表明字体是 cidkeyed 的值
 type: docs
 weight: 90
 url: /zh/net/aspose.font.cff/cfffont/iscidkeyedfont/
 ---
 ## CffFont.IsCidKeyedFont property
 
-获取指示字体是 cid 键控的值。
+获取表明字体是 cid-keyed 的值。
 
 ```csharp
 public bool IsCidKeyedFont { get; }

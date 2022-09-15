@@ -1,14 +1,14 @@
 ---
 title: Type1Font
 second_title: Aspose.Font for .NET API 参考
-description: 表示 Type1 字体
+description: 代表 Type1 字体
 type: docs
-weight: 1050
+weight: 1060
 url: /zh/net/aspose.font.type1/type1font/
 ---
 ## Type1Font class
 
-表示 Type1 字体。
+代表 Type1 字体。
 
 ```csharp
 public class Type1Font : Font
@@ -20,16 +20,16 @@ public class Type1Font : Font
 | --- | --- |
 | override [Encoding](../../aspose.font.type1/type1font/encoding) { get; } | 获取字体编码。 |
 | override [FontDefinition](../../aspose.font.type1/type1font/fontdefinition) { get; } | 获取字体定义。 |
-| override [FontFamily](../../aspose.font.type1/type1font/fontfamily) { get; set; } | 获取字体系列。 Font family setter 还没有实现。 |
+| override [FontFamily](../../aspose.font.type1/type1font/fontfamily) { get; set; } | 获取字体系列。 字体系列设置器尚未实现。 |
 | override [FontName](../../aspose.font.type1/type1font/fontname) { get; set; } | 获取字体名称。 字体名称设置器尚未实现。 |
 | override [FontNames](../../aspose.font.type1/type1font/fontnames) { get; } | 获取字体名称。 |
 | [FontSaver](../../aspose.font/font/fontsaver) { get; } | 获取字体保存功能。 |
 | override [FontStyle](../../aspose.font.type1/type1font/fontstyle) { get; } | 获取字体样式。 这是一个以广义类型计算和表示的值。 |
 | override [FontType](../../aspose.font.type1/type1font/fonttype) { get; } | 获取字体类型。 返回 FontType.Type1 值。 |
 | [GlyphAccessor](../../aspose.font/font/glyphaccessor) { get; } | 字体字形访问器。 检索字形和字形标识符。 |
-| override [GlyphIdType](../../aspose.font.type1/type1font/glyphidtype) { get; } | 字形标识类型规范。 |
+| override [GlyphIdType](../../aspose.font.type1/type1font/glyphidtype) { get; } | 字形 id 类型规范。 |
 | override [Metrics](../../aspose.font.type1/type1font/metrics) { get; } | 获取字体指标。 |
-| override [NumGlyphs](../../aspose.font.type1/type1font/numglyphs) { get; } | 获取字体中的字形数量。 |
+| override [NumGlyphs](../../aspose.font.type1/type1font/numglyphs) { get; } | 获取字体中字形的数量。 |
 | override [PostscriptNames](../../aspose.font.type1/type1font/postscriptnames) { get; } | 获取 postscript 字体名称。 |
 | override [Style](../../aspose.font.type1/type1font/style) { get; set; } | 获取字体样式。 这是字体文件提供的原始字符串值。 样式设置器尚未实现。 |
 
@@ -38,8 +38,8 @@ public class Type1Font : Font
 | 姓名 | 描述 |
 | --- | --- |
 | override [Convert](../../aspose.font.type1/type1font/convert)(FontType) | 将字体转换为另一种格式。 |
-| override [GetAllGlyphIds](../../aspose.font.type1/type1font/getallglyphids)() | 返回字体中可用的所有字形 ID 的数组。 Glyph id 是字形的唯一编号，它取决于字体类型。 Type1 字体字形 ID 可以是 ([`GlyphStringId`](../../aspose.font.glyphs/glyphstringid)) 类或 ([`GlyphUInt32Id`](../../aspose.font.glyphs/glyphuint32id)) 类的实例. |
-| override [GetGlyphById](../../aspose.font.type1/type1font/getglyphbyid#getglyphbyid)(GlyphId) | 按字形 id 返回字形。 Glyph id 是字形的唯一编号，它取决于字体类型。 Type1 字体字形 ID 可以是 ([`GlyphStringId`](../../aspose.font.glyphs/glyphstringid)) 类或 ([`GlyphUInt32Id`](../../aspose.font.glyphs/glyphuint32id)) 类的实例. |
+| override [GetAllGlyphIds](../../aspose.font.type1/type1font/getallglyphids)() | 返回所有字形 ID 的数组，在字体中可用。 字形 ID 是字形的唯一编号，取决于字体类型。 Type1 字体字形 ID 可以是 ([`GlyphStringId`](../../aspose.font.glyphs/glyphstringid)) 类或 ([`GlyphUInt32Id`](../../aspose.font.glyphs/glyphuint32id) 类. |
+| override [GetGlyphById](../../aspose.font.type1/type1font/getglyphbyid#getglyphbyid)(GlyphId) | 按字形 id 返回字形。 字形 id 是字形的唯一编号，取决于字体类型。 Type1 字体字形 id 可以是 ([`GlyphStringId`](../../aspose.font.glyphs/glyphstringid)) 类或 ([`GlyphUInt32Id`](../../aspose.font.glyphs/glyphuint32id) 类. |
 | virtual [GetGlyphById](../../aspose.font.type1/type1font/getglyphbyid#getglyphbyid_1)(string) | 按字形 id 返回字形。 |
 | [GetGlyphById](../../aspose.font.type1/type1font/getglyphbyid#getglyphbyid_2)(uint) | 按字形 id 返回字形。 |
 | virtual [GetGlyphsForText](../../aspose.font/font/getglyphsfortext)(string) | 获取文本的字形表示。 |

@@ -18,13 +18,13 @@ public class GlyphUInt32Id : GlyphId
 
 | 姓名 | 描述 |
 | --- | --- |
-| [GlyphUInt32Id](glyphuint32id)(uint) | 初始化新的[`GlyphUInt32Id`](../glyphuint32id)对象。 |
+| [GlyphUInt32Id](glyphuint32id)(uint) | 初始化新的[`GlyphUInt32Id`](../glyphuint32id)对象. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| static [NotDefId](../../aspose.font.glyphs/glyphuint32id/notdefid) { get; } | 获取非默认值。 |
+| static [NotDefId](../../aspose.font.glyphs/glyphuint32id/notdefid) { get; } | 获取的不是默认值。 |
 | [Value](../../aspose.font.glyphs/glyphuint32id/value) { get; set; } | 获取或设置 ID 的 int 值。 |
 
 ## 方法
@@ -33,7 +33,7 @@ public class GlyphUInt32Id : GlyphId
 | --- | --- |
 | override [Equals](../../aspose.font.glyphs/glyphuint32id/equals)(object) | 如果 Id 相等，则返回 true。 |
 | override [GetHashCode](../../aspose.font.glyphs/glyphuint32id/gethashcode)() | GetHashCode 实现。 |
-| virtual [ToGlyphStringId](../../aspose.font.glyphs/glyphid/toglyphstringid)() | 虚拟转换为 GlyphUInt32Id。 GlyphUInt32Id 覆盖以返回实例。 |
+| virtual [ToGlyphStringId](../../aspose.font.glyphs/glyphid/toglyphstringid)() | 虚拟转换为 GlyphUInt32Id。 GlyphUInt32Id 覆盖以返回 instance. |
 | override [ToGlyphUInt32Id](../../aspose.font.glyphs/glyphuint32id/toglyphuint32id)() | 将 GlyphId 转换为 GlyphUInt32Id |
 | override [ToString](../../aspose.font.glyphs/glyphuint32id/tostring)() | 获取或设置整数值的字符串表示形式。 |
 | [operator ==](../../aspose.font.glyphs/glyphuint32id/op_equality) | 等式运算符实现。 |

@@ -17,7 +17,7 @@ public TtfCMapFormatBaseTable[] GetPlatformTables(ushort platformId, ushort plat
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | platformId | UInt16 | 平台 ID。 |
-| platformSpecificId | UInt16 | 平台特定编码 ID。 |
+| platformSpecificId | UInt16 | 特定于平台的编码 ID。 |
 
 ### 返回值
 

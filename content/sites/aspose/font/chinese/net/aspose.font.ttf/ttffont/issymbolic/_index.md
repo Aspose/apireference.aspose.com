@@ -1,14 +1,14 @@
 ---
 title: IsSymbolic
 second_title: Aspose.Font for .NET API 参考
-description: 如果 Font 是符号则返回 true
+description: 如果字体是符号则返回 true
 type: docs
 weight: 100
 url: /zh/net/aspose.font.ttf/ttffont/issymbolic/
 ---
 ## TtfFont.IsSymbolic property
 
-如果 Font 是符号，则返回 true。
+如果字体是符号，则返回 true。
 
 ```csharp
 public bool IsSymbolic { get; }

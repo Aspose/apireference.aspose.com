@@ -1,14 +1,14 @@
 ---
 title: WoffFormatException
 second_title: Справочник по API Aspose.Font для .NET
-description: Инициализирует новый объектWoffFormatExceptionaspose.font.woffexceptions/woffformatexception.
+description: Инициализирует новыйWoffFormatExceptionaspose.font.woffexceptions/woffformatexception объект.
 type: docs
 weight: 10
 url: /ru/net/aspose.font.woffexceptions/woffformatexception/woffformatexception/
 ---
 ## WoffFormatException() {#constructor}
 
-Инициализирует новый объект[`WoffFormatException`](../../woffformatexception).
+Инициализирует новый[`WoffFormatException`](../../woffformatexception) объект.
 
 ```csharp
 public WoffFormatException()
@@ -24,7 +24,7 @@ public WoffFormatException()
 
 ## WoffFormatException(string) {#constructor_2}
 
-Инициализирует новый объект[`WoffFormatException`](../../woffformatexception).
+Инициализирует новый[`WoffFormatException`](../../woffformatexception) объект.
 
 ```csharp
 public WoffFormatException(string message)
@@ -32,7 +32,7 @@ public WoffFormatException(string message)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| message | String | Сообщение с описанием ошибки. |
+| message | String | Сообщение, описывающее ошибку. |
 
 ### Смотрите также
 
@@ -44,7 +44,7 @@ public WoffFormatException(string message)
 
 ## WoffFormatException(string, Exception) {#constructor_3}
 
-Инициализирует новый объект[`WoffFormatException`](../../woffformatexception).
+Инициализирует новый[`WoffFormatException`](../../woffformatexception) объект.
 
 ```csharp
 public WoffFormatException(string message, Exception innerException)
@@ -52,8 +52,8 @@ public WoffFormatException(string message, Exception innerException)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| message | String | Сообщение с описанием ошибки. |
-| innerException | Exception | Исключение, являющееся причиной текущего исключения. |
+| message | String | Сообщение, описывающее ошибку. |
+| innerException | Exception | Исключение, которое является причиной текущего исключения. |
 
 ### Смотрите также
 
@@ -65,7 +65,7 @@ public WoffFormatException(string message, Exception innerException)
 
 ## WoffFormatException(SerializationInfo, StreamingContext) {#constructor_1}
 
-Инициализирует новый объект[`WoffFormatException`](../../woffformatexception).
+Инициализирует новый[`WoffFormatException`](../../woffformatexception) объект.
 
 ```csharp
 public WoffFormatException(SerializationInfo info, StreamingContext context)

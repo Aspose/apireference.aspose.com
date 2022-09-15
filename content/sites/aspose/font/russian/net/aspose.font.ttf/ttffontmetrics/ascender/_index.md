@@ -1,14 +1,14 @@
 ---
 title: Ascender
 second_title: Справочник по API Aspose.Font для .NET
-description: Получает значение выносного элемента.
+description: Получает значение по возрастанию.
 type: docs
 weight: 10
 url: /ru/net/aspose.font.ttf/ttffontmetrics/ascender/
 ---
 ## TtfFontMetrics.Ascender property
 
-Получает значение выносного элемента.
+Получает значение по возрастанию.
 
 ```csharp
 public override double Ascender { get; set; }

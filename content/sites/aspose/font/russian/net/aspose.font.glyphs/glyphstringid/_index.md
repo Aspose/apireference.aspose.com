@@ -18,7 +18,7 @@ public class GlyphStringId : GlyphId
 
 | Имя | Описание |
 | --- | --- |
-| [GlyphStringId](glyphstringid)(string) | Инициализирует новый объект[`GlyphStringId`](../glyphstringid). |
+| [GlyphStringId](glyphstringid)(string) | Инициализирует новый[`GlyphStringId`](../glyphstringid) объект. |
 
 ## Характеристики
 
@@ -34,7 +34,7 @@ public class GlyphStringId : GlyphId
 | override [Equals](../../aspose.font.glyphs/glyphstringid/equals)(object) | Возвращает true, если идентификаторы строк равны. |
 | override [GetHashCode](../../aspose.font.glyphs/glyphstringid/gethashcode)() | Реализация GetHashCode. |
 | override [ToGlyphStringId](../../aspose.font.glyphs/glyphstringid/toglyphstringid)() | Преобразовать GlyphId в GlyphStringId |
-| virtual [ToGlyphUInt32Id](../../aspose.font.glyphs/glyphid/toglyphuint32id)() | Виртуальное приведение к GlyphUInt32Id. GlyphUInt32Id переопределяет возвращаемый экземпляр. |
+| virtual [ToGlyphUInt32Id](../../aspose.font.glyphs/glyphid/toglyphuint32id)() | Виртуальное приведение к GlyphUInt32Id. GlyphUInt32Id переопределяет возврат экземпляра. |
 | override [ToString](../../aspose.font.glyphs/glyphstringid/tostring)() | Возвращает строковое значение идентификатора глифа. |
 
 ### Смотрите также

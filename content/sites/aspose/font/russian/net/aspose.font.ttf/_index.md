@@ -1,12 +1,12 @@
 ---
 title: Aspose.Font.Ttf
 second_title: Справочник по API Aspose.Font для .NET
-description: Пространство имен Aspose.Font.Ttf предоставляет классы описывающие объекты относящиеся к формату TTF Font.
+description: Aspose.Font.Ttf namespace предоставляет классы описывающие объекты связанные с форматом TTF Font.
 type: docs
 weight: 100
 url: /ru/net/aspose.font.ttf/
 ---
-Пространство имен **Aspose.Font.Ttf** предоставляет классы, описывающие объекты, относящиеся к формату TTF Font.
+**Aspose.Font.Ttf** namespace предоставляет классы, описывающие объекты, связанные с форматом TTF Font.
 
 ## Классы
 
@@ -16,7 +16,7 @@ url: /ru/net/aspose.font.ttf/
 | [TtcFontFileDefinition](./ttcfontfiledefinition) | Представляет определение файла для шрифта TTC. |
 | [TtcFontSource](./ttcfontsource) | Представляет источник шрифта TTC. |
 | [TtfEncoding](./ttfencoding) | Представляет кодировку шрифта TTF. |
-| [TtfEncodingParameters](./ttfencodingparameters) | Представляет параметры кодирования TTF. Следует использовать для запроса определенной кодировки из TTF Font. |
+| [TtfEncodingParameters](./ttfencodingparameters) | Представляет параметры кодирования TTF. Следует использовать для запроса определенной кодировки из шрифта TTF. |
 | [TtfFont](./ttffont) | Представляет шрифт TrueType (TTF). |
 | [TtfFontMetrics](./ttffontmetrics) | Представляет метрики шрифта TTF. |
 

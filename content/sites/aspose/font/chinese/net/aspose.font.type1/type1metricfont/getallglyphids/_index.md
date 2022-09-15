@@ -1,14 +1,14 @@
 ---
 title: GetAllGlyphIds
 second_title: Aspose.Font for .NET API 参考
-description: 返回字体中可用的所有字形 ID Type1MetricFontaspose.font.type1/type1metricfont类型不支持
+description: 返回字体中可用的所有字形 ID 不支持Type1MetricFontaspose.font.type1/type1metricfont类型.
 type: docs
 weight: 70
 url: /zh/net/aspose.font.type1/type1metricfont/getallglyphids/
 ---
 ## Type1MetricFont.GetAllGlyphIds method
 
-返回字体中可用的所有字形 ID。 [`Type1MetricFont`](../../type1metricfont)类型不支持。
+返回字体中可用的所有字形 ID。 不支持[`Type1MetricFont`](../../type1metricfont)类型.
 
 ```csharp
 public override GlyphId[] GetAllGlyphIds()

@@ -1,14 +1,14 @@
 ---
 title: Version
 second_title: Справочник по API Aspose.Font для .NET
-description: Исправлена версия 0x00010000 if версия 1.0.
+description: Исправлена версия 0x00010000 если версия 1.0.
 type: docs
 weight: 130
 url: /ru/net/aspose.font.ttftables/ttfheadtable/version/
 ---
 ## TtfHeadTable.Version property
 
-Исправлена версия 0x00010000 if (версия 1.0).
+Исправлена версия 0x00010000, если (версия 1.0).
 
 ```csharp
 public float Version { get; }

@@ -3,7 +3,7 @@ title: op_Inequality
 second_title: Справочник по API Aspose.Font для .NET
 description: Реализация оператора неравенства.
 type: docs
-weight: 90
+weight: 110
 url: /ru/net/aspose.font/multilanguagestring/op_inequality/
 ---
 ## operator != {#op_inequality}

@@ -1,14 +1,14 @@
 ---
 title: GlyfTable
 second_title: Справочник по API Aspose.Font для .NET
-description: Получает таблицу глифов.
+description: Получает таблицу символов.
 type: docs
 weight: 50
 url: /ru/net/aspose.font.ttftables/ttftablerepository/glyftable/
 ---
 ## TtfTableRepository.GlyfTable property
 
-Получает таблицу глифов.
+Получает таблицу символов.
 
 ```csharp
 public TtfGlyfTable GlyfTable { get; }

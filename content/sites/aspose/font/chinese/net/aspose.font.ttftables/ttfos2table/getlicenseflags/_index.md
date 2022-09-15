@@ -1,14 +1,14 @@
 ---
 title: GetLicenseFlags
 second_title: Aspose.Font for .NET API 参考
-description: 获取对象表示中的嵌入标志fsType
+description: 在对象表示中获取嵌入标志fsType
 type: docs
 weight: 350
 url: /zh/net/aspose.font.ttftables/ttfos2table/getlicenseflags/
 ---
 ## TtfOs2Table.GetLicenseFlags method
 
-获取对象表示中的嵌入标志（fsType）。
+在对象表示中获取嵌入标志（fsType）。
 
 ```csharp
 public LicenseFlags GetLicenseFlags()

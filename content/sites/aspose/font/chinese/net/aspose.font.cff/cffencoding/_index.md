@@ -18,15 +18,15 @@ public class CffEncoding : IFontEncoding, ISupportsNameAddressing
 
 | 姓名 | 描述 |
 | --- | --- |
-| [DecodeToGid](../../aspose.font.cff/cffencoding/decodetogid)(uint) | 获取通过的 charCode 的 Gid。此方法专为 CFF CIDFonts 设计，其中 charCode 必须是有效的 CID 值。 Glyph id 是字形的唯一编号，它取决于字体类型。 CFF 字体字形 id 可以是 ([`GlyphStringId`](../../aspose.font.glyphs/glyphstringid)) 类或 ([`GlyphUInt32Id`](../../aspose.font.glyphs/glyphuint32id)) 类的实例. |
+| [DecodeToGid](../../aspose.font.cff/cffencoding/decodetogid)(uint) | 获取通过的 charCode 的 Gid。此方法专为 CFF CIDFonts 设计， 其中 charCode 必须是有效的 CID 值。 Glyph id 是字形的唯一编号，取决于字体类型。 CFF 字体字形 id 可以是 ([`GlyphStringId`](../../aspose.font.glyphs/glyphstringid)) 类或 ([`GlyphUInt32Id`](../../aspose.font.glyphs/glyphuint32id) 类. |
 | [DecodeToGidParameterized](../../aspose.font.cff/cffencoding/decodetogidparameterized)(IEncodingParameters, uint) | 参数化解码方法。 CFF 字体类型不支持。 |
-| [Encode](../../aspose.font.cff/cffencoding/encode)(uint, uint) | 编码字形。 CFF 字体类型不支持。 |
+| [Encode](../../aspose.font.cff/cffencoding/encode)(uint, uint) | 对字形进行编码。 CFF 字体类型不支持。 |
 | [GetNameToCharCodeIndex](../../aspose.font.cff/cffencoding/getnametocharcodeindex)() | 将名称返回到字符代码编码映射。 注意：字符代码不是 unicode。字符代码是字体编码“表”中的字符索引。 |
 | [GetNameToGidIndex](../../aspose.font.cff/cffencoding/getnametogidindex)() | 将名称返回到字符代码编码映射。 注意：字符代码不是 unicode。字符代码是字体编码“表”中的字符索引。 |
 | [GetNameToSidIndex](../../aspose.font.cff/cffencoding/getnametosidindex)() | 将名称返回到字符代码编码映射。 注意：字符代码不是 unicode。字符代码是字体编码“表”中的字符索引。 |
 | [GetSidName](../../aspose.font.cff/cffencoding/getsidname)(int) | 获取指定 SID 的名称。 |
-| [GidToUnicode](../../aspose.font.cff/cffencoding/gidtounicode)(GlyphId) | 将 Gid 解码为 unicode。 Glyph id 是字形的唯一编号，它取决于字体类型。 CFF 字体字形 id 可以是 ([`GlyphStringId`](../../aspose.font.glyphs/glyphstringid)) 类或 ([`GlyphUInt32Id`](../../aspose.font.glyphs/glyphuint32id)) 类的实例. |
-| [UnicodeToGid](../../aspose.font.cff/cffencoding/unicodetogid)(uint) | 解码一个 unicode 并返回 glyph id。 Glyph id 是字形的唯一编号，它取决于字体类型。 CFF 字体字形 id 可以是 ([`GlyphStringId`](../../aspose.font.glyphs/glyphstringid)) 类或 ([`GlyphUInt32Id`](../../aspose.font.glyphs/glyphuint32id)) 类的实例. |
+| [GidToUnicode](../../aspose.font.cff/cffencoding/gidtounicode)(GlyphId) | 将 Gid 解码为 unicode。 字形 ID 是字形的唯一编号，取决于字体类型。 CFF 字体字形 ID 可以是 ([`GlyphStringId`](../../aspose.font.glyphs/glyphstringid)) 类或 ([`GlyphUInt32Id`](../../aspose.font.glyphs/glyphuint32id) 类. |
+| [UnicodeToGid](../../aspose.font.cff/cffencoding/unicodetogid)(uint) | 解码 unicode 并返回字形 id。 字形 id 是字形的唯一编号，取决于字体类型。 CFF 字体字形 id 可以是 ([`GlyphStringId`](../../aspose.font.glyphs/glyphstringid)) 类或 ([`GlyphUInt32Id`](../../aspose.font.glyphs/glyphuint32id) 类. |
 
 ### 也可以看看
 

@@ -3,7 +3,7 @@ title: TtfOs2Table
 second_title: Aspose.Font for .NET API 参考
 description: 表示 TTF 字体文件的OS/2表
 type: docs
-weight: 980
+weight: 990
 url: /zh/net/aspose.font.ttftables/ttfos2table/
 ---
 ## TtfOs2Table class
@@ -19,12 +19,12 @@ public class TtfOs2Table : TtfTableBase
 | 姓名 | 描述 |
 | --- | --- |
 | [AchVendId](../../aspose.font.ttftables/ttfos2table/achvendid) { get; } | 获取 AchVendId 值。 |
-| [FSSelection](../../aspose.font.ttftables/ttfos2table/fsselection) { get; } | 包含有关字体模式性质的信息。 0 bit 1 ITALIC 字体包含斜体字符，否则为直立。 1 UNDERSCORE 字符加下划线。 2 否定字符的前景和背景颠倒了。 3 OUTLINED 轮廓（空心）字符，否则它们是实心的。 4 STRIKEOUT 字符被击中。 5 bit 0 BOLD 加粗字符。 6 REGULAR 字符采用字体的标准粗细/样式。 |
+| [FSSelection](../../aspose.font.ttftables/ttfos2table/fsselection) { get; } | 包含有关字体模式性质的信息。 0 位 1 ITALIC 字体包含斜体字符，否则它们是直立的。 1 UNDERSCORE 字符有下划线。 2 NEGATIVE 字符的前景和背景颠倒了。 3 OUTLINED 轮廓（空心）字符，否则它们是实心的。 4 STRIKEOUT 字符被过度打击。 5 位 0 BOLD 字符被加粗。 6 REGULAR 字符采用字体的标准粗细/样式。 |
 | [FSType](../../aspose.font.ttftables/ttfos2table/fstype) { get; } | 获取 FSType 值。 |
-| [Offset](../../aspose.font.ttftables/ttftablebase/offset) { get; } | 从 sfnt 开始处获取偏移量。 |
+| [Offset](../../aspose.font.ttftables/ttftablebase/offset) { get; } | 获取从 sfnt 开始的偏移量。 |
 | [Panose](../../aspose.font.ttftables/ttfos2table/panose) { get; } | 这个 10 字节的数字系列用于描述给定字体的视觉特征。然后使用这些特征将字体与具有不同名称的类似外观的其他字体相关联。 |
 | [SCapHeight](../../aspose.font.ttftables/ttfos2table/scapheight) { get; } | 获取 SCapHeight 值。 |
-| [SFamilyClass](../../aspose.font.ttftables/ttfos2table/sfamilyclass) { get; } | 这个参数是字体系列设计的一个分类。 字体类和字体子类是IBM 分配给每个字体系列的注册值。此参数用于在请求的字体不可用时选择替代字体。 |
+| [SFamilyClass](../../aspose.font.ttftables/ttfos2table/sfamilyclass) { get; } | 此参数是字体系列设计的分类。 字体类别和字体子类别是IBM 分配给每个字体系列的注册值。此参数用于在请求的字体不可用时选择替代字体。 |
 | [STypoAscender](../../aspose.font.ttftables/ttfos2table/stypoascender) { get; } | 获取 STypoAscender 值。 |
 | [STypoDescender](../../aspose.font.ttftables/ttfos2table/stypodescender) { get; } | 获取 STypoDescender 值。 |
 | [STypoLineGap](../../aspose.font.ttftables/ttfos2table/stypolinegap) { get; } | 获取 STypoLineGap 值。 |
@@ -38,7 +38,7 @@ public class TtfOs2Table : TtfTableBase
 | [USFirstCharIndex](../../aspose.font.ttftables/ttfos2table/usfirstcharindex) { get; } | 获取 USFirstCharIndex 值。 |
 | [USLastCharIndex](../../aspose.font.ttftables/ttfos2table/uslastcharindex) { get; } | 获取 USLastCharIndex 值。 |
 | [USMaxContext](../../aspose.font.ttftables/ttfos2table/usmaxcontext) { get; } | 获取 USMaxContext 值。 |
-| [USWeightClass](../../aspose.font.ttftables/ttfos2table/usweightclass) { get; } | 表示字体中字符的视觉粗细（黑度或笔画粗细）。 |
+| [USWeightClass](../../aspose.font.ttftables/ttfos2table/usweightclass) { get; } | 表示字体中字符的视觉重量（黑度或笔画粗细）。 |
 | [USWidthClass](../../aspose.font.ttftables/ttfos2table/uswidthclass) { get; } | 表示字体设计者为字体中的字形指定的正常纵横比（宽高比）的相对变化。 |
 | [USWinAscent](../../aspose.font.ttftables/ttfos2table/uswinascent) { get; } | 获取 USWinAscent 值。 |
 | [USWinDescent](../../aspose.font.ttftables/ttfos2table/uswindescent) { get; } | 获取 USWinDescent 值。 |
@@ -60,7 +60,7 @@ public class TtfOs2Table : TtfTableBase
 
 | 姓名 | 描述 |
 | --- | --- |
-| [GetLicenseFlags](../../aspose.font.ttftables/ttfos2table/getlicenseflags)() | 获取对象表示中的嵌入标志（fsType）。 |
+| [GetLicenseFlags](../../aspose.font.ttftables/ttfos2table/getlicenseflags)() | 在对象表示中获取嵌入标志（fsType）。 |
 
 ### 也可以看看
 

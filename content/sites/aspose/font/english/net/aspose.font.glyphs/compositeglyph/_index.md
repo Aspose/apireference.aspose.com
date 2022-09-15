@@ -3,7 +3,7 @@ title: CompositeGlyph
 second_title: Aspose.Font for .NET API Reference
 description: Represents a font composite glyph.
 type: docs
-weight: 200
+weight: 210
 url: /net/aspose.font.glyphs/compositeglyph/
 ---
 ## CompositeGlyph class

@@ -1,14 +1,14 @@
 ---
 title: Open
 second_title: Aspose.Font for .NET API 参考
-description: 使用 FontDefinition 对象打开字体
+description: 打开字体使用 FontDefinition 对象
 type: docs
 weight: 10
 url: /zh/net/aspose.font/font/open/
 ---
 ## Open(FontDefinition) {#open_3}
 
-使用 FontDefinition 对象打开字体。
+打开字体，使用 FontDefinition 对象。
 
 ```csharp
 public static Font Open(FontDefinition fontDefinition)

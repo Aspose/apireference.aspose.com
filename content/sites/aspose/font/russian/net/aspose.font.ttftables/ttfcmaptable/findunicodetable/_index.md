@@ -1,14 +1,14 @@
 ---
 title: FindUnicodeTable
 second_title: Справочник по API Aspose.Font для .NET
-description: Ищет и возвращает CMap в формате Юникод. если есть ucs-4 CMap - сначала возвращает его в противном случае возвращает любую Unicode cmap которую может найти.
+description: Ищет и возвращает CMap в кодировке Unicode. если есть CMap ucs4  сначала возвращает его в противном случае  возвращает любую CMap в кодировке Unicode которую может найти.
 type: docs
 weight: 10
 url: /ru/net/aspose.font.ttftables/ttfcmaptable/findunicodetable/
 ---
 ## TtfCMapTable.FindUnicodeTable method
 
-Ищет и возвращает CMap в формате Юникод. если есть ucs-4 CMap - сначала возвращает его; в противном случае возвращает любую Unicode cmap, которую может найти.
+Ищет и возвращает CMap в кодировке Unicode. если есть CMap ucs-4 — сначала возвращает его; в противном случае — возвращает любую CMap в кодировке Unicode, которую может найти.
 
 ```csharp
 public TtfCMapFormatBaseTable FindUnicodeTable()
@@ -16,7 +16,7 @@ public TtfCMapFormatBaseTable FindUnicodeTable()
 
 ### Возвращаемое значение
 
-Подтаблица Unicode.
+Подтаблица Юникода.
 
 ### Смотрите также
 

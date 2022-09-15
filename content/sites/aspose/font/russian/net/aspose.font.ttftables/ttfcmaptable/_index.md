@@ -3,7 +3,7 @@ title: TtfCMapTable
 second_title: Справочник по API Aspose.Font для .NET
 description: Представляет таблицу cmap файла шрифта TTF.
 type: docs
-weight: 750
+weight: 760
 url: /ru/net/aspose.font.ttftables/ttfcmaptable/
 ---
 ## TtfCMapTable class
@@ -26,7 +26,7 @@ public class TtfCMapTable : TtfTableBase
 
 | Имя | Описание |
 | --- | --- |
-| [FindUnicodeTable](../../aspose.font.ttftables/ttfcmaptable/findunicodetable)() | Ищет и возвращает CMap в формате Юникод. если есть ucs-4 CMap - сначала возвращает его; в противном случае возвращает любую Unicode cmap, которую может найти. |
+| [FindUnicodeTable](../../aspose.font.ttftables/ttfcmaptable/findunicodetable)() | Ищет и возвращает CMap в кодировке Unicode. если есть CMap ucs-4 — сначала возвращает его; в противном случае — возвращает любую CMap в кодировке Unicode, которую может найти. |
 | [GetAllSubtables](../../aspose.font.ttftables/ttfcmaptable/getallsubtables)() | Возвращает все подтаблицы из таблицы CMap. |
 | [GetPlatformTables](../../aspose.font.ttftables/ttfcmaptable/getplatformtables)(ushort, ushort) | Возвращает подтаблицы CMap для planformId и platformSpecificId. |
 

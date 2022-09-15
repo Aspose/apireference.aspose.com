@@ -1,14 +1,14 @@
 ---
 title: Item
 second_title: Aspose.Font for .NET API 参考
-description: 按字形索引获取指标
+description: 通过字形索引获取指标
 type: docs
 weight: 20
 url: /zh/net/aspose.font.ttftables/ttfhmtxtable.metriclist/item/
 ---
 ## TtfHmtxTable.MetricList indexer
 
-按字形索引获取指标。
+通过字形索引获取指标。
 
 ```csharp
 public LongHorMetric this[int glyphIndex] { get; }
@@ -16,7 +16,7 @@ public LongHorMetric this[int glyphIndex] { get; }
 
 | 范围 | 描述 |
 | --- | --- |
-| glyphIndex | 要获取指标的字形索引。 |
+| glyphIndex | 获取指标的字形索引。 |
 
 ### 返回值
 

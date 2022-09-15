@@ -1,14 +1,14 @@
 ---
 title: IEncodingParameters
 second_title: Aspose.Font for .NET API 参考
-description: 通用接口支持编码参数 某些字体类型可以有多种编码算法/映射 所以这个接口应该用来创建具体的字体编码参数
+description: 支持编码参数的通用接口 一些字体类型可以有多种编码算法/映射 所以这个接口应该用于创建具体的字体编码参数
 type: docs
 weight: 310
 url: /zh/net/aspose.font/iencodingparameters/
 ---
 ## IEncodingParameters interface
 
-通用接口，支持编码参数。 某些字体类型可以有多种编码算法/映射。 所以，这个接口应该用来创建具体的字体编码参数。
+支持编码参数的通用接口。 一些字体类型可以有多种编码算法/映射。 所以，这个接口应该用于创建具体的字体编码参数。
 
 ```csharp
 public interface IEncodingParameters

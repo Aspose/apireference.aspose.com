@@ -1,14 +1,14 @@
 ---
 title: PostscriptNames
 second_title: Справочник по API Aspose.Font для .NET
-description: Получает постскриптумные имена шрифтов.
+description: Получает имена шрифтов postscript.
 type: docs
 weight: 120
 url: /ru/net/aspose.font/ifont/postscriptnames/
 ---
 ## IFont.PostscriptNames property
 
-Получает постскриптумные имена шрифтов.
+Получает имена шрифтов postscript.
 
 ```csharp
 public MultiLanguageString PostscriptNames { get; }

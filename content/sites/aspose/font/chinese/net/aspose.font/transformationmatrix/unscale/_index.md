@@ -16,8 +16,8 @@ public void UnScale(double x1, double y1, out double x, out double y)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| x1 | Double | 坐标x1。 |
-| y1 | Double | 坐标y1。 |
+| x1 | Double | 坐标 x1。 |
+| y1 | Double | 坐标 y1。 |
 | x | Double& | 坐标 x 缩小。 |
 | y | Double& | 坐标 y 缩小。 |
 

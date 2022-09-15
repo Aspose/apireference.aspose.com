@@ -1,14 +1,14 @@
 ---
 title: HasNoPostScriptNames
 second_title: Справочник по API Aspose.Font для .NET
-description: Указывает что для глифов в этом файле шрифта не предоставлена информация об имени PostScript.
+description: Указывает что информация об имени PostScript для глифов в этом файле шрифта не предоставляется.
 type: docs
 weight: 20
 url: /ru/net/aspose.font.ttftables/ttfposttable/hasnopostscriptnames/
 ---
 ## TtfPostTable.HasNoPostScriptNames property
 
-Указывает, что для глифов в этом файле шрифта не предоставлена информация об имени PostScript.
+Указывает, что информация об имени PostScript для глифов в этом файле шрифта не предоставляется.
 
 ```csharp
 public bool HasNoPostScriptNames { get; }

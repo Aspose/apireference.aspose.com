@@ -1,14 +1,14 @@
 ---
 title: Encoding
 second_title: Справочник по API Aspose.Font для .NET
-description: Кодировка определяется в файле метрик. StandardAdobeEncoding кодировка подставляется автоматически
+description: Кодировка определяется в файле метрик. StandardAdobeEncoding кодировка заполняется автоматически
 type: docs
 weight: 10
 url: /ru/net/aspose.font.type1/type1metricfont/encoding/
 ---
 ## Type1MetricFont.Encoding property
 
-Кодировка определяется в файле метрик. StandardAdobeEncoding: кодировка подставляется автоматически
+Кодировка определяется в файле метрик. StandardAdobeEncoding: кодировка заполняется автоматически
 
 ```csharp
 public override IFontEncoding Encoding { get; }
@@ -16,7 +16,7 @@ public override IFontEncoding Encoding { get; }
 
 ### Примеры
 
-FontSpecific: пользователь должен указать конкретная кодировка следующим образом: &lt;cppcode&gt; System::ArrayPtr&lt;System::String&gt; zapfDingbatsEncoding = System::MakeArray&lt;System::String&gt;({nullptr, nullptr, ..., u"space", u"a1", ...}); FontEnvironment::get_Current()-&gt;get_FontSpecificEncodings()-&gt;RegisterEncoding(u"ZapfDingbats", zapfDingbatsEncoding); &lt;/cppcode&gt;
+FontSpecific: пользователь должен указать конкретную кодировку следующим образом:  System::ArrayPtr&lt;System::String&gt; zapfDingbatsEncoding = System::MakeArray&lt;System::String&gt;({nullptr, nullptr, ..., u"space", u"a1", ...}); FontEnvironment::get_Current()-&gt;get_FontSpecificEncodings()-&gt;RegisterEncoding(u"ZapfDingbats", zapfDingbatsEncoding);
 
 ```csharp
 string[] zapfDingbatsEncoding = new string[256] {null, null, ... , "space", "a1", ...};

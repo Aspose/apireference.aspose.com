@@ -1,14 +1,14 @@
 ---
 title: IsFixedPitch
 second_title: Aspose.Font for .NET API 参考
-description: 获取 uint32 isFixedPitch如果字体是按比例间隔的则为 0如果字体不是按比例的 间隔即等宽则为非零
+description: 获取 uint32 isFixedPitch如果字体是按比例间隔的则为 0如果字体不是按比例 间隔即等宽则为非零
 type: docs
 weight: 30
 url: /zh/net/aspose.font.ttftables/ttfposttable/isfixedpitch/
 ---
 ## TtfPostTable.IsFixedPitch property
 
-获取 uint32 isFixedPitch。如果字体是按比例间隔的，则为 0，如果字体不是按比例的 间隔（即等宽），则为非零。
+获取 uint32 isFixedPitch。如果字体是按比例间隔的，则为 0，如果字体不是按比例 间隔（即等宽），则为非零。
 
 ```csharp
 public uint IsFixedPitch { get; }

@@ -3,7 +3,7 @@ title: Equals
 second_title: Справочник по API Aspose.Font для .NET
 description: Возвращает true если объекты считаются равными.
 type: docs
-weight: 20
+weight: 40
 url: /ru/net/aspose.font/multilanguagestring/equals/
 ---
 ## MultiLanguageString.Equals method

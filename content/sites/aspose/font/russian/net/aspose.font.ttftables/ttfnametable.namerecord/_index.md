@@ -1,14 +1,14 @@
 ---
 title: TtfNameTable.NameRecord
 second_title: Справочник по API Aspose.Font для .NET
-description: Представляет структуру NameRecord таблицы name
+description: Представляет структуру NameRecord таблицы имя
 type: docs
-weight: 950
+weight: 960
 url: /ru/net/aspose.font.ttftables/ttfnametable.namerecord/
 ---
 ## TtfNameTable.NameRecord class
 
-Представляет структуру NameRecord таблицы 'name'
+Представляет структуру NameRecord таблицы «имя»
 
 ```csharp
 public class NameRecord

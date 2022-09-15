@@ -1,14 +1,14 @@
 ---
 title: GetAllNameRecords
 second_title: Aspose.Font for .NET API 参考
-description: 从表
+description: 全部返回NameRecordaspose.font.ttftables/ttfnametable.namerecordtable 中的结构
 type: docs
-weight: 20
+weight: 50
 url: /zh/net/aspose.font.ttftables/ttfnametable/getallnamerecords/
 ---
 ## TtfNameTable.GetAllNameRecords method
 
-从表
+全部返回[`NameRecord`](../../ttfnametable.namerecord)table 中的结构
 
 ```csharp
 public NameRecord[] GetAllNameRecords()
@@ -16,7 +16,7 @@ public NameRecord[] GetAllNameRecords()
 
 ### 返回值
 
-返回所有[`NameRecord`](../../ttfnametable.namerecord)结构[`NameRecord`](../../ttfnametable.namerecord)结构数组
+数组[`NameRecord`](../../ttfnametable.namerecord)结构
 
 ### 也可以看看
 

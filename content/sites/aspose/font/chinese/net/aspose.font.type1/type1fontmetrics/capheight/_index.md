@@ -1,14 +1,14 @@
 ---
 title: CapHeight
 second_title: Aspose.Font for .NET API 参考
-description: 获取大写高度值
+description: 获取上限高度值
 type: docs
 weight: 20
 url: /zh/net/aspose.font.type1/type1fontmetrics/capheight/
 ---
 ## Type1FontMetrics.CapHeight property
 
-获取大写高度值。
+获取上限高度值。
 
 ```csharp
 public double CapHeight { get; }

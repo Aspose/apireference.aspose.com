@@ -1,14 +1,14 @@
 ---
 title: GetNameRecordsByNameId
 second_title: Aspose.Font for .NET API 参考
-description: 返回所有NameRecordaspose.font.ttftables/ttfnametable.namerecord结构其中 NameId 字段等于 以传递nameId价值如果没有找到记录将返回空数组
+description: 全部返回NameRecordaspose.font.ttftables/ttfnametable.namerecordNameId 字段等于 以传递的结构nameId价值如果没有找到记录将返回空数组
 type: docs
-weight: 50
+weight: 80
 url: /zh/net/aspose.font.ttftables/ttfnametable/getnamerecordsbynameid/
 ---
 ## TtfNameTable.GetNameRecordsByNameId method
 
-返回所有[`NameRecord`](../../ttfnametable.namerecord)结构，其中 NameId 字段等于 以传递*nameId*价值。如果没有找到记录，将返回空数组。
+全部返回[`NameRecord`](../../ttfnametable.namerecord)NameId 字段等于 以传递的结构*nameId*价值。如果没有找到记录，将返回空数组。
 
 ```csharp
 public NameRecord[] GetNameRecordsByNameId(NameId nameId)
@@ -20,7 +20,7 @@ public NameRecord[] GetNameRecordsByNameId(NameId nameId)
 
 ### 返回值
 
-NameRecord的数组结构
+数组[`NameRecord`](../../ttfnametable.namerecord)结构
 
 ### 也可以看看
 

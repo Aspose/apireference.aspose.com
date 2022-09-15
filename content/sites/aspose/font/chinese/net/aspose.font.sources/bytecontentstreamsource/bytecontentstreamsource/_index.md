@@ -1,14 +1,14 @@
 ---
 title: ByteContentStreamSource
 second_title: Aspose.Font for .NET API 参考
-description: 初始化新的ByteContentStreamSourceaspose.font.sources/bytecontentstreamsource对象
+description: 初始化新的ByteContentStreamSourceaspose.font.sources/bytecontentstreamsource对象.
 type: docs
 weight: 10
 url: /zh/net/aspose.font.sources/bytecontentstreamsource/bytecontentstreamsource/
 ---
 ## ByteContentStreamSource constructor
 
-初始化新的[`ByteContentStreamSource`](../../bytecontentstreamsource)对象。
+初始化新的[`ByteContentStreamSource`](../../bytecontentstreamsource)对象.
 
 ```csharp
 public ByteContentStreamSource(byte[] fileContent)

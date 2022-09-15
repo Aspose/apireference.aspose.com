@@ -1,14 +1,14 @@
 ---
 title: TtfNameTable.MSPlatformSpecificId
 second_title: Aspose.Font for .NET API 参考
-description: 表示微软平台 PlatformSpecificId 枚举
+description: 代表微软平台 PlatformSpecificId 枚举
 type: docs
-weight: 910
+weight: 920
 url: /zh/net/aspose.font.ttftables/ttfnametable.msplatformspecificid/
 ---
 ## TtfNameTable.MSPlatformSpecificId enumeration
 
-表示微软平台 PlatformSpecificId 枚举。
+代表微软平台 PlatformSpecificId 枚举。
 
 ```csharp
 public enum MSPlatformSpecificId
@@ -18,17 +18,17 @@ public enum MSPlatformSpecificId
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| Symbol | `0` | 符号 MS PlatformSpecificId。 |
-| Unicode_BMP_UCS2 | `1` | Unicode BMP (UCS2) MS PlatformSpecificId。 |
-| ShiftJIS | `2` | ShiftJIS MS PlatformSpecificId。 |
-| PRC | `3` | PRC MS PlatformSpecificId。 |
-| Big5 | `4` | Big5 MS PlatformSpecificId。 |
-| Wansung | `5` | Wansung MS PlatformSpecificId。 |
-| Johab | `6` | Johab MS PlatformSpecificId。 |
-| Reserved1 | `7` | Reserved1 MS PlatformSpecificId。 |
-| Reserved2 | `8` | Reserved2 MS PlatformSpecificId。 |
-| Reserved3 | `9` | Reserved3 MS PlatformSpecificId。 |
-| Unicode_UCS4 | `10` | Unicode UCS4 MS PlatformSpecificId。 |
+| Symbol | `0` | 符号 MS PlatformSpecificId. |
+| Unicode_BMP_UCS2 | `1` | Unicode BMP (UCS2) MS PlatformSpecificId. |
+| ShiftJIS | `2` | ShiftJIS MS PlatformSpecificId. |
+| PRC | `3` | PRC MS PlatformSpecificId. |
+| Big5 | `4` | Big5 MS PlatformSpecificId. |
+| Wansung | `5` | Wansung MS PlatformSpecificId. |
+| Johab | `6` | Johab MS PlatformSpecificId. |
+| Reserved1 | `7` | Reserved1 MS PlatformSpecificId. |
+| Reserved2 | `8` | Reserved2 MS PlatformSpecificId. |
+| Reserved3 | `9` | Reserved3 MS PlatformSpecificId. |
+| Unicode_UCS4 | `10` | Unicode UCS4 MS PlatformSpecificId. |
 
 ### 也可以看看
 

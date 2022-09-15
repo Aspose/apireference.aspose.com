@@ -3,7 +3,7 @@ title: HelpersFactory
 second_title: Справочник по API Aspose.Font для .NET
 description: Создает объекты связанные с пространством имен TtfHelpers
 type: docs
-weight: 730
+weight: 740
 url: /ru/net/aspose.font.ttfhelpers/helpersfactory/
 ---
 ## HelpersFactory class
@@ -18,7 +18,7 @@ public static class HelpersFactory
 
 | Имя | Описание |
 | --- | --- |
-| static [GetFontCharactersMerger](../../aspose.font.ttfhelpers/helpersfactory/getfontcharactersmerger)(TtfFont, TtfFont) | Создает экземпляр IFontCharactersMerger |
+| static [GetFontCharactersMerger](../../aspose.font.ttfhelpers/helpersfactory/getfontcharactersmerger)(TtfFont, TtfFont) | Создает экземпляр IFontCharactersMerge |
 
 ### Смотрите также
 

@@ -3,7 +3,7 @@ title: TtfNameTable.UnicodePlatformSpecificId
 second_title: Aspose.Font for .NET API 参考
 description: 表示 unicode 平台特定的枚举
 type: docs
-weight: 970
+weight: 980
 url: /zh/net/aspose.font.ttftables/ttfnametable.unicodeplatformspecificid/
 ---
 ## TtfNameTable.UnicodePlatformSpecificId enumeration

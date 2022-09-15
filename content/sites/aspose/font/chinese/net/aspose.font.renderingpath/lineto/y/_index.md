@@ -1,14 +1,14 @@
 ---
 title: Y
 second_title: Aspose.Font for .NET API 参考
-description: 获取坐标 y
+description: 获取坐标
 type: docs
 weight: 20
 url: /zh/net/aspose.font.renderingpath/lineto/y/
 ---
 ## LineTo.Y property
 
-获取坐标 y。
+获取坐标
 
 ```csharp
 public double Y { get; }

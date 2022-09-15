@@ -1,14 +1,14 @@
 ---
 title: MaxPoints
 second_title: Справочник по API Aspose.Font для .NET
-description: Получает uint16 точек maxPoints в несоставном глифе.
+description: Получает uint16 очков maxPoints в несоставном глифе.
 type: docs
 weight: 80
 url: /ru/net/aspose.font.ttftables/ttfmaxptable/maxpoints/
 ---
 ## TtfMaxpTable.MaxPoints property
 
-Получает uint16 точек maxPoints в несоставном глифе.
+Получает uint16 очков maxPoints в несоставном глифе.
 
 ```csharp
 public ushort MaxPoints { get; }

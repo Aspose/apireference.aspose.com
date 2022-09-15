@@ -1,14 +1,14 @@
 ---
 title: GlyphStringId
 second_title: Справочник по API Aspose.Font для .NET
-description: Инициализирует новый объектGlyphStringIdaspose.font.glyphs/glyphstringid.
+description: Инициализирует новыйGlyphStringIdaspose.font.glyphs/glyphstringid объект.
 type: docs
 weight: 10
 url: /ru/net/aspose.font.glyphs/glyphstringid/glyphstringid/
 ---
 ## GlyphStringId constructor
 
-Инициализирует новый объект[`GlyphStringId`](../../glyphstringid).
+Инициализирует новый[`GlyphStringId`](../../glyphstringid) объект.
 
 ```csharp
 public GlyphStringId(string value)

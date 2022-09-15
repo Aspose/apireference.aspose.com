@@ -20,7 +20,7 @@ public string GetGlyphName(uint glyphIndex)
 
 ### Возвращаемое значение
 
-Название глифа.
+Имя глифа.
 
 ### Смотрите также
 

@@ -1,14 +1,14 @@
 ---
 title: IsRestrictedLicenseEmbedding
 second_title: Справочник по API Aspose.Font для .NET
-description: Определяет является ли fsType внедрением с ограниченной лицензией.
+description: Определяет является ли fsType внедрением ограниченной лицензии.
 type: docs
 weight: 90
 url: /ru/net/aspose.font.ttf/licenseflags/isrestrictedlicenseembedding/
 ---
 ## LicenseFlags.IsRestrictedLicenseEmbedding property
 
-Определяет, является ли fsType внедрением с ограниченной лицензией.
+Определяет, является ли fsType внедрением ограниченной лицензии.
 
 ```csharp
 public bool IsRestrictedLicenseEmbedding { get; }

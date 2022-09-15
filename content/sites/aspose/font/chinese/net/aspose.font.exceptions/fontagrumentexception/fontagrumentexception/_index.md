@@ -1,14 +1,14 @@
 ---
 title: FontAgrumentException
 second_title: Aspose.Font for .NET API 参考
-description: 初始化新的FontAgrumentExceptionaspose.font.exceptions/fontagrumentexception对象
+description: 初始化新的FontAgrumentExceptionaspose.font.exceptions/fontagrumentexception对象.
 type: docs
 weight: 10
 url: /zh/net/aspose.font.exceptions/fontagrumentexception/fontagrumentexception/
 ---
 ## FontAgrumentException() {#constructor}
 
-初始化新的[`FontAgrumentException`](../../fontagrumentexception)对象。
+初始化新的[`FontAgrumentException`](../../fontagrumentexception)对象.
 
 ```csharp
 public FontAgrumentException()
@@ -24,7 +24,7 @@ public FontAgrumentException()
 
 ## FontAgrumentException(string) {#constructor_2}
 
-初始化新的[`FontAgrumentException`](../../fontagrumentexception)对象。
+初始化新的[`FontAgrumentException`](../../fontagrumentexception)对象.
 
 ```csharp
 public FontAgrumentException(string message)
@@ -44,7 +44,7 @@ public FontAgrumentException(string message)
 
 ## FontAgrumentException(string, Exception) {#constructor_3}
 
-初始化新的[`FontAgrumentException`](../../fontagrumentexception)对象。
+初始化新的[`FontAgrumentException`](../../fontagrumentexception)对象.
 
 ```csharp
 public FontAgrumentException(string message, Exception innerException)
@@ -65,7 +65,7 @@ public FontAgrumentException(string message, Exception innerException)
 
 ## FontAgrumentException(SerializationInfo, StreamingContext) {#constructor_1}
 
-初始化新的[`FontAgrumentException`](../../fontagrumentexception)对象。
+初始化新的[`FontAgrumentException`](../../fontagrumentexception)对象.
 
 ```csharp
 public FontAgrumentException(SerializationInfo info, StreamingContext context)

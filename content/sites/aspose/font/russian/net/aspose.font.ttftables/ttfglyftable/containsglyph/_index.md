@@ -1,14 +1,14 @@
 ---
 title: ContainsGlyph
 second_title: Справочник по API Aspose.Font для .NET
-description: Возвращает true если таблица содержит глиф с индексом глифа.
+description: Возвращает true если таблица содержит глиф с индексом glyphIndex.
 type: docs
 weight: 10
 url: /ru/net/aspose.font.ttftables/ttfglyftable/containsglyph/
 ---
 ## TtfGlyfTable.ContainsGlyph method
 
-Возвращает true, если таблица содержит глиф с индексом глифа.
+Возвращает true, если таблица содержит глиф с индексом glyphIndex.
 
 ```csharp
 public virtual bool ContainsGlyph(int glyphIndex)
@@ -20,7 +20,7 @@ public virtual bool ContainsGlyph(int glyphIndex)
 
 ### Возвращаемое значение
 
-Истина, если таблица содержит глиф для указанного индекса, иначе ложь.
+Истина, если таблица содержит глиф для указанного индекса, в противном случае — ложь.
 
 ### Смотрите также
 

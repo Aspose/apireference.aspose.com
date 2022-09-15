@@ -1,14 +1,14 @@
 ---
 title: CffFontException
 second_title: Aspose.Font for .NET API 参考
-description: 表示 CFF 格式字体的常见处理相关异常
+description: 表示CFF格式字体的常见处理相关异常
 type: docs
 weight: 50
 url: /zh/net/aspose.font.cffexceptions/cfffontexception/
 ---
 ## CffFontException class
 
-表示 CFF 格式字体的常见处理相关异常。
+表示CFF格式字体的常见处理相关异常。
 
 ```csharp
 public class CffFontException : FontException
@@ -18,10 +18,10 @@ public class CffFontException : FontException
 
 | 姓名 | 描述 |
 | --- | --- |
-| [CffFontException](cfffontexception#constructor)() | 初始化新的[`CffFontException`](../cfffontexception)对象。 |
-| [CffFontException](cfffontexception#constructor_2)(string) | 初始化新的[`CffFontException`](../cfffontexception)对象。 |
-| [CffFontException](cfffontexception#constructor_1)(SerializationInfo, StreamingContext) | 初始化新的[`CffFontException`](../cfffontexception)对象。 |
-| [CffFontException](cfffontexception#constructor_3)(string, Exception) | 初始化新的[`CffFontException`](../cfffontexception)对象。 |
+| [CffFontException](cfffontexception#constructor)() | 初始化新的[`CffFontException`](../cfffontexception)对象. |
+| [CffFontException](cfffontexception#constructor_2)(string) | 初始化新的[`CffFontException`](../cfffontexception)对象. |
+| [CffFontException](cfffontexception#constructor_1)(SerializationInfo, StreamingContext) | 初始化新的[`CffFontException`](../cfffontexception)对象. |
+| [CffFontException](cfffontexception#constructor_3)(string, Exception) | 初始化新的[`CffFontException`](../cfffontexception)对象. |
 
 ### 也可以看看
 

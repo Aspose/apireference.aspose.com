@@ -3,7 +3,7 @@ title: TtfLocaTable
 second_title: Справочник по API Aspose.Font для .NET
 description: Представляет таблицу loca файла шрифта TTF.
 type: docs
-weight: 860
+weight: 870
 url: /ru/net/aspose.font.ttftables/ttflocatable/
 ---
 ## TtfLocaTable class

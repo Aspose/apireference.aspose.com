@@ -1,14 +1,14 @@
 ---
 title: IsInstallableEmbedding
 second_title: Aspose.Font for .NET API 参考
-description: 检测 fsType 是否为 Installable embedding
+description: 检测 fsType 是否为 Installable embedding.
 type: docs
 weight: 50
 url: /zh/net/aspose.font.ttf/licenseflags/isinstallableembedding/
 ---
 ## LicenseFlags.IsInstallableEmbedding property
 
-检测 fsType 是否为 Installable embedding。
+检测 fsType 是否为 Installable embedding.
 
 ```csharp
 public bool IsInstallableEmbedding { get; }

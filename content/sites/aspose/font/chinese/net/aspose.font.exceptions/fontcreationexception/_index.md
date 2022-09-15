@@ -1,14 +1,14 @@
 ---
 title: FontCreationException
 second_title: Aspose.Font for .NET API 参考
-description: 表示字体创建异常 字体创建过程中出现错误会抛出异常
+description: 代表字体创建异常 字体创建过程中出现错误可以抛出异常
 type: docs
 weight: 90
 url: /zh/net/aspose.font.exceptions/fontcreationexception/
 ---
 ## FontCreationException class
 
-表示字体创建异常。 字体创建过程中出现错误会抛出异常。
+代表字体创建异常。 字体创建过程中出现错误可以抛出异常。
 
 ```csharp
 public class FontCreationException : FontException
@@ -18,10 +18,10 @@ public class FontCreationException : FontException
 
 | 姓名 | 描述 |
 | --- | --- |
-| [FontCreationException](fontcreationexception#constructor)() | 初始化新的[`FontCreationException`](../fontcreationexception)对象。 |
-| [FontCreationException](fontcreationexception#constructor_2)(string) | 初始化新的[`FontCreationException`](../fontcreationexception)对象。 |
-| [FontCreationException](fontcreationexception#constructor_1)(SerializationInfo, StreamingContext) | 初始化新的[`FontCreationException`](../fontcreationexception)对象。 |
-| [FontCreationException](fontcreationexception#constructor_3)(string, Exception) | 初始化新的[`FontCreationException`](../fontcreationexception)对象。 |
+| [FontCreationException](fontcreationexception#constructor)() | 初始化新的[`FontCreationException`](../fontcreationexception)对象. |
+| [FontCreationException](fontcreationexception#constructor_2)(string) | 初始化新的[`FontCreationException`](../fontcreationexception)对象. |
+| [FontCreationException](fontcreationexception#constructor_1)(SerializationInfo, StreamingContext) | 初始化新的[`FontCreationException`](../fontcreationexception)对象. |
+| [FontCreationException](fontcreationexception#constructor_3)(string, Exception) | 初始化新的[`FontCreationException`](../fontcreationexception)对象. |
 
 ### 也可以看看
 

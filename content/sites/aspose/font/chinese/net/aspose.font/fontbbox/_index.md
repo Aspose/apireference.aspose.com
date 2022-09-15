@@ -1,14 +1,14 @@
 ---
 title: FontBBox
 second_title: Aspose.Font for .NET API 参考
-description: 表示字体边界框BBox
+description: 代表字体边界框BBox
 type: docs
 weight: 130
 url: /zh/net/aspose.font/fontbbox/
 ---
 ## FontBBox class
 
-表示字体边界框（BBox）。
+代表字体边界框（BBox）。
 
 ```csharp
 public class FontBBox

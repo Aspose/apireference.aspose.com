@@ -1,14 +1,14 @@
 ---
 title: TtfFontMetrics
 second_title: Aspose.Font for .NET API 参考
-description: 表示 TTF 字体指标
+description: 表示 TTF 字体规格
 type: docs
 weight: 640
 url: /zh/net/aspose.font.ttf/ttffontmetrics/
 ---
 ## TtfFontMetrics class
 
-表示 TTF 字体指标。
+表示 TTF 字体规格。
 
 ```csharp
 public class TtfFontMetrics : FontMetrics
@@ -34,12 +34,12 @@ public class TtfFontMetrics : FontMetrics
 | 姓名 | 描述 |
 | --- | --- |
 | virtual [GetAscender](../../aspose.font/fontmetrics/getascender)(double) | 返回特定字体大小的升序。 |
-| virtual [GetDescender](../../aspose.font/fontmetrics/getdescender)(double) | 返回特定字体大小的降序。 |
+| virtual [GetDescender](../../aspose.font/fontmetrics/getdescender)(double) | 返回特定字体大小的下降器。 |
 | virtual [GetGlyphBBox](../../aspose.font/fontmetrics/getglyphbbox)(GlyphId) | 返回字形 BBox。 如果没有为字形定义 BBox，则返回 FontBBox。 可能被特定的字体编码继承者覆盖。 |
-| override [GetGlyphWidth](../../aspose.font.ttf/ttffontmetrics/getglyphwidth)(GlyphId) | 按字形 ID 返回字形宽度。 |
+| override [GetGlyphWidth](../../aspose.font.ttf/ttffontmetrics/getglyphwidth)(GlyphId) | 按字形 id 返回字形宽度。 |
 | override [GetKerningValue](../../aspose.font.ttf/ttffontmetrics/getkerningvalue)(GlyphId, GlyphId) | 返回字形对的字距调整值。 |
-| virtual [GetTypoAscender](../../aspose.font/fontmetrics/gettypoascender)(double) | 返回特定字体大小的降序。 |
-| virtual [GetTypoDescender](../../aspose.font/fontmetrics/gettypodescender)(double) | 返回特定字体大小的降序。 |
+| virtual [GetTypoAscender](../../aspose.font/fontmetrics/gettypoascender)(double) | 返回特定字体大小的下降器。 |
+| virtual [GetTypoDescender](../../aspose.font/fontmetrics/gettypodescender)(double) | 返回特定字体大小的下降器。 |
 | virtual [GetTypoLineGap](../../aspose.font/fontmetrics/gettypolinegap)(double) | 返回特定字体大小的行间距。 |
 | override [MeasureString](../../aspose.font.ttf/ttffontmetrics/measurestring)(string, double) | 测量字符串并返回字符串宽度。 |
 

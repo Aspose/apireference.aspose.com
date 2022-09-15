@@ -3,7 +3,7 @@ title: TtfCMapFormatBaseTable
 second_title: Aspose.Font for .NET API Reference
 description: Represents CMap subtable base class.
 type: docs
-weight: 720
+weight: 730
 url: /net/aspose.font.ttfcmapformats/ttfcmapformatbasetable/
 ---
 ## TtfCMapFormatBaseTable class

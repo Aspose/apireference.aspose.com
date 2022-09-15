@@ -1,14 +1,14 @@
 ---
 title: LineTo
 second_title: Aspose.Font for .NET API 参考
-description: 代表 LineTo 操作
+description: 表示 LineTo 操作
 type: docs
 weight: 480
 url: /zh/net/aspose.font.renderingpath/lineto/
 ---
 ## LineTo class
 
-代表 LineTo 操作。
+表示 LineTo 操作。
 
 ```csharp
 public class LineTo : IPathSegment
@@ -18,8 +18,8 @@ public class LineTo : IPathSegment
 
 | 姓名 | 描述 |
 | --- | --- |
-| [X](../../aspose.font.renderingpath/lineto/x) { get; } | 获取坐标 x。 |
-| [Y](../../aspose.font.renderingpath/lineto/y) { get; } | 获取坐标 y。 |
+| [X](../../aspose.font.renderingpath/lineto/x) { get; } | 获取坐标 x. |
+| [Y](../../aspose.font.renderingpath/lineto/y) { get; } | 获取坐标 |
 
 ## 方法
 

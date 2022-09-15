@@ -64,7 +64,7 @@ public FontDefinition(string fontName, FontType fontType, string fileExtension,
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| fontName | String | Имя шрифта. |
+| fontName | String | Название шрифта. |
 | fontType | FontType | Тип шрифта. |
 | fileExtension | String | Расширение файла шрифта. |
 | streamSource | StreamSource | Источник потока шрифтов. |
@@ -90,7 +90,7 @@ public FontDefinition(FontType fontType, FontFileDefinition fileDefinition)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | fontType | FontType | Тип шрифта. |
-| fileDefinition | FontFileDefinition | FontFileDefinition. |
+| fileDefinition | FontFileDefinition | Определение файла шрифта. |
 
 ### Смотрите также
 
@@ -112,9 +112,9 @@ public FontDefinition(string fontName, FontType fontType, FontFileDefinition fil
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| fontName | String | Имя шрифта. |
+| fontName | String | Название шрифта. |
 | fontType | FontType | Тип шрифта. |
-| fileDefinition | FontFileDefinition | FontFileDefinition. |
+| fileDefinition | FontFileDefinition | Определение файла шрифта. |
 
 ### Смотрите также
 
@@ -137,10 +137,10 @@ public FontDefinition(string fontName, string postscriptName, FontType fontType,
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| fontName | String | Имя шрифта. |
-| postscriptName | String | Имя шрифта Postscript. |
+| fontName | String | Название шрифта. |
+| postscriptName | String | Имя шрифта постскриптума. |
 | fontType | FontType | Тип шрифта. |
-| fileDefinition | FontFileDefinition | FontFileDefinition. |
+| fileDefinition | FontFileDefinition | Определение файла шрифта. |
 
 ### Смотрите также
 
@@ -186,8 +186,8 @@ public FontDefinition(string fontName, string postscriptName, FontType fontType,
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| fontName | String | Имя шрифта. |
-| postscriptName | String | Имя шрифта Postscript. |
+| fontName | String | Название шрифта. |
+| postscriptName | String | Имя шрифта постскриптума. |
 | fontType | FontType | Тип шрифта. |
 | fileDefinitions | FontFileDefinition[] | Массив объектов FontFileDefinition. |
 
@@ -212,10 +212,10 @@ public FontDefinition(MultiLanguageString fontNames, MultiLanguageString postscr
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| fontNames | MultiLanguageString | Имена шрифтов. |
-| postscriptNames | MultiLanguageString | Имена шрифтов Postscript. |
+| fontNames | MultiLanguageString | Названия шрифтов. |
+| postscriptNames | MultiLanguageString | Названия шрифтов постскриптума. |
 | fontType | FontType | Тип шрифта. |
-| fileDefinition | FontFileDefinition | FontFileDefinition. |
+| fileDefinition | FontFileDefinition | Определение файла шрифта. |
 
 ### Смотрите также
 
@@ -239,8 +239,8 @@ public FontDefinition(MultiLanguageString fontNames, MultiLanguageString postscr
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| fontNames | MultiLanguageString | Имена шрифтов. |
-| postscriptNames | MultiLanguageString | Имена шрифтов Postscript. |
+| fontNames | MultiLanguageString | Названия шрифтов. |
+| postscriptNames | MultiLanguageString | Названия шрифтов постскриптума. |
 | fontType | FontType | Тип шрифта. |
 | fileDefinitions | FontFileDefinition[] | Массив объектов FontFileDefinition. |
 

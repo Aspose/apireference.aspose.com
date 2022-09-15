@@ -23,7 +23,7 @@ public static class BuildVersionInfo
 
 ### 例子
 
-显示如何使用 BuildVersionInfo 来显示有关此产品的版本信息。
+展示如何使用 BuildVersionInfo 显示有关此产品的版本信息。
 
 ```csharp
 Console.WriteLine("I am currently using {0}, version number {1}!", BuildVersionInfo.Product, BuildVersionInfo.Version);

@@ -58,7 +58,7 @@ public Glyph GetGlyphById(uint id)
 
 ## GetGlyphById(GlyphId) {#getglyphbyid}
 
-按字形 id 返回字形。 Glyph id 是字形的唯一编号，它取决于字体类型。 Type1 字体字形 ID 可以是 ([`GlyphStringId`](../../../aspose.font.glyphs/glyphstringid)) 类或 ([`GlyphUInt32Id`](../../../aspose.font.glyphs/glyphuint32id)) 类的实例.
+按字形 id 返回字形。 字形 id 是字形的唯一编号，取决于字体类型。 Type1 字体字形 id 可以是 ([`GlyphStringId`](../../../aspose.font.glyphs/glyphstringid)) 类或 ([`GlyphUInt32Id`](../../../aspose.font.glyphs/glyphuint32id) 类.
 
 ```csharp
 public override Glyph GetGlyphById(GlyphId id)

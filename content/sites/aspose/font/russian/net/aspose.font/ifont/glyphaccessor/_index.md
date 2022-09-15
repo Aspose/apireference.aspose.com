@@ -1,14 +1,14 @@
 ---
 title: GlyphAccessor
 second_title: Справочник по API Aspose.Font для .NET
-description: Получает метод доступа к глифу шрифта. Извлекает глифы и идентификаторы глифов.
+description: Получает средство доступа к глифу шрифта. Извлекает глифы и идентификаторы глифов.
 type: docs
 weight: 90
 url: /ru/net/aspose.font/ifont/glyphaccessor/
 ---
 ## IFont.GlyphAccessor property
 
-Получает метод доступа к глифу шрифта. Извлекает глифы и идентификаторы глифов.
+Получает средство доступа к глифу шрифта. Извлекает глифы и идентификаторы глифов.
 
 ```csharp
 public IGlyphAccessor GlyphAccessor { get; }

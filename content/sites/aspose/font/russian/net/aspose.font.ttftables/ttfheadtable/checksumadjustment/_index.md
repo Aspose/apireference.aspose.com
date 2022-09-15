@@ -1,7 +1,7 @@
 ---
 title: CheckSumAdjustment
 second_title: Справочник по API Aspose.Font для .NET
-description: Получает uint32 checkSumAdjustment. Чтобы вычислить установите его в 0 посчитайте контрольную сумму для таблицы head и поместите ее в директорию таблицы просуммируйте весь шрифт как uint32 затем сохраните B1B0AFBA - sum. Контрольная сумма для таблицы head не будет ошибочной. Это нормально.
+description: Получает uint32 checkSumAdjustment. Чтобы вычислить установите его в 0 посчитайте контрольную сумму для таблицы head и поместите ее в директорию таблицы просуммируйте весь шрифт как uint32 затем сохраните B1B0AFBA  sum. Контрольная сумма для таблицы head не будет ошибочной. Это нормально.
 type: docs
 weight: 10
 url: /ru/net/aspose.font.ttftables/ttfheadtable/checksumadjustment/

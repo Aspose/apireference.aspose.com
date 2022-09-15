@@ -95,7 +95,7 @@ public static Font Open(FontType fontType, byte[] fontData)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | fontType | FontType | Тип шрифта. |
-| fontData | Byte[] | Массив байтов, из которого загружается шрифт. |
+| fontData | Byte[] | Байтовый массив для загрузки шрифта. |
 
 ### Возвращаемое значение
 

@@ -1,14 +1,14 @@
 ---
 title: FontFamily
 second_title: Aspose.Font for .NET API 参考
-description: 获取字体系列 Font family setter 还没有实现
+description: 获取字体系列 字体系列设置器尚未实现
 type: docs
 weight: 30
 url: /zh/net/aspose.font.type1/type1font/fontfamily/
 ---
 ## Type1Font.FontFamily property
 
-获取字体系列。 Font family setter 还没有实现。
+获取字体系列。 字体系列设置器尚未实现。
 
 ```csharp
 public override string FontFamily { get; set; }

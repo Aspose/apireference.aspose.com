@@ -1,14 +1,14 @@
 ---
 title: FileSystemStreamSource
 second_title: Aspose.Font for .NET API 参考
-description: 初始化新的FileSystemStreamSourceaspose.font.sources/filesystemstreamsource对象
+description: 初始化新的FileSystemStreamSourceaspose.font.sources/filesystemstreamsource对象.
 type: docs
 weight: 10
 url: /zh/net/aspose.font.sources/filesystemstreamsource/filesystemstreamsource/
 ---
 ## FileSystemStreamSource constructor
 
-初始化新的[`FileSystemStreamSource`](../../filesystemstreamsource)对象。
+初始化新的[`FileSystemStreamSource`](../../filesystemstreamsource)对象.
 
 ```csharp
 public FileSystemStreamSource(string fileName)

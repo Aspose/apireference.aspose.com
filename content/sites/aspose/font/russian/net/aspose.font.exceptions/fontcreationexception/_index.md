@@ -1,14 +1,14 @@
 ---
 title: FontCreationException
 second_title: Справочник по API Aspose.Font для .NET
-description: Представляет исключение при создании шрифта. Исключение может быть выдано в случае ошибок в процессе создания шрифта.
+description: Представляет исключение при создании шрифта. Исключение может быть выдано в случае возникновения ошибок в процессе создания шрифта.
 type: docs
 weight: 90
 url: /ru/net/aspose.font.exceptions/fontcreationexception/
 ---
 ## FontCreationException class
 
-Представляет исключение при создании шрифта. Исключение может быть выдано в случае ошибок в процессе создания шрифта.
+Представляет исключение при создании шрифта. Исключение может быть выдано в случае возникновения ошибок в процессе создания шрифта.
 
 ```csharp
 public class FontCreationException : FontException
@@ -18,10 +18,10 @@ public class FontCreationException : FontException
 
 | Имя | Описание |
 | --- | --- |
-| [FontCreationException](fontcreationexception#constructor)() | Инициализирует новый объект[`FontCreationException`](../fontcreationexception). |
-| [FontCreationException](fontcreationexception#constructor_2)(string) | Инициализирует новый объект[`FontCreationException`](../fontcreationexception). |
-| [FontCreationException](fontcreationexception#constructor_1)(SerializationInfo, StreamingContext) | Инициализирует новый объект[`FontCreationException`](../fontcreationexception). |
-| [FontCreationException](fontcreationexception#constructor_3)(string, Exception) | Инициализирует новый объект[`FontCreationException`](../fontcreationexception). |
+| [FontCreationException](fontcreationexception#constructor)() | Инициализирует новый[`FontCreationException`](../fontcreationexception) объект. |
+| [FontCreationException](fontcreationexception#constructor_2)(string) | Инициализирует новый[`FontCreationException`](../fontcreationexception) объект. |
+| [FontCreationException](fontcreationexception#constructor_1)(SerializationInfo, StreamingContext) | Инициализирует новый[`FontCreationException`](../fontcreationexception) объект. |
+| [FontCreationException](fontcreationexception#constructor_3)(string, Exception) | Инициализирует новый[`FontCreationException`](../fontcreationexception) объект. |
 
 ### Смотрите также
 

@@ -1,14 +1,14 @@
 ---
 title: DecodeToGidParameterized
 second_title: Aspose.Font for .NET API 参考
-description: 参数化解码方法 某些字体类型可以有多种编码算法/映射 所以IEncodingParametersaspose.font/iencodingparameters接口用于创建具体的字体编码参数
+description: 参数化解码方法 一些字体类型可以有多种编码算法/映射 所以IEncodingParametersaspose.font/iencodingparameters接口用于创建具体的字体编码参数
 type: docs
 weight: 20
 url: /zh/net/aspose.font/ifontencoding/decodetogidparameterized/
 ---
 ## IFontEncoding.DecodeToGidParameterized method
 
-参数化解码方法。 某些字体类型可以有多种编码算法/映射。 所以，[`IEncodingParameters`](../../iencodingparameters)接口用于创建具体的字体编码参数。
+参数化解码方法。 一些字体类型可以有多种编码算法/映射。 所以，[`IEncodingParameters`](../../iencodingparameters)接口用于创建具体的字体编码参数。
 
 ```csharp
 public GlyphId DecodeToGidParameterized(IEncodingParameters parameters, uint charCode)
@@ -16,7 +16,7 @@ public GlyphId DecodeToGidParameterized(IEncodingParameters parameters, uint cha
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| parameters | IEncodingParameters | [`IEncodingParameters`](../../iencodingparameters)接口的实现。 |
+| parameters | IEncodingParameters | 实施[`IEncodingParameters`](../../iencodingparameters)界面。 |
 | charCode | UInt32 | 获取字形标识符的字符代码。 |
 
 ### 返回值

@@ -1,14 +1,14 @@
 ---
 title: Type1MetricFont
 second_title: Aspose.Font for .NET API 参考
-description: Type1 公制字体实现 此type1 字体仅使用度量创建 字形检索函数和其他一些需要真实字体的函数是不允许的 不允许函数抛出异常Type1NotSupportedException 其他属性FontNameWeightMetrics 和 Encoding来自度量文件
+description: Type1 公制字体实现 此 type1 字体仅使用公制创建 字形检索函数和其他一些需要真实字体的函数是不允许的 不允许函数抛出异常Type1NotSupportedException. 使用度量文件中的其他属性字体名称重量度量和编码
 type: docs
-weight: 1070
+weight: 1080
 url: /zh/net/aspose.font.type1/type1metricfont/
 ---
 ## Type1MetricFont class
 
-Type1 公制字体实现。 此type1 字体仅使用度量创建。 字形检索函数和其他一些需要真实字体的函数是不允许的， 不允许函数抛出异常Type1NotSupportedException。 其他属性（FontName、Weight、Metrics 和 Encoding）来自度量文件。
+Type1 公制字体实现。 此 type1 字体仅使用公制创建。 字形检索函数和其他一些需要真实字体的函数是不允许的， 不允许函数抛出异常Type1NotSupportedException. 使用度量文件中的其他属性（字体名称、重量、度量和编码）。
 
 ```csharp
 public class Type1MetricFont : Type1Font
@@ -18,7 +18,7 @@ public class Type1MetricFont : Type1Font
 
 | 姓名 | 描述 |
 | --- | --- |
-| override [Encoding](../../aspose.font.type1/type1metricfont/encoding) { get; } | 编码在度量文件中定义。 StandardAdobeEncoding： 编码会自动填充 |
+| override [Encoding](../../aspose.font.type1/type1metricfont/encoding) { get; } | 编码在度量文件中定义。 StandardAdobeEncoding: 编码自动填充 |
 | override [FontDefinition](../../aspose.font.type1/type1font/fontdefinition) { get; } | 获取字体定义。 |
 | override [FontFamily](../../aspose.font.type1/type1metricfont/fontfamily) { get; } | 获取字体系列。 |
 | override [FontName](../../aspose.font.type1/type1metricfont/fontname) { get; } | 获取字体名称。 |
@@ -27,9 +27,9 @@ public class Type1MetricFont : Type1Font
 | override [FontStyle](../../aspose.font.type1/type1metricfont/fontstyle) { get; } | 获取字体样式。 这是一个以广义类型计算和表示的值。 |
 | override [FontType](../../aspose.font.type1/type1font/fonttype) { get; } | 获取字体类型。 返回 FontType.Type1 值。 |
 | [GlyphAccessor](../../aspose.font/font/glyphaccessor) { get; } | 字体字形访问器。 检索字形和字形标识符。 |
-| override [GlyphIdType](../../aspose.font.type1/type1font/glyphidtype) { get; } | 字形标识类型规范。 |
+| override [GlyphIdType](../../aspose.font.type1/type1font/glyphidtype) { get; } | 字形 id 类型规范。 |
 | override [Metrics](../../aspose.font.type1/type1font/metrics) { get; } | 获取字体指标。 |
-| override [NumGlyphs](../../aspose.font.type1/type1metricfont/numglyphs) { get; } | 获取字体中的字形数量。 |
+| override [NumGlyphs](../../aspose.font.type1/type1metricfont/numglyphs) { get; } | 获取字体中字形的数量。 |
 | override [PostscriptNames](../../aspose.font.type1/type1font/postscriptnames) { get; } | 获取 postscript 字体名称。 |
 | override [Style](../../aspose.font.type1/type1metricfont/style) { get; } | 获取字体样式。 |
 
@@ -38,9 +38,9 @@ public class Type1MetricFont : Type1Font
 | 姓名 | 描述 |
 | --- | --- |
 | override [Convert](../../aspose.font.type1/type1font/convert)(FontType) | 将字体转换为另一种格式。 |
-| override [GetAllGlyphIds](../../aspose.font.type1/type1metricfont/getallglyphids)() | 返回字体中可用的所有字形 ID。 [`Type1MetricFont`](../type1metricfont)类型不支持。 |
-| override [GetGlyphById](../../aspose.font.type1/type1metricfont/getglyphbyid#getglyphbyid)(GlyphId) | 按字形 id 返回字形。 [`Type1MetricFont`](../type1metricfont)类型不支持。 |
-| override [GetGlyphById](../../aspose.font.type1/type1metricfont/getglyphbyid#getglyphbyid_1)(string) | 按字形 id 返回字形。 [`Type1MetricFont`](../type1metricfont)类型不支持。 |
+| override [GetAllGlyphIds](../../aspose.font.type1/type1metricfont/getallglyphids)() | 返回字体中可用的所有字形 ID。 不支持[`Type1MetricFont`](../type1metricfont)类型. |
+| override [GetGlyphById](../../aspose.font.type1/type1metricfont/getglyphbyid#getglyphbyid)(GlyphId) | 按字形 id 返回字形。 不支持[`Type1MetricFont`](../type1metricfont)类型. |
+| override [GetGlyphById](../../aspose.font.type1/type1metricfont/getglyphbyid#getglyphbyid_1)(string) | 按字形 id 返回字形。 不支持[`Type1MetricFont`](../type1metricfont)类型. |
 | [GetGlyphById](../../aspose.font.type1/type1font/getglyphbyid)(uint) | 按字形 id 返回字形。 |
 | virtual [GetGlyphsForText](../../aspose.font/font/getglyphsfortext)(string) | 获取文本的字形表示。 |
 | virtual [Save](../../aspose.font/font/save)(Stream) | 将字体保存为原始格式。 |
@@ -49,7 +49,7 @@ public class Type1MetricFont : Type1Font
 
 ### 例子
 
-注意：如果metrics文件将Encoding定义为“FontSpecific”，用户需要提供具体的编码方式如下： &lt; cppcode&gt; System::ArrayPtr&lt;System::String&gt; zapfDingbatsEncoding = System::MakeArray&lt;System::String&gt;({nullptr, nullptr, ..., u"space", u"a1", ...}); FontEnvironment::get_Current()-&gt;get_FontSpecificEncodings()-&gt;RegisterEncoding(u"ZapfDingbats", zapfDingbatsEncoding); &lt;/cppcode&gt;
+注意：如果metrics文件将Encoding定义为“FontSpecific”，用户应通过以下方式提供具体的编码：  System::ArrayPtr&lt;System::String&gt; zapfDingbatsEncoding = System::MakeArray&lt;System::String&gt;({nullptr, nullptr, ..., u"space", u"a1", ...}); FontEnvironment::get_Current()-&gt;get_FontSpecificEncodings()-&gt;RegisterEncoding(u"ZapfDingbats", zapfDingbatsEncoding);
 
 ```csharp
 string[] zapfDingbatsEncoding = new string[256] {null, null, ... , "space", "a1", ...};

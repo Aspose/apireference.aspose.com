@@ -11,20 +11,21 @@ is_root: true
 
 | Пространство имен | Описание |
 | --- | --- |
-| [Aspose.Font](./aspose.font) | Пространство имен **Aspose.Font** предоставляет классы, описывающие общие объекты Aspose.Font. |
-| [Aspose.Font.Cff](./aspose.font.cff) | Пространство имен **Aspose.Font.Cff** предоставляет классы, описывающие объекты, относящиеся к формату шрифта CFF. |
-| [Aspose.Font.CffExceptions](./aspose.font.cffexceptions) | Пространство имен **Aspose.Font.CffExceptions** предоставляет классы, описывающие исключения, связанные с форматом компактного шрифта. |
-| [Aspose.Font.Exceptions](./aspose.font.exceptions) | Пространство имен **Aspose.Font.Exceptions** предоставляет классы, описывающие исключения, используемые в Aspose.Font. |
-| [Aspose.Font.Glyphs](./aspose.font.glyphs) | Пространство имен **Aspose.Font.Glyphs** предоставляет классы, описывающие объекты глифов. |
-| [Aspose.Font.Renderers](./aspose.font.renderers) | Пространство имен **Aspose.Font.Renderers** предоставляет классы, используемые в подсистеме рендеринга в Aspose.Font. |
-| [Aspose.Font.Rendering](./aspose.font.rendering) | Пространство имен **Aspose.Font.Rendering** предоставляет классы, описывающие объекты рендеринга, используемые в Aspose.Font. |
-| [Aspose.Font.RenderingPath](./aspose.font.renderingpath) | Пространство имен **Aspose.Font.RenderingPath** предоставляет классы, описывающие объекты графических путей , используемые в Aspose.Font. |
-| [Aspose.Font.Sources](./aspose.font.sources) | Пространство имен **Aspose.Font.Sources** предоставляет функциональные возможности для доступа к данным шрифта из различных источников (файлов, потоков памяти, так далее). |
-| [Aspose.Font.Ttf](./aspose.font.ttf) | Пространство имен **Aspose.Font.Ttf** предоставляет классы, описывающие объекты, относящиеся к формату TTF Font. |
-| [Aspose.Font.TtfCMapFormats](./aspose.font.ttfcmapformats) | Пространство имен **Aspose.Font.TtfCMapFormats** предоставляет классы для работы с различными форматами подтаблиц CMap. |
-| [Aspose.Font.TtfHelpers](./aspose.font.ttfhelpers) | Пространство имен **Aspose.Font.TtfHelpers** предоставляет классы и интерфейсы для работы с расширенной функциональностью над объектами шрифтов TTF |
-| [Aspose.Font.TtfTables](./aspose.font.ttftables) | Пространство имен **Aspose.Font.TtfTables** предоставляет классы для работы с различными таблицами формата TrueType. |
-| [Aspose.Font.Type1](./aspose.font.type1) | Пространство имен **Aspose.Font.Type1** предоставляет классы, описывающие объекты, относящиеся к формату Type1 Font. |
-| [Aspose.Font.WoffExceptions](./aspose.font.woffexceptions) | Пространство имен **Aspose.Font.WoffExceptions** предоставляет классы исключений, относящиеся к формату шрифта WOFF. |
+| [Aspose.Font](./aspose.font) | **Aspose.Font** namespace предоставляет классы, описывающие общие объекты Aspose.Font. |
+| [Aspose.Font.Cff](./aspose.font.cff) | **Aspose.Font.Cff** пространство имен предоставляет классы, описывающие объекты, связанные с форматом шрифта CFF. |
+| [Aspose.Font.CffExceptions](./aspose.font.cffexceptions) | **Aspose.Font.CffExceptions** пространство имен предоставляет классы, описывающие исключения, связанные с компактным форматом шрифта. |
+| [Aspose.Font.Exceptions](./aspose.font.exceptions) | **Aspose.Font.Exceptions** пространство имен предоставляет классы, описывающие исключения, используемые в Aspose.Font. |
+| [Aspose.Font.Glyphs](./aspose.font.glyphs) | **Aspose.Font.Glyphs** namespace предоставляет классы, описывающие объекты глифов. |
+| [Aspose.Font.Renderers](./aspose.font.renderers) | **Aspose.Font.Renderers** пространство имен предоставляет классы, используемые в подсистеме рендеринга в Aspose.Font. |
+| [Aspose.Font.Rendering](./aspose.font.rendering) | **Aspose.Font.Rendering** пространство имен предоставляет классы, описывающие объекты рендеринга, используемые в Aspose.Font. |
+| [Aspose.Font.RenderingPath](./aspose.font.renderingpath) | **Aspose.Font.RenderingPath**пространство имен предоставляет классы, описывающие объекты графических путей , используемые в Aspose.Font. |
+| [Aspose.Font.Sources](./aspose.font.sources) | **Aspose.Font.Sources**пространство имен обеспечивает функциональность для доступа к данным шрифта из различных источников (файлов, потоков памяти и т. д.). |
+| [Aspose.Font.Ttf](./aspose.font.ttf) | **Aspose.Font.Ttf** namespace предоставляет классы, описывающие объекты, связанные с форматом TTF Font. |
+| [Aspose.Font.TtfCMapFormats](./aspose.font.ttfcmapformats) | **Aspose.Font.TtfCMapFormats**namespace предоставляет классы для работы с различными форматами подтаблиц CMap. |
+| [Aspose.Font.TtfCommon](./aspose.font.ttfcommon) | **Aspose.Font.TtfCommon** namespace предоставляет классы, общие для формата TrueType area |
+| [Aspose.Font.TtfHelpers](./aspose.font.ttfhelpers) | **Aspose.Font.TtfHelpers** namespace предоставляет классы и интерфейсы для работы с расширенным функционалом на объектах шрифта TTF |
+| [Aspose.Font.TtfTables](./aspose.font.ttftables) | **Aspose.Font.TtfTables** namespace предоставляет классы для работы с различными таблицами формата TrueType. |
+| [Aspose.Font.Type1](./aspose.font.type1) | **Aspose.Font.Type1** namespace предоставляет классы, описывающие объекты, связанные с форматом Type1 Font. |
+| [Aspose.Font.WoffExceptions](./aspose.font.woffexceptions) | **Aspose.Font.WoffExceptions** пространство имен предоставляет классы исключений, связанные с форматом шрифта WOFF. |
 
 <!-- DO NOT EDIT: generated by xmldocmd for Aspose.Font.dll -->

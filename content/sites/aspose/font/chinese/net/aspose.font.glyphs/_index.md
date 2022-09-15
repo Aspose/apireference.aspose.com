@@ -1,22 +1,22 @@
 ---
 title: Aspose.Font.Glyphs
 second_title: Aspose.Font for .NET API 参考
-description: Aspose.Font.Glyphs 命名空间提供描述字形对象的类
+description: 的 Aspose.Font.Glyphs命名空间提供描述字形对象的类
 type: docs
 weight: 50
 url: /zh/net/aspose.font.glyphs/
 ---
-**Aspose.Font.Glyphs** 命名空间提供描述字形对象的类。
+的 **Aspose.Font.Glyphs**命名空间提供描述字形对象的类。
 
 ## 课程
 
 | 班级 | 描述 |
 | --- | --- |
-| [CompositeGlyph](./compositeglyph) | 表示字体复合字形。 |
+| [CompositeGlyph](./compositeglyph) | 表示一个字体复合字形。 |
 | [CompositeGlyphComponent](./compositeglyphcomponent) | 表示复合字形组件（带有放置矩阵的字形）。 |
 | [CompositeGlyphComponentList](./compositeglyphcomponentlist) | 表示复合字形组件列表。 |
 | [Glyph](./glyph) | 表示字体字形。 |
-| [GlyphId](./glyphid) | 表示字形 ID，在字体中可用。 Glyph id 是字形的唯一编号，它取决于字体类型。 例如： Type1 的 id 是一个字形名称，是 ([`GlyphStringId`](../aspose.font.glyphs/glyphstringid)) 类的实例。 TTF 的 id 是一个 int 索引，是 ([`GlyphUInt32Id`](../aspose.font.glyphs/glyphuint32id)) 类的实例。 |
+| [GlyphId](./glyphid) | 表示字形id，在Font中可用。 字形id是字形的唯一编号，取决于字体类型。 例如： type1的id是字形名称，实例为([`GlyphStringId`](../aspose.font.glyphs/glyphstringid)) class. TTF 的 id 是一个 int 索引，实例为 ([`GlyphUInt32Id`](../aspose.font.glyphs/glyphuint32id) 类. |
 | [GlyphIdList](./glyphidlist) | 表示字形 id 列表。 |
 | [GlyphStringId](./glyphstringid) | 表示字符串字形id。 |
 | [GlyphUInt32Id](./glyphuint32id) | 表示整数字形 id。 |

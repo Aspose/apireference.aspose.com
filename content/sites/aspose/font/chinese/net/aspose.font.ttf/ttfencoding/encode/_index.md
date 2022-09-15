@@ -1,14 +1,14 @@
 ---
 title: Encode
 second_title: Aspose.Font for .NET API 参考
-description: 编码字形 对于 TTF 字体字符代码是 unicode
+description: 对字形进行编码 对于 TTF 字体字符代码是 unicode
 type: docs
 weight: 30
 url: /zh/net/aspose.font.ttf/ttfencoding/encode/
 ---
 ## TtfEncoding.Encode method
 
-编码字形。 对于 TTF 字体，字符代码是 unicode。
+对字形进行编码。 对于 TTF 字体，字符代码是 unicode。
 
 ```csharp
 public void Encode(uint gid, uint charCode)

@@ -1,14 +1,14 @@
 ---
 title: TtfEncodingParameters
 second_title: Справочник по API Aspose.Font для .NET
-description: Представляет параметры кодирования TTF. Следует использовать для запроса определенной кодировки из TTF Font.
+description: Представляет параметры кодирования TTF. Следует использовать для запроса определенной кодировки из шрифта TTF.
 type: docs
 weight: 620
 url: /ru/net/aspose.font.ttf/ttfencodingparameters/
 ---
 ## TtfEncodingParameters class
 
-Представляет параметры кодирования TTF. Следует использовать для запроса определенной кодировки из TTF Font.
+Представляет параметры кодирования TTF. Следует использовать для запроса определенной кодировки из шрифта TTF.
 
 ```csharp
 public class TtfEncodingParameters : IEncodingParameters
@@ -18,7 +18,7 @@ public class TtfEncodingParameters : IEncodingParameters
 
 | Имя | Описание |
 | --- | --- |
-| [TtfEncodingParameters](ttfencodingparameters)(ushort, ushort) | Инициализирует новый экземпляр класса TtfEncodingParameters. В качестве параметров принимает идентификатор платформы, идентификатор кодировки для конкретной платформы. Эти параметры используются для запроса специальной подтаблицы CMap из таблицы CMap основного шрифта, см. таблицу 'CMap', 'name' в спецификации файла шрифта OpenType. |
+| [TtfEncodingParameters](ttfencodingparameters)(ushort, ushort) | Инициализирует новый экземпляр класса TtfEncodingParameters. В качестве параметров принимает идентификатор платформы, идентификатор кодировки для конкретной платформы. спецификация. |
 
 ## Характеристики
 

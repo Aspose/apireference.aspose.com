@@ -3,7 +3,7 @@ title: TtfLocaTable.OffsetsList
 second_title: Aspose.Font for .NET API 参考
 description: 表示字形偏移列表
 type: docs
-weight: 870
+weight: 880
 url: /zh/net/aspose.font.ttftables/ttflocatable.offsetslist/
 ---
 ## TtfLocaTable.OffsetsList class

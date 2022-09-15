@@ -3,7 +3,7 @@ title: TtfNameTable.PlatformId
 second_title: Aspose.Font for .NET API 参考
 description: 表示 PlatformId 枚举
 type: docs
-weight: 960
+weight: 970
 url: /zh/net/aspose.font.ttftables/ttfnametable.platformid/
 ---
 ## TtfNameTable.PlatformId enumeration
@@ -20,7 +20,7 @@ public enum PlatformId
 | --- | --- | --- |
 | Unicode | `0` | 值 0 Unicode |
 | Macintosh | `1` | 值 1 Macintosh 脚本管理器代码。 |
-| ISO | `2` | Value2 Apple 规范：（保留；不要使用） MS 规范：ISO 编码。 请注意，自 OpenType 规范 v1.3 起，平台 ID 2 (ISO) 已被弃用。 旨在代表 ISO/IEC 10646，而不是 Unicode； 两个标准具有相同的字符代码分配 |
+| ISO | `2` | Value2 Apple 规范：（保留；不要使用） MS 规范：ISO 编码。 请注意，自 OpenType 规范 v1.3 起，平台 ID 2 (ISO) 已被弃用。 它旨在代表 ISO/IEC 10646，而不是 Unicode； 两个标准具有相同的字符代码分配 |
 | Microsoft | `3` | 值 3 Microsoft 编码。 |
 
 ### 也可以看看

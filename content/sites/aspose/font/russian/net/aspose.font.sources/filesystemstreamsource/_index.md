@@ -18,7 +18,7 @@ public class FileSystemStreamSource : StreamSource
 
 | Имя | Описание |
 | --- | --- |
-| [FileSystemStreamSource](filesystemstreamsource)(string) | Инициализирует новый объект[`FileSystemStreamSource`](../filesystemstreamsource). |
+| [FileSystemStreamSource](filesystemstreamsource)(string) | Инициализирует новый[`FileSystemStreamSource`](../filesystemstreamsource) объект. |
 
 ## Характеристики
 

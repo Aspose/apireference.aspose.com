@@ -1,14 +1,14 @@
 ---
 title: GlyphId
 second_title: Aspose.Font for .NET API 参考
-description: 表示字形 ID在字体中可用 Glyph id 是字形的唯一编号它取决于字体类型 例如 Type1 的 id 是一个字形名称是 GlyphStringId./glyphstringid 类的实例 TTF 的 id 是一个 int 索引是 GlyphUInt32Id./glyphuint32id 类的实例
+description: 表示字形id在Font中可用 字形id是字形的唯一编号取决于字体类型 例如 type1的id是字形名称实例为GlyphStringId./glyphstringid class. TTF 的 id 是一个 int 索引实例为 GlyphUInt32Id./glyphuint32id 类.
 type: docs
 weight: 240
 url: /zh/net/aspose.font.glyphs/glyphid/
 ---
 ## GlyphId class
 
-表示字形 ID，在字体中可用。 Glyph id 是字形的唯一编号，它取决于字体类型。 例如： Type1 的 id 是一个字形名称，是 ([`GlyphStringId`](../glyphstringid)) 类的实例。 TTF 的 id 是一个 int 索引，是 ([`GlyphUInt32Id`](../glyphuint32id)) 类的实例。
+表示字形id，在Font中可用。 字形id是字形的唯一编号，取决于字体类型。 例如： type1的id是字形名称，实例为([`GlyphStringId`](../glyphstringid)) class. TTF 的 id 是一个 int 索引，实例为 ([`GlyphUInt32Id`](../glyphuint32id) 类.
 
 ```csharp
 public abstract class GlyphId
@@ -18,13 +18,13 @@ public abstract class GlyphId
 
 | 姓名 | 描述 |
 | --- | --- |
-| override [Equals](../../aspose.font.glyphs/glyphid/equals)(object) | 如果两个字形 ID 不相等，则返回 true。 |
+| override [Equals](../../aspose.font.glyphs/glyphid/equals)(object) | 如果两个字形 id 不相等，则返回 true。 |
 | abstract [GetHashCode](../../aspose.font.glyphs/glyphid/gethashcode)() | 返回对象的哈希码。 |
-| virtual [ToGlyphStringId](../../aspose.font.glyphs/glyphid/toglyphstringid)() | 虚拟转换为 GlyphUInt32Id。 GlyphUInt32Id 覆盖以返回实例。 |
-| virtual [ToGlyphUInt32Id](../../aspose.font.glyphs/glyphid/toglyphuint32id)() | 虚拟转换为 GlyphUInt32Id。 GlyphUInt32Id 覆盖以返回实例。 |
-| abstract [ToString](../../aspose.font.glyphs/glyphid/tostring)() | 返回字符串表示的字形 id。 |
-| [operator ==](../../aspose.font.glyphs/glyphid/op_equality) | 如果两个字形 ID 相等，则返回 true。 |
-| [operator !=](../../aspose.font.glyphs/glyphid/op_inequality) | 如果两个字形 ID 不相等，则返回 true。 |
+| virtual [ToGlyphStringId](../../aspose.font.glyphs/glyphid/toglyphstringid)() | 虚拟转换为 GlyphUInt32Id。 GlyphUInt32Id 覆盖以返回 instance. |
+| virtual [ToGlyphUInt32Id](../../aspose.font.glyphs/glyphid/toglyphuint32id)() | 虚拟转换为 GlyphUInt32Id。 GlyphUInt32Id 覆盖以返回 instance. |
+| abstract [ToString](../../aspose.font.glyphs/glyphid/tostring)() | 返回字形 id 的字符串表示形式。 |
+| [operator ==](../../aspose.font.glyphs/glyphid/op_equality) | 如果两个字形 id 相等则返回 true。 |
+| [operator !=](../../aspose.font.glyphs/glyphid/op_inequality) | 如果两个字形 id 不相等，则返回 true。 |
 
 ### 也可以看看
 

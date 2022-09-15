@@ -28,10 +28,10 @@ public class TtfFont : Font
 | override [FontStyle](../../aspose.font.ttf/ttffont/fontstyle) { get; } | 获取字体样式。 这是一个以广义类型计算和表示的值。 |
 | override [FontType](../../aspose.font.ttf/ttffont/fonttype) { get; } | 获取字体类型。 返回 FontType.TTF 值。 |
 | [GlyphAccessor](../../aspose.font/font/glyphaccessor) { get; } | 字体字形访问器。 检索字形和字形标识符。 |
-| override [GlyphIdType](../../aspose.font.ttf/ttffont/glyphidtype) { get; } | 获取字形标识类型规范。 |
-| [IsSymbolic](../../aspose.font.ttf/ttffont/issymbolic) { get; } | 如果 Font 是符号，则返回 true。 |
+| override [GlyphIdType](../../aspose.font.ttf/ttffont/glyphidtype) { get; } | 获取字形 id 类型规范。 |
+| [IsSymbolic](../../aspose.font.ttf/ttffont/issymbolic) { get; } | 如果字体是符号，则返回 true。 |
 | override [Metrics](../../aspose.font.ttf/ttffont/metrics) { get; } | 获取字体指标。 |
-| override [NumGlyphs](../../aspose.font.ttf/ttffont/numglyphs) { get; } | 获取字体中的字形数量。 |
+| override [NumGlyphs](../../aspose.font.ttf/ttffont/numglyphs) { get; } | 获取字体中字形的数量。 |
 | override [PostscriptNames](../../aspose.font.ttf/ttffont/postscriptnames) { get; } | 获取 Postscript 字体名称。 |
 | override [Style](../../aspose.font.ttf/ttffont/style) { get; set; } | 获取或设置字体样式。 这是字体文件提供的原始字符串值。 |
 | virtual [TtfTables](../../aspose.font.ttf/ttffont/ttftables) { get; } | 获取 TTF 表。 |
@@ -41,13 +41,13 @@ public class TtfFont : Font
 | 姓名 | 描述 |
 | --- | --- |
 | override [Convert](../../aspose.font.ttf/ttffont/convert)(FontType) | 将字体转换为另一种格式。 |
-| override [GetAllGlyphIds](../../aspose.font.ttf/ttffont/getallglyphids)() | 返回字体中可用的所有字形 ID 的数组。 Glyph id 是字形的唯一编号，它取决于字体类型。 TTF 字体字形 id 可以是 ([`GlyphStringId`](../../aspose.font.glyphs/glyphstringid)) 类或 ([`GlyphUInt32Id`](../../aspose.font.glyphs/glyphuint32id)) 类的实例. 通过 Post 表映射为 TTF 字体支持名称（字符串）字形寻址。 如果里面有 CFF 字体，则 CFF 结构用于按名称寻址字形。 |
-| override [GetGlyphById](../../aspose.font.ttf/ttffont/getglyphbyid#getglyphbyid)(GlyphId) | 按字形 id 返回字形。 Glyph id 是字形的唯一编号，它取决于字体类型。 TTF 字体字形 id 可以是 ([`GlyphStringId`](../../aspose.font.glyphs/glyphstringid)) 类或 ([`GlyphUInt32Id`](../../aspose.font.glyphs/glyphuint32id)) 类的实例. 通过 Post 表映射为 TTF 字体支持名称（字符串）字形寻址。 如果里面有 CFF 字体，则 CFF 结构用于按名称寻址字形。 |
-| [GetGlyphById](../../aspose.font.ttf/ttffont/getglyphbyid#getglyphbyid_1)(string) | 按字形名称返回字形。 通过 Post 表映射支持 TTF 字体的名称（字符串）字形寻址。 如果里面有 CFF 字体，则 CFF 结构用于按名称寻址字形。 |
+| override [GetAllGlyphIds](../../aspose.font.ttf/ttffont/getallglyphids)() | 返回所有字形 ID 的数组，在字体中可用。 字形 ID 是字形的唯一编号，取决于字体类型。 TTF 字体字形 ID 可以是 ([`GlyphStringId`](../../aspose.font.glyphs/glyphstringid)) 类或 ([`GlyphUInt32Id`](../../aspose.font.glyphs/glyphuint32id) ) class. 通过 Post 表映射支持 TTF 字体的名称（字符串）字形寻址。 在 CFF 字体内部的情况下，CFF 结构用于按名称寻址字形。 |
+| override [GetGlyphById](../../aspose.font.ttf/ttffont/getglyphbyid#getglyphbyid)(GlyphId) | 按字形 ID 返回字形。 字形 ID 是字形的唯一编号，取决于字体类型。 TTF 字体字形 ID 可以是 ([`GlyphStringId`](../../aspose.font.glyphs/glyphstringid)) 类或 ([`GlyphUInt32Id`](../../aspose.font.glyphs/glyphuint32id) ) class. 通过 Post 表映射支持 TTF 字体的名称（字符串）字形寻址。 在 CFF 字体内部的情况下，CFF 结构用于按名称寻址字形。 |
+| [GetGlyphById](../../aspose.font.ttf/ttffont/getglyphbyid#getglyphbyid_1)(string) | 按字形名称返回字形。 名称（字符串）通过 Post 表映射支持 TTF 字体的字形寻址。 如果内部有 CFF 字体，则使用 CFF 结构按名称寻址字形。 |
 | [GetGlyphById](../../aspose.font.ttf/ttffont/getglyphbyid#getglyphbyid_2)(uint) | 按字形 id 返回字形。 |
-| virtual [GetGlyphComponentsById](../../aspose.font.ttf/ttffont/getglyphcomponentsbyid#getglyphcomponentsbyid)(GlyphId, GlyphIdList) | 通过传递的字形标识符获取一个字形，并用该字形的组件 填充传递的字形标识符列表。 Glyph id 是字形的唯一编号，它取决于字体类型。 TTF 字体字形 id 可以是 ([`GlyphStringId`](../../aspose.font.glyphs/glyphstringid)) 类或 ([`GlyphUInt32Id`](../../aspose.font.glyphs/glyphuint32id)) 类的实例. 通过 Post 表映射为 TTF 字体支持名称（字符串）字形寻址。 如果里面有 CFF 字体，则 CFF 结构用于按名称寻址字形。 |
-| [GetGlyphComponentsById](../../aspose.font.ttf/ttffont/getglyphcomponentsbyid#getglyphcomponentsbyid_1)(string, GlyphIdList) | 通过传递的字形名称获取一个字形，并用该字形的组件 填充传递的字形标识符列表。 |
-| [GetGlyphComponentsById](../../aspose.font.ttf/ttffont/getglyphcomponentsbyid#getglyphcomponentsbyid_2)(uint, GlyphIdList) | 获取一个通过字形索引传递的字形，并用这个字形的组件 填充传递的字形标识符列表。 |
+| virtual [GetGlyphComponentsById](../../aspose.font.ttf/ttffont/getglyphcomponentsbyid#getglyphcomponentsbyid)(GlyphId, GlyphIdList) | 通过传递的字形标识符获取一个字形，并使用此字形的 组件填充传递的字形标识符列表。 字形 ID 是字形的唯一编号，取决于字体类型。 TTF 字体字形 ID 可以是 ([`GlyphStringId`](../../aspose.font.glyphs/glyphstringid)) 类或 ([`GlyphUInt32Id`](../../aspose.font.glyphs/glyphuint32id) ) class. 通过 Post 表映射支持 TTF 字体的名称（字符串）字形寻址。 在 CFF 字体内部的情况下，CFF 结构用于按名称寻址字形。 |
+| [GetGlyphComponentsById](../../aspose.font.ttf/ttffont/getglyphcomponentsbyid#getglyphcomponentsbyid_1)(string, GlyphIdList) | 通过传递的字形名称获取一个字形，并用此字形的 组件填充传递的字形标识符列表。 |
+| [GetGlyphComponentsById](../../aspose.font.ttf/ttffont/getglyphcomponentsbyid#getglyphcomponentsbyid_2)(uint, GlyphIdList) | 通过传递的字形索引获取一个字形，并用这个字形的组件 填充传递的字形标识符列表。 |
 | override [GetGlyphsForText](../../aspose.font.ttf/ttffont/getglyphsfortext)(string) | 获取文本的字形表示。 |
 | virtual [Save](../../aspose.font/font/save)(Stream) | 将字体保存为原始格式。 |
 | virtual [Save](../../aspose.font/font/save)(string) | 将字体保存为原始格式。 |

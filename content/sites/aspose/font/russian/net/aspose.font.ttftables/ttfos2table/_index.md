@@ -3,7 +3,7 @@ title: TtfOs2Table
 second_title: Справочник по API Aspose.Font для .NET
 description: Представляет таблицу OS/2 файла шрифта TTF.
 type: docs
-weight: 980
+weight: 990
 url: /ru/net/aspose.font.ttftables/ttfos2table/
 ---
 ## TtfOs2Table class
@@ -19,10 +19,10 @@ public class TtfOs2Table : TtfTableBase
 | Имя | Описание |
 | --- | --- |
 | [AchVendId](../../aspose.font.ttftables/ttfos2table/achvendid) { get; } | Получает значение AchVendId. |
-| [FSSelection](../../aspose.font.ttftables/ttfos2table/fsselection) { get; } | Содержит информацию о характере рисунков шрифта. 0 bit 1 ITALIC Шрифт содержит курсивные символы, в противном случае они расположены вертикально. 1 UNDERSCORE Символы подчеркиваются. 2 ОТРИЦАТЕЛЬНЫЕ У персонажей передний план и фон перевернуты. 3 КОНТУР Контурные (пустые) символы, в противном случае они сплошные. 4 УДАР Персонажи перегружены. 5 бит 0 BOLD Символы выделены жирным шрифтом. 6 ОБЫЧНЫЕ Символы имеют стандартный вес/начертание для Шрифта. |
+| [FSSelection](../../aspose.font.ttftables/ttfos2table/fsselection) { get; } | Содержит информацию о характере рисунков шрифта. 0 бит 1 КУРТИК Шрифт содержит символы курсива, в противном случае они расположены вертикально. 1 ПОДЧЕРКН. Символы подчеркнуты. пустые) символы, в противном случае они сплошные. 4 ЗАЧЕСЛЕНИЕ Символы зачеркнуты. 5 бит 0 ЖИРНЫЕ символы выделены жирным шрифтом. 6 ОБЫЧНЫЕ Символы имеют стандартный вес/начертание для шрифта. |
 | [FSType](../../aspose.font.ttftables/ttfos2table/fstype) { get; } | Получает значение FSType. |
 | [Offset](../../aspose.font.ttftables/ttftablebase/offset) { get; } | Получает смещение от начала sfnt. |
-| [Panose](../../aspose.font.ttftables/ttfos2table/panose) { get; } | Этот 10-байтовый ряд чисел используется для описания визуальных характеристик данного шрифта. Эти характеристики затем используются для связывания шрифта с другими шрифтами с похожим внешним видом, но с другими именами. |
+| [Panose](../../aspose.font.ttftables/ttfos2table/panose) { get; } | Этот 10-байтовый ряд чисел используется для описания визуальных характеристик данного шрифта. Затем эти характеристики используются для связывания шрифта с другими шрифтами с похожим внешним видом и другими именами. |
 | [SCapHeight](../../aspose.font.ttftables/ttfos2table/scapheight) { get; } | Получает значение SCapHeight. |
 | [SFamilyClass](../../aspose.font.ttftables/ttfos2table/sfamilyclass) { get; } | Этот параметр является классификацией дизайна семейства шрифтов. Класс шрифта и подкласс шрифта являются зарегистрированными значениями, присвоенными IBM каждому семейству шрифтов. Этот параметр предназначен для использования при выборе альтернативного шрифта, когда запрошенный шрифт недоступен. |
 | [STypoAscender](../../aspose.font.ttftables/ttfos2table/stypoascender) { get; } | Получает значение STypoAscender. |
@@ -38,12 +38,12 @@ public class TtfOs2Table : TtfTableBase
 | [USFirstCharIndex](../../aspose.font.ttftables/ttfos2table/usfirstcharindex) { get; } | Получает значение USFirstCharIndex. |
 | [USLastCharIndex](../../aspose.font.ttftables/ttfos2table/uslastcharindex) { get; } | Получает значение USLastCharIndex. |
 | [USMaxContext](../../aspose.font.ttftables/ttfos2table/usmaxcontext) { get; } | Получает значение USMaxContext. |
-| [USWeightClass](../../aspose.font.ttftables/ttfos2table/usweightclass) { get; } | Указывает визуальный вес (степень черноты или толщина штрихов) символов в Шрифте. |
+| [USWeightClass](../../aspose.font.ttftables/ttfos2table/usweightclass) { get; } | Указывает визуальный вес (степень черноты или толщина штрихов) символов шрифта. |
 | [USWidthClass](../../aspose.font.ttftables/ttfos2table/uswidthclass) { get; } | Указывает относительное отклонение от нормального соотношения сторон (отношение ширины к высоте), как указано разработчиком шрифта для глифов в шрифте. |
 | [USWinAscent](../../aspose.font.ttftables/ttfos2table/uswinascent) { get; } | Получает значение USWinAscent. |
 | [USWinDescent](../../aspose.font.ttftables/ttfos2table/uswindescent) { get; } | Получает значение USWinDescent. |
 | [Version](../../aspose.font.ttftables/ttfos2table/version) { get; } | Получает значение версии. |
-| [XAvgCharWidth](../../aspose.font.ttftables/ttfos2table/xavgcharwidth) { get; } | Получает параметр средней ширины символов. |
+| [XAvgCharWidth](../../aspose.font.ttftables/ttfos2table/xavgcharwidth) { get; } | Получает параметр средней ширины символа. |
 | [YStrikeoutPosition](../../aspose.font.ttftables/ttfos2table/ystrikeoutposition) { get; } | Получает значение YStrikeoutPosition. |
 | [YStrikeoutSize](../../aspose.font.ttftables/ttfos2table/ystrikeoutsize) { get; } | Получает значение YStrikeoutSize. |
 | [YSubscriptXOffset](../../aspose.font.ttftables/ttfos2table/ysubscriptxoffset) { get; } | Получает значение YSubscriptXOffset. |
@@ -60,7 +60,7 @@ public class TtfOs2Table : TtfTableBase
 
 | Имя | Описание |
 | --- | --- |
-| [GetLicenseFlags](../../aspose.font.ttftables/ttfos2table/getlicenseflags)() | Получает встроенные флаги (fsType) в представлении объекта. |
+| [GetLicenseFlags](../../aspose.font.ttftables/ttfos2table/getlicenseflags)() | Получает встроенные флаги (fsType) в объектном представлении. |
 
 ### Смотрите также
 

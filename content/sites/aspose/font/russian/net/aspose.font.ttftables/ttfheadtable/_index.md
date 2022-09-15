@@ -3,12 +3,12 @@ title: TtfHeadTable
 second_title: Справочник по API Aspose.Font для .NET
 description: Представляет головную таблицу файла шрифта TTF.
 type: docs
-weight: 810
+weight: 820
 url: /ru/net/aspose.font.ttftables/ttfheadtable/
 ---
 ## TtfHeadTable class
 
-Представляет "головную" таблицу файла шрифта TTF.
+Представляет «головную» таблицу файла шрифта TTF.
 
 ```csharp
 public class TtfHeadTable : TtfTableBase
@@ -21,7 +21,7 @@ public class TtfHeadTable : TtfTableBase
 | [CheckSumAdjustment](../../aspose.font.ttftables/ttfheadtable/checksumadjustment) { get; } | Получает uint32 checkSumAdjustment. Чтобы вычислить: установите его в 0, посчитайте контрольную сумму для таблицы 'head' и поместите ее в директорию таблицы, просуммируйте весь шрифт как uint32, затем сохраните B1B0AFBA - sum. Контрольная сумма для таблицы «head» не будет ошибочной. Это нормально. |
 | [Created](../../aspose.font.ttftables/ttfheadtable/created) { get; } | Получает международную дату создания longDateTime. |
 | [Flags](../../aspose.font.ttftables/ttfheadtable/flags) { get; } | Получает флаги uint16. |
-| [FontDirectionHint](../../aspose.font.ttftables/ttfheadtable/fontdirectionhint) { get; } | Получает int16 fontDirectionHint. 0 Смешанные глифы направлений; 1 Только глифы строго слева направо; 2 То же, что и 1, но также содержит нейтрали; -1 Только глифы строго справа налево; -2 То же, что и -1, но также содержит нейтрали. |
+| [FontDirectionHint](../../aspose.font.ttftables/ttfheadtable/fontdirectionhint) { get; } | Получает int16 fontDirectionHint. 0 Смешанные глифы направления; 1 Только глифы строго слева направо; 2 Аналогично 1, но также содержит нейтральные значения; -1 Только глифы строго справа налево; -2 Аналогично -1, но также содержит нейтральные значения. |
 | [FontRevision](../../aspose.font.ttftables/ttfheadtable/fontrevision) { get; } | Получает фиксированную версию fontRevision, установленную производителем шрифта. |
 | [GlyphDataFormat](../../aspose.font.ttftables/ttfheadtable/glyphdataformat) { get; } | Получает int16 glyphDataFormat 0 для текущего формата. |
 | [IndexToLocFormat](../../aspose.font.ttftables/ttfheadtable/indextolocformat) { get; } | Получает int16 indexToLocFormat 0 для коротких смещений, 1 для длинных. |
@@ -32,7 +32,7 @@ public class TtfHeadTable : TtfTableBase
 | [Offset](../../aspose.font.ttftables/ttftablebase/offset) { get; } | Получает смещение от начала sfnt. |
 | [TtfTables](../../aspose.font.ttftables/ttftablebase/ttftables) { get; } | Ссылка на репозиторий таблиц TTF. |
 | [UnitsPerEM](../../aspose.font.ttftables/ttfheadtable/unitsperem) { get; } | Получает uint16 unitPerEm в диапазоне от 64 до 16384. |
-| [Version](../../aspose.font.ttftables/ttfheadtable/version) { get; } | Исправлена версия 0x00010000 if (версия 1.0). |
+| [Version](../../aspose.font.ttftables/ttfheadtable/version) { get; } | Исправлена версия 0x00010000, если (версия 1.0). |
 | [XMax](../../aspose.font.ttftables/ttfheadtable/xmax) { get; } | Получает FWord xMax для всех ограничивающих рамок глифа. |
 | [XMin](../../aspose.font.ttftables/ttfheadtable/xmin) { get; } | Получает FWord xMin для всех ограничивающих рамок глифа. |
 | [YMax](../../aspose.font.ttftables/ttfheadtable/ymax) { get; } | Получает FWord yMax для всех ограничивающих рамок глифа. |

@@ -8,7 +8,7 @@ url: /ru/net/aspose.font.cffexceptions/cfffontexception/
 ---
 ## CffFontException class
 
-Представляет общее исключение, связанное с обработкой для шрифтов формата CFF.
+Представляет общее исключение, связанное с обработкой, для шрифтов формата CFF.
 
 ```csharp
 public class CffFontException : FontException
@@ -18,10 +18,10 @@ public class CffFontException : FontException
 
 | Имя | Описание |
 | --- | --- |
-| [CffFontException](cfffontexception#constructor)() | Инициализирует новый объект[`CffFontException`](../cfffontexception). |
-| [CffFontException](cfffontexception#constructor_2)(string) | Инициализирует новый объект[`CffFontException`](../cfffontexception). |
-| [CffFontException](cfffontexception#constructor_1)(SerializationInfo, StreamingContext) | Инициализирует новый объект[`CffFontException`](../cfffontexception). |
-| [CffFontException](cfffontexception#constructor_3)(string, Exception) | Инициализирует новый объект[`CffFontException`](../cfffontexception). |
+| [CffFontException](cfffontexception#constructor)() | Инициализирует новый[`CffFontException`](../cfffontexception) объект. |
+| [CffFontException](cfffontexception#constructor_2)(string) | Инициализирует новый[`CffFontException`](../cfffontexception) объект. |
+| [CffFontException](cfffontexception#constructor_1)(SerializationInfo, StreamingContext) | Инициализирует новый[`CffFontException`](../cfffontexception) объект. |
+| [CffFontException](cfffontexception#constructor_3)(string, Exception) | Инициализирует новый[`CffFontException`](../cfffontexception) объект. |
 
 ### Смотрите также
 

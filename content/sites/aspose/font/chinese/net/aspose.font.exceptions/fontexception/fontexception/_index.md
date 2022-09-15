@@ -1,14 +1,14 @@
 ---
 title: FontException
 second_title: Aspose.Font for .NET API 参考
-description: 初始化新的FontExceptionaspose.font.exceptions/fontexception对象
+description: 初始化新的FontExceptionaspose.font.exceptions/fontexception对象.
 type: docs
 weight: 10
 url: /zh/net/aspose.font.exceptions/fontexception/fontexception/
 ---
 ## FontException() {#constructor}
 
-初始化新的[`FontException`](../../fontexception)对象。
+初始化新的[`FontException`](../../fontexception)对象.
 
 ```csharp
 public FontException()
@@ -24,7 +24,7 @@ public FontException()
 
 ## FontException(string) {#constructor_2}
 
-初始化新的[`FontException`](../../fontexception)对象。
+初始化新的[`FontException`](../../fontexception)对象.
 
 ```csharp
 public FontException(string message)
@@ -44,7 +44,7 @@ public FontException(string message)
 
 ## FontException(string, Exception) {#constructor_3}
 
-初始化新的[`FontException`](../../fontexception)对象。
+初始化新的[`FontException`](../../fontexception)对象.
 
 ```csharp
 public FontException(string message, Exception innerException)
@@ -65,7 +65,7 @@ public FontException(string message, Exception innerException)
 
 ## FontException(SerializationInfo, StreamingContext) {#constructor_1}
 
-初始化新的[`FontException`](../../fontexception)对象。
+初始化新的[`FontException`](../../fontexception)对象.
 
 ```csharp
 public FontException(SerializationInfo info, StreamingContext context)

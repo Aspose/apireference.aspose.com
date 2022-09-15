@@ -18,14 +18,14 @@ public interface IFontMetrics
 
 | Имя | Описание |
 | --- | --- |
-| [Ascender](../../aspose.font/ifontmetrics/ascender) { get; set; } | Получает значение по возрастанию для Font в единицах шрифта. |
-| [Descender](../../aspose.font/ifontmetrics/descender) { get; set; } | Получает значение нижнего выносного элемента Font в единицах шрифта. |
+| [Ascender](../../aspose.font/ifontmetrics/ascender) { get; set; } | Получает значение по возрастанию шрифта в единицах шрифта. |
+| [Descender](../../aspose.font/ifontmetrics/descender) { get; set; } | Получает нисходящее значение шрифта в единицах шрифта. |
 | [FontBBox](../../aspose.font/ifontmetrics/fontbbox) { get; } | Получает ограничивающую рамку шрифта. |
 | [FontMatrix](../../aspose.font/ifontmetrics/fontmatrix) { get; } | Получает матрицу преобразования шрифта. |
-| [IsFixedPitch](../../aspose.font/ifontmetrics/isfixedpitch) { get; } | Истинно, если Шрифт моноширинный. |
+| [IsFixedPitch](../../aspose.font/ifontmetrics/isfixedpitch) { get; } | Истинно, если шрифт моноширинный. |
 | [LineGap](../../aspose.font/ifontmetrics/linegap) { get; } | Получает значение межстрочного интервала шрифта в единицах шрифта. |
 | [TypoAscender](../../aspose.font/ifontmetrics/typoascender) { get; set; } | Получает значение типографского восходящего элемента Font в единицах шрифта. |
-| [TypoDescender](../../aspose.font/ifontmetrics/typodescender) { get; set; } | Получает значение типографского нижнего выносного элемента Font в единицах Font. |
+| [TypoDescender](../../aspose.font/ifontmetrics/typodescender) { get; set; } | Получает значение типографского выносного элемента шрифта в единицах шрифта. |
 | [TypoLineGap](../../aspose.font/ifontmetrics/typolinegap) { get; } | Получает типографское значение межстрочного интервала шрифта в единицах шрифта. |
 | [UnitsPerEM](../../aspose.font/ifontmetrics/unitsperem) { get; set; } | Получает единицы на em. |
 
@@ -33,7 +33,7 @@ public interface IFontMetrics
 
 | Имя | Описание |
 | --- | --- |
-| [GetAscender](../../aspose.font/ifontmetrics/getascender)(double) | Возвращает восходящий элемент для определенного размера шрифта. |
+| [GetAscender](../../aspose.font/ifontmetrics/getascender)(double) | Возвращает верхний элемент для определенного размера шрифта. |
 | [GetDescender](../../aspose.font/ifontmetrics/getdescender)(double) | Возвращает выносной элемент для определенного размера шрифта. |
 | [GetGlyphBBox](../../aspose.font/ifontmetrics/getglyphbbox)(GlyphId) | Возвращает глиф BBox. |
 | [GetGlyphWidth](../../aspose.font/ifontmetrics/getglyphwidth)(GlyphId) | Возвращает ширину глифа. |

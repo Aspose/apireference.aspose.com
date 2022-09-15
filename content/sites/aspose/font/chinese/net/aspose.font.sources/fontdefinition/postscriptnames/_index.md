@@ -1,14 +1,14 @@
 ---
 title: PostscriptNames
 second_title: Aspose.Font for .NET API 参考
-description: 获取 postscript 字体名称为MultiLanguageStringaspose.font/multilanguagestring
+description: 获取 postscript 字体名称作为MultiLanguageStringaspose.font/multilanguagestring.
 type: docs
 weight: 80
 url: /zh/net/aspose.font.sources/fontdefinition/postscriptnames/
 ---
 ## FontDefinition.PostscriptNames property
 
-获取 postscript 字体名称为[`MultiLanguageString`](../../../aspose.font/multilanguagestring)。
+获取 postscript 字体名称作为[`MultiLanguageString`](../../../aspose.font/multilanguagestring).
 
 ```csharp
 public MultiLanguageString PostscriptNames { get; }

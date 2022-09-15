@@ -1,14 +1,14 @@
 ---
 title: Modified
 second_title: Aspose.Font for .NET API 参考
-description: 获取 longDateTime 修改后的国际日期
+description: 获取 longDateTime 修改的国际日期
 type: docs
 weight: 110
 url: /zh/net/aspose.font.ttftables/ttfheadtable/modified/
 ---
 ## TtfHeadTable.Modified property
 
-获取 longDateTime 修改后的国际日期。
+获取 longDateTime 修改的国际日期。
 
 ```csharp
 public DateTime Modified { get; }

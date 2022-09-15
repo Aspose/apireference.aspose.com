@@ -1,31 +1,31 @@
 ---
 title: Aspose.Font.TtfTables
 second_title: Aspose.Font for .NET API 参考
-description: Aspose.Font.TtfTables 命名空间提供了用于处理 不同 TrueType 格式表的类
+description: 的 Aspose.Font.TtfTables命名空间提供了用于处理 不同 TrueType 格式表的类
 type: docs
-weight: 130
+weight: 140
 url: /zh/net/aspose.font.ttftables/
 ---
-**Aspose.Font.TtfTables** 命名空间提供了用于处理 不同 TrueType 格式表的类。
+的 **Aspose.Font.TtfTables**命名空间提供了用于处理 不同 TrueType 格式表的类。
 
 ## 课程
 
 | 班级 | 描述 |
 | --- | --- |
-| [TtfCffTable](./ttfcfftable) | 表示 TTF 字体文件的“cff”表。 |
-| [TtfCMapTable](./ttfcmaptable) | 表示 TTF 字体文件的“cmap”表。 |
+| [TtfCffTable](./ttfcfftable) | 代表TTF字体文件的“cff”表。 |
+| [TtfCMapTable](./ttfcmaptable) | 代表TTF字体文件的“cmap”表。 |
 | [TtfCvtTable](./ttfcvttable) | 表示 TTF 字体文件的控制值表 (CVT)。 |
 | [TtfFpgmTable](./ttffpgmtable) | 表示 TTF 字体文件的“fpgm”表。 |
 | [TtfGlyfTable](./ttfglyftable) | 表示 TTF 字体文件的“glyf”表。 |
 | [TtfHeadTable](./ttfheadtable) | 表示 TTF 字体文件的“头”表。 |
-| [TtfHheaTable](./ttfhheatable) | 表示 TTF 字体文件的“hhea”表。 |
-| [TtfHmtxTable](./ttfhmtxtable) | 表示 TTF 字体文件的“hmtx”表。 |
+| [TtfHheaTable](./ttfhheatable) | 代表TTF字体文件的“hhea”表。 |
+| [TtfHmtxTable](./ttfhmtxtable) | 代表TTF字体文件的“hmtx”表。 |
 | [TtfLocaTable](./ttflocatable) | 表示 TTF 字体文件的“loca”表。 |
-| [TtfMaxpTable](./ttfmaxptable) | 表示 TTF 字体文件的“maxp”表。 |
+| [TtfMaxpTable](./ttfmaxptable) | 代表TTF字体文件的“maxp”表。 |
 | [TtfNameTable](./ttfnametable) | 表示 TTF 字体文件的“名称”表。 |
 | [TtfOs2Table](./ttfos2table) | 表示 TTF 字体文件的“OS/2”表。 |
-| [TtfPostTable](./ttfposttable) | 表示 TTF 字体文件的“post”表。 |
-| [TtfPrepTable](./ttfpreptable) | 表示 TTF 字体文件的“准备”表。 |
+| [TtfPostTable](./ttfposttable) | 代表TTF字体文件的“post”表。 |
+| [TtfPrepTable](./ttfpreptable) | 表示 TTF 字体文件的“prep”表。 |
 | [TtfTableBase](./ttftablebase) | 表示 TTF 表定义。 |
 | [TtfTableRepository](./ttftablerepository) | 表示 TTF 表的存储库。 |
 

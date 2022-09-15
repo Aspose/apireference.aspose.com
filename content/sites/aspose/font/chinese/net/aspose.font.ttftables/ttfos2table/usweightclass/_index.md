@@ -1,14 +1,14 @@
 ---
 title: USWeightClass
 second_title: Aspose.Font for .NET API 参考
-description: 表示字体中字符的视觉粗细黑度或笔画粗细
+description: 表示字体中字符的视觉重量黑度或笔画粗细
 type: docs
 weight: 190
 url: /zh/net/aspose.font.ttftables/ttfos2table/usweightclass/
 ---
 ## TtfOs2Table.USWeightClass property
 
-表示字体中字符的视觉粗细（黑度或笔画粗细）。
+表示字体中字符的视觉重量（黑度或笔画粗细）。
 
 ```csharp
 public ushort USWeightClass { get; }

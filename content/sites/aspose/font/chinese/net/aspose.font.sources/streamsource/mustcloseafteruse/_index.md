@@ -1,14 +1,14 @@
 ---
 title: MustCloseAfterUse
 second_title: Aspose.Font for .NET API 参考
-description: 继承者可能会阻止流关闭 如果流源希望流在使用后关闭则返回 true 否则返回假
+description: 继承者可能会阻止流关闭 如果流源希望流在使用后关闭则返回 true 否则返回 false
 type: docs
 weight: 50
 url: /zh/net/aspose.font.sources/streamsource/mustcloseafteruse/
 ---
 ## StreamSource.MustCloseAfterUse method
 
-继承者可能会阻止流关闭。 如果流源希望流在使用后关闭，则返回 true。 否则返回假。
+继承者可能会阻止流关闭。 如果流源希望流在使用后关闭，则返回 true。 否则返回 false。
 
 ```csharp
 public virtual bool MustCloseAfterUse()
@@ -16,7 +16,7 @@ public virtual bool MustCloseAfterUse()
 
 ### 返回值
 
-如果流源希望在使用后关闭流，则为真，否则为假。
+如果流源希望在使用后关闭流，则为 true，否则为 false。
 
 ### 也可以看看
 

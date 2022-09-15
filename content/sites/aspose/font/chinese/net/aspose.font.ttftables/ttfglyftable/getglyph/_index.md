@@ -1,14 +1,14 @@
 ---
 title: GetGlyph
 second_title: Aspose.Font for .NET API 参考
-description: 按字形索引返回一个字形
+description: 按字形索引返回字形
 type: docs
 weight: 20
 url: /zh/net/aspose.font.ttftables/ttfglyftable/getglyph/
 ---
 ## TtfGlyfTable.GetGlyph method
 
-按字形索引返回一个字形。
+按字形索引返回字形。
 
 ```csharp
 public virtual Glyph GetGlyph(uint glyphIndex)

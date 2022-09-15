@@ -19,7 +19,7 @@ public enum GlyphState
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
 | Success | `0` | 字形解析成功。 |
-| ParsedWithErrors | `1` | Glyph 被解析错误。 |
+| ParsedWithErrors | `1` | 字形被解析错误。 |
 
 ### 也可以看看
 

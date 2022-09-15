@@ -3,7 +3,7 @@ title: GetHashCode
 second_title: Справочник по API Aspose.Font для .NET
 description: Реализация GetHashCode.
 type: docs
-weight: 60
+weight: 80
 url: /ru/net/aspose.font/multilanguagestring/gethashcode/
 ---
 ## MultiLanguageString.GetHashCode method

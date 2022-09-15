@@ -1,14 +1,14 @@
 ---
 title: TtfPostTable
 second_title: Справочник по API Aspose.Font для .NET
-description: Представляет post таблицу файла шрифта TTF.
+description: Представляет таблицу post файла шрифта TTF.
 type: docs
-weight: 990
+weight: 1000
 url: /ru/net/aspose.font.ttftables/ttfposttable/
 ---
 ## TtfPostTable class
 
-Представляет "post" таблицу файла шрифта TTF.
+Представляет таблицу "post" файла шрифта TTF.
 
 ```csharp
 public class TtfPostTable : TtfTableBase
@@ -19,9 +19,9 @@ public class TtfPostTable : TtfTableBase
 | Имя | Описание |
 | --- | --- |
 | [Format](../../aspose.font.ttftables/ttfposttable/format) { get; } | Получает фиксированный формат (версию) этой таблицы. |
-| [HasNoPostScriptNames](../../aspose.font.ttftables/ttfposttable/hasnopostscriptnames) { get; } | Указывает, что для глифов в этом файле шрифта не предоставлена информация об имени PostScript. |
+| [HasNoPostScriptNames](../../aspose.font.ttftables/ttfposttable/hasnopostscriptnames) { get; } | Указывает, что информация об имени PostScript для глифов в этом файле шрифта не предоставляется. |
 | [IsFixedPitch](../../aspose.font.ttftables/ttfposttable/isfixedpitch) { get; } | Получает uint32 isFixedPitch. 0, если шрифт имеет пропорциональные интервалы, ненулевое значение, если шрифт не является пропорциональным интервалом (т.е. моноширинным). |
-| [ItalicAngle](../../aspose.font.ttftables/ttfposttable/italicangle) { get; } | Получает фиксированный курсив italicAngle Угол курсива в градусах. |
+| [ItalicAngle](../../aspose.font.ttftables/ttfposttable/italicangle) { get; } | Получает фиксированный угол italicAngle Курсив в градусах. |
 | [MaxMemType1](../../aspose.font.ttftables/ttfposttable/maxmemtype1) { get; } | Получает uint32 maxMemType1 Максимальное использование памяти при загрузке шрифта TrueType как шрифта Type 1. |
 | [MaxMemType42](../../aspose.font.ttftables/ttfposttable/maxmemtype42) { get; } | Получает uint32 maxMemType42 Максимальное использование памяти при загрузке шрифта TrueType как шрифта Type 42. |
 | [MinMemType1](../../aspose.font.ttftables/ttfposttable/minmemtype1) { get; } | Получает uint32 minMemType1 Минимальное использование памяти при загрузке шрифта TrueType как шрифта Type 1. |

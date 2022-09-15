@@ -1,14 +1,14 @@
 ---
 title: MaxContours
 second_title: Справочник по API Aspose.Font для .NET
-description: Получает uint16 контуров maxContours в несоставном глифе.
+description: Получает контуры uint16 maxContours в несоставном глифе.
 type: docs
 weight: 50
 url: /ru/net/aspose.font.ttftables/ttfmaxptable/maxcontours/
 ---
 ## TtfMaxpTable.MaxContours property
 
-Получает uint16 контуров maxContours в несоставном глифе.
+Получает контуры uint16 maxContours в несоставном глифе.
 
 ```csharp
 public ushort MaxContours { get; }

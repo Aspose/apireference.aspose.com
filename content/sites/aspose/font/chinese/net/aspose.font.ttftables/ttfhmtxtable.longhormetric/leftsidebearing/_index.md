@@ -1,14 +1,14 @@
 ---
 title: LeftSideBearing
 second_title: Aspose.Font for .NET API 参考
-description: 获取左侧方位角值
+description: 获取左侧方位值
 type: docs
 weight: 20
 url: /zh/net/aspose.font.ttftables/ttfhmtxtable.longhormetric/leftsidebearing/
 ---
 ## TtfHmtxTable.LongHorMetric.LeftSideBearing property
 
-获取左侧方位角值。
+获取左侧方位值。
 
 ```csharp
 public short LeftSideBearing { get; }

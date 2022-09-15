@@ -1,14 +1,14 @@
 ---
 title: FontException
 second_title: Справочник по API Aspose.Font для .NET
-description: Инициализирует новый объектFontExceptionaspose.font.exceptions/fontexception.
+description: Инициализирует новыйFontExceptionaspose.font.exceptions/fontexception объект.
 type: docs
 weight: 10
 url: /ru/net/aspose.font.exceptions/fontexception/fontexception/
 ---
 ## FontException() {#constructor}
 
-Инициализирует новый объект[`FontException`](../../fontexception).
+Инициализирует новый[`FontException`](../../fontexception) объект.
 
 ```csharp
 public FontException()
@@ -24,7 +24,7 @@ public FontException()
 
 ## FontException(string) {#constructor_2}
 
-Инициализирует новый объект[`FontException`](../../fontexception).
+Инициализирует новый[`FontException`](../../fontexception) объект.
 
 ```csharp
 public FontException(string message)
@@ -32,7 +32,7 @@ public FontException(string message)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| message | String | Сообщение с описанием ошибки. |
+| message | String | Сообщение, описывающее ошибку. |
 
 ### Смотрите также
 
@@ -44,7 +44,7 @@ public FontException(string message)
 
 ## FontException(string, Exception) {#constructor_3}
 
-Инициализирует новый объект[`FontException`](../../fontexception).
+Инициализирует новый[`FontException`](../../fontexception) объект.
 
 ```csharp
 public FontException(string message, Exception innerException)
@@ -52,8 +52,8 @@ public FontException(string message, Exception innerException)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| message | String | Сообщение с описанием ошибки. |
-| innerException | Exception | Исключение, являющееся причиной текущего исключения. |
+| message | String | Сообщение, описывающее ошибку. |
+| innerException | Exception | Исключение, которое является причиной текущего исключения. |
 
 ### Смотрите также
 
@@ -65,7 +65,7 @@ public FontException(string message, Exception innerException)
 
 ## FontException(SerializationInfo, StreamingContext) {#constructor_1}
 
-Инициализирует новый объект[`FontException`](../../fontexception).
+Инициализирует новый[`FontException`](../../fontexception) объект.
 
 ```csharp
 public FontException(SerializationInfo info, StreamingContext context)

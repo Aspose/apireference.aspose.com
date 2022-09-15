@@ -1,14 +1,14 @@
 ---
 title: Version
 second_title: Справочник по API Aspose.Font для .NET
-description: Получает версию продукта.
+description: Получить версию продукта.
 type: docs
 weight: 20
 url: /ru/net/aspose.font/buildversioninfo/version/
 ---
 ## BuildVersionInfo.Version property
 
-Получает версию продукта.
+Получить версию продукта.
 
 ```csharp
 public static string Version { get; }

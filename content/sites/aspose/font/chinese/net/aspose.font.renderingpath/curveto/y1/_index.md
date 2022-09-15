@@ -1,14 +1,14 @@
 ---
 title: Y1
 second_title: Aspose.Font for .NET API 参考
-description: 获取坐标 y1
+description: 获取坐标 y1.
 type: docs
 weight: 40
 url: /zh/net/aspose.font.renderingpath/curveto/y1/
 ---
 ## CurveTo.Y1 property
 
-获取坐标 y1。
+获取坐标 y1.
 
 ```csharp
 public double Y1 { get; }

@@ -1,14 +1,14 @@
 ---
 title: LeftSidebearingX
 second_title: Справочник по API Aspose.Font для .NET
-description: Получает координату X бокового направления глифа.
+description: Получает координату x бокового направления глифа.
 type: docs
 weight: 30
 url: /ru/net/aspose.font.glyphs/glyph/leftsidebearingx/
 ---
 ## Glyph.LeftSidebearingX property
 
-Получает координату X бокового направления глифа.
+Получает координату x бокового направления глифа.
 
 ```csharp
 public double LeftSidebearingX { get; }

@@ -1,14 +1,14 @@
 ---
 title: AddName
 second_title: Справочник по API Aspose.Font для .NET
-description: Добавляет запись в таблицу. Категория строковых данных для добавления задается параметромname.
+description: Добавляет запись в таблицу. Категория строковых данных для добавления определяетсяname параметр.
 type: docs
-weight: 10
+weight: 20
 url: /ru/net/aspose.font.ttftables/ttfnametable/addname/
 ---
 ## TtfNameTable.AddName method
 
-Добавляет запись в таблицу. Категория строковых данных для добавления задается параметром*name*.
+Добавляет запись в таблицу. Категория строковых данных для добавления определяется*name* параметр.
 
 ```csharp
 public void AddName(NameId nameId, PlatformId platformId, int platformSpecificId, int languageId, 
@@ -17,11 +17,11 @@ public void AddName(NameId nameId, PlatformId platformId, int platformSpecificId
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| nameId | NameId | Идентификатор имени, категория логической строки, указанная[`NameId`](../../ttfnametable.nameid)перечисление |
+| nameId | NameId | Идентификатор имени, категория логической строки, указанная[`NameId`](../../ttfnametable.nameid) перечисление |
 | platformId | PlatformId | Идентификатор платформы |
-| platformSpecificId | Int32 | Идентификатор кодировки для конкретной платформы. Пожалуйста, используйте значение из одного из таких перечислений -[`UnicodePlatformSpecificId`](../../ttfnametable.unicodeplatformspecificid),[`MacPlatformSpecificId`](../../ttfnametable.macplatformspecificid), [`MSPlatformSpecificId`](../../ttfnametable.msplatformspecificid). Какое перечисление использовать, определяется контекстом (параметр*platformId* ) |
-| languageId | Int32 | Идентификатор языка. Пожалуйста, используйте значение из[`MSLanguageId`](../../ttfnametable.mslanguageid)или [`MacLanguageId`](../../ttfnametable.maclanguageid)перечисления зависят от контекста, определяется параметром*platformId*. |
-| name | String | фактические строковые данные |
+| platformSpecificId | Int32 | Идентификатор кодировки для конкретной платформы. Пожалуйста, используйте значение из одного из таких перечислений -[`UnicodePlatformSpecificId`](../../ttfnametable.unicodeplatformspecificid) ,[`MacPlatformSpecificId`](../../ttfnametable.macplatformspecificid) , [`MSPlatformSpecificId`](../../ttfnametable.msplatformspecificid). Какое перечисление использовать, определяется контекстом (*platformId* параметр) |
+| languageId | Int32 | Идентификатор языка. Пожалуйста, используйте значение из[`MSLanguageId`](../../ttfnametable.mslanguageid) или [`MacLanguageId`](../../ttfnametable.maclanguageid) перечисления зависят от контекста, определенного по*platformId* параметр. |
+| name | String | Фактические строковые данные |
 
 ### Смотрите также
 

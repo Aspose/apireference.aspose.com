@@ -1,14 +1,14 @@
 ---
 title: Value
 second_title: Справочник по API Aspose.Font для .NET
-description: Получает или задает целочисленное значение идентификатора.
+description: Получает или задает целочисленное значение ID.
 type: docs
 weight: 30
 url: /ru/net/aspose.font.glyphs/glyphuint32id/value/
 ---
 ## GlyphUInt32Id.Value property
 
-Получает или задает целочисленное значение идентификатора.
+Получает или задает целочисленное значение ID.
 
 ```csharp
 public uint Value { get; set; }

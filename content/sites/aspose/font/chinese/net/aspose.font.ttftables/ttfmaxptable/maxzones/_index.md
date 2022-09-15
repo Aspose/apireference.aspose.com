@@ -1,14 +1,14 @@
 ---
 title: MaxZones
 second_title: Aspose.Font for .NET API 参考
-description: 将 uint16 maxZones 设置为 2
+description: 将 uint16 maxZones 设置为 2.
 type: docs
 weight: 130
 url: /zh/net/aspose.font.ttftables/ttfmaxptable/maxzones/
 ---
 ## TtfMaxpTable.MaxZones property
 
-将 uint16 maxZones 设置为 2。
+将 uint16 maxZones 设置为 2.
 
 ```csharp
 public ushort MaxZones { get; }

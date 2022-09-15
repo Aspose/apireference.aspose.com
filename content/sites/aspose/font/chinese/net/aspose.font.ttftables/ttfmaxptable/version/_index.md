@@ -1,14 +1,14 @@
 ---
 title: Version
 second_title: Aspose.Font for .NET API 参考
-description: 如果版本 1.0获取固定版本 0x00010000
+description: 获取固定版本 0x00010000 如果版本 1.0已弃用使用TableVersionaspose.font.ttftables/ttfmaxptable/tableversionproperty 而不是.
 type: docs
-weight: 150
+weight: 160
 url: /zh/net/aspose.font.ttftables/ttfmaxptable/version/
 ---
 ## TtfMaxpTable.Version property
 
-如果（版本 1.0）获取固定版本 0x00010000。
+获取固定版本 0x00010000 如果（版本 1.0）。已弃用，使用[`TableVersion`](../tableversion)property 而不是.
 
 ```csharp
 public float Version { get; }

@@ -1,14 +1,14 @@
 ---
 title: NumGlyphs
 second_title: Aspose.Font for .NET API 参考
-description: 获取字体中的字形数量
+description: 获取字体中字形的数量
 type: docs
 weight: 110
 url: /zh/net/aspose.font.cff/cfffont/numglyphs/
 ---
 ## CffFont.NumGlyphs property
 
-获取字体中的字形数量。
+获取字体中字形的数量。
 
 ```csharp
 public override int NumGlyphs { get; }

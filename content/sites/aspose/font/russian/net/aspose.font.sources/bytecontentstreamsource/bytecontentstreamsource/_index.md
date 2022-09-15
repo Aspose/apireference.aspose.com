@@ -1,14 +1,14 @@
 ---
 title: ByteContentStreamSource
 second_title: Справочник по API Aspose.Font для .NET
-description: Инициализирует новый объектByteContentStreamSourceaspose.font.sources/bytecontentstreamsource.
+description: Инициализирует новыйByteContentStreamSourceaspose.font.sources/bytecontentstreamsource объект.
 type: docs
 weight: 10
 url: /ru/net/aspose.font.sources/bytecontentstreamsource/bytecontentstreamsource/
 ---
 ## ByteContentStreamSource constructor
 
-Инициализирует новый объект[`ByteContentStreamSource`](../../bytecontentstreamsource).
+Инициализирует новый[`ByteContentStreamSource`](../../bytecontentstreamsource) объект.
 
 ```csharp
 public ByteContentStreamSource(byte[] fileContent)

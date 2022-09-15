@@ -1,14 +1,14 @@
 ---
 title: CffSource
 second_title: Справочник по API Aspose.Font для .NET
-description: Необработанные байты для контуров в представлении в формате компактного шрифта.
+description: Необработанные байты для контуров в представлении формата компактного шрифта.
 type: docs
 weight: 10
 url: /ru/net/aspose.font.ttftables/ttfcfftable/cffsource/
 ---
 ## TtfCffTable.CffSource property
 
-Необработанные байты для контуров в представлении в формате компактного шрифта.
+Необработанные байты для контуров в представлении формата компактного шрифта.
 
 ```csharp
 public StreamSource CffSource { get; }

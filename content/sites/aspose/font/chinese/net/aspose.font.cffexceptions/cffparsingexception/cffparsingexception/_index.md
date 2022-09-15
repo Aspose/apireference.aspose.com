@@ -1,14 +1,14 @@
 ---
 title: CffParsingException
 second_title: Aspose.Font for .NET API 参考
-description: 初始化新的CffParsingExceptionaspose.font.cffexceptions/cffparsingexception对象
+description: 初始化新的CffParsingExceptionaspose.font.cffexceptions/cffparsingexception对象.
 type: docs
 weight: 10
 url: /zh/net/aspose.font.cffexceptions/cffparsingexception/cffparsingexception/
 ---
 ## CffParsingException() {#constructor}
 
-初始化新的[`CffParsingException`](../../cffparsingexception)对象。
+初始化新的[`CffParsingException`](../../cffparsingexception)对象.
 
 ```csharp
 public CffParsingException()
@@ -24,7 +24,7 @@ public CffParsingException()
 
 ## CffParsingException(string) {#constructor_2}
 
-初始化新的[`CffParsingException`](../../cffparsingexception)对象。
+初始化新的[`CffParsingException`](../../cffparsingexception)对象.
 
 ```csharp
 public CffParsingException(string message)
@@ -44,7 +44,7 @@ public CffParsingException(string message)
 
 ## CffParsingException(string, Exception) {#constructor_3}
 
-初始化新的[`CffParsingException`](../../cffparsingexception)对象。
+初始化新的[`CffParsingException`](../../cffparsingexception)对象.
 
 ```csharp
 public CffParsingException(string message, Exception innerException)
@@ -65,7 +65,7 @@ public CffParsingException(string message, Exception innerException)
 
 ## CffParsingException(SerializationInfo, StreamingContext) {#constructor_1}
 
-初始化新的[`CffParsingException`](../../cffparsingexception)对象。
+初始化新的[`CffParsingException`](../../cffparsingexception)对象.
 
 ```csharp
 public CffParsingException(SerializationInfo info, StreamingContext context)

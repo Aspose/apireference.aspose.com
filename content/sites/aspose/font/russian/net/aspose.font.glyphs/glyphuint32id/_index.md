@@ -18,14 +18,14 @@ public class GlyphUInt32Id : GlyphId
 
 | Имя | Описание |
 | --- | --- |
-| [GlyphUInt32Id](glyphuint32id)(uint) | Инициализирует новый объект[`GlyphUInt32Id`](../glyphuint32id). |
+| [GlyphUInt32Id](glyphuint32id)(uint) | Инициализирует новый[`GlyphUInt32Id`](../glyphuint32id) объект. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
 | static [NotDefId](../../aspose.font.glyphs/glyphuint32id/notdefid) { get; } | Получает значение не по умолчанию. |
-| [Value](../../aspose.font.glyphs/glyphuint32id/value) { get; set; } | Получает или задает целочисленное значение идентификатора. |
+| [Value](../../aspose.font.glyphs/glyphuint32id/value) { get; set; } | Получает или задает целочисленное значение ID. |
 
 ## Методы
 
@@ -33,7 +33,7 @@ public class GlyphUInt32Id : GlyphId
 | --- | --- |
 | override [Equals](../../aspose.font.glyphs/glyphuint32id/equals)(object) | Возвращает true, если идентификаторы равны. |
 | override [GetHashCode](../../aspose.font.glyphs/glyphuint32id/gethashcode)() | Реализация GetHashCode. |
-| virtual [ToGlyphStringId](../../aspose.font.glyphs/glyphid/toglyphstringid)() | Виртуальное приведение к GlyphUInt32Id. GlyphUInt32Id переопределяет возвращаемый экземпляр. |
+| virtual [ToGlyphStringId](../../aspose.font.glyphs/glyphid/toglyphstringid)() | Виртуальное приведение к GlyphUInt32Id. GlyphUInt32Id переопределяет возврат экземпляра. |
 | override [ToGlyphUInt32Id](../../aspose.font.glyphs/glyphuint32id/toglyphuint32id)() | Преобразовать GlyphId в GlyphUInt32Id |
 | override [ToString](../../aspose.font.glyphs/glyphuint32id/tostring)() | Получает или задает строковое представление целочисленного значения. |
 | [operator ==](../../aspose.font.glyphs/glyphuint32id/op_equality) | Реализация оператора равенства. |

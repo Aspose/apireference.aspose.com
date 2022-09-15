@@ -20,7 +20,7 @@ public virtual bool ContainsGlyph(int glyphIndex)
 
 ### 返回值
 
-如果表包含指定索引的字形则为真，否则为假。
+如果表包含指定索引的字形，则为真，否则为假。
 
 ### 也可以看看
 

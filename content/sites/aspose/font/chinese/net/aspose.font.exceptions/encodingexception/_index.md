@@ -1,14 +1,14 @@
 ---
 title: EncodingException
 second_title: Aspose.Font for .NET API 参考
-description: 表示编码异常 如果编码/解码文本出现问题可以抛出异常
+description: 表示编码异常 在编码/解码文本出现问题时可以抛出异常
 type: docs
 weight: 70
 url: /zh/net/aspose.font.exceptions/encodingexception/
 ---
 ## EncodingException class
 
-表示编码异常。 如果编码/解码文本出现问题，可以抛出异常。
+表示编码异常。 在编码/解码文本出现问题时可以抛出异常。
 
 ```csharp
 public class EncodingException : FontException
@@ -18,10 +18,10 @@ public class EncodingException : FontException
 
 | 姓名 | 描述 |
 | --- | --- |
-| [EncodingException](encodingexception#constructor)() | 初始化新的[`EncodingException`](../encodingexception)对象。 |
-| [EncodingException](encodingexception#constructor_2)(string) | 初始化新的[`EncodingException`](../encodingexception)对象。 |
-| [EncodingException](encodingexception#constructor_1)(SerializationInfo, StreamingContext) | 初始化新的[`EncodingException`](../encodingexception)对象。 |
-| [EncodingException](encodingexception#constructor_3)(string, Exception) | 初始化新的[`EncodingException`](../encodingexception)对象。 |
+| [EncodingException](encodingexception#constructor)() | 初始化新的[`EncodingException`](../encodingexception)对象. |
+| [EncodingException](encodingexception#constructor_2)(string) | 初始化新的[`EncodingException`](../encodingexception)对象. |
+| [EncodingException](encodingexception#constructor_1)(SerializationInfo, StreamingContext) | 初始化新的[`EncodingException`](../encodingexception)对象. |
+| [EncodingException](encodingexception#constructor_3)(string, Exception) | 初始化新的[`EncodingException`](../encodingexception)对象. |
 
 ### 也可以看看
 

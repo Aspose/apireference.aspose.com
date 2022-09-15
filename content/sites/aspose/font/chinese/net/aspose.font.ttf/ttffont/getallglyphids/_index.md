@@ -1,14 +1,14 @@
 ---
 title: GetAllGlyphIds
 second_title: Aspose.Font for .NET API 参考
-description: 返回字体中可用的所有字形 ID 的数组 Glyph id 是字形的唯一编号它取决于字体类型 TTF 字体字形 id 可以是 GlyphStringIdaspose.font.glyphs/glyphstringid 类或 GlyphUInt32Idaspose.font.glyphs/glyphuint32id 类的实例. 通过 Post 表映射为 TTF 字体支持名称字符串字形寻址 如果里面有 CFF 字体则 CFF 结构用于按名称寻址字形
+description: 返回所有字形 ID 的数组在字体中可用 字形 ID 是字形的唯一编号取决于字体类型 TTF 字体字形 ID 可以是 GlyphStringIdaspose.font.glyphs/glyphstringid 类或 GlyphUInt32Idaspose.font.glyphs/glyphuint32id  class. 通过 Post 表映射支持 TTF 字体的名称字符串字形寻址 在 CFF 字体内部的情况下CFF 结构用于按名称寻址字形
 type: docs
 weight: 170
 url: /zh/net/aspose.font.ttf/ttffont/getallglyphids/
 ---
 ## TtfFont.GetAllGlyphIds method
 
-返回字体中可用的所有字形 ID 的数组。 Glyph id 是字形的唯一编号，它取决于字体类型。 TTF 字体字形 id 可以是 ([`GlyphStringId`](../../../aspose.font.glyphs/glyphstringid)) 类或 ([`GlyphUInt32Id`](../../../aspose.font.glyphs/glyphuint32id)) 类的实例. 通过 Post 表映射为 TTF 字体支持名称（字符串）字形寻址。 如果里面有 CFF 字体，则 CFF 结构用于按名称寻址字形。
+返回所有字形 ID 的数组，在字体中可用。 字形 ID 是字形的唯一编号，取决于字体类型。 TTF 字体字形 ID 可以是 ([`GlyphStringId`](../../../aspose.font.glyphs/glyphstringid)) 类或 ([`GlyphUInt32Id`](../../../aspose.font.glyphs/glyphuint32id) ) class. 通过 Post 表映射支持 TTF 字体的名称（字符串）字形寻址。 在 CFF 字体内部的情况下，CFF 结构用于按名称寻址字形。
 
 ```csharp
 public override GlyphId[] GetAllGlyphIds()

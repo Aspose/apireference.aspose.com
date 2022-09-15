@@ -18,7 +18,7 @@ public class GlyphOutlineRenderer : GlyphRendererBase
 
 | Имя | Описание |
 | --- | --- |
-| [GlyphOutlineRenderer](glyphoutlinerenderer)(IGlyphOutlinePainter) | Инициализирует новый объект[`GlyphOutlineRenderer`](../glyphoutlinerenderer). |
+| [GlyphOutlineRenderer](glyphoutlinerenderer)(IGlyphOutlinePainter) | Инициализирует новый[`GlyphOutlineRenderer`](../glyphoutlinerenderer) объект. |
 
 ## Методы
 
@@ -29,7 +29,7 @@ public class GlyphOutlineRenderer : GlyphRendererBase
 | [RenderGlyph](../../aspose.font.renderers/glyphrendererbase/renderglyph)(IFont, GlyphId, TransformationMatrix) | Визуализирует глиф. |
 | [RenderGlyph](../../aspose.font.renderers/glyphrendererbase/renderglyph)(IFont, uint, TransformationMatrix) | Визуализирует глиф. |
 | [RenderGlyph](../../aspose.font.renderers/glyphrendererbase/renderglyph)(IFont, GlyphId, Glyph, TransformationMatrix) | Отрисовывает глиф, цель этой перегруженной версии - использовать с кешем для глифов. |
-| [RenderIndependentGlyphPath](../../aspose.font.renderers/glyphrendererbase/renderindependentglyphpath)(IFont, GlyphId, Glyph, TransformationMatrix) | Визуализирует глиф, используя независимый путь глифа. Семейство функций RenderGlyph() изменяет путь глифа при рендеринге. Это приводит к необходимости перезагружать этот глиф заново. Эта функция использует копию пути глифа и не изменяет исходный путь глифа, поэтому один и тот же глиф можно использовать несколько раз. Эта версия функции предназначена для использования с кешем глифов. |
+| [RenderIndependentGlyphPath](../../aspose.font.renderers/glyphrendererbase/renderindependentglyphpath)(IFont, GlyphId, Glyph, TransformationMatrix) | Визуализирует глиф, используя независимый путь глифа. Семейство функций RenderGlyph() изменяет путь глифа при рендеринге. Затем это приводит к необходимости перезагружать этот глиф заново. Эта функция использует копию пути глифа и не изменяет исходный путь глифа, поэтому один и тот же глиф можно использовать несколько раз. Эта версия функции предназначена для использования с кешем глифов. |
 
 ### Смотрите также
 

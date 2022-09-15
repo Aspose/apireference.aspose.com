@@ -1,14 +1,14 @@
 ---
 title: RegisterEncoding
 second_title: Справочник по API Aspose.Font для .NET
-description: Зарегистрируйте кодировку для потребительских шрифтов.
+description: Зарегистрировать кодировку для потребительских шрифтов.
 type: docs
 weight: 10
 url: /ru/net/aspose.font.type1/fontspecificencodings/registerencoding/
 ---
 ## FontSpecificEncodings.RegisterEncoding method
 
-Зарегистрируйте кодировку для потребительских шрифтов.
+Зарегистрировать кодировку для потребительских шрифтов.
 
 ```csharp
 public void RegisterEncoding(string fontName, string[] encoding)
@@ -17,7 +17,7 @@ public void RegisterEncoding(string fontName, string[] encoding)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | fontName | String | Название шрифта. |
-| encoding | String[] | Кодировка. |
+| encoding | String[] | Кодирование. |
 
 ### Смотрите также
 

@@ -1,14 +1,14 @@
 ---
 title: UnitsPerEM
 second_title: Aspose.Font for .NET API 参考
-description: 获取每 em 的单位
+description: 获取每个 em 的单位
 type: docs
 weight: 100
 url: /zh/net/aspose.font/ifontmetrics/unitsperem/
 ---
 ## IFontMetrics.UnitsPerEM property
 
-获取每 em 的单位。
+获取每个 em 的单位。
 
 ```csharp
 public uint UnitsPerEM { get; set; }

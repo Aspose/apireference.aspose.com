@@ -1,14 +1,14 @@
 ---
 title: FontNotSupportedOperationException
 second_title: Aspose.Font for .NET API 参考
-description: 初始化新的FontNotSupportedOperationExceptionaspose.font.exceptions/fontnotsupportedoperationexception对象
+description: 初始化新的FontNotSupportedOperationExceptionaspose.font.exceptions/fontnotsupportedoperationexception对象.
 type: docs
 weight: 10
 url: /zh/net/aspose.font.exceptions/fontnotsupportedoperationexception/fontnotsupportedoperationexception/
 ---
 ## FontNotSupportedOperationException() {#constructor}
 
-初始化新的[`FontNotSupportedOperationException`](../../fontnotsupportedoperationexception)对象。
+初始化新的[`FontNotSupportedOperationException`](../../fontnotsupportedoperationexception)对象.
 
 ```csharp
 public FontNotSupportedOperationException()
@@ -24,7 +24,7 @@ public FontNotSupportedOperationException()
 
 ## FontNotSupportedOperationException(string) {#constructor_2}
 
-初始化新的[`FontNotSupportedOperationException`](../../fontnotsupportedoperationexception)对象。
+初始化新的[`FontNotSupportedOperationException`](../../fontnotsupportedoperationexception)对象.
 
 ```csharp
 public FontNotSupportedOperationException(string message)
@@ -44,7 +44,7 @@ public FontNotSupportedOperationException(string message)
 
 ## FontNotSupportedOperationException(string, Exception) {#constructor_3}
 
-初始化新的[`FontNotSupportedOperationException`](../../fontnotsupportedoperationexception)对象。
+初始化新的[`FontNotSupportedOperationException`](../../fontnotsupportedoperationexception)对象.
 
 ```csharp
 public FontNotSupportedOperationException(string message, Exception innerException)
@@ -65,7 +65,7 @@ public FontNotSupportedOperationException(string message, Exception innerExcepti
 
 ## FontNotSupportedOperationException(SerializationInfo, StreamingContext) {#constructor_1}
 
-初始化新的[`FontNotSupportedOperationException`](../../fontnotsupportedoperationexception)对象。
+初始化新的[`FontNotSupportedOperationException`](../../fontnotsupportedoperationexception)对象.
 
 ```csharp
 public FontNotSupportedOperationException(SerializationInfo info, StreamingContext context)

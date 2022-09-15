@@ -1,14 +1,14 @@
 ---
 title: TtfCvtTable
 second_title: Справочник по API Aspose.Font для .NET
-description: Представляет таблицу контрольных значений CVT файла шрифта TTF.
+description: Представляет таблицу управляющих значений CVT файла шрифта TTF.
 type: docs
-weight: 780
+weight: 790
 url: /ru/net/aspose.font.ttftables/ttfcvttable/
 ---
 ## TtfCvtTable class
 
-Представляет таблицу контрольных значений (CVT) файла шрифта TTF.
+Представляет таблицу управляющих значений (CVT) файла шрифта TTF.
 
 ```csharp
 public class TtfCvtTable : TtfTableBase

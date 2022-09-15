@@ -1,14 +1,14 @@
 ---
 title: HeadTable
 second_title: Справочник по API Aspose.Font для .NET
-description: Получает главный стол.
+description: Получает главную таблицу.
 type: docs
 weight: 60
 url: /ru/net/aspose.font.ttftables/ttftablerepository/headtable/
 ---
 ## TtfTableRepository.HeadTable property
 
-Получает главный стол.
+Получает главную таблицу.
 
 ```csharp
 public TtfHeadTable HeadTable { get; }

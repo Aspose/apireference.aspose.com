@@ -1,14 +1,14 @@
 ---
 title: Offset
 second_title: Aspose.Font for .NET API 参考
-description: 获取或设置源内部的偏移量
+description: 获取或设置源内的偏移量
 type: docs
 weight: 20
 url: /zh/net/aspose.font.sources/streamsource/offset/
 ---
 ## StreamSource.Offset property
 
-获取或设置源内部的偏移量。
+获取或设置源内的偏移量。
 
 ```csharp
 public long Offset { get; set; }

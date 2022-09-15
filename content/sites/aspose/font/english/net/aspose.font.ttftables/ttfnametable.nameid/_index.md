@@ -3,7 +3,7 @@ title: TtfNameTable.NameId
 second_title: Aspose.Font for .NET API Reference
 description: Represents NameId.
 type: docs
-weight: 950
+weight: 960
 url: /net/aspose.font.ttftables/ttfnametable.nameid/
 ---
 ## TtfNameTable.NameId enumeration
@@ -37,6 +37,12 @@ public enum NameId : ushort
 | PreferredSubfamily | `17` | 17 Preferred Subfamily (Windows only); In Windows, the Family name is displayed in the Font menu; the Subfamily name is presented as the Style name. For historical reasons, Font families have contained a maximum of four styles, but Font designers may group more than four fonts to a single family. The Preferred Family and Preferred Subfamily IDs allow Font designers to include the preferred family/subfamily groupings. These IDs are only present if they are different from IDs 1 and 2. |
 | CompatibleFull | `18` | 18 Compatible Full (Macintosh only); On the Macintosh, the menu name is constructed using the Font resource. This usually matches the Full Name. If you want the name of the Font to appear differently than the Full Name, you can insert the Compatible Full Name in ID 18. This name is not used by the Mac OS itself, but may be used by application developers (e.g., Adobe). |
 | SampleText | `19` | 19 Sample text. This can be the Font name, or any other text that the designer thinks is the best sample text to show what the Font looks like. |
+| PostScriptCID | `20` | Its presence in a font means that the nameID 6 holds a PostScript font name that is meant to be used with the “composefont” invocation in order to invoke the font in a PostScript interpreter |
+| WwsFamilyName | `21` | Used to provide a WWS-conformant family name in case the entries for IDs 16 and 17 do not conform to the WWS model |
+| WwsSubfamilyName | `22` | Used in conjunction with ID 21, this ID provides a WWS-conformant subfamily name (reflecting only weight, width and slope attributes) in case the entries for IDs 16 and 17 do not conform to the WWS model |
+| LightBackground | `23` | This ID, if used in the CPAL table’s Palette Labels Array, specifies that the corresponding color palette in the CPAL table is appropriate to use with the font when displaying it on a light background such as white |
+| DarkBackground | `24` | This ID, if used in the CPAL table’s Palette Labels Array, specifies that the corresponding color palette in the CPAL table is appropriate to use with the font when displaying it on a dark background such as black |
+| VariationsPostScriptNamePrefix | `25` | If present in a variable font, it may be used as the family prefix in the PostScript Name Generation for Variation Fonts algorithm |
 
 ### See Also
 

@@ -1,14 +1,14 @@
 ---
 title: MaxSizeOfInstructions
 second_title: Справочник по API Aspose.Font для .NET
-description: Получает uint16 maxSizeOfInstructions количество байтов для инструкций глифа.
+description: Получает количество байтов uint16 maxSizeOfInstructions для инструкций глифов.
 type: docs
 weight: 90
 url: /ru/net/aspose.font.ttftables/ttfmaxptable/maxsizeofinstructions/
 ---
 ## TtfMaxpTable.MaxSizeOfInstructions property
 
-Получает uint16 maxSizeOfInstructions количество байтов для инструкций глифа.
+Получает количество байтов uint16 maxSizeOfInstructions для инструкций глифов.
 
 ```csharp
 public ushort MaxSizeOfInstructions { get; }

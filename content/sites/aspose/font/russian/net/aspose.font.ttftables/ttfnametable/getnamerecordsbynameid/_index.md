@@ -1,14 +1,14 @@
 ---
 title: GetNameRecordsByNameId
 second_title: Справочник по API Aspose.Font для .NET
-description: Возвращает все структурыNameRecordaspose.font.ttftables/ttfnametable.namerecord поле NameId которых равно переданномуnameIdценность. Если записей не найдено будет возвращен пустой массив.
+description: Возвращает всеNameRecordaspose.font.ttftables/ttfnametable.namerecord структуры поле NameId которых равно для передачиnameId ценность. Если записей не найдено будет возвращен пустой массив.
 type: docs
-weight: 50
+weight: 80
 url: /ru/net/aspose.font.ttftables/ttfnametable/getnamerecordsbynameid/
 ---
 ## TtfNameTable.GetNameRecordsByNameId method
 
-Возвращает все структуры[`NameRecord`](../../ttfnametable.namerecord), поле NameId которых равно переданному*nameId*ценность. Если записей не найдено, будет возвращен пустой массив.
+Возвращает все[`NameRecord`](../../ttfnametable.namerecord) структуры, поле NameId которых равно для передачи*nameId* ценность. Если записей не найдено, будет возвращен пустой массив.
 
 ```csharp
 public NameRecord[] GetNameRecordsByNameId(NameId nameId)
@@ -20,7 +20,7 @@ public NameRecord[] GetNameRecordsByNameId(NameId nameId)
 
 ### Возвращаемое значение
 
-Массив[`NameRecord`](../../ttfnametable.namerecord)структуры
+Массив[`NameRecord`](../../ttfnametable.namerecord) структуры
 
 ### Смотрите также
 

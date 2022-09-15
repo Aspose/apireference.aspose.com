@@ -1,14 +1,14 @@
 ---
 title: MaxZones
 second_title: Справочник по API Aspose.Font для .NET
-description: Устанавливает для uint16 maxZones значение 2.
+description: Получает для uint16 maxZones значение 2.
 type: docs
 weight: 130
 url: /ru/net/aspose.font.ttftables/ttfmaxptable/maxzones/
 ---
 ## TtfMaxpTable.MaxZones property
 
-Устанавливает для uint16 maxZones значение 2.
+Получает для uint16 maxZones значение 2.
 
 ```csharp
 public ushort MaxZones { get; }

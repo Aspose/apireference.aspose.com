@@ -61,7 +61,7 @@ public FontFileDefinition(string fileExtension, StreamSource streamSource, long 
 | --- | --- | --- |
 | fileExtension | String | 字体文件扩展名。 |
 | streamSource | StreamSource | 字体流源。 |
-| offset | Int64 | 偏移到流源中的字体数据。 |
+| offset | Int64 | 流源中字体数据的偏移量。 |
 
 ### 也可以看看
 
@@ -82,7 +82,7 @@ public FontFileDefinition(FileInfo fontFile)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| fontFile | FileInfo | 字体文件信息对象。 |
+| fontFile | FileInfo | 字体 FileInfo 对象。 |
 
 ### 也可以看看
 

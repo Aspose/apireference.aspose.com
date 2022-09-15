@@ -18,9 +18,9 @@ public TtcFontFileDefinition(int fontIndex, string fileExtension, StreamSource s
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | fontIndex | Int32 | TTC 字体集合中的字体索引。 |
-| fileExtension | String | 字体文件集合的扩展名。 |
+| fileExtension | String | 字体文件集合的扩展。 |
 | streamSource | StreamSource | 字体文件集合的来源。 |
-| offset | Int64 | 字体文件集合中字体数据的偏移量， 参见 TTC 标题，OpenType 字体文件规范中的偏移量表。 |
+| offset | Int64 | 字体文件集合中字体数据的偏移量， 参见 TTC 标头，OpenType 字体文件规范中的偏移量表。 |
 
 ### 也可以看看
 

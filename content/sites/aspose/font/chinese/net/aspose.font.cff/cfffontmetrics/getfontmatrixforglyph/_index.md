@@ -1,14 +1,14 @@
 ---
 title: GetFontMatrixForGlyph
 second_title: Aspose.Font for .NET API 参考
-description: 计算由 id 指定的字形的变换矩阵
+description: 计算由 id. 指定的字形的变换矩阵
 type: docs
 weight: 60
 url: /zh/net/aspose.font.cff/cfffontmetrics/getfontmatrixforglyph/
 ---
 ## CffFontMetrics.GetFontMatrixForGlyph method
 
-计算由 id 指定的字形的变换矩阵。
+计算由 id. 指定的字形的变换矩阵
 
 ```csharp
 public TransformationMatrix GetFontMatrixForGlyph(GlyphId glyphId)

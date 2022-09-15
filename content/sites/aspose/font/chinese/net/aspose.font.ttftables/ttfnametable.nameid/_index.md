@@ -1,14 +1,14 @@
 ---
 title: TtfNameTable.NameId
 second_title: Aspose.Font for .NET API 参考
-description: 表示 NameId
+description: 代表 NameId
 type: docs
-weight: 940
+weight: 950
 url: /zh/net/aspose.font.ttftables/ttfnametable.nameid/
 ---
 ## TtfNameTable.NameId enumeration
 
-表示 NameId。
+代表 NameId。
 
 ```csharp
 public enum NameId : ushort
@@ -21,12 +21,12 @@ public enum NameId : ushort
 | CopyrightNotice | `0` | 0 版权声明。 |
 | FontFamily | `1` | 1 个字体系列。此字符串是用户在 Macintosh 平台上看到的字体系列名称。 |
 | FontSubfamily | `2` | 2 字体子系列。此字符串是用户在 Macintosh 平台上看到的字体系列。 |
-| UniqueFontId | `3` | 3 唯一的亚科标识（Apple 规范）。 3 唯一字体标识符（MS 规范）。 |
-| FullName | `4` | 4 字体的全名。 |
+| UniqueFontId | `3` | 3 唯一子家族标识（Apple 规范）。 3 唯一字体标识符（MS 规范）。 |
+| FullName | `4` | 4 字体全名 |
 | Version | `5` | 5 名称表的版本。 |
-| PostScriptName | `6` | 6 字体的 PostScript 名称。注意：字体可能只有一个 PostScript 名称，并且该名称必须是 ASCII。 |
+| PostScriptName | `6` | 6 字体的 PostScript 名称。注意：字体可能只有一个 PostScript 名称，并且该名称必须是 ASCII. |
 | TrademarkNotice | `7` | 7 商标声明。 |
-| ManufacturerName | `8` | 8 制造商名称。 |
+| ManufacturerName | `8` | 8 制造商名称. |
 | DesignerName | `9` | 9 设计师；字体设计者的名字。 |
 | Description | `10` | 10 说明；字体的描述。可以包含修订信息、使用建议、历史记录、功能等。 |
 | UrlVendor | `11` | 11 字体供应商的 URL（带有协议，例如 http://、ftp://）。如果 URL 中嵌入了唯一的序列号，则可以使用它来注册字体。 |
@@ -36,7 +36,7 @@ public enum NameId : ushort
 | PreferredFamily | `16` | 15 保留 16 首选系列（仅限 Windows）；在 Windows 中，家族名称显示在字体菜单中；亚科名称显示为样式名称。由于历史原因，字体系列最多包含四种样式，但字体设计者可能会将四种以上的字体组合到一个系列中。首选系列和首选子系列 ID 允许字体设计者包含首选系列/子系列分组。这些 ID 仅在它们不同于 ID 1 和 2 时才存在。 |
 | PreferredSubfamily | `17` | 17 首选子系列（仅限 Windows）；在 Windows 中，家族名称显示在字体菜单中；亚科名称显示为样式名称。由于历史原因，字体系列最多包含四种样式，但字体设计者可能会将四种以上的字体组合到一个系列中。首选系列和首选子系列 ID 允许字体设计者包含首选系列/子系列分组。这些 ID 仅在它们不同于 ID 1 和 2 时才存在。 |
 | CompatibleFull | `18` | 18 完全兼容（仅限 Macintosh）；在 Macintosh 上，菜单名称是使用字体资源构造的。这通常与全名匹配。如果您希望字体名称与全名不同，您可以在 ID 18 中插入兼容全名。Mac OS 本身不使用此名称，但应用程序开发人员（例如 Adobe）可能会使用此名称. |
-| SampleText | `19` | 19 示例文本。这可以是字体名称，也可以是设计人员认为是显示字体外观的最佳示例文本的任何其他文本。 |
+| SampleText | `19` | 19 示例文本。这可以是字体名称，也可以是设计者认为是显示字体外观的最佳示例文本的任何其他文本。 |
 
 ### 也可以看看
 

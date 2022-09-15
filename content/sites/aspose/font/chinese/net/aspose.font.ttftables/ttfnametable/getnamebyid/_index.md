@@ -3,7 +3,7 @@ title: GetNameById
 second_title: Aspose.Font for .NET API 参考
 description: 如果找到则按 nameId 返回名称否则返回 null
 type: docs
-weight: 40
+weight: 70
 url: /zh/net/aspose.font.ttftables/ttfnametable/getnamebyid/
 ---
 ## TtfNameTable.GetNameById method
@@ -20,7 +20,7 @@ public string GetNameById(NameId nameId)
 
 ### 返回值
 
-名称
+姓名
 
 ### 也可以看看
 

@@ -18,8 +18,8 @@ public class MoveTo : IPathSegment
 
 | 姓名 | 描述 |
 | --- | --- |
-| [X](../../aspose.font.renderingpath/moveto/x) { get; } | 获取坐标 x。 |
-| [Y](../../aspose.font.renderingpath/moveto/y) { get; } | 获取坐标 y。 |
+| [X](../../aspose.font.renderingpath/moveto/x) { get; } | 获取坐标 x. |
+| [Y](../../aspose.font.renderingpath/moveto/y) { get; } | 获取坐标 |
 
 ## 方法
 

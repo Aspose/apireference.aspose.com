@@ -1,14 +1,14 @@
 ---
 title: Version
 second_title: Справочник по API Aspose.Font для .NET
-description: Получает фиксированную версию 0x00010000 if версия 1.0.
+description: Получает фиксированную версию 0x00010000 if версия 1.0. Устарело используйтеTableVersionaspose.font.ttftables/ttfmaxptable/tableversionвместо свойства .
 type: docs
-weight: 150
+weight: 160
 url: /ru/net/aspose.font.ttftables/ttfmaxptable/version/
 ---
 ## TtfMaxpTable.Version property
 
-Получает фиксированную версию 0x00010000 if (версия 1.0).
+Получает фиксированную версию 0x00010000 if (версия 1.0). Устарело, используйте[`TableVersion`](../tableversion)вместо свойства .
 
 ```csharp
 public float Version { get; }

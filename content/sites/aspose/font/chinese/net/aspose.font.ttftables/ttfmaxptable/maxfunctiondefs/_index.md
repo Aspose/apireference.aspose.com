@@ -1,14 +1,14 @@
 ---
 title: MaxFunctionDefs
 second_title: Aspose.Font for .NET API 参考
-description: 获取 uint16 maxFunctionDefs 数量的 FDEF
+description: 获取 uint16 maxFunctionDefs 的 FDEF 数量
 type: docs
 weight: 60
 url: /zh/net/aspose.font.ttftables/ttfmaxptable/maxfunctiondefs/
 ---
 ## TtfMaxpTable.MaxFunctionDefs property
 
-获取 uint16 maxFunctionDefs 数量的 FDEF。
+获取 uint16 maxFunctionDefs 的 FDEF 数量。
 
 ```csharp
 public ushort MaxFunctionDefs { get; }

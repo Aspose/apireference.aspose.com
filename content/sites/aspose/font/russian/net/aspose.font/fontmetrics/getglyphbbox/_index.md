@@ -20,7 +20,7 @@ public virtual FontBBox GetGlyphBBox(GlyphId glyphId)
 
 ### Возвращаемое значение
 
-Glyph BBox.
+Глиф BBox.
 
 ### Смотрите также
 

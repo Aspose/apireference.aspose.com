@@ -1,14 +1,14 @@
 ---
 title: FontNotSupportedOperationException
 second_title: Справочник по API Aspose.Font для .NET
-description: Инициализирует новый объектFontNotSupportedOperationExceptionaspose.font.exceptions/fontnotsupportedoperationexception.
+description: Инициализирует новыйFontNotSupportedOperationExceptionaspose.font.exceptions/fontnotsupportedoperationexception объект.
 type: docs
 weight: 10
 url: /ru/net/aspose.font.exceptions/fontnotsupportedoperationexception/fontnotsupportedoperationexception/
 ---
 ## FontNotSupportedOperationException() {#constructor}
 
-Инициализирует новый объект[`FontNotSupportedOperationException`](../../fontnotsupportedoperationexception).
+Инициализирует новый[`FontNotSupportedOperationException`](../../fontnotsupportedoperationexception) объект.
 
 ```csharp
 public FontNotSupportedOperationException()
@@ -24,7 +24,7 @@ public FontNotSupportedOperationException()
 
 ## FontNotSupportedOperationException(string) {#constructor_2}
 
-Инициализирует новый объект[`FontNotSupportedOperationException`](../../fontnotsupportedoperationexception).
+Инициализирует новый[`FontNotSupportedOperationException`](../../fontnotsupportedoperationexception) объект.
 
 ```csharp
 public FontNotSupportedOperationException(string message)
@@ -32,7 +32,7 @@ public FontNotSupportedOperationException(string message)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| message | String | Сообщение с описанием ошибки. |
+| message | String | Сообщение, описывающее ошибку. |
 
 ### Смотрите также
 
@@ -44,7 +44,7 @@ public FontNotSupportedOperationException(string message)
 
 ## FontNotSupportedOperationException(string, Exception) {#constructor_3}
 
-Инициализирует новый объект[`FontNotSupportedOperationException`](../../fontnotsupportedoperationexception).
+Инициализирует новый[`FontNotSupportedOperationException`](../../fontnotsupportedoperationexception) объект.
 
 ```csharp
 public FontNotSupportedOperationException(string message, Exception innerException)
@@ -52,8 +52,8 @@ public FontNotSupportedOperationException(string message, Exception innerExcepti
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| message | String | Сообщение с описанием ошибки. |
-| innerException | Exception | Исключение, являющееся причиной текущего исключения. |
+| message | String | Сообщение, описывающее ошибку. |
+| innerException | Exception | Исключение, которое является причиной текущего исключения. |
 
 ### Смотрите также
 
@@ -65,7 +65,7 @@ public FontNotSupportedOperationException(string message, Exception innerExcepti
 
 ## FontNotSupportedOperationException(SerializationInfo, StreamingContext) {#constructor_1}
 
-Инициализирует новый объект[`FontNotSupportedOperationException`](../../fontnotsupportedoperationexception).
+Инициализирует новый[`FontNotSupportedOperationException`](../../fontnotsupportedoperationexception) объект.
 
 ```csharp
 public FontNotSupportedOperationException(SerializationInfo info, StreamingContext context)

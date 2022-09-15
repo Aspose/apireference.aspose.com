@@ -1,14 +1,14 @@
 ---
 title: GetLicenseFlags
 second_title: Справочник по API Aspose.Font для .NET
-description: Получает встроенные флаги fsType в представлении объекта.
+description: Получает встроенные флаги fsType в объектном представлении.
 type: docs
 weight: 350
 url: /ru/net/aspose.font.ttftables/ttfos2table/getlicenseflags/
 ---
 ## TtfOs2Table.GetLicenseFlags method
 
-Получает встроенные флаги (fsType) в представлении объекта.
+Получает встроенные флаги (fsType) в объектном представлении.
 
 ```csharp
 public LicenseFlags GetLicenseFlags()

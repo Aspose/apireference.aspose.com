@@ -1,14 +1,14 @@
 ---
 title: B
 second_title: Aspose.Font for .NET API 参考
-description: 获取或设置 B 变换矩阵值
+description: 获取或设置B变换矩阵值
 type: docs
 weight: 30
 url: /zh/net/aspose.font/transformationmatrix/b/
 ---
 ## TransformationMatrix.B property
 
-获取或设置 B 变换矩阵值。
+获取或设置B变换矩阵值。
 
 ```csharp
 public double B { get; set; }

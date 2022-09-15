@@ -3,7 +3,7 @@ title: TtfNameTable.NameRecord
 second_title: Aspose.Font for .NET API 参考
 description: 表示name表的NameRecord结构
 type: docs
-weight: 950
+weight: 960
 url: /zh/net/aspose.font.ttftables/ttfnametable.namerecord/
 ---
 ## TtfNameTable.NameRecord class
@@ -27,7 +27,7 @@ public class NameRecord
 | [LanguageId](../../aspose.font.ttftables/namerecord/languageid) { get; } | 语言标识符 |
 | [NameId](../../aspose.font.ttftables/namerecord/nameid) { get; } | 名称标识符 |
 | [PlatformId](../../aspose.font.ttftables/namerecord/platformid) { get; } | 平台标识符代码 |
-| [PlatformSpecificId](../../aspose.font.ttftables/namerecord/platformspecificid) { get; } | 平台特定的编码标识符 |
+| [PlatformSpecificId](../../aspose.font.ttftables/namerecord/platformspecificid) { get; } | 平台特定编码标识符 |
 | [String](../../aspose.font.ttftables/namerecord/string) { get; } | 与该名称记录相关的字符串存储中的字符串。 |
 
 ### 也可以看看

@@ -1,14 +1,14 @@
 ---
 title: WidthVectorX
 second_title: Справочник по API Aspose.Font для .NET
-description: Получает вектор ширины глифа. Координата х.
+description: Получает вектор ширины глифа. Координата x.
 type: docs
 weight: 80
 url: /ru/net/aspose.font.glyphs/glyph/widthvectorx/
 ---
 ## Glyph.WidthVectorX property
 
-Получает вектор ширины глифа. Координата х.
+Получает вектор ширины глифа. Координата x.
 
 ```csharp
 public double WidthVectorX { get; }

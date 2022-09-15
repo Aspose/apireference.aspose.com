@@ -3,7 +3,7 @@ title: TtfFpgmTable
 second_title: Aspose.Font for .NET API 参考
 description: 表示 TTF 字体文件的fpgm表
 type: docs
-weight: 790
+weight: 800
 url: /zh/net/aspose.font.ttftables/ttffpgmtable/
 ---
 ## TtfFpgmTable class
@@ -18,7 +18,7 @@ public class TtfFpgmTable : TtfTableBase
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Offset](../../aspose.font.ttftables/ttftablebase/offset) { get; } | 从 sfnt 开始处获取偏移量。 |
+| [Offset](../../aspose.font.ttftables/ttftablebase/offset) { get; } | 获取从 sfnt 开始的偏移量。 |
 | [Program](../../aspose.font.ttftables/ttffpgmtable/program) { get; } | 获取 fpgm 程序。 |
 | [TtfTables](../../aspose.font.ttftables/ttftablebase/ttftables) { get; } | 对 TTF 表存储库的引用。 |
 | static [Tag](../../aspose.font.ttftables/ttffpgmtable/tag) { get; } | 获取表标签。 |

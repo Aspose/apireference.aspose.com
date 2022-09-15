@@ -1,14 +1,14 @@
 ---
 title: TtfEncodingParameters
 second_title: Aspose.Font for .NET API 参考
-description: 初始化 TtfEncodingParameters 类的新实例 以 Platform Id平台特定的编码 id 作为参数 这些参数用于从主字体 CMap 表中请求特殊的 CMap 子表 请参见 OpenType 字体文件规范中的表 CMapname
+description: 初始化 TtfEncodingParameters 类的新实例 以平台 ID平台特定编码 id 作为参数 这些参数用于从主字体 CMap 表中请求特殊的 CMap 子表 见表 CMapOpenType 字体文件中的名称规格.
 type: docs
 weight: 10
 url: /zh/net/aspose.font.ttf/ttfencodingparameters/ttfencodingparameters/
 ---
 ## TtfEncodingParameters constructor
 
-初始化 TtfEncodingParameters 类的新实例。 以 Platform Id，平台特定的编码 id 作为参数。 这些参数用于从主字体 CMap 表中请求特殊的 CMap 子表， 请参见 OpenType 字体文件规范中的表 'CMap'、'name'。
+初始化 TtfEncodingParameters 类的新实例。 以平台 ID，平台特定编码 id 作为参数。 这些参数用于从主字体 CMap 表中请求特殊的 CMap 子表， 见表 'CMap'，OpenType 字体文件中的'名称'规格.
 
 ```csharp
 public TtfEncodingParameters(ushort platformId, ushort platformSpecificId)
@@ -16,8 +16,8 @@ public TtfEncodingParameters(ushort platformId, ushort platformSpecificId)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| platformId | UInt16 | 平台 ID。 |
-| platformSpecificId | UInt16 | 平台特定的编码 id。 |
+| platformId | UInt16 | 平台标识。 |
+| platformSpecificId | UInt16 | 特定于平台的编码 ID。 |
 
 ### 也可以看看
 

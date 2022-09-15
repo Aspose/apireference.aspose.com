@@ -1,14 +1,14 @@
 ---
 title: CffParsingException
 second_title: Справочник по API Aspose.Font для .NET
-description: Инициализирует новый объектCffParsingExceptionaspose.font.cffexceptions/cffparsingexception.
+description: Инициализирует новыйCffParsingExceptionaspose.font.cffexceptions/cffparsingexception объект.
 type: docs
 weight: 10
 url: /ru/net/aspose.font.cffexceptions/cffparsingexception/cffparsingexception/
 ---
 ## CffParsingException() {#constructor}
 
-Инициализирует новый объект[`CffParsingException`](../../cffparsingexception).
+Инициализирует новый[`CffParsingException`](../../cffparsingexception) объект.
 
 ```csharp
 public CffParsingException()
@@ -24,7 +24,7 @@ public CffParsingException()
 
 ## CffParsingException(string) {#constructor_2}
 
-Инициализирует новый объект[`CffParsingException`](../../cffparsingexception).
+Инициализирует новый[`CffParsingException`](../../cffparsingexception) объект.
 
 ```csharp
 public CffParsingException(string message)
@@ -32,7 +32,7 @@ public CffParsingException(string message)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| message | String | Сообщение с описанием ошибки. |
+| message | String | Сообщение, описывающее ошибку. |
 
 ### Смотрите также
 
@@ -44,7 +44,7 @@ public CffParsingException(string message)
 
 ## CffParsingException(string, Exception) {#constructor_3}
 
-Инициализирует новый объект[`CffParsingException`](../../cffparsingexception).
+Инициализирует новый[`CffParsingException`](../../cffparsingexception) объект.
 
 ```csharp
 public CffParsingException(string message, Exception innerException)
@@ -52,8 +52,8 @@ public CffParsingException(string message, Exception innerException)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| message | String | Сообщение с описанием ошибки. |
-| innerException | Exception | Исключение, являющееся причиной текущего исключения. |
+| message | String | Сообщение, описывающее ошибку. |
+| innerException | Exception | Исключение, которое является причиной текущего исключения. |
 
 ### Смотрите также
 
@@ -65,7 +65,7 @@ public CffParsingException(string message, Exception innerException)
 
 ## CffParsingException(SerializationInfo, StreamingContext) {#constructor_1}
 
-Инициализирует новый объект[`CffParsingException`](../../cffparsingexception).
+Инициализирует новый[`CffParsingException`](../../cffparsingexception) объект.
 
 ```csharp
 public CffParsingException(SerializationInfo info, StreamingContext context)

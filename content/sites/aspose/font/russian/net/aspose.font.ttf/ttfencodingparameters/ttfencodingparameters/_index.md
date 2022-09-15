@@ -1,14 +1,14 @@
 ---
 title: TtfEncodingParameters
 second_title: Справочник по API Aspose.Font для .NET
-description: Инициализирует новый экземпляр класса TtfEncodingParameters. В качестве параметров принимает идентификатор платформы идентификатор кодировки для конкретной платформы. Эти параметры используются для запроса специальной подтаблицы CMap из таблицы CMap основного шрифта см. таблицу CMap name в спецификации файла шрифта OpenType.
+description: Инициализирует новый экземпляр класса TtfEncodingParameters. В качестве параметров принимает идентификатор платформы идентификатор кодировки для конкретной платформы. спецификация.
 type: docs
 weight: 10
 url: /ru/net/aspose.font.ttf/ttfencodingparameters/ttfencodingparameters/
 ---
 ## TtfEncodingParameters constructor
 
-Инициализирует новый экземпляр класса TtfEncodingParameters. В качестве параметров принимает идентификатор платформы, идентификатор кодировки для конкретной платформы. Эти параметры используются для запроса специальной подтаблицы CMap из таблицы CMap основного шрифта, см. таблицу 'CMap', 'name' в спецификации файла шрифта OpenType.
+Инициализирует новый экземпляр класса TtfEncodingParameters. В качестве параметров принимает идентификатор платформы, идентификатор кодировки для конкретной платформы. спецификация.
 
 ```csharp
 public TtfEncodingParameters(ushort platformId, ushort platformSpecificId)

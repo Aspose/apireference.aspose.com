@@ -17,7 +17,7 @@ public void SaveToFormat(Stream stream, FontSavingFormats outFormat)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | stream | Stream | поток для сохранения шрифта |
-| outFormat | FontSavingFormats | нужный формат |
+| outFormat | FontSavingFormats | желаемый формат |
 
 ### Смотрите также
 

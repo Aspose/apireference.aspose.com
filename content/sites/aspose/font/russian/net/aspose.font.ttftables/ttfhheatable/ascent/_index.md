@@ -1,14 +1,14 @@
 ---
 title: Ascent
 second_title: Справочник по API Aspose.Font для .NET
-description: Получает подъем.
+description: Получает восхождение.
 type: docs
 weight: 20
 url: /ru/net/aspose.font.ttftables/ttfhheatable/ascent/
 ---
 ## TtfHheaTable.Ascent property
 
-Получает подъем.
+Получает восхождение.
 
 ```csharp
 public short Ascent { get; }

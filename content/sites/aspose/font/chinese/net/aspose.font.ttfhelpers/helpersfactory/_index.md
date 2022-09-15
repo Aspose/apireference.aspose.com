@@ -1,14 +1,14 @@
 ---
 title: HelpersFactory
 second_title: Aspose.Font for .NET API 参考
-description: 创建与 TtfHelpers 命名空间相关的对象
+description: 创建与 TtfHelpers namespace 相关的对象
 type: docs
-weight: 730
+weight: 740
 url: /zh/net/aspose.font.ttfhelpers/helpersfactory/
 ---
 ## HelpersFactory class
 
-创建与 TtfHelpers 命名空间相关的对象
+创建与 TtfHelpers namespace 相关的对象
 
 ```csharp
 public static class HelpersFactory

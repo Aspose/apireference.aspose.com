@@ -3,7 +3,7 @@ title: FontException
 second_title: Aspose.Font for .NET API Reference
 description: Represents common Font processing related exception.
 type: docs
-weight: 100
+weight: 110
 url: /net/aspose.font.exceptions/fontexception/
 ---
 ## FontException class

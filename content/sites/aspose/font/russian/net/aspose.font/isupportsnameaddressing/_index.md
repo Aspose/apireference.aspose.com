@@ -1,14 +1,14 @@
 ---
 title: ISupportsNameAddressing
 second_title: Справочник по API Aspose.Font для .NET
-description: Определяет члены специфичные для кодировок поддерживающих адресацию имен глифов.
+description: Определяет элементы характерные для кодировок поддерживающих адресацию имени глифа.
 type: docs
 weight: 360
 url: /ru/net/aspose.font/isupportsnameaddressing/
 ---
 ## ISupportsNameAddressing interface
 
-Определяет члены, специфичные для кодировок, поддерживающих адресацию имен глифов.
+Определяет элементы, характерные для кодировок, поддерживающих адресацию имени глифа.
 
 ```csharp
 public interface ISupportsNameAddressing

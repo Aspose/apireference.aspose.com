@@ -1,14 +1,14 @@
 ---
 title: FontSpecificEncodings
 second_title: Справочник по API Aspose.Font для .NET
-description: Представляет определенные кодировки для шрифтов ориентированных на потребителя.
+description: Представляет определенные кодировки для потребительских шрифтов.
 type: docs
-weight: 1030
+weight: 1040
 url: /ru/net/aspose.font.type1/fontspecificencodings/
 ---
 ## FontSpecificEncodings class
 
-Представляет определенные кодировки для шрифтов, ориентированных на потребителя.
+Представляет определенные кодировки для потребительских шрифтов.
 
 ```csharp
 public class FontSpecificEncodings
@@ -18,7 +18,7 @@ public class FontSpecificEncodings
 
 | Имя | Описание |
 | --- | --- |
-| [RegisterEncoding](../../aspose.font.type1/fontspecificencodings/registerencoding)(string, string[]) | Зарегистрируйте кодировку для потребительских шрифтов. |
+| [RegisterEncoding](../../aspose.font.type1/fontspecificencodings/registerencoding)(string, string[]) | Зарегистрировать кодировку для потребительских шрифтов. |
 
 ### Смотрите также
 

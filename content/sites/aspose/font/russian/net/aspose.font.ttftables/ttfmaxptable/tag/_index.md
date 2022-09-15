@@ -3,7 +3,7 @@ title: Tag
 second_title: Справочник по API Aspose.Font для .NET
 description: Получает тег таблицы.
 type: docs
-weight: 160
+weight: 170
 url: /ru/net/aspose.font.ttftables/ttfmaxptable/tag/
 ---
 ## TtfMaxpTable.Tag property

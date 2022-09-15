@@ -1,14 +1,14 @@
 ---
 title: GlyfTable
 second_title: Aspose.Font for .NET API 参考
-description: 获取 glyf 表
+description: 获取字形表
 type: docs
 weight: 50
 url: /zh/net/aspose.font.ttftables/ttftablerepository/glyftable/
 ---
 ## TtfTableRepository.GlyfTable property
 
-获取 glyf 表。
+获取字形表。
 
 ```csharp
 public TtfGlyfTable GlyfTable { get; }

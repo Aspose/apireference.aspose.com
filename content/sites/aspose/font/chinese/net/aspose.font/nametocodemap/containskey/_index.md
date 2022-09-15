@@ -1,14 +1,14 @@
 ---
 title: ContainsKey
 second_title: Aspose.Font for .NET API 参考
-description: 如果键已经在映射中则返回 true
+description: 如果键已经在地图中则返回 true
 type: docs
 weight: 40
 url: /zh/net/aspose.font/nametocodemap/containskey/
 ---
 ## NameToCodeMap.ContainsKey method
 
-如果键已经在映射中，则返回 true。
+如果键已经在地图中，则返回 true。
 
 ```csharp
 public bool ContainsKey(string name)
@@ -20,7 +20,7 @@ public bool ContainsKey(string name)
 
 ### 返回值
 
-真或假。
+对或错。
 
 ### 也可以看看
 

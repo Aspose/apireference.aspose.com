@@ -16,7 +16,7 @@ public void Transform(TransformationMatrix matrix)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| matrix | TransformationMatrix | Матрица преобразования. |
+| matrix | TransformationMatrix | Матрица трансформации. |
 
 ### Смотрите также
 

@@ -3,7 +3,7 @@ title: WoffFormatException
 second_title: Справочник по API Aspose.Font для .NET
 description: Представляет исключение связанное с обработкой шрифта WOFF.
 type: docs
-weight: 1080
+weight: 1090
 url: /ru/net/aspose.font.woffexceptions/woffformatexception/
 ---
 ## WoffFormatException class
@@ -18,10 +18,10 @@ public class WoffFormatException : ApplicationException
 
 | Имя | Описание |
 | --- | --- |
-| [WoffFormatException](woffformatexception#constructor)() | Инициализирует новый объект[`WoffFormatException`](../woffformatexception). |
-| [WoffFormatException](woffformatexception#constructor_2)(string) | Инициализирует новый объект[`WoffFormatException`](../woffformatexception). |
-| [WoffFormatException](woffformatexception#constructor_1)(SerializationInfo, StreamingContext) | Инициализирует новый объект[`WoffFormatException`](../woffformatexception). |
-| [WoffFormatException](woffformatexception#constructor_3)(string, Exception) | Инициализирует новый объект[`WoffFormatException`](../woffformatexception). |
+| [WoffFormatException](woffformatexception#constructor)() | Инициализирует новый[`WoffFormatException`](../woffformatexception) объект. |
+| [WoffFormatException](woffformatexception#constructor_2)(string) | Инициализирует новый[`WoffFormatException`](../woffformatexception) объект. |
+| [WoffFormatException](woffformatexception#constructor_1)(SerializationInfo, StreamingContext) | Инициализирует новый[`WoffFormatException`](../woffformatexception) объект. |
+| [WoffFormatException](woffformatexception#constructor_3)(string, Exception) | Инициализирует новый[`WoffFormatException`](../woffformatexception) объект. |
 
 ### Смотрите также
 

@@ -1,14 +1,14 @@
 ---
 title: LocaTable
 second_title: Aspose.Font for .NET API 参考
-description: 获取 loca 表
+description: 获取位置表
 type: docs
 weight: 90
 url: /zh/net/aspose.font.ttftables/ttftablerepository/locatable/
 ---
 ## TtfTableRepository.LocaTable property
 
-获取 loca 表。
+获取位置表。
 
 ```csharp
 public TtfLocaTable LocaTable { get; }

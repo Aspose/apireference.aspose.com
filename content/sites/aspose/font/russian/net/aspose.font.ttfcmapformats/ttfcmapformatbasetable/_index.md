@@ -19,14 +19,14 @@ public class TtfCMapFormatBaseTable
 | Имя | Описание |
 | --- | --- |
 | [PlatformId](../../aspose.font.ttfcmapformats/ttfcmapformatbasetable/platformid) { get; } | Получает идентификатор платформы. |
-| [PlatformSpecificId](../../aspose.font.ttfcmapformats/ttfcmapformatbasetable/platformspecificid) { get; } | Получает PlatformSpecificId. |
+| [PlatformSpecificId](../../aspose.font.ttfcmapformats/ttfcmapformatbasetable/platformspecificid) { get; } | Получает идентификатор платформы. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
 | virtual [GetAllCodes](../../aspose.font.ttfcmapformats/ttfcmapformatbasetable/getallcodes)() | Получает все коды из текущей подтаблицы CMap. |
-| virtual [GetGlyphIndex](../../aspose.font.ttfcmapformats/ttfcmapformatbasetable/getglyphindex)(uint) | Получает индекс глифа для заданного кода символа |
+| virtual [GetGlyphIndex](../../aspose.font.ttfcmapformats/ttfcmapformatbasetable/getglyphindex)(uint) | Получает индекс глифа для данного символа code |
 
 ### Смотрите также
 

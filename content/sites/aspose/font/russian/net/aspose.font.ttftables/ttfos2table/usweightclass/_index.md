@@ -1,14 +1,14 @@
 ---
 title: USWeightClass
 second_title: Справочник по API Aspose.Font для .NET
-description: Указывает визуальный вес степень черноты или толщина штрихов символов в Шрифте.
+description: Указывает визуальный вес степень черноты или толщина штрихов символов шрифта.
 type: docs
 weight: 190
 url: /ru/net/aspose.font.ttftables/ttfos2table/usweightclass/
 ---
 ## TtfOs2Table.USWeightClass property
 
-Указывает визуальный вес (степень черноты или толщина штрихов) символов в Шрифте.
+Указывает визуальный вес (степень черноты или толщина штрихов) символов шрифта.
 
 ```csharp
 public ushort USWeightClass { get; }

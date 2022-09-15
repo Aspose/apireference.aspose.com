@@ -20,7 +20,7 @@ public virtual void Save(Stream stream)
 
 ### 评论
 
-注意：支持保存以下字体： 新TTF字体； TTF 字体子集； CFF 字体子集； Type1 字体子集。
+注意：支持保存以下字体类型： 新TTF字体； TTF字体子集； CFF字体子集； Type1字体子集。
 
 ### 也可以看看
 
@@ -40,11 +40,11 @@ public virtual void Save(string fileName)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| fileName | String | 保存字体的文件。 |
+| fileName | String | 用于保存字体的文件。 |
 
 ### 评论
 
-注意：支持保存以下字体： 新TTF字体； TTF 字体子集； CFF 字体子集； Type1 字体子集。
+注意：支持保存以下字体类型： 新TTF字体； TTF字体子集； CFF字体子集； Type1字体子集。
 
 ### 也可以看看
 

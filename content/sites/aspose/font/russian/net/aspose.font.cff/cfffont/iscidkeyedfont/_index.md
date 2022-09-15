@@ -1,14 +1,14 @@
 ---
 title: IsCidKeyedFont
 second_title: Справочник по API Aspose.Font для .NET
-description: Получает значение указывающее что для шрифта используется cid-ключ.
+description: Получает значение указывающее что шрифт имеет ключ cid.
 type: docs
 weight: 90
 url: /ru/net/aspose.font.cff/cfffont/iscidkeyedfont/
 ---
 ## CffFont.IsCidKeyedFont property
 
-Получает значение, указывающее, что для шрифта используется cid-ключ.
+Получает значение, указывающее, что шрифт имеет ключ cid.
 
 ```csharp
 public bool IsCidKeyedFont { get; }

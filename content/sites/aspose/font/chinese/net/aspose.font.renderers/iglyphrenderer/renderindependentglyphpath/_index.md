@@ -1,14 +1,14 @@
 ---
 title: RenderIndependentGlyphPath
 second_title: Aspose.Font for .NET API 参考
-description: 使用独立的字形路径渲染字形 RenderGlyph 函数族在渲染时更改字形路径 然后需要重新加载这个字形此函数使用字形路径的副本并且 不会更改原始字形路径因此可以多次重复使用相同的字形此版本的函数旨在 与字形缓存一起使用
+description: 使用独立的字形路径渲染字形 RenderGlyph 函数族在渲染时更改字形路径 然后导致需要再次重新加载此字形此函数使用字形路径的副本并且不会 更改原始字形路径因此可以多次重复使用相同的字形此版本的函数旨在 与字形缓存一起使用
 type: docs
 weight: 20
 url: /zh/net/aspose.font.renderers/iglyphrenderer/renderindependentglyphpath/
 ---
 ## IGlyphRenderer.RenderIndependentGlyphPath method
 
-使用独立的字形路径渲染字形。 RenderGlyph() 函数族在渲染时更改字形路径。 然后需要重新加载这个字形。此函数使用字形路径的副本，并且 不会更改原始字形路径，因此可以多次重复使用相同的字形。此版本的函数旨在 与字形缓存一起使用。
+使用独立的字形路径渲染字形。 RenderGlyph() 函数族在渲染时更改字形路径。 然后导致需要再次重新加载此字形。此函数使用字形路径的副本，并且不会 更改原始字形路径，因此可以多次重复使用相同的字形。此版本的函数旨在 与字形缓存一起使用。
 
 ```csharp
 public void RenderIndependentGlyphPath(IFont font, GlyphId glyphId, Glyph glyph, 

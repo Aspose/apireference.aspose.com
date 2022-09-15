@@ -1,14 +1,14 @@
 ---
 title: ToGlyphStringId
 second_title: Aspose.Font for .NET API 参考
-description: 虚拟转换为 GlyphUInt32Id GlyphUInt32Id 覆盖以返回实例
+description: 虚拟转换为 GlyphUInt32Id GlyphUInt32Id 覆盖以返回 instance.
 type: docs
 weight: 30
 url: /zh/net/aspose.font.glyphs/glyphid/toglyphstringid/
 ---
 ## GlyphId.ToGlyphStringId method
 
-虚拟转换为 GlyphUInt32Id。 GlyphUInt32Id 覆盖以返回实例。
+虚拟转换为 GlyphUInt32Id。 GlyphUInt32Id 覆盖以返回 instance.
 
 ```csharp
 public virtual GlyphStringId ToGlyphStringId()
@@ -16,7 +16,7 @@ public virtual GlyphStringId ToGlyphStringId()
 
 ### 返回值
 
-null
+无效的
 
 ### 也可以看看
 

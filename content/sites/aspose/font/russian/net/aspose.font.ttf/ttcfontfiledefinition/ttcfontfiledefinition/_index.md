@@ -20,7 +20,7 @@ public TtcFontFileDefinition(int fontIndex, string fileExtension, StreamSource s
 | fontIndex | Int32 | Индекс шрифта в коллекции шрифтов TTC. |
 | fileExtension | String | Расширение коллекции файлов шрифтов. |
 | streamSource | StreamSource | Источник коллекции файлов шрифтов. |
-| offset | Int64 | Смещение данных шрифта в коллекции файлов шрифтов, см. заголовок TTC, таблицу смещений в спецификации файла шрифтов OpenType. |
+| offset | Int64 | Смещение к данным шрифта в коллекции файлов шрифтов, см. заголовок TTC, таблица смещений в спецификации файла шрифтов OpenType. |
 
 ### Смотрите также
 

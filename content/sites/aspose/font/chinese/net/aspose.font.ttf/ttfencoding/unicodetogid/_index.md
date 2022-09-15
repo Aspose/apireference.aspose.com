@@ -1,14 +1,14 @@
 ---
 title: UnicodeToGid
 second_title: Aspose.Font for .NET API 参考
-description: 解码一个 unicode 并返回 glyph id
+description: 解码一个 unicode 并返回字形 id
 type: docs
 weight: 50
 url: /zh/net/aspose.font.ttf/ttfencoding/unicodetogid/
 ---
 ## TtfEncoding.UnicodeToGid method
 
-解码一个 unicode 并返回 glyph id。
+解码一个 unicode 并返回字形 id。
 
 ```csharp
 public GlyphId UnicodeToGid(uint unicode)
@@ -16,7 +16,7 @@ public GlyphId UnicodeToGid(uint unicode)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| unicode | UInt32 | Unicode 获取字形标识符。 |
+| unicode | UInt32 | 用于获取字形标识符的 Unicode。 |
 
 ### 返回值
 

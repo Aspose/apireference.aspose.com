@@ -1,14 +1,14 @@
 ---
 title: FontAgrumentException
 second_title: Справочник по API Aspose.Font для .NET
-description: Представляет исключение аргумента шрифта. Исключение может быть выдано в случае неправильного использования аргументов.
+description: Представляет исключение аргумента шрифта. Исключение может быть выдано в случае неправильного использования аргумента.
 type: docs
 weight: 80
 url: /ru/net/aspose.font.exceptions/fontagrumentexception/
 ---
 ## FontAgrumentException class
 
-Представляет исключение аргумента шрифта. Исключение может быть выдано в случае неправильного использования аргументов.
+Представляет исключение аргумента шрифта. Исключение может быть выдано в случае неправильного использования аргумента.
 
 ```csharp
 public class FontAgrumentException : FontException
@@ -18,10 +18,10 @@ public class FontAgrumentException : FontException
 
 | Имя | Описание |
 | --- | --- |
-| [FontAgrumentException](fontagrumentexception#constructor)() | Инициализирует новый объект[`FontAgrumentException`](../fontagrumentexception). |
-| [FontAgrumentException](fontagrumentexception#constructor_2)(string) | Инициализирует новый объект[`FontAgrumentException`](../fontagrumentexception). |
-| [FontAgrumentException](fontagrumentexception#constructor_1)(SerializationInfo, StreamingContext) | Инициализирует новый объект[`FontAgrumentException`](../fontagrumentexception). |
-| [FontAgrumentException](fontagrumentexception#constructor_3)(string, Exception) | Инициализирует новый объект[`FontAgrumentException`](../fontagrumentexception). |
+| [FontAgrumentException](fontagrumentexception#constructor)() | Инициализирует новый[`FontAgrumentException`](../fontagrumentexception) объект. |
+| [FontAgrumentException](fontagrumentexception#constructor_2)(string) | Инициализирует новый[`FontAgrumentException`](../fontagrumentexception) объект. |
+| [FontAgrumentException](fontagrumentexception#constructor_1)(SerializationInfo, StreamingContext) | Инициализирует новый[`FontAgrumentException`](../fontagrumentexception) объект. |
+| [FontAgrumentException](fontagrumentexception#constructor_3)(string, Exception) | Инициализирует новый[`FontAgrumentException`](../fontagrumentexception) объект. |
 
 ### Смотрите также
 

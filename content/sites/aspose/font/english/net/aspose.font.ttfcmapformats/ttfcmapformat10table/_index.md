@@ -3,7 +3,7 @@ title: TtfCMapFormat10Table
 second_title: Aspose.Font for .NET API Reference
 description: Represents Format10 CMap subtable of the TTF Font file.
 type: docs
-weight: 660
+weight: 670
 url: /net/aspose.font.ttfcmapformats/ttfcmapformat10table/
 ---
 ## TtfCMapFormat10Table class

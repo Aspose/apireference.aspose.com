@@ -1,14 +1,14 @@
 ---
 title: GetAllGlyphIds
 second_title: Aspose.Font for .NET API 参考
-description: 返回字体中可用的所有字形 ID Glyph id 是字形的唯一编号它取决于字体类型 例如 Type1 的 id 是一个字形名称是 GlyphStringIdaspose.font.glyphs/glyphstringid 类的实例 TTF 的 id 是一个 int 索引是 GlyphUInt32Idaspose.font.glyphs/glyphuint32id 类的实例
+description: 返回所有字形 id在 Font 中可用 字形 id 是字形的唯一编号取决于字体类型 例如 Type1 的 id 是字形名称实例为 GlyphStringIdaspose.font.glyphs/glyphstringid class. TTF 的 id 是一个 int 索引实例为 GlyphUInt32Idaspose.font.glyphs/glyphuint32id 类.
 type: docs
 weight: 20
 url: /zh/net/aspose.font.glyphs/iglyphaccessor/getallglyphids/
 ---
 ## IGlyphAccessor.GetAllGlyphIds method
 
-返回字体中可用的所有字形 ID。 Glyph id 是字形的唯一编号，它取决于字体类型。 例如： Type1 的 id 是一个字形名称，是 ([`GlyphStringId`](../../glyphstringid)) 类的实例。 TTF 的 id 是一个 int 索引，是 ([`GlyphUInt32Id`](../../glyphuint32id)) 类的实例。
+返回所有字形 id，在 Font 中可用。 字形 id 是字形的唯一编号，取决于字体类型。 例如： Type1 的 id 是字形名称，实例为 ([`GlyphStringId`](../../glyphstringid)) class. TTF 的 id 是一个 int 索引，实例为 ([`GlyphUInt32Id`](../../glyphuint32id) 类.
 
 ```csharp
 public GlyphId[] GetAllGlyphIds()

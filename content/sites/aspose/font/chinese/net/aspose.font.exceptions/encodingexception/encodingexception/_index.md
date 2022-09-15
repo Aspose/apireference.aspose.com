@@ -1,14 +1,14 @@
 ---
 title: EncodingException
 second_title: Aspose.Font for .NET API 参考
-description: 初始化新的EncodingExceptionaspose.font.exceptions/encodingexception对象
+description: 初始化新的EncodingExceptionaspose.font.exceptions/encodingexception对象.
 type: docs
 weight: 10
 url: /zh/net/aspose.font.exceptions/encodingexception/encodingexception/
 ---
 ## EncodingException() {#constructor}
 
-初始化新的[`EncodingException`](../../encodingexception)对象。
+初始化新的[`EncodingException`](../../encodingexception)对象.
 
 ```csharp
 public EncodingException()
@@ -24,7 +24,7 @@ public EncodingException()
 
 ## EncodingException(string) {#constructor_2}
 
-初始化新的[`EncodingException`](../../encodingexception)对象。
+初始化新的[`EncodingException`](../../encodingexception)对象.
 
 ```csharp
 public EncodingException(string message)
@@ -44,7 +44,7 @@ public EncodingException(string message)
 
 ## EncodingException(string, Exception) {#constructor_3}
 
-初始化新的[`EncodingException`](../../encodingexception)对象。
+初始化新的[`EncodingException`](../../encodingexception)对象.
 
 ```csharp
 public EncodingException(string message, Exception innerException)
@@ -65,7 +65,7 @@ public EncodingException(string message, Exception innerException)
 
 ## EncodingException(SerializationInfo, StreamingContext) {#constructor_1}
 
-初始化新的[`EncodingException`](../../encodingexception)对象。
+初始化新的[`EncodingException`](../../encodingexception)对象.
 
 ```csharp
 public EncodingException(SerializationInfo info, StreamingContext context)

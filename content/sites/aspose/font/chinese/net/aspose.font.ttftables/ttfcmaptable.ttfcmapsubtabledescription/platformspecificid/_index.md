@@ -1,14 +1,14 @@
 ---
 title: PlatformSpecificId
 second_title: Aspose.Font for .NET API 参考
-description: 获取特定于平台的编码 ID
+description: 获取特定于平台的编码 id
 type: docs
 weight: 30
 url: /zh/net/aspose.font.ttftables/ttfcmaptable.ttfcmapsubtabledescription/platformspecificid/
 ---
 ## TtfCMapTable.TtfCMapSubtableDescription.PlatformSpecificId property
 
-获取特定于平台的编码 ID。
+获取特定于平台的编码 id。
 
 ```csharp
 public ushort PlatformSpecificId { get; }

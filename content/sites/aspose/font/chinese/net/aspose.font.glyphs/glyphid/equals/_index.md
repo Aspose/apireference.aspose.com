@@ -1,14 +1,14 @@
 ---
 title: Equals
 second_title: Aspose.Font for .NET API 参考
-description: 如果两个字形 ID 不相等则返回 true
+description: 如果两个字形 id 不相等则返回 true
 type: docs
 weight: 10
 url: /zh/net/aspose.font.glyphs/glyphid/equals/
 ---
 ## GlyphId.Equals method
 
-如果两个字形 ID 不相等，则返回 true。
+如果两个字形 id 不相等，则返回 true。
 
 ```csharp
 public override bool Equals(object obj)

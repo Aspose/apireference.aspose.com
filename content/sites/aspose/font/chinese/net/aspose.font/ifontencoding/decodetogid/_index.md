@@ -1,14 +1,14 @@
 ---
 title: DecodeToGid
 second_title: Aspose.Font for .NET API 参考
-description: 解码字符代码并返回字形 id Glyph id 是字形的唯一编号它取决于字体类型 例如 Type1 的 id 是一个字形名称是 GlyphStringIdaspose.font.glyphs/glyphstringid 类的实例 TTF 的 id 是一个 int 索引是 GlyphUInt32Idaspose.font.glyphs/glyphuint32id 类的实例 注意字符代码不一定是 unicode字符代码是字体编码表中的字符索引
+description: 解码一个字符代码并返回字形id 字形id是一个字形的唯一编号它取决于字体类型 例如 type1的id是一个字形名称实例为GlyphStringIdaspose.font.glyphs/glyphstringid class. TTF 的 id 是一个 int 索引实例为 GlyphUInt32Idaspose.font.glyphs/glyphuint32id  class. 注意字符代码不一定是 unicode字符代码是字体编码表中的字符索引
 type: docs
 weight: 10
 url: /zh/net/aspose.font/ifontencoding/decodetogid/
 ---
 ## IFontEncoding.DecodeToGid method
 
-解码字符代码并返回字形 id。 Glyph id 是字形的唯一编号，它取决于字体类型。 例如： Type1 的 id 是一个字形名称，是 ([`GlyphStringId`](../../../aspose.font.glyphs/glyphstringid)) 类的实例。 TTF 的 id 是一个 int 索引，是 ([`GlyphUInt32Id`](../../../aspose.font.glyphs/glyphuint32id)) 类的实例。 注意：字符代码不一定是 unicode。字符代码是字体编码“表”中的字符索引。
+解码一个字符代码并返回字形id。 字形id是一个字形的唯一编号，它取决于字体类型。 例如： type1的id是一个字形名称，实例为([`GlyphStringId`](../../../aspose.font.glyphs/glyphstringid)) class. TTF 的 id 是一个 int 索引，实例为 ([`GlyphUInt32Id`](../../../aspose.font.glyphs/glyphuint32id) ) class. 注意：字符代码不一定是 unicode。字符代码是字体编码“表”中的字符索引。
 
 ```csharp
 public GlyphId DecodeToGid(uint charCode)
@@ -20,7 +20,7 @@ public GlyphId DecodeToGid(uint charCode)
 
 ### 返回值
 
-与 charCode 相关的字形标识符已通过。
+与 charCode 相关的字形标识符已传递。
 
 ### 也可以看看
 

@@ -3,7 +3,7 @@ title: TtfHheaTable
 second_title: Справочник по API Aspose.Font для .NET
 description: Представляет таблицу hhea файла шрифта TTF.
 type: docs
-weight: 820
+weight: 830
 url: /ru/net/aspose.font.ttftables/ttfhheatable/
 ---
 ## TtfHheaTable class
@@ -18,10 +18,10 @@ public class TtfHheaTable : TtfTableBase
 
 | Имя | Описание |
 | --- | --- |
-| [AdvanceWidthMax](../../aspose.font.ttftables/ttfhheatable/advancewidthmax) { get; } | Получает uFWord advanceWidthMax должен соответствовать горизонтальным метрикам. |
-| [Ascent](../../aspose.font.ttftables/ttfhheatable/ascent) { get; } | Получает подъем. |
-| [CaretSlopeRise](../../aspose.font.ttftables/ttfhheatable/caretsloperise) { get; } | Получает помойку по каретке. |
-| [CaretSlopeRun](../../aspose.font.ttftables/ttfhheatable/caretsloperun) { get; } | Получает неряшливую строку вставки. |
+| [AdvanceWidthMax](../../aspose.font.ttftables/ttfhheatable/advancewidthmax) { get; } | Получает, что uFWord advanceWidthMax должен соответствовать горизонтальным метрикам. |
+| [Ascent](../../aspose.font.ttftables/ttfhheatable/ascent) { get; } | Получает восхождение. |
+| [CaretSlopeRise](../../aspose.font.ttftables/ttfhheatable/caretsloperise) { get; } | Получает повышение наклона каретки. |
+| [CaretSlopeRun](../../aspose.font.ttftables/ttfhheatable/caretsloperun) { get; } | Получает прогон каретки. |
 | [Descent](../../aspose.font.ttftables/ttfhheatable/descent) { get; } | Получает спуск. |
 | [LineGap](../../aspose.font.ttftables/ttfhheatable/linegap) { get; } | Получает строкуGap. |
 | [MinLeftSideBearing](../../aspose.font.ttftables/ttfhheatable/minleftsidebearing) { get; } | Получает значение MinLeftSideBearing. |

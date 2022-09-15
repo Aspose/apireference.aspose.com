@@ -1,14 +1,14 @@
 ---
 title: XAvgCharWidth
 second_title: Справочник по API Aspose.Font для .NET
-description: Получает параметр средней ширины символов.
+description: Получает параметр средней ширины символа.
 type: docs
 weight: 240
 url: /ru/net/aspose.font.ttftables/ttfos2table/xavgcharwidth/
 ---
 ## TtfOs2Table.XAvgCharWidth property
 
-Получает параметр средней ширины символов.
+Получает параметр средней ширины символа.
 
 ```csharp
 public short XAvgCharWidth { get; }

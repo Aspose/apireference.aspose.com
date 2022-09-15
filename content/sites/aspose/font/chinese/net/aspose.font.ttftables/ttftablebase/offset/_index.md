@@ -1,14 +1,14 @@
 ---
 title: Offset
 second_title: Aspose.Font for .NET API 参考
-description: 从 sfnt 开始处获取偏移量
+description: 获取从 sfnt 开始的偏移量
 type: docs
 weight: 10
 url: /zh/net/aspose.font.ttftables/ttftablebase/offset/
 ---
 ## TtfTableBase.Offset property
 
-从 sfnt 开始处获取偏移量。
+获取从 sfnt 开始的偏移量。
 
 ```csharp
 public uint Offset { get; }

@@ -1,14 +1,14 @@
 ---
 title: FontDefinition
 second_title: Справочник по API Aspose.Font для .NET
-description: Представляет определение набора файлов шрифтов. Этот класс содержит поля не относящиеся к внутренним данным шрифта. Эти поля описывают размещение шрифта и другие данные необходимые для загрузки шрифта из какого-либо источника шрифта файла памяти и т.д..
+description: Представляет определение набора файлов шрифтов. Этот класс содержит поля которые не относятся к внутренним данным шрифта. Эти поля описывают размещение шрифта и другие данные необходимые для загрузки шрифта из какоголибо источника шрифта файла памяти и т. д..
 type: docs
 weight: 540
 url: /ru/net/aspose.font.sources/fontdefinition/
 ---
 ## FontDefinition class
 
-Представляет определение набора файлов шрифтов. Этот класс содержит поля, не относящиеся к внутренним данным шрифта. Эти поля описывают размещение шрифта и другие данные, необходимые для загрузки шрифта из какого-либо источника шрифта (файла, памяти и т.д.).
+Представляет определение набора файлов шрифтов. Этот класс содержит поля, которые не относятся к внутренним данным шрифта. Эти поля описывают размещение шрифта и другие данные, необходимые для загрузки шрифта из какого-либо источника шрифта (файла, памяти и т. д.).
 
 ```csharp
 public class FontDefinition
@@ -35,10 +35,10 @@ public class FontDefinition
 | --- | --- |
 | [FileDefinitions](../../aspose.font.sources/fontdefinition/filedefinitions) { get; } | Получает коллекцию определений файлов. |
 | virtual [FontName](../../aspose.font.sources/fontdefinition/fontname) { get; } | Возвращает имя шрифта. |
-| virtual [FontNames](../../aspose.font.sources/fontdefinition/fontnames) { get; } | Получает имена шрифтов как[`MultiLanguageString`](../../aspose.font/multilanguagestring). |
+| virtual [FontNames](../../aspose.font.sources/fontdefinition/fontnames) { get; } | Получает имена шрифтов как[`MultiLanguageString`](../../aspose.font/multilanguagestring) . |
 | [FontType](../../aspose.font.sources/fontdefinition/fonttype) { get; } | Получает тип шрифта. |
-| virtual [PostscriptName](../../aspose.font.sources/fontdefinition/postscriptname) { get; } | Получает постскриптумное имя шрифта. |
-| [PostscriptNames](../../aspose.font.sources/fontdefinition/postscriptnames) { get; } | Получает имена шрифтов постскриптума как[`MultiLanguageString`](../../aspose.font/multilanguagestring). |
+| virtual [PostscriptName](../../aspose.font.sources/fontdefinition/postscriptname) { get; } | Получает имя шрифта постскриптума. |
+| [PostscriptNames](../../aspose.font.sources/fontdefinition/postscriptnames) { get; } | Получает имена шрифтов postscript как[`MultiLanguageString`](../../aspose.font/multilanguagestring) . |
 
 ## Методы
 

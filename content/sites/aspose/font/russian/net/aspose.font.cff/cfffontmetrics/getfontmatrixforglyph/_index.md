@@ -1,14 +1,14 @@
 ---
 title: GetFontMatrixForGlyph
 second_title: Справочник по API Aspose.Font для .NET
-description: Вычисляет матрицу преобразования для глифа заданного идентификатором.
+description: Вычисляет матрицу преобразования для глифа указанного id.
 type: docs
 weight: 60
 url: /ru/net/aspose.font.cff/cfffontmetrics/getfontmatrixforglyph/
 ---
 ## CffFontMetrics.GetFontMatrixForGlyph method
 
-Вычисляет матрицу преобразования для глифа, заданного идентификатором.
+Вычисляет матрицу преобразования для глифа, указанного id.
 
 ```csharp
 public TransformationMatrix GetFontMatrixForGlyph(GlyphId glyphId)

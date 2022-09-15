@@ -3,7 +3,7 @@ title: GetEnglishString
 second_title: Справочник по API Aspose.Font для .NET
 description: Возвращает английскую строку если она найдена. В противном случае возвращает первую неанглийскую строку.
 type: docs
-weight: 50
+weight: 70
 url: /ru/net/aspose.font/multilanguagestring/getenglishstring/
 ---
 ## MultiLanguageString.GetEnglishString method
@@ -16,7 +16,7 @@ public string GetEnglishString()
 
 ### Возвращаемое значение
 
-английская строка, если найдена, иначе первая неанглийская строка.
+Строка на английском языке, если найдена, в противном случае первая строка не на английском языке.
 
 ### Смотрите также
 

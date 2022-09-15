@@ -18,7 +18,7 @@ public enum FontSavingFormats
 
 | Имя | Ценность | Описание |
 | --- | --- | --- |
-| TTF | `0` | TTF (TrueType) Формат шрифта. |
+| TTF | `0` | Формат шрифта TTF (TrueType). |
 | WOFF | `1` | WOFF (формат веб-открытого шрифта). |
 | WOFF2 | `2` | Формат файла WOFF 2.0 |
 

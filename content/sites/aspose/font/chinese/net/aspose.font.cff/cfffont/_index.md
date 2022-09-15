@@ -20,17 +20,17 @@ public class CffFont : Font
 | --- | --- |
 | override [Encoding](../../aspose.font.cff/cfffont/encoding) { get; } | 获取字体编码。 |
 | override [FontDefinition](../../aspose.font.cff/cfffont/fontdefinition) { get; } | 获取字体定义。 |
-| override [FontFamily](../../aspose.font.cff/cfffont/fontfamily) { get; set; } | 获取字体系列。 Font family setter 还没有实现。 |
+| override [FontFamily](../../aspose.font.cff/cfffont/fontfamily) { get; set; } | 获取字体系列。 字体系列设置器尚未实现。 |
 | override [FontName](../../aspose.font.cff/cfffont/fontname) { get; set; } | 获取字体名称。 字体名称设置器尚未实现。 |
 | override [FontNames](../../aspose.font.cff/cfffont/fontnames) { get; } | 获取字体名称。 |
 | [FontSaver](../../aspose.font/font/fontsaver) { get; } | 获取字体保存功能。 |
 | override [FontStyle](../../aspose.font.cff/cfffont/fontstyle) { get; } | 获取字体样式。 这是一个以广义类型计算和表示的值。 |
 | override [FontType](../../aspose.font.cff/cfffont/fonttype) { get; } | 获取字体类型。 返回 FontType.CFF 值。 |
 | [GlyphAccessor](../../aspose.font/font/glyphaccessor) { get; } | 字体字形访问器。 检索字形和字形标识符。 |
-| override [GlyphIdType](../../aspose.font.cff/cfffont/glyphidtype) { get; } | 获取字形标识类型规范。 |
-| [IsCidKeyedFont](../../aspose.font.cff/cfffont/iscidkeyedfont) { get; } | 获取指示字体是 cid 键控的值。 |
+| override [GlyphIdType](../../aspose.font.cff/cfffont/glyphidtype) { get; } | 获取字形 id 类型规范。 |
+| [IsCidKeyedFont](../../aspose.font.cff/cfffont/iscidkeyedfont) { get; } | 获取表明字体是 cid-keyed 的值。 |
 | override [Metrics](../../aspose.font.cff/cfffont/metrics) { get; } | 获取字体指标。 |
-| override [NumGlyphs](../../aspose.font.cff/cfffont/numglyphs) { get; } | 获取字体中的字形数量。 |
+| override [NumGlyphs](../../aspose.font.cff/cfffont/numglyphs) { get; } | 获取字体中字形的数量。 |
 | override [PostscriptNames](../../aspose.font.cff/cfffont/postscriptnames) { get; } | 获取 postscript 字体名称。 |
 | override [Style](../../aspose.font.cff/cfffont/style) { get; set; } | 获取字体样式。 这是字体文件提供的原始字符串值。 样式设置器尚未实现。 |
 
@@ -39,8 +39,8 @@ public class CffFont : Font
 | 姓名 | 描述 |
 | --- | --- |
 | override [Convert](../../aspose.font.cff/cfffont/convert)(FontType) | 将字体转换为另一种格式。 |
-| override [GetAllGlyphIds](../../aspose.font.cff/cfffont/getallglyphids)() | 返回字体中可用的所有字形 ID 的数组。 Glyph id 是字形的唯一编号，它取决于字体类型。 CFF 字体字形 id 可以是 ([`GlyphStringId`](../../aspose.font.glyphs/glyphstringid)) 类或 ([`GlyphUInt32Id`](../../aspose.font.glyphs/glyphuint32id)) 类的实例. |
-| override [GetGlyphById](../../aspose.font.cff/cfffont/getglyphbyid#getglyphbyid)(GlyphId) | 按字形 id 返回字形。 Glyph id 是字形的唯一编号，它取决于字体类型。 CFF 字体字形 ID 可以是 ([`GlyphStringId`](../../aspose.font.glyphs/glyphstringid)) 类或 ([`GlyphUInt32Id`](../../aspose.font.glyphs/glyphuint32id)) 类的实例. |
+| override [GetAllGlyphIds](../../aspose.font.cff/cfffont/getallglyphids)() | 返回所有字形 ID 的数组，在字体中可用。 字形 ID 是字形的唯一编号，取决于字体类型。 CFF 字体字形 ID 可以是 ([`GlyphStringId`](../../aspose.font.glyphs/glyphstringid)) 类或 ([`GlyphUInt32Id`](../../aspose.font.glyphs/glyphuint32id) 类. |
+| override [GetGlyphById](../../aspose.font.cff/cfffont/getglyphbyid#getglyphbyid)(GlyphId) | 按字形 id 返回字形。 字形 id 是字形的唯一编号，取决于字体类型。 CFF 字体字形 id 可以是 ([`GlyphStringId`](../../aspose.font.glyphs/glyphstringid)) 类或 ([`GlyphUInt32Id`](../../aspose.font.glyphs/glyphuint32id) 类. |
 | [GetGlyphById](../../aspose.font.cff/cfffont/getglyphbyid#getglyphbyid_1)(string) | 按字形名称返回字形。 |
 | [GetGlyphById](../../aspose.font.cff/cfffont/getglyphbyid#getglyphbyid_2)(uint) | 按字形 id 返回字形。 |
 | virtual [GetGlyphsForText](../../aspose.font/font/getglyphsfortext)(string) | 获取文本的字形表示。 |

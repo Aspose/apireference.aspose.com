@@ -3,7 +3,7 @@ title: GlyphStringId
 second_title: Aspose.Font for .NET API Reference
 description: Represents string glyph id.
 type: docs
-weight: 280
+weight: 290
 url: /net/aspose.font.glyphs/glyphstringid/
 ---
 ## GlyphStringId class

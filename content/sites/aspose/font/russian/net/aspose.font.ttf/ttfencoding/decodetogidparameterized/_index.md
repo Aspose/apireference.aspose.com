@@ -1,14 +1,14 @@
 ---
 title: DecodeToGidParameterized
 second_title: Справочник по API Aspose.Font для .NET
-description: Параметризованная версия позволяет использовать определенную таблицу CMap не юникод.
+description: Параметризованная версия позволяет использовать определенную таблицу CMap не Unicode.
 type: docs
 weight: 20
 url: /ru/net/aspose.font.ttf/ttfencoding/decodetogidparameterized/
 ---
 ## TtfEncoding.DecodeToGidParameterized method
 
-Параметризованная версия позволяет использовать определенную таблицу CMap (не юникод).
+Параметризованная версия позволяет использовать определенную таблицу CMap (не Unicode).
 
 ```csharp
 public GlyphId DecodeToGidParameterized(IEncodingParameters parameters, uint charCode)
@@ -16,7 +16,7 @@ public GlyphId DecodeToGidParameterized(IEncodingParameters parameters, uint cha
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| parameters | IEncodingParameters | Реализация интерфейса[`IEncodingParameters`](../../../aspose.font/iencodingparameters). |
+| parameters | IEncodingParameters | Реализация[`IEncodingParameters`](../../../aspose.font/iencodingparameters)интерфейс. |
 | charCode | UInt32 | Код символа, для которого нужно получить идентификатор глифа. |
 
 ### Возвращаемое значение

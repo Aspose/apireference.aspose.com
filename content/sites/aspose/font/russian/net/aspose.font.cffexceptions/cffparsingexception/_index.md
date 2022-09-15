@@ -1,14 +1,14 @@
 ---
 title: CffParsingException
 second_title: Справочник по API Aspose.Font для .NET
-description: Представляет исключение разбора для шрифтов формата cff. Исключение может быть выдано в случае ошибок в процессе парсинга шрифта
+description: Представляет исключение синтаксического анализа для шрифтов формата cff. Исключение может быть выдано в случае возникновения ошибок в процессе синтаксического анализа шрифта
 type: docs
 weight: 60
 url: /ru/net/aspose.font.cffexceptions/cffparsingexception/
 ---
 ## CffParsingException class
 
-Представляет исключение разбора для шрифтов формата cff. Исключение может быть выдано в случае ошибок в процессе парсинга шрифта
+Представляет исключение синтаксического анализа для шрифтов формата cff. Исключение может быть выдано в случае возникновения ошибок в процессе синтаксического анализа шрифта
 
 ```csharp
 public class CffParsingException : CffFontException
@@ -18,10 +18,10 @@ public class CffParsingException : CffFontException
 
 | Имя | Описание |
 | --- | --- |
-| [CffParsingException](cffparsingexception#constructor)() | Инициализирует новый объект[`CffParsingException`](../cffparsingexception). |
-| [CffParsingException](cffparsingexception#constructor_2)(string) | Инициализирует новый объект[`CffParsingException`](../cffparsingexception). |
-| [CffParsingException](cffparsingexception#constructor_1)(SerializationInfo, StreamingContext) | Инициализирует новый объект[`CffParsingException`](../cffparsingexception). |
-| [CffParsingException](cffparsingexception#constructor_3)(string, Exception) | Инициализирует новый объект[`CffParsingException`](../cffparsingexception). |
+| [CffParsingException](cffparsingexception#constructor)() | Инициализирует новый[`CffParsingException`](../cffparsingexception) объект. |
+| [CffParsingException](cffparsingexception#constructor_2)(string) | Инициализирует новый[`CffParsingException`](../cffparsingexception) объект. |
+| [CffParsingException](cffparsingexception#constructor_1)(SerializationInfo, StreamingContext) | Инициализирует новый[`CffParsingException`](../cffparsingexception) объект. |
+| [CffParsingException](cffparsingexception#constructor_3)(string, Exception) | Инициализирует новый[`CffParsingException`](../cffparsingexception) объект. |
 
 ### Смотрите также
 

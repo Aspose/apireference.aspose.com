@@ -1,14 +1,14 @@
 ---
 title: X
 second_title: Aspose.Font for .NET API 参考
-description: 获取坐标 x
+description: 获取坐标 x.
 type: docs
 weight: 10
 url: /zh/net/aspose.font.renderingpath/closepath/x/
 ---
 ## ClosePath.X property
 
-获取坐标 x。
+获取坐标 x.
 
 ```csharp
 public double X { get; }

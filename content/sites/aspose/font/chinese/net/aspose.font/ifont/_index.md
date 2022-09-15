@@ -28,7 +28,7 @@ public interface IFont
 | [FontType](../../aspose.font/ifont/fonttype) { get; } | 获取字体类型。 |
 | [GlyphAccessor](../../aspose.font/ifont/glyphaccessor) { get; } | 获取字体字形访问器。 检索字形和字形标识符。 |
 | [Metrics](../../aspose.font/ifont/metrics) { get; } | 获取字体指标。 |
-| [NumGlyphs](../../aspose.font/ifont/numglyphs) { get; } | 获取字体中的字形数量。 |
+| [NumGlyphs](../../aspose.font/ifont/numglyphs) { get; } | 获取字体中字形的数量。 |
 | [PostscriptNames](../../aspose.font/ifont/postscriptnames) { get; } | 获取 postscript 字体名称。 |
 | [Style](../../aspose.font/ifont/style) { get; set; } | 获取或设置字体样式。 这是字体文件提供的原始字符串值。 |
 

@@ -1,14 +1,14 @@
 ---
 title: MaxComponentElements
 second_title: Справочник по API Aspose.Font для .NET
-description: Получает uint16 maxComponentElements количество глифов на которые имеются ссылки на верхнем уровне.
+description: Получает uint16 maxComponentElements количество глифов на которые есть ссылки на верхнем уровне.
 type: docs
 weight: 30
 url: /ru/net/aspose.font.ttftables/ttfmaxptable/maxcomponentelements/
 ---
 ## TtfMaxpTable.MaxComponentElements property
 
-Получает uint16 maxComponentElements количество глифов, на которые имеются ссылки на верхнем уровне.
+Получает uint16 maxComponentElements количество глифов, на которые есть ссылки на верхнем уровне.
 
 ```csharp
 public ushort MaxComponentElements { get; }

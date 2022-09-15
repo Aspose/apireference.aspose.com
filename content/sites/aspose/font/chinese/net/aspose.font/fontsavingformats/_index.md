@@ -19,7 +19,7 @@ public enum FontSavingFormats
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
 | TTF | `0` | TTF (TrueType) 字体格式。 |
-| WOFF | `1` | WOFF（Web 开放字体格式）。 |
+| WOFF | `1` | WOFF（Web 开放字体格式）. |
 | WOFF2 | `2` | WOFF 文件格式 2.0 |
 
 ### 也可以看看

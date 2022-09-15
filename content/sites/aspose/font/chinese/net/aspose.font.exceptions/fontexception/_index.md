@@ -18,10 +18,10 @@ public class FontException : ApplicationException
 
 | 姓名 | 描述 |
 | --- | --- |
-| [FontException](fontexception#constructor)() | 初始化新的[`FontException`](../fontexception)对象。 |
-| [FontException](fontexception#constructor_2)(string) | 初始化新的[`FontException`](../fontexception)对象。 |
-| [FontException](fontexception#constructor_1)(SerializationInfo, StreamingContext) | 初始化新的[`FontException`](../fontexception)对象。 |
-| [FontException](fontexception#constructor_3)(string, Exception) | 初始化新的[`FontException`](../fontexception)对象。 |
+| [FontException](fontexception#constructor)() | 初始化新的[`FontException`](../fontexception)对象. |
+| [FontException](fontexception#constructor_2)(string) | 初始化新的[`FontException`](../fontexception)对象. |
+| [FontException](fontexception#constructor_1)(SerializationInfo, StreamingContext) | 初始化新的[`FontException`](../fontexception)对象. |
+| [FontException](fontexception#constructor_3)(string, Exception) | 初始化新的[`FontException`](../fontexception)对象. |
 
 ### 也可以看看
 

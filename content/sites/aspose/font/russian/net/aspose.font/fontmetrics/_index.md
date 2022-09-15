@@ -33,7 +33,7 @@ public abstract class FontMetrics : IFontMetrics
 
 | Имя | Описание |
 | --- | --- |
-| virtual [GetAscender](../../aspose.font/fontmetrics/getascender)(double) | Возвращает восходящий элемент для определенного размера шрифта. |
+| virtual [GetAscender](../../aspose.font/fontmetrics/getascender)(double) | Возвращает верхний элемент для определенного размера шрифта. |
 | virtual [GetDescender](../../aspose.font/fontmetrics/getdescender)(double) | Возвращает выносной элемент для определенного размера шрифта. |
 | virtual [GetGlyphBBox](../../aspose.font/fontmetrics/getglyphbbox)(GlyphId) | Возвращает глиф BBox. Возвращает FontBBox, если BBox не был определен для глифа. Может быть переопределен определенными наследниками кодировки шрифта. |
 | virtual [GetGlyphWidth](../../aspose.font/fontmetrics/getglyphwidth)(GlyphId) | Возвращает ширину глифа. Может быть переопределен определенными наследниками кодировки шрифта. |

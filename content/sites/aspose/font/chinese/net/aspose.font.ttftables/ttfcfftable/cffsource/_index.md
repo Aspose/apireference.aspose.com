@@ -1,14 +1,14 @@
 ---
 title: CffSource
 second_title: Aspose.Font for .NET API 参考
-description: 紧凑字体格式表示的轮廓的原始字节
+description: 以紧凑字体格式表示的轮廓的原始字节
 type: docs
 weight: 10
 url: /zh/net/aspose.font.ttftables/ttfcfftable/cffsource/
 ---
 ## TtfCffTable.CffSource property
 
-紧凑字体格式表示的轮廓的原始字节。
+以紧凑字体格式表示的轮廓的原始字节。
 
 ```csharp
 public StreamSource CffSource { get; }

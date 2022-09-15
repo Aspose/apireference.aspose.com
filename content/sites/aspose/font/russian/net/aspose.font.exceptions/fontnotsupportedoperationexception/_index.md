@@ -1,14 +1,14 @@
 ---
 title: FontNotSupportedOperationException
 second_title: Справочник по API Aspose.Font для .NET
-description: Представляет исключение неподдерживаемой операции. Исключение может быть выдано если какая-то операция не поддерживается для определенного типа шрифта.
+description: Представляет исключение неподдерживаемой операции. Исключение может быть выдано если какаялибо операция не поддерживается для определенного типа шрифта.
 type: docs
 weight: 110
 url: /ru/net/aspose.font.exceptions/fontnotsupportedoperationexception/
 ---
 ## FontNotSupportedOperationException class
 
-Представляет исключение неподдерживаемой операции. Исключение может быть выдано, если какая-то операция не поддерживается для определенного типа шрифта.
+Представляет исключение неподдерживаемой операции. Исключение может быть выдано, если какая-либо операция не поддерживается для определенного типа шрифта.
 
 ```csharp
 public class FontNotSupportedOperationException : FontException
@@ -18,10 +18,10 @@ public class FontNotSupportedOperationException : FontException
 
 | Имя | Описание |
 | --- | --- |
-| [FontNotSupportedOperationException](fontnotsupportedoperationexception#constructor)() | Инициализирует новый объект[`FontNotSupportedOperationException`](../fontnotsupportedoperationexception). |
-| [FontNotSupportedOperationException](fontnotsupportedoperationexception#constructor_2)(string) | Инициализирует новый объект[`FontNotSupportedOperationException`](../fontnotsupportedoperationexception). |
-| [FontNotSupportedOperationException](fontnotsupportedoperationexception#constructor_1)(SerializationInfo, StreamingContext) | Инициализирует новый объект[`FontNotSupportedOperationException`](../fontnotsupportedoperationexception). |
-| [FontNotSupportedOperationException](fontnotsupportedoperationexception#constructor_3)(string, Exception) | Инициализирует новый объект[`FontNotSupportedOperationException`](../fontnotsupportedoperationexception). |
+| [FontNotSupportedOperationException](fontnotsupportedoperationexception#constructor)() | Инициализирует новый[`FontNotSupportedOperationException`](../fontnotsupportedoperationexception) объект. |
+| [FontNotSupportedOperationException](fontnotsupportedoperationexception#constructor_2)(string) | Инициализирует новый[`FontNotSupportedOperationException`](../fontnotsupportedoperationexception) объект. |
+| [FontNotSupportedOperationException](fontnotsupportedoperationexception#constructor_1)(SerializationInfo, StreamingContext) | Инициализирует новый[`FontNotSupportedOperationException`](../fontnotsupportedoperationexception) объект. |
+| [FontNotSupportedOperationException](fontnotsupportedoperationexception#constructor_3)(string, Exception) | Инициализирует новый[`FontNotSupportedOperationException`](../fontnotsupportedoperationexception) объект. |
 
 ### Смотрите также
 

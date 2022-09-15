@@ -1,14 +1,14 @@
 ---
 title: A
 second_title: Aspose.Font for .NET API 参考
-description: 获取或设置变换矩阵值
+description: 获取或设置一个变换矩阵值
 type: docs
 weight: 20
 url: /zh/net/aspose.font/transformationmatrix/a/
 ---
 ## TransformationMatrix.A property
 
-获取或设置变换矩阵值。
+获取或设置一个变换矩阵值。
 
 ```csharp
 public double A { get; set; }

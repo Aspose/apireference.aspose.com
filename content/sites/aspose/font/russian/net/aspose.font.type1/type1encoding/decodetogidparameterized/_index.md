@@ -1,14 +1,14 @@
 ---
 title: DecodeToGidParameterized
 second_title: Справочник по API Aspose.Font для .NET
-description: Метод параметризованного декодирования. Не поддерживается для шрифта Type1.
+description: Параметризованный метод декодирования. Не поддерживается для типа шрифта Type1.
 type: docs
 weight: 20
 url: /ru/net/aspose.font.type1/type1encoding/decodetogidparameterized/
 ---
 ## Type1Encoding.DecodeToGidParameterized method
 
-Метод параметризованного декодирования. Не поддерживается для шрифта Type1.
+Параметризованный метод декодирования. Не поддерживается для типа шрифта Type1.
 
 ```csharp
 public GlyphId DecodeToGidParameterized(IEncodingParameters parameters, uint charCode)

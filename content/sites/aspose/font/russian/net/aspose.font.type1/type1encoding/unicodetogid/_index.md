@@ -1,14 +1,14 @@
 ---
 title: UnicodeToGid
 second_title: Справочник по API Aspose.Font для .NET
-description: Возвращает GlyphId для Юникода. Или notdef если шрифт не содержит глифа для юникода. Идентификатор глифа  это уникальный номер глифа который зависит от типа шрифта. Например Идентификатор Type1  это имя глифа экземпляр класса GlyphStringIdaspose.font.glyphs/glyphstringid. Идентификатор TTF является индексом int экземпляром класса GlyphUInt32Idaspose.font.glyphs/glyphuint32id.
+description: Возвращает GlyphId для Юникода. Или notdef если шрифт не содержит глифа для Unicode. Идентификатор глифа  это уникальный номер для глифа который зависит от типа шрифта. Например Идентификатор Type1  это имя глифа экземпляр GlyphStringIdaspose.font.glyphs/glyphstringid class. Идентификатор TTF является индексом int экземпляром GlyphUInt32Idaspose.font.glyphs/glyphuint32id класс.
 type: docs
 weight: 60
 url: /ru/net/aspose.font.type1/type1encoding/unicodetogid/
 ---
 ## Type1Encoding.UnicodeToGid method
 
-Возвращает GlyphId для Юникода. Или notdef, если шрифт не содержит глифа для юникода. Идентификатор глифа — это уникальный номер глифа, который зависит от типа шрифта. Например: Идентификатор Type1 — это имя глифа, экземпляр класса ([`GlyphStringId`](../../../aspose.font.glyphs/glyphstringid)). Идентификатор TTF является индексом int, экземпляром класса ([`GlyphUInt32Id`](../../../aspose.font.glyphs/glyphuint32id)).
+Возвращает GlyphId для Юникода. Или notdef, если шрифт не содержит глифа для Unicode. Идентификатор глифа — это уникальный номер для глифа, который зависит от типа шрифта. Например: Идентификатор Type1 — это имя глифа, экземпляр ([`GlyphStringId`](../../../aspose.font.glyphs/glyphstringid)) class. Идентификатор TTF является индексом int, экземпляром ([`GlyphUInt32Id`](../../../aspose.font.glyphs/glyphuint32id) класс.
 
 ```csharp
 public GlyphId UnicodeToGid(uint unicode)
@@ -16,7 +16,7 @@ public GlyphId UnicodeToGid(uint unicode)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| unicode | UInt32 | Юникод, для которого нужно получить идентификатор глифа. |
+| unicode | UInt32 | Unicode для получения идентификатора глифа. |
 
 ### Возвращаемое значение
 

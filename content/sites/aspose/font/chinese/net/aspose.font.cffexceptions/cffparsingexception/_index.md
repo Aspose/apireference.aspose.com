@@ -1,14 +1,14 @@
 ---
 title: CffParsingException
 second_title: Aspose.Font for .NET API 参考
-description: 表示 cff 格式的字体解析异常 字体解析过程中万一出错会抛出异常
+description: 表示cff格式的字体解析异常 字体解析过程出错时可以抛出异常
 type: docs
 weight: 60
 url: /zh/net/aspose.font.cffexceptions/cffparsingexception/
 ---
 ## CffParsingException class
 
-表示 cff 格式的字体解析异常。 字体解析过程中万一出错会抛出异常
+表示cff格式的字体解析异常 字体解析过程出错时可以抛出异常
 
 ```csharp
 public class CffParsingException : CffFontException
@@ -18,10 +18,10 @@ public class CffParsingException : CffFontException
 
 | 姓名 | 描述 |
 | --- | --- |
-| [CffParsingException](cffparsingexception#constructor)() | 初始化新的[`CffParsingException`](../cffparsingexception)对象。 |
-| [CffParsingException](cffparsingexception#constructor_2)(string) | 初始化新的[`CffParsingException`](../cffparsingexception)对象。 |
-| [CffParsingException](cffparsingexception#constructor_1)(SerializationInfo, StreamingContext) | 初始化新的[`CffParsingException`](../cffparsingexception)对象。 |
-| [CffParsingException](cffparsingexception#constructor_3)(string, Exception) | 初始化新的[`CffParsingException`](../cffparsingexception)对象。 |
+| [CffParsingException](cffparsingexception#constructor)() | 初始化新的[`CffParsingException`](../cffparsingexception)对象. |
+| [CffParsingException](cffparsingexception#constructor_2)(string) | 初始化新的[`CffParsingException`](../cffparsingexception)对象. |
+| [CffParsingException](cffparsingexception#constructor_1)(SerializationInfo, StreamingContext) | 初始化新的[`CffParsingException`](../cffparsingexception)对象. |
+| [CffParsingException](cffparsingexception#constructor_3)(string, Exception) | 初始化新的[`CffParsingException`](../cffparsingexception)对象. |
 
 ### 也可以看看
 

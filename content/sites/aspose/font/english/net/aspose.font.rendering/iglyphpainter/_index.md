@@ -3,7 +3,7 @@ title: IGlyphPainter
 second_title: Aspose.Font for .NET API Reference
 description: Defines a way to draw glyphs.
 type: docs
-weight: 440
+weight: 450
 url: /net/aspose.font.rendering/iglyphpainter/
 ---
 ## IGlyphPainter interface

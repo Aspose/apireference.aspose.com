@@ -1,14 +1,14 @@
 ---
 title: TtfHheaTable
 second_title: Aspose.Font for .NET API 参考
-description: 表示 TTF 字体文件的hhea表
+description: 代表TTF字体文件的hhea表
 type: docs
-weight: 820
+weight: 830
 url: /zh/net/aspose.font.ttftables/ttfhheatable/
 ---
 ## TtfHheaTable class
 
-表示 TTF 字体文件的“hhea”表。
+代表TTF字体文件的“hhea”表。
 
 ```csharp
 public class TtfHheaTable : TtfTableBase
@@ -18,16 +18,16 @@ public class TtfHheaTable : TtfTableBase
 
 | 姓名 | 描述 |
 | --- | --- |
-| [AdvanceWidthMax](../../aspose.font.ttftables/ttfhheatable/advancewidthmax) { get; } | 获取 uFWord advanceWidthMax 必须与水平指标一致。 |
-| [Ascent](../../aspose.font.ttftables/ttfhheatable/ascent) { get; } | 上升。 |
+| [AdvanceWidthMax](../../aspose.font.ttftables/ttfhheatable/advancewidthmax) { get; } | 获取uFWord advanceWidthMax 必须与水平度量一致。 |
+| [Ascent](../../aspose.font.ttftables/ttfhheatable/ascent) { get; } | 获得上升。 |
 | [CaretSlopeRise](../../aspose.font.ttftables/ttfhheatable/caretsloperise) { get; } | 获取插入符号斜率上升。 |
 | [CaretSlopeRun](../../aspose.font.ttftables/ttfhheatable/caretsloperun) { get; } | 获取插入符号斜率运行。 |
-| [Descent](../../aspose.font.ttftables/ttfhheatable/descent) { get; } | 获得下降。 |
-| [LineGap](../../aspose.font.ttftables/ttfhheatable/linegap) { get; } | 获取 lineGap。 |
+| [Descent](../../aspose.font.ttftables/ttfhheatable/descent) { get; } | 获取下降。 |
+| [LineGap](../../aspose.font.ttftables/ttfhheatable/linegap) { get; } | 获取 lineGap. |
 | [MinLeftSideBearing](../../aspose.font.ttftables/ttfhheatable/minleftsidebearing) { get; } | 获取 MinLeftSideBearing 值。 |
 | [MinRightSideBearing](../../aspose.font.ttftables/ttfhheatable/minrightsidebearing) { get; } | 获取 MinRightSideBearing 值。 |
 | [NumOfLongHorMetrics](../../aspose.font.ttftables/ttfhheatable/numoflonghormetrics) { get; } | 获取 uint16 numOfLongHorMetrics 度量表中的前进宽度数。 |
-| [Offset](../../aspose.font.ttftables/ttftablebase/offset) { get; } | 从 sfnt 开始处获取偏移量。 |
+| [Offset](../../aspose.font.ttftables/ttftablebase/offset) { get; } | 获取从 sfnt 开始的偏移量。 |
 | [TtfTables](../../aspose.font.ttftables/ttftablebase/ttftables) { get; } | 对 TTF 表存储库的引用。 |
 | [XMaxExtent](../../aspose.font.ttftables/ttfhheatable/xmaxextent) { get; } | 获取 XMaxExtent 值。 |
 | static [Tag](../../aspose.font.ttftables/ttfhheatable/tag) { get; } | 获取表标签。 |

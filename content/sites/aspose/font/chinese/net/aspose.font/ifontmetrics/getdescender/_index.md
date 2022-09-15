@@ -1,14 +1,14 @@
 ---
 title: GetDescender
 second_title: Aspose.Font for .NET API 参考
-description: 返回特定字体大小的降序
+description: 返回特定字体大小的下降器
 type: docs
 weight: 120
 url: /zh/net/aspose.font/ifontmetrics/getdescender/
 ---
 ## IFontMetrics.GetDescender method
 
-返回特定字体大小的降序。
+返回特定字体大小的下降器。
 
 ```csharp
 public double GetDescender(double fontSize)
@@ -20,7 +20,7 @@ public double GetDescender(double fontSize)
 
 ### 返回值
 
-降序值。
+下降值。
 
 ### 也可以看看
 

@@ -18,14 +18,14 @@ public class TtfCMapFormatBaseTable
 
 | 姓名 | 描述 |
 | --- | --- |
-| [PlatformId](../../aspose.font.ttfcmapformats/ttfcmapformatbasetable/platformid) { get; } | 获取 PlatformId。 |
-| [PlatformSpecificId](../../aspose.font.ttfcmapformats/ttfcmapformatbasetable/platformspecificid) { get; } | 获取 PlatformSpecificId。 |
+| [PlatformId](../../aspose.font.ttfcmapformats/ttfcmapformatbasetable/platformid) { get; } | 获取 PlatformId. |
+| [PlatformSpecificId](../../aspose.font.ttfcmapformats/ttfcmapformatbasetable/platformspecificid) { get; } | 获取 PlatformSpecificId. |
 
 ## 方法
 
 | 姓名 | 描述 |
 | --- | --- |
-| virtual [GetAllCodes](../../aspose.font.ttfcmapformats/ttfcmapformatbasetable/getallcodes)() | 从当前 CMap 的子表中获取所有代码。 |
+| virtual [GetAllCodes](../../aspose.font.ttfcmapformats/ttfcmapformatbasetable/getallcodes)() | 获取当前 CMap 的子表中的所有代码。 |
 | virtual [GetGlyphIndex](../../aspose.font.ttfcmapformats/ttfcmapformatbasetable/getglyphindex)(uint) | 获取给定字符代码的字形索引 |
 
 ### 也可以看看

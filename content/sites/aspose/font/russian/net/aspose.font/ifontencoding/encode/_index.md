@@ -1,14 +1,14 @@
 ---
 title: Encode
 second_title: Справочник по API Aspose.Font для .NET
-description: Кодирует глиф. Для шрифтов TTF charCode является unicode.
+description: Кодирует глиф. Для шрифтов TTF charCode  unicode.
 type: docs
 weight: 30
 url: /ru/net/aspose.font/ifontencoding/encode/
 ---
 ## IFontEncoding.Encode method
 
-Кодирует глиф. Для шрифтов TTF charCode является unicode.
+Кодирует глиф. Для шрифтов TTF charCode — unicode.
 
 ```csharp
 public void Encode(uint gid, uint charCode)

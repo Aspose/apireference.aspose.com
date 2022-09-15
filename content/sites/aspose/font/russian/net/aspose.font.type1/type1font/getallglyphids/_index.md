@@ -1,14 +1,14 @@
 ---
 title: GetAllGlyphIds
 second_title: Справочник по API Aspose.Font для .NET
-description: Возвращает массив всех идентификаторов глифов доступных в Шрифте. Идентификатор глифа  это уникальный номер глифа который зависит от типа шрифта. Идентификатор глифа шрифта Type1 может быть экземпляром класса GlyphStringIdaspose.font.glyphs/glyphstringid или класса GlyphUInt32Idaspose.font.glyphs/glyphuint32id .
+description: Возвращает массив всех идентификаторов глифов доступных в шрифте. Идентификатор глифа  это уникальный номер для глифа который зависит от типа шрифта. Type1 Идентификатор глифа шрифта может быть экземпляром GlyphStringIdaspose.font.glyphs/glyphstringid класс или GlyphUInt32Idaspose.font.glyphs/glyphuint32id класс.
 type: docs
 weight: 140
 url: /ru/net/aspose.font.type1/type1font/getallglyphids/
 ---
 ## Type1Font.GetAllGlyphIds method
 
-Возвращает массив всех идентификаторов глифов, доступных в Шрифте. Идентификатор глифа — это уникальный номер глифа, который зависит от типа шрифта. Идентификатор глифа шрифта Type1 может быть экземпляром класса ([`GlyphStringId`](../../../aspose.font.glyphs/glyphstringid)) или класса ([`GlyphUInt32Id`](../../../aspose.font.glyphs/glyphuint32id)) .
+Возвращает массив всех идентификаторов глифов, доступных в шрифте. Идентификатор глифа — это уникальный номер для глифа, который зависит от типа шрифта. Type1 Идентификатор глифа шрифта может быть экземпляром ([`GlyphStringId`](../../../aspose.font.glyphs/glyphstringid)) класс или ([`GlyphUInt32Id`](../../../aspose.font.glyphs/glyphuint32id) класс.
 
 ```csharp
 public override GlyphId[] GetAllGlyphIds()
@@ -16,7 +16,7 @@ public override GlyphId[] GetAllGlyphIds()
 
 ### Возвращаемое значение
 
-Все идентификаторы глифов, доступные в Шрифте.
+Все идентификаторы глифов, доступные в Font.
 
 ### Смотрите также
 

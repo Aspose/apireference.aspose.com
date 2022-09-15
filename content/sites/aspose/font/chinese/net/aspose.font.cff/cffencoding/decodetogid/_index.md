@@ -1,14 +1,14 @@
 ---
 title: DecodeToGid
 second_title: Aspose.Font for .NET API 参考
-description: 获取通过的 charCode 的 Gid此方法专为 CFF CIDFonts 设计其中 charCode 必须是有效的 CID 值 Glyph id 是字形的唯一编号它取决于字体类型 CFF 字体字形 id 可以是 GlyphStringIdaspose.font.glyphs/glyphstringid 类或 GlyphUInt32Idaspose.font.glyphs/glyphuint32id 类的实例.
+description: 获取通过的 charCode 的 Gid此方法专为 CFF CIDFonts 设计 其中 charCode 必须是有效的 CID 值 Glyph id 是字形的唯一编号取决于字体类型 CFF 字体字形 id 可以是 GlyphStringIdaspose.font.glyphs/glyphstringid 类或 GlyphUInt32Idaspose.font.glyphs/glyphuint32id 类.
 type: docs
 weight: 10
 url: /zh/net/aspose.font.cff/cffencoding/decodetogid/
 ---
 ## CffEncoding.DecodeToGid method
 
-获取通过的 charCode 的 Gid。此方法专为 CFF CIDFonts 设计，其中 charCode 必须是有效的 CID 值。 Glyph id 是字形的唯一编号，它取决于字体类型。 CFF 字体字形 id 可以是 ([`GlyphStringId`](../../../aspose.font.glyphs/glyphstringid)) 类或 ([`GlyphUInt32Id`](../../../aspose.font.glyphs/glyphuint32id)) 类的实例.
+获取通过的 charCode 的 Gid。此方法专为 CFF CIDFonts 设计， 其中 charCode 必须是有效的 CID 值。 Glyph id 是字形的唯一编号，取决于字体类型。 CFF 字体字形 id 可以是 ([`GlyphStringId`](../../../aspose.font.glyphs/glyphstringid)) 类或 ([`GlyphUInt32Id`](../../../aspose.font.glyphs/glyphuint32id) 类.
 
 ```csharp
 public GlyphId DecodeToGid(uint charCode)
@@ -16,7 +16,7 @@ public GlyphId DecodeToGid(uint charCode)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| charCode | UInt32 | 要获取字形标识符的字符代码（CID）。 |
+| charCode | UInt32 | 获取字形标识符的字符代码（CID）。 |
 
 ### 返回值
 

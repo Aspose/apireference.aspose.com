@@ -1,12 +1,12 @@
 ---
 title: Aspose.Font.Rendering
 second_title: Aspose.Font for .NET API 参考
-description: Aspose.Font.Rendering 命名空间提供了描述 Aspose.Font 中使用的渲染对象的类
+description: 的 Aspose.Font.Rendering命名空间提供描述 Aspose.Font 中使用的渲染对象的类
 type: docs
 weight: 70
 url: /zh/net/aspose.font.rendering/
 ---
-**Aspose.Font.Rendering** 命名空间提供了描述 Aspose.Font 中使用的渲染对象的类。
+的 **Aspose.Font.Rendering**命名空间提供描述 Aspose.Font 中使用的渲染对象的类。
 
 ## 接口
 

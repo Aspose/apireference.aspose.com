@@ -1,14 +1,14 @@
 ---
 title: CurrentPlatformId
 second_title: Aspose.Font for .NET API 参考
-description: 获取当前平台 ID
+description: 获取当前平台id
 type: docs
 weight: 20
 url: /zh/net/aspose.font/fontenvironment/currentplatformid/
 ---
 ## FontEnvironment.CurrentPlatformId property
 
-获取当前平台 ID。
+获取当前平台id。
 
 ```csharp
 public int CurrentPlatformId { get; }

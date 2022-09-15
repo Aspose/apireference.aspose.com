@@ -17,7 +17,7 @@ public void Scale(double x, double y, out double x1, out double y1)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | x | Double | Исходная координата x. |
-| y | Double | Исходная координата y. |
+| y | Double | Исходная координата Y. |
 | x1 | Double& | Координата x в масштабе. |
 | y1 | Double& | Координата y в масштабе. |
 

@@ -3,7 +3,7 @@ title: TtfTableBase
 second_title: Справочник по API Aspose.Font для .NET
 description: Представляет определение таблицы TTF.
 type: docs
-weight: 1010
+weight: 1020
 url: /ru/net/aspose.font.ttftables/ttftablebase/
 ---
 ## TtfTableBase class

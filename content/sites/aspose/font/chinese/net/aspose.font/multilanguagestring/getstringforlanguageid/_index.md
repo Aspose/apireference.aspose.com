@@ -3,7 +3,7 @@ title: GetStringForLanguageId
 second_title: Aspose.Font for .NET API 参考
 description: 如果找到则返回与传递的语言标识符相关的字符串否则为空字符串
 type: docs
-weight: 70
+weight: 90
 url: /zh/net/aspose.font/multilanguagestring/getstringforlanguageid/
 ---
 ## MultiLanguageString.GetStringForLanguageId method
@@ -20,7 +20,7 @@ public string GetStringForLanguageId(int languageId)
 
 ### 返回值
 
-与语言标识符相关的字符串，如果找到的话。否则为空字符串。
+与传递的语言标识符相关的字符串（如果找到）。否则为空字符串。
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: TransformationMatrix
 second_title: Справочник по API Aspose.Font для .NET
-description: Представляет матрицу преобразования 3x3 x7C АБ 0 x7C x7C КД 0 x7C x7C ТХ ТИ 1 x7C. Преобразует координаты следующим образом x1  Ax  Cy  TX y1  Bx  Dy  TY.
+description: Представляет матрицу преобразования 3x3 x7C АВ 0 x7C x7C CD 0 x7C x7C TX TY 1 x7C. Преобразует координаты следующим образом x1  Ax  Cy  TX y1  Bx  Dy  TY.
 type: docs
 weight: 570
 url: /ru/net/aspose.font/transformationmatrix/
 ---
 ## TransformationMatrix class
 
-Представляет матрицу преобразования 3x3 &#x7C; АБ 0 &#x7C; &#x7C; КД 0 &#x7C; &#x7C; ТХ ТИ 1 &#x7C;. Преобразует координаты следующим образом: x1 = A*x + C*y + TX; y1 = B*x + D*y + TY.
+Представляет матрицу преобразования 3x3 &#x7C; АВ 0 &#x7C; &#x7C; CD 0 &#x7C; &#x7C; TX TY 1 &#x7C;. Преобразует координаты следующим образом: x1 = A*x + C*y + TX; y1 = B*x + D*y + TY.
 
 ```csharp
 public class TransformationMatrix : ICloneable
@@ -19,7 +19,7 @@ public class TransformationMatrix : ICloneable
 | Имя | Описание |
 | --- | --- |
 | [TransformationMatrix](transformationmatrix#constructor)() | Создает стандартную матрицу преобразования 1 в 1: [ABCD TX TY] = [1, 0, 0, 1, 0, 0]. |
-| [TransformationMatrix](transformationmatrix#constructor_1)(double[]) | Принимает матрицу преобразования со следующим представлением в виде массива: [ ABCD TX TY ]. |
+| [TransformationMatrix](transformationmatrix#constructor_1)(double[]) | Принимает матрицу преобразования со следующим представлением массива: [ABCD TX TY]. |
 
 ## Характеристики
 

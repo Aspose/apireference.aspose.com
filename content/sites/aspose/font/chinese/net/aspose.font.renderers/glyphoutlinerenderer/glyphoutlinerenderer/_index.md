@@ -1,14 +1,14 @@
 ---
 title: GlyphOutlineRenderer
 second_title: Aspose.Font for .NET API 参考
-description: 初始化新的GlyphOutlineRendereraspose.font.renderers/glyphoutlinerenderer对象
+description: 初始化新的GlyphOutlineRendereraspose.font.renderers/glyphoutlinerenderer对象.
 type: docs
 weight: 10
 url: /zh/net/aspose.font.renderers/glyphoutlinerenderer/glyphoutlinerenderer/
 ---
 ## GlyphOutlineRenderer constructor
 
-初始化新的[`GlyphOutlineRenderer`](../../glyphoutlinerenderer)对象。
+初始化新的[`GlyphOutlineRenderer`](../../glyphoutlinerenderer)对象.
 
 ```csharp
 public GlyphOutlineRenderer(IGlyphOutlinePainter painter)

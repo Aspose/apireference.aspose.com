@@ -1,14 +1,14 @@
 ---
 title: GetGlyphById
 second_title: Справочник по API Aspose.Font для .NET
-description: Возвращает глиф по идентификатору глифа. Идентификатор глифа  это уникальный номер глифа который зависит от типа шрифта. GlyphId  производный объект. Например Идентификатор Type1  это имя глифа экземпляр класса GlyphStringIdaspose.font.glyphs/glyphstringid. Идентификатор TTF является индексом int экземпляром класса GlyphUInt32Idaspose.font.glyphs/glyphuint32id.
+description: Возвращает глиф по идентификатору глифа. Идентификатор глифа  это уникальный номер для глифа который зависит от типа шрифта. GlyphId  производный объект. Например Идентификатор Type1  это имя глифа экземпляр GlyphStringIdaspose.font.glyphs/glyphstringid class. Идентификатор TTF является индексом int экземпляром GlyphUInt32Idaspose.font.glyphs/glyphuint32id класс.
 type: docs
 weight: 30
 url: /ru/net/aspose.font.glyphs/iglyphaccessor/getglyphbyid/
 ---
 ## IGlyphAccessor.GetGlyphById method
 
-Возвращает глиф по идентификатору глифа. Идентификатор глифа — это уникальный номер глифа, который зависит от типа шрифта. GlyphId — производный объект. Например: Идентификатор Type1 — это имя глифа, экземпляр класса ([`GlyphStringId`](../../glyphstringid)). Идентификатор TTF является индексом int, экземпляром класса ([`GlyphUInt32Id`](../../glyphuint32id)).
+Возвращает глиф по идентификатору глифа. Идентификатор глифа — это уникальный номер для глифа, который зависит от типа шрифта. GlyphId — производный объект. Например: Идентификатор Type1 — это имя глифа, экземпляр ([`GlyphStringId`](../../glyphstringid)) class. Идентификатор TTF является индексом int, экземпляром ([`GlyphUInt32Id`](../../glyphuint32id) класс.
 
 ```csharp
 public Glyph GetGlyphById(GlyphId id)
@@ -16,7 +16,7 @@ public Glyph GetGlyphById(GlyphId id)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| id | GlyphId | Идентификатор глифа. |
+| id | GlyphId | идентификатор глифа. |
 
 ### Возвращаемое значение
 

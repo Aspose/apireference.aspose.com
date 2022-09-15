@@ -1,14 +1,14 @@
 ---
 title: GlyphId
 second_title: Справочник по API Aspose.Font для .NET
-description: Представляет идентификаторы глифов доступные в шрифте. Идентификатор глифа  это уникальный номер глифа который зависит от типа шрифта. Например Идентификатор Type1  это имя глифа экземпляр класса GlyphStringId./glyphstringid. Идентификатор TTF является индексом int экземпляром класса GlyphUInt32Id./glyphuint32id.
+description: Представляет идентификаторы глифов доступные в шрифте. Идентификатор глифа  это уникальный номер глифа который зависит от типа шрифта. Например id Type1  это имя глифа экземпляр GlyphStringId./glyphstringid class. Идентификатор TTF является индексом int экземпляром GlyphUInt32Id./glyphuint32id класс.
 type: docs
 weight: 240
 url: /ru/net/aspose.font.glyphs/glyphid/
 ---
 ## GlyphId class
 
-Представляет идентификаторы глифов, доступные в шрифте. Идентификатор глифа — это уникальный номер глифа, который зависит от типа шрифта. Например: Идентификатор Type1 — это имя глифа, экземпляр класса ([`GlyphStringId`](../glyphstringid)). Идентификатор TTF является индексом int, экземпляром класса ([`GlyphUInt32Id`](../glyphuint32id)).
+Представляет идентификаторы глифов, доступные в шрифте. Идентификатор глифа — это уникальный номер глифа, который зависит от типа шрифта. Например: id Type1 — это имя глифа, экземпляр ([`GlyphStringId`](../glyphstringid)) class. Идентификатор TTF является индексом int, экземпляром ([`GlyphUInt32Id`](../glyphuint32id) класс.
 
 ```csharp
 public abstract class GlyphId
@@ -20,8 +20,8 @@ public abstract class GlyphId
 | --- | --- |
 | override [Equals](../../aspose.font.glyphs/glyphid/equals)(object) | Возвращает true, если два идентификатора глифа не равны. |
 | abstract [GetHashCode](../../aspose.font.glyphs/glyphid/gethashcode)() | Возвращает хэш-код объекта. |
-| virtual [ToGlyphStringId](../../aspose.font.glyphs/glyphid/toglyphstringid)() | Виртуальное приведение к GlyphUInt32Id. GlyphUInt32Id переопределяет возвращаемый экземпляр. |
-| virtual [ToGlyphUInt32Id](../../aspose.font.glyphs/glyphid/toglyphuint32id)() | Виртуальное приведение к GlyphUInt32Id. GlyphUInt32Id переопределяет возвращаемый экземпляр. |
+| virtual [ToGlyphStringId](../../aspose.font.glyphs/glyphid/toglyphstringid)() | Виртуальное приведение к GlyphUInt32Id. GlyphUInt32Id переопределяет возврат экземпляра. |
+| virtual [ToGlyphUInt32Id](../../aspose.font.glyphs/glyphid/toglyphuint32id)() | Виртуальное приведение к GlyphUInt32Id. GlyphUInt32Id переопределяет возврат экземпляра. |
 | abstract [ToString](../../aspose.font.glyphs/glyphid/tostring)() | Возвращает строковое представление идентификатора глифа. |
 | [operator ==](../../aspose.font.glyphs/glyphid/op_equality) | Возвращает true, если два идентификатора глифа равны. |
 | [operator !=](../../aspose.font.glyphs/glyphid/op_inequality) | Возвращает true, если два идентификатора глифа не равны. |
