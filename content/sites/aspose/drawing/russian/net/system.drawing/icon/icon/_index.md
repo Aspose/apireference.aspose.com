@@ -1,0 +1,200 @@
+---
+title: Icon
+second_title: Справочник по API Aspose.Drawing для .NET
+description: Инициализирует новый экземплярIconsystem.drawing/icon класс из указанного имени файла.
+type: docs
+weight: 10
+url: /ru/net/system.drawing/icon/icon/
+---
+## Icon(string) {#constructor_5}
+
+Инициализирует новый экземпляр[`Icon`](../../icon) класс из указанного имени файла.
+
+```csharp
+public Icon(string fileName)
+```
+
+| Параметр | Тип | Описание |
+| --- | --- | --- |
+| fileName | String | Файл для загрузкиIcon из. |
+
+### Смотрите также
+
+* class [Icon](../../icon)
+* пространство имен [System.Drawing](../../icon)
+* сборка [Aspose.Drawing](../../../)
+
+---
+
+## Icon(Stream) {#constructor_2}
+
+Инициализирует новый экземпляр[`Icon`](../../icon) класс из указанного потока данных.
+
+```csharp
+public Icon(Stream stream)
+```
+
+| Параметр | Тип | Описание |
+| --- | --- | --- |
+| stream | Stream | Поток данных, из которого следует загрузитьIcon. |
+
+### Смотрите также
+
+* class [Icon](../../icon)
+* пространство имен [System.Drawing](../../icon)
+* сборка [Aspose.Drawing](../../../)
+
+---
+
+## Icon(string, Size) {#constructor_7}
+
+Инициализирует новый экземпляр[`Icon`](../../icon) класс указанного размера из указанного файла.
+
+```csharp
+public Icon(string fileName, Size size)
+```
+
+| Параметр | Тип | Описание |
+| --- | --- | --- |
+| fileName | String | Имя и путь к файлу, содержащему данные значка. |
+| size | Size | Желаемый размер значка. |
+
+### Смотрите также
+
+* struct [Size](../../size)
+* class [Icon](../../icon)
+* пространство имен [System.Drawing](../../icon)
+* сборка [Aspose.Drawing](../../../)
+
+---
+
+## Icon(Icon, Size) {#constructor_1}
+
+Инициализирует новый экземпляр[`Icon`](../../icon) class и пытается найти версию значка, соответствующую запрошенному размеру.
+
+```csharp
+public Icon(Icon original, Size size)
+```
+
+| Параметр | Тип | Описание |
+| --- | --- | --- |
+| original | Icon | Icon из которого загрузить значок нового размера. |
+| size | Size | АSizeструктура, определяющая высоту и ширину новогоIcon. |
+
+### Смотрите также
+
+* struct [Size](../../size)
+* class [Icon](../../icon)
+* пространство имен [System.Drawing](../../icon)
+* сборка [Aspose.Drawing](../../../)
+
+---
+
+## Icon(Type, string) {#constructor_8}
+
+Инициализирует новый экземпляр[`Icon`](../../icon) класс из ресурса в указанной сборке.
+
+```csharp
+public Icon(Type type, string resource)
+```
+
+| Параметр | Тип | Описание |
+| --- | --- | --- |
+| type | Type | АType который указывает сборку, в которой нужно искать ресурс. |
+| resource | String | Имя ресурса для загрузки. |
+
+### Смотрите также
+
+* class [Icon](../../icon)
+* пространство имен [System.Drawing](../../icon)
+* сборка [Aspose.Drawing](../../../)
+
+---
+
+## Icon(Stream, Size) {#constructor_4}
+
+Инициализирует новый экземпляр[`Icon`](../../icon) класс указанного размера из указанного потока.
+
+```csharp
+public Icon(Stream stream, Size size)
+```
+
+| Параметр | Тип | Описание |
+| --- | --- | --- |
+| stream | Stream | Поток, содержащий данные значка. |
+| size | Size | Желаемый размер значка. |
+
+### Смотрите также
+
+* struct [Size](../../size)
+* class [Icon](../../icon)
+* пространство имен [System.Drawing](../../icon)
+* сборка [Aspose.Drawing](../../../)
+
+---
+
+## Icon(string, int, int) {#constructor_6}
+
+Инициализирует новый экземпляр[`Icon`](../../icon) класс с указанной шириной и высотой из указанного файла.
+
+```csharp
+public Icon(string fileName, int width, int height)
+```
+
+| Параметр | Тип | Описание |
+| --- | --- | --- |
+| fileName | String | Имя и путь к файлу, содержащемуIcon данные. |
+| width | Int32 | Желаемая ширинаIcon. |
+| height | Int32 | Желаемая высота г.Icon. |
+
+### Смотрите также
+
+* class [Icon](../../icon)
+* пространство имен [System.Drawing](../../icon)
+* сборка [Aspose.Drawing](../../../)
+
+---
+
+## Icon(Icon, int, int) {#constructor}
+
+Инициализирует новый экземпляр[`Icon`](../../icon) class и пытается найти версию значка, соответствующую запрошенному размеру..
+
+```csharp
+public Icon(Icon original, int width, int height)
+```
+
+| Параметр | Тип | Описание |
+| --- | --- | --- |
+| original | Icon | Значок для загрузки другого размера. |
+| width | Int32 | Ширина нового значка. |
+| height | Int32 | Высота новой иконки. |
+
+### Смотрите также
+
+* class [Icon](../../icon)
+* пространство имен [System.Drawing](../../icon)
+* сборка [Aspose.Drawing](../../../)
+
+---
+
+## Icon(Stream, int, int) {#constructor_3}
+
+Инициализирует новый экземпляр[`Icon`](../../icon) класс из указанного потока данных и с указанной шириной и высотой.
+
+```csharp
+public Icon(Stream stream, int width, int height)
+```
+
+| Параметр | Тип | Описание |
+| --- | --- | --- |
+| stream | Stream | Поток данных, из которого загружается значок. |
+| width | Int32 | Ширина значка в пикселях. |
+| height | Int32 | Высота значка в пикселях. |
+
+### Смотрите также
+
+* class [Icon](../../icon)
+* пространство имен [System.Drawing](../../icon)
+* сборка [Aspose.Drawing](../../../)
+
+<!-- DO NOT EDIT: generated by xmldocmd for Aspose.Drawing.dll -->

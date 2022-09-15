@@ -3,7 +3,7 @@ title: Metered
 second_title: Aspose.Drawing for .NET API 参考
 description: 提供设置计量键的方法
 type: docs
-weight: 860
+weight: 20
 url: /zh/net/aspose.drawing/metered/
 ---
 ## Metered class
@@ -18,20 +18,20 @@ public sealed class Metered : IDisposable
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Metered](metered)() | 初始化[`Metered`](../metered)类的新实例。 |
+| [Metered](metered)() | 初始化[`Metered`](../metered)类. |
 
 ## 方法
 
 | 姓名 | 描述 |
 | --- | --- |
 | [Dispose](../../aspose.drawing/metered/dispose)() | 执行与释放、释放或重置非托管资源相关的应用程序定义任务。 |
-| [SetMeteredKey](../../aspose.drawing/metered/setmeteredkey)(string, string) | 设置计量公钥和私钥 |
+| [SetMeteredKey](../../aspose.drawing/metered/setmeteredkey)(string, string) | 设置计量的公钥和私钥 |
 | static [GetConsumptionCredit](../../aspose.drawing/metered/getconsumptioncredit)() | 获得消费信用。 |
 | static [GetConsumptionQuantity](../../aspose.drawing/metered/getconsumptionquantity)() | 获取消费文件大小。 |
 
 ### 例子
 
-在此示例中，将尝试设置计量公钥和私钥
+在此示例中，将尝试设置计量的公钥和私钥
 
 ```csharp
 [C#]

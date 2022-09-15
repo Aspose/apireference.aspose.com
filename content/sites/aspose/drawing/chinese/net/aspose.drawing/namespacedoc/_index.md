@@ -1,14 +1,14 @@
 ---
 title: NamespaceDoc
 second_title: Aspose.Drawing for .NET API 参考
-description: Aspose.Drawing 是一种图形 API它提供与 .NET 应用程序中的 GDI 相同的 2D 绘图功能
+description: Aspose.Drawing 是一个图形 API它提供与 .NET 应用程序中的 GDI 相同的 2D 绘图功能
 type: docs
-weight: 870
+weight: 30
 url: /zh/net/aspose.drawing/namespacedoc/
 ---
 ## NamespaceDoc class
 
-Aspose.Drawing 是一种图形 API，它提供与 .NET 应用程序中的 GDI+ 相同的 2D 绘图功能。
+Aspose.Drawing 是一个图形 API，它提供与 .NET 应用程序中的 GDI+ 相同的 2D 绘图功能。
 
 ```csharp
 public static class NamespaceDoc

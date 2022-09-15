@@ -1,0 +1,200 @@
+---
+title: Icon
+second_title: Aspose.Drawing för .NET API Referens
+description: Initierar en ny instans avIconsystem.drawing/icon klass från det angivna filnamnet.
+type: docs
+weight: 10
+url: /sv/net/system.drawing/icon/icon/
+---
+## Icon(string) {#constructor_5}
+
+Initierar en ny instans av[`Icon`](../../icon) klass från det angivna filnamnet.
+
+```csharp
+public Icon(string fileName)
+```
+
+| Parameter | Typ | Beskrivning |
+| --- | --- | --- |
+| fileName | String | Filen för att laddaIcon från. |
+
+### Se även
+
+* class [Icon](../../icon)
+* namnutrymme [System.Drawing](../../icon)
+* hopsättning [Aspose.Drawing](../../../)
+
+---
+
+## Icon(Stream) {#constructor_2}
+
+Initierar en ny instans av[`Icon`](../../icon) klass från den angivna dataströmmen.
+
+```csharp
+public Icon(Stream stream)
+```
+
+| Parameter | Typ | Beskrivning |
+| --- | --- | --- |
+| stream | Stream | Dataströmmen från vilken du laddarIcon. |
+
+### Se även
+
+* class [Icon](../../icon)
+* namnutrymme [System.Drawing](../../icon)
+* hopsättning [Aspose.Drawing](../../../)
+
+---
+
+## Icon(string, Size) {#constructor_7}
+
+Initierar en ny instans av[`Icon`](../../icon) klass av den angivna storleken från den angivna filen.
+
+```csharp
+public Icon(string fileName, Size size)
+```
+
+| Parameter | Typ | Beskrivning |
+| --- | --- | --- |
+| fileName | String | Namnet och sökvägen till filen som innehåller ikondata. |
+| size | Size | Önskad storlek på ikonen. |
+
+### Se även
+
+* struct [Size](../../size)
+* class [Icon](../../icon)
+* namnutrymme [System.Drawing](../../icon)
+* hopsättning [Aspose.Drawing](../../../)
+
+---
+
+## Icon(Icon, Size) {#constructor_1}
+
+Initierar en ny instans av[`Icon`](../../icon) klass och försöker hitta en version av ikonen som matchar den begärda storleken.
+
+```csharp
+public Icon(Icon original, Size size)
+```
+
+| Parameter | Typ | Beskrivning |
+| --- | --- | --- |
+| original | Icon | DeIcon varifrån den nya ikonen ska laddas. |
+| size | Size | ASizestruktur som anger höjden och bredden på det nyaIcon. |
+
+### Se även
+
+* struct [Size](../../size)
+* class [Icon](../../icon)
+* namnutrymme [System.Drawing](../../icon)
+* hopsättning [Aspose.Drawing](../../../)
+
+---
+
+## Icon(Type, string) {#constructor_8}
+
+Initierar en ny instans av[`Icon`](../../icon) klass från en resurs i den angivna assembly.
+
+```csharp
+public Icon(Type type, string resource)
+```
+
+| Parameter | Typ | Beskrivning |
+| --- | --- | --- |
+| type | Type | AType som anger den sammansättning där man ska leta efter resursen. |
+| resource | String | Resursnamnet som ska laddas. |
+
+### Se även
+
+* class [Icon](../../icon)
+* namnutrymme [System.Drawing](../../icon)
+* hopsättning [Aspose.Drawing](../../../)
+
+---
+
+## Icon(Stream, Size) {#constructor_4}
+
+Initierar en ny instans av[`Icon`](../../icon) klass av den angivna storleken från den angivna strömmen.
+
+```csharp
+public Icon(Stream stream, Size size)
+```
+
+| Parameter | Typ | Beskrivning |
+| --- | --- | --- |
+| stream | Stream | Strömmen som innehåller ikondata. |
+| size | Size | Önskad storlek på ikonen. |
+
+### Se även
+
+* struct [Size](../../size)
+* class [Icon](../../icon)
+* namnutrymme [System.Drawing](../../icon)
+* hopsättning [Aspose.Drawing](../../../)
+
+---
+
+## Icon(string, int, int) {#constructor_6}
+
+Initierar en ny instans av[`Icon`](../../icon) klass med angiven bredd och höjd från den angivna filen.
+
+```csharp
+public Icon(string fileName, int width, int height)
+```
+
+| Parameter | Typ | Beskrivning |
+| --- | --- | --- |
+| fileName | String | Namnet och sökvägen till filen som innehållerIcon data. |
+| width | Int32 | Önskad bredd påIcon. |
+| height | Int32 | Den önskade höjden påIcon. |
+
+### Se även
+
+* class [Icon](../../icon)
+* namnutrymme [System.Drawing](../../icon)
+* hopsättning [Aspose.Drawing](../../../)
+
+---
+
+## Icon(Icon, int, int) {#constructor}
+
+Initierar en ny instans av[`Icon`](../../icon) klass och försöker hitta en version av ikonen som matchar den begärda storleken..
+
+```csharp
+public Icon(Icon original, int width, int height)
+```
+
+| Parameter | Typ | Beskrivning |
+| --- | --- | --- |
+| original | Icon | Ikonen för att ladda den olika storleken från. |
+| width | Int32 | Bredden på den nya ikonen. |
+| height | Int32 | Höjden på den nya ikonen. |
+
+### Se även
+
+* class [Icon](../../icon)
+* namnutrymme [System.Drawing](../../icon)
+* hopsättning [Aspose.Drawing](../../../)
+
+---
+
+## Icon(Stream, int, int) {#constructor_3}
+
+Initierar en ny instans av[`Icon`](../../icon) klass från den angivna dataströmmen och med angiven bredd och höjd.
+
+```csharp
+public Icon(Stream stream, int width, int height)
+```
+
+| Parameter | Typ | Beskrivning |
+| --- | --- | --- |
+| stream | Stream | Dataströmmen från vilken ikonen ska laddas. |
+| width | Int32 | Ikonens bredd i pixlar. |
+| height | Int32 | Höjden, i pixlar, på ikonen. |
+
+### Se även
+
+* class [Icon](../../icon)
+* namnutrymme [System.Drawing](../../icon)
+* hopsättning [Aspose.Drawing](../../../)
+
+<!-- DO NOT EDIT: generated by xmldocmd for Aspose.Drawing.dll -->

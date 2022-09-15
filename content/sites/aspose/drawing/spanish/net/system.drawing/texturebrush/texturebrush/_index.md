@@ -1,0 +1,154 @@
+---
+title: TextureBrush
+second_title: Referencia de Aspose.Drawing para .NET API
+description: Inicializa una nueva instancia delTextureBrushsystem.drawing/texturebrush clase que usa la imagen especificada.
+type: docs
+weight: 10
+url: /es/net/system.drawing/texturebrush/texturebrush/
+---
+## TextureBrush(Image) {#constructor}
+
+Inicializa una nueva instancia del[`TextureBrush`](../../texturebrush) clase que usa la imagen especificada.
+
+```csharp
+public TextureBrush(Image bitmap)
+```
+
+| Parámetro | Escribe | Descripción |
+| --- | --- | --- |
+| bitmap | Image | losImage objeto con el que esteTextureBrush el objeto llena los interiores. |
+
+### Excepciones
+
+| excepción | condición |
+| --- | --- |
+| ArgumentNullException | los*bitmap* es nulo. |
+
+### Ver también
+
+* class [Image](../../image)
+* class [TextureBrush](../../texturebrush)
+* espacio de nombres [System.Drawing](../../texturebrush)
+* asamblea [Aspose.Drawing](../../../)
+
+---
+
+## TextureBrush(Image, WrapMode) {#constructor_1}
+
+Inicializa una nueva instancia del[`TextureBrush`](../../texturebrush) clase que utiliza la imagen especificada y el modo de ajuste.
+
+```csharp
+public TextureBrush(Image image, WrapMode wrapMode)
+```
+
+| Parámetro | Escribe | Descripción |
+| --- | --- | --- |
+| image | Image | La imagen. |
+| wrapMode | WrapMode | AWrapMode enumeración que especifica cómoTextureBrush el objeto está en mosaico. |
+
+### Excepciones
+
+| excepción | condición |
+| --- | --- |
+| ArgumentNullException | los*image* es nulo. |
+
+### Ver también
+
+* class [Image](../../image)
+* enum [WrapMode](../../../system.drawing.drawing2d/wrapmode)
+* class [TextureBrush](../../texturebrush)
+* espacio de nombres [System.Drawing](../../texturebrush)
+* asamblea [Aspose.Drawing](../../../)
+
+---
+
+## TextureBrush(Image, WrapMode, RectangleF) {#constructor_2}
+
+Inicializa una nueva instancia del[`TextureBrush`](../../texturebrush) clase que utiliza la imagen especificada, el modo de ajuste y el rectángulo delimitador.
+
+```csharp
+public TextureBrush(Image image, WrapMode wrapMode, RectangleF dstRect)
+```
+
+| Parámetro | Escribe | Descripción |
+| --- | --- | --- |
+| image | Image | La imagen. |
+| wrapMode | WrapMode | AWrapMode enumeración que especifica cómoTextureBrush el objeto está en mosaico. |
+| dstRect | RectangleF | ARectangleF estructura que representa el rectángulo delimitador para esteTextureBrush objeto. |
+
+### Excepciones
+
+| excepción | condición |
+| --- | --- |
+| ArgumentNullException | los*image* es nulo. |
+
+### Ver también
+
+* class [Image](../../image)
+* enum [WrapMode](../../../system.drawing.drawing2d/wrapmode)
+* struct [RectangleF](../../rectanglef)
+* class [TextureBrush](../../texturebrush)
+* espacio de nombres [System.Drawing](../../texturebrush)
+* asamblea [Aspose.Drawing](../../../)
+
+---
+
+## TextureBrush(Image, RectangleF) {#constructor_3}
+
+Inicializa una nueva instancia del[`TextureBrush`](../../texturebrush) clase que utiliza la imagen especificada y el rectángulo delimitador.
+
+```csharp
+public TextureBrush(Image image, RectangleF dstRect)
+```
+
+| Parámetro | Escribe | Descripción |
+| --- | --- | --- |
+| image | Image | losImage objeto con el que esteTextureBrush el objeto llena los interiores. |
+| dstRect | RectangleF | ARectangleF estructura que representa el rectángulo delimitador para esteTextureBrush objeto. |
+
+### Excepciones
+
+| excepción | condición |
+| --- | --- |
+| ArgumentNullException | los*image* es nulo. |
+
+### Ver también
+
+* class [Image](../../image)
+* struct [RectangleF](../../rectanglef)
+* class [TextureBrush](../../texturebrush)
+* espacio de nombres [System.Drawing](../../texturebrush)
+* asamblea [Aspose.Drawing](../../../)
+
+---
+
+## TextureBrush(Image, RectangleF, ImageAttributes) {#constructor_4}
+
+Inicializa una nueva instancia del[`TextureBrush`](../../texturebrush) clase que utiliza la imagen, el rectángulo delimitador y los atributos de imagen especificados.
+
+```csharp
+public TextureBrush(Image image, RectangleF dstRect, ImageAttributes imageAttr)
+```
+
+| Parámetro | Escribe | Descripción |
+| --- | --- | --- |
+| image | Image | El objeto Image con el que este objeto TextureBrush rellena los interiores. |
+| dstRect | RectangleF | Una estructura RectangleF que representa el rectángulo delimitador para este objeto TextureBrush. |
+| imageAttr | ImageAttributes | Un objeto ImageAttributes que contiene información adicional sobre la image utilizada por este objeto TextureBrush. |
+
+### Excepciones
+
+| excepción | condición |
+| --- | --- |
+| ArgumentNullException | los*image* es nulo. |
+
+### Ver también
+
+* class [Image](../../image)
+* struct [RectangleF](../../rectanglef)
+* class [ImageAttributes](../../../system.drawing.imaging/imageattributes)
+* class [TextureBrush](../../texturebrush)
+* espacio de nombres [System.Drawing](../../texturebrush)
+* asamblea [Aspose.Drawing](../../../)
+
+<!-- DO NOT EDIT: generated by xmldocmd for Aspose.Drawing.dll -->

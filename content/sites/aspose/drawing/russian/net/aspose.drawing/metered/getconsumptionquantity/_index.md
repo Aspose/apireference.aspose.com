@@ -1,14 +1,14 @@
 ---
 title: GetConsumptionQuantity
 second_title: Справочник по API Aspose.Drawing для .NET
-description: Получает размер потребляемого файла.
+description: Получает размер файла потребления.
 type: docs
 weight: 50
 url: /ru/net/aspose.drawing/metered/getconsumptionquantity/
 ---
 ## Metered.GetConsumptionQuantity method
 
-Получает размер потребляемого файла.
+Получает размер файла потребления.
 
 ```csharp
 public static decimal GetConsumptionQuantity()
@@ -16,7 +16,7 @@ public static decimal GetConsumptionQuantity()
 
 ### Возвращаемое значение
 
-Возвращает объем потребления
+Возвращает количество потребления
 
 ### Смотрите также
 
