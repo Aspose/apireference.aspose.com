@@ -1,14 +1,14 @@
 ---
 title: SvgDevice
 second_title: Aspose.TeX for .NET API 参考
-description: 实现将文本和图形内容输出到 PDF 文档的接口
+description: 实现将文本和图形内容输出到PDF文档的接口
 type: docs
-weight: 400
+weight: 420
 url: /zh/net/aspose.tex.presentation.svg/svgdevice/
 ---
 ## SvgDevice class
 
-实现将文本和图形内容输出到 PDF 文档的接口。
+实现将文本和图形内容输出到PDF文档的接口。
 
 ```csharp
 public class SvgDevice : Device, IFragmentRasterizer, IInteractiveDevice
@@ -29,7 +29,7 @@ public class SvgDevice : Device, IFragmentRasterizer, IInteractiveDevice
 | override [FillOpacity](../../aspose.tex.presentation.svg/svgdevice/fillopacity) { get; set; } | 获取/设置当前填充不透明度。 |
 | override [IsReady](../../aspose.tex.presentation.svg/svgdevice/isready) { get; } | 显示设备是否准备好输出。 |
 | override [PageCount](../../aspose.tex.presentation.svg/svgdevice/pagecount) { get; } | 获取页数。 |
-| override [Stroke](../../aspose.tex.presentation.svg/svgdevice/stroke) { get; set; } | 获取/设置当前笔划。 |
+| override [Stroke](../../aspose.tex.presentation.svg/svgdevice/stroke) { get; set; } | 获取/设置当前笔画。 |
 | override [StrokeOpacity](../../aspose.tex.presentation.svg/svgdevice/strokeopacity) { get; set; } | 获取/设置当前笔画不透明度。 |
 
 ## 方法
@@ -39,13 +39,13 @@ public class SvgDevice : Device, IFragmentRasterizer, IInteractiveDevice
 | [AddBookmark](../../aspose.tex.presentation.svg/svgdevice/addbookmark)(string, PointF) | 添加由名称标识的书签。 |
 | override [AddHyperlink](../../aspose.tex.presentation.svg/svgdevice/addhyperlink)(RectangleF, Pen, string) | 设置以 URI 为目标的超链接。 |
 | override [Create](../../aspose.tex.presentation.svg/svgdevice/create)() | 创建此设备的副本。 |
-| override [Dispose](../../aspose.tex.presentation.svg/svgdevice/dispose)() | 释放此设备实例。 最终确定此设备实例的图形状态， 即将 APS 组合上下文切换到ApsCanvas 比这个更高的级别 设备的图形状态 ApsCanvas。 |
+| override [Dispose](../../aspose.tex.presentation.svg/svgdevice/dispose)() | 释放此设备实例。最终确定此设备实例图形状态， 即将 APS 组合上下文切换到ApsCanvas高于 this 设备的图形状态的级别ApsCanvas. |
 | override [DrawPath](../../aspose.tex.presentation.svg/svgdevice/drawpath)(GraphicsPath) | 绘制路径。 |
 | override [DrawString](../../aspose.tex.presentation.svg/svgdevice/drawstring)(string, float, float, List&lt;GlyphData&gt;) | 绘制一个文本字符串。 |
 | override [EndDocument](../../aspose.tex.presentation.svg/svgdevice/enddocument)() | 完成整个文档。 |
 | [EndFragment](../../aspose.tex.presentation.svg/svgdevice/endfragment)() | 结束要光栅化的片段。 |
-| override [EndPage](../../aspose.tex.presentation.svg/svgdevice/endpage)() | 结束一页。 |
-| override [FillPath](../../aspose.tex.presentation.svg/svgdevice/fillpath)(GraphicsPath) | 填写路径。 |
+| override [EndPage](../../aspose.tex.presentation.svg/svgdevice/endpage)() | 完成一个页面。 |
+| override [FillPath](../../aspose.tex.presentation.svg/svgdevice/fillpath)(GraphicsPath) | 填充路径。 |
 | override [Init](../../aspose.tex.presentation.svg/svgdevice/init)() | 初始化设备。 |
 | override [SetClip](../../aspose.tex.presentation.svg/svgdevice/setclip)(GraphicsPath) | 设置当前剪辑路径。 |
 | override [SetTransform](../../aspose.tex.presentation.svg/svgdevice/settransform)(Matrix) | 设置当前坐标空间变换。 |

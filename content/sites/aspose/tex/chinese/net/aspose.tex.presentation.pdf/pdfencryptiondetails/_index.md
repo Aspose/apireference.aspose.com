@@ -3,7 +3,7 @@ title: PdfEncryptionDetails
 second_title: Aspose.TeX for .NET API 参考
 description: 包含 pdf 加密的详细信息
 type: docs
-weight: 350
+weight: 370
 url: /zh/net/aspose.tex.presentation.pdf/pdfencryptiondetails/
 ---
 ## PdfEncryptionDetails class
@@ -18,7 +18,7 @@ public class PdfEncryptionDetails
 
 | 姓名 | 描述 |
 | --- | --- |
-| [PdfEncryptionDetails](pdfencryptiondetails)(string, string, int, PdfEncryptionAlgorithm) | 初始化PdfEncryptionDetailsCore类的新实例。 |
+| [PdfEncryptionDetails](pdfencryptiondetails)(string, string, int, PdfEncryptionAlgorithm) | 初始化PdfEncryptionDetailsCore类. |
 
 ## 特性
 

@@ -1,12 +1,12 @@
 ---
 title: Aspose.TeX.Presentation.Svg
 second_title: Справочник по API Aspose.TeX для .NET
-description: Пространство имен Aspose.TeX.Presentation.Svg предоставляет классы для верстки файлов TeX в SVG.
+description: Aspose.TeX.Presentation.Svg namespace предоставляет классы для верстки файлов TeX в SVG.
 type: docs
 weight: 70
 url: /ru/net/aspose.tex.presentation.svg/
 ---
-Пространство имен **Aspose.TeX.Presentation.Svg** предоставляет классы для верстки файлов TeX в SVG.
+**Aspose.TeX.Presentation.Svg** namespace предоставляет классы для верстки файлов TeX в SVG.
 
 ## Классы
 

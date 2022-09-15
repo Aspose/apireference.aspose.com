@@ -3,7 +3,7 @@ title: License
 second_title: Aspose.TeX for .NET API 参考
 description: 提供许可组件的方法
 type: docs
-weight: 220
+weight: 230
 url: /zh/net/aspose.tex/license/
 ---
 ## License class

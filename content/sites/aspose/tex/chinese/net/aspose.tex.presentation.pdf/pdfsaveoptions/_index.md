@@ -3,7 +3,7 @@ title: PdfSaveOptions
 second_title: Aspose.TeX for .NET API 参考
 description: 表示保存为 PDF 选项的类
 type: docs
-weight: 370
+weight: 390
 url: /zh/net/aspose.tex.presentation.pdf/pdfsaveoptions/
 ---
 ## PdfSaveOptions class
@@ -25,14 +25,14 @@ public class PdfSaveOptions : SaveOptions
 | 姓名 | 描述 |
 | --- | --- |
 | [EncryptionDetails](../../aspose.tex.presentation.pdf/pdfsaveoptions/encryptiondetails) { get; set; } | 获取或设置加密细节。如果未设置，则不会执行加密。 |
-| [ImageCompression](../../aspose.tex.presentation.pdf/pdfsaveoptions/imagecompression) { get; set; } | 指定要用于文档中所有图像的压缩类型。 默认为Auto。 |
+| [ImageCompression](../../aspose.tex.presentation.pdf/pdfsaveoptions/imagecompression) { get; set; } | 指定用于文档中所有图像的压缩类型。 默认为Auto. |
 | [JpegQualityLevel](../../aspose.tex.presentation.pdf/pdfsaveoptions/jpegqualitylevel) { get; set; } | 质量类别指定图像的压缩级别。 可用值是 0 到 100。 指定的数字越小，压缩率越高，因此图像质量越低。 0 值导致最低质量的图像，而 100 导致最高质量。 |
-| [OutlineTreeExpansionLevel](../../aspose.tex.presentation.pdf/pdfsaveoptions/outlinetreeexpansionlevel) { get; set; } | 指定查看 PDF 文件时文档大纲应展开到什么级别。 1 - 仅显示第一级大纲项， 2 - 仅显示第一级和第二级大纲项， 等等。 默认为 1。 |
+| [OutlineTreeExpansionLevel](../../aspose.tex.presentation.pdf/pdfsaveoptions/outlinetreeexpansionlevel) { get; set; } | 指定查看 PDF 文件时文档大纲应展开到哪一级。 1 - 仅显示第一级大纲项目， 2 - 仅显示第一级和第二级大纲项目， 依此类推。 默认为 1. |
 | [OutlineTreeHeight](../../aspose.tex.presentation.pdf/pdfsaveoptions/outlinetreeheight) { get; set; } | 指定要保存的文档大纲树的高度。 0 - 不转换大纲树， 1 - 只转换第一级大纲项， 以此类推。 |
 | [RasterizeFormulas](../../aspose.tex.presentation/saveoptions/rasterizeformulas) { get; set; } | 获取/设置允许光栅化数学公式的标志。 |
 | [RasterizeIncludedGraphics](../../aspose.tex.presentation/saveoptions/rasterizeincludedgraphics) { get; set; } | 获取/设置允许光栅化 PS/EPS 和/或 XPS/OXPS 包含的图形的标志。 |
 | [SubsetFonts](../../aspose.tex.presentation/saveoptions/subsetfonts) { get; set; } | 获取/设置指示是否对输出文件中的字体进行子集化的标志。 |
-| [TextCompression](../../aspose.tex.presentation.pdf/pdfsaveoptions/textcompression) { get; set; } | 指定要用于除图像之外的所有内容流的压缩类型。 默认为Flate。 |
+| [TextCompression](../../aspose.tex.presentation.pdf/pdfsaveoptions/textcompression) { get; set; } | 指定用于除图像之外的所有内容流的压缩类型。 默认为Flate. |
 
 ### 也可以看看
 

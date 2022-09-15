@@ -3,7 +3,7 @@ title: SmoothingMode
 second_title: Справочник по API Aspose.TeX для .NET
 description: Получает/устанавливает режим сглаживания.
 type: docs
-weight: 50
+weight: 60
 url: /ru/net/aspose.tex.presentation.image/imagesaveoptions/smoothingmode/
 ---
 ## ImageSaveOptions.SmoothingMode property

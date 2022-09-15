@@ -1,14 +1,14 @@
 ---
 title: LogStream
 second_title: Справочник по API Aspose.TeX для .NET
-description: Получает/устанавливает поток для записи вывода журнала.
+description: Получает/устанавливает поток для записи выходных данных журнала.
 type: docs
 weight: 40
 url: /ru/net/aspose.tex.features/mathrendereroptions/logstream/
 ---
 ## MathRendererOptions.LogStream property
 
-Получает/устанавливает поток для записи вывода журнала.
+Получает/устанавливает поток для записи выходных данных журнала.
 
 ```csharp
 public Stream LogStream { get; set; }

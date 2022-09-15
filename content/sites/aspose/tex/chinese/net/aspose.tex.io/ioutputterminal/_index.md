@@ -1,14 +1,14 @@
 ---
 title: IOutputTerminal
 second_title: Aspose.TeX for .NET API 参考
-description: 抽象输出终端的接口
+description: 抽象输出终端接口
 type: docs
 weight: 110
 url: /zh/net/aspose.tex.io/ioutputterminal/
 ---
 ## IOutputTerminal interface
 
-抽象输出终端的接口。
+抽象输出终端接口。
 
 ```csharp
 public interface IOutputTerminal

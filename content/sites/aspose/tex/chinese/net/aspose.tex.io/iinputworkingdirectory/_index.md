@@ -1,14 +1,14 @@
 ---
 title: IInputWorkingDirectory
 second_title: Aspose.TeX for .NET API 参考
-description: 通用输入工作目录接口
+description: 广义输入工作目录接口
 type: docs
 weight: 100
 url: /zh/net/aspose.tex.io/iinputworkingdirectory/
 ---
 ## IInputWorkingDirectory interface
 
-通用输入工作目录接口。
+广义输入工作目录接口。
 
 ```csharp
 public interface IInputWorkingDirectory : IDisposable

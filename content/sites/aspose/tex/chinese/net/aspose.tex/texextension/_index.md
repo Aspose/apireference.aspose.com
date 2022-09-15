@@ -3,7 +3,7 @@ title: TeXExtension
 second_title: Aspose.TeX for .NET API 参考
 description: 类定义常量以从中选择 TeX 引擎扩展
 type: docs
-weight: 460
+weight: 480
 url: /zh/net/aspose.tex/texextension/
 ---
 ## TeXExtension class

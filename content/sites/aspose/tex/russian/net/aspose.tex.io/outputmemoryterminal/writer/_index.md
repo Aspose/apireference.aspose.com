@@ -1,14 +1,14 @@
 ---
 title: Writer
 second_title: Справочник по API Aspose.TeX для .NET
-description: Получает модуль записи для выходного терминала.
+description: Получает средство записи для выходного терминала.
 type: docs
 weight: 30
 url: /ru/net/aspose.tex.io/outputmemoryterminal/writer/
 ---
 ## OutputMemoryTerminal.Writer property
 
-Получает модуль записи для выходного терминала.
+Получает средство записи для выходного терминала.
 
 ```csharp
 public TextWriter Writer { get; }

@@ -1,14 +1,14 @@
 ---
 title: Scale
 second_title: Aspose.TeX for .NET API 参考
-description: 获取/设置比例 1000 表示 1001200 表示 120依此类推
+description: 获取/设置比例 1000 表示 1001200 表示 120等等
 type: docs
 weight: 60
 url: /zh/net/aspose.tex.features/mathrendereroptions/scale/
 ---
 ## MathRendererOptions.Scale property
 
-获取/设置比例。 1000 表示 100%，1200 表示 120%，依此类推。
+获取/设置比例。 1000 表示 100%，1200 表示 120%，等等。
 
 ```csharp
 public int Scale { get; set; }

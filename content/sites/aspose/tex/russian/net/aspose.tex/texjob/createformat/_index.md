@@ -17,7 +17,7 @@ public static void CreateFormat(string path, TeXOptions options)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | path | String | Путь к исходному файлу основного формата. |
-| options | TeXOptions | Параметры запуска движка TeX. |
+| options | TeXOptions | Варианты запуска двигателя TeX. |
 
 ### Смотрите также
 

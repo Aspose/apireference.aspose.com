@@ -1,14 +1,14 @@
 ---
 title: AdvanceWidth
 second_title: Aspose.TeX for .NET API 参考
-description: 获取/设置字形宽度同时考虑字距
+description: 获取/设置字形宽度考虑到kerns.
 type: docs
 weight: 20
 url: /zh/net/aspose.tex.presentation/glyphdata/advancewidth/
 ---
 ## GlyphData.AdvanceWidth property
 
-获取/设置字形宽度，同时考虑字距。
+获取/设置字形宽度，考虑到kerns.
 
 ```csharp
 public float AdvanceWidth { get; set; }

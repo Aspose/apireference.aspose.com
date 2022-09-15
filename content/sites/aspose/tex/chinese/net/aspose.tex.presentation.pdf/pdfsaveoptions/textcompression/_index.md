@@ -1,14 +1,14 @@
 ---
 title: TextCompression
 second_title: Aspose.TeX for .NET API 参考
-description: 指定要用于除图像之外的所有内容流的压缩类型 默认为Flate
+description: 指定用于除图像之外的所有内容流的压缩类型 默认为Flate.
 type: docs
 weight: 70
 url: /zh/net/aspose.tex.presentation.pdf/pdfsaveoptions/textcompression/
 ---
 ## PdfSaveOptions.TextCompression property
 
-指定要用于除图像之外的所有内容流的压缩类型。 默认为Flate。
+指定用于除图像之外的所有内容流的压缩类型。 默认为Flate.
 
 ```csharp
 public PdfTextCompression TextCompression { get; set; }

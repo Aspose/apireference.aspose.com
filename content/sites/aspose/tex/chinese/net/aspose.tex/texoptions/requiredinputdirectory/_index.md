@@ -1,14 +1,14 @@
 ---
 title: RequiredInputDirectory
 second_title: Aspose.TeX for .NET API 参考
-description: 获取/设置所需输入的目录例如超出 Aspose.TeX 的 LaTeX 支持的 包
+description: 获取/设置所需输入的目录例如 超出 Aspose.TeX 的 LaTeX 支持的包
 type: docs
 weight: 100
 url: /zh/net/aspose.tex/texoptions/requiredinputdirectory/
 ---
 ## TeXOptions.RequiredInputDirectory property
 
-获取/设置所需输入的目录，例如，超出 Aspose.TeX 的 LaTeX 支持的 包。
+获取/设置所需输入的目录，例如， 超出 Aspose.TeX 的 LaTeX 支持的包。
 
 ```csharp
 public IInputWorkingDirectory RequiredInputDirectory { get; set; }

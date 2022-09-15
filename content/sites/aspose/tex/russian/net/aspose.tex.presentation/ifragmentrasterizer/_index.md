@@ -3,7 +3,7 @@ title: IFragmentRasterizer
 second_title: Справочник по API Aspose.TeX для .NET
 description: Интерфейс позволяющий растрировать фрагменты TeX.
 type: docs
-weight: 250
+weight: 270
 url: /ru/net/aspose.tex.presentation/ifragmentrasterizer/
 ---
 ## IFragmentRasterizer interface
@@ -18,7 +18,7 @@ public interface IFragmentRasterizer
 
 | Имя | Описание |
 | --- | --- |
-| [EndFragment](../../aspose.tex.presentation/ifragmentrasterizer/endfragment)() | Завершает фрагмент для растеризации. |
+| [EndFragment](../../aspose.tex.presentation/ifragmentrasterizer/endfragment)() | Завершает фрагмент для растрирования. |
 | [StartFragment](../../aspose.tex.presentation/ifragmentrasterizer/startfragment)() | Начинает растрировать фрагмент. |
 
 ### Смотрите также

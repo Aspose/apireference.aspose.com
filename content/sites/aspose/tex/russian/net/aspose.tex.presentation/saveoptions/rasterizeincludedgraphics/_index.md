@@ -1,14 +1,14 @@
 ---
 title: RasterizeIncludedGraphics
 second_title: Справочник по API Aspose.TeX для .NET
-description: Возвращает/устанавливает флаг позволяющий растрировать включенную графику PS/EPS и/или XPS/OXPS.
+description: Получает/устанавливает флаг позволяющий растеризовать включенную графику PS/EPS и/или XPS/OXPS.
 type: docs
 weight: 20
 url: /ru/net/aspose.tex.presentation/saveoptions/rasterizeincludedgraphics/
 ---
 ## SaveOptions.RasterizeIncludedGraphics property
 
-Возвращает/устанавливает флаг, позволяющий растрировать включенную графику PS/EPS и/или XPS/OXPS.
+Получает/устанавливает флаг, позволяющий растеризовать включенную графику PS/EPS и/или XPS/OXPS.
 
 ```csharp
 public bool RasterizeIncludedGraphics { get; set; }

@@ -3,7 +3,7 @@ title: TeXJob
 second_title: Aspose.TeX for .NET API 参考
 description: 实现 TeX 作业的功能
 type: docs
-weight: 470
+weight: 490
 url: /zh/net/aspose.tex/texjob/
 ---
 ## TeXJob class
@@ -18,7 +18,7 @@ public class TeXJob
 
 | 姓名 | 描述 |
 | --- | --- |
-| [TeXJob](texjob#constructor)(Device, TeXOptions) | 创建一个 TeX 作业，用于在生产模式下运行引擎以排版 TeX 文档。 引擎一启动就会提示文件名。 因此，这个运行应该是交互式的。 |
+| [TeXJob](texjob#constructor)(Device, TeXOptions) | 创建一个 TeX 作业，用于在生产模式下运行引擎以排版 TeX 文档。 引擎一启动就会提示文件名。 因此这个运行应该是交互式的。 |
 | [TeXJob](texjob#constructor_1)(Stream, Device, TeXOptions) | 创建一个 TeX 作业，用于在生产模式下运行引擎以排版 TeX 文件。 |
 | [TeXJob](texjob#constructor_2)(string, Device, TeXOptions) | 创建一个 TeX 作业，用于在生产模式下运行引擎以排版 TeX 文件。 |
 

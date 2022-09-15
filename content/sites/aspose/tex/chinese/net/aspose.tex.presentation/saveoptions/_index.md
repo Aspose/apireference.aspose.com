@@ -3,7 +3,7 @@ title: SaveOptions
 second_title: Aspose.TeX for .NET API 参考
 description: 文档保存选项的基本类
 type: docs
-weight: 390
+weight: 410
 url: /zh/net/aspose.tex.presentation/saveoptions/
 ---
 ## SaveOptions class

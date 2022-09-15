@@ -16,7 +16,7 @@ public OutputZipDirectory(Stream zipStream)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| zipStream | Stream | Поток, в который будет записываться архив. |
+| zipStream | Stream | Поток для записи архива. |
 
 ### Смотрите также
 

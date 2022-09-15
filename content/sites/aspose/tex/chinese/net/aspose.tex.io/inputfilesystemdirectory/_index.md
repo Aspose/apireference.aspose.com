@@ -1,14 +1,14 @@
 ---
 title: InputFileSystemDirectory
 second_title: Aspose.TeX for .NET API 参考
-description: 实现常规文件系统的方法来获取要读取的文件流
+description: 实现常规文件系统获取要读取的文件流的方法
 type: docs
 weight: 140
 url: /zh/net/aspose.tex.io/inputfilesystemdirectory/
 ---
 ## InputFileSystemDirectory class
 
-实现常规文件系统的方法来获取要读取的文件流。
+实现常规文件系统获取要读取的文件流的方法。
 
 ```csharp
 public class InputFileSystemDirectory : IInputWorkingDirectory
@@ -24,7 +24,7 @@ public class InputFileSystemDirectory : IInputWorkingDirectory
 
 | 姓名 | 描述 |
 | --- | --- |
-| virtual [Dispose](../../aspose.tex.io/inputfilesystemdirectory/dispose)() | 处置实例。 |
+| virtual [Dispose](../../aspose.tex.io/inputfilesystemdirectory/dispose)() | 处理实例。 |
 | [GetFile](../../aspose.tex.io/inputfilesystemdirectory/getfile)(string, out string, bool) | 返回要读取的流。 |
 
 ### 也可以看看

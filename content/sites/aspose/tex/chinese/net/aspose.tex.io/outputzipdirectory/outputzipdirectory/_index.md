@@ -16,7 +16,7 @@ public OutputZipDirectory(Stream zipStream)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| zipStream | Stream | 要写入存档的流。 |
+| zipStream | Stream | 要将存档写入的流。 |
 
 ### 也可以看看
 

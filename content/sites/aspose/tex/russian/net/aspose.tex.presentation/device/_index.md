@@ -1,14 +1,14 @@
 ---
 title: Device
 second_title: Справочник по API Aspose.TeX для .NET
-description: Реализует интерфейс для вывода текстового и графического содержимого на абстрактное устройство. Рендеринг выполняется постранично.
+description: Реализует интерфейс для вывода текстового и графического контента на абстрактное устройство. Рендеринг выполняется постранично.
 type: docs
-weight: 230
+weight: 250
 url: /ru/net/aspose.tex.presentation/device/
 ---
 ## Device class
 
-Реализует интерфейс для вывода текстового и графического содержимого на абстрактное устройство. Рендеринг выполняется постранично.
+Реализует интерфейс для вывода текстового и графического контента на абстрактное устройство. Рендеринг выполняется постранично.
 
 ```csharp
 public abstract class Device
@@ -30,7 +30,7 @@ public abstract class Device
 | abstract [IsReady](../../aspose.tex.presentation/device/isready) { get; } | Показывает, готово ли устройство к выводу. |
 | abstract [PageCount](../../aspose.tex.presentation/device/pagecount) { get; } | Получает количество страниц. |
 | virtual [Stroke](../../aspose.tex.presentation/device/stroke) { get; set; } | Получает/устанавливает текущий штрих. |
-| virtual [StrokeOpacity](../../aspose.tex.presentation/device/strokeopacity) { get; set; } | Получает/устанавливает текущую непрозрачность обводки. |
+| virtual [StrokeOpacity](../../aspose.tex.presentation/device/strokeopacity) { get; set; } | Получает/устанавливает текущую непрозрачность штриха. |
 
 ## Методы
 

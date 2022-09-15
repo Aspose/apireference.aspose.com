@@ -1,14 +1,14 @@
 ---
 title: TeXJob
 second_title: Справочник по API Aspose.TeX для .NET
-description: Создает задание TeX для запуска движка в рабочем режиме для набора файла TeX.
+description: Создает задание TeX для запуска движка в производственном режиме для набора файла TeX.
 type: docs
 weight: 10
 url: /ru/net/aspose.tex/texjob/texjob/
 ---
 ## TeXJob(Stream, Device, TeXOptions) {#constructor_1}
 
-Создает задание TeX для запуска движка в рабочем режиме для набора файла TeX.
+Создает задание TeX для запуска движка в производственном режиме для набора файла TeX.
 
 ```csharp
 public TeXJob(Stream stream, Device device, TeXOptions options)
@@ -18,7 +18,7 @@ public TeXJob(Stream stream, Device device, TeXOptions options)
 | --- | --- | --- |
 | stream | Stream | Поток, содержащий файл TeX. |
 | device | Device | Устройство, определяющее выходное представление. |
-| options | TeXOptions | Параметры запуска движка TeX. |
+| options | TeXOptions | Варианты запуска двигателя TeX. |
 
 ### Смотрите также
 
@@ -32,7 +32,7 @@ public TeXJob(Stream stream, Device device, TeXOptions options)
 
 ## TeXJob(string, Device, TeXOptions) {#constructor_2}
 
-Создает задание TeX для запуска движка в рабочем режиме для набора файла TeX.
+Создает задание TeX для запуска движка в производственном режиме для набора файла TeX.
 
 ```csharp
 public TeXJob(string path, Device device, TeXOptions options)
@@ -42,7 +42,7 @@ public TeXJob(string path, Device device, TeXOptions options)
 | --- | --- | --- |
 | path | String | Путь к файлу TeX. |
 | device | Device | Устройство, определяющее выходное представление. |
-| options | TeXOptions | Параметры запуска движка TeX. |
+| options | TeXOptions | Варианты запуска двигателя TeX. |
 
 ### Смотрите также
 
@@ -56,7 +56,7 @@ public TeXJob(string path, Device device, TeXOptions options)
 
 ## TeXJob(Device, TeXOptions) {#constructor}
 
-Создает задание TeX для запуска механизма в рабочем режиме для набора документа TeX. Движок подскажет имя файла, как только запустится. Таким образом, этот запуск должен быть интерактивным.
+Создает задание TeX для запуска движка в производственном режиме для набора текста документа TeX. Движок запросит имя файла, как только запустится. Таким образом, этот запуск должен быть интерактивным.
 
 ```csharp
 public TeXJob(Device device, TeXOptions options)
@@ -65,7 +65,7 @@ public TeXJob(Device device, TeXOptions options)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | device | Device | Устройство, определяющее выходное представление. |
-| options | TeXOptions | Параметры запуска движка TeX. |
+| options | TeXOptions | Варианты запуска двигателя TeX. |
 
 ### Смотрите также
 

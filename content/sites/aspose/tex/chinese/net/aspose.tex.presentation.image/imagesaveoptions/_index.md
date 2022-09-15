@@ -1,14 +1,14 @@
 ---
 title: ImageSaveOptions
 second_title: Aspose.TeX for .NET API 参考
-description: 代表保存为 PDF 选项的基本类
+description: 表示保存为 PDF 选项的基本类
 type: docs
-weight: 290
+weight: 310
 url: /zh/net/aspose.tex.presentation.image/imagesaveoptions/
 ---
 ## ImageSaveOptions class
 
-代表保存为 PDF 选项的基本类。
+表示保存为 PDF 选项的基本类。
 
 ```csharp
 public abstract class ImageSaveOptions : SaveOptions
@@ -24,6 +24,7 @@ public abstract class ImageSaveOptions : SaveOptions
 
 | 姓名 | 描述 |
 | --- | --- |
+| [DeviceWritesImages](../../aspose.tex.presentation.image/imagesaveoptions/devicewritesimages) { get; set; } | 获取/设置决定图像设备是否将写入输出图像的标志。 将其设置为如果您打算使用图像设备的 Result 属性写入图像。 |
 | [InterpolationMode](../../aspose.tex.presentation.image/imagesaveoptions/interpolationmode) { get; set; } | 获取/设置插值模式。 |
 | [PageNumbers](../../aspose.tex.presentation.image/imagesaveoptions/pagenumbers) { get; set; } | 获取/设置要转换的页数数组。 |
 | [RasterizeFormulas](../../aspose.tex.presentation/saveoptions/rasterizeformulas) { get; set; } | 获取/设置允许光栅化数学公式的标志。 |

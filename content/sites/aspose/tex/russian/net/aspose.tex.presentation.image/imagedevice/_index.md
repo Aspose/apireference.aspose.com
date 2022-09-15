@@ -1,14 +1,14 @@
 ---
 title: ImageDevice
 second_title: Справочник по API Aspose.TeX для .NET
-description: Реализует интерфейс для вывода текста и графики на изображения.
+description: Реализует интерфейс для вывода текстового и графического содержимого на изображения.
 type: docs
-weight: 280
+weight: 300
 url: /ru/net/aspose.tex.presentation.image/imagedevice/
 ---
 ## ImageDevice class
 
-Реализует интерфейс для вывода текста и графики на изображения.
+Реализует интерфейс для вывода текстового и графического содержимого на изображения.
 
 ```csharp
 public class ImageDevice : Device
@@ -18,7 +18,7 @@ public class ImageDevice : Device
 
 | Имя | Описание |
 | --- | --- |
-| [ImageDevice](imagedevice)(bool) | Создает новый экземпляр. Выходной файл будет записан в выходной рабочий каталог , принимая имя задания в качестве имени файла. |
+| [ImageDevice](imagedevice)(bool) | Создает новый экземпляр. Выходной файл будет записан в выходной каталог working , используя имя задания в качестве имени файла. |
 
 ## Характеристики
 
@@ -29,9 +29,9 @@ public class ImageDevice : Device
 | override [FillOpacity](../../aspose.tex.presentation.image/imagedevice/fillopacity) { get; set; } | Получает/устанавливает текущую непрозрачность заливки. |
 | override [IsReady](../../aspose.tex.presentation.image/imagedevice/isready) { get; } | Показывает, готово ли устройство к выводу. |
 | override [PageCount](../../aspose.tex.presentation.image/imagedevice/pagecount) { get; } | Получает количество страниц. |
-| [Result](../../aspose.tex.presentation.image/imagedevice/result) { get; } | Возвращает результирующие байтовые массивы изображений. Первое измерение предназначено для внутренних документов , а второе — для страниц внутренних документов. |
+| [Result](../../aspose.tex.presentation.image/imagedevice/result) { get; } | Возвращает результирующие байтовые массивы изображений. Первое измерение предназначено для внутренних документов , а второе — для страниц во внутренних документах. |
 | override [Stroke](../../aspose.tex.presentation.image/imagedevice/stroke) { get; set; } | Получает/устанавливает текущий штрих. |
-| override [StrokeOpacity](../../aspose.tex.presentation.image/imagedevice/strokeopacity) { get; set; } | Получает/устанавливает текущую непрозрачность обводки. |
+| override [StrokeOpacity](../../aspose.tex.presentation.image/imagedevice/strokeopacity) { get; set; } | Получает/устанавливает текущую непрозрачность штриха. |
 
 ## Методы
 
@@ -39,12 +39,12 @@ public class ImageDevice : Device
 | --- | --- |
 | override [AddHyperlink](../../aspose.tex.presentation.image/imagedevice/addhyperlink)(RectangleF, Pen, string) | Установить гиперссылку с URI в качестве цели. |
 | override [Create](../../aspose.tex.presentation.image/imagedevice/create)() | Создает копию этого устройства. |
-| override [Dispose](../../aspose.tex.presentation.image/imagedevice/dispose)() | Удаляет этот экземпляр устройства. Завершает графическое состояние этого экземпляра устройства, т.е. переключает контекст композиции на уровень выше, чем графическое состояние этого устройства. |
+| override [Dispose](../../aspose.tex.presentation.image/imagedevice/dispose)() | Удаляет этот экземпляр устройства. Завершает графическое состояние этого экземпляра устройства, т. е. переключает контекст композиции на уровень выше, чем графическое состояние этого устройства. |
 | override [DrawPath](../../aspose.tex.presentation.image/imagedevice/drawpath)(GraphicsPath) | Рисует путь. |
 | override [DrawString](../../aspose.tex.presentation.image/imagedevice/drawstring)(string, float, float, List&lt;GlyphData&gt;) | Рисует текстовую строку. |
 | override [EndDocument](../../aspose.tex.presentation.image/imagedevice/enddocument)() | Завершает весь документ. |
 | override [EndPage](../../aspose.tex.presentation.image/imagedevice/endpage)() | Завершает страницу. |
-| override [FillPath](../../aspose.tex.presentation.image/imagedevice/fillpath)(GraphicsPath) | Заполните путь. |
+| override [FillPath](../../aspose.tex.presentation.image/imagedevice/fillpath)(GraphicsPath) | Заполнить путь. |
 | override [Init](../../aspose.tex.presentation.image/imagedevice/init)() | Инициализирует устройство. |
 | override [SetClip](../../aspose.tex.presentation.image/imagedevice/setclip)(GraphicsPath) | Устанавливает текущий путь клипа. |
 | override [SetTransform](../../aspose.tex.presentation.image/imagedevice/settransform)(Matrix) | Устанавливает текущее преобразование координатного пространства. |

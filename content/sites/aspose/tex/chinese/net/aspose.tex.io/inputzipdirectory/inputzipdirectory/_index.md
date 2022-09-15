@@ -16,8 +16,8 @@ public InputZipDirectory(Stream zipStream, string basePath)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| zipStream | Stream | 要写入存档的流。 |
-| basePath | String | ZIP 存档内的基本路径。 |
+| zipStream | Stream | 要将存档写入的流。 |
+| basePath | String | ZIP 存档中的基本路径。 |
 
 ### 也可以看看
 

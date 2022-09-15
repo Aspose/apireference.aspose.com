@@ -16,7 +16,7 @@ public static TeXOptions ConsoleAppOptions(TeXConfig config)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| config | TeXConfig | TeX 配置。 |
+| config | TeXConfig | 一个 TeX 配置。 |
 
 ### 返回值
 

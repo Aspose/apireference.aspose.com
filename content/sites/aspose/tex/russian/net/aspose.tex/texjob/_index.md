@@ -3,7 +3,7 @@ title: TeXJob
 second_title: Справочник по API Aspose.TeX для .NET
 description: Реализует функции задания TeX.
 type: docs
-weight: 470
+weight: 490
 url: /ru/net/aspose.tex/texjob/
 ---
 ## TeXJob class
@@ -18,9 +18,9 @@ public class TeXJob
 
 | Имя | Описание |
 | --- | --- |
-| [TeXJob](texjob#constructor)(Device, TeXOptions) | Создает задание TeX для запуска механизма в рабочем режиме для набора документа TeX. Движок подскажет имя файла, как только запустится. Таким образом, этот запуск должен быть интерактивным. |
-| [TeXJob](texjob#constructor_1)(Stream, Device, TeXOptions) | Создает задание TeX для запуска движка в рабочем режиме для набора файла TeX. |
-| [TeXJob](texjob#constructor_2)(string, Device, TeXOptions) | Создает задание TeX для запуска движка в рабочем режиме для набора файла TeX. |
+| [TeXJob](texjob#constructor)(Device, TeXOptions) | Создает задание TeX для запуска движка в производственном режиме для набора текста документа TeX. Движок запросит имя файла, как только запустится. Таким образом, этот запуск должен быть интерактивным. |
+| [TeXJob](texjob#constructor_1)(Stream, Device, TeXOptions) | Создает задание TeX для запуска движка в производственном режиме для набора файла TeX. |
+| [TeXJob](texjob#constructor_2)(string, Device, TeXOptions) | Создает задание TeX для запуска движка в производственном режиме для набора файла TeX. |
 
 ## Методы
 

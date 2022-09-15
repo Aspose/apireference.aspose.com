@@ -3,7 +3,7 @@ title: TeXConfig
 second_title: Справочник по API Aspose.TeX для .NET
 description: Класс предоставляющий доступные конфигурации TeX.
 type: docs
-weight: 450
+weight: 470
 url: /ru/net/aspose.tex/texconfig/
 ---
 ## TeXConfig class
@@ -18,8 +18,8 @@ public class TeXConfig
 
 | Имя | Описание |
 | --- | --- |
-| static [ObjectIniTeX](../../aspose.tex/texconfig/objectinitex) { get; } | Получает конфигурацию расширения движка ObjectTeX без предварительно загруженного формата, т.е. в режиме INITEX. Предполагается использовать для подготовки формата. |
-| static [ObjectLaTeX](../../aspose.tex/texconfig/objectlatex) { get; } | Получает конфигурацию расширения механизма ObjectTeX с предварительно загруженным форматом ObjectLaTeX. |
+| static [ObjectIniTeX](../../aspose.tex/texconfig/objectinitex) { get; } | Получает конфигурацию расширения движка ObjectTeX без предварительной загрузки формата, т.е. в режиме INITEX. Предполагается использовать для подготовки формата. |
+| static [ObjectLaTeX](../../aspose.tex/texconfig/objectlatex) { get; } | Получает конфигурацию расширения ядра ObjectTeX с предварительно загруженным форматом ObjectLaTeX. |
 
 ## Методы
 

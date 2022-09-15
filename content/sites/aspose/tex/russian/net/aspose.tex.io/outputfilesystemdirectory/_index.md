@@ -3,7 +3,7 @@ title: OutputFileSystemDirectory
 second_title: Справочник по API Aspose.TeX для .NET
 description: Реализует метод обычной файловой системы для получения файлового потока для записи.
 type: docs
-weight: 170
+weight: 180
 url: /ru/net/aspose.tex.io/outputfilesystemdirectory/
 ---
 ## OutputFileSystemDirectory class

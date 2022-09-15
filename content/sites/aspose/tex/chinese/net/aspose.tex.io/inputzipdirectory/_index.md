@@ -24,7 +24,7 @@ public class InputZipDirectory : IInputWorkingDirectory
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Dispose](../../aspose.tex.io/inputzipdirectory/dispose)() | 处置实例。 |
+| [Dispose](../../aspose.tex.io/inputzipdirectory/dispose)() | 处理实例。 |
 | [GetFile](../../aspose.tex.io/inputzipdirectory/getfile)(string, out string, bool) | 返回要读取的流。 |
 
 ### 也可以看看

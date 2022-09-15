@@ -1,14 +1,14 @@
 ---
 title: TeXOptions
 second_title: Справочник по API Aspose.TeX для .NET
-description: Класс опций обработки файлов TeX.
+description: Класс опций обработки файла TeX.
 type: docs
-weight: 480
+weight: 500
 url: /ru/net/aspose.tex/texoptions/
 ---
 ## TeXOptions class
 
-Класс опций обработки файлов TeX.
+Класс опций обработки файла TeX.
 
 ```csharp
 public class TeXOptions
@@ -18,16 +18,16 @@ public class TeXOptions
 
 | Имя | Описание |
 | --- | --- |
-| [DateTime](../../aspose.tex/texoptions/datetime) { get; set; } | Получает/устанавливает определенное значение для примитивов даты/времени, таких как \год, \месяц, \день и \время. |
-| [IgnoreMissingPackages](../../aspose.tex/texoptions/ignoremissingpackages) { get; set; } | Получает/устанавливает флаг, который указывает движку, следует ли останавливать при отсутствии попытки чтения пакета или игнорировать ее. |
+| [DateTime](../../aspose.tex/texoptions/datetime) { get; set; } | Получает/устанавливает определенное значение для примитивов даты/времени, таких как \year, \month, \day и \time. |
+| [IgnoreMissingPackages](../../aspose.tex/texoptions/ignoremissingpackages) { get; set; } | Получает/устанавливает флаг, который указывает движку, следует ли остановить при попытке чтения пакета или игнорировать его. |
 | [InputWorkingDirectory](../../aspose.tex/texoptions/inputworkingdirectory) { get; set; } | Получает/устанавливает входной рабочий каталог. |
-| [Interaction](../../aspose.tex/texoptions/interaction) { get; set; } | Получает/устанавливает режим взаимодействия для запуска механизма TeX. |
+| [Interaction](../../aspose.tex/texoptions/interaction) { get; set; } | Получает/устанавливает режим взаимодействия для запуска механизма TeX в. |
 | [JobName](../../aspose.tex/texoptions/jobname) { get; set; } | Получает/устанавливает имя задания. |
 | [NoLigatures](../../aspose.tex/texoptions/noligatures) { get; set; } | Получает/устанавливает флаг, который отменяет лигатуры во всех шрифтах. |
 | [OutputWorkingDirectory](../../aspose.tex/texoptions/outputworkingdirectory) { get; set; } | Получает/устанавливает выходной рабочий каталог. |
-| [Repeat](../../aspose.tex/texoptions/repeat) { get; set; } | Получает/устанавливает флаг, указывающий, нужно ли запускать задание TeX дважды в случае, например, , во входных файлах TeX есть ссылки. В общем, такое поведение полезно, когда движок собирает некоторые данные в процессе набора текста и сохраняет их во вспомогательном файле, все при первом запуске. И при втором запуске движок каким-то образом использует эти данные. |
-| [RequiredInputDirectory](../../aspose.tex/texoptions/requiredinputdirectory) { get; set; } | Получает/задает каталог для необходимых входных данных, например, пакеты , которые не поддерживаются Aspose.TeX LaTeX. |
-| [SaveOptions](../../aspose.tex/texoptions/saveoptions) { get; set; } | Получает/устанавливает параметры, используемые для рендеринга в конечный формат (XPS, PDF, изображение и т. д.). Значение по умолчанию — это набор параметров по умолчанию для рендеринга в XPS. |
+| [Repeat](../../aspose.tex/texoptions/repeat) { get; set; } | Получает/устанавливает флаг, указывающий, необходимо ли запускать задание TeX дважды в случае, например, , во входных файлах TeX есть ссылки. В общем, такое поведение полезно, когда движок собирает некоторые данные в процессе набора текста и сохраняет их во вспомогательном файле, все при первом запуске. И при втором запуске движок как-то использует эти данные. |
+| [RequiredInputDirectory](../../aspose.tex/texoptions/requiredinputdirectory) { get; set; } | Получает/устанавливает каталог для необходимых входных данных, например, пакетов, которые не поддерживаются Aspose.TeX LaTeX. |
+| [SaveOptions](../../aspose.tex/texoptions/saveoptions) { get; set; } | Получает/задает параметры, используемые для рендеринга в формат назначения (XPS, PDF, изображение и т. д.). Значение по умолчанию — это набор параметров по умолчанию для рендеринга в XPS. |
 | [TerminalIn](../../aspose.tex/texoptions/terminalin) { get; set; } | Получает/устанавливает считыватель терминала ввода. |
 | [TerminalOut](../../aspose.tex/texoptions/terminalout) { get; set; } | Получает/устанавливает модуль записи выходного терминала. |
 

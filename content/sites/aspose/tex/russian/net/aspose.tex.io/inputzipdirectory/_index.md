@@ -1,7 +1,7 @@
 ---
 title: InputZipDirectory
 second_title: Справочник по API Aspose.TeX для .NET
-description: Реализует метод получения файлового потока для записи когда рабочий каталог является ZIP-архивом.
+description: Реализует метод получения файлового потока для записи когда рабочий каталог является ZIPархивом.
 type: docs
 weight: 150
 url: /ru/net/aspose.tex.io/inputzipdirectory/

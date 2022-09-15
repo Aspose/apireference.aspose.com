@@ -1,14 +1,14 @@
 ---
 title: TeXConfig
 second_title: Aspose.TeX for .NET API 参考
-description: 类提供可用的 TeX 配置
+description: 提供可用 TeX 配置的类
 type: docs
-weight: 450
+weight: 470
 url: /zh/net/aspose.tex/texconfig/
 ---
 ## TeXConfig class
 
-类提供可用的 TeX 配置。
+提供可用 TeX 配置的类。
 
 ```csharp
 public class TeXConfig
@@ -18,14 +18,14 @@ public class TeXConfig
 
 | 姓名 | 描述 |
 | --- | --- |
-| static [ObjectIniTeX](../../aspose.tex/texconfig/objectinitex) { get; } | 获取没有预加载格式的 ObjectTeX 引擎扩展的配置，即在 INITEX 模式下。 应该用于格式准备。 |
+| static [ObjectIniTeX](../../aspose.tex/texconfig/objectinitex) { get; } | 获取没有预加载格式的ObjectTeX 引擎扩展的配置，即在INITEX 模式下。 应该用于格式准备。 |
 | static [ObjectLaTeX](../../aspose.tex/texconfig/objectlatex) { get; } | 获取预加载 ObjectLaTeX 格式的 ObjectTeX 引擎扩展的配置。 |
 
 ## 方法
 
 | 姓名 | 描述 |
 | --- | --- |
-| static [ObjectTeX](../../aspose.tex/texconfig/objecttex)(FormatProvider) | 获取预先加载了提供的格式的 ObjectTeX 引擎扩展的配置。 |
+| static [ObjectTeX](../../aspose.tex/texconfig/objecttex)(FormatProvider) | 获取预加载提供的格式的 ObjectTeX 引擎扩展的配置。 |
 
 ### 也可以看看
 

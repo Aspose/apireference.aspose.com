@@ -1,14 +1,14 @@
 ---
 title: ImageCompression
 second_title: Aspose.TeX for .NET API 参考
-description: 指定要用于文档中所有图像的压缩类型 默认为Auto
+description: 指定用于文档中所有图像的压缩类型 默认为Auto.
 type: docs
 weight: 30
 url: /zh/net/aspose.tex.presentation.pdf/pdfsaveoptions/imagecompression/
 ---
 ## PdfSaveOptions.ImageCompression property
 
-指定要用于文档中所有图像的压缩类型。 默认为Auto。
+指定用于文档中所有图像的压缩类型。 默认为Auto.
 
 ```csharp
 public PdfImageCompression ImageCompression { get; set; }

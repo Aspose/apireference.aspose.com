@@ -1,14 +1,14 @@
 ---
 title: ImageCompression
 second_title: Справочник по API Aspose.TeX для .NET
-description: Указывает тип сжатия который будет использоваться для всех изображений в документе. По умолчанию используетсяAuto.
+description: Определяет тип сжатия который будет использоваться для всех изображений в документе. Значение по умолчаниюAuto .
 type: docs
 weight: 30
 url: /ru/net/aspose.tex.presentation.pdf/pdfsaveoptions/imagecompression/
 ---
 ## PdfSaveOptions.ImageCompression property
 
-Указывает тип сжатия, который будет использоваться для всех изображений в документе. По умолчанию используетсяAuto.
+Определяет тип сжатия, который будет использоваться для всех изображений в документе. Значение по умолчанию:Auto .
 
 ```csharp
 public PdfImageCompression ImageCompression { get; set; }

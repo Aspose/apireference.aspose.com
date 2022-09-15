@@ -3,7 +3,7 @@ title: XpsDevice
 second_title: Справочник по API Aspose.TeX для .NET
 description: Реализует интерфейс для вывода текстового и графического содержимого в документ XPS.
 type: docs
-weight: 420
+weight: 440
 url: /ru/net/aspose.tex.presentation.xps/xpsdevice/
 ---
 ## XpsDevice class
@@ -18,7 +18,7 @@ public class XpsDevice : Device, IFragmentRasterizer, IInteractiveDevice
 
 | Имя | Описание |
 | --- | --- |
-| [XpsDevice](xpsdevice#constructor)() | Создает новый экземпляр. Выходной файл будет записан в выходной рабочий каталог , принимая имя задания в качестве имени файла. |
+| [XpsDevice](xpsdevice#constructor)() | Создает новый экземпляр. Выходной файл будет записан в выходной каталог working , используя имя задания в качестве имени файла. |
 | [XpsDevice](xpsdevice#constructor_1)(Stream) | Создает новый экземпляр. Выходной файл будет записан в указанный поток. |
 
 ## Характеристики
@@ -31,22 +31,22 @@ public class XpsDevice : Device, IFragmentRasterizer, IInteractiveDevice
 | override [IsReady](../../aspose.tex.presentation.xps/xpsdevice/isready) { get; } | Показывает, готово ли устройство к выводу. |
 | override [PageCount](../../aspose.tex.presentation.xps/xpsdevice/pagecount) { get; } | Получает количество страниц. |
 | override [Stroke](../../aspose.tex.presentation.xps/xpsdevice/stroke) { get; set; } | Получает/устанавливает текущий штрих. |
-| override [StrokeOpacity](../../aspose.tex.presentation.xps/xpsdevice/strokeopacity) { get; set; } | Получает/устанавливает текущую непрозрачность обводки. |
+| override [StrokeOpacity](../../aspose.tex.presentation.xps/xpsdevice/strokeopacity) { get; set; } | Получает/устанавливает текущую непрозрачность штриха. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| [AddBookmark](../../aspose.tex.presentation.xps/xpsdevice/addbookmark)(string, PointF) | Добавляет закладку, идентифицированную по имени. |
+| [AddBookmark](../../aspose.tex.presentation.xps/xpsdevice/addbookmark)(string, PointF) | Добавляет закладку, идентифицированную именем. |
 | override [AddHyperlink](../../aspose.tex.presentation.xps/xpsdevice/addhyperlink)(RectangleF, Pen, string) | Установить гиперссылку с URI в качестве цели. |
 | override [Create](../../aspose.tex.presentation.xps/xpsdevice/create)() | Создает копию этого устройства. |
-| override [Dispose](../../aspose.tex.presentation.xps/xpsdevice/dispose)() | Удаляет этот экземпляр устройства. Завершает графическое состояние этого экземпляра устройства, т.е. переключает контекст создания APS наApsCanvasуровня выше, чем графическое состояние этого устройстваApsCanvas. |
+| override [Dispose](../../aspose.tex.presentation.xps/xpsdevice/dispose)() | Удаляет этот экземпляр устройства. Завершает графическое состояние этого экземпляра устройства, т. е. переключает контекст создания APS наApsCanvas на уровень выше, чем графическое состояние устройства this ApsCanvas . |
 | override [DrawPath](../../aspose.tex.presentation.xps/xpsdevice/drawpath)(GraphicsPath) | Рисует путь. |
 | override [DrawString](../../aspose.tex.presentation.xps/xpsdevice/drawstring)(string, float, float, List&lt;GlyphData&gt;) | Рисует текстовую строку. |
 | override [EndDocument](../../aspose.tex.presentation.xps/xpsdevice/enddocument)() | Завершает весь документ. |
-| [EndFragment](../../aspose.tex.presentation.xps/xpsdevice/endfragment)() | Завершает фрагмент для растеризации. |
+| [EndFragment](../../aspose.tex.presentation.xps/xpsdevice/endfragment)() | Завершает фрагмент для растрирования. |
 | override [EndPage](../../aspose.tex.presentation.xps/xpsdevice/endpage)() | Завершает страницу. |
-| override [FillPath](../../aspose.tex.presentation.xps/xpsdevice/fillpath)(GraphicsPath) | Заполните путь. |
+| override [FillPath](../../aspose.tex.presentation.xps/xpsdevice/fillpath)(GraphicsPath) | Заполнить путь. |
 | override [Init](../../aspose.tex.presentation.xps/xpsdevice/init)() | Инициализирует устройство. |
 | override [SetClip](../../aspose.tex.presentation.xps/xpsdevice/setclip)(GraphicsPath) | Устанавливает текущий путь клипа. |
 | override [SetTransform](../../aspose.tex.presentation.xps/xpsdevice/settransform)(Matrix) | Устанавливает текущее преобразование координатного пространства. |

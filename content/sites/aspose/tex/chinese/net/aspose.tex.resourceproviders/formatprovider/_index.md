@@ -3,7 +3,7 @@ title: FormatProvider
 second_title: Aspose.TeX for .NET API 参考
 description: 提供 TeX 格式的类
 type: docs
-weight: 440
+weight: 460
 url: /zh/net/aspose.tex.resourceproviders/formatprovider/
 ---
 ## FormatProvider class
@@ -31,7 +31,7 @@ public class FormatProvider : IDisposable
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Dispose](../../aspose.tex.resourceproviders/formatprovider/dispose)() | 处置实例。 |
+| [Dispose](../../aspose.tex.resourceproviders/formatprovider/dispose)() | 处理实例。 |
 
 ### 也可以看看
 

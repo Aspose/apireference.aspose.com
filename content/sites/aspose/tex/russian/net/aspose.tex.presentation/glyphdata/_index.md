@@ -1,9 +1,9 @@
 ---
 title: GlyphData
 second_title: Справочник по API Aspose.TeX для .NET
-description: Класс-контейнер для данных глифов необходимых для точного набора текстовой строки.
+description: Классконтейнер для данных глифов необходимых для точного набора текстовой строки.
 type: docs
-weight: 240
+weight: 260
 url: /ru/net/aspose.tex.presentation/glyphdata/
 ---
 ## GlyphData class
@@ -24,7 +24,7 @@ public class GlyphData
 
 | Имя | Описание |
 | --- | --- |
-| [AdvanceWidth](../../aspose.tex.presentation/glyphdata/advancewidth) { get; set; } | Получает/устанавливает ширину глифа с учетом кернов. |
+| [AdvanceWidth](../../aspose.tex.presentation/glyphdata/advancewidth) { get; set; } | Получает/устанавливает ширину глифа с учетом ядер. |
 | [NaturalWidth](../../aspose.tex.presentation/glyphdata/naturalwidth) { get; set; } | Получает/устанавливает ширину глифа, определяемую шрифтом. |
 | [UOffset](../../aspose.tex.presentation/glyphdata/uoffset) { get; set; } | Получает/устанавливает горизонтальное смещение. |
 | [VOffset](../../aspose.tex.presentation/glyphdata/voffset) { get; set; } | Получает/устанавливает вертикальное смещение. |

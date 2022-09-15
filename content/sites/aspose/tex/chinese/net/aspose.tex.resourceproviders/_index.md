@@ -1,12 +1,12 @@
 ---
 title: Aspose.TeX.ResourceProviders
 second_title: Aspose.TeX for .NET API 参考
-description: Aspose.TeX.ResourceProviders 命名空间为资源提供者提供公共类
+description: 的 Aspose.TeX.ResourceProviders命名空间为资源提供者提供公共类
 type: docs
 weight: 90
 url: /zh/net/aspose.tex.resourceproviders/
 ---
-**Aspose.TeX.ResourceProviders** 命名空间为资源提供者提供公共类。
+的 **Aspose.TeX.ResourceProviders**命名空间为资源提供者提供公共类。
 
 ## 课程
 

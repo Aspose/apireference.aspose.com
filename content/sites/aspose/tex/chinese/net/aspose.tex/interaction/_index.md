@@ -1,14 +1,14 @@
 ---
 title: Interaction
 second_title: Aspose.TeX for .NET API 参考
-description: 代表越来越多的用户交互
+description: 表示用户交互量的增加
 type: docs
-weight: 210
+weight: 220
 url: /zh/net/aspose.tex/interaction/
 ---
 ## Interaction enumeration
 
-代表越来越多的用户交互。
+表示用户交互量的增加。
 
 ```csharp
 public enum Interaction
@@ -19,9 +19,9 @@ public enum Interaction
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
 | BatchMode | `0` | 省略所有停止并省略终端输出。 |
-| NonstopMode | `1` | 省略所有停止。 |
+| NonstopMode | `1` | 省略所有停靠点。 |
 | ScrollMode | `2` | 忽略错误停止。 |
-| ErrorStopMode | `3` | 抓住每一个互动的机会。 |
+| ErrorStopMode | `3` | 一有机会就停下来互动。 |
 | FormatDefined | `4` | 保留由 TeX 格式定义的交互模式。 |
 
 ### 也可以看看

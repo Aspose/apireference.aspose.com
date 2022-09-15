@@ -1,14 +1,14 @@
 ---
 title: ObjectLaTeX
 second_title: Справочник по API Aspose.TeX для .NET
-description: Получает конфигурацию расширения механизма ObjectTeX с предварительно загруженным форматом ObjectLaTeX.
+description: Получает конфигурацию расширения ядра ObjectTeX с предварительно загруженным форматом ObjectLaTeX.
 type: docs
 weight: 20
 url: /ru/net/aspose.tex/texconfig/objectlatex/
 ---
 ## TeXConfig.ObjectLaTeX property
 
-Получает конфигурацию расширения механизма ObjectTeX с предварительно загруженным форматом ObjectLaTeX.
+Получает конфигурацию расширения ядра ObjectTeX с предварительно загруженным форматом ObjectLaTeX.
 
 ```csharp
 public static TeXConfig ObjectLaTeX { get; }

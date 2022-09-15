@@ -1,14 +1,14 @@
 ---
 title: PdfDevice
 second_title: Aspose.TeX for .NET API 参考
-description: 实现将文本和图形内容输出到 PDF 文档的接口
+description: 实现将文本和图形内容输出到PDF文档的接口
 type: docs
-weight: 330
+weight: 350
 url: /zh/net/aspose.tex.presentation.pdf/pdfdevice/
 ---
 ## PdfDevice class
 
-实现将文本和图形内容输出到 PDF 文档的接口。
+实现将文本和图形内容输出到PDF文档的接口。
 
 ```csharp
 public class PdfDevice : Device, IFragmentRasterizer, IInteractiveDevice
@@ -19,7 +19,7 @@ public class PdfDevice : Device, IFragmentRasterizer, IInteractiveDevice
 | 姓名 | 描述 |
 | --- | --- |
 | [PdfDevice](pdfdevice#constructor)() | 创建新实例。 输出文件将以作业名作为文件名写入输出工作 目录。 |
-| [PdfDevice](pdfdevice#constructor_1)(Stream) | 创建新实例。 输出文件将被写入指定流。 |
+| [PdfDevice](pdfdevice#constructor_1)(Stream) | 创建新实例。 输出文件将写入指定流。 |
 
 ## 特性
 
@@ -30,7 +30,7 @@ public class PdfDevice : Device, IFragmentRasterizer, IInteractiveDevice
 | override [FillOpacity](../../aspose.tex.presentation.pdf/pdfdevice/fillopacity) { get; set; } | 获取/设置当前填充不透明度。 |
 | override [IsReady](../../aspose.tex.presentation.pdf/pdfdevice/isready) { get; } | 显示设备是否准备好输出。 |
 | override [PageCount](../../aspose.tex.presentation.pdf/pdfdevice/pagecount) { get; } | 获取页数。 |
-| override [Stroke](../../aspose.tex.presentation.pdf/pdfdevice/stroke) { get; set; } | 获取/设置当前笔划。 |
+| override [Stroke](../../aspose.tex.presentation.pdf/pdfdevice/stroke) { get; set; } | 获取/设置当前笔画。 |
 | override [StrokeOpacity](../../aspose.tex.presentation.pdf/pdfdevice/strokeopacity) { get; set; } | 获取/设置当前笔画不透明度。 |
 
 ## 方法
@@ -40,13 +40,13 @@ public class PdfDevice : Device, IFragmentRasterizer, IInteractiveDevice
 | [AddBookmark](../../aspose.tex.presentation.pdf/pdfdevice/addbookmark)(string, PointF) | 添加由名称标识的书签。 |
 | override [AddHyperlink](../../aspose.tex.presentation.pdf/pdfdevice/addhyperlink)(RectangleF, Pen, string) | 设置以 URI 为目标的超链接。 |
 | override [Create](../../aspose.tex.presentation.pdf/pdfdevice/create)() | 创建此设备的副本。 |
-| override [Dispose](../../aspose.tex.presentation.pdf/pdfdevice/dispose)() | 释放此设备实例。 最终确定此设备实例的图形状态， 即将 APS 组合上下文切换到ApsCanvas 比这个更高的级别 设备的图形状态 ApsCanvas. |
+| override [Dispose](../../aspose.tex.presentation.pdf/pdfdevice/dispose)() | 释放此设备实例。最终确定此设备实例图形状态， 即将 APS 组合上下文切换到ApsCanvas高于 this 设备的图形状态的级别ApsCanvas. |
 | override [DrawPath](../../aspose.tex.presentation.pdf/pdfdevice/drawpath)(GraphicsPath) | 绘制路径。 |
 | override [DrawString](../../aspose.tex.presentation.pdf/pdfdevice/drawstring)(string, float, float, List&lt;GlyphData&gt;) | 绘制一个文本字符串。 |
 | override [EndDocument](../../aspose.tex.presentation.pdf/pdfdevice/enddocument)() | 完成整个文档。 |
 | [EndFragment](../../aspose.tex.presentation.pdf/pdfdevice/endfragment)() | 结束要光栅化的片段。 |
-| override [EndPage](../../aspose.tex.presentation.pdf/pdfdevice/endpage)() | 结束一页。 |
-| override [FillPath](../../aspose.tex.presentation.pdf/pdfdevice/fillpath)(GraphicsPath) | 填写路径。 |
+| override [EndPage](../../aspose.tex.presentation.pdf/pdfdevice/endpage)() | 完成一个页面。 |
+| override [FillPath](../../aspose.tex.presentation.pdf/pdfdevice/fillpath)(GraphicsPath) | 填充路径。 |
 | override [Init](../../aspose.tex.presentation.pdf/pdfdevice/init)() | 初始化设备。 |
 | override [SetClip](../../aspose.tex.presentation.pdf/pdfdevice/setclip)(GraphicsPath) | 设置当前剪辑路径。 |
 | override [SetTransform](../../aspose.tex.presentation.pdf/pdfdevice/settransform)(Matrix) | 设置当前坐标空间变换。 |

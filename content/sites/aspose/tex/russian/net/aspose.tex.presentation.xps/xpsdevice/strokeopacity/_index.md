@@ -1,14 +1,14 @@
 ---
 title: StrokeOpacity
 second_title: Справочник по API Aspose.TeX для .NET
-description: Получает/устанавливает текущую непрозрачность обводки.
+description: Получает/устанавливает текущую непрозрачность штриха.
 type: docs
 weight: 80
 url: /ru/net/aspose.tex.presentation.xps/xpsdevice/strokeopacity/
 ---
 ## XpsDevice.StrokeOpacity property
 
-Получает/устанавливает текущую непрозрачность обводки.
+Получает/устанавливает текущую непрозрачность штриха.
 
 ```csharp
 public override float StrokeOpacity { get; set; }

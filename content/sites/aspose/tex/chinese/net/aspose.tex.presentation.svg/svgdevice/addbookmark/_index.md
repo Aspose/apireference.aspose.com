@@ -16,8 +16,8 @@ public void AddBookmark(string name, PointF position)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| name | String | 名称。 |
-| position | PointF | 位置。 |
+| name | String | 名字。 |
+| position | PointF | 立场。 |
 
 ### 也可以看看
 

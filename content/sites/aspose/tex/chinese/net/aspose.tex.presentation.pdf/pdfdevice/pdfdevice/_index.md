@@ -24,7 +24,7 @@ public PdfDevice()
 
 ## PdfDevice(Stream) {#constructor_1}
 
-创建新实例。 输出文件将被写入指定流。
+创建新实例。 输出文件将写入指定流。
 
 ```csharp
 public PdfDevice(Stream stream)
@@ -32,7 +32,7 @@ public PdfDevice(Stream stream)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| stream | Stream | 要将输出文件写入的流。 |
+| stream | Stream | 将输出文件写入的流。 |
 
 ### 也可以看看
 

@@ -3,7 +3,7 @@ title: OutputMemoryTerminal
 second_title: Aspose.TeX for .NET API 参考
 description: 提供内存流作为终端输出目的地
 type: docs
-weight: 190
+weight: 200
 url: /zh/net/aspose.tex.io/outputmemoryterminal/
 ---
 ## OutputMemoryTerminal class

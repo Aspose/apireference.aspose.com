@@ -3,7 +3,7 @@ title: GlyphData
 second_title: Aspose.TeX for .NET API 参考
 description: 用于精确排版文本字符串所需的字形数据的容器类
 type: docs
-weight: 240
+weight: 260
 url: /zh/net/aspose.tex.presentation/glyphdata/
 ---
 ## GlyphData class
@@ -24,10 +24,10 @@ public class GlyphData
 
 | 姓名 | 描述 |
 | --- | --- |
-| [AdvanceWidth](../../aspose.tex.presentation/glyphdata/advancewidth) { get; set; } | 获取/设置字形宽度，同时考虑字距。 |
-| [NaturalWidth](../../aspose.tex.presentation/glyphdata/naturalwidth) { get; set; } | 获取/设置字体定义的字形宽度。 |
-| [UOffset](../../aspose.tex.presentation/glyphdata/uoffset) { get; set; } | 获取/设置水平偏移。 |
-| [VOffset](../../aspose.tex.presentation/glyphdata/voffset) { get; set; } | 获取/设置垂直偏移。 |
+| [AdvanceWidth](../../aspose.tex.presentation/glyphdata/advancewidth) { get; set; } | 获取/设置字形宽度，考虑到kerns. |
+| [NaturalWidth](../../aspose.tex.presentation/glyphdata/naturalwidth) { get; set; } | 获取/设置由字体定义的字形宽度。 |
+| [UOffset](../../aspose.tex.presentation/glyphdata/uoffset) { get; set; } | 获取/设置水平偏移量。 |
+| [VOffset](../../aspose.tex.presentation/glyphdata/voffset) { get; set; } | 获取/设置垂直偏移量。 |
 
 ### 也可以看看
 

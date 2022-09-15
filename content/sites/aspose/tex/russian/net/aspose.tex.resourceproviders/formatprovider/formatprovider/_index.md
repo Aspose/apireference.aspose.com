@@ -17,7 +17,7 @@ public FormatProvider(IInputWorkingDirectory workingDirectory, string formatFile
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | workingDirectory | IInputWorkingDirectory | Рабочий каталог. |
-| formatFileName | String | Имя исходного файла, с которого начинается чтение формата. |
+| formatFileName | String | Имя исходного файла, с которого нужно начать чтение. |
 
 ### Смотрите также
 

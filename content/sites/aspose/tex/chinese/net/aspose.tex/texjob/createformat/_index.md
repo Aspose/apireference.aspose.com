@@ -16,7 +16,7 @@ public static void CreateFormat(string path, TeXOptions options)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| path | String | 主格式源文件的路径。 |
+| path | String | 主要格式源文件的路径。 |
 | options | TeXOptions | TeX 引擎运行选项。 |
 
 ### 也可以看看

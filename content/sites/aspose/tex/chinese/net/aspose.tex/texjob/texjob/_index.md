@@ -56,7 +56,7 @@ public TeXJob(string path, Device device, TeXOptions options)
 
 ## TeXJob(Device, TeXOptions) {#constructor}
 
-创建一个 TeX 作业，用于在生产模式下运行引擎以排版 TeX 文档。 引擎一启动就会提示文件名。 因此，这个运行应该是交互式的。
+创建一个 TeX 作业，用于在生产模式下运行引擎以排版 TeX 文档。 引擎一启动就会提示文件名。 因此这个运行应该是交互式的。
 
 ```csharp
 public TeXJob(Device device, TeXOptions options)

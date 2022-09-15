@@ -1,14 +1,14 @@
 ---
 title: FillPath
 second_title: Справочник по API Aspose.TeX для .NET
-description: Заполните путь.
+description: Заполнить путь.
 type: docs
 weight: 170
 url: /ru/net/aspose.tex.presentation.image/imagedevice/fillpath/
 ---
 ## ImageDevice.FillPath method
 
-Заполните путь.
+Заполнить путь.
 
 ```csharp
 public override void FillPath(GraphicsPath path)

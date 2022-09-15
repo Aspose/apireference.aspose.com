@@ -3,7 +3,7 @@ title: OutputFileSystemDirectory
 second_title: Aspose.TeX for .NET API 参考
 description: 实现常规文件系统获取要写入的文件流的方法
 type: docs
-weight: 170
+weight: 180
 url: /zh/net/aspose.tex.io/outputfilesystemdirectory/
 ---
 ## OutputFileSystemDirectory class
@@ -24,7 +24,7 @@ public class OutputFileSystemDirectory : InputFileSystemDirectory, IOutputWorkin
 
 | 姓名 | 描述 |
 | --- | --- |
-| override [Dispose](../../aspose.tex.io/outputfilesystemdirectory/dispose)() | 处置实例。 |
+| override [Dispose](../../aspose.tex.io/outputfilesystemdirectory/dispose)() | 处理实例。 |
 | [GetFile](../../aspose.tex.io/inputfilesystemdirectory/getfile)(string, out string, bool) | 返回要读取的流。 |
 | [GetOutputFile](../../aspose.tex.io/outputfilesystemdirectory/getoutputfile)(string, out string) | 返回要写入的流。 |
 

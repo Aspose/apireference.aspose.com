@@ -16,9 +16,9 @@ public override void DrawString(string str, float originX, float originY, List<G
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| str | String | Строка. |
-| originX | Single | Координата x исходной точки. |
-| originY | Single | Координата x исходной точки. |
+| str | String | Струна. |
+| originX | Single | Координата x начала координат. |
+| originY | Single | Координата x начала координат. |
 | charInfos | List`1 | Данные глифов, необходимые для точного набора текстовой строки. |
 
 ### Смотрите также

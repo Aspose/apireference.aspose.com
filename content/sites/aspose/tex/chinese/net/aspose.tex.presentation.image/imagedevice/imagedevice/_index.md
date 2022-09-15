@@ -16,7 +16,7 @@ public ImageDevice(bool whiteBackground = true)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| whiteBackground | Boolean | 如果为真，则在每一页上填充白色背景。 |
+| whiteBackground | Boolean | 如果为 true，则在每一页上填充白色背景。 |
 
 ### 也可以看看
 

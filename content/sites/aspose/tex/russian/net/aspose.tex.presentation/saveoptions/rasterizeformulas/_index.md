@@ -1,14 +1,14 @@
 ---
 title: RasterizeFormulas
 second_title: Справочник по API Aspose.TeX для .NET
-description: Получает/устанавливает флаг позволяющий растрировать математические формулы.
+description: Получает/устанавливает флаг позволяющий растеризовать математические формулы.
 type: docs
 weight: 10
 url: /ru/net/aspose.tex.presentation/saveoptions/rasterizeformulas/
 ---
 ## SaveOptions.RasterizeFormulas property
 
-Получает/устанавливает флаг, позволяющий растрировать математические формулы.
+Получает/устанавливает флаг, позволяющий растеризовать математические формулы.
 
 ```csharp
 public bool RasterizeFormulas { get; set; }

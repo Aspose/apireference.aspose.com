@@ -3,7 +3,7 @@ title: OutputFileTerminal
 second_title: Справочник по API Aspose.TeX для .NET
 description: Реализует терминал вывод которого должен быть записан в файл в некотором рабочем каталоге.
 type: docs
-weight: 180
+weight: 190
 url: /ru/net/aspose.tex.io/outputfileterminal/
 ---
 ## OutputFileTerminal class
@@ -25,7 +25,7 @@ public class OutputFileTerminal : IFileTerminal, IOutputTerminal
 | Имя | Описание |
 | --- | --- |
 | [FileName](../../aspose.tex.io/outputfileterminal/filename) { get; set; } | Получает/устанавливает имя файла. |
-| [Writer](../../aspose.tex.io/outputfileterminal/writer) { get; } | Получает модуль записи для выходного терминала. |
+| [Writer](../../aspose.tex.io/outputfileterminal/writer) { get; } | Получает средство записи для выходного терминала. |
 
 ## Методы
 

@@ -1,14 +1,14 @@
 ---
 title: ShowTerminal
 second_title: Aspose.TeX for .NET API 参考
-description: 控制终端输出的标志如果然后将终端输出写入控制台
+description: 控制终端输出的标志如果然后将终端输出写入控制台.
 type: docs
 weight: 70
 url: /zh/net/aspose.tex.features/mathrendereroptions/showterminal/
 ---
 ## MathRendererOptions.ShowTerminal property
 
-控制终端输出的标志。如果然后将终端输出写入控制台。
+控制终端输出的标志。如果然后将终端输出写入控制台.
 
 ```csharp
 true

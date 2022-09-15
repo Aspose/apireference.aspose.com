@@ -1,14 +1,14 @@
 ---
 title: TeXOptions
 second_title: Aspose.TeX for .NET API 参考
-description: TeX 文件处理选项类
+description: TeX 文件处理选项类.
 type: docs
-weight: 480
+weight: 500
 url: /zh/net/aspose.tex/texoptions/
 ---
 ## TeXOptions class
 
-TeX 文件处理选项类。
+TeX 文件处理选项类.
 
 ```csharp
 public class TeXOptions
@@ -19,15 +19,15 @@ public class TeXOptions
 | 姓名 | 描述 |
 | --- | --- |
 | [DateTime](../../aspose.tex/texoptions/datetime) { get; set; } | 获取/设置日期/时间原语的特定值，如 \year、\month、\day 和 \time。 |
-| [IgnoreMissingPackages](../../aspose.tex/texoptions/ignoremissingpackages) { get; set; } | 获取/设置标志，指示引擎是否在丢失包读取尝试时停止 或忽略它。 |
+| [IgnoreMissingPackages](../../aspose.tex/texoptions/ignoremissingpackages) { get; set; } | 获取/设置指示引擎是否在丢失包读取尝试时停止 或忽略它的标志。 |
 | [InputWorkingDirectory](../../aspose.tex/texoptions/inputworkingdirectory) { get; set; } | 获取/设置输入工作目录。 |
-| [Interaction](../../aspose.tex/texoptions/interaction) { get; set; } | 获取/设置运行 TeX 引擎的交互模式。 |
+| [Interaction](../../aspose.tex/texoptions/interaction) { get; set; } | 获取/设置交互模式以在其中运行 TeX 引擎。 |
 | [JobName](../../aspose.tex/texoptions/jobname) { get; set; } | 获取/设置作业的名称。 |
 | [NoLigatures](../../aspose.tex/texoptions/noligatures) { get; set; } | 获取/设置取消所有字体中连字的标志。 |
 | [OutputWorkingDirectory](../../aspose.tex/texoptions/outputworkingdirectory) { get; set; } | 获取/设置输出工作目录。 |
-| [Repeat](../../aspose.tex/texoptions/repeat) { get; set; } | 获取/设置指示是否需要运行 TeX 作业两次的标志，例如 ，输入 TeX 文件中有引用。通常，当 引擎在排版过程中收集一些数据并将其存储在辅助文件中时，此行为很有用， 全部在第一次运行时。在第二次运行时，引擎以某种方式使用了这些数据。 |
-| [RequiredInputDirectory](../../aspose.tex/texoptions/requiredinputdirectory) { get; set; } | 获取/设置所需输入的目录，例如，超出 Aspose.TeX 的 LaTeX 支持的 包。 |
-| [SaveOptions](../../aspose.tex/texoptions/saveoptions) { get; set; } | 获取/设置用于渲染为目标格式（XPS、PDF、图像等）的选项。 默认值是渲染到 XPS 的一组默认选项。 |
+| [Repeat](../../aspose.tex/texoptions/repeat) { get; set; } | 获取/设置指示是否需要运行 TeX 作业两次的标志，以防万一， 例如，输入 TeX 文件中有引用。通常，当 引擎在排版过程中收集一些数据并将其存储在辅助文件中时，此行为很有用， 全部在第一次运行时。在第二次运行时，引擎以某种方式使用了该数据。 |
+| [RequiredInputDirectory](../../aspose.tex/texoptions/requiredinputdirectory) { get; set; } | 获取/设置所需输入的目录，例如， 超出 Aspose.TeX 的 LaTeX 支持的包。 |
+| [SaveOptions](../../aspose.tex/texoptions/saveoptions) { get; set; } | 获取/设置用于呈现为目标格式（XPS、PDF、图像等）的选项。 默认值是用于呈现为 XPS 的一组默认选项。 |
 | [TerminalIn](../../aspose.tex/texoptions/terminalin) { get; set; } | 获取/设置输入终端阅读器。 |
 | [TerminalOut](../../aspose.tex/texoptions/terminalout) { get; set; } | 获取/设置输出终端写入器。 |
 

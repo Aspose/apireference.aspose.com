@@ -1,14 +1,14 @@
 ---
 title: Dispose
 second_title: Aspose.TeX for .NET API 参考
-description: 处置实例
+description: 处理实例
 type: docs
 weight: 20
 url: /zh/net/aspose.tex.io/inputfilesystemdirectory/dispose/
 ---
 ## InputFileSystemDirectory.Dispose method
 
-处置实例。
+处理实例。
 
 ```csharp
 public virtual void Dispose()

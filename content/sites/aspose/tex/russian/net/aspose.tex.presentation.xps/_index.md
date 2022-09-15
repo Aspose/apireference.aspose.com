@@ -1,12 +1,12 @@
 ---
 title: Aspose.TeX.Presentation.Xps
 second_title: Справочник по API Aspose.TeX для .NET
-description: Пространство имен Aspose.TeX.Presentation.Xps предоставляет классы для верстки файлов TeX в XPS.
+description: Aspose.TeX.Presentation.Xps пространство имен предоставляет классы для набора файлов TeX в XPS.
 type: docs
 weight: 80
 url: /ru/net/aspose.tex.presentation.xps/
 ---
-Пространство имен **Aspose.TeX.Presentation.Xps** предоставляет классы для верстки файлов TeX в XPS.
+**Aspose.TeX.Presentation.Xps** пространство имен предоставляет классы для набора файлов TeX в XPS.
 
 ## Классы
 
