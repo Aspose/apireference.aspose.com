@@ -3,7 +3,7 @@ title: TtfEncoding
 second_title: Aspose.Font for .NET API Reference
 description: Represents TTF Font encoding.
 type: docs
-weight: 610
+weight: 620
 url: /net/aspose.font.ttf/ttfencoding/
 ---
 ## TtfEncoding class

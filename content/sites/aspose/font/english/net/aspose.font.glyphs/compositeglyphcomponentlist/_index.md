@@ -3,7 +3,7 @@ title: CompositeGlyphComponentList
 second_title: Aspose.Font for .NET API Reference
 description: Represents composite glyph components list.
 type: docs
-weight: 220
+weight: 230
 url: /net/aspose.font.glyphs/compositeglyphcomponentlist/
 ---
 ## CompositeGlyphComponentList class

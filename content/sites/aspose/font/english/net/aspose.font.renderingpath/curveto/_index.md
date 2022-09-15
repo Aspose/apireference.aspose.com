@@ -3,7 +3,7 @@ title: CurveTo
 second_title: Aspose.Font for .NET API Reference
 description: Represents CurveTo operation.
 type: docs
-weight: 460
+weight: 470
 url: /net/aspose.font.renderingpath/curveto/
 ---
 ## CurveTo class

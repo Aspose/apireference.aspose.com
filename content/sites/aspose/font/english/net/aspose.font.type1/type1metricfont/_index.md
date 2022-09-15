@@ -3,7 +3,7 @@ title: Type1MetricFont
 second_title: Aspose.Font for .NET API Reference
 description: Type1 metric font implementation. This type1 font is created using metrics only. Glyphs retrieval functions and some other that require real font are not allowed not allowed functions throw exception Type1NotSupportedException. Other properties FontName Weight Metrics and Encoding are used from metrics file.
 type: docs
-weight: 1080
+weight: 1090
 url: /net/aspose.font.type1/type1metricfont/
 ---
 ## Type1MetricFont class

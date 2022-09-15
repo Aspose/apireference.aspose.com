@@ -14,6 +14,7 @@ The **Aspose.Font.Exceptions** namespace provides classes describing exceptions 
 | --- | --- |
 | [EncodingException](./encodingexception) | Represents encoding exception. The exception can be thrown in case problem with encoding/decoding text. |
 | [FontAgrumentException](./fontagrumentexception) | Represents Font argument exception. The exception can be thrown in case improper agrument usages. |
+| [FontConversionException](./fontconversionexception) | Represents Font conversion exception. The exception can be thrown in case of errors during font conversion process. |
 | [FontCreationException](./fontcreationexception) | Represents Font creation exception. The exception can be thrown in case errors during font creation process. |
 | [FontException](./fontexception) | Represents common Font processing related exception. |
 | [FontNotSupportedOperationException](./fontnotsupportedoperationexception) | Represents not supported operation exception. The exception can be thrown in case some operation is not supported for particular Font type. |

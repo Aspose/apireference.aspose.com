@@ -3,7 +3,7 @@ title: GetGlyphIndex
 second_title: Aspose.Font for .NET API Reference
 description: Gets glyph index by glyph name.
 type: docs
-weight: 110
+weight: 120
 url: /net/aspose.font.ttftables/ttfposttable/getglyphindex/
 ---
 ## TtfPostTable.GetGlyphIndex method

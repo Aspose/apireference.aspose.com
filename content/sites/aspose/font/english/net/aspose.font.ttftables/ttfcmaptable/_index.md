@@ -3,7 +3,7 @@ title: TtfCMapTable
 second_title: Aspose.Font for .NET API Reference
 description: Represents cmap table of the TTF Font file.
 type: docs
-weight: 760
+weight: 770
 url: /net/aspose.font.ttftables/ttfcmaptable/
 ---
 ## TtfCMapTable class

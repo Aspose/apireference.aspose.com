@@ -3,7 +3,7 @@ title: GlyphIdType
 second_title: Aspose.Font for .NET API Reference
 description: Specifies types of glyph id.
 type: docs
-weight: 260
+weight: 270
 url: /net/aspose.font.glyphs/glyphidtype/
 ---
 ## GlyphIdType enumeration

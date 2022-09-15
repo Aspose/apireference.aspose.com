@@ -3,7 +3,7 @@ title: TtfNameTable.MSLanguageId
 second_title: Aspose.Font for .NET API Reference
 description: Microsoft platform language id enumeration.
 type: docs
-weight: 910
+weight: 920
 url: /net/aspose.font.ttftables/ttfnametable.mslanguageid/
 ---
 ## TtfNameTable.MSLanguageId enumeration

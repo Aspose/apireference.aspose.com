@@ -3,7 +3,7 @@ title: TtfPostTable
 second_title: Aspose.Font for .NET API Reference
 description: Represents post table of the TTF Font file.
 type: docs
-weight: 1000
+weight: 1010
 url: /net/aspose.font.ttftables/ttfposttable/
 ---
 ## TtfPostTable class
@@ -36,6 +36,7 @@ public class TtfPostTable : TtfTableBase
 
 | Name | Description |
 | --- | --- |
+| [GetAllGlyphIndexesForGlyphName](../../aspose.font.ttftables/ttfposttable/getallglyphindexesforglyphname)(string) | Gets array of glyphs indexes by glyph name |
 | [GetGlyphIndex](../../aspose.font.ttftables/ttfposttable/getglyphindex)(string) | Gets glyph index by glyph name. |
 | [GetGlyphName](../../aspose.font.ttftables/ttfposttable/getglyphname)(uint) | Gets glyph name by glyph index. |
 

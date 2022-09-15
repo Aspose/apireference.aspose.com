@@ -3,7 +3,7 @@ title: TtfHmtxTable.MetricList
 second_title: Aspose.Font for .NET API Reference
 description: Represents list of metrics.
 type: docs
-weight: 860
+weight: 870
 url: /net/aspose.font.ttftables/ttfhmtxtable.metriclist/
 ---
 ## TtfHmtxTable.MetricList class

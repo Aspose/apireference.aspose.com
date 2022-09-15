@@ -3,7 +3,7 @@ title: TtfEncodingParameters
 second_title: Aspose.Font for .NET API Reference
 description: Represents TTF encoding parameters. Should be used to request specific encoding from TTF Font.
 type: docs
-weight: 620
+weight: 630
 url: /net/aspose.font.ttf/ttfencodingparameters/
 ---
 ## TtfEncodingParameters class

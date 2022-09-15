@@ -3,7 +3,7 @@ title: TtfNameTable
 second_title: Aspose.Font for .NET API Reference
 description: Represents name table of the TTF Font file.
 type: docs
-weight: 900
+weight: 910
 url: /net/aspose.font.ttftables/ttfnametable/
 ---
 ## TtfNameTable class
