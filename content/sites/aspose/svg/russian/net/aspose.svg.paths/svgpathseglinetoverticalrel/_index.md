@@ -3,7 +3,7 @@ title: SVGPathSegLinetoVerticalRel
 second_title: Справочник по Aspose.SVG для .NET API
 description: Интерфейс SVGPathSegLinetoVerticalRel соответствует команде данных пути относительная вертикальная линия к v.
 type: docs
-weight: 2620
+weight: 2630
 url: /ru/net/aspose.svg.paths/svgpathseglinetoverticalrel/
 ---
 ## SVGPathSegLinetoVerticalRel class
@@ -18,7 +18,7 @@ public class SVGPathSegLinetoVerticalRel : SVGPathSeg
 
 | Имя | Описание |
 | --- | --- |
-| [PathSegType](../../aspose.svg.paths/svgpathseg/pathsegtype) { get; } | Тип сегмента пути, заданный одной из констант, определенных в этом интерфейсе. |
+| [PathSegType](../../aspose.svg.paths/svgpathseg/pathsegtype) { get; } | Тип сегмента пути, указанный одной из констант, определенных на этом интерфейсе. |
 | [PathSegTypeAsLetter](../../aspose.svg.paths/svgpathseg/pathsegtypeasletter) { get; } | Тип сегмента пути, определяемый соответствующим односимвольным именем команды. |
 | [Y](../../aspose.svg.paths/svgpathseglinetoverticalrel/y) { get; set; } | Относительная координата Y для конечной точки этого сегмента пути. |
 
@@ -27,7 +27,7 @@ public class SVGPathSegLinetoVerticalRel : SVGPathSeg
 | Имя | Описание |
 | --- | --- |
 | [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose)() | Освобождает неуправляемые и (необязательно) управляемые ресурсы. |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | Этот метод используется для получения объекта ECMAScriptType. |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | Этот метод используется для получения объекта ECMAScript.Type . |
 
 ### Смотрите также
 

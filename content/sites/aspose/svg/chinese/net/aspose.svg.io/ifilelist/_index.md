@@ -3,7 +3,7 @@ title: IFileList
 second_title: Aspose.SVG for .NET API 参考
 description: 表示文件列表的接口
 type: docs
-weight: 1940
+weight: 1950
 url: /zh/net/aspose.svg.io/ifilelist/
 ---
 ## IFileList interface
@@ -18,7 +18,7 @@ public interface IFileList : IEnumerable<IFile>
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Item](../../aspose.svg.io/ifilelist/item) { get; } | 返回列表中的第一个文件。 |
+| [Item](../../aspose.svg.io/ifilelist/item) { get; } | 返回列表中的第索引文件。 |
 | [Length](../../aspose.svg.io/ifilelist/length) { get; } | 返回文件列表的长度。 |
 
 ### 也可以看看

@@ -20,7 +20,7 @@ public SVGDocument Vectorize(string imageFile)
 
 ### Возвращаемое значение
 
-Документ SVG.
+SVG-документ.
 
 ### Смотрите также
 
@@ -45,7 +45,7 @@ public SVGDocument Vectorize(Stream imageStream)
 
 ### Возвращаемое значение
 
-Документ SVG.
+SVG-документ.
 
 ### Смотрите также
 
@@ -70,7 +70,7 @@ public SVGDocument Vectorize(Bitmap image)
 
 ### Возвращаемое значение
 
-Документ SVG.
+SVG-документ.
 
 ### Смотрите также
 

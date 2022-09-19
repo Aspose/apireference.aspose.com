@@ -1,16 +1,16 @@
 ---
 title: ITraversal
 second_title: Aspose.SVG for .NET API 参考
-description: 迭代器用于遍历一组节点例如 NodeList 中的 节点集由 特定节点管理的文档子树查询的结果或任何其他节点集 要迭代的节点集由 NodeIterator 的 实现确定 DOM Level 2 为文档子树的文档顺序 遍历指定了一个 单个 NodeIterator 实现这些迭代器的实例是通过调用 DocumentTraversal .createNodeIterator 创建的 
+description: 迭代器用于逐步遍历一组节点例如NodeList 中的 组节点由 个特定节点管理的文档子树查询结果或任何其他 组节点要迭代的节点集由 NodeIterator 的 实现确定 DOM Level 2 为文档子树的文档顺序 遍历指定了 单个 NodeIterator 实现通过调用 DocumentTraversal .createNodeIterator. 创建这些迭代器的实例
 type: docs
-weight: 1270
+weight: 1260
 url: /zh/net/aspose.svg.dom.traversal/itraversal/
 ---
 ## ITraversal interface
 
-迭代器用于遍历一组节点，例如 NodeList 中的 节点集，由 特定节点管理的文档子树，查询的结果，或任何其他节点集 。要迭代的节点集由 NodeIterator 的 实现确定。 DOM Level 2 为文档子树的文档顺序 遍历指定了一个 单个 NodeIterator 实现。这些迭代器的实例是通过调用 DocumentTraversal .createNodeIterator() 创建的 。
+迭代器用于逐步遍历一组节点，例如，NodeList 中的 组节点、由 个特定节点管理的文档子树、查询结果或任何其他 组节点。要迭代的节点集由 NodeIterator 的 实现确定。 DOM Level 2 为文档子树的文档顺序 遍历指定了 单个 NodeIterator 实现。通过调用 DocumentTraversal .createNodeIterator(). 创建这些迭代器的实例
 
-另见[文档对象模型(DOM) 2 级遍历和范围规范](http://www.w3.org/TR/2000/REC-DOM-Level-2-Traversal-Range-20001113) 。 @since DOM Level 2
+另见[文档对象模型 (DOM) 级别 2 遍历和范围规范](http://www.w3.org/TR/2000/REC-DOM-Level-2-Traversal-Range-20001113). @since DOM Level 2
 
 ```csharp
 public interface ITraversal : IDisposable
@@ -20,9 +20,9 @@ public interface ITraversal : IDisposable
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Filter](../../aspose.svg.dom.traversal/itraversal/filter) { get; } | NodeFilter 用于筛选节点。 |
-| [Root](../../aspose.svg.dom.traversal/itraversal/root) { get; } | NodeIterator 的根节点，在创建 时指定。 |
-| [WhatToShow](../../aspose.svg.dom.traversal/itraversal/whattoshow) { get; } | 此属性确定通过 迭代器呈现的节点类型。可用的常量集在 NodeFilter 接口中定义。 whatToShow 不接受的节点将被跳过，但它们的子节点仍可能被考虑为 。请注意，此跳过优先于过滤器 （如果有）。 |
+| [Filter](../../aspose.svg.dom.traversal/itraversal/filter) { get; } | 用于筛选节点的 NodeFilter。 |
+| [Root](../../aspose.svg.dom.traversal/itraversal/root) { get; } | NodeIterator 的根节点，在创建 it 时指定。 |
+| [WhatToShow](../../aspose.svg.dom.traversal/itraversal/whattoshow) { get; } | 此属性确定通过 迭代器呈现哪些节点类型。可用的常量集在 NodeFilter 接口中定义。不被 whatToShow 接受的节点将被跳过，但它们的子节点可能仍然 被考虑。请注意，此跳过优先于过滤器， 如果有的话。 |
 
 ### 也可以看看
 

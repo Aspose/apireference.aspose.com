@@ -1,14 +1,14 @@
 ---
 title: Append
 second_title: Aspose.SVG for .NET API 参考
-description: 追加一个新的名称-值对其名称为 名称 和值 值 .
+description: 附加一个新的名称值对其名称为姓名和价值是价值 .
 type: docs
 weight: 10
 url: /zh/net/aspose.svg/iurlsearchparams/append/
 ---
 ## IUrlSearchParams.Append method
 
-追加一个新的名称-值对，其名称为` 名称` 和值` 值` .
+附加一个新的名称-值对，其名称为`姓名`和价值是`价值` .
 
 ```csharp
 public void Append(string name, string value)

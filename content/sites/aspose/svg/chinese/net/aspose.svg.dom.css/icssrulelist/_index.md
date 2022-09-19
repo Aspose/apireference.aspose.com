@@ -3,7 +3,7 @@ title: ICSSRuleList
 second_title: Aspose.SVG for .NET API 参考
 description: CSSRuleList 接口提供了 CSS 规则的有序集合的抽象
 type: docs
-weight: 640
+weight: 630
 url: /zh/net/aspose.svg.dom.css/icssrulelist/
 ---
 ## ICSSRuleList interface
@@ -18,8 +18,8 @@ public interface ICSSRuleList : IEnumerable<ICSSRule>
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Item](../../aspose.svg.dom.css/icssrulelist/item) { get; } | 用于通过 item() 方法检索 CSS 规则（http://www.w3.org/TR/DOM-Level-2-Style/css.html#CSS-CSSRuleList ）。此集合中的顺序表示 CSS 样式表中规则的顺序。如果 index 大于或等于列表中的规则数，则返回 null。 |
-| [Length](../../aspose.svg.dom.css/icssrulelist/length) { get; } | 列表中 CSSRules 的数量。有效子规则索引的范围是 0 到 length-1（含）。 |
+| [Item](../../aspose.svg.dom.css/icssrulelist/item) { get; } | 用于通过 item() 方法检索 CSS 规则 (http://www.w3.org/TR/DOM-Level-2-Style/css.html#CSS-CSSRuleList)。此集合中的顺序表示 CSS 样式表中规则的顺序。如果 index 大于或等于列表中的规则数，则返回 null. |
+| [Length](../../aspose.svg.dom.css/icssrulelist/length) { get; } | 列表中 CSSRules 的数量。有效子规则索引的范围是 0 到长度 1（含）。 |
 
 ### 也可以看看
 

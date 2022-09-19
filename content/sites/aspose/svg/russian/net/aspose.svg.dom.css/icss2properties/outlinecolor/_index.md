@@ -1,7 +1,7 @@
 ---
 title: OutlineColor
 second_title: Справочник по Aspose.SVG для .NET API
-description: См. определение свойства layout-color в CSS2.
+description: См. определение свойства layoutcolor в CSS2.
 type: docs
 weight: 760
 url: /ru/net/aspose.svg.dom.css/icss2properties/outlinecolor/

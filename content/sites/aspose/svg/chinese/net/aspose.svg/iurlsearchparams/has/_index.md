@@ -1,14 +1,14 @@
 ---
 title: Has
 second_title: Aspose.SVG for .NET API 参考
-description: 检查列表中是否存在名称为 名称 的名称-值对
+description: 检查是否存在名称为姓名在列表中
 type: docs
 weight: 50
 url: /zh/net/aspose.svg/iurlsearchparams/has/
 ---
 ## IUrlSearchParams.Has method
 
-检查列表中是否存在名称为` 名称` 的名称-值对。
+检查是否存在名称为`姓名`在列表中。
 
 ```csharp
 public bool Has(string name)
@@ -20,7 +20,7 @@ public bool Has(string name)
 
 ### 返回值
 
-` True` 如果存在名称为`的名称-值对 name` 在列表中，` false` 否则。
+`真的`如果存在名称为的名称-值对`姓名` 在列表中，并且`错误的`否则。
 
 ### 也可以看看
 

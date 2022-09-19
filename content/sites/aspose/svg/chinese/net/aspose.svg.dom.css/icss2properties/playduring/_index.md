@@ -1,14 +1,14 @@
 ---
 title: PlayDuring
 second_title: Aspose.SVG for .NET API 参考
-description: 请参阅 CSS2 中的 play-during 属性定义
+description: 参见 CSS2 中的 playduring 属性定义
 type: docs
 weight: 940
 url: /zh/net/aspose.svg.dom.css/icss2properties/playduring/
 ---
 ## ICSS2Properties.PlayDuring property
 
-请参阅 CSS2 中的 play-during 属性定义。
+参见 CSS2 中的 play-during 属性定义。
 
 ```csharp
 public string PlayDuring { get; set; }
@@ -16,7 +16,7 @@ public string PlayDuring { get; set; }
 
 ### 返回值
 
-play-during 属性
+游戏期间的财产
 
 ### 也可以看看
 

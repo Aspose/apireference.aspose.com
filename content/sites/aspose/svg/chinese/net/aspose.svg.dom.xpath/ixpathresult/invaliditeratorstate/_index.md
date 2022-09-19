@@ -1,14 +1,14 @@
 ---
 title: InvalidIteratorState
 second_title: Aspose.SVG for .NET API 参考
-description: 表示迭代器已经失效如果 resultType 为 UnorderedNodeIterator 类型或 OrderedNodeIterator 类型则为真并且 自从返回此结果以来该文档已被修改
+description: 表示迭代器已经失效真如果结果类型 是无序节点迭代器输入或有序节点迭代器类型和 自返回此结果后文档已被修改
 type: docs
 weight: 20
 url: /zh/net/aspose.svg.dom.xpath/ixpathresult/invaliditeratorstate/
 ---
 ## IXPathResult.InvalidIteratorState property
 
-表示迭代器已经失效。如果` resultType` 为` UnorderedNodeIterator` 类型或` OrderedNodeIterator` 类型，则为真并且 自从返回此结果以来，该文档已被修改。
+表示迭代器已经失效。真如果`结果类型` 是`无序节点迭代器`输入或`有序节点迭代器`类型和 自返回此结果后文档已被修改。
 
 ```csharp
 public bool InvalidIteratorState { get; }

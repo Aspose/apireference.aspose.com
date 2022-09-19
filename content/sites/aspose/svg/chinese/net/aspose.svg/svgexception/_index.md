@@ -1,14 +1,14 @@
 ---
 title: SVGException
 second_title: Aspose.SVG for .NET API 参考
-description: 当无法执行特定的 SVG 操作时会引发此异常
+description: 当特定的 SVG 操作无法执行时会引发此异常
 type: docs
-weight: 3170
+weight: 3180
 url: /zh/net/aspose.svg/svgexception/
 ---
 ## SVGException class
 
-当无法执行特定的 SVG 操作时会引发此异常。
+当特定的 SVG 操作无法执行时会引发此异常。
 
 ```csharp
 public class SVGException : PlatformException
@@ -18,20 +18,20 @@ public class SVGException : PlatformException
 
 | 姓名 | 描述 |
 | --- | --- |
-| [SVGException](svgexception)(ushort) | 初始化[`SVGException`](../svgexception)类的新实例。 |
+| [SVGException](svgexception)(ushort) | 初始化[`SVGException`](../svgexception)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Code](../../aspose.svg/svgexception/code) { get; } | 标识无法执行所请求操作的原因的代码。该成员的值将是 SVGException 代码组中的常量之一。 |
+| [Code](../../aspose.svg/svgexception/code) { get; } | 标识无法执行所请求操作的原因的代码。此成员的值将是 SVGException 代码组中的常量之一。 |
 
 ## 字段
 
 | 姓名 | 描述 |
 | --- | --- |
 | const [SVG_INVALID_VALUE_ERR](../../aspose.svg/svgexception/svg_invalid_value_err) | 在将无效值传递给操作或分配给属性时引发。 |
-| const [SVG_MATRIX_NOT_INVERTABLE](../../aspose.svg/svgexception/svg_matrix_not_invertable) | 在尝试反转不可逆矩阵时引发。 |
+| const [SVG_MATRIX_NOT_INVERTABLE](../../aspose.svg/svgexception/svg_matrix_not_invertable) | 当试图反转一个不可逆的矩阵时引发。 |
 | const [SVG_WRONG_TYPE_ERR](../../aspose.svg/svgexception/svg_wrong_type_err) | 在将错误类型的对象传递给操作时引发。 |
 
 ### 也可以看看

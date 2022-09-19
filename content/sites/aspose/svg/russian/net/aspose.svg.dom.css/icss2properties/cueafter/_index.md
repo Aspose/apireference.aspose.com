@@ -1,7 +1,7 @@
 ---
 title: CueAfter
 second_title: Справочник по Aspose.SVG для .NET API
-description: См. определение свойства cue-after в CSS2.
+description: См. определение свойства cueafter в CSS2.
 type: docs
 weight: 390
 url: /ru/net/aspose.svg.dom.css/icss2properties/cueafter/

@@ -8,7 +8,7 @@ url: /ru/net/aspose.svg.filters/svgfedropshadowelement/stddeviationx/
 ---
 ## SVGFEDropShadowElement.StdDeviationX property
 
-Соответствует атрибуту 'stdDeviation' данного элемента 'feDropShadow'. Содержит компонент X атрибута 'stdDeviation'.
+Соответствует атрибуту 'stdDeviation' данного элемента feDropShadow. Содержит компонент X атрибута 'stdDeviation'.
 
 ```csharp
 public SVGAnimatedNumber StdDeviationX { get; }

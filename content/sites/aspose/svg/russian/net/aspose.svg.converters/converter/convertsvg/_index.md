@@ -1,14 +1,14 @@
 ---
 title: ConvertSVG
 second_title: Справочник по Aspose.SVG для .NET API
-description: Конвертировать исходный файл svg в pdf. Результат - pdf файл.
+description: Конвертировать исходный файл svg в pdf. Результат  pdfфайл.
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.converters/converter/convertsvg/
 ---
 ## ConvertSVG(SVGDocument, PdfSaveOptions, string) {#convertsvg_3}
 
-Конвертировать исходный файл svg в pdf. Результат - pdf файл.
+Конвертировать исходный файл svg в pdf. Результат - pdf-файл.
 
 ```csharp
 public static void ConvertSVG(SVGDocument source, PdfSaveOptions options, string outputPath)
@@ -16,8 +16,8 @@ public static void ConvertSVG(SVGDocument source, PdfSaveOptions options, string
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| source | SVGDocument | Источник преобразования. |
-| options | PdfSaveOptions | Параметры преобразования. |
+| source | SVGDocument | Источник конверсии. |
+| options | PdfSaveOptions | Варианты преобразования. |
 | outputPath | String | Путь к выходному файлу. |
 
 ### Смотрите также
@@ -32,7 +32,7 @@ public static void ConvertSVG(SVGDocument source, PdfSaveOptions options, string
 
 ## ConvertSVG(Url, PdfSaveOptions, string) {#convertsvg_15}
 
-Конвертировать исходный файл svg в pdf. Результат - pdf файл.
+Конвертировать исходный файл svg в pdf. Результат - pdf-файл.
 
 ```csharp
 public static void ConvertSVG(Url url, PdfSaveOptions options, string outputPath)
@@ -40,8 +40,8 @@ public static void ConvertSVG(Url url, PdfSaveOptions options, string outputPath
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| url | Url | URL документа. |
-| options | PdfSaveOptions | Параметры преобразования. |
+| url | Url | URL-адрес документа. |
+| options | PdfSaveOptions | Варианты преобразования. |
 | outputPath | String | Путь к выходному файлу. |
 
 ### Смотрите также
@@ -56,7 +56,7 @@ public static void ConvertSVG(Url url, PdfSaveOptions options, string outputPath
 
 ## ConvertSVG(Url, Configuration, PdfSaveOptions, string) {#convertsvg_9}
 
-Конвертировать исходный файл svg в pdf. Результат - pdf файл.
+Конвертировать исходный файл svg в pdf. Результат - pdf-файл.
 
 ```csharp
 public static void ConvertSVG(Url url, Configuration configuration, PdfSaveOptions options, 
@@ -65,9 +65,9 @@ public static void ConvertSVG(Url url, Configuration configuration, PdfSaveOptio
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| url | Url | URL документа. |
-| configuration | Configuration | Конфигурация среды. |
-| options | PdfSaveOptions | Параметры преобразования. |
+| url | Url | URL-адрес документа. |
+| configuration | Configuration | Конфигурация окружения. |
+| options | PdfSaveOptions | Варианты преобразования. |
 | outputPath | String | Путь к выходному файлу. |
 
 ### Смотрите также
@@ -83,7 +83,7 @@ public static void ConvertSVG(Url url, Configuration configuration, PdfSaveOptio
 
 ## ConvertSVG(string, PdfSaveOptions, string) {#convertsvg_27}
 
-Конвертировать исходный файл svg в pdf. Результат - pdf файл.
+Конвертировать исходный файл svg в pdf. Результат - pdf-файл.
 
 ```csharp
 public static void ConvertSVG(string sourcePath, PdfSaveOptions options, string outputPath)
@@ -91,8 +91,8 @@ public static void ConvertSVG(string sourcePath, PdfSaveOptions options, string 
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| sourcePath | String | Путь к исходному файлу Svg. Он будет объединен с текущим путем к каталогу для формирования абсолютного URL-адреса. |
-| options | PdfSaveOptions | Параметры преобразования. |
+| sourcePath | String | Исходный путь к SVG-файлу. Он будет объединен с текущим путем к каталогу для формирования абсолютного URL-адреса. |
+| options | PdfSaveOptions | Варианты преобразования. |
 | outputPath | String | Путь к выходному файлу. |
 
 ### Смотрите также
@@ -106,7 +106,7 @@ public static void ConvertSVG(string sourcePath, PdfSaveOptions options, string 
 
 ## ConvertSVG(string, Configuration, PdfSaveOptions, string) {#convertsvg_21}
 
-Конвертировать исходный файл svg в pdf. Результат - pdf файл.
+Конвертировать исходный файл svg в pdf. Результат - pdf-файл.
 
 ```csharp
 public static void ConvertSVG(string sourcePath, Configuration configuration, 
@@ -115,9 +115,9 @@ public static void ConvertSVG(string sourcePath, Configuration configuration,
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| sourcePath | String | Путь к исходному файлу Svg. Он будет объединен с текущим путем к каталогу для формирования абсолютного URL-адреса. |
-| configuration | Configuration | Конфигурация среды. |
-| options | PdfSaveOptions | Параметры преобразования. |
+| sourcePath | String | Исходный путь к SVG-файлу. Он будет объединен с текущим путем к каталогу для формирования абсолютного URL-адреса. |
+| configuration | Configuration | Конфигурация окружения. |
+| options | PdfSaveOptions | Варианты преобразования. |
 | outputPath | String | Путь к выходному файлу. |
 
 ### Смотрите также
@@ -132,7 +132,7 @@ public static void ConvertSVG(string sourcePath, Configuration configuration,
 
 ## ConvertSVG(string, string, PdfSaveOptions, string) {#convertsvg_39}
 
-Конвертировать исходный файл svg в pdf. Результат - pdf файл.
+Конвертировать исходный файл svg в pdf. Результат - pdf-файл.
 
 ```csharp
 public static void ConvertSVG(string content, string baseUri, PdfSaveOptions options, 
@@ -141,9 +141,9 @@ public static void ConvertSVG(string content, string baseUri, PdfSaveOptions opt
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| content | String | Встроенное строковое содержимое svg. |
+| content | String | Встроенный строковый SVG-контент. |
 | baseUri | String | Базовый URI документа. Он будет объединен с текущим путем к каталогу для формирования абсолютного URL-адреса. |
-| options | PdfSaveOptions | Параметры преобразования. |
+| options | PdfSaveOptions | Варианты преобразования. |
 | outputPath | String | Путь к выходному файлу. |
 
 ### Смотрите также
@@ -157,7 +157,7 @@ public static void ConvertSVG(string content, string baseUri, PdfSaveOptions opt
 
 ## ConvertSVG(string, string, Configuration, PdfSaveOptions, string) {#convertsvg_33}
 
-Конвертировать исходный файл svg в pdf. Результат - pdf файл.
+Конвертировать исходный файл svg в pdf. Результат - pdf-файл.
 
 ```csharp
 public static void ConvertSVG(string content, string baseUri, Configuration configuration, 
@@ -166,10 +166,10 @@ public static void ConvertSVG(string content, string baseUri, Configuration conf
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| content | String | Встроенное строковое содержимое svg. |
+| content | String | Встроенный строковый SVG-контент. |
 | baseUri | String | Базовый URI документа. Он будет объединен с текущим путем к каталогу для формирования абсолютного URL-адреса. |
-| configuration | Configuration | Конфигурация среды. |
-| options | PdfSaveOptions | Параметры преобразования. |
+| configuration | Configuration | Конфигурация окружения. |
+| options | PdfSaveOptions | Варианты преобразования. |
 | outputPath | String | Путь к выходному файлу. |
 
 ### Смотрите также
@@ -184,7 +184,7 @@ public static void ConvertSVG(string content, string baseUri, Configuration conf
 
 ## ConvertSVG(SVGDocument, PdfSaveOptions, ICreateStreamProvider) {#convertsvg_2}
 
-Конвертировать исходный файл svg в pdf. Результат - pdf файл.
+Конвертировать исходный файл svg в pdf. Результат - pdf-файл.
 
 ```csharp
 public static void ConvertSVG(SVGDocument document, PdfSaveOptions options, 
@@ -193,9 +193,9 @@ public static void ConvertSVG(SVGDocument document, PdfSaveOptions options,
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| document | SVGDocument | Источник преобразования. |
-| options | PdfSaveOptions | Параметры преобразования. |
-| provider | ICreateStreamProvider | Реализация интерфейса[`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider), который будет использоваться для получения выходного потока. |
+| document | SVGDocument | Источник конверсии. |
+| options | PdfSaveOptions | Варианты преобразования. |
+| provider | ICreateStreamProvider | Осуществление[`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider)интерфейс, который будет использоваться для получения выходного потока. |
 
 ### Смотрите также
 
@@ -210,7 +210,7 @@ public static void ConvertSVG(SVGDocument document, PdfSaveOptions options,
 
 ## ConvertSVG(Url, PdfSaveOptions, ICreateStreamProvider) {#convertsvg_14}
 
-Конвертировать исходный файл svg в pdf. Результат - pdf файл.
+Конвертировать исходный файл svg в pdf. Результат - pdf-файл.
 
 ```csharp
 public static void ConvertSVG(Url url, PdfSaveOptions options, ICreateStreamProvider provider)
@@ -218,9 +218,9 @@ public static void ConvertSVG(Url url, PdfSaveOptions options, ICreateStreamProv
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| url | Url | URL документа. |
-| options | PdfSaveOptions | Параметры преобразования. |
-| provider | ICreateStreamProvider | Реализация интерфейса[`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider), который будет использоваться для получения выходного потока. |
+| url | Url | URL-адрес документа. |
+| options | PdfSaveOptions | Варианты преобразования. |
+| provider | ICreateStreamProvider | Осуществление[`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider)интерфейс, который будет использоваться для получения выходного потока. |
 
 ### Смотрите также
 
@@ -235,7 +235,7 @@ public static void ConvertSVG(Url url, PdfSaveOptions options, ICreateStreamProv
 
 ## ConvertSVG(Url, Configuration, PdfSaveOptions, ICreateStreamProvider) {#convertsvg_8}
 
-Конвертировать исходный файл svg в pdf. Результат - pdf файл.
+Конвертировать исходный файл svg в pdf. Результат - pdf-файл.
 
 ```csharp
 public static void ConvertSVG(Url url, Configuration configuration, PdfSaveOptions options, 
@@ -244,10 +244,10 @@ public static void ConvertSVG(Url url, Configuration configuration, PdfSaveOptio
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| url | Url | URL документа. |
-| configuration | Configuration | Конфигурация среды. |
-| options | PdfSaveOptions | Параметры преобразования. |
-| provider | ICreateStreamProvider | Реализация интерфейса[`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider), который будет использоваться для получения выходного потока. |
+| url | Url | URL-адрес документа. |
+| configuration | Configuration | Конфигурация окружения. |
+| options | PdfSaveOptions | Варианты преобразования. |
+| provider | ICreateStreamProvider | Осуществление[`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider)интерфейс, который будет использоваться для получения выходного потока. |
 
 ### Смотрите также
 
@@ -263,7 +263,7 @@ public static void ConvertSVG(Url url, Configuration configuration, PdfSaveOptio
 
 ## ConvertSVG(string, PdfSaveOptions, ICreateStreamProvider) {#convertsvg_26}
 
-Конвертировать исходный файл svg в pdf. Результат - pdf файл.
+Конвертировать исходный файл svg в pdf. Результат - pdf-файл.
 
 ```csharp
 public static void ConvertSVG(string sourcePath, PdfSaveOptions options, 
@@ -272,9 +272,9 @@ public static void ConvertSVG(string sourcePath, PdfSaveOptions options,
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| sourcePath | String | Путь к исходному файлу Svg. Он будет объединен с текущим путем к каталогу для формирования абсолютного URL-адреса. |
-| options | PdfSaveOptions | Параметры преобразования. |
-| provider | ICreateStreamProvider | Реализация интерфейса[`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider), который будет использоваться для получения выходного потока. |
+| sourcePath | String | Исходный путь к SVG-файлу. Он будет объединен с текущим путем к каталогу для формирования абсолютного URL-адреса. |
+| options | PdfSaveOptions | Варианты преобразования. |
+| provider | ICreateStreamProvider | Осуществление[`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider)интерфейс, который будет использоваться для получения выходного потока. |
 
 ### Смотрите также
 
@@ -288,7 +288,7 @@ public static void ConvertSVG(string sourcePath, PdfSaveOptions options,
 
 ## ConvertSVG(string, Configuration, PdfSaveOptions, ICreateStreamProvider) {#convertsvg_20}
 
-Конвертировать исходный файл svg в pdf. Результат - pdf файл.
+Конвертировать исходный файл svg в pdf. Результат - pdf-файл.
 
 ```csharp
 public static void ConvertSVG(string sourcePath, Configuration configuration, 
@@ -297,10 +297,10 @@ public static void ConvertSVG(string sourcePath, Configuration configuration,
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| sourcePath | String | Путь к исходному файлу Svg. Он будет объединен с текущим путем к каталогу для формирования абсолютного URL-адреса. |
-| configuration | Configuration | Конфигурация среды. |
-| options | PdfSaveOptions | Параметры преобразования. |
-| provider | ICreateStreamProvider | Реализация интерфейса[`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider), который будет использоваться для получения выходного потока. |
+| sourcePath | String | Исходный путь к SVG-файлу. Он будет объединен с текущим путем к каталогу для формирования абсолютного URL-адреса. |
+| configuration | Configuration | Конфигурация окружения. |
+| options | PdfSaveOptions | Варианты преобразования. |
+| provider | ICreateStreamProvider | Осуществление[`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider)интерфейс, который будет использоваться для получения выходного потока. |
 
 ### Смотрите также
 
@@ -315,7 +315,7 @@ public static void ConvertSVG(string sourcePath, Configuration configuration,
 
 ## ConvertSVG(string, string, PdfSaveOptions, ICreateStreamProvider) {#convertsvg_38}
 
-Конвертировать исходный файл svg в pdf. Результат - pdf файл.
+Конвертировать исходный файл svg в pdf. Результат - pdf-файл.
 
 ```csharp
 public static void ConvertSVG(string content, string baseUri, PdfSaveOptions options, 
@@ -326,8 +326,8 @@ public static void ConvertSVG(string content, string baseUri, PdfSaveOptions opt
 | --- | --- | --- |
 | content | String | Содержимое исходного документа. |
 | baseUri | String | Базовый URI документа. Он будет объединен с текущим путем к каталогу для формирования абсолютного URL-адреса. |
-| options | PdfSaveOptions | Параметры преобразования. |
-| provider | ICreateStreamProvider | Реализация интерфейса[`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider), который будет использоваться для получения выходного потока. |
+| options | PdfSaveOptions | Варианты преобразования. |
+| provider | ICreateStreamProvider | Осуществление[`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider)интерфейс, который будет использоваться для получения выходного потока. |
 
 ### Смотрите также
 
@@ -341,7 +341,7 @@ public static void ConvertSVG(string content, string baseUri, PdfSaveOptions opt
 
 ## ConvertSVG(string, string, Configuration, PdfSaveOptions, ICreateStreamProvider) {#convertsvg_32}
 
-Конвертировать исходный файл svg в pdf. Результат - pdf файл.
+Конвертировать исходный файл svg в pdf. Результат - pdf-файл.
 
 ```csharp
 public static void ConvertSVG(string content, string baseUri, Configuration configuration, 
@@ -350,11 +350,11 @@ public static void ConvertSVG(string content, string baseUri, Configuration conf
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| content | String | Встроенное строковое содержимое svg. |
+| content | String | Встроенный строковый SVG-контент. |
 | baseUri | String | Базовый URI документа. Он будет объединен с текущим путем к каталогу для формирования абсолютного URL-адреса. |
-| configuration | Configuration | Конфигурация среды. |
-| options | PdfSaveOptions | Параметры преобразования. |
-| provider | ICreateStreamProvider | Реализация интерфейса[`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider), который будет использоваться для получения выходного потока. |
+| configuration | Configuration | Конфигурация окружения. |
+| options | PdfSaveOptions | Варианты преобразования. |
+| provider | ICreateStreamProvider | Осуществление[`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider)интерфейс, который будет использоваться для получения выходного потока. |
 
 ### Смотрите также
 
@@ -369,7 +369,7 @@ public static void ConvertSVG(string content, string baseUri, Configuration conf
 
 ## ConvertSVG(SVGDocument, ImageSaveOptions, string) {#convertsvg_1}
 
-Преобразование документа svg в изображение. Результат - файл изображения.
+Преобразование документа SVG в изображение. Результатом является файл изображения.
 
 ```csharp
 public static void ConvertSVG(SVGDocument source, ImageSaveOptions options, string outputPath)
@@ -377,8 +377,8 @@ public static void ConvertSVG(SVGDocument source, ImageSaveOptions options, stri
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| source | SVGDocument | Источник преобразования. |
-| options | ImageSaveOptions | Параметры преобразования. |
+| source | SVGDocument | Источник конверсии. |
+| options | ImageSaveOptions | Варианты преобразования. |
 | outputPath | String | Путь к выходному файлу. |
 
 ### Смотрите также
@@ -393,7 +393,7 @@ public static void ConvertSVG(SVGDocument source, ImageSaveOptions options, stri
 
 ## ConvertSVG(Url, ImageSaveOptions, string) {#convertsvg_13}
 
-Преобразование документа svg в изображение. Результат - файл изображения.
+Преобразование документа SVG в изображение. Результатом является файл изображения.
 
 ```csharp
 public static void ConvertSVG(Url url, ImageSaveOptions options, string outputPath)
@@ -401,8 +401,8 @@ public static void ConvertSVG(Url url, ImageSaveOptions options, string outputPa
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| url | Url | URL документа. |
-| options | ImageSaveOptions | Параметры преобразования. |
+| url | Url | URL-адрес документа. |
+| options | ImageSaveOptions | Варианты преобразования. |
 | outputPath | String | Путь к выходному файлу. |
 
 ### Смотрите также
@@ -417,7 +417,7 @@ public static void ConvertSVG(Url url, ImageSaveOptions options, string outputPa
 
 ## ConvertSVG(Url, Configuration, ImageSaveOptions, string) {#convertsvg_7}
 
-Преобразование документа svg в изображение. Результат - файл изображения.
+Преобразование документа SVG в изображение. Результатом является файл изображения.
 
 ```csharp
 public static void ConvertSVG(Url url, Configuration configuration, ImageSaveOptions options, 
@@ -426,9 +426,9 @@ public static void ConvertSVG(Url url, Configuration configuration, ImageSaveOpt
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| url | Url | URL документа. |
-| configuration | Configuration | Конфигурация среды. |
-| options | ImageSaveOptions | Параметры преобразования. |
+| url | Url | URL-адрес документа. |
+| configuration | Configuration | Конфигурация окружения. |
+| options | ImageSaveOptions | Варианты преобразования. |
 | outputPath | String | Путь к выходному файлу. |
 
 ### Смотрите также
@@ -444,7 +444,7 @@ public static void ConvertSVG(Url url, Configuration configuration, ImageSaveOpt
 
 ## ConvertSVG(string, ImageSaveOptions, string) {#convertsvg_25}
 
-Преобразование документа svg в изображение. Результат - файл изображения.
+Преобразование документа SVG в изображение. Результатом является файл изображения.
 
 ```csharp
 public static void ConvertSVG(string sourcePath, ImageSaveOptions options, string outputPath)
@@ -452,8 +452,8 @@ public static void ConvertSVG(string sourcePath, ImageSaveOptions options, strin
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| sourcePath | String | Путь к исходному файлу Svg. Он будет объединен с текущим путем к каталогу для формирования абсолютного URL-адреса. |
-| options | ImageSaveOptions | Параметры преобразования. |
+| sourcePath | String | Исходный путь к SVG-файлу. Он будет объединен с текущим путем к каталогу для формирования абсолютного URL-адреса. |
+| options | ImageSaveOptions | Варианты преобразования. |
 | outputPath | String | Путь к выходному файлу. |
 
 ### Смотрите также
@@ -467,7 +467,7 @@ public static void ConvertSVG(string sourcePath, ImageSaveOptions options, strin
 
 ## ConvertSVG(string, Configuration, ImageSaveOptions, string) {#convertsvg_19}
 
-Преобразование документа svg в изображение. Результат - файл изображения.
+Преобразование документа SVG в изображение. Результатом является файл изображения.
 
 ```csharp
 public static void ConvertSVG(string sourcePath, Configuration configuration, 
@@ -476,9 +476,9 @@ public static void ConvertSVG(string sourcePath, Configuration configuration,
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| sourcePath | String | Путь к исходному файлу Svg. Он будет объединен с текущим путем к каталогу для формирования абсолютного URL-адреса. |
-| configuration | Configuration | Конфигурация среды. |
-| options | ImageSaveOptions | Параметры преобразования. |
+| sourcePath | String | Исходный путь к SVG-файлу. Он будет объединен с текущим путем к каталогу для формирования абсолютного URL-адреса. |
+| configuration | Configuration | Конфигурация окружения. |
+| options | ImageSaveOptions | Варианты преобразования. |
 | outputPath | String | Путь к выходному файлу. |
 
 ### Смотрите также
@@ -493,7 +493,7 @@ public static void ConvertSVG(string sourcePath, Configuration configuration,
 
 ## ConvertSVG(string, string, ImageSaveOptions, string) {#convertsvg_37}
 
-Преобразование документа svg в изображение. Результат - файл изображения.
+Преобразование документа SVG в изображение. Результатом является файл изображения.
 
 ```csharp
 public static void ConvertSVG(string content, string baseUri, ImageSaveOptions options, 
@@ -502,9 +502,9 @@ public static void ConvertSVG(string content, string baseUri, ImageSaveOptions o
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| content | String | Встроенное строковое содержимое svg. |
+| content | String | Встроенный строковый SVG-контент. |
 | baseUri | String | Базовый URI документа. Он будет объединен с текущим путем к каталогу для формирования абсолютного URL-адреса. |
-| options | ImageSaveOptions | Параметры преобразования. |
+| options | ImageSaveOptions | Варианты преобразования. |
 | outputPath | String | Путь к выходному файлу. |
 
 ### Смотрите также
@@ -518,7 +518,7 @@ public static void ConvertSVG(string content, string baseUri, ImageSaveOptions o
 
 ## ConvertSVG(string, string, Configuration, ImageSaveOptions, string) {#convertsvg_31}
 
-Преобразование документа svg в изображение. Результат - файл изображения.
+Преобразование документа SVG в изображение. Результатом является файл изображения.
 
 ```csharp
 public static void ConvertSVG(string content, string baseUri, Configuration configuration, 
@@ -527,10 +527,10 @@ public static void ConvertSVG(string content, string baseUri, Configuration conf
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| content | String | Встроенное строковое содержимое svg. |
+| content | String | Встроенный строковый SVG-контент. |
 | baseUri | String | Базовый URI документа. Он будет объединен с текущим путем к каталогу для формирования абсолютного URL-адреса. |
-| configuration | Configuration | Конфигурация среды. |
-| options | ImageSaveOptions | Параметры преобразования. |
+| configuration | Configuration | Конфигурация окружения. |
+| options | ImageSaveOptions | Варианты преобразования. |
 | outputPath | String | Путь к выходному файлу. |
 
 ### Смотрите также
@@ -545,7 +545,7 @@ public static void ConvertSVG(string content, string baseUri, Configuration conf
 
 ## ConvertSVG(SVGDocument, ImageSaveOptions, ICreateStreamProvider) {#convertsvg}
 
-Преобразование источника svg в изображение. Результат - файл изображения.
+Преобразовать исходный файл svg в изображение. Результатом является файл изображения.
 
 ```csharp
 public static void ConvertSVG(SVGDocument document, ImageSaveOptions options, 
@@ -554,9 +554,9 @@ public static void ConvertSVG(SVGDocument document, ImageSaveOptions options,
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| document | SVGDocument | Источник преобразования. |
-| options | ImageSaveOptions | Параметры преобразования. |
-| provider | ICreateStreamProvider | Реализация интерфейса[`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider), который будет использоваться для получения выходного потока. |
+| document | SVGDocument | Источник конверсии. |
+| options | ImageSaveOptions | Варианты преобразования. |
+| provider | ICreateStreamProvider | Осуществление[`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider)интерфейс, который будет использоваться для получения выходного потока. |
 
 ### Смотрите также
 
@@ -571,7 +571,7 @@ public static void ConvertSVG(SVGDocument document, ImageSaveOptions options,
 
 ## ConvertSVG(Url, ImageSaveOptions, ICreateStreamProvider) {#convertsvg_12}
 
-Преобразование источника svg в изображение. Результат - файл изображения.
+Преобразовать исходный файл svg в изображение. Результатом является файл изображения.
 
 ```csharp
 public static void ConvertSVG(Url url, ImageSaveOptions options, ICreateStreamProvider provider)
@@ -579,9 +579,9 @@ public static void ConvertSVG(Url url, ImageSaveOptions options, ICreateStreamPr
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| url | Url | URL документа. |
-| options | ImageSaveOptions | Параметры преобразования. |
-| provider | ICreateStreamProvider | Реализация интерфейса[`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider), который будет использоваться для получения выходного потока. |
+| url | Url | URL-адрес документа. |
+| options | ImageSaveOptions | Варианты преобразования. |
+| provider | ICreateStreamProvider | Осуществление[`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider)интерфейс, который будет использоваться для получения выходного потока. |
 
 ### Смотрите также
 
@@ -596,7 +596,7 @@ public static void ConvertSVG(Url url, ImageSaveOptions options, ICreateStreamPr
 
 ## ConvertSVG(Url, Configuration, ImageSaveOptions, ICreateStreamProvider) {#convertsvg_6}
 
-Преобразование источника svg в изображение. Результат - файл изображения.
+Преобразовать исходный файл svg в изображение. Результатом является файл изображения.
 
 ```csharp
 public static void ConvertSVG(Url url, Configuration configuration, ImageSaveOptions options, 
@@ -605,10 +605,10 @@ public static void ConvertSVG(Url url, Configuration configuration, ImageSaveOpt
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| url | Url | URL документа. |
-| configuration | Configuration | Конфигурация среды. |
-| options | ImageSaveOptions | Параметры преобразования. |
-| provider | ICreateStreamProvider | Реализация интерфейса[`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider), который будет использоваться для получения выходного потока. |
+| url | Url | URL-адрес документа. |
+| configuration | Configuration | Конфигурация окружения. |
+| options | ImageSaveOptions | Варианты преобразования. |
+| provider | ICreateStreamProvider | Осуществление[`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider)интерфейс, который будет использоваться для получения выходного потока. |
 
 ### Смотрите также
 
@@ -624,7 +624,7 @@ public static void ConvertSVG(Url url, Configuration configuration, ImageSaveOpt
 
 ## ConvertSVG(string, ImageSaveOptions, ICreateStreamProvider) {#convertsvg_24}
 
-Преобразование источника svg в изображение. Результат - файл изображения.
+Преобразовать исходный файл svg в изображение. Результатом является файл изображения.
 
 ```csharp
 public static void ConvertSVG(string sourcePath, ImageSaveOptions options, 
@@ -633,9 +633,9 @@ public static void ConvertSVG(string sourcePath, ImageSaveOptions options,
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| sourcePath | String | Путь к исходному файлу Svg. Он будет объединен с текущим путем к каталогу для формирования абсолютного URL-адреса. |
-| options | ImageSaveOptions | Параметры преобразования. |
-| provider | ICreateStreamProvider | Реализация интерфейса[`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider), который будет использоваться для получения выходного потока. |
+| sourcePath | String | Исходный путь к SVG-файлу. Он будет объединен с текущим путем к каталогу для формирования абсолютного URL-адреса. |
+| options | ImageSaveOptions | Варианты преобразования. |
+| provider | ICreateStreamProvider | Осуществление[`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider)интерфейс, который будет использоваться для получения выходного потока. |
 
 ### Смотрите также
 
@@ -649,7 +649,7 @@ public static void ConvertSVG(string sourcePath, ImageSaveOptions options,
 
 ## ConvertSVG(string, Configuration, ImageSaveOptions, ICreateStreamProvider) {#convertsvg_18}
 
-Преобразование источника svg в изображение. Результат - файл изображения.
+Преобразовать исходный файл svg в изображение. Результатом является файл изображения.
 
 ```csharp
 public static void ConvertSVG(string sourcePath, Configuration configuration, 
@@ -658,10 +658,10 @@ public static void ConvertSVG(string sourcePath, Configuration configuration,
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| sourcePath | String | Путь к исходному файлу Svg. Он будет объединен с текущим путем к каталогу для формирования абсолютного URL-адреса. |
-| configuration | Configuration | Конфигурация среды. |
-| options | ImageSaveOptions | Параметры преобразования. |
-| provider | ICreateStreamProvider | Реализация интерфейса[`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider), который будет использоваться для получения выходного потока. |
+| sourcePath | String | Исходный путь к SVG-файлу. Он будет объединен с текущим путем к каталогу для формирования абсолютного URL-адреса. |
+| configuration | Configuration | Конфигурация окружения. |
+| options | ImageSaveOptions | Варианты преобразования. |
+| provider | ICreateStreamProvider | Осуществление[`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider)интерфейс, который будет использоваться для получения выходного потока. |
 
 ### Смотрите также
 
@@ -676,7 +676,7 @@ public static void ConvertSVG(string sourcePath, Configuration configuration,
 
 ## ConvertSVG(string, string, ImageSaveOptions, ICreateStreamProvider) {#convertsvg_36}
 
-Преобразование источника svg в изображение. Результат - файл изображения.
+Преобразовать исходный файл svg в изображение. Результатом является файл изображения.
 
 ```csharp
 public static void ConvertSVG(string content, string baseUri, ImageSaveOptions options, 
@@ -685,10 +685,10 @@ public static void ConvertSVG(string content, string baseUri, ImageSaveOptions o
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| content | String | Встроенное строковое содержимое svg. |
+| content | String | Встроенный строковый SVG-контент. |
 | baseUri | String | Базовый URI документа. Он будет объединен с текущим путем к каталогу для формирования абсолютного URL-адреса. |
-| options | ImageSaveOptions | Параметры преобразования. |
-| provider | ICreateStreamProvider | Реализация интерфейса[`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider), который будет использоваться для получения выходного потока. |
+| options | ImageSaveOptions | Варианты преобразования. |
+| provider | ICreateStreamProvider | Осуществление[`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider)интерфейс, который будет использоваться для получения выходного потока. |
 
 ### Смотрите также
 
@@ -702,7 +702,7 @@ public static void ConvertSVG(string content, string baseUri, ImageSaveOptions o
 
 ## ConvertSVG(string, string, Configuration, ImageSaveOptions, ICreateStreamProvider) {#convertsvg_30}
 
-Преобразование источника svg в изображение. Результат - файл изображения.
+Преобразовать исходный файл svg в изображение. Результатом является файл изображения.
 
 ```csharp
 public static void ConvertSVG(string content, string baseUri, Configuration configuration, 
@@ -711,11 +711,11 @@ public static void ConvertSVG(string content, string baseUri, Configuration conf
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| content | String | Встроенное строковое содержимое svg. |
+| content | String | Встроенный строковый SVG-контент. |
 | baseUri | String | Базовый URI документа. Он будет объединен с текущим путем к каталогу для формирования абсолютного URL-адреса. |
-| configuration | Configuration | Конфигурация среды. |
-| options | ImageSaveOptions | Параметры преобразования. |
-| provider | ICreateStreamProvider | Реализация интерфейса[`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider), который будет использоваться для получения выходного потока. |
+| configuration | Configuration | Конфигурация окружения. |
+| options | ImageSaveOptions | Варианты преобразования. |
+| provider | ICreateStreamProvider | Осуществление[`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider)интерфейс, который будет использоваться для получения выходного потока. |
 
 ### Смотрите также
 
@@ -730,7 +730,7 @@ public static void ConvertSVG(string content, string baseUri, Configuration conf
 
 ## ConvertSVG(SVGDocument, XpsSaveOptions, string) {#convertsvg_5}
 
-Преобразование документа svg в xps. Результатом является файл xps.
+Преобразование документа SVG в XPS. Результатом является файл XPS.
 
 ```csharp
 public static void ConvertSVG(SVGDocument source, XpsSaveOptions options, string outputPath)
@@ -738,8 +738,8 @@ public static void ConvertSVG(SVGDocument source, XpsSaveOptions options, string
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| source | SVGDocument | Источник преобразования. |
-| options | XpsSaveOptions | Параметры преобразования. |
+| source | SVGDocument | Источник конверсии. |
+| options | XpsSaveOptions | Варианты преобразования. |
 | outputPath | String | Путь к выходному файлу. |
 
 ### Смотрите также
@@ -754,7 +754,7 @@ public static void ConvertSVG(SVGDocument source, XpsSaveOptions options, string
 
 ## ConvertSVG(Url, XpsSaveOptions, string) {#convertsvg_17}
 
-Преобразование источника svg в xps. Результат - xps-файл.
+Преобразование источника SVG в XPS. Результатом является файл xps.
 
 ```csharp
 public static void ConvertSVG(Url url, XpsSaveOptions options, string outputPath)
@@ -763,7 +763,7 @@ public static void ConvertSVG(Url url, XpsSaveOptions options, string outputPath
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | url | Url | URL исходного документа. |
-| options | XpsSaveOptions | Параметры преобразования. |
+| options | XpsSaveOptions | Варианты преобразования. |
 | outputPath | String | Путь к выходному файлу. |
 
 ### Смотрите также
@@ -778,7 +778,7 @@ public static void ConvertSVG(Url url, XpsSaveOptions options, string outputPath
 
 ## ConvertSVG(Url, Configuration, XpsSaveOptions, string) {#convertsvg_11}
 
-Преобразование источника svg в xps. Результат - xps-файл.
+Преобразование источника SVG в XPS. Результатом является файл xps.
 
 ```csharp
 public static void ConvertSVG(Url url, Configuration configuration, XpsSaveOptions options, 
@@ -788,8 +788,8 @@ public static void ConvertSVG(Url url, Configuration configuration, XpsSaveOptio
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | url | Url | URL исходного документа. |
-| configuration | Configuration | Конфигурация среды. |
-| options | XpsSaveOptions | Параметры преобразования. |
+| configuration | Configuration | Конфигурация окружения. |
+| options | XpsSaveOptions | Варианты преобразования. |
 | outputPath | String | Путь к выходному файлу. |
 
 ### Смотрите также
@@ -805,7 +805,7 @@ public static void ConvertSVG(Url url, Configuration configuration, XpsSaveOptio
 
 ## ConvertSVG(string, XpsSaveOptions, string) {#convertsvg_29}
 
-Преобразование источника svg в xps. Результат - xps-файл.
+Преобразование источника SVG в XPS. Результатом является файл xps.
 
 ```csharp
 public static void ConvertSVG(string sourcePath, XpsSaveOptions options, string outputPath)
@@ -813,8 +813,8 @@ public static void ConvertSVG(string sourcePath, XpsSaveOptions options, string 
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| sourcePath | String | Путь к исходному файлу Svg. Он будет объединен с текущим путем к каталогу для формирования абсолютного URL-адреса. |
-| options | XpsSaveOptions | Параметры преобразования. |
+| sourcePath | String | Исходный путь к SVG-файлу. Он будет объединен с текущим путем к каталогу для формирования абсолютного URL-адреса. |
+| options | XpsSaveOptions | Варианты преобразования. |
 | outputPath | String | Путь к выходному файлу. |
 
 ### Смотрите также
@@ -828,7 +828,7 @@ public static void ConvertSVG(string sourcePath, XpsSaveOptions options, string 
 
 ## ConvertSVG(string, Configuration, XpsSaveOptions, string) {#convertsvg_23}
 
-Преобразование источника svg в xps. Результат - xps-файл.
+Преобразование источника SVG в XPS. Результатом является файл xps.
 
 ```csharp
 public static void ConvertSVG(string sourcePath, Configuration configuration, 
@@ -837,9 +837,9 @@ public static void ConvertSVG(string sourcePath, Configuration configuration,
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| sourcePath | String | Путь к исходному файлу Svg. Он будет объединен с текущим путем к каталогу для формирования абсолютного URL-адреса. |
-| configuration | Configuration | Конфигурация среды. |
-| options | XpsSaveOptions | Параметры преобразования. |
+| sourcePath | String | Исходный путь к SVG-файлу. Он будет объединен с текущим путем к каталогу для формирования абсолютного URL-адреса. |
+| configuration | Configuration | Конфигурация окружения. |
+| options | XpsSaveOptions | Варианты преобразования. |
 | outputPath | String | Путь к выходному файлу. |
 
 ### Смотрите также
@@ -854,7 +854,7 @@ public static void ConvertSVG(string sourcePath, Configuration configuration,
 
 ## ConvertSVG(string, string, XpsSaveOptions, string) {#convertsvg_41}
 
-Преобразование источника svg в xps. Результат - xps-файл.
+Преобразование источника SVG в XPS. Результатом является файл xps.
 
 ```csharp
 public static void ConvertSVG(string content, string baseUri, XpsSaveOptions options, 
@@ -863,9 +863,9 @@ public static void ConvertSVG(string content, string baseUri, XpsSaveOptions opt
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| content | String | Встроенное строковое содержимое svg. |
+| content | String | Встроенный строковый SVG-контент. |
 | baseUri | String | Базовый URI документа. Он будет объединен с текущим путем к каталогу для формирования абсолютного URL-адреса. |
-| options | XpsSaveOptions | Параметры преобразования. |
+| options | XpsSaveOptions | Варианты преобразования. |
 | outputPath | String | Путь к выходному файлу. |
 
 ### Смотрите также
@@ -879,7 +879,7 @@ public static void ConvertSVG(string content, string baseUri, XpsSaveOptions opt
 
 ## ConvertSVG(string, string, Configuration, XpsSaveOptions, string) {#convertsvg_35}
 
-Преобразование источника svg в xps. Результат - xps-файл.
+Преобразование источника SVG в XPS. Результатом является файл xps.
 
 ```csharp
 public static void ConvertSVG(string content, string baseUri, Configuration configuration, 
@@ -888,10 +888,10 @@ public static void ConvertSVG(string content, string baseUri, Configuration conf
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| content | String | Встроенное строковое содержимое svg. |
+| content | String | Встроенный строковый SVG-контент. |
 | baseUri | String | Базовый URI документа. Он будет объединен с текущим путем к каталогу для формирования абсолютного URL-адреса. |
-| configuration | Configuration | Конфигурация среды. |
-| options | XpsSaveOptions | Параметры преобразования. |
+| configuration | Configuration | Конфигурация окружения. |
+| options | XpsSaveOptions | Варианты преобразования. |
 | outputPath | String | Путь к выходному файлу. |
 
 ### Смотрите также
@@ -906,7 +906,7 @@ public static void ConvertSVG(string content, string baseUri, Configuration conf
 
 ## ConvertSVG(SVGDocument, XpsSaveOptions, ICreateStreamProvider) {#convertsvg_4}
 
-Преобразование источника svg в xps. Результат - xps-файл.
+Преобразование источника SVG в XPS. Результатом является файл xps.
 
 ```csharp
 public static void ConvertSVG(SVGDocument document, XpsSaveOptions options, 
@@ -915,9 +915,9 @@ public static void ConvertSVG(SVGDocument document, XpsSaveOptions options,
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| document | SVGDocument | Источник преобразования. |
-| options | XpsSaveOptions | Параметры преобразования. |
-| provider | ICreateStreamProvider | Реализация интерфейса[`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider), который будет использоваться для получения выходного потока. |
+| document | SVGDocument | Источник конверсии. |
+| options | XpsSaveOptions | Варианты преобразования. |
+| provider | ICreateStreamProvider | Осуществление[`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider)интерфейс, который будет использоваться для получения выходного потока. |
 
 ### Смотрите также
 
@@ -932,7 +932,7 @@ public static void ConvertSVG(SVGDocument document, XpsSaveOptions options,
 
 ## ConvertSVG(Url, XpsSaveOptions, ICreateStreamProvider) {#convertsvg_16}
 
-Преобразование источника svg в xps. Результат - xps-файл.
+Преобразование источника SVG в XPS. Результатом является файл xps.
 
 ```csharp
 public static void ConvertSVG(Url url, XpsSaveOptions options, ICreateStreamProvider provider)
@@ -940,9 +940,9 @@ public static void ConvertSVG(Url url, XpsSaveOptions options, ICreateStreamProv
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| url | Url | URL документа. |
-| options | XpsSaveOptions | Параметры преобразования. |
-| provider | ICreateStreamProvider | Реализация интерфейса[`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider), который будет использоваться для получения выходного потока. |
+| url | Url | URL-адрес документа. |
+| options | XpsSaveOptions | Варианты преобразования. |
+| provider | ICreateStreamProvider | Осуществление[`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider)интерфейс, который будет использоваться для получения выходного потока. |
 
 ### Смотрите также
 
@@ -957,7 +957,7 @@ public static void ConvertSVG(Url url, XpsSaveOptions options, ICreateStreamProv
 
 ## ConvertSVG(Url, Configuration, XpsSaveOptions, ICreateStreamProvider) {#convertsvg_10}
 
-Преобразование источника svg в xps. Результат - xps-файл.
+Преобразование источника SVG в XPS. Результатом является файл xps.
 
 ```csharp
 public static void ConvertSVG(Url url, Configuration configuration, XpsSaveOptions options, 
@@ -966,10 +966,10 @@ public static void ConvertSVG(Url url, Configuration configuration, XpsSaveOptio
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| url | Url | URL документа. |
-| configuration | Configuration | Конфигурация среды. |
-| options | XpsSaveOptions | Параметры преобразования. |
-| provider | ICreateStreamProvider | Реализация интерфейса[`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider), который будет использоваться для получения выходного потока. |
+| url | Url | URL-адрес документа. |
+| configuration | Configuration | Конфигурация окружения. |
+| options | XpsSaveOptions | Варианты преобразования. |
+| provider | ICreateStreamProvider | Осуществление[`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider)интерфейс, который будет использоваться для получения выходного потока. |
 
 ### Смотрите также
 
@@ -985,7 +985,7 @@ public static void ConvertSVG(Url url, Configuration configuration, XpsSaveOptio
 
 ## ConvertSVG(string, XpsSaveOptions, ICreateStreamProvider) {#convertsvg_28}
 
-Преобразование источника svg в xps. Результат - xps-файл.
+Преобразование источника SVG в XPS. Результатом является файл xps.
 
 ```csharp
 public static void ConvertSVG(string sourcePath, XpsSaveOptions options, 
@@ -994,9 +994,9 @@ public static void ConvertSVG(string sourcePath, XpsSaveOptions options,
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| sourcePath | String | Путь к исходному файлу Svg. Он будет объединен с текущим путем к каталогу для формирования абсолютного URL-адреса. |
-| options | XpsSaveOptions | Параметры преобразования. |
-| provider | ICreateStreamProvider | Реализация интерфейса[`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider), который будет использоваться для получения выходного потока. |
+| sourcePath | String | Исходный путь к SVG-файлу. Он будет объединен с текущим путем к каталогу для формирования абсолютного URL-адреса. |
+| options | XpsSaveOptions | Варианты преобразования. |
+| provider | ICreateStreamProvider | Осуществление[`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider)интерфейс, который будет использоваться для получения выходного потока. |
 
 ### Смотрите также
 
@@ -1010,7 +1010,7 @@ public static void ConvertSVG(string sourcePath, XpsSaveOptions options,
 
 ## ConvertSVG(string, Configuration, XpsSaveOptions, ICreateStreamProvider) {#convertsvg_22}
 
-Преобразование источника svg в xps. Результат - xps-файл.
+Преобразование источника SVG в XPS. Результатом является файл xps.
 
 ```csharp
 public static void ConvertSVG(string sourcePath, Configuration configuration, 
@@ -1019,10 +1019,10 @@ public static void ConvertSVG(string sourcePath, Configuration configuration,
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| sourcePath | String | Путь к исходному файлу Svg. Он будет объединен с текущим путем к каталогу для формирования абсолютного URL-адреса. |
-| configuration | Configuration | Конфигурация среды. |
-| options | XpsSaveOptions | Параметры преобразования. |
-| provider | ICreateStreamProvider | Реализация интерфейса[`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider), который будет использоваться для получения выходного потока. |
+| sourcePath | String | Исходный путь к SVG-файлу. Он будет объединен с текущим путем к каталогу для формирования абсолютного URL-адреса. |
+| configuration | Configuration | Конфигурация окружения. |
+| options | XpsSaveOptions | Варианты преобразования. |
+| provider | ICreateStreamProvider | Осуществление[`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider)интерфейс, который будет использоваться для получения выходного потока. |
 
 ### Смотрите также
 
@@ -1037,7 +1037,7 @@ public static void ConvertSVG(string sourcePath, Configuration configuration,
 
 ## ConvertSVG(string, string, XpsSaveOptions, ICreateStreamProvider) {#convertsvg_40}
 
-Преобразование источника svg в xps. Результат - xps-файл.
+Преобразование источника SVG в XPS. Результатом является файл xps.
 
 ```csharp
 public static void ConvertSVG(string content, string baseUri, XpsSaveOptions options, 
@@ -1046,10 +1046,10 @@ public static void ConvertSVG(string content, string baseUri, XpsSaveOptions opt
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| content | String | Встроенное строковое содержимое svg. |
+| content | String | Встроенный строковый SVG-контент. |
 | baseUri | String | Базовый URI документа. Он будет объединен с текущим путем к каталогу для формирования абсолютного URL-адреса. |
-| options | XpsSaveOptions | Параметры преобразования. |
-| provider | ICreateStreamProvider | Реализация интерфейса[`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider), который будет использоваться для получения выходного потока. |
+| options | XpsSaveOptions | Варианты преобразования. |
+| provider | ICreateStreamProvider | Осуществление[`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider)интерфейс, который будет использоваться для получения выходного потока. |
 
 ### Смотрите также
 
@@ -1063,7 +1063,7 @@ public static void ConvertSVG(string content, string baseUri, XpsSaveOptions opt
 
 ## ConvertSVG(string, string, Configuration, XpsSaveOptions, ICreateStreamProvider) {#convertsvg_34}
 
-Преобразование источника svg в xps. Результат - xps-файл.
+Преобразование источника SVG в XPS. Результатом является файл xps.
 
 ```csharp
 public static void ConvertSVG(string content, string baseUri, Configuration configuration, 
@@ -1072,11 +1072,11 @@ public static void ConvertSVG(string content, string baseUri, Configuration conf
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| content | String | Встроенное строковое содержимое svg. |
+| content | String | Встроенный строковый SVG-контент. |
 | baseUri | String | Базовый URI документа. Он будет объединен с текущим путем к каталогу для формирования абсолютного URL-адреса. |
-| configuration | Configuration | Конфигурация среды. |
-| options | XpsSaveOptions | Параметры преобразования. |
-| provider | ICreateStreamProvider | Реализация интерфейса[`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider), который будет использоваться для получения выходного потока. |
+| configuration | Configuration | Конфигурация окружения. |
+| options | XpsSaveOptions | Варианты преобразования. |
+| provider | ICreateStreamProvider | Осуществление[`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider)интерфейс, который будет использоваться для получения выходного потока. |
 
 ### Смотрите также
 

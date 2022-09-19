@@ -1,14 +1,14 @@
 ---
 title: ImageVectorizer
 second_title: Справочник по Aspose.SVG для .NET API
-description: Инициализирует новый экземпляр классаImageVectorizeraspose.svg.imagevectorization/imagevectorizer.
+description: Инициализирует новый экземплярImageVectorizeraspose.svg.imagevectorization/imagevectorizer класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.imagevectorization/imagevectorizer/imagevectorizer/
 ---
 ## ImageVectorizer() {#constructor}
 
-Инициализирует новый экземпляр класса[`ImageVectorizer`](../../imagevectorizer).
+Инициализирует новый экземпляр[`ImageVectorizer`](../../imagevectorizer) класс.
 
 ```csharp
 public ImageVectorizer()
@@ -24,7 +24,7 @@ public ImageVectorizer()
 
 ## ImageVectorizer(ImageVectorizerConfiguration) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`ImageVectorizer`](../../imagevectorizer).
+Инициализирует новый экземпляр[`ImageVectorizer`](../../imagevectorizer) класс.
 
 ```csharp
 public ImageVectorizer(ImageVectorizerConfiguration configuration)

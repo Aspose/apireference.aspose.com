@@ -1,14 +1,14 @@
 ---
 title: HasChildNodes
 second_title: Aspose.SVG for .NET API 参考
-description: 返回此节点是否有任何子节点
+description: 返回此节点是否有子节点
 type: docs
 weight: 210
 url: /zh/net/aspose.svg.dom/node/haschildnodes/
 ---
 ## Node.HasChildNodes method
 
-返回此节点是否有任何子节点。
+返回此节点是否有子节点。
 
 ```csharp
 public bool HasChildNodes()
@@ -16,7 +16,7 @@ public bool HasChildNodes()
 
 ### 返回值
 
-` true` 如果有子节点，否则` false` 。
+`真的`如果有子节点，否则，`错误的` .
 
 ### 也可以看看
 

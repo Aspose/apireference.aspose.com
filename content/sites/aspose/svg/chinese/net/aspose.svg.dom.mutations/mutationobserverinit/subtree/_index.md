@@ -1,14 +1,14 @@
 ---
 title: Subtree
 second_title: Aspose.SVG for .NET API 参考
-description: 如果不仅要观察到目标的突变还要观察到目标的后代则设置为 true
+description: 如果不仅要观察目标还要观察目标的后代则设置为 true
 type: docs
 weight: 120
 url: /zh/net/aspose.svg.dom.mutations/mutationobserverinit/subtree/
 ---
 ## MutationObserverInit.Subtree property
 
-如果不仅要观察到目标的突变，还要观察到目标的后代，则设置为 true
+如果不仅要观察目标，还要观察目标的后代，则设置为 true
 
 ```csharp
 public bool Subtree { get; set; }

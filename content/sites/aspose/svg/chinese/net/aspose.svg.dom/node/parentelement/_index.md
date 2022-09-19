@@ -1,14 +1,14 @@
 ---
 title: ParentElement
 second_title: Aspose.SVG for .NET API 参考
-description: 获取该节点的父节点Elementaspose.svg.dom/element
+description: 获取父级Elementaspose.svg.dom/element这个节点的.
 type: docs
 weight: 130
 url: /zh/net/aspose.svg.dom/node/parentelement/
 ---
 ## Node.ParentElement property
 
-获取该节点的父节点[`Element`](../../element)。
+获取父级[`Element`](../../element)这个节点的.
 
 ```csharp
 public Element ParentElement { get; }

@@ -1,14 +1,14 @@
 ---
 title: Fx
 second_title: Aspose.SVG for .NET API 参考
-description: 对应于给定 radialGradient 元素的属性 fx
+description: 对应于给定radialGradient元素上的属性fx
 type: docs
 weight: 40
 url: /zh/net/aspose.svg/svgradialgradientelement/fx/
 ---
 ## SVGRadialGradientElement.Fx property
 
-对应于给定 'radialGradient' 元素的属性 'fx'。
+对应于给定“radialGradient”元素上的属性“fx”。
 
 ```csharp
 public SVGAnimatedLength Fx { get; }
@@ -16,7 +16,7 @@ public SVGAnimatedLength Fx { get; }
 
 ### 适当的价值
 
-给定 'radialGradient' 元素的属性 'fx'。
+给定“radialGradient”元素的属性“fx”。
 
 ### 也可以看看
 

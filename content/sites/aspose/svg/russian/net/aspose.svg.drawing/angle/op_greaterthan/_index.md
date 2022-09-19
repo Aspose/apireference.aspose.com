@@ -16,8 +16,8 @@ public static bool operator >(Angle a, Angle b)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| a | Angle | Параметр a. |
-| b | Angle | Параметр b. |
+| a | Angle | Параметр а. |
+| b | Angle | Параметр б. |
 
 ### Возвращаемое значение
 
@@ -27,8 +27,8 @@ public static bool operator >(Angle a, Angle b)
 
 | исключение | условие |
 | --- | --- |
-| ArgumentException | Аргументы имеют разные типы |
-| ArgumentNullException | Аргумент имеет значение null |
+| ArgumentException | Аргументы бывают разных типов |
+| ArgumentNullException | Аргумент недействителен |
 
 ### Смотрите также
 

@@ -8,7 +8,7 @@ url: /ru/net/aspose.svg/svgcomponenttransferfunctionelement/tablevalues/
 ---
 ## SVGComponentTransferFunctionElement.TableValues property
 
-Соответствует атрибуту 'tableValues' данного элемента.
+Соответствует атрибуту tableValues данного элемента.
 
 ```csharp
 public SVGAnimatedNumberList TableValues { get; }
@@ -16,7 +16,7 @@ public SVGAnimatedNumberList TableValues { get; }
 
 ### Стоимость имущества
 
-Атрибут 'тип' данного элемента.
+Тип атрибута данного элемента.
 
 ### Смотрите также
 

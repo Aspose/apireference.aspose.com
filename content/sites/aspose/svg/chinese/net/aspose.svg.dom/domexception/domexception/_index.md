@@ -1,14 +1,14 @@
 ---
 title: DOMException
 second_title: Aspose.SVG for .NET API 参考
-description: 初始化DOMExceptionaspose.svg.dom/domexception类的新实例
+description: 初始化DOMExceptionaspose.svg.dom/domexception类.
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.dom/domexception/domexception/
 ---
 ## DOMException(string) {#constructor}
 
-初始化[`DOMException`](../../domexception)类的新实例。
+初始化[`DOMException`](../../domexception)类.
 
 ```csharp
 public DOMException(string message)
@@ -28,7 +28,7 @@ public DOMException(string message)
 
 ## DOMException(string, string) {#constructor_1}
 
-初始化[`DOMException`](../../domexception)类的新实例。
+初始化[`DOMException`](../../domexception)类.
 
 ```csharp
 public DOMException(string name, string message)

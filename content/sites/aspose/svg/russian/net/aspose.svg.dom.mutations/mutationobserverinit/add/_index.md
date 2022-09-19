@@ -1,14 +1,14 @@
 ---
 title: Add
 second_title: Справочник по Aspose.SVG для .NET API
-description: Добавляет элемент в коллекциюMutationObserverInitaspose.svg.dom.mutations/mutationobserverinit.
+description: Добавляет элемент вMutationObserverInitaspose.svg.dom.mutations/mutationobserverinitколлекция.
 type: docs
 weight: 140
 url: /ru/net/aspose.svg.dom.mutations/mutationobserverinit/add/
 ---
 ## Add(KeyValuePair&lt;string, object&gt;) {#add}
 
-Добавляет элемент в коллекцию[`MutationObserverInit`](../../mutationobserverinit).
+Добавляет элемент в[`MutationObserverInit`](../../mutationobserverinit)коллекция.
 
 ```csharp
 public void Add(KeyValuePair<string, object> item)
@@ -16,7 +16,7 @@ public void Add(KeyValuePair<string, object> item)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| item | KeyValuePair`2 | Добавляемый элемент. |
+| item | KeyValuePair`2 | Элемент для добавления. |
 
 ### Смотрите также
 
@@ -28,7 +28,7 @@ public void Add(KeyValuePair<string, object> item)
 
 ## Add(string, object) {#add_1}
 
-Добавляет указанные ключ и значение в коллекцию[`MutationObserverInit`](../../mutationobserverinit).
+Добавляет указанный ключ и значение в[`MutationObserverInit`](../../mutationobserverinit)коллекция.
 
 ```csharp
 public void Add(string key, object value)

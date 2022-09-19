@@ -8,7 +8,7 @@ url: /ru/net/aspose.svg.filters/svgfecompositeelement/svg_fecomposite_operator_a
 ---
 ## SVGFECompositeElement.SVG_FECOMPOSITE_OPERATOR_ARITHMETIC field
 
-Соответствует значению 'арифметика'.
+Соответствует значению «арифметика».
 
 ```csharp
 public const ushort SVG_FECOMPOSITE_OPERATOR_ARITHMETIC;

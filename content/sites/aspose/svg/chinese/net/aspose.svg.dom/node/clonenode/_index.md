@@ -1,14 +1,14 @@
 ---
 title: CloneNode
 second_title: Aspose.SVG for .NET API 参考
-description: 返回此节点的副本即用作节点的通用复制构造函数重复节点没有父节点parentNode 为空并且没有用户数据
+description: 返回此节点的副本即用作节点的通用复制构造函数重复节点没有父节点parentNode 为空且没有用户数据
 type: docs
 weight: 190
 url: /zh/net/aspose.svg.dom/node/clonenode/
 ---
 ## CloneNode() {#clonenode}
 
-返回此节点的副本，即用作节点的通用复制构造函数。重复节点没有父节点（parentNode 为空）并且没有用户数据。
+返回此节点的副本，即用作节点的通用复制构造函数。重复节点没有父节点（parentNode 为空）且没有用户数据。
 
 ```csharp
 public Node CloneNode()
@@ -28,7 +28,7 @@ public Node CloneNode()
 
 ## CloneNode(bool) {#clonenode_1}
 
-返回此节点的副本，即用作节点的通用复制构造函数。重复节点没有父节点（parentNode 为空）并且没有用户数据。
+返回此节点的副本，即用作节点的通用复制构造函数。重复节点没有父节点（parentNode 为空）且没有用户数据。
 
 ```csharp
 public Node CloneNode(bool deep)
@@ -36,7 +36,7 @@ public Node CloneNode(bool deep)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| deep | Boolean | 如果设置为` true` [深]。 |
+| deep | Boolean | 如果设置为`真的`[深的]。 |
 
 ### 返回值
 

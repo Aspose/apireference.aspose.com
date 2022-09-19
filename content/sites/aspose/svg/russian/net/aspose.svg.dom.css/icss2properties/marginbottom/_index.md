@@ -1,7 +1,7 @@
 ---
 title: MarginBottom
 second_title: Справочник по Aspose.SVG для .NET API
-description: См. определение свойства margin-bottom в CSS2.
+description: См. определение свойства marginbottom в CSS2.
 type: docs
 weight: 640
 url: /ru/net/aspose.svg.dom.css/icss2properties/marginbottom/

@@ -8,7 +8,7 @@ url: /ru/net/aspose.svg/mimetype/tostring/
 ---
 ## MimeType.ToString method
 
-ВозвращаетString, который представляет тип Mime.
+ВозвращаетString который представляет тип Mime.
 
 ```csharp
 public override string ToString()
@@ -16,7 +16,7 @@ public override string ToString()
 
 ### Возвращаемое значение
 
-ОбъектString, представляющий этот экземпляр.
+АString который представляет этот экземпляр.
 
 ### Смотрите также
 

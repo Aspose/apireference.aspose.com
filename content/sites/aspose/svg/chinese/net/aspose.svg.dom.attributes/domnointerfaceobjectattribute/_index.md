@@ -3,7 +3,7 @@ title: DOMNoInterfaceObjectAttribute
 second_title: Aspose.SVG for .NET API 参考
 description: 如果接口上出现NoInterfaceObject扩展属性则表示ECMAScript绑定中该接口不存在接口对象
 type: docs
-weight: 410
+weight: 400
 url: /zh/net/aspose.svg.dom.attributes/domnointerfaceobjectattribute/
 ---
 ## DOMNoInterfaceObjectAttribute class

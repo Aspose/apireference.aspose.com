@@ -1,14 +1,14 @@
 ---
 title: ResponseHeaders
 second_title: Aspose.SVG for .NET API 参考
-description: 初始化RequestHeadersaspose.svg.net/requestheaders类的新实例
+description: 初始化RequestHeadersaspose.svg.net/requestheaders类.
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.net/responseheaders/responseheaders/
 ---
 ## ResponseHeaders constructor
 
-初始化[`RequestHeaders`](../../requestheaders)类的新实例。
+初始化[`RequestHeaders`](../../requestheaders)类.
 
 ```csharp
 public ResponseHeaders()

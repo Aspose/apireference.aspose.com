@@ -1,14 +1,14 @@
 ---
 title: CueAfter
 second_title: Aspose.SVG for .NET API 参考
-description: 请参阅 CSS2 中的 cue-after 属性定义
+description: 参见 CSS2 中的 cueafter 属性定义
 type: docs
 weight: 390
 url: /zh/net/aspose.svg.dom.css/icss2properties/cueafter/
 ---
 ## ICSS2Properties.CueAfter property
 
-请参阅 CSS2 中的 cue-after 属性定义。
+参见 CSS2 中的 cue-after 属性定义。
 
 ```csharp
 public string CueAfter { get; set; }
@@ -16,7 +16,7 @@ public string CueAfter { get; set; }
 
 ### 返回值
 
-cue-after 属性
+提示后属性
 
 ### 也可以看看
 

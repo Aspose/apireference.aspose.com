@@ -8,7 +8,7 @@ url: /ru/net/aspose.svg/svgradialgradientelement/fx/
 ---
 ## SVGRadialGradientElement.Fx property
 
-Соответствует атрибуту 'fx' данного элемента 'radialGradient'.
+Соответствует атрибуту fx данного элемента 'radialGradient'.
 
 ```csharp
 public SVGAnimatedLength Fx { get; }

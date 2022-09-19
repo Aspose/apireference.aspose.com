@@ -1,14 +1,14 @@
 ---
 title: Send
 second_title: Aspose.SVG for .NET API 参考
-description: 发送RequestMessageaspose.svg.net/requestmessage消息
+description: 发送一个RequestMessageaspose.svg.net/requestmessage消息.
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.net/inetwork/send/
 ---
 ## INetwork.Send method
 
-发送[`RequestMessage`](../../requestmessage)消息。
+发送一个[`RequestMessage`](../../requestmessage)消息.
 
 ```csharp
 public ResponseMessage Send(RequestMessage message)
@@ -20,7 +20,7 @@ public ResponseMessage Send(RequestMessage message)
 
 ### 返回值
 
-[`ResponseMessage`](../../responsemessage)消息
+一个[`ResponseMessage`](../../responsemessage)信息
 
 ### 也可以看看
 

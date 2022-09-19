@@ -16,7 +16,7 @@ public virtual void Add(Content content)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| content | Content | 要添加的内容到[`MultipartContent`](../../multipartcontent) |
+| content | Content | 要添加到的内容[`MultipartContent`](../../multipartcontent) |
 
 ### 也可以看看
 

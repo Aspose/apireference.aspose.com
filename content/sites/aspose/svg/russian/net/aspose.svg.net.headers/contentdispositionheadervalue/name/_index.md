@@ -1,14 +1,14 @@
 ---
 title: Name
 second_title: Справочник по Aspose.SVG для .NET API
-description: Имя части содержимого.
+description: Имя основной части контента.
 type: docs
 weight: 40
 url: /ru/net/aspose.svg.net.headers/contentdispositionheadervalue/name/
 ---
 ## ContentDispositionHeaderValue.Name property
 
-Имя части содержимого.
+Имя основной части контента.
 
 ```csharp
 public string Name { get; set; }

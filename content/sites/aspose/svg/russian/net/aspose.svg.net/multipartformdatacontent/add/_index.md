@@ -1,14 +1,14 @@
 ---
 title: Add
 second_title: Справочник по Aspose.SVG для .NET API
-description: Добавьте содержимое в классMultipartFormDataContentaspose.svg.net/multipartformdatacontent
+description: Добавьте содержимое вMultipartFormDataContentaspose.svg.net/multipartformdatacontent класс
 type: docs
 weight: 20
 url: /ru/net/aspose.svg.net/multipartformdatacontent/add/
 ---
 ## Add(Content) {#add}
 
-Добавьте содержимое в класс[`MultipartFormDataContent`](../../multipartformdatacontent)
+Добавьте содержимое в[`MultipartFormDataContent`](../../multipartformdatacontent) класс
 
 ```csharp
 public override void Add(Content content)
@@ -16,7 +16,7 @@ public override void Add(Content content)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| content | Content | Содержимое. |
+| content | Content | Контент. |
 
 ### Смотрите также
 
@@ -29,7 +29,7 @@ public override void Add(Content content)
 
 ## Add(Content, string) {#add_1}
 
-Добавьте содержимое в класс[`MultipartFormDataContent`](../../multipartformdatacontent)с параметром имени поля
+Добавьте содержимое в[`MultipartFormDataContent`](../../multipartformdatacontent) класс с именем поля параметр
 
 ```csharp
 public void Add(Content content, string name)
@@ -37,7 +37,7 @@ public void Add(Content content, string name)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| content | Content | Содержание. |
+| content | Content | Контент. |
 | name | String | Имя поля. |
 
 ### Смотрите также
@@ -51,7 +51,7 @@ public void Add(Content content, string name)
 
 ## Add(Content, string, string) {#add_2}
 
-Добавьте содержимое в класс[`MultipartFormDataContent`](../../multipartformdatacontent)с параметром поля и имени файла
+Добавьте содержимое в[`MultipartFormDataContent`](../../multipartformdatacontent) класс с полем и именем файла parameter
 
 ```csharp
 public void Add(Content content, string name, string fileName)
@@ -59,7 +59,7 @@ public void Add(Content content, string name, string fileName)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| content | Content | Содержание. |
+| content | Content | Контент. |
 | name | String | Имя поля. |
 | fileName | String | Имя файла. |
 

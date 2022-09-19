@@ -1,14 +1,14 @@
 ---
 title: Width
 second_title: Справочник по Aspose.SVG для .NET API
-description: Соответствует атрибуту width данного элемента pattern.
+description: Соответствует атрибуту ширина данного элемента шаблона.
 type: docs
 weight: 110
 url: /ru/net/aspose.svg/svgpatternelement/width/
 ---
 ## SVGPatternElement.Width property
 
-Соответствует атрибуту 'width' данного элемента 'pattern'.
+Соответствует атрибуту «ширина» данного элемента «шаблона».
 
 ```csharp
 public SVGAnimatedLength Width { get; }
@@ -16,7 +16,7 @@ public SVGAnimatedLength Width { get; }
 
 ### Стоимость имущества
 
-Атрибут 'ширина' данного элемента 'pattern'.
+Атрибут «ширина» данного элемента «шаблона».
 
 ### Смотрите также
 

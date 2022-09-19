@@ -1,14 +1,14 @@
 ---
 title: Align
 second_title: Aspose.SVG for .NET API 参考
-description: 在此接口上定义的 SVG_PRESERVEASPECTRATIO_ 常量之一指定的对齐值的类型
+description: 由在此接口上定义的 SVG_PRESERVEASPECTRATIO_ 常量之一指定的对齐值的类型
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.datatypes/svgpreserveaspectratio/align/
 ---
 ## SVGPreserveAspectRatio.Align property
 
-在此接口上定义的 SVG_PRESERVEASPECTRATIO_* 常量之一指定的对齐值的类型。
+由在此接口上定义的 SVG_PRESERVEASPECTRATIO_* 常量之一指定的对齐值的类型。
 
 ```csharp
 public ushort Align { get; set; }
@@ -16,13 +16,13 @@ public ushort Align { get; set; }
 
 ### 适当的价值
 
-对齐类型
+对齐的类型
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| Dom。DOMException | 代码[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err)。 当对象对应于只读属性或对象本身为只读时引发。 |
+| [DOMException](../../../aspose.svg.dom/domexception) | 代码[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err) . 当对象对应于只读属性或对象本身为只读时引发。 |
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: Vmax
 second_title: Справочник по Aspose.SVG для .NET API
-description: Измерение относительно 1 большего размера области просмотра Попробуйте
+description: Измерение относится к 1 большего размера области просмотра Попробуйте
 type: docs
 weight: 280
 url: /ru/net/aspose.svg.drawing/unittype/vmax/
 ---
 ## UnitType.Vmax field
 
-Измерение относительно 1% большего размера области просмотра* Попробуйте
+Измерение относится к 1% большего размера области просмотра* Попробуйте
 
 ```csharp
 public static readonly UnitType Vmax;

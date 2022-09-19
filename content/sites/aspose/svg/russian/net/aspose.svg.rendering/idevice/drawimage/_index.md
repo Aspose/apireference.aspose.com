@@ -1,14 +1,14 @@
 ---
 title: DrawImage
 second_title: Справочник по Aspose.SVG для .NET API
-description: Рисует заданное изображение.
+description: Рисует указанное изображение.
 type: docs
 weight: 100
 url: /ru/net/aspose.svg.rendering/idevice/drawimage/
 ---
 ## IDevice.DrawImage method
 
-Рисует заданное изображение.
+Рисует указанное изображение.
 
 ```csharp
 public void DrawImage(byte[] data, ImageType type, RectangleF rect)
@@ -18,7 +18,7 @@ public void DrawImage(byte[] data, ImageType type, RectangleF rect)
 | --- | --- | --- |
 | data | Byte[] | Массив байтов, представляющий изображение. |
 | type | ImageType | Тип изображения. |
-| rect | RectangleF | Прямоугольник, который определяет позицию и размер для рисования. |
+| rect | RectangleF | Прямоугольник, который определяет положение и размер для рисования. |
 
 ### Смотрите также
 

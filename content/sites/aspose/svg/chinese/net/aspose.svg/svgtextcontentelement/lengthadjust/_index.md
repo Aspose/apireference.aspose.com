@@ -16,7 +16,7 @@ public SVGAnimatedEnumeration LengthAdjust { get; }
 
 ### 适当的价值
 
-给定元素的属性 'lengthAdjust'
+给定元素的属性“lengthAdjust”
 
 ### 也可以看看
 

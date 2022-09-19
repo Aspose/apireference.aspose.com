@@ -1,14 +1,14 @@
 ---
 title: Pc
 second_title: Aspose.SVG for .NET API 参考
-description: 测量单位为皮卡
+description: 测量单位为 picas
 type: docs
 weight: 170
 url: /zh/net/aspose.svg.drawing/unittype/pc/
 ---
 ## UnitType.Pc field
 
-测量单位为皮卡
+测量单位为 picas
 
 ```csharp
 public static readonly UnitType Pc;

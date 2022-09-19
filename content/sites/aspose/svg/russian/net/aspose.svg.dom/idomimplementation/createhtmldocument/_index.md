@@ -1,14 +1,14 @@
 ---
 title: CreateHTMLDocument
 second_title: Справочник по Aspose.SVG для .NET API
-description: Возвращает документ с уже построенным базовым деревом включая элемент заголовка если аргумент заголовка не опущен.
+description: Возвращает документ с уже построенным базовым деревом включая элемент title если аргумент title не опущен.
 type: docs
 weight: 30
 url: /ru/net/aspose.svg.dom/idomimplementation/createhtmldocument/
 ---
 ## IDOMImplementation.CreateHTMLDocument method
 
-Возвращает документ с уже построенным базовым деревом, включая элемент заголовка, если аргумент заголовка не опущен.
+Возвращает документ с уже построенным базовым деревом, включая элемент title, если аргумент title не опущен.
 
 ```csharp
 public Document CreateHTMLDocument(string title)

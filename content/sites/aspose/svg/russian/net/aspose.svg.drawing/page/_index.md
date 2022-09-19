@@ -3,7 +3,7 @@ title: Page
 second_title: Справочник по Aspose.SVG для .NET API
 description: Представляет объект страницы используемый для страницы вывода конфигурации. Значение пробела для размера страницы A4 210x297 мм
 type: docs
-weight: 1550
+weight: 1560
 url: /ru/net/aspose.svg.drawing/page/
 ---
 ## Page class
@@ -18,10 +18,10 @@ public class Page
 
 | Имя | Описание |
 | --- | --- |
-| [Page](page#constructor)() | Инициализирует новый экземпляр класса[`Page`](../page). |
-| [Page](page#constructor_1)(Margin) | Инициализирует новый экземпляр класса[`Page`](../page). |
-| [Page](page#constructor_2)(Size) | Инициализирует новый экземпляр класса[`Page`](../page). |
-| [Page](page#constructor_3)(Size, Margin) | Инициализирует новый экземпляр класса[`Page`](../page). |
+| [Page](page#constructor)() | Инициализирует новый экземпляр[`Page`](../page) класс. |
+| [Page](page#constructor_1)(Margin) | Инициализирует новый экземпляр[`Page`](../page) класс. |
+| [Page](page#constructor_2)(Size) | Инициализирует новый экземпляр[`Page`](../page) класс. |
+| [Page](page#constructor_3)(Size, Margin) | Инициализирует новый экземпляр[`Page`](../page) класс. |
 
 ## Характеристики
 

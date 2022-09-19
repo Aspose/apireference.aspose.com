@@ -1,14 +1,14 @@
 ---
 title: DOMObject
 second_title: Aspose.SVG for .NET API 参考
-description: DOMObject 类型用于表示整个文档对象模型的基础对象 对于 Java 和 ECMAScriptDOMObject 绑定到 Object 类型
+description: DOMObject 类型用于表示整个 Document Object Model 的基础对象 对于 Java 和 ECMAScriptDOMObject 绑定到 Object 类型
 type: docs
-weight: 810
+weight: 800
 url: /zh/net/aspose.svg.dom/domobject/
 ---
 ## DOMObject class
 
-DOMObject 类型用于表示整个文档对象模型的基础对象。 对于 Java 和 ECMAScript，DOMObject 绑定到 Object 类型。
+DOMObject 类型用于表示整个 Document Object Model 的基础对象。 对于 Java 和 ECMAScript，DOMObject 绑定到 Object 类型。
 
 ```csharp
 public class DOMObject : INotifyPropertyChanged
@@ -24,7 +24,7 @@ public class DOMObject : INotifyPropertyChanged
 
 | 姓名 | 描述 |
 | --- | --- |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | 此方法用于检索 ECMAScript 对象Type。 |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | 此方法用于检索 ECMAScript 对象Type . |
 
 ### 也可以看看
 

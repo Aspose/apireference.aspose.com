@@ -8,7 +8,7 @@ url: /ru/net/aspose.svg/svgpatternelement/height/
 ---
 ## SVGPatternElement.Height property
 
-Соответствует атрибуту 'высота' данного элемента 'шаблона'.
+Соответствует атрибуту "высота" данного элемента "шаблона".
 
 ```csharp
 public SVGAnimatedLength Height { get; }
@@ -16,7 +16,7 @@ public SVGAnimatedLength Height { get; }
 
 ### Стоимость имущества
 
-Атрибут 'высота' данного элемента 'шаблона'.
+Атрибут «высота» данного элемента «шаблона».
 
 ### Смотрите также
 

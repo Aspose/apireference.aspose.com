@@ -1,14 +1,14 @@
 ---
 title: FocusEvent
 second_title: Aspose.SVG for .NET API 参考
-description: 初始化FocusEventaspose.svg.dom.events/focusevent类的新实例
+description: 初始化FocusEventaspose.svg.dom.events/focusevent类.
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.dom.events/focusevent/focusevent/
 ---
 ## FocusEvent(string) {#constructor}
 
-初始化[`FocusEvent`](../../focusevent)类的新实例。
+初始化[`FocusEvent`](../../focusevent)类.
 
 ```csharp
 public FocusEvent(string type)
@@ -28,7 +28,7 @@ public FocusEvent(string type)
 
 ## FocusEvent(string, IDictionary&lt;string, object&gt;) {#constructor_1}
 
-初始化[`FocusEvent`](../../focusevent)类的新实例。
+初始化[`FocusEvent`](../../focusevent)类.
 
 ```csharp
 public FocusEvent(string type, IDictionary<string, object> eventInitDict)

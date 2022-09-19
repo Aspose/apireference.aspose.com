@@ -3,7 +3,7 @@ title: INetworkService
 second_title: Aspose.SVG for .NET API 参考
 description: 为网络操作提供接口
 type: docs
-weight: 3660
+weight: 3670
 url: /zh/net/aspose.svg.services/inetworkservice/
 ---
 ## INetworkService interface
@@ -18,7 +18,7 @@ public interface INetworkService : IService
 
 | 姓名 | 描述 |
 | --- | --- |
-| [MessageHandlers](../../aspose.svg.services/inetworkservice/messagehandlers) { get; } | 获取[`MessageHandler`](../../aspose.svg.net/messagehandler)实例列表，作为[`RequestMessage`](../../aspose.svg.net/requestmessage)调用执行。 |
+| [MessageHandlers](../../aspose.svg.services/inetworkservice/messagehandlers) { get; } | 获取列表[`MessageHandler`](../../aspose.svg.net/messagehandler)要调用的实例[`RequestMessage`](../../aspose.svg.net/requestmessage)执行. |
 | [UrlResolver](../../aspose.svg.services/inetworkservice/urlresolver) { get; set; } | 获取或设置 URL 解析器。 |
 
 ### 也可以看看

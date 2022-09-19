@@ -1,14 +1,14 @@
 ---
 title: op_Implicit
 second_title: Aspose.SVG for .NET API 参考
-description: 执行从String到UnitTypeaspose.svg.drawing/unittype的隐式转换
+description: 从String至UnitTypeaspose.svg.drawing/unittype .
 type: docs
 weight: 360
 url: /zh/net/aspose.svg.drawing/unittype/op_implicit/
 ---
 ## UnitType Implicit operator
 
-执行从String到[`UnitType`](../../unittype)的隐式转换。
+从String至[`UnitType`](../../unittype) .
 
 ```csharp
 public static implicit operator UnitType(string value)
@@ -16,7 +16,7 @@ public static implicit operator UnitType(string value)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| value | String | 值。 |
+| value | String | 价值。 |
 
 ### 返回值
 

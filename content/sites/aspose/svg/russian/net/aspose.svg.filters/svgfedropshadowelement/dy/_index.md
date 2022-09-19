@@ -1,14 +1,14 @@
 ---
 title: Dy
 second_title: Справочник по Aspose.SVG для .NET API
-description: Соответствует атрибуту dy данного элемента feDropShadow.
+description: Соответствует атрибуту dy в данном элементе feDropShadow.
 type: docs
 weight: 20
 url: /ru/net/aspose.svg.filters/svgfedropshadowelement/dy/
 ---
 ## SVGFEDropShadowElement.Dy property
 
-Соответствует атрибуту 'dy' данного элемента 'feDropShadow'.
+Соответствует атрибуту dy в данном элементе feDropShadow.
 
 ```csharp
 public SVGAnimatedNumber Dy { get; }
@@ -16,7 +16,7 @@ public SVGAnimatedNumber Dy { get; }
 
 ### Стоимость имущества
 
-Атрибут 'dy' данного элемента 'feDropShadow'.
+Атрибут dy данного элемента feDropShadow.
 
 ### Смотрите также
 

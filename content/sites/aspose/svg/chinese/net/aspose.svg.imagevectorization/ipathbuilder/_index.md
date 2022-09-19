@@ -1,14 +1,14 @@
 ---
 title: IPathBuilder
 second_title: Aspose.SVG for .NET API 参考
-description: IPathBuilder 接口负责从跟踪点列表构建路径段SVGPathSeg../aspose.svg.paths/svgpathseg
+description: IPathBuilder 接口负责构建路径段SVGPathSeg../aspose.svg.paths/svgpathseg来自跟踪点列表
 type: docs
-weight: 2090
+weight: 2100
 url: /zh/net/aspose.svg.imagevectorization/ipathbuilder/
 ---
 ## IPathBuilder interface
 
-IPathBuilder 接口负责从跟踪点列表构建路径段[`SVGPathSeg`](../../aspose.svg.paths/svgpathseg)。
+IPathBuilder 接口负责构建路径段[`SVGPathSeg`](../../aspose.svg.paths/svgpathseg)来自跟踪点列表。
 
 ```csharp
 public interface IPathBuilder

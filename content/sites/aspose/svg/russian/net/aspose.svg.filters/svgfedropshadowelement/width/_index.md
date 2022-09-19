@@ -16,7 +16,7 @@ public SVGAnimatedLength Width { get; }
 
 ### Стоимость имущества
 
-Атрибут 'width' данного элемента 'feDropShadow'.
+Ширина атрибута данного элемента feDropShadow.
 
 ### Смотрите также
 

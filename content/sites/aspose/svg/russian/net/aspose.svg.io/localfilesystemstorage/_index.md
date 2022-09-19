@@ -3,7 +3,7 @@ title: LocalFileSystemStorage
 second_title: Справочник по Aspose.SVG для .NET API
 description: Хранилище файловой системы.
 type: docs
-weight: 1960
+weight: 1970
 url: /ru/net/aspose.svg.io/localfilesystemstorage/
 ---
 ## LocalFileSystemStorage class
@@ -18,8 +18,8 @@ public class LocalFileSystemStorage : IOutputStorage
 
 | Имя | Описание |
 | --- | --- |
-| [LocalFileSystemStorage](localfilesystemstorage#constructor)() | Инициализирует новый экземпляр класса[`LocalFileSystemStorage`](../localfilesystemstorage). |
-| [LocalFileSystemStorage](localfilesystemstorage#constructor_1)(string) | Инициализирует новый экземпляр класса[`LocalFileSystemStorage`](../localfilesystemstorage). |
+| [LocalFileSystemStorage](localfilesystemstorage#constructor)() | Инициализирует новый экземпляр[`LocalFileSystemStorage`](../localfilesystemstorage) класс. |
+| [LocalFileSystemStorage](localfilesystemstorage#constructor_1)(string) | Инициализирует новый экземпляр[`LocalFileSystemStorage`](../localfilesystemstorage) класс. |
 
 ## Характеристики
 
@@ -31,8 +31,8 @@ public class LocalFileSystemStorage : IOutputStorage
 
 | Имя | Описание |
 | --- | --- |
-| virtual [CreateStream](../../aspose.svg.io/localfilesystemstorage/createstream)(OutputStreamContext) | Создает поток выходных файлов[`OutputStream`](../outputstream). |
-| virtual [ReleaseStream](../../aspose.svg.io/localfilesystemstorage/releasestream)(OutputStream) | Освобождает поток выходных файлов. |
+| virtual [CreateStream](../../aspose.svg.io/localfilesystemstorage/createstream)(OutputStreamContext) | Создает поток выходных файлов[`OutputStream`](../outputstream) . |
+| virtual [ReleaseStream](../../aspose.svg.io/localfilesystemstorage/releasestream)(OutputStream) | Освобождает поток выходного файла. |
 
 ### Смотрите также
 

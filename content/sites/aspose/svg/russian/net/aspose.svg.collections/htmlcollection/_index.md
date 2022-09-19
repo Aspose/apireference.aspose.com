@@ -1,14 +1,14 @@
 ---
 title: HTMLCollection
 second_title: Справочник по Aspose.SVG для .NET API
-description: HTMLCollection./htmlcollectionпредставляет собой общую коллекциюElement../aspose.svg.dom/element.
+description: HTMLCollection./htmlcollection представляет собой общий наборElement../aspose.svg.dom/element .
 type: docs
 weight: 20
 url: /ru/net/aspose.svg.collections/htmlcollection/
 ---
 ## HTMLCollection class
 
-[`HTMLCollection`](../htmlcollection)представляет собой общую коллекцию[`Element`](../../aspose.svg.dom/element).
+[`HTMLCollection`](../htmlcollection) представляет собой общий набор[`Element`](../../aspose.svg.dom/element) .
 
 ```csharp
 public abstract class HTMLCollection : DOMObject, IEnumerable<Element>
@@ -18,7 +18,7 @@ public abstract class HTMLCollection : DOMObject, IEnumerable<Element>
 
 | Имя | Описание |
 | --- | --- |
-| abstract [Item](../../aspose.svg.collections/htmlcollection/item) { get; } | Возвращает индексный элемент коллекции. Если индекс больше или равен количеству узлов в списке, возвращается значение null. |
+| abstract [Item](../../aspose.svg.collections/htmlcollection/item) { get; } | Возвращает индексный элемент коллекции. Если индекс больше или равен количеству узлов в списке, возвращается null. |
 | abstract [Length](../../aspose.svg.collections/htmlcollection/length) { get; } | Количество узлов в списке. |
 
 ## Методы
@@ -26,7 +26,7 @@ public abstract class HTMLCollection : DOMObject, IEnumerable<Element>
 | Имя | Описание |
 | --- | --- |
 | abstract [GetEnumerator](../../aspose.svg.collections/htmlcollection/getenumerator)() | Получает перечислитель. |
-| override [GetPlatformType](../../aspose.svg.collections/htmlcollection/getplatformtype)() | Этот метод используется для получения объекта ECMAScriptType. |
+| override [GetPlatformType](../../aspose.svg.collections/htmlcollection/getplatformtype)() | Этот метод используется для получения объекта ECMAScript.Type . |
 | [NamedItem](../../aspose.svg.collections/htmlcollection/nameditem)(string) | Возвращает элемент в коллекции, соответствующий указанному имени. |
 
 ### Смотрите также

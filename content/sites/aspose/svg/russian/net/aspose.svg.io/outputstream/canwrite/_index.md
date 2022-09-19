@@ -1,14 +1,14 @@
 ---
 title: CanWrite
 second_title: Справочник по Aspose.SVG для .NET API
-description: Получает значение указывающее поддерживает ли запись обернутый поток вывода.
+description: Получает значение указывающее поддерживает ли обернутый выходной поток запись.
 type: docs
 weight: 40
 url: /ru/net/aspose.svg.io/outputstream/canwrite/
 ---
 ## OutputStream.CanWrite property
 
-Получает значение, указывающее, поддерживает ли запись обернутый поток вывода.
+Получает значение, указывающее, поддерживает ли обернутый выходной поток запись.
 
 ```csharp
 public override bool CanWrite { get; }

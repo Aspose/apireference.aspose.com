@@ -1,14 +1,14 @@
 ---
 title: SetMatrix
 second_title: Aspose.SVG for .NET API 参考
-description: 将变换类型设置为 SVG_TRANSFORM_MATRIX参数矩阵定义新的变换参数矩阵的值被复制矩阵参数不替换 SVGTransformmatrix
+description: 将变换类型设置为 SVG_TRANSFORM_MATRIX参数矩阵定义新的变换参数矩阵的值被复制矩阵参数不替换 SVGTransformmatrix.
 type: docs
 weight: 40
 url: /zh/net/aspose.svg.datatypes/svgtransform/setmatrix/
 ---
 ## SVGTransform.SetMatrix method
 
-将变换类型设置为 SVG_TRANSFORM_MATRIX，参数矩阵定义新的变换。参数矩阵的值被复制，矩阵参数不替换 SVGTransform::matrix。
+将变换类型设置为 SVG_TRANSFORM_MATRIX，参数矩阵定义新的变换。参数矩阵的值被复制，矩阵参数不替换 SVGTransform::matrix.
 
 ```csharp
 public void SetMatrix(SVGMatrix matrix)
@@ -22,7 +22,7 @@ public void SetMatrix(SVGMatrix matrix)
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception) | 代码[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err)。 在尝试更改只读属性的值时引发。 |
+| [DOMException](../../../aspose.svg.dom/domexception) | 代码[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err) 在尝试更改只读属性的值时引发。 |
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: op_Inequality
 second_title: Aspose.SVG for .NET API 参考
-description: 确定两个指定的UnitTypeaspose.svg.drawing/unittype值是否不相等
+description: 判断两个是否指定UnitTypeaspose.svg.drawing/unittype值不相等
 type: docs
 weight: 370
 url: /zh/net/aspose.svg.drawing/unittype/op_inequality/
 ---
 ## UnitType Inequality operator
 
-确定两个指定的[`UnitType`](../../unittype)值是否不相等。
+判断两个是否指定[`UnitType`](../../unittype)值不相等。
 
 ```csharp
 public static bool operator !=(UnitType first, UnitType second)
@@ -16,12 +16,12 @@ public static bool operator !=(UnitType first, UnitType second)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| first | UnitType | 要比较的第一个[`UnitType`](../../unittype)值。 |
-| second | UnitType | 要比较的第二个[`UnitType`](../../unittype)值。 |
+| first | UnitType | 首先[`UnitType`](../../unittype)要比较的值。 |
+| second | UnitType | 第二[`UnitType`](../../unittype)要比较的值。 |
 
 ### 返回值
 
-` true` 如果两者[`UnitType`](../../unittype)不相等；否则，` false` 。
+`真的`如果两者[`UnitType`](../../unittype)不相等；否则，`错误的` .
 
 ### 也可以看看
 

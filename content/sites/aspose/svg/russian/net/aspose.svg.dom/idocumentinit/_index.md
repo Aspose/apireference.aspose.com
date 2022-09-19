@@ -1,14 +1,14 @@
 ---
 title: IDocumentInit
 second_title: Справочник по Aspose.SVG для .NET API
-description: Этот интерфейс предоставляетDocument./documentинформацию об инициализации.
+description: Этот интерфейс обеспечиваетDocument./document информация об инициализации.
 type: docs
-weight: 1060
+weight: 1050
 url: /ru/net/aspose.svg.dom/idocumentinit/
 ---
 ## IDocumentInit interface
 
-Этот интерфейс предоставляет[`Document`](../document)информацию об инициализации.
+Этот интерфейс обеспечивает[`Document`](../document) информация об инициализации.
 
 ```csharp
 public interface IDocumentInit

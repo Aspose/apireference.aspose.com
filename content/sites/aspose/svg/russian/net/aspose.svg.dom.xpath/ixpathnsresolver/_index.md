@@ -1,14 +1,14 @@
 ---
 title: IXPathNSResolver
 second_title: Справочник по Aspose.SVG для .NET API
-description:  XPathNSResolver интерфейс разрешает префикс строки в выражения для должным образом привязаны к строкам namespaceURI . IXPathEvaluator./ixpathevaluatorможет создать реализацию IXPathNSResolver./ixpathnsresolverиз узел или интерфейс может быть реализован любым приложением.
+description: XPathNSResolver разрешение на интерфейспрефикс строки в выражение которое должно быть правильно привязано кпространство именURI струны. IXPathEvaluator./ixpathevaluator может построить реализацию IXPathNSResolver./ixpathnsresolver с узла или интерфейс может быть реализован любым приложением.
 type: docs
-weight: 1340
+weight: 1330
 url: /ru/net/aspose.svg.dom.xpath/ixpathnsresolver/
 ---
 ## IXPathNSResolver interface
 
-` XPathNSResolver` интерфейс разрешает` префикс` строки в выражения для должным образом привязаны к строкам` namespaceURI` . [`IXPathEvaluator`](../ixpathevaluator)может создать реализацию [`IXPathNSResolver`](../ixpathnsresolver)из узел, или интерфейс может быть реализован любым приложением.
+`XPathNSResolver` разрешение на интерфейс`префикс` строки в выражение, которое должно быть правильно привязано к`пространство именURI` струны. [`IXPathEvaluator`](../ixpathevaluator) может построить реализацию [`IXPathNSResolver`](../ixpathnsresolver) с узла, или интерфейс может быть реализован любым приложением.
 
 ```csharp
 public interface IXPathNSResolver
@@ -18,7 +18,7 @@ public interface IXPathNSResolver
 
 | Имя | Описание |
 | --- | --- |
-| [LookupNamespaceURI](../../aspose.svg.dom.xpath/ixpathnsresolver/lookupnamespaceuri)(string) | Найдите URI пространства имен, связанный с данным префиксом пространства имен. Оценщик XPath никогда не должен вызывать это с` null` или пустым аргументом , потому что результат этого не определен. |
+| [LookupNamespaceURI](../../aspose.svg.dom.xpath/ixpathnsresolver/lookupnamespaceuri)(string) | Найдите URI пространства имен, связанный с данным префиксом пространства имен. Оценщик XPath никогда не должен вызывать это с`нулевой` или пустой аргумент , потому что результат этого не определен. |
 
 ### Смотрите также
 

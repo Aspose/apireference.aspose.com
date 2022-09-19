@@ -1,14 +1,14 @@
 ---
 title: SVGPathSegLinetoVerticalRel
 second_title: Aspose.SVG for .NET API 参考
-description: SVGPathSegLinetoVerticalRel 接口对应于相对垂直线到v 路径数据命令
+description: SVGPathSegLinetoVerticalRel 接口对应一个相对垂直线到v路径数据命令
 type: docs
-weight: 2620
+weight: 2630
 url: /zh/net/aspose.svg.paths/svgpathseglinetoverticalrel/
 ---
 ## SVGPathSegLinetoVerticalRel class
 
-SVGPathSegLinetoVerticalRel 接口对应于“相对垂直线到”(v) 路径数据命令。
+SVGPathSegLinetoVerticalRel 接口对应一个“相对垂直线到”（v）路径数据命令。
 
 ```csharp
 public class SVGPathSegLinetoVerticalRel : SVGPathSeg
@@ -26,8 +26,8 @@ public class SVGPathSegLinetoVerticalRel : SVGPathSeg
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose)() | 释放非托管和（可选）托管资源。 |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | 此方法用于检索 ECMAScript 对象Type。 |
+| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose)() | 释放非托管和 - 可选 - 托管资源。 |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | 此方法用于检索 ECMAScript 对象Type . |
 
 ### 也可以看看
 

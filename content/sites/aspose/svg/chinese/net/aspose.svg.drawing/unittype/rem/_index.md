@@ -1,14 +1,14 @@
 ---
 title: Rem
 second_title: Aspose.SVG for .NET API 参考
-description: 测量与根元素的字体大小相关
+description: 尺寸与根元素的字体大小相关
 type: docs
 weight: 240
 url: /zh/net/aspose.svg.drawing/unittype/rem/
 ---
 ## UnitType.Rem field
 
-测量与根元素的字体大小相关。
+尺寸与根元素的字体大小相关。
 
 ```csharp
 public static readonly UnitType Rem;

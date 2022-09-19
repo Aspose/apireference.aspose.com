@@ -1,14 +1,14 @@
 ---
 title: CreateSVGTransformFromMatrix
 second_title: Aspose.SVG for .NET API 参考
-description: 在任何文档树之外创建一个 SVGTransform 对象对象被初始化为给定的矩阵变换即SVG_TRANSFORM_MATRIX参数矩阵的值被复制矩阵参数不被采用为 SVGTransformmatrix
+description: 在任何文档树之外创建一个 SVGTransform 对象对象被初始化为给定的矩阵变换即SVG_TRANSFORM_MATRIX参数矩阵的值被复制矩阵参数不被采用为 SVGTransformmatrix.
 type: docs
 weight: 190
 url: /zh/net/aspose.svg/svgsvgelement/createsvgtransformfrommatrix/
 ---
 ## SVGSVGElement.CreateSVGTransformFromMatrix method
 
-在任何文档树之外创建一个 SVGTransform 对象。对象被初始化为给定的矩阵变换（即SVG_TRANSFORM_MATRIX）。参数矩阵的值被复制，矩阵参数不被采用为 SVGTransform::matrix。
+在任何文档树之外创建一个 SVGTransform 对象。对象被初始化为给定的矩阵变换（即SVG_TRANSFORM_MATRIX）。参数矩阵的值被复制，矩阵参数不被采用为 SVGTransform::matrix.
 
 ```csharp
 public SVGTransform CreateSVGTransformFromMatrix(SVGMatrix matrix)

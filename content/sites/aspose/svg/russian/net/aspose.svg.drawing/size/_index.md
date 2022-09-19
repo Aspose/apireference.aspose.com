@@ -3,7 +3,7 @@ title: Size
 second_title: Справочник по Aspose.SVG для .NET API
 description: Сохраняет значения которые определяют высоту и ширину.
 type: docs
-weight: 1570
+weight: 1580
 url: /ru/net/aspose.svg.drawing/size/
 ---
 ## Size class
@@ -18,16 +18,16 @@ public class Size
 
 | Имя | Описание |
 | --- | --- |
-| [Size](size#constructor)() | Инициализирует новый экземпляр класса[`Size`](../size). |
-| [Size](size#constructor_2)(int, int) | Инициализирует новый экземпляр класса[`Size`](../size)и указывает высоту и ширину в пикселях. |
-| [Size](size#constructor_1)(Length, Length) | Инициализирует новый экземпляр класса[`Size`](../size). |
+| [Size](size#constructor)() | Инициализирует новый экземпляр[`Size`](../size) класс. |
+| [Size](size#constructor_2)(int, int) | Инициализирует новый экземпляр[`Size`](../size) class и укажите высоту и ширину в пикселях. |
+| [Size](size#constructor_1)(Length, Length) | Инициализирует новый экземпляр[`Size`](../size) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [Height](../../aspose.svg.drawing/size/height) { get; set; } | Получает или задает вертикальный компонент этого[`Size`](../size). |
-| [Width](../../aspose.svg.drawing/size/width) { get; set; } | Получает или задает горизонтальный компонент этого[`Size`](../size). |
+| [Height](../../aspose.svg.drawing/size/height) { get; set; } | Получает или задает вертикальный компонент этого[`Size`](../size) . |
+| [Width](../../aspose.svg.drawing/size/width) { get; set; } | Получает или задает горизонтальную составляющую этого[`Size`](../size) . |
 
 ### Смотрите также
 

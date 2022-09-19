@@ -1,14 +1,14 @@
 ---
 title: Text
 second_title: Aspose.SVG for .NET API 参考
-description: 获取一个TextOptionsaspose.svg.rendering.image/textoptions对象用于配置文本渲染
+description: 得到一个TextOptionsaspose.svg.rendering.image/textoptions用于配置文本渲染的对象
 type: docs
 weight: 60
 url: /zh/net/aspose.svg.rendering.image/imagerenderingoptions/text/
 ---
 ## ImageRenderingOptions.Text property
 
-获取一个[`TextOptions`](../../textoptions)对象，用于配置文本渲染。
+得到一个[`TextOptions`](../../textoptions)用于配置文本渲染的对象。
 
 ```csharp
 public TextOptions Text { get; }
@@ -16,7 +16,7 @@ public TextOptions Text { get; }
 
 ### 适当的价值
 
-[`TextOptions`](../../textoptions)对象。
+的[`TextOptions`](../../textoptions)对象.
 
 ### 也可以看看
 

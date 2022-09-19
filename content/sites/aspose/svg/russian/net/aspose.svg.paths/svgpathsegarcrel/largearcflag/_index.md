@@ -1,14 +1,14 @@
 ---
 title: LargeArcFlag
 second_title: Справочник по Aspose.SVG для .NET API
-description: Значение параметра big-arc-flag.
+description: Значение параметра флага большой дуги.
 type: docs
 weight: 20
 url: /ru/net/aspose.svg.paths/svgpathsegarcrel/largearcflag/
 ---
 ## SVGPathSegArcRel.LargeArcFlag property
 
-Значение параметра big-arc-flag.
+Значение параметра флага большой дуги.
 
 ```csharp
 public bool LargeArcFlag { get; set; }
@@ -22,7 +22,7 @@ public bool LargeArcFlag { get; set; }
 
 | исключение | условие |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception) | Код[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err). Возникает при попытке изменить значение атрибута только для чтения. |
+| [DOMException](../../../aspose.svg.dom/domexception) | код[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err) . Возникает при попытке изменить значение атрибута только для чтения. |
 
 ### Смотрите также
 

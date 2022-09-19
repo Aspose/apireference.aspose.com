@@ -1,14 +1,14 @@
 ---
 title: ResourceUrlRestriction
 second_title: Aspose.SVG for .NET API 参考
-description: 获取或设置应用于处理资源如 cssjs图像等的 URL 的限制默认值为SameHost.
+description: 获取或设置应用于处理资源如 cssjs图像等的 URL 的限制默认值为SameHost .
 type: docs
 weight: 50
 url: /zh/net/aspose.svg.saving/resourcehandlingoptions/resourceurlrestriction/
 ---
 ## ResourceHandlingOptions.ResourceUrlRestriction property
 
-获取或设置应用于处理资源（如 css、js、图像等）的 URL 的限制。默认值为SameHost.
+获取或设置应用于处理资源（如 css、js、图像等）的 URL 的限制。默认值为SameHost .
 
 ```csharp
 public UrlRestriction ResourceUrlRestriction { get; set; }

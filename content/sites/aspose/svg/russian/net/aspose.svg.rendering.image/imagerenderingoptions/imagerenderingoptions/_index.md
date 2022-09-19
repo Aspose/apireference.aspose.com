@@ -1,14 +1,14 @@
 ---
 title: ImageRenderingOptions
 second_title: Справочник по Aspose.SVG для .NET API
-description: Инициализирует новый экземпляр классаImageRenderingOptionsaspose.svg.rendering.image/imagerenderingoptionsPngбудет использоваться как формат изображения по умолчанию.
+description: Инициализирует новый экземплярImageRenderingOptionsaspose.svg.rendering.image/imagerenderingoptions учебный классPng будет использоваться как формат изображения по умолчанию.
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.rendering.image/imagerenderingoptions/imagerenderingoptions/
 ---
 ## ImageRenderingOptions() {#constructor}
 
-Инициализирует новый экземпляр класса[`ImageRenderingOptions`](../../imagerenderingoptions);Pngбудет использоваться как формат изображения по умолчанию.
+Инициализирует новый экземпляр[`ImageRenderingOptions`](../../imagerenderingoptions) учебный класс;Png будет использоваться как формат изображения по умолчанию.
 
 ```csharp
 public ImageRenderingOptions()
@@ -24,7 +24,7 @@ public ImageRenderingOptions()
 
 ## ImageRenderingOptions(ImageFormat) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`ImageRenderingOptions`](../../imagerenderingoptions)с указанным форматом изображения.
+Инициализирует новый экземпляр[`ImageRenderingOptions`](../../imagerenderingoptions) класс с указанным форматом изображения.
 
 ```csharp
 public ImageRenderingOptions(ImageFormat format)

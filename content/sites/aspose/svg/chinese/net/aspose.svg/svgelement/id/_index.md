@@ -1,14 +1,14 @@
 ---
 title: Id
 second_title: Aspose.SVG for .NET API 参考
-description: 给定元素的 id 属性的值如果 id 不存在则为空字符串
+description: 给定元素的id属性的值如果id不存在则为空字符串
 type: docs
 weight: 20
 url: /zh/net/aspose.svg/svgelement/id/
 ---
 ## SVGElement.Id property
 
-给定元素的 'id' 属性的值，如果 'id' 不存在，则为空字符串。
+给定元素的“id”属性的值，如果“id”不存在，则为空字符串。
 
 ```csharp
 public string Id { get; set; }

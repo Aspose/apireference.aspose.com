@@ -1,14 +1,14 @@
 ---
 title: Hash
 second_title: Справочник по Aspose.SVG для .NET API
-description: Получает или задает строковое представление для указанного сегмента хэша URL.
+description: Получает или задает строковое представление для указанного хешсегмента URL.
 type: docs
 weight: 20
 url: /ru/net/aspose.svg/url/hash/
 ---
 ## Url.Hash property
 
-Получает или задает строковое представление для указанного сегмента хэша URL.
+Получает или задает строковое представление для указанного хеш-сегмента URL.
 
 ```csharp
 public string Hash { get; set; }

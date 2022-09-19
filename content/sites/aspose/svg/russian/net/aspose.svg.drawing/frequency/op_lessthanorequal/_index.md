@@ -16,8 +16,8 @@ public static bool operator <=(Frequency a, Frequency b)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| a | Frequency | Параметр a. |
-| b | Frequency | Параметр b. |
+| a | Frequency | Параметр а. |
+| b | Frequency | Параметр б. |
 
 ### Возвращаемое значение
 
@@ -27,8 +27,8 @@ public static bool operator <=(Frequency a, Frequency b)
 
 | исключение | условие |
 | --- | --- |
-| ArgumentException | Аргументы имеют разные типы |
-| ArgumentNullException | Аргумент имеет значение null |
+| ArgumentException | Аргументы бывают разных типов |
+| ArgumentNullException | Аргумент недействителен |
 
 ### Смотрите также
 

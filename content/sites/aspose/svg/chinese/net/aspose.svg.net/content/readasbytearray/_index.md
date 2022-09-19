@@ -1,14 +1,14 @@
 ---
 title: ReadAsByteArray
 second_title: Aspose.SVG for .NET API 参考
-description: 序列化 HTTP 内容并返回一个表示内容的字节数组
+description: 序列化HTTP内容返回代表内容的字节数组
 type: docs
 weight: 30
 url: /zh/net/aspose.svg.net/content/readasbytearray/
 ---
 ## Content.ReadAsByteArray method
 
-序列化 HTTP 内容并返回一个表示内容的字节数组。
+序列化HTTP内容，返回代表内容的字节数组。
 
 ```csharp
 public byte[] ReadAsByteArray()

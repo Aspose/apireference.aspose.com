@@ -1,14 +1,14 @@
 ---
 title: CharacterData
 second_title: Справочник по Aspose.SVG для .NET API
-description: Установите значение true если должны наблюдаться мутации целевых данных. Можно опустить если указано characterDataOldValue
+description: Установите значение true если должны наблюдаться мутации данных цели. Может быть опущен если указано значение characterDataOldValue
 type: docs
 weight: 50
 url: /ru/net/aspose.svg.dom.mutations/mutationobserverinit/characterdata/
 ---
 ## MutationObserverInit.CharacterData property
 
-Установите значение true, если должны наблюдаться мутации целевых данных. Можно опустить, если указано characterDataOldValue
+Установите значение true, если должны наблюдаться мутации данных цели. Может быть опущен, если указано значение characterDataOldValue
 
 ```csharp
 public bool CharacterData { get; set; }

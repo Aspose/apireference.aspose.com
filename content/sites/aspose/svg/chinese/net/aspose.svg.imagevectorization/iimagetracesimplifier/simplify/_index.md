@@ -20,7 +20,7 @@ public IEnumerable<PointF> Simplify(IEnumerable<PointF> trace)
 
 ### 返回值
 
-跟踪点的简化列表。
+减少的跟踪点列表。
 
 ### 也可以看看
 

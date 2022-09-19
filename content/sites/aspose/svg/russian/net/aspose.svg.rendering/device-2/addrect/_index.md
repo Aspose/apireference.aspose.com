@@ -1,14 +1,14 @@
 ---
 title: AddRect
 second_title: Справочник по Aspose.SVG для .NET API
-description: Добавляет прямоугольник к текущему пути как полный подпуть.
+description: Добавляет прямоугольник к текущему пути в качестве полного подпути.
 type: docs
 weight: 30
 url: /ru/net/aspose.svg.rendering/device-2/addrect/
 ---
 ## Device&lt;TGraphicContext,TRenderingOptions&gt;.AddRect method
 
-Добавляет прямоугольник к текущему пути как полный подпуть.
+Добавляет прямоугольник к текущему пути в качестве полного подпути.
 
 ```csharp
 public abstract void AddRect(RectangleF rect)

@@ -1,14 +1,14 @@
 ---
 title: SVG_FEBLEND_MODE_SATURATION
 second_title: Aspose.SVG for .NET API 参考
-description: 对应于值饱和
+description: 对应于值饱和度
 type: docs
 weight: 220
 url: /zh/net/aspose.svg.filters/svgfeblendelement/svg_feblend_mode_saturation/
 ---
 ## SVGFEBlendElement.SVG_FEBLEND_MODE_SATURATION field
 
-对应于值“饱和”。
+对应于值“饱和度”。
 
 ```csharp
 public const ushort SVG_FEBLEND_MODE_SATURATION;

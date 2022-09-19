@@ -1,14 +1,14 @@
 ---
 title: TransformationMatrix
 second_title: Aspose.SVG for .NET API 参考
-description: 获取转换变换为此画笔定义了一个局部几何变换
+description: 获取转换变换定义了这个画笔的局部几何变换
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.drawing/itransformablebrush/transformationmatrix/
 ---
 ## ITransformableBrush.TransformationMatrix property
 
-获取转换。变换为此画笔定义了一个局部几何变换。
+获取转换。变换定义了这个画笔的局部几何变换。
 
 ```csharp
 public Matrix TransformationMatrix { get; }

@@ -1,9 +1,9 @@
 ---
 title: ISVGRenderingIntent
 second_title: Справочник по Aspose.SVG для .NET API
-description: Интерфейс SVGRenderingIntent определяет пронумерованный список возможных значений для атрибутов или дескрипторов rendering-intent.
+description: Интерфейс SVGRenderingIntent определяет пронумерованный список возможных значений для атрибутов или дескрипторов renderingintent.
 type: docs
-weight: 2010
+weight: 2020
 url: /ru/net/aspose.svg/isvgrenderingintent/
 ---
 ## ISVGRenderingIntent interface

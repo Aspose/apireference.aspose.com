@@ -16,7 +16,7 @@ public object Detail { get; }
 
 ### 适当的价值
 
-详细信息。
+细节。
 
 ### 也可以看看
 

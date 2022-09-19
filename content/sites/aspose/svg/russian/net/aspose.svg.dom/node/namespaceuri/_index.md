@@ -1,14 +1,14 @@
 ---
 title: NamespaceURI
 second_title: Справочник по Aspose.SVG для .NET API
-description: URI пространства имен этого узла или нуль если он не указан.
+description: URI пространства имен этого узла или null если он не указан.
 type: docs
 weight: 70
 url: /ru/net/aspose.svg.dom/node/namespaceuri/
 ---
 ## Node.NamespaceURI property
 
-URI пространства имен этого узла или нуль, если он не указан.
+URI пространства имен этого узла или null, если он не указан.
 
 ```csharp
 public virtual string NamespaceURI { get; }

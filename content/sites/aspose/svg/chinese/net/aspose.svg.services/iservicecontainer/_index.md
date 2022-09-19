@@ -3,7 +3,7 @@ title: IServiceContainer
 second_title: Aspose.SVG for .NET API 参考
 description: 为服务提供容器
 type: docs
-weight: 3690
+weight: 3700
 url: /zh/net/aspose.svg.services/iservicecontainer/
 ---
 ## IServiceContainer interface

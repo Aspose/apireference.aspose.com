@@ -1,14 +1,14 @@
 ---
 title: TraceSimplifier
 second_title: Справочник по Aspose.SVG для .NET API
-description: Получает или задает упроститель трассировки.
+description: Получает или задает средство упрощения трассировки.
 type: docs
 weight: 50
 url: /ru/net/aspose.svg.imagevectorization/imagevectorizerconfiguration/tracesimplifier/
 ---
 ## ImageVectorizerConfiguration.TraceSimplifier property
 
-Получает или задает упроститель трассировки.
+Получает или задает средство упрощения трассировки.
 
 ```csharp
 public IImageTraceSimplifier TraceSimplifier { get; set; }

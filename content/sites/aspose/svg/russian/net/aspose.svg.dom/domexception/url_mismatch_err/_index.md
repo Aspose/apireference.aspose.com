@@ -1,7 +1,7 @@
 ---
 title: URL_MISMATCH_ERR
 second_title: Справочник по Aspose.SVG для .NET API
-description: Указанный URL-адрес не соответствует другому URL-адресу.
+description: Указанный URLадрес не соответствует другому URLадресу.
 type: docs
 weight: 290
 url: /ru/net/aspose.svg.dom/domexception/url_mismatch_err/

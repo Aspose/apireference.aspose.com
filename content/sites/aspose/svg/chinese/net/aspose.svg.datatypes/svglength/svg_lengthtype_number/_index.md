@@ -8,7 +8,7 @@ url: /zh/net/aspose.svg.datatypes/svglength/svg_lengthtype_number/
 ---
 ## SVGLength.SVG_LENGTHTYPE_NUMBER field
 
-未提供单位类型（即，指定了无单位值），它表示以用户单位为单位的值。
+未提供单位类型（即指定了无单位值），它表示以用户单位为单位的值。
 
 ```csharp
 public const ushort SVG_LENGTHTYPE_NUMBER;

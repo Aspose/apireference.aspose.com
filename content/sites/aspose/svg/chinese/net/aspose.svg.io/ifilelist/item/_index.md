@@ -1,14 +1,14 @@
 ---
 title: Item
 second_title: Aspose.SVG for .NET API 参考
-description: 返回列表中的第一个文件
+description: 返回列表中的第索引文件
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.io/ifilelist/item/
 ---
 ## IFileList indexer
 
-返回列表中的第一个文件。
+返回列表中的第索引文件。
 
 ```csharp
 public IFile this[int index] { get; }

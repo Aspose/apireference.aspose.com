@@ -8,7 +8,7 @@ url: /ru/net/aspose.svg/svgcomponenttransferfunctionelement/svg_fecomponenttrans
 ---
 ## SVGComponentTransferFunctionElement.SVG_FECOMPONENTTRANSFER_TYPE_LINEAR field
 
-Соответствует значению 'линейный'.
+Соответствует значению «линейный».
 
 ```csharp
 public const ushort SVG_FECOMPONENTTRANSFER_TYPE_LINEAR;

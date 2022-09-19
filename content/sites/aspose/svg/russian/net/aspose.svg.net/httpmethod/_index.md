@@ -3,7 +3,7 @@ title: HttpMethod
 second_title: Справочник по Aspose.SVG для .NET API
 description: Представляет служебный класс для получения и сравнения стандартных методов HTTP.
 type: docs
-weight: 2250
+weight: 2260
 url: /ru/net/aspose.svg.net/httpmethod/
 ---
 ## HttpMethod class
@@ -18,7 +18,7 @@ public class HttpMethod : IEquatable<HttpMethod>
 
 | Имя | Описание |
 | --- | --- |
-| [HttpMethod](httpmethod)(string) | Инициализирует новый экземпляр класса[`HttpMethod`](../httpmethod)с помощью определенного метода HTTP. |
+| [HttpMethod](httpmethod)(string) | Инициализирует новый экземпляр[`HttpMethod`](../httpmethod) класс с определенным методом HTTP. |
 
 ## Характеристики
 
@@ -34,11 +34,11 @@ public class HttpMethod : IEquatable<HttpMethod>
 | Имя | Описание |
 | --- | --- |
 | [Equals](../../aspose.svg.net/httpmethod/equals#equals)(HttpMethod) | Указывает, равен ли текущий объект другому объекту того же типа. |
-| override [Equals](../../aspose.svg.net/httpmethod/equals#equals_1)(object) | Определяет, равен ли указанныйObjectэтому экземпляру. |
-| override [GetHashCode](../../aspose.svg.net/httpmethod/gethashcode)() | Возвращает хэш-код для данного экземпляра. |
-| override [ToString](../../aspose.svg.net/httpmethod/tostring)() | ВозвращаетString, представляющий этот экземпляр. |
+| override [Equals](../../aspose.svg.net/httpmethod/equals#equals_1)(object) | Определяет, является ли указанныйObject , равно этому экземпляру. |
+| override [GetHashCode](../../aspose.svg.net/httpmethod/gethashcode)() | Возвращает хэш-код для этого экземпляра. |
+| override [ToString](../../aspose.svg.net/httpmethod/tostring)() | ВозвращаетString который представляет этот экземпляр. |
 | [operator ==](../../aspose.svg.net/httpmethod/op_equality) | Реализует оператор равенства. |
-| [explicit operator](../../aspose.svg.net/httpmethod/op_explicit) | Выполняет явное преобразование изStringв[`HttpMethod`](../httpmethod). |
+| [explicit operator](../../aspose.svg.net/httpmethod/op_explicit) | Выполняет явное преобразование изString к[`HttpMethod`](../httpmethod) . |
 | [operator !=](../../aspose.svg.net/httpmethod/op_inequality) | Реализует оператор равенства. |
 
 ### Смотрите также

@@ -1,14 +1,14 @@
 ---
 title: Item
 second_title: Справочник по Aspose.SVG для .NET API
-description: Метод возвращаетCSSValueaspose.svg.dom.css/cssvalueпо указанному индексу. http//www.w3.org/TR/2000/REC-DOM-Level-2-Style-20001113/css.htmlCSS-CSSValueList
+description: Метод возвращаетCSSValueaspose.svg.dom.css/cssvalue по указанному индексу. http//www.w3.org/TR/2000/RECDOMLevel2Style20001113/css.htmlCSSCSSValueList
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.dom.css/icssvaluelist/item/
 ---
 ## ICSSValueList indexer
 
-Метод возвращает[`CSSValue`](../../cssvalue)по указанному индексу. http://www.w3.org/TR/2000/REC-DOM-Level-2-Style-20001113/css.html#CSS-CSSValueList
+Метод возвращает[`CSSValue`](../../cssvalue) по указанному индексу. http://www.w3.org/TR/2000/REC-DOM-Level-2-Style-20001113/css.html#CSS-CSSValueList
 
 ```csharp
 public CSSValue this[int index] { get; }
@@ -24,7 +24,7 @@ CSSValue.
 
 ### Стоимость имущества
 
-[`CSSValue`](../../cssvalue).
+[`CSSValue`](../../cssvalue) .
 
 ### Смотрите также
 

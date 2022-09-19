@@ -1,14 +1,14 @@
 ---
 title: LineDashStyle
 second_title: Aspose.SVG for .NET API 参考
-description: Sets of 获取描边路径的虚线样式
+description: 获取描边路径的虚线样式
 type: docs
 weight: 100
 url: /zh/net/aspose.svg.rendering/graphiccontext/linedashstyle/
 ---
 ## GraphicContext.LineDashStyle property
 
-Sets of 获取描边路径的虚线样式。
+获取描边路径的虚线样式。
 
 ```csharp
 public virtual DashStyle LineDashStyle { get; set; }

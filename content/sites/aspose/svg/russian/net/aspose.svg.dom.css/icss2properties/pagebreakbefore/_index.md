@@ -1,7 +1,7 @@
 ---
 title: PageBreakBefore
 second_title: Справочник по Aspose.SVG для .NET API
-description: См. определение свойства page-break-before в CSS2.
+description: См. определение свойства pagebreakbefore в CSS2.
 type: docs
 weight: 870
 url: /ru/net/aspose.svg.dom.css/icss2properties/pagebreakbefore/
@@ -16,7 +16,7 @@ public string PageBreakBefore { get; set; }
 
 ### Возвращаемое значение
 
-page-break-before свойство
+разрыв страницы перед свойством
 
 ### Смотрите также
 

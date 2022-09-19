@@ -1,14 +1,14 @@
 ---
 title: BaseFrequencyY
 second_title: Aspose.SVG for .NET API 参考
-description: 对应于给定 feTurbulence 元素的属性 baseFrequency包含可能自动计算的baseFrequency属性的 Y 分量
+description: 对应于给定 feTurbulence 元素上的属性 baseFrequency包含可能自动计算的baseFrequency属性的 Y 分量
 type: docs
 weight: 20
 url: /zh/net/aspose.svg.filters/svgfeturbulenceelement/basefrequencyy/
 ---
 ## SVGFETurbulenceElement.BaseFrequencyY property
 
-对应于给定 'feTurbulence' 元素的属性 'baseFrequency'。包含（可能自动计算的）“baseFrequency”属性的 Y 分量。
+对应于给定 'feTurbulence' 元素上的属性 'baseFrequency'。包含（可能自动计算的）“baseFrequency”属性的 Y 分量。
 
 ```csharp
 public SVGAnimatedNumber BaseFrequencyY { get; }
@@ -16,7 +16,7 @@ public SVGAnimatedNumber BaseFrequencyY { get; }
 
 ### 适当的价值
 
-给定 'feTurbulence' 元素的属性 'baseFrequency'。
+给定“feTurbulence”元素的属性“baseFrequency”。
 
 ### 也可以看看
 

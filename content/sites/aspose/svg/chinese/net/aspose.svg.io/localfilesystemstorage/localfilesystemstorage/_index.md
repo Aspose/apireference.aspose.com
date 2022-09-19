@@ -1,14 +1,14 @@
 ---
 title: LocalFileSystemStorage
 second_title: Aspose.SVG for .NET API 参考
-description: 初始化LocalFileSystemStorageaspose.svg.io/localfilesystemstorage类的新实例
+description: 初始化LocalFileSystemStorageaspose.svg.io/localfilesystemstorage类.
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.io/localfilesystemstorage/localfilesystemstorage/
 ---
 ## LocalFileSystemStorage() {#constructor}
 
-初始化[`LocalFileSystemStorage`](../../localfilesystemstorage)类的新实例。
+初始化[`LocalFileSystemStorage`](../../localfilesystemstorage)类.
 
 ```csharp
 public LocalFileSystemStorage()
@@ -24,7 +24,7 @@ public LocalFileSystemStorage()
 
 ## LocalFileSystemStorage(string) {#constructor_1}
 
-初始化[`LocalFileSystemStorage`](../../localfilesystemstorage)类的新实例。
+初始化[`LocalFileSystemStorage`](../../localfilesystemstorage)类.
 
 ```csharp
 public LocalFileSystemStorage(string outputDirectory)

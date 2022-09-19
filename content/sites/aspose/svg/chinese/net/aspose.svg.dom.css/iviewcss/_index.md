@@ -1,14 +1,14 @@
 ---
 title: IViewCSS
 second_title: Aspose.SVG for .NET API 参考
-description: 这个界面代表一个 CSS 视图
+description: 这个界面代表一个CSS视图
 type: docs
-weight: 770
+weight: 760
 url: /zh/net/aspose.svg.dom.css/iviewcss/
 ---
 ## IViewCSS interface
 
-这个界面代表一个 CSS 视图。
+这个界面代表一个CSS视图。
 
 ```csharp
 public interface IViewCSS : IAbstractView

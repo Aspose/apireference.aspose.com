@@ -21,7 +21,7 @@ public Stream GetStream(string name, string extension)
 
 ### 返回值
 
-Stream 对象，用于在渲染操作期间写入数据。
+一个 Stream 对象，用于在渲染操作期间写入数据。
 
 ### 也可以看看
 
@@ -47,7 +47,7 @@ public Stream GetStream(string name, string extension, int page)
 
 ### 返回值
 
-Stream 对象，用于在渲染操作期间写入数据。
+一个 Stream 对象，用于在渲染操作期间写入数据。
 
 ### 也可以看看
 

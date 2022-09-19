@@ -1,14 +1,14 @@
 ---
 title: ImageDevice
 second_title: Aspose.SVG for .NET API 参考
-description: 初始化ImageDeviceaspose.svg.rendering.image/imagedevice类的新实例
+description: 初始化ImageDeviceaspose.svg.rendering.image/imagedevice类.
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.rendering.image/imagedevice/imagedevice/
 ---
 ## ImageDevice(ICreateStreamProvider) {#constructor}
 
-初始化[`ImageDevice`](../../imagedevice)类的新实例。
+初始化[`ImageDevice`](../../imagedevice)类.
 
 ```csharp
 public ImageDevice(ICreateStreamProvider streamProvider)
@@ -29,7 +29,7 @@ public ImageDevice(ICreateStreamProvider streamProvider)
 
 ## ImageDevice(ImageRenderingOptions, ICreateStreamProvider) {#constructor_1}
 
-通过渲染选项和流提供程序初始化[`ImageDevice`](../../imagedevice)类的新实例。
+初始化[`ImageDevice`](../../imagedevice)按渲染选项和流提供者分类。
 
 ```csharp
 public ImageDevice(ImageRenderingOptions options, ICreateStreamProvider streamProvider)
@@ -38,7 +38,7 @@ public ImageDevice(ImageRenderingOptions options, ICreateStreamProvider streamPr
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | options | ImageRenderingOptions | 渲染选项。 |
-| streamProvider | ICreateStreamProvider | 实现[`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider)接口的对象 |
+| streamProvider | ICreateStreamProvider | 实现的对象[`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider)界面 |
 
 ### 也可以看看
 
@@ -52,7 +52,7 @@ public ImageDevice(ImageRenderingOptions options, ICreateStreamProvider streamPr
 
 ## ImageDevice(string) {#constructor_5}
 
-初始化[`ImageDevice`](../../imagedevice)类的新实例。
+初始化[`ImageDevice`](../../imagedevice)类.
 
 ```csharp
 public ImageDevice(string file)
@@ -72,7 +72,7 @@ public ImageDevice(string file)
 
 ## ImageDevice(ImageRenderingOptions, string) {#constructor_3}
 
-通过渲染选项和输出文件名初始化[`ImageDevice`](../../imagedevice)类的新实例。
+初始化[`ImageDevice`](../../imagedevice)通过渲染选项和输出文件名进行分类。
 
 ```csharp
 public ImageDevice(ImageRenderingOptions options, string file)
@@ -94,7 +94,7 @@ public ImageDevice(ImageRenderingOptions options, string file)
 
 ## ImageDevice(Stream) {#constructor_4}
 
-初始化[`ImageDevice`](../../imagedevice)类的新实例。
+初始化[`ImageDevice`](../../imagedevice)类.
 
 ```csharp
 public ImageDevice(Stream stream)
@@ -114,7 +114,7 @@ public ImageDevice(Stream stream)
 
 ## ImageDevice(ImageRenderingOptions, Stream) {#constructor_2}
 
-通过渲染选项和输出流初始化[`ImageDevice`](../../imagedevice)类的新实例。
+初始化[`ImageDevice`](../../imagedevice)按渲染选项和输出流分类。
 
 ```csharp
 public ImageDevice(ImageRenderingOptions options, Stream stream)

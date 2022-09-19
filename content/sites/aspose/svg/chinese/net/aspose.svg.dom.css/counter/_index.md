@@ -1,14 +1,14 @@
 ---
 title: Counter
 second_title: Aspose.SVG for .NET API 参考
-description: Counter 接口用于表示任何一个或多个计数器函数值此接口反映了基础样式属性中的值
+description: Counter 接口用于表示任何计数器或计数器函数值此接口反映了基础样式属性中的值
 type: docs
-weight: 520
+weight: 510
 url: /zh/net/aspose.svg.dom.css/counter/
 ---
 ## Counter class
 
-Counter 接口用于表示任何一个或多个计数器函数值。此接口反映了基础样式属性中的值。
+Counter 接口用于表示任何计数器或计数器函数值。此接口反映了基础样式属性中的值。
 
 ```csharp
 public class Counter : DOMObject
@@ -26,7 +26,7 @@ public class Counter : DOMObject
 
 | 姓名 | 描述 |
 | --- | --- |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | 此方法用于检索 ECMAScript 对象Type。 |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | 此方法用于检索 ECMAScript 对象Type . |
 
 ### 也可以看看
 

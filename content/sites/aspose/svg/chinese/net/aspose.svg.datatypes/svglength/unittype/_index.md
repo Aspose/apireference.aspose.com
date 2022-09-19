@@ -1,14 +1,14 @@
 ---
 title: UnitType
 second_title: Aspose.SVG for .NET API 参考
-description: 此接口上定义的 SVG_LENGTHTYPE_ 常量之一指定的值的类型
+description: 由在此接口上定义的 SVG_LENGTHTYPE_ 常量之一指定的值的类型
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.datatypes/svglength/unittype/
 ---
 ## SVGLength.UnitType property
 
-此接口上定义的 SVG_LENGTHTYPE_* 常量之一指定的值的类型。
+由在此接口上定义的 SVG_LENGTHTYPE_* 常量之一指定的值的类型。
 
 ```csharp
 public ushort UnitType { get; }
@@ -16,7 +16,7 @@ public ushort UnitType { get; }
 
 ### 适当的价值
 
-单位的类型。
+单元的类型。
 
 ### 也可以看看
 

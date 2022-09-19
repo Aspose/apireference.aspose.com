@@ -1,14 +1,14 @@
 ---
 title: Elevation
 second_title: Aspose.SVG for .NET API 参考
-description: 请参阅 CSS2 中的高程属性定义
+description: 见 CSS2 中的高程属性定义
 type: docs
 weight: 440
 url: /zh/net/aspose.svg.dom.css/icss2properties/elevation/
 ---
 ## ICSS2Properties.Elevation property
 
-请参阅 CSS2 中的高程属性定义。
+见 CSS2 中的高程属性定义。
 
 ```csharp
 public string Elevation { get; set; }
@@ -16,7 +16,7 @@ public string Elevation { get; set; }
 
 ### 返回值
 
-高程属性
+海拔属性
 
 ### 也可以看看
 

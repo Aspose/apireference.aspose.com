@@ -1,14 +1,14 @@
 ---
 title: Evaluate
 second_title: Aspose.SVG for .NET API 参考
-description: 评估一个 XPath 表达式字符串并尽可能返回指定类型的结果
+description: 评估一个 XPath 表达式字符串并在可能的情况下返回指定类型的结果
 type: docs
 weight: 950
 url: /zh/net/aspose.svg.dom/document/evaluate/
 ---
 ## Document.Evaluate method
 
-评估一个 XPath 表达式字符串，并尽可能返回指定类型的结果。
+评估一个 XPath 表达式字符串，并在可能的情况下返回指定类型的结果。
 
 ```csharp
 public IXPathResult Evaluate(string expression, Node contextNode, IXPathNSResolver resolver, 
@@ -21,11 +21,11 @@ public IXPathResult Evaluate(string expression, Node contextNode, IXPathNSResolv
 | contextNode | Node | 上下文是评估此 XPath 表达式的上下文节点。 |
 | resolver | IXPathNSResolver | 解析器允许将 XPath 表达式中的所有前缀（包括 xml 命名空间前缀）翻译成适当的命名空间 URI。 |
 | type | XPathResultType | 如果指定了特定类型，则结果将作为相应类型返回。 |
-| result | Object | 结果指定了一个特定的结果对象，该方法可以重用和返回。 |
+| result | Object | 结果指定了一个特定的结果对象，该对象可以被此方法重用和返回。 |
 
 ### 返回值
 
-XPath 表达式的计算结果。
+XPath 表达式的求值结果。
 
 ### 也可以看看
 

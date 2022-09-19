@@ -8,7 +8,7 @@ url: /ru/net/aspose.svg/svgtextcontentelement/textlength/
 ---
 ## SVGTextContentElement.TextLength property
 
-Соответствует атрибуту 'textLength' данного элемента.
+Соответствует атрибуту textLength данного элемента.
 
 ```csharp
 public SVGAnimatedLength TextLength { get; }
@@ -16,7 +16,7 @@ public SVGAnimatedLength TextLength { get; }
 
 ### Стоимость имущества
 
-Атрибут 'textLength' данного элемента.
+Атрибут textLength данного элемента.
 
 ### Смотрите также
 

@@ -1,14 +1,14 @@
 ---
 title: IInterpolationColor
 second_title: Справочник по Aspose.SVG для .NET API
-description: Описывает методы получения интерполяционного цвета.
+description: Описывает методы получения цвета интерполяции.
 type: docs
-weight: 1450
+weight: 1460
 url: /ru/net/aspose.svg.drawing/iinterpolationcolor/
 ---
 ## IInterpolationColor interface
 
-Описывает методы получения интерполяционного цвета.
+Описывает методы получения цвета интерполяции.
 
 ```csharp
 public interface IInterpolationColor
@@ -18,7 +18,7 @@ public interface IInterpolationColor
 
 | Имя | Описание |
 | --- | --- |
-| [Color](../../aspose.svg.drawing/iinterpolationcolor/color) { get; } | Получите цвет, который представляет цвета, используемые в соответствующих позициях вдоль градиента. |
+| [Color](../../aspose.svg.drawing/iinterpolationcolor/color) { get; } | Получить цвет, представляющий цвета для использования в соответствующих позициях вдоль градиента. |
 | [Position](../../aspose.svg.drawing/iinterpolationcolor/position) { get; } | Получает позицию цвета. |
 
 ### Смотрите также

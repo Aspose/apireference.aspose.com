@@ -1,14 +1,14 @@
 ---
 title: Filter
 second_title: Aspose.SVG for .NET API 参考
-description: NodeFilter 用于筛选节点
+description: 用于筛选节点的 NodeFilter
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.dom.traversal/itraversal/filter/
 ---
 ## ITraversal.Filter property
 
-NodeFilter 用于筛选节点。
+用于筛选节点的 NodeFilter。
 
 ```csharp
 public INodeFilter Filter { get; }
@@ -16,7 +16,7 @@ public INodeFilter Filter { get; }
 
 ### 适当的价值
 
-过滤器。
+过滤器.
 
 ### 也可以看看
 

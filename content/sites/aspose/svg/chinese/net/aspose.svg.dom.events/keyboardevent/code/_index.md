@@ -1,14 +1,14 @@
 ---
 title: Code
 second_title: Aspose.SVG for .NET API 参考
-description: 该代码包含一个字符串用于标识被按下的物理键该值不受当前键盘布局或修饰符状态的影响因此特定键将始终返回相同的值
+description: 该代码包含一个字符串用于标识正在按下的物理键该值不受当前键盘布局或修饰符状态的影响因此特定键将始终返回相同的值
 type: docs
 weight: 30
 url: /zh/net/aspose.svg.dom.events/keyboardevent/code/
 ---
 ## KeyboardEvent.Code property
 
-该代码包含一个字符串，用于标识被按下的物理键。该值不受当前键盘布局或修饰符状态的影响，因此特定键将始终返回相同的值。
+该代码包含一个字符串，用于标识正在按下的物理键。该值不受当前键盘布局或修饰符状态的影响，因此特定键将始终返回相同的值。
 
 ```csharp
 public string Code { get; }
@@ -16,7 +16,7 @@ public string Code { get; }
 
 ### 适当的价值
 
-密钥代码。
+密钥代码.
 
 ### 也可以看看
 

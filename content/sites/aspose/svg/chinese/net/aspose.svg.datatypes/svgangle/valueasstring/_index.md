@@ -22,7 +22,7 @@ public string ValueAsString { get; set; }
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception) | 代码[`SYNTAX_ERR`](../../../aspose.svg.dom/domexception/syntax_err) 如果分配的字符串不能被解析为有效角度，则引发。 |
+| [DOMException](../../../aspose.svg.dom/domexception) | 代码[`SYNTAX_ERR`](../../../aspose.svg.dom/domexception/syntax_err) 如果分配的字符串无法解析为有效角度，则引发。 |
 | [DOMException](../../../aspose.svg.dom/domexception) | 代码[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err) 当角度对应于只读属性或对象本身为只读时引发。 |
 
 ### 也可以看看

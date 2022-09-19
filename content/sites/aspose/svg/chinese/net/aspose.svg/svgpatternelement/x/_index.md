@@ -1,14 +1,14 @@
 ---
 title: X
 second_title: Aspose.SVG for .NET API 参考
-description: 对应于给定 pattern 元素的属性 x
+description: 对应于给定模式元素的属性x
 type: docs
 weight: 120
 url: /zh/net/aspose.svg/svgpatternelement/x/
 ---
 ## SVGPatternElement.X property
 
-对应于给定 'pattern' 元素的属性 'x'。
+对应于给定“模式”元素的属性“x”。
 
 ```csharp
 public SVGAnimatedLength X { get; }

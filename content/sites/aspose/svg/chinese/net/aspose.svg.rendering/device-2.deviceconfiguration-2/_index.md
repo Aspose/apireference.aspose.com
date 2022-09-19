@@ -3,7 +3,7 @@ title: DeviceTGraphicContextTRenderingOptions.DeviceConfigurationTGraphicContext
 second_title: Aspose.SVG for .NET API 参考
 description: 表示设备的配置对象
 type: docs
-weight: 2700
+weight: 2710
 url: /zh/net/aspose.svg.rendering/device-2.deviceconfiguration-2/
 ---
 ## Device&lt;TGraphicContext,TRenderingOptions&gt;.DeviceConfiguration&lt;TGraphicContext,TRenderingOptions&gt; class
@@ -26,7 +26,7 @@ public class DeviceConfiguration<TGraphicContext, TRenderingOptions>
 
 | 姓名 | 描述 |
 | --- | --- |
-| [PageWritingStrategy](../../aspose.svg.rendering/deviceconfiguration/pagewritingstrategy) { get; set; } | 获取或设置页面写入策略。 |
+| [PageWritingStrategy](../../aspose.svg.rendering/deviceconfiguration/pagewritingstrategy) { get; set; } | 获取或设置页面写入策略 |
 
 ### 也可以看看
 

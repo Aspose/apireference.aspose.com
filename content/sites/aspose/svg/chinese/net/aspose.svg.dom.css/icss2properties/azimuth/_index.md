@@ -1,14 +1,14 @@
 ---
 title: Azimuth
 second_title: Aspose.SVG for .NET API 参考
-description: 参见 CSS2 中的 azimuth 属性定义
+description: 参见CSS2中的方位角属性定义
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.dom.css/icss2properties/azimuth/
 ---
 ## ICSS2Properties.Azimuth property
 
-参见 CSS2 中的 azimuth 属性定义。
+参见CSS2中的方位角属性定义。
 
 ```csharp
 public string Azimuth { get; set; }

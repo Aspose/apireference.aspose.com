@@ -1,14 +1,14 @@
 ---
 title: SVGPathSegCurvetoQuadraticSmoothRel
 second_title: Aspose.SVG for .NET API 参考
-description: SVGPathSegCurvetoQuadraticSmoothRel 接口对应于相对平滑三次曲线t 路径数据命令
+description: SVGPathSegCurvetoQuadraticSmoothRel 接口对应一个相对平滑三次曲线t路径数据命令
 type: docs
-weight: 2560
+weight: 2570
 url: /zh/net/aspose.svg.paths/svgpathsegcurvetoquadraticsmoothrel/
 ---
 ## SVGPathSegCurvetoQuadraticSmoothRel class
 
-SVGPathSegCurvetoQuadraticSmoothRel 接口对应于“相对平滑三次曲线”(t) 路径数据命令。
+SVGPathSegCurvetoQuadraticSmoothRel 接口对应一个“相对平滑三次曲线”（t）路径数据命令。
 
 ```csharp
 public class SVGPathSegCurvetoQuadraticSmoothRel : SVGPathSeg
@@ -27,8 +27,8 @@ public class SVGPathSegCurvetoQuadraticSmoothRel : SVGPathSeg
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose)() | 释放非托管和（可选）托管资源。 |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | 此方法用于检索 ECMAScript 对象Type。 |
+| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose)() | 释放非托管和 - 可选 - 托管资源。 |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | 此方法用于检索 ECMAScript 对象Type . |
 
 ### 也可以看看
 

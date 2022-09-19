@@ -1,14 +1,14 @@
 ---
 title: ISVGUnitTypes
 second_title: Справочник по Aspose.SVG для .NET API
-description: Интерфейс SVGUnitTypes определяет обычно используемый набор констант и является базовым интерфейсом используемым SVGGradientElement SVGPatternElement SVGClipPathElement SVGMaskElement и SVGFilterElement.
+description: Интерфейс SVGUnitTypes определяет широко используемый набор констант и является базовым интерфейсом используемым SVGGradientElement SVGPatternElement SVGClipPathElement SVGMaskElement и SVGFilterElement.
 type: docs
-weight: 2040
+weight: 2050
 url: /ru/net/aspose.svg/isvgunittypes/
 ---
 ## ISVGUnitTypes interface
 
-Интерфейс SVGUnitTypes определяет обычно используемый набор констант и является базовым интерфейсом, используемым SVGGradientElement, SVGPatternElement, SVGClipPathElement, SVGMaskElement и SVGFilterElement.
+Интерфейс SVGUnitTypes определяет широко используемый набор констант и является базовым интерфейсом, используемым SVGGradientElement, SVGPatternElement, SVGClipPathElement, SVGMaskElement и SVGFilterElement.
 
 ```csharp
 public interface ISVGUnitTypes

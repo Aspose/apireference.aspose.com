@@ -1,14 +1,14 @@
 ---
 title: Width
 second_title: Справочник по Aspose.SVG для .NET API
-description: Соответствует атрибуту width данного элемента filter.
+description: Соответствует атрибуту ширина данного элемента фильтр.
 type: docs
 weight: 150
 url: /ru/net/aspose.svg.filters/svgfeconvolvematrixelement/width/
 ---
 ## SVGFEConvolveMatrixElement.Width property
 
-Соответствует атрибуту 'width' данного элемента 'filter'.
+Соответствует атрибуту «ширина» данного элемента «фильтр».
 
 ```csharp
 public SVGAnimatedLength Width { get; }
@@ -16,7 +16,7 @@ public SVGAnimatedLength Width { get; }
 
 ### Стоимость имущества
 
-Атрибут 'ширина' данного элемента 'фильтра'.
+Атрибут «ширина» данного элемента «фильтр».
 
 ### Смотрите также
 

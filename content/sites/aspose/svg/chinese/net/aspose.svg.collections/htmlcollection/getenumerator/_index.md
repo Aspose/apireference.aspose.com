@@ -1,14 +1,14 @@
 ---
 title: GetEnumerator
 second_title: Aspose.SVG for .NET API 参考
-description: 获取枚举数
+description: 获取枚举器
 type: docs
 weight: 30
 url: /zh/net/aspose.svg.collections/htmlcollection/getenumerator/
 ---
 ## HTMLCollection.GetEnumerator method
 
-获取枚举数。
+获取枚举器。
 
 ```csharp
 public abstract IEnumerator<Element> GetEnumerator()
@@ -16,7 +16,7 @@ public abstract IEnumerator<Element> GetEnumerator()
 
 ### 返回值
 
-IEnumerator对象，可用于遍历集合。
+一个IEnumerator可用于遍历集合的对象。
 
 ### 也可以看看
 

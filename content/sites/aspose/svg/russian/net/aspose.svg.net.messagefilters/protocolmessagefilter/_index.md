@@ -1,14 +1,14 @@
 ---
 title: ProtocolMessageFilter
 second_title: Справочник по Aspose.SVG для .NET API
-description: Представляет реализацию фильтра сообщений протоколом ресурса.
+description: Представляет реализацию фильтра сообщений ресурсным протоколом.
 type: docs
-weight: 2290
+weight: 2300
 url: /ru/net/aspose.svg.net.messagefilters/protocolmessagefilter/
 ---
 ## ProtocolMessageFilter class
 
-Представляет реализацию фильтра сообщений протоколом ресурса.
+Представляет реализацию фильтра сообщений ресурсным протоколом.
 
 ```csharp
 public class ProtocolMessageFilter : MessageFilter
@@ -18,7 +18,7 @@ public class ProtocolMessageFilter : MessageFilter
 
 | Имя | Описание |
 | --- | --- |
-| [ProtocolMessageFilter](protocolmessagefilter)(params string[]) | Инициализирует новый экземпляр класса[`ProtocolMessageFilter`](../protocolmessagefilter). |
+| [ProtocolMessageFilter](protocolmessagefilter)(params string[]) | Инициализирует новый экземпляр[`ProtocolMessageFilter`](../protocolmessagefilter) класс. |
 
 ## Методы
 

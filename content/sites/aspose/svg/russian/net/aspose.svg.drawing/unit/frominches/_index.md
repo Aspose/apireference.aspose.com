@@ -1,14 +1,14 @@
 ---
 title: FromInches
 second_title: Справочник по Aspose.SVG для .NET API
-description: Возвращает объектLengthaspose.svg.drawing/length представленный в дюймах.
+description: ВозвращаетLengthaspose.svg.drawing/length объект представленный в дюймах.
 type: docs
 weight: 120
 url: /ru/net/aspose.svg.drawing/unit/frominches/
 ---
 ## Unit.FromInches method
 
-Возвращает объект[`Length`](../../length), представленный в дюймах.
+Возвращает[`Length`](../../length) объект, представленный в дюймах.
 
 ```csharp
 public static Length FromInches(double value)
@@ -20,7 +20,7 @@ public static Length FromInches(double value)
 
 ### Возвращаемое значение
 
-Возвращает объект[`Length`](../../length).
+Возвращает[`Length`](../../length) объект.
 
 ### Смотрите также
 

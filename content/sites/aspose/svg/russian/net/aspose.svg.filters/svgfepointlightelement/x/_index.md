@@ -8,7 +8,7 @@ url: /ru/net/aspose.svg.filters/svgfepointlightelement/x/
 ---
 ## SVGFEPointLightElement.X property
 
-Соответствует атрибуту 'x' данного элемента 'fePointLight'.
+Соответствует атрибуту «x» данного элемента «fePointLight».
 
 ```csharp
 public SVGAnimatedNumber X { get; }

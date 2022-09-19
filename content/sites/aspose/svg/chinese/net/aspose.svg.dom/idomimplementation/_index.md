@@ -3,7 +3,7 @@ title: IDOMImplementation
 second_title: Aspose.SVG for .NET API 参考
 description: DOMImplementation 接口提供了许多方法来执行独立于文档对象模型的任何特定实例的操作
 type: docs
-weight: 1050
+weight: 1040
 url: /zh/net/aspose.svg.dom/idomimplementation/
 ---
 ## IDOMImplementation interface

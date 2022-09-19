@@ -1,14 +1,14 @@
 ---
 title: SetAttributeNodeNS
 second_title: Aspose.SVG for .NET API 参考
-description: 添加新属性如果元素中已经存在具有该本地名称和该名称空间 URI 的属性则将其替换为新属性
+description: 添加一个新属性如果元素中已存在具有该本地名称和该名称空间 URI 的属性则将其替换为新属性
 type: docs
 weight: 420
 url: /zh/net/aspose.svg.dom/element/setattributenodens/
 ---
 ## Element.SetAttributeNodeNS method
 
-添加新属性。如果元素中已经存在具有该本地名称和该名称空间 URI 的属性，则将其替换为新属性。
+添加一个新属性。如果元素中已存在具有该本地名称和该名称空间 URI 的属性，则将其替换为新属性。
 
 ```csharp
 public Attr SetAttributeNodeNS(Attr newAttr)
@@ -16,7 +16,7 @@ public Attr SetAttributeNodeNS(Attr newAttr)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| newAttr | Attr | 新属性。 |
+| newAttr | Attr | 新的属性。 |
 
 ### 返回值
 

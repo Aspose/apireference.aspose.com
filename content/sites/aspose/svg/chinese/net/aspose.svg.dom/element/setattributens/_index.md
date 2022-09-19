@@ -1,14 +1,14 @@
 ---
 title: SetAttributeNS
 second_title: Aspose.SVG for .NET API 参考
-description: 添加新属性如果元素上已经存在具有相同本地名称和命名空间 URI 的属性则将其前缀更改为qualifiedName 的前缀部分并将其值更改为值参数
+description: 添加一个新属性如果元素上已经存在具有相同本地名称和命名空间URI的属性则将其前缀更改为qualifiedName的前缀部分并将其值更改为值参数
 type: docs
 weight: 430
 url: /zh/net/aspose.svg.dom/element/setattributens/
 ---
 ## Element.SetAttributeNS method
 
-添加新属性。如果元素上已经存在具有相同本地名称和命名空间 URI 的属性，则将其前缀更改为qualifiedName 的前缀部分，并将其值更改为值参数。
+添加一个新属性。如果元素上已经存在具有相同本地名称和命名空间URI的属性，则将其前缀更改为qualifiedName的前缀部分，并将其值更改为值参数。
 
 ```csharp
 public void SetAttributeNS(string namespaceURI, string qualifiedName, string value)
@@ -17,8 +17,8 @@ public void SetAttributeNS(string namespaceURI, string qualifiedName, string val
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | namespaceURI | String | 命名空间 URI。 |
-| qualifiedName | String | 合格的名称。 |
-| value | String | 值。 |
+| qualifiedName | String | 合格者的姓名。 |
+| value | String | 价值。 |
 
 ### 也可以看看
 

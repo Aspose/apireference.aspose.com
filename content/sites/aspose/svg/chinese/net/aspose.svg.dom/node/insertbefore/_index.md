@@ -1,14 +1,14 @@
 ---
 title: InsertBefore
 second_title: Aspose.SVG for .NET API 参考
-description: 在现有子节点 child 之前插入节点如果 child 为 null则在子列表的末尾插入节点 如果 child 是 DocumentFragment 对象则它的所有孩子都以相同的顺序插入到 child 之前如果孩子已经在树中则首先将其移除
+description: 在现有子节点 child 之前插入节点如果 child 为 null则将节点插入到子列表的末尾 如果 child 是 DocumentFragment 对象则以相同的顺序将其所有子节点插入到 child 之前如果孩子已经在树中则首先将其移除
 type: docs
 weight: 220
 url: /zh/net/aspose.svg.dom/node/insertbefore/
 ---
 ## Node.InsertBefore method
 
-在现有子节点 child 之前插入节点。如果 child 为 null，则在子列表的末尾插入节点。 如果 child 是 DocumentFragment 对象，则它的所有孩子都以相同的顺序插入到 child 之前。如果孩子已经在树中，则首先将其移除。
+在现有子节点 child 之前插入节点。如果 child 为 null，则将节点插入到子列表的末尾。 如果 child 是 DocumentFragment 对象，则以相同的顺序将其所有子节点插入到 child 之前。如果孩子已经在树中，则首先将其移除。
 
 ```csharp
 public Node InsertBefore(Node node, Node child)
@@ -16,7 +16,7 @@ public Node InsertBefore(Node node, Node child)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| node | Node | 新的孩子。 |
+| node | Node | 新来的孩子。 |
 | child | Node | 参考孩子。 |
 
 ### 返回值

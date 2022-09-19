@@ -1,14 +1,14 @@
 ---
 title: Equals
 second_title: Aspose.SVG for .NET API 参考
-description: 确定指定的Object是否等于此实例
+description: 判断是否指定Object 等于这个实例
 type: docs
 weight: 310
 url: /zh/net/aspose.svg.drawing/unittype/equals/
 ---
 ## Equals(object) {#equals_1}
 
-确定指定的Object是否等于此实例。
+判断是否指定Object 等于这个实例。
 
 ```csharp
 public override bool Equals(object obj)
@@ -16,11 +16,11 @@ public override bool Equals(object obj)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| obj | Object | Object与此实例进行比较。 |
+| obj | Object | 这Object与此实例进行比较。 |
 
 ### 返回值
 
-` true` 如果指定的Object等于这个实例；否则，` false` 。
+`真的`如果指定Object等于这个实例；否则，`错误的` .
 
 ### 也可以看看
 
@@ -32,7 +32,7 @@ public override bool Equals(object obj)
 
 ## Equals(UnitType) {#equals}
 
-确定指定的[`UnitType`](../../unittype)是否等于此实例。
+判断是否指定[`UnitType`](../../unittype) 等于这个实例。
 
 ```csharp
 public bool Equals(UnitType other)
@@ -40,11 +40,11 @@ public bool Equals(UnitType other)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| other | UnitType | [`UnitType`](../../unittype)与此实例进行比较。 |
+| other | UnitType | 这[`UnitType`](../../unittype)与此实例进行比较。 |
 
 ### 返回值
 
-` true` 如果指定的[`UnitType`](../../unittype)等于这个实例；否则，` false` 。
+`真的`如果指定[`UnitType`](../../unittype)等于这个实例；否则，`错误的` .
 
 ### 也可以看看
 

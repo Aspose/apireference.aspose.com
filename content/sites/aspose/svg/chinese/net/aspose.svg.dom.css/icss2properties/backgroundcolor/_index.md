@@ -1,14 +1,14 @@
 ---
 title: BackgroundColor
 second_title: Aspose.SVG for .NET API 参考
-description: 请参阅 CSS2 中的 background-color 属性定义
+description: 参见 CSS2 中的 backgroundcolor 属性定义
 type: docs
 weight: 40
 url: /zh/net/aspose.svg.dom.css/icss2properties/backgroundcolor/
 ---
 ## ICSS2Properties.BackgroundColor property
 
-请参阅 CSS2 中的 background-color 属性定义。
+参见 CSS2 中的 background-color 属性定义。
 
 ```csharp
 public string BackgroundColor { get; set; }
@@ -16,7 +16,7 @@ public string BackgroundColor { get; set; }
 
 ### 返回值
 
-背景色属性
+背景颜色属性
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: SVGAnimatedNumberList
 second_title: Справочник по Aspose.SVG для .NET API
-description: Используется для атрибутов которые принимают список чисел и которые можно анимировать.
+description: Используется для атрибутов которые принимают список чисел и могут быть анимированы.
 type: docs
-weight: 170
+weight: 160
 url: /ru/net/aspose.svg.datatypes/svganimatednumberlist/
 ---
 ## SVGAnimatedNumberList class
 
-Используется для атрибутов, которые принимают список чисел и которые можно анимировать.
+Используется для атрибутов, которые принимают список чисел и могут быть анимированы.
 
 ```csharp
 public class SVGAnimatedNumberList : SVGAnimatedValue<SVGNumberList>
@@ -26,8 +26,8 @@ public class SVGAnimatedNumberList : SVGAnimatedValue<SVGNumberList>
 | Имя | Описание |
 | --- | --- |
 | [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose)() | Освобождает неуправляемые и (необязательно) управляемые ресурсы. |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | Этот метод используется для получения объекта ECMAScriptType. |
-| override [ToString](../../aspose.svg.datatypes/svganimatednumberlist/tostring)() | ВозвращаетString, представляющий этот экземпляр. |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | Этот метод используется для получения объекта ECMAScript.Type . |
+| override [ToString](../../aspose.svg.datatypes/svganimatednumberlist/tostring)() | ВозвращаетString который представляет этот экземпляр. |
 
 ### Смотрите также
 

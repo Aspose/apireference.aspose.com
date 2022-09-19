@@ -1,14 +1,14 @@
 ---
 title: RequestUri
 second_title: Aspose.SVG for .NET API 参考
-description: 获取或设置请求 URI
+description: 获取或设置请求URI
 type: docs
 weight: 80
 url: /zh/net/aspose.svg.net/requestmessage/requesturi/
 ---
 ## RequestMessage.RequestUri property
 
-获取或设置请求 URI。
+获取或设置请求URI。
 
 ```csharp
 public Url RequestUri { get; set; }
@@ -16,7 +16,7 @@ public Url RequestUri { get; set; }
 
 ### 适当的价值
 
-请求 URI。
+请求 URI.
 
 ### 也可以看看
 

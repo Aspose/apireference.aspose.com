@@ -1,14 +1,14 @@
 ---
 title: ToString
 second_title: Aspose.SVG for .NET API 参考
-description: 返回代表 Mime 类型的String
+description: 返回一个String代表 Mime 类型
 type: docs
 weight: 70
 url: /zh/net/aspose.svg/mimetype/tostring/
 ---
 ## MimeType.ToString method
 
-返回代表 Mime 类型的String。
+返回一个String代表 Mime 类型。
 
 ```csharp
 public override string ToString()
@@ -16,7 +16,7 @@ public override string ToString()
 
 ### 返回值
 
-String代表此实例。
+一个String代表这个实例。
 
 ### 也可以看看
 

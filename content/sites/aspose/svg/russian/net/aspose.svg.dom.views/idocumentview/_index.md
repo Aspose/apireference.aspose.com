@@ -3,7 +3,7 @@ title: IDocumentView
 second_title: Справочник по Aspose.SVG для .NET API
 description: Интерфейс DocumentView реализуется объектами Document в реализациях DOM поддерживающих представления DOM. Он предоставляет атрибут для получения представления документа по умолчанию.
 type: docs
-weight: 1310
+weight: 1300
 url: /ru/net/aspose.svg.dom.views/idocumentview/
 ---
 ## IDocumentView interface
@@ -18,7 +18,7 @@ public interface IDocumentView : IAbstractView
 
 | Имя | Описание |
 | --- | --- |
-| [DefaultView](../../aspose.svg.dom.views/idocumentview/defaultview) { get; } | AbstractView по умолчанию для этого документа или нуль, если он недоступен. |
+| [DefaultView](../../aspose.svg.dom.views/idocumentview/defaultview) { get; } | Абстрактное представление по умолчанию для этого документа или значение null, если оно недоступно. |
 
 ### Смотрите также
 

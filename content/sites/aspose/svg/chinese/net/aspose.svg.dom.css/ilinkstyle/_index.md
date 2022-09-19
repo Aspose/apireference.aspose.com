@@ -1,14 +1,14 @@
 ---
 title: ILinkStyle
 second_title: Aspose.SVG for .NET API 参考
-description: LinkStyle 接口提供了一种机制通过该机制可以从负责将样式表链接到文档的节点中检索样式表 LinkStyle 接口的实例可以在链接节点的实例HTMLLinkElementHTMLStyleElement 或 DOM Level 2 中的 ProcessingInstruction上使用特定于绑定的转换方法获得
+description: LinkStyle 接口提供了一种机制通过该机制可以从负责将样式表链接到文档的节点中检索样式表 LinkStyle 接口的实例可以在链接节点的实例HTMLLinkElementHTMLStyleElement 或 DOM 级别 2 中的 ProcessingInstruction上使用特定于绑定的转换方法获得
 type: docs
-weight: 730
+weight: 720
 url: /zh/net/aspose.svg.dom.css/ilinkstyle/
 ---
 ## ILinkStyle interface
 
-LinkStyle 接口提供了一种机制，通过该机制可以从负责将样式表链接到文档的节点中检索样式表。 LinkStyle 接口的实例可以在链接节点的实例（HTMLLinkElement、HTMLStyleElement 或 DOM Level 2 中的 ProcessingInstruction）上使用特定于绑定的转换方法获得。
+LinkStyle 接口提供了一种机制，通过该机制可以从负责将样式表链接到文档的节点中检索样式表。 LinkStyle 接口的实例可以在链接节点的实例（HTMLLinkElement、HTMLStyleElement 或 DOM 级别 2 中的 ProcessingInstruction）上使用特定于绑定的转换方法获得。
 
 ```csharp
 public interface ILinkStyle

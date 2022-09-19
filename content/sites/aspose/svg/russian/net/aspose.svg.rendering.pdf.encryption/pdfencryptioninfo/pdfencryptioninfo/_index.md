@@ -1,14 +1,14 @@
 ---
 title: PdfEncryptionInfo
 second_title: Справочник по Aspose.SVG для .NET API
-description: Инициализирует новый экземпляр классаPdfEncryptionInfoaspose.svg.rendering.pdf.encryption/pdfencryptioninfo.
+description: Инициализирует новый экземплярPdfEncryptionInfoaspose.svg.rendering.pdf.encryption/pdfencryptioninfo класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.rendering.pdf.encryption/pdfencryptioninfo/pdfencryptioninfo/
 ---
 ## PdfEncryptionInfo constructor
 
-Инициализирует новый экземпляр класса[`PdfEncryptionInfo`](../../pdfencryptioninfo).
+Инициализирует новый экземпляр[`PdfEncryptionInfo`](../../pdfencryptioninfo) класс.
 
 ```csharp
 public PdfEncryptionInfo(string userPassword, string ownerPassword, PdfPermissions permissions, 

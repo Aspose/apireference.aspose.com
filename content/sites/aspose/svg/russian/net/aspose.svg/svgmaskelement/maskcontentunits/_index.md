@@ -1,14 +1,14 @@
 ---
 title: MaskContentUnits
 second_title: Справочник по Aspose.SVG для .NET API
-description: Соответствует атрибуту maskContentUnits данного элемента mask. Принимает одну из констант определенных в SVGUnitTypes.
+description: Соответствует атрибуту maskContentUnits данного элемента маска. Принимает одну из констант определенных в SVGUnitTypes.
 type: docs
 weight: 20
 url: /ru/net/aspose.svg/svgmaskelement/maskcontentunits/
 ---
 ## SVGMaskElement.MaskContentUnits property
 
-Соответствует атрибуту 'maskContentUnits' данного элемента 'mask'. Принимает одну из констант, определенных в SVGUnitTypes.
+Соответствует атрибуту «maskContentUnits» данного элемента «маска». Принимает одну из констант, определенных в SVGUnitTypes.
 
 ```csharp
 public SVGAnimatedEnumeration MaskContentUnits { get; }
@@ -16,7 +16,7 @@ public SVGAnimatedEnumeration MaskContentUnits { get; }
 
 ### Стоимость имущества
 
-Атрибут 'maskContentUnits' данного элемента 'mask'.
+Атрибут 'maskContentUnits' данного элемента 'маски'.
 
 ### Смотрите также
 

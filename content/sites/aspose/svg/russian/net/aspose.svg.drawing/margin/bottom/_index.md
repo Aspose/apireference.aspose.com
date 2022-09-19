@@ -16,7 +16,7 @@ public LengthOrAuto Bottom { get; set; }
 
 ### Стоимость имущества
 
-Низ.
+Дно.
 
 ### Смотрите также
 

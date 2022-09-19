@@ -16,8 +16,8 @@ public abstract void SetFloatValue(ushort unitType, float floatValue)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| unitType | UInt16 | Тип юнита. |
-| floatValue | Single | Значение с плавающей запятой. |
+| unitType | UInt16 | Тип агрегата. |
+| floatValue | Single | Плавающее значение. |
 
 ### Смотрите также
 

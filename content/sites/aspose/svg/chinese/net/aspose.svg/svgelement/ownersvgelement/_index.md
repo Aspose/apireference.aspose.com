@@ -1,14 +1,14 @@
 ---
 title: OwnerSVGElement
 second_title: Aspose.SVG for .NET API 参考
-description: 最近的祖先 svg 元素如果给定元素是最外层的 svg 元素则为 Null
+description: 最近的祖先 svg 元素如果给定元素是最外层的 svg 元素则为空
 type: docs
 weight: 30
 url: /zh/net/aspose.svg/svgelement/ownersvgelement/
 ---
 ## SVGElement.OwnerSVGElement property
 
-最近的祖先 'svg' 元素。如果给定元素是最外层的 svg 元素，则为 Null。
+最近的祖先 'svg' 元素。如果给定元素是最外层的 svg 元素，则为空。
 
 ```csharp
 public SVGSVGElement OwnerSVGElement { get; }

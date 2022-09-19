@@ -3,7 +3,7 @@ title: SVGAnimatedString
 second_title: Справочник по Aspose.SVG для .NET API
 description: Используется для атрибутов типа DOMString которые можно анимировать.
 type: docs
-weight: 200
+weight: 190
 url: /ru/net/aspose.svg.datatypes/svganimatedstring/
 ---
 ## SVGAnimatedString class
@@ -26,8 +26,8 @@ public class SVGAnimatedString : SVGAnimatedValue<string>
 | Имя | Описание |
 | --- | --- |
 | [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose)() | Освобождает неуправляемые и (необязательно) управляемые ресурсы. |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | Этот метод используется для получения объекта ECMAScriptType. |
-| override [ToString](../../aspose.svg.datatypes/svganimatedstring/tostring)() | ВозвращаетString, представляющий этот экземпляр. |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | Этот метод используется для получения объекта ECMAScript.Type . |
+| override [ToString](../../aspose.svg.datatypes/svganimatedstring/tostring)() | ВозвращаетString который представляет этот экземпляр. |
 
 ### Смотрите также
 

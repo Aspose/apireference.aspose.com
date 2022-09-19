@@ -1,14 +1,14 @@
 ---
 title: Url
 second_title: Aspose.SVG for .NET API 参考
-description: 使用指定的 URL 初始化Urlaspose.svg/url的新实例
+description: 初始化Urlaspose.svg/url使用指定的 URL.
 type: docs
 weight: 10
 url: /zh/net/aspose.svg/url/url/
 ---
 ## Url(string) {#constructor}
 
-使用指定的 URL 初始化[`Url`](../../url)的新实例。
+初始化[`Url`](../../url)使用指定的 URL.
 
 ```csharp
 public Url(string url)
@@ -22,7 +22,7 @@ public Url(string url)
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| Error | TypeError: 如果` url` 不能被解析为有效的 URL，则会引发。 |
+| Error | TypeError：如果出现则引发`网址`无法解析为有效的 URL. |
 
 ### 也可以看看
 
@@ -34,7 +34,7 @@ public Url(string url)
 
 ## Url(string, string) {#constructor_1}
 
-使用指定的 URL 和基本 URL 初始化[`Url`](../../url)的新实例。
+初始化[`Url`](../../url)使用指定的 URL 和基本 URL.
 
 ```csharp
 public Url(string url, string baseUrl)
@@ -49,7 +49,7 @@ public Url(string url, string baseUrl)
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| Error | TypeError: 如果` url` 或` baseUrl 引发` 不能被解析为有效的 URL。 |
+| Error | TypeError：如果出现则引发`网址`或者`基本网址`无法解析为有效的 URL. |
 
 ### 也可以看看
 

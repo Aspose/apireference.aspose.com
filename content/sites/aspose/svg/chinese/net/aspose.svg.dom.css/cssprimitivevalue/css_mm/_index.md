@@ -1,14 +1,14 @@
 ---
 title: CSS_MM
 second_title: Aspose.SVG for .NET API 参考
-description: 该值为长度毫米可以使用 getFloatValue 方法获取该值
+description: 该值为长度 mm该值可以通过getFloatValue方法获取
 type: docs
 weight: 270
 url: /zh/net/aspose.svg.dom.css/cssprimitivevalue/css_mm/
 ---
 ## CSSPrimitiveValue.CSS_MM field
 
-该值为长度（毫米）。可以使用 getFloatValue 方法获取该值。
+该值为长度 (mm)。该值可以通过getFloatValue方法获取。
 
 ```csharp
 public const ushort CSS_MM;

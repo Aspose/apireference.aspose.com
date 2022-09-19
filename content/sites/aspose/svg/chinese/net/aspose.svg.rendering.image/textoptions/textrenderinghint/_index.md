@@ -1,14 +1,14 @@
 ---
 title: TextRenderingHint
 second_title: Aspose.SVG for .NET API 参考
-description: 设置或获取影响文本渲染质量的TextRenderingHint默认情况下此属性为SystemDefault
+description: 设置或获取TextRenderingHint这会影响文本渲染质量默认情况下此属性为SystemDefault .
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.rendering.image/textoptions/textrenderinghint/
 ---
 ## TextOptions.TextRenderingHint property
 
-设置或获取影响文本渲染质量的TextRenderingHint。默认情况下，此属性为SystemDefault。
+设置或获取TextRenderingHint这会影响文本渲染质量。默认情况下，此属性为SystemDefault .
 
 ```csharp
 public TextRenderingHint TextRenderingHint { get; set; }

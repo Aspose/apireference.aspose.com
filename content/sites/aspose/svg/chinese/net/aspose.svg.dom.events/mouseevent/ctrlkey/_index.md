@@ -1,14 +1,14 @@
 ---
 title: CtrlKey
 second_title: Aspose.SVG for .NET API 参考
-description: 请参阅 ctrlKey 属性
+description: 参考ctrlKey属性
 type: docs
 weight: 70
 url: /zh/net/aspose.svg.dom.events/mouseevent/ctrlkey/
 ---
 ## MouseEvent.CtrlKey property
 
-请参阅 ctrlKey 属性。
+参考ctrlKey属性
 
 ```csharp
 public bool CtrlKey { get; }
@@ -16,7 +16,7 @@ public bool CtrlKey { get; }
 
 ### 适当的价值
 
-` true` if [控制键]；否则，` false` 。
+`真的` if [控制键];否则，`错误的` .
 
 ### 也可以看看
 

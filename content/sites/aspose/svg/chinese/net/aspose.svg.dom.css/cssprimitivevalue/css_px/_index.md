@@ -1,14 +1,14 @@
 ---
 title: CSS_PX
 second_title: Aspose.SVG for .NET API 参考
-description: 该值为长度px可以使用 getFloatValue 方法获取该值
+description: 该值为长度 px该值可以通过getFloatValue方法获取
 type: docs
 weight: 330
 url: /zh/net/aspose.svg.dom.css/cssprimitivevalue/css_px/
 ---
 ## CSSPrimitiveValue.CSS_PX field
 
-该值为长度（px）。可以使用 getFloatValue 方法获取该值。
+该值为长度 (px)。该值可以通过getFloatValue方法获取。
 
 ```csharp
 public const ushort CSS_PX;

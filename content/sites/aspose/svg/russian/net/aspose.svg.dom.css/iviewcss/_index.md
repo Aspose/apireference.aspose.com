@@ -1,14 +1,14 @@
 ---
 title: IViewCSS
 second_title: Справочник по Aspose.SVG для .NET API
-description: Этот интерфейс представляет собой представление CSS.
+description: Этот интерфейс представляет представление CSS.
 type: docs
-weight: 770
+weight: 760
 url: /ru/net/aspose.svg.dom.css/iviewcss/
 ---
 ## IViewCSS interface
 
-Этот интерфейс представляет собой представление CSS.
+Этот интерфейс представляет представление CSS.
 
 ```csharp
 public interface IViewCSS : IAbstractView
@@ -18,8 +18,8 @@ public interface IViewCSS : IAbstractView
 
 | Имя | Описание |
 | --- | --- |
-| [GetComputedStyle](../../aspose.svg.dom.css/iviewcss/getcomputedstyle#getcomputedstyle)(Element) | Этот метод используется для получения вычисляемого стиля, определенного в CSS2. |
-| [GetComputedStyle](../../aspose.svg.dom.css/iviewcss/getcomputedstyle#getcomputedstyle_1)(Element, string) | Этот метод используется для получения вычисляемого стиля, определенного в CSS2. |
+| [GetComputedStyle](../../aspose.svg.dom.css/iviewcss/getcomputedstyle#getcomputedstyle)(Element) | Этот метод используется для получения вычисляемого стиля, как он определен в CSS2. |
+| [GetComputedStyle](../../aspose.svg.dom.css/iviewcss/getcomputedstyle#getcomputedstyle_1)(Element, string) | Этот метод используется для получения вычисляемого стиля, как он определен в CSS2. |
 
 ### Смотрите также
 

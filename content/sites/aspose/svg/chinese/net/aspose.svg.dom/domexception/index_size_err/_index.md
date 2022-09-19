@@ -1,14 +1,14 @@
 ---
 title: INDEX_SIZE_ERR
 second_title: Aspose.SVG for .NET API 参考
-description: 如果 index 或 size 为负数或大于允许的值
+description: 如果索引或大小为负数或大于允许值
 type: docs
 weight: 90
 url: /zh/net/aspose.svg.dom/domexception/index_size_err/
 ---
 ## DOMException.INDEX_SIZE_ERR field
 
-如果 index 或 size 为负数，或大于允许的值。
+如果索引或大小为负数，或大于允许值。
 
 ```csharp
 public const ushort INDEX_SIZE_ERR;

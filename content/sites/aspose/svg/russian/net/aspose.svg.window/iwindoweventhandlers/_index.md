@@ -1,14 +1,14 @@
 ---
 title: IWindowEventHandlers
 second_title: Справочник по Aspose.SVG для .NET API
-description: Представляет интерфейс который должен быть унаследован объектом окна
+description: Представляет интерфейс который должен быть унаследован окном object
 type: docs
-weight: 3740
+weight: 3750
 url: /ru/net/aspose.svg.window/iwindoweventhandlers/
 ---
 ## IWindowEventHandlers interface
 
-Представляет интерфейс, который должен быть унаследован объектом окна
+Представляет интерфейс, который должен быть унаследован окном object
 
 ```csharp
 public interface IWindowEventHandlers

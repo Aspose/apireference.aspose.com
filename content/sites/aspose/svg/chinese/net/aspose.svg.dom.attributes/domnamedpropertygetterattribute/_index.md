@@ -1,14 +1,14 @@
 ---
 title: DOMNamedPropertyGetterAttribute
 second_title: Aspose.SVG for .NET API 参考
-description: 指定该方法将用作命名属性获取器
+description: 指定该方法将用作命名属性 getter
 type: docs
-weight: 400
+weight: 390
 url: /zh/net/aspose.svg.dom.attributes/domnamedpropertygetterattribute/
 ---
 ## DOMNamedPropertyGetterAttribute class
 
-指定该方法将用作命名属性获取器。
+指定该方法将用作命名属性 getter。
 
 ```csharp
 [AttributeUsage(AttributeTargets.All)]

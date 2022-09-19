@@ -1,14 +1,14 @@
 ---
 title: WriteLn
 second_title: Aspose.SVG for .NET API 参考
-description: 将后跟换行符的文本字符串写入由 open 打开的文档 流请注意该函数将 生成一个不一定由DTD 驱动的文档因此 可能会在 文档 的上下文中生成无效结果
+description: 将后跟换行符的文本字符串写入由 open 打开的 document 流请注意函数 will 生成的文档不一定由 DTD 驱动并且 因此可能会在 the document 的上下文中生成无效结果
 type: docs
 weight: 1060
 url: /zh/net/aspose.svg.dom/document/writeln/
 ---
 ## Document.WriteLn method
 
-将后跟换行符的文本字符串写入由 open() 打开的文档 流。请注意，该函数将 生成一个不一定由DTD 驱动的文档，因此 可能会在 文档 的上下文中生成无效结果
+将后跟换行符的文本字符串写入由 open() 打开的 document 流。请注意，函数 will 生成的文档不一定由 DTD 驱动，并且 因此可能会在 the document 的上下文中生成无效结果
 
 ```csharp
 public void WriteLn(params string[] texts)
@@ -16,7 +16,7 @@ public void WriteLn(params string[] texts)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| texts | String[] | 要解析为 文档结构模型中的某个结构的字符串。 |
+| texts | String[] | 在 文档结构模型中要解析成某种结构的字符串。 |
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: In
 second_title: Справочник по Aspose.SVG для .NET API
-description: Измерения в дюймах
+description: Измерение в дюймах
 type: docs
 weight: 120
 url: /ru/net/aspose.svg.drawing/unittype/in/
 ---
 ## UnitType.In field
 
-Измерения в дюймах
+Измерение в дюймах
 
 ```csharp
 public static readonly UnitType In;

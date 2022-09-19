@@ -1,7 +1,7 @@
 ---
 title: DERIVATION_UNION
 second_title: Справочник по Aspose.SVG для .NET API
-description: Если схема документа представляет собой XML-схему XML-схема часть 1 эта константа представляет объединение если задействованы простые типы.
+description: Если схема документа представляет собой XMLсхему XMLсхема часть 1 эта константа представляет объединение если задействованы простые типы.
 type: docs
 weight: 70
 url: /ru/net/aspose.svg.dom/typeinfo/derivation_union/

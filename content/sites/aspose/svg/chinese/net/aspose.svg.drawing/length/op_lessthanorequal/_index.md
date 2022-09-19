@@ -1,14 +1,14 @@
 ---
 title: op_LessThanOrEqual
 second_title: Aspose.SVG for .NET API 参考
-description: 实现运算符 lt
+description: 实现运算符 lt.
 type: docs
 weight: 70
 url: /zh/net/aspose.svg.drawing/length/op_lessthanorequal/
 ---
 ## Length LessThanOrEqual operator
 
-实现运算符 &lt;=。
+实现运算符 &lt;=.
 
 ```csharp
 public static bool operator <=(Length a, Length b)
@@ -16,8 +16,8 @@ public static bool operator <=(Length a, Length b)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| a | Length | 参数a。 |
-| b | Length | 参数 b。 |
+| a | Length | 参数 a。 |
+| b | Length | 参数 B. |
 
 ### 返回值
 

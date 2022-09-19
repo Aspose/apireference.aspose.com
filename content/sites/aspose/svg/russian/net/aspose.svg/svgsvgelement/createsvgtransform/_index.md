@@ -1,7 +1,7 @@
 ---
 title: CreateSVGTransform
 second_title: Справочник по Aspose.SVG для .NET API
-description: Создает объект SVGTransform вне каких-либо деревьев документов. Объект инициализируется преобразованием матрицы идентичности SVG_TRANSFORM_MATRIX.
+description: Создает объект SVGTransform вне какихлибо деревьев документов. Объект инициализируется преобразованием матрицы идентичности SVG_TRANSFORM_MATRIX.
 type: docs
 weight: 180
 url: /ru/net/aspose.svg/svgsvgelement/createsvgtransform/

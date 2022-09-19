@@ -1,14 +1,14 @@
 ---
 title: IWindowEventHandlers
 second_title: Aspose.SVG for .NET API 参考
-description: 表示必须被窗口对象继承的接口
+description: 表示窗口对象必须继承的接口
 type: docs
-weight: 3740
+weight: 3750
 url: /zh/net/aspose.svg.window/iwindoweventhandlers/
 ---
 ## IWindowEventHandlers interface
 
-表示必须被窗口对象继承的接口
+表示窗口对象必须继承的接口
 
 ```csharp
 public interface IWindowEventHandlers

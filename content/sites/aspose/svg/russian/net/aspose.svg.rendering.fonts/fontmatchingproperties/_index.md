@@ -1,14 +1,14 @@
 ---
 title: FontMatchingProperties
 second_title: Справочник по Aspose.SVG для .NET API
-description: Этот класс содержит свойства описывающие совпадающий шрифт.
+description: Этот класс содержит свойства описывающие сопоставляемый шрифт.
 type: docs
-weight: 2730
+weight: 2740
 url: /ru/net/aspose.svg.rendering.fonts/fontmatchingproperties/
 ---
 ## FontMatchingProperties class
 
-Этот класс содержит свойства, описывающие совпадающий шрифт.
+Этот класс содержит свойства, описывающие сопоставляемый шрифт.
 
 ```csharp
 public class FontMatchingProperties

@@ -1,14 +1,14 @@
 ---
 title: OnBeforePrint
 second_title: Справочник по Aspose.SVG для .NET API
-description: Получает или задает обработчик событий
+description: Получает или задает обработчик события
 type: docs
 weight: 20
 url: /ru/net/aspose.svg.window/iwindoweventhandlers/onbeforeprint/
 ---
 ## IWindowEventHandlers.OnBeforePrint event
 
-Получает или задает обработчик событий
+Получает или задает обработчик события
 
 ```csharp
 public event DOMEventHandler OnBeforePrint;

@@ -1,14 +1,14 @@
 ---
 title: Mode
 second_title: Aspose.SVG for .NET API 参考
-description: 对应于给定 feBlend 元素的属性 mode采用在此接口上定义的 SVG_FEBLEND_MODE_ 常量之一
+description: 对应于给定 feBlend 元素的属性 mode采用此接口上定义的 SVG_FEBLEND_MODE_ 常量之一
 type: docs
 weight: 40
 url: /zh/net/aspose.svg.filters/svgfeblendelement/mode/
 ---
 ## SVGFEBlendElement.Mode property
 
-对应于给定 'feBlend' 元素的属性 'mode'。采用在此接口上定义的 SVG_FEBLEND_MODE_* 常量之一。
+对应于给定 'feBlend' 元素的属性 'mode'。采用此接口上定义的 SVG_FEBLEND_MODE_* 常量之一。
 
 ```csharp
 public SVGAnimatedEnumeration Mode { get; }
@@ -16,7 +16,7 @@ public SVGAnimatedEnumeration Mode { get; }
 
 ### 适当的价值
 
-给定 'feBlend' 元素的属性 'mode'。
+给定'feBlend'元素的属性'mode'。
 
 ### 也可以看看
 

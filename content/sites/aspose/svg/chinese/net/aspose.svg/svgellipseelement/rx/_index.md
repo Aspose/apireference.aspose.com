@@ -1,14 +1,14 @@
 ---
 title: Rx
 second_title: Aspose.SVG for .NET API 参考
-description: 对应于给定 circle 元素的属性 cx
+description: 对应于给定 circle 元素上的属性 cx
 type: docs
 weight: 30
 url: /zh/net/aspose.svg/svgellipseelement/rx/
 ---
 ## SVGEllipseElement.Rx property
 
-对应于给定 'circle' 元素的属性 'cx'。
+对应于给定 'circle' 元素上的属性 'cx'。
 
 ```csharp
 public SVGAnimatedLength Rx { get; }
@@ -16,7 +16,7 @@ public SVGAnimatedLength Rx { get; }
 
 ### 适当的价值
 
-给定 'circle' 元素的属性 'rx'。
+给定'circle'元素的属性'rx'。
 
 ### 也可以看看
 

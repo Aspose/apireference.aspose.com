@@ -1,14 +1,14 @@
 ---
 title: HttpProtocolMessageHandler
 second_title: Aspose.SVG for .NET API 参考
-description: 初始化HttpProtocolMessageHandleraspose.svg.net.messagehandlers/httpprotocolmessagehandler类的新实例
+description: 初始化HttpProtocolMessageHandleraspose.svg.net.messagehandlers/httpprotocolmessagehandler类.
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.net.messagehandlers/httpprotocolmessagehandler/httpprotocolmessagehandler/
 ---
 ## HttpProtocolMessageHandler constructor
 
-初始化[`HttpProtocolMessageHandler`](../../httpprotocolmessagehandler)类的新实例。
+初始化[`HttpProtocolMessageHandler`](../../httpprotocolmessagehandler)类.
 
 ```csharp
 public HttpProtocolMessageHandler()

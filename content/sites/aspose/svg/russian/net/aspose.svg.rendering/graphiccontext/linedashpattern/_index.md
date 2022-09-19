@@ -1,14 +1,14 @@
 ---
 title: LineDashPattern
 second_title: Справочник по Aspose.SVG для .NET API
-description: Устанавливает или получает описание шаблона пунктира который будет использоваться при обводке путей.
+description: Задает или получает описание шаблона пунктира который будет использоваться при обводке контуров.
 type: docs
 weight: 90
 url: /ru/net/aspose.svg.rendering/graphiccontext/linedashpattern/
 ---
 ## GraphicContext.LineDashPattern property
 
-Устанавливает или получает описание шаблона пунктира, который будет использоваться при обводке путей.
+Задает или получает описание шаблона пунктира, который будет использоваться при обводке контуров.
 
 ```csharp
 public virtual float[] LineDashPattern { get; set; }

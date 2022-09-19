@@ -1,14 +1,14 @@
 ---
 title: NextElementSibling
 second_title: Aspose.SVG for .NET API 参考
-description: 返回后面的第一个同级元素否则返回 null
+description: 返回作为元素的第一个后续兄弟否则返回 null
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.dom/inondocumenttypechildnode/nextelementsibling/
 ---
 ## INonDocumentTypeChildNode.NextElementSibling property
 
-返回后面的第一个同级元素，否则返回 null。
+返回作为元素的第一个后续兄弟，否则返回 null。
 
 ```csharp
 public Element NextElementSibling { get; }

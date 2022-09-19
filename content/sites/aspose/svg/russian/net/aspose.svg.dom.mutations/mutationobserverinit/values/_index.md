@@ -1,14 +1,14 @@
 ---
 title: Values
 second_title: Справочник по Aspose.SVG для .NET API
-description: Получает коллекцию содержащую значения из коллекцииMutationObserverInitaspose.svg.dom.mutations/mutationobserverinit.
+description: Получает коллекцию содержащую значения вMutationObserverInitaspose.svg.dom.mutations/mutationobserverinitколлекция.
 type: docs
 weight: 130
 url: /ru/net/aspose.svg.dom.mutations/mutationobserverinit/values/
 ---
 ## MutationObserverInit.Values property
 
-Получает коллекцию, содержащую значения из коллекции[`MutationObserverInit`](../../mutationobserverinit).
+Получает коллекцию, содержащую значения в[`MutationObserverInit`](../../mutationobserverinit)коллекция.
 
 ```csharp
 public ICollection<object> Values { get; }

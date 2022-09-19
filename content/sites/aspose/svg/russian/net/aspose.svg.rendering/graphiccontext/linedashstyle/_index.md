@@ -1,14 +1,14 @@
 ---
 title: LineDashStyle
 second_title: Справочник по Aspose.SVG для .NET API
-description: Наборы gets в стиле пунктирных линий заштрихованного контура.
+description: Наборы стилей штриховых линий штрихового контура.
 type: docs
 weight: 100
 url: /ru/net/aspose.svg.rendering/graphiccontext/linedashstyle/
 ---
 ## GraphicContext.LineDashStyle property
 
-Наборы gets в стиле пунктирных линий заштрихованного контура.
+Наборы стилей штриховых линий штрихового контура.
 
 ```csharp
 public virtual DashStyle LineDashStyle { get; set; }

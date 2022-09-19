@@ -1,14 +1,14 @@
 ---
 title: AltKey
 second_title: Aspose.SVG for .NET API 参考
-description: 如果 Alt替代或选项键修饰符处于活动状态则为 true该属性的未初始化值必须为假
+description: 如果 Alt替代或选项键修饰符处于活动状态则为 true此属性的未初始化值必须为 false.
 type: docs
 weight: 20
 url: /zh/net/aspose.svg.dom.events/keyboardevent/altkey/
 ---
 ## KeyboardEvent.AltKey property
 
-如果 Alt（替代）（或“选项”）键修饰符处于活动状态，则为 true。该属性的未初始化值必须为假。
+如果 Alt（替代）（或“选项”）键修饰符处于活动状态，则为 true。此属性的未初始化值必须为 false.
 
 ```csharp
 public bool AltKey { get; }
@@ -16,7 +16,7 @@ public bool AltKey { get; }
 
 ### 适当的价值
 
-` true` if Alt;否则，` false` 。
+`真的`如果 Alt;否则，`错误的` .
 
 ### 也可以看看
 

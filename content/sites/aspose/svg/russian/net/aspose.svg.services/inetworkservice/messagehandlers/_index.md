@@ -1,14 +1,14 @@
 ---
 title: MessageHandlers
 second_title: Справочник по Aspose.SVG для .NET API
-description: Получает список экземпляровMessageHandleraspose.svg.net/messagehandler которые будут вызываться какRequestMessageaspose.svg.net/requestmessageвыполняется.
+description: Получает списокMessageHandleraspose.svg.net/messagehandler экземпляры которые будут вызываться какRequestMessageaspose.svg.net/requestmessage выполняет.
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.services/inetworkservice/messagehandlers/
 ---
 ## INetworkService.MessageHandlers property
 
-Получает список экземпляров[`MessageHandler`](../../../aspose.svg.net/messagehandler), которые будут вызываться как[`RequestMessage`](../../../aspose.svg.net/requestmessage)выполняется.
+Получает список[`MessageHandler`](../../../aspose.svg.net/messagehandler) экземпляры, которые будут вызываться как[`RequestMessage`](../../../aspose.svg.net/requestmessage) выполняет.
 
 ```csharp
 public MessageHandlerCollection MessageHandlers { get; }

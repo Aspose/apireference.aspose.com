@@ -1,14 +1,14 @@
 ---
 title: ColorMap
 second_title: Aspose.SVG for .NET API 参考
-description: 元素个数必须是偶数每个偶数元素都是旧颜色每一个奇怪的元素都是新的颜色
+description: 元素个数必须是偶数每个偶数元素都是旧颜色每个奇怪的元素都是新的颜色
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.drawing/itexturebrush/colormap/
 ---
 ## ITextureBrush.ColorMap property
 
-元素个数必须是偶数。每个偶数元素都是旧颜色。每一个奇怪的元素都是新的颜色。
+元素个数必须是偶数。每个偶数元素都是旧颜色。每个奇怪的元素都是新的颜色。
 
 ```csharp
 public Color[] ColorMap { get; }
@@ -16,7 +16,7 @@ public Color[] ColorMap { get; }
 
 ### 适当的价值
 
-颜色图。
+彩色图。
 
 ### 也可以看看
 

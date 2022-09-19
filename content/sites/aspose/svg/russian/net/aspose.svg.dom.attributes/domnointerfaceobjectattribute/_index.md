@@ -3,7 +3,7 @@ title: DOMNoInterfaceObjectAttribute
 second_title: Справочник по Aspose.SVG для .NET API
 description: Если в интерфейсе появляется расширенный атрибут NoInterfaceObject это означает что объект интерфейса не будет существовать для интерфейса в привязке ECMAScript.
 type: docs
-weight: 410
+weight: 400
 url: /ru/net/aspose.svg.dom.attributes/domnointerfaceobjectattribute/
 ---
 ## DOMNoInterfaceObjectAttribute class

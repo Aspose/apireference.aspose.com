@@ -1,14 +1,14 @@
 ---
 title: MutationObserver
 second_title: Aspose.SVG for .NET API 参考
-description: 构造一个 MutationObserver 对象并将其MutationCallbackaspose.svg.dom.mutations/mutationcallback设置为回调 调用回调时将 MutationRecord 对象列表作为第一个参数将构造的 MutationObserver 对象作为第二个参数它在使用 ltsee crefObserveNode IMutationObserverInit /gt 方法注册的节点发生变异后调用
+description: 构造一个 MutationObserver 对象并设置它的MutationCallbackaspose.svg.dom.mutations/mutationcallback回调 使用 MutationRecord 对象列表作为第一个参数和构造的 MutationObserver 对象作为第二个参数调用回调它在节点注册后调用ObserveNode IMutationObserverInit方法是变异的
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.dom.mutations/mutationobserver/mutationobserver/
 ---
 ## MutationObserver constructor
 
-构造一个 MutationObserver 对象并将其[`MutationCallback`](../../mutationcallback)设置为回调。 调用回调时，将 MutationRecord 对象列表作为第一个参数，将构造的 MutationObserver 对象作为第二个参数。它在使用 &lt;see cref="!:Observe(Node, IMutationObserverInit)" /&gt; 方法注册的节点发生变异后调用。
+构造一个 MutationObserver 对象并设置它的[`MutationCallback`](../../mutationcallback)回调。 使用 MutationRecord 对象列表作为第一个参数和构造的 MutationObserver 对象作为第二个参数调用回调。它在节点注册后调用!:Observe(Node, IMutationObserverInit)方法，是变异的。
 
 ```csharp
 public MutationObserver(MutationCallback callback)

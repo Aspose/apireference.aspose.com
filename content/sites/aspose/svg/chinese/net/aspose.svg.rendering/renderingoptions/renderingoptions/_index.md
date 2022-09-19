@@ -1,14 +1,14 @@
 ---
 title: RenderingOptions
 second_title: Aspose.SVG for .NET API 参考
-description: 初始化RenderingOptionsaspose.svg.rendering/renderingoptions类的新实例
+description: 初始化RenderingOptionsaspose.svg.rendering/renderingoptions类.
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.rendering/renderingoptions/renderingoptions/
 ---
 ## RenderingOptions constructor
 
-初始化[`RenderingOptions`](../../renderingoptions)类的新实例。
+初始化[`RenderingOptions`](../../renderingoptions)类.
 
 ```csharp
 public RenderingOptions()

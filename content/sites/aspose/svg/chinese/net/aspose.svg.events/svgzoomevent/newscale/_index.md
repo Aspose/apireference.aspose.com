@@ -1,14 +1,14 @@
 ---
 title: NewScale
 second_title: Aspose.SVG for .NET API 参考
-description: 处理完缩放操作后的比例因子
+description: 处理缩放操作后的比例因子
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.events/svgzoomevent/newscale/
 ---
 ## SVGZoomEvent.NewScale property
 
-处理完缩放操作后的比例因子。
+处理缩放操作后的比例因子。
 
 ```csharp
 public float NewScale { get; }

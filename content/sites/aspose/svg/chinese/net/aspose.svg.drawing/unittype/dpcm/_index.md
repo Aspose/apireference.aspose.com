@@ -1,14 +1,14 @@
 ---
 title: Dpcm
 second_title: Aspose.SVG for .NET API 参考
-description: 测量单位为每厘米点数
+description: 以每厘米点数为单位
 type: docs
 weight: 50
 url: /zh/net/aspose.svg.drawing/unittype/dpcm/
 ---
 ## UnitType.Dpcm field
 
-测量单位为每厘米点数。
+以每厘米点数为单位。
 
 ```csharp
 public static readonly UnitType Dpcm;

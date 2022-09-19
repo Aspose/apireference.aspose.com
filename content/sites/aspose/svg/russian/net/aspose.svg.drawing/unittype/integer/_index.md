@@ -1,14 +1,14 @@
 ---
 title: Integer
 second_title: Справочник по Aspose.SVG для .NET API
-description: Измерение - целое число.
+description: Измерение представляет собой целое число.
 type: docs
 weight: 130
 url: /ru/net/aspose.svg.drawing/unittype/integer/
 ---
 ## UnitType.Integer field
 
-Измерение - целое число.
+Измерение представляет собой целое число.
 
 ```csharp
 public static readonly UnitType Integer;

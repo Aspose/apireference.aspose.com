@@ -1,14 +1,14 @@
 ---
 title: NotationName
 second_title: Справочник по Aspose.SVG для .NET API
-description: Для неразобранных сущностей имя нотации для сущности. Для проанализированных сущностей это значение равно null.
+description: Для неразобранных сущностей имя нотации для сущности. Для проанализированных сущностей это null.
 type: docs
 weight: 40
 url: /ru/net/aspose.svg.dom/entity/notationname/
 ---
 ## Entity.NotationName property
 
-Для неразобранных сущностей имя нотации для сущности. Для проанализированных сущностей это значение равно null.
+Для неразобранных сущностей имя нотации для сущности. Для проанализированных сущностей это null.
 
 ```csharp
 public string NotationName { get; }

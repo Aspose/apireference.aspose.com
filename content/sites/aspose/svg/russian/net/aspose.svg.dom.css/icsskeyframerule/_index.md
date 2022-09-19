@@ -3,7 +3,7 @@ title: ICSSKeyframeRule
 second_title: Справочник по Aspose.SVG для .NET API
 description: Интерфейс CSSKeyframeRule представляет правило стиля для одного ключа.
 type: docs
-weight: 580
+weight: 570
 url: /ru/net/aspose.svg.dom.css/icsskeyframerule/
 ---
 ## ICSSKeyframeRule interface

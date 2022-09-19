@@ -3,7 +3,7 @@ title: IRuntimeService
 second_title: Aspose.SVG for .NET API 参考
 description: 该服务用于配置运行时相关的属性
 type: docs
-weight: 3670
+weight: 3680
 url: /zh/net/aspose.svg.services/iruntimeservice/
 ---
 ## IRuntimeService interface
@@ -18,7 +18,7 @@ public interface IRuntimeService : IService
 
 | 姓名 | 描述 |
 | --- | --- |
-| [JavaScriptTimeout](../../aspose.svg.services/iruntimeservice/javascripttimeout) { get; set; } | 获取或设置限制 JavaScript 执行时间的TimeSpan。如果脚本执行的时间超过提供的TimeSpan，它将被取消。您可以通过将TimeSpan设置为-1 毫秒来指定无限超时。默认值为 1 分钟。 |
+| [JavaScriptTimeout](../../aspose.svg.services/iruntimeservice/javascripttimeout) { get; set; } | 获取或设置TimeSpan这限制了 JavaScript 的执行时间。如果脚本执行的时间比提供的时间长TimeSpan，它将被取消。您可以通过设置指定无限超时TimeSpan等于 -1 毫秒。默认值为 1 分钟。 |
 
 ### 也可以看看
 

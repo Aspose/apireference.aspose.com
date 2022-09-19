@@ -1,14 +1,14 @@
 ---
 title: FtpProtocolMessageHandler
 second_title: Справочник по Aspose.SVG для .NET API
-description: Представляет обработчик сообщений протокола ftp .
+description: ПредставляетFTP обработчик сообщений протокола.
 type: docs
-weight: 2330
+weight: 2340
 url: /ru/net/aspose.svg.net.messagehandlers/ftpprotocolmessagehandler/
 ---
 ## FtpProtocolMessageHandler class
 
-Представляет обработчик сообщений протокола` ftp:` .
+Представляет`FTP:` обработчик сообщений протокола.
 
 ```csharp
 public class FtpProtocolMessageHandler : MessageHandler
@@ -18,7 +18,7 @@ public class FtpProtocolMessageHandler : MessageHandler
 
 | Имя | Описание |
 | --- | --- |
-| [FtpProtocolMessageHandler](ftpprotocolmessagehandler)() | Инициализирует новый экземпляр класса[`FtpProtocolMessageHandler`](../ftpprotocolmessagehandler). |
+| [FtpProtocolMessageHandler](ftpprotocolmessagehandler)() | Инициализирует новый экземпляр[`FtpProtocolMessageHandler`](../ftpprotocolmessagehandler) класс. |
 
 ## Характеристики
 

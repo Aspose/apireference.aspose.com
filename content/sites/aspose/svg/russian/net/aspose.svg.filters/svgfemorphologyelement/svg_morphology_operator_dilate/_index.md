@@ -8,7 +8,7 @@ url: /ru/net/aspose.svg.filters/svgfemorphologyelement/svg_morphology_operator_d
 ---
 ## SVGFEMorphologyElement.SVG_MORPHOLOGY_OPERATOR_DILATE field
 
-Соответствует значению 'расширить'.
+Соответствует значению «расширить».
 
 ```csharp
 public const ushort SVG_MORPHOLOGY_OPERATOR_DILATE;

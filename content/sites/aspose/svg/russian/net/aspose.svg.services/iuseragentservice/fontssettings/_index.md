@@ -1,14 +1,14 @@
 ---
 title: FontsSettings
 second_title: Справочник по Aspose.SVG для .NET API
-description: Получает объектHtml.FontsSettings который используется для настройки обработки шрифтов.
+description: ПолучаетHtml.FontsSettings объект который используется для настройки обработки шрифтов.
 type: docs
 weight: 30
 url: /ru/net/aspose.svg.services/iuseragentservice/fontssettings/
 ---
 ## IUserAgentService.FontsSettings property
 
-Получает объект!:Html.FontsSettings, который используется для настройки обработки шрифтов.
+Получает!:Html.FontsSettings объект, который используется для настройки обработки шрифтов.
 
 ```csharp
 public FontsSettings FontsSettings { get; }
@@ -16,7 +16,7 @@ public FontsSettings FontsSettings { get; }
 
 ### Стоимость имущества
 
-Настройки!:Html.FontsSettings.
+!:Html.FontsSettings настройки.
 
 ### Смотрите также
 

@@ -1,14 +1,14 @@
 ---
 title: SVGDocument
 second_title: Справочник по Aspose.SVG для .NET API
-description: Инициализирует новый экземпляр классаSVGDocumentaspose.svg/svgdocument.
+description: Инициализирует новый экземплярSVGDocumentaspose.svg/svgdocument класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.svg/svgdocument/svgdocument/
 ---
 ## SVGDocument() {#constructor}
 
-Инициализирует новый экземпляр класса[`SVGDocument`](../../svgdocument).
+Инициализирует новый экземпляр[`SVGDocument`](../../svgdocument) класс.
 
 ```csharp
 public SVGDocument()
@@ -24,7 +24,7 @@ public SVGDocument()
 
 ## SVGDocument(Configuration) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`SVGDocument`](../../svgdocument).
+Инициализирует новый экземпляр[`SVGDocument`](../../svgdocument) класс.
 
 ```csharp
 public SVGDocument(Configuration configuration)
@@ -45,7 +45,7 @@ public SVGDocument(Configuration configuration)
 
 ## SVGDocument(string) {#constructor_10}
 
-Инициализирует новый экземпляр класса[`SVGDocument`](../../svgdocument). Конструктор работает синхронно, он ожидает загрузки всех внешних ресурсов (изображений, скриптов и т.д.). Для асинхронной загрузки документа используйте метод[`Navigate`](../../../aspose.svg.dom/document/navigate)или его перегрузки. Или вы можете отключить загрузку некоторых внешних ресурсов, установив соответствующие флаги в[`Security`](../../../aspose.svg.dom/ibrowsingcontext/security).
+Инициализирует новый экземпляр[`SVGDocument`](../../svgdocument)учебный класс. Конструктор работает синхронно, он ожидает загрузки всех внешних ресурсов (изображений, скриптов и т.д.). Для асинхронной загрузки документа используйте метод[`Navigate`](../../../aspose.svg.dom/document/navigate) или его перегрузки. Либо можно отключить загрузку некоторых внешних ресурсов, установив соответствующие флаги в[`Security`](../../../aspose.svg.dom/ibrowsingcontext/security) .
 
 ```csharp
 public SVGDocument(string address)
@@ -65,7 +65,7 @@ public SVGDocument(string address)
 
 ## SVGDocument(Url) {#constructor_4}
 
-Инициализирует новый экземпляр класса[`SVGDocument`](../../svgdocument). Конструктор работает синхронно, он ожидает загрузки всех внешних ресурсов (изображений, скриптов и т.д.). Для асинхронной загрузки документа используйте метод[`Navigate`](../../../aspose.svg.dom/document/navigate)или его перегрузки. Или вы можете отключить загрузку некоторых внешних ресурсов, установив соответствующие флаги в[`Security`](../../../aspose.svg.dom/ibrowsingcontext/security).
+Инициализирует новый экземпляр[`SVGDocument`](../../svgdocument)учебный класс. Конструктор работает синхронно, он ожидает загрузки всех внешних ресурсов (изображений, скриптов и т.д.). Для асинхронной загрузки документа используйте метод[`Navigate`](../../../aspose.svg.dom/document/navigate) или его перегрузки. Либо можно отключить загрузку некоторых внешних ресурсов, установив соответствующие флаги в[`Security`](../../../aspose.svg.dom/ibrowsingcontext/security) .
 
 ```csharp
 public SVGDocument(Url url)
@@ -73,7 +73,7 @@ public SVGDocument(Url url)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| url | Url | URL документа. |
+| url | Url | URL-адрес документа. |
 
 ### Смотрите также
 
@@ -86,7 +86,7 @@ public SVGDocument(Url url)
 
 ## SVGDocument(string, Configuration) {#constructor_11}
 
-Инициализирует новый экземпляр класса[`SVGDocument`](../../svgdocument). Конструктор работает синхронно, он ожидает загрузки всех внешних ресурсов (изображений, скриптов и т.д.). Для асинхронной загрузки документа используйте метод[`Navigate`](../../../aspose.svg.dom/document/navigate)или его перегрузки. Или вы можете отключить загрузку некоторых внешних ресурсов, установив соответствующие флаги в[`Security`](../../../aspose.svg.dom/ibrowsingcontext/security).
+Инициализирует новый экземпляр[`SVGDocument`](../../svgdocument)учебный класс. Конструктор работает синхронно, он ожидает загрузки всех внешних ресурсов (изображений, скриптов и т.д.). Для асинхронной загрузки документа используйте метод[`Navigate`](../../../aspose.svg.dom/document/navigate) или его перегрузки. Либо можно отключить загрузку некоторых внешних ресурсов, установив соответствующие флаги в[`Security`](../../../aspose.svg.dom/ibrowsingcontext/security) .
 
 ```csharp
 public SVGDocument(string address, Configuration configuration)
@@ -108,7 +108,7 @@ public SVGDocument(string address, Configuration configuration)
 
 ## SVGDocument(Url, Configuration) {#constructor_5}
 
-Инициализирует новый экземпляр класса[`SVGDocument`](../../svgdocument). Конструктор работает синхронно, он ожидает загрузки всех внешних ресурсов (изображений, скриптов и т.д.). Для асинхронной загрузки документа используйте метод[`Navigate`](../../../aspose.svg.dom/document/navigate)или его перегрузки. Или вы можете отключить загрузку некоторых внешних ресурсов, установив соответствующие флаги в[`Security`](../../../aspose.svg.dom/ibrowsingcontext/security).
+Инициализирует новый экземпляр[`SVGDocument`](../../svgdocument)учебный класс. Конструктор работает синхронно, он ожидает загрузки всех внешних ресурсов (изображений, скриптов и т.д.). Для асинхронной загрузки документа используйте метод[`Navigate`](../../../aspose.svg.dom/document/navigate) или его перегрузки. Либо можно отключить загрузку некоторых внешних ресурсов, установив соответствующие флаги в[`Security`](../../../aspose.svg.dom/ibrowsingcontext/security) .
 
 ```csharp
 public SVGDocument(Url url, Configuration configuration)
@@ -116,7 +116,7 @@ public SVGDocument(Url url, Configuration configuration)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| url | Url | URL документа. |
+| url | Url | URL-адрес документа. |
 | configuration | Configuration | Конфигурация. |
 
 ### Смотрите также
@@ -131,7 +131,7 @@ public SVGDocument(Url url, Configuration configuration)
 
 ## SVGDocument(Stream, string) {#constructor_8}
 
-Инициализирует новый экземпляр класса[`SVGDocument`](../../svgdocument). Конструктор работает синхронно, он ожидает загрузки всех внешних ресурсов (изображений, скриптов и т.д.). Для асинхронной загрузки документа используйте метод[`Navigate`](../../../aspose.svg.dom/document/navigate)или его перегрузки. Или вы можете отключить загрузку некоторых внешних ресурсов, установив соответствующие флаги в[`Security`](../../../aspose.svg.dom/ibrowsingcontext/security). Загрузка документа начинается с текущей позиции в потоке.
+Инициализирует новый экземпляр[`SVGDocument`](../../svgdocument)учебный класс. Конструктор работает синхронно, он ожидает загрузки всех внешних ресурсов (изображений, скриптов и т.д.). Для асинхронной загрузки документа используйте метод[`Navigate`](../../../aspose.svg.dom/document/navigate) или его перегрузки. Либо можно отключить загрузку некоторых внешних ресурсов, установив соответствующие флаги в[`Security`](../../../aspose.svg.dom/ibrowsingcontext/security) . Загрузка документа начинается с текущей позиции в потоке.
 
 ```csharp
 public SVGDocument(Stream content, string baseUri)
@@ -146,7 +146,7 @@ public SVGDocument(Stream content, string baseUri)
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | ` baseUri` is` null` . |
+| ArgumentNullException | `baseUri` является`нулевой`. |
 
 ### Смотрите также
 
@@ -158,7 +158,7 @@ public SVGDocument(Stream content, string baseUri)
 
 ## SVGDocument(Stream, string, Configuration) {#constructor_9}
 
-Инициализирует новый экземпляр класса[`SVGDocument`](../../svgdocument). Конструктор работает синхронно, он ожидает загрузки всех внешних ресурсов (изображений, скриптов и т.д.). Для асинхронной загрузки документа используйте метод[`Navigate`](../../../aspose.svg.dom/document/navigate)или его перегрузки. Или вы можете отключить загрузку некоторых внешних ресурсов, установив соответствующие флаги в[`Security`](../../../aspose.svg.dom/ibrowsingcontext/security). Загрузка документа начинается с текущей позиции в потоке.
+Инициализирует новый экземпляр[`SVGDocument`](../../svgdocument)учебный класс. Конструктор работает синхронно, он ожидает загрузки всех внешних ресурсов (изображений, скриптов и т.д.). Для асинхронной загрузки документа используйте метод[`Navigate`](../../../aspose.svg.dom/document/navigate) или его перегрузки. Либо можно отключить загрузку некоторых внешних ресурсов, установив соответствующие флаги в[`Security`](../../../aspose.svg.dom/ibrowsingcontext/security) . Загрузка документа начинается с текущей позиции в потоке.
 
 ```csharp
 public SVGDocument(Stream content, string baseUri, Configuration configuration)
@@ -174,7 +174,7 @@ public SVGDocument(Stream content, string baseUri, Configuration configuration)
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | ` baseUri` is` null` . |
+| ArgumentNullException | `baseUri` является`нулевой`. |
 
 ### Смотрите также
 
@@ -187,7 +187,7 @@ public SVGDocument(Stream content, string baseUri, Configuration configuration)
 
 ## SVGDocument(Stream, Url) {#constructor_6}
 
-Инициализирует новый экземпляр класса[`SVGDocument`](../../svgdocument). Конструктор работает синхронно, он ожидает загрузки всех внешних ресурсов (изображений, скриптов и т.д.). Для асинхронной загрузки документа используйте метод[`Navigate`](../../../aspose.svg.dom/document/navigate)или его перегрузки. Или вы можете отключить загрузку некоторых внешних ресурсов, установив соответствующие флаги в[`Security`](../../../aspose.svg.dom/ibrowsingcontext/security). Загрузка документа начинается с текущей позиции в потоке.
+Инициализирует новый экземпляр[`SVGDocument`](../../svgdocument)учебный класс. Конструктор работает синхронно, он ожидает загрузки всех внешних ресурсов (изображений, скриптов и т.д.). Для асинхронной загрузки документа используйте метод[`Navigate`](../../../aspose.svg.dom/document/navigate) или его перегрузки. Либо можно отключить загрузку некоторых внешних ресурсов, установив соответствующие флаги в[`Security`](../../../aspose.svg.dom/ibrowsingcontext/security) . Загрузка документа начинается с текущей позиции в потоке.
 
 ```csharp
 public SVGDocument(Stream content, Url baseUri)
@@ -202,7 +202,7 @@ public SVGDocument(Stream content, Url baseUri)
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | ` baseUri` is` null` . |
+| ArgumentNullException | `baseUri` является`нулевой`. |
 
 ### Смотрите также
 
@@ -215,7 +215,7 @@ public SVGDocument(Stream content, Url baseUri)
 
 ## SVGDocument(Stream, Url, Configuration) {#constructor_7}
 
-Инициализирует новый экземпляр класса[`SVGDocument`](../../svgdocument). Конструктор работает синхронно, он ожидает загрузки всех внешних ресурсов (изображений, скриптов и т.д.). Для асинхронной загрузки документа используйте метод[`Navigate`](../../../aspose.svg.dom/document/navigate)или его перегрузки. Или вы можете отключить загрузку некоторых внешних ресурсов, установив соответствующие флаги в[`Security`](../../../aspose.svg.dom/ibrowsingcontext/security). Загрузка документа начинается с текущей позиции в потоке.
+Инициализирует новый экземпляр[`SVGDocument`](../../svgdocument)учебный класс. Конструктор работает синхронно, он ожидает загрузки всех внешних ресурсов (изображений, скриптов и т.д.). Для асинхронной загрузки документа используйте метод[`Navigate`](../../../aspose.svg.dom/document/navigate) или его перегрузки. Либо можно отключить загрузку некоторых внешних ресурсов, установив соответствующие флаги в[`Security`](../../../aspose.svg.dom/ibrowsingcontext/security) . Загрузка документа начинается с текущей позиции в потоке.
 
 ```csharp
 public SVGDocument(Stream content, Url baseUri, Configuration configuration)
@@ -231,7 +231,7 @@ public SVGDocument(Stream content, Url baseUri, Configuration configuration)
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | ` baseUri` is` null` . |
+| ArgumentNullException | `baseUri` является`нулевой`. |
 
 ### Смотрите также
 
@@ -245,7 +245,7 @@ public SVGDocument(Stream content, Url baseUri, Configuration configuration)
 
 ## SVGDocument(string, string) {#constructor_14}
 
-Инициализирует новый экземпляр класса[`SVGDocument`](../../svgdocument). Конструктор работает синхронно, он ожидает загрузки всех внешних ресурсов (изображений, скриптов и т.д.). Для асинхронной загрузки документа используйте метод[`Navigate`](../../../aspose.svg.dom/document/navigate)или его перегрузки. Или вы можете отключить загрузку некоторых внешних ресурсов, установив соответствующие флаги в[`Security`](../../../aspose.svg.dom/ibrowsingcontext/security).
+Инициализирует новый экземпляр[`SVGDocument`](../../svgdocument)учебный класс. Конструктор работает синхронно, он ожидает загрузки всех внешних ресурсов (изображений, скриптов и т.д.). Для асинхронной загрузки документа используйте метод[`Navigate`](../../../aspose.svg.dom/document/navigate) или его перегрузки. Либо можно отключить загрузку некоторых внешних ресурсов, установив соответствующие флаги в[`Security`](../../../aspose.svg.dom/ibrowsingcontext/security) .
 
 ```csharp
 public SVGDocument(string content, string baseUri)
@@ -260,7 +260,7 @@ public SVGDocument(string content, string baseUri)
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | ` baseUri` is` null` . |
+| ArgumentNullException | `baseUri` является`нулевой`. |
 
 ### Смотрите также
 
@@ -272,7 +272,7 @@ public SVGDocument(string content, string baseUri)
 
 ## SVGDocument(string, string, Configuration) {#constructor_15}
 
-Инициализирует новый экземпляр класса[`SVGDocument`](../../svgdocument). Конструктор работает синхронно, он ожидает загрузки всех внешних ресурсов (изображений, скриптов и т.д.). Для асинхронной загрузки документа используйте метод[`Navigate`](../../../aspose.svg.dom/document/navigate)или его перегрузки. Или вы можете отключить загрузку некоторых внешних ресурсов, установив соответствующие флаги в[`Security`](../../../aspose.svg.dom/ibrowsingcontext/security).
+Инициализирует новый экземпляр[`SVGDocument`](../../svgdocument)учебный класс. Конструктор работает синхронно, он ожидает загрузки всех внешних ресурсов (изображений, скриптов и т.д.). Для асинхронной загрузки документа используйте метод[`Navigate`](../../../aspose.svg.dom/document/navigate) или его перегрузки. Либо можно отключить загрузку некоторых внешних ресурсов, установив соответствующие флаги в[`Security`](../../../aspose.svg.dom/ibrowsingcontext/security) .
 
 ```csharp
 public SVGDocument(string content, string baseUri, Configuration configuration)
@@ -288,7 +288,7 @@ public SVGDocument(string content, string baseUri, Configuration configuration)
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | ` baseUri` is` null` . |
+| ArgumentNullException | `baseUri` является`нулевой`. |
 
 ### Смотрите также
 
@@ -301,7 +301,7 @@ public SVGDocument(string content, string baseUri, Configuration configuration)
 
 ## SVGDocument(string, Url) {#constructor_12}
 
-Инициализирует новый экземпляр класса[`SVGDocument`](../../svgdocument). Конструктор работает синхронно, он ожидает загрузки всех внешних ресурсов (изображений, скриптов и т.д.). Для асинхронной загрузки документа используйте метод[`Navigate`](../../../aspose.svg.dom/document/navigate)или его перегрузки. Или вы можете отключить загрузку некоторых внешних ресурсов, установив соответствующие флаги в[`Security`](../../../aspose.svg.dom/ibrowsingcontext/security).
+Инициализирует новый экземпляр[`SVGDocument`](../../svgdocument)учебный класс. Конструктор работает синхронно, он ожидает загрузки всех внешних ресурсов (изображений, скриптов и т.д.). Для асинхронной загрузки документа используйте метод[`Navigate`](../../../aspose.svg.dom/document/navigate) или его перегрузки. Либо можно отключить загрузку некоторых внешних ресурсов, установив соответствующие флаги в[`Security`](../../../aspose.svg.dom/ibrowsingcontext/security) .
 
 ```csharp
 public SVGDocument(string content, Url baseUri)
@@ -316,7 +316,7 @@ public SVGDocument(string content, Url baseUri)
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | ` baseUri` is` null` . |
+| ArgumentNullException | `baseUri` является`нулевой`. |
 
 ### Смотрите также
 
@@ -329,7 +329,7 @@ public SVGDocument(string content, Url baseUri)
 
 ## SVGDocument(string, Url, Configuration) {#constructor_13}
 
-Инициализирует новый экземпляр класса[`SVGDocument`](../../svgdocument). Конструктор работает синхронно, он ожидает загрузки всех внешних ресурсов (изображений, скриптов и т.д.). Для асинхронной загрузки документа используйте метод[`Navigate`](../../../aspose.svg.dom/document/navigate)или его перегрузки. Или вы можете отключить загрузку некоторых внешних ресурсов, установив соответствующие флаги в[`Security`](../../../aspose.svg.dom/ibrowsingcontext/security).
+Инициализирует новый экземпляр[`SVGDocument`](../../svgdocument)учебный класс. Конструктор работает синхронно, он ожидает загрузки всех внешних ресурсов (изображений, скриптов и т.д.). Для асинхронной загрузки документа используйте метод[`Navigate`](../../../aspose.svg.dom/document/navigate) или его перегрузки. Либо можно отключить загрузку некоторых внешних ресурсов, установив соответствующие флаги в[`Security`](../../../aspose.svg.dom/ibrowsingcontext/security) .
 
 ```csharp
 public SVGDocument(string content, Url baseUri, Configuration configuration)
@@ -345,7 +345,7 @@ public SVGDocument(string content, Url baseUri, Configuration configuration)
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | ` baseUri` is` null` . |
+| ArgumentNullException | `baseUri` является`нулевой`. |
 
 ### Смотрите также
 
@@ -359,7 +359,7 @@ public SVGDocument(string content, Url baseUri, Configuration configuration)
 
 ## SVGDocument(RequestMessage) {#constructor_2}
 
-Инициализирует новый экземпляр класса[`SVGDocument`](../../svgdocument). Конструктор работает синхронно, он ожидает загрузки всех внешних ресурсов (изображений, скриптов и т.д.). Для асинхронной загрузки документа используйте метод[`Navigate`](../../../aspose.svg.dom/document/navigate)или его перегрузки. Или вы можете отключить загрузку некоторых внешних ресурсов, установив соответствующие флаги в[`Security`](../../../aspose.svg.dom/ibrowsingcontext/security).
+Инициализирует новый экземпляр[`SVGDocument`](../../svgdocument)учебный класс. Конструктор работает синхронно, он ожидает загрузки всех внешних ресурсов (изображений, скриптов и т.д.). Для асинхронной загрузки документа используйте метод[`Navigate`](../../../aspose.svg.dom/document/navigate) или его перегрузки. Либо можно отключить загрузку некоторых внешних ресурсов, установив соответствующие флаги в[`Security`](../../../aspose.svg.dom/ibrowsingcontext/security) .
 
 ```csharp
 public SVGDocument(RequestMessage request)
@@ -380,7 +380,7 @@ public SVGDocument(RequestMessage request)
 
 ## SVGDocument(RequestMessage, Configuration) {#constructor_3}
 
-Инициализирует новый экземпляр класса[`SVGDocument`](../../svgdocument). Конструктор работает синхронно, он ожидает загрузки всех внешних ресурсов (изображений, скриптов и т.д.). Для асинхронной загрузки документа используйте метод[`Navigate`](../../../aspose.svg.dom/document/navigate)или его перегрузки. Или вы можете отключить загрузку некоторых внешних ресурсов, установив соответствующие флаги в[`Security`](../../../aspose.svg.dom/ibrowsingcontext/security).
+Инициализирует новый экземпляр[`SVGDocument`](../../svgdocument)учебный класс. Конструктор работает синхронно, он ожидает загрузки всех внешних ресурсов (изображений, скриптов и т.д.). Для асинхронной загрузки документа используйте метод[`Navigate`](../../../aspose.svg.dom/document/navigate) или его перегрузки. Либо можно отключить загрузку некоторых внешних ресурсов, установив соответствующие флаги в[`Security`](../../../aspose.svg.dom/ibrowsingcontext/security) .
 
 ```csharp
 public SVGDocument(RequestMessage request, Configuration configuration)

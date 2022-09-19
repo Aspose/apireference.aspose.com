@@ -1,12 +1,12 @@
 ---
 title: Aspose.Svg.Dom.Views
 second_title: Aspose.SVG for .NET API 参考
-description: Aspose.Svg.Dom.Views 命名空间根据 文档对象模型视图规范描述 AbstractView 和 DocumentView 接口
+description: Aspose.Svg.Dom.Views命名空间描述 AbstractView 和 DocumentView 接口根据 文档对象模型视图规范
 type: docs
 weight: 120
 url: /zh/net/aspose.svg.dom.views/
 ---
-**Aspose.Svg.Dom.Views** 命名空间根据 文档对象模型视图规范描述 AbstractView 和 DocumentView 接口。
+**Aspose.Svg.Dom.Views**命名空间描述 AbstractView 和 DocumentView 接口根据 文档对象模型视图规范。
 
 ## 接口
 

@@ -1,14 +1,14 @@
 ---
 title: LookupNamespaceURI
 second_title: Aspose.SVG for .NET API 参考
-description: 查找与给定名称空间前缀关联的名称空间 URI XPath 求值器绝不能使用 null 或空的 参数调用它因为这样做的结果是未定义的
+description: 查找与给定命名空间前缀关联的命名空间 URI XPath 求值器决不能用无效的或空 参数因为这样做的结果是未定义的
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.dom.xpath/ixpathnsresolver/lookupnamespaceuri/
 ---
 ## IXPathNSResolver.LookupNamespaceURI method
 
-查找与给定名称空间前缀关联的名称空间 URI。 XPath 求值器绝不能使用` null` 或空的 参数调用它，因为这样做的结果是未定义的。
+查找与给定命名空间前缀关联的命名空间 URI。 XPath 求值器决不能用`无效的`或空 参数，因为这样做的结果是未定义的。
 
 ```csharp
 public string LookupNamespaceURI(string prefix)
@@ -20,7 +20,7 @@ public string LookupNamespaceURI(string prefix)
 
 ### 返回值
 
-返回关联的命名空间 URI 或` null` 如果没有找到 。
+返回关联的命名空间 URI 或`无效的`如果没有找到 。
 
 ### 也可以看看
 

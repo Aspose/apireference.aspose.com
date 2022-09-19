@@ -1,14 +1,14 @@
 ---
 title: Angle
 second_title: Aspose.SVG for .NET API 参考
-description: 椭圆 x 轴相对于用户坐标系 x 轴的旋转角度以度为单位
+description: 椭圆的 x 轴相对于用户坐标系的 x 轴的旋转角度以度为单位
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.paths/svgpathsegarcrel/angle/
 ---
 ## SVGPathSegArcRel.Angle property
 
-椭圆 x 轴相对于用户坐标系 x 轴的旋转角度，以度为单位。
+椭圆的 x 轴相对于用户坐标系的 x 轴的旋转角度（以度为单位）。
 
 ```csharp
 public float Angle { get; set; }
@@ -22,7 +22,7 @@ public float Angle { get; set; }
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception) | 代码[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err)。 在尝试更改只读属性的值时引发。 |
+| [DOMException](../../../aspose.svg.dom/domexception) | 代码[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err) . 尝试更改只读属性的值时引发。 |
 
 ### 也可以看看
 

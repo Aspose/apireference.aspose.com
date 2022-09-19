@@ -3,7 +3,7 @@ title: GlyphInfo
 second_title: Справочник по Aspose.SVG для .NET API
 description: Содержит информацию связанную с глифами.
 type: docs
-weight: 2740
+weight: 2750
 url: /ru/net/aspose.svg.rendering/glyphinfo/
 ---
 ## GlyphInfo structure
@@ -26,7 +26,7 @@ public struct GlyphInfo
 
 | Имя | Описание |
 | --- | --- |
-| override [ToString](../../aspose.svg.rendering/glyphinfo/tostring)() | ВозвращаетString, представляющий этот экземпляр. |
+| override [ToString](../../aspose.svg.rendering/glyphinfo/tostring)() | ВозвращаетString который представляет этот экземпляр. |
 
 ### Смотрите также
 

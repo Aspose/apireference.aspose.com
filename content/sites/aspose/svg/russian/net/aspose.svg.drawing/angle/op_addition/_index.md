@@ -16,8 +16,8 @@ public static Angle operator +(Angle a, Angle b)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| a | Angle | Параметр a. |
-| b | Angle | Параметр b. |
+| a | Angle | Параметр а. |
+| b | Angle | Параметр б. |
 
 ### Возвращаемое значение
 

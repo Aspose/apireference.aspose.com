@@ -1,14 +1,14 @@
 ---
 title: IParentNode
 second_title: Справочник по Aspose.SVG для .NET API
-description: Определяет интерфейсIParentNode./iparentnode который реализуется любыми возможными родительскими узлами.
+description: ОпределяетIParentNode./iparentnode интерфейс который реализуется любыми возможными родителями.
 type: docs
-weight: 1110
+weight: 1100
 url: /ru/net/aspose.svg.dom/iparentnode/
 ---
 ## IParentNode interface
 
-Определяет интерфейс[`IParentNode`](../iparentnode), который реализуется любыми возможными родительскими узлами.
+Определяет[`IParentNode`](../iparentnode) интерфейс, который реализуется любыми возможными родителями.
 
 ```csharp
 public interface IParentNode : IElementTraversal
@@ -18,7 +18,7 @@ public interface IParentNode : IElementTraversal
 
 | Имя | Описание |
 | --- | --- |
-| [ChildElementCount](../../aspose.svg.dom/iparentnode/childelementcount) { get; } | Атрибут childElementCount должен возвращать количество дочерних элементов контекстного объекта, которые являются элементами. |
+| [ChildElementCount](../../aspose.svg.dom/iparentnode/childelementcount) { get; } | Атрибут childElementCount должен возвращать количество дочерних элементов объекта контекста, которые являются элементами. |
 | [Children](../../aspose.svg.dom/iparentnode/children) { get; } | Возвращает дочерние элементы. |
 | [FirstElementChild](../../aspose.svg.dom/iparentnode/firstelementchild) { get; } | Возвращает первый дочерний элемент, иначе null. |
 | [LastElementChild](../../aspose.svg.dom/iparentnode/lastelementchild) { get; } | Возвращает последний дочерний элемент, в противном случае — null. |

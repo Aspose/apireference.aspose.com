@@ -1,14 +1,14 @@
 ---
 title: TextInfo
 second_title: Справочник по Aspose.SVG для .NET API
-description: Получает объектTextInfoaspose.svg.rendering/textinfo который содержит информацию об отображаемом тексте.
+description: ПолучаетTextInfoaspose.svg.rendering/textinfo объект который содержит информацию о отображаемом тексте.
 type: docs
 weight: 150
 url: /ru/net/aspose.svg.rendering/graphiccontext/textinfo/
 ---
 ## GraphicContext.TextInfo property
 
-Получает объект[`TextInfo`](../../textinfo), который содержит информацию об отображаемом тексте.
+Получает[`TextInfo`](../../textinfo) объект, который содержит информацию о отображаемом тексте.
 
 ```csharp
 public virtual TextInfo TextInfo { get; }
@@ -16,7 +16,7 @@ public virtual TextInfo TextInfo { get; }
 
 ### Стоимость имущества
 
-Объект[`TextInfo`](../../textinfo).
+[`TextInfo`](../../textinfo) объект.
 
 ### Смотрите также
 

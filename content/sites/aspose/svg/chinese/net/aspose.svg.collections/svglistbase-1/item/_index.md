@@ -1,14 +1,14 @@
 ---
 title: Item
 second_title: Aspose.SVG for .NET API 参考
-description: 返回列表中的第一个项目
+description: 返回列表中的第索引项
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.collections/svglistbase-1/item/
 ---
 ## SVGListBase&lt;T&gt; indexer
 
-返回列表中的第一个项目。
+返回列表中的第索引项。
 
 ```csharp
 public T this[ulong index] { get; set; }
@@ -20,7 +20,7 @@ public T this[ulong index] { get; set; }
 
 ### 返回值
 
-存储在列表索引位置的对象。
+列表中第索引位置的存储对象。
 
 ### 适当的价值
 
@@ -30,8 +30,8 @@ public T this[ulong index] { get; set; }
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception) | 代码[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err)。 无法修改列表时引发。 |
-| [DOMException](../../../aspose.svg.dom/domexception) | 代码[`INDEX_SIZE_ERR`](../../../aspose.svg.dom/domexception/index_size_err)。 如果索引号大于或等于 numberOfItems，则引发。 |
+| [DOMException](../../../aspose.svg.dom/domexception) | 代码[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err). 无法修改列表时引发。 |
+| [DOMException](../../../aspose.svg.dom/domexception) | 代码[`INDEX_SIZE_ERR`](../../../aspose.svg.dom/domexception/index_size_err). 如果索引号大于或等于 numberOfItems 则引发。 |
 
 ### 也可以看看
 

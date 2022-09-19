@@ -1,14 +1,14 @@
 ---
 title: FirstElementChild
 second_title: Справочник по Aspose.SVG для .NET API
-description: Возвращает первый узел дочернего элемента данного элемента. null если у этого элемента нет дочерних элементов.
+description: Возвращает первый узел дочернего элемента этого элемента. null если у этого элемента нет дочерних элементов.
 type: docs
 weight: 70
 url: /ru/net/aspose.svg.dom/element/firstelementchild/
 ---
 ## Element.FirstElementChild property
 
-Возвращает первый узел дочернего элемента данного элемента. null, если у этого элемента нет дочерних элементов.
+Возвращает первый узел дочернего элемента этого элемента. null, если у этого элемента нет дочерних элементов.
 
 ```csharp
 public Element FirstElementChild { get; }

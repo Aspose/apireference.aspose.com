@@ -1,14 +1,14 @@
 ---
 title: RenderingOptions
 second_title: Справочник по Aspose.SVG для .NET API
-description: Инициализирует новый экземпляр классаRenderingOptionsaspose.svg.rendering/renderingoptions.
+description: Инициализирует новый экземплярRenderingOptionsaspose.svg.rendering/renderingoptions класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.rendering/renderingoptions/renderingoptions/
 ---
 ## RenderingOptions constructor
 
-Инициализирует новый экземпляр класса[`RenderingOptions`](../../renderingoptions).
+Инициализирует новый экземпляр[`RenderingOptions`](../../renderingoptions) класс.
 
 ```csharp
 public RenderingOptions()

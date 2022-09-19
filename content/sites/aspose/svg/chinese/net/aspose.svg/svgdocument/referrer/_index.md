@@ -1,14 +1,14 @@
 ---
 title: Referrer
 second_title: Aspose.SVG for .NET API 参考
-description: 返回链接到该页面的页面的 URI如果用户直接导航到页面不是通过链接而是例如通过书签则该值是一个空字符串
+description: 返回链接到该页面的页面的 URI如果用户直接导航到页面不是通过链接而是通过书签则该值为空字符串
 type: docs
 weight: 30
 url: /zh/net/aspose.svg/svgdocument/referrer/
 ---
 ## SVGDocument.Referrer property
 
-返回链接到该页面的页面的 URI。如果用户直接导航到页面（不是通过链接，而是例如通过书签），则该值是一个空字符串。
+返回链接到该页面的页面的 URI。如果用户直接导航到页面（不是通过链接，而是通过书签），则该值为空字符串。
 
 ```csharp
 public string Referrer { get; }

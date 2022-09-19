@@ -1,14 +1,14 @@
 ---
 title: AddEventListener
 second_title: Aspose.SVG for .NET API 参考
-description: 此方法允许在事件目标上注册事件侦听器
+description: 该方法允许在事件目标上注册事件监听器
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.dom.events/ieventtarget/addeventlistener/
 ---
 ## AddEventListener(string, IEventListener) {#addeventlistener}
 
-此方法允许在事件目标上注册事件侦听器。
+该方法允许在事件目标上注册事件监听器。
 
 ```csharp
 public void AddEventListener(string type, IEventListener listener)
@@ -17,13 +17,13 @@ public void AddEventListener(string type, IEventListener listener)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | type | String | 用户正在注册的事件类型 |
-| listener | IEventListener | 采用用户实现的接口包含事件发生时要调用的方法。 |
+| listener | IEventListener | 接受用户实现的接口，其中包含事件发生时要调用的方法。 |
 
 ### 评论
 
-如果将[`IEventListener`](../../ieventlistener)添加到[`EventTarget`](../../../aspose.svg.dom/eventtarget)在处理事件时，不会被当前动作触发 ，但可能在事件流的后期阶段触发，例如冒泡阶段。
+如果一个[`IEventListener`](../../ieventlistener)被添加到[`EventTarget`](../../../aspose.svg.dom/eventtarget)在处理事件时，它不会被当前操作触发 ，但可能在事件流的后期阶段被触发，例如冒泡阶段。
 
-如果在同一个[`EventTarget`](../../../aspose.svg.dom/eventtarget)上注册了多个相同的事件监听器参数重复的实例被丢弃。 它们不会导致[`IEventListener`](../../ieventlistener)被调用两次，并且由于它们被丢弃，因此不需要使用 删除它们[`RemoveEventListener`](../removeeventlistener) 方法。
+如果多个相同的事件监听器注册在同一个[`EventTarget`](../../../aspose.svg.dom/eventtarget)使用相同的参数，重复的实例将被丢弃。 它们不会导致[`IEventListener`](../../ieventlistener)被调用两次，并且由于它们被丢弃，因此不需要使用 the 删除它们[`RemoveEventListener`](../removeeventlistener) 方法.
 
 ### 也可以看看
 
@@ -36,7 +36,7 @@ public void AddEventListener(string type, IEventListener listener)
 
 ## AddEventListener(string, IEventListener, bool) {#addeventlistener_1}
 
-此方法允许在事件目标上注册事件侦听器。
+该方法允许在事件目标上注册事件监听器。
 
 ```csharp
 public void AddEventListener(string type, IEventListener listener, bool useCapture)
@@ -45,14 +45,14 @@ public void AddEventListener(string type, IEventListener listener, bool useCaptu
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | type | String | 用户正在注册的事件类型 |
-| listener | IEventListener | 采用用户实现的接口包含事件发生时要调用的方法。 |
-| useCapture | Boolean | 如果为真，useCapture 表示用户希望启动捕获。 发起捕获后，所有指定类型的事件都会被调度到注册的 [`IEventListener`](../../ieventlistener) 分派到树中它们下方的任何事件目标。 通过树向上冒泡的事件不会触发指定为使用捕获的[`IEventListener`](../../ieventlistener)。 |
+| listener | IEventListener | 接受用户实现的接口，其中包含事件发生时要调用的方法。 |
+| useCapture | Boolean | 如果为真，useCapture 表示用户希望发起捕获。 发起捕获后，指定类型的所有事件将被调度到已注册的 [`IEventListener`](../../ieventlistener) 在被分派到树中它们下方的任何事件目标之前。 在树中向上冒泡的事件不会触发[`IEventListener`](../../ieventlistener)指定使用捕获。 |
 
 ### 评论
 
-如果将[`IEventListener`](../../ieventlistener)添加到[`EventTarget`](../../../aspose.svg.dom/eventtarget)在处理事件时，不会被当前动作触发 ，但可能在事件流的后期阶段触发，例如冒泡阶段。
+如果一个[`IEventListener`](../../ieventlistener)被添加到[`EventTarget`](../../../aspose.svg.dom/eventtarget)在处理事件时，它不会被当前操作触发 ，但可能在事件流的后期阶段被触发，例如冒泡阶段。
 
-如果在同一个[`EventTarget`](../../../aspose.svg.dom/eventtarget)上注册了多个相同的事件监听器参数重复的实例被丢弃。 它们不会导致[`IEventListener`](../../ieventlistener)被调用两次，并且由于它们被丢弃，因此不需要使用 删除它们[`RemoveEventListener`](../removeeventlistener) 方法。
+如果多个相同的事件监听器注册在同一个[`EventTarget`](../../../aspose.svg.dom/eventtarget)使用相同的参数，重复的实例将被丢弃。 它们不会导致[`IEventListener`](../../ieventlistener)被调用两次，并且由于它们被丢弃，因此不需要使用 the 删除它们[`RemoveEventListener`](../removeeventlistener) 方法.
 
 ### 也可以看看
 

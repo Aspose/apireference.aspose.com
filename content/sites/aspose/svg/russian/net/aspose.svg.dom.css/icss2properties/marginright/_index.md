@@ -1,7 +1,7 @@
 ---
 title: MarginRight
 second_title: Справочник по Aspose.SVG для .NET API
-description: См. определение свойства margin-right в CSS2.
+description: См. определение свойства marginright в CSS2.
 type: docs
 weight: 660
 url: /ru/net/aspose.svg.dom.css/icss2properties/marginright/

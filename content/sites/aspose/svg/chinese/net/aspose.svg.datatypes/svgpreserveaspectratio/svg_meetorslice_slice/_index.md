@@ -1,14 +1,14 @@
 ---
 title: SVG_MEETORSLICE_SLICE
 second_title: Aspose.SVG for .NET API 参考
-description: 对应于属性 preserveAspectRatio 的值 slice
+description: 对应于属性preserveAspectRatio的值切片
 type: docs
 weight: 50
 url: /zh/net/aspose.svg.datatypes/svgpreserveaspectratio/svg_meetorslice_slice/
 ---
 ## SVGPreserveAspectRatio.SVG_MEETORSLICE_SLICE field
 
-对应于属性 'preserveAspectRatio' 的值 'slice'。
+对应于属性“preserveAspectRatio”的值“切片”。
 
 ```csharp
 public const ushort SVG_MEETORSLICE_SLICE;

@@ -1,7 +1,7 @@
 ---
 title: PauseBefore
 second_title: Справочник по Aspose.SVG для .NET API
-description: См. определение свойства pause-before в CSS2.
+description: См. определение свойства pausebefore в CSS2.
 type: docs
 weight: 910
 url: /ru/net/aspose.svg.dom.css/icss2properties/pausebefore/

@@ -17,7 +17,7 @@ public HTMLCollection GetElementsByTagNameNS(string namespaceURI, string localNa
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | namespaceURI | String | URI пространства имен. |
-| localName | String | Имя локального. |
+| localName | String | Имя местного. |
 
 ### Возвращаемое значение
 

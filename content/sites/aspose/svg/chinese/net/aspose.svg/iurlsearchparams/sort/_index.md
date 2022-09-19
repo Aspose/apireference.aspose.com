@@ -1,7 +1,7 @@
 ---
 title: Sort
 second_title: Aspose.SVG for .NET API 参考
-description: 按名称对所有名称-值对如果有进行排序
+description: 按名称对所有名称值对如果有进行排序
 type: docs
 weight: 70
 url: /zh/net/aspose.svg/iurlsearchparams/sort/

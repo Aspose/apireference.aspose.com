@@ -17,7 +17,7 @@ public long InsertRule(string rule, int index)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | rule | String | Правило стиля. |
-| index | Int32 | Индекс правила. |
+| index | Int32 | Индекс правил. |
 
 ### Возвращаемое значение
 

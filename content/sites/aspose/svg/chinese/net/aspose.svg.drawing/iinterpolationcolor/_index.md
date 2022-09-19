@@ -1,14 +1,14 @@
 ---
 title: IInterpolationColor
 second_title: Aspose.SVG for .NET API 参考
-description: 描述获取插值颜色的方法
+description: 说明获取插值颜色的方法
 type: docs
-weight: 1450
+weight: 1460
 url: /zh/net/aspose.svg.drawing/iinterpolationcolor/
 ---
 ## IInterpolationColor interface
 
-描述获取插值颜色的方法。
+说明获取插值颜色的方法。
 
 ```csharp
 public interface IInterpolationColor
@@ -18,7 +18,7 @@ public interface IInterpolationColor
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Color](../../aspose.svg.drawing/iinterpolationcolor/color) { get; } | 获取代表颜色的颜色，用于沿渐变的相应位置。 |
+| [Color](../../aspose.svg.drawing/iinterpolationcolor/color) { get; } | 获取表示沿渐变的相应位置使用的颜色的颜色。 |
 | [Position](../../aspose.svg.drawing/iinterpolationcolor/position) { get; } | 获取颜色位置。 |
 
 ### 也可以看看

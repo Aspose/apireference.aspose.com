@@ -1,14 +1,14 @@
 ---
 title: Delete
 second_title: Aspose.SVG for .NET API 参考
-description: 删除名称为 name 的所有名称-值对
+description: 删除所有名称为姓名 .
 type: docs
 weight: 20
 url: /zh/net/aspose.svg/iurlsearchparams/delete/
 ---
 ## IUrlSearchParams.Delete method
 
-删除名称为` name` 的所有名称-值对。
+删除所有名称为`姓名` .
 
 ```csharp
 public void Delete(string name)
@@ -16,7 +16,7 @@ public void Delete(string name)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| name | String | 用于查找名称-值对的键。 |
+| name | String | 将用于查找名称-值对的键。 |
 
 ### 也可以看看
 

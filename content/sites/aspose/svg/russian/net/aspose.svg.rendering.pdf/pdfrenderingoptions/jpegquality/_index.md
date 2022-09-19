@@ -1,14 +1,14 @@
 ---
 title: JpegQuality
 second_title: Справочник по Aspose.SVG для .NET API
-description: Определяет качество сжатия изображений JPEG если используется сжатие JPEG. По умолчанию 95.
+description: Определяет качество сжатия изображений JPEG если используется сжатие JPEG. Значение по умолчанию 95.
 type: docs
 weight: 40
 url: /ru/net/aspose.svg.rendering.pdf/pdfrenderingoptions/jpegquality/
 ---
 ## PdfRenderingOptions.JpegQuality property
 
-Определяет качество сжатия изображений JPEG (если используется сжатие JPEG). По умолчанию 95.
+Определяет качество сжатия изображений JPEG (если используется сжатие JPEG). Значение по умолчанию: 95.
 
 ```csharp
 public int JpegQuality { get; set; }

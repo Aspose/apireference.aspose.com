@@ -16,7 +16,7 @@ public BrushType Type { get; }
 
 ### 返回值
 
-画笔类型
+刷子类型
 
 ### 也可以看看
 

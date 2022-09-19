@@ -1,14 +1,14 @@
 ---
 title: FromSeconds
 second_title: Aspose.SVG for .NET API 参考
-description: 返回一个以秒为单位的Timeaspose.svg.drawing/time对象
+description: 返回一个Timeaspose.svg.drawing/time以秒为单位的对象
 type: docs
 weight: 210
 url: /zh/net/aspose.svg.drawing/unit/fromseconds/
 ---
 ## Unit.FromSeconds method
 
-返回一个以秒为单位的[`Time`](../../time)对象。
+返回一个[`Time`](../../time)以秒为单位的对象。
 
 ```csharp
 public static Time FromSeconds(double value)
@@ -16,11 +16,11 @@ public static Time FromSeconds(double value)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| value | Double | 值。 |
+| value | Double | 价值。 |
 
 ### 返回值
 
-返回一个[`Time`](../../time)对象。
+返回一个[`Time`](../../time)目的。
 
 ### 也可以看看
 

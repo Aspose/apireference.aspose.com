@@ -1,14 +1,14 @@
 ---
 title: ISVGAnimatedPathData
 second_title: Aspose.SVG for .NET API 参考
-description: 他的 SVGAnimatedPathData 接口支持具有 d 属性的元素该属性保存 SVG 路径数据并支持为该属性设置动画的能力
+description: SVGAnimatedPathData 接口支持具有d属性的元素该属性保存 SVG 路径数据并支持为该属性设置动画的能力
 type: docs
-weight: 2440
+weight: 2450
 url: /zh/net/aspose.svg.paths/isvganimatedpathdata/
 ---
 ## ISVGAnimatedPathData interface
 
-他的 SVGAnimatedPathData 接口支持具有 'd' 属性的元素，该属性保存 SVG 路径数据，并支持为该属性设置动画的能力。
+SVGAnimatedPathData 接口支持具有“d”属性的元素，该属性保存 SVG 路径数据，并支持为该属性设置动画的能力。
 
 ```csharp
 public interface ISVGAnimatedPathData
@@ -18,8 +18,8 @@ public interface ISVGAnimatedPathData
 
 | 姓名 | 描述 |
 | --- | --- |
-| [AnimatedPathSegList](../../aspose.svg.paths/isvganimatedpathdata/animatedpathseglist) { get; } | 以与 SVG 语法一对一匹配的形式提供对“d”属性的当前动画内容的访问。如果给定的属性或属性正在动画，则包含属性或属性的当前动画值，并且对象本身及其内容都是只读的。如果给定的属性或属性当前没有被动画化，则包含与 pathSegList 相同的值。 |
-| [PathSegList](../../aspose.svg.paths/isvganimatedpathdata/pathseglist) { get; } | 以与 SVG 语法一对一匹配的形式提供对“d”属性的基本（即静态）内容的访问。 因此，如果 'd' 属性有一个“absolute moveto (M)”和一个“absolute arcto (A)”命令，那么 pathSegList 将有两个条目：一个 SVG_PATHSEG_MOVETO_ABS 和一个 SVG_PATHSEG_ARC_ABS。 |
+| [AnimatedPathSegList](../../aspose.svg.paths/isvganimatedpathdata/animatedpathseglist) { get; } | 以与 SVG 语法一对一匹配的形式提供对“d”属性的当前动画内容的访问。如果给定的属性或属性正在动画，则包含属性或属性的当前动画值，并且对象本身及其内容都是只读的。如果给定的属性或属性当前没有被动画化，则包含与 pathSegList. 相同的值 |
+| [PathSegList](../../aspose.svg.paths/isvganimatedpathdata/pathseglist) { get; } | 以与 SVG 语法一对一匹配的形式提供对“d”属性的基本（即静态）内容的访问。 因此，如果 'd' 属性有一个“absolute moveto (M)”和一个“absolute arcto (A)”命令，那么 pathSegList 将有两个条目：一个 SVG_PATHSEG_MOVETO_ABS 和一个 SVG_PATHSEG_ARC_ABS. |
 
 ### 也可以看看
 

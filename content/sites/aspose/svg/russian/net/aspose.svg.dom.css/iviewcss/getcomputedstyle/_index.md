@@ -1,14 +1,14 @@
 ---
 title: GetComputedStyle
 second_title: Справочник по Aspose.SVG для .NET API
-description: Этот метод используется для получения вычисляемого стиля определенного в CSS2.
+description: Этот метод используется для получения вычисляемого стиля как он определен в CSS2.
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.dom.css/iviewcss/getcomputedstyle/
 ---
 ## GetComputedStyle(Element) {#getcomputedstyle}
 
-Этот метод используется для получения вычисляемого стиля, определенного в CSS2.
+Этот метод используется для получения вычисляемого стиля, как он определен в CSS2.
 
 ```csharp
 public ICSSStyleDeclaration GetComputedStyle(Element element)
@@ -34,7 +34,7 @@ public ICSSStyleDeclaration GetComputedStyle(Element element)
 
 ## GetComputedStyle(Element, string) {#getcomputedstyle_1}
 
-Этот метод используется для получения вычисляемого стиля, определенного в CSS2.
+Этот метод используется для получения вычисляемого стиля, как он определен в CSS2.
 
 ```csharp
 public ICSSStyleDeclaration GetComputedStyle(Element element, string pseudoElement)

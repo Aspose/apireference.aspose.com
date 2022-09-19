@@ -1,14 +1,14 @@
 ---
 title: Buttons
 second_title: Aspose.SVG for .NET API 参考
-description: 在任何鼠标事件期间必须使用按钮来指示当前正在按下哪个鼠标按钮组合以位掩码表示
+description: 在任何鼠标事件期间必须使用按钮来指示当前正在按下的鼠标按钮组合表示为位掩码
 type: docs
 weight: 40
 url: /zh/net/aspose.svg.dom.events/mouseevent/buttons/
 ---
 ## MouseEvent.Buttons property
 
-在任何鼠标事件期间，必须使用按钮来指示当前正在按下哪个鼠标按钮组合，以位掩码表示。
+在任何鼠标事件期间，必须使用按钮来指示当前正在按下的鼠标按钮组合，表示为位掩码。
 
 ```csharp
 public ushort Buttons { get; }

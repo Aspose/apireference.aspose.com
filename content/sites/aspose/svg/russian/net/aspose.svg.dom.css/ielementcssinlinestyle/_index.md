@@ -3,7 +3,7 @@ title: IElementCSSInlineStyle
 second_title: Справочник по Aspose.SVG для .NET API
 description: Информация о встроенном стиле прикрепленная к элементам отображается через атрибут стиля. Это представляет содержимое атрибута STYLE для элементов HTML или элементов в других схемах или DTD которые используют атрибут STYLE таким же образом.
 type: docs
-weight: 720
+weight: 710
 url: /ru/net/aspose.svg.dom.css/ielementcssinlinestyle/
 ---
 ## IElementCSSInlineStyle interface

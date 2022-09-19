@@ -1,14 +1,14 @@
 ---
 title: ToJson
 second_title: Справочник по Aspose.SVG для .NET API
-description: ВозвращаетString представляющий этот экземпляр.
+description: ВозвращаетString который представляет этот экземпляр.
 type: docs
 weight: 160
 url: /ru/net/aspose.svg/url/tojson/
 ---
 ## Url.ToJson method
 
-ВозвращаетString, представляющий этот экземпляр.
+ВозвращаетString который представляет этот экземпляр.
 
 ```csharp
 public string ToJson()
@@ -16,7 +16,7 @@ public string ToJson()
 
 ### Возвращаемое значение
 
-ОбъектString, представляющий этот экземпляр.
+АString который представляет этот экземпляр.
 
 ### Смотрите также
 

@@ -1,14 +1,14 @@
 ---
 title: INonDocumentTypeChildNode
 second_title: Справочник по Aspose.SVG для .NET API
-description: ОпределяетIChildNode./ichildnode которые не являютсяDOCUMENT_TYPE_NODE./node/document_type_node.
+description: определяетIChildNode./ichildnode это неDOCUMENT_TYPE_NODE./node/document_type_node .
 type: docs
-weight: 1090
+weight: 1080
 url: /ru/net/aspose.svg.dom/inondocumenttypechildnode/
 ---
 ## INonDocumentTypeChildNode interface
 
-Определяет[`IChildNode`](../ichildnode), которые не являются[`DOCUMENT_TYPE_NODE`](../node/document_type_node).
+определяет[`IChildNode`](../ichildnode) это не[`DOCUMENT_TYPE_NODE`](../node/document_type_node) .
 
 ```csharp
 public interface INonDocumentTypeChildNode
@@ -19,7 +19,7 @@ public interface INonDocumentTypeChildNode
 | Имя | Описание |
 | --- | --- |
 | [NextElementSibling](../../aspose.svg.dom/inondocumenttypechildnode/nextelementsibling) { get; } | Возвращает первого следующего брата, который является элементом, и null в противном случае. |
-| [PreviousElementSibling](../../aspose.svg.dom/inondocumenttypechildnode/previouselementsibling) { get; } | Возвращает первого предшествующего родственного элемента, который является элементом, и null в противном случае. |
+| [PreviousElementSibling](../../aspose.svg.dom/inondocumenttypechildnode/previouselementsibling) { get; } | Возвращает первого предшествующего брата, который является элементом, и null в противном случае. |
 
 ### Смотрите также
 

@@ -3,7 +3,7 @@ title: SVGPathSegLinetoHorizontalAbs
 second_title: Aspose.SVG for .NET API 参考
 description: SVGPathSegLinetoHorizontalAbs 接口对应于绝对水平线到H路径数据命令
 type: docs
-weight: 2580
+weight: 2590
 url: /zh/net/aspose.svg.paths/svgpathseglinetohorizontalabs/
 ---
 ## SVGPathSegLinetoHorizontalAbs class
@@ -26,8 +26,8 @@ public class SVGPathSegLinetoHorizontalAbs : SVGPathSeg
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose)() | 释放非托管和（可选）托管资源。 |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | 此方法用于检索 ECMAScript 对象Type。 |
+| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose)() | 释放非托管和 - 可选 - 托管资源。 |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | 此方法用于检索 ECMAScript 对象Type . |
 
 ### 也可以看看
 

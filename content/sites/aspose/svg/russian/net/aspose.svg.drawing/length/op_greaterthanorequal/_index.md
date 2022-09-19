@@ -16,8 +16,8 @@ public static bool operator >=(Length a, Length b)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| a | Length | Параметр a. |
-| b | Length | Параметр b. |
+| a | Length | Параметр а. |
+| b | Length | Параметр б. |
 
 ### Возвращаемое значение
 
@@ -27,8 +27,8 @@ public static bool operator >=(Length a, Length b)
 
 | исключение | условие |
 | --- | --- |
-| ArgumentException | Аргументы имеют разные типы |
-| ArgumentNullException | Аргумент имеет значение null |
+| ArgumentException | Аргументы бывают разных типов |
+| ArgumentNullException | Аргумент недействителен |
 
 ### Смотрите также
 

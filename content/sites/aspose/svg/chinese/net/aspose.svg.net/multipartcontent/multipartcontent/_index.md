@@ -1,14 +1,14 @@
 ---
 title: MultipartContent
 second_title: Aspose.SVG for .NET API 参考
-description: 创建MultipartContentaspose.svg.net/multipartcontent类的新实例
+description: 创建一个新的实例MultipartContentaspose.svg.net/multipartcontent类.
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.net/multipartcontent/multipartcontent/
 ---
 ## MultipartContent() {#constructor}
 
-创建[`MultipartContent`](../../multipartcontent)类的新实例。
+创建一个新的实例[`MultipartContent`](../../multipartcontent)类.
 
 ```csharp
 public MultipartContent()
@@ -24,7 +24,7 @@ public MultipartContent()
 
 ## MultipartContent(string) {#constructor_1}
 
-使用子类型创建[`MultipartContent`](../../multipartcontent)类的新实例。
+创建一个新的实例[`MultipartContent`](../../multipartcontent)具有子类型的类.
 
 ```csharp
 public MultipartContent(string subtype)
@@ -32,7 +32,7 @@ public MultipartContent(string subtype)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| subtype | String | 子类型 |
+| subtype | String | 亚型 |
 
 ### 也可以看看
 
@@ -44,7 +44,7 @@ public MultipartContent(string subtype)
 
 ## MultipartContent(string, string) {#constructor_2}
 
-创建具有子类型和边界的[`MultipartContent`](../../multipartcontent)类的新实例。
+创建一个新的实例[`MultipartContent`](../../multipartcontent)具有子类型和边界的类。
 
 ```csharp
 public MultipartContent(string subtype, string boundary)
@@ -52,7 +52,7 @@ public MultipartContent(string subtype, string boundary)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| subtype | String | 子类型 |
+| subtype | String | 亚型 |
 | boundary | String | 边界 |
 
 ### 例外

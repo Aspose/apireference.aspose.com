@@ -1,14 +1,14 @@
 ---
 title: Size
 second_title: Справочник по Aspose.SVG для .NET API
-description: См. определение свойства size в CSS2.
+description: См. определение свойства размера в CSS2.
 type: docs
 weight: 990
 url: /ru/net/aspose.svg.dom.css/icss2properties/size/
 ---
 ## ICSS2Properties.Size property
 
-См. определение свойства size в CSS2.
+См. определение свойства размера в CSS2.
 
 ```csharp
 public string Size { get; set; }

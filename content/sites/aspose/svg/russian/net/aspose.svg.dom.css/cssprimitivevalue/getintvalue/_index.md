@@ -16,7 +16,7 @@ public abstract int GetIntValue(ushort unitType)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| unitType | UInt16 | Тип юнита. |
+| unitType | UInt16 | Тип агрегата. |
 
 ### Возвращаемое значение
 

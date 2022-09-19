@@ -1,14 +1,14 @@
 ---
 title: ClassName
 second_title: Aspose.SVG for .NET API 参考
-description: 对应于给定元素的属性类
+description: 对应于给定元素上的属性类
 type: docs
 weight: 10
 url: /zh/net/aspose.svg/svgelement/classname/
 ---
 ## SVGElement.ClassName property
 
-对应于给定元素的属性“类”。
+对应于给定元素上的属性“类”。
 
 ```csharp
 public SVGAnimatedString ClassName { get; }

@@ -1,14 +1,14 @@
 ---
 title: Vectorize
 second_title: Aspose.SVG for .NET API 参考
-description: 从指定文件矢量化光栅图像
+description: 将指定文件中的光栅图像矢量化
 type: docs
 weight: 30
 url: /zh/net/aspose.svg.imagevectorization/imagevectorizer/vectorize/
 ---
 ## Vectorize(string) {#vectorize_2}
 
-从指定文件矢量化光栅图像。
+将指定文件中的光栅图像矢量化。
 
 ```csharp
 public SVGDocument Vectorize(string imageFile)
@@ -41,7 +41,7 @@ public SVGDocument Vectorize(Stream imageStream)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| imageStream | Stream | 带图像的流。 |
+| imageStream | Stream | 带有图像的流。 |
 
 ### 返回值
 
@@ -58,7 +58,7 @@ SVG 文档。
 
 ## Vectorize(Bitmap) {#vectorize}
 
-向量化位图。
+矢量化位图。
 
 ```csharp
 public SVGDocument Vectorize(Bitmap image)

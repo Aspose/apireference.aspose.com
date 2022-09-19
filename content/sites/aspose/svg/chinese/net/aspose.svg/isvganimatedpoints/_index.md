@@ -1,14 +1,14 @@
 ---
 title: ISVGAnimatedPoints
 second_title: Aspose.SVG for .NET API 参考
-description: SVGAnimatedPoints 接口支持具有 points 属性的元素该属性包含坐标值列表并支持对该属性进行动画处理 此外通过 XML DOM 访问的原始元素上的 points 属性例如使用 getAttribute 方法调用将反映对点所做的任何更改
+description: SVGAnimatedPoints 接口支持具有points属性的元素该属性包含坐标值列表并支持对该属性进行动画处理 此外通过 XML DOM 访问的原始元素上的points属性例如使用 getAttribute 方法调用将反映对 points. 所做的任何更改
 type: docs
-weight: 1990
+weight: 2000
 url: /zh/net/aspose.svg/isvganimatedpoints/
 ---
 ## ISVGAnimatedPoints interface
 
-SVGAnimatedPoints 接口支持具有 'points' 属性的元素，该属性包含坐标值列表并支持对该属性进行动画处理。 此外，通过 XML DOM 访问的原始元素上的 'points' 属性（例如，使用 getAttribute() 方法调用）将反映对点所做的任何更改。
+SVGAnimatedPoints 接口支持具有“points”属性的元素，该属性包含坐标值列表并支持对该属性进行动画处理。 此外，通过 XML DOM 访问的原始元素上的“points”属性（例如，使用 getAttribute() 方法调用）将反映对 points. 所做的任何更改
 
 ```csharp
 public interface ISVGAnimatedPoints
@@ -18,7 +18,7 @@ public interface ISVGAnimatedPoints
 
 | 姓名 | 描述 |
 | --- | --- |
-| [AnimatedPoints](../../aspose.svg/isvganimatedpoints/animatedpoints) { get; } | 提供对“points”属性的当前动画内容的访问。如果给定的属性或属性正在被动画化，则包含属性或属性的当前动画值。如果给定的属性或属性当前没有被动画化，则包含与点相同的值。 |
+| [AnimatedPoints](../../aspose.svg/isvganimatedpoints/animatedpoints) { get; } | 提供对“points”属性的当前动画内容的访问。如果给定的属性或属性正在被动画化，则包含属性或属性的当前动画值。如果给定的属性或属性当前没有被动画化，则包含与 points. 相同的值 |
 | [Points](../../aspose.svg/isvganimatedpoints/points) { get; } | 提供对“points”属性的基本（即静态）内容的访问。 |
 
 ### 也可以看看

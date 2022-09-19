@@ -3,7 +3,7 @@ title: IGradientBrush
 second_title: Aspose.SVG for .NET API 参考
 description: 声明获取渐变画笔常用属性的方法
 type: docs
-weight: 1440
+weight: 1450
 url: /zh/net/aspose.svg.drawing/igradientbrush/
 ---
 ## IGradientBrush interface
@@ -18,7 +18,7 @@ public interface IGradientBrush : ITransformableBrush
 
 | 姓名 | 描述 |
 | --- | --- |
-| [BlendFactors](../../aspose.svg.drawing/igradientbrush/blendfactors) { get; } | 获取定义渐变自定义衰减的混合因子。 |
+| [BlendFactors](../../aspose.svg.drawing/igradientbrush/blendfactors) { get; } | 获取为渐变定义自定义衰减的混合因子。 |
 | [BlendPositions](../../aspose.svg.drawing/igradientbrush/blendpositions) { get; } | 获取定义渐变自定义衰减的混合位置。 |
 | [InterpolationColors](../../aspose.svg.drawing/igradientbrush/interpolationcolors) { get; } | 获取定义多色线性渐变的插值颜色。 |
 

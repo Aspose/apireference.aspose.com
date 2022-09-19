@@ -16,7 +16,7 @@ public void AppendRule(string rule)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| rule | String | 要追加的规则，以与“@keyframes”规则 |
+| rule | String | 要附加的规则，以与“@keyframes”规则中的一项相同的语法表示 |
 
 ### 也可以看看
 

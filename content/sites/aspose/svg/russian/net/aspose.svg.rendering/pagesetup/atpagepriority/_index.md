@@ -1,14 +1,14 @@
 ---
 title: AtPagePriority
 second_title: Справочник по Aspose.SVG для .NET API
-description: Получает или задаетAtPagePriorityaspose.svg.rendering/atpagepriority который будет определять порядок применения объявлений размера страницы. По умолчанию параметры переопределяют css page rules.
+description: Получает или устанавливаетAtPagePriorityaspose.svg.rendering/atpagepriority который будет определять порядок применения объявлений размера страницы. По умолчанию параметры переопределяют cssстраница правила .
 type: docs
 weight: 20
 url: /ru/net/aspose.svg.rendering/pagesetup/atpagepriority/
 ---
 ## PageSetup.AtPagePriority property
 
-Получает или задает[`AtPagePriority`](../../atpagepriority), который будет определять порядок применения объявлений размера страницы. По умолчанию параметры переопределяют css` @page` rules.
+Получает или устанавливает[`AtPagePriority`](../../atpagepriority) который будет определять порядок применения объявлений размера страницы. По умолчанию параметры переопределяют css`@страница` правила .
 
 ```csharp
 public AtPagePriority AtPagePriority { get; set; }

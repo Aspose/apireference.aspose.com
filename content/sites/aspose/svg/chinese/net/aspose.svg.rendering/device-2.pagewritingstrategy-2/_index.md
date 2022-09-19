@@ -3,7 +3,7 @@ title: DeviceTGraphicContextTRenderingOptions.PageWritingStrategyTGraphicContext
 second_title: Aspose.SVG for .NET API 参考
 description: 指定将页面写入输出流streams 的策略类型
 type: docs
-weight: 2710
+weight: 2720
 url: /zh/net/aspose.svg.rendering/device-2.pagewritingstrategy-2/
 ---
 ## Device&lt;TGraphicContext,TRenderingOptions&gt;.PageWritingStrategy&lt;TGraphicContext,TRenderingOptions&gt; enumeration

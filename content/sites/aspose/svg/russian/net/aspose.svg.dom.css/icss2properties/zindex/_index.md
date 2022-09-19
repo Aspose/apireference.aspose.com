@@ -1,7 +1,7 @@
 ---
 title: ZIndex
 second_title: Справочник по Aspose.SVG для .NET API
-description: См. определение свойства z-index в CSS2.
+description: См. определение свойства zindex в CSS2.
 type: docs
 weight: 1220
 url: /ru/net/aspose.svg.dom.css/icss2properties/zindex/
@@ -16,7 +16,7 @@ public string ZIndex { get; set; }
 
 ### Возвращаемое значение
 
-свойство z-index
+свойство z-индекса
 
 ### Смотрите также
 

@@ -1,14 +1,14 @@
 ---
 title: OutlineStyle
 second_title: Справочник по Aspose.SVG для .NET API
-description: См. определение свойства в стиле структуры в CSS2.
+description: См. определение свойства стиля контура в CSS2.
 type: docs
 weight: 770
 url: /ru/net/aspose.svg.dom.css/icss2properties/outlinestyle/
 ---
 ## ICSS2Properties.OutlineStyle property
 
-См. определение свойства в стиле структуры в CSS2.
+См. определение свойства стиля контура в CSS2.
 
 ```csharp
 public string OutlineStyle { get; set; }

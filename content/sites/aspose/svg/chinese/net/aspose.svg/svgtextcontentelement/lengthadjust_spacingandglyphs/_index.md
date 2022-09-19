@@ -1,14 +1,14 @@
 ---
 title: LENGTHADJUST_SPACINGANDGLYPHS
 second_title: Aspose.SVG for .NET API 参考
-description: 对应于值 spacingAndGlyphs
+description: 对应于值 spacingAndGlyphs.
 type: docs
 weight: 60
 url: /zh/net/aspose.svg/svgtextcontentelement/lengthadjust_spacingandglyphs/
 ---
 ## SVGTextContentElement.LENGTHADJUST_SPACINGANDGLYPHS field
 
-对应于值 'spacingAndGlyphs'。
+对应于值 'spacingAndGlyphs'.
 
 ```csharp
 public const ushort LENGTHADJUST_SPACINGANDGLYPHS;

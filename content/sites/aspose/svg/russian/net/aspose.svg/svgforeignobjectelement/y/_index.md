@@ -8,7 +8,7 @@ url: /ru/net/aspose.svg/svgforeignobjectelement/y/
 ---
 ## SVGForeignObjectElement.Y property
 
-Соответствует атрибуту 'y' данного элемента 'foreignObject'.
+Соответствует атрибуту «y» данного элемента «foreignObject».
 
 ```csharp
 public SVGAnimatedLength Y { get; }

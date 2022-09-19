@@ -1,14 +1,14 @@
 ---
 title: X
 second_title: Справочник по Aspose.SVG для .NET API
-description: Соответствует атрибуту x данного элемента filter.
+description: Соответствует атрибуту x данного элемента фильтр.
 type: docs
 weight: 70
 url: /ru/net/aspose.svg.filters/svgfecolormatrixelement/x/
 ---
 ## SVGFEColorMatrixElement.X property
 
-Соответствует атрибуту 'x' данного элемента 'filter'.
+Соответствует атрибуту «x» данного элемента «фильтр».
 
 ```csharp
 public SVGAnimatedLength X { get; }
@@ -16,7 +16,7 @@ public SVGAnimatedLength X { get; }
 
 ### Стоимость имущества
 
-Атрибут 'x' данного элемента 'фильтра'.
+Атрибут «x» данного элемента «фильтр».
 
 ### Смотрите также
 

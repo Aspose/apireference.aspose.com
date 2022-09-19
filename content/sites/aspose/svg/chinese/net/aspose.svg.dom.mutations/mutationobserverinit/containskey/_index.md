@@ -1,14 +1,14 @@
 ---
 title: ContainsKey
 second_title: Aspose.SVG for .NET API 参考
-description: 确定MutationObserverInitaspose.svg.dom.mutations/mutationobserverinit集合是否包含指定的键
+description: 确定是否MutationObserverInitaspose.svg.dom.mutations/mutationobserverinit集合包含一个指定的键
 type: docs
 weight: 170
 url: /zh/net/aspose.svg.dom.mutations/mutationobserverinit/containskey/
 ---
 ## MutationObserverInit.ContainsKey method
 
-确定[`MutationObserverInit`](../../mutationobserverinit)集合是否包含指定的键。
+确定是否[`MutationObserverInit`](../../mutationobserverinit)集合包含一个指定的键。
 
 ```csharp
 public bool ContainsKey(string key)
@@ -16,11 +16,11 @@ public bool ContainsKey(string key)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| key | String | 要检查的密钥。 |
+| key | String | 检查的关键。 |
 
 ### 返回值
 
-如果[`MutationObserverInit`](../../mutationobserverinit)包含指定的密钥，则为真；否则为假。
+真，如果[`MutationObserverInit`](../../mutationobserverinit)包含指定的密钥；否则为假。
 
 ### 也可以看看
 

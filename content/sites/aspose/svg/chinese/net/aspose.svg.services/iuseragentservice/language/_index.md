@@ -1,14 +1,14 @@
 ---
 title: Language
 second_title: Aspose.SVG for .NET API 参考
-description: Languageaspose.svg.services/iuseragentservice/language指定元素内容和任何包含文本的元素属性的主要语言 其值必须是有效的 BCP 47  语言标记或空字符串将该属性设置为空字符串表示主要语言未知
+description: 的Languageaspose.svg.services/iuseragentservice/language指定元素内容和包含文本的任何元素属性的主要语言 它的值必须是有效的 BCP 47  语言标签或空字符串将属性设置为空字符串表示主要语言未知
 type: docs
 weight: 40
 url: /zh/net/aspose.svg.services/iuseragentservice/language/
 ---
 ## IUserAgentService.Language property
 
-`Language`指定元素内容和任何包含文本的元素属性的主要语言。 其值必须是有效的 BCP 47 () 语言标记或空字符串。将该属性设置为空字符串表示主要语言未知。
+的`Language`指定元素内容和包含文本的任何元素属性的主要语言。 它的值必须是有效的 BCP 47 ( 语言标签或空字符串。将属性设置为空字符串表示主要语言未知。
 
 ```csharp
 public string Language { get; set; }

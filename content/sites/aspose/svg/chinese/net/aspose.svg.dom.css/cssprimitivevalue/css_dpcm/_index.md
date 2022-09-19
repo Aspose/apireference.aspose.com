@@ -1,14 +1,14 @@
 ---
 title: CSS_DPCM
 second_title: Aspose.SVG for .NET API 参考
-description: 该值为每厘米点数 dpcm
+description: 该值是每厘米点数 dpcm
 type: docs
 weight: 170
 url: /zh/net/aspose.svg.dom.css/cssprimitivevalue/css_dpcm/
 ---
 ## CSSPrimitiveValue.CSS_DPCM field
 
-该值为每厘米点数 (dpcm)。
+该值是每厘米点数 (dpcm)。
 
 ```csharp
 public const ushort CSS_DPCM;

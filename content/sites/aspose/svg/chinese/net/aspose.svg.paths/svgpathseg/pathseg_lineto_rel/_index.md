@@ -1,14 +1,14 @@
 ---
 title: PATHSEG_LINETO_REL
 second_title: Aspose.SVG for .NET API 参考
-description: 对应于relative linetol 路径数据命令
+description: 对应一个relative linetol路径数据命令
 type: docs
 weight: 170
 url: /zh/net/aspose.svg.paths/svgpathseg/pathseg_lineto_rel/
 ---
 ## SVGPathSeg.PATHSEG_LINETO_REL field
 
-对应于“relative lineto”(l) 路径数据命令。
+对应一个“relative lineto”（l）路径数据命令。
 
 ```csharp
 public const ushort PATHSEG_LINETO_REL;

@@ -1,14 +1,14 @@
 ---
 title: GraphicContext
 second_title: Aspose.SVG for .NET API 参考
-description: 初始化GraphicContextaspose.svg.rendering/graphiccontext类的新实例
+description: 初始化GraphicContextaspose.svg.rendering/graphiccontext类.
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.rendering/graphiccontext/graphiccontext/
 ---
 ## GraphicContext constructor
 
-初始化[`GraphicContext`](../../graphiccontext)类的新实例。
+初始化[`GraphicContext`](../../graphiccontext)类.
 
 ```csharp
 public GraphicContext()

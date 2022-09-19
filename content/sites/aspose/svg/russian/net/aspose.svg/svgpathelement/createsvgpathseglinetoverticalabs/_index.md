@@ -16,7 +16,7 @@ public SVGPathSegLinetoVerticalAbs CreateSVGPathSegLinetoVerticalAbs(float y)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| y | Single | Абсолютная координата Y конечной точки этого сегмента пути. |
+| y | Single | Абсолютная координата Y для конечной точки этого сегмента пути. |
 
 ### Возвращаемое значение
 

@@ -1,14 +1,14 @@
 ---
 title: In2
 second_title: Aspose.SVG for .NET API 参考
-description: 对应于给定 feComposite 元素的属性 in2
+description: 对应于给定feComposite元素的属性in2
 type: docs
 weight: 30
 url: /zh/net/aspose.svg.filters/svgfecompositeelement/in2/
 ---
 ## SVGFECompositeElement.In2 property
 
-对应于给定 'feComposite' 元素的属性 'in2'。
+对应于给定“feComposite”元素的属性“in2”。
 
 ```csharp
 public SVGAnimatedString In2 { get; }
@@ -16,7 +16,7 @@ public SVGAnimatedString In2 { get; }
 
 ### 适当的价值
 
-给定 'feComposite' 元素的属性 'in2'。
+给定“feComposite”元素的属性“in2”。
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: MatchFontFallback
 second_title: Справочник по Aspose.SVG для .NET API
-description: Этот метод вызывается если в папках поиска шрифтов не найден подходящий шрифт. Он должен возвращать шрифт истинного типа на основеfontMatchingProperties который может отображатьcharCode или null  если такой шрифт нет в наличии.
+description: Этот метод вызывается если в папках поиска шрифтов не найден подходящий шрифт. Он должен возвращать шрифт истинного типа на основеfontMatchingProperties который может отображатьcharCode  или женулевой если такой шрифт недоступен.
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.rendering.fonts/fontmatcher/matchfontfallback/
 ---
 ## FontMatcher.MatchFontFallback method
 
-Этот метод вызывается, если в папках поиска шрифтов не найден подходящий шрифт. Он должен возвращать шрифт истинного типа на основе*fontMatchingProperties*, который может отображать*charCode*, или` null` , если такой шрифт нет в наличии.
+Этот метод вызывается, если в папках поиска шрифтов не найден подходящий шрифт. Он должен возвращать шрифт истинного типа на основе*fontMatchingProperties* который может отображать*charCode* , или же`нулевой` если такой шрифт недоступен.
 
 ```csharp
 public abstract byte[] MatchFontFallback(FontMatchingProperties fontMatchingProperties, 
@@ -17,12 +17,12 @@ public abstract byte[] MatchFontFallback(FontMatchingProperties fontMatchingProp
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| fontMatchingProperties | FontMatchingProperties | Свойства соответствующего шрифта. |
+| fontMatchingProperties | FontMatchingProperties | Свойства совпадающего шрифта. |
 | charCode | UInt32 | Код символа, который будет отображаться с использованием подобранного шрифта. |
 
 ### Возвращаемое значение
 
-Массив байтов, содержащий данные шрифтов или` null` .
+Массив байтов, содержащий данные шрифтов или`нулевой`.
 
 ### Смотрите также
 

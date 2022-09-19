@@ -8,7 +8,7 @@ url: /ru/net/aspose.svg/svgcomponenttransferfunctionelement/slope/
 ---
 ## SVGComponentTransferFunctionElement.Slope property
 
-Соответствует атрибуту 'наклон' данного элемента.
+Соответствует атрибуту «наклон» данного элемента.
 
 ```csharp
 public SVGAnimatedNumber Slope { get; }
@@ -16,7 +16,7 @@ public SVGAnimatedNumber Slope { get; }
 
 ### Стоимость имущества
 
-Атрибут 'наклон' данного элемента.
+Атрибут «наклон» данного элемента.
 
 ### Смотрите также
 

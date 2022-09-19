@@ -1,14 +1,14 @@
 ---
 title: DERIVATION_LIST
 second_title: Справочник по Aspose.SVG для .NET API
-description: Если схема документа является XML-схемой XML-схема часть 1 эта константа представляет список.
+description: Если схема документа представляет собой XMLсхему XMLсхема часть 1 эта константа представляет список.
 type: docs
 weight: 50
 url: /ru/net/aspose.svg.dom/typeinfo/derivation_list/
 ---
 ## TypeInfo.DERIVATION_LIST field
 
-Если схема документа является XML-схемой [XML-схема, часть 1], эта константа представляет список.
+Если схема документа представляет собой XML-схему [XML-схема, часть 1], эта константа представляет список.
 
 ```csharp
 public const ulong DERIVATION_LIST;

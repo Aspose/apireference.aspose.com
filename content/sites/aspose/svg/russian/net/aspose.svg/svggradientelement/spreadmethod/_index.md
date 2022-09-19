@@ -8,7 +8,7 @@ url: /ru/net/aspose.svg/svggradientelement/spreadmethod/
 ---
 ## SVGGradientElement.SpreadMethod property
 
-Соответствует атрибуту 'spreadMethod' данного элемента. Один из типов метода распространения, определенных в этом интерфейсе.
+Соответствует атрибуту «spreadMethod» данного элемента. Один из типов метода распространения, определенных в этом интерфейсе.
 
 ```csharp
 public SVGAnimatedEnumeration SpreadMethod { get; }

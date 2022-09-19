@@ -1,14 +1,14 @@
 ---
 title: CDATA_SECTION_NODE
 second_title: Справочник по Aspose.SVG для .NET API
-description: Узел раздела cdata
+description: Раздел cdata node
 type: docs
 weight: 330
 url: /ru/net/aspose.svg.dom/node/cdata_section_node/
 ---
 ## Node.CDATA_SECTION_NODE field
 
-Узел раздела cdata
+Раздел cdata node
 
 ```csharp
 public const ushort CDATA_SECTION_NODE;

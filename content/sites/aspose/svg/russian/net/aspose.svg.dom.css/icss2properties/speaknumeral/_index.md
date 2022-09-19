@@ -1,14 +1,14 @@
 ---
 title: SpeakNumeral
 second_title: Справочник по Aspose.SVG для .NET API
-description: См. определение свойства speak-numeral в CSS2.
+description: См. определение свойства voicenumeral в CSS2.
 type: docs
 weight: 1020
 url: /ru/net/aspose.svg.dom.css/icss2properties/speaknumeral/
 ---
 ## ICSS2Properties.SpeakNumeral property
 
-См. определение свойства speak-numeral в CSS2.
+См. определение свойства voice-numeral в CSS2.
 
 ```csharp
 public string SpeakNumeral { get; set; }
@@ -16,7 +16,7 @@ public string SpeakNumeral { get; set; }
 
 ### Возвращаемое значение
 
-свойство говорить-число
+говорить-числовое свойство
 
 ### Смотрите также
 

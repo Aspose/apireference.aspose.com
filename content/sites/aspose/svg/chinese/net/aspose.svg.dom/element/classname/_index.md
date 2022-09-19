@@ -1,14 +1,14 @@
 ---
 title: ClassName
 second_title: Aspose.SVG for .NET API 参考
-description: 元素的类属性由于 与许多语言公开的class关键字冲突此属性已被重命名请参阅 HTML 4.01 中的类属性定义
+description: 元素的类属性此属性已重命名为due 以与许多语言公开的class关键字冲突请参阅 HTML 4.01 中的类属性定义
 type: docs
 weight: 60
 url: /zh/net/aspose.svg.dom/element/classname/
 ---
 ## Element.ClassName property
 
-元素的类属性。由于 与许多语言公开的“class”关键字冲突，此属性已被重命名。请参阅 HTML 4.01 中的类属性定义。
+元素的类属性。此属性已重命名为due ，以与许多语言公开的“class”关键字冲突。请参阅 HTML 4.01 中的类属性定义。
 
 ```csharp
 public string ClassName { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: NewValueSpecifiedUnits
 second_title: Aspose.SVG for .NET API 参考
-description: 将值重置为具有关联 unitType 的数字从而替换对象上所有属性的值
+description: 将该值重置为具有关联 unitType 的数字从而替换对象上所有属性的值
 type: docs
 weight: 60
 url: /zh/net/aspose.svg.datatypes/svgangle/newvaluespecifiedunits/
 ---
 ## SVGAngle.NewValueSpecifiedUnits method
 
-将值重置为具有关联 unitType 的数字，从而替换对象上所有属性的值。
+将该值重置为具有关联 unitType 的数字，从而替换对象上所有属性的值。
 
 ```csharp
 public void NewValueSpecifiedUnits(ushort newUnitType, float valueInSpecifiedUnits)

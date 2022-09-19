@@ -1,14 +1,14 @@
 ---
 title: MutationObserver
 second_title: Справочник по Aspose.SVG для .NET API
-description: ОбъектMutationObserver./mutationobserverможно использовать для наблюдения за мутациями в деревеУзел.
+description: АMutationObserver./mutationobserver объект можно использовать для наблюдения за мутациями в деревеNode../aspose.svg.dom/node .
 type: docs
-weight: 1130
+weight: 1120
 url: /ru/net/aspose.svg.dom.mutations/mutationobserver/
 ---
 ## MutationObserver class
 
-Объект[`MutationObserver`](../mutationobserver)можно использовать для наблюдения за мутациями в деревеУзел.
+А[`MutationObserver`](../mutationobserver) объект можно использовать для наблюдения за мутациями в дереве[`Node`](../../aspose.svg.dom/node) .
 
 ```csharp
 public class MutationObserver : DOMObject
@@ -18,16 +18,16 @@ public class MutationObserver : DOMObject
 
 | Имя | Описание |
 | --- | --- |
-| [MutationObserver](mutationobserver)(MutationCallback) | Создает объект MutationObserver и устанавливает для его[`MutationCallback`](../mutationcallback)обратный вызов. Обратный вызов вызывается со списком объектов MutationRecord в качестве первого аргумента и сконструированным объектом MutationObserver в качестве второго аргумента. Он вызывается после изменения узлов, зарегистрированных с помощью метода &lt;see cref="!:Observe(Node, IMutationObserverInit)" /&gt;. |
+| [MutationObserver](mutationobserver)(MutationCallback) | Создает объект MutationObserver и устанавливает его[`MutationCallback`](../mutationcallback) для обратного звонка. Обратный вызов вызывается со списком объектов MutationRecord в качестве первого аргумента и созданным объектом MutationObserver в качестве второго аргумента. Он вызывается после того, как узлы зарегистрированы в!:Observe(Node, IMutationObserverInit) метод, мутировали. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| [Disconnect](../../aspose.svg.dom.mutations/mutationobserver/disconnect)() | Запрещает наблюдателю наблюдать за любыми мутациями. До тех пор, пока метод наблюдать() не будет использован снова, обратный вызов наблюдателя не будет вызван. |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | Этот метод используется для получения объекта ECMAScriptType. |
-| [Observe](../../aspose.svg.dom.mutations/mutationobserver/observe#observe)(Node) | Указывает пользовательскому агенту наблюдать за данной целью (узлом) и сообщать о любых мутациях на основе критериев, заданных опциями (объект). Аргумент options позволяет устанавливать параметры наблюдения за мутациями через члены объекта. |
-| [Observe](../../aspose.svg.dom.mutations/mutationobserver/observe#observe_1)(Node, MutationObserverInit) | Указывает пользовательскому агенту наблюдать за данной целью (узлом) и сообщать о любых мутациях на основе критериев, заданных опциями (объект). Аргумент options позволяет устанавливать параметры наблюдения за мутациями через члены объекта. |
+| [Disconnect](../../aspose.svg.dom.mutations/mutationobserver/disconnect)() | Запрещает наблюдателю наблюдать за любыми мутациями. Пока метод наблюдать() не будет использован снова, обратный вызов наблюдателя не будет вызван. |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | Этот метод используется для получения объекта ECMAScript.Type . |
+| [Observe](../../aspose.svg.dom.mutations/mutationobserver/observe#observe)(Node) | Указывает пользовательскому агенту наблюдать за заданной целью (узлом) и сообщать о любых мутациях на основе критериев, заданных опциями (объект). Аргумент options позволяет устанавливать параметры наблюдения за мутациями через элементы объекта. |
+| [Observe](../../aspose.svg.dom.mutations/mutationobserver/observe#observe_1)(Node, MutationObserverInit) | Указывает пользовательскому агенту наблюдать за заданной целью (узлом) и сообщать о любых мутациях на основе критериев, заданных опциями (объект). Аргумент options позволяет устанавливать параметры наблюдения за мутациями через элементы объекта. |
 | [TakeRecords](../../aspose.svg.dom.mutations/mutationobserver/takerecords)() | Метод возвращает копию очереди записей, а затем очищает очередь записей. |
 
 ### Смотрите также

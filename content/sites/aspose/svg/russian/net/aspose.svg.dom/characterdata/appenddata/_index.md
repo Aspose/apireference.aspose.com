@@ -1,14 +1,14 @@
 ---
 title: AppendData
 second_title: Справочник по Aspose.SVG для .NET API
-description: Добавляет строку в конец символьных данных узла.
+description: Добавить строку в конец символьных данных узла.
 type: docs
 weight: 30
 url: /ru/net/aspose.svg.dom/characterdata/appenddata/
 ---
 ## CharacterData.AppendData method
 
-Добавляет строку в конец символьных данных узла.
+Добавить строку в конец символьных данных узла.
 
 ```csharp
 public virtual void AppendData(string data)
@@ -16,7 +16,7 @@ public virtual void AppendData(string data)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| data | String | Данные содержимого. |
+| data | String | Данные контента. |
 
 ### Смотрите также
 

@@ -1,7 +1,7 @@
 ---
 title: Translate
 second_title: Справочник по Aspose.SVG для .NET API
-description: Пост-умножает трансляционное преобразование на текущую матрицу и возвращает результирующую матрицу.
+description: Постумножает трансляционное преобразование на текущую матрицу и возвращает результирующую матрицу.
 type: docs
 weight: 140
 url: /ru/net/aspose.svg.datatypes/svgmatrix/translate/
@@ -21,7 +21,7 @@ public SVGMatrix Translate(float x, float y)
 
 ### Возвращаемое значение
 
-Результирующая матрица.
+Полученная матрица.
 
 ### Смотрите также
 

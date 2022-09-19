@@ -1,14 +1,14 @@
 ---
 title: Remove
 second_title: Справочник по Aspose.SVG для .NET API
-description: Удаляет указанную пару ключ/значение из коллекцииMutationObserverInitaspose.svg.dom.mutations/mutationobserverinit.
+description: Удаляет указанную пару ключ/значение изMutationObserverInitaspose.svg.dom.mutations/mutationobserverinitколлекция.
 type: docs
 weight: 200
 url: /ru/net/aspose.svg.dom.mutations/mutationobserverinit/remove/
 ---
 ## Remove(KeyValuePair&lt;string, object&gt;) {#remove}
 
-Удаляет указанную пару ключ/значение из коллекции[`MutationObserverInit`](../../mutationobserverinit).
+Удаляет указанную пару ключ/значение из[`MutationObserverInit`](../../mutationobserverinit)коллекция.
 
 ```csharp
 public bool Remove(KeyValuePair<string, object> item)
@@ -16,11 +16,11 @@ public bool Remove(KeyValuePair<string, object> item)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| item | KeyValuePair`2 | Элемент для удаления. |
+| item | KeyValuePair`2 | Элемент, который необходимо удалить. |
 
 ### Возвращаемое значение
 
-True, если успешно удалено; в противном случае ложно.
+Истинно, если успешно удалено; в противном случае ложно.
 
 ### Смотрите также
 
@@ -32,7 +32,7 @@ True, если успешно удалено; в противном случае
 
 ## Remove(string) {#remove_1}
 
-Удаляет значение, связанное с указанным ключом, из коллекции[`MutationObserverInit`](../../mutationobserverinit).
+Удаляет значение, связанное с указанным ключом, из[`MutationObserverInit`](../../mutationobserverinit)коллекция.
 
 ```csharp
 public bool Remove(string key)

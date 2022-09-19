@@ -1,14 +1,14 @@
 ---
 title: InsertItemBefore
 second_title: Aspose.SVG for .NET API 参考
-description: 将新项目插入到列表中的指定位置第一项是数字 0
+description: 在列表的指定位置插入一个新项目第一项是数字 0.
 type: docs
 weight: 90
 url: /zh/net/aspose.svg.collections/svglistbase-1/insertitembefore/
 ---
 ## SVGListBase&lt;T&gt;.InsertItemBefore method
 
-将新项目插入到列表中的指定位置。第一项是数字 0。
+在列表的指定位置插入一个新项目。第一项是数字 0.
 
 ```csharp
 public T InsertItemBefore(T newItem, ulong index)
@@ -17,7 +17,7 @@ public T InsertItemBefore(T newItem, ulong index)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | newItem | T | 要插入到列表中的项目。 |
-| index | UInt64 | 要在其前插入新项目的项目的索引。第一项是数字 0。如果索引等于 0，则将新项插入到列表的前面。如果索引大于或等于 numberOfItems，则将新项目附加到列表的末尾。 |
+| index | UInt64 | 要插入新项目的项目的索引。第一项是数字 0。如果索引等于 0，则将新项插入到列表的前面。如果索引大于或等于 numberOfItems，则将新项目附加到列表的末尾。 |
 
 ### 返回值
 
@@ -27,7 +27,7 @@ public T InsertItemBefore(T newItem, ulong index)
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception) | 代码[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err)。 无法修改列表时引发。 |
+| [DOMException](../../../aspose.svg.dom/domexception) | 代码[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err). 无法修改列表时引发。 |
 
 ### 也可以看看
 

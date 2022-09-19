@@ -1,14 +1,14 @@
 ---
 title: RequestMessage
 second_title: Справочник по Aspose.SVG для .NET API
-description: Инициализирует новый экземпляр классаRequestMessageaspose.svg.net/requestmessage.
+description: Инициализирует новый экземплярRequestMessageaspose.svg.net/requestmessage класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.net/requestmessage/requestmessage/
 ---
 ## RequestMessage(string) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`RequestMessage`](../../requestmessage).
+Инициализирует новый экземпляр[`RequestMessage`](../../requestmessage) класс.
 
 ```csharp
 public RequestMessage(string address)
@@ -28,7 +28,7 @@ public RequestMessage(string address)
 
 ## RequestMessage(Url) {#constructor}
 
-Инициализирует новый экземпляр класса[`RequestMessage`](../../requestmessage).
+Инициализирует новый экземпляр[`RequestMessage`](../../requestmessage) класс.
 
 ```csharp
 public RequestMessage(Url uri)
@@ -36,7 +36,7 @@ public RequestMessage(Url uri)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| uri | Url | URL запроса. |
+| uri | Url | URL-адрес запроса. |
 
 ### Смотрите также
 

@@ -8,7 +8,7 @@ url: /ru/net/aspose.svg/svgmaskelement/requiredfeatures/
 ---
 ## SVGMaskElement.RequiredFeatures property
 
-Соответствует атрибуту 'requiredFeatures' данного элемента.
+Соответствует атрибуту «requiredFeatures» данного элемента.
 
 ```csharp
 public SVGStringList RequiredFeatures { get; }

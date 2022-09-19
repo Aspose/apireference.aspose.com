@@ -3,7 +3,7 @@ title: ImageFormat
 second_title: Aspose.SVG for .NET API 参考
 description: 指定图像的文件格式
 type: docs
-weight: 2800
+weight: 2810
 url: /zh/net/aspose.svg.rendering.image/imageformat/
 ---
 ## ImageFormat enumeration

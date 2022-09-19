@@ -1,7 +1,7 @@
 ---
 title: LineHeight
 second_title: Справочник по Aspose.SVG для .NET API
-description: См. определение свойства line-height в CSS2.
+description: См. определение свойства lineheight в CSS2.
 type: docs
 weight: 580
 url: /ru/net/aspose.svg.dom.css/icss2properties/lineheight/

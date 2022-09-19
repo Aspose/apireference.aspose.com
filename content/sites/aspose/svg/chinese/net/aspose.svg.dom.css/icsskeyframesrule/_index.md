@@ -3,7 +3,7 @@ title: ICSSKeyframesRule
 second_title: Aspose.SVG for .NET API 参考
 description: CSSKeyframesRule 接口表示单个动画的完整关键帧集
 type: docs
-weight: 590
+weight: 580
 url: /zh/net/aspose.svg.dom.css/icsskeyframesrule/
 ---
 ## ICSSKeyframesRule interface
@@ -18,8 +18,8 @@ public interface ICSSKeyframesRule : ICSSRule
 
 | 姓名 | 描述 |
 | --- | --- |
-| [CSSRules](../../aspose.svg.dom.css/icsskeyframesrule/cssrules) { get; } | 该属性允许访问 |
-| [Name](../../aspose.svg.dom.css/icsskeyframesrule/name) { get; } | 此属性是关键帧的名称，由 'animation-name' 属性使用。 |
+| [CSSRules](../../aspose.svg.dom.css/icsskeyframesrule/cssrules) { get; } | 此属性允许访问列表中的关键帧 |
+| [Name](../../aspose.svg.dom.css/icsskeyframesrule/name) { get; } | 此属性是关键帧的名称，由“动画名称”属性使用。 |
 
 ## 方法
 

@@ -1,14 +1,14 @@
 ---
 title: ReplaceChild
 second_title: Справочник по Aspose.SVG для .NET API
-description: Заменяет дочерний узел oldChild на newChild в списке дочерних элементов и возвращает узел oldChild. Если newChild является объектом DocumentFragment то oldChild заменяется всеми дочерними объектами DocumentFragment которые вставляются в том же порядке. Если новый дочерний элемент уже находится в дереве он сначала удаляется.
+description: Заменяет дочерний узел oldChild на newChild в списке дочерних элементов и возвращает узел oldChild. Если newChild является объектом DocumentFragment то oldChild заменяется всеми дочерними элементами DocumentFragment которые вставляются в том же порядке. Если новый дочерний элемент уже находится в дереве он сначала удаляется.
 type: docs
 weight: 300
 url: /ru/net/aspose.svg.dom/node/replacechild/
 ---
 ## Node.ReplaceChild method
 
-Заменяет дочерний узел oldChild на newChild в списке дочерних элементов и возвращает узел oldChild. Если newChild является объектом DocumentFragment, то oldChild заменяется всеми дочерними объектами DocumentFragment, которые вставляются в том же порядке. Если новый дочерний элемент уже находится в дереве, он сначала удаляется.
+Заменяет дочерний узел oldChild на newChild в списке дочерних элементов и возвращает узел oldChild. Если newChild является объектом DocumentFragment, то oldChild заменяется всеми дочерними элементами DocumentFragment, которые вставляются в том же порядке. Если новый дочерний элемент уже находится в дереве, он сначала удаляется.
 
 ```csharp
 public Node ReplaceChild(Node node, Node child)

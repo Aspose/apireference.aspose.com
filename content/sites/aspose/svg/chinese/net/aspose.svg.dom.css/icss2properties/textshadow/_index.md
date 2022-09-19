@@ -1,14 +1,14 @@
 ---
 title: TextShadow
 second_title: Aspose.SVG for .NET API 参考
-description: 请参阅 CSS2 中的 text-shadow 属性定义
+description: 见 CSS2 中的 textshadow 属性定义
 type: docs
 weight: 1100
 url: /zh/net/aspose.svg.dom.css/icss2properties/textshadow/
 ---
 ## ICSS2Properties.TextShadow property
 
-请参阅 CSS2 中的 text-shadow 属性定义。
+见 CSS2 中的 text-shadow 属性定义。
 
 ```csharp
 public string TextShadow { get; set; }

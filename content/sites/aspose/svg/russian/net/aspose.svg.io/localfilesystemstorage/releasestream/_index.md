@@ -1,14 +1,14 @@
 ---
 title: ReleaseStream
 second_title: Справочник по Aspose.SVG для .NET API
-description: Освобождает поток выходных файлов.
+description: Освобождает поток выходного файла.
 type: docs
 weight: 40
 url: /ru/net/aspose.svg.io/localfilesystemstorage/releasestream/
 ---
 ## LocalFileSystemStorage.ReleaseStream method
 
-Освобождает поток выходных файлов.
+Освобождает поток выходного файла.
 
 ```csharp
 public virtual void ReleaseStream(OutputStream stream)
@@ -16,7 +16,7 @@ public virtual void ReleaseStream(OutputStream stream)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| stream | OutputStream | Поток выходного файла. |
+| stream | OutputStream | Выходной файловый поток. |
 
 ### Смотрите также
 

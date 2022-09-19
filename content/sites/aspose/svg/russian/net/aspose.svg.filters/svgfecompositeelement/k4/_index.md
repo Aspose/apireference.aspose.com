@@ -8,7 +8,7 @@ url: /ru/net/aspose.svg.filters/svgfecompositeelement/k4/
 ---
 ## SVGFECompositeElement.K4 property
 
-Соответствует атрибуту 'k4' данного элемента 'feComposite'.
+Соответствует атрибуту «k4» данного элемента «feComposite».
 
 ```csharp
 public SVGAnimatedNumber K4 { get; }
@@ -16,7 +16,7 @@ public SVGAnimatedNumber K4 { get; }
 
 ### Стоимость имущества
 
-Атрибут 'k4' данного элемента 'feComposite'.
+Атрибут «k4» данного элемента «feComposite».
 
 ### Смотрите также
 

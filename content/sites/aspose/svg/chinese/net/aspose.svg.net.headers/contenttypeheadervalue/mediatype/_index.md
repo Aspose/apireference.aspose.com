@@ -16,7 +16,7 @@ public MimeType MediaType { get; set; }
 
 ### 适当的价值
 
-媒体类型。
+媒体的类型。
 
 ### 也可以看看
 

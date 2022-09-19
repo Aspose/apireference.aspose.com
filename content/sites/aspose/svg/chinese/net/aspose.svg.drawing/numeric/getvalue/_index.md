@@ -28,7 +28,7 @@ public double GetValue()
 
 ## GetValue(UnitType) {#getvalue_1}
 
-获取转换为指定[`UnitType`](../../unittype)的值。
+获取转换为指定值的值[`UnitType`](../../unittype) .
 
 ```csharp
 public double GetValue(UnitType unitType)
@@ -46,7 +46,7 @@ public double GetValue(UnitType unitType)
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | unitType |
+| ArgumentNullException | 单位类型 |
 
 ### 也可以看看
 

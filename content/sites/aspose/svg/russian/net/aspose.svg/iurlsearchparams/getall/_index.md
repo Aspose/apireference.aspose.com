@@ -1,14 +1,14 @@
 ---
 title: GetAll
 second_title: Справочник по Aspose.SVG для .NET API
-description: Возвращает все значения с именем name .
+description: Возвращает все значения имя которыхимя .
 type: docs
 weight: 40
 url: /ru/net/aspose.svg/iurlsearchparams/getall/
 ---
 ## IUrlSearchParams.GetAll method
 
-Возвращает все значения с именем` name` .
+Возвращает все значения, имя которых`имя` .
 
 ```csharp
 public IList<string> GetAll(string name)
@@ -20,7 +20,7 @@ public IList<string> GetAll(string name)
 
 ### Возвращаемое значение
 
-Список, содержащий все значения с именем` name` .
+Список, содержащий все значения, имя которых`имя`.
 
 ### Смотрите также
 

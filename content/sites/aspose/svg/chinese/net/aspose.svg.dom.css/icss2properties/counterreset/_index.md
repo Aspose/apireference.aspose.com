@@ -1,14 +1,14 @@
 ---
 title: CounterReset
 second_title: Aspose.SVG for .NET API 参考
-description: 请参阅 CSS2 中的计数器重置属性定义
+description: 参见CSS2中的计数器重置属性定义
 type: docs
 weight: 370
 url: /zh/net/aspose.svg.dom.css/icss2properties/counterreset/
 ---
 ## ICSS2Properties.CounterReset property
 
-请参阅 CSS2 中的计数器重置属性定义。
+参见CSS2中的计数器重置属性定义。
 
 ```csharp
 public string CounterReset { get; set; }
@@ -16,7 +16,7 @@ public string CounterReset { get; set; }
 
 ### 返回值
 
-计数器重置属性
+反重置属性
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: LocalName
 second_title: Справочник по Aspose.SVG для .NET API
-description: Возвращает локальную часть полного имени этого узла. Для узлов любого типа кроме ELEMENT_NODE и ATTRIBUTE_NODE и узлов созданных с помощью метода DOM уровня 1 например Document.createElement всегда равно null.
+description: Возвращает локальную часть полного имени этого узла. Для узлов любого типа кроме ELEMENT_NODE и ATTRIBUTE_NODE и узлов созданных с помощью метода DOM уровня 1 такого как Document.createElement всегда равно null.
 type: docs
 weight: 20
 url: /ru/net/aspose.svg.dom/attr/localname/
 ---
 ## Attr.LocalName property
 
-Возвращает локальную часть полного имени этого узла. Для узлов любого типа, кроме ELEMENT_NODE и ATTRIBUTE_NODE, и узлов, созданных с помощью метода DOM уровня 1, например Document.createElement(), всегда равно null.
+Возвращает локальную часть полного имени этого узла. Для узлов любого типа, кроме ELEMENT_NODE и ATTRIBUTE_NODE, и узлов, созданных с помощью метода DOM уровня 1, такого как Document.createElement(), всегда равно null.
 
 ```csharp
 public override string LocalName { get; }
@@ -16,7 +16,7 @@ public override string LocalName { get; }
 
 ### Стоимость имущества
 
-Имя местного.
+Имя локального.
 
 ### Смотрите также
 

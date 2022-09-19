@@ -3,7 +3,7 @@ title: OutputStreamContext
 second_title: Aspose.SVG for .NET API 参考
 description: 用于初始化输出流的上下文
 type: docs
-weight: 1980
+weight: 1990
 url: /zh/net/aspose.svg.io/outputstreamcontext/
 ---
 ## OutputStreamContext class
@@ -18,7 +18,7 @@ public class OutputStreamContext
 
 | 姓名 | 描述 |
 | --- | --- |
-| [OutputStreamContext](outputstreamcontext)(string) | 初始化[`OutputStreamContext`](../outputstreamcontext)类的新实例。 |
+| [OutputStreamContext](outputstreamcontext)(string) | 初始化[`OutputStreamContext`](../outputstreamcontext)类. |
 
 ## 特性
 

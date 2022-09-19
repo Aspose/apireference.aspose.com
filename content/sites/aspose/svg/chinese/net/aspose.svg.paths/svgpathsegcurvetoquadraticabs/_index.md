@@ -3,7 +3,7 @@ title: SVGPathSegCurvetoQuadraticAbs
 second_title: Aspose.SVG for .NET API 参考
 description: SVGPathSegCurvetoQuadraticAbs 接口对应于绝对二次贝塞尔曲线Q路径数据命令
 type: docs
-weight: 2530
+weight: 2540
 url: /zh/net/aspose.svg.paths/svgpathsegcurvetoquadraticabs/
 ---
 ## SVGPathSegCurvetoQuadraticAbs class
@@ -22,15 +22,15 @@ public class SVGPathSegCurvetoQuadraticAbs : SVGPathSeg
 | [PathSegTypeAsLetter](../../aspose.svg.paths/svgpathseg/pathsegtypeasletter) { get; } | 路径段的类型，由对应的单字符命令名指定。 |
 | [X](../../aspose.svg.paths/svgpathsegcurvetoquadraticabs/x) { get; set; } | 该路径段终点的绝对 X 坐标。 |
 | [X1](../../aspose.svg.paths/svgpathsegcurvetoquadraticabs/x1) { get; set; } | 第一个控制点的绝对 X 坐标。 |
-| [Y](../../aspose.svg.paths/svgpathsegcurvetoquadraticabs/y) { get; set; } | 此路径段终点的绝对 Y 坐标。 |
+| [Y](../../aspose.svg.paths/svgpathsegcurvetoquadraticabs/y) { get; set; } | 该路径段终点的绝对 Y 坐标。 |
 | [Y1](../../aspose.svg.paths/svgpathsegcurvetoquadraticabs/y1) { get; set; } | 第一个控制点的绝对 Y 坐标。 |
 
 ## 方法
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose)() | 释放非托管和（可选）托管资源。 |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | 此方法用于检索 ECMAScript 对象Type。 |
+| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose)() | 释放非托管和 - 可选 - 托管资源。 |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | 此方法用于检索 ECMAScript 对象Type . |
 
 ### 也可以看看
 

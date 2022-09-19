@@ -1,14 +1,14 @@
 ---
 title: Default
 second_title: Справочник по Aspose.SVG для .NET API
-description: Получает или устанавливает перечисление представляющее способ обработки ресурсов по умолчанию. В настоящее времяSaveIgnoreиEmbed. Значение по умолчанию Save.
+description: Получает или задает перечисление представляющее способ обработки ресурсов по умолчанию. В настоящее времяSave Ignore а такжеEmbed значения поддерживаются. Значение по умолчаниюSave .
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.saving/resourcehandlingoptions/default/
 ---
 ## ResourceHandlingOptions.Default property
 
-Получает или устанавливает перечисление, представляющее способ обработки ресурсов по умолчанию. В настоящее времяSave,IgnoreиEmbed. Значение по умолчанию —Save.
+Получает или задает перечисление, представляющее способ обработки ресурсов по умолчанию. В настоящее времяSave ,Ignore а такжеEmbed значения поддерживаются. Значение по умолчаниюSave .
 
 ```csharp
 public ResourceHandling Default { get; set; }

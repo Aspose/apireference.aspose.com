@@ -1,14 +1,14 @@
 ---
 title: AppendRule
 second_title: Справочник по Aspose.SVG для .NET API
-description: Метод appendRule добавляет переданное CSSKeyframeRule в список по переданному ключу
+description: Метод appendRule добавляет переданное CSSKeyframeRule в список по переданному ключу key
 type: docs
 weight: 30
 url: /ru/net/aspose.svg.dom.css/icsskeyframesrule/appendrule/
 ---
 ## ICSSKeyframesRule.AppendRule method
 
-Метод appendRule добавляет переданное CSSKeyframeRule в список по переданному ключу
+Метод appendRule добавляет переданное CSSKeyframeRule в список по переданному ключу key
 
 ```csharp
 public void AppendRule(string rule)
@@ -16,7 +16,7 @@ public void AppendRule(string rule)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| rule | String | Добавляемое правило, выражается в том же синтаксисе, что и одна запись в правиле '@keyframes' |
+| rule | String | Добавляемое правило, выраженное в том же синтаксисе, что и одна запись в правиле @keyframes. |
 
 ### Смотрите также
 

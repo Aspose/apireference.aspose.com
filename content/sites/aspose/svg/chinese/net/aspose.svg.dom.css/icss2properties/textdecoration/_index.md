@@ -1,14 +1,14 @@
 ---
 title: TextDecoration
 second_title: Aspose.SVG for .NET API 参考
-description: 请参阅 CSS2 中的 text-decoration 属性定义
+description: 见 CSS2 中的 textdecoration 属性定义
 type: docs
 weight: 1080
 url: /zh/net/aspose.svg.dom.css/icss2properties/textdecoration/
 ---
 ## ICSS2Properties.TextDecoration property
 
-请参阅 CSS2 中的 text-decoration 属性定义。
+见 CSS2 中的 text-decoration 属性定义。
 
 ```csharp
 public string TextDecoration { get; set; }

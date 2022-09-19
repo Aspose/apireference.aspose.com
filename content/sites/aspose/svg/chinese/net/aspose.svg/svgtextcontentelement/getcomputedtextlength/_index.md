@@ -1,14 +1,14 @@
 ---
 title: GetComputedTextLength
 second_title: Aspose.SVG for .NET API 参考
-description: 渲染此元素内所有字符的所有提前值的总和包括字形上的提前值水平或垂直属性紧缩的效果 letter-spacing 和 word-spacing 以及由于 tspan 元素上的属性 dx 和 dy 的调整对于非渲染环境用户代理应对字形指标做出合理的假设
+description: 渲染此元素中所有字符的所有提前值的总和包括字形上的提前值水平或垂直属性字距调整字母间距和单词 tspan 元素上的属性 dx 和 dy 导致的间距和调整对于非渲染环境用户代理应对字形指标做出合理的假设
 type: docs
 weight: 30
 url: /zh/net/aspose.svg/svgtextcontentelement/getcomputedtextlength/
 ---
 ## SVGTextContentElement.GetComputedTextLength method
 
-渲染此元素内所有字符的所有提前值的总和，包括字形上的提前值（水平或垂直），属性“紧缩”的效果, 'letter-spacing' 和 'word-spacing' 以及由于 'tspan' 元素上的属性 'dx' 和 'dy' 的调整。对于非渲染环境，用户代理应对字形指标做出合理的假设。
+渲染此元素中所有字符的所有提前值的总和，包括字形上的提前值（水平或垂直）、属性“字距调整”、“字母间距”和“单词- 'tspan' 元素上的属性 'dx' 和 'dy' 导致的间距和调整。对于非渲染环境，用户代理应对字形指标做出合理的假设。
 
 ```csharp
 public float GetComputedTextLength()

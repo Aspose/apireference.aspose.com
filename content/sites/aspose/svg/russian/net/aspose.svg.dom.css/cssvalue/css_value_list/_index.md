@@ -1,14 +1,14 @@
 ---
 title: CSS_VALUE_LIST
 second_title: Справочник по Aspose.SVG для .NET API
-description: Значение представляет собой список CSSValue и экземпляр интерфейса CSSValueList можно получить используя методы приведения типов для данного экземпляра интерфейса CSSValue.
+description: Значение представляет собой список CSSValue а экземпляр интерфейса CSSValueList можно получить с помощью методов приведения специфичных для привязки для этого экземпляра интерфейса CSSValue.
 type: docs
 weight: 100
 url: /ru/net/aspose.svg.dom.css/cssvalue/css_value_list/
 ---
 ## CSSValue.CSS_VALUE_LIST field
 
-Значение представляет собой список CSSValue, и экземпляр интерфейса CSSValueList можно получить, используя методы приведения типов для данного экземпляра интерфейса CSSValue.
+Значение представляет собой список CSSValue, а экземпляр интерфейса CSSValueList можно получить с помощью методов приведения, специфичных для привязки, для этого экземпляра интерфейса CSSValue.
 
 ```csharp
 public const ushort CSS_VALUE_LIST;

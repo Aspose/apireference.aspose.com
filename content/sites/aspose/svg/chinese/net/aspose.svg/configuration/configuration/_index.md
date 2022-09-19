@@ -1,14 +1,14 @@
 ---
 title: Configuration
 second_title: Aspose.SVG for .NET API 参考
-description: 初始化Configurationaspose.svg/configuration类的新实例
+description: 初始化Configurationaspose.svg/configuration类.
 type: docs
 weight: 10
 url: /zh/net/aspose.svg/configuration/configuration/
 ---
 ## Configuration constructor
 
-初始化[`Configuration`](../../configuration)类的新实例。
+初始化[`Configuration`](../../configuration)类.
 
 ```csharp
 public Configuration()

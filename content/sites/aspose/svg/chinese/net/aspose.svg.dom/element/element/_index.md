@@ -1,14 +1,14 @@
 ---
 title: Element
 second_title: Aspose.SVG for .NET API 参考
-description: 初始化Elementaspose.svg.dom/element类的新实例不要直接调用这个构造函数使用CreateElementaspose.svg.dom/document/createelement或字符串系统字符串
+description: 初始化Elementaspose.svg.dom/element班级不要直接调用这个构造函数使用CreateElementaspose.svg.dom/document/createelement或者CreateElementNSaspose.svg.dom/document/createelementns .
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.dom/element/element/
 ---
 ## Element constructor
 
-初始化[`Element`](../../element)类的新实例。不要直接调用这个构造函数，使用[`CreateElement`](../../document/createelement)或字符串，系统。字符串）。
+初始化[`Element`](../../element)班级。不要直接调用这个构造函数，使用[`CreateElement`](../../document/createelement)或者[`CreateElementNS`](../../document/createelementns) .
 
 ```csharp
 public Element(IElementInit elementInit)

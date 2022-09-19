@@ -3,7 +3,7 @@ title: DOMNameAttribute
 second_title: Aspose.SVG for .NET API 参考
 description: 指定由 W3C 定义的官方 DOM 对象名称
 type: docs
-weight: 390
+weight: 380
 url: /zh/net/aspose.svg.dom.attributes/domnameattribute/
 ---
 ## DOMNameAttribute class
@@ -19,7 +19,7 @@ public sealed class DOMNameAttribute : Attribute
 
 | 姓名 | 描述 |
 | --- | --- |
-| [DOMNameAttribute](domnameattribute)(string) | 初始化[`DOMNameAttribute`](../domnameattribute)类的新实例。 |
+| [DOMNameAttribute](domnameattribute)(string) | 初始化[`DOMNameAttribute`](../domnameattribute)类. |
 
 ## 特性
 

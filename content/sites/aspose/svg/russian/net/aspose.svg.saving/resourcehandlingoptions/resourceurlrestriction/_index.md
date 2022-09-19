@@ -1,14 +1,14 @@
 ---
 title: ResourceUrlRestriction
 second_title: Справочник по Aspose.SVG для .NET API
-description: Получает или устанавливает ограничение применяемое к URL-адресам обрабатываемых ресурсов таких как css js изображения и т. д. Значение по умолчаниюSameHost.
+description: Получает или устанавливает ограничение применяемое к URLадресам обрабатываемых ресурсов таких как css js изображения и т. д. Значение по умолчаниюSameHost .
 type: docs
 weight: 50
 url: /ru/net/aspose.svg.saving/resourcehandlingoptions/resourceurlrestriction/
 ---
 ## ResourceHandlingOptions.ResourceUrlRestriction property
 
-Получает или устанавливает ограничение, применяемое к URL-адресам обрабатываемых ресурсов, таких как css, js, изображения и т. д. Значение по умолчанию:SameHost.
+Получает или устанавливает ограничение, применяемое к URL-адресам обрабатываемых ресурсов, таких как css, js, изображения и т. д. Значение по умолчанию:SameHost .
 
 ```csharp
 public UrlRestriction ResourceUrlRestriction { get; set; }

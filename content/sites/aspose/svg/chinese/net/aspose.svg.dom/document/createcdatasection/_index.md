@@ -1,14 +1,14 @@
 ---
 title: CreateCDATASection
 second_title: Aspose.SVG for .NET API 参考
-description: 创建一个值为指定字符串的 CDATASection 节点
+description: 创建一个 CDATASection 节点其值为指定的字符串
 type: docs
 weight: 810
 url: /zh/net/aspose.svg.dom/document/createcdatasection/
 ---
 ## Document.CreateCDATASection method
 
-创建一个值为指定字符串的 CDATASection 节点。
+创建一个 CDATASection 节点，其值为指定的字符串。
 
 ```csharp
 public CDATASection CreateCDATASection(string data)
@@ -20,7 +20,7 @@ public CDATASection CreateCDATASection(string data)
 
 ### 返回值
 
-[`CDATASection`](../../cdatasection)。
+的[`CDATASection`](../../cdatasection) .
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: PreviousSibling
 second_title: Aspose.SVG for .NET API 参考
-description: 此节点之前的节点如果没有这样的节点则返回 null
+description: 紧接在此节点之前的节点如果没有这样的节点则返回 null.
 type: docs
 weight: 160
 url: /zh/net/aspose.svg.dom/node/previoussibling/
 ---
 ## Node.PreviousSibling property
 
-此节点之前的节点。如果没有这样的节点，则返回 null。
+紧接在此节点之前的节点。如果没有这样的节点，则返回 null.
 
 ```csharp
 public Node PreviousSibling { get; }

@@ -3,7 +3,7 @@ title: IDocumentStyle
 second_title: Aspose.SVG for .NET API 参考
 description: DocumentStyle 接口提供了一种机制通过该机制可以检索嵌入在文档中的样式表期望可以通过在 Document 接口的实例上使用特定于绑定的转换方法来获得 DocumentStyle 接口的实例
 type: docs
-weight: 710
+weight: 700
 url: /zh/net/aspose.svg.dom.css/idocumentstyle/
 ---
 ## IDocumentStyle interface

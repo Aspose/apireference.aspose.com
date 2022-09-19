@@ -1,14 +1,14 @@
 ---
 title: Pitch
 second_title: Справочник по Aspose.SVG для .NET API
-description: См. определение свойства высоты тона в CSS2.
+description: См. определение свойства шага в CSS2.
 type: docs
 weight: 920
 url: /ru/net/aspose.svg.dom.css/icss2properties/pitch/
 ---
 ## ICSS2Properties.Pitch property
 
-См. определение свойства высоты тона в CSS2.
+См. определение свойства шага в CSS2.
 
 ```csharp
 public string Pitch { get; set; }
@@ -16,7 +16,7 @@ public string Pitch { get; set; }
 
 ### Возвращаемое значение
 
-шаговое свойство
+свойство шага
 
 ### Смотрите также
 

@@ -1,14 +1,14 @@
 ---
 title: R
 second_title: Aspose.SVG for .NET API 参考
-description: 对应于给定 radialGradient 元素的属性 r
+description: 对应于给定radialGradient元素上的属性r
 type: docs
 weight: 60
 url: /zh/net/aspose.svg/svgradialgradientelement/r/
 ---
 ## SVGRadialGradientElement.R property
 
-对应于给定 'radialGradient' 元素的属性 'r'。
+对应于给定“radialGradient”元素上的属性“r”。
 
 ```csharp
 public SVGAnimatedLength R { get; }

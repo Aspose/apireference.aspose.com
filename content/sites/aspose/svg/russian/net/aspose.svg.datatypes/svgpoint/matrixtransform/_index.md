@@ -16,7 +16,7 @@ public SVGPoint MatrixTransform(SVGMatrix matrix)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| matrix | SVGMatrix | матрица, которая должна быть применена к этому объекту SVGPoint. |
+| matrix | SVGMatrix | Матрица, которая должна быть применена к этому объекту SVGPoint. |
 
 ### Возвращаемое значение
 

@@ -1,14 +1,14 @@
 ---
 title: SVGAnimatedNumber
 second_title: Справочник по Aspose.SVG для .NET API
-description: Используется для атрибутов базового типа number которые можно анимировать.
+description: Используется для атрибутов номера базового типа которые можно анимировать.
 type: docs
-weight: 160
+weight: 150
 url: /ru/net/aspose.svg.datatypes/svganimatednumber/
 ---
 ## SVGAnimatedNumber class
 
-Используется для атрибутов базового типа number, которые можно анимировать.
+Используется для атрибутов номера базового типа, которые можно анимировать.
 
 ```csharp
 public class SVGAnimatedNumber : SVGAnimatedValue<float>
@@ -26,8 +26,8 @@ public class SVGAnimatedNumber : SVGAnimatedValue<float>
 | Имя | Описание |
 | --- | --- |
 | [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose)() | Освобождает неуправляемые и (необязательно) управляемые ресурсы. |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | Этот метод используется для получения объекта ECMAScriptType. |
-| override [ToString](../../aspose.svg.datatypes/svganimatednumber/tostring)() | ВозвращаетString, представляющий этот экземпляр. |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | Этот метод используется для получения объекта ECMAScript.Type . |
+| override [ToString](../../aspose.svg.datatypes/svganimatednumber/tostring)() | ВозвращаетString который представляет этот экземпляр. |
 
 ### Смотрите также
 

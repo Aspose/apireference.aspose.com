@@ -1,14 +1,14 @@
 ---
 title: StrokeBrush
 second_title: Справочник по Aspose.SVG для .NET API
-description: Устанавливает или получает объект-кисть который используется для обводки контуров.
+description: Устанавливает или получает объекткисть который используется для обведенных контуров.
 type: docs
 weight: 70
 url: /ru/net/aspose.svg.rendering.pdf/pdfdevice.pdfgraphiccontext/strokebrush/
 ---
 ## PdfDevice.PdfGraphicContext.StrokeBrush property
 
-Устанавливает или получает объект-кисть, который используется для обводки контуров.
+Устанавливает или получает объект-кисть, который используется для обведенных контуров.
 
 ```csharp
 public override IBrush StrokeBrush { get; set; }

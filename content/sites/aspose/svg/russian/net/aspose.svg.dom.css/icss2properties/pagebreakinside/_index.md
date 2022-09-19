@@ -1,7 +1,7 @@
 ---
 title: PageBreakInside
 second_title: Справочник по Aspose.SVG для .NET API
-description: См. определение свойства page-break-inside в CSS2.
+description: См. определение свойства pagebreakinside в CSS2.
 type: docs
 weight: 880
 url: /ru/net/aspose.svg.dom.css/icss2properties/pagebreakinside/
@@ -16,7 +16,7 @@ public string PageBreakInside { get; set; }
 
 ### Возвращаемое значение
 
-page-break-inside свойство
+свойство разрыва страницы внутри
 
 ### Смотрите также
 

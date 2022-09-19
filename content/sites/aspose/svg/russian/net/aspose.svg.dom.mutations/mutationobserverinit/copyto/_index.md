@@ -1,14 +1,14 @@
 ---
 title: CopyTo
 second_title: Справочник по Aspose.SVG для .NET API
-description: Копирует элементыMutationObserverInitaspose.svg.dom.mutations/mutationobserverinitв существующий одномерный массив начиная с указанного индекса массива.
+description: КопируетMutationObserverInitaspose.svg.dom.mutations/mutationobserverinit элементов в существующий одномерный массив начиная с указанного индекса массива.
 type: docs
 weight: 180
 url: /ru/net/aspose.svg.dom.mutations/mutationobserverinit/copyto/
 ---
 ## MutationObserverInit.CopyTo method
 
-Копирует элементы[`MutationObserverInit`](../../mutationobserverinit)в существующий одномерный массив, начиная с указанного индекса массива.
+Копирует[`MutationObserverInit`](../../mutationobserverinit) элементов в существующий одномерный массив, начиная с указанного индекса массива.
 
 ```csharp
 public void CopyTo(KeyValuePair<string, object>[] array, int arrayIndex)
@@ -17,7 +17,7 @@ public void CopyTo(KeyValuePair<string, object>[] array, int arrayIndex)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | array | KeyValuePair`2[] | Целевой массив. |
-| arrayIndex | Int32 | Начальный индекс массива. |
+| arrayIndex | Int32 | Индекс массива, с которого нужно начать. |
 
 ### Смотрите также
 

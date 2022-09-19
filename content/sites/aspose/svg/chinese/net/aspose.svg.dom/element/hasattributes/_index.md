@@ -16,7 +16,7 @@ public override bool HasAttributes()
 
 ### 返回值
 
-boolean` true` 如果此节点有任何属性，` false` 否则。
+布尔值`真的`如果这个节点有任何属性，`错误的`否则。
 
 ### 也可以看看
 

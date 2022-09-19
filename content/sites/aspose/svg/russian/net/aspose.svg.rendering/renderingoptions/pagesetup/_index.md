@@ -1,14 +1,14 @@
 ---
 title: PageSetup
 second_title: Справочник по Aspose.SVG для .NET API
-description: Получает объект настройки страницы используемый для конфигурации вывода набора страниц.
+description: Получает объект настройки страницы который используется для вывода конфигурации набора страниц.
 type: docs
 weight: 50
 url: /ru/net/aspose.svg.rendering/renderingoptions/pagesetup/
 ---
 ## RenderingOptions.PageSetup property
 
-Получает объект настройки страницы, используемый для конфигурации вывода набора страниц.
+Получает объект настройки страницы, который используется для вывода конфигурации набора страниц.
 
 ```csharp
 public PageSetup PageSetup { get; }

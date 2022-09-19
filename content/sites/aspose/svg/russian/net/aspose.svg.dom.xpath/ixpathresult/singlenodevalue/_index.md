@@ -1,14 +1,14 @@
 ---
 title: SingleNodeValue
 second_title: Справочник по Aspose.SVG для .NET API
-description: Значение этого единственного результата узла которое может быть null .
+description: Значение этого единственного результата узла которое может бытьнулевой .
 type: docs
 weight: 50
 url: /ru/net/aspose.svg.dom.xpath/ixpathresult/singlenodevalue/
 ---
 ## IXPathResult.SingleNodeValue property
 
-Значение этого единственного результата узла, которое может быть` null` .
+Значение этого единственного результата узла, которое может быть`нулевой` .
 
 ```csharp
 public Node SingleNodeValue { get; }
@@ -18,7 +18,7 @@ public Node SingleNodeValue { get; }
 
 | исключение | условие |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception) | TYPE_ERR: возникает, если resultType не ` AnyUnorderedNode` type или` FirstOrderedNode` type. |
+| [DOMException](../../../aspose.svg.dom/domexception) | TYPE_ERR: возникает, если resultType не равен `AnyUnorderedNode` тип или`ПервыйЗаказанныйУзел` тип. |
 
 ### Смотрите также
 

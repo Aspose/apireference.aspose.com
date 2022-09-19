@@ -3,7 +3,7 @@ title: DOMObjectAttribute
 second_title: Aspose.SVG for .NET API 参考
 description: 指定用此属性标记的对象由 W3C 定义
 type: docs
-weight: 430
+weight: 420
 url: /zh/net/aspose.svg.dom.attributes/domobjectattribute/
 ---
 ## DOMObjectAttribute class

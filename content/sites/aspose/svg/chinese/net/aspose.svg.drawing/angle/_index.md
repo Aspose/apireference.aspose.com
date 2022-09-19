@@ -3,7 +3,7 @@ title: Angle
 second_title: Aspose.SVG for .NET API 参考
 description: 角度数据类型
 type: docs
-weight: 1380
+weight: 1370
 url: /zh/net/aspose.svg.drawing/angle/
 ---
 ## Angle class
@@ -18,27 +18,27 @@ public sealed class Angle : Dimension
 
 | 姓名 | 描述 |
 | --- | --- |
-| [UnitType](../../aspose.svg.drawing/unit/unittype) { get; } | 获取[`Unit`](../unit)的单位类型。 |
+| [UnitType](../../aspose.svg.drawing/unit/unittype) { get; } | 获取单位类型[`Unit`](../unit) . |
 
 ## 方法
 
 | 姓名 | 描述 |
 | --- | --- |
-| [CompareTo](../../aspose.svg.drawing/numeric/compareto)(Numeric) | 将当前实例与另一个相同类型的对象进行比较，并返回一个整数，该整数指示当前实例在排序顺序中是位于另一个对象之前、之后还是出现在相同位置. |
-| override [Equals](../../aspose.svg.drawing/unit/equals)(object) | 确定指定的Object是否等于此实例。 |
-| override [Equals](../../aspose.svg.drawing/numeric/equals)(Unit) | 确定指定的[`Unit`](../unit)是否等于此实例。 |
+| [CompareTo](../../aspose.svg.drawing/numeric/compareto)(Numeric) | 将当前实例与另一个相同类型的对象进行比较，并返回一个整数，指示当前实例在排序顺序中是在另一个对象之前、之后还是出现在相同位置。 |
+| override [Equals](../../aspose.svg.drawing/unit/equals)(object) | 判断是否指定Object 等于这个实例。 |
+| override [Equals](../../aspose.svg.drawing/numeric/equals)(Unit) | 判断是否指定[`Unit`](../unit) 等于这个实例。 |
 | override [GetHashCode](../../aspose.svg.drawing/numeric/gethashcode)() | 返回此实例的哈希码。 |
 | [GetValue](../../aspose.svg.drawing/numeric/getvalue)() | 获取单位值。 |
-| [GetValue](../../aspose.svg.drawing/numeric/getvalue)(UnitType) | 获取转换为指定[`UnitType`](../unittype)的值。 |
-| override [ToString](../../aspose.svg.drawing/dimension/tostring)() | 返回代表此实例的String。 |
-| [operator +](../../aspose.svg.drawing/angle/op_addition) | 实现运算符 +。 |
-| [operator ==](../../aspose.svg.drawing/angle/op_equality) | 实现运算符 ==。 |
-| [operator &gt;](../../aspose.svg.drawing/angle/op_greaterthan) | 实现运算符 &gt;。 |
-| [operator &gt;=](../../aspose.svg.drawing/angle/op_greaterthanorequal) | 实现运算符 &gt;=。 |
-| [operator !=](../../aspose.svg.drawing/angle/op_inequality) | 实现运算符 !=。 |
-| [operator &lt;](../../aspose.svg.drawing/angle/op_lessthan) | 实现运算符 &lt;。 |
-| [operator &lt;=](../../aspose.svg.drawing/angle/op_lessthanorequal) | 实现运算符 &lt;=。 |
-| [operator -](../../aspose.svg.drawing/angle/op_subtraction) | 实现运算符 -。 |
+| [GetValue](../../aspose.svg.drawing/numeric/getvalue)(UnitType) | 获取转换为指定值的值[`UnitType`](../unittype) . |
+| override [ToString](../../aspose.svg.drawing/dimension/tostring)() | 返回一个String代表这个实例。 |
+| [operator +](../../aspose.svg.drawing/angle/op_addition) | 实现运算符 +. |
+| [operator ==](../../aspose.svg.drawing/angle/op_equality) | 实现运算符 ==. |
+| [operator &gt;](../../aspose.svg.drawing/angle/op_greaterthan) | 实现运算符 &gt;. |
+| [operator &gt;=](../../aspose.svg.drawing/angle/op_greaterthanorequal) | 实现运算符 &gt;=. |
+| [operator !=](../../aspose.svg.drawing/angle/op_inequality) | 实现运算符 !=. |
+| [operator &lt;](../../aspose.svg.drawing/angle/op_lessthan) | 实现运算符 &lt;. |
+| [operator &lt;=](../../aspose.svg.drawing/angle/op_lessthanorequal) | 实现运算符 &lt;=. |
+| [operator -](../../aspose.svg.drawing/angle/op_subtraction) | 实现运算符 -. |
 
 ### 也可以看看
 

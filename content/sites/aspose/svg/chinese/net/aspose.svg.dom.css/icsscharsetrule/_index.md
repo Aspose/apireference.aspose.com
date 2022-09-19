@@ -1,14 +1,14 @@
 ---
 title: ICSSCharsetRule
 second_title: Aspose.SVG for .NET API 参考
-description: CSSCharsetRule 接口表示 CSS 样式表中的charset 规则 encoding 属性的值不影响 DOM 对象中文本数据的编码此编码始终为 UTF-16加载样式表后编码属性的值就是在charset 规则中找到的值如果原始文档中没有charset则不会创建 CSSCharsetRule encoding 属性的值也可以用作样式表序列化时使用的编码的提示
+description: CSSCharsetRule 接口表示CSS 样式表中的charset 规则 encoding属性的值不影响DOM对象中文本数据的编码此编码始终为 UTF16加载样式表后编码属性的值就是在charset 规则中找到的值如果原始文档中没有 charset则不会创建 CSSCharsetRule encoding 属性的值也可以用作样式表序列化时使用的编码的提示
 type: docs
-weight: 540
+weight: 530
 url: /zh/net/aspose.svg.dom.css/icsscharsetrule/
 ---
 ## ICSSCharsetRule interface
 
-CSSCharsetRule 接口表示 CSS 样式表中的@charset 规则。 encoding 属性的值不影响 DOM 对象中文本数据的编码；此编码始终为 UTF-16。加载样式表后，编码属性的值就是在@charset 规则中找到的值。如果原始文档中没有@charset，则不会创建 CSSCharsetRule。 encoding 属性的值也可以用作样式表序列化时使用的编码的提示。
+CSSCharsetRule 接口表示CSS 样式表中的@charset 规则。 encoding属性的值不影响DOM对象中文本数据的编码；此编码始终为 UTF-16。加载样式表后，编码属性的值就是在@charset 规则中找到的值。如果原始文档中没有 @charset，则不会创建 CSSCharsetRule。 encoding 属性的值也可以用作样式表序列化时使用的编码的提示。
 
 ```csharp
 public interface ICSSCharsetRule : ICSSRule

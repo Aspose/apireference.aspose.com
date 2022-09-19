@@ -1,14 +1,14 @@
 ---
 title: SVGPathSegCurvetoQuadraticAbs
 second_title: Справочник по Aspose.SVG для .NET API
-description: Интерфейс SVGPathSegCurvetoQuadraticAbs соответствует команде данных пути абсолютная квадратичная кривая Безье к Q.
+description: Интерфейс SVGPathSegCurvetoQuadraticAbs соответствует команде данных пути абсолютная квадратичная кривая Безье Q.
 type: docs
-weight: 2530
+weight: 2540
 url: /ru/net/aspose.svg.paths/svgpathsegcurvetoquadraticabs/
 ---
 ## SVGPathSegCurvetoQuadraticAbs class
 
-Интерфейс SVGPathSegCurvetoQuadraticAbs соответствует команде данных пути "абсолютная квадратичная кривая Безье к" (Q).
+Интерфейс SVGPathSegCurvetoQuadraticAbs соответствует команде данных пути "абсолютная квадратичная кривая Безье" (Q).
 
 ```csharp
 public class SVGPathSegCurvetoQuadraticAbs : SVGPathSeg
@@ -18,7 +18,7 @@ public class SVGPathSegCurvetoQuadraticAbs : SVGPathSeg
 
 | Имя | Описание |
 | --- | --- |
-| [PathSegType](../../aspose.svg.paths/svgpathseg/pathsegtype) { get; } | Тип сегмента пути, заданный одной из констант, определенных в этом интерфейсе. |
+| [PathSegType](../../aspose.svg.paths/svgpathseg/pathsegtype) { get; } | Тип сегмента пути, указанный одной из констант, определенных на этом интерфейсе. |
 | [PathSegTypeAsLetter](../../aspose.svg.paths/svgpathseg/pathsegtypeasletter) { get; } | Тип сегмента пути, определяемый соответствующим односимвольным именем команды. |
 | [X](../../aspose.svg.paths/svgpathsegcurvetoquadraticabs/x) { get; set; } | Абсолютная координата X конечной точки этого сегмента пути. |
 | [X1](../../aspose.svg.paths/svgpathsegcurvetoquadraticabs/x1) { get; set; } | Абсолютная координата X для первой контрольной точки. |
@@ -30,7 +30,7 @@ public class SVGPathSegCurvetoQuadraticAbs : SVGPathSeg
 | Имя | Описание |
 | --- | --- |
 | [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose)() | Освобождает неуправляемые и (необязательно) управляемые ресурсы. |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | Этот метод используется для получения объекта ECMAScriptType. |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | Этот метод используется для получения объекта ECMAScript.Type . |
 
 ### Смотрите также
 

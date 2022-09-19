@@ -1,14 +1,14 @@
 ---
 title: FirstElementChild
 second_title: Aspose.SVG for .NET API 参考
-description: 返回此元素的第一个子元素节点如果此元素没有子元素则返回 null
+description: 返回此元素的第一个子元素节点如果此元素没有子元素则为 null
 type: docs
 weight: 30
 url: /zh/net/aspose.svg.dom/documentfragment/firstelementchild/
 ---
 ## DocumentFragment.FirstElementChild property
 
-返回此元素的第一个子元素节点。如果此元素没有子元素，则返回 null。
+返回此元素的第一个子元素节点。如果此元素没有子元素，则为 null。
 
 ```csharp
 public Element FirstElementChild { get; }

@@ -1,14 +1,14 @@
 ---
 title: LastElementChild
 second_title: Справочник по Aspose.SVG для .NET API
-description: Возвращает последний узел дочернего элемента данного элемента. null если у этого элемента нет дочерних элементов.
+description: Возвращает последний узел дочернего элемента этого элемента. null если у этого элемента нет дочерних элементов.
 type: docs
 weight: 30
 url: /ru/net/aspose.svg.dom.traversal/ielementtraversal/lastelementchild/
 ---
 ## IElementTraversal.LastElementChild property
 
-Возвращает последний узел дочернего элемента данного элемента. null, если у этого элемента нет дочерних элементов.
+Возвращает последний узел дочернего элемента этого элемента. null, если у этого элемента нет дочерних элементов.
 
 ```csharp
 public Element LastElementChild { get; }

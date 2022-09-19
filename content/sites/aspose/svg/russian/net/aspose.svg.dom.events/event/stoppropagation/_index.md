@@ -1,14 +1,14 @@
 ---
 title: StopPropagation
 second_title: Справочник по Aspose.SVG для .NET API
-description: МетодStopPropagationaspose.svg.dom.events/event/stoppropagationиспользуется для предотвращения дальнейшего распространения события во время потока событий.
+description: StopPropagationaspose.svg.dom.events/event/stoppropagation используется метод предотвращения дальнейшего распространения события во время потока событий.
 type: docs
 weight: 140
 url: /ru/net/aspose.svg.dom.events/event/stoppropagation/
 ---
 ## Event.StopPropagation method
 
-Метод`StopPropagation`используется для предотвращения дальнейшего распространения события во время потока событий.
+`StopPropagation` используется метод предотвращения дальнейшего распространения события во время потока событий.
 
 ```csharp
 public void StopPropagation()
@@ -16,7 +16,7 @@ public void StopPropagation()
 
 ### Примечания
 
-Если этот метод вызывается любым[`IEventListener`](../../ieventlistener)событие прекратится распространяется по дереву. Событие завершит отправку всем слушателям на текущем[`IEventTarget`](../../ieventtarget)до того, как поток событий остановится. Этот метод можно использовать на любой стадии потока событий.
+Если этот метод вызывается любым[`IEventListener`](../../ieventlistener) событие перестанет распространяться по дереву. Событие завершит отправку всем слушателям на текущем[`IEventTarget`](../../ieventtarget) до остановки потока событий. Этот метод можно использовать на любом этапе потока событий.
 
 ### Смотрите также
 

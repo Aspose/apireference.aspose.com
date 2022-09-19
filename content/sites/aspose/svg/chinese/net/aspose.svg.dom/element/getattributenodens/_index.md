@@ -1,14 +1,14 @@
 ---
 title: GetAttributeNodeNS
 second_title: Aspose.SVG for .NET API 参考
-description: 按本地名称和命名空间 URI 检索 Attr 节点
+description: 通过本地名称和命名空间 URI 检索 Attr 节点
 type: docs
 weight: 260
 url: /zh/net/aspose.svg.dom/element/getattributenodens/
 ---
 ## Element.GetAttributeNodeNS method
 
-按本地名称和命名空间 URI 检索 Attr 节点。
+通过本地名称和命名空间 URI 检索 Attr 节点。
 
 ```csharp
 public Attr GetAttributeNodeNS(string namespaceURI, string localName)
@@ -17,7 +17,7 @@ public Attr GetAttributeNodeNS(string namespaceURI, string localName)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | namespaceURI | String | 命名空间 URI。 |
-| localName | String | 本地名称。 |
+| localName | String | 当地人的名字。 |
 
 ### 返回值
 

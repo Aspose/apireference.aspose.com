@@ -8,7 +8,7 @@ url: /ru/net/aspose.svg.filters/svgfespecularlightingelement/in1/
 ---
 ## SVGFESpecularLightingElement.In1 property
 
-Соответствует атрибуту 'in' данного элемента 'feSpecularLighting'.
+Соответствует атрибуту "in" данного элемента "feSpecularLighting".
 
 ```csharp
 public SVGAnimatedString In1 { get; }

@@ -1,14 +1,14 @@
 ---
 title: PATHSEG_LINETO_REL
 second_title: Справочник по Aspose.SVG для .NET API
-description: Соответствует команде данных пути relative lineto l.
+description: Соответствует команде данных пути относительная линия к l.
 type: docs
 weight: 170
 url: /ru/net/aspose.svg.paths/svgpathseg/pathseg_lineto_rel/
 ---
 ## SVGPathSeg.PATHSEG_LINETO_REL field
 
-Соответствует команде данных пути "relative lineto" (l).
+Соответствует команде данных пути "относительная линия к" (l).
 
 ```csharp
 public const ushort PATHSEG_LINETO_REL;

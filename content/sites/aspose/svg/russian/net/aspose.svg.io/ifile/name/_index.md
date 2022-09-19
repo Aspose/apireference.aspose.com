@@ -1,14 +1,14 @@
 ---
 title: Name
 second_title: Справочник по Aspose.SVG для .NET API
-description: Имя файла. При получении это должно вернуть имя файла в виде строки.
+description: Имя файла. При получении должно возвращаться имя файла в виде строки.
 type: docs
 weight: 20
 url: /ru/net/aspose.svg.io/ifile/name/
 ---
 ## IFile.Name property
 
-Имя файла. При получении это должно вернуть имя файла в виде строки.
+Имя файла. При получении должно возвращаться имя файла в виде строки.
 
 ```csharp
 public string Name { get; }

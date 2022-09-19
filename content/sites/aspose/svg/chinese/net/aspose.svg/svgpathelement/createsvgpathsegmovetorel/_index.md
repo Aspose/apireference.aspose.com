@@ -1,14 +1,14 @@
 ---
 title: CreateSVGPathSegMovetoRel
 second_title: Aspose.SVG for .NET API 参考
-description: 返回一个独立的无父对象的 SVGPathSegMovetoRel 对象
+description: 返回一个独立的无父 SVGPathSegMovetoRel 对象
 type: docs
 weight: 210
 url: /zh/net/aspose.svg/svgpathelement/createsvgpathsegmovetorel/
 ---
 ## SVGPathElement.CreateSVGPathSegMovetoRel method
 
-返回一个独立的、无父对象的 SVGPathSegMovetoRel 对象。
+返回一个独立的无父 SVGPathSegMovetoRel 对象。
 
 ```csharp
 public SVGPathSegMovetoRel CreateSVGPathSegMovetoRel(float x, float y)

@@ -8,7 +8,7 @@ url: /ru/net/aspose.svg.filters/svgfeconvolvematrixelement/divisor/
 ---
 ## SVGFEConvolveMatrixElement.Divisor property
 
-Соответствует атрибуту 'divisor' данного элемента 'feConvolveMatrix'.
+Соответствует атрибуту divisor данного элемента feConvolveMatrix.
 
 ```csharp
 public SVGAnimatedNumber Divisor { get; }
@@ -16,7 +16,7 @@ public SVGAnimatedNumber Divisor { get; }
 
 ### Стоимость имущества
 
-Атрибут 'divisor' данного элемента 'feConvolveMatrix'.
+Атрибут 'делитель' данного элемента 'feConvolveMatrix'.
 
 ### Смотрите также
 

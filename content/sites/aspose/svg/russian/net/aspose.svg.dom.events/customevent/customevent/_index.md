@@ -1,14 +1,14 @@
 ---
 title: CustomEvent
 second_title: Справочник по Aspose.SVG для .NET API
-description: Инициализирует новый экземпляр классаCustomEventaspose.svg.dom.events/customevent.
+description: Инициализирует новый экземплярCustomEventaspose.svg.dom.events/customevent класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.dom.events/customevent/customevent/
 ---
 ## CustomEvent(string) {#constructor}
 
-Инициализирует новый экземпляр класса[`CustomEvent`](../../customevent).
+Инициализирует новый экземпляр[`CustomEvent`](../../customevent) класс.
 
 ```csharp
 public CustomEvent(string type)
@@ -28,7 +28,7 @@ public CustomEvent(string type)
 
 ## CustomEvent(string, IDictionary&lt;string, object&gt;) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`CustomEvent`](../../customevent).
+Инициализирует новый экземпляр[`CustomEvent`](../../customevent) класс.
 
 ```csharp
 public CustomEvent(string type, IDictionary<string, object> eventInitDict)

@@ -1,14 +1,14 @@
 ---
 title: SVGStringList
 second_title: Aspose.SVG for .NET API 参考
-description: 初始化SVGStringListaspose.svg.datatypes/svgstringlist类的新实例
+description: 初始化SVGStringListaspose.svg.datatypes/svgstringlist类.
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.datatypes/svgstringlist/svgstringlist/
 ---
 ## SVGStringList() {#constructor}
 
-初始化[`SVGStringList`](../../svgstringlist)类的新实例。
+初始化[`SVGStringList`](../../svgstringlist)类.
 
 ```csharp
 public SVGStringList()
@@ -24,7 +24,7 @@ public SVGStringList()
 
 ## SVGStringList(IEnumerable&lt;string&gt;) {#constructor_1}
 
-初始化[`SVGStringList`](../../svgstringlist)类的新实例。
+初始化[`SVGStringList`](../../svgstringlist)类.
 
 ```csharp
 public SVGStringList(IEnumerable<string> enumerable)
@@ -32,7 +32,7 @@ public SVGStringList(IEnumerable<string> enumerable)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| enumerable | IEnumerable`1 | 可枚举的。 |
+| enumerable | IEnumerable`1 | 可数的。 |
 
 ### 也可以看看
 

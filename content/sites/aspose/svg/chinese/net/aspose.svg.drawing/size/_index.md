@@ -3,7 +3,7 @@ title: Size
 second_title: Aspose.SVG for .NET API 参考
 description: 存储指定高度和宽度的值
 type: docs
-weight: 1570
+weight: 1580
 url: /zh/net/aspose.svg.drawing/size/
 ---
 ## Size class
@@ -18,16 +18,16 @@ public class Size
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Size](size#constructor)() | 初始化[`Size`](../size)类的新实例。 |
-| [Size](size#constructor_2)(int, int) | 初始化[`Size`](../size)类的新实例，并以像素为单位指定高度和宽度。 |
-| [Size](size#constructor_1)(Length, Length) | 初始化[`Size`](../size)类的新实例。 |
+| [Size](size#constructor)() | 初始化[`Size`](../size)类. |
+| [Size](size#constructor_2)(int, int) | 初始化[`Size`](../size)类并以像素为单位指定高度和宽度。 |
+| [Size](size#constructor_1)(Length, Length) | 初始化[`Size`](../size)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Height](../../aspose.svg.drawing/size/height) { get; set; } | 获取或设置此[`Size`](../size)的垂直分量。 |
-| [Width](../../aspose.svg.drawing/size/width) { get; set; } | 获取或设置此[`Size`](../size)的水平分量。 |
+| [Height](../../aspose.svg.drawing/size/height) { get; set; } | 获取或设置 this 的垂直分量[`Size`](../size) . |
+| [Width](../../aspose.svg.drawing/size/width) { get; set; } | 获取或设置 this 的水平分量[`Size`](../size) . |
 
 ### 也可以看看
 

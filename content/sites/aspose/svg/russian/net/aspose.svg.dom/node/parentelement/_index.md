@@ -1,14 +1,14 @@
 ---
 title: ParentElement
 second_title: Справочник по Aspose.SVG для .NET API
-description: Получает родителяElementaspose.svg.dom/elementэтого узла.
+description: Получает родителяElementaspose.svg.dom/element этого узла.
 type: docs
 weight: 130
 url: /ru/net/aspose.svg.dom/node/parentelement/
 ---
 ## Node.ParentElement property
 
-Получает родителя[`Element`](../../element)этого узла.
+Получает родителя[`Element`](../../element) этого узла.
 
 ```csharp
 public Element ParentElement { get; }

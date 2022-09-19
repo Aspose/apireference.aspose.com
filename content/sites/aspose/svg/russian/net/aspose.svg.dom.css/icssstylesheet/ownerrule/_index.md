@@ -1,14 +1,14 @@
 ---
 title: OwnerRule
 second_title: Справочник по Aspose.SVG для .NET API
-description: Если эта таблица стилей получена из правилаimport атрибут ownerRule будет содержать CSSImportRule. В этом случае атрибут ownerNode в интерфейсе StyleSheet будет иметь значение null. Если таблица стилей получена из элемента или инструкции по обработке атрибут ownerRule будет иметь значение null а атрибут ownerNode будет содержать атрибут Node.
+description: Если эта таблица стилей получена из правила import атрибут ownerRule будет содержать CSSImportRule. В этом случае атрибут ownerNode в интерфейсе StyleSheet будет иметь значение null. Если таблица стилей получена из элемента или инструкции обработки атрибут ownerRule будет иметь значение null а атрибут ownerNode будет содержать Node.
 type: docs
 weight: 20
 url: /ru/net/aspose.svg.dom.css/icssstylesheet/ownerrule/
 ---
 ## ICSSStyleSheet.OwnerRule property
 
-Если эта таблица стилей получена из правила@import, атрибут ownerRule будет содержать CSSImportRule. В этом случае атрибут ownerNode в интерфейсе StyleSheet будет иметь значение null. Если таблица стилей получена из элемента или инструкции по обработке, атрибут ownerRule будет иметь значение null, а атрибут ownerNode будет содержать атрибут Node.
+Если эта таблица стилей получена из правила @import, атрибут ownerRule будет содержать CSSImportRule. В этом случае атрибут ownerNode в интерфейсе StyleSheet будет иметь значение null. Если таблица стилей получена из элемента или инструкции обработки, атрибут ownerRule будет иметь значение null, а атрибут ownerNode будет содержать Node.
 
 ```csharp
 public ICSSRule OwnerRule { get; }

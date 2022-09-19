@@ -1,14 +1,14 @@
 ---
 title: FontStyle
 second_title: Aspose.SVG for .NET API 参考
-description: 获取字体样式值这个属性可以有这样的值normalitalicoblique
+description: 获取字体样式值这个属性可以有这样的值normalitalicoblique.
 type: docs
 weight: 30
 url: /zh/net/aspose.svg.rendering.fonts/fontmatchingproperties/fontstyle/
 ---
 ## FontMatchingProperties.FontStyle property
 
-获取字体样式值。这个属性可以有这样的值：normal、italic、oblique。
+获取字体样式值。这个属性可以有这样的值：normal、italic、oblique.
 
 ```csharp
 public string FontStyle { get; }

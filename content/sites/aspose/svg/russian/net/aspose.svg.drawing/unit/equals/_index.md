@@ -1,14 +1,14 @@
 ---
 title: Equals
 second_title: Справочник по Aspose.SVG для .NET API
-description: Определяет равен ли указанныйUnitaspose.svg.drawing/unitэтому экземпляру.
+description: Определяет является ли указанныйUnitaspose.svg.drawing/unit  равно этому экземпляру.
 type: docs
 weight: 20
 url: /ru/net/aspose.svg.drawing/unit/equals/
 ---
 ## Equals(Unit) {#equals}
 
-Определяет, равен ли указанный[`Unit`](../../unit)этому экземпляру.
+Определяет, является ли указанный[`Unit`](../../unit) , равно этому экземпляру.
 
 ```csharp
 public virtual bool Equals(Unit other)
@@ -16,11 +16,11 @@ public virtual bool Equals(Unit other)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| other | Unit | [`Unit`](../../unit)для сравнения с этим экземпляром. |
+| other | Unit | [`Unit`](../../unit) для сравнения с этим экземпляром. |
 
 ### Возвращаемое значение
 
-` true` , если указанный[`Unit`](../../unit)равен этому экземпляру; в противном случае` false` .
+`истинный` если указанный[`Unit`](../../unit) равен этому экземпляру; в противном случае,`ЛОЖЬ` .
 
 ### Смотрите также
 
@@ -32,7 +32,7 @@ public virtual bool Equals(Unit other)
 
 ## Equals(object) {#equals_1}
 
-Определяет, равен ли указанныйObjectэтому экземпляру.
+Определяет, является ли указанныйObject , равно этому экземпляру.
 
 ```csharp
 public override bool Equals(object obj)
@@ -40,11 +40,11 @@ public override bool Equals(object obj)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| obj | Object | Objectдля сравнения с этим экземпляром. |
+| obj | Object | Object для сравнения с этим экземпляром. |
 
 ### Возвращаемое значение
 
-` true` если указанныйObjectравен этому экземпляру; в противном случае` false` .
+`истинный` если указанныйObject равен этому экземпляру; в противном случае,`ЛОЖЬ` .
 
 ### Смотрите также
 

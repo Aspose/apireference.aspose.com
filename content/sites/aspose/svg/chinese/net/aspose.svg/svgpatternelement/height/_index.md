@@ -1,14 +1,14 @@
 ---
 title: Height
 second_title: Aspose.SVG for .NET API 参考
-description: 对应于给定 pattern 元素的属性 height
+description: 对应于给定模式元素的属性高度
 type: docs
 weight: 10
 url: /zh/net/aspose.svg/svgpatternelement/height/
 ---
 ## SVGPatternElement.Height property
 
-对应于给定 'pattern' 元素的属性 'height'。
+对应于给定“模式”元素的属性“高度”。
 
 ```csharp
 public SVGAnimatedLength Height { get; }

@@ -3,7 +3,7 @@ title: RendererTDocument
 second_title: Aspose.SVG for .NET API 参考
 description: 表示所有渲染器的抽象类
 type: docs
-weight: 2940
+weight: 2950
 url: /zh/net/aspose.svg.rendering/renderer-1/
 ---
 ## Renderer&lt;TDocument&gt; class
@@ -22,13 +22,13 @@ public abstract class Renderer<TDocument> : Renderer
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Dispose](../../aspose.svg.rendering/renderer/dispose)() | 释放非托管和（可选）托管资源。 |
-| [Render](../../aspose.svg.rendering/renderer`1/render#render_2)(IDevice, TDocument) | 定义将!:TDocument渲染到指定的[`IDevice`](../idevice)的方法。 |
-| [Render](../../aspose.svg.rendering/renderer`1/render#render_5)(IDevice, params TDocument[]) | 定义将多个!:TDocument渲染到特定[`IDevice`](../idevice)的方法。 |
-| [Render](../../aspose.svg.rendering/renderer`1/render#render)(IDevice, int, params TDocument[]) | 定义将多个!:TDocument渲染到特定[`IDevice`](../idevice)的方法。 在没有任何网络操作加载资源、活动定时器、动画任务或指定超时时间后，将执行渲染。 |
-| [Render](../../aspose.svg.rendering/renderer`1/render#render_3)(IDevice, TDocument, int) | 定义将!:TDocument渲染到指定的[`IDevice`](../idevice)的方法。 在没有任何网络操作加载资源、活动定时器、动画任务或指定超时时间后，将执行渲染。 |
-| [Render](../../aspose.svg.rendering/renderer`1/render#render_4)(IDevice, TDocument, TimeSpan) | 定义将!:TDocument渲染到指定的[`IDevice`](../idevice)的方法。 在没有任何网络操作加载资源、活动定时器、动画任务或指定超时时间后，将执行渲染。 |
-| abstract [Render](../../aspose.svg.rendering/renderer`1/render#render_1)(IDevice, TimeSpan, params TDocument[]) | 定义将多个!:TDocument渲染到特定[`IDevice`](../idevice)的方法。 在没有任何网络操作加载资源、活动定时器、动画任务或指定超时时间后，将执行渲染。 |
+| [Dispose](../../aspose.svg.rendering/renderer/dispose)() | 释放非托管和 - 可选 - 托管资源。 |
+| [Render](../../aspose.svg.rendering/renderer`1/render#render_2)(IDevice, TDocument) | 定义渲染方法!:TDocument进入指定[`IDevice`](../idevice) . |
+| [Render](../../aspose.svg.rendering/renderer`1/render#render_5)(IDevice, params TDocument[]) | 定义渲染多个的方法!:TDocument变成具体的[`IDevice`](../idevice) . |
+| [Render](../../aspose.svg.rendering/renderer`1/render#render)(IDevice, int, params TDocument[]) | 定义渲染多个的方法!:TDocument变成具体的[`IDevice`](../idevice) . 一旦没有任何用于加载资源、活动定时器、动画任务或指定超时的网络操作，将执行渲染。 |
+| [Render](../../aspose.svg.rendering/renderer`1/render#render_3)(IDevice, TDocument, int) | 定义渲染方法!:TDocument进入指定[`IDevice`](../idevice) . 一旦没有任何用于加载资源、活动定时器、动画任务或指定超时的网络操作，将执行渲染。 |
+| [Render](../../aspose.svg.rendering/renderer`1/render#render_4)(IDevice, TDocument, TimeSpan) | 定义渲染方法!:TDocument进入指定[`IDevice`](../idevice) . 一旦没有任何用于加载资源、活动定时器、动画任务或指定超时的网络操作，将执行渲染。 |
+| abstract [Render](../../aspose.svg.rendering/renderer`1/render#render_1)(IDevice, TimeSpan, params TDocument[]) | 定义渲染多个的方法!:TDocument变成具体的[`IDevice`](../idevice) . 一旦没有任何用于加载资源、活动定时器、动画任务或指定超时的网络操作，将执行渲染。 |
 
 ### 也可以看看
 

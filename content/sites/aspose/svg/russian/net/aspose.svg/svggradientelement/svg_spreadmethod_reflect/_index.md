@@ -8,7 +8,7 @@ url: /ru/net/aspose.svg/svggradientelement/svg_spreadmethod_reflect/
 ---
 ## SVGGradientElement.SVG_SPREADMETHOD_REFLECT field
 
-Соответствует значению 'отражать'.
+Соответствует значению «отражать».
 
 ```csharp
 public const ushort SVG_SPREADMETHOD_REFLECT;

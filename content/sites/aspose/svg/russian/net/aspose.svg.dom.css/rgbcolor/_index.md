@@ -3,7 +3,7 @@ title: RGBColor
 second_title: Справочник по Aspose.SVG для .NET API
 description: Интерфейс RGBColor используется для представления любого значения цвета RGB. Этот интерфейс отражает значения в базовом свойстве стиля. Следовательно изменения внесенные в объекты CSSPrimitiveValue изменяют свойство стиля.
 type: docs
-weight: 780
+weight: 770
 url: /ru/net/aspose.svg.dom.css/rgbcolor/
 ---
 ## RGBColor class
@@ -27,7 +27,7 @@ public class RGBColor : DOMObject
 
 | Имя | Описание |
 | --- | --- |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | Этот метод используется для получения объекта ECMAScriptType. |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | Этот метод используется для получения объекта ECMAScript.Type . |
 | [ToNative](../../aspose.svg.dom.css/rgbcolor/tonative)() | Преобразует объект в собственный цвет. |
 
 ### Смотрите также

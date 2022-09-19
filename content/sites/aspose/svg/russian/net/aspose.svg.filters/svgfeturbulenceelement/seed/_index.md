@@ -8,7 +8,7 @@ url: /ru/net/aspose.svg.filters/svgfeturbulenceelement/seed/
 ---
 ## SVGFETurbulenceElement.Seed property
 
-Соответствует атрибуту «seed» данного элемента «feTurbulence».
+Соответствует атрибуту "seed" данного элемента "feTurbulence".
 
 ```csharp
 public SVGAnimatedNumber Seed { get; }

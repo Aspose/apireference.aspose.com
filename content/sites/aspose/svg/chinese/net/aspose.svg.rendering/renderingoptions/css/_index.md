@@ -1,14 +1,14 @@
 ---
 title: Css
 second_title: Aspose.SVG for .NET API 参考
-description: 获取一个CssOptionsaspose.svg.rendering/cssoptions对象用于配置 css 属性处理
+description: 得到一个CssOptionsaspose.svg.rendering/cssoptions用于配置css属性处理的对象
 type: docs
 weight: 30
 url: /zh/net/aspose.svg.rendering/renderingoptions/css/
 ---
 ## RenderingOptions.Css property
 
-获取一个[`CssOptions`](../../cssoptions)对象，用于配置 css 属性处理。
+得到一个[`CssOptions`](../../cssoptions)用于配置css属性处理的对象。
 
 ```csharp
 public CssOptions Css { get; }
@@ -16,7 +16,7 @@ public CssOptions Css { get; }
 
 ### 适当的价值
 
-[`CssOptions`](../../cssoptions)对象。
+的[`CssOptions`](../../cssoptions)对象.
 
 ### 也可以看看
 

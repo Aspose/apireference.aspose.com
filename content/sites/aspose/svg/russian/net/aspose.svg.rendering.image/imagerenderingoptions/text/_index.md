@@ -1,14 +1,14 @@
 ---
 title: Text
 second_title: Справочник по Aspose.SVG для .NET API
-description: Получает объектTextOptionsaspose.svg.rendering.image/textoptions который используется для настройки рендеринга текста.
+description: ПолучаетTextOptionsaspose.svg.rendering.image/textoptions объект который используется для настройки рендеринга текста.
 type: docs
 weight: 60
 url: /ru/net/aspose.svg.rendering.image/imagerenderingoptions/text/
 ---
 ## ImageRenderingOptions.Text property
 
-Получает объект[`TextOptions`](../../textoptions), который используется для настройки рендеринга текста.
+Получает[`TextOptions`](../../textoptions) объект, который используется для настройки рендеринга текста.
 
 ```csharp
 public TextOptions Text { get; }
@@ -16,7 +16,7 @@ public TextOptions Text { get; }
 
 ### Стоимость имущества
 
-Объект[`TextOptions`](../../textoptions).
+[`TextOptions`](../../textoptions) объект.
 
 ### Смотрите также
 

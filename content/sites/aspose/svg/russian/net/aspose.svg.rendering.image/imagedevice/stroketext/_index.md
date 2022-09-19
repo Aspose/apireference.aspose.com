@@ -16,7 +16,7 @@ public override void StrokeText(string text, PointF pt)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| text | String | Строка для обводки. |
+| text | String | Строка для поглаживания. |
 | pt | PointF | Точка, указывающая координаты начала текста. |
 
 ### Смотрите также

@@ -1,14 +1,14 @@
 ---
 title: BaseURI
 second_title: Aspose.SVG for .NET API 参考
-description: 此节点的绝对基 URI 或 null 如果实现无法获得绝对 URI
+description: 此节点的绝对基础 URI如果实现无法获得绝对 URI则为 null
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.dom/document/baseuri/
 ---
 ## Document.BaseURI property
 
-此节点的绝对基 URI 或 null 如果实现无法获得绝对 URI。
+此节点的绝对基础 URI，如果实现无法获得绝对 URI，则为 null。
 
 ```csharp
 public override string BaseURI { get; }

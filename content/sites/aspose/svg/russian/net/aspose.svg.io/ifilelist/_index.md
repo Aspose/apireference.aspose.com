@@ -3,7 +3,7 @@ title: IFileList
 second_title: Справочник по Aspose.SVG для .NET API
 description: Представляет интерфейс для списка файлов.
 type: docs
-weight: 1940
+weight: 1950
 url: /ru/net/aspose.svg.io/ifilelist/
 ---
 ## IFileList interface
@@ -19,7 +19,7 @@ public interface IFileList : IEnumerable<IFile>
 | Имя | Описание |
 | --- | --- |
 | [Item](../../aspose.svg.io/ifilelist/item) { get; } | Возвращает индексный файл в списке. |
-| [Length](../../aspose.svg.io/ifilelist/length) { get; } | Возвращает длину списка файлов. |
+| [Length](../../aspose.svg.io/ifilelist/length) { get; } | Длина возврата для списка файлов. |
 
 ### Смотрите также
 

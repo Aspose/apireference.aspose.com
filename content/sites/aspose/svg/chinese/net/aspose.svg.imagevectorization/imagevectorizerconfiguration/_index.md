@@ -1,14 +1,14 @@
 ---
 title: ImageVectorizerConfiguration
 second_title: Aspose.SVG for .NET API 参考
-description: ImageVectorizerConfiguration 类定义图像矢量化方法和选项的配置 配置用于初始化 ImageVectorizer 并提供 向量化图像的配置选项
+description: ImageVectorizerConfiguration 类定义了图像矢量化方法和选项的配置 该配置用于初始化 ImageVectorizer并为 矢量化图像提供配置选项
 type: docs
-weight: 2130
+weight: 2140
 url: /zh/net/aspose.svg.imagevectorization/imagevectorizerconfiguration/
 ---
 ## ImageVectorizerConfiguration class
 
-ImageVectorizerConfiguration 类定义图像矢量化方法和选项的配置。 配置用于初始化 ImageVectorizer 并提供 向量化图像的配置选项。
+ImageVectorizerConfiguration 类定义了图像矢量化方法和选项的配置。 该配置用于初始化 ImageVectorizer，并为 矢量化图像提供配置选项。
 
 ```csharp
 public class ImageVectorizerConfiguration
@@ -18,17 +18,17 @@ public class ImageVectorizerConfiguration
 
 | 姓名 | 描述 |
 | --- | --- |
-| [ImageVectorizerConfiguration](imagevectorizerconfiguration)() | 初始化[`ImageVectorizerConfiguration`](../imagevectorizerconfiguration)类的新实例。 |
+| [ImageVectorizerConfiguration](imagevectorizerconfiguration)() | 初始化[`ImageVectorizerConfiguration`](../imagevectorizerconfiguration)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
 | [ColorsLimit](../../aspose.svg.imagevectorization/imagevectorizerconfiguration/colorslimit) { get; set; } | 获取或设置用于量化图像的最大颜色数。 默认值为 25。 |
-| [ImageSizeLimit](../../aspose.svg.imagevectorization/imagevectorizerconfiguration/imagesizelimit) { get; set; } | 获取由乘法图像宽度和高度确定的图像的最大尺寸集。 图片的大小会根据这个属性进行缩放。 默认值为 1800000。 |
-| [PathBuilder](../../aspose.svg.imagevectorization/imagevectorizerconfiguration/pathbuilder) { get; set; } | 获取或设置 SVG 路径段构建器。 |
+| [ImageSizeLimit](../../aspose.svg.imagevectorization/imagevectorizerconfiguration/imagesizelimit) { get; set; } | 获取由乘法图像宽度和高度确定的图像的最大尺寸集。 图像的大小将根据此属性进行缩放。 默认值为 1800000。 |
+| [PathBuilder](../../aspose.svg.imagevectorization/imagevectorizerconfiguration/pathbuilder) { get; set; } | 获取或设置 SVG 路径段生成器。 |
 | [TraceSimplifier](../../aspose.svg.imagevectorization/imagevectorizerconfiguration/tracesimplifier) { get; set; } | 获取或设置跟踪简化器。 |
-| [TraceSmoother](../../aspose.svg.imagevectorization/imagevectorizerconfiguration/tracesmoother) { get; set; } | 获取或设置跟踪更平滑。 |
+| [TraceSmoother](../../aspose.svg.imagevectorization/imagevectorizerconfiguration/tracesmoother) { get; set; } | 获取或设置跟踪平滑器。 |
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: BorderBottom
 second_title: Aspose.SVG for .NET API 参考
-description: 请参见 CSS2 中的border-bottom 属性定义
+description: 参见CSS2中的borderbottom属性定义
 type: docs
 weight: 90
 url: /zh/net/aspose.svg.dom.css/icss2properties/borderbottom/
 ---
 ## ICSS2Properties.BorderBottom property
 
-请参见 CSS2 中的border-bottom 属性定义。
+参见CSS2中的border-bottom属性定义。
 
 ```csharp
 public string BorderBottom { get; set; }

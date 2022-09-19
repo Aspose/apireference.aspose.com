@@ -1,14 +1,14 @@
 ---
 title: OutputStream
 second_title: Справочник по Aspose.SVG для .NET API
-description: Инициализирует новый экземпляр классаOutputStreamaspose.svg.io/outputstream.
+description: Инициализирует новый экземплярOutputStreamaspose.svg.io/outputstream класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.io/outputstream/outputstream/
 ---
 ## OutputStream constructor
 
-Инициализирует новый экземпляр класса[`OutputStream`](../../outputstream).
+Инициализирует новый экземпляр[`OutputStream`](../../outputstream) класс.
 
 ```csharp
 public OutputStream(Stream stream, string uri)
@@ -16,7 +16,7 @@ public OutputStream(Stream stream, string uri)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| stream | Stream | Выходной поток для переноса. |
+| stream | Stream | Выходной поток, который нужно обернуть. |
 | uri | String | URI местоположения потока. |
 
 ### Смотрите также

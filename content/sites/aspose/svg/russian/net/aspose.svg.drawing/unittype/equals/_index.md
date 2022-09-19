@@ -1,14 +1,14 @@
 ---
 title: Equals
 second_title: Справочник по Aspose.SVG для .NET API
-description: Определяет равен ли указанныйObjectэтому экземпляру.
+description: Определяет является ли указанныйObject  равно этому экземпляру.
 type: docs
 weight: 310
 url: /ru/net/aspose.svg.drawing/unittype/equals/
 ---
 ## Equals(object) {#equals_1}
 
-Определяет, равен ли указанныйObjectэтому экземпляру.
+Определяет, является ли указанныйObject , равно этому экземпляру.
 
 ```csharp
 public override bool Equals(object obj)
@@ -16,11 +16,11 @@ public override bool Equals(object obj)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| obj | Object | Objectдля сравнения с этим экземпляром. |
+| obj | Object | Object для сравнения с этим экземпляром. |
 
 ### Возвращаемое значение
 
-` true` если указанныйObjectравен этому экземпляру; в противном случае` false` .
+`истинный` если указанныйObject равен этому экземпляру; в противном случае,`ЛОЖЬ` .
 
 ### Смотрите также
 
@@ -32,7 +32,7 @@ public override bool Equals(object obj)
 
 ## Equals(UnitType) {#equals}
 
-Определяет, равен ли указанный[`UnitType`](../../unittype)этому экземпляру.
+Определяет, является ли указанный[`UnitType`](../../unittype) , равно этому экземпляру.
 
 ```csharp
 public bool Equals(UnitType other)
@@ -40,11 +40,11 @@ public bool Equals(UnitType other)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| other | UnitType | [`UnitType`](../../unittype)для сравнения с этим экземпляром. |
+| other | UnitType | [`UnitType`](../../unittype) для сравнения с этим экземпляром. |
 
 ### Возвращаемое значение
 
-` true` , если указанный[`UnitType`](../../unittype)равен этому экземпляру; в противном случае` false` .
+`истинный` если указанный[`UnitType`](../../unittype) равен этому экземпляру; в противном случае,`ЛОЖЬ` .
 
 ### Смотрите также
 

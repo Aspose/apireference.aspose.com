@@ -16,7 +16,7 @@ public SVGPathSegLinetoAbs CreateSVGPathSegLinetoAbs(float x, float y)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| x | Single | 该路径段终点的绝对 X 坐标。 |
+| x | Single | 此路径段终点的绝对 X 坐标。 |
 | y | Single | 此路径段终点的绝对 Y 坐标。 |
 
 ### 返回值

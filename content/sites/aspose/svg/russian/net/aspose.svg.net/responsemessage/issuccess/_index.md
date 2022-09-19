@@ -1,14 +1,14 @@
 ---
 title: IsSuccess
 second_title: Справочник по Aspose.SVG для .NET API
-description: Получает значение указывающее успешно ли отправлено это сообщение.
+description: Получает значение указывающее успешно ли получено это сообщение.
 type: docs
 weight: 50
 url: /ru/net/aspose.svg.net/responsemessage/issuccess/
 ---
 ## ResponseMessage.IsSuccess property
 
-Получает значение, указывающее, успешно ли отправлено это сообщение.
+Получает значение, указывающее, успешно ли получено это сообщение.
 
 ```csharp
 public bool IsSuccess { get; }
@@ -16,7 +16,7 @@ public bool IsSuccess { get; }
 
 ### Стоимость имущества
 
-` true` если этот экземпляр выполнен успешно; в противном случае` false` .
+`истинный` если этот экземпляр успешен; в противном случае,`ЛОЖЬ` .
 
 ### Смотрите также
 

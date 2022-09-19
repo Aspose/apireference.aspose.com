@@ -1,14 +1,14 @@
 ---
 title: ResultType
 second_title: Справочник по Aspose.SVG для .NET API
-description: Код представляющий тип этого результата как определено http//www.w3.org/TR/DOM-Level-3-XPath/xpath .htmlXPathResult XPathResultTypeaspose.svg.dom.xpath/xpathresulttypeenum.
+description: Код представляющий тип этого результата как определено http//www.w3.org/TR/DOMLevel3XPath/xpath.htmlXPathResult XPathResultTypeaspose.svg.dom.xpath/xpathresulttype перечисление.
 type: docs
 weight: 40
 url: /ru/net/aspose.svg.dom.xpath/ixpathresult/resulttype/
 ---
 ## IXPathResult.ResultType property
 
-Код, представляющий тип этого результата, как определено http://www.w3.org/TR/DOM-Level-3-XPath/xpath .html#XPathResult [`XPathResultType`](../../xpathresulttype)enum.
+Код, представляющий тип этого результата, как определено http://www.w3.org/TR/DOM-Level-3-XPath/xpath.html#XPathResult [`XPathResultType`](../../xpathresulttype) перечисление.
 
 ```csharp
 public XPathResultType ResultType { get; }

@@ -1,14 +1,14 @@
 ---
 title: ReplaceWholeText
 second_title: Aspose.SVG for .NET API 参考
-description: 用指定的文本替换当前节点和所有逻辑相邻文本节点的文本删除所有逻辑上相邻的文本节点包括当前节点除非它是替换文本的接收者
+description: 用指定的文本替换当前节点和所有逻辑上相邻的文本节点的文本删除所有逻辑上相邻的文本节点包括当前节点除非它是替换文本的接收者
 type: docs
 weight: 70
 url: /zh/net/aspose.svg.dom/text/replacewholetext/
 ---
 ## Text.ReplaceWholeText method
 
-用指定的文本替换当前节点和所有逻辑相邻文本节点的文本。删除所有逻辑上相邻的文本节点，包括当前节点，除非它是替换文本的接收者。
+用指定的文本替换当前节点和所有逻辑上相邻的文本节点的文本。删除所有逻辑上相邻的文本节点，包括当前节点，除非它是替换文本的接收者。
 
 ```csharp
 public Text ReplaceWholeText(string content)
@@ -20,7 +20,7 @@ public Text ReplaceWholeText(string content)
 
 ### 返回值
 
-[`Text`](../../text)。
+的[`Text`](../../text) .
 
 ### 也可以看看
 

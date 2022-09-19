@@ -1,14 +1,14 @@
 ---
 title: Volume
 second_title: Справочник по Aspose.SVG для .NET API
-description: См. определение свойства Volume в CSS2.
+description: См. определение свойства объема в CSS2.
 type: docs
 weight: 1170
 url: /ru/net/aspose.svg.dom.css/icss2properties/volume/
 ---
 ## ICSS2Properties.Volume property
 
-См. определение свойства Volume в CSS2.
+См. определение свойства объема в CSS2.
 
 ```csharp
 public string Volume { get; set; }

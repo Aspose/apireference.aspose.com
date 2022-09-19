@@ -1,14 +1,14 @@
 ---
 title: Add
 second_title: Aspose.SVG for .NET API 参考
-description: 将元素添加到MutationObserverInitaspose.svg.dom.mutations/mutationobserverinit集合
+description: 添加一个元素到MutationObserverInitaspose.svg.dom.mutations/mutationobserverinit集合.
 type: docs
 weight: 140
 url: /zh/net/aspose.svg.dom.mutations/mutationobserverinit/add/
 ---
 ## Add(KeyValuePair&lt;string, object&gt;) {#add}
 
-将元素添加到[`MutationObserverInit`](../../mutationobserverinit)集合。
+添加一个元素到[`MutationObserverInit`](../../mutationobserverinit)集合.
 
 ```csharp
 public void Add(KeyValuePair<string, object> item)
@@ -28,7 +28,7 @@ public void Add(KeyValuePair<string, object> item)
 
 ## Add(string, object) {#add_1}
 
-将指定的键和值添加到[`MutationObserverInit`](../../mutationobserverinit)集合。
+将指定的键和值添加到[`MutationObserverInit`](../../mutationobserverinit)集合.
 
 ```csharp
 public void Add(string key, object value)

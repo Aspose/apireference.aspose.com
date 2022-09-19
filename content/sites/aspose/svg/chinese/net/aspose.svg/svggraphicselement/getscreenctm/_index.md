@@ -1,14 +1,14 @@
 ---
 title: GetScreenCTM
 second_title: Aspose.SVG for .NET API 参考
-description: 将当前用户单元的变换矩阵即在应用 transform 属性后如果有的话返回到父用户代理的像素通知对于显示设备理想情况下这表示物理屏幕像素对于不知道物理像素大小的其他设备或环境可以使用类似于 CSS2 定义的像素的算法来代替请注意如果此元素未挂接到文档树则返回 null这种方法更贴切地命名为 getClientCTM但由于历史原因保留了名称 getScreenCTM
+description: 从当前用户单元即在应用 transform 属性后如果有的话返回转换矩阵到父用户代理的像素通知对于显示设备理想情况下这表示物理屏幕像素对于不知道物理像素大小的其他设备或环境可以使用类似于 CSS2 定义的像素的算法请注意如果此元素未挂接到文档树则返回 null这种方法更贴切地命名为 getClientCTM但由于历史原因名称 getScreenCTM 被保留
 type: docs
 weight: 90
 url: /zh/net/aspose.svg/svggraphicselement/getscreenctm/
 ---
 ## SVGGraphicsElement.GetScreenCTM method
 
-将当前用户单元的变换矩阵（即，在应用 'transform' 属性后，如果有的话）返回到父用户代理的“像素”通知。对于显示设备，理想情况下这表示物理屏幕像素。对于不知道物理像素大小的其他设备或环境，可以使用类似于 CSS2 定义的“像素”的算法来代替。请注意，如果此元素未挂接到文档树，则返回 null。这种方法更贴切地命名为 getClientCTM，但由于历史原因保留了名称 getScreenCTM。
+从当前用户单元（即，在应用 'transform' 属性后，如果有的话）返回转换矩阵到父用户代理的“像素”通知。对于显示设备，理想情况下这表示物理屏幕像素。对于不知道物理像素大小的其他设备或环境，可以使用类似于 CSS2 定义的“像素”的算法。请注意，如果此元素未挂接到文档树，则返回 null。这种方法更贴切地命名为 getClientCTM，但由于历史原因，名称 getScreenCTM 被保留。
 
 ```csharp
 public SVGMatrix GetScreenCTM()

@@ -1,14 +1,14 @@
 ---
 title: Translate
 second_title: Aspose.SVG for .NET API 参考
-description: 在当前矩阵上后乘一个平移变换并返回结果矩阵
+description: 在当前矩阵上后乘平移变换并返回结果矩阵
 type: docs
 weight: 140
 url: /zh/net/aspose.svg.datatypes/svgmatrix/translate/
 ---
 ## SVGMatrix.Translate method
 
-在当前矩阵上后乘一个平移变换并返回结果矩阵。
+在当前矩阵上后乘平移变换并返回结果矩阵。
 
 ```csharp
 public SVGMatrix Translate(float x, float y)

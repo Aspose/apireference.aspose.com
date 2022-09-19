@@ -1,14 +1,14 @@
 ---
 title: ImageVectorizerConfiguration
 second_title: Справочник по Aspose.SVG для .NET API
-description: Класс ImageVectorizerConfiguration определяет конфигурацию методов и опций векторизации изображения. Конфигурация используется для инициализации ImageVectorizer и предоставляет опции конфигурации для векторизации изображений.
+description: Класс ImageVectorizerConfiguration определяет конфигурацию методов и параметров векторизации изображений. Конфигурация используется для инициализации ImageVectorizer и предоставляет параметры конфигурации для векторизации изображений.
 type: docs
-weight: 2130
+weight: 2140
 url: /ru/net/aspose.svg.imagevectorization/imagevectorizerconfiguration/
 ---
 ## ImageVectorizerConfiguration class
 
-Класс ImageVectorizerConfiguration определяет конфигурацию методов и опций векторизации изображения. Конфигурация используется для инициализации ImageVectorizer и предоставляет опции конфигурации для векторизации изображений.
+Класс ImageVectorizerConfiguration определяет конфигурацию методов и параметров векторизации изображений. Конфигурация используется для инициализации ImageVectorizer и предоставляет параметры конфигурации для векторизации изображений.
 
 ```csharp
 public class ImageVectorizerConfiguration
@@ -18,16 +18,16 @@ public class ImageVectorizerConfiguration
 
 | Имя | Описание |
 | --- | --- |
-| [ImageVectorizerConfiguration](imagevectorizerconfiguration)() | Инициализирует новый экземпляр класса[`ImageVectorizerConfiguration`](../imagevectorizerconfiguration). |
+| [ImageVectorizerConfiguration](imagevectorizerconfiguration)() | Инициализирует новый экземпляр[`ImageVectorizerConfiguration`](../imagevectorizerconfiguration) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
 | [ColorsLimit](../../aspose.svg.imagevectorization/imagevectorizerconfiguration/colorslimit) { get; set; } | Получает или задает максимальное количество цветов, используемых для квантования изображения. Значение по умолчанию: 25. |
-| [ImageSizeLimit](../../aspose.svg.imagevectorization/imagevectorizerconfiguration/imagesizelimit) { get; set; } | Получает наборы максимального размера изображения, определяемого произведением ширины и высоты изображения. Размер изображения будет масштабироваться на основе этого свойства. Значение по умолчанию: 1800000. |
+| [ImageSizeLimit](../../aspose.svg.imagevectorization/imagevectorizerconfiguration/imagesizelimit) { get; set; } | Получает наборы максимального размера изображения, определяемого умножением ширины и высоты изображения. Размер изображения будет масштабироваться на основе этого свойства. Значение по умолчанию: 1800000. |
 | [PathBuilder](../../aspose.svg.imagevectorization/imagevectorizerconfiguration/pathbuilder) { get; set; } | Получает или задает построитель сегментов пути SVG. |
-| [TraceSimplifier](../../aspose.svg.imagevectorization/imagevectorizerconfiguration/tracesimplifier) { get; set; } | Получает или задает упроститель трассировки. |
+| [TraceSimplifier](../../aspose.svg.imagevectorization/imagevectorizerconfiguration/tracesimplifier) { get; set; } | Получает или задает средство упрощения трассировки. |
 | [TraceSmoother](../../aspose.svg.imagevectorization/imagevectorizerconfiguration/tracesmoother) { get; set; } | Получает или задает более плавную трассировку. |
 
 ### Смотрите также

@@ -1,14 +1,14 @@
 ---
 title: SearchParams
 second_title: Справочник по Aspose.SVG для .NET API
-description: Получает ассоциированный объектIUrlSearchParamsaspose.svg/iurlsearchparams.
+description: Получает связанныйIUrlSearchParamsaspose.svg/iurlsearchparams объект.
 type: docs
 weight: 120
 url: /ru/net/aspose.svg/url/searchparams/
 ---
 ## Url.SearchParams property
 
-Получает ассоциированный объект[`IUrlSearchParams`](../../iurlsearchparams).
+Получает связанный[`IUrlSearchParams`](../../iurlsearchparams) объект.
 
 ```csharp
 public IUrlSearchParams SearchParams { get; }
@@ -16,7 +16,7 @@ public IUrlSearchParams SearchParams { get; }
 
 ### Стоимость имущества
 
-[`IUrlSearchParams`](../../iurlsearchparams)объект.
+[`IUrlSearchParams`](../../iurlsearchparams) объект.
 
 ### Смотрите также
 

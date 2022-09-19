@@ -1,14 +1,14 @@
 ---
 title: SubFamilyName
 second_title: Aspose.SVG for .NET API 参考
-description: 字体子系列名称用于区分具有相同字体系列名称的组中的字体 假定这是针对样式斜体斜体和粗细浅色粗体黑色等 在粗细或样式上没有特别差异的字体例如中等粗细非斜体和 fsSelection 位 6 设置应将字符串Regular存储在此位置
+description: 字体子系列名称用于区分具有相同字体系列名称的组中的字体 这被假定为处理样式斜体斜体和粗体浅色粗体黑色等 在粗细或样式上没有特别差异的字体例如中等粗细非斜体和 fsSelection 位 6 设置应将字符串Regular存储在此位置
 type: docs
 weight: 40
 url: /zh/net/aspose.svg.drawing/itruetypefont/subfamilyname/
 ---
 ## ITrueTypeFont.SubFamilyName property
 
-字体子系列名称用于区分具有相同字体系列名称的组中的字体。 假定这是针对样式（斜体、斜体）和粗细（浅色、粗体、黑色等）。 在粗细或样式上没有特别差异的字体（例如，中等粗细、非斜体和 fsSelection 位 6 设置）应将字符串“Regular”存储在此位置。
+字体子系列名称用于区分具有相同字体系列名称的组中的字体。 这被假定为处理样式（斜体、斜体）和粗体（浅色、粗体、黑色等）。 在粗细或样式上没有特别差异的字体（例如，中等粗细、非斜体和 fsSelection 位 6 设置）应将字符串“Regular”存储在此位置。
 
 ```csharp
 public string SubFamilyName { get; }
@@ -16,7 +16,7 @@ public string SubFamilyName { get; }
 
 ### 返回值
 
-字体的子系列名称
+字体的子家族名称
 
 ### 也可以看看
 

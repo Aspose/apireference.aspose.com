@@ -3,7 +3,7 @@ title: SVGAnimatedPreserveAspectRatio
 second_title: Справочник по Aspose.SVG для .NET API
 description: Используется для атрибутов типа SVGPreserveAspectRatio которые можно анимировать.
 type: docs
-weight: 180
+weight: 170
 url: /ru/net/aspose.svg.datatypes/svganimatedpreserveaspectratio/
 ---
 ## SVGAnimatedPreserveAspectRatio class
@@ -26,8 +26,8 @@ public class SVGAnimatedPreserveAspectRatio : SVGAnimatedValue<SVGPreserveAspect
 | Имя | Описание |
 | --- | --- |
 | [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose)() | Освобождает неуправляемые и (необязательно) управляемые ресурсы. |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | Этот метод используется для получения объекта ECMAScriptType. |
-| override [ToString](../../aspose.svg.datatypes/svganimatedpreserveaspectratio/tostring)() | ВозвращаетString, представляющий этот экземпляр. |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | Этот метод используется для получения объекта ECMAScript.Type . |
+| override [ToString](../../aspose.svg.datatypes/svganimatedpreserveaspectratio/tostring)() | ВозвращаетString который представляет этот экземпляр. |
 
 ### Смотрите также
 

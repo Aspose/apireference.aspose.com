@@ -1,14 +1,14 @@
 ---
 title: Fill
 second_title: Aspose.SVG for .NET API 参考
-description: 填充当前路径包围的整个区域 如果路径由多个断开的子路径组成它会填充所有子路径的内部 一起考虑 这个方法终止当前路径
+description: 填充当前路径包围的整个区域 如果路径由多个断开的子路径组成它会填充所有子路径的内部 一起考虑 此方法终止当前路径
 type: docs
 weight: 140
 url: /zh/net/aspose.svg.rendering.image/imagedevice/fill/
 ---
 ## ImageDevice.Fill method
 
-填充当前路径包围的整个区域。 如果路径由多个断开的子路径组成，它会填充所有子路径的内部， 一起考虑。 这个方法终止当前路径。
+填充当前路径包围的整个区域。 如果路径由多个断开的子路径组成，它会填充所有子路径的内部， 一起考虑。 此方法终止当前路径。
 
 ```csharp
 public override void Fill(FillMode mode)

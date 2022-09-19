@@ -1,14 +1,14 @@
 ---
 title: ImageType
 second_title: Справочник по Aspose.SVG для .NET API
-description: Указывает формат файла изображения
+description: Определяет формат файла изображения
 type: docs
-weight: 2830
+weight: 2840
 url: /ru/net/aspose.svg.rendering/imagetype/
 ---
 ## ImageType enumeration
 
-Указывает формат файла изображения
+Определяет формат файла изображения
 
 ```csharp
 public enum ImageType
@@ -18,8 +18,8 @@ public enum ImageType
 
 | Имя | Ценность | Описание |
 | --- | --- | --- |
-| Unknown | `0` | Формат изображения не распознан. |
-| Bmp | `1` | Получает формат растрового изображения (BMP). |
+| Unknown | `0` | Формат изображения не был распознан. |
+| Bmp | `1` | Получает формат изображения растрового изображения (BMP). |
 | Emf | `2` | Получает формат изображения расширенного метафайла (EMF). |
 | Gif | `3` | Получает формат изображения Graphics Interchange Format (GIF). |
 | Icon | `4` | Получает формат изображения значка Windows. |

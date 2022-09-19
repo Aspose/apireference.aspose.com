@@ -1,14 +1,14 @@
 ---
 title: OnHashChange
 second_title: Справочник по Aspose.SVG для .NET API
-description: Получает или задает обработчик событий
+description: Получает или задает обработчик события
 type: docs
 weight: 40
 url: /ru/net/aspose.svg.window/iwindoweventhandlers/onhashchange/
 ---
 ## IWindowEventHandlers.OnHashChange event
 
-Получает или задает обработчик событий
+Получает или задает обработчик события
 
 ```csharp
 public event DOMEventHandler OnHashChange;

@@ -1,14 +1,14 @@
 ---
 title: CurrentTarget
 second_title: Справочник по Aspose.SVG для .NET API
-description: Используется для обозначенияIEventTargetaspose.svg.dom.events/ieventtarget чейIEventListeneraspose.svg.dom.events/ieventlistenerв настоящее время обрабатываются. Это особенно полезно во время захвата и всплытия.
+description: Используется для обозначенияIEventTargetaspose.svg.dom.events/ieventtarget чьяIEventListeneraspose.svg.dom.events/ieventlistener в настоящее время обрабатываются. Это особенно полезно во время захвата и всплытия.
 type: docs
 weight: 40
 url: /ru/net/aspose.svg.dom.events/event/currenttarget/
 ---
 ## Event.CurrentTarget property
 
-Используется для обозначения[`IEventTarget`](../../ieventtarget), чей[`IEventListener`](../../ieventlistener)в настоящее время обрабатываются. Это особенно полезно во время захвата и всплытия.
+Используется для обозначения[`IEventTarget`](../../ieventtarget) чья[`IEventListener`](../../ieventlistener) в настоящее время обрабатываются. Это особенно полезно во время захвата и всплытия.
 
 ```csharp
 public EventTarget CurrentTarget { get; }

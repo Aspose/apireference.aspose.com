@@ -17,7 +17,7 @@ public abstract bool BeginElement(Element element, RectangleF rect)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | element | Element | [`Element`](../../../aspose.svg.dom/element). |
-| rect | RectangleF | Ограничивающая рамка узла. |
+| rect | RectangleF | Ограничительная рамка узла. |
 
 ### Возвращаемое значение
 

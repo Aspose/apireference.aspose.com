@@ -1,14 +1,14 @@
 ---
 title: BackgroundColor
 second_title: Справочник по Aspose.SVG для .NET API
-description: Получает или устанавливаетColor который будет заполнять фон каждой страницы. Значение по умолчанию Transparent.
+description: Получает или устанавливаетColor который заполнит фон каждой страницы. Значение по умолчаниюTransparent .
 type: docs
 weight: 20
 url: /ru/net/aspose.svg.rendering/renderingoptions/backgroundcolor/
 ---
 ## RenderingOptions.BackgroundColor property
 
-Получает или устанавливаетColor, который будет заполнять фон каждой страницы. Значение по умолчанию —Transparent.
+Получает или устанавливаетColor который заполнит фон каждой страницы. Значение по умолчаниюTransparent .
 
 ```csharp
 public Color BackgroundColor { get; set; }

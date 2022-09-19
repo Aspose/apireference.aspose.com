@@ -1,14 +1,14 @@
 ---
 title: ABORT_ERR
 second_title: Aspose.SVG for .NET API 参考
-description: 操作已中止
+description: 操作被中止
 type: docs
 weight: 50
 url: /zh/net/aspose.svg.dom/domexception/abort_err/
 ---
 ## DOMException.ABORT_ERR field
 
-操作已中止。
+操作被中止。
 
 ```csharp
 public const ushort ABORT_ERR;

@@ -1,14 +1,14 @@
 ---
 title: PathBuilder
 second_title: Справочник по Aspose.SVG для .NET API
-description: Инициализирует новый экземпляр классаPathBuilderaspose.svg.imagevectorization/pathbuilder.
+description: Инициализирует новый экземплярPathBuilderaspose.svg.imagevectorization/pathbuilder класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.imagevectorization/pathbuilder/pathbuilder/
 ---
 ## PathBuilder() {#constructor}
 
-Инициализирует новый экземпляр класса[`PathBuilder`](../../pathbuilder).
+Инициализирует новый экземпляр[`PathBuilder`](../../pathbuilder) класс.
 
 ```csharp
 public PathBuilder()
@@ -24,7 +24,7 @@ public PathBuilder()
 
 ## PathBuilder(float) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`PathBuilder`](../../pathbuilder).
+Инициализирует новый экземпляр[`PathBuilder`](../../pathbuilder) класс.
 
 ```csharp
 public PathBuilder(float tension)
@@ -32,7 +32,7 @@ public PathBuilder(float tension)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| tension | Single | Напряжение. |
+| tension | Single | Напряженность. |
 
 ### Смотрите также
 

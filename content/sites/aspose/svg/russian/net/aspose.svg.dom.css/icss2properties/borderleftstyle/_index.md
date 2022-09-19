@@ -1,14 +1,14 @@
 ---
 title: BorderLeftStyle
 second_title: Справочник по Aspose.SVG для .NET API
-description: См. определение свойства border-left-style в CSS2.
+description: См. определение свойства borderleft в CSS2.
 type: docs
 weight: 170
 url: /ru/net/aspose.svg.dom.css/icss2properties/borderleftstyle/
 ---
 ## ICSS2Properties.BorderLeftStyle property
 
-См. определение свойства border-left-style в CSS2.
+См. определение свойства border-left в CSS2.
 
 ```csharp
 public string BorderLeftStyle { get; set; }
@@ -16,7 +16,7 @@ public string BorderLeftStyle { get; set; }
 
 ### Возвращаемое значение
 
-свойство левого края
+свойство пограничного левого стиля
 
 ### Смотрите также
 

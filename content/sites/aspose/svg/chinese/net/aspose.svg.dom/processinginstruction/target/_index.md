@@ -1,14 +1,14 @@
 ---
 title: Target
 second_title: Aspose.SVG for .NET API 参考
-description: 此处理指令的目标
+description: 这个处理指令的目标
 type: docs
 weight: 40
 url: /zh/net/aspose.svg.dom/processinginstruction/target/
 ---
 ## ProcessingInstruction.Target property
 
-此处理指令的目标。
+这个处理指令的目标。
 
 ```csharp
 public string Target { get; }

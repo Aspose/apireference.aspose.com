@@ -16,7 +16,7 @@ public SVGPointList Points { get; }
 
 ### 适当的价值
 
-'points' 属性的内容
+'points'属性的内容
 
 ### 也可以看看
 

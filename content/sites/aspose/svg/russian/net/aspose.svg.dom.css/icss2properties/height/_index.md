@@ -1,14 +1,14 @@
 ---
 title: Height
 second_title: Справочник по Aspose.SVG для .NET API
-description: См. определение свойства height в CSS2.
+description: См. определение свойства высоты в CSS2.
 type: docs
 weight: 550
 url: /ru/net/aspose.svg.dom.css/icss2properties/height/
 ---
 ## ICSS2Properties.Height property
 
-См. определение свойства height в CSS2.
+См. определение свойства высоты в CSS2.
 
 ```csharp
 public string Height { get; set; }

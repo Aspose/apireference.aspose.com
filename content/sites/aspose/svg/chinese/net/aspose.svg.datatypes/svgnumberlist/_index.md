@@ -3,7 +3,7 @@ title: SVGNumberList
 second_title: Aspose.SVG for .NET API 参考
 description: 这个接口定义了一个 SVGNumber 对象的列表
 type: docs
-weight: 270
+weight: 260
 url: /zh/net/aspose.svg.datatypes/svgnumberlist/
 ---
 ## SVGNumberList class
@@ -28,15 +28,15 @@ public class SVGNumberList : SVGListBase<SVGNumber>
 | --- | --- |
 | [AppendItem](../../aspose.svg.collections/svglistbase`1/appenditem)(SVGNumber) |  |
 | [Clear](../../aspose.svg.collections/svglistbase`1/clear)() |  |
-| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose)() | 释放非托管和（可选）托管资源。 |
+| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose)() | 释放非托管和 - 可选 - 托管资源。 |
 | [GetEnumerator](../../aspose.svg.collections/svglistbase`1/getenumerator)() |  |
 | [GetItem](../../aspose.svg.collections/svglistbase`1/getitem)(ulong) |  |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | 此方法用于检索 ECMAScript 对象Type。 |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | 此方法用于检索 ECMAScript 对象Type . |
 | [Initialize](../../aspose.svg.collections/svglistbase`1/initialize)(SVGNumber) |  |
 | [InsertItemBefore](../../aspose.svg.collections/svglistbase`1/insertitembefore)(SVGNumber, ulong) |  |
 | [RemoveItem](../../aspose.svg.collections/svglistbase`1/removeitem)(ulong) |  |
 | [ReplaceItem](../../aspose.svg.collections/svglistbase`1/replaceitem)(SVGNumber, ulong) |  |
-| override [ToString](../../aspose.svg.datatypes/svgnumberlist/tostring)() | 返回代表此实例的String。 |
+| override [ToString](../../aspose.svg.datatypes/svgnumberlist/tostring)() | 返回一个String代表这个实例。 |
 
 ### 也可以看看
 

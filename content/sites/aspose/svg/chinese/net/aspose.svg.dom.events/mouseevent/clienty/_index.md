@@ -16,7 +16,7 @@ public long ClientY { get; }
 
 ### 适当的价值
 
-客户端 y。
+客户端 y.
 
 ### 也可以看看
 

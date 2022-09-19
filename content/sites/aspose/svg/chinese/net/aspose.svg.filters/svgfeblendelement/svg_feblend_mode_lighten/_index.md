@@ -1,14 +1,14 @@
 ---
 title: SVG_FEBLEND_MODE_LIGHTEN
 second_title: Aspose.SVG for .NET API 参考
-description: 对应于值减轻
+description: 对应于值变亮
 type: docs
 weight: 170
 url: /zh/net/aspose.svg.filters/svgfeblendelement/svg_feblend_mode_lighten/
 ---
 ## SVGFEBlendElement.SVG_FEBLEND_MODE_LIGHTEN field
 
-对应于值“减轻”。
+对应于值“变亮”。
 
 ```csharp
 public const ushort SVG_FEBLEND_MODE_LIGHTEN;

@@ -1,14 +1,14 @@
 ---
 title: SVG_ANGLETYPE_GRAD
 second_title: Aspose.SVG for .NET API 参考
-description: 单位类型为弧度
+description: 单位类型是弧度
 type: docs
 weight: 90
 url: /zh/net/aspose.svg.datatypes/svgangle/svg_angletype_grad/
 ---
 ## SVGAngle.SVG_ANGLETYPE_GRAD field
 
-单位类型为弧度。
+单位类型是弧度。
 
 ```csharp
 public const ushort SVG_ANGLETYPE_GRAD;

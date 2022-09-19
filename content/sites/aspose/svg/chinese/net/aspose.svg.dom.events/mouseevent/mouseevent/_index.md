@@ -1,14 +1,14 @@
 ---
 title: MouseEvent
 second_title: Aspose.SVG for .NET API 参考
-description: 初始化MouseEventaspose.svg.dom.events/mouseevent类的新实例
+description: 初始化MouseEventaspose.svg.dom.events/mouseevent类.
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.dom.events/mouseevent/mouseevent/
 ---
 ## MouseEvent(string) {#constructor}
 
-初始化[`MouseEvent`](../../mouseevent)类的新实例。
+初始化[`MouseEvent`](../../mouseevent)类.
 
 ```csharp
 public MouseEvent(string type)
@@ -28,7 +28,7 @@ public MouseEvent(string type)
 
 ## MouseEvent(string, IDictionary&lt;string, object&gt;) {#constructor_1}
 
-初始化[`MouseEvent`](../../mouseevent)类的新实例。
+初始化[`MouseEvent`](../../mouseevent)类.
 
 ```csharp
 public MouseEvent(string type, IDictionary<string, object> eventInitDict)

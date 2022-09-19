@@ -3,7 +3,7 @@ title: INetworkOperationContext
 second_title: Справочник по Aspose.SVG для .NET API
 description: Предоставляет контекстную информацию для сетевых служб.
 type: docs
-weight: 2270
+weight: 2280
 url: /ru/net/aspose.svg.net/inetworkoperationcontext/
 ---
 ## INetworkOperationContext interface

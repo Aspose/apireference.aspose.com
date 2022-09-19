@@ -3,7 +3,7 @@ title: Margin
 second_title: Aspose.SVG for .NET API 参考
 description: 代表页边距
 type: docs
-weight: 1530
+weight: 1540
 url: /zh/net/aspose.svg.drawing/margin/
 ---
 ## Margin class
@@ -18,11 +18,11 @@ public class Margin
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Margin](margin#constructor)() | 初始化[`Margin`](../margin)类的新实例。 |
-| [Margin](margin#constructor_3)(int) | 初始化[`Margin`](../margin)类的新实例。 |
-| [Margin](margin#constructor_1)(Length) | 初始化[`Margin`](../margin)类的新实例。 |
-| [Margin](margin#constructor_4)(int, int, int, int) | 初始化[`Margin`](../margin)类的新实例。 |
-| [Margin](margin#constructor_2)(Length, Length, Length, Length) | 初始化[`Margin`](../margin)类的新实例。 |
+| [Margin](margin#constructor)() | 初始化[`Margin`](../margin)类. |
+| [Margin](margin#constructor_3)(int) | 初始化[`Margin`](../margin)类. |
+| [Margin](margin#constructor_1)(Length) | 初始化[`Margin`](../margin)类. |
+| [Margin](margin#constructor_4)(int, int, int, int) | 初始化[`Margin`](../margin)类. |
+| [Margin](margin#constructor_2)(Length, Length, Length, Length) | 初始化[`Margin`](../margin)类. |
 
 ## 特性
 

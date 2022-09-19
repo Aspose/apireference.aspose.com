@@ -3,7 +3,7 @@ title: SVGSaveFormat
 second_title: Справочник по Aspose.SVG для .NET API
 description: Указывает формат в котором документ сохраняется.
 type: docs
-weight: 3600
+weight: 3610
 url: /ru/net/aspose.svg.saving/svgsaveformat/
 ---
 ## SVGSaveFormat enumeration
@@ -18,7 +18,7 @@ public enum SVGSaveFormat
 
 | Имя | Ценность | Описание |
 | --- | --- | --- |
-| SVG | `0` | Документ будет сохранен в формате SVG. |
+| SVG | `0` | Документ будет сохранен как SVG. |
 
 ### Смотрите также
 

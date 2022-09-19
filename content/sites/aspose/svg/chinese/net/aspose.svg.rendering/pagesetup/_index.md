@@ -1,14 +1,14 @@
 ---
 title: PageSetup
 second_title: Aspose.SVG for .NET API 参考
-description: 表示一个页面设置对象用于配置输出页面集
+description: 表示一个页面设置对象用于配置输出pageset
 type: docs
-weight: 2850
+weight: 2860
 url: /zh/net/aspose.svg.rendering/pagesetup/
 ---
 ## PageSetup class
 
-表示一个页面设置对象，用于配置输出页面集。
+表示一个页面设置对象，用于配置输出page-set。
 
 ```csharp
 public class PageSetup
@@ -19,7 +19,7 @@ public class PageSetup
 | 姓名 | 描述 |
 | --- | --- |
 | [AnyPage](../../aspose.svg.rendering/pagesetup/anypage) { get; set; } | 获取或设置页面序列中的所有页面配置。 |
-| [AtPagePriority](../../aspose.svg.rendering/pagesetup/atpagepriority) { get; set; } | 获取或设置[`AtPagePriority`](../atpagepriority)，这将确定应用页面大小声明的顺序。默认情况下，选项将覆盖 css` @page` 规则. |
+| [AtPagePriority](../../aspose.svg.rendering/pagesetup/atpagepriority) { get; set; } | 获取或设置[`AtPagePriority`](../atpagepriority)这将确定应用页面大小声明的顺序。默认情况下，选项将覆盖 css`@页`规则 . |
 | [FirstPage](../../aspose.svg.rendering/pagesetup/firstpage) { get; set; } | 获取或设置首页配置。 |
 | [LeftPage](../../aspose.svg.rendering/pagesetup/leftpage) { get; } | 获取奇数页配置。 |
 | [RightPage](../../aspose.svg.rendering/pagesetup/rightpage) { get; } | 获取偶数页配置。 |

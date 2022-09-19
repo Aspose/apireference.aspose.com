@@ -1,14 +1,14 @@
 ---
 title: SetIdAttributeNode
 second_title: Aspose.SVG for .NET API 参考
-description: 如果参数 isId 为真则此方法将指定的属性声明为用户确定的 ID 属性
+description: 如果参数isId为真则该方法声明指定的属性为用户确定的ID属性
 type: docs
 weight: 450
 url: /zh/net/aspose.svg.dom/element/setidattributenode/
 ---
 ## Element.SetIdAttributeNode method
 
-如果参数 isId 为真，则此方法将指定的属性声明为用户确定的 ID 属性。
+如果参数isId为真，则该方法声明指定的属性为用户确定的ID属性。
 
 ```csharp
 public void SetIdAttributeNode(Attr idAttr, bool isId)
@@ -16,8 +16,8 @@ public void SetIdAttributeNode(Attr idAttr, bool isId)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| idAttr | Attr | id attr。 |
-| isId | Boolean | 如果设置为` true` [is id]。 |
+| idAttr | Attr | id 属性。 |
+| isId | Boolean | 如果设置为`真的` [是身份证]。 |
 
 ### 也可以看看
 

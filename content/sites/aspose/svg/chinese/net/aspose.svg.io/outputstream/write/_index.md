@@ -1,14 +1,14 @@
 ---
 title: Write
 second_title: Aspose.SVG for .NET API 参考
-description: 将字节序列写入包装的输出 流并将此流中的当前位置前进写入的 字节数
+description: 将字节序列写入包装的 output 流并将此流中的当前位置前进写入的 字节数
 type: docs
 weight: 130
 url: /zh/net/aspose.svg.io/outputstream/write/
 ---
 ## OutputStream.Write method
 
-将字节序列写入包装的输出 流，并将此流中的当前位置前进写入的 字节数。
+将字节序列写入包装的 output 流，并将此流中的当前位置前进写入的 字节数。
 
 ```csharp
 public override void Write(byte[] buffer, int offset, int count)
@@ -16,8 +16,8 @@ public override void Write(byte[] buffer, int offset, int count)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| buffer | Byte[] | 字节数组。此方法将 count 字节从缓冲区复制到包装的输出 流。 |
-| offset | Int32 | 缓冲区中从零开始的字节偏移量，从该偏移量开始将字节复制到包装的输出 流。 |
+| buffer | Byte[] | 一个字节数组。此方法将 count 字节从缓冲区复制到包装的 output 流。 |
+| offset | Int32 | 开始将字节复制到包装的 output 流的缓冲区中从零开始的字节偏移量。 |
 | count | Int32 | 要写入包装输出流的字节数。 |
 
 ### 也可以看看

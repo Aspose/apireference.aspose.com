@@ -1,14 +1,14 @@
 ---
 title: ReadAsStream
 second_title: Справочник по Aspose.SVG для .NET API
-description: Сериализация содержимого HTTP и возврат потока представляющего содержимое.
+description: Сериализировать содержимое HTTP и вернуть поток представляющий содержимое.
 type: docs
 weight: 40
 url: /ru/net/aspose.svg.net/content/readasstream/
 ---
 ## Content.ReadAsStream method
 
-Сериализация содержимого HTTP и возврат потока, представляющего содержимое.
+Сериализировать содержимое HTTP и вернуть поток, представляющий содержимое.
 
 ```csharp
 public Stream ReadAsStream()

@@ -1,14 +1,14 @@
 ---
 title: ValueInSpecifiedUnits
 second_title: Aspose.SVG for .NET API 参考
-description: 作为浮点值的角度值单位由 unitType 表示设置此属性将导致 value 和 valueAsString 自动更新以反映此设置
+description: 浮点值的角度值单位为unitType设置此属性将导致 value 和 valueAsString 自动更新以反映此设置
 type: docs
 weight: 40
 url: /zh/net/aspose.svg.datatypes/svgangle/valueinspecifiedunits/
 ---
 ## SVGAngle.ValueInSpecifiedUnits property
 
-作为浮点值的角度值，单位由 unitType 表示。设置此属性将导致 value 和 valueAsString 自动更新以反映此设置。
+浮点值的角度值，单位为unitType。设置此属性将导致 value 和 valueAsString 自动更新以反映此设置。
 
 ```csharp
 public float ValueInSpecifiedUnits { get; set; }

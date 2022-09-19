@@ -1,14 +1,14 @@
 ---
 title: ResponseMessage
 second_title: Aspose.SVG for .NET API 参考
-description: 初始化ResponseMessageaspose.svg.net/responsemessage类的新实例
+description: 初始化ResponseMessageaspose.svg.net/responsemessage类.
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.net/responsemessage/responsemessage/
 ---
 ## ResponseMessage constructor
 
-初始化[`ResponseMessage`](../../responsemessage)类的新实例。
+初始化[`ResponseMessage`](../../responsemessage)类.
 
 ```csharp
 public ResponseMessage(HttpStatusCode status)

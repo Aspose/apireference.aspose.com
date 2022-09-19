@@ -1,14 +1,14 @@
 ---
 title: PATHSEG_CURVETO_CUBIC_SMOOTH_ABS
 second_title: Aspose.SVG for .NET API 参考
-description: 对应于绝对平滑三次曲线到S 路径数据命令
+description: 对应于绝对平滑三次曲线S路径数据命令
 type: docs
 weight: 80
 url: /zh/net/aspose.svg.paths/svgpathseg/pathseg_curveto_cubic_smooth_abs/
 ---
 ## SVGPathSeg.PATHSEG_CURVETO_CUBIC_SMOOTH_ABS field
 
-对应于“绝对平滑三次曲线到”(S) 路径数据命令。
+对应于“绝对平滑三次曲线”（S）路径数据命令。
 
 ```csharp
 public const ushort PATHSEG_CURVETO_CUBIC_SMOOTH_ABS;

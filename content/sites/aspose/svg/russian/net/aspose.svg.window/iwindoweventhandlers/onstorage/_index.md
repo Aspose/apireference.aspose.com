@@ -1,14 +1,14 @@
 ---
 title: OnStorage
 second_title: Справочник по Aspose.SVG для .NET API
-description: Получает или задает обработчик событий
+description: Получает или задает обработчик события
 type: docs
 weight: 110
 url: /ru/net/aspose.svg.window/iwindoweventhandlers/onstorage/
 ---
 ## IWindowEventHandlers.OnStorage event
 
-Получает или задает обработчик событий
+Получает или задает обработчик события
 
 ```csharp
 public event DOMEventHandler OnStorage;

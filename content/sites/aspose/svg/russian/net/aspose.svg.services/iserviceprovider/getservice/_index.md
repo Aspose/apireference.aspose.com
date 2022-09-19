@@ -17,7 +17,7 @@ public TService GetService<TService>()
 
 | Параметр | Описание |
 | --- | --- |
-| TService | Тип службы. |
+| TService | Тип услуги. |
 
 ### Возвращаемое значение
 

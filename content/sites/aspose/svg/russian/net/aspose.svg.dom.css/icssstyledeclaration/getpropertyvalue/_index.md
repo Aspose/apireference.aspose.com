@@ -1,14 +1,14 @@
 ---
 title: GetPropertyValue
 second_title: Справочник по Aspose.SVG для .NET API
-description: Используется для получения значения свойства CSS если оно было явно задано в этом блоке объявлений.
+description: Используется для получения значения свойства CSS если оно было явно задано в этом блоке объявления.
 type: docs
 weight: 70
 url: /ru/net/aspose.svg.dom.css/icssstyledeclaration/getpropertyvalue/
 ---
 ## ICSSStyleDeclaration.GetPropertyValue method
 
-Используется для получения значения свойства CSS, если оно было явно задано в этом блоке объявлений.
+Используется для получения значения свойства CSS, если оно было явно задано в этом блоке объявления.
 
 ```csharp
 public string GetPropertyValue(string propertyName)
@@ -16,7 +16,7 @@ public string GetPropertyValue(string propertyName)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| propertyName | String | Имя свойства. |
+| propertyName | String | Название свойства. |
 
 ### Возвращаемое значение
 

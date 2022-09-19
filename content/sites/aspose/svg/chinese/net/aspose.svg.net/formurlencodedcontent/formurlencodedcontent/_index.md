@@ -1,14 +1,14 @@
 ---
 title: FormUrlEncodedContent
 second_title: Aspose.SVG for .NET API 参考
-description: 初始化FormUrlEncodedContentaspose.svg.net/formurlencodedcontent类的新实例
+description: 初始化FormUrlEncodedContentaspose.svg.net/formurlencodedcontent类.
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.net/formurlencodedcontent/formurlencodedcontent/
 ---
 ## FormUrlEncodedContent constructor
 
-初始化[`FormUrlEncodedContent`](../../formurlencodedcontent)类的新实例。
+初始化[`FormUrlEncodedContent`](../../formurlencodedcontent)类.
 
 ```csharp
 public FormUrlEncodedContent(IEnumerable<KeyValuePair<string, string>> nameValueCollection)

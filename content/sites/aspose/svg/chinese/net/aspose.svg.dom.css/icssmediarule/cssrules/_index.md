@@ -1,14 +1,14 @@
 ---
 title: CSSRules
 second_title: Aspose.SVG for .NET API 参考
-description: 媒体块中包含的所有 CSS 规则的列表
+description: 包含在媒体块中的所有 CSS 规则的列表
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.dom.css/icssmediarule/cssrules/
 ---
 ## ICSSMediaRule.CSSRules property
 
-媒体块中包含的所有 CSS 规则的列表。
+包含在媒体块中的所有 CSS 规则的列表。
 
 ```csharp
 public ICSSRuleList CSSRules { get; }

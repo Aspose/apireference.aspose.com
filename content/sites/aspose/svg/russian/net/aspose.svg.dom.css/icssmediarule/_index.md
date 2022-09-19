@@ -1,14 +1,14 @@
 ---
 title: ICSSMediaRule
 second_title: Справочник по Aspose.SVG для .NET API
-description: Интерфейс CSSMediaRule представляет правилоmedia в таблице стилей CSS. Правилоmedia можно использовать для разграничения правил стиля для определенных типов мультимедиа.
+description: Интерфейс CSSMediaRule представляет правило media в таблице стилей CSS. Правило media можно использовать для разграничения правил стиля для определенных типов мультимедиа.
 type: docs
-weight: 610
+weight: 600
 url: /ru/net/aspose.svg.dom.css/icssmediarule/
 ---
 ## ICSSMediaRule interface
 
-Интерфейс CSSMediaRule представляет правило@media в таблице стилей CSS. Правило@media можно использовать для разграничения правил стиля для определенных типов мультимедиа.
+Интерфейс CSSMediaRule представляет правило @media в таблице стилей CSS. Правило @media можно использовать для разграничения правил стиля для определенных типов мультимедиа.
 
 ```csharp
 public interface ICSSMediaRule : ICSSRule
@@ -19,7 +19,7 @@ public interface ICSSMediaRule : ICSSRule
 | Имя | Описание |
 | --- | --- |
 | [CSSRules](../../aspose.svg.dom.css/icssmediarule/cssrules) { get; } | Список всех правил CSS, содержащихся в медиаблоке. |
-| [Media](../../aspose.svg.dom.css/icssmediarule/media) { get; } | Список типов носителей для этого правила. |
+| [Media](../../aspose.svg.dom.css/icssmediarule/media) { get; } | Список типов мультимедиа для этого правила. |
 
 ## Методы
 

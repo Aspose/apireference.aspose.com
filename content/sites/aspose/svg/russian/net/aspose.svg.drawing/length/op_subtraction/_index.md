@@ -1,7 +1,7 @@
 ---
 title: op_Subtraction
 second_title: Справочник по Aspose.SVG для .NET API
-description: Реализует оператор -.
+description: Реализует оператор .
 type: docs
 weight: 80
 url: /ru/net/aspose.svg.drawing/length/op_subtraction/
@@ -16,8 +16,8 @@ public static Length operator -(Length a, Length b)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| a | Length | Параметр a. |
-| b | Length | Параметр b. |
+| a | Length | Параметр а. |
+| b | Length | Параметр б. |
 
 ### Возвращаемое значение
 

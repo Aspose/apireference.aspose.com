@@ -1,14 +1,14 @@
 ---
 title: TableLayout
 second_title: Справочник по Aspose.SVG для .NET API
-description: См. определение свойства table-layout в CSS2.
+description: См. определение свойства макета таблицы в CSS2.
 type: docs
 weight: 1060
 url: /ru/net/aspose.svg.dom.css/icss2properties/tablelayout/
 ---
 ## ICSS2Properties.TableLayout property
 
-См. определение свойства table-layout в CSS2.
+См. определение свойства макета таблицы в CSS2.
 
 ```csharp
 public string TableLayout { get; set; }
@@ -16,7 +16,7 @@ public string TableLayout { get; set; }
 
 ### Возвращаемое значение
 
-свойство макета таблицы
+свойство table-layout
 
 ### Смотрите также
 

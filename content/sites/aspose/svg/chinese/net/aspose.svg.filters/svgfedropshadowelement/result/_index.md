@@ -1,14 +1,14 @@
 ---
 title: Result
 second_title: Aspose.SVG for .NET API 参考
-description: 对应于给定 feDropShadow 元素的属性 result
+description: 对应于给定feDropShadow元素的结果属性
 type: docs
 weight: 50
 url: /zh/net/aspose.svg.filters/svgfedropshadowelement/result/
 ---
 ## SVGFEDropShadowElement.Result property
 
-对应于给定 'feDropShadow' 元素的属性 'result'。
+对应于给定“feDropShadow”元素的“结果”属性。
 
 ```csharp
 public SVGAnimatedString Result { get; }
@@ -16,7 +16,7 @@ public SVGAnimatedString Result { get; }
 
 ### 适当的价值
 
-给定 'feDropShadow' 元素的属性 'result'。
+给定'feDropShadow'元素的属性'result'。
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: Set
 second_title: Aspose.SVG for .NET API 参考
-description: 将找到的第一个名称-值对的值设置为指定值并删除其他值 如果没有找到具有指定名称的名称-值对则将新的一对添加到列表中
+description: 将找到的第一个名称值对的值设置为指定值并删除其他值 如果没有找到具有指定名称的名称值对则将新的名称值对附加到列表中
 type: docs
 weight: 60
 url: /zh/net/aspose.svg/iurlsearchparams/set/
 ---
 ## IUrlSearchParams.Set method
 
-将找到的第一个名称-值对的值设置为指定值并删除其他值。 如果没有找到具有指定名称的名称-值对，则将新的一对添加到列表中。
+将找到的第一个名称-值对的值设置为指定值并删除其他值。 如果没有找到具有指定名称的名称-值对，则将新的名称-值对附加到列表中。
 
 ```csharp
 public void Set(string name, string value)
@@ -16,7 +16,7 @@ public void Set(string name, string value)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| name | String | 用于查找名称-值对的键。 |
+| name | String | 将用于查找名称-值对的键。 |
 | value | String | 将被设置的值。 |
 
 ### 也可以看看

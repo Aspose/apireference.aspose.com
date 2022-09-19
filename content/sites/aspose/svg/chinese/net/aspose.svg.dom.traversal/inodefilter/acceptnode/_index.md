@@ -16,7 +16,7 @@ public short AcceptNode(Node n)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| n | Node | 节点检查它是否通过过滤与否。 |
+| n | Node | 节点检查它是否通过过滤器。 |
 
 ### 返回值
 

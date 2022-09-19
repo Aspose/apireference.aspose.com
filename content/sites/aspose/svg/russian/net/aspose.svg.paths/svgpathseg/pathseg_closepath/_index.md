@@ -8,7 +8,7 @@ url: /ru/net/aspose.svg.paths/svgpathseg/pathseg_closepath/
 ---
 ## SVGPathSeg.PATHSEG_CLOSEPATH field
 
-Соответствует команде данных пути "closepath" (z).
+Соответствует команде данных пути closepath (z).
 
 ```csharp
 public const ushort PATHSEG_CLOSEPATH;

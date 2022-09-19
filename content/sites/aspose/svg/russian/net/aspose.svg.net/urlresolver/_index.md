@@ -1,9 +1,9 @@
 ---
 title: UrlResolver
 second_title: Справочник по Aspose.SVG для .NET API
-description: Представляет служебный класс для разрешения абсолютного URL-адреса с помощью универсального идентификатора ресурса URI.
+description: Представляет служебный класс для разрешения абсолютного URLадреса с помощью универсального идентификатора ресурса URI.
 type: docs
-weight: 2430
+weight: 2440
 url: /ru/net/aspose.svg.net/urlresolver/
 ---
 ## UrlResolver class

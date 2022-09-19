@@ -16,7 +16,7 @@ public SVGAnimatedNumber LimitingConeAngle { get; }
 
 ### Стоимость имущества
 
-Атрибут 'limitingConeAngle' данного элемента 'feSpotLight'.
+Атрибут limitingConeAngle данного элемента feSpotLight.
 
 ### Смотрите также
 

@@ -1,14 +1,14 @@
 ---
 title: OnPageShow
 second_title: Справочник по Aspose.SVG для .NET API
-description: Получает или задает обработчик событий
+description: Получает или задает обработчик события
 type: docs
 weight: 90
 url: /ru/net/aspose.svg.window/iwindoweventhandlers/onpageshow/
 ---
 ## IWindowEventHandlers.OnPageShow event
 
-Получает или задает обработчик событий
+Получает или задает обработчик события
 
 ```csharp
 public event DOMEventHandler OnPageShow;

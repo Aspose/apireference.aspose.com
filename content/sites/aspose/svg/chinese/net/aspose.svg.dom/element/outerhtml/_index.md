@@ -16,7 +16,7 @@ public string OuterHTML { get; set; }
 
 ### 适当的价值
 
-外部 HTML。
+外部 HTML.
 
 ### 也可以看看
 

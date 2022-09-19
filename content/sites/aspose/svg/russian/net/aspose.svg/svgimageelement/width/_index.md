@@ -8,7 +8,7 @@ url: /ru/net/aspose.svg/svgimageelement/width/
 ---
 ## SVGImageElement.Width property
 
-Соответствует атрибуту 'ширина' данного элемента 'изображения'.
+Соответствует атрибуту «ширина» данного элемента «изображения».
 
 ```csharp
 public SVGAnimatedLength Width { get; }
@@ -16,7 +16,7 @@ public SVGAnimatedLength Width { get; }
 
 ### Стоимость имущества
 
-Соответствует атрибуту 'width' данного элемента 'image'.
+Соответствует атрибуту «ширина» данного элемента «изображения».
 
 ### Смотрите также
 

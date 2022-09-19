@@ -1,14 +1,14 @@
 ---
 title: Rotate
 second_title: Справочник по Aspose.SVG для .NET API
-description: Соответствует атрибуту rotate данного элемента.
+description: Соответствует атрибуту поворот данного элемента.
 type: docs
 weight: 30
 url: /ru/net/aspose.svg/svgtextpositioningelement/rotate/
 ---
 ## SVGTextPositioningElement.Rotate property
 
-Соответствует атрибуту 'rotate' данного элемента.
+Соответствует атрибуту «поворот» данного элемента.
 
 ```csharp
 public SVGAnimatedNumberList Rotate { get; }
@@ -16,7 +16,7 @@ public SVGAnimatedNumberList Rotate { get; }
 
 ### Стоимость имущества
 
-Атрибут "поворот" данного элемента.
+Атрибут «поворот» данного элемента.
 
 ### Смотрите также
 

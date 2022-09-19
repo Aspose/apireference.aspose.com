@@ -3,7 +3,7 @@ title: AtPagePriority
 second_title: Справочник по Aspose.SVG для .NET API
 description: Определяет возможные порядки применения объявлений размера страницы.
 type: docs
-weight: 2670
+weight: 2680
 url: /ru/net/aspose.svg.rendering/atpagepriority/
 ---
 ## AtPagePriority enumeration
@@ -18,8 +18,8 @@ public enum AtPagePriority
 
 | Имя | Ценность | Описание |
 | --- | --- | --- |
-| OptionsPriority | `0` | Указывает, что значения[`PageSetup`](../pagesetup), объявленные в[`RenderingOptions`](../renderingoptions), переопределяют значения, определенные в css от` @page` rules. |
-| CssPriority | `1` | Указывает, что` @page` rules, определенные в css, переопределяют значения, определенные в[`PageSetup`](../pagesetup). |
+| OptionsPriority | `0` | Указывает, что[`PageSetup`](../pagesetup) ценности, заявленные в[`RenderingOptions`](../renderingoptions) переопределит значения, определенные в css,`@страница` правила . |
+| CssPriority | `1` | Указывает, что`@страница` правила определенные в css, будут переопределять значения, определенные в[`PageSetup`](../pagesetup) . |
 
 ### Смотрите также
 

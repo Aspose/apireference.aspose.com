@@ -1,14 +1,14 @@
 ---
 title: ClassName
 second_title: Справочник по Aspose.SVG для .NET API
-description: Соответствует атрибуту class данного элемента.
+description: Соответствует атрибуту класс данного элемента.
 type: docs
 weight: 10
 url: /ru/net/aspose.svg/svgelement/classname/
 ---
 ## SVGElement.ClassName property
 
-Соответствует атрибуту class данного элемента.
+Соответствует атрибуту «класс» данного элемента.
 
 ```csharp
 public SVGAnimatedString ClassName { get; }

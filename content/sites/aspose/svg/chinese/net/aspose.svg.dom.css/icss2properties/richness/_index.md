@@ -1,14 +1,14 @@
 ---
 title: Richness
 second_title: Aspose.SVG for .NET API 参考
-description: 参见 CSS2 中的richness 属性定义
+description: 参见CSS2中的richness属性定义
 type: docs
 weight: 970
 url: /zh/net/aspose.svg.dom.css/icss2properties/richness/
 ---
 ## ICSS2Properties.Richness property
 
-参见 CSS2 中的richness 属性定义。
+参见CSS2中的richness属性定义。
 
 ```csharp
 public string Richness { get; set; }
@@ -16,7 +16,7 @@ public string Richness { get; set; }
 
 ### 返回值
 
-丰富度属性
+丰富性
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: CssOptions
 second_title: Aspose.SVG for .NET API 参考
-description: 表示 css 渲染选项
+description: 代表 css 渲染选项
 type: docs
-weight: 2680
+weight: 2690
 url: /zh/net/aspose.svg.rendering/cssoptions/
 ---
 ## CssOptions class
 
-表示 css 渲染选项。
+代表 css 渲染选项。
 
 ```csharp
 public class CssOptions
@@ -18,7 +18,7 @@ public class CssOptions
 
 | 姓名 | 描述 |
 | --- | --- |
-| [MediaType](../../aspose.svg.rendering/cssoptions/mediatype) { get; set; } | 获取或设置[`MediaType`](../mediatype)将用于渲染期间的媒体查询解析。默认值为` 打印` 。 |
+| [MediaType](../../aspose.svg.rendering/cssoptions/mediatype) { get; set; } | 获取或设置[`MediaType`](../mediatype)这将用于渲染期间的媒体查询解析。默认值为`打印` . |
 
 ### 也可以看看
 

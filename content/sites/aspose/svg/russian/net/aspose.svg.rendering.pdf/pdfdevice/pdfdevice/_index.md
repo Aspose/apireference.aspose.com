@@ -1,14 +1,14 @@
 ---
 title: PdfDevice
 second_title: Справочник по Aspose.SVG для .NET API
-description: Инициализирует новый экземпляр классаPdfDeviceaspose.svg.rendering.pdf/pdfdevice.
+description: Инициализирует новый экземплярPdfDeviceaspose.svg.rendering.pdf/pdfdevice класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.rendering.pdf/pdfdevice/pdfdevice/
 ---
 ## PdfDevice(ICreateStreamProvider) {#constructor}
 
-Инициализирует новый экземпляр класса[`PdfDevice`](../../pdfdevice).
+Инициализирует новый экземпляр[`PdfDevice`](../../pdfdevice) класс.
 
 ```csharp
 public PdfDevice(ICreateStreamProvider streamProvider)
@@ -16,7 +16,7 @@ public PdfDevice(ICreateStreamProvider streamProvider)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| streamProvider | ICreateStreamProvider | Поставщик потока. |
+| streamProvider | ICreateStreamProvider | Провайдер потока. |
 
 ### Смотрите также
 
@@ -29,7 +29,7 @@ public PdfDevice(ICreateStreamProvider streamProvider)
 
 ## PdfDevice(PdfRenderingOptions, ICreateStreamProvider) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`PdfDevice`](../../pdfdevice)с помощью параметров рендеринга и поставщика потоков.
+Инициализирует новый экземпляр[`PdfDevice`](../../pdfdevice) класс по параметрам рендеринга и потоковому провайдеру.
 
 ```csharp
 public PdfDevice(PdfRenderingOptions options, ICreateStreamProvider streamProvider)
@@ -37,8 +37,8 @@ public PdfDevice(PdfRenderingOptions options, ICreateStreamProvider streamProvid
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| options | PdfRenderingOptions | Параметры рендеринга. |
-| streamProvider | ICreateStreamProvider | Объект, реализующий интерфейс[`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider) |
+| options | PdfRenderingOptions | Варианты рендеринга. |
+| streamProvider | ICreateStreamProvider | Объект, реализующий[`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider) интерфейс |
 
 ### Смотрите также
 
@@ -52,7 +52,7 @@ public PdfDevice(PdfRenderingOptions options, ICreateStreamProvider streamProvid
 
 ## PdfDevice(string) {#constructor_5}
 
-Инициализирует новый экземпляр класса[`PdfDevice`](../../pdfdevice).
+Инициализирует новый экземпляр[`PdfDevice`](../../pdfdevice) класс.
 
 ```csharp
 public PdfDevice(string file)
@@ -72,7 +72,7 @@ public PdfDevice(string file)
 
 ## PdfDevice(PdfRenderingOptions, string) {#constructor_3}
 
-Инициализирует новый экземпляр класса[`PdfDevice`](../../pdfdevice)параметрами рендеринга и именем выходного файла.
+Инициализирует новый экземпляр[`PdfDevice`](../../pdfdevice) класс по параметрам рендеринга и имени выходного файла.
 
 ```csharp
 public PdfDevice(PdfRenderingOptions options, string file)
@@ -80,7 +80,7 @@ public PdfDevice(PdfRenderingOptions options, string file)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| options | PdfRenderingOptions | Параметры рендеринга. |
+| options | PdfRenderingOptions | Варианты рендеринга. |
 | file | String | Имя выходного файла. |
 
 ### Смотрите также
@@ -94,7 +94,7 @@ public PdfDevice(PdfRenderingOptions options, string file)
 
 ## PdfDevice(Stream) {#constructor_4}
 
-Инициализирует новый экземпляр класса[`PdfDevice`](../../pdfdevice).
+Инициализирует новый экземпляр[`PdfDevice`](../../pdfdevice) класс.
 
 ```csharp
 public PdfDevice(Stream stream)
@@ -114,7 +114,7 @@ public PdfDevice(Stream stream)
 
 ## PdfDevice(PdfRenderingOptions, Stream) {#constructor_2}
 
-Инициализирует новый экземпляр класса[`PdfDevice`](../../pdfdevice)с помощью параметров рендеринга и выходного потока.
+Инициализирует новый экземпляр[`PdfDevice`](../../pdfdevice) класс по параметрам рендеринга и выходному потоку.
 
 ```csharp
 public PdfDevice(PdfRenderingOptions options, Stream stream)
@@ -122,7 +122,7 @@ public PdfDevice(PdfRenderingOptions options, Stream stream)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| options | PdfRenderingOptions | Параметры рендеринга. |
+| options | PdfRenderingOptions | Варианты рендеринга. |
 | stream | Stream | Выходной поток. |
 
 ### Смотрите также

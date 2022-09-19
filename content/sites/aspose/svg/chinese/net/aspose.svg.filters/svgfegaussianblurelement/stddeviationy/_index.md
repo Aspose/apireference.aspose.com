@@ -1,14 +1,14 @@
 ---
 title: StdDeviationY
 second_title: Aspose.SVG for .NET API 参考
-description: 对应于给定feGaussianBlur元素的属性stdDeviation包含属性stdDeviation的 Y 分量可能自动计算
+description: 对应于给定feGaussianBlur元素的属性stdDeviation包含属性stdDeviation. 的 Y 分量可能自动计算
 type: docs
 weight: 50
 url: /zh/net/aspose.svg.filters/svgfegaussianblurelement/stddeviationy/
 ---
 ## SVGFEGaussianBlurElement.StdDeviationY property
 
-对应于给定“feGaussianBlur”元素的属性“stdDeviation”。包含属性“stdDeviation”的 Y 分量（可能自动计算）。
+对应于给定“feGaussianBlur”元素的属性“stdDeviation”。包含属性“stdDeviation”. 的 Y 分量（可能自动计算）
 
 ```csharp
 public SVGAnimatedNumber StdDeviationY { get; }

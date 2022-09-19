@@ -3,7 +3,7 @@ title: Url
 second_title: Справочник по Aspose.SVG для .NET API
 description: Предоставляет объектное представление универсального идентификатора URL.
 type: docs
-weight: 3720
+weight: 3730
 url: /ru/net/aspose.svg/url/
 ---
 ## Url class
@@ -18,14 +18,14 @@ public class Url : DOMObject
 
 | Имя | Описание |
 | --- | --- |
-| [Url](url#constructor)(string) | Инициализирует новый экземпляр[`Url`](../url)с указанным URL-адресом. |
-| [Url](url#constructor_1)(string, string) | Инициализирует новый экземпляр[`Url`](../url)с указанным URL-адресом и базовым URL-адресом. |
+| [Url](url#constructor)(string) | Инициализирует новый экземпляр[`Url`](../url) с указанным URL. |
+| [Url](url#constructor_1)(string, string) | Инициализирует новый экземпляр[`Url`](../url) с указанным URL и базовым URL. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [Hash](../../aspose.svg/url/hash) { get; set; } | Получает или задает строковое представление для указанного сегмента хэша URL. |
+| [Hash](../../aspose.svg/url/hash) { get; set; } | Получает или задает строковое представление для указанного хеш-сегмента URL. |
 | [Host](../../aspose.svg/url/host) { get; set; } | Получает или задает строковое представление для указанного хоста URL. |
 | [Hostname](../../aspose.svg/url/hostname) { get; set; } | Получает или задает строковое представление для указанного имени узла URL. |
 | [Href](../../aspose.svg/url/href) { get; set; } | Получает или задает сериализованное представление для указанного экземпляра URL. |
@@ -35,18 +35,18 @@ public class Url : DOMObject
 | [Port](../../aspose.svg/url/port) { get; set; } | Получает или задает строковое представление для указанного порта URL. |
 | [Protocol](../../aspose.svg/url/protocol) { get; set; } | Получает или задает строковое представление для указанной схемы URL. |
 | [Search](../../aspose.svg/url/search) { get; set; } | Получает или задает строковое представление для указанного сегмента поиска URL. |
-| [SearchParams](../../aspose.svg/url/searchparams) { get; } | Получает ассоциированный объект[`IUrlSearchParams`](../iurlsearchparams). |
+| [SearchParams](../../aspose.svg/url/searchparams) { get; } | Получает связанный[`IUrlSearchParams`](../iurlsearchparams) объект. |
 | [Username](../../aspose.svg/url/username) { get; set; } | Получает или задает строковое представление для указанного имени пользователя URL. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| override [Equals](../../aspose.svg/url/equals)(object) | Определяет, равен ли указанныйObjectэтому экземпляру. |
-| override [GetHashCode](../../aspose.svg/url/gethashcode)() | Возвращает хэш-код для данного экземпляра. |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | Этот метод используется для получения объекта ECMAScriptType. |
-| [ToJson](../../aspose.svg/url/tojson)() | ВозвращаетString, представляющий этот экземпляр. |
-| override [ToString](../../aspose.svg/url/tostring)() | ВозвращаетString, представляющий этот экземпляр. |
+| override [Equals](../../aspose.svg/url/equals)(object) | Определяет, является ли указанныйObject , равно этому экземпляру. |
+| override [GetHashCode](../../aspose.svg/url/gethashcode)() | Возвращает хэш-код для этого экземпляра. |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | Этот метод используется для получения объекта ECMAScript.Type . |
+| [ToJson](../../aspose.svg/url/tojson)() | ВозвращаетString который представляет этот экземпляр. |
+| override [ToString](../../aspose.svg/url/tostring)() | ВозвращаетString который представляет этот экземпляр. |
 
 ### Смотрите также
 

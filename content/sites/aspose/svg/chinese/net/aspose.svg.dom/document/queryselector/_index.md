@@ -1,14 +1,14 @@
 ---
 title: QuerySelector
 second_title: Aspose.SVG for .NET API 参考
-description: 返回文档中与选择器
+description: 返回文档中匹配 selector 的第一个元素
 type: docs
 weight: 1020
 url: /zh/net/aspose.svg.dom/document/queryselector/
 ---
 ## Document.QuerySelector method
 
-返回文档中与选择器
+返回文档中匹配 selector 的第一个元素
 
 ```csharp
 public Element QuerySelector(string selector)
@@ -16,7 +16,7 @@ public Element QuerySelector(string selector)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| selector | String | 选择器匹配的第一个元素。 |
+| selector | String | 选择器。 |
 
 ### 返回值
 

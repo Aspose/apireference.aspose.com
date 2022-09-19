@@ -1,14 +1,14 @@
 ---
 title: Credentials
 second_title: Справочник по Aspose.SVG для .NET API
-description: Получает или задает данные проверки подлинности для запроса.
+description: Получает или задает данные аутентификации для запроса.
 type: docs
 weight: 40
 url: /ru/net/aspose.svg.net/requestmessage/credentials/
 ---
 ## RequestMessage.Credentials property
 
-Получает или задает данные проверки подлинности для запроса.
+Получает или задает данные аутентификации для запроса.
 
 ```csharp
 public ICredentials Credentials { get; set; }
@@ -16,7 +16,7 @@ public ICredentials Credentials { get; set; }
 
 ### Стоимость имущества
 
-System.Net.ICredentials, который содержит учетные данные аутентификации, связанные с запросом. Значение по умолчанию равно нулю.
+Объект System.Net.ICredentials, содержащий учетные данные проверки подлинности, связанные с запросом. Значение по умолчанию — null.
 
 ### Смотрите также
 

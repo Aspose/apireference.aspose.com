@@ -1,14 +1,14 @@
 ---
 title: R
 second_title: Aspose.SVG for .NET API 参考
-description: 对应于给定 circle 元素的属性 r
+description: 对应于给定 circle 元素上的属性 r
 type: docs
 weight: 30
 url: /zh/net/aspose.svg/svgcircleelement/r/
 ---
 ## SVGCircleElement.R property
 
-对应于给定 'circle' 元素的属性 'r'。
+对应于给定 'circle' 元素上的属性 'r'。
 
 ```csharp
 public SVGAnimatedLength R { get; }
@@ -16,7 +16,7 @@ public SVGAnimatedLength R { get; }
 
 ### 适当的价值
 
-给定 'circle' 元素的属性 'r'。
+给定'circle'元素的属性'r'。
 
 ### 也可以看看
 

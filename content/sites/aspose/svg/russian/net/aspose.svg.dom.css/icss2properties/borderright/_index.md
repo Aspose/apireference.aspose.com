@@ -1,7 +1,7 @@
 ---
 title: BorderRight
 second_title: Справочник по Aspose.SVG для .NET API
-description: См. определение свойства border-right в CSS2.
+description: См. определение свойства borderright в CSS2.
 type: docs
 weight: 190
 url: /ru/net/aspose.svg.dom.css/icss2properties/borderright/
@@ -16,7 +16,7 @@ public string BorderRight { get; set; }
 
 ### Возвращаемое значение
 
-граница-правая собственность
+пограничная собственность
 
 ### Смотрите также
 

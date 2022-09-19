@@ -3,7 +3,7 @@ title: DOMNullableAttribute
 second_title: Справочник по Aspose.SVG для .NET API
 description: Указывает что объекту DOM может быть присвоено нулевое значение.
 type: docs
-weight: 420
+weight: 410
 url: /ru/net/aspose.svg.dom.attributes/domnullableattribute/
 ---
 ## DOMNullableAttribute class

@@ -1,14 +1,14 @@
 ---
 title: PATHSEG_MOVETO_ABS
 second_title: Aspose.SVG for .NET API 参考
-description: 对应于绝对移动到M 路径数据命令
+description: 对应于绝对移动M路径数据命令
 type: docs
 weight: 200
 url: /zh/net/aspose.svg.paths/svgpathseg/pathseg_moveto_abs/
 ---
 ## SVGPathSeg.PATHSEG_MOVETO_ABS field
 
-对应于“绝对移动到”(M) 路径数据命令。
+对应于“绝对移动”（M）路径数据命令。
 
 ```csharp
 public const ushort PATHSEG_MOVETO_ABS;

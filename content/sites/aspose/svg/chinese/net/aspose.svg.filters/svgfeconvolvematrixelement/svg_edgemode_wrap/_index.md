@@ -1,14 +1,14 @@
 ---
 title: SVG_EDGEMODE_WRAP
 second_title: Aspose.SVG for .NET API 参考
-description: 对应于值 wrap
+description: 对应于值 wrap.
 type: docs
 weight: 210
 url: /zh/net/aspose.svg.filters/svgfeconvolvematrixelement/svg_edgemode_wrap/
 ---
 ## SVGFEConvolveMatrixElement.SVG_EDGEMODE_WRAP field
 
-对应于值 'wrap'。
+对应于值 'wrap'.
 
 ```csharp
 public const ushort SVG_EDGEMODE_WRAP;

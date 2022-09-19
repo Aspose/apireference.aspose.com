@@ -1,14 +1,14 @@
 ---
 title: DefaultPrevented
 second_title: Справочник по Aspose.SVG для .NET API
-description: Возвращает true если функция preventDefault была вызвана когда значение отменяемого атрибута равно true и false в противном случае.
+description: Возвращает значение true если функция preventDefault была вызвана когда значение отменяемого атрибута равно true и значение false в противном случае.
 type: docs
 weight: 50
 url: /ru/net/aspose.svg.dom.events/event/defaultprevented/
 ---
 ## Event.DefaultPrevented property
 
-Возвращает true, если функция preventDefault() была вызвана, когда значение отменяемого атрибута равно true, и false в противном случае.
+Возвращает значение true, если функция preventDefault() была вызвана, когда значение отменяемого атрибута равно true, и значение false в противном случае.
 
 ```csharp
 public bool DefaultPrevented { get; }
@@ -16,7 +16,7 @@ public bool DefaultPrevented { get; }
 
 ### Стоимость имущества
 
-` true` если [по умолчанию запрещено]; в противном случае` false` .
+`истинный` если [по умолчанию запрещено]; в противном случае,`ЛОЖЬ` .
 
 ### Смотрите также
 

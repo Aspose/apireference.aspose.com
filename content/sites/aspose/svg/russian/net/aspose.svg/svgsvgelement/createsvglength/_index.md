@@ -1,7 +1,7 @@
 ---
 title: CreateSVGLength
 second_title: Справочник по Aspose.SVG для .NET API
-description: Создает объект SVGLength вне каких-либо деревьев документов. Объект инициализируется значением 0 пользовательских единиц.
+description: Создает объект SVGLength вне какихлибо деревьев документов. Объект инициализируется значением 0 пользовательских единиц.
 type: docs
 weight: 130
 url: /ru/net/aspose.svg/svgsvgelement/createsvglength/

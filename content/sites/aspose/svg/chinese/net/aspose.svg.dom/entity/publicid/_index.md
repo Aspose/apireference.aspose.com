@@ -1,14 +1,14 @@
 ---
 title: PublicId
 second_title: Aspose.SVG for .NET API 参考
-description: 与实体关联的公共标识符如果指定否则为 null
+description: 如果指定则与实体关联的公共标识符否则为 null
 type: docs
 weight: 50
 url: /zh/net/aspose.svg.dom/entity/publicid/
 ---
 ## Entity.PublicId property
 
-与实体关联的公共标识符（如果指定），否则为 null。
+如果指定，则与实体关联的公共标识符，否则为 null。
 
 ```csharp
 public string PublicId { get; }

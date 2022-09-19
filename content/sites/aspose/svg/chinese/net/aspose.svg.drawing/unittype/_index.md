@@ -3,7 +3,7 @@ title: UnitType
 second_title: Aspose.SVG for .NET API 参考
 description: 指定测量单位
 type: docs
-weight: 1600
+weight: 1610
 url: /zh/net/aspose.svg.drawing/unittype/
 ---
 ## UnitType class
@@ -18,14 +18,14 @@ public sealed class UnitType : IEquatable<UnitType>
 
 | 姓名 | 描述 |
 | --- | --- |
-| override [Equals](../../aspose.svg.drawing/unittype/equals#equals_1)(object) | 确定指定的Object是否等于此实例。 |
-| [Equals](../../aspose.svg.drawing/unittype/equals#equals)(UnitType) | 确定指定的[`UnitType`](../unittype)是否等于此实例。 |
+| override [Equals](../../aspose.svg.drawing/unittype/equals#equals_1)(object) | 判断是否指定Object 等于这个实例。 |
+| [Equals](../../aspose.svg.drawing/unittype/equals#equals)(UnitType) | 判断是否指定[`UnitType`](../unittype) 等于这个实例。 |
 | override [GetHashCode](../../aspose.svg.drawing/unittype/gethashcode)() | 返回此实例的哈希码。 |
-| override [ToString](../../aspose.svg.drawing/unittype/tostring)() | 返回代表此实例的String。 |
-| [operator ==](../../aspose.svg.drawing/unittype/op_equality) | 确定两个指定的[`UnitType`](../unittype)值是否相等。 |
-| [explicit operator](../../aspose.svg.drawing/unittype/op_explicit) | 执行从[`UnitType`](../unittype)到String的显式转换。 |
-| [implicit operator](../../aspose.svg.drawing/unittype/op_implicit) | 执行从String到[`UnitType`](../unittype)的隐式转换。 |
-| [operator !=](../../aspose.svg.drawing/unittype/op_inequality) | 确定两个指定的[`UnitType`](../unittype)值是否不相等。 |
+| override [ToString](../../aspose.svg.drawing/unittype/tostring)() | 返回一个String代表这个实例。 |
+| [operator ==](../../aspose.svg.drawing/unittype/op_equality) | 判断两个是否指定[`UnitType`](../unittype)值相等。 |
+| [explicit operator](../../aspose.svg.drawing/unittype/op_explicit) | 执行显式转换[`UnitType`](../unittype)至String . |
+| [implicit operator](../../aspose.svg.drawing/unittype/op_implicit) | 从String至[`UnitType`](../unittype) . |
+| [operator !=](../../aspose.svg.drawing/unittype/op_inequality) | 判断两个是否指定[`UnitType`](../unittype)值不相等。 |
 
 ## 字段
 
@@ -34,9 +34,9 @@ public sealed class UnitType : IEquatable<UnitType>
 | static readonly [Auto](../../aspose.svg.drawing/unittype/auto) | 测量未定义。 |
 | static readonly [Ch](../../aspose.svg.drawing/unittype/ch) | 测量是相对于“0”（零）的宽度。 |
 | static readonly [Cm](../../aspose.svg.drawing/unittype/cm) | 测量单位为厘米 |
-| static readonly [Deg](../../aspose.svg.drawing/unittype/deg) | 度量单位为度。 |
-| static readonly [Dpcm](../../aspose.svg.drawing/unittype/dpcm) | 测量单位为每厘米点数。 |
-| static readonly [Dpi](../../aspose.svg.drawing/unittype/dpi) | 测量单位为每英寸点数。 |
+| static readonly [Deg](../../aspose.svg.drawing/unittype/deg) | 测量以度为单位。 |
+| static readonly [Dpcm](../../aspose.svg.drawing/unittype/dpcm) | 以每厘米点数为单位。 |
+| static readonly [Dpi](../../aspose.svg.drawing/unittype/dpi) | 以每英寸点数为单位。 |
 | static readonly [Dppx](../../aspose.svg.drawing/unittype/dppx) | 测量单位为每像素点数。 |
 | static readonly [Em](../../aspose.svg.drawing/unittype/em) | 测量是相对于父元素字体的高度。 |
 | static readonly [Ex](../../aspose.svg.drawing/unittype/ex) | 测量是相对于父元素字体的小写字母 x 的高度。 |
@@ -47,19 +47,19 @@ public sealed class UnitType : IEquatable<UnitType>
 | static readonly [KHz](../../aspose.svg.drawing/unittype/khz) | 测量单位为千赫兹。 |
 | static readonly [Mm](../../aspose.svg.drawing/unittype/mm) | 测量单位为毫米 |
 | static readonly [Ms](../../aspose.svg.drawing/unittype/ms) | 测量以毫秒为单位。 |
-| static readonly [Pc](../../aspose.svg.drawing/unittype/pc) | 测量单位为皮卡 |
+| static readonly [Pc](../../aspose.svg.drawing/unittype/pc) | 测量单位为 picas |
 | static readonly [Percentage](../../aspose.svg.drawing/unittype/percentage) | 测量以百分比表示。 |
-| static readonly [Pt](../../aspose.svg.drawing/unittype/pt) | 测量单位为点 |
+| static readonly [Pt](../../aspose.svg.drawing/unittype/pt) | 测量以点为单位 |
 | static readonly [Px](../../aspose.svg.drawing/unittype/px) | 测量以像素为单位 |
 | static readonly [Q](../../aspose.svg.drawing/unittype/q) | 测量单位为四分之一毫米 |
-| static readonly [Rad](../../aspose.svg.drawing/unittype/rad) | 测量单位为弧度。 |
+| static readonly [Rad](../../aspose.svg.drawing/unittype/rad) | 测量以弧度为单位。 |
 | static readonly [Real](../../aspose.svg.drawing/unittype/real) | 测量值是一个实数。 |
-| static readonly [Rem](../../aspose.svg.drawing/unittype/rem) | 测量与根元素的字体大小相关。 |
+| static readonly [Rem](../../aspose.svg.drawing/unittype/rem) | 尺寸与根元素的字体大小相关。 |
 | static readonly [S](../../aspose.svg.drawing/unittype/s) | 测量以秒为单位。 |
-| static readonly [Turn](../../aspose.svg.drawing/unittype/turn) | 依次进行测量。 |
+| static readonly [Turn](../../aspose.svg.drawing/unittype/turn) | 轮流测量。 |
 | static readonly [Vh](../../aspose.svg.drawing/unittype/vh) | 测量是相对于视口高度的 1%* 试试看 |
-| static readonly [Vmax](../../aspose.svg.drawing/unittype/vmax) | 测量是相对于视口*大尺寸的 1% 试试看 |
-| static readonly [Vmin](../../aspose.svg.drawing/unittype/vmin) | 测量是相对于视口*小尺寸的 1% 试试看 |
+| static readonly [Vmax](../../aspose.svg.drawing/unittype/vmax) | 测量是相对于视口* 较大尺寸的 1% 试试看 |
+| static readonly [Vmin](../../aspose.svg.drawing/unittype/vmin) | 测量是相对于视口* 较小尺寸的 1% 试试看 |
 | static readonly [Vw](../../aspose.svg.drawing/unittype/vw) | 测量是相对于视口宽度的 1%* |
 
 ### 也可以看看

@@ -1,7 +1,7 @@
 ---
 title: op_Subtraction
 second_title: Справочник по Aspose.SVG для .NET API
-description: Реализует оператор -.
+description: Реализует оператор .
 type: docs
 weight: 80
 url: /ru/net/aspose.svg.drawing/frequency/op_subtraction/
@@ -16,8 +16,8 @@ public static Frequency operator -(Frequency a, Frequency b)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| a | Frequency | Параметр a. |
-| b | Frequency | Параметр b. |
+| a | Frequency | Параметр а. |
+| b | Frequency | Параметр б. |
 
 ### Возвращаемое значение
 

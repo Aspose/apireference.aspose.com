@@ -1,14 +1,14 @@
 ---
 title: SVG_MEETORSLICE_SLICE
 second_title: Справочник по Aspose.SVG для .NET API
-description: Соответствует значению slice для атрибута preserveAspectRatio.
+description: Соответствует значению срез для атрибута preserveAspectRatio.
 type: docs
 weight: 50
 url: /ru/net/aspose.svg.datatypes/svgpreserveaspectratio/svg_meetorslice_slice/
 ---
 ## SVGPreserveAspectRatio.SVG_MEETORSLICE_SLICE field
 
-Соответствует значению 'slice' для атрибута 'preserveAspectRatio'.
+Соответствует значению «срез» для атрибута «preserveAspectRatio».
 
 ```csharp
 public const ushort SVG_MEETORSLICE_SLICE;

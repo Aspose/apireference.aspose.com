@@ -1,14 +1,14 @@
 ---
 title: IsReadOnly
 second_title: Aspose.SVG for .NET API 参考
-description: 确定MutationObserverInitaspose.svg.dom.mutations/mutationobserverinit集合是否可变
+description: 确定是否MutationObserverInitaspose.svg.dom.mutations/mutationobserverinit集合是可变的
 type: docs
 weight: 90
 url: /zh/net/aspose.svg.dom.mutations/mutationobserverinit/isreadonly/
 ---
 ## MutationObserverInit.IsReadOnly property
 
-确定[`MutationObserverInit`](../../mutationobserverinit)集合是否可变。
+确定是否[`MutationObserverInit`](../../mutationobserverinit)集合是可变的。
 
 ```csharp
 public bool IsReadOnly { get; }
@@ -16,7 +16,7 @@ public bool IsReadOnly { get; }
 
 ### 返回值
 
-如果无法修改集合则为真；否则为假。
+如果集合不能被修改，则为真；否则为假。
 
 ### 也可以看看
 

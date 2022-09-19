@@ -3,7 +3,7 @@ title: IBrush
 second_title: Справочник по Aspose.SVG для .NET API
 description: Объявляет метод получения типа кисти.
 type: docs
-weight: 1420
+weight: 1430
 url: /ru/net/aspose.svg.drawing/ibrush/
 ---
 ## IBrush interface

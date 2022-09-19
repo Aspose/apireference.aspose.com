@@ -1,14 +1,14 @@
 ---
 title: OutputStream
 second_title: Aspose.SVG for .NET API 参考
-description: 初始化OutputStreamaspose.svg.io/outputstream类的新实例
+description: 初始化OutputStreamaspose.svg.io/outputstream类.
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.io/outputstream/outputstream/
 ---
 ## OutputStream constructor
 
-初始化[`OutputStream`](../../outputstream)类的新实例。
+初始化[`OutputStream`](../../outputstream)类.
 
 ```csharp
 public OutputStream(Stream stream, string uri)

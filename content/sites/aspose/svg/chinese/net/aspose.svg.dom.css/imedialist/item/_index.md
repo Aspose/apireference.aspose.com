@@ -1,14 +1,14 @@
 ---
 title: Item
 second_title: Aspose.SVG for .NET API 参考
-description: 返回列表中的索引如果 index 大于或等于列表中的媒体数量则返回 null  媒体索引
+description: 返回列表中的索引如果 index 大于或等于列表中的媒体数量则返回 null. 媒体索引
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.dom.css/imedialist/item/
 ---
 ## IMediaList indexer
 
-返回列表中的索引。如果 index 大于或等于列表中的媒体数量，则返回 null。  媒体索引。
+返回列表中的索引。如果 index 大于或等于列表中的媒体数量，则返回 null. 媒体索引。
 
 ```csharp
 public string this[int index] { get; }

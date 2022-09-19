@@ -1,14 +1,14 @@
 ---
 title: MultipartFormDataContent
 second_title: Справочник по Aspose.SVG для .NET API
-description: Представление контента для алгоритма кодирования multipart/form-data
+description: Представлять содержимое для алгоритма кодирования multipart/formdata
 type: docs
-weight: 2360
+weight: 2370
 url: /ru/net/aspose.svg.net/multipartformdatacontent/
 ---
 ## MultipartFormDataContent class
 
-Представление контента для алгоритма кодирования multipart/form-data
+Представлять содержимое для алгоритма кодирования multipart/form-data
 
 ```csharp
 public class MultipartFormDataContent : MultipartContent
@@ -18,8 +18,8 @@ public class MultipartFormDataContent : MultipartContent
 
 | Имя | Описание |
 | --- | --- |
-| [MultipartFormDataContent](multipartformdatacontent#constructor)() | Инициализирует новый экземпляр класса[`MultipartFormDataContent`](../multipartformdatacontent). |
-| [MultipartFormDataContent](multipartformdatacontent#constructor_1)(string) | Инициализирует новый экземпляр класса[`MultipartFormDataContent`](../multipartformdatacontent). |
+| [MultipartFormDataContent](multipartformdatacontent#constructor)() | Инициализирует новый экземпляр[`MultipartFormDataContent`](../multipartformdatacontent) класс. |
+| [MultipartFormDataContent](multipartformdatacontent#constructor_1)(string) | Инициализирует новый экземпляр[`MultipartFormDataContent`](../multipartformdatacontent) класс. |
 
 ## Характеристики
 
@@ -31,14 +31,14 @@ public class MultipartFormDataContent : MultipartContent
 
 | Имя | Описание |
 | --- | --- |
-| override [Add](../../aspose.svg.net/multipartformdatacontent/add#add)(Content) | Добавьте содержимое в класс[`MultipartFormDataContent`](../multipartformdatacontent) |
-| [Add](../../aspose.svg.net/multipartformdatacontent/add#add_1)(Content, string) | Добавьте содержимое в класс[`MultipartFormDataContent`](../multipartformdatacontent)с параметром имени поля |
-| [Add](../../aspose.svg.net/multipartformdatacontent/add#add_2)(Content, string, string) | Добавьте содержимое в класс[`MultipartFormDataContent`](../multipartformdatacontent)с параметром поля и имени файла |
-| [Dispose](../../aspose.svg.net/content/dispose)() | Выполняет определяемые приложением задачи, связанные с освобождением, освобождением или сбросом неуправляемых ресурсов. |
+| override [Add](../../aspose.svg.net/multipartformdatacontent/add#add)(Content) | Добавьте содержимое в[`MultipartFormDataContent`](../multipartformdatacontent) класс |
+| [Add](../../aspose.svg.net/multipartformdatacontent/add#add_1)(Content, string) | Добавьте содержимое в[`MultipartFormDataContent`](../multipartformdatacontent) класс с именем поля параметр |
+| [Add](../../aspose.svg.net/multipartformdatacontent/add#add_2)(Content, string, string) | Добавьте содержимое в[`MultipartFormDataContent`](../multipartformdatacontent) класс с полем и именем файла parameter |
+| [Dispose](../../aspose.svg.net/content/dispose)() | Выполняет определяемые приложением задачи, связанные с освобождением, высвобождением или сбросом неуправляемых ресурсов. |
 | [GetEnumerator](../../aspose.svg.net/multipartcontent/getenumerator)() | Возвращает перечислитель, который перебирает коллекцию. |
 | [ReadAsByteArray](../../aspose.svg.net/content/readasbytearray)() | Сериализировать содержимое HTTP и вернуть массив байтов, представляющий содержимое. |
-| [ReadAsStream](../../aspose.svg.net/content/readasstream)() | Сериализация содержимого HTTP и возврат потока, представляющего содержимое. |
-| [ReadAsString](../../aspose.svg.net/content/readasstring)() | Сериализация содержимого HTTP и возврат строки, представляющей содержимое. |
+| [ReadAsStream](../../aspose.svg.net/content/readasstream)() | Сериализировать содержимое HTTP и вернуть поток, представляющий содержимое. |
+| [ReadAsString](../../aspose.svg.net/content/readasstring)() | Сериализировать содержимое HTTP и вернуть строку, представляющую содержимое. |
 
 ### Смотрите также
 

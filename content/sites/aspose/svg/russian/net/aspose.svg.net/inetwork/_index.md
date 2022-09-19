@@ -3,7 +3,7 @@ title: INetwork
 second_title: Справочник по Aspose.SVG для .NET API
 description: Предоставляет интерфейс для сетевых служб.
 type: docs
-weight: 2260
+weight: 2270
 url: /ru/net/aspose.svg.net/inetwork/
 ---
 ## INetwork interface
@@ -18,7 +18,7 @@ public interface INetwork : IDisposable
 
 | Имя | Описание |
 | --- | --- |
-| [Send](../../aspose.svg.net/inetwork/send)(RequestMessage) | Отправляет сообщение[`RequestMessage`](../requestmessage). |
+| [Send](../../aspose.svg.net/inetwork/send)(RequestMessage) | Отправляет[`RequestMessage`](../requestmessage) сообщение. |
 
 ### Смотрите также
 

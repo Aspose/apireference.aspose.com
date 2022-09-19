@@ -1,14 +1,14 @@
 ---
 title: FileCreateStreamProvider
 second_title: Aspose.SVG for .NET API 参考
-description: 表示FileStream实现用于向渲染设备提供流
+description: 代表FileStream为渲染设备提供流的实现
 type: docs
-weight: 1900
+weight: 1910
 url: /zh/net/aspose.svg.io/filecreatestreamprovider/
 ---
 ## FileCreateStreamProvider class
 
-表示FileStream实现，用于向渲染设备提供流。
+代表FileStream为渲染设备提供流的实现。
 
 ```csharp
 public class FileCreateStreamProvider : ICreateStreamProvider
@@ -18,9 +18,9 @@ public class FileCreateStreamProvider : ICreateStreamProvider
 
 | 姓名 | 描述 |
 | --- | --- |
-| [FileCreateStreamProvider](filecreatestreamprovider#constructor)() | 初始化[`FileCreateStreamProvider`](../filecreatestreamprovider)类的新实例。 |
-| [FileCreateStreamProvider](filecreatestreamprovider#constructor_1)(string) | 初始化[`FileCreateStreamProvider`](../filecreatestreamprovider)类的新实例。 |
-| [FileCreateStreamProvider](filecreatestreamprovider#constructor_2)(string, string) | 初始化[`FileCreateStreamProvider`](../filecreatestreamprovider)类的新实例。 |
+| [FileCreateStreamProvider](filecreatestreamprovider#constructor)() | 初始化[`FileCreateStreamProvider`](../filecreatestreamprovider)类. |
+| [FileCreateStreamProvider](filecreatestreamprovider#constructor_1)(string) | 初始化[`FileCreateStreamProvider`](../filecreatestreamprovider)类. |
+| [FileCreateStreamProvider](filecreatestreamprovider#constructor_2)(string, string) | 初始化[`FileCreateStreamProvider`](../filecreatestreamprovider)类. |
 
 ## 特性
 

@@ -1,14 +1,14 @@
 ---
 title: Clone
 second_title: Aspose.SVG for .NET API 参考
-description: 创建具有与现有实例相同的属性值的 GraphicContext 类的新实例
+description: 创建一个具有与现有实例相同属性值的 GraphicContext 类的新实例
 type: docs
 weight: 170
 url: /zh/net/aspose.svg.rendering/graphiccontext/clone/
 ---
 ## GraphicContext.Clone method
 
-创建具有与现有实例相同的属性值的 GraphicContext 类的新实例。
+创建一个具有与现有实例相同属性值的 GraphicContext 类的新实例。
 
 ```csharp
 public virtual GraphicContext Clone()

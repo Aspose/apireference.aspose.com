@@ -1,14 +1,14 @@
 ---
 title: RGBColor
 second_title: Aspose.SVG for .NET API 参考
-description: RGBColor 接口用于表示任意RGB颜色值此接口反映了基础样式属性中的值因此对 CSSPrimitiveValue 对象所做的修改会修改样式属性
+description: RGBColor 接口用于表示任意 RGB 颜色值此接口反映了基础样式属性中的值因此对 CSSPrimitiveValue 对象所做的修改会修改样式属性
 type: docs
-weight: 780
+weight: 770
 url: /zh/net/aspose.svg.dom.css/rgbcolor/
 ---
 ## RGBColor class
 
-RGBColor 接口用于表示任意RGB颜色值。此接口反映了基础样式属性中的值。因此，对 CSSPrimitiveValue 对象所做的修改会修改样式属性。
+RGBColor 接口用于表示任意 RGB 颜色值。此接口反映了基础样式属性中的值。因此，对 CSSPrimitiveValue 对象所做的修改会修改样式属性。
 
 ```csharp
 public class RGBColor : DOMObject
@@ -18,16 +18,16 @@ public class RGBColor : DOMObject
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Alpha](../../aspose.svg.dom.css/rgbcolor/alpha) { get; } | 此属性用于 RGB 颜色的 alpha 值。 |
-| [Blue](../../aspose.svg.dom.css/rgbcolor/blue) { get; } | 该属性用于RGB 颜色的蓝色值。 |
-| [Green](../../aspose.svg.dom.css/rgbcolor/green) { get; } | 此属性用于RGB 颜色的绿色值。 |
-| [Red](../../aspose.svg.dom.css/rgbcolor/red) { get; } | 此属性用于 RGB 颜色的红色值。 |
+| [Alpha](../../aspose.svg.dom.css/rgbcolor/alpha) { get; } | 这个属性用于RGB颜色的alpha值。 |
+| [Blue](../../aspose.svg.dom.css/rgbcolor/blue) { get; } | 该属性用于RGB颜色的蓝色值。 |
+| [Green](../../aspose.svg.dom.css/rgbcolor/green) { get; } | 该属性用于RGB颜色的绿色值。 |
+| [Red](../../aspose.svg.dom.css/rgbcolor/red) { get; } | 这个属性用于RGB颜色的红色值。 |
 
 ## 方法
 
 | 姓名 | 描述 |
 | --- | --- |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | 此方法用于检索 ECMAScript 对象Type。 |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | 此方法用于检索 ECMAScript 对象Type . |
 | [ToNative](../../aspose.svg.dom.css/rgbcolor/tonative)() | 转换为本机颜色对象。 |
 
 ### 也可以看看

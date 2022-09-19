@@ -1,14 +1,14 @@
 ---
 title: Contains
 second_title: Справочник по Aspose.SVG для .NET API
-description: Определяет содержит лиMutationObserverInitaspose.svg.dom.mutations/mutationobserverinitуказанную пару ключ/значение.
+description: ОпределяетMutationObserverInitaspose.svg.dom.mutations/mutationobserverinit содержать указанную пару ключ/значение.
 type: docs
 weight: 160
 url: /ru/net/aspose.svg.dom.mutations/mutationobserverinit/contains/
 ---
 ## MutationObserverInit.Contains method
 
-Определяет, содержит ли[`MutationObserverInit`](../../mutationobserverinit)указанную пару ключ/значение.
+Определяет,[`MutationObserverInit`](../../mutationobserverinit) содержать указанную пару ключ/значение.
 
 ```csharp
 public bool Contains(KeyValuePair<string, object> item)
@@ -20,7 +20,7 @@ public bool Contains(KeyValuePair<string, object> item)
 
 ### Возвращаемое значение
 
-Истинно, если[`MutationObserverInit`](../../mutationobserverinit)содержит указанную пару ключ/значение; в противном случае ложно.
+Верно, если[`MutationObserverInit`](../../mutationobserverinit) содержать указанную пару ключ/значение; в противном случае ложно.
 
 ### Смотрите также
 

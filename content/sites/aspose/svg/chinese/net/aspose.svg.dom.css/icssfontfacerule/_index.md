@@ -1,14 +1,14 @@
 ---
 title: ICSSFontFaceRule
 second_title: Aspose.SVG for .NET API 参考
-description: CSSFontFaceRule 接口表示 CSS 样式表中的font-face 规则font-face 规则用于保存一组字体描述
+description: CSSFontFaceRule 接口表示CSS 样式表中的fontface 规则 fontface 规则用于保存一组字体描述
 type: docs
-weight: 560
+weight: 550
 url: /zh/net/aspose.svg.dom.css/icssfontfacerule/
 ---
 ## ICSSFontFaceRule interface
 
-CSSFontFaceRule 接口表示 CSS 样式表中的@font-face 规则。@font-face 规则用于保存一组字体描述。
+CSSFontFaceRule 接口表示CSS 样式表中的@font-face 规则。 @font-face 规则用于保存一组字体描述。
 
 ```csharp
 public interface ICSSFontFaceRule : ICSSRule
@@ -18,7 +18,7 @@ public interface ICSSFontFaceRule : ICSSRule
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Style](../../aspose.svg.dom.css/icssfontfacerule/style) { get; } | 此规则的声明块。 |
+| [Style](../../aspose.svg.dom.css/icssfontfacerule/style) { get; } | 该规则的声明块。 |
 
 ### 也可以看看
 

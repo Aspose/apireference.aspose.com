@@ -1,14 +1,14 @@
 ---
 title: ReadyState
 second_title: Aspose.SVG for .NET API 参考
-description: 返回文档就绪状态文档加载时的加载完成解析但仍在加载子资源后的交互以及加载后的完成
+description: 返回文档就绪状态文档加载时的加载完成解析但仍在加载子资源后的交互加载后的完成
 type: docs
 weight: 230
 url: /zh/net/aspose.svg.dom/document/readystate/
 ---
 ## Document.ReadyState property
 
-返回文档就绪状态。文档加载时的“加载”，完成解析但仍在加载子资源后的“交互”，以及加载后的“完成”。
+返回文档就绪状态。文档加载时的“加载”，完成解析但仍在加载子资源后的“交互”，加载后的“完成”。
 
 ```csharp
 public string ReadyState { get; }

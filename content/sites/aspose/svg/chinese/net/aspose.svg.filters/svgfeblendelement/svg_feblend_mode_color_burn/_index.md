@@ -1,14 +1,14 @@
 ---
 title: SVG_FEBLEND_MODE_COLOR_BURN
 second_title: Aspose.SVG for .NET API 参考
-description: 对应于值 color_burn
+description: 对应于值color_burn
 type: docs
 weight: 100
 url: /zh/net/aspose.svg.filters/svgfeblendelement/svg_feblend_mode_color_burn/
 ---
 ## SVGFEBlendElement.SVG_FEBLEND_MODE_COLOR_BURN field
 
-对应于值 'color_burn'。
+对应于值“color_burn”。
 
 ```csharp
 public const ushort SVG_FEBLEND_MODE_COLOR_BURN;

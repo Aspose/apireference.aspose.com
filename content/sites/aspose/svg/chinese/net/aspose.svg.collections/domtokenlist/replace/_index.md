@@ -16,12 +16,12 @@ public bool Replace(string token, string newToken)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| token | String | 要替换的令牌。 |
-| newToken | String | 要替换旧令牌的令牌。 |
+| token | String | 您要替换的令牌。 |
+| newToken | String | 您要替换旧令牌的令牌。 |
 
 ### 返回值
 
-布尔值` true` 如果令牌被找到并替换，` false` 否则。
+布尔值`真的`如果找到并替换了令牌，`错误的`否则。
 
 ### 也可以看看
 

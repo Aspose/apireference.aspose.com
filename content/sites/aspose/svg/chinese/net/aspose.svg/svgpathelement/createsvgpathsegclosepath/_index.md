@@ -1,14 +1,14 @@
 ---
 title: CreateSVGPathSegClosePath
 second_title: Aspose.SVG for .NET API 参考
-description: 返回一个独立的无父对象的 SVGPathSegClosePath 对象
+description: 返回一个独立的无父 SVGPathSegClosePath 对象
 type: docs
 weight: 50
 url: /zh/net/aspose.svg/svgpathelement/createsvgpathsegclosepath/
 ---
 ## SVGPathElement.CreateSVGPathSegClosePath method
 
-返回一个独立的、无父对象的 SVGPathSegClosePath 对象。
+返回一个独立的无父 SVGPathSegClosePath 对象。
 
 ```csharp
 public SVGPathSegClosePath CreateSVGPathSegClosePath()
@@ -16,7 +16,7 @@ public SVGPathSegClosePath CreateSVGPathSegClosePath()
 
 ### 返回值
 
-一个独立的、无父对象的 SVGPathSegClosePath 对象。
+一个独立的无父 SVGPathSegClosePath 对象。
 
 ### 也可以看看
 

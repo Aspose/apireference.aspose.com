@@ -1,14 +1,14 @@
 ---
 title: Page
 second_title: Aspose.SVG for .NET API 参考
-description: 表示一个页面对象用于配置输出页面 页面大小的空白值为 A4210x297mm
+description: 表示一个页面对象用于配置输出页面 页面大小的空白值为A4210x297mm
 type: docs
-weight: 1550
+weight: 1560
 url: /zh/net/aspose.svg.drawing/page/
 ---
 ## Page class
 
-表示一个页面对象，用于配置输出页面。 页面大小的空白值为 A4(210x297mm)
+表示一个页面对象用于配置输出页面。 页面大小的空白值为A4(210x297mm)
 
 ```csharp
 public class Page
@@ -18,10 +18,10 @@ public class Page
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Page](page#constructor)() | 初始化[`Page`](../page)类的新实例。 |
-| [Page](page#constructor_1)(Margin) | 初始化[`Page`](../page)类的新实例。 |
-| [Page](page#constructor_2)(Size) | 初始化[`Page`](../page)类的新实例。 |
-| [Page](page#constructor_3)(Size, Margin) | 初始化[`Page`](../page)类的新实例。 |
+| [Page](page#constructor)() | 初始化[`Page`](../page)类. |
+| [Page](page#constructor_1)(Margin) | 初始化[`Page`](../page)类. |
+| [Page](page#constructor_2)(Size) | 初始化[`Page`](../page)类. |
+| [Page](page#constructor_3)(Size, Margin) | 初始化[`Page`](../page)类. |
 
 ## 特性
 

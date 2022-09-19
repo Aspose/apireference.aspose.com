@@ -1,14 +1,14 @@
 ---
 title: StrokeBrush
 second_title: Справочник по Aspose.SVG для .NET API
-description: Устанавливает или получает объект-кисть который используется для обводки контуров.
+description: Устанавливает или получает объекткисть который используется для обведенных контуров.
 type: docs
 weight: 140
 url: /ru/net/aspose.svg.rendering/graphiccontext/strokebrush/
 ---
 ## GraphicContext.StrokeBrush property
 
-Устанавливает или получает объект-кисть, который используется для обводки контуров.
+Устанавливает или получает объект-кисть, который используется для обведенных контуров.
 
 ```csharp
 public virtual IBrush StrokeBrush { get; set; }

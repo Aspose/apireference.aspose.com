@@ -1,14 +1,14 @@
 ---
 title: CreateNSResolver
 second_title: Aspose.SVG for .NET API 参考
-description: 调整任何 DOM 节点以解析名称空间以便可以轻松地评估 XPath 表达式 相对于它在文档中出现的节点的上下文这个适配器在使用节点的当前可用信息从给定前缀解析命名空间URI 时在节点上像DOM Level 3 方法 lookupNamespaceURI 一样工作 调用 lookupNamespaceURI 时的层次结构也正确解析了隐式 xml 前缀
+description: 调整任何 DOM 节点以解析名称空间以便可以轻松地评估 XPath 表达式 相对于它在文档中出现的节点的上下文这个适配器 works 类似于 DOM Level 3 方法查找命名空间URI在节点上使用在 time lookupNamespaceURI 调用时节点层次结构中可用的当前信息从给定前缀解析 namespaceURI 也正确解析隐式 xml 前缀
 type: docs
 weight: 910
 url: /zh/net/aspose.svg.dom/document/creatensresolver/
 ---
 ## Document.CreateNSResolver method
 
-调整任何 DOM 节点以解析名称空间，以便可以轻松地评估 XPath 表达式 相对于它在文档中出现的节点的上下文。这个适配器在使用节点的当前可用信息从给定前缀解析命名空间URI 时在节点上像DOM Level 3 方法` lookupNamespaceURI` 一样工作 。调用 lookupNamespaceURI 时的层次结构，也正确解析了隐式 xml 前缀。
+调整任何 DOM 节点以解析名称空间，以便可以轻松地评估 XPath 表达式 相对于它在文档中出现的节点的上下文。这个适配器 works 类似于 DOM Level 3 方法`查找命名空间URI`在节点上使用在 time lookupNamespaceURI 调用时节点层次结构中可用的当前信息从给定前缀解析 namespaceURI ，也正确解析隐式 xml 前缀。
 
 ```csharp
 public IXPathNSResolver CreateNSResolver(Node nodeResolver)
@@ -16,11 +16,11 @@ public IXPathNSResolver CreateNSResolver(Node nodeResolver)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| nodeResolver | Node | 用作命名空间解析上下文的节点。 |
+| nodeResolver | Node | 用作命名空间解析的上下文的节点。 |
 
 ### 返回值
 
-[`IXPathNSResolver`](../../../aspose.svg.dom.xpath/ixpathnsresolver)根据指定节点范围内的定义解析命名空间。
+[`IXPathNSResolver`](../../../aspose.svg.dom.xpath/ixpathnsresolver)它根据指定节点范围内的定义解析命名空间。
 
 ### 也可以看看
 

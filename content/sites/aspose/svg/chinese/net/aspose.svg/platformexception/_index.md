@@ -3,7 +3,7 @@ title: PlatformException
 second_title: Aspose.SVG for .NET API 参考
 description: 表示应用程序执行期间可能发生的所有异常的基类
 type: docs
-weight: 2660
+weight: 2670
 url: /zh/net/aspose.svg/platformexception/
 ---
 ## PlatformException class
@@ -18,9 +18,9 @@ public class PlatformException : Exception
 
 | 姓名 | 描述 |
 | --- | --- |
-| [PlatformException](platformexception#constructor)() | 初始化[`PlatformException`](../platformexception)类的新实例。 |
-| [PlatformException](platformexception#constructor_1)(string) | 使用指定的错误消息初始化[`PlatformException`](../platformexception)类的新实例。 |
-| [PlatformException](platformexception#constructor_2)(string, Exception) | 初始化[`PlatformException`](../platformexception)类的新实例，其中包含指定的错误消息和对导致此异常的内部异常的引用. |
+| [PlatformException](platformexception#constructor)() | 初始化[`PlatformException`](../platformexception)类. |
+| [PlatformException](platformexception#constructor_1)(string) | 初始化[`PlatformException`](../platformexception)具有指定错误消息的类。 |
+| [PlatformException](platformexception#constructor_2)(string, Exception) | 初始化[`PlatformException`](../platformexception)具有指定错误消息的类和对导致此异常的内部异常的引用。 |
 
 ### 也可以看看
 

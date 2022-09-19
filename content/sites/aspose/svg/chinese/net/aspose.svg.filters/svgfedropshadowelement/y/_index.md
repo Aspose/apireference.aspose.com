@@ -1,14 +1,14 @@
 ---
 title: Y
 second_title: Aspose.SVG for .NET API 参考
-description: 对应于给定 feDropShadow 元素的属性 y
+description: 对应于给定 feDropShadow 元素上的属性 y
 type: docs
 weight: 100
 url: /zh/net/aspose.svg.filters/svgfedropshadowelement/y/
 ---
 ## SVGFEDropShadowElement.Y property
 
-对应于给定 'feDropShadow' 元素的属性 'y'。
+对应于给定 'feDropShadow' 元素上的属性 'y'。
 
 ```csharp
 public SVGAnimatedLength Y { get; }
@@ -16,7 +16,7 @@ public SVGAnimatedLength Y { get; }
 
 ### 适当的价值
 
-给定 'feDropShadow' 元素的属性 'y'。
+给定“feDropShadow”元素的属性“y”。
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: Right
 second_title: Справочник по Aspose.SVG для .NET API
-description: Этот атрибут используется для правого прямоугольника.
+description: Этот атрибут используется справа от прямоугольника.
 type: docs
 weight: 30
 url: /ru/net/aspose.svg.dom.css/rect/right/
 ---
 ## Rect.Right property
 
-Этот атрибут используется для правого прямоугольника.
+Этот атрибут используется справа от прямоугольника.
 
 ```csharp
 public CSSPrimitiveValue Right { get; }

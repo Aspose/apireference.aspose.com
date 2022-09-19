@@ -20,7 +20,7 @@ public Text CreateTextNode(string data)
 
 ### 返回值
 
-[`Text`](../../text)。
+的[`Text`](../../text) .
 
 ### 也可以看看
 

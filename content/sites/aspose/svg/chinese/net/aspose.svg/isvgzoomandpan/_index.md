@@ -3,7 +3,7 @@ title: ISVGZoomAndPan
 second_title: Aspose.SVG for .NET API 参考
 description: SVGZoomAndPan 接口定义了属性 zoomAndPan 和相关的常量
 type: docs
-weight: 2050
+weight: 2060
 url: /zh/net/aspose.svg/isvgzoomandpan/
 ---
 ## ISVGZoomAndPan interface

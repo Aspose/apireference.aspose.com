@@ -3,7 +3,7 @@ title: ResponseHeaders
 second_title: Aspose.SVG for .NET API 参考
 description: 包含与响应关联的协议标头
 type: docs
-weight: 2390
+weight: 2400
 url: /zh/net/aspose.svg.net/responseheaders/
 ---
 ## ResponseHeaders class
@@ -18,7 +18,7 @@ public class ResponseHeaders : WebHeaderCollection
 
 | 姓名 | 描述 |
 | --- | --- |
-| [ResponseHeaders](responseheaders)() | 初始化[`RequestHeaders`](../requestheaders)类的新实例。 |
+| [ResponseHeaders](responseheaders)() | 初始化[`RequestHeaders`](../requestheaders)类. |
 
 ## 特性
 

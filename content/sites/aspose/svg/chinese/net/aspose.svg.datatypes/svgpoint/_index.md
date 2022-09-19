@@ -1,14 +1,14 @@
 ---
 title: SVGPoint
 second_title: Aspose.SVG for .NET API 参考
-description: 许多 SVG DOM 接口都引用了 SVGPoint 类的对象 SVGPoint 是一个 x y 坐标对在矩阵运算中使用时SVGPoint 被视为以下形式的向量 x y 1 如果是 SVGRect 对象被指定为只读然后尝试分配给它的属性之一将导致抛出异常
+description: 许多 SVG DOM 接口都引用了 SVGPoint 类的对象 SVGPoint 是一个 x y 坐标对在矩阵运算中使用时SVGPoint 被视为以下形式的向量 x y 1 如果将 SVGRect 对象指定为只读则尝试分配给它的一个属性将导致抛出异常
 type: docs
-weight: 280
+weight: 270
 url: /zh/net/aspose.svg.datatypes/svgpoint/
 ---
 ## SVGPoint class
 
-许多 SVG DOM 接口都引用了 SVGPoint 类的对象。 SVGPoint 是一个 (x, y) 坐标对。在矩阵运算中使用时，SVGPoint 被视为以下形式的向量： [x] [y] [1] 如果是 SVGRect 对象被指定为只读，然后尝试分配给它的属性之一将导致抛出异常。
+许多 SVG DOM 接口都引用了 SVGPoint 类的对象。 SVGPoint 是一个 (x, y) 坐标对。在矩阵运算中使用时，SVGPoint 被视为以下形式的向量： [x] [y] [1] 如果将 SVGRect 对象指定为只读，则尝试分配给它的一个属性将导致抛出异常。
 
 ```csharp
 public class SVGPoint : SVGValueType
@@ -25,10 +25,10 @@ public class SVGPoint : SVGValueType
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose)() | 释放非托管和（可选）托管资源。 |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | 此方法用于检索 ECMAScript 对象Type。 |
-| [MatrixTransform](../../aspose.svg.datatypes/svgpoint/matrixtransform)(SVGMatrix) | 对此 SVGPoint 对象应用 2x3 矩阵变换并返回一个新的变换后的 SVGPoint 对象： newpoint = matrix* thispoint |
-| override [ToString](../../aspose.svg.datatypes/svgpoint/tostring)() | 返回代表此实例的String。 |
+| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose)() | 释放非托管和 - 可选 - 托管资源。 |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | 此方法用于检索 ECMAScript 对象Type . |
+| [MatrixTransform](../../aspose.svg.datatypes/svgpoint/matrixtransform)(SVGMatrix) | 对此 SVGPoint 对象应用 2x3 矩阵变换并返回一个新的、变换后的 SVGPoint 对象： newpoint = matrix* thispoint |
+| override [ToString](../../aspose.svg.datatypes/svgpoint/tostring)() | 返回一个String代表这个实例。 |
 
 ### 也可以看看
 

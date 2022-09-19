@@ -1,14 +1,14 @@
 ---
 title: PATHSEG_LINETO_VERTICAL_REL
 second_title: Aspose.SVG for .NET API 参考
-description: 对应于相对垂直线v 路径数据命令
+description: 对应于相对垂直线v路径数据命令
 type: docs
 weight: 190
 url: /zh/net/aspose.svg.paths/svgpathseg/pathseg_lineto_vertical_rel/
 ---
 ## SVGPathSeg.PATHSEG_LINETO_VERTICAL_REL field
 
-对应于“相对垂直线”(v) 路径数据命令。
+对应于“相对垂直线”（v）路径数据命令。
 
 ```csharp
 public const ushort PATHSEG_LINETO_VERTICAL_REL;

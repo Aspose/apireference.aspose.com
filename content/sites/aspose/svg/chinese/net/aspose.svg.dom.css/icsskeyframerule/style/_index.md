@@ -1,14 +1,14 @@
 ---
 title: Style
 second_title: Aspose.SVG for .NET API 参考
-description: 此属性表示与此关键帧关联的样式
+description: 该属性表示与此关键帧关联的样式
 type: docs
 weight: 20
 url: /zh/net/aspose.svg.dom.css/icsskeyframerule/style/
 ---
 ## ICSSKeyframeRule.Style property
 
-此属性表示与此关键帧关联的样式。
+该属性表示与此关键帧关联的样式。
 
 ```csharp
 public ICSSStyleDeclaration Style { get; }
@@ -16,7 +16,7 @@ public ICSSStyleDeclaration Style { get; }
 
 ### 适当的价值
 
-样式。
+风格.
 
 ### 也可以看看
 

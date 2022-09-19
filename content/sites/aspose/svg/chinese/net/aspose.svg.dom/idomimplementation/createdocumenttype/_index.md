@@ -16,13 +16,13 @@ public DocumentType CreateDocumentType(string qualifiedName, string publicId, st
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| qualifiedName | String | 合格的名称。 |
-| publicId | String | 公共 ID。 |
-| systemId | String | 系统 ID。 |
+| qualifiedName | String | 合格者的姓名。 |
+| publicId | String | 公共标识。 |
+| systemId | String | 系统标识。 |
 
 ### 返回值
 
-[`DocumentType`](../../documenttype)。
+这[`DocumentType`](../../documenttype).
 
 ### 也可以看看
 

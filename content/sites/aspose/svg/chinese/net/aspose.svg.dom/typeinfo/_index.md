@@ -3,7 +3,7 @@ title: TypeInfo
 second_title: Aspose.SVG for .NET API 参考
 description: TypeInfo 表示从 Element 或 Attr 节点引用的类型在与文档关联的模式中指定
 type: docs
-weight: 1290
+weight: 1280
 url: /zh/net/aspose.svg.dom/typeinfo/
 ---
 ## TypeInfo class
@@ -25,7 +25,7 @@ public class TypeInfo : DOMObject
 
 | 姓名 | 描述 |
 | --- | --- |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | 此方法用于检索 ECMAScript 对象Type。 |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | 此方法用于检索 ECMAScript 对象Type . |
 | [IsDerivedFrom](../../aspose.svg.dom/typeinfo/isderivedfrom)(string, string, ulong) | 如果在引用类型定义（即调用该方法的 TypeInfo）与另一个类型定义（即作为参数传递的类型定义）之间存在派生，则此方法返回。 |
 
 ## 字段
@@ -34,8 +34,8 @@ public class TypeInfo : DOMObject
 | --- | --- |
 | const [DERIVATION_EXTENSION](../../aspose.svg.dom/typeinfo/derivation_extension) | 如果文档的架构是 XML 架构 [XML 架构第 1 部分]，则此常量表示扩展派生。 |
 | const [DERIVATION_LIST](../../aspose.svg.dom/typeinfo/derivation_list) | 如果文档的架构是 XML 架构 [XML 架构第 1 部分]，则此常量表示列表。 |
-| const [DERIVATION_RESTRICTION](../../aspose.svg.dom/typeinfo/derivation_restriction) | 如果文档的模式是 XML 模式 [XML 模式第 1 部分]，如果涉及复杂类型，则此常量表示通过限制派生，如果涉及简单类型，则表示限制。 |
-| const [DERIVATION_UNION](../../aspose.svg.dom/typeinfo/derivation_union) | 如果文档的架构是 XML 架构 [XML 架构第 1 部分]，如果涉及简单类型，则此常量表示联合。 |
+| const [DERIVATION_RESTRICTION](../../aspose.svg.dom/typeinfo/derivation_restriction) | 如果文档的模式是 XML 模式 [XML 模式第 1 部分]，如果涉及复杂类型，此常量表示通过限制派生，如果涉及简单类型，则表示限制。 |
+| const [DERIVATION_UNION](../../aspose.svg.dom/typeinfo/derivation_union) | 如果文档的模式是 XML 模式 [XML 模式第 1 部分]，如果涉及简单类型，则此常量表示联合。 |
 
 ### 也可以看看
 

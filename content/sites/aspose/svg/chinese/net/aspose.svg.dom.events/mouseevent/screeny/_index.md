@@ -16,7 +16,7 @@ public long ScreenY { get; }
 
 ### 适当的价值
 
-屏幕y。
+屏幕y.
 
 ### 也可以看看
 

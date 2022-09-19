@@ -1,14 +1,14 @@
 ---
 title: CSSEngineMode
 second_title: Справочник по Aspose.SVG для .NET API
-description: Задает режим CSSEngine
+description: Указывает режим CSSEngine
 type: docs
-weight: 480
+weight: 470
 url: /ru/net/aspose.svg.dom.css/cssenginemode/
 ---
 ## CSSEngineMode enumeration
 
-Задает режим CSSEngine
+Указывает режим CSSEngine
 
 ```csharp
 [Flags]
@@ -19,8 +19,8 @@ public enum CSSEngineMode
 
 | Имя | Ценность | Описание |
 | --- | --- | --- |
-| Default | `0` | Движок CSS будет работать как обычно. |
-| NotStrict | `1` | Парсер CSS будет работать в не строгом режиме. Все незадокументированные свойства будут проанализированы, и к ним можно будет получить доступ через[`ICSSStyleDeclaration`](../icssstyledeclaration). |
+| Default | `0` | Механизм CSS будет работать как обычно. |
+| NotStrict | `1` | CSS-парсер будет работать в не строгом режиме. Все незадокументированные свойства будут проанализированы, и к ним можно будет получить доступ через[`ICSSStyleDeclaration`](../icssstyledeclaration) . |
 
 ### Смотрите также
 

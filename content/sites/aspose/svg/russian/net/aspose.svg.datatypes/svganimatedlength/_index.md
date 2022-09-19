@@ -3,7 +3,7 @@ title: SVGAnimatedLength
 second_title: Справочник по Aspose.SVG для .NET API
 description: Используется для атрибутов длины базового типа которые можно анимировать.
 type: docs
-weight: 140
+weight: 130
 url: /ru/net/aspose.svg.datatypes/svganimatedlength/
 ---
 ## SVGAnimatedLength class
@@ -26,8 +26,8 @@ public class SVGAnimatedLength : SVGAnimatedValue<SVGLength>
 | Имя | Описание |
 | --- | --- |
 | [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose)() | Освобождает неуправляемые и (необязательно) управляемые ресурсы. |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | Этот метод используется для получения объекта ECMAScriptType. |
-| override [ToString](../../aspose.svg.datatypes/svganimatedlength/tostring)() | ВозвращаетString, представляющий этот экземпляр. |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | Этот метод используется для получения объекта ECMAScript.Type . |
+| override [ToString](../../aspose.svg.datatypes/svganimatedlength/tostring)() | ВозвращаетString который представляет этот экземпляр. |
 
 ### Смотрите также
 

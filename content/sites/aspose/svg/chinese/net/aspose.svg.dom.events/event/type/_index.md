@@ -1,14 +1,14 @@
 ---
 title: Type
 second_title: Aspose.SVG for .NET API 参考
-description: 事件的名称不区分大小写该名称必须是 XML 名称
+description: 事件的名称不区分大小写名称必须是 XML 名称
 type: docs
 weight: 100
 url: /zh/net/aspose.svg.dom.events/event/type/
 ---
 ## Event.Type property
 
-事件的名称（不区分大小写）。该名称必须是 XML 名称。
+事件的名称（不区分大小写）。名称必须是 XML 名称。
 
 ```csharp
 public string Type { get; }

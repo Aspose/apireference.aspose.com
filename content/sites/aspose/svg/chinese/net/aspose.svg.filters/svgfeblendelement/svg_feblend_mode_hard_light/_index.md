@@ -1,14 +1,14 @@
 ---
 title: SVG_FEBLEND_MODE_HARD_LIGHT
 second_title: Aspose.SVG for .NET API 参考
-description: 对应于值 hard_light
+description: 对应于值 hard_light.
 type: docs
 weight: 150
 url: /zh/net/aspose.svg.filters/svgfeblendelement/svg_feblend_mode_hard_light/
 ---
 ## SVGFEBlendElement.SVG_FEBLEND_MODE_HARD_LIGHT field
 
-对应于值 'hard_light'。
+对应于值 'hard_light'.
 
 ```csharp
 public const ushort SVG_FEBLEND_MODE_HARD_LIGHT;

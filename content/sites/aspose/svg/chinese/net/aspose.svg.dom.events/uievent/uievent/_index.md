@@ -1,14 +1,14 @@
 ---
 title: UIEvent
 second_title: Aspose.SVG for .NET API 参考
-description: 初始化UIEventaspose.svg.dom.events/uievent类的新实例
+description: 初始化UIEventaspose.svg.dom.events/uievent类.
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.dom.events/uievent/uievent/
 ---
 ## UIEvent(string) {#constructor}
 
-初始化[`UIEvent`](../../uievent)类的新实例。
+初始化[`UIEvent`](../../uievent)类.
 
 ```csharp
 public UIEvent(string type)
@@ -28,7 +28,7 @@ public UIEvent(string type)
 
 ## UIEvent(string, IDictionary&lt;string, object&gt;) {#constructor_1}
 
-初始化[`UIEvent`](../../uievent)类的新实例。
+初始化[`UIEvent`](../../uievent)类.
 
 ```csharp
 public UIEvent(string type, IDictionary<string, object> eventInitDict)

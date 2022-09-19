@@ -1,14 +1,14 @@
 ---
 title: Height
 second_title: Справочник по Aspose.SVG для .NET API
-description: Получает или задает вертикальный компонент этогоSizeaspose.svg.drawing/size.
+description: Получает или задает вертикальный компонент этогоSizeaspose.svg.drawing/size .
 type: docs
 weight: 20
 url: /ru/net/aspose.svg.drawing/size/height/
 ---
 ## Size.Height property
 
-Получает или задает вертикальный компонент этого[`Size`](../../size).
+Получает или задает вертикальный компонент этого[`Size`](../../size) .
 
 ```csharp
 public Length Height { get; set; }
@@ -16,7 +16,7 @@ public Length Height { get; set; }
 
 ### Стоимость имущества
 
-Вертикальный компонент этого[`Size`](../../size).
+Вертикальный компонент этого[`Size`](../../size) .
 
 ### Смотрите также
 

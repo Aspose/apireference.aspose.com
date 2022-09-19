@@ -1,14 +1,14 @@
 ---
 title: NOTATION_NODE
 second_title: Справочник по Aspose.SVG для .NET API
-description: Узел записи
+description: Нотация node
 type: docs
 weight: 410
 url: /ru/net/aspose.svg.dom/node/notation_node/
 ---
 ## Node.NOTATION_NODE field
 
-Узел записи
+Нотация node
 
 ```csharp
 public const ushort NOTATION_NODE;

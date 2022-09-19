@@ -3,7 +3,7 @@ title: SVGException
 second_title: Справочник по Aspose.SVG для .NET API
 description: Это исключение возникает когда невозможно выполнить определенную операцию SVG.
 type: docs
-weight: 3170
+weight: 3180
 url: /ru/net/aspose.svg/svgexception/
 ---
 ## SVGException class
@@ -18,7 +18,7 @@ public class SVGException : PlatformException
 
 | Имя | Описание |
 | --- | --- |
-| [SVGException](svgexception)(ushort) | Инициализирует новый экземпляр класса[`SVGException`](../svgexception). |
+| [SVGException](svgexception)(ushort) | Инициализирует новый экземпляр[`SVGException`](../svgexception) класс. |
 
 ## Характеристики
 

@@ -1,14 +1,14 @@
 ---
 title: ProtocolMessageFilter
 second_title: Aspose.SVG for .NET API 参考
-description: 表示资源协议实现消息过滤
+description: 表示资源协议对消息过滤的实现
 type: docs
-weight: 2290
+weight: 2300
 url: /zh/net/aspose.svg.net.messagefilters/protocolmessagefilter/
 ---
 ## ProtocolMessageFilter class
 
-表示资源协议实现消息过滤。
+表示资源协议对消息过滤的实现。
 
 ```csharp
 public class ProtocolMessageFilter : MessageFilter
@@ -18,7 +18,7 @@ public class ProtocolMessageFilter : MessageFilter
 
 | 姓名 | 描述 |
 | --- | --- |
-| [ProtocolMessageFilter](protocolmessagefilter)(params string[]) | 初始化[`ProtocolMessageFilter`](../protocolmessagefilter)类的新实例。 |
+| [ProtocolMessageFilter](protocolmessagefilter)(params string[]) | 初始化[`ProtocolMessageFilter`](../protocolmessagefilter)类. |
 
 ## 方法
 

@@ -1,14 +1,14 @@
 ---
 title: Url
 second_title: Справочник по Aspose.SVG для .NET API
-description: Инициализирует новый экземплярUrlaspose.svg/urlс указанным URL-адресом.
+description: Инициализирует новый экземплярUrlaspose.svg/url с указанным URL.
 type: docs
 weight: 10
 url: /ru/net/aspose.svg/url/url/
 ---
 ## Url(string) {#constructor}
 
-Инициализирует новый экземпляр[`Url`](../../url)с указанным URL-адресом.
+Инициализирует новый экземпляр[`Url`](../../url) с указанным URL.
 
 ```csharp
 public Url(string url)
@@ -22,7 +22,7 @@ public Url(string url)
 
 | исключение | условие |
 | --- | --- |
-| Error | TypeError: возникает, если` url` не может быть проанализирован как действительный URL. |
+| Error | TypeError: возникает, если`URL` не может быть проанализирован как действительный URL. |
 
 ### Смотрите также
 
@@ -34,7 +34,7 @@ public Url(string url)
 
 ## Url(string, string) {#constructor_1}
 
-Инициализирует новый экземпляр[`Url`](../../url)с указанным URL-адресом и базовым URL-адресом.
+Инициализирует новый экземпляр[`Url`](../../url) с указанным URL и базовым URL.
 
 ```csharp
 public Url(string url, string baseUrl)
@@ -49,7 +49,7 @@ public Url(string url, string baseUrl)
 
 | исключение | условие |
 | --- | --- |
-| Error | TypeError: возникает, если` url` или` baseUrl` не может быть проанализирован как действительный URL. |
+| Error | TypeError: возникает, если`URL` или же`базовый URL` не может быть проанализирован как действительный URL. |
 
 ### Смотрите также
 

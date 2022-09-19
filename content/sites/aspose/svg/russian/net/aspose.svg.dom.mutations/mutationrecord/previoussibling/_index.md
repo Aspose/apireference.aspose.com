@@ -1,14 +1,14 @@
 ---
 title: PreviousSibling
 second_title: Справочник по Aspose.SVG для .NET API
-description: Возвращает предыдущий одноуровневый узел добавленных или удаленных узлов или ноль.
+description: Возвращает предыдущий одноуровневый узел добавленных или удаленных узлов или null.
 type: docs
 weight: 60
 url: /ru/net/aspose.svg.dom.mutations/mutationrecord/previoussibling/
 ---
 ## MutationRecord.PreviousSibling property
 
-Возвращает предыдущий одноуровневый узел добавленных или удаленных узлов или ноль.
+Возвращает предыдущий одноуровневый узел добавленных или удаленных узлов или null.
 
 ```csharp
 public Node PreviousSibling { get; }

@@ -1,14 +1,14 @@
 ---
 title: FromKiloHertz
 second_title: Справочник по Aspose.SVG для .NET API
-description: Возвращает объектFrequencyaspose.svg.drawing/frequency представленный в килогерцах.
+description: ВозвращаетFrequencyaspose.svg.drawing/frequency объект представленный в килогерцах.
 type: docs
 weight: 130
 url: /ru/net/aspose.svg.drawing/unit/fromkilohertz/
 ---
 ## Unit.FromKiloHertz method
 
-Возвращает объект[`Frequency`](../../frequency), представленный в килогерцах.
+Возвращает[`Frequency`](../../frequency) объект, представленный в килогерцах.
 
 ```csharp
 public static Frequency FromKiloHertz(double value)
@@ -20,7 +20,7 @@ public static Frequency FromKiloHertz(double value)
 
 ### Возвращаемое значение
 
-Возвращает объект[`Frequency`](../../frequency).
+Возвращает[`Frequency`](../../frequency) объект.
 
 ### Смотрите также
 

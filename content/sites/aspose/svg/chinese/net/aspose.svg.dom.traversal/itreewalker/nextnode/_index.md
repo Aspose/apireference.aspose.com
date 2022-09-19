@@ -1,14 +1,14 @@
 ---
 title: NextNode
 second_title: Aspose.SVG for .NET API 参考
-description: 将 TreeWalker 移动到文档中的下一个可见节点 相对于当前节点的顺序并返回新节点如果 当前节点没有下一个节点或者如果搜索nextNode 尝试 从TreeWalker 的根 节点向上移动则返回null并保留当前节点
+description: 将 TreeWalker 移动到相对于当前节点的 document 顺序中的下一个可见节点并返回新节点如果 当前节点没有下一个节点或者如果搜索nextNode尝试 从TreeWalker的root 节点上一步返回null并保留当前节点
 type: docs
 weight: 40
 url: /zh/net/aspose.svg.dom.traversal/itreewalker/nextnode/
 ---
 ## ITreeWalker.NextNode method
 
-将 TreeWalker 移动到文档中的下一个可见节点 相对于当前节点的顺序，并返回新节点。如果 当前节点没有下一个节点，或者如果搜索nextNode 尝试 从TreeWalker 的根 节点向上移动，则返回null，并保留当前节点。
+将 TreeWalker 移动到相对于当前节点的 document 顺序中的下一个可见节点，并返回新节点。如果 当前节点没有下一个节点，或者如果搜索nextNode尝试 从TreeWalker的root 节点上一步，返回null，并保留当前节点。
 
 ```csharp
 public Node NextNode()

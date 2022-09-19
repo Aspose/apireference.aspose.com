@@ -18,13 +18,13 @@ public DocumentType CreateDocumentType(string name, string publicId, string syst
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | name | String | 文档类型名称。 |
-| publicId | String | 公共 ID。 |
-| systemId | String | 系统 ID。 |
+| publicId | String | 公共标识。 |
+| systemId | String | 系统标识。 |
 | internalSubset | String | 内部子集。 |
 
 ### 返回值
 
-[`DocumentType`](../../documenttype)。
+的[`DocumentType`](../../documenttype) .
 
 ### 也可以看看
 

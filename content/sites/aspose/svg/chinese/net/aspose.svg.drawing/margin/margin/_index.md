@@ -1,14 +1,14 @@
 ---
 title: Margin
 second_title: Aspose.SVG for .NET API 参考
-description: 初始化Marginaspose.svg.drawing/margin类的新实例
+description: 初始化Marginaspose.svg.drawing/margin类.
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.drawing/margin/margin/
 ---
 ## Margin() {#constructor}
 
-初始化[`Margin`](../../margin)类的新实例。
+初始化[`Margin`](../../margin)类.
 
 ```csharp
 public Margin()
@@ -24,7 +24,7 @@ public Margin()
 
 ## Margin(int) {#constructor_3}
 
-初始化[`Margin`](../../margin)类的新实例。
+初始化[`Margin`](../../margin)类.
 
 ```csharp
 public Margin(int anyMargin)
@@ -32,7 +32,7 @@ public Margin(int anyMargin)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| anyMargin | Int32 | 任意边距大小。 |
+| anyMargin | Int32 | 任何边距大小。 |
 
 ### 也可以看看
 
@@ -44,7 +44,7 @@ public Margin(int anyMargin)
 
 ## Margin(Length) {#constructor_1}
 
-初始化[`Margin`](../../margin)类的新实例。
+初始化[`Margin`](../../margin)类.
 
 ```csharp
 public Margin(Length anyMargin)
@@ -52,7 +52,7 @@ public Margin(Length anyMargin)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| anyMargin | Length | 任意边距大小。 |
+| anyMargin | Length | 任何边距大小。 |
 
 ### 也可以看看
 
@@ -65,7 +65,7 @@ public Margin(Length anyMargin)
 
 ## Margin(int, int, int, int) {#constructor_4}
 
-初始化[`Margin`](../../margin)类的新实例。
+初始化[`Margin`](../../margin)类.
 
 ```csharp
 public Margin(int left, int top, int right, int bottom)
@@ -73,9 +73,9 @@ public Margin(int left, int top, int right, int bottom)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| left | Int32 | 左侧大小。 |
-| top | Int32 | 顶部大小。 |
-| right | Int32 | 大小合适。 |
+| left | Int32 | 左侧尺寸。 |
+| top | Int32 | 最大尺寸。 |
+| right | Int32 | 合适的大小。 |
 | bottom | Int32 | 底部尺寸。 |
 
 ### 也可以看看
@@ -88,7 +88,7 @@ public Margin(int left, int top, int right, int bottom)
 
 ## Margin(Length, Length, Length, Length) {#constructor_2}
 
-初始化[`Margin`](../../margin)类的新实例。
+初始化[`Margin`](../../margin)类.
 
 ```csharp
 public Margin(Length left, Length top, Length right, Length bottom)
@@ -96,9 +96,9 @@ public Margin(Length left, Length top, Length right, Length bottom)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| left | Length | 左侧大小。 |
-| top | Length | 顶部大小。 |
-| right | Length | 大小合适。 |
+| left | Length | 左侧尺寸。 |
+| top | Length | 最大尺寸。 |
+| right | Length | 合适的大小。 |
 | bottom | Length | 底部尺寸。 |
 
 ### 也可以看看

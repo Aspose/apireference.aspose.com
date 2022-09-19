@@ -3,7 +3,7 @@ title: ISolidBrush
 second_title: Aspose.SVG for .NET API 参考
 description: 定义单色画笔界面
 type: docs
-weight: 1470
+weight: 1480
 url: /zh/net/aspose.svg.drawing/isolidbrush/
 ---
 ## ISolidBrush interface

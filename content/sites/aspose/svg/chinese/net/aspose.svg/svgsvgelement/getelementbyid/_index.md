@@ -1,14 +1,14 @@
 ---
 title: GetElementById
 second_title: Aspose.SVG for .NET API 参考
-description: 搜索此 SVG 文档片段即搜索仅限于文档树的子集以查找其 id 由 elementId 给出的元素如果找到一个元素则返回该元素如果不存在这样的元素则返回 null如果多个元素具有此 ID则不定义行为
+description: 搜索此 SVG 文档片段即搜索仅限于文档树的子集以查找其 id 由 elementId 给出的元素如果找到一个元素则返回该元素如果不存在这样的元素则返回 null如果多个元素具有此 ID则未定义行为
 type: docs
 weight: 210
 url: /zh/net/aspose.svg/svgsvgelement/getelementbyid/
 ---
 ## SVGSVGElement.GetElementById method
 
-搜索此 SVG 文档片段（即，搜索仅限于文档树的子集）以查找其 id 由 elementId 给出的元素。如果找到一个元素，则返回该元素。如果不存在这样的元素，则返回 null。如果多个元素具有此 ID，则不定义行为。
+搜索此 SVG 文档片段（即，搜索仅限于文档树的子集）以查找其 id 由 elementId 给出的元素。如果找到一个元素，则返回该元素。如果不存在这样的元素，则返回 null。如果多个元素具有此 ID，则未定义行为。
 
 ```csharp
 public Element GetElementById(string elementId)

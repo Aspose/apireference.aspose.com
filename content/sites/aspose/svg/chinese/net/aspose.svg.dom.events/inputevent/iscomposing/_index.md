@@ -1,14 +1,14 @@
 ---
 title: IsComposing
 second_title: Aspose.SVG for .NET API 参考
-description: 如果输入事件作为合成会话的一部分发生即在合成开始事件之后和对应的合成结束事件之前则为真该属性的未初始化值必须为假
+description: 如果输入事件作为合成会话的一部分发生即在合成开始事件之后和相应的合成结束事件之前发生则为 true此属性的未初始化值必须为 false.
 type: docs
 weight: 30
 url: /zh/net/aspose.svg.dom.events/inputevent/iscomposing/
 ---
 ## InputEvent.IsComposing property
 
-如果输入事件作为合成会话的一部分发生，即在合成开始事件之后和对应的合成结束事件之前，则为真。该属性的未初始化值必须为假。
+如果输入事件作为合成会话的一部分发生，即在合成开始事件之后和相应的合成结束事件之前发生，则为 true。此属性的未初始化值必须为 false.
 
 ```csharp
 public bool IsComposing { get; }
@@ -16,7 +16,7 @@ public bool IsComposing { get; }
 
 ### 适当的价值
 
-` true` 如果此实例正在编写；否则，` false` 。
+`真的`如果这个实例正在组成；否则，`错误的` .
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: PitchRange
 second_title: Справочник по Aspose.SVG для .NET API
-description: См. определение свойства pitch-range в CSS2.
+description: См. определение свойства высоты тона в CSS2.
 type: docs
 weight: 930
 url: /ru/net/aspose.svg.dom.css/icss2properties/pitchrange/
 ---
 ## ICSS2Properties.PitchRange property
 
-См. определение свойства pitch-range в CSS2.
+См. определение свойства высоты тона в CSS2.
 
 ```csharp
 public string PitchRange { get; set; }
@@ -16,7 +16,7 @@ public string PitchRange { get; set; }
 
 ### Возвращаемое значение
 
-свойство высоты тона
+свойство диапазона высоты тона
 
 ### Смотрите также
 

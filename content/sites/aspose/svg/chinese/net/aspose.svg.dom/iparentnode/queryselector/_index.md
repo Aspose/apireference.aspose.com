@@ -1,14 +1,14 @@
 ---
 title: QuerySelector
 second_title: Aspose.SVG for .NET API 参考
-description: 返回第一个与选择器匹配的节点的后代元素
+description: 返回与选择器匹配的节点的后代的第一个元素
 type: docs
 weight: 50
 url: /zh/net/aspose.svg.dom/iparentnode/queryselector/
 ---
 ## IParentNode.QuerySelector method
 
-返回第一个与选择器匹配的节点的后代元素。
+返回与选择器匹配的节点的后代的第一个元素。
 
 ```csharp
 public Element QuerySelector(string selectors)

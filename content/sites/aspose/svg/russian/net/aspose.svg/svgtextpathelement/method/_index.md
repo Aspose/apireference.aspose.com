@@ -1,14 +1,14 @@
 ---
 title: Method
 second_title: Справочник по Aspose.SVG для .NET API
-description: Соответствует атрибуту метод данного элемента textPath.
+description: Соответствует атрибуту method данного элемента textPath.
 type: docs
 weight: 20
 url: /ru/net/aspose.svg/svgtextpathelement/method/
 ---
 ## SVGTextPathElement.Method property
 
-Соответствует атрибуту 'метод' данного элемента 'textPath'.
+Соответствует атрибуту 'method' данного элемента 'textPath'.
 
 ```csharp
 public SVGAnimatedEnumeration Method { get; }
@@ -16,7 +16,7 @@ public SVGAnimatedEnumeration Method { get; }
 
 ### Стоимость имущества
 
-Атрибут 'метод' данного элемента 'textPath'.
+Метод атрибута данного элемента textPath.
 
 ### Смотрите также
 

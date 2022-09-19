@@ -8,7 +8,7 @@ url: /zh/net/aspose.svg.datatypes/svgpoint/matrixtransform/
 ---
 ## SVGPoint.MatrixTransform method
 
-对此 SVGPoint 对象应用 2x3 矩阵变换并返回一个新的变换后的 SVGPoint 对象： newpoint = matrix* thispoint
+对此 SVGPoint 对象应用 2x3 矩阵变换并返回一个新的、变换后的 SVGPoint 对象： newpoint = matrix* thispoint
 
 ```csharp
 public SVGPoint MatrixTransform(SVGMatrix matrix)

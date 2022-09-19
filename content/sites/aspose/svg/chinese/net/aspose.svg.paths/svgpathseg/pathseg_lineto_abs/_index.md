@@ -1,14 +1,14 @@
 ---
 title: PATHSEG_LINETO_ABS
 second_title: Aspose.SVG for .NET API 参考
-description: 对应于absolute linetoL 路径数据命令
+description: 对应于绝对行L路径数据命令
 type: docs
 weight: 140
 url: /zh/net/aspose.svg.paths/svgpathseg/pathseg_lineto_abs/
 ---
 ## SVGPathSeg.PATHSEG_LINETO_ABS field
 
-对应于“absolute lineto”(L) 路径数据命令。
+对应于“绝对行”（L）路径数据命令。
 
 ```csharp
 public const ushort PATHSEG_LINETO_ABS;

@@ -8,7 +8,7 @@ url: /ru/net/aspose.svg.datatypes/svgpreserveaspectratio/svg_preserveaspectratio
 ---
 ## SVGPreserveAspectRatio.SVG_PRESERVEASPECTRATIO_XMAXYMID field
 
-Соответствует значению 'xMaxYMid' для атрибута 'preserveAspectRatio'.
+Соответствует значению «xMaxYMid» для атрибута «preserveAspectRatio».
 
 ```csharp
 public const ushort SVG_PRESERVEASPECTRATIO_XMAXYMID;

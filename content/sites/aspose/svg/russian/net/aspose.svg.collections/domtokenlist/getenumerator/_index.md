@@ -1,14 +1,14 @@
 ---
 title: GetEnumerator
 second_title: Справочник по Aspose.SVG для .NET API
-description: Возвращает перечислитель выполняющий итерацию по коллекции.
+description: Возвращает перечислитель который выполняет итерацию по коллекции.
 type: docs
 weight: 60
 url: /ru/net/aspose.svg.collections/domtokenlist/getenumerator/
 ---
 ## DOMTokenList.GetEnumerator method
 
-Возвращает перечислитель, выполняющий итерацию по коллекции.
+Возвращает перечислитель, который выполняет итерацию по коллекции.
 
 ```csharp
 public IEnumerator<string> GetEnumerator()
@@ -16,7 +16,7 @@ public IEnumerator<string> GetEnumerator()
 
 ### Возвращаемое значение
 
-ОбъектIEnumerator, который можно использовать для перебора коллекции. .
+АнIEnumerator объект, который можно использовать для перебора коллекции.
 
 ### Смотрите также
 

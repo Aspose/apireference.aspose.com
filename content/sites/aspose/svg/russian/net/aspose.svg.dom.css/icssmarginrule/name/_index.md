@@ -1,14 +1,14 @@
 ---
 title: Name
 second_title: Справочник по Aspose.SVG для .NET API
-description: Атрибут name должен возвращать имя поля по правилу. Символне входит в имя.
+description: Атрибут name должен возвращать имя правила поля. Символ  не входит в имя.
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.dom.css/icssmarginrule/name/
 ---
 ## ICSSMarginRule.Name property
 
-Атрибут name должен возвращать имя поля по правилу. Символ@не входит в имя.
+Атрибут name должен возвращать имя правила поля. Символ @ не входит в имя.
 
 ```csharp
 public string Name { get; }

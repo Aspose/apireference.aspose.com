@@ -1,14 +1,14 @@
 ---
 title: GradientTransform
 second_title: Aspose.SVG for .NET API 参考
-description: 对应于给定元素的属性gradientTransform
+description: 对应于给定元素上的属性gradientTransform
 type: docs
 weight: 10
 url: /zh/net/aspose.svg/svggradientelement/gradienttransform/
 ---
 ## SVGGradientElement.GradientTransform property
 
-对应于给定元素的属性“gradientTransform”。
+对应于给定元素上的属性“gradientTransform”。
 
 ```csharp
 public SVGAnimatedTransformList GradientTransform { get; }

@@ -1,14 +1,14 @@
 ---
 title: IXPathExpression
 second_title: Справочник по Aspose.SVG для .NET API
-description: Интерфейс XPathExpression представляет проанализированное и разрешенное выражение XPath.
+description: XPathExpressioninterface представляет проанализированное и разрешенное выражение XPath.
 type: docs
-weight: 1330
+weight: 1320
 url: /ru/net/aspose.svg.dom.xpath/ixpathexpression/
 ---
 ## IXPathExpression interface
 
-Интерфейс` XPathExpression` представляет проанализированное и разрешенное выражение XPath.
+`XPathExpression`interface представляет проанализированное и разрешенное выражение XPath.
 
 ```csharp
 public interface IXPathExpression
@@ -18,7 +18,7 @@ public interface IXPathExpression
 
 | Имя | Описание |
 | --- | --- |
-| [Evaluate](../../aspose.svg.dom.xpath/ixpathexpression/evaluate)(Node, XPathResultType, object) | Вычисляет это выражение XPath и возвращает результат. |
+| [Evaluate](../../aspose.svg.dom.xpath/ixpathexpression/evaluate)(Node, XPathResultType, object) | Оценивает это выражение XPath и возвращает результат. |
 
 ### Смотрите также
 

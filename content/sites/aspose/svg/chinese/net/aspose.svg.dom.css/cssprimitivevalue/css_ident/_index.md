@@ -1,14 +1,14 @@
 ---
 title: CSS_IDENT
 second_title: Aspose.SVG for .NET API 参考
-description: 该值是一个标识符可以使用 getStringValue 方法获取该值
+description: 该值是一个标识符可以使用getStringValue方法获取值
 type: docs
 weight: 240
 url: /zh/net/aspose.svg.dom.css/cssprimitivevalue/css_ident/
 ---
 ## CSSPrimitiveValue.CSS_IDENT field
 
-该值是一个标识符。可以使用 getStringValue 方法获取该值。
+该值是一个标识符。可以使用getStringValue方法获取值。
 
 ```csharp
 public const ushort CSS_IDENT;

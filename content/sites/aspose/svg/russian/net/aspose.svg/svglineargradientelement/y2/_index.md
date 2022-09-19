@@ -8,7 +8,7 @@ url: /ru/net/aspose.svg/svglineargradientelement/y2/
 ---
 ## SVGLinearGradientElement.Y2 property
 
-Соответствует атрибуту 'y2' данного элемента 'linearGradient'.
+Соответствует атрибуту «y2» данного элемента «linearGradient».
 
 ```csharp
 public SVGAnimatedLength Y2 { get; }

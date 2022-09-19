@@ -1,14 +1,14 @@
 ---
 title: LineDashOffset
 second_title: Aspose.SVG for .NET API 参考
-description: 设置或获取当前线划线图案的相位偏移
+description: 设置或获取当前虚线图案的相位偏移
 type: docs
 weight: 80
 url: /zh/net/aspose.svg.rendering/graphiccontext/linedashoffset/
 ---
 ## GraphicContext.LineDashOffset property
 
-设置或获取当前线划线图案的相位偏移。
+设置或获取当前虚线图案的相位偏移。
 
 ```csharp
 public virtual float LineDashOffset { get; set; }

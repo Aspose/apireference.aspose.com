@@ -3,7 +3,7 @@ title: SVGPathSegLinetoAbs
 second_title: Справочник по Aspose.SVG для .NET API
 description: Интерфейс SVGPathSegLinetoAbs соответствует команде данных пути absolute lineto L.
 type: docs
-weight: 2570
+weight: 2580
 url: /ru/net/aspose.svg.paths/svgpathseglinetoabs/
 ---
 ## SVGPathSegLinetoAbs class
@@ -18,7 +18,7 @@ public class SVGPathSegLinetoAbs : SVGPathSeg
 
 | Имя | Описание |
 | --- | --- |
-| [PathSegType](../../aspose.svg.paths/svgpathseg/pathsegtype) { get; } | Тип сегмента пути, заданный одной из констант, определенных в этом интерфейсе. |
+| [PathSegType](../../aspose.svg.paths/svgpathseg/pathsegtype) { get; } | Тип сегмента пути, указанный одной из констант, определенных на этом интерфейсе. |
 | [PathSegTypeAsLetter](../../aspose.svg.paths/svgpathseg/pathsegtypeasletter) { get; } | Тип сегмента пути, определяемый соответствующим односимвольным именем команды. |
 | [X](../../aspose.svg.paths/svgpathseglinetoabs/x) { get; set; } | Абсолютная координата X конечной точки этого сегмента пути. |
 | [Y](../../aspose.svg.paths/svgpathseglinetoabs/y) { get; set; } | Абсолютная координата Y конечной точки этого сегмента пути. |
@@ -28,7 +28,7 @@ public class SVGPathSegLinetoAbs : SVGPathSeg
 | Имя | Описание |
 | --- | --- |
 | [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose)() | Освобождает неуправляемые и (необязательно) управляемые ресурсы. |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | Этот метод используется для получения объекта ECMAScriptType. |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | Этот метод используется для получения объекта ECMAScript.Type . |
 
 ### Смотрите также
 

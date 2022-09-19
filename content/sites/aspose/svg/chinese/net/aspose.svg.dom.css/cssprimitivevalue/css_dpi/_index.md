@@ -1,14 +1,14 @@
 ---
 title: CSS_DPI
 second_title: Aspose.SVG for .NET API 参考
-description: 该值为每英寸点数 dpi
+description: 该值是每英寸点数 dpi
 type: docs
 weight: 180
 url: /zh/net/aspose.svg.dom.css/cssprimitivevalue/css_dpi/
 ---
 ## CSSPrimitiveValue.CSS_DPI field
 
-该值为每英寸点数 (dpi)。
+该值是每英寸点数 (dpi)。
 
 ```csharp
 public const ushort CSS_DPI;

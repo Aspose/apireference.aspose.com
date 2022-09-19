@@ -3,7 +3,7 @@ title: SVGNumberList
 second_title: Справочник по Aspose.SVG для .NET API
 description: Этот интерфейс определяет список объектов SVGNumber.
 type: docs
-weight: 270
+weight: 260
 url: /ru/net/aspose.svg.datatypes/svgnumberlist/
 ---
 ## SVGNumberList class
@@ -31,12 +31,12 @@ public class SVGNumberList : SVGListBase<SVGNumber>
 | [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose)() | Освобождает неуправляемые и (необязательно) управляемые ресурсы. |
 | [GetEnumerator](../../aspose.svg.collections/svglistbase`1/getenumerator)() |  |
 | [GetItem](../../aspose.svg.collections/svglistbase`1/getitem)(ulong) |  |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | Этот метод используется для получения объекта ECMAScriptType. |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | Этот метод используется для получения объекта ECMAScript.Type . |
 | [Initialize](../../aspose.svg.collections/svglistbase`1/initialize)(SVGNumber) |  |
 | [InsertItemBefore](../../aspose.svg.collections/svglistbase`1/insertitembefore)(SVGNumber, ulong) |  |
 | [RemoveItem](../../aspose.svg.collections/svglistbase`1/removeitem)(ulong) |  |
 | [ReplaceItem](../../aspose.svg.collections/svglistbase`1/replaceitem)(SVGNumber, ulong) |  |
-| override [ToString](../../aspose.svg.datatypes/svgnumberlist/tostring)() | ВозвращаетString, представляющий этот экземпляр. |
+| override [ToString](../../aspose.svg.datatypes/svgnumberlist/tostring)() | ВозвращаетString который представляет этот экземпляр. |
 
 ### Смотрите также
 

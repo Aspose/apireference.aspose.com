@@ -1,14 +1,14 @@
 ---
 title: Left
 second_title: Aspose.SVG for .NET API 参考
-description: 请参见 CSS2 中的左侧属性定义
+description: 参见CSS2中的左侧属性定义
 type: docs
 weight: 560
 url: /zh/net/aspose.svg.dom.css/icss2properties/left/
 ---
 ## ICSS2Properties.Left property
 
-请参见 CSS2 中的左侧属性定义。
+参见CSS2中的左侧属性定义。
 
 ```csharp
 public string Left { get; set; }

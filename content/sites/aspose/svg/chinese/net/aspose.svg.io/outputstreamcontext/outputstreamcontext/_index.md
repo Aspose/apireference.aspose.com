@@ -1,14 +1,14 @@
 ---
 title: OutputStreamContext
 second_title: Aspose.SVG for .NET API 参考
-description: 初始化OutputStreamContextaspose.svg.io/outputstreamcontext类的新实例
+description: 初始化OutputStreamContextaspose.svg.io/outputstreamcontext类.
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.io/outputstreamcontext/outputstreamcontext/
 ---
 ## OutputStreamContext constructor
 
-初始化[`OutputStreamContext`](../../outputstreamcontext)类的新实例。
+初始化[`OutputStreamContext`](../../outputstreamcontext)类.
 
 ```csharp
 public OutputStreamContext(string uri)

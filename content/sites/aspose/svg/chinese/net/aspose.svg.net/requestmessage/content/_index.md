@@ -8,7 +8,7 @@ url: /zh/net/aspose.svg.net/requestmessage/content/
 ---
 ## RequestMessage.Content property
 
-获取或设置请求内容。
+获取或设置请求内容
 
 ```csharp
 public Content Content { get; set; }
@@ -16,7 +16,7 @@ public Content Content { get; set; }
 
 ### 适当的价值
 
-身体。
+身体.
 
 ### 也可以看看
 

@@ -20,7 +20,7 @@ public override bool Match(INetworkOperationContext context)
 
 ### 返回值
 
-true 如果上下文对象满足过滤条件；否则， false 。
+真的如果 Context 对象满足过滤条件；否则，错误的 .
 
 ### 也可以看看
 

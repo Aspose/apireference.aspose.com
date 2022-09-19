@@ -1,14 +1,14 @@
 ---
 title: InputEvent
 second_title: Aspose.SVG for .NET API 参考
-description: 初始化InputEventaspose.svg.dom.events/inputevent类的新实例
+description: 初始化InputEventaspose.svg.dom.events/inputevent类.
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.dom.events/inputevent/inputevent/
 ---
 ## InputEvent(string) {#constructor}
 
-初始化[`InputEvent`](../../inputevent)类的新实例。
+初始化[`InputEvent`](../../inputevent)类.
 
 ```csharp
 public InputEvent(string type)
@@ -28,7 +28,7 @@ public InputEvent(string type)
 
 ## InputEvent(string, IDictionary&lt;string, object&gt;) {#constructor_1}
 
-初始化[`InputEvent`](../../inputevent)类的新实例。
+初始化[`InputEvent`](../../inputevent)类.
 
 ```csharp
 public InputEvent(string type, IDictionary<string, object> eventInitDict)

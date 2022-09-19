@@ -1,14 +1,14 @@
 ---
 title: QuerySelectorAll
 second_title: Aspose.SVG for .NET API 参考
-description: 返回文档中匹配选择器
+description: 返回文档中所有匹配选择器的元素的节点列表
 type: docs
 weight: 130
 url: /zh/net/aspose.svg.dom/documentfragment/queryselectorall/
 ---
 ## DocumentFragment.QuerySelectorAll method
 
-返回文档中匹配选择器
+返回文档中所有匹配选择器的元素的节点列表
 
 ```csharp
 public NodeList QuerySelectorAll(string selector)

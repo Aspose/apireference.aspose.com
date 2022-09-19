@@ -1,14 +1,14 @@
 ---
 title: IDocumentInit
 second_title: Aspose.SVG for .NET API 参考
-description: 该接口提供Document./document初始化信息
+description: 该接口提供Document./document初始化信息.
 type: docs
-weight: 1060
+weight: 1050
 url: /zh/net/aspose.svg.dom/idocumentinit/
 ---
 ## IDocumentInit interface
 
-该接口提供[`Document`](../document)初始化信息。
+该接口提供[`Document`](../document)初始化信息.
 
 ```csharp
 public interface IDocumentInit

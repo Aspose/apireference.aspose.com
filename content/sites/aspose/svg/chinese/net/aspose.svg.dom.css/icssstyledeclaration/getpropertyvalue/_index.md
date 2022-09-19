@@ -16,7 +16,7 @@ public string GetPropertyValue(string propertyName)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| propertyName | String | 属性的名称。 |
+| propertyName | String | 物业名称。 |
 
 ### 返回值
 

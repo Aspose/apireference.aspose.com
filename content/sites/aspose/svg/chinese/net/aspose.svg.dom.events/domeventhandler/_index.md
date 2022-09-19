@@ -3,7 +3,7 @@ title: DOMEventHandler
 second_title: Aspose.SVG for .NET API 参考
 description: 表示事件处理的回调
 type: docs
-weight: 900
+weight: 890
 url: /zh/net/aspose.svg.dom.events/domeventhandler/
 ---
 ## DOMEventHandler delegate

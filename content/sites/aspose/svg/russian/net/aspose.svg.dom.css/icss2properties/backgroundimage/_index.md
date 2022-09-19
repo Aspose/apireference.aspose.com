@@ -1,7 +1,7 @@
 ---
 title: BackgroundImage
 second_title: Справочник по Aspose.SVG для .NET API
-description: См. определение свойства background-image в CSS2.
+description: См. определение свойства backgroundimage в CSS2.
 type: docs
 weight: 50
 url: /ru/net/aspose.svg.dom.css/icss2properties/backgroundimage/

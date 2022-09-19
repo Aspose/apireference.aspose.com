@@ -1,14 +1,14 @@
 ---
 title: Length
 second_title: Aspose.SVG for .NET API 参考
-description: 列表中的媒体数量有效媒体的范围是 0 到 length-1含
+description: 列表中的媒体数量有效媒体的范围是 0 到长度 1含
 type: docs
 weight: 20
 url: /zh/net/aspose.svg.dom.css/imedialist/length/
 ---
 ## IMediaList.Length property
 
-列表中的媒体数量。有效媒体的范围是 0 到 length-1（含）。
+列表中的媒体数量。有效媒体的范围是 0 到长度 1（含）。
 
 ```csharp
 public long Length { get; }

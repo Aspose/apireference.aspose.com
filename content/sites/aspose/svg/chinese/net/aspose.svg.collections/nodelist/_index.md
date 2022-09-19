@@ -18,7 +18,7 @@ public abstract class NodeList : DOMObject, IEnumerable<Node>
 
 | 姓名 | 描述 |
 | --- | --- |
-| abstract [Item](../../aspose.svg.collections/nodelist/item) { get; } | 方法返回集合中的第索引项。如果 index 大于或等于列表中的节点数，则返回 null。 |
+| abstract [Item](../../aspose.svg.collections/nodelist/item) { get; } | 方法返回集合中的第索引项。如果 index 大于或等于列表中的节点数，则返回 null. |
 | abstract [Length](../../aspose.svg.collections/nodelist/length) { get; } | 列表中的节点数。 |
 
 ## 方法
@@ -26,7 +26,7 @@ public abstract class NodeList : DOMObject, IEnumerable<Node>
 | 姓名 | 描述 |
 | --- | --- |
 | abstract [GetEnumerator](../../aspose.svg.collections/nodelist/getenumerator)() | 返回一个遍历集合的枚举器。 |
-| override [GetPlatformType](../../aspose.svg.collections/nodelist/getplatformtype)() | 此方法用于检索 ECMAScript 对象Type。 |
+| override [GetPlatformType](../../aspose.svg.collections/nodelist/getplatformtype)() | 此方法用于检索 ECMAScript 对象Type . |
 
 ### 也可以看看
 

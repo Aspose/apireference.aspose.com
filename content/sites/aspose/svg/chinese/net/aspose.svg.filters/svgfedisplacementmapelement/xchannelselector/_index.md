@@ -16,7 +16,7 @@ public SVGAnimatedEnumeration XChannelSelector { get; }
 
 ### 适当的价值
 
-给定 'feDisplacementMap' 元素的属性 'xChannelSelector'。
+给定“feDisplacementMap”元素的属性“xChannelSelector”。
 
 ### 也可以看看
 

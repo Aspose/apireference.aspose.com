@@ -16,7 +16,7 @@ public MimeType(string value)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| value | String | 值。 |
+| value | String | 价值。 |
 
 ### 也可以看看
 

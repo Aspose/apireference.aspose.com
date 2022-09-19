@@ -1,14 +1,14 @@
 ---
 title: FromDotsPerPixel
 second_title: Справочник по Aspose.SVG для .NET API
-description: Возвращает объектResolutionaspose.svg.drawing/resolution представленный в точках на пиксели.
+description: ВозвращаетResolutionaspose.svg.drawing/resolution объект представленный в точках на пиксель.
 type: docs
 weight: 90
 url: /ru/net/aspose.svg.drawing/unit/fromdotsperpixel/
 ---
 ## Unit.FromDotsPerPixel method
 
-Возвращает объект[`Resolution`](../../resolution), представленный в точках на пиксели.
+Возвращает[`Resolution`](../../resolution) объект, представленный в точках на пиксель.
 
 ```csharp
 public static Resolution FromDotsPerPixel(double value)
@@ -20,7 +20,7 @@ public static Resolution FromDotsPerPixel(double value)
 
 ### Возвращаемое значение
 
-Возвращает объект[`Resolution`](../../resolution).
+Возвращает[`Resolution`](../../resolution) объект.
 
 ### Смотрите также
 

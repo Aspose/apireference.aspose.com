@@ -28,8 +28,8 @@ public class DOMTokenList : DOMObject, IEnumerable<string>
 | --- | --- |
 | [Add](../../aspose.svg.collections/domtokenlist/add)(params string[]) | Добавляет указанные токены в список. |
 | [Contains](../../aspose.svg.collections/domtokenlist/contains)(string) | Возвращает true, если список содержит данный токен, иначе false. |
-| [GetEnumerator](../../aspose.svg.collections/domtokenlist/getenumerator)() | Возвращает перечислитель, выполняющий итерацию по коллекции. |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | Этот метод используется для получения объекта ECMAScriptType. |
+| [GetEnumerator](../../aspose.svg.collections/domtokenlist/getenumerator)() | Возвращает перечислитель, который выполняет итерацию по коллекции. |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | Этот метод используется для получения объекта ECMAScript.Type . |
 | [Remove](../../aspose.svg.collections/domtokenlist/remove)(params string[]) | Удаляет указанные токены из списка. |
 | [Replace](../../aspose.svg.collections/domtokenlist/replace)(string, string) | Заменяет существующий токен новым токеном. Ничего не делает, если первый токен не существует. |
 | [Supports](../../aspose.svg.collections/domtokenlist/supports)(string) | Возвращает true, если данный токен находится в поддерживаемых токенах связанного атрибута. |

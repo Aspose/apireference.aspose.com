@@ -1,14 +1,14 @@
 ---
 title: FileCreateStreamProvider
 second_title: Aspose.SVG for .NET API 参考
-description: 初始化FileCreateStreamProvideraspose.svg.io/filecreatestreamprovider类的新实例
+description: 初始化FileCreateStreamProvideraspose.svg.io/filecreatestreamprovider类.
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.io/filecreatestreamprovider/filecreatestreamprovider/
 ---
 ## FileCreateStreamProvider() {#constructor}
 
-初始化[`FileCreateStreamProvider`](../../filecreatestreamprovider)类的新实例。
+初始化[`FileCreateStreamProvider`](../../filecreatestreamprovider)类.
 
 ```csharp
 public FileCreateStreamProvider()
@@ -24,7 +24,7 @@ public FileCreateStreamProvider()
 
 ## FileCreateStreamProvider(string) {#constructor_1}
 
-初始化[`FileCreateStreamProvider`](../../filecreatestreamprovider)类的新实例。
+初始化[`FileCreateStreamProvider`](../../filecreatestreamprovider)类.
 
 ```csharp
 public FileCreateStreamProvider(string name)
@@ -44,7 +44,7 @@ public FileCreateStreamProvider(string name)
 
 ## FileCreateStreamProvider(string, string) {#constructor_2}
 
-初始化[`FileCreateStreamProvider`](../../filecreatestreamprovider)类的新实例。
+初始化[`FileCreateStreamProvider`](../../filecreatestreamprovider)类.
 
 ```csharp
 public FileCreateStreamProvider(string directory, string name)

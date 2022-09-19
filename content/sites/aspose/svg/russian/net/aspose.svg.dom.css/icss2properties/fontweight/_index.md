@@ -1,7 +1,7 @@
 ---
 title: FontWeight
 second_title: Справочник по Aspose.SVG для .NET API
-description: См. определение свойства font-weight в CSS2.
+description: См. определение свойства fontweight в CSS2.
 type: docs
 weight: 540
 url: /ru/net/aspose.svg.dom.css/icss2properties/fontweight/

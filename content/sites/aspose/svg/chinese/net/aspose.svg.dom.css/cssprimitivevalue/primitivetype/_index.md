@@ -1,14 +1,14 @@
 ---
 title: PrimitiveType
 second_title: Aspose.SVG for .NET API 参考
-description: 上面指定的常量定义的值的类型
+description: 由上面指定的常量定义的值的类型
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.dom.css/cssprimitivevalue/primitivetype/
 ---
 ## CSSPrimitiveValue.PrimitiveType property
 
-上面指定的常量定义的值的类型。
+由上面指定的常量定义的值的类型。
 
 ```csharp
 public ushort PrimitiveType { get; }

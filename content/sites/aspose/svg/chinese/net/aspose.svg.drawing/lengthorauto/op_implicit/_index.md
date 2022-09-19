@@ -1,14 +1,14 @@
 ---
 title: op_Implicit
 second_title: Aspose.SVG for .NET API 参考
-description: 执行从Lengthaspose.svg.drawing/lengthorauto/length到LengthOrAutoaspose.svg.drawing/lengthorauto的隐式转换
+description: 从Lengthaspose.svg.drawing/lengthorauto/length至LengthOrAutoaspose.svg.drawing/lengthorauto .
 type: docs
 weight: 80
 url: /zh/net/aspose.svg.drawing/lengthorauto/op_implicit/
 ---
 ## LengthOrAuto Implicit operator
 
-执行从[`Length`](../length)到[`LengthOrAuto`](../../lengthorauto)的隐式转换。
+从[`Length`](../length)至[`LengthOrAuto`](../../lengthorauto) .
 
 ```csharp
 public static implicit operator LengthOrAuto(Length length)
@@ -16,7 +16,7 @@ public static implicit operator LengthOrAuto(Length length)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| length | Length | 值。 |
+| length | Length | 价值。 |
 
 ### 返回值
 

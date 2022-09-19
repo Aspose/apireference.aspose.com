@@ -1,14 +1,14 @@
 ---
 title: KernelUnitLengthY
 second_title: Aspose.SVG for .NET API 参考
-description: 对应于给定 feDiffuseLighting 元素的属性 kernelUnitLength
+description: 对应于给定feDiffuseLighting元素上的属性kernelUnitLength
 type: docs
 weight: 50
 url: /zh/net/aspose.svg.filters/svgfediffuselightingelement/kernelunitlengthy/
 ---
 ## SVGFEDiffuseLightingElement.KernelUnitLengthY property
 
-对应于给定 'feDiffuseLighting' 元素的属性 'kernelUnitLength'。
+对应于给定“feDiffuseLighting”元素上的属性“kernelUnitLength”。
 
 ```csharp
 public SVGAnimatedNumber KernelUnitLengthY { get; }
@@ -16,7 +16,7 @@ public SVGAnimatedNumber KernelUnitLengthY { get; }
 
 ### 适当的价值
 
-给定 'feDiffuseLighting' 元素的属性 'kernelUnitLength'。
+给定“feDiffuseLighting”元素的属性“kernelUnitLength”。
 
 ### 也可以看看
 

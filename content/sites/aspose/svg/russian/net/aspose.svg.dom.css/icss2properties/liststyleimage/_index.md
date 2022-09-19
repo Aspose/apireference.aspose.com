@@ -1,7 +1,7 @@
 ---
 title: ListStyleImage
 second_title: Справочник по Aspose.SVG для .NET API
-description: См. определение свойства list-style-image в CSS2.
+description: См. определение свойства liststyleimage в CSS2.
 type: docs
 weight: 600
 url: /ru/net/aspose.svg.dom.css/icss2properties/liststyleimage/
@@ -16,7 +16,7 @@ public string ListStyleImage { get; set; }
 
 ### Возвращаемое значение
 
-свойство-стиль-изображения
+свойство изображения в стиле списка
 
 ### Смотрите также
 

@@ -1,7 +1,7 @@
 ---
 title: CreateSVGRect
 second_title: Справочник по Aspose.SVG для .NET API
-description: Создает объект SVGRect вне каких-либо деревьев документов. Объект инициализируется таким образом что все значения установлены на 0 пользовательских единиц.
+description: Создает объект SVGRect вне какихлибо деревьев документов. Объект инициализируется таким образом что все значения установлены на 0 пользовательских единиц.
 type: docs
 weight: 170
 url: /ru/net/aspose.svg/svgsvgelement/createsvgrect/

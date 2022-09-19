@@ -16,7 +16,7 @@ public SVGAnimatedEnumeration Spacing { get; }
 
 ### Стоимость имущества
 
-Атрибут 'spacing' данного элемента 'textPath'.
+Интервал атрибута данного элемента textPath.
 
 ### Смотрите также
 

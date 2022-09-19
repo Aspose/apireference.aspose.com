@@ -16,7 +16,7 @@ public string Protocol { get; set; }
 
 ### 适当的价值
 
-协议。
+协议.
 
 ### 也可以看看
 

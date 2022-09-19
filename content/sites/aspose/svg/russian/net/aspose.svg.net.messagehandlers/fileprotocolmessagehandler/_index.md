@@ -1,14 +1,14 @@
 ---
 title: FileProtocolMessageHandler
 second_title: Справочник по Aspose.SVG для .NET API
-description: Представляет файл  обработчик сообщений протокола .
+description: Представляетфайл обработчик сообщений протокола.
 type: docs
-weight: 2320
+weight: 2330
 url: /ru/net/aspose.svg.net.messagehandlers/fileprotocolmessagehandler/
 ---
 ## FileProtocolMessageHandler class
 
-Представляет файл` : обработчик сообщений протокола` .
+Представляет`файл:` обработчик сообщений протокола.
 
 ```csharp
 public class FileProtocolMessageHandler : MessageHandler
@@ -18,7 +18,7 @@ public class FileProtocolMessageHandler : MessageHandler
 
 | Имя | Описание |
 | --- | --- |
-| [FileProtocolMessageHandler](fileprotocolmessagehandler)() | Инициализирует новый экземпляр класса[`FileProtocolMessageHandler`](../fileprotocolmessagehandler). |
+| [FileProtocolMessageHandler](fileprotocolmessagehandler)() | Инициализирует новый экземпляр[`FileProtocolMessageHandler`](../fileprotocolmessagehandler) класс. |
 
 ## Характеристики
 

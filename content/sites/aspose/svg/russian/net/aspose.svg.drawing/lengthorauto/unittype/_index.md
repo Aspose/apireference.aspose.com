@@ -1,14 +1,14 @@
 ---
 title: UnitType
 second_title: Справочник по Aspose.SVG для .NET API
-description: Получает тип единицы измеренияUnitaspose.svg.drawing/unit.
+description: Получает тип единицы измеренияUnitaspose.svg.drawing/unit .
 type: docs
 weight: 40
 url: /ru/net/aspose.svg.drawing/lengthorauto/unittype/
 ---
 ## LengthOrAuto.UnitType property
 
-Получает тип единицы измерения[`Unit`](../../unit).
+Получает тип единицы измерения[`Unit`](../../unit) .
 
 ```csharp
 public UnitType UnitType { get; }
@@ -16,7 +16,7 @@ public UnitType UnitType { get; }
 
 ### Стоимость имущества
 
-Тип устройства.
+Тип юнита.
 
 ### Смотрите также
 

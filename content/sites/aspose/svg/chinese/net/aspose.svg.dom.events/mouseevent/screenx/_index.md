@@ -16,7 +16,7 @@ public long ScreenX { get; }
 
 ### 适当的价值
 
-屏幕 x。
+屏幕 x.
 
 ### 也可以看看
 

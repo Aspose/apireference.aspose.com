@@ -8,7 +8,7 @@ url: /ru/net/aspose.svg.filters/svgfespotlightelement/specularexponent/
 ---
 ## SVGFESpotLightElement.SpecularExponent property
 
-Соответствует атрибуту 'specularExponent' данного элемента 'feSpotLight'.
+Соответствует атрибуту specularExponent данного элемента feSpotLight.
 
 ```csharp
 public SVGAnimatedNumber SpecularExponent { get; }
@@ -16,7 +16,7 @@ public SVGAnimatedNumber SpecularExponent { get; }
 
 ### Стоимость имущества
 
-Атрибут 'specularExponent' данного элемента 'feSpotLight'.
+Атрибут specularExponent данного элемента feSpotLight.
 
 ### Смотрите также
 

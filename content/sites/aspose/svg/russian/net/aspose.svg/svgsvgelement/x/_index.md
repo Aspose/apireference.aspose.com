@@ -8,7 +8,7 @@ url: /ru/net/aspose.svg/svgsvgelement/x/
 ---
 ## SVGSVGElement.X property
 
-Соответствует атрибуту 'x' данного элемента 'svg'.
+Соответствует атрибуту «x» данного элемента «svg».
 
 ```csharp
 public SVGAnimatedLength X { get; }
@@ -16,7 +16,7 @@ public SVGAnimatedLength X { get; }
 
 ### Стоимость имущества
 
-Соответствует атрибуту 'x' данного элемента 'svg'.
+Соответствует атрибуту «x» данного элемента «svg».
 
 ### Смотрите также
 

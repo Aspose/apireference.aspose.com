@@ -1,14 +1,14 @@
 ---
 title: Marks
 second_title: Aspose.SVG for .NET API 参考
-description: 请参阅 CSS2 中的标记属性定义
+description: 参见 CSS2 中的标记属性定义
 type: docs
 weight: 690
 url: /zh/net/aspose.svg.dom.css/icss2properties/marks/
 ---
 ## ICSS2Properties.Marks property
 
-请参阅 CSS2 中的标记属性定义。
+参见 CSS2 中的标记属性定义。
 
 ```csharp
 public string Marks { get; set; }

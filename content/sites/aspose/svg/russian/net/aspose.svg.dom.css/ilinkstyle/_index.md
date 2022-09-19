@@ -1,14 +1,14 @@
 ---
 title: ILinkStyle
 second_title: Справочник по Aspose.SVG для .NET API
-description: Интерфейс LinkStyle предоставляет механизм с помощью которого таблица стилей может быть извлечена из узла отвечающего за ее связывание с документом. Экземпляр интерфейса LinkStyle можно получить с помощью методов приведения для конкретной привязки экземпляра узла связи HTMLLinkElement HTMLStyleElement или ProcessingInstruction в DOM Level 2.
+description: Интерфейс LinkStyle предоставляет механизм с помощью которого таблица стилей может быть извлечена из узла ответственного за ее связывание с документом. Экземпляр интерфейса LinkStyle можно получить с помощью методов приведения конкретных привязок к экземпляру связывающего узла HTMLLinkElement HTMLStyleElement или ProcessingInstruction в уровне DOM 2.
 type: docs
-weight: 730
+weight: 720
 url: /ru/net/aspose.svg.dom.css/ilinkstyle/
 ---
 ## ILinkStyle interface
 
-Интерфейс LinkStyle предоставляет механизм, с помощью которого таблица стилей может быть извлечена из узла, отвечающего за ее связывание с документом. Экземпляр интерфейса LinkStyle можно получить с помощью методов приведения для конкретной привязки экземпляра узла связи (HTMLLinkElement, HTMLStyleElement или ProcessingInstruction в DOM Level 2).
+Интерфейс LinkStyle предоставляет механизм, с помощью которого таблица стилей может быть извлечена из узла, ответственного за ее связывание с документом. Экземпляр интерфейса LinkStyle можно получить с помощью методов приведения конкретных привязок к экземпляру связывающего узла (HTMLLinkElement, HTMLStyleElement или ProcessingInstruction в уровне DOM 2).
 
 ```csharp
 public interface ILinkStyle

@@ -3,7 +3,7 @@ title: IUserAgentService
 second_title: Aspose.SVG for .NET API 参考
 description: 描述用户代理环境的接口
 type: docs
-weight: 3710
+weight: 3720
 url: /zh/net/aspose.svg.services/iuseragentservice/
 ---
 ## IUserAgentService interface
@@ -20,8 +20,8 @@ public interface IUserAgentService : IService
 | --- | --- |
 | [CharSet](../../aspose.svg.services/iuseragentservice/charset) { get; set; } | 获取或设置文档的主要字符集。 |
 | [CSSEngineMode](../../aspose.svg.services/iuseragentservice/cssenginemode) { get; set; } | 获取或设置 CSS 引擎工作的模式。 |
-| [FontsSettings](../../aspose.svg.services/iuseragentservice/fontssettings) { get; } | 获取一个!:Html.FontsSettings对象，用于配置字体处理。 |
-| [Language](../../aspose.svg.services/iuseragentservice/language) { get; set; } | [`Language`](./language)指定元素内容和任何包含文本的元素属性的主要语言。 其值必须是有效的 BCP 47 () 语言标记或空字符串。将该属性设置为空字符串表示主要语言未知。 |
+| [FontsSettings](../../aspose.svg.services/iuseragentservice/fontssettings) { get; } | 得到一个!:Html.FontsSettings用于配置字体处理的对象。 |
+| [Language](../../aspose.svg.services/iuseragentservice/language) { get; set; } | 的[`Language`](./language)指定元素内容和包含文本的任何元素属性的主要语言。 它的值必须是有效的 BCP 47 ( 语言标签或空字符串。将属性设置为空字符串表示主要语言未知。 |
 | [UserStyleSheet](../../aspose.svg.services/iuseragentservice/userstylesheet) { get; set; } | 允许为特定文档指定样式信息 |
 
 ### 也可以看看

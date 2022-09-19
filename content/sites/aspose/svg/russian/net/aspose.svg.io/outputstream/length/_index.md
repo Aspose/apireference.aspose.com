@@ -1,14 +1,14 @@
 ---
 title: Length
 second_title: Справочник по Aspose.SVG для .NET API
-description: Получает длину упакованного выходного потока в байтах.
+description: Получает длину в байтах упакованного выходного потока.
 type: docs
 weight: 50
 url: /ru/net/aspose.svg.io/outputstream/length/
 ---
 ## OutputStream.Length property
 
-Получает длину упакованного выходного потока в байтах.
+Получает длину в байтах упакованного выходного потока.
 
 ```csharp
 public override long Length { get; }

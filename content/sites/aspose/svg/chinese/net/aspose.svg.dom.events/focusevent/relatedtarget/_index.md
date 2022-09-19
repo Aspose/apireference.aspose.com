@@ -1,14 +1,14 @@
 ---
 title: RelatedTarget
 second_title: Aspose.SVG for .NET API 参考
-description: 用于标识与 Focus 事件相关的辅助 EventTarget具体取决于事件的类型
+description: 用于标识与焦点事件相关的辅助 EventTarget具体取决于事件的类型
 type: docs
 weight: 20
 url: /zh/net/aspose.svg.dom.events/focusevent/relatedtarget/
 ---
 ## FocusEvent.RelatedTarget property
 
-用于标识与 Focus 事件相关的辅助 EventTarget，具体取决于事件的类型。
+用于标识与焦点事件相关的辅助 EventTarget，具体取决于事件的类型。
 
 ```csharp
 public EventTarget RelatedTarget { get; }

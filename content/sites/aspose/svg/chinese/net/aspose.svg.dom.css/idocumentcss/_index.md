@@ -3,7 +3,7 @@ title: IDocumentCSS
 second_title: Aspose.SVG for .NET API 参考
 description: 这个接口代表一个带有 CSS 视图的文档
 type: docs
-weight: 700
+weight: 690
 url: /zh/net/aspose.svg.dom.css/idocumentcss/
 ---
 ## IDocumentCSS interface

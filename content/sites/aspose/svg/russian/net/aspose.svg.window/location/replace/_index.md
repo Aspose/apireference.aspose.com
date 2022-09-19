@@ -1,14 +1,14 @@
 ---
 title: Replace
 second_title: Справочник по Aspose.SVG для .NET API
-description: Удаляет текущую страницу из истории сеансов и переходит на указанную страницу.
+description: Удаляет текущую страницу из истории сеансов и переходит к указанной странице.
 type: docs
 weight: 30
 url: /ru/net/aspose.svg.window/location/replace/
 ---
 ## Location.Replace method
 
-Удаляет текущую страницу из истории сеансов и переходит на указанную страницу.
+Удаляет текущую страницу из истории сеансов и переходит к указанной странице.
 
 ```csharp
 public void Replace(string url)
@@ -16,7 +16,7 @@ public void Replace(string url)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| url | String | URL для навигации. |
+| url | String | URL-адрес для навигации. |
 
 ### Смотрите также
 

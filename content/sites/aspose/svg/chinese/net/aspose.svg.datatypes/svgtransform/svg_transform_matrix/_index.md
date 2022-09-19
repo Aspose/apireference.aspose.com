@@ -1,14 +1,14 @@
 ---
 title: SVG_TRANSFORM_MATRIX
 second_title: Aspose.SVG for .NET API 参考
-description: 一个矩阵转换
+description: 一个矩阵变换
 type: docs
 weight: 110
 url: /zh/net/aspose.svg.datatypes/svgtransform/svg_transform_matrix/
 ---
 ## SVGTransform.SVG_TRANSFORM_MATRIX field
 
-一个“矩阵（…）”转换。
+一个“矩阵（…）”变换。
 
 ```csharp
 public const ushort SVG_TRANSFORM_MATRIX;

@@ -1,14 +1,14 @@
 ---
 title: PathBuilder
 second_title: Aspose.SVG for .NET API 参考
-description: 获取或设置 SVG 路径段构建器
+description: 获取或设置 SVG 路径段生成器
 type: docs
 weight: 40
 url: /zh/net/aspose.svg.imagevectorization/imagevectorizerconfiguration/pathbuilder/
 ---
 ## ImageVectorizerConfiguration.PathBuilder property
 
-获取或设置 SVG 路径段构建器。
+获取或设置 SVG 路径段生成器。
 
 ```csharp
 public IPathBuilder PathBuilder { get; set; }

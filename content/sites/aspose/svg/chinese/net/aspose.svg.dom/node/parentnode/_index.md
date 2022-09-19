@@ -1,14 +1,14 @@
 ---
 title: ParentNode
 second_title: Aspose.SVG for .NET API 参考
-description: 此节点的父节点除 AttrDocumentDocumentFragmentEntity 和 Notation 之外的所有节点都可以有父节点但是如果一个节点刚刚创建但尚未添加到树中或者它已从树中删除则为 null
+description: 该节点的父节点除 AttrDocumentDocumentFragmentEntity 和 Notation 之外的所有节点都可以有父节点但是如果一个节点刚刚创建但尚未添加到树中或者它已从树中删除则为 null.
 type: docs
 weight: 140
 url: /zh/net/aspose.svg.dom/node/parentnode/
 ---
 ## Node.ParentNode property
 
-此节点的父节点。除 Attr、Document、DocumentFragment、Entity 和 Notation 之外的所有节点都可以有父节点。但是，如果一个节点刚刚创建但尚未添加到树中，或者它已从树中删除，则为 null。
+该节点的父节点。除 Attr、Document、DocumentFragment、Entity 和 Notation 之外的所有节点都可以有父节点。但是，如果一个节点刚刚创建但尚未添加到树中，或者它已从树中删除，则为 null.
 
 ```csharp
 public Node ParentNode { get; }

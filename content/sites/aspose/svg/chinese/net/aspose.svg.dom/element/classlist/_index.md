@@ -1,14 +1,14 @@
 ---
 title: ClassList
 second_title: Aspose.SVG for .NET API 参考
-description: 返回一个实时 DOMTokenList其中包含从解析类属性接收到的令牌
+description: 返回一个实时 DOMTokenList其中包含通过解析类属性接收到的令牌
 type: docs
 weight: 50
 url: /zh/net/aspose.svg.dom/element/classlist/
 ---
 ## Element.ClassList property
 
-返回一个实时 DOMTokenList，其中包含从解析“类”属性接收到的令牌。
+返回一个实时 DOMTokenList，其中包含通过解析“类”属性接收到的令牌。
 
 ```csharp
 public DOMTokenList ClassList { get; }

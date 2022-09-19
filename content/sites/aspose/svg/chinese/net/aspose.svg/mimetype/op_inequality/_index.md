@@ -16,12 +16,12 @@ public static bool operator !=(MimeType a, MimeType b)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| a | MimeType | 第一个要比较的 Mime。 |
+| a | MimeType | 第一个比较的 Mime。 |
 | b | MimeType | 要比较的第二个 Mime。 |
 
 ### 返回值
 
-True 如果两个优先级不相等，否则 false 。
+真的如果两个优先级不相等，否则错误的 .
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: IGlobalEventHandlers
 second_title: Aspose.SVG for .NET API 参考
-description: 表示支持系统事件处理的所有元素都必须继承的接口
+description: 表示必须由支持的系统事件处理的所有元素继承的接口
 type: docs
-weight: 1080
+weight: 1070
 url: /zh/net/aspose.svg.dom/iglobaleventhandlers/
 ---
 ## IGlobalEventHandlers interface
 
-表示支持系统事件处理的所有元素都必须继承的接口
+表示必须由支持的系统事件处理的所有元素继承的接口
 
 ```csharp
 public interface IGlobalEventHandlers

@@ -8,7 +8,7 @@ url: /ru/net/aspose.svg/svgforeignobjectelement/x/
 ---
 ## SVGForeignObjectElement.X property
 
-Соответствует атрибуту 'x' данного элемента 'foreignObject'.
+Соответствует атрибуту «x» данного элемента «foreignObject».
 
 ```csharp
 public SVGAnimatedLength X { get; }
@@ -16,7 +16,7 @@ public SVGAnimatedLength X { get; }
 
 ### Стоимость имущества
 
-Атрибут 'x' данного элемента 'foreignObject'.
+Атрибут «x» данного элемента «foreignObject».
 
 ### Смотрите также
 

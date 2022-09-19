@@ -1,14 +1,14 @@
 ---
 title: ErrorEvent
 second_title: Справочник по Aspose.SVG для .NET API
-description: Инициализирует новый экземпляр классаErrorEventaspose.svg.dom.events/errorevent.
+description: Инициализирует новый экземплярErrorEventaspose.svg.dom.events/errorevent класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.dom.events/errorevent/errorevent/
 ---
 ## ErrorEvent(Exception) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`ErrorEvent`](../../errorevent).
+Инициализирует новый экземпляр[`ErrorEvent`](../../errorevent) класс.
 
 ```csharp
 public ErrorEvent(Exception exception)
@@ -28,7 +28,7 @@ public ErrorEvent(Exception exception)
 
 ## ErrorEvent(IDictionary&lt;string, object&gt;) {#constructor}
 
-Инициализирует новый экземпляр класса[`ErrorEvent`](../../errorevent).
+Инициализирует новый экземпляр[`ErrorEvent`](../../errorevent) класс.
 
 ```csharp
 public ErrorEvent(IDictionary<string, object> eventInitDict)

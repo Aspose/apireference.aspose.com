@@ -1,14 +1,14 @@
 ---
 title: Mode
 second_title: Справочник по Aspose.SVG для .NET API
-description: Соответствует атрибуту mode данного элемента feBlend. Принимает одну из констант SVG_FEBLEND_MODE_ определенных в этом интерфейсе.
+description: Соответствует атрибуту режим данного элемента feBlend. Принимает одну из констант SVG_FEBLEND_MODE_ определенных в этом интерфейсе.
 type: docs
 weight: 40
 url: /ru/net/aspose.svg.filters/svgfeblendelement/mode/
 ---
 ## SVGFEBlendElement.Mode property
 
-Соответствует атрибуту 'mode' данного элемента 'feBlend'. Принимает одну из констант SVG_FEBLEND_MODE_*, определенных в этом интерфейсе.
+Соответствует атрибуту «режим» данного элемента «feBlend». Принимает одну из констант SVG_FEBLEND_MODE_*, определенных в этом интерфейсе.
 
 ```csharp
 public SVGAnimatedEnumeration Mode { get; }

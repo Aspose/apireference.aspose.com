@@ -1,7 +1,7 @@
 ---
 title: TextIndent
 second_title: Справочник по Aspose.SVG для .NET API
-description: См. определение свойства text-indent в CSS2.
+description: См. определение свойства textindent в CSS2.
 type: docs
 weight: 1090
 url: /ru/net/aspose.svg.dom.css/icss2properties/textindent/

@@ -18,11 +18,11 @@ public bool IsDerivedFrom(string typeNamespaceArg, string typeNameArg, ulong der
 | --- | --- | --- |
 | typeNamespaceArg | String | 其他类型定义的命名空间 |
 | typeNameArg | String | 其他类型定义的名称。 |
-| derivationMethod | UInt64 | 派生类型和两种类型之间应用的条件，如该接口中提供的常量列表中所述。 |
+| derivationMethod | UInt64 | 派生的类型和在两种类型之间应用的条件，如此接口中提供的常量列表中所述。 |
 
 ### 返回值
 
-如果文档的架构是 DTD 或没有架构与文档关联，则此方法将始终返回 false。如果文档的模式是 XML 模式，则如果引用类型定义根据派生参数从其他类型定义派生，则该方法将为真。如果参数的值为 0（没有为 derivationMethod 参数设置任何位为 1），如果通过递归 {base type definition}、{item type definition} 的任意组合可以达到其他类型定义，则该方法将返回 true , 或引用类型定义中的 {member type definitions}。
+如果文档的架构是 DTD 或没有架构与文档关联，则此方法将始终返回 false。如果文档的模式是 XML 模式，则如果引用类型定义根据派生参数从其他类型定义派生，则该方法将为真。如果参数的值为 0（没有为 derivationMethod 参数设置任何位为 1），如果通过递归 {base type definition}、{item type definition} 的任意组合可以达到其他类型定义，则该方法将返回 true ，或来自引用类型定义的{成员类型定义}。
 
 ### 也可以看看
 

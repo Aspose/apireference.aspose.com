@@ -1,14 +1,14 @@
 ---
 title: NextSibling
 second_title: Aspose.SVG for .NET API 参考
-description: 此节点之后的节点如果没有这样的节点则返回 null
+description: 紧跟该节点的节点如果没有这样的节点则返回 null.
 type: docs
 weight: 80
 url: /zh/net/aspose.svg.dom/node/nextsibling/
 ---
 ## Node.NextSibling property
 
-此节点之后的节点。如果没有这样的节点，则返回 null。
+紧跟该节点的节点。如果没有这样的节点，则返回 null.
 
 ```csharp
 public Node NextSibling { get; }

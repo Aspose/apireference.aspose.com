@@ -1,14 +1,14 @@
 ---
 title: Y2
 second_title: Справочник по Aspose.SVG для .NET API
-description: Относительная координата Y второй контрольной точки.
+description: Относительная координата Y для второй контрольной точки.
 type: docs
 weight: 40
 url: /ru/net/aspose.svg.paths/svgpathsegcurvetocubicsmoothrel/y2/
 ---
 ## SVGPathSegCurvetoCubicSmoothRel.Y2 property
 
-Относительная координата Y второй контрольной точки.
+Относительная координата Y для второй контрольной точки.
 
 ```csharp
 public float Y2 { get; set; }
@@ -22,7 +22,7 @@ public float Y2 { get; set; }
 
 | исключение | условие |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception) | Код[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err). Возникает при попытке изменить значение атрибута только для чтения. |
+| [DOMException](../../../aspose.svg.dom/domexception) | код[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err) . Возникает при попытке изменить значение атрибута только для чтения. |
 
 ### Смотрите также
 

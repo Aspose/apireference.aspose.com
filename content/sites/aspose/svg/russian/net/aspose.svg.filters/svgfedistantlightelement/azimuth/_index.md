@@ -8,7 +8,7 @@ url: /ru/net/aspose.svg.filters/svgfedistantlightelement/azimuth/
 ---
 ## SVGFEDistantLightElement.Azimuth property
 
-Соответствует атрибуту 'азимут' данного элемента 'feDistantLight'.
+Соответствует атрибуту азимут данного элемента feDistantLight.
 
 ```csharp
 public SVGAnimatedNumber Azimuth { get; }
@@ -16,7 +16,7 @@ public SVGAnimatedNumber Azimuth { get; }
 
 ### Стоимость имущества
 
-Атрибут 'азимут' данного элемента 'feDistantLight'.
+Атрибут «азимут» данного элемента «feDistantLight».
 
 ### Смотрите также
 

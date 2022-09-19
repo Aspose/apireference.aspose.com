@@ -16,7 +16,7 @@ public SVGAnimatedEnumeration Type { get; }
 
 ### Стоимость имущества
 
-Атрибут 'type' данного элемента 'feColorMatrix'.
+Тип атрибута данного элемента feColorMatrix.
 
 ### Смотрите также
 

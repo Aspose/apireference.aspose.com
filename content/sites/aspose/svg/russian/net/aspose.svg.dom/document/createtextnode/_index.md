@@ -20,7 +20,7 @@ public Text CreateTextNode(string data)
 
 ### Возвращаемое значение
 
-[`Text`](../../text).
+[`Text`](../../text) .
 
 ### Смотрите также
 

@@ -1,14 +1,14 @@
 ---
 title: ContentHeaders
 second_title: Справочник по Aspose.SVG для .NET API
-description: Содержит заголовки связанные с содержимым.
+description: Содержит заголовки связанные с контентом.
 type: docs
-weight: 2200
+weight: 2210
 url: /ru/net/aspose.svg.net/contentheaders/
 ---
 ## ContentHeaders class
 
-Содержит заголовки, связанные с содержимым.
+Содержит заголовки, связанные с контентом.
 
 ```csharp
 public class ContentHeaders : WebHeaderCollection
@@ -18,7 +18,7 @@ public class ContentHeaders : WebHeaderCollection
 
 | Имя | Описание |
 | --- | --- |
-| [ContentHeaders](contentheaders)() | Инициализирует новый экземпляр класса[`ContentHeaders`](../contentheaders). |
+| [ContentHeaders](contentheaders)() | Инициализирует новый экземпляр[`ContentHeaders`](../contentheaders) класс. |
 
 ## Характеристики
 

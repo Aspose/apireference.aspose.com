@@ -1,14 +1,14 @@
 ---
 title: CreateStream
 second_title: Справочник по Aspose.SVG для .NET API
-description: Создает выходной потокOutputStreamaspose.svg.io/outputstream.
+description: Создает выходной потокOutputStreamaspose.svg.io/outputstream .
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.io/ioutputstorage/createstream/
 ---
 ## IOutputStorage.CreateStream method
 
-Создает выходной поток[`OutputStream`](../../outputstream).
+Создает выходной поток[`OutputStream`](../../outputstream) .
 
 ```csharp
 public OutputStream CreateStream(OutputStreamContext context)
@@ -16,7 +16,7 @@ public OutputStream CreateStream(OutputStreamContext context)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| context | OutputStreamContext | Указывает контекст выходного потока[`OutputStreamContext`](../../outputstreamcontext). |
+| context | OutputStreamContext | Задает контекст выходного потока[`OutputStreamContext`](../../outputstreamcontext). |
 
 ### Возвращаемое значение
 

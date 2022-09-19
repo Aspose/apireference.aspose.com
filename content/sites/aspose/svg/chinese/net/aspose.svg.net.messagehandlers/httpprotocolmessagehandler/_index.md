@@ -1,14 +1,14 @@
 ---
 title: HttpProtocolMessageHandler
 second_title: Aspose.SVG for .NET API 参考
-description: 表示 http 协议消息处理程序
+description: 代表网址协议消息处理程序.
 type: docs
-weight: 2340
+weight: 2350
 url: /zh/net/aspose.svg.net.messagehandlers/httpprotocolmessagehandler/
 ---
 ## HttpProtocolMessageHandler class
 
-表示` http:` 协议消息处理程序。
+代表`网址：`协议消息处理程序.
 
 ```csharp
 public class HttpProtocolMessageHandler : MessageHandler
@@ -18,7 +18,7 @@ public class HttpProtocolMessageHandler : MessageHandler
 
 | 姓名 | 描述 |
 | --- | --- |
-| [HttpProtocolMessageHandler](httpprotocolmessagehandler)() | 初始化[`HttpProtocolMessageHandler`](../httpprotocolmessagehandler)类的新实例。 |
+| [HttpProtocolMessageHandler](httpprotocolmessagehandler)() | 初始化[`HttpProtocolMessageHandler`](../httpprotocolmessagehandler)类. |
 
 ## 特性
 

@@ -1,14 +1,14 @@
 ---
 title: Parent
 second_title: Aspose.SVG for .NET API 参考
-description: 获取父上下文如果有
+description: 获取父上下文如果有的话
 type: docs
 weight: 40
 url: /zh/net/aspose.svg.dom/ibrowsingcontext/parent/
 ---
 ## IBrowsingContext.Parent property
 
-获取父上下文（如果有）。
+获取父上下文，如果有的话。
 
 ```csharp
 public IBrowsingContext Parent { get; }

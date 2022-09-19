@@ -1,7 +1,7 @@
 ---
 title: op_Subtraction
 second_title: Справочник по Aspose.SVG для .NET API
-description: Реализует оператор -.
+description: Реализует оператор .
 type: docs
 weight: 80
 url: /ru/net/aspose.svg.drawing/angle/op_subtraction/
@@ -16,8 +16,8 @@ public static Angle operator -(Angle a, Angle b)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| a | Angle | Параметр a. |
-| b | Angle | Параметр b. |
+| a | Angle | Параметр а. |
+| b | Angle | Параметр б. |
 
 ### Возвращаемое значение
 

@@ -1,14 +1,14 @@
 ---
 title: PATHSEG_MOVETO_REL
 second_title: Aspose.SVG for .NET API 参考
-description: 对应于相对移动m 路径数据命令
+description: 对应于相对移动m路径数据命令
 type: docs
 weight: 210
 url: /zh/net/aspose.svg.paths/svgpathseg/pathseg_moveto_rel/
 ---
 ## SVGPathSeg.PATHSEG_MOVETO_REL field
 
-对应于“相对移动”(m) 路径数据命令。
+对应于“相对移动”（m）路径数据命令。
 
 ```csharp
 public const ushort PATHSEG_MOVETO_REL;

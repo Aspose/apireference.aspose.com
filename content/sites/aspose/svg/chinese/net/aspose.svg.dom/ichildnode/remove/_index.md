@@ -1,14 +1,14 @@
 ---
 title: Remove
 second_title: Aspose.SVG for .NET API 参考
-description: 从父节点中删除当前节点
+description: 从父节点移除当前节点
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.dom/ichildnode/remove/
 ---
 ## IChildNode.Remove method
 
-从父节点中删除当前节点。
+从父节点移除当前节点。
 
 ```csharp
 public void Remove()

@@ -1,14 +1,14 @@
 ---
 title: ISVGFilterPrimitiveStandardAttributes
 second_title: Справочник по Aspose.SVG для .NET API
-description: Этот интерфейс определяет набор атрибутов DOM которые являются общими для всех интерфейсов фильтрующих примитивов.
+description: Этот интерфейс определяет набор DOMатрибутов которые являются общими для интерфейсов фильтрующих примитивов.
 type: docs
-weight: 1630
+weight: 1640
 url: /ru/net/aspose.svg.filters/isvgfilterprimitivestandardattributes/
 ---
 ## ISVGFilterPrimitiveStandardAttributes interface
 
-Этот интерфейс определяет набор атрибутов DOM, которые являются общими для всех интерфейсов фильтрующих примитивов.
+Этот интерфейс определяет набор DOM-атрибутов, которые являются общими для интерфейсов фильтрующих примитивов.
 
 ```csharp
 public interface ISVGFilterPrimitiveStandardAttributes
@@ -18,10 +18,10 @@ public interface ISVGFilterPrimitiveStandardAttributes
 
 | Имя | Описание |
 | --- | --- |
-| [Height](../../aspose.svg.filters/isvgfilterprimitivestandardattributes/height) { get; } | Соответствует атрибуту 'высота' данного элемента 'фильтра'. |
-| [Result](../../aspose.svg.filters/isvgfilterprimitivestandardattributes/result) { get; } | Соответствует атрибуту 'result' данного элемента 'filter'. |
-| [Width](../../aspose.svg.filters/isvgfilterprimitivestandardattributes/width) { get; } | Соответствует атрибуту 'width' данного элемента 'filter'. |
-| [X](../../aspose.svg.filters/isvgfilterprimitivestandardattributes/x) { get; } | Соответствует атрибуту 'x' данного элемента 'filter'. |
+| [Height](../../aspose.svg.filters/isvgfilterprimitivestandardattributes/height) { get; } | Соответствует атрибуту "высота" данного элемента "фильтра". |
+| [Result](../../aspose.svg.filters/isvgfilterprimitivestandardattributes/result) { get; } | Соответствует атрибуту «результат» данного элемента «фильтр». |
+| [Width](../../aspose.svg.filters/isvgfilterprimitivestandardattributes/width) { get; } | Соответствует атрибуту «ширина» данного элемента «фильтр». |
+| [X](../../aspose.svg.filters/isvgfilterprimitivestandardattributes/x) { get; } | Соответствует атрибуту «x» данного элемента «фильтр». |
 | [Y](../../aspose.svg.filters/isvgfilterprimitivestandardattributes/y) { get; } | Соответствует атрибуту 'y' данного элемента 'filter'. |
 
 ### Смотрите также

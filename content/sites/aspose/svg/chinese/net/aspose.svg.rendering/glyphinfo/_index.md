@@ -3,7 +3,7 @@ title: GlyphInfo
 second_title: Aspose.SVG for .NET API 参考
 description: 包含字形相关信息
 type: docs
-weight: 2740
+weight: 2750
 url: /zh/net/aspose.svg.rendering/glyphinfo/
 ---
 ## GlyphInfo structure
@@ -18,15 +18,15 @@ public struct GlyphInfo
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Index](../../aspose.svg.rendering/glyphinfo/index) { get; } | 获取字体中此字形的索引。 |
-| [Offset](../../aspose.svg.rendering/glyphinfo/offset) { get; } | 获取到下一个字形的偏移量（以磅为单位）。 |
+| [Index](../../aspose.svg.rendering/glyphinfo/index) { get; } | 获取此字形在字体中的索引。 |
+| [Offset](../../aspose.svg.rendering/glyphinfo/offset) { get; } | 获取到下一个字形的偏移量。 |
 | [Width](../../aspose.svg.rendering/glyphinfo/width) { get; } | 获取字形的宽度，以磅为单位。 |
 
 ## 方法
 
 | 姓名 | 描述 |
 | --- | --- |
-| override [ToString](../../aspose.svg.rendering/glyphinfo/tostring)() | 返回代表此实例的String。 |
+| override [ToString](../../aspose.svg.rendering/glyphinfo/tostring)() | 返回一个String代表这个实例。 |
 
 ### 也可以看看
 

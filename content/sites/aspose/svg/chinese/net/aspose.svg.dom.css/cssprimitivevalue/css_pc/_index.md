@@ -1,14 +1,14 @@
 ---
 title: CSS_PC
 second_title: Aspose.SVG for .NET API 参考
-description: 该值为长度pc可以使用 getFloatValue 方法获取该值
+description: 该值为长度pc该值可以通过getFloatValue方法获取
 type: docs
 weight: 300
 url: /zh/net/aspose.svg.dom.css/cssprimitivevalue/css_pc/
 ---
 ## CSSPrimitiveValue.CSS_PC field
 
-该值为长度（pc）。可以使用 getFloatValue 方法获取该值。
+该值为长度（pc）。该值可以通过getFloatValue方法获取。
 
 ```csharp
 public const ushort CSS_PC;

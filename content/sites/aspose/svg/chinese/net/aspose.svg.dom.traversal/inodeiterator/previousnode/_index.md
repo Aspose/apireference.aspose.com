@@ -8,7 +8,7 @@ url: /zh/net/aspose.svg.dom.traversal/inodeiterator/previousnode/
 ---
 ## INodeIterator.PreviousNode method
 
-返回集合中的前一个节点并将 NodeIterator 在集合中的位置向后移动。
+返回集合中的前一个节点，并将 NodeIterator 在集合中的位置向后移动。
 
 ```csharp
 public Node PreviousNode()
@@ -22,7 +22,7 @@ public Node PreviousNode()
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception) | INVALID_STATE_ERR：如果在调用 分离方法后调用此方法，则引发。 |
+| [DOMException](../../../aspose.svg.dom/domexception) | INVALID_STATE_ERR：如果在调用 detach 方法之后调用此方法，则引发。 |
 
 ### 也可以看看
 

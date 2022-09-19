@@ -1,14 +1,14 @@
 ---
 title: Contains
 second_title: Aspose.SVG for .NET API 参考
-description: 确定MutationObserverInitaspose.svg.dom.mutations/mutationobserverinit是否包含指定的键/值对
+description: 确定是否MutationObserverInitaspose.svg.dom.mutations/mutationobserverinit包含指定的键/值对
 type: docs
 weight: 160
 url: /zh/net/aspose.svg.dom.mutations/mutationobserverinit/contains/
 ---
 ## MutationObserverInit.Contains method
 
-确定[`MutationObserverInit`](../../mutationobserverinit)是否包含指定的键/值对。
+确定是否[`MutationObserverInit`](../../mutationobserverinit)包含指定的键/值对。
 
 ```csharp
 public bool Contains(KeyValuePair<string, object> item)
@@ -20,7 +20,7 @@ public bool Contains(KeyValuePair<string, object> item)
 
 ### 返回值
 
-如果[`MutationObserverInit`](../../mutationobserverinit)包含指定的键/值对，则为真；否则为假。
+真，如果[`MutationObserverInit`](../../mutationobserverinit)包含指定的键/值对；否则为假。
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: SVG_EDGEMODE_NONE
 second_title: Справочник по Aspose.SVG для .NET API
-description: Соответствует значению none.
+description: Соответствует значению нет.
 type: docs
 weight: 190
 url: /ru/net/aspose.svg.filters/svgfeconvolvematrixelement/svg_edgemode_none/
 ---
 ## SVGFEConvolveMatrixElement.SVG_EDGEMODE_NONE field
 
-Соответствует значению 'none'.
+Соответствует значению «нет».
 
 ```csharp
 public const ushort SVG_EDGEMODE_NONE;

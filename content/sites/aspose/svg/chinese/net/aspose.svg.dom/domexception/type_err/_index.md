@@ -1,14 +1,14 @@
 ---
 title: TYPE_ERR
 second_title: Aspose.SVG for .NET API 参考
-description: 无法将表达式转换为返回指定的类型
+description: 表达式无法转换为返回指定类型
 type: docs
 weight: 270
 url: /zh/net/aspose.svg.dom/domexception/type_err/
 ---
 ## DOMException.TYPE_ERR field
 
-无法将表达式转换为返回指定的类型。
+表达式无法转换为返回指定类型。
 
 ```csharp
 public const ushort TYPE_ERR;

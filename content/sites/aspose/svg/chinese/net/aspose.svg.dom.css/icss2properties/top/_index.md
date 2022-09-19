@@ -1,14 +1,14 @@
 ---
 title: Top
 second_title: Aspose.SVG for .NET API 参考
-description: 请参阅 CSS2 中的顶级属性定义
+description: 参见 CSS2 中的 top 属性定义
 type: docs
 weight: 1120
 url: /zh/net/aspose.svg.dom.css/icss2properties/top/
 ---
 ## ICSS2Properties.Top property
 
-请参阅 CSS2 中的顶级属性定义。
+参见 CSS2 中的 top 属性定义。
 
 ```csharp
 public string Top { get; set; }
@@ -16,7 +16,7 @@ public string Top { get; set; }
 
 ### 返回值
 
-顶级属性
+顶级物业
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: PreviousElementSibling
 second_title: Справочник по Aspose.SVG для .NET API
-description: Возвращает первого предшествующего родственного элемента который является элементом и null в противном случае.
+description: Возвращает первого предшествующего брата который является элементом и null в противном случае.
 type: docs
 weight: 20
 url: /ru/net/aspose.svg.dom/inondocumenttypechildnode/previouselementsibling/
 ---
 ## INonDocumentTypeChildNode.PreviousElementSibling property
 
-Возвращает первого предшествующего родственного элемента, который является элементом, и null в противном случае.
+Возвращает первого предшествующего брата, который является элементом, и null в противном случае.
 
 ```csharp
 public Element PreviousElementSibling { get; }
@@ -16,7 +16,7 @@ public Element PreviousElementSibling { get; }
 
 ### Стоимость имущества
 
-Предыдущий одноуровневый элемент.
+Предыдущий родственный элемент.
 
 ### Смотрите также
 

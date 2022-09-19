@@ -1,14 +1,14 @@
 ---
 title: FromCentimeters
 second_title: Справочник по Aspose.SVG для .NET API
-description: Возвращает объектLengthaspose.svg.drawing/length представленный в сантиметрах.
+description: ВозвращаетLengthaspose.svg.drawing/length объект представленный в сантиметрах.
 type: docs
 weight: 50
 url: /ru/net/aspose.svg.drawing/unit/fromcentimeters/
 ---
 ## Unit.FromCentimeters method
 
-Возвращает объект[`Length`](../../length), представленный в сантиметрах.
+Возвращает[`Length`](../../length) объект, представленный в сантиметрах.
 
 ```csharp
 public static Length FromCentimeters(double value)
@@ -20,7 +20,7 @@ public static Length FromCentimeters(double value)
 
 ### Возвращаемое значение
 
-Возвращает объект[`Length`](../../length).
+Возвращает[`Length`](../../length) объект.
 
 ### Смотрите также
 

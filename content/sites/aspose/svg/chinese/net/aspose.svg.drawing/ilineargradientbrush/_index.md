@@ -3,7 +3,7 @@ title: ILinearGradientBrush
 second_title: Aspose.SVG for .NET API 参考
 description: 使用线性渐变定义画笔界面
 type: docs
-weight: 1460
+weight: 1470
 url: /zh/net/aspose.svg.drawing/ilineargradientbrush/
 ---
 ## ILinearGradientBrush interface

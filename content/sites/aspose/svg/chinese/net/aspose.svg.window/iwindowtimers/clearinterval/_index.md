@@ -1,14 +1,14 @@
 ---
 title: ClearInterval
 second_title: Aspose.SVG for .NET API 参考
-description: 取消由句柄
+description: 取消使用由 handle 标识的 setInterval 设置的超时
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.window/iwindowtimers/clearinterval/
 ---
 ## IWindowTimers.ClearInterval method
 
-取消由句柄
+取消使用由 handle 标识的 setInterval() 设置的超时
 
 ```csharp
 public void ClearInterval(int handle)
@@ -16,7 +16,7 @@ public void ClearInterval(int handle)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| handle | Int32 | 句柄标识的 setInterval() 设置的超时。 |
+| handle | Int32 | 手柄。 |
 
 ### 也可以看看
 

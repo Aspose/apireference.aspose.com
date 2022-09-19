@@ -1,14 +1,14 @@
 ---
 title: Get
 second_title: Aspose.SVG for .NET API 参考
-description: 返回名称为 name 的第一个名称-值对的值
+description: 返回名称为的第一个名称值对的值姓名 .
 type: docs
 weight: 30
 url: /zh/net/aspose.svg/iurlsearchparams/get/
 ---
 ## IUrlSearchParams.Get method
 
-返回名称为` name` 的第一个名称-值对的值。
+返回名称为的第一个名称-值对的值`姓名` .
 
 ```csharp
 public string Get(string name)
@@ -20,7 +20,7 @@ public string Get(string name)
 
 ### 返回值
 
-名称为` name` 的第一个名称-值对的值，如果没有，则为 null 。
+第一个名称为的名称-值对的值`姓名`如果没有，则为 null 。
 
 ### 也可以看看
 

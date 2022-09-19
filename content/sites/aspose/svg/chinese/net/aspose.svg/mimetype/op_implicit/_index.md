@@ -1,14 +1,14 @@
 ---
 title: op_Implicit
 second_title: Aspose.SVG for .NET API 参考
-description: 执行从String到MimeTypeaspose.svg/mimetype的隐式转换
+description: 从String至MimeTypeaspose.svg/mimetype .
 type: docs
 weight: 90
 url: /zh/net/aspose.svg/mimetype/op_implicit/
 ---
 ## implicit operator {#op_implicit}
 
-执行从String到[`MimeType`](../../mimetype)的隐式转换。
+从String至[`MimeType`](../../mimetype) .
 
 ```csharp
 public static implicit operator MimeType(string @string)
@@ -32,7 +32,7 @@ public static implicit operator MimeType(string @string)
 
 ## implicit operator {#op_implicit_1}
 
-执行从[`MimeType`](../../mimetype)到String的隐式转换。
+从[`MimeType`](../../mimetype)至String .
 
 ```csharp
 public static implicit operator string(MimeType type)
@@ -40,7 +40,7 @@ public static implicit operator string(MimeType type)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| type | MimeType | mime 类型。 |
+| type | MimeType | 哑剧类型。 |
 
 ### 返回值
 

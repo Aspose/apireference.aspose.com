@@ -1,14 +1,14 @@
 ---
 title: CSS_EXS
 second_title: Aspose.SVG for .NET API 参考
-description: 该值为长度exs可以使用 getFloatValue 方法获取该值
+description: 该值为长度exs该值可以通过getFloatValue方法获取
 type: docs
 weight: 210
 url: /zh/net/aspose.svg.dom.css/cssprimitivevalue/css_exs/
 ---
 ## CSSPrimitiveValue.CSS_EXS field
 
-该值为长度（exs）。可以使用 getFloatValue 方法获取该值。
+该值为长度（exs）。该值可以通过getFloatValue方法获取。
 
 ```csharp
 public const ushort CSS_EXS;

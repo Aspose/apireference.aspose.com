@@ -1,14 +1,14 @@
 ---
 title: MimeType
 second_title: Справочник по Aspose.SVG для .NET API
-description: Представляет типы интернет-носителей
+description: Представляет типы интернетмедиа
 type: docs
-weight: 2170
+weight: 2180
 url: /ru/net/aspose.svg/mimetype/
 ---
 ## MimeType class
 
-Представляет типы интернет-носителей
+Представляет типы интернет-медиа
 
 ```csharp
 public class MimeType : IEquatable<MimeType>
@@ -33,11 +33,11 @@ public class MimeType : IEquatable<MimeType>
 | --- | --- |
 | static [FromFileExtension](../../aspose.svg/mimetype/fromfileextension)(string) | Создает новый тип MIME на основе расширения файла. |
 | [Equals](../../aspose.svg/mimetype/equals#equals)(MimeType) | Указывает, равен ли текущий объект другому объекту того же типа. |
-| override [Equals](../../aspose.svg/mimetype/equals#equals_1)(object) | Определяет, равен ли указанныйObjectтекущемуObject. |
-| override [GetHashCode](../../aspose.svg/mimetype/gethashcode)() | Возвращает хэш-код для данного экземпляра. |
-| override [ToString](../../aspose.svg/mimetype/tostring)() | ВозвращаетString, который представляет тип Mime. |
+| override [Equals](../../aspose.svg/mimetype/equals#equals_1)(object) | Определяет, является ли указанныйObject равен текущемуObject . |
+| override [GetHashCode](../../aspose.svg/mimetype/gethashcode)() | Возвращает хэш-код для этого экземпляра. |
+| override [ToString](../../aspose.svg/mimetype/tostring)() | ВозвращаетString который представляет тип Mime. |
 | [operator ==](../../aspose.svg/mimetype/op_equality) | Сравнивает два типа Mime и возвращает логическое значение, указывающее, совпадают ли они. |
-| [implicit operator](../../aspose.svg/mimetype/op_implicit#op_implicit) | Выполняет неявное преобразование изStringв[`MimeType`](../mimetype). (2 operators) |
+| [implicit operator](../../aspose.svg/mimetype/op_implicit#op_implicit) | Выполняет неявное преобразование изString к[`MimeType`](../mimetype) . (2 operators) |
 | [operator !=](../../aspose.svg/mimetype/op_inequality) | Сравнивает два типа Mime и возвращает логическое значение, указывающее, совпадают ли они. |
 
 ### Смотрите также

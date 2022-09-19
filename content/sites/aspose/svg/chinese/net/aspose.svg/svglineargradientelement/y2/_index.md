@@ -1,14 +1,14 @@
 ---
 title: Y2
 second_title: Aspose.SVG for .NET API 参考
-description: 对应于给定 linearGradient 元素上的属性 y2
+description: 对应于给定linearGradient元素上的属性y2
 type: docs
 weight: 40
 url: /zh/net/aspose.svg/svglineargradientelement/y2/
 ---
 ## SVGLinearGradientElement.Y2 property
 
-对应于给定 'linearGradient' 元素上的属性 'y2'。
+对应于给定“linearGradient”元素上的属性“y2”。
 
 ```csharp
 public SVGAnimatedLength Y2 { get; }

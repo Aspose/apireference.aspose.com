@@ -16,7 +16,7 @@ public Color ToNative()
 
 ### 返回值
 
-Color对象。
+这Color目的。
 
 ### 也可以看看
 

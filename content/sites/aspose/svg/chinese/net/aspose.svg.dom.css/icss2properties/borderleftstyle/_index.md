@@ -1,14 +1,14 @@
 ---
 title: BorderLeftStyle
 second_title: Aspose.SVG for .NET API 参考
-description: 请参见 CSS2 中的border-left-style 属性定义
+description: 参见CSS2中的borderleftstyle属性定义
 type: docs
 weight: 170
 url: /zh/net/aspose.svg.dom.css/icss2properties/borderleftstyle/
 ---
 ## ICSS2Properties.BorderLeftStyle property
 
-请参见 CSS2 中的border-left-style 属性定义。
+参见CSS2中的border-left-style属性定义。
 
 ```csharp
 public string BorderLeftStyle { get; set; }

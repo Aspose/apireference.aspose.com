@@ -1,14 +1,14 @@
 ---
 title: SVGException
 second_title: Aspose.SVG for .NET API 参考
-description: 初始化SVGExceptionaspose.svg/svgexception类的新实例
+description: 初始化SVGExceptionaspose.svg/svgexception类.
 type: docs
 weight: 10
 url: /zh/net/aspose.svg/svgexception/svgexception/
 ---
 ## SVGException constructor
 
-初始化[`SVGException`](../../svgexception)类的新实例。
+初始化[`SVGException`](../../svgexception)类.
 
 ```csharp
 public SVGException(ushort code)

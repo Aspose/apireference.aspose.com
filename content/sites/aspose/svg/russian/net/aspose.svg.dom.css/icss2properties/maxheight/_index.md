@@ -1,7 +1,7 @@
 ---
 title: MaxHeight
 second_title: Справочник по Aspose.SVG для .NET API
-description: См. определение свойства max-height в CSS2.
+description: См. определение свойства maxheight в CSS2.
 type: docs
 weight: 700
 url: /ru/net/aspose.svg.dom.css/icss2properties/maxheight/
@@ -16,7 +16,7 @@ public string MaxHeight { get; set; }
 
 ### Возвращаемое значение
 
-max-height свойство
+свойство максимальной высоты
 
 ### Смотрите также
 

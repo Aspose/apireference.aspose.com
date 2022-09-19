@@ -1,14 +1,14 @@
 ---
 title: Clone
 second_title: Aspose.SVG for .NET API 参考
-description: 使用与现有实例相同的属性值创建 GdiGraphicContext 类的新实例
+description: 创建 GdiGraphicContext 类的新实例其属性值与现有实例相同
 type: docs
 weight: 30
 url: /zh/net/aspose.svg.rendering.image/imagedevice.imagegraphiccontext/clone/
 ---
 ## ImageDevice.ImageGraphicContext.Clone method
 
-使用与现有实例相同的属性值创建 GdiGraphicContext 类的新实例。
+创建 GdiGraphicContext 类的新实例，其属性值与现有实例相同。
 
 ```csharp
 public override GraphicContext Clone()

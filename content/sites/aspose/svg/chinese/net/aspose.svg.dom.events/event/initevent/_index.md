@@ -1,14 +1,14 @@
 ---
 title: InitEvent
 second_title: Aspose.SVG for .NET API 参考
-description: InitEventaspose.svg.dom.events/event/initevent方法用于初始化通过 IDocumentEventaspose.svg.dom.events/idocumentevent接口创建的Eventaspose.svg.dom.events/event的值
+description: 的InitEventaspose.svg.dom.events/event/initevent方法用于初始化一个值Eventaspose.svg.dom.events/event通过 创建IDocumentEventaspose.svg.dom.events/idocumentevent接口.
 type: docs
 weight: 110
 url: /zh/net/aspose.svg.dom.events/event/initevent/
 ---
 ## Event.InitEvent method
 
-`InitEvent`方法用于初始化通过 [`IDocumentEvent`](../../idocumentevent)接口创建的[`Event`](../../event)的值。
+的`InitEvent`方法用于初始化一个值[`Event`](../../event)通过 创建[`IDocumentEvent`](../../idocumentevent)接口.
 
 ```csharp
 public void InitEvent(string type, bool bubbles, bool cancelable)
@@ -17,12 +17,12 @@ public void InitEvent(string type, bool bubbles, bool cancelable)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | type | String | 事件类型。 |
-| bubbles | Boolean | 如果设置为` true` [气泡]。 |
-| cancelable | Boolean | 如果设置为` true` [可取消]。 |
+| bubbles | Boolean | 如果设置为`真的` [气泡]。 |
+| cancelable | Boolean | 如果设置为`真的` [可取消]。 |
 
 ### 评论
 
-这个方法只能在通过[`DispatchEvent`](../../ieventtarget/dispatchevent)方法， 尽管必要时在该阶段可能会多次调用它。 如果多次调用最终调用优先。 如果从 Event 接口的子类调用，只修改 initEvent 方法中指定的值，所有其他属性保持不变。
+这个方法只能在事件通过[`DispatchEvent`](../../ieventtarget/dispatchevent)方法， 尽管在该阶段可能会在必要时调用多次。 如果多次调用，则最终调用优先。 如果从 Event 接口的子类调用，则仅修改 initEvent 方法中指定的值，所有其他属性保持不变。
 
 ### 也可以看看
 

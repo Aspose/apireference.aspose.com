@@ -1,7 +1,7 @@
 ---
 title: BackgroundAttachment
 second_title: Справочник по Aspose.SVG для .NET API
-description: См. определение свойства background-attachment в CSS2.
+description: См. определение свойства backgroundattachment в CSS2.
 type: docs
 weight: 30
 url: /ru/net/aspose.svg.dom.css/icss2properties/backgroundattachment/

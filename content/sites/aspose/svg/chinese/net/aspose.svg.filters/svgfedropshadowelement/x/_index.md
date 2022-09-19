@@ -1,14 +1,14 @@
 ---
 title: X
 second_title: Aspose.SVG for .NET API 参考
-description: 对应于给定 feDropShadow 元素的属性 x
+description: 对应于给定feDropShadow元素的属性x
 type: docs
 weight: 90
 url: /zh/net/aspose.svg.filters/svgfedropshadowelement/x/
 ---
 ## SVGFEDropShadowElement.X property
 
-对应于给定 'feDropShadow' 元素的属性 'x'。
+对应于给定“feDropShadow”元素的属性“x”。
 
 ```csharp
 public SVGAnimatedLength X { get; }

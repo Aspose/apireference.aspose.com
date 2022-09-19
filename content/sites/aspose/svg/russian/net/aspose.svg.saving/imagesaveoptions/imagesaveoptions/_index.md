@@ -1,14 +1,14 @@
 ---
 title: ImageSaveOptions
 second_title: Справочник по Aspose.SVG для .NET API
-description: Инициализирует новый экземпляр классаImageSaveOptionsaspose.svg.saving/imagesaveoptionsPngбудет использоваться как формат изображения по умолчанию.
+description: Инициализирует новый экземплярImageSaveOptionsaspose.svg.saving/imagesaveoptions учебный классPng будет использоваться как формат изображения по умолчанию.
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.saving/imagesaveoptions/imagesaveoptions/
 ---
 ## ImageSaveOptions() {#constructor}
 
-Инициализирует новый экземпляр класса[`ImageSaveOptions`](../../imagesaveoptions);Pngбудет использоваться как формат изображения по умолчанию.
+Инициализирует новый экземпляр[`ImageSaveOptions`](../../imagesaveoptions) учебный класс;Png будет использоваться как формат изображения по умолчанию.
 
 ```csharp
 public ImageSaveOptions()
@@ -24,7 +24,7 @@ public ImageSaveOptions()
 
 ## ImageSaveOptions(ImageFormat) {#constructor_1}
 
-Формат изображения[`ImageFormat`](../../../aspose.svg.rendering.image/imageformat)на основе инициализации
+Формат изображения[`ImageFormat`](../../../aspose.svg.rendering.image/imageformat) на основе initialization
 
 ```csharp
 public ImageSaveOptions(ImageFormat format)

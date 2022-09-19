@@ -1,14 +1,14 @@
 ---
 title: ScaleNonUniform
 second_title: Aspose.SVG for .NET API 参考
-description: 在当前矩阵上后乘一个非均匀尺度变换并返回结果矩阵
+description: 在当前矩阵上后乘一个非均匀比例变换并返回结果矩阵
 type: docs
 weight: 100
 url: /zh/net/aspose.svg.datatypes/svgmatrix/scalenonuniform/
 ---
 ## SVGMatrix.ScaleNonUniform method
 
-在当前矩阵上后乘一个非均匀尺度变换并返回结果矩阵。
+在当前矩阵上后乘一个非均匀比例变换并返回结果矩阵。
 
 ```csharp
 public SVGMatrix ScaleNonUniform(float scaleFactorX, float scaleFactorY)

@@ -1,14 +1,14 @@
 ---
 title: Stress
 second_title: Aspose.SVG for .NET API 参考
-description: 参见 CSS2 中的压力属性定义
+description: 参见CSS2中的压力属性定义
 type: docs
 weight: 1050
 url: /zh/net/aspose.svg.dom.css/icss2properties/stress/
 ---
 ## ICSS2Properties.Stress property
 
-参见 CSS2 中的压力属性定义。
+参见CSS2中的压力属性定义。
 
 ```csharp
 public string Stress { get; set; }
@@ -16,7 +16,7 @@ public string Stress { get; set; }
 
 ### 返回值
 
-应力属性
+应力性质
 
 ### 也可以看看
 

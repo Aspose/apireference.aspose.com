@@ -1,14 +1,14 @@
 ---
 title: ResponseMessage
 second_title: Справочник по Aspose.SVG для .NET API
-description: Инициализирует новый экземпляр классаResponseMessageaspose.svg.net/responsemessage.
+description: Инициализирует новый экземплярResponseMessageaspose.svg.net/responsemessage класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.net/responsemessage/responsemessage/
 ---
 ## ResponseMessage constructor
 
-Инициализирует новый экземпляр класса[`ResponseMessage`](../../responsemessage).
+Инициализирует новый экземпляр[`ResponseMessage`](../../responsemessage) класс.
 
 ```csharp
 public ResponseMessage(HttpStatusCode status)

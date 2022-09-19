@@ -1,14 +1,14 @@
 ---
 title: IXPathNSResolver
 second_title: Aspose.SVG for .NET API 参考
-description:  XPathNSResolver 接口允许 前缀 字符串在 表达式中正确绑定到 namespaceURI 字符串 IXPathEvaluator./ixpathevaluator可以从 IXPathNSResolver./ixpathnsresolver构造一个实现一个节点或者接口可以是任何应用程序实现的 
+description: 的XPathNSResolver接口许可证字首 中要正确绑定的表达式中的字符串命名空间URI字符串 IXPathEvaluator./ixpathevaluator可以构造 的实现IXPathNSResolver./ixpathnsresolver来自一个节点或者接口可能是 由任何应用程序实现的
 type: docs
-weight: 1340
+weight: 1330
 url: /zh/net/aspose.svg.dom.xpath/ixpathnsresolver/
 ---
 ## IXPathNSResolver interface
 
-` XPathNSResolver` 接口允许` 前缀` 字符串在 表达式中正确绑定到` namespaceURI` 字符串。 [`IXPathEvaluator`](../ixpathevaluator)可以从 [`IXPathNSResolver`](../ixpathnsresolver)构造一个实现一个节点，或者接口可以是任何应用程序实现的 。
+的`XPathNSResolver`接口许可证`字首` 中要正确绑定的表达式中的字符串`命名空间URI`字符串。 [`IXPathEvaluator`](../ixpathevaluator)可以构造 的实现[`IXPathNSResolver`](../ixpathnsresolver)来自一个节点，或者接口可能是 由任何应用程序实现的。
 
 ```csharp
 public interface IXPathNSResolver
@@ -18,7 +18,7 @@ public interface IXPathNSResolver
 
 | 姓名 | 描述 |
 | --- | --- |
-| [LookupNamespaceURI](../../aspose.svg.dom.xpath/ixpathnsresolver/lookupnamespaceuri)(string) | 查找与给定名称空间前缀关联的名称空间 URI。 XPath 求值器绝不能使用` null` 或空的 参数调用它，因为这样做的结果是未定义的。 |
+| [LookupNamespaceURI](../../aspose.svg.dom.xpath/ixpathnsresolver/lookupnamespaceuri)(string) | 查找与给定命名空间前缀关联的命名空间 URI。 XPath 求值器决不能用`无效的`或空 参数，因为这样做的结果是未定义的。 |
 
 ### 也可以看看
 

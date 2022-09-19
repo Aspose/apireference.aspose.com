@@ -16,7 +16,7 @@ public string Username { get; set; }
 
 ### 适当的价值
 
-用户名。
+用户名.
 
 ### 也可以看看
 

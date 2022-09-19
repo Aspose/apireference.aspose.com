@@ -1,14 +1,14 @@
 ---
 title: SHOW_ENTITY
 second_title: Aspose.SVG for .NET API 参考
-description: 显示实体节点这仅在创建 一个迭代器或 tree-walker 时才有意义其中 Entity 节点作为其 根在这种情况下意味着Entity 节点将出现在遍历的第一个位置由于 实体不是文档树的一部分所以当 遍历文档树时它们不会出现
+description: 显示实体节点这仅在创建 一个以实体节点作为其 根的迭代器或 treewalker 时才有意义在这种情况下意味着Entity 节点将出现在遍历的第一个位置由于 实体不是文档树的一部分因此它们不会在 遍历文档树时出现
 type: docs
 weight: 140
 url: /zh/net/aspose.svg.dom.traversal.filters/nodefilter/show_entity/
 ---
 ## NodeFilter.SHOW_ENTITY field
 
-显示实体节点。这仅在创建 一个迭代器或 tree-walker 时才有意义，其中 Entity 节点作为其 根；在这种情况下，意味着Entity 节点将出现在遍历的第一个位置。由于 实体不是文档树的一部分，所以当 遍历文档树时它们不会出现。
+显示实体节点。这仅在创建 一个以实体节点作为其 根的迭代器或 tree-walker 时才有意义；在这种情况下，意味着Entity 节点将出现在遍历的第一个位置。由于 实体不是文档树的一部分，因此它们不会在 遍历文档树时出现。
 
 ```csharp
 public const long SHOW_ENTITY;

@@ -1,14 +1,14 @@
 ---
 title: ICSSFontFaceRule
 second_title: Справочник по Aspose.SVG для .NET API
-description: Интерфейс CSSFontFaceRule представляет правилоfont-face в таблице стилей CSS. Правилоfont-face используется для хранения набора описаний шрифтов.
+description: Интерфейс CSSFontFaceRule представляет правило fontface в таблице стилей CSS. Правило fontface используется для хранения набора описаний шрифтов.
 type: docs
-weight: 560
+weight: 550
 url: /ru/net/aspose.svg.dom.css/icssfontfacerule/
 ---
 ## ICSSFontFaceRule interface
 
-Интерфейс CSSFontFaceRule представляет правило@font-face в таблице стилей CSS. Правило@font-face используется для хранения набора описаний шрифтов.
+Интерфейс CSSFontFaceRule представляет правило @font-face в таблице стилей CSS. Правило @font-face используется для хранения набора описаний шрифтов.
 
 ```csharp
 public interface ICSSFontFaceRule : ICSSRule

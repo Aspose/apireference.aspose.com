@@ -8,7 +8,7 @@ url: /ru/net/aspose.svg.filters/svgfecompositeelement/svg_fecomposite_operator_a
 ---
 ## SVGFECompositeElement.SVG_FECOMPOSITE_OPERATOR_ATOP field
 
-Соответствует значению 'поверх'.
+Соответствует значению "поверх".
 
 ```csharp
 public const ushort SVG_FECOMPOSITE_OPERATOR_ATOP;

@@ -1,14 +1,14 @@
 ---
 title: Cursor
 second_title: Aspose.SVG for .NET API 参考
-description: 请参见 CSS2 中的光标属性定义
+description: 参见CSS2中的光标属性定义
 type: docs
 weight: 410
 url: /zh/net/aspose.svg.dom.css/icss2properties/cursor/
 ---
 ## ICSS2Properties.Cursor property
 
-请参见 CSS2 中的光标属性定义。
+参见CSS2中的光标属性定义。
 
 ```csharp
 public string Cursor { get; set; }
@@ -16,7 +16,7 @@ public string Cursor { get; set; }
 
 ### 返回值
 
-光标属性
+游标属性
 
 ### 也可以看看
 

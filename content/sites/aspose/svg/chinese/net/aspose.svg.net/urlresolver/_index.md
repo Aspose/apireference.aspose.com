@@ -3,7 +3,7 @@ title: UrlResolver
 second_title: Aspose.SVG for .NET API 参考
 description: 表示用于通过统一资源标识符 URI 解析绝对 URL 的实用程序类
 type: docs
-weight: 2430
+weight: 2440
 url: /zh/net/aspose.svg.net/urlresolver/
 ---
 ## UrlResolver class

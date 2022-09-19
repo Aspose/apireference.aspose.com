@@ -1,14 +1,14 @@
 ---
 title: FileCreateStreamProvider
 second_title: Справочник по Aspose.SVG для .NET API
-description: Инициализирует новый экземпляр классаFileCreateStreamProvideraspose.svg.io/filecreatestreamprovider.
+description: Инициализирует новый экземплярFileCreateStreamProvideraspose.svg.io/filecreatestreamprovider класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.io/filecreatestreamprovider/filecreatestreamprovider/
 ---
 ## FileCreateStreamProvider() {#constructor}
 
-Инициализирует новый экземпляр класса[`FileCreateStreamProvider`](../../filecreatestreamprovider).
+Инициализирует новый экземпляр[`FileCreateStreamProvider`](../../filecreatestreamprovider) класс.
 
 ```csharp
 public FileCreateStreamProvider()
@@ -24,7 +24,7 @@ public FileCreateStreamProvider()
 
 ## FileCreateStreamProvider(string) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`FileCreateStreamProvider`](../../filecreatestreamprovider).
+Инициализирует новый экземпляр[`FileCreateStreamProvider`](../../filecreatestreamprovider) класс.
 
 ```csharp
 public FileCreateStreamProvider(string name)
@@ -44,7 +44,7 @@ public FileCreateStreamProvider(string name)
 
 ## FileCreateStreamProvider(string, string) {#constructor_2}
 
-Инициализирует новый экземпляр класса[`FileCreateStreamProvider`](../../filecreatestreamprovider).
+Инициализирует новый экземпляр[`FileCreateStreamProvider`](../../filecreatestreamprovider) класс.
 
 ```csharp
 public FileCreateStreamProvider(string directory, string name)

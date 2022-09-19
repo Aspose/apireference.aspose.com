@@ -8,7 +8,7 @@ url: /ru/net/aspose.svg.filters/svgfeblendelement/svg_feblend_mode_multiply/
 ---
 ## SVGFEBlendElement.SVG_FEBLEND_MODE_MULTIPLY field
 
-Соответствует значению 'умножить'.
+Соответствует значению «умножить».
 
 ```csharp
 public const ushort SVG_FEBLEND_MODE_MULTIPLY;

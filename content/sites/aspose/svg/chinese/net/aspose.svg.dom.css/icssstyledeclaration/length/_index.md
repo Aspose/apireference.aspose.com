@@ -1,14 +1,14 @@
 ---
 title: Length
 second_title: Aspose.SVG for .NET API 参考
-description: 在此声明块中已显式设置的属性数有效索引的范围是 0 到 length-1含
+description: 已在此声明块中显式设置的属性数有效索引的范围是 0 到 length1 含
 type: docs
 weight: 30
 url: /zh/net/aspose.svg.dom.css/icssstyledeclaration/length/
 ---
 ## ICSSStyleDeclaration.Length property
 
-在此声明块中已显式设置的属性数。有效索引的范围是 0 到 length-1（含）。
+已在此声明块中显式设置的属性数。有效索引的范围是 0 到 length-1 （含）。
 
 ```csharp
 public int Length { get; }

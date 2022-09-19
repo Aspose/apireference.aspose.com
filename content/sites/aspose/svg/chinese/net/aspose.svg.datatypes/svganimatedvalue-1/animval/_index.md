@@ -1,14 +1,14 @@
 ---
 title: AnimVal
 second_title: Aspose.SVG for .NET API 参考
-description: 如果给定的属性或属性正在动画则包含属性或属性的当前动画值如果给定的属性或属性当前没有被动画化则包含与 baseVal 相同的值
+description: 如果给定的属性或属性正在动画则包含属性或属性的当前动画值如果给定的属性或属性当前没有被动画化则包含与 baseVal. 相同的值
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.datatypes/svganimatedvalue-1/animval/
 ---
 ## SVGAnimatedValue&lt;T&gt;.AnimVal property
 
-如果给定的属性或属性正在动画，则包含属性或属性的当前动画值。如果给定的属性或属性当前没有被动画化，则包含与 baseVal 相同的值。
+如果给定的属性或属性正在动画，则包含属性或属性的当前动画值。如果给定的属性或属性当前没有被动画化，则包含与 baseVal. 相同的值
 
 ```csharp
 public virtual T AnimVal { get; }
@@ -16,7 +16,7 @@ public virtual T AnimVal { get; }
 
 ### 适当的价值
 
-` true` if [动画值]；否则，` false` 。
+`真的`if [动画值]；否则，`错误的` .
 
 ### 也可以看看
 

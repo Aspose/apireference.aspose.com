@@ -1,14 +1,14 @@
 ---
 title: TEXTPATH_SPACINGTYPE_EXACT
 second_title: Справочник по Aspose.SVG для .NET API
-description: Соответствует значению точно.
+description: Соответствует точному значению.
 type: docs
 weight: 90
 url: /ru/net/aspose.svg/svgtextpathelement/textpath_spacingtype_exact/
 ---
 ## SVGTextPathElement.TEXTPATH_SPACINGTYPE_EXACT field
 
-Соответствует значению «точно».
+Соответствует точному значению.
 
 ```csharp
 public const ushort TEXTPATH_SPACINGTYPE_EXACT;

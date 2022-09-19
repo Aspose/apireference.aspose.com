@@ -1,7 +1,7 @@
 ---
 title: BorderSpacing
 second_title: Справочник по Aspose.SVG для .NET API
-description: См. определение свойства border-spacing в CSS2.
+description: См. определение свойства borderspacing в CSS2.
 type: docs
 weight: 230
 url: /ru/net/aspose.svg.dom.css/icss2properties/borderspacing/
@@ -16,7 +16,7 @@ public string BorderSpacing { get; set; }
 
 ### Возвращаемое значение
 
-свойство интервала между границами
+пограничное свойство
 
 ### Смотрите также
 

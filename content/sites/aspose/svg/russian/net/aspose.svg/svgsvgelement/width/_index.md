@@ -1,14 +1,14 @@
 ---
 title: Width
 second_title: Справочник по Aspose.SVG для .NET API
-description: Соответствует атрибуту width данного элемента svg.
+description: Соответствует атрибуту ширина данного элемента svg.
 type: docs
 weight: 60
 url: /ru/net/aspose.svg/svgsvgelement/width/
 ---
 ## SVGSVGElement.Width property
 
-Соответствует атрибуту 'width' данного элемента 'svg'.
+Соответствует атрибуту «ширина» данного элемента «svg».
 
 ```csharp
 public SVGAnimatedLength Width { get; }
@@ -16,7 +16,7 @@ public SVGAnimatedLength Width { get; }
 
 ### Стоимость имущества
 
-Соответствует атрибуту 'width' данного элемента 'svg'.
+Соответствует атрибуту «ширина» данного элемента «svg».
 
 ### Смотрите также
 

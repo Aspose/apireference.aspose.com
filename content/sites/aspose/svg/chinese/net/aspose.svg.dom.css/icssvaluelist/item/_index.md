@@ -1,14 +1,14 @@
 ---
 title: Item
 second_title: Aspose.SVG for .NET API 参考
-description: 方法返回指定索引处的CSSValueaspose.svg.dom.css/cssvalue http//www.w3.org/TR/2000/REC-DOM-Level-2-Style-20001113/css.htmlCSS-CSSValueList
+description: 方法返回CSSValueaspose.svg.dom.css/cssvalue在指定的索引处 http//www.w3.org/TR/2000/RECDOMLevel2Style20001113/css.htmlCSSCSSValueList
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.dom.css/icssvaluelist/item/
 ---
 ## ICSSValueList indexer
 
-方法返回指定索引处的[`CSSValue`](../../cssvalue)。 http://www.w3.org/TR/2000/REC-DOM-Level-2-Style-20001113/css.html#CSS-CSSValueList
+方法返回[`CSSValue`](../../cssvalue)在指定的索引处。 http://www.w3.org/TR/2000/REC-DOM-Level-2-Style-20001113/css.html#CSS-CSSValueList
 
 ```csharp
 public CSSValue this[int index] { get; }
@@ -16,15 +16,15 @@ public CSSValue this[int index] { get; }
 
 | 范围 | 描述 |
 | --- | --- |
-| index | 索引。 |
+| index | 指数。 |
 
 ### 返回值
 
-CSS 值。
+CSSValue.
 
 ### 适当的价值
 
-[`CSSValue`](../../cssvalue)。
+的[`CSSValue`](../../cssvalue) .
 
 ### 也可以看看
 

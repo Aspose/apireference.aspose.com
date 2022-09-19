@@ -1,14 +1,14 @@
 ---
 title: TextLength
 second_title: Aspose.SVG for .NET API 参考
-description: 对应于给定元素的属性textLength
+description: 对应于给定元素上的属性textLength
 type: docs
 weight: 20
 url: /zh/net/aspose.svg/svgtextcontentelement/textlength/
 ---
 ## SVGTextContentElement.TextLength property
 
-对应于给定元素的属性“textLength”。
+对应于给定元素上的属性“textLength”。
 
 ```csharp
 public SVGAnimatedLength TextLength { get; }

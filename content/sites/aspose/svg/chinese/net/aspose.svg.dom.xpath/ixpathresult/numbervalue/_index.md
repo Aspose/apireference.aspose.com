@@ -18,7 +18,7 @@ public double NumberValue { get; }
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception) | TYPE_ERR: 如果` resultType` 不是 则引发` 编号` 类型。 |
+| [DOMException](../../../aspose.svg.dom/domexception) | TYPE_ERR：如果出现则引发`结果类型`不是 `数字`类型。 |
 
 ### 也可以看看
 

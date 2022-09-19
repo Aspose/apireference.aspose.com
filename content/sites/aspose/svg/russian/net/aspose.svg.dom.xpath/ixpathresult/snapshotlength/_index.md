@@ -1,14 +1,14 @@
 ---
 title: SnapshotLength
 second_title: Справочник по Aspose.SVG для .NET API
-description: Количество узлов в снимке результата. Допустимые значения для индексов snapshotItem  0 до snapshotLength-1 включительно.
+description: Количество узлов в снимке результата. Допустимые значения индексов snapshotItem 0 кsnapshotLength1 включительно.
 type: docs
 weight: 60
 url: /ru/net/aspose.svg.dom.xpath/ixpathresult/snapshotlength/
 ---
 ## IXPathResult.SnapshotLength property
 
-Количество узлов в снимке результата. Допустимые значения для индексов snapshotItem :` 0` до` snapshotLength-1` включительно.
+Количество узлов в снимке результата. Допустимые значения индексов snapshotItem :`0` к`snapshotLength-1` включительно.
 
 ```csharp
 public int SnapshotLength { get; }
@@ -18,7 +18,7 @@ public int SnapshotLength { get; }
 
 | исключение | условие |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception) | TYPE_ERR: возникает, если resultType не ` UnorderedNodeSnapshot` type или` OrderedNodeSnapshot` type. |
+| [DOMException](../../../aspose.svg.dom/domexception) | TYPE_ERR: возникает, если resultType не равен `Неупорядоченный снимок узла` тип или`Снимок упорядоченного узла` тип. |
 
 ### Смотрите также
 

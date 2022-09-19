@@ -1,14 +1,14 @@
 ---
 title: LengthOrAuto
 second_title: Справочник по Aspose.SVG для .NET API
-description: Инициализирует новый экземпляр классаLengthOrAutoaspose.svg.drawing/lengthorautoи устанавливает состояние auto.
+description: Инициализирует новый экземплярLengthOrAutoaspose.svg.drawing/lengthorauto class и устанавливает состояние auto.
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.drawing/lengthorauto/lengthorauto/
 ---
 ## LengthOrAuto() {#constructor}
 
-Инициализирует новый экземпляр класса[`LengthOrAuto`](../../lengthorauto)и устанавливает состояние 'auto'.
+Инициализирует новый экземпляр[`LengthOrAuto`](../../lengthorauto) class и устанавливает состояние «auto».
 
 ```csharp
 public LengthOrAuto()
@@ -24,7 +24,7 @@ public LengthOrAuto()
 
 ## LengthOrAuto(Length) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`LengthOrAuto`](../../lengthorauto)и устанавливает состояние «длина».
+Инициализирует новый экземпляр[`LengthOrAuto`](../../lengthorauto)класс и устанавливает состояние «длина».
 
 ```csharp
 public LengthOrAuto(Length length)

@@ -16,7 +16,7 @@ public DocumentType Doctype { get; }
 
 ### 适当的价值
 
-文档类型。
+文档类型.
 
 ### 也可以看看
 

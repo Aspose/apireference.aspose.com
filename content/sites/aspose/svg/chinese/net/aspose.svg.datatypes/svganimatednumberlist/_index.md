@@ -1,14 +1,14 @@
 ---
 title: SVGAnimatedNumberList
 second_title: Aspose.SVG for .NET API 参考
-description: 用于接受数字列表并且可以设置动画的属性
+description: 用于带有数字列表并且可以动画的属性
 type: docs
-weight: 170
+weight: 160
 url: /zh/net/aspose.svg.datatypes/svganimatednumberlist/
 ---
 ## SVGAnimatedNumberList class
 
-用于接受数字列表并且可以设置动画的属性。
+用于带有数字列表并且可以动画的属性。
 
 ```csharp
 public class SVGAnimatedNumberList : SVGAnimatedValue<SVGNumberList>
@@ -25,9 +25,9 @@ public class SVGAnimatedNumberList : SVGAnimatedValue<SVGNumberList>
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose)() | 释放非托管和（可选）托管资源。 |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | 此方法用于检索 ECMAScript 对象Type。 |
-| override [ToString](../../aspose.svg.datatypes/svganimatednumberlist/tostring)() | 返回代表此实例的String。 |
+| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose)() | 释放非托管和 - 可选 - 托管资源。 |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | 此方法用于检索 ECMAScript 对象Type . |
+| override [ToString](../../aspose.svg.datatypes/svganimatednumberlist/tostring)() | 返回一个String代表这个实例。 |
 
 ### 也可以看看
 

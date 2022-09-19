@@ -1,14 +1,14 @@
 ---
 title: op_GreaterThanOrEqual
 second_title: Aspose.SVG for .NET API 参考
-description: 实现运算符 gt
+description: 实现运算符 gt.
 type: docs
 weight: 40
 url: /zh/net/aspose.svg.drawing/frequency/op_greaterthanorequal/
 ---
 ## Frequency GreaterThanOrEqual operator
 
-实现运算符 &gt;=。
+实现运算符 &gt;=.
 
 ```csharp
 public static bool operator >=(Frequency a, Frequency b)
@@ -16,8 +16,8 @@ public static bool operator >=(Frequency a, Frequency b)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| a | Frequency | 参数a。 |
-| b | Frequency | 参数 b。 |
+| a | Frequency | 参数 a。 |
+| b | Frequency | 参数 B. |
 
 ### 返回值
 

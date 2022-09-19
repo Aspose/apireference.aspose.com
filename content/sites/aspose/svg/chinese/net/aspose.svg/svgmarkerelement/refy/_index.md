@@ -16,7 +16,7 @@ public SVGAnimatedLength RefY { get; }
 
 ### 适当的价值
 
-给定 'marker' 元素的属性 'refY'。
+给定'marker'元素的属性'refY'。
 
 ### 也可以看看
 

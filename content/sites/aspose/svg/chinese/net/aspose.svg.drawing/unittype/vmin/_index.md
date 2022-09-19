@@ -1,14 +1,14 @@
 ---
 title: Vmin
 second_title: Aspose.SVG for .NET API 参考
-description: 测量是相对于视口小尺寸的 1 试试看
+description: 测量是相对于视口 较小尺寸的 1 试试看
 type: docs
 weight: 290
 url: /zh/net/aspose.svg.drawing/unittype/vmin/
 ---
 ## UnitType.Vmin field
 
-测量是相对于视口*小尺寸的 1% 试试看
+测量是相对于视口* 较小尺寸的 1% 试试看
 
 ```csharp
 public static readonly UnitType Vmin;

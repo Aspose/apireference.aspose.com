@@ -16,8 +16,8 @@ public override void StrokeText(string text, PointF pt)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| text | String | 要描边的字符串。 |
-| pt | PointF | 点，指定开始文本的坐标。 |
+| text | String | 字符串来抚摸。 |
+| pt | PointF | 指定开始文本的坐标的点。 |
 
 ### 也可以看看
 

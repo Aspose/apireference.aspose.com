@@ -1,14 +1,14 @@
 ---
 title: CSS_DIMENSION
 second_title: Aspose.SVG for .NET API 参考
-description: 该值是一个未知维度的数字可以使用 getFloatValue 方法获取该值
+description: 该值是一个未知维度的数字该值可以通过getFloatValue方法获取
 type: docs
 weight: 160
 url: /zh/net/aspose.svg.dom.css/cssprimitivevalue/css_dimension/
 ---
 ## CSSPrimitiveValue.CSS_DIMENSION field
 
-该值是一个未知维度的数字。可以使用 getFloatValue 方法获取该值。
+该值是一个未知维度的数字。该值可以通过getFloatValue方法获取。
 
 ```csharp
 public const ushort CSS_DIMENSION;

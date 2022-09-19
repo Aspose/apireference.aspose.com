@@ -8,7 +8,7 @@ url: /ru/net/aspose.svg.filters/svgfecolormatrixelement/in1/
 ---
 ## SVGFEColorMatrixElement.In1 property
 
-Соответствует атрибуту 'in' данного элемента 'feColorMatrix'.
+Соответствует атрибуту "in" данного элемента "feColorMatrix".
 
 ```csharp
 public SVGAnimatedString In1 { get; }

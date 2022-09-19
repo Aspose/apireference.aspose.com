@@ -1,14 +1,14 @@
 ---
 title: CSS_UNKNOWN
 second_title: Aspose.SVG for .NET API 参考
-description: 该值不是可识别的 CSS2 值该值只能通过使用 cssText 属性获取
+description: 该值不是可识别的 CSS2 值该值只能通过cssText属性获取
 type: docs
 weight: 400
 url: /zh/net/aspose.svg.dom.css/cssprimitivevalue/css_unknown/
 ---
 ## CSSPrimitiveValue.CSS_UNKNOWN field
 
-该值不是可识别的 CSS2 值。该值只能通过使用 cssText 属性获取。
+该值不是可识别的 CSS2 值。该值只能通过cssText属性获取。
 
 ```csharp
 public const ushort CSS_UNKNOWN;

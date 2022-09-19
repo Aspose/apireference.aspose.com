@@ -1,7 +1,7 @@
 ---
 title: Alpha
 second_title: Справочник по Aspose.SVG для .NET API
-description: Этот атрибут используется для альфа-значения цвета RGB.
+description: Этот атрибут используется для альфазначения цвета RGB.
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.dom.css/rgbcolor/alpha/

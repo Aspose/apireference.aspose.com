@@ -3,7 +3,7 @@ title: IServiceProvider
 second_title: Aspose.SVG for .NET API 参考
 description: 为服务提供一个不可变的容器
 type: docs
-weight: 3700
+weight: 3710
 url: /zh/net/aspose.svg.services/iserviceprovider/
 ---
 ## IServiceProvider interface

@@ -1,14 +1,14 @@
 ---
 title: PreserveAlpha
 second_title: Aspose.SVG for .NET API 参考
-description: 对应于给定 feConvolveMatrix 元素的属性 preserveAlpha
+description: 对应于给定 feConvolveMatrix 元素上的属性 preserveAlpha
 type: docs
 weight: 110
 url: /zh/net/aspose.svg.filters/svgfeconvolvematrixelement/preservealpha/
 ---
 ## SVGFEConvolveMatrixElement.PreserveAlpha property
 
-对应于给定 'feConvolveMatrix' 元素的属性 'preserveAlpha'。
+对应于给定 'feConvolveMatrix' 元素上的属性 'preserveAlpha'。
 
 ```csharp
 public SVGAnimatedBoolean PreserveAlpha { get; }
@@ -16,7 +16,7 @@ public SVGAnimatedBoolean PreserveAlpha { get; }
 
 ### 适当的价值
 
-给定 'feConvolveMatrix' 元素的属性 'preserveAlpha'。
+给定'feConvolveMatrix'元素的属性'preserveAlpha'。
 
 ### 也可以看看
 

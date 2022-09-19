@@ -1,14 +1,14 @@
 ---
 title: IDocumentEvent
 second_title: Справочник по Aspose.SVG для .NET API
-description: ИнтерфейсIDocumentEvent./idocumenteventпредоставляет механизм с помощью которого пользователь может создатьEvent./eventтипа поддерживаемого реализацией.
+description: IDocumentEvent./idocumentevent Интерфейс предоставляет механизм с помощью которого пользователь может создатьEvent./event типа поддерживаемого реализацией.
 type: docs
-weight: 950
+weight: 940
 url: /ru/net/aspose.svg.dom.events/idocumentevent/
 ---
 ## IDocumentEvent interface
 
-Интерфейс[`IDocumentEvent`](../idocumentevent)предоставляет механизм, с помощью которого пользователь может создать[`Event`](../event)типа, поддерживаемого реализацией.
+[`IDocumentEvent`](../idocumentevent) Интерфейс предоставляет механизм, с помощью которого пользователь может создать[`Event`](../event) типа, поддерживаемого реализацией.
 
 ```csharp
 public interface IDocumentEvent
@@ -18,11 +18,11 @@ public interface IDocumentEvent
 
 | Имя | Описание |
 | --- | --- |
-| [CreateEvent](../../aspose.svg.dom.events/idocumentevent/createevent)(string) | Создает[`Event`](../event)типа, поддерживаемого реализацией. |
+| [CreateEvent](../../aspose.svg.dom.events/idocumentevent/createevent)(string) | Создает[`Event`](../event) типа, поддерживаемого реализацией. |
 
 ### Примечания
 
-Ожидается, что интерфейс[`IDocumentEvent`](../idocumentevent)будет реализован на тот же объект, который реализует интерфейс [`Document`](../../aspose.svg.dom/document) в реализации, поддерживающей модель событий.
+Ожидается, что[`IDocumentEvent`](../idocumentevent) интерфейс будет реализован на том же объекте, который реализует the [`Document`](../../aspose.svg.dom/document) интерфейс в реализации, поддерживающей модель событий.
 
 ### Смотрите также
 

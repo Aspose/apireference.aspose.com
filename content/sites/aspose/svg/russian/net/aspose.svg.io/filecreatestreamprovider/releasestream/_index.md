@@ -16,7 +16,7 @@ public void ReleaseStream(Stream stream)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| stream | Stream | Выпускаемый поток. |
+| stream | Stream | Поток выпускается. |
 
 ### Смотрите также
 

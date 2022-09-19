@@ -1,14 +1,14 @@
 ---
 title: CanSeek
 second_title: Aspose.SVG for .NET API 参考
-description: 获取一个值该值指示包装的输出流是否支持查找
+description: 获取一个值该值指示包装的输出流是否支持搜索
 type: docs
 weight: 30
 url: /zh/net/aspose.svg.io/outputstream/canseek/
 ---
 ## OutputStream.CanSeek property
 
-获取一个值，该值指示包装的输出流是否支持查找。
+获取一个值，该值指示包装的输出流是否支持搜索。
 
 ```csharp
 public override bool CanSeek { get; }

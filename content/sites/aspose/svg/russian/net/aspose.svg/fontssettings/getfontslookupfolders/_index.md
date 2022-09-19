@@ -1,14 +1,14 @@
 ---
 title: GetFontsLookupFolders
 second_title: Справочник по Aspose.SVG для .NET API
-description: Получает копию массива содержащего папки со шрифтами. Шрифты находящиеся в этих папках используются для отрисовки символов.
+description: Получает копию массива содержащего папки со шрифтами. Шрифты найденные в этих папках используются для рендеринга символов.
 type: docs
 weight: 20
 url: /ru/net/aspose.svg/fontssettings/getfontslookupfolders/
 ---
 ## FontsSettings.GetFontsLookupFolders method
 
-Получает копию массива, содержащего папки со шрифтами. Шрифты, находящиеся в этих папках, используются для отрисовки символов.
+Получает копию массива, содержащего папки со шрифтами. Шрифты, найденные в этих папках, используются для рендеринга символов.
 
 ```csharp
 public string[] GetFontsLookupFolders()

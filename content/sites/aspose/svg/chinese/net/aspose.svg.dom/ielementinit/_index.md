@@ -1,14 +1,14 @@
 ---
 title: IElementInit
 second_title: Aspose.SVG for .NET API 参考
-description: 该接口提供Element./element初始化信息
+description: 该接口提供Element./element初始化信息.
 type: docs
-weight: 1070
+weight: 1060
 url: /zh/net/aspose.svg.dom/ielementinit/
 ---
 ## IElementInit interface
 
-该接口提供[`Element`](../element)初始化信息。
+该接口提供[`Element`](../element)初始化信息.
 
 ```csharp
 public interface IElementInit
@@ -18,7 +18,7 @@ public interface IElementInit
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Document](../../aspose.svg.dom/ielementinit/document) { get; } | 此属性表示所有者文档。 |
+| [Document](../../aspose.svg.dom/ielementinit/document) { get; } | 此属性代表所有者文档。 |
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: LengthOrAuto
 second_title: Aspose.SVG for .NET API 参考
-description: 初始化LengthOrAutoaspose.svg.drawing/lengthorauto类的新实例并将状态设置为自动
+description: 初始化LengthOrAutoaspose.svg.drawing/lengthorauto类并将状态设置为自动
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.drawing/lengthorauto/lengthorauto/
 ---
 ## LengthOrAuto() {#constructor}
 
-初始化[`LengthOrAuto`](../../lengthorauto)类的新实例并将状态设置为“自动”。
+初始化[`LengthOrAuto`](../../lengthorauto)类并将状态设置为“自动”。
 
 ```csharp
 public LengthOrAuto()
@@ -24,7 +24,7 @@ public LengthOrAuto()
 
 ## LengthOrAuto(Length) {#constructor_1}
 
-初始化[`LengthOrAuto`](../../lengthorauto)类的新实例并将状态设置为“长度”。
+初始化[`LengthOrAuto`](../../lengthorauto)类并将状态设置为“长度”。
 
 ```csharp
 public LengthOrAuto(Length length)

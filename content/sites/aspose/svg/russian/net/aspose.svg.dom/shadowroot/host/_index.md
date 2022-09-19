@@ -1,14 +1,14 @@
 ---
 title: Host
 second_title: Справочник по Aspose.SVG для .NET API
-description: Host  это элемент который содержит этот ShadowRoot.
+description: Host  это элемент содержащий этот ShadowRoot.
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.dom/shadowroot/host/
 ---
 ## ShadowRoot.Host property
 
-Host — это элемент, который содержит этот ShadowRoot.
+Host — это элемент, содержащий этот ShadowRoot.
 
 ```csharp
 public Element Host { get; }

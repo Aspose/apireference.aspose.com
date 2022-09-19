@@ -1,14 +1,14 @@
 ---
 title: ShiftKey
 second_title: Справочник по Aspose.SVG для .NET API
-description: true если был активен модификатор клавиши Shift Shift.
+description: true если модификатор клавиши Shift Shift был активен.
 type: docs
 weight: 100
 url: /ru/net/aspose.svg.dom.events/keyboardevent/shiftkey/
 ---
 ## KeyboardEvent.ShiftKey property
 
-true, если был активен модификатор клавиши Shift (Shift).
+true, если модификатор клавиши Shift (Shift) был активен.
 
 ```csharp
 public bool ShiftKey { get; }
@@ -16,7 +16,7 @@ public bool ShiftKey { get; }
 
 ### Стоимость имущества
 
-` true` если Shift; в противном случае` false` .
+`истинный` если Сдвиг; в противном случае,`ЛОЖЬ` .
 
 ### Смотрите также
 

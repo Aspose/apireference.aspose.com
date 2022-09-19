@@ -1,14 +1,14 @@
 ---
 title: DeltaMode
 second_title: Aspose.SVG for .NET API 参考
-description: deltaMode 属性包含增量值测量单位的指示默认值为 DOM_DELTA_PIXEL像素
+description: deltaMode 属性包含对增量值测量单位的指示默认值为 DOM_DELTA_PIXEL像素
 type: docs
 weight: 20
 url: /zh/net/aspose.svg.dom.events/wheelevent/deltamode/
 ---
 ## WheelEvent.DeltaMode property
 
-deltaMode 属性包含增量值测量单位的指示。默认值为 DOM_DELTA_PIXEL（像素）。
+deltaMode 属性包含对增量值测量单位的指示。默认值为 DOM_DELTA_PIXEL（像素）。
 
 ```csharp
 public ulong DeltaMode { get; }
@@ -16,7 +16,7 @@ public ulong DeltaMode { get; }
 
 ### 适当的价值
 
-增量模式。
+delta 模式。
 
 ### 也可以看看
 

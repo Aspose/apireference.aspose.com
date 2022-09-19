@@ -1,14 +1,14 @@
 ---
 title: ClearTimeout
 second_title: Справочник по Aspose.SVG для .NET API
-description: Отменяет тайм-аут установленный с помощью setTimeout указанного дескриптором.
+description: Отменяет таймаут установленный с помощью setTimeout идентифицированный дескриптором.
 type: docs
 weight: 20
 url: /ru/net/aspose.svg.window/iwindowtimers/cleartimeout/
 ---
 ## IWindowTimers.ClearTimeout method
 
-Отменяет тайм-аут, установленный с помощью setTimeout(), указанного дескриптором.
+Отменяет тайм-аут, установленный с помощью setTimeout(), идентифицированный дескриптором.
 
 ```csharp
 public void ClearTimeout(int handle)

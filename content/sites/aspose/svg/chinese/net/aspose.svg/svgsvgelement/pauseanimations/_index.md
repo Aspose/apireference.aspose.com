@@ -1,14 +1,14 @@
 ---
 title: PauseAnimations
 second_title: Aspose.SVG for .NET API 参考
-description: 暂停即暂停所有当前正在运行的动画这些动画在与此 svg 元素对应的 SVG 文档片段中定义导致与此文档片段对应的动画时钟停止直到它没有暂停
+description: 暂停即暂停在与此svg元素对应的 SVG 文档片段中定义的所有当前正在运行的动画导致与此文档片段对应的动画时钟保持静止直到它被取消暂停
 type: docs
 weight: 220
 url: /zh/net/aspose.svg/svgsvgelement/pauseanimations/
 ---
 ## SVGSVGElement.PauseAnimations method
 
-暂停（即暂停）所有当前正在运行的动画，这些动画在与此 'svg' 元素对应的 SVG 文档片段中定义，导致与此文档片段对应的动画时钟停止，直到它没有暂停。
+暂停（即暂停）在与此“svg”元素对应的 SVG 文档片段中定义的所有当前正在运行的动画，导致与此文档片段对应的动画时钟保持静止，直到它被取消暂停。
 
 ```csharp
 public void PauseAnimations()

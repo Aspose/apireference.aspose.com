@@ -1,14 +1,14 @@
 ---
 title: Event
 second_title: Справочник по Aspose.SVG для .NET API
-description: Инициализирует новый экземпляр классаEventaspose.svg.dom.events/event.
+description: Инициализирует новый экземплярEventaspose.svg.dom.events/event класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.dom.events/event/event/
 ---
 ## Event(string) {#constructor}
 
-Инициализирует новый экземпляр класса[`Event`](../../event).
+Инициализирует новый экземпляр[`Event`](../../event) класс.
 
 ```csharp
 public Event(string type)
@@ -28,7 +28,7 @@ public Event(string type)
 
 ## Event(string, IDictionary&lt;string, object&gt;) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`Event`](../../event).
+Инициализирует новый экземпляр[`Event`](../../event) класс.
 
 ```csharp
 public Event(string type, IDictionary<string, object> eventInitDict)

@@ -1,14 +1,14 @@
 ---
 title: Add
 second_title: Aspose.SVG for .NET API 参考
-description: 将指定的标记添加到列表中
+description: 将指定的令牌添加到列表中
 type: docs
 weight: 40
 url: /zh/net/aspose.svg.collections/domtokenlist/add/
 ---
 ## DOMTokenList.Add method
 
-将指定的标记添加到列表中。
+将指定的令牌添加到列表中。
 
 ```csharp
 public void Add(params string[] tokens)

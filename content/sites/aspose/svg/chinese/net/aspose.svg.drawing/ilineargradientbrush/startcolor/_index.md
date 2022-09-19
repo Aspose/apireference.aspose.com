@@ -16,7 +16,7 @@ public Color StartColor { get; }
 
 ### 返回值
 
-起始颜色
+开始颜色
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: MultipartFormDataContent
 second_title: Aspose.SVG for .NET API 参考
-description: 初始化MultipartFormDataContentaspose.svg.net/multipartformdatacontent类的新实例
+description: 初始化MultipartFormDataContentaspose.svg.net/multipartformdatacontent类.
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.net/multipartformdatacontent/multipartformdatacontent/
 ---
 ## MultipartFormDataContent() {#constructor}
 
-初始化[`MultipartFormDataContent`](../../multipartformdatacontent)类的新实例。
+初始化[`MultipartFormDataContent`](../../multipartformdatacontent)类.
 
 ```csharp
 public MultipartFormDataContent()
@@ -24,7 +24,7 @@ public MultipartFormDataContent()
 
 ## MultipartFormDataContent(string) {#constructor_1}
 
-初始化[`MultipartFormDataContent`](../../multipartformdatacontent)类的新实例。
+初始化[`MultipartFormDataContent`](../../multipartformdatacontent)类.
 
 ```csharp
 public MultipartFormDataContent(string boundary)
@@ -32,7 +32,7 @@ public MultipartFormDataContent(string boundary)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| boundary | String | 边界。 |
+| boundary | String | 界线。 |
 
 ### 也可以看看
 

@@ -3,7 +3,7 @@ title: IService
 second_title: Справочник по Aspose.SVG для .NET API
 description: Определяет базовый интерфейс для реализации службы.
 type: docs
-weight: 3680
+weight: 3690
 url: /ru/net/aspose.svg.services/iservice/
 ---
 ## IService interface

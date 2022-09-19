@@ -1,14 +1,14 @@
 ---
 title: NotationName
 second_title: Aspose.SVG for .NET API 参考
-description: 对于未解析的实体实体的符号名称对于已解析的实体这是 null
+description: 对于未解析的实体实体的符号名称对于已解析的实体这是 null.
 type: docs
 weight: 40
 url: /zh/net/aspose.svg.dom/entity/notationname/
 ---
 ## Entity.NotationName property
 
-对于未解析的实体，实体的符号名称。对于已解析的实体，这是 null。
+对于未解析的实体，实体的符号名称。对于已解析的实体，这是 null.
 
 ```csharp
 public string NotationName { get; }

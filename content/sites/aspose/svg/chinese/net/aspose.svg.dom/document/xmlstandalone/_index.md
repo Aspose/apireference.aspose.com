@@ -1,14 +1,14 @@
 ---
 title: XmlStandalone
 second_title: Aspose.SVG for .NET API 参考
-description: 作为 XML 声明的一部分指定此文档是否为独立的属性当未指定时这是错误的
+description: 一个属性作为 XML 声明的一部分指定此文档是否是独立的未指定时为假
 type: docs
 weight: 260
 url: /zh/net/aspose.svg.dom/document/xmlstandalone/
 ---
 ## Document.XmlStandalone property
 
-作为 XML 声明的一部分，指定此文档是否为独立的属性。当未指定时，这是错误的。
+一个属性，作为 XML 声明的一部分，指定此文档是否是独立的。未指定时为假。
 
 ```csharp
 public bool XmlStandalone { get; set; }
@@ -16,7 +16,7 @@ public bool XmlStandalone { get; set; }
 
 ### 适当的价值
 
-` true` 如果 XML 独立；否则，` false` 。
+`真的`如果 XML 独立；否则，`错误的` .
 
 ### 也可以看看
 

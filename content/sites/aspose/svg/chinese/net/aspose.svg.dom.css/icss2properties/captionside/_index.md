@@ -16,7 +16,7 @@ public string CaptionSide { get; set; }
 
 ### 返回值
 
-字幕侧属性
+字幕端属性
 
 ### 也可以看看
 

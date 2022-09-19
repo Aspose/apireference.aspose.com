@@ -3,7 +3,7 @@ title: ResponseHeaders
 second_title: Справочник по Aspose.SVG для .NET API
 description: Содержит заголовки протокола связанные с ответом.
 type: docs
-weight: 2390
+weight: 2400
 url: /ru/net/aspose.svg.net/responseheaders/
 ---
 ## ResponseHeaders class
@@ -18,7 +18,7 @@ public class ResponseHeaders : WebHeaderCollection
 
 | Имя | Описание |
 | --- | --- |
-| [ResponseHeaders](responseheaders)() | Инициализирует новый экземпляр класса[`RequestHeaders`](../requestheaders). |
+| [ResponseHeaders](responseheaders)() | Инициализирует новый экземпляр[`RequestHeaders`](../requestheaders) класс. |
 
 ## Характеристики
 

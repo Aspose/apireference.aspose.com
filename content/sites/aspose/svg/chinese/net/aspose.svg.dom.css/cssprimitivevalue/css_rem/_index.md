@@ -1,14 +1,14 @@
 ---
 title: CSS_REM
 second_title: Aspose.SVG for .NET API 参考
-description: 该值为长度rem可以使用 getFloatValue 方法获取该值
+description: 该值为长度rem该值可以通过getFloatValue方法获取
 type: docs
 weight: 360
 url: /zh/net/aspose.svg.dom.css/cssprimitivevalue/css_rem/
 ---
 ## CSSPrimitiveValue.CSS_REM field
 
-该值为长度（rem）。可以使用 getFloatValue 方法获取该值。
+该值为长度（rem）。该值可以通过getFloatValue方法获取。
 
 ```csharp
 public const ushort CSS_REM;

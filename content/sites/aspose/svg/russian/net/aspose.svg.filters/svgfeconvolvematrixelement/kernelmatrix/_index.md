@@ -8,7 +8,7 @@ url: /ru/net/aspose.svg.filters/svgfeconvolvematrixelement/kernelmatrix/
 ---
 ## SVGFEConvolveMatrixElement.KernelMatrix property
 
-Соответствует атрибуту 'kernelMatrix' данного элемента 'feConvolveMatrix'.
+Соответствует атрибуту 'kernelMatrix' данного элемента feConvolveMatrix.
 
 ```csharp
 public SVGAnimatedNumberList KernelMatrix { get; }

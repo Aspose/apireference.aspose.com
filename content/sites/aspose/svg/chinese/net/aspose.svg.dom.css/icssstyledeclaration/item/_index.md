@@ -16,7 +16,7 @@ public string this[int index] { get; }
 
 | 范围 | 描述 |
 | --- | --- |
-| index | 属性索引 |
+| index | 资产指数 |
 
 ### 返回值
 

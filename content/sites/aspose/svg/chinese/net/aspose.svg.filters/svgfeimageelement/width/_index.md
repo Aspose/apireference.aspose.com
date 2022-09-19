@@ -1,14 +1,14 @@
 ---
 title: Width
 second_title: Aspose.SVG for .NET API 参考
-description: 对应于给定过滤器元素的属性宽度
+description: 对应于给定过滤器元素上的属性宽度
 type: docs
 weight: 50
 url: /zh/net/aspose.svg.filters/svgfeimageelement/width/
 ---
 ## SVGFEImageElement.Width property
 
-对应于给定“过滤器”元素的属性“宽度”。
+对应于给定“过滤器”元素上的属性“宽度”。
 
 ```csharp
 public SVGAnimatedLength Width { get; }

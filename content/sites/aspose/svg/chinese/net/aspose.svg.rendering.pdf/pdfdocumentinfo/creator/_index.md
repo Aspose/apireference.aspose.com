@@ -1,14 +1,14 @@
 ---
 title: Creator
 second_title: Aspose.SVG for .NET API 参考
-description: 创建原始文档的产品的名称
+description: 创建原始文档的产品名称
 type: docs
 weight: 30
 url: /zh/net/aspose.svg.rendering.pdf/pdfdocumentinfo/creator/
 ---
 ## PdfDocumentInfo.Creator property
 
-创建原始文档的产品的名称。
+创建原始文档的产品名称。
 
 ```csharp
 public string Creator { get; set; }

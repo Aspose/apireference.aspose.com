@@ -16,7 +16,7 @@ public void SetFontsLookupFolder(string fontsFolder)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| fontsFolder | String | Папка шрифтов. |
+| fontsFolder | String | Папка со шрифтами. |
 
 ### Смотрите также
 
@@ -36,8 +36,8 @@ public void SetFontsLookupFolder(string fontsFolder, bool recursive)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| fontsFolder | String | Папка шрифтов. |
-| recursive | Boolean | Если установлено значение` true` будут использоваться все вложенные каталоги. Значение по умолчанию:` false` . |
+| fontsFolder | String | Папка со шрифтами. |
+| recursive | Boolean | Если установлено`истинный` будут использоваться все вложенные каталоги. Значение по умолчанию`ЛОЖЬ`. |
 
 ### Смотрите также
 

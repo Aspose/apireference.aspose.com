@@ -8,7 +8,7 @@ url: /ru/net/aspose.svg.filters/svgfecompositeelement/in2/
 ---
 ## SVGFECompositeElement.In2 property
 
-Соответствует атрибуту 'in2' данного элемента 'feComposite'.
+Соответствует атрибуту in2 данного элемента feComposite.
 
 ```csharp
 public SVGAnimatedString In2 { get; }
@@ -16,7 +16,7 @@ public SVGAnimatedString In2 { get; }
 
 ### Стоимость имущества
 
-Атрибут 'in2' данного элемента 'feComposite'.
+Атрибут in2 данного элемента feComposite.
 
 ### Смотрите также
 

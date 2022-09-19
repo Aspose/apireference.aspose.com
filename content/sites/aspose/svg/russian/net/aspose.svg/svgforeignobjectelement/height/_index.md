@@ -1,14 +1,14 @@
 ---
 title: Height
 second_title: Справочник по Aspose.SVG для .NET API
-description: Соответствует атрибуту height данного элемента foreignObject.
+description: Соответствует атрибуту высота данного элемента foreignObject.
 type: docs
 weight: 10
 url: /ru/net/aspose.svg/svgforeignobjectelement/height/
 ---
 ## SVGForeignObjectElement.Height property
 
-Соответствует атрибуту 'height' данного элемента 'foreignObject'.
+Соответствует атрибуту «высота» данного элемента «foreignObject».
 
 ```csharp
 public SVGAnimatedLength Height { get; }
@@ -16,7 +16,7 @@ public SVGAnimatedLength Height { get; }
 
 ### Стоимость имущества
 
-Атрибут 'высота' данного элемента 'foreignObject'.
+Атрибут «высота» данного элемента «foreignObject».
 
 ### Смотрите также
 

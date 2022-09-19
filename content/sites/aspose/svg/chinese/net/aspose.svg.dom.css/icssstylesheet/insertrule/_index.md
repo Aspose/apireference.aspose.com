@@ -16,7 +16,7 @@ public long InsertRule(string rule, int index)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| rule | String | 样式规则。 |
+| rule | String | 风格规则。 |
 | index | Int32 | 规则索引。 |
 
 ### 返回值

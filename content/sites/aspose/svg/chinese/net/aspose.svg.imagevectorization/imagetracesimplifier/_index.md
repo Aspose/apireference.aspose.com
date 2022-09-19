@@ -3,7 +3,7 @@ title: ImageTraceSimplifier
 second_title: Aspose.SVG for .NET API 参考
 description: ImageTraceSimplifier 类负责减少由一系列跟踪点近似的曲线中的点数
 type: docs
-weight: 2100
+weight: 2110
 url: /zh/net/aspose.svg.imagevectorization/imagetracesimplifier/
 ---
 ## ImageTraceSimplifier class
@@ -18,14 +18,14 @@ public class ImageTraceSimplifier : IImageTraceSimplifier
 
 | 姓名 | 描述 |
 | --- | --- |
-| [ImageTraceSimplifier](imagetracesimplifier#constructor)() | 初始化[`ImageTraceSimplifier`](../imagetracesimplifier)类的新实例。 |
-| [ImageTraceSimplifier](imagetracesimplifier#constructor_1)(float) | 初始化[`ImageTraceSimplifier`](../imagetracesimplifier)类的新实例。 |
+| [ImageTraceSimplifier](imagetracesimplifier#constructor)() | 初始化[`ImageTraceSimplifier`](../imagetracesimplifier)类. |
+| [ImageTraceSimplifier](imagetracesimplifier#constructor_1)(float) | 初始化[`ImageTraceSimplifier`](../imagetracesimplifier)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Tolerance](../../aspose.svg.imagevectorization/imagetracesimplifier/tolerance) { get; set; } | 容差值决定了从跟踪中消除一个点所允许的最大误差容限。 它必须在 0 到 4 的范围内。任何更高或更低的值都将与此范围的最小值和最大值相应地对齐。 默认值为 0.3。 |
+| [Tolerance](../../aspose.svg.imagevectorization/imagetracesimplifier/tolerance) { get; set; } | 容差值决定了从跟踪中消除一个点所允许的最大误差容限。 必须在0到4的范围内。任何更高或更低的值都将与该范围的最小值和最大值对齐，相应地。 默认值为0.3。 |
 
 ## 方法
 

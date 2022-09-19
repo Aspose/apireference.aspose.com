@@ -1,14 +1,14 @@
 ---
 title: Subtree
 second_title: Справочник по Aspose.SVG для .NET API
-description: Установите значение true если должны наблюдаться мутации не только цели но и потомков цели
+description: Установите значение true если должны наблюдаться мутации не только цели но и ее потомков
 type: docs
 weight: 120
 url: /ru/net/aspose.svg.dom.mutations/mutationobserverinit/subtree/
 ---
 ## MutationObserverInit.Subtree property
 
-Установите значение true, если должны наблюдаться мутации не только цели, но и потомков цели
+Установите значение true, если должны наблюдаться мутации не только цели, но и ее потомков
 
 ```csharp
 public bool Subtree { get; set; }

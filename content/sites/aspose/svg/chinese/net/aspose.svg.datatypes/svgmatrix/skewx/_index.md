@@ -16,7 +16,7 @@ public SVGMatrix SkewX(float angle)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| angle | Single | 倾斜角。 |
+| angle | Single | 斜角。 |
 
 ### 返回值
 

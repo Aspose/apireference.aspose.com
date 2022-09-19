@@ -1,14 +1,14 @@
 ---
 title: PATHSEG_ARC_REL
 second_title: Справочник по Aspose.SVG для .NET API
-description: Соответствует команде данных пути relative arcto a.
+description: Соответствует относительной arcto a команде данных пути.
 type: docs
 weight: 40
 url: /ru/net/aspose.svg.paths/svgpathseg/pathseg_arc_rel/
 ---
 ## SVGPathSeg.PATHSEG_ARC_REL field
 
-Соответствует команде данных пути "relative arcto" (a).
+Соответствует "относительной arcto" (a) команде данных пути.
 
 ```csharp
 public const ushort PATHSEG_ARC_REL;

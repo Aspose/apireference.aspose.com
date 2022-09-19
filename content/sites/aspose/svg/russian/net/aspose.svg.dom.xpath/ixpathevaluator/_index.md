@@ -1,14 +1,14 @@
 ---
 title: IXPathEvaluator
 second_title: Справочник по Aspose.SVG для .NET API
-description: Оценка выражений XPath обеспечиваетсяIXPathEvaluator./ixpathevaluator.
+description: Оценка выражений XPath обеспечиваетсяIXPathEvaluator./ixpathevaluator .
 type: docs
-weight: 1320
+weight: 1310
 url: /ru/net/aspose.svg.dom.xpath/ixpathevaluator/
 ---
 ## IXPathEvaluator interface
 
-Оценка выражений XPath обеспечивается[`IXPathEvaluator`](../ixpathevaluator).
+Оценка выражений XPath обеспечивается[`IXPathEvaluator`](../ixpathevaluator) .
 
 ```csharp
 public interface IXPathEvaluator
@@ -18,8 +18,8 @@ public interface IXPathEvaluator
 
 | Имя | Описание |
 | --- | --- |
-| [CreateExpression](../../aspose.svg.dom.xpath/ixpathevaluator/createexpression)(string, IXPathNSResolver) | Создает проанализированное выражение XPath с разрешенными пространствами имен. Это полезно , когда выражение будет повторно использоваться в приложении, поскольку позволяет скомпилировать строку выражения в более эффективную внутреннюю форму и предварительно разрешить все встречающиеся префиксы пространств имен. внутри выражения. |
-| [CreateNSResolver](../../aspose.svg.dom.xpath/ixpathevaluator/creatensresolver)(Node) | Адаптирует любой узел DOM для разрешения пространств имен, чтобы выражение XPath можно было легко вычислить относительно контекста узла, в котором оно появилось в документе. Этот адаптер работает аналогично методу DOM уровня 3` lookupNamespaceURI` на узлах при разрешении namespaceURI из заданного префикса, используя текущую информацию, доступную в узлах. иерархии во время вызова lookupNamespaceURI, что также правильно разрешает неявный префикс xml. |
+| [CreateExpression](../../aspose.svg.dom.xpath/ixpathevaluator/createexpression)(string, IXPathNSResolver) | Создает проанализированное выражение XPath с разрешенными пространствами имен. Это полезно , когда выражение будет повторно использоваться в приложении, поскольку позволяет скомпилировать строку выражения в более эффективную внутреннюю форму и предварительно разрешить все префиксы пространства имен, которые встречаются в выражении. |
+| [CreateNSResolver](../../aspose.svg.dom.xpath/ixpathevaluator/creatensresolver)(Node) | Адаптирует любой узел DOM для разрешения пространств имен, чтобы выражение XPath можно было легко оценить относительно контекста узла, в котором оно появилось в документе. Этот адаптер работает как метод DOM Level 3.`lookupNamespaceURI` на узлах при разрешении namespaceURI из заданного префикса, используя текущую информацию, доступную в иерархии узла в момент вызова time lookupNamespaceURI, также правильно разрешая неявный префикс xml. |
 | [Evaluate](../../aspose.svg.dom.xpath/ixpathevaluator/evaluate)(string, Node, IXPathNSResolver, XPathResultType, object) | Вычисляет строку выражения XPath и возвращает результат указанного типа, если это возможно. |
 
 ### Смотрите также

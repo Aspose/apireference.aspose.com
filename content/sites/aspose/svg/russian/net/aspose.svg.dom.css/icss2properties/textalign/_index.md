@@ -1,7 +1,7 @@
 ---
 title: TextAlign
 second_title: Справочник по Aspose.SVG для .NET API
-description: См. определение свойства text-align в CSS2.
+description: См. определение свойства textalign в CSS2.
 type: docs
 weight: 1070
 url: /ru/net/aspose.svg.dom.css/icss2properties/textalign/

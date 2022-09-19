@@ -1,14 +1,14 @@
 ---
 title: Target
 second_title: Aspose.SVG for .NET API 参考
-description: 用于指示最初将事件调度到的IEventTargetaspose.svg.dom.events/ieventtarget
+description: 用来表示IEventTargetaspose.svg.dom.events/ieventtarget事件最初被调度到的地方
 type: docs
 weight: 80
 url: /zh/net/aspose.svg.dom.events/event/target/
 ---
 ## Event.Target property
 
-用于指示最初将事件调度到的[`IEventTarget`](../../ieventtarget)。
+用来表示[`IEventTarget`](../../ieventtarget)事件最初被调度到的地方。
 
 ```csharp
 public EventTarget Target { get; }

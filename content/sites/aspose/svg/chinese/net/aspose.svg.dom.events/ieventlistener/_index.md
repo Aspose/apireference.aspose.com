@@ -1,14 +1,14 @@
 ---
 title: IEventListener
 second_title: Aspose.SVG for .NET API 参考
-description: IEventListener./ieventlistener接口是处理事件的主要方法 用户实现IEventListener./ieventlistener接口并使用EventTarget../aspose.svg.dom/eventtarget注册他们的监听器AddEventListener../aspose.svg.dom/eventtarget/addeventlistener方法 用户完成使用后还应从其EventTarget../aspose.svg.dom/eventtarget中删除其IEventListener./ieventlistener听众
+description: 的IEventListener./ieventlistener接口是处理事件的主要方法 用户实现IEventListener./ieventlistener接口并在EventTarget../aspose.svg.dom/eventtarget使用AddEventListener../aspose.svg.dom/eventtarget/addeventlistenermethod. 用户也应该删除他们的IEventListener./ieventlistener从其EventTarget../aspose.svg.dom/eventtarget在他们完成使用 listener. 之后
 type: docs
-weight: 960
+weight: 950
 url: /zh/net/aspose.svg.dom.events/ieventlistener/
 ---
 ## IEventListener interface
 
-[`IEventListener`](../ieventlistener)接口是处理事件的主要方法。 用户实现[`IEventListener`](../ieventlistener)接口并使用[`EventTarget`](../../aspose.svg.dom/eventtarget)注册他们的监听器[`AddEventListener`](../../aspose.svg.dom/eventtarget/addeventlistener)方法。 用户完成使用后，还应从其[`EventTarget`](../../aspose.svg.dom/eventtarget)中删除其[`IEventListener`](../ieventlistener)听众。
+的[`IEventListener`](../ieventlistener)接口是处理事件的主要方法。 用户实现[`IEventListener`](../ieventlistener)接口并在[`EventTarget`](../../aspose.svg.dom/eventtarget)使用[`AddEventListener`](../../aspose.svg.dom/eventtarget/addeventlistener)method. 用户也应该删除他们的[`IEventListener`](../ieventlistener)从其[`EventTarget`](../../aspose.svg.dom/eventtarget)在他们完成使用 listener. 之后
 
 ```csharp
 public interface IEventListener
@@ -18,7 +18,7 @@ public interface IEventListener
 
 | 姓名 | 描述 |
 | --- | --- |
-| [HandleEvent](../../aspose.svg.dom.events/ieventlistener/handleevent)(Event) | 每当发生注册了[`IEventListener`](../ieventlistener)接口的类型的事件时，都会调用此方法。 |
+| [HandleEvent](../../aspose.svg.dom.events/ieventlistener/handleevent)(Event) | 每当发生事件所针对的类型的事件时调用此方法[`IEventListener`](../ieventlistener)接口已注册。 |
 
 ### 评论
 

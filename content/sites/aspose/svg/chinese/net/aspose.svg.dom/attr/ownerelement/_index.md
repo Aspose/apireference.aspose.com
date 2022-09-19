@@ -1,14 +1,14 @@
 ---
 title: OwnerElement
 second_title: Aspose.SVG for .NET API 参考
-description: 此属性附加到的 Element 节点如果未使用此属性则为 null
+description: 此属性附加到的元素节点如果未使用此属性则为 null
 type: docs
 weight: 80
 url: /zh/net/aspose.svg.dom/attr/ownerelement/
 ---
 ## Attr.OwnerElement property
 
-此属性附加到的 Element 节点，如果未使用此属性，则为 null。
+此属性附加到的元素节点，如果未使用此属性，则为 null。
 
 ```csharp
 public Element OwnerElement { get; }

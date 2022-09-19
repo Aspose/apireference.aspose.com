@@ -1,14 +1,14 @@
 ---
 title: PROCESSING_INSTRUCTION_NODE
 second_title: Справочник по Aspose.SVG для .NET API
-description: Узел инструкций по обработке
+description: Инструкция по обработке node
 type: docs
 weight: 420
 url: /ru/net/aspose.svg.dom/node/processing_instruction_node/
 ---
 ## Node.PROCESSING_INSTRUCTION_NODE field
 
-Узел инструкций по обработке
+Инструкция по обработке node
 
 ```csharp
 public const ushort PROCESSING_INSTRUCTION_NODE;

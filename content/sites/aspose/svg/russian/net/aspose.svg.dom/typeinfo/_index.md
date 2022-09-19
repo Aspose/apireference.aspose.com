@@ -3,7 +3,7 @@ title: TypeInfo
 second_title: Справочник по Aspose.SVG для .NET API
 description: TypeInfo представляет тип на который ссылаются узлы Element или Attr указанные в схемах связанных с документом.
 type: docs
-weight: 1290
+weight: 1280
 url: /ru/net/aspose.svg.dom/typeinfo/
 ---
 ## TypeInfo class
@@ -18,23 +18,23 @@ public class TypeInfo : DOMObject
 
 | Имя | Описание |
 | --- | --- |
-| [TypeName](../../aspose.svg.dom/typeinfo/typename) { get; } | Имя типа, объявленное для связанного элемента или атрибута, или null, если неизвестно. |
+| [TypeName](../../aspose.svg.dom/typeinfo/typename) { get; } | Имя типа, объявленного для связанного элемента или атрибута, или null, если неизвестно. |
 | [TypeNamespace](../../aspose.svg.dom/typeinfo/typenamespace) { get; } | Получает пространство имен типа. Пространство имен типа, объявленного для связанного элемента или атрибута, или null, если у элемента нет объявления или если информация о пространстве имен недоступна. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | Этот метод используется для получения объекта ECMAScriptType. |
-| [IsDerivedFrom](../../aspose.svg.dom/typeinfo/isderivedfrom)(string, string, ulong) | Этот метод возвращает значение, если существует производное определение ссылочного типа, т. е. TypeInfo, для которого вызывается метод, и другое определение типа, т. е. переданное в качестве параметров. |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | Этот метод используется для получения объекта ECMAScript.Type . |
+| [IsDerivedFrom](../../aspose.svg.dom/typeinfo/isderivedfrom)(string, string, ulong) | Этот метод возвращает значение, если существует производное определение ссылочного типа, т. е. TypeInfo, для которого вызывается метод, и другое определение типа, т. е. то, которое передается в качестве параметров. |
 
 ## Поля
 
 | Имя | Описание |
 | --- | --- |
-| const [DERIVATION_EXTENSION](../../aspose.svg.dom/typeinfo/derivation_extension) | Если схема документа представляет собой XML-схему [XML-схема, часть 1], эта константа представляет производное расширение. |
-| const [DERIVATION_LIST](../../aspose.svg.dom/typeinfo/derivation_list) | Если схема документа является XML-схемой [XML-схема, часть 1], эта константа представляет список. |
-| const [DERIVATION_RESTRICTION](../../aspose.svg.dom/typeinfo/derivation_restriction) | Если схема документа представляет собой XML-схему [XML-схема, часть 1], эта константа представляет производное ограничение, если задействованы сложные типы, или ограничение, если задействованы простые типы. |
+| const [DERIVATION_EXTENSION](../../aspose.svg.dom/typeinfo/derivation_extension) | Если схема документа представляет собой XML-схему [XML-схема, часть 1], эта константа представляет происхождение по расширению. |
+| const [DERIVATION_LIST](../../aspose.svg.dom/typeinfo/derivation_list) | Если схема документа представляет собой XML-схему [XML-схема, часть 1], эта константа представляет список. |
+| const [DERIVATION_RESTRICTION](../../aspose.svg.dom/typeinfo/derivation_restriction) | Если схема документа представляет собой XML-схему [XML-схема, часть 1], эта константа представляет происхождение по ограничению, если задействованы сложные типы, или ограничение, если задействованы простые типы. |
 | const [DERIVATION_UNION](../../aspose.svg.dom/typeinfo/derivation_union) | Если схема документа представляет собой XML-схему [XML-схема, часть 1], эта константа представляет объединение, если задействованы простые типы. |
 
 ### Смотрите также

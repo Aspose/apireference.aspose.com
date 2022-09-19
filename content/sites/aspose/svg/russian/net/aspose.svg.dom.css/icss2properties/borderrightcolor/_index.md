@@ -1,7 +1,7 @@
 ---
 title: BorderRightColor
 second_title: Справочник по Aspose.SVG для .NET API
-description: См. определение свойства border-right-color в CSS2.
+description: См. определение свойства borderrightcolor в CSS2.
 type: docs
 weight: 200
 url: /ru/net/aspose.svg.dom.css/icss2properties/borderrightcolor/

@@ -1,14 +1,14 @@
 ---
 title: Title
 second_title: Aspose.SVG for .NET API 参考
-description: 由 svg 根元素的 title 子元素指定的文档标题即ltsvggtlttitlegt这里是标题lt/titlegt ...lt/svggt
+description: 由 svg 根元素的 title 子元素指定的文档标题即这是标题... 
 type: docs
 weight: 50
 url: /zh/net/aspose.svg/svgdocument/title/
 ---
 ## SVGDocument.Title property
 
-由 'svg' 根元素的 'title' 子元素指定的文档标题（即，&lt;svg&gt;&lt;title&gt;这里是标题&lt;/title&gt; ...&lt;/svg&gt;)
+由 'svg' 根元素的 'title' 子元素指定的文档标题（即，这是标题... )
 
 ```csharp
 public string Title { get; }

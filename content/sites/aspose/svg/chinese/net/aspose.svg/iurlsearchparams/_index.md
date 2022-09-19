@@ -3,7 +3,7 @@ title: IUrlSearchParams
 second_title: Aspose.SVG for .NET API 参考
 description: 提供处理 URL 查询字符串的方法
 type: docs
-weight: 2060
+weight: 2070
 url: /zh/net/aspose.svg/iurlsearchparams/
 ---
 ## IUrlSearchParams interface
@@ -18,12 +18,12 @@ public interface IUrlSearchParams : IEnumerable<string[]>
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Append](../../aspose.svg/iurlsearchparams/append)(string, string) | 追加一个新的名称-值对，其名称为` 名称` 和值` 值` . |
-| [Delete](../../aspose.svg/iurlsearchparams/delete)(string) | 删除名称为` name` 的所有名称-值对。 |
-| [Get](../../aspose.svg/iurlsearchparams/get)(string) | 返回名称为` name` 的第一个名称-值对的值。 |
-| [GetAll](../../aspose.svg/iurlsearchparams/getall)(string) | 返回名称为` name` 的所有值。 |
-| [Has](../../aspose.svg/iurlsearchparams/has)(string) | 检查列表中是否存在名称为` 名称` 的名称-值对。 |
-| [Set](../../aspose.svg/iurlsearchparams/set)(string, string) | 将找到的第一个名称-值对的值设置为指定值并删除其他值。 如果没有找到具有指定名称的名称-值对，则将新的一对添加到列表中。 |
+| [Append](../../aspose.svg/iurlsearchparams/append)(string, string) | 附加一个新的名称-值对，其名称为`姓名`和价值是`价值` . |
+| [Delete](../../aspose.svg/iurlsearchparams/delete)(string) | 删除所有名称为`姓名` . |
+| [Get](../../aspose.svg/iurlsearchparams/get)(string) | 返回名称为的第一个名称-值对的值`姓名` . |
+| [GetAll](../../aspose.svg/iurlsearchparams/getall)(string) | 返回名称为`姓名` . |
+| [Has](../../aspose.svg/iurlsearchparams/has)(string) | 检查是否存在名称为`姓名`在列表中。 |
+| [Set](../../aspose.svg/iurlsearchparams/set)(string, string) | 将找到的第一个名称-值对的值设置为指定值并删除其他值。 如果没有找到具有指定名称的名称-值对，则将新的名称-值对附加到列表中。 |
 | [Sort](../../aspose.svg/iurlsearchparams/sort)() | 按名称对所有名称-值对（如果有）进行排序。 |
 
 ### 也可以看看

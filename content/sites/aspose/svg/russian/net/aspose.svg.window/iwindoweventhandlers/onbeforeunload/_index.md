@@ -1,14 +1,14 @@
 ---
 title: OnBeforeUnload
 second_title: Справочник по Aspose.SVG для .NET API
-description: Получает или задает обработчик событий
+description: Получает или задает обработчик события
 type: docs
 weight: 30
 url: /ru/net/aspose.svg.window/iwindoweventhandlers/onbeforeunload/
 ---
 ## IWindowEventHandlers.OnBeforeUnload event
 
-Получает или задает обработчик событий
+Получает или задает обработчик события
 
 ```csharp
 public event DOMEventHandler OnBeforeUnload;

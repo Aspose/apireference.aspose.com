@@ -8,7 +8,7 @@ url: /ru/net/aspose.svg/svganimationelement/requiredfeatures/
 ---
 ## SVGAnimationElement.RequiredFeatures property
 
-Соответствует атрибуту 'requiredFeatures' данного элемента.
+Соответствует атрибуту «requiredFeatures» данного элемента.
 
 ```csharp
 public SVGStringList RequiredFeatures { get; }

@@ -1,14 +1,14 @@
 ---
 title: Headers
 second_title: Aspose.SVG for .NET API 参考
-description: 获取RequestHeadersaspose.svg.net/requestheaders
+description: 获取RequestHeadersaspose.svg.net/requestheaders .
 type: docs
 weight: 50
 url: /zh/net/aspose.svg.net/requestmessage/headers/
 ---
 ## RequestMessage.Headers property
 
-获取[`RequestHeaders`](../../requestheaders)。
+获取[`RequestHeaders`](../../requestheaders) .
 
 ```csharp
 public RequestHeaders Headers { get; }

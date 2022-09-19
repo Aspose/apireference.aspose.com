@@ -16,7 +16,7 @@ public SVGAnimatedNumber StdDeviationX { get; }
 
 ### Стоимость имущества
 
-Атрибут stdDeviationX заданного элемента feGaussianBlur.
+Атрибут stdDeviationX данного элемента feGaussianBlur.
 
 ### Смотрите также
 

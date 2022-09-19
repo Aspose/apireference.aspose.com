@@ -1,14 +1,14 @@
 ---
 title: TraceSmoother
 second_title: Aspose.SVG for .NET API 参考
-description: 获取或设置跟踪更平滑
+description: 获取或设置跟踪平滑器
 type: docs
 weight: 60
 url: /zh/net/aspose.svg.imagevectorization/imagevectorizerconfiguration/tracesmoother/
 ---
 ## ImageVectorizerConfiguration.TraceSmoother property
 
-获取或设置跟踪更平滑。
+获取或设置跟踪平滑器。
 
 ```csharp
 public IImageTraceSmoother TraceSmoother { get; set; }

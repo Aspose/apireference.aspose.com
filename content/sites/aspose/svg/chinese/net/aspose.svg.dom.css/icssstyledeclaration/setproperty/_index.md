@@ -1,14 +1,14 @@
 ---
 title: SetProperty
 second_title: Aspose.SVG for .NET API 参考
-description: 用于在此声明块中设置具有默认优先级的属性值 默认优先级不是重要的即 String.Empty
+description: 用于在此声明块中设置具有默认优先级的属性值 默认优先级不重要即 String.Empty
 type: docs
 weight: 90
 url: /zh/net/aspose.svg.dom.css/icssstyledeclaration/setproperty/
 ---
 ## SetProperty(string, string) {#setproperty}
 
-用于在此声明块中设置具有默认优先级的属性值。 默认优先级不是“重要的”，即 String.Empty
+用于在此声明块中设置具有默认优先级的属性值。 默认优先级不“重要”，即 String.Empty
 
 ```csharp
 public void SetProperty(string propertyName, string value)
@@ -16,8 +16,8 @@ public void SetProperty(string propertyName, string value)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| propertyName | String | 属性的名称。 |
-| value | String | 值。 |
+| propertyName | String | 物业名称。 |
+| value | String | 价值。 |
 
 ### 也可以看看
 
@@ -37,8 +37,8 @@ public void SetProperty(string propertyName, string value, string priority)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| propertyName | String | 属性的名称。 |
-| value | String | 值。 |
+| propertyName | String | 物业名称。 |
+| value | String | 价值。 |
 | priority | String | 优先级。 |
 
 ### 也可以看看

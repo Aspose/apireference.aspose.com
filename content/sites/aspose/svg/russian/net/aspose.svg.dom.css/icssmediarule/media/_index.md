@@ -1,14 +1,14 @@
 ---
 title: Media
 second_title: Справочник по Aspose.SVG для .NET API
-description: Список типов носителей для этого правила.
+description: Список типов мультимедиа для этого правила.
 type: docs
 weight: 20
 url: /ru/net/aspose.svg.dom.css/icssmediarule/media/
 ---
 ## ICSSMediaRule.Media property
 
-Список типов носителей для этого правила.
+Список типов мультимедиа для этого правила.
 
 ```csharp
 public IMediaList Media { get; }

@@ -1,14 +1,14 @@
 ---
 title: GetEnumerator
 second_title: Справочник по Aspose.SVG для .NET API
-description: Возвращает перечислитель выполняющий итерацию по коллекции.
+description: Возвращает перечислитель который выполняет итерацию по коллекции.
 type: docs
 weight: 50
 url: /ru/net/aspose.svg.dom.css/cssvaluelist/getenumerator/
 ---
 ## CSSValueList.GetEnumerator method
 
-Возвращает перечислитель, выполняющий итерацию по коллекции.
+Возвращает перечислитель, который выполняет итерацию по коллекции.
 
 ```csharp
 public IEnumerator<CSSValue> GetEnumerator()
@@ -16,7 +16,7 @@ public IEnumerator<CSSValue> GetEnumerator()
 
 ### Возвращаемое значение
 
-IEnumerator, который можно использовать для перебора коллекции.
+АIEnumerator который можно использовать для перебора коллекции.
 
 ### Смотрите также
 

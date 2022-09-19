@@ -1,14 +1,14 @@
 ---
 title: LineNo
 second_title: Aspose.SVG for .NET API 参考
-description: lineno 属性必须返回它被初始化的值创建对象时该属性必须初始化为零它表示脚本中发生错误的行号
+description: lineno 属性必须返回它被初始化的值创建对象时该属性必须初始化为零它代表脚本中发生错误的行号
 type: docs
 weight: 50
 url: /zh/net/aspose.svg.dom.events/errorevent/lineno/
 ---
 ## ErrorEvent.LineNo property
 
-lineno 属性必须返回它被初始化的值。创建对象时，该属性必须初始化为零。它表示脚本中发生错误的行号。
+lineno 属性必须返回它被初始化的值。创建对象时，该属性必须初始化为零。它代表脚本中发生错误的行号。
 
 ```csharp
 public uint LineNo { get; }

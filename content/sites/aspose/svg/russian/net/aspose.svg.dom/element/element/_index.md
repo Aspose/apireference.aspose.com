@@ -1,14 +1,14 @@
 ---
 title: Element
 second_title: Справочник по Aspose.SVG для .NET API
-description: Инициализирует новый экземпляр классаElementaspose.svg.dom/element. Не вызывайте этот конструктор напрямую используйтеCreateElementaspose.svg.dom/document/createelementилиСтрока.
+description: Инициализирует новый экземплярElementaspose.svg.dom/elementучебный класс. Не вызывайте этот конструктор напрямую используйтеCreateElementaspose.svg.dom/document/createelement или жеCreateElementNSaspose.svg.dom/document/createelementns .
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.dom/element/element/
 ---
 ## Element constructor
 
-Инициализирует новый экземпляр класса[`Element`](../../element). Не вызывайте этот конструктор напрямую, используйте[`CreateElement`](../../document/createelement)илиСтрока).
+Инициализирует новый экземпляр[`Element`](../../element)учебный класс. Не вызывайте этот конструктор напрямую, используйте[`CreateElement`](../../document/createelement) или же[`CreateElementNS`](../../document/createelementns) .
 
 ```csharp
 public Element(IElementInit elementInit)

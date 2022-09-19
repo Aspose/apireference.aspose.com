@@ -16,7 +16,7 @@ public SVGAnimatedNumber PointsAtZ { get; }
 
 ### Стоимость имущества
 
-Атрибут 'pointsAtZ' данного элемента 'feSpotLight'.
+Атрибут pointsAtZ данного элемента feSpotLight.
 
 ### Смотрите также
 

@@ -1,7 +1,7 @@
 ---
 title: CreateSVGNumber
 second_title: Справочник по Aspose.SVG для .NET API
-description: Создает объект SVGNumber вне каких-либо деревьев документов. Объект инициализируется нулевым значением.
+description: Создает объект SVGNumber вне какихлибо деревьев документов. Объект инициализируется нулевым значением.
 type: docs
 weight: 150
 url: /ru/net/aspose.svg/svgsvgelement/createsvgnumber/

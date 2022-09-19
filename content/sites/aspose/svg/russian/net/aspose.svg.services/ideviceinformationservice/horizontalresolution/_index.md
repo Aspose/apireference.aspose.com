@@ -1,14 +1,14 @@
 ---
 title: HorizontalResolution
 second_title: Справочник по Aspose.SVG для .NET API
-description: Получает или задает разрешение по горизонтали.
+description: Получает или задает горизонтальное разрешение.
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.services/ideviceinformationservice/horizontalresolution/
 ---
 ## IDeviceInformationService.HorizontalResolution property
 
-Получает или задает разрешение по горизонтали.
+Получает или задает горизонтальное разрешение.
 
 ```csharp
 public Resolution HorizontalResolution { get; set; }

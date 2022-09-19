@@ -1,14 +1,14 @@
 ---
 title: Font
 second_title: Aspose.SVG for .NET API 参考
-description: 设置或获取用于呈现文本的 true type 字体对象
+description: 设置或获取用于渲染文本的真字体对象
 type: docs
 weight: 40
 url: /zh/net/aspose.svg.rendering/graphiccontext/font/
 ---
 ## GraphicContext.Font property
 
-设置或获取用于呈现文本的 true type 字体对象。
+设置或获取用于渲染文本的真字体对象。
 
 ```csharp
 public virtual ITrueTypeFont Font { get; set; }

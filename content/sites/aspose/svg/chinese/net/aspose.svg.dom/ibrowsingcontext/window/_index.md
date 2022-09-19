@@ -16,7 +16,7 @@ public IWindow Window { get; }
 
 ### 适当的价值
 
-窗口。
+窗户。
 
 ### 也可以看看
 

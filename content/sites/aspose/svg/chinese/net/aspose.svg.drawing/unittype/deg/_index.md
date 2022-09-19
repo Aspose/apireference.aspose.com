@@ -1,14 +1,14 @@
 ---
 title: Deg
 second_title: Aspose.SVG for .NET API 参考
-description: 度量单位为度
+description: 测量以度为单位
 type: docs
 weight: 40
 url: /zh/net/aspose.svg.drawing/unittype/deg/
 ---
 ## UnitType.Deg field
 
-度量单位为度。
+测量以度为单位。
 
 ```csharp
 public static readonly UnitType Deg;

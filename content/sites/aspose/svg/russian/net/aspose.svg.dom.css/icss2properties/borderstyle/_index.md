@@ -1,14 +1,14 @@
 ---
 title: BorderStyle
 second_title: Справочник по Aspose.SVG для .NET API
-description: См. определение свойства border-style в CSS2.
+description: См. определение свойства стиля рамки в CSS2.
 type: docs
 weight: 240
 url: /ru/net/aspose.svg.dom.css/icss2properties/borderstyle/
 ---
 ## ICSS2Properties.BorderStyle property
 
-См. определение свойства border-style в CSS2.
+См. определение свойства стиля рамки в CSS2.
 
 ```csharp
 public string BorderStyle { get; set; }
@@ -16,7 +16,7 @@ public string BorderStyle { get; set; }
 
 ### Возвращаемое значение
 
-свойство границы
+собственность в стиле границы
 
 ### Смотрите также
 

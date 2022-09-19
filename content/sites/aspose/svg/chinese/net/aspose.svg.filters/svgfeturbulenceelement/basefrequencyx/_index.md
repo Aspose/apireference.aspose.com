@@ -1,14 +1,14 @@
 ---
 title: BaseFrequencyX
 second_title: Aspose.SVG for .NET API 参考
-description: 对应于给定 feTurbulence 元素的属性 baseFrequency包含baseFrequency属性的 X 分量
+description: 对应于给定 feTurbulence 元素上的属性 baseFrequency包含baseFrequency属性的 X 分量
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.filters/svgfeturbulenceelement/basefrequencyx/
 ---
 ## SVGFETurbulenceElement.BaseFrequencyX property
 
-对应于给定 'feTurbulence' 元素的属性 'baseFrequency'。包含“baseFrequency”属性的 X 分量。
+对应于给定 'feTurbulence' 元素上的属性 'baseFrequency'。包含“baseFrequency”属性的 X 分量。
 
 ```csharp
 public SVGAnimatedNumber BaseFrequencyX { get; }
@@ -16,7 +16,7 @@ public SVGAnimatedNumber BaseFrequencyX { get; }
 
 ### 适当的价值
 
-给定 'feTurbulence' 元素的属性 'baseFrequency'。
+给定“feTurbulence”元素的属性“baseFrequency”。
 
 ### 也可以看看
 

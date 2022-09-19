@@ -1,14 +1,14 @@
 ---
 title: TransformationMatrix
 second_title: Справочник по Aspose.SVG для .NET API
-description: Получить преобразование. Преобразование определяет локальное геометрическое преобразование для этой кисти.
+description: Получить трансформацию. Преобразование определяет локальное геометрическое преобразование для этой кисти.
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.drawing/itransformablebrush/transformationmatrix/
 ---
 ## ITransformableBrush.TransformationMatrix property
 
-Получить преобразование. Преобразование определяет локальное геометрическое преобразование для этой кисти.
+Получить трансформацию. Преобразование определяет локальное геометрическое преобразование для этой кисти.
 
 ```csharp
 public Matrix TransformationMatrix { get; }

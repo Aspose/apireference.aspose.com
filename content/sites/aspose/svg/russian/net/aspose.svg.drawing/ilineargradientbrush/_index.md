@@ -3,7 +3,7 @@ title: ILinearGradientBrush
 second_title: Справочник по Aspose.SVG для .NET API
 description: Определяет интерфейс кисти с линейным градиентом.
 type: docs
-weight: 1460
+weight: 1470
 url: /ru/net/aspose.svg.drawing/ilineargradientbrush/
 ---
 ## ILinearGradientBrush interface

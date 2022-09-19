@@ -16,7 +16,7 @@ public static MimeType FromFileExtension(string fileName)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| fileName | String | 文件名。 |
+| fileName | String | 文件的名称。 |
 
 ### 返回值
 

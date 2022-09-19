@@ -1,14 +1,14 @@
 ---
 title: SVGAnimatedEnumeration
 second_title: Aspose.SVG for .NET API 参考
-description: 用于其值必须是来自特定枚举的常量并且可以设置动画的属性
+description: 用于其值必须是来自特定枚举的常量并且可以动画的属性
 type: docs
-weight: 120
+weight: 110
 url: /zh/net/aspose.svg.datatypes/svganimatedenumeration/
 ---
 ## SVGAnimatedEnumeration class
 
-用于其值必须是来自特定枚举的常量并且可以设置动画的属性。
+用于其值必须是来自特定枚举的常量并且可以动画的属性。
 
 ```csharp
 public class SVGAnimatedEnumeration : SVGAnimatedValue<ushort>
@@ -25,9 +25,9 @@ public class SVGAnimatedEnumeration : SVGAnimatedValue<ushort>
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose)() | 释放非托管和（可选）托管资源。 |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | 此方法用于检索 ECMAScript 对象Type。 |
-| override [ToString](../../aspose.svg.datatypes/svganimatedenumeration/tostring)() | 返回代表此实例的String。 |
+| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose)() | 释放非托管和 - 可选 - 托管资源。 |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | 此方法用于检索 ECMAScript 对象Type . |
+| override [ToString](../../aspose.svg.datatypes/svganimatedenumeration/tostring)() | 返回一个String代表这个实例。 |
 
 ### 也可以看看
 

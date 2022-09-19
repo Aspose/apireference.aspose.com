@@ -20,7 +20,7 @@ public ShadowRoot AttachShadow(ShadowRootMode mode)
 
 ### 返回值
 
-创建[`ShadowRoot`](../../shadowroot)。
+已创建[`ShadowRoot`](../../shadowroot).
 
 ### 例外
 

@@ -1,14 +1,14 @@
 ---
 title: FromDotsPerCentimeters
 second_title: Aspose.SVG for .NET API 参考
-description: 返回以每厘米点数表示的Resolutionaspose.svg.drawing/resolution对象
+description: 返回一个Resolutionaspose.svg.drawing/resolution以每厘米点数表示的对象
 type: docs
 weight: 70
 url: /zh/net/aspose.svg.drawing/unit/fromdotspercentimeters/
 ---
 ## Unit.FromDotsPerCentimeters method
 
-返回以每厘米点数表示的[`Resolution`](../../resolution)对象。
+返回一个[`Resolution`](../../resolution)以每厘米点数表示的对象。
 
 ```csharp
 public static Resolution FromDotsPerCentimeters(double value)
@@ -16,11 +16,11 @@ public static Resolution FromDotsPerCentimeters(double value)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| value | Double | 值。 |
+| value | Double | 价值。 |
 
 ### 返回值
 
-返回一个[`Resolution`](../../resolution)对象。
+返回一个[`Resolution`](../../resolution)目的。
 
 ### 也可以看看
 

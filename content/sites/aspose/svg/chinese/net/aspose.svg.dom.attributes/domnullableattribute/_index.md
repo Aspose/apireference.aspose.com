@@ -3,7 +3,7 @@ title: DOMNullableAttribute
 second_title: Aspose.SVG for .NET API 参考
 description: 指定一个 DOM 对象可以被赋予空值
 type: docs
-weight: 420
+weight: 410
 url: /zh/net/aspose.svg.dom.attributes/domnullableattribute/
 ---
 ## DOMNullableAttribute class

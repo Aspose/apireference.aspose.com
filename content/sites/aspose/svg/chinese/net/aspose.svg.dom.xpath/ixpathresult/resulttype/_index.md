@@ -1,14 +1,14 @@
 ---
 title: ResultType
 second_title: Aspose.SVG for .NET API 参考
-description: 表示此结果类型的代码由 http//www.w3.org/TR/DOM-Level-3-XPath/xpath 定义.htmlXPathResult XPathResultTypeaspose.svg.dom.xpath/xpathresulttype枚举
+description: 表示此结果类型的代码由 http//www.w3.org/TR/DOMLevel3XPath/xpath.htmlXPathResult 定义XPathResultTypeaspose.svg.dom.xpath/xpathresulttype枚举.
 type: docs
 weight: 40
 url: /zh/net/aspose.svg.dom.xpath/ixpathresult/resulttype/
 ---
 ## IXPathResult.ResultType property
 
-表示此结果类型的代码，由 http://www.w3.org/TR/DOM-Level-3-XPath/xpath 定义.html#XPathResult [`XPathResultType`](../../xpathresulttype)枚举。
+表示此结果类型的代码，由 http://www.w3.org/TR/DOM-Level-3-XPath/xpath.html#XPathResult 定义[`XPathResultType`](../../xpathresulttype)枚举.
 
 ```csharp
 public XPathResultType ResultType { get; }

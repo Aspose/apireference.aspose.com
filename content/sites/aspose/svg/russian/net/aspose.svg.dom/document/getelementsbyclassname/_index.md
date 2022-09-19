@@ -1,14 +1,14 @@
 ---
 title: GetElementsByClassName
 second_title: Справочник по Aspose.SVG для .NET API
-description: Возвращает активный объект NodeList содержащий все элементы в документе которые имеют все классы указанные в аргументе. http//www.w3.org/TR/dom/
+description: Возвращает активный объект NodeList содержащий все элементы документа имеющие все классы указанные в аргументе. http//www.w3.org/TR/dom/
 type: docs
 weight: 970
 url: /ru/net/aspose.svg.dom/document/getelementsbyclassname/
 ---
 ## Document.GetElementsByClassName method
 
-Возвращает активный объект NodeList, содержащий все элементы в документе, которые имеют все классы, указанные в аргументе. http://www.w3.org/TR/dom/
+Возвращает активный объект NodeList, содержащий все элементы документа, имеющие все классы, указанные в аргументе. http://www.w3.org/TR/dom/
 
 ```csharp
 public HTMLCollection GetElementsByClassName(string classNames)
@@ -16,11 +16,11 @@ public HTMLCollection GetElementsByClassName(string classNames)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| classNames | String | Строка строка, содержащая неупорядоченный набор уникальных пробелов. отдельные токены, представляющие классы (имена классов) |
+| classNames | String | Строковая строка, содержащая неупорядоченный набор уникальных разделенных пробелами токенов, представляющих классы (имена классов). |
 
 ### Возвращаемое значение
 
-[`Element`](../../element).
+[`Element`](../../element) .
 
 ### Смотрите также
 

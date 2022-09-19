@@ -1,9 +1,9 @@
 ---
 title: ContentDispositionHeaderValue
 second_title: Справочник по Aspose.SVG для .NET API
-description: Представляет значение заголовка Content-Disposition.
+description: Представляет значение заголовка ContentDisposition.
 type: docs
-weight: 2220
+weight: 2230
 url: /ru/net/aspose.svg.net.headers/contentdispositionheadervalue/
 ---
 ## ContentDispositionHeaderValue class
@@ -18,23 +18,23 @@ public class ContentDispositionHeaderValue
 
 | Имя | Описание |
 | --- | --- |
-| [ContentDispositionHeaderValue](contentdispositionheadervalue)(string) | Создайте новый экземпляр этого типа диспозиции. |
+| [ContentDispositionHeaderValue](contentdispositionheadervalue)(string) | Создать новый экземпляр этого типа расположения. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [DispositionType](../../aspose.svg.net.headers/contentdispositionheadervalue/dispositiontype) { get; set; } | Получить или установить тип расположения |
-| [FileName](../../aspose.svg.net.headers/contentdispositionheadervalue/filename) { get; set; } | Имя сохраняемого файла. |
-| [Name](../../aspose.svg.net.headers/contentdispositionheadervalue/name) { get; set; } | Имя части содержимого. |
+| [DispositionType](../../aspose.svg.net.headers/contentdispositionheadervalue/dispositiontype) { get; set; } | Получить или установить тип размещения |
+| [FileName](../../aspose.svg.net.headers/contentdispositionheadervalue/filename) { get; set; } | Имя сохраненного файла. |
+| [Name](../../aspose.svg.net.headers/contentdispositionheadervalue/name) { get; set; } | Имя основной части контента. |
 | [Parameters](../../aspose.svg.net.headers/contentdispositionheadervalue/parameters) { get; } | Получить набор параметров |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| override [Equals](../../aspose.svg.net.headers/contentdispositionheadervalue/equals)(object) | Определяет, равен ли указанныйObjectэтому экземпляру. |
-| override [ToString](../../aspose.svg.net.headers/contentdispositionheadervalue/tostring)() | ВозвращаетString, представляющий этот экземпляр. |
+| override [Equals](../../aspose.svg.net.headers/contentdispositionheadervalue/equals)(object) | Определяет, является ли указанныйObject равен этому экземпляру. |
+| override [ToString](../../aspose.svg.net.headers/contentdispositionheadervalue/tostring)() | ВозвращаетString который представляет этот экземпляр. |
 
 ### Смотрите также
 

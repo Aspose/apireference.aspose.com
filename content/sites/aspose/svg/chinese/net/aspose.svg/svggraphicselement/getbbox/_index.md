@@ -1,14 +1,14 @@
 ---
 title: GetBBox
 second_title: Aspose.SVG for .NET API 参考
-description: 返回当前用户空间中的紧密边界框即在应用变换属性后如果有的话所有包含的图形元素的几何图形不包括描边剪切掩蔽和过滤效果请注意getBBox 必须在调用该方法时返回实际的边界框即使元素尚未被渲染也是如此
+description: 返回当前用户空间中的紧密边界框即在应用变换属性后如果有的话所有包含的图形元素的几何图形不包括描边剪裁遮罩和过滤效果请注意getBBox 必须在调用方法时返回实际的边界框即使元素尚未渲染
 type: docs
 weight: 70
 url: /zh/net/aspose.svg/svggraphicselement/getbbox/
 ---
 ## SVGGraphicsElement.GetBBox method
 
-返回当前用户空间中的紧密边界框（即，在应用“变换”属性后，如果有的话）所有包含的图形元素的几何图形，不包括描边、剪切、掩蔽和过滤效果）。请注意，getBBox 必须在调用该方法时返回实际的边界框，即使元素尚未被渲染也是如此。
+返回当前用户空间中的紧密边界框（即，在应用“变换”属性后，如果有的话）所有包含的图形元素的几何图形，不包括描边、剪裁、遮罩和过滤效果）。请注意，getBBox 必须在调用方法时返回实际的边界框，即使元素尚未渲染。
 
 ```csharp
 public SVGRect GetBBox()

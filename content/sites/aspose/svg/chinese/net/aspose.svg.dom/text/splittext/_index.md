@@ -1,14 +1,14 @@
 ---
 title: SplitText
 second_title: Aspose.SVG for .NET API 参考
-description: 在指定的偏移量处将此节点拆分为两个节点将两个节点作为兄弟节点保存在树中
+description: 在指定的偏移量处将此节点分成两个节点将两个节点作为兄弟节点保存在树中
 type: docs
 weight: 80
 url: /zh/net/aspose.svg.dom/text/splittext/
 ---
 ## Text.SplitText method
 
-在指定的偏移量处将此节点拆分为两个节点，将两个节点作为兄弟节点保存在树中。
+在指定的偏移量处将此节点分成两个节点，将两个节点作为兄弟节点保存在树中。
 
 ```csharp
 public Text SplitText(int offset)
@@ -20,7 +20,7 @@ public Text SplitText(int offset)
 
 ### 返回值
 
-[`Text`](../../text)。
+的[`Text`](../../text) .
 
 ### 也可以看看
 

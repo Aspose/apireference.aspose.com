@@ -16,7 +16,7 @@ public SVGAnimatedNumber Scale { get; }
 
 ### 适当的价值
 
-给定 'feDisplacementMap' 元素的属性 'scale'。
+给定'feDisplacementMap'元素的属性'scale'。
 
 ### 也可以看看
 

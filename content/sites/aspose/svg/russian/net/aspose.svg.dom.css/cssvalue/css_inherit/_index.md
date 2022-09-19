@@ -1,14 +1,14 @@
 ---
 title: CSS_INHERIT
 second_title: Справочник по Aspose.SVG для .NET API
-description: Значение наследуется а cssText содержит наследовать.
+description: Значение унаследовано а cssText содержит наследовать.
 type: docs
 weight: 80
 url: /ru/net/aspose.svg.dom.css/cssvalue/css_inherit/
 ---
 ## CSSValue.CSS_INHERIT field
 
-Значение наследуется, а cssText содержит "наследовать".
+Значение унаследовано, а cssText содержит «наследовать».
 
 ```csharp
 public const ushort CSS_INHERIT;

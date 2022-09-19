@@ -1,14 +1,14 @@
 ---
 title: MultipartContent
 second_title: Справочник по Aspose.SVG для .NET API
-description: Создайте новый экземпляр классаMultipartContentaspose.svg.net/multipartcontent.
+description: Создать новый экземплярMultipartContentaspose.svg.net/multipartcontent класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.net/multipartcontent/multipartcontent/
 ---
 ## MultipartContent() {#constructor}
 
-Создайте новый экземпляр класса[`MultipartContent`](../../multipartcontent).
+Создать новый экземпляр[`MultipartContent`](../../multipartcontent) класс.
 
 ```csharp
 public MultipartContent()
@@ -24,7 +24,7 @@ public MultipartContent()
 
 ## MultipartContent(string) {#constructor_1}
 
-Создайте новый экземпляр класса[`MultipartContent`](../../multipartcontent)с подтипом.
+Создать новый экземпляр[`MultipartContent`](../../multipartcontent) класс с подтипом.
 
 ```csharp
 public MultipartContent(string subtype)
@@ -44,7 +44,7 @@ public MultipartContent(string subtype)
 
 ## MultipartContent(string, string) {#constructor_2}
 
-Создайте новый экземпляр класса[`MultipartContent`](../../multipartcontent)с подтипом и границей.
+Создать новый экземпляр[`MultipartContent`](../../multipartcontent) класс с подтипом и границей.
 
 ```csharp
 public MultipartContent(string subtype, string boundary)

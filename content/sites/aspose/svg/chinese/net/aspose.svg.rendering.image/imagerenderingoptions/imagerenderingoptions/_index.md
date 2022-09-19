@@ -1,14 +1,14 @@
 ---
 title: ImageRenderingOptions
 second_title: Aspose.SVG for .NET API 参考
-description: 初始化ImageRenderingOptionsaspose.svg.rendering.image/imagerenderingoptions类的新实例Png将用作默认图像格式
+description: 初始化ImageRenderingOptionsaspose.svg.rendering.image/imagerenderingoptions班级Png将用作默认图像格式
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.rendering.image/imagerenderingoptions/imagerenderingoptions/
 ---
 ## ImageRenderingOptions() {#constructor}
 
-初始化[`ImageRenderingOptions`](../../imagerenderingoptions)类的新实例；Png将用作默认图像格式。
+初始化[`ImageRenderingOptions`](../../imagerenderingoptions)班级;Png将用作默认图像格式。
 
 ```csharp
 public ImageRenderingOptions()
@@ -24,7 +24,7 @@ public ImageRenderingOptions()
 
 ## ImageRenderingOptions(ImageFormat) {#constructor_1}
 
-使用指定的图像格式初始化[`ImageRenderingOptions`](../../imagerenderingoptions)类的新实例。
+初始化[`ImageRenderingOptions`](../../imagerenderingoptions)具有指定图像格式的类。
 
 ```csharp
 public ImageRenderingOptions(ImageFormat format)

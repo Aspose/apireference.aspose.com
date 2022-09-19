@@ -1,14 +1,14 @@
 ---
 title: StrokeAndFill
 second_title: Справочник по Aspose.SVG для .NET API
-description: Штрихи и заливка текущего пути. Этот метод завершает текущий путь.
+description: Штрихует и заполняет текущий путь. Этот метод завершает текущий путь.
 type: docs
 weight: 220
 url: /ru/net/aspose.svg.rendering.image/imagedevice/strokeandfill/
 ---
 ## ImageDevice.StrokeAndFill method
 
-Штрихи и заливка текущего пути. Этот метод завершает текущий путь.
+Штрихует и заполняет текущий путь. Этот метод завершает текущий путь.
 
 ```csharp
 public override void StrokeAndFill(FillMode mode)

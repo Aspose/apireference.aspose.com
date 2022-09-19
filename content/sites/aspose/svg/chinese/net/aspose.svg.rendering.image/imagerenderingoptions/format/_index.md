@@ -1,14 +1,14 @@
 ---
 title: Format
 second_title: Aspose.SVG for .NET API 参考
-description: 设置或获取ImageFormataspose.svg.rendering.image/imageformat默认情况下此属性为Png
+description: 设置或获取ImageFormataspose.svg.rendering.image/imageformat.默认情况下此属性为Png .
 type: docs
 weight: 30
 url: /zh/net/aspose.svg.rendering.image/imagerenderingoptions/format/
 ---
 ## ImageRenderingOptions.Format property
 
-设置或获取[`ImageFormat`](../../imageformat)。默认情况下，此属性为Png。
+设置或获取[`ImageFormat`](../../imageformat).默认情况下，此属性为Png .
 
 ```csharp
 public ImageFormat Format { get; set; }

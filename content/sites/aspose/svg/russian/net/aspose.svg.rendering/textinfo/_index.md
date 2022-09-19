@@ -3,7 +3,7 @@ title: TextInfo
 second_title: Справочник по Aspose.SVG для .NET API
 description: Содержит информацию о отображаемом тексте.
 type: docs
-weight: 2980
+weight: 2990
 url: /ru/net/aspose.svg.rendering/textinfo/
 ---
 ## TextInfo class
@@ -18,7 +18,7 @@ public class TextInfo
 
 | Имя | Описание |
 | --- | --- |
-| [GlyphInfos](../../aspose.svg.rendering/textinfo/glyphinfos) { get; } | Получает информацию о отображаемых глифах. |
+| [GlyphInfos](../../aspose.svg.rendering/textinfo/glyphinfos) { get; } | Получает информацию о визуализированных глифах. |
 
 ### Смотрите также
 

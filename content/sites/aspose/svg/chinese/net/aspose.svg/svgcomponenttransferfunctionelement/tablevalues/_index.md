@@ -1,14 +1,14 @@
 ---
 title: TableValues
 second_title: Aspose.SVG for .NET API 参考
-description: 对应于给定元素的属性tableValues
+description: 对应于给定元素上的属性tableValues
 type: docs
 weight: 60
 url: /zh/net/aspose.svg/svgcomponenttransferfunctionelement/tablevalues/
 ---
 ## SVGComponentTransferFunctionElement.TableValues property
 
-对应于给定元素的属性“tableValues”。
+对应于给定元素上的属性“tableValues”。
 
 ```csharp
 public SVGAnimatedNumberList TableValues { get; }

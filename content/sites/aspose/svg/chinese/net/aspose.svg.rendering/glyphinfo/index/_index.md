@@ -1,14 +1,14 @@
 ---
 title: Index
 second_title: Aspose.SVG for .NET API 参考
-description: 获取字体中此字形的索引
+description: 获取此字形在字体中的索引
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.rendering/glyphinfo/index/
 ---
 ## GlyphInfo.Index property
 
-获取字体中此字形的索引。
+获取此字形在字体中的索引。
 
 ```csharp
 public uint Index { get; }
@@ -16,7 +16,7 @@ public uint Index { get; }
 
 ### 适当的价值
 
-字形索引。
+字形的索引。
 
 ### 也可以看看
 

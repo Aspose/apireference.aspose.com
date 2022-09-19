@@ -1,14 +1,14 @@
 ---
 title: TargetX
 second_title: Aspose.SVG for .NET API 参考
-description: 对应于给定 feConvolveMatrix 元素上的属性 targetX
+description: 对应于给定feConvolveMatrix元素的属性targetX
 type: docs
 weight: 130
 url: /zh/net/aspose.svg.filters/svgfeconvolvematrixelement/targetx/
 ---
 ## SVGFEConvolveMatrixElement.TargetX property
 
-对应于给定 'feConvolveMatrix' 元素上的属性 'targetX'。
+对应于给定“feConvolveMatrix”元素的属性“targetX”。
 
 ```csharp
 public SVGAnimatedInteger TargetX { get; }
@@ -16,7 +16,7 @@ public SVGAnimatedInteger TargetX { get; }
 
 ### 适当的价值
 
-给定 'feConvolveMatrix' 元素的属性 'targetX'。
+给定“feConvolveMatrix”元素的属性“targetX”。
 
 ### 也可以看看
 

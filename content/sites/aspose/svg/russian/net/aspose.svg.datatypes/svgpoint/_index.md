@@ -1,14 +1,14 @@
 ---
 title: SVGPoint
 second_title: Справочник по Aspose.SVG для .NET API
-description: Многие интерфейсы SVG DOM ссылаются на объекты класса SVGPoint. SVGPoint  это пара координат x y. При использовании в матричных операциях SVGPoint рассматривается как вектор вида x y 1 Если объект SVGRect обозначен как доступный только для чтения то попытка присвоить значение одному из его атрибутов приведет к возникновению исключения.
+description: Многие интерфейсы SVG DOM ссылаются на объекты класса SVGPoint. SVGPoint  это пара координат x y. При использовании в матричных операциях SVGPoint рассматривается как вектор вида x y 1 Если объект SVGRect обозначен как доступный только для чтения то попытка присвоить один из его атрибутов приведет к привести к возникновению исключения.
 type: docs
-weight: 280
+weight: 270
 url: /ru/net/aspose.svg.datatypes/svgpoint/
 ---
 ## SVGPoint class
 
-Многие интерфейсы SVG DOM ссылаются на объекты класса SVGPoint. SVGPoint — это пара координат (x, y). При использовании в матричных операциях SVGPoint рассматривается как вектор вида: [x] [y] [1] Если объект SVGRect обозначен как доступный только для чтения, то попытка присвоить значение одному из его атрибутов приведет к возникновению исключения.
+Многие интерфейсы SVG DOM ссылаются на объекты класса SVGPoint. SVGPoint — это пара координат (x, y). При использовании в матричных операциях SVGPoint рассматривается как вектор вида: [x] [y] [1] Если объект SVGRect обозначен как доступный только для чтения, то попытка присвоить один из его атрибутов приведет к привести к возникновению исключения.
 
 ```csharp
 public class SVGPoint : SVGValueType
@@ -26,9 +26,9 @@ public class SVGPoint : SVGValueType
 | Имя | Описание |
 | --- | --- |
 | [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose)() | Освобождает неуправляемые и (необязательно) управляемые ресурсы. |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | Этот метод используется для получения объекта ECMAScriptType. |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | Этот метод используется для получения объекта ECMAScript.Type . |
 | [MatrixTransform](../../aspose.svg.datatypes/svgpoint/matrixtransform)(SVGMatrix) | Применяет матричное преобразование 2x3 к этому объекту SVGPoint и возвращает новый, преобразованный объект SVGPoint: newpoint = matrix* thispoint |
-| override [ToString](../../aspose.svg.datatypes/svgpoint/tostring)() | ВозвращаетString, представляющий этот экземпляр. |
+| override [ToString](../../aspose.svg.datatypes/svgpoint/tostring)() | ВозвращаетString который представляет этот экземпляр. |
 
 ### Смотрите также
 

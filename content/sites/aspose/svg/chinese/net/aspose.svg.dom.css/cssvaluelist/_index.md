@@ -3,7 +3,7 @@ title: CSSValueList
 second_title: Aspose.SVG for .NET API 参考
 description: CSSValueList 接口提供了 CSS 值的有序集合的抽象
 type: docs
-weight: 510
+weight: 500
 url: /zh/net/aspose.svg.dom.css/cssvaluelist/
 ---
 ## CSSValueList class
@@ -18,28 +18,28 @@ public class CSSValueList : CSSValue, ICSSValueList, IEnumerable<CSSValue>
 
 | 姓名 | 描述 |
 | --- | --- |
-| [CSSValueList](cssvaluelist#constructor)() | 初始化[`CSSValueList`](../cssvaluelist)类的新实例。 |
-| [CSSValueList](cssvaluelist#constructor_1)(params CSSValue[]) | 初始化[`CSSValueList`](../cssvaluelist)类的新实例。 |
-| [CSSValueList](cssvaluelist#constructor_2)(IEnumerable&lt;CSSValue&gt;) | 初始化[`CSSValueList`](../cssvaluelist)类的新实例。 |
+| [CSSValueList](cssvaluelist#constructor)() | 初始化[`CSSValueList`](../cssvaluelist)类. |
+| [CSSValueList](cssvaluelist#constructor_1)(params CSSValue[]) | 初始化[`CSSValueList`](../cssvaluelist)类. |
+| [CSSValueList](cssvaluelist#constructor_2)(IEnumerable&lt;CSSValue&gt;) | 初始化[`CSSValueList`](../cssvaluelist)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| override [CSSText](../../aspose.svg.dom.css/cssvaluelist/csstext) { get; set; } | 当前值的字符串表示。 |
+| override [CSSText](../../aspose.svg.dom.css/cssvaluelist/csstext) { get; set; } | 当前值的字符串表示形式。 |
 | [CSSValueType](../../aspose.svg.dom.css/cssvalue/cssvaluetype) { get; } | 定义值类型的代码。 |
-| [Item](../../aspose.svg.dom.css/cssvaluelist/item) { get; } | 获取指定索引处的[`CSSValue`](../cssvalue)。 |
+| [Item](../../aspose.svg.dom.css/cssvaluelist/item) { get; } | 获取[`CSSValue`](../cssvalue)在指定的索引处。 |
 | [Length](../../aspose.svg.dom.css/cssvaluelist/length) { get; } | 列表中 CSSValue 的数量。 |
 
 ## 方法
 
 | 姓名 | 描述 |
 | --- | --- |
-| override [Equals](../../aspose.svg.dom.css/cssvalue/equals)(object) | 确定指定的Object是否等于此实例。 |
+| override [Equals](../../aspose.svg.dom.css/cssvalue/equals)(object) | 判断是否指定Object等于这个实例。 |
 | [GetEnumerator](../../aspose.svg.dom.css/cssvaluelist/getenumerator)() | 返回一个遍历集合的枚举器。 |
 | override [GetHashCode](../../aspose.svg.dom.css/cssvalue/gethashcode)() | 返回此实例的哈希码。 |
-| override [GetPlatformType](../../aspose.svg.dom.css/cssvaluelist/getplatformtype)() | 此方法用于检索 ECMAScript 对象Type。 |
-| override [ToString](../../aspose.svg.dom.css/cssvalue/tostring)() | 返回代表此实例的String。 |
+| override [GetPlatformType](../../aspose.svg.dom.css/cssvaluelist/getplatformtype)() | 此方法用于检索 ECMAScript 对象Type . |
+| override [ToString](../../aspose.svg.dom.css/cssvalue/tostring)() | 返回一个String代表这个实例。 |
 
 ### 也可以看看
 

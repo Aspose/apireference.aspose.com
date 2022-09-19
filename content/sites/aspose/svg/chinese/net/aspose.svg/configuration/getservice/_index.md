@@ -21,7 +21,7 @@ public TService GetService<TService>()
 
 ### 返回值
 
-如果可以找到服务的实例，或者 null 如果找不到
+如果可以找到服务的实例，或者无效的如果找不到
 
 ### 也可以看看
 

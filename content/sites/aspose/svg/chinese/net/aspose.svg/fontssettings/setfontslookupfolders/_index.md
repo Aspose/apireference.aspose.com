@@ -37,7 +37,7 @@ public void SetFontsLookupFolders(string[] fontsFolders, bool recursive)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | fontsFolders | String[] | 字体文件夹。 |
-| recursive | Boolean | 如果设置为` true` 将使用所有嵌套目录。默认值为` false` 。 |
+| recursive | Boolean | 如果设置为`真的`将使用所有嵌套目录。默认值为`错误的`. |
 
 ### 也可以看看
 

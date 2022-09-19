@@ -1,14 +1,14 @@
 ---
 title: CSSValueList
 second_title: Справочник по Aspose.SVG для .NET API
-description: Инициализирует новый экземпляр классаCSSValueListaspose.svg.dom.css/cssvaluelist.
+description: Инициализирует новый экземплярCSSValueListaspose.svg.dom.css/cssvaluelist класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.dom.css/cssvaluelist/cssvaluelist/
 ---
 ## CSSValueList() {#constructor}
 
-Инициализирует новый экземпляр класса[`CSSValueList`](../../cssvaluelist).
+Инициализирует новый экземпляр[`CSSValueList`](../../cssvaluelist) класс.
 
 ```csharp
 public CSSValueList()
@@ -24,7 +24,7 @@ public CSSValueList()
 
 ## CSSValueList(IEnumerable&lt;CSSValue&gt;) {#constructor_2}
 
-Инициализирует новый экземпляр класса[`CSSValueList`](../../cssvaluelist).
+Инициализирует новый экземпляр[`CSSValueList`](../../cssvaluelist) класс.
 
 ```csharp
 public CSSValueList(IEnumerable<CSSValue> values)
@@ -32,7 +32,7 @@ public CSSValueList(IEnumerable<CSSValue> values)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| values | IEnumerable`1 | Значения. |
+| values | IEnumerable`1 | Ценности. |
 
 ### Смотрите также
 
@@ -45,7 +45,7 @@ public CSSValueList(IEnumerable<CSSValue> values)
 
 ## CSSValueList(params CSSValue[]) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`CSSValueList`](../../cssvaluelist).
+Инициализирует новый экземпляр[`CSSValueList`](../../cssvaluelist) класс.
 
 ```csharp
 public CSSValueList(params CSSValue[] values)
@@ -53,7 +53,7 @@ public CSSValueList(params CSSValue[] values)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| values | CSSValue[] | Значения. |
+| values | CSSValue[] | Ценности. |
 
 ### Смотрите также
 

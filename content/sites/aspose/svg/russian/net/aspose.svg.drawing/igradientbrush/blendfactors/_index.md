@@ -1,14 +1,14 @@
 ---
 title: BlendFactors
 second_title: Справочник по Aspose.SVG для .NET API
-description: Получите коэффициенты смешивания которые определяют пользовательский спад для градиента.
+description: Получить коэффициенты смешивания которые определяют пользовательский спад для градиента.
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.drawing/igradientbrush/blendfactors/
 ---
 ## IGradientBrush.BlendFactors property
 
-Получите коэффициенты смешивания, которые определяют пользовательский спад для градиента.
+Получить коэффициенты смешивания, которые определяют пользовательский спад для градиента.
 
 ```csharp
 public float[] BlendFactors { get; }
@@ -16,7 +16,7 @@ public float[] BlendFactors { get; }
 
 ### Возвращаемое значение
 
-Коэффициенты смешения.
+Смешать факторы.
 
 ### Смотрите также
 

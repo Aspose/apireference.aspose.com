@@ -1,14 +1,14 @@
 ---
 title: SnapshotItem
 second_title: Aspose.SVG for .NET API 参考
-description: 返回 指数快照集合中的项目 如果 指数 大于 或等于列表中的节点数此方法返回 null. 不像 迭代器结果快照不会失效但可能与当前不对应 如果它发生突变请记录
+description: 返回指数快照集合中的第一项如果指数大于 或等于列表中的节点数此方法返回无效的.与 迭代器结果不同快照不会变为无效但如果它发生了变异则可能与当前的 文档不对应
 type: docs
 weight: 90
 url: /zh/net/aspose.svg.dom.xpath/ixpathresult/snapshotitem/
 ---
 ## IXPathResult.SnapshotItem method
 
-返回 `指数`快照集合中的项目。 如果 `指数` 大于 或等于列表中的节点数，此方法返回 `null`. 不像 迭代器结果，快照不会失效，但可能与当前不对应 如果它发生突变，请记录。
+返回`指数`快照集合中的第一项。如果`指数`大于 或等于列表中的节点数，此方法返回`无效的`.与 迭代器结果不同，快照不会变为无效，但如果它发生了变异，则可能与当前的 文档不对应。
 
 ```csharp
 public Node SnapshotItem(int index)
@@ -20,13 +20,13 @@ public Node SnapshotItem(int index)
 
 ### 返回值
 
-节点在 `指数`中的第 `NodeList`, 或者 `null` 如果 那不是一个有效的索引。
+节点在`指数`中的第`节点列表`， 或者`无效的`如果 不是有效索引。
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception) | TYPE_ERR：如果出现则引发 `结果类型` 不是 `无序节点快照` 输入或 `有序节点快照` 类型。 |
+| [DOMException](../../../aspose.svg.dom/domexception) | TYPE_ERR：如果出现则引发`结果类型`不是 `无序节点快照`输入或`有序节点快照`类型。 |
 
 ### 也可以看看
 

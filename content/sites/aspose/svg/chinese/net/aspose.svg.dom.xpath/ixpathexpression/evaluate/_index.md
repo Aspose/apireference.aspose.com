@@ -16,21 +16,21 @@ public IXPathResult Evaluate(Node contextNode, XPathResultType type, object resu
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| contextNode | Node | ` 上下文` 是用于评估此 XPath 表达式的上下文节点。 如果[`IXPathEvaluator`](../../ixpathevaluator)是通过转换[`Document`](../../../aspose.svg.dom/document)获得的，那么它必须是 属于同一个文档，并且必须是[`Document`](../../../aspose.svg.dom/document),[`Element`](../../../aspose.svg.dom/element),[`Attr`](../../../aspose.svg.dom/attr), [`Text`](../../../aspose.svg.dom/text),[`CDATASection`](../../../aspose.svg.dom/cdatasection),[`Comment`](../../../aspose.svg.dom/comment),[`ProcessingInstruction`](../../../aspose.svg.dom/processinginstruction), 或XPathNamespace节点。如果上下文节点是[`Text`](../../../aspose.svg.dom/text)或[`CDATASection`](../../../aspose.svg.dom/cdatasection), 则上下文被解释为XPath 看到的整个逻辑文本节点，除非该节点为空 ，在这种情况下，它可能不能用作 XPath 上下文。 |
-| type | XPathResultType | 如果指定了特定的` 类型` ，则结果将被强制返回 指定的类型依赖如果无法进行所需的强制转换，则在 XPath 转换上失败。这必须 是[`XPathResultType`](../../xpathresulttype)的值之一。 |
-| result | Object | ` 结果` 指定了一个特定的结果对象，该对象可以被重用并通过此方法返回 。如果这被指定为` null` 或实现不重用指定的 结果，将构造并返回一个新的结果对象。对于 XPath 1.0 结果，该对象将是 类型的[`IXPathResult`](../../ixpathresult)。 |
+| contextNode | Node | 这`语境`是评估此 XPath 表达式的上下文节点。 如果[`IXPathEvaluator`](../../ixpathevaluator)是通过铸造获得的[`Document`](../../../aspose.svg.dom/document)那么这必须是 由同一个文档所有并且必须是[`Document`](../../../aspose.svg.dom/document),[`Element`](../../../aspose.svg.dom/element),[`Attr`](../../../aspose.svg.dom/attr) , [`Text`](../../../aspose.svg.dom/text),[`CDATASection`](../../../aspose.svg.dom/cdatasection),[`Comment`](../../../aspose.svg.dom/comment),[`ProcessingInstruction`](../../../aspose.svg.dom/processinginstruction) , 或XPathNamespace节点。如果上下文节点是[`Text`](../../../aspose.svg.dom/text)或一个[`CDATASection`](../../../aspose.svg.dom/cdatasection) 则上下文被解释为 XPath 所见的整个逻辑文本节点，除非节点为空 在这种情况下它可能不能用作 XPath 上下文。 |
+| type | XPathResultType | 如果一个特定的`类型`指定，则结果将被强制返回依赖于 XPath 转换的 指定类型，如果无法实现所需的强制，则失败。这必须是 的值之一[`XPathResultType`](../../xpathresulttype). |
+| result | Object | 这`结果`指定可以重用的特定结果对象，并通过此方法返回 。如果这被指定为`无效的`或者实现不重用指定的 结果，将构造并返回一个新的结果对象。对于 XPath 1.0 结果，该对象将是 类型[`IXPathResult`](../../ixpathresult). |
 
 ### 返回值
 
-XPath 表达式的计算结果。对于 XPath 1.0 结果，该对象将是 类型的[`IXPathResult`](../../ixpathresult)。
+XPath 表达式的计算结果。对于 XPath 1.0 结果，该对象将是 类型[`IXPathResult`](../../ixpathresult).
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception) | TYPE_ERR：如果无法将结果转换为返回指定类型，则引发。 |
-| [DOMException](../../../aspose.svg.dom/domexception) | WRONG_DOCUMENT_ERR：该节点来自 IXPathEvaluator创建了这个[`IXPathExpression`](../../ixpathexpression)。 |
-| [DOMException](../../../aspose.svg.dom/domexception) | NOT_SUPPORTED_ERR: 该节点不是 XPath 上下文节点所允许的类型 或请求类型不被允许[`IXPathExpression`](../../ixpathexpression)。 |
+| [DOMException](../../../aspose.svg.dom/domexception) | TYPE_ERR：如果结果无法转换为返回指定类型，则引发。 |
+| [DOMException](../../../aspose.svg.dom/domexception) | WRONG_DOCUMENT_ERR：节点来自 不支持的文档[`IXPathEvaluator`](../../ixpathevaluator)创造了这个[`IXPathExpression`](../../ixpathexpression). |
+| [DOMException](../../../aspose.svg.dom/domexception) | NOT_SUPPORTED_ERR：该节点不是 XPath 上下文节点 允许的类型，或者此请求类型不允许[`IXPathExpression`](../../ixpathexpression). |
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: CurrentNode
 second_title: Aspose.SVG for .NET API 参考
-description: TreeWalker 当前所在的节点 对 DOM 树的更改可能会导致当前节点不再被 TreeWalker 的关联过滤器接受  currentNode 也可以显式设置为任何节点 无论它是否在 根节点指定的子树内或者是否会被过滤器和接受 whatToShow 标志进一步遍历相对于 currentNode即使它不是当前视图的一部分 通过在请求的方向上应用过滤器如果不可能遍历 则不会更改 currentNode
+description: TreeWalker 当前所在的节点 DOM 树的更改可能导致当前节点不再 被 TreeWalker 的关联过滤器接受 currentNode 也可以显式设置为任何节点 不管它是否是在 根节点指定的子树内或者将被过滤器和 whatToShow标志接受进一步遍历相对于 currentNode即使它不是当前视图的一部分 通过在请求的方向上应用过滤器如果没有可能的 traversal 则不会更改 currentNode
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.dom.traversal/itreewalker/currentnode/
 ---
 ## ITreeWalker.CurrentNode property
 
-TreeWalker 当前所在的节点。 对 DOM 树的更改可能会导致当前节点不再被 TreeWalker 的关联过滤器接受 。 currentNode 也可以显式设置为任何节点， 无论它是否在 根节点指定的子树内，或者是否会被过滤器和接受 whatToShow 标志。进一步遍历相对于 currentNode，即使它不是当前视图的一部分， 通过在请求的方向上应用过滤器；如果不可能遍历 ，则不会更改 currentNode。
+TreeWalker 当前所在的节点。 DOM 树的更改可能导致当前节点不再 被 TreeWalker 的关联过滤器接受。 currentNode 也可以显式设置为任何节点， 不管它是否是在 根节点指定的子树内，或者将被过滤器和 whatToShow标志接受。进一步遍历相对于 currentNode，即使它不是当前视图的一部分， 通过在请求的方向上应用过滤器；如果没有可能的 traversal ，则不会更改 currentNode。
 
 ```csharp
 public Node CurrentNode { get; set; }
@@ -22,7 +22,7 @@ public Node CurrentNode { get; set; }
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception) | NOT_SUPPORTED_ERR：如果尝试将 currentNode 设置为 null，则引发。 |
+| [DOMException](../../../aspose.svg.dom/domexception) | NOT_SUPPORTED_ERR：如果尝试将 set currentNode 设置为 null，则引发。 |
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: SVG_TRANSFORM_SCALE
 second_title: Aspose.SVG for .NET API 参考
-description: 一个缩放变换
+description: 一个比例转换
 type: docs
 weight: 130
 url: /zh/net/aspose.svg.datatypes/svgtransform/svg_transform_scale/
 ---
 ## SVGTransform.SVG_TRANSFORM_SCALE field
 
-一个“缩放（…）”变换。
+一个“比例（…）”转换。
 
 ```csharp
 public const ushort SVG_TRANSFORM_SCALE;

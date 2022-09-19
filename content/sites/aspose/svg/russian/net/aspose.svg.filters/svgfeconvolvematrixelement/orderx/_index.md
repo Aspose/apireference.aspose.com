@@ -1,14 +1,14 @@
 ---
 title: OrderX
 second_title: Справочник по Aspose.SVG для .NET API
-description: Соответствует атрибуту order данного элемента feConvolveMatrix.
+description: Соответствует атрибуту порядок данного элемента feConvolveMatrix.
 type: docs
 weight: 90
 url: /ru/net/aspose.svg.filters/svgfeconvolvematrixelement/orderx/
 ---
 ## SVGFEConvolveMatrixElement.OrderX property
 
-Соответствует атрибуту 'order' данного элемента 'feConvolveMatrix'.
+Соответствует атрибуту «порядок» данного элемента «feConvolveMatrix».
 
 ```csharp
 public SVGAnimatedInteger OrderX { get; }

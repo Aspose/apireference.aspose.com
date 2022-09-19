@@ -1,14 +1,14 @@
 ---
 title: Width
 second_title: Справочник по Aspose.SVG для .NET API
-description: Соответствует атрибуту width данного прямоугольного элемента.
+description: Соответствует атрибуту ширина данного элемента прямоугольник.
 type: docs
 weight: 40
 url: /ru/net/aspose.svg/svgrectelement/width/
 ---
 ## SVGRectElement.Width property
 
-Соответствует атрибуту 'width' данного прямоугольного элемента.
+Соответствует атрибуту «ширина» данного элемента «прямоугольник».
 
 ```csharp
 public SVGAnimatedLength Width { get; }
@@ -16,7 +16,7 @@ public SVGAnimatedLength Width { get; }
 
 ### Стоимость имущества
 
-Атрибут 'ширина' данного прямоугольного элемента.
+Атрибут «ширина» данного «прямоугольного» элемента.
 
 ### Смотрите также
 

@@ -1,14 +1,14 @@
 ---
 title: UnpauseAnimations
 second_title: Aspose.SVG for .NET API 参考
-description: 取消暂停即取消暂停在 SVG 文档片段中定义的当前正在运行的动画导致动画时钟从暂停的时间开始继续
+description: 取消暂停即取消暂停在 SVG 文档片段中定义的当前正在运行的动画使动画时钟从暂停的时间开始继续运行
 type: docs
 weight: 240
 url: /zh/net/aspose.svg/svgsvgelement/unpauseanimations/
 ---
 ## SVGSVGElement.UnpauseAnimations method
 
-取消暂停（即取消暂停）在 SVG 文档片段中定义的当前正在运行的动画，导致动画时钟从暂停的时间开始继续。
+取消暂停（即取消暂停）在 SVG 文档片段中定义的当前正在运行的动画，使动画时钟从暂停的时间开始继续运行。
 
 ```csharp
 public void UnpauseAnimations()

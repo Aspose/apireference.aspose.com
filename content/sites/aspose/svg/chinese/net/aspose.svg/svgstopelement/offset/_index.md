@@ -1,14 +1,14 @@
 ---
 title: Offset
 second_title: Aspose.SVG for .NET API 参考
-description: 对应于给定 radialGradient 元素上的属性 offset
+description: 对应于给定radialGradient元素上的属性偏移
 type: docs
 weight: 10
 url: /zh/net/aspose.svg/svgstopelement/offset/
 ---
 ## SVGStopElement.Offset property
 
-对应于给定 'radialGradient' 元素上的属性 'offset'。
+对应于给定“radialGradient”元素上的属性“偏移”。
 
 ```csharp
 public SVGAnimatedNumber Offset { get; }
@@ -16,7 +16,7 @@ public SVGAnimatedNumber Offset { get; }
 
 ### 适当的价值
 
-给定“radialGradient”元素的“偏移”属性。
+给定“radialGradient”元素的属性“偏移”。
 
 ### 也可以看看
 

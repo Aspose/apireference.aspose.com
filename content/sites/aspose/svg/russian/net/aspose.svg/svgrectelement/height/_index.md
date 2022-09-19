@@ -1,14 +1,14 @@
 ---
 title: Height
 second_title: Справочник по Aspose.SVG для .NET API
-description: Соответствует атрибуту высота данного прямоугольного элемента.
+description: Соответствует атрибуту высота данного элемента прямоугольник.
 type: docs
 weight: 10
 url: /ru/net/aspose.svg/svgrectelement/height/
 ---
 ## SVGRectElement.Height property
 
-Соответствует атрибуту 'высота' данного прямоугольного элемента.
+Соответствует атрибуту "высота" данного элемента "прямоугольник".
 
 ```csharp
 public SVGAnimatedLength Height { get; }
@@ -16,7 +16,7 @@ public SVGAnimatedLength Height { get; }
 
 ### Стоимость имущества
 
-Атрибут 'высота' данного прямоугольного элемента.
+Атрибут «высота» данного «прямоугольного» элемента.
 
 ### Смотрите также
 

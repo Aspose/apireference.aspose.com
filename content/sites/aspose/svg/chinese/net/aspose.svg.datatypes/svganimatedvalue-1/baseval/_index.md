@@ -1,14 +1,14 @@
 ---
 title: BaseVal
 second_title: Aspose.SVG for .NET API 参考
-description: 应用任何动画之前给定属性的基本值
+description: 应用任何动画之前给定属性的基值
 type: docs
 weight: 20
 url: /zh/net/aspose.svg.datatypes/svganimatedvalue-1/baseval/
 ---
 ## SVGAnimatedValue&lt;T&gt;.BaseVal property
 
-应用任何动画之前给定属性的基本值。
+应用任何动画之前给定属性的基值。
 
 ```csharp
 public T BaseVal { get; set; }
@@ -16,7 +16,7 @@ public T BaseVal { get; set; }
 
 ### 适当的价值
 
-` true` if [base value];否则，` false` 。
+`真的` if [基值];否则，`错误的` .
 
 ### 也可以看看
 

@@ -3,7 +3,7 @@ title: SVGStringList
 second_title: Aspose.SVG for .NET API 参考
 description: SVGStringList 具有与其他 SVGxxxList 接口相同的属性和方法实现者可以考虑使用单个基类来实现各种 SVGxxxList 接口
 type: docs
-weight: 320
+weight: 310
 url: /zh/net/aspose.svg.datatypes/svgstringlist/
 ---
 ## SVGStringList class
@@ -18,8 +18,8 @@ public class SVGStringList : SVGListBase<string>
 
 | 姓名 | 描述 |
 | --- | --- |
-| [SVGStringList](svgstringlist#constructor)() | 初始化[`SVGStringList`](../svgstringlist)类的新实例。 |
-| [SVGStringList](svgstringlist#constructor_1)(IEnumerable&lt;string&gt;) | 初始化[`SVGStringList`](../svgstringlist)类的新实例。 |
+| [SVGStringList](svgstringlist#constructor)() | 初始化[`SVGStringList`](../svgstringlist)类. |
+| [SVGStringList](svgstringlist#constructor_1)(IEnumerable&lt;string&gt;) | 初始化[`SVGStringList`](../svgstringlist)类. |
 
 ## 特性
 
@@ -35,15 +35,15 @@ public class SVGStringList : SVGListBase<string>
 | --- | --- |
 | [AppendItem](../../aspose.svg.collections/svglistbase`1/appenditem)(string) |  |
 | [Clear](../../aspose.svg.collections/svglistbase`1/clear)() |  |
-| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose)() | 释放非托管和（可选）托管资源。 |
+| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose)() | 释放非托管和 - 可选 - 托管资源。 |
 | [GetEnumerator](../../aspose.svg.collections/svglistbase`1/getenumerator)() |  |
 | [GetItem](../../aspose.svg.collections/svglistbase`1/getitem)(ulong) |  |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | 此方法用于检索 ECMAScript 对象Type。 |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | 此方法用于检索 ECMAScript 对象Type . |
 | [Initialize](../../aspose.svg.collections/svglistbase`1/initialize)(string) |  |
 | [InsertItemBefore](../../aspose.svg.collections/svglistbase`1/insertitembefore)(string, ulong) |  |
 | [RemoveItem](../../aspose.svg.collections/svglistbase`1/removeitem)(ulong) |  |
 | [ReplaceItem](../../aspose.svg.collections/svglistbase`1/replaceitem)(string, ulong) |  |
-| override [ToString](../../aspose.svg.datatypes/svgstringlist/tostring)() | 返回代表此实例的String。 |
+| override [ToString](../../aspose.svg.datatypes/svgstringlist/tostring)() | 返回一个String代表这个实例。 |
 
 ### 也可以看看
 

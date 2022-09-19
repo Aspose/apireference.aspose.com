@@ -1,14 +1,14 @@
 ---
 title: BorderRightStyle
 second_title: Aspose.SVG for .NET API 参考
-description: 请参见 CSS2 中的border-right-style 属性定义
+description: 参见CSS2中的borderrightstyle属性定义
 type: docs
 weight: 210
 url: /zh/net/aspose.svg.dom.css/icss2properties/borderrightstyle/
 ---
 ## ICSS2Properties.BorderRightStyle property
 
-请参见 CSS2 中的border-right-style 属性定义。
+参见CSS2中的border-right-style属性定义。
 
 ```csharp
 public string BorderRightStyle { get; set; }
@@ -16,7 +16,7 @@ public string BorderRightStyle { get; set; }
 
 ### 返回值
 
-边框右样式属性
+右边框样式属性
 
 ### 也可以看看
 

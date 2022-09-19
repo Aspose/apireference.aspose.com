@@ -3,7 +3,7 @@ title: IDocumentView
 second_title: Aspose.SVG for .NET API 参考
 description: DocumentView 接口由支持 DOM 视图的 DOM 实现中的 Document 对象实现它提供了一个属性来检索文档的默认视图
 type: docs
-weight: 1310
+weight: 1300
 url: /zh/net/aspose.svg.dom.views/idocumentview/
 ---
 ## IDocumentView interface

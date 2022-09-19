@@ -1,14 +1,14 @@
 ---
 title: MultipartFormDataContent
 second_title: Справочник по Aspose.SVG для .NET API
-description: Инициализирует новый экземпляр классаMultipartFormDataContentaspose.svg.net/multipartformdatacontent.
+description: Инициализирует новый экземплярMultipartFormDataContentaspose.svg.net/multipartformdatacontent класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.net/multipartformdatacontent/multipartformdatacontent/
 ---
 ## MultipartFormDataContent() {#constructor}
 
-Инициализирует новый экземпляр класса[`MultipartFormDataContent`](../../multipartformdatacontent).
+Инициализирует новый экземпляр[`MultipartFormDataContent`](../../multipartformdatacontent) класс.
 
 ```csharp
 public MultipartFormDataContent()
@@ -24,7 +24,7 @@ public MultipartFormDataContent()
 
 ## MultipartFormDataContent(string) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`MultipartFormDataContent`](../../multipartformdatacontent).
+Инициализирует новый экземпляр[`MultipartFormDataContent`](../../multipartformdatacontent) класс.
 
 ```csharp
 public MultipartFormDataContent(string boundary)

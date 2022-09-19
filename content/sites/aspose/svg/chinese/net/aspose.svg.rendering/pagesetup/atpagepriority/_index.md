@@ -1,14 +1,14 @@
 ---
 title: AtPagePriority
 second_title: Aspose.SVG for .NET API 参考
-description: 获取或设置AtPagePriorityaspose.svg.rendering/atpagepriority这将确定应用页面大小声明的顺序默认情况下选项将覆盖 css page 规则.
+description: 获取或设置AtPagePriorityaspose.svg.rendering/atpagepriority这将确定应用页面大小声明的顺序默认情况下选项将覆盖 css页规则 .
 type: docs
 weight: 20
 url: /zh/net/aspose.svg.rendering/pagesetup/atpagepriority/
 ---
 ## PageSetup.AtPagePriority property
 
-获取或设置[`AtPagePriority`](../../atpagepriority)，这将确定应用页面大小声明的顺序。默认情况下，选项将覆盖 css` @page` 规则.
+获取或设置[`AtPagePriority`](../../atpagepriority)这将确定应用页面大小声明的顺序。默认情况下，选项将覆盖 css`@页`规则 .
 
 ```csharp
 public AtPagePriority AtPagePriority { get; set; }

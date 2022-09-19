@@ -1,14 +1,14 @@
 ---
 title: CompareTo
 second_title: Aspose.SVG for .NET API 参考
-description: 将当前实例与另一个相同类型的对象进行比较并返回一个整数该整数指示当前实例在排序顺序中是位于另一个对象之前之后还是出现在相同位置.
+description: 将当前实例与另一个相同类型的对象进行比较并返回一个整数指示当前实例在排序顺序中是在另一个对象之前之后还是出现在相同位置
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.drawing/numeric/compareto/
 ---
 ## Numeric.CompareTo method
 
-将当前实例与另一个相同类型的对象进行比较，并返回一个整数，该整数指示当前实例在排序顺序中是位于另一个对象之前、之后还是出现在相同位置.
+将当前实例与另一个相同类型的对象进行比较，并返回一个整数，指示当前实例在排序顺序中是在另一个对象之前、之后还是出现在相同位置。
 
 ```csharp
 public int CompareTo(Numeric other)
@@ -20,7 +20,7 @@ public int CompareTo(Numeric other)
 
 ### 返回值
 
-表示被比较对象的相对顺序的值。
+指示被比较对象的相对顺序的值。
 
 ### 例外
 

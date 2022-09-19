@@ -3,7 +3,7 @@ title: IWindowTimers
 second_title: Aspose.SVG for .NET API 参考
 description: 允许作者安排基于计时器的回调
 type: docs
-weight: 3750
+weight: 3760
 url: /zh/net/aspose.svg.window/iwindowtimers/
 ---
 ## IWindowTimers interface
@@ -18,10 +18,10 @@ public interface IWindowTimers
 
 | 姓名 | 描述 |
 | --- | --- |
-| [ClearInterval](../../aspose.svg.window/iwindowtimers/clearinterval)(int) | 取消由句柄 |
-| [ClearTimeout](../../aspose.svg.window/iwindowtimers/cleartimeout)(int) | 取消由句柄标识的 setTimeout() 设置的超时。 |
-| [SetInterval](../../aspose.svg.window/iwindowtimers/setinterval)(object, int, params object[]) | 每超时毫秒安排一个超时来运行处理程序。任何参数都直接传递给处理程序。 |
-| [SetTimeout](../../aspose.svg.window/iwindowtimers/settimeout)(object, int, params object[]) | 在 timeout 毫秒后安排一个超时来运行处理程序。任何参数都直接传递给处理程序。 |
+| [ClearInterval](../../aspose.svg.window/iwindowtimers/clearinterval)(int) | 取消使用由 handle 标识的 setInterval() 设置的超时 |
+| [ClearTimeout](../../aspose.svg.window/iwindowtimers/cleartimeout)(int) | 取消使用由句柄标识的 setTimeout() 设置的超时。 |
+| [SetInterval](../../aspose.svg.window/iwindowtimers/setinterval)(object, int, params object[]) | 为每超时毫秒运行处理程序安排一个超时。任何参数都直接传递给处理程序。 |
+| [SetTimeout](../../aspose.svg.window/iwindowtimers/settimeout)(object, int, params object[]) | 安排超时毫秒后运行处理程序的超时。任何参数都直接传递给处理程序。 |
 
 ### 也可以看看
 

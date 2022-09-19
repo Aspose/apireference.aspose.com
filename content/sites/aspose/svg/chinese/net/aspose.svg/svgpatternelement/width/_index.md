@@ -1,14 +1,14 @@
 ---
 title: Width
 second_title: Aspose.SVG for .NET API 参考
-description: 对应于给定 pattern 元素的属性 width
+description: 对应于给定模式元素的属性宽度
 type: docs
 weight: 110
 url: /zh/net/aspose.svg/svgpatternelement/width/
 ---
 ## SVGPatternElement.Width property
 
-对应于给定 'pattern' 元素的属性 'width'。
+对应于给定“模式”元素的属性“宽度”。
 
 ```csharp
 public SVGAnimatedLength Width { get; }

@@ -3,7 +3,7 @@ title: ISolidBrush
 second_title: Справочник по Aspose.SVG для .NET API
 description: Определяет интерфейс кисти одного цвета
 type: docs
-weight: 1470
+weight: 1480
 url: /ru/net/aspose.svg.drawing/isolidbrush/
 ---
 ## ISolidBrush interface

@@ -1,14 +1,14 @@
 ---
 title: Converter
 second_title: Aspose.SVG for .NET API 参考
-description: 共享外观仅适用于最常见的转换场景 它提供了对流行格式的广泛转换例如 PDFXPS图像格式等 更具体的转换渲染保存用例由众所周知并记录在案低级 API 函数
+description: 共享外观仅适用于最常见的转换场景 它提供了对流行格式的广泛转换例如 PDFXPS图像格式等 更具体的转换渲染保存用例由知名人士提供并记录了低级 API 函数
 type: docs
-weight: 80
+weight: 70
 url: /zh/net/aspose.svg.converters/converter/
 ---
 ## Converter class
 
-共享外观仅适用于最常见的转换场景。 它提供了对流行格式的广泛转换，例如 PDF、XPS、图像格式等。 更具体的转换（渲染、保存）用例由众所周知并记录在案低级 API 函数。
+共享外观仅适用于最常见的转换场景。 它提供了对流行格式的广泛转换，例如 PDF、XPS、图像格式等。 更具体的转换（渲染、保存）用例由知名人士提供并记录了低级 API 函数。
 
 ```csharp
 public static class Converter

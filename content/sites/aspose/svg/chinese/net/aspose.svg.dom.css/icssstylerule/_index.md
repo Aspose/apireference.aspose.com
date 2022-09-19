@@ -3,7 +3,7 @@ title: ICSSStyleRule
 second_title: Aspose.SVG for .NET API 参考
 description: CSSStyleRule 接口表示 CSS 样式表中的单个规则集
 type: docs
-weight: 660
+weight: 650
 url: /zh/net/aspose.svg.dom.css/icssstylerule/
 ---
 ## ICSSStyleRule interface

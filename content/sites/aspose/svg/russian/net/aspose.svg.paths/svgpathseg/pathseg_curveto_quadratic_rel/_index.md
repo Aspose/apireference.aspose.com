@@ -1,14 +1,14 @@
 ---
 title: PATHSEG_CURVETO_QUADRATIC_REL
 second_title: Справочник по Aspose.SVG для .NET API
-description: Соответствует команде данных пути относительная квадратичная кривая Безье q.
+description: Соответствует относительной квадратичной кривой Безье к q команде данных пути.
 type: docs
 weight: 110
 url: /ru/net/aspose.svg.paths/svgpathseg/pathseg_curveto_quadratic_rel/
 ---
 ## SVGPathSeg.PATHSEG_CURVETO_QUADRATIC_REL field
 
-Соответствует команде данных пути "относительная квадратичная кривая Безье" (q).
+Соответствует "относительной квадратичной кривой Безье к" (q) команде данных пути.
 
 ```csharp
 public const ushort PATHSEG_CURVETO_QUADRATIC_REL;

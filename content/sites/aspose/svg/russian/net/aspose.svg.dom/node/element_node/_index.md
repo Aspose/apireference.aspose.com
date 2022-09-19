@@ -1,14 +1,14 @@
 ---
 title: ELEMENT_NODE
 second_title: Справочник по Aspose.SVG для .NET API
-description: Узел элемента
+description: Элемент node
 type: docs
 weight: 380
 url: /ru/net/aspose.svg.dom/node/element_node/
 ---
 ## Node.ELEMENT_NODE field
 
-Узел элемента
+Элемент node
 
 ```csharp
 public const ushort ELEMENT_NODE;

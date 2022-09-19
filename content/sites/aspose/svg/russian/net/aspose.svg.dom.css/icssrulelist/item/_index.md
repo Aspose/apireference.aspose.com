@@ -1,14 +1,14 @@
 ---
 title: Item
 second_title: Справочник по Aspose.SVG для .NET API
-description: Используется для получения правила CSS методом item http//www.w3.org/TR/DOM-Level-2-Style/css.htmlCSS-CSSRuleList . Порядок в этой коллекции представляет собой порядок правил в таблице стилей CSS. Если индекс больше или равен количеству правил в списке возвращается значение null.
+description: Используется для получения правила CSS методом item http//www.w3.org/TR/DOMLevel2Style/css.htmlCSSCSSRuleList. Порядок в этой коллекции представляет собой порядок правил в таблице стилей CSS. Если индекс больше или равен количеству правил в списке возвращается null.
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.dom.css/icssrulelist/item/
 ---
 ## ICSSRuleList indexer
 
-Используется для получения правила CSS методом item() (http://www.w3.org/TR/DOM-Level-2-Style/css.html#CSS-CSSRuleList ). Порядок в этой коллекции представляет собой порядок правил в таблице стилей CSS. Если индекс больше или равен количеству правил в списке, возвращается значение null.
+Используется для получения правила CSS методом item() (http://www.w3.org/TR/DOM-Level-2-Style/css.html#CSS-CSSRuleList). Порядок в этой коллекции представляет собой порядок правил в таблице стилей CSS. Если индекс больше или равен количеству правил в списке, возвращается null.
 
 ```csharp
 public ICSSRule this[int index] { get; }
@@ -16,7 +16,7 @@ public ICSSRule this[int index] { get; }
 
 | Параметр | Описание |
 | --- | --- |
-| index | Индекс правила |
+| index | Индекс правил |
 
 ### Возвращаемое значение
 
@@ -24,7 +24,7 @@ public ICSSRule this[int index] { get; }
 
 ### Стоимость имущества
 
-[`ICSSRule`](../../icssrule).
+[`ICSSRule`](../../icssrule) .
 
 ### Смотрите также
 

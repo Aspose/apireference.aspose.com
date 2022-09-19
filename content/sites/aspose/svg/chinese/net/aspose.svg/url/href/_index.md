@@ -16,13 +16,13 @@ public string Href { get; set; }
 
 ### 适当的价值
 
-链接。
+href.
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| Error | TypeError: 如果` 值无法解析，则引发` 作为有效的 URL。 |
+| Error | TypeError：如果出现则引发`价值`无法解析为有效的 URL. |
 
 ### 也可以看看
 

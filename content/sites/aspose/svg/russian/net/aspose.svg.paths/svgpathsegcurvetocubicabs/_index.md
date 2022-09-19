@@ -3,7 +3,7 @@ title: SVGPathSegCurvetoCubicAbs
 second_title: Справочник по Aspose.SVG для .NET API
 description: Интерфейс SVGPathSegCurvetoCubicAbs соответствует команде данных пути абсолютная кубическая кривая Безье C.
 type: docs
-weight: 2490
+weight: 2500
 url: /ru/net/aspose.svg.paths/svgpathsegcurvetocubicabs/
 ---
 ## SVGPathSegCurvetoCubicAbs class
@@ -18,7 +18,7 @@ public class SVGPathSegCurvetoCubicAbs : SVGPathSeg
 
 | Имя | Описание |
 | --- | --- |
-| [PathSegType](../../aspose.svg.paths/svgpathseg/pathsegtype) { get; } | Тип сегмента пути, заданный одной из констант, определенных в этом интерфейсе. |
+| [PathSegType](../../aspose.svg.paths/svgpathseg/pathsegtype) { get; } | Тип сегмента пути, указанный одной из констант, определенных на этом интерфейсе. |
 | [PathSegTypeAsLetter](../../aspose.svg.paths/svgpathseg/pathsegtypeasletter) { get; } | Тип сегмента пути, определяемый соответствующим односимвольным именем команды. |
 | [X](../../aspose.svg.paths/svgpathsegcurvetocubicabs/x) { get; set; } | Абсолютная координата X конечной точки этого сегмента пути. |
 | [X1](../../aspose.svg.paths/svgpathsegcurvetocubicabs/x1) { get; set; } | Абсолютная координата X для первой контрольной точки. |
@@ -32,7 +32,7 @@ public class SVGPathSegCurvetoCubicAbs : SVGPathSeg
 | Имя | Описание |
 | --- | --- |
 | [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose)() | Освобождает неуправляемые и (необязательно) управляемые ресурсы. |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | Этот метод используется для получения объекта ECMAScriptType. |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | Этот метод используется для получения объекта ECMAScript.Type . |
 
 ### Смотрите также
 

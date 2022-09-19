@@ -1,14 +1,14 @@
 ---
 title: Toggle
 second_title: Aspose.SVG for .NET API 参考
-description: 如果令牌存在则从列表中删除如果不存在则将令牌添加到列表中
+description: 如果存在则从列表中删除标记如果不存在则将标记添加到列表中
 type: docs
 weight: 100
 url: /zh/net/aspose.svg.collections/domtokenlist/toggle/
 ---
 ## Toggle(string) {#toggle}
 
-如果令牌存在，则从列表中删除，如果不存在，则将令牌添加到列表中。
+如果存在则从列表中删除标记，如果不存在则将标记添加到列表中。
 
 ```csharp
 public bool Toggle(string token)
@@ -16,7 +16,7 @@ public bool Toggle(string token)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| token | String | 要切换的令牌。 |
+| token | String | 您要切换的令牌。 |
 
 ### 返回值
 
@@ -32,7 +32,7 @@ public bool Toggle(string token)
 
 ## Toggle(string, bool?) {#toggle_1}
 
-如果令牌存在，则从列表中删除，如果不存在，则将令牌添加到列表中。
+如果存在则从列表中删除标记，如果不存在则将标记添加到列表中。
 
 ```csharp
 public bool Toggle(string token, bool? force)
@@ -40,7 +40,7 @@ public bool Toggle(string token, bool? force)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| token | String | 要切换的令牌。 |
+| token | String | 您要切换的令牌。 |
 | force | Nullable`1 | 一个布尔值，如果包含，则将切换转换为单向操作。如果设置为 false，则只会删除令牌，不会添加令牌。如果设置为 true，则只会添加令牌，不会删除令牌。 |
 
 ### 返回值

@@ -8,7 +8,7 @@ url: /ru/net/aspose.svg.datatypes/svgtransform/svg_transform_rotate/
 ---
 ## SVGTransform.SVG_TRANSFORM_ROTATE field
 
-Преобразование "повернуть(…)".
+Преобразование «повернуть(…)».
 
 ```csharp
 public const ushort SVG_TRANSFORM_ROTATE;

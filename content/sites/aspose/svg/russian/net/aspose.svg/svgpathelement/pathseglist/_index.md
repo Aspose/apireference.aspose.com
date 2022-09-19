@@ -1,14 +1,14 @@
 ---
 title: PathSegList
 second_title: Справочник по Aspose.SVG для .NET API
-description: Предоставляет доступ к базовому т.е. статическому содержимому атрибута d в форме которая один к одному соответствует синтаксису SVG. Таким образом если атрибут d имеет команду absolute moveto M и absolute arcto A то pathSegList будет иметь две записи SVG_PATHSEG_MOVETO_ABS и SVG_PATHSEG_ARC_ABS.
+description: Предоставляет доступ к базовому т.е. статическому содержимому атрибута d в форме которая полностью соответствует синтаксису SVG. Таким образом если в атрибуте d указаны команды absolute moveto M и absolute arcto A то pathSegList будет иметь две записи SVG_PATHSEG_MOVETO_ABS и SVG_PATHSEG_ARC_ABS.
 type: docs
 weight: 20
 url: /ru/net/aspose.svg/svgpathelement/pathseglist/
 ---
 ## SVGPathElement.PathSegList property
 
-Предоставляет доступ к базовому (т.е. статическому) содержимому атрибута 'd' в форме, которая один к одному соответствует синтаксису SVG. Таким образом, если атрибут 'd' имеет команду "absolute moveto (M)" и "absolute arcto (A)", то pathSegList будет иметь две записи: SVG_PATHSEG_MOVETO_ABS и SVG_PATHSEG_ARC_ABS.
+Предоставляет доступ к базовому (т.е. статическому) содержимому атрибута 'd' в форме, которая полностью соответствует синтаксису SVG. Таким образом, если в атрибуте 'd' указаны команды "absolute moveto (M)" и "absolute arcto (A)", то pathSegList будет иметь две записи: SVG_PATHSEG_MOVETO_ABS и SVG_PATHSEG_ARC_ABS.
 
 ```csharp
 public SVGPathSegList PathSegList { get; set; }

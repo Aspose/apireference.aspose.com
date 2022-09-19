@@ -1,14 +1,14 @@
 ---
 title: DocumentType
 second_title: Aspose.SVG for .NET API 参考
-description: 初始化DocumentTypeaspose.svg.dom/documenttype类的新实例
+description: 初始化DocumentTypeaspose.svg.dom/documenttype类.
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.dom/documenttype/documenttype/
 ---
 ## DocumentType constructor
 
-初始化[`DocumentType`](../../documenttype)类的新实例。
+初始化[`DocumentType`](../../documenttype)类.
 
 ```csharp
 public DocumentType(string name, string publicId, string systemId, string internalSubset, 
@@ -18,10 +18,10 @@ public DocumentType(string name, string publicId, string systemId, string intern
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | name | String | 实体名称。 |
-| publicId | String | 公共 ID。 |
-| systemId | String | 系统 ID。 |
+| publicId | String | 公共标识。 |
+| systemId | String | 系统标识。 |
 | internalSubset | String | 内部子集。 |
-| doc | Document | 文档。 |
+| doc | Document | 文件。 |
 
 ### 也可以看看
 

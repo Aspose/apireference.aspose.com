@@ -3,7 +3,7 @@ title: HttpMethod
 second_title: Aspose.SVG for .NET API 参考
 description: 表示用于检索和比较标准 HTTP 方法的实用程序类
 type: docs
-weight: 2250
+weight: 2260
 url: /zh/net/aspose.svg.net/httpmethod/
 ---
 ## HttpMethod class
@@ -18,7 +18,7 @@ public class HttpMethod : IEquatable<HttpMethod>
 
 | 姓名 | 描述 |
 | --- | --- |
-| [HttpMethod](httpmethod)(string) | 使用特定 HTTP 方法初始化[`HttpMethod`](../httpmethod)类的新实例。 |
+| [HttpMethod](httpmethod)(string) | 初始化[`HttpMethod`](../httpmethod)具有特定 HTTP 方法的类。 |
 
 ## 特性
 
@@ -33,12 +33,12 @@ public class HttpMethod : IEquatable<HttpMethod>
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Equals](../../aspose.svg.net/httpmethod/equals#equals)(HttpMethod) | 表示当前对象是否等于另一个相同类型的对象。 |
-| override [Equals](../../aspose.svg.net/httpmethod/equals#equals_1)(object) | 确定指定的Object是否等于此实例。 |
+| [Equals](../../aspose.svg.net/httpmethod/equals#equals)(HttpMethod) | 表示当前对象是否等于另一个同类型的对象。 |
+| override [Equals](../../aspose.svg.net/httpmethod/equals#equals_1)(object) | 判断是否指定Object 等于这个实例。 |
 | override [GetHashCode](../../aspose.svg.net/httpmethod/gethashcode)() | 返回此实例的哈希码。 |
-| override [ToString](../../aspose.svg.net/httpmethod/tostring)() | 返回代表此实例的String。 |
+| override [ToString](../../aspose.svg.net/httpmethod/tostring)() | 返回一个String代表这个实例。 |
 | [operator ==](../../aspose.svg.net/httpmethod/op_equality) | 实现相等运算符。 |
-| [explicit operator](../../aspose.svg.net/httpmethod/op_explicit) | 执行从String到[`HttpMethod`](../httpmethod)的显式转换。 |
+| [explicit operator](../../aspose.svg.net/httpmethod/op_explicit) | 执行显式转换String至[`HttpMethod`](../httpmethod) . |
 | [operator !=](../../aspose.svg.net/httpmethod/op_inequality) | 实现相等运算符。 |
 
 ### 也可以看看

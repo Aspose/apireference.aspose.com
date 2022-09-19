@@ -1,14 +1,14 @@
 ---
 title: Producer
 second_title: Справочник по Aspose.SVG для .NET API
-description: Имя продукта который преобразовал документ.
+description: Название продукта который преобразовал документ.
 type: docs
 weight: 60
 url: /ru/net/aspose.svg.rendering.pdf/pdfdocumentinfo/producer/
 ---
 ## PdfDocumentInfo.Producer property
 
-Имя продукта, который преобразовал документ.
+Название продукта, который преобразовал документ.
 
 ```csharp
 public string Producer { get; set; }

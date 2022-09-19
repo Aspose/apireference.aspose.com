@@ -1,14 +1,14 @@
 ---
 title: Width
 second_title: Aspose.SVG for .NET API 参考
-description: 对应于给定 svg 元素的属性 width
+description: 对应于给定 svg 元素上的属性 width
 type: docs
 weight: 60
 url: /zh/net/aspose.svg/svgsvgelement/width/
 ---
 ## SVGSVGElement.Width property
 
-对应于给定 'svg' 元素的属性 'width'。
+对应于给定 'svg' 元素上的属性 'width'。
 
 ```csharp
 public SVGAnimatedLength Width { get; }
@@ -16,7 +16,7 @@ public SVGAnimatedLength Width { get; }
 
 ### 适当的价值
 
-对应于给定 'svg' 元素的属性 'width'。
+对应于给定 'svg' 元素上的属性 'width'。
 
 ### 也可以看看
 

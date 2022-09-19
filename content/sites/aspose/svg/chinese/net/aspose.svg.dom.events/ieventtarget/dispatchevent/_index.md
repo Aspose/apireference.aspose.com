@@ -20,7 +20,7 @@ public bool DispatchEvent(Event @event)
 
 ### 返回值
 
-[`DispatchEvent`](../../../aspose.svg.dom/eventtarget/dispatchevent)的返回值表示是否有任何处理称为[`PreventDefault`](../../event/preventdefault)的事件的侦听器。 如果调用了[`PreventDefault`](../../event/preventdefault)，则值为假，否则值为真。
+的返回值[`DispatchEvent`](../../../aspose.svg.dom/eventtarget/dispatchevent)指示是否有任何处理事件的侦听器调用[`PreventDefault`](../../event/preventdefault). 如果[`PreventDefault`](../../event/preventdefault)被称为值为假，否则值为真。
 
 ### 例外
 
@@ -30,7 +30,7 @@ public bool DispatchEvent(Event @event)
 
 ### 评论
 
-以这种方式调度的事件将具有与由实现直接分派的事件相同的捕获和冒泡行为。 事件的目标是[`EventTarget`](../../../aspose.svg.dom/eventtarget)上的[`DispatchEvent`](../../../aspose.svg.dom/eventtarget/dispatchevent)被调用。
+以这种方式分派的事件将具有与直接由实现分派的事件相同的捕获和冒泡行为。 事件的目标是[`EventTarget`](../../../aspose.svg.dom/eventtarget)在哪个[`DispatchEvent`](../../../aspose.svg.dom/eventtarget/dispatchevent)被称为.
 
 ### 也可以看看
 

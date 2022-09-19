@@ -1,14 +1,14 @@
 ---
 title: FarthestViewportElement
 second_title: Aspose.SVG for .NET API 参考
-description: 最远的祖先 svg 元素如果当前元素是最外层的 svg 元素则为 Null
+description: 最远的祖先 svg 元素如果当前元素是最外层的 svg 元素则为空
 type: docs
 weight: 10
 url: /zh/net/aspose.svg/svggraphicselement/farthestviewportelement/
 ---
 ## SVGGraphicsElement.FarthestViewportElement property
 
-最远的祖先 'svg' 元素。如果当前元素是最外层的 svg 元素，则为 Null。
+最远的祖先 'svg' 元素。如果当前元素是最外层的 svg 元素，则为空。
 
 ```csharp
 public SVGElement FarthestViewportElement { get; }

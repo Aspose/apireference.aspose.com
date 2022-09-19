@@ -1,14 +1,14 @@
 ---
 title: Simplify
 second_title: Справочник по Aspose.SVG для .NET API
-description: Уменьшает количество точек на трассе.
+description: Уменьшает количество точек в трассе.
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.imagevectorization/iimagetracesimplifier/simplify/
 ---
 ## IImageTraceSimplifier.Simplify method
 
-Уменьшает количество точек на трассе.
+Уменьшает количество точек в трассе.
 
 ```csharp
 public IEnumerable<PointF> Simplify(IEnumerable<PointF> trace)

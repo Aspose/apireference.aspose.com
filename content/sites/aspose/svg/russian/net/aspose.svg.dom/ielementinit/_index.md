@@ -1,14 +1,14 @@
 ---
 title: IElementInit
 second_title: Справочник по Aspose.SVG для .NET API
-description: Этот интерфейс предоставляет информацию об инициализацииElement./element.
+description: Этот интерфейс обеспечиваетElement./element информация об инициализации.
 type: docs
-weight: 1070
+weight: 1060
 url: /ru/net/aspose.svg.dom/ielementinit/
 ---
 ## IElementInit interface
 
-Этот интерфейс предоставляет информацию об инициализации[`Element`](../element).
+Этот интерфейс обеспечивает[`Element`](../element) информация об инициализации.
 
 ```csharp
 public interface IElementInit

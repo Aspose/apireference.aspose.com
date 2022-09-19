@@ -1,14 +1,14 @@
 ---
 title: ImageTraceSmoother
 second_title: Aspose.SVG for .NET API 参考
-description: 初始化ImageTraceSmootheraspose.svg.imagevectorization/imagetracesmoother类的新实例
+description: 初始化ImageTraceSmootheraspose.svg.imagevectorization/imagetracesmoother类.
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.imagevectorization/imagetracesmoother/imagetracesmoother/
 ---
 ## ImageTraceSmoother() {#constructor}
 
-初始化[`ImageTraceSmoother`](../../imagetracesmoother)类的新实例。
+初始化[`ImageTraceSmoother`](../../imagetracesmoother)类.
 
 ```csharp
 public ImageTraceSmoother()
@@ -24,7 +24,7 @@ public ImageTraceSmoother()
 
 ## ImageTraceSmoother(int) {#constructor_1}
 
-初始化[`ImageTraceSmoother`](../../imagetracesmoother)类的新实例。
+初始化[`ImageTraceSmoother`](../../imagetracesmoother)类.
 
 ```csharp
 public ImageTraceSmoother(int severity)

@@ -1,14 +1,14 @@
 ---
 title: CreateAttribute
 second_title: Справочник по Aspose.SVG для .NET API
-description: Создает Attr с заданным именем.
+description: Создает атрибут с заданным именем.
 type: docs
 weight: 790
 url: /ru/net/aspose.svg.dom/document/createattribute/
 ---
 ## Document.CreateAttribute method
 
-Создает Attr с заданным именем.
+Создает атрибут с заданным именем.
 
 ```csharp
 public Attr CreateAttribute(string localName)
@@ -20,7 +20,7 @@ public Attr CreateAttribute(string localName)
 
 ### Возвращаемое значение
 
-[`Attr`](../../attr).
+[`Attr`](../../attr) .
 
 ### Смотрите также
 

@@ -1,14 +1,14 @@
 ---
 title: CSS_URI
 second_title: Aspose.SVG for .NET API 参考
-description: 值是一个 URI可以使用 getStringValue 方法获取该值
+description: 该值是一个 URI可以使用getStringValue方法获取值
 type: docs
 weight: 410
 url: /zh/net/aspose.svg.dom.css/cssprimitivevalue/css_uri/
 ---
 ## CSSPrimitiveValue.CSS_URI field
 
-值是一个 URI。可以使用 getStringValue 方法获取该值。
+该值是一个 URI。可以使用getStringValue方法获取值。
 
 ```csharp
 public const ushort CSS_URI;

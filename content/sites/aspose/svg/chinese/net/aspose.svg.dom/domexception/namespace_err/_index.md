@@ -1,14 +1,14 @@
 ---
 title: NAMESPACE_ERR
 second_title: Aspose.SVG for .NET API 参考
-description: 如果试图以不正确的命名空间方式创建或更改对象
+description: 如果尝试以不正确的命名空间方式创建或更改对象
 type: docs
 weight: 170
 url: /zh/net/aspose.svg.dom/domexception/namespace_err/
 ---
 ## DOMException.NAMESPACE_ERR field
 
-如果试图以不正确的命名空间方式创建或更改对象。
+如果尝试以不正确的命名空间方式创建或更改对象。
 
 ```csharp
 public const ushort NAMESPACE_ERR;

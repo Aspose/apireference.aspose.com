@@ -20,7 +20,7 @@ public Element CreateElement(string localName)
 
 ### Возвращаемое значение
 
-[`Element`](../../element).
+[`Element`](../../element) .
 
 ### Смотрите также
 

@@ -1,14 +1,14 @@
 ---
 title: FontMatcher
 second_title: Aspose.SVG for .NET API 参考
-description: 获取或设置允许您控制部分字体匹配算法的类
+description: 获取或设置允许您控制字体匹配算法某些部分的类
 type: docs
 weight: 10
 url: /zh/net/aspose.svg/fontssettings/fontmatcher/
 ---
 ## FontsSettings.FontMatcher property
 
-获取或设置允许您控制部分字体匹配算法的类。
+获取或设置允许您控制字体匹配算法某些部分的类。
 
 ```csharp
 public FontMatcher FontMatcher { get; set; }

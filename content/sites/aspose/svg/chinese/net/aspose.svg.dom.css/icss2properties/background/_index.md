@@ -1,14 +1,14 @@
 ---
 title: Background
 second_title: Aspose.SVG for .NET API 参考
-description: 请参阅 CSS2 中的背景属性定义
+description: 参见CSS2中的背景属性定义
 type: docs
 weight: 20
 url: /zh/net/aspose.svg.dom.css/icss2properties/background/
 ---
 ## ICSS2Properties.Background property
 
-请参阅 CSS2 中的背景属性定义。
+参见CSS2中的背景属性定义。
 
 ```csharp
 public string Background { get; set; }

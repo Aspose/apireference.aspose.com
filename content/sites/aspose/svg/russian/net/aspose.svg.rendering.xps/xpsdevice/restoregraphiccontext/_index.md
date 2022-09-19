@@ -1,14 +1,14 @@
 ---
 title: RestoreGraphicContext
 second_title: Справочник по Aspose.SVG для .NET API
-description: Восстанавливает весь графический контекст до его прежнего значения выталкивая его из стека.
+description: Восстанавливает весь графический контекст до его прежнего значения извлекая его из стека.
 type: docs
 weight: 170
 url: /ru/net/aspose.svg.rendering.xps/xpsdevice/restoregraphiccontext/
 ---
 ## XpsDevice.RestoreGraphicContext method
 
-Восстанавливает весь графический контекст до его прежнего значения, выталкивая его из стека.
+Восстанавливает весь графический контекст до его прежнего значения, извлекая его из стека.
 
 ```csharp
 public override void RestoreGraphicContext()

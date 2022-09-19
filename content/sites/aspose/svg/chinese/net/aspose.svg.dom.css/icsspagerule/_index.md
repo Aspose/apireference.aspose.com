@@ -1,14 +1,14 @@
 ---
 title: ICSSPageRule
 second_title: Aspose.SVG for .NET API 参考
-description: CSSPageRule 接口表示CSS 样式表中的page 规则page 规则用于为分页媒体指定页面框的尺寸方向边距等
+description: CSSPageRule 接口表示CSS 样式表中的page 规则 page 规则用于为分页媒体指定页面框的尺寸方向边距等
 type: docs
-weight: 620
+weight: 610
 url: /zh/net/aspose.svg.dom.css/icsspagerule/
 ---
 ## ICSSPageRule interface
 
-CSSPageRule 接口表示CSS 样式表中的@page 规则。@page 规则用于为分页媒体指定页面框的尺寸、方向、边距等。
+CSSPageRule 接口表示CSS 样式表中的@page 规则。 @page 规则用于为分页媒体指定页面框的尺寸、方向、边距等。
 
 ```csharp
 public interface ICSSPageRule : ICSSRule
@@ -19,7 +19,7 @@ public interface ICSSPageRule : ICSSRule
 | 姓名 | 描述 |
 | --- | --- |
 | [SelectorText](../../aspose.svg.dom.css/icsspagerule/selectortext) { get; set; } | 规则的页面选择器的可解析文本表示。 |
-| [Style](../../aspose.svg.dom.css/icsspagerule/style) { get; } | 此规则的声明块。 |
+| [Style](../../aspose.svg.dom.css/icsspagerule/style) { get; } | 该规则的声明块。 |
 
 ### 也可以看看
 

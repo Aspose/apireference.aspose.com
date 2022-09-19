@@ -1,14 +1,14 @@
 ---
 title: op_LessThan
 second_title: Aspose.SVG for .NET API 参考
-description: 实现运算符 lt
+description: 实现运算符 lt.
 type: docs
 weight: 70
 url: /zh/net/aspose.svg.drawing/resolution/op_lessthan/
 ---
 ## Resolution LessThan operator
 
-实现运算符 &lt;。
+实现运算符 &lt;.
 
 ```csharp
 public static bool operator <(Resolution a, Resolution b)
@@ -16,8 +16,8 @@ public static bool operator <(Resolution a, Resolution b)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| a | Resolution | 参数a。 |
-| b | Resolution | 参数 b。 |
+| a | Resolution | 参数 a。 |
+| b | Resolution | 参数 B. |
 
 ### 返回值
 

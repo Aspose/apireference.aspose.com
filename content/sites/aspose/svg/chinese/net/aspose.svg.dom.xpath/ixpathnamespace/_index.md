@@ -1,14 +1,14 @@
 ---
 title: IXPathNamespace
 second_title: Aspose.SVG for .NET API 参考
-description: XPathNamespace 接口由 XPathResult 接口返回表示 DOM 缺少的 XPath 命名空间节点类型
+description: XPathNamespace 接口由XPathResult 接口返回表示DOM 缺少的XPath 命名空间节点类型
 type: docs
-weight: 1350
+weight: 1340
 url: /zh/net/aspose.svg.dom.xpath/ixpathnamespace/
 ---
 ## IXPathNamespace interface
 
-XPathNamespace 接口由 XPathResult 接口返回，表示 DOM 缺少的 XPath 命名空间节点类型。
+XPathNamespace 接口由XPathResult 接口返回，表示DOM 缺少的XPath 命名空间节点类型。
 
 ```csharp
 public interface IXPathNamespace
@@ -18,7 +18,7 @@ public interface IXPathNamespace
 
 | 姓名 | 描述 |
 | --- | --- |
-| [OwnerElement](../../aspose.svg.dom.xpath/ixpathnamespace/ownerelement) { get; } | [`Element`](../../aspose.svg.dom/element)命名空间在被请求时在其范围内。 这在返回的命名空间节点上不会改变，即使文档更改了这样的 命名空间超出了该元素的范围并且 XPath 不再找到该节点 . |
+| [OwnerElement](../../aspose.svg.dom.xpath/ixpathnamespace/ownerelement) { get; } | 的[`Element`](../../aspose.svg.dom/element)请求时，命名空间在其范围内。 这在返回的命名空间节点上不会改变，即使文档更改了这样的 使得命名空间超出该元素的范围并且 XPath 不再在 找到该节点。 |
 
 ### 也可以看看
 

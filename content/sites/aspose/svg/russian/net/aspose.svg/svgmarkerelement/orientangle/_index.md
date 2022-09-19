@@ -1,14 +1,14 @@
 ---
 title: OrientAngle
 second_title: Справочник по Aspose.SVG для .NET API
-description: Соответствует атрибуту ориентация данного элемента маркер. Если markerUnits равно SVG_MARKER_ORIENT_ANGLE значение угла для атрибута ориентация в противном случае он будет установлен равным нулю.
+description: Соответствует атрибуту ориентация данного элемента маркер. Если markerUnits равно SVG_MARKER_ORIENT_ANGLE значение угла для атрибута ориентация в противном случае он будет равен нулю.
 type: docs
 weight: 40
 url: /ru/net/aspose.svg/svgmarkerelement/orientangle/
 ---
 ## SVGMarkerElement.OrientAngle property
 
-Соответствует атрибуту 'ориентация' данного элемента 'маркер'. Если markerUnits равно SVG_MARKER_ORIENT_ANGLE, значение угла для атрибута 'ориентация'; в противном случае он будет установлен равным нулю.
+Соответствует атрибуту «ориентация» данного элемента «маркер». Если markerUnits равно SVG_MARKER_ORIENT_ANGLE, значение угла для атрибута 'ориентация'; в противном случае он будет равен нулю.
 
 ```csharp
 public SVGAnimatedAngle OrientAngle { get; }
@@ -16,7 +16,7 @@ public SVGAnimatedAngle OrientAngle { get; }
 
 ### Стоимость имущества
 
-Атрибут 'ориентация' данного элемента 'маркер'.
+Атрибут «ориентация» данного элемента «маркер».
 
 ### Смотрите также
 

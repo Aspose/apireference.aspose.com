@@ -8,7 +8,7 @@ url: /ru/net/aspose.svg.datatypes/svgpreserveaspectratio/svg_meetorslice_meet/
 ---
 ## SVGPreserveAspectRatio.SVG_MEETORSLICE_MEET field
 
-Соответствует значению 'meet' для атрибута 'preserveAspectRatio'.
+Соответствует значению "meet" для атрибута "preserveAspectRatio".
 
 ```csharp
 public const ushort SVG_MEETORSLICE_MEET;

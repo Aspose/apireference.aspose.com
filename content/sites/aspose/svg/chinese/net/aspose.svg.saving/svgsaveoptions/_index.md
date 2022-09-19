@@ -3,7 +3,7 @@ title: SVGSaveOptions
 second_title: Aspose.SVG for .NET API 参考
 description: 表示 SVG 保存选项
 type: docs
-weight: 3610
+weight: 3620
 url: /zh/net/aspose.svg.saving/svgsaveoptions/
 ---
 ## SVGSaveOptions class
@@ -24,7 +24,7 @@ public class SVGSaveOptions : SaveOptions
 
 | 姓名 | 描述 |
 | --- | --- |
-| [ResourceHandlingOptions](../../aspose.svg.saving/saveoptions/resourcehandlingoptions) { get; } | 获取用于配置资源处理的[`ResourceHandlingOptions`](../resourcehandlingoptions)对象。 |
+| [ResourceHandlingOptions](../../aspose.svg.saving/saveoptions/resourcehandlingoptions) { get; } | 得到一个[`ResourceHandlingOptions`](../resourcehandlingoptions)用于配置资源处理的对象。 |
 | [VectorizeText](../../aspose.svg.saving/svgsaveoptions/vectorizetext) { get; set; } | 获取或设置文本元素是否替换为路径。 |
 
 ### 也可以看看

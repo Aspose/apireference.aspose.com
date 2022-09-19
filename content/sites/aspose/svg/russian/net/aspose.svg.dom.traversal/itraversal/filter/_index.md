@@ -1,14 +1,14 @@
 ---
 title: Filter
 second_title: Справочник по Aspose.SVG для .NET API
-description: NodeFilter используется для просмотра узлов.
+description: NodeFilter используемый для просмотра узлов.
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.dom.traversal/itraversal/filter/
 ---
 ## ITraversal.Filter property
 
-NodeFilter используется для просмотра узлов.
+NodeFilter, используемый для просмотра узлов.
 
 ```csharp
 public INodeFilter Filter { get; }

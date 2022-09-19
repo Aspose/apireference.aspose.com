@@ -1,14 +1,14 @@
 ---
 title: CreateSVGTransformFromMatrix
 second_title: Справочник по Aspose.SVG для .NET API
-description: Создает объект SVGTransform вне каких-либо деревьев документов. Объект инициализируется заданным матричным преобразованием т. е. SVG_TRANSFORM_MATRIX. Копируются значения из матрицы параметров параметр матрицы не принимается как SVGTransformmatrix.
+description: Создает объект SVGTransform вне какихлибо деревьев документов. Объект инициализируется заданным матричным преобразованием т. е. SVG_TRANSFORM_MATRIX. Значения из матрицы параметров копируются параметр матрицы не принимается как SVGTransformmatrix.
 type: docs
 weight: 190
 url: /ru/net/aspose.svg/svgsvgelement/createsvgtransformfrommatrix/
 ---
 ## SVGSVGElement.CreateSVGTransformFromMatrix method
 
-Создает объект SVGTransform вне каких-либо деревьев документов. Объект инициализируется заданным матричным преобразованием (т. е. SVG_TRANSFORM_MATRIX). Копируются значения из матрицы параметров, параметр матрицы не принимается как SVGTransform::matrix.
+Создает объект SVGTransform вне каких-либо деревьев документов. Объект инициализируется заданным матричным преобразованием (т. е. SVG_TRANSFORM_MATRIX). Значения из матрицы параметров копируются, параметр матрицы не принимается как SVGTransform::matrix.
 
 ```csharp
 public SVGTransform CreateSVGTransformFromMatrix(SVGMatrix matrix)

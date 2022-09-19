@@ -1,14 +1,14 @@
 ---
 title: ATTRIBUTE_NODE
 second_title: Aspose.SVG for .NET API 参考
-description: 属性节点
+description: 一个属性节点
 type: docs
 weight: 320
 url: /zh/net/aspose.svg.dom/node/attribute_node/
 ---
 ## Node.ATTRIBUTE_NODE field
 
-属性节点
+一个属性节点
 
 ```csharp
 public const ushort ATTRIBUTE_NODE;

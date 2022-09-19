@@ -1,14 +1,14 @@
 ---
 title: Left
 second_title: Справочник по Aspose.SVG для .NET API
-description: Этот атрибут используется для левой части прямоугольника.
+description: Этот атрибут используется для левой стороны прямоугольника.
 type: docs
 weight: 20
 url: /ru/net/aspose.svg.dom.css/rect/left/
 ---
 ## Rect.Left property
 
-Этот атрибут используется для левой части прямоугольника.
+Этот атрибут используется для левой стороны прямоугольника.
 
 ```csharp
 public CSSPrimitiveValue Left { get; }

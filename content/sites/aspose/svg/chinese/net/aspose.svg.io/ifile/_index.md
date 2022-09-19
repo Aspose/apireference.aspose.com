@@ -1,14 +1,14 @@
 ---
 title: IFile
 second_title: Aspose.SVG for .NET API 参考
-description: 一个File对象是一个带有name属性的Blob对象它是一个字符串它可以通过构造函数在 Web 应用程序中创建或者是对来自底层 OS 文件系统的文件的字节序列的引用
+description: 一个File对象是一个带有name属性的Blob对象它是一个字符串它可以通过构造函数在 Web 应用程序中创建或者是对来自底层OS文件系统的文件的字节序列的引用
 type: docs
-weight: 1930
+weight: 1940
 url: /zh/net/aspose.svg.io/ifile/
 ---
 ## IFile interface
 
-一个File对象是一个带有name属性的Blob对象，它是一个字符串；它可以通过构造函数在 Web 应用程序中创建，或者是对来自底层 (OS) 文件系统的文件的字节序列的引用。
+一个File对象是一个带有name属性的Blob对象，它是一个字符串；它可以通过构造函数在 Web 应用程序中创建，或者是对来自底层（OS）文件系统的文件的字节序列的引用。
 
 ```csharp
 public interface IFile : IBlob
@@ -18,8 +18,8 @@ public interface IFile : IBlob
 
 | 姓名 | 描述 |
 | --- | --- |
-| [LastModified](../../aspose.svg.io/ifile/lastmodified) { get; } | 文件的最后修改日期。在获取时，如果用户代理可以使此信息可用， 这必须返回一个 long long 集合，该集合为文件最后一次修改的时间，作为自 Unix 纪元以来的毫秒数。 |
-| [Name](../../aspose.svg.io/ifile/name) { get; } | 文件名。 在获取时，它必须以字符串形式返回文件名。 |
+| [LastModified](../../aspose.svg.io/ifile/lastmodified) { get; } | 文件的最后修改日期。在获取时，如果用户代理可以使此信息可用， 这必须返回一个 long long 设置为文件最后一次修改的时间，作为自 Unix 纪元以来的毫秒数。 |
+| [Name](../../aspose.svg.io/ifile/name) { get; } | 文件名。 获取时，必须以字符串形式返回文件名。 |
 
 ### 也可以看看
 

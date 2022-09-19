@@ -3,7 +3,7 @@ title: IBrush
 second_title: Aspose.SVG for .NET API 参考
 description: 声明获取画笔类型的方法
 type: docs
-weight: 1420
+weight: 1430
 url: /zh/net/aspose.svg.drawing/ibrush/
 ---
 ## IBrush interface

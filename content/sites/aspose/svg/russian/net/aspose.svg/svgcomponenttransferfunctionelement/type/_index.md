@@ -1,14 +1,14 @@
 ---
 title: Type
 second_title: Справочник по Aspose.SVG для .NET API
-description: Соответствует атрибуту type данного элемента. Принимает одну из констант SVG_FECOMPONENTTRANSFER_TYPE_ определенных в этом интерфейсе.
+description: Соответствует типу атрибута данного элемента. Принимает одну из констант SVG_FECOMPONENTTRANSFER_TYPE_ определенных в этом интерфейсе.
 type: docs
 weight: 70
 url: /ru/net/aspose.svg/svgcomponenttransferfunctionelement/type/
 ---
 ## SVGComponentTransferFunctionElement.Type property
 
-Соответствует атрибуту 'type' данного элемента. Принимает одну из констант SVG_FECOMPONENTTRANSFER_TYPE_*, определенных в этом интерфейсе.
+Соответствует типу атрибута данного элемента. Принимает одну из констант SVG_FECOMPONENTTRANSFER_TYPE_*, определенных в этом интерфейсе.
 
 ```csharp
 public SVGAnimatedEnumeration Type { get; }
@@ -16,7 +16,7 @@ public SVGAnimatedEnumeration Type { get; }
 
 ### Стоимость имущества
 
-Атрибут 'тип' данного элемента.
+Тип атрибута данного элемента.
 
 ### Смотрите также
 

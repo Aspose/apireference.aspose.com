@@ -1,14 +1,14 @@
 ---
 title: PageSetup
 second_title: Справочник по Aspose.SVG для .NET API
-description: Представляет объект настройки страницы используемый для конфигурации вывода набора страниц.
+description: Представляет объект настройки страницы используемый для набора страниц вывода конфигурации.
 type: docs
-weight: 2850
+weight: 2860
 url: /ru/net/aspose.svg.rendering/pagesetup/
 ---
 ## PageSetup class
 
-Представляет объект настройки страницы, используемый для конфигурации вывода набора страниц.
+Представляет объект настройки страницы, используемый для набора страниц вывода конфигурации.
 
 ```csharp
 public class PageSetup
@@ -19,7 +19,7 @@ public class PageSetup
 | Имя | Описание |
 | --- | --- |
 | [AnyPage](../../aspose.svg.rendering/pagesetup/anypage) { get; set; } | Получает или задает конфигурацию всех страниц в последовательности страниц. |
-| [AtPagePriority](../../aspose.svg.rendering/pagesetup/atpagepriority) { get; set; } | Получает или задает[`AtPagePriority`](../atpagepriority), который будет определять порядок применения объявлений размера страницы. По умолчанию параметры переопределяют css` @page` rules. |
+| [AtPagePriority](../../aspose.svg.rendering/pagesetup/atpagepriority) { get; set; } | Получает или устанавливает[`AtPagePriority`](../atpagepriority) который будет определять порядок применения объявлений размера страницы. По умолчанию параметры переопределяют css`@страница` правила . |
 | [FirstPage](../../aspose.svg.rendering/pagesetup/firstpage) { get; set; } | Получает или задает конфигурацию первой страницы. |
 | [LeftPage](../../aspose.svg.rendering/pagesetup/leftpage) { get; } | Получает конфигурацию нечетной страницы. |
 | [RightPage](../../aspose.svg.rendering/pagesetup/rightpage) { get; } | Получает конфигурацию четной страницы. |

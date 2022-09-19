@@ -1,14 +1,14 @@
 ---
 title: IOutputStorage
 second_title: Справочник по Aspose.SVG для .NET API
-description: Обеспечивает создание и управление выходными потокамиOutputStream./outputstream.
+description: Обеспечивает создание и управление выходными потокамиOutputStream./outputstream .
 type: docs
-weight: 1950
+weight: 1960
 url: /ru/net/aspose.svg.io/ioutputstorage/
 ---
 ## IOutputStorage interface
 
-Обеспечивает создание и управление выходными потоками[`OutputStream`](../outputstream).
+Обеспечивает создание и управление выходными потоками[`OutputStream`](../outputstream) .
 
 ```csharp
 public interface IOutputStorage
@@ -18,7 +18,7 @@ public interface IOutputStorage
 
 | Имя | Описание |
 | --- | --- |
-| [CreateStream](../../aspose.svg.io/ioutputstorage/createstream)(OutputStreamContext) | Создает выходной поток[`OutputStream`](../outputstream). |
+| [CreateStream](../../aspose.svg.io/ioutputstorage/createstream)(OutputStreamContext) | Создает выходной поток[`OutputStream`](../outputstream) . |
 | [ReleaseStream](../../aspose.svg.io/ioutputstorage/releasestream)(OutputStream) | Освобождает выходной поток. |
 
 ### Смотрите также

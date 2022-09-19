@@ -1,14 +1,14 @@
 ---
 title: SVGPathSegLinetoRel
 second_title: Справочник по Aspose.SVG для .NET API
-description: Интерфейс SVGPathSegLinetoRel соответствует команде данных пути relative lineto l.
+description: Интерфейс SVGPathSegLinetoRel соответствует команде данных относительного пути lineto l.
 type: docs
-weight: 2600
+weight: 2610
 url: /ru/net/aspose.svg.paths/svgpathseglinetorel/
 ---
 ## SVGPathSegLinetoRel class
 
-Интерфейс SVGPathSegLinetoRel соответствует команде данных пути "relative lineto" (l).
+Интерфейс SVGPathSegLinetoRel соответствует команде данных относительного пути lineto (l).
 
 ```csharp
 public class SVGPathSegLinetoRel : SVGPathSeg
@@ -18,9 +18,9 @@ public class SVGPathSegLinetoRel : SVGPathSeg
 
 | Имя | Описание |
 | --- | --- |
-| [PathSegType](../../aspose.svg.paths/svgpathseg/pathsegtype) { get; } | Тип сегмента пути, заданный одной из констант, определенных в этом интерфейсе. |
+| [PathSegType](../../aspose.svg.paths/svgpathseg/pathsegtype) { get; } | Тип сегмента пути, указанный одной из констант, определенных на этом интерфейсе. |
 | [PathSegTypeAsLetter](../../aspose.svg.paths/svgpathseg/pathsegtypeasletter) { get; } | Тип сегмента пути, определяемый соответствующим односимвольным именем команды. |
-| [X](../../aspose.svg.paths/svgpathseglinetorel/x) { get; set; } | Относительная координата X для конечной точки этого сегмента пути. |
+| [X](../../aspose.svg.paths/svgpathseglinetorel/x) { get; set; } | Относительная координата X конечной точки этого сегмента пути. |
 | [Y](../../aspose.svg.paths/svgpathseglinetorel/y) { get; set; } | Относительная координата Y для конечной точки этого сегмента пути. |
 
 ## Методы
@@ -28,7 +28,7 @@ public class SVGPathSegLinetoRel : SVGPathSeg
 | Имя | Описание |
 | --- | --- |
 | [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose)() | Освобождает неуправляемые и (необязательно) управляемые ресурсы. |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | Этот метод используется для получения объекта ECMAScriptType. |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | Этот метод используется для получения объекта ECMAScript.Type . |
 
 ### Смотрите также
 

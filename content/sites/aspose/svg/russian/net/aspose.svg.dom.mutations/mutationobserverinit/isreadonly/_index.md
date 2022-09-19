@@ -1,14 +1,14 @@
 ---
 title: IsReadOnly
 second_title: Справочник по Aspose.SVG для .NET API
-description: Определяет является ли коллекцияMutationObserverInitaspose.svg.dom.mutations/mutationobserverinitизменяемой.
+description: ОпределяетMutationObserverInitaspose.svg.dom.mutations/mutationobserverinit коллекция изменчива.
 type: docs
 weight: 90
 url: /ru/net/aspose.svg.dom.mutations/mutationobserverinit/isreadonly/
 ---
 ## MutationObserverInit.IsReadOnly property
 
-Определяет, является ли коллекция[`MutationObserverInit`](../../mutationobserverinit)изменяемой.
+Определяет,[`MutationObserverInit`](../../mutationobserverinit) коллекция изменчива.
 
 ```csharp
 public bool IsReadOnly { get; }

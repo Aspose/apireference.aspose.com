@@ -1,14 +1,14 @@
 ---
 title: GetTotalLength
 second_title: Aspose.SVG for .NET API 参考
-description: 返回用户代理使用用户代理的距离沿路径算法计算的路径总长度值作为当前用户坐标系中的距离
+description: 返回用户代理使用用户代理的路径距离算法计算的路径总长度值作为当前用户坐标系中的距离
 type: docs
 weight: 30
 url: /zh/net/aspose.svg/svggeometryelement/gettotallength/
 ---
 ## SVGGeometryElement.GetTotalLength method
 
-返回用户代理使用用户代理的距离沿路径算法计算的路径总长度值，作为当前用户坐标系中的距离。
+返回用户代理使用用户代理的路径距离算法计算的路径总长度值，作为当前用户坐标系中的距离。
 
 ```csharp
 public float GetTotalLength()

@@ -1,14 +1,14 @@
 ---
 title: GetRGBColorValue
 second_title: Справочник по Aspose.SVG для .NET API
-description: Этот метод используется для получения цвета RGB. Если это значение CSS не содержит значение цвета RGB возникает исключение DOMException. Изменение соответствующего свойства стиля может быть достигнуто с помощью интерфейса RGBColor.
+description: Этот метод используется для получения цвета RGB. Если это значение CSS не содержит значение цвета RGB возникает исключение DOMException. Модификацию соответствующего свойства стиля можно выполнить с помощью интерфейса RGBColor.
 type: docs
 weight: 60
 url: /ru/net/aspose.svg.dom.css/cssprimitivevalue/getrgbcolorvalue/
 ---
 ## CSSPrimitiveValue.GetRGBColorValue method
 
-Этот метод используется для получения цвета RGB. Если это значение CSS не содержит значение цвета RGB, возникает исключение DOMException. Изменение соответствующего свойства стиля может быть достигнуто с помощью интерфейса RGBColor.
+Этот метод используется для получения цвета RGB. Если это значение CSS не содержит значение цвета RGB, возникает исключение DOMException. Модификацию соответствующего свойства стиля можно выполнить с помощью интерфейса RGBColor.
 
 ```csharp
 public abstract RGBColor GetRGBColorValue()

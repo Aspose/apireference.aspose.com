@@ -1,14 +1,14 @@
 ---
 title: Operator
 second_title: Aspose.SVG for .NET API 参考
-description: 对应于给定 feMorphology 元素上的属性 operator采用在此接口上定义的 SVG_MORPHOLOGY_OPERATOR_ 常量之一
+description: 对应于给定 feMorphology 元素的属性 operator采用此接口上定义的 SVG_MORPHOLOGY_OPERATOR_ 常量之一
 type: docs
 weight: 30
 url: /zh/net/aspose.svg.filters/svgfemorphologyelement/operator/
 ---
 ## SVGFEMorphologyElement.Operator property
 
-对应于给定 'feMorphology' 元素上的属性 'operator'。采用在此接口上定义的 SVG_MORPHOLOGY_OPERATOR_* 常量之一。
+对应于给定 'feMorphology' 元素的属性 'operator'。采用此接口上定义的 SVG_MORPHOLOGY_OPERATOR_* 常量之一。
 
 ```csharp
 public SVGAnimatedEnumeration Operator { get; }
@@ -16,7 +16,7 @@ public SVGAnimatedEnumeration Operator { get; }
 
 ### 适当的价值
 
-给定 'feMorphology' 元素的属性 'operator'。
+给定'feMorphology'元素的属性'operator'。
 
 ### 也可以看看
 

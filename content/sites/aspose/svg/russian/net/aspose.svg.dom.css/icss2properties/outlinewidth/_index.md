@@ -1,14 +1,14 @@
 ---
 title: OutlineWidth
 second_title: Справочник по Aspose.SVG для .NET API
-description: См. определение свойства layout-width в CSS2.
+description: См. определение свойства ширины контура в CSS2.
 type: docs
 weight: 780
 url: /ru/net/aspose.svg.dom.css/icss2properties/outlinewidth/
 ---
 ## ICSS2Properties.OutlineWidth property
 
-См. определение свойства layout-width в CSS2.
+См. определение свойства ширины контура в CSS2.
 
 ```csharp
 public string OutlineWidth { get; set; }

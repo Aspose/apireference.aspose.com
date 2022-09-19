@@ -1,14 +1,14 @@
 ---
 title: Azimuth
 second_title: Aspose.SVG for .NET API 参考
-description: 对应于给定 feDistantLight 元素上的属性 azimuth
+description: 对应于给定feDistantLight元素上的属性方位角
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.filters/svgfedistantlightelement/azimuth/
 ---
 ## SVGFEDistantLightElement.Azimuth property
 
-对应于给定 'feDistantLight' 元素上的属性 'azimuth'。
+对应于给定“feDistantLight”元素上的属性“方位角”。
 
 ```csharp
 public SVGAnimatedNumber Azimuth { get; }
@@ -16,7 +16,7 @@ public SVGAnimatedNumber Azimuth { get; }
 
 ### 适当的价值
 
-给定“feDistantLight”元素的“方位角”属性。
+给定“feDistantLight”元素的属性“方位角”。
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: MatchFontFallback
 second_title: Aspose.SVG for .NET API 参考
-description: 如果在字体查找文件夹中没有找到合适的字体则调用此方法 它应该返回基于fontMatchingProperties的真类型字体它可以呈现charCode或者 null 如果这样的字体是无法使用
+description: 如果在字体查找文件夹中没有找到合适的字体则调用此方法 它应该根据fontMatchingProperties可以渲染charCode 或者无效的如果这种字体不可用
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.rendering.fonts/fontmatcher/matchfontfallback/
 ---
 ## FontMatcher.MatchFontFallback method
 
-如果在字体查找文件夹中没有找到合适的字体，则调用此方法。 它应该返回基于*fontMatchingProperties*的真类型字体，它可以呈现*charCode*，或者` null` 如果这样的字体是无法使用。
+如果在字体查找文件夹中没有找到合适的字体，则调用此方法。 它应该根据*fontMatchingProperties*可以渲染*charCode*， 或者`无效的`如果这种字体不可用。
 
 ```csharp
 public abstract byte[] MatchFontFallback(FontMatchingProperties fontMatchingProperties, 
@@ -18,11 +18,11 @@ public abstract byte[] MatchFontFallback(FontMatchingProperties fontMatchingProp
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | fontMatchingProperties | FontMatchingProperties | 匹配字体的属性。 |
-| charCode | UInt32 | 将使用匹配字体呈现的字符代码。 |
+| charCode | UInt32 | 将使用匹配的字体呈现的字符的代码。 |
 
 ### 返回值
 
-包含字体数据的字节数组或` null` 。
+包含字体数据的字节数组或`无效的`.
 
 ### 也可以看看
 

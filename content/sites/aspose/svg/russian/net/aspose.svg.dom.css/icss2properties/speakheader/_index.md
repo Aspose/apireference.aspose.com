@@ -1,7 +1,7 @@
 ---
 title: SpeakHeader
 second_title: Справочник по Aspose.SVG для .NET API
-description: См. определение свойства speak-header в CSS2.
+description: См. определение свойства speakheader в CSS2.
 type: docs
 weight: 1010
 url: /ru/net/aspose.svg.dom.css/icss2properties/speakheader/
@@ -16,7 +16,7 @@ public string SpeakHeader { get; set; }
 
 ### Возвращаемое значение
 
-свойство заголовка
+свойство заголовка выступления
 
 ### Смотрите также
 

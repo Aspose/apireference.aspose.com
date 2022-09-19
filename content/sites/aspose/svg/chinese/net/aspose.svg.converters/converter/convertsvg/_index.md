@@ -16,7 +16,7 @@ public static void ConvertSVG(SVGDocument source, PdfSaveOptions options, string
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| source | SVGDocument | 转换源。 |
+| source | SVGDocument | 转化来源。 |
 | options | PdfSaveOptions | 转换选项。 |
 | outputPath | String | 输出文件路径。 |
 
@@ -91,7 +91,7 @@ public static void ConvertSVG(string sourcePath, PdfSaveOptions options, string 
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| sourcePath | String | Svg 文件源路径。它将与当前目录路径结合形成一个绝对 URL。 |
+| sourcePath | String | svg 文件源路径。它将与当前目录路径结合形成一个绝对 URL。 |
 | options | PdfSaveOptions | 转换选项。 |
 | outputPath | String | 输出文件路径。 |
 
@@ -115,7 +115,7 @@ public static void ConvertSVG(string sourcePath, Configuration configuration,
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| sourcePath | String | Svg 文件源路径。它将与当前目录路径结合形成一个绝对 URL。 |
+| sourcePath | String | svg 文件源路径。它将与当前目录路径结合形成一个绝对 URL。 |
 | configuration | Configuration | 环境配置。 |
 | options | PdfSaveOptions | 转换选项。 |
 | outputPath | String | 输出文件路径。 |
@@ -193,9 +193,9 @@ public static void ConvertSVG(SVGDocument document, PdfSaveOptions options,
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| document | SVGDocument | 转换源。 |
+| document | SVGDocument | 转化来源。 |
 | options | PdfSaveOptions | 转换选项。 |
-| provider | ICreateStreamProvider | [`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider)接口的实现，将用于获取输出流。 |
+| provider | ICreateStreamProvider | 的实施[`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider)接口，用于获取输出流。 |
 
 ### 也可以看看
 
@@ -220,7 +220,7 @@ public static void ConvertSVG(Url url, PdfSaveOptions options, ICreateStreamProv
 | --- | --- | --- |
 | url | Url | 文档 URL。 |
 | options | PdfSaveOptions | 转换选项。 |
-| provider | ICreateStreamProvider | [`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider)接口的实现，将用于获取输出流。 |
+| provider | ICreateStreamProvider | 的实施[`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider)接口，用于获取输出流。 |
 
 ### 也可以看看
 
@@ -247,7 +247,7 @@ public static void ConvertSVG(Url url, Configuration configuration, PdfSaveOptio
 | url | Url | 文档 URL。 |
 | configuration | Configuration | 环境配置。 |
 | options | PdfSaveOptions | 转换选项。 |
-| provider | ICreateStreamProvider | [`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider)接口的实现，将用于获取输出流。 |
+| provider | ICreateStreamProvider | 的实施[`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider)接口，用于获取输出流。 |
 
 ### 也可以看看
 
@@ -272,9 +272,9 @@ public static void ConvertSVG(string sourcePath, PdfSaveOptions options,
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| sourcePath | String | Svg 文件源路径。它将与当前目录路径结合形成一个绝对 URL。 |
+| sourcePath | String | svg 文件源路径。它将与当前目录路径结合形成一个绝对 URL。 |
 | options | PdfSaveOptions | 转换选项。 |
-| provider | ICreateStreamProvider | [`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider)接口的实现，将用于获取输出流。 |
+| provider | ICreateStreamProvider | 的实施[`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider)接口，用于获取输出流。 |
 
 ### 也可以看看
 
@@ -297,10 +297,10 @@ public static void ConvertSVG(string sourcePath, Configuration configuration,
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| sourcePath | String | Svg 文件源路径。它将与当前目录路径结合形成一个绝对 URL。 |
+| sourcePath | String | svg 文件源路径。它将与当前目录路径结合形成一个绝对 URL。 |
 | configuration | Configuration | 环境配置。 |
 | options | PdfSaveOptions | 转换选项。 |
-| provider | ICreateStreamProvider | [`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider)接口的实现，将用于获取输出流。 |
+| provider | ICreateStreamProvider | 的实施[`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider)接口，用于获取输出流。 |
 
 ### 也可以看看
 
@@ -327,7 +327,7 @@ public static void ConvertSVG(string content, string baseUri, PdfSaveOptions opt
 | content | String | 源文档内容。 |
 | baseUri | String | 文档的基本 URI。它将与当前目录路径结合形成一个绝对 URL。 |
 | options | PdfSaveOptions | 转换选项。 |
-| provider | ICreateStreamProvider | [`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider)接口的实现，将用于获取输出流。 |
+| provider | ICreateStreamProvider | 的实施[`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider)接口，用于获取输出流。 |
 
 ### 也可以看看
 
@@ -354,7 +354,7 @@ public static void ConvertSVG(string content, string baseUri, Configuration conf
 | baseUri | String | 文档的基本 URI。它将与当前目录路径结合形成一个绝对 URL。 |
 | configuration | Configuration | 环境配置。 |
 | options | PdfSaveOptions | 转换选项。 |
-| provider | ICreateStreamProvider | [`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider)接口的实现，将用于获取输出流。 |
+| provider | ICreateStreamProvider | 的实施[`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider)接口，用于获取输出流。 |
 
 ### 也可以看看
 
@@ -377,7 +377,7 @@ public static void ConvertSVG(SVGDocument source, ImageSaveOptions options, stri
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| source | SVGDocument | 转换源。 |
+| source | SVGDocument | 转化来源。 |
 | options | ImageSaveOptions | 转换选项。 |
 | outputPath | String | 输出文件路径。 |
 
@@ -452,7 +452,7 @@ public static void ConvertSVG(string sourcePath, ImageSaveOptions options, strin
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| sourcePath | String | Svg 文件源路径。它将与当前目录路径结合形成一个绝对 URL。 |
+| sourcePath | String | svg 文件源路径。它将与当前目录路径结合形成一个绝对 URL。 |
 | options | ImageSaveOptions | 转换选项。 |
 | outputPath | String | 输出文件路径。 |
 
@@ -476,7 +476,7 @@ public static void ConvertSVG(string sourcePath, Configuration configuration,
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| sourcePath | String | Svg 文件源路径。它将与当前目录路径结合形成一个绝对 URL。 |
+| sourcePath | String | svg 文件源路径。它将与当前目录路径结合形成一个绝对 URL。 |
 | configuration | Configuration | 环境配置。 |
 | options | ImageSaveOptions | 转换选项。 |
 | outputPath | String | 输出文件路径。 |
@@ -554,9 +554,9 @@ public static void ConvertSVG(SVGDocument document, ImageSaveOptions options,
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| document | SVGDocument | 转换源。 |
+| document | SVGDocument | 转化来源。 |
 | options | ImageSaveOptions | 转换选项。 |
-| provider | ICreateStreamProvider | [`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider)接口的实现，将用于获取输出流。 |
+| provider | ICreateStreamProvider | 的实施[`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider)接口，用于获取输出流。 |
 
 ### 也可以看看
 
@@ -581,7 +581,7 @@ public static void ConvertSVG(Url url, ImageSaveOptions options, ICreateStreamPr
 | --- | --- | --- |
 | url | Url | 文档 URL。 |
 | options | ImageSaveOptions | 转换选项。 |
-| provider | ICreateStreamProvider | [`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider)接口的实现，将用于获取输出流。 |
+| provider | ICreateStreamProvider | 的实施[`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider)接口，用于获取输出流。 |
 
 ### 也可以看看
 
@@ -608,7 +608,7 @@ public static void ConvertSVG(Url url, Configuration configuration, ImageSaveOpt
 | url | Url | 文档 URL。 |
 | configuration | Configuration | 环境配置。 |
 | options | ImageSaveOptions | 转换选项。 |
-| provider | ICreateStreamProvider | [`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider)接口的实现，将用于获取输出流。 |
+| provider | ICreateStreamProvider | 的实施[`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider)接口，用于获取输出流。 |
 
 ### 也可以看看
 
@@ -633,9 +633,9 @@ public static void ConvertSVG(string sourcePath, ImageSaveOptions options,
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| sourcePath | String | Svg 文件源路径。它将与当前目录路径结合形成一个绝对 URL。 |
+| sourcePath | String | svg 文件源路径。它将与当前目录路径结合形成一个绝对 URL。 |
 | options | ImageSaveOptions | 转换选项。 |
-| provider | ICreateStreamProvider | [`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider)接口的实现，将用于获取输出流。 |
+| provider | ICreateStreamProvider | 的实施[`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider)接口，用于获取输出流。 |
 
 ### 也可以看看
 
@@ -658,10 +658,10 @@ public static void ConvertSVG(string sourcePath, Configuration configuration,
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| sourcePath | String | Svg 文件源路径。它将与当前目录路径结合形成一个绝对 URL。 |
+| sourcePath | String | svg 文件源路径。它将与当前目录路径结合形成一个绝对 URL。 |
 | configuration | Configuration | 环境配置。 |
 | options | ImageSaveOptions | 转换选项。 |
-| provider | ICreateStreamProvider | [`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider)接口的实现，将用于获取输出流。 |
+| provider | ICreateStreamProvider | 的实施[`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider)接口，用于获取输出流。 |
 
 ### 也可以看看
 
@@ -688,7 +688,7 @@ public static void ConvertSVG(string content, string baseUri, ImageSaveOptions o
 | content | String | 内联字符串 svg 内容。 |
 | baseUri | String | 文档的基本 URI。它将与当前目录路径结合形成一个绝对 URL。 |
 | options | ImageSaveOptions | 转换选项。 |
-| provider | ICreateStreamProvider | [`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider)接口的实现，将用于获取输出流。 |
+| provider | ICreateStreamProvider | 的实施[`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider)接口，用于获取输出流。 |
 
 ### 也可以看看
 
@@ -715,7 +715,7 @@ public static void ConvertSVG(string content, string baseUri, Configuration conf
 | baseUri | String | 文档的基本 URI。它将与当前目录路径结合形成一个绝对 URL。 |
 | configuration | Configuration | 环境配置。 |
 | options | ImageSaveOptions | 转换选项。 |
-| provider | ICreateStreamProvider | [`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider)接口的实现，将用于获取输出流。 |
+| provider | ICreateStreamProvider | 的实施[`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider)接口，用于获取输出流。 |
 
 ### 也可以看看
 
@@ -738,7 +738,7 @@ public static void ConvertSVG(SVGDocument source, XpsSaveOptions options, string
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| source | SVGDocument | 转换源。 |
+| source | SVGDocument | 转化来源。 |
 | options | XpsSaveOptions | 转换选项。 |
 | outputPath | String | 输出文件路径。 |
 
@@ -813,7 +813,7 @@ public static void ConvertSVG(string sourcePath, XpsSaveOptions options, string 
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| sourcePath | String | Svg 文件源路径。它将与当前目录路径结合形成一个绝对 URL。 |
+| sourcePath | String | svg 文件源路径。它将与当前目录路径结合形成一个绝对 URL。 |
 | options | XpsSaveOptions | 转换选项。 |
 | outputPath | String | 输出文件路径。 |
 
@@ -837,7 +837,7 @@ public static void ConvertSVG(string sourcePath, Configuration configuration,
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| sourcePath | String | Svg 文件源路径。它将与当前目录路径结合形成一个绝对 URL。 |
+| sourcePath | String | svg 文件源路径。它将与当前目录路径结合形成一个绝对 URL。 |
 | configuration | Configuration | 环境配置。 |
 | options | XpsSaveOptions | 转换选项。 |
 | outputPath | String | 输出文件路径。 |
@@ -915,9 +915,9 @@ public static void ConvertSVG(SVGDocument document, XpsSaveOptions options,
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| document | SVGDocument | 转换源。 |
+| document | SVGDocument | 转化来源。 |
 | options | XpsSaveOptions | 转换选项。 |
-| provider | ICreateStreamProvider | [`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider)接口的实现，将用于获取输出流。 |
+| provider | ICreateStreamProvider | 的实施[`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider)接口，用于获取输出流。 |
 
 ### 也可以看看
 
@@ -942,7 +942,7 @@ public static void ConvertSVG(Url url, XpsSaveOptions options, ICreateStreamProv
 | --- | --- | --- |
 | url | Url | 文档 URL。 |
 | options | XpsSaveOptions | 转换选项。 |
-| provider | ICreateStreamProvider | [`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider)接口的实现，将用于获取输出流。 |
+| provider | ICreateStreamProvider | 的实施[`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider)接口，用于获取输出流。 |
 
 ### 也可以看看
 
@@ -969,7 +969,7 @@ public static void ConvertSVG(Url url, Configuration configuration, XpsSaveOptio
 | url | Url | 文档 URL。 |
 | configuration | Configuration | 环境配置。 |
 | options | XpsSaveOptions | 转换选项。 |
-| provider | ICreateStreamProvider | [`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider)接口的实现，将用于获取输出流。 |
+| provider | ICreateStreamProvider | 的实施[`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider)接口，用于获取输出流。 |
 
 ### 也可以看看
 
@@ -994,9 +994,9 @@ public static void ConvertSVG(string sourcePath, XpsSaveOptions options,
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| sourcePath | String | Svg 文件源路径。它将与当前目录路径结合形成一个绝对 URL。 |
+| sourcePath | String | svg 文件源路径。它将与当前目录路径结合形成一个绝对 URL。 |
 | options | XpsSaveOptions | 转换选项。 |
-| provider | ICreateStreamProvider | [`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider)接口的实现，将用于获取输出流。 |
+| provider | ICreateStreamProvider | 的实施[`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider)接口，用于获取输出流。 |
 
 ### 也可以看看
 
@@ -1019,10 +1019,10 @@ public static void ConvertSVG(string sourcePath, Configuration configuration,
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| sourcePath | String | Svg 文件源路径。它将与当前目录路径结合形成一个绝对 URL。 |
+| sourcePath | String | svg 文件源路径。它将与当前目录路径结合形成一个绝对 URL。 |
 | configuration | Configuration | 环境配置。 |
 | options | XpsSaveOptions | 转换选项。 |
-| provider | ICreateStreamProvider | [`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider)接口的实现，将用于获取输出流。 |
+| provider | ICreateStreamProvider | 的实施[`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider)接口，用于获取输出流。 |
 
 ### 也可以看看
 
@@ -1049,7 +1049,7 @@ public static void ConvertSVG(string content, string baseUri, XpsSaveOptions opt
 | content | String | 内联字符串 svg 内容。 |
 | baseUri | String | 文档的基本 URI。它将与当前目录路径结合形成一个绝对 URL。 |
 | options | XpsSaveOptions | 转换选项。 |
-| provider | ICreateStreamProvider | [`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider)接口的实现，将用于获取输出流。 |
+| provider | ICreateStreamProvider | 的实施[`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider)接口，用于获取输出流。 |
 
 ### 也可以看看
 
@@ -1076,7 +1076,7 @@ public static void ConvertSVG(string content, string baseUri, Configuration conf
 | baseUri | String | 文档的基本 URI。它将与当前目录路径结合形成一个绝对 URL。 |
 | configuration | Configuration | 环境配置。 |
 | options | XpsSaveOptions | 转换选项。 |
-| provider | ICreateStreamProvider | [`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider)接口的实现，将用于获取输出流。 |
+| provider | ICreateStreamProvider | 的实施[`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider)接口，用于获取输出流。 |
 
 ### 也可以看看
 

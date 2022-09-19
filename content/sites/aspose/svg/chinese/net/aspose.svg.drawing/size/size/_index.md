@@ -1,14 +1,14 @@
 ---
 title: Size
 second_title: Aspose.SVG for .NET API 参考
-description: 初始化Sizeaspose.svg.drawing/size类的新实例
+description: 初始化Sizeaspose.svg.drawing/size类.
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.drawing/size/size/
 ---
 ## Size() {#constructor}
 
-初始化[`Size`](../../size)类的新实例。
+初始化[`Size`](../../size)类.
 
 ```csharp
 public Size()
@@ -24,7 +24,7 @@ public Size()
 
 ## Size(int, int) {#constructor_2}
 
-初始化[`Size`](../../size)类的新实例，并以像素为单位指定高度和宽度。
+初始化[`Size`](../../size)类并以像素为单位指定高度和宽度。
 
 ```csharp
 public Size(int width, int height)
@@ -45,7 +45,7 @@ public Size(int width, int height)
 
 ## Size(Length, Length) {#constructor_1}
 
-初始化[`Size`](../../size)类的新实例。
+初始化[`Size`](../../size)类.
 
 ```csharp
 public Size(Length width, Length height)

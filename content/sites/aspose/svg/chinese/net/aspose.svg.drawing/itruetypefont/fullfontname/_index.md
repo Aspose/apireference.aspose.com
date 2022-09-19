@@ -1,14 +1,14 @@
 ---
 title: FullFontName
 second_title: Aspose.SVG for .NET API 参考
-description: 这应该是FamilyName和SubFamilyName的组合例外如果字体是常规字体如SubFamilyName中的 所示则仅使用FamilyName中包含的姓氏 上述完整字体名称定义的一个例外是 Microsoft 平台字符串 对于 CFF OpenType 字体在这种情况下完整字体名称字符串必须与 PostScript 相同CFF 名称索引中的字体名称
+description: 这应该是FamilyName和SubFamilyName的组合例外如果字体是常规字体如子家族名称中的 所示则仅使用家族名称中包含的家族名称 上述完整字体名称定义的一个例外是 Microsoft 平台字符串 用于 CFF OpenType 字体在这种情况下完整字体名称字符串必须与 CFF 名称索引中的 PostScript FontName 相同
 type: docs
 weight: 30
 url: /zh/net/aspose.svg.drawing/itruetypefont/fullfontname/
 ---
 ## ITrueTypeFont.FullFontName property
 
-这应该是“FamilyName”和“SubFamilyName”的组合。例外：如果字体是“常规”字体，如“SubFamilyName”中的 所示，则仅使用“FamilyName”中包含的姓氏。 上述完整字体名称定义的一个例外是 Microsoft 平台字符串 对于 CFF OpenType 字体：在这种情况下，完整字体名称字符串必须与 PostScript 相同CFF 名称索引中的字体名称。
+这应该是“FamilyName”和“SubFamilyName”的组合。例外：如果字体是“常规”字体，如“子家族名称”中的 所示，则仅使用“家族名称”中包含的家族名称。 上述完整字体名称定义的一个例外是 Microsoft 平台字符串 用于 CFF OpenType 字体：在这种情况下，完整字体名称字符串必须与 CFF 名称索引中的 PostScript FontName 相同。
 
 ```csharp
 public string FullFontName { get; }

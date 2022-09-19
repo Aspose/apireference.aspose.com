@@ -1,14 +1,14 @@
 ---
 title: HttpProtocolMessageHandler
 second_title: Справочник по Aspose.SVG для .NET API
-description: Представляет обработчик сообщений протокола http .
+description: Представляетhttp обработчик сообщений протокола.
 type: docs
-weight: 2340
+weight: 2350
 url: /ru/net/aspose.svg.net.messagehandlers/httpprotocolmessagehandler/
 ---
 ## HttpProtocolMessageHandler class
 
-Представляет обработчик сообщений протокола` http:` .
+Представляет`http:` обработчик сообщений протокола.
 
 ```csharp
 public class HttpProtocolMessageHandler : MessageHandler
@@ -18,7 +18,7 @@ public class HttpProtocolMessageHandler : MessageHandler
 
 | Имя | Описание |
 | --- | --- |
-| [HttpProtocolMessageHandler](httpprotocolmessagehandler)() | Инициализирует новый экземпляр класса[`HttpProtocolMessageHandler`](../httpprotocolmessagehandler). |
+| [HttpProtocolMessageHandler](httpprotocolmessagehandler)() | Инициализирует новый экземпляр[`HttpProtocolMessageHandler`](../httpprotocolmessagehandler) класс. |
 
 ## Характеристики
 

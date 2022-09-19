@@ -1,0 +1,70 @@
+---
+title: UnitType
+second_title: Referencia de API de Aspose.SVG para .NET
+description: Especifica la unidad de medida.
+type: docs
+weight: 1610
+url: /es/net/aspose.svg.drawing/unittype/
+---
+## UnitType class
+
+Especifica la unidad de medida.
+
+```csharp
+public sealed class UnitType : IEquatable<UnitType>
+```
+
+## Métodos
+
+| Nombre | Descripción |
+| --- | --- |
+| override [Equals](../../aspose.svg.drawing/unittype/equals#equals_1)(object) | Determina si el especificadoObject , es igual a esta instancia. |
+| [Equals](../../aspose.svg.drawing/unittype/equals#equals)(UnitType) | Determina si el especificado[`UnitType`](../unittype) , es igual a esta instancia. |
+| override [GetHashCode](../../aspose.svg.drawing/unittype/gethashcode)() | Devuelve un código hash para esta instancia. |
+| override [ToString](../../aspose.svg.drawing/unittype/tostring)() | Devuelve unString que representa esta instancia. |
+| [operator ==](../../aspose.svg.drawing/unittype/op_equality) | Determina si los dos especificados[`UnitType`](../unittype) los valores son iguales. |
+| [explicit operator](../../aspose.svg.drawing/unittype/op_explicit) | Realiza una conversión explícita de[`UnitType`](../unittype) aString . |
+| [implicit operator](../../aspose.svg.drawing/unittype/op_implicit) | Realiza una conversión implícita deString a[`UnitType`](../unittype) . |
+| [operator !=](../../aspose.svg.drawing/unittype/op_inequality) | Determina si los dos especificados[`UnitType`](../unittype) los valores no son iguales. |
+
+## Campos
+
+| Nombre | Descripción |
+| --- | --- |
+| static readonly [Auto](../../aspose.svg.drawing/unittype/auto) | Medida no definida. |
+| static readonly [Ch](../../aspose.svg.drawing/unittype/ch) | La medida es relativa al ancho del "0" (cero). |
+| static readonly [Cm](../../aspose.svg.drawing/unittype/cm) | La medida está en centímetros |
+| static readonly [Deg](../../aspose.svg.drawing/unittype/deg) | La medida está en grados. |
+| static readonly [Dpcm](../../aspose.svg.drawing/unittype/dpcm) | La medida es en puntos por centímetros. |
+| static readonly [Dpi](../../aspose.svg.drawing/unittype/dpi) | La medida es en puntos por pulgada. |
+| static readonly [Dppx](../../aspose.svg.drawing/unittype/dppx) | La medida es en puntos por unidad de píxeles. |
+| static readonly [Em](../../aspose.svg.drawing/unittype/em) | La medida es relativa a la altura de la fuente del elemento principal. |
+| static readonly [Ex](../../aspose.svg.drawing/unittype/ex) | La medida es relativa a la altura de la letra minúscula x de la fuente del elemento principal. |
+| static readonly [Grad](../../aspose.svg.drawing/unittype/grad) | La medida está en grados. |
+| static readonly [Hz](../../aspose.svg.drawing/unittype/hz) | La medida está en hercios. |
+| static readonly [In](../../aspose.svg.drawing/unittype/in) | La medida está en pulgadas |
+| static readonly [Integer](../../aspose.svg.drawing/unittype/integer) | La medida es un número entero. |
+| static readonly [KHz](../../aspose.svg.drawing/unittype/khz) | La medida está en kilohercios. |
+| static readonly [Mm](../../aspose.svg.drawing/unittype/mm) | La medida está en milímetros |
+| static readonly [Ms](../../aspose.svg.drawing/unittype/ms) | La medida es en milisegundos. |
+| static readonly [Pc](../../aspose.svg.drawing/unittype/pc) | La medida es en picas |
+| static readonly [Percentage](../../aspose.svg.drawing/unittype/percentage) | La medida es en porcentaje. |
+| static readonly [Pt](../../aspose.svg.drawing/unittype/pt) | La medida es en puntos |
+| static readonly [Px](../../aspose.svg.drawing/unittype/px) | La medida está en píxeles |
+| static readonly [Q](../../aspose.svg.drawing/unittype/q) | La medida está en cuartos de milímetro |
+| static readonly [Rad](../../aspose.svg.drawing/unittype/rad) | La medida está en radianes. |
+| static readonly [Real](../../aspose.svg.drawing/unittype/real) | La medida es un número real. |
+| static readonly [Rem](../../aspose.svg.drawing/unittype/rem) | La medida es relativa al tamaño de fuente del elemento raíz. |
+| static readonly [S](../../aspose.svg.drawing/unittype/s) | La medida es en segundos. |
+| static readonly [Turn](../../aspose.svg.drawing/unittype/turn) | La medida es por turnos. |
+| static readonly [Vh](../../aspose.svg.drawing/unittype/vh) | La medida es relativa al 1 % de la altura de la ventana gráfica* Pruébelo |
+| static readonly [Vmax](../../aspose.svg.drawing/unittype/vmax) | La medida es relativa al 1% de la dimensión más grande de la ventana gráfica* Pruébelo |
+| static readonly [Vmin](../../aspose.svg.drawing/unittype/vmin) | La medida es relativa al 1% de la dimensión más pequeña de la ventana gráfica* Pruébelo |
+| static readonly [Vw](../../aspose.svg.drawing/unittype/vw) | La medida es relativa al 1% del ancho de la ventana gráfica* |
+
+### Ver también
+
+* espacio de nombres [Aspose.Svg.Drawing](../../aspose.svg.drawing)
+* asamblea [Aspose.SVG](../../)
+
+<!-- DO NOT EDIT: generated by xmldocmd for Aspose.SVG.dll -->

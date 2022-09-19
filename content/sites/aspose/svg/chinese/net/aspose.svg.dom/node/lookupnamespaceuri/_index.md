@@ -1,14 +1,14 @@
 ---
 title: LookupNamespaceURI
 second_title: Aspose.SVG for .NET API 参考
-description: 从该节点开始查找与给定前缀关联的命名空间 URI
+description: 查找与给定前缀关联的命名空间 URI从此节点开始
 type: docs
 weight: 260
 url: /zh/net/aspose.svg.dom/node/lookupnamespaceuri/
 ---
 ## Node.LookupNamespaceURI method
 
-从该节点开始查找与给定前缀关联的命名空间 URI。
+查找与给定前缀关联的命名空间 URI，从此节点开始。
 
 ```csharp
 public string LookupNamespaceURI(string prefix)

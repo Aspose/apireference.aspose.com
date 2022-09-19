@@ -1,14 +1,14 @@
 ---
 title: Values
 second_title: Aspose.SVG for .NET API 参考
-description: 对应于给定 feColorMatrix 元素的属性 values
+description: 对应于给定feColorMatrix元素的属性值
 type: docs
 weight: 50
 url: /zh/net/aspose.svg.filters/svgfecolormatrixelement/values/
 ---
 ## SVGFEColorMatrixElement.Values property
 
-对应于给定 'feColorMatrix' 元素的属性 'values'。
+对应于给定“feColorMatrix”元素的属性“值”。
 
 ```csharp
 public SVGAnimatedNumberList Values { get; }
@@ -16,7 +16,7 @@ public SVGAnimatedNumberList Values { get; }
 
 ### 适当的价值
 
-给定 'feColorMatrix' 元素的属性 'values'。
+给定'feColorMatrix'元素的属性'values'。
 
 ### 也可以看看
 

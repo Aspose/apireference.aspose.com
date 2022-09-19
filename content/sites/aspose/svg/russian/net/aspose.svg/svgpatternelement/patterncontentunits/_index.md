@@ -8,7 +8,7 @@ url: /ru/net/aspose.svg/svgpatternelement/patterncontentunits/
 ---
 ## SVGPatternElement.PatternContentUnits property
 
-Соответствует атрибуту 'patternContentUnits' данного элемента 'pattern'. Принимает одну из констант, определенных в SVGUnitTypes.
+Соответствует атрибуту «patternContentUnits» данного элемента «pattern». Принимает одну из констант, определенных в SVGUnitTypes.
 
 ```csharp
 public SVGAnimatedEnumeration PatternContentUnits { get; }

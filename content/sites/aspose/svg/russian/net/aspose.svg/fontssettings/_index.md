@@ -3,7 +3,7 @@ title: FontsSettings
 second_title: Справочник по Aspose.SVG для .NET API
 description: Представляет настройки обработки шрифтов.
 type: docs
-weight: 1890
+weight: 1900
 url: /ru/net/aspose.svg/fontssettings/
 ---
 ## FontsSettings class
@@ -24,7 +24,7 @@ public class FontsSettings
 
 | Имя | Описание |
 | --- | --- |
-| [GetFontsLookupFolders](../../aspose.svg/fontssettings/getfontslookupfolders)() | Получает копию массива, содержащего папки со шрифтами. Шрифты, находящиеся в этих папках, используются для отрисовки символов. |
+| [GetFontsLookupFolders](../../aspose.svg/fontssettings/getfontslookupfolders)() | Получает копию массива, содержащего папки со шрифтами. Шрифты, найденные в этих папках, используются для рендеринга символов. |
 | [SetFontsLookupFolder](../../aspose.svg/fontssettings/setfontslookupfolder#setfontslookupfolder)(string) | Устанавливает папку, используемую при выборе шрифтов. |
 | [SetFontsLookupFolder](../../aspose.svg/fontssettings/setfontslookupfolder#setfontslookupfolder_1)(string, bool) | Устанавливает папку, используемую при выборе шрифтов. |
 | [SetFontsLookupFolders](../../aspose.svg/fontssettings/setfontslookupfolders#setfontslookupfolders)(string[]) | Задает массив папок, используемых при выборе шрифтов. |

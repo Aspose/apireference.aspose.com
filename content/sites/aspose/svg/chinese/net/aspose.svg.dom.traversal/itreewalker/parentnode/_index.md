@@ -1,14 +1,14 @@
 ---
 title: ParentNode
 second_title: Aspose.SVG for .NET API 参考
-description: 移动到并返回当前 节点最近的可见祖先节点如果搜索 parentNode 尝试从 TreeWalker 的根节点向上步进 或者如果找不到可见的祖先节点则 此方法保留 当前位置并返回 null .
+description: 移动到并返回当前 节点最近的可见祖先节点如果搜索parentNode尝试从TreeWalker的根节点向上step 或者 如果找不到可见的祖先节点则该方法保留 当前位置并返回null
 type: docs
 weight: 60
 url: /zh/net/aspose.svg.dom.traversal/itreewalker/parentnode/
 ---
 ## ITreeWalker.ParentNode method
 
-移动到并返回当前 节点最近的可见祖先节点。如果搜索 parentNode 尝试从 TreeWalker 的根节点向上步进 ，或者如果找不到可见的祖先节点，则 ，此方法保留 当前位置并返回 null .
+移动到并返回当前 节点最近的可见祖先节点。如果搜索parentNode尝试从TreeWalker的根节点向上step ，或者 如果找不到可见的祖先节点，则该方法保留 当前位置并返回null。
 
 ```csharp
 public Node ParentNode()

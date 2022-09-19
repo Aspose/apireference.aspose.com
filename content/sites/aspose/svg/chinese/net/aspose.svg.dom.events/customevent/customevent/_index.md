@@ -1,14 +1,14 @@
 ---
 title: CustomEvent
 second_title: Aspose.SVG for .NET API 参考
-description: 初始化CustomEventaspose.svg.dom.events/customevent类的新实例
+description: 初始化CustomEventaspose.svg.dom.events/customevent类.
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.dom.events/customevent/customevent/
 ---
 ## CustomEvent(string) {#constructor}
 
-初始化[`CustomEvent`](../../customevent)类的新实例。
+初始化[`CustomEvent`](../../customevent)类.
 
 ```csharp
 public CustomEvent(string type)
@@ -28,7 +28,7 @@ public CustomEvent(string type)
 
 ## CustomEvent(string, IDictionary&lt;string, object&gt;) {#constructor_1}
 
-初始化[`CustomEvent`](../../customevent)类的新实例。
+初始化[`CustomEvent`](../../customevent)类.
 
 ```csharp
 public CustomEvent(string type, IDictionary<string, object> eventInitDict)

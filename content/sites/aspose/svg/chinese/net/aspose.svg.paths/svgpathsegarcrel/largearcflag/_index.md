@@ -1,14 +1,14 @@
 ---
 title: LargeArcFlag
 second_title: Aspose.SVG for .NET API 参考
-description: large-arc-flag 参数的值
+description: largearcflag参数的值
 type: docs
 weight: 20
 url: /zh/net/aspose.svg.paths/svgpathsegarcrel/largearcflag/
 ---
 ## SVGPathSegArcRel.LargeArcFlag property
 
-large-arc-flag 参数的值。
+large-arc-flag参数的值。
 
 ```csharp
 public bool LargeArcFlag { get; set; }
@@ -16,13 +16,13 @@ public bool LargeArcFlag { get; set; }
 
 ### 适当的价值
 
-大弧形标志参数
+大弧标志参数
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| DOMException | 代码[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err)。 在尝试更改只读属性的值时引发。 |
+| [DOMException](../../../aspose.svg.dom/domexception) | 代码[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err) . 尝试更改只读属性的值时引发。 |
 
 ### 也可以看看
 

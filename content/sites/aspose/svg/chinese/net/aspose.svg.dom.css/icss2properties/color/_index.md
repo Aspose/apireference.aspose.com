@@ -1,14 +1,14 @@
 ---
 title: Color
 second_title: Aspose.SVG for .NET API 参考
-description: 请参阅 CSS2 中的颜色属性定义
+description: 参见CSS2中的颜色属性定义
 type: docs
 weight: 340
 url: /zh/net/aspose.svg.dom.css/icss2properties/color/
 ---
 ## ICSS2Properties.Color property
 
-请参阅 CSS2 中的颜色属性定义。
+参见CSS2中的颜色属性定义。
 
 ```csharp
 public string Color { get; set; }

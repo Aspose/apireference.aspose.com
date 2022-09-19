@@ -1,14 +1,14 @@
 ---
 title: op_Implicit
 second_title: Справочник по Aspose.SVG для .NET API
-description: Выполняет неявное преобразование изDoubleвResolutionaspose.svg.drawing/resolution.
+description: Выполняет неявное преобразование изDouble кResolutionaspose.svg.drawing/resolution .
 type: docs
 weight: 50
 url: /ru/net/aspose.svg.drawing/resolution/op_implicit/
 ---
 ## implicit operator {#op_implicit}
 
-Выполняет неявное преобразование изDoubleв[`Resolution`](../../resolution).
+Выполняет неявное преобразование изDouble к[`Resolution`](../../resolution) .
 
 ```csharp
 public static implicit operator Resolution(double value)
@@ -16,7 +16,7 @@ public static implicit operator Resolution(double value)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| value | Double | Значение, обрабатываемое как dpi. |
+| value | Double | Значение рассматривается как dpi. |
 
 ### Возвращаемое значение
 
@@ -32,7 +32,7 @@ public static implicit operator Resolution(double value)
 
 ## implicit operator {#op_implicit_1}
 
-Выполняет неявное преобразование изSingleв[`Resolution`](../../resolution).
+Выполняет неявное преобразование изSingle к[`Resolution`](../../resolution) .
 
 ```csharp
 public static implicit operator Resolution(float value)
@@ -40,7 +40,7 @@ public static implicit operator Resolution(float value)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| value | Single | Значение, обрабатываемое как dpi. |
+| value | Single | Значение рассматривается как dpi. |
 
 ### Возвращаемое значение
 

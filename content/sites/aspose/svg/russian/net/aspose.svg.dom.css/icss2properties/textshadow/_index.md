@@ -1,7 +1,7 @@
 ---
 title: TextShadow
 second_title: Справочник по Aspose.SVG для .NET API
-description: См. определение свойства text-shadow в CSS2.
+description: См. определение свойства textshadow в CSS2.
 type: docs
 weight: 1100
 url: /ru/net/aspose.svg.dom.css/icss2properties/textshadow/

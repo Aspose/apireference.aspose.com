@@ -1,14 +1,14 @@
 ---
 title: WheelEvent
 second_title: Справочник по Aspose.SVG для .NET API
-description: Инициализирует новый экземпляр классаWheelEventaspose.svg.dom.events/wheelevent.
+description: Инициализирует новый экземплярWheelEventaspose.svg.dom.events/wheelevent класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.dom.events/wheelevent/wheelevent/
 ---
 ## WheelEvent(string) {#constructor}
 
-Инициализирует новый экземпляр класса[`WheelEvent`](../../wheelevent).
+Инициализирует новый экземпляр[`WheelEvent`](../../wheelevent) класс.
 
 ```csharp
 public WheelEvent(string type)
@@ -28,7 +28,7 @@ public WheelEvent(string type)
 
 ## WheelEvent(string, IDictionary&lt;string, object&gt;) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`WheelEvent`](../../wheelevent).
+Инициализирует новый экземпляр[`WheelEvent`](../../wheelevent) класс.
 
 ```csharp
 public WheelEvent(string type, IDictionary<string, object> eventInitDict)

@@ -1,14 +1,14 @@
 ---
 title: GetData
 second_title: Справочник по Aspose.SVG для .NET API
-description: Откройте поток с данными шрифта. Вызывающий объект отвечает за удаление потока.
+description: Открыть поток с данными шрифта. Вызывающий отвечает за удаление потока.
 type: docs
 weight: 60
 url: /ru/net/aspose.svg.drawing/itruetypefont/getdata/
 ---
 ## ITrueTypeFont.GetData method
 
-Откройте поток с данными шрифта. Вызывающий объект отвечает за удаление потока.
+Открыть поток с данными шрифта. Вызывающий отвечает за удаление потока.
 
 ```csharp
 public Stream GetData()

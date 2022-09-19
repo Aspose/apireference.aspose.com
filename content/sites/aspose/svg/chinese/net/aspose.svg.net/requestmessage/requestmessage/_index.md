@@ -1,14 +1,14 @@
 ---
 title: RequestMessage
 second_title: Aspose.SVG for .NET API 参考
-description: 初始化RequestMessageaspose.svg.net/requestmessage类的新实例
+description: 初始化RequestMessageaspose.svg.net/requestmessage类.
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.net/requestmessage/requestmessage/
 ---
 ## RequestMessage(string) {#constructor_1}
 
-初始化[`RequestMessage`](../../requestmessage)类的新实例。
+初始化[`RequestMessage`](../../requestmessage)类.
 
 ```csharp
 public RequestMessage(string address)
@@ -28,7 +28,7 @@ public RequestMessage(string address)
 
 ## RequestMessage(Url) {#constructor}
 
-初始化[`RequestMessage`](../../requestmessage)类的新实例。
+初始化[`RequestMessage`](../../requestmessage)类.
 
 ```csharp
 public RequestMessage(Url uri)

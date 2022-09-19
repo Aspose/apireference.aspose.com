@@ -8,7 +8,7 @@ url: /ru/net/aspose.svg/isvgtests/requiredextensions/
 ---
 ## ISVGTests.RequiredExtensions property
 
-Соответствует атрибуту 'requiredExtensions' данного элемента.
+Соответствует атрибуту «requiredExtensions» данного элемента.
 
 ```csharp
 public SVGStringList RequiredExtensions { get; }
@@ -16,7 +16,7 @@ public SVGStringList RequiredExtensions { get; }
 
 ### Стоимость имущества
 
-Необходимые расширения.
+Требуемые расширения.
 
 ### Смотрите также
 

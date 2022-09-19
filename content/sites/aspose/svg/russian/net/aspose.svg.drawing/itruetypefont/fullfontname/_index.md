@@ -1,14 +1,14 @@
 ---
 title: FullFontName
 second_title: Справочник по Aspose.SVG для .NET API
-description: Это должна быть комбинация FamilyName и SubFamilyName. Исключение если шрифт Обычный как указано в SubFamilyName используйте только имя семейства содержащееся в FamilyName. Исключением из приведенного выше определения полного имени шрифта являются строки платформы Microsoft для шрифтов CFF OpenType в этом случае строка полного имени шрифта должна быть идентична PostScript FontName в ИНДЕКСе имени CFF.
+description: Это должно быть сочетание FamilyName и SubFamilyName. Исключение если шрифт Обычный как указано в SubFamilyName используйте только имя семейства содержащееся в FamilyName. Исключением из приведенного выше определения полного имени шрифта являются строки платформы Microsoft. для шрифтов CFF OpenType в этом случае строка полного имени шрифта должна быть идентична PostScript FontName в имени CFF INDEX.
 type: docs
 weight: 30
 url: /ru/net/aspose.svg.drawing/itruetypefont/fullfontname/
 ---
 ## ITrueTypeFont.FullFontName property
 
-Это должна быть комбинация "FamilyName" и "SubFamilyName". Исключение: если шрифт «Обычный», как указано в «SubFamilyName», используйте только имя семейства, содержащееся в «FamilyName». Исключением из приведенного выше определения полного имени шрифта являются строки платформы Microsoft для шрифтов CFF OpenType: в этом случае строка полного имени шрифта должна быть идентична PostScript FontName в ИНДЕКСе имени CFF.
+Это должно быть сочетание "FamilyName" и "SubFamilyName". Исключение: если шрифт «Обычный», как указано в «SubFamilyName», используйте только имя семейства, содержащееся в «FamilyName». Исключением из приведенного выше определения полного имени шрифта являются строки платформы Microsoft. для шрифтов CFF OpenType: в этом случае строка полного имени шрифта должна быть идентична PostScript FontName в имени CFF INDEX.
 
 ```csharp
 public string FullFontName { get; }

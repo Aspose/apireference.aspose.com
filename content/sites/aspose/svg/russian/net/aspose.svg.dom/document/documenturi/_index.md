@@ -1,14 +1,14 @@
 ---
 title: DocumentURI
 second_title: Справочник по Aspose.SVG для .NET API
-description: Расположение документа или значение null если оно не определено или документ был создан с использованием DOMImplementation.createDocument.
+description: Расположение документа или null если он не определен или документ был создан с использованием DOMImplementation.createDocument.
 type: docs
 weight: 110
 url: /ru/net/aspose.svg.dom/document/documenturi/
 ---
 ## Document.DocumentURI property
 
-Расположение документа или значение null, если оно не определено или документ был создан с использованием DOMImplementation.createDocument.
+Расположение документа или null, если он не определен или документ был создан с использованием DOMImplementation.createDocument.
 
 ```csharp
 public string DocumentURI { get; }

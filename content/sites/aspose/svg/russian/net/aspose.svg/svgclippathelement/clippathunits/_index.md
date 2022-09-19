@@ -8,7 +8,7 @@ url: /ru/net/aspose.svg/svgclippathelement/clippathunits/
 ---
 ## SVGClipPathElement.ClipPathUnits property
 
-Соответствует атрибуту 'clipPathUnits' данного элемента 'clipPath'. Принимает одну из констант, определенных в SVGUnitTypes.
+Соответствует атрибуту clipPathUnits данного элемента clipPath. Принимает одну из констант, определенных в SVGUnitTypes.
 
 ```csharp
 public SVGAnimatedEnumeration ClipPathUnits { get; }
@@ -16,7 +16,7 @@ public SVGAnimatedEnumeration ClipPathUnits { get; }
 
 ### Стоимость имущества
 
-Атрибут 'clipPathUnits' данного элемента 'clipPath'.
+Атрибут clipPathUnits данного элемента clipPath.
 
 ### Смотрите также
 

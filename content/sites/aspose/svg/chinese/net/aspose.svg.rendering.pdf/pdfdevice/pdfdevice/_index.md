@@ -1,14 +1,14 @@
 ---
 title: PdfDevice
 second_title: Aspose.SVG for .NET API 参考
-description: 初始化PdfDeviceaspose.svg.rendering.pdf/pdfdevice类的新实例
+description: 初始化PdfDeviceaspose.svg.rendering.pdf/pdfdevice类.
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.rendering.pdf/pdfdevice/pdfdevice/
 ---
 ## PdfDevice(ICreateStreamProvider) {#constructor}
 
-初始化[`PdfDevice`](../../pdfdevice)类的新实例。
+初始化[`PdfDevice`](../../pdfdevice)类.
 
 ```csharp
 public PdfDevice(ICreateStreamProvider streamProvider)
@@ -29,7 +29,7 @@ public PdfDevice(ICreateStreamProvider streamProvider)
 
 ## PdfDevice(PdfRenderingOptions, ICreateStreamProvider) {#constructor_1}
 
-通过渲染选项和流提供程序初始化[`PdfDevice`](../../pdfdevice)类的新实例。
+初始化[`PdfDevice`](../../pdfdevice)按渲染选项和流提供者分类。
 
 ```csharp
 public PdfDevice(PdfRenderingOptions options, ICreateStreamProvider streamProvider)
@@ -38,7 +38,7 @@ public PdfDevice(PdfRenderingOptions options, ICreateStreamProvider streamProvid
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | options | PdfRenderingOptions | 渲染选项。 |
-| streamProvider | ICreateStreamProvider | 实现[`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider)接口的对象 |
+| streamProvider | ICreateStreamProvider | 实现的对象[`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider)界面 |
 
 ### 也可以看看
 
@@ -52,7 +52,7 @@ public PdfDevice(PdfRenderingOptions options, ICreateStreamProvider streamProvid
 
 ## PdfDevice(string) {#constructor_5}
 
-初始化[`PdfDevice`](../../pdfdevice)类的新实例。
+初始化[`PdfDevice`](../../pdfdevice)类.
 
 ```csharp
 public PdfDevice(string file)
@@ -72,7 +72,7 @@ public PdfDevice(string file)
 
 ## PdfDevice(PdfRenderingOptions, string) {#constructor_3}
 
-通过渲染选项和输出文件名初始化[`PdfDevice`](../../pdfdevice)类的新实例。
+初始化[`PdfDevice`](../../pdfdevice)通过渲染选项和输出文件名进行分类。
 
 ```csharp
 public PdfDevice(PdfRenderingOptions options, string file)
@@ -94,7 +94,7 @@ public PdfDevice(PdfRenderingOptions options, string file)
 
 ## PdfDevice(Stream) {#constructor_4}
 
-初始化[`PdfDevice`](../../pdfdevice)类的新实例。
+初始化[`PdfDevice`](../../pdfdevice)类.
 
 ```csharp
 public PdfDevice(Stream stream)
@@ -114,7 +114,7 @@ public PdfDevice(Stream stream)
 
 ## PdfDevice(PdfRenderingOptions, Stream) {#constructor_2}
 
-通过渲染选项和输出流初始化[`PdfDevice`](../../pdfdevice)类的新实例。
+初始化[`PdfDevice`](../../pdfdevice)按渲染选项和输出流分类。
 
 ```csharp
 public PdfDevice(PdfRenderingOptions options, Stream stream)

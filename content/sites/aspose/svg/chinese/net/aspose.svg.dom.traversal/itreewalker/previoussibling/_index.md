@@ -1,14 +1,14 @@
 ---
 title: PreviousSibling
 second_title: Aspose.SVG for .NET API 参考
-description: 将 TreeWalker 移动到 当前节点的上一个兄弟节点并返回新节点如果当前节点没有 可见的前一个兄弟节点则返回 null并保留 当前节点
+description: 将 TreeWalker 移动到 当前节点的上一个兄弟节点并返回新节点如果当前节点没有 可见的前一个兄弟节点返回null并保留 当前节点
 type: docs
 weight: 80
 url: /zh/net/aspose.svg.dom.traversal/itreewalker/previoussibling/
 ---
 ## ITreeWalker.PreviousSibling method
 
-将 TreeWalker 移动到 当前节点的上一个兄弟节点，并返回新节点。如果当前节点没有 可见的前一个兄弟节点，则返回 null，并保留 当前节点。
+将 TreeWalker 移动到 当前节点的上一个兄弟节点，并返回新节点。如果当前节点没有 可见的前一个兄弟节点，返回null，并保留 当前节点。
 
 ```csharp
 public Node PreviousSibling()
@@ -16,7 +16,7 @@ public Node PreviousSibling()
 
 ### 返回值
 
-新节点，如果当前节点没有 前一个兄弟节点，则返回 null。在 TreeWalker 的逻辑视图中。
+新节点，如果当前节点没有 上一个兄弟节点，则为 null。在 TreeWalker 的逻辑视图中。
 
 ### 也可以看看
 

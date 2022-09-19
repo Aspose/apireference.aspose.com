@@ -1,14 +1,14 @@
 ---
 title: Result
 second_title: Справочник по Aspose.SVG для .NET API
-description: Соответствует атрибуту result данного элемента filter.
+description: Соответствует атрибуту результат данного элемента фильтр.
 type: docs
 weight: 30
 url: /ru/net/aspose.svg.filters/svgfecomponenttransferelement/result/
 ---
 ## SVGFEComponentTransferElement.Result property
 
-Соответствует атрибуту 'result' данного элемента 'filter'.
+Соответствует атрибуту «результат» данного элемента «фильтр».
 
 ```csharp
 public SVGAnimatedString Result { get; }
@@ -16,7 +16,7 @@ public SVGAnimatedString Result { get; }
 
 ### Стоимость имущества
 
-Атрибут 'результат' данного элемента 'фильтра'.
+Атрибут «результат» данного элемента «фильтр».
 
 ### Смотрите также
 

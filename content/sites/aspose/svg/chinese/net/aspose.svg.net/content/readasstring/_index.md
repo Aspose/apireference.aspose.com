@@ -1,14 +1,14 @@
 ---
 title: ReadAsString
 second_title: Aspose.SVG for .NET API 参考
-description: 序列化 HTTP 内容并返回一个表示内容的字符串
+description: 序列化HTTP内容并返回代表内容的字符串
 type: docs
 weight: 50
 url: /zh/net/aspose.svg.net/content/readasstring/
 ---
 ## Content.ReadAsString method
 
-序列化 HTTP 内容并返回一个表示内容的字符串。
+序列化HTTP内容并返回代表内容的字符串。
 
 ```csharp
 public string ReadAsString()

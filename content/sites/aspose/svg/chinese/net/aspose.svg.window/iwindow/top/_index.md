@@ -1,14 +1,14 @@
 ---
 title: Top
 second_title: Aspose.SVG for .NET API 参考
-description: 浏览上下文 b 中 Document 的 Window 对象的顶级 IDL 属性必须返回其顶级浏览上下文的 WindowProxy 对象如果它是一个顶级浏览上下文本身如果它有一个或者它自己的 WindowProxy 对象否则例如如果它是一个分离的嵌套浏览上下文
+description: 浏览上下文 b 中 Document 的 Window 对象的顶级 IDL 属性必须返回其顶级浏览上下文的 WindowProxy 对象如果它是顶级浏览上下文本身则它将是它自己的 WindowProxy 对象如果它有一个或者它自己的 WindowProxy 对象例如如果它是一个分离的嵌套浏览上下文
 type: docs
 weight: 80
 url: /zh/net/aspose.svg.window/iwindow/top/
 ---
 ## IWindow.Top property
 
-浏览上下文 b 中 Document 的 Window 对象的顶级 IDL 属性必须返回其顶级浏览上下文的 WindowProxy 对象（如果它是一个顶级浏览上下文本身），如果它有一个，或者它自己的 WindowProxy 对象，否则（例如，如果它是一个分离的嵌套浏览上下文）。
+浏览上下文 b 中 Document 的 Window 对象的顶级 IDL 属性必须返回其顶级浏览上下文的 WindowProxy 对象（如果它是顶级浏览上下文本身，则它将是它自己的 WindowProxy 对象），如果它有一个，或者它自己的 WindowProxy 对象（例如，如果它是一个分离的嵌套浏览上下文）。
 
 ```csharp
 public IWindow Top { get; }

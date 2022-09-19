@@ -8,7 +8,7 @@ url: /ru/net/aspose.svg.filters/svgfeconvolvematrixelement/in1/
 ---
 ## SVGFEConvolveMatrixElement.In1 property
 
-Соответствует атрибуту 'in' данного элемента 'feConvolveMatrix'.
+Соответствует атрибуту "in" данного элемента "feConvolveMatrix".
 
 ```csharp
 public SVGAnimatedString In1 { get; }

@@ -1,14 +1,14 @@
 ---
 title: Rad
 second_title: Aspose.SVG for .NET API 参考
-description: 测量单位为弧度
+description: 测量以弧度为单位
 type: docs
 weight: 220
 url: /zh/net/aspose.svg.drawing/unittype/rad/
 ---
 ## UnitType.Rad field
 
-测量单位为弧度。
+测量以弧度为单位。
 
 ```csharp
 public static readonly UnitType Rad;

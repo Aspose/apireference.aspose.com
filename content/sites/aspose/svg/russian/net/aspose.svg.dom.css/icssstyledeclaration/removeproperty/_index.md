@@ -16,7 +16,7 @@ public string RemoveProperty(string propertyName)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| propertyName | String | Имя свойства. |
+| propertyName | String | Название свойства. |
 
 ### Возвращаемое значение
 

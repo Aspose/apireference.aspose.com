@@ -1,14 +1,14 @@
 ---
 title: EmptyCells
 second_title: Aspose.SVG for .NET API 参考
-description: 请参见 CSS2 中的 empty-cells 属性定义
+description: 参见 CSS2 中的 emptycells 属性定义
 type: docs
 weight: 450
 url: /zh/net/aspose.svg.dom.css/icss2properties/emptycells/
 ---
 ## ICSS2Properties.EmptyCells property
 
-请参见 CSS2 中的 empty-cells 属性定义。
+参见 CSS2 中的 empty-cells 属性定义。
 
 ```csharp
 public string EmptyCells { get; set; }

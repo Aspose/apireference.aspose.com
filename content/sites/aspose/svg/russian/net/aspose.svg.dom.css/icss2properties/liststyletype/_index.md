@@ -1,14 +1,14 @@
 ---
 title: ListStyleType
 second_title: Справочник по Aspose.SVG для .NET API
-description: См. определение свойства list-style-type в CSS2.
+description: См. определение свойства типа списка в CSS2.
 type: docs
 weight: 620
 url: /ru/net/aspose.svg.dom.css/icss2properties/liststyletype/
 ---
 ## ICSS2Properties.ListStyleType property
 
-См. определение свойства list-style-type в CSS2.
+См. определение свойства типа списка в CSS2.
 
 ```csharp
 public string ListStyleType { get; set; }

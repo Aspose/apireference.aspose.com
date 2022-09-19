@@ -1,14 +1,14 @@
 ---
 title: IOutputStorage
 second_title: Aspose.SVG for .NET API 参考
-description: 提供输出流的创建和管理OutputStream./outputstream
+description: 提供输出流的创建和管理OutputStream./outputstream .
 type: docs
-weight: 1950
+weight: 1960
 url: /zh/net/aspose.svg.io/ioutputstorage/
 ---
 ## IOutputStorage interface
 
-提供输出流的创建和管理[`OutputStream`](../outputstream)。
+提供输出流的创建和管理[`OutputStream`](../outputstream) .
 
 ```csharp
 public interface IOutputStorage
@@ -18,7 +18,7 @@ public interface IOutputStorage
 
 | 姓名 | 描述 |
 | --- | --- |
-| [CreateStream](../../aspose.svg.io/ioutputstorage/createstream)(OutputStreamContext) | 创建输出流[`OutputStream`](../outputstream)。 |
+| [CreateStream](../../aspose.svg.io/ioutputstorage/createstream)(OutputStreamContext) | 创建输出流[`OutputStream`](../outputstream) . |
 | [ReleaseStream](../../aspose.svg.io/ioutputstorage/releasestream)(OutputStream) | 释放输出流。 |
 
 ### 也可以看看

@@ -1,14 +1,14 @@
 ---
 title: SVGPathSegCurvetoCubicRel
 second_title: Aspose.SVG for .NET API 参考
-description: SVGPathSegCurvetoCubicRel 接口对应于相对三次贝塞尔曲线c 路径数据命令
+description: SVGPathSegCurvetoCubicRel 接口对应于相对三次贝塞尔曲线c路径数据命令
 type: docs
-weight: 2500
+weight: 2510
 url: /zh/net/aspose.svg.paths/svgpathsegcurvetocubicrel/
 ---
 ## SVGPathSegCurvetoCubicRel class
 
-SVGPathSegCurvetoCubicRel 接口对应于“相对三次贝塞尔曲线”(c) 路径数据命令。
+SVGPathSegCurvetoCubicRel 接口对应于“相对三次贝塞尔曲线”（c）路径数据命令。
 
 ```csharp
 public class SVGPathSegCurvetoCubicRel : SVGPathSeg
@@ -31,8 +31,8 @@ public class SVGPathSegCurvetoCubicRel : SVGPathSeg
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose)() | 释放非托管和（可选）托管资源。 |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | 此方法用于检索 ECMAScript 对象Type。 |
+| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose)() | 释放非托管和 - 可选 - 托管资源。 |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | 此方法用于检索 ECMAScript 对象Type . |
 
 ### 也可以看看
 

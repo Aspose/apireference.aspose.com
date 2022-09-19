@@ -20,7 +20,7 @@ public bool IsDefaultNamespace(string namespaceURI)
 
 ### 返回值
 
-` true` if [是默认命名空间] [指定的命名空间URI]；否则，` false` 。
+`真的` if [是默认命名空间] [指定的命名空间URI]；否则，`错误的` .
 
 ### 也可以看看
 

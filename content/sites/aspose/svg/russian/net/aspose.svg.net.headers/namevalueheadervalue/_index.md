@@ -3,7 +3,7 @@ title: NameValueHeaderValue
 second_title: Справочник по Aspose.SVG для .NET API
 description: Представляет пару имя/значение описывающую значение заголовка.
 type: docs
-weight: 2240
+weight: 2250
 url: /ru/net/aspose.svg.net.headers/namevalueheadervalue/
 ---
 ## NameValueHeaderValue class
@@ -25,7 +25,7 @@ public class NameValueHeaderValue
 
 | Имя | Описание |
 | --- | --- |
-| override [ToString](../../aspose.svg.net.headers/namevalueheadervalue/tostring)() | ВозвращаетString, представляющий этот экземпляр. |
+| override [ToString](../../aspose.svg.net.headers/namevalueheadervalue/tostring)() | ВозвращаетString который представляет этот экземпляр. |
 
 ### Смотрите также
 

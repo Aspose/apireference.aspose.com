@@ -1,14 +1,14 @@
 ---
 title: KeyboardEvent
 second_title: Aspose.SVG for .NET API 参考
-description: 初始化KeyboardEventaspose.svg.dom.events/keyboardevent类的新实例
+description: 初始化KeyboardEventaspose.svg.dom.events/keyboardevent类.
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.dom.events/keyboardevent/keyboardevent/
 ---
 ## KeyboardEvent(string) {#constructor}
 
-初始化[`KeyboardEvent`](../../keyboardevent)类的新实例。
+初始化[`KeyboardEvent`](../../keyboardevent)类.
 
 ```csharp
 public KeyboardEvent(string type)
@@ -28,7 +28,7 @@ public KeyboardEvent(string type)
 
 ## KeyboardEvent(string, IDictionary&lt;string, object&gt;) {#constructor_1}
 
-初始化[`KeyboardEvent`](../../keyboardevent)类的新实例。
+初始化[`KeyboardEvent`](../../keyboardevent)类.
 
 ```csharp
 public KeyboardEvent(string type, IDictionary<string, object> eventInitDict)

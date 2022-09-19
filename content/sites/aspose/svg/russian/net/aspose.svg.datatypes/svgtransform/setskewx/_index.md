@@ -1,14 +1,14 @@
 ---
 title: SetSkewX
 second_title: Справочник по Aspose.SVG для .NET API
-description: Задает тип преобразования SVG_TRANSFORM_SKEWX с параметром angle определяющим величину перекоса.
+description: Задает тип преобразования SVG_TRANSFORM_SKEWX с параметром угла определяющим величину перекоса.
 type: docs
 weight: 70
 url: /ru/net/aspose.svg.datatypes/svgtransform/setskewx/
 ---
 ## SVGTransform.SetSkewX method
 
-Задает тип преобразования SVG_TRANSFORM_SKEWX с параметром angle, определяющим величину перекоса.
+Задает тип преобразования SVG_TRANSFORM_SKEWX с параметром угла, определяющим величину перекоса.
 
 ```csharp
 public void SetSkewX(float angle)
@@ -22,7 +22,7 @@ public void SetSkewX(float angle)
 
 | исключение | условие |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception) | Код[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err). Возникает при попытке изменить значение атрибута только для чтения. |
+| [DOMException](../../../aspose.svg.dom/domexception) | код[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err) . Возникает при попытке изменить значение атрибута только для чтения. |
 
 ### Смотрите также
 

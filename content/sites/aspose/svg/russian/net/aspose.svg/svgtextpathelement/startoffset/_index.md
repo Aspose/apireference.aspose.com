@@ -8,7 +8,7 @@ url: /ru/net/aspose.svg/svgtextpathelement/startoffset/
 ---
 ## SVGTextPathElement.StartOffset property
 
-Соответствует атрибуту 'startOffset' данного элемента 'textPath'.
+Соответствует атрибуту startOffset данного элемента textPath.
 
 ```csharp
 public SVGAnimatedLength StartOffset { get; }
@@ -16,7 +16,7 @@ public SVGAnimatedLength StartOffset { get; }
 
 ### Стоимость имущества
 
-Атрибут 'startOffset' данного элемента 'textPath'.
+Атрибут startOffset данного элемента textPath.
 
 ### Смотрите также
 

@@ -8,7 +8,7 @@ url: /ru/net/aspose.svg/svgforeignobjectelement/width/
 ---
 ## SVGForeignObjectElement.Width property
 
-Соответствует атрибуту 'width' данного элемента 'foreignObject'.
+Соответствует атрибуту «width» данного элемента «foreignObject».
 
 ```csharp
 public SVGAnimatedLength Width { get; }
@@ -16,7 +16,7 @@ public SVGAnimatedLength Width { get; }
 
 ### Стоимость имущества
 
-Атрибут 'width' данного элемента 'foreignObject'.
+Атрибут «ширина» данного элемента «foreignObject».
 
 ### Смотрите также
 
