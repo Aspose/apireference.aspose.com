@@ -12,7 +12,7 @@ The **Aspose.OMR.Api** contains main OMR methods for template generation and ima
 
 | Class | Description |
 | --- | --- |
-| [ImageCollection](./imagecollection) | Collection of Images that can be used for template Generation. e.g. [`GenerateTemplate`](../aspose.omr.api/omrengine/generatetemplate) Can be useful when your images are not in the file system. |
+| [ImageCollection](./imagecollection) | Collection of Images that can be used for template Generation. e.g. !:Aspose.OMR.Api.OmrEngine.GenerateTemplate(MemoryStream, ImageCollection) Can be useful when your images are not in the file system. |
 | [OmrEngine](./omrengine) | The OMR engine. Handles the creation of the template and image processing classes and GUI components. |
 | [TemplateProcessor](./templateprocessor) | Class for processing templates and images.  Each instance of this class works with a single OMR template. It is able to recognize images of the template specified in the constructor. |
 

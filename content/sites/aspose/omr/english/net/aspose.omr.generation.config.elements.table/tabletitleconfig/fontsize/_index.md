@@ -3,7 +3,7 @@ title: FontSize
 second_title: Aspose.OMR for .NET API Reference
 description: The size of the text font
 type: docs
-weight: 100
+weight: 140
 url: /net/aspose.omr.generation.config.elements.table/tabletitleconfig/fontsize/
 ---
 ## TableTitleConfig.FontSize field

@@ -3,7 +3,7 @@ title: BorderType
 second_title: Aspose.OMR for .NET API Reference
 description: Border type
 type: docs
-weight: 70
+weight: 110
 url: /net/aspose.omr.generation.config.elements.table/tabletitleconfig/bordertype/
 ---
 ## TableTitleConfig.BorderType field

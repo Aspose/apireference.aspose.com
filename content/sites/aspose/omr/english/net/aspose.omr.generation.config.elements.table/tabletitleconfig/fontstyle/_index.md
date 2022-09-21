@@ -3,7 +3,7 @@ title: FontStyle
 second_title: Aspose.OMR for .NET API Reference
 description: The style of the text
 type: docs
-weight: 110
+weight: 150
 url: /net/aspose.omr.generation.config.elements.table/tabletitleconfig/fontstyle/
 ---
 ## TableTitleConfig.FontStyle field

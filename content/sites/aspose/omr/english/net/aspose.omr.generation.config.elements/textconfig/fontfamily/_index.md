@@ -3,7 +3,7 @@ title: FontFamily
 second_title: Aspose.OMR for .NET API Reference
 description: The font family of the text
 type: docs
-weight: 20
+weight: 30
 url: /net/aspose.omr.generation.config.elements/textconfig/fontfamily/
 ---
 ## TextConfig.FontFamily property

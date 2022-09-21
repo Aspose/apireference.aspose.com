@@ -3,7 +3,7 @@ title: Name
 second_title: Aspose.OMR for .NET API Reference
 description: Name of grouping element
 type: docs
-weight: 70
+weight: 110
 url: /net/aspose.omr.generation.config.elements/inputgroup/name/
 ---
 ## InputGroup.Name property

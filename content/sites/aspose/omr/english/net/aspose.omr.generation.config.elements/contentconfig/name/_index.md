@@ -3,7 +3,7 @@ title: Name
 second_title: Aspose.OMR for .NET API Reference
 description: Content value
 type: docs
-weight: 70
+weight: 80
 url: /net/aspose.omr.generation.config.elements/contentconfig/name/
 ---
 ## ContentConfig.Name property

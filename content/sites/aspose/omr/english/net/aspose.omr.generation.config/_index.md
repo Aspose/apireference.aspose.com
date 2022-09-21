@@ -13,6 +13,7 @@ url: /net/aspose.omr.generation.config/
 | Class | Description |
 | --- | --- |
 | [BaseConfig](./baseconfig) | Abstraction which contains required fields for each omr element |
+| [BorderStyle](./borderstyle) | Describe border for one selected side of |
 | [ParentConfig](./parentconfig) | Abstraction which mark element as parent and allow to have other elements as children |
 | [TemplateConfig](./templateconfig) | Root element that contains all other omr elements |
 

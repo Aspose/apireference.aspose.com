@@ -3,7 +3,7 @@ title: BorderType
 second_title: Aspose.OMR for .NET API Reference
 description: Type of drawn border to separate columnssections
 type: docs
-weight: 50
+weight: 90
 url: /net/aspose.omr.generation.config.elements.customanswersheet/customanswersheetconfig/bordertype/
 ---
 ## CustomAnswerSheetConfig.BorderType property

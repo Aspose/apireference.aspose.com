@@ -3,7 +3,7 @@ title: BlockConfig
 second_title: Aspose.OMR for .NET API Reference
 description: Represents Block element.
 type: docs
-weight: 540
+weight: 580
 url: /net/aspose.omr.generation.config.elements.parents/blockconfig/
 ---
 ## BlockConfig class
@@ -24,8 +24,12 @@ public class BlockConfig : ParentConfig
 
 | Name | Description |
 | --- | --- |
+| [BorderBottomStyle](../../aspose.omr.generation.config.elements.parents/blockconfig/borderbottomstyle) { get; set; } | Additional style for bottom border |
 | [BorderColor](../../aspose.omr.generation.config.elements.parents/blockconfig/bordercolor) { get; set; } | Color of border |
+| [BorderLeftStyle](../../aspose.omr.generation.config.elements.parents/blockconfig/borderleftstyle) { get; set; } | Additional style for left border |
+| [BorderRightStyle](../../aspose.omr.generation.config.elements.parents/blockconfig/borderrightstyle) { get; set; } | Additional style for right border |
 | [BorderSize](../../aspose.omr.generation.config.elements.parents/blockconfig/bordersize) { get; set; } | Size of border line |
+| [BorderTopStyle](../../aspose.omr.generation.config.elements.parents/blockconfig/bordertopstyle) { get; set; } | Additional style for top border |
 | [BorderType](../../aspose.omr.generation.config.elements.parents/blockconfig/bordertype) { get; set; } | Type of drawn border |
 | override [Children](../../aspose.omr.generation.config.elements.parents/blockconfig/children) { get; set; } | Child omr elements. In most cases positioned inside of parent or below. |
 | [Column](../../aspose.omr.generation.config.elements.parents/blockconfig/column) { get; set; } | When placed in multi-column container - represent position in parent |

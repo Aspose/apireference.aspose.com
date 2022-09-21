@@ -3,7 +3,7 @@ title: InputGroup
 second_title: Aspose.OMR for .NET API Reference
 description: Grouping element. Consists of two Content children. Drawn in proportions 13 and 23.
 type: docs
-weight: 400
+weight: 440
 url: /net/aspose.omr.generation.config.elements/inputgroup/
 ---
 ## InputGroup class
@@ -24,8 +24,12 @@ public class InputGroup : ParentConfig
 
 | Name | Description |
 | --- | --- |
+| [BorderBottomStyle](../../aspose.omr.generation.config.elements/inputgroup/borderbottomstyle) { get; set; } | Additional style for bottom border |
 | [BorderColor](../../aspose.omr.generation.config.elements/inputgroup/bordercolor) { get; set; } | Color of border |
+| [BorderLeftStyle](../../aspose.omr.generation.config.elements/inputgroup/borderleftstyle) { get; set; } | Additional style for left border |
+| [BorderRightStyle](../../aspose.omr.generation.config.elements/inputgroup/borderrightstyle) { get; set; } | Additional style for right border |
 | [BorderSize](../../aspose.omr.generation.config.elements/inputgroup/bordersize) { get; set; } | Size of border line |
+| [BorderTopStyle](../../aspose.omr.generation.config.elements/inputgroup/bordertopstyle) { get; set; } | Additional style for top border |
 | override [Children](../../aspose.omr.generation.config.elements/inputgroup/children) { get; set; } | Child omr elements. In most cases positioned inside of parent or below. |
 | [InputBorder](../../aspose.omr.generation.config.elements/inputgroup/inputborder) { get; set; } | Type of drawn border |
 | [LabelBorder](../../aspose.omr.generation.config.elements/inputgroup/labelborder) { get; set; } | Type of drawn border |

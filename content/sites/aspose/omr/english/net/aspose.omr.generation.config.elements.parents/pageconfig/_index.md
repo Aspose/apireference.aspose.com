@@ -3,7 +3,7 @@ title: PageConfig
 second_title: Aspose.OMR for .NET API Reference
 description: Represents Page element. One per page. Must be placed inside of TemplateConfig../aspose.omr.generation.config/templateconfig
 type: docs
-weight: 570
+weight: 610
 url: /net/aspose.omr.generation.config.elements.parents/pageconfig/
 ---
 ## PageConfig class

@@ -3,7 +3,7 @@ title: BorderSize
 second_title: Aspose.OMR for .NET API Reference
 description: Size of border line
 type: docs
-weight: 30
+weight: 60
 url: /net/aspose.omr.generation.config.elements.parents/blockconfig/bordersize/
 ---
 ## BlockConfig.BorderSize property

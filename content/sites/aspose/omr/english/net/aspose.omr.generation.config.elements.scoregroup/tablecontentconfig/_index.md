@@ -3,7 +3,7 @@ title: TableContentConfig
 second_title: Aspose.OMR for .NET API Reference
 description: Text inside table structure
 type: docs
-weight: 520
+weight: 560
 url: /net/aspose.omr.generation.config.elements.scoregroup/tablecontentconfig/
 ---
 ## TableContentConfig class
@@ -25,6 +25,7 @@ public class TableContentConfig : ContentConfig
 | Name | Description |
 | --- | --- |
 | [Alignment](../../aspose.omr.generation.config.elements/contentconfig/alignment) { get; set; } | Alignment of content string inside parent |
+| [Color](../../aspose.omr.generation.config.elements/contentconfig/color) { get; set; } | The color of the text |
 | [Column](../../aspose.omr.generation.config.elements.scoregroup/tablecontentconfig/column) { get; set; } | Column position in table. first column - '1' |
 | [ContentType](../../aspose.omr.generation.config.elements/contentconfig/contenttype) { get; set; } | Type of text display. |
 | [FontFamily](../../aspose.omr.generation.config.elements/contentconfig/fontfamily) { get; set; } | The font family of the text |

@@ -3,7 +3,7 @@ title: ParagraphConfig
 second_title: Aspose.OMR for .NET API Reference
 description: Represents Paragraph element. Paragraph can consist of both text and text with an image. The image is specified by coordinates x y.
 type: docs
-weight: 580
+weight: 620
 url: /net/aspose.omr.generation.config.elements.parents/paragraphconfig/
 ---
 ## ParagraphConfig class
@@ -28,6 +28,7 @@ public class ParagraphConfig : ParentConfig
 | override [Name](../../aspose.omr.generation.config.elements.parents/paragraphconfig/name) { get; set; } | Name of paragraph |
 | [ParagraphType](../../aspose.omr.generation.config.elements.parents/paragraphconfig/paragraphtype) { get; set; } | Type of Paragraph |
 | override [Type](../../aspose.omr.generation.config.elements.parents/paragraphconfig/type) { get; set; } | Type of omr element. Required field for JSON serialization. |
+| [VerticalAlignment](../../aspose.omr.generation.config.elements.parents/paragraphconfig/verticalalignment) { get; set; } | Alignment of child elements. Only usable with Inline paragraph type |
 
 ### See Also
 
