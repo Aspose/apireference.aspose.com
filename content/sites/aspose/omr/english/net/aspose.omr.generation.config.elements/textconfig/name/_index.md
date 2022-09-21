@@ -3,7 +3,7 @@ title: Name
 second_title: Aspose.OMR for .NET API Reference
 description: Text that needs to be displayed
 type: docs
-weight: 50
+weight: 60
 url: /net/aspose.omr.generation.config.elements/textconfig/name/
 ---
 ## TextConfig.Name property

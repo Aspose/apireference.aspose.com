@@ -3,7 +3,7 @@ title: BorderColor
 second_title: Aspose.OMR for .NET API Reference
 description: Color of the border
 type: docs
-weight: 50
+weight: 90
 url: /net/aspose.omr.generation.config.elements.table/tabletitleconfig/bordercolor/
 ---
 ## TableTitleConfig.BorderColor field

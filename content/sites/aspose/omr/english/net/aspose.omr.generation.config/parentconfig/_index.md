@@ -3,7 +3,7 @@ title: ParentConfig
 second_title: Aspose.OMR for .NET API Reference
 description: Abstraction which mark element as parent and allow to have other elements as children
 type: docs
-weight: 140
+weight: 160
 url: /net/aspose.omr.generation.config/parentconfig/
 ---
 ## ParentConfig class

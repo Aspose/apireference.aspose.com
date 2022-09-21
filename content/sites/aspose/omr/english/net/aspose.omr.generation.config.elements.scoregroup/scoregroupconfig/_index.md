@@ -3,7 +3,7 @@ title: ScoreGroupConfig
 second_title: Aspose.OMR for .NET API Reference
 description: Grouping parent. Score based table.
 type: docs
-weight: 490
+weight: 530
 url: /net/aspose.omr.generation.config.elements.scoregroup/scoregroupconfig/
 ---
 ## ScoreGroupConfig class

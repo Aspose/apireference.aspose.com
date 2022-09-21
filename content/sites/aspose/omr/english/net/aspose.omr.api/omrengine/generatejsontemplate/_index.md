@@ -11,13 +11,15 @@ url: /net/aspose.omr.api/omrengine/generatejsontemplate/
 Creates a template (.omr) and template image based on .json markup
 
 ```csharp
-public GenerationResult GenerateJSONTemplate(string jsonPath, GlobalPageSettings settings = null)
+public GenerationResult GenerateJSONTemplate(string jsonPath, GlobalPageSettings settings = null, 
+    Encoding encoding = null)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | jsonPath | String | path to *.json file with markup |
 | settings | GlobalPageSettings | global settings used in all template generation |
+| encoding | Encoding | markup file encoding, by default UTF-8 is used |
 
 ### Return Value
 

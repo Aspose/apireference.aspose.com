@@ -3,7 +3,7 @@ title: Type
 second_title: Aspose.OMR for .NET API Reference
 description: Type of omr element. Required field for JSON serialization.
 type: docs
-weight: 30
+weight: 70
 url: /net/aspose.omr.generation.config.elements.table/tabletitleconfig/type/
 ---
 ## TableTitleConfig.Type property

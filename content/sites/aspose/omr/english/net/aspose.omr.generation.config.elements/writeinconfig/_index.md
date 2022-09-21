@@ -3,7 +3,7 @@ title: WriteInConfig
 second_title: Aspose.OMR for .NET API Reference
 description: Represents Write-In element. Used for handwritten fields. Upon recognition clipped as picture and placed in folder.
 type: docs
-weight: 420
+weight: 460
 url: /net/aspose.omr.generation.config.elements/writeinconfig/
 ---
 ## WriteInConfig class
@@ -24,6 +24,11 @@ public class WriteInConfig : BaseConfig
 
 | Name | Description |
 | --- | --- |
+| [Color](../../aspose.omr.generation.config.elements/writeinconfig/color) { get; set; } | The color of the [`Hint`](./hint) |
+| [FontFamily](../../aspose.omr.generation.config.elements/writeinconfig/fontfamily) { get; set; } | The font family of the [`Hint`](./hint) |
+| [FontSize](../../aspose.omr.generation.config.elements/writeinconfig/fontsize) { get; set; } | The size of the [`Hint`](./hint) font |
+| [FontStyle](../../aspose.omr.generation.config.elements/writeinconfig/fontstyle) { get; set; } | The style of the [`Hint`](./hint) |
+| [Hint](../../aspose.omr.generation.config.elements/writeinconfig/hint) { get; set; } | Text after write-in area. By default used "write-in" |
 | override [Name](../../aspose.omr.generation.config.elements/writeinconfig/name) { get; set; } | Name of Write-In area and name of picture when recognized. |
 | [Required](../../aspose.omr.generation.config.elements/writeinconfig/required) { get; set; } | Is clipping of write-in field required |
 | override [Type](../../aspose.omr.generation.config.elements/writeinconfig/type) { get; set; } | Type of omr element. Required field for JSON serialization. |

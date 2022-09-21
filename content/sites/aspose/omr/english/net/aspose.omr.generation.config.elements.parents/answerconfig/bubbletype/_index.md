@@ -3,7 +3,7 @@ title: BubbleType
 second_title: Aspose.OMR for .NET API Reference
 description: Type of drawn bubble.
 type: docs
-weight: 20
+weight: 30
 url: /net/aspose.omr.generation.config.elements.parents/answerconfig/bubbletype/
 ---
 ## AnswerConfig.BubbleType property

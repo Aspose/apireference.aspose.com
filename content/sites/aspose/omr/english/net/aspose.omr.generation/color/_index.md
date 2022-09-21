@@ -18,7 +18,8 @@ public enum Color
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Aqua | `0` | Aqua color |
+| undefined | `0` | Color is not set. |
+| Aqua | `18` | Aqua color |
 | Aquamarine | `1` | Aquamarine color |
 | Black | `2` | Black color |
 | Blue | `3` | Blue color |

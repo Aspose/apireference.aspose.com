@@ -3,7 +3,7 @@ title: CustomAnswerSheetConfig
 second_title: Aspose.OMR for .NET API Reference
 description: Repeat custom rows. To describe custom row use - CustomRowConfig./customrowconfig
 type: docs
-weight: 610
+weight: 650
 url: /net/aspose.omr.generation.config.elements.customanswersheet/customanswersheetconfig/
 ---
 ## CustomAnswerSheetConfig class
@@ -25,8 +25,12 @@ public class CustomAnswerSheetConfig : ParentConfig
 | Name | Description |
 | --- | --- |
 | [Amount](../../aspose.omr.generation.config.elements.customanswersheet/customanswersheetconfig/amount) { get; set; } | Total amount of rows |
+| [BorderBottomStyle](../../aspose.omr.generation.config.elements.customanswersheet/customanswersheetconfig/borderbottomstyle) { get; set; } | Additional style for bottom border |
 | [BorderColor](../../aspose.omr.generation.config.elements.customanswersheet/customanswersheetconfig/bordercolor) { get; set; } | Color of border |
+| [BorderLeftStyle](../../aspose.omr.generation.config.elements.customanswersheet/customanswersheetconfig/borderleftstyle) { get; set; } | Additional style for left border |
+| [BorderRightStyle](../../aspose.omr.generation.config.elements.customanswersheet/customanswersheetconfig/borderrightstyle) { get; set; } | Additional style for right border |
 | [BorderSize](../../aspose.omr.generation.config.elements.customanswersheet/customanswersheetconfig/bordersize) { get; set; } | Size of border line |
+| [BorderTopStyle](../../aspose.omr.generation.config.elements.customanswersheet/customanswersheetconfig/bordertopstyle) { get; set; } | Additional style for top border |
 | [BorderType](../../aspose.omr.generation.config.elements.customanswersheet/customanswersheetconfig/bordertype) { get; set; } | Type of drawn border to separate columns(sections) |
 | override [Children](../../aspose.omr.generation.config.elements.customanswersheet/customanswersheetconfig/children) { get; set; } | Child omr elements. In most cases positioned inside of parent or below. |
 | [ColumnsCount](../../aspose.omr.generation.config.elements.customanswersheet/customanswersheetconfig/columnscount) { get; set; } | Amount of columns(sections) to group rows |

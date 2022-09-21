@@ -3,7 +3,7 @@ title: BackgroundColor
 second_title: Aspose.OMR for .NET API Reference
 description: The background color of the table title
 type: docs
-weight: 40
+weight: 80
 url: /net/aspose.omr.generation.config.elements.table/tabletitleconfig/backgroundcolor/
 ---
 ## TableTitleConfig.BackgroundColor field

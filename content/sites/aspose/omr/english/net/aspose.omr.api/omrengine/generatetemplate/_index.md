@@ -6,13 +6,13 @@ type: docs
 weight: 40
 url: /net/aspose.omr.api/omrengine/generatetemplate/
 ---
-## GenerateTemplate(MemoryStream, GlobalPageSettings, ImageCollection) {#generatetemplate_2}
+## GenerateTemplate(MemoryStream, GlobalPageSettings, ImageCollection, Encoding) {#generatetemplate_2}
 
 Creates a template (.omr) and template image based on MemoryStream
 
 ```csharp
 public GenerationResult GenerateTemplate(MemoryStream stream, GlobalPageSettings settings, 
-    ImageCollection userImages = null)
+    ImageCollection userImages = null, Encoding encoding = null)
 ```
 
 | Parameter | Type | Description |
@@ -20,6 +20,7 @@ public GenerationResult GenerateTemplate(MemoryStream stream, GlobalPageSettings
 | stream | MemoryStream | The stream which contains markup lines |
 | settings | GlobalPageSettings | The global settings applicable to all page elements |
 | userImages | ImageCollection | Collection of images that can be used for a template generation. Allow to use images from MemoryStream instead of file system |
+| encoding | Encoding | markup lines encoding, by default UTF-8 is used |
 
 ### Return Value
 
@@ -36,18 +37,20 @@ Generation result
 
 ---
 
-## GenerateTemplate(MemoryStream, ImageCollection) {#generatetemplate_1}
+## GenerateTemplate(MemoryStream, ImageCollection, Encoding) {#generatetemplate_1}
 
 Creates a template (.omr) and template image based on MemoryStream
 
 ```csharp
-public GenerationResult GenerateTemplate(MemoryStream stream, ImageCollection userImages = null)
+public GenerationResult GenerateTemplate(MemoryStream stream, ImageCollection userImages = null, 
+    Encoding encoding = null)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | stream | MemoryStream | The stream which contains markup lines |
 | userImages | ImageCollection | Collection of images that can be used for a template generation. Allow to use images from MemoryStream instead of file system |
+| encoding | Encoding | markup lines encoding, by default UTF-8 is used |
 
 ### Return Value
 
@@ -120,18 +123,20 @@ Generation result
 
 ---
 
-## GenerateTemplate(string, GlobalPageSettings) {#generatetemplate_4}
+## GenerateTemplate(string, GlobalPageSettings, Encoding) {#generatetemplate_3}
 
 Creates a template (.omr) and template image based on text markup
 
 ```csharp
-public GenerationResult GenerateTemplate(string markupPath, GlobalPageSettings settings)
+public GenerationResult GenerateTemplate(string markupPath, GlobalPageSettings settings, 
+    Encoding encoding = null)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | markupPath | String | Path to the text markup file |
 | settings | GlobalPageSettings | The global settings applicable to all page elements |
+| encoding | Encoding | markup file encoding, by default UTF-8 is used |
 
 ### Return Value
 
@@ -147,17 +152,18 @@ Generation result
 
 ---
 
-## GenerateTemplate(string) {#generatetemplate_3}
+## GenerateTemplate(string, Encoding) {#generatetemplate_5}
 
 Creates a template (.omr) and template image based on text markup
 
 ```csharp
-public GenerationResult GenerateTemplate(string markupPath)
+public GenerationResult GenerateTemplate(string markupPath, Encoding encoding = null)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | markupPath | String | Path to the text markup file |
+| encoding | Encoding | markup file encoding, by default UTF-8 is used |
 
 ### Return Value
 
@@ -172,18 +178,20 @@ Generation result
 
 ---
 
-## GenerateTemplate(string, string[]) {#generatetemplate_5}
+## GenerateTemplate(string, string[], Encoding) {#generatetemplate_4}
 
 Creates a template (.omr) and template image based on text markup
 
 ```csharp
-public GenerationResult GenerateTemplate(string markupPath, string[] imagesPaths)
+public GenerationResult GenerateTemplate(string markupPath, string[] imagesPaths, 
+    Encoding encoding = null)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | markupPath | String | Path to the text markup file |
 | imagesPaths | String[] | Full paths to the images used in generation |
+| encoding | Encoding | markup file encoding, by default UTF-8 is used |
 
 ### Return Value
 

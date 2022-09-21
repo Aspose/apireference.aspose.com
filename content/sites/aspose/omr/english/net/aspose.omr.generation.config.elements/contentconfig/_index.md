@@ -3,7 +3,7 @@ title: ContentConfig
 second_title: Aspose.OMR for .NET API Reference
 description: Represent content element. Can be used as child element in the table.
 type: docs
-weight: 350
+weight: 390
 url: /net/aspose.omr.generation.config.elements/contentconfig/
 ---
 ## ContentConfig class
@@ -25,6 +25,7 @@ public class ContentConfig : BaseConfig
 | Name | Description |
 | --- | --- |
 | [Alignment](../../aspose.omr.generation.config.elements/contentconfig/alignment) { get; set; } | Alignment of content string inside parent |
+| [Color](../../aspose.omr.generation.config.elements/contentconfig/color) { get; set; } | The color of the text |
 | [ContentType](../../aspose.omr.generation.config.elements/contentconfig/contenttype) { get; set; } | Type of text display. |
 | [FontFamily](../../aspose.omr.generation.config.elements/contentconfig/fontfamily) { get; set; } | The font family of the text |
 | [FontSize](../../aspose.omr.generation.config.elements/contentconfig/fontsize) { get; set; } | The size of the text font |

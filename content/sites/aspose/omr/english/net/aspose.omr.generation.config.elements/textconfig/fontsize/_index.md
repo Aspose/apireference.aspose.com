@@ -3,7 +3,7 @@ title: FontSize
 second_title: Aspose.OMR for .NET API Reference
 description: The size of the text font
 type: docs
-weight: 30
+weight: 40
 url: /net/aspose.omr.generation.config.elements/textconfig/fontsize/
 ---
 ## TextConfig.FontSize property

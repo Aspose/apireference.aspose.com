@@ -3,7 +3,7 @@ title: ScoreHeaderConfig
 second_title: Aspose.OMR for .NET API Reference
 description: Column in ScoreGroupConfig./scoregroupconfig that will store amount of points for each answer. If absent - that column will not be drawn.
 type: docs
-weight: 500
+weight: 540
 url: /net/aspose.omr.generation.config.elements.scoregroup/scoreheaderconfig/
 ---
 ## ScoreHeaderConfig class
@@ -25,6 +25,7 @@ public class ScoreHeaderConfig : ContentConfig
 | Name | Description |
 | --- | --- |
 | [Alignment](../../aspose.omr.generation.config.elements/contentconfig/alignment) { get; set; } | Alignment of content string inside parent |
+| [Color](../../aspose.omr.generation.config.elements/contentconfig/color) { get; set; } | The color of the text |
 | [ContentType](../../aspose.omr.generation.config.elements/contentconfig/contenttype) { get; set; } | Type of text display. |
 | [FontFamily](../../aspose.omr.generation.config.elements/contentconfig/fontfamily) { get; set; } | The font family of the text |
 | [FontSize](../../aspose.omr.generation.config.elements/contentconfig/fontsize) { get; set; } | The size of the text font |

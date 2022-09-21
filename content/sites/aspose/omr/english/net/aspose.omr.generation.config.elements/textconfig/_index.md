@@ -3,7 +3,7 @@ title: TextConfig
 second_title: Aspose.OMR for .NET API Reference
 description: Represents Text element. Used for displaying information. Does not participate in recognition.
 type: docs
-weight: 410
+weight: 450
 url: /net/aspose.omr.generation.config.elements/textconfig/
 ---
 ## TextConfig class
@@ -24,6 +24,7 @@ public class TextConfig : BaseConfig
 
 | Name | Description |
 | --- | --- |
+| [Color](../../aspose.omr.generation.config.elements/textconfig/color) { get; set; } | The color of the text |
 | [FontFamily](../../aspose.omr.generation.config.elements/textconfig/fontfamily) { get; set; } | The font family of the text |
 | [FontSize](../../aspose.omr.generation.config.elements/textconfig/fontsize) { get; set; } | The size of the text font |
 | [FontStyle](../../aspose.omr.generation.config.elements/textconfig/fontstyle) { get; set; } | The style of the text |

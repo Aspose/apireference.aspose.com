@@ -3,7 +3,7 @@ title: Column
 second_title: Aspose.OMR for .NET API Reference
 description: When placed in multi-column container - represent position in parent
 type: docs
-weight: 60
+weight: 100
 url: /net/aspose.omr.generation.config.elements.parents/blockconfig/column/
 ---
 ## BlockConfig.Column property

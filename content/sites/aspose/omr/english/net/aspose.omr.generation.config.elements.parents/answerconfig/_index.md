@@ -3,7 +3,7 @@ title: AnswerConfig
 second_title: Aspose.OMR for .NET API Reference
 description: Represents Answer element. Can be used as child with VerticalChoiceBoxConfig./verticalchoiceboxconfig
 type: docs
-weight: 530
+weight: 570
 url: /net/aspose.omr.generation.config.elements.parents/answerconfig/
 ---
 ## AnswerConfig class
@@ -24,6 +24,7 @@ public class AnswerConfig : ParentConfig
 
 | Name | Description |
 | --- | --- |
+| [BubblePosition](../../aspose.omr.generation.config.elements.parents/answerconfig/bubbleposition) { get; set; } | Position of bubble. Can be from the left and the right side of the main content |
 | [BubbleType](../../aspose.omr.generation.config.elements.parents/answerconfig/bubbletype) { get; set; } | Type of drawn bubble. |
 | override [Children](../../aspose.omr.generation.config.elements.parents/answerconfig/children) { get; set; } | Child omr elements. In most cases positioned inside of parent or below. |
 | override [Name](../../aspose.omr.generation.config.elements.parents/answerconfig/name) { get; set; } | Text of answer |

@@ -3,7 +3,7 @@ title: TableTitleConfig
 second_title: Aspose.OMR for .NET API Reference
 description: Represents TableTitle element. Display title. Used with TableConfig./tableconfig
 type: docs
-weight: 470
+weight: 510
 url: /net/aspose.omr.generation.config.elements.table/tabletitleconfig/
 ---
 ## TableTitleConfig class
@@ -24,6 +24,10 @@ public class TableTitleConfig : BaseConfig
 
 | Name | Description |
 | --- | --- |
+| [BorderBottomStyle](../../aspose.omr.generation.config.elements.table/tabletitleconfig/borderbottomstyle) { get; set; } | Additional style for bottom border |
+| [BorderLeftStyle](../../aspose.omr.generation.config.elements.table/tabletitleconfig/borderleftstyle) { get; set; } | Additional style for left border |
+| [BorderRightStyle](../../aspose.omr.generation.config.elements.table/tabletitleconfig/borderrightstyle) { get; set; } | Additional style for right border |
+| [BorderTopStyle](../../aspose.omr.generation.config.elements.table/tabletitleconfig/bordertopstyle) { get; set; } | Additional style for top border |
 | override [Name](../../aspose.omr.generation.config.elements.table/tabletitleconfig/name) { get; set; } | Text value of title |
 | override [Type](../../aspose.omr.generation.config.elements.table/tabletitleconfig/type) { get; set; } | Type of omr element. Required field for JSON serialization. |
 
