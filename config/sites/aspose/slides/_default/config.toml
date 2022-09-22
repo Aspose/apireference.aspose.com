@@ -51,12 +51,24 @@ defaultContentLang = 'en'
     languageCode = "zh"
     flag = "flag-cn"
     weight = 12
+  [languages.fr]
+    contentDir = 'content/sites/aspose/slides/french'
+    languageName = "Français"
+    languageCode = "fr"
+    flag = "flag-fr"
+    weight = 13
+  [languages.de]
+    contentDir = 'content/sites/aspose/slides/german'
+    languageName = "Deutsch"
+    languageCode = "de"
+    flag = "flag-de"
+    weight = 14
   [languages.es]
     contentDir = 'content/sites/aspose/slides/spanish'
     languageName = "Español"
     languageCode = "es"
     flag = "flag-es"
-    weight = 13
+    weight = 15
 
 disableKinds = ["taxonomy", "taxonomyTerm"]
 ignoreFiles = ["(?i:readme.md)", '\.spin$']
