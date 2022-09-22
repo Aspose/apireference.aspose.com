@@ -1,14 +1,14 @@
 ---
 title: AddBookmark
 second_title: Справочник по API Aspose.TeX для .NET
-description: Добавляет закладку идентифицированную по имени.
+description: Добавляет закладку идентифицированную именем.
 type: docs
 weight: 90
 url: /ru/net/aspose.tex.presentation.pdf/pdfdevice/addbookmark/
 ---
 ## PdfDevice.AddBookmark method
 
-Добавляет закладку, идентифицированную по имени.
+Добавляет закладку, идентифицированную именем.
 
 ```csharp
 public void AddBookmark(string name, PointF position)
@@ -16,7 +16,7 @@ public void AddBookmark(string name, PointF position)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| name | String | Имя. |
+| name | String | Название. |
 | position | PointF | Позиция. |
 
 ### Смотрите также

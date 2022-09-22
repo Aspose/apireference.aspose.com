@@ -3,7 +3,7 @@ title: Resolution
 second_title: Aspose.TeX for .NET API 参考
 description: 获取/设置图像分辨率
 type: docs
-weight: 40
+weight: 50
 url: /zh/net/aspose.tex.presentation.image/imagesaveoptions/resolution/
 ---
 ## ImageSaveOptions.Resolution property

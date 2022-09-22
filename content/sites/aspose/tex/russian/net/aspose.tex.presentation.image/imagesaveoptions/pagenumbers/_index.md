@@ -3,7 +3,7 @@ title: PageNumbers
 second_title: Справочник по API Aspose.TeX для .NET
 description: Получает/задает массив номеров страниц для преобразования.
 type: docs
-weight: 30
+weight: 40
 url: /ru/net/aspose.tex.presentation.image/imagesaveoptions/pagenumbers/
 ---
 ## ImageSaveOptions.PageNumbers property

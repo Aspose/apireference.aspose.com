@@ -1,14 +1,14 @@
 ---
 title: Render
 second_title: Справочник по API Aspose.TeX для .NET
-description: Выводит математическую формулу.
+description: Визуализирует математическую формулу.
 type: docs
 weight: 20
 url: /ru/net/aspose.tex.features/mathrenderer/render/
 ---
 ## MathRenderer.Render method
 
-Выводит математическую формулу.
+Визуализирует математическую формулу.
 
 ```csharp
 public void Render(string formula, Stream stream, MathRendererOptions mathRendererOptions, 
@@ -19,7 +19,7 @@ public void Render(string formula, Stream stream, MathRendererOptions mathRender
 | --- | --- | --- |
 | formula | String | Формула программы LaTeX. |
 | stream | Stream | Поток для записи вывода. |
-| mathRendererOptions | MathRendererOptions | Параметры рендеринга. |
+| mathRendererOptions | MathRendererOptions | Варианты рендеринга. |
 | size | SizeF& | Размер выходного изображения. |
 
 ### Смотрите также

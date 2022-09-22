@@ -3,7 +3,7 @@ title: OutputMemoryTerminal
 second_title: Справочник по API Aspose.TeX для .NET
 description: Предоставляет поток памяти в качестве назначения вывода терминала.
 type: docs
-weight: 190
+weight: 200
 url: /ru/net/aspose.tex.io/outputmemoryterminal/
 ---
 ## OutputMemoryTerminal class
@@ -25,7 +25,7 @@ public class OutputMemoryTerminal : IOutputTerminal
 | Имя | Описание |
 | --- | --- |
 | [Stream](../../aspose.tex.io/outputmemoryterminal/stream) { get; } | Получает поток памяти. |
-| [Writer](../../aspose.tex.io/outputmemoryterminal/writer) { get; } | Получает модуль записи для выходного терминала. |
+| [Writer](../../aspose.tex.io/outputmemoryterminal/writer) { get; } | Получает средство записи для выходного терминала. |
 
 ### Смотрите также
 

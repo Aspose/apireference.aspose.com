@@ -16,11 +16,11 @@ public static TeXOptions ConsoleAppOptions(TeXConfig config)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| config | TeXConfig | Конфиг TeX. |
+| config | TeXConfig | Конфигурация TeX. |
 
 ### Возвращаемое значение
 
-Параметры TeX.
+Опции TeX.
 
 ### Смотрите также
 

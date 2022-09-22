@@ -1,9 +1,9 @@
 ---
 title: OutputZipDirectory
 second_title: Справочник по API Aspose.TeX для .NET
-description: Реализует метод получения файлового потока для записи когда рабочий каталог является ZIP-архивом.
+description: Реализует метод получения файлового потока для записи когда рабочий каталог является ZIPархивом.
 type: docs
-weight: 200
+weight: 210
 url: /ru/net/aspose.tex.io/outputzipdirectory/
 ---
 ## OutputZipDirectory class

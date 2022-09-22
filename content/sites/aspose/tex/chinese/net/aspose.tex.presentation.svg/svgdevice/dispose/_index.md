@@ -1,14 +1,14 @@
 ---
 title: Dispose
 second_title: Aspose.TeX for .NET API 参考
-description: 释放此设备实例 最终确定此设备实例的图形状态 即将 APS 组合上下文切换到ApsCanvas 比这个更高的级别 设备的图形状态 ApsCanvas
+description: 释放此设备实例最终确定此设备实例图形状态 即将 APS 组合上下文切换到ApsCanvas高于 this 设备的图形状态的级别ApsCanvas.
 type: docs
 weight: 120
 url: /zh/net/aspose.tex.presentation.svg/svgdevice/dispose/
 ---
 ## SvgDevice.Dispose method
 
-释放此设备实例。 最终确定此设备实例的图形状态， 即将 APS 组合上下文切换到ApsCanvas 比这个更高的级别 设备的图形状态 ApsCanvas。
+释放此设备实例。最终确定此设备实例图形状态， 即将 APS 组合上下文切换到ApsCanvas高于 this 设备的图形状态的级别ApsCanvas.
 
 ```csharp
 public override void Dispose()

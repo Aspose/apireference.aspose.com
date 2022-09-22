@@ -1,14 +1,14 @@
 ---
 title: RequiredInputDirectory
 second_title: Справочник по API Aspose.TeX для .NET
-description: Получает/задает каталог для необходимых входных данных например пакеты  которые не поддерживаются Aspose.TeX LaTeX.
+description: Получает/устанавливает каталог для необходимых входных данных например пакетов которые не поддерживаются Aspose.TeX LaTeX.
 type: docs
 weight: 100
 url: /ru/net/aspose.tex/texoptions/requiredinputdirectory/
 ---
 ## TeXOptions.RequiredInputDirectory property
 
-Получает/задает каталог для необходимых входных данных, например, пакеты , которые не поддерживаются Aspose.TeX LaTeX.
+Получает/устанавливает каталог для необходимых входных данных, например, пакетов, которые не поддерживаются Aspose.TeX LaTeX.
 
 ```csharp
 public IInputWorkingDirectory RequiredInputDirectory { get; set; }

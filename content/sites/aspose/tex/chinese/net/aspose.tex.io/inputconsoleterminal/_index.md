@@ -1,14 +1,14 @@
 ---
 title: InputConsoleTerminal
 second_title: Aspose.TeX for .NET API 参考
-description: 提供控制台作为终端输入源In的包装器
+description: 提供控制台作为终端输入源包装器In.
 type: docs
 weight: 130
 url: /zh/net/aspose.tex.io/inputconsoleterminal/
 ---
 ## InputConsoleTerminal class
 
-提供控制台作为终端输入源。In的包装器。
+提供控制台作为终端输入源。包装器In.
 
 ```csharp
 public class InputConsoleTerminal : IInputTerminal

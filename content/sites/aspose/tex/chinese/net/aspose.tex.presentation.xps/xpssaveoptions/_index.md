@@ -1,14 +1,14 @@
 ---
 title: XpsSaveOptions
 second_title: Aspose.TeX for .NET API 参考
-description: 表示保存到 XPS 选项的类
+description: 表示保存到 XPS 的选项的类
 type: docs
-weight: 430
+weight: 450
 url: /zh/net/aspose.tex.presentation.xps/xpssaveoptions/
 ---
 ## XpsSaveOptions class
 
-表示保存到 XPS 选项的类。
+表示保存到 XPS 的选项的类。
 
 ```csharp
 public class XpsSaveOptions : SaveOptions

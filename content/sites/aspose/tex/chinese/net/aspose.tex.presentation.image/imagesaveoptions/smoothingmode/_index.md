@@ -3,7 +3,7 @@ title: SmoothingMode
 second_title: Aspose.TeX for .NET API 参考
 description: 获取/设置平滑模式
 type: docs
-weight: 50
+weight: 60
 url: /zh/net/aspose.tex.presentation.image/imagesaveoptions/smoothingmode/
 ---
 ## ImageSaveOptions.SmoothingMode property

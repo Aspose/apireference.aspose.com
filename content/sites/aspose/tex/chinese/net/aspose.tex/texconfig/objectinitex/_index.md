@@ -1,14 +1,14 @@
 ---
 title: ObjectIniTeX
 second_title: Aspose.TeX for .NET API 参考
-description: 获取没有预加载格式的 ObjectTeX 引擎扩展的配置即在 INITEX 模式下 应该用于格式准备
+description: 获取没有预加载格式的ObjectTeX 引擎扩展的配置即在INITEX 模式下 应该用于格式准备
 type: docs
 weight: 10
 url: /zh/net/aspose.tex/texconfig/objectinitex/
 ---
 ## TeXConfig.ObjectIniTeX property
 
-获取没有预加载格式的 ObjectTeX 引擎扩展的配置，即在 INITEX 模式下。 应该用于格式准备。
+获取没有预加载格式的ObjectTeX 引擎扩展的配置，即在INITEX 模式下。 应该用于格式准备。
 
 ```csharp
 public static TeXConfig ObjectIniTeX { get; }

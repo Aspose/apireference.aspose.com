@@ -3,7 +3,7 @@ title: PdfTextCompression
 second_title: Aspose.TeX for .NET API 参考
 description: 指定应用于 PDF 文件中除图像之外的所有内容的压缩类型
 type: docs
-weight: 380
+weight: 400
 url: /zh/net/aspose.tex.presentation.pdf/pdftextcompression/
 ---
 ## PdfTextCompression enumeration
@@ -20,8 +20,8 @@ public enum PdfTextCompression
 | --- | --- | --- |
 | None | `0` | 无压缩类型 |
 | Rle | `1` | Rle 压缩类型 |
-| Lzw | `2` | Lzw 压缩类型 |
-| Flate | `3` | Flate 压缩类型 |
+| Lzw | `2` | lzw压缩类型 |
+| Flate | `3` | 扁平压缩类型 |
 
 ### 也可以看看
 

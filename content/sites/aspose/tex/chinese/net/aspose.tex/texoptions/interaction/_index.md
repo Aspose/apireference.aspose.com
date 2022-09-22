@@ -1,14 +1,14 @@
 ---
 title: Interaction
 second_title: Aspose.TeX for .NET API 参考
-description: 获取/设置运行 TeX 引擎的交互模式
+description: 获取/设置交互模式以在其中运行 TeX 引擎
 type: docs
 weight: 50
 url: /zh/net/aspose.tex/texoptions/interaction/
 ---
 ## TeXOptions.Interaction property
 
-获取/设置运行 TeX 引擎的交互模式。
+获取/设置交互模式以在其中运行 TeX 引擎。
 
 ```csharp
 public Interaction Interaction { get; set; }

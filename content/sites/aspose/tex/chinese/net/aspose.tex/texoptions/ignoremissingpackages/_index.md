@@ -1,14 +1,14 @@
 ---
 title: IgnoreMissingPackages
 second_title: Aspose.TeX for .NET API 参考
-description: 获取/设置标志指示引擎是否在丢失包读取尝试时停止 或忽略它
+description: 获取/设置指示引擎是否在丢失包读取尝试时停止 或忽略它的标志
 type: docs
 weight: 30
 url: /zh/net/aspose.tex/texoptions/ignoremissingpackages/
 ---
 ## TeXOptions.IgnoreMissingPackages property
 
-获取/设置标志，指示引擎是否在丢失包读取尝试时停止 或忽略它。
+获取/设置指示引擎是否在丢失包读取尝试时停止 或忽略它的标志。
 
 ```csharp
 public bool IgnoreMissingPackages { get; set; }

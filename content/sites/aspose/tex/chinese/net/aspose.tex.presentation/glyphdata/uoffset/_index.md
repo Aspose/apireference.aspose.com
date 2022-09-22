@@ -1,14 +1,14 @@
 ---
 title: UOffset
 second_title: Aspose.TeX for .NET API 参考
-description: 获取/设置水平偏移
+description: 获取/设置水平偏移量
 type: docs
 weight: 40
 url: /zh/net/aspose.tex.presentation/glyphdata/uoffset/
 ---
 ## GlyphData.UOffset property
 
-获取/设置水平偏移。
+获取/设置水平偏移量。
 
 ```csharp
 public float UOffset { get; set; }

@@ -3,7 +3,7 @@ title: SvgSaveOptions
 second_title: Справочник по API Aspose.TeX для .NET
 description: Класс представляющий варианты сохранения в SVG.
 type: docs
-weight: 410
+weight: 430
 url: /ru/net/aspose.tex.presentation.svg/svgsaveoptions/
 ---
 ## SvgSaveOptions class
@@ -24,9 +24,9 @@ public class SvgSaveOptions : SaveOptions
 
 | Имя | Описание |
 | --- | --- |
-| [RasterizeFormulas](../../aspose.tex.presentation/saveoptions/rasterizeformulas) { get; set; } | Получает/устанавливает флаг, позволяющий растрировать математические формулы. |
-| [RasterizeIncludedGraphics](../../aspose.tex.presentation/saveoptions/rasterizeincludedgraphics) { get; set; } | Возвращает/устанавливает флаг, позволяющий растрировать включенную графику PS/EPS и/или XPS/OXPS. |
-| [SubsetFonts](../../aspose.tex.presentation/saveoptions/subsetfonts) { get; set; } | Получает/устанавливает флаг, указывающий, следует ли подмножать шрифты в выходном файле или нет. |
+| [RasterizeFormulas](../../aspose.tex.presentation/saveoptions/rasterizeformulas) { get; set; } | Получает/устанавливает флаг, позволяющий растеризовать математические формулы. |
+| [RasterizeIncludedGraphics](../../aspose.tex.presentation/saveoptions/rasterizeincludedgraphics) { get; set; } | Получает/устанавливает флаг, позволяющий растеризовать включенную графику PS/EPS и/или XPS/OXPS. |
+| [SubsetFonts](../../aspose.tex.presentation/saveoptions/subsetfonts) { get; set; } | Получает/устанавливает флаг, указывающий, следует ли поднабор шрифтов в выходном файле или нет. |
 
 ### Смотрите также
 

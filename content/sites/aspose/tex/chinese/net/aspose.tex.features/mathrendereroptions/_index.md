@@ -1,14 +1,14 @@
 ---
 title: MathRendererOptions
 second_title: Aspose.TeX for .NET API 参考
-description: 数学公式常用渲染选项
+description: 数学公式常用渲染选项.
 type: docs
 weight: 30
 url: /zh/net/aspose.tex.features/mathrendereroptions/
 ---
 ## MathRendererOptions class
 
-数学公式常用渲染选项。
+数学公式常用渲染选项.
 
 ```csharp
 public abstract class MathRendererOptions
@@ -28,8 +28,8 @@ public abstract class MathRendererOptions
 | [ErrorReport](../../aspose.tex.features/mathrendereroptions/errorreport) { get; } | 获取错误报告。 |
 | [LogStream](../../aspose.tex.features/mathrendereroptions/logstream) { get; set; } | 获取/设置要写入日志输出的流。 |
 | [Preamble](../../aspose.tex.features/mathrendereroptions/preamble) { get; set; } | 获取/设置 LaTeX 文档序言。 |
-| [Scale](../../aspose.tex.features/mathrendereroptions/scale) { get; set; } | 获取/设置比例。 1000 表示 100%，1200 表示 120%，依此类推。 |
-| [ShowTerminal](../../aspose.tex.features/mathrendereroptions/showterminal) { get; set; } | 控制终端输出的标志。如果然后将终端输出写入控制台。 |
+| [Scale](../../aspose.tex.features/mathrendereroptions/scale) { get; set; } | 获取/设置比例。 1000 表示 100%，1200 表示 120%，等等。 |
+| [ShowTerminal](../../aspose.tex.features/mathrendereroptions/showterminal) { get; set; } | 控制终端输出的标志。如果然后将终端输出写入控制台. |
 | [TextColor](../../aspose.tex.features/mathrendereroptions/textcolor) { get; set; } | 获取/设置公式文本颜色。 |
 
 ### 也可以看看

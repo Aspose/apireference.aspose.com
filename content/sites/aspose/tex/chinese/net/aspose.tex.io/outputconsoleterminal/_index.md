@@ -1,14 +1,14 @@
 ---
 title: OutputConsoleTerminal
 second_title: Aspose.TeX for .NET API 参考
-description: 提供控制台作为终端输出目标Out的包装器
+description: 提供控制台作为终端输出目的地包装器Out.
 type: docs
-weight: 160
+weight: 170
 url: /zh/net/aspose.tex.io/outputconsoleterminal/
 ---
 ## OutputConsoleTerminal class
 
-提供控制台作为终端输出目标。Out的包装器。
+提供控制台作为终端输出目的地。包装器Out.
 
 ```csharp
 public class OutputConsoleTerminal : IOutputTerminal
@@ -24,7 +24,7 @@ public class OutputConsoleTerminal : IOutputTerminal
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Writer](../../aspose.tex.io/outputconsoleterminal/writer) { get; } | 获取控制台作为终端输出目标。 |
+| [Writer](../../aspose.tex.io/outputconsoleterminal/writer) { get; } | 获取控制台作为终端输出目的地。 |
 
 ### 也可以看看
 

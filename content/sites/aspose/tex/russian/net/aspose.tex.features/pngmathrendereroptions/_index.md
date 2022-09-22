@@ -1,14 +1,14 @@
 ---
 title: PngMathRendererOptions
 second_title: Справочник по API Aspose.TeX для .NET
-description: Математическая формула Опции рендеринга PNG.
+description: Математическая формула Варианты рендеринга PNG.
 type: docs
 weight: 50
 url: /ru/net/aspose.tex.features/pngmathrendereroptions/
 ---
 ## PngMathRendererOptions class
 
-Математическая формула Опции рендеринга PNG.
+Математическая формула Варианты рендеринга PNG.
 
 ```csharp
 public class PngMathRendererOptions : MathRendererOptions
@@ -26,11 +26,11 @@ public class PngMathRendererOptions : MathRendererOptions
 | --- | --- |
 | [BackgroundColor](../../aspose.tex.features/mathrendereroptions/backgroundcolor) { get; set; } | Получает/устанавливает цвет фона. |
 | [ErrorReport](../../aspose.tex.features/mathrendereroptions/errorreport) { get; } | Получает отчет об ошибке. |
-| [LogStream](../../aspose.tex.features/mathrendereroptions/logstream) { get; set; } | Получает/устанавливает поток для записи вывода журнала. |
+| [LogStream](../../aspose.tex.features/mathrendereroptions/logstream) { get; set; } | Получает/устанавливает поток для записи выходных данных журнала. |
 | [Preamble](../../aspose.tex.features/mathrendereroptions/preamble) { get; set; } | Получает/устанавливает преамбулу документа LaTeX. |
 | [Resolution](../../aspose.tex.features/pngmathrendereroptions/resolution) { get; set; } | Получает/устанавливает разрешение изображения. |
 | [Scale](../../aspose.tex.features/mathrendereroptions/scale) { get; set; } | Получает/устанавливает масштаб. 1000 означает 100%, 1200 означает 120% и т. д. |
-| [ShowTerminal](../../aspose.tex.features/mathrendereroptions/showterminal) { get; set; } | Флаг, управляющий выводом терминала. Если тогда вывод терминала записывается в консоль. |
+| [ShowTerminal](../../aspose.tex.features/mathrendereroptions/showterminal) { get; set; } | Флаг, управляющий выводом терминала. Если затем вывод терминала записывается в console. |
 | [TextColor](../../aspose.tex.features/mathrendereroptions/textcolor) { get; set; } | Получает/устанавливает цвет текста формулы. |
 
 ### Смотрите также

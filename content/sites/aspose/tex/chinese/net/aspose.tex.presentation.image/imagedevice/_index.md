@@ -3,7 +3,7 @@ title: ImageDevice
 second_title: Aspose.TeX for .NET API 参考
 description: 实现将文本和图形内容输出到图像的接口
 type: docs
-weight: 280
+weight: 300
 url: /zh/net/aspose.tex.presentation.image/imagedevice/
 ---
 ## ImageDevice class
@@ -30,7 +30,7 @@ public class ImageDevice : Device
 | override [IsReady](../../aspose.tex.presentation.image/imagedevice/isready) { get; } | 显示设备是否准备好输出。 |
 | override [PageCount](../../aspose.tex.presentation.image/imagedevice/pagecount) { get; } | 获取页数。 |
 | [Result](../../aspose.tex.presentation.image/imagedevice/result) { get; } | 返回生成的图像字节数组。 第一个维度用于内部文档 ，第二个维度用于内部文档中的页面。 |
-| override [Stroke](../../aspose.tex.presentation.image/imagedevice/stroke) { get; set; } | 获取/设置当前笔划。 |
+| override [Stroke](../../aspose.tex.presentation.image/imagedevice/stroke) { get; set; } | 获取/设置当前笔画。 |
 | override [StrokeOpacity](../../aspose.tex.presentation.image/imagedevice/strokeopacity) { get; set; } | 获取/设置当前笔画不透明度。 |
 
 ## 方法
@@ -39,12 +39,12 @@ public class ImageDevice : Device
 | --- | --- |
 | override [AddHyperlink](../../aspose.tex.presentation.image/imagedevice/addhyperlink)(RectangleF, Pen, string) | 设置以 URI 为目标的超链接。 |
 | override [Create](../../aspose.tex.presentation.image/imagedevice/create)() | 创建此设备的副本。 |
-| override [Dispose](../../aspose.tex.presentation.image/imagedevice/dispose)() | 处置此设备实例。最终确定此设备实例的图形状态， 即将组合上下文切换到高于此设备的图形状态的级别。 |
+| override [Dispose](../../aspose.tex.presentation.image/imagedevice/dispose)() | 释放此设备实例。最终确定此设备实例的图形状态， 即将组合上下文切换到高于此设备的图形状态的级别。 |
 | override [DrawPath](../../aspose.tex.presentation.image/imagedevice/drawpath)(GraphicsPath) | 绘制路径。 |
 | override [DrawString](../../aspose.tex.presentation.image/imagedevice/drawstring)(string, float, float, List&lt;GlyphData&gt;) | 绘制一个文本字符串。 |
 | override [EndDocument](../../aspose.tex.presentation.image/imagedevice/enddocument)() | 完成整个文档。 |
-| override [EndPage](../../aspose.tex.presentation.image/imagedevice/endpage)() | 结束一页。 |
-| override [FillPath](../../aspose.tex.presentation.image/imagedevice/fillpath)(GraphicsPath) | 填写路径。 |
+| override [EndPage](../../aspose.tex.presentation.image/imagedevice/endpage)() | 完成一个页面。 |
+| override [FillPath](../../aspose.tex.presentation.image/imagedevice/fillpath)(GraphicsPath) | 填充路径。 |
 | override [Init](../../aspose.tex.presentation.image/imagedevice/init)() | 初始化设备。 |
 | override [SetClip](../../aspose.tex.presentation.image/imagedevice/setclip)(GraphicsPath) | 设置当前剪辑路径。 |
 | override [SetTransform](../../aspose.tex.presentation.image/imagedevice/settransform)(Matrix) | 设置当前坐标空间变换。 |

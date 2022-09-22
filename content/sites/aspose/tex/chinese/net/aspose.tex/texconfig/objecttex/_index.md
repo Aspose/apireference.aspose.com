@@ -1,14 +1,14 @@
 ---
 title: ObjectTeX
 second_title: Aspose.TeX for .NET API 参考
-description: 获取预先加载了提供的格式的 ObjectTeX 引擎扩展的配置
+description: 获取预加载提供的格式的 ObjectTeX 引擎扩展的配置
 type: docs
 weight: 30
 url: /zh/net/aspose.tex/texconfig/objecttex/
 ---
 ## TeXConfig.ObjectTeX method
 
-获取预先加载了提供的格式的 ObjectTeX 引擎扩展的配置。
+获取预加载提供的格式的 ObjectTeX 引擎扩展的配置。
 
 ```csharp
 public static TeXConfig ObjectTeX(FormatProvider formatProvider = null)
@@ -16,11 +16,11 @@ public static TeXConfig ObjectTeX(FormatProvider formatProvider = null)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| formatProvider | FormatProvider | 格式提供程序。 如果保留为 null，则将加载默认的 ObjectTeX 格式（本质上是 Plain TeX）。 |
+| formatProvider | FormatProvider | 格式 provider. 如果保留为 null，则将加载默认的 ObjectTeX 格式（本质上是 Plain TeX）。 |
 
 ### 返回值
 
-"ObjectTeX engine extension with provided format preloaded" 配置。
+“ObjectTeX 引擎扩展，预加载了提供的格式”配置。
 
 ### 也可以看看
 

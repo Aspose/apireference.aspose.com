@@ -3,7 +3,7 @@ title: IFragmentRasterizer
 second_title: Aspose.TeX for .NET API 参考
 description: 允许光栅化 TeX 片段的接口
 type: docs
-weight: 250
+weight: 270
 url: /zh/net/aspose.tex.presentation/ifragmentrasterizer/
 ---
 ## IFragmentRasterizer interface

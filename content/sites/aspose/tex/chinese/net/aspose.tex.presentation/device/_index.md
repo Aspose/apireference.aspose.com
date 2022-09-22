@@ -1,14 +1,14 @@
 ---
 title: Device
 second_title: Aspose.TeX for .NET API 参考
-description: 实现了将文本和图形内容 输出到抽象设备的接口渲染是逐页执行的
+description: 实现将文本和图形内容 输出到抽象设备的接口渲染是逐页执行的
 type: docs
-weight: 230
+weight: 250
 url: /zh/net/aspose.tex.presentation/device/
 ---
 ## Device class
 
-实现了将文本和图形内容 输出到抽象设备的接口。渲染是逐页执行的。
+实现将文本和图形内容 输出到抽象设备的接口。渲染是逐页执行的。
 
 ```csharp
 public abstract class Device
@@ -29,7 +29,7 @@ public abstract class Device
 | virtual [FillOpacity](../../aspose.tex.presentation/device/fillopacity) { get; set; } | 获取/设置当前填充不透明度。 |
 | abstract [IsReady](../../aspose.tex.presentation/device/isready) { get; } | 显示设备是否准备好输出。 |
 | abstract [PageCount](../../aspose.tex.presentation/device/pagecount) { get; } | 获取页数。 |
-| virtual [Stroke](../../aspose.tex.presentation/device/stroke) { get; set; } | 获取/设置当前笔划。 |
+| virtual [Stroke](../../aspose.tex.presentation/device/stroke) { get; set; } | 获取/设置当前笔画。 |
 | virtual [StrokeOpacity](../../aspose.tex.presentation/device/strokeopacity) { get; set; } | 获取/设置当前笔画不透明度。 |
 
 ## 方法
@@ -42,7 +42,7 @@ public abstract class Device
 | abstract [DrawPath](../../aspose.tex.presentation/device/drawpath)(GraphicsPath) | 绘制路径。 |
 | abstract [DrawString](../../aspose.tex.presentation/device/drawstring)(string, float, float, List&lt;GlyphData&gt;) | 绘制一个文本字符串。 |
 | abstract [EndDocument](../../aspose.tex.presentation/device/enddocument)() | 完成整个文档。 |
-| abstract [EndPage](../../aspose.tex.presentation/device/endpage)() | 结束一页。 |
+| abstract [EndPage](../../aspose.tex.presentation/device/endpage)() | 完成一个页面。 |
 | abstract [FillPath](../../aspose.tex.presentation/device/fillpath)(GraphicsPath) | 填充路径。 |
 | abstract [Init](../../aspose.tex.presentation/device/init)() | 初始化设备。 |
 | abstract [SetClip](../../aspose.tex.presentation/device/setclip)(GraphicsPath) | 设置当前剪辑路径。 |

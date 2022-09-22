@@ -1,14 +1,14 @@
 ---
 title: PdfEncryptionDetails
 second_title: Справочник по API Aspose.TeX для .NET
-description: Инициализирует новый экземпляр классаPdfEncryptionDetailsCore.
+description: Инициализирует новый экземплярPdfEncryptionDetailsCore класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.tex.presentation.pdf/pdfencryptiondetails/pdfencryptiondetails/
 ---
 ## PdfEncryptionDetails constructor
 
-Инициализирует новый экземпляр классаPdfEncryptionDetailsCore.
+Инициализирует новый экземплярPdfEncryptionDetailsCore класс.
 
 ```csharp
 public PdfEncryptionDetails(string userPassword, string ownerPassword, int permissions, 

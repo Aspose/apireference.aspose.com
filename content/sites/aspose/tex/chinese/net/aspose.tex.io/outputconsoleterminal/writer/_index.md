@@ -1,14 +1,14 @@
 ---
 title: Writer
 second_title: Aspose.TeX for .NET API 参考
-description: 获取控制台作为终端输出目标
+description: 获取控制台作为终端输出目的地
 type: docs
 weight: 20
 url: /zh/net/aspose.tex.io/outputconsoleterminal/writer/
 ---
 ## OutputConsoleTerminal.Writer property
 
-获取控制台作为终端输出目标。
+获取控制台作为终端输出目的地。
 
 ```csharp
 public TextWriter Writer { get; }

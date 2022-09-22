@@ -18,7 +18,7 @@ public interface IOutputTerminal
 
 | Имя | Описание |
 | --- | --- |
-| [Writer](../../aspose.tex.io/ioutputterminal/writer) { get; } | Получает модуль записи для выходного терминала. |
+| [Writer](../../aspose.tex.io/ioutputterminal/writer) { get; } | Получает средство записи для выходного терминала. |
 
 ### Смотрите также
 

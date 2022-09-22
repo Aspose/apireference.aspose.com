@@ -3,7 +3,7 @@ title: InterpolationMode
 second_title: Aspose.TeX for .NET API 参考
 description: 获取/设置插值模式
 type: docs
-weight: 20
+weight: 30
 url: /zh/net/aspose.tex.presentation.image/imagesaveoptions/interpolationmode/
 ---
 ## ImageSaveOptions.InterpolationMode property

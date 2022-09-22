@@ -1,14 +1,14 @@
 ---
 title: IInputTerminal
 second_title: Aspose.TeX for .NET API 参考
-description: 抽象输入终端的接口
+description: 抽象输入终端接口
 type: docs
 weight: 90
 url: /zh/net/aspose.tex.io/iinputterminal/
 ---
 ## IInputTerminal interface
 
-抽象输入终端的接口。
+抽象输入终端接口。
 
 ```csharp
 public interface IInputTerminal

@@ -3,7 +3,7 @@ title: PdfImageCompression
 second_title: Aspose.TeX for .NET API 参考
 description: 指定应用于 PDF 文件中图像的压缩类型
 type: docs
-weight: 360
+weight: 380
 url: /zh/net/aspose.tex.presentation.pdf/pdfimagecompression/
 ---
 ## PdfImageCompression enumeration
@@ -22,9 +22,9 @@ public enum PdfImageCompression
 | None | `1` | 保存原始图像字节导致更大的 PDF 文件大小。 |
 | Rle | `2` | 运行长度压缩。 |
 | Flate | `3` | 扁平压缩。 |
-| LzwBaselinePredictor | `4` | 预测器选择仅限于 PNG Paeth 预测器以加快处理速度。在实践中 的表现出奇的好。比LzwOptimizedPredictor更好。 |
-| LzwOptimizedPredictor | `5` | 预测器选择更复杂，应该会导致更小的图像尺寸，但 需要更多时间。 |
-| Jpeg | `6` | JPEG 压缩。 不支持透明。 |
+| LzwBaselinePredictor | `4` | 预测器选择仅限于 PNG Paeth 预测器以加快处理速度。在实践中 的表现出奇的好。优于LzwOptimizedPredictor. |
+| LzwOptimizedPredictor | `5` | 预测器选择更复杂，应该会导致更小的图像尺寸但 需要更多时间。 |
+| Jpeg | `6` | JPEG 压缩。 不支持透明度。 |
 
 ### 也可以看看
 

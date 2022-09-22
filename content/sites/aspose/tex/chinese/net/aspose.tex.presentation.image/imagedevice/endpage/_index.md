@@ -1,14 +1,14 @@
 ---
 title: EndPage
 second_title: Aspose.TeX for .NET API 参考
-description: 结束一页
+description: 完成一个页面
 type: docs
 weight: 160
 url: /zh/net/aspose.tex.presentation.image/imagedevice/endpage/
 ---
 ## ImageDevice.EndPage method
 
-结束一页。
+完成一个页面。
 
 ```csharp
 public override void EndPage()

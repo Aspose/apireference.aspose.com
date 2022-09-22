@@ -1,14 +1,14 @@
 ---
 title: OutputFileTerminal
 second_title: Aspose.TeX for .NET API 参考
-description: 实现一个终端其输出将被写入某个工作目录中的文件
+description: 实现一个终端其输出将写入某个工作目录中的文件
 type: docs
-weight: 180
+weight: 190
 url: /zh/net/aspose.tex.io/outputfileterminal/
 ---
 ## OutputFileTerminal class
 
-实现一个终端，其输出将被写入某个工作目录中的文件。
+实现一个终端，其输出将写入某个工作目录中的文件。
 
 ```csharp
 public class OutputFileTerminal : IFileTerminal, IOutputTerminal

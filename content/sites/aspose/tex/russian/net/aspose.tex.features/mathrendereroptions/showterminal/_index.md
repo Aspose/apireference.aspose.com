@@ -1,14 +1,14 @@
 ---
 title: ShowTerminal
 second_title: Справочник по API Aspose.TeX для .NET
-description: Флаг управляющий выводом терминала. Если тогда вывод терминала записывается в консоль.
+description: Флаг управляющий выводом терминала. Если затем вывод терминала записывается в console.
 type: docs
 weight: 70
 url: /ru/net/aspose.tex.features/mathrendereroptions/showterminal/
 ---
 ## MathRendererOptions.ShowTerminal property
 
-Флаг, управляющий выводом терминала. Если тогда вывод терминала записывается в консоль.
+Флаг, управляющий выводом терминала. Если затем вывод терминала записывается в console.
 
 ```csharp
 true

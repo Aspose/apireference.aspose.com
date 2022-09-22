@@ -1,14 +1,14 @@
 ---
 title: PngSaveOptions
 second_title: Справочник по API Aspose.TeX для .NET
-description: Класс представляющий варианты сохранения в изображение PNG.
+description: Класс представляющий варианты сохранения изображения в формате PNG.
 type: docs
-weight: 310
+weight: 330
 url: /ru/net/aspose.tex.presentation.image/pngsaveoptions/
 ---
 ## PngSaveOptions class
 
-Класс, представляющий варианты сохранения в изображение PNG.
+Класс, представляющий варианты сохранения изображения в формате PNG.
 
 ```csharp
 public class PngSaveOptions : ImageSaveOptions
@@ -24,13 +24,14 @@ public class PngSaveOptions : ImageSaveOptions
 
 | Имя | Описание |
 | --- | --- |
+| [DeviceWritesImages](../../aspose.tex.presentation.image/imagesaveoptions/devicewritesimages) { get; set; } | Получает/устанавливает флаг, который определяет, будет ли устройство изображения записывать выходные изображения. Установите для него значение если вы планируете записывать образы, используя свойство image device Result. |
 | [InterpolationMode](../../aspose.tex.presentation.image/imagesaveoptions/interpolationmode) { get; set; } | Получает/устанавливает режим интерполяции. |
 | [PageNumbers](../../aspose.tex.presentation.image/imagesaveoptions/pagenumbers) { get; set; } | Получает/задает массив номеров страниц для преобразования. |
-| [RasterizeFormulas](../../aspose.tex.presentation/saveoptions/rasterizeformulas) { get; set; } | Получает/устанавливает флаг, позволяющий растрировать математические формулы. |
-| [RasterizeIncludedGraphics](../../aspose.tex.presentation/saveoptions/rasterizeincludedgraphics) { get; set; } | Возвращает/устанавливает флаг, позволяющий растрировать включенную графику PS/EPS и/или XPS/OXPS. |
+| [RasterizeFormulas](../../aspose.tex.presentation/saveoptions/rasterizeformulas) { get; set; } | Получает/устанавливает флаг, позволяющий растеризовать математические формулы. |
+| [RasterizeIncludedGraphics](../../aspose.tex.presentation/saveoptions/rasterizeincludedgraphics) { get; set; } | Получает/устанавливает флаг, позволяющий растеризовать включенную графику PS/EPS и/или XPS/OXPS. |
 | [Resolution](../../aspose.tex.presentation.image/imagesaveoptions/resolution) { get; set; } | Получает/устанавливает разрешение изображения. |
 | [SmoothingMode](../../aspose.tex.presentation.image/imagesaveoptions/smoothingmode) { get; set; } | Получает/устанавливает режим сглаживания. |
-| [SubsetFonts](../../aspose.tex.presentation/saveoptions/subsetfonts) { get; set; } | Получает/устанавливает флаг, указывающий, следует ли подмножать шрифты в выходном файле или нет. |
+| [SubsetFonts](../../aspose.tex.presentation/saveoptions/subsetfonts) { get; set; } | Получает/устанавливает флаг, указывающий, следует ли поднабор шрифтов в выходном файле или нет. |
 
 ### Смотрите также
 

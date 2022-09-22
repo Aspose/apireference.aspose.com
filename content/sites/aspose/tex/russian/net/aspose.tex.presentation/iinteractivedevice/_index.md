@@ -3,7 +3,7 @@ title: IInteractiveDevice
 second_title: Справочник по API Aspose.TeX для .NET
 description: Интерфейс определяющий методы обработки интерактивных признаков.
 type: docs
-weight: 260
+weight: 280
 url: /ru/net/aspose.tex.presentation/iinteractivedevice/
 ---
 ## IInteractiveDevice interface
@@ -18,7 +18,7 @@ public interface IInteractiveDevice
 
 | Имя | Описание |
 | --- | --- |
-| [AddBookmark](../../aspose.tex.presentation/iinteractivedevice/addbookmark)(string, PointF) | Добавляет закладку, идентифицированную по имени. |
+| [AddBookmark](../../aspose.tex.presentation/iinteractivedevice/addbookmark)(string, PointF) | Добавляет закладку, идентифицированную именем. |
 
 ### Смотрите также
 

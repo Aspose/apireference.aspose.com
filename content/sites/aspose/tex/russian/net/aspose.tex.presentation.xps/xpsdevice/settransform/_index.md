@@ -16,7 +16,7 @@ public override void SetTransform(Matrix matrix)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| matrix | Matrix | Матрица трансформации. |
+| matrix | Matrix | Матрица преобразования. |
 
 ### Смотрите также
 

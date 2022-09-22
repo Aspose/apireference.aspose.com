@@ -1,14 +1,14 @@
 ---
 title: FormatProvider
 second_title: Справочник по API Aspose.TeX для .NET
-description: Класс обеспечивающий формат TeX.
+description: Класс предоставляющий формат TeX.
 type: docs
-weight: 440
+weight: 460
 url: /ru/net/aspose.tex.resourceproviders/formatprovider/
 ---
 ## FormatProvider class
 
-Класс, обеспечивающий формат TeX.
+Класс, предоставляющий формат TeX.
 
 ```csharp
 public class FormatProvider : IDisposable
@@ -24,7 +24,7 @@ public class FormatProvider : IDisposable
 
 | Имя | Описание |
 | --- | --- |
-| static [ObjectLaTeX](../../aspose.tex.resourceproviders/formatprovider/objectlatex) { get; } | Поставщик формата LaTeX для расширения движка ObjectTeX. |
+| static [ObjectLaTeX](../../aspose.tex.resourceproviders/formatprovider/objectlatex) { get; } | Поставщик формата LaTeX для расширения механизма ObjectTeX. |
 | static [ObjectTeX](../../aspose.tex.resourceproviders/formatprovider/objecttex) { get; } | Поставщик формата по умолчанию для расширения механизма ObjectTeX. |
 
 ## Методы

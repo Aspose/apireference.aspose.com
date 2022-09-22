@@ -3,7 +3,7 @@ title: SvgSaveOptions
 second_title: Aspose.TeX for .NET API 参考
 description: 表示保存到 SVG 的选项的类
 type: docs
-weight: 410
+weight: 430
 url: /zh/net/aspose.tex.presentation.svg/svgsaveoptions/
 ---
 ## SvgSaveOptions class

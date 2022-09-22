@@ -3,7 +3,7 @@ title: Resolution
 second_title: Справочник по API Aspose.TeX для .NET
 description: Получает/устанавливает разрешение изображения.
 type: docs
-weight: 40
+weight: 50
 url: /ru/net/aspose.tex.presentation.image/imagesaveoptions/resolution/
 ---
 ## ImageSaveOptions.Resolution property

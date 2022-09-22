@@ -3,7 +3,7 @@ title: OutputZipDirectory
 second_title: Aspose.TeX for .NET API 参考
 description: 当工作目录是 ZIP 存档时实现获取要写入的文件流的方法
 type: docs
-weight: 200
+weight: 210
 url: /zh/net/aspose.tex.io/outputzipdirectory/
 ---
 ## OutputZipDirectory class
@@ -24,7 +24,7 @@ public class OutputZipDirectory : IOutputWorkingDirectory
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Dispose](../../aspose.tex.io/outputzipdirectory/dispose)() | 处置实例。 |
+| [Dispose](../../aspose.tex.io/outputzipdirectory/dispose)() | 处理实例。 |
 | [Finish](../../aspose.tex.io/outputzipdirectory/finish)() | 完成 ZIP 存档。 |
 | [GetFile](../../aspose.tex.io/outputzipdirectory/getfile)(string, out string, bool) | 返回要读取的流。 |
 | [GetOutputFile](../../aspose.tex.io/outputzipdirectory/getoutputfile)(string, out string) | 返回要写入的流。 |

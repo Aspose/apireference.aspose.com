@@ -1,14 +1,14 @@
 ---
 title: Interaction
 second_title: Справочник по API Aspose.TeX для .NET
-description: Получает/устанавливает режим взаимодействия для запуска механизма TeX.
+description: Получает/устанавливает режим взаимодействия для запуска механизма TeX в.
 type: docs
 weight: 50
 url: /ru/net/aspose.tex/texoptions/interaction/
 ---
 ## TeXOptions.Interaction property
 
-Получает/устанавливает режим взаимодействия для запуска механизма TeX.
+Получает/устанавливает режим взаимодействия для запуска механизма TeX в.
 
 ```csharp
 public Interaction Interaction { get; set; }

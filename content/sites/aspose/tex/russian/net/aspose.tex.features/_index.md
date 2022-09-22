@@ -1,21 +1,21 @@
 ---
 title: Aspose.TeX.Features
 second_title: Справочник по API Aspose.TeX для .NET
-description: Пространство имен Aspose.TeX.Features предоставляет дополнительные возможности TeXLaTeX.
+description: Aspose.TeX.Особенности namespace предоставляет дополнительные возможности TeXLaTeX.
 type: docs
 weight: 20
 url: /ru/net/aspose.tex.features/
 ---
-Пространство имен **Aspose.TeX.Features** предоставляет дополнительные возможности TeX(LaTeX).
+**Aspose.TeX.Особенности** namespace предоставляет дополнительные возможности TeX(LaTeX).
 
 ## Классы
 
 | Учебный класс | Описание |
 | --- | --- |
-| [MathRenderer](./mathrenderer) | Реализует отображение математической формулы. |
-| [MathRendererOptions](./mathrendereroptions) | Общие параметры рендеринга математических формул. |
+| [MathRenderer](./mathrenderer) | Реализует рендеринг математической формулы. |
+| [MathRendererOptions](./mathrendereroptions) | Общие параметры рендеринга математической формулы. |
 | [PngMathRenderer](./pngmathrenderer) | Реализует рендеринг математической формулы в PNG. |
-| [PngMathRendererOptions](./pngmathrendereroptions) | Математическая формула Опции рендеринга PNG. |
+| [PngMathRendererOptions](./pngmathrendereroptions) | Математическая формула Варианты рендеринга PNG. |
 | [SvgMathRenderer](./svgmathrenderer) | Реализует рендеринг математической формулы в SVG. |
 | [SvgMathRendererOptions](./svgmathrendereroptions) | Математическая формула Параметры рендеринга SVG. |
 

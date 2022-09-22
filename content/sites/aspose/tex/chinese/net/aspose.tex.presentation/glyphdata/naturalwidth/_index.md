@@ -1,14 +1,14 @@
 ---
 title: NaturalWidth
 second_title: Aspose.TeX for .NET API 参考
-description: 获取/设置字体定义的字形宽度
+description: 获取/设置由字体定义的字形宽度
 type: docs
 weight: 30
 url: /zh/net/aspose.tex.presentation/glyphdata/naturalwidth/
 ---
 ## GlyphData.NaturalWidth property
 
-获取/设置字体定义的字形宽度。
+获取/设置由字体定义的字形宽度。
 
 ```csharp
 public float NaturalWidth { get; set; }

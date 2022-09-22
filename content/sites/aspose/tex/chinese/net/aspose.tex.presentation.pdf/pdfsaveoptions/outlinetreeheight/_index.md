@@ -1,7 +1,7 @@
 ---
 title: OutlineTreeHeight
 second_title: Aspose.TeX for .NET API 参考
-description: 指定要保存的文档大纲树的高度 0 - 不转换大纲树 1 - 只转换第一级大纲项 以此类推
+description: 指定要保存的文档大纲树的高度 0  不转换大纲树 1  只转换第一级大纲项 以此类推
 type: docs
 weight: 60
 url: /zh/net/aspose.tex.presentation.pdf/pdfsaveoptions/outlinetreeheight/

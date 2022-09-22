@@ -1,14 +1,14 @@
 ---
 title: IOutputWorkingDirectory
 second_title: Справочник по API Aspose.TeX для .NET
-description: Интерфейс обобщенного выходного рабочего каталога.
+description: Интерфейс рабочего каталога обобщенного вывода.
 type: docs
 weight: 120
 url: /ru/net/aspose.tex.io/ioutputworkingdirectory/
 ---
 ## IOutputWorkingDirectory interface
 
-Интерфейс обобщенного выходного рабочего каталога.
+Интерфейс рабочего каталога обобщенного вывода.
 
 ```csharp
 public interface IOutputWorkingDirectory : IInputWorkingDirectory

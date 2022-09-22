@@ -1,14 +1,14 @@
 ---
 title: Render
 second_title: Aspose.TeX for .NET API 参考
-description: 呈现数学公式
+description: 呈现一个数学公式
 type: docs
 weight: 20
 url: /zh/net/aspose.tex.features/mathrenderer/render/
 ---
 ## MathRenderer.Render method
 
-呈现数学公式。
+呈现一个数学公式。
 
 ```csharp
 public void Render(string formula, Stream stream, MathRendererOptions mathRendererOptions, 

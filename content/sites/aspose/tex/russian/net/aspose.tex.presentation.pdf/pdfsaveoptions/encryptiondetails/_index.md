@@ -1,14 +1,14 @@
 ---
 title: EncryptionDetails
 second_title: Справочник по API Aspose.TeX для .NET
-description: Получает или задает данные шифрования. Если не установлено то шифрование выполняться не будет.
+description: Получает или задает сведения о шифровании. Если не установлено то шифрование выполняться не будет.
 type: docs
 weight: 20
 url: /ru/net/aspose.tex.presentation.pdf/pdfsaveoptions/encryptiondetails/
 ---
 ## PdfSaveOptions.EncryptionDetails property
 
-Получает или задает данные шифрования. Если не установлено, то шифрование выполняться не будет.
+Получает или задает сведения о шифровании. Если не установлено, то шифрование выполняться не будет.
 
 ```csharp
 public PdfEncryptionDetails EncryptionDetails { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: EndFragment
 second_title: Справочник по API Aspose.TeX для .NET
-description: Завершает фрагмент для растеризации.
+description: Завершает фрагмент для растрирования.
 type: docs
 weight: 160
 url: /ru/net/aspose.tex.presentation.svg/svgdevice/endfragment/
 ---
 ## SvgDevice.EndFragment method
 
-Завершает фрагмент для растеризации.
+Завершает фрагмент для растрирования.
 
 ```csharp
 public void EndFragment()

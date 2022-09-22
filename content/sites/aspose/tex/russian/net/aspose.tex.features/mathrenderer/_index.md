@@ -1,14 +1,14 @@
 ---
 title: MathRenderer
 second_title: Справочник по API Aspose.TeX для .NET
-description: Реализует отображение математической формулы.
+description: Реализует рендеринг математической формулы.
 type: docs
 weight: 20
 url: /ru/net/aspose.tex.features/mathrenderer/
 ---
 ## MathRenderer class
 
-Реализует отображение математической формулы.
+Реализует рендеринг математической формулы.
 
 ```csharp
 public abstract class MathRenderer
@@ -24,7 +24,7 @@ public abstract class MathRenderer
 
 | Имя | Описание |
 | --- | --- |
-| [Render](../../aspose.tex.features/mathrenderer/render)(string, Stream, MathRendererOptions, out SizeF) | Выводит математическую формулу. |
+| [Render](../../aspose.tex.features/mathrenderer/render)(string, Stream, MathRendererOptions, out SizeF) | Визуализирует математическую формулу. |
 
 ### Смотрите также
 

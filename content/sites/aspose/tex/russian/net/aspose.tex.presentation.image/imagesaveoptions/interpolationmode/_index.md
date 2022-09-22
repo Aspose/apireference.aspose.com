@@ -3,7 +3,7 @@ title: InterpolationMode
 second_title: Справочник по API Aspose.TeX для .NET
 description: Получает/устанавливает режим интерполяции.
 type: docs
-weight: 20
+weight: 30
 url: /ru/net/aspose.tex.presentation.image/imagesaveoptions/interpolationmode/
 ---
 ## ImageSaveOptions.InterpolationMode property

@@ -3,7 +3,7 @@ title: IInteractiveDevice
 second_title: Aspose.TeX for .NET API 参考
 description: 定义交互特征处理方法的接口
 type: docs
-weight: 260
+weight: 280
 url: /zh/net/aspose.tex.presentation/iinteractivedevice/
 ---
 ## IInteractiveDevice interface

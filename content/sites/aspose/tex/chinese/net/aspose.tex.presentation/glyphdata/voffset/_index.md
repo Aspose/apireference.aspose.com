@@ -1,14 +1,14 @@
 ---
 title: VOffset
 second_title: Aspose.TeX for .NET API 参考
-description: 获取/设置垂直偏移
+description: 获取/设置垂直偏移量
 type: docs
 weight: 50
 url: /zh/net/aspose.tex.presentation/glyphdata/voffset/
 ---
 ## GlyphData.VOffset property
 
-获取/设置垂直偏移。
+获取/设置垂直偏移量。
 
 ```csharp
 public float VOffset { get; set; }

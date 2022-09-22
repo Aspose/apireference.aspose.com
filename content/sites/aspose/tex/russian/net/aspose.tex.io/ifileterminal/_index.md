@@ -1,14 +1,14 @@
 ---
 title: IFileTerminal
 second_title: Справочник по API Aspose.TeX для .NET
-description: Интерфейс терминалов которые собственно и являются файлами.
+description: Интерфейс терминалов которые на самом деле являются файлами.
 type: docs
 weight: 80
 url: /ru/net/aspose.tex.io/ifileterminal/
 ---
 ## IFileTerminal interface
 
-Интерфейс терминалов, которые собственно и являются файлами.
+Интерфейс терминалов, которые на самом деле являются файлами.
 
 ```csharp
 public interface IFileTerminal

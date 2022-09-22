@@ -3,7 +3,7 @@ title: PageNumbers
 second_title: Aspose.TeX for .NET API 参考
 description: 获取/设置要转换的页数数组
 type: docs
-weight: 30
+weight: 40
 url: /zh/net/aspose.tex.presentation.image/imagesaveoptions/pagenumbers/
 ---
 ## ImageSaveOptions.PageNumbers property

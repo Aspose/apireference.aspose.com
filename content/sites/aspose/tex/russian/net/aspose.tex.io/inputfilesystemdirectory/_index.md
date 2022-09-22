@@ -1,14 +1,14 @@
 ---
 title: InputFileSystemDirectory
 second_title: Справочник по API Aspose.TeX для .NET
-description: Реализует метод обычной файловой системы для получения файлового потока для чтения.
+description: Реализует обычный метод файловой системы для чтения файлового потока.
 type: docs
 weight: 140
 url: /ru/net/aspose.tex.io/inputfilesystemdirectory/
 ---
 ## InputFileSystemDirectory class
 
-Реализует метод обычной файловой системы для получения файлового потока для чтения.
+Реализует обычный метод файловой системы для чтения файлового потока.
 
 ```csharp
 public class InputFileSystemDirectory : IInputWorkingDirectory

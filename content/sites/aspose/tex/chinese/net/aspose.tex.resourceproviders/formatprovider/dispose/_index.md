@@ -1,14 +1,14 @@
 ---
 title: Dispose
 second_title: Aspose.TeX for .NET API 参考
-description: 处置实例
+description: 处理实例
 type: docs
 weight: 40
 url: /zh/net/aspose.tex.resourceproviders/formatprovider/dispose/
 ---
 ## FormatProvider.Dispose method
 
-处置实例。
+处理实例。
 
 ```csharp
 public void Dispose()

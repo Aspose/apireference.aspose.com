@@ -24,7 +24,7 @@ public sealed class PngMathRenderer : MathRenderer
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Render](../../aspose.tex.features/mathrenderer/render)(string, Stream, MathRendererOptions, out SizeF) | 呈现数学公式。 |
+| [Render](../../aspose.tex.features/mathrenderer/render)(string, Stream, MathRendererOptions, out SizeF) | 呈现一个数学公式。 |
 
 ### 也可以看看
 

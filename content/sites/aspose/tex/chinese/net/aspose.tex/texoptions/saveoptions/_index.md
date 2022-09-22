@@ -1,14 +1,14 @@
 ---
 title: SaveOptions
 second_title: Aspose.TeX for .NET API 参考
-description: 获取/设置用于渲染为目标格式XPSPDF图像等的选项 默认值是渲染到 XPS 的一组默认选项
+description: 获取/设置用于呈现为目标格式XPSPDF图像等的选项 默认值是用于呈现为 XPS 的一组默认选项
 type: docs
 weight: 110
 url: /zh/net/aspose.tex/texoptions/saveoptions/
 ---
 ## TeXOptions.SaveOptions property
 
-获取/设置用于渲染为目标格式（XPS、PDF、图像等）的选项。 默认值是渲染到 XPS 的一组默认选项。
+获取/设置用于呈现为目标格式（XPS、PDF、图像等）的选项。 默认值是用于呈现为 XPS 的一组默认选项。
 
 ```csharp
 public SaveOptions SaveOptions { get; set; }

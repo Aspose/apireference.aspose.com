@@ -1,14 +1,14 @@
 ---
 title: Stroke
 second_title: Aspose.TeX for .NET API 参考
-description: 获取/设置当前笔划
+description: 获取/设置当前笔画
 type: docs
 weight: 70
 url: /zh/net/aspose.tex.presentation/device/stroke/
 ---
 ## Device.Stroke property
 
-获取/设置当前笔划。
+获取/设置当前笔画。
 
 ```csharp
 public virtual Pen Stroke { get; set; }

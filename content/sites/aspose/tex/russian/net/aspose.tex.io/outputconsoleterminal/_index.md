@@ -1,14 +1,14 @@
 ---
 title: OutputConsoleTerminal
 second_title: Справочник по API Aspose.TeX для .NET
-description: Предоставляет консоль в качестве места назначения вывода терминала. Оболочка дляOut.
+description: Предоставляет консоль в качестве места назначения вывода терминала. Обертка дляOut .
 type: docs
-weight: 160
+weight: 170
 url: /ru/net/aspose.tex.io/outputconsoleterminal/
 ---
 ## OutputConsoleTerminal class
 
-Предоставляет консоль в качестве места назначения вывода терминала. Оболочка дляOut.
+Предоставляет консоль в качестве места назначения вывода терминала. Обертка дляOut .
 
 ```csharp
 public class OutputConsoleTerminal : IOutputTerminal

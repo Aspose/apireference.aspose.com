@@ -1,14 +1,14 @@
 ---
 title: ObjectLaTeX
 second_title: Справочник по API Aspose.TeX для .NET
-description: Поставщик формата LaTeX для расширения движка ObjectTeX.
+description: Поставщик формата LaTeX для расширения механизма ObjectTeX.
 type: docs
 weight: 20
 url: /ru/net/aspose.tex.resourceproviders/formatprovider/objectlatex/
 ---
 ## FormatProvider.ObjectLaTeX property
 
-Поставщик формата LaTeX для расширения движка ObjectTeX.
+Поставщик формата LaTeX для расширения механизма ObjectTeX.
 
 ```csharp
 public static FormatProvider ObjectLaTeX { get; }

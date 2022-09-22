@@ -3,7 +3,7 @@ title: TeXExtension
 second_title: Справочник по API Aspose.TeX для .NET
 description: Класс определяющий константы для выбора расширения движка TeX.
 type: docs
-weight: 460
+weight: 480
 url: /ru/net/aspose.tex/texextension/
 ---
 ## TeXExtension class

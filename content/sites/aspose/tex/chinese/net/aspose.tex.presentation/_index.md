@@ -1,18 +1,18 @@
 ---
 title: Aspose.TeX.Presentation
 second_title: Aspose.TeX for .NET API 参考
-description: Aspose.TeX.Presentation 命名空间提供了用于将 TeX 文件排版为其他格式的通用类
+description: 的 Aspose.TeX.Presentation命名空间提供用于将 TeX 文件排版为其他格式的通用类
 type: docs
 weight: 40
 url: /zh/net/aspose.tex.presentation/
 ---
-**Aspose.TeX.Presentation** 命名空间提供了用于将 TeX 文件排版为其他格式的通用类。
+的 **Aspose.TeX.Presentation**命名空间提供用于将 TeX 文件排版为其他格式的通用类。
 
 ## 课程
 
 | 班级 | 描述 |
 | --- | --- |
-| [Device](./device) | 实现了将文本和图形内容 输出到抽象设备的接口。渲染是逐页执行的。 |
+| [Device](./device) | 实现将文本和图形内容 输出到抽象设备的接口。渲染是逐页执行的。 |
 | [GlyphData](./glyphdata) | 用于精确排版文本字符串所需的字形数据的容器类。 |
 | [SaveOptions](./saveoptions) | 文档保存选项的基本类。 |
 ## 接口

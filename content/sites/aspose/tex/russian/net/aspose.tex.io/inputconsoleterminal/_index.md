@@ -1,14 +1,14 @@
 ---
 title: InputConsoleTerminal
 second_title: Справочник по API Aspose.TeX для .NET
-description: Предоставляет консоль в качестве источника ввода терминала. Оболочка дляIn.
+description: Предоставляет консоль в качестве источника ввода терминала. Обертка дляIn .
 type: docs
 weight: 130
 url: /ru/net/aspose.tex.io/inputconsoleterminal/
 ---
 ## InputConsoleTerminal class
 
-Предоставляет консоль в качестве источника ввода терминала. Оболочка дляIn.
+Предоставляет консоль в качестве источника ввода терминала. Обертка дляIn .
 
 ```csharp
 public class InputConsoleTerminal : IInputTerminal
