@@ -1,14 +1,14 @@
 ---
 title: InvestmentOpenOrderList
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инвестиционный класс списка открытых ордеров.
+description: Класс списка открытых инвестиционных ордеров.
 type: docs
 weight: 3030
 url: /ru/net/aspose.finance.ofx.investment/investmentopenorderlist/
 ---
 ## InvestmentOpenOrderList class
 
-Инвестиционный класс списка открытых ордеров.
+Класс списка открытых инвестиционных ордеров.
 
 ```csharp
 public class InvestmentOpenOrderList
@@ -18,13 +18,13 @@ public class InvestmentOpenOrderList
 
 | Имя | Описание |
 | --- | --- |
-| [InvestmentOpenOrderList](investmentopenorderlist)() | Инициализирует новый экземпляр класса[`InvestmentOpenOrderList`](../investmentopenorderlist). |
+| [InvestmentOpenOrderList](investmentopenorderlist)() | Инициализирует новый экземпляр[`InvestmentOpenOrderList`](../investmentopenorderlist) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [OpenOrders](../../aspose.finance.ofx.investment/investmentopenorderlist/openorders) { get; set; } | Получает или задает коллекцию[`OpenOrderBuyDebt`](../openorderbuydebt)или[`OpenOrderBuyMutualFund`](../openorderbuymutualfund)или[`OpenOrderBuyOption`](../openorderbuyoption) или[`OpenOrderBuyOther`](../openorderbuyother)или[`OpenOrderBuyStock`](../openorderbuystock)или[`OpenOrderSellDebt`](../openorderselldebt) или[`OpenOrderSellMutualFund`](../openordersellmutualfund)или[`OpenOrderSellOption`](../openorderselloption)или[`OpenOrderSellOther`](../openordersellother) или[`OpenOrderSellStock`](../openordersellstock)или[`OpenOrderSwitchMutualFund`](../openorderswitchmutualfund). |
+| [OpenOrders](../../aspose.finance.ofx.investment/investmentopenorderlist/openorders) { get; set; } | Получает или задает коллекцию[`OpenOrderBuyDebt`](../openorderbuydebt) или же[`OpenOrderBuyMutualFund`](../openorderbuymutualfund) или же[`OpenOrderBuyOption`](../openorderbuyoption) или[`OpenOrderBuyOther`](../openorderbuyother) или же[`OpenOrderBuyStock`](../openorderbuystock) или же[`OpenOrderSellDebt`](../openorderselldebt) или[`OpenOrderSellMutualFund`](../openordersellmutualfund) или же[`OpenOrderSellOption`](../openorderselloption) или же[`OpenOrderSellOther`](../openordersellother) или[`OpenOrderSellStock`](../openordersellstock) или же[`OpenOrderSwitchMutualFund`](../openorderswitchmutualfund) . |
 
 ### Смотрите также
 

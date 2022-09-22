@@ -1,14 +1,14 @@
 ---
 title: OtherVest
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает текущую стоимость всех ценных бумаг приобретенных за счет взносов другого работодателя.
+description: Получает или задает текущую стоимость всех ценных бумаг приобретенных за счет взносов других распределенных работодателей.
 type: docs
 weight: 70
 url: /ru/net/aspose.finance.ofx.investment/investment401kbalance/othervest/
 ---
 ## Investment401kBalance.OtherVest property
 
-Получает или задает текущую стоимость всех ценных бумаг, приобретенных за счет взносов другого работодателя.
+Получает или задает текущую стоимость всех ценных бумаг, приобретенных за счет взносов других (распределенных) работодателей.
 
 ```csharp
 public string OtherVest { get; set; }

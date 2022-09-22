@@ -17,7 +17,7 @@ public virtual void ReplaceData(int offset, int count, string data)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | offset | Int32 | 偏移量。 |
-| count | Int32 | 计数。 |
+| count | Int32 | 伯爵。 |
 | data | String | 内容数据。 |
 
 ### 也可以看看

@@ -1,14 +1,14 @@
 ---
 title: BankResponseMessageSetV1
 second_title: Aspose.Finance for .NET API 参考
-description: 银行响应消息设置版本 1 类
+description: 银行响应消息集版本 1 类
 type: docs
 weight: 810
 url: /zh/net/aspose.finance.ofx/bankresponsemessagesetv1/
 ---
 ## BankResponseMessageSetV1 class
 
-银行响应消息设置版本 1 类。
+银行响应消息集版本 1 类。
 
 ```csharp
 public class BankResponseMessageSetV1 : AbstractResponseMessageSet
@@ -18,22 +18,22 @@ public class BankResponseMessageSetV1 : AbstractResponseMessageSet
 
 | 姓名 | 描述 |
 | --- | --- |
-| [BankResponseMessageSetV1](bankresponsemessagesetv1)() | 初始化[`BankResponseMessageSetV1`](../bankresponsemessagesetv1)类的新实例。 |
+| [BankResponseMessageSetV1](bankresponsemessagesetv1)() | 初始化一个新的实例[`BankResponseMessageSetV1`](../bankresponsemessagesetv1)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [BankMailSyncResponses](../../aspose.finance.ofx/bankresponsemessagesetv1/bankmailsyncresponses) { get; set; } | 获取或设置[`BankMailSyncResponse`](../../aspose.finance.ofx.bank/bankmailsyncresponse)的集合。 |
-| [BankMailTransactionResponses](../../aspose.finance.ofx/bankresponsemessagesetv1/bankmailtransactionresponses) { get; set; } | 获取或设置[`BankMailTransactionResponse`](../../aspose.finance.ofx.bank/bankmailtransactionresponse)的集合。 |
-| [IntraSyncResponses](../../aspose.finance.ofx/bankresponsemessagesetv1/intrasyncresponses) { get; set; } | 获取或设置[`IntraSyncResponse`](../../aspose.finance.ofx.bank/intrasyncresponse)的集合。 |
-| [IntraTransactionResponses](../../aspose.finance.ofx/bankresponsemessagesetv1/intratransactionresponses) { get; set; } | 获取或设置[`IntraTransactionResponse`](../../aspose.finance.ofx.bank/intratransactionresponse)的集合。 |
-| [RecurringIntraSyncResponses](../../aspose.finance.ofx/bankresponsemessagesetv1/recurringintrasyncresponses) { get; set; } | 获取或设置[`RecurringIntraSyncResponse`](../../aspose.finance.ofx.bank/recurringintrasyncresponse)的集合。 |
-| [RecurringIntraTransactionResponses](../../aspose.finance.ofx/bankresponsemessagesetv1/recurringintratransactionresponses) { get; set; } | 获取或设置[`RecurringIntraTransactionResponse`](../../aspose.finance.ofx.bank/recurringintratransactionresponse)的集合。 |
-| [StatementEndTransactionResponses](../../aspose.finance.ofx/bankresponsemessagesetv1/statementendtransactionresponses) { get; set; } | 获取或设置[`StatementEndTransactionResponse`](../../aspose.finance.ofx.bank/statementendtransactionresponse)的集合。 |
-| [StatementTransactionResponses](../../aspose.finance.ofx/bankresponsemessagesetv1/statementtransactionresponses) { get; set; } | 获取或设置[`StatementTransactionResponse`](../../aspose.finance.ofx.bank/statementtransactionresponse)的集合。 |
-| [StopCheckSyncResponses](../../aspose.finance.ofx/bankresponsemessagesetv1/stopchecksyncresponses) { get; set; } | 获取或设置[`StopCheckSyncResponse`](../../aspose.finance.ofx.bank/stopchecksyncresponse)的集合。 |
-| [StopCheckTransactionResponses](../../aspose.finance.ofx/bankresponsemessagesetv1/stopchecktransactionresponses) { get; set; } | 获取或设置[`StopCheckTransactionResponse`](../../aspose.finance.ofx.bank/stopchecktransactionresponse)的集合。 |
+| [BankMailSyncResponses](../../aspose.finance.ofx/bankresponsemessagesetv1/bankmailsyncresponses) { get; set; } | 获取或设置的集合[`BankMailSyncResponse`](../../aspose.finance.ofx.bank/bankmailsyncresponse). |
+| [BankMailTransactionResponses](../../aspose.finance.ofx/bankresponsemessagesetv1/bankmailtransactionresponses) { get; set; } | 获取或设置的集合[`BankMailTransactionResponse`](../../aspose.finance.ofx.bank/bankmailtransactionresponse). |
+| [IntraSyncResponses](../../aspose.finance.ofx/bankresponsemessagesetv1/intrasyncresponses) { get; set; } | 获取或设置的集合[`IntraSyncResponse`](../../aspose.finance.ofx.bank/intrasyncresponse). |
+| [IntraTransactionResponses](../../aspose.finance.ofx/bankresponsemessagesetv1/intratransactionresponses) { get; set; } | 获取或设置的集合[`IntraTransactionResponse`](../../aspose.finance.ofx.bank/intratransactionresponse). |
+| [RecurringIntraSyncResponses](../../aspose.finance.ofx/bankresponsemessagesetv1/recurringintrasyncresponses) { get; set; } | 获取或设置的集合[`RecurringIntraSyncResponse`](../../aspose.finance.ofx.bank/recurringintrasyncresponse). |
+| [RecurringIntraTransactionResponses](../../aspose.finance.ofx/bankresponsemessagesetv1/recurringintratransactionresponses) { get; set; } | 获取或设置的集合[`RecurringIntraTransactionResponse`](../../aspose.finance.ofx.bank/recurringintratransactionresponse). |
+| [StatementEndTransactionResponses](../../aspose.finance.ofx/bankresponsemessagesetv1/statementendtransactionresponses) { get; set; } | 获取或设置的集合[`StatementEndTransactionResponse`](../../aspose.finance.ofx.bank/statementendtransactionresponse). |
+| [StatementTransactionResponses](../../aspose.finance.ofx/bankresponsemessagesetv1/statementtransactionresponses) { get; set; } | 获取或设置的集合[`StatementTransactionResponse`](../../aspose.finance.ofx.bank/statementtransactionresponse). |
+| [StopCheckSyncResponses](../../aspose.finance.ofx/bankresponsemessagesetv1/stopchecksyncresponses) { get; set; } | 获取或设置的集合[`StopCheckSyncResponse`](../../aspose.finance.ofx.bank/stopchecksyncresponse). |
+| [StopCheckTransactionResponses](../../aspose.finance.ofx/bankresponsemessagesetv1/stopchecktransactionresponses) { get; set; } | 获取或设置的集合[`StopCheckTransactionResponse`](../../aspose.finance.ofx.bank/stopchecktransactionresponse). |
 
 ### 也可以看看
 

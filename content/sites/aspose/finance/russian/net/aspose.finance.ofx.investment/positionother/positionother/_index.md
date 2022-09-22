@@ -1,14 +1,14 @@
 ---
 title: PositionOther
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаPositionOtheraspose.finance.ofx.investment/positionother.
+description: Инициализирует новый экземплярPositionOtheraspose.finance.ofx.investment/positionother класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.investment/positionother/positionother/
 ---
 ## PositionOther constructor
 
-Инициализирует новый экземпляр класса[`PositionOther`](../../positionother).
+Инициализирует новый экземпляр[`PositionOther`](../../positionother) класс.
 
 ```csharp
 public PositionOther()

@@ -1,14 +1,14 @@
 ---
 title: WireTransferResponseMessageSetV1
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置WireTransferResponseMessageSetV1aspose.finance.ofx/ofxresponsedocument/wiretransferresponsemessagesetv1
+description: 获取或设置WireTransferResponseMessageSetV1aspose.finance.ofx/ofxresponsedocument/wiretransferresponsemessagesetv1.
 type: docs
 weight: 180
 url: /zh/net/aspose.finance.ofx/ofxresponsedocument/wiretransferresponsemessagesetv1/
 ---
 ## OfxResponseDocument.WireTransferResponseMessageSetV1 property
 
-获取或设置`WireTransferResponseMessageSetV1`。
+获取或设置`WireTransferResponseMessageSetV1`.
 
 ```csharp
 public WireTransferResponseMessageSetV1 WireTransferResponseMessageSetV1 { get; set; }

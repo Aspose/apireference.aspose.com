@@ -1,14 +1,14 @@
 ---
 title: BillPaymentStatuses
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置BillPaymentStatusaspose.finance.ofx.billerdelivery/billpaymentstatus的集合
+description: 获取或设置的集合BillPaymentStatusaspose.finance.ofx.billerdelivery/billpaymentstatus.
 type: docs
 weight: 80
 url: /zh/net/aspose.finance.ofx.billerdelivery/presentmentbillinfo/billpaymentstatuses/
 ---
 ## PresentmentBillInfo.BillPaymentStatuses property
 
-获取或设置[`BillPaymentStatus`](../../billpaymentstatus)的集合。
+获取或设置的集合[`BillPaymentStatus`](../../billpaymentstatus).
 
 ```csharp
 public List<BillPaymentStatus> BillPaymentStatuses { get; set; }

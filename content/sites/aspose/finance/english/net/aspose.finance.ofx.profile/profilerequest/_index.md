@@ -3,7 +3,7 @@ title: ProfileRequest
 second_title: Aspose.Finance for .NET API Reference
 description: A profile request indicates which profile components a client desires. It also indicates what the clients routing capability is. Profiles returned by the FI must be compatible with the requested routing style or the server returns an error.
 type: docs
-weight: 4700
+weight: 4720
 url: /net/aspose.finance.ofx.profile/profilerequest/
 ---
 ## ProfileRequest class

@@ -1,14 +1,14 @@
 ---
 title: Rating
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置评级
+description: 获取或设置评分
 type: docs
 weight: 60
 url: /zh/net/aspose.finance.ofx.securitieslist/generalsecurityinfo/rating/
 ---
 ## GeneralSecurityInfo.Rating property
 
-获取或设置评级。
+获取或设置评分。
 
 ```csharp
 public string Rating { get; set; }

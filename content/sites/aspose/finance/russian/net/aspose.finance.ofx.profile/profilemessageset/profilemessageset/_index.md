@@ -1,14 +1,14 @@
 ---
 title: ProfileMessageSet
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаProfileMessageSetaspose.finance.ofx.profile/profilemessageset.
+description: Инициализирует новый экземплярProfileMessageSetaspose.finance.ofx.profile/profilemessageset класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.profile/profilemessageset/profilemessageset/
 ---
 ## ProfileMessageSet constructor
 
-Инициализирует новый экземпляр класса[`ProfileMessageSet`](../../profilemessageset).
+Инициализирует новый экземпляр[`ProfileMessageSet`](../../profilemessageset) класс.
 
 ```csharp
 public ProfileMessageSet()

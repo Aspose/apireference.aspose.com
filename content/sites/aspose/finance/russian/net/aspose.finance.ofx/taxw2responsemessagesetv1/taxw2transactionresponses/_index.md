@@ -1,14 +1,14 @@
 ---
 title: TaxW2TransactionResponses
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает коллекциюTaxW2TransactionResponseaspose.finance.ofx.taxw2/taxw2transactionresponse.
+description: Получает или задает коллекциюTaxW2TransactionResponseaspose.finance.ofx.taxw2/taxw2transactionresponse .
 type: docs
 weight: 20
 url: /ru/net/aspose.finance.ofx/taxw2responsemessagesetv1/taxw2transactionresponses/
 ---
 ## TaxW2ResponseMessageSetV1.TaxW2TransactionResponses property
 
-Получает или задает коллекцию[`TaxW2TransactionResponse`](../../../aspose.finance.ofx.taxw2/taxw2transactionresponse).
+Получает или задает коллекцию[`TaxW2TransactionResponse`](../../../aspose.finance.ofx.taxw2/taxw2transactionresponse) .
 
 ```csharp
 public List<TaxW2TransactionResponse> TaxW2TransactionResponses { get; set; }

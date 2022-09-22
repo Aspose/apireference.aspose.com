@@ -1,14 +1,14 @@
 ---
 title: LoanStatementEndRequest
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置LoanStatementEndRequestaspose.finance.ofx.loan/loanstatementendtransactionrequest/loanstatementendrequest
+description: 获取或设置LoanStatementEndRequestaspose.finance.ofx.loan/loanstatementendtransactionrequest/loanstatementendrequest.
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.ofx.loan/loanstatementendtransactionrequest/loanstatementendrequest/
 ---
 ## LoanStatementEndTransactionRequest.LoanStatementEndRequest property
 
-获取或设置`LoanStatementEndRequest`。
+获取或设置`LoanStatementEndRequest`.
 
 ```csharp
 public LoanStatementEndRequest LoanStatementEndRequest { get; set; }

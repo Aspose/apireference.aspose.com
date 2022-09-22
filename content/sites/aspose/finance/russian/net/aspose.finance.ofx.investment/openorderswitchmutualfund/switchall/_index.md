@@ -1,14 +1,14 @@
 ---
 title: SwitchAll
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает переключать ли все удерживание.
+description: Получает или задает будет ли переключаться весь холдинг.
 type: docs
 weight: 30
 url: /ru/net/aspose.finance.ofx.investment/openorderswitchmutualfund/switchall/
 ---
 ## OpenOrderSwitchMutualFund.SwitchAll property
 
-Получает или задает, переключать ли все удерживание.
+Получает или задает, будет ли переключаться весь холдинг.
 
 ```csharp
 public bool SwitchAll { get; set; }

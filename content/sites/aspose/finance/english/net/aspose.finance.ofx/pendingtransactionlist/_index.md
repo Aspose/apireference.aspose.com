@@ -3,7 +3,7 @@ title: PendingTransactionList
 second_title: Aspose.Finance for .NET API Reference
 description: Pending statement transaction data collection class
 type: docs
-weight: 4260
+weight: 4280
 url: /net/aspose.finance.ofx/pendingtransactionlist/
 ---
 ## PendingTransactionList class

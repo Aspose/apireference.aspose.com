@@ -18,13 +18,13 @@ public class InterCancellationRequest : AbstractInterRequest
 
 | Имя | Описание |
 | --- | --- |
-| [InterCancellationRequest](intercancellationrequest)() | Инициализирует новый экземпляр класса[`InterCancellationRequest`](../intercancellationrequest). |
+| [InterCancellationRequest](intercancellationrequest)() | Инициализирует новый экземпляр[`InterCancellationRequest`](../intercancellationrequest) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [ServerId](../../aspose.finance.ofx.intertransfer/intercancellationrequest/serverid) { get; set; } | Получает или задает идентификатор переноса, который необходимо отменить. |
+| [ServerId](../../aspose.finance.ofx.intertransfer/intercancellationrequest/serverid) { get; set; } | Получает или задает идентификатор переноса, который нужно отменить. |
 
 ### Смотрите также
 

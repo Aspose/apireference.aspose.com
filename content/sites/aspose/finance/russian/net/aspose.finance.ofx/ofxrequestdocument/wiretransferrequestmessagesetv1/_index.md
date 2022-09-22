@@ -1,14 +1,14 @@
 ---
 title: WireTransferRequestMessageSetV1
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задаетWireTransferRequestMessageSetV1aspose.finance.ofx/ofxrequestdocument/wiretransferrequestmessagesetv1.
+description: Получает или задаетWireTransferRequestMessageSetV1aspose.finance.ofx/ofxrequestdocument/wiretransferrequestmessagesetv1 .
 type: docs
 weight: 190
 url: /ru/net/aspose.finance.ofx/ofxrequestdocument/wiretransferrequestmessagesetv1/
 ---
 ## OfxRequestDocument.WireTransferRequestMessageSetV1 property
 
-Получает или задает`WireTransferRequestMessageSetV1`.
+Получает или задает`WireTransferRequestMessageSetV1` .
 
 ```csharp
 public WireTransferRequestMessageSetV1 WireTransferRequestMessageSetV1 { get; set; }

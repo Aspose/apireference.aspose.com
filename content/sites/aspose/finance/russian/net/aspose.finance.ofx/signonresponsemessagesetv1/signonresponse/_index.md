@@ -1,14 +1,14 @@
 ---
 title: SignonResponse
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задаетSignonResponseaspose.finance.ofx.signon/signonresponse.
+description: Получает или задаетSignonResponseaspose.finance.ofx.signon/signonresponse .
 type: docs
 weight: 40
 url: /ru/net/aspose.finance.ofx/signonresponsemessagesetv1/signonresponse/
 ---
 ## SignonResponseMessageSetV1.SignonResponse property
 
-Получает или задает[`SignonResponse`](../../../aspose.finance.ofx.signon/signonresponse).
+Получает или задает[`SignonResponse`](../../../aspose.finance.ofx.signon/signonresponse) .
 
 ```csharp
 public SignonResponse SignonResponse { get; set; }

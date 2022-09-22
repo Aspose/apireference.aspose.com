@@ -18,16 +18,16 @@ public class SellOption : AbstractInvestmentSellTransaction
 
 | 姓名 | 描述 |
 | --- | --- |
-| [SellOption](selloption)() | 初始化[`SellOption`](../selloption)类的新实例。 |
+| [SellOption](selloption)() | 初始化一个新的实例[`SellOption`](../selloption)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [InvestmentSell](../../aspose.finance.ofx.investment/abstractinvestmentselltransaction/investmentsell) { get; set; } | 获取或设置[`InvestmentSell`](../abstractinvestmentselltransaction/investmentsell)。 |
+| [InvestmentSell](../../aspose.finance.ofx.investment/abstractinvestmentselltransaction/investmentsell) { get; set; } | 获取或设置[`InvestmentSell`](../abstractinvestmentselltransaction/investmentsell). |
 | [OptionSellType](../../aspose.finance.ofx.investment/selloption/optionselltype) { get; set; } | 获取或设置期权卖出类型。 |
-| [RelatedType](../../aspose.finance.ofx.investment/selloption/relatedtype) { get; set; } | 获取或设置相关期权交易类型。 |
-| [RelateFITransactionID](../../aspose.finance.ofx.investment/selloption/relatefitransactionid) { get; set; } | 获取或设置与共同基金交易相关的交易。 |
+| [RelatedType](../../aspose.finance.ofx.investment/selloption/relatedtype) { get; set; } | 获取或设置相关期权交易类型 |
+| [RelateFITransactionID](../../aspose.finance.ofx.investment/selloption/relatefitransactionid) { get; set; } | 获取或设置与共同基金交易所相关的交易。 |
 | [Secured](../../aspose.finance.ofx.investment/selloption/secured) { get; set; } | 获取或设置选项的保护方式。 |
 | [SharePerContract](../../aspose.finance.ofx.investment/selloption/sharepercontract) { get; set; } | 获取或设置每份合约的股数。 |
 

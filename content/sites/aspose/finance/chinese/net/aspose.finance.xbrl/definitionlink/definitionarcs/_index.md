@@ -1,14 +1,14 @@
 ---
 title: DefinitionArcs
 second_title: Aspose.Finance for .NET API 参考
-description: 获取DefinitionArcaspose.finance.xbrl/definitionarc的集合
+description: 获取集合DefinitionArcaspose.finance.xbrl/definitionarc.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.xbrl/definitionlink/definitionarcs/
 ---
 ## DefinitionLink.DefinitionArcs property
 
-获取[`DefinitionArc`](../../definitionarc)的集合。
+获取集合[`DefinitionArc`](../../definitionarc).
 
 ```csharp
 public List<DefinitionArc> DefinitionArcs { get; }

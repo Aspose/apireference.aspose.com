@@ -1,14 +1,14 @@
 ---
 title: Employee
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化Employeeaspose.finance.ofx.taxw2/employee类的新实例
+description: 初始化一个新的实例Employeeaspose.finance.ofx.taxw2/employee类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.taxw2/employee/employee/
 ---
 ## Employee constructor
 
-初始化[`Employee`](../../employee)类的新实例。
+初始化一个新的实例[`Employee`](../../employee)类.
 
 ```csharp
 public Employee()

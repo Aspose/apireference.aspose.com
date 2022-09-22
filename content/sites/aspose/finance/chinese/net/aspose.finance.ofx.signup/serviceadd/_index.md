@@ -1,14 +1,14 @@
 ---
 title: ServiceAdd
 second_title: Aspose.Finance for .NET API 参考
-description: 服务添加类
+description: 服务附加类.
 type: docs
 weight: 5640
 url: /zh/net/aspose.finance.ofx.signup/serviceadd/
 ---
 ## ServiceAdd class
 
-服务添加类。
+服务附加类.
 
 ```csharp
 public class ServiceAdd : AbstractServiceAction
@@ -18,13 +18,13 @@ public class ServiceAdd : AbstractServiceAction
 
 | 姓名 | 描述 |
 | --- | --- |
-| [ServiceAdd](serviceadd)() | 初始化[`ServiceAdd`](../serviceadd)类的新实例。 |
+| [ServiceAdd](serviceadd)() | 初始化一个新的实例[`ServiceAdd`](../serviceadd)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [AccountTo](../../aspose.finance.ofx.signup/serviceadd/accountto) { get; set; } | 获取或设置[`BankAccount`](../../aspose.finance.ofx/bankaccount)or[`CreditCardAccount`](../../aspose.finance.ofx/creditcardaccount)or[`InvestmentAccount`](../../aspose.finance.ofx/investmentaccount)或[`PresentmentAccount`](../../aspose.finance.ofx/presentmentaccount)。 |
+| [AccountTo](../../aspose.finance.ofx.signup/serviceadd/accountto) { get; set; } | 获取或设置[`BankAccount`](../../aspose.finance.ofx/bankaccount)或者[`CreditCardAccount`](../../aspose.finance.ofx/creditcardaccount)或者[`InvestmentAccount`](../../aspose.finance.ofx/investmentaccount)或者[`PresentmentAccount`](../../aspose.finance.ofx/presentmentaccount). |
 
 ### 也可以看看
 

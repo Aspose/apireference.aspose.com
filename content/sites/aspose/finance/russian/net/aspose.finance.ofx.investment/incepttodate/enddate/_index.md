@@ -1,14 +1,14 @@
 ---
 title: EndDate
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает конечную дату для актуальной информации о начале.
+description: Получает или задает конечную дату для информации о дате начала.
 type: docs
 weight: 40
 url: /ru/net/aspose.finance.ofx.investment/incepttodate/enddate/
 ---
 ## InceptToDate.EndDate property
 
-Получает или задает конечную дату для актуальной информации о начале.
+Получает или задает конечную дату для информации о дате начала.
 
 ```csharp
 public string EndDate { get; set; }

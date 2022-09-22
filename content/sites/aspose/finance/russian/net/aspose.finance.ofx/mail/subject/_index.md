@@ -1,14 +1,14 @@
 ---
 title: Subject
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает тему сообщения обычный текст не HTML.
+description: Получает или задает тему сообщения обычный текст а не HTML.
 type: docs
 weight: 60
 url: /ru/net/aspose.finance.ofx/mail/subject/
 ---
 ## Mail.Subject property
 
-Получает или задает тему сообщения (обычный текст, не HTML).
+Получает или задает тему сообщения (обычный текст, а не HTML).
 
 ```csharp
 public string Subject { get; set; }

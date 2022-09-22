@@ -1,14 +1,14 @@
 ---
 title: BillRefInfo
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置要包含在付款中的开票人定义的文本用于开票人的应收帐款对帐
+description: 获取或设置帐单定义的文本以包含在付款中用于帐单的应收帐款对帐
 type: docs
 weight: 90
 url: /zh/net/aspose.finance.ofx.billerdelivery/presentmentbillinfo/billrefinfo/
 ---
 ## PresentmentBillInfo.BillRefInfo property
 
-获取或设置要包含在付款中的开票人定义的文本，用于开票人的应收帐款对帐。
+获取或设置帐单定义的文本以包含在付款中，用于帐单的应收帐款对帐。
 
 ```csharp
 public string BillRefInfo { get; set; }

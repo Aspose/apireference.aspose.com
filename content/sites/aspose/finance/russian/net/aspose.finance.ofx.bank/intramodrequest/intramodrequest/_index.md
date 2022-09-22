@@ -1,14 +1,14 @@
 ---
 title: IntraModRequest
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаIntraModRequestaspose.finance.ofx.bank/intramodrequest.
+description: Инициализирует новый экземплярIntraModRequestaspose.finance.ofx.bank/intramodrequest класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.bank/intramodrequest/intramodrequest/
 ---
 ## IntraModRequest constructor
 
-Инициализирует новый экземпляр класса[`IntraModRequest`](../../intramodrequest).
+Инициализирует новый экземпляр[`IntraModRequest`](../../intramodrequest) класс.
 
 ```csharp
 public IntraModRequest()

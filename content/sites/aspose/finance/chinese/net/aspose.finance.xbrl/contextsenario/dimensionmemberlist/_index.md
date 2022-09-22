@@ -1,14 +1,14 @@
 ---
 title: DimensionMemberList
 second_title: Aspose.Finance for .NET API 参考
-description: 获取场景中定义的维度成员列表
+description: 获取 senario 中定义的维度成员列表
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.xbrl/contextsenario/dimensionmemberlist/
 ---
 ## ContextSenario.DimensionMemberList property
 
-获取场景中定义的维度成员列表。
+获取 senario 中定义的维度成员列表。
 
 ```csharp
 public List<DimensionMember> DimensionMemberList { get; }

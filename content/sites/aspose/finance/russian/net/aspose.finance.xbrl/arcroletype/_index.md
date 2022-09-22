@@ -18,10 +18,10 @@ public class ArcroleType
 
 | Имя | Описание |
 | --- | --- |
-| [ArcroleUri](../../aspose.finance.xbrl/arcroletype/arcroleuri) { get; set; } | Получает URI роли дуги в[`ArcroleType`](../arcroletype). |
-| [Definition](../../aspose.finance.xbrl/arcroletype/definition) { get; set; } | Получает определение в[`ArcroleType`](../arcroletype). |
-| [Id](../../aspose.finance.xbrl/arcroletype/id) { get; set; } | Получает идентификатор в[`ArcroleType`](../arcroletype). |
-| [UsedOns](../../aspose.finance.xbrl/arcroletype/usedons) { get; set; } | Получает коллекцию из используемых по ссылке в[`ArcroleType`](../arcroletype). |
+| [ArcroleUri](../../aspose.finance.xbrl/arcroletype/arcroleuri) { get; set; } | Получает URI роли дуги в[`ArcroleType`](../arcroletype) . |
+| [Definition](../../aspose.finance.xbrl/arcroletype/definition) { get; set; } | Получает определение в[`ArcroleType`](../arcroletype) . |
+| [Id](../../aspose.finance.xbrl/arcroletype/id) { get; set; } | Получает идентификатор в[`ArcroleType`](../arcroletype) . |
+| [UsedOns](../../aspose.finance.xbrl/arcroletype/usedons) { get; set; } | Получает коллекцию из используемых по ссылке в[`ArcroleType`](../arcroletype) . |
 
 ### Смотрите также
 

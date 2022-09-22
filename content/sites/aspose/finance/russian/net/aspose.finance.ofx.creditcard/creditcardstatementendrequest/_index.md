@@ -18,16 +18,16 @@ public class CreditCardStatementEndRequest
 
 | Имя | Описание |
 | --- | --- |
-| [CreditCardStatementEndRequest](creditcardstatementendrequest)() | Инициализирует новый экземпляр класса[`CreditCardStatementEndRequest`](../creditcardstatementendrequest). |
+| [CreditCardStatementEndRequest](creditcardstatementendrequest)() | Инициализирует новый экземпляр[`CreditCardStatementEndRequest`](../creditcardstatementendrequest) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [CreditCardAccountFrom](../../aspose.finance.ofx.creditcard/creditcardstatementendrequest/creditcardaccountfrom) { get; set; } | Получает или задает значение из[`CreditCardAccount`](../../aspose.finance.ofx/creditcardaccount). |
-| [EndDate](../../aspose.finance.ofx.creditcard/creditcardstatementendrequest/enddate) { get; set; } | Получает или задает дату окончания сведений о закрытии выписки. |
+| [CreditCardAccountFrom](../../aspose.finance.ofx.creditcard/creditcardstatementendrequest/creditcardaccountfrom) { get; set; } | Получает или задает из[`CreditCardAccount`](../../aspose.finance.ofx/creditcardaccount) . |
+| [EndDate](../../aspose.finance.ofx.creditcard/creditcardstatementendrequest/enddate) { get; set; } | Получает или задает дату окончания информации о закрытии выписки. |
 | [IncludeStatementImage](../../aspose.finance.ofx.creditcard/creditcardstatementendrequest/includestatementimage) { get; set; } | Получает или задает, следует ли включать данные для закрывающих изображений операторов. |
-| [StartDate](../../aspose.finance.ofx.creditcard/creditcardstatementendrequest/startdate) { get; set; } | Получает или задает начальную дату для сведений о закрытии выписки. |
+| [StartDate](../../aspose.finance.ofx.creditcard/creditcardstatementendrequest/startdate) { get; set; } | Получает или задает начальную дату для информации о закрытии выписки. |
 
 ### Смотрите также
 

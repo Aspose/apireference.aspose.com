@@ -1,14 +1,14 @@
 ---
 title: SecurityListResponseMessageSetV1
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化SecurityListResponseMessageSetV1aspose.finance.ofx/securitylistresponsemessagesetv1类的新实例
+description: 初始化一个新的实例SecurityListResponseMessageSetV1aspose.finance.ofx/securitylistresponsemessagesetv1类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx/securitylistresponsemessagesetv1/securitylistresponsemessagesetv1/
 ---
 ## SecurityListResponseMessageSetV1 constructor
 
-初始化[`SecurityListResponseMessageSetV1`](../../securitylistresponsemessagesetv1)类的新实例。
+初始化一个新的实例[`SecurityListResponseMessageSetV1`](../../securitylistresponsemessagesetv1)类.
 
 ```csharp
 public SecurityListResponseMessageSetV1()

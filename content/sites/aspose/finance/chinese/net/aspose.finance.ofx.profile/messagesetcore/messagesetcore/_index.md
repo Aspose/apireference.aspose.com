@@ -1,14 +1,14 @@
 ---
 title: MessageSetCore
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化MessageSetCoreaspose.finance.ofx.profile/messagesetcore类的新实例
+description: 初始化一个新的实例MessageSetCoreaspose.finance.ofx.profile/messagesetcore类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.profile/messagesetcore/messagesetcore/
 ---
 ## MessageSetCore constructor
 
-初始化[`MessageSetCore`](../../messagesetcore)类的新实例。
+初始化一个新的实例[`MessageSetCore`](../../messagesetcore)类.
 
 ```csharp
 public MessageSetCore()

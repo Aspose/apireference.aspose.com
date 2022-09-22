@@ -1,14 +1,14 @@
 ---
 title: UnrecapSection1250
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает коэффициент усиления Раздела 1250 без подведения итогов.
+description: Получает или задает коэффициент усиления раздела 1250 без подведения итогов.
 type: docs
 weight: 270
 url: /ru/net/aspose.finance.ofx.tax1099/tax1099div_v100/unrecapsection1250/
 ---
 ## Tax1099DIV_V100.UnrecapSection1250 property
 
-Получает или задает коэффициент усиления Раздела 1250 без подведения итогов.
+Получает или задает коэффициент усиления раздела 1250 без подведения итогов.
 
 ```csharp
 public string UnrecapSection1250 { get; set; }

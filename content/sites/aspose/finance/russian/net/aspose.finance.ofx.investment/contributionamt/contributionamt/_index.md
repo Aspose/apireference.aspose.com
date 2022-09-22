@@ -1,14 +1,14 @@
 ---
 title: ContributionAmt
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаContributionAmtaspose.finance.ofx.investment/contributionamt.
+description: Инициализирует новый экземплярContributionAmtaspose.finance.ofx.investment/contributionamt класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.investment/contributionamt/contributionamt/
 ---
 ## ContributionAmt constructor
 
-Инициализирует новый экземпляр класса[`ContributionAmt`](../../contributionamt).
+Инициализирует новый экземпляр[`ContributionAmt`](../../contributionamt) класс.
 
 ```csharp
 public ContributionAmt()

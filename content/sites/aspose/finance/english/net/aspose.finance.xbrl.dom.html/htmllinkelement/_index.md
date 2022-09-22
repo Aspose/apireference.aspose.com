@@ -3,7 +3,7 @@ title: HTMLLinkElement
 second_title: Aspose.Finance for .NET API Reference
 description: The class specifies a link to an external resource and defines this documents relationship to that resource or vice versa. See the LINK element definition in HTML 4.01
 type: docs
-weight: 7000
+weight: 7030
 url: /net/aspose.finance.xbrl.dom.html/htmllinkelement/
 ---
 ## HTMLLinkElement class

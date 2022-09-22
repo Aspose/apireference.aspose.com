@@ -1,14 +1,14 @@
 ---
 title: Payee
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает полную информациюCommon.Payee.
+description: Получает или задает полныйCommon.Payee информация.
 type: docs
 weight: 30
 url: /ru/net/aspose.finance.ofx.billpay/payeerequest/payee/
 ---
 ## PayeeRequest.Payee property
 
-Получает или задает полную информацию!:Common.Payee.
+Получает или задает полный!:Common.Payee информация.
 
 ```csharp
 public Payee Payee { get; set; }

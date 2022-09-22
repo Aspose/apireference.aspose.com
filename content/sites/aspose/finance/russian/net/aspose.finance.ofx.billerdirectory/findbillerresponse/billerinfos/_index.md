@@ -1,14 +1,14 @@
 ---
 title: BillerInfos
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает коллекциюBillerInfoaspose.finance.ofx.billerdirectory/billerinfo.
+description: Получает или задает коллекциюBillerInfoaspose.finance.ofx.billerdirectory/billerinfo .
 type: docs
 weight: 20
 url: /ru/net/aspose.finance.ofx.billerdirectory/findbillerresponse/billerinfos/
 ---
 ## FindBillerResponse.BillerInfos property
 
-Получает или задает коллекцию[`BillerInfo`](../../billerinfo).
+Получает или задает коллекцию[`BillerInfo`](../../billerinfo) .
 
 ```csharp
 public List<BillerInfo> BillerInfos { get; set; }

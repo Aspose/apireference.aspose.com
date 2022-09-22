@@ -1,14 +1,14 @@
 ---
 title: PinChangeRequest
 second_title: Справочник по API Aspose.Finance для .NET
-description: Класс запроса смены пароля пользователя.
+description: Класс запроса на смену пароля пользователя.
 type: docs
 weight: 5370
 url: /ru/net/aspose.finance.ofx.signon/pinchangerequest/
 ---
 ## PinChangeRequest class
 
-Класс запроса смены пароля пользователя.
+Класс запроса на смену пароля пользователя.
 
 ```csharp
 public class PinChangeRequest
@@ -18,7 +18,7 @@ public class PinChangeRequest
 
 | Имя | Описание |
 | --- | --- |
-| [PinChangeRequest](pinchangerequest)() | Инициализирует новый экземпляр класса[`PinChangeRequest`](../pinchangerequest). |
+| [PinChangeRequest](pinchangerequest)() | Инициализирует новый экземпляр[`PinChangeRequest`](../pinchangerequest) класс. |
 
 ## Характеристики
 

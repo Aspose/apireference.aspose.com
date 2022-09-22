@@ -1,14 +1,14 @@
 ---
 title: IncPosition
 second_title: Справочник по API Aspose.Finance для .NET
-description: Включите в ответ инвестиционные позиции.
+description: Включить инвестиционные позиции в ответ.
 type: docs
 weight: 2850
 url: /ru/net/aspose.finance.ofx.investment/incposition/
 ---
 ## IncPosition class
 
-Включите в ответ инвестиционные позиции.
+Включить инвестиционные позиции в ответ.
 
 ```csharp
 public class IncPosition
@@ -18,14 +18,14 @@ public class IncPosition
 
 | Имя | Описание |
 | --- | --- |
-| [IncPosition](incposition)() | Инициализирует новый экземпляр класса[`IncPosition`](../incposition). |
+| [IncPosition](incposition)() | Инициализирует новый экземпляр[`IncPosition`](../incposition) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [DateAsOf](../../aspose.finance.ofx.investment/incposition/dateasof) { get; set; } | Получает или задает дату, на которую должны быть отправлены позиции. |
-| [Include](../../aspose.finance.ofx.investment/incposition/include) { get; set; } | Получает или задает, следует ли включать позиции в загрузку выписки. |
+| [DateAsOf](../../aspose.finance.ofx.investment/incposition/dateasof) { get; set; } | Получает или задает дату, для которой должны быть отправлены позиции. |
+| [Include](../../aspose.finance.ofx.investment/incposition/include) { get; set; } | Получает или задает, следует ли включать позиции в загрузку инструкции. |
 
 ### Смотрите также
 

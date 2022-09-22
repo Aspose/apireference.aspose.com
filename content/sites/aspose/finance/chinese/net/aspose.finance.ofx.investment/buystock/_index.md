@@ -8,7 +8,7 @@ url: /zh/net/aspose.finance.ofx.investment/buystock/
 ---
 ## BuyStock class
 
-投资买入股票交易类。
+投资买入股票交易类
 
 ```csharp
 public class BuyStock : AbstractInvestmentBuyTransaction
@@ -18,14 +18,14 @@ public class BuyStock : AbstractInvestmentBuyTransaction
 
 | 姓名 | 描述 |
 | --- | --- |
-| [BuyStock](buystock)() | 初始化[`BuyStock`](../buystock)类的新实例。 |
+| [BuyStock](buystock)() | 初始化一个新的实例[`BuyStock`](../buystock)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [BuyType](../../aspose.finance.ofx.investment/buystock/buytype) { get; set; } | 获取或设置购买类型。 |
-| [InvestmentBuy](../../aspose.finance.ofx.investment/abstractinvestmentbuytransaction/investmentbuy) { get; set; } | 获取或设置[`InvestmentBuy`](../abstractinvestmentbuytransaction/investmentbuy)。 |
+| [BuyType](../../aspose.finance.ofx.investment/buystock/buytype) { get; set; } | 获取或设置购买的类型。 |
+| [InvestmentBuy](../../aspose.finance.ofx.investment/abstractinvestmentbuytransaction/investmentbuy) { get; set; } | 获取或设置[`InvestmentBuy`](../abstractinvestmentbuytransaction/investmentbuy). |
 
 ### 也可以看看
 

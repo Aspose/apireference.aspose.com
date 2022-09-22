@@ -1,14 +1,14 @@
 ---
 title: BillStatusModTransactionResponses
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает коллекциюBillStatusModTransactionResponseaspose.finance.ofx.billerdelivery/billstatusmodtransactionresponse.
+description: Получает или задает коллекциюBillStatusModTransactionResponseaspose.finance.ofx.billerdelivery/billstatusmodtransactionresponse .
 type: docs
 weight: 20
 url: /ru/net/aspose.finance.ofx/presentmentdeliveryresponsemessagesetv1/billstatusmodtransactionresponses/
 ---
 ## PresentmentDeliveryResponseMessageSetV1.BillStatusModTransactionResponses property
 
-Получает или задает коллекцию[`BillStatusModTransactionResponse`](../../../aspose.finance.ofx.billerdelivery/billstatusmodtransactionresponse).
+Получает или задает коллекцию[`BillStatusModTransactionResponse`](../../../aspose.finance.ofx.billerdelivery/billstatusmodtransactionresponse) .
 
 ```csharp
 public List<BillStatusModTransactionResponse> BillStatusModTransactionResponses { get; set; }

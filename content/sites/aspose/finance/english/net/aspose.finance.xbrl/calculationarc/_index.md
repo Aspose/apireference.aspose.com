@@ -3,7 +3,7 @@ title: CalculationArc
 second_title: Aspose.Finance for .NET API Reference
 description: This class is a Xlink./xlink with Arc type. It defines how Concepts relate to one another for calculation purposes.
 type: docs
-weight: 6500
+weight: 6530
 url: /net/aspose.finance.xbrl/calculationarc/
 ---
 ## CalculationArc class

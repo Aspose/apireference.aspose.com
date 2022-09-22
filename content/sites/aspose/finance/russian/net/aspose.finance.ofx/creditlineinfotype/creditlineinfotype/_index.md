@@ -1,14 +1,14 @@
 ---
 title: CreditLineInfoType
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаCreditLineInfoTypeaspose.finance.ofx/creditlineinfotype.
+description: Инициализирует новый экземплярCreditLineInfoTypeaspose.finance.ofx/creditlineinfotype класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx/creditlineinfotype/creditlineinfotype/
 ---
 ## CreditLineInfoType constructor
 
-Инициализирует новый экземпляр класса[`CreditLineInfoType`](../../creditlineinfotype).
+Инициализирует новый экземпляр[`CreditLineInfoType`](../../creditlineinfotype) класс.
 
 ```csharp
 public CreditLineInfoType()

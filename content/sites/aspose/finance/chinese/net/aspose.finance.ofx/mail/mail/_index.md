@@ -1,14 +1,14 @@
 ---
 title: Mail
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化Mailaspose.finance.ofx/mail类的新实例
+description: 初始化一个新的实例Mailaspose.finance.ofx/mail类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx/mail/mail/
 ---
 ## Mail constructor
 
-初始化[`Mail`](../../mail)类的新实例。
+初始化一个新的实例[`Mail`](../../mail)类.
 
 ```csharp
 public Mail()

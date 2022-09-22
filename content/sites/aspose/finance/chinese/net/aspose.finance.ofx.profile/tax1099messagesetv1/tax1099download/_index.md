@@ -8,7 +8,7 @@ url: /zh/net/aspose.finance.ofx.profile/tax1099messagesetv1/tax1099download/
 ---
 ## Tax1099MessageSetV1.Tax1099Download property
 
-获取或设置服务器是否支持1099税表下载。
+获取或设置服务器是否支持1099税表下载
 
 ```csharp
 public bool Tax1099Download { get; set; }

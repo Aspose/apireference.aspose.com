@@ -1,14 +1,14 @@
 ---
 title: LenderAddress
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаLenderAddressaspose.finance.ofx.tax1098/lenderaddress.
+description: Инициализирует новый экземплярLenderAddressaspose.finance.ofx.tax1098/lenderaddress класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.tax1098/lenderaddress/lenderaddress/
 ---
 ## LenderAddress constructor
 
-Инициализирует новый экземпляр класса[`LenderAddress`](../../lenderaddress).
+Инициализирует новый экземпляр[`LenderAddress`](../../lenderaddress) класс.
 
 ```csharp
 public LenderAddress()

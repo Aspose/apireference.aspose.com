@@ -1,14 +1,14 @@
 ---
 title: MailResponse
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задаетBankMailResponseaspose.finance.ofx.bank/bankmailresponseилиCheckMailResponseaspose.finance.ofx.bank/checkmailresponseилиDepositMailResponseaspose.finance.ofx.bank/depositmailresponse.
+description: Получает или задаетBankMailResponseaspose.finance.ofx.bank/bankmailresponse или жеCheckMailResponseaspose.finance.ofx.bank/checkmailresponse или жеDepositMailResponseaspose.finance.ofx.bank/depositmailresponse .
 type: docs
 weight: 20
 url: /ru/net/aspose.finance.ofx.bank/bankmailtransactionresponse/mailresponse/
 ---
 ## BankMailTransactionResponse.MailResponse property
 
-Получает или задает[`BankMailResponse`](../../bankmailresponse)или[`CheckMailResponse`](../../checkmailresponse)или[`DepositMailResponse`](../../depositmailresponse).
+Получает или задает[`BankMailResponse`](../../bankmailresponse) или же[`CheckMailResponse`](../../checkmailresponse) или же[`DepositMailResponse`](../../depositmailresponse) .
 
 ```csharp
 public AbstractMailResponse MailResponse { get; set; }

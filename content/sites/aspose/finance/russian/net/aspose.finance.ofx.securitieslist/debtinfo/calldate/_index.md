@@ -1,14 +1,14 @@
 ---
 title: CallDate
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает дату следующего звонка.
+description: Получает или устанавливает дату следующего звонка.
 type: docs
 weight: 30
 url: /ru/net/aspose.finance.ofx.securitieslist/debtinfo/calldate/
 ---
 ## DebtInfo.CallDate property
 
-Получает или задает дату следующего звонка.
+Получает или устанавливает дату следующего звонка.
 
 ```csharp
 public string CallDate { get; set; }

@@ -3,7 +3,7 @@ title: IncTransaction
 second_title: Aspose.Finance for .NET API Reference
 description: Include transactions class
 type: docs
-weight: 2340
+weight: 2350
 url: /net/aspose.finance.ofx/inctransaction/
 ---
 ## IncTransaction class

@@ -18,14 +18,14 @@ public class DebtInfo : AbstractSecurityInfo
 
 | 姓名 | 描述 |
 | --- | --- |
-| [DebtInfo](debtinfo)() | 初始化[`DebtInfo`](../debtinfo)类的新实例。 |
+| [DebtInfo](debtinfo)() | 初始化一个新的实例[`DebtInfo`](../debtinfo)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
 | [AssetClass](../../aspose.finance.ofx.securitieslist/debtinfo/assetclass) { get; set; } | 获取或设置资产类别。 |
-| [CallDate](../../aspose.finance.ofx.securitieslist/debtinfo/calldate) { get; set; } | 获取或设置下一个调用日期。 |
+| [CallDate](../../aspose.finance.ofx.securitieslist/debtinfo/calldate) { get; set; } | 获取或设置下次调用日期。 |
 | [CallPrice](../../aspose.finance.ofx.securitieslist/debtinfo/callprice) { get; set; } | 获取或设置债券赎回价格。 |
 | [CallType](../../aspose.finance.ofx.securitieslist/debtinfo/calltype) { get; set; } | 获取或设置下次调用的类型。 |
 | [CouponFrequency](../../aspose.finance.ofx.securitieslist/debtinfo/couponfrequency) { get; set; } | 获取或设置优惠券频率。 |
@@ -35,7 +35,7 @@ public class DebtInfo : AbstractSecurityInfo
 | [FIAssetClass](../../aspose.finance.ofx.securitieslist/debtinfo/fiassetclass) { get; set; } | 获取或设置包含 FI 定义的资产类别的文本字符串。 |
 | [MaturityDate](../../aspose.finance.ofx.securitieslist/debtinfo/maturitydate) { get; set; } | 获取或设置债务到期日。 |
 | [ParValue](../../aspose.finance.ofx.securitieslist/debtinfo/parvalue) { get; set; } | 获取或设置面值。 |
-| [SecurityInfo](../../aspose.finance.ofx.securitieslist/abstractsecurityinfo/securityinfo) { get; set; } | 获取或设置[`GeneralSecurityInfo`](../generalsecurityinfo)。 |
+| [SecurityInfo](../../aspose.finance.ofx.securitieslist/abstractsecurityinfo/securityinfo) { get; set; } | 获取或设置[`GeneralSecurityInfo`](../generalsecurityinfo). |
 | [YieldToCall](../../aspose.finance.ofx.securitieslist/debtinfo/yieldtocall) { get; set; } | 获取或设置下一次调用的收益。 |
 | [YieldToMaturity](../../aspose.finance.ofx.securitieslist/debtinfo/yieldtomaturity) { get; set; } | 获取或设置到期收益率。 |
 

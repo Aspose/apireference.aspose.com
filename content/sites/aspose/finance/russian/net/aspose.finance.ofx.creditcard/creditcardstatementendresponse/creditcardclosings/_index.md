@@ -1,14 +1,14 @@
 ---
 title: CreditCardClosings
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает коллекциюCreditCardClosingaspose.finance.ofx.creditcard/creditcardclosing.
+description: Получает или задает коллекциюCreditCardClosingaspose.finance.ofx.creditcard/creditcardclosing .
 type: docs
 weight: 30
 url: /ru/net/aspose.finance.ofx.creditcard/creditcardstatementendresponse/creditcardclosings/
 ---
 ## CreditCardStatementEndResponse.CreditCardClosings property
 
-Получает или задает коллекцию[`CreditCardClosing`](../../creditcardclosing).
+Получает или задает коллекцию[`CreditCardClosing`](../../creditcardclosing) .
 
 ```csharp
 public List<CreditCardClosing> CreditCardClosings { get; set; }

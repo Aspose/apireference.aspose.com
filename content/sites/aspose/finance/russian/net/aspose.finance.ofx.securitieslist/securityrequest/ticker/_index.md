@@ -1,14 +1,14 @@
 ---
 title: Ticker
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает тикер.
+description: Получает или устанавливает символ тикера.
 type: docs
 weight: 40
 url: /ru/net/aspose.finance.ofx.securitieslist/securityrequest/ticker/
 ---
 ## SecurityRequest.Ticker property
 
-Получает или задает тикер.
+Получает или устанавливает символ тикера.
 
 ```csharp
 public string Ticker { get; set; }

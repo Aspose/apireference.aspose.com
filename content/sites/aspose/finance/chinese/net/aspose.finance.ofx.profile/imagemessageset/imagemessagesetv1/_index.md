@@ -1,14 +1,14 @@
 ---
 title: ImageMessageSetV1
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置ImageMessageSetV1aspose.finance.ofx.profile/imagemessageset/imagemessagesetv1
+description: 获取或设置ImageMessageSetV1aspose.finance.ofx.profile/imagemessageset/imagemessagesetv1.
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.ofx.profile/imagemessageset/imagemessagesetv1/
 ---
 ## ImageMessageSet.ImageMessageSetV1 property
 
-获取或设置`ImageMessageSetV1`。
+获取或设置`ImageMessageSetV1`.
 
 ```csharp
 public ImageMessageSetV1 ImageMessageSetV1 { get; set; }

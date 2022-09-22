@@ -18,7 +18,7 @@ public class LoanAccountInfo : AbstractAccountInfo
 
 | 姓名 | 描述 |
 | --- | --- |
-| [LoanAccountInfo](loanaccountinfo)() | 初始化[`LoanAccountInfo`](../loanaccountinfo)类的新实例。 |
+| [LoanAccountInfo](loanaccountinfo)() | 初始化一个新的实例[`LoanAccountInfo`](../loanaccountinfo)类. |
 
 ## 特性
 
@@ -26,22 +26,22 @@ public class LoanAccountInfo : AbstractAccountInfo
 | --- | --- |
 | [AccountClassification](../../aspose.finance.ofx/loanaccountinfo/accountclassification) { get; set; } | 获取或设置账户分类。 |
 | [BalloonAmount](../../aspose.finance.ofx/loanaccountinfo/balloonamount) { get; set; } | 获取或设置气球金额，对于常规贷款不包括或为零，否则为气球金额。 |
-| [LoanAccountFrom](../../aspose.finance.ofx/loanaccountinfo/loanaccountfrom) { get; set; } | 获取或设置[`LoanAccount`](../loanaccount)的来源。 |
-| [LoanFrequency](../../aspose.finance.ofx/loanaccountinfo/loanfrequency) { get; set; } | 获取或设置支付频率。 |
+| [LoanAccountFrom](../../aspose.finance.ofx/loanaccountinfo/loanaccountfrom) { get; set; } | 获取或设置 from[`LoanAccount`](../loanaccount). |
+| [LoanFrequency](../../aspose.finance.ofx/loanaccountinfo/loanfrequency) { get; set; } | 获取或设置付款频率。 |
 | [LoanInitialBalance](../../aspose.finance.ofx/loanaccountinfo/loaninitialbalance) { get; set; } | 获取或设置初始贷款余额 |
 | [LoanInitialNumberPayments](../../aspose.finance.ofx/loanaccountinfo/loaninitialnumberpayments) { get; set; } | 获取或设置贷款支付的初始数量。 |
 | [LoanInterest](../../aspose.finance.ofx/loanaccountinfo/loaninterest) { get; set; } | 获取或设置贷款利息。 |
 | [LoanInterestRate](../../aspose.finance.ofx/loanaccountinfo/loaninterestrate) { get; set; } | 获取或设置贷款利率。 |
-| [LoanMaturityDate](../../aspose.finance.ofx/loanaccountinfo/loanmaturitydate) { get; set; } | 获取或设置预期的外借结束日期。 |
+| [LoanMaturityDate](../../aspose.finance.ofx/loanaccountinfo/loanmaturitydate) { get; set; } | 获取或设置预期的贷款结束日期。 |
 | [LoanPayment](../../aspose.finance.ofx/loanaccountinfo/loanpayment) { get; set; } | 获取或设置贷款支付。 |
-| [LoanRemainingPayments](../../aspose.finance.ofx/loanaccountinfo/loanremainingpayments) { get; set; } | 获取或设置贷款还款的剩余数量 |
-| [LoanStartDate](../../aspose.finance.ofx/loanaccountinfo/loanstartdate) { get; set; } | 获取或设置外借开始日期。 |
+| [LoanRemainingPayments](../../aspose.finance.ofx/loanaccountinfo/loanremainingpayments) { get; set; } | 获取或设置贷款还款的剩余次数 |
+| [LoanStartDate](../../aspose.finance.ofx/loanaccountinfo/loanstartdate) { get; set; } | 获取或设置贷款开始日期。 |
 | [LoanType](../../aspose.finance.ofx/loanaccountinfo/loantype) { get; set; } | 获取或设置贷款类型。 |
 | [PrincipalBalance](../../aspose.finance.ofx/loanaccountinfo/principalbalance) { get; set; } | 获取或设置贷款本金余额类型。 |
 | [ServiceStatus](../../aspose.finance.ofx/loanaccountinfo/servicestatus) { get; set; } | 获取或设置账户状态。 |
-| [SupportTransactionDetailDownload](../../aspose.finance.ofx/loanaccountinfo/supporttransactiondetaildownload) { get; set; } | 如果账户支持交易明细下载，可以，如果只支持余额，不支持。 |
-| [TransferDestination](../../aspose.finance.ofx/loanaccountinfo/transferdestination) { get; set; } | 如果账户被启用作为银行内或银行间转账的目的地，是，否则，否。 |
-| [TransferSource](../../aspose.finance.ofx/loanaccountinfo/transfersource) { get; set; } | 如果启用帐户作为银行内或银行间转账的来源，则为是，否则为否。 |
+| [SupportTransactionDetailDownload](../../aspose.finance.ofx/loanaccountinfo/supporttransactiondetaildownload) { get; set; } | 如果账户支持交易明细下载，是的，如果是仅余额，否。 |
+| [TransferDestination](../../aspose.finance.ofx/loanaccountinfo/transferdestination) { get; set; } | 如果帐户被启用作为银行内或银行间转账的目的地，是，否则，否。 |
+| [TransferSource](../../aspose.finance.ofx/loanaccountinfo/transfersource) { get; set; } | 如果账户被启用作为银行内或银行间转账的来源，是，否则，否。 |
 
 ### 也可以看看
 

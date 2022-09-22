@@ -1,14 +1,14 @@
 ---
 title: Order
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置InlineNonnumericaspose.finance.xbrl.inline/inlinenonnumeric的顺序
+description: 获取或设置的顺序InlineNonnumericaspose.finance.xbrl.inline/inlinenonnumeric.
 type: docs
 weight: 50
 url: /zh/net/aspose.finance.xbrl.inline/inlinenonnumeric/order/
 ---
 ## InlineNonnumeric.Order property
 
-获取或设置[`InlineNonnumeric`](../../inlinenonnumeric)的顺序。
+获取或设置的顺序[`InlineNonnumeric`](../../inlinenonnumeric).
 
 ```csharp
 public decimal Order { get; set; }

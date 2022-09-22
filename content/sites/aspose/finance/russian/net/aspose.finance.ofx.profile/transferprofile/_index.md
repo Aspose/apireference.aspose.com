@@ -18,15 +18,15 @@ public class TransferProfile
 
 | Имя | Описание |
 | --- | --- |
-| [TransferProfile](transferprofile)() | Инициализирует новый экземпляр класса[`TransferProfile`](../transferprofile). |
+| [TransferProfile](transferprofile)() | Инициализирует новый экземпляр[`TransferProfile`](../transferprofile) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [CanLoan](../../aspose.finance.ofx.profile/transferprofile/canloan) { get; set; } | Получает или задает, поддерживает ли перевод кредита. |
+| [CanLoan](../../aspose.finance.ofx.profile/transferprofile/canloan) { get; set; } | Получает или задает, поддерживает ли передача ссуды. |
 | [CanModificationModels](../../aspose.finance.ofx.profile/transferprofile/canmodificationmodels) { get; set; } | Получает или задает разрешение на изменение моделей. |
-| [CanModificationTransfers](../../aspose.finance.ofx.profile/transferprofile/canmodificationtransfers) { get; set; } | Возвращает или задает, разрешают ли изменения передачи. |
+| [CanModificationTransfers](../../aspose.finance.ofx.profile/transferprofile/canmodificationtransfers) { get; set; } | Получает или задает разрешение на изменение передачи. |
 | [CanRecurring](../../aspose.finance.ofx.profile/transferprofile/canrecurring) { get; set; } | Получает или задает, поддерживает ли повторяющиеся передачи. |
 | [CanRecurringLoan](../../aspose.finance.ofx.profile/transferprofile/canrecurringloan) { get; set; } | Получает или задает, поддерживает ли повторяющиеся переводы кредитов. |
 | [CanScheduled](../../aspose.finance.ofx.profile/transferprofile/canscheduled) { get; set; } | Получает или задает, поддерживает ли запланированные передачи. |

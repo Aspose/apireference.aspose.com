@@ -18,13 +18,13 @@ public class BillPubInfo
 
 | Имя | Описание |
 | --- | --- |
-| [BillPubInfo](billpubinfo)() | Инициализирует новый экземпляр класса[`BillPubInfo`](../billpubinfo). |
+| [BillPubInfo](billpubinfo)() | Инициализирует новый экземпляр[`BillPubInfo`](../billpubinfo) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [BillId](../../aspose.finance.ofx.billpay/billpubinfo/billid) { get; set; } | Получает или задает идентификатор счета, назначенный поставщиком услуг по представлению счетов, к которому применяется этот платеж. |
+| [BillId](../../aspose.finance.ofx.billpay/billpubinfo/billid) { get; set; } | Получает или задает идентификатор счета, назначенный поставщиком услуг выставления счетов, к которому применяется этот платеж. |
 | [BillPublisher](../../aspose.finance.ofx.billpay/billpubinfo/billpublisher) { get; set; } | Получает или задает имя издателя счетов, связанного с этим получателем платежа для этого платежа у поставщика услуг. |
 
 ### Смотрите также

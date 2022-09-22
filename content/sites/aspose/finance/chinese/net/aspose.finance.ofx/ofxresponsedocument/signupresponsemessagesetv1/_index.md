@@ -1,14 +1,14 @@
 ---
 title: SignupResponseMessageSetV1
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置SignupResponseMessageSetV1aspose.finance.ofx/ofxresponsedocument/signupresponsemessagesetv1
+description: 获取或设置SignupResponseMessageSetV1aspose.finance.ofx/ofxresponsedocument/signupresponsemessagesetv1.
 type: docs
 weight: 140
 url: /zh/net/aspose.finance.ofx/ofxresponsedocument/signupresponsemessagesetv1/
 ---
 ## OfxResponseDocument.SignupResponseMessageSetV1 property
 
-获取或设置`SignupResponseMessageSetV1`。
+获取或设置`SignupResponseMessageSetV1`.
 
 ```csharp
 public SignupResponseMessageSetV1 SignupResponseMessageSetV1 { get; set; }

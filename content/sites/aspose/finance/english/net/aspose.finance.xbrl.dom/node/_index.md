@@ -3,7 +3,7 @@ title: Node
 second_title: Aspose.Finance for .NET API Reference
 description: The Node class is the primary datatype for the entire Document object Model. It represents a single node in the document tree.
 type: docs
-weight: 7430
+weight: 7460
 url: /net/aspose.finance.xbrl.dom/node/
 ---
 ## Node class

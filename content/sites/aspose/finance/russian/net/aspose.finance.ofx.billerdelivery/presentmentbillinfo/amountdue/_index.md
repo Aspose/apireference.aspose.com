@@ -1,14 +1,14 @@
 ---
 title: AmountDue
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает полную сумму платежа.
+description: Получает или устанавливает полную сумму платежа.
 type: docs
 weight: 40
 url: /ru/net/aspose.finance.ofx.billerdelivery/presentmentbillinfo/amountdue/
 ---
 ## PresentmentBillInfo.AmountDue property
 
-Получает или задает полную сумму платежа.
+Получает или устанавливает полную сумму платежа.
 
 ```csharp
 public string AmountDue { get; set; }

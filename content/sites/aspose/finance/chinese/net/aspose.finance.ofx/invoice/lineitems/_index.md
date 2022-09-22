@@ -1,14 +1,14 @@
 ---
 title: LineItems
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置LineItemaspose.finance.ofx/lineitem的集合
+description: 获取或设置的集合LineItemaspose.finance.ofx/lineitem.
 type: docs
 weight: 90
 url: /zh/net/aspose.finance.ofx/invoice/lineitems/
 ---
 ## Invoice.LineItems property
 
-获取或设置[`LineItem`](../../lineitem)的集合。
+获取或设置的集合[`LineItem`](../../lineitem).
 
 ```csharp
 public List<LineItem> LineItems { get; set; }

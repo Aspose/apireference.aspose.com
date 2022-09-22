@@ -1,14 +1,14 @@
 ---
 title: Add
 second_title: Справочник по API Aspose.Finance для .NET
-description: ДобавьтеXbrlInstanceaspose.finance.xbrl/xbrlinstanceв коллекцию.
+description: ДобавитьXbrlInstanceaspose.finance.xbrl/xbrlinstanceв коллекцию.
 type: docs
 weight: 40
 url: /ru/net/aspose.finance.xbrl/xbrlinstancecollection/add/
 ---
 ## XbrlInstanceCollection.Add method
 
-Добавьте[`XbrlInstance`](../../xbrlinstance)в коллекцию.
+Добавить[`XbrlInstance`](../../xbrlinstance)в коллекцию.
 
 ```csharp
 public int Add()
@@ -16,7 +16,7 @@ public int Add()
 
 ### Возвращаемое значение
 
-[`XbrlInstance`](../../xbrlinstance)индекс объекта.
+[`XbrlInstance`](../../xbrlinstance) индекс объекта.
 
 ### Смотрите также
 

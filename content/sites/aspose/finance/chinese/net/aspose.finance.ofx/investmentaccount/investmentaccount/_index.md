@@ -1,14 +1,14 @@
 ---
 title: InvestmentAccount
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化InvestmentAccountaspose.finance.ofx/investmentaccount类的新实例
+description: 初始化一个新的实例InvestmentAccountaspose.finance.ofx/investmentaccount类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx/investmentaccount/investmentaccount/
 ---
 ## InvestmentAccount constructor
 
-初始化[`InvestmentAccount`](../../investmentaccount)类的新实例。
+初始化一个新的实例[`InvestmentAccount`](../../investmentaccount)类.
 
 ```csharp
 public InvestmentAccount()

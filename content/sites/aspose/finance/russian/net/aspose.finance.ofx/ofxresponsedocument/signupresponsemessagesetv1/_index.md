@@ -1,14 +1,14 @@
 ---
 title: SignupResponseMessageSetV1
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задаетSignupResponseMessageSetV1aspose.finance.ofx/ofxresponsedocument/signupresponsemessagesetv1.
+description: Получает или задаетSignupResponseMessageSetV1aspose.finance.ofx/ofxresponsedocument/signupresponsemessagesetv1 .
 type: docs
 weight: 140
 url: /ru/net/aspose.finance.ofx/ofxresponsedocument/signupresponsemessagesetv1/
 ---
 ## OfxResponseDocument.SignupResponseMessageSetV1 property
 
-Получает или задает`SignupResponseMessageSetV1`.
+Получает или задает`SignupResponseMessageSetV1` .
 
 ```csharp
 public SignupResponseMessageSetV1 SignupResponseMessageSetV1 { get; set; }

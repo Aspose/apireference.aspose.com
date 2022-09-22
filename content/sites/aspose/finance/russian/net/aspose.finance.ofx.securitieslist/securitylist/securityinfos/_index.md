@@ -1,14 +1,14 @@
 ---
 title: SecurityInfos
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает коллекциюMutualFundInfoaspose.finance.ofx.securitieslist/mutualfundinfoилиStockInfoaspose.finance.ofx.securitieslist/stockinfoилиOptionInfoaspose.finance.ofx.securitieslist/optioninfoилиDebtInfoaspose.finance.ofx.securitieslist/debtinfoилиДругаяИнформация.
+description: Получает или задает коллекциюMutualFundInfoaspose.finance.ofx.securitieslist/mutualfundinfo или жеStockInfoaspose.finance.ofx.securitieslist/stockinfo или жеOptionInfoaspose.finance.ofx.securitieslist/optioninfo или жеDebtInfoaspose.finance.ofx.securitieslist/debtinfo или жеOtherInfoaspose.finance.ofx.securitieslist/otherinfo .
 type: docs
 weight: 20
 url: /ru/net/aspose.finance.ofx.securitieslist/securitylist/securityinfos/
 ---
 ## SecurityList.SecurityInfos property
 
-Получает или задает коллекцию[`MutualFundInfo`](../../mutualfundinfo)или[`StockInfo`](../../stockinfo)или[`OptionInfo`](../../optioninfo)или[`DebtInfo`](../../debtinfo)илиДругаяИнформация.
+Получает или задает коллекцию[`MutualFundInfo`](../../mutualfundinfo) или же[`StockInfo`](../../stockinfo) или же[`OptionInfo`](../../optioninfo) или же[`DebtInfo`](../../debtinfo) или же[`OtherInfo`](../../otherinfo) .
 
 ```csharp
 public List<AbstractSecurityInfo> SecurityInfos { get; set; }

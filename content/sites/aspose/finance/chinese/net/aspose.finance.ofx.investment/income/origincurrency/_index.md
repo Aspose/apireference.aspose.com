@@ -1,14 +1,14 @@
 ---
 title: OriginCurrency
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置原点Currencyaspose.finance.ofx.investment/income/currency
+description: 获取或设置原点Currencyaspose.finance.ofx.investment/income/currency.
 type: docs
 weight: 50
 url: /zh/net/aspose.finance.ofx.investment/income/origincurrency/
 ---
 ## Income.OriginCurrency property
 
-获取或设置原点[`Currency`](../currency)。
+获取或设置原点[`Currency`](../currency).
 
 ```csharp
 public Currency OriginCurrency { get; set; }

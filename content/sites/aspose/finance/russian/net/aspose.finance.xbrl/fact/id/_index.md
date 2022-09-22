@@ -1,14 +1,14 @@
 ---
 title: Id
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает идентификатор факта.
+description: Получает или устанавливает идентификатор факта.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.xbrl/fact/id/
 ---
 ## Fact.Id property
 
-Получает или задает идентификатор факта.
+Получает или устанавливает идентификатор факта.
 
 ```csharp
 public string Id { get; set; }

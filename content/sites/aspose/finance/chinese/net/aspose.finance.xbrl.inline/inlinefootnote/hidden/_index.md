@@ -1,14 +1,14 @@
 ---
 title: Hidden
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置是否隐藏此脚注
+description: 获取或设置此脚注是否隐藏
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.xbrl.inline/inlinefootnote/hidden/
 ---
 ## InlineFootnote.Hidden property
 
-获取或设置是否隐藏此脚注。
+获取或设置此脚注是否隐藏。
 
 ```csharp
 public bool Hidden { get; set; }

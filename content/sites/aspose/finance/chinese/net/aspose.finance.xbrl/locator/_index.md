@@ -1,14 +1,14 @@
 ---
 title: Locator
 second_title: Aspose.Finance for .NET API 参考
-description: Xlink 的基本抽象类Locator 类型
+description: Locator 类型的 Xlink 基础抽象类
 type: docs
 weight: 7850
 url: /zh/net/aspose.finance.xbrl/locator/
 ---
 ## Locator class
 
-Xlink 的基本抽象类，Locator 类型。
+Locator 类型的 Xlink 基础抽象类。
 
 ```csharp
 public abstract class Locator : Xlink
@@ -18,7 +18,7 @@ public abstract class Locator : Xlink
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Locator](locator)() | 初始化[`Locator`](../locator)类的新实例。 |
+| [Locator](locator)() | 初始化一个新的实例[`Locator`](../locator)类. |
 
 ## 特性
 

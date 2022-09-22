@@ -1,14 +1,14 @@
 ---
 title: InterTransactionResponse
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化InterTransactionResponseaspose.finance.ofx.intertransfer/intertransactionresponse类的新实例
+description: 初始化一个新的实例InterTransactionResponseaspose.finance.ofx.intertransfer/intertransactionresponse类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.intertransfer/intertransactionresponse/intertransactionresponse/
 ---
 ## InterTransactionResponse constructor
 
-初始化[`InterTransactionResponse`](../../intertransactionresponse)类的新实例。
+初始化一个新的实例[`InterTransactionResponse`](../../intertransactionresponse)类.
 
 ```csharp
 public InterTransactionResponse()

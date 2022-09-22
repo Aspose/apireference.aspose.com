@@ -1,14 +1,14 @@
 ---
 title: DueDate
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает дату возникновения.
+description: Получает или задает Дату наступления.
 type: docs
 weight: 30
 url: /ru/net/aspose.finance.ofx.wiretransfer/wirerequest/duedate/
 ---
 ## WireRequest.DueDate property
 
-Получает или задает дату возникновения.
+Получает или задает Дату наступления.
 
 ```csharp
 public string DueDate { get; set; }

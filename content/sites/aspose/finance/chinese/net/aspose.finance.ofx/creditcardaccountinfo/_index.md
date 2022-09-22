@@ -18,18 +18,18 @@ public class CreditCardAccountInfo : AbstractAccountInfo
 
 | 姓名 | 描述 |
 | --- | --- |
-| [CreditCardAccountInfo](creditcardaccountinfo)() | 初始化[`CreditCardAccountInfo`](../creditcardaccountinfo)类的新实例。 |
+| [CreditCardAccountInfo](creditcardaccountinfo)() | 初始化一个新的实例[`CreditCardAccountInfo`](../creditcardaccountinfo)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
 | [AccountClassification](../../aspose.finance.ofx/creditcardaccountinfo/accountclassification) { get; set; } | 获取或设置账户分类。 |
-| [CreditCardAccountFrom](../../aspose.finance.ofx/creditcardaccountinfo/creditcardaccountfrom) { get; set; } | 获取或设置[`BankAccount`](../bankaccount)的来源。 |
+| [CreditCardAccountFrom](../../aspose.finance.ofx/creditcardaccountinfo/creditcardaccountfrom) { get; set; } | 获取或设置 from[`BankAccount`](../bankaccount). |
 | [ServiceStatus](../../aspose.finance.ofx/creditcardaccountinfo/servicestatus) { get; set; } | 获取或设置账户状态。 |
-| [SupportTransactionDetailDownload](../../aspose.finance.ofx/creditcardaccountinfo/supporttransactiondetaildownload) { get; set; } | 如果账户支持交易明细下载，可以，如果只支持余额，不支持。 |
-| [TransferDestination](../../aspose.finance.ofx/creditcardaccountinfo/transferdestination) { get; set; } | 如果账户被启用作为银行内或银行间转账的目的地，是，否则，否。 |
-| [TransferSource](../../aspose.finance.ofx/creditcardaccountinfo/transfersource) { get; set; } | 如果启用帐户作为银行内或银行间转账的来源，则为是，否则为否。 |
+| [SupportTransactionDetailDownload](../../aspose.finance.ofx/creditcardaccountinfo/supporttransactiondetaildownload) { get; set; } | 如果账户支持交易明细下载，是的，如果是仅余额，否。 |
+| [TransferDestination](../../aspose.finance.ofx/creditcardaccountinfo/transferdestination) { get; set; } | 如果帐户被启用作为银行内或银行间转账的目的地，是，否则，否。 |
+| [TransferSource](../../aspose.finance.ofx/creditcardaccountinfo/transfersource) { get; set; } | 如果账户被启用作为银行内或银行间转账的来源，是，否则，否。 |
 
 ### 也可以看看
 

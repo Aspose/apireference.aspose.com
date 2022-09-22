@@ -1,14 +1,14 @@
 ---
 title: LocalCacheService
 second_title: Aspose.Finance for .NET API 参考
-description: 此类是架构和链接库外部文件的本地缓存服务
+description: 此类是模式和链接库外部文件的本地缓存服务
 type: docs
 weight: 7840
 url: /zh/net/aspose.finance.xbrl/localcacheservice/
 ---
 ## LocalCacheService class
 
-此类是架构和链接库外部文件的本地缓存服务。
+此类是模式和链接库外部文件的本地缓存服务。
 
 ```csharp
 public static class LocalCacheService
@@ -18,7 +18,7 @@ public static class LocalCacheService
 
 | 姓名 | 描述 |
 | --- | --- |
-| static [Enable](../../aspose.finance.xbrl/localcacheservice/enable) { get; } | 获取服务是否开启。 |
+| static [Enable](../../aspose.finance.xbrl/localcacheservice/enable) { get; } | 获取服务是否开启 |
 
 ## 方法
 

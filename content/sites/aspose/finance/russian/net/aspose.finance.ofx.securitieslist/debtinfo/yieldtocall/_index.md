@@ -1,14 +1,14 @@
 ---
 title: YieldToCall
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает доход до следующего вызова.
+description: Получает или устанавливает доходность до следующего вызова.
 type: docs
 weight: 130
 url: /ru/net/aspose.finance.ofx.securitieslist/debtinfo/yieldtocall/
 ---
 ## DebtInfo.YieldToCall property
 
-Получает или задает доход до следующего вызова.
+Получает или устанавливает доходность до следующего вызова.
 
 ```csharp
 public string YieldToCall { get; set; }

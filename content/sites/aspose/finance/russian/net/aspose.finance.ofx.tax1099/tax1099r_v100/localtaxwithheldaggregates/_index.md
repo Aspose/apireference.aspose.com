@@ -1,14 +1,14 @@
 ---
 title: LocalTaxWithheldAggregates
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает коллекциюLocalTaxWithheldAggregateaspose.finance.ofx.tax1099/localtaxwithheldaggregate.
+description: Получает или задает коллекциюLocalTaxWithheldAggregateaspose.finance.ofx.tax1099/localtaxwithheldaggregate .
 type: docs
 weight: 120
 url: /ru/net/aspose.finance.ofx.tax1099/tax1099r_v100/localtaxwithheldaggregates/
 ---
 ## Tax1099R_V100.LocalTaxWithheldAggregates property
 
-Получает или задает коллекцию[`LocalTaxWithheldAggregate`](../../localtaxwithheldaggregate).
+Получает или задает коллекцию[`LocalTaxWithheldAggregate`](../../localtaxwithheldaggregate) .
 
 ```csharp
 public List<LocalTaxWithheldAggregate> LocalTaxWithheldAggregates { get; set; }

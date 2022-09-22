@@ -1,14 +1,14 @@
 ---
 title: UnitRef
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置对Unitaspose.finance.xbrl/unit的引用
+description: 获取或设置对Unitaspose.finance.xbrl/unit.
 type: docs
 weight: 90
 url: /zh/net/aspose.finance.xbrl/item/unitref/
 ---
 ## Item.UnitRef property
 
-获取或设置对[`Unit`](../../unit)的引用。
+获取或设置对[`Unit`](../../unit).
 
 ```csharp
 public Unit UnitRef { get; set; }

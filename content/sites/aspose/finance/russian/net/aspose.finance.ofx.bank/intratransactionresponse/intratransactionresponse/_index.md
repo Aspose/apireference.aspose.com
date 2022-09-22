@@ -1,14 +1,14 @@
 ---
 title: IntraTransactionResponse
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаIntraTransactionResponseaspose.finance.ofx.bank/intratransactionresponse.
+description: Инициализирует новый экземплярIntraTransactionResponseaspose.finance.ofx.bank/intratransactionresponse класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.bank/intratransactionresponse/intratransactionresponse/
 ---
 ## IntraTransactionResponse constructor
 
-Инициализирует новый экземпляр класса[`IntraTransactionResponse`](../../intratransactionresponse).
+Инициализирует новый экземпляр[`IntraTransactionResponse`](../../intratransactionresponse) класс.
 
 ```csharp
 public IntraTransactionResponse()

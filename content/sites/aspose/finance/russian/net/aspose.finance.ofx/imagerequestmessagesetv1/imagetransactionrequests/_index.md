@@ -1,14 +1,14 @@
 ---
 title: ImageTransactionRequests
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает коллекциюImageTransactionRequestaspose.finance.ofx.image/imagetransactionrequest.
+description: Получает или задает коллекциюImageTransactionRequestaspose.finance.ofx.image/imagetransactionrequest .
 type: docs
 weight: 20
 url: /ru/net/aspose.finance.ofx/imagerequestmessagesetv1/imagetransactionrequests/
 ---
 ## ImageRequestMessageSetV1.ImageTransactionRequests property
 
-Получает или задает коллекцию[`ImageTransactionRequest`](../../../aspose.finance.ofx.image/imagetransactionrequest).
+Получает или задает коллекцию[`ImageTransactionRequest`](../../../aspose.finance.ofx.image/imagetransactionrequest) .
 
 ```csharp
 public List<ImageTransactionRequest> ImageTransactionRequests { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: IncludeImages
 second_title: Справочник по API Aspose.Finance для .NET
-description: True если клиент принимает почту с изображениями в теле сообщения False если клиент не принимает почту с изображениями в теле сообщения
+description: True если клиент принимает почту с изображениями в теле сообщения False если клиент не принимает почту с изображениями в теле сообщения body
 type: docs
 weight: 20
 url: /ru/net/aspose.finance.ofx.email/mailsyncrequest/includeimages/
 ---
 ## MailSyncRequest.IncludeImages property
 
-True, если клиент принимает почту с изображениями в теле сообщения, False, если клиент не принимает почту с изображениями в теле сообщения
+True, если клиент принимает почту с изображениями в теле сообщения, False, если клиент не принимает почту с изображениями в теле сообщения body
 
 ```csharp
 public bool IncludeImages { get; set; }

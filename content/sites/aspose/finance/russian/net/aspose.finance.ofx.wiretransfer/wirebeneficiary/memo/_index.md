@@ -1,14 +1,14 @@
 ---
 title: Memo
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает информацию о получателе.
+description: Получает или устанавливает информацию для получателя.
 type: docs
 weight: 30
 url: /ru/net/aspose.finance.ofx.wiretransfer/wirebeneficiary/memo/
 ---
 ## WireBeneficiary.Memo property
 
-Получает или задает информацию о получателе.
+Получает или устанавливает информацию для получателя.
 
 ```csharp
 public string Memo { get; set; }

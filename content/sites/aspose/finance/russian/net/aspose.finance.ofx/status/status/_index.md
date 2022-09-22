@@ -1,14 +1,14 @@
 ---
 title: Status
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаStatusaspose.finance.ofx/status.
+description: Инициализирует новый экземплярStatusaspose.finance.ofx/status класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx/status/status/
 ---
 ## Status constructor
 
-Инициализирует новый экземпляр класса[`Status`](../../status).
+Инициализирует новый экземпляр[`Status`](../../status) класс.
 
 ```csharp
 public Status()

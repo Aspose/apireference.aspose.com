@@ -1,14 +1,14 @@
 ---
 title: Address2
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает адрес плательщика строка 2.
+description: Получает или устанавливает адрес плательщика строка 2.
 type: docs
 weight: 30
 url: /ru/net/aspose.finance.ofx.tax1099/payeraddress/address2/
 ---
 ## PayerAddress.Address2 property
 
-Получает или задает адрес плательщика, строка 2.
+Получает или устанавливает адрес плательщика, строка 2.
 
 ```csharp
 public string Address2 { get; set; }

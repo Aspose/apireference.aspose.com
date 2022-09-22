@@ -1,14 +1,14 @@
 ---
 title: RecurringPaymentRequest
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаRecurringPaymentRequestaspose.finance.ofx.billpay/recurringpaymentrequest.
+description: Инициализирует новый экземплярRecurringPaymentRequestaspose.finance.ofx.billpay/recurringpaymentrequest класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.billpay/recurringpaymentrequest/recurringpaymentrequest/
 ---
 ## RecurringPaymentRequest constructor
 
-Инициализирует новый экземпляр класса[`RecurringPaymentRequest`](../../recurringpaymentrequest).
+Инициализирует новый экземпляр[`RecurringPaymentRequest`](../../recurringpaymentrequest) класс.
 
 ```csharp
 public RecurringPaymentRequest()

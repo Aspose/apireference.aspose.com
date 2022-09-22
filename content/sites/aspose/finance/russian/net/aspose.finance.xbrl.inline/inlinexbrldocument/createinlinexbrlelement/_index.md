@@ -17,7 +17,7 @@ public InlineXbrlElement CreateInlineXbrlElement(string name, string prefix = nu
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | name | String | Локальное имя встроенного элемента xbrl. |
-| prefix | String | Встроенный префикс элемента xbrl. |
+| prefix | String | Префикс встроенного элемента xbrl. |
 
 ### Возвращаемое значение
 

@@ -18,14 +18,14 @@ public class RecurringInterResponse : AbstractRecurringInterResponse
 
 | 姓名 | 描述 |
 | --- | --- |
-| [RecurringInterResponse](recurringinterresponse)() | 初始化[`RecurringInterResponse`](../recurringinterresponse)类的新实例。 |
+| [RecurringInterResponse](recurringinterresponse)() | 初始化一个新的实例[`RecurringInterResponse`](../recurringinterresponse)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [InterResponse](../../aspose.finance.ofx.intertransfer/recurringinterresponse/interresponse) { get; set; } | 获取或设置[`InterResponse`](./interresponse)。 |
-| [RecurringInstructions](../../aspose.finance.ofx.intertransfer/recurringinterresponse/recurringinstructions) { get; set; } | 获取或设置[`RecurringInstructions`](./recurringinstructions)。 |
+| [InterResponse](../../aspose.finance.ofx.intertransfer/recurringinterresponse/interresponse) { get; set; } | 获取或设置[`InterResponse`](./interresponse). |
+| [RecurringInstructions](../../aspose.finance.ofx.intertransfer/recurringinterresponse/recurringinstructions) { get; set; } | 获取或设置[`RecurringInstructions`](./recurringinstructions). |
 | [RecurringServerId](../../aspose.finance.ofx.intertransfer/abstractrecurringinterresponse/recurringserverid) { get; set; } | 获取或设置此模型的服务器分配 ID。 |
 
 ### 也可以看看

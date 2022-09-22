@@ -1,14 +1,14 @@
 ---
 title: SimpleLink
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаSimpleLinkaspose.finance.xbrl/simplelink.
+description: Инициализирует новый экземплярSimpleLinkaspose.finance.xbrl/simplelink класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.xbrl/simplelink/simplelink/
 ---
 ## SimpleLink constructor
 
-Инициализирует новый экземпляр класса[`SimpleLink`](../../simplelink).
+Инициализирует новый экземпляр[`SimpleLink`](../../simplelink) класс.
 
 ```csharp
 public SimpleLink()

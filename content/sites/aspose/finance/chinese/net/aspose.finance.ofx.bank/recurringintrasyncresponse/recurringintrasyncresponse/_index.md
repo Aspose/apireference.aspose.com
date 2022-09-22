@@ -1,14 +1,14 @@
 ---
 title: RecurringIntraSyncResponse
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化RecurringIntraSyncResponseaspose.finance.ofx.bank/recurringintrasyncresponse类的新实例
+description: 初始化一个新的实例RecurringIntraSyncResponseaspose.finance.ofx.bank/recurringintrasyncresponse类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.bank/recurringintrasyncresponse/recurringintrasyncresponse/
 ---
 ## RecurringIntraSyncResponse constructor
 
-初始化[`RecurringIntraSyncResponse`](../../recurringintrasyncresponse)类的新实例。
+初始化一个新的实例[`RecurringIntraSyncResponse`](../../recurringintrasyncresponse)类.
 
 ```csharp
 public RecurringIntraSyncResponse()

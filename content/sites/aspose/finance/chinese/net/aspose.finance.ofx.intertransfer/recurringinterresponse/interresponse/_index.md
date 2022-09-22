@@ -1,14 +1,14 @@
 ---
 title: InterResponse
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置InterResponseaspose.finance.ofx.intertransfer/recurringinterresponse/interresponse
+description: 获取或设置InterResponseaspose.finance.ofx.intertransfer/recurringinterresponse/interresponse.
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.ofx.intertransfer/recurringinterresponse/interresponse/
 ---
 ## RecurringInterResponse.InterResponse property
 
-获取或设置`InterResponse`。
+获取或设置`InterResponse`.
 
 ```csharp
 public InterResponse InterResponse { get; set; }

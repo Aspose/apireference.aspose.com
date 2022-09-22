@@ -1,14 +1,14 @@
 ---
 title: PayeeSyncRequest
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаPayeeSyncRequestaspose.finance.ofx.billpay/payeesyncrequest.
+description: Инициализирует новый экземплярPayeeSyncRequestaspose.finance.ofx.billpay/payeesyncrequest класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.billpay/payeesyncrequest/payeesyncrequest/
 ---
 ## PayeeSyncRequest constructor
 
-Инициализирует новый экземпляр класса[`PayeeSyncRequest`](../../payeesyncrequest).
+Инициализирует новый экземпляр[`PayeeSyncRequest`](../../payeesyncrequest) класс.
 
 ```csharp
 public PayeeSyncRequest()

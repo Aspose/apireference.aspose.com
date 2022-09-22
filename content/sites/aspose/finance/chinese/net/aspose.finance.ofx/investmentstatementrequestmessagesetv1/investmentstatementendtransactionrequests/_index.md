@@ -1,14 +1,14 @@
 ---
 title: InvestmentStatementEndTransactionRequests
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置InvestmentStatementEndTransactionRequestaspose.finance.ofx.investment/investmentstatementendtransactionrequest的集合
+description: 获取或设置的集合InvestmentStatementEndTransactionRequestaspose.finance.ofx.investment/investmentstatementendtransactionrequest.
 type: docs
 weight: 40
 url: /zh/net/aspose.finance.ofx/investmentstatementrequestmessagesetv1/investmentstatementendtransactionrequests/
 ---
 ## InvestmentStatementRequestMessageSetV1.InvestmentStatementEndTransactionRequests property
 
-获取或设置[`InvestmentStatementEndTransactionRequest`](../../../aspose.finance.ofx.investment/investmentstatementendtransactionrequest)的集合。
+获取或设置的集合[`InvestmentStatementEndTransactionRequest`](../../../aspose.finance.ofx.investment/investmentstatementendtransactionrequest).
 
 ```csharp
 public List<InvestmentStatementEndTransactionRequest> 

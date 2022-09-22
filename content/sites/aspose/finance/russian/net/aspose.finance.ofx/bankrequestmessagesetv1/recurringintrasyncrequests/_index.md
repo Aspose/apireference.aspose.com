@@ -1,14 +1,14 @@
 ---
 title: RecurringIntraSyncRequests
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает коллекциюRecurringIntraSyncRequestaspose.finance.ofx.bank/recurringintrasyncrequest.
+description: Получает или задает коллекциюRecurringIntraSyncRequestaspose.finance.ofx.bank/recurringintrasyncrequest .
 type: docs
 weight: 60
 url: /ru/net/aspose.finance.ofx/bankrequestmessagesetv1/recurringintrasyncrequests/
 ---
 ## BankRequestMessageSetV1.RecurringIntraSyncRequests property
 
-Получает или задает коллекцию[`RecurringIntraSyncRequest`](../../../aspose.finance.ofx.bank/recurringintrasyncrequest).
+Получает или задает коллекцию[`RecurringIntraSyncRequest`](../../../aspose.finance.ofx.bank/recurringintrasyncrequest) .
 
 ```csharp
 public List<RecurringIntraSyncRequest> RecurringIntraSyncRequests { get; set; }

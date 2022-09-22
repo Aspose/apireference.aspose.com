@@ -1,14 +1,14 @@
 ---
 title: Closing
 second_title: Справочник по API Aspose.Finance для .NET
-description: Чековый сберегательный денежный рынок депозитный счет или счет кредитной линии используют класс для описания информации закрытия выписки.
+description: Текущий сберегательный денежный рынок депозитный счет или счет кредитной линии используют класс для описания информации о закрытии выписки.
 type: docs
 weight: 410
 url: /ru/net/aspose.finance.ofx.bank/closing/
 ---
 ## Closing class
 
-Чековый, сберегательный, денежный рынок, депозитный счет или счет кредитной линии используют класс для описания информации закрытия выписки.
+Текущий, сберегательный, денежный рынок, депозитный счет или счет кредитной линии используют класс для описания информации о закрытии выписки.
 
 ```csharp
 public class Closing
@@ -18,32 +18,32 @@ public class Closing
 
 | Имя | Описание |
 | --- | --- |
-| [Closing](closing)() | Инициализирует новый экземпляр класса[`Closing`](../closing). |
+| [Closing](closing)() | Инициализирует новый экземпляр[`Closing`](../closing) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [BalanceClose](../../aspose.finance.ofx.bank/closing/balanceclose) { get; set; } | Получает или задает баланс закрытия отчета. |
-| [BalanceMin](../../aspose.finance.ofx.bank/closing/balancemin) { get; set; } | Получает или задает минимальный остаток в отчетном периоде. |
-| [BalanceOpen](../../aspose.finance.ofx.bank/closing/balanceopen) { get; set; } | Получает или задает баланс вступительной выписки. |
+| [BalanceClose](../../aspose.finance.ofx.bank/closing/balanceclose) { get; set; } | Получает или задает баланс заключительной выписки. |
+| [BalanceMin](../../aspose.finance.ofx.bank/closing/balancemin) { get; set; } | Получает или задает минимальный баланс в отчетном периоде. |
+| [BalanceOpen](../../aspose.finance.ofx.bank/closing/balanceopen) { get; set; } | Получает или задает баланс вступительного отчета. |
 | [ChecksAndDebits](../../aspose.finance.ofx.bank/closing/checksanddebits) { get; set; } | Получает или задает общую сумму чеков и дебетов, включая сборы. |
 | [CloseDate](../../aspose.finance.ofx.bank/closing/closedate) { get; set; } | Получает или задает дату закрытия отчета. |
-| [CreditLineInfo](../../aspose.finance.ofx.bank/closing/creditlineinfo) { get; set; } | Получает или задает[`CreditLineInfoType`](../../aspose.finance.ofx/creditlineinfotype). |
-| [Currency](../../aspose.finance.ofx.bank/closing/currency) { get; set; } | Получает или задает[`Currency`](./currency). |
+| [CreditLineInfo](../../aspose.finance.ofx.bank/closing/creditlineinfo) { get; set; } | Получает или задает[`CreditLineInfoType`](../../aspose.finance.ofx/creditlineinfotype) . |
+| [Currency](../../aspose.finance.ofx.bank/closing/currency) { get; set; } | Получает или задает[`Currency`](./currency) . |
 | [DepositsAndCredits](../../aspose.finance.ofx.bank/closing/depositsandcredits) { get; set; } | Получает или задает общую сумму депозитов и кредитов, включая проценты. |
 | [FinancialInstitutionTransactionId](../../aspose.finance.ofx.bank/closing/financialinstitutiontransactionid) { get; set; } | Получает или задает уникальный идентификатор для этого оператора. |
-| [ImageData](../../aspose.finance.ofx.bank/closing/imagedata) { get; set; } | Получает или задает[`ImageData`](./imagedata). |
-| [InterestRate](../../aspose.finance.ofx.bank/closing/interestrate) { get; set; } | Получает или задает эффективную процентную ставку с учетом любых изменений ставок, которые применялись в течение этого периода выписки. |
-| [InterestYearToDate](../../aspose.finance.ofx.bank/closing/interestyeartodate) { get; set; } | Получает или задает проценты, выплачиваемые по счету за текущий год. |
+| [ImageData](../../aspose.finance.ofx.bank/closing/imagedata) { get; set; } | Получает или задает[`ImageData`](./imagedata) . |
+| [InterestRate](../../aspose.finance.ofx.bank/closing/interestrate) { get; set; } | Получает или задает эффективную процентную ставку с учетом любых изменений в ставках, которые применялись в течение этого периода выписки. |
+| [InterestYearToDate](../../aspose.finance.ofx.bank/closing/interestyeartodate) { get; set; } | Получает или задает проценты, выплаченные по счету за текущий год. |
 | [MarketingInformation](../../aspose.finance.ofx.bank/closing/marketinginformation) { get; set; } | Получает или задает маркетинговую информацию. |
 | [NextDate](../../aspose.finance.ofx.bank/closing/nextdate) { get; set; } | Получает или задает дату закрытия следующего оператора. |
 | [OpenDate](../../aspose.finance.ofx.bank/closing/opendate) { get; set; } | Получает или задает дату вступительного заявления. |
-| [OriginCurrency](../../aspose.finance.ofx.bank/closing/origincurrency) { get; set; } | Получает или задает Origin[`Currency`](./currency). |
+| [OriginCurrency](../../aspose.finance.ofx.bank/closing/origincurrency) { get; set; } | Получает или задает источник[`Currency`](./currency) . |
 | [PostEndDate](../../aspose.finance.ofx.bank/closing/postenddate) { get; set; } | Получает или задает дату окончания данных транзакции для этого оператора. |
 | [PostStartDate](../../aspose.finance.ofx.bank/closing/poststartdate) { get; set; } | Получает или задает начальную дату данных транзакции для этого оператора. |
-| [TotalFees](../../aspose.finance.ofx.bank/closing/totalfees) { get; set; } | Получает или задает общую сумму всех сборов. |
-| [TotalInterest](../../aspose.finance.ofx.bank/closing/totalinterest) { get; set; } | Получает или задает общую сумму процентов. |
+| [TotalFees](../../aspose.finance.ofx.bank/closing/totalfees) { get; set; } | Получает или задает общую сумму всех комиссий. |
+| [TotalInterest](../../aspose.finance.ofx.bank/closing/totalinterest) { get; set; } | Получает или задает общую сумму всех процентов. |
 
 ### Смотрите также
 

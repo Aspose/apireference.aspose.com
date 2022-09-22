@@ -1,14 +1,14 @@
 ---
 title: Percent
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает процентную долю фонда относящуюся к этому классу активов.
+description: Получает или задает процент фонда подпадающий под этот класс активов.
 type: docs
 weight: 30
 url: /ru/net/aspose.finance.ofx.securitieslist/financialinstitutionportion/percent/
 ---
 ## FinancialInstitutionPortion.Percent property
 
-Получает или задает процентную долю фонда, относящуюся к этому классу активов.
+Получает или задает процент фонда, подпадающий под этот класс активов.
 
 ```csharp
 public string Percent { get; set; }

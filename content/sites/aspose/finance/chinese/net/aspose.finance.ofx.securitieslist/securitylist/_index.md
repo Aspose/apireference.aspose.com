@@ -18,13 +18,13 @@ public class SecurityList
 
 | 姓名 | 描述 |
 | --- | --- |
-| [SecurityList](securitylist)() | 初始化[`SecurityList`](../securitylist)类的新实例。 |
+| [SecurityList](securitylist)() | 初始化一个新的实例[`SecurityList`](../securitylist)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [SecurityInfos](../../aspose.finance.ofx.securitieslist/securitylist/securityinfos) { get; set; } | 获取或设置[`MutualFundInfo`](../mutualfundinfo)或StockInfo的集合或[`OptionInfo`](../optioninfo)或[`DebtInfo`](../debtinfo)或[`OtherInfo`](../otherinfo)。 |
+| [SecurityInfos](../../aspose.finance.ofx.securitieslist/securitylist/securityinfos) { get; set; } | 获取或设置的集合[`MutualFundInfo`](../mutualfundinfo)或者[`StockInfo`](../stockinfo)或者[`OptionInfo`](../optioninfo)或者[`DebtInfo`](../debtinfo)或者[`OtherInfo`](../otherinfo). |
 
 ### 也可以看看
 

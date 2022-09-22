@@ -18,23 +18,23 @@ public class BankAccountInfo : AbstractAccountInfo
 
 | Имя | Описание |
 | --- | --- |
-| [BankAccountInfo](bankaccountinfo)() | Инициализирует новый экземпляр класса[`BankAccountInfo`](../bankaccountinfo). |
+| [BankAccountInfo](bankaccountinfo)() | Инициализирует новый экземпляр[`BankAccountInfo`](../bankaccountinfo) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
 | [AccountClassification](../../aspose.finance.ofx/bankaccountinfo/accountclassification) { get; set; } | Получает или задает классификацию учетной записи. |
-| [BankAccountFrom](../../aspose.finance.ofx/bankaccountinfo/bankaccountfrom) { get; set; } | Получает или задает значение из[`BankAccount`](../bankaccount). |
-| [LoanAccountType](../../aspose.finance.ofx/bankaccountinfo/loanaccounttype) { get; set; } | Получает или задает тип кредитного счета |
-| [MaturityAmount](../../aspose.finance.ofx/bankaccountinfo/maturityamount) { get; set; } | Получает или задает сумму по истечении срока для CD, применяется только к счетам CD. |
+| [BankAccountFrom](../../aspose.finance.ofx/bankaccountinfo/bankaccountfrom) { get; set; } | Получает или задает из[`BankAccount`](../bankaccount) . |
+| [LoanAccountType](../../aspose.finance.ofx/bankaccountinfo/loanaccounttype) { get; set; } | Получает или задает тип ссудного счета |
+| [MaturityAmount](../../aspose.finance.ofx/bankaccountinfo/maturityamount) { get; set; } | Получает или задает сумму срока погашения для CD, применяется только к счетам CD. |
 | [MaturityDate](../../aspose.finance.ofx/bankaccountinfo/maturitydate) { get; set; } | Получает или задает дату погашения для CD, применяется только к учетным записям CD. |
 | [MinimumBalanceRequired](../../aspose.finance.ofx/bankaccountinfo/minimumbalancerequired) { get; set; } | Получает или задает минимальный баланс, необходимый для того, чтобы избежать платы за обслуживание. |
-| [OverdraftLimit](../../aspose.finance.ofx/bankaccountinfo/overdraftlimit) { get; set; } | Получает или задает текущий лимит овердрафта, активный для счета |
-| [ServiceStatus](../../aspose.finance.ofx/bankaccountinfo/servicestatus) { get; set; } | Получает или задает статус учетной записи. |
+| [OverdraftLimit](../../aspose.finance.ofx/bankaccountinfo/overdraftlimit) { get; set; } | Получает или задает текущий лимит овердрафта, активный для account |
+| [ServiceStatus](../../aspose.finance.ofx/bankaccountinfo/servicestatus) { get; set; } | Получает или устанавливает статус учетной записи. |
 | [SupportTransactionDetailDownload](../../aspose.finance.ofx/bankaccountinfo/supporttransactiondetaildownload) { get; set; } | Если учетная запись поддерживает загрузку сведений о транзакциях, да, если только баланс, нет. |
-| [TransferDestination](../../aspose.finance.ofx/bankaccountinfo/transferdestination) { get; set; } | если счет включен в качестве назначения для внутрибанковского или межбанковского перевода, да, иначе нет. |
-| [TransferSource](../../aspose.finance.ofx/bankaccountinfo/transfersource) { get; set; } | Если аккаунт включен в качестве источника для внутрибанковского или межбанковского перевода, да, иначе нет. |
+| [TransferDestination](../../aspose.finance.ofx/bankaccountinfo/transferdestination) { get; set; } | , если счет включен в качестве получателя внутрибанковского или межбанковского перевода, да, иначе нет. |
+| [TransferSource](../../aspose.finance.ofx/bankaccountinfo/transfersource) { get; set; } | Если счет включен как источник внутрибанковского или межбанковского перевода, да, иначе нет. |
 
 ### Смотрите также
 

@@ -1,14 +1,14 @@
 ---
 title: City
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает адрес города учащегося.
+description: Получает или задает адрес студента city.
 type: docs
 weight: 50
 url: /ru/net/aspose.finance.ofx.tax1098/studentaddress/city/
 ---
 ## StudentAddress.City property
 
-Получает или задает адрес города учащегося.
+Получает или задает адрес студента city.
 
 ```csharp
 public string City { get; set; }

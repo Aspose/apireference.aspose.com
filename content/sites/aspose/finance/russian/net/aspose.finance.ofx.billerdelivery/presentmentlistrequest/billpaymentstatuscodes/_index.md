@@ -1,14 +1,14 @@
 ---
 title: BillPaymentStatusCodes
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает коды состояния оплаты счетов.
+description: Получает или задает коды статуса оплаты счетов.
 type: docs
 weight: 40
 url: /ru/net/aspose.finance.ofx.billerdelivery/presentmentlistrequest/billpaymentstatuscodes/
 ---
 ## PresentmentListRequest.BillPaymentStatusCodes property
 
-Получает или задает коды состояния оплаты счетов.
+Получает или задает коды статуса оплаты счетов.
 
 ```csharp
 public List<BillPaymentStatusCodeEnum> BillPaymentStatusCodes { get; set; }

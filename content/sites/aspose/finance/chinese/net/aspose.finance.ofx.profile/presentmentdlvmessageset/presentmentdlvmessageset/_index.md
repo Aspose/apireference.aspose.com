@@ -1,14 +1,14 @@
 ---
 title: PresentmentDlvMessageSet
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化PresentmentDlvMessageSetaspose.finance.ofx.profile/presentmentdlvmessageset类的新实例
+description: 初始化一个新的实例PresentmentDlvMessageSetaspose.finance.ofx.profile/presentmentdlvmessageset类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.profile/presentmentdlvmessageset/presentmentdlvmessageset/
 ---
 ## PresentmentDlvMessageSet constructor
 
-初始化[`PresentmentDlvMessageSet`](../../presentmentdlvmessageset)类的新实例。
+初始化一个新的实例[`PresentmentDlvMessageSet`](../../presentmentdlvmessageset)类.
 
 ```csharp
 public PresentmentDlvMessageSet()

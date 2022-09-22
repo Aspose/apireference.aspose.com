@@ -1,14 +1,14 @@
 ---
 title: Value
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает значениеInlineFractionaspose.finance.xbrl.inline/inlinefraction.
+description: Получает или задает значениеInlineFractionaspose.finance.xbrl.inline/inlinefraction .
 type: docs
 weight: 70
 url: /ru/net/aspose.finance.xbrl.inline/inlinefraction/value/
 ---
 ## InlineFraction.Value property
 
-Получает или задает значение[`InlineFraction`](../../inlinefraction).
+Получает или задает значение[`InlineFraction`](../../inlinefraction) .
 
 ```csharp
 public string Value { get; set; }

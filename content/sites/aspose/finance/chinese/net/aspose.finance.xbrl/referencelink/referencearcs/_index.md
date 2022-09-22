@@ -1,14 +1,14 @@
 ---
 title: ReferenceArcs
 second_title: Aspose.Finance for .NET API 参考
-description: 获取ReferenceArcaspose.finance.xbrl/referencearc的集合
+description: 获取集合ReferenceArcaspose.finance.xbrl/referencearc.
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.xbrl/referencelink/referencearcs/
 ---
 ## ReferenceLink.ReferenceArcs property
 
-获取[`ReferenceArc`](../../referencearc)的集合。
+获取集合[`ReferenceArc`](../../referencearc).
 
 ```csharp
 public List<ReferenceArc> ReferenceArcs { get; }

@@ -3,7 +3,7 @@ title: HTMLLIElement
 second_title: Aspose.Finance for .NET API Reference
 description: The class represents list item. See the LI element definition in HTML 4.01.
 type: docs
-weight: 6970
+weight: 7000
 url: /net/aspose.finance.xbrl.dom.html/htmllielement/
 ---
 ## HTMLLIElement class

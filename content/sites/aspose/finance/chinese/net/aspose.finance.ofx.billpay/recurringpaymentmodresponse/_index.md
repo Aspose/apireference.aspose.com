@@ -18,7 +18,7 @@ public class RecurringPaymentModResponse : AbstractRecurringPaymentResponse
 
 | 姓名 | 描述 |
 | --- | --- |
-| [RecurringPaymentModResponse](recurringpaymentmodresponse)() | 初始化[`RecurringPaymentModResponse`](../recurringpaymentmodresponse)类的新实例。 |
+| [RecurringPaymentModResponse](recurringpaymentmodresponse)() | 初始化一个新的实例[`RecurringPaymentModResponse`](../recurringpaymentmodresponse)类. |
 
 ## 特性
 
@@ -26,9 +26,9 @@ public class RecurringPaymentModResponse : AbstractRecurringPaymentResponse
 | --- | --- |
 | [FinalAmount](../../aspose.finance.ofx.billpay/recurringpaymentmodresponse/finalamount) { get; set; } | 获取或设置最终支付的金额。 |
 | [InitialAmount](../../aspose.finance.ofx.billpay/recurringpaymentmodresponse/initialamount) { get; set; } | 获取或设置首期付款金额。 |
-| [ModifyPending](../../aspose.finance.ofx.billpay/recurringpaymentmodresponse/modifypending) { get; set; } | 如果客户端请求服务器修改未决和未来付款，则为真。如果客户端未请求服务器修改待处理和未来付款，则为 False。 |
-| [PaymentInfo](../../aspose.finance.ofx.billpay/recurringpaymentmodresponse/paymentinfo) { get; set; } | 获取或设置[`PaymentInfo`](./paymentinfo)。 |
-| [RecurringInstructions](../../aspose.finance.ofx.billpay/recurringpaymentmodresponse/recurringinstructions) { get; set; } | 获取或设置[`RecurringInstructions`](./recurringinstructions)。 |
+| [ModifyPending](../../aspose.finance.ofx.billpay/recurringpaymentmodresponse/modifypending) { get; set; } | 如果客户端请求服务器修改未决和未来付款，则为真。如果客户端没有请求服务器修改未决和未来的付款，则为 False。 |
+| [PaymentInfo](../../aspose.finance.ofx.billpay/recurringpaymentmodresponse/paymentinfo) { get; set; } | 获取或设置[`PaymentInfo`](./paymentinfo). |
+| [RecurringInstructions](../../aspose.finance.ofx.billpay/recurringpaymentmodresponse/recurringinstructions) { get; set; } | 获取或设置[`RecurringInstructions`](./recurringinstructions). |
 | [RecurringServerId](../../aspose.finance.ofx.billpay/abstractrecurringpaymentresponse/recurringserverid) { get; set; } | 获取或设置此事务的服务器分配 ID。 |
 
 ### 也可以看看

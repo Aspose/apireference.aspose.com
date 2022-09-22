@@ -18,16 +18,16 @@ public class MarginInterest : AbstractInvestmentTransaction
 
 | Имя | Описание |
 | --- | --- |
-| [MarginInterest](margininterest)() | Инициализирует новый экземпляр класса[`MarginInterest`](../margininterest). |
+| [MarginInterest](margininterest)() | Инициализирует новый экземпляр[`MarginInterest`](../margininterest) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [Currency](../../aspose.finance.ofx.investment/margininterest/currency) { get; set; } | Получает или задает[`Currency`](./currency). |
-| [InvestmentTransaction](../../aspose.finance.ofx.investment/abstractinvestmenttransaction/investmenttransaction) { get; set; } | Получает или задает[`InvestmentTransaction`](../abstractinvestmenttransaction/investmenttransaction). |
-| [OriginCurrency](../../aspose.finance.ofx.investment/margininterest/origincurrency) { get; set; } | Получает или задает источник[`Currency`](./currency). |
-| [SubAccountFund](../../aspose.finance.ofx.investment/margininterest/subaccountfund) { get; set; } | Получает или устанавливает, откуда или куда ушли деньги для транзакции. |
+| [Currency](../../aspose.finance.ofx.investment/margininterest/currency) { get; set; } | Получает или задает[`Currency`](./currency) . |
+| [InvestmentTransaction](../../aspose.finance.ofx.investment/abstractinvestmenttransaction/investmenttransaction) { get; set; } | Получает или задает[`InvestmentTransaction`](../abstractinvestmenttransaction/investmenttransaction) . |
+| [OriginCurrency](../../aspose.finance.ofx.investment/margininterest/origincurrency) { get; set; } | Получает или задает источник[`Currency`](./currency) . |
+| [SubAccountFund](../../aspose.finance.ofx.investment/margininterest/subaccountfund) { get; set; } | Получает или задает, откуда пришли или куда ушли деньги для транзакции. |
 | [Total](../../aspose.finance.ofx.investment/margininterest/total) { get; set; } | Получает или задает общую сумму транзакции. |
 
 ### Смотрите также

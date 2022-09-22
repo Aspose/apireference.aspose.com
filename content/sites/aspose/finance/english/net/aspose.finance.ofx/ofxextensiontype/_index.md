@@ -3,7 +3,7 @@ title: OfxExtensionType
 second_title: Aspose.Finance for .NET API Reference
 description: OFX extension class.
 type: docs
-weight: 4200
+weight: 4220
 url: /net/aspose.finance.ofx/ofxextensiontype/
 ---
 ## OfxExtensionType class

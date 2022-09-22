@@ -1,14 +1,14 @@
 ---
 title: RecurringIntraSyncResponse
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаRecurringIntraSyncResponseaspose.finance.ofx.bank/recurringintrasyncresponse.
+description: Инициализирует новый экземплярRecurringIntraSyncResponseaspose.finance.ofx.bank/recurringintrasyncresponse класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.bank/recurringintrasyncresponse/recurringintrasyncresponse/
 ---
 ## RecurringIntraSyncResponse constructor
 
-Инициализирует новый экземпляр класса[`RecurringIntraSyncResponse`](../../recurringintrasyncresponse).
+Инициализирует новый экземпляр[`RecurringIntraSyncResponse`](../../recurringintrasyncresponse) класс.
 
 ```csharp
 public RecurringIntraSyncResponse()

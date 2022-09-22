@@ -1,14 +1,14 @@
 ---
 title: AccountTo
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает значениеBankAccountaspose.finance.ofx/bankaccountилиCreditCardAccountaspose.finance.ofx/creditcardaccountилиLoanAccountaspose.finance.ofx/loanaccount.
+description: Получает или задает значениеBankAccountaspose.finance.ofx/bankaccount или жеCreditCardAccountaspose.finance.ofx/creditcardaccount или жеLoanAccountaspose.finance.ofx/loanaccount .
 type: docs
 weight: 30
 url: /ru/net/aspose.finance.ofx/transferinfo/accountto/
 ---
 ## TransferInfo.AccountTo property
 
-Получает или задает значение[`BankAccount`](../../bankaccount)или[`CreditCardAccount`](../../creditcardaccount)или[`LoanAccount`](../../loanaccount).
+Получает или задает значение[`BankAccount`](../../bankaccount) или же[`CreditCardAccount`](../../creditcardaccount) или же[`LoanAccount`](../../loanaccount) .
 
 ```csharp
 public AbstractAccount AccountTo { get; set; }

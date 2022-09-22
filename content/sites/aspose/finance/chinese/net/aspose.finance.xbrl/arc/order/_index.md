@@ -1,14 +1,14 @@
 ---
 title: Order
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置弧的顺序
+description: 获取或设置圆弧的顺序
 type: docs
 weight: 50
 url: /zh/net/aspose.finance.xbrl/arc/order/
 ---
 ## Arc.Order property
 
-获取或设置弧的顺序。
+获取或设置圆弧的顺序。
 
 ```csharp
 public decimal Order { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: TotalInterest
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает общую сумму процентов.
+description: Получает или задает общую сумму всех процентов.
 type: docs
 weight: 210
 url: /ru/net/aspose.finance.ofx.bank/closing/totalinterest/
 ---
 ## Closing.TotalInterest property
 
-Получает или задает общую сумму процентов.
+Получает или задает общую сумму всех процентов.
 
 ```csharp
 public string TotalInterest { get; set; }

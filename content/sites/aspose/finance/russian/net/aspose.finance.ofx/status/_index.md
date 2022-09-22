@@ -1,14 +1,14 @@
 ---
 title: Status
 second_title: Справочник по API Aspose.Finance для .NET
-description: Класс сообщений об ошибках.
+description: Класс отчетов об ошибках.
 type: docs
 weight: 5710
 url: /ru/net/aspose.finance.ofx/status/
 ---
 ## Status class
 
-Класс сообщений об ошибках.
+Класс отчетов об ошибках.
 
 ```csharp
 public class Status
@@ -18,7 +18,7 @@ public class Status
 
 | Имя | Описание |
 | --- | --- |
-| [Status](status)() | Инициализирует новый экземпляр класса[`Status`](../status). |
+| [Status](status)() | Инициализирует новый экземпляр[`Status`](../status) класс. |
 
 ## Характеристики
 

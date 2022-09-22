@@ -3,7 +3,7 @@ title: ImageData
 second_title: Aspose.Finance for .NET API Reference
 description: Image information class.
 type: docs
-weight: 2300
+weight: 2310
 url: /net/aspose.finance.ofx/imagedata/
 ---
 ## ImageData class

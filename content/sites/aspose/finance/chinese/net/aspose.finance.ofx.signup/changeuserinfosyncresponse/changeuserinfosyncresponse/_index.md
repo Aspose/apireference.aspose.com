@@ -1,14 +1,14 @@
 ---
 title: ChangeUserInfoSyncResponse
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化ChangeUserInfoSyncResponseaspose.finance.ofx.signup/changeuserinfosyncresponse类的新实例
+description: 初始化一个新的实例ChangeUserInfoSyncResponseaspose.finance.ofx.signup/changeuserinfosyncresponse类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.signup/changeuserinfosyncresponse/changeuserinfosyncresponse/
 ---
 ## ChangeUserInfoSyncResponse constructor
 
-初始化[`ChangeUserInfoSyncResponse`](../../changeuserinfosyncresponse)类的新实例。
+初始化一个新的实例[`ChangeUserInfoSyncResponse`](../../changeuserinfosyncresponse)类.
 
 ```csharp
 public ChangeUserInfoSyncResponse()

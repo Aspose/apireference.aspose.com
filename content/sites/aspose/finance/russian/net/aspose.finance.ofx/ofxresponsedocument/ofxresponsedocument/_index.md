@@ -1,14 +1,14 @@
 ---
 title: OfxResponseDocument
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаOfxResponseDocumentaspose.finance.ofx/ofxresponsedocument.
+description: Инициализирует новый экземплярOfxResponseDocumentaspose.finance.ofx/ofxresponsedocument класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx/ofxresponsedocument/ofxresponsedocument/
 ---
 ## OfxResponseDocument() {#constructor}
 
-Инициализирует новый экземпляр класса[`OfxResponseDocument`](../../ofxresponsedocument).
+Инициализирует новый экземпляр[`OfxResponseDocument`](../../ofxresponsedocument) класс.
 
 ```csharp
 public OfxResponseDocument()
@@ -24,7 +24,7 @@ public OfxResponseDocument()
 
 ## OfxResponseDocument(string) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`OfxResponseDocument`](../../ofxresponsedocument).
+Инициализирует новый экземпляр[`OfxResponseDocument`](../../ofxresponsedocument) класс.
 
 ```csharp
 public OfxResponseDocument(string fileName)

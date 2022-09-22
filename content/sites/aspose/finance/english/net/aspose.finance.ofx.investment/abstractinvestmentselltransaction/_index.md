@@ -3,7 +3,7 @@ title: AbstractInvestmentSellTransaction
 second_title: Aspose.Finance for .NET API Reference
 description: Abstract base class of investment sell transaction related classes.
 type: docs
-weight: 2620
+weight: 2630
 url: /net/aspose.finance.ofx.investment/abstractinvestmentselltransaction/
 ---
 ## AbstractInvestmentSellTransaction class

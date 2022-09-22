@@ -1,14 +1,14 @@
 ---
 title: SimpleLink
 second_title: Aspose.Finance for .NET API 参考
-description: 简单类型 Xlink
+description: 简单类型 Xlink.
 type: docs
 weight: 8040
 url: /zh/net/aspose.finance.xbrl/simplelink/
 ---
 ## SimpleLink class
 
-简单类型 Xlink。
+简单类型 Xlink.
 
 ```csharp
 public abstract class SimpleLink : Xlink
@@ -18,15 +18,15 @@ public abstract class SimpleLink : Xlink
 
 | 姓名 | 描述 |
 | --- | --- |
-| [SimpleLink](simplelink)() | 初始化[`SimpleLink`](../simplelink)类的新实例。 |
+| [SimpleLink](simplelink)() | 初始化[`SimpleLink`](../simplelink)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
 | [Actuate](../../aspose.finance.xbrl/simplelink/actuate) { get; set; } | 获取或设置简单链接启动属性。 |
-| [Arcrole](../../aspose.finance.xbrl/simplelink/arcrole) { get; set; } | 获取或设置简单链接弧。 |
-| [Href](../../aspose.finance.xbrl/simplelink/href) { get; set; } | 获取或设置简单链接 href URI。 |
+| [Arcrole](../../aspose.finance.xbrl/simplelink/arcrole) { get; set; } | 获取或设置简单链接弧线。 |
+| [Href](../../aspose.finance.xbrl/simplelink/href) { get; set; } | 获取或设置简单链接href URI. |
 | [Role](../../aspose.finance.xbrl/simplelink/role) { get; set; } | 获取或设置简单链接角色。 |
 | [Show](../../aspose.finance.xbrl/simplelink/show) { get; set; } | 获取或设置简单链接显示属性。 |
 | [Title](../../aspose.finance.xbrl/simplelink/title) { get; set; } | 获取或设置简单链接标题。 |

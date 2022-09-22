@@ -1,14 +1,14 @@
 ---
 title: LinkbaseRefCollection
 second_title: Справочник по API Aspose.Finance для .NET
-description: ПолучаетLinkbaseRefCollectionaspose.finance.xbrl/schemaref/linkbaserefcollectionв схеме.
+description: ПолучаетLinkbaseRefCollectionaspose.finance.xbrl/schemaref/linkbaserefcollection в схеме.
 type: docs
 weight: 40
 url: /ru/net/aspose.finance.xbrl/schemaref/linkbaserefcollection/
 ---
 ## SchemaRef.LinkbaseRefCollection property
 
-Получает`LinkbaseRefCollection`в схеме.
+Получает`LinkbaseRefCollection` в схеме.
 
 ```csharp
 public LinkbaseRefCollection LinkbaseRefCollection { get; }

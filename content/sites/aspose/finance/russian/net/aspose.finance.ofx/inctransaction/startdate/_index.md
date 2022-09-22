@@ -1,14 +1,14 @@
 ---
 title: StartDate
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает начальную дату запрошенного оператора
+description: Получает или задает начальную дату запрашиваемого оператора
 type: docs
 weight: 40
 url: /ru/net/aspose.finance.ofx/inctransaction/startdate/
 ---
 ## IncTransaction.StartDate property
 
-Получает или задает начальную дату запрошенного оператора
+Получает или задает начальную дату запрашиваемого оператора
 
 ```csharp
 public string StartDate { get; set; }

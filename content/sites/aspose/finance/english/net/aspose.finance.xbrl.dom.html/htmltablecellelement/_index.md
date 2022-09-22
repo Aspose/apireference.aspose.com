@@ -3,7 +3,7 @@ title: HTMLTableCellElement
 second_title: Aspose.Finance for .NET API Reference
 description: The class used to represent the TH and TD elements. See the TD element definition in HTML 4.01.
 type: docs
-weight: 7180
+weight: 7210
 url: /net/aspose.finance.xbrl.dom.html/htmltablecellelement/
 ---
 ## HTMLTableCellElement class

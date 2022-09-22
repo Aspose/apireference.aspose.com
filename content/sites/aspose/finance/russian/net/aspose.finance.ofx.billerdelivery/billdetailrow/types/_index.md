@@ -1,14 +1,14 @@
 ---
 title: Types
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает коллекциюMessageTypeaspose.finance.ofx/messagetypeилиCharTypeaspose.finance.ofx/chartype.
+description: Получает или задает коллекциюMessageTypeaspose.finance.ofx/messagetype или жеCharTypeaspose.finance.ofx/chartype .
 type: docs
 weight: 20
 url: /ru/net/aspose.finance.ofx.billerdelivery/billdetailrow/types/
 ---
 ## BillDetailRow.Types property
 
-Получает или задает коллекцию[`MessageType`](../../../aspose.finance.ofx/messagetype)или[`CharType`](../../../aspose.finance.ofx/chartype).
+Получает или задает коллекцию[`MessageType`](../../../aspose.finance.ofx/messagetype) или же[`CharType`](../../../aspose.finance.ofx/chartype) .
 
 ```csharp
 public List<AbstractStringType> Types { get; set; }

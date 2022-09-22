@@ -18,13 +18,13 @@ public class InterCancellationRequest : AbstractInterRequest
 
 | 姓名 | 描述 |
 | --- | --- |
-| [InterCancellationRequest](intercancellationrequest)() | 初始化[`InterCancellationRequest`](../intercancellationrequest)类的新实例。 |
+| [InterCancellationRequest](intercancellationrequest)() | 初始化一个新的实例[`InterCancellationRequest`](../intercancellationrequest)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [ServerId](../../aspose.finance.ofx.intertransfer/intercancellationrequest/serverid) { get; set; } | 获取或设置要取消的传输的ID。 |
+| [ServerId](../../aspose.finance.ofx.intertransfer/intercancellationrequest/serverid) { get; set; } | 获取或设置要取消的转账ID。 |
 
 ### 也可以看看
 

@@ -18,14 +18,14 @@ public class EnrollResponse
 
 | Имя | Описание |
 | --- | --- |
-| [EnrollResponse](enrollresponse)() | Инициализирует новый экземпляр класса[`EnrollResponse`](../enrollresponse). |
+| [EnrollResponse](enrollresponse)() | Инициализирует новый экземпляр[`EnrollResponse`](../enrollresponse) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
 | [ExpireDate](../../aspose.finance.ofx.signup/enrollresponse/expiredate) { get; set; } | Получает или задает время истечения срока действия временного пароля |
-| [TemporaryPassword](../../aspose.finance.ofx.signup/enrollresponse/temporarypassword) { get; set; } | Получает или задает временный пароль. |
+| [TemporaryPassword](../../aspose.finance.ofx.signup/enrollresponse/temporarypassword) { get; set; } | Получает или устанавливает временный пароль. |
 | [UserId](../../aspose.finance.ofx.signup/enrollresponse/userid) { get; set; } | Получает или задает идентификатор пользователя. |
 
 ### Смотрите также

@@ -3,7 +3,7 @@ title: HTMLDirectoryElement
 second_title: Aspose.Finance for .NET API Reference
 description: The class represents directory list. See the DIR element definition in HTML 4.01. This element is deprecated in HTML 4.01.
 type: docs
-weight: 6810
+weight: 6840
 url: /net/aspose.finance.xbrl.dom.html/htmldirectoryelement/
 ---
 ## HTMLDirectoryElement class

@@ -1,14 +1,14 @@
 ---
 title: BalloonAmount
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает общую сумму не включенную или равную нулю для обычных кредитов в противном случае объемную сумму.
+description: Получает или задает общую сумму не включенную или равную нулю для обычных кредитов в противном случае  общую сумму.
 type: docs
 weight: 30
 url: /ru/net/aspose.finance.ofx/loanaccountinfo/balloonamount/
 ---
 ## LoanAccountInfo.BalloonAmount property
 
-Получает или задает общую сумму, не включенную или равную нулю для обычных кредитов, в противном случае объемную сумму.
+Получает или задает общую сумму, не включенную или равную нулю для обычных кредитов, в противном случае - общую сумму.
 
 ```csharp
 public string BalloonAmount { get; set; }

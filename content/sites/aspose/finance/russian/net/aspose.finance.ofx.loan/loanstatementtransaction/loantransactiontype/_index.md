@@ -1,14 +1,14 @@
 ---
 title: LoanTransactionType
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает тип транзакции ссуды.
+description: Получает или задает тип кредитной транзакции.
 type: docs
 weight: 110
 url: /ru/net/aspose.finance.ofx.loan/loanstatementtransaction/loantransactiontype/
 ---
 ## LoanStatementTransaction.LoanTransactionType property
 
-Получает или задает тип транзакции ссуды.
+Получает или задает тип кредитной транзакции.
 
 ```csharp
 public LoanTransactionEnum LoanTransactionType { get; set; }

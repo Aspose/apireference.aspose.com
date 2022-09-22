@@ -3,7 +3,7 @@ title: InvestmentTransaction
 second_title: Aspose.Finance for .NET API Reference
 description: This class contains fields common to many of the investment transactions.
 type: docs
-weight: 3150
+weight: 3160
 url: /net/aspose.finance.ofx.investment/investmenttransaction/
 ---
 ## InvestmentTransaction class

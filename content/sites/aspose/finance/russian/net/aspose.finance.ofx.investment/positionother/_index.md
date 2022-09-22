@@ -1,14 +1,14 @@
 ---
 title: PositionOther
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инвестиционная позиция иного класса.
+description: Инвестиционная позиция другого класса.
 type: docs
 weight: 3400
 url: /ru/net/aspose.finance.ofx.investment/positionother/
 ---
 ## PositionOther class
 
-Инвестиционная позиция иного класса.
+Инвестиционная позиция другого класса.
 
 ```csharp
 public class PositionOther : AbstractPositionBase
@@ -18,13 +18,13 @@ public class PositionOther : AbstractPositionBase
 
 | Имя | Описание |
 | --- | --- |
-| [PositionOther](positionother)() | Инициализирует новый экземпляр класса[`PositionOther`](../positionother). |
+| [PositionOther](positionother)() | Инициализирует новый экземпляр[`PositionOther`](../positionother) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [InvestmentPosition](../../aspose.finance.ofx.investment/abstractpositionbase/investmentposition) { get; set; } | Получает или задает[`InvestmentPosition`](../abstractpositionbase/investmentposition). |
+| [InvestmentPosition](../../aspose.finance.ofx.investment/abstractpositionbase/investmentposition) { get; set; } | Получает или задает[`InvestmentPosition`](../abstractpositionbase/investmentposition) . |
 
 ### Смотрите также
 

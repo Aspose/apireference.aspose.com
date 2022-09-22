@@ -18,13 +18,13 @@ public class SellOther : AbstractInvestmentSellTransaction
 
 | 姓名 | 描述 |
 | --- | --- |
-| [SellOther](sellother)() | 初始化[`SellOther`](../sellother)类的新实例。 |
+| [SellOther](sellother)() | 初始化一个新的实例[`SellOther`](../sellother)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [InvestmentSell](../../aspose.finance.ofx.investment/abstractinvestmentselltransaction/investmentsell) { get; set; } | 获取或设置[`InvestmentSell`](../abstractinvestmentselltransaction/investmentsell)。 |
+| [InvestmentSell](../../aspose.finance.ofx.investment/abstractinvestmentselltransaction/investmentsell) { get; set; } | 获取或设置[`InvestmentSell`](../abstractinvestmentselltransaction/investmentsell). |
 
 ### 也可以看看
 

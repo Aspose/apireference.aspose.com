@@ -3,7 +3,7 @@ title: Tax1099INT_V100
 second_title: Aspose.Finance for .NET API Reference
 description: Tax 1099-INT V100 form class.
 type: docs
-weight: 6010
+weight: 6040
 url: /net/aspose.finance.ofx.tax1099/tax1099int_v100/
 ---
 ## Tax1099INT_V100 class

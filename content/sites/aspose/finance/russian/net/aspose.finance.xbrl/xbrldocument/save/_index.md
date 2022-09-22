@@ -37,7 +37,7 @@ public void Save(string fileName, SaveOptions saveOptions)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | fileName | String | Имя файла. |
-| saveOptions | SaveOptions | Параметры сохранения. |
+| saveOptions | SaveOptions | Варианты сохранения. |
 
 ### Смотрите также
 
@@ -50,7 +50,7 @@ public void Save(string fileName, SaveOptions saveOptions)
 
 ## Save(Stream, SaveOptions) {#save}
 
-Сохраните XbrlDocument в поток.
+Сохраните XbrlDocument в потоке.
 
 ```csharp
 public void Save(Stream stream, SaveOptions saveOptions)
@@ -59,7 +59,7 @@ public void Save(Stream stream, SaveOptions saveOptions)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | stream | Stream | Файловый поток. |
-| saveOptions | SaveOptions | Параметры сохранения. |
+| saveOptions | SaveOptions | Варианты сохранения. |
 
 ### Смотрите также
 

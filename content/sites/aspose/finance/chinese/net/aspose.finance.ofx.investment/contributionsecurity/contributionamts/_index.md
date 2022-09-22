@@ -1,14 +1,14 @@
 ---
 title: ContributionAmts
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置ContributionAmtaspose.finance.ofx.investment/contributionamt的集合
+description: 获取或设置的集合ContributionAmtaspose.finance.ofx.investment/contributionamt.
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.ofx.investment/contributionsecurity/contributionamts/
 ---
 ## ContributionSecurity.ContributionAmts property
 
-获取或设置[`ContributionAmt`](../../contributionamt)的集合。
+获取或设置的集合[`ContributionAmt`](../../contributionamt).
 
 ```csharp
 public List<ContributionAmt> ContributionAmts { get; set; }

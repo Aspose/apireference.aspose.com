@@ -1,14 +1,14 @@
 ---
 title: PendingAvailable
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置待处理事务下载支持标志默认为false
+description: 获取或设置挂起交易下载支持标志默认为false
 type: docs
 weight: 60
 url: /zh/net/aspose.finance.ofx.profile/bankmessagesetv1/pendingavailable/
 ---
 ## BankMessageSetV1.PendingAvailable property
 
-获取或设置待处理事务下载支持标志，默认为false。
+获取或设置挂起交易下载支持标志，默认为false。
 
 ```csharp
 public bool PendingAvailable { get; set; }

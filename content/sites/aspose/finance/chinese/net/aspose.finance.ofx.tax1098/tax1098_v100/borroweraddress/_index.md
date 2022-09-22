@@ -1,14 +1,14 @@
 ---
 title: BorrowerAddress
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置BorrowerAddressaspose.finance.ofx.tax1098/tax1098_v100/borroweraddress
+description: 获取或设置BorrowerAddressaspose.finance.ofx.tax1098/tax1098_v100/borroweraddress.
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.ofx.tax1098/tax1098_v100/borroweraddress/
 ---
 ## Tax1098_V100.BorrowerAddress property
 
-获取或设置`BorrowerAddress`。
+获取或设置`BorrowerAddress`.
 
 ```csharp
 public BorrowerAddress BorrowerAddress { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: PaymentProcessingStatus
 second_title: Aspose.Finance for .NET API 参考
-description: 该类包含付款的当前处理状态此类旨在描述创建后关联付款的状态更改
+description: 该类包含付款的当前处理状态此类旨在描述创建后关联付款的状态变化
 type: docs
 weight: 1210
 url: /zh/net/aspose.finance.ofx.billpay/paymentprocessingstatus/
 ---
 ## PaymentProcessingStatus class
 
-该类包含付款的当前处理状态。此类旨在描述创建后关联付款的状态更改。
+该类包含付款的当前处理状态。此类旨在描述创建后关联付款的状态变化。
 
 ```csharp
 public class PaymentProcessingStatus
@@ -18,14 +18,14 @@ public class PaymentProcessingStatus
 
 | 姓名 | 描述 |
 | --- | --- |
-| [PaymentProcessingStatus](paymentprocessingstatus)() | 初始化[`PaymentProcessingStatus`](../paymentprocessingstatus)类的新实例。 |
+| [PaymentProcessingStatus](paymentprocessingstatus)() | 初始化一个新的实例[`PaymentProcessingStatus`](../paymentprocessingstatus)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
 | [PaymentProcessDate](../../aspose.finance.ofx.billpay/paymentprocessingstatus/paymentprocessdate) { get; set; } | 获取或设置付款处理日期。 |
-| [PaymentProcessStatusCode](../../aspose.finance.ofx.billpay/paymentprocessingstatus/paymentprocessstatuscode) { get; set; } | 获取或设置支付处理状态码。 |
+| [PaymentProcessStatusCode](../../aspose.finance.ofx.billpay/paymentprocessingstatus/paymentprocessstatuscode) { get; set; } | 获取或设置支付处理状态码 |
 
 ### 也可以看看
 

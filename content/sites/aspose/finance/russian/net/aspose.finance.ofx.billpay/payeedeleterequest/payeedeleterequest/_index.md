@@ -1,14 +1,14 @@
 ---
 title: PayeeDeleteRequest
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаPayeeDeleteRequestaspose.finance.ofx.billpay/payeedeleterequest.
+description: Инициализирует новый экземплярPayeeDeleteRequestaspose.finance.ofx.billpay/payeedeleterequest класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.billpay/payeedeleterequest/payeedeleterequest/
 ---
 ## PayeeDeleteRequest constructor
 
-Инициализирует новый экземпляр класса[`PayeeDeleteRequest`](../../payeedeleterequest).
+Инициализирует новый экземпляр[`PayeeDeleteRequest`](../../payeedeleterequest) класс.
 
 ```csharp
 public PayeeDeleteRequest()

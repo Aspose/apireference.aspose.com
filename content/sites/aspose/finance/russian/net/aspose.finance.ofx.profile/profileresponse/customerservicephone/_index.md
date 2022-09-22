@@ -1,14 +1,14 @@
 ---
 title: CustomerServicePhone
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает номер телефона службы поддержки клиентов.
+description: Получает или устанавливает номер телефона службы поддержки клиентов.
 type: docs
 weight: 70
 url: /ru/net/aspose.finance.ofx.profile/profileresponse/customerservicephone/
 ---
 ## ProfileResponse.CustomerServicePhone property
 
-Получает или задает номер телефона службы поддержки клиентов.
+Получает или устанавливает номер телефона службы поддержки клиентов.
 
 ```csharp
 public string CustomerServicePhone { get; set; }

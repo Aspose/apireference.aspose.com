@@ -1,14 +1,14 @@
 ---
 title: PostedDate
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает дату публикации транзакции в аккаунте.
+description: Получает или задает дату когда транзакция была разнесена по счету.
 type: docs
 weight: 150
 url: /ru/net/aspose.finance.ofx.loan/loanstatementtransaction/posteddate/
 ---
 ## LoanStatementTransaction.PostedDate property
 
-Получает или задает дату публикации транзакции в аккаунте.
+Получает или задает дату, когда транзакция была разнесена по счету.
 
 ```csharp
 public string PostedDate { get; set; }

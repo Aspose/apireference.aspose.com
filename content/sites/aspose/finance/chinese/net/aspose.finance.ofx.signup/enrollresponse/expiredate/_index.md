@@ -1,14 +1,14 @@
 ---
 title: ExpireDate
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置临时密码的过期时间
+description: 获取或设置临时密码过期时间
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.ofx.signup/enrollresponse/expiredate/
 ---
 ## EnrollResponse.ExpireDate property
 
-获取或设置临时密码的过期时间
+获取或设置临时密码过期时间
 
 ```csharp
 public string ExpireDate { get; set; }

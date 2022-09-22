@@ -18,15 +18,15 @@ public class OpenOrderBuyMutualFund : AbstractOpenOrder
 
 | 姓名 | 描述 |
 | --- | --- |
-| [OpenOrderBuyMutualFund](openorderbuymutualfund)() | 初始化[`OpenOrderBuyMutualFund`](../openorderbuymutualfund)类的新实例。 |
+| [OpenOrderBuyMutualFund](openorderbuymutualfund)() | 初始化一个新的实例[`OpenOrderBuyMutualFund`](../openorderbuymutualfund)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [BuyType](../../aspose.finance.ofx.investment/openorderbuymutualfund/buytype) { get; set; } | 获取或设置购买类型。 |
-| [OpenOrder](../../aspose.finance.ofx.investment/abstractopenorder/openorder) { get; set; } | 获取或设置[`GeneralOpenOrder`](../generalopenorder)。 |
-| [UnitType](../../aspose.finance.ofx.investment/openorderbuymutualfund/unittype) { get; set; } | 获取或设置单位所代表的内容。 |
+| [BuyType](../../aspose.finance.ofx.investment/openorderbuymutualfund/buytype) { get; set; } | 获取或设置购买的类型。 |
+| [OpenOrder](../../aspose.finance.ofx.investment/abstractopenorder/openorder) { get; set; } | 获取或设置[`GeneralOpenOrder`](../generalopenorder). |
+| [UnitType](../../aspose.finance.ofx.investment/openorderbuymutualfund/unittype) { get; set; } | 获取或设置单位表示的内容。 |
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: PositionDownload
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает загружает ли сервер FI позиции инвестиционного отчета.
+description: Получает или задает загружает ли сервер FI позиции отчета об инвестициях.
 type: docs
 weight: 80
 url: /ru/net/aspose.finance.ofx.profile/investmentstatementmessagesetv1/positiondownload/
 ---
 ## InvestmentStatementMessageSetV1.PositionDownload property
 
-Получает или задает, загружает ли сервер FI позиции инвестиционного отчета.
+Получает или задает, загружает ли сервер FI позиции отчета об инвестициях.
 
 ```csharp
 public bool PositionDownload { get; set; }

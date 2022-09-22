@@ -1,14 +1,14 @@
 ---
 title: AvailableAccountStatus
 second_title: Aspose.Finance for .NET API 参考
-description: 如果服务器可以提供有关具有可用 SVCSTATUS 的帐户的信息则为 TrueFalse 意味着客户端应该期望向用户询问特定的帐户信息
+description: 如果服务器可以提供有关 SVCSTATUS 可用帐户的信息则为 TrueFalse 表示客户端应该要求用户提供特定的帐户信息
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.ofx.profile/signupmessagesetv1/availableaccountstatus/
 ---
 ## SignupMessageSetV1.AvailableAccountStatus property
 
-如果服务器可以提供有关具有可用 SVCSTATUS 的帐户的信息，则为 True，False 意味着客户端应该期望向用户询问特定的帐户信息。
+如果服务器可以提供有关 SVCSTATUS 可用帐户的信息，则为 True，False 表示客户端应该要求用户提供特定的帐户信息。
 
 ```csharp
 public bool AvailableAccountStatus { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: Reason
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает причину отклонения.
+description: Получает или задает причину отказа.
 type: docs
 weight: 30
 url: /ru/net/aspose.finance.ofx/presentmentaccountinfo/reason/
 ---
 ## PresentmentAccountInfo.Reason property
 
-Получает или задает причину отклонения.
+Получает или задает причину отказа.
 
 ```csharp
 public string Reason { get; set; }

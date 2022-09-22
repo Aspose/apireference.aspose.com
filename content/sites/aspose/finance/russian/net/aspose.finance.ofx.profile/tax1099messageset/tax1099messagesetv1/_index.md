@@ -1,14 +1,14 @@
 ---
 title: Tax1099MessageSetV1
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задаетTax1099MessageSetV1aspose.finance.ofx.profile/tax1099messageset/tax1099messagesetv1.
+description: Получает или задаетTax1099MessageSetV1aspose.finance.ofx.profile/tax1099messageset/tax1099messagesetv1 .
 type: docs
 weight: 20
 url: /ru/net/aspose.finance.ofx.profile/tax1099messageset/tax1099messagesetv1/
 ---
 ## Tax1099MessageSet.Tax1099MessageSetV1 property
 
-Получает или задает`Tax1099MessageSetV1`.
+Получает или задает`Tax1099MessageSetV1` .
 
 ```csharp
 public Tax1099MessageSetV1 Tax1099MessageSetV1 { get; set; }

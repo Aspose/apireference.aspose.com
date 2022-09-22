@@ -1,14 +1,14 @@
 ---
 title: FootnoteArcs
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает коллекциюFootnoteArcaspose.finance.xbrl/footnotearc.
+description: Получает коллекциюFootnoteArcaspose.finance.xbrl/footnotearc .
 type: docs
 weight: 20
 url: /ru/net/aspose.finance.xbrl/footnotelink/footnotearcs/
 ---
 ## FootnoteLink.FootnoteArcs property
 
-Получает коллекцию[`FootnoteArc`](../../footnotearc).
+Получает коллекцию[`FootnoteArc`](../../footnotearc) .
 
 ```csharp
 public List<FootnoteArc> FootnoteArcs { get; }

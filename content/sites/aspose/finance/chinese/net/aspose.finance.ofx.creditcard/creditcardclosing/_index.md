@@ -18,7 +18,7 @@ public class CreditCardClosing
 
 | 姓名 | 描述 |
 | --- | --- |
-| [CreditCardClosing](creditcardclosing)() | 初始化[`CreditCardClosing`](../creditcardclosing)类的新实例。 |
+| [CreditCardClosing](creditcardclosing)() | 初始化一个新的实例[`CreditCardClosing`](../creditcardclosing)类. |
 
 ## 特性
 
@@ -26,33 +26,33 @@ public class CreditCardClosing
 | --- | --- |
 | [AutoPay](../../aspose.finance.ofx.creditcard/creditcardclosing/autopay) { get; set; } | 获取或设置是否为此帐户设置自动付款。 |
 | [BalanceClose](../../aspose.finance.ofx.creditcard/creditcardclosing/balanceclose) { get; set; } | 获取或设置期末报表余额。 |
-| [BalanceOpen](../../aspose.finance.ofx.creditcard/creditcardclosing/balanceopen) { get; set; } | 获取或设置期初报表余额。 |
+| [BalanceOpen](../../aspose.finance.ofx.creditcard/creditcardclosing/balanceopen) { get; set; } | 获取或设置期初余额。 |
 | [CashAdvanceCreditLimit](../../aspose.finance.ofx.creditcard/creditcardclosing/cashadvancecreditlimit) { get; set; } | 获取或设置当前现金透支信用额度。 |
 | [CloseDate](../../aspose.finance.ofx.creditcard/creditcardclosing/closedate) { get; set; } | 获取或设置结账日期。 |
 | [CreditLimit](../../aspose.finance.ofx.creditcard/creditcardclosing/creditlimit) { get; set; } | 获取或设置当前信用额度。 |
-| [Currency](../../aspose.finance.ofx.creditcard/creditcardclosing/currency) { get; set; } | 获取或设置[`Currency`](./currency)。 |
+| [Currency](../../aspose.finance.ofx.creditcard/creditcardclosing/currency) { get; set; } | 获取或设置[`Currency`](./currency). |
 | [DebitAdjustment](../../aspose.finance.ofx.creditcard/creditcardclosing/debitadjustment) { get; set; } | 获取或设置借方调整。 |
 | [FinanceCharge](../../aspose.finance.ofx.creditcard/creditcardclosing/financecharge) { get; set; } | 获取或设置财务费用。 |
 | [FinancialInstitutionTransactionId](../../aspose.finance.ofx.creditcard/creditcardclosing/financialinstitutiontransactionid) { get; set; } | 获取或设置此语句的唯一标识符。 |
-| [ImageData](../../aspose.finance.ofx.creditcard/creditcardclosing/imagedata) { get; set; } | 获取或设置[`ImageData`](./imagedata)。 |
+| [ImageData](../../aspose.finance.ofx.creditcard/creditcardclosing/imagedata) { get; set; } | 获取或设置[`ImageData`](./imagedata). |
 | [InterestRateCash](../../aspose.finance.ofx.creditcard/creditcardclosing/interestratecash) { get; set; } | 获取或设置现金垫款的实际利率，考虑到在此报表期间应用的任何利率变化。 |
-| [InterestRatePurchase](../../aspose.finance.ofx.creditcard/creditcardclosing/interestratepurchase) { get; set; } | 获取或设置购买的实际利率，考虑到在此报表期间应用的利率的任何变化。 |
-| [InterestRateTransfer](../../aspose.finance.ofx.creditcard/creditcardclosing/interestratetransfer) { get; set; } | 获取或设置余额转账的实际利率，考虑到在此报表期间应用的利率的任何变化。 |
+| [InterestRatePurchase](../../aspose.finance.ofx.creditcard/creditcardclosing/interestratepurchase) { get; set; } | 获取或设置购买的实际利率，考虑到在此报表期间应用的任何利率变化。 |
+| [InterestRateTransfer](../../aspose.finance.ofx.creditcard/creditcardclosing/interestratetransfer) { get; set; } | 获取或设置余额转账的实际利率，考虑到在此报表期间应用的任何利率变化。 |
 | [InterestYearToDate](../../aspose.finance.ofx.creditcard/creditcardclosing/interestyeartodate) { get; set; } | 获取或设置账户年初至今支付的利息 |
-| [LastPmtInfo](../../aspose.finance.ofx.creditcard/creditcardclosing/lastpmtinfo) { get; set; } | 获取或设置[`LastPmtInfoType`](../../aspose.finance.ofx/lastpmtinfotype)。 |
+| [LastPmtInfo](../../aspose.finance.ofx.creditcard/creditcardclosing/lastpmtinfo) { get; set; } | 获取或设置[`LastPmtInfoType`](../../aspose.finance.ofx/lastpmtinfotype). |
 | [LateFeeAmount](../../aspose.finance.ofx.creditcard/creditcardclosing/latefeeamount) { get; set; } | 获取或设置反映滞纳金的 MinPaymentDue 金额（如果有）。 |
 | [MarketingInformation](../../aspose.finance.ofx.creditcard/creditcardclosing/marketinginformation) { get; set; } | 获取或设置营销信息。 |
 | [MinPaymentDue](../../aspose.finance.ofx.creditcard/creditcardclosing/minpaymentdue) { get; set; } | 获取或设置最低到期金额。 |
 | [NextDate](../../aspose.finance.ofx.creditcard/creditcardclosing/nextdate) { get; set; } | 获取或设置下一条语句的截止日期。 |
-| [OpenDate](../../aspose.finance.ofx.creditcard/creditcardclosing/opendate) { get; set; } | 获取或设置期初声明日期。 |
-| [OriginCurrency](../../aspose.finance.ofx.creditcard/creditcardclosing/origincurrency) { get; set; } | 获取或设置原点[`Currency`](./currency)。 |
-| [PastDueAmount](../../aspose.finance.ofx.creditcard/creditcardclosing/pastdueamount) { get; set; } | 获取或设置反映逾期金额的 MinPaymentDue 金额（如果有）。 |
+| [OpenDate](../../aspose.finance.ofx.creditcard/creditcardclosing/opendate) { get; set; } | 获取或设置期初报表日期。 |
+| [OriginCurrency](../../aspose.finance.ofx.creditcard/creditcardclosing/origincurrency) { get; set; } | 获取或设置原点[`Currency`](./currency). |
+| [PastDueAmount](../../aspose.finance.ofx.creditcard/creditcardclosing/pastdueamount) { get; set; } | 获取或设置 MinPaymentDue 的金额，如果有的话，它反映了过期的金额。 |
 | [PaymentDueDate](../../aspose.finance.ofx.creditcard/creditcardclosing/paymentduedate) { get; set; } | 获取或设置付款到期日。 |
 | [PaymentsAndCredits](../../aspose.finance.ofx.creditcard/creditcardclosing/paymentsandcredits) { get; set; } | 获取或设置付款和信用的总和。 |
 | [PostEndDate](../../aspose.finance.ofx.creditcard/creditcardclosing/postenddate) { get; set; } | 获取或设置此语句的交易数据的结束日期。 |
 | [PostStartDate](../../aspose.finance.ofx.creditcard/creditcardclosing/poststartdate) { get; set; } | 获取或设置此语句的交易数据的开始日期。 |
-| [PurchasesAndAdvances](../../aspose.finance.ofx.creditcard/creditcardclosing/purchasesandadvances) { get; set; } | 获取或设置采购总额和预借现金。 |
-| [RewardInfo](../../aspose.finance.ofx.creditcard/creditcardclosing/rewardinfo) { get; set; } | 获取或设置[`RewardInfoType`](../../aspose.finance.ofx/rewardinfotype)。 |
+| [PurchasesAndAdvances](../../aspose.finance.ofx.creditcard/creditcardclosing/purchasesandadvances) { get; set; } | 获取或设置采购总额和现金垫款总额。 |
+| [RewardInfo](../../aspose.finance.ofx.creditcard/creditcardclosing/rewardinfo) { get; set; } | 获取或设置[`RewardInfoType`](../../aspose.finance.ofx/rewardinfotype). |
 
 ### 也可以看看
 

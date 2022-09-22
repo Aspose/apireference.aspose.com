@@ -1,14 +1,14 @@
 ---
 title: QualifiedName
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化QualifiedNameaspose.finance.xbrl/qualifiedname类的新实例
+description: 初始化一个新的实例QualifiedNameaspose.finance.xbrl/qualifiedname类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.xbrl/qualifiedname/qualifiedname/
 ---
 ## QualifiedName constructor
 
-初始化[`QualifiedName`](../../qualifiedname)类的新实例。
+初始化一个新的实例[`QualifiedName`](../../qualifiedname)类.
 
 ```csharp
 public QualifiedName(string localName, string ns, string namespaceUri)

@@ -1,14 +1,14 @@
 ---
 title: RefreshInlineXbrlObjects
 second_title: Aspose.Finance for .NET API 参考
-description: 如果在 DOM 树中添加更新删除内联 Xbrl 元素则应调用此方法来刷新内联 xbrl 对象
+description: 如果在DOM树中添加更新删除Inline Xbrl元素应该调用这个方法来刷新内联xbrl对象
 type: docs
 weight: 260
 url: /zh/net/aspose.finance.xbrl.inline/inlinexbrldocument/refreshinlinexbrlobjects/
 ---
 ## InlineXbrlDocument.RefreshInlineXbrlObjects method
 
-如果在 DOM 树中添加、更新、删除内联 Xbrl 元素，则应调用此方法来刷新内联 xbrl 对象。
+如果在DOM树中添加、更新、删除Inline Xbrl元素，应该调用这个方法来刷新内联xbrl对象。
 
 ```csharp
 public void RefreshInlineXbrlObjects()

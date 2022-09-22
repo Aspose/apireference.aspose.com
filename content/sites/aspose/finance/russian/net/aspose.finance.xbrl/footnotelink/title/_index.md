@@ -1,14 +1,14 @@
 ---
 title: Title
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает заголовок.
+description: Получает или устанавливает заголовок.
 type: docs
 weight: 60
 url: /ru/net/aspose.finance.xbrl/footnotelink/title/
 ---
 ## FootnoteLink.Title property
 
-Получает или задает заголовок.
+Получает или устанавливает заголовок.
 
 ```csharp
 public string Title { get; set; }

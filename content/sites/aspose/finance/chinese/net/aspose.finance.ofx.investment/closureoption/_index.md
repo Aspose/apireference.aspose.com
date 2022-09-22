@@ -18,19 +18,19 @@ public class ClosureOption : AbstractInvestmentTransaction
 
 | 姓名 | 描述 |
 | --- | --- |
-| [ClosureOption](closureoption)() | 初始化[`ClosureOption`](../closureoption)类的新实例。 |
+| [ClosureOption](closureoption)() | 初始化一个新的实例[`ClosureOption`](../closureoption)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
 | [Gain](../../aspose.finance.ofx.investment/closureoption/gain) { get; set; } | 获取或设置总增益。 |
-| [InvestmentTransaction](../../aspose.finance.ofx.investment/abstractinvestmenttransaction/investmenttransaction) { get; set; } | 获取或设置[`InvestmentTransaction`](../abstractinvestmenttransaction/investmenttransaction)。 |
-| [OptionAction](../../aspose.finance.ofx.investment/closureoption/optionaction) { get; set; } | 获取或设置选项操作类型。 |
-| [RelateFITransactionID](../../aspose.finance.ofx.investment/closureoption/relatefitransactionid) { get; set; } | 获取或设置关联交易的ID。 |
-| [SecurityId](../../aspose.finance.ofx.investment/closureoption/securityid) { get; set; } | 获取或设置[`SecurityId`](./securityid)。 |
+| [InvestmentTransaction](../../aspose.finance.ofx.investment/abstractinvestmenttransaction/investmenttransaction) { get; set; } | 获取或设置[`InvestmentTransaction`](../abstractinvestmenttransaction/investmenttransaction). |
+| [OptionAction](../../aspose.finance.ofx.investment/closureoption/optionaction) { get; set; } | 获取或设置选项动作类型。 |
+| [RelateFITransactionID](../../aspose.finance.ofx.investment/closureoption/relatefitransactionid) { get; set; } | 获取或设置相关交易的ID。 |
+| [SecurityId](../../aspose.finance.ofx.investment/closureoption/securityid) { get; set; } | 获取或设置[`SecurityId`](./securityid). |
 | [SharePerContract](../../aspose.finance.ofx.investment/closureoption/sharepercontract) { get; set; } | 获取或设置每份合约的股数。 |
-| [SubAccountSecurity](../../aspose.finance.ofx.investment/closureoption/subaccountsecurity) { get; set; } | 获取或设置证券的子账户类型 |
+| [SubAccountSecurity](../../aspose.finance.ofx.investment/closureoption/subaccountsecurity) { get; set; } | 获取或设置security 的子账户类型 |
 | [Units](../../aspose.finance.ofx.investment/closureoption/units) { get; set; } | 获取或设置单位。用于除股票分割以外的基于安全的操作。股票、共同基金等的股票。债券的面值。期权合约。 |
 
 ### 也可以看看

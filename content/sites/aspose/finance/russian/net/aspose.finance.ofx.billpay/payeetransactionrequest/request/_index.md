@@ -1,14 +1,14 @@
 ---
 title: Request
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задаетPayeeRequestaspose.finance.ofx.billpay/payeerequestилиPayeeModRequestaspose.finance.ofx.billpay/payeemodrequestилиPayeeDeleteRequestaspose.finance.ofx.billpay/payeedeleterequest.
+description: Получает или задаетPayeeRequestaspose.finance.ofx.billpay/payeerequest или жеPayeeModRequestaspose.finance.ofx.billpay/payeemodrequest или жеPayeeDeleteRequestaspose.finance.ofx.billpay/payeedeleterequest .
 type: docs
 weight: 30
 url: /ru/net/aspose.finance.ofx.billpay/payeetransactionrequest/request/
 ---
 ## PayeeTransactionRequest.Request property
 
-Получает или задает[`PayeeRequest`](../../payeerequest)или[`PayeeModRequest`](../../payeemodrequest)или[`PayeeDeleteRequest`](../../payeedeleterequest).
+Получает или задает[`PayeeRequest`](../../payeerequest) или же[`PayeeModRequest`](../../payeemodrequest) или же[`PayeeDeleteRequest`](../../payeedeleterequest) .
 
 ```csharp
 public AbstractPayeeRequest Request { get; set; }

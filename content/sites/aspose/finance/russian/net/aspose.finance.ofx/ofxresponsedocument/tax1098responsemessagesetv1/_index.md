@@ -1,14 +1,14 @@
 ---
 title: Tax1098ResponseMessageSetV1
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задаетTax1098ResponseMessageSetV1aspose.finance.ofx/ofxresponsedocument/tax1098responsemessagesetv1.
+description: Получает или задаетTax1098ResponseMessageSetV1aspose.finance.ofx/ofxresponsedocument/tax1098responsemessagesetv1 .
 type: docs
 weight: 150
 url: /ru/net/aspose.finance.ofx/ofxresponsedocument/tax1098responsemessagesetv1/
 ---
 ## OfxResponseDocument.Tax1098ResponseMessageSetV1 property
 
-Получает или задает`Tax1098ResponseMessageSetV1`.
+Получает или задает`Tax1098ResponseMessageSetV1` .
 
 ```csharp
 public Tax1098ResponseMessageSetV1 Tax1098ResponseMessageSetV1 { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: AvailableBalance
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задаетAvailableBalanceaspose.finance.ofx.loan/loanstatementresponse/availablebalance.
+description: Получает или задаетAvailableBalanceaspose.finance.ofx.loan/loanstatementresponse/availablebalance .
 type: docs
 weight: 20
 url: /ru/net/aspose.finance.ofx.loan/loanstatementresponse/availablebalance/
 ---
 ## LoanStatementResponse.AvailableBalance property
 
-Получает или задает`AvailableBalance`.
+Получает или задает`AvailableBalance` .
 
 ```csharp
 public AvailableBalance AvailableBalance { get; set; }

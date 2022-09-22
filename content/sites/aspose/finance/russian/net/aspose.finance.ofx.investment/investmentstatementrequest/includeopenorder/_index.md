@@ -1,14 +1,14 @@
 ---
 title: IncludeOpenOrder
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает включать ли открытые инвестиционные ордера в ответ.
+description: Получает или задает следует ли включать в ответ открытые инвестиционные ордера.
 type: docs
 weight: 50
 url: /ru/net/aspose.finance.ofx.investment/investmentstatementrequest/includeopenorder/
 ---
 ## InvestmentStatementRequest.IncludeOpenOrder property
 
-Получает или задает, включать ли открытые инвестиционные ордера в ответ.
+Получает или задает, следует ли включать в ответ открытые инвестиционные ордера.
 
 ```csharp
 public bool IncludeOpenOrder { get; set; }

@@ -18,15 +18,15 @@ public class IntraModResponse : AbstractIntraResponse
 
 | Имя | Описание |
 | --- | --- |
-| [IntraModResponse](intramodresponse)() | Инициализирует новый экземпляр класса[`IntraModResponse`](../intramodresponse). |
+| [IntraModResponse](intramodresponse)() | Инициализирует новый экземпляр[`IntraModResponse`](../intramodresponse) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
 | [ServerId](../../aspose.finance.ofx.bank/intramodresponse/serverid) { get; set; } | Получает или задает идентификатор, назначенный сервером для изменяемой передачи. |
-| [TransferInfo](../../aspose.finance.ofx.bank/intramodresponse/transferinfo) { get; set; } | Получает или задает[`TransferInfo`](./transferinfo). |
-| [TransferProcessingStatus](../../aspose.finance.ofx.bank/intramodresponse/transferprocessingstatus) { get; set; } | Получает или задает[`TransferProcessingStatus`](./transferprocessingstatus). |
+| [TransferInfo](../../aspose.finance.ofx.bank/intramodresponse/transferinfo) { get; set; } | Получает или задает[`TransferInfo`](./transferinfo) . |
+| [TransferProcessingStatus](../../aspose.finance.ofx.bank/intramodresponse/transferprocessingstatus) { get; set; } | Получает или задает[`TransferProcessingStatus`](./transferprocessingstatus) . |
 
 ### Смотрите также
 

@@ -8,7 +8,7 @@ url: /zh/net/aspose.finance.ofx.profile/investmentstatementmessagesetv1/balanced
 ---
 ## InvestmentStatementMessageSetV1.BalanceDownload property
 
-获取或设置FI服务器是否下载投资余额。
+获取或设置FI服务器是否下载投资余额
 
 ```csharp
 public bool BalanceDownload { get; set; }

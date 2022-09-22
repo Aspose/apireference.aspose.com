@@ -1,14 +1,14 @@
 ---
 title: StatusModifiedBy
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает статус измененный кем. Серверы не обязаны хранить эту информацию.
+description: Получает или задает статус изменен. Серверы не обязаны хранить эту информацию.
 type: docs
 weight: 40
 url: /ru/net/aspose.finance.ofx.billerdelivery/billstatus/statusmodifiedby/
 ---
 ## BillStatus.StatusModifiedBy property
 
-Получает или задает статус, измененный кем. Серверы не обязаны хранить эту информацию.
+Получает или задает статус изменен. Серверы не обязаны хранить эту информацию.
 
 ```csharp
 public StatusModByEnum StatusModifiedBy { get; set; }

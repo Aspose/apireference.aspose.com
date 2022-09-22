@@ -1,14 +1,14 @@
 ---
 title: GetMimeSupport
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置是否支持GetMimeRequestaspose.finance.ofx.email/getmimerequest
+description: 获取或设置是否支持GetMimeRequestaspose.finance.ofx.email/getmimerequest.
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.ofx.profile/emailmessagesetv1/getmimesupport/
 ---
 ## EmailMessageSetV1.GetMimeSupport property
 
-获取或设置是否支持[`GetMimeRequest`](../../../aspose.finance.ofx.email/getmimerequest)。
+获取或设置是否支持[`GetMimeRequest`](../../../aspose.finance.ofx.email/getmimerequest).
 
 ```csharp
 public bool GetMimeSupport { get; set; }

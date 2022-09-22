@@ -1,14 +1,14 @@
 ---
 title: GetFromLocs
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает коллекцию изLocaspose.finance.xbrl/locвCalculationArcaspose.finance.xbrl/calculationarc.
+description: Получает коллекцию изLocaspose.finance.xbrl/loc вCalculationArcaspose.finance.xbrl/calculationarc .
 type: docs
 weight: 20
 url: /ru/net/aspose.finance.xbrl/calculationarc/getfromlocs/
 ---
 ## CalculationArc.GetFromLocs method
 
-Получает коллекцию из[`Loc`](../../loc)в[`CalculationArc`](../../calculationarc).
+Получает коллекцию из[`Loc`](../../loc) в[`CalculationArc`](../../calculationarc) .
 
 ```csharp
 public List<Loc> GetFromLocs()

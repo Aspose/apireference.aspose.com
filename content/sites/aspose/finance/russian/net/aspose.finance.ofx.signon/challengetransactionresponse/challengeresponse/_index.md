@@ -1,14 +1,14 @@
 ---
 title: ChallengeResponse
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задаетChallengeResponseaspose.finance.ofx.signon/challengetransactionresponse/challengeresponse.
+description: Получает или задаетChallengeResponseaspose.finance.ofx.signon/challengetransactionresponse/challengeresponse .
 type: docs
 weight: 20
 url: /ru/net/aspose.finance.ofx.signon/challengetransactionresponse/challengeresponse/
 ---
 ## ChallengeTransactionResponse.ChallengeResponse property
 
-Получает или задает`ChallengeResponse`.
+Получает или задает`ChallengeResponse` .
 
 ```csharp
 public ChallengeResponse ChallengeResponse { get; set; }

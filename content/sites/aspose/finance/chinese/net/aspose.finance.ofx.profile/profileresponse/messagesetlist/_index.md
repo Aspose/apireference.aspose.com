@@ -1,14 +1,14 @@
 ---
 title: MessageSetList
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置MessageSetListaspose.finance.ofx.profile/profileresponse/messagesetlist
+description: 获取或设置MessageSetListaspose.finance.ofx.profile/profileresponse/messagesetlist.
 type: docs
 weight: 110
 url: /zh/net/aspose.finance.ofx.profile/profileresponse/messagesetlist/
 ---
 ## ProfileResponse.MessageSetList property
 
-获取或设置`MessageSetList`。
+获取或设置`MessageSetList`.
 
 ```csharp
 public MessageSetList MessageSetList { get; set; }

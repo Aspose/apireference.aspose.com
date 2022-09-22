@@ -18,7 +18,7 @@ public enum ImageTypeEnum
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| STATEMENT | `0` | 图片为声明图片 |
+| STATEMENT | `0` | 图像是一个语句 image |
 | TRANSACTION | `1` | 图像是交易图像（例如支票图像）。 |
 | TAX | `2` | 图片是税务图片。 |
 

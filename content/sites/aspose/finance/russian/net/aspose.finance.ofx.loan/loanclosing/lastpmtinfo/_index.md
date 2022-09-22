@@ -1,14 +1,14 @@
 ---
 title: LastPmtInfo
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задаетLastPmtInfoTypeaspose.finance.ofx/lastpmtinfotype.
+description: Получает или задаетLastPmtInfoTypeaspose.finance.ofx/lastpmtinfotype .
 type: docs
 weight: 120
 url: /ru/net/aspose.finance.ofx.loan/loanclosing/lastpmtinfo/
 ---
 ## LoanClosing.LastPmtInfo property
 
-Получает или задает[`LastPmtInfoType`](../../../aspose.finance.ofx/lastpmtinfotype).
+Получает или задает[`LastPmtInfoType`](../../../aspose.finance.ofx/lastpmtinfotype) .
 
 ```csharp
 public LastPmtInfoType LastPmtInfo { get; set; }

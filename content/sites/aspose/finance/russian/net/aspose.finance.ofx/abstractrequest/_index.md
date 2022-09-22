@@ -1,14 +1,14 @@
 ---
 title: AbstractRequest
 second_title: Справочник по API Aspose.Finance для .NET
-description: Абстрактный базовый класс для всех классов связанных с запросом.
+description: Абстрактный базовый класс для всех классов связанных с запросами.
 type: docs
 weight: 50
 url: /ru/net/aspose.finance.ofx/abstractrequest/
 ---
 ## AbstractRequest class
 
-Абстрактный базовый класс для всех классов, связанных с запросом.
+Абстрактный базовый класс для всех классов, связанных с запросами.
 
 ```csharp
 public abstract class AbstractRequest

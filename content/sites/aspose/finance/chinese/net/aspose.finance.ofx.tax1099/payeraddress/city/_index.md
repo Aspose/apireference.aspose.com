@@ -8,7 +8,7 @@ url: /zh/net/aspose.finance.ofx.tax1099/payeraddress/city/
 ---
 ## PayerAddress.City property
 
-获取或设置付款人城市。
+获取或设置付款人城市
 
 ```csharp
 public string City { get; set; }

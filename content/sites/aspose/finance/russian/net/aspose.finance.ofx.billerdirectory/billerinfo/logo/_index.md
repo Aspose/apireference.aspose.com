@@ -1,14 +1,14 @@
 ---
 title: Logo
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает URL-адрес логотипа выставляющего счета.
+description: Получает или задает URLадрес логотипа биллера.
 type: docs
 weight: 130
 url: /ru/net/aspose.finance.ofx.billerdirectory/billerinfo/logo/
 ---
 ## BillerInfo.Logo property
 
-Получает или задает URL-адрес логотипа выставляющего счета.
+Получает или задает URL-адрес логотипа биллера.
 
 ```csharp
 public string Logo { get; set; }

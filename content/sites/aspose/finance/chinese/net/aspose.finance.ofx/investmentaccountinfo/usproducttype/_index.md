@@ -1,14 +1,14 @@
 ---
 title: UsProductType
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置帐号的分类
+description: 获取或设置账户的分类
 type: docs
 weight: 70
 url: /zh/net/aspose.finance.ofx/investmentaccountinfo/usproducttype/
 ---
 ## InvestmentAccountInfo.UsProductType property
 
-获取或设置帐号的分类。
+获取或设置账户的分类。
 
 ```csharp
 public UsProductEnum UsProductType { get; set; }

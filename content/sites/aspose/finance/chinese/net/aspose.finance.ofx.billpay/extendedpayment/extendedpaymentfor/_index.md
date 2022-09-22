@@ -1,14 +1,14 @@
 ---
 title: ExtendedPaymentFor
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置付款是针对个人帐户还是企业帐户这允许支付处理器将付款汇至消费者或企业的适当地址
+description: 获取或设置付款是针对个人帐户还是企业帐户这允许付款处理器将付款汇到消费者或企业的适当地址
 type: docs
 weight: 40
 url: /zh/net/aspose.finance.ofx.billpay/extendedpayment/extendedpaymentfor/
 ---
 ## ExtendedPayment.ExtendedPaymentFor property
 
-获取或设置付款是针对个人帐户还是企业帐户。这允许支付处理器将付款汇至消费者或企业的适当地址。
+获取或设置付款是针对个人帐户还是企业帐户。这允许付款处理器将付款汇到消费者或企业的适当地址。
 
 ```csharp
 public ExtendedPaymentForEnum ExtendedPaymentFor { get; set; }

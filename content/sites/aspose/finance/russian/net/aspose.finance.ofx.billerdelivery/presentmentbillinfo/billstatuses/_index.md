@@ -1,14 +1,14 @@
 ---
 title: BillStatuses
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает коллекциюBillStatusaspose.finance.ofx.billerdelivery/billstatus.
+description: Получает или задает коллекциюBillStatusaspose.finance.ofx.billerdelivery/billstatus .
 type: docs
 weight: 100
 url: /ru/net/aspose.finance.ofx.billerdelivery/presentmentbillinfo/billstatuses/
 ---
 ## PresentmentBillInfo.BillStatuses property
 
-Получает или задает коллекцию[`BillStatus`](../../billstatus).
+Получает или задает коллекцию[`BillStatus`](../../billstatus) .
 
 ```csharp
 public List<BillStatus> BillStatuses { get; set; }

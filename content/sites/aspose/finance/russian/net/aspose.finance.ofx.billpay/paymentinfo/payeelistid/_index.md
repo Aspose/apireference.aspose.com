@@ -1,14 +1,14 @@
 ---
 title: PayeeListId
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает идентификатор списка получателей платежей обязательно если назначен
+description: Получает или задает идентификатор списка получателей платежей обязателен если назначен
 type: docs
 weight: 120
 url: /ru/net/aspose.finance.ofx.billpay/paymentinfo/payeelistid/
 ---
 ## PaymentInfo.PayeeListId property
 
-Получает или задает идентификатор списка получателей платежей (обязательно, если назначен),
+Получает или задает идентификатор списка получателей платежей (обязателен, если назначен),
 
 ```csharp
 public string PayeeListId { get; set; }

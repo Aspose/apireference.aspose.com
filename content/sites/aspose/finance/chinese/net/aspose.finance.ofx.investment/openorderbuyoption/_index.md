@@ -1,14 +1,14 @@
 ---
 title: OpenOrderBuyOption
 second_title: Aspose.Finance for .NET API 参考
-description: 开单买入期权类别
+description: 开单买入期权类
 type: docs
 weight: 3240
 url: /zh/net/aspose.finance.ofx.investment/openorderbuyoption/
 ---
 ## OpenOrderBuyOption class
 
-开单买入期权类别。
+开单买入期权类。
 
 ```csharp
 public class OpenOrderBuyOption : AbstractOpenOrder
@@ -18,14 +18,14 @@ public class OpenOrderBuyOption : AbstractOpenOrder
 
 | 姓名 | 描述 |
 | --- | --- |
-| [OpenOrderBuyOption](openorderbuyoption)() | 初始化[`OpenOrderBuyOption`](../openorderbuyoption)类的新实例。 |
+| [OpenOrderBuyOption](openorderbuyoption)() | 初始化一个新的实例[`OpenOrderBuyOption`](../openorderbuyoption)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [OpenOrder](../../aspose.finance.ofx.investment/abstractopenorder/openorder) { get; set; } | 获取或设置[`GeneralOpenOrder`](../generalopenorder)。 |
-| [OptionBuyType](../../aspose.finance.ofx.investment/openorderbuyoption/optionbuytype) { get; set; } | 获取或设置购买类型。 |
+| [OpenOrder](../../aspose.finance.ofx.investment/abstractopenorder/openorder) { get; set; } | 获取或设置[`GeneralOpenOrder`](../generalopenorder). |
+| [OptionBuyType](../../aspose.finance.ofx.investment/openorderbuyoption/optionbuytype) { get; set; } | 获取或设置购买的类型。 |
 
 ### 也可以看看
 

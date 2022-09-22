@@ -1,14 +1,14 @@
 ---
 title: CreditcardRequestMessageSetV1
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化CreditcardRequestMessageSetV1aspose.finance.ofx/creditcardrequestmessagesetv1类的新实例
+description: 初始化一个新的实例CreditcardRequestMessageSetV1aspose.finance.ofx/creditcardrequestmessagesetv1类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx/creditcardrequestmessagesetv1/creditcardrequestmessagesetv1/
 ---
 ## CreditcardRequestMessageSetV1 constructor
 
-初始化[`CreditcardRequestMessageSetV1`](../../creditcardrequestmessagesetv1)类的新实例。
+初始化一个新的实例[`CreditcardRequestMessageSetV1`](../../creditcardrequestmessagesetv1)类.
 
 ```csharp
 public CreditcardRequestMessageSetV1()

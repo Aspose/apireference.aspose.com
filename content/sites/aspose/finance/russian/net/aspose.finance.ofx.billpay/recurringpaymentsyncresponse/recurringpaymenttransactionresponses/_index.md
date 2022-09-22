@@ -1,14 +1,14 @@
 ---
 title: RecurringPaymentTransactionResponses
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает коллекциюRecurringPaymentTransactionResponseaspose.finance.ofx.billpay/recurringpaymenttransactionresponse.
+description: Получает или задает коллекциюRecurringPaymentTransactionResponseaspose.finance.ofx.billpay/recurringpaymenttransactionresponse .
 type: docs
 weight: 40
 url: /ru/net/aspose.finance.ofx.billpay/recurringpaymentsyncresponse/recurringpaymenttransactionresponses/
 ---
 ## RecurringPaymentSyncResponse.RecurringPaymentTransactionResponses property
 
-Получает или задает коллекцию[`RecurringPaymentTransactionResponse`](../../recurringpaymenttransactionresponse).
+Получает или задает коллекцию[`RecurringPaymentTransactionResponse`](../../recurringpaymenttransactionresponse) .
 
 ```csharp
 public List<RecurringPaymentTransactionResponse> RecurringPaymentTransactionResponses { get; set; }

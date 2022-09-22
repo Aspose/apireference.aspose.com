@@ -1,14 +1,14 @@
 ---
 title: UpdateDate
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置上次更改任何账单条目的日期和时间如服务器在先前查询中报告的那样
+description: 获取或设置上次更改任何帐单条目的日期和时间如服务器在先前查询中报告的那样
 type: docs
 weight: 140
 url: /zh/net/aspose.finance.ofx.billerdirectory/findbillerrequest/updatedate/
 ---
 ## FindBillerRequest.UpdateDate property
 
-获取或设置上次更改任何账单条目的日期和时间，如服务器在先前查询中报告的那样。
+获取或设置上次更改任何帐单条目的日期和时间，如服务器在先前查询中报告的那样。
 
 ```csharp
 public string UpdateDate { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: City
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置计费者所在的城市
+description: 获取或设置计费者所在城市
 type: docs
 weight: 100
 url: /zh/net/aspose.finance.ofx.billerdirectory/billerinfo/city/
 ---
 ## BillerInfo.City property
 
-获取或设置计费者所在的城市。
+获取或设置计费者所在城市。
 
 ```csharp
 public string City { get; set; }

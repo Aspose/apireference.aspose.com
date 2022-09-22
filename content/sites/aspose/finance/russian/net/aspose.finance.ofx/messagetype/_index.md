@@ -18,7 +18,7 @@ public class MessageType : AbstractStringType
 
 | Имя | Описание |
 | --- | --- |
-| [MessageType](messagetype)() | Инициализирует новый экземпляр класса[`MessageType`](../messagetype). |
+| [MessageType](messagetype)() | Инициализирует новый экземпляр[`MessageType`](../messagetype) класс. |
 
 ## Характеристики
 

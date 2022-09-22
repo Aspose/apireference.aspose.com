@@ -1,14 +1,14 @@
 ---
 title: TaxForm1099s
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает коллекциюTax1099MISC_V100aspose.finance.ofx.tax1099/tax1099misc_v100илиTAX1099R_V100илиTAX1099B_V100 илиTAX1099INT_V100илиTAX1099DIV_V100илиTAX1099OID_V100.
+description: Получает или задает коллекциюTax1099MISC_V100aspose.finance.ofx.tax1099/tax1099misc_v100 или жеTAX1099R_V100 или жеTAX1099B_V100 илиTAX1099INT_V100 или жеTAX1099DIV_V100 или жеTAX1099OID_V100 .
 type: docs
 weight: 50
 url: /ru/net/aspose.finance.ofx.tax1099/tax1099response/taxform1099s/
 ---
 ## Tax1099Response.TaxForm1099s property
 
-Получает или задает коллекцию[`Tax1099MISC_V100`](../../tax1099misc_v100)или!:TAX1099R_V100или!:TAX1099B_V100 или!:TAX1099INT_V100или!:TAX1099DIV_V100или!:TAX1099OID_V100.
+Получает или задает коллекцию[`Tax1099MISC_V100`](../../tax1099misc_v100) или же!:TAX1099R_V100 или же!:TAX1099B_V100 или!:TAX1099INT_V100 или же!:TAX1099DIV_V100 или же!:TAX1099OID_V100 .
 
 ```csharp
 public List<AbstractTaxForm1099> TaxForm1099s { get; set; }

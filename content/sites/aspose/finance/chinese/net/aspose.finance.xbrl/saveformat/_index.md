@@ -16,10 +16,10 @@ public enum SaveFormat
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| XBRL | `1` | 表示 Xbrl 文件。 |
+| XBRL | `1` | 表示一个 Xbrl 文件。 |
 | IXBRL | `2` | 表示 iXbrl 文件。 |
-| XLSX | `3` | 表示 xlsx 文件。 |
-| SEC_XLSX_REPORT | `4` | 表示 xlsx 格式的 sec 报告 |
+| XLSX | `3` | 表示一个 xlsx 文件。 |
+| SEC_XLSX_REPORT | `4` | 表示 xlsx 格式的秒报告 |
 | SEC_HTML_REPORT | `5` | 表示 html 格式的秒报告 |
 
 ### 也可以看看

@@ -1,14 +1,14 @@
 ---
 title: RecurringPaymentSyncRequest
 second_title: Aspose.Finance for .NET API 参考
-description: 定期付款同步请求类
+description: 循环支付同步请求类
 type: docs
 weight: 1340
 url: /zh/net/aspose.finance.ofx.billpay/recurringpaymentsyncrequest/
 ---
 ## RecurringPaymentSyncRequest class
 
-定期付款同步请求类。
+循环支付同步请求类。
 
 ```csharp
 public class RecurringPaymentSyncRequest : AbstractSyncRequest
@@ -18,19 +18,19 @@ public class RecurringPaymentSyncRequest : AbstractSyncRequest
 
 | 姓名 | 描述 |
 | --- | --- |
-| [RecurringPaymentSyncRequest](recurringpaymentsyncrequest)() | 初始化[`RecurringPaymentSyncRequest`](../recurringpaymentsyncrequest)类的新实例。 |
+| [RecurringPaymentSyncRequest](recurringpaymentsyncrequest)() | 初始化一个新的实例[`RecurringPaymentSyncRequest`](../recurringpaymentsyncrequest)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [BankAccountFrom](../../aspose.finance.ofx.billpay/recurringpaymentsyncrequest/bankaccountfrom) { get; set; } | 获取或设置[`BankAccount`](../../aspose.finance.ofx/bankaccount)的来源。 |
-| [OfxExtension](../../aspose.finance.ofx.billpay/recurringpaymentsyncrequest/ofxextension) { get; set; } | 获取或设置[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype)。 |
-| [RecurringPaymentTransactionRequests](../../aspose.finance.ofx.billpay/recurringpaymentsyncrequest/recurringpaymenttransactionrequests) { get; set; } | 获取或设置[`RecurringPaymentTransactionRequest`](../recurringpaymenttransactionrequest)的集合。 |
+| [BankAccountFrom](../../aspose.finance.ofx.billpay/recurringpaymentsyncrequest/bankaccountfrom) { get; set; } | 获取或设置 from[`BankAccount`](../../aspose.finance.ofx/bankaccount). |
+| [OfxExtension](../../aspose.finance.ofx.billpay/recurringpaymentsyncrequest/ofxextension) { get; set; } | 获取或设置[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
+| [RecurringPaymentTransactionRequests](../../aspose.finance.ofx.billpay/recurringpaymentsyncrequest/recurringpaymenttransactionrequests) { get; set; } | 获取或设置的集合[`RecurringPaymentTransactionRequest`](../recurringpaymenttransactionrequest). |
 | [Refresh](../../aspose.finance.ofx/abstractsyncrequest/refresh) { get; set; } | 获取或设置是否请求刷新当前状态。 |
-| [RejectIfMisssing](../../aspose.finance.ofx/abstractsyncrequest/rejectifmisssing) { get; set; } | 如果是，如果客户端令牌已过期，请不要处理请求。 |
+| [RejectIfMisssing](../../aspose.finance.ofx/abstractsyncrequest/rejectifmisssing) { get; set; } | 如果是，如果客户端令牌已过期，则不处理请求。 |
 | [Token](../../aspose.finance.ofx/abstractsyncrequest/token) { get; set; } | 获取或设置令牌。 |
-| [TokenOnly](../../aspose.finance.ofx/abstractsyncrequest/tokenonly) { get; set; } | 获取或设置是否只请求当前令牌而不请求历史。 |
+| [TokenOnly](../../aspose.finance.ofx/abstractsyncrequest/tokenonly) { get; set; } | 获取或设置是否只请求当前令牌而不请求历史记录。 |
 
 ### 也可以看看
 

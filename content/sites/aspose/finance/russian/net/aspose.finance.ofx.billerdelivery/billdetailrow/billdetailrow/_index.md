@@ -1,14 +1,14 @@
 ---
 title: BillDetailRow
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаBillDetailRowaspose.finance.ofx.billerdelivery/billdetailrow.
+description: Инициализирует новый экземплярBillDetailRowaspose.finance.ofx.billerdelivery/billdetailrow класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.billerdelivery/billdetailrow/billdetailrow/
 ---
 ## BillDetailRow constructor
 
-Инициализирует новый экземпляр класса[`BillDetailRow`](../../billdetailrow).
+Инициализирует новый экземпляр[`BillDetailRow`](../../billdetailrow) класс.
 
 ```csharp
 public BillDetailRow()

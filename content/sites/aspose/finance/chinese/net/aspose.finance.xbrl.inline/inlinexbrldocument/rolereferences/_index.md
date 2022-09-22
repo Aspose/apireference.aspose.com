@@ -1,14 +1,14 @@
 ---
 title: RoleReferences
 second_title: Aspose.Finance for .NET API 参考
-description: 获取内联 XBRL 文档中RoleReferenceaspose.finance.xbrl/rolereference的集合
+description: 获取集合RoleReferenceaspose.finance.xbrl/rolereference在内联 XBRL 文档中
 type: docs
 weight: 90
 url: /zh/net/aspose.finance.xbrl.inline/inlinexbrldocument/rolereferences/
 ---
 ## InlineXbrlDocument.RoleReferences property
 
-获取内联 XBRL 文档中[`RoleReference`](../../../aspose.finance.xbrl/rolereference)的集合。
+获取集合[`RoleReference`](../../../aspose.finance.xbrl/rolereference)在内联 XBRL 文档中。
 
 ```csharp
 public List<RoleReference> RoleReferences { get; }

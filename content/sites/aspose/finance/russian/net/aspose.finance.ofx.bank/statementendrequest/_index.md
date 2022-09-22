@@ -1,14 +1,14 @@
 ---
 title: StatementEndRequest
 second_title: Справочник по API Aspose.Finance для .NET
-description: Класс запроса заключительного заявления.
+description: Класс запроса заявления о закрытии.
 type: docs
 weight: 630
 url: /ru/net/aspose.finance.ofx.bank/statementendrequest/
 ---
 ## StatementEndRequest class
 
-Класс запроса заключительного заявления.
+Класс запроса заявления о закрытии.
 
 ```csharp
 public class StatementEndRequest
@@ -18,16 +18,16 @@ public class StatementEndRequest
 
 | Имя | Описание |
 | --- | --- |
-| [StatementEndRequest](statementendrequest)() | Инициализирует новый экземпляр класса[`StatementEndRequest`](../statementendrequest). |
+| [StatementEndRequest](statementendrequest)() | Инициализирует новый экземпляр[`StatementEndRequest`](../statementendrequest) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [BankAccountFrom](../../aspose.finance.ofx.bank/statementendrequest/bankaccountfrom) { get; set; } | Получает или задает значение из[`BankAccount`](../../aspose.finance.ofx/bankaccount). |
-| [EndDate](../../aspose.finance.ofx.bank/statementendrequest/enddate) { get; set; } | Получает или задает дату окончания сведений о закрытии выписки. |
+| [BankAccountFrom](../../aspose.finance.ofx.bank/statementendrequest/bankaccountfrom) { get; set; } | Получает или задает из[`BankAccount`](../../aspose.finance.ofx/bankaccount) . |
+| [EndDate](../../aspose.finance.ofx.bank/statementendrequest/enddate) { get; set; } | Получает или задает дату окончания информации о закрытии выписки. |
 | [IncludeStatementImage](../../aspose.finance.ofx.bank/statementendrequest/includestatementimage) { get; set; } | Получает или задает, следует ли включать данные для закрывающих изображений операторов. |
-| [StartDate](../../aspose.finance.ofx.bank/statementendrequest/startdate) { get; set; } | Получает или задает начальную дату для сведений о закрытии выписки. |
+| [StartDate](../../aspose.finance.ofx.bank/statementendrequest/startdate) { get; set; } | Получает или задает начальную дату для информации о закрытии выписки. |
 
 ### Смотрите также
 

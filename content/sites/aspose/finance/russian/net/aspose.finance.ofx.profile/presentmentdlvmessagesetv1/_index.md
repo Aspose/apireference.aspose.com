@@ -1,14 +1,14 @@
 ---
 title: PresentmentDlvMessageSetV1
 second_title: Справочник по API Aspose.Finance для .NET
-description: Версия 1 набора сообщений доставки биллера.
+description: Версия 1 набора сообщений о доставке биллера.
 type: docs
 weight: 4660
 url: /ru/net/aspose.finance.ofx.profile/presentmentdlvmessagesetv1/
 ---
 ## PresentmentDlvMessageSetV1 class
 
-Версия 1 набора сообщений доставки биллера.
+Версия 1 набора сообщений о доставке биллера.
 
 ```csharp
 public class PresentmentDlvMessageSetV1 : AbstractMessageSetVersion
@@ -18,15 +18,15 @@ public class PresentmentDlvMessageSetV1 : AbstractMessageSetVersion
 
 | Имя | Описание |
 | --- | --- |
-| [PresentmentDlvMessageSetV1](presentmentdlvmessagesetv1)() | Инициализирует новый экземпляр класса[`PresentmentDlvMessageSetV1`](../presentmentdlvmessagesetv1). |
+| [PresentmentDlvMessageSetV1](presentmentdlvmessagesetv1)() | Инициализирует новый экземпляр[`PresentmentDlvMessageSetV1`](../presentmentdlvmessagesetv1) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [EmailProfile](../../aspose.finance.ofx.profile/presentmentdlvmessagesetv1/emailprofile) { get; set; } | Получает или задает[`EmailProfile`](./emailprofile). |
-| [MessageSetCore](../../aspose.finance.ofx.profile/abstractmessagesetversion/messagesetcore) { get; set; } | Получает или задает[`MessageSetCore`](../abstractmessagesetversion/messagesetcore). |
-| [PresentmentDlvProfile](../../aspose.finance.ofx.profile/presentmentdlvmessagesetv1/presentmentdlvprofile) { get; set; } | Получает или задает[`PresentmentDlvProfile`](./presentmentdlvprofile). |
+| [EmailProfile](../../aspose.finance.ofx.profile/presentmentdlvmessagesetv1/emailprofile) { get; set; } | Получает или задает[`EmailProfile`](./emailprofile) . |
+| [MessageSetCore](../../aspose.finance.ofx.profile/abstractmessagesetversion/messagesetcore) { get; set; } | Получает или задает[`MessageSetCore`](../abstractmessagesetversion/messagesetcore) . |
+| [PresentmentDlvProfile](../../aspose.finance.ofx.profile/presentmentdlvmessagesetv1/presentmentdlvprofile) { get; set; } | Получает или задает[`PresentmentDlvProfile`](./presentmentdlvprofile) . |
 
 ### Смотрите также
 

@@ -1,14 +1,14 @@
 ---
 title: FilerAddress
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаFilerAddressaspose.finance.ofx.tax1098/fileraddress.
+description: Инициализирует новый экземплярFilerAddressaspose.finance.ofx.tax1098/fileraddress класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.tax1098/fileraddress/fileraddress/
 ---
 ## FilerAddress constructor
 
-Инициализирует новый экземпляр класса[`FilerAddress`](../../fileraddress).
+Инициализирует новый экземпляр[`FilerAddress`](../../fileraddress) класс.
 
 ```csharp
 public FilerAddress()

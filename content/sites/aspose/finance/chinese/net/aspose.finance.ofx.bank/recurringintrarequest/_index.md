@@ -18,14 +18,14 @@ public class RecurringIntraRequest : AbstractRecurringIntraRequest
 
 | 姓名 | 描述 |
 | --- | --- |
-| [RecurringIntraRequest](recurringintrarequest)() | 初始化[`RecurringIntraRequest`](../recurringintrarequest)类的新实例。 |
+| [RecurringIntraRequest](recurringintrarequest)() | 初始化一个新的实例[`RecurringIntraRequest`](../recurringintrarequest)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [IntraRequest](../../aspose.finance.ofx.bank/recurringintrarequest/intrarequest) { get; set; } | 获取或设置[`IntraRequest`](./intrarequest)。 |
-| [RecurringInstructions](../../aspose.finance.ofx.bank/recurringintrarequest/recurringinstructions) { get; set; } | 获取或设置[`RecurringInstructions`](./recurringinstructions)。 |
+| [IntraRequest](../../aspose.finance.ofx.bank/recurringintrarequest/intrarequest) { get; set; } | 获取或设置[`IntraRequest`](./intrarequest). |
+| [RecurringInstructions](../../aspose.finance.ofx.bank/recurringintrarequest/recurringinstructions) { get; set; } | 获取或设置[`RecurringInstructions`](./recurringinstructions). |
 
 ### 也可以看看
 

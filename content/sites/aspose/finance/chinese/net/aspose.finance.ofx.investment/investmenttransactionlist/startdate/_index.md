@@ -1,14 +1,14 @@
 ---
 title: StartDate
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置事务数据的开始日期
+description: 获取或设置交易数据的开始日期
 type: docs
 weight: 50
 url: /zh/net/aspose.finance.ofx.investment/investmenttransactionlist/startdate/
 ---
 ## InvestmentTransactionList.StartDate property
 
-获取或设置事务数据的开始日期。
+获取或设置交易数据的开始日期。
 
 ```csharp
 public string StartDate { get; set; }

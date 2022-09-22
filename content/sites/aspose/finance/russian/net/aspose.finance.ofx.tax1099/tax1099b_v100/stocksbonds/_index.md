@@ -1,14 +1,14 @@
 ---
 title: StocksBonds
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задаетStocksBondsaspose.finance.ofx.tax1099/tax1099b_v100/stocksbonds.
+description: Получает или задаетStocksBondsaspose.finance.ofx.tax1099/tax1099b_v100/stocksbonds .
 type: docs
 weight: 150
 url: /ru/net/aspose.finance.ofx.tax1099/tax1099b_v100/stocksbonds/
 ---
 ## Tax1099B_V100.StocksBonds property
 
-Получает или задает`StocksBonds`.
+Получает или задает`StocksBonds` .
 
 ```csharp
 public StocksBonds StocksBonds { get; set; }

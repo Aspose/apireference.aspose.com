@@ -8,7 +8,7 @@ url: /zh/net/aspose.finance.xbrl.inline/inlinenonnumeric/escape/
 ---
 ## InlineNonnumeric.Escape property
 
-获取或设置是否转义。
+获取或设置是否转义
 
 ```csharp
 public bool Escape { get; set; }

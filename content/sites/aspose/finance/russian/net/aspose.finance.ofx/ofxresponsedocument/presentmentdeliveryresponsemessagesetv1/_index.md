@@ -1,14 +1,14 @@
 ---
 title: PresentmentDeliveryResponseMessageSetV1
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задаетPresentmentDeliveryResponseMessageSetV1aspose.finance.ofx/ofxresponsedocument/presentmentdeliveryresponsemessagesetv1.
+description: Получает или задаетPresentmentDeliveryResponseMessageSetV1aspose.finance.ofx/ofxresponsedocument/presentmentdeliveryresponsemessagesetv1 .
 type: docs
 weight: 90
 url: /ru/net/aspose.finance.ofx/ofxresponsedocument/presentmentdeliveryresponsemessagesetv1/
 ---
 ## OfxResponseDocument.PresentmentDeliveryResponseMessageSetV1 property
 
-Получает или задает`PresentmentDeliveryResponseMessageSetV1`.
+Получает или задает`PresentmentDeliveryResponseMessageSetV1` .
 
 ```csharp
 public PresentmentDeliveryResponseMessageSetV1 PresentmentDeliveryResponseMessageSetV1 { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: ReferenceNumber
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает ссылочный номер. Сервер может сгенерировать ссылку или проверить наличие перевода
+description: Получает или задает номер ссылки. Сервер может генерировать ссылку или проверять наличие transfer
 type: docs
 weight: 40
 url: /ru/net/aspose.finance.ofx.intertransfer/interresponse/referencenumber/
 ---
 ## InterResponse.ReferenceNumber property
 
-Получает или задает ссылочный номер. Сервер может сгенерировать ссылку или проверить наличие перевода
+Получает или задает номер ссылки. Сервер может генерировать ссылку или проверять наличие transfer
 
 ```csharp
 public string ReferenceNumber { get; set; }

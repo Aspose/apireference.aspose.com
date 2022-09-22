@@ -1,14 +1,14 @@
 ---
 title: Contexts
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает коллекцию объектовContextaspose.finance.xbrl/contextв отчете XBRL.
+description: Получает или задает коллекциюContextaspose.finance.xbrl/context объекты в экземпляре XBRL.
 type: docs
 weight: 20
 url: /ru/net/aspose.finance.xbrl/xbrlinstance/contexts/
 ---
 ## XbrlInstance.Contexts property
 
-Получает или задает коллекцию объектов[`Context`](../../context)в отчете XBRL.
+Получает или задает коллекцию[`Context`](../../context) объекты в экземпляре XBRL.
 
 ```csharp
 public List<Context> Contexts { get; set; }

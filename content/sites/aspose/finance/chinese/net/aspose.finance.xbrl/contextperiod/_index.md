@@ -1,14 +1,14 @@
 ---
 title: ContextPeriod
 second_title: Aspose.Finance for .NET API 参考
-description: Context./context的周期
+description: 的周期Context./context.
 type: docs
 weight: 6560
 url: /zh/net/aspose.finance.xbrl/contextperiod/
 ---
 ## ContextPeriod class
 
-[`Context`](../context)的周期。
+的周期[`Context`](../context).
 
 ```csharp
 public class ContextPeriod
@@ -18,9 +18,9 @@ public class ContextPeriod
 
 | 姓名 | 描述 |
 | --- | --- |
-| [ContextPeriod](contextperiod#constructor)(ContextPeriodType) | 初始化[`ContextPeriod`](../contextperiod)类的新实例。 |
-| [ContextPeriod](contextperiod#constructor_1)(DateTime) | 使用 Instant 类型初始化[`ContextPeriod`](../contextperiod)类的新实例。 |
-| [ContextPeriod](contextperiod#constructor_2)(DateTime, DateTime) | 使用 Duration 类型初始化[`ContextPeriod`](../contextperiod)类的新实例。 |
+| [ContextPeriod](contextperiod#constructor)(ContextPeriodType) | 初始化一个新的实例[`ContextPeriod`](../contextperiod)类. |
+| [ContextPeriod](contextperiod#constructor_1)(DateTime) | 初始化一个新的实例[`ContextPeriod`](../contextperiod)即时类型的类. |
+| [ContextPeriod](contextperiod#constructor_2)(DateTime, DateTime) | 初始化一个新的实例[`ContextPeriod`](../contextperiod)持续时间类型的类. |
 
 ## 特性
 

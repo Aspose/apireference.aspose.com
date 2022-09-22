@@ -18,7 +18,7 @@ public class RecurringPaymentModResponse : AbstractRecurringPaymentResponse
 
 | Имя | Описание |
 | --- | --- |
-| [RecurringPaymentModResponse](recurringpaymentmodresponse)() | Инициализирует новый экземпляр класса[`RecurringPaymentModResponse`](../recurringpaymentmodresponse). |
+| [RecurringPaymentModResponse](recurringpaymentmodresponse)() | Инициализирует новый экземпляр[`RecurringPaymentModResponse`](../recurringpaymentmodresponse) класс. |
 
 ## Характеристики
 
@@ -27,8 +27,8 @@ public class RecurringPaymentModResponse : AbstractRecurringPaymentResponse
 | [FinalAmount](../../aspose.finance.ofx.billpay/recurringpaymentmodresponse/finalamount) { get; set; } | Получает или задает сумму окончательного платежа. |
 | [InitialAmount](../../aspose.finance.ofx.billpay/recurringpaymentmodresponse/initialamount) { get; set; } | Получает или задает сумму первоначального платежа. |
 | [ModifyPending](../../aspose.finance.ofx.billpay/recurringpaymentmodresponse/modifypending) { get; set; } | Истинно, если клиент запросил сервер изменить ожидающие и будущие платежи. False, если клиент не запросил сервер изменить ожидающие и будущие платежи. |
-| [PaymentInfo](../../aspose.finance.ofx.billpay/recurringpaymentmodresponse/paymentinfo) { get; set; } | Получает или задает[`PaymentInfo`](./paymentinfo). |
-| [RecurringInstructions](../../aspose.finance.ofx.billpay/recurringpaymentmodresponse/recurringinstructions) { get; set; } | Получает или задает[`RecurringInstructions`](./recurringinstructions). |
+| [PaymentInfo](../../aspose.finance.ofx.billpay/recurringpaymentmodresponse/paymentinfo) { get; set; } | Получает или задает[`PaymentInfo`](./paymentinfo) . |
+| [RecurringInstructions](../../aspose.finance.ofx.billpay/recurringpaymentmodresponse/recurringinstructions) { get; set; } | Получает или задает[`RecurringInstructions`](./recurringinstructions) . |
 | [RecurringServerId](../../aspose.finance.ofx.billpay/abstractrecurringpaymentresponse/recurringserverid) { get; set; } | Получает или задает назначенный сервером идентификатор для этой транзакции. |
 
 ### Смотрите также

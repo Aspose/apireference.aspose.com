@@ -18,13 +18,13 @@ public class MFAChallengeResponse
 
 | 姓名 | 描述 |
 | --- | --- |
-| [MFAChallengeResponse](mfachallengeresponse)() | 初始化[`MFAChallengeResponse`](../mfachallengeresponse)类的新实例。 |
+| [MFAChallengeResponse](mfachallengeresponse)() | 初始化一个新的实例[`MFAChallengeResponse`](../mfachallengeresponse)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [MFAChallenges](../../aspose.finance.ofx.signon/mfachallengeresponse/mfachallenges) { get; set; } | 获取或设置[`MFAChallenge`](../mfachallenge)的集合。 |
+| [MFAChallenges](../../aspose.finance.ofx.signon/mfachallengeresponse/mfachallenges) { get; set; } | 获取或设置的集合[`MFAChallenge`](../mfachallenge). |
 
 ### 也可以看看
 

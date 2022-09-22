@@ -18,16 +18,16 @@ public class StatementTransactionResponse : AbstractTransactionResponse
 
 | Имя | Описание |
 | --- | --- |
-| [StatementTransactionResponse](statementtransactionresponse)() | Инициализирует новый экземпляр класса[`StatementTransactionResponse`](../statementtransactionresponse). |
+| [StatementTransactionResponse](statementtransactionresponse)() | Инициализирует новый экземпляр[`StatementTransactionResponse`](../statementtransactionresponse) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [ClientCookie](../../aspose.finance.ofx/abstracttransactionresponse/clientcookie) { get; set; } | Получает или задает данные, которые будут отображаться в ответе транзакции |
-| [OfxExtension](../../aspose.finance.ofx.bank/statementtransactionresponse/ofxextension) { get; set; } | Получает или задает[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
-| [StatementResponse](../../aspose.finance.ofx.bank/statementtransactionresponse/statementresponse) { get; set; } | Получает или задает[`StatementResponse`](./statementresponse). |
-| [Status](../../aspose.finance.ofx/abstracttransactionresponse/status) { get; set; } | Получает или задает[`Status`](../../aspose.finance.ofx/abstracttransactionresponse/status). |
+| [ClientCookie](../../aspose.finance.ofx/abstracttransactionresponse/clientcookie) { get; set; } | Получает или задает данные, которые будут отражены в транзакции response |
+| [OfxExtension](../../aspose.finance.ofx.bank/statementtransactionresponse/ofxextension) { get; set; } | Получает или задает[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype) . |
+| [StatementResponse](../../aspose.finance.ofx.bank/statementtransactionresponse/statementresponse) { get; set; } | Получает или задает[`StatementResponse`](./statementresponse) . |
+| [Status](../../aspose.finance.ofx/abstracttransactionresponse/status) { get; set; } | Получает или задает[`Status`](../../aspose.finance.ofx/abstracttransactionresponse/status) . |
 | [TransactionUniqueId](../../aspose.finance.ofx/abstracttransactionresponse/transactionuniqueid) { get; set; } | Получает или задает назначенный клиентом глобальный уникальный идентификатор для этой транзакции. |
 
 ### Смотрите также

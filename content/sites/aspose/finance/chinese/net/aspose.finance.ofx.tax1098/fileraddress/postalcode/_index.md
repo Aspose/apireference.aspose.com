@@ -1,14 +1,14 @@
 ---
 title: PostalCode
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置归档地址邮政编码
+description: 获取或设置申报人地址邮政编码
 type: docs
 weight: 90
 url: /zh/net/aspose.finance.ofx.tax1098/fileraddress/postalcode/
 ---
 ## FilerAddress.PostalCode property
 
-获取或设置归档地址邮政编码。
+获取或设置申报人地址邮政编码。
 
 ```csharp
 public string PostalCode { get; set; }

@@ -18,16 +18,16 @@ public class FIDirectDepositInfo
 
 | 姓名 | 描述 |
 | --- | --- |
-| [FIDirectDepositInfo](fidirectdepositinfo)() | 初始化[`FIDirectDepositInfo`](../fidirectdepositinfo)类的新实例。 |
+| [FIDirectDepositInfo](fidirectdepositinfo)() | 初始化一个新的实例[`FIDirectDepositInfo`](../fidirectdepositinfo)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [FIAccountNickname](../../aspose.finance.ofx.tax1099/fidirectdepositinfo/fiaccountnickname) { get; set; } | 获取或设置帐户昵称。 |
+| [FIAccountNickname](../../aspose.finance.ofx.tax1099/fidirectdepositinfo/fiaccountnickname) { get; set; } | 获取或设置帐号昵称。 |
 | [FIAccountNumber](../../aspose.finance.ofx.tax1099/fidirectdepositinfo/fiaccountnumber) { get; set; } | 获取或设置帐号。 |
 | [FINameDirectDeposit](../../aspose.finance.ofx.tax1099/fidirectdepositinfo/finamedirectdeposit) { get; set; } | 获取或设置金融机构的名称。 |
-| [FIRoutingNumber](../../aspose.finance.ofx.tax1099/fidirectdepositinfo/firoutingnumber) { get; set; } | 获取或设置路由号码。 |
+| [FIRoutingNumber](../../aspose.finance.ofx.tax1099/fidirectdepositinfo/firoutingnumber) { get; set; } | 获取或设置路由号 |
 
 ### 也可以看看
 

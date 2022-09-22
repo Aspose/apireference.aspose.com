@@ -1,14 +1,14 @@
 ---
 title: OpenOrderSellDebt
 second_title: Aspose.Finance for .NET API 参考
-description: 公开订单卖出债务类别
+description: 开单卖出债务类
 type: docs
 weight: 3270
 url: /zh/net/aspose.finance.ofx.investment/openorderselldebt/
 ---
 ## OpenOrderSellDebt class
 
-公开订单卖出债务类别。
+开单卖出债务类。
 
 ```csharp
 public class OpenOrderSellDebt : AbstractOpenOrder
@@ -18,13 +18,13 @@ public class OpenOrderSellDebt : AbstractOpenOrder
 
 | 姓名 | 描述 |
 | --- | --- |
-| [OpenOrderSellDebt](openorderselldebt)() | 初始化[`OpenOrderSellDebt`](../openorderselldebt)类的新实例。 |
+| [OpenOrderSellDebt](openorderselldebt)() | 初始化一个新的实例[`OpenOrderSellDebt`](../openorderselldebt)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [OpenOrder](../../aspose.finance.ofx.investment/abstractopenorder/openorder) { get; set; } | 获取或设置[`GeneralOpenOrder`](../generalopenorder)。 |
+| [OpenOrder](../../aspose.finance.ofx.investment/abstractopenorder/openorder) { get; set; } | 获取或设置[`GeneralOpenOrder`](../generalopenorder). |
 
 ### 也可以看看
 

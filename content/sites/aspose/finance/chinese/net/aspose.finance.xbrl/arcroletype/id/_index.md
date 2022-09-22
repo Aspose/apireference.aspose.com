@@ -1,14 +1,14 @@
 ---
 title: Id
 second_title: Aspose.Finance for .NET API 参考
-description: 获取ArcroleTypeaspose.finance.xbrl/arcroletype中的 id
+description: 获取 idArcroleTypeaspose.finance.xbrl/arcroletype.
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.xbrl/arcroletype/id/
 ---
 ## ArcroleType.Id property
 
-获取[`ArcroleType`](../../arcroletype)中的 id。
+获取 id[`ArcroleType`](../../arcroletype).
 
 ```csharp
 public string Id { get; set; }

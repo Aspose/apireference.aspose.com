@@ -1,14 +1,14 @@
 ---
 title: Adjustment
 second_title: Aspose.Finance for .NET API 参考
-description: 调整类
+description: 调整类.
 type: docs
 weight: 210
 url: /zh/net/aspose.finance.ofx/adjustment/
 ---
 ## Adjustment class
 
-调整类。
+调整类.
 
 ```csharp
 public class Adjustment
@@ -18,7 +18,7 @@ public class Adjustment
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Adjustment](adjustment)() | 初始化[`Adjustment`](../adjustment)类的新实例。 |
+| [Adjustment](adjustment)() | 初始化一个新的实例[`Adjustment`](../adjustment)类. |
 
 ## 特性
 
@@ -27,7 +27,7 @@ public class Adjustment
 | [AdjustmentAmount](../../aspose.finance.ofx/adjustment/adjustmentamount) { get; set; } | 获取或设置调整量。 |
 | [AdjustmentDate](../../aspose.finance.ofx/adjustment/adjustmentdate) { get; set; } | 获取或设置调整日期。 |
 | [AdjustmentDescription](../../aspose.finance.ofx/adjustment/adjustmentdescription) { get; set; } | 获取或设置调整描述。 |
-| [AdjustmentNumber](../../aspose.finance.ofx/adjustment/adjustmentnumber) { get; set; } | 获取或设置与付款关联的调整号 |
+| [AdjustmentNumber](../../aspose.finance.ofx/adjustment/adjustmentnumber) { get; set; } | 获取或设置与支付关联的调整号 |
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: InvestmentMailRequest
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置InvestmentMailRequestaspose.finance.ofx.investment/investmentmailtransactionrequest/investmentmailrequest
+description: 获取或设置InvestmentMailRequestaspose.finance.ofx.investment/investmentmailtransactionrequest/investmentmailrequest.
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.ofx.investment/investmentmailtransactionrequest/investmentmailrequest/
 ---
 ## InvestmentMailTransactionRequest.InvestmentMailRequest property
 
-获取或设置`InvestmentMailRequest`。
+获取或设置`InvestmentMailRequest`.
 
 ```csharp
 public InvestmentMailRequest InvestmentMailRequest { get; set; }

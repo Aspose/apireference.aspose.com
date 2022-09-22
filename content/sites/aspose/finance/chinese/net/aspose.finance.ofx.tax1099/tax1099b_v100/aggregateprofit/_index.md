@@ -1,14 +1,14 @@
 ---
 title: AggregateProfit
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置总盈亏
+description: 获取或设置总损益
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.ofx.tax1099/tax1099b_v100/aggregateprofit/
 ---
 ## Tax1099B_V100.AggregateProfit property
 
-获取或设置总盈亏。
+获取或设置总损益。
 
 ```csharp
 public string AggregateProfit { get; set; }

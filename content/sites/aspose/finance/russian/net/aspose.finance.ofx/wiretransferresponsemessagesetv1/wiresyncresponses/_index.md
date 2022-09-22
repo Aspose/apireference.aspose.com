@@ -1,14 +1,14 @@
 ---
 title: WireSyncResponses
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает коллекциюWireSyncResponseaspose.finance.ofx.wiretransfer/wiresyncresponse.
+description: Получает или задает коллекциюWireSyncResponseaspose.finance.ofx.wiretransfer/wiresyncresponse .
 type: docs
 weight: 20
 url: /ru/net/aspose.finance.ofx/wiretransferresponsemessagesetv1/wiresyncresponses/
 ---
 ## WireTransferResponseMessageSetV1.WireSyncResponses property
 
-Получает или задает коллекцию[`WireSyncResponse`](../../../aspose.finance.ofx.wiretransfer/wiresyncresponse).
+Получает или задает коллекцию[`WireSyncResponse`](../../../aspose.finance.ofx.wiretransfer/wiresyncresponse) .
 
 ```csharp
 public List<WireSyncResponse> WireSyncResponses { get; set; }

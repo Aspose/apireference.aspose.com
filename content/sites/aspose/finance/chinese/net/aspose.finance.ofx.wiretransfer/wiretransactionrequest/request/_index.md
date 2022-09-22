@@ -1,14 +1,14 @@
 ---
 title: Request
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置WireRequestaspose.finance.ofx.wiretransfer/wirerequest或WireCancellationRequestaspose.finance.ofx.wiretransfer/wirecancellationrequest.
+description: 获取或设置WireRequestaspose.finance.ofx.wiretransfer/wirerequest或者WireCancellationRequestaspose.finance.ofx.wiretransfer/wirecancellationrequest.
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.ofx.wiretransfer/wiretransactionrequest/request/
 ---
 ## WireTransactionRequest.Request property
 
-获取或设置[`WireRequest`](../../wirerequest)或[`WireCancellationRequest`](../../wirecancellationrequest).
+获取或设置[`WireRequest`](../../wirerequest)或者[`WireCancellationRequest`](../../wirecancellationrequest).
 
 ```csharp
 public AbstractWireRequest Request { get; set; }

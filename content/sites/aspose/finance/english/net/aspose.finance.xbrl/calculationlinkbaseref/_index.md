@@ -3,7 +3,7 @@ title: CalculationLinkbaseRef
 second_title: Aspose.Finance for .NET API Reference
 description: This class is used to calculation linkbase reference.
 type: docs
-weight: 6520
+weight: 6550
 url: /net/aspose.finance.xbrl/calculationlinkbaseref/
 ---
 ## CalculationLinkbaseRef class

@@ -18,19 +18,19 @@ public class Income : AbstractInvestmentTransaction
 
 | Имя | Описание |
 | --- | --- |
-| [Income](income)() | Инициализирует новый экземпляр класса[`Income`](../income). |
+| [Income](income)() | Инициализирует новый экземпляр[`Income`](../income) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [Currency](../../aspose.finance.ofx.investment/income/currency) { get; set; } | Получает или задает[`Currency`](./currency). |
+| [Currency](../../aspose.finance.ofx.investment/income/currency) { get; set; } | Получает или задает[`Currency`](./currency) . |
 | [IncomeType](../../aspose.finance.ofx.investment/income/incometype) { get; set; } | Получает или задает тип инвестиционного дохода. |
-| [Investment401kSource](../../aspose.finance.ofx.investment/income/investment401ksource) { get; set; } | Получает или задает источник денег для этой транзакции. |
-| [InvestmentTransaction](../../aspose.finance.ofx.investment/abstractinvestmenttransaction/investmenttransaction) { get; set; } | Получает или задает[`InvestmentTransaction`](../abstractinvestmenttransaction/investmenttransaction). |
-| [OriginCurrency](../../aspose.finance.ofx.investment/income/origincurrency) { get; set; } | Получает или задает источник[`Currency`](./currency). |
-| [SecurityId](../../aspose.finance.ofx.investment/income/securityid) { get; set; } | Получает или задает[`SecurityId`](./securityid). |
-| [SubAccountFund](../../aspose.finance.ofx.investment/income/subaccountfund) { get; set; } | Получает или устанавливает, откуда или куда ушли деньги для транзакции. |
+| [Investment401kSource](../../aspose.finance.ofx.investment/income/investment401ksource) { get; set; } | Получает или устанавливает источник денег для этой транзакции. |
+| [InvestmentTransaction](../../aspose.finance.ofx.investment/abstractinvestmenttransaction/investmenttransaction) { get; set; } | Получает или задает[`InvestmentTransaction`](../abstractinvestmenttransaction/investmenttransaction) . |
+| [OriginCurrency](../../aspose.finance.ofx.investment/income/origincurrency) { get; set; } | Получает или задает источник[`Currency`](./currency) . |
+| [SecurityId](../../aspose.finance.ofx.investment/income/securityid) { get; set; } | Получает или задает[`SecurityId`](./securityid) . |
+| [SubAccountFund](../../aspose.finance.ofx.investment/income/subaccountfund) { get; set; } | Получает или задает, откуда пришли или куда ушли деньги для транзакции. |
 | [SubAccountSecurity](../../aspose.finance.ofx.investment/income/subaccountsecurity) { get; set; } | Получает или задает тип субсчета для ценной бумаги. |
 | [TaxExempt](../../aspose.finance.ofx.investment/income/taxexempt) { get; set; } | Получает или задает, является ли транзакция освобожденной от налогов. |
 | [Total](../../aspose.finance.ofx.investment/income/total) { get; set; } | Получает или задает общую сумму транзакции. |

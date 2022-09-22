@@ -1,14 +1,14 @@
 ---
 title: MFAChallengeTransactionRequest
 second_title: Aspose.Finance for .NET API 参考
-description: MFA 质询交易请求类
+description: MFA 质询事务请求类
 type: docs
 weight: 5350
 url: /zh/net/aspose.finance.ofx.signon/mfachallengetransactionrequest/
 ---
 ## MFAChallengeTransactionRequest class
 
-MFA 质询交易请求类
+MFA 质询事务请求类
 
 ```csharp
 public class MFAChallengeTransactionRequest : AbstractTransactionRequest
@@ -18,16 +18,16 @@ public class MFAChallengeTransactionRequest : AbstractTransactionRequest
 
 | 姓名 | 描述 |
 | --- | --- |
-| [MFAChallengeTransactionRequest](mfachallengetransactionrequest)() | 初始化[`MFAChallengeTransactionRequest`](../mfachallengetransactionrequest)类的新实例。 |
+| [MFAChallengeTransactionRequest](mfachallengetransactionrequest)() | 初始化一个新的实例[`MFAChallengeTransactionRequest`](../mfachallengetransactionrequest)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
 | [ClientCookie](../../aspose.finance.ofx/abstracttransactionrequest/clientcookie) { get; set; } | 获取或设置要在事务响应中回显的数据 |
-| [MFAChallengeRequest](../../aspose.finance.ofx.signon/mfachallengetransactionrequest/mfachallengerequest) { get; set; } | 获取或设置[`MFAChallengeRequest`](./mfachallengerequest)。 |
-| [OfxExtension](../../aspose.finance.ofx.signon/mfachallengetransactionrequest/ofxextension) { get; set; } | 获取或设置[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype)。 |
-| [TransactionAuthorizationNumber](../../aspose.finance.ofx/abstracttransactionrequest/transactionauthorizationnumber) { get; set; } | 获取或设置交易授权号。 |
+| [MFAChallengeRequest](../../aspose.finance.ofx.signon/mfachallengetransactionrequest/mfachallengerequest) { get; set; } | 获取或设置[`MFAChallengeRequest`](./mfachallengerequest). |
+| [OfxExtension](../../aspose.finance.ofx.signon/mfachallengetransactionrequest/ofxextension) { get; set; } | 获取或设置[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
+| [TransactionAuthorizationNumber](../../aspose.finance.ofx/abstracttransactionrequest/transactionauthorizationnumber) { get; set; } | 获取或设置交易授权号 |
 | [TransactionUniqueId](../../aspose.finance.ofx/abstracttransactionrequest/transactionuniqueid) { get; set; } | 获取或设置此事务的客户端分配的全局唯一 ID |
 
 ### 也可以看看

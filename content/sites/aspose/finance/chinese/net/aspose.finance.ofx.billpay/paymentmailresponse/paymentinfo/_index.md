@@ -1,14 +1,14 @@
 ---
 title: PaymentInfo
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置PaymentInfoaspose.finance.ofx.billpay/paymentmailresponse/paymentinfo
+description: 获取或设置PaymentInfoaspose.finance.ofx.billpay/paymentmailresponse/paymentinfo.
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.ofx.billpay/paymentmailresponse/paymentinfo/
 ---
 ## PaymentMailResponse.PaymentInfo property
 
-获取或设置`PaymentInfo`。
+获取或设置`PaymentInfo`.
 
 ```csharp
 public PaymentInfo PaymentInfo { get; set; }

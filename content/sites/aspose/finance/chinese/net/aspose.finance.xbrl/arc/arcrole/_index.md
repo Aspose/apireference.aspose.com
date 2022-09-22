@@ -1,14 +1,14 @@
 ---
 title: Arcrole
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置圆弧的圆弧
+description: 获取或设置弧的弧线
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.xbrl/arc/arcrole/
 ---
 ## Arc.Arcrole property
 
-获取或设置圆弧的圆弧。
+获取或设置弧的弧线。
 
 ```csharp
 public string Arcrole { get; set; }

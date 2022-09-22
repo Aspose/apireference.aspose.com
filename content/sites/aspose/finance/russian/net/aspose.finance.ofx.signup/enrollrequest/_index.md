@@ -18,20 +18,20 @@ public class EnrollRequest
 
 | Имя | Описание |
 | --- | --- |
-| [EnrollRequest](enrollrequest)() | Инициализирует новый экземпляр класса[`EnrollRequest`](../enrollrequest). |
+| [EnrollRequest](enrollrequest)() | Инициализирует новый экземпляр[`EnrollRequest`](../enrollrequest) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [AccountFrom](../../aspose.finance.ofx.signup/enrollrequest/accountfrom) { get; set; } | Получает или задает из[`BankAccount`](../../aspose.finance.ofx/bankaccount)или[`CreditCardAccount`](../../aspose.finance.ofx/creditcardaccount)или[`InvestmentAccount`](../../aspose.finance.ofx/investmentaccount)или[`PresentmentAccount`](../../aspose.finance.ofx/presentmentaccount). |
+| [AccountFrom](../../aspose.finance.ofx.signup/enrollrequest/accountfrom) { get; set; } | Получает или задает из[`BankAccount`](../../aspose.finance.ofx/bankaccount) или же[`CreditCardAccount`](../../aspose.finance.ofx/creditcardaccount) или же[`InvestmentAccount`](../../aspose.finance.ofx/investmentaccount) или же[`PresentmentAccount`](../../aspose.finance.ofx/presentmentaccount) . |
 | [Address1](../../aspose.finance.ofx.signup/enrollrequest/address1) { get; set; } | Получает или задает адресную строку 1. |
 | [Address2](../../aspose.finance.ofx.signup/enrollrequest/address2) { get; set; } | Получает или задает адресную строку 2. |
 | [Address3](../../aspose.finance.ofx.signup/enrollrequest/address3) { get; set; } | Получает или задает адресную строку 3. |
 | [BirthDate](../../aspose.finance.ofx.signup/enrollrequest/birthdate) { get; set; } | Получает или задает дату рождения. |
 | [City](../../aspose.finance.ofx.signup/enrollrequest/city) { get; set; } | Получает или задает город. |
 | [Country](../../aspose.finance.ofx.signup/enrollrequest/country) { get; set; } | Получает или задает код страны. Трехбуквенный код страны из ISO/DIS-3166. |
-| [DayPhone](../../aspose.finance.ofx.signup/enrollrequest/dayphone) { get; set; } | Получает или задает номер телефона для дневного времени. |
+| [DayPhone](../../aspose.finance.ofx.signup/enrollrequest/dayphone) { get; set; } | Получает или устанавливает номер телефона в дневное время. |
 | [Email](../../aspose.finance.ofx.signup/enrollrequest/email) { get; set; } | Получает или задает электронный адрес электронной почты. |
 | [EveningPhone](../../aspose.finance.ofx.signup/enrollrequest/eveningphone) { get; set; } | Получает или устанавливает вечерний номер телефона. |
 | [FirstName](../../aspose.finance.ofx.signup/enrollrequest/firstname) { get; set; } | Получает или задает имя пользователя. |
@@ -41,7 +41,7 @@ public class EnrollRequest
 | [SecurityName](../../aspose.finance.ofx.signup/enrollrequest/securityname) { get; set; } | Получает или задает девичью фамилию матери или ее эквивалент. |
 | [State](../../aspose.finance.ofx.signup/enrollrequest/state) { get; set; } | Получает или задает штат или провинцию. |
 | [TaxId](../../aspose.finance.ofx.signup/enrollrequest/taxid) { get; set; } | Получает или задает идентификатор, используемый для целей налогообложения (например, SSN), может совпадать с идентификатором пользователя. |
-| [UserId](../../aspose.finance.ofx.signup/enrollrequest/userid) { get; set; } | Получает или задает фактический идентификатор пользователя, если он уже известен, или предпочитаемый идентификатор пользователя, если пользователь может выбирать. |
+| [UserId](../../aspose.finance.ofx.signup/enrollrequest/userid) { get; set; } | Получает или задает фактический идентификатор пользователя, если он уже известен, или предпочтительный идентификатор пользователя, если пользователь может выбирать. |
 
 ### Смотрите также
 

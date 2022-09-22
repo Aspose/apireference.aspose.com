@@ -18,13 +18,13 @@ public class SecurityListMessageSet : AbstractMessageSet
 
 | 姓名 | 描述 |
 | --- | --- |
-| [SecurityListMessageSet](securitylistmessageset)() | 初始化[`SecurityListMessageSet`](../securitylistmessageset)类的新实例。 |
+| [SecurityListMessageSet](securitylistmessageset)() | 初始化一个新的实例[`SecurityListMessageSet`](../securitylistmessageset)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [SecurityListMessageSetV1](../../aspose.finance.ofx.profile/securitylistmessageset/securitylistmessagesetv1) { get; set; } | 获取或设置[`SecurityListMessageSetV1`](./securitylistmessagesetv1)。 |
+| [SecurityListMessageSetV1](../../aspose.finance.ofx.profile/securitylistmessageset/securitylistmessagesetv1) { get; set; } | 获取或设置[`SecurityListMessageSetV1`](./securitylistmessagesetv1). |
 
 ### 也可以看看
 

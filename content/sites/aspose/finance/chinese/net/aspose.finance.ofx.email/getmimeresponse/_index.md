@@ -18,7 +18,7 @@ public class GetMimeResponse
 
 | 姓名 | 描述 |
 | --- | --- |
-| [GetMimeResponse](getmimeresponse)() | 初始化[`GetMimeResponse`](../getmimeresponse)类的新实例。 |
+| [GetMimeResponse](getmimeresponse)() | 初始化一个新的实例[`GetMimeResponse`](../getmimeresponse)类. |
 
 ## 特性
 

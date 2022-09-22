@@ -1,14 +1,14 @@
 ---
 title: SchemaRefs
 second_title: Aspose.Finance for .NET API 参考
-description: 获取InlineReferencesaspose.finance.xbrl.inline/inlinereferences
+description: 获取 SchemaRef 集合中的InlineReferencesaspose.finance.xbrl.inline/inlinereferences
 type: docs
 weight: 40
 url: /zh/net/aspose.finance.xbrl.inline/inlinereferences/schemarefs/
 ---
 ## InlineReferences.SchemaRefs property
 
-获取[`InlineReferences`](../../inlinereferences)
+获取 SchemaRef 集合中的[`InlineReferences`](../../inlinereferences)
 
 ```csharp
 public SchemaRefCollection SchemaRefs { get; set; }

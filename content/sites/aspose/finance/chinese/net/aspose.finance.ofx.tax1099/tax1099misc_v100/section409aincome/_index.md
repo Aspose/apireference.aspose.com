@@ -1,14 +1,14 @@
 ---
 title: Section409AIncome
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置第 409A 节的收入
+description: 获取或设置第 409A 节收入
 type: docs
 weight: 230
 url: /zh/net/aspose.finance.ofx.tax1099/tax1099misc_v100/section409aincome/
 ---
 ## Tax1099MISC_V100.Section409AIncome property
 
-获取或设置第 409A 节的收入。
+获取或设置第 409A 节收入。
 
 ```csharp
 public string Section409AIncome { get; set; }

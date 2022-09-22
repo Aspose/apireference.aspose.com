@@ -18,13 +18,13 @@ public class WireCancellationResponse : AbstractWireResponse
 
 | 姓名 | 描述 |
 | --- | --- |
-| [WireCancellationResponse](wirecancellationresponse)() | 初始化[`WireCancellationResponse`](../wirecancellationresponse)类的新实例。 |
+| [WireCancellationResponse](wirecancellationresponse)() | 初始化一个新的实例[`WireCancellationResponse`](../wirecancellationresponse)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [ServerId](../../aspose.finance.ofx.wiretransfer/wirecancellationresponse/serverid) { get; set; } | 获取或设置要取消的传输的ID。 |
+| [ServerId](../../aspose.finance.ofx.wiretransfer/wirecancellationresponse/serverid) { get; set; } | 获取或设置要取消的转账ID。 |
 
 ### 也可以看看
 

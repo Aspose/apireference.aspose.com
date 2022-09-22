@@ -18,16 +18,16 @@ public class Tax1099Response
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Tax1099Response](tax1099response)() | 初始化[`Tax1099Response`](../tax1099response)类的新实例。 |
+| [Tax1099Response](tax1099response)() | 初始化一个新的实例[`Tax1099Response`](../tax1099response)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [AccountNumber](../../aspose.finance.ofx.tax1099/tax1099response/accountnumber) { get; set; } | 获取或设置收件人的帐号。 |
-| [FIDirectDepositInfos](../../aspose.finance.ofx.tax1099/tax1099response/fidirectdepositinfos) { get; set; } | 获取或设置[`FIDirectDepositInfo`](../fidirectdepositinfo)的集合。 |
-| [RecipientId](../../aspose.finance.ofx.tax1099/tax1099response/recipientid) { get; set; } | 获取或设置收件人的 ID。 |
-| [TaxForm1099s](../../aspose.finance.ofx.tax1099/tax1099response/taxform1099s) { get; set; } | 获取或设置[`Tax1099MISC_V100`](../tax1099misc_v100)或!:TAX1099R_V100或的集合！:TAX1099B_V100 或!:TAX1099INT_V100或!:TAX1099DIV_V100或!:TAX1099OID_V100。 |
+| [AccountNumber](../../aspose.finance.ofx.tax1099/tax1099response/accountnumber) { get; set; } | 获取或设置收款人账号。 |
+| [FIDirectDepositInfos](../../aspose.finance.ofx.tax1099/tax1099response/fidirectdepositinfos) { get; set; } | 获取或设置的集合[`FIDirectDepositInfo`](../fidirectdepositinfo). |
+| [RecipientId](../../aspose.finance.ofx.tax1099/tax1099response/recipientid) { get; set; } | 获取或设置收件人的ID。 |
+| [TaxForm1099s](../../aspose.finance.ofx.tax1099/tax1099response/taxform1099s) { get; set; } | 获取或设置的集合[`Tax1099MISC_V100`](../tax1099misc_v100)或者!:TAX1099R_V100或者!:TAX1099B_V100 或!:TAX1099INT_V100或者!:TAX1099DIV_V100或者!:TAX1099OID_V100. |
 
 ### 也可以看看
 

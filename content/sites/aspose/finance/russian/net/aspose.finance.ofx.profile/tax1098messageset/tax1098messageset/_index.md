@@ -1,14 +1,14 @@
 ---
 title: Tax1098MessageSet
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаTax1098MessageSetaspose.finance.ofx.profile/tax1098messageset.
+description: Инициализирует новый экземплярTax1098MessageSetaspose.finance.ofx.profile/tax1098messageset класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.profile/tax1098messageset/tax1098messageset/
 ---
 ## Tax1098MessageSet constructor
 
-Инициализирует новый экземпляр класса[`Tax1098MessageSet`](../../tax1098messageset).
+Инициализирует новый экземпляр[`Tax1098MessageSet`](../../tax1098messageset) класс.
 
 ```csharp
 public Tax1098MessageSet()

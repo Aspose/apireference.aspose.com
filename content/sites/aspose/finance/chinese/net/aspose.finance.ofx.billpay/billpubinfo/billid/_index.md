@@ -1,14 +1,14 @@
 ---
 title: BillId
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置本次支付的票据提示服务商分配的票据ID
+description: 获取或设置账单的ID该账单由账单服务提供商分配该支付被应用到
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.ofx.billpay/billpubinfo/billid/
 ---
 ## BillPubInfo.BillId property
 
-获取或设置本次支付的票据提示服务商分配的票据ID。
+获取或设置账单的ID，该账单由账单服务提供商分配，该支付被应用到。
 
 ```csharp
 public string BillId { get; set; }

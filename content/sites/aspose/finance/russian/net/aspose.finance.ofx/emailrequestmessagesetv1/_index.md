@@ -18,15 +18,15 @@ public class EmailRequestMessageSetV1 : AbstractRequestMessageSet
 
 | Имя | Описание |
 | --- | --- |
-| [EmailRequestMessageSetV1](emailrequestmessagesetv1)() | Инициализирует новый экземпляр класса[`EmailRequestMessageSetV1`](../emailrequestmessagesetv1). |
+| [EmailRequestMessageSetV1](emailrequestmessagesetv1)() | Инициализирует новый экземпляр[`EmailRequestMessageSetV1`](../emailrequestmessagesetv1) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [GetMimeTransactionRequests](../../aspose.finance.ofx/emailrequestmessagesetv1/getmimetransactionrequests) { get; set; } | Получает или задает коллекцию[`GetMimeTransactionRequest`](../../aspose.finance.ofx.email/getmimetransactionrequest). |
-| [MailSyncRequests](../../aspose.finance.ofx/emailrequestmessagesetv1/mailsyncrequests) { get; set; } | Получает или задает коллекцию[`MailSyncRequest`](../../aspose.finance.ofx.email/mailsyncrequest). |
-| [MailTransactionRequests](../../aspose.finance.ofx/emailrequestmessagesetv1/mailtransactionrequests) { get; set; } | Получает или задает коллекцию[`MailTransactionRequest`](../../aspose.finance.ofx.email/mailtransactionrequest). |
+| [GetMimeTransactionRequests](../../aspose.finance.ofx/emailrequestmessagesetv1/getmimetransactionrequests) { get; set; } | Получает или задает коллекцию[`GetMimeTransactionRequest`](../../aspose.finance.ofx.email/getmimetransactionrequest) . |
+| [MailSyncRequests](../../aspose.finance.ofx/emailrequestmessagesetv1/mailsyncrequests) { get; set; } | Получает или задает коллекцию[`MailSyncRequest`](../../aspose.finance.ofx.email/mailsyncrequest) . |
+| [MailTransactionRequests](../../aspose.finance.ofx/emailrequestmessagesetv1/mailtransactionrequests) { get; set; } | Получает или задает коллекцию[`MailTransactionRequest`](../../aspose.finance.ofx.email/mailtransactionrequest) . |
 
 ### Смотрите также
 

@@ -18,7 +18,7 @@ public class AccountInfoRequest
 
 | Имя | Описание |
 | --- | --- |
-| [AccountInfoRequest](accountinforequest)() | Инициализирует новый экземпляр класса[`AccountInfoRequest`](../accountinforequest). |
+| [AccountInfoRequest](accountinforequest)() | Инициализирует новый экземпляр[`AccountInfoRequest`](../accountinforequest) класс. |
 
 ## Характеристики
 

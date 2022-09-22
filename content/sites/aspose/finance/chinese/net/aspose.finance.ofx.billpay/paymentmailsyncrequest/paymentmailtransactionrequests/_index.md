@@ -1,14 +1,14 @@
 ---
 title: PaymentMailTransactionRequests
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置PaymentMailTransactionRequestaspose.finance.ofx.billpay/paymentmailtransactionrequest的集合
+description: 获取或设置的集合PaymentMailTransactionRequestaspose.finance.ofx.billpay/paymentmailtransactionrequest.
 type: docs
 weight: 40
 url: /zh/net/aspose.finance.ofx.billpay/paymentmailsyncrequest/paymentmailtransactionrequests/
 ---
 ## PaymentMailSyncRequest.PaymentMailTransactionRequests property
 
-获取或设置[`PaymentMailTransactionRequest`](../../paymentmailtransactionrequest)的集合。
+获取或设置的集合[`PaymentMailTransactionRequest`](../../paymentmailtransactionrequest).
 
 ```csharp
 public List<PaymentMailTransactionRequest> PaymentMailTransactionRequests { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: ArcroleReference
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化ArcroleReferenceaspose.finance.xbrl/arcrolereference类的新实例
+description: 初始化一个新的实例ArcroleReferenceaspose.finance.xbrl/arcrolereference类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.xbrl/arcrolereference/arcrolereference/
 ---
 ## ArcroleReference constructor
 
-初始化[`ArcroleReference`](../../arcrolereference)类的新实例。
+初始化一个新的实例[`ArcroleReference`](../../arcrolereference)类.
 
 ```csharp
 public ArcroleReference(ArcroleType arcroleType)

@@ -1,14 +1,14 @@
 ---
 title: LoanInterestType
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化LoanInterestTypeaspose.finance.ofx/loaninteresttype类的新实例
+description: 初始化一个新的实例LoanInterestTypeaspose.finance.ofx/loaninteresttype类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx/loaninteresttype/loaninteresttype/
 ---
 ## LoanInterestType constructor
 
-初始化[`LoanInterestType`](../../loaninteresttype)类的新实例。
+初始化一个新的实例[`LoanInterestType`](../../loaninteresttype)类.
 
 ```csharp
 public LoanInterestType()

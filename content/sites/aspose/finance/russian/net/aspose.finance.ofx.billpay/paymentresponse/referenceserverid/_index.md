@@ -1,14 +1,14 @@
 ---
 title: ReferenceServerId
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает ссылки на платеж если он был сгенерирован платежом.
+description: Получает или устанавливает ссылки на платеж если он был сгенерирован платежом.
 type: docs
 weight: 80
 url: /ru/net/aspose.finance.ofx.billpay/paymentresponse/referenceserverid/
 ---
 ## PaymentResponse.ReferenceServerId property
 
-Получает или задает ссылки на платеж, если он был сгенерирован платежом.
+Получает или устанавливает ссылки на платеж, если он был сгенерирован платежом.
 
 ```csharp
 public string ReferenceServerId { get; set; }

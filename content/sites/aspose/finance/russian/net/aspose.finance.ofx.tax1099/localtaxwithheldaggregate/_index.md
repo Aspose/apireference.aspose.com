@@ -18,7 +18,7 @@ public class LocalTaxWithheldAggregate
 
 | Имя | Описание |
 | --- | --- |
-| [LocalTaxWithheldAggregate](localtaxwithheldaggregate)() | Инициализирует новый экземпляр класса[`LocalTaxWithheldAggregate`](../localtaxwithheldaggregate). |
+| [LocalTaxWithheldAggregate](localtaxwithheldaggregate)() | Инициализирует новый экземпляр[`LocalTaxWithheldAggregate`](../localtaxwithheldaggregate) класс. |
 
 ## Характеристики
 

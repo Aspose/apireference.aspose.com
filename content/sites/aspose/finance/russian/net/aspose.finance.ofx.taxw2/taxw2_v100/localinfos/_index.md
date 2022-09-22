@@ -1,14 +1,14 @@
 ---
 title: LocalInfos
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает коллекциюLocalInfoaspose.finance.ofx.taxw2/localinfo.
+description: Получает или задает коллекциюLocalInfoaspose.finance.ofx.taxw2/localinfo .
 type: docs
 weight: 90
 url: /ru/net/aspose.finance.ofx.taxw2/taxw2_v100/localinfos/
 ---
 ## TaxW2_V100.LocalInfos property
 
-Получает или задает коллекцию[`LocalInfo`](../../localinfo).
+Получает или задает коллекцию[`LocalInfo`](../../localinfo) .
 
 ```csharp
 public List<LocalInfo> LocalInfos { get; set; }

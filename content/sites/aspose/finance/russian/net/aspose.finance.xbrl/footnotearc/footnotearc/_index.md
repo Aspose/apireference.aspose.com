@@ -1,14 +1,14 @@
 ---
 title: FootnoteArc
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаFootnoteArcaspose.finance.xbrl/footnotearc.
+description: Инициализирует новый экземплярFootnoteArcaspose.finance.xbrl/footnotearc класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.xbrl/footnotearc/footnotearc/
 ---
 ## FootnoteArc constructor
 
-Инициализирует новый экземпляр класса[`FootnoteArc`](../../footnotearc).
+Инициализирует новый экземпляр[`FootnoteArc`](../../footnotearc) класс.
 
 ```csharp
 public FootnoteArc(string fromLabel, string toLabel)
@@ -16,8 +16,8 @@ public FootnoteArc(string fromLabel, string toLabel)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| fromLabel | String | Метка from Loc. |
-| toLabel | String | Метка сноски. |
+| fromLabel | String | Этикетка from Loc. |
+| toLabel | String | Ярлык для сноски. |
 
 ### Смотрите также
 

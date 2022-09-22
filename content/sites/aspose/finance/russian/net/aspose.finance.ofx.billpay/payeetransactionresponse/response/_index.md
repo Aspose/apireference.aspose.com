@@ -1,14 +1,14 @@
 ---
 title: Response
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задаетPayeeResponseaspose.finance.ofx.billpay/payeeresponseилиPayeeModResponseaspose.finance.ofx.billpay/payeemodresponseилиPayeeDeleteResponseaspose.finance.ofx.billpay/payeedeleteresponse.
+description: Получает или задаетPayeeResponseaspose.finance.ofx.billpay/payeeresponse или жеPayeeModResponseaspose.finance.ofx.billpay/payeemodresponse или жеPayeeDeleteResponseaspose.finance.ofx.billpay/payeedeleteresponse .
 type: docs
 weight: 30
 url: /ru/net/aspose.finance.ofx.billpay/payeetransactionresponse/response/
 ---
 ## PayeeTransactionResponse.Response property
 
-Получает или задает[`PayeeResponse`](../../payeeresponse)или[`PayeeModResponse`](../../payeemodresponse)или[`PayeeDeleteResponse`](../../payeedeleteresponse).
+Получает или задает[`PayeeResponse`](../../payeeresponse) или же[`PayeeModResponse`](../../payeemodresponse) или же[`PayeeDeleteResponse`](../../payeedeleteresponse) .
 
 ```csharp
 public AbstractPayeeResponse Response { get; set; }

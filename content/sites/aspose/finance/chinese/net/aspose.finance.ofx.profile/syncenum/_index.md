@@ -1,14 +1,14 @@
 ---
 title: SyncEnum
 second_title: Aspose.Finance for .NET API 参考
-description: 同步模式枚举
+description: 同步模式枚举.
 type: docs
 weight: 4830
 url: /zh/net/aspose.finance.ofx.profile/syncenum/
 ---
 ## SyncEnum enumeration
 
-同步模式枚举。
+同步模式枚举.
 
 ```csharp
 public enum SyncEnum

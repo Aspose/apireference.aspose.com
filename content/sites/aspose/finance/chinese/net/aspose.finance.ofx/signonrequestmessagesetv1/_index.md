@@ -18,15 +18,15 @@ public class SignonRequestMessageSetV1 : AbstractRequestMessageSet
 
 | 姓名 | 描述 |
 | --- | --- |
-| [SignonRequestMessageSetV1](signonrequestmessagesetv1)() | 初始化[`SignonRequestMessageSetV1`](../signonrequestmessagesetv1)类的新实例。 |
+| [SignonRequestMessageSetV1](signonrequestmessagesetv1)() | 初始化一个新的实例[`SignonRequestMessageSetV1`](../signonrequestmessagesetv1)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [ChallengeTransactionRequest](../../aspose.finance.ofx/signonrequestmessagesetv1/challengetransactionrequest) { get; set; } | 获取或设置[`ChallengeTransactionRequest`](../../aspose.finance.ofx.signon/challengetransactionrequest)。 |
-| [PinChangeTransactionRequest](../../aspose.finance.ofx/signonrequestmessagesetv1/pinchangetransactionrequest) { get; set; } | 获取或设置[`PinChangeTransactionRequest`](../../aspose.finance.ofx.signon/pinchangetransactionrequest)。 |
-| [SignonRequest](../../aspose.finance.ofx/signonrequestmessagesetv1/signonrequest) { get; set; } | 获取或设置[`SignonRequest`](../../aspose.finance.ofx.signon/signonrequest)。 |
+| [ChallengeTransactionRequest](../../aspose.finance.ofx/signonrequestmessagesetv1/challengetransactionrequest) { get; set; } | 获取或设置[`ChallengeTransactionRequest`](../../aspose.finance.ofx.signon/challengetransactionrequest). |
+| [PinChangeTransactionRequest](../../aspose.finance.ofx/signonrequestmessagesetv1/pinchangetransactionrequest) { get; set; } | 获取或设置[`PinChangeTransactionRequest`](../../aspose.finance.ofx.signon/pinchangetransactionrequest). |
+| [SignonRequest](../../aspose.finance.ofx/signonrequestmessagesetv1/signonrequest) { get; set; } | 获取或设置[`SignonRequest`](../../aspose.finance.ofx.signon/signonrequest). |
 
 ### 也可以看看
 

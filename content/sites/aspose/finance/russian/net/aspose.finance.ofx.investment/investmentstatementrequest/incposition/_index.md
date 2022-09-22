@@ -1,14 +1,14 @@
 ---
 title: IncPosition
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задаетIncPositionaspose.finance.ofx.investment/investmentstatementrequest/incposition.
+description: Получает или задаетIncPositionaspose.finance.ofx.investment/investmentstatementrequest/incposition .
 type: docs
 weight: 70
 url: /ru/net/aspose.finance.ofx.investment/investmentstatementrequest/incposition/
 ---
 ## InvestmentStatementRequest.IncPosition property
 
-Получает или задает`IncPosition`.
+Получает или задает`IncPosition` .
 
 ```csharp
 public IncPosition IncPosition { get; set; }

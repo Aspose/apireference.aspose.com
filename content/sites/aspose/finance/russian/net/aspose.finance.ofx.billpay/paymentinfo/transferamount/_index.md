@@ -1,14 +1,14 @@
 ---
 title: TransferAmount
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает сумму платежа.
+description: Получает или устанавливает сумму платежа.
 type: docs
 weight: 130
 url: /ru/net/aspose.finance.ofx.billpay/paymentinfo/transferamount/
 ---
 ## PaymentInfo.TransferAmount property
 
-Получает или задает сумму платежа.
+Получает или устанавливает сумму платежа.
 
 ```csharp
 public string TransferAmount { get; set; }

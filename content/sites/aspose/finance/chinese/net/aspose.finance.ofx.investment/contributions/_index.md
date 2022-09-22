@@ -18,7 +18,7 @@ public class Contributions
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Contributions](contributions)() | 初始化[`Contributions`](../contributions)类的新实例。 |
+| [Contributions](contributions)() | 初始化一个新的实例[`Contributions`](../contributions)类. |
 
 ## 特性
 

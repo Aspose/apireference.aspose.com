@@ -1,14 +1,14 @@
 ---
 title: LoanInfo
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化LoanInfoaspose.finance.ofx.investment/loaninfo类的新实例
+description: 初始化一个新的实例LoanInfoaspose.finance.ofx.investment/loaninfo类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.investment/loaninfo/loaninfo/
 ---
 ## LoanInfo constructor
 
-初始化[`LoanInfo`](../../loaninfo)类的新实例。
+初始化一个新的实例[`LoanInfo`](../../loaninfo)类.
 
 ```csharp
 public LoanInfo()

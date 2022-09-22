@@ -1,14 +1,14 @@
 ---
 title: EndDate
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает последнюю дату включения счетов.
+description: Получает или задает самую позднюю дату для включения счетов.
 type: docs
 weight: 90
 url: /ru/net/aspose.finance.ofx.billerdelivery/presentmentlistrequest/enddate/
 ---
 ## PresentmentListRequest.EndDate property
 
-Получает или задает последнюю дату включения счетов.
+Получает или задает самую позднюю дату для включения счетов.
 
 ```csharp
 public string EndDate { get; set; }

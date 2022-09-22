@@ -1,14 +1,14 @@
 ---
 title: JournalFund
 second_title: Справочник по API Aspose.Finance для .NET
-description: Регистрация денежных средств между субсчетами в рамках одного инвестиционного счета.
+description: Ведение журнала остатков денежных средств между субсчетами в рамках одного инвестиционного счета.
 type: docs
 weight: 3170
 url: /ru/net/aspose.finance.ofx.investment/journalfund/
 ---
 ## JournalFund class
 
-Регистрация денежных средств между субсчетами в рамках одного инвестиционного счета.
+Ведение журнала остатков денежных средств между субсчетами в рамках одного инвестиционного счета.
 
 ```csharp
 public class JournalFund : AbstractInvestmentTransaction
@@ -18,15 +18,15 @@ public class JournalFund : AbstractInvestmentTransaction
 
 | Имя | Описание |
 | --- | --- |
-| [JournalFund](journalfund)() | Инициализирует новый экземпляр класса[`JournalFund`](../journalfund). |
+| [JournalFund](journalfund)() | Инициализирует новый экземпляр[`JournalFund`](../journalfund) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [InvestmentTransaction](../../aspose.finance.ofx.investment/abstractinvestmenttransaction/investmenttransaction) { get; set; } | Получает или задает[`InvestmentTransaction`](../abstractinvestmenttransaction/investmenttransaction). |
+| [InvestmentTransaction](../../aspose.finance.ofx.investment/abstractinvestmenttransaction/investmenttransaction) { get; set; } | Получает или задает[`InvestmentTransaction`](../abstractinvestmenttransaction/investmenttransaction) . |
 | [SubAccountFrom](../../aspose.finance.ofx.investment/journalfund/subaccountfrom) { get; set; } | Получает или задает субсчет, с которого переводятся ценные бумаги или денежные средства. |
-| [SubAccountTo](../../aspose.finance.ofx.investment/journalfund/subaccountto) { get; set; } | Получает или задает субсчет, на который переводятся ценные бумаги или денежные средства. |
+| [SubAccountTo](../../aspose.finance.ofx.investment/journalfund/subaccountto) { get; set; } | Получает или задает субсчет, на который переводятся ценные бумаги или наличные деньги. |
 | [Total](../../aspose.finance.ofx.investment/journalfund/total) { get; set; } | Получает или задает общую сумму транзакции. |
 
 ### Смотрите также

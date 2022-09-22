@@ -1,14 +1,14 @@
 ---
 title: OfxRequestDocument
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаOfxRequestDocumentaspose.finance.ofx/ofxrequestdocument.
+description: Инициализирует новый экземплярOfxRequestDocumentaspose.finance.ofx/ofxrequestdocument класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx/ofxrequestdocument/ofxrequestdocument/
 ---
 ## OfxRequestDocument() {#constructor}
 
-Инициализирует новый экземпляр класса[`OfxRequestDocument`](../../ofxrequestdocument).
+Инициализирует новый экземпляр[`OfxRequestDocument`](../../ofxrequestdocument) класс.
 
 ```csharp
 public OfxRequestDocument()
@@ -24,7 +24,7 @@ public OfxRequestDocument()
 
 ## OfxRequestDocument(string) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`OfxRequestDocument`](../../ofxrequestdocument).
+Инициализирует новый экземпляр[`OfxRequestDocument`](../../ofxrequestdocument) класс.
 
 ```csharp
 public OfxRequestDocument(string fileName)
@@ -32,7 +32,7 @@ public OfxRequestDocument(string fileName)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| fileName | String | Имя файла OFX. |
+| fileName | String | Имя файла оф. |
 
 ### Смотрите также
 

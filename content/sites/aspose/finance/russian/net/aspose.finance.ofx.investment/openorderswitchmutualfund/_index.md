@@ -1,14 +1,14 @@
 ---
 title: OpenOrderSwitchMutualFund
 second_title: Справочник по API Aspose.Finance для .NET
-description: Открытый ордер переключает класс взаимных фондов.
+description: Открыть класс взаимных фондов с переключением ордеров.
 type: docs
 weight: 3320
 url: /ru/net/aspose.finance.ofx.investment/openorderswitchmutualfund/
 ---
 ## OpenOrderSwitchMutualFund class
 
-Открытый ордер переключает класс взаимных фондов.
+Открыть класс взаимных фондов с переключением ордеров.
 
 ```csharp
 public class OpenOrderSwitchMutualFund : AbstractOpenOrder
@@ -18,16 +18,16 @@ public class OpenOrderSwitchMutualFund : AbstractOpenOrder
 
 | Имя | Описание |
 | --- | --- |
-| [OpenOrderSwitchMutualFund](openorderswitchmutualfund)() | Инициализирует новый экземпляр класса[`OpenOrderSwitchMutualFund`](../openorderswitchmutualfund). |
+| [OpenOrderSwitchMutualFund](openorderswitchmutualfund)() | Инициализирует новый экземпляр[`OpenOrderSwitchMutualFund`](../openorderswitchmutualfund) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [OpenOrder](../../aspose.finance.ofx.investment/abstractopenorder/openorder) { get; set; } | Получает или задает[`GeneralOpenOrder`](../generalopenorder). |
-| [SecurityId](../../aspose.finance.ofx.investment/openorderswitchmutualfund/securityid) { get; set; } | Получает или задает[`SecurityId`](./securityid). |
-| [SwitchAll](../../aspose.finance.ofx.investment/openorderswitchmutualfund/switchall) { get; set; } | Получает или задает, переключать ли все удерживание. |
-| [UnitType](../../aspose.finance.ofx.investment/openorderswitchmutualfund/unittype) { get; set; } | Получает или задает значение единиц измерения. |
+| [OpenOrder](../../aspose.finance.ofx.investment/abstractopenorder/openorder) { get; set; } | Получает или задает[`GeneralOpenOrder`](../generalopenorder) . |
+| [SecurityId](../../aspose.finance.ofx.investment/openorderswitchmutualfund/securityid) { get; set; } | Получает или задает[`SecurityId`](./securityid) . |
+| [SwitchAll](../../aspose.finance.ofx.investment/openorderswitchmutualfund/switchall) { get; set; } | Получает или задает, будет ли переключаться весь холдинг. |
+| [UnitType](../../aspose.finance.ofx.investment/openorderswitchmutualfund/unittype) { get; set; } | Получает или устанавливает, что представляют единицы измерения. |
 
 ### Смотрите также
 

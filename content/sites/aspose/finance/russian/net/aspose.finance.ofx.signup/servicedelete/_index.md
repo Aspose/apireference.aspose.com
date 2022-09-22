@@ -1,14 +1,14 @@
 ---
 title: ServiceDelete
 second_title: Справочник по API Aspose.Finance для .NET
-description: Класс удаления услуги.
+description: Класс удаления службы.
 type: docs
 weight: 5660
 url: /ru/net/aspose.finance.ofx.signup/servicedelete/
 ---
 ## ServiceDelete class
 
-Класс удаления услуги.
+Класс удаления службы.
 
 ```csharp
 public class ServiceDelete : AbstractServiceAction
@@ -18,13 +18,13 @@ public class ServiceDelete : AbstractServiceAction
 
 | Имя | Описание |
 | --- | --- |
-| [ServiceDelete](servicedelete)() | Инициализирует новый экземпляр класса[`ServiceDelete`](../servicedelete). |
+| [ServiceDelete](servicedelete)() | Инициализирует новый экземпляр[`ServiceDelete`](../servicedelete) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [AccountFrom](../../aspose.finance.ofx.signup/servicedelete/accountfrom) { get; set; } | Получает или задает из[`BankAccount`](../../aspose.finance.ofx/bankaccount)или[`CreditCardAccount`](../../aspose.finance.ofx/creditcardaccount)или[`InvestmentAccount`](../../aspose.finance.ofx/investmentaccount)или[`PresentmentAccount`](../../aspose.finance.ofx/presentmentaccount). |
+| [AccountFrom](../../aspose.finance.ofx.signup/servicedelete/accountfrom) { get; set; } | Получает или задает из[`BankAccount`](../../aspose.finance.ofx/bankaccount) или же[`CreditCardAccount`](../../aspose.finance.ofx/creditcardaccount) или же[`InvestmentAccount`](../../aspose.finance.ofx/investmentaccount) или же[`PresentmentAccount`](../../aspose.finance.ofx/presentmentaccount) . |
 
 ### Смотрите также
 

@@ -1,14 +1,14 @@
 ---
 title: StartDate
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает начальную дату для сведений о закрытии выписки.
+description: Получает или задает начальную дату для информации о закрытии выписки.
 type: docs
 weight: 40
 url: /ru/net/aspose.finance.ofx.loan/loanstatementendrequest/startdate/
 ---
 ## LoanStatementEndRequest.StartDate property
 
-Получает или задает начальную дату для сведений о закрытии выписки.
+Получает или задает начальную дату для информации о закрытии выписки.
 
 ```csharp
 public string StartDate { get; set; }

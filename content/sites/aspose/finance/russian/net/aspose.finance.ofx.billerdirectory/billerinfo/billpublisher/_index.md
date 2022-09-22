@@ -1,14 +1,14 @@
 ---
 title: BillPublisher
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает официальное стандартное имя издателя счета.
+description: Получает или задает официальное стандартное имя издателя счетов.
 type: docs
 weight: 90
 url: /ru/net/aspose.finance.ofx.billerdirectory/billerinfo/billpublisher/
 ---
 ## BillerInfo.BillPublisher property
 
-Получает или задает официальное стандартное имя издателя счета.
+Получает или задает официальное стандартное имя издателя счетов.
 
 ```csharp
 public string BillPublisher { get; set; }

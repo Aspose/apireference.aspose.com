@@ -1,14 +1,14 @@
 ---
 title: OtherInfo
 second_title: Справочник по API Aspose.Finance для .NET
-description: Используйте этот класс для ценных бумаг отличных от долгов взаимных фондов опционов и акций.
+description: Используйте этот класс для других типов ценных бумаг кроме долгов взаимных фондов опционов и акций.
 type: docs
 weight: 5110
 url: /ru/net/aspose.finance.ofx.securitieslist/otherinfo/
 ---
 ## OtherInfo class
 
-Используйте этот класс для ценных бумаг, отличных от долгов, взаимных фондов, опционов и акций.
+Используйте этот класс для других типов ценных бумаг, кроме долгов, взаимных фондов, опционов и акций.
 
 ```csharp
 public class OtherInfo : AbstractSecurityInfo
@@ -18,15 +18,15 @@ public class OtherInfo : AbstractSecurityInfo
 
 | Имя | Описание |
 | --- | --- |
-| [OtherInfo](otherinfo)() | Инициализирует новый экземпляр класса[`OtherInfo`](../otherinfo). |
+| [OtherInfo](otherinfo)() | Инициализирует новый экземпляр[`OtherInfo`](../otherinfo) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [AssetClass](../../aspose.finance.ofx.securitieslist/otherinfo/assetclass) { get; set; } | Получает или задает класс актива. |
+| [AssetClass](../../aspose.finance.ofx.securitieslist/otherinfo/assetclass) { get; set; } | Получает или задает класс активов. |
 | [FIAssetClass](../../aspose.finance.ofx.securitieslist/otherinfo/fiassetclass) { get; set; } | Получает или задает текстовую строку, содержащую класс активов, определенный FI. |
-| [SecurityInfo](../../aspose.finance.ofx.securitieslist/abstractsecurityinfo/securityinfo) { get; set; } | Получает или задает[`GeneralSecurityInfo`](../generalsecurityinfo). |
+| [SecurityInfo](../../aspose.finance.ofx.securitieslist/abstractsecurityinfo/securityinfo) { get; set; } | Получает или задает[`GeneralSecurityInfo`](../generalsecurityinfo) . |
 | [TypeDescription](../../aspose.finance.ofx.securitieslist/otherinfo/typedescription) { get; set; } | Получает или задает описание типа безопасности. |
 
 ### Смотрите также

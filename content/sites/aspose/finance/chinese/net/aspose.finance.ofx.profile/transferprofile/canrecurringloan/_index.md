@@ -1,14 +1,14 @@
 ---
 title: CanRecurringLoan
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置是否支持定期转账
+description: 获取或设置是否支持贷款的定期转账
 type: docs
 weight: 60
 url: /zh/net/aspose.finance.ofx.profile/transferprofile/canrecurringloan/
 ---
 ## TransferProfile.CanRecurringLoan property
 
-获取或设置是否支持定期转账。
+获取或设置是否支持贷款的定期转账。
 
 ```csharp
 public bool CanRecurringLoan { get; set; }

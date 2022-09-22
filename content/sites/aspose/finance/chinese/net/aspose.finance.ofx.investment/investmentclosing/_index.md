@@ -18,14 +18,14 @@ public class InvestmentClosing
 
 | 姓名 | 描述 |
 | --- | --- |
-| [InvestmentClosing](investmentclosing)() | 初始化[`InvestmentClosing`](../investmentclosing)类的新实例。 |
+| [InvestmentClosing](investmentclosing)() | 初始化一个新的实例[`InvestmentClosing`](../investmentclosing)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
 | [FITransactionId](../../aspose.finance.ofx.investment/investmentclosing/fitransactionid) { get; set; } | 获取或设置此语句的唯一标识符。 |
-| [ImageData](../../aspose.finance.ofx.investment/investmentclosing/imagedata) { get; set; } | 获取或设置[`ImageData`](./imagedata)。 |
+| [ImageData](../../aspose.finance.ofx.investment/investmentclosing/imagedata) { get; set; } | 获取或设置[`ImageData`](./imagedata). |
 
 ### 也可以看看
 

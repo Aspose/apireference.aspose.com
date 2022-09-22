@@ -1,14 +1,14 @@
 ---
 title: LoanClosings
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置LoanClosingaspose.finance.ofx.loan/loanclosing的集合
+description: 获取或设置的集合LoanClosingaspose.finance.ofx.loan/loanclosing.
 type: docs
 weight: 40
 url: /zh/net/aspose.finance.ofx.loan/loanstatementendresponse/loanclosings/
 ---
 ## LoanStatementEndResponse.LoanClosings property
 
-获取或设置[`LoanClosing`](../../loanclosing)的集合。
+获取或设置的集合[`LoanClosing`](../../loanclosing).
 
 ```csharp
 public List<LoanClosing> LoanClosings { get; set; }

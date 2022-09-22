@@ -1,14 +1,14 @@
 ---
 title: InvestmentClosings
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает коллекциюInvestmentClosingaspose.finance.ofx.investment/investmentclosing.
+description: Получает или задает коллекциюInvestmentClosingaspose.finance.ofx.investment/investmentclosing .
 type: docs
 weight: 40
 url: /ru/net/aspose.finance.ofx.investment/investmentstatementendresponse/investmentclosings/
 ---
 ## InvestmentStatementEndResponse.InvestmentClosings property
 
-Получает или задает коллекцию[`InvestmentClosing`](../../investmentclosing).
+Получает или задает коллекцию[`InvestmentClosing`](../../investmentclosing) .
 
 ```csharp
 public List<InvestmentClosing> InvestmentClosings { get; set; }

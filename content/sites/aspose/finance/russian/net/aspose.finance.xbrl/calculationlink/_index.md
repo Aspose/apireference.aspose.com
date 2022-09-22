@@ -18,8 +18,8 @@ public class CalculationLink
 
 | Имя | Описание |
 | --- | --- |
-| [CalculationArcs](../../aspose.finance.xbrl/calculationlink/calculationarcs) { get; set; } | Получает коллекцию[`CalculationArc`](../calculationarc). |
-| [Locators](../../aspose.finance.xbrl/calculationlink/locators) { get; } | Получает коллекцию[`Loc`](../loc). |
+| [CalculationArcs](../../aspose.finance.xbrl/calculationlink/calculationarcs) { get; set; } | Получает коллекцию[`CalculationArc`](../calculationarc) . |
+| [Locators](../../aspose.finance.xbrl/calculationlink/locators) { get; } | Получает коллекцию[`Loc`](../loc) . |
 
 ### Смотрите также
 

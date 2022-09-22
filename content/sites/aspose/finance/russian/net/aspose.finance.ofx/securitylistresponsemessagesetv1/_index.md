@@ -18,14 +18,14 @@ public class SecurityListResponseMessageSetV1 : AbstractResponseMessageSet
 
 | Имя | Описание |
 | --- | --- |
-| [SecurityListResponseMessageSetV1](securitylistresponsemessagesetv1)() | Инициализирует новый экземпляр класса[`SecurityListResponseMessageSetV1`](../securitylistresponsemessagesetv1). |
+| [SecurityListResponseMessageSetV1](securitylistresponsemessagesetv1)() | Инициализирует новый экземпляр[`SecurityListResponseMessageSetV1`](../securitylistresponsemessagesetv1) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [SecurityList](../../aspose.finance.ofx/securitylistresponsemessagesetv1/securitylist) { get; set; } | Получает или задает[`SecurityList`](../../aspose.finance.ofx.securitieslist/securitylist). |
-| [SecurityListTransactionResponses](../../aspose.finance.ofx/securitylistresponsemessagesetv1/securitylisttransactionresponses) { get; set; } | Получает или задает коллекцию[`SecurityListTransactionResponse`](../../aspose.finance.ofx.securitieslist/securitylisttransactionresponse). |
+| [SecurityList](../../aspose.finance.ofx/securitylistresponsemessagesetv1/securitylist) { get; set; } | Получает или задает[`SecurityList`](../../aspose.finance.ofx.securitieslist/securitylist) . |
+| [SecurityListTransactionResponses](../../aspose.finance.ofx/securitylistresponsemessagesetv1/securitylisttransactionresponses) { get; set; } | Получает или задает коллекцию[`SecurityListTransactionResponse`](../../aspose.finance.ofx.securitieslist/securitylisttransactionresponse) . |
 
 ### Смотрите также
 

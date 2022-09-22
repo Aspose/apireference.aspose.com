@@ -16,8 +16,8 @@ url: /zh/net/aspose.finance.ofx.securitieslist/
 | [DebtInfo](./debtinfo) | 债务信息类。 |
 | [FinancialInstitutionPortion](./financialinstitutionportion) | 具有特定资产分类的共同基金部分。 |
 | [GeneralSecurityInfo](./generalsecurityinfo) | 该类包含所有安全类型共有的字段。 |
-| [MutualFundInfo](./mutualfundinfo) | 共同基金信息类。 |
-| [OptionInfo](./optioninfo) | 选项信息类。 |
+| [MutualFundInfo](./mutualfundinfo) | 互惠基金信息类 |
+| [OptionInfo](./optioninfo) | 选项信息类. |
 | [OtherInfo](./otherinfo) | 将此类用于债务、共同基金、期权和股票以外的证券类型。 |
 | [Portion](./portion) | 具有特定资产分类的共同基金部分。 |
 | [SecurityList](./securitylist) | 安全列表请求类。 |
@@ -25,7 +25,7 @@ url: /zh/net/aspose.finance.ofx.securitieslist/
 | [SecurityListTransactionRequest](./securitylisttransactionrequest) | 安全列表事务请求类。 |
 | [SecurityListTransactionResponse](./securitylisttransactionresponse) | 安全列表事务响应类。 |
 | [SecurityRequest](./securityrequest) | 安全列表请求类。 |
-| [StockInfo](./stockinfo) | 股票信息类。 |
+| [StockInfo](./stockinfo) | 股票信息类 |
 ## 枚举
 
 | 枚举 | 描述 |

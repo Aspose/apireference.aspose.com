@@ -1,14 +1,14 @@
 ---
 title: InterRequest
 second_title: Справочник по API Aspose.Finance для .NET
-description: Класс запроса межбанковского перевода.
+description: Класс заявки на межбанковский перевод.
 type: docs
 weight: 2430
 url: /ru/net/aspose.finance.ofx.intertransfer/interrequest/
 ---
 ## InterRequest class
 
-Класс запроса межбанковского перевода.
+Класс заявки на межбанковский перевод.
 
 ```csharp
 public class InterRequest : AbstractInterRequest
@@ -18,13 +18,13 @@ public class InterRequest : AbstractInterRequest
 
 | Имя | Описание |
 | --- | --- |
-| [InterRequest](interrequest)() | Инициализирует новый экземпляр класса[`InterRequest`](../interrequest). |
+| [InterRequest](interrequest)() | Инициализирует новый экземпляр[`InterRequest`](../interrequest) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [TransferInfo](../../aspose.finance.ofx.intertransfer/interrequest/transferinfo) { get; set; } | Получает или задает[`TransferInfo`](./transferinfo). |
+| [TransferInfo](../../aspose.finance.ofx.intertransfer/interrequest/transferinfo) { get; set; } | Получает или задает[`TransferInfo`](./transferinfo) . |
 
 ### Смотрите также
 

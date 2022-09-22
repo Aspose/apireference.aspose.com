@@ -18,7 +18,7 @@ public class Investment401kSummary
 
 | Имя | Описание |
 | --- | --- |
-| [Investment401kSummary](investment401ksummary)() | Инициализирует новый экземпляр класса[`Investment401kSummary`](../investment401ksummary). |
+| [Investment401kSummary](investment401ksummary)() | Инициализирует новый экземпляр[`Investment401kSummary`](../investment401ksummary) класс. |
 
 ## Характеристики
 
@@ -26,7 +26,7 @@ public class Investment401kSummary
 | --- | --- |
 | [InceptToDate](../../aspose.finance.ofx.investment/investment401ksummary/incepttodate) { get; set; } | Получает или задает общее количество взносов на дату (с момента создания) |
 | [PeriodToDate](../../aspose.finance.ofx.investment/investment401ksummary/periodtodate) { get; set; } | Получает или устанавливает взносы на дату за период. |
-| [YearToDate](../../aspose.finance.ofx.investment/investment401ksummary/yeartodate) { get; set; } | Получает или задает взносы на текущий календарный год. |
+| [YearToDate](../../aspose.finance.ofx.investment/investment401ksummary/yeartodate) { get; set; } | Получает или задает текущие взносы для этого календарного года. |
 
 ### Смотрите также
 

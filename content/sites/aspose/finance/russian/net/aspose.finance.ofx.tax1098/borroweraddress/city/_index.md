@@ -1,14 +1,14 @@
 ---
 title: City
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает город адреса заемщика.
+description: Получает или задает адрес заемщика city.
 type: docs
 weight: 60
 url: /ru/net/aspose.finance.ofx.tax1098/borroweraddress/city/
 ---
 ## BorrowerAddress.City property
 
-Получает или задает город адреса заемщика.
+Получает или задает адрес заемщика city.
 
 ```csharp
 public string City { get; set; }

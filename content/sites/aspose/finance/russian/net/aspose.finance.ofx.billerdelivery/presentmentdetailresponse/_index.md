@@ -1,14 +1,14 @@
 ---
 title: PresentmentDetailResponse
 second_title: Справочник по API Aspose.Finance для .NET
-description: Класс ответа детали счета.
+description: Класс ответа на детали счета.
 type: docs
 weight: 1640
 url: /ru/net/aspose.finance.ofx.billerdelivery/presentmentdetailresponse/
 ---
 ## PresentmentDetailResponse class
 
-Класс ответа детали счета.
+Класс ответа на детали счета.
 
 ```csharp
 public class PresentmentDetailResponse
@@ -18,13 +18,13 @@ public class PresentmentDetailResponse
 
 | Имя | Описание |
 | --- | --- |
-| [PresentmentDetailResponse](presentmentdetailresponse)() | Инициализирует новый экземпляр класса[`PresentmentDetailResponse`](../presentmentdetailresponse). |
+| [PresentmentDetailResponse](presentmentdetailresponse)() | Инициализирует новый экземпляр[`PresentmentDetailResponse`](../presentmentdetailresponse) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [PresentmentDetails](../../aspose.finance.ofx.billerdelivery/presentmentdetailresponse/presentmentdetails) { get; set; } | Получает или задает коллекцию[`PresentmentDetail`](../presentmentdetail). |
+| [PresentmentDetails](../../aspose.finance.ofx.billerdelivery/presentmentdetailresponse/presentmentdetails) { get; set; } | Получает или задает коллекцию[`PresentmentDetail`](../presentmentdetail) . |
 
 ### Смотрите также
 

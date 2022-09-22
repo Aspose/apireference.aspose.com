@@ -1,14 +1,14 @@
 ---
 title: PayrollDate
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置通过 401k 帐户的工资扣除获得此交易的资金的日期
+description: 获取或设置通过 401k 帐户的工资扣除获得此交易资金的日期
 type: docs
 weight: 120
 url: /zh/net/aspose.finance.ofx.investment/investmentbuy/payrolldate/
 ---
 ## InvestmentBuy.PayrollDate property
 
-获取或设置通过 401(k) 帐户的工资扣除获得此交易的资金的日期。
+获取或设置通过 401(k) 帐户的工资扣除获得此交易资金的日期。
 
 ```csharp
 public string PayrollDate { get; set; }

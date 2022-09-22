@@ -1,14 +1,14 @@
 ---
 title: ImageTransactionRequests
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置ImageTransactionRequestaspose.finance.ofx.image/imagetransactionrequest的集合
+description: 获取或设置的集合ImageTransactionRequestaspose.finance.ofx.image/imagetransactionrequest.
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.ofx/imagerequestmessagesetv1/imagetransactionrequests/
 ---
 ## ImageRequestMessageSetV1.ImageTransactionRequests property
 
-获取或设置[`ImageTransactionRequest`](../../../aspose.finance.ofx.image/imagetransactionrequest)的集合。
+获取或设置的集合[`ImageTransactionRequest`](../../../aspose.finance.ofx.image/imagetransactionrequest).
 
 ```csharp
 public List<ImageTransactionRequest> ImageTransactionRequests { get; set; }

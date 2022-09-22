@@ -1,14 +1,14 @@
 ---
 title: AmortizationTransactions
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает коллекциюAmortizationTransactionaspose.finance.ofx.loan/amortizationtransaction.
+description: Получает или задает коллекциюAmortizationTransactionaspose.finance.ofx.loan/amortizationtransaction .
 type: docs
 weight: 20
 url: /ru/net/aspose.finance.ofx.loan/amortizationtransactionlist/amortizationtransactions/
 ---
 ## AmortizationTransactionList.AmortizationTransactions property
 
-Получает или задает коллекцию[`AmortizationTransaction`](../../amortizationtransaction).
+Получает или задает коллекцию[`AmortizationTransaction`](../../amortizationtransaction) .
 
 ```csharp
 public List<AmortizationTransaction> AmortizationTransactions { get; set; }

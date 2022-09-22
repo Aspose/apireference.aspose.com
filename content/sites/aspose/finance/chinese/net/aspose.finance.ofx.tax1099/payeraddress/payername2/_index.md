@@ -1,14 +1,14 @@
 ---
 title: PayerName2
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置付款人的名称第 2 行
+description: 获取或设置付款人姓名第2行.
 type: docs
 weight: 70
 url: /zh/net/aspose.finance.ofx.tax1099/payeraddress/payername2/
 ---
 ## PayerAddress.PayerName2 property
 
-获取或设置付款人的名称，第 2 行。
+获取或设置付款人姓名，第2行.
 
 ```csharp
 public string PayerName2 { get; set; }

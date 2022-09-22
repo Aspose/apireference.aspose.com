@@ -1,7 +1,7 @@
 ---
 title: StatementImage
 second_title: Справочник по API Aspose.Finance для .NET
-description: Класс предоставляет один или несколько URL-адресов указывающих на полностью визуализированное изображение счета в формате HTML.
+description: Класс предоставляет один или несколько URLадресов указывающих на полностью визуализированное изображение счета в формате HTML.
 type: docs
 weight: 1830
 url: /ru/net/aspose.finance.ofx.billerdelivery/statementimage/
@@ -18,13 +18,13 @@ public class StatementImage
 
 | Имя | Описание |
 | --- | --- |
-| [StatementImage](statementimage)() | Инициализирует новый экземпляр класса[`StatementImage`](../statementimage). |
+| [StatementImage](statementimage)() | Инициализирует новый экземпляр[`StatementImage`](../statementimage) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [ExpireDate](../../aspose.finance.ofx.billerdelivery/statementimage/expiredate) { get; set; } | Получает или задает дату, после которой истечет срок действия встроенного маркера проверки подлинности. |
+| [ExpireDate](../../aspose.finance.ofx.billerdelivery/statementimage/expiredate) { get; set; } | Получает или задает дату, после которой истечет срок действия встроенного токена проверки подлинности. |
 | [ImageUrl](../../aspose.finance.ofx.billerdelivery/statementimage/imageurl) { get; set; } | Получает или задает URL-адрес для получения изображения полного счета в формате HTML. |
 | [PrefetchUrls](../../aspose.finance.ofx.billerdelivery/statementimage/prefetchurls) { get; set; } | Получает или задает URL-адреса предварительной выборки. |
 

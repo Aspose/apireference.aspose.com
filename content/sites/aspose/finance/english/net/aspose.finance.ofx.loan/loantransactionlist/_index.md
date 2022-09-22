@@ -3,7 +3,7 @@ title: LoanTransactionList
 second_title: Aspose.Finance for .NET API Reference
 description: Loan statement transaction data collection class.
 type: docs
-weight: 4000
+weight: 4020
 url: /net/aspose.finance.ofx.loan/loantransactionlist/
 ---
 ## LoanTransactionList class

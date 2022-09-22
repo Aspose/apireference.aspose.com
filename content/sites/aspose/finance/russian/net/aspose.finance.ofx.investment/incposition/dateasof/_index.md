@@ -1,14 +1,14 @@
 ---
 title: DateAsOf
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает дату на которую должны быть отправлены позиции.
+description: Получает или задает дату для которой должны быть отправлены позиции.
 type: docs
 weight: 20
 url: /ru/net/aspose.finance.ofx.investment/incposition/dateasof/
 ---
 ## IncPosition.DateAsOf property
 
-Получает или задает дату, на которую должны быть отправлены позиции.
+Получает или задает дату, для которой должны быть отправлены позиции.
 
 ```csharp
 public string DateAsOf { get; set; }

@@ -18,7 +18,7 @@ public class ProfileResponse
 
 | Имя | Описание |
 | --- | --- |
-| [ProfileResponse](profileresponse)() | Инициализирует новый экземпляр класса[`ProfileResponse`](../profileresponse). |
+| [ProfileResponse](profileresponse)() | Инициализирует новый экземпляр[`ProfileResponse`](../profileresponse) класс. |
 
 ## Характеристики
 
@@ -27,18 +27,18 @@ public class ProfileResponse
 | [Address1](../../aspose.finance.ofx.profile/profileresponse/address1) { get; set; } | Получает или задает адрес FI, строка 1. |
 | [Address2](../../aspose.finance.ofx.profile/profileresponse/address2) { get; set; } | Получает или задает адрес FI, строка 2. |
 | [Address3](../../aspose.finance.ofx.profile/profileresponse/address3) { get; set; } | Получает или задает адрес FI, строка 3. |
-| [City](../../aspose.finance.ofx.profile/profileresponse/city) { get; set; } | Получает или задает город с адресом FI. |
+| [City](../../aspose.finance.ofx.profile/profileresponse/city) { get; set; } | Получает или задает адрес FI city. |
 | [Country](../../aspose.finance.ofx.profile/profileresponse/country) { get; set; } | Получает или задает страну адреса FI. Трехбуквенный код страны из ISO/DIS-3166. |
-| [CustomerServicePhone](../../aspose.finance.ofx.profile/profileresponse/customerservicephone) { get; set; } | Получает или задает номер телефона службы поддержки клиентов. |
+| [CustomerServicePhone](../../aspose.finance.ofx.profile/profileresponse/customerservicephone) { get; set; } | Получает или устанавливает номер телефона службы поддержки клиентов. |
 | [Email](../../aspose.finance.ofx.profile/profileresponse/email) { get; set; } | Получает или задает адрес электронной почты для FI. |
 | [FaxPhone](../../aspose.finance.ofx.profile/profileresponse/faxphone) { get; set; } | Получает или задает номер факса. |
 | [FIName](../../aspose.finance.ofx.profile/profileresponse/finame) { get; set; } | Получает или задает название учреждения. |
-| [MessageSetList](../../aspose.finance.ofx.profile/profileresponse/messagesetlist) { get; set; } | Получает или задает[`MessageSetList`](./messagesetlist). |
+| [MessageSetList](../../aspose.finance.ofx.profile/profileresponse/messagesetlist) { get; set; } | Получает или задает[`MessageSetList`](./messagesetlist) . |
 | [PostalCode](../../aspose.finance.ofx.profile/profileresponse/postalcode) { get; set; } | Получает или задает почтовый индекс адреса FI. |
-| [ProfileUpdateDate](../../aspose.finance.ofx.profile/profileresponse/profileupdatedate) { get; set; } | Получает или устанавливает время обновления на сервере. |
-| [SignonInfos](../../aspose.finance.ofx.profile/profileresponse/signoninfos) { get; set; } | Получает или задает коллекцию[`SignonInfo`](../signoninfo). |
+| [ProfileUpdateDate](../../aspose.finance.ofx.profile/profileresponse/profileupdatedate) { get; set; } | Получает или задает время обновления на сервере. |
+| [SignonInfos](../../aspose.finance.ofx.profile/profileresponse/signoninfos) { get; set; } | Получает или задает коллекцию[`SignonInfo`](../signoninfo) . |
 | [State](../../aspose.finance.ofx.profile/profileresponse/state) { get; set; } | Получает или задает состояние адреса FI. |
-| [TechnicalSupportPhone](../../aspose.finance.ofx.profile/profileresponse/technicalsupportphone) { get; set; } | Получает или задает номер телефона службы технической поддержки. |
+| [TechnicalSupportPhone](../../aspose.finance.ofx.profile/profileresponse/technicalsupportphone) { get; set; } | Получает или задает номер телефона технической поддержки. |
 | [Url](../../aspose.finance.ofx.profile/profileresponse/url) { get; set; } | Получает или задает URL-адрес для общей информации о FI (не для отправки данных). |
 
 ### Смотрите также

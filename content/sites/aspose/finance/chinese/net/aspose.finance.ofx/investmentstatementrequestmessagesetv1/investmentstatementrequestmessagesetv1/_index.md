@@ -1,14 +1,14 @@
 ---
 title: InvestmentStatementRequestMessageSetV1
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化InvestmentStatementRequestMessageSetV1aspose.finance.ofx/investmentstatementrequestmessagesetv1类的新实例
+description: 初始化一个新的实例InvestmentStatementRequestMessageSetV1aspose.finance.ofx/investmentstatementrequestmessagesetv1类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx/investmentstatementrequestmessagesetv1/investmentstatementrequestmessagesetv1/
 ---
 ## InvestmentStatementRequestMessageSetV1 constructor
 
-初始化[`InvestmentStatementRequestMessageSetV1`](../../investmentstatementrequestmessagesetv1)类的新实例。
+初始化一个新的实例[`InvestmentStatementRequestMessageSetV1`](../../investmentstatementrequestmessagesetv1)类.
 
 ```csharp
 public InvestmentStatementRequestMessageSetV1()

@@ -18,17 +18,17 @@ public class ArcroleReference : SimpleLink
 
 | 姓名 | 描述 |
 | --- | --- |
-| [ArcroleReference](arcrolereference)(ArcroleType) | 初始化[`ArcroleReference`](../arcrolereference)类的新实例。 |
+| [ArcroleReference](arcrolereference)(ArcroleType) | 初始化一个新的实例[`ArcroleReference`](../arcrolereference)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
 | [Actuate](../../aspose.finance.xbrl/simplelink/actuate) { get; set; } | 获取或设置简单链接启动属性。 |
-| [Arcrole](../../aspose.finance.xbrl/simplelink/arcrole) { get; set; } | 获取或设置简单链接弧。 |
+| [Arcrole](../../aspose.finance.xbrl/simplelink/arcrole) { get; set; } | 获取或设置简单链接弧线。 |
 | [ArcroleType](../../aspose.finance.xbrl/arcrolereference/arcroletype) { get; set; } | 获取或设置 arc 角色类型。 |
 | [ArcroleUri](../../aspose.finance.xbrl/arcrolereference/arcroleuri) { get; } | 获取 arcrole URI。 |
-| [Href](../../aspose.finance.xbrl/simplelink/href) { get; set; } | 获取或设置简单链接 href URI。 |
+| [Href](../../aspose.finance.xbrl/simplelink/href) { get; set; } | 获取或设置简单链接href URI. |
 | [Role](../../aspose.finance.xbrl/simplelink/role) { get; set; } | 获取或设置简单链接角色。 |
 | [Show](../../aspose.finance.xbrl/simplelink/show) { get; set; } | 获取或设置简单链接显示属性。 |
 | [Title](../../aspose.finance.xbrl/simplelink/title) { get; set; } | 获取或设置简单链接标题。 |

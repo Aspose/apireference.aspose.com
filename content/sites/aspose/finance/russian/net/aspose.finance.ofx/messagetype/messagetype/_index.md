@@ -1,14 +1,14 @@
 ---
 title: MessageType
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаMessageTypeaspose.finance.ofx/messagetype.
+description: Инициализирует новый экземплярMessageTypeaspose.finance.ofx/messagetype класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx/messagetype/messagetype/
 ---
 ## MessageType constructor
 
-Инициализирует новый экземпляр класса[`MessageType`](../../messagetype).
+Инициализирует новый экземпляр[`MessageType`](../../messagetype) класс.
 
 ```csharp
 public MessageType()

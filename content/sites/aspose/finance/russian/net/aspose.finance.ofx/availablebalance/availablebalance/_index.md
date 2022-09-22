@@ -1,14 +1,14 @@
 ---
 title: AvailableBalance
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаAvailableBalanceaspose.finance.ofx/availablebalance.
+description: Инициализирует новый экземплярAvailableBalanceaspose.finance.ofx/availablebalance класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx/availablebalance/availablebalance/
 ---
 ## AvailableBalance constructor
 
-Инициализирует новый экземпляр класса[`AvailableBalance`](../../availablebalance).
+Инициализирует новый экземпляр[`AvailableBalance`](../../availablebalance) класс.
 
 ```csharp
 public AvailableBalance()

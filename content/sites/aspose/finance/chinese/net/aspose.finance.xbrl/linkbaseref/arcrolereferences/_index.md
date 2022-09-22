@@ -1,14 +1,14 @@
 ---
 title: ArcroleReferences
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置链接库中ArcroleReferenceaspose.finance.xbrl/arcrolereference对象的集合
+description: 获取或设置的集合ArcroleReferenceaspose.finance.xbrl/arcrolereference链接库中的对象
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.xbrl/linkbaseref/arcrolereferences/
 ---
 ## LinkbaseRef.ArcroleReferences property
 
-获取或设置链接库中[`ArcroleReference`](../../arcrolereference)对象的集合。
+获取或设置的集合[`ArcroleReference`](../../arcrolereference)链接库中的对象。
 
 ```csharp
 public List<ArcroleReference> ArcroleReferences { get; set; }

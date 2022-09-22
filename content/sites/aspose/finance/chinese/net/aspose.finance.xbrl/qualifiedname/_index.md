@@ -1,14 +1,14 @@
 ---
 title: QualifiedName
 second_title: Aspose.Finance for .NET API 参考
-description: XML 模式类型QName在 http//www.w3.org/2001/XMLSchema 命名空间中定义
+description: 在 http//www.w3.org/2001/XMLSchema 命名空间中定义的 XML 模式类型QName
 type: docs
 weight: 7890
 url: /zh/net/aspose.finance.xbrl/qualifiedname/
 ---
 ## QualifiedName class
 
-XML 模式类型“QName”，在 http://www.w3.org/2001/XMLSchema 命名空间中定义。
+在 http://www.w3.org/2001/XMLSchema 命名空间中定义的 XML 模式类型“QName”。
 
 ```csharp
 public class QualifiedName
@@ -18,15 +18,15 @@ public class QualifiedName
 
 | 姓名 | 描述 |
 | --- | --- |
-| [QualifiedName](qualifiedname)(string, string, string) | 初始化[`QualifiedName`](../qualifiedname)类的新实例。 |
+| [QualifiedName](qualifiedname)(string, string, string) | 初始化一个新的实例[`QualifiedName`](../qualifiedname)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [LocalName](../../aspose.finance.xbrl/qualifiedname/localname) { get; set; } | 获取或设置限定名称的本地名称。 |
-| [Namespace](../../aspose.finance.xbrl/qualifiedname/namespace) { get; set; } | 获取或设置限定名称的命名空间。 |
-| [NamespaceUri](../../aspose.finance.xbrl/qualifiedname/namespaceuri) { get; set; } | 获取或设置限定名称的命名空间 URI。 |
+| [LocalName](../../aspose.finance.xbrl/qualifiedname/localname) { get; set; } | 获取或设置限定名的本地名称。 |
+| [Namespace](../../aspose.finance.xbrl/qualifiedname/namespace) { get; set; } | 获取或设置限定名的命名空间。 |
+| [NamespaceUri](../../aspose.finance.xbrl/qualifiedname/namespaceuri) { get; set; } | 获取或设置限定名的命名空间 URI。 |
 
 ## 方法
 

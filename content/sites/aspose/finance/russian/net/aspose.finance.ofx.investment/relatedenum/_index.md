@@ -1,14 +1,14 @@
 ---
 title: RelatedEnum
 second_title: Справочник по API Aspose.Finance для .NET
-description: Связанный вариант тип транзакции enum.
+description: Тип транзакции связанного опциона enum.
 type: docs
 weight: 3440
 url: /ru/net/aspose.finance.ofx.investment/relatedenum/
 ---
 ## RelatedEnum enumeration
 
-Связанный вариант тип транзакции enum.
+Тип транзакции связанного опциона enum.
 
 ```csharp
 public enum RelatedEnum
@@ -18,7 +18,7 @@ public enum RelatedEnum
 
 | Имя | Ценность | Описание |
 | --- | --- | --- |
-| SPREAD | `0` | Разворот |
+| SPREAD | `0` | Распространение |
 | STRADDLE | `1` | Стрэддл |
 | NONE | `2` | Нет |
 | OTHER | `3` | Другое |

@@ -3,7 +3,7 @@ title: TaxW2Response
 second_title: Aspose.Finance for .NET API Reference
 description: Tax W2 response class.
 type: docs
-weight: 6190
+weight: 6220
 url: /net/aspose.finance.ofx.taxw2/taxw2response/
 ---
 ## TaxW2Response class

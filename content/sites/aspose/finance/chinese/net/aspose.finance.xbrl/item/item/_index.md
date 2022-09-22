@@ -1,14 +1,14 @@
 ---
 title: Item
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化Itemaspose.finance.xbrl/item类的新实例
+description: 初始化一个新的实例Itemaspose.finance.xbrl/item类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.xbrl/item/item/
 ---
 ## Item constructor
 
-初始化[`Item`](../../item)类的新实例。
+初始化一个新的实例[`Item`](../../item)类.
 
 ```csharp
 public Item(Concept concept)
@@ -16,7 +16,7 @@ public Item(Concept concept)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| concept | Concept | [`SchemaRef`](../../schemaref) |
+| concept | Concept | 概念定义在[`SchemaRef`](../../schemaref) |
 
 ### 也可以看看
 

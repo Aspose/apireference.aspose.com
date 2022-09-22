@@ -1,14 +1,14 @@
 ---
 title: TupleRefId
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置InlineNonfractionaspose.finance.xbrl.inline/inlinenonfraction的元组引用 id
+description: 获取或设置元组的元组引用idInlineNonfractionaspose.finance.xbrl.inline/inlinenonfraction.
 type: docs
 weight: 120
 url: /zh/net/aspose.finance.xbrl.inline/inlinenonfraction/tuplerefid/
 ---
 ## InlineNonfraction.TupleRefId property
 
-获取或设置[`InlineNonfraction`](../../inlinenonfraction)的元组引用 id。
+获取或设置元组的元组引用id[`InlineNonfraction`](../../inlinenonfraction).
 
 ```csharp
 public string TupleRefId { get; set; }

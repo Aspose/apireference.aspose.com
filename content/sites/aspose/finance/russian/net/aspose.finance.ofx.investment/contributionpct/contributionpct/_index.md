@@ -1,14 +1,14 @@
 ---
 title: ContributionPct
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаContributionPctaspose.finance.ofx.investment/contributionpct.
+description: Инициализирует новый экземплярContributionPctaspose.finance.ofx.investment/contributionpct класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.investment/contributionpct/contributionpct/
 ---
 ## ContributionPct constructor
 
-Инициализирует новый экземпляр класса[`ContributionPct`](../../contributionpct).
+Инициализирует новый экземпляр[`ContributionPct`](../../contributionpct) класс.
 
 ```csharp
 public ContributionPct()

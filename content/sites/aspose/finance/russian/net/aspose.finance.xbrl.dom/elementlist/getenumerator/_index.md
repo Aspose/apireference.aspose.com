@@ -1,14 +1,14 @@
 ---
 title: GetEnumerator
 second_title: Справочник по API Aspose.Finance для .NET
-description: Возвращает перечислитель который перебирает список.
+description: Возвращает перечислитель который выполняет итерацию по списку.
 type: docs
 weight: 40
 url: /ru/net/aspose.finance.xbrl.dom/elementlist/getenumerator/
 ---
 ## ElementList.GetEnumerator method
 
-Возвращает перечислитель, который перебирает список.
+Возвращает перечислитель, который выполняет итерацию по списку.
 
 ```csharp
 public IEnumerator<Element> GetEnumerator()

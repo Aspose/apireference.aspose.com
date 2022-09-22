@@ -1,14 +1,14 @@
 ---
 title: InvestmentClosing
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化InvestmentClosingaspose.finance.ofx.investment/investmentclosing类的新实例
+description: 初始化一个新的实例InvestmentClosingaspose.finance.ofx.investment/investmentclosing类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.investment/investmentclosing/investmentclosing/
 ---
 ## InvestmentClosing constructor
 
-初始化[`InvestmentClosing`](../../investmentclosing)类的新实例。
+初始化一个新的实例[`InvestmentClosing`](../../investmentclosing)类.
 
 ```csharp
 public InvestmentClosing()

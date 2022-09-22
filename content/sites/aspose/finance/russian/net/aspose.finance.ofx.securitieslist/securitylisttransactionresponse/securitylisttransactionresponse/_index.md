@@ -1,14 +1,14 @@
 ---
 title: SecurityListTransactionResponse
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаSecurityListTransactionResponseaspose.finance.ofx.securitieslist/securitylisttransactionresponse.
+description: Инициализирует новый экземплярSecurityListTransactionResponseaspose.finance.ofx.securitieslist/securitylisttransactionresponse класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.securitieslist/securitylisttransactionresponse/securitylisttransactionresponse/
 ---
 ## SecurityListTransactionResponse constructor
 
-Инициализирует новый экземпляр класса[`SecurityListTransactionResponse`](../../securitylisttransactionresponse).
+Инициализирует новый экземпляр[`SecurityListTransactionResponse`](../../securitylisttransactionresponse) класс.
 
 ```csharp
 public SecurityListTransactionResponse()

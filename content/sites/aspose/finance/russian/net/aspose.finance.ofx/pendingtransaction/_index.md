@@ -18,21 +18,21 @@ public class PendingTransaction
 
 | Имя | Описание |
 | --- | --- |
-| [PendingTransaction](pendingtransaction)() | Инициализирует новый экземпляр класса[`PendingTransaction`](../pendingtransaction). |
+| [PendingTransaction](pendingtransaction)() | Инициализирует новый экземпляр[`PendingTransaction`](../pendingtransaction) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [Currency](../../aspose.finance.ofx/pendingtransaction/currency) { get; set; } | Получает или задает[`Currency`](./currency). |
-| [ExpireDate](../../aspose.finance.ofx/pendingtransaction/expiredate) { get; set; } | Получает или задает дату истечения срока удержания этой транзакции. Действителен только для TransactionType HOLD. |
+| [Currency](../../aspose.finance.ofx/pendingtransaction/currency) { get; set; } | Получает или задает[`Currency`](./currency) . |
+| [ExpireDate](../../aspose.finance.ofx/pendingtransaction/expiredate) { get; set; } | Получает или задает дату истечения срока хранения этой транзакции. Допустимо только для TransactionType HOLD. |
 | [ExtendedName](../../aspose.finance.ofx/pendingtransaction/extendedname) { get; set; } | Получает или задает расширенное имя получателя платежа или описание транзакции. |
-| [ImageDatas](../../aspose.finance.ofx/pendingtransaction/imagedatas) { get; set; } | Получает или задает коллекцию[`ImageData`](../imagedata). |
-| [Memo](../../aspose.finance.ofx/pendingtransaction/memo) { get; set; } | Получает или задает дополнительную информацию |
+| [ImageDatas](../../aspose.finance.ofx/pendingtransaction/imagedatas) { get; set; } | Получает или задает коллекцию[`ImageData`](../imagedata) . |
+| [Memo](../../aspose.finance.ofx/pendingtransaction/memo) { get; set; } | Получает или устанавливает дополнительную информацию |
 | [Name](../../aspose.finance.ofx/pendingtransaction/name) { get; set; } | Получает или задает имя получателя платежа или описание транзакции. |
-| [OriginCurrency](../../aspose.finance.ofx/pendingtransaction/origincurrency) { get; set; } | Получает или задает Origin[`Currency`](./currency). |
+| [OriginCurrency](../../aspose.finance.ofx/pendingtransaction/origincurrency) { get; set; } | Получает или задает источник[`Currency`](./currency) . |
 | [ReferenceNumber](../../aspose.finance.ofx/pendingtransaction/referencenumber) { get; set; } | Получает или задает ссылочный номер, если он есть, для транзакции. |
-| [TransactionAmount](../../aspose.finance.ofx/pendingtransaction/transactionamount) { get; set; } | Получает или задает сумму транзакции. |
+| [TransactionAmount](../../aspose.finance.ofx/pendingtransaction/transactionamount) { get; set; } | Получает или устанавливает сумму транзакции. |
 | [TransactionDate](../../aspose.finance.ofx/pendingtransaction/transactiondate) { get; set; } | Получает или задает дату начала транзакции. |
 | [TransactionType](../../aspose.finance.ofx/pendingtransaction/transactiontype) { get; set; } | Получает или задает тип транзакции. |
 

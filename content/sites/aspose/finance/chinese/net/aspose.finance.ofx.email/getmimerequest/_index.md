@@ -18,7 +18,7 @@ public class GetMimeRequest
 
 | 姓名 | 描述 |
 | --- | --- |
-| [GetMimeRequest](getmimerequest)() | 初始化[`GetMimeRequest`](../getmimerequest)类的新实例。 |
+| [GetMimeRequest](getmimerequest)() | 初始化一个新的实例[`GetMimeRequest`](../getmimerequest)类. |
 
 ## 特性
 

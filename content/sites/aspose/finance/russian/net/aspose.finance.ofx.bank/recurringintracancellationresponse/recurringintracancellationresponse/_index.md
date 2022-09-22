@@ -1,14 +1,14 @@
 ---
 title: RecurringIntraCancellationResponse
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаRecurringIntraCancellationResponseaspose.finance.ofx.bank/recurringintracancellationresponse.
+description: Инициализирует новый экземплярRecurringIntraCancellationResponseaspose.finance.ofx.bank/recurringintracancellationresponse класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.bank/recurringintracancellationresponse/recurringintracancellationresponse/
 ---
 ## RecurringIntraCancellationResponse constructor
 
-Инициализирует новый экземпляр класса[`RecurringIntraCancellationResponse`](../../recurringintracancellationresponse).
+Инициализирует новый экземпляр[`RecurringIntraCancellationResponse`](../../recurringintracancellationresponse) класс.
 
 ```csharp
 public RecurringIntraCancellationResponse()

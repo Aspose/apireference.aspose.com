@@ -1,14 +1,14 @@
 ---
 title: CreditCardStatementEndResponse
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задаетCreditCardStatementEndResponseaspose.finance.ofx.creditcard/creditcardstatementendtransactionresponse/creditcardstatementendresponse.
+description: Получает или задаетCreditCardStatementEndResponseaspose.finance.ofx.creditcard/creditcardstatementendtransactionresponse/creditcardstatementendresponse .
 type: docs
 weight: 20
 url: /ru/net/aspose.finance.ofx.creditcard/creditcardstatementendtransactionresponse/creditcardstatementendresponse/
 ---
 ## CreditCardStatementEndTransactionResponse.CreditCardStatementEndResponse property
 
-Получает или задает`CreditCardStatementEndResponse`.
+Получает или задает`CreditCardStatementEndResponse` .
 
 ```csharp
 public CreditCardStatementEndResponse CreditCardStatementEndResponse { get; set; }

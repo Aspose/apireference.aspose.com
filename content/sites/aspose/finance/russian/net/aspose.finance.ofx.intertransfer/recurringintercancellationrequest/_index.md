@@ -1,14 +1,14 @@
 ---
 title: RecurringInterCancellationRequest
 second_title: Справочник по API Aspose.Finance для .NET
-description: Класс запроса отмены повторяющегося межбанковского перевода.
+description: Класс запросов на отмену повторяющихся межбанковских переводов.
 type: docs
 weight: 2490
 url: /ru/net/aspose.finance.ofx.intertransfer/recurringintercancellationrequest/
 ---
 ## RecurringInterCancellationRequest class
 
-Класс запроса отмены повторяющегося межбанковского перевода.
+Класс запросов на отмену повторяющихся межбанковских переводов.
 
 ```csharp
 public class RecurringInterCancellationRequest : AbstractRecurringInterRequest
@@ -18,14 +18,14 @@ public class RecurringInterCancellationRequest : AbstractRecurringInterRequest
 
 | Имя | Описание |
 | --- | --- |
-| [RecurringInterCancellationRequest](recurringintercancellationrequest)() | Инициализирует новый экземпляр класса[`RecurringInterCancellationRequest`](../recurringintercancellationrequest). |
+| [RecurringInterCancellationRequest](recurringintercancellationrequest)() | Инициализирует новый экземпляр[`RecurringInterCancellationRequest`](../recurringintercancellationrequest) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
 | [CancelPending](../../aspose.finance.ofx.intertransfer/recurringintercancellationrequest/cancelpending) { get; set; } | Получает или устанавливает флаг ожидания отмены. Если да, сервер должен отменить все ожидающие и непорожденные передачи. Если нет, сервер должен отменить только модель (и непорожденные передачи). |
-| [RecurringServerId](../../aspose.finance.ofx.intertransfer/recurringintercancellationrequest/recurringserverid) { get; set; } | Получает или задает идентификатор, присвоенный сервером отменяемой модели. |
+| [RecurringServerId](../../aspose.finance.ofx.intertransfer/recurringintercancellationrequest/recurringserverid) { get; set; } | Получает или задает идентификатор, назначенный сервером отменяемой модели. |
 
 ### Смотрите также
 

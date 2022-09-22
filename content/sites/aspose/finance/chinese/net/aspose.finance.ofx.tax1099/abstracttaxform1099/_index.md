@@ -1,14 +1,14 @@
 ---
 title: AbstractTaxForm1099
 second_title: Aspose.Finance for .NET API 参考
-description: 税表 1099 类的抽象基类
+description: 税表1099类的抽象基类.
 type: docs
 weight: 5860
 url: /zh/net/aspose.finance.ofx.tax1099/abstracttaxform1099/
 ---
 ## AbstractTaxForm1099 class
 
-税表 1099 类的抽象基类。
+税表1099类的抽象基类.
 
 ```csharp
 public abstract class AbstractTaxForm1099
@@ -19,9 +19,9 @@ public abstract class AbstractTaxForm1099
 | 姓名 | 描述 |
 | --- | --- |
 | [Corrected](../../aspose.finance.ofx.tax1099/abstracttaxform1099/corrected) { get; set; } | 获取或设置这是否是一个更正的形式。 |
-| [ServerId](../../aspose.finance.ofx.tax1099/abstracttaxform1099/serverid) { get; set; } | 获取或设置主机服务器分配给表单的 ID。 |
+| [ServerId](../../aspose.finance.ofx.tax1099/abstracttaxform1099/serverid) { get; set; } | 获取或设置主机服务器分配给表单的ID。 |
 | [TaxYear](../../aspose.finance.ofx.tax1099/abstracttaxform1099/taxyear) { get; set; } | 获取或设置此表单的纳税年度。 |
-| [Void](../../aspose.finance.ofx.tax1099/abstracttaxform1099/void) { get; set; } | 获取或设置表单是否为无效。 |
+| [Void](../../aspose.finance.ofx.tax1099/abstracttaxform1099/void) { get; set; } | 获取或设置表单是否为void。 |
 
 ### 也可以看看
 

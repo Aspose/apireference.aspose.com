@@ -1,14 +1,14 @@
 ---
 title: AddCalculationLinkbaseRef
 second_title: Справочник по API Aspose.Finance для .NET
-description: ДобавьтеCalculationLinkbaseRefaspose.finance.xbrl/calculationlinkbaserefв коллекцию.
+description: ДобавитьCalculationLinkbaseRefaspose.finance.xbrl/calculationlinkbaserefв коллекцию.
 type: docs
 weight: 30
 url: /ru/net/aspose.finance.xbrl/linkbaserefcollection/addcalculationlinkbaseref/
 ---
 ## LinkbaseRefCollection.AddCalculationLinkbaseRef method
 
-Добавьте[`CalculationLinkbaseRef`](../../calculationlinkbaseref)в коллекцию.
+Добавить[`CalculationLinkbaseRef`](../../calculationlinkbaseref)в коллекцию.
 
 ```csharp
 public void AddCalculationLinkbaseRef(string href)

@@ -21,7 +21,7 @@ public enum TransferStatusEnum
 | WILLPROCESSON | `0` | 将被处理 |
 | POSTEDON | `1` | 已发布 |
 | NOFUNDSON | `2` | 资金无法进行转账 |
-| CANCELEDON | `3` | 用户取消支付 |
+| CANCELEDON | `3` | 用户取消付款 |
 | FAILEDON | `4` | 由于不明原因无法进行转账 |
 
 ### 也可以看看

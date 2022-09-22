@@ -8,7 +8,7 @@ url: /zh/net/aspose.finance.ofx.investment/selloption/relatedtype/
 ---
 ## SellOption.RelatedType property
 
-获取或设置相关期权交易类型。
+获取或设置相关期权交易类型
 
 ```csharp
 public RelatedEnum RelatedType { get; set; }

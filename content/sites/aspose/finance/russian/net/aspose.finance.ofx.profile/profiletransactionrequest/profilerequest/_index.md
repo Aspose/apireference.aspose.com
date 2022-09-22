@@ -1,14 +1,14 @@
 ---
 title: ProfileRequest
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задаетProfileRequestaspose.finance.ofx.profile/profiletransactionrequest/profilerequest.
+description: Получает или задаетProfileRequestaspose.finance.ofx.profile/profiletransactionrequest/profilerequest .
 type: docs
 weight: 30
 url: /ru/net/aspose.finance.ofx.profile/profiletransactionrequest/profilerequest/
 ---
 ## ProfileTransactionRequest.ProfileRequest property
 
-Получает или задает`ProfileRequest`.
+Получает или задает`ProfileRequest` .
 
 ```csharp
 public ProfileRequest ProfileRequest { get; set; }

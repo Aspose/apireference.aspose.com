@@ -1,14 +1,14 @@
 ---
 title: EndDate
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置起始至今信息的结束日期
+description: 获取或设置起始日期信息的结束日期
 type: docs
 weight: 40
 url: /zh/net/aspose.finance.ofx.investment/incepttodate/enddate/
 ---
 ## InceptToDate.EndDate property
 
-获取或设置起始至今信息的结束日期。
+获取或设置起始日期信息的结束日期。
 
 ```csharp
 public string EndDate { get; set; }

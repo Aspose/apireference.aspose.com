@@ -1,14 +1,14 @@
 ---
 title: ClosingAvailable
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置结束语句信息是否可用
+description: 获取或设置结帐信息是否可用
 type: docs
 weight: 40
 url: /zh/net/aspose.finance.ofx.profile/investmentstatementmessagesetv1/closingavailable/
 ---
 ## InvestmentStatementMessageSetV1.ClosingAvailable property
 
-获取或设置结束语句信息是否可用。
+获取或设置结帐信息是否可用。
 
 ```csharp
 public bool ClosingAvailable { get; set; }

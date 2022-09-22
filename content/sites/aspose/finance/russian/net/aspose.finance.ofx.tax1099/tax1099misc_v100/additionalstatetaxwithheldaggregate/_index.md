@@ -1,14 +1,14 @@
 ---
 title: AdditionalStateTaxWithheldAggregate
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задаетAdditionalStateTaxWithheldAggregateaspose.finance.ofx.tax1099/tax1099misc_v100/additionalstatetaxwithheldaggregate.
+description: Получает или задаетAdditionalStateTaxWithheldAggregateaspose.finance.ofx.tax1099/tax1099misc_v100/additionalstatetaxwithheldaggregate .
 type: docs
 weight: 20
 url: /ru/net/aspose.finance.ofx.tax1099/tax1099misc_v100/additionalstatetaxwithheldaggregate/
 ---
 ## Tax1099MISC_V100.AdditionalStateTaxWithheldAggregate property
 
-Получает или задает`AdditionalStateTaxWithheldAggregate`.
+Получает или задает`AdditionalStateTaxWithheldAggregate` .
 
 ```csharp
 public AdditionalStateTaxWithheldAggregate AdditionalStateTaxWithheldAggregate { get; set; }

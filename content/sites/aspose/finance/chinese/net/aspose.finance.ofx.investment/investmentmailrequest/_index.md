@@ -1,14 +1,14 @@
 ---
 title: InvestmentMailRequest
 second_title: Aspose.Finance for .NET API 参考
-description: 投资电子邮件请求类
+description: 投资邮件请求类.
 type: docs
 weight: 2970
 url: /zh/net/aspose.finance.ofx.investment/investmentmailrequest/
 ---
 ## InvestmentMailRequest class
 
-投资电子邮件请求类。
+投资邮件请求类.
 
 ```csharp
 public class InvestmentMailRequest
@@ -18,14 +18,14 @@ public class InvestmentMailRequest
 
 | 姓名 | 描述 |
 | --- | --- |
-| [InvestmentMailRequest](investmentmailrequest)() | 初始化[`InvestmentMailRequest`](../investmentmailrequest)类的新实例。 |
+| [InvestmentMailRequest](investmentmailrequest)() | 初始化一个新的实例[`InvestmentMailRequest`](../investmentmailrequest)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [InvestmentAccountFrom](../../aspose.finance.ofx.investment/investmentmailrequest/investmentaccountfrom) { get; set; } | 获取或设置[`InvestmentAccount`](../../aspose.finance.ofx/investmentaccount)的来源。 |
-| [Mail](../../aspose.finance.ofx.investment/investmentmailrequest/mail) { get; set; } | 获取或设置[`Mail`](./mail)。 |
+| [InvestmentAccountFrom](../../aspose.finance.ofx.investment/investmentmailrequest/investmentaccountfrom) { get; set; } | 获取或设置 from[`InvestmentAccount`](../../aspose.finance.ofx/investmentaccount). |
+| [Mail](../../aspose.finance.ofx.investment/investmentmailrequest/mail) { get; set; } | 获取或设置[`Mail`](./mail). |
 
 ### 也可以看看
 

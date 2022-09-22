@@ -1,14 +1,14 @@
 ---
 title: CreditCardAccountInfo
 second_title: Справочник по API Aspose.Finance для .NET
-description: OFX использует совокупную информацию об учетной записи кредитной карты для загрузки информации об учетной записи из FI.
+description: OFX использует сводную информацию об учетной записи кредитной карты для загрузки информации об учетной записи из FI.
 type: docs
 weight: 2050
 url: /ru/net/aspose.finance.ofx/creditcardaccountinfo/
 ---
 ## CreditCardAccountInfo class
 
-OFX использует совокупную информацию об учетной записи кредитной карты для загрузки информации об учетной записи из FI.
+OFX использует сводную информацию об учетной записи кредитной карты для загрузки информации об учетной записи из FI.
 
 ```csharp
 public class CreditCardAccountInfo : AbstractAccountInfo
@@ -18,18 +18,18 @@ public class CreditCardAccountInfo : AbstractAccountInfo
 
 | Имя | Описание |
 | --- | --- |
-| [CreditCardAccountInfo](creditcardaccountinfo)() | Инициализирует новый экземпляр класса[`CreditCardAccountInfo`](../creditcardaccountinfo). |
+| [CreditCardAccountInfo](creditcardaccountinfo)() | Инициализирует новый экземпляр[`CreditCardAccountInfo`](../creditcardaccountinfo) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
 | [AccountClassification](../../aspose.finance.ofx/creditcardaccountinfo/accountclassification) { get; set; } | Получает или задает классификацию учетной записи. |
-| [CreditCardAccountFrom](../../aspose.finance.ofx/creditcardaccountinfo/creditcardaccountfrom) { get; set; } | Получает или задает значение из[`BankAccount`](../bankaccount). |
-| [ServiceStatus](../../aspose.finance.ofx/creditcardaccountinfo/servicestatus) { get; set; } | Получает или задает статус учетной записи. |
+| [CreditCardAccountFrom](../../aspose.finance.ofx/creditcardaccountinfo/creditcardaccountfrom) { get; set; } | Получает или задает из[`BankAccount`](../bankaccount) . |
+| [ServiceStatus](../../aspose.finance.ofx/creditcardaccountinfo/servicestatus) { get; set; } | Получает или устанавливает статус учетной записи. |
 | [SupportTransactionDetailDownload](../../aspose.finance.ofx/creditcardaccountinfo/supporttransactiondetaildownload) { get; set; } | Если учетная запись поддерживает загрузку сведений о транзакциях, да, если только баланс, нет. |
-| [TransferDestination](../../aspose.finance.ofx/creditcardaccountinfo/transferdestination) { get; set; } | если счет включен в качестве назначения для внутрибанковского или межбанковского перевода, да, иначе нет. |
-| [TransferSource](../../aspose.finance.ofx/creditcardaccountinfo/transfersource) { get; set; } | Если аккаунт включен в качестве источника для внутрибанковского или межбанковского перевода, да, иначе нет. |
+| [TransferDestination](../../aspose.finance.ofx/creditcardaccountinfo/transferdestination) { get; set; } | , если счет включен в качестве получателя внутрибанковского или межбанковского перевода, да, иначе нет. |
+| [TransferSource](../../aspose.finance.ofx/creditcardaccountinfo/transfersource) { get; set; } | Если счет включен как источник внутрибанковского или межбанковского перевода, да, иначе нет. |
 
 ### Смотрите также
 

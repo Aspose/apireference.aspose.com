@@ -1,14 +1,14 @@
 ---
 title: MaxMatchPercent
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает текущий максимальный процент взноса работодателя.
+description: Получает или задает текущий максимальный процент вклада работодателя.
 type: docs
 weight: 60
 url: /ru/net/aspose.finance.ofx.investment/matchinfo/maxmatchpercent/
 ---
 ## MatchInfo.MaxMatchPercent property
 
-Получает или задает текущий максимальный процент взноса работодателя.
+Получает или задает текущий максимальный процент вклада работодателя.
 
 ```csharp
 public string MaxMatchPercent { get; set; }

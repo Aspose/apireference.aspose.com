@@ -1,14 +1,14 @@
 ---
 title: InitialLoanBalance
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает начальный остаток кредита.
+description: Получает или задает начальный баланс кредита.
 type: docs
 weight: 40
 url: /ru/net/aspose.finance.ofx.investment/loaninfo/initialloanbalance/
 ---
 ## LoanInfo.InitialLoanBalance property
 
-Получает или задает начальный остаток кредита.
+Получает или задает начальный баланс кредита.
 
 ```csharp
 public string InitialLoanBalance { get; set; }

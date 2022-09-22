@@ -1,14 +1,14 @@
 ---
 title: InvestmentTransaction
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置InvestmentTransactionaspose.finance.ofx.investment/abstractinvestmenttransaction/investmenttransaction
+description: 获取或设置InvestmentTransactionaspose.finance.ofx.investment/abstractinvestmenttransaction/investmenttransaction.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.investment/abstractinvestmenttransaction/investmenttransaction/
 ---
 ## AbstractInvestmentTransaction.InvestmentTransaction property
 
-获取或设置`InvestmentTransaction`。
+获取或设置`InvestmentTransaction`.
 
 ```csharp
 public InvestmentTransaction InvestmentTransaction { get; set; }

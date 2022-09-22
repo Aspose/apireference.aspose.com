@@ -1,14 +1,14 @@
 ---
 title: ImageData
 second_title: Aspose.Finance for .NET API 参考
-description: 图像信息类
+description: 图像信息类.
 type: docs
 weight: 2300
 url: /zh/net/aspose.finance.ofx/imagedata/
 ---
 ## ImageData class
 
-图像信息类。
+图像信息类.
 
 ```csharp
 public class ImageData
@@ -18,7 +18,7 @@ public class ImageData
 
 | 姓名 | 描述 |
 | --- | --- |
-| [ImageData](imagedata)() | 初始化[`ImageData`](../imagedata)类的新实例。 |
+| [ImageData](imagedata)() | 初始化一个新的实例[`ImageData`](../imagedata)类. |
 
 ## 特性
 
@@ -26,7 +26,7 @@ public class ImageData
 | --- | --- |
 | [CheckSupport](../../aspose.finance.ofx/imagedata/checksupport) { get; set; } | 获取或设置校验图像信息。 |
 | [ImageAvailDate](../../aspose.finance.ofx/imagedata/imageavaildate) { get; set; } | 获取或设置图像可用日期。 |
-| [ImageDelay](../../aspose.finance.ofx/imagedata/imagedelay) { get; set; } | 从 ServerDate（对于报表图像）或 PostedDate（对于交易图像）获取或设置日历天数，当图像可用时。 |
+| [ImageDelay](../../aspose.finance.ofx/imagedata/imagedelay) { get; set; } | 获取或设置从 ServerDate（用于报表图像）或 PostedDate（用于交易图像）的日历天数，当图像可用时。 |
 | [ImageRef](../../aspose.finance.ofx/imagedata/imageref) { get; set; } | 获取或设置在请求图像期间要使用的图像的服务器指定唯一标识符。 |
 | [ImageRefType](../../aspose.finance.ofx/imagedata/imagereftype) { get; set; } | 获取或设置引用的类型。 |
 | [ImageTtl](../../aspose.finance.ofx/imagedata/imagettl) { get; set; } | 获取或设置一旦图像可用，图像将在主机上保持可用的日历天数。 |

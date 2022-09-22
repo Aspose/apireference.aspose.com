@@ -1,14 +1,14 @@
 ---
 title: InvestmentTransactionList
 second_title: Aspose.Finance for .NET API 参考
-description: 投资交易列表类
+description: 投资交易清单类
 type: docs
 weight: 3160
 url: /zh/net/aspose.finance.ofx.investment/investmenttransactionlist/
 ---
 ## InvestmentTransactionList class
 
-投资交易列表类。
+投资交易清单类
 
 ```csharp
 public class InvestmentTransactionList
@@ -18,16 +18,16 @@ public class InvestmentTransactionList
 
 | 姓名 | 描述 |
 | --- | --- |
-| [InvestmentTransactionList](investmenttransactionlist)() | 初始化[`InvestmentTransactionList`](../investmenttransactionlist)类的新实例。 |
+| [InvestmentTransactionList](investmenttransactionlist)() | 初始化一个新的实例[`InvestmentTransactionList`](../investmenttransactionlist)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
 | [EndDate](../../aspose.finance.ofx.investment/investmenttransactionlist/enddate) { get; set; } | 获取或设置交易数据的结束日期。 |
-| [InvestmentBankTransactions](../../aspose.finance.ofx.investment/investmenttransactionlist/investmentbanktransactions) { get; set; } | 获取或设置[`InvestmentBankTransaction`](../investmentbanktransaction)的集合。 |
-| [InvestmentTransactions](../../aspose.finance.ofx.investment/investmenttransactionlist/investmenttransactions) { get; set; } | 获取或设置[`BuyDebt`](../buydebt)或BuyMutualFund的集合或[`BuyOption`](../buyoption)或[`BuyOther`](../buyother)或[`BuyStock`](../buystock) 或[`ClosureOption`](../closureoption)或[`Income`](../income)或[`InvestmentExpense`](../investmentexpense)或[`JournalFund`](../journalfund)或[`JournalSecurity`](../journalsecurity) 或[`MarginInterest`](../margininterest)或[`Reinvest`](../reinvest)或[`ReturnOfCapital`](../returnofcapital)或[`SellDebt`](../selldebt)或[`SellMutualFund`](../sellmutualfund) 或[`SellOption`](../selloption)或[`SellOther`](../sellother)或[`SellStock`](../sellstock)或[`Split`](../split)或[`Transfer`](../transfer)。 |
-| [StartDate](../../aspose.finance.ofx.investment/investmenttransactionlist/startdate) { get; set; } | 获取或设置事务数据的开始日期。 |
+| [InvestmentBankTransactions](../../aspose.finance.ofx.investment/investmenttransactionlist/investmentbanktransactions) { get; set; } | 获取或设置的集合[`InvestmentBankTransaction`](../investmentbanktransaction). |
+| [InvestmentTransactions](../../aspose.finance.ofx.investment/investmenttransactionlist/investmenttransactions) { get; set; } | 获取或设置的集合[`BuyDebt`](../buydebt)或者[`BuyMutualFund`](../buymutualfund)或者[`BuyOption`](../buyoption)或者[`BuyOther`](../buyother)或者[`BuyStock`](../buystock) 或[`ClosureOption`](../closureoption)或者[`Income`](../income)或者[`InvestmentExpense`](../investmentexpense)或者[`JournalFund`](../journalfund)或者[`JournalSecurity`](../journalsecurity) 或[`MarginInterest`](../margininterest)或者[`Reinvest`](../reinvest)或者[`ReturnOfCapital`](../returnofcapital)或者[`SellDebt`](../selldebt)或者[`SellMutualFund`](../sellmutualfund) 或[`SellOption`](../selloption)或者[`SellOther`](../sellother)或者[`SellStock`](../sellstock)或者[`Split`](../split)或者[`Transfer`](../transfer). |
+| [StartDate](../../aspose.finance.ofx.investment/investmenttransactionlist/startdate) { get; set; } | 获取或设置交易数据的开始日期。 |
 
 ### 也可以看看
 

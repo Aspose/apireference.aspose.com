@@ -18,23 +18,23 @@ public class InlineNonfraction : InlineFact
 
 | Имя | Описание |
 | --- | --- |
-| [ContextRef](../../aspose.finance.xbrl.inline/inlinenonfraction/contextref) { get; set; } | Получает или задает ссылку на[`Context`](../../aspose.finance.xbrl/context)[`InlineNonfraction`](../inlinenonfraction). |
-| [Decimals](../../aspose.finance.xbrl.inline/inlinenonfraction/decimals) { get; set; } | Получает или задает десятичное число для[`InlineNonfraction`](../inlinenonfraction). |
-| [Format](../../aspose.finance.xbrl.inline/inlinenonfraction/format) { get; set; } | Получает или задает формат[`InlineNonfraction`](../inlinenonfraction). |
+| [ContextRef](../../aspose.finance.xbrl.inline/inlinenonfraction/contextref) { get; set; } | Получает или задает ссылку на[`Context`](../../aspose.finance.xbrl/context) принадлежащий[`InlineNonfraction`](../inlinenonfraction) . |
+| [Decimals](../../aspose.finance.xbrl.inline/inlinenonfraction/decimals) { get; set; } | Получает или задает десятичное число[`InlineNonfraction`](../inlinenonfraction) . |
+| [Format](../../aspose.finance.xbrl.inline/inlinenonfraction/format) { get; set; } | Получает или задает формат[`InlineNonfraction`](../inlinenonfraction) . |
 | [Hidden](../../aspose.finance.xbrl.inline/inlinefact/hidden) { get; set; } | Получает или задает, скрыт ли этот факт. |
 | [Id](../../aspose.finance.xbrl.inline/inlinefact/id) { get; set; } | Получает или задает идентификатор встроенного факта. |
 | [InfiniteDecimals](../../aspose.finance.xbrl.inline/inlinenonfraction/infinitedecimals) { get; set; } | Получает или задает, имеет ли он бесконечное десятичное число. |
-| [InfinitePrecision](../../aspose.finance.xbrl.inline/inlinenonfraction/infiniteprecision) { get; set; } | Получает или задает, имеет ли он бесконечную точность. |
+| [InfinitePrecision](../../aspose.finance.xbrl.inline/inlinenonfraction/infiniteprecision) { get; set; } | Получает или задает значение бесконечной точности. |
 | [Name](../../aspose.finance.xbrl.inline/inlinefact/name) { get; set; } | Получает или задает полное имя встроенного факта. |
-| [Order](../../aspose.finance.xbrl.inline/inlinenonfraction/order) { get; set; } | Получает или задает порядок[`InlineNonfraction`](../inlinenonfraction). |
-| [Precision](../../aspose.finance.xbrl.inline/inlinenonfraction/precision) { get; set; } | Получает или задает точность[`InlineNonfraction`](../inlinenonfraction). |
-| [Scale](../../aspose.finance.xbrl.inline/inlinenonfraction/scale) { get; set; } | Получает или задает масштаб[`InlineNonfraction`](../inlinenonfraction). |
-| [SchemaConcept](../../aspose.finance.xbrl.inline/inlinenonfraction/schemaconcept) { get; } | Получает концепцию[`InlineNonfraction`](../inlinenonfraction). |
-| [Sign](../../aspose.finance.xbrl.inline/inlinenonfraction/sign) { get; set; } | Получает или задает знак[`InlineNonfraction`](../inlinenonfraction). |
-| [TargetId](../../aspose.finance.xbrl.inline/inlinenonfraction/targetid) { get; set; } | Получает или задает целевой идентификатор[`InlineNonfraction`](../inlinenonfraction). |
-| [TupleRefId](../../aspose.finance.xbrl.inline/inlinenonfraction/tuplerefid) { get; set; } | Получает или задает идентификатор ссылки на кортеж[`InlineNonfraction`](../inlinenonfraction). |
-| [UnitRef](../../aspose.finance.xbrl.inline/inlinenonfraction/unitref) { get; set; } | Получает или задает ссылку на[`Unit`](../../aspose.finance.xbrl/unit)[`InlineNonfraction`](../inlinenonfraction). |
-| [Value](../../aspose.finance.xbrl.inline/inlinenonfraction/value) { get; set; } | Получает или задает значение[`InlineNonfraction`](../inlinenonfraction). |
+| [Order](../../aspose.finance.xbrl.inline/inlinenonfraction/order) { get; set; } | Получает или задает порядок[`InlineNonfraction`](../inlinenonfraction) . |
+| [Precision](../../aspose.finance.xbrl.inline/inlinenonfraction/precision) { get; set; } | Получает или задает точность[`InlineNonfraction`](../inlinenonfraction) . |
+| [Scale](../../aspose.finance.xbrl.inline/inlinenonfraction/scale) { get; set; } | Получает или задает масштаб[`InlineNonfraction`](../inlinenonfraction) . |
+| [SchemaConcept](../../aspose.finance.xbrl.inline/inlinenonfraction/schemaconcept) { get; } | Получает концепцию[`InlineNonfraction`](../inlinenonfraction) . |
+| [Sign](../../aspose.finance.xbrl.inline/inlinenonfraction/sign) { get; set; } | Получает или задает знак[`InlineNonfraction`](../inlinenonfraction) . |
+| [TargetId](../../aspose.finance.xbrl.inline/inlinenonfraction/targetid) { get; set; } | Получает или задает целевой идентификатор[`InlineNonfraction`](../inlinenonfraction) . |
+| [TupleRefId](../../aspose.finance.xbrl.inline/inlinenonfraction/tuplerefid) { get; set; } | Получает или задает идентификатор ссылки на кортеж[`InlineNonfraction`](../inlinenonfraction) . |
+| [UnitRef](../../aspose.finance.xbrl.inline/inlinenonfraction/unitref) { get; set; } | Получает или задает ссылку на[`Unit`](../../aspose.finance.xbrl/unit) принадлежащий[`InlineNonfraction`](../inlinenonfraction) . |
+| [Value](../../aspose.finance.xbrl.inline/inlinenonfraction/value) { get; set; } | Получает или задает значение[`InlineNonfraction`](../inlinenonfraction) . |
 
 ### Смотрите также
 

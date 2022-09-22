@@ -18,14 +18,14 @@ public class StopCheckRequest
 
 | 姓名 | 描述 |
 | --- | --- |
-| [StopCheckRequest](stopcheckrequest)() | 初始化[`StopCheckRequest`](../stopcheckrequest)类的新实例。 |
+| [StopCheckRequest](stopcheckrequest)() | 初始化一个新的实例[`StopCheckRequest`](../stopcheckrequest)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [BankAccountFrom](../../aspose.finance.ofx.bank/stopcheckrequest/bankaccountfrom) { get; set; } | 获取或设置[`BankAccount`](../../aspose.finance.ofx/bankaccount)的来源。 |
-| [CheckInfo](../../aspose.finance.ofx.bank/stopcheckrequest/checkinfo) { get; set; } | 获取或设置支票信息，[`CheckRange`](../checkrange)或Bank。检查描述。 |
+| [BankAccountFrom](../../aspose.finance.ofx.bank/stopcheckrequest/bankaccountfrom) { get; set; } | 获取或设置 from[`BankAccount`](../../aspose.finance.ofx/bankaccount). |
+| [CheckInfo](../../aspose.finance.ofx.bank/stopcheckrequest/checkinfo) { get; set; } | 获取或设置校验信息，[`CheckRange`](../checkrange)或者[`CheckDescription`](../checkdescription). |
 
 ### 也可以看看
 

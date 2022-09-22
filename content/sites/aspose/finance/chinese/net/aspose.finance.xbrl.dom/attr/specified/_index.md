@@ -1,14 +1,14 @@
 ---
 title: Specified
 second_title: Aspose.Finance for .NET API 参考
-description: 如果该属性在实例文档中被显式地赋予了一个值则为真否则为假
+description: 如果此属性在实例文档中被明确地赋予了一个值则为真否则为假
 type: docs
 weight: 60
 url: /zh/net/aspose.finance.xbrl.dom/attr/specified/
 ---
 ## Attr.Specified property
 
-如果该属性在实例文档中被显式地赋予了一个值，则为真，否则为假。
+如果此属性在实例文档中被明确地赋予了一个值，则为真，否则为假。
 
 ```csharp
 public bool Specified { get; }

@@ -3,7 +3,7 @@ title: TransferStatusEnum
 second_title: Aspose.Finance for .NET API Reference
 description: Transfer processing status values enum.
 type: docs
-weight: 6290
+weight: 6320
 url: /net/aspose.finance.ofx/transferstatusenum/
 ---
 ## TransferStatusEnum enumeration

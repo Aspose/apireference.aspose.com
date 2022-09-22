@@ -1,14 +1,14 @@
 ---
 title: GetToLocs
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает коллекциюLocaspose.finance.xbrl/locвPresentationArcaspose.finance.xbrl/presentationarc.
+description: Получает коллекциюLocaspose.finance.xbrl/loc вPresentationArcaspose.finance.xbrl/presentationarc .
 type: docs
 weight: 30
 url: /ru/net/aspose.finance.xbrl/presentationarc/gettolocs/
 ---
 ## PresentationArc.GetToLocs method
 
-Получает коллекцию[`Loc`](../../loc)в[`PresentationArc`](../../presentationarc).
+Получает коллекцию[`Loc`](../../loc) в[`PresentationArc`](../../presentationarc) .
 
 ```csharp
 public List<Loc> GetToLocs()

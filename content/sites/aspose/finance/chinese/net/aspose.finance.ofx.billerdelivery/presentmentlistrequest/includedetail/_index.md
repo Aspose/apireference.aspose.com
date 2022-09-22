@@ -1,14 +1,14 @@
 ---
 title: IncludeDetail
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置指示账单详细信息也应包括在内的标志
+description: 获取或设置指示账单明细也应包括在内的标志
 type: docs
 weight: 130
 url: /zh/net/aspose.finance.ofx.billerdelivery/presentmentlistrequest/includedetail/
 ---
 ## PresentmentListRequest.IncludeDetail property
 
-获取或设置指示账单详细信息也应包括在内的标志。
+获取或设置指示账单明细也应包括在内的标志。
 
 ```csharp
 public bool IncludeDetail { get; set; }

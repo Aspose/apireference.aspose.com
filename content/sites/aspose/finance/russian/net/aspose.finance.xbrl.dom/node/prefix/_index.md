@@ -1,14 +1,14 @@
 ---
 title: Prefix
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает префикс пространства имен данного узла.
+description: Получает или задает префикс пространства имен этого узла.
 type: docs
 weight: 140
 url: /ru/net/aspose.finance.xbrl.dom/node/prefix/
 ---
 ## Node.Prefix property
 
-Получает или задает префикс пространства имен данного узла.
+Получает или задает префикс пространства имен этого узла.
 
 ```csharp
 public virtual string Prefix { get; set; }

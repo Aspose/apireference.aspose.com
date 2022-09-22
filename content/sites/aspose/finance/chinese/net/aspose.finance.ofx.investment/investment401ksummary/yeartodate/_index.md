@@ -1,14 +1,14 @@
 ---
 title: YearToDate
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置本日历年迄今为止的贡献
+description: 获取或设置本日历年截至日期的供款
 type: docs
 weight: 40
 url: /zh/net/aspose.finance.ofx.investment/investment401ksummary/yeartodate/
 ---
 ## Investment401kSummary.YearToDate property
 
-获取或设置本日历年迄今为止的贡献。
+获取或设置本日历年截至日期的供款。
 
 ```csharp
 public YearToDate YearToDate { get; set; }

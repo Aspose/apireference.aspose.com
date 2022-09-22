@@ -1,14 +1,14 @@
 ---
 title: InfinitePrecision
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает имеет ли он бесконечную точность.
+description: Получает или задает значение бесконечной точности.
 type: docs
 weight: 50
 url: /ru/net/aspose.finance.xbrl.inline/inlinenonfraction/infiniteprecision/
 ---
 ## InlineNonfraction.InfinitePrecision property
 
-Получает или задает, имеет ли он бесконечную точность.
+Получает или задает значение бесконечной точности.
 
 ```csharp
 public bool InfinitePrecision { get; set; }

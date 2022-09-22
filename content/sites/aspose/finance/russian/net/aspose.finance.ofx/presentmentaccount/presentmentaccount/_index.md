@@ -1,14 +1,14 @@
 ---
 title: PresentmentAccount
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаPresentmentAccountaspose.finance.ofx/presentmentaccount.
+description: Инициализирует новый экземплярPresentmentAccountaspose.finance.ofx/presentmentaccount класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx/presentmentaccount/presentmentaccount/
 ---
 ## PresentmentAccount constructor
 
-Инициализирует новый экземпляр класса[`PresentmentAccount`](../../presentmentaccount).
+Инициализирует новый экземпляр[`PresentmentAccount`](../../presentmentaccount) класс.
 
 ```csharp
 public PresentmentAccount()

@@ -3,7 +3,7 @@ title: XbrlInstanceCollection
 second_title: Справочник по API Aspose.Finance для .NET
 description: Коллекция экземпляров XBRL.
 type: docs
-weight: 8200
+weight: 8210
 url: /ru/net/aspose.finance.xbrl/xbrlinstancecollection/
 ---
 ## XbrlInstanceCollection class
@@ -19,15 +19,15 @@ public class XbrlInstanceCollection : IEnumerable<XbrlInstance>
 | Имя | Описание |
 | --- | --- |
 | [Count](../../aspose.finance.xbrl/xbrlinstancecollection/count) { get; } | Количество экземпляров XBRL в этой коллекции. |
-| [Item](../../aspose.finance.xbrl/xbrlinstancecollection/item) { get; set; } | Получает и устанавливает элемент[`XbrlInstance`](../xbrlinstance)по указанному индексу в коллекции. |
-| [XbrlDocument](../../aspose.finance.xbrl/xbrlinstancecollection/xbrldocument) { get; } | Получает[`XbrlDocument`](./xbrldocument), который содержит эту коллекцию экземпляров XBRL. |
+| [Item](../../aspose.finance.xbrl/xbrlinstancecollection/item) { get; set; } | Получает и устанавливает[`XbrlInstance`](../xbrlinstance) элемент по указанному индексу в коллекции. |
+| [XbrlDocument](../../aspose.finance.xbrl/xbrlinstancecollection/xbrldocument) { get; } | Получает[`XbrlDocument`](./xbrldocument) который содержит эту коллекцию экземпляров XBRL. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| [Add](../../aspose.finance.xbrl/xbrlinstancecollection/add)() | Добавьте[`XbrlInstance`](../xbrlinstance)в коллекцию. |
-| [GetEnumerator](../../aspose.finance.xbrl/xbrlinstancecollection/getenumerator)() | Возвращает перечислитель, выполняющий итерацию по коллекции. |
+| [Add](../../aspose.finance.xbrl/xbrlinstancecollection/add)() | Добавить[`XbrlInstance`](../xbrlinstance)в коллекцию. |
+| [GetEnumerator](../../aspose.finance.xbrl/xbrlinstancecollection/getenumerator)() | Возвращает перечислитель, который выполняет итерацию по коллекции. |
 
 ### Смотрите также
 

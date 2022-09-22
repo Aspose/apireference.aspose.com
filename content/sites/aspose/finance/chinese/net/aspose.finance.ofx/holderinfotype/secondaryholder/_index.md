@@ -1,14 +1,14 @@
 ---
 title: SecondaryHolder
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置AccountHolderTypeaspose.finance.ofx/accountholdertype的第二个
+description: 获取或设置第二个AccountHolderTypeaspose.finance.ofx/accountholdertype.
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.ofx/holderinfotype/secondaryholder/
 ---
 ## HolderInfoType.SecondaryHolder property
 
-获取或设置[`AccountHolderType`](../../accountholdertype)的第二个。
+获取或设置第二个[`AccountHolderType`](../../accountholdertype).
 
 ```csharp
 public AccountHolderType SecondaryHolder { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: StockType
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает тип материала
+description: Получает или задает тип запаса
 type: docs
 weight: 40
 url: /ru/net/aspose.finance.ofx.securitieslist/stockinfo/stocktype/
 ---
 ## StockInfo.StockType property
 
-Получает или задает тип материала
+Получает или задает тип запаса
 
 ```csharp
 public StockEnum StockType { get; set; }

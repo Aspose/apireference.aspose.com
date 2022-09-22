@@ -1,14 +1,14 @@
 ---
 title: CanNotify
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает возвращает ли серверDepositMailResponseилиCheckMailResponseв ответах синхронизации.
+description: Получает или устанавливает возвращает ли серверDepositMailResponse или жеCheckMailResponse в ответах на синхронизацию.
 type: docs
 weight: 30
 url: /ru/net/aspose.finance.ofx.profile/emailprofile/cannotify/
 ---
 ## EmailProfile.CanNotify property
 
-Получает или задает, возвращает ли сервер!:DepositMailResponseили!:CheckMailResponseв ответах синхронизации.
+Получает или устанавливает, возвращает ли сервер!:DepositMailResponse или же!:CheckMailResponse в ответах на синхронизацию.
 
 ```csharp
 public bool CanNotify { get; set; }

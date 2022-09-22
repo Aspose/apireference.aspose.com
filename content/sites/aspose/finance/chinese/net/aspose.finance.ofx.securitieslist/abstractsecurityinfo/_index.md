@@ -18,7 +18,7 @@ public abstract class AbstractSecurityInfo
 
 | 姓名 | 描述 |
 | --- | --- |
-| [SecurityInfo](../../aspose.finance.ofx.securitieslist/abstractsecurityinfo/securityinfo) { get; set; } | 获取或设置[`GeneralSecurityInfo`](../generalsecurityinfo)。 |
+| [SecurityInfo](../../aspose.finance.ofx.securitieslist/abstractsecurityinfo/securityinfo) { get; set; } | 获取或设置[`GeneralSecurityInfo`](../generalsecurityinfo). |
 
 ### 也可以看看
 

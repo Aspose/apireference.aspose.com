@@ -1,14 +1,14 @@
 ---
 title: Links
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает коллекциюPresentationLinkaspose.finance.xbrl/presentationlink.
+description: Получает коллекциюPresentationLinkaspose.finance.xbrl/presentationlink .
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.xbrl/presentationlinkbaseref/links/
 ---
 ## PresentationLinkbaseRef.Links property
 
-Получает коллекцию[`PresentationLink`](../../presentationlink).
+Получает коллекцию[`PresentationLink`](../../presentationlink) .
 
 ```csharp
 public List<PresentationLink> Links { get; }

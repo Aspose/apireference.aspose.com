@@ -3,7 +3,7 @@ title: PositionTypeEnum
 second_title: Aspose.Finance for .NET API Reference
 description: Position type enum.
 type: docs
-weight: 3420
+weight: 3430
 url: /net/aspose.finance.ofx.investment/positiontypeenum/
 ---
 ## PositionTypeEnum enumeration

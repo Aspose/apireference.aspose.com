@@ -1,14 +1,14 @@
 ---
 title: AbstractInvestmentBuyTransaction
 second_title: Справочник по API Aspose.Finance для .NET
-description: Абстрактный базовый класс классов связанных с инвестиционной покупкой.
+description: Абстрактный базовый класс классов связанных с инвестиционной транзакцией покупки.
 type: docs
 weight: 2610
 url: /ru/net/aspose.finance.ofx.investment/abstractinvestmentbuytransaction/
 ---
 ## AbstractInvestmentBuyTransaction class
 
-Абстрактный базовый класс классов, связанных с инвестиционной покупкой.
+Абстрактный базовый класс классов, связанных с инвестиционной транзакцией покупки.
 
 ```csharp
 public abstract class AbstractInvestmentBuyTransaction : AbstractInvestmentTransactionBase
@@ -18,7 +18,7 @@ public abstract class AbstractInvestmentBuyTransaction : AbstractInvestmentTrans
 
 | Имя | Описание |
 | --- | --- |
-| [InvestmentBuy](../../aspose.finance.ofx.investment/abstractinvestmentbuytransaction/investmentbuy) { get; set; } | Получает или задает[`InvestmentBuy`](./investmentbuy). |
+| [InvestmentBuy](../../aspose.finance.ofx.investment/abstractinvestmentbuytransaction/investmentbuy) { get; set; } | Получает или задает[`InvestmentBuy`](./investmentbuy) . |
 
 ### Смотрите также
 

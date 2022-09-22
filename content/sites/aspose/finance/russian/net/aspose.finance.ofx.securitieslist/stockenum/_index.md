@@ -1,14 +1,14 @@
 ---
 title: StockEnum
 second_title: Справочник по API Aspose.Finance для .NET
-description: Тип акции enum.
+description: Тип запаса enum.
 type: docs
 weight: 5180
 url: /ru/net/aspose.finance.ofx.securitieslist/stockenum/
 ---
 ## StockEnum enumeration
 
-Тип акции enum.
+Тип запаса enum.
 
 ```csharp
 public enum StockEnum
@@ -18,7 +18,7 @@ public enum StockEnum
 
 | Имя | Ценность | Описание |
 | --- | --- | --- |
-| COMMON | `0` | Обычный |
+| COMMON | `0` | Общий |
 | PREFERRED | `1` | Предпочтительный |
 | CONVERTIBLE | `2` | Кабриолет |
 | OTHER | `3` | Другое |

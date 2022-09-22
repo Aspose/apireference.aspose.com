@@ -1,14 +1,14 @@
 ---
 title: PresentmentGroupAccountInfoTransactionResponse
 second_title: Справочник по API Aspose.Finance для .NET
-description: Класс ответа транзакции с информацией об учетной записи группы.
+description: Класс ответа на транзакцию с информацией об учетной записи группы.
 type: docs
 weight: 1680
 url: /ru/net/aspose.finance.ofx.billerdelivery/presentmentgroupaccountinfotransactionresponse/
 ---
 ## PresentmentGroupAccountInfoTransactionResponse class
 
-Класс ответа транзакции с информацией об учетной записи группы.
+Класс ответа на транзакцию с информацией об учетной записи группы.
 
 ```csharp
 public class PresentmentGroupAccountInfoTransactionResponse : AbstractTransactionResponse
@@ -18,16 +18,16 @@ public class PresentmentGroupAccountInfoTransactionResponse : AbstractTransactio
 
 | Имя | Описание |
 | --- | --- |
-| [PresentmentGroupAccountInfoTransactionResponse](presentmentgroupaccountinfotransactionresponse)() | Инициализирует новый экземпляр класса[`PresentmentGroupAccountInfoTransactionResponse`](../presentmentgroupaccountinfotransactionresponse). |
+| [PresentmentGroupAccountInfoTransactionResponse](presentmentgroupaccountinfotransactionresponse)() | Инициализирует новый экземпляр[`PresentmentGroupAccountInfoTransactionResponse`](../presentmentgroupaccountinfotransactionresponse) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [AccountInfoResponse](../../aspose.finance.ofx.billerdelivery/presentmentgroupaccountinfotransactionresponse/accountinforesponse) { get; set; } | Получает или задает[`AccountInfoResponse`](./accountinforesponse). |
-| [ClientCookie](../../aspose.finance.ofx/abstracttransactionresponse/clientcookie) { get; set; } | Получает или задает данные, которые будут отображаться в ответе транзакции |
-| [OfxExtension](../../aspose.finance.ofx.billerdelivery/presentmentgroupaccountinfotransactionresponse/ofxextension) { get; set; } | Получает или задает[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
-| [Status](../../aspose.finance.ofx/abstracttransactionresponse/status) { get; set; } | Получает или задает[`Status`](../../aspose.finance.ofx/abstracttransactionresponse/status). |
+| [AccountInfoResponse](../../aspose.finance.ofx.billerdelivery/presentmentgroupaccountinfotransactionresponse/accountinforesponse) { get; set; } | Получает или задает[`AccountInfoResponse`](./accountinforesponse) . |
+| [ClientCookie](../../aspose.finance.ofx/abstracttransactionresponse/clientcookie) { get; set; } | Получает или задает данные, которые будут отражены в транзакции response |
+| [OfxExtension](../../aspose.finance.ofx.billerdelivery/presentmentgroupaccountinfotransactionresponse/ofxextension) { get; set; } | Получает или задает[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype) . |
+| [Status](../../aspose.finance.ofx/abstracttransactionresponse/status) { get; set; } | Получает или задает[`Status`](../../aspose.finance.ofx/abstracttransactionresponse/status) . |
 | [TransactionUniqueId](../../aspose.finance.ofx/abstracttransactionresponse/transactionuniqueid) { get; set; } | Получает или задает назначенный клиентом глобальный уникальный идентификатор для этой транзакции. |
 
 ### Смотрите также

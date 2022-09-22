@@ -1,14 +1,14 @@
 ---
 title: AccountInfoResponse
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化AccountInfoResponseaspose.finance.ofx/accountinforesponse类的新实例
+description: 初始化一个新的实例AccountInfoResponseaspose.finance.ofx/accountinforesponse类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx/accountinforesponse/accountinforesponse/
 ---
 ## AccountInfoResponse constructor
 
-初始化[`AccountInfoResponse`](../../accountinforesponse)类的新实例。
+初始化一个新的实例[`AccountInfoResponse`](../../accountinforesponse)类.
 
 ```csharp
 public AccountInfoResponse()

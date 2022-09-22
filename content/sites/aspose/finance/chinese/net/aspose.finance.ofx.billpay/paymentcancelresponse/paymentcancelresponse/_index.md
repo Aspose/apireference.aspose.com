@@ -1,14 +1,14 @@
 ---
 title: PaymentCancelResponse
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化PaymentCancelResponseaspose.finance.ofx.billpay/paymentcancelresponse类的新实例
+description: 初始化一个新的实例PaymentCancelResponseaspose.finance.ofx.billpay/paymentcancelresponse类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.billpay/paymentcancelresponse/paymentcancelresponse/
 ---
 ## PaymentCancelResponse constructor
 
-初始化[`PaymentCancelResponse`](../../paymentcancelresponse)类的新实例。
+初始化一个新的实例[`PaymentCancelResponse`](../../paymentcancelresponse)类.
 
 ```csharp
 public PaymentCancelResponse()

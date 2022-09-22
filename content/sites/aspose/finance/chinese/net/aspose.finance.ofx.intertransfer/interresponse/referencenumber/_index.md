@@ -1,14 +1,14 @@
 ---
 title: ReferenceNumber
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置参考号服务器可以生成引用或检查传输
+description: 获取或设置参考号服务器可以生成参考或检查 transfer
 type: docs
 weight: 40
 url: /zh/net/aspose.finance.ofx.intertransfer/interresponse/referencenumber/
 ---
 ## InterResponse.ReferenceNumber property
 
-获取或设置参考号。服务器可以生成引用或检查传输
+获取或设置参考号。服务器可以生成参考或检查 transfer
 
 ```csharp
 public string ReferenceNumber { get; set; }

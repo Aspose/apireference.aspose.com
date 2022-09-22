@@ -1,14 +1,14 @@
 ---
 title: InvestmentStatementEndRequest
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаInvestmentStatementEndRequestaspose.finance.ofx.investment/investmentstatementendrequest.
+description: Инициализирует новый экземплярInvestmentStatementEndRequestaspose.finance.ofx.investment/investmentstatementendrequest класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.investment/investmentstatementendrequest/investmentstatementendrequest/
 ---
 ## InvestmentStatementEndRequest constructor
 
-Инициализирует новый экземпляр класса[`InvestmentStatementEndRequest`](../../investmentstatementendrequest).
+Инициализирует новый экземпляр[`InvestmentStatementEndRequest`](../../investmentstatementendrequest) класс.
 
 ```csharp
 public InvestmentStatementEndRequest()

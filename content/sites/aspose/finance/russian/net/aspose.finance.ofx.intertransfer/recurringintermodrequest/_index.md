@@ -18,16 +18,16 @@ public class RecurringInterModRequest : AbstractRecurringInterRequest
 
 | Имя | Описание |
 | --- | --- |
-| [RecurringInterModRequest](recurringintermodrequest)() | Инициализирует новый экземпляр класса[`RecurringInterModRequest`](../recurringintermodrequest). |
+| [RecurringInterModRequest](recurringintermodrequest)() | Инициализирует новый экземпляр[`RecurringInterModRequest`](../recurringintermodrequest) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [InterRequest](../../aspose.finance.ofx.intertransfer/recurringintermodrequest/interrequest) { get; set; } | Получает или задает[`InterRequest`](./interrequest). |
+| [InterRequest](../../aspose.finance.ofx.intertransfer/recurringintermodrequest/interrequest) { get; set; } | Получает или задает[`InterRequest`](./interrequest) . |
 | [ModifyPending](../../aspose.finance.ofx.intertransfer/recurringintermodrequest/modifypending) { get; set; } | Получает или устанавливает флаг ожидания изменения. Если клиент устанавливает этот флаг, сервер должен изменить ожидающие и будущие передачи. |
-| [RecurringInstructions](../../aspose.finance.ofx.intertransfer/recurringintermodrequest/recurringinstructions) { get; set; } | Получает или задает[`RecurringInstructions`](./recurringinstructions). |
-| [RecurringServerId](../../aspose.finance.ofx.intertransfer/recurringintermodrequest/recurringserverid) { get; set; } | Получает или задает идентификатор, присвоенный сервером модифицируемой модели. |
+| [RecurringInstructions](../../aspose.finance.ofx.intertransfer/recurringintermodrequest/recurringinstructions) { get; set; } | Получает или задает[`RecurringInstructions`](./recurringinstructions) . |
+| [RecurringServerId](../../aspose.finance.ofx.intertransfer/recurringintermodrequest/recurringserverid) { get; set; } | Получает или задает идентификатор, назначенный сервером модифицируемой модели. |
 
 ### Смотрите также
 

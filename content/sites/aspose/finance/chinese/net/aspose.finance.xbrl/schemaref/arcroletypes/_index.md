@@ -1,14 +1,14 @@
 ---
 title: ArcroleTypes
 second_title: Aspose.Finance for .NET API 参考
-description: 获取架构中ArcroleTypeaspose.finance.xbrl/arcroletype对象的集合
+description: 获取集合ArcroleTypeaspose.finance.xbrl/arcroletype架构中的对象
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.xbrl/schemaref/arcroletypes/
 ---
 ## SchemaRef.ArcroleTypes property
 
-获取架构中[`ArcroleType`](../../arcroletype)对象的集合。
+获取集合[`ArcroleType`](../../arcroletype)架构中的对象。
 
 ```csharp
 public List<ArcroleType> ArcroleTypes { get; set; }

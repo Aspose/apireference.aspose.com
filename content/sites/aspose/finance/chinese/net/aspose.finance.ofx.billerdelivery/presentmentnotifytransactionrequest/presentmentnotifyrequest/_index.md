@@ -1,14 +1,14 @@
 ---
 title: PresentmentNotifyRequest
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置PresentmentNotifyRequestaspose.finance.ofx.billerdelivery/presentmentnotifytransactionrequest/presentmentnotifyrequest
+description: 获取或设置PresentmentNotifyRequestaspose.finance.ofx.billerdelivery/presentmentnotifytransactionrequest/presentmentnotifyrequest.
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.ofx.billerdelivery/presentmentnotifytransactionrequest/presentmentnotifyrequest/
 ---
 ## PresentmentNotifyTransactionRequest.PresentmentNotifyRequest property
 
-获取或设置`PresentmentNotifyRequest`。
+获取或设置`PresentmentNotifyRequest`.
 
 ```csharp
 public PresentmentNotifyRequest PresentmentNotifyRequest { get; set; }

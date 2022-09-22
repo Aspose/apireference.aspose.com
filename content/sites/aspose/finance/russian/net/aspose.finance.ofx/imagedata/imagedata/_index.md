@@ -1,14 +1,14 @@
 ---
 title: ImageData
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаImageDataaspose.finance.ofx/imagedata.
+description: Инициализирует новый экземплярImageDataaspose.finance.ofx/imagedata класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx/imagedata/imagedata/
 ---
 ## ImageData constructor
 
-Инициализирует новый экземпляр класса[`ImageData`](../../imagedata).
+Инициализирует новый экземпляр[`ImageData`](../../imagedata) класс.
 
 ```csharp
 public ImageData()

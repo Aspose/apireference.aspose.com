@@ -18,13 +18,13 @@ public class ExtendedPaymentInvoice
 
 | Имя | Описание |
 | --- | --- |
-| [ExtendedPaymentInvoice](extendedpaymentinvoice)() | Инициализирует новый экземпляр класса[`ExtendedPaymentInvoice`](../extendedpaymentinvoice). |
+| [ExtendedPaymentInvoice](extendedpaymentinvoice)() | Инициализирует новый экземпляр[`ExtendedPaymentInvoice`](../extendedpaymentinvoice) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [Invoices](../../aspose.finance.ofx.billpay/extendedpaymentinvoice/invoices) { get; set; } | Получает или задает коллекцию[`Invoice`](../../aspose.finance.ofx/invoice). |
+| [Invoices](../../aspose.finance.ofx.billpay/extendedpaymentinvoice/invoices) { get; set; } | Получает или задает коллекцию[`Invoice`](../../aspose.finance.ofx/invoice) . |
 
 ### Смотрите также
 

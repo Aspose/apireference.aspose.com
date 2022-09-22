@@ -8,7 +8,7 @@ url: /zh/net/aspose.finance.ofx.billpay/payeedeleterequest/
 ---
 ## PayeeDeleteRequest class
 
-收款人删除请求类。
+收款人删除请求类
 
 ```csharp
 public class PayeeDeleteRequest : AbstractPayeeRequest
@@ -18,13 +18,13 @@ public class PayeeDeleteRequest : AbstractPayeeRequest
 
 | 姓名 | 描述 |
 | --- | --- |
-| [PayeeDeleteRequest](payeedeleterequest)() | 初始化[`PayeeDeleteRequest`](../payeedeleterequest)类的新实例。 |
+| [PayeeDeleteRequest](payeedeleterequest)() | 初始化一个新的实例[`PayeeDeleteRequest`](../payeedeleterequest)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [PayeeListId](../../aspose.finance.ofx.billpay/payeedeleterequest/payeelistid) { get; set; } | 获取或设置此收款人记录的服务器分配记录ID。 |
+| [PayeeListId](../../aspose.finance.ofx.billpay/payeedeleterequest/payeelistid) { get; set; } | 获取或设置此收款人记录的服务器分配记录 ID。 |
 
 ### 也可以看看
 

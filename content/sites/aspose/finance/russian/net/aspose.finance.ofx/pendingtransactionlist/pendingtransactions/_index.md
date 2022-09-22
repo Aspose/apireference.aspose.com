@@ -1,14 +1,14 @@
 ---
 title: PendingTransactions
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает коллекциюPendingTransactionaspose.finance.ofx/pendingtransaction.
+description: Получает или задает коллекциюPendingTransactionaspose.finance.ofx/pendingtransaction .
 type: docs
 weight: 30
 url: /ru/net/aspose.finance.ofx/pendingtransactionlist/pendingtransactions/
 ---
 ## PendingTransactionList.PendingTransactions property
 
-Получает или задает коллекцию[`PendingTransaction`](../../pendingtransaction).
+Получает или задает коллекцию[`PendingTransaction`](../../pendingtransaction) .
 
 ```csharp
 public List<PendingTransaction> PendingTransactions { get; set; }

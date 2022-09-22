@@ -1,14 +1,14 @@
 ---
 title: InvestmentAccountInfo
 second_title: Справочник по API Aspose.Finance для .NET
-description: Информационный класс инвестиционного счета.
+description: Класс информации инвестиционного счета.
 type: docs
 weight: 3650
 url: /ru/net/aspose.finance.ofx/investmentaccountinfo/
 ---
 ## InvestmentAccountInfo class
 
-Информационный класс инвестиционного счета.
+Класс информации инвестиционного счета.
 
 ```csharp
 public class InvestmentAccountInfo : AbstractAccountInfo
@@ -18,14 +18,14 @@ public class InvestmentAccountInfo : AbstractAccountInfo
 
 | Имя | Описание |
 | --- | --- |
-| [InvestmentAccountInfo](investmentaccountinfo)() | Инициализирует новый экземпляр класса[`InvestmentAccountInfo`](../investmentaccountinfo). |
+| [InvestmentAccountInfo](investmentaccountinfo)() | Инициализирует новый экземпляр[`InvestmentAccountInfo`](../investmentaccountinfo) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [Checking](../../aspose.finance.ofx/investmentaccountinfo/checking) { get; set; } | Получает или задает, имеет ли учетная запись права на запись проверки. |
-| [InvestmentAccountFrom](../../aspose.finance.ofx/investmentaccountinfo/investmentaccountfrom) { get; set; } | Получает или задает значение из[`InvestmentAccount`](../investmentaccount). |
+| [Checking](../../aspose.finance.ofx/investmentaccountinfo/checking) { get; set; } | Получает или задает, имеет ли учетная запись права на запись чеков. |
+| [InvestmentAccountFrom](../../aspose.finance.ofx/investmentaccountinfo/investmentaccountfrom) { get; set; } | Получает или задает из[`InvestmentAccount`](../investmentaccount) . |
 | [InvestmentAccountType](../../aspose.finance.ofx/investmentaccountinfo/investmentaccounttype) { get; set; } | Получает или задает тип учетной записи. |
 | [OptionLevel](../../aspose.finance.ofx/investmentaccountinfo/optionlevel) { get; set; } | Получает или задает текстовое описание привилегий торговли опционами. |
 | [ServiceStatus](../../aspose.finance.ofx/investmentaccountinfo/servicestatus) { get; set; } | Получает или задает статус активации для загрузки отчета об инвестициях для учетной записи. |

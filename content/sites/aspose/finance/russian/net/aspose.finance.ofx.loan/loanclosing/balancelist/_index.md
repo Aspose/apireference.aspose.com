@@ -1,14 +1,14 @@
 ---
 title: BalanceList
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает коллекциюBalanceaspose.finance.ofx/balance.
+description: Получает или задает коллекциюBalanceaspose.finance.ofx/balance .
 type: docs
 weight: 30
 url: /ru/net/aspose.finance.ofx.loan/loanclosing/balancelist/
 ---
 ## LoanClosing.BalanceList property
 
-Получает или задает коллекцию[`Balance`](../../../aspose.finance.ofx/balance).
+Получает или задает коллекцию[`Balance`](../../../aspose.finance.ofx/balance) .
 
 ```csharp
 public List<Balance> BalanceList { get; set; }

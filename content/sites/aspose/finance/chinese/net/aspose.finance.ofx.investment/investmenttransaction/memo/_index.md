@@ -1,14 +1,14 @@
 ---
 title: Memo
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置有关事务的其他信息
+description: 获取或设置交易的其他信息
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.ofx.investment/investmenttransaction/memo/
 ---
 ## InvestmentTransaction.Memo property
 
-获取或设置有关事务的其他信息。
+获取或设置交易的其他信息。
 
 ```csharp
 public string Memo { get; set; }

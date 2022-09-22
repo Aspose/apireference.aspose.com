@@ -1,14 +1,14 @@
 ---
 title: ReferencePart
 second_title: Справочник по API Aspose.Finance для .NET
-description: Дочерний членReference./reference.
+description: Дочерний элементReference./reference .
 type: docs
 weight: 7940
 url: /ru/net/aspose.finance.xbrl/referencepart/
 ---
 ## ReferencePart class
 
-Дочерний член[`Reference`](../reference).
+Дочерний элемент[`Reference`](../reference) .
 
 ```csharp
 public class ReferencePart

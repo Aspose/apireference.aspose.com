@@ -1,14 +1,14 @@
 ---
 title: IncludeBillPaymentStatus
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置应包含账单支付状态的标志
+description: 获取或设置应包括账单支付状态的标志
 type: docs
 weight: 100
 url: /zh/net/aspose.finance.ofx.billerdelivery/presentmentlistrequest/includebillpaymentstatus/
 ---
 ## PresentmentListRequest.IncludeBillPaymentStatus property
 
-获取或设置应包含账单支付状态的标志。
+获取或设置应包括账单支付状态的标志。
 
 ```csharp
 public bool IncludeBillPaymentStatus { get; set; }

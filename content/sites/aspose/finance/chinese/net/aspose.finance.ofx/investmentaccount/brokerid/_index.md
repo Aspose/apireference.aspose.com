@@ -1,14 +1,14 @@
 ---
 title: BrokerId
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置 FI 的唯一标识符
+description: 获取或设置 FI. 的唯一标识符
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.ofx/investmentaccount/brokerid/
 ---
 ## InvestmentAccount.BrokerId property
 
-获取或设置 FI 的唯一标识符。
+获取或设置 FI. 的唯一标识符
 
 ```csharp
 public string BrokerId { get; set; }

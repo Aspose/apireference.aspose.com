@@ -1,14 +1,14 @@
 ---
 title: PresentmentAccountInfo
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化PresentmentAccountInfoaspose.finance.ofx/presentmentaccountinfo类的新实例
+description: 初始化一个新的实例PresentmentAccountInfoaspose.finance.ofx/presentmentaccountinfo类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx/presentmentaccountinfo/presentmentaccountinfo/
 ---
 ## PresentmentAccountInfo constructor
 
-初始化[`PresentmentAccountInfo`](../../presentmentaccountinfo)类的新实例。
+初始化一个新的实例[`PresentmentAccountInfo`](../../presentmentaccountinfo)类.
 
 ```csharp
 public PresentmentAccountInfo()

@@ -16,13 +16,13 @@ public class ProfileMessageSetV1 : AbstractMessageSetVersion
 
 | Имя | Описание |
 | --- | --- |
-| [ProfileMessageSetV1](profilemessagesetv1)() | Инициализирует новый экземпляр класса[`ProfileMessageSetV1`](../profilemessagesetv1). |
+| [ProfileMessageSetV1](profilemessagesetv1)() | Инициализирует новый экземпляр[`ProfileMessageSetV1`](../profilemessagesetv1) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [MessageSetCore](../../aspose.finance.ofx.profile/abstractmessagesetversion/messagesetcore) { get; set; } | Получает или задает[`MessageSetCore`](../abstractmessagesetversion/messagesetcore). |
+| [MessageSetCore](../../aspose.finance.ofx.profile/abstractmessagesetversion/messagesetcore) { get; set; } | Получает или задает[`MessageSetCore`](../abstractmessagesetversion/messagesetcore) . |
 
 ### Смотрите также
 

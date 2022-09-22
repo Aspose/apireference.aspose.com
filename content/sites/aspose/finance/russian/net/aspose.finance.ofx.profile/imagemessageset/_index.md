@@ -18,13 +18,13 @@ public class ImageMessageSet : AbstractMessageSet
 
 | Имя | Описание |
 | --- | --- |
-| [ImageMessageSet](imagemessageset)() | Инициализирует новый экземпляр класса[`ImageMessageSet`](../imagemessageset). |
+| [ImageMessageSet](imagemessageset)() | Инициализирует новый экземпляр[`ImageMessageSet`](../imagemessageset) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [ImageMessageSetV1](../../aspose.finance.ofx.profile/imagemessageset/imagemessagesetv1) { get; set; } | Получает или задает[`ImageMessageSetV1`](./imagemessagesetv1). |
+| [ImageMessageSetV1](../../aspose.finance.ofx.profile/imagemessageset/imagemessagesetv1) { get; set; } | Получает или задает[`ImageMessageSetV1`](./imagemessagesetv1) . |
 
 ### Смотрите также
 

@@ -1,14 +1,14 @@
 ---
 title: ChallengeTransactionResponse
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаChallengeTransactionResponseaspose.finance.ofx.signon/challengetransactionresponse.
+description: Инициализирует новый экземплярChallengeTransactionResponseaspose.finance.ofx.signon/challengetransactionresponse класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.signon/challengetransactionresponse/challengetransactionresponse/
 ---
 ## ChallengeTransactionResponse constructor
 
-Инициализирует новый экземпляр класса[`ChallengeTransactionResponse`](../../challengetransactionresponse).
+Инициализирует новый экземпляр[`ChallengeTransactionResponse`](../../challengetransactionresponse) класс.
 
 ```csharp
 public ChallengeTransactionResponse()

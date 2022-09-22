@@ -1,14 +1,14 @@
 ---
 title: InvestmentMailSyncResponse
 second_title: Справочник по API Aspose.Finance для .NET
-description: Электронная почта инвестиций Класс ответа синхронизации.
+description: Инвестиционная электронная почта Класс ответа на синхронизацию.
 type: docs
 weight: 3000
 url: /ru/net/aspose.finance.ofx.investment/investmentmailsyncresponse/
 ---
 ## InvestmentMailSyncResponse class
 
-Электронная почта инвестиций Класс ответа синхронизации.
+Инвестиционная электронная почта Класс ответа на синхронизацию.
 
 ```csharp
 public class InvestmentMailSyncResponse : AbstractSyncResponse
@@ -18,16 +18,16 @@ public class InvestmentMailSyncResponse : AbstractSyncResponse
 
 | Имя | Описание |
 | --- | --- |
-| [InvestmentMailSyncResponse](investmentmailsyncresponse)() | Инициализирует новый экземпляр класса[`InvestmentMailSyncResponse`](../investmentmailsyncresponse). |
+| [InvestmentMailSyncResponse](investmentmailsyncresponse)() | Инициализирует новый экземпляр[`InvestmentMailSyncResponse`](../investmentmailsyncresponse) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [InvestmentAccountFrom](../../aspose.finance.ofx.investment/investmentmailsyncresponse/investmentaccountfrom) { get; set; } | Получает или задает значение из[`InvestmentAccount`](../../aspose.finance.ofx/investmentaccount). |
-| [InvestmentMailTransactionResponses](../../aspose.finance.ofx.investment/investmentmailsyncresponse/investmentmailtransactionresponses) { get; set; } | Получает или задает коллекцию[`InvestmentMailTransactionResponse`](../investmentmailtransactionresponse). |
-| [LostSynchronization](../../aspose.finance.ofx/abstractsyncresponse/lostsynchronization) { get; set; } | Да, если токен в запросе на синхронизацию старше, чем самая ранняя запись в таблице истории сервера. В этом случае некоторые ответы были потеряны. Нет, если токен в запросе на синхронизацию новее или совпадает с токеном в таблице истории сервера. |
-| [OfxExtension](../../aspose.finance.ofx.investment/investmentmailsyncresponse/ofxextension) { get; set; } | Получает или задает[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
+| [InvestmentAccountFrom](../../aspose.finance.ofx.investment/investmentmailsyncresponse/investmentaccountfrom) { get; set; } | Получает или задает из[`InvestmentAccount`](../../aspose.finance.ofx/investmentaccount) . |
+| [InvestmentMailTransactionResponses](../../aspose.finance.ofx.investment/investmentmailsyncresponse/investmentmailtransactionresponses) { get; set; } | Получает или задает коллекцию[`InvestmentMailTransactionResponse`](../investmentmailtransactionresponse) . |
+| [LostSynchronization](../../aspose.finance.ofx/abstractsyncresponse/lostsynchronization) { get; set; } | Да, если токен в запросе на синхронизацию старше самой ранней записи в таблице истории сервера. В этом случае некоторые ответы были потеряны. Нет, если токен в запросе на синхронизацию новее или совпадает с токеном в таблице сервера. таблица истории. |
+| [OfxExtension](../../aspose.finance.ofx.investment/investmentmailsyncresponse/ofxextension) { get; set; } | Получает или задает[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype) . |
 | [Token](../../aspose.finance.ofx/abstractsyncresponse/token) { get; set; } | Получает или задает новый маркер синхронизации. |
 
 ### Смотрите также

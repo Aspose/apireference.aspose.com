@@ -1,14 +1,14 @@
 ---
 title: FootnoteRole
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置InlineFootnoteaspose.finance.xbrl.inline/inlinefootnote的脚注角色
+description: 获取或设置脚注角色InlineFootnoteaspose.finance.xbrl.inline/inlinefootnote.
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.xbrl.inline/inlinefootnote/footnoterole/
 ---
 ## InlineFootnote.FootnoteRole property
 
-获取或设置[`InlineFootnote`](../../inlinefootnote)的脚注角色。
+获取或设置脚注角色[`InlineFootnote`](../../inlinefootnote).
 
 ```csharp
 public string FootnoteRole { get; set; }

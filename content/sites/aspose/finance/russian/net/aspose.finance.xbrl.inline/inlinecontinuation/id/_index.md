@@ -1,14 +1,14 @@
 ---
 title: Id
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает идентификаторInlineContinuationaspose.finance.xbrl.inline/inlinecontinuation.
+description: Получает или задает идентификаторInlineContinuationaspose.finance.xbrl.inline/inlinecontinuation .
 type: docs
 weight: 20
 url: /ru/net/aspose.finance.xbrl.inline/inlinecontinuation/id/
 ---
 ## InlineContinuation.Id property
 
-Получает или задает идентификатор[`InlineContinuation`](../../inlinecontinuation).
+Получает или задает идентификатор[`InlineContinuation`](../../inlinecontinuation) .
 
 ```csharp
 public string Id { get; set; }

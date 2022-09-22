@@ -1,14 +1,14 @@
 ---
 title: IntraRequest
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаIntraRequestaspose.finance.ofx.bank/intrarequest.
+description: Инициализирует новый экземплярIntraRequestaspose.finance.ofx.bank/intrarequest класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.bank/intrarequest/intrarequest/
 ---
 ## IntraRequest constructor
 
-Инициализирует новый экземпляр класса[`IntraRequest`](../../intrarequest).
+Инициализирует новый экземпляр[`IntraRequest`](../../intrarequest) класс.
 
 ```csharp
 public IntraRequest()

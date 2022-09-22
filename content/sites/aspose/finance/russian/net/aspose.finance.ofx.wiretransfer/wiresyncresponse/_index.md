@@ -1,14 +1,14 @@
 ---
 title: WireSyncResponse
 second_title: Справочник по API Aspose.Finance для .NET
-description: Класс ответа синхронизации проводной транзакции.
+description: Класс ответа на синхронизацию проводных транзакций.
 type: docs
 weight: 6410
 url: /ru/net/aspose.finance.ofx.wiretransfer/wiresyncresponse/
 ---
 ## WireSyncResponse class
 
-Класс ответа синхронизации проводной транзакции.
+Класс ответа на синхронизацию проводных транзакций.
 
 ```csharp
 public class WireSyncResponse : AbstractSyncResponse
@@ -18,17 +18,17 @@ public class WireSyncResponse : AbstractSyncResponse
 
 | Имя | Описание |
 | --- | --- |
-| [WireSyncResponse](wiresyncresponse)() | Инициализирует новый экземпляр класса[`WireSyncResponse`](../wiresyncresponse). |
+| [WireSyncResponse](wiresyncresponse)() | Инициализирует новый экземпляр[`WireSyncResponse`](../wiresyncresponse) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [BankAccountFrom](../../aspose.finance.ofx.wiretransfer/wiresyncresponse/bankaccountfrom) { get; set; } | Получает или задает значение из[`BankAccount`](../../aspose.finance.ofx/bankaccount). |
-| [LostSynchronization](../../aspose.finance.ofx/abstractsyncresponse/lostsynchronization) { get; set; } | Да, если токен в запросе на синхронизацию старше, чем самая ранняя запись в таблице истории сервера. В этом случае некоторые ответы были потеряны. Нет, если токен в запросе на синхронизацию новее или совпадает с токеном в таблице истории сервера. |
-| [OfxExtension](../../aspose.finance.ofx.wiretransfer/wiresyncresponse/ofxextension) { get; set; } | Получает или задает[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
+| [BankAccountFrom](../../aspose.finance.ofx.wiretransfer/wiresyncresponse/bankaccountfrom) { get; set; } | Получает или задает из[`BankAccount`](../../aspose.finance.ofx/bankaccount) . |
+| [LostSynchronization](../../aspose.finance.ofx/abstractsyncresponse/lostsynchronization) { get; set; } | Да, если токен в запросе на синхронизацию старше самой ранней записи в таблице истории сервера. В этом случае некоторые ответы были потеряны. Нет, если токен в запросе на синхронизацию новее или совпадает с токеном в таблице сервера. таблица истории. |
+| [OfxExtension](../../aspose.finance.ofx.wiretransfer/wiresyncresponse/ofxextension) { get; set; } | Получает или задает[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype) . |
 | [Token](../../aspose.finance.ofx/abstractsyncresponse/token) { get; set; } | Получает или задает новый маркер синхронизации. |
-| [WireTransactionResponses](../../aspose.finance.ofx.wiretransfer/wiresyncresponse/wiretransactionresponses) { get; set; } | Получает или задает коллекцию[`WireTransactionResponse`](../wiretransactionresponse). |
+| [WireTransactionResponses](../../aspose.finance.ofx.wiretransfer/wiresyncresponse/wiretransactionresponses) { get; set; } | Получает или задает коллекцию[`WireTransactionResponse`](../wiretransactionresponse) . |
 
 ### Смотрите также
 

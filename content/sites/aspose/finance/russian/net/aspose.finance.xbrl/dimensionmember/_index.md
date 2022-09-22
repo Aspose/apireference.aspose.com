@@ -1,7 +1,7 @@
 ---
 title: DimensionMember
 second_title: Справочник по API Aspose.Finance для .NET
-description: Класс представляет элемент измерения. Он определен в https//www.xbrl.org/specification/dimensions/rec-2012-01-25/dimensions-rec-2006-09-18corrected-errata-2012-01-25-clean.html.
+description: Класс представляет элемент измерения. Он определен в https//www.xbrl.org/specification/dimensions/rec20120125/dimensionsrec20060918correctederrata20120125clean.html.
 type: docs
 weight: 6620
 url: /ru/net/aspose.finance.xbrl/dimensionmember/
@@ -18,8 +18,8 @@ public class DimensionMember
 
 | Имя | Описание |
 | --- | --- |
-| [DimensionMember](dimensionmember#constructor)(Concept, Concept) | Инициализирует новый экземпляр явного класса[`DimensionMember`](../dimensionmember). |
-| [DimensionMember](dimensionmember#constructor_1)(Concept, Element) | Инициализирует новый экземпляр типизированного класса[`DimensionMember`](../dimensionmember). |
+| [DimensionMember](dimensionmember#constructor)(Concept, Concept) | Инициализирует новый экземпляр явного[`DimensionMember`](../dimensionmember) класс. |
+| [DimensionMember](dimensionmember#constructor_1)(Concept, Element) | Инициализирует новый экземпляр типизированного[`DimensionMember`](../dimensionmember) класс. |
 
 ## Характеристики
 
@@ -28,7 +28,7 @@ public class DimensionMember
 | [DimensionConcept](../../aspose.finance.xbrl/dimensionmember/dimensionconcept) { get; } | Получает концепцию измерения. |
 | [ExplicitMemberConcept](../../aspose.finance.xbrl/dimensionmember/explicitmemberconcept) { get; } | Получает концепцию элемента, если он является явным элементом измерения. |
 | [IsExplicit](../../aspose.finance.xbrl/dimensionmember/isexplicit) { get; } | Получает, является ли этот элемент измерения явным. |
-| [TypedMemberElement](../../aspose.finance.xbrl/dimensionmember/typedmemberelement) { get; } | Получает элемент-член, если он является элементом типизированного измерения. |
+| [TypedMemberElement](../../aspose.finance.xbrl/dimensionmember/typedmemberelement) { get; } | Получает элемент-член, если он является типизированным элементом измерения. |
 
 ### Смотрите также
 

@@ -1,14 +1,14 @@
 ---
 title: BankMailResponse
 second_title: Aspose.Finance for .NET API 参考
-description: 银行电子邮件回复类
+description: 银行邮件回复类
 type: docs
 weight: 320
 url: /zh/net/aspose.finance.ofx.bank/bankmailresponse/
 ---
 ## BankMailResponse class
 
-银行电子邮件回复类。
+银行邮件回复类。
 
 ```csharp
 public class BankMailResponse : AbstractMailResponse
@@ -18,14 +18,14 @@ public class BankMailResponse : AbstractMailResponse
 
 | 姓名 | 描述 |
 | --- | --- |
-| [BankMailResponse](bankmailresponse)() | 初始化[`BankMailResponse`](../bankmailresponse)类的新实例。 |
+| [BankMailResponse](bankmailresponse)() | 初始化一个新的实例[`BankMailResponse`](../bankmailresponse)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [AccountFrom](../../aspose.finance.ofx.bank/bankmailresponse/accountfrom) { get; set; } | 获取或设置[`BankAccount`](../../aspose.finance.ofx/bankaccount)或[`CreditCardAccount`](../../aspose.finance.ofx/creditcardaccount)的来源。 |
-| [Mail](../../aspose.finance.ofx.bank/bankmailresponse/mail) { get; set; } | 获取或设置[`Mail`](./mail)。 |
+| [AccountFrom](../../aspose.finance.ofx.bank/bankmailresponse/accountfrom) { get; set; } | 获取或设置 from[`BankAccount`](../../aspose.finance.ofx/bankaccount)或者[`CreditCardAccount`](../../aspose.finance.ofx/creditcardaccount). |
+| [Mail](../../aspose.finance.ofx.bank/bankmailresponse/mail) { get; set; } | 获取或设置[`Mail`](./mail). |
 
 ### 也可以看看
 

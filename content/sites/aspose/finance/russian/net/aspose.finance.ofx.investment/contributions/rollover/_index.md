@@ -1,14 +1,14 @@
 ---
 title: Rollover
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает взнос при переносе.
+description: Получает или задает вклад при пролонгации.
 type: docs
 weight: 80
 url: /ru/net/aspose.finance.ofx.investment/contributions/rollover/
 ---
 ## Contributions.Rollover property
 
-Получает или задает взнос при переносе.
+Получает или задает вклад при пролонгации.
 
 ```csharp
 public string Rollover { get; set; }

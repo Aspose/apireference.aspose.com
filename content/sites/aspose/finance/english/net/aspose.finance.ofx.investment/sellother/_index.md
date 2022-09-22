@@ -3,7 +3,7 @@ title: SellOther
 second_title: Aspose.Finance for .NET API Reference
 description: Investment sell other type of security class.
 type: docs
-weight: 3510
+weight: 3520
 url: /net/aspose.finance.ofx.investment/sellother/
 ---
 ## SellOther class

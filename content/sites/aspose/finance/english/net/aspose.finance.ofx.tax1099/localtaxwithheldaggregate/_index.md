@@ -3,7 +3,7 @@ title: LocalTaxWithheldAggregate
 second_title: Aspose.Finance for .NET API Reference
 description: Local tax withheld class.
 type: docs
-weight: 5910
+weight: 5940
 url: /net/aspose.finance.ofx.tax1099/localtaxwithheldaggregate/
 ---
 ## LocalTaxWithheldAggregate class

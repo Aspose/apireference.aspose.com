@@ -1,14 +1,14 @@
 ---
 title: TransferInfo
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化TransferInfoaspose.finance.ofx/transferinfo类的新实例
+description: 初始化一个新的实例TransferInfoaspose.finance.ofx/transferinfo类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx/transferinfo/transferinfo/
 ---
 ## TransferInfo constructor
 
-初始化[`TransferInfo`](../../transferinfo)类的新实例。
+初始化一个新的实例[`TransferInfo`](../../transferinfo)类.
 
 ```csharp
 public TransferInfo()

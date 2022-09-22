@@ -3,7 +3,7 @@ title: SecurityId
 second_title: Aspose.Finance for .NET API Reference
 description: Securities must be consistently identified to allow client applications to prepare accurate investment reports across all user investment accounts even at multiple FIs.At this time neither a security name nor its symbol is standardized.Therefore OFX uses CUSIP numbers a unique 9-digit alphanumeric identifier to identify securities. CUSIP numbers are available for the vast majority of securities traded today including those without symbols such as bonds. For a security that does not have a CUSIP a financial institution must follow the standard procedure of assigning a CUSIP by using itself as the issuer to avoid conflict with any other CUSIP.
 type: docs
-weight: 5200
+weight: 5230
 url: /net/aspose.finance.ofx/securityid/
 ---
 ## SecurityId class

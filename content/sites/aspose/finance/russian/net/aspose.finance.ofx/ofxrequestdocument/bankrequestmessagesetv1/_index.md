@@ -1,14 +1,14 @@
 ---
 title: BankRequestMessageSetV1
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задаетBankRequestMessageSetV1aspose.finance.ofx/ofxrequestdocument/bankrequestmessagesetv1.
+description: Получает или задаетBankRequestMessageSetV1aspose.finance.ofx/ofxrequestdocument/bankrequestmessagesetv1 .
 type: docs
 weight: 20
 url: /ru/net/aspose.finance.ofx/ofxrequestdocument/bankrequestmessagesetv1/
 ---
 ## OfxRequestDocument.BankRequestMessageSetV1 property
 
-Получает или задает`BankRequestMessageSetV1`.
+Получает или задает`BankRequestMessageSetV1` .
 
 ```csharp
 public BankRequestMessageSetV1 BankRequestMessageSetV1 { get; set; }

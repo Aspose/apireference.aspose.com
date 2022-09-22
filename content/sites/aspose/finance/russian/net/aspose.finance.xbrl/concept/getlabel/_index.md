@@ -1,14 +1,14 @@
 ---
 title: GetLabel
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает метку концепции из ссылок Label.
+description: Получает метку концепта из ссылок Label.
 type: docs
 weight: 110
 url: /ru/net/aspose.finance.xbrl/concept/getlabel/
 ---
 ## Concept.GetLabel method
 
-Получает метку концепции из ссылок Label.
+Получает метку концепта из ссылок Label.
 
 ```csharp
 public string GetLabel(string preferredLabel)
@@ -16,11 +16,11 @@ public string GetLabel(string preferredLabel)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| preferredLabel | String | Предпочтительная метка. |
+| preferredLabel | String | Предпочтительная этикетка. |
 
 ### Возвращаемое значение
 
-Ярлык концепции.
+Этикетка концепции.
 
 ### Смотрите также
 

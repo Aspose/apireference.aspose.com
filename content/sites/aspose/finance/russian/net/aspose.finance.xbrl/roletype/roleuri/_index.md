@@ -1,14 +1,14 @@
 ---
 title: RoleUri
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает URI роли вRoleTypeaspose.finance.xbrl/roletype.
+description: Получает URI роли вRoleTypeaspose.finance.xbrl/roletype .
 type: docs
 weight: 30
 url: /ru/net/aspose.finance.xbrl/roletype/roleuri/
 ---
 ## RoleType.RoleUri property
 
-Получает URI роли в[`RoleType`](../../roletype).
+Получает URI роли в[`RoleType`](../../roletype) .
 
 ```csharp
 public Uri RoleUri { get; set; }

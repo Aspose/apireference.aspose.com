@@ -1,14 +1,14 @@
 ---
 title: InterTransactionRequest
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаInterTransactionRequestaspose.finance.ofx.intertransfer/intertransactionrequest.
+description: Инициализирует новый экземплярInterTransactionRequestaspose.finance.ofx.intertransfer/intertransactionrequest класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.intertransfer/intertransactionrequest/intertransactionrequest/
 ---
 ## InterTransactionRequest constructor
 
-Инициализирует новый экземпляр класса[`InterTransactionRequest`](../../intertransactionrequest).
+Инициализирует новый экземпляр[`InterTransactionRequest`](../../intertransactionrequest) класс.
 
 ```csharp
 public InterTransactionRequest()

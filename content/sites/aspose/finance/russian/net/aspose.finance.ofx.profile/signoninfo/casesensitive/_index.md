@@ -1,14 +1,14 @@
 ---
 title: CaseSensitive
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает учитывает ли пароль регистр символов.
+description: Возвращает или задает регистрозависимость пароля.
 type: docs
 weight: 60
 url: /ru/net/aspose.finance.ofx.profile/signoninfo/casesensitive/
 ---
 ## SignonInfo.CaseSensitive property
 
-Получает или задает, учитывает ли пароль регистр символов.
+Возвращает или задает регистрозависимость пароля.
 
 ```csharp
 public bool CaseSensitive { get; set; }

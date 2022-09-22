@@ -1,14 +1,14 @@
 ---
 title: MutualFundInfo
 second_title: Aspose.Finance for .NET API 参考
-description: 共同基金信息类
+description: 互惠基金信息类
 type: docs
 weight: 5070
 url: /zh/net/aspose.finance.ofx.securitieslist/mutualfundinfo/
 ---
 ## MutualFundInfo class
 
-共同基金信息类。
+互惠基金信息类
 
 ```csharp
 public class MutualFundInfo : AbstractSecurityInfo
@@ -18,16 +18,16 @@ public class MutualFundInfo : AbstractSecurityInfo
 
 | 姓名 | 描述 |
 | --- | --- |
-| [MutualFundInfo](mutualfundinfo)() | 初始化[`MutualFundInfo`](../mutualfundinfo)类的新实例。 |
+| [MutualFundInfo](mutualfundinfo)() | 初始化一个新的实例[`MutualFundInfo`](../mutualfundinfo)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [FIMutualFundAssetClass](../../aspose.finance.ofx.securitieslist/mutualfundinfo/fimutualfundassetclass) { get; set; } | 获取或设置共同基金的 FI 定义的资产类别细分。 |
-| [MutualFundAssetClass](../../aspose.finance.ofx.securitieslist/mutualfundinfo/mutualfundassetclass) { get; set; } | 获取或设置共同基金的资产类别细分。 |
+| [FIMutualFundAssetClass](../../aspose.finance.ofx.securitieslist/mutualfundinfo/fimutualfundassetclass) { get; set; } | 获取或设置共同基金的 FI 定义的资产类别明细。 |
+| [MutualFundAssetClass](../../aspose.finance.ofx.securitieslist/mutualfundinfo/mutualfundassetclass) { get; set; } | 获取或设置共同基金的资产类别明细。 |
 | [MutualFundType](../../aspose.finance.ofx.securitieslist/mutualfundinfo/mutualfundtype) { get; set; } | 获取或设置共同基金类型。 |
-| [SecurityInfo](../../aspose.finance.ofx.securitieslist/abstractsecurityinfo/securityinfo) { get; set; } | 获取或设置[`GeneralSecurityInfo`](../generalsecurityinfo)。 |
+| [SecurityInfo](../../aspose.finance.ofx.securitieslist/abstractsecurityinfo/securityinfo) { get; set; } | 获取或设置[`GeneralSecurityInfo`](../generalsecurityinfo). |
 | [Yield](../../aspose.finance.ofx.securitieslist/mutualfundinfo/yield) { get; set; } | 获取或设置作为基金资产一部分报告的当前收益率。 |
 | [YieldAsOfDate](../../aspose.finance.ofx.securitieslist/mutualfundinfo/yieldasofdate) { get; set; } | 获取或设置收益率值的截止日期。 |
 

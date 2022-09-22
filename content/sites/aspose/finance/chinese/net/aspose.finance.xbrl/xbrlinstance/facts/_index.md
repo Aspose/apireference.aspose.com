@@ -1,14 +1,14 @@
 ---
 title: Facts
 second_title: Aspose.Finance for .NET API 参考
-description: 获取 XBRL 实例中Factaspose.finance.xbrl/fact对象的集合
+description: 获取集合Factaspose.finance.xbrl/fact XBRL 实例中的对象
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.xbrl/xbrlinstance/facts/
 ---
 ## XbrlInstance.Facts property
 
-获取 XBRL 实例中[`Fact`](../../fact)对象的集合。
+获取集合[`Fact`](../../fact) XBRL 实例中的对象。
 
 ```csharp
 public List<Fact> Facts { get; }

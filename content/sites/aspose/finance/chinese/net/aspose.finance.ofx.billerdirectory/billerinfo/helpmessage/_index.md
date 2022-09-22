@@ -1,14 +1,14 @@
 ---
 title: HelpMessage
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置客户可以显示以帮助客户输入其帐号的人类可读消息
+description: 获取或设置客户可以显示以帮助客户输入他或她的帐号的人类可读消息
 type: docs
 weight: 120
 url: /zh/net/aspose.finance.ofx.billerdirectory/billerinfo/helpmessage/
 ---
 ## BillerInfo.HelpMessage property
 
-获取或设置客户可以显示以帮助客户输入其帐号的人类可读消息。
+获取或设置客户可以显示以帮助客户输入他或她的帐号的人类可读消息。
 
 ```csharp
 public string HelpMessage { get; set; }

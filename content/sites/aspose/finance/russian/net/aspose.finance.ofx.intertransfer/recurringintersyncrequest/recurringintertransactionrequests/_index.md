@@ -1,14 +1,14 @@
 ---
 title: RecurringInterTransactionRequests
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает коллекциюRecurringInterTransactionRequestaspose.finance.ofx.intertransfer/recurringintertransactionrequest.
+description: Получает или задает коллекциюRecurringInterTransactionRequestaspose.finance.ofx.intertransfer/recurringintertransactionrequest .
 type: docs
 weight: 40
 url: /ru/net/aspose.finance.ofx.intertransfer/recurringintersyncrequest/recurringintertransactionrequests/
 ---
 ## RecurringInterSyncRequest.RecurringInterTransactionRequests property
 
-Получает или задает коллекцию[`RecurringInterTransactionRequest`](../../recurringintertransactionrequest).
+Получает или задает коллекцию[`RecurringInterTransactionRequest`](../../recurringintertransactionrequest) .
 
 ```csharp
 public List<RecurringInterTransactionRequest> RecurringInterTransactionRequests { get; set; }

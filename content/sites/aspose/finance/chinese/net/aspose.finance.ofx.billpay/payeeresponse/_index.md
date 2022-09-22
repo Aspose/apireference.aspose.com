@@ -8,7 +8,7 @@ url: /zh/net/aspose.finance.ofx.billpay/payeeresponse/
 ---
 ## PayeeResponse class
 
-收款人添加响应类。
+收款人添加响应类
 
 ```csharp
 public class PayeeResponse : AbstractPayeeResponse
@@ -18,17 +18,17 @@ public class PayeeResponse : AbstractPayeeResponse
 
 | 姓名 | 描述 |
 | --- | --- |
-| [PayeeResponse](payeeresponse)() | 初始化[`PayeeResponse`](../payeeresponse)类的新实例。 |
+| [PayeeResponse](payeeresponse)() | 初始化一个新的实例[`PayeeResponse`](../payeeresponse)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [BankAccountTo](../../aspose.finance.ofx.billpay/payeeresponse/bankaccountto) { get; set; } | 获取或设置目的地[`BankAccount`](../../aspose.finance.ofx/bankaccount)，在使用转账付款的国家/地区指定 |
-| [ExtendedPayee](../../aspose.finance.ofx.billpay/payeeresponse/extendedpayee) { get; set; } | 获取或设置[`ExtendedPayee`](../extendedpayee)。 |
-| [Payee](../../aspose.finance.ofx.billpay/payeeresponse/payee) { get; set; } | 获取或设置完整的[`Payee`](./payee)信息。 |
+| [BankAccountTo](../../aspose.finance.ofx.billpay/payeeresponse/bankaccountto) { get; set; } | 获取或设置目的地[`BankAccount`](../../aspose.finance.ofx/bankaccount) , 在使用 transfer 付款的国家/地区指定 |
+| [ExtendedPayee](../../aspose.finance.ofx.billpay/payeeresponse/extendedpayee) { get; set; } | 获取或设置[`ExtendedPayee`](../extendedpayee). |
+| [Payee](../../aspose.finance.ofx.billpay/payeeresponse/payee) { get; set; } | 获取或设置完整的[`Payee`](./payee)信息. |
 | [PayeeAccounts](../../aspose.finance.ofx.billpay/payeeresponse/payeeaccounts) { get; set; } | 获取或设置收款用户与收款人的账号。 |
-| [PayeeListId](../../aspose.finance.ofx.billpay/abstractpayeeresponse/payeelistid) { get; set; } | 获取或设置此收款人记录的服务器分配记录ID。 |
+| [PayeeListId](../../aspose.finance.ofx.billpay/abstractpayeeresponse/payeelistid) { get; set; } | 获取或设置此收款人记录的服务器分配记录 ID。 |
 
 ### 也可以看看
 

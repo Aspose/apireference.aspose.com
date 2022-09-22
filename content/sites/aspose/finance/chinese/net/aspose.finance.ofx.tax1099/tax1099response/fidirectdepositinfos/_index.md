@@ -1,14 +1,14 @@
 ---
 title: FIDirectDepositInfos
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置FIDirectDepositInfoaspose.finance.ofx.tax1099/fidirectdepositinfo的集合
+description: 获取或设置的集合FIDirectDepositInfoaspose.finance.ofx.tax1099/fidirectdepositinfo.
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.ofx.tax1099/tax1099response/fidirectdepositinfos/
 ---
 ## Tax1099Response.FIDirectDepositInfos property
 
-获取或设置[`FIDirectDepositInfo`](../../fidirectdepositinfo)的集合。
+获取或设置的集合[`FIDirectDepositInfo`](../../fidirectdepositinfo).
 
 ```csharp
 public List<FIDirectDepositInfo> FIDirectDepositInfos { get; set; }

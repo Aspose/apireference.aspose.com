@@ -1,14 +1,14 @@
 ---
 title: PresentmentDirMessageSetV1s
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает коллекциюPresentmentDirMessageSetV1aspose.finance.ofx.profile/presentmentdirmessagesetv1.
+description: Получает или задает коллекциюPresentmentDirMessageSetV1aspose.finance.ofx.profile/presentmentdirmessagesetv1 .
 type: docs
 weight: 20
 url: /ru/net/aspose.finance.ofx.profile/presentmentdirmessageset/presentmentdirmessagesetv1s/
 ---
 ## PresentmentDirMessageSet.PresentmentDirMessageSetV1s property
 
-Получает или задает коллекцию[`PresentmentDirMessageSetV1`](../../presentmentdirmessagesetv1).
+Получает или задает коллекцию[`PresentmentDirMessageSetV1`](../../presentmentdirmessagesetv1) .
 
 ```csharp
 public List<PresentmentDirMessageSetV1> PresentmentDirMessageSetV1s { get; set; }

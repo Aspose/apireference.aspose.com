@@ -1,14 +1,14 @@
 ---
 title: PayeeListId
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置收款人列表标识符在其支付提供商的用户收款人列表中标识此 Biller
+description: 获取或设置收款人列表标识符在其支付提供商处的用户收款人列表中识别此 Biller
 type: docs
 weight: 70
 url: /zh/net/aspose.finance.ofx/presentmentaccount/payeelistid/
 ---
 ## PresentmentAccount.PayeeListId property
 
-获取或设置收款人列表标识符。在其支付提供商的用户收款人列表中标识此 Biller。
+获取或设置收款人列表标识符。在其支付提供商处的用户收款人列表中识别此 Biller。
 
 ```csharp
 public string PayeeListId { get; set; }

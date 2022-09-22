@@ -1,14 +1,14 @@
 ---
 title: ImageDelay
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает количество календарных дней из ServerDate для изображений выписки или PostedDate для изображений транзакций когда изображение станет доступным.
+description: Получает или задает количество календарных дней от ServerDate для изображений выписки или PostedDate для изображений транзакций когда изображение станет доступным.
 type: docs
 weight: 40
 url: /ru/net/aspose.finance.ofx/imagedata/imagedelay/
 ---
 ## ImageData.ImageDelay property
 
-Получает или задает количество календарных дней из ServerDate (для изображений выписки) или PostedDate (для изображений транзакций), когда изображение станет доступным.
+Получает или задает количество календарных дней от ServerDate (для изображений выписки) или PostedDate (для изображений транзакций), когда изображение станет доступным.
 
 ```csharp
 public string ImageDelay { get; set; }

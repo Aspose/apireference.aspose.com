@@ -1,14 +1,14 @@
 ---
 title: BankAccountTo
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает значениеBankAccountaspose.finance.ofx/bankaccount.
+description: Получает или задает значениеBankAccountaspose.finance.ofx/bankaccount .
 type: docs
 weight: 30
 url: /ru/net/aspose.finance.ofx.billpay/paymentinfo/bankaccountto/
 ---
 ## PaymentInfo.BankAccountTo property
 
-Получает или задает значение[`BankAccount`](../../../aspose.finance.ofx/bankaccount).
+Получает или задает значение[`BankAccount`](../../../aspose.finance.ofx/bankaccount) .
 
 ```csharp
 public BankAccount BankAccountTo { get; set; }

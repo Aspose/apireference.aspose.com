@@ -1,14 +1,14 @@
 ---
 title: FootnoteLink
 second_title: Aspose.Finance for .NET API 参考
-description: 此类包含描述 XBRL 实例中事实之间不规则关系的定位器资源和弧
+description: 此类包含描述 XBRL 实例中事实之间不规则关系的定位器资源和弧线
 type: docs
 weight: 7650
 url: /zh/net/aspose.finance.xbrl/footnotelink/
 ---
 ## FootnoteLink class
 
-此类包含描述 XBRL 实例中事实之间不规则关系的定位器、资源和弧。
+此类包含描述 XBRL 实例中事实之间不规则关系的定位器、资源和弧线。
 
 ```csharp
 public class FootnoteLink
@@ -18,16 +18,16 @@ public class FootnoteLink
 
 | 姓名 | 描述 |
 | --- | --- |
-| [FootnoteLink](footnotelink)() | 初始化[`FootnoteLink`](../footnotelink)类的新实例。 |
+| [FootnoteLink](footnotelink)() | 初始化一个新的实例[`FootnoteLink`](../footnotelink)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [FootnoteArcs](../../aspose.finance.xbrl/footnotelink/footnotearcs) { get; } | 获取[`FootnoteArc`](../footnotearc)的集合。 |
-| [Footnotes](../../aspose.finance.xbrl/footnotelink/footnotes) { get; } | 获取[`Footnote`](../footnote)的集合。 |
-| [Id](../../aspose.finance.xbrl/footnotelink/id) { get; set; } | 获取或设置 id。 |
-| [Locators](../../aspose.finance.xbrl/footnotelink/locators) { get; } | 获取[`Loc`](../loc)的集合。 |
+| [FootnoteArcs](../../aspose.finance.xbrl/footnotelink/footnotearcs) { get; } | 获取集合[`FootnoteArc`](../footnotearc). |
+| [Footnotes](../../aspose.finance.xbrl/footnotelink/footnotes) { get; } | 获取集合[`Footnote`](../footnote). |
+| [Id](../../aspose.finance.xbrl/footnotelink/id) { get; set; } | 获取或设置id。 |
+| [Locators](../../aspose.finance.xbrl/footnotelink/locators) { get; } | 获取集合[`Loc`](../loc). |
 | [Title](../../aspose.finance.xbrl/footnotelink/title) { get; set; } | 获取或设置标题。 |
 
 ### 也可以看看

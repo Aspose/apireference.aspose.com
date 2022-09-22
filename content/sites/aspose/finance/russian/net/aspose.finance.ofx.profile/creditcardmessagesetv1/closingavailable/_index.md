@@ -1,14 +1,14 @@
 ---
 title: ClosingAvailable
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает доступна ли информация о закрытии заявления.
+description: Получает или устанавливает доступна ли информация о закрытии отчета.
 type: docs
 weight: 20
 url: /ru/net/aspose.finance.ofx.profile/creditcardmessagesetv1/closingavailable/
 ---
 ## CreditcardMessageSetV1.ClosingAvailable property
 
-Получает или задает, доступна ли информация о закрытии заявления.
+Получает или устанавливает, доступна ли информация о закрытии отчета.
 
 ```csharp
 public bool ClosingAvailable { get; set; }

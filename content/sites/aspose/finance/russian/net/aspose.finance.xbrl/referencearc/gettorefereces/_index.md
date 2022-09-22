@@ -1,14 +1,14 @@
 ---
 title: GetToRefereces
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает коллекциюReferenceaspose.finance.xbrl/referenceвReferenceArcaspose.finance.xbrl/referencearc.
+description: Получает коллекциюReferenceaspose.finance.xbrl/reference вReferenceArcaspose.finance.xbrl/referencearc .
 type: docs
 weight: 20
 url: /ru/net/aspose.finance.xbrl/referencearc/gettorefereces/
 ---
 ## ReferenceArc.GetToRefereces method
 
-Получает коллекцию[`Reference`](../../reference)в[`ReferenceArc`](../../referencearc).
+Получает коллекцию[`Reference`](../../reference) в[`ReferenceArc`](../../referencearc) .
 
 ```csharp
 public List<Reference> GetToRefereces()

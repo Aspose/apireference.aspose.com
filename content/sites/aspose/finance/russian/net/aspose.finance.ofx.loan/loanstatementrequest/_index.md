@@ -1,14 +1,14 @@
 ---
 title: LoanStatementRequest
 second_title: Справочник по API Aspose.Finance для .NET
-description: Класс запроса загрузки ссуды.
+description: Класс запроса на загрузку кредита.
 type: docs
 weight: 3940
 url: /ru/net/aspose.finance.ofx.loan/loanstatementrequest/
 ---
 ## LoanStatementRequest class
 
-Класс запроса загрузки ссуды.
+Класс запроса на загрузку кредита.
 
 ```csharp
 public class LoanStatementRequest
@@ -18,15 +18,15 @@ public class LoanStatementRequest
 
 | Имя | Описание |
 | --- | --- |
-| [LoanStatementRequest](loanstatementrequest)() | Инициализирует новый экземпляр класса[`LoanStatementRequest`](../loanstatementrequest). |
+| [LoanStatementRequest](loanstatementrequest)() | Инициализирует новый экземпляр[`LoanStatementRequest`](../loanstatementrequest) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [IncludeTransactionImage](../../aspose.finance.ofx.loan/loanstatementrequest/includetransactionimage) { get; set; } | Получает или задает, включают ли данные для изображений транзакций |
-| [IncTransaction](../../aspose.finance.ofx.loan/loanstatementrequest/inctransaction) { get; set; } | Получает или задает[`IncTransaction`](./inctransaction). |
-| [LoanAccountFrom](../../aspose.finance.ofx.loan/loanstatementrequest/loanaccountfrom) { get; set; } | Получает или задает значение из[`LoanAccount`](../../aspose.finance.ofx/loanaccount). |
+| [IncludeTransactionImage](../../aspose.finance.ofx.loan/loanstatementrequest/includetransactionimage) { get; set; } | Получает или задает, следует ли включать данные для изображений транзакций |
+| [IncTransaction](../../aspose.finance.ofx.loan/loanstatementrequest/inctransaction) { get; set; } | Получает или задает[`IncTransaction`](./inctransaction) . |
+| [LoanAccountFrom](../../aspose.finance.ofx.loan/loanstatementrequest/loanaccountfrom) { get; set; } | Получает или задает из[`LoanAccount`](../../aspose.finance.ofx/loanaccount) . |
 
 ### Смотрите также
 

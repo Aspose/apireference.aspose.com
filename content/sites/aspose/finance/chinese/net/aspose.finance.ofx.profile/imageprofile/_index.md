@@ -18,13 +18,13 @@ public class ImageProfile
 
 | 姓名 | 描述 |
 | --- | --- |
-| [ImageProfile](imageprofile)() | 初始化[`ImageProfile`](../imageprofile)类的新实例。 |
+| [ImageProfile](imageprofile)() | 初始化一个新的实例[`ImageProfile`](../imageprofile)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [ClosingImageAvailable](../../aspose.finance.ofx.profile/imageprofile/closingimageavailable) { get; set; } | 获取或设置服务器是否支持关闭语句图像。 |
+| [ClosingImageAvailable](../../aspose.finance.ofx.profile/imageprofile/closingimageavailable) { get; set; } | 获取或设置服务器是否支持关闭语句图片 |
 | [TransactionImageAvailable](../../aspose.finance.ofx.profile/imageprofile/transactionimageavailable) { get; set; } | 获取或设置服务器是否支持事务图像。 |
 
 ### 也可以看看

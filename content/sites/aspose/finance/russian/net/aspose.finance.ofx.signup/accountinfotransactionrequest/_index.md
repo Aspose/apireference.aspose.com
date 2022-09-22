@@ -18,15 +18,15 @@ public class AccountInfoTransactionRequest : AbstractTransactionRequest
 
 | Имя | Описание |
 | --- | --- |
-| [AccountInfoTransactionRequest](accountinfotransactionrequest)() | Инициализирует новый экземпляр класса[`AccountInfoTransactionRequest`](../accountinfotransactionrequest). |
+| [AccountInfoTransactionRequest](accountinfotransactionrequest)() | Инициализирует новый экземпляр[`AccountInfoTransactionRequest`](../accountinfotransactionrequest) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [AccountInfoRequest](../../aspose.finance.ofx.signup/accountinfotransactionrequest/accountinforequest) { get; set; } | Получает или задает[`AccountInfoRequest`](./accountinforequest). |
-| [ClientCookie](../../aspose.finance.ofx/abstracttransactionrequest/clientcookie) { get; set; } | Получает или задает данные, которые будут отображаться в ответе транзакции |
-| [OfxExtension](../../aspose.finance.ofx.signup/accountinfotransactionrequest/ofxextension) { get; set; } | Получает или задает[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
+| [AccountInfoRequest](../../aspose.finance.ofx.signup/accountinfotransactionrequest/accountinforequest) { get; set; } | Получает или задает[`AccountInfoRequest`](./accountinforequest) . |
+| [ClientCookie](../../aspose.finance.ofx/abstracttransactionrequest/clientcookie) { get; set; } | Получает или задает данные, которые будут отражены в транзакции response |
+| [OfxExtension](../../aspose.finance.ofx.signup/accountinfotransactionrequest/ofxextension) { get; set; } | Получает или задает[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype) . |
 | [TransactionAuthorizationNumber](../../aspose.finance.ofx/abstracttransactionrequest/transactionauthorizationnumber) { get; set; } | Получает или задает номер авторизации транзакции. |
 | [TransactionUniqueId](../../aspose.finance.ofx/abstracttransactionrequest/transactionuniqueid) { get; set; } | Получает или задает назначенный клиентом глобальный уникальный идентификатор для этой транзакции |
 

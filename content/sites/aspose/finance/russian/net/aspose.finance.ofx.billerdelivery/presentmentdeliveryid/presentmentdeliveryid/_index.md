@@ -1,14 +1,14 @@
 ---
 title: PresentmentDeliveryId
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаPresentmentDeliveryIdaspose.finance.ofx.billerdelivery/presentmentdeliveryid.
+description: Инициализирует новый экземплярPresentmentDeliveryIdaspose.finance.ofx.billerdelivery/presentmentdeliveryid класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.billerdelivery/presentmentdeliveryid/presentmentdeliveryid/
 ---
 ## PresentmentDeliveryId constructor
 
-Инициализирует новый экземпляр класса[`PresentmentDeliveryId`](../../presentmentdeliveryid).
+Инициализирует новый экземпляр[`PresentmentDeliveryId`](../../presentmentdeliveryid) класс.
 
 ```csharp
 public PresentmentDeliveryId()

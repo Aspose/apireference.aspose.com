@@ -1,14 +1,14 @@
 ---
 title: StopCheckNumber
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаStopCheckNumberaspose.finance.ofx.bank/stopchecknumber.
+description: Инициализирует новый экземплярStopCheckNumberaspose.finance.ofx.bank/stopchecknumber класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.bank/stopchecknumber/stopchecknumber/
 ---
 ## StopCheckNumber constructor
 
-Инициализирует новый экземпляр класса[`StopCheckNumber`](../../stopchecknumber).
+Инициализирует новый экземпляр[`StopCheckNumber`](../../stopchecknumber) класс.
 
 ```csharp
 public StopCheckNumber()

@@ -1,14 +1,14 @@
 ---
 title: Rollover
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает доход от пролонгации.
+description: Получает или задает доход от ролловера.
 type: docs
 weight: 80
 url: /ru/net/aspose.finance.ofx.investment/earnings/rollover/
 ---
 ## Earnings.Rollover property
 
-Получает или задает доход от пролонгации.
+Получает или задает доход от ролловера.
 
 ```csharp
 public string Rollover { get; set; }

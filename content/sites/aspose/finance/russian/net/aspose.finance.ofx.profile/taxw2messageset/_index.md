@@ -1,14 +1,14 @@
 ---
 title: TaxW2MessageSet
 second_title: Справочник по API Aspose.Finance для .NET
-description: Набор сообщений Tax W2.
+description: Набор налоговых сообщений W2.
 type: docs
 weight: 4880
 url: /ru/net/aspose.finance.ofx.profile/taxw2messageset/
 ---
 ## TaxW2MessageSet class
 
-Набор сообщений Tax W2.
+Набор налоговых сообщений W2.
 
 ```csharp
 public class TaxW2MessageSet : AbstractMessageSet
@@ -18,13 +18,13 @@ public class TaxW2MessageSet : AbstractMessageSet
 
 | Имя | Описание |
 | --- | --- |
-| [TaxW2MessageSet](taxw2messageset)() | Инициализирует новый экземпляр класса[`TaxW2MessageSet`](../taxw2messageset). |
+| [TaxW2MessageSet](taxw2messageset)() | Инициализирует новый экземпляр[`TaxW2MessageSet`](../taxw2messageset) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [TaxW2MessageSetV1](../../aspose.finance.ofx.profile/taxw2messageset/taxw2messagesetv1) { get; set; } | Получает или задает[`TaxW2MessageSetV1`](./taxw2messagesetv1). |
+| [TaxW2MessageSetV1](../../aspose.finance.ofx.profile/taxw2messageset/taxw2messagesetv1) { get; set; } | Получает или задает[`TaxW2MessageSetV1`](./taxw2messagesetv1) . |
 
 ### Смотрите также
 

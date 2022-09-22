@@ -1,14 +1,14 @@
 ---
 title: BillPayRequestMessageSetV1
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置BillPayRequestMessageSetV1aspose.finance.ofx/ofxrequestdocument/billpayrequestmessagesetv1
+description: 获取或设置BillPayRequestMessageSetV1aspose.finance.ofx/ofxrequestdocument/billpayrequestmessagesetv1.
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.ofx/ofxrequestdocument/billpayrequestmessagesetv1/
 ---
 ## OfxRequestDocument.BillPayRequestMessageSetV1 property
 
-获取或设置`BillPayRequestMessageSetV1`。
+获取或设置`BillPayRequestMessageSetV1`.
 
 ```csharp
 public BillPayRequestMessageSetV1 BillPayRequestMessageSetV1 { get; set; }

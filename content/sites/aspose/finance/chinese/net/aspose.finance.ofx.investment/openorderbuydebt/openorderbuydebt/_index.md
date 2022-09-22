@@ -1,14 +1,14 @@
 ---
 title: OpenOrderBuyDebt
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化OpenOrderBuyDebtaspose.finance.ofx.investment/openorderbuydebt类的新实例
+description: 初始化一个新的实例OpenOrderBuyDebtaspose.finance.ofx.investment/openorderbuydebt类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.investment/openorderbuydebt/openorderbuydebt/
 ---
 ## OpenOrderBuyDebt constructor
 
-初始化[`OpenOrderBuyDebt`](../../openorderbuydebt)类的新实例。
+初始化一个新的实例[`OpenOrderBuyDebt`](../../openorderbuydebt)类.
 
 ```csharp
 public OpenOrderBuyDebt()

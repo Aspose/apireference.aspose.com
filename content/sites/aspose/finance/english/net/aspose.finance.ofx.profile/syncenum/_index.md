@@ -3,7 +3,7 @@ title: SyncEnum
 second_title: Aspose.Finance for .NET API Reference
 description: Synchronization mode enum.
 type: docs
-weight: 4830
+weight: 4850
 url: /net/aspose.finance.ofx.profile/syncenum/
 ---
 ## SyncEnum enumeration

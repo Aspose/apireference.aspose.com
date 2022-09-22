@@ -1,14 +1,14 @@
 ---
 title: WebEnroll
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задаетWebEnrollaspose.finance.ofx.profile/signupmessagesetv1/webenroll.
+description: Получает или задаетWebEnrollaspose.finance.ofx.profile/signupmessagesetv1/webenroll .
 type: docs
 weight: 70
 url: /ru/net/aspose.finance.ofx.profile/signupmessagesetv1/webenroll/
 ---
 ## SignupMessageSetV1.WebEnroll property
 
-Получает или задает`WebEnroll`.
+Получает или задает`WebEnroll` .
 
 ```csharp
 public WebEnroll WebEnroll { get; set; }

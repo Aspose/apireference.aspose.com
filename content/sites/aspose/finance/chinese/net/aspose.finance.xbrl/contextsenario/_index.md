@@ -1,14 +1,14 @@
 ---
 title: ContextSenario
 second_title: Aspose.Finance for .NET API 参考
-description: Context./context的情景
+description: 的情景Context./context.
 type: docs
 weight: 6580
 url: /zh/net/aspose.finance.xbrl/contextsenario/
 ---
 ## ContextSenario class
 
-[`Context`](../context)的情景。
+的情景[`Context`](../context).
 
 ```csharp
 public class ContextSenario
@@ -24,7 +24,7 @@ public class ContextSenario
 
 | 姓名 | 描述 |
 | --- | --- |
-| [DimensionMemberList](../../aspose.finance.xbrl/contextsenario/dimensionmemberlist) { get; } | 获取场景中定义的维度成员列表。 |
+| [DimensionMemberList](../../aspose.finance.xbrl/contextsenario/dimensionmemberlist) { get; } | 获取 senario 中定义的维度成员列表。 |
 
 ### 也可以看看
 

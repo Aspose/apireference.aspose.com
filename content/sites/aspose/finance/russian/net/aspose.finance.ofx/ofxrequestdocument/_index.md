@@ -18,31 +18,31 @@ public class OfxRequestDocument
 
 | Имя | Описание |
 | --- | --- |
-| [OfxRequestDocument](ofxrequestdocument#constructor)() | Инициализирует новый экземпляр класса[`OfxRequestDocument`](../ofxrequestdocument). |
-| [OfxRequestDocument](ofxrequestdocument#constructor_1)(string) | Инициализирует новый экземпляр класса[`OfxRequestDocument`](../ofxrequestdocument). |
+| [OfxRequestDocument](ofxrequestdocument#constructor)() | Инициализирует новый экземпляр[`OfxRequestDocument`](../ofxrequestdocument) класс. |
+| [OfxRequestDocument](ofxrequestdocument#constructor_1)(string) | Инициализирует новый экземпляр[`OfxRequestDocument`](../ofxrequestdocument) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [BankRequestMessageSetV1](../../aspose.finance.ofx/ofxrequestdocument/bankrequestmessagesetv1) { get; set; } | Получает или задает[`BankRequestMessageSetV1`](./bankrequestmessagesetv1). |
-| [BillPayRequestMessageSetV1](../../aspose.finance.ofx/ofxrequestdocument/billpayrequestmessagesetv1) { get; set; } | Получает или задает[`BillPayRequestMessageSetV1`](./billpayrequestmessagesetv1). |
-| [CreditcardRequestMessageSetV1](../../aspose.finance.ofx/ofxrequestdocument/creditcardrequestmessagesetv1) { get; set; } | Получает или задает[`CreditcardRequestMessageSetV1`](./creditcardrequestmessagesetv1). |
-| [EmailRequestMessageSetV1](../../aspose.finance.ofx/ofxrequestdocument/emailrequestmessagesetv1) { get; set; } | Получает или задает[`EmailRequestMessageSetV1`](./emailrequestmessagesetv1). |
-| [ImageRequestMessageSetV1](../../aspose.finance.ofx/ofxrequestdocument/imagerequestmessagesetv1) { get; set; } | Получает или задает[`ImageRequestMessageSetV1`](./imagerequestmessagesetv1). |
-| [InterTransferRequestMessageSetV1](../../aspose.finance.ofx/ofxrequestdocument/intertransferrequestmessagesetv1) { get; set; } | Получает или задает[`InterTransferRequestMessageSetV1`](./intertransferrequestmessagesetv1). |
-| [InvestmentStatementRequestMessageSetV1](../../aspose.finance.ofx/ofxrequestdocument/investmentstatementrequestmessagesetv1) { get; set; } | Получает или задает[`InvestmentStatementRequestMessageSetV1`](./investmentstatementrequestmessagesetv1). |
-| [LoanRequestMessageSetV1](../../aspose.finance.ofx/ofxrequestdocument/loanrequestmessagesetv1) { get; set; } | Получает или задает[`LoanRequestMessageSetV1`](./loanrequestmessagesetv1). |
-| [PresentmentDeliveryRequestMessageSetV1](../../aspose.finance.ofx/ofxrequestdocument/presentmentdeliveryrequestmessagesetv1) { get; set; } | Получает или задает[`PresentmentDeliveryRequestMessageSetV1`](./presentmentdeliveryrequestmessagesetv1). |
-| [PresentmentDirRequestMessageSetV1](../../aspose.finance.ofx/ofxrequestdocument/presentmentdirrequestmessagesetv1) { get; set; } | Получает или задает[`PresentmentDirRequestMessageSetV1`](./presentmentdirrequestmessagesetv1). |
-| [ProfileRequestMessageSetV1](../../aspose.finance.ofx/ofxrequestdocument/profilerequestmessagesetv1) { get; set; } | Получает или задает[`ProfileRequestMessageSetV1`](./profilerequestmessagesetv1). |
-| [SecurityListRequestMessageSetV1](../../aspose.finance.ofx/ofxrequestdocument/securitylistrequestmessagesetv1) { get; set; } | Получает или задает[`SecurityListRequestMessageSetV1`](./securitylistrequestmessagesetv1). |
-| [SignonRequestMessageSetV1](../../aspose.finance.ofx/ofxrequestdocument/signonrequestmessagesetv1) { get; set; } | Получает или задает[`SignonRequestMessageSetV1`](./signonrequestmessagesetv1). |
-| [SignupRequestMessageSetV1](../../aspose.finance.ofx/ofxrequestdocument/signuprequestmessagesetv1) { get; set; } | Получает или задает[`SignupRequestMessageSetV1`](./signuprequestmessagesetv1). |
-| [Tax1098RequestMessageSetV1](../../aspose.finance.ofx/ofxrequestdocument/tax1098requestmessagesetv1) { get; set; } | Получает или задает[`Tax1098RequestMessageSetV1`](./tax1098requestmessagesetv1). |
-| [Tax1099RequestMessageSetV1](../../aspose.finance.ofx/ofxrequestdocument/tax1099requestmessagesetv1) { get; set; } | Получает или задает[`Tax1099RequestMessageSetV1`](./tax1099requestmessagesetv1). |
-| [TaxW2RequestMessageSetV1](../../aspose.finance.ofx/ofxrequestdocument/taxw2requestmessagesetv1) { get; set; } | Получает или задает[`TaxW2RequestMessageSetV1`](./taxw2requestmessagesetv1). |
-| [WireTransferRequestMessageSetV1](../../aspose.finance.ofx/ofxrequestdocument/wiretransferrequestmessagesetv1) { get; set; } | Получает или задает[`WireTransferRequestMessageSetV1`](./wiretransferrequestmessagesetv1). |
+| [BankRequestMessageSetV1](../../aspose.finance.ofx/ofxrequestdocument/bankrequestmessagesetv1) { get; set; } | Получает или задает[`BankRequestMessageSetV1`](./bankrequestmessagesetv1) . |
+| [BillPayRequestMessageSetV1](../../aspose.finance.ofx/ofxrequestdocument/billpayrequestmessagesetv1) { get; set; } | Получает или задает[`BillPayRequestMessageSetV1`](./billpayrequestmessagesetv1) . |
+| [CreditcardRequestMessageSetV1](../../aspose.finance.ofx/ofxrequestdocument/creditcardrequestmessagesetv1) { get; set; } | Получает или задает[`CreditcardRequestMessageSetV1`](./creditcardrequestmessagesetv1) . |
+| [EmailRequestMessageSetV1](../../aspose.finance.ofx/ofxrequestdocument/emailrequestmessagesetv1) { get; set; } | Получает или задает[`EmailRequestMessageSetV1`](./emailrequestmessagesetv1) . |
+| [ImageRequestMessageSetV1](../../aspose.finance.ofx/ofxrequestdocument/imagerequestmessagesetv1) { get; set; } | Получает или задает[`ImageRequestMessageSetV1`](./imagerequestmessagesetv1) . |
+| [InterTransferRequestMessageSetV1](../../aspose.finance.ofx/ofxrequestdocument/intertransferrequestmessagesetv1) { get; set; } | Получает или задает[`InterTransferRequestMessageSetV1`](./intertransferrequestmessagesetv1) . |
+| [InvestmentStatementRequestMessageSetV1](../../aspose.finance.ofx/ofxrequestdocument/investmentstatementrequestmessagesetv1) { get; set; } | Получает или задает[`InvestmentStatementRequestMessageSetV1`](./investmentstatementrequestmessagesetv1) . |
+| [LoanRequestMessageSetV1](../../aspose.finance.ofx/ofxrequestdocument/loanrequestmessagesetv1) { get; set; } | Получает или задает[`LoanRequestMessageSetV1`](./loanrequestmessagesetv1) . |
+| [PresentmentDeliveryRequestMessageSetV1](../../aspose.finance.ofx/ofxrequestdocument/presentmentdeliveryrequestmessagesetv1) { get; set; } | Получает или задает[`PresentmentDeliveryRequestMessageSetV1`](./presentmentdeliveryrequestmessagesetv1) . |
+| [PresentmentDirRequestMessageSetV1](../../aspose.finance.ofx/ofxrequestdocument/presentmentdirrequestmessagesetv1) { get; set; } | Получает или задает[`PresentmentDirRequestMessageSetV1`](./presentmentdirrequestmessagesetv1) . |
+| [ProfileRequestMessageSetV1](../../aspose.finance.ofx/ofxrequestdocument/profilerequestmessagesetv1) { get; set; } | Получает или задает[`ProfileRequestMessageSetV1`](./profilerequestmessagesetv1) . |
+| [SecurityListRequestMessageSetV1](../../aspose.finance.ofx/ofxrequestdocument/securitylistrequestmessagesetv1) { get; set; } | Получает или задает[`SecurityListRequestMessageSetV1`](./securitylistrequestmessagesetv1) . |
+| [SignonRequestMessageSetV1](../../aspose.finance.ofx/ofxrequestdocument/signonrequestmessagesetv1) { get; set; } | Получает или задает[`SignonRequestMessageSetV1`](./signonrequestmessagesetv1) . |
+| [SignupRequestMessageSetV1](../../aspose.finance.ofx/ofxrequestdocument/signuprequestmessagesetv1) { get; set; } | Получает или задает[`SignupRequestMessageSetV1`](./signuprequestmessagesetv1) . |
+| [Tax1098RequestMessageSetV1](../../aspose.finance.ofx/ofxrequestdocument/tax1098requestmessagesetv1) { get; set; } | Получает или задает[`Tax1098RequestMessageSetV1`](./tax1098requestmessagesetv1) . |
+| [Tax1099RequestMessageSetV1](../../aspose.finance.ofx/ofxrequestdocument/tax1099requestmessagesetv1) { get; set; } | Получает или задает[`Tax1099RequestMessageSetV1`](./tax1099requestmessagesetv1) . |
+| [TaxW2RequestMessageSetV1](../../aspose.finance.ofx/ofxrequestdocument/taxw2requestmessagesetv1) { get; set; } | Получает или задает[`TaxW2RequestMessageSetV1`](./taxw2requestmessagesetv1) . |
+| [WireTransferRequestMessageSetV1](../../aspose.finance.ofx/ofxrequestdocument/wiretransferrequestmessagesetv1) { get; set; } | Получает или задает[`WireTransferRequestMessageSetV1`](./wiretransferrequestmessagesetv1) . |
 
 ## Методы
 

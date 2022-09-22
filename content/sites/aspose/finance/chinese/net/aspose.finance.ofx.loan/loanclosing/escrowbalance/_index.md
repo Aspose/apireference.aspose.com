@@ -1,14 +1,14 @@
 ---
 title: EscrowBalance
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置EscrowBalanceaspose.finance.ofx.loan/loanclosing/escrowbalance
+description: 获取或设置EscrowBalanceaspose.finance.ofx.loan/loanclosing/escrowbalance.
 type: docs
 weight: 80
 url: /zh/net/aspose.finance.ofx.loan/loanclosing/escrowbalance/
 ---
 ## LoanClosing.EscrowBalance property
 
-获取或设置`EscrowBalance`。
+获取或设置`EscrowBalance`.
 
 ```csharp
 public EscrowBalance EscrowBalance { get; set; }

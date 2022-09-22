@@ -1,7 +1,7 @@
 ---
 title: AuthTokenInfoUrl
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает URL-адрес по которому информация AUTHTOKEN предоставляется учреждением управляющим сервером OFX.
+description: Получает или задает URLадрес по которому информация AUTHTOKEN предоставляется учреждением управляющим сервером OFX.
 type: docs
 weight: 40
 url: /ru/net/aspose.finance.ofx.profile/signoninfo/authtokeninfourl/

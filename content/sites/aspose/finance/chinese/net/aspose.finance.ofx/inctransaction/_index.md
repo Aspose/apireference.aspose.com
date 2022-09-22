@@ -18,7 +18,7 @@ public class IncTransaction
 
 | 姓名 | 描述 |
 | --- | --- |
-| [IncTransaction](inctransaction)() | 初始化[`IncTransaction`](../inctransaction)类的新实例。 |
+| [IncTransaction](inctransaction)() | 初始化一个新的实例[`IncTransaction`](../inctransaction)类. |
 
 ## 特性
 

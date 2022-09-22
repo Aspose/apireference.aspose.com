@@ -1,14 +1,14 @@
 ---
 title: YearToDate
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает взносы на текущий календарный год.
+description: Получает или задает текущие взносы для этого календарного года.
 type: docs
 weight: 40
 url: /ru/net/aspose.finance.ofx.investment/investment401ksummary/yeartodate/
 ---
 ## Investment401kSummary.YearToDate property
 
-Получает или задает взносы на текущий календарный год.
+Получает или задает текущие взносы для этого календарного года.
 
 ```csharp
 public YearToDate YearToDate { get; set; }

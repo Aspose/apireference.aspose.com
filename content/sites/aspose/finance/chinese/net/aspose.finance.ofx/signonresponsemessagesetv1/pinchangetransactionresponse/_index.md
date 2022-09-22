@@ -1,14 +1,14 @@
 ---
 title: PinChangeTransactionResponse
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置PinChangeTransactionResponseaspose.finance.ofx.signon/pinchangetransactionresponse
+description: 获取或设置PinChangeTransactionResponseaspose.finance.ofx.signon/pinchangetransactionresponse.
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.ofx/signonresponsemessagesetv1/pinchangetransactionresponse/
 ---
 ## SignonResponseMessageSetV1.PinChangeTransactionResponse property
 
-获取或设置[`PinChangeTransactionResponse`](../../../aspose.finance.ofx.signon/pinchangetransactionresponse)。
+获取或设置[`PinChangeTransactionResponse`](../../../aspose.finance.ofx.signon/pinchangetransactionresponse).
 
 ```csharp
 public PinChangeTransactionResponse PinChangeTransactionResponse { get; set; }

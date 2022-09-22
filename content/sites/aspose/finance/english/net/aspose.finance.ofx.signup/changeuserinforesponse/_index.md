@@ -3,7 +3,7 @@ title: ChangeUserInfoResponse
 second_title: Aspose.Finance for .NET API Reference
 description: Change user information response class.
 type: docs
-weight: 5550
+weight: 5580
 url: /net/aspose.finance.ofx.signup/changeuserinforesponse/
 ---
 ## ChangeUserInfoResponse class

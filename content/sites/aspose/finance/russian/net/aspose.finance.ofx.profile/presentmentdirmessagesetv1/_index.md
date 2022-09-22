@@ -18,14 +18,14 @@ public class PresentmentDirMessageSetV1 : AbstractMessageSetVersion
 
 | Имя | Описание |
 | --- | --- |
-| [PresentmentDirMessageSetV1](presentmentdirmessagesetv1)() | Инициализирует новый экземпляр класса[`PresentmentDirMessageSetV1`](../presentmentdirmessagesetv1). |
+| [PresentmentDirMessageSetV1](presentmentdirmessagesetv1)() | Инициализирует новый экземпляр[`PresentmentDirMessageSetV1`](../presentmentdirmessagesetv1) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [MessageSetCore](../../aspose.finance.ofx.profile/abstractmessagesetversion/messagesetcore) { get; set; } | Получает или задает[`MessageSetCore`](../abstractmessagesetversion/messagesetcore). |
-| [PresentmentDirProfile](../../aspose.finance.ofx.profile/presentmentdirmessagesetv1/presentmentdirprofile) { get; set; } | Получает или задает[`PresentmentDirProfile`](./presentmentdirprofile). |
+| [MessageSetCore](../../aspose.finance.ofx.profile/abstractmessagesetversion/messagesetcore) { get; set; } | Получает или задает[`MessageSetCore`](../abstractmessagesetversion/messagesetcore) . |
+| [PresentmentDirProfile](../../aspose.finance.ofx.profile/presentmentdirmessagesetv1/presentmentdirprofile) { get; set; } | Получает или задает[`PresentmentDirProfile`](./presentmentdirprofile) . |
 
 ### Смотрите также
 

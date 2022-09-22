@@ -18,13 +18,13 @@ public class CreditCardAccount : AbstractAccount
 
 | 姓名 | 描述 |
 | --- | --- |
-| [CreditCardAccount](creditcardaccount)() | 初始化[`CreditCardAccount`](../creditcardaccount)类的新实例。 |
+| [CreditCardAccount](creditcardaccount)() | 初始化一个新的实例[`CreditCardAccount`](../creditcardaccount)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [AccountId](../../aspose.finance.ofx/creditcardaccount/accountid) { get; set; } | 获取或设置帐户标识符。 |
+| [AccountId](../../aspose.finance.ofx/creditcardaccount/accountid) { get; set; } | 获取或设置账户标识符。 |
 | [AccountKey](../../aspose.finance.ofx/creditcardaccount/accountkey) { get; set; } | 获取或设置国际银行的校验和。 |
 
 ### 也可以看看

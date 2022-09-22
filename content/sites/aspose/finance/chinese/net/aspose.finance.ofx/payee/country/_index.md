@@ -1,14 +1,14 @@
 ---
 title: Country
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置收款人所在的国家来自 ISO/DIS-3166 的 3 字母国家代码
+description: 获取或设置收款人的国家来自 ISO/DIS3166 的 3 个字母的国家代码
 type: docs
 weight: 60
 url: /zh/net/aspose.finance.ofx/payee/country/
 ---
 ## Payee.Country property
 
-获取或设置收款人所在的国家，来自 ISO/DIS-3166 的 3 字母国家代码。
+获取或设置收款人的国家，来自 ISO/DIS-3166 的 3 个字母的国家代码。
 
 ```csharp
 public string Country { get; set; }

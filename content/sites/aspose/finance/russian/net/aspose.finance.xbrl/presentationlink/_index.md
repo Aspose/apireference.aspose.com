@@ -18,8 +18,8 @@ public class PresentationLink
 
 | Имя | Описание |
 | --- | --- |
-| [Locators](../../aspose.finance.xbrl/presentationlink/locators) { get; } | Получает коллекцию[`Loc`](../loc). |
-| [PresentationArcs](../../aspose.finance.xbrl/presentationlink/presentationarcs) { get; } | Получает коллекцию[`PresentationArc`](../presentationarc). |
+| [Locators](../../aspose.finance.xbrl/presentationlink/locators) { get; } | Получает коллекцию[`Loc`](../loc) . |
+| [PresentationArcs](../../aspose.finance.xbrl/presentationlink/presentationarcs) { get; } | Получает коллекцию[`PresentationArc`](../presentationarc) . |
 | [Role](../../aspose.finance.xbrl/presentationlink/role) { get; set; } | Получает или задает роль. |
 
 ### Смотрите также

@@ -18,24 +18,24 @@ public class Tax1098_V100 : AbstractTax1098
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Tax1098_V100](tax1098_v100)() | 初始化[`Tax1098_V100`](../tax1098_v100)类的新实例。 |
+| [Tax1098_V100](tax1098_v100)() | 初始化一个新的实例[`Tax1098_V100`](../tax1098_v100)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
 | [AccountNumber](../../aspose.finance.ofx.tax1098/tax1098_v100/accountnumber) { get; set; } | 获取或设置帐号。 |
-| [BorrowerAddress](../../aspose.finance.ofx.tax1098/tax1098_v100/borroweraddress) { get; set; } | 获取或设置[`BorrowerAddress`](./borroweraddress)。 |
+| [BorrowerAddress](../../aspose.finance.ofx.tax1098/tax1098_v100/borroweraddress) { get; set; } | 获取或设置[`BorrowerAddress`](./borroweraddress). |
 | [BorrowerId](../../aspose.finance.ofx.tax1098/tax1098_v100/borrowerid) { get; set; } | 获取或设置借款人的社会安全号码。 |
-| [LenderAddress](../../aspose.finance.ofx.tax1098/tax1098_v100/lenderaddress) { get; set; } | 获取或设置[`LenderAddress`](./lenderaddress)。 |
+| [LenderAddress](../../aspose.finance.ofx.tax1098/tax1098_v100/lenderaddress) { get; set; } | 获取或设置[`LenderAddress`](./lenderaddress). |
 | [LenderId](../../aspose.finance.ofx.tax1098/tax1098_v100/lenderid) { get; set; } | 获取或设置贷方的联邦识别号。 |
 | [MortgageInsurancePremium](../../aspose.finance.ofx.tax1098/tax1098_v100/mortgageinsurancepremium) { get; set; } | 获取或设置抵押保险费。 |
-| [MortgageInterest](../../aspose.finance.ofx.tax1098/tax1098_v100/mortgageinterest) { get; set; } | 获取或设置从借款人收到的抵押贷款利息。 |
+| [MortgageInterest](../../aspose.finance.ofx.tax1098/tax1098_v100/mortgageinterest) { get; set; } | 获取或设置从借款人那里收到的抵押贷款利息。 |
 | [OtherLoanInfo](../../aspose.finance.ofx.tax1098/tax1098_v100/otherloaninfo) { get; set; } | 获取或设置贷方提供的附加详细信息。 |
-| [OverpaidRefund](../../aspose.finance.ofx.tax1098/tax1098_v100/overpaidrefund) { get; set; } | 获取或设置多付利息返还。 |
+| [OverpaidRefund](../../aspose.finance.ofx.tax1098/tax1098_v100/overpaidrefund) { get; set; } | 获取或设置多付利息的返还。 |
 | [Points](../../aspose.finance.ofx.tax1098/tax1098_v100/points) { get; set; } | 获取或设置购买主要住宅所支付的积分。 |
 | [PropertyTax](../../aspose.finance.ofx.tax1098/tax1098_v100/propertytax) { get; set; } | 获取或设置财产税。 |
-| [ServerId](../../aspose.finance.ofx.tax1098/tax1098_v100/serverid) { get; set; } | 获取或设置主机服务器分配给表单的ID。 |
+| [ServerId](../../aspose.finance.ofx.tax1098/tax1098_v100/serverid) { get; set; } | 获取或设置宿主服务器分配给表单的ID。 |
 | [TaxYear](../../aspose.finance.ofx.tax1098/tax1098_v100/taxyear) { get; set; } | 获取或设置此表单的纳税年度，格式为“YYYY”。 |
 
 ### 也可以看看

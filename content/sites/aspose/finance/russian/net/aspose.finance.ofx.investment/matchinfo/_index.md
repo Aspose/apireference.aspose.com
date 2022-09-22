@@ -1,14 +1,14 @@
 ---
 title: MatchInfo
 second_title: Справочник по API Aspose.Finance для .NET
-description: Этот класс содержит информацию о совпадениях с работодателем.
+description: Этот класс содержит информацию о соответствии работодателю.
 type: docs
 weight: 3210
 url: /ru/net/aspose.finance.ofx.investment/matchinfo/
 ---
 ## MatchInfo class
 
-Этот класс содержит информацию о совпадениях с работодателем.
+Этот класс содержит информацию о соответствии работодателю.
 
 ```csharp
 public class MatchInfo
@@ -18,18 +18,18 @@ public class MatchInfo
 
 | Имя | Описание |
 | --- | --- |
-| [MatchInfo](matchinfo)() | Инициализирует новый экземпляр класса[`MatchInfo`](../matchinfo). |
+| [MatchInfo](matchinfo)() | Инициализирует новый экземпляр[`MatchInfo`](../matchinfo) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [BaseMatchAmount](../../aspose.finance.ofx.investment/matchinfo/basematchamount) { get; set; } | Получает или задает фиксированную сумму в долларах, внесенную работодателем, если работник вообще участвует в плане. |
-| [BaseMatchPercent](../../aspose.finance.ofx.investment/matchinfo/basematchpercent) { get; set; } | Получает или задает фиксированный процент от заработной платы сотрудника, который соответствует, если сотрудник вообще участвует в плане. |
-| [MatchPercent](../../aspose.finance.ofx.investment/matchinfo/matchpercent) { get; set; } | Получает или задает соответствующий процент вклада сотрудников. |
+| [BaseMatchAmount](../../aspose.finance.ofx.investment/matchinfo/basematchamount) { get; set; } | Получает или задает фиксированную сумму в долларах, внесенную работодателем, если сотрудник вообще участвует в плане. |
+| [BaseMatchPercent](../../aspose.finance.ofx.investment/matchinfo/basematchpercent) { get; set; } | Получает или задает фиксированный процент от заработной платы сотрудника, если сотрудник вообще участвует в плане. |
+| [MatchPercent](../../aspose.finance.ofx.investment/matchinfo/matchpercent) { get; set; } | Получает или задает процент соответствия вклада сотрудника. |
 | [MaxMatchAmount](../../aspose.finance.ofx.investment/matchinfo/maxmatchamount) { get; set; } | Получает или задает максимальную сумму взноса работодателя в любом году. |
-| [MaxMatchPercent](../../aspose.finance.ofx.investment/matchinfo/maxmatchpercent) { get; set; } | Получает или задает текущий максимальный процент взноса работодателя. |
-| [StartOfYear](../../aspose.finance.ofx.investment/matchinfo/startofyear) { get; set; } | Получает или задает параметры, когда сбрасывается максимальный вклад работодателя. Некоторые планы имеют максимум, основанный на финансовом году компании, а не на , а не на календарном году. Предположим, что календарный год, если он не указан. Используются только месяц и день (MMDD); год(ГГГГ) и время игнорируются. |
+| [MaxMatchPercent](../../aspose.finance.ofx.investment/matchinfo/maxmatchpercent) { get; set; } | Получает или задает текущий максимальный процент вклада работодателя. |
+| [StartOfYear](../../aspose.finance.ofx.investment/matchinfo/startofyear) { get; set; } | Получает или задает параметры, когда сбрасывается максимальный вклад работодателя. Некоторые планы имеют максимальное значение, основанное на финансовом году компании, а не на календарном, а не на . Предположим, что календарный год опущен. Используются только месяц и день (MMDD); год (ГГГГ) и время игнорируются. |
 
 ### Смотрите также
 

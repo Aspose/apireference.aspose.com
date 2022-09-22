@@ -1,14 +1,14 @@
 ---
 title: RecurringInterSyncResponses
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置RecurringInterSyncResponseaspose.finance.ofx.intertransfer/recurringintersyncresponse的集合
+description: 获取或设置的集合RecurringInterSyncResponseaspose.finance.ofx.intertransfer/recurringintersyncresponse.
 type: docs
 weight: 40
 url: /zh/net/aspose.finance.ofx/intertransferresponsemessagesetv1/recurringintersyncresponses/
 ---
 ## InterTransferResponseMessageSetV1.RecurringInterSyncResponses property
 
-获取或设置[`RecurringInterSyncResponse`](../../../aspose.finance.ofx.intertransfer/recurringintersyncresponse)的集合。
+获取或设置的集合[`RecurringInterSyncResponse`](../../../aspose.finance.ofx.intertransfer/recurringintersyncresponse).
 
 ```csharp
 public List<RecurringInterSyncResponse> RecurringInterSyncResponses { get; set; }

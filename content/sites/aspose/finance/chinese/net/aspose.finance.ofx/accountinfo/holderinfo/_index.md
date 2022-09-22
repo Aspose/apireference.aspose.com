@@ -1,14 +1,14 @@
 ---
 title: HolderInfo
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置HolderInfoTypeaspose.finance.ofx/holderinfotype
+description: 获取或设置HolderInfoTypeaspose.finance.ofx/holderinfotype.
 type: docs
 weight: 40
 url: /zh/net/aspose.finance.ofx/accountinfo/holderinfo/
 ---
 ## AccountInfo.HolderInfo property
 
-获取或设置[`HolderInfoType`](../../holderinfotype)。
+获取或设置[`HolderInfoType`](../../holderinfotype).
 
 ```csharp
 public HolderInfoType HolderInfo { get; set; }

@@ -8,7 +8,7 @@ url: /zh/net/aspose.finance.ofx.loan/loantransactionlist/
 ---
 ## LoanTransactionList class
 
-贷款报表交易数据采集类。
+贷款报表交易数据采集类
 
 ```csharp
 public class LoanTransactionList
@@ -18,15 +18,15 @@ public class LoanTransactionList
 
 | 姓名 | 描述 |
 | --- | --- |
-| [LoanTransactionList](loantransactionlist)() | 初始化[`LoanTransactionList`](../loantransactionlist)类的新实例。 |
+| [LoanTransactionList](loantransactionlist)() | 初始化一个新的实例[`LoanTransactionList`](../loantransactionlist)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
 | [EndDate](../../aspose.finance.ofx.loan/loantransactionlist/enddate) { get; set; } | 获取或设置交易数据的结束日期。 |
-| [LoanStatementTransactions](../../aspose.finance.ofx.loan/loantransactionlist/loanstatementtransactions) { get; set; } | 获取或设置[`LoanStatementTransaction`](../loanstatementtransaction)的集合。 |
-| [StartDate](../../aspose.finance.ofx.loan/loantransactionlist/startdate) { get; set; } | 获取或设置事务数据的开始日期。 |
+| [LoanStatementTransactions](../../aspose.finance.ofx.loan/loantransactionlist/loanstatementtransactions) { get; set; } | 获取或设置的集合[`LoanStatementTransaction`](../loanstatementtransaction). |
+| [StartDate](../../aspose.finance.ofx.loan/loantransactionlist/startdate) { get; set; } | 获取或设置交易数据的开始日期。 |
 
 ### 也可以看看
 

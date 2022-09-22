@@ -1,14 +1,14 @@
 ---
 title: BillStatusModTransactionRequests
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置BillStatusModTransactionRequestaspose.finance.ofx.billerdelivery/billstatusmodtransactionrequest的集合
+description: 获取或设置的集合BillStatusModTransactionRequestaspose.finance.ofx.billerdelivery/billstatusmodtransactionrequest.
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.ofx/presentmentdeliveryrequestmessagesetv1/billstatusmodtransactionrequests/
 ---
 ## PresentmentDeliveryRequestMessageSetV1.BillStatusModTransactionRequests property
 
-获取或设置[`BillStatusModTransactionRequest`](../../../aspose.finance.ofx.billerdelivery/billstatusmodtransactionrequest)的集合。
+获取或设置的集合[`BillStatusModTransactionRequest`](../../../aspose.finance.ofx.billerdelivery/billstatusmodtransactionrequest).
 
 ```csharp
 public List<BillStatusModTransactionRequest> BillStatusModTransactionRequests { get; set; }

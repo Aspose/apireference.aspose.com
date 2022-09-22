@@ -18,13 +18,13 @@ public class OpenOrderBuyOption : AbstractOpenOrder
 
 | Имя | Описание |
 | --- | --- |
-| [OpenOrderBuyOption](openorderbuyoption)() | Инициализирует новый экземпляр класса[`OpenOrderBuyOption`](../openorderbuyoption). |
+| [OpenOrderBuyOption](openorderbuyoption)() | Инициализирует новый экземпляр[`OpenOrderBuyOption`](../openorderbuyoption) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [OpenOrder](../../aspose.finance.ofx.investment/abstractopenorder/openorder) { get; set; } | Получает или задает[`GeneralOpenOrder`](../generalopenorder). |
+| [OpenOrder](../../aspose.finance.ofx.investment/abstractopenorder/openorder) { get; set; } | Получает или задает[`GeneralOpenOrder`](../generalopenorder) . |
 | [OptionBuyType](../../aspose.finance.ofx.investment/openorderbuyoption/optionbuytype) { get; set; } | Получает или задает тип покупки. |
 
 ### Смотрите также

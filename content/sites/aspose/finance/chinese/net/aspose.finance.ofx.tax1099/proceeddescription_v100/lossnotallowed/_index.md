@@ -1,14 +1,14 @@
 ---
 title: LossNotAllowed
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置不允许的丢失
+description: 获取或设置loss not allowed.
 type: docs
 weight: 90
 url: /zh/net/aspose.finance.ofx.tax1099/proceeddescription_v100/lossnotallowed/
 ---
 ## ProceedDescription_V100.LossNotAllowed property
 
-获取或设置不允许的丢失。
+获取或设置loss not allowed.
 
 ```csharp
 public bool LossNotAllowed { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: FootnoteArc
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化FootnoteArcaspose.finance.xbrl/footnotearc类的新实例
+description: 初始化一个新的实例FootnoteArcaspose.finance.xbrl/footnotearc类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.xbrl/footnotearc/footnotearc/
 ---
 ## FootnoteArc constructor
 
-初始化[`FootnoteArc`](../../footnotearc)类的新实例。
+初始化一个新的实例[`FootnoteArc`](../../footnotearc)类.
 
 ```csharp
 public FootnoteArc(string fromLabel, string toLabel)

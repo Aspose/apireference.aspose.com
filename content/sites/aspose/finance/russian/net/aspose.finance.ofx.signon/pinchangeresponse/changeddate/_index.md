@@ -1,14 +1,14 @@
 ---
 title: ChangedDate
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает дату и время смены пароля.
+description: Получает или задает дату и время изменения пароля.
 type: docs
 weight: 20
 url: /ru/net/aspose.finance.ofx.signon/pinchangeresponse/changeddate/
 ---
 ## PinChangeResponse.ChangedDate property
 
-Получает или задает дату и время смены пароля.
+Получает или задает дату и время изменения пароля.
 
 ```csharp
 public string ChangedDate { get; set; }

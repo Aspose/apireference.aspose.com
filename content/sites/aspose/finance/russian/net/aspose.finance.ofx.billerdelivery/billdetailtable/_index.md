@@ -18,13 +18,13 @@ public class BillDetailTable
 
 | Имя | Описание |
 | --- | --- |
-| [BillDetailTable](billdetailtable)() | Инициализирует новый экземпляр класса[`BillDetailTable`](../billdetailtable). |
+| [BillDetailTable](billdetailtable)() | Инициализирует новый экземпляр[`BillDetailTable`](../billdetailtable) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [BillDetailRows](../../aspose.finance.ofx.billerdelivery/billdetailtable/billdetailrows) { get; set; } | Получает или задает коллекцию[`BillDetailRow`](../billdetailrow). |
+| [BillDetailRows](../../aspose.finance.ofx.billerdelivery/billdetailtable/billdetailrows) { get; set; } | Получает или задает коллекцию[`BillDetailRow`](../billdetailrow) . |
 | [BillDetailTableType](../../aspose.finance.ofx.billerdelivery/billdetailtable/billdetailtabletype) { get; set; } | Получает или задает тип таблицы сведений о счете. |
 | [TableName](../../aspose.finance.ofx.billerdelivery/billdetailtable/tablename) { get; set; } | Получает или задает имя таблицы сведений о счетах. |
 

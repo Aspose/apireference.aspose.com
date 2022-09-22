@@ -1,14 +1,14 @@
 ---
 title: PayerState
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает код штата плательщика.
+description: Получает или задает код состояния плательщика.
 type: docs
 weight: 20
 url: /ru/net/aspose.finance.ofx.tax1099/additionalstatetaxwithheldaggregate/payerstate/
 ---
 ## AdditionalStateTaxWithheldAggregate.PayerState property
 
-Получает или задает код штата плательщика.
+Получает или задает код состояния плательщика.
 
 ```csharp
 public string PayerState { get; set; }

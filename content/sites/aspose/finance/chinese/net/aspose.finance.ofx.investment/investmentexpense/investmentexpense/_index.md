@@ -1,14 +1,14 @@
 ---
 title: InvestmentExpense
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化InvestmentExpenseaspose.finance.ofx.investment/investmentexpense类的新实例
+description: 初始化一个新的实例InvestmentExpenseaspose.finance.ofx.investment/investmentexpense类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.investment/investmentexpense/investmentexpense/
 ---
 ## InvestmentExpense constructor
 
-初始化[`InvestmentExpense`](../../investmentexpense)类的新实例。
+初始化一个新的实例[`InvestmentExpense`](../../investmentexpense)类.
 
 ```csharp
 public InvestmentExpense()

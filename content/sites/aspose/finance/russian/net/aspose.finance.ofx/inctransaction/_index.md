@@ -1,14 +1,14 @@
 ---
 title: IncTransaction
 second_title: Справочник по API Aspose.Finance для .NET
-description: Включить класс транзакций
+description: Включить транзакции class
 type: docs
 weight: 2340
 url: /ru/net/aspose.finance.ofx/inctransaction/
 ---
 ## IncTransaction class
 
-Включить класс транзакций
+Включить транзакции class
 
 ```csharp
 public class IncTransaction
@@ -18,15 +18,15 @@ public class IncTransaction
 
 | Имя | Описание |
 | --- | --- |
-| [IncTransaction](inctransaction)() | Инициализирует новый экземпляр класса[`IncTransaction`](../inctransaction). |
+| [IncTransaction](inctransaction)() | Инициализирует новый экземпляр[`IncTransaction`](../inctransaction) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
 | [EndDate](../../aspose.finance.ofx/inctransaction/enddate) { get; set; } | Получает или задает конечную дату запрашиваемой выписки |
-| [Include](../../aspose.finance.ofx/inctransaction/include) { get; set; } | Возвращает или устанавливает флаг включения транзакций |
-| [StartDate](../../aspose.finance.ofx/inctransaction/startdate) { get; set; } | Получает или задает начальную дату запрошенного оператора |
+| [Include](../../aspose.finance.ofx/inctransaction/include) { get; set; } | Получает или задает, следует ли включать транзакции flag |
+| [StartDate](../../aspose.finance.ofx/inctransaction/startdate) { get; set; } | Получает или задает начальную дату запрашиваемого оператора |
 
 ### Смотрите также
 

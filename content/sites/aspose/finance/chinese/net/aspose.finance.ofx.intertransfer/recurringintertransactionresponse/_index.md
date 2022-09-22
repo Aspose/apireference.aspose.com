@@ -18,16 +18,16 @@ public class RecurringInterTransactionResponse : AbstractTransactionResponse
 
 | 姓名 | 描述 |
 | --- | --- |
-| [RecurringInterTransactionResponse](recurringintertransactionresponse)() | 初始化[`RecurringInterTransactionResponse`](../recurringintertransactionresponse)类的新实例。 |
+| [RecurringInterTransactionResponse](recurringintertransactionresponse)() | 初始化一个新的实例[`RecurringInterTransactionResponse`](../recurringintertransactionresponse)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
 | [ClientCookie](../../aspose.finance.ofx/abstracttransactionresponse/clientcookie) { get; set; } | 获取或设置要在事务响应中回显的数据 |
-| [OfxExtension](../../aspose.finance.ofx.intertransfer/recurringintertransactionresponse/ofxextension) { get; set; } | 获取或设置[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype)。 |
-| [Response](../../aspose.finance.ofx.intertransfer/recurringintertransactionresponse/response) { get; set; } | 获取或设置[`RecurringInterResponse`](../recurringinterresponse)或[`RecurringInterModResponse`](../recurringintermodresponse)或[`RecurringInterCancellationResponse`](../recurringintercancellationresponse)。 |
-| [Status](../../aspose.finance.ofx/abstracttransactionresponse/status) { get; set; } | 获取或设置[`Status`](../../aspose.finance.ofx/abstracttransactionresponse/status)。 |
+| [OfxExtension](../../aspose.finance.ofx.intertransfer/recurringintertransactionresponse/ofxextension) { get; set; } | 获取或设置[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
+| [Response](../../aspose.finance.ofx.intertransfer/recurringintertransactionresponse/response) { get; set; } | 获取或设置[`RecurringInterResponse`](../recurringinterresponse)或者[`RecurringInterModResponse`](../recurringintermodresponse)或者[`RecurringInterCancellationResponse`](../recurringintercancellationresponse). |
+| [Status](../../aspose.finance.ofx/abstracttransactionresponse/status) { get; set; } | 获取或设置[`Status`](../../aspose.finance.ofx/abstracttransactionresponse/status). |
 | [TransactionUniqueId](../../aspose.finance.ofx/abstracttransactionresponse/transactionuniqueid) { get; set; } | 获取或设置此事务的客户端分配的全局唯一 ID。 |
 
 ### 也可以看看

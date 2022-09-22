@@ -1,14 +1,14 @@
 ---
 title: RecurringInterResponse
 second_title: Справочник по API Aspose.Finance для .NET
-description: Класс ответа повторяющегося межбанковского перевода.
+description: Класс ответов на повторяющиеся межбанковские переводы.
 type: docs
 weight: 2540
 url: /ru/net/aspose.finance.ofx.intertransfer/recurringinterresponse/
 ---
 ## RecurringInterResponse class
 
-Класс ответа повторяющегося межбанковского перевода.
+Класс ответов на повторяющиеся межбанковские переводы.
 
 ```csharp
 public class RecurringInterResponse : AbstractRecurringInterResponse
@@ -18,14 +18,14 @@ public class RecurringInterResponse : AbstractRecurringInterResponse
 
 | Имя | Описание |
 | --- | --- |
-| [RecurringInterResponse](recurringinterresponse)() | Инициализирует новый экземпляр класса[`RecurringInterResponse`](../recurringinterresponse). |
+| [RecurringInterResponse](recurringinterresponse)() | Инициализирует новый экземпляр[`RecurringInterResponse`](../recurringinterresponse) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [InterResponse](../../aspose.finance.ofx.intertransfer/recurringinterresponse/interresponse) { get; set; } | Получает или задает[`InterResponse`](./interresponse). |
-| [RecurringInstructions](../../aspose.finance.ofx.intertransfer/recurringinterresponse/recurringinstructions) { get; set; } | Получает или задает[`RecurringInstructions`](./recurringinstructions). |
+| [InterResponse](../../aspose.finance.ofx.intertransfer/recurringinterresponse/interresponse) { get; set; } | Получает или задает[`InterResponse`](./interresponse) . |
+| [RecurringInstructions](../../aspose.finance.ofx.intertransfer/recurringinterresponse/recurringinstructions) { get; set; } | Получает или задает[`RecurringInstructions`](./recurringinstructions) . |
 | [RecurringServerId](../../aspose.finance.ofx.intertransfer/abstractrecurringinterresponse/recurringserverid) { get; set; } | Получает или задает назначенный сервером идентификатор для этой модели. |
 
 ### Смотрите также

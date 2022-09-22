@@ -1,14 +1,14 @@
 ---
 title: Tuple
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化Tupleaspose.finance.xbrl/tuple类的新实例
+description: 初始化一个新的实例Tupleaspose.finance.xbrl/tuple类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.xbrl/tuple/tuple/
 ---
 ## Tuple constructor
 
-初始化[`Tuple`](../../tuple)类的新实例。
+初始化一个新的实例[`Tuple`](../../tuple)类.
 
 ```csharp
 public Tuple(Concept concept)
@@ -16,7 +16,7 @@ public Tuple(Concept concept)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| concept | Concept | [`SchemaRef`](../../schemaref) |
+| concept | Concept | 概念定义在[`SchemaRef`](../../schemaref) |
 
 ### 也可以看看
 

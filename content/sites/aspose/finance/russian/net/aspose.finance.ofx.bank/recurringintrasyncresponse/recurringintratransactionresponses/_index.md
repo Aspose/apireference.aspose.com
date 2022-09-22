@@ -1,14 +1,14 @@
 ---
 title: RecurringIntraTransactionResponses
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает коллекциюRecurringIntraTransactionResponseaspose.finance.ofx.bank/recurringintratransactionresponse.
+description: Получает или задает коллекциюRecurringIntraTransactionResponseaspose.finance.ofx.bank/recurringintratransactionresponse .
 type: docs
 weight: 40
 url: /ru/net/aspose.finance.ofx.bank/recurringintrasyncresponse/recurringintratransactionresponses/
 ---
 ## RecurringIntraSyncResponse.RecurringIntraTransactionResponses property
 
-Получает или задает коллекцию[`RecurringIntraTransactionResponse`](../../recurringintratransactionresponse).
+Получает или задает коллекцию[`RecurringIntraTransactionResponse`](../../recurringintratransactionresponse) .
 
 ```csharp
 public List<RecurringIntraTransactionResponse> RecurringIntraTransactionResponses { get; set; }

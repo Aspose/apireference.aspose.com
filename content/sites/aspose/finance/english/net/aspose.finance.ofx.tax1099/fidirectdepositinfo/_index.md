@@ -3,7 +3,7 @@ title: FIDirectDepositInfo
 second_title: Aspose.Finance for .NET API Reference
 description: Optional direct deposit class.
 type: docs
-weight: 5900
+weight: 5930
 url: /net/aspose.finance.ofx.tax1099/fidirectdepositinfo/
 ---
 ## FIDirectDepositInfo class

@@ -1,14 +1,14 @@
 ---
 title: OpenOrderSwitchMutualFund
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаOpenOrderSwitchMutualFundaspose.finance.ofx.investment/openorderswitchmutualfund.
+description: Инициализирует новый экземплярOpenOrderSwitchMutualFundaspose.finance.ofx.investment/openorderswitchmutualfund класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.investment/openorderswitchmutualfund/openorderswitchmutualfund/
 ---
 ## OpenOrderSwitchMutualFund constructor
 
-Инициализирует новый экземпляр класса[`OpenOrderSwitchMutualFund`](../../openorderswitchmutualfund).
+Инициализирует новый экземпляр[`OpenOrderSwitchMutualFund`](../../openorderswitchmutualfund) класс.
 
 ```csharp
 public OpenOrderSwitchMutualFund()

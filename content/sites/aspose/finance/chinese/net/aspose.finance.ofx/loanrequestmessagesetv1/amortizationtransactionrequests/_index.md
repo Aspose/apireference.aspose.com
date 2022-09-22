@@ -1,14 +1,14 @@
 ---
 title: AmortizationTransactionRequests
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置AmortizationTransactionRequestaspose.finance.ofx.loan/amortizationtransactionrequest的集合
+description: 获取或设置的集合AmortizationTransactionRequestaspose.finance.ofx.loan/amortizationtransactionrequest.
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.ofx/loanrequestmessagesetv1/amortizationtransactionrequests/
 ---
 ## LoanRequestMessageSetV1.AmortizationTransactionRequests property
 
-获取或设置[`AmortizationTransactionRequest`](../../../aspose.finance.ofx.loan/amortizationtransactionrequest)的集合。
+获取或设置的集合[`AmortizationTransactionRequest`](../../../aspose.finance.ofx.loan/amortizationtransactionrequest).
 
 ```csharp
 public List<AmortizationTransactionRequest> AmortizationTransactionRequests { get; set; }

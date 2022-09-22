@@ -1,14 +1,14 @@
 ---
 title: MFAChallengeResponse
 second_title: Справочник по API Aspose.Finance для .NET
-description: Класс ответа на вызов MFA.
+description: Класс ответа на запрос MFA.
 type: docs
 weight: 5340
 url: /ru/net/aspose.finance.ofx.signon/mfachallengeresponse/
 ---
 ## MFAChallengeResponse class
 
-Класс ответа на вызов MFA.
+Класс ответа на запрос MFA.
 
 ```csharp
 public class MFAChallengeResponse
@@ -18,13 +18,13 @@ public class MFAChallengeResponse
 
 | Имя | Описание |
 | --- | --- |
-| [MFAChallengeResponse](mfachallengeresponse)() | Инициализирует новый экземпляр класса[`MFAChallengeResponse`](../mfachallengeresponse). |
+| [MFAChallengeResponse](mfachallengeresponse)() | Инициализирует новый экземпляр[`MFAChallengeResponse`](../mfachallengeresponse) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [MFAChallenges](../../aspose.finance.ofx.signon/mfachallengeresponse/mfachallenges) { get; set; } | Получает или задает коллекцию[`MFAChallenge`](../mfachallenge). |
+| [MFAChallenges](../../aspose.finance.ofx.signon/mfachallengeresponse/mfachallenges) { get; set; } | Получает или задает коллекцию[`MFAChallenge`](../mfachallenge) . |
 
 ### Смотрите также
 

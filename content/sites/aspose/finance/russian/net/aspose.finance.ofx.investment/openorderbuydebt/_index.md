@@ -1,14 +1,14 @@
 ---
 title: OpenOrderBuyDebt
 second_title: Справочник по API Aspose.Finance для .NET
-description: Открытый ордер на покупку долгового класса.
+description: Открытый ордер на покупку класса долга.
 type: docs
 weight: 3220
 url: /ru/net/aspose.finance.ofx.investment/openorderbuydebt/
 ---
 ## OpenOrderBuyDebt class
 
-Открытый ордер на покупку долгового класса.
+Открытый ордер на покупку класса долга.
 
 ```csharp
 public class OpenOrderBuyDebt : AbstractOpenOrder
@@ -18,7 +18,7 @@ public class OpenOrderBuyDebt : AbstractOpenOrder
 
 | Имя | Описание |
 | --- | --- |
-| [OpenOrderBuyDebt](openorderbuydebt)() | Инициализирует новый экземпляр класса[`OpenOrderBuyDebt`](../openorderbuydebt). |
+| [OpenOrderBuyDebt](openorderbuydebt)() | Инициализирует новый экземпляр[`OpenOrderBuyDebt`](../openorderbuydebt) класс. |
 
 ## Характеристики
 
@@ -26,7 +26,7 @@ public class OpenOrderBuyDebt : AbstractOpenOrder
 | --- | --- |
 | [Auction](../../aspose.finance.ofx.investment/openorderbuydebt/auction) { get; set; } | Получает или задает, следует ли покупать долг на аукционе. |
 | [AuctionDate](../../aspose.finance.ofx.investment/openorderbuydebt/auctiondate) { get; set; } | Получает или задает дату аукциона. |
-| [OpenOrder](../../aspose.finance.ofx.investment/abstractopenorder/openorder) { get; set; } | Получает или задает[`GeneralOpenOrder`](../generalopenorder). |
+| [OpenOrder](../../aspose.finance.ofx.investment/abstractopenorder/openorder) { get; set; } | Получает или задает[`GeneralOpenOrder`](../generalopenorder) . |
 
 ### Смотрите также
 

@@ -1,14 +1,14 @@
 ---
 title: PaymentInquiryRequest
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化PaymentInquiryRequestaspose.finance.ofx.billpay/paymentinquiryrequest类的新实例
+description: 初始化一个新的实例PaymentInquiryRequestaspose.finance.ofx.billpay/paymentinquiryrequest类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.billpay/paymentinquiryrequest/paymentinquiryrequest/
 ---
 ## PaymentInquiryRequest constructor
 
-初始化[`PaymentInquiryRequest`](../../paymentinquiryrequest)类的新实例。
+初始化一个新的实例[`PaymentInquiryRequest`](../../paymentinquiryrequest)类.
 
 ```csharp
 public PaymentInquiryRequest()

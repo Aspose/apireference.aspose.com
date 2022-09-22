@@ -3,7 +3,7 @@ title: PresentmentDirProfile
 second_title: Aspose.Finance for .NET API Reference
 description: Biller directory profile class.
 type: docs
-weight: 4640
+weight: 4660
 url: /net/aspose.finance.ofx.profile/presentmentdirprofile/
 ---
 ## PresentmentDirProfile class

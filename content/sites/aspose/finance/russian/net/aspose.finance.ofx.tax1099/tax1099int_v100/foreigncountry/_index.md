@@ -1,14 +1,14 @@
 ---
 title: ForeignCountry
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает чужую страну или владение США.
+description: Получает или задает владение другой страной или США.
 type: docs
 weight: 80
 url: /ru/net/aspose.finance.ofx.tax1099/tax1099int_v100/foreigncountry/
 ---
 ## Tax1099INT_V100.ForeignCountry property
 
-Получает или задает чужую страну или владение США.
+Получает или задает владение другой страной или США.
 
 ```csharp
 public string ForeignCountry { get; set; }

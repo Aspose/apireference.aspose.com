@@ -1,14 +1,14 @@
 ---
 title: StatusModifiedBy
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置修改者的状态服务器不需要存储此信息
+description: 获取或设置修改者的状态服务器不需要存储这些信息
 type: docs
 weight: 50
 url: /zh/net/aspose.finance.ofx.billerdelivery/billpaymentstatus/statusmodifiedby/
 ---
 ## BillPaymentStatus.StatusModifiedBy property
 
-获取或设置修改者的状态。服务器不需要存储此信息。
+获取或设置修改者的状态。服务器不需要存储这些信息。
 
 ```csharp
 public StatusModByEnum StatusModifiedBy { get; set; }

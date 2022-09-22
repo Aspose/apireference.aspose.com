@@ -16,7 +16,7 @@ public RoleType GetRoleTypeByURI(string roleTypeUri)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| roleTypeUri | String | 角色类型uri。 |
+| roleTypeUri | String | 角色类型 uri。 |
 
 ### 返回值
 

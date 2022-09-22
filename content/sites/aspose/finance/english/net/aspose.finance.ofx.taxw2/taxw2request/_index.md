@@ -3,7 +3,7 @@ title: TaxW2Request
 second_title: Aspose.Finance for .NET API Reference
 description: Tax W2 request class. This requests the W2 tax form from the server.
 type: docs
-weight: 6180
+weight: 6210
 url: /net/aspose.finance.ofx.taxw2/taxw2request/
 ---
 ## TaxW2Request class

@@ -1,14 +1,14 @@
 ---
 title: LoanAccount
 second_title: Aspose.Finance for .NET API 参考
-description: Open Financial Exchange 使用贷款账户来识别金融机构的贷款账户该类包含足够的信息来唯一地识别用于报表下载和资金转账的账户
+description: Open Financial Exchange 使用贷款账户来识别金融机构的贷款账户该类包含足够的信息来唯一地识别用于报表下载和资金转移的账户
 type: docs
 weight: 4010
 url: /zh/net/aspose.finance.ofx/loanaccount/
 ---
 ## LoanAccount class
 
-Open Financial Exchange 使用贷款账户来识别金融机构的贷款账户。该类包含足够的信息来唯一地识别用于报表下载和资金转账的账户。
+Open Financial Exchange 使用贷款账户来识别金融机构的贷款账户。该类包含足够的信息来唯一地识别用于报表下载和资金转移的账户。
 
 ```csharp
 public class LoanAccount : AbstractAccount
@@ -18,14 +18,14 @@ public class LoanAccount : AbstractAccount
 
 | 姓名 | 描述 |
 | --- | --- |
-| [LoanAccount](loanaccount)() | 初始化[`LoanAccount`](../loanaccount)类的新实例。 |
+| [LoanAccount](loanaccount)() | 初始化一个新的实例[`LoanAccount`](../loanaccount)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [LoanAccountId](../../aspose.finance.ofx/loanaccount/loanaccountid) { get; set; } | 获取或设置帐户 ID。 |
-| [LoanAccountType](../../aspose.finance.ofx/loanaccount/loanaccounttype) { get; set; } | 获取或设置帐户类型。 |
+| [LoanAccountId](../../aspose.finance.ofx/loanaccount/loanaccountid) { get; set; } | 获取或设置账户id。 |
+| [LoanAccountType](../../aspose.finance.ofx/loanaccount/loanaccounttype) { get; set; } | 获取或设置账户类型。 |
 
 ### 也可以看看
 

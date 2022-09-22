@@ -3,7 +3,7 @@ title: Portion
 second_title: Aspose.Finance for .NET API Reference
 description: Portion of the mutual fund with a specific asset classification.
 type: docs
-weight: 5120
+weight: 5150
 url: /net/aspose.finance.ofx.securitieslist/portion/
 ---
 ## Portion class

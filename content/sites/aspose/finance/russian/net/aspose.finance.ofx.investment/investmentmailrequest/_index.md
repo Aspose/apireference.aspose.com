@@ -1,14 +1,14 @@
 ---
 title: InvestmentMailRequest
 second_title: Справочник по API Aspose.Finance для .NET
-description: Класс запроса инвестиций по электронной почте.
+description: Класс инвестиционных запросов по электронной почте.
 type: docs
 weight: 2970
 url: /ru/net/aspose.finance.ofx.investment/investmentmailrequest/
 ---
 ## InvestmentMailRequest class
 
-Класс запроса инвестиций по электронной почте.
+Класс инвестиционных запросов по электронной почте.
 
 ```csharp
 public class InvestmentMailRequest
@@ -18,14 +18,14 @@ public class InvestmentMailRequest
 
 | Имя | Описание |
 | --- | --- |
-| [InvestmentMailRequest](investmentmailrequest)() | Инициализирует новый экземпляр класса[`InvestmentMailRequest`](../investmentmailrequest). |
+| [InvestmentMailRequest](investmentmailrequest)() | Инициализирует новый экземпляр[`InvestmentMailRequest`](../investmentmailrequest) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [InvestmentAccountFrom](../../aspose.finance.ofx.investment/investmentmailrequest/investmentaccountfrom) { get; set; } | Получает или задает значение из[`InvestmentAccount`](../../aspose.finance.ofx/investmentaccount). |
-| [Mail](../../aspose.finance.ofx.investment/investmentmailrequest/mail) { get; set; } | Получает или задает[`Mail`](./mail). |
+| [InvestmentAccountFrom](../../aspose.finance.ofx.investment/investmentmailrequest/investmentaccountfrom) { get; set; } | Получает или задает из[`InvestmentAccount`](../../aspose.finance.ofx/investmentaccount) . |
+| [Mail](../../aspose.finance.ofx.investment/investmentmailrequest/mail) { get; set; } | Получает или задает[`Mail`](./mail) . |
 
 ### Смотрите также
 

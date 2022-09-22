@@ -1,14 +1,14 @@
 ---
 title: LoanAccountType
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置帐户类型
+description: 获取或设置账户类型
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.ofx/loanaccount/loanaccounttype/
 ---
 ## LoanAccount.LoanAccountType property
 
-获取或设置帐户类型。
+获取或设置账户类型。
 
 ```csharp
 public LoanAccountEnum LoanAccountType { get; set; }

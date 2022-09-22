@@ -18,15 +18,15 @@ public class BillStatusModRequest
 
 | Имя | Описание |
 | --- | --- |
-| [BillStatusModRequest](billstatusmodrequest)() | Инициализирует новый экземпляр класса[`BillStatusModRequest`](../billstatusmodrequest). |
+| [BillStatusModRequest](billstatusmodrequest)() | Инициализирует новый экземпляр[`BillStatusModRequest`](../billstatusmodrequest) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
 | [BillId](../../aspose.finance.ofx.billerdelivery/billstatusmodrequest/billid) { get; set; } | Получает или задает идентификатор счета. |
-| [BillPaymentstatus](../../aspose.finance.ofx.billerdelivery/billstatusmodrequest/billpaymentstatus) { get; set; } | Получает или задает[`BillPaymentstatus`](./billpaymentstatus). |
-| [BillStatus](../../aspose.finance.ofx.billerdelivery/billstatusmodrequest/billstatus) { get; set; } | Получает или задает[`BillStatus`](./billstatus). |
+| [BillPaymentstatus](../../aspose.finance.ofx.billerdelivery/billstatusmodrequest/billpaymentstatus) { get; set; } | Получает или задает[`BillPaymentstatus`](./billpaymentstatus) . |
+| [BillStatus](../../aspose.finance.ofx.billerdelivery/billstatusmodrequest/billstatus) { get; set; } | Получает или задает[`BillStatus`](./billstatus) . |
 
 ### Смотрите также
 

@@ -18,7 +18,7 @@ public abstract class AbstractSyncRequest : AbstractRequest
 
 | Имя | Описание |
 | --- | --- |
-| [Refresh](../../aspose.finance.ofx/abstractsyncrequest/refresh) { get; set; } | Получает или задает запрос на обновление текущего состояния. |
+| [Refresh](../../aspose.finance.ofx/abstractsyncrequest/refresh) { get; set; } | Получает или устанавливает запрос на обновление текущего состояния. |
 | [RejectIfMisssing](../../aspose.finance.ofx/abstractsyncrequest/rejectifmisssing) { get; set; } | Если да, не обрабатывать запросы, если токен клиента устарел. |
 | [Token](../../aspose.finance.ofx/abstractsyncrequest/token) { get; set; } | Получает или задает токен. |
 | [TokenOnly](../../aspose.finance.ofx/abstractsyncrequest/tokenonly) { get; set; } | Получает или задает, запрашивать ли только текущий токен без истории. |

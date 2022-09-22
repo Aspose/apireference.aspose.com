@@ -1,14 +1,14 @@
 ---
 title: ExtendedPaymentCheck
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置用于此付款的支票号码
+description: 获取或设置用于此次付款的支票号码
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.ofx.billpay/extendedpayment/extendedpaymentcheck/
 ---
 ## ExtendedPayment.ExtendedPaymentCheck property
 
-获取或设置用于此付款的支票号码。
+获取或设置用于此次付款的支票号码。
 
 ```csharp
 public string ExtendedPaymentCheck { get; set; }

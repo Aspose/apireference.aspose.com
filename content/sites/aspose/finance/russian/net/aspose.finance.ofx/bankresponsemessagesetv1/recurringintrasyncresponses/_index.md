@@ -1,14 +1,14 @@
 ---
 title: RecurringIntraSyncResponses
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает коллекциюRecurringIntraSyncResponseaspose.finance.ofx.bank/recurringintrasyncresponse.
+description: Получает или задает коллекциюRecurringIntraSyncResponseaspose.finance.ofx.bank/recurringintrasyncresponse .
 type: docs
 weight: 60
 url: /ru/net/aspose.finance.ofx/bankresponsemessagesetv1/recurringintrasyncresponses/
 ---
 ## BankResponseMessageSetV1.RecurringIntraSyncResponses property
 
-Получает или задает коллекцию[`RecurringIntraSyncResponse`](../../../aspose.finance.ofx.bank/recurringintrasyncresponse).
+Получает или задает коллекцию[`RecurringIntraSyncResponse`](../../../aspose.finance.ofx.bank/recurringintrasyncresponse) .
 
 ```csharp
 public List<RecurringIntraSyncResponse> RecurringIntraSyncResponses { get; set; }

@@ -3,7 +3,7 @@ title: OpenOrderSellDebt
 second_title: Aspose.Finance for .NET API Reference
 description: Open order sell debt class.
 type: docs
-weight: 3270
+weight: 3280
 url: /net/aspose.finance.ofx.investment/openorderselldebt/
 ---
 ## OpenOrderSellDebt class

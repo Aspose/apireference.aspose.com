@@ -1,14 +1,14 @@
 ---
 title: AccountTo
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает значениеBankAccountaspose.finance.ofx/bankaccountилиCreditCardAccountaspose.finance.ofx/creditcardaccountилиInvestmentAccountaspose.finance.ofx/investmentaccountилиPresentmentAccountaspose.finance.ofx/presentmentaccount.
+description: Получает или задает значениеBankAccountaspose.finance.ofx/bankaccount или жеCreditCardAccountaspose.finance.ofx/creditcardaccount или жеInvestmentAccountaspose.finance.ofx/investmentaccount или жеPresentmentAccountaspose.finance.ofx/presentmentaccount .
 type: docs
 weight: 30
 url: /ru/net/aspose.finance.ofx.signup/servicechange/accountto/
 ---
 ## ServiceChange.AccountTo property
 
-Получает или задает значение[`BankAccount`](../../../aspose.finance.ofx/bankaccount)или[`CreditCardAccount`](../../../aspose.finance.ofx/creditcardaccount)или[`InvestmentAccount`](../../../aspose.finance.ofx/investmentaccount)или[`PresentmentAccount`](../../../aspose.finance.ofx/presentmentaccount).
+Получает или задает значение[`BankAccount`](../../../aspose.finance.ofx/bankaccount) или же[`CreditCardAccount`](../../../aspose.finance.ofx/creditcardaccount) или же[`InvestmentAccount`](../../../aspose.finance.ofx/investmentaccount) или же[`PresentmentAccount`](../../../aspose.finance.ofx/presentmentaccount) .
 
 ```csharp
 public AbstractAccount AccountTo { get; set; }

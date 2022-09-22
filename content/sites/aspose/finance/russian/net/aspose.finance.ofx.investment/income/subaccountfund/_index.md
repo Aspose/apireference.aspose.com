@@ -1,14 +1,14 @@
 ---
 title: SubAccountFund
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или устанавливает откуда или куда ушли деньги для транзакции.
+description: Получает или задает откуда пришли или куда ушли деньги для транзакции.
 type: docs
 weight: 70
 url: /ru/net/aspose.finance.ofx.investment/income/subaccountfund/
 ---
 ## Income.SubAccountFund property
 
-Получает или устанавливает, откуда или куда ушли деньги для транзакции.
+Получает или задает, откуда пришли или куда ушли деньги для транзакции.
 
 ```csharp
 public SubAccountEnum SubAccountFund { get; set; }

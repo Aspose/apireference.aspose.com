@@ -18,16 +18,16 @@ public class SecurityListTransactionResponse : AbstractTransactionResponse
 
 | Имя | Описание |
 | --- | --- |
-| [SecurityListTransactionResponse](securitylisttransactionresponse)() | Инициализирует новый экземпляр класса[`SecurityListTransactionResponse`](../securitylisttransactionresponse). |
+| [SecurityListTransactionResponse](securitylisttransactionresponse)() | Инициализирует новый экземпляр[`SecurityListTransactionResponse`](../securitylisttransactionresponse) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [ClientCookie](../../aspose.finance.ofx/abstracttransactionresponse/clientcookie) { get; set; } | Получает или задает данные, которые будут отображаться в ответе транзакции |
-| [OfxExtension](../../aspose.finance.ofx.securitieslist/securitylisttransactionresponse/ofxextension) { get; set; } | Получает или задает[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
+| [ClientCookie](../../aspose.finance.ofx/abstracttransactionresponse/clientcookie) { get; set; } | Получает или задает данные, которые будут отражены в транзакции response |
+| [OfxExtension](../../aspose.finance.ofx.securitieslist/securitylisttransactionresponse/ofxextension) { get; set; } | Получает или задает[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype) . |
 | [SecurityListResponse](../../aspose.finance.ofx.securitieslist/securitylisttransactionresponse/securitylistresponse) { get; set; } | Получает или задает ответ списка безопасности. |
-| [Status](../../aspose.finance.ofx/abstracttransactionresponse/status) { get; set; } | Получает или задает[`Status`](../../aspose.finance.ofx/abstracttransactionresponse/status). |
+| [Status](../../aspose.finance.ofx/abstracttransactionresponse/status) { get; set; } | Получает или задает[`Status`](../../aspose.finance.ofx/abstracttransactionresponse/status) . |
 | [TransactionUniqueId](../../aspose.finance.ofx/abstracttransactionresponse/transactionuniqueid) { get; set; } | Получает или задает назначенный клиентом глобальный уникальный идентификатор для этой транзакции. |
 
 ### Смотрите также

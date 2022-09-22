@@ -8,7 +8,7 @@ url: /zh/net/aspose.finance.ofx.billpay/paymentmailsyncrequest/
 ---
 ## PaymentMailSyncRequest class
 
-支付邮件同步请求类。
+支付邮件同步请求类
 
 ```csharp
 public class PaymentMailSyncRequest : AbstractSyncRequest
@@ -18,20 +18,20 @@ public class PaymentMailSyncRequest : AbstractSyncRequest
 
 | 姓名 | 描述 |
 | --- | --- |
-| [PaymentMailSyncRequest](paymentmailsyncrequest)() | 初始化[`PaymentMailSyncRequest`](../paymentmailsyncrequest)类的新实例。 |
+| [PaymentMailSyncRequest](paymentmailsyncrequest)() | 初始化一个新的实例[`PaymentMailSyncRequest`](../paymentmailsyncrequest)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
 | [IncludeImages](../../aspose.finance.ofx.billpay/paymentmailsyncrequest/includeimages) { get; set; } | 如果客户端接受邮件正文中包含图像的邮件，则为真。如果客户端不接受邮件正文中包含图像的邮件，则为 False。 |
-| [OfxExtension](../../aspose.finance.ofx.billpay/paymentmailsyncrequest/ofxextension) { get; set; } | 获取或设置[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype)。 |
-| [PaymentMailTransactionRequests](../../aspose.finance.ofx.billpay/paymentmailsyncrequest/paymentmailtransactionrequests) { get; set; } | 获取或设置[`PaymentMailTransactionRequest`](../paymentmailtransactionrequest)的集合。 |
+| [OfxExtension](../../aspose.finance.ofx.billpay/paymentmailsyncrequest/ofxextension) { get; set; } | 获取或设置[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
+| [PaymentMailTransactionRequests](../../aspose.finance.ofx.billpay/paymentmailsyncrequest/paymentmailtransactionrequests) { get; set; } | 获取或设置的集合[`PaymentMailTransactionRequest`](../paymentmailtransactionrequest). |
 | [Refresh](../../aspose.finance.ofx/abstractsyncrequest/refresh) { get; set; } | 获取或设置是否请求刷新当前状态。 |
-| [RejectIfMisssing](../../aspose.finance.ofx/abstractsyncrequest/rejectifmisssing) { get; set; } | 如果是，如果客户端令牌已过期，请不要处理请求。 |
+| [RejectIfMisssing](../../aspose.finance.ofx/abstractsyncrequest/rejectifmisssing) { get; set; } | 如果是，如果客户端令牌已过期，则不处理请求。 |
 | [Token](../../aspose.finance.ofx/abstractsyncrequest/token) { get; set; } | 获取或设置令牌。 |
-| [TokenOnly](../../aspose.finance.ofx/abstractsyncrequest/tokenonly) { get; set; } | 获取或设置是否只请求当前令牌而不请求历史。 |
-| [UseHtml](../../aspose.finance.ofx.billpay/paymentmailsyncrequest/usehtml) { get; set; } | 如果客户端需要 HTML 响应，则为 true，如果客户端需要纯文本，则为 false。 |
+| [TokenOnly](../../aspose.finance.ofx/abstractsyncrequest/tokenonly) { get; set; } | 获取或设置是否只请求当前令牌而不请求历史记录。 |
+| [UseHtml](../../aspose.finance.ofx.billpay/paymentmailsyncrequest/usehtml) { get; set; } | 如果客户端需要 HTML 响应，则为真，如果客户端需要纯文本，则为假。 |
 
 ### 也可以看看
 

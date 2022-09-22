@@ -1,14 +1,14 @@
 ---
 title: SellDebt
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаSellDebtaspose.finance.ofx.investment/selldebt.
+description: Инициализирует новый экземплярSellDebtaspose.finance.ofx.investment/selldebt класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.investment/selldebt/selldebt/
 ---
 ## SellDebt constructor
 
-Инициализирует новый экземпляр класса[`SellDebt`](../../selldebt).
+Инициализирует новый экземпляр[`SellDebt`](../../selldebt) класс.
 
 ```csharp
 public SellDebt()

@@ -1,14 +1,14 @@
 ---
 title: Item
 second_title: Aspose.Finance for .NET API 参考
-description: 获取集合中指定索引处的LinkbaseRefaspose.finance.xbrl/linkbaseref项目
+description: 获取LinkbaseRefaspose.finance.xbrl/linkbaseref集合中指定索引处的项目
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.xbrl/linkbaserefcollection/item/
 ---
 ## LinkbaseRefCollection indexer
 
-获取集合中指定索引处的[`LinkbaseRef`](../../linkbaseref)项目。
+获取[`LinkbaseRef`](../../linkbaseref)集合中指定索引处的项目。
 
 ```csharp
 public LinkbaseRef this[int index] { get; }

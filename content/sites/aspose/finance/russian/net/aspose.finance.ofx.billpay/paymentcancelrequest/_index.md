@@ -1,14 +1,14 @@
 ---
 title: PaymentCancelRequest
 second_title: Справочник по API Aspose.Finance для .NET
-description: Класс запроса отмены платежа.
+description: Класс запроса на отмену платежа.
 type: docs
 weight: 1050
 url: /ru/net/aspose.finance.ofx.billpay/paymentcancelrequest/
 ---
 ## PaymentCancelRequest class
 
-Класс запроса отмены платежа.
+Класс запроса на отмену платежа.
 
 ```csharp
 public class PaymentCancelRequest : AbstractPaymentRequest
@@ -18,7 +18,7 @@ public class PaymentCancelRequest : AbstractPaymentRequest
 
 | Имя | Описание |
 | --- | --- |
-| [PaymentCancelRequest](paymentcancelrequest)() | Инициализирует новый экземпляр класса[`PaymentCancelRequest`](../paymentcancelrequest). |
+| [PaymentCancelRequest](paymentcancelrequest)() | Инициализирует новый экземпляр[`PaymentCancelRequest`](../paymentcancelrequest) класс. |
 
 ## Характеристики
 

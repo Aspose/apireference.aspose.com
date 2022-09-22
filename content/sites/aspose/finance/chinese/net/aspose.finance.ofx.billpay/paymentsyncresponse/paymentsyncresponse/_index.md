@@ -1,14 +1,14 @@
 ---
 title: PaymentSyncResponse
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化PaymentSyncResponseaspose.finance.ofx.billpay/paymentsyncresponse类的新实例
+description: 初始化一个新的实例PaymentSyncResponseaspose.finance.ofx.billpay/paymentsyncresponse类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.billpay/paymentsyncresponse/paymentsyncresponse/
 ---
 ## PaymentSyncResponse constructor
 
-初始化[`PaymentSyncResponse`](../../paymentsyncresponse)类的新实例。
+初始化一个新的实例[`PaymentSyncResponse`](../../paymentsyncresponse)类.
 
 ```csharp
 public PaymentSyncResponse()

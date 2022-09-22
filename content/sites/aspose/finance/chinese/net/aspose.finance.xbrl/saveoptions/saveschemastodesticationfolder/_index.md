@@ -1,14 +1,14 @@
 ---
 title: SaveSchemasToDesticationFolder
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置是否复制本地架构文件到保存文件夹
+description: 获取或设置是否复制本地模式文件到保存文件夹
 type: docs
 weight: 40
 url: /zh/net/aspose.finance.xbrl/saveoptions/saveschemastodesticationfolder/
 ---
 ## SaveOptions.SaveSchemasToDesticationFolder property
 
-获取或设置是否复制本地架构文件到保存文件夹。
+获取或设置是否复制本地模式文件到保存文件夹。
 
 ```csharp
 public bool SaveSchemasToDesticationFolder { get; set; }

@@ -3,7 +3,7 @@ title: InterTransferResponseMessageSetV1
 second_title: Aspose.Finance for .NET API Reference
 description: Interbank Transfer response messages set version 1 class.
 type: docs
-weight: 2600
+weight: 2610
 url: /net/aspose.finance.ofx/intertransferresponsemessagesetv1/
 ---
 ## InterTransferResponseMessageSetV1 class

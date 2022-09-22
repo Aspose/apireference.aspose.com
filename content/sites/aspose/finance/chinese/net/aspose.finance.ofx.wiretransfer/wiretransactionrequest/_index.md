@@ -8,7 +8,7 @@ url: /zh/net/aspose.finance.ofx.wiretransfer/wiretransactionrequest/
 ---
 ## WireTransactionRequest class
 
-电汇交易请求类。
+电汇交易请求类
 
 ```csharp
 public class WireTransactionRequest : AbstractTransactionRequest
@@ -18,16 +18,16 @@ public class WireTransactionRequest : AbstractTransactionRequest
 
 | 姓名 | 描述 |
 | --- | --- |
-| [WireTransactionRequest](wiretransactionrequest)() | 初始化[`WireTransactionRequest`](../wiretransactionrequest)类的新实例。 |
+| [WireTransactionRequest](wiretransactionrequest)() | 初始化一个新的实例[`WireTransactionRequest`](../wiretransactionrequest)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
 | [ClientCookie](../../aspose.finance.ofx/abstracttransactionrequest/clientcookie) { get; set; } | 获取或设置要在事务响应中回显的数据 |
-| [OfxExtension](../../aspose.finance.ofx.wiretransfer/wiretransactionrequest/ofxextension) { get; set; } | 获取或设置[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype)。 |
-| [Request](../../aspose.finance.ofx.wiretransfer/wiretransactionrequest/request) { get; set; } | 获取或设置[`WireRequest`](../wirerequest)或[`WireCancellationRequest`](../wirecancellationrequest). |
-| [TransactionAuthorizationNumber](../../aspose.finance.ofx/abstracttransactionrequest/transactionauthorizationnumber) { get; set; } | 获取或设置交易授权号。 |
+| [OfxExtension](../../aspose.finance.ofx.wiretransfer/wiretransactionrequest/ofxextension) { get; set; } | 获取或设置[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
+| [Request](../../aspose.finance.ofx.wiretransfer/wiretransactionrequest/request) { get; set; } | 获取或设置[`WireRequest`](../wirerequest)或者[`WireCancellationRequest`](../wirecancellationrequest). |
+| [TransactionAuthorizationNumber](../../aspose.finance.ofx/abstracttransactionrequest/transactionauthorizationnumber) { get; set; } | 获取或设置交易授权号 |
 | [TransactionUniqueId](../../aspose.finance.ofx/abstracttransactionrequest/transactionuniqueid) { get; set; } | 获取或设置此事务的客户端分配的全局唯一 ID |
 
 ### 也可以看看

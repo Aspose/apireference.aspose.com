@@ -18,13 +18,13 @@ public class InlineFootnote
 
 | 姓名 | 描述 |
 | --- | --- |
-| [ContinuedAt](../../aspose.finance.xbrl.inline/inlinefootnote/continuedat) { get; set; } | 获取或设置[`InlineFootnote`](../inlinefootnote)的延续引用 id。 |
-| [FootnoteRole](../../aspose.finance.xbrl.inline/inlinefootnote/footnoterole) { get; set; } | 获取或设置[`InlineFootnote`](../inlinefootnote)的脚注角色。 |
-| [Hidden](../../aspose.finance.xbrl.inline/inlinefootnote/hidden) { get; set; } | 获取或设置是否隐藏此脚注。 |
-| [Id](../../aspose.finance.xbrl.inline/inlinefootnote/id) { get; set; } | 获取或设置[`InlineFootnote`](../inlinefootnote)的 id。 |
-| [Language](../../aspose.finance.xbrl.inline/inlinefootnote/language) { get; set; } | 获取或设置[`InlineFootnote`](../inlinefootnote)的语言。 |
-| [Text](../../aspose.finance.xbrl.inline/inlinefootnote/text) { get; set; } | 获取或设置[`InlineFootnote`](../inlinefootnote)的文本。 |
-| [Title](../../aspose.finance.xbrl.inline/inlinefootnote/title) { get; set; } | 获取或设置[`InlineFootnote`](../inlinefootnote)的标题。 |
+| [ContinuedAt](../../aspose.finance.xbrl.inline/inlinefootnote/continuedat) { get; set; } | 获取或设置[`InlineFootnote`](../inlinefootnote). |
+| [FootnoteRole](../../aspose.finance.xbrl.inline/inlinefootnote/footnoterole) { get; set; } | 获取或设置脚注角色[`InlineFootnote`](../inlinefootnote). |
+| [Hidden](../../aspose.finance.xbrl.inline/inlinefootnote/hidden) { get; set; } | 获取或设置此脚注是否隐藏。 |
+| [Id](../../aspose.finance.xbrl.inline/inlinefootnote/id) { get; set; } | 获取或设置 id[`InlineFootnote`](../inlinefootnote). |
+| [Language](../../aspose.finance.xbrl.inline/inlinefootnote/language) { get; set; } | 获取或设置的语言[`InlineFootnote`](../inlinefootnote). |
+| [Text](../../aspose.finance.xbrl.inline/inlinefootnote/text) { get; set; } | 获取或设置文本[`InlineFootnote`](../inlinefootnote). |
+| [Title](../../aspose.finance.xbrl.inline/inlinefootnote/title) { get; set; } | 获取或设置标题[`InlineFootnote`](../inlinefootnote). |
 
 ### 也可以看看
 

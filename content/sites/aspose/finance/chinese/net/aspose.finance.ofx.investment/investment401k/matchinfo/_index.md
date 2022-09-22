@@ -1,14 +1,14 @@
 ---
 title: MatchInfo
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置MatchInfoaspose.finance.ofx.investment/investment401k/matchinfo
+description: 获取或设置MatchInfoaspose.finance.ofx.investment/investment401k/matchinfo.
 type: docs
 weight: 110
 url: /zh/net/aspose.finance.ofx.investment/investment401k/matchinfo/
 ---
 ## Investment401k.MatchInfo property
 
-获取或设置`MatchInfo`。
+获取或设置`MatchInfo`.
 
 ```csharp
 public MatchInfo MatchInfo { get; set; }

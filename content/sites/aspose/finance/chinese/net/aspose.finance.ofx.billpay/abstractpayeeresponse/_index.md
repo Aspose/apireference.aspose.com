@@ -18,7 +18,7 @@ public abstract class AbstractPayeeResponse
 
 | 姓名 | 描述 |
 | --- | --- |
-| [PayeeListId](../../aspose.finance.ofx.billpay/abstractpayeeresponse/payeelistid) { get; set; } | 获取或设置此收款人记录的服务器分配记录ID。 |
+| [PayeeListId](../../aspose.finance.ofx.billpay/abstractpayeeresponse/payeelistid) { get; set; } | 获取或设置此收款人记录的服务器分配记录 ID。 |
 
 ### 也可以看看
 

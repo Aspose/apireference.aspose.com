@@ -1,14 +1,14 @@
 ---
 title: Discount
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置Discountaspose.finance.ofx/invoice/discount
+description: 获取或设置Discountaspose.finance.ofx/invoice/discount.
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.ofx/invoice/discount/
 ---
 ## Invoice.Discount property
 
-获取或设置`Discount`。
+获取或设置`Discount`.
 
 ```csharp
 public Discount Discount { get; set; }

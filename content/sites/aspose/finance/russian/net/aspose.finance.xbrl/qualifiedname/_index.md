@@ -1,14 +1,14 @@
 ---
 title: QualifiedName
 second_title: Справочник по API Aspose.Finance для .NET
-description: Тип XML-схемы QName определенный в пространстве имен http//www.w3.org/2001/XMLSchema.
+description: Тип схемы XML QName определенный в пространстве имен http//www.w3.org/2001/XMLSchema.
 type: docs
 weight: 7890
 url: /ru/net/aspose.finance.xbrl/qualifiedname/
 ---
 ## QualifiedName class
 
-Тип XML-схемы "QName", определенный в пространстве имен http://www.w3.org/2001/XMLSchema.
+Тип схемы XML "QName", определенный в пространстве имен http://www.w3.org/2001/XMLSchema.
 
 ```csharp
 public class QualifiedName
@@ -18,7 +18,7 @@ public class QualifiedName
 
 | Имя | Описание |
 | --- | --- |
-| [QualifiedName](qualifiedname)(string, string, string) | Инициализирует новый экземпляр класса[`QualifiedName`](../qualifiedname). |
+| [QualifiedName](qualifiedname)(string, string, string) | Инициализирует новый экземпляр[`QualifiedName`](../qualifiedname) класс. |
 
 ## Характеристики
 
@@ -33,7 +33,7 @@ public class QualifiedName
 | Имя | Описание |
 | --- | --- |
 | override [Equals](../../aspose.finance.xbrl/qualifiedname/equals)(object) | Проверить, совпадает ли это полное имя с объектом. |
-| override [GetHashCode](../../aspose.finance.xbrl/qualifiedname/gethashcode)() | Получает хэш-код. |
+| override [GetHashCode](../../aspose.finance.xbrl/qualifiedname/gethashcode)() | Получает хеш-код. |
 | override [ToString](../../aspose.finance.xbrl/qualifiedname/tostring)() | Получить объект как строку. |
 
 ### Смотрите также

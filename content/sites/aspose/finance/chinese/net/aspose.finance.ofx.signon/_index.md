@@ -12,21 +12,21 @@ url: /zh/net/aspose.finance.ofx.signon/
 
 | 班级 | 描述 |
 | --- | --- |
-| [ChallengeRequest](./challengerequest) | 挑战请求类。质询请求是类型 1 应用程序级安全性的第一步。本质上，它要求服务器提供一些 随机数据。质询响应提供服务器生成的随机数据，是类型 1 安全性的第二步。 |
+| [ChallengeRequest](./challengerequest) | 挑战请求类。质询请求是类型 1 应用程序级安全性的第一步。本质上，它从服务器请求一些 随机数据。质询响应提供服务器生成的随机数据，是类型1安全性的第二步。 |
 | [ChallengeResponse](./challengeresponse) | 挑战响应类。 |
-| [ChallengeTransactionRequest](./challengetransactionrequest) | 质询事务请求类。 |
+| [ChallengeTransactionRequest](./challengetransactionrequest) | 挑战交易请求类. |
 | [ChallengeTransactionResponse](./challengetransactionresponse) | 质询事务响应类。 |
 | [FinancialInstitution](./financialinstitution) | 金融机构类。 |
 | [MFAChallenge](./mfachallenge) | 挑战题课。 |
 | [MFAChallengeAnswer](./mfachallengeanswer) | 注册挑战问题的答案。 |
 | [MFAChallengeRequest](./mfachallengerequest) | MFA 质询请求类。请求服务器发送必须正确回答的挑战问题列表，然后 OFX 客户端可以继续进行进一步的 OFX 请求。 |
 | [MFAChallengeResponse](./mfachallengeresponse) | MFA 质询响应类。 |
-| [MFAChallengeTransactionRequest](./mfachallengetransactionrequest) | MFA 质询交易请求类 |
+| [MFAChallengeTransactionRequest](./mfachallengetransactionrequest) | MFA 质询事务请求类 |
 | [MFAChallengeTransactionResponse](./mfachallengetransactionresponse) | MFA 质询事务响应类 |
-| [PinChangeRequest](./pinchangerequest) | 用户密码更改请求类。 |
-| [PinChangeResponse](./pinchangeresponse) | 用户密码更改响应类。 |
-| [PinChangeTransactionRequest](./pinchangetransactionrequest) | 用户密码更改交易请求类。 |
-| [PinChangeTransactionResponse](./pinchangetransactionresponse) | 用户密码更改事务响应类。 |
+| [PinChangeRequest](./pinchangerequest) | 用户密码更改请求类. |
+| [PinChangeResponse](./pinchangeresponse) | 用户密码更改响应类 |
+| [PinChangeTransactionRequest](./pinchangetransactionrequest) | 用户密码更改交易请求类. |
+| [PinChangeTransactionResponse](./pinchangetransactionresponse) | 用户密码更改交易响应类 |
 | [SignonRequest](./signonrequest) | 登录请求类。 |
 | [SignonResponse](./signonresponse) | 登录响应类。 |
 

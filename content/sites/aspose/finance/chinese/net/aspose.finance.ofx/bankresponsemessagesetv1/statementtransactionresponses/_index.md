@@ -1,14 +1,14 @@
 ---
 title: StatementTransactionResponses
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置StatementTransactionResponseaspose.finance.ofx.bank/statementtransactionresponse的集合
+description: 获取或设置的集合StatementTransactionResponseaspose.finance.ofx.bank/statementtransactionresponse.
 type: docs
 weight: 90
 url: /zh/net/aspose.finance.ofx/bankresponsemessagesetv1/statementtransactionresponses/
 ---
 ## BankResponseMessageSetV1.StatementTransactionResponses property
 
-获取或设置[`StatementTransactionResponse`](../../../aspose.finance.ofx.bank/statementtransactionresponse)的集合。
+获取或设置的集合[`StatementTransactionResponse`](../../../aspose.finance.ofx.bank/statementtransactionresponse).
 
 ```csharp
 public List<StatementTransactionResponse> StatementTransactionResponses { get; set; }

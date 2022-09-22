@@ -8,7 +8,7 @@ url: /zh/net/aspose.finance.ofx.tax1099/tax1099div_v100/exemptiterestdividend/
 ---
 ## Tax1099DIV_V100.ExemptIterestDividend property
 
-获取或设置免税利息分红。
+获取或设置免税利息分红
 
 ```csharp
 public string ExemptIterestDividend { get; set; }

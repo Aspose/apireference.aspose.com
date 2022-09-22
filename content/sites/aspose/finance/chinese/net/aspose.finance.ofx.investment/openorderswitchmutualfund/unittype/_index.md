@@ -1,14 +1,14 @@
 ---
 title: UnitType
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置单位所代表的内容
+description: 获取或设置单位表示的内容
 type: docs
 weight: 40
 url: /zh/net/aspose.finance.ofx.investment/openorderswitchmutualfund/unittype/
 ---
 ## OpenOrderSwitchMutualFund.UnitType property
 
-获取或设置单位所代表的内容。
+获取或设置单位表示的内容。
 
 ```csharp
 public UnitTypeEnum UnitType { get; set; }

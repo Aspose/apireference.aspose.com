@@ -3,7 +3,7 @@ title: StockEnum
 second_title: Aspose.Finance for .NET API Reference
 description: Stock type enum.
 type: docs
-weight: 5180
+weight: 5210
 url: /net/aspose.finance.ofx.securitieslist/stockenum/
 ---
 ## StockEnum enumeration

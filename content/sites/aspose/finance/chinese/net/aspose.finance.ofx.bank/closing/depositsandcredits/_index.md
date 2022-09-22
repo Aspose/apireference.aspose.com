@@ -1,14 +1,14 @@
 ---
 title: DepositsAndCredits
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置存款和信用总额包括利息
+description: 获取或设置存款和贷方的总和包括利息
 type: docs
 weight: 90
 url: /zh/net/aspose.finance.ofx.bank/closing/depositsandcredits/
 ---
 ## Closing.DepositsAndCredits property
 
-获取或设置存款和信用总额，包括利息。
+获取或设置存款和贷方的总和，包括利息。
 
 ```csharp
 public string DepositsAndCredits { get; set; }

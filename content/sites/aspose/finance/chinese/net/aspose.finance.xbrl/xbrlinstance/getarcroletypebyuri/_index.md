@@ -16,7 +16,7 @@ public ArcroleType GetArcroleTypeByURI(string arcroleTypeUri)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| arcroleTypeUri | String | arc 角色类型uri。 |
+| arcroleTypeUri | String | arc 角色类型 uri。 |
 
 ### 返回值
 

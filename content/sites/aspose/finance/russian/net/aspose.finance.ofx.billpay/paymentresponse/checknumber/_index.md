@@ -1,14 +1,14 @@
 ---
 title: CheckNumber
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает контрольный номер
+description: Получает или задает номер чека
 type: docs
 weight: 20
 url: /ru/net/aspose.finance.ofx.billpay/paymentresponse/checknumber/
 ---
 ## PaymentResponse.CheckNumber property
 
-Получает или задает контрольный номер
+Получает или задает номер чека
 
 ```csharp
 public string CheckNumber { get; set; }

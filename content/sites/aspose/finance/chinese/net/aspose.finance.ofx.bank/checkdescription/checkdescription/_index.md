@@ -1,14 +1,14 @@
 ---
 title: CheckDescription
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化CheckDescriptionaspose.finance.ofx.bank/checkdescription类的新实例
+description: 初始化一个新的实例CheckDescriptionaspose.finance.ofx.bank/checkdescription类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.bank/checkdescription/checkdescription/
 ---
 ## CheckDescription constructor
 
-初始化[`CheckDescription`](../../checkdescription)类的新实例。
+初始化一个新的实例[`CheckDescription`](../../checkdescription)类.
 
 ```csharp
 public CheckDescription()

@@ -1,14 +1,14 @@
 ---
 title: Tax1098TransactionRequests
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает коллекциюTax1098TransactionRequestaspose.finance.ofx.tax1098/tax1098transactionrequest.
+description: Получает или задает коллекциюTax1098TransactionRequestaspose.finance.ofx.tax1098/tax1098transactionrequest .
 type: docs
 weight: 20
 url: /ru/net/aspose.finance.ofx/tax1098requestmessagesetv1/tax1098transactionrequests/
 ---
 ## Tax1098RequestMessageSetV1.Tax1098TransactionRequests property
 
-Получает или задает коллекцию[`Tax1098TransactionRequest`](../../../aspose.finance.ofx.tax1098/tax1098transactionrequest).
+Получает или задает коллекцию[`Tax1098TransactionRequest`](../../../aspose.finance.ofx.tax1098/tax1098transactionrequest) .
 
 ```csharp
 public List<Tax1098TransactionRequest> Tax1098TransactionRequests { get; set; }

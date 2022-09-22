@@ -1,14 +1,14 @@
 ---
 title: ChangeUserInfoSyncResponse
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаChangeUserInfoSyncResponseaspose.finance.ofx.signup/changeuserinfosyncresponse.
+description: Инициализирует новый экземплярChangeUserInfoSyncResponseaspose.finance.ofx.signup/changeuserinfosyncresponse класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.signup/changeuserinfosyncresponse/changeuserinfosyncresponse/
 ---
 ## ChangeUserInfoSyncResponse constructor
 
-Инициализирует новый экземпляр класса[`ChangeUserInfoSyncResponse`](../../changeuserinfosyncresponse).
+Инициализирует новый экземпляр[`ChangeUserInfoSyncResponse`](../../changeuserinfosyncresponse) класс.
 
 ```csharp
 public ChangeUserInfoSyncResponse()

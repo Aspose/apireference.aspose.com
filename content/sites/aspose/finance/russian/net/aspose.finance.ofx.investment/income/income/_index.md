@@ -1,14 +1,14 @@
 ---
 title: Income
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаIncomeaspose.finance.ofx.investment/income.
+description: Инициализирует новый экземплярIncomeaspose.finance.ofx.investment/income класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.investment/income/income/
 ---
 ## Income constructor
 
-Инициализирует новый экземпляр класса[`Income`](../../income).
+Инициализирует новый экземпляр[`Income`](../../income) класс.
 
 ```csharp
 public Income()

@@ -1,14 +1,14 @@
 ---
 title: LoanAccount
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化LoanAccountaspose.finance.ofx/loanaccount类的新实例
+description: 初始化一个新的实例LoanAccountaspose.finance.ofx/loanaccount类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx/loanaccount/loanaccount/
 ---
 ## LoanAccount constructor
 
-初始化[`LoanAccount`](../../loanaccount)类的新实例。
+初始化一个新的实例[`LoanAccount`](../../loanaccount)类.
 
 ```csharp
 public LoanAccount()

@@ -1,14 +1,14 @@
 ---
 title: LoanMessageSetV1
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаLoanMessageSetV1aspose.finance.ofx.profile/loanmessagesetv1.
+description: Инициализирует новый экземплярLoanMessageSetV1aspose.finance.ofx.profile/loanmessagesetv1 класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.profile/loanmessagesetv1/loanmessagesetv1/
 ---
 ## LoanMessageSetV1 constructor
 
-Инициализирует новый экземпляр класса[`LoanMessageSetV1`](../../loanmessagesetv1).
+Инициализирует новый экземпляр[`LoanMessageSetV1`](../../loanmessagesetv1) класс.
 
 ```csharp
 public LoanMessageSetV1()

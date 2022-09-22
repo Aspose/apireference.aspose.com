@@ -1,14 +1,14 @@
 ---
 title: Balance
 second_title: Aspose.Finance for .NET API 参考
-description: 一些响应允许金融机构发送任意一组余额信息作为响应的一部分例如银行对账单下载金融机构可能希望发送有关未清余额付款日期利息的信息率等等
+description: 一些响应允许 FI 发送任意一组余额信息作为响应的一部分例如银行对账单下载FI 可能希望发送有关未清余额付款日期利率等的信息
 type: docs
 weight: 230
 url: /zh/net/aspose.finance.ofx/balance/
 ---
 ## Balance class
 
-一些响应允许金融机构发送任意一组余额信息作为响应的一部分，例如银行对账单下载。金融机构可能希望发送有关未清余额、付款日期、利息的信息率等等。
+一些响应允许 FI 发送任意一组余额信息作为响应的一部分，例如银行对账单下载。FI 可能希望发送有关未清余额、付款日期、利率等的信息。
 
 ```csharp
 public class Balance
@@ -18,7 +18,7 @@ public class Balance
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Balance](balance)() | 初始化[`Balance`](../balance)类的新实例。 |
+| [Balance](balance)() | 初始化一个新的实例[`Balance`](../balance)类. |
 
 ## 特性
 
@@ -29,7 +29,7 @@ public class Balance
 | [DateAsOf](../../aspose.finance.ofx/balance/dateasof) { get; set; } | 获取或设置给定余额的生效日期。 |
 | [Description](../../aspose.finance.ofx/balance/description) { get; set; } | 获取或设置余额描述。 |
 | [Name](../../aspose.finance.ofx/balance/name) { get; set; } | 获取或设置余额名称 |
-| [Value](../../aspose.finance.ofx/balance/value) { get; set; } | 获取或设置余额值。 |
+| [Value](../../aspose.finance.ofx/balance/value) { get; set; } | 获取或设置余额值 |
 
 ### 也可以看看
 

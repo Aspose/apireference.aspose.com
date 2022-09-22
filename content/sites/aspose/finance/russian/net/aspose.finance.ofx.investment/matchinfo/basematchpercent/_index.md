@@ -1,14 +1,14 @@
 ---
 title: BaseMatchPercent
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает фиксированный процент от заработной платы сотрудника который соответствует если сотрудник вообще участвует в плане.
+description: Получает или задает фиксированный процент от заработной платы сотрудника если сотрудник вообще участвует в плане.
 type: docs
 weight: 30
 url: /ru/net/aspose.finance.ofx.investment/matchinfo/basematchpercent/
 ---
 ## MatchInfo.BaseMatchPercent property
 
-Получает или задает фиксированный процент от заработной платы сотрудника, который соответствует, если сотрудник вообще участвует в плане.
+Получает или задает фиксированный процент от заработной платы сотрудника, если сотрудник вообще участвует в плане.
 
 ```csharp
 public string BaseMatchPercent { get; set; }

@@ -18,16 +18,16 @@ public class ContributionSecurity
 
 | Имя | Описание |
 | --- | --- |
-| [ContributionSecurity](contributionsecurity)() | Инициализирует новый экземпляр класса[`ContributionSecurity`](../contributionsecurity). |
+| [ContributionSecurity](contributionsecurity)() | Инициализирует новый экземпляр[`ContributionSecurity`](../contributionsecurity) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [ContributionAmts](../../aspose.finance.ofx.investment/contributionsecurity/contributionamts) { get; set; } | Получает или задает коллекцию[`ContributionAmt`](../contributionamt). |
-| [ContributionPcts](../../aspose.finance.ofx.investment/contributionsecurity/contributionpcts) { get; set; } | Получает или задает коллекцию[`ContributionPct`](../contributionpct). |
+| [ContributionAmts](../../aspose.finance.ofx.investment/contributionsecurity/contributionamts) { get; set; } | Получает или задает коллекцию[`ContributionAmt`](../contributionamt) . |
+| [ContributionPcts](../../aspose.finance.ofx.investment/contributionsecurity/contributionpcts) { get; set; } | Получает или задает коллекцию[`ContributionPct`](../contributionpct) . |
 | [ContributionType](../../aspose.finance.ofx.investment/contributionsecurity/contributiontype) { get; set; } | Получает или задает текущее распределение вклада в процентах или сумме. |
-| [SecurityId](../../aspose.finance.ofx.investment/contributionsecurity/securityid) { get; set; } | Получает или задает[`SecurityId`](./securityid). |
+| [SecurityId](../../aspose.finance.ofx.investment/contributionsecurity/securityid) { get; set; } | Получает или задает[`SecurityId`](./securityid) . |
 
 ### Смотрите также
 

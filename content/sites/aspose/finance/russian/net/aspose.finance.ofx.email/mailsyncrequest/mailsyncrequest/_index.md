@@ -1,14 +1,14 @@
 ---
 title: MailSyncRequest
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаMailSyncRequestaspose.finance.ofx.email/mailsyncrequest.
+description: Инициализирует новый экземплярMailSyncRequestaspose.finance.ofx.email/mailsyncrequest класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.email/mailsyncrequest/mailsyncrequest/
 ---
 ## MailSyncRequest constructor
 
-Инициализирует новый экземпляр класса[`MailSyncRequest`](../../mailsyncrequest).
+Инициализирует новый экземпляр[`MailSyncRequest`](../../mailsyncrequest) класс.
 
 ```csharp
 public MailSyncRequest()

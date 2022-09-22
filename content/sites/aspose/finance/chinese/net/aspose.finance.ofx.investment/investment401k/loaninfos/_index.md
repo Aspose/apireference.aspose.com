@@ -1,14 +1,14 @@
 ---
 title: LoanInfos
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置LoanInfoaspose.finance.ofx.investment/loaninfo的集合
+description: 获取或设置的集合LoanInfoaspose.finance.ofx.investment/loaninfo.
 type: docs
 weight: 100
 url: /zh/net/aspose.finance.ofx.investment/investment401k/loaninfos/
 ---
 ## Investment401k.LoanInfos property
 
-获取或设置[`LoanInfo`](../../loaninfo)的集合。
+获取或设置的集合[`LoanInfo`](../../loaninfo).
 
 ```csharp
 public List<LoanInfo> LoanInfos { get; set; }

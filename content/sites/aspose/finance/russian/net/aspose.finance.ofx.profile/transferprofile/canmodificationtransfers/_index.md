@@ -1,14 +1,14 @@
 ---
 title: CanModificationTransfers
 second_title: Справочник по API Aspose.Finance для .NET
-description: Возвращает или задает разрешают ли изменения передачи.
+description: Получает или задает разрешение на изменение передачи.
 type: docs
 weight: 40
 url: /ru/net/aspose.finance.ofx.profile/transferprofile/canmodificationtransfers/
 ---
 ## TransferProfile.CanModificationTransfers property
 
-Возвращает или задает, разрешают ли изменения передачи.
+Получает или задает разрешение на изменение передачи.
 
 ```csharp
 public bool CanModificationTransfers { get; set; }

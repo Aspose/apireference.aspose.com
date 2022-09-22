@@ -18,13 +18,13 @@ public class InterRequest : AbstractInterRequest
 
 | 姓名 | 描述 |
 | --- | --- |
-| [InterRequest](interrequest)() | 初始化[`InterRequest`](../interrequest)类的新实例。 |
+| [InterRequest](interrequest)() | 初始化一个新的实例[`InterRequest`](../interrequest)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [TransferInfo](../../aspose.finance.ofx.intertransfer/interrequest/transferinfo) { get; set; } | 获取或设置[`TransferInfo`](./transferinfo)。 |
+| [TransferInfo](../../aspose.finance.ofx.intertransfer/interrequest/transferinfo) { get; set; } | 获取或设置[`TransferInfo`](./transferinfo). |
 
 ### 也可以看看
 

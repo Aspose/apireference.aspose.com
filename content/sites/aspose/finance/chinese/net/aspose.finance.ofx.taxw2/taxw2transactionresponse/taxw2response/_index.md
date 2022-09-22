@@ -1,14 +1,14 @@
 ---
 title: TaxW2Response
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置TaxW2Responseaspose.finance.ofx.taxw2/taxw2transactionresponse/taxw2response
+description: 获取或设置TaxW2Responseaspose.finance.ofx.taxw2/taxw2transactionresponse/taxw2response.
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.ofx.taxw2/taxw2transactionresponse/taxw2response/
 ---
 ## TaxW2TransactionResponse.TaxW2Response property
 
-获取或设置`TaxW2Response`。
+获取或设置`TaxW2Response`.
 
 ```csharp
 public TaxW2Response TaxW2Response { get; set; }

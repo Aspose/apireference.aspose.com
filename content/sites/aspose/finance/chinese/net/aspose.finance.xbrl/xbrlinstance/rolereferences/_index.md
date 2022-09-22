@@ -1,14 +1,14 @@
 ---
 title: RoleReferences
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置 XBRL 实例中RoleReferenceaspose.finance.xbrl/rolereference对象的集合
+description: 获取或设置的集合RoleReferenceaspose.finance.xbrl/rolereference XBRL 实例中的对象
 type: docs
 weight: 70
 url: /zh/net/aspose.finance.xbrl/xbrlinstance/rolereferences/
 ---
 ## XbrlInstance.RoleReferences property
 
-获取或设置 XBRL 实例中[`RoleReference`](../../rolereference)对象的集合。
+获取或设置的集合[`RoleReference`](../../rolereference) XBRL 实例中的对象。
 
 ```csharp
 public List<RoleReference> RoleReferences { get; set; }

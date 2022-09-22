@@ -1,14 +1,14 @@
 ---
 title: PresentmentDirProfile
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задаетPresentmentDirProfileaspose.finance.ofx.profile/presentmentdirmessagesetv1/presentmentdirprofile.
+description: Получает или задаетPresentmentDirProfileaspose.finance.ofx.profile/presentmentdirmessagesetv1/presentmentdirprofile .
 type: docs
 weight: 20
 url: /ru/net/aspose.finance.ofx.profile/presentmentdirmessagesetv1/presentmentdirprofile/
 ---
 ## PresentmentDirMessageSetV1.PresentmentDirProfile property
 
-Получает или задает`PresentmentDirProfile`.
+Получает или задает`PresentmentDirProfile` .
 
 ```csharp
 public PresentmentDirProfile PresentmentDirProfile { get; set; }

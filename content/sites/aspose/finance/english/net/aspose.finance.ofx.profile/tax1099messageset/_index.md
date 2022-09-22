@@ -3,7 +3,7 @@ title: Tax1099MessageSet
 second_title: Aspose.Finance for .NET API Reference
 description: Tax 1099 message set.
 type: docs
-weight: 4860
+weight: 4880
 url: /net/aspose.finance.ofx.profile/tax1099messageset/
 ---
 ## Tax1099MessageSet class

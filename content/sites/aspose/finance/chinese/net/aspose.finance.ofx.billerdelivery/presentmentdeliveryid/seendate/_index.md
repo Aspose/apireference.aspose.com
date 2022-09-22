@@ -1,14 +1,14 @@
 ---
 title: SeenDate
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置向请求者的客户提供账单的日期和时间
+description: 获取或设置账单提供给请求者的客户的日期和时间
 type: docs
 weight: 40
 url: /zh/net/aspose.finance.ofx.billerdelivery/presentmentdeliveryid/seendate/
 ---
 ## PresentmentDeliveryId.SeenDate property
 
-获取或设置向请求者的客户提供账单的日期和时间。
+获取或设置账单提供给请求者的客户的日期和时间。
 
 ```csharp
 public string SeenDate { get; set; }

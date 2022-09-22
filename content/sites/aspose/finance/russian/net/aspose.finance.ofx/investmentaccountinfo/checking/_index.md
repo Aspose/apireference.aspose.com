@@ -1,14 +1,14 @@
 ---
 title: Checking
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает имеет ли учетная запись права на запись проверки.
+description: Получает или задает имеет ли учетная запись права на запись чеков.
 type: docs
 weight: 20
 url: /ru/net/aspose.finance.ofx/investmentaccountinfo/checking/
 ---
 ## InvestmentAccountInfo.Checking property
 
-Получает или задает, имеет ли учетная запись права на запись проверки.
+Получает или задает, имеет ли учетная запись права на запись чеков.
 
 ```csharp
 public bool Checking { get; set; }

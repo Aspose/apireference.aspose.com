@@ -1,14 +1,14 @@
 ---
 title: StatementTransactionRequest
 second_title: Aspose.Finance for .NET API 参考
-description: 语句事务请求类
+description: 语句交易请求类.
 type: docs
 weight: 690
 url: /zh/net/aspose.finance.ofx.bank/statementtransactionrequest/
 ---
 ## StatementTransactionRequest class
 
-语句事务请求类。
+语句交易请求类.
 
 ```csharp
 public class StatementTransactionRequest : AbstractTransactionRequest
@@ -18,16 +18,16 @@ public class StatementTransactionRequest : AbstractTransactionRequest
 
 | 姓名 | 描述 |
 | --- | --- |
-| [StatementTransactionRequest](statementtransactionrequest)() | 初始化[`StatementTransactionRequest`](../statementtransactionrequest)类的新实例。 |
+| [StatementTransactionRequest](statementtransactionrequest)() | 初始化一个新的实例[`StatementTransactionRequest`](../statementtransactionrequest)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
 | [ClientCookie](../../aspose.finance.ofx/abstracttransactionrequest/clientcookie) { get; set; } | 获取或设置要在事务响应中回显的数据 |
-| [OfxExtension](../../aspose.finance.ofx.bank/statementtransactionrequest/ofxextension) { get; set; } | 获取或设置[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype)。 |
-| [StatementRequest](../../aspose.finance.ofx.bank/statementtransactionrequest/statementrequest) { get; set; } | 获取或设置[`StatementRequest`](./statementrequest)。 |
-| [TransactionAuthorizationNumber](../../aspose.finance.ofx/abstracttransactionrequest/transactionauthorizationnumber) { get; set; } | 获取或设置交易授权号。 |
+| [OfxExtension](../../aspose.finance.ofx.bank/statementtransactionrequest/ofxextension) { get; set; } | 获取或设置[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
+| [StatementRequest](../../aspose.finance.ofx.bank/statementtransactionrequest/statementrequest) { get; set; } | 获取或设置[`StatementRequest`](./statementrequest). |
+| [TransactionAuthorizationNumber](../../aspose.finance.ofx/abstracttransactionrequest/transactionauthorizationnumber) { get; set; } | 获取或设置交易授权号 |
 | [TransactionUniqueId](../../aspose.finance.ofx/abstracttransactionrequest/transactionuniqueid) { get; set; } | 获取或设置此事务的客户端分配的全局唯一 ID |
 
 ### 也可以看看

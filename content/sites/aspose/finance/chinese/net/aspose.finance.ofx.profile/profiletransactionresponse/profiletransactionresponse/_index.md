@@ -1,14 +1,14 @@
 ---
 title: ProfileTransactionResponse
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化ProfileTransactionResponseaspose.finance.ofx.profile/profiletransactionresponse类的新实例
+description: 初始化一个新的实例ProfileTransactionResponseaspose.finance.ofx.profile/profiletransactionresponse类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.profile/profiletransactionresponse/profiletransactionresponse/
 ---
 ## ProfileTransactionResponse constructor
 
-初始化[`ProfileTransactionResponse`](../../profiletransactionresponse)类的新实例。
+初始化一个新的实例[`ProfileTransactionResponse`](../../profiletransactionresponse)类.
 
 ```csharp
 public ProfileTransactionResponse()

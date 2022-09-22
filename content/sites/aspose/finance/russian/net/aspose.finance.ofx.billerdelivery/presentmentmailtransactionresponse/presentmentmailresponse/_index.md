@@ -1,14 +1,14 @@
 ---
 title: PresentmentMailResponse
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задаетPresentmentMailResponseaspose.finance.ofx.billerdelivery/presentmentmailtransactionresponse/presentmentmailresponse.
+description: Получает или задаетPresentmentMailResponseaspose.finance.ofx.billerdelivery/presentmentmailtransactionresponse/presentmentmailresponse .
 type: docs
 weight: 30
 url: /ru/net/aspose.finance.ofx.billerdelivery/presentmentmailtransactionresponse/presentmentmailresponse/
 ---
 ## PresentmentMailTransactionResponse.PresentmentMailResponse property
 
-Получает или задает`PresentmentMailResponse`.
+Получает или задает`PresentmentMailResponse` .
 
 ```csharp
 public PresentmentMailResponse PresentmentMailResponse { get; set; }

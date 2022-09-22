@@ -1,14 +1,14 @@
 ---
 title: EmailMessageSetV1
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаEmailMessageSetV1aspose.finance.ofx.profile/emailmessagesetv1.
+description: Инициализирует новый экземплярEmailMessageSetV1aspose.finance.ofx.profile/emailmessagesetv1 класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.profile/emailmessagesetv1/emailmessagesetv1/
 ---
 ## EmailMessageSetV1 constructor
 
-Инициализирует новый экземпляр класса[`EmailMessageSetV1`](../../emailmessagesetv1).
+Инициализирует новый экземпляр[`EmailMessageSetV1`](../../emailmessagesetv1) класс.
 
 ```csharp
 public EmailMessageSetV1()

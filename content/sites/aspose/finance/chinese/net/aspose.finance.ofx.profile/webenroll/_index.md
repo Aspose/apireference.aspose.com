@@ -18,7 +18,7 @@ public class WebEnroll
 
 | 姓名 | 描述 |
 | --- | --- |
-| [WebEnroll](webenroll)() | 初始化[`WebEnroll`](../webenroll)类的新实例。 |
+| [WebEnroll](webenroll)() | 初始化一个新的实例[`WebEnroll`](../webenroll)类. |
 
 ## 特性
 

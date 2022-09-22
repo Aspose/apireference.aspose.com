@@ -1,14 +1,14 @@
 ---
 title: LoanPayment
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置LoanPaymentAmountaspose.finance.ofx/loanpaymentamount
+description: 获取或设置LoanPaymentAmountaspose.finance.ofx/loanpaymentamount.
 type: docs
 weight: 140
 url: /zh/net/aspose.finance.ofx.loan/loanclosing/loanpayment/
 ---
 ## LoanClosing.LoanPayment property
 
-获取或设置[`LoanPaymentAmount`](../../../aspose.finance.ofx/loanpaymentamount)。
+获取或设置[`LoanPaymentAmount`](../../../aspose.finance.ofx/loanpaymentamount).
 
 ```csharp
 public LoanPaymentAmount LoanPayment { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: ProfileRequestMessageSetV1
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化ProfileRequestMessageSetV1aspose.finance.ofx/profilerequestmessagesetv1类的新实例
+description: 初始化一个新的实例ProfileRequestMessageSetV1aspose.finance.ofx/profilerequestmessagesetv1类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx/profilerequestmessagesetv1/profilerequestmessagesetv1/
 ---
 ## ProfileRequestMessageSetV1 constructor
 
-初始化[`ProfileRequestMessageSetV1`](../../profilerequestmessagesetv1)类的新实例。
+初始化一个新的实例[`ProfileRequestMessageSetV1`](../../profilerequestmessagesetv1)类.
 
 ```csharp
 public ProfileRequestMessageSetV1()

@@ -1,14 +1,14 @@
 ---
 title: BankAccountFrom
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置BankAccountaspose.finance.ofx/bankaccount的来源
+description: 获取或设置 fromBankAccountaspose.finance.ofx/bankaccount.
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.ofx.bank/depositmailresponse/bankaccountfrom/
 ---
 ## DepositMailResponse.BankAccountFrom property
 
-获取或设置[`BankAccount`](../../../aspose.finance.ofx/bankaccount)的来源。
+获取或设置 from[`BankAccount`](../../../aspose.finance.ofx/bankaccount).
 
 ```csharp
 public BankAccount BankAccountFrom { get; set; }

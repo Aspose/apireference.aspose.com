@@ -1,7 +1,7 @@
 ---
 title: ClassName
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает атрибут класса элемента. Этот атрибут был переименован из-за конфликтов с ключевым словом class во многих языках. См. определение атрибута класса в HTML 4.01.
+description: Получает или задает атрибут класса элемента. Этот атрибут был переименован изза конфликтов с ключевым словом class во многих языках. См. определение атрибута класса в HTML 4.01.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.xbrl.dom.html/htmlelement/classname/

@@ -1,14 +1,14 @@
 ---
 title: WireTransferResponseMessageSetV1
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化WireTransferResponseMessageSetV1aspose.finance.ofx/wiretransferresponsemessagesetv1类的新实例
+description: 初始化一个新的实例WireTransferResponseMessageSetV1aspose.finance.ofx/wiretransferresponsemessagesetv1类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx/wiretransferresponsemessagesetv1/wiretransferresponsemessagesetv1/
 ---
 ## WireTransferResponseMessageSetV1 constructor
 
-初始化[`WireTransferResponseMessageSetV1`](../../wiretransferresponsemessagesetv1)类的新实例。
+初始化一个新的实例[`WireTransferResponseMessageSetV1`](../../wiretransferresponsemessagesetv1)类.
 
 ```csharp
 public WireTransferResponseMessageSetV1()

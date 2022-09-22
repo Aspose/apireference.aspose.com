@@ -18,7 +18,7 @@ public class LoanRateType
 
 | 姓名 | 描述 |
 | --- | --- |
-| [LoanRateType](loanratetype)() | 初始化[`LoanRateType`](../loanratetype)类的新实例。 |
+| [LoanRateType](loanratetype)() | 初始化一个新的实例[`LoanRateType`](../loanratetype)类. |
 
 ## 特性
 
@@ -26,7 +26,7 @@ public class LoanRateType
 | --- | --- |
 | [DateAsOf](../../aspose.finance.ofx/loanratetype/dateasof) { get; set; } | 获取或设置当前利率的日期和时间。 |
 | [LoanInterestRate](../../aspose.finance.ofx/loanratetype/loaninterestrate) { get; set; } | 获取或设置当前贷款利率。 |
-| [RateType](../../aspose.finance.ofx/loanratetype/ratetype) { get; set; } | 获取或设置速率类型。 |
+| [RateType](../../aspose.finance.ofx/loanratetype/ratetype) { get; set; } | 获取或设置速率的类型。 |
 
 ### 也可以看看
 

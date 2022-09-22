@@ -1,14 +1,14 @@
 ---
 title: EstimatedPayoff
 second_title: Справочник по API Aspose.Finance для .NET
-description: Расчетный платежный балансовый класс.
+description: Расчетный класс баланса выплат.
 type: docs
 weight: 3820
 url: /ru/net/aspose.finance.ofx.loan/estimatedpayoff/
 ---
 ## EstimatedPayoff class
 
-Расчетный платежный балансовый класс.
+Расчетный класс баланса выплат.
 
 ```csharp
 public class EstimatedPayoff
@@ -18,14 +18,14 @@ public class EstimatedPayoff
 
 | Имя | Описание |
 | --- | --- |
-| [EstimatedPayoff](estimatedpayoff)() | Инициализирует новый экземпляр класса[`EstimatedPayoff`](../estimatedpayoff). |
+| [EstimatedPayoff](estimatedpayoff)() | Инициализирует новый экземпляр[`EstimatedPayoff`](../estimatedpayoff) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
 | [DateAsOf](../../aspose.finance.ofx.loan/estimatedpayoff/dateasof) { get; set; } | Получает или задает дату выплаты |
-| [EstimatedPayoffBalance](../../aspose.finance.ofx.loan/estimatedpayoff/estimatedpayoffbalance) { get; set; } | Получает или задает расчетную сумму выплаты. |
+| [EstimatedPayoffBalance](../../aspose.finance.ofx.loan/estimatedpayoff/estimatedpayoffbalance) { get; set; } | Получает или задает предполагаемую сумму выплаты. |
 
 ### Смотрите также
 

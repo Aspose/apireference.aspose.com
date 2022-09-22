@@ -1,14 +1,14 @@
 ---
 title: AccountTransactionRequests
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置AccountTransactionRequestaspose.finance.ofx.signup/accounttransactionrequest的集合
+description: 获取或设置的集合AccountTransactionRequestaspose.finance.ofx.signup/accounttransactionrequest.
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.ofx.signup/accountsyncrequest/accounttransactionrequests/
 ---
 ## AccountSyncRequest.AccountTransactionRequests property
 
-获取或设置[`AccountTransactionRequest`](../../accounttransactionrequest)的集合。
+获取或设置的集合[`AccountTransactionRequest`](../../accounttransactionrequest).
 
 ```csharp
 public List<AccountTransactionRequest> AccountTransactionRequests { get; set; }

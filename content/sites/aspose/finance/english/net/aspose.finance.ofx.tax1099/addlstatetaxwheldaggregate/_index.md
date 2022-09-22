@@ -3,7 +3,7 @@ title: AddlStateTaxWheldAggregate
 second_title: Aspose.Finance for .NET API Reference
 description: Optional state tax withholding class that handles tax withholding declarations for one or more states.
 type: docs
-weight: 5880
+weight: 5910
 url: /net/aspose.finance.ofx.tax1099/addlstatetaxwheldaggregate/
 ---
 ## AddlStateTaxWheldAggregate class

@@ -1,14 +1,14 @@
 ---
 title: ContributionAmt
 second_title: Aspose.Finance for .NET API 参考
-description: 贡献金额分配等级
+description: 出资额分配等级
 type: docs
 weight: 2740
 url: /zh/net/aspose.finance.ofx.investment/contributionamt/
 ---
 ## ContributionAmt class
 
-贡献金额分配等级。
+出资额分配等级
 
 ```csharp
 public class ContributionAmt
@@ -18,7 +18,7 @@ public class ContributionAmt
 
 | 姓名 | 描述 |
 | --- | --- |
-| [ContributionAmt](contributionamt)() | 初始化[`ContributionAmt`](../contributionamt)类的新实例。 |
+| [ContributionAmt](contributionamt)() | 初始化一个新的实例[`ContributionAmt`](../contributionamt)类. |
 
 ## 特性
 

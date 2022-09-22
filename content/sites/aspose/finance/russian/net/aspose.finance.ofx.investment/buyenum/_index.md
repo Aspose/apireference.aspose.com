@@ -1,14 +1,14 @@
 ---
 title: BuyEnum
 second_title: Справочник по API Aspose.Finance для .NET
-description: Купить тип enum.
+description: Тип покупки enum.
 type: docs
 weight: 2680
 url: /ru/net/aspose.finance.ofx.investment/buyenum/
 ---
 ## BuyEnum enumeration
 
-Купить тип enum.
+Тип покупки enum.
 
 ```csharp
 public enum BuyEnum
@@ -19,7 +19,7 @@ public enum BuyEnum
 | Имя | Ценность | Описание |
 | --- | --- | --- |
 | BUY | `0` | Купить |
-| BUYTOCOVER | `1` | Купить до конца |
+| BUYTOCOVER | `1` | Купить для покрытия |
 
 ### Смотрите также
 

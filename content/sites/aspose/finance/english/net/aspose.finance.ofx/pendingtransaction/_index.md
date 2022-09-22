@@ -3,7 +3,7 @@ title: PendingTransaction
 second_title: Aspose.Finance for .NET API Reference
 description: This class describes a single pending transaction. It identifies the type of the transaction and the date it was initiated. The class can also provide additional information to help the customer recognize the transaction check number payee name and memo.
 type: docs
-weight: 4250
+weight: 4270
 url: /net/aspose.finance.ofx/pendingtransaction/
 ---
 ## PendingTransaction class

@@ -1,14 +1,14 @@
 ---
 title: RecurringPaymentSyncResponse
 second_title: Aspose.Finance for .NET API 参考
-description: 定期支付同步响应类
+description: 循环支付同步响应类
 type: docs
 weight: 1350
 url: /zh/net/aspose.finance.ofx.billpay/recurringpaymentsyncresponse/
 ---
 ## RecurringPaymentSyncResponse class
 
-定期支付同步响应类。
+循环支付同步响应类。
 
 ```csharp
 public class RecurringPaymentSyncResponse : AbstractSyncResponse
@@ -18,16 +18,16 @@ public class RecurringPaymentSyncResponse : AbstractSyncResponse
 
 | 姓名 | 描述 |
 | --- | --- |
-| [RecurringPaymentSyncResponse](recurringpaymentsyncresponse)() | 初始化[`RecurringPaymentSyncResponse`](../recurringpaymentsyncresponse)类的新实例。 |
+| [RecurringPaymentSyncResponse](recurringpaymentsyncresponse)() | 初始化一个新的实例[`RecurringPaymentSyncResponse`](../recurringpaymentsyncresponse)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [BankAccountFrom](../../aspose.finance.ofx.billpay/recurringpaymentsyncresponse/bankaccountfrom) { get; set; } | 获取或设置[`BankAccount`](../../aspose.finance.ofx/bankaccount)的来源。 |
-| [LostSynchronization](../../aspose.finance.ofx/abstractsyncresponse/lostsynchronization) { get; set; } | 如果同步请求中的令牌早于服务器历史记录表中的最早条目，则是。在这种情况下，一些响应已经丢失。 如果同步请求中的令牌比服务器历史记录表中的令牌更新或匹配，则否。 |
-| [OfxExtension](../../aspose.finance.ofx.billpay/recurringpaymentsyncresponse/ofxextension) { get; set; } | 获取或设置[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype)。 |
-| [RecurringPaymentTransactionResponses](../../aspose.finance.ofx.billpay/recurringpaymentsyncresponse/recurringpaymenttransactionresponses) { get; set; } | 获取或设置[`RecurringPaymentTransactionResponse`](../recurringpaymenttransactionresponse)的集合。 |
+| [BankAccountFrom](../../aspose.finance.ofx.billpay/recurringpaymentsyncresponse/bankaccountfrom) { get; set; } | 获取或设置 from[`BankAccount`](../../aspose.finance.ofx/bankaccount). |
+| [LostSynchronization](../../aspose.finance.ofx/abstractsyncresponse/lostsynchronization) { get; set; } | 如果同步请求中的令牌比服务器历史表中最早的条目更旧，则为是。在这种情况下，一些响应已丢失。 如果同步请求中的令牌比服务器历史表中的令牌更新或匹配，则为否历史表. |
+| [OfxExtension](../../aspose.finance.ofx.billpay/recurringpaymentsyncresponse/ofxextension) { get; set; } | 获取或设置[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
+| [RecurringPaymentTransactionResponses](../../aspose.finance.ofx.billpay/recurringpaymentsyncresponse/recurringpaymenttransactionresponses) { get; set; } | 获取或设置的集合[`RecurringPaymentTransactionResponse`](../recurringpaymenttransactionresponse). |
 | [Token](../../aspose.finance.ofx/abstractsyncresponse/token) { get; set; } | 获取或设置新的同步令牌。 |
 
 ### 也可以看看

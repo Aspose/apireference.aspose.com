@@ -3,7 +3,7 @@ title: ServiceDelete
 second_title: Aspose.Finance for .NET API Reference
 description: Service deletion class.
 type: docs
-weight: 5660
+weight: 5690
 url: /net/aspose.finance.ofx.signup/servicedelete/
 ---
 ## ServiceDelete class

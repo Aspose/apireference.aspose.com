@@ -1,14 +1,14 @@
 ---
 title: ImageProfile
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаImageProfileaspose.finance.ofx.profile/imageprofile.
+description: Инициализирует новый экземплярImageProfileaspose.finance.ofx.profile/imageprofile класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.profile/imageprofile/imageprofile/
 ---
 ## ImageProfile constructor
 
-Инициализирует новый экземпляр класса[`ImageProfile`](../../imageprofile).
+Инициализирует новый экземпляр[`ImageProfile`](../../imageprofile) класс.
 
 ```csharp
 public ImageProfile()

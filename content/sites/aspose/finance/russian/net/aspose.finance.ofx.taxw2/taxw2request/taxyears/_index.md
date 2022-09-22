@@ -1,14 +1,14 @@
 ---
 title: TaxYears
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает налоговые годы запрашиваемых форм в формате ГГГГ.
+description: Получает или задает налоговые годы запрошенных форм в формате ГГГГ.
 type: docs
 weight: 30
 url: /ru/net/aspose.finance.ofx.taxw2/taxw2request/taxyears/
 ---
 ## TaxW2Request.TaxYears property
 
-Получает или задает налоговые годы запрашиваемых форм в формате «ГГГГ».
+Получает или задает налоговые годы запрошенных форм в формате «ГГГГ».
 
 ```csharp
 public List<string> TaxYears { get; set; }

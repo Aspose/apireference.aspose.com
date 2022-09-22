@@ -8,7 +8,7 @@ url: /zh/net/aspose.finance.ofx.loan/loanmailsyncresponse/
 ---
 ## LoanMailSyncResponse class
 
-外借邮件同步响应类。
+外借邮件同步响应类
 
 ```csharp
 public class LoanMailSyncResponse : AbstractSyncResponse
@@ -18,16 +18,16 @@ public class LoanMailSyncResponse : AbstractSyncResponse
 
 | 姓名 | 描述 |
 | --- | --- |
-| [LoanMailSyncResponse](loanmailsyncresponse)() | 初始化[`LoanMailSyncResponse`](../loanmailsyncresponse)类的新实例。 |
+| [LoanMailSyncResponse](loanmailsyncresponse)() | 初始化一个新的实例[`LoanMailSyncResponse`](../loanmailsyncresponse)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [LoanAccountFrom](../../aspose.finance.ofx.loan/loanmailsyncresponse/loanaccountfrom) { get; set; } | 获取或设置[`LoanAccount`](../../aspose.finance.ofx/loanaccount)的来源。 |
-| [LoanMailTransactionResponses](../../aspose.finance.ofx.loan/loanmailsyncresponse/loanmailtransactionresponses) { get; set; } | 获取或设置[`LoanMailTransactionResponse`](../loanmailtransactionresponse)的集合。 |
-| [LostSynchronization](../../aspose.finance.ofx/abstractsyncresponse/lostsynchronization) { get; set; } | 如果同步请求中的令牌早于服务器历史记录表中的最早条目，则是。在这种情况下，一些响应已经丢失。 如果同步请求中的令牌比服务器历史记录表中的令牌更新或匹配，则否。 |
-| [OfxExtension](../../aspose.finance.ofx.loan/loanmailsyncresponse/ofxextension) { get; set; } | 获取或设置[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype)。 |
+| [LoanAccountFrom](../../aspose.finance.ofx.loan/loanmailsyncresponse/loanaccountfrom) { get; set; } | 获取或设置 from[`LoanAccount`](../../aspose.finance.ofx/loanaccount). |
+| [LoanMailTransactionResponses](../../aspose.finance.ofx.loan/loanmailsyncresponse/loanmailtransactionresponses) { get; set; } | 获取或设置的集合[`LoanMailTransactionResponse`](../loanmailtransactionresponse). |
+| [LostSynchronization](../../aspose.finance.ofx/abstractsyncresponse/lostsynchronization) { get; set; } | 如果同步请求中的令牌比服务器历史表中最早的条目更旧，则为是。在这种情况下，一些响应已丢失。 如果同步请求中的令牌比服务器历史表中的令牌更新或匹配，则为否历史表. |
+| [OfxExtension](../../aspose.finance.ofx.loan/loanmailsyncresponse/ofxextension) { get; set; } | 获取或设置[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
 | [Token](../../aspose.finance.ofx/abstractsyncresponse/token) { get; set; } | 获取或设置新的同步令牌。 |
 
 ### 也可以看看

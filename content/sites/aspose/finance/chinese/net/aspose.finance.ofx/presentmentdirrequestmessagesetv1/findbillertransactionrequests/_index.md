@@ -1,14 +1,14 @@
 ---
 title: FindBillerTransactionRequests
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置FindBillerTransactionRequestaspose.finance.ofx.billerdirectory/findbillertransactionrequest的集合
+description: 获取或设置的集合FindBillerTransactionRequestaspose.finance.ofx.billerdirectory/findbillertransactionrequest.
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.ofx/presentmentdirrequestmessagesetv1/findbillertransactionrequests/
 ---
 ## PresentmentDirRequestMessageSetV1.FindBillerTransactionRequests property
 
-获取或设置[`FindBillerTransactionRequest`](../../../aspose.finance.ofx.billerdirectory/findbillertransactionrequest)的集合。
+获取或设置的集合[`FindBillerTransactionRequest`](../../../aspose.finance.ofx.billerdirectory/findbillertransactionrequest).
 
 ```csharp
 public List<FindBillerTransactionRequest> FindBillerTransactionRequests { get; set; }

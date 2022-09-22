@@ -1,14 +1,14 @@
 ---
 title: BalanceType
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получить или установить тип баланса концепции.
+description: Получить или установить тип баланса концепта.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.xbrl/concept/balancetype/
 ---
 ## Concept.BalanceType property
 
-Получить или установить тип баланса концепции.
+Получить или установить тип баланса концепта.
 
 ```csharp
 public ElementBalanceType BalanceType { get; set; }

@@ -24,13 +24,13 @@ public class Metered
 
 | Имя | Описание |
 | --- | --- |
-| [SetMeteredKey](../../aspose.finance/metered/setmeteredkey)(string, string) | Устанавливает дозированные открытый и закрытый ключ |
+| [SetMeteredKey](../../aspose.finance/metered/setmeteredkey)(string, string) | Устанавливает лимитированный открытый и закрытый ключ |
 | static [GetConsumptionCredit](../../aspose.finance/metered/getconsumptioncredit)() | Получает потребительский кредит |
 | static [GetConsumptionQuantity](../../aspose.finance/metered/getconsumptionquantity)() | Получает размер файла потребления |
 
 ### Примеры
 
-В этом примере будет предпринята попытка установить дозированные открытый и закрытый ключ
+В этом примере будет предпринята попытка установить лимитированный открытый и закрытый ключ
 
 ```csharp
 [C#]
@@ -45,7 +45,7 @@ Dim matered As Metered = New Metered
 matered.SetMeteredKey("PublicKey", "PrivateKey")
 ```
 
-jar-файл компонента:
+файл jar компонента:
 
 ```csharp
 Metered matered = new Metered();

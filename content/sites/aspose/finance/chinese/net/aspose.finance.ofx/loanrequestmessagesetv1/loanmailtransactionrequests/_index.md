@@ -1,14 +1,14 @@
 ---
 title: LoanMailTransactionRequests
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置LoanMailTransactionRequestaspose.finance.ofx.loan/loanmailtransactionrequest的集合
+description: 获取或设置的集合LoanMailTransactionRequestaspose.finance.ofx.loan/loanmailtransactionrequest.
 type: docs
 weight: 40
 url: /zh/net/aspose.finance.ofx/loanrequestmessagesetv1/loanmailtransactionrequests/
 ---
 ## LoanRequestMessageSetV1.LoanMailTransactionRequests property
 
-获取或设置[`LoanMailTransactionRequest`](../../../aspose.finance.ofx.loan/loanmailtransactionrequest)的集合。
+获取或设置的集合[`LoanMailTransactionRequest`](../../../aspose.finance.ofx.loan/loanmailtransactionrequest).
 
 ```csharp
 public List<LoanMailTransactionRequest> LoanMailTransactionRequests { get; set; }

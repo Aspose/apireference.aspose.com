@@ -1,7 +1,7 @@
 ---
 title: Form1099BNotReceived
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает форму 1099-B не получено
+description: Получает или задает форму 1099B не получено
 type: docs
 weight: 60
 url: /ru/net/aspose.finance.ofx.tax1099/proceeddescription_v100/form1099bnotreceived/

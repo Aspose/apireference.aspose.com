@@ -1,14 +1,14 @@
 ---
 title: Value
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает значениеInlineContinuationaspose.finance.xbrl.inline/inlinecontinuation.
+description: Получает или задает значениеInlineContinuationaspose.finance.xbrl.inline/inlinecontinuation .
 type: docs
 weight: 30
 url: /ru/net/aspose.finance.xbrl.inline/inlinecontinuation/value/
 ---
 ## InlineContinuation.Value property
 
-Получает или задает значение[`InlineContinuation`](../../inlinecontinuation).
+Получает или задает значение[`InlineContinuation`](../../inlinecontinuation) .
 
 ```csharp
 public string Value { get; set; }

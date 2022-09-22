@@ -18,14 +18,14 @@ public class FinancialInstitutionPortion
 
 | 姓名 | 描述 |
 | --- | --- |
-| [FinancialInstitutionPortion](financialinstitutionportion)() | 初始化[`FinancialInstitutionPortion`](../financialinstitutionportion)类的新实例。 |
+| [FinancialInstitutionPortion](financialinstitutionportion)() | 初始化一个新的实例[`FinancialInstitutionPortion`](../financialinstitutionportion)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
 | [FIAssetClass](../../aspose.finance.ofx.securitieslist/financialinstitutionportion/fiassetclass) { get; set; } | 获取或设置包含 FI 定义的资产类别的文本字符串。 |
-| [Percent](../../aspose.finance.ofx.securitieslist/financialinstitutionportion/percent) { get; set; } | 获取或设置属于该资产类别的基金的百分比。 |
+| [Percent](../../aspose.finance.ofx.securitieslist/financialinstitutionportion/percent) { get; set; } | 获取或设置属于该资产类别的基金百分比。 |
 
 ### 也可以看看
 

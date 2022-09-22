@@ -1,14 +1,14 @@
 ---
 title: CheckRange
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаCheckRangeaspose.finance.ofx.bank/checkrange.
+description: Инициализирует новый экземплярCheckRangeaspose.finance.ofx.bank/checkrange класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.bank/checkrange/checkrange/
 ---
 ## CheckRange constructor
 
-Инициализирует новый экземпляр класса[`CheckRange`](../../checkrange).
+Инициализирует новый экземпляр[`CheckRange`](../../checkrange) класс.
 
 ```csharp
 public CheckRange()

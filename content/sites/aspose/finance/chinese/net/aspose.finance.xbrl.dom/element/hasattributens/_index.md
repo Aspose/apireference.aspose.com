@@ -1,14 +1,14 @@
 ---
 title: HasAttributeNS
 second_title: Aspose.Finance for .NET API 参考
-description: 在此元素上指定具有给定本地名称和命名空间 URI 的属性或具有默认值时返回 true否则返回 false
+description: 如果在此元素上指定了具有给定本地名称和命名空间 URI 的属性或具有默认值则返回 true否则返回 false
 type: docs
 weight: 120
 url: /zh/net/aspose.finance.xbrl.dom/element/hasattributens/
 ---
 ## Element.HasAttributeNS method
 
-在此元素上指定具有给定本地名称和命名空间 URI 的属性或具有默认值时返回 true，否则返回 false。
+如果在此元素上指定了具有给定本地名称和命名空间 URI 的属性或具有默认值，则返回 true，否则返回 false。
 
 ```csharp
 public bool HasAttributeNS(string namespaceURI, string localName)

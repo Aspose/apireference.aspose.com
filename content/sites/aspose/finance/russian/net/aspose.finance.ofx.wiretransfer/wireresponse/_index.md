@@ -1,14 +1,14 @@
 ---
 title: WireResponse
 second_title: Справочник по API Aspose.Finance для .NET
-description: Класс ответа банковского перевода.
+description: Класс ответа на банковский перевод.
 type: docs
 weight: 6390
 url: /ru/net/aspose.finance.ofx.wiretransfer/wireresponse/
 ---
 ## WireResponse class
 
-Класс ответа банковского перевода.
+Класс ответа на банковский перевод.
 
 ```csharp
 public class WireResponse : AbstractWireResponse
@@ -18,24 +18,24 @@ public class WireResponse : AbstractWireResponse
 
 | Имя | Описание |
 | --- | --- |
-| [WireResponse](wireresponse)() | Инициализирует новый экземпляр класса[`WireResponse`](../wireresponse). |
+| [WireResponse](wireresponse)() | Инициализирует новый экземпляр[`WireResponse`](../wireresponse) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [BankAccountFrom](../../aspose.finance.ofx.wiretransfer/wireresponse/bankaccountfrom) { get; set; } | Получает или задает значение из[`BankAccount`](../../aspose.finance.ofx/bankaccount). |
+| [BankAccountFrom](../../aspose.finance.ofx.wiretransfer/wireresponse/bankaccountfrom) { get; set; } | Получает или задает из[`BankAccount`](../../aspose.finance.ofx/bankaccount) . |
 | [ConfirmationMessage](../../aspose.finance.ofx.wiretransfer/wireresponse/confirmationmessage) { get; set; } | Получает или задает сообщение подтверждения. |
 | [Currency](../../aspose.finance.ofx.wiretransfer/wireresponse/currency) { get; set; } | Получает или задает валюту, используемую при переводе. |
-| [DueDate](../../aspose.finance.ofx.wiretransfer/wireresponse/duedate) { get; set; } | Получает или задает дату наступления события. |
+| [DueDate](../../aspose.finance.ofx.wiretransfer/wireresponse/duedate) { get; set; } | Получает или задает дату наступления. |
 | [Fee](../../aspose.finance.ofx.wiretransfer/wireresponse/fee) { get; set; } | Получает или задает комиссию за перевод. |
 | [PaymentInstruction](../../aspose.finance.ofx.wiretransfer/wireresponse/paymentinstruction) { get; set; } | Получает или задает платежные инструкции. |
-| [PostedDate](../../aspose.finance.ofx.wiretransfer/wireresponse/posteddate) { get; set; } | Получает или задает фактическую дату передачи. |
+| [PostedDate](../../aspose.finance.ofx.wiretransfer/wireresponse/posteddate) { get; set; } | Получает или задает фактическую дату переноса. |
 | [ServerId](../../aspose.finance.ofx.wiretransfer/wireresponse/serverid) { get; set; } | Получает или задает идентификатор сервера для этой передачи. |
 | [TransferAmount](../../aspose.finance.ofx.wiretransfer/wireresponse/transferamount) { get; set; } | Получает или задает сумму перевода. |
-| [TransferProjectDate](../../aspose.finance.ofx.wiretransfer/wireresponse/transferprojectdate) { get; set; } | Получает или задает предполагаемую дату переноса. |
-| [WireBeneficiary](../../aspose.finance.ofx.wiretransfer/wireresponse/wirebeneficiary) { get; set; } | Получает или задает[`WireBeneficiary`](./wirebeneficiary). |
-| [WireDestinationBank](../../aspose.finance.ofx.wiretransfer/wireresponse/wiredestinationbank) { get; set; } | Получает или задает[`WireDestinationBank`](./wiredestinationbank). |
+| [TransferProjectDate](../../aspose.finance.ofx.wiretransfer/wireresponse/transferprojectdate) { get; set; } | Получает или задает прогнозируемую дату переноса. |
+| [WireBeneficiary](../../aspose.finance.ofx.wiretransfer/wireresponse/wirebeneficiary) { get; set; } | Получает или задает[`WireBeneficiary`](./wirebeneficiary) . |
+| [WireDestinationBank](../../aspose.finance.ofx.wiretransfer/wireresponse/wiredestinationbank) { get; set; } | Получает или задает[`WireDestinationBank`](./wiredestinationbank) . |
 
 ### Смотрите также
 

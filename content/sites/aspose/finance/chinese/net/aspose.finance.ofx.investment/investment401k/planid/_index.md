@@ -8,7 +8,7 @@ url: /zh/net/aspose.finance.ofx.investment/investment401k/planid/
 ---
 ## Investment401k.PlanId property
 
-获取或设置计划号。
+获取或设置计划号
 
 ```csharp
 public string PlanId { get; set; }

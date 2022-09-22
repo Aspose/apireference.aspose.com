@@ -1,14 +1,14 @@
 ---
 title: Void
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置表单是否为无效
+description: 获取或设置表单是否为void
 type: docs
 weight: 40
 url: /zh/net/aspose.finance.ofx.tax1099/abstracttaxform1099/void/
 ---
 ## AbstractTaxForm1099.Void property
 
-获取或设置表单是否为无效。
+获取或设置表单是否为void。
 
 ```csharp
 public bool Void { get; set; }

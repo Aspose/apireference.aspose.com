@@ -1,14 +1,14 @@
 ---
 title: Reference
 second_title: Справочник по API Aspose.Finance для .NET
-description: Этот класс представляет собой классXlink./xlinkс типом ресурса. он позволяет таксономиям XBRL обосновывать определения концепций в авторитетных заявлениях в опубликованной деловой финансовой и бухгалтерской литературе.
+description: Этот класс являетсяXlink./xlink с типом ресурса. он позволяет таксономиям XBRL обосновывать определения концепций в авторитетных заявлениях в опубликованной деловой финансовой и бухгалтерской литературе.
 type: docs
 weight: 7900
 url: /ru/net/aspose.finance.xbrl/reference/
 ---
 ## Reference class
 
-Этот класс представляет собой класс[`Xlink`](../xlink)с типом ресурса. он позволяет таксономиям XBRL обосновывать определения концепций в авторитетных заявлениях в опубликованной деловой, финансовой и бухгалтерской литературе.
+Этот класс является[`Xlink`](../xlink) с типом ресурса. он позволяет таксономиям XBRL обосновывать определения концепций в авторитетных заявлениях в опубликованной деловой, финансовой и бухгалтерской литературе.
 
 ```csharp
 public class Reference : Resource
@@ -20,7 +20,7 @@ public class Reference : Resource
 | --- | --- |
 | [Id](../../aspose.finance.xbrl/resource/id) { get; set; } | Получает или задает идентификатор ресурса. |
 | [Label](../../aspose.finance.xbrl/resource/label) { get; set; } | Получает или задает метку ресурса. |
-| [ReferenceParts](../../aspose.finance.xbrl/reference/referenceparts) { get; } | Получает коллекцию[`ReferencePart`](../referencepart). |
+| [ReferenceParts](../../aspose.finance.xbrl/reference/referenceparts) { get; } | Получает коллекцию[`ReferencePart`](../referencepart) . |
 | [Role](../../aspose.finance.xbrl/resource/role) { get; set; } | Получает или задает роль ресурса. |
 | [Title](../../aspose.finance.xbrl/resource/title) { get; set; } | Получает или задает заголовок ресурса. |
 | [Type](../../aspose.finance.xbrl/xlink/type) { get; } | Получает тип ссылки. |

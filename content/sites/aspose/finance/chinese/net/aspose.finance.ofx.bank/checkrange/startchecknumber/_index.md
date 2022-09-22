@@ -1,14 +1,14 @@
 ---
 title: StartCheckNumber
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置要取消的开始校验号
+description: 获取或设置要取消的起始校验号
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.ofx.bank/checkrange/startchecknumber/
 ---
 ## CheckRange.StartCheckNumber property
 
-获取或设置要取消的开始校验号。
+获取或设置要取消的起始校验号。
 
 ```csharp
 public string StartCheckNumber { get; set; }

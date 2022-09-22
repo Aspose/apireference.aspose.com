@@ -1,14 +1,14 @@
 ---
 title: ServiceChange
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化ServiceChangeaspose.finance.ofx.signup/servicechange类的新实例
+description: 初始化一个新的实例ServiceChangeaspose.finance.ofx.signup/servicechange类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.signup/servicechange/servicechange/
 ---
 ## ServiceChange constructor
 
-初始化[`ServiceChange`](../../servicechange)类的新实例。
+初始化一个新的实例[`ServiceChange`](../../servicechange)类.
 
 ```csharp
 public ServiceChange()

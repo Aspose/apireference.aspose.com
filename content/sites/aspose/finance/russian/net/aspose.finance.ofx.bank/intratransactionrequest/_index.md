@@ -18,15 +18,15 @@ public class IntraTransactionRequest : AbstractTransactionRequest
 
 | Имя | Описание |
 | --- | --- |
-| [IntraTransactionRequest](intratransactionrequest)() | Инициализирует новый экземпляр класса[`IntraTransactionRequest`](../intratransactionrequest). |
+| [IntraTransactionRequest](intratransactionrequest)() | Инициализирует новый экземпляр[`IntraTransactionRequest`](../intratransactionrequest) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [ClientCookie](../../aspose.finance.ofx/abstracttransactionrequest/clientcookie) { get; set; } | Получает или задает данные, которые будут отображаться в ответе транзакции |
-| [OfxExtension](../../aspose.finance.ofx.bank/intratransactionrequest/ofxextension) { get; set; } | Получает или задает[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
-| [Request](../../aspose.finance.ofx.bank/intratransactionrequest/request) { get; set; } | Получает или задает[`IntraRequest`](../intrarequest)или[`IntraModRequest`](../intramodrequest)или[`IntraCancellationRequest`](../intracancellationrequest). |
+| [ClientCookie](../../aspose.finance.ofx/abstracttransactionrequest/clientcookie) { get; set; } | Получает или задает данные, которые будут отражены в транзакции response |
+| [OfxExtension](../../aspose.finance.ofx.bank/intratransactionrequest/ofxextension) { get; set; } | Получает или задает[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype) . |
+| [Request](../../aspose.finance.ofx.bank/intratransactionrequest/request) { get; set; } | Получает или задает[`IntraRequest`](../intrarequest) или же[`IntraModRequest`](../intramodrequest) или же[`IntraCancellationRequest`](../intracancellationrequest) . |
 | [TransactionAuthorizationNumber](../../aspose.finance.ofx/abstracttransactionrequest/transactionauthorizationnumber) { get; set; } | Получает или задает номер авторизации транзакции. |
 | [TransactionUniqueId](../../aspose.finance.ofx/abstracttransactionrequest/transactionuniqueid) { get; set; } | Получает или задает назначенный клиентом глобальный уникальный идентификатор для этой транзакции |
 

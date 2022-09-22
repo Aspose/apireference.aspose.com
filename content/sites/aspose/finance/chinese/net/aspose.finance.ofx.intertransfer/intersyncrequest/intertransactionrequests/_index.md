@@ -1,14 +1,14 @@
 ---
 title: InterTransactionRequests
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置InterTransactionRequestaspose.finance.ofx.intertransfer/intertransactionrequest的集合
+description: 获取或设置的集合InterTransactionRequestaspose.finance.ofx.intertransfer/intertransactionrequest.
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.ofx.intertransfer/intersyncrequest/intertransactionrequests/
 ---
 ## InterSyncRequest.InterTransactionRequests property
 
-获取或设置[`InterTransactionRequest`](../../intertransactionrequest)的集合。
+获取或设置的集合[`InterTransactionRequest`](../../intertransactionrequest).
 
 ```csharp
 public List<InterTransactionRequest> InterTransactionRequests { get; set; }

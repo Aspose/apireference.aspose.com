@@ -1,14 +1,14 @@
 ---
 title: AccountUpdateDate
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置上次更新帐户信息的日期和时间
+description: 获取或设置上次更新账户信息的日期和时间
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.ofx.signon/signonresponse/accountupdatedate/
 ---
 ## SignonResponse.AccountUpdateDate property
 
-获取或设置上次更新帐户信息的日期和时间。
+获取或设置上次更新账户信息的日期和时间。
 
 ```csharp
 public string AccountUpdateDate { get; set; }

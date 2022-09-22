@@ -1,14 +1,14 @@
 ---
 title: BankMessageSet
 second_title: Aspose.Finance for .NET API 参考
-description: 银行消息集
+description: 为银行设置的消息
 type: docs
 weight: 4370
 url: /zh/net/aspose.finance.ofx.profile/bankmessageset/
 ---
 ## BankMessageSet class
 
-银行消息集。
+为银行设置的消息。
 
 ```csharp
 public class BankMessageSet : AbstractMessageSet
@@ -18,13 +18,13 @@ public class BankMessageSet : AbstractMessageSet
 
 | 姓名 | 描述 |
 | --- | --- |
-| [BankMessageSet](bankmessageset)() | 初始化[`BankMessageSet`](../bankmessageset)类的新实例。 |
+| [BankMessageSet](bankmessageset)() | 初始化一个新的实例[`BankMessageSet`](../bankmessageset)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [BankMessageSetV1](../../aspose.finance.ofx.profile/bankmessageset/bankmessagesetv1) { get; set; } | 获取或设置[`BankMessageSetV1`](./bankmessagesetv1)。 |
+| [BankMessageSetV1](../../aspose.finance.ofx.profile/bankmessageset/bankmessagesetv1) { get; set; } | 获取或设置[`BankMessageSetV1`](./bankmessagesetv1). |
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: OptionInfo
 second_title: Aspose.Finance for .NET API 参考
-description: 选项信息类
+description: 选项信息类.
 type: docs
 weight: 5090
 url: /zh/net/aspose.finance.ofx.securitieslist/optioninfo/
 ---
 ## OptionInfo class
 
-选项信息类。
+选项信息类.
 
 ```csharp
 public class OptionInfo : AbstractSecurityInfo
@@ -18,7 +18,7 @@ public class OptionInfo : AbstractSecurityInfo
 
 | 姓名 | 描述 |
 | --- | --- |
-| [OptionInfo](optioninfo)() | 初始化[`OptionInfo`](../optioninfo)类的新实例。 |
+| [OptionInfo](optioninfo)() | 初始化一个新的实例[`OptionInfo`](../optioninfo)类. |
 
 ## 特性
 
@@ -28,8 +28,8 @@ public class OptionInfo : AbstractSecurityInfo
 | [ExpireDate](../../aspose.finance.ofx.securitieslist/optioninfo/expiredate) { get; set; } | 获取或设置到期日期。 |
 | [FIAssetClass](../../aspose.finance.ofx.securitieslist/optioninfo/fiassetclass) { get; set; } | 获取或设置包含 FI 定义的资产类别的文本字符串。 |
 | [OptionType](../../aspose.finance.ofx.securitieslist/optioninfo/optiontype) { get; set; } | 获取或设置选项类型。 |
-| [SecurityId](../../aspose.finance.ofx.securitieslist/optioninfo/securityid) { get; set; } | 获取或设置[`SecurityId`](./securityid)。 |
-| [SecurityInfo](../../aspose.finance.ofx.securitieslist/abstractsecurityinfo/securityinfo) { get; set; } | 获取或设置[`GeneralSecurityInfo`](../generalsecurityinfo)。 |
+| [SecurityId](../../aspose.finance.ofx.securitieslist/optioninfo/securityid) { get; set; } | 获取或设置[`SecurityId`](./securityid). |
+| [SecurityInfo](../../aspose.finance.ofx.securitieslist/abstractsecurityinfo/securityinfo) { get; set; } | 获取或设置[`GeneralSecurityInfo`](../generalsecurityinfo). |
 | [SharePerContract](../../aspose.finance.ofx.securitieslist/optioninfo/sharepercontract) { get; set; } | 获取或设置每个合约的份额。 |
 | [StrikePrice](../../aspose.finance.ofx.securitieslist/optioninfo/strikeprice) { get; set; } | 获取或设置执行价格。 |
 

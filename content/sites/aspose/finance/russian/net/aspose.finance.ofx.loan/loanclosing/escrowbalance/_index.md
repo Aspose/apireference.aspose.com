@@ -1,14 +1,14 @@
 ---
 title: EscrowBalance
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задаетEscrowBalanceaspose.finance.ofx.loan/loanclosing/escrowbalance.
+description: Получает или задаетEscrowBalanceaspose.finance.ofx.loan/loanclosing/escrowbalance .
 type: docs
 weight: 80
 url: /ru/net/aspose.finance.ofx.loan/loanclosing/escrowbalance/
 ---
 ## LoanClosing.EscrowBalance property
 
-Получает или задает`EscrowBalance`.
+Получает или задает`EscrowBalance` .
 
 ```csharp
 public EscrowBalance EscrowBalance { get; set; }

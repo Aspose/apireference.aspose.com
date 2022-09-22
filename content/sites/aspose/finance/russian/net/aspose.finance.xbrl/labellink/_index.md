@@ -1,14 +1,14 @@
 ---
 title: LabelLink
 second_title: Справочник по API Aspose.Finance для .NET
-description: Этот класс предназначен для содержания отношений между понятиями и текстовой документацией а также меток для этих понятий.
+description: Этот класс предназначен для содержания отношений между понятиями и текстовой документацией и метками для этих понятий.
 type: docs
 weight: 7790
 url: /ru/net/aspose.finance.xbrl/labellink/
 ---
 ## LabelLink class
 
-Этот класс предназначен для содержания отношений между понятиями и текстовой документацией, а также меток для этих понятий.
+Этот класс предназначен для содержания отношений между понятиями и текстовой документацией и метками для этих понятий.
 
 ```csharp
 public class LabelLink
@@ -18,9 +18,9 @@ public class LabelLink
 
 | Имя | Описание |
 | --- | --- |
-| [LabelArcs](../../aspose.finance.xbrl/labellink/labelarcs) { get; } | Получает коллекцию[`LabelArc`](../labelarc). |
-| [Labels](../../aspose.finance.xbrl/labellink/labels) { get; } | Получает коллекцию[`Label`](../label). |
-| [Locators](../../aspose.finance.xbrl/labellink/locators) { get; } | Получает коллекцию[`Loc`](../loc). |
+| [LabelArcs](../../aspose.finance.xbrl/labellink/labelarcs) { get; } | Получает коллекцию[`LabelArc`](../labelarc) . |
+| [Labels](../../aspose.finance.xbrl/labellink/labels) { get; } | Получает коллекцию[`Label`](../label) . |
+| [Locators](../../aspose.finance.xbrl/labellink/locators) { get; } | Получает коллекцию[`Loc`](../loc) . |
 | [Role](../../aspose.finance.xbrl/labellink/role) { get; set; } | Получает или задает роль. |
 
 ### Смотрите также

@@ -1,14 +1,14 @@
 ---
 title: GeneralOpenOrder
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаGeneralOpenOrderaspose.finance.ofx.investment/generalopenorder.
+description: Инициализирует новый экземплярGeneralOpenOrderaspose.finance.ofx.investment/generalopenorder класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.investment/generalopenorder/generalopenorder/
 ---
 ## GeneralOpenOrder constructor
 
-Инициализирует новый экземпляр класса[`GeneralOpenOrder`](../../generalopenorder).
+Инициализирует новый экземпляр[`GeneralOpenOrder`](../../generalopenorder) класс.
 
 ```csharp
 public GeneralOpenOrder()

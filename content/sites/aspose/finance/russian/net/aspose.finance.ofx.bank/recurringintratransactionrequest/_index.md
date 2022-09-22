@@ -18,15 +18,15 @@ public class RecurringIntraTransactionRequest : AbstractTransactionRequest
 
 | Имя | Описание |
 | --- | --- |
-| [RecurringIntraTransactionRequest](recurringintratransactionrequest)() | Инициализирует новый экземпляр класса[`RecurringIntraTransactionRequest`](../recurringintratransactionrequest). |
+| [RecurringIntraTransactionRequest](recurringintratransactionrequest)() | Инициализирует новый экземпляр[`RecurringIntraTransactionRequest`](../recurringintratransactionrequest) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [ClientCookie](../../aspose.finance.ofx/abstracttransactionrequest/clientcookie) { get; set; } | Получает или задает данные, которые будут отображаться в ответе транзакции |
-| [OfxExtension](../../aspose.finance.ofx.bank/recurringintratransactionrequest/ofxextension) { get; set; } | Получает или задает[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
-| [Request](../../aspose.finance.ofx.bank/recurringintratransactionrequest/request) { get; set; } | Получает или задает[`RecurringIntraRequest`](../recurringintrarequest)или[`RecurringIntraModRequest`](../recurringintramodrequest)или[`RecurringIntraCancellationRequest`](../recurringintracancellationrequest). |
+| [ClientCookie](../../aspose.finance.ofx/abstracttransactionrequest/clientcookie) { get; set; } | Получает или задает данные, которые будут отражены в транзакции response |
+| [OfxExtension](../../aspose.finance.ofx.bank/recurringintratransactionrequest/ofxextension) { get; set; } | Получает или задает[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype) . |
+| [Request](../../aspose.finance.ofx.bank/recurringintratransactionrequest/request) { get; set; } | Получает или задает[`RecurringIntraRequest`](../recurringintrarequest) или же[`RecurringIntraModRequest`](../recurringintramodrequest) или же[`RecurringIntraCancellationRequest`](../recurringintracancellationrequest) . |
 | [TransactionAuthorizationNumber](../../aspose.finance.ofx/abstracttransactionrequest/transactionauthorizationnumber) { get; set; } | Получает или задает номер авторизации транзакции. |
 | [TransactionUniqueId](../../aspose.finance.ofx/abstracttransactionrequest/transactionuniqueid) { get; set; } | Получает или задает назначенный клиентом глобальный уникальный идентификатор для этой транзакции |
 

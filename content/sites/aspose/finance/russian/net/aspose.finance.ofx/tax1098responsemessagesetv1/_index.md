@@ -18,13 +18,13 @@ public class Tax1098ResponseMessageSetV1 : AbstractResponseMessageSet
 
 | Имя | Описание |
 | --- | --- |
-| [Tax1098ResponseMessageSetV1](tax1098responsemessagesetv1)() | Инициализирует новый экземпляр класса[`Tax1098ResponseMessageSetV1`](../tax1098responsemessagesetv1). |
+| [Tax1098ResponseMessageSetV1](tax1098responsemessagesetv1)() | Инициализирует новый экземпляр[`Tax1098ResponseMessageSetV1`](../tax1098responsemessagesetv1) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [Tax1098TransactionResponses](../../aspose.finance.ofx/tax1098responsemessagesetv1/tax1098transactionresponses) { get; set; } | Получает или задает коллекцию[`Tax1098TransactionResponse`](../../aspose.finance.ofx.tax1098/tax1098transactionresponse). |
+| [Tax1098TransactionResponses](../../aspose.finance.ofx/tax1098responsemessagesetv1/tax1098transactionresponses) { get; set; } | Получает или задает коллекцию[`Tax1098TransactionResponse`](../../aspose.finance.ofx.tax1098/tax1098transactionresponse) . |
 
 ### Смотрите также
 

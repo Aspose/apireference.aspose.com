@@ -1,14 +1,14 @@
 ---
 title: PresentmentDeliveryRequestMessageSetV1
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化PresentmentDeliveryRequestMessageSetV1aspose.finance.ofx/presentmentdeliveryrequestmessagesetv1类的新实例
+description: 初始化一个新的实例PresentmentDeliveryRequestMessageSetV1aspose.finance.ofx/presentmentdeliveryrequestmessagesetv1类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx/presentmentdeliveryrequestmessagesetv1/presentmentdeliveryrequestmessagesetv1/
 ---
 ## PresentmentDeliveryRequestMessageSetV1 constructor
 
-初始化[`PresentmentDeliveryRequestMessageSetV1`](../../presentmentdeliveryrequestmessagesetv1)类的新实例。
+初始化一个新的实例[`PresentmentDeliveryRequestMessageSetV1`](../../presentmentdeliveryrequestmessagesetv1)类.
 
 ```csharp
 public PresentmentDeliveryRequestMessageSetV1()

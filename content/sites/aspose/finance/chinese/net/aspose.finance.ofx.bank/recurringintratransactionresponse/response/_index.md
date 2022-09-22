@@ -1,14 +1,14 @@
 ---
 title: Response
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置RecurringIntraResponseaspose.finance.ofx.bank/recurringintraresponse或RecurringIntraModResponseaspose.finance.ofx.bank/recurringintramodresponse或RecurringIntraCancellationResponseaspose.finance.ofx.bank/recurringintracancellationresponse
+description: 获取或设置RecurringIntraResponseaspose.finance.ofx.bank/recurringintraresponse或者RecurringIntraModResponseaspose.finance.ofx.bank/recurringintramodresponse或者RecurringIntraCancellationResponseaspose.finance.ofx.bank/recurringintracancellationresponse.
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.ofx.bank/recurringintratransactionresponse/response/
 ---
 ## RecurringIntraTransactionResponse.Response property
 
-获取或设置[`RecurringIntraResponse`](../../recurringintraresponse)或[`RecurringIntraModResponse`](../../recurringintramodresponse)或[`RecurringIntraCancellationResponse`](../../recurringintracancellationresponse)。
+获取或设置[`RecurringIntraResponse`](../../recurringintraresponse)或者[`RecurringIntraModResponse`](../../recurringintramodresponse)或者[`RecurringIntraCancellationResponse`](../../recurringintracancellationresponse).
 
 ```csharp
 public AbstractRecurringIntraResponse Response { get; set; }

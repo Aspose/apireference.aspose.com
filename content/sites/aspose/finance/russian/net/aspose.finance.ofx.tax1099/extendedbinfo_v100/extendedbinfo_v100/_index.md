@@ -1,14 +1,14 @@
 ---
 title: ExtendedBInfo_V100
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаExtendedBInfo_V100aspose.finance.ofx.tax1099/extendedbinfo_v100.
+description: Инициализирует новый экземплярExtendedBInfo_V100aspose.finance.ofx.tax1099/extendedbinfo_v100 класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.tax1099/extendedbinfo_v100/extendedbinfo_v100/
 ---
 ## ExtendedBInfo_V100 constructor
 
-Инициализирует новый экземпляр класса[`ExtendedBInfo_V100`](../../extendedbinfo_v100).
+Инициализирует новый экземпляр[`ExtendedBInfo_V100`](../../extendedbinfo_v100) класс.
 
 ```csharp
 public ExtendedBInfo_V100()

@@ -1,14 +1,14 @@
 ---
 title: StatementImage
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置StatementImageaspose.finance.ofx.billerdelivery/presentmentbillinfo/statementimage
+description: 获取或设置StatementImageaspose.finance.ofx.billerdelivery/presentmentbillinfo/statementimage.
 type: docs
 weight: 220
 url: /zh/net/aspose.finance.ofx.billerdelivery/presentmentbillinfo/statementimage/
 ---
 ## PresentmentBillInfo.StatementImage property
 
-获取或设置`StatementImage`。
+获取或设置`StatementImage`.
 
 ```csharp
 public StatementImage StatementImage { get; set; }

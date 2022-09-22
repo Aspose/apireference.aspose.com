@@ -1,14 +1,14 @@
 ---
 title: SecurityName
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает полное имя безопасности.
+description: Получает или задает полное имя ценной бумаги.
 type: docs
 weight: 80
 url: /ru/net/aspose.finance.ofx.securitieslist/generalsecurityinfo/securityname/
 ---
 ## GeneralSecurityInfo.SecurityName property
 
-Получает или задает полное имя безопасности.
+Получает или задает полное имя ценной бумаги.
 
 ```csharp
 public string SecurityName { get; set; }

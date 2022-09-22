@@ -18,14 +18,14 @@ public class StopCheckRequest
 
 | Имя | Описание |
 | --- | --- |
-| [StopCheckRequest](stopcheckrequest)() | Инициализирует новый экземпляр класса[`StopCheckRequest`](../stopcheckrequest). |
+| [StopCheckRequest](stopcheckrequest)() | Инициализирует новый экземпляр[`StopCheckRequest`](../stopcheckrequest) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [BankAccountFrom](../../aspose.finance.ofx.bank/stopcheckrequest/bankaccountfrom) { get; set; } | Получает или задает значение из[`BankAccount`](../../aspose.finance.ofx/bankaccount). |
-| [CheckInfo](../../aspose.finance.ofx.bank/stopcheckrequest/checkinfo) { get; set; } | Получает или задает информацию о чеке,[`CheckRange`](../checkrange)илиПроверитьОписание. |
+| [BankAccountFrom](../../aspose.finance.ofx.bank/stopcheckrequest/bankaccountfrom) { get; set; } | Получает или задает из[`BankAccount`](../../aspose.finance.ofx/bankaccount) . |
+| [CheckInfo](../../aspose.finance.ofx.bank/stopcheckrequest/checkinfo) { get; set; } | Получает или устанавливает информацию о проверке,[`CheckRange`](../checkrange) или же[`CheckDescription`](../checkdescription) . |
 
 ### Смотрите также
 

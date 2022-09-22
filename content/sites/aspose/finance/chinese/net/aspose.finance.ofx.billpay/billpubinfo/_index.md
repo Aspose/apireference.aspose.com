@@ -18,14 +18,14 @@ public class BillPubInfo
 
 | 姓名 | 描述 |
 | --- | --- |
-| [BillPubInfo](billpubinfo)() | 初始化[`BillPubInfo`](../billpubinfo)类的新实例。 |
+| [BillPubInfo](billpubinfo)() | 初始化一个新的实例[`BillPubInfo`](../billpubinfo)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [BillId](../../aspose.finance.ofx.billpay/billpubinfo/billid) { get; set; } | 获取或设置本次支付的票据提示服务商分配的票据ID。 |
-| [BillPublisher](../../aspose.finance.ofx.billpay/billpubinfo/billpublisher) { get; set; } | 在服务提供商处获取或设置与此收款人关联的账单发布者的名称。 |
+| [BillId](../../aspose.finance.ofx.billpay/billpubinfo/billid) { get; set; } | 获取或设置账单的ID，该账单由账单服务提供商分配，该支付被应用到。 |
+| [BillPublisher](../../aspose.finance.ofx.billpay/billpubinfo/billpublisher) { get; set; } | 获取或设置与此收款人关联的账单发布者的名称，以便在服务提供商处支付。 |
 
 ### 也可以看看
 

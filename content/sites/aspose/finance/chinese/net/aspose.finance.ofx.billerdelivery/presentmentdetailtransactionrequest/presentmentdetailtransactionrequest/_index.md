@@ -1,14 +1,14 @@
 ---
 title: PresentmentDetailTransactionRequest
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化PresentmentDetailTransactionRequestaspose.finance.ofx.billerdelivery/presentmentdetailtransactionrequest类的新实例
+description: 初始化一个新的实例PresentmentDetailTransactionRequestaspose.finance.ofx.billerdelivery/presentmentdetailtransactionrequest类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.billerdelivery/presentmentdetailtransactionrequest/presentmentdetailtransactionrequest/
 ---
 ## PresentmentDetailTransactionRequest constructor
 
-初始化[`PresentmentDetailTransactionRequest`](../../presentmentdetailtransactionrequest)类的新实例。
+初始化一个新的实例[`PresentmentDetailTransactionRequest`](../../presentmentdetailtransactionrequest)类.
 
 ```csharp
 public PresentmentDetailTransactionRequest()

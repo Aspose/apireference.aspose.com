@@ -1,14 +1,14 @@
 ---
 title: ExtendedPaymentInvoice
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置ExtendedPaymentInvoiceaspose.finance.ofx.billpay/extendedpayment/extendedpaymentinvoice
+description: 获取或设置ExtendedPaymentInvoiceaspose.finance.ofx.billpay/extendedpayment/extendedpaymentinvoice.
 type: docs
 weight: 50
 url: /zh/net/aspose.finance.ofx.billpay/extendedpayment/extendedpaymentinvoice/
 ---
 ## ExtendedPayment.ExtendedPaymentInvoice property
 
-获取或设置`ExtendedPaymentInvoice`。
+获取或设置`ExtendedPaymentInvoice`.
 
 ```csharp
 public ExtendedPaymentInvoice ExtendedPaymentInvoice { get; set; }

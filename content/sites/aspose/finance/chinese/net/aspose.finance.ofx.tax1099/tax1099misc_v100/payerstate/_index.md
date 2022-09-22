@@ -8,7 +8,7 @@ url: /zh/net/aspose.finance.ofx.tax1099/tax1099misc_v100/payerstate/
 ---
 ## Tax1099MISC_V100.PayerState property
 
-获取或设置付款人的状态码。
+获取或设置付款人的状态码
 
 ```csharp
 public string PayerState { get; set; }

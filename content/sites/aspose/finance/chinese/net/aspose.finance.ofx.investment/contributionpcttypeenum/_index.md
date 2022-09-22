@@ -18,11 +18,11 @@ public enum ContributionPctTypeEnum
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| PRETAXCONTRIBPCT | `0` | 分配给此证券的每位新员工税前缴款的百分比 |
-| AFTERTAXCONTRIBPCT | `1` | 分配给此证券的税后每位新员工的百分比。 |
+| PRETAXCONTRIBPCT | `0` | 分配给该证券的每位新员工税前缴款的百分比 |
+| AFTERTAXCONTRIBPCT | `1` | 分配给该证券的税后每位新员工的百分比。 |
 | MATCHCONTRIBPCT | `2` | 分配给此证券的每个新雇主匹配供款的百分比 |
-| PROFITSHARINGCONTRIBPCT | `3` | 分配给此证券的每个新雇主利润分享贡献的百分比。 |
-| ROLLOVERCONTRIBPCT | `4` | 分配给该证券的新展期贡献的百分比。 |
+| PROFITSHARINGCONTRIBPCT | `3` | 分配给该证券的每个新雇主利润分享贡献的百分比。 |
+| ROLLOVERCONTRIBPCT | `4` | 分配给该证券的新展期贡献百分比。 |
 | OTHERVESTPCT | `5` | 分配给此证券的每个新的其他雇主供款的百分比。 |
 | OTHERNONVESTPCT | `6` | 分配给此证券的其他新员工贡献的百分比。 |
 

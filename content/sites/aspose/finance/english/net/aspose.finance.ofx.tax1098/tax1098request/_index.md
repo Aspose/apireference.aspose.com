@@ -3,7 +3,7 @@ title: Tax1098Request
 second_title: Aspose.Finance for .NET API Reference
 description: Tax 1098 request class. This requests all 1098 tax forms from the server.
 type: docs
-weight: 5780
+weight: 5810
 url: /net/aspose.finance.ofx.tax1098/tax1098request/
 ---
 ## Tax1098Request class

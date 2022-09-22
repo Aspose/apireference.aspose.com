@@ -1,14 +1,14 @@
 ---
 title: PinChangeRequest
 second_title: Aspose.Finance for .NET API 参考
-description: 用户密码更改请求类
+description: 用户密码更改请求类.
 type: docs
 weight: 5370
 url: /zh/net/aspose.finance.ofx.signon/pinchangerequest/
 ---
 ## PinChangeRequest class
 
-用户密码更改请求类。
+用户密码更改请求类.
 
 ```csharp
 public class PinChangeRequest
@@ -18,7 +18,7 @@ public class PinChangeRequest
 
 | 姓名 | 描述 |
 | --- | --- |
-| [PinChangeRequest](pinchangerequest)() | 初始化[`PinChangeRequest`](../pinchangerequest)类的新实例。 |
+| [PinChangeRequest](pinchangerequest)() | 初始化一个新的实例[`PinChangeRequest`](../pinchangerequest)类. |
 
 ## 特性
 

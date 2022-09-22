@@ -1,14 +1,14 @@
 ---
 title: ExtBankDescription
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置ExtBankDescriptionaspose.finance.ofx.wiretransfer/wiredestinationbank/extbankdescription
+description: 获取或设置ExtBankDescriptionaspose.finance.ofx.wiretransfer/wiredestinationbank/extbankdescription.
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.ofx.wiretransfer/wiredestinationbank/extbankdescription/
 ---
 ## WireDestinationBank.ExtBankDescription property
 
-获取或设置`ExtBankDescription`。
+获取或设置`ExtBankDescription`.
 
 ```csharp
 public ExtBankDescription ExtBankDescription { get; set; }

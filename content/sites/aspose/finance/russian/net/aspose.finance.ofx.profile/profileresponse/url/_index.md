@@ -1,7 +1,7 @@
 ---
 title: Url
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает URL-адрес для общей информации о FI не для отправки данных.
+description: Получает или задает URLадрес для общей информации о FI не для отправки данных.
 type: docs
 weight: 170
 url: /ru/net/aspose.finance.ofx.profile/profileresponse/url/

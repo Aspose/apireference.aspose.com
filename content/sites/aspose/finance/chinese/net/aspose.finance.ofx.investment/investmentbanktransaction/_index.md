@@ -1,14 +1,14 @@
 ---
 title: InvestmentBankTransaction
 second_title: Aspose.Finance for .NET API 参考
-description: 此类用于下载投资报表中的银行交易
+description: 该类用于下载投资报表中的银行交易
 type: docs
 weight: 2930
 url: /zh/net/aspose.finance.ofx.investment/investmentbanktransaction/
 ---
 ## InvestmentBankTransaction class
 
-此类用于下载投资报表中的银行交易。
+该类用于下载投资报表中的银行交易。
 
 ```csharp
 public class InvestmentBankTransaction
@@ -18,13 +18,13 @@ public class InvestmentBankTransaction
 
 | 姓名 | 描述 |
 | --- | --- |
-| [InvestmentBankTransaction](investmentbanktransaction)() | 初始化[`InvestmentBankTransaction`](../investmentbanktransaction)类的新实例。 |
+| [InvestmentBankTransaction](investmentbanktransaction)() | 初始化一个新的实例[`InvestmentBankTransaction`](../investmentbanktransaction)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [StatementTransaction](../../aspose.finance.ofx.investment/investmentbanktransaction/statementtransaction) { get; set; } | 获取或设置[`StatementTransaction`](./statementtransaction)。 |
+| [StatementTransaction](../../aspose.finance.ofx.investment/investmentbanktransaction/statementtransaction) { get; set; } | 获取或设置[`StatementTransaction`](./statementtransaction). |
 | [SubAccountFund](../../aspose.finance.ofx.investment/investmentbanktransaction/subaccountfund) { get; set; } | 获取或设置与交易资金关联的子账户。 |
 
 ### 也可以看看

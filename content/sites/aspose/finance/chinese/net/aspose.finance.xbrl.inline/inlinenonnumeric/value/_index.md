@@ -1,14 +1,14 @@
 ---
 title: Value
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置InlineNonnumericaspose.finance.xbrl.inline/inlinenonnumeric的值
+description: 获取或设置InlineNonnumericaspose.finance.xbrl.inline/inlinenonnumeric.
 type: docs
 weight: 100
 url: /zh/net/aspose.finance.xbrl.inline/inlinenonnumeric/value/
 ---
 ## InlineNonnumeric.Value property
 
-获取或设置[`InlineNonnumeric`](../../inlinenonnumeric)的值。
+获取或设置[`InlineNonnumeric`](../../inlinenonnumeric).
 
 ```csharp
 public string Value { get; set; }

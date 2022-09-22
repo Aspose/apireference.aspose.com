@@ -3,7 +3,7 @@ title: DebtClassEnum
 second_title: Aspose.Finance for .NET API Reference
 description: Debt classification enum.
 type: docs
-weight: 5020
+weight: 5050
 url: /net/aspose.finance.ofx.securitieslist/debtclassenum/
 ---
 ## DebtClassEnum enumeration

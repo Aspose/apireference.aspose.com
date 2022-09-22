@@ -1,14 +1,14 @@
 ---
 title: PrevBalance
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает баланс счета за предыдущий период.
+description: Получает или устанавливает баланс счета за предыдущий период.
 type: docs
 weight: 210
 url: /ru/net/aspose.finance.ofx.billerdelivery/presentmentbillinfo/prevbalance/
 ---
 ## PresentmentBillInfo.PrevBalance property
 
-Получает или задает баланс счета за предыдущий период.
+Получает или устанавливает баланс счета за предыдущий период.
 
 ```csharp
 public string PrevBalance { get; set; }

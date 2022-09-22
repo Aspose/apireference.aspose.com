@@ -1,14 +1,14 @@
 ---
 title: StartDate
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает самую раннюю дату включения счетов.
+description: Получает или задает самую раннюю дату для включения счетов.
 type: docs
 weight: 170
 url: /ru/net/aspose.finance.ofx.billerdelivery/presentmentlistrequest/startdate/
 ---
 ## PresentmentListRequest.StartDate property
 
-Получает или задает самую раннюю дату включения счетов.
+Получает или задает самую раннюю дату для включения счетов.
 
 ```csharp
 public string StartDate { get; set; }

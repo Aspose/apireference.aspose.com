@@ -1,14 +1,14 @@
 ---
 title: JournalSecurity
 second_title: Справочник по API Aspose.Finance для .NET
-description: Регистрация вложений ценных бумаг между субсчетами в рамках одного инвестиционного счета.
+description: Ведение журнала вложений ценных бумаг между субсчетами в рамках одного инвестиционного счета.
 type: docs
 weight: 3180
 url: /ru/net/aspose.finance.ofx.investment/journalsecurity/
 ---
 ## JournalSecurity class
 
-Регистрация вложений ценных бумаг между субсчетами в рамках одного инвестиционного счета.
+Ведение журнала вложений ценных бумаг между субсчетами в рамках одного инвестиционного счета.
 
 ```csharp
 public class JournalSecurity : AbstractInvestmentTransaction
@@ -18,16 +18,16 @@ public class JournalSecurity : AbstractInvestmentTransaction
 
 | Имя | Описание |
 | --- | --- |
-| [JournalSecurity](journalsecurity)() | Инициализирует новый экземпляр класса[`JournalSecurity`](../journalsecurity). |
+| [JournalSecurity](journalsecurity)() | Инициализирует новый экземпляр[`JournalSecurity`](../journalsecurity) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [InvestmentTransaction](../../aspose.finance.ofx.investment/abstractinvestmenttransaction/investmenttransaction) { get; set; } | Получает или задает[`InvestmentTransaction`](../abstractinvestmenttransaction/investmenttransaction). |
-| [SecurityId](../../aspose.finance.ofx.investment/journalsecurity/securityid) { get; set; } | Получает или задает[`SecurityId`](./securityid). |
+| [InvestmentTransaction](../../aspose.finance.ofx.investment/abstractinvestmenttransaction/investmenttransaction) { get; set; } | Получает или задает[`InvestmentTransaction`](../abstractinvestmenttransaction/investmenttransaction) . |
+| [SecurityId](../../aspose.finance.ofx.investment/journalsecurity/securityid) { get; set; } | Получает или задает[`SecurityId`](./securityid) . |
 | [SubAccountFrom](../../aspose.finance.ofx.investment/journalsecurity/subaccountfrom) { get; set; } | Получает или задает субсчет, с которого переводятся ценные бумаги или денежные средства. |
-| [SubAccountTo](../../aspose.finance.ofx.investment/journalsecurity/subaccountto) { get; set; } | Получает или задает субсчет, на который переводятся ценные бумаги или денежные средства. |
+| [SubAccountTo](../../aspose.finance.ofx.investment/journalsecurity/subaccountto) { get; set; } | Получает или задает субсчет, на который переводятся ценные бумаги или наличные деньги. |
 | [Units](../../aspose.finance.ofx.investment/journalsecurity/units) { get; set; } | Получает или задает единицы измерения. Для действий, основанных на безопасности, кроме дробления акций. Акции для акций, взаимных фондов и др. Номинальная стоимость облигаций. Контракты на опционы. |
 
 ### Смотрите также

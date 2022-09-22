@@ -1,14 +1,14 @@
 ---
 title: OtherEnroll
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаOtherEnrollaspose.finance.ofx.profile/otherenroll.
+description: Инициализирует новый экземплярOtherEnrollaspose.finance.ofx.profile/otherenroll класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.profile/otherenroll/otherenroll/
 ---
 ## OtherEnroll constructor
 
-Инициализирует новый экземпляр класса[`OtherEnroll`](../../otherenroll).
+Инициализирует новый экземпляр[`OtherEnroll`](../../otherenroll) класс.
 
 ```csharp
 public OtherEnroll()

@@ -1,14 +1,14 @@
 ---
 title: PresentmentMailSyncResponses
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置PresentmentMailSyncResponseaspose.finance.ofx.billerdelivery/presentmentmailsyncresponse的集合
+description: 获取或设置的集合PresentmentMailSyncResponseaspose.finance.ofx.billerdelivery/presentmentmailsyncresponse.
 type: docs
 weight: 70
 url: /zh/net/aspose.finance.ofx/presentmentdeliveryresponsemessagesetv1/presentmentmailsyncresponses/
 ---
 ## PresentmentDeliveryResponseMessageSetV1.PresentmentMailSyncResponses property
 
-获取或设置[`PresentmentMailSyncResponse`](../../../aspose.finance.ofx.billerdelivery/presentmentmailsyncresponse)的集合。
+获取或设置的集合[`PresentmentMailSyncResponse`](../../../aspose.finance.ofx.billerdelivery/presentmentmailsyncresponse).
 
 ```csharp
 public List<PresentmentMailSyncResponse> PresentmentMailSyncResponses { get; set; }

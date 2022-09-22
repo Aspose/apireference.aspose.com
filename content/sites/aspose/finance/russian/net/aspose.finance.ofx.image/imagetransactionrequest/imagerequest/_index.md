@@ -1,14 +1,14 @@
 ---
 title: ImageRequest
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задаетImageRequestaspose.finance.ofx.image/imagetransactionrequest/imagerequest.
+description: Получает или задаетImageRequestaspose.finance.ofx.image/imagetransactionrequest/imagerequest .
 type: docs
 weight: 20
 url: /ru/net/aspose.finance.ofx.image/imagetransactionrequest/imagerequest/
 ---
 ## ImageTransactionRequest.ImageRequest property
 
-Получает или задает`ImageRequest`.
+Получает или задает`ImageRequest` .
 
 ```csharp
 public ImageRequest ImageRequest { get; set; }

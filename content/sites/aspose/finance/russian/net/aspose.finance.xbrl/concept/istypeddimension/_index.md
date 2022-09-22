@@ -1,14 +1,14 @@
 ---
 title: IsTypedDimension
 second_title: Справочник по API Aspose.Finance для .NET
-description: Возвращает типизированное понятие измерения.
+description: Получает является ли это типизированным понятием измерения.
 type: docs
 weight: 60
 url: /ru/net/aspose.finance.xbrl/concept/istypeddimension/
 ---
 ## Concept.IsTypedDimension property
 
-Возвращает типизированное понятие измерения.
+Получает, является ли это типизированным понятием измерения.
 
 ```csharp
 public bool IsTypedDimension { get; }

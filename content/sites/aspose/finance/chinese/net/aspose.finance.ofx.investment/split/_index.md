@@ -18,22 +18,22 @@ public class Split : AbstractInvestmentTransaction
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Split](split)() | 初始化[`Split`](../split)类的新实例。 |
+| [Split](split)() | 初始化一个新的实例[`Split`](../split)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Currency](../../aspose.finance.ofx.investment/split/currency) { get; set; } | 获取或设置[`Currency`](./currency)。 |
+| [Currency](../../aspose.finance.ofx.investment/split/currency) { get; set; } | 获取或设置[`Currency`](./currency). |
 | [Denominator](../../aspose.finance.ofx.investment/split/denominator) { get; set; } | 获取或设置股票拆分的拆分比率分母。 |
 | [FractionalCash](../../aspose.finance.ofx.investment/split/fractionalcash) { get; set; } | 获取或设置小数单位的现金。 |
-| [Investment401kSource](../../aspose.finance.ofx.investment/split/investment401ksource) { get; set; } | 获取或设置此交易的资金来源。 |
-| [InvestmentTransaction](../../aspose.finance.ofx.investment/abstractinvestmenttransaction/investmenttransaction) { get; set; } | 获取或设置[`InvestmentTransaction`](../abstractinvestmenttransaction/investmenttransaction)。 |
+| [Investment401kSource](../../aspose.finance.ofx.investment/split/investment401ksource) { get; set; } | 获取或设置本次交易的资金来源。 |
+| [InvestmentTransaction](../../aspose.finance.ofx.investment/abstractinvestmenttransaction/investmenttransaction) { get; set; } | 获取或设置[`InvestmentTransaction`](../abstractinvestmenttransaction/investmenttransaction). |
 | [NewUnits](../../aspose.finance.ofx.investment/split/newunits) { get; set; } | 获取或设置拆股后的股数。 |
-| [Numerator](../../aspose.finance.ofx.investment/split/numerator) { get; set; } | 获取或设置股票拆分的拆分比率分子。 |
-| [OldUnits](../../aspose.finance.ofx.investment/split/oldunits) { get; set; } | 获取或设置股票拆分前的股数。 |
-| [OriginCurrency](../../aspose.finance.ofx.investment/split/origincurrency) { get; set; } | 获取或设置原点[`Currency`](./currency)。 |
-| [SecurityId](../../aspose.finance.ofx.investment/split/securityid) { get; set; } | 获取或设置[`SecurityId`](./securityid)。 |
+| [Numerator](../../aspose.finance.ofx.investment/split/numerator) { get; set; } | 获取或设置股票分割的分割比率分子。 |
+| [OldUnits](../../aspose.finance.ofx.investment/split/oldunits) { get; set; } | 获取或设置拆股前的股数。 |
+| [OriginCurrency](../../aspose.finance.ofx.investment/split/origincurrency) { get; set; } | 获取或设置原点[`Currency`](./currency). |
+| [SecurityId](../../aspose.finance.ofx.investment/split/securityid) { get; set; } | 获取或设置[`SecurityId`](./securityid). |
 | [SubAccountFund](../../aspose.finance.ofx.investment/split/subaccountfund) { get; set; } | 获取或设置交易的钱从哪里来或去哪里。 |
 | [SubAccountSecurity](../../aspose.finance.ofx.investment/split/subaccountsecurity) { get; set; } | 获取或设置证券的子账户类型。 |
 

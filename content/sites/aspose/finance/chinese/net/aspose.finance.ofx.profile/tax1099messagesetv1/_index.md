@@ -18,16 +18,16 @@ public class Tax1099MessageSetV1 : AbstractMessageSetVersion
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Tax1099MessageSetV1](tax1099messagesetv1)() | 初始化[`Tax1099MessageSetV1`](../tax1099messagesetv1)类的新实例。 |
+| [Tax1099MessageSetV1](tax1099messagesetv1)() | 初始化一个新的实例[`Tax1099MessageSetV1`](../tax1099messagesetv1)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Extended1099B](../../aspose.finance.ofx.profile/tax1099messagesetv1/extended1099b) { get; set; } | 通过提供用于证券销售的附表 D 收益详细信息，获取或设置服务器是否支持扩展的 1099B 形式。 |
-| [MessageSetCore](../../aspose.finance.ofx.profile/abstractmessagesetversion/messagesetcore) { get; set; } | 获取或设置[`MessageSetCore`](../abstractmessagesetversion/messagesetcore)。 |
-| [Tax1099Download](../../aspose.finance.ofx.profile/tax1099messagesetv1/tax1099download) { get; set; } | 获取或设置服务器是否支持1099税表下载。 |
-| [TaxYearSupporteds](../../aspose.finance.ofx.profile/tax1099messagesetv1/taxyearsupporteds) { get; set; } | 获取或设置此服务器的 1099 下载支持的年份。 |
+| [Extended1099B](../../aspose.finance.ofx.profile/tax1099messagesetv1/extended1099b) { get; set; } | 通过提供证券销售的附表 D 收益详细信息，获取或设置服务器是否支持扩展的 1099B 形式。 |
+| [MessageSetCore](../../aspose.finance.ofx.profile/abstractmessagesetversion/messagesetcore) { get; set; } | 获取或设置[`MessageSetCore`](../abstractmessagesetversion/messagesetcore). |
+| [Tax1099Download](../../aspose.finance.ofx.profile/tax1099messagesetv1/tax1099download) { get; set; } | 获取或设置服务器是否支持1099税表下载 |
+| [TaxYearSupporteds](../../aspose.finance.ofx.profile/tax1099messagesetv1/taxyearsupporteds) { get; set; } | 获取或设置此服务器 1099 下载支持的年份。 |
 
 ### 也可以看看
 

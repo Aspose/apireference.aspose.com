@@ -1,14 +1,14 @@
 ---
 title: State
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置收款人的状态
+description: 获取或设置收款人状态
 type: docs
 weight: 100
 url: /zh/net/aspose.finance.ofx/payee/state/
 ---
 ## Payee.State property
 
-获取或设置收款人的状态。
+获取或设置收款人状态
 
 ```csharp
 public string State { get; set; }

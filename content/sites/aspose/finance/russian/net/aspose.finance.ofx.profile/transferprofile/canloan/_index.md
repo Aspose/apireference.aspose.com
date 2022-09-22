@@ -1,14 +1,14 @@
 ---
 title: CanLoan
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает поддерживает ли перевод кредита.
+description: Получает или задает поддерживает ли передача ссуды.
 type: docs
 weight: 20
 url: /ru/net/aspose.finance.ofx.profile/transferprofile/canloan/
 ---
 ## TransferProfile.CanLoan property
 
-Получает или задает, поддерживает ли перевод кредита.
+Получает или задает, поддерживает ли передача ссуды.
 
 ```csharp
 public bool CanLoan { get; set; }

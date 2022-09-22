@@ -1,14 +1,14 @@
 ---
 title: SignonResponse
 second_title: Справочник по API Aspose.Finance для .NET
-description: Класс ответа Signon.
+description: Класс ответа на вход в систему.
 type: docs
 weight: 5420
 url: /ru/net/aspose.finance.ofx.signon/signonresponse/
 ---
 ## SignonResponse class
 
-Класс ответа Signon.
+Класс ответа на вход в систему.
 
 ```csharp
 public class SignonResponse
@@ -18,7 +18,7 @@ public class SignonResponse
 
 | Имя | Описание |
 | --- | --- |
-| [SignonResponse](signonresponse)() | Инициализирует новый экземпляр класса[`SignonResponse`](../signonresponse). |
+| [SignonResponse](signonresponse)() | Инициализирует новый экземпляр[`SignonResponse`](../signonresponse) класс. |
 
 ## Характеристики
 
@@ -26,14 +26,14 @@ public class SignonResponse
 | --- | --- |
 | [AccessKey](../../aspose.finance.ofx.signon/signonresponse/accesskey) { get; set; } | Получает или задает ключ доступа, который клиент должен отправить в следующем запросе на вход |
 | [AccountUpdateDate](../../aspose.finance.ofx.signon/signonresponse/accountupdatedate) { get; set; } | Получает или задает дату и время последнего обновления информации об учетной записи. |
-| [FinancialInstitution](../../aspose.finance.ofx.signon/signonresponse/financialinstitution) { get; set; } | Получает или задает[`FinancialInstitution`](./financialinstitution). |
+| [FinancialInstitution](../../aspose.finance.ofx.signon/signonresponse/financialinstitution) { get; set; } | Получает или задает[`FinancialInstitution`](./financialinstitution) . |
 | [KeyExpireTime](../../aspose.finance.ofx.signon/signonresponse/keyexpiretime) { get; set; } | Получает или задает дату и время истечения срока действия USERKEY. |
 | [Language](../../aspose.finance.ofx.signon/signonresponse/language) { get; set; } | Получает или задает язык, используемый в текстовых ответах. |
-| [OfxExtension](../../aspose.finance.ofx.signon/signonresponse/ofxextension) { get; set; } | Получает или задает[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
+| [OfxExtension](../../aspose.finance.ofx.signon/signonresponse/ofxextension) { get; set; } | Получает или задает[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype) . |
 | [ProfileUpdateDate](../../aspose.finance.ofx.signon/signonresponse/profileupdatedate) { get; set; } | Получает или задает дату и время последнего обновления информации профиля для любой службы, поддерживаемой этим FI. |
 | [ServerDate](../../aspose.finance.ofx.signon/signonresponse/serverdate) { get; set; } | Получает или задает дату и время ответа сервера. |
 | [SessionCookie](../../aspose.finance.ofx.signon/signonresponse/sessioncookie) { get; set; } | Получает или задает файл cookie сеанса, который клиент должен вернуть при следующем запросе на вход. |
-| [Status](../../aspose.finance.ofx.signon/signonresponse/status) { get; set; } | Получает или задает[`Status`](./status). |
+| [Status](../../aspose.finance.ofx.signon/signonresponse/status) { get; set; } | Получает или задает[`Status`](./status) . |
 | [UserKey](../../aspose.finance.ofx.signon/signonresponse/userkey) { get; set; } | Получает или задает ключ пользователя вместо UserId и UserPassword для последующих запросов. KeyExpireTime может ограничивать время жизни. |
 
 ### Смотрите также

@@ -1,14 +1,14 @@
 ---
 title: WireTransferRequestMessageSetV1
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаWireTransferRequestMessageSetV1aspose.finance.ofx/wiretransferrequestmessagesetv1.
+description: Инициализирует новый экземплярWireTransferRequestMessageSetV1aspose.finance.ofx/wiretransferrequestmessagesetv1 класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx/wiretransferrequestmessagesetv1/wiretransferrequestmessagesetv1/
 ---
 ## WireTransferRequestMessageSetV1 constructor
 
-Инициализирует новый экземпляр класса[`WireTransferRequestMessageSetV1`](../../wiretransferrequestmessagesetv1).
+Инициализирует новый экземпляр[`WireTransferRequestMessageSetV1`](../../wiretransferrequestmessagesetv1) класс.
 
 ```csharp
 public WireTransferRequestMessageSetV1()

@@ -1,14 +1,14 @@
 ---
 title: Value
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置InlineContinuationaspose.finance.xbrl.inline/inlinecontinuation的值
+description: 获取或设置InlineContinuationaspose.finance.xbrl.inline/inlinecontinuation.
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.xbrl.inline/inlinecontinuation/value/
 ---
 ## InlineContinuation.Value property
 
-获取或设置[`InlineContinuation`](../../inlinecontinuation)的值。
+获取或设置[`InlineContinuation`](../../inlinecontinuation).
 
 ```csharp
 public string Value { get; set; }

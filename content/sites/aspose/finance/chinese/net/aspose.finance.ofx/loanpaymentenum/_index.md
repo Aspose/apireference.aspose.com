@@ -19,7 +19,7 @@ public enum LoanPaymentEnum
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
 | INTONLY | `0` | 只需支付利息。 |
-| PRNANDINT | `1` | 本金和利息包含在设定的付款中。 |
+| PRNANDINT | `1` | 本金和利息包含在集合付款中。 |
 | PRNPLUSINT | `2` | 本金加上应计利息。 |
 
 ### 也可以看看

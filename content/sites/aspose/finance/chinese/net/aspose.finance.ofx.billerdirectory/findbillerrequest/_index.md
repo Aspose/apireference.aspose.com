@@ -1,14 +1,14 @@
 ---
 title: FindBillerRequest
 second_title: Aspose.Finance for .NET API 参考
-description: 查找帐单请求类别
+description: 查找帐单请求类
 type: docs
 weight: 1860
 url: /zh/net/aspose.finance.ofx.billerdirectory/findbillerrequest/
 ---
 ## FindBillerRequest class
 
-查找帐单请求类别。
+查找帐单请求类。
 
 ```csharp
 public class FindBillerRequest
@@ -18,25 +18,25 @@ public class FindBillerRequest
 
 | 姓名 | 描述 |
 | --- | --- |
-| [FindBillerRequest](findbillerrequest)() | 初始化[`FindBillerRequest`](../findbillerrequest)类的新实例。 |
+| [FindBillerRequest](findbillerrequest)() | 初始化一个新的实例[`FindBillerRequest`](../findbillerrequest)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Address1](../../aspose.finance.ofx.billerdirectory/findbillerrequest/address1) { get; set; } | 获取或设置账单人地址行 1。 |
-| [Address2](../../aspose.finance.ofx.billerdirectory/findbillerrequest/address2) { get; set; } | 获取或设置记账人的地址行 2。 |
-| [Address3](../../aspose.finance.ofx.billerdirectory/findbillerrequest/address3) { get; set; } | 获取或设置账单人地址行 3。 |
+| [Address1](../../aspose.finance.ofx.billerdirectory/findbillerrequest/address1) { get; set; } | 获取或设置帐单地址行1. |
+| [Address2](../../aspose.finance.ofx.billerdirectory/findbillerrequest/address2) { get; set; } | 获取或设置记账人地址行2. |
+| [Address3](../../aspose.finance.ofx.billerdirectory/findbillerrequest/address3) { get; set; } | 获取或设置帐单地址行3. |
 | [BillerId](../../aspose.finance.ofx.billerdirectory/findbillerrequest/billerid) { get; set; } | 获取或设置此帐单发布者的帐单 ID。 |
-| [City](../../aspose.finance.ofx.billerdirectory/findbillerrequest/city) { get; set; } | 获取或设置计费者所在的城市。 |
+| [City](../../aspose.finance.ofx.billerdirectory/findbillerrequest/city) { get; set; } | 获取或设置计费者所在城市。 |
 | [ConsumerPostalCode](../../aspose.finance.ofx.billerdirectory/findbillerrequest/consumerpostalcode) { get; set; } | 获取或设置客户的邮政编码，让服务器过滤掉在客户所在区域不做生意的账单 |
 | [Country](../../aspose.finance.ofx.billerdirectory/findbillerrequest/country) { get; set; } | 获取或设置开票人的国家代码。 ISO/DIS-3166 3 字母国家代码标准。 |
-| [IncludeImages](../../aspose.finance.ofx.billerdirectory/findbillerrequest/includeimages) { get; set; } | 如果客户希望返回图像（徽标），则为真。 |
+| [IncludeImages](../../aspose.finance.ofx.billerdirectory/findbillerrequest/includeimages) { get; set; } | 如果客户想要返回图像（徽标）则为真。 |
 | [Name](../../aspose.finance.ofx.billerdirectory/findbillerrequest/name) { get; set; } | 获取或设置账单人姓名。 |
 | [PostalCode](../../aspose.finance.ofx.billerdirectory/findbillerrequest/postalcode) { get; set; } | 获取或设置开票人的邮政编码。 |
 | [StandardIndustryCode](../../aspose.finance.ofx.billerdirectory/findbillerrequest/standardindustrycode) { get; set; } | 获取或设置出票人的标准行业代码。 |
 | [State](../../aspose.finance.ofx.billerdirectory/findbillerrequest/state) { get; set; } | 获取或设置计费器的状态。 |
-| [UpdateDate](../../aspose.finance.ofx.billerdirectory/findbillerrequest/updatedate) { get; set; } | 获取或设置上次更改任何账单条目的日期和时间，如服务器在先前查询中报告的那样。 |
+| [UpdateDate](../../aspose.finance.ofx.billerdirectory/findbillerrequest/updatedate) { get; set; } | 获取或设置上次更改任何帐单条目的日期和时间，如服务器在先前查询中报告的那样。 |
 
 ### 也可以看看
 

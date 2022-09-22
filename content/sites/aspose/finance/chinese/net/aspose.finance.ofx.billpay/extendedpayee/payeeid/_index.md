@@ -1,14 +1,14 @@
 ---
 title: PayeeId
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置服务器分配的收款人 ID
+description: 获取或设置服务器分配的收款人ID
 type: docs
 weight: 50
 url: /zh/net/aspose.finance.ofx.billpay/extendedpayee/payeeid/
 ---
 ## ExtendedPayee.PayeeId property
 
-获取或设置服务器分配的收款人 ID。
+获取或设置服务器分配的收款人ID。
 
 ```csharp
 public string PayeeId { get; set; }

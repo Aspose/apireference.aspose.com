@@ -3,7 +3,7 @@ title: BuyStock
 second_title: Aspose.Finance for .NET API Reference
 description: Investment buy stock transaction class.
 type: docs
-weight: 2720
+weight: 2730
 url: /net/aspose.finance.ofx.investment/buystock/
 ---
 ## BuyStock class

@@ -8,7 +8,7 @@ url: /zh/net/aspose.finance.ofx.signup/accounttransactionrequest/
 ---
 ## AccountTransactionRequest class
 
-账户服务交易请求类。
+账户服务交易请求类
 
 ```csharp
 public class AccountTransactionRequest : AbstractTransactionRequest
@@ -18,16 +18,16 @@ public class AccountTransactionRequest : AbstractTransactionRequest
 
 | 姓名 | 描述 |
 | --- | --- |
-| [AccountTransactionRequest](accounttransactionrequest)() | 初始化[`AccountTransactionRequest`](../accounttransactionrequest)类的新实例。 |
+| [AccountTransactionRequest](accounttransactionrequest)() | 初始化一个新的实例[`AccountTransactionRequest`](../accounttransactionrequest)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [AccountRequest](../../aspose.finance.ofx.signup/accounttransactionrequest/accountrequest) { get; set; } | 获取或设置[`AccountRequest`](./accountrequest)。 |
+| [AccountRequest](../../aspose.finance.ofx.signup/accounttransactionrequest/accountrequest) { get; set; } | 获取或设置[`AccountRequest`](./accountrequest). |
 | [ClientCookie](../../aspose.finance.ofx/abstracttransactionrequest/clientcookie) { get; set; } | 获取或设置要在事务响应中回显的数据 |
-| [OfxExtension](../../aspose.finance.ofx.signup/accounttransactionrequest/ofxextension) { get; set; } | 获取或设置[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype)。 |
-| [TransactionAuthorizationNumber](../../aspose.finance.ofx/abstracttransactionrequest/transactionauthorizationnumber) { get; set; } | 获取或设置交易授权号。 |
+| [OfxExtension](../../aspose.finance.ofx.signup/accounttransactionrequest/ofxextension) { get; set; } | 获取或设置[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
+| [TransactionAuthorizationNumber](../../aspose.finance.ofx/abstracttransactionrequest/transactionauthorizationnumber) { get; set; } | 获取或设置交易授权号 |
 | [TransactionUniqueId](../../aspose.finance.ofx/abstracttransactionrequest/transactionuniqueid) { get; set; } | 获取或设置此事务的客户端分配的全局唯一 ID |
 
 ### 也可以看看

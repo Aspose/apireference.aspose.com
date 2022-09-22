@@ -1,14 +1,14 @@
 ---
 title: HasExtendedPayment
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает поддерживает ли бизнес-платежExtendedPayment.
+description: Получает или задает поддерживает лиExtendedPayment бизнес платеж.
 type: docs
 weight: 100
 url: /ru/net/aspose.finance.ofx.profile/billpaymessagesetv1/hasextendedpayment/
 ---
 ## BillPayMessageSetV1.HasExtendedPayment property
 
-Получает или задает, поддерживает ли бизнес-платеж!:ExtendedPayment.
+Получает или задает, поддерживает ли!:ExtendedPayment бизнес платеж.
 
 ```csharp
 public bool HasExtendedPayment { get; set; }

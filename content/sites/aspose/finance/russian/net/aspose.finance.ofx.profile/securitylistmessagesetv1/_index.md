@@ -18,13 +18,13 @@ public class SecurityListMessageSetV1 : AbstractMessageSetVersion
 
 | Имя | Описание |
 | --- | --- |
-| [SecurityListMessageSetV1](securitylistmessagesetv1)() | Инициализирует новый экземпляр класса[`SecurityListMessageSetV1`](../securitylistmessagesetv1). |
+| [SecurityListMessageSetV1](securitylistmessagesetv1)() | Инициализирует новый экземпляр[`SecurityListMessageSetV1`](../securitylistmessagesetv1) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [MessageSetCore](../../aspose.finance.ofx.profile/abstractmessagesetversion/messagesetcore) { get; set; } | Получает или задает[`MessageSetCore`](../abstractmessagesetversion/messagesetcore). |
+| [MessageSetCore](../../aspose.finance.ofx.profile/abstractmessagesetversion/messagesetcore) { get; set; } | Получает или задает[`MessageSetCore`](../abstractmessagesetversion/messagesetcore) . |
 | [SecurityListRequestDownload](../../aspose.finance.ofx.profile/securitylistmessagesetv1/securitylistrequestdownload) { get; set; } | Получает или задает, отвечает ли сервер FI на запросы списка безопасности. |
 
 ### Смотрите также

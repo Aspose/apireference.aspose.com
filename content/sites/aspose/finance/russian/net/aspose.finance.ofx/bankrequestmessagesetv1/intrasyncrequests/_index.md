@@ -1,14 +1,14 @@
 ---
 title: IntraSyncRequests
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает коллекциюIntraSyncRequestaspose.finance.ofx.bank/intrasyncrequest.
+description: Получает или задает коллекциюIntraSyncRequestaspose.finance.ofx.bank/intrasyncrequest .
 type: docs
 weight: 40
 url: /ru/net/aspose.finance.ofx/bankrequestmessagesetv1/intrasyncrequests/
 ---
 ## BankRequestMessageSetV1.IntraSyncRequests property
 
-Получает или задает коллекцию[`IntraSyncRequest`](../../../aspose.finance.ofx.bank/intrasyncrequest).
+Получает или задает коллекцию[`IntraSyncRequest`](../../../aspose.finance.ofx.bank/intrasyncrequest) .
 
 ```csharp
 public List<IntraSyncRequest> IntraSyncRequests { get; set; }

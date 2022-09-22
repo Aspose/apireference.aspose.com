@@ -18,12 +18,12 @@ public class Attr
 
 | Имя | Описание |
 | --- | --- |
-| [IsId](../../aspose.finance.xbrl.dom/attr/isid) { get; } | Возвращает, известно ли, что этот атрибут имеет идентификатор типа (т. е. содержит идентификатор для своего элемента-владельца) или нет. |
+| [IsId](../../aspose.finance.xbrl.dom/attr/isid) { get; } | Возвращает, известно ли, что этот атрибут имеет идентификатор типа (т.е. содержит идентификатор для своего элемента-владельца) или нет. |
 | [LocalName](../../aspose.finance.xbrl.dom/attr/localname) { get; } | Получает локальное имя атрибута. |
 | [Name](../../aspose.finance.xbrl.dom/attr/name) { get; } | Получает имя этого атрибута. |
 | [NamespaceUri](../../aspose.finance.xbrl.dom/attr/namespaceuri) { get; } | Получает URI пространства имен атрибута. |
 | [Prefix](../../aspose.finance.xbrl.dom/attr/prefix) { get; } | Получает префикс пространства имен атрибута. |
-| [Specified](../../aspose.finance.xbrl.dom/attr/specified) { get; } | Истинно, если этому атрибуту было явно присвоено значение в экземпляре документа, в противном случае - ложь. |
+| [Specified](../../aspose.finance.xbrl.dom/attr/specified) { get; } | Истина, если этому атрибуту было явно присвоено значение в документе экземпляра, в противном случае — ложь. |
 | [Value](../../aspose.finance.xbrl.dom/attr/value) { get; set; } | Получает значение атрибута. |
 
 ## Методы

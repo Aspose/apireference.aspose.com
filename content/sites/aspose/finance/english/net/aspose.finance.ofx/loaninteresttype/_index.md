@@ -3,7 +3,7 @@ title: LoanInterestType
 second_title: Aspose.Finance for .NET API Reference
 description: Loan interest paid.
 type: docs
-weight: 4060
+weight: 4080
 url: /net/aspose.finance.ofx/loaninteresttype/
 ---
 ## LoanInterestType class

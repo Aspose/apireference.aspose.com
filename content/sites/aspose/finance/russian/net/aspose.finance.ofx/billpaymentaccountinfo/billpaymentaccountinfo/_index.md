@@ -1,14 +1,14 @@
 ---
 title: BillPaymentAccountInfo
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаBillPaymentAccountInfoaspose.finance.ofx/billpaymentaccountinfo.
+description: Инициализирует новый экземплярBillPaymentAccountInfoaspose.finance.ofx/billpaymentaccountinfo класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx/billpaymentaccountinfo/billpaymentaccountinfo/
 ---
 ## BillPaymentAccountInfo constructor
 
-Инициализирует новый экземпляр класса[`BillPaymentAccountInfo`](../../billpaymentaccountinfo).
+Инициализирует новый экземпляр[`BillPaymentAccountInfo`](../../billpaymentaccountinfo) класс.
 
 ```csharp
 public BillPaymentAccountInfo()

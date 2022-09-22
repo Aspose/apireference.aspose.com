@@ -8,7 +8,7 @@ url: /zh/net/aspose.finance.ofx/abstracttransactionrequest/transactionauthorizat
 ---
 ## AbstractTransactionRequest.TransactionAuthorizationNumber property
 
-获取或设置交易授权号。
+获取或设置交易授权号
 
 ```csharp
 public string TransactionAuthorizationNumber { get; set; }

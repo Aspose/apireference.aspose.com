@@ -1,14 +1,14 @@
 ---
 title: PresentmentDirMessageSet
 second_title: Справочник по API Aspose.Finance для .NET
-description: Установлено сообщение каталога биллера.
+description: Набор сообщений каталога биллера.
 type: docs
 weight: 4620
 url: /ru/net/aspose.finance.ofx.profile/presentmentdirmessageset/
 ---
 ## PresentmentDirMessageSet class
 
-Установлено сообщение каталога биллера.
+Набор сообщений каталога биллера.
 
 ```csharp
 public class PresentmentDirMessageSet : AbstractMessageSet
@@ -18,13 +18,13 @@ public class PresentmentDirMessageSet : AbstractMessageSet
 
 | Имя | Описание |
 | --- | --- |
-| [PresentmentDirMessageSet](presentmentdirmessageset)() | Инициализирует новый экземпляр класса[`PresentmentDirMessageSet`](../presentmentdirmessageset). |
+| [PresentmentDirMessageSet](presentmentdirmessageset)() | Инициализирует новый экземпляр[`PresentmentDirMessageSet`](../presentmentdirmessageset) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [PresentmentDirMessageSetV1s](../../aspose.finance.ofx.profile/presentmentdirmessageset/presentmentdirmessagesetv1s) { get; set; } | Получает или задает коллекцию[`PresentmentDirMessageSetV1`](../presentmentdirmessagesetv1). |
+| [PresentmentDirMessageSetV1s](../../aspose.finance.ofx.profile/presentmentdirmessageset/presentmentdirmessagesetv1s) { get; set; } | Получает или задает коллекцию[`PresentmentDirMessageSetV1`](../presentmentdirmessagesetv1) . |
 
 ### Смотрите также
 

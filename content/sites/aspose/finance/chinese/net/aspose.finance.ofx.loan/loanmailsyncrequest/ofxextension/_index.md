@@ -1,14 +1,14 @@
 ---
 title: OfxExtension
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置OfxExtensionTypeaspose.finance.ofx/ofxextensiontype
+description: 获取或设置OfxExtensionTypeaspose.finance.ofx/ofxextensiontype.
 type: docs
 weight: 50
 url: /zh/net/aspose.finance.ofx.loan/loanmailsyncrequest/ofxextension/
 ---
 ## LoanMailSyncRequest.OfxExtension property
 
-获取或设置[`OfxExtensionType`](../../../aspose.finance.ofx/ofxextensiontype)。
+获取或设置[`OfxExtensionType`](../../../aspose.finance.ofx/ofxextensiontype).
 
 ```csharp
 public OfxExtensionType OfxExtension { get; set; }

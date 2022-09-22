@@ -3,7 +3,7 @@ title: OpenOrderSellOther
 second_title: Aspose.Finance for .NET API Reference
 description: Open order sell other class.
 type: docs
-weight: 3300
+weight: 3310
 url: /net/aspose.finance.ofx.investment/openordersellother/
 ---
 ## OpenOrderSellOther class

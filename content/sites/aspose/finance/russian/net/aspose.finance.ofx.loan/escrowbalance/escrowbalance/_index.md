@@ -1,14 +1,14 @@
 ---
 title: EscrowBalance
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаEscrowBalanceaspose.finance.ofx.loan/escrowbalance.
+description: Инициализирует новый экземплярEscrowBalanceaspose.finance.ofx.loan/escrowbalance класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.loan/escrowbalance/escrowbalance/
 ---
 ## EscrowBalance constructor
 
-Инициализирует новый экземпляр класса[`EscrowBalance`](../../escrowbalance).
+Инициализирует новый экземпляр[`EscrowBalance`](../../escrowbalance) класс.
 
 ```csharp
 public EscrowBalance()

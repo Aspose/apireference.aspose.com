@@ -1,14 +1,14 @@
 ---
 title: LenderAddress
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化LenderAddressaspose.finance.ofx.tax1098/lenderaddress类的新实例
+description: 初始化一个新的实例LenderAddressaspose.finance.ofx.tax1098/lenderaddress类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.tax1098/lenderaddress/lenderaddress/
 ---
 ## LenderAddress constructor
 
-初始化[`LenderAddress`](../../lenderaddress)类的新实例。
+初始化一个新的实例[`LenderAddress`](../../lenderaddress)类.
 
 ```csharp
 public LenderAddress()

@@ -18,14 +18,14 @@ public class FIDirectDepositInfo
 
 | Имя | Описание |
 | --- | --- |
-| [FIDirectDepositInfo](fidirectdepositinfo)() | Инициализирует новый экземпляр класса[`FIDirectDepositInfo`](../fidirectdepositinfo). |
+| [FIDirectDepositInfo](fidirectdepositinfo)() | Инициализирует новый экземпляр[`FIDirectDepositInfo`](../fidirectdepositinfo) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
 | [FIAccountNickname](../../aspose.finance.ofx.tax1099/fidirectdepositinfo/fiaccountnickname) { get; set; } | Получает или задает псевдоним учетной записи. |
-| [FIAccountNumber](../../aspose.finance.ofx.tax1099/fidirectdepositinfo/fiaccountnumber) { get; set; } | Получает или задает номер учетной записи. |
+| [FIAccountNumber](../../aspose.finance.ofx.tax1099/fidirectdepositinfo/fiaccountnumber) { get; set; } | Получает или задает номер счета. |
 | [FINameDirectDeposit](../../aspose.finance.ofx.tax1099/fidirectdepositinfo/finamedirectdeposit) { get; set; } | Получает или задает название финансового учреждения. |
 | [FIRoutingNumber](../../aspose.finance.ofx.tax1099/fidirectdepositinfo/firoutingnumber) { get; set; } | Получает или задает номер маршрутизации. |
 

@@ -1,14 +1,14 @@
 ---
 title: ProfileResponseMessageSetV1
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置ProfileResponseMessageSetV1aspose.finance.ofx/ofxresponsedocument/profileresponsemessagesetv1
+description: 获取或设置ProfileResponseMessageSetV1aspose.finance.ofx/ofxresponsedocument/profileresponsemessagesetv1.
 type: docs
 weight: 110
 url: /zh/net/aspose.finance.ofx/ofxresponsedocument/profileresponsemessagesetv1/
 ---
 ## OfxResponseDocument.ProfileResponseMessageSetV1 property
 
-获取或设置`ProfileResponseMessageSetV1`。
+获取或设置`ProfileResponseMessageSetV1`.
 
 ```csharp
 public ProfileResponseMessageSetV1 ProfileResponseMessageSetV1 { get; set; }

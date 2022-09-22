@@ -1,14 +1,14 @@
 ---
 title: OpenOrderBuyDebt
 second_title: Aspose.Finance for .NET API 参考
-description: 开仓买入债务类
+description: 开单买债类
 type: docs
 weight: 3220
 url: /zh/net/aspose.finance.ofx.investment/openorderbuydebt/
 ---
 ## OpenOrderBuyDebt class
 
-开仓买入债务类。
+开单买债类。
 
 ```csharp
 public class OpenOrderBuyDebt : AbstractOpenOrder
@@ -18,7 +18,7 @@ public class OpenOrderBuyDebt : AbstractOpenOrder
 
 | 姓名 | 描述 |
 | --- | --- |
-| [OpenOrderBuyDebt](openorderbuydebt)() | 初始化[`OpenOrderBuyDebt`](../openorderbuydebt)类的新实例。 |
+| [OpenOrderBuyDebt](openorderbuydebt)() | 初始化一个新的实例[`OpenOrderBuyDebt`](../openorderbuydebt)类. |
 
 ## 特性
 
@@ -26,7 +26,7 @@ public class OpenOrderBuyDebt : AbstractOpenOrder
 | --- | --- |
 | [Auction](../../aspose.finance.ofx.investment/openorderbuydebt/auction) { get; set; } | 获取或设置是否应在拍卖中购买债务。 |
 | [AuctionDate](../../aspose.finance.ofx.investment/openorderbuydebt/auctiondate) { get; set; } | 获取或设置拍卖日期。 |
-| [OpenOrder](../../aspose.finance.ofx.investment/abstractopenorder/openorder) { get; set; } | 获取或设置[`GeneralOpenOrder`](../generalopenorder)。 |
+| [OpenOrder](../../aspose.finance.ofx.investment/abstractopenorder/openorder) { get; set; } | 获取或设置[`GeneralOpenOrder`](../generalopenorder). |
 
 ### 也可以看看
 

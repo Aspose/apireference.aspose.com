@@ -1,14 +1,14 @@
 ---
 title: EstimatedPayoffBalance
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置估计的支付金额
+description: 获取或设置预估收益金额
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.ofx.loan/estimatedpayoff/estimatedpayoffbalance/
 ---
 ## EstimatedPayoff.EstimatedPayoffBalance property
 
-获取或设置估计的支付金额。
+获取或设置预估收益金额。
 
 ```csharp
 public string EstimatedPayoffBalance { get; set; }

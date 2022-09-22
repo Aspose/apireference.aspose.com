@@ -8,7 +8,7 @@ url: /zh/net/aspose.finance.ofx.taxw2/abstracttaxw2/controlnumber/
 ---
 ## AbstractTaxW2.ControlNumber property
 
-获取或设置控制号。
+获取或设置控制号
 
 ```csharp
 public string ControlNumber { get; set; }

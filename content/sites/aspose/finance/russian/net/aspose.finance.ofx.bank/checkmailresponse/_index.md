@@ -18,18 +18,18 @@ public class CheckMailResponse : AbstractMailResponse
 
 | Имя | Описание |
 | --- | --- |
-| [CheckMailResponse](checkmailresponse)() | Инициализирует новый экземпляр класса[`CheckMailResponse`](../checkmailresponse). |
+| [CheckMailResponse](checkmailresponse)() | Инициализирует новый экземпляр[`CheckMailResponse`](../checkmailresponse) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [BankAccountFrom](../../aspose.finance.ofx.bank/checkmailresponse/bankaccountfrom) { get; set; } | Получает или задает значение из[`BankAccount`](../../aspose.finance.ofx/bankaccount). |
+| [BankAccountFrom](../../aspose.finance.ofx.bank/checkmailresponse/bankaccountfrom) { get; set; } | Получает или задает из[`BankAccount`](../../aspose.finance.ofx/bankaccount) . |
 | [CheckNumber](../../aspose.finance.ofx.bank/checkmailresponse/checknumber) { get; set; } | Получает или задает контрольный номер. |
-| [Fee](../../aspose.finance.ofx.bank/checkmailresponse/fee) { get; set; } | Получает или задает плату, установленную для NSF. |
-| [Mail](../../aspose.finance.ofx.bank/checkmailresponse/mail) { get; set; } | Получает или задает[`Mail`](./mail). |
+| [Fee](../../aspose.finance.ofx.bank/checkmailresponse/fee) { get; set; } | Получает или задает комиссию, установленную для NSF. |
+| [Mail](../../aspose.finance.ofx.bank/checkmailresponse/mail) { get; set; } | Получает или задает[`Mail`](./mail) . |
 | [TransactionAmount](../../aspose.finance.ofx.bank/checkmailresponse/transactionamount) { get; set; } | Получает или задает сумму чека. |
-| [UserDate](../../aspose.finance.ofx.bank/checkmailresponse/userdate) { get; set; } | Получает или задает дату клиента на чеке. |
+| [UserDate](../../aspose.finance.ofx.bank/checkmailresponse/userdate) { get; set; } | Получает или устанавливает дату клиента в чеке. |
 
 ### Смотрите также
 

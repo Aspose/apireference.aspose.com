@@ -13,16 +13,16 @@ url: /ru/net/aspose.finance.ofx.wiretransfer/
 | Учебный класс | Описание |
 | --- | --- |
 | [AbstractWireRequest](./abstractwirerequest) | Абстрактный базовый класс для классов, связанных с телеграфными запросами. |
-| [AbstractWireResponse](./abstractwireresponse) | Абстрактный базовый класс для классов, связанных с ответом на телеграмму. |
+| [AbstractWireResponse](./abstractwireresponse) | Абстрактный базовый класс для классов, связанных с телеграфным откликом. |
 | [ExtBankDescription](./extbankdescription) | Расширенный класс описания банка. |
-| [WireBeneficiary](./wirebeneficiary) | Этот класс описывает получателя электронного перевода. |
+| [WireBeneficiary](./wirebeneficiary) | Этот класс описывает получателя банковского перевода. |
 | [WireCancellationRequest](./wirecancellationrequest) | Класс запроса на отмену банковского перевода. |
 | [WireCancellationResponse](./wirecancellationresponse) | Класс ответа на отмену банковского перевода. |
 | [WireDestinationBank](./wiredestinationbank) | Класс банка получателя. |
 | [WireRequest](./wirerequest) | Класс запроса банковского перевода. |
-| [WireResponse](./wireresponse) | Класс ответа банковского перевода. |
+| [WireResponse](./wireresponse) | Класс ответа на банковский перевод. |
 | [WireSyncRequest](./wiresyncrequest) | Класс запроса синхронизации проводной транзакции. |
-| [WireSyncResponse](./wiresyncresponse) | Класс ответа синхронизации проводной транзакции. |
+| [WireSyncResponse](./wiresyncresponse) | Класс ответа на синхронизацию проводных транзакций. |
 | [WireTransactionRequest](./wiretransactionrequest) | Класс запроса транзакции банковского перевода. |
 | [WireTransactionResponse](./wiretransactionresponse) | Класс ответа транзакции банковского перевода. |
 

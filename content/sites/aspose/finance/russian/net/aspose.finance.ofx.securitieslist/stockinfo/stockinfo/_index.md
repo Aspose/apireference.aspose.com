@@ -1,14 +1,14 @@
 ---
 title: StockInfo
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаStockInfoaspose.finance.ofx.securitieslist/stockinfo.
+description: Инициализирует новый экземплярStockInfoaspose.finance.ofx.securitieslist/stockinfo класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.securitieslist/stockinfo/stockinfo/
 ---
 ## StockInfo constructor
 
-Инициализирует новый экземпляр класса[`StockInfo`](../../stockinfo).
+Инициализирует новый экземпляр[`StockInfo`](../../stockinfo) класс.
 
 ```csharp
 public StockInfo()

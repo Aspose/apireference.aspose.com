@@ -1,14 +1,14 @@
 ---
 title: Fee
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает плату за стоп-чек.
+description: Получает или устанавливает комиссию за стопчек.
 type: docs
 weight: 40
 url: /ru/net/aspose.finance.ofx.bank/stopcheckresponse/fee/
 ---
 ## StopCheckResponse.Fee property
 
-Получает или задает плату за стоп-чек.
+Получает или устанавливает комиссию за стоп-чек.
 
 ```csharp
 public string Fee { get; set; }

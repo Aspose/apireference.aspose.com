@@ -1,14 +1,14 @@
 ---
 title: DifferentLastPayment
 second_title: Справочник по API Aspose.Finance для .NET
-description: Возвращает или задает поддержку указания другой суммы для последнего платежа сгенерированного моделью
+description: Получает или задает поддержку указания другой суммы для последнего платежа сгенерированного моделью
 type: docs
 weight: 90
 url: /ru/net/aspose.finance.ofx.profile/billpaymessagesetv1/differentlastpayment/
 ---
 ## BillPayMessageSetV1.DifferentLastPayment property
 
-Возвращает или задает поддержку указания другой суммы для последнего платежа, сгенерированного моделью
+Получает или задает поддержку указания другой суммы для последнего платежа, сгенерированного моделью
 
 ```csharp
 public bool DifferentLastPayment { get; set; }

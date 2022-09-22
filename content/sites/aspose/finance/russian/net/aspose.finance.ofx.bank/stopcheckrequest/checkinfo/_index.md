@@ -1,14 +1,14 @@
 ---
 title: CheckInfo
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает информацию о чекеCheckRangeaspose.finance.ofx.bank/checkrangeилиПроверитьОписание.
+description: Получает или устанавливает информацию о проверкеCheckRangeaspose.finance.ofx.bank/checkrange или жеCheckDescriptionaspose.finance.ofx.bank/checkdescription .
 type: docs
 weight: 30
 url: /ru/net/aspose.finance.ofx.bank/stopcheckrequest/checkinfo/
 ---
 ## StopCheckRequest.CheckInfo property
 
-Получает или задает информацию о чеке,[`CheckRange`](../../checkrange)илиПроверитьОписание.
+Получает или устанавливает информацию о проверке,[`CheckRange`](../../checkrange) или же[`CheckDescription`](../../checkdescription) .
 
 ```csharp
 public AbstractCheckInfo CheckInfo { get; set; }

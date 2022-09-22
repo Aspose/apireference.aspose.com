@@ -1,14 +1,14 @@
 ---
 title: MFAChallengeAnswer
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаMFAChallengeAnsweraspose.finance.ofx.signon/mfachallengeanswer.
+description: Инициализирует новый экземплярMFAChallengeAnsweraspose.finance.ofx.signon/mfachallengeanswer класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.signon/mfachallengeanswer/mfachallengeanswer/
 ---
 ## MFAChallengeAnswer constructor
 
-Инициализирует новый экземпляр класса[`MFAChallengeAnswer`](../../mfachallengeanswer).
+Инициализирует новый экземпляр[`MFAChallengeAnswer`](../../mfachallengeanswer) класс.
 
 ```csharp
 public MFAChallengeAnswer()

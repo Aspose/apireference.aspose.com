@@ -18,15 +18,15 @@ public class PresentmentDeliveryId
 
 | 姓名 | 描述 |
 | --- | --- |
-| [PresentmentDeliveryId](presentmentdeliveryid)() | 初始化[`PresentmentDeliveryId`](../presentmentdeliveryid)类的新实例。 |
+| [PresentmentDeliveryId](presentmentdeliveryid)() | 初始化一个新的实例[`PresentmentDeliveryId`](../presentmentdeliveryid)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [BillId](../../aspose.finance.ofx.billerdelivery/presentmentdeliveryid/billid) { get; set; } | 获取或设置来自给定计费器的账单 |
-| [PresentmentAccountFrom](../../aspose.finance.ofx.billerdelivery/presentmentdeliveryid/presentmentaccountfrom) { get; set; } | 获取或设置[`PresentmentAccount`](../../aspose.finance.ofx/presentmentaccount)的来源。 |
-| [SeenDate](../../aspose.finance.ofx.billerdelivery/presentmentdeliveryid/seendate) { get; set; } | 获取或设置向请求者的客户提供账单的日期和时间。 |
+| [BillId](../../aspose.finance.ofx.billerdelivery/presentmentdeliveryid/billid) { get; set; } | 从给定的 biller 获取或设置账单 |
+| [PresentmentAccountFrom](../../aspose.finance.ofx.billerdelivery/presentmentdeliveryid/presentmentaccountfrom) { get; set; } | 获取或设置 from[`PresentmentAccount`](../../aspose.finance.ofx/presentmentaccount). |
+| [SeenDate](../../aspose.finance.ofx.billerdelivery/presentmentdeliveryid/seendate) { get; set; } | 获取或设置账单提供给请求者的客户的日期和时间。 |
 
 ### 也可以看看
 

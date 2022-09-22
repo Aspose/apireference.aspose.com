@@ -18,7 +18,7 @@ public class VestInfo
 
 | 姓名 | 描述 |
 | --- | --- |
-| [VestInfo](vestinfo)() | 初始化[`VestInfo`](../vestinfo)类的新实例。 |
+| [VestInfo](vestinfo)() | 初始化一个新的实例[`VestInfo`](../vestinfo)类. |
 
 ## 特性
 

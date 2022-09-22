@@ -1,14 +1,14 @@
 ---
 title: AccountTo
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置帐户BankAccountaspose.finance.ofx/bankaccount或CreditCardAccountaspose.finance.ofx/creditcardaccount
+description: 获取或设置帐户BankAccountaspose.finance.ofx/bankaccount或者CreditCardAccountaspose.finance.ofx/creditcardaccount.
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.ofx/statementtransaction/accountto/
 ---
 ## StatementTransaction.AccountTo property
 
-获取或设置帐户[`BankAccount`](../../bankaccount)或[`CreditCardAccount`](../../creditcardaccount)。
+获取或设置帐户，[`BankAccount`](../../bankaccount)或者[`CreditCardAccount`](../../creditcardaccount).
 
 ```csharp
 public AbstractAccount AccountTo { get; set; }

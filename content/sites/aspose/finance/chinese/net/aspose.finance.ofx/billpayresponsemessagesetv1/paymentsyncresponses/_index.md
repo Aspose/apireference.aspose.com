@@ -1,14 +1,14 @@
 ---
 title: PaymentSyncResponses
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置PaymentSyncResponseaspose.finance.ofx.billpay/paymentsyncresponse的集合
+description: 获取或设置的集合PaymentSyncResponseaspose.finance.ofx.billpay/paymentsyncresponse.
 type: docs
 weight: 70
 url: /zh/net/aspose.finance.ofx/billpayresponsemessagesetv1/paymentsyncresponses/
 ---
 ## BillPayResponseMessageSetV1.PaymentSyncResponses property
 
-获取或设置[`PaymentSyncResponse`](../../../aspose.finance.ofx.billpay/paymentsyncresponse)的集合。
+获取或设置的集合[`PaymentSyncResponse`](../../../aspose.finance.ofx.billpay/paymentsyncresponse).
 
 ```csharp
 public List<PaymentSyncResponse> PaymentSyncResponses { get; set; }

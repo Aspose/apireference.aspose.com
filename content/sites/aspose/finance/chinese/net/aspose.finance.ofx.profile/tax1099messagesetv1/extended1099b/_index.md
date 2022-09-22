@@ -1,14 +1,14 @@
 ---
 title: Extended1099B
 second_title: Aspose.Finance for .NET API 参考
-description: 通过提供用于证券销售的附表 D 收益详细信息获取或设置服务器是否支持扩展的 1099B 形式
+description: 通过提供证券销售的附表 D 收益详细信息获取或设置服务器是否支持扩展的 1099B 形式
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.ofx.profile/tax1099messagesetv1/extended1099b/
 ---
 ## Tax1099MessageSetV1.Extended1099B property
 
-通过提供用于证券销售的附表 D 收益详细信息，获取或设置服务器是否支持扩展的 1099B 形式。
+通过提供证券销售的附表 D 收益详细信息，获取或设置服务器是否支持扩展的 1099B 形式。
 
 ```csharp
 public bool Extended1099B { get; set; }

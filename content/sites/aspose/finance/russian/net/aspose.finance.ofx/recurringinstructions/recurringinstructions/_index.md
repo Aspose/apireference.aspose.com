@@ -1,14 +1,14 @@
 ---
 title: RecurringInstructions
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаRecurringInstructionsaspose.finance.ofx/recurringinstructions.
+description: Инициализирует новый экземплярRecurringInstructionsaspose.finance.ofx/recurringinstructions класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx/recurringinstructions/recurringinstructions/
 ---
 ## RecurringInstructions constructor
 
-Инициализирует новый экземпляр класса[`RecurringInstructions`](../../recurringinstructions).
+Инициализирует новый экземпляр[`RecurringInstructions`](../../recurringinstructions) класс.
 
 ```csharp
 public RecurringInstructions()

@@ -1,14 +1,14 @@
 ---
 title: PaymentInstruments
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置PaymentInstrumentaspose.finance.ofx.billerdirectory/paymentinstrument的集合
+description: 获取或设置的集合PaymentInstrumentaspose.finance.ofx.billerdirectory/paymentinstrument.
 type: docs
 weight: 150
 url: /zh/net/aspose.finance.ofx.billerdirectory/billerinfo/paymentinstruments/
 ---
 ## BillerInfo.PaymentInstruments property
 
-获取或设置[`PaymentInstrument`](../../paymentinstrument)的集合。
+获取或设置的集合[`PaymentInstrument`](../../paymentinstrument).
 
 ```csharp
 public List<PaymentInstrument> PaymentInstruments { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: WireSyncResponse
 second_title: Aspose.Finance for .NET API 参考
-description: 电汇事务同步响应类
+description: Wire 事务同步响应类
 type: docs
 weight: 6410
 url: /zh/net/aspose.finance.ofx.wiretransfer/wiresyncresponse/
 ---
 ## WireSyncResponse class
 
-电汇事务同步响应类。
+Wire 事务同步响应类。
 
 ```csharp
 public class WireSyncResponse : AbstractSyncResponse
@@ -18,17 +18,17 @@ public class WireSyncResponse : AbstractSyncResponse
 
 | 姓名 | 描述 |
 | --- | --- |
-| [WireSyncResponse](wiresyncresponse)() | 初始化[`WireSyncResponse`](../wiresyncresponse)类的新实例。 |
+| [WireSyncResponse](wiresyncresponse)() | 初始化一个新的实例[`WireSyncResponse`](../wiresyncresponse)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [BankAccountFrom](../../aspose.finance.ofx.wiretransfer/wiresyncresponse/bankaccountfrom) { get; set; } | 获取或设置[`BankAccount`](../../aspose.finance.ofx/bankaccount)的来源。 |
-| [LostSynchronization](../../aspose.finance.ofx/abstractsyncresponse/lostsynchronization) { get; set; } | 如果同步请求中的令牌早于服务器历史记录表中的最早条目，则是。在这种情况下，一些响应已经丢失。 如果同步请求中的令牌比服务器历史记录表中的令牌更新或匹配，则否。 |
-| [OfxExtension](../../aspose.finance.ofx.wiretransfer/wiresyncresponse/ofxextension) { get; set; } | 获取或设置[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype)。 |
+| [BankAccountFrom](../../aspose.finance.ofx.wiretransfer/wiresyncresponse/bankaccountfrom) { get; set; } | 获取或设置 from[`BankAccount`](../../aspose.finance.ofx/bankaccount). |
+| [LostSynchronization](../../aspose.finance.ofx/abstractsyncresponse/lostsynchronization) { get; set; } | 如果同步请求中的令牌比服务器历史表中最早的条目更旧，则为是。在这种情况下，一些响应已丢失。 如果同步请求中的令牌比服务器历史表中的令牌更新或匹配，则为否历史表. |
+| [OfxExtension](../../aspose.finance.ofx.wiretransfer/wiresyncresponse/ofxextension) { get; set; } | 获取或设置[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
 | [Token](../../aspose.finance.ofx/abstractsyncresponse/token) { get; set; } | 获取或设置新的同步令牌。 |
-| [WireTransactionResponses](../../aspose.finance.ofx.wiretransfer/wiresyncresponse/wiretransactionresponses) { get; set; } | 获取或设置[`WireTransactionResponse`](../wiretransactionresponse)的集合。 |
+| [WireTransactionResponses](../../aspose.finance.ofx.wiretransfer/wiresyncresponse/wiretransactionresponses) { get; set; } | 获取或设置的集合[`WireTransactionResponse`](../wiretransactionresponse). |
 
 ### 也可以看看
 

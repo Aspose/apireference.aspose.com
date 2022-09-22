@@ -1,14 +1,14 @@
 ---
 title: FinancialInstitution
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化FinancialInstitutionaspose.finance.ofx.signon/financialinstitution类的新实例
+description: 初始化一个新的实例FinancialInstitutionaspose.finance.ofx.signon/financialinstitution类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.signon/financialinstitution/financialinstitution/
 ---
 ## FinancialInstitution constructor
 
-初始化[`FinancialInstitution`](../../financialinstitution)类的新实例。
+初始化一个新的实例[`FinancialInstitution`](../../financialinstitution)类.
 
 ```csharp
 public FinancialInstitution()

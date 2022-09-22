@@ -18,13 +18,13 @@ public class PaymentInstrument
 
 | Имя | Описание |
 | --- | --- |
-| [PaymentInstrument](paymentinstrument)() | Инициализирует новый экземпляр класса[`PaymentInstrument`](../paymentinstrument). |
+| [PaymentInstrument](paymentinstrument)() | Инициализирует новый экземпляр[`PaymentInstrument`](../paymentinstrument) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [Brand](../../aspose.finance.ofx.billerdirectory/paymentinstrument/brand) { get; set; } | Получает или задает принятый бренд для данного типа платежа. |
+| [Brand](../../aspose.finance.ofx.billerdirectory/paymentinstrument/brand) { get; set; } | Получает или устанавливает принятый бренд для данного типа платежа. |
 | [PaymentInstrumentType](../../aspose.finance.ofx.billerdirectory/paymentinstrument/paymentinstrumenttype) { get; set; } | Получает или задает тип платежа. |
 
 ### Смотрите также

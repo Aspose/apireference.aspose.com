@@ -1,14 +1,14 @@
 ---
 title: CreditCardAccount
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаCreditCardAccountaspose.finance.ofx/creditcardaccount.
+description: Инициализирует новый экземплярCreditCardAccountaspose.finance.ofx/creditcardaccount класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx/creditcardaccount/creditcardaccount/
 ---
 ## CreditCardAccount constructor
 
-Инициализирует новый экземпляр класса[`CreditCardAccount`](../../creditcardaccount).
+Инициализирует новый экземпляр[`CreditCardAccount`](../../creditcardaccount) класс.
 
 ```csharp
 public CreditCardAccount()

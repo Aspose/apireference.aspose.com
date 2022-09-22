@@ -18,7 +18,7 @@ public class ClientEnroll
 
 | 姓名 | 描述 |
 | --- | --- |
-| [ClientEnroll](clientenroll)() | 初始化[`ClientEnroll`](../clientenroll)类的新实例。 |
+| [ClientEnroll](clientenroll)() | 初始化一个新的实例[`ClientEnroll`](../clientenroll)类. |
 
 ## 特性
 

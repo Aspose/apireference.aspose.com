@@ -1,14 +1,14 @@
 ---
 title: PaymentModRequest
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаPaymentModRequestaspose.finance.ofx.billpay/paymentmodrequest.
+description: Инициализирует новый экземплярPaymentModRequestaspose.finance.ofx.billpay/paymentmodrequest класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.billpay/paymentmodrequest/paymentmodrequest/
 ---
 ## PaymentModRequest constructor
 
-Инициализирует новый экземпляр класса[`PaymentModRequest`](../../paymentmodrequest).
+Инициализирует новый экземпляр[`PaymentModRequest`](../../paymentmodrequest) класс.
 
 ```csharp
 public PaymentModRequest()

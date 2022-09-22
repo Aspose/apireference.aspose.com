@@ -8,7 +8,7 @@ url: /zh/net/aspose.finance.ofx/mail/userid/
 ---
 ## Mail.UserId property
 
-获取或设置用户标识。
+获取或设置用户标识
 
 ```csharp
 public string UserId { get; set; }

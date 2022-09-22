@@ -1,14 +1,14 @@
 ---
 title: BuyOption
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаBuyOptionaspose.finance.ofx.investment/buyoption.
+description: Инициализирует новый экземплярBuyOptionaspose.finance.ofx.investment/buyoption класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.investment/buyoption/buyoption/
 ---
 ## BuyOption constructor
 
-Инициализирует новый экземпляр класса[`BuyOption`](../../buyoption).
+Инициализирует новый экземпляр[`BuyOption`](../../buyoption) класс.
 
 ```csharp
 public BuyOption()

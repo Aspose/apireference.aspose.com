@@ -1,14 +1,14 @@
 ---
 title: TransferAction
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает действие для передачи.
+description: Получает или задает действие для переводов.
 type: docs
 weight: 90
 url: /ru/net/aspose.finance.ofx.investment/transfer/transferaction/
 ---
 ## Transfer.TransferAction property
 
-Получает или задает действие для передачи.
+Получает или задает действие для переводов.
 
 ```csharp
 public InOutEnum TransferAction { get; set; }

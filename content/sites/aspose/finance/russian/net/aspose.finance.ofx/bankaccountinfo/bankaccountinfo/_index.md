@@ -1,14 +1,14 @@
 ---
 title: BankAccountInfo
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаBankAccountInfoaspose.finance.ofx/bankaccountinfo.
+description: Инициализирует новый экземплярBankAccountInfoaspose.finance.ofx/bankaccountinfo класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx/bankaccountinfo/bankaccountinfo/
 ---
 ## BankAccountInfo constructor
 
-Инициализирует новый экземпляр класса[`BankAccountInfo`](../../bankaccountinfo).
+Инициализирует новый экземпляр[`BankAccountInfo`](../../bankaccountinfo) класс.
 
 ```csharp
 public BankAccountInfo()

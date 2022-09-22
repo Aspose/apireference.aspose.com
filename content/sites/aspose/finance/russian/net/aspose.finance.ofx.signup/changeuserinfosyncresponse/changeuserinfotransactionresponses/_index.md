@@ -1,14 +1,14 @@
 ---
 title: ChangeUserInfoTransactionResponses
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает коллекциюChangeUserInfoTransactionResponseaspose.finance.ofx.signup/changeuserinfotransactionresponse.
+description: Получает или задает коллекциюChangeUserInfoTransactionResponseaspose.finance.ofx.signup/changeuserinfotransactionresponse .
 type: docs
 weight: 20
 url: /ru/net/aspose.finance.ofx.signup/changeuserinfosyncresponse/changeuserinfotransactionresponses/
 ---
 ## ChangeUserInfoSyncResponse.ChangeUserInfoTransactionResponses property
 
-Получает или задает коллекцию[`ChangeUserInfoTransactionResponse`](../../changeuserinfotransactionresponse).
+Получает или задает коллекцию[`ChangeUserInfoTransactionResponse`](../../changeuserinfotransactionresponse) .
 
 ```csharp
 public List<ChangeUserInfoTransactionResponse> ChangeUserInfoTransactionResponses { get; set; }

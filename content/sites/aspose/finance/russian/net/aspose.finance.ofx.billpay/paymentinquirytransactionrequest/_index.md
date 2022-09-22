@@ -18,15 +18,15 @@ public class PaymentInquiryTransactionRequest : AbstractTransactionRequest
 
 | Имя | Описание |
 | --- | --- |
-| [PaymentInquiryTransactionRequest](paymentinquirytransactionrequest)() | Инициализирует новый экземпляр класса[`PaymentInquiryTransactionRequest`](../paymentinquirytransactionrequest). |
+| [PaymentInquiryTransactionRequest](paymentinquirytransactionrequest)() | Инициализирует новый экземпляр[`PaymentInquiryTransactionRequest`](../paymentinquirytransactionrequest) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [ClientCookie](../../aspose.finance.ofx/abstracttransactionrequest/clientcookie) { get; set; } | Получает или задает данные, которые будут отображаться в ответе транзакции |
-| [OfxExtension](../../aspose.finance.ofx.billpay/paymentinquirytransactionrequest/ofxextension) { get; set; } | Получает или задает[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
-| [PaymentInquiryRequest](../../aspose.finance.ofx.billpay/paymentinquirytransactionrequest/paymentinquiryrequest) { get; set; } | Получает или задает[`PaymentInquiryRequest`](./paymentinquiryrequest). |
+| [ClientCookie](../../aspose.finance.ofx/abstracttransactionrequest/clientcookie) { get; set; } | Получает или задает данные, которые будут отражены в транзакции response |
+| [OfxExtension](../../aspose.finance.ofx.billpay/paymentinquirytransactionrequest/ofxextension) { get; set; } | Получает или задает[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype) . |
+| [PaymentInquiryRequest](../../aspose.finance.ofx.billpay/paymentinquirytransactionrequest/paymentinquiryrequest) { get; set; } | Получает или задает[`PaymentInquiryRequest`](./paymentinquiryrequest) . |
 | [TransactionAuthorizationNumber](../../aspose.finance.ofx/abstracttransactionrequest/transactionauthorizationnumber) { get; set; } | Получает или задает номер авторизации транзакции. |
 | [TransactionUniqueId](../../aspose.finance.ofx/abstracttransactionrequest/transactionuniqueid) { get; set; } | Получает или задает назначенный клиентом глобальный уникальный идентификатор для этой транзакции |
 

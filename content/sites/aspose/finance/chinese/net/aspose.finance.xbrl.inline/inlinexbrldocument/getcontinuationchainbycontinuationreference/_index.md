@@ -8,7 +8,7 @@ url: /zh/net/aspose.finance.xbrl.inline/inlinexbrldocument/getcontinuationchainb
 ---
 ## InlineXbrlDocument.GetContinuationChainByContinuationReference method
 
-根据延续引用获取延续链。
+根据延续引用获取延续链
 
 ```csharp
 public List<InlineContinuation> GetContinuationChainByContinuationReference(
@@ -17,7 +17,7 @@ public List<InlineContinuation> GetContinuationChainByContinuationReference(
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| continuationReference | String | 延续引用 |
+| continuationReference | String | 继续参考 |
 
 ### 返回值
 

@@ -20,7 +20,7 @@ public ArcroleType GetArcroleTypeByURI(string arcroleTypeUri)
 
 ### Возвращаемое значение
 
-ArcroleType.
+Тип Аркроле.
 
 ### Смотрите также
 

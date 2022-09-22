@@ -1,14 +1,14 @@
 ---
 title: VestPercent
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает расчетный процент закрепленных прав на соответствующую дату.
+description: Получает или задает оценочный процент закрепленных прав на соответствующую дату.
 type: docs
 weight: 30
 url: /ru/net/aspose.finance.ofx.investment/vestinfo/vestpercent/
 ---
 ## VestInfo.VestPercent property
 
-Получает или задает расчетный процент закрепленных прав на соответствующую дату.
+Получает или задает оценочный процент закрепленных прав на соответствующую дату.
 
 ```csharp
 public string VestPercent { get; set; }

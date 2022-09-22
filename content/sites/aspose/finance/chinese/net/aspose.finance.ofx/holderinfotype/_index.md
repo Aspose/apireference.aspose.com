@@ -18,14 +18,14 @@ public class HolderInfoType
 
 | 姓名 | 描述 |
 | --- | --- |
-| [HolderInfoType](holderinfotype)() | 初始化[`HolderInfoType`](../holderinfotype)类的新实例。 |
+| [HolderInfoType](holderinfotype)() | 初始化一个新的实例[`HolderInfoType`](../holderinfotype)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [PrimaryHolder](../../aspose.finance.ofx/holderinfotype/primaryholder) { get; set; } | 获取或设置[`AccountHolderType`](../accountholdertype)的主要。 |
-| [SecondaryHolder](../../aspose.finance.ofx/holderinfotype/secondaryholder) { get; set; } | 获取或设置[`AccountHolderType`](../accountholdertype)的第二个。 |
+| [PrimaryHolder](../../aspose.finance.ofx/holderinfotype/primaryholder) { get; set; } | 获取或设置[`AccountHolderType`](../accountholdertype). |
+| [SecondaryHolder](../../aspose.finance.ofx/holderinfotype/secondaryholder) { get; set; } | 获取或设置第二个[`AccountHolderType`](../accountholdertype). |
 
 ### 也可以看看
 

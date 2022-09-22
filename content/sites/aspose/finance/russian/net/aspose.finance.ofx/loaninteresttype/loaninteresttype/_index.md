@@ -1,14 +1,14 @@
 ---
 title: LoanInterestType
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаLoanInterestTypeaspose.finance.ofx/loaninteresttype.
+description: Инициализирует новый экземплярLoanInterestTypeaspose.finance.ofx/loaninteresttype класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx/loaninteresttype/loaninteresttype/
 ---
 ## LoanInterestType constructor
 
-Инициализирует новый экземпляр класса[`LoanInterestType`](../../loaninteresttype).
+Инициализирует новый экземпляр[`LoanInterestType`](../../loaninteresttype) класс.
 
 ```csharp
 public LoanInterestType()

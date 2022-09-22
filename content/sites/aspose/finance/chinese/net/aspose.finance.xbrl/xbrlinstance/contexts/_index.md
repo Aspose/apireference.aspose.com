@@ -1,14 +1,14 @@
 ---
 title: Contexts
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置 XBRL 实例中Contextaspose.finance.xbrl/context对象的集合
+description: 获取或设置的集合Contextaspose.finance.xbrl/context XBRL 实例中的对象
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.xbrl/xbrlinstance/contexts/
 ---
 ## XbrlInstance.Contexts property
 
-获取或设置 XBRL 实例中[`Context`](../../context)对象的集合。
+获取或设置的集合[`Context`](../../context) XBRL 实例中的对象。
 
 ```csharp
 public List<Context> Contexts { get; set; }

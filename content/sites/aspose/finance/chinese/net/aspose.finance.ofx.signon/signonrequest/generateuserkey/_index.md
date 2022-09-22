@@ -1,14 +1,14 @@
 ---
 title: GenerateUserKey
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置请求服务器是否返回 USERKEY 以供将来使用
+description: 获取或设置请求服务器是否返回一个USERKEY供以后使用
 type: docs
 weight: 110
 url: /zh/net/aspose.finance.ofx.signon/signonrequest/generateuserkey/
 ---
 ## SignonRequest.GenerateUserKey property
 
-获取或设置请求服务器是否返回 USERKEY 以供将来使用，
+获取或设置请求服务器是否返回一个USERKEY供以后使用，
 
 ```csharp
 public bool GenerateUserKey { get; set; }

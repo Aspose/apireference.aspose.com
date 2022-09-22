@@ -1,14 +1,14 @@
 ---
 title: Match
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает соответствующий взнос работодателя.
+description: Получает или задает соответствующий вклад работодателя.
 type: docs
 weight: 30
 url: /ru/net/aspose.finance.ofx.investment/contributions/match/
 ---
 ## Contributions.Match property
 
-Получает или задает соответствующий взнос работодателя.
+Получает или задает соответствующий вклад работодателя.
 
 ```csharp
 public string Match { get; set; }

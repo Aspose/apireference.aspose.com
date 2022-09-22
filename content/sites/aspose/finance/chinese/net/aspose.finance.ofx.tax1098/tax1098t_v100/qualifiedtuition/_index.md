@@ -1,14 +1,14 @@
 ---
 title: QualifiedTuition
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置收到的合格学费和费用的付款
+description: 获取或设置收到的合格学杂费
 type: docs
 weight: 130
 url: /zh/net/aspose.finance.ofx.tax1098/tax1098t_v100/qualifiedtuition/
 ---
 ## Tax1098T_V100.QualifiedTuition property
 
-获取或设置收到的合格学费和费用的付款。
+获取或设置收到的合格学杂费。
 
 ```csharp
 public string QualifiedTuition { get; set; }

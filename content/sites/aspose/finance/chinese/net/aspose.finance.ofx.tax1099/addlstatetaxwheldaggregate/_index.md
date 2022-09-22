@@ -1,14 +1,14 @@
 ---
 title: AddlStateTaxWheldAggregate
 second_title: Aspose.Finance for .NET API 参考
-description: 可选的州预扣税类用于处理一个或多个州的预扣税申报
+description: 可选的州预扣税类别用于处理一个或多个州的预扣税申报
 type: docs
 weight: 5880
 url: /zh/net/aspose.finance.ofx.tax1099/addlstatetaxwheldaggregate/
 ---
 ## AddlStateTaxWheldAggregate class
 
-可选的州预扣税类，用于处理一个或多个州的预扣税申报。
+可选的州预扣税类别，用于处理一个或多个州的预扣税申报。
 
 ```csharp
 public class AddlStateTaxWheldAggregate
@@ -18,15 +18,15 @@ public class AddlStateTaxWheldAggregate
 
 | 姓名 | 描述 |
 | --- | --- |
-| [AddlStateTaxWheldAggregate](addlstatetaxwheldaggregate)() | 初始化[`AddlStateTaxWheldAggregate`](../addlstatetaxwheldaggregate)类的新实例。 |
+| [AddlStateTaxWheldAggregate](addlstatetaxwheldaggregate)() | 初始化一个新的实例[`AddlStateTaxWheldAggregate`](../addlstatetaxwheldaggregate)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [StateCode](../../aspose.finance.ofx.tax1099/addlstatetaxwheldaggregate/statecode) { get; set; } | 获取或设置付款人的状态码。 |
-| [StateIdNumber](../../aspose.finance.ofx.tax1099/addlstatetaxwheldaggregate/stateidnumber) { get; set; } | 获取或设置付款人的州 ID 号。 |
-| [StateTaxWithheld](../../aspose.finance.ofx.tax1099/addlstatetaxwheldaggregate/statetaxwithheld) { get; set; } | 获取或设置预扣的州所得税。 |
+| [StateCode](../../aspose.finance.ofx.tax1099/addlstatetaxwheldaggregate/statecode) { get; set; } | 获取或设置付款人的状态码 |
+| [StateIdNumber](../../aspose.finance.ofx.tax1099/addlstatetaxwheldaggregate/stateidnumber) { get; set; } | 获取或设置付款人的状态ID号。 |
+| [StateTaxWithheld](../../aspose.finance.ofx.tax1099/addlstatetaxwheldaggregate/statetaxwithheld) { get; set; } | 获取或设置扣缴的州所得税。 |
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: NamespaceUri
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置 XBRL 实例中模式的命名空间 URI
+description: 获取或设置 XBRL 实例中架构的命名空间 URI
 type: docs
 weight: 60
 url: /zh/net/aspose.finance.xbrl/schemaref/namespaceuri/
 ---
 ## SchemaRef.NamespaceUri property
 
-获取或设置 XBRL 实例中模式的命名空间 URI。
+获取或设置 XBRL 实例中架构的命名空间 URI。
 
 ```csharp
 public string NamespaceUri { get; set; }

@@ -18,14 +18,14 @@ public class Portion
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Portion](portion)() | 初始化[`Portion`](../portion)类的新实例。 |
+| [Portion](portion)() | 初始化一个新的实例[`Portion`](../portion)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
 | [AssetClass](../../aspose.finance.ofx.securitieslist/portion/assetclass) { get; set; } | 获取或设置资产类别。 |
-| [Percent](../../aspose.finance.ofx.securitieslist/portion/percent) { get; set; } | 获取或设置属于该资产类别的基金的百分比。 |
+| [Percent](../../aspose.finance.ofx.securitieslist/portion/percent) { get; set; } | 获取或设置属于该资产类别的基金百分比。 |
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: PresentmentDetailRequest
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置PresentmentDetailRequestaspose.finance.ofx.billerdelivery/presentmentdetailtransactionrequest/presentmentdetailrequest
+description: 获取或设置PresentmentDetailRequestaspose.finance.ofx.billerdelivery/presentmentdetailtransactionrequest/presentmentdetailrequest.
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.ofx.billerdelivery/presentmentdetailtransactionrequest/presentmentdetailrequest/
 ---
 ## PresentmentDetailTransactionRequest.PresentmentDetailRequest property
 
-获取或设置`PresentmentDetailRequest`。
+获取或设置`PresentmentDetailRequest`.
 
 ```csharp
 public PresentmentDetailRequest PresentmentDetailRequest { get; set; }

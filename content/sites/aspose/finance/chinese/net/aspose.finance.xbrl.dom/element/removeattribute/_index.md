@@ -20,7 +20,7 @@ public bool RemoveAttribute(string name)
 
 ### 返回值
 
-如果找到并删除属性则为真，否则为假。
+如果找到并删除属性，则为真，否则为假。
 
 ### 也可以看看
 

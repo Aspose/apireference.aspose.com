@@ -1,14 +1,14 @@
 ---
 title: PresentmentDirProfile
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化PresentmentDirProfileaspose.finance.ofx.profile/presentmentdirprofile类的新实例
+description: 初始化一个新的实例PresentmentDirProfileaspose.finance.ofx.profile/presentmentdirprofile类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.profile/presentmentdirprofile/presentmentdirprofile/
 ---
 ## PresentmentDirProfile constructor
 
-初始化[`PresentmentDirProfile`](../../presentmentdirprofile)类的新实例。
+初始化一个新的实例[`PresentmentDirProfile`](../../presentmentdirprofile)类.
 
 ```csharp
 public PresentmentDirProfile()

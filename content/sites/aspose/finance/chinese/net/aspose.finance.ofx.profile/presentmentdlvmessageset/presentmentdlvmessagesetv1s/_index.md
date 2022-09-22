@@ -1,14 +1,14 @@
 ---
 title: PresentmentDlvMessageSetV1s
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置PresentmentDlvMessageSetV1aspose.finance.ofx.profile/presentmentdlvmessagesetv1的集合
+description: 获取或设置的集合PresentmentDlvMessageSetV1aspose.finance.ofx.profile/presentmentdlvmessagesetv1.
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.ofx.profile/presentmentdlvmessageset/presentmentdlvmessagesetv1s/
 ---
 ## PresentmentDlvMessageSet.PresentmentDlvMessageSetV1s property
 
-获取或设置[`PresentmentDlvMessageSetV1`](../../presentmentdlvmessagesetv1)的集合。
+获取或设置的集合[`PresentmentDlvMessageSetV1`](../../presentmentdlvmessagesetv1).
 
 ```csharp
 public List<PresentmentDlvMessageSetV1> PresentmentDlvMessageSetV1s { get; set; }

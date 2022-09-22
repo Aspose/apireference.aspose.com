@@ -8,7 +8,7 @@ url: /zh/net/aspose.finance.ofx.signup/enrollrequest/userid/
 ---
 ## EnrollRequest.UserId property
 
-获取或设置实际用户 ID（如果已知）或首选用户 ID（如果用户可以选择）。
+获取或设置实际用户 ID（如果已知），或首选用户 ID（如果用户可以选择）。
 
 ```csharp
 public string UserId { get; set; }

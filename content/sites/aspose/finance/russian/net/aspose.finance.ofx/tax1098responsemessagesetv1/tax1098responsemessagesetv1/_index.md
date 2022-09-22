@@ -1,14 +1,14 @@
 ---
 title: Tax1098ResponseMessageSetV1
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаTax1098ResponseMessageSetV1aspose.finance.ofx/tax1098responsemessagesetv1.
+description: Инициализирует новый экземплярTax1098ResponseMessageSetV1aspose.finance.ofx/tax1098responsemessagesetv1 класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx/tax1098responsemessagesetv1/tax1098responsemessagesetv1/
 ---
 ## Tax1098ResponseMessageSetV1 constructor
 
-Инициализирует новый экземпляр класса[`Tax1098ResponseMessageSetV1`](../../tax1098responsemessagesetv1).
+Инициализирует новый экземпляр[`Tax1098ResponseMessageSetV1`](../../tax1098responsemessagesetv1) класс.
 
 ```csharp
 public Tax1098ResponseMessageSetV1()

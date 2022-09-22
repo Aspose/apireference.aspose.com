@@ -1,14 +1,14 @@
 ---
 title: FootnoteArc
 second_title: Aspose.Finance for .NET API 参考
-description: 这个类是一个Xlink./xlink与 Arc 类型 它包含在FootnoteLink中
+description: 这个类是一个Xlink./xlink与 Arc type. 它包含在FootnoteLink.
 type: docs
 weight: 7640
 url: /zh/net/aspose.finance.xbrl/footnotearc/
 ---
 ## FootnoteArc class
 
-这个类是一个[`Xlink`](../xlink)与 Arc 类型。 它包含在FootnoteLink中。
+这个类是一个[`Xlink`](../xlink)与 Arc type. 它包含在FootnoteLink.
 
 ```csharp
 public class FootnoteArc : Arc
@@ -18,29 +18,29 @@ public class FootnoteArc : Arc
 
 | 姓名 | 描述 |
 | --- | --- |
-| [FootnoteArc](footnotearc)(string, string) | 初始化[`FootnoteArc`](../footnotearc)类的新实例。 |
+| [FootnoteArc](footnotearc)(string, string) | 初始化一个新的实例[`FootnoteArc`](../footnotearc)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
 | [Actuate](../../aspose.finance.xbrl/arc/actuate) { get; set; } | 获取或设置圆弧的驱动。 |
-| [Arcrole](../../aspose.finance.xbrl/arc/arcrole) { get; set; } | 获取或设置圆弧的圆弧。 |
-| [From](../../aspose.finance.xbrl/arc/from) { get; set; } | 获取或设置弧的起点标签。 |
-| [Order](../../aspose.finance.xbrl/arc/order) { get; set; } | 获取或设置弧的顺序。 |
+| [Arcrole](../../aspose.finance.xbrl/arc/arcrole) { get; set; } | 获取或设置弧的弧线。 |
+| [From](../../aspose.finance.xbrl/arc/from) { get; set; } | 获取或设置圆弧的起始标签。 |
+| [Order](../../aspose.finance.xbrl/arc/order) { get; set; } | 获取或设置圆弧的顺序。 |
 | [Priority](../../aspose.finance.xbrl/arc/priority) { get; set; } | 获取或设置圆弧的优先级。 |
 | [Show](../../aspose.finance.xbrl/arc/show) { get; set; } | 获取或设置弧的显示。 |
 | [Title](../../aspose.finance.xbrl/arc/title) { get; set; } | 获取或设置弧的标题。 |
 | [To](../../aspose.finance.xbrl/arc/to) { get; set; } | 获取或设置圆弧的 to 标签。 |
 | [Type](../../aspose.finance.xbrl/xlink/type) { get; } | 获取链接类型。 |
-| [Use](../../aspose.finance.xbrl/arc/use) { get; set; } | 获取或设置圆弧的使用。 |
+| [Use](../../aspose.finance.xbrl/arc/use) { get; set; } | 获取或设置圆弧使用的圆弧。 |
 
 ## 方法
 
 | 姓名 | 描述 |
 | --- | --- |
-| [GetFromLocs](../../aspose.finance.xbrl/footnotearc/getfromlocs)() | 从[`FootnoteArc`](../footnotearc)中的[`Loc`](../loc)获取集合。 |
-| [GetToFootnotes](../../aspose.finance.xbrl/footnotearc/gettofootnotes)() | 在[`FootnoteArc`](../footnotearc)中获取[`Footnote`](../footnote)的集合。 |
+| [GetFromLocs](../../aspose.finance.xbrl/footnotearc/getfromlocs)() | 获取 from 的集合[`Loc`](../loc)在里面[`FootnoteArc`](../footnotearc). |
+| [GetToFootnotes](../../aspose.finance.xbrl/footnotearc/gettofootnotes)() | 获取 to 的集合[`Footnote`](../footnote)在里面[`FootnoteArc`](../footnotearc). |
 
 ### 也可以看看
 

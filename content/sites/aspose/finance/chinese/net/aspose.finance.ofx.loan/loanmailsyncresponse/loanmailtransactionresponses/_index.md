@@ -1,14 +1,14 @@
 ---
 title: LoanMailTransactionResponses
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置LoanMailTransactionResponseaspose.finance.ofx.loan/loanmailtransactionresponse的集合
+description: 获取或设置的集合LoanMailTransactionResponseaspose.finance.ofx.loan/loanmailtransactionresponse.
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.ofx.loan/loanmailsyncresponse/loanmailtransactionresponses/
 ---
 ## LoanMailSyncResponse.LoanMailTransactionResponses property
 
-获取或设置[`LoanMailTransactionResponse`](../../loanmailtransactionresponse)的集合。
+获取或设置的集合[`LoanMailTransactionResponse`](../../loanmailtransactionresponse).
 
 ```csharp
 public List<LoanMailTransactionResponse> LoanMailTransactionResponses { get; set; }

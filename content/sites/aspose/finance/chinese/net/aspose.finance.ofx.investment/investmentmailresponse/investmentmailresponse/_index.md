@@ -1,14 +1,14 @@
 ---
 title: InvestmentMailResponse
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化InvestmentMailResponseaspose.finance.ofx.investment/investmentmailresponse类的新实例
+description: 初始化一个新的实例InvestmentMailResponseaspose.finance.ofx.investment/investmentmailresponse类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.investment/investmentmailresponse/investmentmailresponse/
 ---
 ## InvestmentMailResponse constructor
 
-初始化[`InvestmentMailResponse`](../../investmentmailresponse)类的新实例。
+初始化一个新的实例[`InvestmentMailResponse`](../../investmentmailresponse)类.
 
 ```csharp
 public InvestmentMailResponse()

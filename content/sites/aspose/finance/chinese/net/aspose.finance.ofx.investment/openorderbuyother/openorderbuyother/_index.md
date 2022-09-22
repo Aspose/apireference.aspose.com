@@ -1,14 +1,14 @@
 ---
 title: OpenOrderBuyOther
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化OpenOrderBuyOtheraspose.finance.ofx.investment/openorderbuyother类的新实例
+description: 初始化一个新的实例OpenOrderBuyOtheraspose.finance.ofx.investment/openorderbuyother类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.investment/openorderbuyother/openorderbuyother/
 ---
 ## OpenOrderBuyOther constructor
 
-初始化[`OpenOrderBuyOther`](../../openorderbuyother)类的新实例。
+初始化一个新的实例[`OpenOrderBuyOther`](../../openorderbuyother)类.
 
 ```csharp
 public OpenOrderBuyOther()

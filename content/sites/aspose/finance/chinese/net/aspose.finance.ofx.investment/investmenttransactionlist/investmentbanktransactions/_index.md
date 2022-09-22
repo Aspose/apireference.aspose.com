@@ -1,14 +1,14 @@
 ---
 title: InvestmentBankTransactions
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置InvestmentBankTransactionaspose.finance.ofx.investment/investmentbanktransaction的集合
+description: 获取或设置的集合InvestmentBankTransactionaspose.finance.ofx.investment/investmentbanktransaction.
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.ofx.investment/investmenttransactionlist/investmentbanktransactions/
 ---
 ## InvestmentTransactionList.InvestmentBankTransactions property
 
-获取或设置[`InvestmentBankTransaction`](../../investmentbanktransaction)的集合。
+获取或设置的集合[`InvestmentBankTransaction`](../../investmentbanktransaction).
 
 ```csharp
 public List<InvestmentBankTransaction> InvestmentBankTransactions { get; set; }

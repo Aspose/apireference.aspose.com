@@ -1,14 +1,14 @@
 ---
 title: OptionInfo
 second_title: Справочник по API Aspose.Finance для .NET
-description: Информационный класс опций.
+description: Класс информации об опциях.
 type: docs
 weight: 5090
 url: /ru/net/aspose.finance.ofx.securitieslist/optioninfo/
 ---
 ## OptionInfo class
 
-Информационный класс опций.
+Класс информации об опциях.
 
 ```csharp
 public class OptionInfo : AbstractSecurityInfo
@@ -18,18 +18,18 @@ public class OptionInfo : AbstractSecurityInfo
 
 | Имя | Описание |
 | --- | --- |
-| [OptionInfo](optioninfo)() | Инициализирует новый экземпляр класса[`OptionInfo`](../optioninfo). |
+| [OptionInfo](optioninfo)() | Инициализирует новый экземпляр[`OptionInfo`](../optioninfo) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [AssetClass](../../aspose.finance.ofx.securitieslist/optioninfo/assetclass) { get; set; } | Получает или задает класс актива. |
-| [ExpireDate](../../aspose.finance.ofx.securitieslist/optioninfo/expiredate) { get; set; } | Получает или задает срок действия. |
+| [AssetClass](../../aspose.finance.ofx.securitieslist/optioninfo/assetclass) { get; set; } | Получает или задает класс активов. |
+| [ExpireDate](../../aspose.finance.ofx.securitieslist/optioninfo/expiredate) { get; set; } | Получает или задает дату истечения срока действия. |
 | [FIAssetClass](../../aspose.finance.ofx.securitieslist/optioninfo/fiassetclass) { get; set; } | Получает или задает текстовую строку, содержащую класс активов, определенный FI. |
 | [OptionType](../../aspose.finance.ofx.securitieslist/optioninfo/optiontype) { get; set; } | Получает или задает тип параметра. |
-| [SecurityId](../../aspose.finance.ofx.securitieslist/optioninfo/securityid) { get; set; } | Получает или задает[`SecurityId`](./securityid). |
-| [SecurityInfo](../../aspose.finance.ofx.securitieslist/abstractsecurityinfo/securityinfo) { get; set; } | Получает или задает[`GeneralSecurityInfo`](../generalsecurityinfo). |
+| [SecurityId](../../aspose.finance.ofx.securitieslist/optioninfo/securityid) { get; set; } | Получает или задает[`SecurityId`](./securityid) . |
+| [SecurityInfo](../../aspose.finance.ofx.securitieslist/abstractsecurityinfo/securityinfo) { get; set; } | Получает или задает[`GeneralSecurityInfo`](../generalsecurityinfo) . |
 | [SharePerContract](../../aspose.finance.ofx.securitieslist/optioninfo/sharepercontract) { get; set; } | Получает или задает доли для каждого контракта. |
 | [StrikePrice](../../aspose.finance.ofx.securitieslist/optioninfo/strikeprice) { get; set; } | Получает или задает цену исполнения. |
 

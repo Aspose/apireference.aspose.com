@@ -1,14 +1,14 @@
 ---
 title: ServiceStatus2Enum
 second_title: Справочник по API Aspose.Finance для .NET
-description: Статус службы представления счетов enum.
+description: Состояние службы выставления счетов enum.
 type: docs
 weight: 5230
 url: /ru/net/aspose.finance.ofx/servicestatus2enum/
 ---
 ## ServiceStatus2Enum enumeration
 
-Статус службы представления счетов enum.
+Состояние службы выставления счетов enum.
 
 ```csharp
 public enum ServiceStatus2Enum
@@ -19,7 +19,7 @@ public enum ServiceStatus2Enum
 | Имя | Ценность | Описание |
 | --- | --- | --- |
 | AVAIL | `0` | Доступно |
-| PEND | `1` | На рассмотрении |
+| PEND | `1` | В ожидании |
 | ACTIVE | `2` | Активный |
 | REJECTED | `3` | Отклонено |
 

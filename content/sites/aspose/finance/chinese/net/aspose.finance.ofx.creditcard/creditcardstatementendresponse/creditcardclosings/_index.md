@@ -1,14 +1,14 @@
 ---
 title: CreditCardClosings
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置CreditCardClosingaspose.finance.ofx.creditcard/creditcardclosing的集合
+description: 获取或设置的集合CreditCardClosingaspose.finance.ofx.creditcard/creditcardclosing.
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.ofx.creditcard/creditcardstatementendresponse/creditcardclosings/
 ---
 ## CreditCardStatementEndResponse.CreditCardClosings property
 
-获取或设置[`CreditCardClosing`](../../creditcardclosing)的集合。
+获取或设置的集合[`CreditCardClosing`](../../creditcardclosing).
 
 ```csharp
 public List<CreditCardClosing> CreditCardClosings { get; set; }

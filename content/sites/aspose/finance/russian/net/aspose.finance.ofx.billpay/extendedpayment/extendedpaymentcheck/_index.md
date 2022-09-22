@@ -1,14 +1,14 @@
 ---
 title: ExtendedPaymentCheck
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает номер чека который будет использоваться для данного платежа.
+description: Получает или задает номер чека для данного платежа.
 type: docs
 weight: 20
 url: /ru/net/aspose.finance.ofx.billpay/extendedpayment/extendedpaymentcheck/
 ---
 ## ExtendedPayment.ExtendedPaymentCheck property
 
-Получает или задает номер чека, который будет использоваться для данного платежа.
+Получает или задает номер чека для данного платежа.
 
 ```csharp
 public string ExtendedPaymentCheck { get; set; }

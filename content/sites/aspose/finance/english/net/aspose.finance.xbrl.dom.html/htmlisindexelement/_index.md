@@ -3,7 +3,7 @@ title: HTMLIsIndexElement
 second_title: Aspose.Finance for .NET API Reference
 description: This class is used for single-line text input. See the ISINDEX element definition in HTML 4.01. This element is deprecated in HTML 4.01.
 type: docs
-weight: 6960
+weight: 6990
 url: /net/aspose.finance.xbrl.dom.html/htmlisindexelement/
 ---
 ## HTMLIsIndexElement class

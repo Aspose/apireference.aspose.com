@@ -1,14 +1,14 @@
 ---
 title: IsAbstract
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получите или задайте является ли это понятие абстрактным.
+description: Получить или установить является ли это понятие абстрактным.
 type: docs
 weight: 30
 url: /ru/net/aspose.finance.xbrl/concept/isabstract/
 ---
 ## Concept.IsAbstract property
 
-Получите или задайте, является ли это понятие абстрактным.
+Получить или установить, является ли это понятие абстрактным.
 
 ```csharp
 public bool IsAbstract { get; set; }

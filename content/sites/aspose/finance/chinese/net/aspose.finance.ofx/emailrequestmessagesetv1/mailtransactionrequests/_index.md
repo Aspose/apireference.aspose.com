@@ -1,14 +1,14 @@
 ---
 title: MailTransactionRequests
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置MailTransactionRequestaspose.finance.ofx.email/mailtransactionrequest的集合
+description: 获取或设置的集合MailTransactionRequestaspose.finance.ofx.email/mailtransactionrequest.
 type: docs
 weight: 40
 url: /zh/net/aspose.finance.ofx/emailrequestmessagesetv1/mailtransactionrequests/
 ---
 ## EmailRequestMessageSetV1.MailTransactionRequests property
 
-获取或设置[`MailTransactionRequest`](../../../aspose.finance.ofx.email/mailtransactionrequest)的集合。
+获取或设置的集合[`MailTransactionRequest`](../../../aspose.finance.ofx.email/mailtransactionrequest).
 
 ```csharp
 public List<MailTransactionRequest> MailTransactionRequests { get; set; }

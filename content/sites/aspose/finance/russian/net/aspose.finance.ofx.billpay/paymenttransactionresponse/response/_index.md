@@ -1,14 +1,14 @@
 ---
 title: Response
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задаетPaymentResponseaspose.finance.ofx.billpay/paymentresponseилиPaymentModResponseaspose.finance.ofx.billpay/paymentmodresponseилиPaymentCancelResponseaspose.finance.ofx.billpay/paymentcancelresponse.
+description: Получает или задаетPaymentResponseaspose.finance.ofx.billpay/paymentresponse или жеPaymentModResponseaspose.finance.ofx.billpay/paymentmodresponse или жеPaymentCancelResponseaspose.finance.ofx.billpay/paymentcancelresponse .
 type: docs
 weight: 30
 url: /ru/net/aspose.finance.ofx.billpay/paymenttransactionresponse/response/
 ---
 ## PaymentTransactionResponse.Response property
 
-Получает или задает[`PaymentResponse`](../../paymentresponse)или[`PaymentModResponse`](../../paymentmodresponse)или[`PaymentCancelResponse`](../../paymentcancelresponse).
+Получает или задает[`PaymentResponse`](../../paymentresponse) или же[`PaymentModResponse`](../../paymentmodresponse) или же[`PaymentCancelResponse`](../../paymentcancelresponse) .
 
 ```csharp
 public AbstractPaymentResponse Response { get; set; }

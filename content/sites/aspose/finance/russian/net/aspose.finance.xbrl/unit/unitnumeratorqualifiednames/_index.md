@@ -1,14 +1,14 @@
 ---
 title: UnitNumeratorQualifiedNames
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает коллекцию полного имени числителя используется когда типом единицы измерения является Divide.
+description: Получает коллекцию полного имени числителя оно используется когда типом единицы измерения является Divide.
 type: docs
 weight: 60
 url: /ru/net/aspose.finance.xbrl/unit/unitnumeratorqualifiednames/
 ---
 ## Unit.UnitNumeratorQualifiedNames property
 
-Получает коллекцию полного имени числителя, используется, когда типом единицы измерения является Divide.
+Получает коллекцию полного имени числителя, оно используется, когда типом единицы измерения является Divide.
 
 ```csharp
 public List<QualifiedName> UnitNumeratorQualifiedNames { get; }

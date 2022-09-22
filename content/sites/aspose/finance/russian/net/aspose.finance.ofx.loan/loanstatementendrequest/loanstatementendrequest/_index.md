@@ -1,14 +1,14 @@
 ---
 title: LoanStatementEndRequest
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаLoanStatementEndRequestaspose.finance.ofx.loan/loanstatementendrequest.
+description: Инициализирует новый экземплярLoanStatementEndRequestaspose.finance.ofx.loan/loanstatementendrequest класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.loan/loanstatementendrequest/loanstatementendrequest/
 ---
 ## LoanStatementEndRequest constructor
 
-Инициализирует новый экземпляр класса[`LoanStatementEndRequest`](../../loanstatementendrequest).
+Инициализирует новый экземпляр[`LoanStatementEndRequest`](../../loanstatementendrequest) класс.
 
 ```csharp
 public LoanStatementEndRequest()

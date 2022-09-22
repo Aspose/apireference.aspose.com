@@ -1,14 +1,14 @@
 ---
 title: InterModResponse
 second_title: Справочник по API Aspose.Finance для .NET
-description: Класс ответа на модификацию межбанковского перевода.
+description: Класс ответа на изменение межбанковского перевода.
 type: docs
 weight: 2420
 url: /ru/net/aspose.finance.ofx.intertransfer/intermodresponse/
 ---
 ## InterModResponse class
 
-Класс ответа на модификацию межбанковского перевода.
+Класс ответа на изменение межбанковского перевода.
 
 ```csharp
 public class InterModResponse : AbstractInterResponse
@@ -18,15 +18,15 @@ public class InterModResponse : AbstractInterResponse
 
 | Имя | Описание |
 | --- | --- |
-| [InterModResponse](intermodresponse)() | Инициализирует новый экземпляр класса[`InterModResponse`](../intermodresponse). |
+| [InterModResponse](intermodresponse)() | Инициализирует новый экземпляр[`InterModResponse`](../intermodresponse) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
 | [ServerId](../../aspose.finance.ofx.intertransfer/intermodresponse/serverid) { get; set; } | Получает или задает идентификатор, назначенный сервером для изменяемой передачи. |
-| [TransferInfo](../../aspose.finance.ofx.intertransfer/intermodresponse/transferinfo) { get; set; } | Получает или задает[`TransferInfo`](./transferinfo). |
-| [TransferProcessingStatus](../../aspose.finance.ofx.intertransfer/intermodresponse/transferprocessingstatus) { get; set; } | Получает или задает[`TransferProcessingStatus`](./transferprocessingstatus). |
+| [TransferInfo](../../aspose.finance.ofx.intertransfer/intermodresponse/transferinfo) { get; set; } | Получает или задает[`TransferInfo`](./transferinfo) . |
+| [TransferProcessingStatus](../../aspose.finance.ofx.intertransfer/intermodresponse/transferprocessingstatus) { get; set; } | Получает или задает[`TransferProcessingStatus`](./transferprocessingstatus) . |
 
 ### Смотрите также
 

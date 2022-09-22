@@ -1,14 +1,14 @@
 ---
 title: OpenOrderBuyOption
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化OpenOrderBuyOptionaspose.finance.ofx.investment/openorderbuyoption类的新实例
+description: 初始化一个新的实例OpenOrderBuyOptionaspose.finance.ofx.investment/openorderbuyoption类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.investment/openorderbuyoption/openorderbuyoption/
 ---
 ## OpenOrderBuyOption constructor
 
-初始化[`OpenOrderBuyOption`](../../openorderbuyoption)类的新实例。
+初始化一个新的实例[`OpenOrderBuyOption`](../../openorderbuyoption)类.
 
 ```csharp
 public OpenOrderBuyOption()

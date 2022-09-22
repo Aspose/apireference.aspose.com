@@ -1,14 +1,14 @@
 ---
 title: FilerAddress
 second_title: Справочник по API Aspose.Finance для .NET
-description: Класс адреса Filer.
+description: Класс адресов файлов.
 type: docs
 weight: 5740
 url: /ru/net/aspose.finance.ofx.tax1098/fileraddress/
 ---
 ## FilerAddress class
 
-Класс адреса Filer.
+Класс адресов файлов.
 
 ```csharp
 public class FilerAddress
@@ -18,19 +18,19 @@ public class FilerAddress
 
 | Имя | Описание |
 | --- | --- |
-| [FilerAddress](fileraddress)() | Инициализирует новый экземпляр класса[`FilerAddress`](../fileraddress). |
+| [FilerAddress](fileraddress)() | Инициализирует новый экземпляр[`FilerAddress`](../fileraddress) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [Address1](../../aspose.finance.ofx.tax1098/fileraddress/address1) { get; set; } | Получает или задает адрес файловой системы, строка 1. |
-| [Address2](../../aspose.finance.ofx.tax1098/fileraddress/address2) { get; set; } | Получает или задает адрес файловой системы, строка 2. |
-| [Address3](../../aspose.finance.ofx.tax1098/fileraddress/address3) { get; set; } | Получает или задает адрес файловой системы, строка 3. |
-| [City](../../aspose.finance.ofx.tax1098/fileraddress/city) { get; set; } | Возвращает или задает город адреса файла. |
+| [Address1](../../aspose.finance.ofx.tax1098/fileraddress/address1) { get; set; } | Получает или задает адрес файла, строка 1. |
+| [Address2](../../aspose.finance.ofx.tax1098/fileraddress/address2) { get; set; } | Получает или задает адрес файла, строка 2. |
+| [Address3](../../aspose.finance.ofx.tax1098/fileraddress/address3) { get; set; } | Получает или задает адрес файла, строка 3. |
+| [City](../../aspose.finance.ofx.tax1098/fileraddress/city) { get; set; } | Получает или задает адрес города. |
 | [CountryString](../../aspose.finance.ofx.tax1098/fileraddress/countrystring) { get; set; } | Получает или задает страну адреса файла. |
 | [FilerName](../../aspose.finance.ofx.tax1098/fileraddress/filername) { get; set; } | Получает или задает имя файла. |
-| [Phone](../../aspose.finance.ofx.tax1098/fileraddress/phone) { get; set; } | Получает или задает номер телефона адреса файла. |
+| [Phone](../../aspose.finance.ofx.tax1098/fileraddress/phone) { get; set; } | Получает или устанавливает телефонный номер адреса файла. |
 | [PostalCode](../../aspose.finance.ofx.tax1098/fileraddress/postalcode) { get; set; } | Получает или задает почтовый индекс адреса файла. |
 | [State](../../aspose.finance.ofx.tax1098/fileraddress/state) { get; set; } | Получает или задает состояние адреса файловой системы. |
 

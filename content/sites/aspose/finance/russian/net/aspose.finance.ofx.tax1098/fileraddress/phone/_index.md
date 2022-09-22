@@ -1,14 +1,14 @@
 ---
 title: Phone
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает номер телефона адреса файла.
+description: Получает или устанавливает телефонный номер адреса файла.
 type: docs
 weight: 80
 url: /ru/net/aspose.finance.ofx.tax1098/fileraddress/phone/
 ---
 ## FilerAddress.Phone property
 
-Получает или задает номер телефона адреса файла.
+Получает или устанавливает телефонный номер адреса файла.
 
 ```csharp
 public string Phone { get; set; }

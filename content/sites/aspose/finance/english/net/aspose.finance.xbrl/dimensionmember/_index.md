@@ -3,7 +3,7 @@ title: DimensionMember
 second_title: Aspose.Finance for .NET API Reference
 description: The class represents dimension member. It is defined in https//www.xbrl.org/specification/dimensions/rec-2012-01-25/dimensions-rec-2006-09-18corrected-errata-2012-01-25-clean.html.
 type: docs
-weight: 6620
+weight: 6650
 url: /net/aspose.finance.xbrl/dimensionmember/
 ---
 ## DimensionMember class

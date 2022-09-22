@@ -1,14 +1,14 @@
 ---
 title: TaxW2RequestMessageSetV1
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化TaxW2RequestMessageSetV1aspose.finance.ofx/taxw2requestmessagesetv1类的新实例
+description: 初始化一个新的实例TaxW2RequestMessageSetV1aspose.finance.ofx/taxw2requestmessagesetv1类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx/taxw2requestmessagesetv1/taxw2requestmessagesetv1/
 ---
 ## TaxW2RequestMessageSetV1 constructor
 
-初始化[`TaxW2RequestMessageSetV1`](../../taxw2requestmessagesetv1)类的新实例。
+初始化一个新的实例[`TaxW2RequestMessageSetV1`](../../taxw2requestmessagesetv1)类.
 
 ```csharp
 public TaxW2RequestMessageSetV1()

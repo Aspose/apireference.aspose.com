@@ -1,14 +1,14 @@
 ---
 title: CanSupportGroupId
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置是否支持一组用户的帐号信息请求
+description: 获取或设置是否支持一组用户的账号信息请求
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.ofx.profile/presentmentdlvprofile/cansupportgroupid/
 ---
 ## PresentmentDlvProfile.CanSupportGroupId property
 
-获取或设置是否支持一组用户的帐号信息请求。
+获取或设置是否支持一组用户的账号信息请求。
 
 ```csharp
 public bool CanSupportGroupId { get; set; }

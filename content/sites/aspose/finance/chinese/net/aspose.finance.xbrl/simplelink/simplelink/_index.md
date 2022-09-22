@@ -1,14 +1,14 @@
 ---
 title: SimpleLink
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化SimpleLinkaspose.finance.xbrl/simplelink类的新实例
+description: 初始化SimpleLinkaspose.finance.xbrl/simplelink类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.xbrl/simplelink/simplelink/
 ---
 ## SimpleLink constructor
 
-初始化[`SimpleLink`](../../simplelink)类的新实例。
+初始化[`SimpleLink`](../../simplelink)类.
 
 ```csharp
 public SimpleLink()

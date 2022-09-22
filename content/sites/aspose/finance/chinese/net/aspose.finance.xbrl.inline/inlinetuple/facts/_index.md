@@ -1,14 +1,14 @@
 ---
 title: Facts
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置InlineTupleaspose.finance.xbrl.inline/inlinetuple的子事实的集合
+description: 获取或设置子事实的集合InlineTupleaspose.finance.xbrl.inline/inlinetuple.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.xbrl.inline/inlinetuple/facts/
 ---
 ## InlineTuple.Facts property
 
-获取或设置[`InlineTuple`](../../inlinetuple)的子事实的集合。
+获取或设置子事实的集合[`InlineTuple`](../../inlinetuple).
 
 ```csharp
 public List<InlineFact> Facts { get; }

@@ -1,14 +1,14 @@
 ---
 title: InvestmentMailTransactionRequests
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает коллекциюInvestmentMailTransactionRequestaspose.finance.ofx.investment/investmentmailtransactionrequest.
+description: Получает или задает коллекциюInvestmentMailTransactionRequestaspose.finance.ofx.investment/investmentmailtransactionrequest .
 type: docs
 weight: 30
 url: /ru/net/aspose.finance.ofx/investmentstatementrequestmessagesetv1/investmentmailtransactionrequests/
 ---
 ## InvestmentStatementRequestMessageSetV1.InvestmentMailTransactionRequests property
 
-Получает или задает коллекцию[`InvestmentMailTransactionRequest`](../../../aspose.finance.ofx.investment/investmentmailtransactionrequest).
+Получает или задает коллекцию[`InvestmentMailTransactionRequest`](../../../aspose.finance.ofx.investment/investmentmailtransactionrequest) .
 
 ```csharp
 public List<InvestmentMailTransactionRequest> InvestmentMailTransactionRequests { get; set; }

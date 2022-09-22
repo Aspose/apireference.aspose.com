@@ -1,14 +1,14 @@
 ---
 title: ThirdPartySickPay
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или устанавливает стороннее пособие по болезни.
+description: Получает или устанавливает оплату больничного стороннего поставщика.
 type: docs
 weight: 200
 url: /ru/net/aspose.finance.ofx.taxw2/taxw2_v200/thirdpartysickpay/
 ---
 ## TaxW2_V200.ThirdPartySickPay property
 
-Получает или устанавливает стороннее пособие по болезни.
+Получает или устанавливает оплату больничного стороннего поставщика.
 
 ```csharp
 public bool ThirdPartySickPay { get; set; }

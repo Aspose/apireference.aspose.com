@@ -3,7 +3,7 @@ title: ProfileTransactionResponse
 second_title: Aspose.Finance for .NET API Reference
 description: Profile transaction response class.
 type: docs
-weight: 4730
+weight: 4750
 url: /net/aspose.finance.ofx.profile/profiletransactionresponse/
 ---
 ## ProfileTransactionResponse class

@@ -1,14 +1,14 @@
 ---
 title: UnitDenominatorQualifiedNames
 second_title: Aspose.Finance for .NET API 参考
-description: 获取分母限定名的集合单位类型为 Divide 时使用
+description: 获取分母限定名集合单位类型为Divide时使用
 type: docs
 weight: 50
 url: /zh/net/aspose.finance.xbrl/unit/unitdenominatorqualifiednames/
 ---
 ## Unit.UnitDenominatorQualifiedNames property
 
-获取分母限定名的集合，单位类型为 Divide 时使用。
+获取分母限定名集合，单位类型为Divide时使用。
 
 ```csharp
 public List<QualifiedName> UnitDenominatorQualifiedNames { get; set; }

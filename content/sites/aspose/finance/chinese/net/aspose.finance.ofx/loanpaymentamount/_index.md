@@ -1,14 +1,14 @@
 ---
 title: LoanPaymentAmount
 second_title: Aspose.Finance for .NET API 参考
-description: 贷款支付金额类
+description: 贷款还款额类
 type: docs
 weight: 4070
 url: /zh/net/aspose.finance.ofx/loanpaymentamount/
 ---
 ## LoanPaymentAmount class
 
-贷款支付金额类。
+贷款还款额类
 
 ```csharp
 public class LoanPaymentAmount
@@ -18,16 +18,16 @@ public class LoanPaymentAmount
 
 | 姓名 | 描述 |
 | --- | --- |
-| [LoanPaymentAmount](loanpaymentamount)() | 初始化[`LoanPaymentAmount`](../loanpaymentamount)类的新实例。 |
+| [LoanPaymentAmount](loanpaymentamount)() | 初始化一个新的实例[`LoanPaymentAmount`](../loanpaymentamount)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [EscrowAmount](../../aspose.finance.ofx/loanpaymentamount/escrowamount) { get; set; } | 获取或设置抵押贷款的[`EscrowAmount`](./escrowamount)。 |
+| [EscrowAmount](../../aspose.finance.ofx/loanpaymentamount/escrowamount) { get; set; } | 获取或设置[`EscrowAmount`](./escrowamount)抵押贷款。 |
 | [LateFeeAmount](../../aspose.finance.ofx/loanpaymentamount/latefeeamount) { get; set; } | 获取或设置滞纳金。 |
 | [LoanPaymentType](../../aspose.finance.ofx/loanpaymentamount/loanpaymenttype) { get; set; } | 获取或设置支付类型。 |
-| [PaymentAmount](../../aspose.finance.ofx/loanpaymentamount/paymentamount) { get; set; } | 获取或设置下一个贷款支付金额。 |
+| [PaymentAmount](../../aspose.finance.ofx/loanpaymentamount/paymentamount) { get; set; } | 获取或设置下一笔还款金额。 |
 | [PaymentDueDate](../../aspose.finance.ofx/loanpaymentamount/paymentduedate) { get; set; } | 获取或设置下一个付款到期日 |
 
 ### 也可以看看

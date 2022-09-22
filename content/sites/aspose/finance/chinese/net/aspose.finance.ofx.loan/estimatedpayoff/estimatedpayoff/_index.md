@@ -1,14 +1,14 @@
 ---
 title: EstimatedPayoff
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化EstimatedPayoffaspose.finance.ofx.loan/estimatedpayoff类的新实例
+description: 初始化一个新的实例EstimatedPayoffaspose.finance.ofx.loan/estimatedpayoff类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.loan/estimatedpayoff/estimatedpayoff/
 ---
 ## EstimatedPayoff constructor
 
-初始化[`EstimatedPayoff`](../../estimatedpayoff)类的新实例。
+初始化一个新的实例[`EstimatedPayoff`](../../estimatedpayoff)类.
 
 ```csharp
 public EstimatedPayoff()

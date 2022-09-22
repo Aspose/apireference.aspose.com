@@ -18,13 +18,13 @@ public class IntraRequest : AbstractIntraRequest
 
 | 姓名 | 描述 |
 | --- | --- |
-| [IntraRequest](intrarequest)() | 初始化[`IntraRequest`](../intrarequest)类的新实例。 |
+| [IntraRequest](intrarequest)() | 初始化一个新的实例[`IntraRequest`](../intrarequest)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [TransferInfo](../../aspose.finance.ofx.bank/intrarequest/transferinfo) { get; set; } | 获取或设置[`TransferInfo`](./transferinfo)。 |
+| [TransferInfo](../../aspose.finance.ofx.bank/intrarequest/transferinfo) { get; set; } | 获取或设置[`TransferInfo`](./transferinfo). |
 
 ### 也可以看看
 

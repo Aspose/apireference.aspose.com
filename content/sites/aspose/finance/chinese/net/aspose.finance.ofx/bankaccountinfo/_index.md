@@ -18,23 +18,23 @@ public class BankAccountInfo : AbstractAccountInfo
 
 | 姓名 | 描述 |
 | --- | --- |
-| [BankAccountInfo](bankaccountinfo)() | 初始化[`BankAccountInfo`](../bankaccountinfo)类的新实例。 |
+| [BankAccountInfo](bankaccountinfo)() | 初始化一个新的实例[`BankAccountInfo`](../bankaccountinfo)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
 | [AccountClassification](../../aspose.finance.ofx/bankaccountinfo/accountclassification) { get; set; } | 获取或设置账户分类。 |
-| [BankAccountFrom](../../aspose.finance.ofx/bankaccountinfo/bankaccountfrom) { get; set; } | 获取或设置[`BankAccount`](../bankaccount)的来源。 |
+| [BankAccountFrom](../../aspose.finance.ofx/bankaccountinfo/bankaccountfrom) { get; set; } | 获取或设置 from[`BankAccount`](../bankaccount). |
 | [LoanAccountType](../../aspose.finance.ofx/bankaccountinfo/loanaccounttype) { get; set; } | 获取或设置贷款账户类型 |
 | [MaturityAmount](../../aspose.finance.ofx/bankaccountinfo/maturityamount) { get; set; } | 获取或设置CD到期金额，仅适用于CD账户。 |
-| [MaturityDate](../../aspose.finance.ofx/bankaccountinfo/maturitydate) { get; set; } | 获取或设置CD的到期日期，仅适用于CD账户。 |
+| [MaturityDate](../../aspose.finance.ofx/bankaccountinfo/maturitydate) { get; set; } | 获取或设置CD的到期日，仅适用于CD账户。 |
 | [MinimumBalanceRequired](../../aspose.finance.ofx/bankaccountinfo/minimumbalancerequired) { get; set; } | 获取或设置避免服务费所需的最低余额。 |
-| [OverdraftLimit](../../aspose.finance.ofx/bankaccountinfo/overdraftlimit) { get; set; } | 获取或设置帐户上当前有效的透支限额 |
+| [OverdraftLimit](../../aspose.finance.ofx/bankaccountinfo/overdraftlimit) { get; set; } | 获取或设置帐户上的当前透支限额 |
 | [ServiceStatus](../../aspose.finance.ofx/bankaccountinfo/servicestatus) { get; set; } | 获取或设置账户状态。 |
-| [SupportTransactionDetailDownload](../../aspose.finance.ofx/bankaccountinfo/supporttransactiondetaildownload) { get; set; } | 如果账户支持交易明细下载，可以，如果只支持余额，不支持。 |
-| [TransferDestination](../../aspose.finance.ofx/bankaccountinfo/transferdestination) { get; set; } | 如果账户被启用作为银行内或银行间转账的目的地，是，否则，否。 |
-| [TransferSource](../../aspose.finance.ofx/bankaccountinfo/transfersource) { get; set; } | 如果启用帐户作为银行内或银行间转账的来源，则为是，否则为否。 |
+| [SupportTransactionDetailDownload](../../aspose.finance.ofx/bankaccountinfo/supporttransactiondetaildownload) { get; set; } | 如果账户支持交易明细下载，是的，如果是仅余额，否。 |
+| [TransferDestination](../../aspose.finance.ofx/bankaccountinfo/transferdestination) { get; set; } | 如果帐户被启用作为银行内或银行间转账的目的地，是，否则，否。 |
+| [TransferSource](../../aspose.finance.ofx/bankaccountinfo/transfersource) { get; set; } | 如果账户被启用作为银行内或银行间转账的来源，是，否则，否。 |
 
 ### 也可以看看
 

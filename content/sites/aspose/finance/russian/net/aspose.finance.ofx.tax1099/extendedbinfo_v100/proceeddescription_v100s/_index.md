@@ -1,14 +1,14 @@
 ---
 title: ProceedDescription_V100s
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает коллекциюProceedDescription_V100aspose.finance.ofx.tax1099/proceeddescription_v100.
+description: Получает или задает коллекциюProceedDescription_V100aspose.finance.ofx.tax1099/proceeddescription_v100 .
 type: docs
 weight: 20
 url: /ru/net/aspose.finance.ofx.tax1099/extendedbinfo_v100/proceeddescription_v100s/
 ---
 ## ExtendedBInfo_V100.ProceedDescription_V100s property
 
-Получает или задает коллекцию[`ProceedDescription_V100`](../../proceeddescription_v100).
+Получает или задает коллекцию[`ProceedDescription_V100`](../../proceeddescription_v100) .
 
 ```csharp
 public List<ProceedDescription_V100> ProceedDescription_V100s { get; set; }

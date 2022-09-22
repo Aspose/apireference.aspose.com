@@ -18,14 +18,14 @@ public class VestInfo
 
 | Имя | Описание |
 | --- | --- |
-| [VestInfo](vestinfo)() | Инициализирует новый экземпляр класса[`VestInfo`](../vestinfo). |
+| [VestInfo](vestinfo)() | Инициализирует новый экземпляр[`VestInfo`](../vestinfo) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
 | [VestDate](../../aspose.finance.ofx.investment/vestinfo/vestdate) { get; set; } | Получает или задает дату изменения процентного соотношения. По умолчанию установленный процент применяется к текущей дате. |
-| [VestPercent](../../aspose.finance.ofx.investment/vestinfo/vestpercent) { get; set; } | Получает или задает расчетный процент закрепленных прав на соответствующую дату. |
+| [VestPercent](../../aspose.finance.ofx.investment/vestinfo/vestpercent) { get; set; } | Получает или задает оценочный процент закрепленных прав на соответствующую дату. |
 
 ### Смотрите также
 

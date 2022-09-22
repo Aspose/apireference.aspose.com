@@ -1,14 +1,14 @@
 ---
 title: ContextRef
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает ссылку наContextaspose.finance.xbrl/contextInlineNonnumericaspose.finance.xbrl.inline/inlinenonnumeric.
+description: Получает или задает ссылку наContextaspose.finance.xbrl/context принадлежащийInlineNonnumericaspose.finance.xbrl.inline/inlinenonnumeric .
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.xbrl.inline/inlinenonnumeric/contextref/
 ---
 ## InlineNonnumeric.ContextRef property
 
-Получает или задает ссылку на[`Context`](../../../aspose.finance.xbrl/context)[`InlineNonnumeric`](../../inlinenonnumeric).
+Получает или задает ссылку на[`Context`](../../../aspose.finance.xbrl/context) принадлежащий[`InlineNonnumeric`](../../inlinenonnumeric) .
 
 ```csharp
 public Context ContextRef { get; set; }

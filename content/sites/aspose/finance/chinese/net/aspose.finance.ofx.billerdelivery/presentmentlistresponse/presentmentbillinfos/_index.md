@@ -1,14 +1,14 @@
 ---
 title: PresentmentBillInfos
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置PresentmentBillInfoaspose.finance.ofx.billerdelivery/presentmentbillinfo的集合
+description: 获取或设置的集合PresentmentBillInfoaspose.finance.ofx.billerdelivery/presentmentbillinfo.
 type: docs
 weight: 40
 url: /zh/net/aspose.finance.ofx.billerdelivery/presentmentlistresponse/presentmentbillinfos/
 ---
 ## PresentmentListResponse.PresentmentBillInfos property
 
-获取或设置[`PresentmentBillInfo`](../../presentmentbillinfo)的集合。
+获取或设置的集合[`PresentmentBillInfo`](../../presentmentbillinfo).
 
 ```csharp
 public List<PresentmentBillInfo> PresentmentBillInfos { get; set; }

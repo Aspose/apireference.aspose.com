@@ -1,14 +1,14 @@
 ---
 title: SecurityListTransactionRequests
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает коллекциюSecurityListTransactionRequestaspose.finance.ofx.securitieslist/securitylisttransactionrequest.
+description: Получает или задает коллекциюSecurityListTransactionRequestaspose.finance.ofx.securitieslist/securitylisttransactionrequest .
 type: docs
 weight: 20
 url: /ru/net/aspose.finance.ofx/securitylistrequestmessagesetv1/securitylisttransactionrequests/
 ---
 ## SecurityListRequestMessageSetV1.SecurityListTransactionRequests property
 
-Получает или задает коллекцию[`SecurityListTransactionRequest`](../../../aspose.finance.ofx.securitieslist/securitylisttransactionrequest).
+Получает или задает коллекцию[`SecurityListTransactionRequest`](../../../aspose.finance.ofx.securitieslist/securitylisttransactionrequest) .
 
 ```csharp
 public List<SecurityListTransactionRequest> SecurityListTransactionRequests { get; set; }

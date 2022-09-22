@@ -18,17 +18,17 @@ public class InceptToDate
 
 | 姓名 | 描述 |
 | --- | --- |
-| [InceptToDate](incepttodate)() | 初始化[`InceptToDate`](../incepttodate)类的新实例。 |
+| [InceptToDate](incepttodate)() | 初始化一个新的实例[`InceptToDate`](../incepttodate)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Contributions](../../aspose.finance.ofx.investment/incepttodate/contributions) { get; set; } | 获取或设置[`Contributions`](./contributions)。 |
-| [Earnings](../../aspose.finance.ofx.investment/incepttodate/earnings) { get; set; } | 获取或设置[`Earnings`](./earnings)。 |
-| [EndDate](../../aspose.finance.ofx.investment/incepttodate/enddate) { get; set; } | 获取或设置起始至今信息的结束日期。 |
+| [Contributions](../../aspose.finance.ofx.investment/incepttodate/contributions) { get; set; } | 获取或设置[`Contributions`](./contributions). |
+| [Earnings](../../aspose.finance.ofx.investment/incepttodate/earnings) { get; set; } | 获取或设置[`Earnings`](./earnings). |
+| [EndDate](../../aspose.finance.ofx.investment/incepttodate/enddate) { get; set; } | 获取或设置起始日期信息的结束日期。 |
 | [StartDate](../../aspose.finance.ofx.investment/incepttodate/startdate) { get; set; } | 获取或设置此帐户的开始日期。 |
-| [Withdrawals](../../aspose.finance.ofx.investment/incepttodate/withdrawals) { get; set; } | 获取或设置[`Withdrawals`](./withdrawals)。 |
+| [Withdrawals](../../aspose.finance.ofx.investment/incepttodate/withdrawals) { get; set; } | 获取或设置[`Withdrawals`](./withdrawals). |
 
 ### 也可以看看
 

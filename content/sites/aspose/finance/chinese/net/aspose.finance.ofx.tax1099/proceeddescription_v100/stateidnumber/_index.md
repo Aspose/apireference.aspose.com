@@ -1,14 +1,14 @@
 ---
 title: StateIdNumber
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置付款人的州 ID 号
+description: 获取或设置付款人的状态ID号
 type: docs
 weight: 180
 url: /zh/net/aspose.finance.ofx.tax1099/proceeddescription_v100/stateidnumber/
 ---
 ## ProceedDescription_V100.StateIdNumber property
 
-获取或设置付款人的州 ID 号。
+获取或设置付款人的状态ID号。
 
 ```csharp
 public string StateIdNumber { get; set; }

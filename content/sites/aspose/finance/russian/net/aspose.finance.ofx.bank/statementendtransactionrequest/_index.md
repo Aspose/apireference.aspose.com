@@ -1,14 +1,14 @@
 ---
 title: StatementEndTransactionRequest
 second_title: Справочник по API Aspose.Finance для .NET
-description: Класс запроса транзакции заключительного заявления.
+description: Класс запроса транзакции заявления о закрытии.
 type: docs
 weight: 650
 url: /ru/net/aspose.finance.ofx.bank/statementendtransactionrequest/
 ---
 ## StatementEndTransactionRequest class
 
-Класс запроса транзакции заключительного заявления.
+Класс запроса транзакции заявления о закрытии.
 
 ```csharp
 public class StatementEndTransactionRequest : AbstractTransactionRequest
@@ -18,15 +18,15 @@ public class StatementEndTransactionRequest : AbstractTransactionRequest
 
 | Имя | Описание |
 | --- | --- |
-| [StatementEndTransactionRequest](statementendtransactionrequest)() | Инициализирует новый экземпляр класса[`StatementEndTransactionRequest`](../statementendtransactionrequest). |
+| [StatementEndTransactionRequest](statementendtransactionrequest)() | Инициализирует новый экземпляр[`StatementEndTransactionRequest`](../statementendtransactionrequest) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [ClientCookie](../../aspose.finance.ofx/abstracttransactionrequest/clientcookie) { get; set; } | Получает или задает данные, которые будут отображаться в ответе транзакции |
-| [OfxExtension](../../aspose.finance.ofx.bank/statementendtransactionrequest/ofxextension) { get; set; } | Получает или задает[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
-| [StatementEndRequest](../../aspose.finance.ofx.bank/statementendtransactionrequest/statementendrequest) { get; set; } | Получает или задает[`StatementEndRequest`](./statementendrequest). |
+| [ClientCookie](../../aspose.finance.ofx/abstracttransactionrequest/clientcookie) { get; set; } | Получает или задает данные, которые будут отражены в транзакции response |
+| [OfxExtension](../../aspose.finance.ofx.bank/statementendtransactionrequest/ofxextension) { get; set; } | Получает или задает[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype) . |
+| [StatementEndRequest](../../aspose.finance.ofx.bank/statementendtransactionrequest/statementendrequest) { get; set; } | Получает или задает[`StatementEndRequest`](./statementendrequest) . |
 | [TransactionAuthorizationNumber](../../aspose.finance.ofx/abstracttransactionrequest/transactionauthorizationnumber) { get; set; } | Получает или задает номер авторизации транзакции. |
 | [TransactionUniqueId](../../aspose.finance.ofx/abstracttransactionrequest/transactionuniqueid) { get; set; } | Получает или задает назначенный клиентом глобальный уникальный идентификатор для этой транзакции |
 

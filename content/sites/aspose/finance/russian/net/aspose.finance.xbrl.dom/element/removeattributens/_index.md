@@ -21,7 +21,7 @@ public bool RemoveAttributeNS(string namespaceURI, string localName)
 
 ### Возвращаемое значение
 
-True, если найти и удалить атрибут, иначе false.
+Истина, если найти и удалить атрибут, иначе ложь.
 
 ### Смотрите также
 

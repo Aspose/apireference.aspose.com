@@ -18,13 +18,13 @@ public class MailRequest
 
 | Имя | Описание |
 | --- | --- |
-| [MailRequest](mailrequest)() | Инициализирует новый экземпляр класса[`MailRequest`](../mailrequest). |
+| [MailRequest](mailrequest)() | Инициализирует новый экземпляр[`MailRequest`](../mailrequest) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [Mail](../../aspose.finance.ofx.email/mailrequest/mail) { get; set; } | Получает или задает[`Mail`](./mail). |
+| [Mail](../../aspose.finance.ofx.email/mailrequest/mail) { get; set; } | Получает или задает[`Mail`](./mail) . |
 
 ### Смотрите также
 

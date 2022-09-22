@@ -1,14 +1,14 @@
 ---
 title: Include
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает следует ли включать позиции в загрузку выписки.
+description: Получает или задает следует ли включать позиции в загрузку инструкции.
 type: docs
 weight: 30
 url: /ru/net/aspose.finance.ofx.investment/incposition/include/
 ---
 ## IncPosition.Include property
 
-Получает или задает, следует ли включать позиции в загрузку выписки.
+Получает или задает, следует ли включать позиции в загрузку инструкции.
 
 ```csharp
 public bool Include { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: LoanMessageSetV1
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置LoanMessageSetV1aspose.finance.ofx.profile/loanmessageset/loanmessagesetv1
+description: 获取或设置LoanMessageSetV1aspose.finance.ofx.profile/loanmessageset/loanmessagesetv1.
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.ofx.profile/loanmessageset/loanmessagesetv1/
 ---
 ## LoanMessageSet.LoanMessageSetV1 property
 
-获取或设置`LoanMessageSetV1`。
+获取或设置`LoanMessageSetV1`.
 
 ```csharp
 public LoanMessageSetV1 LoanMessageSetV1 { get; set; }

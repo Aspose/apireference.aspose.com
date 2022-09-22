@@ -1,14 +1,14 @@
 ---
 title: IsValid
 second_title: Справочник по API Aspose.Finance для .NET
-description: Проверяет действителен ли этот отчет XBRL.
+description: Проверяет является ли этот экземпляр XBRL действительным.
 type: docs
 weight: 230
 url: /ru/net/aspose.finance.xbrl/xbrlinstance/isvalid/
 ---
 ## XbrlInstance.IsValid method
 
-Проверяет, действителен ли этот отчет XBRL.
+Проверяет, является ли этот экземпляр XBRL действительным.
 
 ```csharp
 public bool IsValid()

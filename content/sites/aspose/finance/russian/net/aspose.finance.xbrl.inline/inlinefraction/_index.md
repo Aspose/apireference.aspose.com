@@ -18,16 +18,16 @@ public class InlineFraction : InlineFact
 
 | Имя | Описание |
 | --- | --- |
-| [ContextRef](../../aspose.finance.xbrl.inline/inlinefraction/contextref) { get; set; } | Получает или задает ссылку на[`Context`](../../aspose.finance.xbrl/context)[`InlineFraction`](../inlinefraction). |
+| [ContextRef](../../aspose.finance.xbrl.inline/inlinefraction/contextref) { get; set; } | Получает или задает ссылку на[`Context`](../../aspose.finance.xbrl/context) принадлежащий[`InlineFraction`](../inlinefraction) . |
 | [Hidden](../../aspose.finance.xbrl.inline/inlinefact/hidden) { get; set; } | Получает или задает, скрыт ли этот факт. |
 | [Id](../../aspose.finance.xbrl.inline/inlinefact/id) { get; set; } | Получает или задает идентификатор встроенного факта. |
 | [Name](../../aspose.finance.xbrl.inline/inlinefact/name) { get; set; } | Получает или задает полное имя встроенного факта. |
-| [Order](../../aspose.finance.xbrl.inline/inlinefraction/order) { get; set; } | Получает или задает порядок[`InlineFraction`](../inlinefraction). |
-| [SchemaConcept](../../aspose.finance.xbrl.inline/inlinefraction/schemaconcept) { get; } | Получает концепцию[`InlineFraction`](../inlinefraction). |
-| [TargetId](../../aspose.finance.xbrl.inline/inlinefraction/targetid) { get; set; } | Получает или задает целевой идентификатор[`InlineFraction`](../inlinefraction). |
-| [TupleRefId](../../aspose.finance.xbrl.inline/inlinefraction/tuplerefid) { get; set; } | Получает или задает идентификатор ссылки на кортеж[`InlineFraction`](../inlinefraction). |
-| [UnitRef](../../aspose.finance.xbrl.inline/inlinefraction/unitref) { get; set; } | Получает или задает ссылку на[`Unit`](../../aspose.finance.xbrl/unit)[`InlineFraction`](../inlinefraction). |
-| [Value](../../aspose.finance.xbrl.inline/inlinefraction/value) { get; set; } | Получает или задает значение[`InlineFraction`](../inlinefraction). |
+| [Order](../../aspose.finance.xbrl.inline/inlinefraction/order) { get; set; } | Получает или задает порядок[`InlineFraction`](../inlinefraction) . |
+| [SchemaConcept](../../aspose.finance.xbrl.inline/inlinefraction/schemaconcept) { get; } | Получает концепцию[`InlineFraction`](../inlinefraction) . |
+| [TargetId](../../aspose.finance.xbrl.inline/inlinefraction/targetid) { get; set; } | Получает или задает целевой идентификатор[`InlineFraction`](../inlinefraction) . |
+| [TupleRefId](../../aspose.finance.xbrl.inline/inlinefraction/tuplerefid) { get; set; } | Получает или задает идентификатор ссылки на кортеж[`InlineFraction`](../inlinefraction) . |
+| [UnitRef](../../aspose.finance.xbrl.inline/inlinefraction/unitref) { get; set; } | Получает или задает ссылку на[`Unit`](../../aspose.finance.xbrl/unit) принадлежащий[`InlineFraction`](../inlinefraction) . |
+| [Value](../../aspose.finance.xbrl.inline/inlinefraction/value) { get; set; } | Получает или задает значение[`InlineFraction`](../inlinefraction) . |
 
 ### Смотрите также
 

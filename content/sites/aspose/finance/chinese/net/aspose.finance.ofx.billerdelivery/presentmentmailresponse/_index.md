@@ -1,14 +1,14 @@
 ---
 title: PresentmentMailResponse
 second_title: Aspose.Finance for .NET API 参考
-description: 账单演示邮件响应类
+description: 账单提示邮件响应类
 type: docs
 weight: 1740
 url: /zh/net/aspose.finance.ofx.billerdelivery/presentmentmailresponse/
 ---
 ## PresentmentMailResponse class
 
-账单演示邮件响应类。
+账单提示邮件响应类。
 
 ```csharp
 public class PresentmentMailResponse
@@ -18,14 +18,14 @@ public class PresentmentMailResponse
 
 | 姓名 | 描述 |
 | --- | --- |
-| [PresentmentMailResponse](presentmentmailresponse)() | 初始化[`PresentmentMailResponse`](../presentmentmailresponse)类的新实例。 |
+| [PresentmentMailResponse](presentmentmailresponse)() | 初始化一个新的实例[`PresentmentMailResponse`](../presentmentmailresponse)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Mail](../../aspose.finance.ofx.billerdelivery/presentmentmailresponse/mail) { get; set; } | 获取或设置[`Mail`](./mail)。 |
-| [PresentmentAccountFrom](../../aspose.finance.ofx.billerdelivery/presentmentmailresponse/presentmentaccountfrom) { get; set; } | 获取或设置[`PresentmentAccount`](../../aspose.finance.ofx/presentmentaccount)的来源。 |
+| [Mail](../../aspose.finance.ofx.billerdelivery/presentmentmailresponse/mail) { get; set; } | 获取或设置[`Mail`](./mail). |
+| [PresentmentAccountFrom](../../aspose.finance.ofx.billerdelivery/presentmentmailresponse/presentmentaccountfrom) { get; set; } | 获取或设置 from[`PresentmentAccount`](../../aspose.finance.ofx/presentmentaccount). |
 
 ### 也可以看看
 

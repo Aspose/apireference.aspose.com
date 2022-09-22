@@ -18,14 +18,14 @@ public class FindBillerResponse
 
 | Имя | Описание |
 | --- | --- |
-| [FindBillerResponse](findbillerresponse)() | Инициализирует новый экземпляр класса[`FindBillerResponse`](../findbillerresponse). |
+| [FindBillerResponse](findbillerresponse)() | Инициализирует новый экземпляр[`FindBillerResponse`](../findbillerresponse) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [BillerInfos](../../aspose.finance.ofx.billerdirectory/findbillerresponse/billerinfos) { get; set; } | Получает или задает коллекцию[`BillerInfo`](../billerinfo). |
-| [UpdateDate](../../aspose.finance.ofx.billerdirectory/findbillerresponse/updatedate) { get; set; } | Получает или задает дату и время последнего добавления или изменения записей в каталоге, независимо от того, являются они частью этого ответа или нет. |
+| [BillerInfos](../../aspose.finance.ofx.billerdirectory/findbillerresponse/billerinfos) { get; set; } | Получает или задает коллекцию[`BillerInfo`](../billerinfo) . |
+| [UpdateDate](../../aspose.finance.ofx.billerdirectory/findbillerresponse/updatedate) { get; set; } | Получает или задает дату и время последнего добавления или изменения записей в каталоге, независимо от того, является ли он частью этого ответа или нет. |
 
 ### Смотрите также
 

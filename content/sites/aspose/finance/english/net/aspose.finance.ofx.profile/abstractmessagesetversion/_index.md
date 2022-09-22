@@ -3,7 +3,7 @@ title: AbstractMessageSetVersion
 second_title: Aspose.Finance for .NET API Reference
 description: Abstract base class of message set implementation related classes
 type: docs
-weight: 4360
+weight: 4380
 url: /net/aspose.finance.ofx.profile/abstractmessagesetversion/
 ---
 ## AbstractMessageSetVersion class

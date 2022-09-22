@@ -1,14 +1,14 @@
 ---
 title: Invoices
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置Invoiceaspose.finance.ofx/invoice的集合
+description: 获取或设置的集合Invoiceaspose.finance.ofx/invoice.
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.ofx.billpay/extendedpaymentinvoice/invoices/
 ---
 ## ExtendedPaymentInvoice.Invoices property
 
-获取或设置[`Invoice`](../../../aspose.finance.ofx/invoice)的集合。
+获取或设置的集合[`Invoice`](../../../aspose.finance.ofx/invoice).
 
 ```csharp
 public List<Invoice> Invoices { get; set; }

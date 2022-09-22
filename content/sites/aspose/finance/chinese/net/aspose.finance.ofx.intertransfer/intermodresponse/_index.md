@@ -8,7 +8,7 @@ url: /zh/net/aspose.finance.ofx.intertransfer/intermodresponse/
 ---
 ## InterModResponse class
 
-跨行转账修改响应类。
+跨行转账修改响应类
 
 ```csharp
 public class InterModResponse : AbstractInterResponse
@@ -18,15 +18,15 @@ public class InterModResponse : AbstractInterResponse
 
 | 姓名 | 描述 |
 | --- | --- |
-| [InterModResponse](intermodresponse)() | 初始化[`InterModResponse`](../intermodresponse)类的新实例。 |
+| [InterModResponse](intermodresponse)() | 初始化一个新的实例[`InterModResponse`](../intermodresponse)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
 | [ServerId](../../aspose.finance.ofx.intertransfer/intermodresponse/serverid) { get; set; } | 获取或设置服务器分配给正在修改的传输的ID。 |
-| [TransferInfo](../../aspose.finance.ofx.intertransfer/intermodresponse/transferinfo) { get; set; } | 获取或设置[`TransferInfo`](./transferinfo)。 |
-| [TransferProcessingStatus](../../aspose.finance.ofx.intertransfer/intermodresponse/transferprocessingstatus) { get; set; } | 获取或设置[`TransferProcessingStatus`](./transferprocessingstatus)。 |
+| [TransferInfo](../../aspose.finance.ofx.intertransfer/intermodresponse/transferinfo) { get; set; } | 获取或设置[`TransferInfo`](./transferinfo). |
+| [TransferProcessingStatus](../../aspose.finance.ofx.intertransfer/intermodresponse/transferprocessingstatus) { get; set; } | 获取或设置[`TransferProcessingStatus`](./transferprocessingstatus). |
 
 ### 也可以看看
 

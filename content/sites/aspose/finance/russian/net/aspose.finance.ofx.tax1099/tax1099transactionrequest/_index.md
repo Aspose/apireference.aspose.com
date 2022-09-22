@@ -18,14 +18,14 @@ public class Tax1099TransactionRequest : AbstractTransactionRequest
 
 | Имя | Описание |
 | --- | --- |
-| [Tax1099TransactionRequest](tax1099transactionrequest)() | Инициализирует новый экземпляр класса[`Tax1099TransactionRequest`](../tax1099transactionrequest). |
+| [Tax1099TransactionRequest](tax1099transactionrequest)() | Инициализирует новый экземпляр[`Tax1099TransactionRequest`](../tax1099transactionrequest) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [ClientCookie](../../aspose.finance.ofx/abstracttransactionrequest/clientcookie) { get; set; } | Получает или задает данные, которые будут отображаться в ответе транзакции |
-| [Tax1099Request](../../aspose.finance.ofx.tax1099/tax1099transactionrequest/tax1099request) { get; set; } | Получает или задает[`Tax1099Request`](./tax1099request). |
+| [ClientCookie](../../aspose.finance.ofx/abstracttransactionrequest/clientcookie) { get; set; } | Получает или задает данные, которые будут отражены в транзакции response |
+| [Tax1099Request](../../aspose.finance.ofx.tax1099/tax1099transactionrequest/tax1099request) { get; set; } | Получает или задает[`Tax1099Request`](./tax1099request) . |
 | [TransactionAuthorizationNumber](../../aspose.finance.ofx/abstracttransactionrequest/transactionauthorizationnumber) { get; set; } | Получает или задает номер авторизации транзакции. |
 | [TransactionUniqueId](../../aspose.finance.ofx/abstracttransactionrequest/transactionuniqueid) { get; set; } | Получает или задает назначенный клиентом глобальный уникальный идентификатор для этой транзакции |
 

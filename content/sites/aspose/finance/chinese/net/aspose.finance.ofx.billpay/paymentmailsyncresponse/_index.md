@@ -8,7 +8,7 @@ url: /zh/net/aspose.finance.ofx.billpay/paymentmailsyncresponse/
 ---
 ## PaymentMailSyncResponse class
 
-支付邮件同步响应类。
+支付邮件同步响应类
 
 ```csharp
 public class PaymentMailSyncResponse : AbstractSyncResponse
@@ -18,15 +18,15 @@ public class PaymentMailSyncResponse : AbstractSyncResponse
 
 | 姓名 | 描述 |
 | --- | --- |
-| [PaymentMailSyncResponse](paymentmailsyncresponse)() | 初始化[`PaymentMailSyncResponse`](../paymentmailsyncresponse)类的新实例。 |
+| [PaymentMailSyncResponse](paymentmailsyncresponse)() | 初始化一个新的实例[`PaymentMailSyncResponse`](../paymentmailsyncresponse)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [LostSynchronization](../../aspose.finance.ofx/abstractsyncresponse/lostsynchronization) { get; set; } | 如果同步请求中的令牌早于服务器历史记录表中的最早条目，则是。在这种情况下，一些响应已经丢失。 如果同步请求中的令牌比服务器历史记录表中的令牌更新或匹配，则否。 |
-| [OfxExtension](../../aspose.finance.ofx.billpay/paymentmailsyncresponse/ofxextension) { get; set; } | 获取或设置[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype)。 |
-| [PaymentMailTransactionResponses](../../aspose.finance.ofx.billpay/paymentmailsyncresponse/paymentmailtransactionresponses) { get; set; } | 获取或设置[`PaymentMailTransactionResponse`](../paymentmailtransactionresponse)的集合。 |
+| [LostSynchronization](../../aspose.finance.ofx/abstractsyncresponse/lostsynchronization) { get; set; } | 如果同步请求中的令牌比服务器历史表中最早的条目更旧，则为是。在这种情况下，一些响应已丢失。 如果同步请求中的令牌比服务器历史表中的令牌更新或匹配，则为否历史表. |
+| [OfxExtension](../../aspose.finance.ofx.billpay/paymentmailsyncresponse/ofxextension) { get; set; } | 获取或设置[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
+| [PaymentMailTransactionResponses](../../aspose.finance.ofx.billpay/paymentmailsyncresponse/paymentmailtransactionresponses) { get; set; } | 获取或设置的集合[`PaymentMailTransactionResponse`](../paymentmailtransactionresponse). |
 | [Token](../../aspose.finance.ofx/abstractsyncresponse/token) { get; set; } | 获取或设置新的同步令牌。 |
 
 ### 也可以看看

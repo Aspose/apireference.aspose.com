@@ -1,14 +1,14 @@
 ---
 title: CreditCardAccount
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置CreditCardAccountaspose.finance.ofx.creditcard/creditcardstatementendresponse/creditcardaccount的来源
+description: 获取或设置 fromCreditCardAccountaspose.finance.ofx.creditcard/creditcardstatementendresponse/creditcardaccount.
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.ofx.creditcard/creditcardstatementendresponse/creditcardaccount/
 ---
 ## CreditCardStatementEndResponse.CreditCardAccount property
 
-获取或设置`CreditCardAccount`的来源。
+获取或设置 from`CreditCardAccount`.
 
 ```csharp
 public CreditCardAccount CreditCardAccount { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: RecurringIntraModResponse
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化RecurringIntraModResponseaspose.finance.ofx.bank/recurringintramodresponse类的新实例
+description: 初始化一个新的实例RecurringIntraModResponseaspose.finance.ofx.bank/recurringintramodresponse类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.bank/recurringintramodresponse/recurringintramodresponse/
 ---
 ## RecurringIntraModResponse constructor
 
-初始化[`RecurringIntraModResponse`](../../recurringintramodresponse)类的新实例。
+初始化一个新的实例[`RecurringIntraModResponse`](../../recurringintramodresponse)类.
 
 ```csharp
 public RecurringIntraModResponse()

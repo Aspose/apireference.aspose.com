@@ -61,9 +61,11 @@ url: /net/aspose.finance.ofx/
 | [InvestmentStatementRequestMessageSetV1](./investmentstatementrequestmessagesetv1) | Investment statement request messages set version 1 class. |
 | [InvestmentStatementResponseMessageSetV1](./investmentstatementresponsemessagesetv1) | Investment statement response messages set version 1 class. |
 | [Invoice](./invoice) | Invoice class. |
+| [IOConfig](./ioconfig) |  |
 | [LastPmtInfoType](./lastpmtinfotype) | Last payment information type class. |
 | [LedgerBalance](./ledgerbalance) | Ledger balance class. |
 | [LineItem](./lineitem) | Line item class. |
+| [LoadOptions](./loadoptions) | The base class to configure options in file loading for different types |
 | [LoanAccount](./loanaccount) | Open Financial Exchange uses the Loan Account to identify a loan account at a financial institution.The class contains enough information to uniquely identify an account for the purpose of statement download and funds transfer. |
 | [LoanAccountInfo](./loanaccountinfo) | Loan account information. |
 | [LoanDetailType](./loandetailtype) | Loan detail class. |
@@ -95,6 +97,7 @@ url: /net/aspose.finance.ofx/
 | [ProfileResponseMessageSetV1](./profileresponsemessagesetv1) | Profile response messages set version 1 class. |
 | [RecurringInstructions](./recurringinstructions) | Recurring instructions class. |
 | [RewardInfoType](./rewardinfotype) | Opening aggregate for reward/points program current information. |
+| [SaveOptions](./saveoptions) | Represents save options. |
 | [SecurityId](./securityid) | Securities must be consistently identified to allow client applications to prepare accurate investment reports across all user investment accounts, even at multiple FIs.At this time, neither a security name nor its symbol is standardized.Therefore, OFX uses CUSIP numbers (a unique 9-digit alphanumeric identifier) to identify securities. CUSIP numbers are available for the vast majority of securities traded today, including those without symbols such as bonds. For a security that does not have a CUSIP, a financial institution must follow the standard procedure of assigning a CUSIP by using itself as the issuer to avoid conflict with any other CUSIP. |
 | [SecurityListRequestMessageSetV1](./securitylistrequestmessagesetv1) | Security list request messages set version 1 class. |
 | [SecurityListResponseMessageSetV1](./securitylistresponsemessagesetv1) | Security list response messages set version 1 class. |

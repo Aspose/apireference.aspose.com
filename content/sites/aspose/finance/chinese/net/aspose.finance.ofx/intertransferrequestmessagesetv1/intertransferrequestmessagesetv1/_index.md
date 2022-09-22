@@ -1,14 +1,14 @@
 ---
 title: InterTransferRequestMessageSetV1
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化InterTransferRequestMessageSetV1aspose.finance.ofx/intertransferrequestmessagesetv1类的新实例
+description: 初始化一个新的实例InterTransferRequestMessageSetV1aspose.finance.ofx/intertransferrequestmessagesetv1类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx/intertransferrequestmessagesetv1/intertransferrequestmessagesetv1/
 ---
 ## InterTransferRequestMessageSetV1 constructor
 
-初始化[`InterTransferRequestMessageSetV1`](../../intertransferrequestmessagesetv1)类的新实例。
+初始化一个新的实例[`InterTransferRequestMessageSetV1`](../../intertransferrequestmessagesetv1)类.
 
 ```csharp
 public InterTransferRequestMessageSetV1()

@@ -20,7 +20,7 @@ public enum CallTypeEnum
 | --- | --- | --- |
 | CALL | `0` | 呼叫 |
 | PUT | `1` | 放 |
-| PREFUND | `2` | 预付款 |
+| PREFUND | `2` | 预付 |
 | MATURITY | `3` | 成熟度 |
 
 ### 也可以看看

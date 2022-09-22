@@ -1,14 +1,14 @@
 ---
 title: RecurringIntraTransactionResponse
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化RecurringIntraTransactionResponseaspose.finance.ofx.bank/recurringintratransactionresponse类的新实例
+description: 初始化一个新的实例RecurringIntraTransactionResponseaspose.finance.ofx.bank/recurringintratransactionresponse类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.bank/recurringintratransactionresponse/recurringintratransactionresponse/
 ---
 ## RecurringIntraTransactionResponse constructor
 
-初始化[`RecurringIntraTransactionResponse`](../../recurringintratransactionresponse)类的新实例。
+初始化一个新的实例[`RecurringIntraTransactionResponse`](../../recurringintratransactionresponse)类.
 
 ```csharp
 public RecurringIntraTransactionResponse()

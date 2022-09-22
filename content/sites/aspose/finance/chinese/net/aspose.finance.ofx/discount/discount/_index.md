@@ -1,14 +1,14 @@
 ---
 title: Discount
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化Discountaspose.finance.ofx/discount类的新实例
+description: 初始化一个新的实例Discountaspose.finance.ofx/discount类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx/discount/discount/
 ---
 ## Discount constructor
 
-初始化[`Discount`](../../discount)类的新实例。
+初始化一个新的实例[`Discount`](../../discount)类.
 
 ```csharp
 public Discount()

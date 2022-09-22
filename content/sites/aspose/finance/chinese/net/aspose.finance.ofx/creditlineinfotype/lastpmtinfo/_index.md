@@ -1,14 +1,14 @@
 ---
 title: LastPmtInfo
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置LastPmtInfoTypeaspose.finance.ofx/lastpmtinfotype
+description: 获取或设置LastPmtInfoTypeaspose.finance.ofx/lastpmtinfotype.
 type: docs
 weight: 50
 url: /zh/net/aspose.finance.ofx/creditlineinfotype/lastpmtinfo/
 ---
 ## CreditLineInfoType.LastPmtInfo property
 
-获取或设置[`LastPmtInfoType`](../../lastpmtinfotype)。
+获取或设置[`LastPmtInfoType`](../../lastpmtinfotype).
 
 ```csharp
 public LastPmtInfoType LastPmtInfo { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: CreditcardMessageSet
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаCreditcardMessageSetaspose.finance.ofx.profile/creditcardmessageset.
+description: Инициализирует новый экземплярCreditcardMessageSetaspose.finance.ofx.profile/creditcardmessageset класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.profile/creditcardmessageset/creditcardmessageset/
 ---
 ## CreditcardMessageSet constructor
 
-Инициализирует новый экземпляр класса[`CreditcardMessageSet`](../../creditcardmessageset).
+Инициализирует новый экземпляр[`CreditcardMessageSet`](../../creditcardmessageset) класс.
 
 ```csharp
 public CreditcardMessageSet()

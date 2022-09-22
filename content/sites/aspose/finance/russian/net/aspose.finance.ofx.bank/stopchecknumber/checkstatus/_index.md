@@ -1,14 +1,14 @@
 ---
 title: CheckStatus
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает код состояния для отдельного запроса на остановку проверки.
+description: Получает или задает код состояния для отдельного запроса на проверку остановки.
 type: docs
 weight: 40
 url: /ru/net/aspose.finance.ofx.bank/stopchecknumber/checkstatus/
 ---
 ## StopCheckNumber.CheckStatus property
 
-Получает или задает код состояния для отдельного запроса на остановку проверки.
+Получает или задает код состояния для отдельного запроса на проверку остановки.
 
 ```csharp
 public CheckStatusEnum CheckStatus { get; set; }

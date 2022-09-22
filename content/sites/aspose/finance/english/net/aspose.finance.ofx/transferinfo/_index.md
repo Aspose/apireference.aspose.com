@@ -3,7 +3,7 @@ title: TransferInfo
 second_title: Aspose.Finance for .NET API Reference
 description: This class identifies accounts that are part of the transfer amount of money to be transferred and the date of the transfer.
 type: docs
-weight: 6270
+weight: 6300
 url: /net/aspose.finance.ofx/transferinfo/
 ---
 ## TransferInfo class

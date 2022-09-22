@@ -1,14 +1,14 @@
 ---
 title: PaymentInquiryTransactionResponse
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаPaymentInquiryTransactionResponseaspose.finance.ofx.billpay/paymentinquirytransactionresponse.
+description: Инициализирует новый экземплярPaymentInquiryTransactionResponseaspose.finance.ofx.billpay/paymentinquirytransactionresponse класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.billpay/paymentinquirytransactionresponse/paymentinquirytransactionresponse/
 ---
 ## PaymentInquiryTransactionResponse constructor
 
-Инициализирует новый экземпляр класса[`PaymentInquiryTransactionResponse`](../../paymentinquirytransactionresponse).
+Инициализирует новый экземпляр[`PaymentInquiryTransactionResponse`](../../paymentinquirytransactionresponse) класс.
 
 ```csharp
 public PaymentInquiryTransactionResponse()

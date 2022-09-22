@@ -18,14 +18,14 @@ public class WireTransferRequestMessageSetV1 : AbstractRequestMessageSet
 
 | 姓名 | 描述 |
 | --- | --- |
-| [WireTransferRequestMessageSetV1](wiretransferrequestmessagesetv1)() | 初始化[`WireTransferRequestMessageSetV1`](../wiretransferrequestmessagesetv1)类的新实例。 |
+| [WireTransferRequestMessageSetV1](wiretransferrequestmessagesetv1)() | 初始化一个新的实例[`WireTransferRequestMessageSetV1`](../wiretransferrequestmessagesetv1)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [WireSyncRequests](../../aspose.finance.ofx/wiretransferrequestmessagesetv1/wiresyncrequests) { get; set; } | 获取或设置[`WireSyncRequest`](../../aspose.finance.ofx.wiretransfer/wiresyncrequest)的集合。 |
-| [WireTransactionRequests](../../aspose.finance.ofx/wiretransferrequestmessagesetv1/wiretransactionrequests) { get; set; } | 获取或设置[`WireTransactionRequest`](../../aspose.finance.ofx.wiretransfer/wiretransactionrequest)的集合。 |
+| [WireSyncRequests](../../aspose.finance.ofx/wiretransferrequestmessagesetv1/wiresyncrequests) { get; set; } | 获取或设置的集合[`WireSyncRequest`](../../aspose.finance.ofx.wiretransfer/wiresyncrequest). |
+| [WireTransactionRequests](../../aspose.finance.ofx/wiretransferrequestmessagesetv1/wiretransactionrequests) { get; set; } | 获取或设置的集合[`WireTransactionRequest`](../../aspose.finance.ofx.wiretransfer/wiretransactionrequest). |
 
 ### 也可以看看
 

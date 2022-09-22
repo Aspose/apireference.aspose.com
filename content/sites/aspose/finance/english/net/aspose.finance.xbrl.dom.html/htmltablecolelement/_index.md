@@ -3,7 +3,7 @@ title: HTMLTableColElement
 second_title: Aspose.Finance for .NET API Reference
 description: The class represents the COL element. See the COL element definition in HTML 4.01.
 type: docs
-weight: 7190
+weight: 7220
 url: /net/aspose.finance.xbrl.dom.html/htmltablecolelement/
 ---
 ## HTMLTableColElement class

@@ -1,14 +1,14 @@
 ---
 title: TupleId
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置InlineTupleaspose.finance.xbrl.inline/inlinetuple的元组 id
+description: 获取或设置元组 idInlineTupleaspose.finance.xbrl.inline/inlinetuple .
 type: docs
 weight: 40
 url: /zh/net/aspose.finance.xbrl.inline/inlinetuple/tupleid/
 ---
 ## InlineTuple.TupleId property
 
-获取或设置[`InlineTuple`](../../inlinetuple)的元组 id。
+获取或设置元组 id[`InlineTuple`](../../inlinetuple) .
 
 ```csharp
 public string TupleId { get; set; }

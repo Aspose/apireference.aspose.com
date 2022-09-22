@@ -1,14 +1,14 @@
 ---
 title: CreditLineInfoType
 second_title: Справочник по API Aspose.Finance для .NET
-description: Сбор информации предоставляющей дополнительную информацию для счетов CREDITLINE. Не используется для других типов счетов.
+description: Сбор информации предоставляющей дополнительную информацию для учетных записей CREDITLINE. Не используется для других типов учетных записей.
 type: docs
 weight: 2060
 url: /ru/net/aspose.finance.ofx/creditlineinfotype/
 ---
 ## CreditLineInfoType class
 
-Сбор информации, предоставляющей дополнительную информацию для счетов CREDITLINE. Не используется для других типов счетов.
+Сбор информации, предоставляющей дополнительную информацию для учетных записей CREDITLINE. Не используется для других типов учетных записей.
 
 ```csharp
 public class CreditLineInfoType
@@ -18,7 +18,7 @@ public class CreditLineInfoType
 
 | Имя | Описание |
 | --- | --- |
-| [CreditLineInfoType](creditlineinfotype)() | Инициализирует новый экземпляр класса[`CreditLineInfoType`](../creditlineinfotype). |
+| [CreditLineInfoType](creditlineinfotype)() | Инициализирует новый экземпляр[`CreditLineInfoType`](../creditlineinfotype) класс. |
 
 ## Характеристики
 
@@ -26,13 +26,13 @@ public class CreditLineInfoType
 | --- | --- |
 | [AutoPay](../../aspose.finance.ofx/creditlineinfotype/autopay) { get; set; } | Получает или задает, настроены ли для этой учетной записи автоматические платежи. |
 | [CreditLimit](../../aspose.finance.ofx/creditlineinfotype/creditlimit) { get; set; } | Получает или задает текущий кредитный лимит. |
-| [InterestAmount](../../aspose.finance.ofx/creditlineinfotype/interestamount) { get; set; } | Получает или задает сумму MinPaymentDue, если таковая имеется, которая отражает проценты по кредиту. Возвращается только в том случае, если ссудные счета были сопоставлены с типом счета CREDITLINE во время реализации. |
-| [LastPmtInfo](../../aspose.finance.ofx/creditlineinfotype/lastpmtinfo) { get; set; } | Получает или задает[`LastPmtInfoType`](../lastpmtinfotype). |
+| [InterestAmount](../../aspose.finance.ofx/creditlineinfotype/interestamount) { get; set; } | Получает или задает сумму MinPaymentDue, если таковая имеется, которая отражает проценты по кредиту. Возвращается только в том случае, если ссудные счета были сопоставлены с типом счета CREDITLINE во время внедрения. |
+| [LastPmtInfo](../../aspose.finance.ofx/creditlineinfotype/lastpmtinfo) { get; set; } | Получает или задает[`LastPmtInfoType`](../lastpmtinfotype) . |
 | [LateFeeAmount](../../aspose.finance.ofx/creditlineinfotype/latefeeamount) { get; set; } | Получает или задает сумму MinPaymentDue, если таковая имеется, которая отражает штрафы за просрочку платежа. |
-| [LoanDetail](../../aspose.finance.ofx/creditlineinfotype/loandetail) { get; set; } | Получает или задает[`LoanDetailType`](../loandetailtype). |
+| [LoanDetail](../../aspose.finance.ofx/creditlineinfotype/loandetail) { get; set; } | Получает или задает[`LoanDetailType`](../loandetailtype) . |
 | [MinPaymentDue](../../aspose.finance.ofx/creditlineinfotype/minpaymentdue) { get; set; } | Получает или задает минимальную сумму к оплате. |
 | [PastDueAmount](../../aspose.finance.ofx/creditlineinfotype/pastdueamount) { get; set; } | Получает или задает сумму MinPaymentDue, если таковая имеется, которая отражает просроченную сумму. |
-| [PaymentDueDate](../../aspose.finance.ofx/creditlineinfotype/paymentduedate) { get; set; } | Получает или задает срок платежа. |
+| [PaymentDueDate](../../aspose.finance.ofx/creditlineinfotype/paymentduedate) { get; set; } | Получает или задает дату платежа. |
 
 ### Смотрите также
 

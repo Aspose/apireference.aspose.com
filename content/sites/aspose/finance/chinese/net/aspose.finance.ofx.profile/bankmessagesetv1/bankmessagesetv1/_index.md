@@ -1,14 +1,14 @@
 ---
 title: BankMessageSetV1
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化BankMessageSetV1aspose.finance.ofx.profile/bankmessagesetv1类的新实例
+description: 初始化一个新的实例BankMessageSetV1aspose.finance.ofx.profile/bankmessagesetv1类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.profile/bankmessagesetv1/bankmessagesetv1/
 ---
 ## BankMessageSetV1 constructor
 
-初始化[`BankMessageSetV1`](../../bankmessagesetv1)类的新实例。
+初始化一个新的实例[`BankMessageSetV1`](../../bankmessagesetv1)类.
 
 ```csharp
 public BankMessageSetV1()

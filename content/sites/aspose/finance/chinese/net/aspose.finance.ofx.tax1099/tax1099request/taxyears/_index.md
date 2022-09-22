@@ -1,14 +1,14 @@
 ---
 title: TaxYears
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置所请求表单的纳税年度
+description: 获取或设置所请求表格的纳税年度
 type: docs
 weight: 40
 url: /zh/net/aspose.finance.ofx.tax1099/tax1099request/taxyears/
 ---
 ## Tax1099Request.TaxYears property
 
-获取或设置所请求表单的纳税年度。
+获取或设置所请求表格的纳税年度。
 
 ```csharp
 public List<string> TaxYears { get; set; }

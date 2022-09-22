@@ -1,14 +1,14 @@
 ---
 title: InterTransferResponseMessageSetV1
 second_title: Справочник по API Aspose.Finance для .NET
-description: Ответные сообщения межбанковского перевода установить класс версии 1.
+description: Ответные сообщения межбанковского перевода устанавливают класс версии 1.
 type: docs
 weight: 2600
 url: /ru/net/aspose.finance.ofx/intertransferresponsemessagesetv1/
 ---
 ## InterTransferResponseMessageSetV1 class
 
-Ответные сообщения межбанковского перевода установить класс версии 1.
+Ответные сообщения межбанковского перевода устанавливают класс версии 1.
 
 ```csharp
 public class InterTransferResponseMessageSetV1 : AbstractResponseMessageSet
@@ -18,16 +18,16 @@ public class InterTransferResponseMessageSetV1 : AbstractResponseMessageSet
 
 | Имя | Описание |
 | --- | --- |
-| [InterTransferResponseMessageSetV1](intertransferresponsemessagesetv1)() | Инициализирует новый экземпляр класса[`InterTransferResponseMessageSetV1`](../intertransferresponsemessagesetv1). |
+| [InterTransferResponseMessageSetV1](intertransferresponsemessagesetv1)() | Инициализирует новый экземпляр[`InterTransferResponseMessageSetV1`](../intertransferresponsemessagesetv1) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [InterSyncResponses](../../aspose.finance.ofx/intertransferresponsemessagesetv1/intersyncresponses) { get; set; } | Получает или задает коллекцию[`InterSyncResponse`](../../aspose.finance.ofx.intertransfer/intersyncresponse). |
-| [InterTransactionResponses](../../aspose.finance.ofx/intertransferresponsemessagesetv1/intertransactionresponses) { get; set; } | Получает или задает коллекцию[`InterTransactionResponse`](../../aspose.finance.ofx.intertransfer/intertransactionresponse). |
-| [RecurringInterSyncResponses](../../aspose.finance.ofx/intertransferresponsemessagesetv1/recurringintersyncresponses) { get; set; } | Получает или задает коллекцию[`RecurringInterSyncResponse`](../../aspose.finance.ofx.intertransfer/recurringintersyncresponse). |
-| [RecurringInterTransactionResponses](../../aspose.finance.ofx/intertransferresponsemessagesetv1/recurringintertransactionresponses) { get; set; } | Получает или задает коллекцию[`RecurringInterTransactionResponse`](../../aspose.finance.ofx.intertransfer/recurringintertransactionresponse). |
+| [InterSyncResponses](../../aspose.finance.ofx/intertransferresponsemessagesetv1/intersyncresponses) { get; set; } | Получает или задает коллекцию[`InterSyncResponse`](../../aspose.finance.ofx.intertransfer/intersyncresponse) . |
+| [InterTransactionResponses](../../aspose.finance.ofx/intertransferresponsemessagesetv1/intertransactionresponses) { get; set; } | Получает или задает коллекцию[`InterTransactionResponse`](../../aspose.finance.ofx.intertransfer/intertransactionresponse) . |
+| [RecurringInterSyncResponses](../../aspose.finance.ofx/intertransferresponsemessagesetv1/recurringintersyncresponses) { get; set; } | Получает или задает коллекцию[`RecurringInterSyncResponse`](../../aspose.finance.ofx.intertransfer/recurringintersyncresponse) . |
+| [RecurringInterTransactionResponses](../../aspose.finance.ofx/intertransferresponsemessagesetv1/recurringintertransactionresponses) { get; set; } | Получает или задает коллекцию[`RecurringInterTransactionResponse`](../../aspose.finance.ofx.intertransfer/recurringintertransactionresponse) . |
 
 ### Смотрите также
 

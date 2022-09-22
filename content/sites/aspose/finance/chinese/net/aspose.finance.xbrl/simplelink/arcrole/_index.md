@@ -1,14 +1,14 @@
 ---
 title: Arcrole
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置简单链接弧
+description: 获取或设置简单链接弧线
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.xbrl/simplelink/arcrole/
 ---
 ## SimpleLink.Arcrole property
 
-获取或设置简单链接弧。
+获取或设置简单链接弧线。
 
 ```csharp
 public string Arcrole { get; set; }

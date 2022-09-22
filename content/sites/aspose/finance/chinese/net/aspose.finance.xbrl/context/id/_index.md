@@ -1,14 +1,14 @@
 ---
 title: Id
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置上下文的 id
+description: 获取或设置上下文的id
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.xbrl/context/id/
 ---
 ## Context.Id property
 
-获取或设置上下文的 id。
+获取或设置上下文的id。
 
 ```csharp
 public string Id { get; set; }

@@ -3,7 +3,7 @@ title: SecurityListMessageSetV1
 second_title: Aspose.Finance for .NET API Reference
 description: Version 1 of Security information message set.
 type: docs
-weight: 4760
+weight: 4780
 url: /net/aspose.finance.ofx.profile/securitylistmessagesetv1/
 ---
 ## SecurityListMessageSetV1 class

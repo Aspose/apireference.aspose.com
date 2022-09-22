@@ -1,14 +1,14 @@
 ---
 title: Invoice
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задаетInvoiceaspose.finance.ofx.billerdelivery/presentmentbillinfo/invoice.
+description: Получает или задаетInvoiceaspose.finance.ofx.billerdelivery/presentmentbillinfo/invoice .
 type: docs
 weight: 140
 url: /ru/net/aspose.finance.ofx.billerdelivery/presentmentbillinfo/invoice/
 ---
 ## PresentmentBillInfo.Invoice property
 
-Получает или задает`Invoice`.
+Получает или задает`Invoice` .
 
 ```csharp
 public Invoice Invoice { get; set; }

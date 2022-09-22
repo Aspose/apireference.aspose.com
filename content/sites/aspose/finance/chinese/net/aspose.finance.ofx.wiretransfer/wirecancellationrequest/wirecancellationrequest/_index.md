@@ -1,14 +1,14 @@
 ---
 title: WireCancellationRequest
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化WireCancellationRequestaspose.finance.ofx.wiretransfer/wirecancellationrequest类的新实例
+description: 初始化一个新的实例WireCancellationRequestaspose.finance.ofx.wiretransfer/wirecancellationrequest类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.wiretransfer/wirecancellationrequest/wirecancellationrequest/
 ---
 ## WireCancellationRequest constructor
 
-初始化[`WireCancellationRequest`](../../wirecancellationrequest)类的新实例。
+初始化一个新的实例[`WireCancellationRequest`](../../wirecancellationrequest)类.
 
 ```csharp
 public WireCancellationRequest()

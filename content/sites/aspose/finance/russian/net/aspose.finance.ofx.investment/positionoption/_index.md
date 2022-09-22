@@ -18,13 +18,13 @@ public class PositionOption : AbstractPositionBase
 
 | Имя | Описание |
 | --- | --- |
-| [PositionOption](positionoption)() | Инициализирует новый экземпляр класса[`PositionOption`](../positionoption). |
+| [PositionOption](positionoption)() | Инициализирует новый экземпляр[`PositionOption`](../positionoption) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [InvestmentPosition](../../aspose.finance.ofx.investment/abstractpositionbase/investmentposition) { get; set; } | Получает или задает[`InvestmentPosition`](../abstractpositionbase/investmentposition). |
+| [InvestmentPosition](../../aspose.finance.ofx.investment/abstractpositionbase/investmentposition) { get; set; } | Получает или задает[`InvestmentPosition`](../abstractpositionbase/investmentposition) . |
 | [Secured](../../aspose.finance.ofx.investment/positionoption/secured) { get; set; } | Получает или задает способ защиты параметра. |
 
 ### Смотрите также

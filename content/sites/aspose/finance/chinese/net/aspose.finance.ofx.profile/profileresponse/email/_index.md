@@ -1,14 +1,14 @@
 ---
 title: Email
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置 FI 的电子邮件地址
+description: 获取或设置 FI. 的电子邮件地址
 type: docs
 weight: 80
 url: /zh/net/aspose.finance.ofx.profile/profileresponse/email/
 ---
 ## ProfileResponse.Email property
 
-获取或设置 FI 的电子邮件地址。
+获取或设置 FI. 的电子邮件地址
 
 ```csharp
 public string Email { get; set; }

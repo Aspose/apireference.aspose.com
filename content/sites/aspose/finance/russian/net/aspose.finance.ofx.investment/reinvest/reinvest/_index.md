@@ -1,14 +1,14 @@
 ---
 title: Reinvest
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаReinvestaspose.finance.ofx.investment/reinvest.
+description: Инициализирует новый экземплярReinvestaspose.finance.ofx.investment/reinvest класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.investment/reinvest/reinvest/
 ---
 ## Reinvest constructor
 
-Инициализирует новый экземпляр класса[`Reinvest`](../../reinvest).
+Инициализирует новый экземпляр[`Reinvest`](../../reinvest) класс.
 
 ```csharp
 public Reinvest()

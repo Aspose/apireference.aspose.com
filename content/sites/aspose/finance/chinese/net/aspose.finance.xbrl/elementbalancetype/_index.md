@@ -1,14 +1,14 @@
 ---
 title: ElementBalanceType
 second_title: Aspose.Finance for .NET API 参考
-description: Concept./concept余额类型枚举
+description: Concept./concept余额类型枚举.
 type: docs
 weight: 7590
 url: /zh/net/aspose.finance.xbrl/elementbalancetype/
 ---
 ## ElementBalanceType enumeration
 
-[`Concept`](../concept)余额类型枚举。
+[`Concept`](../concept)余额类型枚举.
 
 ```csharp
 public enum ElementBalanceType

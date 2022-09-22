@@ -1,14 +1,14 @@
 ---
 title: FIRoutingNumber
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置路由号码
+description: 获取或设置路由号
 type: docs
 weight: 50
 url: /zh/net/aspose.finance.ofx.tax1099/fidirectdepositinfo/firoutingnumber/
 ---
 ## FIDirectDepositInfo.FIRoutingNumber property
 
-获取或设置路由号码。
+获取或设置路由号
 
 ```csharp
 public string FIRoutingNumber { get; set; }

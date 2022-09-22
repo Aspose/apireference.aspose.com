@@ -1,14 +1,14 @@
 ---
 title: IntraModRequest
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化IntraModRequestaspose.finance.ofx.bank/intramodrequest类的新实例
+description: 初始化一个新的实例IntraModRequestaspose.finance.ofx.bank/intramodrequest类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.bank/intramodrequest/intramodrequest/
 ---
 ## IntraModRequest constructor
 
-初始化[`IntraModRequest`](../../intramodrequest)类的新实例。
+初始化一个新的实例[`IntraModRequest`](../../intramodrequest)类.
 
 ```csharp
 public IntraModRequest()

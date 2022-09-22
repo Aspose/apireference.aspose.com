@@ -1,14 +1,14 @@
 ---
 title: UnitPrice
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置每个常用报价单位的价格不包括标记/降价股票共同基金等的股价债券面值的百分比期权的每股非合约
+description: 获取或设置每个常用单位的价格不包括标记/降价股票共同基金等的股价债券面值的百分比期权的每股非合约
 type: docs
 weight: 190
 url: /zh/net/aspose.finance.ofx.investment/investmentbuy/unitprice/
 ---
 ## InvestmentBuy.UnitPrice property
 
-获取或设置每个常用报价单位的价格。不包括标记/降价。股票、共同基金等的股价。债券面值的百分比。期权的每股（非合约）。
+获取或设置每个常用单位的价格。不包括标记/降价。股票、共同基金等的股价。债券面值的百分比。期权的每股（非合约）。
 
 ```csharp
 public string UnitPrice { get; set; }

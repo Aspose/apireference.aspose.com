@@ -18,13 +18,13 @@ public class MailRequest
 
 | 姓名 | 描述 |
 | --- | --- |
-| [MailRequest](mailrequest)() | 初始化[`MailRequest`](../mailrequest)类的新实例。 |
+| [MailRequest](mailrequest)() | 初始化一个新的实例[`MailRequest`](../mailrequest)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Mail](../../aspose.finance.ofx.email/mailrequest/mail) { get; set; } | 获取或设置[`Mail`](./mail)。 |
+| [Mail](../../aspose.finance.ofx.email/mailrequest/mail) { get; set; } | 获取或设置[`Mail`](./mail). |
 
 ### 也可以看看
 

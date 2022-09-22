@@ -1,14 +1,14 @@
 ---
 title: PresentmentDeliveryResponseMessageSetV1
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаPresentmentDeliveryResponseMessageSetV1aspose.finance.ofx/presentmentdeliveryresponsemessagesetv1.
+description: Инициализирует новый экземплярPresentmentDeliveryResponseMessageSetV1aspose.finance.ofx/presentmentdeliveryresponsemessagesetv1 класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx/presentmentdeliveryresponsemessagesetv1/presentmentdeliveryresponsemessagesetv1/
 ---
 ## PresentmentDeliveryResponseMessageSetV1 constructor
 
-Инициализирует новый экземпляр класса[`PresentmentDeliveryResponseMessageSetV1`](../../presentmentdeliveryresponsemessagesetv1).
+Инициализирует новый экземпляр[`PresentmentDeliveryResponseMessageSetV1`](../../presentmentdeliveryresponsemessagesetv1) класс.
 
 ```csharp
 public PresentmentDeliveryResponseMessageSetV1()

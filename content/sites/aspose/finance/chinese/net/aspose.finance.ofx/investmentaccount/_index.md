@@ -18,14 +18,14 @@ public class InvestmentAccount : AbstractAccount
 
 | 姓名 | 描述 |
 | --- | --- |
-| [InvestmentAccount](investmentaccount)() | 初始化[`InvestmentAccount`](../investmentaccount)类的新实例。 |
+| [InvestmentAccount](investmentaccount)() | 初始化一个新的实例[`InvestmentAccount`](../investmentaccount)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
 | [AccountId](../../aspose.finance.ofx/investmentaccount/accountid) { get; set; } | 获取或设置 FI 处的帐号。 |
-| [BrokerId](../../aspose.finance.ofx/investmentaccount/brokerid) { get; set; } | 获取或设置 FI 的唯一标识符。 |
+| [BrokerId](../../aspose.finance.ofx/investmentaccount/brokerid) { get; set; } | 获取或设置 FI. 的唯一标识符 |
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: TargetId
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置InlineFractionaspose.finance.xbrl.inline/inlinefraction的目标 id
+description: 获取或设置目标idInlineFractionaspose.finance.xbrl.inline/inlinefraction.
 type: docs
 weight: 40
 url: /zh/net/aspose.finance.xbrl.inline/inlinefraction/targetid/
 ---
 ## InlineFraction.TargetId property
 
-获取或设置[`InlineFraction`](../../inlinefraction)的目标 id。
+获取或设置目标id[`InlineFraction`](../../inlinefraction).
 
 ```csharp
 public string TargetId { get; set; }

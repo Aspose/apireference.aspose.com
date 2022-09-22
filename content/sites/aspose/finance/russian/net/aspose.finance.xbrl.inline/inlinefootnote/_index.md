@@ -18,13 +18,13 @@ public class InlineFootnote
 
 | Имя | Описание |
 | --- | --- |
-| [ContinuedAt](../../aspose.finance.xbrl.inline/inlinefootnote/continuedat) { get; set; } | Получает или задает идентификатор ссылки продолжения[`InlineFootnote`](../inlinefootnote). |
-| [FootnoteRole](../../aspose.finance.xbrl.inline/inlinefootnote/footnoterole) { get; set; } | Получает или задает роль сноски для[`InlineFootnote`](../inlinefootnote). |
+| [ContinuedAt](../../aspose.finance.xbrl.inline/inlinefootnote/continuedat) { get; set; } | Получает или задает идентификатор ссылки продолжения[`InlineFootnote`](../inlinefootnote) . |
+| [FootnoteRole](../../aspose.finance.xbrl.inline/inlinefootnote/footnoterole) { get; set; } | Получает или задает роль сноски[`InlineFootnote`](../inlinefootnote) . |
 | [Hidden](../../aspose.finance.xbrl.inline/inlinefootnote/hidden) { get; set; } | Получает или задает, скрыта ли эта сноска. |
-| [Id](../../aspose.finance.xbrl.inline/inlinefootnote/id) { get; set; } | Получает или задает идентификатор[`InlineFootnote`](../inlinefootnote). |
-| [Language](../../aspose.finance.xbrl.inline/inlinefootnote/language) { get; set; } | Получает или задает язык[`InlineFootnote`](../inlinefootnote). |
-| [Text](../../aspose.finance.xbrl.inline/inlinefootnote/text) { get; set; } | Получает или задает текст[`InlineFootnote`](../inlinefootnote). |
-| [Title](../../aspose.finance.xbrl.inline/inlinefootnote/title) { get; set; } | Получает или задает заголовок[`InlineFootnote`](../inlinefootnote). |
+| [Id](../../aspose.finance.xbrl.inline/inlinefootnote/id) { get; set; } | Получает или задает идентификатор[`InlineFootnote`](../inlinefootnote) . |
+| [Language](../../aspose.finance.xbrl.inline/inlinefootnote/language) { get; set; } | Получает или задает язык[`InlineFootnote`](../inlinefootnote) . |
+| [Text](../../aspose.finance.xbrl.inline/inlinefootnote/text) { get; set; } | Получает или задает текст[`InlineFootnote`](../inlinefootnote) . |
+| [Title](../../aspose.finance.xbrl.inline/inlinefootnote/title) { get; set; } | Получает или задает заголовок[`InlineFootnote`](../inlinefootnote) . |
 
 ### Смотрите также
 

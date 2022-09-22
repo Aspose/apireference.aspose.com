@@ -18,13 +18,13 @@ public class FinancialInstitution
 
 | 姓名 | 描述 |
 | --- | --- |
-| [FinancialInstitution](financialinstitution)() | 初始化[`FinancialInstitution`](../financialinstitution)类的新实例。 |
+| [FinancialInstitution](financialinstitution)() | 初始化一个新的实例[`FinancialInstitution`](../financialinstitution)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [FinancialInstitutionId](../../aspose.finance.ofx.signon/financialinstitution/financialinstitutionid) { get; set; } | 获取或设置金融机构 ID（组织内唯一） |
+| [FinancialInstitutionId](../../aspose.finance.ofx.signon/financialinstitution/financialinstitutionid) { get; set; } | 获取或设置金融机构 ID（在组织内唯一） |
 | [Organization](../../aspose.finance.ofx.signon/financialinstitution/organization) { get; set; } | 获取或设置定义此 FI 名称空间的组织。 |
 
 ### 也可以看看

@@ -1,14 +1,14 @@
 ---
 title: OpenOrderSellMutualFund
 second_title: Справочник по API Aspose.Finance для .NET
-description: Открытый ордер на продажу класса взаимных фондов.
+description: Класс открытого ордера на продажу взаимных фондов.
 type: docs
 weight: 3280
 url: /ru/net/aspose.finance.ofx.investment/openordersellmutualfund/
 ---
 ## OpenOrderSellMutualFund class
 
-Открытый ордер на продажу класса взаимных фондов.
+Класс открытого ордера на продажу взаимных фондов.
 
 ```csharp
 public class OpenOrderSellMutualFund : AbstractOpenOrder
@@ -18,16 +18,16 @@ public class OpenOrderSellMutualFund : AbstractOpenOrder
 
 | Имя | Описание |
 | --- | --- |
-| [OpenOrderSellMutualFund](openordersellmutualfund)() | Инициализирует новый экземпляр класса[`OpenOrderSellMutualFund`](../openordersellmutualfund). |
+| [OpenOrderSellMutualFund](openordersellmutualfund)() | Инициализирует новый экземпляр[`OpenOrderSellMutualFund`](../openordersellmutualfund) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [OpenOrder](../../aspose.finance.ofx.investment/abstractopenorder/openorder) { get; set; } | Получает или задает[`GeneralOpenOrder`](../generalopenorder). |
-| [SellAll](../../aspose.finance.ofx.investment/openordersellmutualfund/sellall) { get; set; } | Получает или задает, нужно ли продавать весь холдинг. |
+| [OpenOrder](../../aspose.finance.ofx.investment/abstractopenorder/openorder) { get; set; } | Получает или задает[`GeneralOpenOrder`](../generalopenorder) . |
+| [SellAll](../../aspose.finance.ofx.investment/openordersellmutualfund/sellall) { get; set; } | Получает или задает, следует ли продавать весь холдинг. |
 | [SellType](../../aspose.finance.ofx.investment/openordersellmutualfund/selltype) { get; set; } | Получает или задает тип продажи. |
-| [UnitType](../../aspose.finance.ofx.investment/openordersellmutualfund/unittype) { get; set; } | Получает или задает значение единиц измерения. |
+| [UnitType](../../aspose.finance.ofx.investment/openordersellmutualfund/unittype) { get; set; } | Получает или устанавливает, что представляют единицы измерения. |
 
 ### Смотрите также
 

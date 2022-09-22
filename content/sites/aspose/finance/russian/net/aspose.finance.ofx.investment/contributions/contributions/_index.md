@@ -1,14 +1,14 @@
 ---
 title: Contributions
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаContributionsaspose.finance.ofx.investment/contributions.
+description: Инициализирует новый экземплярContributionsaspose.finance.ofx.investment/contributions класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.investment/contributions/contributions/
 ---
 ## Contributions constructor
 
-Инициализирует новый экземпляр класса[`Contributions`](../../contributions).
+Инициализирует новый экземпляр[`Contributions`](../../contributions) класс.
 
 ```csharp
 public Contributions()

@@ -1,14 +1,14 @@
 ---
 title: Currency
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置付款响应的默认货币
+description: 获取或设置支付响应的默认货币
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.ofx.billpay/paymentresponse/currency/
 ---
 ## PaymentResponse.Currency property
 
-获取或设置付款响应的默认货币。
+获取或设置支付响应的默认货币。
 
 ```csharp
 public CurrencyEnum Currency { get; set; }

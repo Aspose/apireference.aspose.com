@@ -1,14 +1,14 @@
 ---
 title: TAXW2s
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает коллекциюTaxW2_V100aspose.finance.ofx.taxw2/taxw2_v100илиTaxW2_V200aspose.finance.ofx.taxw2/taxw2_v200.
+description: Получает или задает коллекциюTaxW2_V100aspose.finance.ofx.taxw2/taxw2_v100 или жеTaxW2_V200aspose.finance.ofx.taxw2/taxw2_v200 .
 type: docs
 weight: 30
 url: /ru/net/aspose.finance.ofx.taxw2/taxw2response/taxw2s/
 ---
 ## TaxW2Response.TAXW2s property
 
-Получает или задает коллекцию[`TaxW2_V100`](../../taxw2_v100)или[`TaxW2_V200`](../../taxw2_v200).
+Получает или задает коллекцию[`TaxW2_V100`](../../taxw2_v100) или же[`TaxW2_V200`](../../taxw2_v200) .
 
 ```csharp
 public List<AbstractTaxW2> TAXW2s { get; set; }

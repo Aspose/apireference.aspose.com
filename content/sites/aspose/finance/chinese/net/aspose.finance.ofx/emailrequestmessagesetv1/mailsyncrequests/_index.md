@@ -1,14 +1,14 @@
 ---
 title: MailSyncRequests
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置MailSyncRequestaspose.finance.ofx.email/mailsyncrequest的集合
+description: 获取或设置的集合MailSyncRequestaspose.finance.ofx.email/mailsyncrequest.
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.ofx/emailrequestmessagesetv1/mailsyncrequests/
 ---
 ## EmailRequestMessageSetV1.MailSyncRequests property
 
-获取或设置[`MailSyncRequest`](../../../aspose.finance.ofx.email/mailsyncrequest)的集合。
+获取或设置的集合[`MailSyncRequest`](../../../aspose.finance.ofx.email/mailsyncrequest).
 
 ```csharp
 public List<MailSyncRequest> MailSyncRequests { get; set; }

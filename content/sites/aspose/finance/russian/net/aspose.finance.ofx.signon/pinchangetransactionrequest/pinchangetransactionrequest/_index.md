@@ -1,14 +1,14 @@
 ---
 title: PinChangeTransactionRequest
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаPinChangeTransactionRequestaspose.finance.ofx.signon/pinchangetransactionrequest.
+description: Инициализирует новый экземплярPinChangeTransactionRequestaspose.finance.ofx.signon/pinchangetransactionrequest класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.signon/pinchangetransactionrequest/pinchangetransactionrequest/
 ---
 ## PinChangeTransactionRequest constructor
 
-Инициализирует новый экземпляр класса[`PinChangeTransactionRequest`](../../pinchangetransactionrequest).
+Инициализирует новый экземпляр[`PinChangeTransactionRequest`](../../pinchangetransactionrequest) класс.
 
 ```csharp
 public PinChangeTransactionRequest()

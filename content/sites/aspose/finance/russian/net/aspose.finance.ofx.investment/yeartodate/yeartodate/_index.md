@@ -1,14 +1,14 @@
 ---
 title: YearToDate
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаYearToDateaspose.finance.ofx.investment/yeartodate.
+description: Инициализирует новый экземплярYearToDateaspose.finance.ofx.investment/yeartodate класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.investment/yeartodate/yeartodate/
 ---
 ## YearToDate constructor
 
-Инициализирует новый экземпляр класса[`YearToDate`](../../yeartodate).
+Инициализирует новый экземпляр[`YearToDate`](../../yeartodate) класс.
 
 ```csharp
 public YearToDate()

@@ -1,14 +1,14 @@
 ---
 title: Tax1099ResponseMessageSetV1
 second_title: Справочник по API Aspose.Finance для .NET
-description: Ответные сообщения Tax 1099 set version 1 class.
+description: Ответные сообщения Tax 1099 устанавливают класс версии 1.
 type: docs
 weight: 6100
 url: /ru/net/aspose.finance.ofx/tax1099responsemessagesetv1/
 ---
 ## Tax1099ResponseMessageSetV1 class
 
-Ответные сообщения Tax 1099 set version 1 class.
+Ответные сообщения Tax 1099 устанавливают класс версии 1.
 
 ```csharp
 public class Tax1099ResponseMessageSetV1 : AbstractResponseMessageSet
@@ -18,13 +18,13 @@ public class Tax1099ResponseMessageSetV1 : AbstractResponseMessageSet
 
 | Имя | Описание |
 | --- | --- |
-| [Tax1099ResponseMessageSetV1](tax1099responsemessagesetv1)() | Инициализирует новый экземпляр класса[`Tax1099ResponseMessageSetV1`](../tax1099responsemessagesetv1). |
+| [Tax1099ResponseMessageSetV1](tax1099responsemessagesetv1)() | Инициализирует новый экземпляр[`Tax1099ResponseMessageSetV1`](../tax1099responsemessagesetv1) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [Tax1099TransactionResponses](../../aspose.finance.ofx/tax1099responsemessagesetv1/tax1099transactionresponses) { get; set; } | Получает или задает коллекцию[`Tax1099TransactionResponse`](../../aspose.finance.ofx.tax1099/tax1099transactionresponse). |
+| [Tax1099TransactionResponses](../../aspose.finance.ofx/tax1099responsemessagesetv1/tax1099transactionresponses) { get; set; } | Получает или задает коллекцию[`Tax1099TransactionResponse`](../../aspose.finance.ofx.tax1099/tax1099transactionresponse) . |
 
 ### Смотрите также
 

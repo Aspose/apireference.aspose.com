@@ -1,14 +1,14 @@
 ---
 title: InvestmentStatementEndResponse
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаInvestmentStatementEndResponseaspose.finance.ofx.investment/investmentstatementendresponse.
+description: Инициализирует новый экземплярInvestmentStatementEndResponseaspose.finance.ofx.investment/investmentstatementendresponse класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.investment/investmentstatementendresponse/investmentstatementendresponse/
 ---
 ## InvestmentStatementEndResponse constructor
 
-Инициализирует новый экземпляр класса[`InvestmentStatementEndResponse`](../../investmentstatementendresponse).
+Инициализирует новый экземпляр[`InvestmentStatementEndResponse`](../../investmentstatementendresponse) класс.
 
 ```csharp
 public InvestmentStatementEndResponse()

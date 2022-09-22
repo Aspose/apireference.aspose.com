@@ -1,14 +1,14 @@
 ---
 title: ReplaceData
 second_title: Справочник по API Aspose.Finance для .NET
-description: Заменяет символы начинающиеся с указанного смещения указанной строкой.
+description: Заменяет символы начинающиеся с указанного смещения на указанную строку.
 type: docs
 weight: 60
 url: /ru/net/aspose.finance.xbrl.dom/characterdata/replacedata/
 ---
 ## CharacterData.ReplaceData method
 
-Заменяет символы, начинающиеся с указанного смещения, указанной строкой.
+Заменяет символы, начинающиеся с указанного смещения, на указанную строку.
 
 ```csharp
 public virtual void ReplaceData(int offset, int count, string data)
@@ -17,8 +17,8 @@ public virtual void ReplaceData(int offset, int count, string data)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | offset | Int32 | Смещение. |
-| count | Int32 | Счетчик. |
-| data | String | Данные содержимого. |
+| count | Int32 | Счет. |
+| data | String | Данные контента. |
 
 ### Смотрите также
 

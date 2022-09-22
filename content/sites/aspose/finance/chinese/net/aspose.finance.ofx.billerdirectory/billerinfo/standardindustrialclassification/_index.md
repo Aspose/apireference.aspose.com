@@ -1,14 +1,14 @@
 ---
 title: StandardIndustrialClassification
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置开票人的标准行业分类代码
+description: 获取或设置出票人的标准行业分类代码
 type: docs
 weight: 190
 url: /zh/net/aspose.finance.ofx.billerdirectory/billerinfo/standardindustrialclassification/
 ---
 ## BillerInfo.StandardIndustrialClassification property
 
-获取或设置开票人的标准行业分类代码。
+获取或设置出票人的标准行业分类代码。
 
 ```csharp
 public string StandardIndustrialClassification { get; set; }

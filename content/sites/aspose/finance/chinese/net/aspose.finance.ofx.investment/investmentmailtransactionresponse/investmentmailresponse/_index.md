@@ -1,14 +1,14 @@
 ---
 title: InvestmentMailResponse
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置InvestmentMailResponseaspose.finance.ofx.investment/investmentmailtransactionresponse/investmentmailresponse
+description: 获取或设置InvestmentMailResponseaspose.finance.ofx.investment/investmentmailtransactionresponse/investmentmailresponse.
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.ofx.investment/investmentmailtransactionresponse/investmentmailresponse/
 ---
 ## InvestmentMailTransactionResponse.InvestmentMailResponse property
 
-获取或设置`InvestmentMailResponse`。
+获取或设置`InvestmentMailResponse`.
 
 ```csharp
 public InvestmentMailResponse InvestmentMailResponse { get; set; }

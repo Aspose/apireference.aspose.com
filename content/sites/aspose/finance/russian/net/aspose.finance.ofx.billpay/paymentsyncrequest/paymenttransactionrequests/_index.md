@@ -1,14 +1,14 @@
 ---
 title: PaymentTransactionRequests
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает коллекциюPaymentTransactionRequestaspose.finance.ofx.billpay/paymenttransactionrequest.
+description: Получает или задает коллекциюPaymentTransactionRequestaspose.finance.ofx.billpay/paymenttransactionrequest .
 type: docs
 weight: 40
 url: /ru/net/aspose.finance.ofx.billpay/paymentsyncrequest/paymenttransactionrequests/
 ---
 ## PaymentSyncRequest.PaymentTransactionRequests property
 
-Получает или задает коллекцию[`PaymentTransactionRequest`](../../paymenttransactionrequest).
+Получает или задает коллекцию[`PaymentTransactionRequest`](../../paymenttransactionrequest) .
 
 ```csharp
 public List<PaymentTransactionRequest> PaymentTransactionRequests { get; set; }

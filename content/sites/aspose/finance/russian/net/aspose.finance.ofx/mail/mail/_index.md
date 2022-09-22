@@ -1,14 +1,14 @@
 ---
 title: Mail
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаMailaspose.finance.ofx/mail.
+description: Инициализирует новый экземплярMailaspose.finance.ofx/mail класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx/mail/mail/
 ---
 ## Mail constructor
 
-Инициализирует новый экземпляр класса[`Mail`](../../mail).
+Инициализирует новый экземпляр[`Mail`](../../mail) класс.
 
 ```csharp
 public Mail()

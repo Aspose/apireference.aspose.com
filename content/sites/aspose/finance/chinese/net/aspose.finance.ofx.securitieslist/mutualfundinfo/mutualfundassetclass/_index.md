@@ -1,14 +1,14 @@
 ---
 title: MutualFundAssetClass
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置共同基金的资产类别细分
+description: 获取或设置共同基金的资产类别明细
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.ofx.securitieslist/mutualfundinfo/mutualfundassetclass/
 ---
 ## MutualFundInfo.MutualFundAssetClass property
 
-获取或设置共同基金的资产类别细分。
+获取或设置共同基金的资产类别明细。
 
 ```csharp
 public List<Portion> MutualFundAssetClass { get; set; }

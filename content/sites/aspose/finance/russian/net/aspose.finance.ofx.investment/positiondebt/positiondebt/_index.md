@@ -1,14 +1,14 @@
 ---
 title: PositionDebt
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаPositionDebtaspose.finance.ofx.investment/positiondebt.
+description: Инициализирует новый экземплярPositionDebtaspose.finance.ofx.investment/positiondebt класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.investment/positiondebt/positiondebt/
 ---
 ## PositionDebt constructor
 
-Инициализирует новый экземпляр класса[`PositionDebt`](../../positiondebt).
+Инициализирует новый экземпляр[`PositionDebt`](../../positiondebt) класс.
 
 ```csharp
 public PositionDebt()

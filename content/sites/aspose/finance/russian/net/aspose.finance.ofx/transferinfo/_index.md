@@ -1,14 +1,14 @@
 ---
 title: TransferInfo
 second_title: Справочник по API Aspose.Finance для .NET
-description: Этот класс определяет счета которые являются частью перевода сумму денег которую нужно перевести и дату перевода.
+description: Этот класс определяет счета которые являются частью перевода сумму денег которую необходимо перевести и дату перевода.
 type: docs
 weight: 6270
 url: /ru/net/aspose.finance.ofx/transferinfo/
 ---
 ## TransferInfo class
 
-Этот класс определяет счета, которые являются частью перевода, сумму денег, которую нужно перевести, и дату перевода.
+Этот класс определяет счета, которые являются частью перевода, сумму денег, которую необходимо перевести, и дату перевода.
 
 ```csharp
 public class TransferInfo
@@ -18,16 +18,16 @@ public class TransferInfo
 
 | Имя | Описание |
 | --- | --- |
-| [TransferInfo](transferinfo)() | Инициализирует новый экземпляр класса[`TransferInfo`](../transferinfo). |
+| [TransferInfo](transferinfo)() | Инициализирует новый экземпляр[`TransferInfo`](../transferinfo) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [AccountFrom](../../aspose.finance.ofx/transferinfo/accountfrom) { get; set; } | Получает или задает из[`BankAccount`](../bankaccount)или[`CreditCardAccount`](../creditcardaccount)или[`LoanAccount`](../loanaccount). |
-| [AccountTo](../../aspose.finance.ofx/transferinfo/accountto) { get; set; } | Получает или задает значение[`BankAccount`](../bankaccount)или[`CreditCardAccount`](../creditcardaccount)или[`LoanAccount`](../loanaccount). |
+| [AccountFrom](../../aspose.finance.ofx/transferinfo/accountfrom) { get; set; } | Получает или задает из[`BankAccount`](../bankaccount) или же[`CreditCardAccount`](../creditcardaccount) или же[`LoanAccount`](../loanaccount) . |
+| [AccountTo](../../aspose.finance.ofx/transferinfo/accountto) { get; set; } | Получает или задает значение[`BankAccount`](../bankaccount) или же[`CreditCardAccount`](../creditcardaccount) или же[`LoanAccount`](../loanaccount) . |
 | [DateDue](../../aspose.finance.ofx/transferinfo/datedue) { get; set; } | Получает или задает дату отправки перевода. |
-| [LoanTransactionAmount](../../aspose.finance.ofx/transferinfo/loantransactionamount) { get; set; } | Получает или задает[`LoanTransactionAmount`](./loantransactionamount). |
+| [LoanTransactionAmount](../../aspose.finance.ofx/transferinfo/loantransactionamount) { get; set; } | Получает или задает[`LoanTransactionAmount`](./loantransactionamount) . |
 | [TransferAmount](../../aspose.finance.ofx/transferinfo/transferamount) { get; set; } | Получает или задает сумму перевода |
 
 ### Смотрите также

@@ -1,14 +1,14 @@
 ---
 title: PresentmentListResponse
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задаетPresentmentListResponseaspose.finance.ofx.billerdelivery/presentmentlisttransactionresponse/presentmentlistresponse.
+description: Получает или задаетPresentmentListResponseaspose.finance.ofx.billerdelivery/presentmentlisttransactionresponse/presentmentlistresponse .
 type: docs
 weight: 30
 url: /ru/net/aspose.finance.ofx.billerdelivery/presentmentlisttransactionresponse/presentmentlistresponse/
 ---
 ## PresentmentListTransactionResponse.PresentmentListResponse property
 
-Получает или задает`PresentmentListResponse`.
+Получает или задает`PresentmentListResponse` .
 
 ```csharp
 public PresentmentListResponse PresentmentListResponse { get; set; }

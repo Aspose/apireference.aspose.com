@@ -1,14 +1,14 @@
 ---
 title: Payee
 second_title: Справочник по API Aspose.Finance для .NET
-description: Этот класс указывает полный платежный адрес для получателя платежа.
+description: Этот класс определяет полный платежный адрес для получателя платежа.
 type: docs
 weight: 4240
 url: /ru/net/aspose.finance.ofx/payee/
 ---
 ## Payee class
 
-Этот класс указывает полный платежный адрес для получателя платежа.
+Этот класс определяет полный платежный адрес для получателя платежа.
 
 ```csharp
 public class Payee
@@ -18,7 +18,7 @@ public class Payee
 
 | Имя | Описание |
 | --- | --- |
-| [Payee](payee)() | Инициализирует новый экземпляр класса[`Payee`](../payee). |
+| [Payee](payee)() | Инициализирует новый экземпляр[`Payee`](../payee) класс. |
 
 ## Характеристики
 
@@ -31,8 +31,8 @@ public class Payee
 | [Country](../../aspose.finance.ofx/payee/country) { get; set; } | Получает или задает страну получателя, 3-буквенный код страны из ISO/DIS-3166. |
 | [Name](../../aspose.finance.ofx/payee/name) { get; set; } | Получает или задает имя получателя платежа. |
 | [Phone](../../aspose.finance.ofx/payee/phone) { get; set; } | Получает или устанавливает номер телефона получателя. |
-| [PostalCode](../../aspose.finance.ofx/payee/postalcode) { get; set; } | Получает или задает почтовый индекс получателя. |
-| [State](../../aspose.finance.ofx/payee/state) { get; set; } | Получает или задает состояние получателя платежа. |
+| [PostalCode](../../aspose.finance.ofx/payee/postalcode) { get; set; } | Получает или задает почтовый индекс получателя платежа. |
+| [State](../../aspose.finance.ofx/payee/state) { get; set; } | Получает или устанавливает состояние получателя платежа. |
 
 ### Смотрите также
 

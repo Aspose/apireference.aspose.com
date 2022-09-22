@@ -1,14 +1,14 @@
 ---
 title: FIDirectDepositInfos
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает коллекциюFIDirectDepositInfoaspose.finance.ofx.tax1099/fidirectdepositinfo.
+description: Получает или задает коллекциюFIDirectDepositInfoaspose.finance.ofx.tax1099/fidirectdepositinfo .
 type: docs
 weight: 30
 url: /ru/net/aspose.finance.ofx.tax1099/tax1099response/fidirectdepositinfos/
 ---
 ## Tax1099Response.FIDirectDepositInfos property
 
-Получает или задает коллекцию[`FIDirectDepositInfo`](../../fidirectdepositinfo).
+Получает или задает коллекцию[`FIDirectDepositInfo`](../../fidirectdepositinfo) .
 
 ```csharp
 public List<FIDirectDepositInfo> FIDirectDepositInfos { get; set; }

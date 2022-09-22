@@ -1,14 +1,14 @@
 ---
 title: Add
 second_title: Aspose.Finance for .NET API 参考
-description: 将元素添加到列表末尾
+description: 将元素添加到列表的末尾
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.xbrl.dom/elementlist/add/
 ---
 ## ElementList.Add method
 
-将元素添加到列表末尾。
+将元素添加到列表的末尾。
 
 ```csharp
 public void Add(Element node)

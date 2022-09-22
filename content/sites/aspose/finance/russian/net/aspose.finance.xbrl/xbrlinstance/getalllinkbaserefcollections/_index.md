@@ -1,14 +1,14 @@
 ---
 title: GetAllLinkbaseRefCollections
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получение всех коллекций ссылок на экземпляры xbrl и ссылки на схемы.
+description: Получить все коллекции ссылок в экземпляре xbrl и ссылки на схему.
 type: docs
 weight: 140
 url: /ru/net/aspose.finance.xbrl/xbrlinstance/getalllinkbaserefcollections/
 ---
 ## XbrlInstance.GetAllLinkbaseRefCollections method
 
-Получение всех коллекций ссылок на экземпляры xbrl и ссылки на схемы.
+Получить все коллекции ссылок в экземпляре xbrl и ссылки на схему.
 
 ```csharp
 public List<LinkbaseRefCollection> GetAllLinkbaseRefCollections()
@@ -16,7 +16,7 @@ public List<LinkbaseRefCollection> GetAllLinkbaseRefCollections()
 
 ### Возвращаемое значение
 
-Все коллекции ссылок в экземплярах xbrl и ссылки на схемы.
+Все коллекции ссылок в ссылках экземпляра xbrl и схемы.
 
 ### Смотрите также
 

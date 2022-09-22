@@ -1,14 +1,14 @@
 ---
 title: ProceedSummary_V100s
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置ProceedSummary_V100aspose.finance.ofx.tax1099/proceedsummary_v100的集合
+description: 获取或设置的集合ProceedSummary_V100aspose.finance.ofx.tax1099/proceedsummary_v100.
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.ofx.tax1099/extendedbinfo_v100/proceedsummary_v100s/
 ---
 ## ExtendedBInfo_V100.ProceedSummary_V100s property
 
-获取或设置[`ProceedSummary_V100`](../../proceedsummary_v100)的集合。
+获取或设置的集合[`ProceedSummary_V100`](../../proceedsummary_v100).
 
 ```csharp
 public List<ProceedSummary_V100> ProceedSummary_V100s { get; set; }

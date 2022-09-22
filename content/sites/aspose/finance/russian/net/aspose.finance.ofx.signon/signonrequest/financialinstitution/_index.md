@@ -1,14 +1,14 @@
 ---
 title: FinancialInstitution
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задаетFinancialInstitutionaspose.finance.ofx.signon/signonrequest/financialinstitution.
+description: Получает или задаетFinancialInstitutionaspose.finance.ofx.signon/signonrequest/financialinstitution .
 type: docs
 weight: 100
 url: /ru/net/aspose.finance.ofx.signon/signonrequest/financialinstitution/
 ---
 ## SignonRequest.FinancialInstitution property
 
-Получает или задает`FinancialInstitution`.
+Получает или задает`FinancialInstitution` .
 
 ```csharp
 public FinancialInstitution FinancialInstitution { get; set; }

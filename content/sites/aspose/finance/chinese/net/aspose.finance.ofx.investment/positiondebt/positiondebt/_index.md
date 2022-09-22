@@ -1,14 +1,14 @@
 ---
 title: PositionDebt
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化PositionDebtaspose.finance.ofx.investment/positiondebt类的新实例
+description: 初始化一个新的实例PositionDebtaspose.finance.ofx.investment/positiondebt类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.investment/positiondebt/positiondebt/
 ---
 ## PositionDebt constructor
 
-初始化[`PositionDebt`](../../positiondebt)类的新实例。
+初始化一个新的实例[`PositionDebt`](../../positiondebt)类.
 
 ```csharp
 public PositionDebt()

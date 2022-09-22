@@ -1,14 +1,14 @@
 ---
 title: SellTypeEnum
 second_title: Aspose.Finance for .NET API 参考
-description: 出售类型枚举
+description: 销售类型枚举
 type: docs
 weight: 3540
 url: /zh/net/aspose.finance.ofx.investment/selltypeenum/
 ---
 ## SellTypeEnum enumeration
 
-出售类型枚举。
+销售类型枚举。
 
 ```csharp
 public enum SellTypeEnum

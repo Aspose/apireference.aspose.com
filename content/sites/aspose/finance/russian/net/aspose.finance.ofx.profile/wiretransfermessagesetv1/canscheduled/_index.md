@@ -1,14 +1,14 @@
 ---
 title: CanScheduled
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает поддерживает ли передача по расписанию.
+description: Получает или задает поддерживает ли запланированная передача.
 type: docs
 weight: 20
 url: /ru/net/aspose.finance.ofx.profile/wiretransfermessagesetv1/canscheduled/
 ---
 ## WireTransferMessageSetV1.CanScheduled property
 
-Получает или задает, поддерживает ли передача по расписанию.
+Получает или задает, поддерживает ли запланированная передача.
 
 ```csharp
 public bool CanScheduled { get; set; }

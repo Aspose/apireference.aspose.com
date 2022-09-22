@@ -1,14 +1,14 @@
 ---
 title: Request
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置PayeeRequestaspose.finance.ofx.billpay/payeerequest或PayeeModRequestaspose.finance.ofx.billpay/payeemodrequest或PayeeDeleteRequestaspose.finance.ofx.billpay/payeedeleterequest
+description: 获取或设置PayeeRequestaspose.finance.ofx.billpay/payeerequest或者PayeeModRequestaspose.finance.ofx.billpay/payeemodrequest或者PayeeDeleteRequestaspose.finance.ofx.billpay/payeedeleterequest.
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.ofx.billpay/payeetransactionrequest/request/
 ---
 ## PayeeTransactionRequest.Request property
 
-获取或设置[`PayeeRequest`](../../payeerequest)或[`PayeeModRequest`](../../payeemodrequest)或[`PayeeDeleteRequest`](../../payeedeleterequest)。
+获取或设置[`PayeeRequest`](../../payeerequest)或者[`PayeeModRequest`](../../payeemodrequest)或者[`PayeeDeleteRequest`](../../payeedeleterequest).
 
 ```csharp
 public AbstractPayeeRequest Request { get; set; }

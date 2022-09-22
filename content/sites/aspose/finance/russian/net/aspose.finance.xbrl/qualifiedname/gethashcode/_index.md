@@ -1,14 +1,14 @@
 ---
 title: GetHashCode
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает хэш-код.
+description: Получает хешкод.
 type: docs
 weight: 60
 url: /ru/net/aspose.finance.xbrl/qualifiedname/gethashcode/
 ---
 ## QualifiedName.GetHashCode method
 
-Получает хэш-код.
+Получает хеш-код.
 
 ```csharp
 public override int GetHashCode()

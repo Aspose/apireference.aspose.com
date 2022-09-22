@@ -1,14 +1,14 @@
 ---
 title: UsedOns
 second_title: Aspose.Finance for .NET API 参考
-description: 获取ArcroleTypeaspose.finance.xbrl/arcroletype中引用时使用的 from 集合
+description: 获取 from 在引用中使用的集合ArcroleTypeaspose.finance.xbrl/arcroletype.
 type: docs
 weight: 40
 url: /zh/net/aspose.finance.xbrl/arcroletype/usedons/
 ---
 ## ArcroleType.UsedOns property
 
-获取[`ArcroleType`](../../arcroletype)中引用时使用的 from 集合。
+获取 from 在引用中使用的集合[`ArcroleType`](../../arcroletype).
 
 ```csharp
 public List<string> UsedOns { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: Response
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задаетInterResponseaspose.finance.ofx.intertransfer/interresponseилиInterModResponseaspose.finance.ofx.intertransfer/intermodresponseилиInterCancellationResponseaspose.finance.ofx.intertransfer/intercancellationresponse.
+description: Получает или задаетInterResponseaspose.finance.ofx.intertransfer/interresponse или жеInterModResponseaspose.finance.ofx.intertransfer/intermodresponse или жеInterCancellationResponseaspose.finance.ofx.intertransfer/intercancellationresponse .
 type: docs
 weight: 30
 url: /ru/net/aspose.finance.ofx.intertransfer/intertransactionresponse/response/
 ---
 ## InterTransactionResponse.Response property
 
-Получает или задает[`InterResponse`](../../interresponse)или[`InterModResponse`](../../intermodresponse)или[`InterCancellationResponse`](../../intercancellationresponse).
+Получает или задает[`InterResponse`](../../interresponse) или же[`InterModResponse`](../../intermodresponse) или же[`InterCancellationResponse`](../../intercancellationresponse) .
 
 ```csharp
 public AbstractInterResponse Response { get; set; }

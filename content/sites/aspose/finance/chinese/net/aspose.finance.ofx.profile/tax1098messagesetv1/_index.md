@@ -18,14 +18,14 @@ public class Tax1098MessageSetV1 : AbstractMessageSetVersion
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Tax1098MessageSetV1](tax1098messagesetv1)() | 初始化[`Tax1098MessageSetV1`](../tax1098messagesetv1)类的新实例。 |
+| [Tax1098MessageSetV1](tax1098messagesetv1)() | 初始化一个新的实例[`Tax1098MessageSetV1`](../tax1098messagesetv1)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [MessageSetCore](../../aspose.finance.ofx.profile/abstractmessagesetversion/messagesetcore) { get; set; } | 获取或设置[`MessageSetCore`](../abstractmessagesetversion/messagesetcore)。 |
-| [Tax1098Download](../../aspose.finance.ofx.profile/tax1098messagesetv1/tax1098download) { get; set; } | 获取或设置服务器是否支持1098税表下载。 |
+| [MessageSetCore](../../aspose.finance.ofx.profile/abstractmessagesetversion/messagesetcore) { get; set; } | 获取或设置[`MessageSetCore`](../abstractmessagesetversion/messagesetcore). |
+| [Tax1098Download](../../aspose.finance.ofx.profile/tax1098messagesetv1/tax1098download) { get; set; } | 获取或设置服务器是否支持1098税表下载 |
 | [TaxYearSupporteds](../../aspose.finance.ofx.profile/tax1098messagesetv1/taxyearsupporteds) { get; set; } | 获取或设置此服务器 1098 下载支持的年份。 |
 
 ### 也可以看看

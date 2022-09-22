@@ -1,14 +1,14 @@
 ---
 title: PlanJoinDate
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает дату присоединения сотрудника к плану.
+description: Получает или задает дату когда сотрудник присоединился к плану.
 type: docs
 weight: 130
 url: /ru/net/aspose.finance.ofx.investment/investment401k/planjoindate/
 ---
 ## Investment401k.PlanJoinDate property
 
-Получает или задает дату присоединения сотрудника к плану.
+Получает или задает дату, когда сотрудник присоединился к плану.
 
 ```csharp
 public string PlanJoinDate { get; set; }

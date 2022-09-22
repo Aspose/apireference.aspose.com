@@ -1,14 +1,14 @@
 ---
 title: InvestmentBalance
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置InvestmentBalanceaspose.finance.ofx.investment/investmentstatementresponse/investmentbalance
+description: 获取或设置InvestmentBalanceaspose.finance.ofx.investment/investmentstatementresponse/investmentbalance.
 type: docs
 weight: 70
 url: /zh/net/aspose.finance.ofx.investment/investmentstatementresponse/investmentbalance/
 ---
 ## InvestmentStatementResponse.InvestmentBalance property
 
-获取或设置`InvestmentBalance`。
+获取或设置`InvestmentBalance`.
 
 ```csharp
 public InvestmentBalance InvestmentBalance { get; set; }

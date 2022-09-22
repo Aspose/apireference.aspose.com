@@ -18,14 +18,14 @@ public enum StatusModByEnum
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| BILLPUBLISHERSR | `0` | 代表支付提供商的服务代表。 |
-| PMTPROVIDER | `1` | 支付提供商。 |
-| PMTPROVIDERSR | `2` | 代表支付提供商的服务代表。 |
-| BILLER | `3` | 比勒。 |
+| BILLPUBLISHERSR | `0` | 代表支付提供商行事的服务代表。 |
+| PMTPROVIDER | `1` | 支付提供商. |
+| PMTPROVIDERSR | `2` | 代表支付提供商行事的服务代表。 |
+| BILLER | `3` | 比勒. |
 | BILLERSR | `4` | 代表开票人行事的服务代表。 |
-| CUSTOMER | `5` | 客户。 |
+| CUSTOMER | `5` | 客户. |
 | CUSTAGENT | `6` | 代表客户行事的自动化软件代理。 |
-| BILLPUBLISHER | `7` | 比尔出版商。 |
+| BILLPUBLISHER | `7` | 账单发布者. |
 
 ### 也可以看看
 

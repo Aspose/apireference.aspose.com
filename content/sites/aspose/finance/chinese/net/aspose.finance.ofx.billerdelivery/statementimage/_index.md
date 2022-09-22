@@ -1,14 +1,14 @@
 ---
 title: StatementImage
 second_title: Aspose.Finance for .NET API 参考
-description: 该类提供一个或多个 URL这些 URL 指向完全呈现的 HTML 格式的账单图像
+description: 该类提供了一个或多个 URL这些 URL 指向以 HTML 格式完全呈现的账单图像
 type: docs
 weight: 1830
 url: /zh/net/aspose.finance.ofx.billerdelivery/statementimage/
 ---
 ## StatementImage class
 
-该类提供一个或多个 URL，这些 URL 指向完全呈现的 HTML 格式的账单图像。
+该类提供了一个或多个 URL，这些 URL 指向以 HTML 格式完全呈现的账单图像。
 
 ```csharp
 public class StatementImage
@@ -18,7 +18,7 @@ public class StatementImage
 
 | 姓名 | 描述 |
 | --- | --- |
-| [StatementImage](statementimage)() | 初始化[`StatementImage`](../statementimage)类的新实例。 |
+| [StatementImage](statementimage)() | 初始化一个新的实例[`StatementImage`](../statementimage)类. |
 
 ## 特性
 

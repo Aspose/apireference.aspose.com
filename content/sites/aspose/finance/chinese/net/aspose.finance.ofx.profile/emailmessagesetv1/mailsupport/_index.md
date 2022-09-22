@@ -1,14 +1,14 @@
 ---
 title: MailSupport
 second_title: Aspose.Finance for .NET API 参考
-description: 如果服务器支持MailRequestaspose.finance.ofx.email/mailrequest请求则为真如果服务器仅支持MailSyncRequestaspose.finance.ofx.email/mailsyncrequest请求则为 False
+description: 如果服务器支持则为真MailRequestaspose.finance.ofx.email/mailrequest要求如果服务器仅支持MailSyncRequestaspose.finance.ofx.email/mailsyncrequest请求.
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.ofx.profile/emailmessagesetv1/mailsupport/
 ---
 ## EmailMessageSetV1.MailSupport property
 
-如果服务器支持[`MailRequest`](../../../aspose.finance.ofx.email/mailrequest)请求，则为真。如果服务器仅支持[`MailSyncRequest`](../../../aspose.finance.ofx.email/mailsyncrequest)请求，则为 False。
+如果服务器支持则为真[`MailRequest`](../../../aspose.finance.ofx.email/mailrequest)要求。如果服务器仅支持[`MailSyncRequest`](../../../aspose.finance.ofx.email/mailsyncrequest)请求.
 
 ```csharp
 public bool MailSupport { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: DateAsOf
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает дату и время сведений о процентах.
+description: Получает или задает дату и время информации о процентах.
 type: docs
 weight: 20
 url: /ru/net/aspose.finance.ofx/loaninteresttype/dateasof/
 ---
 ## LoanInterestType.DateAsOf property
 
-Получает или задает дату и время сведений о процентах.
+Получает или задает дату и время информации о процентах.
 
 ```csharp
 public string DateAsOf { get; set; }

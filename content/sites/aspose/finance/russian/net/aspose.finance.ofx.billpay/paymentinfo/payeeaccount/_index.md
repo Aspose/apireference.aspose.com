@@ -1,14 +1,14 @@
 ---
 title: PayeeAccount
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает номер учетной записи пользователя у получателя платежа.
+description: Получает или устанавливает номер учетной записи пользователя с получателем платежа.
 type: docs
 weight: 100
 url: /ru/net/aspose.finance.ofx.billpay/paymentinfo/payeeaccount/
 ---
 ## PaymentInfo.PayeeAccount property
 
-Получает или задает номер учетной записи пользователя у получателя платежа.
+Получает или устанавливает номер учетной записи пользователя с получателем платежа.
 
 ```csharp
 public string PayeeAccount { get; set; }

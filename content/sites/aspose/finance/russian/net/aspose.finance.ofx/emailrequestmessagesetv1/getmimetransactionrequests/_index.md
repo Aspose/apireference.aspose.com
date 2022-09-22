@@ -1,14 +1,14 @@
 ---
 title: GetMimeTransactionRequests
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает коллекциюGetMimeTransactionRequestaspose.finance.ofx.email/getmimetransactionrequest.
+description: Получает или задает коллекциюGetMimeTransactionRequestaspose.finance.ofx.email/getmimetransactionrequest .
 type: docs
 weight: 20
 url: /ru/net/aspose.finance.ofx/emailrequestmessagesetv1/getmimetransactionrequests/
 ---
 ## EmailRequestMessageSetV1.GetMimeTransactionRequests property
 
-Получает или задает коллекцию[`GetMimeTransactionRequest`](../../../aspose.finance.ofx.email/getmimetransactionrequest).
+Получает или задает коллекцию[`GetMimeTransactionRequest`](../../../aspose.finance.ofx.email/getmimetransactionrequest) .
 
 ```csharp
 public List<GetMimeTransactionRequest> GetMimeTransactionRequests { get; set; }

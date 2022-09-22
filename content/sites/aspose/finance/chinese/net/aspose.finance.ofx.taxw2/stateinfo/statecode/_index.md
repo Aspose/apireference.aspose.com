@@ -8,7 +8,7 @@ url: /zh/net/aspose.finance.ofx.taxw2/stateinfo/statecode/
 ---
 ## StateInfo.StateCode property
 
-获取或设置状态码。
+获取或设置状态码
 
 ```csharp
 public string StateCode { get; set; }

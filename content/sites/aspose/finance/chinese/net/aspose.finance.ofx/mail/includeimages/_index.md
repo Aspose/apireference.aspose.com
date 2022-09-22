@@ -1,14 +1,14 @@
 ---
 title: IncludeImages
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置消息正文中是否包含图片
+description: 获取或设置是否在消息体中包含图片
 type: docs
 weight: 40
 url: /zh/net/aspose.finance.ofx/mail/includeimages/
 ---
 ## Mail.IncludeImages property
 
-获取或设置消息正文中是否包含图片。
+获取或设置是否在消息体中包含图片。
 
 ```csharp
 public bool IncludeImages { get; set; }

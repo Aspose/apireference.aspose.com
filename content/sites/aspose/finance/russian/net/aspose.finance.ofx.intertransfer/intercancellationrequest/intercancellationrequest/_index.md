@@ -1,14 +1,14 @@
 ---
 title: InterCancellationRequest
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаInterCancellationRequestaspose.finance.ofx.intertransfer/intercancellationrequest.
+description: Инициализирует новый экземплярInterCancellationRequestaspose.finance.ofx.intertransfer/intercancellationrequest класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.intertransfer/intercancellationrequest/intercancellationrequest/
 ---
 ## InterCancellationRequest constructor
 
-Инициализирует новый экземпляр класса[`InterCancellationRequest`](../../intercancellationrequest).
+Инициализирует новый экземпляр[`InterCancellationRequest`](../../intercancellationrequest) класс.
 
 ```csharp
 public InterCancellationRequest()

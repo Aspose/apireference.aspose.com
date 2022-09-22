@@ -18,13 +18,13 @@ public class TransferProcessingStatus
 
 | 姓名 | 描述 |
 | --- | --- |
-| [TransferProcessingStatus](transferprocessingstatus)() | 初始化[`TransferProcessingStatus`](../transferprocessingstatus)类的新实例。 |
+| [TransferProcessingStatus](transferprocessingstatus)() | 初始化一个新的实例[`TransferProcessingStatus`](../transferprocessingstatus)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [TransferProcessingCode](../../aspose.finance.ofx/transferprocessingstatus/transferprocessingcode) { get; set; } | 获取或设置传输处理代码。 |
+| [TransferProcessingCode](../../aspose.finance.ofx/transferprocessingstatus/transferprocessingcode) { get; set; } | 获取或设置传输处理码 |
 | [TransferProcessingDate](../../aspose.finance.ofx/transferprocessingstatus/transferprocessingdate) { get; set; } | 获取或设置传输处理日期。 |
 
 ### 也可以看看

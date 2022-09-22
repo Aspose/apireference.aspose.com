@@ -1,14 +1,14 @@
 ---
 title: AfterTax
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置使用税后员工供款购买的所有证券的当前价值
+description: 获取或设置使用税后员工缴款购买的所有证券的当前价值
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.ofx.investment/investment401kbalance/aftertax/
 ---
 ## Investment401kBalance.AfterTax property
 
-获取或设置使用税后员工供款购买的所有证券的当前价值。
+获取或设置使用税后员工缴款购买的所有证券的当前价值。
 
 ```csharp
 public string AfterTax { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: WireCancellationResponse
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаWireCancellationResponseaspose.finance.ofx.wiretransfer/wirecancellationresponse.
+description: Инициализирует новый экземплярWireCancellationResponseaspose.finance.ofx.wiretransfer/wirecancellationresponse класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.wiretransfer/wirecancellationresponse/wirecancellationresponse/
 ---
 ## WireCancellationResponse constructor
 
-Инициализирует новый экземпляр класса[`WireCancellationResponse`](../../wirecancellationresponse).
+Инициализирует новый экземпляр[`WireCancellationResponse`](../../wirecancellationresponse) класс.
 
 ```csharp
 public WireCancellationResponse()

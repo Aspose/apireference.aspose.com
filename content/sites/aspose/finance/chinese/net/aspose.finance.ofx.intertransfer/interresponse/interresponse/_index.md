@@ -1,14 +1,14 @@
 ---
 title: InterResponse
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化InterResponseaspose.finance.ofx.intertransfer/interresponse类的新实例
+description: 初始化一个新的实例InterResponseaspose.finance.ofx.intertransfer/interresponse类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.intertransfer/interresponse/interresponse/
 ---
 ## InterResponse constructor
 
-初始化[`InterResponse`](../../interresponse)类的新实例。
+初始化一个新的实例[`InterResponse`](../../interresponse)类.
 
 ```csharp
 public InterResponse()

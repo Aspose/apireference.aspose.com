@@ -1,14 +1,14 @@
 ---
 title: InterTransactionResponses
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает коллекциюInterTransactionResponseaspose.finance.ofx.intertransfer/intertransactionresponse.
+description: Получает или задает коллекциюInterTransactionResponseaspose.finance.ofx.intertransfer/intertransactionresponse .
 type: docs
 weight: 30
 url: /ru/net/aspose.finance.ofx/intertransferresponsemessagesetv1/intertransactionresponses/
 ---
 ## InterTransferResponseMessageSetV1.InterTransactionResponses property
 
-Получает или задает коллекцию[`InterTransactionResponse`](../../../aspose.finance.ofx.intertransfer/intertransactionresponse).
+Получает или задает коллекцию[`InterTransactionResponse`](../../../aspose.finance.ofx.intertransfer/intertransactionresponse) .
 
 ```csharp
 public List<InterTransactionResponse> InterTransactionResponses { get; set; }

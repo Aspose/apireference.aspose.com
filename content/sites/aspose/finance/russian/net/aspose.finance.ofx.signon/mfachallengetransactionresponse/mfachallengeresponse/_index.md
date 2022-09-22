@@ -1,14 +1,14 @@
 ---
 title: MFAChallengeResponse
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задаетMFAChallengeResponseaspose.finance.ofx.signon/mfachallengetransactionresponse/mfachallengeresponse.
+description: Получает или задаетMFAChallengeResponseaspose.finance.ofx.signon/mfachallengetransactionresponse/mfachallengeresponse .
 type: docs
 weight: 20
 url: /ru/net/aspose.finance.ofx.signon/mfachallengetransactionresponse/mfachallengeresponse/
 ---
 ## MFAChallengeTransactionResponse.MFAChallengeResponse property
 
-Получает или задает`MFAChallengeResponse`.
+Получает или задает`MFAChallengeResponse` .
 
 ```csharp
 public MFAChallengeResponse MFAChallengeResponse { get; set; }

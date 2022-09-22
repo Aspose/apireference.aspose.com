@@ -1,14 +1,14 @@
 ---
 title: InvestmentMailTransactionRequest
 second_title: Справочник по API Aspose.Finance для .NET
-description: Класс запроса инвестиционной электронной почты.
+description: Класс запросов инвестиционных транзакций по электронной почте.
 type: docs
 weight: 3010
 url: /ru/net/aspose.finance.ofx.investment/investmentmailtransactionrequest/
 ---
 ## InvestmentMailTransactionRequest class
 
-Класс запроса инвестиционной электронной почты.
+Класс запросов инвестиционных транзакций по электронной почте.
 
 ```csharp
 public class InvestmentMailTransactionRequest : AbstractTransactionRequest
@@ -18,15 +18,15 @@ public class InvestmentMailTransactionRequest : AbstractTransactionRequest
 
 | Имя | Описание |
 | --- | --- |
-| [InvestmentMailTransactionRequest](investmentmailtransactionrequest)() | Инициализирует новый экземпляр класса[`InvestmentMailTransactionRequest`](../investmentmailtransactionrequest). |
+| [InvestmentMailTransactionRequest](investmentmailtransactionrequest)() | Инициализирует новый экземпляр[`InvestmentMailTransactionRequest`](../investmentmailtransactionrequest) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [ClientCookie](../../aspose.finance.ofx/abstracttransactionrequest/clientcookie) { get; set; } | Получает или задает данные, которые будут отображаться в ответе транзакции |
-| [InvestmentMailRequest](../../aspose.finance.ofx.investment/investmentmailtransactionrequest/investmentmailrequest) { get; set; } | Получает или задает[`InvestmentMailRequest`](./investmentmailrequest). |
-| [OfxExtension](../../aspose.finance.ofx.investment/investmentmailtransactionrequest/ofxextension) { get; set; } | Получает или задает[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
+| [ClientCookie](../../aspose.finance.ofx/abstracttransactionrequest/clientcookie) { get; set; } | Получает или задает данные, которые будут отражены в транзакции response |
+| [InvestmentMailRequest](../../aspose.finance.ofx.investment/investmentmailtransactionrequest/investmentmailrequest) { get; set; } | Получает или задает[`InvestmentMailRequest`](./investmentmailrequest) . |
+| [OfxExtension](../../aspose.finance.ofx.investment/investmentmailtransactionrequest/ofxextension) { get; set; } | Получает или задает[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype) . |
 | [TransactionAuthorizationNumber](../../aspose.finance.ofx/abstracttransactionrequest/transactionauthorizationnumber) { get; set; } | Получает или задает номер авторизации транзакции. |
 | [TransactionUniqueId](../../aspose.finance.ofx/abstracttransactionrequest/transactionuniqueid) { get; set; } | Получает или задает назначенный клиентом глобальный уникальный идентификатор для этой транзакции |
 

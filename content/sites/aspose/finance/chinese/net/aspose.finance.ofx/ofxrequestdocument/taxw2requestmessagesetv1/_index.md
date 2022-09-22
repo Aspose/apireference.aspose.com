@@ -1,14 +1,14 @@
 ---
 title: TaxW2RequestMessageSetV1
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置TaxW2RequestMessageSetV1aspose.finance.ofx/ofxrequestdocument/taxw2requestmessagesetv1
+description: 获取或设置TaxW2RequestMessageSetV1aspose.finance.ofx/ofxrequestdocument/taxw2requestmessagesetv1.
 type: docs
 weight: 180
 url: /zh/net/aspose.finance.ofx/ofxrequestdocument/taxw2requestmessagesetv1/
 ---
 ## OfxRequestDocument.TaxW2RequestMessageSetV1 property
 
-获取或设置`TaxW2RequestMessageSetV1`。
+获取或设置`TaxW2RequestMessageSetV1`.
 
 ```csharp
 public TaxW2RequestMessageSetV1 TaxW2RequestMessageSetV1 { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: InvestmentSell
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化InvestmentSellaspose.finance.ofx.investment/investmentsell类的新实例
+description: 初始化一个新的实例InvestmentSellaspose.finance.ofx.investment/investmentsell类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.investment/investmentsell/investmentsell/
 ---
 ## InvestmentSell constructor
 
-初始化[`InvestmentSell`](../../investmentsell)类的新实例。
+初始化一个新的实例[`InvestmentSell`](../../investmentsell)类.
 
 ```csharp
 public InvestmentSell()

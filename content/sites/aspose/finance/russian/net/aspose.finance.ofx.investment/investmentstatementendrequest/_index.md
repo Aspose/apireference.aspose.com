@@ -1,14 +1,14 @@
 ---
 title: InvestmentStatementEndRequest
 second_title: Справочник по API Aspose.Finance для .NET
-description: Класс запроса заключительного заявления.
+description: Класс запроса заявления о закрытии.
 type: docs
 weight: 3070
 url: /ru/net/aspose.finance.ofx.investment/investmentstatementendrequest/
 ---
 ## InvestmentStatementEndRequest class
 
-Класс запроса заключительного заявления.
+Класс запроса заявления о закрытии.
 
 ```csharp
 public class InvestmentStatementEndRequest
@@ -18,16 +18,16 @@ public class InvestmentStatementEndRequest
 
 | Имя | Описание |
 | --- | --- |
-| [InvestmentStatementEndRequest](investmentstatementendrequest)() | Инициализирует новый экземпляр класса[`InvestmentStatementEndRequest`](../investmentstatementendrequest). |
+| [InvestmentStatementEndRequest](investmentstatementendrequest)() | Инициализирует новый экземпляр[`InvestmentStatementEndRequest`](../investmentstatementendrequest) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [EndDate](../../aspose.finance.ofx.investment/investmentstatementendrequest/enddate) { get; set; } | Получает или задает дату окончания сведений о закрытии выписки. |
+| [EndDate](../../aspose.finance.ofx.investment/investmentstatementendrequest/enddate) { get; set; } | Получает или задает дату окончания информации о закрытии выписки. |
 | [IncludeStatementImage](../../aspose.finance.ofx.investment/investmentstatementendrequest/includestatementimage) { get; set; } | Получает или задает, следует ли включать данные для закрывающих изображений операторов. |
-| [InvestmentAccountFrom](../../aspose.finance.ofx.investment/investmentstatementendrequest/investmentaccountfrom) { get; set; } | Получает или задает значение из[`InvestmentAccount`](../../aspose.finance.ofx/investmentaccount). |
-| [StartDate](../../aspose.finance.ofx.investment/investmentstatementendrequest/startdate) { get; set; } | Получает или задает начальную дату для сведений о закрытии выписки. |
+| [InvestmentAccountFrom](../../aspose.finance.ofx.investment/investmentstatementendrequest/investmentaccountfrom) { get; set; } | Получает или задает из[`InvestmentAccount`](../../aspose.finance.ofx/investmentaccount) . |
+| [StartDate](../../aspose.finance.ofx.investment/investmentstatementendrequest/startdate) { get; set; } | Получает или задает начальную дату для информации о закрытии выписки. |
 
 ### Смотрите также
 

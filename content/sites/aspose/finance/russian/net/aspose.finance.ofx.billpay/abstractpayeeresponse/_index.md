@@ -18,7 +18,7 @@ public abstract class AbstractPayeeResponse
 
 | Имя | Описание |
 | --- | --- |
-| [PayeeListId](../../aspose.finance.ofx.billpay/abstractpayeeresponse/payeelistid) { get; set; } | Получает или задает назначенный сервером идентификатор записи для этой записи получателя. |
+| [PayeeListId](../../aspose.finance.ofx.billpay/abstractpayeeresponse/payeelistid) { get; set; } | Получает или задает назначенный сервером идентификатор записи для этой записи получателя платежа. |
 
 ### Смотрите также
 

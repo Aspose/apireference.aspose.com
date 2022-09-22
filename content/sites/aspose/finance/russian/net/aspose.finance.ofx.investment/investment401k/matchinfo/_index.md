@@ -1,14 +1,14 @@
 ---
 title: MatchInfo
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задаетMatchInfoaspose.finance.ofx.investment/investment401k/matchinfo.
+description: Получает или задаетMatchInfoaspose.finance.ofx.investment/investment401k/matchinfo .
 type: docs
 weight: 110
 url: /ru/net/aspose.finance.ofx.investment/investment401k/matchinfo/
 ---
 ## Investment401k.MatchInfo property
 
-Получает или задает`MatchInfo`.
+Получает или задает`MatchInfo` .
 
 ```csharp
 public MatchInfo MatchInfo { get; set; }

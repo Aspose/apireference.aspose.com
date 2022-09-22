@@ -1,14 +1,14 @@
 ---
 title: InvestmentOpenOrderList
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задаетInvestmentOpenOrderListaspose.finance.ofx.investment/investmentstatementresponse/investmentopenorderlist.
+description: Получает или задаетInvestmentOpenOrderListaspose.finance.ofx.investment/investmentstatementresponse/investmentopenorderlist .
 type: docs
 weight: 80
 url: /ru/net/aspose.finance.ofx.investment/investmentstatementresponse/investmentopenorderlist/
 ---
 ## InvestmentStatementResponse.InvestmentOpenOrderList property
 
-Получает или задает`InvestmentOpenOrderList`.
+Получает или задает`InvestmentOpenOrderList` .
 
 ```csharp
 public InvestmentOpenOrderList InvestmentOpenOrderList { get; set; }

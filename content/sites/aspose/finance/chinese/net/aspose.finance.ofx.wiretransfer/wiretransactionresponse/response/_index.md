@@ -1,14 +1,14 @@
 ---
 title: Response
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置WireResponseaspose.finance.ofx.wiretransfer/wireresponse或WireCancellationResponseaspose.finance.ofx.wiretransfer/wirecancellationresponse.
+description: 获取或设置WireResponseaspose.finance.ofx.wiretransfer/wireresponse或者WireCancellationResponseaspose.finance.ofx.wiretransfer/wirecancellationresponse.
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.ofx.wiretransfer/wiretransactionresponse/response/
 ---
 ## WireTransactionResponse.Response property
 
-获取或设置[`WireResponse`](../../wireresponse)或[`WireCancellationResponse`](../../wirecancellationresponse).
+获取或设置[`WireResponse`](../../wireresponse)或者[`WireCancellationResponse`](../../wirecancellationresponse).
 
 ```csharp
 public AbstractWireResponse Response { get; set; }

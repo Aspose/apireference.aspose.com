@@ -1,14 +1,14 @@
 ---
 title: Total
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает текущую стоимость всех ценных бумаг купленных на все взносы.
+description: Получает или задает текущую стоимость всех ценных бумаг купленных со всеми взносами.
 type: docs
 weight: 110
 url: /ru/net/aspose.finance.ofx.investment/investment401kbalance/total/
 ---
 ## Investment401kBalance.Total property
 
-Получает или задает текущую стоимость всех ценных бумаг, купленных на все взносы.
+Получает или задает текущую стоимость всех ценных бумаг, купленных со всеми взносами.
 
 ```csharp
 public string Total { get; set; }

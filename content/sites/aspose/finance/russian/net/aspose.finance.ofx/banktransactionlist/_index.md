@@ -1,14 +1,14 @@
 ---
 title: BankTransactionList
 second_title: Справочник по API Aspose.Finance для .NET
-description: Класс сбора транзакционных данных оператора.
+description: Класс сбора данных транзакций выписки.
 type: docs
 weight: 820
 url: /ru/net/aspose.finance.ofx/banktransactionlist/
 ---
 ## BankTransactionList class
 
-Класс сбора транзакционных данных оператора.
+Класс сбора данных транзакций выписки.
 
 ```csharp
 public class BankTransactionList
@@ -18,7 +18,7 @@ public class BankTransactionList
 
 | Имя | Описание |
 | --- | --- |
-| [BankTransactionList](banktransactionlist)() | Инициализирует новый экземпляр класса[`BankTransactionList`](../banktransactionlist). |
+| [BankTransactionList](banktransactionlist)() | Инициализирует новый экземпляр[`BankTransactionList`](../banktransactionlist) класс. |
 
 ## Характеристики
 
@@ -26,7 +26,7 @@ public class BankTransactionList
 | --- | --- |
 | [EndDate](../../aspose.finance.ofx/banktransactionlist/enddate) { get; set; } | Получает или задает дату окончания для данных транзакции. |
 | [StartDate](../../aspose.finance.ofx/banktransactionlist/startdate) { get; set; } | Получает или задает начальную дату для данных транзакции. |
-| [StatementTransactions](../../aspose.finance.ofx/banktransactionlist/statementtransactions) { get; set; } | Получает или задает коллекцию[`StatementTransaction`](../statementtransaction). |
+| [StatementTransactions](../../aspose.finance.ofx/banktransactionlist/statementtransactions) { get; set; } | Получает или задает коллекцию[`StatementTransaction`](../statementtransaction) . |
 
 ### Смотрите также
 

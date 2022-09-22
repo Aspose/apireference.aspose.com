@@ -3,7 +3,7 @@ title: PresentationArc
 second_title: Aspose.Finance for .NET API Reference
 description: This class is a Xlink./xlink with Arc type. It defines how Concepts relate to one another for presentation.
 type: docs
-weight: 7860
+weight: 7910
 url: /net/aspose.finance.xbrl/presentationarc/
 ---
 ## PresentationArc class

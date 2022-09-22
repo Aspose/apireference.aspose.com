@@ -1,14 +1,14 @@
 ---
 title: UnitRef
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает ссылку наUnitaspose.finance.xbrl/unitInlineFractionaspose.finance.xbrl.inline/inlinefraction.
+description: Получает или задает ссылку наUnitaspose.finance.xbrl/unit принадлежащийInlineFractionaspose.finance.xbrl.inline/inlinefraction .
 type: docs
 weight: 60
 url: /ru/net/aspose.finance.xbrl.inline/inlinefraction/unitref/
 ---
 ## InlineFraction.UnitRef property
 
-Получает или задает ссылку на[`Unit`](../../../aspose.finance.xbrl/unit)[`InlineFraction`](../../inlinefraction).
+Получает или задает ссылку на[`Unit`](../../../aspose.finance.xbrl/unit) принадлежащий[`InlineFraction`](../../inlinefraction) .
 
 ```csharp
 public Unit UnitRef { get; set; }

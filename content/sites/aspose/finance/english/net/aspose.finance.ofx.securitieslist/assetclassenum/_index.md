@@ -3,7 +3,7 @@ title: AssetClassEnum
 second_title: Aspose.Finance for .NET API Reference
 description: Asset class enum.
 type: docs
-weight: 4990
+weight: 5020
 url: /net/aspose.finance.ofx.securitieslist/assetclassenum/
 ---
 ## AssetClassEnum enumeration

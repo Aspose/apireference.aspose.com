@@ -20,7 +20,7 @@ public bool HasAttribute(string name)
 
 ### 返回值
 
-如果具有名称属性则为真；否则为假。
+如果具有名称的属性，则为真；否则为假。
 
 ### 也可以看看
 

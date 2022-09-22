@@ -18,14 +18,14 @@ public class PositionMutualFund : AbstractPositionBase
 
 | Имя | Описание |
 | --- | --- |
-| [PositionMutualFund](positionmutualfund)() | Инициализирует новый экземпляр класса[`PositionMutualFund`](../positionmutualfund). |
+| [PositionMutualFund](positionmutualfund)() | Инициализирует новый экземпляр[`PositionMutualFund`](../positionmutualfund) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [InvestmentPosition](../../aspose.finance.ofx.investment/abstractpositionbase/investmentposition) { get; set; } | Получает или задает[`InvestmentPosition`](../abstractpositionbase/investmentposition). |
-| [ReinvestCapitalGain](../../aspose.finance.ofx.investment/positionmutualfund/reinvestcapitalgain) { get; set; } | Получает или задает, реинвестировать ли прирост капитала. |
+| [InvestmentPosition](../../aspose.finance.ofx.investment/abstractpositionbase/investmentposition) { get; set; } | Получает или задает[`InvestmentPosition`](../abstractpositionbase/investmentposition) . |
+| [ReinvestCapitalGain](../../aspose.finance.ofx.investment/positionmutualfund/reinvestcapitalgain) { get; set; } | Получает или задает, следует ли реинвестировать прирост капитала. |
 | [ReinvestDividend](../../aspose.finance.ofx.investment/positionmutualfund/reinvestdividend) { get; set; } | Получает или задает, реинвестировать ли дивиденды. |
 | [UnitsStreet](../../aspose.finance.ofx.investment/positionmutualfund/unitsstreet) { get; set; } | Получает или задает единицы измерения в названии улицы FI. |
 | [UnitsUser](../../aspose.finance.ofx.investment/positionmutualfund/unitsuser) { get; set; } | Получает или задает единицы измерения непосредственно в имени пользователя. |

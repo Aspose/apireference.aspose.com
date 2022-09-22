@@ -8,7 +8,7 @@ url: /zh/net/aspose.finance.ofx.loan/loanstatementtransaction/checknumber/
 ---
 ## LoanStatementTransaction.CheckNumber property
 
-获取或设置校验号。
+获取或设置校验号
 
 ```csharp
 public string CheckNumber { get; set; }

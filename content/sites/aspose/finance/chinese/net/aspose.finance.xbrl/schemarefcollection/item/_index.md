@@ -1,14 +1,14 @@
 ---
 title: Item
 second_title: Aspose.Finance for .NET API 参考
-description: 获取集合中指定索引处的SchemaRefaspose.finance.xbrl/schemaref项
+description: 获取SchemaRefaspose.finance.xbrl/schemaref集合中指定索引处的项目
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.xbrl/schemarefcollection/item/
 ---
 ## SchemaRefCollection indexer
 
-获取集合中指定索引处的[`SchemaRef`](../../schemaref)项。
+获取[`SchemaRef`](../../schemaref)集合中指定索引处的项目。
 
 ```csharp
 public SchemaRef this[int index] { get; }

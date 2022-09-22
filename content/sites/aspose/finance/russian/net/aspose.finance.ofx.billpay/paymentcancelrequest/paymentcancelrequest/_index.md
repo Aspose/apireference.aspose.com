@@ -1,14 +1,14 @@
 ---
 title: PaymentCancelRequest
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаPaymentCancelRequestaspose.finance.ofx.billpay/paymentcancelrequest.
+description: Инициализирует новый экземплярPaymentCancelRequestaspose.finance.ofx.billpay/paymentcancelrequest класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.billpay/paymentcancelrequest/paymentcancelrequest/
 ---
 ## PaymentCancelRequest constructor
 
-Инициализирует новый экземпляр класса[`PaymentCancelRequest`](../../paymentcancelrequest).
+Инициализирует новый экземпляр[`PaymentCancelRequest`](../../paymentcancelrequest) класс.
 
 ```csharp
 public PaymentCancelRequest()

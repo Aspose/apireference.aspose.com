@@ -18,16 +18,16 @@ public class CreditCardStatementTransactionResponse : AbstractTransactionRespons
 
 | Имя | Описание |
 | --- | --- |
-| [CreditCardStatementTransactionResponse](creditcardstatementtransactionresponse)() | Инициализирует новый экземпляр класса[`CreditCardStatementTransactionResponse`](../creditcardstatementtransactionresponse). |
+| [CreditCardStatementTransactionResponse](creditcardstatementtransactionresponse)() | Инициализирует новый экземпляр[`CreditCardStatementTransactionResponse`](../creditcardstatementtransactionresponse) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [ClientCookie](../../aspose.finance.ofx/abstracttransactionresponse/clientcookie) { get; set; } | Получает или задает данные, которые будут отображаться в ответе транзакции |
-| [CreditCardStatementResponse](../../aspose.finance.ofx.creditcard/creditcardstatementtransactionresponse/creditcardstatementresponse) { get; set; } | Получает или задает[`CreditCardStatementResponse`](./creditcardstatementresponse). |
-| [OfxExtension](../../aspose.finance.ofx.creditcard/creditcardstatementtransactionresponse/ofxextension) { get; set; } | Получает или задает[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
-| [Status](../../aspose.finance.ofx/abstracttransactionresponse/status) { get; set; } | Получает или задает[`Status`](../../aspose.finance.ofx/abstracttransactionresponse/status). |
+| [ClientCookie](../../aspose.finance.ofx/abstracttransactionresponse/clientcookie) { get; set; } | Получает или задает данные, которые будут отражены в транзакции response |
+| [CreditCardStatementResponse](../../aspose.finance.ofx.creditcard/creditcardstatementtransactionresponse/creditcardstatementresponse) { get; set; } | Получает или задает[`CreditCardStatementResponse`](./creditcardstatementresponse) . |
+| [OfxExtension](../../aspose.finance.ofx.creditcard/creditcardstatementtransactionresponse/ofxextension) { get; set; } | Получает или задает[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype) . |
+| [Status](../../aspose.finance.ofx/abstracttransactionresponse/status) { get; set; } | Получает или задает[`Status`](../../aspose.finance.ofx/abstracttransactionresponse/status) . |
 | [TransactionUniqueId](../../aspose.finance.ofx/abstracttransactionresponse/transactionuniqueid) { get; set; } | Получает или задает назначенный клиентом глобальный уникальный идентификатор для этой транзакции. |
 
 ### Смотрите также

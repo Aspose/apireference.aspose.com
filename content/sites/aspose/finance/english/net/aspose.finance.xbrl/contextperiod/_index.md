@@ -3,7 +3,7 @@ title: ContextPeriod
 second_title: Aspose.Finance for .NET API Reference
 description: The peroid of the Context./context.
 type: docs
-weight: 6560
+weight: 6590
 url: /net/aspose.finance.xbrl/contextperiod/
 ---
 ## ContextPeriod class

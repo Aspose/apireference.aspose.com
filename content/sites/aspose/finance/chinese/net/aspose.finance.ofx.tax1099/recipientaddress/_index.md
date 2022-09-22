@@ -16,7 +16,7 @@ public class RecipientAddress
 
 | 姓名 | 描述 |
 | --- | --- |
-| [RecipientAddress](recipientaddress)() | 初始化[`RecipientAddress`](../recipientaddress)类的新实例。 |
+| [RecipientAddress](recipientaddress)() | 初始化一个新的实例[`RecipientAddress`](../recipientaddress)类. |
 
 ## 特性
 
@@ -24,7 +24,7 @@ public class RecipientAddress
 | --- | --- |
 | [Address1](../../aspose.finance.ofx.tax1099/recipientaddress/address1) { get; set; } | 获取或设置收件人地址，第 1 行。 |
 | [Address2](../../aspose.finance.ofx.tax1099/recipientaddress/address2) { get; set; } | 获取或设置收件人地址，第 2 行。 |
-| [Address3](../../aspose.finance.ofx.tax1099/recipientaddress/address3) { get; set; } | 获取或设置收件人地址，第 3 行。 |
+| [Address3](../../aspose.finance.ofx.tax1099/recipientaddress/address3) { get; set; } | 获取或设置收件人地址，第3行. |
 | [City](../../aspose.finance.ofx.tax1099/recipientaddress/city) { get; set; } | 获取或设置接收城市。 |
 | [CountryString](../../aspose.finance.ofx.tax1099/recipientaddress/countrystring) { get; set; } | 获取或设置收件人国家（如果不是美国），不要缩写。 |
 | [PHONE](../../aspose.finance.ofx.tax1099/recipientaddress/phone) { get; set; } | 获取或设置收件人电话号码。 |

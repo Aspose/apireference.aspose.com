@@ -3,7 +3,7 @@ title: HTMLTableRowElement
 second_title: Aspose.Finance for .NET API Reference
 description: The class represents a row in a table. See the TR element definition in HTML 4.01.
 type: docs
-weight: 7220
+weight: 7250
 url: /net/aspose.finance.xbrl.dom.html/htmltablerowelement/
 ---
 ## HTMLTableRowElement class

@@ -1,14 +1,14 @@
 ---
 title: InvestmentStatementMessageSet
 second_title: Aspose.Finance for .NET API 参考
-description: 投资声明消息集
+description: 投资报表消息集
 type: docs
 weight: 4550
 url: /zh/net/aspose.finance.ofx.profile/investmentstatementmessageset/
 ---
 ## InvestmentStatementMessageSet class
 
-投资声明消息集。
+投资报表消息集。
 
 ```csharp
 public class InvestmentStatementMessageSet : AbstractMessageSet
@@ -18,13 +18,13 @@ public class InvestmentStatementMessageSet : AbstractMessageSet
 
 | 姓名 | 描述 |
 | --- | --- |
-| [InvestmentStatementMessageSet](investmentstatementmessageset)() | 初始化[`InvestmentStatementMessageSet`](../investmentstatementmessageset)类的新实例。 |
+| [InvestmentStatementMessageSet](investmentstatementmessageset)() | 初始化一个新的实例[`InvestmentStatementMessageSet`](../investmentstatementmessageset)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [InvestmentStatementMessageSetV1](../../aspose.finance.ofx.profile/investmentstatementmessageset/investmentstatementmessagesetv1) { get; set; } | 获取或设置[`InvestmentStatementMessageSetV1`](./investmentstatementmessagesetv1)。 |
+| [InvestmentStatementMessageSetV1](../../aspose.finance.ofx.profile/investmentstatementmessageset/investmentstatementmessagesetv1) { get; set; } | 获取或设置[`InvestmentStatementMessageSetV1`](./investmentstatementmessagesetv1). |
 
 ### 也可以看看
 

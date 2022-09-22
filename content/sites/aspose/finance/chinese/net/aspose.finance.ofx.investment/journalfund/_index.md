@@ -18,14 +18,14 @@ public class JournalFund : AbstractInvestmentTransaction
 
 | 姓名 | 描述 |
 | --- | --- |
-| [JournalFund](journalfund)() | 初始化[`JournalFund`](../journalfund)类的新实例。 |
+| [JournalFund](journalfund)() | 初始化一个新的实例[`JournalFund`](../journalfund)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [InvestmentTransaction](../../aspose.finance.ofx.investment/abstractinvestmenttransaction/investmenttransaction) { get; set; } | 获取或设置[`InvestmentTransaction`](../abstractinvestmenttransaction/investmenttransaction)。 |
-| [SubAccountFrom](../../aspose.finance.ofx.investment/journalfund/subaccountfrom) { get; set; } | 获取或设置用于转移证券或现金的子账户。 |
+| [InvestmentTransaction](../../aspose.finance.ofx.investment/abstractinvestmenttransaction/investmenttransaction) { get; set; } | 获取或设置[`InvestmentTransaction`](../abstractinvestmenttransaction/investmenttransaction). |
+| [SubAccountFrom](../../aspose.finance.ofx.investment/journalfund/subaccountfrom) { get; set; } | 获取或设置证券或现金转出的子账户。 |
 | [SubAccountTo](../../aspose.finance.ofx.investment/journalfund/subaccountto) { get; set; } | 获取或设置证券或现金转入的子账户。 |
 | [Total](../../aspose.finance.ofx.investment/journalfund/total) { get; set; } | 获取或设置交易总额。 |
 

@@ -1,14 +1,14 @@
 ---
 title: BillTableStructureTransactionResponse
 second_title: Aspose.Finance for .NET API 参考
-description: 账单表结构事务响应类
+description: 账单表结构交易响应类
 type: docs
 weight: 1560
 url: /zh/net/aspose.finance.ofx.billerdelivery/billtablestructuretransactionresponse/
 ---
 ## BillTableStructureTransactionResponse class
 
-账单表结构事务响应类。
+账单表结构交易响应类
 
 ```csharp
 public class BillTableStructureTransactionResponse : AbstractTransactionResponse
@@ -18,16 +18,16 @@ public class BillTableStructureTransactionResponse : AbstractTransactionResponse
 
 | 姓名 | 描述 |
 | --- | --- |
-| [BillTableStructureTransactionResponse](billtablestructuretransactionresponse)() | 初始化[`BillTableStructureTransactionResponse`](../billtablestructuretransactionresponse)类的新实例。 |
+| [BillTableStructureTransactionResponse](billtablestructuretransactionresponse)() | 初始化一个新的实例[`BillTableStructureTransactionResponse`](../billtablestructuretransactionresponse)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [BillTableStructureResponse](../../aspose.finance.ofx.billerdelivery/billtablestructuretransactionresponse/billtablestructureresponse) { get; set; } | 获取或设置[`BillTableStructureResponse`](./billtablestructureresponse)。 |
+| [BillTableStructureResponse](../../aspose.finance.ofx.billerdelivery/billtablestructuretransactionresponse/billtablestructureresponse) { get; set; } | 获取或设置[`BillTableStructureResponse`](./billtablestructureresponse). |
 | [ClientCookie](../../aspose.finance.ofx/abstracttransactionresponse/clientcookie) { get; set; } | 获取或设置要在事务响应中回显的数据 |
-| [OfxExtension](../../aspose.finance.ofx.billerdelivery/billtablestructuretransactionresponse/ofxextension) { get; set; } | 获取或设置[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype)。 |
-| [Status](../../aspose.finance.ofx/abstracttransactionresponse/status) { get; set; } | 获取或设置[`Status`](../../aspose.finance.ofx/abstracttransactionresponse/status)。 |
+| [OfxExtension](../../aspose.finance.ofx.billerdelivery/billtablestructuretransactionresponse/ofxextension) { get; set; } | 获取或设置[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
+| [Status](../../aspose.finance.ofx/abstracttransactionresponse/status) { get; set; } | 获取或设置[`Status`](../../aspose.finance.ofx/abstracttransactionresponse/status). |
 | [TransactionUniqueId](../../aspose.finance.ofx/abstracttransactionresponse/transactionuniqueid) { get; set; } | 获取或设置此事务的客户端分配的全局唯一 ID。 |
 
 ### 也可以看看

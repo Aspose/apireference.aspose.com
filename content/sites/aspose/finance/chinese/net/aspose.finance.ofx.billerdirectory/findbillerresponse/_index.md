@@ -18,13 +18,13 @@ public class FindBillerResponse
 
 | 姓名 | 描述 |
 | --- | --- |
-| [FindBillerResponse](findbillerresponse)() | 初始化[`FindBillerResponse`](../findbillerresponse)类的新实例。 |
+| [FindBillerResponse](findbillerresponse)() | 初始化一个新的实例[`FindBillerResponse`](../findbillerresponse)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [BillerInfos](../../aspose.finance.ofx.billerdirectory/findbillerresponse/billerinfos) { get; set; } | 获取或设置[`BillerInfo`](../billerinfo)的集合。 |
+| [BillerInfos](../../aspose.finance.ofx.billerdirectory/findbillerresponse/billerinfos) { get; set; } | 获取或设置的集合[`BillerInfo`](../billerinfo). |
 | [UpdateDate](../../aspose.finance.ofx.billerdirectory/findbillerresponse/updatedate) { get; set; } | 获取或设置最后一次添加或修改目录中条目的日期和时间，无论是否是此响应的一部分。 |
 
 ### 也可以看看

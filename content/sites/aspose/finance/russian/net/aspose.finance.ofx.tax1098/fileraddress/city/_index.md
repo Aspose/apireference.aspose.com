@@ -1,14 +1,14 @@
 ---
 title: City
 second_title: Справочник по API Aspose.Finance для .NET
-description: Возвращает или задает город адреса файла.
+description: Получает или задает адрес города.
 type: docs
 weight: 50
 url: /ru/net/aspose.finance.ofx.tax1098/fileraddress/city/
 ---
 ## FilerAddress.City property
 
-Возвращает или задает город адреса файла.
+Получает или задает адрес города.
 
 ```csharp
 public string City { get; set; }

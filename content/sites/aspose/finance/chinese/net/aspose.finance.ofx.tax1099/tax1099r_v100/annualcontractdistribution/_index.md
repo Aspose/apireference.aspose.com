@@ -1,14 +1,14 @@
 ---
 title: AnnualContractDistribution
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置年度合同分配
+description: 获取或设置年度合约分配
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.ofx.tax1099/tax1099r_v100/annualcontractdistribution/
 ---
 ## Tax1099R_V100.AnnualContractDistribution property
 
-获取或设置年度合同分配。
+获取或设置年度合约分配。
 
 ```csharp
 public string AnnualContractDistribution { get; set; }

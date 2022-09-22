@@ -1,14 +1,14 @@
 ---
 title: Insurance
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置借用的人寿意外健康保险
+description: 获取或设置贷款人寿意外健康保险
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.ofx/loantransactionamount/insurance/
 ---
 ## LoanTransactionAmount.Insurance property
 
-获取或设置借用的人寿、意外、健康保险。
+获取或设置贷款人寿、意外、健康保险。
 
 ```csharp
 public string Insurance { get; set; }

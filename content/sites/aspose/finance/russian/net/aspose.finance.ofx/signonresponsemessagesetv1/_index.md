@@ -18,15 +18,15 @@ public class SignonResponseMessageSetV1 : AbstractResponseMessageSet
 
 | Имя | Описание |
 | --- | --- |
-| [SignonResponseMessageSetV1](signonresponsemessagesetv1)() | Инициализирует новый экземпляр класса[`SignonResponseMessageSetV1`](../signonresponsemessagesetv1). |
+| [SignonResponseMessageSetV1](signonresponsemessagesetv1)() | Инициализирует новый экземпляр[`SignonResponseMessageSetV1`](../signonresponsemessagesetv1) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [ChallengeTransactionResponse](../../aspose.finance.ofx/signonresponsemessagesetv1/challengetransactionresponse) { get; set; } | Получает или задает[`ChallengeTransactionResponse`](../../aspose.finance.ofx.signon/challengetransactionresponse). |
-| [PinChangeTransactionResponse](../../aspose.finance.ofx/signonresponsemessagesetv1/pinchangetransactionresponse) { get; set; } | Получает или задает[`PinChangeTransactionResponse`](../../aspose.finance.ofx.signon/pinchangetransactionresponse). |
-| [SignonResponse](../../aspose.finance.ofx/signonresponsemessagesetv1/signonresponse) { get; set; } | Получает или задает[`SignonResponse`](../../aspose.finance.ofx.signon/signonresponse). |
+| [ChallengeTransactionResponse](../../aspose.finance.ofx/signonresponsemessagesetv1/challengetransactionresponse) { get; set; } | Получает или задает[`ChallengeTransactionResponse`](../../aspose.finance.ofx.signon/challengetransactionresponse) . |
+| [PinChangeTransactionResponse](../../aspose.finance.ofx/signonresponsemessagesetv1/pinchangetransactionresponse) { get; set; } | Получает или задает[`PinChangeTransactionResponse`](../../aspose.finance.ofx.signon/pinchangetransactionresponse) . |
+| [SignonResponse](../../aspose.finance.ofx/signonresponsemessagesetv1/signonresponse) { get; set; } | Получает или задает[`SignonResponse`](../../aspose.finance.ofx.signon/signonresponse) . |
 
 ### Смотрите также
 

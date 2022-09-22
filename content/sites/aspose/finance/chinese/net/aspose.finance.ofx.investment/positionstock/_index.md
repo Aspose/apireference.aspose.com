@@ -8,7 +8,7 @@ url: /zh/net/aspose.finance.ofx.investment/positionstock/
 ---
 ## PositionStock class
 
-投资头寸股票类。
+投资头寸股票类
 
 ```csharp
 public class PositionStock : AbstractPositionBase
@@ -18,14 +18,14 @@ public class PositionStock : AbstractPositionBase
 
 | 姓名 | 描述 |
 | --- | --- |
-| [PositionStock](positionstock)() | 初始化[`PositionStock`](../positionstock)类的新实例。 |
+| [PositionStock](positionstock)() | 初始化一个新的实例[`PositionStock`](../positionstock)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [InvestmentPosition](../../aspose.finance.ofx.investment/abstractpositionbase/investmentposition) { get; set; } | 获取或设置[`InvestmentPosition`](../abstractpositionbase/investmentposition)。 |
-| [ReinvestDividend](../../aspose.finance.ofx.investment/positionstock/reinvestdividend) { get; set; } | 获取或设置是否再投资股息。 |
+| [InvestmentPosition](../../aspose.finance.ofx.investment/abstractpositionbase/investmentposition) { get; set; } | 获取或设置[`InvestmentPosition`](../abstractpositionbase/investmentposition). |
+| [ReinvestDividend](../../aspose.finance.ofx.investment/positionstock/reinvestdividend) { get; set; } | 获取或设置股息是否再投资。 |
 | [UnitsStreet](../../aspose.finance.ofx.investment/positionstock/unitsstreet) { get; set; } | 获取或设置 FI 街道名称中的单位。 |
 | [UnitsUser](../../aspose.finance.ofx.investment/positionstock/unitsuser) { get; set; } | 直接获取或设置用户名中的单位。 |
 

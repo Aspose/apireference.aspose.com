@@ -18,16 +18,16 @@ public class LoanTransactionAmount
 
 | Имя | Описание |
 | --- | --- |
-| [LoanTransactionAmount](loantransactionamount)() | Инициализирует новый экземпляр класса[`LoanTransactionAmount`](../loantransactionamount). |
+| [LoanTransactionAmount](loantransactionamount)() | Инициализирует новый экземпляр[`LoanTransactionAmount`](../loantransactionamount) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [EscrowAmount](../../aspose.finance.ofx/loantransactionamount/escrowamount) { get; set; } | Получает или задает!:Common.EscrowAmountдля ипотечных кредитов. |
-| [Insurance](../../aspose.finance.ofx/loantransactionamount/insurance) { get; set; } | Получает или устанавливает страхование жизни, несчастных случаев, здоровья в кредит. |
+| [EscrowAmount](../../aspose.finance.ofx/loantransactionamount/escrowamount) { get; set; } | Получает или задает!:Common.EscrowAmount для ипотеки. |
+| [Insurance](../../aspose.finance.ofx/loantransactionamount/insurance) { get; set; } | Получает или оформляет кредит на страхование жизни, несчастных случаев и болезней. |
 | [InterestAmount](../../aspose.finance.ofx/loantransactionamount/interestamount) { get; set; } | Получает или задает сумму платежа, применяемого к процентам. |
-| [PrincipalAmount](../../aspose.finance.ofx/loantransactionamount/principalamount) { get; set; } | Получает или задает сумму платежа, применяемого к основной сумме. |
+| [PrincipalAmount](../../aspose.finance.ofx/loantransactionamount/principalamount) { get; set; } | Получает или задает сумму платежа, применяемого к основному долгу. |
 
 ### Смотрите также
 

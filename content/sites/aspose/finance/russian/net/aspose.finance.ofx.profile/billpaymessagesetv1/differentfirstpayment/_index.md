@@ -1,14 +1,14 @@
 ---
 title: DifferentFirstPayment
 second_title: Справочник по API Aspose.Finance для .NET
-description: Возвращает или задает поддержку указания другой суммы для первого платежа сгенерированного моделью
+description: Получает или задает поддержку указания другой суммы для первого платежа сгенерированного моделью
 type: docs
 weight: 80
 url: /ru/net/aspose.finance.ofx.profile/billpaymessagesetv1/differentfirstpayment/
 ---
 ## BillPayMessageSetV1.DifferentFirstPayment property
 
-Возвращает или задает поддержку указания другой суммы для первого платежа, сгенерированного моделью
+Получает или задает поддержку указания другой суммы для первого платежа, сгенерированного моделью
 
 ```csharp
 public bool DifferentFirstPayment { get; set; }

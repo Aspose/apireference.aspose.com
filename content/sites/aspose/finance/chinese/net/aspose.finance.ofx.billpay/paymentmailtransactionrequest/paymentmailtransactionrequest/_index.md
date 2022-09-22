@@ -1,14 +1,14 @@
 ---
 title: PaymentMailTransactionRequest
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化PaymentMailTransactionRequestaspose.finance.ofx.billpay/paymentmailtransactionrequest类的新实例
+description: 初始化一个新的实例PaymentMailTransactionRequestaspose.finance.ofx.billpay/paymentmailtransactionrequest类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.billpay/paymentmailtransactionrequest/paymentmailtransactionrequest/
 ---
 ## PaymentMailTransactionRequest constructor
 
-初始化[`PaymentMailTransactionRequest`](../../paymentmailtransactionrequest)类的新实例。
+初始化一个新的实例[`PaymentMailTransactionRequest`](../../paymentmailtransactionrequest)类.
 
 ```csharp
 public PaymentMailTransactionRequest()

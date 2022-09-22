@@ -18,14 +18,14 @@ public class OpenOrderSellOther : AbstractOpenOrder
 
 | Имя | Описание |
 | --- | --- |
-| [OpenOrderSellOther](openordersellother)() | Инициализирует новый экземпляр класса[`OpenOrderSellOther`](../openordersellother). |
+| [OpenOrderSellOther](openordersellother)() | Инициализирует новый экземпляр[`OpenOrderSellOther`](../openordersellother) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [OpenOrder](../../aspose.finance.ofx.investment/abstractopenorder/openorder) { get; set; } | Получает или задает[`GeneralOpenOrder`](../generalopenorder). |
-| [UnitType](../../aspose.finance.ofx.investment/openordersellother/unittype) { get; set; } | Получает или задает значение единиц измерения. |
+| [OpenOrder](../../aspose.finance.ofx.investment/abstractopenorder/openorder) { get; set; } | Получает или задает[`GeneralOpenOrder`](../generalopenorder) . |
+| [UnitType](../../aspose.finance.ofx.investment/openordersellother/unittype) { get; set; } | Получает или устанавливает, что представляют единицы измерения. |
 
 ### Смотрите также
 

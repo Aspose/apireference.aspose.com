@@ -1,7 +1,7 @@
 ---
 title: BillerInfoUrl
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает URL-адрес удобочитаемого описания дополнительной информации которую биллер хотел бы предоставить клиенту в отношении регистрации.
+description: Получает или задает URLадрес удобочитаемого описания дополнительной информации которую биллер хотел бы предоставить клиенту в отношении регистрации.
 type: docs
 weight: 80
 url: /ru/net/aspose.finance.ofx.billerdirectory/billerinfo/billerinfourl/

@@ -18,15 +18,15 @@ public class TaxW2TransactionRequest : AbstractTransactionRequest
 
 | 姓名 | 描述 |
 | --- | --- |
-| [TaxW2TransactionRequest](taxw2transactionrequest)() | 初始化[`TaxW2TransactionRequest`](../taxw2transactionrequest)类的新实例。 |
+| [TaxW2TransactionRequest](taxw2transactionrequest)() | 初始化一个新的实例[`TaxW2TransactionRequest`](../taxw2transactionrequest)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
 | [ClientCookie](../../aspose.finance.ofx/abstracttransactionrequest/clientcookie) { get; set; } | 获取或设置要在事务响应中回显的数据 |
-| [TaxW2Request](../../aspose.finance.ofx.taxw2/taxw2transactionrequest/taxw2request) { get; set; } | 获取或设置[`TaxW2Request`](./taxw2request)。 |
-| [TransactionAuthorizationNumber](../../aspose.finance.ofx/abstracttransactionrequest/transactionauthorizationnumber) { get; set; } | 获取或设置交易授权号。 |
+| [TaxW2Request](../../aspose.finance.ofx.taxw2/taxw2transactionrequest/taxw2request) { get; set; } | 获取或设置[`TaxW2Request`](./taxw2request). |
+| [TransactionAuthorizationNumber](../../aspose.finance.ofx/abstracttransactionrequest/transactionauthorizationnumber) { get; set; } | 获取或设置交易授权号 |
 | [TransactionUniqueId](../../aspose.finance.ofx/abstracttransactionrequest/transactionuniqueid) { get; set; } | 获取或设置此事务的客户端分配的全局唯一 ID |
 
 ### 也可以看看

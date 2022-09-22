@@ -3,7 +3,7 @@ title: HTMLSelectElement
 second_title: Aspose.Finance for .NET API Reference
 description: The class represents select element allows the selection of an option. The contained options can be directly accessed through the select element as a collection. See the SELECT element definition in HTML 4.01.
 type: docs
-weight: 7150
+weight: 7180
 url: /net/aspose.finance.xbrl.dom.html/htmlselectelement/
 ---
 ## HTMLSelectElement class

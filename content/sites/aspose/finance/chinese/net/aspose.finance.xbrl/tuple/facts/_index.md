@@ -1,14 +1,14 @@
 ---
 title: Facts
 second_title: Aspose.Finance for .NET API 参考
-description: 获取元组中Factaspose.finance.xbrl/fact对象的集合
+description: 获取集合Factaspose.finance.xbrl/fact元组中的对象.
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.xbrl/tuple/facts/
 ---
 ## Tuple.Facts property
 
-获取元组中[`Fact`](../../fact)对象的集合。
+获取集合[`Fact`](../../fact)元组中的对象.
 
 ```csharp
 public List<Fact> Facts { get; }

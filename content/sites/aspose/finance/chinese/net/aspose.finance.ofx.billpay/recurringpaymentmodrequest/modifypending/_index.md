@@ -1,14 +1,14 @@
 ---
 title: ModifyPending
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置修改挂起标志如果客户端设置此标志服务器必须修改挂起和未来的付款
+description: 获取或设置修改挂起标志如果客户端设置此标志服务器必须修改挂起和未来付款
 type: docs
 weight: 40
 url: /zh/net/aspose.finance.ofx.billpay/recurringpaymentmodrequest/modifypending/
 ---
 ## RecurringPaymentModRequest.ModifyPending property
 
-获取或设置修改挂起标志。如果客户端设置此标志，服务器必须修改挂起和未来的付款。
+获取或设置修改挂起标志。如果客户端设置此标志，服务器必须修改挂起和未来付款。
 
 ```csharp
 public bool ModifyPending { get; set; }

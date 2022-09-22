@@ -3,7 +3,7 @@ title: Locator
 second_title: Aspose.Finance for .NET API Reference
 description: The base abstract class of Xlink with Locator type.
 type: docs
-weight: 7850
+weight: 7900
 url: /net/aspose.finance.xbrl/locator/
 ---
 ## Locator class

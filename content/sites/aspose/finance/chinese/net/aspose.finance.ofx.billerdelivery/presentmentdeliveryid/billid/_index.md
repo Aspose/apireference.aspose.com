@@ -1,14 +1,14 @@
 ---
 title: BillId
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置来自给定计费器的账单
+description: 从给定的 biller 获取或设置账单
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.ofx.billerdelivery/presentmentdeliveryid/billid/
 ---
 ## PresentmentDeliveryId.BillId property
 
-获取或设置来自给定计费器的账单
+从给定的 biller 获取或设置账单
 
 ```csharp
 public string BillId { get; set; }

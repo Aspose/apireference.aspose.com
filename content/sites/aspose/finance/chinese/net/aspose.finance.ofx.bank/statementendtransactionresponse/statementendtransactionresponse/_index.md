@@ -1,14 +1,14 @@
 ---
 title: StatementEndTransactionResponse
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化StatementEndTransactionResponseaspose.finance.ofx.bank/statementendtransactionresponse类的新实例
+description: 初始化一个新的实例StatementEndTransactionResponseaspose.finance.ofx.bank/statementendtransactionresponse类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.bank/statementendtransactionresponse/statementendtransactionresponse/
 ---
 ## StatementEndTransactionResponse constructor
 
-初始化[`StatementEndTransactionResponse`](../../statementendtransactionresponse)类的新实例。
+初始化一个新的实例[`StatementEndTransactionResponse`](../../statementendtransactionresponse)类.
 
 ```csharp
 public StatementEndTransactionResponse()

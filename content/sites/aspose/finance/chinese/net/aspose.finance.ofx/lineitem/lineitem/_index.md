@@ -1,14 +1,14 @@
 ---
 title: LineItem
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化LineItemaspose.finance.ofx/lineitem类的新实例
+description: 初始化一个新的实例LineItemaspose.finance.ofx/lineitem类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx/lineitem/lineitem/
 ---
 ## LineItem constructor
 
-初始化[`LineItem`](../../lineitem)类的新实例。
+初始化一个新的实例[`LineItem`](../../lineitem)类.
 
 ```csharp
 public LineItem()

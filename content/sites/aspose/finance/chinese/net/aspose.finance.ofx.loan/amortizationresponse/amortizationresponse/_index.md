@@ -1,14 +1,14 @@
 ---
 title: AmortizationResponse
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化AmortizationResponseaspose.finance.ofx.loan/amortizationresponse类的新实例
+description: 初始化一个新的实例AmortizationResponseaspose.finance.ofx.loan/amortizationresponse类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.loan/amortizationresponse/amortizationresponse/
 ---
 ## AmortizationResponse constructor
 
-初始化[`AmortizationResponse`](../../amortizationresponse)类的新实例。
+初始化一个新的实例[`AmortizationResponse`](../../amortizationresponse)类.
 
 ```csharp
 public AmortizationResponse()

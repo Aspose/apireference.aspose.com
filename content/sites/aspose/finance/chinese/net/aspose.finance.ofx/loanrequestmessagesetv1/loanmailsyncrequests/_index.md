@@ -1,14 +1,14 @@
 ---
 title: LoanMailSyncRequests
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置LoanMailSyncRequestaspose.finance.ofx.loan/loanmailsyncrequest的集合
+description: 获取或设置的集合LoanMailSyncRequestaspose.finance.ofx.loan/loanmailsyncrequest.
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.ofx/loanrequestmessagesetv1/loanmailsyncrequests/
 ---
 ## LoanRequestMessageSetV1.LoanMailSyncRequests property
 
-获取或设置[`LoanMailSyncRequest`](../../../aspose.finance.ofx.loan/loanmailsyncrequest)的集合。
+获取或设置的集合[`LoanMailSyncRequest`](../../../aspose.finance.ofx.loan/loanmailsyncrequest).
 
 ```csharp
 public List<LoanMailSyncRequest> LoanMailSyncRequests { get; set; }

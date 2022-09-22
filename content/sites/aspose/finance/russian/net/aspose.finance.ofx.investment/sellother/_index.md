@@ -1,14 +1,14 @@
 ---
 title: SellOther
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инвестиционная продажа другого типа класса ценных бумаг.
+description: Инвестиционная продажа другого класса ценных бумаг.
 type: docs
 weight: 3510
 url: /ru/net/aspose.finance.ofx.investment/sellother/
 ---
 ## SellOther class
 
-Инвестиционная продажа другого типа класса ценных бумаг.
+Инвестиционная продажа другого класса ценных бумаг.
 
 ```csharp
 public class SellOther : AbstractInvestmentSellTransaction
@@ -18,13 +18,13 @@ public class SellOther : AbstractInvestmentSellTransaction
 
 | Имя | Описание |
 | --- | --- |
-| [SellOther](sellother)() | Инициализирует новый экземпляр класса[`SellOther`](../sellother). |
+| [SellOther](sellother)() | Инициализирует новый экземпляр[`SellOther`](../sellother) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [InvestmentSell](../../aspose.finance.ofx.investment/abstractinvestmentselltransaction/investmentsell) { get; set; } | Получает или задает[`InvestmentSell`](../abstractinvestmentselltransaction/investmentsell). |
+| [InvestmentSell](../../aspose.finance.ofx.investment/abstractinvestmentselltransaction/investmentsell) { get; set; } | Получает или задает[`InvestmentSell`](../abstractinvestmentselltransaction/investmentsell) . |
 
 ### Смотрите также
 

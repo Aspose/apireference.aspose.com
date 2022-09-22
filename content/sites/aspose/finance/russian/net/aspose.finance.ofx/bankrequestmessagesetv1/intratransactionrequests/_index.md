@@ -1,14 +1,14 @@
 ---
 title: IntraTransactionRequests
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает коллекциюIntraTransactionRequestaspose.finance.ofx.bank/intratransactionrequest.
+description: Получает или задает коллекциюIntraTransactionRequestaspose.finance.ofx.bank/intratransactionrequest .
 type: docs
 weight: 50
 url: /ru/net/aspose.finance.ofx/bankrequestmessagesetv1/intratransactionrequests/
 ---
 ## BankRequestMessageSetV1.IntraTransactionRequests property
 
-Получает или задает коллекцию[`IntraTransactionRequest`](../../../aspose.finance.ofx.bank/intratransactionrequest).
+Получает или задает коллекцию[`IntraTransactionRequest`](../../../aspose.finance.ofx.bank/intratransactionrequest) .
 
 ```csharp
 public List<IntraTransactionRequest> IntraTransactionRequests { get; set; }

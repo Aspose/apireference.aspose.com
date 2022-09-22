@@ -1,14 +1,14 @@
 ---
 title: Response
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задаетRecurringInterResponseaspose.finance.ofx.intertransfer/recurringinterresponseилиRecurringInterModResponseaspose.finance.ofx.intertransfer/recurringintermodresponseилиRecurringInterCancellationResponseaspose.finance.ofx.intertransfer/recurringintercancellationresponse.
+description: Получает или задаетRecurringInterResponseaspose.finance.ofx.intertransfer/recurringinterresponse или жеRecurringInterModResponseaspose.finance.ofx.intertransfer/recurringintermodresponse или жеRecurringInterCancellationResponseaspose.finance.ofx.intertransfer/recurringintercancellationresponse .
 type: docs
 weight: 30
 url: /ru/net/aspose.finance.ofx.intertransfer/recurringintertransactionresponse/response/
 ---
 ## RecurringInterTransactionResponse.Response property
 
-Получает или задает[`RecurringInterResponse`](../../recurringinterresponse)или[`RecurringInterModResponse`](../../recurringintermodresponse)или[`RecurringInterCancellationResponse`](../../recurringintercancellationresponse).
+Получает или задает[`RecurringInterResponse`](../../recurringinterresponse) или же[`RecurringInterModResponse`](../../recurringintermodresponse) или же[`RecurringInterCancellationResponse`](../../recurringintercancellationresponse) .
 
 ```csharp
 public AbstractRecurringInterResponse Response { get; set; }

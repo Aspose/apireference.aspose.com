@@ -3,7 +3,7 @@ title: AbstractTaxW2
 second_title: Aspose.Finance for .NET API Reference
 description: Abstract base class of tax form w2 classes.
 type: docs
-weight: 6110
+weight: 6140
 url: /net/aspose.finance.ofx.taxw2/abstracttaxw2/
 ---
 ## AbstractTaxW2 class

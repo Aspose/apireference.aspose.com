@@ -1,14 +1,14 @@
 ---
 title: MaxMatchPercent
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置当前最大的雇主贡献百分比
+description: 获取或设置当前最大雇主贡献百分比
 type: docs
 weight: 60
 url: /zh/net/aspose.finance.ofx.investment/matchinfo/maxmatchpercent/
 ---
 ## MatchInfo.MaxMatchPercent property
 
-获取或设置当前最大的雇主贡献百分比。
+获取或设置当前最大雇主贡献百分比。
 
 ```csharp
 public string MaxMatchPercent { get; set; }

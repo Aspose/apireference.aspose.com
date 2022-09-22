@@ -3,7 +3,7 @@ title: InvestmentOpenOrderList
 second_title: Aspose.Finance for .NET API Reference
 description: Investment open order list class.
 type: docs
-weight: 3030
+weight: 3040
 url: /net/aspose.finance.ofx.investment/investmentopenorderlist/
 ---
 ## InvestmentOpenOrderList class

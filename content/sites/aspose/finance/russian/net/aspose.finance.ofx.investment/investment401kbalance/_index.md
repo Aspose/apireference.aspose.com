@@ -18,22 +18,22 @@ public class Investment401kBalance
 
 | Имя | Описание |
 | --- | --- |
-| [Investment401kBalance](investment401kbalance)() | Инициализирует новый экземпляр класса[`Investment401kBalance`](../investment401kbalance). |
+| [Investment401kBalance](investment401kbalance)() | Инициализирует новый экземпляр[`Investment401kBalance`](../investment401kbalance) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
 | [AfterTax](../../aspose.finance.ofx.investment/investment401kbalance/aftertax) { get; set; } | Получает или задает текущую стоимость всех ценных бумаг, приобретенных за счет взносов сотрудников после уплаты налогов. |
-| [BalanceList](../../aspose.finance.ofx.investment/investment401kbalance/balancelist) { get; set; } | Получает или задает коллекцию[`Balance`](../../aspose.finance.ofx/balance). |
-| [CashBalance](../../aspose.finance.ofx.investment/investment401kbalance/cashbalance) { get; set; } | Получает или задает доступный остаток денежных средств для учетной записи 401(k). |
+| [BalanceList](../../aspose.finance.ofx.investment/investment401kbalance/balancelist) { get; set; } | Получает или задает коллекцию[`Balance`](../../aspose.finance.ofx/balance) . |
+| [CashBalance](../../aspose.finance.ofx.investment/investment401kbalance/cashbalance) { get; set; } | Получает или задает баланс денежных средств, доступный для учетной записи 401(k). |
 | [Match](../../aspose.finance.ofx.investment/investment401kbalance/match) { get; set; } | Получает или задает текущую стоимость всех ценных бумаг, приобретенных с помощью взносов Employer Match. |
-| [OtherNonvest](../../aspose.finance.ofx.investment/investment401kbalance/othernonvest) { get; set; } | Возвращает или задает текущую стоимость всех ценных бумаг, приобретенных за счет взносов других (не связанных с правами) работодателей. |
-| [OtherVest](../../aspose.finance.ofx.investment/investment401kbalance/othervest) { get; set; } | Получает или задает текущую стоимость всех ценных бумаг, приобретенных за счет взносов другого работодателя. |
+| [OtherNonvest](../../aspose.finance.ofx.investment/investment401kbalance/othernonvest) { get; set; } | Получает или задает текущую стоимость всех ценных бумаг, приобретенных за счет других (не связанных с правами) взносов работодателя. |
+| [OtherVest](../../aspose.finance.ofx.investment/investment401kbalance/othervest) { get; set; } | Получает или задает текущую стоимость всех ценных бумаг, приобретенных за счет взносов других (распределенных) работодателей. |
 | [PreTax](../../aspose.finance.ofx.investment/investment401kbalance/pretax) { get; set; } | Получает или задает текущую стоимость всех ценных бумаг, приобретенных за счет взносов сотрудников до налогообложения |
-| [ProfitSharing](../../aspose.finance.ofx.investment/investment401kbalance/profitsharing) { get; set; } | Возвращает или задает текущую стоимость всех ценных бумаг, приобретенных с помощью взносов Employer Profit Sharing |
-| [Rollover](../../aspose.finance.ofx.investment/investment401kbalance/rollover) { get; set; } | Получает или задает текущую стоимость всех ценных бумаг, приобретенных с помощью взносов на пролонгацию. |
-| [Total](../../aspose.finance.ofx.investment/investment401kbalance/total) { get; set; } | Получает или задает текущую стоимость всех ценных бумаг, купленных на все взносы. |
+| [ProfitSharing](../../aspose.finance.ofx.investment/investment401kbalance/profitsharing) { get; set; } | Получает или задает текущую стоимость всех ценных бумаг, приобретенных за счет участия работодателя в прибылях взносов |
+| [Rollover](../../aspose.finance.ofx.investment/investment401kbalance/rollover) { get; set; } | Получает или задает текущую стоимость всех ценных бумаг, приобретенных с помощью взносов пролонгации. |
+| [Total](../../aspose.finance.ofx.investment/investment401kbalance/total) { get; set; } | Получает или задает текущую стоимость всех ценных бумаг, купленных со всеми взносами. |
 
 ### Смотрите также
 

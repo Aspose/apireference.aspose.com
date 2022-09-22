@@ -1,14 +1,14 @@
 ---
 title: BillTableStructureRequest
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задаетBillTableStructureRequestaspose.finance.ofx.billerdelivery/billtablestructuretransactionrequest/billtablestructurerequest.
+description: Получает или задаетBillTableStructureRequestaspose.finance.ofx.billerdelivery/billtablestructuretransactionrequest/billtablestructurerequest .
 type: docs
 weight: 20
 url: /ru/net/aspose.finance.ofx.billerdelivery/billtablestructuretransactionrequest/billtablestructurerequest/
 ---
 ## BillTableStructureTransactionRequest.BillTableStructureRequest property
 
-Получает или задает`BillTableStructureRequest`.
+Получает или задает`BillTableStructureRequest` .
 
 ```csharp
 public BillTableStructureRequest BillTableStructureRequest { get; set; }

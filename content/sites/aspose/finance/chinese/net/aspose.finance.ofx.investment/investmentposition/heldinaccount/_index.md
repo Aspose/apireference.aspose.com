@@ -8,7 +8,7 @@ url: /zh/net/aspose.finance.ofx.investment/investmentposition/heldinaccount/
 ---
 ## InvestmentPosition.HeldinAccount property
 
-获取或设置子账号类型。
+获取或设置子账号类型
 
 ```csharp
 public SubAccountEnum HeldinAccount { get; set; }

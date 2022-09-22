@@ -1,14 +1,14 @@
 ---
 title: Tax1099Response
 second_title: Справочник по API Aspose.Finance для .NET
-description: Класс ответа Tax 1099.
+description: Класс ответов Tax 1099.
 type: docs
 weight: 6060
 url: /ru/net/aspose.finance.ofx.tax1099/tax1099response/
 ---
 ## Tax1099Response class
 
-Класс ответа Tax 1099.
+Класс ответов Tax 1099.
 
 ```csharp
 public class Tax1099Response
@@ -18,16 +18,16 @@ public class Tax1099Response
 
 | Имя | Описание |
 | --- | --- |
-| [Tax1099Response](tax1099response)() | Инициализирует новый экземпляр класса[`Tax1099Response`](../tax1099response). |
+| [Tax1099Response](tax1099response)() | Инициализирует новый экземпляр[`Tax1099Response`](../tax1099response) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
 | [AccountNumber](../../aspose.finance.ofx.tax1099/tax1099response/accountnumber) { get; set; } | Получает или задает номер счета получателя. |
-| [FIDirectDepositInfos](../../aspose.finance.ofx.tax1099/tax1099response/fidirectdepositinfos) { get; set; } | Получает или задает коллекцию[`FIDirectDepositInfo`](../fidirectdepositinfo). |
+| [FIDirectDepositInfos](../../aspose.finance.ofx.tax1099/tax1099response/fidirectdepositinfos) { get; set; } | Получает или задает коллекцию[`FIDirectDepositInfo`](../fidirectdepositinfo) . |
 | [RecipientId](../../aspose.finance.ofx.tax1099/tax1099response/recipientid) { get; set; } | Получает или задает идентификатор получателя. |
-| [TaxForm1099s](../../aspose.finance.ofx.tax1099/tax1099response/taxform1099s) { get; set; } | Получает или задает коллекцию[`Tax1099MISC_V100`](../tax1099misc_v100)или!:TAX1099R_V100или!:TAX1099B_V100 или!:TAX1099INT_V100или!:TAX1099DIV_V100или!:TAX1099OID_V100. |
+| [TaxForm1099s](../../aspose.finance.ofx.tax1099/tax1099response/taxform1099s) { get; set; } | Получает или задает коллекцию[`Tax1099MISC_V100`](../tax1099misc_v100) или же!:TAX1099R_V100 или же!:TAX1099B_V100 или!:TAX1099INT_V100 или же!:TAX1099DIV_V100 или же!:TAX1099OID_V100 . |
 
 ### Смотрите также
 

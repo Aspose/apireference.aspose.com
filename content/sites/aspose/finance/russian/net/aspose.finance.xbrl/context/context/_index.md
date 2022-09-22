@@ -1,14 +1,14 @@
 ---
 title: Context
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаContextaspose.finance.xbrl/context.
+description: Инициализирует новый экземплярContextaspose.finance.xbrl/context класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.xbrl/context/context/
 ---
 ## Context constructor
 
-Инициализирует новый экземпляр класса[`Context`](../../context).
+Инициализирует новый экземпляр[`Context`](../../context) класс.
 
 ```csharp
 public Context(ContextPeriod period, ContextEntity entity)
@@ -16,8 +16,8 @@ public Context(ContextPeriod period, ContextEntity entity)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| period | ContextPeriod | Период контекста. |
-| entity | ContextEntity | Объект контекста. |
+| period | ContextPeriod | Контекстный период. |
+| entity | ContextEntity | Сущность контекста. |
 
 ### Смотрите также
 

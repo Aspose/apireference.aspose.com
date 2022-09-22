@@ -3,7 +3,7 @@ title: InvestmentBalance
 second_title: Aspose.Finance for .NET API Reference
 description: Investment balances class.
 type: docs
-weight: 2920
+weight: 2930
 url: /net/aspose.finance.ofx.investment/investmentbalance/
 ---
 ## InvestmentBalance class

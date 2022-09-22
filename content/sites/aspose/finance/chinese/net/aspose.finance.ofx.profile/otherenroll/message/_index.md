@@ -1,14 +1,14 @@
 ---
 title: Message
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置消息给消费者关于下一步做什么
+description: 获取或设置消息给消费者下一步要做什么
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.ofx.profile/otherenroll/message/
 ---
 ## OtherEnroll.Message property
 
-获取或设置消息给消费者关于下一步做什么。
+获取或设置消息给消费者下一步要做什么。
 
 ```csharp
 public string Message { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: LoanStatementEndResponse
 second_title: Справочник по API Aspose.Finance для .NET
-description: Класс ответа на отчет о закрытии кредита.
+description: Класс ответа на заявление о закрытии кредита.
 type: docs
 weight: 3910
 url: /ru/net/aspose.finance.ofx.loan/loanstatementendresponse/
 ---
 ## LoanStatementEndResponse class
 
-Класс ответа на отчет о закрытии кредита.
+Класс ответа на заявление о закрытии кредита.
 
 ```csharp
 public class LoanStatementEndResponse
@@ -18,15 +18,15 @@ public class LoanStatementEndResponse
 
 | Имя | Описание |
 | --- | --- |
-| [LoanStatementEndResponse](loanstatementendresponse)() | Инициализирует новый экземпляр класса[`LoanStatementEndResponse`](../loanstatementendresponse). |
+| [LoanStatementEndResponse](loanstatementendresponse)() | Инициализирует новый экземпляр[`LoanStatementEndResponse`](../loanstatementendresponse) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
 | [Currency](../../aspose.finance.ofx.loan/loanstatementendresponse/currency) { get; set; } | Получает или задает валюту по умолчанию, используемую для закрытия информации. |
-| [LoanAccountFrom](../../aspose.finance.ofx.loan/loanstatementendresponse/loanaccountfrom) { get; set; } | Получает или задает значение из[`LoanAccount`](../../aspose.finance.ofx/loanaccount). |
-| [LoanClosings](../../aspose.finance.ofx.loan/loanstatementendresponse/loanclosings) { get; set; } | Получает или задает коллекцию[`LoanClosing`](../loanclosing). |
+| [LoanAccountFrom](../../aspose.finance.ofx.loan/loanstatementendresponse/loanaccountfrom) { get; set; } | Получает или задает из[`LoanAccount`](../../aspose.finance.ofx/loanaccount) . |
+| [LoanClosings](../../aspose.finance.ofx.loan/loanstatementendresponse/loanclosings) { get; set; } | Получает или задает коллекцию[`LoanClosing`](../loanclosing) . |
 
 ### Смотрите также
 

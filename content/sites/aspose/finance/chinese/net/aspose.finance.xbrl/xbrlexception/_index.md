@@ -3,7 +3,7 @@ title: XbrlException
 second_title: Aspose.Finance for .NET API 参考
 description: Aspose.Finance.Xbrl 指定错误发生时抛出的异常
 type: docs
-weight: 8170
+weight: 8180
 url: /zh/net/aspose.finance.xbrl/xbrlexception/
 ---
 ## XbrlException class

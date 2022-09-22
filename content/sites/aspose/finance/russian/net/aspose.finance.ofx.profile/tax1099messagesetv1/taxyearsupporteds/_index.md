@@ -1,14 +1,14 @@
 ---
 title: TaxYearSupporteds
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или устанавливает годы в течение которых поддерживается 1099 загрузок для этого сервера.
+description: Получает или устанавливает годы поддерживаемые для загрузки 1099 для этого сервера.
 type: docs
 weight: 40
 url: /ru/net/aspose.finance.ofx.profile/tax1099messagesetv1/taxyearsupporteds/
 ---
 ## Tax1099MessageSetV1.TaxYearSupporteds property
 
-Получает или устанавливает годы, в течение которых поддерживается 1099 загрузок для этого сервера.
+Получает или устанавливает годы, поддерживаемые для загрузки 1099 для этого сервера.
 
 ```csharp
 public List<string> TaxYearSupporteds { get; set; }

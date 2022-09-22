@@ -1,14 +1,14 @@
 ---
 title: UsedOns
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает коллекцию из используемых по ссылке вRoleTypeaspose.finance.xbrl/roletype.
+description: Получает коллекцию из используемых по ссылке вRoleTypeaspose.finance.xbrl/roletype .
 type: docs
 weight: 40
 url: /ru/net/aspose.finance.xbrl/roletype/usedons/
 ---
 ## RoleType.UsedOns property
 
-Получает коллекцию из используемых по ссылке в[`RoleType`](../../roletype).
+Получает коллекцию из используемых по ссылке в[`RoleType`](../../roletype) .
 
 ```csharp
 public List<string> UsedOns { get; set; }

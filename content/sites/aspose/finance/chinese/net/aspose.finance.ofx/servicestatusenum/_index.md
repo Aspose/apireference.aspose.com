@@ -19,7 +19,7 @@ public enum ServiceStatusEnum
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
 | AVAIL | `0` | 可用，但尚未请求 |
-| PEND | `1` | 已请求，但尚不可用 |
+| PEND | `1` | 已请求，但尚未可用 |
 | ACTIVE | `2` | 使用中 |
 
 ### 也可以看看

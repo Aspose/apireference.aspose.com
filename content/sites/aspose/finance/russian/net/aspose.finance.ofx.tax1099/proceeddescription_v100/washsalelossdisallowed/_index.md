@@ -1,14 +1,14 @@
 ---
 title: WashSaleLossDisallowed
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает запрещенный убыток от продажи стирки.
+description: Возвращает или задает запрещенный убыток от стирки при продаже.
 type: docs
 weight: 240
 url: /ru/net/aspose.finance.ofx.tax1099/proceeddescription_v100/washsalelossdisallowed/
 ---
 ## ProceedDescription_V100.WashSaleLossDisallowed property
 
-Получает или задает запрещенный убыток от продажи стирки.
+Возвращает или задает запрещенный убыток от стирки при продаже.
 
 ```csharp
 public string WashSaleLossDisallowed { get; set; }

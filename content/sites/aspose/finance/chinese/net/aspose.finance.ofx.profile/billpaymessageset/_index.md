@@ -18,13 +18,13 @@ public class BillPayMessageSet : AbstractMessageSet
 
 | 姓名 | 描述 |
 | --- | --- |
-| [BillPayMessageSet](billpaymessageset)() | 初始化[`BillPayMessageSet`](../billpaymessageset)类的新实例。 |
+| [BillPayMessageSet](billpaymessageset)() | 初始化一个新的实例[`BillPayMessageSet`](../billpaymessageset)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [BillPayMessageSetV1](../../aspose.finance.ofx.profile/billpaymessageset/billpaymessagesetv1) { get; set; } | 获取或设置[`BillPayMessageSetV1`](./billpaymessagesetv1)。 |
+| [BillPayMessageSetV1](../../aspose.finance.ofx.profile/billpaymessageset/billpaymessagesetv1) { get; set; } | 获取或设置[`BillPayMessageSetV1`](./billpaymessagesetv1). |
 
 ### 也可以看看
 

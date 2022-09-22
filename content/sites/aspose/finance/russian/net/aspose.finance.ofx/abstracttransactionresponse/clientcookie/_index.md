@@ -1,14 +1,14 @@
 ---
 title: ClientCookie
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает данные которые будут отображаться в ответе транзакции
+description: Получает или задает данные которые будут отражены в транзакции response
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx/abstracttransactionresponse/clientcookie/
 ---
 ## AbstractTransactionResponse.ClientCookie property
 
-Получает или задает данные, которые будут отображаться в ответе транзакции
+Получает или задает данные, которые будут отражены в транзакции response
 
 ```csharp
 public string ClientCookie { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: UnitNumeratorQualifiedNames
 second_title: Aspose.Finance for .NET API 参考
-description: 获取分子限定名的集合当单位类型为 Divide 时使用
+description: 获取分子限定名的集合单位类型为Divide时使用
 type: docs
 weight: 60
 url: /zh/net/aspose.finance.xbrl/unit/unitnumeratorqualifiednames/
 ---
 ## Unit.UnitNumeratorQualifiedNames property
 
-获取分子限定名的集合，当单位类型为 Divide 时使用。
+获取分子限定名的集合，单位类型为Divide时使用。
 
 ```csharp
 public List<QualifiedName> UnitNumeratorQualifiedNames { get; }

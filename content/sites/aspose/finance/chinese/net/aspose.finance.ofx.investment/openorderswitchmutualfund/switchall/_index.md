@@ -1,14 +1,14 @@
 ---
 title: SwitchAll
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置是否切换整个保持
+description: 获取或设置是否切换整个控股
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.ofx.investment/openorderswitchmutualfund/switchall/
 ---
 ## OpenOrderSwitchMutualFund.SwitchAll property
 
-获取或设置是否切换整个保持。
+获取或设置是否切换整个控股。
 
 ```csharp
 public bool SwitchAll { get; set; }

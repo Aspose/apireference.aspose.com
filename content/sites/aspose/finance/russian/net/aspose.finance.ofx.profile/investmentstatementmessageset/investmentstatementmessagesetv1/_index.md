@@ -1,14 +1,14 @@
 ---
 title: InvestmentStatementMessageSetV1
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задаетInvestmentStatementMessageSetV1aspose.finance.ofx.profile/investmentstatementmessageset/investmentstatementmessagesetv1.
+description: Получает или задаетInvestmentStatementMessageSetV1aspose.finance.ofx.profile/investmentstatementmessageset/investmentstatementmessagesetv1 .
 type: docs
 weight: 20
 url: /ru/net/aspose.finance.ofx.profile/investmentstatementmessageset/investmentstatementmessagesetv1/
 ---
 ## InvestmentStatementMessageSet.InvestmentStatementMessageSetV1 property
 
-Получает или задает`InvestmentStatementMessageSetV1`.
+Получает или задает`InvestmentStatementMessageSetV1` .
 
 ```csharp
 public InvestmentStatementMessageSetV1 InvestmentStatementMessageSetV1 { get; set; }

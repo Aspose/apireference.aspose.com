@@ -18,13 +18,13 @@ public class SignonMessageSetV1 : AbstractMessageSetVersion
 
 | 姓名 | 描述 |
 | --- | --- |
-| [SignonMessageSetV1](signonmessagesetv1)() | 初始化[`SignonMessageSetV1`](../signonmessagesetv1)类的新实例。 |
+| [SignonMessageSetV1](signonmessagesetv1)() | 初始化一个新的实例[`SignonMessageSetV1`](../signonmessagesetv1)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [MessageSetCore](../../aspose.finance.ofx.profile/abstractmessagesetversion/messagesetcore) { get; set; } | 获取或设置[`MessageSetCore`](../abstractmessagesetversion/messagesetcore)。 |
+| [MessageSetCore](../../aspose.finance.ofx.profile/abstractmessagesetversion/messagesetcore) { get; set; } | 获取或设置[`MessageSetCore`](../abstractmessagesetversion/messagesetcore). |
 
 ### 也可以看看
 

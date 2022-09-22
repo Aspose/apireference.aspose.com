@@ -1,14 +1,14 @@
 ---
 title: InvestmentBalance
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задаетInvestmentBalanceaspose.finance.ofx.investment/investmentstatementresponse/investmentbalance.
+description: Получает или задаетInvestmentBalanceaspose.finance.ofx.investment/investmentstatementresponse/investmentbalance .
 type: docs
 weight: 70
 url: /ru/net/aspose.finance.ofx.investment/investmentstatementresponse/investmentbalance/
 ---
 ## InvestmentStatementResponse.InvestmentBalance property
 
-Получает или задает`InvestmentBalance`.
+Получает или задает`InvestmentBalance` .
 
 ```csharp
 public InvestmentBalance InvestmentBalance { get; set; }

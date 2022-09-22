@@ -1,14 +1,14 @@
 ---
 title: SSN
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置员工的社会保险号
+description: 获取或设置员工的社会安全号码
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.ofx.taxw2/taxw2response/ssn/
 ---
 ## TaxW2Response.SSN property
 
-获取或设置员工的社会保险号。
+获取或设置员工的社会安全号码。
 
 ```csharp
 public string SSN { get; set; }

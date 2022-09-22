@@ -1,14 +1,14 @@
 ---
 title: AccruedInterest
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает начисленные проценты.
+description: Получает или задает начисленный процент.
 type: docs
 weight: 20
 url: /ru/net/aspose.finance.ofx.investment/selldebt/accruedinterest/
 ---
 ## SellDebt.AccruedInterest property
 
-Получает или задает начисленные проценты.
+Получает или задает начисленный процент.
 
 ```csharp
 public string AccruedInterest { get; set; }

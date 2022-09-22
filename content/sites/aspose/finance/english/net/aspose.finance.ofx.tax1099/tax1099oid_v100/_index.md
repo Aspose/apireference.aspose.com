@@ -3,7 +3,7 @@ title: Tax1099OID_V100
 second_title: Aspose.Finance for .NET API Reference
 description: Tax 1099-OID V100 form class.
 type: docs
-weight: 6030
+weight: 6060
 url: /net/aspose.finance.ofx.tax1099/tax1099oid_v100/
 ---
 ## Tax1099OID_V100 class

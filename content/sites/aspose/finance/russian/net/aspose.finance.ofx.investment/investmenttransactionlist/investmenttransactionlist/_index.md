@@ -1,14 +1,14 @@
 ---
 title: InvestmentTransactionList
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаInvestmentTransactionListaspose.finance.ofx.investment/investmenttransactionlist.
+description: Инициализирует новый экземплярInvestmentTransactionListaspose.finance.ofx.investment/investmenttransactionlist класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.investment/investmenttransactionlist/investmenttransactionlist/
 ---
 ## InvestmentTransactionList constructor
 
-Инициализирует новый экземпляр класса[`InvestmentTransactionList`](../../investmenttransactionlist).
+Инициализирует новый экземпляр[`InvestmentTransactionList`](../../investmenttransactionlist) класс.
 
 ```csharp
 public InvestmentTransactionList()

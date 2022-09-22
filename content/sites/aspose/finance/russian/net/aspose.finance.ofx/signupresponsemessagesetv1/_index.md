@@ -1,14 +1,14 @@
 ---
 title: SignupResponseMessageSetV1
 second_title: Справочник по API Aspose.Finance для .NET
-description: Ответные сообщения при регистрации устанавливают класс версии 1.
+description: Ответные сообщения о регистрации устанавливают класс версии 1.
 type: docs
 weight: 5690
 url: /ru/net/aspose.finance.ofx/signupresponsemessagesetv1/
 ---
 ## SignupResponseMessageSetV1 class
 
-Ответные сообщения при регистрации устанавливают класс версии 1.
+Ответные сообщения о регистрации устанавливают класс версии 1.
 
 ```csharp
 public class SignupResponseMessageSetV1 : AbstractResponseMessageSet
@@ -18,18 +18,18 @@ public class SignupResponseMessageSetV1 : AbstractResponseMessageSet
 
 | Имя | Описание |
 | --- | --- |
-| [SignupResponseMessageSetV1](signupresponsemessagesetv1)() | Инициализирует новый экземпляр класса[`SignupResponseMessageSetV1`](../signupresponsemessagesetv1). |
+| [SignupResponseMessageSetV1](signupresponsemessagesetv1)() | Инициализирует новый экземпляр[`SignupResponseMessageSetV1`](../signupresponsemessagesetv1) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [AccountInfoTransactionResponses](../../aspose.finance.ofx/signupresponsemessagesetv1/accountinfotransactionresponses) { get; set; } | Получает или задает коллекцию[`AccountInfoTransactionResponse`](../../aspose.finance.ofx.signup/accountinfotransactionresponse). |
-| [AccountSyncResponses](../../aspose.finance.ofx/signupresponsemessagesetv1/accountsyncresponses) { get; set; } | Получает или задает коллекцию[`AccountSyncResponse`](../../aspose.finance.ofx.signup/accountsyncresponse). |
-| [AccountTransactionResponses](../../aspose.finance.ofx/signupresponsemessagesetv1/accounttransactionresponses) { get; set; } | Получает или задает коллекцию[`AccountTransactionResponse`](../../aspose.finance.ofx.signup/accounttransactionresponse). |
-| [ChangeUserInfoSyncResponses](../../aspose.finance.ofx/signupresponsemessagesetv1/changeuserinfosyncresponses) { get; set; } | Получает или задает коллекцию[`ChangeUserInfoSyncResponse`](../../aspose.finance.ofx.signup/changeuserinfosyncresponse). |
-| [ChangeUserInfoTransactionResponses](../../aspose.finance.ofx/signupresponsemessagesetv1/changeuserinfotransactionresponses) { get; set; } | Получает или задает коллекцию[`ChangeUserInfoTransactionResponse`](../../aspose.finance.ofx.signup/changeuserinfotransactionresponse). |
-| [EnrollTransactionResponses](../../aspose.finance.ofx/signupresponsemessagesetv1/enrolltransactionresponses) { get; set; } | Получает или задает коллекцию[`EnrollTransactionResponse`](../../aspose.finance.ofx.signup/enrolltransactionresponse). |
+| [AccountInfoTransactionResponses](../../aspose.finance.ofx/signupresponsemessagesetv1/accountinfotransactionresponses) { get; set; } | Получает или задает коллекцию[`AccountInfoTransactionResponse`](../../aspose.finance.ofx.signup/accountinfotransactionresponse) . |
+| [AccountSyncResponses](../../aspose.finance.ofx/signupresponsemessagesetv1/accountsyncresponses) { get; set; } | Получает или задает коллекцию[`AccountSyncResponse`](../../aspose.finance.ofx.signup/accountsyncresponse) . |
+| [AccountTransactionResponses](../../aspose.finance.ofx/signupresponsemessagesetv1/accounttransactionresponses) { get; set; } | Получает или задает коллекцию[`AccountTransactionResponse`](../../aspose.finance.ofx.signup/accounttransactionresponse) . |
+| [ChangeUserInfoSyncResponses](../../aspose.finance.ofx/signupresponsemessagesetv1/changeuserinfosyncresponses) { get; set; } | Получает или задает коллекцию[`ChangeUserInfoSyncResponse`](../../aspose.finance.ofx.signup/changeuserinfosyncresponse) . |
+| [ChangeUserInfoTransactionResponses](../../aspose.finance.ofx/signupresponsemessagesetv1/changeuserinfotransactionresponses) { get; set; } | Получает или задает коллекцию[`ChangeUserInfoTransactionResponse`](../../aspose.finance.ofx.signup/changeuserinfotransactionresponse) . |
+| [EnrollTransactionResponses](../../aspose.finance.ofx/signupresponsemessagesetv1/enrolltransactionresponses) { get; set; } | Получает или задает коллекцию[`EnrollTransactionResponse`](../../aspose.finance.ofx.signup/enrolltransactionresponse) . |
 
 ### Смотрите также
 

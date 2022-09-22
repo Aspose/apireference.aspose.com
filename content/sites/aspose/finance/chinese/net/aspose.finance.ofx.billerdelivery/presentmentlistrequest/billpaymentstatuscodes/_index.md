@@ -8,7 +8,7 @@ url: /zh/net/aspose.finance.ofx.billerdelivery/presentmentlistrequest/billpaymen
 ---
 ## PresentmentListRequest.BillPaymentStatusCodes property
 
-获取或设置账单支付状态码。
+获取或设置账单支付状态码
 
 ```csharp
 public List<BillPaymentStatusCodeEnum> BillPaymentStatusCodes { get; set; }

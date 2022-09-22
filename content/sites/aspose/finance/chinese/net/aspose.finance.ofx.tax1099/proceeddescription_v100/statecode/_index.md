@@ -1,14 +1,14 @@
 ---
 title: StateCode
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置州代扣所得税的邮政简称
+description: 获取或设置州代扣所得税的邮政缩写
 type: docs
 weight: 160
 url: /zh/net/aspose.finance.ofx.tax1099/proceeddescription_v100/statecode/
 ---
 ## ProceedDescription_V100.StateCode property
 
-获取或设置州代扣所得税的邮政简称。
+获取或设置州代扣所得税的邮政缩写。
 
 ```csharp
 public string StateCode { get; set; }

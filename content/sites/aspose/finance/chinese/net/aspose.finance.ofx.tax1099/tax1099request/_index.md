@@ -18,15 +18,15 @@ public class Tax1099Request
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Tax1099Request](tax1099request)() | 初始化[`Tax1099Request`](../tax1099request)类的新实例。 |
+| [Tax1099Request](tax1099request)() | 初始化一个新的实例[`Tax1099Request`](../tax1099request)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [AccountNumber](../../aspose.finance.ofx.tax1099/tax1099request/accountnumber) { get; set; } | 获取或设置收件人的帐号。 |
-| [RecipientId](../../aspose.finance.ofx.tax1099/tax1099request/recipientid) { get; set; } | 获取或设置收件人的 ID。 |
-| [TaxYears](../../aspose.finance.ofx.tax1099/tax1099request/taxyears) { get; set; } | 获取或设置所请求表单的纳税年度。 |
+| [AccountNumber](../../aspose.finance.ofx.tax1099/tax1099request/accountnumber) { get; set; } | 获取或设置收款人账号。 |
+| [RecipientId](../../aspose.finance.ofx.tax1099/tax1099request/recipientid) { get; set; } | 获取或设置收件人的ID。 |
+| [TaxYears](../../aspose.finance.ofx.tax1099/tax1099request/taxyears) { get; set; } | 获取或设置所请求表格的纳税年度。 |
 
 ### 也可以看看
 

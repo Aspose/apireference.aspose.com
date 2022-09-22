@@ -1,14 +1,14 @@
 ---
 title: Unit
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаUnitaspose.finance.xbrl/unit.
+description: Инициализирует новый экземплярUnitaspose.finance.xbrl/unit класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.xbrl/unit/unit/
 ---
 ## Unit constructor
 
-Инициализирует новый экземпляр класса[`Unit`](../../unit).
+Инициализирует новый экземпляр[`Unit`](../../unit) класс.
 
 ```csharp
 public Unit(UnitType type)

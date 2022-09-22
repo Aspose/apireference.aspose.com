@@ -1,14 +1,14 @@
 ---
 title: InvestmentBalance
 second_title: Справочник по API Aspose.Finance для .NET
-description: Класс инвестиционных балансов.
+description: Класс сальдо инвестиций.
 type: docs
 weight: 2920
 url: /ru/net/aspose.finance.ofx.investment/investmentbalance/
 ---
 ## InvestmentBalance class
 
-Класс инвестиционных балансов.
+Класс сальдо инвестиций.
 
 ```csharp
 public class InvestmentBalance
@@ -18,16 +18,16 @@ public class InvestmentBalance
 
 | Имя | Описание |
 | --- | --- |
-| [InvestmentBalance](investmentbalance)() | Инициализирует новый экземпляр класса[`InvestmentBalance`](../investmentbalance). |
+| [InvestmentBalance](investmentbalance)() | Инициализирует новый экземпляр[`InvestmentBalance`](../investmentbalance) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [AvailableCash](../../aspose.finance.ofx.investment/investmentbalance/availablecash) { get; set; } | Получает или задает баланс денежных средств по всем субсчетам. Должны включать в себя средства на ликвидацию. |
-| [BalanceList](../../aspose.finance.ofx.investment/investmentbalance/balancelist) { get; set; } | Получает или задает коллекцию[`Balance`](../../aspose.finance.ofx/balance). |
+| [AvailableCash](../../aspose.finance.ofx.investment/investmentbalance/availablecash) { get; set; } | Получает или задает баланс денежных средств по всем субсчетам. Должны включать средства для сбора средств. |
+| [BalanceList](../../aspose.finance.ofx.investment/investmentbalance/balancelist) { get; set; } | Получает или задает коллекцию[`Balance`](../../aspose.finance.ofx/balance) . |
 | [BuyPower](../../aspose.finance.ofx.investment/investmentbalance/buypower) { get; set; } | Получает или устанавливает покупательную способность. |
-| [MarginBalance](../../aspose.finance.ofx.investment/investmentbalance/marginbalance) { get; set; } | Получает или задает баланс маржи. Положительный баланс указывает на положительный остаток денежных средств, а отрицательный баланс указывает на наличие у клиента заемных средств. |
+| [MarginBalance](../../aspose.finance.ofx.investment/investmentbalance/marginbalance) { get; set; } | Получает или задает баланс маржи. Положительный баланс указывает на положительный баланс денежных средств, а отрицательный баланс a указывает на наличие у клиента заемных средств. |
 | [ShortBalance](../../aspose.finance.ofx.investment/investmentbalance/shortbalance) { get; set; } | Получает или задает рыночную стоимость всех коротких позиций. Это положительный баланс. |
 
 ### Смотрите также

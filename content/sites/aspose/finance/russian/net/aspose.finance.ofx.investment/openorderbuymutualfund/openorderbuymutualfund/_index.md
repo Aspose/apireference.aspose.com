@@ -1,14 +1,14 @@
 ---
 title: OpenOrderBuyMutualFund
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаOpenOrderBuyMutualFundaspose.finance.ofx.investment/openorderbuymutualfund.
+description: Инициализирует новый экземплярOpenOrderBuyMutualFundaspose.finance.ofx.investment/openorderbuymutualfund класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.investment/openorderbuymutualfund/openorderbuymutualfund/
 ---
 ## OpenOrderBuyMutualFund constructor
 
-Инициализирует новый экземпляр класса[`OpenOrderBuyMutualFund`](../../openorderbuymutualfund).
+Инициализирует новый экземпляр[`OpenOrderBuyMutualFund`](../../openorderbuymutualfund) класс.
 
 ```csharp
 public OpenOrderBuyMutualFund()

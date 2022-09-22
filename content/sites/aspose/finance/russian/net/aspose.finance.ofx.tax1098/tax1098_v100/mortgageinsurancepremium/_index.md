@@ -1,14 +1,14 @@
 ---
 title: MortgageInsurancePremium
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает страховой взнос по ипотечному кредиту.
+description: Получает или задает премию по ипотечному страхованию.
 type: docs
 weight: 70
 url: /ru/net/aspose.finance.ofx.tax1098/tax1098_v100/mortgageinsurancepremium/
 ---
 ## Tax1098_V100.MortgageInsurancePremium property
 
-Получает или задает страховой взнос по ипотечному кредиту.
+Получает или задает премию по ипотечному страхованию.
 
 ```csharp
 public string MortgageInsurancePremium { get; set; }

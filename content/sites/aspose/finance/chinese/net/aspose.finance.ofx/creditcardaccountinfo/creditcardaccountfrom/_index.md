@@ -1,14 +1,14 @@
 ---
 title: CreditCardAccountFrom
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置BankAccountaspose.finance.ofx/bankaccount的来源
+description: 获取或设置 fromBankAccountaspose.finance.ofx/bankaccount.
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.ofx/creditcardaccountinfo/creditcardaccountfrom/
 ---
 ## CreditCardAccountInfo.CreditCardAccountFrom property
 
-获取或设置[`BankAccount`](../../bankaccount)的来源。
+获取或设置 from[`BankAccount`](../../bankaccount).
 
 ```csharp
 public CreditCardAccount CreditCardAccountFrom { get; set; }

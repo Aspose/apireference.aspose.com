@@ -1,14 +1,14 @@
 ---
 title: TaxW2TransactionResponse
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаTaxW2TransactionResponseaspose.finance.ofx.taxw2/taxw2transactionresponse.
+description: Инициализирует новый экземплярTaxW2TransactionResponseaspose.finance.ofx.taxw2/taxw2transactionresponse класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.taxw2/taxw2transactionresponse/taxw2transactionresponse/
 ---
 ## TaxW2TransactionResponse constructor
 
-Инициализирует новый экземпляр класса[`TaxW2TransactionResponse`](../../taxw2transactionresponse).
+Инициализирует новый экземпляр[`TaxW2TransactionResponse`](../../taxw2transactionresponse) класс.
 
 ```csharp
 public TaxW2TransactionResponse()

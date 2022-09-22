@@ -1,14 +1,14 @@
 ---
 title: Closings
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置Closingaspose.finance.ofx.bank/closing的集合
+description: 获取或设置的集合Closingaspose.finance.ofx.bank/closing.
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.ofx.bank/statementendresponse/closings/
 ---
 ## StatementEndResponse.Closings property
 
-获取或设置[`Closing`](../../closing)的集合。
+获取或设置的集合[`Closing`](../../closing).
 
 ```csharp
 public List<Closing> Closings { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: RoleTypes
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает коллекцию объектовRoleTypeaspose.finance.xbrl/roletypeв схеме.
+description: Получает коллекциюRoleTypeaspose.finance.xbrl/roletype объекты в схеме.
 type: docs
 weight: 70
 url: /ru/net/aspose.finance.xbrl/schemaref/roletypes/
 ---
 ## SchemaRef.RoleTypes property
 
-Получает коллекцию объектов[`RoleType`](../../roletype)в схеме.
+Получает коллекцию[`RoleType`](../../roletype) объекты в схеме.
 
 ```csharp
 public List<RoleType> RoleTypes { get; set; }

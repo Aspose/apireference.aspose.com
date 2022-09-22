@@ -1,14 +1,14 @@
 ---
 title: DueByDate
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает дату когда клиент запрашивает счета к оплате до нее или до нее.
+description: Получает или задает дату когда клиент запрашивает счета к оплате не позднее этой даты.
 type: docs
 weight: 80
 url: /ru/net/aspose.finance.ofx.billerdelivery/presentmentlistrequest/duebydate/
 ---
 ## PresentmentListRequest.DueByDate property
 
-Получает или задает дату, когда клиент запрашивает счета к оплате до нее или до нее.
+Получает или задает дату, когда клиент запрашивает счета к оплате не позднее этой даты.
 
 ```csharp
 public string DueByDate { get; set; }

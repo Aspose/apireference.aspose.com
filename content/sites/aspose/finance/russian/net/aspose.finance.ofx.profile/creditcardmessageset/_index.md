@@ -18,13 +18,13 @@ public class CreditcardMessageSet : AbstractMessageSet
 
 | Имя | Описание |
 | --- | --- |
-| [CreditcardMessageSet](creditcardmessageset)() | Инициализирует новый экземпляр класса[`CreditcardMessageSet`](../creditcardmessageset). |
+| [CreditcardMessageSet](creditcardmessageset)() | Инициализирует новый экземпляр[`CreditcardMessageSet`](../creditcardmessageset) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [CreditcardMessageSetV1](../../aspose.finance.ofx.profile/creditcardmessageset/creditcardmessagesetv1) { get; set; } | Получает или задает[`CreditcardMessageSetV1`](./creditcardmessagesetv1). |
+| [CreditcardMessageSetV1](../../aspose.finance.ofx.profile/creditcardmessageset/creditcardmessagesetv1) { get; set; } | Получает или задает[`CreditcardMessageSetV1`](./creditcardmessagesetv1) . |
 
 ### Смотрите также
 

@@ -1,14 +1,14 @@
 ---
 title: AmortizationTransactionRequest
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаAmortizationTransactionRequestaspose.finance.ofx.loan/amortizationtransactionrequest.
+description: Инициализирует новый экземплярAmortizationTransactionRequestaspose.finance.ofx.loan/amortizationtransactionrequest класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.loan/amortizationtransactionrequest/amortizationtransactionrequest/
 ---
 ## AmortizationTransactionRequest constructor
 
-Инициализирует новый экземпляр класса[`AmortizationTransactionRequest`](../../amortizationtransactionrequest).
+Инициализирует новый экземпляр[`AmortizationTransactionRequest`](../../amortizationtransactionrequest) класс.
 
 ```csharp
 public AmortizationTransactionRequest()

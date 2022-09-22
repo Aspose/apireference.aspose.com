@@ -1,14 +1,14 @@
 ---
 title: SecurityRequests
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置SecurityRequestaspose.finance.ofx.securitieslist/securityrequest的集合
+description: 获取或设置的集合SecurityRequestaspose.finance.ofx.securitieslist/securityrequest.
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.ofx.securitieslist/securitylistrequest/securityrequests/
 ---
 ## SecurityListRequest.SecurityRequests property
 
-获取或设置[`SecurityRequest`](../../securityrequest)的集合。
+获取或设置的集合[`SecurityRequest`](../../securityrequest).
 
 ```csharp
 public List<SecurityRequest> SecurityRequests { get; set; }

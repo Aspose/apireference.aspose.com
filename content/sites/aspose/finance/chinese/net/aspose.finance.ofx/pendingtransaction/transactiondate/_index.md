@@ -1,14 +1,14 @@
 ---
 title: TransactionDate
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置事务开始的日期
+description: 获取或设置交易开始的日期
 type: docs
 weight: 110
 url: /zh/net/aspose.finance.ofx/pendingtransaction/transactiondate/
 ---
 ## PendingTransaction.TransactionDate property
 
-获取或设置事务开始的日期。
+获取或设置交易开始的日期。
 
 ```csharp
 public string TransactionDate { get; set; }

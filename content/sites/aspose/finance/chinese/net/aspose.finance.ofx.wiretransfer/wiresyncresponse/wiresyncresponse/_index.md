@@ -1,14 +1,14 @@
 ---
 title: WireSyncResponse
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化WireSyncResponseaspose.finance.ofx.wiretransfer/wiresyncresponse类的新实例
+description: 初始化一个新的实例WireSyncResponseaspose.finance.ofx.wiretransfer/wiresyncresponse类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.wiretransfer/wiresyncresponse/wiresyncresponse/
 ---
 ## WireSyncResponse constructor
 
-初始化[`WireSyncResponse`](../../wiresyncresponse)类的新实例。
+初始化一个新的实例[`WireSyncResponse`](../../wiresyncresponse)类.
 
 ```csharp
 public WireSyncResponse()

@@ -3,7 +3,7 @@ title: ValidationError
 second_title: Справочник по API Aspose.Finance для .NET
 description: этот класс предназначен для базового класса ошибок связанных с проверкой.
 type: docs
-weight: 8140
+weight: 8150
 url: /ru/net/aspose.finance.xbrl.validator/validationerror/
 ---
 ## ValidationError class

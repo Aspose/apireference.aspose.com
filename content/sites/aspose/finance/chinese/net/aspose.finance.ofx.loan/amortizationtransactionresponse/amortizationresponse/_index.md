@@ -1,14 +1,14 @@
 ---
 title: AmortizationResponse
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置AmortizationResponseaspose.finance.ofx.loan/amortizationtransactionresponse/amortizationresponse
+description: 获取或设置AmortizationResponseaspose.finance.ofx.loan/amortizationtransactionresponse/amortizationresponse.
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.ofx.loan/amortizationtransactionresponse/amortizationresponse/
 ---
 ## AmortizationTransactionResponse.AmortizationResponse property
 
-获取或设置`AmortizationResponse`。
+获取或设置`AmortizationResponse`.
 
 ```csharp
 public AmortizationResponse AmortizationResponse { get; set; }

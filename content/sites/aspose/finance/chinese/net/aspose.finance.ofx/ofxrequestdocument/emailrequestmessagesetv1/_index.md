@@ -1,14 +1,14 @@
 ---
 title: EmailRequestMessageSetV1
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置EmailRequestMessageSetV1aspose.finance.ofx/ofxrequestdocument/emailrequestmessagesetv1
+description: 获取或设置EmailRequestMessageSetV1aspose.finance.ofx/ofxrequestdocument/emailrequestmessagesetv1.
 type: docs
 weight: 50
 url: /zh/net/aspose.finance.ofx/ofxrequestdocument/emailrequestmessagesetv1/
 ---
 ## OfxRequestDocument.EmailRequestMessageSetV1 property
 
-获取或设置`EmailRequestMessageSetV1`。
+获取或设置`EmailRequestMessageSetV1`.
 
 ```csharp
 public EmailRequestMessageSetV1 EmailRequestMessageSetV1 { get; set; }

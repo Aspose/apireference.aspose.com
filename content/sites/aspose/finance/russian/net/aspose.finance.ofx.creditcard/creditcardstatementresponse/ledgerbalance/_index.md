@@ -1,14 +1,14 @@
 ---
 title: LedgerBalance
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает значение изLedgerBalanceaspose.finance.ofx.creditcard/creditcardstatementresponse/ledgerbalance.
+description: Получает или задает изLedgerBalanceaspose.finance.ofx.creditcard/creditcardstatementresponse/ledgerbalance .
 type: docs
 weight: 110
 url: /ru/net/aspose.finance.ofx.creditcard/creditcardstatementresponse/ledgerbalance/
 ---
 ## CreditCardStatementResponse.LedgerBalance property
 
-Получает или задает значение из`LedgerBalance`.
+Получает или задает из`LedgerBalance` .
 
 ```csharp
 public LedgerBalance LedgerBalance { get; set; }

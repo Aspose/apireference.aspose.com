@@ -1,14 +1,14 @@
 ---
 title: XbrlDocument
 second_title: Справочник по API Aspose.Finance для .NET
-description: ПолучитеXbrlDocumentaspose.finance.xbrl/xbrlinstance/xbrldocument который содержит этот экземпляр.
+description: ПолучитьXbrlDocumentaspose.finance.xbrl/xbrlinstance/xbrldocument который содержит этот экземпляр.
 type: docs
 weight: 120
 url: /ru/net/aspose.finance.xbrl/xbrlinstance/xbrldocument/
 ---
 ## XbrlInstance.XbrlDocument property
 
-Получите`XbrlDocument`, который содержит этот экземпляр.
+Получить`XbrlDocument` который содержит этот экземпляр.
 
 ```csharp
 public XbrlDocument XbrlDocument { get; }

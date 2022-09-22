@@ -1,14 +1,14 @@
 ---
 title: ReplaceChild
 second_title: Справочник по API Aspose.Finance для .NET
-description: Заменяет дочерний узел old child новым дочерним в списке дочерних узлов и возвращает старый дочерний узел.
+description: Заменяет дочерний узел old child новым дочерним элементом в списке дочерних элементов и возвращает старый дочерний узел.
 type: docs
 weight: 190
 url: /ru/net/aspose.finance.xbrl.dom/node/replacechild/
 ---
 ## Node.ReplaceChild method
 
-Заменяет дочерний узел old child новым дочерним в списке дочерних узлов и возвращает старый дочерний узел.
+Заменяет дочерний узел old child новым дочерним элементом в списке дочерних элементов и возвращает старый дочерний узел.
 
 ```csharp
 public Node ReplaceChild(Node node, Node child)

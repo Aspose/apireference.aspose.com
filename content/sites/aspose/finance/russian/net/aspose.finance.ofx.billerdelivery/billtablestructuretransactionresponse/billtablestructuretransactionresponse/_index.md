@@ -1,14 +1,14 @@
 ---
 title: BillTableStructureTransactionResponse
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаBillTableStructureTransactionResponseaspose.finance.ofx.billerdelivery/billtablestructuretransactionresponse.
+description: Инициализирует новый экземплярBillTableStructureTransactionResponseaspose.finance.ofx.billerdelivery/billtablestructuretransactionresponse класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.billerdelivery/billtablestructuretransactionresponse/billtablestructuretransactionresponse/
 ---
 ## BillTableStructureTransactionResponse constructor
 
-Инициализирует новый экземпляр класса[`BillTableStructureTransactionResponse`](../../billtablestructuretransactionresponse).
+Инициализирует новый экземпляр[`BillTableStructureTransactionResponse`](../../billtablestructuretransactionresponse) класс.
 
 ```csharp
 public BillTableStructureTransactionResponse()

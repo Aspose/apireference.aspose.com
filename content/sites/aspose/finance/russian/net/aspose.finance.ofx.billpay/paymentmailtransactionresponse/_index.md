@@ -1,14 +1,14 @@
 ---
 title: PaymentMailTransactionResponse
 second_title: Справочник по API Aspose.Finance для .NET
-description: Класс ответа платежной электронной почты.
+description: Класс ответа на платежную электронную почту.
 type: docs
 weight: 1170
 url: /ru/net/aspose.finance.ofx.billpay/paymentmailtransactionresponse/
 ---
 ## PaymentMailTransactionResponse class
 
-Класс ответа платежной электронной почты.
+Класс ответа на платежную электронную почту.
 
 ```csharp
 public class PaymentMailTransactionResponse : AbstractTransactionResponse
@@ -18,16 +18,16 @@ public class PaymentMailTransactionResponse : AbstractTransactionResponse
 
 | Имя | Описание |
 | --- | --- |
-| [PaymentMailTransactionResponse](paymentmailtransactionresponse)() | Инициализирует новый экземпляр класса[`PaymentMailTransactionResponse`](../paymentmailtransactionresponse). |
+| [PaymentMailTransactionResponse](paymentmailtransactionresponse)() | Инициализирует новый экземпляр[`PaymentMailTransactionResponse`](../paymentmailtransactionresponse) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [ClientCookie](../../aspose.finance.ofx/abstracttransactionresponse/clientcookie) { get; set; } | Получает или задает данные, которые будут отображаться в ответе транзакции |
-| [OfxExtension](../../aspose.finance.ofx.billpay/paymentmailtransactionresponse/ofxextension) { get; set; } | Получает или задает[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
-| [PaymentMailResponse](../../aspose.finance.ofx.billpay/paymentmailtransactionresponse/paymentmailresponse) { get; set; } | Получает или задает[`PaymentMailResponse`](./paymentmailresponse). |
-| [Status](../../aspose.finance.ofx/abstracttransactionresponse/status) { get; set; } | Получает или задает[`Status`](../../aspose.finance.ofx/abstracttransactionresponse/status). |
+| [ClientCookie](../../aspose.finance.ofx/abstracttransactionresponse/clientcookie) { get; set; } | Получает или задает данные, которые будут отражены в транзакции response |
+| [OfxExtension](../../aspose.finance.ofx.billpay/paymentmailtransactionresponse/ofxextension) { get; set; } | Получает или задает[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype) . |
+| [PaymentMailResponse](../../aspose.finance.ofx.billpay/paymentmailtransactionresponse/paymentmailresponse) { get; set; } | Получает или задает[`PaymentMailResponse`](./paymentmailresponse) . |
+| [Status](../../aspose.finance.ofx/abstracttransactionresponse/status) { get; set; } | Получает или задает[`Status`](../../aspose.finance.ofx/abstracttransactionresponse/status) . |
 | [TransactionUniqueId](../../aspose.finance.ofx/abstracttransactionresponse/transactionuniqueid) { get; set; } | Получает или задает назначенный клиентом глобальный уникальный идентификатор для этой транзакции. |
 
 ### Смотрите также

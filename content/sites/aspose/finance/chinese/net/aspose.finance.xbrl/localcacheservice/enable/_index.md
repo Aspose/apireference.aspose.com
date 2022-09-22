@@ -8,7 +8,7 @@ url: /zh/net/aspose.finance.xbrl/localcacheservice/enable/
 ---
 ## LocalCacheService.Enable property
 
-获取服务是否开启。
+获取服务是否开启
 
 ```csharp
 public static bool Enable { get; }

@@ -1,14 +1,14 @@
 ---
 title: ContinuedAt
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает идентификатор ссылки продолженияInlineFootnoteaspose.finance.xbrl.inline/inlinefootnote.
+description: Получает или задает идентификатор ссылки продолженияInlineFootnoteaspose.finance.xbrl.inline/inlinefootnote .
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.xbrl.inline/inlinefootnote/continuedat/
 ---
 ## InlineFootnote.ContinuedAt property
 
-Получает или задает идентификатор ссылки продолжения[`InlineFootnote`](../../inlinefootnote).
+Получает или задает идентификатор ссылки продолжения[`InlineFootnote`](../../inlinefootnote) .
 
 ```csharp
 public string ContinuedAt { get; set; }

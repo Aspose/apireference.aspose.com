@@ -18,13 +18,13 @@ public class ProfileRequestMessageSetV1 : AbstractRequestMessageSet
 
 | Имя | Описание |
 | --- | --- |
-| [ProfileRequestMessageSetV1](profilerequestmessagesetv1)() | Инициализирует новый экземпляр класса[`ProfileRequestMessageSetV1`](../profilerequestmessagesetv1). |
+| [ProfileRequestMessageSetV1](profilerequestmessagesetv1)() | Инициализирует новый экземпляр[`ProfileRequestMessageSetV1`](../profilerequestmessagesetv1) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [ProfileTransactionRequests](../../aspose.finance.ofx/profilerequestmessagesetv1/profiletransactionrequests) { get; set; } | Получает или задает коллекцию[`ProfileTransactionRequest`](../../aspose.finance.ofx.profile/profiletransactionrequest). |
+| [ProfileTransactionRequests](../../aspose.finance.ofx/profilerequestmessagesetv1/profiletransactionrequests) { get; set; } | Получает или задает коллекцию[`ProfileTransactionRequest`](../../aspose.finance.ofx.profile/profiletransactionrequest) . |
 
 ### Смотрите также
 

@@ -1,14 +1,14 @@
 ---
 title: IncludeSummary
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает следует ли включать сводки счетов.
+description: Получает или задает следует ли включать сводку счетов.
 type: docs
 weight: 150
 url: /ru/net/aspose.finance.ofx.billerdelivery/presentmentlistrequest/includesummary/
 ---
 ## PresentmentListRequest.IncludeSummary property
 
-Получает или задает, следует ли включать сводки счетов.
+Получает или задает, следует ли включать сводку счетов.
 
 ```csharp
 public bool IncludeSummary { get; set; }

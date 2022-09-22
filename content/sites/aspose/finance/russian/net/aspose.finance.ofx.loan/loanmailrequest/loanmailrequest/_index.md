@@ -1,14 +1,14 @@
 ---
 title: LoanMailRequest
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаLoanMailRequestaspose.finance.ofx.loan/loanmailrequest.
+description: Инициализирует новый экземплярLoanMailRequestaspose.finance.ofx.loan/loanmailrequest класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.loan/loanmailrequest/loanmailrequest/
 ---
 ## LoanMailRequest constructor
 
-Инициализирует новый экземпляр класса[`LoanMailRequest`](../../loanmailrequest).
+Инициализирует новый экземпляр[`LoanMailRequest`](../../loanmailrequest) класс.
 
 ```csharp
 public LoanMailRequest()

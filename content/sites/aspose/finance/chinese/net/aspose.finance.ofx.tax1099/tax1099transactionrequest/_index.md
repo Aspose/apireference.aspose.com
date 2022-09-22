@@ -18,15 +18,15 @@ public class Tax1099TransactionRequest : AbstractTransactionRequest
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Tax1099TransactionRequest](tax1099transactionrequest)() | 初始化[`Tax1099TransactionRequest`](../tax1099transactionrequest)类的新实例。 |
+| [Tax1099TransactionRequest](tax1099transactionrequest)() | 初始化一个新的实例[`Tax1099TransactionRequest`](../tax1099transactionrequest)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
 | [ClientCookie](../../aspose.finance.ofx/abstracttransactionrequest/clientcookie) { get; set; } | 获取或设置要在事务响应中回显的数据 |
-| [Tax1099Request](../../aspose.finance.ofx.tax1099/tax1099transactionrequest/tax1099request) { get; set; } | 获取或设置[`Tax1099Request`](./tax1099request)。 |
-| [TransactionAuthorizationNumber](../../aspose.finance.ofx/abstracttransactionrequest/transactionauthorizationnumber) { get; set; } | 获取或设置交易授权号。 |
+| [Tax1099Request](../../aspose.finance.ofx.tax1099/tax1099transactionrequest/tax1099request) { get; set; } | 获取或设置[`Tax1099Request`](./tax1099request). |
+| [TransactionAuthorizationNumber](../../aspose.finance.ofx/abstracttransactionrequest/transactionauthorizationnumber) { get; set; } | 获取或设置交易授权号 |
 | [TransactionUniqueId](../../aspose.finance.ofx/abstracttransactionrequest/transactionuniqueid) { get; set; } | 获取或设置此事务的客户端分配的全局唯一 ID |
 
 ### 也可以看看

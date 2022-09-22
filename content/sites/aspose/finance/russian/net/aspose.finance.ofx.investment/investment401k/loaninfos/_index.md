@@ -1,14 +1,14 @@
 ---
 title: LoanInfos
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает коллекциюLoanInfoaspose.finance.ofx.investment/loaninfo.
+description: Получает или задает коллекциюLoanInfoaspose.finance.ofx.investment/loaninfo .
 type: docs
 weight: 100
 url: /ru/net/aspose.finance.ofx.investment/investment401k/loaninfos/
 ---
 ## Investment401k.LoanInfos property
 
-Получает или задает коллекцию[`LoanInfo`](../../loaninfo).
+Получает или задает коллекцию[`LoanInfo`](../../loaninfo) .
 
 ```csharp
 public List<LoanInfo> LoanInfos { get; set; }

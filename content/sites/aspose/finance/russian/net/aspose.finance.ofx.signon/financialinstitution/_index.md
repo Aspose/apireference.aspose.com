@@ -18,13 +18,13 @@ public class FinancialInstitution
 
 | Имя | Описание |
 | --- | --- |
-| [FinancialInstitution](financialinstitution)() | Инициализирует новый экземпляр класса[`FinancialInstitution`](../financialinstitution). |
+| [FinancialInstitution](financialinstitution)() | Инициализирует новый экземпляр[`FinancialInstitution`](../financialinstitution) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [FinancialInstitutionId](../../aspose.finance.ofx.signon/financialinstitution/financialinstitutionid) { get; set; } | Получает или задает идентификатор финансового учреждения (уникальный в пределах Организации) |
+| [FinancialInstitutionId](../../aspose.finance.ofx.signon/financialinstitution/financialinstitutionid) { get; set; } | Получает или задает идентификатор финансового учреждения (уникальный в пределах организации) |
 | [Organization](../../aspose.finance.ofx.signon/financialinstitution/organization) { get; set; } | Получает или задает организацию, определяющую это пространство имен FI. |
 
 ### Смотрите также

@@ -1,14 +1,14 @@
 ---
 title: TaxW2TransactionResponses
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置TaxW2TransactionResponseaspose.finance.ofx.taxw2/taxw2transactionresponse的集合
+description: 获取或设置的集合TaxW2TransactionResponseaspose.finance.ofx.taxw2/taxw2transactionresponse.
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.ofx/taxw2responsemessagesetv1/taxw2transactionresponses/
 ---
 ## TaxW2ResponseMessageSetV1.TaxW2TransactionResponses property
 
-获取或设置[`TaxW2TransactionResponse`](../../../aspose.finance.ofx.taxw2/taxw2transactionresponse)的集合。
+获取或设置的集合[`TaxW2TransactionResponse`](../../../aspose.finance.ofx.taxw2/taxw2transactionresponse).
 
 ```csharp
 public List<TaxW2TransactionResponse> TaxW2TransactionResponses { get; set; }

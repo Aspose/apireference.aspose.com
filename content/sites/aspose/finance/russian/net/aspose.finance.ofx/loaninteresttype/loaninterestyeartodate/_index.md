@@ -1,14 +1,14 @@
 ---
 title: LoanInterestYearToDate
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает общую сумму процентов выплаченных с начала года до текущей даты.
+description: Получает или задает общую сумму процентов выплаченных за год до настоящего времени.
 type: docs
 weight: 50
 url: /ru/net/aspose.finance.ofx/loaninteresttype/loaninterestyeartodate/
 ---
 ## LoanInterestType.LoanInterestYearToDate property
 
-Получает или задает общую сумму процентов, выплаченных с начала года до текущей даты.
+Получает или задает общую сумму процентов, выплаченных за год до настоящего времени.
 
 ```csharp
 public string LoanInterestYearToDate { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: ValidationError
 second_title: Aspose.Finance for .NET API 参考
-description: 此类用于验证相关错误的基类
+description: 这个类是用于验证相关错误的基类
 type: docs
-weight: 8140
+weight: 8150
 url: /zh/net/aspose.finance.xbrl.validator/validationerror/
 ---
 ## ValidationError class
 
-此类用于验证相关错误的基类。
+这个类是用于验证相关错误的基类。
 
 ```csharp
 public abstract class ValidationError
@@ -19,7 +19,7 @@ public abstract class ValidationError
 | 姓名 | 描述 |
 | --- | --- |
 | [Code](../../aspose.finance.xbrl.validator/validationerror/code) { get; } | 获取验证错误代码。 |
-| [Message](../../aspose.finance.xbrl.validator/validationerror/message) { get; } | 获取错误消息。 |
+| [Message](../../aspose.finance.xbrl.validator/validationerror/message) { get; } | 获取错误信息。 |
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: GetMimeRequest
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化GetMimeRequestaspose.finance.ofx.email/getmimerequest类的新实例
+description: 初始化一个新的实例GetMimeRequestaspose.finance.ofx.email/getmimerequest类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.email/getmimerequest/getmimerequest/
 ---
 ## GetMimeRequest constructor
 
-初始化[`GetMimeRequest`](../../getmimerequest)类的新实例。
+初始化一个新的实例[`GetMimeRequest`](../../getmimerequest)类.
 
 ```csharp
 public GetMimeRequest()

@@ -18,15 +18,15 @@ public class PaymentMailSyncResponse : AbstractSyncResponse
 
 | Имя | Описание |
 | --- | --- |
-| [PaymentMailSyncResponse](paymentmailsyncresponse)() | Инициализирует новый экземпляр класса[`PaymentMailSyncResponse`](../paymentmailsyncresponse). |
+| [PaymentMailSyncResponse](paymentmailsyncresponse)() | Инициализирует новый экземпляр[`PaymentMailSyncResponse`](../paymentmailsyncresponse) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [LostSynchronization](../../aspose.finance.ofx/abstractsyncresponse/lostsynchronization) { get; set; } | Да, если токен в запросе на синхронизацию старше, чем самая ранняя запись в таблице истории сервера. В этом случае некоторые ответы были потеряны. Нет, если токен в запросе на синхронизацию новее или совпадает с токеном в таблице истории сервера. |
-| [OfxExtension](../../aspose.finance.ofx.billpay/paymentmailsyncresponse/ofxextension) { get; set; } | Получает или задает[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
-| [PaymentMailTransactionResponses](../../aspose.finance.ofx.billpay/paymentmailsyncresponse/paymentmailtransactionresponses) { get; set; } | Получает или задает коллекцию[`PaymentMailTransactionResponse`](../paymentmailtransactionresponse). |
+| [LostSynchronization](../../aspose.finance.ofx/abstractsyncresponse/lostsynchronization) { get; set; } | Да, если токен в запросе на синхронизацию старше самой ранней записи в таблице истории сервера. В этом случае некоторые ответы были потеряны. Нет, если токен в запросе на синхронизацию новее или совпадает с токеном в таблице сервера. таблица истории. |
+| [OfxExtension](../../aspose.finance.ofx.billpay/paymentmailsyncresponse/ofxextension) { get; set; } | Получает или задает[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype) . |
+| [PaymentMailTransactionResponses](../../aspose.finance.ofx.billpay/paymentmailsyncresponse/paymentmailtransactionresponses) { get; set; } | Получает или задает коллекцию[`PaymentMailTransactionResponse`](../paymentmailtransactionresponse) . |
 | [Token](../../aspose.finance.ofx/abstractsyncresponse/token) { get; set; } | Получает или задает новый маркер синхронизации. |
 
 ### Смотрите также

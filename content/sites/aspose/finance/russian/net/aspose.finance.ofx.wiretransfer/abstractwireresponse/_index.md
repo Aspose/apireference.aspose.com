@@ -1,14 +1,14 @@
 ---
 title: AbstractWireResponse
 second_title: Справочник по API Aspose.Finance для .NET
-description: Абстрактный базовый класс для классов связанных с ответом на телеграмму.
+description: Абстрактный базовый класс для классов связанных с телеграфным откликом.
 type: docs
 weight: 6320
 url: /ru/net/aspose.finance.ofx.wiretransfer/abstractwireresponse/
 ---
 ## AbstractWireResponse class
 
-Абстрактный базовый класс для классов, связанных с ответом на телеграмму.
+Абстрактный базовый класс для классов, связанных с телеграфным откликом.
 
 ```csharp
 public abstract class AbstractWireResponse

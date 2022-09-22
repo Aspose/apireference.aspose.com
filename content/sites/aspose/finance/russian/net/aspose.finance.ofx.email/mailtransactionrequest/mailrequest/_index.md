@@ -1,14 +1,14 @@
 ---
 title: MailRequest
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задаетMailRequestaspose.finance.ofx.email/mailtransactionrequest/mailrequest.
+description: Получает или задаетMailRequestaspose.finance.ofx.email/mailtransactionrequest/mailrequest .
 type: docs
 weight: 20
 url: /ru/net/aspose.finance.ofx.email/mailtransactionrequest/mailrequest/
 ---
 ## MailTransactionRequest.MailRequest property
 
-Получает или задает`MailRequest`.
+Получает или задает`MailRequest` .
 
 ```csharp
 public MailRequest MailRequest { get; set; }

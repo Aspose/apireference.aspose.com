@@ -18,7 +18,7 @@ public enum InvestmentAccountEnum
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| INDIVIDUAL | `0` | 个人帐户。 |
+| INDIVIDUAL | `0` | 个人账户。 |
 | JOINT | `1` | 联名账户。 |
 | TRUST | `2` | 信任帐户。 |
 | CORPORATE | `3` | 公司帐户。 |

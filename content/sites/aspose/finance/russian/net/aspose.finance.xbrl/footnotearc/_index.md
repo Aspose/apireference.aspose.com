@@ -1,14 +1,14 @@
 ---
 title: FootnoteArc
 second_title: Справочник по API Aspose.Finance для .NET
-description: Этот класс представляет собой классXlink./xlinkс типом Arc. Он содержится вFootnoteLink.
+description: Этот класс являетсяXlink./xlink с типом Arc. Содержится вFootnoteLink .
 type: docs
 weight: 7640
 url: /ru/net/aspose.finance.xbrl/footnotearc/
 ---
 ## FootnoteArc class
 
-Этот класс представляет собой класс[`Xlink`](../xlink)с типом Arc. Он содержится вFootnoteLink.
+Этот класс является[`Xlink`](../xlink) с типом Arc. Содержится вFootnoteLink .
 
 ```csharp
 public class FootnoteArc : Arc
@@ -18,29 +18,29 @@ public class FootnoteArc : Arc
 
 | Имя | Описание |
 | --- | --- |
-| [FootnoteArc](footnotearc)(string, string) | Инициализирует новый экземпляр класса[`FootnoteArc`](../footnotearc). |
+| [FootnoteArc](footnotearc)(string, string) | Инициализирует новый экземпляр[`FootnoteArc`](../footnotearc) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
 | [Actuate](../../aspose.finance.xbrl/arc/actuate) { get; set; } | Получает или задает срабатывание дуги. |
-| [Arcrole](../../aspose.finance.xbrl/arc/arcrole) { get; set; } | Получает или задает роль дуги. |
+| [Arcrole](../../aspose.finance.xbrl/arc/arcrole) { get; set; } | Получает или задает роль дуги дуги. |
 | [From](../../aspose.finance.xbrl/arc/from) { get; set; } | Получает или задает метку from дуги. |
 | [Order](../../aspose.finance.xbrl/arc/order) { get; set; } | Получает или задает порядок дуги. |
-| [Priority](../../aspose.finance.xbrl/arc/priority) { get; set; } | Получает или задает приоритет дуги. |
+| [Priority](../../aspose.finance.xbrl/arc/priority) { get; set; } | Получает или устанавливает приоритет дуги. |
 | [Show](../../aspose.finance.xbrl/arc/show) { get; set; } | Получает или задает отображение дуги. |
 | [Title](../../aspose.finance.xbrl/arc/title) { get; set; } | Получает или задает заголовок дуги. |
 | [To](../../aspose.finance.xbrl/arc/to) { get; set; } | Получает или задает метку дуги. |
 | [Type](../../aspose.finance.xbrl/xlink/type) { get; } | Получает тип ссылки. |
-| [Use](../../aspose.finance.xbrl/arc/use) { get; set; } | Получает или задает использование дуги дугой. |
+| [Use](../../aspose.finance.xbrl/arc/use) { get; set; } | Получает или задает использование дуги для дуги. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| [GetFromLocs](../../aspose.finance.xbrl/footnotearc/getfromlocs)() | Получает коллекцию из[`Loc`](../loc)в[`FootnoteArc`](../footnotearc). |
-| [GetToFootnotes](../../aspose.finance.xbrl/footnotearc/gettofootnotes)() | Получает коллекцию[`Footnote`](../footnote)в[`FootnoteArc`](../footnotearc). |
+| [GetFromLocs](../../aspose.finance.xbrl/footnotearc/getfromlocs)() | Получает коллекцию из[`Loc`](../loc) в[`FootnoteArc`](../footnotearc) . |
+| [GetToFootnotes](../../aspose.finance.xbrl/footnotearc/gettofootnotes)() | Получает коллекцию[`Footnote`](../footnote) в[`FootnoteArc`](../footnotearc) . |
 
 ### Смотрите также
 

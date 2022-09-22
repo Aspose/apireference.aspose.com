@@ -1,14 +1,14 @@
 ---
 title: Address1
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置地址行 1
+description: 获取或设置地址线 1.
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.ofx/accountholdertype/address1/
 ---
 ## AccountHolderType.Address1 property
 
-获取或设置地址行 1。
+获取或设置地址线 1.
 
 ```csharp
 public string Address1 { get; set; }

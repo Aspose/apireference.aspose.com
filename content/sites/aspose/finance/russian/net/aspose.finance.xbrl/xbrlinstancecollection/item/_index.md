@@ -1,14 +1,14 @@
 ---
 title: Item
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает и устанавливает элементXbrlInstanceaspose.finance.xbrl/xbrlinstanceпо указанному индексу в коллекции.
+description: Получает и устанавливаетXbrlInstanceaspose.finance.xbrl/xbrlinstance элемент по указанному индексу в коллекции.
 type: docs
 weight: 20
 url: /ru/net/aspose.finance.xbrl/xbrlinstancecollection/item/
 ---
 ## XbrlInstanceCollection indexer
 
-Получает и устанавливает элемент[`XbrlInstance`](../../xbrlinstance)по указанному индексу в коллекции.
+Получает и устанавливает[`XbrlInstance`](../../xbrlinstance) элемент по указанному индексу в коллекции.
 
 ```csharp
 public XbrlInstance this[int index] { get; set; }

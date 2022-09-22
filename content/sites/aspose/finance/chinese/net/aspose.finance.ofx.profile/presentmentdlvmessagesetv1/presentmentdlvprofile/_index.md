@@ -1,14 +1,14 @@
 ---
 title: PresentmentDlvProfile
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置PresentmentDlvProfileaspose.finance.ofx.profile/presentmentdlvmessagesetv1/presentmentdlvprofile
+description: 获取或设置PresentmentDlvProfileaspose.finance.ofx.profile/presentmentdlvmessagesetv1/presentmentdlvprofile.
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.ofx.profile/presentmentdlvmessagesetv1/presentmentdlvprofile/
 ---
 ## PresentmentDlvMessageSetV1.PresentmentDlvProfile property
 
-获取或设置`PresentmentDlvProfile`。
+获取或设置`PresentmentDlvProfile`.
 
 ```csharp
 public PresentmentDlvProfile PresentmentDlvProfile { get; set; }

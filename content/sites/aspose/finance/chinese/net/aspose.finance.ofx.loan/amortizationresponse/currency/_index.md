@@ -1,14 +1,14 @@
 ---
 title: Currency
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置语句
+description: 获取或设置语句的默认货币
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.ofx.loan/amortizationresponse/currency/
 ---
 ## AmortizationResponse.Currency property
 
-获取或设置语句
+获取或设置语句的默认货币
 
 ```csharp
 public CurrencyEnum Currency { get; set; }

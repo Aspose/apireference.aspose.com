@@ -18,17 +18,17 @@ public class SellOption : AbstractInvestmentSellTransaction
 
 | Имя | Описание |
 | --- | --- |
-| [SellOption](selloption)() | Инициализирует новый экземпляр класса[`SellOption`](../selloption). |
+| [SellOption](selloption)() | Инициализирует новый экземпляр[`SellOption`](../selloption) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [InvestmentSell](../../aspose.finance.ofx.investment/abstractinvestmentselltransaction/investmentsell) { get; set; } | Получает или задает[`InvestmentSell`](../abstractinvestmentselltransaction/investmentsell). |
+| [InvestmentSell](../../aspose.finance.ofx.investment/abstractinvestmentselltransaction/investmentsell) { get; set; } | Получает или задает[`InvestmentSell`](../abstractinvestmentselltransaction/investmentsell) . |
 | [OptionSellType](../../aspose.finance.ofx.investment/selloption/optionselltype) { get; set; } | Получает или задает тип продажи опциона. |
-| [RelatedType](../../aspose.finance.ofx.investment/selloption/relatedtype) { get; set; } | Получает или задает тип транзакции связанного опциона. |
+| [RelatedType](../../aspose.finance.ofx.investment/selloption/relatedtype) { get; set; } | Получает или задает связанный тип опционной транзакции. |
 | [RelateFITransactionID](../../aspose.finance.ofx.investment/selloption/relatefitransactionid) { get; set; } | Получает или задает связанные транзакции, связанные с обменом взаимными фондами. |
-| [Secured](../../aspose.finance.ofx.investment/selloption/secured) { get; set; } | Получает или задает способ защиты опции. |
+| [Secured](../../aspose.finance.ofx.investment/selloption/secured) { get; set; } | Получает или задает способ защиты параметра. |
 | [SharePerContract](../../aspose.finance.ofx.investment/selloption/sharepercontract) { get; set; } | Получает или задает количество акций на контракт. |
 
 ### Смотрите также

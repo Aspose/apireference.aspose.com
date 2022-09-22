@@ -1,14 +1,14 @@
 ---
 title: RecurringIntraCancellationRequest
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化RecurringIntraCancellationRequestaspose.finance.ofx.bank/recurringintracancellationrequest类的新实例
+description: 初始化一个新的实例RecurringIntraCancellationRequestaspose.finance.ofx.bank/recurringintracancellationrequest类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.bank/recurringintracancellationrequest/recurringintracancellationrequest/
 ---
 ## RecurringIntraCancellationRequest constructor
 
-初始化[`RecurringIntraCancellationRequest`](../../recurringintracancellationrequest)类的新实例。
+初始化一个新的实例[`RecurringIntraCancellationRequest`](../../recurringintracancellationrequest)类.
 
 ```csharp
 public RecurringIntraCancellationRequest()

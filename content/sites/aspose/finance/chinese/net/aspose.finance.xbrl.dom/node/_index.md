@@ -26,7 +26,7 @@ public abstract class Node
 | virtual [LocalName](../../aspose.finance.xbrl.dom/node/localname) { get; } | 获取此节点的限定名称的本地部分。 |
 | virtual [NamespaceURI](../../aspose.finance.xbrl.dom/node/namespaceuri) { get; } | 获取此节点的命名空间 URI。 |
 | [NextSibling](../../aspose.finance.xbrl.dom/node/nextsibling) { get; } | 获取紧跟该节点的节点。如果没有这样的节点，则返回 null。 |
-| abstract [NodeName](../../aspose.finance.xbrl.dom/node/nodename) { get; } | 获取节点名称，具体取决于其类型。 |
+| abstract [NodeName](../../aspose.finance.xbrl.dom/node/nodename) { get; } | 获取节点名称，取决于其类型。 |
 | [NodeType](../../aspose.finance.xbrl.dom/node/nodetype) { get; } | 获取节点类型。 |
 | virtual [NodeValue](../../aspose.finance.xbrl.dom/node/nodevalue) { get; set; } | 获取或设置此节点的值，具体取决于其类型。 |
 | [OwnerDocument](../../aspose.finance.xbrl.dom/node/ownerdocument) { get; } | 获取与此节点关联的文档对象。 |
@@ -41,7 +41,7 @@ public abstract class Node
 | --- | --- |
 | [AppendChild](../../aspose.finance.xbrl.dom/node/appendchild)(Node) | 将节点 newChild 添加到该节点的子节点列表的末尾。 |
 | [RemoveChild](../../aspose.finance.xbrl.dom/node/removechild)(Node) | 从子节点列表中删除由 old child 指示的子节点。 |
-| [ReplaceChild](../../aspose.finance.xbrl.dom/node/replacechild)(Node, Node) | 将子节点列表中的子节点 old child 替换为 new child，并返回 old child 节点。 |
+| [ReplaceChild](../../aspose.finance.xbrl.dom/node/replacechild)(Node, Node) | 用新的子节点替换子节点列表中的子节点old child，并返回旧的子节点。 |
 
 ## 字段
 
@@ -49,9 +49,9 @@ public abstract class Node
 | --- | --- |
 | const [COMMENT_NODE](../../aspose.finance.xbrl.dom/node/comment_node) | 注释节点类型。 |
 | const [DOCUMENT_NODE](../../aspose.finance.xbrl.dom/node/document_node) | 文档节点类型。 |
-| const [DOCUMENT_TYPE_NODE](../../aspose.finance.xbrl.dom/node/document_type_node) | 文档类型节点类型。 |
+| const [DOCUMENT_TYPE_NODE](../../aspose.finance.xbrl.dom/node/document_type_node) | 文档类型节点类型. |
 | const [ELEMENT_NODE](../../aspose.finance.xbrl.dom/node/element_node) | 元素节点类型。 |
-| const [PROCESSING_INSTRUCTION_NODE](../../aspose.finance.xbrl.dom/node/processing_instruction_node) | 处理指令节点类型。 |
+| const [PROCESSING_INSTRUCTION_NODE](../../aspose.finance.xbrl.dom/node/processing_instruction_node) | 处理指令节点类型. |
 | const [TEXT_NODE](../../aspose.finance.xbrl.dom/node/text_node) | 文本节点类型。 |
 
 ### 也可以看看

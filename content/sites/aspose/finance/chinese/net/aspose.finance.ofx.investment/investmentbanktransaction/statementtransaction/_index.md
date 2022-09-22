@@ -1,14 +1,14 @@
 ---
 title: StatementTransaction
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置StatementTransactionaspose.finance.ofx.investment/investmentbanktransaction/statementtransaction
+description: 获取或设置StatementTransactionaspose.finance.ofx.investment/investmentbanktransaction/statementtransaction.
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.ofx.investment/investmentbanktransaction/statementtransaction/
 ---
 ## InvestmentBankTransaction.StatementTransaction property
 
-获取或设置`StatementTransaction`。
+获取或设置`StatementTransaction`.
 
 ```csharp
 public StatementTransaction StatementTransaction { get; set; }

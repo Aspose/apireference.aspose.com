@@ -1,14 +1,14 @@
 ---
 title: RecurringPaymentTransactionRequests
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置RecurringPaymentTransactionRequestaspose.finance.ofx.billpay/recurringpaymenttransactionrequest的集合
+description: 获取或设置的集合RecurringPaymentTransactionRequestaspose.finance.ofx.billpay/recurringpaymenttransactionrequest.
 type: docs
 weight: 100
 url: /zh/net/aspose.finance.ofx/billpayrequestmessagesetv1/recurringpaymenttransactionrequests/
 ---
 ## BillPayRequestMessageSetV1.RecurringPaymentTransactionRequests property
 
-获取或设置[`RecurringPaymentTransactionRequest`](../../../aspose.finance.ofx.billpay/recurringpaymenttransactionrequest)的集合。
+获取或设置的集合[`RecurringPaymentTransactionRequest`](../../../aspose.finance.ofx.billpay/recurringpaymenttransactionrequest).
 
 ```csharp
 public List<RecurringPaymentTransactionRequest> RecurringPaymentTransactionRequests { get; set; }

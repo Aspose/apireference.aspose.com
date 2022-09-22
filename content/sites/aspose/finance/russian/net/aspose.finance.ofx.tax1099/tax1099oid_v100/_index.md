@@ -1,14 +1,14 @@
 ---
 title: Tax1099OID_V100
 second_title: Справочник по API Aspose.Finance для .NET
-description: Налоговая форма 1099-OID V100 класс формы.
+description: Класс формы 1099OID V100.
 type: docs
 weight: 6030
 url: /ru/net/aspose.finance.ofx.tax1099/tax1099oid_v100/
 ---
 ## Tax1099OID_V100 class
 
-Налоговая форма 1099-OID V100 класс формы.
+Класс формы 1099-OID V100.
 
 ```csharp
 public class Tax1099OID_V100 : AbstractTaxForm1099
@@ -18,14 +18,14 @@ public class Tax1099OID_V100 : AbstractTaxForm1099
 
 | Имя | Описание |
 | --- | --- |
-| [Tax1099OID_V100](tax1099oid_v100)() | Инициализирует новый экземпляр класса[`Tax1099OID_V100`](../tax1099oid_v100). |
+| [Tax1099OID_V100](tax1099oid_v100)() | Инициализирует новый экземпляр[`Tax1099OID_V100`](../tax1099oid_v100) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
 | [AcquisitionPremium](../../aspose.finance.ofx.tax1099/tax1099oid_v100/acquisitionpremium) { get; set; } | Получает или задает премию за приобретение. |
-| [AddlStateTaxWheldAggregate](../../aspose.finance.ofx.tax1099/tax1099oid_v100/addlstatetaxwheldaggregate) { get; set; } | Получает или задает[`AddlStateTaxWheldAggregate`](./addlstatetaxwheldaggregate). |
+| [AddlStateTaxWheldAggregate](../../aspose.finance.ofx.tax1099/tax1099oid_v100/addlstatetaxwheldaggregate) { get; set; } | Получает или задает[`AddlStateTaxWheldAggregate`](./addlstatetaxwheldaggregate) . |
 | [Corrected](../../aspose.finance.ofx.tax1099/abstracttaxform1099/corrected) { get; set; } | Получает или задает, является ли это исправленной формой. |
 | [Description](../../aspose.finance.ofx.tax1099/tax1099oid_v100/description) { get; set; } | Получает или задает описание. |
 | [EarlyWithdrawalPenalty](../../aspose.finance.ofx.tax1099/tax1099oid_v100/earlywithdrawalpenalty) { get; set; } | Получает или задает штраф за досрочное снятие средств. |
@@ -36,12 +36,12 @@ public class Tax1099OID_V100 : AbstractTaxForm1099
 | [OriginalIssueDiscount](../../aspose.finance.ofx.tax1099/tax1099oid_v100/originalissuediscount) { get; set; } | Получает или задает скидку исходного выпуска. |
 | [OriginalIssueDiscountOnUSTreasury](../../aspose.finance.ofx.tax1099/tax1099oid_v100/originalissuediscountonustreasury) { get; set; } | Получает или задает исходную скидку по обязательствам Казначейства США. |
 | [OtherPeriodicInterest](../../aspose.finance.ofx.tax1099/tax1099oid_v100/otherperiodicinterest) { get; set; } | Получает или задает другие периодические проценты. |
-| [PayerAddress](../../aspose.finance.ofx.tax1099/tax1099oid_v100/payeraddress) { get; set; } | Получает или задает[`PayerAddress`](./payeraddress). |
+| [PayerAddress](../../aspose.finance.ofx.tax1099/tax1099oid_v100/payeraddress) { get; set; } | Получает или задает[`PayerAddress`](./payeraddress) . |
 | [PayerId](../../aspose.finance.ofx.tax1099/tax1099oid_v100/payerid) { get; set; } | Получает или задает федеральный идентификационный номер плательщика. |
 | [RecipientAccount](../../aspose.finance.ofx.tax1099/tax1099oid_v100/recipientaccount) { get; set; } | Получает или задает номер счета получателя. |
-| [RecipientAddress](../../aspose.finance.ofx.tax1099/tax1099oid_v100/recipientaddress) { get; set; } | Получает или задает[`RecipientAddress`](./recipientaddress). |
+| [RecipientAddress](../../aspose.finance.ofx.tax1099/tax1099oid_v100/recipientaddress) { get; set; } | Получает или задает[`RecipientAddress`](./recipientaddress) . |
 | [RecipientId](../../aspose.finance.ofx.tax1099/tax1099oid_v100/recipientid) { get; set; } | Получает или задает идентификационный номер получателя. |
-| [ServerId](../../aspose.finance.ofx.tax1099/abstracttaxform1099/serverid) { get; set; } | Получает или задает идентификатор, назначенный хост-сервером форме. |
+| [ServerId](../../aspose.finance.ofx.tax1099/abstracttaxform1099/serverid) { get; set; } | Получает или задает идентификатор, присвоенный хост-сервером форме. |
 | [StateCode](../../aspose.finance.ofx.tax1099/tax1099oid_v100/statecode) { get; set; } | Получает или задает двухсимвольную аббревиатуру почтового индекса. |
 | [StateIdNumber](../../aspose.finance.ofx.tax1099/tax1099oid_v100/stateidnumber) { get; set; } | Получает или задает идентификационный номер штата плательщика. |
 | [StateTaxWithheld](../../aspose.finance.ofx.tax1099/tax1099oid_v100/statetaxwithheld) { get; set; } | Получает или задает удержанный подоходный налог штата. |

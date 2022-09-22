@@ -1,14 +1,14 @@
 ---
 title: RecurringInstructions
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задаетRecurringInstructionsaspose.finance.ofx.bank/recurringintraresponse/recurringinstructions.
+description: Получает или задаетRecurringInstructionsaspose.finance.ofx.bank/recurringintraresponse/recurringinstructions .
 type: docs
 weight: 30
 url: /ru/net/aspose.finance.ofx.bank/recurringintraresponse/recurringinstructions/
 ---
 ## RecurringIntraResponse.RecurringInstructions property
 
-Получает или задает`RecurringInstructions`.
+Получает или задает`RecurringInstructions` .
 
 ```csharp
 public RecurringInstructions RecurringInstructions { get; set; }

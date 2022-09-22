@@ -1,14 +1,14 @@
 ---
 title: OverdraftLimit
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает текущий лимит овердрафта активный для счета
+description: Получает или задает текущий лимит овердрафта активный для account
 type: docs
 weight: 80
 url: /ru/net/aspose.finance.ofx/bankaccountinfo/overdraftlimit/
 ---
 ## BankAccountInfo.OverdraftLimit property
 
-Получает или задает текущий лимит овердрафта, активный для счета
+Получает или задает текущий лимит овердрафта, активный для account
 
 ```csharp
 public string OverdraftLimit { get; set; }

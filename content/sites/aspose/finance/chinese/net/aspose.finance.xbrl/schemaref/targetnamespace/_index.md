@@ -1,14 +1,14 @@
 ---
 title: TargetNamespace
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置模式的目标命名空间
+description: 获取或设置架构的目标命名空间
 type: docs
 weight: 80
 url: /zh/net/aspose.finance.xbrl/schemaref/targetnamespace/
 ---
 ## SchemaRef.TargetNamespace property
 
-获取或设置模式的目标命名空间。
+获取或设置架构的目标命名空间。
 
 ```csharp
 public string TargetNamespace { get; set; }

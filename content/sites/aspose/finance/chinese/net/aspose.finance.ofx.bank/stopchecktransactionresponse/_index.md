@@ -18,16 +18,16 @@ public class StopCheckTransactionResponse : AbstractTransactionResponse
 
 | 姓名 | 描述 |
 | --- | --- |
-| [StopCheckTransactionResponse](stopchecktransactionresponse)() | 初始化[`StopCheckTransactionResponse`](../stopchecktransactionresponse)类的新实例。 |
+| [StopCheckTransactionResponse](stopchecktransactionresponse)() | 初始化一个新的实例[`StopCheckTransactionResponse`](../stopchecktransactionresponse)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
 | [ClientCookie](../../aspose.finance.ofx/abstracttransactionresponse/clientcookie) { get; set; } | 获取或设置要在事务响应中回显的数据 |
-| [OfxExtension](../../aspose.finance.ofx.bank/stopchecktransactionresponse/ofxextension) { get; set; } | 获取或设置[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype)。 |
-| [Status](../../aspose.finance.ofx/abstracttransactionresponse/status) { get; set; } | 获取或设置[`Status`](../../aspose.finance.ofx/abstracttransactionresponse/status)。 |
-| [StopCheckResponse](../../aspose.finance.ofx.bank/stopchecktransactionresponse/stopcheckresponse) { get; set; } | 获取或设置[`StopCheckResponse`](./stopcheckresponse)。 |
+| [OfxExtension](../../aspose.finance.ofx.bank/stopchecktransactionresponse/ofxextension) { get; set; } | 获取或设置[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
+| [Status](../../aspose.finance.ofx/abstracttransactionresponse/status) { get; set; } | 获取或设置[`Status`](../../aspose.finance.ofx/abstracttransactionresponse/status). |
+| [StopCheckResponse](../../aspose.finance.ofx.bank/stopchecktransactionresponse/stopcheckresponse) { get; set; } | 获取或设置[`StopCheckResponse`](./stopcheckresponse). |
 | [TransactionUniqueId](../../aspose.finance.ofx/abstracttransactionresponse/transactionuniqueid) { get; set; } | 获取或设置此事务的客户端分配的全局唯一 ID。 |
 
 ### 也可以看看

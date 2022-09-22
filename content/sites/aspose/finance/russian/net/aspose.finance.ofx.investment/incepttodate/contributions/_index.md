@@ -1,14 +1,14 @@
 ---
 title: Contributions
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задаетContributionsaspose.finance.ofx.investment/incepttodate/contributions.
+description: Получает или задаетContributionsaspose.finance.ofx.investment/incepttodate/contributions .
 type: docs
 weight: 20
 url: /ru/net/aspose.finance.ofx.investment/incepttodate/contributions/
 ---
 ## InceptToDate.Contributions property
 
-Получает или задает`Contributions`.
+Получает или задает`Contributions` .
 
 ```csharp
 public Contributions Contributions { get; set; }

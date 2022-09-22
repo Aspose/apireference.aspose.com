@@ -1,14 +1,14 @@
 ---
 title: Include
 second_title: Справочник по API Aspose.Finance для .NET
-description: Возвращает или устанавливает флаг включения транзакций
+description: Получает или задает следует ли включать транзакции flag
 type: docs
 weight: 30
 url: /ru/net/aspose.finance.ofx/inctransaction/include/
 ---
 ## IncTransaction.Include property
 
-Возвращает или устанавливает флаг включения транзакций
+Получает или задает, следует ли включать транзакции flag
 
 ```csharp
 public bool Include { get; set; }

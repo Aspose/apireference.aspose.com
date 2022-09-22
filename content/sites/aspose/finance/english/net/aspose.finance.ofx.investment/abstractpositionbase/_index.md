@@ -3,7 +3,7 @@ title: AbstractPositionBase
 second_title: Aspose.Finance for .NET API Reference
 description: Abstract base class of investment position related classes.
 type: docs
-weight: 2660
+weight: 2670
 url: /net/aspose.finance.ofx.investment/abstractpositionbase/
 ---
 ## AbstractPositionBase class

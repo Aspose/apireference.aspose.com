@@ -18,15 +18,15 @@ public class BillStatusModTransactionRequest : AbstractTransactionRequest
 
 | Имя | Описание |
 | --- | --- |
-| [BillStatusModTransactionRequest](billstatusmodtransactionrequest)() | Инициализирует новый экземпляр класса[`BillStatusModTransactionRequest`](../billstatusmodtransactionrequest). |
+| [BillStatusModTransactionRequest](billstatusmodtransactionrequest)() | Инициализирует новый экземпляр[`BillStatusModTransactionRequest`](../billstatusmodtransactionrequest) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [BillStatusModRequest](../../aspose.finance.ofx.billerdelivery/billstatusmodtransactionrequest/billstatusmodrequest) { get; set; } | Получает или задает[`BillStatusModRequest`](./billstatusmodrequest). |
-| [ClientCookie](../../aspose.finance.ofx/abstracttransactionrequest/clientcookie) { get; set; } | Получает или задает данные, которые будут отображаться в ответе транзакции |
-| [OfxExtension](../../aspose.finance.ofx.billerdelivery/billstatusmodtransactionrequest/ofxextension) { get; set; } | Получает или задает[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
+| [BillStatusModRequest](../../aspose.finance.ofx.billerdelivery/billstatusmodtransactionrequest/billstatusmodrequest) { get; set; } | Получает или задает[`BillStatusModRequest`](./billstatusmodrequest) . |
+| [ClientCookie](../../aspose.finance.ofx/abstracttransactionrequest/clientcookie) { get; set; } | Получает или задает данные, которые будут отражены в транзакции response |
+| [OfxExtension](../../aspose.finance.ofx.billerdelivery/billstatusmodtransactionrequest/ofxextension) { get; set; } | Получает или задает[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype) . |
 | [TransactionAuthorizationNumber](../../aspose.finance.ofx/abstracttransactionrequest/transactionauthorizationnumber) { get; set; } | Получает или задает номер авторизации транзакции. |
 | [TransactionUniqueId](../../aspose.finance.ofx/abstracttransactionrequest/transactionuniqueid) { get; set; } | Получает или задает назначенный клиентом глобальный уникальный идентификатор для этой транзакции |
 

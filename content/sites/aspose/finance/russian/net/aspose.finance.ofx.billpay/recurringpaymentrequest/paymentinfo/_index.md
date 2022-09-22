@@ -1,14 +1,14 @@
 ---
 title: PaymentInfo
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задаетPaymentInfoaspose.finance.ofx.billpay/recurringpaymentrequest/paymentinfo.
+description: Получает или задаетPaymentInfoaspose.finance.ofx.billpay/recurringpaymentrequest/paymentinfo .
 type: docs
 weight: 40
 url: /ru/net/aspose.finance.ofx.billpay/recurringpaymentrequest/paymentinfo/
 ---
 ## RecurringPaymentRequest.PaymentInfo property
 
-Получает или задает`PaymentInfo`.
+Получает или задает`PaymentInfo` .
 
 ```csharp
 public PaymentInfo PaymentInfo { get; set; }

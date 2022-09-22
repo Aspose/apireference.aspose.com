@@ -3,7 +3,7 @@ title: Tax1099MISC_V100
 second_title: Aspose.Finance for .NET API Reference
 description: Tax 1099 MISC form class.
 type: docs
-weight: 6020
+weight: 6050
 url: /net/aspose.finance.ofx.tax1099/tax1099misc_v100/
 ---
 ## Tax1099MISC_V100 class

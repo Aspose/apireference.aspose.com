@@ -1,14 +1,14 @@
 ---
 title: VestInfos
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает коллекциюVestInfoaspose.finance.ofx.investment/vestinfo.
+description: Получает или задает коллекциюVestInfoaspose.finance.ofx.investment/vestinfo .
 type: docs
 weight: 140
 url: /ru/net/aspose.finance.ofx.investment/investment401k/vestinfos/
 ---
 ## Investment401k.VestInfos property
 
-Получает или задает коллекцию[`VestInfo`](../../vestinfo).
+Получает или задает коллекцию[`VestInfo`](../../vestinfo) .
 
 ```csharp
 public List<VestInfo> VestInfos { get; set; }

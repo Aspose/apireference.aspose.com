@@ -18,23 +18,23 @@ public class SignonResponse
 
 | 姓名 | 描述 |
 | --- | --- |
-| [SignonResponse](signonresponse)() | 初始化[`SignonResponse`](../signonresponse)类的新实例。 |
+| [SignonResponse](signonresponse)() | 初始化一个新的实例[`SignonResponse`](../signonresponse)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [AccessKey](../../aspose.finance.ofx.signon/signonresponse/accesskey) { get; set; } | 获取或设置客户端应在下一次登录请求中发送的访问密钥 |
-| [AccountUpdateDate](../../aspose.finance.ofx.signon/signonresponse/accountupdatedate) { get; set; } | 获取或设置上次更新帐户信息的日期和时间。 |
-| [FinancialInstitution](../../aspose.finance.ofx.signon/signonresponse/financialinstitution) { get; set; } | 获取或设置[`FinancialInstitution`](./financialinstitution)。 |
+| [AccessKey](../../aspose.finance.ofx.signon/signonresponse/accesskey) { get; set; } | 获取或设置客户端在下次登录请求中应该发送的访问密钥 |
+| [AccountUpdateDate](../../aspose.finance.ofx.signon/signonresponse/accountupdatedate) { get; set; } | 获取或设置上次更新账户信息的日期和时间。 |
+| [FinancialInstitution](../../aspose.finance.ofx.signon/signonresponse/financialinstitution) { get; set; } | 获取或设置[`FinancialInstitution`](./financialinstitution). |
 | [KeyExpireTime](../../aspose.finance.ofx.signon/signonresponse/keyexpiretime) { get; set; } | 获取或设置 USERKEY 过期的日期和时间。 |
 | [Language](../../aspose.finance.ofx.signon/signonresponse/language) { get; set; } | 获取或设置文本响应中使用的语言。 |
-| [OfxExtension](../../aspose.finance.ofx.signon/signonresponse/ofxextension) { get; set; } | 获取或设置[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype)。 |
+| [OfxExtension](../../aspose.finance.ofx.signon/signonresponse/ofxextension) { get; set; } | 获取或设置[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
 | [ProfileUpdateDate](../../aspose.finance.ofx.signon/signonresponse/profileupdatedate) { get; set; } | 获取或设置此 FI 支持的任何服务的配置文件信息的最后更新日期和时间。 |
 | [ServerDate](../../aspose.finance.ofx.signon/signonresponse/serverdate) { get; set; } | 获取或设置服务器响应的日期和时间。 |
 | [SessionCookie](../../aspose.finance.ofx.signon/signonresponse/sessioncookie) { get; set; } | 获取或设置客户端在下一次登录请求时应返回的会话 cookie。 |
-| [Status](../../aspose.finance.ofx.signon/signonresponse/status) { get; set; } | 获取或设置[`Status`](./status)。 |
-| [UserKey](../../aspose.finance.ofx.signon/signonresponse/userkey) { get; set; } | 为后续请求获取或设置使用用户密钥，而不是 UserId 和 UserPassword。 KeyExpireTime 可以限制生命周期。 |
+| [Status](../../aspose.finance.ofx.signon/signonresponse/status) { get; set; } | 获取或设置[`Status`](./status). |
+| [UserKey](../../aspose.finance.ofx.signon/signonresponse/userkey) { get; set; } | 为后续请求获取或设置使用用户密钥而不是 UserId 和 UserPassword。 KeyExpireTime 可以限制生命周期。 |
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: FirstChild
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает первый потомок этого узла. Если такого узла нет возвращается null.
+description: Получает первый дочерний элемент этого узла. Если такого узла нет возвращается null.
 type: docs
 weight: 30
 url: /ru/net/aspose.finance.xbrl.dom/node/firstchild/
 ---
 ## Node.FirstChild property
 
-Получает первый потомок этого узла. Если такого узла нет, возвращается null.
+Получает первый дочерний элемент этого узла. Если такого узла нет, возвращается null.
 
 ```csharp
 public Node FirstChild { get; }

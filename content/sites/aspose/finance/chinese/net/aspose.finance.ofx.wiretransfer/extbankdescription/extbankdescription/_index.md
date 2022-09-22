@@ -1,14 +1,14 @@
 ---
 title: ExtBankDescription
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化ExtBankDescriptionaspose.finance.ofx.wiretransfer/extbankdescription类的新实例
+description: 初始化一个新的实例ExtBankDescriptionaspose.finance.ofx.wiretransfer/extbankdescription类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.wiretransfer/extbankdescription/extbankdescription/
 ---
 ## ExtBankDescription constructor
 
-初始化[`ExtBankDescription`](../../extbankdescription)类的新实例。
+初始化一个新的实例[`ExtBankDescription`](../../extbankdescription)类.
 
 ```csharp
 public ExtBankDescription()

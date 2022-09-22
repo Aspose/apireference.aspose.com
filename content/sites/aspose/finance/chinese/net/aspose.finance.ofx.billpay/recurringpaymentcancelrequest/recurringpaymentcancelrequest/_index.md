@@ -1,14 +1,14 @@
 ---
 title: RecurringPaymentCancelRequest
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化RecurringPaymentCancelRequestaspose.finance.ofx.billpay/recurringpaymentcancelrequest类的新实例
+description: 初始化一个新的实例RecurringPaymentCancelRequestaspose.finance.ofx.billpay/recurringpaymentcancelrequest类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.billpay/recurringpaymentcancelrequest/recurringpaymentcancelrequest/
 ---
 ## RecurringPaymentCancelRequest constructor
 
-初始化[`RecurringPaymentCancelRequest`](../../recurringpaymentcancelrequest)类的新实例。
+初始化一个新的实例[`RecurringPaymentCancelRequest`](../../recurringpaymentcancelrequest)类.
 
 ```csharp
 public RecurringPaymentCancelRequest()

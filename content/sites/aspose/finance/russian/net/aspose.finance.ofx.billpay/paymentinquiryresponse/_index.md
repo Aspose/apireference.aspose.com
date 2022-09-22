@@ -18,14 +18,14 @@ public class PaymentInquiryResponse
 
 | Имя | Описание |
 | --- | --- |
-| [PaymentInquiryResponse](paymentinquiryresponse)() | Инициализирует новый экземпляр класса[`PaymentInquiryResponse`](../paymentinquiryresponse). |
+| [PaymentInquiryResponse](paymentinquiryresponse)() | Инициализирует новый экземпляр[`PaymentInquiryResponse`](../paymentinquiryresponse) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [CheckNumber](../../aspose.finance.ofx.billpay/paymentinquiryresponse/checknumber) { get; set; } | Получает или задает номер чека, присвоенный сервером данному платежу. |
-| [PaymentProcessingStatus](../../aspose.finance.ofx.billpay/paymentinquiryresponse/paymentprocessingstatus) { get; set; } | Получает или задает[`PaymentProcessingStatus`](./paymentprocessingstatus). |
+| [CheckNumber](../../aspose.finance.ofx.billpay/paymentinquiryresponse/checknumber) { get; set; } | Получает или задает контрольный номер, присвоенный сервером этому платежу. |
+| [PaymentProcessingStatus](../../aspose.finance.ofx.billpay/paymentinquiryresponse/paymentprocessingstatus) { get; set; } | Получает или задает[`PaymentProcessingStatus`](./paymentprocessingstatus) . |
 | [ServerId](../../aspose.finance.ofx.billpay/paymentinquiryresponse/serverid) { get; set; } | Получает или задает идентификатор, присвоенный сервером запрашиваемому платежу. |
 
 ### Смотрите также

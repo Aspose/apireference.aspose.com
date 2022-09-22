@@ -18,8 +18,8 @@ public class DefinitionLink
 
 | Имя | Описание |
 | --- | --- |
-| [DefinitionArcs](../../aspose.finance.xbrl/definitionlink/definitionarcs) { get; } | Получает коллекцию[`DefinitionArc`](../definitionarc). |
-| [Locators](../../aspose.finance.xbrl/definitionlink/locators) { get; } | Получает коллекцию[`Loc`](../loc). |
+| [DefinitionArcs](../../aspose.finance.xbrl/definitionlink/definitionarcs) { get; } | Получает коллекцию[`DefinitionArc`](../definitionarc) . |
+| [Locators](../../aspose.finance.xbrl/definitionlink/locators) { get; } | Получает коллекцию[`Loc`](../loc) . |
 | [Role](../../aspose.finance.xbrl/definitionlink/role) { get; set; } | Получает или задает роль. |
 
 ### Смотрите также

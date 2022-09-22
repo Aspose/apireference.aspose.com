@@ -1,14 +1,14 @@
 ---
 title: AvailableCash
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает баланс денежных средств по всем субсчетам. Должны включать в себя средства на ликвидацию.
+description: Получает или задает баланс денежных средств по всем субсчетам. Должны включать средства для сбора средств.
 type: docs
 weight: 20
 url: /ru/net/aspose.finance.ofx.investment/investmentbalance/availablecash/
 ---
 ## InvestmentBalance.AvailableCash property
 
-Получает или задает баланс денежных средств по всем субсчетам. Должны включать в себя средства на ликвидацию.
+Получает или задает баланс денежных средств по всем субсчетам. Должны включать средства для сбора средств.
 
 ```csharp
 public string AvailableCash { get; set; }

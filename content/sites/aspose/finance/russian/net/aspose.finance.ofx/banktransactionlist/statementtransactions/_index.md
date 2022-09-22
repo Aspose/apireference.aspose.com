@@ -1,14 +1,14 @@
 ---
 title: StatementTransactions
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает коллекциюStatementTransactionaspose.finance.ofx/statementtransaction.
+description: Получает или задает коллекциюStatementTransactionaspose.finance.ofx/statementtransaction .
 type: docs
 weight: 40
 url: /ru/net/aspose.finance.ofx/banktransactionlist/statementtransactions/
 ---
 ## BankTransactionList.StatementTransactions property
 
-Получает или задает коллекцию[`StatementTransaction`](../../statementtransaction).
+Получает или задает коллекцию[`StatementTransaction`](../../statementtransaction) .
 
 ```csharp
 public List<StatementTransaction> StatementTransactions { get; set; }

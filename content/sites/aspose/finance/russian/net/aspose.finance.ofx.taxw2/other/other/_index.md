@@ -1,14 +1,14 @@
 ---
 title: Other
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаOtheraspose.finance.ofx.taxw2/other.
+description: Инициализирует новый экземплярOtheraspose.finance.ofx.taxw2/other класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.taxw2/other/other/
 ---
 ## Other constructor
 
-Инициализирует новый экземпляр класса[`Other`](../../other).
+Инициализирует новый экземпляр[`Other`](../../other) класс.
 
 ```csharp
 public Other()

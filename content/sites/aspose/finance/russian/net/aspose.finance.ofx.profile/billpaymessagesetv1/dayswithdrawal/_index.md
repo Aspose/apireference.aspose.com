@@ -1,14 +1,14 @@
 ---
 title: DaysWithdrawal
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает смещение до даты отзыва.
+description: Получает или задает смещение до даты вывода средств.
 type: docs
 weight: 60
 url: /ru/net/aspose.finance.ofx.profile/billpaymessagesetv1/dayswithdrawal/
 ---
 ## BillPayMessageSetV1.DaysWithdrawal property
 
-Получает или задает смещение до даты отзыва.
+Получает или задает смещение до даты вывода средств.
 
 ```csharp
 public string DaysWithdrawal { get; set; }

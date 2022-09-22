@@ -1,14 +1,14 @@
 ---
 title: SecurityInfos
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置MutualFundInfoaspose.finance.ofx.securitieslist/mutualfundinfo或StockInfo的集合或OptionInfoaspose.finance.ofx.securitieslist/optioninfo或DebtInfoaspose.finance.ofx.securitieslist/debtinfo或OtherInfoaspose.finance.ofx.securitieslist/otherinfo
+description: 获取或设置的集合MutualFundInfoaspose.finance.ofx.securitieslist/mutualfundinfo或者StockInfoaspose.finance.ofx.securitieslist/stockinfo或者OptionInfoaspose.finance.ofx.securitieslist/optioninfo或者DebtInfoaspose.finance.ofx.securitieslist/debtinfo或者OtherInfoaspose.finance.ofx.securitieslist/otherinfo.
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.ofx.securitieslist/securitylist/securityinfos/
 ---
 ## SecurityList.SecurityInfos property
 
-获取或设置[`MutualFundInfo`](../../mutualfundinfo)或StockInfo的集合或[`OptionInfo`](../../optioninfo)或[`DebtInfo`](../../debtinfo)或[`OtherInfo`](../../otherinfo)。
+获取或设置的集合[`MutualFundInfo`](../../mutualfundinfo)或者[`StockInfo`](../../stockinfo)或者[`OptionInfo`](../../optioninfo)或者[`DebtInfo`](../../debtinfo)或者[`OtherInfo`](../../otherinfo).
 
 ```csharp
 public List<AbstractSecurityInfo> SecurityInfos { get; set; }

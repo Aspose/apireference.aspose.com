@@ -18,14 +18,14 @@ public class Context
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Context](context)(ContextPeriod, ContextEntity) | 初始化[`Context`](../context)类的新实例。 |
+| [Context](context)(ContextPeriod, ContextEntity) | 初始化一个新的实例[`Context`](../context)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
 | [Entity](../../aspose.finance.xbrl/context/entity) { get; set; } | 获取或设置上下文的实体。 |
-| [Id](../../aspose.finance.xbrl/context/id) { get; set; } | 获取或设置上下文的 id。 |
+| [Id](../../aspose.finance.xbrl/context/id) { get; set; } | 获取或设置上下文的id。 |
 | [Period](../../aspose.finance.xbrl/context/period) { get; set; } | 获取或设置上下文的周期。 |
 | [Scenario](../../aspose.finance.xbrl/context/scenario) { get; set; } | 获取或设置上下文的场景。 |
 

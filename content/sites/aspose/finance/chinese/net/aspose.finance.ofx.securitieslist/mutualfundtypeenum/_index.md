@@ -18,8 +18,8 @@ public enum MutualFundTypeEnum
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| OPENEND | `0` | 开放式结束 |
-| CLOSEEND | `1` | 结束 |
+| OPENEND | `0` | 打开结束 |
+| CLOSEEND | `1` | 关闭结束 |
 | OTHER | `2` | 其他 |
 
 ### 也可以看看

@@ -1,14 +1,14 @@
 ---
 title: StudentLoanInterest
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает проценты по студенческому кредиту получаемые кредитором.
+description: Получает или задает проценты по студенческому кредиту полученные кредитором.
 type: docs
 weight: 90
 url: /ru/net/aspose.finance.ofx.tax1098/tax1098e_v100/studentloaninterest/
 ---
 ## Tax1098E_V100.StudentLoanInterest property
 
-Получает или задает проценты по студенческому кредиту, получаемые кредитором.
+Получает или задает проценты по студенческому кредиту, полученные кредитором.
 
 ```csharp
 public string StudentLoanInterest { get; set; }

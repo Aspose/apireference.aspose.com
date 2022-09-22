@@ -1,14 +1,14 @@
 ---
 title: ProfileTransactionResponse
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаProfileTransactionResponseaspose.finance.ofx.profile/profiletransactionresponse.
+description: Инициализирует новый экземплярProfileTransactionResponseaspose.finance.ofx.profile/profiletransactionresponse класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.profile/profiletransactionresponse/profiletransactionresponse/
 ---
 ## ProfileTransactionResponse constructor
 
-Инициализирует новый экземпляр класса[`ProfileTransactionResponse`](../../profiletransactionresponse).
+Инициализирует новый экземпляр[`ProfileTransactionResponse`](../../profiletransactionresponse) класс.
 
 ```csharp
 public ProfileTransactionResponse()

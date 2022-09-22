@@ -1,14 +1,14 @@
 ---
 title: Loc
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化Locaspose.finance.xbrl/loc类的新实例
+description: 初始化一个新的实例Locaspose.finance.xbrl/loc类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.xbrl/loc/loc/
 ---
 ## Loc constructor
 
-初始化[`Loc`](../../loc)类的新实例。
+初始化一个新的实例[`Loc`](../../loc)类.
 
 ```csharp
 public Loc(string href, string label)

@@ -18,13 +18,13 @@ public class MailResponse
 
 | Имя | Описание |
 | --- | --- |
-| [MailResponse](mailresponse)() | Инициализирует новый экземпляр класса[`MailResponse`](../mailresponse). |
+| [MailResponse](mailresponse)() | Инициализирует новый экземпляр[`MailResponse`](../mailresponse) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [Mail](../../aspose.finance.ofx.email/mailresponse/mail) { get; set; } | Получает или задает[`Mail`](./mail). |
+| [Mail](../../aspose.finance.ofx.email/mailresponse/mail) { get; set; } | Получает или задает[`Mail`](./mail) . |
 
 ### Смотрите также
 

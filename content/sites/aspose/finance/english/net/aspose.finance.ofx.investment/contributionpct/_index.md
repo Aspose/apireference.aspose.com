@@ -3,7 +3,7 @@ title: ContributionPct
 second_title: Aspose.Finance for .NET API Reference
 description: Contribution percent allocation class.
 type: docs
-weight: 2760
+weight: 2770
 url: /net/aspose.finance.ofx.investment/contributionpct/
 ---
 ## ContributionPct class

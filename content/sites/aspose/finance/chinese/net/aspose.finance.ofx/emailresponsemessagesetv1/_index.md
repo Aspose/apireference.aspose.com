@@ -1,14 +1,14 @@
 ---
 title: EmailResponseMessageSetV1
 second_title: Aspose.Finance for .NET API 参考
-description: 电子邮件响应消息设置版本 1 类
+description: 电子邮件响应消息集版本 1 类
 type: docs
 weight: 2230
 url: /zh/net/aspose.finance.ofx/emailresponsemessagesetv1/
 ---
 ## EmailResponseMessageSetV1 class
 
-电子邮件响应消息设置版本 1 类。
+电子邮件响应消息集版本 1 类。
 
 ```csharp
 public class EmailResponseMessageSetV1 : AbstractResponseMessageSet
@@ -18,15 +18,15 @@ public class EmailResponseMessageSetV1 : AbstractResponseMessageSet
 
 | 姓名 | 描述 |
 | --- | --- |
-| [EmailResponseMessageSetV1](emailresponsemessagesetv1)() | 初始化[`EmailResponseMessageSetV1`](../emailresponsemessagesetv1)类的新实例。 |
+| [EmailResponseMessageSetV1](emailresponsemessagesetv1)() | 初始化一个新的实例[`EmailResponseMessageSetV1`](../emailresponsemessagesetv1)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [GetMimeTransactionResponses](../../aspose.finance.ofx/emailresponsemessagesetv1/getmimetransactionresponses) { get; set; } | 获取或设置[`GetMimeTransactionResponse`](../../aspose.finance.ofx.email/getmimetransactionresponse)的集合。 |
-| [MailSyncResponses](../../aspose.finance.ofx/emailresponsemessagesetv1/mailsyncresponses) { get; set; } | 获取或设置[`MailSyncResponse`](../../aspose.finance.ofx.email/mailsyncresponse)的集合。 |
-| [MailTransactionResponses](../../aspose.finance.ofx/emailresponsemessagesetv1/mailtransactionresponses) { get; set; } | 获取或设置[`MailTransactionResponse`](../../aspose.finance.ofx.email/mailtransactionresponse)的集合。 |
+| [GetMimeTransactionResponses](../../aspose.finance.ofx/emailresponsemessagesetv1/getmimetransactionresponses) { get; set; } | 获取或设置的集合[`GetMimeTransactionResponse`](../../aspose.finance.ofx.email/getmimetransactionresponse). |
+| [MailSyncResponses](../../aspose.finance.ofx/emailresponsemessagesetv1/mailsyncresponses) { get; set; } | 获取或设置的集合[`MailSyncResponse`](../../aspose.finance.ofx.email/mailsyncresponse). |
+| [MailTransactionResponses](../../aspose.finance.ofx/emailresponsemessagesetv1/mailtransactionresponses) { get; set; } | 获取或设置的集合[`MailTransactionResponse`](../../aspose.finance.ofx.email/mailtransactionresponse). |
 
 ### 也可以看看
 

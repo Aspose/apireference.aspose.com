@@ -1,14 +1,14 @@
 ---
 title: Request
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置InterRequestaspose.finance.ofx.intertransfer/interrequest或InterModRequestaspose.finance.ofx.intertransfer/intermodrequest或InterCancellationRequestaspose.finance.ofx.intertransfer/intercancellationrequest
+description: 获取或设置InterRequestaspose.finance.ofx.intertransfer/interrequest或者InterModRequestaspose.finance.ofx.intertransfer/intermodrequest或者InterCancellationRequestaspose.finance.ofx.intertransfer/intercancellationrequest.
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.ofx.intertransfer/intertransactionrequest/request/
 ---
 ## InterTransactionRequest.Request property
 
-获取或设置[`InterRequest`](../../interrequest)或[`InterModRequest`](../../intermodrequest)或[`InterCancellationRequest`](../../intercancellationrequest)。
+获取或设置[`InterRequest`](../../interrequest)或者[`InterModRequest`](../../intermodrequest)或者[`InterCancellationRequest`](../../intercancellationrequest).
 
 ```csharp
 public AbstractInterRequest Request { get; set; }

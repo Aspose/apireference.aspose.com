@@ -8,7 +8,7 @@ url: /zh/net/aspose.finance.ofx.taxw2/employee/
 ---
 ## Employee class
 
-员工信息类。
+员工信息类
 
 ```csharp
 public class Employee
@@ -18,7 +18,7 @@ public class Employee
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Employee](employee)() | 初始化[`Employee`](../employee)类的新实例。 |
+| [Employee](employee)() | 初始化一个新的实例[`Employee`](../employee)类. |
 
 ## 特性
 
@@ -35,7 +35,7 @@ public class Employee
 | [PostalCode](../../aspose.finance.ofx.taxw2/employee/postalcode) { get; set; } | 获取或设置员工邮政编码。 |
 | [SSN](../../aspose.finance.ofx.taxw2/employee/ssn) { get; set; } | e 获取或设置员工社会安全号码。 |
 | [State](../../aspose.finance.ofx.taxw2/employee/state) { get; set; } | 获取或设置员工所在州或省。 |
-| [Suffix](../../aspose.finance.ofx.taxw2/employee/suffix) { get; set; } | 获取或设置员工后缀。 |
+| [Suffix](../../aspose.finance.ofx.taxw2/employee/suffix) { get; set; } | 获取或设置员工后缀 |
 
 ### 也可以看看
 

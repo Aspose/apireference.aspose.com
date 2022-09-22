@@ -1,14 +1,14 @@
 ---
 title: BillPayResponseMessageSetV1
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задаетBillPayResponseMessageSetV1aspose.finance.ofx/ofxresponsedocument/billpayresponsemessagesetv1.
+description: Получает или задаетBillPayResponseMessageSetV1aspose.finance.ofx/ofxresponsedocument/billpayresponsemessagesetv1 .
 type: docs
 weight: 30
 url: /ru/net/aspose.finance.ofx/ofxresponsedocument/billpayresponsemessagesetv1/
 ---
 ## OfxResponseDocument.BillPayResponseMessageSetV1 property
 
-Получает или задает`BillPayResponseMessageSetV1`.
+Получает или задает`BillPayResponseMessageSetV1` .
 
 ```csharp
 public BillPayResponseMessageSetV1 BillPayResponseMessageSetV1 { get; set; }

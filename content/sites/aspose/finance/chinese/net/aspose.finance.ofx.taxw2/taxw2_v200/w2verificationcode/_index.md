@@ -8,7 +8,7 @@ url: /zh/net/aspose.finance.ofx.taxw2/taxw2_v200/w2verificationcode/
 ---
 ## TaxW2_V200.W2VerificationCode property
 
-获取或设置验证码。
+获取或设置验证码
 
 ```csharp
 public string W2VerificationCode { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: WireBeneficiary
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置WireBeneficiaryaspose.finance.ofx.wiretransfer/wireresponse/wirebeneficiary
+description: 获取或设置WireBeneficiaryaspose.finance.ofx.wiretransfer/wireresponse/wirebeneficiary.
 type: docs
 weight: 120
 url: /zh/net/aspose.finance.ofx.wiretransfer/wireresponse/wirebeneficiary/
 ---
 ## WireResponse.WireBeneficiary property
 
-获取或设置`WireBeneficiary`。
+获取或设置`WireBeneficiary`.
 
 ```csharp
 public WireBeneficiary WireBeneficiary { get; set; }

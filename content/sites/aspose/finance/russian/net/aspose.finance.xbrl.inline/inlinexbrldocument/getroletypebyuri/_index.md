@@ -1,14 +1,14 @@
 ---
 title: GetRoleTypeByURI
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает тип роли с указанным uri.
+description: Получает RoleType с указанным uri.
 type: docs
 weight: 230
 url: /ru/net/aspose.finance.xbrl.inline/inlinexbrldocument/getroletypebyuri/
 ---
 ## InlineXbrlDocument.GetRoleTypeByURI method
 
-Получает тип роли с указанным uri.
+Получает RoleType с указанным uri.
 
 ```csharp
 public RoleType GetRoleTypeByURI(string roleTypeUri)

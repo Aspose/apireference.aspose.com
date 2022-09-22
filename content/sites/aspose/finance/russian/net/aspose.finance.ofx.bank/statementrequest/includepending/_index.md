@@ -1,14 +1,14 @@
 ---
 title: IncludePending
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или устанавливает включать ли флаг ожидающей транзакции
+description: Получает или задает следует ли включать флаг ожидающей транзакции
 type: docs
 weight: 30
 url: /ru/net/aspose.finance.ofx.bank/statementrequest/includepending/
 ---
 ## StatementRequest.IncludePending property
 
-Получает или устанавливает, включать ли флаг ожидающей транзакции;
+Получает или задает, следует ли включать флаг ожидающей транзакции;
 
 ```csharp
 public bool IncludePending { get; set; }

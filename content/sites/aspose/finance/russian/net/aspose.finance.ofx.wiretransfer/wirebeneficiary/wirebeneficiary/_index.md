@@ -1,14 +1,14 @@
 ---
 title: WireBeneficiary
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаWireBeneficiaryaspose.finance.ofx.wiretransfer/wirebeneficiary.
+description: Инициализирует новый экземплярWireBeneficiaryaspose.finance.ofx.wiretransfer/wirebeneficiary класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.wiretransfer/wirebeneficiary/wirebeneficiary/
 ---
 ## WireBeneficiary constructor
 
-Инициализирует новый экземпляр класса[`WireBeneficiary`](../../wirebeneficiary).
+Инициализирует новый экземпляр[`WireBeneficiary`](../../wirebeneficiary) класс.
 
 ```csharp
 public WireBeneficiary()

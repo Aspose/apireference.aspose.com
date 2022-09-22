@@ -1,14 +1,14 @@
 ---
 title: Adjustment
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задаетAdjustmentaspose.finance.ofx/invoice/adjustment.
+description: Получает или задаетAdjustmentaspose.finance.ofx/invoice/adjustment .
 type: docs
 weight: 20
 url: /ru/net/aspose.finance.ofx/invoice/adjustment/
 ---
 ## Invoice.Adjustment property
 
-Получает или задает`Adjustment`.
+Получает или задает`Adjustment` .
 
 ```csharp
 public Adjustment Adjustment { get; set; }

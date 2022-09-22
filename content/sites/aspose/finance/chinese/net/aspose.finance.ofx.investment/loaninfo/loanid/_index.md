@@ -1,14 +1,14 @@
 ---
 title: LoanId
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置此贷款的标识符
+description: 获取或设置本次贷款的标识
 type: docs
 weight: 60
 url: /zh/net/aspose.finance.ofx.investment/loaninfo/loanid/
 ---
 ## LoanInfo.LoanId property
 
-获取或设置此贷款的标识符。
+获取或设置本次贷款的标识。
 
 ```csharp
 public string LoanId { get; set; }

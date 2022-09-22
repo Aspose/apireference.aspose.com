@@ -1,14 +1,14 @@
 ---
 title: Priority
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает приоритет дуги.
+description: Получает или устанавливает приоритет дуги.
 type: docs
 weight: 60
 url: /ru/net/aspose.finance.xbrl/arc/priority/
 ---
 ## Arc.Priority property
 
-Получает или задает приоритет дуги.
+Получает или устанавливает приоритет дуги.
 
 ```csharp
 public int Priority { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: BuyType
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置购买类型
+description: 获取或设置购买的类型
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.ofx.investment/buymutualfund/buytype/
 ---
 ## BuyMutualFund.BuyType property
 
-获取或设置购买类型。
+获取或设置购买的类型。
 
 ```csharp
 public BuyEnum BuyType { get; set; }

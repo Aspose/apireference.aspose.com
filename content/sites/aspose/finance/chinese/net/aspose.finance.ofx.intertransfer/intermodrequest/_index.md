@@ -8,7 +8,7 @@ url: /zh/net/aspose.finance.ofx.intertransfer/intermodrequest/
 ---
 ## InterModRequest class
 
-跨行转账修改请求类。
+跨行转账修改请求类
 
 ```csharp
 public class InterModRequest : AbstractInterRequest
@@ -18,14 +18,14 @@ public class InterModRequest : AbstractInterRequest
 
 | 姓名 | 描述 |
 | --- | --- |
-| [InterModRequest](intermodrequest)() | 初始化[`InterModRequest`](../intermodrequest)类的新实例。 |
+| [InterModRequest](intermodrequest)() | 初始化一个新的实例[`InterModRequest`](../intermodrequest)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
 | [ServerId](../../aspose.finance.ofx.intertransfer/intermodrequest/serverid) { get; set; } | 获取或设置服务器分配给正在修改的传输的ID。 |
-| [TransferInfo](../../aspose.finance.ofx.intertransfer/intermodrequest/transferinfo) { get; set; } | 获取或设置[`TransferInfo`](./transferinfo)。 |
+| [TransferInfo](../../aspose.finance.ofx.intertransfer/intermodrequest/transferinfo) { get; set; } | 获取或设置[`TransferInfo`](./transferinfo). |
 
 ### 也可以看看
 

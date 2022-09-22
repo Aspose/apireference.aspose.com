@@ -1,14 +1,14 @@
 ---
 title: StopCheckSyncRequests
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置StopCheckSyncRequestaspose.finance.ofx.bank/stopchecksyncrequest的集合
+description: 获取或设置的集合StopCheckSyncRequestaspose.finance.ofx.bank/stopchecksyncrequest.
 type: docs
 weight: 100
 url: /zh/net/aspose.finance.ofx/bankrequestmessagesetv1/stopchecksyncrequests/
 ---
 ## BankRequestMessageSetV1.StopCheckSyncRequests property
 
-获取或设置[`StopCheckSyncRequest`](../../../aspose.finance.ofx.bank/stopchecksyncrequest)的集合。
+获取或设置的集合[`StopCheckSyncRequest`](../../../aspose.finance.ofx.bank/stopchecksyncrequest).
 
 ```csharp
 public List<StopCheckSyncRequest> StopCheckSyncRequests { get; set; }

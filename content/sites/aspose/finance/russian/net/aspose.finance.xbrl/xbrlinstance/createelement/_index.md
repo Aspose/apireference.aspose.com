@@ -17,7 +17,7 @@ public Element CreateElement(string namespaceUri, string name, string prefix = n
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | namespaceUri | String | URI пространства имен. |
-| name | String | Локальное имя. |
+| name | String | Местное название. |
 | prefix | String | Префикс пространства имен. |
 
 ### Возвращаемое значение

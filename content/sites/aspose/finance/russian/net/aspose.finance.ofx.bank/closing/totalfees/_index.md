@@ -1,14 +1,14 @@
 ---
 title: TotalFees
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает общую сумму всех сборов.
+description: Получает или задает общую сумму всех комиссий.
 type: docs
 weight: 200
 url: /ru/net/aspose.finance.ofx.bank/closing/totalfees/
 ---
 ## Closing.TotalFees property
 
-Получает или задает общую сумму всех сборов.
+Получает или задает общую сумму всех комиссий.
 
 ```csharp
 public string TotalFees { get; set; }

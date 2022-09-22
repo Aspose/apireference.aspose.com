@@ -1,14 +1,14 @@
 ---
 title: GetMimeResponse
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化GetMimeResponseaspose.finance.ofx.email/getmimeresponse类的新实例
+description: 初始化一个新的实例GetMimeResponseaspose.finance.ofx.email/getmimeresponse类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.email/getmimeresponse/getmimeresponse/
 ---
 ## GetMimeResponse constructor
 
-初始化[`GetMimeResponse`](../../getmimeresponse)类的新实例。
+初始化一个新的实例[`GetMimeResponse`](../../getmimeresponse)类.
 
 ```csharp
 public GetMimeResponse()

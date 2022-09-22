@@ -1,14 +1,14 @@
 ---
 title: FindBillerRequest
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化FindBillerRequestaspose.finance.ofx.billerdirectory/findbillerrequest类的新实例
+description: 初始化一个新的实例FindBillerRequestaspose.finance.ofx.billerdirectory/findbillerrequest类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.billerdirectory/findbillerrequest/findbillerrequest/
 ---
 ## FindBillerRequest constructor
 
-初始化[`FindBillerRequest`](../../findbillerrequest)类的新实例。
+初始化一个新的实例[`FindBillerRequest`](../../findbillerrequest)类.
 
 ```csharp
 public FindBillerRequest()

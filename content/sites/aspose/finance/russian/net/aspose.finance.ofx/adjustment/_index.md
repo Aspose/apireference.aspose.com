@@ -18,7 +18,7 @@ public class Adjustment
 
 | Имя | Описание |
 | --- | --- |
-| [Adjustment](adjustment)() | Инициализирует новый экземпляр класса[`Adjustment`](../adjustment). |
+| [Adjustment](adjustment)() | Инициализирует новый экземпляр[`Adjustment`](../adjustment) класс. |
 
 ## Характеристики
 

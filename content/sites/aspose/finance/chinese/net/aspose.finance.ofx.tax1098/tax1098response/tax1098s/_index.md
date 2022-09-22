@@ -1,14 +1,14 @@
 ---
 title: TAX1098s
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置Tax1098_V100aspose.finance.ofx.tax1098/tax1098_v100或Tax1098T_V100的集合或Tax1098E_V100aspose.finance.ofx.tax1098/tax1098e_v100
+description: 获取或设置的集合Tax1098_V100aspose.finance.ofx.tax1098/tax1098_v100或者Tax1098T_V100aspose.finance.ofx.tax1098/tax1098t_v100或者Tax1098E_V100aspose.finance.ofx.tax1098/tax1098e_v100.
 type: docs
 weight: 40
 url: /zh/net/aspose.finance.ofx.tax1098/tax1098response/tax1098s/
 ---
 ## Tax1098Response.TAX1098s property
 
-获取或设置[`Tax1098_V100`](../../tax1098_v100)或Tax1098T_V100的集合或[`Tax1098E_V100`](../../tax1098e_v100)。
+获取或设置的集合[`Tax1098_V100`](../../tax1098_v100)或者[`Tax1098T_V100`](../../tax1098t_v100)或者[`Tax1098E_V100`](../../tax1098e_v100).
 
 ```csharp
 public List<AbstractTax1098> TAX1098s { get; set; }

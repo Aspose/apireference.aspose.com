@@ -1,14 +1,14 @@
 ---
 title: CalculationLink
 second_title: Aspose.Finance for .NET API 参考
-description: 这个类描述了分类中概念之间的计算关系
+description: 这个类描述了分类中Concepts之间的计算关系
 type: docs
 weight: 6510
 url: /zh/net/aspose.finance.xbrl/calculationlink/
 ---
 ## CalculationLink class
 
-这个类描述了分类中概念之间的计算关系。
+这个类描述了分类中Concepts之间的计算关系。
 
 ```csharp
 public class CalculationLink
@@ -18,8 +18,8 @@ public class CalculationLink
 
 | 姓名 | 描述 |
 | --- | --- |
-| [CalculationArcs](../../aspose.finance.xbrl/calculationlink/calculationarcs) { get; set; } | 获取[`CalculationArc`](../calculationarc)的集合。 |
-| [Locators](../../aspose.finance.xbrl/calculationlink/locators) { get; } | 获取[`Loc`](../loc)的集合。 |
+| [CalculationArcs](../../aspose.finance.xbrl/calculationlink/calculationarcs) { get; set; } | 获取集合[`CalculationArc`](../calculationarc). |
+| [Locators](../../aspose.finance.xbrl/calculationlink/locators) { get; } | 获取集合[`Loc`](../loc). |
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: BankMessageSetV1
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置BankMessageSetV1aspose.finance.ofx.profile/bankmessageset/bankmessagesetv1
+description: 获取或设置BankMessageSetV1aspose.finance.ofx.profile/bankmessageset/bankmessagesetv1.
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.ofx.profile/bankmessageset/bankmessagesetv1/
 ---
 ## BankMessageSet.BankMessageSetV1 property
 
-获取或设置`BankMessageSetV1`。
+获取或设置`BankMessageSetV1`.
 
 ```csharp
 public BankMessageSetV1 BankMessageSetV1 { get; set; }

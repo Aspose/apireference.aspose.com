@@ -1,14 +1,14 @@
 ---
 title: OpenDate
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置期初声明日期
+description: 获取或设置期初报表日期
 type: docs
 weight: 170
 url: /zh/net/aspose.finance.ofx.billerdelivery/presentmentbillinfo/opendate/
 ---
 ## PresentmentBillInfo.OpenDate property
 
-获取或设置期初声明日期。
+获取或设置期初报表日期。
 
 ```csharp
 public string OpenDate { get; set; }

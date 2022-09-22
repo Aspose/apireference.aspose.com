@@ -1,14 +1,14 @@
 ---
 title: ServiceAction
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задаетServiceAddaspose.finance.ofx.signup/serviceaddилиServiceChangeaspose.finance.ofx.signup/servicechangeилиServiceDeleteaspose.finance.ofx.signup/servicedelete.
+description: Получает или задаетServiceAddaspose.finance.ofx.signup/serviceadd или жеServiceChangeaspose.finance.ofx.signup/servicechange или жеServiceDeleteaspose.finance.ofx.signup/servicedelete .
 type: docs
 weight: 30
 url: /ru/net/aspose.finance.ofx.signup/accountrequest/serviceaction/
 ---
 ## AccountRequest.ServiceAction property
 
-Получает или задает[`ServiceAdd`](../../serviceadd)или[`ServiceChange`](../../servicechange)или[`ServiceDelete`](../../servicedelete).
+Получает или задает[`ServiceAdd`](../../serviceadd) или же[`ServiceChange`](../../servicechange) или же[`ServiceDelete`](../../servicedelete) .
 
 ```csharp
 public AbstractServiceAction ServiceAction { get; set; }

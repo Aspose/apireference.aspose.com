@@ -1,14 +1,14 @@
 ---
 title: ServerId
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置主机服务器分配给表单的ID
+description: 获取或设置宿主服务器分配给表单的ID
 type: docs
 weight: 130
 url: /zh/net/aspose.finance.ofx.tax1098/tax1098_v100/serverid/
 ---
 ## Tax1098_V100.ServerId property
 
-获取或设置主机服务器分配给表单的ID。
+获取或设置宿主服务器分配给表单的ID。
 
 ```csharp
 public string ServerId { get; set; }

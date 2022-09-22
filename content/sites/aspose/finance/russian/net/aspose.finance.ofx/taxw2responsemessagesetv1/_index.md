@@ -18,13 +18,13 @@ public class TaxW2ResponseMessageSetV1 : AbstractResponseMessageSet
 
 | Имя | Описание |
 | --- | --- |
-| [TaxW2ResponseMessageSetV1](taxw2responsemessagesetv1)() | Инициализирует новый экземпляр класса[`TaxW2ResponseMessageSetV1`](../taxw2responsemessagesetv1). |
+| [TaxW2ResponseMessageSetV1](taxw2responsemessagesetv1)() | Инициализирует новый экземпляр[`TaxW2ResponseMessageSetV1`](../taxw2responsemessagesetv1) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [TaxW2TransactionResponses](../../aspose.finance.ofx/taxw2responsemessagesetv1/taxw2transactionresponses) { get; set; } | Получает или задает коллекцию[`TaxW2TransactionResponse`](../../aspose.finance.ofx.taxw2/taxw2transactionresponse). |
+| [TaxW2TransactionResponses](../../aspose.finance.ofx/taxw2responsemessagesetv1/taxw2transactionresponses) { get; set; } | Получает или задает коллекцию[`TaxW2TransactionResponse`](../../aspose.finance.ofx.taxw2/taxw2transactionresponse) . |
 
 ### Смотрите также
 

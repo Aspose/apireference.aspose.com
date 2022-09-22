@@ -6,7 +6,7 @@ type: docs
 weight: 10
 url: /net/aspose.finance.xbrl.inline/inlinexbrldocument/inlinexbrldocument/
 ---
-## InlineXbrlDocument constructor
+## InlineXbrlDocument(string) {#constructor}
 
 Initializes a new instance of [`InlineXbrlDocument`](../../inlinexbrldocument) class and open a file.
 
@@ -20,6 +20,28 @@ public InlineXbrlDocument(string fileName)
 
 ### See Also
 
+* class [InlineXbrlDocument](../../inlinexbrldocument)
+* namespace [Aspose.Finance.Xbrl.Inline](../../inlinexbrldocument)
+* assembly [Aspose.Finance](../../../)
+
+---
+
+## InlineXbrlDocument(string, LoadOptions) {#constructor_1}
+
+Initializes a new instance of [`InlineXbrlDocument`](../../inlinexbrldocument) class and open a file.
+
+```csharp
+public InlineXbrlDocument(string fileName, LoadOptions options)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| fileName | String | The file name. |
+| options | LoadOptions | The load options. |
+
+### See Also
+
+* class [LoadOptions](../../../aspose.finance.xbrl/loadoptions)
 * class [InlineXbrlDocument](../../inlinexbrldocument)
 * namespace [Aspose.Finance.Xbrl.Inline](../../inlinexbrldocument)
 * assembly [Aspose.Finance](../../../)

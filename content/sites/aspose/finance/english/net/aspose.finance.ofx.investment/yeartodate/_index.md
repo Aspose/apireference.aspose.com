@@ -3,7 +3,7 @@ title: YearToDate
 second_title: Aspose.Finance for .NET API Reference
 description: Contributions to date for this calendar year.
 type: docs
-weight: 3610
+weight: 3620
 url: /net/aspose.finance.ofx.investment/yeartodate/
 ---
 ## YearToDate class

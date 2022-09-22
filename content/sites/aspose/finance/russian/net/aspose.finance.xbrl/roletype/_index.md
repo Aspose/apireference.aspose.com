@@ -18,10 +18,10 @@ public class RoleType
 
 | Имя | Описание |
 | --- | --- |
-| [Definition](../../aspose.finance.xbrl/roletype/definition) { get; set; } | Получает определение в[`RoleType`](../roletype). |
-| [Id](../../aspose.finance.xbrl/roletype/id) { get; set; } | Получает идентификатор в[`RoleType`](../roletype). |
-| [RoleUri](../../aspose.finance.xbrl/roletype/roleuri) { get; set; } | Получает URI роли в[`RoleType`](../roletype). |
-| [UsedOns](../../aspose.finance.xbrl/roletype/usedons) { get; set; } | Получает коллекцию из используемых по ссылке в[`RoleType`](../roletype). |
+| [Definition](../../aspose.finance.xbrl/roletype/definition) { get; set; } | Получает определение в[`RoleType`](../roletype) . |
+| [Id](../../aspose.finance.xbrl/roletype/id) { get; set; } | Получает идентификатор в[`RoleType`](../roletype) . |
+| [RoleUri](../../aspose.finance.xbrl/roletype/roleuri) { get; set; } | Получает URI роли в[`RoleType`](../roletype) . |
+| [UsedOns](../../aspose.finance.xbrl/roletype/usedons) { get; set; } | Получает коллекцию из используемых по ссылке в[`RoleType`](../roletype) . |
 
 ### Смотрите также
 

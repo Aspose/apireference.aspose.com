@@ -1,14 +1,14 @@
 ---
 title: Namespace
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置限定名称的命名空间
+description: 获取或设置限定名的命名空间
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.xbrl/qualifiedname/namespace/
 ---
 ## QualifiedName.Namespace property
 
-获取或设置限定名称的命名空间。
+获取或设置限定名的命名空间。
 
 ```csharp
 public string Namespace { get; set; }

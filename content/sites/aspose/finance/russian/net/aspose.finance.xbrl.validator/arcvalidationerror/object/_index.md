@@ -1,14 +1,14 @@
 ---
 title: Object
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает объектArcaspose.finance.xbrl/arcс ошибкой проверки.
+description: ПолучаетArcaspose.finance.xbrl/arcобъект с ошибкой проверки.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.xbrl.validator/arcvalidationerror/object/
 ---
 ## ArcValidationError.Object property
 
-Получает объект[`Arc`](../../../aspose.finance.xbrl/arc)с ошибкой проверки.
+Получает[`Arc`](../../../aspose.finance.xbrl/arc)объект с ошибкой проверки.
 
 ```csharp
 public Arc Object { get; }

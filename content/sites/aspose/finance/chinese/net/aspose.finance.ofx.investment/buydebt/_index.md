@@ -8,7 +8,7 @@ url: /zh/net/aspose.finance.ofx.investment/buydebt/
 ---
 ## BuyDebt class
 
-投资买债交易类。
+投资买债交易类
 
 ```csharp
 public class BuyDebt : AbstractInvestmentBuyTransaction
@@ -18,14 +18,14 @@ public class BuyDebt : AbstractInvestmentBuyTransaction
 
 | 姓名 | 描述 |
 | --- | --- |
-| [BuyDebt](buydebt)() | 初始化[`BuyDebt`](../buydebt)类的新实例。 |
+| [BuyDebt](buydebt)() | 初始化一个新的实例[`BuyDebt`](../buydebt)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
 | [AccruedInterest](../../aspose.finance.ofx.investment/buydebt/accruedinterest) { get; set; } | 获取或设置应计利息。 |
-| [InvestmentBuy](../../aspose.finance.ofx.investment/abstractinvestmentbuytransaction/investmentbuy) { get; set; } | 获取或设置[`InvestmentBuy`](../abstractinvestmentbuytransaction/investmentbuy)。 |
+| [InvestmentBuy](../../aspose.finance.ofx.investment/abstractinvestmentbuytransaction/investmentbuy) { get; set; } | 获取或设置[`InvestmentBuy`](../abstractinvestmentbuytransaction/investmentbuy). |
 
 ### 也可以看看
 

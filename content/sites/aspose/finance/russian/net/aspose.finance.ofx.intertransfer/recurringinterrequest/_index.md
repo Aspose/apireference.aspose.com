@@ -18,14 +18,14 @@ public class RecurringInterRequest : AbstractRecurringInterRequest
 
 | Имя | Описание |
 | --- | --- |
-| [RecurringInterRequest](recurringinterrequest)() | Инициализирует новый экземпляр класса[`RecurringInterRequest`](../recurringinterrequest). |
+| [RecurringInterRequest](recurringinterrequest)() | Инициализирует новый экземпляр[`RecurringInterRequest`](../recurringinterrequest) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [InterRequest](../../aspose.finance.ofx.intertransfer/recurringinterrequest/interrequest) { get; set; } | Получает или задает[`InterRequest`](./interrequest). |
-| [RecurringInstructions](../../aspose.finance.ofx.intertransfer/recurringinterrequest/recurringinstructions) { get; set; } | Получает или задает[`RecurringInstructions`](./recurringinstructions). |
+| [InterRequest](../../aspose.finance.ofx.intertransfer/recurringinterrequest/interrequest) { get; set; } | Получает или задает[`InterRequest`](./interrequest) . |
+| [RecurringInstructions](../../aspose.finance.ofx.intertransfer/recurringinterrequest/recurringinstructions) { get; set; } | Получает или задает[`RecurringInstructions`](./recurringinstructions) . |
 
 ### Смотрите также
 

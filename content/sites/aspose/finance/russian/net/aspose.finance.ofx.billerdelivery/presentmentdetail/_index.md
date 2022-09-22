@@ -1,14 +1,14 @@
 ---
 title: PresentmentDetail
 second_title: Справочник по API Aspose.Finance для .NET
-description: Класс деталей презентации.
+description: Класс сведений о презентации.
 type: docs
 weight: 1620
 url: /ru/net/aspose.finance.ofx.billerdelivery/presentmentdetail/
 ---
 ## PresentmentDetail class
 
-Класс деталей презентации.
+Класс сведений о презентации.
 
 ```csharp
 public class PresentmentDetail
@@ -18,15 +18,15 @@ public class PresentmentDetail
 
 | Имя | Описание |
 | --- | --- |
-| [PresentmentDetail](presentmentdetail)() | Инициализирует новый экземпляр класса[`PresentmentDetail`](../presentmentdetail). |
+| [PresentmentDetail](presentmentdetail)() | Инициализирует новый экземпляр[`PresentmentDetail`](../presentmentdetail) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [BillDetailTables](../../aspose.finance.ofx.billerdelivery/presentmentdetail/billdetailtables) { get; set; } | Получает или задает коллекцию[`BillDetailTable`](../billdetailtable). |
+| [BillDetailTables](../../aspose.finance.ofx.billerdelivery/presentmentdetail/billdetailtables) { get; set; } | Получает или задает коллекцию[`BillDetailTable`](../billdetailtable) . |
 | [BillId](../../aspose.finance.ofx.billerdelivery/presentmentdetail/billid) { get; set; } | Получает или задает идентификатор инструкции. |
-| [PresentmentAccountFrom](../../aspose.finance.ofx.billerdelivery/presentmentdetail/presentmentaccountfrom) { get; set; } | Получает или задает значение из[`PresentmentAccount`](../../aspose.finance.ofx/presentmentaccount). |
+| [PresentmentAccountFrom](../../aspose.finance.ofx.billerdelivery/presentmentdetail/presentmentaccountfrom) { get; set; } | Получает или задает из[`PresentmentAccount`](../../aspose.finance.ofx/presentmentaccount) . |
 
 ### Смотрите также
 

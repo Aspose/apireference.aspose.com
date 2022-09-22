@@ -1,14 +1,14 @@
 ---
 title: EnrollTransactionRequests
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает коллекциюEnrollTransactionRequestaspose.finance.ofx.signup/enrolltransactionrequest.
+description: Получает или задает коллекциюEnrollTransactionRequestaspose.finance.ofx.signup/enrolltransactionrequest .
 type: docs
 weight: 70
 url: /ru/net/aspose.finance.ofx/signuprequestmessagesetv1/enrolltransactionrequests/
 ---
 ## SignupRequestMessageSetV1.EnrollTransactionRequests property
 
-Получает или задает коллекцию[`EnrollTransactionRequest`](../../../aspose.finance.ofx.signup/enrolltransactionrequest).
+Получает или задает коллекцию[`EnrollTransactionRequest`](../../../aspose.finance.ofx.signup/enrolltransactionrequest) .
 
 ```csharp
 public List<EnrollTransactionRequest> EnrollTransactionRequests { get; set; }

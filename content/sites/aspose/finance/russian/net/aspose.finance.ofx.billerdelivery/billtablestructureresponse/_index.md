@@ -18,7 +18,7 @@ public class BillTableStructureResponse
 
 | Имя | Описание |
 | --- | --- |
-| [BillTableStructureResponse](billtablestructureresponse)() | Инициализирует новый экземпляр класса[`BillTableStructureResponse`](../billtablestructureresponse). |
+| [BillTableStructureResponse](billtablestructureresponse)() | Инициализирует новый экземпляр[`BillTableStructureResponse`](../billtablestructureresponse) класс. |
 
 ## Характеристики
 
@@ -26,7 +26,7 @@ public class BillTableStructureResponse
 | --- | --- |
 | [BillDetailTableType](../../aspose.finance.ofx.billerdelivery/billtablestructureresponse/billdetailtabletype) { get; set; } | Получает или задает тип таблицы. |
 | [BillId](../../aspose.finance.ofx.billerdelivery/billtablestructureresponse/billid) { get; set; } | Получает или задает идентификатор инструкции. |
-| [ColumnDefinitions](../../aspose.finance.ofx.billerdelivery/billtablestructureresponse/columndefinitions) { get; set; } | Получает или задает коллекцию[`ColumnDefinition`](../columndefinition). |
+| [ColumnDefinitions](../../aspose.finance.ofx.billerdelivery/billtablestructureresponse/columndefinitions) { get; set; } | Получает или задает коллекцию[`ColumnDefinition`](../columndefinition) . |
 
 ### Смотрите также
 

@@ -16,11 +16,11 @@ public Unit GetUnitById(string id)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| id | String | 单位 ID |
+| id | String | 单位编号 |
 
 ### 返回值
 
-单位。
+那个单位。
 
 ### 也可以看看
 

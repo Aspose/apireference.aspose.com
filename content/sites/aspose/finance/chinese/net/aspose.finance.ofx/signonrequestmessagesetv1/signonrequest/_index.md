@@ -1,14 +1,14 @@
 ---
 title: SignonRequest
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置SignonRequestaspose.finance.ofx.signon/signonrequest
+description: 获取或设置SignonRequestaspose.finance.ofx.signon/signonrequest.
 type: docs
 weight: 40
 url: /zh/net/aspose.finance.ofx/signonrequestmessagesetv1/signonrequest/
 ---
 ## SignonRequestMessageSetV1.SignonRequest property
 
-获取或设置[`SignonRequest`](../../../aspose.finance.ofx.signon/signonrequest)。
+获取或设置[`SignonRequest`](../../../aspose.finance.ofx.signon/signonrequest).
 
 ```csharp
 public SignonRequest SignonRequest { get; set; }

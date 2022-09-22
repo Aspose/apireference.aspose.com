@@ -1,14 +1,14 @@
 ---
 title: ElementSubstitutionGroup
 second_title: Aspose.Finance for .NET API 参考
-description: Concept./concept替换类型枚举
+description: Concept./concept替换类型 enum.
 type: docs
 weight: 7610
 url: /zh/net/aspose.finance.xbrl/elementsubstitutiongroup/
 ---
 ## ElementSubstitutionGroup enumeration
 
-[`Concept`](../concept)替换类型枚举。
+[`Concept`](../concept)替换类型 enum.
 
 ```csharp
 public enum ElementSubstitutionGroup

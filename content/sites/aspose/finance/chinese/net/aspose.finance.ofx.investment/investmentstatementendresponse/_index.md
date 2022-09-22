@@ -1,14 +1,14 @@
 ---
 title: InvestmentStatementEndResponse
 second_title: Aspose.Finance for .NET API 参考
-description: 结束语句响应类
+description: 关闭语句响应类
 type: docs
 weight: 3080
 url: /zh/net/aspose.finance.ofx.investment/investmentstatementendresponse/
 ---
 ## InvestmentStatementEndResponse class
 
-结束语句响应类。
+关闭语句响应类。
 
 ```csharp
 public class InvestmentStatementEndResponse
@@ -18,15 +18,15 @@ public class InvestmentStatementEndResponse
 
 | 姓名 | 描述 |
 | --- | --- |
-| [InvestmentStatementEndResponse](investmentstatementendresponse)() | 初始化[`InvestmentStatementEndResponse`](../investmentstatementendresponse)类的新实例。 |
+| [InvestmentStatementEndResponse](investmentstatementendresponse)() | 初始化一个新的实例[`InvestmentStatementEndResponse`](../investmentstatementendresponse)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
 | [Currency](../../aspose.finance.ofx.investment/investmentstatementendresponse/currency) { get; set; } | 获取或设置用于结算信息的默认货币。 |
-| [InvestmentAccountFrom](../../aspose.finance.ofx.investment/investmentstatementendresponse/investmentaccountfrom) { get; set; } | 获取或设置[`InvestmentAccount`](../../aspose.finance.ofx/investmentaccount)的来源。 |
-| [InvestmentClosings](../../aspose.finance.ofx.investment/investmentstatementendresponse/investmentclosings) { get; set; } | 获取或设置[`InvestmentClosing`](../investmentclosing)的集合。 |
+| [InvestmentAccountFrom](../../aspose.finance.ofx.investment/investmentstatementendresponse/investmentaccountfrom) { get; set; } | 获取或设置 from[`InvestmentAccount`](../../aspose.finance.ofx/investmentaccount). |
+| [InvestmentClosings](../../aspose.finance.ofx.investment/investmentstatementendresponse/investmentclosings) { get; set; } | 获取或设置的集合[`InvestmentClosing`](../investmentclosing). |
 
 ### 也可以看看
 

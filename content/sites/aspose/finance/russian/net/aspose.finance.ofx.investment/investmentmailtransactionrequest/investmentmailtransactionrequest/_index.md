@@ -1,14 +1,14 @@
 ---
 title: InvestmentMailTransactionRequest
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаInvestmentMailTransactionRequestaspose.finance.ofx.investment/investmentmailtransactionrequest.
+description: Инициализирует новый экземплярInvestmentMailTransactionRequestaspose.finance.ofx.investment/investmentmailtransactionrequest класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.investment/investmentmailtransactionrequest/investmentmailtransactionrequest/
 ---
 ## InvestmentMailTransactionRequest constructor
 
-Инициализирует новый экземпляр класса[`InvestmentMailTransactionRequest`](../../investmentmailtransactionrequest).
+Инициализирует новый экземпляр[`InvestmentMailTransactionRequest`](../../investmentmailtransactionrequest) класс.
 
 ```csharp
 public InvestmentMailTransactionRequest()

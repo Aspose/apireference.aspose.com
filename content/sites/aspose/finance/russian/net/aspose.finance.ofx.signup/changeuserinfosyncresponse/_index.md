@@ -1,14 +1,14 @@
 ---
 title: ChangeUserInfoSyncResponse
 second_title: Справочник по API Aspose.Finance для .NET
-description: Изменить класс ответа синхронизации информации о пользователе.
+description: Изменить класс ответа на синхронизацию информации о пользователе.
 type: docs
 weight: 5570
 url: /ru/net/aspose.finance.ofx.signup/changeuserinfosyncresponse/
 ---
 ## ChangeUserInfoSyncResponse class
 
-Изменить класс ответа синхронизации информации о пользователе.
+Изменить класс ответа на синхронизацию информации о пользователе.
 
 ```csharp
 public class ChangeUserInfoSyncResponse : AbstractSyncResponse
@@ -18,15 +18,15 @@ public class ChangeUserInfoSyncResponse : AbstractSyncResponse
 
 | Имя | Описание |
 | --- | --- |
-| [ChangeUserInfoSyncResponse](changeuserinfosyncresponse)() | Инициализирует новый экземпляр класса[`ChangeUserInfoSyncResponse`](../changeuserinfosyncresponse). |
+| [ChangeUserInfoSyncResponse](changeuserinfosyncresponse)() | Инициализирует новый экземпляр[`ChangeUserInfoSyncResponse`](../changeuserinfosyncresponse) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [ChangeUserInfoTransactionResponses](../../aspose.finance.ofx.signup/changeuserinfosyncresponse/changeuserinfotransactionresponses) { get; set; } | Получает или задает коллекцию[`ChangeUserInfoTransactionResponse`](../changeuserinfotransactionresponse). |
-| [LostSynchronization](../../aspose.finance.ofx/abstractsyncresponse/lostsynchronization) { get; set; } | Да, если токен в запросе на синхронизацию старше, чем самая ранняя запись в таблице истории сервера. В этом случае некоторые ответы были потеряны. Нет, если токен в запросе на синхронизацию новее или совпадает с токеном в таблице истории сервера. |
-| [OfxExtension](../../aspose.finance.ofx.signup/changeuserinfosyncresponse/ofxextension) { get; set; } | Получает или задает[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
+| [ChangeUserInfoTransactionResponses](../../aspose.finance.ofx.signup/changeuserinfosyncresponse/changeuserinfotransactionresponses) { get; set; } | Получает или задает коллекцию[`ChangeUserInfoTransactionResponse`](../changeuserinfotransactionresponse) . |
+| [LostSynchronization](../../aspose.finance.ofx/abstractsyncresponse/lostsynchronization) { get; set; } | Да, если токен в запросе на синхронизацию старше самой ранней записи в таблице истории сервера. В этом случае некоторые ответы были потеряны. Нет, если токен в запросе на синхронизацию новее или совпадает с токеном в таблице сервера. таблица истории. |
+| [OfxExtension](../../aspose.finance.ofx.signup/changeuserinfosyncresponse/ofxextension) { get; set; } | Получает или задает[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype) . |
 | [Token](../../aspose.finance.ofx/abstractsyncresponse/token) { get; set; } | Получает или задает новый маркер синхронизации. |
 
 ### Смотрите также

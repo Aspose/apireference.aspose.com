@@ -1,14 +1,14 @@
 ---
 title: PresentmentDeliveryRequestMessageSetV1
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置PresentmentDeliveryRequestMessageSetV1aspose.finance.ofx/ofxrequestdocument/presentmentdeliveryrequestmessagesetv1
+description: 获取或设置PresentmentDeliveryRequestMessageSetV1aspose.finance.ofx/ofxrequestdocument/presentmentdeliveryrequestmessagesetv1.
 type: docs
 weight: 100
 url: /zh/net/aspose.finance.ofx/ofxrequestdocument/presentmentdeliveryrequestmessagesetv1/
 ---
 ## OfxRequestDocument.PresentmentDeliveryRequestMessageSetV1 property
 
-获取或设置`PresentmentDeliveryRequestMessageSetV1`。
+获取或设置`PresentmentDeliveryRequestMessageSetV1`.
 
 ```csharp
 public PresentmentDeliveryRequestMessageSetV1 PresentmentDeliveryRequestMessageSetV1 { get; set; }

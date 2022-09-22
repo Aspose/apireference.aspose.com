@@ -3,7 +3,7 @@ title: HTMLElement
 second_title: Aspose.Finance for .NET API Reference
 description: All HTML element classes derive from this class. Elements that only expose the HTML core attributes are represented by this class these elements are as follows special SUB SUP SPAN BDOfont TT I B U S STRIKE BIG SMALL phrase EM STRONG DFN CODE SAMP KBD VAR CITE ACRONYM ABBR list DD DTNOFRAMES NOSCRIPTADDRESS CENTERT.
 type: docs
-weight: 6830
+weight: 6860
 url: /net/aspose.finance.xbrl.dom.html/htmlelement/
 ---
 ## HTMLElement class

@@ -8,7 +8,7 @@ url: /zh/net/aspose.finance.ofx.billerdelivery/billstatusmodrequest/
 ---
 ## BillStatusModRequest class
 
-账单状态修改请求类。
+账单状态修改请求类
 
 ```csharp
 public class BillStatusModRequest
@@ -18,15 +18,15 @@ public class BillStatusModRequest
 
 | 姓名 | 描述 |
 | --- | --- |
-| [BillStatusModRequest](billstatusmodrequest)() | 初始化[`BillStatusModRequest`](../billstatusmodrequest)类的新实例。 |
+| [BillStatusModRequest](billstatusmodrequest)() | 初始化一个新的实例[`BillStatusModRequest`](../billstatusmodrequest)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [BillId](../../aspose.finance.ofx.billerdelivery/billstatusmodrequest/billid) { get; set; } | 获取或设置账单 ID。 |
-| [BillPaymentstatus](../../aspose.finance.ofx.billerdelivery/billstatusmodrequest/billpaymentstatus) { get; set; } | 获取或设置[`BillPaymentstatus`](./billpaymentstatus)。 |
-| [BillStatus](../../aspose.finance.ofx.billerdelivery/billstatusmodrequest/billstatus) { get; set; } | 获取或设置[`BillStatus`](./billstatus)。 |
+| [BillId](../../aspose.finance.ofx.billerdelivery/billstatusmodrequest/billid) { get; set; } | 获取或设置账单ID。 |
+| [BillPaymentstatus](../../aspose.finance.ofx.billerdelivery/billstatusmodrequest/billpaymentstatus) { get; set; } | 获取或设置[`BillPaymentstatus`](./billpaymentstatus). |
+| [BillStatus](../../aspose.finance.ofx.billerdelivery/billstatusmodrequest/billstatus) { get; set; } | 获取或设置[`BillStatus`](./billstatus). |
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: ContextRef
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置对Contextaspose.finance.xbrl/context的引用
+description: 获取或设置对Contextaspose.finance.xbrl/context.
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.xbrl/item/contextref/
 ---
 ## Item.ContextRef property
 
-获取或设置对[`Context`](../../context)的引用。
+获取或设置对[`Context`](../../context).
 
 ```csharp
 public Context ContextRef { get; set; }

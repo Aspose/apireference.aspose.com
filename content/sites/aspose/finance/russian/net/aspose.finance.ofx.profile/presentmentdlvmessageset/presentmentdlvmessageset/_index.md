@@ -1,14 +1,14 @@
 ---
 title: PresentmentDlvMessageSet
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаPresentmentDlvMessageSetaspose.finance.ofx.profile/presentmentdlvmessageset.
+description: Инициализирует новый экземплярPresentmentDlvMessageSetaspose.finance.ofx.profile/presentmentdlvmessageset класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.profile/presentmentdlvmessageset/presentmentdlvmessageset/
 ---
 ## PresentmentDlvMessageSet constructor
 
-Инициализирует новый экземпляр класса[`PresentmentDlvMessageSet`](../../presentmentdlvmessageset).
+Инициализирует новый экземпляр[`PresentmentDlvMessageSet`](../../presentmentdlvmessageset) класс.
 
 ```csharp
 public PresentmentDlvMessageSet()

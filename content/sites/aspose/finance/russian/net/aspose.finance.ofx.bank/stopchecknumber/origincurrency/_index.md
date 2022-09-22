@@ -1,14 +1,14 @@
 ---
 title: OriginCurrency
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает OriginCurrencyaspose.finance.ofx.bank/stopchecknumber/currency.
+description: Получает или задает источникCurrencyaspose.finance.ofx.bank/stopchecknumber/currency .
 type: docs
 weight: 70
 url: /ru/net/aspose.finance.ofx.bank/stopchecknumber/origincurrency/
 ---
 ## StopCheckNumber.OriginCurrency property
 
-Получает или задает Origin[`Currency`](../currency).
+Получает или задает источник[`Currency`](../currency) .
 
 ```csharp
 public Currency OriginCurrency { get; set; }

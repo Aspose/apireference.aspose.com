@@ -1,14 +1,14 @@
 ---
 title: ImageProfile
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置ImageProfileaspose.finance.ofx.profile/bankmessagesetv1/imageprofile
+description: 获取或设置ImageProfileaspose.finance.ofx.profile/bankmessagesetv1/imageprofile.
 type: docs
 weight: 40
 url: /zh/net/aspose.finance.ofx.profile/bankmessagesetv1/imageprofile/
 ---
 ## BankMessageSetV1.ImageProfile property
 
-获取或设置`ImageProfile`。
+获取或设置`ImageProfile`.
 
 ```csharp
 public ImageProfile ImageProfile { get; set; }

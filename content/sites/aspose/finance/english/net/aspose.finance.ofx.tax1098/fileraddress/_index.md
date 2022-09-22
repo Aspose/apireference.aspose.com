@@ -3,7 +3,7 @@ title: FilerAddress
 second_title: Aspose.Finance for .NET API Reference
 description: Filer address class.
 type: docs
-weight: 5740
+weight: 5770
 url: /net/aspose.finance.ofx.tax1098/fileraddress/
 ---
 ## FilerAddress class

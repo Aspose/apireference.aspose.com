@@ -1,14 +1,14 @@
 ---
 title: YearToDate
 second_title: Aspose.Finance for .NET API 参考
-description: 本日历年迄今为止的贡献
+description: 本日历年迄今为止的捐款
 type: docs
 weight: 3610
 url: /zh/net/aspose.finance.ofx.investment/yeartodate/
 ---
 ## YearToDate class
 
-本日历年迄今为止的贡献。
+本日历年迄今为止的捐款。
 
 ```csharp
 public class YearToDate
@@ -18,17 +18,17 @@ public class YearToDate
 
 | 姓名 | 描述 |
 | --- | --- |
-| [YearToDate](yeartodate)() | 初始化[`YearToDate`](../yeartodate)类的新实例。 |
+| [YearToDate](yeartodate)() | 初始化一个新的实例[`YearToDate`](../yeartodate)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Contributions](../../aspose.finance.ofx.investment/yeartodate/contributions) { get; set; } | 获取或设置[`Contributions`](./contributions)。 |
-| [Earnings](../../aspose.finance.ofx.investment/yeartodate/earnings) { get; set; } | 获取或设置[`Earnings`](./earnings)。 |
+| [Contributions](../../aspose.finance.ofx.investment/yeartodate/contributions) { get; set; } | 获取或设置[`Contributions`](./contributions). |
+| [Earnings](../../aspose.finance.ofx.investment/yeartodate/earnings) { get; set; } | 获取或设置[`Earnings`](./earnings). |
 | [EndDate](../../aspose.finance.ofx.investment/yeartodate/enddate) { get; set; } | 获取或设置此年初至今信息的结束日期。 |
 | [StartDate](../../aspose.finance.ofx.investment/yeartodate/startdate) { get; set; } | 获取或设置此日历年的开始日期。 |
-| [Withdrawals](../../aspose.finance.ofx.investment/yeartodate/withdrawals) { get; set; } | 获取或设置[`Withdrawals`](./withdrawals)。 |
+| [Withdrawals](../../aspose.finance.ofx.investment/yeartodate/withdrawals) { get; set; } | 获取或设置[`Withdrawals`](./withdrawals). |
 
 ### 也可以看看
 

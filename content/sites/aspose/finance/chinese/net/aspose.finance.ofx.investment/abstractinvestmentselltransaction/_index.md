@@ -18,7 +18,7 @@ public class AbstractInvestmentSellTransaction : AbstractInvestmentTransactionBa
 
 | 姓名 | 描述 |
 | --- | --- |
-| [InvestmentSell](../../aspose.finance.ofx.investment/abstractinvestmentselltransaction/investmentsell) { get; set; } | 获取或设置[`InvestmentSell`](./investmentsell)。 |
+| [InvestmentSell](../../aspose.finance.ofx.investment/abstractinvestmentselltransaction/investmentsell) { get; set; } | 获取或设置[`InvestmentSell`](./investmentsell). |
 
 ### 也可以看看
 

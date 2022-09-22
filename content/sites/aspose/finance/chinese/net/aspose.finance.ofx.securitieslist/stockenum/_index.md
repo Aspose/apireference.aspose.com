@@ -18,7 +18,7 @@ public enum StockEnum
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| COMMON | `0` | 普通 |
+| COMMON | `0` | 常见 |
 | PREFERRED | `1` | 首选 |
 | CONVERTIBLE | `2` | 敞篷车 |
 | OTHER | `3` | 其他 |

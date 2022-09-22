@@ -3,7 +3,7 @@ title: MatchInfo
 second_title: Aspose.Finance for .NET API Reference
 description: This class contains employer match information.
 type: docs
-weight: 3210
+weight: 3220
 url: /net/aspose.finance.ofx.investment/matchinfo/
 ---
 ## MatchInfo class

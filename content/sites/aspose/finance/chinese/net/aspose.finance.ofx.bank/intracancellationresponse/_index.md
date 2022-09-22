@@ -18,13 +18,13 @@ public class IntraCancellationResponse : AbstractIntraResponse
 
 | 姓名 | 描述 |
 | --- | --- |
-| [IntraCancellationResponse](intracancellationresponse)() | 初始化[`IntraCancellationResponse`](../intracancellationresponse)类的新实例。 |
+| [IntraCancellationResponse](intracancellationresponse)() | 初始化一个新的实例[`IntraCancellationResponse`](../intracancellationresponse)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [ServerId](../../aspose.finance.ofx.bank/intracancellationresponse/serverid) { get; set; } | 获取或设置用户要取消的传输的ID。 |
+| [ServerId](../../aspose.finance.ofx.bank/intracancellationresponse/serverid) { get; set; } | 获取或设置用户想要取消的转账ID。 |
 
 ### 也可以看看
 

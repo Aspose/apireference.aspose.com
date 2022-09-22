@@ -18,14 +18,14 @@ public class RecurringIntraRequest : AbstractRecurringIntraRequest
 
 | Имя | Описание |
 | --- | --- |
-| [RecurringIntraRequest](recurringintrarequest)() | Инициализирует новый экземпляр класса[`RecurringIntraRequest`](../recurringintrarequest). |
+| [RecurringIntraRequest](recurringintrarequest)() | Инициализирует новый экземпляр[`RecurringIntraRequest`](../recurringintrarequest) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [IntraRequest](../../aspose.finance.ofx.bank/recurringintrarequest/intrarequest) { get; set; } | Получает или задает[`IntraRequest`](./intrarequest). |
-| [RecurringInstructions](../../aspose.finance.ofx.bank/recurringintrarequest/recurringinstructions) { get; set; } | Получает или задает[`RecurringInstructions`](./recurringinstructions). |
+| [IntraRequest](../../aspose.finance.ofx.bank/recurringintrarequest/intrarequest) { get; set; } | Получает или задает[`IntraRequest`](./intrarequest) . |
+| [RecurringInstructions](../../aspose.finance.ofx.bank/recurringintrarequest/recurringinstructions) { get; set; } | Получает или задает[`RecurringInstructions`](./recurringinstructions) . |
 
 ### Смотрите также
 

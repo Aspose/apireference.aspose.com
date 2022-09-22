@@ -1,14 +1,14 @@
 ---
 title: TransferProfile
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化TransferProfileaspose.finance.ofx.profile/transferprofile类的新实例
+description: 初始化一个新的实例TransferProfileaspose.finance.ofx.profile/transferprofile类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.profile/transferprofile/transferprofile/
 ---
 ## TransferProfile constructor
 
-初始化[`TransferProfile`](../../transferprofile)类的新实例。
+初始化一个新的实例[`TransferProfile`](../../transferprofile)类.
 
 ```csharp
 public TransferProfile()

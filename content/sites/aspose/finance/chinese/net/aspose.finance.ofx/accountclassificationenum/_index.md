@@ -1,14 +1,14 @@
 ---
 title: AccountClassificationEnum
 second_title: Aspose.Finance for .NET API 参考
-description: 帐户分类类型枚举
+description: 账户分类类型枚举
 type: docs
 weight: 150
 url: /zh/net/aspose.finance.ofx/accountclassificationenum/
 ---
 ## AccountClassificationEnum enumeration
 
-帐户分类类型枚举。
+账户分类类型枚举。
 
 ```csharp
 public enum AccountClassificationEnum
@@ -19,8 +19,8 @@ public enum AccountClassificationEnum
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
 | PERSONAL | `0` | 个人账户 |
-| BUSINESS | `1` | 企业帐户 |
-| CORPORATE | `2` | 公司帐户 |
+| BUSINESS | `1` | 企业账户 |
+| CORPORATE | `2` | 公司账户 |
 | OTHER | `3` | 其他账户分类 |
 
 ### 也可以看看

@@ -16,7 +16,7 @@ public static void EnableService(string cacheDir)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| cacheDir | String | Путь к каталогу кэша. |
+| cacheDir | String | Путь к каталогу кеша. |
 
 ### Смотрите также
 

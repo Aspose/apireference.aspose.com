@@ -1,14 +1,14 @@
 ---
 title: InvestmentStatementEndResponse
 second_title: Справочник по API Aspose.Finance для .NET
-description: Класс ответа заключительного заявления.
+description: Класс ответов на заключительное заявление.
 type: docs
 weight: 3080
 url: /ru/net/aspose.finance.ofx.investment/investmentstatementendresponse/
 ---
 ## InvestmentStatementEndResponse class
 
-Класс ответа заключительного заявления.
+Класс ответов на заключительное заявление.
 
 ```csharp
 public class InvestmentStatementEndResponse
@@ -18,15 +18,15 @@ public class InvestmentStatementEndResponse
 
 | Имя | Описание |
 | --- | --- |
-| [InvestmentStatementEndResponse](investmentstatementendresponse)() | Инициализирует новый экземпляр класса[`InvestmentStatementEndResponse`](../investmentstatementendresponse). |
+| [InvestmentStatementEndResponse](investmentstatementendresponse)() | Инициализирует новый экземпляр[`InvestmentStatementEndResponse`](../investmentstatementendresponse) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
 | [Currency](../../aspose.finance.ofx.investment/investmentstatementendresponse/currency) { get; set; } | Получает или задает валюту по умолчанию, используемую для закрытия информации. |
-| [InvestmentAccountFrom](../../aspose.finance.ofx.investment/investmentstatementendresponse/investmentaccountfrom) { get; set; } | Получает или задает значение из[`InvestmentAccount`](../../aspose.finance.ofx/investmentaccount). |
-| [InvestmentClosings](../../aspose.finance.ofx.investment/investmentstatementendresponse/investmentclosings) { get; set; } | Получает или задает коллекцию[`InvestmentClosing`](../investmentclosing). |
+| [InvestmentAccountFrom](../../aspose.finance.ofx.investment/investmentstatementendresponse/investmentaccountfrom) { get; set; } | Получает или задает из[`InvestmentAccount`](../../aspose.finance.ofx/investmentaccount) . |
+| [InvestmentClosings](../../aspose.finance.ofx.investment/investmentstatementendresponse/investmentclosings) { get; set; } | Получает или задает коллекцию[`InvestmentClosing`](../investmentclosing) . |
 
 ### Смотрите также
 

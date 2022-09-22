@@ -18,15 +18,15 @@ public class PresentmentDeliveryId
 
 | Имя | Описание |
 | --- | --- |
-| [PresentmentDeliveryId](presentmentdeliveryid)() | Инициализирует новый экземпляр класса[`PresentmentDeliveryId`](../presentmentdeliveryid). |
+| [PresentmentDeliveryId](presentmentdeliveryid)() | Инициализирует новый экземпляр[`PresentmentDeliveryId`](../presentmentdeliveryid) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [BillId](../../aspose.finance.ofx.billerdelivery/presentmentdeliveryid/billid) { get; set; } | Получает или устанавливает счет от данного биллера |
-| [PresentmentAccountFrom](../../aspose.finance.ofx.billerdelivery/presentmentdeliveryid/presentmentaccountfrom) { get; set; } | Получает или задает значение из[`PresentmentAccount`](../../aspose.finance.ofx/presentmentaccount). |
-| [SeenDate](../../aspose.finance.ofx.billerdelivery/presentmentdeliveryid/seendate) { get; set; } | Получает или задает дату и время, когда счет был сделан доступным клиенту запрашивающей стороны. |
+| [BillId](../../aspose.finance.ofx.billerdelivery/presentmentdeliveryid/billid) { get; set; } | Получает или устанавливает счет от данного biller |
+| [PresentmentAccountFrom](../../aspose.finance.ofx.billerdelivery/presentmentdeliveryid/presentmentaccountfrom) { get; set; } | Получает или задает из[`PresentmentAccount`](../../aspose.finance.ofx/presentmentaccount) . |
+| [SeenDate](../../aspose.finance.ofx.billerdelivery/presentmentdeliveryid/seendate) { get; set; } | Получает или задает дату и время, когда счет был сделан доступным для клиента запрашивающей стороны. |
 
 ### Смотрите также
 

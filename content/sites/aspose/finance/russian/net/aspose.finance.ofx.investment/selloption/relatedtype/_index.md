@@ -1,14 +1,14 @@
 ---
 title: RelatedType
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает тип транзакции связанного опциона.
+description: Получает или задает связанный тип опционной транзакции.
 type: docs
 weight: 30
 url: /ru/net/aspose.finance.ofx.investment/selloption/relatedtype/
 ---
 ## SellOption.RelatedType property
 
-Получает или задает тип транзакции связанного опциона.
+Получает или задает связанный тип опционной транзакции.
 
 ```csharp
 public RelatedEnum RelatedType { get; set; }

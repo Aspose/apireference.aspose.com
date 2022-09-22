@@ -1,14 +1,14 @@
 ---
 title: ProfileUpdateDate
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или устанавливает время обновления на сервере.
+description: Получает или задает время обновления на сервере.
 type: docs
 weight: 130
 url: /ru/net/aspose.finance.ofx.profile/profileresponse/profileupdatedate/
 ---
 ## ProfileResponse.ProfileUpdateDate property
 
-Получает или устанавливает время обновления на сервере.
+Получает или задает время обновления на сервере.
 
 ```csharp
 public string ProfileUpdateDate { get; set; }

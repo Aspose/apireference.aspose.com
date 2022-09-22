@@ -3,7 +3,7 @@ title: ArcroleType
 second_title: Aspose.Finance for .NET API Reference
 description: This class is used to define custom arc role type.
 type: docs
-weight: 6490
+weight: 6520
 url: /net/aspose.finance.xbrl/arcroletype/
 ---
 ## ArcroleType class

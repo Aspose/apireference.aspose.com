@@ -1,14 +1,14 @@
 ---
 title: PositionMutualFund
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化PositionMutualFundaspose.finance.ofx.investment/positionmutualfund类的新实例
+description: 初始化一个新的实例PositionMutualFundaspose.finance.ofx.investment/positionmutualfund类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.investment/positionmutualfund/positionmutualfund/
 ---
 ## PositionMutualFund constructor
 
-初始化[`PositionMutualFund`](../../positionmutualfund)类的新实例。
+初始化一个新的实例[`PositionMutualFund`](../../positionmutualfund)类.
 
 ```csharp
 public PositionMutualFund()

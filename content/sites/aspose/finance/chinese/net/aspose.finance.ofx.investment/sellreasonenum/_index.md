@@ -1,14 +1,14 @@
 ---
 title: SellReasonEnum
 second_title: Aspose.Finance for .NET API 参考
-description: 出售原因枚举
+description: 卖出原因枚举
 type: docs
 weight: 3520
 url: /zh/net/aspose.finance.ofx.investment/sellreasonenum/
 ---
 ## SellReasonEnum enumeration
 
-出售原因枚举。
+卖出原因枚举。
 
 ```csharp
 public enum SellReasonEnum
@@ -18,7 +18,7 @@ public enum SellReasonEnum
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| CALL | `0` | 欠债了。 |
+| CALL | `0` | 债务被调用。 |
 | MATURITY | `1` | 债务到期。 |
 | SELL | `2` | 债务被卖掉了。 |
 

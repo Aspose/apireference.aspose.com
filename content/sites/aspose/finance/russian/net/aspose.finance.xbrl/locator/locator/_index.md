@@ -1,14 +1,14 @@
 ---
 title: Locator
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаLocatoraspose.finance.xbrl/locator.
+description: Инициализирует новый экземплярLocatoraspose.finance.xbrl/locator класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.xbrl/locator/locator/
 ---
 ## Locator constructor
 
-Инициализирует новый экземпляр класса[`Locator`](../../locator).
+Инициализирует новый экземпляр[`Locator`](../../locator) класс.
 
 ```csharp
 public Locator()

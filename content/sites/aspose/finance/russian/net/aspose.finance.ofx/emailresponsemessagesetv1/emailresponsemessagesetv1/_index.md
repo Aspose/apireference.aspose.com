@@ -1,14 +1,14 @@
 ---
 title: EmailResponseMessageSetV1
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаEmailResponseMessageSetV1aspose.finance.ofx/emailresponsemessagesetv1.
+description: Инициализирует новый экземплярEmailResponseMessageSetV1aspose.finance.ofx/emailresponsemessagesetv1 класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx/emailresponsemessagesetv1/emailresponsemessagesetv1/
 ---
 ## EmailResponseMessageSetV1 constructor
 
-Инициализирует новый экземпляр класса[`EmailResponseMessageSetV1`](../../emailresponsemessagesetv1).
+Инициализирует новый экземпляр[`EmailResponseMessageSetV1`](../../emailresponsemessagesetv1) класс.
 
 ```csharp
 public EmailResponseMessageSetV1()

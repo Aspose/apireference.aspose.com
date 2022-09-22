@@ -18,14 +18,14 @@ public class Status
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Status](status)() | 初始化[`Status`](../status)类的新实例。 |
+| [Status](status)() | 初始化一个新的实例[`Status`](../status)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Code](../../aspose.finance.ofx/status/code) { get; set; } | 获取或设置错误代码。 |
-| [Message](../../aspose.finance.ofx/status/message) { get; set; } | 获取或设置来自 FI 的文字说明。 |
+| [Code](../../aspose.finance.ofx/status/code) { get; set; } | 获取或设置错误码 |
+| [Message](../../aspose.finance.ofx/status/message) { get; set; } | 获取或设置来自 FI 的文本解释。 |
 | [Severity](../../aspose.finance.ofx/status/severity) { get; set; } | 获取或设置错误的严重性。 |
 
 ### 也可以看看

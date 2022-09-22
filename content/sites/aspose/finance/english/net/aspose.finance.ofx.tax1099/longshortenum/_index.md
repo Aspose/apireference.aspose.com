@@ -3,7 +3,7 @@ title: LongShortEnum
 second_title: Aspose.Finance for .NET API Reference
 description: Long short enum.
 type: docs
-weight: 5920
+weight: 5950
 url: /net/aspose.finance.ofx.tax1099/longshortenum/
 ---
 ## LongShortEnum enumeration

@@ -1,14 +1,14 @@
 ---
 title: Facts
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает набор дочерних фактовInlineTupleaspose.finance.xbrl.inline/inlinetuple.
+description: Получает или задает набор дочерних фактовInlineTupleaspose.finance.xbrl.inline/inlinetuple .
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.xbrl.inline/inlinetuple/facts/
 ---
 ## InlineTuple.Facts property
 
-Получает или задает набор дочерних фактов[`InlineTuple`](../../inlinetuple).
+Получает или задает набор дочерних фактов[`InlineTuple`](../../inlinetuple) .
 
 ```csharp
 public List<InlineFact> Facts { get; }

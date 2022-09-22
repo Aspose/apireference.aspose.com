@@ -1,14 +1,14 @@
 ---
 title: PositionType
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置位置类型
+description: 获取或设置仓位类型
 type: docs
 weight: 50
 url: /zh/net/aspose.finance.ofx.investment/transfer/positiontype/
 ---
 ## Transfer.PositionType property
 
-获取或设置位置类型。
+获取或设置仓位类型。
 
 ```csharp
 public PositionTypeEnum PositionType { get; set; }

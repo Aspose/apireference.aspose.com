@@ -1,14 +1,14 @@
 ---
 title: StatementRequest
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置StatementRequestaspose.finance.ofx.bank/statementtransactionrequest/statementrequest
+description: 获取或设置StatementRequestaspose.finance.ofx.bank/statementtransactionrequest/statementrequest.
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.ofx.bank/statementtransactionrequest/statementrequest/
 ---
 ## StatementTransactionRequest.StatementRequest property
 
-获取或设置`StatementRequest`。
+获取或设置`StatementRequest`.
 
 ```csharp
 public StatementRequest StatementRequest { get; set; }

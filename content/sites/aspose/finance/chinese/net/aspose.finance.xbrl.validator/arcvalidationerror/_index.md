@@ -1,14 +1,14 @@
 ---
 title: ArcValidationError
 second_title: Aspose.Finance for .NET API 参考
-description: 此类用于 Arc 验证相关错误
+description: 这个类是针对 Arc 验证相关的错误
 type: docs
 weight: 8080
 url: /zh/net/aspose.finance.xbrl.validator/arcvalidationerror/
 ---
 ## ArcValidationError class
 
-此类用于 Arc 验证相关错误。
+这个类是针对 Arc 验证相关的错误。
 
 ```csharp
 public class ArcValidationError : ValidationError
@@ -19,8 +19,8 @@ public class ArcValidationError : ValidationError
 | 姓名 | 描述 |
 | --- | --- |
 | [Code](../../aspose.finance.xbrl.validator/validationerror/code) { get; } | 获取验证错误代码。 |
-| [Message](../../aspose.finance.xbrl.validator/validationerror/message) { get; } | 获取错误消息。 |
-| [Object](../../aspose.finance.xbrl.validator/arcvalidationerror/object) { get; } | 获取有验证错误的[`Arc`](../../aspose.finance.xbrl/arc)对象。 |
+| [Message](../../aspose.finance.xbrl.validator/validationerror/message) { get; } | 获取错误信息。 |
+| [Object](../../aspose.finance.xbrl.validator/arcvalidationerror/object) { get; } | 获取[`Arc`](../../aspose.finance.xbrl/arc)有验证错误的对象。 |
 
 ### 也可以看看
 

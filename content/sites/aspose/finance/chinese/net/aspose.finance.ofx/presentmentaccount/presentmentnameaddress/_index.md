@@ -1,14 +1,14 @@
 ---
 title: PresentmentNameAddress
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置PresentmentNameAddressaspose.finance.ofx/presentmentaccount/presentmentnameaddress
+description: 获取或设置PresentmentNameAddressaspose.finance.ofx/presentmentaccount/presentmentnameaddress.
 type: docs
 weight: 80
 url: /zh/net/aspose.finance.ofx/presentmentaccount/presentmentnameaddress/
 ---
 ## PresentmentAccount.PresentmentNameAddress property
 
-获取或设置`PresentmentNameAddress`。
+获取或设置`PresentmentNameAddress`.
 
 ```csharp
 public PresentmentNameAddress PresentmentNameAddress { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: BillDetailTable
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化BillDetailTableaspose.finance.ofx.billerdelivery/billdetailtable类的新实例
+description: 初始化一个新的实例BillDetailTableaspose.finance.ofx.billerdelivery/billdetailtable类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.billerdelivery/billdetailtable/billdetailtable/
 ---
 ## BillDetailTable constructor
 
-初始化[`BillDetailTable`](../../billdetailtable)类的新实例。
+初始化一个新的实例[`BillDetailTable`](../../billdetailtable)类.
 
 ```csharp
 public BillDetailTable()

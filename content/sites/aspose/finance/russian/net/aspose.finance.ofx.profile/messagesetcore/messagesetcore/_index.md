@@ -1,14 +1,14 @@
 ---
 title: MessageSetCore
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаMessageSetCoreaspose.finance.ofx.profile/messagesetcore.
+description: Инициализирует новый экземплярMessageSetCoreaspose.finance.ofx.profile/messagesetcore класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.profile/messagesetcore/messagesetcore/
 ---
 ## MessageSetCore constructor
 
-Инициализирует новый экземпляр класса[`MessageSetCore`](../../messagesetcore).
+Инициализирует новый экземпляр[`MessageSetCore`](../../messagesetcore) класс.
 
 ```csharp
 public MessageSetCore()

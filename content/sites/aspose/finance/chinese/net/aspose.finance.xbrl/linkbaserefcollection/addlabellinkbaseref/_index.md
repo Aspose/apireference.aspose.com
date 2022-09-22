@@ -1,14 +1,14 @@
 ---
 title: AddLabelLinkbaseRef
 second_title: Aspose.Finance for .NET API 参考
-description: 将LabelLinkbaseRefaspose.finance.xbrl/labellinkbaseref添加到集合中
+description: 添加一个LabelLinkbaseRefaspose.finance.xbrl/labellinkbaseref收藏.
 type: docs
 weight: 50
 url: /zh/net/aspose.finance.xbrl/linkbaserefcollection/addlabellinkbaseref/
 ---
 ## LinkbaseRefCollection.AddLabelLinkbaseRef method
 
-将[`LabelLinkbaseRef`](../../labellinkbaseref)添加到集合中。
+添加一个[`LabelLinkbaseRef`](../../labellinkbaseref)收藏.
 
 ```csharp
 public void AddLabelLinkbaseRef(string href)

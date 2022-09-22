@@ -1,14 +1,14 @@
 ---
 title: EstimatedPayoff
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置EstimatedPayoffaspose.finance.ofx.loan/loanclosing/estimatedpayoff
+description: 获取或设置EstimatedPayoffaspose.finance.ofx.loan/loanclosing/estimatedpayoff.
 type: docs
 weight: 90
 url: /zh/net/aspose.finance.ofx.loan/loanclosing/estimatedpayoff/
 ---
 ## LoanClosing.EstimatedPayoff property
 
-获取或设置`EstimatedPayoff`。
+获取或设置`EstimatedPayoff`.
 
 ```csharp
 public EstimatedPayoff EstimatedPayoff { get; set; }

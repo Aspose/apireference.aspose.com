@@ -18,15 +18,15 @@ public class EmailMessageSetV1 : AbstractMessageSetVersion
 
 | 姓名 | 描述 |
 | --- | --- |
-| [EmailMessageSetV1](emailmessagesetv1)() | 初始化[`EmailMessageSetV1`](../emailmessagesetv1)类的新实例。 |
+| [EmailMessageSetV1](emailmessagesetv1)() | 初始化一个新的实例[`EmailMessageSetV1`](../emailmessagesetv1)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [GetMimeSupport](../../aspose.finance.ofx.profile/emailmessagesetv1/getmimesupport) { get; set; } | 获取或设置是否支持[`GetMimeRequest`](../../aspose.finance.ofx.email/getmimerequest)。 |
-| [MailSupport](../../aspose.finance.ofx.profile/emailmessagesetv1/mailsupport) { get; set; } | 如果服务器支持[`MailRequest`](../../aspose.finance.ofx.email/mailrequest)请求，则为真。如果服务器仅支持[`MailSyncRequest`](../../aspose.finance.ofx.email/mailsyncrequest)请求，则为 False。 |
-| [MessageSetCore](../../aspose.finance.ofx.profile/abstractmessagesetversion/messagesetcore) { get; set; } | 获取或设置[`MessageSetCore`](../abstractmessagesetversion/messagesetcore)。 |
+| [GetMimeSupport](../../aspose.finance.ofx.profile/emailmessagesetv1/getmimesupport) { get; set; } | 获取或设置是否支持[`GetMimeRequest`](../../aspose.finance.ofx.email/getmimerequest). |
+| [MailSupport](../../aspose.finance.ofx.profile/emailmessagesetv1/mailsupport) { get; set; } | 如果服务器支持则为真[`MailRequest`](../../aspose.finance.ofx.email/mailrequest)要求。如果服务器仅支持[`MailSyncRequest`](../../aspose.finance.ofx.email/mailsyncrequest)请求. |
+| [MessageSetCore](../../aspose.finance.ofx.profile/abstractmessagesetversion/messagesetcore) { get; set; } | 获取或设置[`MessageSetCore`](../abstractmessagesetversion/messagesetcore). |
 
 ### 也可以看看
 

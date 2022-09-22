@@ -1,14 +1,14 @@
 ---
 title: CurrentVestPercent
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает расчетный процент отчислений работодателя на текущую дату.
+description: Получает или задает оценочный процент взносов работодателя на текущую дату.
 type: docs
 weight: 40
 url: /ru/net/aspose.finance.ofx.investment/investment401k/currentvestpercent/
 ---
 ## Investment401k.CurrentVestPercent property
 
-Получает или задает расчетный процент отчислений работодателя на текущую дату.
+Получает или задает оценочный процент взносов работодателя на текущую дату.
 
 ```csharp
 public string CurrentVestPercent { get; set; }

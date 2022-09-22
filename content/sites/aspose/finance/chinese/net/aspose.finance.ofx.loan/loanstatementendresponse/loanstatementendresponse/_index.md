@@ -1,14 +1,14 @@
 ---
 title: LoanStatementEndResponse
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化LoanStatementEndResponseaspose.finance.ofx.loan/loanstatementendresponse类的新实例
+description: 初始化一个新的实例LoanStatementEndResponseaspose.finance.ofx.loan/loanstatementendresponse类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.loan/loanstatementendresponse/loanstatementendresponse/
 ---
 ## LoanStatementEndResponse constructor
 
-初始化[`LoanStatementEndResponse`](../../loanstatementendresponse)类的新实例。
+初始化一个新的实例[`LoanStatementEndResponse`](../../loanstatementendresponse)类.
 
 ```csharp
 public LoanStatementEndResponse()

@@ -1,14 +1,14 @@
 ---
 title: EnrollTransactionRequest
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаEnrollTransactionRequestaspose.finance.ofx.signup/enrolltransactionrequest.
+description: Инициализирует новый экземплярEnrollTransactionRequestaspose.finance.ofx.signup/enrolltransactionrequest класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.signup/enrolltransactionrequest/enrolltransactionrequest/
 ---
 ## EnrollTransactionRequest constructor
 
-Инициализирует новый экземпляр класса[`EnrollTransactionRequest`](../../enrolltransactionrequest).
+Инициализирует новый экземпляр[`EnrollTransactionRequest`](../../enrolltransactionrequest) класс.
 
 ```csharp
 public EnrollTransactionRequest()

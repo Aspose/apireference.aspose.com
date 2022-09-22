@@ -1,14 +1,14 @@
 ---
 title: Arc
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化Arcaspose.finance.xbrl/arc类的新实例
+description: 初始化一个新的实例Arcaspose.finance.xbrl/arc类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.xbrl/arc/arc/
 ---
 ## Arc constructor
 
-初始化[`Arc`](../../arc)类的新实例。
+初始化一个新的实例[`Arc`](../../arc)类.
 
 ```csharp
 public Arc()

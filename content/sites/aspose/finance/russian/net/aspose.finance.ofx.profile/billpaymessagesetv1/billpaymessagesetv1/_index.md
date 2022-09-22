@@ -1,14 +1,14 @@
 ---
 title: BillPayMessageSetV1
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаBillPayMessageSetV1aspose.finance.ofx.profile/billpaymessagesetv1.
+description: Инициализирует новый экземплярBillPayMessageSetV1aspose.finance.ofx.profile/billpaymessagesetv1 класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.profile/billpaymessagesetv1/billpaymessagesetv1/
 ---
 ## BillPayMessageSetV1 constructor
 
-Инициализирует новый экземпляр класса[`BillPayMessageSetV1`](../../billpaymessagesetv1).
+Инициализирует новый экземпляр[`BillPayMessageSetV1`](../../billpaymessagesetv1) класс.
 
 ```csharp
 public BillPayMessageSetV1()

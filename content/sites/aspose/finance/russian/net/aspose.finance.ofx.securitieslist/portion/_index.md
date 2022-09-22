@@ -1,14 +1,14 @@
 ---
 title: Portion
 second_title: Справочник по API Aspose.Finance для .NET
-description: Часть взаимного фонда с определенной классификацией активов.
+description: Доля взаимного фонда с определенной классификацией активов.
 type: docs
 weight: 5120
 url: /ru/net/aspose.finance.ofx.securitieslist/portion/
 ---
 ## Portion class
 
-Часть взаимного фонда с определенной классификацией активов.
+Доля взаимного фонда с определенной классификацией активов.
 
 ```csharp
 public class Portion
@@ -18,14 +18,14 @@ public class Portion
 
 | Имя | Описание |
 | --- | --- |
-| [Portion](portion)() | Инициализирует новый экземпляр класса[`Portion`](../portion). |
+| [Portion](portion)() | Инициализирует новый экземпляр[`Portion`](../portion) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [AssetClass](../../aspose.finance.ofx.securitieslist/portion/assetclass) { get; set; } | Получает или задает класс актива. |
-| [Percent](../../aspose.finance.ofx.securitieslist/portion/percent) { get; set; } | Получает или задает процентную долю фонда, относящуюся к этому классу активов. |
+| [AssetClass](../../aspose.finance.ofx.securitieslist/portion/assetclass) { get; set; } | Получает или задает класс активов. |
+| [Percent](../../aspose.finance.ofx.securitieslist/portion/percent) { get; set; } | Получает или задает процент фонда, подпадающий под этот класс активов. |
 
 ### Смотрите также
 

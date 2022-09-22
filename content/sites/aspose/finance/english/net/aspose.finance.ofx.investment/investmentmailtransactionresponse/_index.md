@@ -3,7 +3,7 @@ title: InvestmentMailTransactionResponse
 second_title: Aspose.Finance for .NET API Reference
 description: Investment email transaction response class.
 type: docs
-weight: 3020
+weight: 3030
 url: /net/aspose.finance.ofx.investment/investmentmailtransactionresponse/
 ---
 ## InvestmentMailTransactionResponse class

@@ -1,14 +1,14 @@
 ---
 title: LinkbaseRefCollection
 second_title: Aspose.Finance for .NET API 参考
-description: 获取架构中的LinkbaseRefCollectionaspose.finance.xbrl/schemaref/linkbaserefcollection
+description: 获取LinkbaseRefCollectionaspose.finance.xbrl/schemaref/linkbaserefcollection在架构中
 type: docs
 weight: 40
 url: /zh/net/aspose.finance.xbrl/schemaref/linkbaserefcollection/
 ---
 ## SchemaRef.LinkbaseRefCollection property
 
-获取架构中的`LinkbaseRefCollection`。
+获取`LinkbaseRefCollection`在架构中。
 
 ```csharp
 public LinkbaseRefCollection LinkbaseRefCollection { get; }

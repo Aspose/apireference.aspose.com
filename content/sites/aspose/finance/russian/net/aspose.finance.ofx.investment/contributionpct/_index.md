@@ -18,13 +18,13 @@ public class ContributionPct
 
 | Имя | Описание |
 | --- | --- |
-| [ContributionPct](contributionpct)() | Инициализирует новый экземпляр класса[`ContributionPct`](../contributionpct). |
+| [ContributionPct](contributionpct)() | Инициализирует новый экземпляр[`ContributionPct`](../contributionpct) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [Type](../../aspose.finance.ofx.investment/contributionpct/type) { get; set; } | Получает или задает тип процентного вклада. |
+| [Type](../../aspose.finance.ofx.investment/contributionpct/type) { get; set; } | Получает или задает тип процента вклада. |
 | [Value](../../aspose.finance.ofx.investment/contributionpct/value) { get; set; } | Получает или задает значение. |
 
 ### Смотрите также

@@ -1,14 +1,14 @@
 ---
 title: InterestRate
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置实际利率考虑到在此报表期间应用的利率的任何变化
+description: 获取或设置实际利率考虑到在此报表期间应用的任何利率变化
 type: docs
 weight: 120
 url: /zh/net/aspose.finance.ofx.bank/closing/interestrate/
 ---
 ## Closing.InterestRate property
 
-获取或设置实际利率，考虑到在此报表期间应用的利率的任何变化。
+获取或设置实际利率，考虑到在此报表期间应用的任何利率变化。
 
 ```csharp
 public string InterestRate { get; set; }

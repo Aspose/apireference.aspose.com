@@ -1,14 +1,14 @@
 ---
 title: FootnoteLink
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаFootnoteLinkaspose.finance.xbrl/footnotelink.
+description: Инициализирует новый экземплярFootnoteLinkaspose.finance.xbrl/footnotelink класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.xbrl/footnotelink/footnotelink/
 ---
 ## FootnoteLink constructor
 
-Инициализирует новый экземпляр класса[`FootnoteLink`](../../footnotelink).
+Инициализирует новый экземпляр[`FootnoteLink`](../../footnotelink) класс.
 
 ```csharp
 public FootnoteLink()

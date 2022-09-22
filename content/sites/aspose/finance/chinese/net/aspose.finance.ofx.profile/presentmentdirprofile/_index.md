@@ -18,7 +18,7 @@ public class PresentmentDirProfile
 
 | 姓名 | 描述 |
 | --- | --- |
-| [PresentmentDirProfile](presentmentdirprofile)() | 初始化[`PresentmentDirProfile`](../presentmentdirprofile)类的新实例。 |
+| [PresentmentDirProfile](presentmentdirprofile)() | 初始化一个新的实例[`PresentmentDirProfile`](../presentmentdirprofile)类. |
 
 ## 特性
 

@@ -18,7 +18,7 @@ public class PresentmentDirProfile
 
 | Имя | Описание |
 | --- | --- |
-| [PresentmentDirProfile](presentmentdirprofile)() | Инициализирует новый экземпляр класса[`PresentmentDirProfile`](../presentmentdirprofile). |
+| [PresentmentDirProfile](presentmentdirprofile)() | Инициализирует новый экземпляр[`PresentmentDirProfile`](../presentmentdirprofile) класс. |
 
 ## Характеристики
 

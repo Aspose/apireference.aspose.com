@@ -1,14 +1,14 @@
 ---
 title: BillTableStructureTransactionRequests
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置BillTableStructureTransactionRequestaspose.finance.ofx.billerdelivery/billtablestructuretransactionrequest的集合
+description: 获取或设置的集合BillTableStructureTransactionRequestaspose.finance.ofx.billerdelivery/billtablestructuretransactionrequest.
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.ofx/presentmentdeliveryrequestmessagesetv1/billtablestructuretransactionrequests/
 ---
 ## PresentmentDeliveryRequestMessageSetV1.BillTableStructureTransactionRequests property
 
-获取或设置[`BillTableStructureTransactionRequest`](../../../aspose.finance.ofx.billerdelivery/billtablestructuretransactionrequest)的集合。
+获取或设置的集合[`BillTableStructureTransactionRequest`](../../../aspose.finance.ofx.billerdelivery/billtablestructuretransactionrequest).
 
 ```csharp
 public List<BillTableStructureTransactionRequest> 

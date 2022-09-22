@@ -1,14 +1,14 @@
 ---
 title: Value
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает значениеInlineNonnumericaspose.finance.xbrl.inline/inlinenonnumeric.
+description: Получает или задает значениеInlineNonnumericaspose.finance.xbrl.inline/inlinenonnumeric .
 type: docs
 weight: 100
 url: /ru/net/aspose.finance.xbrl.inline/inlinenonnumeric/value/
 ---
 ## InlineNonnumeric.Value property
 
-Получает или задает значение[`InlineNonnumeric`](../../inlinenonnumeric).
+Получает или задает значение[`InlineNonnumeric`](../../inlinenonnumeric) .
 
 ```csharp
 public string Value { get; set; }

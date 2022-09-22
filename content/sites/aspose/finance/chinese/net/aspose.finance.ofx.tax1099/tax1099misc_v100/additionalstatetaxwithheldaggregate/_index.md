@@ -1,14 +1,14 @@
 ---
 title: AdditionalStateTaxWithheldAggregate
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置AdditionalStateTaxWithheldAggregateaspose.finance.ofx.tax1099/tax1099misc_v100/additionalstatetaxwithheldaggregate
+description: 获取或设置AdditionalStateTaxWithheldAggregateaspose.finance.ofx.tax1099/tax1099misc_v100/additionalstatetaxwithheldaggregate.
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.ofx.tax1099/tax1099misc_v100/additionalstatetaxwithheldaggregate/
 ---
 ## Tax1099MISC_V100.AdditionalStateTaxWithheldAggregate property
 
-获取或设置`AdditionalStateTaxWithheldAggregate`。
+获取或设置`AdditionalStateTaxWithheldAggregate`.
 
 ```csharp
 public AdditionalStateTaxWithheldAggregate AdditionalStateTaxWithheldAggregate { get; set; }

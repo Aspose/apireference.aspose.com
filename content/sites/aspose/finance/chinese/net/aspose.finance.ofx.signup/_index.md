@@ -13,15 +13,15 @@ url: /zh/net/aspose.finance.ofx.signup/
 | 班级 | 描述 |
 | --- | --- |
 | [AbstractServiceAction](./abstractserviceaction) | 服务操作相关类的抽象基类。 |
-| [AccountInfoTransactionRequest](./accountinfotransactionrequest) | 账户信息交易请求类。 |
-| [AccountInfoTransactionResponse](./accountinfotransactionresponse) | 账户信息交易响应类。 |
+| [AccountInfoTransactionRequest](./accountinfotransactionrequest) | 账户信息交易请求类 |
+| [AccountInfoTransactionResponse](./accountinfotransactionresponse) | 账户信息交易响应类 |
 | [AccountRequest](./accountrequest) | 帐户服务请求类。 |
-| [AccountResponse](./accountresponse) | 帐户服务响应类。 |
-| [AccountSyncRequest](./accountsyncrequest) | 服务激活同步请求类。 |
-| [AccountSyncResponse](./accountsyncresponse) | 服务激活同步响应类。 |
-| [AccountTransactionRequest](./accounttransactionrequest) | 账户服务交易请求类。 |
-| [AccountTransactionResponse](./accounttransactionresponse) | 账户服务交易响应类。 |
-| [ChangeUserInfoRequest](./changeuserinforequest) | 更改用户信息请求类别。 |
+| [AccountResponse](./accountresponse) | 账户服务响应类 |
+| [AccountSyncRequest](./accountsyncrequest) | 服务激活同步请求类. |
+| [AccountSyncResponse](./accountsyncresponse) | 服务激活同步响应类. |
+| [AccountTransactionRequest](./accounttransactionrequest) | 账户服务交易请求类 |
+| [AccountTransactionResponse](./accounttransactionresponse) | 账户服务交易响应类 |
+| [ChangeUserInfoRequest](./changeuserinforequest) | 更改用户信息请求类。 |
 | [ChangeUserInfoResponse](./changeuserinforesponse) | 更改用户信息响应类。 |
 | [ChangeUserInfoSyncRequest](./changeuserinfosyncrequest) | 更改用户信息同步请求类。 |
 | [ChangeUserInfoSyncResponse](./changeuserinfosyncresponse) | 更改用户信息同步响应类。 |
@@ -29,11 +29,11 @@ url: /zh/net/aspose.finance.ofx.signup/
 | [ChangeUserInfoTransactionResponse](./changeuserinfotransactionresponse) | 更改用户信息交易响应类。 |
 | [EnrollRequest](./enrollrequest) | 注册请求类。 |
 | [EnrollResponse](./enrollresponse) | 注册响应类。 |
-| [EnrollTransactionRequest](./enrolltransactionrequest) | 注册事务请求类。 |
+| [EnrollTransactionRequest](./enrolltransactionrequest) | 注册事务请求类. |
 | [EnrollTransactionResponse](./enrolltransactionresponse) | 注册事务响应类。 |
-| [ServiceAdd](./serviceadd) | 服务添加类。 |
-| [ServiceChange](./servicechange) | 服务更改类。 |
-| [ServiceDelete](./servicedelete) | 服务删除类。 |
+| [ServiceAdd](./serviceadd) | 服务附加类. |
+| [ServiceChange](./servicechange) | 服务变更类. |
+| [ServiceDelete](./servicedelete) | 服务删除类. |
 ## 枚举
 
 | 枚举 | 描述 |

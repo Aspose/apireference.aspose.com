@@ -1,14 +1,14 @@
 ---
 title: PaymentInstrument
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаPaymentInstrumentaspose.finance.ofx.billerdirectory/paymentinstrument.
+description: Инициализирует новый экземплярPaymentInstrumentaspose.finance.ofx.billerdirectory/paymentinstrument класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.billerdirectory/paymentinstrument/paymentinstrument/
 ---
 ## PaymentInstrument constructor
 
-Инициализирует новый экземпляр класса[`PaymentInstrument`](../../paymentinstrument).
+Инициализирует новый экземпляр[`PaymentInstrument`](../../paymentinstrument) класс.
 
 ```csharp
 public PaymentInstrument()

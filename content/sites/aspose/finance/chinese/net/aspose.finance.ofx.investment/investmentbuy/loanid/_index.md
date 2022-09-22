@@ -1,14 +1,14 @@
 ---
 title: LoanId
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置交易是由于贷款还是贷款还款以及它是哪笔贷款仅适用于 401k 帐户
+description: 获取或设置交易是由于贷款或还款以及它是哪笔贷款仅适用于 401k 帐户
 type: docs
 weight: 70
 url: /zh/net/aspose.finance.ofx.investment/investmentbuy/loanid/
 ---
 ## InvestmentBuy.LoanId property
 
-获取或设置交易是由于贷款还是贷款还款，以及它是哪笔贷款。仅适用于 401(k) 帐户。
+获取或设置交易是由于贷款或还款，以及它是哪笔贷款。仅适用于 401(k) 帐户。
 
 ```csharp
 public string LoanId { get; set; }

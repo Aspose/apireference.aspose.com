@@ -1,14 +1,14 @@
 ---
 title: StatementImage
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаStatementImageaspose.finance.ofx.billerdelivery/statementimage.
+description: Инициализирует новый экземплярStatementImageaspose.finance.ofx.billerdelivery/statementimage класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.billerdelivery/statementimage/statementimage/
 ---
 ## StatementImage constructor
 
-Инициализирует новый экземпляр класса[`StatementImage`](../../statementimage).
+Инициализирует новый экземпляр[`StatementImage`](../../statementimage) класс.
 
 ```csharp
 public StatementImage()

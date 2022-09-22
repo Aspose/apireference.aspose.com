@@ -1,14 +1,14 @@
 ---
 title: IsTextBlock
 second_title: Aspose.Finance for .NET API 参考
-description: 检查此项是否为文本块
+description: 检查该项目是否为文本块
 type: docs
 weight: 110
 url: /zh/net/aspose.finance.xbrl/item/istextblock/
 ---
 ## Item.IsTextBlock method
 
-检查此项是否为文本块。
+检查该项目是否为文本块。
 
 ```csharp
 public bool IsTextBlock()

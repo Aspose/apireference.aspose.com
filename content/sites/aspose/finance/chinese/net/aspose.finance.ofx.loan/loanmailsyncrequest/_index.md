@@ -8,7 +8,7 @@ url: /zh/net/aspose.finance.ofx.loan/loanmailsyncrequest/
 ---
 ## LoanMailSyncRequest class
 
-外借邮件同步请求类。
+外借邮件同步请求类
 
 ```csharp
 public class LoanMailSyncRequest : AbstractSyncRequest
@@ -18,20 +18,20 @@ public class LoanMailSyncRequest : AbstractSyncRequest
 
 | 姓名 | 描述 |
 | --- | --- |
-| [LoanMailSyncRequest](loanmailsyncrequest)() | 初始化[`LoanMailSyncRequest`](../loanmailsyncrequest)类的新实例。 |
+| [LoanMailSyncRequest](loanmailsyncrequest)() | 初始化一个新的实例[`LoanMailSyncRequest`](../loanmailsyncrequest)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [IncludeImages](../../aspose.finance.ofx.loan/loanmailsyncrequest/includeimages) { get; set; } | 是，如果客户端接受邮件正文中包含图像的邮件。如果客户端不接受邮件正文中包含图像的邮件，则否。 |
-| [LoanAccountFrom](../../aspose.finance.ofx.loan/loanmailsyncrequest/loanaccountfrom) { get; set; } | 获取或设置[`LoanAccount`](../../aspose.finance.ofx/loanaccount)的来源。 |
-| [LoanMailTransactionRequests](../../aspose.finance.ofx.loan/loanmailsyncrequest/loanmailtransactionrequests) { get; set; } | 获取或设置[`LoanMailTransactionRequest`](../loanmailtransactionrequest)的集合。 |
-| [OfxExtension](../../aspose.finance.ofx.loan/loanmailsyncrequest/ofxextension) { get; set; } | 获取或设置[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype)。 |
+| [IncludeImages](../../aspose.finance.ofx.loan/loanmailsyncrequest/includeimages) { get; set; } | 如果客户端接受邮件正文中包含图像的邮件，则为是。如果客户端不接受邮件正文中包含图像的邮件，则否。 |
+| [LoanAccountFrom](../../aspose.finance.ofx.loan/loanmailsyncrequest/loanaccountfrom) { get; set; } | 获取或设置 from[`LoanAccount`](../../aspose.finance.ofx/loanaccount). |
+| [LoanMailTransactionRequests](../../aspose.finance.ofx.loan/loanmailsyncrequest/loanmailtransactionrequests) { get; set; } | 获取或设置的集合[`LoanMailTransactionRequest`](../loanmailtransactionrequest). |
+| [OfxExtension](../../aspose.finance.ofx.loan/loanmailsyncrequest/ofxextension) { get; set; } | 获取或设置[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
 | [Refresh](../../aspose.finance.ofx/abstractsyncrequest/refresh) { get; set; } | 获取或设置是否请求刷新当前状态。 |
-| [RejectIfMisssing](../../aspose.finance.ofx/abstractsyncrequest/rejectifmisssing) { get; set; } | 如果是，如果客户端令牌已过期，请不要处理请求。 |
+| [RejectIfMisssing](../../aspose.finance.ofx/abstractsyncrequest/rejectifmisssing) { get; set; } | 如果是，如果客户端令牌已过期，则不处理请求。 |
 | [Token](../../aspose.finance.ofx/abstractsyncrequest/token) { get; set; } | 获取或设置令牌。 |
-| [TokenOnly](../../aspose.finance.ofx/abstractsyncrequest/tokenonly) { get; set; } | 获取或设置是否只请求当前令牌而不请求历史。 |
+| [TokenOnly](../../aspose.finance.ofx/abstractsyncrequest/tokenonly) { get; set; } | 获取或设置是否只请求当前令牌而不请求历史记录。 |
 | [UseHtml](../../aspose.finance.ofx.loan/loanmailsyncrequest/usehtml) { get; set; } | 如果客户端想要 HTML 响应，是，如果客户端想要纯文本，则否。 |
 
 ### 也可以看看

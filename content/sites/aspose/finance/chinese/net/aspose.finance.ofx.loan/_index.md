@@ -12,31 +12,31 @@ url: /zh/net/aspose.finance.ofx.loan/
 
 | 班级 | 描述 |
 | --- | --- |
-| [AmortizationRequest](./amortizationrequest) | 摊销报表请求类。 |
+| [AmortizationRequest](./amortizationrequest) | 摊销报表请求类. |
 | [AmortizationResponse](./amortizationresponse) | 摊销报表响应类。 |
-| [AmortizationTransaction](./amortizationtransaction) | 摊销交易类。 |
+| [AmortizationTransaction](./amortizationtransaction) | 摊销交易类. |
 | [AmortizationTransactionList](./amortizationtransactionlist) | 摊销报表列表类。 |
-| [AmortizationTransactionRequest](./amortizationtransactionrequest) | 摊销报表交易请求类。 |
-| [AmortizationTransactionResponse](./amortizationtransactionresponse) | 摊销声明交易响应类。 |
+| [AmortizationTransactionRequest](./amortizationtransactionrequest) | 摊销报表交易请求类. |
+| [AmortizationTransactionResponse](./amortizationtransactionresponse) | 摊销报表交易响应类. |
 | [EscrowBalance](./escrowbalance) | 托管余额类。 |
-| [EstimatedPayoff](./estimatedpayoff) | 估计的支付余额等级。 |
+| [EstimatedPayoff](./estimatedpayoff) | 估计的收益余额类。 |
 | [LoanClosing](./loanclosing) | 贷款账户使用 LoanClosing 类来描述结帐信息。 |
 | [LoanMailRequest](./loanmailrequest) | 贷款电子邮件请求类。 |
-| [LoanMailResponse](./loanmailresponse) | 借阅邮件回复类。 |
-| [LoanMailSyncRequest](./loanmailsyncrequest) | 外借邮件同步请求类。 |
-| [LoanMailSyncResponse](./loanmailsyncresponse) | 外借邮件同步响应类。 |
+| [LoanMailResponse](./loanmailresponse) | 外借邮件回复类。 |
+| [LoanMailSyncRequest](./loanmailsyncrequest) | 外借邮件同步请求类 |
+| [LoanMailSyncResponse](./loanmailsyncresponse) | 外借邮件同步响应类 |
 | [LoanMailTransactionRequest](./loanmailtransactionrequest) | 贷款电子邮件交易请求类。 |
 | [LoanMailTransactionResponse](./loanmailtransactionresponse) | 贷款电子邮件交易响应类。 |
-| [LoanStatementEndRequest](./loanstatementendrequest) | 贷款结账报表请求类。 |
-| [LoanStatementEndResponse](./loanstatementendresponse) | 贷款结账声明响应类。 |
-| [LoanStatementEndTransactionRequest](./loanstatementendtransactionrequest) | 贷款结账报表交易请求类。 |
+| [LoanStatementEndRequest](./loanstatementendrequest) | 贷款结账申请类. |
+| [LoanStatementEndResponse](./loanstatementendresponse) | 贷款结账报表响应类。 |
+| [LoanStatementEndTransactionRequest](./loanstatementendtransactionrequest) | 贷款结账单交易请求类. |
 | [LoanStatementEndTransactionResponse](./loanstatementendtransactionresponse) | 贷款结账报表交易响应类。 |
-| [LoanStatementRequest](./loanstatementrequest) | 外借下载请求类。 |
-| [LoanStatementResponse](./loanstatementresponse) | 外借下载请求类。 |
+| [LoanStatementRequest](./loanstatementrequest) | 外借下载请求类. |
+| [LoanStatementResponse](./loanstatementresponse) | 外借下载请求类. |
 | [LoanStatementTransaction](./loanstatementtransaction) | 此类描述单个事务。它识别交易的类型和发布的日期。该类还可以提供额外的信息来帮助客户识别交易：支票号码、姓名、备忘录和图像。 |
-| [LoanStatementTransactionRequest](./loanstatementtransactionrequest) | Loan 下载交易请求类。 |
-| [LoanStatementTransactionResponse](./loanstatementtransactionresponse) | 贷款下载交易响应类。 |
-| [LoanTransactionList](./loantransactionlist) | 贷款报表交易数据采集类。 |
+| [LoanStatementTransactionRequest](./loanstatementtransactionrequest) | 贷款下载交易请求类. |
+| [LoanStatementTransactionResponse](./loanstatementtransactionresponse) | 贷款下载交易响应类. |
+| [LoanTransactionList](./loantransactionlist) | 贷款报表交易数据采集类 |
 ## 枚举
 
 | 枚举 | 描述 |

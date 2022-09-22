@@ -3,7 +3,7 @@ title: ImageMessageSet
 second_title: Aspose.Finance for .NET API Reference
 description: Image message set.
 type: docs
-weight: 4500
+weight: 4520
 url: /net/aspose.finance.ofx.profile/imagemessageset/
 ---
 ## ImageMessageSet class

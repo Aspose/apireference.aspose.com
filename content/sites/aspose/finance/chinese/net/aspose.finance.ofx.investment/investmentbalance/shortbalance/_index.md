@@ -1,14 +1,14 @@
 ---
 title: ShortBalance
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置所有空头头寸的市值这是一个积极的平衡
+description: 获取或设置所有空头头寸的市值这是一个正余额
 type: docs
 weight: 60
 url: /zh/net/aspose.finance.ofx.investment/investmentbalance/shortbalance/
 ---
 ## InvestmentBalance.ShortBalance property
 
-获取或设置所有空头头寸的市值。这是一个积极的平衡。
+获取或设置所有空头头寸的市值。这是一个正余额。
 
 ```csharp
 public string ShortBalance { get; set; }

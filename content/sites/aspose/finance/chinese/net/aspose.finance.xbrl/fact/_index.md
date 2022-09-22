@@ -1,14 +1,14 @@
 ---
 title: Fact
 second_title: Aspose.Finance for .NET API 参考
-description: 事实可以是简单的在这种情况下它们的值必须表示为简单的内容 并且事实可以是复合的在这种情况下它们的值由其他简单的组成和/或复合事实 使用Item./item来表达简单的事实 复合事实使用Tuple./tuple元组表示
+description: 事实可以是简单的在这种情况下它们的值必须表示为简单的内容 并且事实可以是复合的在这种情况下它们的值是由其他简单和/或复合事实组成的 简单的事实用Item./item. 复合事实用Tuple./tuple元组.
 type: docs
 weight: 7620
 url: /zh/net/aspose.finance.xbrl/fact/
 ---
 ## Fact class
 
-事实可以是简单的，在这种情况下它们的值必须表示为简单的内容， 并且事实可以是复合的，在这种情况下它们的值由其他简单的组成和/或复合事实。 使用[`Item`](../item)来表达简单的事实。 复合事实使用[`Tuple`](../tuple)元组表示。
+事实可以是简单的，在这种情况下，它们的值必须表示为简单的内容， 并且事实可以是复合的，在这种情况下，它们的值是由其他简单和/或复合事实组成的。 简单的事实用[`Item`](../item). 复合事实用[`Tuple`](../tuple)元组.
 
 ```csharp
 public abstract class Fact

@@ -1,14 +1,14 @@
 ---
 title: ServiceStatusEnum
 second_title: Справочник по API Aspose.Finance для .NET
-description: Перечисление состояния службы
+description: Статус службы enum
 type: docs
 weight: 5240
 url: /ru/net/aspose.finance.ofx/servicestatusenum/
 ---
 ## ServiceStatusEnum enumeration
 
-Перечисление состояния службы
+Статус службы enum
 
 ```csharp
 public enum ServiceStatusEnum
@@ -19,7 +19,7 @@ public enum ServiceStatusEnum
 | Имя | Ценность | Описание |
 | --- | --- | --- |
 | AVAIL | `0` | Доступно, но еще не запрошено |
-| PEND | `1` | Запрошен, но пока недоступен |
+| PEND | `1` | Запрошено, но пока недоступно |
 | ACTIVE | `2` | Используется |
 
 ### Смотрите также

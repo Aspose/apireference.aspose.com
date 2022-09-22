@@ -1,14 +1,14 @@
 ---
 title: Country
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置 FI 地址国家来自 ISO/DIS-3166 的 3 个字母的国家/地区代码
+description: 获取或设置 FI 地址国家来自 ISO/DIS3166. 的 3 个字母的国家/地区代码
 type: docs
 weight: 60
 url: /zh/net/aspose.finance.ofx.profile/profileresponse/country/
 ---
 ## ProfileResponse.Country property
 
-获取或设置 FI 地址国家。来自 ISO/DIS-3166 的 3 个字母的国家/地区代码。
+获取或设置 FI 地址国家。来自 ISO/DIS-3166. 的 3 个字母的国家/地区代码
 
 ```csharp
 public string Country { get; set; }

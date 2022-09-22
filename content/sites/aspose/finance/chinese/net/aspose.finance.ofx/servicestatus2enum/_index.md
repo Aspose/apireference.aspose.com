@@ -1,14 +1,14 @@
 ---
 title: ServiceStatus2Enum
 second_title: Aspose.Finance for .NET API 参考
-description: Bill Presentment 服务枚举的状态
+description: 账单呈现服务枚举的状态
 type: docs
 weight: 5230
 url: /zh/net/aspose.finance.ofx/servicestatus2enum/
 ---
 ## ServiceStatus2Enum enumeration
 
-Bill Presentment 服务枚举的状态。
+账单呈现服务枚举的状态。
 
 ```csharp
 public enum ServiceStatus2Enum
@@ -19,9 +19,9 @@ public enum ServiceStatus2Enum
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
 | AVAIL | `0` | 可用 |
-| PEND | `1` | 待处理 |
+| PEND | `1` | 待定 |
 | ACTIVE | `2` | 活动 |
-| REJECTED | `3` | 被拒绝 |
+| REJECTED | `3` | 拒绝 |
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: Country
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает страну выставляющего счета. Трехбуквенный код страны из ISO/DIS-3166.
+description: Получает или задает страну биллера. Трехбуквенный код страны из ISO/DIS3166.
 type: docs
 weight: 110
 url: /ru/net/aspose.finance.ofx.billerdirectory/billerinfo/country/
 ---
 ## BillerInfo.Country property
 
-Получает или задает страну выставляющего счета. Трехбуквенный код страны из ISO/DIS-3166.
+Получает или задает страну биллера. Трехбуквенный код страны из ISO/DIS-3166.
 
 ```csharp
 public string Country { get; set; }

@@ -3,7 +3,7 @@ title: SecHtmlReportSaveOption
 second_title: Aspose.Finance for .NET API Reference
 description: Represents the options for saving sec html report.
 type: docs
-weight: 8030
+weight: 8080
 url: /net/aspose.finance.xbrl/sechtmlreportsaveoption/
 ---
 ## SecHtmlReportSaveOption class

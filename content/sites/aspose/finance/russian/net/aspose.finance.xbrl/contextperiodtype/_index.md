@@ -1,14 +1,14 @@
 ---
 title: ContextPeriodType
 second_title: Справочник по API Aspose.Finance для .NET
-description: ContextPeriod./contextperiodtype enum.
+description: ContextPeriod./contextperiod введите enum.
 type: docs
 weight: 6570
 url: /ru/net/aspose.finance.xbrl/contextperiodtype/
 ---
 ## ContextPeriodType enumeration
 
-[`ContextPeriod`](../contextperiod)type enum.
+[`ContextPeriod`](../contextperiod) введите enum.
 
 ```csharp
 public enum ContextPeriodType
@@ -20,7 +20,7 @@ public enum ContextPeriodType
 | --- | --- | --- |
 | Duration | `0` | Тип периода продолжительности. |
 | Instant | `1` | Мгновенный тип периода. |
-| Forever | `2` | Тип вечной точки. |
+| Forever | `2` | Тип вечного периода. |
 
 ### Смотрите также
 

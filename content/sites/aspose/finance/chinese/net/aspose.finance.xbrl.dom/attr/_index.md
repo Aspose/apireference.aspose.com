@@ -1,14 +1,14 @@
 ---
 title: Attr
 second_title: Aspose.Finance for .NET API 参考
-description: Attr 接口表示 Element 对象中的一个属性通常属性的允许值在与文档关联的模式中定义
+description: Attr 接口表示 Element 对象中的一个属性通常该属性的允许值在与文档关联的架构中定义
 type: docs
 weight: 6630
 url: /zh/net/aspose.finance.xbrl.dom/attr/
 ---
 ## Attr class
 
-Attr 接口表示 Element 对象中的一个属性。通常，属性的允许值在与文档关联的模式中定义。
+Attr 接口表示 Element 对象中的一个属性。通常，该属性的允许值在与文档关联的架构中定义。
 
 ```csharp
 public class Attr
@@ -23,8 +23,8 @@ public class Attr
 | [Name](../../aspose.finance.xbrl.dom/attr/name) { get; } | 获取此属性的名称。 |
 | [NamespaceUri](../../aspose.finance.xbrl.dom/attr/namespaceuri) { get; } | 获取属性的命名空间 URI。 |
 | [Prefix](../../aspose.finance.xbrl.dom/attr/prefix) { get; } | 获取属性的命名空间前缀。 |
-| [Specified](../../aspose.finance.xbrl.dom/attr/specified) { get; } | 如果该属性在实例文档中被显式地赋予了一个值，则为真，否则为假。 |
-| [Value](../../aspose.finance.xbrl.dom/attr/value) { get; set; } | 获取属性值。 |
+| [Specified](../../aspose.finance.xbrl.dom/attr/specified) { get; } | 如果此属性在实例文档中被明确地赋予了一个值，则为真，否则为假。 |
+| [Value](../../aspose.finance.xbrl.dom/attr/value) { get; set; } | 获取属性的值。 |
 
 ## 方法
 

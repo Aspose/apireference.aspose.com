@@ -18,7 +18,7 @@ public class ContributionAmt
 
 | Имя | Описание |
 | --- | --- |
-| [ContributionAmt](contributionamt)() | Инициализирует новый экземпляр класса[`ContributionAmt`](../contributionamt). |
+| [ContributionAmt](contributionamt)() | Инициализирует новый экземпляр[`ContributionAmt`](../contributionamt) класс. |
 
 ## Характеристики
 

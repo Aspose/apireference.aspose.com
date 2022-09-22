@@ -1,14 +1,14 @@
 ---
 title: PaymentInquiryRequest
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置PaymentInquiryRequestaspose.finance.ofx.billpay/paymentinquirytransactionrequest/paymentinquiryrequest
+description: 获取或设置PaymentInquiryRequestaspose.finance.ofx.billpay/paymentinquirytransactionrequest/paymentinquiryrequest.
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.ofx.billpay/paymentinquirytransactionrequest/paymentinquiryrequest/
 ---
 ## PaymentInquiryTransactionRequest.PaymentInquiryRequest property
 
-获取或设置`PaymentInquiryRequest`。
+获取或设置`PaymentInquiryRequest`.
 
 ```csharp
 public PaymentInquiryRequest PaymentInquiryRequest { get; set; }

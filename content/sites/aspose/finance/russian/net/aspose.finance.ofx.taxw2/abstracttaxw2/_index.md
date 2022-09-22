@@ -20,7 +20,7 @@ public abstract class AbstractTaxW2
 | --- | --- |
 | [ControlNumber](../../aspose.finance.ofx.taxw2/abstracttaxw2/controlnumber) { get; set; } | Получает или задает контрольный номер. |
 | [TaxYear](../../aspose.finance.ofx.taxw2/abstracttaxw2/taxyear) { get; set; } | Получает или задает налоговый год этой формы в формате «ГГГГ». |
-| [Void](../../aspose.finance.ofx.taxw2/abstracttaxw2/void) { get; set; } | Получает или задает значение, указывающее, является ли данное W2 недействительным и будет ли предоставлено новое W2. |
+| [Void](../../aspose.finance.ofx.taxw2/abstracttaxw2/void) { get; set; } | Получает или задает, является ли этот W2 недействительным и будет предоставлен новый W2. |
 
 ### Смотрите также
 

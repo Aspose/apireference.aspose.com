@@ -18,14 +18,14 @@ public class WireTransferResponseMessageSetV1 : AbstractResponseMessageSet
 
 | 姓名 | 描述 |
 | --- | --- |
-| [WireTransferResponseMessageSetV1](wiretransferresponsemessagesetv1)() | 初始化[`WireTransferResponseMessageSetV1`](../wiretransferresponsemessagesetv1)类的新实例。 |
+| [WireTransferResponseMessageSetV1](wiretransferresponsemessagesetv1)() | 初始化一个新的实例[`WireTransferResponseMessageSetV1`](../wiretransferresponsemessagesetv1)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [WireSyncResponses](../../aspose.finance.ofx/wiretransferresponsemessagesetv1/wiresyncresponses) { get; set; } | 获取或设置[`WireSyncResponse`](../../aspose.finance.ofx.wiretransfer/wiresyncresponse)的集合。 |
-| [WireTransactionResponses](../../aspose.finance.ofx/wiretransferresponsemessagesetv1/wiretransactionresponses) { get; set; } | 获取或设置[`WireTransactionResponse`](../../aspose.finance.ofx.wiretransfer/wiretransactionresponse)的集合。 |
+| [WireSyncResponses](../../aspose.finance.ofx/wiretransferresponsemessagesetv1/wiresyncresponses) { get; set; } | 获取或设置的集合[`WireSyncResponse`](../../aspose.finance.ofx.wiretransfer/wiresyncresponse). |
+| [WireTransactionResponses](../../aspose.finance.ofx/wiretransferresponsemessagesetv1/wiretransactionresponses) { get; set; } | 获取或设置的集合[`WireTransactionResponse`](../../aspose.finance.ofx.wiretransfer/wiretransactionresponse). |
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: CreditCardStatementRequest
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化CreditCardStatementRequestaspose.finance.ofx.creditcard/creditcardstatementrequest类的新实例
+description: 初始化一个新的实例CreditCardStatementRequestaspose.finance.ofx.creditcard/creditcardstatementrequest类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.creditcard/creditcardstatementrequest/creditcardstatementrequest/
 ---
 ## CreditCardStatementRequest constructor
 
-初始化[`CreditCardStatementRequest`](../../creditcardstatementrequest)类的新实例。
+初始化一个新的实例[`CreditCardStatementRequest`](../../creditcardstatementrequest)类.
 
 ```csharp
 public CreditCardStatementRequest()

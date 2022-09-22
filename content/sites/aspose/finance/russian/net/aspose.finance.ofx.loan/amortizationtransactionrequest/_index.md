@@ -1,14 +1,14 @@
 ---
 title: AmortizationTransactionRequest
 second_title: Справочник по API Aspose.Finance для .NET
-description: Класс запроса транзакции отчета об амортизации.
+description: Класс запроса операции отчета об амортизации.
 type: docs
 weight: 3780
 url: /ru/net/aspose.finance.ofx.loan/amortizationtransactionrequest/
 ---
 ## AmortizationTransactionRequest class
 
-Класс запроса транзакции отчета об амортизации.
+Класс запроса операции отчета об амортизации.
 
 ```csharp
 public class AmortizationTransactionRequest : AbstractTransactionRequest
@@ -18,15 +18,15 @@ public class AmortizationTransactionRequest : AbstractTransactionRequest
 
 | Имя | Описание |
 | --- | --- |
-| [AmortizationTransactionRequest](amortizationtransactionrequest)() | Инициализирует новый экземпляр класса[`AmortizationTransactionRequest`](../amortizationtransactionrequest). |
+| [AmortizationTransactionRequest](amortizationtransactionrequest)() | Инициализирует новый экземпляр[`AmortizationTransactionRequest`](../amortizationtransactionrequest) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [AmortizationRequest](../../aspose.finance.ofx.loan/amortizationtransactionrequest/amortizationrequest) { get; set; } | Получает или задает[`AmortizationRequest`](./amortizationrequest). |
-| [ClientCookie](../../aspose.finance.ofx/abstracttransactionrequest/clientcookie) { get; set; } | Получает или задает данные, которые будут отображаться в ответе транзакции |
-| [OfxExtension](../../aspose.finance.ofx.loan/amortizationtransactionrequest/ofxextension) { get; set; } | Получает или задает[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
+| [AmortizationRequest](../../aspose.finance.ofx.loan/amortizationtransactionrequest/amortizationrequest) { get; set; } | Получает или задает[`AmortizationRequest`](./amortizationrequest) . |
+| [ClientCookie](../../aspose.finance.ofx/abstracttransactionrequest/clientcookie) { get; set; } | Получает или задает данные, которые будут отражены в транзакции response |
+| [OfxExtension](../../aspose.finance.ofx.loan/amortizationtransactionrequest/ofxextension) { get; set; } | Получает или задает[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype) . |
 | [TransactionAuthorizationNumber](../../aspose.finance.ofx/abstracttransactionrequest/transactionauthorizationnumber) { get; set; } | Получает или задает номер авторизации транзакции. |
 | [TransactionUniqueId](../../aspose.finance.ofx/abstracttransactionrequest/transactionuniqueid) { get; set; } | Получает или задает назначенный клиентом глобальный уникальный идентификатор для этой транзакции |
 

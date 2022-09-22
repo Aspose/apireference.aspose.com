@@ -1,14 +1,14 @@
 ---
 title: MedicalHealthPayment
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или устанавливает медицинские выплаты.
+description: Получает или устанавливает медицинские платежи.
 type: docs
 weight: 90
 url: /ru/net/aspose.finance.ofx.tax1099/tax1099misc_v100/medicalhealthpayment/
 ---
 ## Tax1099MISC_V100.MedicalHealthPayment property
 
-Получает или устанавливает медицинские выплаты.
+Получает или устанавливает медицинские платежи.
 
 ```csharp
 public string MedicalHealthPayment { get; set; }

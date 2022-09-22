@@ -3,7 +3,7 @@ title: ChallengeRequest
 second_title: Aspose.Finance for .NET API Reference
 description: Challenge request class. A challenge request is the first step in Type 1 application-level security. Essentially it asks for some random data from the server.The challenge response provides that server-generated random data and is the second step in Type 1 security.
 type: docs
-weight: 5260
+weight: 5290
 url: /net/aspose.finance.ofx.signon/challengerequest/
 ---
 ## ChallengeRequest class

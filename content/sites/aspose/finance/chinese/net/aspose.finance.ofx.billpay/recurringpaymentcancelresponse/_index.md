@@ -18,7 +18,7 @@ public class RecurringPaymentCancelResponse : AbstractRecurringPaymentResponse
 
 | 姓名 | 描述 |
 | --- | --- |
-| [RecurringPaymentCancelResponse](recurringpaymentcancelresponse)() | 初始化[`RecurringPaymentCancelResponse`](../recurringpaymentcancelresponse)类的新实例。 |
+| [RecurringPaymentCancelResponse](recurringpaymentcancelresponse)() | 初始化一个新的实例[`RecurringPaymentCancelResponse`](../recurringpaymentcancelresponse)类. |
 
 ## 特性
 

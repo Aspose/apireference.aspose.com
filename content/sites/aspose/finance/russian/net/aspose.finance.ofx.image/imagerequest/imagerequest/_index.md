@@ -1,14 +1,14 @@
 ---
 title: ImageRequest
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаImageRequestaspose.finance.ofx.image/imagerequest.
+description: Инициализирует новый экземплярImageRequestaspose.finance.ofx.image/imagerequest класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.image/imagerequest/imagerequest/
 ---
 ## ImageRequest constructor
 
-Инициализирует новый экземпляр класса[`ImageRequest`](../../imagerequest).
+Инициализирует новый экземпляр[`ImageRequest`](../../imagerequest) класс.
 
 ```csharp
 public ImageRequest()

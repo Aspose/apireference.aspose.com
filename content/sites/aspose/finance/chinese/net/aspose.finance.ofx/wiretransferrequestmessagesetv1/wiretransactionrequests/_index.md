@@ -1,14 +1,14 @@
 ---
 title: WireTransactionRequests
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置WireTransactionRequestaspose.finance.ofx.wiretransfer/wiretransactionrequest的集合
+description: 获取或设置的集合WireTransactionRequestaspose.finance.ofx.wiretransfer/wiretransactionrequest.
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.ofx/wiretransferrequestmessagesetv1/wiretransactionrequests/
 ---
 ## WireTransferRequestMessageSetV1.WireTransactionRequests property
 
-获取或设置[`WireTransactionRequest`](../../../aspose.finance.ofx.wiretransfer/wiretransactionrequest)的集合。
+获取或设置的集合[`WireTransactionRequest`](../../../aspose.finance.ofx.wiretransfer/wiretransactionrequest).
 
 ```csharp
 public List<WireTransactionRequest> WireTransactionRequests { get; set; }

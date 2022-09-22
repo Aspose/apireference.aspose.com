@@ -3,7 +3,7 @@ title: AbstractWireRequest
 second_title: Aspose.Finance for .NET API Reference
 description: Abstract base class for wire request related classes.
 type: docs
-weight: 6310
+weight: 6340
 url: /net/aspose.finance.ofx.wiretransfer/abstractwirerequest/
 ---
 ## AbstractWireRequest class

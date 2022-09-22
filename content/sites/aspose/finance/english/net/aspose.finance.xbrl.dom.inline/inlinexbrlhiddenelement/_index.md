@@ -3,7 +3,7 @@ title: InlineXbrlHiddenElement
 second_title: Aspose.Finance for .NET API Reference
 description: The class represents inline xbrl hidden element.
 type: docs
-weight: 7350
+weight: 7380
 url: /net/aspose.finance.xbrl.dom.inline/inlinexbrlhiddenelement/
 ---
 ## InlineXbrlHiddenElement class

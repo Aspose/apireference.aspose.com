@@ -18,16 +18,16 @@ public class OpenOrderSwitchMutualFund : AbstractOpenOrder
 
 | 姓名 | 描述 |
 | --- | --- |
-| [OpenOrderSwitchMutualFund](openorderswitchmutualfund)() | 初始化[`OpenOrderSwitchMutualFund`](../openorderswitchmutualfund)类的新实例。 |
+| [OpenOrderSwitchMutualFund](openorderswitchmutualfund)() | 初始化一个新的实例[`OpenOrderSwitchMutualFund`](../openorderswitchmutualfund)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [OpenOrder](../../aspose.finance.ofx.investment/abstractopenorder/openorder) { get; set; } | 获取或设置[`GeneralOpenOrder`](../generalopenorder)。 |
-| [SecurityId](../../aspose.finance.ofx.investment/openorderswitchmutualfund/securityid) { get; set; } | 获取或设置[`SecurityId`](./securityid)。 |
-| [SwitchAll](../../aspose.finance.ofx.investment/openorderswitchmutualfund/switchall) { get; set; } | 获取或设置是否切换整个保持。 |
-| [UnitType](../../aspose.finance.ofx.investment/openorderswitchmutualfund/unittype) { get; set; } | 获取或设置单位所代表的内容。 |
+| [OpenOrder](../../aspose.finance.ofx.investment/abstractopenorder/openorder) { get; set; } | 获取或设置[`GeneralOpenOrder`](../generalopenorder). |
+| [SecurityId](../../aspose.finance.ofx.investment/openorderswitchmutualfund/securityid) { get; set; } | 获取或设置[`SecurityId`](./securityid). |
+| [SwitchAll](../../aspose.finance.ofx.investment/openorderswitchmutualfund/switchall) { get; set; } | 获取或设置是否切换整个控股。 |
+| [UnitType](../../aspose.finance.ofx.investment/openorderswitchmutualfund/unittype) { get; set; } | 获取或设置单位表示的内容。 |
 
 ### 也可以看看
 

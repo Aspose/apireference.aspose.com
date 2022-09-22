@@ -3,7 +3,7 @@ title: ClosureOption
 second_title: Aspose.Finance for .NET API Reference
 description: Investment close a position for an option transaction class.
 type: docs
-weight: 2730
+weight: 2740
 url: /net/aspose.finance.ofx.investment/closureoption/
 ---
 ## ClosureOption class

@@ -19,9 +19,9 @@ public abstract class AbstractSyncRequest : AbstractRequest
 | 姓名 | 描述 |
 | --- | --- |
 | [Refresh](../../aspose.finance.ofx/abstractsyncrequest/refresh) { get; set; } | 获取或设置是否请求刷新当前状态。 |
-| [RejectIfMisssing](../../aspose.finance.ofx/abstractsyncrequest/rejectifmisssing) { get; set; } | 如果是，如果客户端令牌已过期，请不要处理请求。 |
+| [RejectIfMisssing](../../aspose.finance.ofx/abstractsyncrequest/rejectifmisssing) { get; set; } | 如果是，如果客户端令牌已过期，则不处理请求。 |
 | [Token](../../aspose.finance.ofx/abstractsyncrequest/token) { get; set; } | 获取或设置令牌。 |
-| [TokenOnly](../../aspose.finance.ofx/abstractsyncrequest/tokenonly) { get; set; } | 获取或设置是否只请求当前令牌而不请求历史。 |
+| [TokenOnly](../../aspose.finance.ofx/abstractsyncrequest/tokenonly) { get; set; } | 获取或设置是否只请求当前令牌而不请求历史记录。 |
 
 ### 也可以看看
 

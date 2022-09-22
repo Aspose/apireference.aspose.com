@@ -1,14 +1,14 @@
 ---
 title: VestInfos
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置VestInfoaspose.finance.ofx.investment/vestinfo的集合
+description: 获取或设置的集合VestInfoaspose.finance.ofx.investment/vestinfo.
 type: docs
 weight: 140
 url: /zh/net/aspose.finance.ofx.investment/investment401k/vestinfos/
 ---
 ## Investment401k.VestInfos property
 
-获取或设置[`VestInfo`](../../vestinfo)的集合。
+获取或设置的集合[`VestInfo`](../../vestinfo).
 
 ```csharp
 public List<VestInfo> VestInfos { get; set; }

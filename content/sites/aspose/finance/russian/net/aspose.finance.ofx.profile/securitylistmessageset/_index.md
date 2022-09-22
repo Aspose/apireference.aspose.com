@@ -18,13 +18,13 @@ public class SecurityListMessageSet : AbstractMessageSet
 
 | Имя | Описание |
 | --- | --- |
-| [SecurityListMessageSet](securitylistmessageset)() | Инициализирует новый экземпляр класса[`SecurityListMessageSet`](../securitylistmessageset). |
+| [SecurityListMessageSet](securitylistmessageset)() | Инициализирует новый экземпляр[`SecurityListMessageSet`](../securitylistmessageset) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [SecurityListMessageSetV1](../../aspose.finance.ofx.profile/securitylistmessageset/securitylistmessagesetv1) { get; set; } | Получает или задает[`SecurityListMessageSetV1`](./securitylistmessagesetv1). |
+| [SecurityListMessageSetV1](../../aspose.finance.ofx.profile/securitylistmessageset/securitylistmessagesetv1) { get; set; } | Получает или задает[`SecurityListMessageSetV1`](./securitylistmessagesetv1) . |
 
 ### Смотрите также
 

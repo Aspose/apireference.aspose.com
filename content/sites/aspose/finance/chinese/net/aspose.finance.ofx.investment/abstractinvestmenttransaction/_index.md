@@ -1,14 +1,14 @@
 ---
 title: AbstractInvestmentTransaction
 second_title: Aspose.Finance for .NET API 参考
-description: 投资交易不是买/卖相关类的抽象基类
+description: 投资交易非买/卖相关类的抽象基类
 type: docs
 weight: 2630
 url: /zh/net/aspose.finance.ofx.investment/abstractinvestmenttransaction/
 ---
 ## AbstractInvestmentTransaction class
 
-投资交易（不是买/卖）相关类的抽象基类。
+投资交易（非买/卖）相关类的抽象基类。
 
 ```csharp
 public class AbstractInvestmentTransaction : AbstractInvestmentTransactionBase
@@ -18,7 +18,7 @@ public class AbstractInvestmentTransaction : AbstractInvestmentTransactionBase
 
 | 姓名 | 描述 |
 | --- | --- |
-| [InvestmentTransaction](../../aspose.finance.ofx.investment/abstractinvestmenttransaction/investmenttransaction) { get; set; } | 获取或设置[`InvestmentTransaction`](./investmenttransaction)。 |
+| [InvestmentTransaction](../../aspose.finance.ofx.investment/abstractinvestmenttransaction/investmenttransaction) { get; set; } | 获取或设置[`InvestmentTransaction`](./investmenttransaction). |
 
 ### 也可以看看
 

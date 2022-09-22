@@ -1,14 +1,14 @@
 ---
 title: IntraSyncRequest
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化IntraSyncRequestaspose.finance.ofx.bank/intrasyncrequest类的新实例
+description: 初始化一个新的实例IntraSyncRequestaspose.finance.ofx.bank/intrasyncrequest类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.bank/intrasyncrequest/intrasyncrequest/
 ---
 ## IntraSyncRequest constructor
 
-初始化[`IntraSyncRequest`](../../intrasyncrequest)类的新实例。
+初始化一个新的实例[`IntraSyncRequest`](../../intrasyncrequest)类.
 
 ```csharp
 public IntraSyncRequest()

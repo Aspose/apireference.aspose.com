@@ -1,14 +1,14 @@
 ---
 title: ColumnDefinition
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化ColumnDefinitionaspose.finance.ofx.billerdelivery/columndefinition类的新实例
+description: 初始化一个新的实例ColumnDefinitionaspose.finance.ofx.billerdelivery/columndefinition类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.billerdelivery/columndefinition/columndefinition/
 ---
 ## ColumnDefinition constructor
 
-初始化[`ColumnDefinition`](../../columndefinition)类的新实例。
+初始化一个新的实例[`ColumnDefinition`](../../columndefinition)类.
 
 ```csharp
 public ColumnDefinition()

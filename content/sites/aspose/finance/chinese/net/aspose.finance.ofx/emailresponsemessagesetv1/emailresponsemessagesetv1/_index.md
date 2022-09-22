@@ -1,14 +1,14 @@
 ---
 title: EmailResponseMessageSetV1
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化EmailResponseMessageSetV1aspose.finance.ofx/emailresponsemessagesetv1类的新实例
+description: 初始化一个新的实例EmailResponseMessageSetV1aspose.finance.ofx/emailresponsemessagesetv1类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx/emailresponsemessagesetv1/emailresponsemessagesetv1/
 ---
 ## EmailResponseMessageSetV1 constructor
 
-初始化[`EmailResponseMessageSetV1`](../../emailresponsemessagesetv1)类的新实例。
+初始化一个新的实例[`EmailResponseMessageSetV1`](../../emailresponsemessagesetv1)类.
 
 ```csharp
 public EmailResponseMessageSetV1()

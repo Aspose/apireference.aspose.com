@@ -1,14 +1,14 @@
 ---
 title: AttachedFilesDirectory
 second_title: Aspose.Finance for .NET API 参考
-description: 附件将保存到的目录 仅用于保存到 html 流
+description: 附件要保存到的目录 仅用于保存到html流
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.xbrl/sechtmlreportsaveoption/attachedfilesdirectory/
 ---
 ## SecHtmlReportSaveOption.AttachedFilesDirectory property
 
-附件将保存到的目录。 仅用于保存到 html 流。
+附件要保存到的目录。 仅用于保存到html流。
 
 ```csharp
 public string AttachedFilesDirectory { get; set; }

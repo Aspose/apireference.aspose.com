@@ -18,20 +18,20 @@ public class ExtBankDescription
 
 | Имя | Описание |
 | --- | --- |
-| [ExtBankDescription](extbankdescription)() | Инициализирует новый экземпляр класса[`ExtBankDescription`](../extbankdescription). |
+| [ExtBankDescription](extbankdescription)() | Инициализирует новый экземпляр[`ExtBankDescription`](../extbankdescription) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
 | [Address1](../../aspose.finance.ofx.wiretransfer/extbankdescription/address1) { get; set; } | Получает или задает адресную строку банка 1. |
-| [Address2](../../aspose.finance.ofx.wiretransfer/extbankdescription/address2) { get; set; } | Получает или задает строку адреса банка 2. |
-| [Address3](../../aspose.finance.ofx.wiretransfer/extbankdescription/address3) { get; set; } | Получает или задает строку адреса банка 3. |
+| [Address2](../../aspose.finance.ofx.wiretransfer/extbankdescription/address2) { get; set; } | Получает или задает адресную строку банка 2. |
+| [Address3](../../aspose.finance.ofx.wiretransfer/extbankdescription/address3) { get; set; } | Получает или задает адресную строку банка 3. |
 | [BANKID](../../aspose.finance.ofx.wiretransfer/extbankdescription/bankid) { get; set; } | Получает или задает идентификатор банка. Маршрутизация: номер ABA или номер SWIFT. |
 | [City](../../aspose.finance.ofx.wiretransfer/extbankdescription/city) { get; set; } | Получает или задает город банка. |
 | [Country](../../aspose.finance.ofx.wiretransfer/extbankdescription/country) { get; set; } | Получает или задает трехбуквенный код страны банка из ISO/DIS-3166. |
 | [Name](../../aspose.finance.ofx.wiretransfer/extbankdescription/name) { get; set; } | Получает или задает сокращенное название банка. |
-| [Phone](../../aspose.finance.ofx.wiretransfer/extbankdescription/phone) { get; set; } | Получает или задает номер телефона банка. |
+| [Phone](../../aspose.finance.ofx.wiretransfer/extbankdescription/phone) { get; set; } | Получает или устанавливает номер телефона банка. |
 | [PostalCode](../../aspose.finance.ofx.wiretransfer/extbankdescription/postalcode) { get; set; } | Получает или задает почтовый индекс банка. |
 | [State](../../aspose.finance.ofx.wiretransfer/extbankdescription/state) { get; set; } | Получает или задает штат или провинцию банка. |
 

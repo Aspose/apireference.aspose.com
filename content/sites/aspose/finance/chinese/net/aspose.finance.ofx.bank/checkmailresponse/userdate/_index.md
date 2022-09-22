@@ -1,14 +1,14 @@
 ---
 title: UserDate
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置客户检查日期
+description: 获取或设置客户支票日期
 type: docs
 weight: 70
 url: /zh/net/aspose.finance.ofx.bank/checkmailresponse/userdate/
 ---
 ## CheckMailResponse.UserDate property
 
-获取或设置客户检查日期。
+获取或设置客户支票日期。
 
 ```csharp
 public string UserDate { get; set; }

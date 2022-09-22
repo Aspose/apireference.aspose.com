@@ -1,14 +1,14 @@
 ---
 title: LoanMailRequest
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задаетLoanMailRequestaspose.finance.ofx.loan/loanmailtransactionrequest/loanmailrequest.
+description: Получает или задаетLoanMailRequestaspose.finance.ofx.loan/loanmailtransactionrequest/loanmailrequest .
 type: docs
 weight: 20
 url: /ru/net/aspose.finance.ofx.loan/loanmailtransactionrequest/loanmailrequest/
 ---
 ## LoanMailTransactionRequest.LoanMailRequest property
 
-Получает или задает`LoanMailRequest`.
+Получает или задает`LoanMailRequest` .
 
 ```csharp
 public LoanMailRequest LoanMailRequest { get; set; }

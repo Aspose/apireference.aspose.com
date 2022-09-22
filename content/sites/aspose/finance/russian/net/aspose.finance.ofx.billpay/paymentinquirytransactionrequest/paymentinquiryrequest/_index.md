@@ -1,14 +1,14 @@
 ---
 title: PaymentInquiryRequest
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задаетPaymentInquiryRequestaspose.finance.ofx.billpay/paymentinquirytransactionrequest/paymentinquiryrequest.
+description: Получает или задаетPaymentInquiryRequestaspose.finance.ofx.billpay/paymentinquirytransactionrequest/paymentinquiryrequest .
 type: docs
 weight: 30
 url: /ru/net/aspose.finance.ofx.billpay/paymentinquirytransactionrequest/paymentinquiryrequest/
 ---
 ## PaymentInquiryTransactionRequest.PaymentInquiryRequest property
 
-Получает или задает`PaymentInquiryRequest`.
+Получает или задает`PaymentInquiryRequest` .
 
 ```csharp
 public PaymentInquiryRequest PaymentInquiryRequest { get; set; }

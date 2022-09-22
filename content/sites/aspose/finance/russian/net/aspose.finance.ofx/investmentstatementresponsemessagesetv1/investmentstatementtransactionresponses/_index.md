@@ -1,14 +1,14 @@
 ---
 title: InvestmentStatementTransactionResponses
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает коллекциюInvestmentStatementTransactionResponseaspose.finance.ofx.investment/investmentstatementtransactionresponse.
+description: Получает или задает коллекциюInvestmentStatementTransactionResponseaspose.finance.ofx.investment/investmentstatementtransactionresponse .
 type: docs
 weight: 50
 url: /ru/net/aspose.finance.ofx/investmentstatementresponsemessagesetv1/investmentstatementtransactionresponses/
 ---
 ## InvestmentStatementResponseMessageSetV1.InvestmentStatementTransactionResponses property
 
-Получает или задает коллекцию[`InvestmentStatementTransactionResponse`](../../../aspose.finance.ofx.investment/investmentstatementtransactionresponse).
+Получает или задает коллекцию[`InvestmentStatementTransactionResponse`](../../../aspose.finance.ofx.investment/investmentstatementtransactionresponse) .
 
 ```csharp
 public List<InvestmentStatementTransactionResponse> 

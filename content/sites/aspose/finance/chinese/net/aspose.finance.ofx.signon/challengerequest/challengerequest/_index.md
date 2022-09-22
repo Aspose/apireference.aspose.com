@@ -1,14 +1,14 @@
 ---
 title: ChallengeRequest
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化ChallengeRequestaspose.finance.ofx.signon/challengerequest类的新实例
+description: 初始化一个新的实例ChallengeRequestaspose.finance.ofx.signon/challengerequest类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.signon/challengerequest/challengerequest/
 ---
 ## ChallengeRequest constructor
 
-初始化[`ChallengeRequest`](../../challengerequest)类的新实例。
+初始化一个新的实例[`ChallengeRequest`](../../challengerequest)类.
 
 ```csharp
 public ChallengeRequest()

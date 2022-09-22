@@ -1,14 +1,14 @@
 ---
 title: DebtInfo
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化DebtInfoaspose.finance.ofx.securitieslist/debtinfo类的新实例
+description: 初始化一个新的实例DebtInfoaspose.finance.ofx.securitieslist/debtinfo类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.securitieslist/debtinfo/debtinfo/
 ---
 ## DebtInfo constructor
 
-初始化[`DebtInfo`](../../debtinfo)类的新实例。
+初始化一个新的实例[`DebtInfo`](../../debtinfo)类.
 
 ```csharp
 public DebtInfo()

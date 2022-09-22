@@ -1,14 +1,14 @@
 ---
 title: TransferProcessingStatus
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置TransferProcessingStatusaspose.finance.ofx.bank/intramodresponse/transferprocessingstatus
+description: 获取或设置TransferProcessingStatusaspose.finance.ofx.bank/intramodresponse/transferprocessingstatus.
 type: docs
 weight: 40
 url: /zh/net/aspose.finance.ofx.bank/intramodresponse/transferprocessingstatus/
 ---
 ## IntraModResponse.TransferProcessingStatus property
 
-获取或设置`TransferProcessingStatus`。
+获取或设置`TransferProcessingStatus`.
 
 ```csharp
 public TransferProcessingStatus TransferProcessingStatus { get; set; }

@@ -1,7 +1,7 @@
 ---
 title: Url
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает URL-адрес по которому должны отправляться сообщения из этого набора.
+description: Получает или задает URLадрес по которому должны отправляться сообщения из этого набора.
 type: docs
 weight: 110
 url: /ru/net/aspose.finance.ofx.profile/messagesetcore/url/

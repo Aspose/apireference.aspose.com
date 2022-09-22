@@ -1,14 +1,14 @@
 ---
 title: MailRequest
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化MailRequestaspose.finance.ofx.email/mailrequest类的新实例
+description: 初始化一个新的实例MailRequestaspose.finance.ofx.email/mailrequest类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.email/mailrequest/mailrequest/
 ---
 ## MailRequest constructor
 
-初始化[`MailRequest`](../../mailrequest)类的新实例。
+初始化一个新的实例[`MailRequest`](../../mailrequest)类.
 
 ```csharp
 public MailRequest()

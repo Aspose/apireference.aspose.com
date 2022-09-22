@@ -1,14 +1,14 @@
 ---
 title: Message
 second_title: Aspose.Finance for .NET API 参考
-description: 获取错误消息
+description: 获取错误信息
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.xbrl.validator/validationerror/message/
 ---
 ## ValidationError.Message property
 
-获取错误消息。
+获取错误信息。
 
 ```csharp
 public string Message { get; }

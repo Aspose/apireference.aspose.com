@@ -1,14 +1,14 @@
 ---
 title: BankMailTransactionRequests
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置BankMailTransactionRequestaspose.finance.ofx.bank/bankmailtransactionrequest的集合
+description: 获取或设置的集合BankMailTransactionRequestaspose.finance.ofx.bank/bankmailtransactionrequest.
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.ofx/bankrequestmessagesetv1/bankmailtransactionrequests/
 ---
 ## BankRequestMessageSetV1.BankMailTransactionRequests property
 
-获取或设置[`BankMailTransactionRequest`](../../../aspose.finance.ofx.bank/bankmailtransactionrequest)的集合。
+获取或设置的集合[`BankMailTransactionRequest`](../../../aspose.finance.ofx.bank/bankmailtransactionrequest).
 
 ```csharp
 public List<BankMailTransactionRequest> BankMailTransactionRequests { get; set; }

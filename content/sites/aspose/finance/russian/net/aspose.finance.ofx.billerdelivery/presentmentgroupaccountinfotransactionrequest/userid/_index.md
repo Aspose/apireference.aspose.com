@@ -1,14 +1,14 @@
 ---
 title: UserId
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает запрашиваемую информацию об учетной записи для указанного пользователя
+description: Получает или задает информацию об учетной записи для указанного пользователя
 type: docs
 weight: 50
 url: /ru/net/aspose.finance.ofx.billerdelivery/presentmentgroupaccountinfotransactionrequest/userid/
 ---
 ## PresentmentGroupAccountInfoTransactionRequest.UserId property
 
-Получает или задает запрашиваемую информацию об учетной записи для указанного пользователя
+Получает или задает информацию об учетной записи для указанного пользователя
 
 ```csharp
 public string UserId { get; set; }

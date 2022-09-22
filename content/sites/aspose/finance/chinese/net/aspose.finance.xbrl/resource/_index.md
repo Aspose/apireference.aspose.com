@@ -1,14 +1,14 @@
 ---
 title: Resource
 second_title: Aspose.Finance for .NET API 参考
-description: Xlink 的 Resource 类型的抽象基类
+description: Xlink 资源类型的抽象基类
 type: docs
 weight: 7960
 url: /zh/net/aspose.finance.xbrl/resource/
 ---
 ## Resource class
 
-Xlink 的 Resource 类型的抽象基类。
+Xlink 资源类型的抽象基类。
 
 ```csharp
 public abstract class Resource : Xlink
@@ -18,7 +18,7 @@ public abstract class Resource : Xlink
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Resource](resource)() | 初始化[`Resource`](../resource)类的新实例。 |
+| [Resource](resource)() | 初始化一个新的实例[`Resource`](../resource)类. |
 
 ## 特性
 

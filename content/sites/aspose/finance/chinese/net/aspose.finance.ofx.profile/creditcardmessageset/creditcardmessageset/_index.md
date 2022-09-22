@@ -1,14 +1,14 @@
 ---
 title: CreditcardMessageSet
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化CreditcardMessageSetaspose.finance.ofx.profile/creditcardmessageset类的新实例
+description: 初始化一个新的实例CreditcardMessageSetaspose.finance.ofx.profile/creditcardmessageset类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.profile/creditcardmessageset/creditcardmessageset/
 ---
 ## CreditcardMessageSet constructor
 
-初始化[`CreditcardMessageSet`](../../creditcardmessageset)类的新实例。
+初始化一个新的实例[`CreditcardMessageSet`](../../creditcardmessageset)类.
 
 ```csharp
 public CreditcardMessageSet()

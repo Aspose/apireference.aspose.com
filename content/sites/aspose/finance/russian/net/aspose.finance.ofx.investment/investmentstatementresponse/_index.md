@@ -18,7 +18,7 @@ public class InvestmentStatementResponse
 
 | Имя | Описание |
 | --- | --- |
-| [InvestmentStatementResponse](investmentstatementresponse)() | Инициализирует новый экземпляр класса[`InvestmentStatementResponse`](../investmentstatementresponse). |
+| [InvestmentStatementResponse](investmentstatementresponse)() | Инициализирует новый экземпляр[`InvestmentStatementResponse`](../investmentstatementresponse) класс. |
 
 ## Характеристики
 
@@ -26,13 +26,13 @@ public class InvestmentStatementResponse
 | --- | --- |
 | [Currency](../../aspose.finance.ofx.investment/investmentstatementresponse/currency) { get; set; } | Получает или задает валюту по умолчанию для выписки. |
 | [DateAsOf](../../aspose.finance.ofx.investment/investmentstatementresponse/dateasof) { get; set; } |  |
-| [Investment401k](../../aspose.finance.ofx.investment/investmentstatementresponse/investment401k) { get; set; } | Получает или задает[`Investment401k`](./investment401k). |
-| [Investment401kBalance](../../aspose.finance.ofx.investment/investmentstatementresponse/investment401kbalance) { get; set; } | Получает или задает[`Investment401kBalance`](./investment401kbalance). |
-| [InvestmentAccountFrom](../../aspose.finance.ofx.investment/investmentstatementresponse/investmentaccountfrom) { get; set; } | Получает или задает значение из[`InvestmentAccount`](../../aspose.finance.ofx/investmentaccount). |
-| [InvestmentBalance](../../aspose.finance.ofx.investment/investmentstatementresponse/investmentbalance) { get; set; } | Получает или задает[`InvestmentBalance`](./investmentbalance). |
-| [InvestmentOpenOrderList](../../aspose.finance.ofx.investment/investmentstatementresponse/investmentopenorderlist) { get; set; } | Получает или задает[`InvestmentOpenOrderList`](./investmentopenorderlist). |
-| [InvestmentPositionList](../../aspose.finance.ofx.investment/investmentstatementresponse/investmentpositionlist) { get; set; } | Получает или задает[`InvestmentPositionList`](./investmentpositionlist). |
-| [InvestmentTransactionList](../../aspose.finance.ofx.investment/investmentstatementresponse/investmenttransactionlist) { get; set; } | Получает или задает[`InvestmentTransactionList`](./investmenttransactionlist). |
+| [Investment401k](../../aspose.finance.ofx.investment/investmentstatementresponse/investment401k) { get; set; } | Получает или задает[`Investment401k`](./investment401k) . |
+| [Investment401kBalance](../../aspose.finance.ofx.investment/investmentstatementresponse/investment401kbalance) { get; set; } | Получает или задает[`Investment401kBalance`](./investment401kbalance) . |
+| [InvestmentAccountFrom](../../aspose.finance.ofx.investment/investmentstatementresponse/investmentaccountfrom) { get; set; } | Получает или задает из[`InvestmentAccount`](../../aspose.finance.ofx/investmentaccount) . |
+| [InvestmentBalance](../../aspose.finance.ofx.investment/investmentstatementresponse/investmentbalance) { get; set; } | Получает или задает[`InvestmentBalance`](./investmentbalance) . |
+| [InvestmentOpenOrderList](../../aspose.finance.ofx.investment/investmentstatementresponse/investmentopenorderlist) { get; set; } | Получает или задает[`InvestmentOpenOrderList`](./investmentopenorderlist) . |
+| [InvestmentPositionList](../../aspose.finance.ofx.investment/investmentstatementresponse/investmentpositionlist) { get; set; } | Получает или задает[`InvestmentPositionList`](./investmentpositionlist) . |
+| [InvestmentTransactionList](../../aspose.finance.ofx.investment/investmentstatementresponse/investmenttransactionlist) { get; set; } | Получает или задает[`InvestmentTransactionList`](./investmenttransactionlist) . |
 | [MarketingInformation](../../aspose.finance.ofx.investment/investmentstatementresponse/marketinginformation) { get; set; } | Получает или задает маркетинговую информацию, |
 
 ### Смотрите также

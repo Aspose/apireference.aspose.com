@@ -1,14 +1,14 @@
 ---
 title: AccountTransactionResponses
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает коллекциюAccountTransactionResponseaspose.finance.ofx.signup/accounttransactionresponse.
+description: Получает или задает коллекциюAccountTransactionResponseaspose.finance.ofx.signup/accounttransactionresponse .
 type: docs
 weight: 40
 url: /ru/net/aspose.finance.ofx/signupresponsemessagesetv1/accounttransactionresponses/
 ---
 ## SignupResponseMessageSetV1.AccountTransactionResponses property
 
-Получает или задает коллекцию[`AccountTransactionResponse`](../../../aspose.finance.ofx.signup/accounttransactionresponse).
+Получает или задает коллекцию[`AccountTransactionResponse`](../../../aspose.finance.ofx.signup/accounttransactionresponse) .
 
 ```csharp
 public List<AccountTransactionResponse> AccountTransactionResponses { get; set; }

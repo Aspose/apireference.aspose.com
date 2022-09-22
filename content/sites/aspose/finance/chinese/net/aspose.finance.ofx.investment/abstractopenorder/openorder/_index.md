@@ -1,14 +1,14 @@
 ---
 title: OpenOrder
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置GeneralOpenOrderaspose.finance.ofx.investment/generalopenorder
+description: 获取或设置GeneralOpenOrderaspose.finance.ofx.investment/generalopenorder.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.investment/abstractopenorder/openorder/
 ---
 ## AbstractOpenOrder.OpenOrder property
 
-获取或设置[`GeneralOpenOrder`](../../generalopenorder)。
+获取或设置[`GeneralOpenOrder`](../../generalopenorder).
 
 ```csharp
 public GeneralOpenOrder OpenOrder { get; set; }

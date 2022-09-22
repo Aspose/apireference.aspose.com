@@ -1,14 +1,14 @@
 ---
 title: Relationships
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает коллекциюInlineRelationshipaspose.finance.xbrl.inline/inlinerelationshipво встроенном документе XBRL.
+description: Получает коллекциюInlineRelationshipaspose.finance.xbrl.inline/inlinerelationship во встроенном документе XBRL.
 type: docs
 weight: 80
 url: /ru/net/aspose.finance.xbrl.inline/inlinexbrldocument/relationships/
 ---
 ## InlineXbrlDocument.Relationships property
 
-Получает коллекцию[`InlineRelationship`](../../inlinerelationship)во встроенном документе XBRL.
+Получает коллекцию[`InlineRelationship`](../../inlinerelationship) во встроенном документе XBRL.
 
 ```csharp
 public List<InlineRelationship> Relationships { get; }

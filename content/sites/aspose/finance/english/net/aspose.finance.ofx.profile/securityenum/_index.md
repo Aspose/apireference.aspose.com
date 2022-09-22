@@ -3,7 +3,7 @@ title: SecurityEnum
 second_title: Aspose.Finance for .NET API Reference
 description: Security level enum.
 type: docs
-weight: 4740
+weight: 4760
 url: /net/aspose.finance.ofx.profile/securityenum/
 ---
 ## SecurityEnum enumeration

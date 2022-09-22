@@ -18,16 +18,16 @@ public class GetMimeTransactionResponse : AbstractTransactionResponse
 
 | 姓名 | 描述 |
 | --- | --- |
-| [GetMimeTransactionResponse](getmimetransactionresponse)() | 初始化[`GetMimeTransactionResponse`](../getmimetransactionresponse)类的新实例。 |
+| [GetMimeTransactionResponse](getmimetransactionresponse)() | 初始化一个新的实例[`GetMimeTransactionResponse`](../getmimetransactionresponse)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
 | [ClientCookie](../../aspose.finance.ofx/abstracttransactionresponse/clientcookie) { get; set; } | 获取或设置要在事务响应中回显的数据 |
-| [GetMimeResponse](../../aspose.finance.ofx.email/getmimetransactionresponse/getmimeresponse) { get; set; } | 获取或设置[`GetMimeResponse`](./getmimeresponse)。 |
-| [OfxExtension](../../aspose.finance.ofx.email/getmimetransactionresponse/ofxextension) { get; set; } | 获取或设置[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype)。 |
-| [Status](../../aspose.finance.ofx/abstracttransactionresponse/status) { get; set; } | 获取或设置[`Status`](../../aspose.finance.ofx/abstracttransactionresponse/status)。 |
+| [GetMimeResponse](../../aspose.finance.ofx.email/getmimetransactionresponse/getmimeresponse) { get; set; } | 获取或设置[`GetMimeResponse`](./getmimeresponse). |
+| [OfxExtension](../../aspose.finance.ofx.email/getmimetransactionresponse/ofxextension) { get; set; } | 获取或设置[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
+| [Status](../../aspose.finance.ofx/abstracttransactionresponse/status) { get; set; } | 获取或设置[`Status`](../../aspose.finance.ofx/abstracttransactionresponse/status). |
 | [TransactionUniqueId](../../aspose.finance.ofx/abstracttransactionresponse/transactionuniqueid) { get; set; } | 获取或设置此事务的客户端分配的全局唯一 ID。 |
 
 ### 也可以看看

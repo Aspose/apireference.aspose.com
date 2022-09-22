@@ -1,14 +1,14 @@
 ---
 title: PrincipalBalance
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задаетPrincipalBalanceTypeaspose.finance.ofx/principalbalancetype.
+description: Получает или задаетPrincipalBalanceTypeaspose.finance.ofx/principalbalancetype .
 type: docs
 weight: 70
 url: /ru/net/aspose.finance.ofx.loan/amortizationtransaction/principalbalance/
 ---
 ## AmortizationTransaction.PrincipalBalance property
 
-Получает или задает[`PrincipalBalanceType`](../../../aspose.finance.ofx/principalbalancetype).
+Получает или задает[`PrincipalBalanceType`](../../../aspose.finance.ofx/principalbalancetype) .
 
 ```csharp
 public PrincipalBalanceType PrincipalBalance { get; set; }

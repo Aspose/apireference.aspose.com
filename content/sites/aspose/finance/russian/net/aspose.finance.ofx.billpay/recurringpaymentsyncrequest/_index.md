@@ -1,14 +1,14 @@
 ---
 title: RecurringPaymentSyncRequest
 second_title: Справочник по API Aspose.Finance для .NET
-description: Класс запроса синхронизации регулярных платежей.
+description: Класс запросов на синхронизацию периодических платежей.
 type: docs
 weight: 1340
 url: /ru/net/aspose.finance.ofx.billpay/recurringpaymentsyncrequest/
 ---
 ## RecurringPaymentSyncRequest class
 
-Класс запроса синхронизации регулярных платежей.
+Класс запросов на синхронизацию периодических платежей.
 
 ```csharp
 public class RecurringPaymentSyncRequest : AbstractSyncRequest
@@ -18,16 +18,16 @@ public class RecurringPaymentSyncRequest : AbstractSyncRequest
 
 | Имя | Описание |
 | --- | --- |
-| [RecurringPaymentSyncRequest](recurringpaymentsyncrequest)() | Инициализирует новый экземпляр класса[`RecurringPaymentSyncRequest`](../recurringpaymentsyncrequest). |
+| [RecurringPaymentSyncRequest](recurringpaymentsyncrequest)() | Инициализирует новый экземпляр[`RecurringPaymentSyncRequest`](../recurringpaymentsyncrequest) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [BankAccountFrom](../../aspose.finance.ofx.billpay/recurringpaymentsyncrequest/bankaccountfrom) { get; set; } | Получает или задает значение из[`BankAccount`](../../aspose.finance.ofx/bankaccount). |
-| [OfxExtension](../../aspose.finance.ofx.billpay/recurringpaymentsyncrequest/ofxextension) { get; set; } | Получает или задает[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
-| [RecurringPaymentTransactionRequests](../../aspose.finance.ofx.billpay/recurringpaymentsyncrequest/recurringpaymenttransactionrequests) { get; set; } | Получает или задает коллекцию[`RecurringPaymentTransactionRequest`](../recurringpaymenttransactionrequest). |
-| [Refresh](../../aspose.finance.ofx/abstractsyncrequest/refresh) { get; set; } | Получает или задает запрос на обновление текущего состояния. |
+| [BankAccountFrom](../../aspose.finance.ofx.billpay/recurringpaymentsyncrequest/bankaccountfrom) { get; set; } | Получает или задает из[`BankAccount`](../../aspose.finance.ofx/bankaccount) . |
+| [OfxExtension](../../aspose.finance.ofx.billpay/recurringpaymentsyncrequest/ofxextension) { get; set; } | Получает или задает[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype) . |
+| [RecurringPaymentTransactionRequests](../../aspose.finance.ofx.billpay/recurringpaymentsyncrequest/recurringpaymenttransactionrequests) { get; set; } | Получает или задает коллекцию[`RecurringPaymentTransactionRequest`](../recurringpaymenttransactionrequest) . |
+| [Refresh](../../aspose.finance.ofx/abstractsyncrequest/refresh) { get; set; } | Получает или устанавливает запрос на обновление текущего состояния. |
 | [RejectIfMisssing](../../aspose.finance.ofx/abstractsyncrequest/rejectifmisssing) { get; set; } | Если да, не обрабатывать запросы, если токен клиента устарел. |
 | [Token](../../aspose.finance.ofx/abstractsyncrequest/token) { get; set; } | Получает или задает токен. |
 | [TokenOnly](../../aspose.finance.ofx/abstractsyncrequest/tokenonly) { get; set; } | Получает или задает, запрашивать ли только текущий токен без истории. |

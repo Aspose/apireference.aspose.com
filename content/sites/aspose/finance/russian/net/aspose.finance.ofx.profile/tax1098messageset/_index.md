@@ -18,13 +18,13 @@ public class Tax1098MessageSet : AbstractMessageSet
 
 | Имя | Описание |
 | --- | --- |
-| [Tax1098MessageSet](tax1098messageset)() | Инициализирует новый экземпляр класса[`Tax1098MessageSet`](../tax1098messageset). |
+| [Tax1098MessageSet](tax1098messageset)() | Инициализирует новый экземпляр[`Tax1098MessageSet`](../tax1098messageset) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [Tax1098MessageSetV1](../../aspose.finance.ofx.profile/tax1098messageset/tax1098messagesetv1) { get; set; } | Получает или задает[`Tax1098MessageSetV1`](./tax1098messagesetv1). |
+| [Tax1098MessageSetV1](../../aspose.finance.ofx.profile/tax1098messageset/tax1098messagesetv1) { get; set; } | Получает или задает[`Tax1098MessageSetV1`](./tax1098messagesetv1) . |
 
 ### Смотрите также
 

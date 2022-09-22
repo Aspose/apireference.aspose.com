@@ -1,14 +1,14 @@
 ---
 title: OfxSecurity
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает уровень безопасности необходимый для данного набора сообщений.
+description: Получает или задает уровень безопасности необходимый для этого набора сообщений.
 type: docs
 weight: 40
 url: /ru/net/aspose.finance.ofx.profile/messagesetcore/ofxsecurity/
 ---
 ## MessageSetCore.OfxSecurity property
 
-Получает или задает уровень безопасности, необходимый для данного набора сообщений.
+Получает или задает уровень безопасности, необходимый для этого набора сообщений.
 
 ```csharp
 public SecurityEnum OfxSecurity { get; set; }

@@ -18,7 +18,7 @@ public class Tax1098Request
 
 | Имя | Описание |
 | --- | --- |
-| [Tax1098Request](tax1098request)() | Инициализирует новый экземпляр класса[`Tax1098Request`](../tax1098request). |
+| [Tax1098Request](tax1098request)() | Инициализирует новый экземпляр[`Tax1098Request`](../tax1098request) класс. |
 
 ## Характеристики
 
@@ -26,7 +26,7 @@ public class Tax1098Request
 | --- | --- |
 | [AccountNumber](../../aspose.finance.ofx.tax1098/tax1098request/accountnumber) { get; set; } | Получает или задает номер счета заемщика, если он отличается от SSN. |
 | [SSN](../../aspose.finance.ofx.tax1098/tax1098request/ssn) { get; set; } | Получает или задает номер социального страхования заемщика. |
-| [TaxYears](../../aspose.finance.ofx.tax1098/tax1098request/taxyears) { get; set; } | Получает или задает налоговый год запрашиваемых форм. |
+| [TaxYears](../../aspose.finance.ofx.tax1098/tax1098request/taxyears) { get; set; } | Получает или задает налоговый год запрошенных форм. |
 
 ### Смотрите также
 

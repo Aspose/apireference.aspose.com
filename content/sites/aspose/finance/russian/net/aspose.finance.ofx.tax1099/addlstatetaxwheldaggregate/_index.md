@@ -18,13 +18,13 @@ public class AddlStateTaxWheldAggregate
 
 | Имя | Описание |
 | --- | --- |
-| [AddlStateTaxWheldAggregate](addlstatetaxwheldaggregate)() | Инициализирует новый экземпляр класса[`AddlStateTaxWheldAggregate`](../addlstatetaxwheldaggregate). |
+| [AddlStateTaxWheldAggregate](addlstatetaxwheldaggregate)() | Инициализирует новый экземпляр[`AddlStateTaxWheldAggregate`](../addlstatetaxwheldaggregate) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [StateCode](../../aspose.finance.ofx.tax1099/addlstatetaxwheldaggregate/statecode) { get; set; } | Получает или задает код штата плательщика. |
+| [StateCode](../../aspose.finance.ofx.tax1099/addlstatetaxwheldaggregate/statecode) { get; set; } | Получает или задает код состояния плательщика. |
 | [StateIdNumber](../../aspose.finance.ofx.tax1099/addlstatetaxwheldaggregate/stateidnumber) { get; set; } | Получает или задает идентификационный номер штата плательщика. |
 | [StateTaxWithheld](../../aspose.finance.ofx.tax1099/addlstatetaxwheldaggregate/statetaxwithheld) { get; set; } | Получает или задает удержанный подоходный налог штата. |
 

@@ -1,14 +1,14 @@
 ---
 title: BalanceList
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置Balanceaspose.finance.ofx/balance的集合
+description: 获取或设置的集合Balanceaspose.finance.ofx/balance.
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.ofx.loan/loanclosing/balancelist/
 ---
 ## LoanClosing.BalanceList property
 
-获取或设置[`Balance`](../../../aspose.finance.ofx/balance)的集合。
+获取或设置的集合[`Balance`](../../../aspose.finance.ofx/balance).
 
 ```csharp
 public List<Balance> BalanceList { get; set; }

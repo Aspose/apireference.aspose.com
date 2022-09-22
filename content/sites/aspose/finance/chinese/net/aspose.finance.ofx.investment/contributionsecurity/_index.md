@@ -18,16 +18,16 @@ public class ContributionSecurity
 
 | 姓名 | 描述 |
 | --- | --- |
-| [ContributionSecurity](contributionsecurity)() | 初始化[`ContributionSecurity`](../contributionsecurity)类的新实例。 |
+| [ContributionSecurity](contributionsecurity)() | 初始化一个新的实例[`ContributionSecurity`](../contributionsecurity)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [ContributionAmts](../../aspose.finance.ofx.investment/contributionsecurity/contributionamts) { get; set; } | 获取或设置[`ContributionAmt`](../contributionamt)的集合。 |
-| [ContributionPcts](../../aspose.finance.ofx.investment/contributionsecurity/contributionpcts) { get; set; } | 获取或设置[`ContributionPct`](../contributionpct)的集合。 |
-| [ContributionType](../../aspose.finance.ofx.investment/contributionsecurity/contributiontype) { get; set; } | 获取或设置当前贡献分配为百分比或金额。 |
-| [SecurityId](../../aspose.finance.ofx.investment/contributionsecurity/securityid) { get; set; } | 获取或设置[`SecurityId`](./securityid)。 |
+| [ContributionAmts](../../aspose.finance.ofx.investment/contributionsecurity/contributionamts) { get; set; } | 获取或设置的集合[`ContributionAmt`](../contributionamt). |
+| [ContributionPcts](../../aspose.finance.ofx.investment/contributionsecurity/contributionpcts) { get; set; } | 获取或设置的集合[`ContributionPct`](../contributionpct). |
+| [ContributionType](../../aspose.finance.ofx.investment/contributionsecurity/contributiontype) { get; set; } | 获取或设置当前贡献分配是百分比或金额。 |
+| [SecurityId](../../aspose.finance.ofx.investment/contributionsecurity/securityid) { get; set; } | 获取或设置[`SecurityId`](./securityid). |
 
 ### 也可以看看
 

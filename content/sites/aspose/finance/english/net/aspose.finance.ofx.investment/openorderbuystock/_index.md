@@ -3,7 +3,7 @@ title: OpenOrderBuyStock
 second_title: Aspose.Finance for .NET API Reference
 description: Open order buy stock class.
 type: docs
-weight: 3260
+weight: 3270
 url: /net/aspose.finance.ofx.investment/openorderbuystock/
 ---
 ## OpenOrderBuyStock class

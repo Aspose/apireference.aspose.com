@@ -1,14 +1,14 @@
 ---
 title: OptionTypeEnum
 second_title: Справочник по API Aspose.Finance для .NET
-description: Тип параметра enum.
+description: Тип опции enum.
 type: docs
 weight: 5100
 url: /ru/net/aspose.finance.ofx.securitieslist/optiontypeenum/
 ---
 ## OptionTypeEnum enumeration
 
-Тип параметра enum.
+Тип опции enum.
 
 ```csharp
 public enum OptionTypeEnum
@@ -18,8 +18,8 @@ public enum OptionTypeEnum
 
 | Имя | Ценность | Описание |
 | --- | --- | --- |
-| CALL | `0` | Позвонить |
-| PUT | `1` | Ставь |
+| CALL | `0` | Вызов |
+| PUT | `1` | Поставить |
 
 ### Смотрите также
 

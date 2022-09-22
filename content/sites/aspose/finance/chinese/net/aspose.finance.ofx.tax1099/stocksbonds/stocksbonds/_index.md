@@ -1,14 +1,14 @@
 ---
 title: StocksBonds
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化StocksBondsaspose.finance.ofx.tax1099/stocksbonds类的新实例
+description: 初始化一个新的实例StocksBondsaspose.finance.ofx.tax1099/stocksbonds类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.tax1099/stocksbonds/stocksbonds/
 ---
 ## StocksBonds constructor
 
-初始化[`StocksBonds`](../../stocksbonds)类的新实例。
+初始化一个新的实例[`StocksBonds`](../../stocksbonds)类.
 
 ```csharp
 public StocksBonds()

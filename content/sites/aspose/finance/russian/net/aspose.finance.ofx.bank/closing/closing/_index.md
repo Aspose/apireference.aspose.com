@@ -1,14 +1,14 @@
 ---
 title: Closing
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаClosingaspose.finance.ofx.bank/closing.
+description: Инициализирует новый экземплярClosingaspose.finance.ofx.bank/closing класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.bank/closing/closing/
 ---
 ## Closing constructor
 
-Инициализирует новый экземпляр класса[`Closing`](../../closing).
+Инициализирует новый экземпляр[`Closing`](../../closing) класс.
 
 ```csharp
 public Closing()

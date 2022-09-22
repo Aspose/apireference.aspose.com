@@ -1,14 +1,14 @@
 ---
 title: Continuations
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает коллекциюInlineContinuationaspose.finance.xbrl.inline/inlinecontinuationво встроенном документе XBRL.
+description: Получает коллекциюInlineContinuationaspose.finance.xbrl.inline/inlinecontinuation во встроенном документе XBRL.
 type: docs
 weight: 40
 url: /ru/net/aspose.finance.xbrl.inline/inlinexbrldocument/continuations/
 ---
 ## InlineXbrlDocument.Continuations property
 
-Получает коллекцию[`InlineContinuation`](../../inlinecontinuation)во встроенном документе XBRL.
+Получает коллекцию[`InlineContinuation`](../../inlinecontinuation) во встроенном документе XBRL.
 
 ```csharp
 public List<InlineContinuation> Continuations { get; }

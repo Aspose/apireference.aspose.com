@@ -1,14 +1,14 @@
 ---
 title: InvestmentMailTransactionRequests
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置InvestmentMailTransactionRequestaspose.finance.ofx.investment/investmentmailtransactionrequest的集合
+description: 获取或设置的集合InvestmentMailTransactionRequestaspose.finance.ofx.investment/investmentmailtransactionrequest.
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.ofx/investmentstatementrequestmessagesetv1/investmentmailtransactionrequests/
 ---
 ## InvestmentStatementRequestMessageSetV1.InvestmentMailTransactionRequests property
 
-获取或设置[`InvestmentMailTransactionRequest`](../../../aspose.finance.ofx.investment/investmentmailtransactionrequest)的集合。
+获取或设置的集合[`InvestmentMailTransactionRequest`](../../../aspose.finance.ofx.investment/investmentmailtransactionrequest).
 
 ```csharp
 public List<InvestmentMailTransactionRequest> InvestmentMailTransactionRequests { get; set; }

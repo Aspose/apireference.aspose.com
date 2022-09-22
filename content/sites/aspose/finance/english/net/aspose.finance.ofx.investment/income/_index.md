@@ -3,7 +3,7 @@ title: Income
 second_title: Aspose.Finance for .NET API Reference
 description: Investment income class.
 type: docs
-weight: 2870
+weight: 2880
 url: /net/aspose.finance.ofx.investment/income/
 ---
 ## Income class

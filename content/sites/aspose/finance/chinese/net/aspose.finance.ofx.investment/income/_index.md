@@ -18,18 +18,18 @@ public class Income : AbstractInvestmentTransaction
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Income](income)() | 初始化[`Income`](../income)类的新实例。 |
+| [Income](income)() | 初始化一个新的实例[`Income`](../income)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Currency](../../aspose.finance.ofx.investment/income/currency) { get; set; } | 获取或设置[`Currency`](./currency)。 |
-| [IncomeType](../../aspose.finance.ofx.investment/income/incometype) { get; set; } | 获取或设置投资收益类型。 |
-| [Investment401kSource](../../aspose.finance.ofx.investment/income/investment401ksource) { get; set; } | 获取或设置此交易的资金来源。 |
-| [InvestmentTransaction](../../aspose.finance.ofx.investment/abstractinvestmenttransaction/investmenttransaction) { get; set; } | 获取或设置[`InvestmentTransaction`](../abstractinvestmenttransaction/investmenttransaction)。 |
-| [OriginCurrency](../../aspose.finance.ofx.investment/income/origincurrency) { get; set; } | 获取或设置原点[`Currency`](./currency)。 |
-| [SecurityId](../../aspose.finance.ofx.investment/income/securityid) { get; set; } | 获取或设置[`SecurityId`](./securityid)。 |
+| [Currency](../../aspose.finance.ofx.investment/income/currency) { get; set; } | 获取或设置[`Currency`](./currency). |
+| [IncomeType](../../aspose.finance.ofx.investment/income/incometype) { get; set; } | 获取或设置投资收益的类型。 |
+| [Investment401kSource](../../aspose.finance.ofx.investment/income/investment401ksource) { get; set; } | 获取或设置本次交易的资金来源。 |
+| [InvestmentTransaction](../../aspose.finance.ofx.investment/abstractinvestmenttransaction/investmenttransaction) { get; set; } | 获取或设置[`InvestmentTransaction`](../abstractinvestmenttransaction/investmenttransaction). |
+| [OriginCurrency](../../aspose.finance.ofx.investment/income/origincurrency) { get; set; } | 获取或设置原点[`Currency`](./currency). |
+| [SecurityId](../../aspose.finance.ofx.investment/income/securityid) { get; set; } | 获取或设置[`SecurityId`](./securityid). |
 | [SubAccountFund](../../aspose.finance.ofx.investment/income/subaccountfund) { get; set; } | 获取或设置交易的钱从哪里来或去哪里。 |
 | [SubAccountSecurity](../../aspose.finance.ofx.investment/income/subaccountsecurity) { get; set; } | 获取或设置证券的子账户类型。 |
 | [TaxExempt](../../aspose.finance.ofx.investment/income/taxexempt) { get; set; } | 获取或设置是否为免税交易。 |

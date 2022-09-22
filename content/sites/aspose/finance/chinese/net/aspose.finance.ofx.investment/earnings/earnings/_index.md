@@ -1,14 +1,14 @@
 ---
 title: Earnings
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化Earningsaspose.finance.ofx.investment/earnings类的新实例
+description: 初始化一个新的实例Earningsaspose.finance.ofx.investment/earnings类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.investment/earnings/earnings/
 ---
 ## Earnings constructor
 
-初始化[`Earnings`](../../earnings)类的新实例。
+初始化一个新的实例[`Earnings`](../../earnings)类.
 
 ```csharp
 public Earnings()

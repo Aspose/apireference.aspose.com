@@ -1,14 +1,14 @@
 ---
 title: StartDate
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает начальную дату возврата счетов.
+description: Получает или задает дату начала возврата счетов.
 type: docs
 weight: 60
 url: /ru/net/aspose.finance.ofx.billerdelivery/presentmentlistresponse/startdate/
 ---
 ## PresentmentListResponse.StartDate property
 
-Получает или задает начальную дату возврата счетов.
+Получает или задает дату начала возврата счетов.
 
 ```csharp
 public string StartDate { get; set; }

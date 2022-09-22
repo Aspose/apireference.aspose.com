@@ -1,14 +1,14 @@
 ---
 title: RecurringInterRequest
 second_title: Aspose.Finance for .NET API 参考
-description: 定期银行间转账请求类
+description: 定期跨行转账请求类
 type: docs
 weight: 2530
 url: /zh/net/aspose.finance.ofx.intertransfer/recurringinterrequest/
 ---
 ## RecurringInterRequest class
 
-定期银行间转账请求类。
+定期跨行转账请求类。
 
 ```csharp
 public class RecurringInterRequest : AbstractRecurringInterRequest
@@ -18,14 +18,14 @@ public class RecurringInterRequest : AbstractRecurringInterRequest
 
 | 姓名 | 描述 |
 | --- | --- |
-| [RecurringInterRequest](recurringinterrequest)() | 初始化[`RecurringInterRequest`](../recurringinterrequest)类的新实例。 |
+| [RecurringInterRequest](recurringinterrequest)() | 初始化一个新的实例[`RecurringInterRequest`](../recurringinterrequest)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [InterRequest](../../aspose.finance.ofx.intertransfer/recurringinterrequest/interrequest) { get; set; } | 获取或设置[`InterRequest`](./interrequest)。 |
-| [RecurringInstructions](../../aspose.finance.ofx.intertransfer/recurringinterrequest/recurringinstructions) { get; set; } | 获取或设置[`RecurringInstructions`](./recurringinstructions)。 |
+| [InterRequest](../../aspose.finance.ofx.intertransfer/recurringinterrequest/interrequest) { get; set; } | 获取或设置[`InterRequest`](./interrequest). |
+| [RecurringInstructions](../../aspose.finance.ofx.intertransfer/recurringinterrequest/recurringinstructions) { get; set; } | 获取或设置[`RecurringInstructions`](./recurringinstructions). |
 
 ### 也可以看看
 

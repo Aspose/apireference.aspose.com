@@ -1,14 +1,14 @@
 ---
 title: StatementEndTransactionRequests
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает коллекциюStatementEndTransactionRequestaspose.finance.ofx.bank/statementendtransactionrequest.
+description: Получает или задает коллекциюStatementEndTransactionRequestaspose.finance.ofx.bank/statementendtransactionrequest .
 type: docs
 weight: 80
 url: /ru/net/aspose.finance.ofx/bankrequestmessagesetv1/statementendtransactionrequests/
 ---
 ## BankRequestMessageSetV1.StatementEndTransactionRequests property
 
-Получает или задает коллекцию[`StatementEndTransactionRequest`](../../../aspose.finance.ofx.bank/statementendtransactionrequest).
+Получает или задает коллекцию[`StatementEndTransactionRequest`](../../../aspose.finance.ofx.bank/statementendtransactionrequest) .
 
 ```csharp
 public List<StatementEndTransactionRequest> StatementEndTransactionRequests { get; set; }

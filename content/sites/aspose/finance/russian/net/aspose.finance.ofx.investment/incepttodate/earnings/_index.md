@@ -1,14 +1,14 @@
 ---
 title: Earnings
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задаетEarningsaspose.finance.ofx.investment/incepttodate/earnings.
+description: Получает или задаетEarningsaspose.finance.ofx.investment/incepttodate/earnings .
 type: docs
 weight: 30
 url: /ru/net/aspose.finance.ofx.investment/incepttodate/earnings/
 ---
 ## InceptToDate.Earnings property
 
-Получает или задает`Earnings`.
+Получает или задает`Earnings` .
 
 ```csharp
 public Earnings Earnings { get; set; }

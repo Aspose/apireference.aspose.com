@@ -3,7 +3,7 @@ title: StockInfo
 second_title: Aspose.Finance for .NET API Reference
 description: Stock information class.
 type: docs
-weight: 5190
+weight: 5220
 url: /net/aspose.finance.ofx.securitieslist/stockinfo/
 ---
 ## StockInfo class

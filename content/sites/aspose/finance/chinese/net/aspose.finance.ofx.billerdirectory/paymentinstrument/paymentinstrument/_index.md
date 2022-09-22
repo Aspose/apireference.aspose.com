@@ -1,14 +1,14 @@
 ---
 title: PaymentInstrument
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化PaymentInstrumentaspose.finance.ofx.billerdirectory/paymentinstrument类的新实例
+description: 初始化一个新的实例PaymentInstrumentaspose.finance.ofx.billerdirectory/paymentinstrument类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.billerdirectory/paymentinstrument/paymentinstrument/
 ---
 ## PaymentInstrument constructor
 
-初始化[`PaymentInstrument`](../../paymentinstrument)类的新实例。
+初始化一个新的实例[`PaymentInstrument`](../../paymentinstrument)类.
 
 ```csharp
 public PaymentInstrument()

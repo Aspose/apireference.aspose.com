@@ -18,13 +18,13 @@ public class WireTransferMessageSet : AbstractMessageSet
 
 | 姓名 | 描述 |
 | --- | --- |
-| [WireTransferMessageSet](wiretransfermessageset)() | 初始化[`WireTransferMessageSet`](../wiretransfermessageset)类的新实例。 |
+| [WireTransferMessageSet](wiretransfermessageset)() | 初始化一个新的实例[`WireTransferMessageSet`](../wiretransfermessageset)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [WireTransferMessageSetV1](../../aspose.finance.ofx.profile/wiretransfermessageset/wiretransfermessagesetv1) { get; set; } | 获取或设置[`WireTransferMessageSetV1`](./wiretransfermessagesetv1)。 |
+| [WireTransferMessageSetV1](../../aspose.finance.ofx.profile/wiretransfermessageset/wiretransfermessagesetv1) { get; set; } | 获取或设置[`WireTransferMessageSetV1`](./wiretransfermessagesetv1). |
 
 ### 也可以看看
 

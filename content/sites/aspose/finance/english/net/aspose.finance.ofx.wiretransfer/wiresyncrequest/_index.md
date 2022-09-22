@@ -3,7 +3,7 @@ title: WireSyncRequest
 second_title: Aspose.Finance for .NET API Reference
 description: Wire transaction synchronization request class.
 type: docs
-weight: 6400
+weight: 6430
 url: /net/aspose.finance.ofx.wiretransfer/wiresyncrequest/
 ---
 ## WireSyncRequest class

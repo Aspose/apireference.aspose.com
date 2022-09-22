@@ -1,14 +1,14 @@
 ---
 title: Mail
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задаетMailaspose.finance.ofx.billpay/paymentmailrequest/mail.
+description: Получает или задаетMailaspose.finance.ofx.billpay/paymentmailrequest/mail .
 type: docs
 weight: 20
 url: /ru/net/aspose.finance.ofx.billpay/paymentmailrequest/mail/
 ---
 ## PaymentMailRequest.Mail property
 
-Получает или задает`Mail`.
+Получает или задает`Mail` .
 
 ```csharp
 public Mail Mail { get; set; }

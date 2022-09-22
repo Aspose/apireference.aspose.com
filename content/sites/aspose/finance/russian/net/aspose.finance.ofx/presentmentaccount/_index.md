@@ -1,14 +1,14 @@
 ---
 title: PresentmentAccount
 second_title: Справочник по API Aspose.Finance для .NET
-description: Этот класс однозначно идентифицирует учетную запись клиента у биллера с помощью комбинации издателя счета идентификатора биллера и номера счета.
+description: Этот класс однозначно идентифицирует учетную запись клиента у биллера с помощью комбинации издателя счета идентификатора биллера и номера учетной записи.
 type: docs
 weight: 4270
 url: /ru/net/aspose.finance.ofx/presentmentaccount/
 ---
 ## PresentmentAccount class
 
-Этот класс однозначно идентифицирует учетную запись клиента у биллера с помощью комбинации издателя счета, идентификатора биллера и номера счета.
+Этот класс однозначно идентифицирует учетную запись клиента у биллера с помощью комбинации издателя счета, идентификатора биллера и номера учетной записи.
 
 ```csharp
 public class PresentmentAccount : AbstractAccount
@@ -18,19 +18,19 @@ public class PresentmentAccount : AbstractAccount
 
 | Имя | Описание |
 | --- | --- |
-| [PresentmentAccount](presentmentaccount)() | Инициализирует новый экземпляр класса[`PresentmentAccount`](../presentmentaccount). |
+| [PresentmentAccount](presentmentaccount)() | Инициализирует новый экземпляр[`PresentmentAccount`](../presentmentaccount) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [AccountId](../../aspose.finance.ofx/presentmentaccount/accountid) { get; set; } | Получает или задает номер учетной записи. |
+| [AccountId](../../aspose.finance.ofx/presentmentaccount/accountid) { get; set; } | Получает или задает номер счета. |
 | [BillerId](../../aspose.finance.ofx/presentmentaccount/billerid) { get; set; } | Получает или задает идентификатор этого биллера в этом издателе счетов. |
 | [BillerName](../../aspose.finance.ofx/presentmentaccount/billername) { get; set; } | Получает или задает имя биллера. |
 | [BillPublisher](../../aspose.finance.ofx/presentmentaccount/billpublisher) { get; set; } | Получает или задает официальное стандартное имя издателя счетов. |
 | [PayeeId](../../aspose.finance.ofx/presentmentaccount/payeeid) { get; set; } | Получает или задает идентификатор получателя платежа. Идентифицирует этого Биллера у платежного провайдера пользователя. |
-| [PayeeListId](../../aspose.finance.ofx/presentmentaccount/payeelistid) { get; set; } | Получает или задает идентификатор списка получателей. Идентифицирует этого Биллера в списке получателей платежей пользователя у его платежного провайдера. |
-| [PresentmentNameAddress](../../aspose.finance.ofx/presentmentaccount/presentmentnameaddress) { get; set; } | Получает или задает[`PresentmentNameAddress`](./presentmentnameaddress). |
+| [PayeeListId](../../aspose.finance.ofx/presentmentaccount/payeelistid) { get; set; } | Получает или задает идентификатор списка получателей. Идентифицирует этого Биллера в списке получателей платежей пользователя у его поставщика платежей. |
+| [PresentmentNameAddress](../../aspose.finance.ofx/presentmentaccount/presentmentnameaddress) { get; set; } | Получает или задает[`PresentmentNameAddress`](./presentmentnameaddress) . |
 | [ServiceProviderName](../../aspose.finance.ofx/presentmentaccount/serviceprovidername) { get; set; } | Получает или задает имя поставщика услуг. |
 | [UserId](../../aspose.finance.ofx/presentmentaccount/userid) { get; set; } | Получает или задает идентификатор пользователя клиента. |
 

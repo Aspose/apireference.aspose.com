@@ -1,14 +1,14 @@
 ---
 title: ReversalFITransactionId
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置冲销交易ID
+description: 获取或设置冲销交易id
 type: docs
 weight: 40
 url: /zh/net/aspose.finance.ofx.investment/investmenttransaction/reversalfitransactionid/
 ---
 ## InvestmentTransaction.ReversalFITransactionId property
 
-获取或设置冲销交易ID。
+获取或设置冲销交易id。
 
 ```csharp
 public string ReversalFITransactionId { get; set; }

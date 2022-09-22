@@ -1,14 +1,14 @@
 ---
 title: CreateInlineXbrlElement
 second_title: Aspose.Finance for .NET API 参考
-description: 创建内联 xbrl 元素
+description: 创建一个内联 xbrl 元素
 type: docs
 weight: 130
 url: /zh/net/aspose.finance.xbrl.inline/inlinexbrldocument/createinlinexbrlelement/
 ---
 ## InlineXbrlDocument.CreateInlineXbrlElement method
 
-创建内联 xbrl 元素。
+创建一个内联 xbrl 元素。
 
 ```csharp
 public InlineXbrlElement CreateInlineXbrlElement(string name, string prefix = null)

@@ -1,14 +1,14 @@
 ---
 title: RecipientId
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置收件人的 ID
+description: 获取或设置收件人的ID
 type: docs
 weight: 40
 url: /zh/net/aspose.finance.ofx.tax1099/tax1099response/recipientid/
 ---
 ## Tax1099Response.RecipientId property
 
-获取或设置收件人的 ID。
+获取或设置收件人的ID。
 
 ```csharp
 public string RecipientId { get; set; }

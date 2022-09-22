@@ -1,14 +1,14 @@
 ---
 title: Tax1098MessageSetV1
 second_title: Справочник по API Aspose.Finance для .NET
-description: Версия 1 набора сообщений налога 1098..
+description: Версия 1 набора сообщений о налогах 1098..
 type: docs
 weight: 4850
 url: /ru/net/aspose.finance.ofx.profile/tax1098messagesetv1/
 ---
 ## Tax1098MessageSetV1 class
 
-Версия 1 набора сообщений налога 1098..
+Версия 1 набора сообщений о налогах 1098..
 
 ```csharp
 public class Tax1098MessageSetV1 : AbstractMessageSetVersion
@@ -18,15 +18,15 @@ public class Tax1098MessageSetV1 : AbstractMessageSetVersion
 
 | Имя | Описание |
 | --- | --- |
-| [Tax1098MessageSetV1](tax1098messagesetv1)() | Инициализирует новый экземпляр класса[`Tax1098MessageSetV1`](../tax1098messagesetv1). |
+| [Tax1098MessageSetV1](tax1098messagesetv1)() | Инициализирует новый экземпляр[`Tax1098MessageSetV1`](../tax1098messagesetv1) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [MessageSetCore](../../aspose.finance.ofx.profile/abstractmessagesetversion/messagesetcore) { get; set; } | Получает или задает[`MessageSetCore`](../abstractmessagesetversion/messagesetcore). |
+| [MessageSetCore](../../aspose.finance.ofx.profile/abstractmessagesetversion/messagesetcore) { get; set; } | Получает или задает[`MessageSetCore`](../abstractmessagesetversion/messagesetcore) . |
 | [Tax1098Download](../../aspose.finance.ofx.profile/tax1098messagesetv1/tax1098download) { get; set; } | Получает или задает, поддерживает ли сервер загрузку налоговой формы 1098. |
-| [TaxYearSupporteds](../../aspose.finance.ofx.profile/tax1098messagesetv1/taxyearsupporteds) { get; set; } | Получает или устанавливает годы, в течение которых поддерживается загрузка 1098 для этого сервера. |
+| [TaxYearSupporteds](../../aspose.finance.ofx.profile/tax1098messagesetv1/taxyearsupporteds) { get; set; } | Получает или устанавливает годы, поддерживаемые для загрузки 1098 для этого сервера. |
 
 ### Смотрите также
 

@@ -8,7 +8,7 @@ url: /zh/net/aspose.finance.ofx.securitieslist/stockinfo/
 ---
 ## StockInfo class
 
-股票信息类。
+股票信息类
 
 ```csharp
 public class StockInfo : AbstractSecurityInfo
@@ -18,7 +18,7 @@ public class StockInfo : AbstractSecurityInfo
 
 | 姓名 | 描述 |
 | --- | --- |
-| [StockInfo](stockinfo)() | 初始化[`StockInfo`](../stockinfo)类的新实例。 |
+| [StockInfo](stockinfo)() | 初始化一个新的实例[`StockInfo`](../stockinfo)类. |
 
 ## 特性
 
@@ -26,9 +26,9 @@ public class StockInfo : AbstractSecurityInfo
 | --- | --- |
 | [AssetClass](../../aspose.finance.ofx.securitieslist/stockinfo/assetclass) { get; set; } | 获取或设置资产类别。 |
 | [FIAssetClass](../../aspose.finance.ofx.securitieslist/stockinfo/fiassetclass) { get; set; } | 获取或设置包含 FI 定义的资产类别的文本字符串。 |
-| [SecurityInfo](../../aspose.finance.ofx.securitieslist/abstractsecurityinfo/securityinfo) { get; set; } | 获取或设置[`GeneralSecurityInfo`](../generalsecurityinfo)。 |
+| [SecurityInfo](../../aspose.finance.ofx.securitieslist/abstractsecurityinfo/securityinfo) { get; set; } | 获取或设置[`GeneralSecurityInfo`](../generalsecurityinfo). |
 | [StockType](../../aspose.finance.ofx.securitieslist/stockinfo/stocktype) { get; set; } | 获取或设置库存类型 |
-| [Yield](../../aspose.finance.ofx.securitieslist/stockinfo/yield) { get; set; } | 获取或设置报告为股息的当前收益率，表示为当前股价的一部分。 |
+| [Yield](../../aspose.finance.ofx.securitieslist/stockinfo/yield) { get; set; } | 获取或设置当前收益率报告为股息，表示为当前股票价格的一部分。 |
 | [YieldAsOfDate](../../aspose.finance.ofx.securitieslist/stockinfo/yieldasofdate) { get; set; } | 获取或设置收益率值的截止日期。 |
 
 ### 也可以看看

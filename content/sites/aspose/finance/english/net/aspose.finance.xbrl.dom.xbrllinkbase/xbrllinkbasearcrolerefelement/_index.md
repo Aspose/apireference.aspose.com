@@ -3,7 +3,7 @@ title: XbrlLinkbaseArcroleRefElement
 second_title: Aspose.Finance for .NET API Reference
 description: The class represents xbrl linkbase arcroleRef element.
 type: docs
-weight: 7540
+weight: 7570
 url: /net/aspose.finance.xbrl.dom.xbrllinkbase/xbrllinkbasearcrolerefelement/
 ---
 ## XbrlLinkbaseArcroleRefElement class

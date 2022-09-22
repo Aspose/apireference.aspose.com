@@ -1,14 +1,14 @@
 ---
 title: InterSyncResponses
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置InterSyncResponseaspose.finance.ofx.intertransfer/intersyncresponse的集合
+description: 获取或设置的集合InterSyncResponseaspose.finance.ofx.intertransfer/intersyncresponse.
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.ofx/intertransferresponsemessagesetv1/intersyncresponses/
 ---
 ## InterTransferResponseMessageSetV1.InterSyncResponses property
 
-获取或设置[`InterSyncResponse`](../../../aspose.finance.ofx.intertransfer/intersyncresponse)的集合。
+获取或设置的集合[`InterSyncResponse`](../../../aspose.finance.ofx.intertransfer/intersyncresponse).
 
 ```csharp
 public List<InterSyncResponse> InterSyncResponses { get; set; }

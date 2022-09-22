@@ -3,7 +3,7 @@ title: WireTransactionResponse
 second_title: Aspose.Finance for .NET API Reference
 description: Wire transfer transaction response class.
 type: docs
-weight: 6430
+weight: 6460
 url: /net/aspose.finance.ofx.wiretransfer/wiretransactionresponse/
 ---
 ## WireTransactionResponse class

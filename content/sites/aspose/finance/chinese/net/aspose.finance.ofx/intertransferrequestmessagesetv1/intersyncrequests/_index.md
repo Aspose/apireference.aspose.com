@@ -1,14 +1,14 @@
 ---
 title: InterSyncRequests
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置InterSyncRequestaspose.finance.ofx.intertransfer/intersyncrequest的集合
+description: 获取或设置的集合InterSyncRequestaspose.finance.ofx.intertransfer/intersyncrequest.
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.ofx/intertransferrequestmessagesetv1/intersyncrequests/
 ---
 ## InterTransferRequestMessageSetV1.InterSyncRequests property
 
-获取或设置[`InterSyncRequest`](../../../aspose.finance.ofx.intertransfer/intersyncrequest)的集合。
+获取或设置的集合[`InterSyncRequest`](../../../aspose.finance.ofx.intertransfer/intersyncrequest).
 
 ```csharp
 public List<InterSyncRequest> InterSyncRequests { get; set; }

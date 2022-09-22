@@ -1,14 +1,14 @@
 ---
 title: Section1202
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置部分 1202 增益
+description: 获取或设置1202段增益
 type: docs
 weight: 200
 url: /zh/net/aspose.finance.ofx.tax1099/tax1099div_v100/section1202/
 ---
 ## Tax1099DIV_V100.Section1202 property
 
-获取或设置部分 1202 增益。
+获取或设置1202段增益。
 
 ```csharp
 public string Section1202 { get; set; }

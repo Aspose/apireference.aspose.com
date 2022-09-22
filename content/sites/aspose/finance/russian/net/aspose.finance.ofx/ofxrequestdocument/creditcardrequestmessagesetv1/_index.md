@@ -1,14 +1,14 @@
 ---
 title: CreditcardRequestMessageSetV1
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задаетCreditcardRequestMessageSetV1aspose.finance.ofx/ofxrequestdocument/creditcardrequestmessagesetv1.
+description: Получает или задаетCreditcardRequestMessageSetV1aspose.finance.ofx/ofxrequestdocument/creditcardrequestmessagesetv1 .
 type: docs
 weight: 40
 url: /ru/net/aspose.finance.ofx/ofxrequestdocument/creditcardrequestmessagesetv1/
 ---
 ## OfxRequestDocument.CreditcardRequestMessageSetV1 property
 
-Получает или задает`CreditcardRequestMessageSetV1`.
+Получает или задает`CreditcardRequestMessageSetV1` .
 
 ```csharp
 public CreditcardRequestMessageSetV1 CreditcardRequestMessageSetV1 { get; set; }

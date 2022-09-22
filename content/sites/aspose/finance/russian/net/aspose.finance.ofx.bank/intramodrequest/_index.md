@@ -1,14 +1,14 @@
 ---
 title: IntraModRequest
 second_title: Справочник по API Aspose.Finance для .NET
-description: Класс запроса модификации внутрибанковского перевода.
+description: Класс запроса на изменение внутрибанковского перевода.
 type: docs
 weight: 450
 url: /ru/net/aspose.finance.ofx.bank/intramodrequest/
 ---
 ## IntraModRequest class
 
-Класс запроса модификации внутрибанковского перевода.
+Класс запроса на изменение внутрибанковского перевода.
 
 ```csharp
 public class IntraModRequest : AbstractIntraRequest
@@ -18,14 +18,14 @@ public class IntraModRequest : AbstractIntraRequest
 
 | Имя | Описание |
 | --- | --- |
-| [IntraModRequest](intramodrequest)() | Инициализирует новый экземпляр класса[`IntraModRequest`](../intramodrequest). |
+| [IntraModRequest](intramodrequest)() | Инициализирует новый экземпляр[`IntraModRequest`](../intramodrequest) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
 | [ServerId](../../aspose.finance.ofx.bank/intramodrequest/serverid) { get; set; } | Получает или задает идентификатор, назначенный сервером для изменяемой передачи. |
-| [TransferInfo](../../aspose.finance.ofx.bank/intramodrequest/transferinfo) { get; set; } | Получает или задает[`TransferInfo`](./transferinfo). |
+| [TransferInfo](../../aspose.finance.ofx.bank/intramodrequest/transferinfo) { get; set; } | Получает или задает[`TransferInfo`](./transferinfo) . |
 
 ### Смотрите также
 

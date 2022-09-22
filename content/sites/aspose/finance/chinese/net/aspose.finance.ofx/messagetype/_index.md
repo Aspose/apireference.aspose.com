@@ -18,7 +18,7 @@ public class MessageType : AbstractStringType
 
 | 姓名 | 描述 |
 | --- | --- |
-| [MessageType](messagetype)() | 初始化[`MessageType`](../messagetype)类的新实例。 |
+| [MessageType](messagetype)() | 初始化一个新的实例[`MessageType`](../messagetype)类. |
 
 ## 特性
 

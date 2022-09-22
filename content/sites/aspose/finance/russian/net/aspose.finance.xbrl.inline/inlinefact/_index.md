@@ -1,14 +1,14 @@
 ---
 title: InlineFact
 second_title: Справочник по API Aspose.Finance для .NET
-description: Этот абстрактный класс является базовым классом фактов во встроенном документе включаяInlineFraction./inlinefractionInlineNonfraction./inlinenonfractionInlineNonnumeric./inlinenonnumericInlineTuple./inlinetuple.
+description: Этот абстрактный класс является базовым классом фактов во встроенном документе включаяInlineFraction./inlinefractionInlineNonfraction./inlinenonfractionInlineNonnumeric./inlinenonnumericInlineTuple./inlinetuple .
 type: docs
 weight: 7670
 url: /ru/net/aspose.finance.xbrl.inline/inlinefact/
 ---
 ## InlineFact class
 
-Этот абстрактный класс является базовым классом фактов во встроенном документе, включая[`InlineFraction`](../inlinefraction),[`InlineNonfraction`](../inlinenonfraction),[`InlineNonnumeric`](../inlinenonnumeric),[`InlineTuple`](../inlinetuple).
+Этот абстрактный класс является базовым классом фактов во встроенном документе, включая[`InlineFraction`](../inlinefraction),[`InlineNonfraction`](../inlinenonfraction),[`InlineNonnumeric`](../inlinenonnumeric),[`InlineTuple`](../inlinetuple) .
 
 ```csharp
 public abstract class InlineFact

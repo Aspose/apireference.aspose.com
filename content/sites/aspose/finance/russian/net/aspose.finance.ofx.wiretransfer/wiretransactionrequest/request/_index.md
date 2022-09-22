@@ -1,14 +1,14 @@
 ---
 title: Request
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задаетWireRequestaspose.finance.ofx.wiretransfer/wirerequestилиWireCancellationRequestaspose.finance.ofx.wiretransfer/wirecancellationrequest.
+description: Получает или задаетWireRequestaspose.finance.ofx.wiretransfer/wirerequest или жеWireCancellationRequestaspose.finance.ofx.wiretransfer/wirecancellationrequest .
 type: docs
 weight: 30
 url: /ru/net/aspose.finance.ofx.wiretransfer/wiretransactionrequest/request/
 ---
 ## WireTransactionRequest.Request property
 
-Получает или задает[`WireRequest`](../../wirerequest)или[`WireCancellationRequest`](../../wirecancellationrequest).
+Получает или задает[`WireRequest`](../../wirerequest) или же[`WireCancellationRequest`](../../wirecancellationrequest) .
 
 ```csharp
 public AbstractWireRequest Request { get; set; }

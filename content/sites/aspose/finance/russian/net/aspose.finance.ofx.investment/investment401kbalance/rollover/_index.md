@@ -1,14 +1,14 @@
 ---
 title: Rollover
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает текущую стоимость всех ценных бумаг приобретенных с помощью взносов на пролонгацию.
+description: Получает или задает текущую стоимость всех ценных бумаг приобретенных с помощью взносов пролонгации.
 type: docs
 weight: 100
 url: /ru/net/aspose.finance.ofx.investment/investment401kbalance/rollover/
 ---
 ## Investment401kBalance.Rollover property
 
-Получает или задает текущую стоимость всех ценных бумаг, приобретенных с помощью взносов на пролонгацию.
+Получает или задает текущую стоимость всех ценных бумаг, приобретенных с помощью взносов пролонгации.
 
 ```csharp
 public string Rollover { get; set; }

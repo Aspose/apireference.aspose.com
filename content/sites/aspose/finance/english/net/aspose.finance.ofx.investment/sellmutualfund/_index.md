@@ -3,7 +3,7 @@ title: SellMutualFund
 second_title: Aspose.Finance for .NET API Reference
 description: Investment sell mutual fund class.
 type: docs
-weight: 3490
+weight: 3500
 url: /net/aspose.finance.ofx.investment/sellmutualfund/
 ---
 ## SellMutualFund class

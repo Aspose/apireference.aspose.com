@@ -1,14 +1,14 @@
 ---
 title: PresentmentDlvProfile
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаPresentmentDlvProfileaspose.finance.ofx.profile/presentmentdlvprofile.
+description: Инициализирует новый экземплярPresentmentDlvProfileaspose.finance.ofx.profile/presentmentdlvprofile класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.profile/presentmentdlvprofile/presentmentdlvprofile/
 ---
 ## PresentmentDlvProfile constructor
 
-Инициализирует новый экземпляр класса[`PresentmentDlvProfile`](../../presentmentdlvprofile).
+Инициализирует новый экземпляр[`PresentmentDlvProfile`](../../presentmentdlvprofile) класс.
 
 ```csharp
 public PresentmentDlvProfile()

@@ -1,14 +1,14 @@
 ---
 title: MailSyncResponse
 second_title: Справочник по API Aspose.Finance для .NET
-description: Класс ответа синхронизации электронной почты.
+description: Класс ответа на синхронизацию электронной почты.
 type: docs
 weight: 2190
 url: /ru/net/aspose.finance.ofx.email/mailsyncresponse/
 ---
 ## MailSyncResponse class
 
-Класс ответа синхронизации электронной почты.
+Класс ответа на синхронизацию электронной почты.
 
 ```csharp
 public class MailSyncResponse : AbstractSyncResponse
@@ -18,15 +18,15 @@ public class MailSyncResponse : AbstractSyncResponse
 
 | Имя | Описание |
 | --- | --- |
-| [MailSyncResponse](mailsyncresponse)() | Инициализирует новый экземпляр класса[`MailSyncResponse`](../mailsyncresponse). |
+| [MailSyncResponse](mailsyncresponse)() | Инициализирует новый экземпляр[`MailSyncResponse`](../mailsyncresponse) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [LostSynchronization](../../aspose.finance.ofx/abstractsyncresponse/lostsynchronization) { get; set; } | Да, если токен в запросе на синхронизацию старше, чем самая ранняя запись в таблице истории сервера. В этом случае некоторые ответы были потеряны. Нет, если токен в запросе на синхронизацию новее или совпадает с токеном в таблице истории сервера. |
-| [MailTransactionResponses](../../aspose.finance.ofx.email/mailsyncresponse/mailtransactionresponses) { get; set; } | Получает или задает коллекцию[`MailTransactionResponse`](../mailtransactionresponse). |
-| [OfxExtension](../../aspose.finance.ofx.email/mailsyncresponse/ofxextension) { get; set; } | Получает или задает[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
+| [LostSynchronization](../../aspose.finance.ofx/abstractsyncresponse/lostsynchronization) { get; set; } | Да, если токен в запросе на синхронизацию старше самой ранней записи в таблице истории сервера. В этом случае некоторые ответы были потеряны. Нет, если токен в запросе на синхронизацию новее или совпадает с токеном в таблице сервера. таблица истории. |
+| [MailTransactionResponses](../../aspose.finance.ofx.email/mailsyncresponse/mailtransactionresponses) { get; set; } | Получает или задает коллекцию[`MailTransactionResponse`](../mailtransactionresponse) . |
+| [OfxExtension](../../aspose.finance.ofx.email/mailsyncresponse/ofxextension) { get; set; } | Получает или задает[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype) . |
 | [Token](../../aspose.finance.ofx/abstractsyncresponse/token) { get; set; } | Получает или задает новый маркер синхронизации. |
 
 ### Смотрите также

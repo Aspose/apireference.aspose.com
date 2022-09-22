@@ -1,14 +1,14 @@
 ---
 title: FindBillerResponse
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置FindBillerResponseaspose.finance.ofx.billerdirectory/findbillertransactionresponse/findbillerresponse
+description: 获取或设置FindBillerResponseaspose.finance.ofx.billerdirectory/findbillertransactionresponse/findbillerresponse.
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.ofx.billerdirectory/findbillertransactionresponse/findbillerresponse/
 ---
 ## FindBillerTransactionResponse.FindBillerResponse property
 
-获取或设置`FindBillerResponse`。
+获取或设置`FindBillerResponse`.
 
 ```csharp
 public FindBillerResponse FindBillerResponse { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: UseHtml
 second_title: Aspose.Finance for .NET API 参考
-description: 如果客户端需要 HTML 响应则为 true如果客户端需要纯文本则为 false
+description: 如果客户端需要 HTML 响应则为真如果客户端需要纯文本则为假
 type: docs
 weight: 60
 url: /zh/net/aspose.finance.ofx.investment/investmentmailsyncrequest/usehtml/
 ---
 ## InvestmentMailSyncRequest.UseHtml property
 
-如果客户端需要 HTML 响应，则为 true，如果客户端需要纯文本，则为 false。
+如果客户端需要 HTML 响应，则为真，如果客户端需要纯文本，则为假。
 
 ```csharp
 public bool UseHtml { get; set; }

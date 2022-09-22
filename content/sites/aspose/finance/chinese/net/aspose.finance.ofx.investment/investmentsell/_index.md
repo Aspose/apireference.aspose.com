@@ -8,7 +8,7 @@ url: /zh/net/aspose.finance.ofx.investment/investmentsell/
 ---
 ## InvestmentSell class
 
-投资卖出交易类。
+投资卖出交易类
 
 ```csharp
 public class InvestmentSell : AbstractInvestmentTransaction
@@ -18,31 +18,31 @@ public class InvestmentSell : AbstractInvestmentTransaction
 
 | 姓名 | 描述 |
 | --- | --- |
-| [InvestmentSell](investmentsell)() | 初始化[`InvestmentSell`](../investmentsell)类的新实例。 |
+| [InvestmentSell](investmentsell)() | 初始化一个新的实例[`InvestmentSell`](../investmentsell)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
 | [Commission](../../aspose.finance.ofx.investment/investmentsell/commission) { get; set; } | 获取或设置交易佣金。 |
-| [Currency](../../aspose.finance.ofx.investment/investmentsell/currency) { get; set; } | 获取或设置[`Currency`](./currency)。 |
-| [Fees](../../aspose.finance.ofx.investment/investmentsell/fees) { get; set; } | 获取或设置适用于交易的费用。 |
+| [Currency](../../aspose.finance.ofx.investment/investmentsell/currency) { get; set; } | 获取或设置[`Currency`](./currency). |
+| [Fees](../../aspose.finance.ofx.investment/investmentsell/fees) { get; set; } | 获取或设置应用于交易的费用。 |
 | [Gain](../../aspose.finance.ofx.investment/investmentsell/gain) { get; set; } | 获取或设置总增益。 |
-| [Investment401kSource](../../aspose.finance.ofx.investment/investmentsell/investment401ksource) { get; set; } | 获取或设置此交易的资金来源。 |
-| [InvestmentTransaction](../../aspose.finance.ofx.investment/abstractinvestmenttransaction/investmenttransaction) { get; set; } | 获取或设置[`InvestmentTransaction`](../abstractinvestmenttransaction/investmenttransaction)。 |
+| [Investment401kSource](../../aspose.finance.ofx.investment/investmentsell/investment401ksource) { get; set; } | 获取或设置本次交易的资金来源。 |
+| [InvestmentTransaction](../../aspose.finance.ofx.investment/abstractinvestmenttransaction/investmenttransaction) { get; set; } | 获取或设置[`InvestmentTransaction`](../abstractinvestmenttransaction/investmenttransaction). |
 | [Load](../../aspose.finance.ofx.investment/investmentsell/load) { get; set; } | 获取或设置事务的负载。 |
-| [LoanId](../../aspose.finance.ofx.investment/investmentsell/loanid) { get; set; } | 获取或设置交易是由于贷款还是贷款还款，以及它是哪笔贷款。仅适用于 401(k) 帐户。 |
+| [LoanId](../../aspose.finance.ofx.investment/investmentsell/loanid) { get; set; } | 获取或设置交易是由于贷款或还款，以及它是哪笔贷款。仅适用于 401(k) 帐户。 |
 | [Markdown](../../aspose.finance.ofx.investment/investmentsell/markdown) { get; set; } | 获取或设置归因于经销商降价的单价部分。 |
-| [OriginCurrency](../../aspose.finance.ofx.investment/investmentsell/origincurrency) { get; set; } | 获取或设置原点[`Currency`](./currency)。 |
+| [OriginCurrency](../../aspose.finance.ofx.investment/investmentsell/origincurrency) { get; set; } | 获取或设置原点[`Currency`](./currency). |
 | [Penalty](../../aspose.finance.ofx.investment/investmentsell/penalty) { get; set; } | 获取或设置因罚款而扣留的金额 |
-| [SecurityId](../../aspose.finance.ofx.investment/investmentsell/securityid) { get; set; } | 获取或设置[`SecurityId`](./securityid)。 |
+| [SecurityId](../../aspose.finance.ofx.investment/investmentsell/securityid) { get; set; } | 获取或设置[`SecurityId`](./securityid). |
 | [StateWithholding](../../aspose.finance.ofx.investment/investmentsell/statewithholding) { get; set; } | 获取或设置提款时用于州税的预扣。 |
 | [SubAccountFund](../../aspose.finance.ofx.investment/investmentsell/subaccountfund) { get; set; } | 获取或设置交易的钱从哪里来或去哪里。 |
-| [SubAccountSecurity](../../aspose.finance.ofx.investment/investmentsell/subaccountsecurity) { get; set; } | 获取或设置证券的子账户类型 |
+| [SubAccountSecurity](../../aspose.finance.ofx.investment/investmentsell/subaccountsecurity) { get; set; } | 获取或设置security 的子账户类型 |
 | [Taxes](../../aspose.finance.ofx.investment/investmentsell/taxes) { get; set; } | 获取或设置交易税。 |
 | [TaxExempt](../../aspose.finance.ofx.investment/investmentsell/taxexempt) { get; set; } | 获取或设置是否为免税交易。 |
 | [Total](../../aspose.finance.ofx.investment/investmentsell/total) { get; set; } | 获取或设置交易总额。 |
-| [UnitPrice](../../aspose.finance.ofx.investment/investmentsell/unitprice) { get; set; } | 获取或设置每个常用报价单位的价格。不包括标记/降价。股票、共同基金等的股价。债券面值的百分比。期权的每股（非合约）。 |
+| [UnitPrice](../../aspose.finance.ofx.investment/investmentsell/unitprice) { get; set; } | 获取或设置每个常用单位的价格。不包括标记/降价。股票、共同基金等的股价。债券面值的百分比。期权的每股（非合约）。 |
 | [Units](../../aspose.finance.ofx.investment/investmentsell/units) { get; set; } | 获取或设置单位。用于除股票分割以外的基于安全的操作。股票、共同基金等的股票。债券的面值。期权合约。 |
 | [Withholding](../../aspose.finance.ofx.investment/investmentsell/withholding) { get; set; } | 获取或设置联邦预扣税。 |
 

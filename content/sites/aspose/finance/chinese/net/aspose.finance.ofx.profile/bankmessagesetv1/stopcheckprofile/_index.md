@@ -1,14 +1,14 @@
 ---
 title: StopCheckProfile
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置StopCheckProfileaspose.finance.ofx.profile/bankmessagesetv1/stopcheckprofile
+description: 获取或设置StopCheckProfileaspose.finance.ofx.profile/bankmessagesetv1/stopcheckprofile.
 type: docs
 weight: 70
 url: /zh/net/aspose.finance.ofx.profile/bankmessagesetv1/stopcheckprofile/
 ---
 ## BankMessageSetV1.StopCheckProfile property
 
-获取或设置`StopCheckProfile`。
+获取或设置`StopCheckProfile`.
 
 ```csharp
 public StopCheckProfile StopCheckProfile { get; set; }

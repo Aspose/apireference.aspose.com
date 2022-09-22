@@ -18,7 +18,7 @@ public class LastPmtInfoType
 
 | Имя | Описание |
 | --- | --- |
-| [LastPmtInfoType](lastpmtinfotype)() | Инициализирует новый экземпляр класса[`LastPmtInfoType`](../lastpmtinfotype). |
+| [LastPmtInfoType](lastpmtinfotype)() | Инициализирует новый экземпляр[`LastPmtInfoType`](../lastpmtinfotype) класс. |
 
 ## Характеристики
 

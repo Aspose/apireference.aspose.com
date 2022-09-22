@@ -1,14 +1,14 @@
 ---
 title: TransportSecurity
 second_title: Справочник по API Aspose.Finance для .NET
-description: Возвращает или задает необходимость использования безопасности на транспортном уровне.
+description: Получает или задает необходимость использования безопасности на транспортном уровне.
 type: docs
 weight: 100
 url: /ru/net/aspose.finance.ofx.profile/messagesetcore/transportsecurity/
 ---
 ## MessageSetCore.TransportSecurity property
 
-Возвращает или задает необходимость использования безопасности на транспортном уровне.
+Получает или задает необходимость использования безопасности на транспортном уровне.
 
 ```csharp
 public bool TransportSecurity { get; set; }

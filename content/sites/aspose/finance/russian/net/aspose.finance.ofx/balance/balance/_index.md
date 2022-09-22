@@ -1,14 +1,14 @@
 ---
 title: Balance
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаBalanceaspose.finance.ofx/balance.
+description: Инициализирует новый экземплярBalanceaspose.finance.ofx/balance класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx/balance/balance/
 ---
 ## Balance constructor
 
-Инициализирует новый экземпляр класса[`Balance`](../../balance).
+Инициализирует новый экземпляр[`Balance`](../../balance) класс.
 
 ```csharp
 public Balance()

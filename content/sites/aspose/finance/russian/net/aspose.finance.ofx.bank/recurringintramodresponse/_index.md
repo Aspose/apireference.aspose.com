@@ -1,14 +1,14 @@
 ---
 title: RecurringIntraModResponse
 second_title: Справочник по API Aspose.Finance для .NET
-description: Класс ответа на повторяющиеся внутрибанковские изменения.
+description: Класс ответов на повторяющиеся внутрибанковские изменения.
 type: docs
 weight: 560
 url: /ru/net/aspose.finance.ofx.bank/recurringintramodresponse/
 ---
 ## RecurringIntraModResponse class
 
-Класс ответа на повторяющиеся внутрибанковские изменения.
+Класс ответов на повторяющиеся внутрибанковские изменения.
 
 ```csharp
 public class RecurringIntraModResponse : AbstractRecurringIntraResponse
@@ -18,16 +18,16 @@ public class RecurringIntraModResponse : AbstractRecurringIntraResponse
 
 | Имя | Описание |
 | --- | --- |
-| [RecurringIntraModResponse](recurringintramodresponse)() | Инициализирует новый экземпляр класса[`RecurringIntraModResponse`](../recurringintramodresponse). |
+| [RecurringIntraModResponse](recurringintramodresponse)() | Инициализирует новый экземпляр[`RecurringIntraModResponse`](../recurringintramodresponse) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [IntraResponse](../../aspose.finance.ofx.bank/recurringintramodresponse/intraresponse) { get; set; } | Получает или задает[`IntraResponse`](./intraresponse). |
+| [IntraResponse](../../aspose.finance.ofx.bank/recurringintramodresponse/intraresponse) { get; set; } | Получает или задает[`IntraResponse`](./intraresponse) . |
 | [ModifyPending](../../aspose.finance.ofx.bank/recurringintramodresponse/modifypending) { get; set; } | Получает или устанавливает флаг ожидания изменения. |
-| [RecurringInstructions](../../aspose.finance.ofx.bank/recurringintramodresponse/recurringinstructions) { get; set; } | Получает или задает[`RecurringInstructions`](./recurringinstructions). |
-| [RecurringServerId](../../aspose.finance.ofx.bank/recurringintramodresponse/recurringserverid) { get; set; } | Получает или задает идентификатор, присвоенный сервером модифицируемой модели. |
+| [RecurringInstructions](../../aspose.finance.ofx.bank/recurringintramodresponse/recurringinstructions) { get; set; } | Получает или задает[`RecurringInstructions`](./recurringinstructions) . |
+| [RecurringServerId](../../aspose.finance.ofx.bank/recurringintramodresponse/recurringserverid) { get; set; } | Получает или задает идентификатор, назначенный сервером модифицируемой модели. |
 
 ### Смотрите также
 

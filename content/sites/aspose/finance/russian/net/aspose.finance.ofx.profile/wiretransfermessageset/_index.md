@@ -18,13 +18,13 @@ public class WireTransferMessageSet : AbstractMessageSet
 
 | Имя | Описание |
 | --- | --- |
-| [WireTransferMessageSet](wiretransfermessageset)() | Инициализирует новый экземпляр класса[`WireTransferMessageSet`](../wiretransfermessageset). |
+| [WireTransferMessageSet](wiretransfermessageset)() | Инициализирует новый экземпляр[`WireTransferMessageSet`](../wiretransfermessageset) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [WireTransferMessageSetV1](../../aspose.finance.ofx.profile/wiretransfermessageset/wiretransfermessagesetv1) { get; set; } | Получает или задает[`WireTransferMessageSetV1`](./wiretransfermessagesetv1). |
+| [WireTransferMessageSetV1](../../aspose.finance.ofx.profile/wiretransfermessageset/wiretransfermessagesetv1) { get; set; } | Получает или задает[`WireTransferMessageSetV1`](./wiretransfermessagesetv1) . |
 
 ### Смотрите также
 

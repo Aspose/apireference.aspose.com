@@ -18,7 +18,7 @@ public class RecurringInstructions
 
 | Имя | Описание |
 | --- | --- |
-| [RecurringInstructions](recurringinstructions)() | Инициализирует новый экземпляр класса[`RecurringInstructions`](../recurringinstructions). |
+| [RecurringInstructions](recurringinstructions)() | Инициализирует новый экземпляр[`RecurringInstructions`](../recurringinstructions) класс. |
 
 ## Характеристики
 

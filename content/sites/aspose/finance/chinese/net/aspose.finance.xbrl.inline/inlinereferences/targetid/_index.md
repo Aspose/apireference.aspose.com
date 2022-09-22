@@ -1,14 +1,14 @@
 ---
 title: TargetId
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置InlineReferencesaspose.finance.xbrl.inline/inlinereferences的目标ID
+description: 获取或设置目标idInlineReferencesaspose.finance.xbrl.inline/inlinereferences.
 type: docs
 weight: 50
 url: /zh/net/aspose.finance.xbrl.inline/inlinereferences/targetid/
 ---
 ## InlineReferences.TargetId property
 
-获取或设置[`InlineReferences`](../../inlinereferences)的目标ID。
+获取或设置目标id[`InlineReferences`](../../inlinereferences).
 
 ```csharp
 public string TargetId { get; set; }

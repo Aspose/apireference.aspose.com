@@ -1,14 +1,14 @@
 ---
 title: CharacterData
 second_title: Aspose.Finance for .NET API 参考
-description: CharacterData 使用一组属性和方法扩展 Node用于访问 DOM 中的字符数据
+description: CharacterData 使用一组属性和方法扩展了 Node用于访问 DOM 中的字符数据
 type: docs
 weight: 6640
 url: /zh/net/aspose.finance.xbrl.dom/characterdata/
 ---
 ## CharacterData class
 
-CharacterData 使用一组属性和方法扩展 Node，用于访问 DOM 中的字符数据。
+CharacterData 使用一组属性和方法扩展了 Node，用于访问 DOM 中的字符数据。
 
 ```csharp
 public abstract class CharacterData : Node
@@ -28,7 +28,7 @@ public abstract class CharacterData : Node
 | virtual [LocalName](../../aspose.finance.xbrl.dom/node/localname) { get; } | 获取此节点的限定名称的本地部分。 |
 | virtual [NamespaceURI](../../aspose.finance.xbrl.dom/node/namespaceuri) { get; } | 获取此节点的命名空间 URI。 |
 | [NextSibling](../../aspose.finance.xbrl.dom/node/nextsibling) { get; } | 获取紧跟该节点的节点。如果没有这样的节点，则返回 null。 |
-| abstract [NodeName](../../aspose.finance.xbrl.dom/node/nodename) { get; } | 获取节点名称，具体取决于其类型。 |
+| abstract [NodeName](../../aspose.finance.xbrl.dom/node/nodename) { get; } | 获取节点名称，取决于其类型。 |
 | [NodeType](../../aspose.finance.xbrl.dom/node/nodetype) { get; } | 获取节点类型。 |
 | virtual [NodeValue](../../aspose.finance.xbrl.dom/node/nodevalue) { get; set; } | 获取或设置此节点的值，具体取决于其类型。 |
 | [OwnerDocument](../../aspose.finance.xbrl.dom/node/ownerdocument) { get; } | 获取与此节点关联的文档对象。 |
@@ -44,11 +44,11 @@ public abstract class CharacterData : Node
 | [AppendChild](../../aspose.finance.xbrl.dom/node/appendchild)(Node) | 将节点 newChild 添加到该节点的子节点列表的末尾。 |
 | virtual [AppendData](../../aspose.finance.xbrl.dom/characterdata/appenddata)(string) | 将字符串追加到节点字符数据的末尾。 |
 | virtual [DeleteData](../../aspose.finance.xbrl.dom/characterdata/deletedata)(int, int) | 从节点中删除一系列内容。 |
-| virtual [InsertData](../../aspose.finance.xbrl.dom/characterdata/insertdata)(int, string) | 在指定的偏移处插入一个字符串。 |
+| virtual [InsertData](../../aspose.finance.xbrl.dom/characterdata/insertdata)(int, string) | 在指定偏移处插入一个字符串。 |
 | [RemoveChild](../../aspose.finance.xbrl.dom/node/removechild)(Node) | 从子节点列表中删除由 old child 指示的子节点。 |
-| [ReplaceChild](../../aspose.finance.xbrl.dom/node/replacechild)(Node, Node) | 将子节点列表中的子节点 old child 替换为 new child，并返回 old child 节点。 |
+| [ReplaceChild](../../aspose.finance.xbrl.dom/node/replacechild)(Node, Node) | 用新的子节点替换子节点列表中的子节点old child，并返回旧的子节点。 |
 | virtual [ReplaceData](../../aspose.finance.xbrl.dom/characterdata/replacedata)(int, int, string) | 用指定的字符串替换从指定偏移量开始的字符。 |
-| virtual [Substring](../../aspose.finance.xbrl.dom/characterdata/substring)(int, int) | 从节点中提取数据范围。 |
+| virtual [Substring](../../aspose.finance.xbrl.dom/characterdata/substring)(int, int) | 从节点中提取一系列数据。 |
 
 ### 也可以看看
 

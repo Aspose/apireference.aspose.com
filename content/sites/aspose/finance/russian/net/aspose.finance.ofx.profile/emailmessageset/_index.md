@@ -18,13 +18,13 @@ public class EmailMessageSet : AbstractMessageSet
 
 | Имя | Описание |
 | --- | --- |
-| [EmailMessageSet](emailmessageset)() | Инициализирует новый экземпляр класса[`EmailMessageSet`](../emailmessageset). |
+| [EmailMessageSet](emailmessageset)() | Инициализирует новый экземпляр[`EmailMessageSet`](../emailmessageset) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [EmailMessageSetV1](../../aspose.finance.ofx.profile/emailmessageset/emailmessagesetv1) { get; set; } | Получает или задает[`EmailMessageSetV1`](./emailmessagesetv1). |
+| [EmailMessageSetV1](../../aspose.finance.ofx.profile/emailmessageset/emailmessagesetv1) { get; set; } | Получает или задает[`EmailMessageSetV1`](./emailmessagesetv1) . |
 
 ### Смотрите также
 

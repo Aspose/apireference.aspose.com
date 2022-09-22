@@ -1,14 +1,14 @@
 ---
 title: BillPaymentAccountInfo
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化BillPaymentAccountInfoaspose.finance.ofx/billpaymentaccountinfo类的新实例
+description: 初始化一个新的实例BillPaymentAccountInfoaspose.finance.ofx/billpaymentaccountinfo类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx/billpaymentaccountinfo/billpaymentaccountinfo/
 ---
 ## BillPaymentAccountInfo constructor
 
-初始化[`BillPaymentAccountInfo`](../../billpaymentaccountinfo)类的新实例。
+初始化一个新的实例[`BillPaymentAccountInfo`](../../billpaymentaccountinfo)类.
 
 ```csharp
 public BillPaymentAccountInfo()

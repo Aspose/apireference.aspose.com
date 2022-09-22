@@ -1,14 +1,14 @@
 ---
 title: FootnoteLink
 second_title: Справочник по API Aspose.Finance для .NET
-description: Этот класс содержит локаторы ресурсы и дуги которые описывают нерегулярные отношения между фактами в экземпляре XBRL.
+description: Этот класс содержит локаторы ресурсы и дуги описывающие нерегулярные отношения между фактами в отчете XBRL.
 type: docs
 weight: 7650
 url: /ru/net/aspose.finance.xbrl/footnotelink/
 ---
 ## FootnoteLink class
 
-Этот класс содержит локаторы, ресурсы и дуги, которые описывают нерегулярные отношения между фактами в экземпляре XBRL.
+Этот класс содержит локаторы, ресурсы и дуги, описывающие нерегулярные отношения между фактами в отчете XBRL.
 
 ```csharp
 public class FootnoteLink
@@ -18,17 +18,17 @@ public class FootnoteLink
 
 | Имя | Описание |
 | --- | --- |
-| [FootnoteLink](footnotelink)() | Инициализирует новый экземпляр класса[`FootnoteLink`](../footnotelink). |
+| [FootnoteLink](footnotelink)() | Инициализирует новый экземпляр[`FootnoteLink`](../footnotelink) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [FootnoteArcs](../../aspose.finance.xbrl/footnotelink/footnotearcs) { get; } | Получает коллекцию[`FootnoteArc`](../footnotearc). |
-| [Footnotes](../../aspose.finance.xbrl/footnotelink/footnotes) { get; } | Получает коллекцию[`Footnote`](../footnote). |
+| [FootnoteArcs](../../aspose.finance.xbrl/footnotelink/footnotearcs) { get; } | Получает коллекцию[`FootnoteArc`](../footnotearc) . |
+| [Footnotes](../../aspose.finance.xbrl/footnotelink/footnotes) { get; } | Получает коллекцию[`Footnote`](../footnote) . |
 | [Id](../../aspose.finance.xbrl/footnotelink/id) { get; set; } | Получает или устанавливает идентификатор. |
-| [Locators](../../aspose.finance.xbrl/footnotelink/locators) { get; } | Получает коллекцию[`Loc`](../loc). |
-| [Title](../../aspose.finance.xbrl/footnotelink/title) { get; set; } | Получает или задает заголовок. |
+| [Locators](../../aspose.finance.xbrl/footnotelink/locators) { get; } | Получает коллекцию[`Loc`](../loc) . |
+| [Title](../../aspose.finance.xbrl/footnotelink/title) { get; set; } | Получает или устанавливает заголовок. |
 
 ### Смотрите также
 

@@ -18,13 +18,13 @@ public class PayeeDeleteRequest : AbstractPayeeRequest
 
 | Имя | Описание |
 | --- | --- |
-| [PayeeDeleteRequest](payeedeleterequest)() | Инициализирует новый экземпляр класса[`PayeeDeleteRequest`](../payeedeleterequest). |
+| [PayeeDeleteRequest](payeedeleterequest)() | Инициализирует новый экземпляр[`PayeeDeleteRequest`](../payeedeleterequest) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [PayeeListId](../../aspose.finance.ofx.billpay/payeedeleterequest/payeelistid) { get; set; } | Получает или задает назначенный сервером идентификатор записи для этой записи получателя. |
+| [PayeeListId](../../aspose.finance.ofx.billpay/payeedeleterequest/payeelistid) { get; set; } | Получает или задает назначенный сервером идентификатор записи для этой записи получателя платежа. |
 
 ### Смотрите также
 

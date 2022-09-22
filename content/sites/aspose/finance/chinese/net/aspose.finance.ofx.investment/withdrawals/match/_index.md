@@ -1,14 +1,14 @@
 ---
 title: Match
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置雇主匹配提款
+description: 获取或设置匹配提款的雇主
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.ofx.investment/withdrawals/match/
 ---
 ## Withdrawals.Match property
 
-获取或设置雇主匹配提款。
+获取或设置匹配提款的雇主。
 
 ```csharp
 public string Match { get; set; }

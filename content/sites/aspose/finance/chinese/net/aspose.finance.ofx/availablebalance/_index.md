@@ -18,7 +18,7 @@ public class AvailableBalance
 
 | 姓名 | 描述 |
 | --- | --- |
-| [AvailableBalance](availablebalance)() | 初始化[`AvailableBalance`](../availablebalance)类的新实例。 |
+| [AvailableBalance](availablebalance)() | 初始化一个新的实例[`AvailableBalance`](../availablebalance)类. |
 
 ## 特性
 

@@ -1,14 +1,14 @@
 ---
 title: TaxYearToDate
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает общую сумму налогов уплаченных на этот счет за текущий год
+description: Получает или задает общую сумму налогов уплаченных на этот счет с начала года
 type: docs
 weight: 240
 url: /ru/net/aspose.finance.ofx.loan/loanclosing/taxyeartodate/
 ---
 ## LoanClosing.TaxYearToDate property
 
-Получает или задает общую сумму налогов, уплаченных на этот счет за текущий год
+Получает или задает общую сумму налогов, уплаченных на этот счет с начала года
 
 ```csharp
 public string TaxYearToDate { get; set; }

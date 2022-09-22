@@ -18,16 +18,16 @@ public class RecurringIntraSyncResponse : AbstractSyncResponse
 
 | Имя | Описание |
 | --- | --- |
-| [RecurringIntraSyncResponse](recurringintrasyncresponse)() | Инициализирует новый экземпляр класса[`RecurringIntraSyncResponse`](../recurringintrasyncresponse). |
+| [RecurringIntraSyncResponse](recurringintrasyncresponse)() | Инициализирует новый экземпляр[`RecurringIntraSyncResponse`](../recurringintrasyncresponse) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [AccountFrom](../../aspose.finance.ofx.bank/recurringintrasyncresponse/accountfrom) { get; set; } | Получает или задает из[`BankAccount`](../../aspose.finance.ofx/bankaccount)или[`CreditCardAccount`](../../aspose.finance.ofx/creditcardaccount)или[`LoanAccount`](../../aspose.finance.ofx/loanaccount). |
-| [LostSynchronization](../../aspose.finance.ofx/abstractsyncresponse/lostsynchronization) { get; set; } | Да, если токен в запросе на синхронизацию старше, чем самая ранняя запись в таблице истории сервера. В этом случае некоторые ответы были потеряны. Нет, если токен в запросе на синхронизацию новее или совпадает с токеном в таблице истории сервера. |
-| [OfxExtension](../../aspose.finance.ofx.bank/recurringintrasyncresponse/ofxextension) { get; set; } | Получает или задает[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
-| [RecurringIntraTransactionResponses](../../aspose.finance.ofx.bank/recurringintrasyncresponse/recurringintratransactionresponses) { get; set; } | Получает или задает коллекцию[`RecurringIntraTransactionResponse`](../recurringintratransactionresponse). |
+| [AccountFrom](../../aspose.finance.ofx.bank/recurringintrasyncresponse/accountfrom) { get; set; } | Получает или задает из[`BankAccount`](../../aspose.finance.ofx/bankaccount) или же[`CreditCardAccount`](../../aspose.finance.ofx/creditcardaccount) или же[`LoanAccount`](../../aspose.finance.ofx/loanaccount) . |
+| [LostSynchronization](../../aspose.finance.ofx/abstractsyncresponse/lostsynchronization) { get; set; } | Да, если токен в запросе на синхронизацию старше самой ранней записи в таблице истории сервера. В этом случае некоторые ответы были потеряны. Нет, если токен в запросе на синхронизацию новее или совпадает с токеном в таблице сервера. таблица истории. |
+| [OfxExtension](../../aspose.finance.ofx.bank/recurringintrasyncresponse/ofxextension) { get; set; } | Получает или задает[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype) . |
+| [RecurringIntraTransactionResponses](../../aspose.finance.ofx.bank/recurringintrasyncresponse/recurringintratransactionresponses) { get; set; } | Получает или задает коллекцию[`RecurringIntraTransactionResponse`](../recurringintratransactionresponse) . |
 | [Token](../../aspose.finance.ofx/abstractsyncresponse/token) { get; set; } | Получает или задает новый маркер синхронизации. |
 
 ### Смотрите также

@@ -1,14 +1,14 @@
 ---
 title: OfxElements
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置OfxElementTypeaspose.finance.ofx/ofxelementtype的集合
+description: 获取或设置的集合OfxElementTypeaspose.finance.ofx/ofxelementtype.
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.ofx/ofxextensiontype/ofxelements/
 ---
 ## OfxExtensionType.OfxElements property
 
-获取或设置[`OfxElementType`](../../ofxelementtype)的集合。
+获取或设置的集合[`OfxElementType`](../../ofxelementtype).
 
 ```csharp
 public List<OfxElementType> OfxElements { get; set; }

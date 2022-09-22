@@ -1,14 +1,14 @@
 ---
 title: EstimatedPayoffBalance
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает расчетную сумму выплаты.
+description: Получает или задает предполагаемую сумму выплаты.
 type: docs
 weight: 30
 url: /ru/net/aspose.finance.ofx.loan/estimatedpayoff/estimatedpayoffbalance/
 ---
 ## EstimatedPayoff.EstimatedPayoffBalance property
 
-Получает или задает расчетную сумму выплаты.
+Получает или задает предполагаемую сумму выплаты.
 
 ```csharp
 public string EstimatedPayoffBalance { get; set; }

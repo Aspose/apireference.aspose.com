@@ -1,14 +1,14 @@
 ---
 title: AbstractRecurringPaymentRequest
 second_title: Справочник по API Aspose.Finance для .NET
-description: Абстрактный базовый класс для всех классов связанных с регулярными платежными запросами.
+description: Абстрактный базовый класс для всех классов связанных с повторяющимися платежными запросами.
 type: docs
 weight: 870
 url: /ru/net/aspose.finance.ofx.billpay/abstractrecurringpaymentrequest/
 ---
 ## AbstractRecurringPaymentRequest class
 
-Абстрактный базовый класс для всех классов, связанных с регулярными платежными запросами.
+Абстрактный базовый класс для всех классов, связанных с повторяющимися платежными запросами.
 
 ```csharp
 public abstract class AbstractRecurringPaymentRequest

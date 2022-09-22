@@ -1,14 +1,14 @@
 ---
 title: InlineTuple
 second_title: Aspose.Finance for .NET API 参考
-description: 此类用于内联 XBRL 文档中的元组
+description: 该类用于内联 XBRL 文档中的元组
 type: docs
 weight: 7740
 url: /zh/net/aspose.finance.xbrl.inline/inlinetuple/
 ---
 ## InlineTuple class
 
-此类用于内联 XBRL 文档中的元组。
+该类用于内联 XBRL 文档中的元组。
 
 ```csharp
 public class InlineTuple : InlineFact
@@ -18,14 +18,14 @@ public class InlineTuple : InlineFact
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Facts](../../aspose.finance.xbrl.inline/inlinetuple/facts) { get; } | 获取或设置[`InlineTuple`](../inlinetuple)的子事实的集合。 |
+| [Facts](../../aspose.finance.xbrl.inline/inlinetuple/facts) { get; } | 获取或设置子事实的集合[`InlineTuple`](../inlinetuple). |
 | [Hidden](../../aspose.finance.xbrl.inline/inlinefact/hidden) { get; set; } | 获取或设置此事实是否隐藏。 |
 | [Id](../../aspose.finance.xbrl.inline/inlinefact/id) { get; set; } | 获取或设置内联事实的 id。 |
 | [Name](../../aspose.finance.xbrl.inline/inlinefact/name) { get; set; } | 获取或设置内联事实的限定名称。 |
-| [Order](../../aspose.finance.xbrl.inline/inlinetuple/order) { get; set; } | 获取或设置[`InlineTuple`](../inlinetuple)的顺序。 |
-| [TargetId](../../aspose.finance.xbrl.inline/inlinetuple/targetid) { get; set; } | 获取或设置[`InlineTuple`](../inlinetuple)的目标 id。 |
-| [TupleId](../../aspose.finance.xbrl.inline/inlinetuple/tupleid) { get; set; } | 获取或设置[`InlineTuple`](../inlinetuple)的元组 id。 |
-| [TupleRefId](../../aspose.finance.xbrl.inline/inlinetuple/tuplerefid) { get; set; } | 获取或设置[`InlineTuple`](../inlinetuple)的元组引用 ID。 |
+| [Order](../../aspose.finance.xbrl.inline/inlinetuple/order) { get; set; } | 获取或设置的顺序[`InlineTuple`](../inlinetuple) . |
+| [TargetId](../../aspose.finance.xbrl.inline/inlinetuple/targetid) { get; set; } | 获取或设置目标id[`InlineTuple`](../inlinetuple) . |
+| [TupleId](../../aspose.finance.xbrl.inline/inlinetuple/tupleid) { get; set; } | 获取或设置元组 id[`InlineTuple`](../inlinetuple) . |
+| [TupleRefId](../../aspose.finance.xbrl.inline/inlinetuple/tuplerefid) { get; set; } | 获取或设置元组的元组引用id[`InlineTuple`](../inlinetuple) . |
 
 ### 也可以看看
 

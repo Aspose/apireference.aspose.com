@@ -1,14 +1,14 @@
 ---
 title: AccountId
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает номер учетной записи.
+description: Получает или задает номер счета.
 type: docs
 weight: 20
 url: /ru/net/aspose.finance.ofx/presentmentaccount/accountid/
 ---
 ## PresentmentAccount.AccountId property
 
-Получает или задает номер учетной записи.
+Получает или задает номер счета.
 
 ```csharp
 public string AccountId { get; set; }

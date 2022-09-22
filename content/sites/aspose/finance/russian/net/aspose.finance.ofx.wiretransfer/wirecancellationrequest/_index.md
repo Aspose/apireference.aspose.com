@@ -18,13 +18,13 @@ public class WireCancellationRequest : AbstractWireRequest
 
 | Имя | Описание |
 | --- | --- |
-| [WireCancellationRequest](wirecancellationrequest)() | Инициализирует новый экземпляр класса[`WireCancellationRequest`](../wirecancellationrequest). |
+| [WireCancellationRequest](wirecancellationrequest)() | Инициализирует новый экземпляр[`WireCancellationRequest`](../wirecancellationrequest) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [ServerId](../../aspose.finance.ofx.wiretransfer/wirecancellationrequest/serverid) { get; set; } | Получает или задает идентификатор переноса, который необходимо отменить. |
+| [ServerId](../../aspose.finance.ofx.wiretransfer/wirecancellationrequest/serverid) { get; set; } | Получает или задает идентификатор переноса, который нужно отменить. |
 
 ### Смотрите также
 

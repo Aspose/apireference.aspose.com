@@ -1,14 +1,14 @@
 ---
 title: LoanStatementEndTransactionRequest
 second_title: Aspose.Finance for .NET API 参考
-description: 贷款结账报表交易请求类
+description: 贷款结账单交易请求类.
 type: docs
 weight: 3920
 url: /zh/net/aspose.finance.ofx.loan/loanstatementendtransactionrequest/
 ---
 ## LoanStatementEndTransactionRequest class
 
-贷款结账报表交易请求类。
+贷款结账单交易请求类.
 
 ```csharp
 public class LoanStatementEndTransactionRequest : AbstractTransactionRequest
@@ -18,16 +18,16 @@ public class LoanStatementEndTransactionRequest : AbstractTransactionRequest
 
 | 姓名 | 描述 |
 | --- | --- |
-| [LoanStatementEndTransactionRequest](loanstatementendtransactionrequest)() | 初始化[`LoanStatementEndTransactionRequest`](../loanstatementendtransactionrequest)类的新实例。 |
+| [LoanStatementEndTransactionRequest](loanstatementendtransactionrequest)() | 初始化一个新的实例[`LoanStatementEndTransactionRequest`](../loanstatementendtransactionrequest)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
 | [ClientCookie](../../aspose.finance.ofx/abstracttransactionrequest/clientcookie) { get; set; } | 获取或设置要在事务响应中回显的数据 |
-| [LoanStatementEndRequest](../../aspose.finance.ofx.loan/loanstatementendtransactionrequest/loanstatementendrequest) { get; set; } | 获取或设置[`LoanStatementEndRequest`](./loanstatementendrequest)。 |
-| [OfxExtension](../../aspose.finance.ofx.loan/loanstatementendtransactionrequest/ofxextension) { get; set; } | 获取或设置[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype)。 |
-| [TransactionAuthorizationNumber](../../aspose.finance.ofx/abstracttransactionrequest/transactionauthorizationnumber) { get; set; } | 获取或设置交易授权号。 |
+| [LoanStatementEndRequest](../../aspose.finance.ofx.loan/loanstatementendtransactionrequest/loanstatementendrequest) { get; set; } | 获取或设置[`LoanStatementEndRequest`](./loanstatementendrequest). |
+| [OfxExtension](../../aspose.finance.ofx.loan/loanstatementendtransactionrequest/ofxextension) { get; set; } | 获取或设置[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
+| [TransactionAuthorizationNumber](../../aspose.finance.ofx/abstracttransactionrequest/transactionauthorizationnumber) { get; set; } | 获取或设置交易授权号 |
 | [TransactionUniqueId](../../aspose.finance.ofx/abstracttransactionrequest/transactionuniqueid) { get; set; } | 获取或设置此事务的客户端分配的全局唯一 ID |
 
 ### 也可以看看

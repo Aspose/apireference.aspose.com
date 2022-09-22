@@ -1,14 +1,14 @@
 ---
 title: CouponRate
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает купонную ставку облигации на ближайшую дату отзыва.
+description: Получает или задает купонную ставку облигации на следующую ближайшую дату отзыва .
 type: docs
 weight: 70
 url: /ru/net/aspose.finance.ofx.securitieslist/debtinfo/couponrate/
 ---
 ## DebtInfo.CouponRate property
 
-Получает или задает купонную ставку облигации на ближайшую дату отзыва.
+Получает или задает купонную ставку облигации на следующую ближайшую дату отзыва .
 
 ```csharp
 public string CouponRate { get; set; }

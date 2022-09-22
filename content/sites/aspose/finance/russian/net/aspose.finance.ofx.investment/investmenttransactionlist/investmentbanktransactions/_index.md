@@ -1,14 +1,14 @@
 ---
 title: InvestmentBankTransactions
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает коллекциюInvestmentBankTransactionaspose.finance.ofx.investment/investmentbanktransaction.
+description: Получает или задает коллекциюInvestmentBankTransactionaspose.finance.ofx.investment/investmentbanktransaction .
 type: docs
 weight: 30
 url: /ru/net/aspose.finance.ofx.investment/investmenttransactionlist/investmentbanktransactions/
 ---
 ## InvestmentTransactionList.InvestmentBankTransactions property
 
-Получает или задает коллекцию[`InvestmentBankTransaction`](../../investmentbanktransaction).
+Получает или задает коллекцию[`InvestmentBankTransaction`](../../investmentbanktransaction) .
 
 ```csharp
 public List<InvestmentBankTransaction> InvestmentBankTransactions { get; set; }

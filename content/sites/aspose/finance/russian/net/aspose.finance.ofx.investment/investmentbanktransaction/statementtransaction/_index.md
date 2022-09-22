@@ -1,14 +1,14 @@
 ---
 title: StatementTransaction
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задаетStatementTransactionaspose.finance.ofx.investment/investmentbanktransaction/statementtransaction.
+description: Получает или задаетStatementTransactionaspose.finance.ofx.investment/investmentbanktransaction/statementtransaction .
 type: docs
 weight: 20
 url: /ru/net/aspose.finance.ofx.investment/investmentbanktransaction/statementtransaction/
 ---
 ## InvestmentBankTransaction.StatementTransaction property
 
-Получает или задает`StatementTransaction`.
+Получает или задает`StatementTransaction` .
 
 ```csharp
 public StatementTransaction StatementTransaction { get; set; }

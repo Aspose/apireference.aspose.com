@@ -1,14 +1,14 @@
 ---
 title: Withdrawals
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置Withdrawalsaspose.finance.ofx.investment/incepttodate/withdrawals
+description: 获取或设置Withdrawalsaspose.finance.ofx.investment/incepttodate/withdrawals.
 type: docs
 weight: 60
 url: /zh/net/aspose.finance.ofx.investment/incepttodate/withdrawals/
 ---
 ## InceptToDate.Withdrawals property
 
-获取或设置`Withdrawals`。
+获取或设置`Withdrawals`.
 
 ```csharp
 public Withdrawals Withdrawals { get; set; }

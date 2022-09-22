@@ -18,13 +18,13 @@ public class OtherEnroll
 
 | 姓名 | 描述 |
 | --- | --- |
-| [OtherEnroll](otherenroll)() | 初始化[`OtherEnroll`](../otherenroll)类的新实例。 |
+| [OtherEnroll](otherenroll)() | 初始化一个新的实例[`OtherEnroll`](../otherenroll)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Message](../../aspose.finance.ofx.profile/otherenroll/message) { get; set; } | 获取或设置消息给消费者关于下一步做什么。 |
+| [Message](../../aspose.finance.ofx.profile/otherenroll/message) { get; set; } | 获取或设置消息给消费者下一步要做什么。 |
 
 ### 也可以看看
 

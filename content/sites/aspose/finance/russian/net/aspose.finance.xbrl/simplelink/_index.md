@@ -1,14 +1,14 @@
 ---
 title: SimpleLink
 second_title: Справочник по API Aspose.Finance для .NET
-description: Xlink простого типа.
+description: Простой тип Xlink.
 type: docs
 weight: 8040
 url: /ru/net/aspose.finance.xbrl/simplelink/
 ---
 ## SimpleLink class
 
-Xlink простого типа.
+Простой тип Xlink.
 
 ```csharp
 public abstract class SimpleLink : Xlink
@@ -18,7 +18,7 @@ public abstract class SimpleLink : Xlink
 
 | Имя | Описание |
 | --- | --- |
-| [SimpleLink](simplelink)() | Инициализирует новый экземпляр класса[`SimpleLink`](../simplelink). |
+| [SimpleLink](simplelink)() | Инициализирует новый экземпляр[`SimpleLink`](../simplelink) класс. |
 
 ## Характеристики
 

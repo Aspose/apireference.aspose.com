@@ -1,14 +1,14 @@
 ---
 title: MaxMatchAmount
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置任何一年的最大雇主供款金额
+description: 获取或设置任何一年的最大雇主供款额
 type: docs
 weight: 50
 url: /zh/net/aspose.finance.ofx.investment/matchinfo/maxmatchamount/
 ---
 ## MatchInfo.MaxMatchAmount property
 
-获取或设置任何一年的最大雇主供款金额。
+获取或设置任何一年的最大雇主供款额。
 
 ```csharp
 public string MaxMatchAmount { get; set; }

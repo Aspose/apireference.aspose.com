@@ -1,14 +1,14 @@
 ---
 title: Id
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает идентификатор вRoleTypeaspose.finance.xbrl/roletype.
+description: Получает идентификатор вRoleTypeaspose.finance.xbrl/roletype .
 type: docs
 weight: 20
 url: /ru/net/aspose.finance.xbrl/roletype/id/
 ---
 ## RoleType.Id property
 
-Получает идентификатор в[`RoleType`](../../roletype).
+Получает идентификатор в[`RoleType`](../../roletype) .
 
 ```csharp
 public string Id { get; set; }

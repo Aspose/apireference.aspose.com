@@ -1,14 +1,14 @@
 ---
 title: Language
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает требуемый язык для текстовых ответов.
+description: Получает или устанавливает запрошенный язык для текстовых ответов.
 type: docs
 weight: 120
 url: /ru/net/aspose.finance.ofx.signon/signonrequest/language/
 ---
 ## SignonRequest.Language property
 
-Получает или задает требуемый язык для текстовых ответов.
+Получает или устанавливает запрошенный язык для текстовых ответов.
 
 ```csharp
 public LanguageEnum Language { get; set; }

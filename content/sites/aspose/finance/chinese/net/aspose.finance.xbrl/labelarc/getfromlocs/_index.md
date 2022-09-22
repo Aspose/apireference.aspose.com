@@ -1,14 +1,14 @@
 ---
 title: GetFromLocs
 second_title: Aspose.Finance for .NET API 参考
-description: 从LabelArcaspose.finance.xbrl/labelarc中的Locaspose.finance.xbrl/loc获取集合
+description: 获取 from 的集合Locaspose.finance.xbrl/loc在里面LabelArcaspose.finance.xbrl/labelarc.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.xbrl/labelarc/getfromlocs/
 ---
 ## LabelArc.GetFromLocs method
 
-从[`LabelArc`](../../labelarc)中的[`Loc`](../../loc)获取集合。
+获取 from 的集合[`Loc`](../../loc)在里面[`LabelArc`](../../labelarc).
 
 ```csharp
 public List<Loc> GetFromLocs()
@@ -16,7 +16,7 @@ public List<Loc> GetFromLocs()
 
 ### 返回值
 
-来自[`Loc`](../../loc)的集合。
+来自的集合[`Loc`](../../loc).
 
 ### 也可以看看
 

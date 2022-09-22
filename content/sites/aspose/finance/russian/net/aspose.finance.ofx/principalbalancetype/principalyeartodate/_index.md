@@ -1,14 +1,14 @@
 ---
 title: PrincipalYearToDate
 second_title: Справочник по API Aspose.Finance для .NET
-description: Возвращает или задает общую сумму основного долга выплаченную с начала года.
+description: Получает или задает общую сумму основного долга выплаченного за год до настоящего времени.
 type: docs
 weight: 50
 url: /ru/net/aspose.finance.ofx/principalbalancetype/principalyeartodate/
 ---
 ## PrincipalBalanceType.PrincipalYearToDate property
 
-Возвращает или задает общую сумму основного долга, выплаченную с начала года.
+Получает или задает общую сумму основного долга, выплаченного за год до настоящего времени.
 
 ```csharp
 public string PrincipalYearToDate { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: BuyOption
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化BuyOptionaspose.finance.ofx.investment/buyoption类的新实例
+description: 初始化一个新的实例BuyOptionaspose.finance.ofx.investment/buyoption类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.investment/buyoption/buyoption/
 ---
 ## BuyOption constructor
 
-初始化[`BuyOption`](../../buyoption)类的新实例。
+初始化一个新的实例[`BuyOption`](../../buyoption)类.
 
 ```csharp
 public BuyOption()

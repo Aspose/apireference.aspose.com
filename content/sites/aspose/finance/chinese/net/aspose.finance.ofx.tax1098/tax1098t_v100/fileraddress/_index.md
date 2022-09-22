@@ -1,14 +1,14 @@
 ---
 title: FilerAddress
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置FilerAddressaspose.finance.ofx.tax1098/tax1098t_v100/fileraddress
+description: 获取或设置FilerAddressaspose.finance.ofx.tax1098/tax1098t_v100/fileraddress.
 type: docs
 weight: 70
 url: /zh/net/aspose.finance.ofx.tax1098/tax1098t_v100/fileraddress/
 ---
 ## Tax1098T_V100.FilerAddress property
 
-获取或设置`FilerAddress`。
+获取或设置`FilerAddress`.
 
 ```csharp
 public FilerAddress FilerAddress { get; set; }

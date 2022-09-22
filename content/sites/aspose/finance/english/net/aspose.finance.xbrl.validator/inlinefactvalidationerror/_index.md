@@ -3,7 +3,7 @@ title: InlineFactValidationError
 second_title: Aspose.Finance for .NET API Reference
 description: 
 type: docs
-weight: 8110
+weight: 8160
 url: /net/aspose.finance.xbrl.validator/inlinefactvalidationerror/
 ---
 ## InlineFactValidationError class

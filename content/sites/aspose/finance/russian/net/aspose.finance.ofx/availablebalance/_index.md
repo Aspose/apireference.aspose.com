@@ -18,7 +18,7 @@ public class AvailableBalance
 
 | Имя | Описание |
 | --- | --- |
-| [AvailableBalance](availablebalance)() | Инициализирует новый экземпляр класса[`AvailableBalance`](../availablebalance). |
+| [AvailableBalance](availablebalance)() | Инициализирует новый экземпляр[`AvailableBalance`](../availablebalance) класс. |
 
 ## Характеристики
 

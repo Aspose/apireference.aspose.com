@@ -18,17 +18,17 @@ public class PresentmentMailSyncRequest : AbstractSyncRequest
 
 | Имя | Описание |
 | --- | --- |
-| [PresentmentMailSyncRequest](presentmentmailsyncrequest)() | Инициализирует новый экземпляр класса[`PresentmentMailSyncRequest`](../presentmentmailsyncrequest). |
+| [PresentmentMailSyncRequest](presentmentmailsyncrequest)() | Инициализирует новый экземпляр[`PresentmentMailSyncRequest`](../presentmentmailsyncrequest) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
 | [IncludeImages](../../aspose.finance.ofx.billerdelivery/presentmentmailsyncrequest/includeimages) { get; set; } | Истинно, если клиент принимает почту с изображениями в теле сообщения. False, если клиент не принимает почту с изображениями в теле сообщения. |
-| [OfxExtension](../../aspose.finance.ofx.billerdelivery/presentmentmailsyncrequest/ofxextension) { get; set; } | Получает или задает[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
-| [PresentmentAccountFrom](../../aspose.finance.ofx.billerdelivery/presentmentmailsyncrequest/presentmentaccountfrom) { get; set; } | Получает или задает значение из[`PresentmentAccount`](../../aspose.finance.ofx/presentmentaccount). |
-| [PresentmentMailTransactionRequests](../../aspose.finance.ofx.billerdelivery/presentmentmailsyncrequest/presentmentmailtransactionrequests) { get; set; } | Получает или задает коллекцию[`PresentmentMailTransactionRequest`](../presentmentmailtransactionrequest). |
-| [Refresh](../../aspose.finance.ofx/abstractsyncrequest/refresh) { get; set; } | Получает или задает запрос на обновление текущего состояния. |
+| [OfxExtension](../../aspose.finance.ofx.billerdelivery/presentmentmailsyncrequest/ofxextension) { get; set; } | Получает или задает[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype) . |
+| [PresentmentAccountFrom](../../aspose.finance.ofx.billerdelivery/presentmentmailsyncrequest/presentmentaccountfrom) { get; set; } | Получает или задает из[`PresentmentAccount`](../../aspose.finance.ofx/presentmentaccount) . |
+| [PresentmentMailTransactionRequests](../../aspose.finance.ofx.billerdelivery/presentmentmailsyncrequest/presentmentmailtransactionrequests) { get; set; } | Получает или задает коллекцию[`PresentmentMailTransactionRequest`](../presentmentmailtransactionrequest) . |
+| [Refresh](../../aspose.finance.ofx/abstractsyncrequest/refresh) { get; set; } | Получает или устанавливает запрос на обновление текущего состояния. |
 | [RejectIfMisssing](../../aspose.finance.ofx/abstractsyncrequest/rejectifmisssing) { get; set; } | Если да, не обрабатывать запросы, если токен клиента устарел. |
 | [Token](../../aspose.finance.ofx/abstractsyncrequest/token) { get; set; } | Получает или задает токен. |
 | [TokenOnly](../../aspose.finance.ofx/abstractsyncrequest/tokenonly) { get; set; } | Получает или задает, запрашивать ли только текущий токен без истории. |

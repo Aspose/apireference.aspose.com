@@ -1,14 +1,14 @@
 ---
 title: InvestmentTransactionList
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置InvestmentTransactionListaspose.finance.ofx.investment/investmentstatementresponse/investmenttransactionlist
+description: 获取或设置InvestmentTransactionListaspose.finance.ofx.investment/investmentstatementresponse/investmenttransactionlist.
 type: docs
 weight: 100
 url: /zh/net/aspose.finance.ofx.investment/investmentstatementresponse/investmenttransactionlist/
 ---
 ## InvestmentStatementResponse.InvestmentTransactionList property
 
-获取或设置`InvestmentTransactionList`。
+获取或设置`InvestmentTransactionList`.
 
 ```csharp
 public InvestmentTransactionList InvestmentTransactionList { get; set; }

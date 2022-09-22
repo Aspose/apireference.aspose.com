@@ -1,14 +1,14 @@
 ---
 title: ImageData
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置ImageDataaspose.finance.ofx.loan/loanclosing/imagedata
+description: 获取或设置ImageDataaspose.finance.ofx.loan/loanclosing/imagedata.
 type: docs
 weight: 110
 url: /zh/net/aspose.finance.ofx.loan/loanclosing/imagedata/
 ---
 ## LoanClosing.ImageData property
 
-获取或设置`ImageData`。
+获取或设置`ImageData`.
 
 ```csharp
 public ImageData ImageData { get; set; }

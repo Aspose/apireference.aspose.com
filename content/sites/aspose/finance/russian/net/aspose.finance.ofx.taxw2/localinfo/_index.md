@@ -1,14 +1,14 @@
 ---
 title: LocalInfo
 second_title: Справочник по API Aspose.Finance для .NET
-description: Местный информационный класс.
+description: Локальный информационный класс.
 type: docs
 weight: 6150
 url: /ru/net/aspose.finance.ofx.taxw2/localinfo/
 ---
 ## LocalInfo class
 
-Местный информационный класс.
+Локальный информационный класс.
 
 ```csharp
 public class LocalInfo
@@ -18,13 +18,13 @@ public class LocalInfo
 
 | Имя | Описание |
 | --- | --- |
-| [LocalInfo](localinfo)() | Инициализирует новый экземпляр класса[`LocalInfo`](../localinfo). |
+| [LocalInfo](localinfo)() | Инициализирует новый экземпляр[`LocalInfo`](../localinfo) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [Locality](../../aspose.finance.ofx.taxw2/localinfo/locality) { get; set; } | Получает или задает название местоположения. |
+| [Locality](../../aspose.finance.ofx.taxw2/localinfo/locality) { get; set; } | Получает или задает имя местности. |
 | [LocalityState](../../aspose.finance.ofx.taxw2/localinfo/localitystate) { get; set; } | Получает или задает двухсимвольное состояние, связанное с этой местностью. |
 | [LocalTaxWithheld](../../aspose.finance.ofx.taxw2/localinfo/localtaxwithheld) { get; set; } | Получает или задает удержанный местный налог. |
 | [LocalWages](../../aspose.finance.ofx.taxw2/localinfo/localwages) { get; set; } | Получает или устанавливает местную заработную плату, чаевые и т. д. |

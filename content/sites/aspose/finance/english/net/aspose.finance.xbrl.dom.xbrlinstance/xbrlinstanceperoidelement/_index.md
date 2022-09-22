@@ -3,7 +3,7 @@ title: XbrlInstancePeroidElement
 second_title: Aspose.Finance for .NET API Reference
 description: The class represents xbrl instance period element.
 type: docs
-weight: 7520
+weight: 7550
 url: /net/aspose.finance.xbrl.dom.xbrlinstance/xbrlinstanceperoidelement/
 ---
 ## XbrlInstancePeroidElement class

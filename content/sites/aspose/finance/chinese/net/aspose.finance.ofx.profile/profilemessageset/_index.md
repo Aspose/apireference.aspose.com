@@ -18,13 +18,13 @@ public class ProfileMessageSet : AbstractMessageSet
 
 | 姓名 | 描述 |
 | --- | --- |
-| [ProfileMessageSet](profilemessageset)() | 初始化[`ProfileMessageSet`](../profilemessageset)类的新实例。 |
+| [ProfileMessageSet](profilemessageset)() | 初始化一个新的实例[`ProfileMessageSet`](../profilemessageset)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [ProfileMessageSetV1](../../aspose.finance.ofx.profile/profilemessageset/profilemessagesetv1) { get; set; } | 获取或设置[`ProfileMessageSetV1`](./profilemessagesetv1)的集合。 |
+| [ProfileMessageSetV1](../../aspose.finance.ofx.profile/profilemessageset/profilemessagesetv1) { get; set; } | 获取或设置的集合[`ProfileMessageSetV1`](./profilemessagesetv1). |
 
 ### 也可以看看
 

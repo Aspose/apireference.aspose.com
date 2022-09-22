@@ -18,7 +18,7 @@ public abstract class AbstractMessageSetVersion
 
 | 姓名 | 描述 |
 | --- | --- |
-| [MessageSetCore](../../aspose.finance.ofx.profile/abstractmessagesetversion/messagesetcore) { get; set; } | 获取或设置[`MessageSetCore`](./messagesetcore)。 |
+| [MessageSetCore](../../aspose.finance.ofx.profile/abstractmessagesetversion/messagesetcore) { get; set; } | 获取或设置[`MessageSetCore`](./messagesetcore). |
 
 ### 也可以看看
 

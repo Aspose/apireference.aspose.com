@@ -1,14 +1,14 @@
 ---
 title: ReferenceParts
 second_title: Aspose.Finance for .NET API 参考
-description: 获取ReferencePartaspose.finance.xbrl/referencepart的集合
+description: 获取集合ReferencePartaspose.finance.xbrl/referencepart.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.xbrl/reference/referenceparts/
 ---
 ## Reference.ReferenceParts property
 
-获取[`ReferencePart`](../../referencepart)的集合。
+获取集合[`ReferencePart`](../../referencepart).
 
 ```csharp
 public List<ReferencePart> ReferenceParts { get; }

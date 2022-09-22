@@ -1,14 +1,14 @@
 ---
 title: IncludeBalance
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置是否包含投资余额作为响应
+description: 获取或设置是否在响应中包含投资余额
 type: docs
 weight: 40
 url: /zh/net/aspose.finance.ofx.investment/investmentstatementrequest/includebalance/
 ---
 ## InvestmentStatementRequest.IncludeBalance property
 
-获取或设置是否包含投资余额作为响应。
+获取或设置是否在响应中包含投资余额。
 
 ```csharp
 public bool IncludeBalance { get; set; }

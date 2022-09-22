@@ -18,19 +18,19 @@ public class MailSyncRequest : AbstractSyncRequest
 
 | 姓名 | 描述 |
 | --- | --- |
-| [MailSyncRequest](mailsyncrequest)() | 初始化[`MailSyncRequest`](../mailsyncrequest)类的新实例。 |
+| [MailSyncRequest](mailsyncrequest)() | 初始化一个新的实例[`MailSyncRequest`](../mailsyncrequest)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
 | [IncludeImages](../../aspose.finance.ofx.email/mailsyncrequest/includeimages) { get; set; } | 如果客户端接受邮件正文中包含图像的邮件，则为 True，如果客户端不接受邮件正文中包含图像的邮件，则为 False |
-| [MailTransactionRequests](../../aspose.finance.ofx.email/mailsyncrequest/mailtransactionrequests) { get; set; } | 获取或设置[`MailTransactionRequest`](../mailtransactionrequest)的集合。 |
-| [OfxExtension](../../aspose.finance.ofx.email/mailsyncrequest/ofxextension) { get; set; } | 获取或设置[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype)。 |
+| [MailTransactionRequests](../../aspose.finance.ofx.email/mailsyncrequest/mailtransactionrequests) { get; set; } | 获取或设置的集合[`MailTransactionRequest`](../mailtransactionrequest). |
+| [OfxExtension](../../aspose.finance.ofx.email/mailsyncrequest/ofxextension) { get; set; } | 获取或设置[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
 | [Refresh](../../aspose.finance.ofx/abstractsyncrequest/refresh) { get; set; } | 获取或设置是否请求刷新当前状态。 |
-| [RejectIfMisssing](../../aspose.finance.ofx/abstractsyncrequest/rejectifmisssing) { get; set; } | 如果是，如果客户端令牌已过期，请不要处理请求。 |
+| [RejectIfMisssing](../../aspose.finance.ofx/abstractsyncrequest/rejectifmisssing) { get; set; } | 如果是，如果客户端令牌已过期，则不处理请求。 |
 | [Token](../../aspose.finance.ofx/abstractsyncrequest/token) { get; set; } | 获取或设置令牌。 |
-| [TokenOnly](../../aspose.finance.ofx/abstractsyncrequest/tokenonly) { get; set; } | 获取或设置是否只请求当前令牌而不请求历史。 |
+| [TokenOnly](../../aspose.finance.ofx/abstractsyncrequest/tokenonly) { get; set; } | 获取或设置是否只请求当前令牌而不请求历史记录。 |
 | [UseHtml](../../aspose.finance.ofx.email/mailsyncrequest/usehtml) { get; set; } | 如果客户端需要 HTML 响应，则为 True，如果客户端需要纯文本，则为 False。 |
 
 ### 也可以看看

@@ -1,14 +1,14 @@
 ---
 title: Id
 second_title: Aspose.Finance for .NET API 参考
-description: 获取RoleTypeaspose.finance.xbrl/roletype中的 id
+description: 获取 idRoleTypeaspose.finance.xbrl/roletype.
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.xbrl/roletype/id/
 ---
 ## RoleType.Id property
 
-获取[`RoleType`](../../roletype)中的 id。
+获取 id[`RoleType`](../../roletype).
 
 ```csharp
 public string Id { get; set; }

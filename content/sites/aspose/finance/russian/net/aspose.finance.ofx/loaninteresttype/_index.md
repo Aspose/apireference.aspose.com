@@ -18,16 +18,16 @@ public class LoanInterestType
 
 | Имя | Описание |
 | --- | --- |
-| [LoanInterestType](loaninteresttype)() | Инициализирует новый экземпляр класса[`LoanInterestType`](../loaninteresttype). |
+| [LoanInterestType](loaninteresttype)() | Инициализирует новый экземпляр[`LoanInterestType`](../loaninteresttype) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [DateAsOf](../../aspose.finance.ofx/loaninteresttype/dateasof) { get; set; } | Получает или задает дату и время сведений о процентах. |
-| [LoanInterestLoanToDate](../../aspose.finance.ofx/loaninteresttype/loaninterestloantodate) { get; set; } | Получает или задает общую сумму выплаченных процентов по кредиту на сегодняшний день |
+| [DateAsOf](../../aspose.finance.ofx/loaninteresttype/dateasof) { get; set; } | Получает или задает дату и время информации о процентах. |
+| [LoanInterestLoanToDate](../../aspose.finance.ofx/loaninteresttype/loaninterestloantodate) { get; set; } | Получает или задает общую сумму выплаченных процентов по кредиту на дату |
 | [LoanInterestProject](../../aspose.finance.ofx/loaninteresttype/loaninterestproject) { get; set; } | Получает или задает общий прогнозируемый процент, подлежащий выплате по этому кредиту |
-| [LoanInterestYearToDate](../../aspose.finance.ofx/loaninteresttype/loaninterestyeartodate) { get; set; } | Получает или задает общую сумму процентов, выплаченных с начала года до текущей даты. |
+| [LoanInterestYearToDate](../../aspose.finance.ofx/loaninteresttype/loaninterestyeartodate) { get; set; } | Получает или задает общую сумму процентов, выплаченных за год до настоящего времени. |
 
 ### Смотрите также
 

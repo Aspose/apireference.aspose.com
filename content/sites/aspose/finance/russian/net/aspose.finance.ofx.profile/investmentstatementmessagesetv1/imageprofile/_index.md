@@ -1,14 +1,14 @@
 ---
 title: ImageProfile
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задаетImageProfileaspose.finance.ofx.profile/investmentstatementmessagesetv1/imageprofile.
+description: Получает или задаетImageProfileaspose.finance.ofx.profile/investmentstatementmessagesetv1/imageprofile .
 type: docs
 weight: 50
 url: /ru/net/aspose.finance.ofx.profile/investmentstatementmessagesetv1/imageprofile/
 ---
 ## InvestmentStatementMessageSetV1.ImageProfile property
 
-Получает или задает`ImageProfile`.
+Получает или задает`ImageProfile` .
 
 ```csharp
 public ImageProfile ImageProfile { get; set; }

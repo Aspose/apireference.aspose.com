@@ -18,14 +18,14 @@ public class InvestmentClosing
 
 | Имя | Описание |
 | --- | --- |
-| [InvestmentClosing](investmentclosing)() | Инициализирует новый экземпляр класса[`InvestmentClosing`](../investmentclosing). |
+| [InvestmentClosing](investmentclosing)() | Инициализирует новый экземпляр[`InvestmentClosing`](../investmentclosing) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
 | [FITransactionId](../../aspose.finance.ofx.investment/investmentclosing/fitransactionid) { get; set; } | Получает или задает уникальный идентификатор для этого оператора. |
-| [ImageData](../../aspose.finance.ofx.investment/investmentclosing/imagedata) { get; set; } | Получает или задает[`ImageData`](./imagedata). |
+| [ImageData](../../aspose.finance.ofx.investment/investmentclosing/imagedata) { get; set; } | Получает или задает[`ImageData`](./imagedata) . |
 
 ### Смотрите также
 

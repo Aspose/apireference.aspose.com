@@ -3,7 +3,7 @@ title: RecurringInterCancellationRequest
 second_title: Aspose.Finance for .NET API Reference
 description: Recurring Interbank transfer cancellation request class.
 type: docs
-weight: 2490
+weight: 2500
 url: /net/aspose.finance.ofx.intertransfer/recurringintercancellationrequest/
 ---
 ## RecurringInterCancellationRequest class

@@ -1,14 +1,14 @@
 ---
 title: RecurringIntraModRequest
 second_title: Справочник по API Aspose.Finance для .NET
-description: Класс запроса на повторяющуюся внутрибанковскую модификацию.
+description: Класс повторяющихся внутрибанковских запросов на изменение.
 type: docs
 weight: 550
 url: /ru/net/aspose.finance.ofx.bank/recurringintramodrequest/
 ---
 ## RecurringIntraModRequest class
 
-Класс запроса на повторяющуюся внутрибанковскую модификацию.
+Класс повторяющихся внутрибанковских запросов на изменение.
 
 ```csharp
 public class RecurringIntraModRequest : AbstractRecurringIntraRequest
@@ -18,15 +18,15 @@ public class RecurringIntraModRequest : AbstractRecurringIntraRequest
 
 | Имя | Описание |
 | --- | --- |
-| [RecurringIntraModRequest](recurringintramodrequest)() | Инициализирует новый экземпляр класса[`RecurringIntraModRequest`](../recurringintramodrequest). |
+| [RecurringIntraModRequest](recurringintramodrequest)() | Инициализирует новый экземпляр[`RecurringIntraModRequest`](../recurringintramodrequest) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [IntraRequest](../../aspose.finance.ofx.bank/recurringintramodrequest/intrarequest) { get; set; } | Получает или задает[`IntraRequest`](./intrarequest). |
+| [IntraRequest](../../aspose.finance.ofx.bank/recurringintramodrequest/intrarequest) { get; set; } | Получает или задает[`IntraRequest`](./intrarequest) . |
 | [ModifyPending](../../aspose.finance.ofx.bank/recurringintramodrequest/modifypending) { get; set; } | Получает или устанавливает флаг ожидания изменения. |
-| [RecurringInstructions](../../aspose.finance.ofx.bank/recurringintramodrequest/recurringinstructions) { get; set; } | Получает или задает[`RecurringInstructions`](./recurringinstructions). |
+| [RecurringInstructions](../../aspose.finance.ofx.bank/recurringintramodrequest/recurringinstructions) { get; set; } | Получает или задает[`RecurringInstructions`](./recurringinstructions) . |
 | [RecurringServerId](../../aspose.finance.ofx.bank/recurringintramodrequest/recurringserverid) { get; set; } | Получает или задает идентификатор, присвоенный сервером модифицируемой модели. |
 
 ### Смотрите также

@@ -1,14 +1,14 @@
 ---
 title: TupleRefId
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает идентификатор ссылки на кортежInlineFractionaspose.finance.xbrl.inline/inlinefraction.
+description: Получает или задает идентификатор ссылки на кортежInlineFractionaspose.finance.xbrl.inline/inlinefraction .
 type: docs
 weight: 50
 url: /ru/net/aspose.finance.xbrl.inline/inlinefraction/tuplerefid/
 ---
 ## InlineFraction.TupleRefId property
 
-Получает или задает идентификатор ссылки на кортеж[`InlineFraction`](../../inlinefraction).
+Получает или задает идентификатор ссылки на кортеж[`InlineFraction`](../../inlinefraction) .
 
 ```csharp
 public string TupleRefId { get; set; }

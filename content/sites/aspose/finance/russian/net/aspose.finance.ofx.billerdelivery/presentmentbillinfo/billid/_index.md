@@ -1,14 +1,14 @@
 ---
 title: BillId
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает идентификатор для этого счета в издателе счетов.
+description: Получает или задает идентификатор этого счета в издателе счетов.
 type: docs
 weight: 70
 url: /ru/net/aspose.finance.ofx.billerdelivery/presentmentbillinfo/billid/
 ---
 ## PresentmentBillInfo.BillId property
 
-Получает или задает идентификатор для этого счета в издателе счетов.
+Получает или задает идентификатор этого счета в издателе счетов.
 
 ```csharp
 public string BillId { get; set; }

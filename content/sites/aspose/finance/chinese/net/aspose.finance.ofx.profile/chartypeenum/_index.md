@@ -1,14 +1,14 @@
 ---
 title: CharTypeEnum
 second_title: Aspose.Finance for .NET API 参考
-description: 键入密码中允许的字符的枚举
+description: 键入密码中允许的字符枚举
 type: docs
 weight: 4410
 url: /zh/net/aspose.finance.ofx.profile/chartypeenum/
 ---
 ## CharTypeEnum enumeration
 
-键入密码中允许的字符的枚举。
+键入密码中允许的字符枚举。
 
 ```csharp
 public enum CharTypeEnum

@@ -3,7 +3,7 @@ title: HTMLTextAreaElement
 second_title: Aspose.Finance for .NET API Reference
 description: The class represents Multi-line text field. See the TEXTAREA element definition in HTML 4.01.
 type: docs
-weight: 7250
+weight: 7280
 url: /net/aspose.finance.xbrl.dom.html/htmltextareaelement/
 ---
 ## HTMLTextAreaElement class

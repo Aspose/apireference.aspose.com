@@ -18,13 +18,13 @@ public class PresentmentDirRequestMessageSetV1 : AbstractRequestMessageSet
 
 | 姓名 | 描述 |
 | --- | --- |
-| [PresentmentDirRequestMessageSetV1](presentmentdirrequestmessagesetv1)() | 初始化[`PresentmentDirRequestMessageSetV1`](../presentmentdirrequestmessagesetv1)类的新实例。 |
+| [PresentmentDirRequestMessageSetV1](presentmentdirrequestmessagesetv1)() | 初始化一个新的实例[`PresentmentDirRequestMessageSetV1`](../presentmentdirrequestmessagesetv1)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [FindBillerTransactionRequests](../../aspose.finance.ofx/presentmentdirrequestmessagesetv1/findbillertransactionrequests) { get; set; } | 获取或设置[`FindBillerTransactionRequest`](../../aspose.finance.ofx.billerdirectory/findbillertransactionrequest)的集合。 |
+| [FindBillerTransactionRequests](../../aspose.finance.ofx/presentmentdirrequestmessagesetv1/findbillertransactionrequests) { get; set; } | 获取或设置的集合[`FindBillerTransactionRequest`](../../aspose.finance.ofx.billerdirectory/findbillertransactionrequest). |
 
 ### 也可以看看
 

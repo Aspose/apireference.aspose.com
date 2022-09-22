@@ -18,7 +18,7 @@ public class RecurringInterCancellationResponse : AbstractRecurringInterResponse
 
 | 姓名 | 描述 |
 | --- | --- |
-| [RecurringInterCancellationResponse](recurringintercancellationresponse)() | 初始化[`RecurringInterCancellationResponse`](../recurringintercancellationresponse)类的新实例。 |
+| [RecurringInterCancellationResponse](recurringintercancellationresponse)() | 初始化一个新的实例[`RecurringInterCancellationResponse`](../recurringintercancellationresponse)类. |
 
 ## 特性
 

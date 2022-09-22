@@ -1,14 +1,14 @@
 ---
 title: GetEnumerator
 second_title: Aspose.Finance for .NET API 参考
-description: 返回一个遍历映射的枚举器
+description: 返回一个遍历地图的枚举器
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.xbrl.dom/namednodemap/getenumerator/
 ---
 ## NamedNodeMap.GetEnumerator method
 
-返回一个遍历映射的枚举器。
+返回一个遍历地图的枚举器。
 
 ```csharp
 public IEnumerator<Attr> GetEnumerator()

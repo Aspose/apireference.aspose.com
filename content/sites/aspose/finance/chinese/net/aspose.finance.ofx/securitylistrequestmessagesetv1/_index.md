@@ -18,13 +18,13 @@ public class SecurityListRequestMessageSetV1 : AbstractRequestMessageSet
 
 | 姓名 | 描述 |
 | --- | --- |
-| [SecurityListRequestMessageSetV1](securitylistrequestmessagesetv1)() | 初始化[`SecurityListRequestMessageSetV1`](../securitylistrequestmessagesetv1)类的新实例。 |
+| [SecurityListRequestMessageSetV1](securitylistrequestmessagesetv1)() | 初始化一个新的实例[`SecurityListRequestMessageSetV1`](../securitylistrequestmessagesetv1)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [SecurityListTransactionRequests](../../aspose.finance.ofx/securitylistrequestmessagesetv1/securitylisttransactionrequests) { get; set; } | 获取或设置[`SecurityListTransactionRequest`](../../aspose.finance.ofx.securitieslist/securitylisttransactionrequest)的集合。 |
+| [SecurityListTransactionRequests](../../aspose.finance.ofx/securitylistrequestmessagesetv1/securitylisttransactionrequests) { get; set; } | 获取或设置的集合[`SecurityListTransactionRequest`](../../aspose.finance.ofx.securitieslist/securitylisttransactionrequest). |
 
 ### 也可以看看
 

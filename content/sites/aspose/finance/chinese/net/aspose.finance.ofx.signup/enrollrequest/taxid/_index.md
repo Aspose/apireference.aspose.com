@@ -1,14 +1,14 @@
 ---
 title: TaxId
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置用于税收目的的ID如SSN可以与用户ID相同
+description: 获取或设置用于税务目的的ID如SSN可能与用户ID相同
 type: docs
 weight: 180
 url: /zh/net/aspose.finance.ofx.signup/enrollrequest/taxid/
 ---
 ## EnrollRequest.TaxId property
 
-获取或设置用于税收目的的ID（如SSN），可以与用户ID相同。
+获取或设置用于税务目的的ID（如SSN），可能与用户ID相同。
 
 ```csharp
 public string TaxId { get; set; }

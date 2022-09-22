@@ -1,14 +1,14 @@
 ---
 title: LabelArcs
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает коллекциюLabelArcaspose.finance.xbrl/labelarc.
+description: Получает коллекциюLabelArcaspose.finance.xbrl/labelarc .
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.xbrl/labellink/labelarcs/
 ---
 ## LabelLink.LabelArcs property
 
-Получает коллекцию[`LabelArc`](../../labelarc).
+Получает коллекцию[`LabelArc`](../../labelarc) .
 
 ```csharp
 public List<LabelArc> LabelArcs { get; }

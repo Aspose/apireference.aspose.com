@@ -1,14 +1,14 @@
 ---
 title: LoanInfo
 second_title: Справочник по API Aspose.Finance для .NET
-description: Непогашенные кредиты на счете
+description: Непогашенные кредиты по счету
 type: docs
 weight: 3190
 url: /ru/net/aspose.finance.ofx.investment/loaninfo/
 ---
 ## LoanInfo class
 
-Непогашенные кредиты на счете
+Непогашенные кредиты по счету
 
 ```csharp
 public class LoanInfo
@@ -18,7 +18,7 @@ public class LoanInfo
 
 | Имя | Описание |
 | --- | --- |
-| [LoanInfo](loaninfo)() | Инициализирует новый экземпляр класса[`LoanInfo`](../loaninfo). |
+| [LoanInfo](loaninfo)() | Инициализирует новый экземпляр[`LoanInfo`](../loaninfo) класс. |
 
 ## Характеристики
 
@@ -26,10 +26,10 @@ public class LoanInfo
 | --- | --- |
 | [CurrentLoanBalance](../../aspose.finance.ofx.investment/loaninfo/currentloanbalance) { get; set; } | Получает или задает текущий остаток основной суммы кредита. |
 | [DateAsOf](../../aspose.finance.ofx.investment/loaninfo/dateasof) { get; set; } | Получает или задает дату и время текущего остатка кредита. |
-| [InitialLoanBalance](../../aspose.finance.ofx.investment/loaninfo/initialloanbalance) { get; set; } | Получает или задает начальный остаток кредита. |
-| [LoanDescription](../../aspose.finance.ofx.investment/loaninfo/loandescription) { get; set; } | Получает или задает описание займа |
-| [LoanId](../../aspose.finance.ofx.investment/loaninfo/loanid) { get; set; } | Получает или задает идентификатор этой ссуды. |
-| [LoanInterestToDate](../../aspose.finance.ofx.investment/loaninfo/loaninteresttodate) { get; set; } | Получает или задает общую сумму процентов, выплаченных на сегодняшний день по данному кредиту. |
+| [InitialLoanBalance](../../aspose.finance.ofx.investment/loaninfo/initialloanbalance) { get; set; } | Получает или задает начальный баланс кредита. |
+| [LoanDescription](../../aspose.finance.ofx.investment/loaninfo/loandescription) { get; set; } | Получает или задает описание кредита |
+| [LoanId](../../aspose.finance.ofx.investment/loaninfo/loanid) { get; set; } | Получает или задает идентификатор этого займа. |
+| [LoanInterestToDate](../../aspose.finance.ofx.investment/loaninfo/loaninteresttodate) { get; set; } | Получает или задает общую сумму процентов, выплаченных на сегодняшний день по этому кредиту. |
 | [LoanMaturityDate](../../aspose.finance.ofx.investment/loaninfo/loanmaturitydate) { get; set; } | Получает или задает ожидаемую дату окончания кредита. |
 | [LoanNextPaymentDate](../../aspose.finance.ofx.investment/loaninfo/loannextpaymentdate) { get; set; } | Получает или задает дату следующего платежа. |
 | [LoanPaymentAmount](../../aspose.finance.ofx.investment/loaninfo/loanpaymentamount) { get; set; } | Получает или задает сумму платежа по кредиту. |
@@ -37,8 +37,8 @@ public class LoanInfo
 | [LoanPaymentsInitial](../../aspose.finance.ofx.investment/loaninfo/loanpaymentsinitial) { get; set; } | Получает или задает начальное количество платежей по кредиту. |
 | [LoanPaymentsRemaining](../../aspose.finance.ofx.investment/loaninfo/loanpaymentsremaining) { get; set; } | Получает или задает оставшееся количество платежей по кредиту. |
 | [LoanRate](../../aspose.finance.ofx.investment/loaninfo/loanrate) { get; set; } | Получает или задает годовую процентную ставку по кредиту. |
-| [LoanStartDate](../../aspose.finance.ofx.investment/loaninfo/loanstartdate) { get; set; } | Получает или задает начальную дату кредита. |
-| [LoanTotalProjectInterest](../../aspose.finance.ofx.investment/loaninfo/loantotalprojectinterest) { get; set; } | Получает или задает общий прогнозируемый процент, подлежащий выплате по данному кредиту. |
+| [LoanStartDate](../../aspose.finance.ofx.investment/loaninfo/loanstartdate) { get; set; } | Получает или задает дату начала кредита. |
+| [LoanTotalProjectInterest](../../aspose.finance.ofx.investment/loaninfo/loantotalprojectinterest) { get; set; } | Получает или задает общий прогнозируемый процент, подлежащий выплате по этому кредиту. |
 
 ### Смотрите также
 

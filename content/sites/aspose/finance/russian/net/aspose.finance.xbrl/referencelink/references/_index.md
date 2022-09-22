@@ -1,14 +1,14 @@
 ---
 title: References
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает коллекциюReferenceaspose.finance.xbrl/reference.
+description: Получает коллекциюReferenceaspose.finance.xbrl/reference .
 type: docs
 weight: 30
 url: /ru/net/aspose.finance.xbrl/referencelink/references/
 ---
 ## ReferenceLink.References property
 
-Получает коллекцию[`Reference`](../../reference).
+Получает коллекцию[`Reference`](../../reference) .
 
 ```csharp
 public List<Reference> References { get; }

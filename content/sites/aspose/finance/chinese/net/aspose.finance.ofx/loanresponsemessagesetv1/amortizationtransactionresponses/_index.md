@@ -1,14 +1,14 @@
 ---
 title: AmortizationTransactionResponses
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置AmortizationTransactionResponseaspose.finance.ofx.loan/amortizationtransactionresponse的集合
+description: 获取或设置的集合AmortizationTransactionResponseaspose.finance.ofx.loan/amortizationtransactionresponse.
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.ofx/loanresponsemessagesetv1/amortizationtransactionresponses/
 ---
 ## LoanResponseMessageSetV1.AmortizationTransactionResponses property
 
-获取或设置[`AmortizationTransactionResponse`](../../../aspose.finance.ofx.loan/amortizationtransactionresponse)的集合。
+获取或设置的集合[`AmortizationTransactionResponse`](../../../aspose.finance.ofx.loan/amortizationtransactionresponse).
 
 ```csharp
 public List<AmortizationTransactionResponse> AmortizationTransactionResponses { get; set; }

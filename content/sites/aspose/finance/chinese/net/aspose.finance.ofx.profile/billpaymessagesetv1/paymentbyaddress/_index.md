@@ -1,14 +1,14 @@
 ---
 title: PaymentByAddress
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置是否支持向账单地址标识的收款人付款即Payeeaspose.finance.ofx/payee
+description: 获取或设置是否支持向账单地址标识的收款人付款即Payeeaspose.finance.ofx/payee.
 type: docs
 weight: 120
 url: /zh/net/aspose.finance.ofx.profile/billpaymessagesetv1/paymentbyaddress/
 ---
 ## BillPayMessageSetV1.PaymentByAddress property
 
-获取或设置是否支持向账单地址标识的收款人付款，即[`Payee`](../../../aspose.finance.ofx/payee)。
+获取或设置是否支持向账单地址标识的收款人付款，即[`Payee`](../../../aspose.finance.ofx/payee).
 
 ```csharp
 public bool PaymentByAddress { get; set; }

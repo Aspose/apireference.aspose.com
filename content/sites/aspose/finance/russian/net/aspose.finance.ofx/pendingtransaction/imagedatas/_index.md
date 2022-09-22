@@ -1,14 +1,14 @@
 ---
 title: ImageDatas
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает коллекциюImageDataaspose.finance.ofx/imagedata.
+description: Получает или задает коллекциюImageDataaspose.finance.ofx/imagedata .
 type: docs
 weight: 50
 url: /ru/net/aspose.finance.ofx/pendingtransaction/imagedatas/
 ---
 ## PendingTransaction.ImageDatas property
 
-Получает или задает коллекцию[`ImageData`](../../imagedata).
+Получает или задает коллекцию[`ImageData`](../../imagedata) .
 
 ```csharp
 public List<ImageData> ImageDatas { get; set; }

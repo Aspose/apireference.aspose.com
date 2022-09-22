@@ -1,14 +1,14 @@
 ---
 title: Others
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置Otheraspose.finance.ofx.taxw2/other的集合
+description: 获取或设置的集合Otheraspose.finance.ofx.taxw2/other.
 type: docs
 weight: 130
 url: /zh/net/aspose.finance.ofx.taxw2/taxw2_v100/others/
 ---
 ## TaxW2_V100.Others property
 
-获取或设置[`Other`](../../other)的集合。
+获取或设置的集合[`Other`](../../other).
 
 ```csharp
 public List<Other> Others { get; set; }

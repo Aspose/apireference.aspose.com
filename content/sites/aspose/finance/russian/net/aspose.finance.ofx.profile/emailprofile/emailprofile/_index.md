@@ -1,14 +1,14 @@
 ---
 title: EmailProfile
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаEmailProfileaspose.finance.ofx.profile/emailprofile.
+description: Инициализирует новый экземплярEmailProfileaspose.finance.ofx.profile/emailprofile класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.profile/emailprofile/emailprofile/
 ---
 ## EmailProfile constructor
 
-Инициализирует новый экземпляр класса[`EmailProfile`](../../emailprofile).
+Инициализирует новый экземпляр[`EmailProfile`](../../emailprofile) класс.
 
 ```csharp
 public EmailProfile()

@@ -1,14 +1,14 @@
 ---
 title: WireTransactionRequest
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаWireTransactionRequestaspose.finance.ofx.wiretransfer/wiretransactionrequest.
+description: Инициализирует новый экземплярWireTransactionRequestaspose.finance.ofx.wiretransfer/wiretransactionrequest класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.wiretransfer/wiretransactionrequest/wiretransactionrequest/
 ---
 ## WireTransactionRequest constructor
 
-Инициализирует новый экземпляр класса[`WireTransactionRequest`](../../wiretransactionrequest).
+Инициализирует новый экземпляр[`WireTransactionRequest`](../../wiretransactionrequest) класс.
 
 ```csharp
 public WireTransactionRequest()

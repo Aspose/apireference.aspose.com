@@ -1,14 +1,14 @@
 ---
 title: TargetId
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает целевой идентификаторInlineNonnumericaspose.finance.xbrl.inline/inlinenonnumeric.
+description: Получает или задает целевой идентификаторInlineNonnumericaspose.finance.xbrl.inline/inlinenonnumeric .
 type: docs
 weight: 80
 url: /ru/net/aspose.finance.xbrl.inline/inlinenonnumeric/targetid/
 ---
 ## InlineNonnumeric.TargetId property
 
-Получает или задает целевой идентификатор[`InlineNonnumeric`](../../inlinenonnumeric).
+Получает или задает целевой идентификатор[`InlineNonnumeric`](../../inlinenonnumeric) .
 
 ```csharp
 public string TargetId { get; set; }

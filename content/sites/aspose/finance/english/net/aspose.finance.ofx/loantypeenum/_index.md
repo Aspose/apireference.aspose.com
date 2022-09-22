@@ -3,7 +3,7 @@ title: LoanTypeEnum
 second_title: Aspose.Finance for .NET API Reference
 description: Loan type enum.
 type: docs
-weight: 4140
+weight: 4160
 url: /net/aspose.finance.ofx/loantypeenum/
 ---
 ## LoanTypeEnum enumeration

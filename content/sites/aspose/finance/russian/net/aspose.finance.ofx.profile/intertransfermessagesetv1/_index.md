@@ -1,14 +1,14 @@
 ---
 title: InterTransferMessageSetV1
 second_title: Справочник по API Aspose.Finance для .NET
-description: Версия 1 набора сообщений межбанковских переводов.
+description: Версия 1 набора сообщений о межбанковских переводах.
 type: docs
 weight: 4540
 url: /ru/net/aspose.finance.ofx.profile/intertransfermessagesetv1/
 ---
 ## InterTransferMessageSetV1 class
 
-Версия 1 набора сообщений межбанковских переводов.
+Версия 1 набора сообщений о межбанковских переводах.
 
 ```csharp
 public class InterTransferMessageSetV1 : AbstractMessageSetVersion
@@ -18,18 +18,18 @@ public class InterTransferMessageSetV1 : AbstractMessageSetVersion
 
 | Имя | Описание |
 | --- | --- |
-| [InterTransferMessageSetV1](intertransfermessagesetv1)() | Инициализирует новый экземпляр класса[`InterTransferMessageSetV1`](../intertransfermessagesetv1). |
+| [InterTransferMessageSetV1](intertransfermessagesetv1)() | Инициализирует новый экземпляр[`InterTransferMessageSetV1`](../intertransfermessagesetv1) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
 | [CanBillPay](../../aspose.finance.ofx.profile/intertransfermessagesetv1/canbillpay) { get; set; } | Получает или задает, может ли сервер обрабатывать оплату счетов как форму переводов. |
-| [CancelWindow](../../aspose.finance.ofx.profile/intertransfermessagesetv1/cancelwindow) { get; set; } | Получает или задает количество дней после совершения межбанковского перевода, по истечении которого его можно отменить. |
+| [CancelWindow](../../aspose.finance.ofx.profile/intertransfermessagesetv1/cancelwindow) { get; set; } | Получает или задает количество дней после совершения межбанковского перевода, по истечении которых его можно отменить. |
 | [DomesticTransferFee](../../aspose.finance.ofx.profile/intertransfermessagesetv1/domestictransferfee) { get; set; } | Получает или задает стандартную комиссию за внутренний межбанковский перевод. |
 | [InternationalTransferFee](../../aspose.finance.ofx.profile/intertransfermessagesetv1/internationaltransferfee) { get; set; } | Получает или задает стандартную комиссию за международный межбанковский перевод. |
-| [MessageSetCore](../../aspose.finance.ofx.profile/abstractmessagesetversion/messagesetcore) { get; set; } | Получает или задает[`MessageSetCore`](../abstractmessagesetversion/messagesetcore). |
-| [TransferProfile](../../aspose.finance.ofx.profile/intertransfermessagesetv1/transferprofile) { get; set; } | Получает или задает[`TransferProfile`](./transferprofile). |
+| [MessageSetCore](../../aspose.finance.ofx.profile/abstractmessagesetversion/messagesetcore) { get; set; } | Получает или задает[`MessageSetCore`](../abstractmessagesetversion/messagesetcore) . |
+| [TransferProfile](../../aspose.finance.ofx.profile/intertransfermessagesetv1/transferprofile) { get; set; } | Получает или задает[`TransferProfile`](./transferprofile) . |
 
 ### Смотрите также
 

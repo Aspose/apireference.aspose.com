@@ -1,14 +1,14 @@
 ---
 title: IntraModRequest
 second_title: Aspose.Finance for .NET API 参考
-description: 银行内转账修改请求类
+description: 银行内转账修改请求类.
 type: docs
 weight: 450
 url: /zh/net/aspose.finance.ofx.bank/intramodrequest/
 ---
 ## IntraModRequest class
 
-银行内转账修改请求类。
+银行内转账修改请求类.
 
 ```csharp
 public class IntraModRequest : AbstractIntraRequest
@@ -18,14 +18,14 @@ public class IntraModRequest : AbstractIntraRequest
 
 | 姓名 | 描述 |
 | --- | --- |
-| [IntraModRequest](intramodrequest)() | 初始化[`IntraModRequest`](../intramodrequest)类的新实例。 |
+| [IntraModRequest](intramodrequest)() | 初始化一个新的实例[`IntraModRequest`](../intramodrequest)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
 | [ServerId](../../aspose.finance.ofx.bank/intramodrequest/serverid) { get; set; } | 获取或设置服务器分配给正在修改的传输的ID。 |
-| [TransferInfo](../../aspose.finance.ofx.bank/intramodrequest/transferinfo) { get; set; } | 获取或设置[`TransferInfo`](./transferinfo)。 |
+| [TransferInfo](../../aspose.finance.ofx.bank/intramodrequest/transferinfo) { get; set; } | 获取或设置[`TransferInfo`](./transferinfo). |
 
 ### 也可以看看
 

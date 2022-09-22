@@ -1,14 +1,14 @@
 ---
 title: ProceedDescription_V100
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化ProceedDescription_V100aspose.finance.ofx.tax1099/proceeddescription_v100类的新实例
+description: 初始化一个新的实例ProceedDescription_V100aspose.finance.ofx.tax1099/proceeddescription_v100类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.tax1099/proceeddescription_v100/proceeddescription_v100/
 ---
 ## ProceedDescription_V100 constructor
 
-初始化[`ProceedDescription_V100`](../../proceeddescription_v100)类的新实例。
+初始化一个新的实例[`ProceedDescription_V100`](../../proceeddescription_v100)类.
 
 ```csharp
 public ProceedDescription_V100()

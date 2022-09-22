@@ -1,14 +1,14 @@
 ---
 title: Tax1099B_V100
 second_title: Aspose.Finance for .NET API 参考
-description: Tax 1099B V100 表格类
+description: 税 1099B V100 表格类
 type: docs
 weight: 5990
 url: /zh/net/aspose.finance.ofx.tax1099/tax1099b_v100/
 ---
 ## Tax1099B_V100 class
 
-Tax 1099B V100 表格类。
+税 1099B V100 表格类。
 
 ```csharp
 public class Tax1099B_V100 : AbstractTaxForm1099
@@ -18,33 +18,33 @@ public class Tax1099B_V100 : AbstractTaxForm1099
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Tax1099B_V100](tax1099b_v100)() | 初始化[`Tax1099B_V100`](../tax1099b_v100)类的新实例。 |
+| [Tax1099B_V100](tax1099b_v100)() | 初始化一个新的实例[`Tax1099B_V100`](../tax1099b_v100)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [AggregateProfit](../../aspose.finance.ofx.tax1099/tax1099b_v100/aggregateprofit) { get; set; } | 获取或设置总盈亏。 |
+| [AggregateProfit](../../aspose.finance.ofx.tax1099/tax1099b_v100/aggregateprofit) { get; set; } | 获取或设置总损益。 |
 | [Bartering](../../aspose.finance.ofx.tax1099/tax1099b_v100/bartering) { get; set; } | 获取或设置易货交易。 |
 | [Corrected](../../aspose.finance.ofx.tax1099/abstracttaxform1099/corrected) { get; set; } | 获取或设置这是否是一个更正的形式。 |
 | [CUSIPNumber](../../aspose.finance.ofx.tax1099/tax1099b_v100/cusipnumber) { get; set; } | 获取或设置统一安全身份程序委员会编号。 |
 | [Description](../../aspose.finance.ofx.tax1099/tax1099b_v100/description) { get; set; } | 获取或设置描述。 |
-| [ExtendedBInfo_V100](../../aspose.finance.ofx.tax1099/tax1099b_v100/extendedbinfo_v100) { get; set; } | 获取或设置[`ExtendedBInfo_V100`](./extendedbinfo_v100)。 |
+| [ExtendedBInfo_V100](../../aspose.finance.ofx.tax1099/tax1099b_v100/extendedbinfo_v100) { get; set; } | 获取或设置[`ExtendedBInfo_V100`](./extendedbinfo_v100). |
 | [FederalTaxWithheld](../../aspose.finance.ofx.tax1099/tax1099b_v100/federaltaxwithheld) { get; set; } | 获取或设置预扣的联邦所得税。 |
-| [PayerAddress](../../aspose.finance.ofx.tax1099/tax1099b_v100/payeraddress) { get; set; } | 获取或设置[`PayerAddress`](./payeraddress)。 |
+| [PayerAddress](../../aspose.finance.ofx.tax1099/tax1099b_v100/payeraddress) { get; set; } | 获取或设置[`PayerAddress`](./payeraddress). |
 | [PayerId](../../aspose.finance.ofx.tax1099/tax1099b_v100/payerid) { get; set; } | 获取或设置付款人的联邦标识号。 |
 | [Profit](../../aspose.finance.ofx.tax1099/tax1099b_v100/profit) { get; set; } | 获取或设置实现的盈亏。 |
 | [RecipientAccount](../../aspose.finance.ofx.tax1099/tax1099b_v100/recipientaccount) { get; set; } | 获取或设置收件人帐号。 |
-| [RecipientAddress](../../aspose.finance.ofx.tax1099/tax1099b_v100/recipientaddress) { get; set; } | 获取或设置[`RecipientAddress`](./recipientaddress)。 |
+| [RecipientAddress](../../aspose.finance.ofx.tax1099/tax1099b_v100/recipientaddress) { get; set; } | 获取或设置[`RecipientAddress`](./recipientaddress). |
 | [RecipientId](../../aspose.finance.ofx.tax1099/tax1099b_v100/recipientid) { get; set; } | 获取或设置收件人的标识号。 |
 | [SaleDate](../../aspose.finance.ofx.tax1099/tax1099b_v100/saledate) { get; set; } | 获取或设置销售日期。 |
-| [ServerId](../../aspose.finance.ofx.tax1099/abstracttaxform1099/serverid) { get; set; } | 获取或设置主机服务器分配给表单的 ID。 |
-| [StocksBonds](../../aspose.finance.ofx.tax1099/tax1099b_v100/stocksbonds) { get; set; } | 获取或设置[`StocksBonds`](./stocksbonds)。 |
+| [ServerId](../../aspose.finance.ofx.tax1099/abstracttaxform1099/serverid) { get; set; } | 获取或设置主机服务器分配给表单的ID。 |
+| [StocksBonds](../../aspose.finance.ofx.tax1099/tax1099b_v100/stocksbonds) { get; set; } | 获取或设置[`StocksBonds`](./stocksbonds). |
 | [TaxYear](../../aspose.finance.ofx.tax1099/abstracttaxform1099/taxyear) { get; set; } | 获取或设置此表单的纳税年度。 |
 | [TINNotification](../../aspose.finance.ofx.tax1099/tax1099b_v100/tinnotification) { get; set; } | 获取或设置第二个 TIN 通知。 |
 | [UnrealizeProfit](../../aspose.finance.ofx.tax1099/tax1099b_v100/unrealizeprofit) { get; set; } | 获取或设置本纳税年度未实现合约的未实现损益。 |
-| [UnrealizeProfitPre](../../aspose.finance.ofx.tax1099/tax1099b_v100/unrealizeprofitpre) { get; set; } | 获取或设置上一纳税年度未结合约的未实现损益。 |
-| [Void](../../aspose.finance.ofx.tax1099/abstracttaxform1099/void) { get; set; } | 获取或设置表单是否为无效。 |
+| [UnrealizeProfitPre](../../aspose.finance.ofx.tax1099/tax1099b_v100/unrealizeprofitpre) { get; set; } | 获取或设置上一纳税年度未实现合约的未实现损益。 |
+| [Void](../../aspose.finance.ofx.tax1099/abstracttaxform1099/void) { get; set; } | 获取或设置表单是否为void。 |
 
 ### 也可以看看
 

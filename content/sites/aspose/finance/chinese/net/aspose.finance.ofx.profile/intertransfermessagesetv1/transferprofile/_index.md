@@ -1,14 +1,14 @@
 ---
 title: TransferProfile
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置TransferProfileaspose.finance.ofx.profile/intertransfermessagesetv1/transferprofile
+description: 获取或设置TransferProfileaspose.finance.ofx.profile/intertransfermessagesetv1/transferprofile.
 type: docs
 weight: 60
 url: /zh/net/aspose.finance.ofx.profile/intertransfermessagesetv1/transferprofile/
 ---
 ## InterTransferMessageSetV1.TransferProfile property
 
-获取或设置`TransferProfile`。
+获取或设置`TransferProfile`.
 
 ```csharp
 public TransferProfile TransferProfile { get; set; }

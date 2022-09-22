@@ -1,14 +1,14 @@
 ---
 title: LoanTransactionList
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置LoanTransactionListaspose.finance.ofx.loan/loanstatementresponse/loantransactionlist
+description: 获取或设置LoanTransactionListaspose.finance.ofx.loan/loanstatementresponse/loantransactionlist.
 type: docs
 weight: 50
 url: /zh/net/aspose.finance.ofx.loan/loanstatementresponse/loantransactionlist/
 ---
 ## LoanStatementResponse.LoanTransactionList property
 
-获取或设置`LoanTransactionList`。
+获取或设置`LoanTransactionList`.
 
 ```csharp
 public LoanTransactionList LoanTransactionList { get; set; }

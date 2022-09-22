@@ -3,7 +3,7 @@ title: WireRequest
 second_title: Aspose.Finance for .NET API Reference
 description: Wire transfer request class.
 type: docs
-weight: 6380
+weight: 6410
 url: /net/aspose.finance.ofx.wiretransfer/wirerequest/
 ---
 ## WireRequest class

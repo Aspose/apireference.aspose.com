@@ -18,14 +18,14 @@ public class MFAChallengeAnswer
 
 | 姓名 | 描述 |
 | --- | --- |
-| [MFAChallengeAnswer](mfachallengeanswer)() | 初始化[`MFAChallengeAnswer`](../mfachallengeanswer)类的新实例。 |
+| [MFAChallengeAnswer](mfachallengeanswer)() | 初始化一个新的实例[`MFAChallengeAnswer`](../mfachallengeanswer)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
 | [MFAPhraseAnswer](../../aspose.finance.ofx.signon/mfachallengeanswer/mfaphraseanswer) { get; set; } | 获取或设置用户对挑战问题的回答。 |
-| [MFAPhraseId](../../aspose.finance.ofx.signon/mfachallengeanswer/mfaphraseid) { get; set; } | 获取或设置挑战问题的标识符。对于这个挑战问题，它应该是唯一的，但对于用户会话来说不是唯一的。 |
+| [MFAPhraseId](../../aspose.finance.ofx.signon/mfachallengeanswer/mfaphraseid) { get; set; } | 获取或设置挑战问题的标识符。对于这个挑战问题，它应该是唯一的，但对于用户 session. 来说不是唯一的 |
 
 ### 也可以看看
 

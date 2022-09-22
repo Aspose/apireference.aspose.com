@@ -1,14 +1,14 @@
 ---
 title: AccountInfoTransactionResponse
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаAccountInfoTransactionResponseaspose.finance.ofx.signup/accountinfotransactionresponse.
+description: Инициализирует новый экземплярAccountInfoTransactionResponseaspose.finance.ofx.signup/accountinfotransactionresponse класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.signup/accountinfotransactionresponse/accountinfotransactionresponse/
 ---
 ## AccountInfoTransactionResponse constructor
 
-Инициализирует новый экземпляр класса[`AccountInfoTransactionResponse`](../../accountinfotransactionresponse).
+Инициализирует новый экземпляр[`AccountInfoTransactionResponse`](../../accountinfotransactionresponse) класс.
 
 ```csharp
 public AccountInfoTransactionResponse()

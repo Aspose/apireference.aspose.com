@@ -3,7 +3,7 @@ title: TaxW2ResponseMessageSetV1
 second_title: Aspose.Finance for .NET API Reference
 description: Tax W2 response messages set version 1 class.
 type: docs
-weight: 6250
+weight: 6280
 url: /net/aspose.finance.ofx/taxw2responsemessagesetv1/
 ---
 ## TaxW2ResponseMessageSetV1 class

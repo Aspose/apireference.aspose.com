@@ -3,7 +3,7 @@ title: LanguageEnum
 second_title: Aspose.Finance for .NET API Reference
 description: Language enum.
 type: docs
-weight: 3700
+weight: 3710
 url: /net/aspose.finance.ofx/languageenum/
 ---
 ## LanguageEnum enumeration

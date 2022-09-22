@@ -18,13 +18,13 @@ public class PresentmentNotifyResponse
 
 | Имя | Описание |
 | --- | --- |
-| [PresentmentNotifyResponse](presentmentnotifyresponse)() | Инициализирует новый экземпляр класса[`PresentmentNotifyResponse`](../presentmentnotifyresponse). |
+| [PresentmentNotifyResponse](presentmentnotifyresponse)() | Инициализирует новый экземпляр[`PresentmentNotifyResponse`](../presentmentnotifyresponse) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [PresentmentDeliveryId](../../aspose.finance.ofx.billerdelivery/presentmentnotifyresponse/presentmentdeliveryid) { get; set; } | Получает или задает[`PresentmentDeliveryId`](./presentmentdeliveryid). |
+| [PresentmentDeliveryId](../../aspose.finance.ofx.billerdelivery/presentmentnotifyresponse/presentmentdeliveryid) { get; set; } | Получает или задает[`PresentmentDeliveryId`](./presentmentdeliveryid) . |
 
 ### Смотрите также
 

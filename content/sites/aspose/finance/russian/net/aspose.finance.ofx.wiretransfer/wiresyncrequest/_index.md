@@ -18,19 +18,19 @@ public class WireSyncRequest : AbstractSyncRequest
 
 | Имя | Описание |
 | --- | --- |
-| [WireSyncRequest](wiresyncrequest)() | Инициализирует новый экземпляр класса[`WireSyncRequest`](../wiresyncrequest). |
+| [WireSyncRequest](wiresyncrequest)() | Инициализирует новый экземпляр[`WireSyncRequest`](../wiresyncrequest) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [BankAccountFrom](../../aspose.finance.ofx.wiretransfer/wiresyncrequest/bankaccountfrom) { get; set; } | Получает или задает значение из[`BankAccount`](../../aspose.finance.ofx/bankaccount). |
-| [OfxExtension](../../aspose.finance.ofx.wiretransfer/wiresyncrequest/ofxextension) { get; set; } | Получает или задает[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
-| [Refresh](../../aspose.finance.ofx/abstractsyncrequest/refresh) { get; set; } | Получает или задает запрос на обновление текущего состояния. |
+| [BankAccountFrom](../../aspose.finance.ofx.wiretransfer/wiresyncrequest/bankaccountfrom) { get; set; } | Получает или задает из[`BankAccount`](../../aspose.finance.ofx/bankaccount) . |
+| [OfxExtension](../../aspose.finance.ofx.wiretransfer/wiresyncrequest/ofxextension) { get; set; } | Получает или задает[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype) . |
+| [Refresh](../../aspose.finance.ofx/abstractsyncrequest/refresh) { get; set; } | Получает или устанавливает запрос на обновление текущего состояния. |
 | [RejectIfMisssing](../../aspose.finance.ofx/abstractsyncrequest/rejectifmisssing) { get; set; } | Если да, не обрабатывать запросы, если токен клиента устарел. |
 | [Token](../../aspose.finance.ofx/abstractsyncrequest/token) { get; set; } | Получает или задает токен. |
 | [TokenOnly](../../aspose.finance.ofx/abstractsyncrequest/tokenonly) { get; set; } | Получает или задает, запрашивать ли только текущий токен без истории. |
-| [WireTransactionRequests](../../aspose.finance.ofx.wiretransfer/wiresyncrequest/wiretransactionrequests) { get; set; } | Получает или задает коллекцию[`WireTransactionRequest`](../wiretransactionrequest). |
+| [WireTransactionRequests](../../aspose.finance.ofx.wiretransfer/wiresyncrequest/wiretransactionrequests) { get; set; } | Получает или задает коллекцию[`WireTransactionRequest`](../wiretransactionrequest) . |
 
 ### Смотрите также
 

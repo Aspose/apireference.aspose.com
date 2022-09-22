@@ -1,7 +1,7 @@
 ---
 title: Country
 second_title: Aspose.Finance for .NET API 参考
-description: 从 ISO/DIS-3166 获取或设置银行的 country.3 字母国家代码
+description: 从 ISO/DIS3166 获取或设置银行的 country.3 字母国家代码
 type: docs
 weight: 70
 url: /zh/net/aspose.finance.ofx.wiretransfer/extbankdescription/country/

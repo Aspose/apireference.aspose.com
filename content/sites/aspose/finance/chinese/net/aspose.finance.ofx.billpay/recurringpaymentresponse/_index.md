@@ -18,19 +18,19 @@ public class RecurringPaymentResponse : AbstractRecurringPaymentResponse
 
 | 姓名 | 描述 |
 | --- | --- |
-| [RecurringPaymentResponse](recurringpaymentresponse)() | 初始化[`RecurringPaymentResponse`](../recurringpaymentresponse)类的新实例。 |
+| [RecurringPaymentResponse](recurringpaymentresponse)() | 初始化一个新的实例[`RecurringPaymentResponse`](../recurringpaymentresponse)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
 | [Currency](../../aspose.finance.ofx.billpay/recurringpaymentresponse/currency) { get; set; } | 获取或设置定期付款响应的默认货币。 |
-| [ExtendedPayee](../../aspose.finance.ofx.billpay/recurringpaymentresponse/extendedpayee) { get; set; } | 获取或设置[`ExtendedPayee`](./extendedpayee)。 |
+| [ExtendedPayee](../../aspose.finance.ofx.billpay/recurringpaymentresponse/extendedpayee) { get; set; } | 获取或设置[`ExtendedPayee`](./extendedpayee). |
 | [FinalAmount](../../aspose.finance.ofx.billpay/recurringpaymentresponse/finalamount) { get; set; } | 获取或设置最终支付的金额。 |
 | [InitialAmount](../../aspose.finance.ofx.billpay/recurringpaymentresponse/initialamount) { get; set; } | 获取或设置首期付款金额。 |
-| [PayeeListId](../../aspose.finance.ofx.billpay/recurringpaymentresponse/payeelistid) { get; set; } | 获取或设置此收款人记录的服务器分配记录ID。 |
-| [PaymentInfo](../../aspose.finance.ofx.billpay/recurringpaymentresponse/paymentinfo) { get; set; } | 获取或设置[`PaymentInfo`](./paymentinfo)。 |
-| [RecurringInstructions](../../aspose.finance.ofx.billpay/recurringpaymentresponse/recurringinstructions) { get; set; } | 获取或设置[`RecurringInstructions`](./recurringinstructions)。 |
+| [PayeeListId](../../aspose.finance.ofx.billpay/recurringpaymentresponse/payeelistid) { get; set; } | 获取或设置此收款人记录的服务器分配记录 ID。 |
+| [PaymentInfo](../../aspose.finance.ofx.billpay/recurringpaymentresponse/paymentinfo) { get; set; } | 获取或设置[`PaymentInfo`](./paymentinfo). |
+| [RecurringInstructions](../../aspose.finance.ofx.billpay/recurringpaymentresponse/recurringinstructions) { get; set; } | 获取或设置[`RecurringInstructions`](./recurringinstructions). |
 | [RecurringServerId](../../aspose.finance.ofx.billpay/abstractrecurringpaymentresponse/recurringserverid) { get; set; } | 获取或设置此事务的服务器分配 ID。 |
 
 ### 也可以看看

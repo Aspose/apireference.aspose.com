@@ -1,14 +1,14 @@
 ---
 title: PaymentInstrument
 second_title: Aspose.Finance for .NET API 参考
-description: 支付工具类
+description: 支付工具类.
 type: docs
 weight: 1900
 url: /zh/net/aspose.finance.ofx.billerdirectory/paymentinstrument/
 ---
 ## PaymentInstrument class
 
-支付工具类。
+支付工具类.
 
 ```csharp
 public class PaymentInstrument
@@ -18,14 +18,14 @@ public class PaymentInstrument
 
 | 姓名 | 描述 |
 | --- | --- |
-| [PaymentInstrument](paymentinstrument)() | 初始化[`PaymentInstrument`](../paymentinstrument)类的新实例。 |
+| [PaymentInstrument](paymentinstrument)() | 初始化一个新的实例[`PaymentInstrument`](../paymentinstrument)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
 | [Brand](../../aspose.finance.ofx.billerdirectory/paymentinstrument/brand) { get; set; } | 获取或设置给定支付类型的接受品牌。 |
-| [PaymentInstrumentType](../../aspose.finance.ofx.billerdirectory/paymentinstrument/paymentinstrumenttype) { get; set; } | 获取或设置支付类型。 |
+| [PaymentInstrumentType](../../aspose.finance.ofx.billerdirectory/paymentinstrument/paymentinstrumenttype) { get; set; } | 获取或设置支付类型 |
 
 ### 也可以看看
 

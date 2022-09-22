@@ -18,16 +18,16 @@ public class CreditCardStatementRequest
 
 | 姓名 | 描述 |
 | --- | --- |
-| [CreditCardStatementRequest](creditcardstatementrequest)() | 初始化[`CreditCardStatementRequest`](../creditcardstatementrequest)类的新实例。 |
+| [CreditCardStatementRequest](creditcardstatementrequest)() | 初始化一个新的实例[`CreditCardStatementRequest`](../creditcardstatementrequest)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [CreditCardAccountFrom](../../aspose.finance.ofx.creditcard/creditcardstatementrequest/creditcardaccountfrom) { get; set; } | 获取或设置[`CreditCardAccount`](../../aspose.finance.ofx/creditcardaccount)的来源。 |
+| [CreditCardAccountFrom](../../aspose.finance.ofx.creditcard/creditcardstatementrequest/creditcardaccountfrom) { get; set; } | 获取或设置 from[`CreditCardAccount`](../../aspose.finance.ofx/creditcardaccount). |
 | [IncludePending](../../aspose.finance.ofx.creditcard/creditcardstatementrequest/includepending) { get; set; } | 获取或设置是否包含待处理事务标志； |
 | [IncludeTransactionImage](../../aspose.finance.ofx.creditcard/creditcardstatementrequest/includetransactionimage) { get; set; } | 获取或设置是否包含交易图像信息。 |
-| [IncTransaction](../../aspose.finance.ofx.creditcard/creditcardstatementrequest/inctransaction) { get; set; } | 获取或设置[`IncTransaction`](./inctransaction)。 |
+| [IncTransaction](../../aspose.finance.ofx.creditcard/creditcardstatementrequest/inctransaction) { get; set; } | 获取或设置[`IncTransaction`](./inctransaction). |
 
 ### 也可以看看
 

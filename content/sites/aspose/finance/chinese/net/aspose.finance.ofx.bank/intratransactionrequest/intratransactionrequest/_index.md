@@ -1,14 +1,14 @@
 ---
 title: IntraTransactionRequest
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化IntraTransactionRequestaspose.finance.ofx.bank/intratransactionrequest类的新实例
+description: 初始化一个新的实例IntraTransactionRequestaspose.finance.ofx.bank/intratransactionrequest类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.bank/intratransactionrequest/intratransactionrequest/
 ---
 ## IntraTransactionRequest constructor
 
-初始化[`IntraTransactionRequest`](../../intratransactionrequest)类的新实例。
+初始化一个新的实例[`IntraTransactionRequest`](../../intratransactionrequest)类.
 
 ```csharp
 public IntraTransactionRequest()

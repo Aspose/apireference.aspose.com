@@ -18,16 +18,16 @@ public class GetMimeTransactionResponse : AbstractTransactionResponse
 
 | Имя | Описание |
 | --- | --- |
-| [GetMimeTransactionResponse](getmimetransactionresponse)() | Инициализирует новый экземпляр класса[`GetMimeTransactionResponse`](../getmimetransactionresponse). |
+| [GetMimeTransactionResponse](getmimetransactionresponse)() | Инициализирует новый экземпляр[`GetMimeTransactionResponse`](../getmimetransactionresponse) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [ClientCookie](../../aspose.finance.ofx/abstracttransactionresponse/clientcookie) { get; set; } | Получает или задает данные, которые будут отображаться в ответе транзакции |
-| [GetMimeResponse](../../aspose.finance.ofx.email/getmimetransactionresponse/getmimeresponse) { get; set; } | Получает или задает[`GetMimeResponse`](./getmimeresponse). |
-| [OfxExtension](../../aspose.finance.ofx.email/getmimetransactionresponse/ofxextension) { get; set; } | Получает или задает[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
-| [Status](../../aspose.finance.ofx/abstracttransactionresponse/status) { get; set; } | Получает или задает[`Status`](../../aspose.finance.ofx/abstracttransactionresponse/status). |
+| [ClientCookie](../../aspose.finance.ofx/abstracttransactionresponse/clientcookie) { get; set; } | Получает или задает данные, которые будут отражены в транзакции response |
+| [GetMimeResponse](../../aspose.finance.ofx.email/getmimetransactionresponse/getmimeresponse) { get; set; } | Получает или задает[`GetMimeResponse`](./getmimeresponse) . |
+| [OfxExtension](../../aspose.finance.ofx.email/getmimetransactionresponse/ofxextension) { get; set; } | Получает или задает[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype) . |
+| [Status](../../aspose.finance.ofx/abstracttransactionresponse/status) { get; set; } | Получает или задает[`Status`](../../aspose.finance.ofx/abstracttransactionresponse/status) . |
 | [TransactionUniqueId](../../aspose.finance.ofx/abstracttransactionresponse/transactionuniqueid) { get; set; } | Получает или задает назначенный клиентом глобальный уникальный идентификатор для этой транзакции. |
 
 ### Смотрите также

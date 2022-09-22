@@ -1,14 +1,14 @@
 ---
 title: SignupRequestMessageSetV1
 second_title: Справочник по API Aspose.Finance для .NET
-description: Сообщения с запросами на регистрацию устанавливают класс версии 1.
+description: Сообщения с запросом на регистрацию устанавливают класс версии 1.
 type: docs
 weight: 5680
 url: /ru/net/aspose.finance.ofx/signuprequestmessagesetv1/
 ---
 ## SignupRequestMessageSetV1 class
 
-Сообщения с запросами на регистрацию устанавливают класс версии 1.
+Сообщения с запросом на регистрацию устанавливают класс версии 1.
 
 ```csharp
 public class SignupRequestMessageSetV1 : AbstractRequestMessageSet
@@ -18,18 +18,18 @@ public class SignupRequestMessageSetV1 : AbstractRequestMessageSet
 
 | Имя | Описание |
 | --- | --- |
-| [SignupRequestMessageSetV1](signuprequestmessagesetv1)() | Инициализирует новый экземпляр класса[`SignupRequestMessageSetV1`](../signuprequestmessagesetv1). |
+| [SignupRequestMessageSetV1](signuprequestmessagesetv1)() | Инициализирует новый экземпляр[`SignupRequestMessageSetV1`](../signuprequestmessagesetv1) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [AccountInfoTransactionRequests](../../aspose.finance.ofx/signuprequestmessagesetv1/accountinfotransactionrequests) { get; set; } | Получает или задает коллекцию[`AccountInfoTransactionRequest`](../../aspose.finance.ofx.signup/accountinfotransactionrequest). |
-| [AccountSyncRequests](../../aspose.finance.ofx/signuprequestmessagesetv1/accountsyncrequests) { get; set; } | Получает или задает коллекцию[`AccountSyncRequest`](../../aspose.finance.ofx.signup/accountsyncrequest). |
-| [AccountTransactionRequests](../../aspose.finance.ofx/signuprequestmessagesetv1/accounttransactionrequests) { get; set; } | Получает или задает коллекцию[`AccountTransactionRequest`](../../aspose.finance.ofx.signup/accounttransactionrequest). |
-| [ChangeUserInfoSyncRequests](../../aspose.finance.ofx/signuprequestmessagesetv1/changeuserinfosyncrequests) { get; set; } | Получает или задает коллекцию[`ChangeUserInfoSyncRequest`](../../aspose.finance.ofx.signup/changeuserinfosyncrequest). |
-| [ChangeUserInfoTransactionRequests](../../aspose.finance.ofx/signuprequestmessagesetv1/changeuserinfotransactionrequests) { get; set; } | Получает или задает коллекцию[`ChangeUserInfoTransactionRequest`](../../aspose.finance.ofx.signup/changeuserinfotransactionrequest). |
-| [EnrollTransactionRequests](../../aspose.finance.ofx/signuprequestmessagesetv1/enrolltransactionrequests) { get; set; } | Получает или задает коллекцию[`EnrollTransactionRequest`](../../aspose.finance.ofx.signup/enrolltransactionrequest). |
+| [AccountInfoTransactionRequests](../../aspose.finance.ofx/signuprequestmessagesetv1/accountinfotransactionrequests) { get; set; } | Получает или задает коллекцию[`AccountInfoTransactionRequest`](../../aspose.finance.ofx.signup/accountinfotransactionrequest) . |
+| [AccountSyncRequests](../../aspose.finance.ofx/signuprequestmessagesetv1/accountsyncrequests) { get; set; } | Получает или задает коллекцию[`AccountSyncRequest`](../../aspose.finance.ofx.signup/accountsyncrequest) . |
+| [AccountTransactionRequests](../../aspose.finance.ofx/signuprequestmessagesetv1/accounttransactionrequests) { get; set; } | Получает или задает коллекцию[`AccountTransactionRequest`](../../aspose.finance.ofx.signup/accounttransactionrequest) . |
+| [ChangeUserInfoSyncRequests](../../aspose.finance.ofx/signuprequestmessagesetv1/changeuserinfosyncrequests) { get; set; } | Получает или задает коллекцию[`ChangeUserInfoSyncRequest`](../../aspose.finance.ofx.signup/changeuserinfosyncrequest) . |
+| [ChangeUserInfoTransactionRequests](../../aspose.finance.ofx/signuprequestmessagesetv1/changeuserinfotransactionrequests) { get; set; } | Получает или задает коллекцию[`ChangeUserInfoTransactionRequest`](../../aspose.finance.ofx.signup/changeuserinfotransactionrequest) . |
+| [EnrollTransactionRequests](../../aspose.finance.ofx/signuprequestmessagesetv1/enrolltransactionrequests) { get; set; } | Получает или задает коллекцию[`EnrollTransactionRequest`](../../aspose.finance.ofx.signup/enrolltransactionrequest) . |
 
 ### Смотрите также
 

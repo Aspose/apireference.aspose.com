@@ -18,13 +18,13 @@ public class PresentmentDirMessageSet : AbstractMessageSet
 
 | 姓名 | 描述 |
 | --- | --- |
-| [PresentmentDirMessageSet](presentmentdirmessageset)() | 初始化[`PresentmentDirMessageSet`](../presentmentdirmessageset)类的新实例。 |
+| [PresentmentDirMessageSet](presentmentdirmessageset)() | 初始化一个新的实例[`PresentmentDirMessageSet`](../presentmentdirmessageset)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [PresentmentDirMessageSetV1s](../../aspose.finance.ofx.profile/presentmentdirmessageset/presentmentdirmessagesetv1s) { get; set; } | 获取或设置[`PresentmentDirMessageSetV1`](../presentmentdirmessagesetv1)的集合。 |
+| [PresentmentDirMessageSetV1s](../../aspose.finance.ofx.profile/presentmentdirmessageset/presentmentdirmessagesetv1s) { get; set; } | 获取或设置的集合[`PresentmentDirMessageSetV1`](../presentmentdirmessagesetv1). |
 
 ### 也可以看看
 

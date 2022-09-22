@@ -1,14 +1,14 @@
 ---
 title: PresentmentNotifyRequest
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化PresentmentNotifyRequestaspose.finance.ofx.billerdelivery/presentmentnotifyrequest类的新实例
+description: 初始化一个新的实例PresentmentNotifyRequestaspose.finance.ofx.billerdelivery/presentmentnotifyrequest类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.billerdelivery/presentmentnotifyrequest/presentmentnotifyrequest/
 ---
 ## PresentmentNotifyRequest constructor
 
-初始化[`PresentmentNotifyRequest`](../../presentmentnotifyrequest)类的新实例。
+初始化一个新的实例[`PresentmentNotifyRequest`](../../presentmentnotifyrequest)类.
 
 ```csharp
 public PresentmentNotifyRequest()

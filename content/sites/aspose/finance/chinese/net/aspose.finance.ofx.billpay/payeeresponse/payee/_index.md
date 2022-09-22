@@ -1,14 +1,14 @@
 ---
 title: Payee
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置完整的Payeeaspose.finance.ofx.billpay/payeeresponse/payee信息
+description: 获取或设置完整的Payeeaspose.finance.ofx.billpay/payeeresponse/payee信息.
 type: docs
 weight: 40
 url: /zh/net/aspose.finance.ofx.billpay/payeeresponse/payee/
 ---
 ## PayeeResponse.Payee property
 
-获取或设置完整的`Payee`信息。
+获取或设置完整的`Payee`信息.
 
 ```csharp
 public Payee Payee { get; set; }

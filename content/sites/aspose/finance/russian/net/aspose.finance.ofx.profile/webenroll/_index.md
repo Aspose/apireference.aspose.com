@@ -18,7 +18,7 @@ public class WebEnroll
 
 | Имя | Описание |
 | --- | --- |
-| [WebEnroll](webenroll)() | Инициализирует новый экземпляр класса[`WebEnroll`](../webenroll). |
+| [WebEnroll](webenroll)() | Инициализирует новый экземпляр[`WebEnroll`](../webenroll) класс. |
 
 ## Характеристики
 

@@ -1,14 +1,14 @@
 ---
 title: BillStatusModTransactionResponse
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化BillStatusModTransactionResponseaspose.finance.ofx.billerdelivery/billstatusmodtransactionresponse类的新实例
+description: 初始化一个新的实例BillStatusModTransactionResponseaspose.finance.ofx.billerdelivery/billstatusmodtransactionresponse类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.billerdelivery/billstatusmodtransactionresponse/billstatusmodtransactionresponse/
 ---
 ## BillStatusModTransactionResponse constructor
 
-初始化[`BillStatusModTransactionResponse`](../../billstatusmodtransactionresponse)类的新实例。
+初始化一个新的实例[`BillStatusModTransactionResponse`](../../billstatusmodtransactionresponse)类.
 
 ```csharp
 public BillStatusModTransactionResponse()

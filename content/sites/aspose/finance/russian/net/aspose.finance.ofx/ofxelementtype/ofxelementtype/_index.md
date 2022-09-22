@@ -1,14 +1,14 @@
 ---
 title: OfxElementType
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаOfxElementTypeaspose.finance.ofx/ofxelementtype.
+description: Инициализирует новый экземплярOfxElementTypeaspose.finance.ofx/ofxelementtype класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx/ofxelementtype/ofxelementtype/
 ---
 ## OfxElementType constructor
 
-Инициализирует новый экземпляр класса[`OfxElementType`](../../ofxelementtype).
+Инициализирует новый экземпляр[`OfxElementType`](../../ofxelementtype) класс.
 
 ```csharp
 public OfxElementType()

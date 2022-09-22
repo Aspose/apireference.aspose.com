@@ -1,14 +1,14 @@
 ---
 title: SignonInfos
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置SignonInfoaspose.finance.ofx.profile/signoninfo的集合
+description: 获取或设置的集合SignonInfoaspose.finance.ofx.profile/signoninfo.
 type: docs
 weight: 140
 url: /zh/net/aspose.finance.ofx.profile/profileresponse/signoninfos/
 ---
 ## ProfileResponse.SignonInfos property
 
-获取或设置[`SignonInfo`](../../signoninfo)的集合。
+获取或设置的集合[`SignonInfo`](../../signoninfo).
 
 ```csharp
 public List<SignonInfo> SignonInfos { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: StateInfos
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置StateInfoaspose.finance.ofx.taxw2/stateinfo的集合
+description: 获取或设置的集合StateInfoaspose.finance.ofx.taxw2/stateinfo.
 type: docs
 weight: 180
 url: /zh/net/aspose.finance.ofx.taxw2/taxw2_v200/stateinfos/
 ---
 ## TaxW2_V200.StateInfos property
 
-获取或设置[`StateInfo`](../../stateinfo)的集合。
+获取或设置的集合[`StateInfo`](../../stateinfo).
 
 ```csharp
 public List<StateInfo> StateInfos { get; set; }

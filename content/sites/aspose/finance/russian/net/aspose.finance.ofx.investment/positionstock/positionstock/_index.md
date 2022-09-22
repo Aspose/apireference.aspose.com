@@ -1,14 +1,14 @@
 ---
 title: PositionStock
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаPositionStockaspose.finance.ofx.investment/positionstock.
+description: Инициализирует новый экземплярPositionStockaspose.finance.ofx.investment/positionstock класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.investment/positionstock/positionstock/
 ---
 ## PositionStock constructor
 
-Инициализирует новый экземпляр класса[`PositionStock`](../../positionstock).
+Инициализирует новый экземпляр[`PositionStock`](../../positionstock) класс.
 
 ```csharp
 public PositionStock()

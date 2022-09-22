@@ -18,7 +18,7 @@ public class OtherInfo : AbstractSecurityInfo
 
 | 姓名 | 描述 |
 | --- | --- |
-| [OtherInfo](otherinfo)() | 初始化[`OtherInfo`](../otherinfo)类的新实例。 |
+| [OtherInfo](otherinfo)() | 初始化一个新的实例[`OtherInfo`](../otherinfo)类. |
 
 ## 特性
 
@@ -26,7 +26,7 @@ public class OtherInfo : AbstractSecurityInfo
 | --- | --- |
 | [AssetClass](../../aspose.finance.ofx.securitieslist/otherinfo/assetclass) { get; set; } | 获取或设置资产类别。 |
 | [FIAssetClass](../../aspose.finance.ofx.securitieslist/otherinfo/fiassetclass) { get; set; } | 获取或设置包含 FI 定义的资产类别的文本字符串。 |
-| [SecurityInfo](../../aspose.finance.ofx.securitieslist/abstractsecurityinfo/securityinfo) { get; set; } | 获取或设置[`GeneralSecurityInfo`](../generalsecurityinfo)。 |
+| [SecurityInfo](../../aspose.finance.ofx.securitieslist/abstractsecurityinfo/securityinfo) { get; set; } | 获取或设置[`GeneralSecurityInfo`](../generalsecurityinfo). |
 | [TypeDescription](../../aspose.finance.ofx.securitieslist/otherinfo/typedescription) { get; set; } | 获取或设置安全类型的描述。 |
 
 ### 也可以看看

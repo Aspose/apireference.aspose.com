@@ -1,14 +1,14 @@
 ---
 title: PresentmentDetailTransactionRequest
 second_title: Справочник по API Aspose.Finance для .NET
-description: Класс запроса детализации счета.
+description: Класс запроса транзакции детали счета.
 type: docs
 weight: 1650
 url: /ru/net/aspose.finance.ofx.billerdelivery/presentmentdetailtransactionrequest/
 ---
 ## PresentmentDetailTransactionRequest class
 
-Класс запроса детализации счета.
+Класс запроса транзакции детали счета.
 
 ```csharp
 public class PresentmentDetailTransactionRequest : AbstractTransactionRequest
@@ -18,15 +18,15 @@ public class PresentmentDetailTransactionRequest : AbstractTransactionRequest
 
 | Имя | Описание |
 | --- | --- |
-| [PresentmentDetailTransactionRequest](presentmentdetailtransactionrequest)() | Инициализирует новый экземпляр класса[`PresentmentDetailTransactionRequest`](../presentmentdetailtransactionrequest). |
+| [PresentmentDetailTransactionRequest](presentmentdetailtransactionrequest)() | Инициализирует новый экземпляр[`PresentmentDetailTransactionRequest`](../presentmentdetailtransactionrequest) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [ClientCookie](../../aspose.finance.ofx/abstracttransactionrequest/clientcookie) { get; set; } | Получает или задает данные, которые будут отображаться в ответе транзакции |
-| [OfxExtension](../../aspose.finance.ofx.billerdelivery/presentmentdetailtransactionrequest/ofxextension) { get; set; } | Получает или задает[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
-| [PresentmentDetailRequest](../../aspose.finance.ofx.billerdelivery/presentmentdetailtransactionrequest/presentmentdetailrequest) { get; set; } | Получает или задает[`PresentmentDetailRequest`](./presentmentdetailrequest). |
+| [ClientCookie](../../aspose.finance.ofx/abstracttransactionrequest/clientcookie) { get; set; } | Получает или задает данные, которые будут отражены в транзакции response |
+| [OfxExtension](../../aspose.finance.ofx.billerdelivery/presentmentdetailtransactionrequest/ofxextension) { get; set; } | Получает или задает[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype) . |
+| [PresentmentDetailRequest](../../aspose.finance.ofx.billerdelivery/presentmentdetailtransactionrequest/presentmentdetailrequest) { get; set; } | Получает или задает[`PresentmentDetailRequest`](./presentmentdetailrequest) . |
 | [TransactionAuthorizationNumber](../../aspose.finance.ofx/abstracttransactionrequest/transactionauthorizationnumber) { get; set; } | Получает или задает номер авторизации транзакции. |
 | [TransactionUniqueId](../../aspose.finance.ofx/abstracttransactionrequest/transactionuniqueid) { get; set; } | Получает или задает назначенный клиентом глобальный уникальный идентификатор для этой транзакции |
 

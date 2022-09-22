@@ -1,14 +1,14 @@
 ---
 title: AccountHolderType
 second_title: Справочник по API Aspose.Finance для .NET
-description: Класс информации о владельце счета.
+description: Класс информации о владельце учетной записи.
 type: docs
 weight: 170
 url: /ru/net/aspose.finance.ofx/accountholdertype/
 ---
 ## AccountHolderType class
 
-Класс информации о владельце счета.
+Класс информации о владельце учетной записи.
 
 ```csharp
 public class AccountHolderType
@@ -18,7 +18,7 @@ public class AccountHolderType
 
 | Имя | Описание |
 | --- | --- |
-| [AccountHolderType](accountholdertype)() | Инициализирует новый экземпляр класса[`AccountHolderType`](../accountholdertype). |
+| [AccountHolderType](accountholdertype)() | Инициализирует новый экземпляр[`AccountHolderType`](../accountholdertype) класс. |
 
 ## Характеристики
 
@@ -29,7 +29,7 @@ public class AccountHolderType
 | [Address3](../../aspose.finance.ofx/accountholdertype/address3) { get; set; } | Получает или задает адресную строку 3. |
 | [City](../../aspose.finance.ofx/accountholdertype/city) { get; set; } | Получает или задает город. |
 | [Country](../../aspose.finance.ofx/accountholdertype/country) { get; set; } | Получает или задает страну. Трехбуквенный код страны из ISO/DIS-3166. |
-| [DayPhone](../../aspose.finance.ofx/accountholdertype/dayphone) { get; set; } | Получает или задает номер телефона для дневного времени. |
+| [DayPhone](../../aspose.finance.ofx/accountholdertype/dayphone) { get; set; } | Получает или устанавливает номер телефона в дневное время. |
 | [Email](../../aspose.finance.ofx/accountholdertype/email) { get; set; } | Получает или задает адрес электронной почты. |
 | [EveningPhone](../../aspose.finance.ofx/accountholdertype/eveningphone) { get; set; } | Получает или устанавливает вечерний номер телефона. |
 | [FirstName](../../aspose.finance.ofx/accountholdertype/firstname) { get; set; } | Получает или задает имя пользователя. |

@@ -1,14 +1,14 @@
 ---
 title: ArcValidationError
 second_title: Справочник по API Aspose.Finance для .NET
-description: Этот класс предназначен для ошибок связанных с проверкой дуги.
+description: Этот класс предназначен для ошибки связанной с проверкой дуги.
 type: docs
 weight: 8080
 url: /ru/net/aspose.finance.xbrl.validator/arcvalidationerror/
 ---
 ## ArcValidationError class
 
-Этот класс предназначен для ошибок, связанных с проверкой дуги.
+Этот класс предназначен для ошибки, связанной с проверкой дуги.
 
 ```csharp
 public class ArcValidationError : ValidationError
@@ -20,7 +20,7 @@ public class ArcValidationError : ValidationError
 | --- | --- |
 | [Code](../../aspose.finance.xbrl.validator/validationerror/code) { get; } | Получает код ошибки проверки. |
 | [Message](../../aspose.finance.xbrl.validator/validationerror/message) { get; } | Получает сообщение об ошибке. |
-| [Object](../../aspose.finance.xbrl.validator/arcvalidationerror/object) { get; } | Получает объект[`Arc`](../../aspose.finance.xbrl/arc)с ошибкой проверки. |
+| [Object](../../aspose.finance.xbrl.validator/arcvalidationerror/object) { get; } | Получает[`Arc`](../../aspose.finance.xbrl/arc)объект с ошибкой проверки. |
 
 ### Смотрите также
 

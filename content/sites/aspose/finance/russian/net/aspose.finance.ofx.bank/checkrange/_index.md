@@ -18,7 +18,7 @@ public class CheckRange : AbstractCheckInfo
 
 | Имя | Описание |
 | --- | --- |
-| [CheckRange](checkrange)() | Инициализирует новый экземпляр класса[`CheckRange`](../checkrange). |
+| [CheckRange](checkrange)() | Инициализирует новый экземпляр[`CheckRange`](../checkrange) класс. |
 
 ## Характеристики
 

@@ -16,7 +16,7 @@ public override string ToString()
 
 ### 返回值
 
-作为命名空间:localname 的字符串。
+作为名称空间的字符串：本地名称。
 
 ### 也可以看看
 

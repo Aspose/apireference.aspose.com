@@ -1,14 +1,14 @@
 ---
 title: CreditCardStatementEndResponse
 second_title: Справочник по API Aspose.Finance для .NET
-description: Класс ответа на отчет о закрытии кредитной карты.
+description: Класс ответа на заявление о закрытии кредитной карты.
 type: docs
 weight: 1970
 url: /ru/net/aspose.finance.ofx.creditcard/creditcardstatementendresponse/
 ---
 ## CreditCardStatementEndResponse class
 
-Класс ответа на отчет о закрытии кредитной карты.
+Класс ответа на заявление о закрытии кредитной карты.
 
 ```csharp
 public class CreditCardStatementEndResponse
@@ -18,14 +18,14 @@ public class CreditCardStatementEndResponse
 
 | Имя | Описание |
 | --- | --- |
-| [CreditCardStatementEndResponse](creditcardstatementendresponse)() | Инициализирует новый экземпляр класса[`CreditCardStatementEndResponse`](../creditcardstatementendresponse). |
+| [CreditCardStatementEndResponse](creditcardstatementendresponse)() | Инициализирует новый экземпляр[`CreditCardStatementEndResponse`](../creditcardstatementendresponse) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [CreditCardAccount](../../aspose.finance.ofx.creditcard/creditcardstatementendresponse/creditcardaccount) { get; set; } | Получает или задает значение из[`CreditCardAccount`](./creditcardaccount). |
-| [CreditCardClosings](../../aspose.finance.ofx.creditcard/creditcardstatementendresponse/creditcardclosings) { get; set; } | Получает или задает коллекцию[`CreditCardClosing`](../creditcardclosing). |
+| [CreditCardAccount](../../aspose.finance.ofx.creditcard/creditcardstatementendresponse/creditcardaccount) { get; set; } | Получает или задает из[`CreditCardAccount`](./creditcardaccount) . |
+| [CreditCardClosings](../../aspose.finance.ofx.creditcard/creditcardstatementendresponse/creditcardclosings) { get; set; } | Получает или задает коллекцию[`CreditCardClosing`](../creditcardclosing) . |
 | [Currency](../../aspose.finance.ofx.creditcard/creditcardstatementendresponse/currency) { get; set; } | Получает или задает валюту по умолчанию, используемую для закрытия информации. |
 
 ### Смотрите также

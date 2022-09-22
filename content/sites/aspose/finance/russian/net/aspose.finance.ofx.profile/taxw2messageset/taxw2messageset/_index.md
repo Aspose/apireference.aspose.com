@@ -1,14 +1,14 @@
 ---
 title: TaxW2MessageSet
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаTaxW2MessageSetaspose.finance.ofx.profile/taxw2messageset.
+description: Инициализирует новый экземплярTaxW2MessageSetaspose.finance.ofx.profile/taxw2messageset класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.profile/taxw2messageset/taxw2messageset/
 ---
 ## TaxW2MessageSet constructor
 
-Инициализирует новый экземпляр класса[`TaxW2MessageSet`](../../taxw2messageset).
+Инициализирует новый экземпляр[`TaxW2MessageSet`](../../taxw2messageset) класс.
 
 ```csharp
 public TaxW2MessageSet()

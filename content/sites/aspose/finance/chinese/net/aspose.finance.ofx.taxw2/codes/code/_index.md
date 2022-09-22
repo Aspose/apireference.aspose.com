@@ -1,14 +1,14 @@
 ---
 title: Code
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置框 12 代码
+description: 获取或设置方框 12 码
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.ofx.taxw2/codes/code/
 ---
 ## Codes.Code property
 
-获取或设置框 12 代码。
+获取或设置方框 12 码。
 
 ```csharp
 public string Code { get; set; }

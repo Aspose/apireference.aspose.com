@@ -1,14 +1,14 @@
 ---
 title: ReferenceArc
 second_title: Справочник по API Aspose.Finance для .NET
-description: Этот класс представляет собой классXlink./xlinkс типом Arc. Он связывает Концепции со справочными ресурсами.
+description: Этот класс являетсяXlink./xlink с типом дуги. Он соединяет концепции со справочными ресурсами.
 type: docs
 weight: 7910
 url: /ru/net/aspose.finance.xbrl/referencearc/
 ---
 ## ReferenceArc class
 
-Этот класс представляет собой класс[`Xlink`](../xlink)с типом Arc. Он связывает Концепции со справочными ресурсами.
+Этот класс является[`Xlink`](../xlink) с типом дуги. Он соединяет концепции со справочными ресурсами.
 
 ```csharp
 public class ReferenceArc : Arc
@@ -19,22 +19,22 @@ public class ReferenceArc : Arc
 | Имя | Описание |
 | --- | --- |
 | [Actuate](../../aspose.finance.xbrl/arc/actuate) { get; set; } | Получает или задает срабатывание дуги. |
-| [Arcrole](../../aspose.finance.xbrl/arc/arcrole) { get; set; } | Получает или задает роль дуги. |
+| [Arcrole](../../aspose.finance.xbrl/arc/arcrole) { get; set; } | Получает или задает роль дуги дуги. |
 | [From](../../aspose.finance.xbrl/arc/from) { get; set; } | Получает или задает метку from дуги. |
 | [Order](../../aspose.finance.xbrl/arc/order) { get; set; } | Получает или задает порядок дуги. |
-| [Priority](../../aspose.finance.xbrl/arc/priority) { get; set; } | Получает или задает приоритет дуги. |
+| [Priority](../../aspose.finance.xbrl/arc/priority) { get; set; } | Получает или устанавливает приоритет дуги. |
 | [Show](../../aspose.finance.xbrl/arc/show) { get; set; } | Получает или задает отображение дуги. |
 | [Title](../../aspose.finance.xbrl/arc/title) { get; set; } | Получает или задает заголовок дуги. |
 | [To](../../aspose.finance.xbrl/arc/to) { get; set; } | Получает или задает метку дуги. |
 | [Type](../../aspose.finance.xbrl/xlink/type) { get; } | Получает тип ссылки. |
-| [Use](../../aspose.finance.xbrl/arc/use) { get; set; } | Получает или задает использование дуги дугой. |
+| [Use](../../aspose.finance.xbrl/arc/use) { get; set; } | Получает или задает использование дуги для дуги. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| [GetFromLocs](../../aspose.finance.xbrl/referencearc/getfromlocs)() | Получает коллекцию из[`Loc`](../loc)в[`ReferenceArc`](../referencearc). |
-| [GetToRefereces](../../aspose.finance.xbrl/referencearc/gettorefereces)() | Получает коллекцию[`Reference`](../reference)в[`ReferenceArc`](../referencearc). |
+| [GetFromLocs](../../aspose.finance.xbrl/referencearc/getfromlocs)() | Получает коллекцию из[`Loc`](../loc) в[`ReferenceArc`](../referencearc) . |
+| [GetToRefereces](../../aspose.finance.xbrl/referencearc/gettorefereces)() | Получает коллекцию[`Reference`](../reference) в[`ReferenceArc`](../referencearc) . |
 
 ### Смотрите также
 

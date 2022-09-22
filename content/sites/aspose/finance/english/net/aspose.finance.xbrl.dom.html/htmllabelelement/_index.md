@@ -3,7 +3,7 @@ title: HTMLLabelElement
 second_title: Aspose.Finance for .NET API Reference
 description: The class represents form field label text. See the LABEL element definition in HTML 4.01.
 type: docs
-weight: 6980
+weight: 7010
 url: /net/aspose.finance.xbrl.dom.html/htmllabelelement/
 ---
 ## HTMLLabelElement class

@@ -3,7 +3,7 @@ title: HTMLTitleElement
 second_title: Aspose.Finance for .NET API Reference
 description: The class represents title element. See the TITLE element definition in HTML 4.01.
 type: docs
-weight: 7260
+weight: 7290
 url: /net/aspose.finance.xbrl.dom.html/htmltitleelement/
 ---
 ## HTMLTitleElement class

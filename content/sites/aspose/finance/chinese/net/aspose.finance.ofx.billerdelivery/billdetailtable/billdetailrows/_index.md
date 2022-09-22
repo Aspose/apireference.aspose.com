@@ -1,14 +1,14 @@
 ---
 title: BillDetailRows
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置BillDetailRowaspose.finance.ofx.billerdelivery/billdetailrow的集合
+description: 获取或设置的集合BillDetailRowaspose.finance.ofx.billerdelivery/billdetailrow.
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.ofx.billerdelivery/billdetailtable/billdetailrows/
 ---
 ## BillDetailTable.BillDetailRows property
 
-获取或设置[`BillDetailRow`](../../billdetailrow)的集合。
+获取或设置的集合[`BillDetailRow`](../../billdetailrow).
 
 ```csharp
 public List<BillDetailRow> BillDetailRows { get; set; }

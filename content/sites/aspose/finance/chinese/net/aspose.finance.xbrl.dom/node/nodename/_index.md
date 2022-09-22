@@ -1,14 +1,14 @@
 ---
 title: NodeName
 second_title: Aspose.Finance for .NET API 参考
-description: 获取节点名称具体取决于其类型
+description: 获取节点名称取决于其类型
 type: docs
 weight: 90
 url: /zh/net/aspose.finance.xbrl.dom/node/nodename/
 ---
 ## Node.NodeName property
 
-获取节点名称，具体取决于其类型。
+获取节点名称，取决于其类型。
 
 ```csharp
 public abstract string NodeName { get; }

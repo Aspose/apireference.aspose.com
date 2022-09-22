@@ -1,14 +1,14 @@
 ---
 title: SignonMessageSetV1
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置SignonMessageSetV1aspose.finance.ofx.profile/signonmessageset/signonmessagesetv1
+description: 获取或设置SignonMessageSetV1aspose.finance.ofx.profile/signonmessageset/signonmessagesetv1.
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.ofx.profile/signonmessageset/signonmessagesetv1/
 ---
 ## SignonMessageSet.SignonMessageSetV1 property
 
-获取或设置`SignonMessageSetV1`。
+获取或设置`SignonMessageSetV1`.
 
 ```csharp
 public SignonMessageSetV1 SignonMessageSetV1 { get; set; }

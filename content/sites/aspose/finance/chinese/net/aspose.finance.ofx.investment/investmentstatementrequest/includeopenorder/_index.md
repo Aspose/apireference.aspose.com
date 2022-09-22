@@ -1,14 +1,14 @@
 ---
 title: IncludeOpenOrder
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置是否包含投资未结订单作为响应
+description: 获取或设置是否在响应中包含投资未结订单
 type: docs
 weight: 50
 url: /zh/net/aspose.finance.ofx.investment/investmentstatementrequest/includeopenorder/
 ---
 ## InvestmentStatementRequest.IncludeOpenOrder property
 
-获取或设置是否包含投资未结订单作为响应。
+获取或设置是否在响应中包含投资未结订单。
 
 ```csharp
 public bool IncludeOpenOrder { get; set; }

@@ -18,7 +18,7 @@ public class ColumnDefinition
 
 | Имя | Описание |
 | --- | --- |
-| [ColumnDefinition](columndefinition)() | Инициализирует новый экземпляр класса[`ColumnDefinition`](../columndefinition). |
+| [ColumnDefinition](columndefinition)() | Инициализирует новый экземпляр[`ColumnDefinition`](../columndefinition) класс. |
 
 ## Характеристики
 

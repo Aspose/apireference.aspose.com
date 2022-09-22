@@ -1,14 +1,14 @@
 ---
 title: RecurringPaymentSyncResponses
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置RecurringPaymentSyncResponseaspose.finance.ofx.billpay/recurringpaymentsyncresponse的集合
+description: 获取或设置的集合RecurringPaymentSyncResponseaspose.finance.ofx.billpay/recurringpaymentsyncresponse.
 type: docs
 weight: 90
 url: /zh/net/aspose.finance.ofx/billpayresponsemessagesetv1/recurringpaymentsyncresponses/
 ---
 ## BillPayResponseMessageSetV1.RecurringPaymentSyncResponses property
 
-获取或设置[`RecurringPaymentSyncResponse`](../../../aspose.finance.ofx.billpay/recurringpaymentsyncresponse)的集合。
+获取或设置的集合[`RecurringPaymentSyncResponse`](../../../aspose.finance.ofx.billpay/recurringpaymentsyncresponse).
 
 ```csharp
 public List<RecurringPaymentSyncResponse> RecurringPaymentSyncResponses { get; set; }

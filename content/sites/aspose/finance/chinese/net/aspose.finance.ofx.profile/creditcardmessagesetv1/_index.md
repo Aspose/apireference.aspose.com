@@ -18,16 +18,16 @@ public class CreditcardMessageSetV1 : AbstractMessageSetVersion
 
 | 姓名 | 描述 |
 | --- | --- |
-| [CreditcardMessageSetV1](creditcardmessagesetv1)() | 初始化[`CreditcardMessageSetV1`](../creditcardmessagesetv1)类的新实例。 |
+| [CreditcardMessageSetV1](creditcardmessagesetv1)() | 初始化一个新的实例[`CreditcardMessageSetV1`](../creditcardmessagesetv1)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
 | [ClosingAvailable](../../aspose.finance.ofx.profile/creditcardmessagesetv1/closingavailable) { get; set; } | 获取或设置结束语句信息是否可用。 |
-| [ImageProfile](../../aspose.finance.ofx.profile/creditcardmessagesetv1/imageprofile) { get; set; } | 获取或设置[`ImageProfile`](./imageprofile)。 |
-| [MessageSetCore](../../aspose.finance.ofx.profile/abstractmessagesetversion/messagesetcore) { get; set; } | 获取或设置[`MessageSetCore`](../abstractmessagesetversion/messagesetcore)。 |
-| [PendingAvailable](../../aspose.finance.ofx.profile/creditcardmessagesetv1/pendingavailable) { get; set; } | 获取或设置待处理事务下载支持标志，默认为false。 |
+| [ImageProfile](../../aspose.finance.ofx.profile/creditcardmessagesetv1/imageprofile) { get; set; } | 获取或设置[`ImageProfile`](./imageprofile). |
+| [MessageSetCore](../../aspose.finance.ofx.profile/abstractmessagesetversion/messagesetcore) { get; set; } | 获取或设置[`MessageSetCore`](../abstractmessagesetversion/messagesetcore). |
+| [PendingAvailable](../../aspose.finance.ofx.profile/creditcardmessagesetv1/pendingavailable) { get; set; } | 获取或设置挂起交易下载支持标志，默认为false。 |
 
 ### 也可以看看
 

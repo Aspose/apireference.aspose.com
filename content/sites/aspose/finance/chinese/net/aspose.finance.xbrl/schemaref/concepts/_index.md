@@ -1,14 +1,14 @@
 ---
 title: Concepts
 second_title: Aspose.Finance for .NET API 参考
-description: 获取架构中定义的Conceptaspose.finance.xbrl/concept的集合
+description: 获取集合Conceptaspose.finance.xbrl/concept在 schema. 中定义
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.xbrl/schemaref/concepts/
 ---
 ## SchemaRef.Concepts property
 
-获取架构中定义的[`Concept`](../../concept)的集合。
+获取集合[`Concept`](../../concept)在 schema. 中定义
 
 ```csharp
 public List<Concept> Concepts { get; }

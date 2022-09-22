@@ -1,14 +1,14 @@
 ---
 title: PresentmentDirMessageSet
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаPresentmentDirMessageSetaspose.finance.ofx.profile/presentmentdirmessageset.
+description: Инициализирует новый экземплярPresentmentDirMessageSetaspose.finance.ofx.profile/presentmentdirmessageset класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.profile/presentmentdirmessageset/presentmentdirmessageset/
 ---
 ## PresentmentDirMessageSet constructor
 
-Инициализирует новый экземпляр класса[`PresentmentDirMessageSet`](../../presentmentdirmessageset).
+Инициализирует новый экземпляр[`PresentmentDirMessageSet`](../../presentmentdirmessageset) класс.
 
 ```csharp
 public PresentmentDirMessageSet()

@@ -1,14 +1,14 @@
 ---
 title: IncludeJanuaryMarch
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает включает ли значения январь и март.
+description: Получает или задает включает ли суммы январь и март.
 type: docs
 weight: 110
 url: /ru/net/aspose.finance.ofx.tax1098/tax1098t_v100/includejanuarymarch/
 ---
 ## Tax1098T_V100.IncludeJanuaryMarch property
 
-Получает или задает, включает ли значения январь и март.
+Получает или задает, включает ли суммы январь и март.
 
 ```csharp
 public bool IncludeJanuaryMarch { get; set; }

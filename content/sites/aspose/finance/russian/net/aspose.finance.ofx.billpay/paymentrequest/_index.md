@@ -18,13 +18,13 @@ public class PaymentRequest : AbstractPaymentRequest
 
 | Имя | Описание |
 | --- | --- |
-| [PaymentRequest](paymentrequest)() | Инициализирует новый экземпляр класса[`PaymentRequest`](../paymentrequest). |
+| [PaymentRequest](paymentrequest)() | Инициализирует новый экземпляр[`PaymentRequest`](../paymentrequest) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [PaymentInfo](../../aspose.finance.ofx.billpay/paymentrequest/paymentinfo) { get; set; } | Получает или задает[`PaymentInfo`](./paymentinfo). |
+| [PaymentInfo](../../aspose.finance.ofx.billpay/paymentrequest/paymentinfo) { get; set; } | Получает или задает[`PaymentInfo`](./paymentinfo) . |
 
 ### Смотрите также
 

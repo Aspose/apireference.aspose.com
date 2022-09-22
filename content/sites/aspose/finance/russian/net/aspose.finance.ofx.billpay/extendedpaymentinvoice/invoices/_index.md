@@ -1,14 +1,14 @@
 ---
 title: Invoices
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает коллекциюInvoiceaspose.finance.ofx/invoice.
+description: Получает или задает коллекциюInvoiceaspose.finance.ofx/invoice .
 type: docs
 weight: 20
 url: /ru/net/aspose.finance.ofx.billpay/extendedpaymentinvoice/invoices/
 ---
 ## ExtendedPaymentInvoice.Invoices property
 
-Получает или задает коллекцию[`Invoice`](../../../aspose.finance.ofx/invoice).
+Получает или задает коллекцию[`Invoice`](../../../aspose.finance.ofx/invoice) .
 
 ```csharp
 public List<Invoice> Invoices { get; set; }

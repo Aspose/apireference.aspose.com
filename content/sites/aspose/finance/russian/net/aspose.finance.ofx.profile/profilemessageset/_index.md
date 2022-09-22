@@ -1,14 +1,14 @@
 ---
 title: ProfileMessageSet
 second_title: Справочник по API Aspose.Finance для .NET
-description: Установлено сообщение профиля.
+description: Набор сообщений профиля.
 type: docs
 weight: 4680
 url: /ru/net/aspose.finance.ofx.profile/profilemessageset/
 ---
 ## ProfileMessageSet class
 
-Установлено сообщение профиля.
+Набор сообщений профиля.
 
 ```csharp
 public class ProfileMessageSet : AbstractMessageSet
@@ -18,13 +18,13 @@ public class ProfileMessageSet : AbstractMessageSet
 
 | Имя | Описание |
 | --- | --- |
-| [ProfileMessageSet](profilemessageset)() | Инициализирует новый экземпляр класса[`ProfileMessageSet`](../profilemessageset). |
+| [ProfileMessageSet](profilemessageset)() | Инициализирует новый экземпляр[`ProfileMessageSet`](../profilemessageset) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [ProfileMessageSetV1](../../aspose.finance.ofx.profile/profilemessageset/profilemessagesetv1) { get; set; } | Получает или задает коллекцию[`ProfileMessageSetV1`](./profilemessagesetv1). |
+| [ProfileMessageSetV1](../../aspose.finance.ofx.profile/profilemessageset/profilemessagesetv1) { get; set; } | Получает или задает коллекцию[`ProfileMessageSetV1`](./profilemessagesetv1) . |
 
 ### Смотрите также
 

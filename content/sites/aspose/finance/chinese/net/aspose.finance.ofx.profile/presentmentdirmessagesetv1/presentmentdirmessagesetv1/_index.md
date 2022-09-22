@@ -1,14 +1,14 @@
 ---
 title: PresentmentDirMessageSetV1
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化PresentmentDirMessageSetV1aspose.finance.ofx.profile/presentmentdirmessagesetv1类的新实例
+description: 初始化一个新的实例PresentmentDirMessageSetV1aspose.finance.ofx.profile/presentmentdirmessagesetv1类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.profile/presentmentdirmessagesetv1/presentmentdirmessagesetv1/
 ---
 ## PresentmentDirMessageSetV1 constructor
 
-初始化[`PresentmentDirMessageSetV1`](../../presentmentdirmessagesetv1)类的新实例。
+初始化一个新的实例[`PresentmentDirMessageSetV1`](../../presentmentdirmessagesetv1)类.
 
 ```csharp
 public PresentmentDirMessageSetV1()

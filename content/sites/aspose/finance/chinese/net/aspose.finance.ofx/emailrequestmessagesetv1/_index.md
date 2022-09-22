@@ -1,14 +1,14 @@
 ---
 title: EmailRequestMessageSetV1
 second_title: Aspose.Finance for .NET API 参考
-description: 电子邮件请求消息设置版本 1 类
+description: 电子邮件请求消息集版本 1 类
 type: docs
 weight: 2220
 url: /zh/net/aspose.finance.ofx/emailrequestmessagesetv1/
 ---
 ## EmailRequestMessageSetV1 class
 
-电子邮件请求消息设置版本 1 类。
+电子邮件请求消息集版本 1 类。
 
 ```csharp
 public class EmailRequestMessageSetV1 : AbstractRequestMessageSet
@@ -18,15 +18,15 @@ public class EmailRequestMessageSetV1 : AbstractRequestMessageSet
 
 | 姓名 | 描述 |
 | --- | --- |
-| [EmailRequestMessageSetV1](emailrequestmessagesetv1)() | 初始化[`EmailRequestMessageSetV1`](../emailrequestmessagesetv1)类的新实例。 |
+| [EmailRequestMessageSetV1](emailrequestmessagesetv1)() | 初始化一个新的实例[`EmailRequestMessageSetV1`](../emailrequestmessagesetv1)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [GetMimeTransactionRequests](../../aspose.finance.ofx/emailrequestmessagesetv1/getmimetransactionrequests) { get; set; } | 获取或设置[`GetMimeTransactionRequest`](../../aspose.finance.ofx.email/getmimetransactionrequest)的集合。 |
-| [MailSyncRequests](../../aspose.finance.ofx/emailrequestmessagesetv1/mailsyncrequests) { get; set; } | 获取或设置[`MailSyncRequest`](../../aspose.finance.ofx.email/mailsyncrequest)的集合。 |
-| [MailTransactionRequests](../../aspose.finance.ofx/emailrequestmessagesetv1/mailtransactionrequests) { get; set; } | 获取或设置[`MailTransactionRequest`](../../aspose.finance.ofx.email/mailtransactionrequest)的集合。 |
+| [GetMimeTransactionRequests](../../aspose.finance.ofx/emailrequestmessagesetv1/getmimetransactionrequests) { get; set; } | 获取或设置的集合[`GetMimeTransactionRequest`](../../aspose.finance.ofx.email/getmimetransactionrequest). |
+| [MailSyncRequests](../../aspose.finance.ofx/emailrequestmessagesetv1/mailsyncrequests) { get; set; } | 获取或设置的集合[`MailSyncRequest`](../../aspose.finance.ofx.email/mailsyncrequest). |
+| [MailTransactionRequests](../../aspose.finance.ofx/emailrequestmessagesetv1/mailtransactionrequests) { get; set; } | 获取或设置的集合[`MailTransactionRequest`](../../aspose.finance.ofx.email/mailtransactionrequest). |
 
 ### 也可以看看
 

@@ -18,22 +18,22 @@ public class Item : Fact
 
 | Имя | Описание |
 | --- | --- |
-| [Item](item)(Concept) | Инициализирует новый экземпляр класса[`Item`](../item). |
+| [Item](item)(Concept) | Инициализирует новый экземпляр[`Item`](../item) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [ContextRef](../../aspose.finance.xbrl/item/contextref) { get; set; } | Получает или задает ссылку на[`Context`](../context). |
+| [ContextRef](../../aspose.finance.xbrl/item/contextref) { get; set; } | Получает или задает ссылку на[`Context`](../context) . |
 | [Decimals](../../aspose.finance.xbrl/item/decimals) { get; set; } | Получает или задает десятичное число. |
-| [Id](../../aspose.finance.xbrl/fact/id) { get; set; } | Получает или задает идентификатор факта. |
+| [Id](../../aspose.finance.xbrl/fact/id) { get; set; } | Получает или устанавливает идентификатор факта. |
 | [InfiniteDecimals](../../aspose.finance.xbrl/item/infinitedecimals) { get; set; } | Получает или задает, имеет ли этот элемент бесконечное десятичное число. |
 | [InfinitePrecision](../../aspose.finance.xbrl/item/infiniteprecision) { get; set; } | Получает или задает, имеет ли этот элемент бесконечную точность. |
 | [Name](../../aspose.finance.xbrl/fact/name) { get; set; } | Получает или задает полное имя факта. |
-| [NilSpecified](../../aspose.finance.xbrl/item/nilspecified) { get; set; } | Получает или задает, является ли этот элемент нулевым. |
+| [NilSpecified](../../aspose.finance.xbrl/item/nilspecified) { get; set; } | Получает или устанавливает, является ли этот элемент нулевым. |
 | [Precision](../../aspose.finance.xbrl/item/precision) { get; set; } | Получает или задает точность. |
 | [SchemaConcept](../../aspose.finance.xbrl/item/schemaconcept) { get; } | Получает концепцию. |
-| [UnitRef](../../aspose.finance.xbrl/item/unitref) { get; set; } | Получает или задает ссылку на[`Unit`](../unit). |
+| [UnitRef](../../aspose.finance.xbrl/item/unitref) { get; set; } | Получает или задает ссылку на[`Unit`](../unit) . |
 | [Value](../../aspose.finance.xbrl/item/value) { get; set; } | Получает или задает значение. |
 
 ## Методы

@@ -1,14 +1,14 @@
 ---
 title: Concept
 second_title: Aspose.Finance for .NET API 参考
-description: 概念以两种等效的方式定义 在句法意义上概念是 XML Schema 元素定义 将元素定义为项元素替换组或元组元素替换组 在语义层面上概念是一种可以报告的关于业务活动或业务活动性质的事实的定义
+description: 概念以两种等效的方式定义 在句法意义上概念是 XML Schema 元素定义 将元素定义为项元素替换组或元组元素替换组 在语义层面上概念是一种可以报告的关于业务活动的活动或性质的事实的定义
 type: docs
 weight: 6530
 url: /zh/net/aspose.finance.xbrl/concept/
 ---
 ## Concept class
 
-概念以两种等效的方式定义。 在句法意义上，概念是 XML Schema 元素定义， 将元素定义为项元素替换组或元组元素替换组。 在语义层面上，概念是一种可以报告的关于业务活动或业务活动性质的事实的定义。
+概念以两种等效的方式定义。 在句法意义上，概念是 XML Schema 元素定义， 将元素定义为项元素替换组或元组元素替换组。 在语义层面上，概念是一种可以报告的关于业务活动的活动或性质的事实的定义。
 
 ```csharp
 public class Concept
@@ -19,11 +19,11 @@ public class Concept
 | 姓名 | 描述 |
 | --- | --- |
 | [BalanceType](../../aspose.finance.xbrl/concept/balancetype) { get; set; } | 获取或设置概念的余额类型。 |
-| [Id](../../aspose.finance.xbrl/concept/id) { get; set; } | 获取或设置概念的 id。 |
+| [Id](../../aspose.finance.xbrl/concept/id) { get; set; } | 获取或设置概念的id。 |
 | [IsAbstract](../../aspose.finance.xbrl/concept/isabstract) { get; set; } | 获取或设置此概念是否抽象。 |
 | [IsDimension](../../aspose.finance.xbrl/concept/isdimension) { get; } | 获取是否为维度概念。 |
 | [IsExplicitDimension](../../aspose.finance.xbrl/concept/isexplicitdimension) { get; } | 获取是否为显式维度概念。 |
-| [IsTypedDimension](../../aspose.finance.xbrl/concept/istypeddimension) { get; } | 获取是否为类型化维度概念。 |
+| [IsTypedDimension](../../aspose.finance.xbrl/concept/istypeddimension) { get; } | 获取是否为类型维度概念。 |
 | [Name](../../aspose.finance.xbrl/concept/name) { get; set; } | 获取或设置概念的名称。 |
 | [NamespaceUri](../../aspose.finance.xbrl/concept/namespaceuri) { get; } | 获取概念的命名空间 URI。 |
 | [PeriodType](../../aspose.finance.xbrl/concept/periodtype) { get; set; } | 获取或设置概念的周期类型。 |

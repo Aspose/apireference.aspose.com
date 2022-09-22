@@ -18,13 +18,13 @@ public class ExtendedPaymentInvoice
 
 | 姓名 | 描述 |
 | --- | --- |
-| [ExtendedPaymentInvoice](extendedpaymentinvoice)() | 初始化[`ExtendedPaymentInvoice`](../extendedpaymentinvoice)类的新实例。 |
+| [ExtendedPaymentInvoice](extendedpaymentinvoice)() | 初始化一个新的实例[`ExtendedPaymentInvoice`](../extendedpaymentinvoice)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Invoices](../../aspose.finance.ofx.billpay/extendedpaymentinvoice/invoices) { get; set; } | 获取或设置[`Invoice`](../../aspose.finance.ofx/invoice)的集合。 |
+| [Invoices](../../aspose.finance.ofx.billpay/extendedpaymentinvoice/invoices) { get; set; } | 获取或设置的集合[`Invoice`](../../aspose.finance.ofx/invoice). |
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: InvestmentMailSyncRequest
 second_title: Aspose.Finance for .NET API 参考
-description: 投资电子邮件同步请求类
+description: 投资邮件同步请求类
 type: docs
 weight: 2990
 url: /zh/net/aspose.finance.ofx.investment/investmentmailsyncrequest/
 ---
 ## InvestmentMailSyncRequest class
 
-投资电子邮件同步请求类。
+投资邮件同步请求类
 
 ```csharp
 public class InvestmentMailSyncRequest : AbstractSyncRequest
@@ -18,21 +18,21 @@ public class InvestmentMailSyncRequest : AbstractSyncRequest
 
 | 姓名 | 描述 |
 | --- | --- |
-| [InvestmentMailSyncRequest](investmentmailsyncrequest)() | 初始化[`InvestmentMailSyncRequest`](../investmentmailsyncrequest)类的新实例。 |
+| [InvestmentMailSyncRequest](investmentmailsyncrequest)() | 初始化一个新的实例[`InvestmentMailSyncRequest`](../investmentmailsyncrequest)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
 | [IncludeImages](../../aspose.finance.ofx.investment/investmentmailsyncrequest/includeimages) { get; set; } | 如果客户端接受邮件正文中包含图像的邮件，则为真。如果客户端不接受邮件正文中包含图像的邮件，则为 False。 |
-| [InvestmentAccountFrom](../../aspose.finance.ofx.investment/investmentmailsyncrequest/investmentaccountfrom) { get; set; } | 获取或设置[`InvestmentAccount`](../../aspose.finance.ofx/investmentaccount)的来源。 |
-| [InvestmentMailTransactionRequests](../../aspose.finance.ofx.investment/investmentmailsyncrequest/investmentmailtransactionrequests) { get; set; } | 获取或设置[`InvestmentMailTransactionRequest`](../investmentmailtransactionrequest)的集合。 |
-| [OfxExtension](../../aspose.finance.ofx.investment/investmentmailsyncrequest/ofxextension) { get; set; } | 获取或设置[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype)。 |
+| [InvestmentAccountFrom](../../aspose.finance.ofx.investment/investmentmailsyncrequest/investmentaccountfrom) { get; set; } | 获取或设置 from[`InvestmentAccount`](../../aspose.finance.ofx/investmentaccount). |
+| [InvestmentMailTransactionRequests](../../aspose.finance.ofx.investment/investmentmailsyncrequest/investmentmailtransactionrequests) { get; set; } | 获取或设置的集合[`InvestmentMailTransactionRequest`](../investmentmailtransactionrequest). |
+| [OfxExtension](../../aspose.finance.ofx.investment/investmentmailsyncrequest/ofxextension) { get; set; } | 获取或设置[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
 | [Refresh](../../aspose.finance.ofx/abstractsyncrequest/refresh) { get; set; } | 获取或设置是否请求刷新当前状态。 |
-| [RejectIfMisssing](../../aspose.finance.ofx/abstractsyncrequest/rejectifmisssing) { get; set; } | 如果是，如果客户端令牌已过期，请不要处理请求。 |
+| [RejectIfMisssing](../../aspose.finance.ofx/abstractsyncrequest/rejectifmisssing) { get; set; } | 如果是，如果客户端令牌已过期，则不处理请求。 |
 | [Token](../../aspose.finance.ofx/abstractsyncrequest/token) { get; set; } | 获取或设置令牌。 |
-| [TokenOnly](../../aspose.finance.ofx/abstractsyncrequest/tokenonly) { get; set; } | 获取或设置是否只请求当前令牌而不请求历史。 |
-| [UseHtml](../../aspose.finance.ofx.investment/investmentmailsyncrequest/usehtml) { get; set; } | 如果客户端需要 HTML 响应，则为 true，如果客户端需要纯文本，则为 false。 |
+| [TokenOnly](../../aspose.finance.ofx/abstractsyncrequest/tokenonly) { get; set; } | 获取或设置是否只请求当前令牌而不请求历史记录。 |
+| [UseHtml](../../aspose.finance.ofx.investment/investmentmailsyncrequest/usehtml) { get; set; } | 如果客户端需要 HTML 响应，则为真，如果客户端需要纯文本，则为假。 |
 
 ### 也可以看看
 

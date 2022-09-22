@@ -1,14 +1,14 @@
 ---
 title: DepositMailResponse
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化DepositMailResponseaspose.finance.ofx.bank/depositmailresponse类的新实例
+description: 初始化一个新的实例DepositMailResponseaspose.finance.ofx.bank/depositmailresponse类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.bank/depositmailresponse/depositmailresponse/
 ---
 ## DepositMailResponse constructor
 
-初始化[`DepositMailResponse`](../../depositmailresponse)类的新实例。
+初始化一个新的实例[`DepositMailResponse`](../../depositmailresponse)类.
 
 ```csharp
 public DepositMailResponse()

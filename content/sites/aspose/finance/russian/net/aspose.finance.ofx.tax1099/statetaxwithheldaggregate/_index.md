@@ -1,14 +1,14 @@
 ---
 title: StateTaxWithheldAggregate
 second_title: Справочник по API Aspose.Finance для .NET
-description: Класс удержанного государственного налога.
+description: Класс удержания государственного налога.
 type: docs
 weight: 5970
 url: /ru/net/aspose.finance.ofx.tax1099/statetaxwithheldaggregate/
 ---
 ## StateTaxWithheldAggregate class
 
-Класс удержанного государственного налога.
+Класс удержания государственного налога.
 
 ```csharp
 public class StateTaxWithheldAggregate
@@ -18,16 +18,16 @@ public class StateTaxWithheldAggregate
 
 | Имя | Описание |
 | --- | --- |
-| [StateTaxWithheldAggregate](statetaxwithheldaggregate)() | Инициализирует новый экземпляр класса[`StateTaxWithheldAggregate`](../statetaxwithheldaggregate). |
+| [StateTaxWithheldAggregate](statetaxwithheldaggregate)() | Инициализирует новый экземпляр[`StateTaxWithheldAggregate`](../statetaxwithheldaggregate) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
 | [Amount](../../aspose.finance.ofx.tax1099/statetaxwithheldaggregate/amount) { get; set; } | Получает или задает удержанную сумму. |
-| [PayerState](../../aspose.finance.ofx.tax1099/statetaxwithheldaggregate/payerstate) { get; set; } | Получает или задает код штата плательщика. |
+| [PayerState](../../aspose.finance.ofx.tax1099/statetaxwithheldaggregate/payerstate) { get; set; } | Получает или задает код состояния плательщика. |
 | [PayerStateId](../../aspose.finance.ofx.tax1099/statetaxwithheldaggregate/payerstateid) { get; set; } | Получает или задает идентификационный номер штата плательщика. |
-| [StateDistribution](../../aspose.finance.ofx.tax1099/statetaxwithheldaggregate/statedistribution) { get; set; } | Получает или задает распределение состояния. |
+| [StateDistribution](../../aspose.finance.ofx.tax1099/statetaxwithheldaggregate/statedistribution) { get; set; } | Получает или задает распределение состояний. |
 
 ### Смотрите также
 

@@ -1,14 +1,14 @@
 ---
 title: BillStatus
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置BillStatusaspose.finance.ofx.billerdelivery/billstatusmodrequest/billstatus
+description: 获取或设置BillStatusaspose.finance.ofx.billerdelivery/billstatusmodrequest/billstatus.
 type: docs
 weight: 40
 url: /zh/net/aspose.finance.ofx.billerdelivery/billstatusmodrequest/billstatus/
 ---
 ## BillStatusModRequest.BillStatus property
 
-获取或设置`BillStatus`。
+获取或设置`BillStatus`.
 
 ```csharp
 public BillStatus BillStatus { get; set; }

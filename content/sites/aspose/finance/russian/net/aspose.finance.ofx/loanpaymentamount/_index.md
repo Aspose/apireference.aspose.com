@@ -18,13 +18,13 @@ public class LoanPaymentAmount
 
 | Имя | Описание |
 | --- | --- |
-| [LoanPaymentAmount](loanpaymentamount)() | Инициализирует новый экземпляр класса[`LoanPaymentAmount`](../loanpaymentamount). |
+| [LoanPaymentAmount](loanpaymentamount)() | Инициализирует новый экземпляр[`LoanPaymentAmount`](../loanpaymentamount) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [EscrowAmount](../../aspose.finance.ofx/loanpaymentamount/escrowamount) { get; set; } | Получает или задает[`EscrowAmount`](./escrowamount)для ипотечных кредитов. |
+| [EscrowAmount](../../aspose.finance.ofx/loanpaymentamount/escrowamount) { get; set; } | Получает или задает[`EscrowAmount`](./escrowamount) для ипотеки. |
 | [LateFeeAmount](../../aspose.finance.ofx/loanpaymentamount/latefeeamount) { get; set; } | Получает или устанавливает штрафы за просрочку платежа. |
 | [LoanPaymentType](../../aspose.finance.ofx/loanpaymentamount/loanpaymenttype) { get; set; } | Получает или задает тип платежа. |
 | [PaymentAmount](../../aspose.finance.ofx/loanpaymentamount/paymentamount) { get; set; } | Получает или задает сумму следующего платежа по кредиту. |

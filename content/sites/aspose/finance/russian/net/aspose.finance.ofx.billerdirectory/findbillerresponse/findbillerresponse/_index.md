@@ -1,14 +1,14 @@
 ---
 title: FindBillerResponse
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаFindBillerResponseaspose.finance.ofx.billerdirectory/findbillerresponse.
+description: Инициализирует новый экземплярFindBillerResponseaspose.finance.ofx.billerdirectory/findbillerresponse класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.billerdirectory/findbillerresponse/findbillerresponse/
 ---
 ## FindBillerResponse constructor
 
-Инициализирует новый экземпляр класса[`FindBillerResponse`](../../findbillerresponse).
+Инициализирует новый экземпляр[`FindBillerResponse`](../../findbillerresponse) класс.
 
 ```csharp
 public FindBillerResponse()

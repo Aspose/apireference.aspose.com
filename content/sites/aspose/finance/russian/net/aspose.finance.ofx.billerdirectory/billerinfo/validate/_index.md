@@ -1,7 +1,7 @@
 ---
 title: Validate
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает URL-адрес для проверки.
+description: Получает или задает URLадрес для проверки.
 type: docs
 weight: 210
 url: /ru/net/aspose.finance.ofx.billerdirectory/billerinfo/validate/

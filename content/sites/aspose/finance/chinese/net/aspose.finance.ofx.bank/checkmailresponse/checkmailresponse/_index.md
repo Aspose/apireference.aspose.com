@@ -1,14 +1,14 @@
 ---
 title: CheckMailResponse
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化CheckMailResponseaspose.finance.ofx.bank/checkmailresponse类的新实例
+description: 初始化一个新的实例CheckMailResponseaspose.finance.ofx.bank/checkmailresponse类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.bank/checkmailresponse/checkmailresponse/
 ---
 ## CheckMailResponse constructor
 
-初始化[`CheckMailResponse`](../../checkmailresponse)类的新实例。
+初始化一个新的实例[`CheckMailResponse`](../../checkmailresponse)类.
 
 ```csharp
 public CheckMailResponse()

@@ -1,14 +1,14 @@
 ---
 title: ProfileResponse
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задаетProfileResponseaspose.finance.ofx.profile/profiletransactionresponse/profileresponse.
+description: Получает или задаетProfileResponseaspose.finance.ofx.profile/profiletransactionresponse/profileresponse .
 type: docs
 weight: 30
 url: /ru/net/aspose.finance.ofx.profile/profiletransactionresponse/profileresponse/
 ---
 ## ProfileTransactionResponse.ProfileResponse property
 
-Получает или задает`ProfileResponse`.
+Получает или задает`ProfileResponse` .
 
 ```csharp
 public ProfileResponse ProfileResponse { get; set; }

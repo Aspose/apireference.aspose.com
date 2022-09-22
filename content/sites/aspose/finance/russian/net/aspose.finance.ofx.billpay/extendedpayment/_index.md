@@ -1,14 +1,14 @@
 ---
 title: ExtendedPayment
 second_title: Справочник по API Aspose.Finance для .NET
-description: Класс предоставляет получателю платежа информацию для применения платежа по нескольким счетам. Он структурирован таким образом чтобы обеспечить электронную обработку данных счета и позволяет использовать несколько счетов а также несколько позиций. по счету уточняется.
+description: Класс предоставляет получателю платежа информацию для применения платежа по нескольким счетам. Он структурирован для обеспечения электронной обработки данных счета и позволяет указывать несколько счетов а также несколько позиций в счете.
 type: docs
 weight: 910
 url: /ru/net/aspose.finance.ofx.billpay/extendedpayment/
 ---
 ## ExtendedPayment class
 
-Класс предоставляет получателю платежа информацию для применения платежа по нескольким счетам. Он структурирован таким образом, чтобы обеспечить электронную обработку данных счета и позволяет использовать несколько счетов, а также несколько позиций. по счету, уточняется.
+Класс предоставляет получателю платежа информацию для применения платежа по нескольким счетам. Он структурирован для обеспечения электронной обработки данных счета и позволяет указывать несколько счетов, а также несколько позиций в счете.
 
 ```csharp
 public class ExtendedPayment
@@ -18,16 +18,16 @@ public class ExtendedPayment
 
 | Имя | Описание |
 | --- | --- |
-| [ExtendedPayment](extendedpayment)() | Инициализирует новый экземпляр класса[`ExtendedPayment`](../extendedpayment). |
+| [ExtendedPayment](extendedpayment)() | Инициализирует новый экземпляр[`ExtendedPayment`](../extendedpayment) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [ExtendedPaymentCheck](../../aspose.finance.ofx.billpay/extendedpayment/extendedpaymentcheck) { get; set; } | Получает или задает номер чека, который будет использоваться для данного платежа. |
-| [ExtendedPaymentDescription](../../aspose.finance.ofx.billpay/extendedpayment/extendedpaymentdescription) { get; set; } | Получает или задает произвольный текст для связи с платежом. |
+| [ExtendedPaymentCheck](../../aspose.finance.ofx.billpay/extendedpayment/extendedpaymentcheck) { get; set; } | Получает или задает номер чека для данного платежа. |
+| [ExtendedPaymentDescription](../../aspose.finance.ofx.billpay/extendedpayment/extendedpaymentdescription) { get; set; } | Получает или задает свободный текст для связи с платежом. |
 | [ExtendedPaymentFor](../../aspose.finance.ofx.billpay/extendedpayment/extendedpaymentfor) { get; set; } | Получает или задает, предназначен ли платеж для индивидуального или корпоративного счета. Это позволяет обработчику платежей переводить платежи на соответствующий адрес для потребителей или предприятий. |
-| [ExtendedPaymentInvoice](../../aspose.finance.ofx.billpay/extendedpayment/extendedpaymentinvoice) { get; set; } | Получает или задает[`ExtendedPaymentInvoice`](./extendedpaymentinvoice). |
+| [ExtendedPaymentInvoice](../../aspose.finance.ofx.billpay/extendedpayment/extendedpaymentinvoice) { get; set; } | Получает или задает[`ExtendedPaymentInvoice`](./extendedpaymentinvoice) . |
 
 ### Смотрите также
 

@@ -1,14 +1,14 @@
 ---
 title: EscrowAmount
 second_title: Aspose.Finance for .NET API 参考
-description: 托管金额等级
+description: 托管金额类.
 type: docs
 weight: 2240
 url: /zh/net/aspose.finance.ofx/escrowamount/
 ---
 ## EscrowAmount class
 
-托管金额等级。
+托管金额类.
 
 ```csharp
 public class EscrowAmount
@@ -18,7 +18,7 @@ public class EscrowAmount
 
 | 姓名 | 描述 |
 | --- | --- |
-| [EscrowAmount](escrowamount)() | 初始化[`EscrowAmount`](../escrowamount)类的新实例。 |
+| [EscrowAmount](escrowamount)() | 初始化一个新的实例[`EscrowAmount`](../escrowamount)类. |
 
 ## 特性
 

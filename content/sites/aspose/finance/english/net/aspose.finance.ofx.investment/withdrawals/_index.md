@@ -3,7 +3,7 @@ title: Withdrawals
 second_title: Aspose.Finance for .NET API Reference
 description: 401k withdrawals class this includes loan withdrawals.
 type: docs
-weight: 3600
+weight: 3610
 url: /net/aspose.finance.ofx.investment/withdrawals/
 ---
 ## Withdrawals class

@@ -1,14 +1,14 @@
 ---
 title: SecHtmlReportSaveOption
 second_title: Справочник по API Aspose.Finance для .NET
-description: Создает опции для отчета в формате sec html.
+description: Создает параметры для отчета в формате sec html.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.xbrl/sechtmlreportsaveoption/sechtmlreportsaveoption/
 ---
 ## SecHtmlReportSaveOption constructor
 
-Создает опции для отчета в формате sec html.
+Создает параметры для отчета в формате sec html.
 
 ```csharp
 public SecHtmlReportSaveOption()

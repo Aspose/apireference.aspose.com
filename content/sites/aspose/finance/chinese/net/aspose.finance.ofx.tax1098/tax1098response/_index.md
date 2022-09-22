@@ -18,15 +18,15 @@ public class Tax1098Response
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Tax1098Response](tax1098response)() | 初始化[`Tax1098Response`](../tax1098response)类的新实例。 |
+| [Tax1098Response](tax1098response)() | 初始化一个新的实例[`Tax1098Response`](../tax1098response)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [AccountNumber](../../aspose.finance.ofx.tax1098/tax1098response/accountnumber) { get; set; } | 获取或设置借款人的帐号，如果与 SSN 不同。 |
+| [AccountNumber](../../aspose.finance.ofx.tax1098/tax1098response/accountnumber) { get; set; } | 获取或设置借款人的帐号，如果与SSN不同。 |
 | [SSN](../../aspose.finance.ofx.tax1098/tax1098response/ssn) { get; set; } | 获取或设置借款人的社会保险号。 |
-| [TAX1098s](../../aspose.finance.ofx.tax1098/tax1098response/tax1098s) { get; set; } | 获取或设置[`Tax1098_V100`](../tax1098_v100)或Tax1098T_V100的集合或[`Tax1098E_V100`](../tax1098e_v100)。 |
+| [TAX1098s](../../aspose.finance.ofx.tax1098/tax1098response/tax1098s) { get; set; } | 获取或设置的集合[`Tax1098_V100`](../tax1098_v100)或者[`Tax1098T_V100`](../tax1098t_v100)或者[`Tax1098E_V100`](../tax1098e_v100). |
 
 ### 也可以看看
 

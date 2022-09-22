@@ -18,7 +18,7 @@ public class PaymentCancelResponse : AbstractPaymentResponse
 
 | 姓名 | 描述 |
 | --- | --- |
-| [PaymentCancelResponse](paymentcancelresponse)() | 初始化[`PaymentCancelResponse`](../paymentcancelresponse)类的新实例。 |
+| [PaymentCancelResponse](paymentcancelresponse)() | 初始化一个新的实例[`PaymentCancelResponse`](../paymentcancelresponse)类. |
 
 ## 特性
 

@@ -1,14 +1,14 @@
 ---
 title: TotalEmployeeContribution
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает общие взносы сотрудников.
+description: Получает или задает общую сумму взносов сотрудников.
 type: docs
 weight: 240
 url: /ru/net/aspose.finance.ofx.tax1099/tax1099r_v100/totalemployeecontribution/
 ---
 ## Tax1099R_V100.TotalEmployeeContribution property
 
-Получает или задает общие взносы сотрудников.
+Получает или задает общую сумму взносов сотрудников.
 
 ```csharp
 public string TotalEmployeeContribution { get; set; }

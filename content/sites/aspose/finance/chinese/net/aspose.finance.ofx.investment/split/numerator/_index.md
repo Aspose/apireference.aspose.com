@@ -1,14 +1,14 @@
 ---
 title: Numerator
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置股票拆分的拆分比率分子
+description: 获取或设置股票分割的分割比率分子
 type: docs
 weight: 70
 url: /zh/net/aspose.finance.ofx.investment/split/numerator/
 ---
 ## Split.Numerator property
 
-获取或设置股票拆分的拆分比率分子。
+获取或设置股票分割的分割比率分子。
 
 ```csharp
 public string Numerator { get; set; }

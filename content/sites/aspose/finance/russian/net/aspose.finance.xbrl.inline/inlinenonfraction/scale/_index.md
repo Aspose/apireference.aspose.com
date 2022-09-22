@@ -1,14 +1,14 @@
 ---
 title: Scale
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает масштабInlineNonfractionaspose.finance.xbrl.inline/inlinenonfraction.
+description: Получает или задает масштабInlineNonfractionaspose.finance.xbrl.inline/inlinenonfraction .
 type: docs
 weight: 80
 url: /ru/net/aspose.finance.xbrl.inline/inlinenonfraction/scale/
 ---
 ## InlineNonfraction.Scale property
 
-Получает или задает масштаб[`InlineNonfraction`](../../inlinenonfraction).
+Получает или задает масштаб[`InlineNonfraction`](../../inlinenonfraction) .
 
 ```csharp
 public int Scale { get; set; }

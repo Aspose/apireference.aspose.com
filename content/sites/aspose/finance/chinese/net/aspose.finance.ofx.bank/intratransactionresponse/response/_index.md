@@ -1,14 +1,14 @@
 ---
 title: Response
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置IntraResponseaspose.finance.ofx.bank/intraresponse或IntraModResponseaspose.finance.ofx.bank/intramodresponse或IntraCancellationResponseaspose.finance.ofx.bank/intracancellationresponse
+description: 获取或设置IntraResponseaspose.finance.ofx.bank/intraresponse或者IntraModResponseaspose.finance.ofx.bank/intramodresponse或者IntraCancellationResponseaspose.finance.ofx.bank/intracancellationresponse.
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.ofx.bank/intratransactionresponse/response/
 ---
 ## IntraTransactionResponse.Response property
 
-获取或设置[`IntraResponse`](../../intraresponse)或[`IntraModResponse`](../../intramodresponse)或[`IntraCancellationResponse`](../../intracancellationresponse)。
+获取或设置[`IntraResponse`](../../intraresponse)或者[`IntraModResponse`](../../intramodresponse)或者[`IntraCancellationResponse`](../../intracancellationresponse).
 
 ```csharp
 public AbstractIntraResponse Response { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: LocalTaxWithheldAggregate
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаLocalTaxWithheldAggregateaspose.finance.ofx.tax1099/localtaxwithheldaggregate.
+description: Инициализирует новый экземплярLocalTaxWithheldAggregateaspose.finance.ofx.tax1099/localtaxwithheldaggregate класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.tax1099/localtaxwithheldaggregate/localtaxwithheldaggregate/
 ---
 ## LocalTaxWithheldAggregate constructor
 
-Инициализирует новый экземпляр класса[`LocalTaxWithheldAggregate`](../../localtaxwithheldaggregate).
+Инициализирует новый экземпляр[`LocalTaxWithheldAggregate`](../../localtaxwithheldaggregate) класс.
 
 ```csharp
 public LocalTaxWithheldAggregate()

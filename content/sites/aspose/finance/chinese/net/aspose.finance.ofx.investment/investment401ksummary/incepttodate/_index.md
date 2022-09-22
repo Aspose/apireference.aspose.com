@@ -1,14 +1,14 @@
 ---
 title: InceptToDate
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置迄今为止的总贡献自成立以来
+description: 获取或设置迄今为止的总贡献自开始以来
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.ofx.investment/investment401ksummary/incepttodate/
 ---
 ## Investment401kSummary.InceptToDate property
 
-获取或设置迄今为止的总贡献（自成立以来）
+获取或设置迄今为止的总贡献（自开始以来）
 
 ```csharp
 public InceptToDate InceptToDate { get; set; }

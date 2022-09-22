@@ -1,14 +1,14 @@
 ---
 title: InvestmentOpenOrderList
 second_title: Aspose.Finance for .NET API 参考
-description: 投资开单列表类
+description: 投资开单清单类
 type: docs
 weight: 3030
 url: /zh/net/aspose.finance.ofx.investment/investmentopenorderlist/
 ---
 ## InvestmentOpenOrderList class
 
-投资开单列表类。
+投资开单清单类
 
 ```csharp
 public class InvestmentOpenOrderList
@@ -18,13 +18,13 @@ public class InvestmentOpenOrderList
 
 | 姓名 | 描述 |
 | --- | --- |
-| [InvestmentOpenOrderList](investmentopenorderlist)() | 初始化[`InvestmentOpenOrderList`](../investmentopenorderlist)类的新实例。 |
+| [InvestmentOpenOrderList](investmentopenorderlist)() | 初始化一个新的实例[`InvestmentOpenOrderList`](../investmentopenorderlist)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [OpenOrders](../../aspose.finance.ofx.investment/investmentopenorderlist/openorders) { get; set; } | 获取或设置[`OpenOrderBuyDebt`](../openorderbuydebt)或OpenOrderBuyMutualFund的集合或[`OpenOrderBuyOption`](../openorderbuyoption) 或[`OpenOrderBuyOther`](../openorderbuyother)或T：Aspose.Finance.Ofx.Investment.OpenOrderBuyStock或[`OpenOrderSellDebt`](../openorderselldebt) 或[`OpenOrderSellMutualFund`](../openordersellmutualfund)或[`OpenOrderSellOption`](../openorderselloption)或[`OpenOrderSellOther`](../openordersellother) 或T：Aspose.Finance.Ofx.Investment.OpenOrderSellStock或[`OpenOrderSwitchMutualFund`](../openorderswitchmutualfund)。 |
+| [OpenOrders](../../aspose.finance.ofx.investment/investmentopenorderlist/openorders) { get; set; } | 获取或设置的集合[`OpenOrderBuyDebt`](../openorderbuydebt)或者[`OpenOrderBuyMutualFund`](../openorderbuymutualfund)或者[`OpenOrderBuyOption`](../openorderbuyoption) 或[`OpenOrderBuyOther`](../openorderbuyother)或者[`OpenOrderBuyStock`](../openorderbuystock)或者[`OpenOrderSellDebt`](../openorderselldebt) 或[`OpenOrderSellMutualFund`](../openordersellmutualfund)或者[`OpenOrderSellOption`](../openorderselloption)或者[`OpenOrderSellOther`](../openordersellother) 或[`OpenOrderSellStock`](../openordersellstock)或者[`OpenOrderSwitchMutualFund`](../openorderswitchmutualfund). |
 
 ### 也可以看看
 

@@ -3,7 +3,7 @@ title: InvestmentStatementRequest
 second_title: Aspose.Finance for .NET API Reference
 description: Investment statement request class.
 type: docs
-weight: 3110
+weight: 3120
 url: /net/aspose.finance.ofx.investment/investmentstatementrequest/
 ---
 ## InvestmentStatementRequest class

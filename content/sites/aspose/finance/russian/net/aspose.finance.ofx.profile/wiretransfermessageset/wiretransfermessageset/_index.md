@@ -1,14 +1,14 @@
 ---
 title: WireTransferMessageSet
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаWireTransferMessageSetaspose.finance.ofx.profile/wiretransfermessageset.
+description: Инициализирует новый экземплярWireTransferMessageSetaspose.finance.ofx.profile/wiretransfermessageset класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.profile/wiretransfermessageset/wiretransfermessageset/
 ---
 ## WireTransferMessageSet constructor
 
-Инициализирует новый экземпляр класса[`WireTransferMessageSet`](../../wiretransfermessageset).
+Инициализирует новый экземпляр[`WireTransferMessageSet`](../../wiretransfermessageset) класс.
 
 ```csharp
 public WireTransferMessageSet()

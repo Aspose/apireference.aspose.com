@@ -1,14 +1,14 @@
 ---
 title: SumSalesPrice
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает цену продажи. Это общая стоимость всех продаж представленных в этой сводке.
+description: Получает или задает цену продажи. Это общая стоимость всех продаж указанных в этой сводке.
 type: docs
 weight: 70
 url: /ru/net/aspose.finance.ofx.tax1099/proceedsummary_v100/sumsalesprice/
 ---
 ## ProceedSummary_V100.SumSalesPrice property
 
-Получает или задает цену продажи. Это общая стоимость всех продаж, представленных в этой сводке.
+Получает или задает цену продажи. Это общая стоимость всех продаж, указанных в этой сводке.
 
 ```csharp
 public string SumSalesPrice { get; set; }

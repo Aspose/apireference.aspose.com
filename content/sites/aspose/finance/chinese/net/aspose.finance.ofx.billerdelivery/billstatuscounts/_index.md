@@ -1,14 +1,14 @@
 ---
 title: BillStatusCounts
 second_title: Aspose.Finance for .NET API 参考
-description: 账单状态计数类
+description: 账单状态计数类.
 type: docs
 weight: 1480
 url: /zh/net/aspose.finance.ofx.billerdelivery/billstatuscounts/
 ---
 ## BillStatusCounts class
 
-账单状态计数类。
+账单状态计数类.
 
 ```csharp
 public class BillStatusCounts
@@ -18,14 +18,14 @@ public class BillStatusCounts
 
 | 姓名 | 描述 |
 | --- | --- |
-| [BillStatusCounts](billstatuscounts)() | 初始化[`BillStatusCounts`](../billstatuscounts)类的新实例。 |
+| [BillStatusCounts](billstatuscounts)() | 初始化一个新的实例[`BillStatusCounts`](../billstatuscounts)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [BillStatusCode](../../aspose.finance.ofx.billerdelivery/billstatuscounts/billstatuscode) { get; set; } | 获取或设置账单状态码。 |
-| [Count](../../aspose.finance.ofx.billerdelivery/billstatuscounts/count) { get; set; } | 获取或设置具有给定账单状态代码的账单数量。 |
+| [BillStatusCode](../../aspose.finance.ofx.billerdelivery/billstatuscounts/billstatuscode) { get; set; } | 获取或设置账单状态码 |
+| [Count](../../aspose.finance.ofx.billerdelivery/billstatuscounts/count) { get; set; } | 获取或设置给定账单状态码的账单数量。 |
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: IncTransaction
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置IncTransactionaspose.finance.ofx.bank/statementrequest/inctransaction
+description: 获取或设置IncTransactionaspose.finance.ofx.bank/statementrequest/inctransaction.
 type: docs
 weight: 50
 url: /zh/net/aspose.finance.ofx.bank/statementrequest/inctransaction/
 ---
 ## StatementRequest.IncTransaction property
 
-获取或设置`IncTransaction`。
+获取或设置`IncTransaction`.
 
 ```csharp
 public IncTransaction IncTransaction { get; set; }

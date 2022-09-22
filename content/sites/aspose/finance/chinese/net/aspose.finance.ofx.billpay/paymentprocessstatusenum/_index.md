@@ -18,11 +18,11 @@ public enum PaymentProcessStatusEnum
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| CANCELEDON | `0` | 用户取消支付 |
+| CANCELEDON | `0` | 用户取消付款 |
 | WILLPROCESSON | `1` | 将被处理 |
 | PROCESSEDON | `2` | 已处理付款 |
 | NOFUNDSON | `3` | 资金无法支付 |
-| FAILEDON | `4` | 不明原因无法付款 |
+| FAILEDON | `4` | 由于不明原因无法付款 |
 
 ### 也可以看看
 

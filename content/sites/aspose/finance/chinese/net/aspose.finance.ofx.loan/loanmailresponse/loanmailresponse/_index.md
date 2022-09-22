@@ -1,14 +1,14 @@
 ---
 title: LoanMailResponse
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化LoanMailResponseaspose.finance.ofx.loan/loanmailresponse类的新实例
+description: 初始化一个新的实例LoanMailResponseaspose.finance.ofx.loan/loanmailresponse类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.loan/loanmailresponse/loanmailresponse/
 ---
 ## LoanMailResponse constructor
 
-初始化[`LoanMailResponse`](../../loanmailresponse)类的新实例。
+初始化一个新的实例[`LoanMailResponse`](../../loanmailresponse)类.
 
 ```csharp
 public LoanMailResponse()

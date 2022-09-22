@@ -1,14 +1,14 @@
 ---
 title: PresentmentNotifyRequest
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаPresentmentNotifyRequestaspose.finance.ofx.billerdelivery/presentmentnotifyrequest.
+description: Инициализирует новый экземплярPresentmentNotifyRequestaspose.finance.ofx.billerdelivery/presentmentnotifyrequest класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.billerdelivery/presentmentnotifyrequest/presentmentnotifyrequest/
 ---
 ## PresentmentNotifyRequest constructor
 
-Инициализирует новый экземпляр класса[`PresentmentNotifyRequest`](../../presentmentnotifyrequest).
+Инициализирует новый экземпляр[`PresentmentNotifyRequest`](../../presentmentnotifyrequest) класс.
 
 ```csharp
 public PresentmentNotifyRequest()

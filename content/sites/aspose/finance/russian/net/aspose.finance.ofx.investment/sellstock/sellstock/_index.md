@@ -1,14 +1,14 @@
 ---
 title: SellStock
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаSellStockaspose.finance.ofx.investment/sellstock.
+description: Инициализирует новый экземплярSellStockaspose.finance.ofx.investment/sellstock класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.investment/sellstock/sellstock/
 ---
 ## SellStock constructor
 
-Инициализирует новый экземпляр класса[`SellStock`](../../sellstock).
+Инициализирует новый экземпляр[`SellStock`](../../sellstock) класс.
 
 ```csharp
 public SellStock()

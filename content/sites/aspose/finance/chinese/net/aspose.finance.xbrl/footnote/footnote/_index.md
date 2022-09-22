@@ -1,14 +1,14 @@
 ---
 title: Footnote
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化Footnoteaspose.finance.xbrl/footnote类的新实例
+description: 初始化一个新的实例Footnoteaspose.finance.xbrl/footnote类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.xbrl/footnote/footnote/
 ---
 ## Footnote constructor
 
-初始化[`Footnote`](../../footnote)类的新实例。
+初始化一个新的实例[`Footnote`](../../footnote)类.
 
 ```csharp
 public Footnote(string label)

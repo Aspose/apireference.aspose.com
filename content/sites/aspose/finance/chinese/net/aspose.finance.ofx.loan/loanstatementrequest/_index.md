@@ -1,14 +1,14 @@
 ---
 title: LoanStatementRequest
 second_title: Aspose.Finance for .NET API 参考
-description: 外借下载请求类
+description: 外借下载请求类.
 type: docs
 weight: 3940
 url: /zh/net/aspose.finance.ofx.loan/loanstatementrequest/
 ---
 ## LoanStatementRequest class
 
-外借下载请求类。
+外借下载请求类.
 
 ```csharp
 public class LoanStatementRequest
@@ -18,15 +18,15 @@ public class LoanStatementRequest
 
 | 姓名 | 描述 |
 | --- | --- |
-| [LoanStatementRequest](loanstatementrequest)() | 初始化[`LoanStatementRequest`](../loanstatementrequest)类的新实例。 |
+| [LoanStatementRequest](loanstatementrequest)() | 初始化一个新的实例[`LoanStatementRequest`](../loanstatementrequest)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
 | [IncludeTransactionImage](../../aspose.finance.ofx.loan/loanstatementrequest/includetransactionimage) { get; set; } | 获取或设置是否包含事务图像的数据 |
-| [IncTransaction](../../aspose.finance.ofx.loan/loanstatementrequest/inctransaction) { get; set; } | 获取或设置[`IncTransaction`](./inctransaction)。 |
-| [LoanAccountFrom](../../aspose.finance.ofx.loan/loanstatementrequest/loanaccountfrom) { get; set; } | 获取或设置[`LoanAccount`](../../aspose.finance.ofx/loanaccount)的来源。 |
+| [IncTransaction](../../aspose.finance.ofx.loan/loanstatementrequest/inctransaction) { get; set; } | 获取或设置[`IncTransaction`](./inctransaction). |
+| [LoanAccountFrom](../../aspose.finance.ofx.loan/loanstatementrequest/loanaccountfrom) { get; set; } | 获取或设置 from[`LoanAccount`](../../aspose.finance.ofx/loanaccount). |
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: TransferInfo
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаTransferInfoaspose.finance.ofx/transferinfo.
+description: Инициализирует новый экземплярTransferInfoaspose.finance.ofx/transferinfo класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx/transferinfo/transferinfo/
 ---
 ## TransferInfo constructor
 
-Инициализирует новый экземпляр класса[`TransferInfo`](../../transferinfo).
+Инициализирует новый экземпляр[`TransferInfo`](../../transferinfo) класс.
 
 ```csharp
 public TransferInfo()

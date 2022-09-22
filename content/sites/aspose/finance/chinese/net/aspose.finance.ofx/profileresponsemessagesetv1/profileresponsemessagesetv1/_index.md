@@ -1,14 +1,14 @@
 ---
 title: ProfileResponseMessageSetV1
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化ProfileResponseMessageSetV1aspose.finance.ofx/profileresponsemessagesetv1类的新实例
+description: 初始化一个新的实例ProfileResponseMessageSetV1aspose.finance.ofx/profileresponsemessagesetv1类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx/profileresponsemessagesetv1/profileresponsemessagesetv1/
 ---
 ## ProfileResponseMessageSetV1 constructor
 
-初始化[`ProfileResponseMessageSetV1`](../../profileresponsemessagesetv1)类的新实例。
+初始化一个新的实例[`ProfileResponseMessageSetV1`](../../profileresponsemessagesetv1)类.
 
 ```csharp
 public ProfileResponseMessageSetV1()

@@ -1,14 +1,14 @@
 ---
 title: AvailableDate
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает дату доступности средств дату валютирования.
+description: Получает или задает дату доступности средств дата валютирования.
 type: docs
 weight: 30
 url: /ru/net/aspose.finance.ofx/statementtransaction/availabledate/
 ---
 ## StatementTransaction.AvailableDate property
 
-Получает или задает дату доступности средств (дату валютирования).
+Получает или задает дату доступности средств (дата валютирования).
 
 ```csharp
 public string AvailableDate { get; set; }

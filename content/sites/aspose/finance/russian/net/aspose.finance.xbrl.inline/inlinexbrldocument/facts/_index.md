@@ -1,14 +1,14 @@
 ---
 title: Facts
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает коллекциюInlineFactaspose.finance.xbrl.inline/inlinefactво встроенном документе XBRL.
+description: Получает коллекциюInlineFactaspose.finance.xbrl.inline/inlinefact во встроенном документе XBRL.
 type: docs
 weight: 50
 url: /ru/net/aspose.finance.xbrl.inline/inlinexbrldocument/facts/
 ---
 ## InlineXbrlDocument.Facts property
 
-Получает коллекцию[`InlineFact`](../../inlinefact)во встроенном документе XBRL.
+Получает коллекцию[`InlineFact`](../../inlinefact) во встроенном документе XBRL.
 
 ```csharp
 public List<InlineFact> Facts { get; }

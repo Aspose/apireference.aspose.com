@@ -1,14 +1,14 @@
 ---
 title: CreditCardStatementEndRequest
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置CreditCardStatementEndRequestaspose.finance.ofx.creditcard/creditcardstatementendtransactionrequest/creditcardstatementendrequest
+description: 获取或设置CreditCardStatementEndRequestaspose.finance.ofx.creditcard/creditcardstatementendtransactionrequest/creditcardstatementendrequest.
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.ofx.creditcard/creditcardstatementendtransactionrequest/creditcardstatementendrequest/
 ---
 ## CreditCardStatementEndTransactionRequest.CreditCardStatementEndRequest property
 
-获取或设置`CreditCardStatementEndRequest`。
+获取或设置`CreditCardStatementEndRequest`.
 
 ```csharp
 public CreditCardStatementEndRequest CreditCardStatementEndRequest { get; set; }

@@ -3,7 +3,7 @@ title: LoanFrequencyEnum
 second_title: Aspose.Finance for .NET API Reference
 description: Loan frequency enum.
 type: docs
-weight: 4050
+weight: 4070
 url: /net/aspose.finance.ofx/loanfrequencyenum/
 ---
 ## LoanFrequencyEnum enumeration

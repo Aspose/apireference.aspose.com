@@ -1,14 +1,14 @@
 ---
 title: Yield
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置报告为股息的当前收益率表示为当前股价的一部分
+description: 获取或设置当前收益率报告为股息表示为当前股票价格的一部分
 type: docs
 weight: 50
 url: /zh/net/aspose.finance.ofx.securitieslist/stockinfo/yield/
 ---
 ## StockInfo.Yield property
 
-获取或设置报告为股息的当前收益率，表示为当前股价的一部分。
+获取或设置当前收益率报告为股息，表示为当前股票价格的一部分。
 
 ```csharp
 public string Yield { get; set; }

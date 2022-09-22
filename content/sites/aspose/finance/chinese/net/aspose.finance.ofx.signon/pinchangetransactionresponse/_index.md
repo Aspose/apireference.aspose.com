@@ -1,14 +1,14 @@
 ---
 title: PinChangeTransactionResponse
 second_title: Aspose.Finance for .NET API 参考
-description: 用户密码更改事务响应类
+description: 用户密码更改交易响应类
 type: docs
 weight: 5400
 url: /zh/net/aspose.finance.ofx.signon/pinchangetransactionresponse/
 ---
 ## PinChangeTransactionResponse class
 
-用户密码更改事务响应类。
+用户密码更改交易响应类
 
 ```csharp
 public class PinChangeTransactionResponse : AbstractTransactionResponse
@@ -18,16 +18,16 @@ public class PinChangeTransactionResponse : AbstractTransactionResponse
 
 | 姓名 | 描述 |
 | --- | --- |
-| [PinChangeTransactionResponse](pinchangetransactionresponse)() | 初始化[`PinChangeTransactionResponse`](../pinchangetransactionresponse)类的新实例。 |
+| [PinChangeTransactionResponse](pinchangetransactionresponse)() | 初始化一个新的实例[`PinChangeTransactionResponse`](../pinchangetransactionresponse)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
 | [ClientCookie](../../aspose.finance.ofx/abstracttransactionresponse/clientcookie) { get; set; } | 获取或设置要在事务响应中回显的数据 |
-| [OfxExtension](../../aspose.finance.ofx.signon/pinchangetransactionresponse/ofxextension) { get; set; } | 获取或设置[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype)。 |
-| [PinChangeResponse](../../aspose.finance.ofx.signon/pinchangetransactionresponse/pinchangeresponse) { get; set; } | 获取或设置[`PinChangeResponse`](./pinchangeresponse)。 |
-| [Status](../../aspose.finance.ofx/abstracttransactionresponse/status) { get; set; } | 获取或设置[`Status`](../../aspose.finance.ofx/abstracttransactionresponse/status)。 |
+| [OfxExtension](../../aspose.finance.ofx.signon/pinchangetransactionresponse/ofxextension) { get; set; } | 获取或设置[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
+| [PinChangeResponse](../../aspose.finance.ofx.signon/pinchangetransactionresponse/pinchangeresponse) { get; set; } | 获取或设置[`PinChangeResponse`](./pinchangeresponse). |
+| [Status](../../aspose.finance.ofx/abstracttransactionresponse/status) { get; set; } | 获取或设置[`Status`](../../aspose.finance.ofx/abstracttransactionresponse/status). |
 | [TransactionUniqueId](../../aspose.finance.ofx/abstracttransactionresponse/transactionuniqueid) { get; set; } | 获取或设置此事务的客户端分配的全局唯一 ID。 |
 
 ### 也可以看看

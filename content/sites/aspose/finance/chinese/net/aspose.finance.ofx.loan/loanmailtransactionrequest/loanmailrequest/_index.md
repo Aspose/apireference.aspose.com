@@ -1,14 +1,14 @@
 ---
 title: LoanMailRequest
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置LoanMailRequestaspose.finance.ofx.loan/loanmailtransactionrequest/loanmailrequest
+description: 获取或设置LoanMailRequestaspose.finance.ofx.loan/loanmailtransactionrequest/loanmailrequest.
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.ofx.loan/loanmailtransactionrequest/loanmailrequest/
 ---
 ## LoanMailTransactionRequest.LoanMailRequest property
 
-获取或设置`LoanMailRequest`。
+获取或设置`LoanMailRequest`.
 
 ```csharp
 public LoanMailRequest LoanMailRequest { get; set; }

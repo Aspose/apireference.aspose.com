@@ -1,14 +1,14 @@
 ---
 title: TaxW2MessageSet
 second_title: Aspose.Finance for .NET API 参考
-description: 税 W2 消息集
+description: 征税 W2 消息集
 type: docs
 weight: 4880
 url: /zh/net/aspose.finance.ofx.profile/taxw2messageset/
 ---
 ## TaxW2MessageSet class
 
-税 W2 消息集。
+征税 W2 消息集。
 
 ```csharp
 public class TaxW2MessageSet : AbstractMessageSet
@@ -18,13 +18,13 @@ public class TaxW2MessageSet : AbstractMessageSet
 
 | 姓名 | 描述 |
 | --- | --- |
-| [TaxW2MessageSet](taxw2messageset)() | 初始化[`TaxW2MessageSet`](../taxw2messageset)类的新实例。 |
+| [TaxW2MessageSet](taxw2messageset)() | 初始化一个新的实例[`TaxW2MessageSet`](../taxw2messageset)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [TaxW2MessageSetV1](../../aspose.finance.ofx.profile/taxw2messageset/taxw2messagesetv1) { get; set; } | 获取或设置[`TaxW2MessageSetV1`](./taxw2messagesetv1)。 |
+| [TaxW2MessageSetV1](../../aspose.finance.ofx.profile/taxw2messageset/taxw2messagesetv1) { get; set; } | 获取或设置[`TaxW2MessageSetV1`](./taxw2messagesetv1). |
 
 ### 也可以看看
 

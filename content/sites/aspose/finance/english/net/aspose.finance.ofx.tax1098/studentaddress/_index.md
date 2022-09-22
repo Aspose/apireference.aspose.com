@@ -3,7 +3,7 @@ title: StudentAddress
 second_title: Aspose.Finance for .NET API Reference
 description: Student address class.
 type: docs
-weight: 5760
+weight: 5790
 url: /net/aspose.finance.ofx.tax1098/studentaddress/
 ---
 ## StudentAddress class

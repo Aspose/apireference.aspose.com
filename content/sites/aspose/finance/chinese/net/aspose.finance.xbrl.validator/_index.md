@@ -12,13 +12,14 @@ url: /zh/net/aspose.finance.xbrl.validator/
 
 | 班级 | 描述 |
 | --- | --- |
-| [ArcValidationError](./arcvalidationerror) | 此类用于 Arc 验证相关错误。 |
+| [ArcValidationError](./arcvalidationerror) | 这个类是针对 Arc 验证相关的错误。 |
 | [ContextValidationError](./contextvalidationerror) | 此类用于上下文验证相关的错误。 |
-| [FactValidationError](./factvalidationerror) | 此类用于事实验证相关错误。 |
+| [FactValidationError](./factvalidationerror) | 此类用于事实验证相关的错误。 |
 | [InlineFactValidationError](./inlinefactvalidationerror) |  |
 | [InlineRelationshipError](./inlinerelationshiperror) |  |
 | [InlineValidationError](./inlinevalidationerror) |  |
-| [ValidationError](./validationerror) | 此类用于验证相关错误的基类。 |
+| [SchemaRefValidationError](./schemarefvalidationerror) | 这个类是针对 Arc 验证相关的错误。 |
+| [ValidationError](./validationerror) | 这个类是用于验证相关错误的基类。 |
 ## 枚举
 
 | 枚举 | 描述 |

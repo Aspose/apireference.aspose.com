@@ -1,14 +1,14 @@
 ---
 title: ChallengeRequest
 second_title: Aspose.Finance for .NET API 参考
-description: 挑战请求类质询请求是类型 1 应用程序级安全性的第一步本质上它要求服务器提供一些 随机数据质询响应提供服务器生成的随机数据是类型 1 安全性的第二步
+description: 挑战请求类质询请求是类型 1 应用程序级安全性的第一步本质上它从服务器请求一些 随机数据质询响应提供服务器生成的随机数据是类型1安全性的第二步
 type: docs
 weight: 5260
 url: /zh/net/aspose.finance.ofx.signon/challengerequest/
 ---
 ## ChallengeRequest class
 
-挑战请求类。质询请求是类型 1 应用程序级安全性的第一步。本质上，它要求服务器提供一些 随机数据。质询响应提供服务器生成的随机数据，是类型 1 安全性的第二步。
+挑战请求类。质询请求是类型 1 应用程序级安全性的第一步。本质上，它从服务器请求一些 随机数据。质询响应提供服务器生成的随机数据，是类型1安全性的第二步。
 
 ```csharp
 public class ChallengeRequest
@@ -18,7 +18,7 @@ public class ChallengeRequest
 
 | 姓名 | 描述 |
 | --- | --- |
-| [ChallengeRequest](challengerequest)() | 初始化[`ChallengeRequest`](../challengerequest)类的新实例。 |
+| [ChallengeRequest](challengerequest)() | 初始化一个新的实例[`ChallengeRequest`](../challengerequest)类. |
 
 ## 特性
 

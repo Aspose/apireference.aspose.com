@@ -3,7 +3,7 @@ title: DefinitionLink
 second_title: Aspose.Finance for .NET API Reference
 description: This class is intended to contain a variety of miscellaneous relationships between Concepts in taxonomies.
 type: docs
-weight: 6600
+weight: 6630
 url: /net/aspose.finance.xbrl/definitionlink/
 ---
 ## DefinitionLink class

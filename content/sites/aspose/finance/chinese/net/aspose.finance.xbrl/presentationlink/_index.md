@@ -18,8 +18,8 @@ public class PresentationLink
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Locators](../../aspose.finance.xbrl/presentationlink/locators) { get; } | 获取[`Loc`](../loc)的集合。 |
-| [PresentationArcs](../../aspose.finance.xbrl/presentationlink/presentationarcs) { get; } | 获取[`PresentationArc`](../presentationarc)的集合。 |
+| [Locators](../../aspose.finance.xbrl/presentationlink/locators) { get; } | 获取集合[`Loc`](../loc). |
+| [PresentationArcs](../../aspose.finance.xbrl/presentationlink/presentationarcs) { get; } | 获取集合[`PresentationArc`](../presentationarc). |
 | [Role](../../aspose.finance.xbrl/presentationlink/role) { get; set; } | 获取或设置角色。 |
 
 ### 也可以看看

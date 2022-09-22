@@ -18,7 +18,7 @@ public class ChangeUserInfoRequest
 
 | Имя | Описание |
 | --- | --- |
-| [ChangeUserInfoRequest](changeuserinforequest)() | Инициализирует новый экземпляр класса[`ChangeUserInfoRequest`](../changeuserinforequest). |
+| [ChangeUserInfoRequest](changeuserinforequest)() | Инициализирует новый экземпляр[`ChangeUserInfoRequest`](../changeuserinforequest) класс. |
 
 ## Характеристики
 
@@ -29,7 +29,7 @@ public class ChangeUserInfoRequest
 | [Address3](../../aspose.finance.ofx.signup/changeuserinforequest/address3) { get; set; } | Получает или задает адресную строку 3. |
 | [City](../../aspose.finance.ofx.signup/changeuserinforequest/city) { get; set; } | Получает или задает город. |
 | [Country](../../aspose.finance.ofx.signup/changeuserinforequest/country) { get; set; } | Получает или задает код страны. Трехбуквенный код страны из ISO/DIS-3166. |
-| [DayPhone](../../aspose.finance.ofx.signup/changeuserinforequest/dayphone) { get; set; } | Получает или задает номер телефона для дневного времени. |
+| [DayPhone](../../aspose.finance.ofx.signup/changeuserinforequest/dayphone) { get; set; } | Получает или устанавливает номер телефона в дневное время. |
 | [Email](../../aspose.finance.ofx.signup/changeuserinforequest/email) { get; set; } | Получает или задает электронный адрес электронной почты. |
 | [EveningPhone](../../aspose.finance.ofx.signup/changeuserinforequest/eveningphone) { get; set; } | Получает или устанавливает вечерний номер телефона. |
 | [FirstName](../../aspose.finance.ofx.signup/changeuserinforequest/firstname) { get; set; } | Получает или задает имя пользователя. |

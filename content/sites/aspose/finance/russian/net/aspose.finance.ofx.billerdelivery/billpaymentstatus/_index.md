@@ -18,7 +18,7 @@ public class BillPaymentStatus
 
 | Имя | Описание |
 | --- | --- |
-| [BillPaymentStatus](billpaymentstatus)() | Инициализирует новый экземпляр класса[`BillPaymentStatus`](../billpaymentstatus). |
+| [BillPaymentStatus](billpaymentstatus)() | Инициализирует новый экземпляр[`BillPaymentStatus`](../billpaymentstatus) класс. |
 
 ## Характеристики
 
@@ -26,8 +26,8 @@ public class BillPaymentStatus
 | --- | --- |
 | [BillPaymentStatusCode](../../aspose.finance.ofx.billerdelivery/billpaymentstatus/billpaymentstatuscode) { get; set; } | Получает или задает код состояния оплаты счета. |
 | [EffectiveDate](../../aspose.finance.ofx.billerdelivery/billpaymentstatus/effectivedate) { get; set; } | Получает или задает дату/время вступления статуса в силу. |
-| [ServerID](../../aspose.finance.ofx.billerdelivery/billpaymentstatus/serverid) { get; set; } | Получает или задает идентификатор серверной транзакции платежа по данному счету. |
-| [StatusModifiedBy](../../aspose.finance.ofx.billerdelivery/billpaymentstatus/statusmodifiedby) { get; set; } | Получает или задает статус, измененный кем. Серверы не обязаны хранить эту информацию. |
+| [ServerID](../../aspose.finance.ofx.billerdelivery/billpaymentstatus/serverid) { get; set; } | Получает или задает идентификатор серверной транзакции платежа по этому счету. |
+| [StatusModifiedBy](../../aspose.finance.ofx.billerdelivery/billpaymentstatus/statusmodifiedby) { get; set; } | Получает или задает статус изменен. Серверы не обязаны хранить эту информацию. |
 
 ### Смотрите также
 

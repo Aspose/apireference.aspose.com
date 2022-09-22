@@ -1,14 +1,14 @@
 ---
 title: PostProcessWindow
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置事务处理后的天数可以访问状态查询
+description: 获取或设置事务处理后可以进行状态查询的天数
 type: docs
 weight: 150
 url: /zh/net/aspose.finance.ofx.profile/billpaymessagesetv1/postprocesswindow/
 ---
 ## BillPayMessageSetV1.PostProcessWindow property
 
-获取或设置事务处理后的天数，可以访问状态查询。
+获取或设置事务处理后可以进行状态查询的天数。
 
 ```csharp
 public string PostProcessWindow { get; set; }

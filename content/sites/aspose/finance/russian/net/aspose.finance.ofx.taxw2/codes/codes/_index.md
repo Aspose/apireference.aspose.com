@@ -1,14 +1,14 @@
 ---
 title: Codes
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаCodesaspose.finance.ofx.taxw2/codes.
+description: Инициализирует новый экземплярCodesaspose.finance.ofx.taxw2/codes класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.taxw2/codes/codes/
 ---
 ## Codes constructor
 
-Инициализирует новый экземпляр класса[`Codes`](../../codes).
+Инициализирует новый экземпляр[`Codes`](../../codes) класс.
 
 ```csharp
 public Codes()

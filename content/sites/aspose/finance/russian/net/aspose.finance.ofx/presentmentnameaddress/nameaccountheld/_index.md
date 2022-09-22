@@ -1,14 +1,14 @@
 ---
 title: NameAccountHeld
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает имя клиента которое отображается в учетной записи.
+description: Получает или задает имя клиента отображаемое в учетной записи.
 type: docs
 weight: 100
 url: /ru/net/aspose.finance.ofx/presentmentnameaddress/nameaccountheld/
 ---
 ## PresentmentNameAddress.NameAccountHeld property
 
-Получает или задает имя клиента, которое отображается в учетной записи.
+Получает или задает имя клиента, отображаемое в учетной записи.
 
 ```csharp
 public string NameAccountHeld { get; set; }

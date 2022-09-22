@@ -1,14 +1,14 @@
 ---
 title: TaxW2Response
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化TaxW2Responseaspose.finance.ofx.taxw2/taxw2response类的新实例
+description: 初始化一个新的实例TaxW2Responseaspose.finance.ofx.taxw2/taxw2response类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.taxw2/taxw2response/taxw2response/
 ---
 ## TaxW2Response constructor
 
-初始化[`TaxW2Response`](../../taxw2response)类的新实例。
+初始化一个新的实例[`TaxW2Response`](../../taxw2response)类.
 
 ```csharp
 public TaxW2Response()

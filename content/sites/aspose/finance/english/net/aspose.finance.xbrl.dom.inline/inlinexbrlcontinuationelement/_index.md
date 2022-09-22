@@ -3,7 +3,7 @@ title: InlineXbrlContinuationElement
 second_title: Aspose.Finance for .NET API Reference
 description: The class represents inline xbrl continuation element.
 type: docs
-weight: 7290
+weight: 7320
 url: /net/aspose.finance.xbrl.dom.inline/inlinexbrlcontinuationelement/
 ---
 ## InlineXbrlContinuationElement class

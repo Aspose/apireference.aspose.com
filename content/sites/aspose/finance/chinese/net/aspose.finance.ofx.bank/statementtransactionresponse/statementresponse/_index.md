@@ -1,14 +1,14 @@
 ---
 title: StatementResponse
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置StatementResponseaspose.finance.ofx.bank/statementtransactionresponse/statementresponse
+description: 获取或设置StatementResponseaspose.finance.ofx.bank/statementtransactionresponse/statementresponse.
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.ofx.bank/statementtransactionresponse/statementresponse/
 ---
 ## StatementTransactionResponse.StatementResponse property
 
-获取或设置`StatementResponse`。
+获取或设置`StatementResponse`.
 
 ```csharp
 public StatementResponse StatementResponse { get; set; }

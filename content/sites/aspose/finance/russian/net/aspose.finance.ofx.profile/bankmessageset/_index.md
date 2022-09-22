@@ -1,14 +1,14 @@
 ---
 title: BankMessageSet
 second_title: Справочник по API Aspose.Finance для .NET
-description: Набор сообщений для банка.
+description: Набор сообщений для банковских операций.
 type: docs
 weight: 4370
 url: /ru/net/aspose.finance.ofx.profile/bankmessageset/
 ---
 ## BankMessageSet class
 
-Набор сообщений для банка.
+Набор сообщений для банковских операций.
 
 ```csharp
 public class BankMessageSet : AbstractMessageSet
@@ -18,13 +18,13 @@ public class BankMessageSet : AbstractMessageSet
 
 | Имя | Описание |
 | --- | --- |
-| [BankMessageSet](bankmessageset)() | Инициализирует новый экземпляр класса[`BankMessageSet`](../bankmessageset). |
+| [BankMessageSet](bankmessageset)() | Инициализирует новый экземпляр[`BankMessageSet`](../bankmessageset) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [BankMessageSetV1](../../aspose.finance.ofx.profile/bankmessageset/bankmessagesetv1) { get; set; } | Получает или задает[`BankMessageSetV1`](./bankmessagesetv1). |
+| [BankMessageSetV1](../../aspose.finance.ofx.profile/bankmessageset/bankmessagesetv1) { get; set; } | Получает или задает[`BankMessageSetV1`](./bankmessagesetv1) . |
 
 ### Смотрите также
 

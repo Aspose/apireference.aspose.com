@@ -18,15 +18,15 @@ public class CheckDescription : AbstractCheckInfo
 
 | 姓名 | 描述 |
 | --- | --- |
-| [CheckDescription](checkdescription)() | 初始化[`CheckDescription`](../checkdescription)类的新实例。 |
+| [CheckDescription](checkdescription)() | 初始化一个新的实例[`CheckDescription`](../checkdescription)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [CheckNumber](../../aspose.finance.ofx.bank/checkdescription/checknumber) { get; set; } | 获取或设置校验号。 |
+| [CheckNumber](../../aspose.finance.ofx.bank/checkdescription/checknumber) { get; set; } | 获取或设置校验号 |
 | [Name](../../aspose.finance.ofx.bank/checkdescription/name) { get; set; } | 获取或设置收款人姓名或描述。 |
-| [TransactionAmount](../../aspose.finance.ofx.bank/checkdescription/transactionamount) { get; set; } | 获取或设置交易金额。 |
+| [TransactionAmount](../../aspose.finance.ofx.bank/checkdescription/transactionamount) { get; set; } | 获取或设置交易金额 |
 | [UserDate](../../aspose.finance.ofx.bank/checkdescription/userdate) { get; set; } | 获取或设置检查日期。 |
 
 ### 也可以看看

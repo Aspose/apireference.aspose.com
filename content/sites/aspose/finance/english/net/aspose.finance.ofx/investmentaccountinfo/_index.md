@@ -3,7 +3,7 @@ title: InvestmentAccountInfo
 second_title: Aspose.Finance for .NET API Reference
 description: Investment account information class.
 type: docs
-weight: 3650
+weight: 3660
 url: /net/aspose.finance.ofx/investmentaccountinfo/
 ---
 ## InvestmentAccountInfo class

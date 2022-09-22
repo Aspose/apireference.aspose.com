@@ -8,7 +8,7 @@ url: /zh/net/aspose.finance.ofx.wiretransfer/wirerequest/paymentinstruction/
 ---
 ## WireRequest.PaymentInstruction property
 
-获取或设置支付指令。
+获取或设置支付指令
 
 ```csharp
 public string PaymentInstruction { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: FindBillerResponse
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задаетFindBillerResponseaspose.finance.ofx.billerdirectory/findbillertransactionresponse/findbillerresponse.
+description: Получает или задаетFindBillerResponseaspose.finance.ofx.billerdirectory/findbillertransactionresponse/findbillerresponse .
 type: docs
 weight: 20
 url: /ru/net/aspose.finance.ofx.billerdirectory/findbillertransactionresponse/findbillerresponse/
 ---
 ## FindBillerTransactionResponse.FindBillerResponse property
 
-Получает или задает`FindBillerResponse`.
+Получает или задает`FindBillerResponse` .
 
 ```csharp
 public FindBillerResponse FindBillerResponse { get; set; }

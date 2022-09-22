@@ -21,7 +21,7 @@ public Attr RemoveNamedItemNS(string namespaceUri, string localName)
 
 ### 返回值
 
-已移除的属性。
+移除的属性。
 
 ### 也可以看看
 

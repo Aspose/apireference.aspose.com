@@ -1,14 +1,14 @@
 ---
 title: SignonRequest
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаSignonRequestaspose.finance.ofx.signon/signonrequest.
+description: Инициализирует новый экземплярSignonRequestaspose.finance.ofx.signon/signonrequest класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.signon/signonrequest/signonrequest/
 ---
 ## SignonRequest constructor
 
-Инициализирует новый экземпляр класса[`SignonRequest`](../../signonrequest).
+Инициализирует новый экземпляр[`SignonRequest`](../../signonrequest) класс.
 
 ```csharp
 public SignonRequest()

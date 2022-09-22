@@ -1,14 +1,14 @@
 ---
 title: Object
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает объектFactaspose.finance.xbrl/factс ошибкой проверки.
+description: ПолучаетFactaspose.finance.xbrl/factобъект с ошибкой проверки.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.xbrl.validator/inlinevalidationerror/object/
 ---
 ## InlineValidationError.Object property
 
-Получает объект[`Fact`](../../../aspose.finance.xbrl/fact)с ошибкой проверки.
+Получает[`Fact`](../../../aspose.finance.xbrl/fact)объект с ошибкой проверки.
 
 ```csharp
 public InlineXbrlDocument Object { get; }

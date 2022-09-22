@@ -1,14 +1,14 @@
 ---
 title: PinChangeResponse
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化PinChangeResponseaspose.finance.ofx.signon/pinchangeresponse类的新实例
+description: 初始化一个新的实例PinChangeResponseaspose.finance.ofx.signon/pinchangeresponse类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.signon/pinchangeresponse/pinchangeresponse/
 ---
 ## PinChangeResponse constructor
 
-初始化[`PinChangeResponse`](../../pinchangeresponse)类的新实例。
+初始化一个新的实例[`PinChangeResponse`](../../pinchangeresponse)类.
 
 ```csharp
 public PinChangeResponse()

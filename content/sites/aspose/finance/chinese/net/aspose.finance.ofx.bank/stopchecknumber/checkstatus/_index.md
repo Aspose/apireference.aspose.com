@@ -1,14 +1,14 @@
 ---
 title: CheckStatus
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置个别停止检查请求的状态码
+description: 获取或设置单个停止检查请求的状态码
 type: docs
 weight: 40
 url: /zh/net/aspose.finance.ofx.bank/stopchecknumber/checkstatus/
 ---
 ## StopCheckNumber.CheckStatus property
 
-获取或设置个别停止检查请求的状态码。
+获取或设置单个停止检查请求的状态码。
 
 ```csharp
 public CheckStatusEnum CheckStatus { get; set; }

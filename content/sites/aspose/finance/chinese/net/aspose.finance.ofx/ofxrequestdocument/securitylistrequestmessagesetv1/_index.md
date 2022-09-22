@@ -1,14 +1,14 @@
 ---
 title: SecurityListRequestMessageSetV1
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置SecurityListRequestMessageSetV1aspose.finance.ofx/ofxrequestdocument/securitylistrequestmessagesetv1
+description: 获取或设置SecurityListRequestMessageSetV1aspose.finance.ofx/ofxrequestdocument/securitylistrequestmessagesetv1.
 type: docs
 weight: 130
 url: /zh/net/aspose.finance.ofx/ofxrequestdocument/securitylistrequestmessagesetv1/
 ---
 ## OfxRequestDocument.SecurityListRequestMessageSetV1 property
 
-获取或设置`SecurityListRequestMessageSetV1`。
+获取或设置`SecurityListRequestMessageSetV1`.
 
 ```csharp
 public SecurityListRequestMessageSetV1 SecurityListRequestMessageSetV1 { get; set; }

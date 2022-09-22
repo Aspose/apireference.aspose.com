@@ -8,7 +8,7 @@ url: /ru/net/aspose.finance.xbrl/xbrlinstancecollection/xbrldocument/
 ---
 ## XbrlInstanceCollection.XbrlDocument property
 
-Получает`XbrlDocument`, который содержит эту коллекцию экземпляров XBRL.
+Получает`XbrlDocument` который содержит эту коллекцию экземпляров XBRL.
 
 ```csharp
 public XbrlDocument XbrlDocument { get; }

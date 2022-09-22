@@ -1,14 +1,14 @@
 ---
 title: PresentmentMailTransactionRequests
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置PresentmentMailTransactionRequestaspose.finance.ofx.billerdelivery/presentmentmailtransactionrequest的集合
+description: 获取或设置的集合PresentmentMailTransactionRequestaspose.finance.ofx.billerdelivery/presentmentmailtransactionrequest.
 type: docs
 weight: 80
 url: /zh/net/aspose.finance.ofx/presentmentdeliveryrequestmessagesetv1/presentmentmailtransactionrequests/
 ---
 ## PresentmentDeliveryRequestMessageSetV1.PresentmentMailTransactionRequests property
 
-获取或设置[`PresentmentMailTransactionRequest`](../../../aspose.finance.ofx.billerdelivery/presentmentmailtransactionrequest)的集合。
+获取或设置的集合[`PresentmentMailTransactionRequest`](../../../aspose.finance.ofx.billerdelivery/presentmentmailtransactionrequest).
 
 ```csharp
 public List<PresentmentMailTransactionRequest> PresentmentMailTransactionRequests { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: PHONE
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает номер телефона получателя.
+description: Получает или устанавливает номер телефона получателя.
 type: docs
 weight: 70
 url: /ru/net/aspose.finance.ofx.tax1099/recipientaddress/phone/
 ---
 ## RecipientAddress.PHONE property
 
-Получает или задает номер телефона получателя.
+Получает или устанавливает номер телефона получателя.
 
 ```csharp
 public string PHONE { get; set; }

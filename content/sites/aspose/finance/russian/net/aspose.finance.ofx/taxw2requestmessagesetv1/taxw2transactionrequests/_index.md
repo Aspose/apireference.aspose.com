@@ -1,14 +1,14 @@
 ---
 title: TaxW2TransactionRequests
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает коллекциюTaxW2TransactionRequestaspose.finance.ofx.taxw2/taxw2transactionrequest.
+description: Получает или задает коллекциюTaxW2TransactionRequestaspose.finance.ofx.taxw2/taxw2transactionrequest .
 type: docs
 weight: 20
 url: /ru/net/aspose.finance.ofx/taxw2requestmessagesetv1/taxw2transactionrequests/
 ---
 ## TaxW2RequestMessageSetV1.TaxW2TransactionRequests property
 
-Получает или задает коллекцию[`TaxW2TransactionRequest`](../../../aspose.finance.ofx.taxw2/taxw2transactionrequest).
+Получает или задает коллекцию[`TaxW2TransactionRequest`](../../../aspose.finance.ofx.taxw2/taxw2transactionrequest) .
 
 ```csharp
 public List<TaxW2TransactionRequest> TaxW2TransactionRequests { get; set; }

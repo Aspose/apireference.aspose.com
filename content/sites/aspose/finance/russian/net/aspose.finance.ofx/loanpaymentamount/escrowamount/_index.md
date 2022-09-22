@@ -1,14 +1,14 @@
 ---
 title: EscrowAmount
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задаетEscrowAmountaspose.finance.ofx/loanpaymentamount/escrowamountдля ипотечных кредитов.
+description: Получает или задаетEscrowAmountaspose.finance.ofx/loanpaymentamount/escrowamount для ипотеки.
 type: docs
 weight: 20
 url: /ru/net/aspose.finance.ofx/loanpaymentamount/escrowamount/
 ---
 ## LoanPaymentAmount.EscrowAmount property
 
-Получает или задает`EscrowAmount`для ипотечных кредитов.
+Получает или задает`EscrowAmount` для ипотеки.
 
 ```csharp
 public EscrowAmount EscrowAmount { get; set; }

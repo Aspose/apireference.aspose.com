@@ -1,14 +1,14 @@
 ---
 title: PresentmentDetailResponse
 second_title: Aspose.Finance for .NET API 参考
-description: 账单详细响应类
+description: 账单明细响应类
 type: docs
 weight: 1640
 url: /zh/net/aspose.finance.ofx.billerdelivery/presentmentdetailresponse/
 ---
 ## PresentmentDetailResponse class
 
-账单详细响应类。
+账单明细响应类
 
 ```csharp
 public class PresentmentDetailResponse
@@ -18,13 +18,13 @@ public class PresentmentDetailResponse
 
 | 姓名 | 描述 |
 | --- | --- |
-| [PresentmentDetailResponse](presentmentdetailresponse)() | 初始化[`PresentmentDetailResponse`](../presentmentdetailresponse)类的新实例。 |
+| [PresentmentDetailResponse](presentmentdetailresponse)() | 初始化一个新的实例[`PresentmentDetailResponse`](../presentmentdetailresponse)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [PresentmentDetails](../../aspose.finance.ofx.billerdelivery/presentmentdetailresponse/presentmentdetails) { get; set; } | 获取或设置[`PresentmentDetail`](../presentmentdetail)的集合。 |
+| [PresentmentDetails](../../aspose.finance.ofx.billerdelivery/presentmentdetailresponse/presentmentdetails) { get; set; } | 获取或设置的集合[`PresentmentDetail`](../presentmentdetail). |
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: HasExtendedPayment
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置是否支持ExtendedPayment业务支付
+description: 获取或设置是否支持ExtendedPayment商业支付
 type: docs
 weight: 100
 url: /zh/net/aspose.finance.ofx.profile/billpaymessagesetv1/hasextendedpayment/
 ---
 ## BillPayMessageSetV1.HasExtendedPayment property
 
-获取或设置是否支持!:ExtendedPayment业务支付。
+获取或设置是否支持!:ExtendedPayment商业支付。
 
 ```csharp
 public bool HasExtendedPayment { get; set; }

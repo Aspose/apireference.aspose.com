@@ -1,14 +1,14 @@
 ---
 title: InvestmentStatementResponseMessageSetV1
 second_title: Справочник по API Aspose.Finance для .NET
-description: Ответные сообщения инвестиционного отчета установить класс версии 1.
+description: Ответные сообщения отчета об инвестициях устанавливают класс версии 1.
 type: docs
 weight: 3680
 url: /ru/net/aspose.finance.ofx/investmentstatementresponsemessagesetv1/
 ---
 ## InvestmentStatementResponseMessageSetV1 class
 
-Ответные сообщения инвестиционного отчета установить класс версии 1.
+Ответные сообщения отчета об инвестициях устанавливают класс версии 1.
 
 ```csharp
 public class InvestmentStatementResponseMessageSetV1 : AbstractResponseMessageSet
@@ -18,16 +18,16 @@ public class InvestmentStatementResponseMessageSetV1 : AbstractResponseMessageSe
 
 | Имя | Описание |
 | --- | --- |
-| [InvestmentStatementResponseMessageSetV1](investmentstatementresponsemessagesetv1)() | Инициализирует новый экземпляр класса[`InvestmentStatementResponseMessageSetV1`](../investmentstatementresponsemessagesetv1). |
+| [InvestmentStatementResponseMessageSetV1](investmentstatementresponsemessagesetv1)() | Инициализирует новый экземпляр[`InvestmentStatementResponseMessageSetV1`](../investmentstatementresponsemessagesetv1) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [InvestmentMailSyncResponses](../../aspose.finance.ofx/investmentstatementresponsemessagesetv1/investmentmailsyncresponses) { get; set; } | Получает или задает коллекцию[`InvestmentMailSyncResponse`](../../aspose.finance.ofx.investment/investmentmailsyncresponse). |
-| [InvestmentMailTransactionResponses](../../aspose.finance.ofx/investmentstatementresponsemessagesetv1/investmentmailtransactionresponses) { get; set; } | Получает или задает коллекцию[`InvestmentMailTransactionResponse`](../../aspose.finance.ofx.investment/investmentmailtransactionresponse). |
-| [InvestmentStatementEndTransactionResponses](../../aspose.finance.ofx/investmentstatementresponsemessagesetv1/investmentstatementendtransactionresponses) { get; set; } | Получает или задает коллекцию[`InvestmentStatementEndTransactionResponse`](../../aspose.finance.ofx.investment/investmentstatementendtransactionresponse). |
-| [InvestmentStatementTransactionResponses](../../aspose.finance.ofx/investmentstatementresponsemessagesetv1/investmentstatementtransactionresponses) { get; set; } | Получает или задает коллекцию[`InvestmentStatementTransactionResponse`](../../aspose.finance.ofx.investment/investmentstatementtransactionresponse). |
+| [InvestmentMailSyncResponses](../../aspose.finance.ofx/investmentstatementresponsemessagesetv1/investmentmailsyncresponses) { get; set; } | Получает или задает коллекцию[`InvestmentMailSyncResponse`](../../aspose.finance.ofx.investment/investmentmailsyncresponse) . |
+| [InvestmentMailTransactionResponses](../../aspose.finance.ofx/investmentstatementresponsemessagesetv1/investmentmailtransactionresponses) { get; set; } | Получает или задает коллекцию[`InvestmentMailTransactionResponse`](../../aspose.finance.ofx.investment/investmentmailtransactionresponse) . |
+| [InvestmentStatementEndTransactionResponses](../../aspose.finance.ofx/investmentstatementresponsemessagesetv1/investmentstatementendtransactionresponses) { get; set; } | Получает или задает коллекцию[`InvestmentStatementEndTransactionResponse`](../../aspose.finance.ofx.investment/investmentstatementendtransactionresponse) . |
+| [InvestmentStatementTransactionResponses](../../aspose.finance.ofx/investmentstatementresponsemessagesetv1/investmentstatementtransactionresponses) { get; set; } | Получает или задает коллекцию[`InvestmentStatementTransactionResponse`](../../aspose.finance.ofx.investment/investmentstatementtransactionresponse) . |
 
 ### Смотрите также
 

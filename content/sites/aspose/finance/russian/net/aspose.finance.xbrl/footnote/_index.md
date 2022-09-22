@@ -1,14 +1,14 @@
 ---
 title: Footnote
 second_title: Справочник по API Aspose.Finance для .NET
-description: Этот класс представляет собой классXlink./xlinkс типом ресурса. Это единственный ресурс разрешенный вFootnoteLink./footnotelink.
+description: Этот класс являетсяXlink./xlink с типом ресурса. Это единственный ресурс разрешенный вFootnoteLink./footnotelink .
 type: docs
 weight: 7630
 url: /ru/net/aspose.finance.xbrl/footnote/
 ---
 ## Footnote class
 
-Этот класс представляет собой класс[`Xlink`](../xlink)с типом ресурса. Это единственный ресурс, разрешенный в[`FootnoteLink`](../footnotelink).
+Этот класс является[`Xlink`](../xlink) с типом ресурса. Это единственный ресурс, разрешенный в[`FootnoteLink`](../footnotelink) .
 
 ```csharp
 public class Footnote : Resource
@@ -18,7 +18,7 @@ public class Footnote : Resource
 
 | Имя | Описание |
 | --- | --- |
-| [Footnote](footnote)(string) | Инициализирует новый экземпляр класса[`Footnote`](../footnote). |
+| [Footnote](footnote)(string) | Инициализирует новый экземпляр[`Footnote`](../footnote) класс. |
 
 ## Характеристики
 

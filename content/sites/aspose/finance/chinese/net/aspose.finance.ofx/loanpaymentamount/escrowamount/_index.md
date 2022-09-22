@@ -1,14 +1,14 @@
 ---
 title: EscrowAmount
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置抵押贷款的EscrowAmountaspose.finance.ofx/loanpaymentamount/escrowamount
+description: 获取或设置EscrowAmountaspose.finance.ofx/loanpaymentamount/escrowamount抵押贷款
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.ofx/loanpaymentamount/escrowamount/
 ---
 ## LoanPaymentAmount.EscrowAmount property
 
-获取或设置抵押贷款的`EscrowAmount`。
+获取或设置`EscrowAmount`抵押贷款。
 
 ```csharp
 public EscrowAmount EscrowAmount { get; set; }

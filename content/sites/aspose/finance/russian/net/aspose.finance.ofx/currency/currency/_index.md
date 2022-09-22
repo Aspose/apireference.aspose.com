@@ -1,14 +1,14 @@
 ---
 title: Currency
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаCurrencyaspose.finance.ofx/currency.
+description: Инициализирует новый экземплярCurrencyaspose.finance.ofx/currency класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx/currency/currency/
 ---
 ## Currency constructor
 
-Инициализирует новый экземпляр класса[`Currency`](../../currency).
+Инициализирует новый экземпляр[`Currency`](../../currency) класс.
 
 ```csharp
 public Currency()

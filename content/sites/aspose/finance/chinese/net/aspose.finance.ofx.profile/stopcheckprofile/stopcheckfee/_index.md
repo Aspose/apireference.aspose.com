@@ -1,14 +1,14 @@
 ---
 title: StopCheckFee
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置默认止损费
+description: 获取或设置默认停止检查费用
 type: docs
 weight: 60
 url: /zh/net/aspose.finance.ofx.profile/stopcheckprofile/stopcheckfee/
 ---
 ## StopCheckProfile.StopCheckFee property
 
-获取或设置默认止损费
+获取或设置默认停止检查费用
 
 ```csharp
 public string StopCheckFee { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: HolderTypeEnum
 second_title: Справочник по API Aspose.Finance для .NET
-description: Тип владельца счета enum.
+description: Тип владельца учетной записи enum.
 type: docs
 weight: 2270
 url: /ru/net/aspose.finance.ofx/holdertypeenum/
 ---
 ## HolderTypeEnum enumeration
 
-Тип владельца счета enum.
+Тип владельца учетной записи enum.
 
 ```csharp
 public enum HolderTypeEnum
@@ -18,11 +18,11 @@ public enum HolderTypeEnum
 
 | Имя | Ценность | Описание |
 | --- | --- | --- |
-| INDIVIDUAL | `0` | Индивидуальный счет |
-| JOINT | `1` | Совместный счет |
-| CUSTODIAL | `2` | Депозитный счет |
-| TRUST | `3` | Доверительный счет |
-| OTHER | `4` | Другой тип отношений счета |
+| INDIVIDUAL | `0` | Индивидуальный аккаунт |
+| JOINT | `1` | Совместный аккаунт |
+| CUSTODIAL | `2` | Депозитарная учетная запись |
+| TRUST | `3` | Доверительный аккаунт |
+| OTHER | `4` | Другой тип отношений аккаунта |
 
 ### Смотрите также
 

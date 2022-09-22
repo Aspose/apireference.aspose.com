@@ -1,14 +1,14 @@
 ---
 title: ClientEnroll
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задаетClientEnrollaspose.finance.ofx.profile/signupmessagesetv1/clientenroll.
+description: Получает или задаетClientEnrollaspose.finance.ofx.profile/signupmessagesetv1/clientenroll .
 type: docs
 weight: 50
 url: /ru/net/aspose.finance.ofx.profile/signupmessagesetv1/clientenroll/
 ---
 ## SignupMessageSetV1.ClientEnroll property
 
-Получает или задает`ClientEnroll`.
+Получает или задает`ClientEnroll` .
 
 ```csharp
 public ClientEnroll ClientEnroll { get; set; }

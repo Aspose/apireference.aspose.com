@@ -1,14 +1,14 @@
 ---
 title: PresentmentAccountFrom
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置PresentmentAccountaspose.finance.ofx/presentmentaccount的来源
+description: 获取或设置 fromPresentmentAccountaspose.finance.ofx/presentmentaccount.
 type: docs
 weight: 40
 url: /zh/net/aspose.finance.ofx.billerdelivery/presentmentmailsyncrequest/presentmentaccountfrom/
 ---
 ## PresentmentMailSyncRequest.PresentmentAccountFrom property
 
-获取或设置[`PresentmentAccount`](../../../aspose.finance.ofx/presentmentaccount)的来源。
+获取或设置 from[`PresentmentAccount`](../../../aspose.finance.ofx/presentmentaccount).
 
 ```csharp
 public PresentmentAccount PresentmentAccountFrom { get; set; }

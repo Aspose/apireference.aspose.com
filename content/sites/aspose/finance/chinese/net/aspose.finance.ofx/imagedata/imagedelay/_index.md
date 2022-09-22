@@ -1,14 +1,14 @@
 ---
 title: ImageDelay
 second_title: Aspose.Finance for .NET API 参考
-description: 从 ServerDate对于报表图像或 PostedDate对于交易图像获取或设置日历天数当图像可用时
+description: 获取或设置从 ServerDate用于报表图像或 PostedDate用于交易图像的日历天数当图像可用时
 type: docs
 weight: 40
 url: /zh/net/aspose.finance.ofx/imagedata/imagedelay/
 ---
 ## ImageData.ImageDelay property
 
-从 ServerDate（对于报表图像）或 PostedDate（对于交易图像）获取或设置日历天数，当图像可用时。
+获取或设置从 ServerDate（用于报表图像）或 PostedDate（用于交易图像）的日历天数，当图像可用时。
 
 ```csharp
 public string ImageDelay { get; set; }

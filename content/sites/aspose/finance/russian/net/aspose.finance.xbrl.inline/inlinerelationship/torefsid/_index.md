@@ -1,14 +1,14 @@
 ---
 title: ToRefsId
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает идентификаторы ссылокInlineRelationshipaspose.finance.xbrl.inline/inlinerelationship.
+description: Получает или задает идентификаторы ссылок дляInlineRelationshipaspose.finance.xbrl.inline/inlinerelationship .
 type: docs
 weight: 50
 url: /ru/net/aspose.finance.xbrl.inline/inlinerelationship/torefsid/
 ---
 ## InlineRelationship.ToRefsId property
 
-Получает или задает идентификаторы ссылок[`InlineRelationship`](../../inlinerelationship).
+Получает или задает идентификаторы ссылок для[`InlineRelationship`](../../inlinerelationship) .
 
 ```csharp
 public string ToRefsId { get; set; }

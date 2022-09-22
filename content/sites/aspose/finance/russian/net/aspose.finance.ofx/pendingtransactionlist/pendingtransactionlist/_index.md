@@ -1,14 +1,14 @@
 ---
 title: PendingTransactionList
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаPendingTransactionListaspose.finance.ofx/pendingtransactionlist.
+description: Инициализирует новый экземплярPendingTransactionListaspose.finance.ofx/pendingtransactionlist класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx/pendingtransactionlist/pendingtransactionlist/
 ---
 ## PendingTransactionList constructor
 
-Инициализирует новый экземпляр класса[`PendingTransactionList`](../../pendingtransactionlist).
+Инициализирует новый экземпляр[`PendingTransactionList`](../../pendingtransactionlist) класс.
 
 ```csharp
 public PendingTransactionList()

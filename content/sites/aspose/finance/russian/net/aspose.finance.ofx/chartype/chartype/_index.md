@@ -1,14 +1,14 @@
 ---
 title: CharType
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаCharTypeaspose.finance.ofx/chartype.
+description: Инициализирует новый экземплярCharTypeaspose.finance.ofx/chartype класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx/chartype/chartype/
 ---
 ## CharType constructor
 
-Инициализирует новый экземпляр класса[`CharType`](../../chartype).
+Инициализирует новый экземпляр[`CharType`](../../chartype) класс.
 
 ```csharp
 public CharType()

@@ -1,14 +1,14 @@
 ---
 title: SubstitutionGroup
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает группу подстановки концепции.
+description: Получает или задает группу замещения концепции.
 type: docs
 weight: 100
 url: /ru/net/aspose.finance.xbrl/concept/substitutiongroup/
 ---
 ## Concept.SubstitutionGroup property
 
-Получает или задает группу подстановки концепции.
+Получает или задает группу замещения концепции.
 
 ```csharp
 public ElementSubstitutionGroup SubstitutionGroup { get; set; }

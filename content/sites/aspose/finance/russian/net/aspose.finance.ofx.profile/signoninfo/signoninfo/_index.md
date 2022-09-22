@@ -1,14 +1,14 @@
 ---
 title: SignonInfo
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаSignonInfoaspose.finance.ofx.profile/signoninfo.
+description: Инициализирует новый экземплярSignonInfoaspose.finance.ofx.profile/signoninfo класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.profile/signoninfo/signoninfo/
 ---
 ## SignonInfo constructor
 
-Инициализирует новый экземпляр класса[`SignonInfo`](../../signoninfo).
+Инициализирует новый экземпляр[`SignonInfo`](../../signoninfo) класс.
 
 ```csharp
 public SignonInfo()

@@ -1,14 +1,14 @@
 ---
 title: BillStatusCounts
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置BillStatusCountsaspose.finance.ofx.billerdelivery/billstatuscounts的集合
+description: 获取或设置的集合BillStatusCountsaspose.finance.ofx.billerdelivery/billstatuscounts.
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.ofx.billerdelivery/presentmentcounts/billstatuscounts/
 ---
 ## PresentmentCounts.BillStatusCounts property
 
-获取或设置[`BillStatusCounts`](../../billstatuscounts)的集合。
+获取或设置的集合[`BillStatusCounts`](../../billstatuscounts).
 
 ```csharp
 public List<BillStatusCounts> BillStatusCounts { get; set; }

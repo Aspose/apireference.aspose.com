@@ -1,14 +1,14 @@
 ---
 title: Object
 second_title: Aspose.Finance for .NET API 参考
-description: 获取有验证错误的Contextaspose.finance.xbrl/context对象
+description: 获取Contextaspose.finance.xbrl/context有验证错误的对象
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.xbrl.validator/contextvalidationerror/object/
 ---
 ## ContextValidationError.Object property
 
-获取有验证错误的[`Context`](../../../aspose.finance.xbrl/context)对象。
+获取[`Context`](../../../aspose.finance.xbrl/context)有验证错误的对象。
 
 ```csharp
 public Context Object { get; }

@@ -1,14 +1,14 @@
 ---
 title: MailTransactionResponse
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化MailTransactionResponseaspose.finance.ofx.email/mailtransactionresponse类的新实例
+description: 初始化一个新的实例MailTransactionResponseaspose.finance.ofx.email/mailtransactionresponse类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.email/mailtransactionresponse/mailtransactionresponse/
 ---
 ## MailTransactionResponse constructor
 
-初始化[`MailTransactionResponse`](../../mailtransactionresponse)类的新实例。
+初始化一个新的实例[`MailTransactionResponse`](../../mailtransactionresponse)类.
 
 ```csharp
 public MailTransactionResponse()

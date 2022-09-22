@@ -1,14 +1,14 @@
 ---
 title: CreditcardResponseMessageSetV1
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаCreditcardResponseMessageSetV1aspose.finance.ofx/creditcardresponsemessagesetv1.
+description: Инициализирует новый экземплярCreditcardResponseMessageSetV1aspose.finance.ofx/creditcardresponsemessagesetv1 класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx/creditcardresponsemessagesetv1/creditcardresponsemessagesetv1/
 ---
 ## CreditcardResponseMessageSetV1 constructor
 
-Инициализирует новый экземпляр класса[`CreditcardResponseMessageSetV1`](../../creditcardresponsemessagesetv1).
+Инициализирует новый экземпляр[`CreditcardResponseMessageSetV1`](../../creditcardresponsemessagesetv1) класс.
 
 ```csharp
 public CreditcardResponseMessageSetV1()

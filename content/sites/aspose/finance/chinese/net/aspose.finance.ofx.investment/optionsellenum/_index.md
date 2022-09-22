@@ -18,8 +18,8 @@ public enum OptionSellEnum
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| SELLTOOPEN | `0` | 卖出打开 |
-| SELLTOCLOSE | `1` | 卖出关闭 |
+| SELLTOOPEN | `0` | 卖给开 |
+| SELLTOCLOSE | `1` | 卖出平仓 |
 
 ### 也可以看看
 

@@ -18,15 +18,15 @@ public class StatementEndRequest
 
 | 姓名 | 描述 |
 | --- | --- |
-| [StatementEndRequest](statementendrequest)() | 初始化[`StatementEndRequest`](../statementendrequest)类的新实例。 |
+| [StatementEndRequest](statementendrequest)() | 初始化一个新的实例[`StatementEndRequest`](../statementendrequest)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [BankAccountFrom](../../aspose.finance.ofx.bank/statementendrequest/bankaccountfrom) { get; set; } | 获取或设置[`BankAccount`](../../aspose.finance.ofx/bankaccount)的来源。 |
+| [BankAccountFrom](../../aspose.finance.ofx.bank/statementendrequest/bankaccountfrom) { get; set; } | 获取或设置 from[`BankAccount`](../../aspose.finance.ofx/bankaccount). |
 | [EndDate](../../aspose.finance.ofx.bank/statementendrequest/enddate) { get; set; } | 获取或设置结帐信息的结束日期。 |
-| [IncludeStatementImage](../../aspose.finance.ofx.bank/statementendrequest/includestatementimage) { get; set; } | 获取或设置是否包含结束语句图像的数据。 |
+| [IncludeStatementImage](../../aspose.finance.ofx.bank/statementendrequest/includestatementimage) { get; set; } | 获取或设置是否包含关闭语句图像的数据。 |
 | [StartDate](../../aspose.finance.ofx.bank/statementendrequest/startdate) { get; set; } | 获取或设置结帐信息的开始日期。 |
 
 ### 也可以看看

@@ -1,14 +1,14 @@
 ---
 title: AccountSyncRequest
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаAccountSyncRequestaspose.finance.ofx.signup/accountsyncrequest.
+description: Инициализирует новый экземплярAccountSyncRequestaspose.finance.ofx.signup/accountsyncrequest класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.signup/accountsyncrequest/accountsyncrequest/
 ---
 ## AccountSyncRequest constructor
 
-Инициализирует новый экземпляр класса[`AccountSyncRequest`](../../accountsyncrequest).
+Инициализирует новый экземпляр[`AccountSyncRequest`](../../accountsyncrequest) класс.
 
 ```csharp
 public AccountSyncRequest()

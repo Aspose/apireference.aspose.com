@@ -3,7 +3,7 @@ title: ChangeUserInfoRequest
 second_title: Aspose.Finance for .NET API Reference
 description: Change user information request class.
 type: docs
-weight: 5540
+weight: 5570
 url: /net/aspose.finance.ofx.signup/changeuserinforequest/
 ---
 ## ChangeUserInfoRequest class

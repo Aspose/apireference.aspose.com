@@ -18,16 +18,16 @@ public class ProfileTransactionResponse : AbstractTransactionResponse
 
 | Имя | Описание |
 | --- | --- |
-| [ProfileTransactionResponse](profiletransactionresponse)() | Инициализирует новый экземпляр класса[`ProfileTransactionResponse`](../profiletransactionresponse). |
+| [ProfileTransactionResponse](profiletransactionresponse)() | Инициализирует новый экземпляр[`ProfileTransactionResponse`](../profiletransactionresponse) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [ClientCookie](../../aspose.finance.ofx/abstracttransactionresponse/clientcookie) { get; set; } | Получает или задает данные, которые будут отображаться в ответе транзакции |
-| [OfxExtension](../../aspose.finance.ofx.profile/profiletransactionresponse/ofxextension) { get; set; } | Получает или задает[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
-| [ProfileResponse](../../aspose.finance.ofx.profile/profiletransactionresponse/profileresponse) { get; set; } | Получает или задает[`ProfileResponse`](./profileresponse). |
-| [Status](../../aspose.finance.ofx/abstracttransactionresponse/status) { get; set; } | Получает или задает[`Status`](../../aspose.finance.ofx/abstracttransactionresponse/status). |
+| [ClientCookie](../../aspose.finance.ofx/abstracttransactionresponse/clientcookie) { get; set; } | Получает или задает данные, которые будут отражены в транзакции response |
+| [OfxExtension](../../aspose.finance.ofx.profile/profiletransactionresponse/ofxextension) { get; set; } | Получает или задает[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype) . |
+| [ProfileResponse](../../aspose.finance.ofx.profile/profiletransactionresponse/profileresponse) { get; set; } | Получает или задает[`ProfileResponse`](./profileresponse) . |
+| [Status](../../aspose.finance.ofx/abstracttransactionresponse/status) { get; set; } | Получает или задает[`Status`](../../aspose.finance.ofx/abstracttransactionresponse/status) . |
 | [TransactionUniqueId](../../aspose.finance.ofx/abstracttransactionresponse/transactionuniqueid) { get; set; } | Получает или задает назначенный клиентом глобальный уникальный идентификатор для этой транзакции. |
 
 ### Смотрите также

@@ -1,14 +1,14 @@
 ---
 title: LoanStatementEndResponse
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置LoanStatementEndResponseaspose.finance.ofx.loan/loanstatementendtransactionresponse/loanstatementendresponse
+description: 获取或设置LoanStatementEndResponseaspose.finance.ofx.loan/loanstatementendtransactionresponse/loanstatementendresponse.
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.ofx.loan/loanstatementendtransactionresponse/loanstatementendresponse/
 ---
 ## LoanStatementEndTransactionResponse.LoanStatementEndResponse property
 
-获取或设置`LoanStatementEndResponse`。
+获取或设置`LoanStatementEndResponse`.
 
 ```csharp
 public LoanStatementEndResponse LoanStatementEndResponse { get; set; }

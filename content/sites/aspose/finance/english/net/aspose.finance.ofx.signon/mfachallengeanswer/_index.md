@@ -3,7 +3,7 @@ title: MFAChallengeAnswer
 second_title: Aspose.Finance for .NET API Reference
 description: Signon answers to challenge questions.
 type: docs
-weight: 5320
+weight: 5350
 url: /net/aspose.finance.ofx.signon/mfachallengeanswer/
 ---
 ## MFAChallengeAnswer class

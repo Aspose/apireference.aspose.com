@@ -1,14 +1,14 @@
 ---
 title: PaymentModRequest
 second_title: Справочник по API Aspose.Finance для .NET
-description: Класс запроса модификации платежа.
+description: Класс запроса на изменение платежа.
 type: docs
 weight: 1180
 url: /ru/net/aspose.finance.ofx.billpay/paymentmodrequest/
 ---
 ## PaymentModRequest class
 
-Класс запроса модификации платежа.
+Класс запроса на изменение платежа.
 
 ```csharp
 public class PaymentModRequest : AbstractPaymentRequest
@@ -18,14 +18,14 @@ public class PaymentModRequest : AbstractPaymentRequest
 
 | Имя | Описание |
 | --- | --- |
-| [PaymentModRequest](paymentmodrequest)() | Инициализирует новый экземпляр класса[`PaymentModRequest`](../paymentmodrequest). |
+| [PaymentModRequest](paymentmodrequest)() | Инициализирует новый экземпляр[`PaymentModRequest`](../paymentmodrequest) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [PaymentInfo](../../aspose.finance.ofx.billpay/paymentmodrequest/paymentinfo) { get; set; } | Получает или задает[`PaymentInfo`](./paymentinfo). |
-| [ServerId](../../aspose.finance.ofx.billpay/paymentmodrequest/serverid) { get; set; } | Получает или задает идентификатор, присвоенный сервером модифицируемому платежу. |
+| [PaymentInfo](../../aspose.finance.ofx.billpay/paymentmodrequest/paymentinfo) { get; set; } | Получает или задает[`PaymentInfo`](./paymentinfo) . |
+| [ServerId](../../aspose.finance.ofx.billpay/paymentmodrequest/serverid) { get; set; } | Получает или задает идентификатор, присвоенный сервером изменяемому платежу. |
 
 ### Смотрите также
 

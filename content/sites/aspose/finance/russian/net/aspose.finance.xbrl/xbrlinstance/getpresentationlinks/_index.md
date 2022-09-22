@@ -1,14 +1,14 @@
 ---
 title: GetPresentationLinks
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает ссылки на презентации в экземпляре xbrl.
+description: Получает ссылки на презентацию в экземпляре xbrl.
 type: docs
 weight: 200
 url: /ru/net/aspose.finance.xbrl/xbrlinstance/getpresentationlinks/
 ---
 ## XbrlInstance.GetPresentationLinks method
 
-Получает ссылки на презентации в экземпляре xbrl.
+Получает ссылки на презентацию в экземпляре xbrl.
 
 ```csharp
 public List<PresentationLink> GetPresentationLinks(string roleURI, string arcroleURI)
@@ -17,11 +17,11 @@ public List<PresentationLink> GetPresentationLinks(string roleURI, string arcrol
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | roleURI | String | URI роли ссылки на презентацию. |
-| arcroleURI | String | URI arcrole ссылки на презентацию |
+| arcroleURI | String | URI роли дуги ссылки на презентацию |
 
 ### Возвращаемое значение
 
-Ссылки презентации с URI роли и URI arcrole
+Презентация связывается с URI роли и URI роли.
 
 ### Смотрите также
 

@@ -1,14 +1,14 @@
 ---
 title: ServiceAdd
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаServiceAddaspose.finance.ofx.signup/serviceadd.
+description: Инициализирует новый экземплярServiceAddaspose.finance.ofx.signup/serviceadd класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.signup/serviceadd/serviceadd/
 ---
 ## ServiceAdd constructor
 
-Инициализирует новый экземпляр класса[`ServiceAdd`](../../serviceadd).
+Инициализирует новый экземпляр[`ServiceAdd`](../../serviceadd) класс.
 
 ```csharp
 public ServiceAdd()

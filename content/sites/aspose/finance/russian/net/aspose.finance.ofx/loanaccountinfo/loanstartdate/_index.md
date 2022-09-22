@@ -1,14 +1,14 @@
 ---
 title: LoanStartDate
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает начальную дату кредита.
+description: Получает или задает дату начала кредита.
 type: docs
 weight: 130
 url: /ru/net/aspose.finance.ofx/loanaccountinfo/loanstartdate/
 ---
 ## LoanAccountInfo.LoanStartDate property
 
-Получает или задает начальную дату кредита.
+Получает или задает дату начала кредита.
 
 ```csharp
 public string LoanStartDate { get; set; }

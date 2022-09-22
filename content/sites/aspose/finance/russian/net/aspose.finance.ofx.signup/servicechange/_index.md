@@ -18,14 +18,14 @@ public class ServiceChange : AbstractServiceAction
 
 | Имя | Описание |
 | --- | --- |
-| [ServiceChange](servicechange)() | Инициализирует новый экземпляр класса[`ServiceChange`](../servicechange). |
+| [ServiceChange](servicechange)() | Инициализирует новый экземпляр[`ServiceChange`](../servicechange) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [AccountFrom](../../aspose.finance.ofx.signup/servicechange/accountfrom) { get; set; } | Получает или задает из[`BankAccount`](../../aspose.finance.ofx/bankaccount)или[`CreditCardAccount`](../../aspose.finance.ofx/creditcardaccount)или[`InvestmentAccount`](../../aspose.finance.ofx/investmentaccount)или[`PresentmentAccount`](../../aspose.finance.ofx/presentmentaccount). |
-| [AccountTo](../../aspose.finance.ofx.signup/servicechange/accountto) { get; set; } | Получает или задает значение[`BankAccount`](../../aspose.finance.ofx/bankaccount)или[`CreditCardAccount`](../../aspose.finance.ofx/creditcardaccount)или[`InvestmentAccount`](../../aspose.finance.ofx/investmentaccount)или[`PresentmentAccount`](../../aspose.finance.ofx/presentmentaccount). |
+| [AccountFrom](../../aspose.finance.ofx.signup/servicechange/accountfrom) { get; set; } | Получает или задает из[`BankAccount`](../../aspose.finance.ofx/bankaccount) или же[`CreditCardAccount`](../../aspose.finance.ofx/creditcardaccount) или же[`InvestmentAccount`](../../aspose.finance.ofx/investmentaccount) или же[`PresentmentAccount`](../../aspose.finance.ofx/presentmentaccount) . |
+| [AccountTo](../../aspose.finance.ofx.signup/servicechange/accountto) { get; set; } | Получает или задает значение[`BankAccount`](../../aspose.finance.ofx/bankaccount) или же[`CreditCardAccount`](../../aspose.finance.ofx/creditcardaccount) или же[`InvestmentAccount`](../../aspose.finance.ofx/investmentaccount) или же[`PresentmentAccount`](../../aspose.finance.ofx/presentmentaccount) . |
 
 ### Смотрите также
 

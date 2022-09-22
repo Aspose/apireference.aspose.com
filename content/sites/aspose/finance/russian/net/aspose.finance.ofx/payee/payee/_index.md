@@ -1,14 +1,14 @@
 ---
 title: Payee
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаPayeeaspose.finance.ofx/payee.
+description: Инициализирует новый экземплярPayeeaspose.finance.ofx/payee класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx/payee/payee/
 ---
 ## Payee constructor
 
-Инициализирует новый экземпляр класса[`Payee`](../../payee).
+Инициализирует новый экземпляр[`Payee`](../../payee) класс.
 
 ```csharp
 public Payee()

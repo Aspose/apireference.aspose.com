@@ -1,14 +1,14 @@
 ---
 title: Footnotes
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает коллекциюInlineFootnoteaspose.finance.xbrl.inline/inlinefootnoteво встроенном документе XBRL.
+description: Получает коллекциюInlineFootnoteaspose.finance.xbrl.inline/inlinefootnote во встроенном документе XBRL.
 type: docs
 weight: 60
 url: /ru/net/aspose.finance.xbrl.inline/inlinexbrldocument/footnotes/
 ---
 ## InlineXbrlDocument.Footnotes property
 
-Получает коллекцию[`InlineFootnote`](../../inlinefootnote)во встроенном документе XBRL.
+Получает коллекцию[`InlineFootnote`](../../inlinefootnote) во встроенном документе XBRL.
 
 ```csharp
 public List<InlineFootnote> Footnotes { get; }

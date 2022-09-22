@@ -1,14 +1,14 @@
 ---
 title: LocalTaxWithheld
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置本地预扣税
+description: 获取或设置地方预扣税
 type: docs
 weight: 40
 url: /zh/net/aspose.finance.ofx.taxw2/localinfo/localtaxwithheld/
 ---
 ## LocalInfo.LocalTaxWithheld property
 
-获取或设置本地预扣税。
+获取或设置地方预扣税。
 
 ```csharp
 public string LocalTaxWithheld { get; set; }

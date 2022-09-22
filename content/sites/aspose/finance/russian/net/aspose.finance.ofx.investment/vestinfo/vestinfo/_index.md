@@ -1,14 +1,14 @@
 ---
 title: VestInfo
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаVestInfoaspose.finance.ofx.investment/vestinfo.
+description: Инициализирует новый экземплярVestInfoaspose.finance.ofx.investment/vestinfo класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.investment/vestinfo/vestinfo/
 ---
 ## VestInfo constructor
 
-Инициализирует новый экземпляр класса[`VestInfo`](../../vestinfo).
+Инициализирует новый экземпляр[`VestInfo`](../../vestinfo) класс.
 
 ```csharp
 public VestInfo()

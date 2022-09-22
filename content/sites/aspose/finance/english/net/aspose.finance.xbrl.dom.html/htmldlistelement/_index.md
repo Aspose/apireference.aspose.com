@@ -3,7 +3,7 @@ title: HTMLDListElement
 second_title: Aspose.Finance for .NET API Reference
 description: The class represents definition list. See the DL element definition in HTML 4.01.
 type: docs
-weight: 6790
+weight: 6820
 url: /net/aspose.finance.xbrl.dom.html/htmldlistelement/
 ---
 ## HTMLDListElement class

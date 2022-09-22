@@ -1,14 +1,14 @@
 ---
 title: LoanTransactionAmount
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置LoanTransactionAmountaspose.finance.ofx/transferinfo/loantransactionamount
+description: 获取或设置LoanTransactionAmountaspose.finance.ofx/transferinfo/loantransactionamount.
 type: docs
 weight: 50
 url: /zh/net/aspose.finance.ofx/transferinfo/loantransactionamount/
 ---
 ## TransferInfo.LoanTransactionAmount property
 
-获取或设置`LoanTransactionAmount`。
+获取或设置`LoanTransactionAmount`.
 
 ```csharp
 public LoanTransactionAmount LoanTransactionAmount { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: IncludeTransactionImage
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает включают ли данные для изображений транзакций
+description: Получает или задает следует ли включать данные для изображений транзакций
 type: docs
 weight: 20
 url: /ru/net/aspose.finance.ofx.loan/loanstatementrequest/includetransactionimage/
 ---
 ## LoanStatementRequest.IncludeTransactionImage property
 
-Получает или задает, включают ли данные для изображений транзакций
+Получает или задает, следует ли включать данные для изображений транзакций
 
 ```csharp
 public bool IncludeTransactionImage { get; set; }

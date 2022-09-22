@@ -1,14 +1,14 @@
 ---
 title: InvestmentStatementResponse
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задаетInvestmentStatementResponseaspose.finance.ofx.investment/investmentstatementtransactionresponse/investmentstatementresponse.
+description: Получает или задаетInvestmentStatementResponseaspose.finance.ofx.investment/investmentstatementtransactionresponse/investmentstatementresponse .
 type: docs
 weight: 20
 url: /ru/net/aspose.finance.ofx.investment/investmentstatementtransactionresponse/investmentstatementresponse/
 ---
 ## InvestmentStatementTransactionResponse.InvestmentStatementResponse property
 
-Получает или задает`InvestmentStatementResponse`.
+Получает или задает`InvestmentStatementResponse` .
 
 ```csharp
 public InvestmentStatementResponse InvestmentStatementResponse { get; set; }

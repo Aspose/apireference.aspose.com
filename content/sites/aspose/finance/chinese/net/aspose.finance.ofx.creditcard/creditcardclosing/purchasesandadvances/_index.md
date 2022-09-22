@@ -1,14 +1,14 @@
 ---
 title: PurchasesAndAdvances
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置采购总额和预借现金
+description: 获取或设置采购总额和现金垫款总额
 type: docs
 weight: 290
 url: /zh/net/aspose.finance.ofx.creditcard/creditcardclosing/purchasesandadvances/
 ---
 ## CreditCardClosing.PurchasesAndAdvances property
 
-获取或设置采购总额和预借现金。
+获取或设置采购总额和现金垫款总额。
 
 ```csharp
 public string PurchasesAndAdvances { get; set; }

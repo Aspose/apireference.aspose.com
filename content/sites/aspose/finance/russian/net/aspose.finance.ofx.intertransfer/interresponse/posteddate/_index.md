@@ -1,14 +1,14 @@
 ---
 title: PostedDate
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает фактическую дату передачи.
+description: Получает или задает фактическую дату переноса.
 type: docs
 weight: 30
 url: /ru/net/aspose.finance.ofx.intertransfer/interresponse/posteddate/
 ---
 ## InterResponse.PostedDate property
 
-Получает или задает фактическую дату передачи.
+Получает или задает фактическую дату переноса.
 
 ```csharp
 public string PostedDate { get; set; }

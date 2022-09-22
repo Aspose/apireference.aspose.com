@@ -1,14 +1,14 @@
 ---
 title: Logo
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置帐单标识的 URL
+description: 获取或设置帐单标识的URL
 type: docs
 weight: 130
 url: /zh/net/aspose.finance.ofx.billerdirectory/billerinfo/logo/
 ---
 ## BillerInfo.Logo property
 
-获取或设置帐单标识的 URL。
+获取或设置帐单标识的URL。
 
 ```csharp
 public string Logo { get; set; }

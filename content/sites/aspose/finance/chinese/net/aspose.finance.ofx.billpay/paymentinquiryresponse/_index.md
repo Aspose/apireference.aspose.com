@@ -8,7 +8,7 @@ url: /zh/net/aspose.finance.ofx.billpay/paymentinquiryresponse/
 ---
 ## PaymentInquiryResponse class
 
-支付状态查询响应类。
+支付状态查询响应类
 
 ```csharp
 public class PaymentInquiryResponse
@@ -18,14 +18,14 @@ public class PaymentInquiryResponse
 
 | 姓名 | 描述 |
 | --- | --- |
-| [PaymentInquiryResponse](paymentinquiryresponse)() | 初始化[`PaymentInquiryResponse`](../paymentinquiryresponse)类的新实例。 |
+| [PaymentInquiryResponse](paymentinquiryresponse)() | 初始化一个新的实例[`PaymentInquiryResponse`](../paymentinquiryresponse)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
 | [CheckNumber](../../aspose.finance.ofx.billpay/paymentinquiryresponse/checknumber) { get; set; } | 获取或设置服务器分配给本次付款的支票号码。 |
-| [PaymentProcessingStatus](../../aspose.finance.ofx.billpay/paymentinquiryresponse/paymentprocessingstatus) { get; set; } | 获取或设置[`PaymentProcessingStatus`](./paymentprocessingstatus)。 |
+| [PaymentProcessingStatus](../../aspose.finance.ofx.billpay/paymentinquiryresponse/paymentprocessingstatus) { get; set; } | 获取或设置[`PaymentProcessingStatus`](./paymentprocessingstatus). |
 | [ServerId](../../aspose.finance.ofx.billpay/paymentinquiryresponse/serverid) { get; set; } | 获取或设置服务器分配给被查询支付的ID。 |
 
 ### 也可以看看

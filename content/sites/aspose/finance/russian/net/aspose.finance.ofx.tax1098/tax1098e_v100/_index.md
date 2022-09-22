@@ -1,14 +1,14 @@
 ---
 title: Tax1098E_V100
 second_title: Справочник по API Aspose.Finance для .NET
-description: Tax 1098E V100 form class Заявление о процентах по студенческому кредиту.
+description: Налоговая форма 1098E V100 отчет о процентах по студенческому кредиту.
 type: docs
 weight: 5770
 url: /ru/net/aspose.finance.ofx.tax1098/tax1098e_v100/
 ---
 ## Tax1098E_V100 class
 
-Tax 1098E V100 form class, Заявление о процентах по студенческому кредиту.
+Налоговая форма 1098E V100, отчет о процентах по студенческому кредиту.
 
 ```csharp
 public class Tax1098E_V100 : AbstractTax1098
@@ -18,20 +18,20 @@ public class Tax1098E_V100 : AbstractTax1098
 
 | Имя | Описание |
 | --- | --- |
-| [Tax1098E_V100](tax1098e_v100)() | Инициализирует новый экземпляр класса[`Tax1098E_V100`](../tax1098e_v100). |
+| [Tax1098E_V100](tax1098e_v100)() | Инициализирует новый экземпляр[`Tax1098E_V100`](../tax1098e_v100) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [AccountNumber](../../aspose.finance.ofx.tax1098/tax1098e_v100/accountnumber) { get; set; } | Получает или задает номер учетной записи. |
-| [BorrowerAddress](../../aspose.finance.ofx.tax1098/tax1098e_v100/borroweraddress) { get; set; } | Получает или задает[`BorrowerAddress`](./borroweraddress). |
+| [AccountNumber](../../aspose.finance.ofx.tax1098/tax1098e_v100/accountnumber) { get; set; } | Получает или задает номер счета. |
+| [BorrowerAddress](../../aspose.finance.ofx.tax1098/tax1098e_v100/borroweraddress) { get; set; } | Получает или задает[`BorrowerAddress`](./borroweraddress) . |
 | [BorrowerId](../../aspose.finance.ofx.tax1098/tax1098e_v100/borrowerid) { get; set; } | Получает или задает номер социального страхования заемщика. |
-| [LenderAddress](../../aspose.finance.ofx.tax1098/tax1098e_v100/lenderaddress) { get; set; } | Получает или задает[`LenderAddress`](./lenderaddress). |
+| [LenderAddress](../../aspose.finance.ofx.tax1098/tax1098e_v100/lenderaddress) { get; set; } | Получает или задает[`LenderAddress`](./lenderaddress) . |
 | [LenderId](../../aspose.finance.ofx.tax1098/tax1098e_v100/lenderid) { get; set; } | Получает или задает федеральный идентификационный номер кредитора. |
 | [LoanPriorSeptember2004AndNoLOF](../../aspose.finance.ofx.tax1098/tax1098e_v100/loanpriorseptember2004andnolof) { get; set; } | Получает или задает, указывает ли Ссуда, сделанная до 1 сентября 2004 г., и отсутствие LOF в поле 1. |
-| [ServerId](../../aspose.finance.ofx.tax1098/tax1098e_v100/serverid) { get; set; } | Получает или задает идентификатор, назначенный хост-сервером форме. |
-| [StudentLoanInterest](../../aspose.finance.ofx.tax1098/tax1098e_v100/studentloaninterest) { get; set; } | Получает или задает проценты по студенческому кредиту, получаемые кредитором. |
+| [ServerId](../../aspose.finance.ofx.tax1098/tax1098e_v100/serverid) { get; set; } | Получает или задает идентификатор, присвоенный хост-сервером форме. |
+| [StudentLoanInterest](../../aspose.finance.ofx.tax1098/tax1098e_v100/studentloaninterest) { get; set; } | Получает или задает проценты по студенческому кредиту, полученные кредитором. |
 | [TaxYear](../../aspose.finance.ofx.tax1098/tax1098e_v100/taxyear) { get; set; } | Получает или задает налоговый год этой формы в формате «ГГГГ». |
 
 ### Смотрите также

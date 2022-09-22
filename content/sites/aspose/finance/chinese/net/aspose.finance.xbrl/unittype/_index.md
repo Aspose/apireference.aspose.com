@@ -1,14 +1,14 @@
 ---
 title: UnitType
 second_title: Aspose.Finance for .NET API 参考
-description: 单位类型枚举
+description: 单元类型枚举
 type: docs
 weight: 8070
 url: /zh/net/aspose.finance.xbrl/unittype/
 ---
 ## UnitType enumeration
 
-单位类型枚举。
+单元类型枚举。
 
 ```csharp
 public enum UnitType
@@ -19,7 +19,7 @@ public enum UnitType
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
 | Measure | `0` | 测量类型。 |
-| Divide | `1` | 分型。 |
+| Divide | `1` | 除法类型. |
 
 ### 也可以看看
 

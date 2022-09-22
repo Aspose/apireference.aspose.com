@@ -18,15 +18,15 @@ public class InvestmentStatementEndRequest
 
 | 姓名 | 描述 |
 | --- | --- |
-| [InvestmentStatementEndRequest](investmentstatementendrequest)() | 初始化[`InvestmentStatementEndRequest`](../investmentstatementendrequest)类的新实例。 |
+| [InvestmentStatementEndRequest](investmentstatementendrequest)() | 初始化一个新的实例[`InvestmentStatementEndRequest`](../investmentstatementendrequest)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
 | [EndDate](../../aspose.finance.ofx.investment/investmentstatementendrequest/enddate) { get; set; } | 获取或设置结帐信息的结束日期。 |
-| [IncludeStatementImage](../../aspose.finance.ofx.investment/investmentstatementendrequest/includestatementimage) { get; set; } | 获取或设置是否包含结束语句图像的数据。 |
-| [InvestmentAccountFrom](../../aspose.finance.ofx.investment/investmentstatementendrequest/investmentaccountfrom) { get; set; } | 获取或设置[`InvestmentAccount`](../../aspose.finance.ofx/investmentaccount)的来源。 |
+| [IncludeStatementImage](../../aspose.finance.ofx.investment/investmentstatementendrequest/includestatementimage) { get; set; } | 获取或设置是否包含关闭语句图像的数据。 |
+| [InvestmentAccountFrom](../../aspose.finance.ofx.investment/investmentstatementendrequest/investmentaccountfrom) { get; set; } | 获取或设置 from[`InvestmentAccount`](../../aspose.finance.ofx/investmentaccount). |
 | [StartDate](../../aspose.finance.ofx.investment/investmentstatementendrequest/startdate) { get; set; } | 获取或设置结帐信息的开始日期。 |
 
 ### 也可以看看

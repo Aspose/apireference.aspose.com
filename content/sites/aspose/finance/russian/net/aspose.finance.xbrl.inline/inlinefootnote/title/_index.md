@@ -1,14 +1,14 @@
 ---
 title: Title
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает заголовокInlineFootnoteaspose.finance.xbrl.inline/inlinefootnote.
+description: Получает или задает заголовокInlineFootnoteaspose.finance.xbrl.inline/inlinefootnote .
 type: docs
 weight: 70
 url: /ru/net/aspose.finance.xbrl.inline/inlinefootnote/title/
 ---
 ## InlineFootnote.Title property
 
-Получает или задает заголовок[`InlineFootnote`](../../inlinefootnote).
+Получает или задает заголовок[`InlineFootnote`](../../inlinefootnote) .
 
 ```csharp
 public string Title { get; set; }

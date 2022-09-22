@@ -18,13 +18,13 @@ public class PresentmentDirResponseMessageSetV1 : AbstractResponseMessageSet
 
 | Имя | Описание |
 | --- | --- |
-| [PresentmentDirResponseMessageSetV1](presentmentdirresponsemessagesetv1)() | Инициализирует новый экземпляр класса[`PresentmentDirResponseMessageSetV1`](../presentmentdirresponsemessagesetv1). |
+| [PresentmentDirResponseMessageSetV1](presentmentdirresponsemessagesetv1)() | Инициализирует новый экземпляр[`PresentmentDirResponseMessageSetV1`](../presentmentdirresponsemessagesetv1) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [FindBillerTransactionResponses](../../aspose.finance.ofx/presentmentdirresponsemessagesetv1/findbillertransactionresponses) { get; set; } | Получает или задает коллекцию[`FindBillerTransactionResponse`](../../aspose.finance.ofx.billerdirectory/findbillertransactionresponse). |
+| [FindBillerTransactionResponses](../../aspose.finance.ofx/presentmentdirresponsemessagesetv1/findbillertransactionresponses) { get; set; } | Получает или задает коллекцию[`FindBillerTransactionResponse`](../../aspose.finance.ofx.billerdirectory/findbillertransactionresponse) . |
 
 ### Смотрите также
 

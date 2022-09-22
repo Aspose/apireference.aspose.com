@@ -1,14 +1,14 @@
 ---
 title: PaymentByAddress
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает поддерживает ли платежи получателям идентифицированным платежным адресом то естьPayeeaspose.finance.ofx/payee.
+description: Получает или задает поддерживает ли платежи получателям идентифицированным платежным адресом т. е.Payeeaspose.finance.ofx/payee .
 type: docs
 weight: 120
 url: /ru/net/aspose.finance.ofx.profile/billpaymessagesetv1/paymentbyaddress/
 ---
 ## BillPayMessageSetV1.PaymentByAddress property
 
-Получает или задает, поддерживает ли платежи получателям, идентифицированным платежным адресом, то есть[`Payee`](../../../aspose.finance.ofx/payee).
+Получает или задает, поддерживает ли платежи получателям, идентифицированным платежным адресом, т. е.[`Payee`](../../../aspose.finance.ofx/payee) .
 
 ```csharp
 public bool PaymentByAddress { get; set; }

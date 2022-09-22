@@ -1,14 +1,14 @@
 ---
 title: SchemaConcept
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает концепциюInlineFractionaspose.finance.xbrl.inline/inlinefraction.
+description: Получает концепциюInlineFractionaspose.finance.xbrl.inline/inlinefraction .
 type: docs
 weight: 30
 url: /ru/net/aspose.finance.xbrl.inline/inlinefraction/schemaconcept/
 ---
 ## InlineFraction.SchemaConcept property
 
-Получает концепцию[`InlineFraction`](../../inlinefraction).
+Получает концепцию[`InlineFraction`](../../inlinefraction) .
 
 ```csharp
 public Concept SchemaConcept { get; }

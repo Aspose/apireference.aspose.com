@@ -1,14 +1,14 @@
 ---
 title: SocialSecurityTaxWithheld
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает удержанный социальный налог.
+description: Получает или задает удержанный налог на социальное обеспечение.
 type: docs
 weight: 150
 url: /ru/net/aspose.finance.ofx.taxw2/taxw2_v200/socialsecuritytaxwithheld/
 ---
 ## TaxW2_V200.SocialSecurityTaxWithheld property
 
-Получает или задает удержанный социальный налог.
+Получает или задает удержанный налог на социальное обеспечение.
 
 ```csharp
 public string SocialSecurityTaxWithheld { get; set; }

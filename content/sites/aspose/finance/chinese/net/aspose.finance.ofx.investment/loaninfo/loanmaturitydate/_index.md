@@ -1,14 +1,14 @@
 ---
 title: LoanMaturityDate
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置预期的外借结束日期
+description: 获取或设置预期的贷款结束日期
 type: docs
 weight: 80
 url: /zh/net/aspose.finance.ofx.investment/loaninfo/loanmaturitydate/
 ---
 ## LoanInfo.LoanMaturityDate property
 
-获取或设置预期的外借结束日期。
+获取或设置预期的贷款结束日期。
 
 ```csharp
 public string LoanMaturityDate { get; set; }

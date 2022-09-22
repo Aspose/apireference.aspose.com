@@ -1,14 +1,14 @@
 ---
 title: Name
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает название программы вознаграждений.
+description: Получает или задает имя программы вознаграждения.
 type: docs
 weight: 20
 url: /ru/net/aspose.finance.ofx/rewardinfotype/name/
 ---
 ## RewardInfoType.Name property
 
-Получает или задает название программы вознаграждений.
+Получает или задает имя программы вознаграждения.
 
 ```csharp
 public string Name { get; set; }

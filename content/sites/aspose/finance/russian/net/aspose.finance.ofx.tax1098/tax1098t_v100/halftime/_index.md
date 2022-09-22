@@ -1,14 +1,14 @@
 ---
 title: HalfTime
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает является ли студент хотя бы неполный рабочий день.
+description: Получает или задает является ли студент хотя бы на полставки.
 type: docs
 weight: 100
 url: /ru/net/aspose.finance.ofx.tax1098/tax1098t_v100/halftime/
 ---
 ## Tax1098T_V100.HalfTime property
 
-Получает или задает, является ли студент хотя бы неполный рабочий день.
+Получает или задает, является ли студент хотя бы на полставки.
 
 ```csharp
 public bool HalfTime { get; set; }

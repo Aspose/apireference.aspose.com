@@ -1,14 +1,14 @@
 ---
 title: ArcroleReferences
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает коллекцию объектовArcroleReferenceaspose.finance.xbrl/arcrolereferenceв экземпляре XBRL.
+description: Получает или задает коллекциюArcroleReferenceaspose.finance.xbrl/arcrolereference объекты в экземпляре XBRL.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.xbrl/xbrlinstance/arcrolereferences/
 ---
 ## XbrlInstance.ArcroleReferences property
 
-Получает или задает коллекцию объектов[`ArcroleReference`](../../arcrolereference)в экземпляре XBRL.
+Получает или задает коллекцию[`ArcroleReference`](../../arcrolereference) объекты в экземпляре XBRL.
 
 ```csharp
 public List<ArcroleReference> ArcroleReferences { get; set; }

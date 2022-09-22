@@ -1,14 +1,14 @@
 ---
 title: ExtendedBInfo_V100
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задаетExtendedBInfo_V100aspose.finance.ofx.tax1099/tax1099b_v100/extendedbinfo_v100.
+description: Получает или задаетExtendedBInfo_V100aspose.finance.ofx.tax1099/tax1099b_v100/extendedbinfo_v100 .
 type: docs
 weight: 60
 url: /ru/net/aspose.finance.ofx.tax1099/tax1099b_v100/extendedbinfo_v100/
 ---
 ## Tax1099B_V100.ExtendedBInfo_V100 property
 
-Получает или задает`ExtendedBInfo_V100`.
+Получает или задает`ExtendedBInfo_V100` .
 
 ```csharp
 public ExtendedBInfo_V100 ExtendedBInfo_V100 { get; set; }

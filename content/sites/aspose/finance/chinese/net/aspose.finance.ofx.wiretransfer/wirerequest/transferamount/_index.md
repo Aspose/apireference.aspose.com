@@ -8,7 +8,7 @@ url: /zh/net/aspose.finance.ofx.wiretransfer/wirerequest/transferamount/
 ---
 ## WireRequest.TransferAmount property
 
-获取或设置转账金额。
+获取或设置转账金额
 
 ```csharp
 public string TransferAmount { get; set; }

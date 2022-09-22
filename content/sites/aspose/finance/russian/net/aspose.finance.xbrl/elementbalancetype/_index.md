@@ -1,14 +1,14 @@
 ---
 title: ElementBalanceType
 second_title: Справочник по API Aspose.Finance для .NET
-description: Concept./conceptтип баланса enum.
+description: Concept./concept тип баланса enum.
 type: docs
 weight: 7590
 url: /ru/net/aspose.finance.xbrl/elementbalancetype/
 ---
 ## ElementBalanceType enumeration
 
-[`Concept`](../concept)тип баланса enum.
+[`Concept`](../concept) тип баланса enum.
 
 ```csharp
 public enum ElementBalanceType
@@ -20,7 +20,7 @@ public enum ElementBalanceType
 | --- | --- | --- |
 | Unknown | `0` | Неизвестный тип баланса. |
 | Debit | `1` | Тип дебетового сальдо. |
-| Credit | `2` | A Тип кредитового баланса. |
+| Credit | `2` | Тип кредитового баланса. |
 
 ### Смотрите также
 

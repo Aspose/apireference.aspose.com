@@ -1,14 +1,14 @@
 ---
 title: MFAChallengeRequest
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задаетMFAChallengeRequestaspose.finance.ofx.signon/mfachallengetransactionrequest/mfachallengerequest.
+description: Получает или задаетMFAChallengeRequestaspose.finance.ofx.signon/mfachallengetransactionrequest/mfachallengerequest .
 type: docs
 weight: 20
 url: /ru/net/aspose.finance.ofx.signon/mfachallengetransactionrequest/mfachallengerequest/
 ---
 ## MFAChallengeTransactionRequest.MFAChallengeRequest property
 
-Получает или задает`MFAChallengeRequest`.
+Получает или задает`MFAChallengeRequest` .
 
 ```csharp
 public MFAChallengeRequest MFAChallengeRequest { get; set; }

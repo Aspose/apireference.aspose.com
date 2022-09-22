@@ -1,14 +1,14 @@
 ---
 title: SecurityListRequest
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置SecurityListRequestaspose.finance.ofx.securitieslist/securitylisttransactionrequest/securitylistrequest
+description: 获取或设置SecurityListRequestaspose.finance.ofx.securitieslist/securitylisttransactionrequest/securitylistrequest.
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.ofx.securitieslist/securitylisttransactionrequest/securitylistrequest/
 ---
 ## SecurityListTransactionRequest.SecurityListRequest property
 
-获取或设置`SecurityListRequest`。
+获取或设置`SecurityListRequest`.
 
 ```csharp
 public SecurityListRequest SecurityListRequest { get; set; }

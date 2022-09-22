@@ -1,14 +1,14 @@
 ---
 title: PresentmentGroupAccountInfoTransactionRequest
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаPresentmentGroupAccountInfoTransactionRequestaspose.finance.ofx.billerdelivery/presentmentgroupaccountinfotransactionrequest.
+description: Инициализирует новый экземплярPresentmentGroupAccountInfoTransactionRequestaspose.finance.ofx.billerdelivery/presentmentgroupaccountinfotransactionrequest класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.billerdelivery/presentmentgroupaccountinfotransactionrequest/presentmentgroupaccountinfotransactionrequest/
 ---
 ## PresentmentGroupAccountInfoTransactionRequest constructor
 
-Инициализирует новый экземпляр класса[`PresentmentGroupAccountInfoTransactionRequest`](../../presentmentgroupaccountinfotransactionrequest).
+Инициализирует новый экземпляр[`PresentmentGroupAccountInfoTransactionRequest`](../../presentmentgroupaccountinfotransactionrequest) класс.
 
 ```csharp
 public PresentmentGroupAccountInfoTransactionRequest()

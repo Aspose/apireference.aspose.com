@@ -1,14 +1,14 @@
 ---
 title: PaymentInquiryRequest
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаPaymentInquiryRequestaspose.finance.ofx.billpay/paymentinquiryrequest.
+description: Инициализирует новый экземплярPaymentInquiryRequestaspose.finance.ofx.billpay/paymentinquiryrequest класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.billpay/paymentinquiryrequest/paymentinquiryrequest/
 ---
 ## PaymentInquiryRequest constructor
 
-Инициализирует новый экземпляр класса[`PaymentInquiryRequest`](../../paymentinquiryrequest).
+Инициализирует новый экземпляр[`PaymentInquiryRequest`](../../paymentinquiryrequest) класс.
 
 ```csharp
 public PaymentInquiryRequest()

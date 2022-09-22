@@ -19,8 +19,8 @@ public class ContextValidationError : ValidationError
 | 姓名 | 描述 |
 | --- | --- |
 | [Code](../../aspose.finance.xbrl.validator/validationerror/code) { get; } | 获取验证错误代码。 |
-| [Message](../../aspose.finance.xbrl.validator/validationerror/message) { get; } | 获取错误消息。 |
-| [Object](../../aspose.finance.xbrl.validator/contextvalidationerror/object) { get; } | 获取有验证错误的[`Context`](../../aspose.finance.xbrl/context)对象。 |
+| [Message](../../aspose.finance.xbrl.validator/validationerror/message) { get; } | 获取错误信息。 |
+| [Object](../../aspose.finance.xbrl.validator/contextvalidationerror/object) { get; } | 获取[`Context`](../../aspose.finance.xbrl/context)有验证错误的对象。 |
 
 ### 也可以看看
 

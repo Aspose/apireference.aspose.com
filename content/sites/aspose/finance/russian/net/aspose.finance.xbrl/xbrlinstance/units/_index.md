@@ -1,14 +1,14 @@
 ---
 title: Units
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает коллекцию объектовUnitaspose.finance.xbrl/unitв отчете XBRL.
+description: Получает или задает коллекциюUnitaspose.finance.xbrl/unit объекты в экземпляре XBRL.
 type: docs
 weight: 100
 url: /ru/net/aspose.finance.xbrl/xbrlinstance/units/
 ---
 ## XbrlInstance.Units property
 
-Получает или задает коллекцию объектов[`Unit`](../../unit)в отчете XBRL.
+Получает или задает коллекцию[`Unit`](../../unit) объекты в экземпляре XBRL.
 
 ```csharp
 public List<Unit> Units { get; set; }

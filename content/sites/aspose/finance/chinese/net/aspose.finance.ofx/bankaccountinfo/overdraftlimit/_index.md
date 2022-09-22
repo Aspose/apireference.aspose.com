@@ -1,14 +1,14 @@
 ---
 title: OverdraftLimit
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置帐户上当前有效的透支限额
+description: 获取或设置帐户上的当前透支限额
 type: docs
 weight: 80
 url: /zh/net/aspose.finance.ofx/bankaccountinfo/overdraftlimit/
 ---
 ## BankAccountInfo.OverdraftLimit property
 
-获取或设置帐户上当前有效的透支限额
+获取或设置帐户上的当前透支限额
 
 ```csharp
 public string OverdraftLimit { get; set; }

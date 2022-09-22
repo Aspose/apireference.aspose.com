@@ -1,14 +1,14 @@
 ---
 title: BillStatusModTransactionRequest
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаBillStatusModTransactionRequestaspose.finance.ofx.billerdelivery/billstatusmodtransactionrequest.
+description: Инициализирует новый экземплярBillStatusModTransactionRequestaspose.finance.ofx.billerdelivery/billstatusmodtransactionrequest класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.billerdelivery/billstatusmodtransactionrequest/billstatusmodtransactionrequest/
 ---
 ## BillStatusModTransactionRequest constructor
 
-Инициализирует новый экземпляр класса[`BillStatusModTransactionRequest`](../../billstatusmodtransactionrequest).
+Инициализирует новый экземпляр[`BillStatusModTransactionRequest`](../../billstatusmodtransactionrequest) класс.
 
 ```csharp
 public BillStatusModTransactionRequest()

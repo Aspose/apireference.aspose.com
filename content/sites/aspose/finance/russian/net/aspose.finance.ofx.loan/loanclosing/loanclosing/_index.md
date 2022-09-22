@@ -1,14 +1,14 @@
 ---
 title: LoanClosing
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаLoanClosingaspose.finance.ofx.loan/loanclosing.
+description: Инициализирует новый экземплярLoanClosingaspose.finance.ofx.loan/loanclosing класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.loan/loanclosing/loanclosing/
 ---
 ## LoanClosing constructor
 
-Инициализирует новый экземпляр класса[`LoanClosing`](../../loanclosing).
+Инициализирует новый экземпляр[`LoanClosing`](../../loanclosing) класс.
 
 ```csharp
 public LoanClosing()

@@ -1,14 +1,14 @@
 ---
 title: MFAChallengeResponse
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置MFAChallengeResponseaspose.finance.ofx.signon/mfachallengetransactionresponse/mfachallengeresponse
+description: 获取或设置MFAChallengeResponseaspose.finance.ofx.signon/mfachallengetransactionresponse/mfachallengeresponse.
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.ofx.signon/mfachallengetransactionresponse/mfachallengeresponse/
 ---
 ## MFAChallengeTransactionResponse.MFAChallengeResponse property
 
-获取或设置`MFAChallengeResponse`。
+获取或设置`MFAChallengeResponse`.
 
 ```csharp
 public MFAChallengeResponse MFAChallengeResponse { get; set; }

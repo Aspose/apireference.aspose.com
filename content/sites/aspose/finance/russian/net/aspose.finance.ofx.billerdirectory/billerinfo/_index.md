@@ -18,7 +18,7 @@ public class BillerInfo
 
 | Имя | Описание |
 | --- | --- |
-| [BillerInfo](billerinfo)() | Инициализирует новый экземпляр класса[`BillerInfo`](../billerinfo). |
+| [BillerInfo](billerinfo)() | Инициализирует новый экземпляр[`BillerInfo`](../billerinfo) класс. |
 
 ## Характеристики
 
@@ -31,17 +31,17 @@ public class BillerInfo
 | [Address3](../../aspose.finance.ofx.billerdirectory/billerinfo/address3) { get; set; } | Получает или задает строку адреса биллера 3. |
 | [BillerId](../../aspose.finance.ofx.billerdirectory/billerinfo/billerid) { get; set; } | Получает или задает идентификатор этого биллера в этом издателе счетов. |
 | [BillerInfoUrl](../../aspose.finance.ofx.billerdirectory/billerinfo/billerinfourl) { get; set; } | Получает или задает URL-адрес удобочитаемого описания дополнительной информации, которую биллер хотел бы предоставить клиенту в отношении регистрации. |
-| [BillPublisher](../../aspose.finance.ofx.billerdirectory/billerinfo/billpublisher) { get; set; } | Получает или задает официальное стандартное имя издателя счета. |
+| [BillPublisher](../../aspose.finance.ofx.billerdirectory/billerinfo/billpublisher) { get; set; } | Получает или задает официальное стандартное имя издателя счетов. |
 | [City](../../aspose.finance.ofx.billerdirectory/billerinfo/city) { get; set; } | Получает или задает город биллера. |
-| [Country](../../aspose.finance.ofx.billerdirectory/billerinfo/country) { get; set; } | Получает или задает страну выставляющего счета. Трехбуквенный код страны из ISO/DIS-3166. |
-| [HelpMessage](../../aspose.finance.ofx.billerdirectory/billerinfo/helpmessage) { get; set; } | Получает или задает удобочитаемое сообщение, которое клиент может отобразить, чтобы помочь ему ввести номер своего счета. |
-| [Logo](../../aspose.finance.ofx.billerdirectory/billerinfo/logo) { get; set; } | Получает или задает URL-адрес логотипа выставляющего счета. |
+| [Country](../../aspose.finance.ofx.billerdirectory/billerinfo/country) { get; set; } | Получает или задает страну биллера. Трехбуквенный код страны из ISO/DIS-3166. |
+| [HelpMessage](../../aspose.finance.ofx.billerdirectory/billerinfo/helpmessage) { get; set; } | Получает или задает удобочитаемое сообщение, которое клиент может отображать, чтобы помочь клиенту ввести номер своего счета. |
+| [Logo](../../aspose.finance.ofx.billerdirectory/billerinfo/logo) { get; set; } | Получает или задает URL-адрес логотипа биллера. |
 | [Name](../../aspose.finance.ofx.billerdirectory/billerinfo/name) { get; set; } | Получает или задает имя биллера. |
-| [PaymentInstruments](../../aspose.finance.ofx.billerdirectory/billerinfo/paymentinstruments) { get; set; } | Получает или задает коллекцию[`PaymentInstrument`](../paymentinstrument). |
-| [Phone](../../aspose.finance.ofx.billerdirectory/billerinfo/phone) { get; set; } | Получает или задает номер телефона выставляющего счета для информации о клиенте (если существует специальный номер для электронной платежной информации, используйте этот номер). |
-| [PostalCode](../../aspose.finance.ofx.billerdirectory/billerinfo/postalcode) { get; set; } | Получает или задает почтовый индекс выставляющего счета. |
+| [PaymentInstruments](../../aspose.finance.ofx.billerdirectory/billerinfo/paymentinstruments) { get; set; } | Получает или задает коллекцию[`PaymentInstrument`](../paymentinstrument) . |
+| [Phone](../../aspose.finance.ofx.billerdirectory/billerinfo/phone) { get; set; } | Получает или задает номер телефона биллера для информации о клиенте (если существует специальный номер для электронной платежной информации, используйте этот номер). |
+| [PostalCode](../../aspose.finance.ofx.billerdirectory/billerinfo/postalcode) { get; set; } | Получает или задает почтовый индекс биллера. |
 | [Restrict](../../aspose.finance.ofx.billerdirectory/billerinfo/restrict) { get; set; } | Получает или задает удобочитаемое описание любых ограничений на то, кто может регистрироваться в этом биллере. |
-| [StandardIndustrialClassification](../../aspose.finance.ofx.billerdirectory/billerinfo/standardindustrialclassification) { get; set; } | Получает или задает код стандартной отраслевой классификации выставляющего счета. |
+| [StandardIndustrialClassification](../../aspose.finance.ofx.billerdirectory/billerinfo/standardindustrialclassification) { get; set; } | Получает или задает код стандартной отраслевой классификации биллера. |
 | [State](../../aspose.finance.ofx.billerdirectory/billerinfo/state) { get; set; } | Получает или задает состояние биллера. |
 | [Validate](../../aspose.finance.ofx.billerdirectory/billerinfo/validate) { get; set; } | Получает или задает URL-адрес для проверки. |
 

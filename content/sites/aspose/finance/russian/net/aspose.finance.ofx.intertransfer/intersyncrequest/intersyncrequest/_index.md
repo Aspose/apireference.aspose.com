@@ -1,14 +1,14 @@
 ---
 title: InterSyncRequest
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаInterSyncRequestaspose.finance.ofx.intertransfer/intersyncrequest.
+description: Инициализирует новый экземплярInterSyncRequestaspose.finance.ofx.intertransfer/intersyncrequest класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.intertransfer/intersyncrequest/intersyncrequest/
 ---
 ## InterSyncRequest constructor
 
-Инициализирует новый экземпляр класса[`InterSyncRequest`](../../intersyncrequest).
+Инициализирует новый экземпляр[`InterSyncRequest`](../../intersyncrequest) класс.
 
 ```csharp
 public InterSyncRequest()

@@ -3,7 +3,7 @@ title: SaveOptions
 second_title: Aspose.Finance for .NET API Reference
 description: Represents save options.
 type: docs
-weight: 8000
+weight: 8050
 url: /net/aspose.finance.xbrl/saveoptions/
 ---
 ## SaveOptions class
@@ -11,7 +11,7 @@ url: /net/aspose.finance.xbrl/saveoptions/
 Represents save options.
 
 ```csharp
-public class SaveOptions
+public class SaveOptions : IOConfig
 ```
 
 ## Constructors
@@ -30,6 +30,7 @@ public class SaveOptions
 
 ### See Also
 
+* class [IOConfig](../ioconfig)
 * namespace [Aspose.Finance.Xbrl](../../aspose.finance.xbrl)
 * assembly [Aspose.Finance](../../)
 

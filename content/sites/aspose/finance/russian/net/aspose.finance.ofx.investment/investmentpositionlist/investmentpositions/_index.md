@@ -1,14 +1,14 @@
 ---
 title: InvestmentPositions
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает коллекциюPositionMutualFundaspose.finance.ofx.investment/positionmutualfundилиPositionStockaspose.finance.ofx.investment/positionstock илиPositionDebtaspose.finance.ofx.investment/positiondebtилиPositionOptionaspose.finance.ofx.investment/positionoptionилиPositionOtheraspose.finance.ofx.investment/positionother.
+description: Получает или задает коллекциюPositionMutualFundaspose.finance.ofx.investment/positionmutualfund или жеPositionStockaspose.finance.ofx.investment/positionstock илиPositionDebtaspose.finance.ofx.investment/positiondebt или жеPositionOptionaspose.finance.ofx.investment/positionoption или жеPositionOtheraspose.finance.ofx.investment/positionother .
 type: docs
 weight: 20
 url: /ru/net/aspose.finance.ofx.investment/investmentpositionlist/investmentpositions/
 ---
 ## InvestmentPositionList.InvestmentPositions property
 
-Получает или задает коллекцию[`PositionMutualFund`](../../positionmutualfund)или[`PositionStock`](../../positionstock) или[`PositionDebt`](../../positiondebt)или[`PositionOption`](../../positionoption)или[`PositionOther`](../../positionother).
+Получает или задает коллекцию[`PositionMutualFund`](../../positionmutualfund) или же[`PositionStock`](../../positionstock) или[`PositionDebt`](../../positiondebt) или же[`PositionOption`](../../positionoption) или же[`PositionOther`](../../positionother) .
 
 ```csharp
 public List<AbstractPositionBase> InvestmentPositions { get; set; }

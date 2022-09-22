@@ -1,14 +1,14 @@
 ---
 title: PrincipalBalance
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает тип основного баланса кредита.
+description: Получает или задает тип сальдо основной суммы кредита.
 type: docs
 weight: 150
 url: /ru/net/aspose.finance.ofx/loanaccountinfo/principalbalance/
 ---
 ## LoanAccountInfo.PrincipalBalance property
 
-Получает или задает тип основного баланса кредита.
+Получает или задает тип сальдо основной суммы кредита.
 
 ```csharp
 public PrincipalBalanceType PrincipalBalance { get; set; }

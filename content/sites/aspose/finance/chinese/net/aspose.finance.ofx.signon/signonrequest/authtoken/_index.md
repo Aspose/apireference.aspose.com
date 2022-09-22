@@ -1,14 +1,14 @@
 ---
 title: AuthToken
 second_title: Aspose.Finance for .NET API 参考
-description: 仅获取或设置此登录会话所需的身份验证令牌凭证在带外提供给用户
+description: 仅获取或设置此登录会话所需的身份验证令牌凭据在带外提供给用户
 type: docs
 weight: 70
 url: /zh/net/aspose.finance.ofx.signon/signonrequest/authtoken/
 ---
 ## SignonRequest.AuthToken property
 
-仅获取或设置此登录会话所需的身份验证令牌。凭证在带外提供给用户。
+仅获取或设置此登录会话所需的身份验证令牌。凭据在带外提供给用户。
 
 ```csharp
 public string AuthToken { get; set; }

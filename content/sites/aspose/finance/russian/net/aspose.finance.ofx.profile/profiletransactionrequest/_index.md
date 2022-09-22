@@ -18,15 +18,15 @@ public class ProfileTransactionRequest : AbstractTransactionRequest
 
 | Имя | Описание |
 | --- | --- |
-| [ProfileTransactionRequest](profiletransactionrequest)() | Инициализирует новый экземпляр класса[`ProfileTransactionRequest`](../profiletransactionrequest). |
+| [ProfileTransactionRequest](profiletransactionrequest)() | Инициализирует новый экземпляр[`ProfileTransactionRequest`](../profiletransactionrequest) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [ClientCookie](../../aspose.finance.ofx/abstracttransactionrequest/clientcookie) { get; set; } | Получает или задает данные, которые будут отображаться в ответе транзакции |
-| [OfxExtension](../../aspose.finance.ofx.profile/profiletransactionrequest/ofxextension) { get; set; } | Получает или задает[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
-| [ProfileRequest](../../aspose.finance.ofx.profile/profiletransactionrequest/profilerequest) { get; set; } | Получает или задает[`ProfileRequest`](./profilerequest). |
+| [ClientCookie](../../aspose.finance.ofx/abstracttransactionrequest/clientcookie) { get; set; } | Получает или задает данные, которые будут отражены в транзакции response |
+| [OfxExtension](../../aspose.finance.ofx.profile/profiletransactionrequest/ofxextension) { get; set; } | Получает или задает[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype) . |
+| [ProfileRequest](../../aspose.finance.ofx.profile/profiletransactionrequest/profilerequest) { get; set; } | Получает или задает[`ProfileRequest`](./profilerequest) . |
 | [TransactionAuthorizationNumber](../../aspose.finance.ofx/abstracttransactionrequest/transactionauthorizationnumber) { get; set; } | Получает или задает номер авторизации транзакции. |
 | [TransactionUniqueId](../../aspose.finance.ofx/abstracttransactionrequest/transactionuniqueid) { get; set; } | Получает или задает назначенный клиентом глобальный уникальный идентификатор для этой транзакции |
 

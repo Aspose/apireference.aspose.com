@@ -1,14 +1,14 @@
 ---
 title: ProfileRequestMessageSetV1
 second_title: Aspose.Finance for .NET API 参考
-description: 配置文件请求消息设置版本 1 类
+description: 配置文件请求消息集版本 1 类
 type: docs
 weight: 4940
 url: /zh/net/aspose.finance.ofx/profilerequestmessagesetv1/
 ---
 ## ProfileRequestMessageSetV1 class
 
-配置文件请求消息设置版本 1 类。
+配置文件请求消息集版本 1 类。
 
 ```csharp
 public class ProfileRequestMessageSetV1 : AbstractRequestMessageSet
@@ -18,13 +18,13 @@ public class ProfileRequestMessageSetV1 : AbstractRequestMessageSet
 
 | 姓名 | 描述 |
 | --- | --- |
-| [ProfileRequestMessageSetV1](profilerequestmessagesetv1)() | 初始化[`ProfileRequestMessageSetV1`](../profilerequestmessagesetv1)类的新实例。 |
+| [ProfileRequestMessageSetV1](profilerequestmessagesetv1)() | 初始化一个新的实例[`ProfileRequestMessageSetV1`](../profilerequestmessagesetv1)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [ProfileTransactionRequests](../../aspose.finance.ofx/profilerequestmessagesetv1/profiletransactionrequests) { get; set; } | 获取或设置[`ProfileTransactionRequest`](../../aspose.finance.ofx.profile/profiletransactionrequest)的集合。 |
+| [ProfileTransactionRequests](../../aspose.finance.ofx/profilerequestmessagesetv1/profiletransactionrequests) { get; set; } | 获取或设置的集合[`ProfileTransactionRequest`](../../aspose.finance.ofx.profile/profiletransactionrequest). |
 
 ### 也可以看看
 

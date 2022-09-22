@@ -1,14 +1,14 @@
 ---
 title: InvestmentClosing
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаInvestmentClosingaspose.finance.ofx.investment/investmentclosing.
+description: Инициализирует новый экземплярInvestmentClosingaspose.finance.ofx.investment/investmentclosing класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.investment/investmentclosing/investmentclosing/
 ---
 ## InvestmentClosing constructor
 
-Инициализирует новый экземпляр класса[`InvestmentClosing`](../../investmentclosing).
+Инициализирует новый экземпляр[`InvestmentClosing`](../../investmentclosing) класс.
 
 ```csharp
 public InvestmentClosing()

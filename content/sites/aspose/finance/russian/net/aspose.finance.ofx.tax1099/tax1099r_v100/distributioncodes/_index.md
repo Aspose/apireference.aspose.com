@@ -1,14 +1,14 @@
 ---
 title: DistributionCodes
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает коды распространения.
+description: Получает или задает коды распределения.
 type: docs
 weight: 60
 url: /ru/net/aspose.finance.ofx.tax1099/tax1099r_v100/distributioncodes/
 ---
 ## Tax1099R_V100.DistributionCodes property
 
-Получает или задает коды распространения.
+Получает или задает коды распределения.
 
 ```csharp
 public List<string> DistributionCodes { get; set; }

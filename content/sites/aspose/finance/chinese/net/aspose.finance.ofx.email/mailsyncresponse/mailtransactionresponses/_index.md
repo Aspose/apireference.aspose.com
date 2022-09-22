@@ -1,14 +1,14 @@
 ---
 title: MailTransactionResponses
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置MailTransactionResponseaspose.finance.ofx.email/mailtransactionresponse的集合
+description: 获取或设置的集合MailTransactionResponseaspose.finance.ofx.email/mailtransactionresponse.
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.ofx.email/mailsyncresponse/mailtransactionresponses/
 ---
 ## MailSyncResponse.MailTransactionResponses property
 
-获取或设置[`MailTransactionResponse`](../../mailtransactionresponse)的集合。
+获取或设置的集合[`MailTransactionResponse`](../../mailtransactionresponse).
 
 ```csharp
 public List<MailTransactionResponse> MailTransactionResponses { get; set; }

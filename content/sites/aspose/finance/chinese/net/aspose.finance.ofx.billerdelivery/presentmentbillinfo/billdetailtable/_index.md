@@ -1,14 +1,14 @@
 ---
 title: BillDetailTable
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置BillDetailTableaspose.finance.ofx.billerdelivery/presentmentbillinfo/billdetailtable
+description: 获取或设置BillDetailTableaspose.finance.ofx.billerdelivery/presentmentbillinfo/billdetailtable.
 type: docs
 weight: 60
 url: /zh/net/aspose.finance.ofx.billerdelivery/presentmentbillinfo/billdetailtable/
 ---
 ## PresentmentBillInfo.BillDetailTable property
 
-获取或设置`BillDetailTable`。
+获取或设置`BillDetailTable`.
 
 ```csharp
 public BillDetailTable BillDetailTable { get; set; }

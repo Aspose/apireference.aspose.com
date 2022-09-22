@@ -1,14 +1,14 @@
 ---
 title: BankAccountTo
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает место назначенияBankAccountaspose.finance.ofx/bankaccountдля стран которые оплачивают счета с помощью переводов.
+description: Получает или задает пункт назначенияBankAccountaspose.finance.ofx/bankaccount для стран которые оплачивают счета с помощью переводов.
 type: docs
 weight: 20
 url: /ru/net/aspose.finance.ofx.billpay/payeemodresponse/bankaccountto/
 ---
 ## PayeeModResponse.BankAccountTo property
 
-Получает или задает место назначения[`BankAccount`](../../../aspose.finance.ofx/bankaccount)для стран, которые оплачивают счета с помощью переводов.
+Получает или задает пункт назначения[`BankAccount`](../../../aspose.finance.ofx/bankaccount) для стран, которые оплачивают счета с помощью переводов.
 
 ```csharp
 public BankAccount BankAccountTo { get; set; }

@@ -18,15 +18,15 @@ public class PayeeSyncRequest : AbstractSyncRequest
 
 | Имя | Описание |
 | --- | --- |
-| [PayeeSyncRequest](payeesyncrequest)() | Инициализирует новый экземпляр класса[`PayeeSyncRequest`](../payeesyncrequest). |
+| [PayeeSyncRequest](payeesyncrequest)() | Инициализирует новый экземпляр[`PayeeSyncRequest`](../payeesyncrequest) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [OfxExtension](../../aspose.finance.ofx.billpay/payeesyncrequest/ofxextension) { get; set; } | Получает или задает[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
-| [PayeeTransactionRequests](../../aspose.finance.ofx.billpay/payeesyncrequest/payeetransactionrequests) { get; set; } | Получает или задает коллекцию[`PayeeTransactionRequest`](../payeetransactionrequest). |
-| [Refresh](../../aspose.finance.ofx/abstractsyncrequest/refresh) { get; set; } | Получает или задает запрос на обновление текущего состояния. |
+| [OfxExtension](../../aspose.finance.ofx.billpay/payeesyncrequest/ofxextension) { get; set; } | Получает или задает[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype) . |
+| [PayeeTransactionRequests](../../aspose.finance.ofx.billpay/payeesyncrequest/payeetransactionrequests) { get; set; } | Получает или задает коллекцию[`PayeeTransactionRequest`](../payeetransactionrequest) . |
+| [Refresh](../../aspose.finance.ofx/abstractsyncrequest/refresh) { get; set; } | Получает или устанавливает запрос на обновление текущего состояния. |
 | [RejectIfMisssing](../../aspose.finance.ofx/abstractsyncrequest/rejectifmisssing) { get; set; } | Если да, не обрабатывать запросы, если токен клиента устарел. |
 | [Token](../../aspose.finance.ofx/abstractsyncrequest/token) { get; set; } | Получает или задает токен. |
 | [TokenOnly](../../aspose.finance.ofx/abstractsyncrequest/tokenonly) { get; set; } | Получает или задает, запрашивать ли только текущий токен без истории. |

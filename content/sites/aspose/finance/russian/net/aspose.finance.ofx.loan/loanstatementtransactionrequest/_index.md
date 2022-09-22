@@ -18,15 +18,15 @@ public class LoanStatementTransactionRequest : AbstractTransactionRequest
 
 | Имя | Описание |
 | --- | --- |
-| [LoanStatementTransactionRequest](loanstatementtransactionrequest)() | Инициализирует новый экземпляр класса[`LoanStatementTransactionRequest`](../loanstatementtransactionrequest). |
+| [LoanStatementTransactionRequest](loanstatementtransactionrequest)() | Инициализирует новый экземпляр[`LoanStatementTransactionRequest`](../loanstatementtransactionrequest) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [ClientCookie](../../aspose.finance.ofx/abstracttransactionrequest/clientcookie) { get; set; } | Получает или задает данные, которые будут отображаться в ответе транзакции |
-| [LoanStatementRequest](../../aspose.finance.ofx.loan/loanstatementtransactionrequest/loanstatementrequest) { get; set; } | Получает или задает[`LoanStatementRequest`](./loanstatementrequest). |
-| [OfxExtension](../../aspose.finance.ofx.loan/loanstatementtransactionrequest/ofxextension) { get; set; } | Получает или задает[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
+| [ClientCookie](../../aspose.finance.ofx/abstracttransactionrequest/clientcookie) { get; set; } | Получает или задает данные, которые будут отражены в транзакции response |
+| [LoanStatementRequest](../../aspose.finance.ofx.loan/loanstatementtransactionrequest/loanstatementrequest) { get; set; } | Получает или задает[`LoanStatementRequest`](./loanstatementrequest) . |
+| [OfxExtension](../../aspose.finance.ofx.loan/loanstatementtransactionrequest/ofxextension) { get; set; } | Получает или задает[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype) . |
 | [TransactionAuthorizationNumber](../../aspose.finance.ofx/abstracttransactionrequest/transactionauthorizationnumber) { get; set; } | Получает или задает номер авторизации транзакции. |
 | [TransactionUniqueId](../../aspose.finance.ofx/abstracttransactionrequest/transactionuniqueid) { get; set; } | Получает или задает назначенный клиентом глобальный уникальный идентификатор для этой транзакции |
 

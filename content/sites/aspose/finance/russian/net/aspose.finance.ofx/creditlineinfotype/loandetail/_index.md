@@ -1,14 +1,14 @@
 ---
 title: LoanDetail
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задаетLoanDetailTypeaspose.finance.ofx/loandetailtype.
+description: Получает или задаетLoanDetailTypeaspose.finance.ofx/loandetailtype .
 type: docs
 weight: 70
 url: /ru/net/aspose.finance.ofx/creditlineinfotype/loandetail/
 ---
 ## CreditLineInfoType.LoanDetail property
 
-Получает или задает[`LoanDetailType`](../../loandetailtype).
+Получает или задает[`LoanDetailType`](../../loandetailtype) .
 
 ```csharp
 public LoanDetailType LoanDetail { get; set; }

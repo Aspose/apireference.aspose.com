@@ -1,14 +1,14 @@
 ---
 title: TaxW2_V200
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаTaxW2_V200aspose.finance.ofx.taxw2/taxw2_v200.
+description: Инициализирует новый экземплярTaxW2_V200aspose.finance.ofx.taxw2/taxw2_v200 класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.taxw2/taxw2_v200/taxw2_v200/
 ---
 ## TaxW2_V200 constructor
 
-Инициализирует новый экземпляр класса[`TaxW2_V200`](../../taxw2_v200).
+Инициализирует новый экземпляр[`TaxW2_V200`](../../taxw2_v200) класс.
 
 ```csharp
 public TaxW2_V200()

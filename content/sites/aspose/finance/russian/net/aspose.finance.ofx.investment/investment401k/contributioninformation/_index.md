@@ -1,14 +1,14 @@
 ---
 title: ContributionInformation
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает коллекциюContributionSecurityaspose.finance.ofx.investment/contributionsecurity.
+description: Получает или задает коллекциюContributionSecurityaspose.finance.ofx.investment/contributionsecurity .
 type: docs
 weight: 30
 url: /ru/net/aspose.finance.ofx.investment/investment401k/contributioninformation/
 ---
 ## Investment401k.ContributionInformation property
 
-Получает или задает коллекцию[`ContributionSecurity`](../../contributionsecurity).
+Получает или задает коллекцию[`ContributionSecurity`](../../contributionsecurity) .
 
 ```csharp
 public List<ContributionSecurity> ContributionInformation { get; set; }

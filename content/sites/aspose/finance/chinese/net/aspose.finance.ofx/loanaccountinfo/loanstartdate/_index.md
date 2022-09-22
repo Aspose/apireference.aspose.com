@@ -1,14 +1,14 @@
 ---
 title: LoanStartDate
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置外借开始日期
+description: 获取或设置贷款开始日期
 type: docs
 weight: 130
 url: /zh/net/aspose.finance.ofx/loanaccountinfo/loanstartdate/
 ---
 ## LoanAccountInfo.LoanStartDate property
 
-获取或设置外借开始日期。
+获取或设置贷款开始日期。
 
 ```csharp
 public string LoanStartDate { get; set; }

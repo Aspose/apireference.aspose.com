@@ -18,7 +18,7 @@ public class IntraCancellationRequest : AbstractIntraRequest
 
 | Имя | Описание |
 | --- | --- |
-| [IntraCancellationRequest](intracancellationrequest)() | Инициализирует новый экземпляр класса[`IntraCancellationRequest`](../intracancellationrequest). |
+| [IntraCancellationRequest](intracancellationrequest)() | Инициализирует новый экземпляр[`IntraCancellationRequest`](../intracancellationrequest) класс. |
 
 ## Характеристики
 

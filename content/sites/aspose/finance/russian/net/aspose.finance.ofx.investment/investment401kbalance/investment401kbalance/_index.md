@@ -1,14 +1,14 @@
 ---
 title: Investment401kBalance
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаInvestment401kBalanceaspose.finance.ofx.investment/investment401kbalance.
+description: Инициализирует новый экземплярInvestment401kBalanceaspose.finance.ofx.investment/investment401kbalance класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.investment/investment401kbalance/investment401kbalance/
 ---
 ## Investment401kBalance constructor
 
-Инициализирует новый экземпляр класса[`Investment401kBalance`](../../investment401kbalance).
+Инициализирует новый экземпляр[`Investment401kBalance`](../../investment401kbalance) класс.
 
 ```csharp
 public Investment401kBalance()

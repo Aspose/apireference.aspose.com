@@ -1,14 +1,14 @@
 ---
 title: ImageRequestMessageSetV1
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задаетImageRequestMessageSetV1aspose.finance.ofx/ofxrequestdocument/imagerequestmessagesetv1.
+description: Получает или задаетImageRequestMessageSetV1aspose.finance.ofx/ofxrequestdocument/imagerequestmessagesetv1 .
 type: docs
 weight: 60
 url: /ru/net/aspose.finance.ofx/ofxrequestdocument/imagerequestmessagesetv1/
 ---
 ## OfxRequestDocument.ImageRequestMessageSetV1 property
 
-Получает или задает`ImageRequestMessageSetV1`.
+Получает или задает`ImageRequestMessageSetV1` .
 
 ```csharp
 public ImageRequestMessageSetV1 ImageRequestMessageSetV1 { get; set; }

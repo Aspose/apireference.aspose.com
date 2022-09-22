@@ -1,14 +1,14 @@
 ---
 title: ClientUserId
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置标识OFX用户的唯一ID
+description: 获取或设置OFX用户唯一标识
 type: docs
 weight: 90
 url: /zh/net/aspose.finance.ofx.signon/signonrequest/clientuserid/
 ---
 ## SignonRequest.ClientUserId property
 
-获取或设置标识OFX用户的唯一ID。
+获取或设置OFX用户唯一标识
 
 ```csharp
 public string ClientUserId { get; set; }

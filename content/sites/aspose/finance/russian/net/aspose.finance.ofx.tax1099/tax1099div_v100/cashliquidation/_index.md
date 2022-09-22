@@ -1,14 +1,14 @@
 ---
 title: CashLiquidation
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает ликвидационное распределение денежных средств.
+description: Получает или задает распределение ликвидационных денежных средств.
 type: docs
 weight: 30
 url: /ru/net/aspose.finance.ofx.tax1099/tax1099div_v100/cashliquidation/
 ---
 ## Tax1099DIV_V100.CashLiquidation property
 
-Получает или задает ликвидационное распределение денежных средств.
+Получает или задает распределение ликвидационных денежных средств.
 
 ```csharp
 public string CashLiquidation { get; set; }

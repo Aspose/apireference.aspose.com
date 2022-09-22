@@ -1,14 +1,14 @@
 ---
 title: InvestmentStatementMessageSet
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化InvestmentStatementMessageSetaspose.finance.ofx.profile/investmentstatementmessageset类的新实例
+description: 初始化一个新的实例InvestmentStatementMessageSetaspose.finance.ofx.profile/investmentstatementmessageset类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.profile/investmentstatementmessageset/investmentstatementmessageset/
 ---
 ## InvestmentStatementMessageSet constructor
 
-初始化[`InvestmentStatementMessageSet`](../../investmentstatementmessageset)类的新实例。
+初始化一个新的实例[`InvestmentStatementMessageSet`](../../investmentstatementmessageset)类.
 
 ```csharp
 public InvestmentStatementMessageSet()

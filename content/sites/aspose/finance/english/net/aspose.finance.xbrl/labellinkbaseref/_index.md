@@ -3,7 +3,7 @@ title: LabelLinkbaseRef
 second_title: Aspose.Finance for .NET API Reference
 description: This class is used to label linkbase reference.
 type: docs
-weight: 7800
+weight: 7840
 url: /net/aspose.finance.xbrl/labellinkbaseref/
 ---
 ## LabelLinkbaseRef class

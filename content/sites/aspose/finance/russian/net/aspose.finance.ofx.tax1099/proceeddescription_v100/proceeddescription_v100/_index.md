@@ -1,14 +1,14 @@
 ---
 title: ProceedDescription_V100
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаProceedDescription_V100aspose.finance.ofx.tax1099/proceeddescription_v100.
+description: Инициализирует новый экземплярProceedDescription_V100aspose.finance.ofx.tax1099/proceeddescription_v100 класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.tax1099/proceeddescription_v100/proceeddescription_v100/
 ---
 ## ProceedDescription_V100 constructor
 
-Инициализирует новый экземпляр класса[`ProceedDescription_V100`](../../proceeddescription_v100).
+Инициализирует новый экземпляр[`ProceedDescription_V100`](../../proceeddescription_v100) класс.
 
 ```csharp
 public ProceedDescription_V100()

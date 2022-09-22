@@ -3,7 +3,7 @@ title: InvestmentBankTransaction
 second_title: Aspose.Finance for .NET API Reference
 description: This class is used to download bank transactions in an investment statement download.
 type: docs
-weight: 2930
+weight: 2940
 url: /net/aspose.finance.ofx.investment/investmentbanktransaction/
 ---
 ## InvestmentBankTransaction class

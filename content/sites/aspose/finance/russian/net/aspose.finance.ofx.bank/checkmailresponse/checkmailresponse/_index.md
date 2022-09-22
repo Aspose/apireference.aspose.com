@@ -1,14 +1,14 @@
 ---
 title: CheckMailResponse
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаCheckMailResponseaspose.finance.ofx.bank/checkmailresponse.
+description: Инициализирует новый экземплярCheckMailResponseaspose.finance.ofx.bank/checkmailresponse класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.bank/checkmailresponse/checkmailresponse/
 ---
 ## CheckMailResponse constructor
 
-Инициализирует новый экземпляр класса[`CheckMailResponse`](../../checkmailresponse).
+Инициализирует новый экземпляр[`CheckMailResponse`](../../checkmailresponse) класс.
 
 ```csharp
 public CheckMailResponse()

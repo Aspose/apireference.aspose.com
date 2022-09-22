@@ -18,8 +18,8 @@ public enum AmortizationType
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| ORIGINAL | `0` | 原摊销 |
-| ADJUSTED | `1` | 调整后摊销 |
+| ORIGINAL | `0` | 原始摊销 |
+| ADJUSTED | `1` | 调整摊销 |
 | PROJECTED | `2` | 预计摊销 |
 
 ### 也可以看看

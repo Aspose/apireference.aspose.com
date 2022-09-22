@@ -3,7 +3,7 @@ title: InterCancellationResponse
 second_title: Aspose.Finance for .NET API Reference
 description: Interbank transfer cancellation response class.
 type: docs
-weight: 2400
+weight: 2410
 url: /net/aspose.finance.ofx.intertransfer/intercancellationresponse/
 ---
 ## InterCancellationResponse class

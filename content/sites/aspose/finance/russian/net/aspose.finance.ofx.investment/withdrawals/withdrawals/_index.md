@@ -1,14 +1,14 @@
 ---
 title: Withdrawals
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаWithdrawalsaspose.finance.ofx.investment/withdrawals.
+description: Инициализирует новый экземплярWithdrawalsaspose.finance.ofx.investment/withdrawals класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.investment/withdrawals/withdrawals/
 ---
 ## Withdrawals constructor
 
-Инициализирует новый экземпляр класса[`Withdrawals`](../../withdrawals).
+Инициализирует новый экземпляр[`Withdrawals`](../../withdrawals) класс.
 
 ```csharp
 public Withdrawals()

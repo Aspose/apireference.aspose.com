@@ -18,7 +18,7 @@ public class PaymentProcessingStatus
 
 | Имя | Описание |
 | --- | --- |
-| [PaymentProcessingStatus](paymentprocessingstatus)() | Инициализирует новый экземпляр класса[`PaymentProcessingStatus`](../paymentprocessingstatus). |
+| [PaymentProcessingStatus](paymentprocessingstatus)() | Инициализирует новый экземпляр[`PaymentProcessingStatus`](../paymentprocessingstatus) класс. |
 
 ## Характеристики
 

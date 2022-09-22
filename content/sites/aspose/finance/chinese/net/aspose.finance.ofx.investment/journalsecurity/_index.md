@@ -18,15 +18,15 @@ public class JournalSecurity : AbstractInvestmentTransaction
 
 | 姓名 | 描述 |
 | --- | --- |
-| [JournalSecurity](journalsecurity)() | 初始化[`JournalSecurity`](../journalsecurity)类的新实例。 |
+| [JournalSecurity](journalsecurity)() | 初始化一个新的实例[`JournalSecurity`](../journalsecurity)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [InvestmentTransaction](../../aspose.finance.ofx.investment/abstractinvestmenttransaction/investmenttransaction) { get; set; } | 获取或设置[`InvestmentTransaction`](../abstractinvestmenttransaction/investmenttransaction)。 |
-| [SecurityId](../../aspose.finance.ofx.investment/journalsecurity/securityid) { get; set; } | 获取或设置[`SecurityId`](./securityid)。 |
-| [SubAccountFrom](../../aspose.finance.ofx.investment/journalsecurity/subaccountfrom) { get; set; } | 获取或设置用于转移证券或现金的子账户。 |
+| [InvestmentTransaction](../../aspose.finance.ofx.investment/abstractinvestmenttransaction/investmenttransaction) { get; set; } | 获取或设置[`InvestmentTransaction`](../abstractinvestmenttransaction/investmenttransaction). |
+| [SecurityId](../../aspose.finance.ofx.investment/journalsecurity/securityid) { get; set; } | 获取或设置[`SecurityId`](./securityid). |
+| [SubAccountFrom](../../aspose.finance.ofx.investment/journalsecurity/subaccountfrom) { get; set; } | 获取或设置证券或现金转出的子账户。 |
 | [SubAccountTo](../../aspose.finance.ofx.investment/journalsecurity/subaccountto) { get; set; } | 获取或设置证券或现金转入的子账户。 |
 | [Units](../../aspose.finance.ofx.investment/journalsecurity/units) { get; set; } | 获取或设置单位。用于除股票分割以外的基于安全的操作。股票、共同基金等的股票。债券的面值。期权合约。 |
 

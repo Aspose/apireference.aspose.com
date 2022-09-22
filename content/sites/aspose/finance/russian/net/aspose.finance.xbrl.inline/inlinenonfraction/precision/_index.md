@@ -1,14 +1,14 @@
 ---
 title: Precision
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает точностьInlineNonfractionaspose.finance.xbrl.inline/inlinenonfraction.
+description: Получает или задает точностьInlineNonfractionaspose.finance.xbrl.inline/inlinenonfraction .
 type: docs
 weight: 70
 url: /ru/net/aspose.finance.xbrl.inline/inlinenonfraction/precision/
 ---
 ## InlineNonfraction.Precision property
 
-Получает или задает точность[`InlineNonfraction`](../../inlinenonfraction).
+Получает или задает точность[`InlineNonfraction`](../../inlinenonfraction) .
 
 ```csharp
 public int Precision { get; set; }

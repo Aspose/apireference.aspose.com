@@ -1,14 +1,14 @@
 ---
 title: References
 second_title: Aspose.Finance for .NET API 参考
-description: 获取内联 XBRL 文档中的InlineReferencesaspose.finance.xbrl.inline/inlinereferences
+description: 获取InlineReferencesaspose.finance.xbrl.inline/inlinereferences在内联 XBRL 文档中
 type: docs
 weight: 70
 url: /zh/net/aspose.finance.xbrl.inline/inlinexbrldocument/references/
 ---
 ## InlineXbrlDocument.References property
 
-获取内联 XBRL 文档中的[`InlineReferences`](../../inlinereferences)。
+获取[`InlineReferences`](../../inlinereferences)在内联 XBRL 文档中。
 
 ```csharp
 public InlineReferences References { get; }

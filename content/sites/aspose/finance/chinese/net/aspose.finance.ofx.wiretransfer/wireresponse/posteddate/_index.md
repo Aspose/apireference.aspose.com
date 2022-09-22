@@ -1,14 +1,14 @@
 ---
 title: PostedDate
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置传输的实际日期
+description: 获取或设置转账的实际日期
 type: docs
 weight: 80
 url: /zh/net/aspose.finance.ofx.wiretransfer/wireresponse/posteddate/
 ---
 ## WireResponse.PostedDate property
 
-获取或设置传输的实际日期。
+获取或设置转账的实际日期。
 
 ```csharp
 public string PostedDate { get; set; }

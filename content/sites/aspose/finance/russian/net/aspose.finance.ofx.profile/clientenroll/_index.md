@@ -18,7 +18,7 @@ public class ClientEnroll
 
 | Имя | Описание |
 | --- | --- |
-| [ClientEnroll](clientenroll)() | Инициализирует новый экземпляр класса[`ClientEnroll`](../clientenroll). |
+| [ClientEnroll](clientenroll)() | Инициализирует новый экземпляр[`ClientEnroll`](../clientenroll) класс. |
 
 ## Характеристики
 

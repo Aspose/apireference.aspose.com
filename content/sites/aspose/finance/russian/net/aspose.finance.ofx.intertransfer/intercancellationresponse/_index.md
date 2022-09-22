@@ -18,13 +18,13 @@ public class InterCancellationResponse : AbstractInterResponse
 
 | Имя | Описание |
 | --- | --- |
-| [InterCancellationResponse](intercancellationresponse)() | Инициализирует новый экземпляр класса[`InterCancellationResponse`](../intercancellationresponse). |
+| [InterCancellationResponse](intercancellationresponse)() | Инициализирует новый экземпляр[`InterCancellationResponse`](../intercancellationresponse) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [ServerId](../../aspose.finance.ofx.intertransfer/intercancellationresponse/serverid) { get; set; } | Получает или задает идентификатор переноса, который необходимо отменить. |
+| [ServerId](../../aspose.finance.ofx.intertransfer/intercancellationresponse/serverid) { get; set; } | Получает или задает идентификатор переноса, который нужно отменить. |
 
 ### Смотрите также
 

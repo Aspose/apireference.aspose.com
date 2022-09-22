@@ -1,14 +1,14 @@
 ---
 title: Contexts
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает коллекциюContextaspose.finance.xbrl/contextво встроенном документе XBRL.
+description: Получает коллекциюContextaspose.finance.xbrl/context во встроенном документе XBRL.
 type: docs
 weight: 30
 url: /ru/net/aspose.finance.xbrl.inline/inlinexbrldocument/contexts/
 ---
 ## InlineXbrlDocument.Contexts property
 
-Получает коллекцию[`Context`](../../../aspose.finance.xbrl/context)во встроенном документе XBRL.
+Получает коллекцию[`Context`](../../../aspose.finance.xbrl/context) во встроенном документе XBRL.
 
 ```csharp
 public List<Context> Contexts { get; }

@@ -1,7 +1,7 @@
 ---
 title: ImageUrl
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает URL-адрес для получения изображения полного счета в формате HTML.
+description: Получает или задает URLадрес для получения изображения полного счета в формате HTML.
 type: docs
 weight: 30
 url: /ru/net/aspose.finance.ofx.billerdelivery/statementimage/imageurl/

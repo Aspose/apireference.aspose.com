@@ -19,15 +19,15 @@ public class SchemaRefCollection : IEnumerable<SchemaRef>
 | Имя | Описание |
 | --- | --- |
 | [Count](../../aspose.finance.xbrl/schemarefcollection/count) { get; } | Количество ссылок на схемы в этой коллекции. |
-| [Item](../../aspose.finance.xbrl/schemarefcollection/item) { get; } | Получает элемент[`SchemaRef`](../schemaref)по указанному индексу в коллекции. |
+| [Item](../../aspose.finance.xbrl/schemarefcollection/item) { get; } | Получает[`SchemaRef`](../schemaref) элемент по указанному индексу в коллекции. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| [Add](../../aspose.finance.xbrl/schemarefcollection/add#add)(string, string) | Добавьте[`SchemaRef`](../schemaref)в коллекцию. |
-| [Add](../../aspose.finance.xbrl/schemarefcollection/add#add_1)(string, string, string) | Добавьте[`SchemaRef`](../schemaref)в коллекцию. |
-| [GetEnumerator](../../aspose.finance.xbrl/schemarefcollection/getenumerator)() | Возвращает перечислитель, выполняющий итерацию по коллекции. |
+| [Add](../../aspose.finance.xbrl/schemarefcollection/add#add)(string, string) | Добавить[`SchemaRef`](../schemaref)в коллекцию. |
+| [Add](../../aspose.finance.xbrl/schemarefcollection/add#add_1)(string, string, string) | Добавить[`SchemaRef`](../schemaref)в коллекцию. |
+| [GetEnumerator](../../aspose.finance.xbrl/schemarefcollection/getenumerator)() | Возвращает перечислитель, который выполняет итерацию по коллекции. |
 
 ### Смотрите также
 

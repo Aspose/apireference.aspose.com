@@ -1,14 +1,14 @@
 ---
 title: RecurringIntraTransactionResponse
 second_title: Справочник по API Aspose.Finance для .NET
-description: Класс отклика повторяющихся внутрибанковских транзакций.
+description: Класс ответов на повторяющиеся внутрибанковские транзакции.
 type: docs
 weight: 620
 url: /ru/net/aspose.finance.ofx.bank/recurringintratransactionresponse/
 ---
 ## RecurringIntraTransactionResponse class
 
-Класс отклика повторяющихся внутрибанковских транзакций.
+Класс ответов на повторяющиеся внутрибанковские транзакции.
 
 ```csharp
 public class RecurringIntraTransactionResponse : AbstractTransactionResponse
@@ -18,16 +18,16 @@ public class RecurringIntraTransactionResponse : AbstractTransactionResponse
 
 | Имя | Описание |
 | --- | --- |
-| [RecurringIntraTransactionResponse](recurringintratransactionresponse)() | Инициализирует новый экземпляр класса[`RecurringIntraTransactionResponse`](../recurringintratransactionresponse). |
+| [RecurringIntraTransactionResponse](recurringintratransactionresponse)() | Инициализирует новый экземпляр[`RecurringIntraTransactionResponse`](../recurringintratransactionresponse) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [ClientCookie](../../aspose.finance.ofx/abstracttransactionresponse/clientcookie) { get; set; } | Получает или задает данные, которые будут отображаться в ответе транзакции |
-| [OfxExtension](../../aspose.finance.ofx.bank/recurringintratransactionresponse/ofxextension) { get; set; } | Получает или задает[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
-| [Response](../../aspose.finance.ofx.bank/recurringintratransactionresponse/response) { get; set; } | Получает или задает[`RecurringIntraResponse`](../recurringintraresponse)или[`RecurringIntraModResponse`](../recurringintramodresponse)или[`RecurringIntraCancellationResponse`](../recurringintracancellationresponse). |
-| [Status](../../aspose.finance.ofx/abstracttransactionresponse/status) { get; set; } | Получает или задает[`Status`](../../aspose.finance.ofx/abstracttransactionresponse/status). |
+| [ClientCookie](../../aspose.finance.ofx/abstracttransactionresponse/clientcookie) { get; set; } | Получает или задает данные, которые будут отражены в транзакции response |
+| [OfxExtension](../../aspose.finance.ofx.bank/recurringintratransactionresponse/ofxextension) { get; set; } | Получает или задает[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype) . |
+| [Response](../../aspose.finance.ofx.bank/recurringintratransactionresponse/response) { get; set; } | Получает или задает[`RecurringIntraResponse`](../recurringintraresponse) или же[`RecurringIntraModResponse`](../recurringintramodresponse) или же[`RecurringIntraCancellationResponse`](../recurringintracancellationresponse) . |
+| [Status](../../aspose.finance.ofx/abstracttransactionresponse/status) { get; set; } | Получает или задает[`Status`](../../aspose.finance.ofx/abstracttransactionresponse/status) . |
 | [TransactionUniqueId](../../aspose.finance.ofx/abstracttransactionresponse/transactionuniqueid) { get; set; } | Получает или задает назначенный клиентом глобальный уникальный идентификатор для этой транзакции. |
 
 ### Смотрите также

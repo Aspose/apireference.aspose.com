@@ -1,14 +1,14 @@
 ---
 title: Document
 second_title: Справочник по API Aspose.Finance для .NET
-description: Документ представляет собой весь встроенный документ xbrl. Концептуально это корень дерева документов обеспечивающий основной доступ к данным документа.
+description: Документ представляет весь встроенный документ xbrl. Концептуально это корень дерева документов обеспечивающий основной доступ к данным документа.
 type: docs
 weight: 6660
 url: /ru/net/aspose.finance.xbrl.dom/document/
 ---
 ## Document class
 
-Документ представляет собой весь встроенный документ xbrl. Концептуально это корень дерева документов, обеспечивающий основной доступ к данным документа.
+Документ представляет весь встроенный документ xbrl. Концептуально это корень дерева документов, обеспечивающий основной доступ к данным документа.
 
 ```csharp
 public class Document : Node
@@ -31,18 +31,18 @@ public class Document : Node
 | [ContentType](../../aspose.finance.xbrl.dom/document/contenttype) { get; } | Получает тип содержимого документа. |
 | [DocumentElement](../../aspose.finance.xbrl.dom/document/documentelement) { get; } | Это удобный атрибут, который обеспечивает прямой доступ к дочернему узлу, который является элементом документа документа. |
 | [DocumentURI](../../aspose.finance.xbrl.dom/document/documenturi) { get; } | Получает URI документа. |
-| [FirstChild](../../aspose.finance.xbrl.dom/node/firstchild) { get; } | Получает первый потомок этого узла. Если такого узла нет, возвращается null. |
-| [HasChildNodes](../../aspose.finance.xbrl.dom/node/haschildnodes) { get; } | Получает, есть ли у этого узла дочерние узлы. |
-| [LastChild](../../aspose.finance.xbrl.dom/node/lastchild) { get; } | Получает последний потомок этого узла. Если такого узла нет, возвращается null. |
+| [FirstChild](../../aspose.finance.xbrl.dom/node/firstchild) { get; } | Получает первый дочерний элемент этого узла. Если такого узла нет, возвращается null. |
+| [HasChildNodes](../../aspose.finance.xbrl.dom/node/haschildnodes) { get; } | Получает, есть ли у этого узла дочерние элементы. |
+| [LastChild](../../aspose.finance.xbrl.dom/node/lastchild) { get; } | Получает последний дочерний элемент этого узла. Если такого узла нет, возвращается null. |
 | virtual [LocalName](../../aspose.finance.xbrl.dom/node/localname) { get; } | Получает локальную часть полного имени этого узла. |
 | virtual [NamespaceURI](../../aspose.finance.xbrl.dom/node/namespaceuri) { get; } | Получает URI пространства имен этого узла. |
 | [NextSibling](../../aspose.finance.xbrl.dom/node/nextsibling) { get; } | Получает узел, следующий сразу за этим узлом. Если такого узла нет, возвращается null. |
 | override [NodeName](../../aspose.finance.xbrl.dom/document/nodename) { get; } | Получает имя узла документа. |
 | [NodeType](../../aspose.finance.xbrl.dom/node/nodetype) { get; } | Получает тип узла. |
-| virtual [NodeValue](../../aspose.finance.xbrl.dom/node/nodevalue) { get; set; } | Получает или задает значение данного узла в зависимости от его типа. |
+| virtual [NodeValue](../../aspose.finance.xbrl.dom/node/nodevalue) { get; set; } | Получает или задает значение этого узла в зависимости от его типа. |
 | [OwnerDocument](../../aspose.finance.xbrl.dom/node/ownerdocument) { get; } | Получает объект документа, связанный с этим узлом. |
 | [ParentNode](../../aspose.finance.xbrl.dom/node/parentnode) { get; } | Получает родительский узел. |
-| virtual [Prefix](../../aspose.finance.xbrl.dom/node/prefix) { get; set; } | Получает или задает префикс пространства имен данного узла. |
+| virtual [Prefix](../../aspose.finance.xbrl.dom/node/prefix) { get; set; } | Получает или задает префикс пространства имен этого узла. |
 | [PreviousSibling](../../aspose.finance.xbrl.dom/node/previoussibling) { get; } | Получает узел, непосредственно предшествующий этому узлу. Если такого узла нет, возвращается null. |
 | virtual [TextContent](../../aspose.finance.xbrl.dom/node/textcontent) { get; set; } | Получает или задает текстовое содержимое этого узла и его потомков. |
 
@@ -51,8 +51,8 @@ public class Document : Node
 | Имя | Описание |
 | --- | --- |
 | [AppendChild](../../aspose.finance.xbrl.dom/node/appendchild)(Node) | Добавляет узел newChild в конец списка дочерних элементов этого узла. |
-| [RemoveChild](../../aspose.finance.xbrl.dom/node/removechild)(Node) | Удаляет дочерний узел, указанный старым дочерним, из списка дочерних. |
-| [ReplaceChild](../../aspose.finance.xbrl.dom/node/replacechild)(Node, Node) | Заменяет дочерний узел old child новым дочерним в списке дочерних узлов и возвращает старый дочерний узел. |
+| [RemoveChild](../../aspose.finance.xbrl.dom/node/removechild)(Node) | Удаляет дочерний узел, указанный старым дочерним элементом, из списка дочерних элементов. |
+| [ReplaceChild](../../aspose.finance.xbrl.dom/node/replacechild)(Node, Node) | Заменяет дочерний узел old child новым дочерним элементом в списке дочерних элементов и возвращает старый дочерний узел. |
 
 ### Смотрите также
 

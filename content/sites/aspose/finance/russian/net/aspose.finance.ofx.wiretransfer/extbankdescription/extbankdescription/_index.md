@@ -1,14 +1,14 @@
 ---
 title: ExtBankDescription
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаExtBankDescriptionaspose.finance.ofx.wiretransfer/extbankdescription.
+description: Инициализирует новый экземплярExtBankDescriptionaspose.finance.ofx.wiretransfer/extbankdescription класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.wiretransfer/extbankdescription/extbankdescription/
 ---
 ## ExtBankDescription constructor
 
-Инициализирует новый экземпляр класса[`ExtBankDescription`](../../extbankdescription).
+Инициализирует новый экземпляр[`ExtBankDescription`](../../extbankdescription) класс.
 
 ```csharp
 public ExtBankDescription()

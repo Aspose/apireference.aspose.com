@@ -18,7 +18,7 @@ public class Tax1098T_V100 : AbstractTax1098
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Tax1098T_V100](tax1098t_v100)() | 初始化[`Tax1098T_V100`](../tax1098t_v100)类的新实例。 |
+| [Tax1098T_V100](tax1098t_v100)() | 初始化一个新的实例[`Tax1098T_V100`](../tax1098t_v100)类. |
 
 ## 特性
 
@@ -26,19 +26,19 @@ public class Tax1098T_V100 : AbstractTax1098
 | --- | --- |
 | [AccountNumber](../../aspose.finance.ofx.tax1098/tax1098t_v100/accountnumber) { get; set; } | 获取或设置帐号。 |
 | [AdjustmentPriorYear](../../aspose.finance.ofx.tax1098/tax1098t_v100/adjustmentprioryear) { get; set; } | 获取或设置上一年的调整。 |
-| [AdjustmentsScholarship](../../aspose.finance.ofx.tax1098/tax1098t_v100/adjustmentsscholarship) { get; set; } | 获取或设置对奖学金或助学金的调整。 |
-| [BilledExpense](../../aspose.finance.ofx.tax1098/tax1098t_v100/billedexpense) { get; set; } | 获取或设置收取的学费和费用金额。 |
+| [AdjustmentsScholarship](../../aspose.finance.ofx.tax1098/tax1098t_v100/adjustmentsscholarship) { get; set; } | 获取或设置奖学金或助学金的调整。 |
+| [BilledExpense](../../aspose.finance.ofx.tax1098/tax1098t_v100/billedexpense) { get; set; } | 获取或设置学杂费的金额。 |
 | [ChangeMethod](../../aspose.finance.ofx.tax1098/tax1098t_v100/changemethod) { get; set; } | 获取或设置是否改变上报方式 |
-| [FilerAddress](../../aspose.finance.ofx.tax1098/tax1098t_v100/fileraddress) { get; set; } | 获取或设置[`FilerAddress`](./fileraddress)。 |
+| [FilerAddress](../../aspose.finance.ofx.tax1098/tax1098t_v100/fileraddress) { get; set; } | 获取或设置[`FilerAddress`](./fileraddress). |
 | [FilerId](../../aspose.finance.ofx.tax1098/tax1098t_v100/filerid) { get; set; } | 获取或设置申报者的联邦识别号。 |
 | [Graduate](../../aspose.finance.ofx.tax1098/tax1098t_v100/graduate) { get; set; } | 获取或设置是否研究生。 |
 | [HalfTime](../../aspose.finance.ofx.tax1098/tax1098t_v100/halftime) { get; set; } | 获取或设置是否至少是半日制学生。 |
 | [IncludeJanuaryMarch](../../aspose.finance.ofx.tax1098/tax1098t_v100/includejanuarymarch) { get; set; } | 获取或设置是否包括一月和三月的金额。 |
 | [InsuranceReimbursement](../../aspose.finance.ofx.tax1098/tax1098t_v100/insurancereimbursement) { get; set; } | 获取或设置保险报销/退款。 |
-| [QualifiedTuition](../../aspose.finance.ofx.tax1098/tax1098t_v100/qualifiedtuition) { get; set; } | 获取或设置收到的合格学费和费用的付款。 |
+| [QualifiedTuition](../../aspose.finance.ofx.tax1098/tax1098t_v100/qualifiedtuition) { get; set; } | 获取或设置收到的合格学杂费。 |
 | [Scholarships](../../aspose.finance.ofx.tax1098/tax1098t_v100/scholarships) { get; set; } | 获取或设置奖学金或助学金。 |
-| [ServerId](../../aspose.finance.ofx.tax1098/tax1098t_v100/serverid) { get; set; } | 获取或设置主机服务器分配给表单的ID。 |
-| [StudentAddress](../../aspose.finance.ofx.tax1098/tax1098t_v100/studentaddress) { get; set; } | 获取或设置[`StudentAddress`](./studentaddress)。 |
+| [ServerId](../../aspose.finance.ofx.tax1098/tax1098t_v100/serverid) { get; set; } | 获取或设置宿主服务器分配给表单的ID。 |
+| [StudentAddress](../../aspose.finance.ofx.tax1098/tax1098t_v100/studentaddress) { get; set; } | 获取或设置[`StudentAddress`](./studentaddress). |
 | [StudentSocialSecurityNumber](../../aspose.finance.ofx.tax1098/tax1098t_v100/studentsocialsecuritynumber) { get; set; } | 获取或设置学生的社会安全号码。 |
 | [TaxYear](../../aspose.finance.ofx.tax1098/tax1098t_v100/taxyear) { get; set; } | 获取或设置此表单的纳税年度，格式为“YYYY”。 |
 

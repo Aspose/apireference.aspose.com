@@ -18,20 +18,20 @@ public class BankMessageSetV1 : AbstractMessageSetVersion
 
 | 姓名 | 描述 |
 | --- | --- |
-| [BankMessageSetV1](bankmessagesetv1)() | 初始化[`BankMessageSetV1`](../bankmessagesetv1)类的新实例。 |
+| [BankMessageSetV1](bankmessagesetv1)() | 初始化一个新的实例[`BankMessageSetV1`](../bankmessagesetv1)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
 | [ClosingAvailable](../../aspose.finance.ofx.profile/bankmessagesetv1/closingavailable) { get; set; } | 获取或设置结帐信息是否可用 |
-| [EmailProfile](../../aspose.finance.ofx.profile/bankmessagesetv1/emailprofile) { get; set; } | 获取或设置[`EmailProfile`](./emailprofile)。 |
-| [ImageProfile](../../aspose.finance.ofx.profile/bankmessagesetv1/imageprofile) { get; set; } | 获取或设置[`ImageProfile`](./imageprofile)。 |
+| [EmailProfile](../../aspose.finance.ofx.profile/bankmessagesetv1/emailprofile) { get; set; } | 获取或设置[`EmailProfile`](./emailprofile). |
+| [ImageProfile](../../aspose.finance.ofx.profile/bankmessagesetv1/imageprofile) { get; set; } | 获取或设置[`ImageProfile`](./imageprofile). |
 | [InvalidAccountTypes](../../aspose.finance.ofx.profile/bankmessagesetv1/invalidaccounttypes) { get; set; } | 获取或设置不支持的账户类型集合。 |
-| [MessageSetCore](../../aspose.finance.ofx.profile/abstractmessagesetversion/messagesetcore) { get; set; } | 获取或设置[`MessageSetCore`](../abstractmessagesetversion/messagesetcore)。 |
-| [PendingAvailable](../../aspose.finance.ofx.profile/bankmessagesetv1/pendingavailable) { get; set; } | 获取或设置待处理事务下载支持标志，默认为false。 |
-| [StopCheckProfile](../../aspose.finance.ofx.profile/bankmessagesetv1/stopcheckprofile) { get; set; } | 获取或设置[`StopCheckProfile`](./stopcheckprofile)。 |
-| [TransferProfile](../../aspose.finance.ofx.profile/bankmessagesetv1/transferprofile) { get; set; } | 获取或设置[`TransferProfile`](./transferprofile)。 |
+| [MessageSetCore](../../aspose.finance.ofx.profile/abstractmessagesetversion/messagesetcore) { get; set; } | 获取或设置[`MessageSetCore`](../abstractmessagesetversion/messagesetcore). |
+| [PendingAvailable](../../aspose.finance.ofx.profile/bankmessagesetv1/pendingavailable) { get; set; } | 获取或设置挂起交易下载支持标志，默认为false。 |
+| [StopCheckProfile](../../aspose.finance.ofx.profile/bankmessagesetv1/stopcheckprofile) { get; set; } | 获取或设置[`StopCheckProfile`](./stopcheckprofile). |
+| [TransferProfile](../../aspose.finance.ofx.profile/bankmessagesetv1/transferprofile) { get; set; } | 获取或设置[`TransferProfile`](./transferprofile). |
 
 ### 也可以看看
 

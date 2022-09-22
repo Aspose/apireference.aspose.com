@@ -1,14 +1,14 @@
 ---
 title: BillPaymentStatusCounts
 second_title: Справочник по API Aspose.Finance для .NET
-description: Статус оплаты счетов Класс счетчиков.
+description: Класс счетчиков статуса платежа по счету.
 type: docs
 weight: 1450
 url: /ru/net/aspose.finance.ofx.billerdelivery/billpaymentstatuscounts/
 ---
 ## BillPaymentStatusCounts class
 
-Статус оплаты счетов Класс счетчиков.
+Класс счетчиков статуса платежа по счету.
 
 ```csharp
 public class BillPaymentStatusCounts
@@ -18,7 +18,7 @@ public class BillPaymentStatusCounts
 
 | Имя | Описание |
 | --- | --- |
-| [BillPaymentStatusCounts](billpaymentstatuscounts)() | Инициализирует новый экземпляр класса[`BillPaymentStatusCounts`](../billpaymentstatuscounts). |
+| [BillPaymentStatusCounts](billpaymentstatuscounts)() | Инициализирует новый экземпляр[`BillPaymentStatusCounts`](../billpaymentstatuscounts) класс. |
 
 ## Характеристики
 

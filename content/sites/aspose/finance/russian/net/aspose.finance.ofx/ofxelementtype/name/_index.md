@@ -1,14 +1,14 @@
 ---
 title: Name
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает понятное отображаемое имя пользовательского элемента
+description: Получает или задает понятное отображаемое имя для пользовательского элемента element
 type: docs
 weight: 20
 url: /ru/net/aspose.finance.ofx/ofxelementtype/name/
 ---
 ## OfxElementType.Name property
 
-Получает или задает понятное отображаемое имя пользовательского элемента
+Получает или задает понятное отображаемое имя для пользовательского элемента element
 
 ```csharp
 public string Name { get; set; }

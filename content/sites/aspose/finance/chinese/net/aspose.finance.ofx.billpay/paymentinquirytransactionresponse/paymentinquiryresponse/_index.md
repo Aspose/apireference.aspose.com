@@ -1,14 +1,14 @@
 ---
 title: PaymentInquiryResponse
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置PaymentInquiryResponseaspose.finance.ofx.billpay/paymentinquirytransactionresponse/paymentinquiryresponse
+description: 获取或设置PaymentInquiryResponseaspose.finance.ofx.billpay/paymentinquirytransactionresponse/paymentinquiryresponse.
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.ofx.billpay/paymentinquirytransactionresponse/paymentinquiryresponse/
 ---
 ## PaymentInquiryTransactionResponse.PaymentInquiryResponse property
 
-获取或设置`PaymentInquiryResponse`。
+获取或设置`PaymentInquiryResponse`.
 
 ```csharp
 public PaymentInquiryResponse PaymentInquiryResponse { get; set; }

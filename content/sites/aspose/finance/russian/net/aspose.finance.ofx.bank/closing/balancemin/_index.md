@@ -1,14 +1,14 @@
 ---
 title: BalanceMin
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает минимальный остаток в отчетном периоде.
+description: Получает или задает минимальный баланс в отчетном периоде.
 type: docs
 weight: 30
 url: /ru/net/aspose.finance.ofx.bank/closing/balancemin/
 ---
 ## Closing.BalanceMin property
 
-Получает или задает минимальный остаток в отчетном периоде.
+Получает или задает минимальный баланс в отчетном периоде.
 
 ```csharp
 public string BalanceMin { get; set; }

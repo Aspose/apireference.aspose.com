@@ -18,7 +18,7 @@ public class OtherEnroll
 
 | Имя | Описание |
 | --- | --- |
-| [OtherEnroll](otherenroll)() | Инициализирует новый экземпляр класса[`OtherEnroll`](../otherenroll). |
+| [OtherEnroll](otherenroll)() | Инициализирует новый экземпляр[`OtherEnroll`](../otherenroll) класс. |
 
 ## Характеристики
 

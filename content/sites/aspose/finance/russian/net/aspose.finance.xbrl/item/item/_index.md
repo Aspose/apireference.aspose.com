@@ -1,14 +1,14 @@
 ---
 title: Item
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаItemaspose.finance.xbrl/item.
+description: Инициализирует новый экземплярItemaspose.finance.xbrl/item класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.xbrl/item/item/
 ---
 ## Item constructor
 
-Инициализирует новый экземпляр класса[`Item`](../../item).
+Инициализирует новый экземпляр[`Item`](../../item) класс.
 
 ```csharp
 public Item(Concept concept)

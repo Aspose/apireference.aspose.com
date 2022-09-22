@@ -1,14 +1,14 @@
 ---
 title: EmailMessageSetV1
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置EmailMessageSetV1aspose.finance.ofx.profile/emailmessageset/emailmessagesetv1
+description: 获取或设置EmailMessageSetV1aspose.finance.ofx.profile/emailmessageset/emailmessagesetv1.
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.ofx.profile/emailmessageset/emailmessagesetv1/
 ---
 ## EmailMessageSet.EmailMessageSetV1 property
 
-获取或设置`EmailMessageSetV1`。
+获取或设置`EmailMessageSetV1`.
 
 ```csharp
 public EmailMessageSetV1 EmailMessageSetV1 { get; set; }

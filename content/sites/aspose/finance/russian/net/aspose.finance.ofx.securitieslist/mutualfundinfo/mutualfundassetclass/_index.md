@@ -1,14 +1,14 @@
 ---
 title: MutualFundAssetClass
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает разбивку классов активов для взаимного фонда.
+description: Получает или задает разбивку класса активов для взаимного фонда.
 type: docs
 weight: 30
 url: /ru/net/aspose.finance.ofx.securitieslist/mutualfundinfo/mutualfundassetclass/
 ---
 ## MutualFundInfo.MutualFundAssetClass property
 
-Получает или задает разбивку классов активов для взаимного фонда.
+Получает или задает разбивку класса активов для взаимного фонда.
 
 ```csharp
 public List<Portion> MutualFundAssetClass { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: PresentmentCounts
 second_title: Aspose.Finance for .NET API 参考
-description: 比尔计数课
+description: 票据计数类.
 type: docs
 weight: 1600
 url: /zh/net/aspose.finance.ofx.billerdelivery/presentmentcounts/
 ---
 ## PresentmentCounts class
 
-比尔计数课。
+票据计数类.
 
 ```csharp
 public class PresentmentCounts
@@ -18,14 +18,14 @@ public class PresentmentCounts
 
 | 姓名 | 描述 |
 | --- | --- |
-| [PresentmentCounts](presentmentcounts)() | 初始化[`PresentmentCounts`](../presentmentcounts)类的新实例。 |
+| [PresentmentCounts](presentmentcounts)() | 初始化一个新的实例[`PresentmentCounts`](../presentmentcounts)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [BillPaymentStatusCounts](../../aspose.finance.ofx.billerdelivery/presentmentcounts/billpaymentstatuscounts) { get; set; } | 获取或设置[`BillPaymentStatusCounts`](../billpaymentstatuscounts)的集合。 |
-| [BillStatusCounts](../../aspose.finance.ofx.billerdelivery/presentmentcounts/billstatuscounts) { get; set; } | 获取或设置[`BillStatusCounts`](../billstatuscounts)的集合。 |
+| [BillPaymentStatusCounts](../../aspose.finance.ofx.billerdelivery/presentmentcounts/billpaymentstatuscounts) { get; set; } | 获取或设置的集合[`BillPaymentStatusCounts`](../billpaymentstatuscounts). |
+| [BillStatusCounts](../../aspose.finance.ofx.billerdelivery/presentmentcounts/billstatuscounts) { get; set; } | 获取或设置的集合[`BillStatusCounts`](../billstatuscounts). |
 
 ### 也可以看看
 

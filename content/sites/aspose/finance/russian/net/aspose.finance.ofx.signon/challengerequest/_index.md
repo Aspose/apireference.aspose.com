@@ -18,7 +18,7 @@ public class ChallengeRequest
 
 | Имя | Описание |
 | --- | --- |
-| [ChallengeRequest](challengerequest)() | Инициализирует новый экземпляр класса[`ChallengeRequest`](../challengerequest). |
+| [ChallengeRequest](challengerequest)() | Инициализирует новый экземпляр[`ChallengeRequest`](../challengerequest) класс. |
 
 ## Характеристики
 

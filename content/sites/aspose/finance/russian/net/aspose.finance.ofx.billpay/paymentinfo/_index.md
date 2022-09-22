@@ -1,14 +1,14 @@
 ---
 title: PaymentInfo
 second_title: Справочник по API Aspose.Finance для .NET
-description: Класс Payment Information используется для указания подробной платежной информации. Он используется как для разовых платежей так и для регулярных платежей.
+description: Класс Информация о платеже используется для указания подробной информации о платеже. Он используется как для разовых платежей так и для регулярных платежей.
 type: docs
 weight: 1070
 url: /ru/net/aspose.finance.ofx.billpay/paymentinfo/
 ---
 ## PaymentInfo class
 
-Класс Payment Information используется для указания подробной платежной информации. Он используется как для разовых платежей, так и для регулярных платежей.
+Класс «Информация о платеже» используется для указания подробной информации о платеже. Он используется как для разовых платежей, так и для регулярных платежей.
 
 ```csharp
 public class PaymentInfo
@@ -18,24 +18,24 @@ public class PaymentInfo
 
 | Имя | Описание |
 | --- | --- |
-| [PaymentInfo](paymentinfo)() | Инициализирует новый экземпляр класса[`PaymentInfo`](../paymentinfo). |
+| [PaymentInfo](paymentinfo)() | Инициализирует новый экземпляр[`PaymentInfo`](../paymentinfo) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [BankAccountFrom](../../aspose.finance.ofx.billpay/paymentinfo/bankaccountfrom) { get; set; } | Получает или задает значение из[`BankAccount`](../../aspose.finance.ofx/bankaccount). |
-| [BankAccountTo](../../aspose.finance.ofx.billpay/paymentinfo/bankaccountto) { get; set; } | Получает или задает значение[`BankAccount`](../../aspose.finance.ofx/bankaccount). |
-| [BillPubInfo](../../aspose.finance.ofx.billpay/paymentinfo/billpubinfo) { get; set; } | Получает или задает[`BillPubInfo`](./billpubinfo). |
+| [BankAccountFrom](../../aspose.finance.ofx.billpay/paymentinfo/bankaccountfrom) { get; set; } | Получает или задает из[`BankAccount`](../../aspose.finance.ofx/bankaccount) . |
+| [BankAccountTo](../../aspose.finance.ofx.billpay/paymentinfo/bankaccountto) { get; set; } | Получает или задает значение[`BankAccount`](../../aspose.finance.ofx/bankaccount) . |
+| [BillPubInfo](../../aspose.finance.ofx.billpay/paymentinfo/billpubinfo) { get; set; } | Получает или задает[`BillPubInfo`](./billpubinfo) . |
 | [BillReferenceInformation](../../aspose.finance.ofx.billpay/paymentinfo/billreferenceinformation) { get; set; } | Получает или задает справочную информацию, предоставленную биллером при оплате счета, если она доступна. |
-| [DueDate](../../aspose.finance.ofx.billpay/paymentinfo/duedate) { get; set; } | Получает или задает срок платежа или дату, до которой платеж должен быть получен получателем. |
-| [ExtendedPayments](../../aspose.finance.ofx.billpay/paymentinfo/extendedpayments) { get; set; } | Получает или задает коллекцию[`ExtendedPayment`](../extendedpayment). |
+| [DueDate](../../aspose.finance.ofx.billpay/paymentinfo/duedate) { get; set; } | Получает или задает дату платежа или дату, до которой платеж должен быть получен получателем платежа. |
+| [ExtendedPayments](../../aspose.finance.ofx.billpay/paymentinfo/extendedpayments) { get; set; } | Получает или задает коллекцию[`ExtendedPayment`](../extendedpayment) . |
 | [Memo](../../aspose.finance.ofx.billpay/paymentinfo/memo) { get; set; } | Получает или устанавливает сообщение от пользователя получателю платежа. |
-| [Payee](../../aspose.finance.ofx.billpay/paymentinfo/payee) { get; set; } | Получает или задает полную платежную информацию[`Payee`](./payee). |
-| [PayeeAccount](../../aspose.finance.ofx.billpay/paymentinfo/payeeaccount) { get; set; } | Получает или задает номер учетной записи пользователя у получателя платежа. |
+| [Payee](../../aspose.finance.ofx.billpay/paymentinfo/payee) { get; set; } | Получает или задает полный[`Payee`](./payee) платежная информация. |
+| [PayeeAccount](../../aspose.finance.ofx.billpay/paymentinfo/payeeaccount) { get; set; } | Получает или устанавливает номер учетной записи пользователя с получателем платежа. |
 | [PayeeId](../../aspose.finance.ofx.billpay/paymentinfo/payeeid) { get; set; } | Получает или задает идентификатор сервера получателя платежа (обязателен, если назначен). |
-| [PayeeListId](../../aspose.finance.ofx.billpay/paymentinfo/payeelistid) { get; set; } | Получает или задает идентификатор списка получателей платежей (обязательно, если назначен), |
-| [TransferAmount](../../aspose.finance.ofx.billpay/paymentinfo/transferamount) { get; set; } | Получает или задает сумму платежа. |
+| [PayeeListId](../../aspose.finance.ofx.billpay/paymentinfo/payeelistid) { get; set; } | Получает или задает идентификатор списка получателей платежей (обязателен, если назначен), |
+| [TransferAmount](../../aspose.finance.ofx.billpay/paymentinfo/transferamount) { get; set; } | Получает или устанавливает сумму платежа. |
 
 ### Смотрите также
 

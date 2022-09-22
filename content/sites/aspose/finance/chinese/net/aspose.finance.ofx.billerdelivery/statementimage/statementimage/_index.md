@@ -1,14 +1,14 @@
 ---
 title: StatementImage
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化StatementImageaspose.finance.ofx.billerdelivery/statementimage类的新实例
+description: 初始化一个新的实例StatementImageaspose.finance.ofx.billerdelivery/statementimage类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.billerdelivery/statementimage/statementimage/
 ---
 ## StatementImage constructor
 
-初始化[`StatementImage`](../../statementimage)类的新实例。
+初始化一个新的实例[`StatementImage`](../../statementimage)类.
 
 ```csharp
 public StatementImage()

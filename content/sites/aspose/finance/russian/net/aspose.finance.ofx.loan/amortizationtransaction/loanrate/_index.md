@@ -1,14 +1,14 @@
 ---
 title: LoanRate
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задаетLoanRateTypeaspose.finance.ofx/loanratetype.
+description: Получает или задаетLoanRateTypeaspose.finance.ofx/loanratetype .
 type: docs
 weight: 40
 url: /ru/net/aspose.finance.ofx.loan/amortizationtransaction/loanrate/
 ---
 ## AmortizationTransaction.LoanRate property
 
-Получает или задает[`LoanRateType`](../../../aspose.finance.ofx/loanratetype).
+Получает или задает[`LoanRateType`](../../../aspose.finance.ofx/loanratetype) .
 
 ```csharp
 public LoanRateType LoanRate { get; set; }

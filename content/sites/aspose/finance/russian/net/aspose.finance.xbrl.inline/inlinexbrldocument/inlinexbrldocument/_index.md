@@ -1,14 +1,14 @@
 ---
 title: InlineXbrlDocument
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаInlineXbrlDocumentaspose.finance.xbrl.inline/inlinexbrldocumentи открывает файл.
+description: Инициализирует новый экземплярInlineXbrlDocumentaspose.finance.xbrl.inline/inlinexbrldocument class и откройте файл.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.xbrl.inline/inlinexbrldocument/inlinexbrldocument/
 ---
 ## InlineXbrlDocument constructor
 
-Инициализирует новый экземпляр класса[`InlineXbrlDocument`](../../inlinexbrldocument)и открывает файл.
+Инициализирует новый экземпляр[`InlineXbrlDocument`](../../inlinexbrldocument) class и откройте файл.
 
 ```csharp
 public InlineXbrlDocument(string fileName)

@@ -1,7 +1,7 @@
 ---
 title: Penalty
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает сумму удержанную из-за штрафа
+description: Получает или задает сумму удержанную изза штрафа
 type: docs
 weight: 110
 url: /ru/net/aspose.finance.ofx.investment/investmentsell/penalty/

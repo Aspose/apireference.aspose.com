@@ -1,14 +1,14 @@
 ---
 title: ArcroleUri
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает URI роли дуги вArcroleTypeaspose.finance.xbrl/arcroletype.
+description: Получает URI роли дуги вArcroleTypeaspose.finance.xbrl/arcroletype .
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.xbrl/arcroletype/arcroleuri/
 ---
 ## ArcroleType.ArcroleUri property
 
-Получает URI роли дуги в[`ArcroleType`](../../arcroletype).
+Получает URI роли дуги в[`ArcroleType`](../../arcroletype) .
 
 ```csharp
 public Uri ArcroleUri { get; set; }

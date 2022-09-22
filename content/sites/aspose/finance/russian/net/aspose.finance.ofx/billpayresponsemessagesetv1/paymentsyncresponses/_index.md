@@ -1,14 +1,14 @@
 ---
 title: PaymentSyncResponses
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает коллекциюPaymentSyncResponseaspose.finance.ofx.billpay/paymentsyncresponse.
+description: Получает или задает коллекциюPaymentSyncResponseaspose.finance.ofx.billpay/paymentsyncresponse .
 type: docs
 weight: 70
 url: /ru/net/aspose.finance.ofx/billpayresponsemessagesetv1/paymentsyncresponses/
 ---
 ## BillPayResponseMessageSetV1.PaymentSyncResponses property
 
-Получает или задает коллекцию[`PaymentSyncResponse`](../../../aspose.finance.ofx.billpay/paymentsyncresponse).
+Получает или задает коллекцию[`PaymentSyncResponse`](../../../aspose.finance.ofx.billpay/paymentsyncresponse) .
 
 ```csharp
 public List<PaymentSyncResponse> PaymentSyncResponses { get; set; }

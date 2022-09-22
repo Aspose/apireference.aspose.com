@@ -1,14 +1,14 @@
 ---
 title: MailSupport
 second_title: Справочник по API Aspose.Finance для .NET
-description: Истинно если сервер поддерживает запросMailRequestaspose.finance.ofx.email/mailrequest. False если сервер поддерживает только запросMailSyncRequestaspose.finance.ofx.email/mailsyncrequest.
+description: Истинно если сервер поддерживаетMailRequestaspose.finance.ofx.email/mailrequest запрос. False если сервер поддерживает толькоMailSyncRequestaspose.finance.ofx.email/mailsyncrequest запрос.
 type: docs
 weight: 30
 url: /ru/net/aspose.finance.ofx.profile/emailmessagesetv1/mailsupport/
 ---
 ## EmailMessageSetV1.MailSupport property
 
-Истинно, если сервер поддерживает запрос[`MailRequest`](../../../aspose.finance.ofx.email/mailrequest). False, если сервер поддерживает только запрос[`MailSyncRequest`](../../../aspose.finance.ofx.email/mailsyncrequest).
+Истинно, если сервер поддерживает[`MailRequest`](../../../aspose.finance.ofx.email/mailrequest) запрос. False, если сервер поддерживает только[`MailSyncRequest`](../../../aspose.finance.ofx.email/mailsyncrequest) запрос.
 
 ```csharp
 public bool MailSupport { get; set; }

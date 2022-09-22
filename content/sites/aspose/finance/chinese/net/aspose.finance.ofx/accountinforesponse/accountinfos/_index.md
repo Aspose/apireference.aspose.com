@@ -1,14 +1,14 @@
 ---
 title: AccountInfos
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置AccountInfoaspose.finance.ofx/accountinfo的集合
+description: 获取或设置的集合AccountInfoaspose.finance.ofx/accountinfo.
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.ofx/accountinforesponse/accountinfos/
 ---
 ## AccountInfoResponse.AccountInfos property
 
-获取或设置[`AccountInfo`](../../accountinfo)的集合。
+获取或设置的集合[`AccountInfo`](../../accountinfo).
 
 ```csharp
 public List<AccountInfo> AccountInfos { get; set; }

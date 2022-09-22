@@ -1,14 +1,14 @@
 ---
 title: BillId
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или устанавливает счет от данного биллера
+description: Получает или устанавливает счет от данного biller
 type: docs
 weight: 20
 url: /ru/net/aspose.finance.ofx.billerdelivery/presentmentdeliveryid/billid/
 ---
 ## PresentmentDeliveryId.BillId property
 
-Получает или устанавливает счет от данного биллера
+Получает или устанавливает счет от данного biller
 
 ```csharp
 public string BillId { get; set; }

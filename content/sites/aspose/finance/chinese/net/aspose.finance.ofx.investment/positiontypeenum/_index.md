@@ -1,14 +1,14 @@
 ---
 title: PositionTypeEnum
 second_title: Aspose.Finance for .NET API 参考
-description: 职位类型枚举
+description: 位置类型枚举
 type: docs
 weight: 3420
 url: /zh/net/aspose.finance.ofx.investment/positiontypeenum/
 ---
 ## PositionTypeEnum enumeration
 
-职位类型枚举。
+位置类型枚举。
 
 ```csharp
 public enum PositionTypeEnum
@@ -18,8 +18,8 @@ public enum PositionTypeEnum
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| LONG | `0` | 持有人的期权，多头的所有其他人。 |
-| SHORT | `1` | 选项的编写者，所有其他选项的缩写。 |
+| LONG | `0` | 期权持有人，其他所有持有人。 |
+| SHORT | `1` | 选项的编写器，所有其他的缩写。 |
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: ReferenceRole
 second_title: Справочник по API Aspose.Finance для .NET
-description: Перечисление эталонной роли.
+description: Эталонная роль enum.
 type: docs
 weight: 7950
 url: /ru/net/aspose.finance.xbrl/referencerole/
 ---
 ## ReferenceRole enumeration
 
-Перечисление эталонной роли.
+Эталонная роль enum.
 
 ```csharp
 public enum ReferenceRole

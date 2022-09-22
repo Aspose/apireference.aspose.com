@@ -1,14 +1,14 @@
 ---
 title: PayerStateId
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置付款人的州 ID 号
+description: 获取或设置付款人的状态ID号
 type: docs
 weight: 160
 url: /zh/net/aspose.finance.ofx.tax1099/tax1099misc_v100/payerstateid/
 ---
 ## Tax1099MISC_V100.PayerStateId property
 
-获取或设置付款人的州 ID 号。
+获取或设置付款人的状态ID号。
 
 ```csharp
 public string PayerStateId { get; set; }

@@ -3,7 +3,7 @@ title: TaxW2TransactionRequest
 second_title: Aspose.Finance for .NET API Reference
 description: Tax W2 transaction request class
 type: docs
-weight: 6200
+weight: 6230
 url: /net/aspose.finance.ofx.taxw2/taxw2transactionrequest/
 ---
 ## TaxW2TransactionRequest class

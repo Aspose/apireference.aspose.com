@@ -1,14 +1,14 @@
 ---
 title: Secured
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает способ защиты опции.
+description: Получает или задает способ защиты параметра.
 type: docs
 weight: 50
 url: /ru/net/aspose.finance.ofx.investment/selloption/secured/
 ---
 ## SellOption.Secured property
 
-Получает или задает способ защиты опции.
+Получает или задает способ защиты параметра.
 
 ```csharp
 public SecuredEnum Secured { get; set; }

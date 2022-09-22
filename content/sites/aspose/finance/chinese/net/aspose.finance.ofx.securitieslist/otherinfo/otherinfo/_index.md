@@ -1,14 +1,14 @@
 ---
 title: OtherInfo
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化OtherInfoaspose.finance.ofx.securitieslist/otherinfo类的新实例
+description: 初始化一个新的实例OtherInfoaspose.finance.ofx.securitieslist/otherinfo类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.securitieslist/otherinfo/otherinfo/
 ---
 ## OtherInfo constructor
 
-初始化[`OtherInfo`](../../otherinfo)类的新实例。
+初始化一个新的实例[`OtherInfo`](../../otherinfo)类.
 
 ```csharp
 public OtherInfo()

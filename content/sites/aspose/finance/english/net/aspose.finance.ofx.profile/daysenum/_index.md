@@ -3,7 +3,7 @@ title: DaysEnum
 second_title: Aspose.Finance for .NET API Reference
 description: Day of week enum.
 type: docs
-weight: 4460
+weight: 4480
 url: /net/aspose.finance.ofx.profile/daysenum/
 ---
 ## DaysEnum enumeration

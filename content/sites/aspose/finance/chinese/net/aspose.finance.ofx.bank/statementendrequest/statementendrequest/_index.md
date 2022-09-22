@@ -1,14 +1,14 @@
 ---
 title: StatementEndRequest
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化StatementEndRequestaspose.finance.ofx.bank/statementendrequest类的新实例
+description: 初始化一个新的实例StatementEndRequestaspose.finance.ofx.bank/statementendrequest类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.bank/statementendrequest/statementendrequest/
 ---
 ## StatementEndRequest constructor
 
-初始化[`StatementEndRequest`](../../statementendrequest)类的新实例。
+初始化一个新的实例[`StatementEndRequest`](../../statementendrequest)类.
 
 ```csharp
 public StatementEndRequest()

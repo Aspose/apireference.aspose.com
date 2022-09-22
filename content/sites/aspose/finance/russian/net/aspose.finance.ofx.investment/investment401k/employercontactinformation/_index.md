@@ -1,14 +1,14 @@
 ---
 title: EmployerContactInformation
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает имя контактного лица в работодателе а также любую доступную контактную информацию например номер телефона.
+description: Получает или задает имя контактного лица у работодателя а также любую доступную контактную информацию например номер телефона.
 type: docs
 weight: 70
 url: /ru/net/aspose.finance.ofx.investment/investment401k/employercontactinformation/
 ---
 ## Investment401k.EmployerContactInformation property
 
-Получает или задает имя контактного лица в работодателе, а также любую доступную контактную информацию, например номер телефона.
+Получает или задает имя контактного лица у работодателя, а также любую доступную контактную информацию, например номер телефона.
 
 ```csharp
 public string EmployerContactInformation { get; set; }

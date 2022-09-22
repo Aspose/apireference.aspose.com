@@ -1,14 +1,14 @@
 ---
 title: BillTableStructureResponse
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化BillTableStructureResponseaspose.finance.ofx.billerdelivery/billtablestructureresponse类的新实例
+description: 初始化一个新的实例BillTableStructureResponseaspose.finance.ofx.billerdelivery/billtablestructureresponse类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.billerdelivery/billtablestructureresponse/billtablestructureresponse/
 ---
 ## BillTableStructureResponse constructor
 
-初始化[`BillTableStructureResponse`](../../billtablestructureresponse)类的新实例。
+初始化一个新的实例[`BillTableStructureResponse`](../../billtablestructureresponse)类.
 
 ```csharp
 public BillTableStructureResponse()

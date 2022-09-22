@@ -1,14 +1,14 @@
 ---
 title: ExtendedPayee
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаExtendedPayeeaspose.finance.ofx.billpay/extendedpayee.
+description: Инициализирует новый экземплярExtendedPayeeaspose.finance.ofx.billpay/extendedpayee класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.billpay/extendedpayee/extendedpayee/
 ---
 ## ExtendedPayee constructor
 
-Инициализирует новый экземпляр класса[`ExtendedPayee`](../../extendedpayee).
+Инициализирует новый экземпляр[`ExtendedPayee`](../../extendedpayee) класс.
 
 ```csharp
 public ExtendedPayee()

@@ -3,7 +3,7 @@ title: XbrlInstanceUnitElement
 second_title: Aspose.Finance for .NET API Reference
 description: The class represents xbrl instance unit element.
 type: docs
-weight: 7530
+weight: 7560
 url: /net/aspose.finance.xbrl.dom.xbrlinstance/xbrlinstanceunitelement/
 ---
 ## XbrlInstanceUnitElement class

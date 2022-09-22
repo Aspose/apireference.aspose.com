@@ -18,16 +18,16 @@ public class StatementRequest
 
 | 姓名 | 描述 |
 | --- | --- |
-| [StatementRequest](statementrequest)() | 初始化[`StatementRequest`](../statementrequest)类的新实例。 |
+| [StatementRequest](statementrequest)() | 初始化一个新的实例[`StatementRequest`](../statementrequest)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [BankAccountFrom](../../aspose.finance.ofx.bank/statementrequest/bankaccountfrom) { get; set; } | 获取或设置[`BankAccount`](../../aspose.finance.ofx/bankaccount)的来源。 |
+| [BankAccountFrom](../../aspose.finance.ofx.bank/statementrequest/bankaccountfrom) { get; set; } | 获取或设置 from[`BankAccount`](../../aspose.finance.ofx/bankaccount). |
 | [IncludePending](../../aspose.finance.ofx.bank/statementrequest/includepending) { get; set; } | 获取或设置是否包含待处理事务标志； |
 | [IncludeTransactionImage](../../aspose.finance.ofx.bank/statementrequest/includetransactionimage) { get; set; } | 获取或设置是否包含交易图像信息。 |
-| [IncTransaction](../../aspose.finance.ofx.bank/statementrequest/inctransaction) { get; set; } | 获取或设置[`IncTransaction`](./inctransaction)。 |
+| [IncTransaction](../../aspose.finance.ofx.bank/statementrequest/inctransaction) { get; set; } | 获取或设置[`IncTransaction`](./inctransaction). |
 
 ### 也可以看看
 

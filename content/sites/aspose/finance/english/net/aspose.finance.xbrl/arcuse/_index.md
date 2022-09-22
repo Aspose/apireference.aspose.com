@@ -3,7 +3,7 @@ title: ArcUse
 second_title: Aspose.Finance for .NET API Reference
 description: The arc use enum.
 type: docs
-weight: 6470
+weight: 6500
 url: /net/aspose.finance.xbrl/arcuse/
 ---
 ## ArcUse enumeration

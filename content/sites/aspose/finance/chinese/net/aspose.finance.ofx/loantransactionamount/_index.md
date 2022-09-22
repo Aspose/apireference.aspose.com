@@ -1,14 +1,14 @@
 ---
 title: LoanTransactionAmount
 second_title: Aspose.Finance for .NET API 参考
-description: 贷款交易金额等级
+description: 贷款交易金额类.
 type: docs
 weight: 4130
 url: /zh/net/aspose.finance.ofx/loantransactionamount/
 ---
 ## LoanTransactionAmount class
 
-贷款交易金额等级。
+贷款交易金额类.
 
 ```csharp
 public class LoanTransactionAmount
@@ -18,14 +18,14 @@ public class LoanTransactionAmount
 
 | 姓名 | 描述 |
 | --- | --- |
-| [LoanTransactionAmount](loantransactionamount)() | 初始化[`LoanTransactionAmount`](../loantransactionamount)类的新实例。 |
+| [LoanTransactionAmount](loantransactionamount)() | 初始化一个新的实例[`LoanTransactionAmount`](../loantransactionamount)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [EscrowAmount](../../aspose.finance.ofx/loantransactionamount/escrowamount) { get; set; } | 获取或设置抵押贷款的!:Common.EscrowAmount。 |
-| [Insurance](../../aspose.finance.ofx/loantransactionamount/insurance) { get; set; } | 获取或设置借用的人寿、意外、健康保险。 |
+| [EscrowAmount](../../aspose.finance.ofx/loantransactionamount/escrowamount) { get; set; } | 获取或设置!:Common.EscrowAmount抵押贷款。 |
+| [Insurance](../../aspose.finance.ofx/loantransactionamount/insurance) { get; set; } | 获取或设置贷款人寿、意外、健康保险。 |
 | [InterestAmount](../../aspose.finance.ofx/loantransactionamount/interestamount) { get; set; } | 获取或设置应用于利息的支付金额。 |
 | [PrincipalAmount](../../aspose.finance.ofx/loantransactionamount/principalamount) { get; set; } | 获取或设置应用于本金的支付金额。 |
 

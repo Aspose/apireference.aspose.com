@@ -1,14 +1,14 @@
 ---
 title: StopCheckNumbers
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает коллекциюStopCheckNumberaspose.finance.ofx.bank/stopchecknumber.
+description: Получает или задает коллекциюStopCheckNumberaspose.finance.ofx.bank/stopchecknumber .
 type: docs
 weight: 60
 url: /ru/net/aspose.finance.ofx.bank/stopcheckresponse/stopchecknumbers/
 ---
 ## StopCheckResponse.StopCheckNumbers property
 
-Получает или задает коллекцию[`StopCheckNumber`](../../stopchecknumber).
+Получает или задает коллекцию[`StopCheckNumber`](../../stopchecknumber) .
 
 ```csharp
 public List<StopCheckNumber> StopCheckNumbers { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: MailSyncResponse
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化MailSyncResponseaspose.finance.ofx.email/mailsyncresponse类的新实例
+description: 初始化一个新的实例MailSyncResponseaspose.finance.ofx.email/mailsyncresponse类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.email/mailsyncresponse/mailsyncresponse/
 ---
 ## MailSyncResponse constructor
 
-初始化[`MailSyncResponse`](../../mailsyncresponse)类的新实例。
+初始化一个新的实例[`MailSyncResponse`](../../mailsyncresponse)类.
 
 ```csharp
 public MailSyncResponse()

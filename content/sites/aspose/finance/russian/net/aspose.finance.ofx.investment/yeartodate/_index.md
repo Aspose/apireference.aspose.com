@@ -18,17 +18,17 @@ public class YearToDate
 
 | Имя | Описание |
 | --- | --- |
-| [YearToDate](yeartodate)() | Инициализирует новый экземпляр класса[`YearToDate`](../yeartodate). |
+| [YearToDate](yeartodate)() | Инициализирует новый экземпляр[`YearToDate`](../yeartodate) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [Contributions](../../aspose.finance.ofx.investment/yeartodate/contributions) { get; set; } | Получает или задает[`Contributions`](./contributions). |
-| [Earnings](../../aspose.finance.ofx.investment/yeartodate/earnings) { get; set; } | Получает или задает[`Earnings`](./earnings). |
+| [Contributions](../../aspose.finance.ofx.investment/yeartodate/contributions) { get; set; } | Получает или задает[`Contributions`](./contributions) . |
+| [Earnings](../../aspose.finance.ofx.investment/yeartodate/earnings) { get; set; } | Получает или задает[`Earnings`](./earnings) . |
 | [EndDate](../../aspose.finance.ofx.investment/yeartodate/enddate) { get; set; } | Получает или задает конечную дату для этой текущей информации с начала года. |
 | [StartDate](../../aspose.finance.ofx.investment/yeartodate/startdate) { get; set; } | Получает или задает начальную дату для этого календарного года. |
-| [Withdrawals](../../aspose.finance.ofx.investment/yeartodate/withdrawals) { get; set; } | Получает или задает[`Withdrawals`](./withdrawals). |
+| [Withdrawals](../../aspose.finance.ofx.investment/yeartodate/withdrawals) { get; set; } | Получает или задает[`Withdrawals`](./withdrawals) . |
 
 ### Смотрите также
 

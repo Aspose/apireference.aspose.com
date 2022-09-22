@@ -1,14 +1,14 @@
 ---
 title: ProceedDescription_V100
 second_title: Справочник по API Aspose.Finance для .NET
-description: Налоговая форма 1099-B Класс описания доходов.
+description: Класс описания доходов в налоговой форме 1099B.
 type: docs
 weight: 5940
 url: /ru/net/aspose.finance.ofx.tax1099/proceeddescription_v100/
 ---
 ## ProceedDescription_V100 class
 
-Налоговая форма 1099-B Класс описания доходов.
+Класс описания доходов в налоговой форме 1099-B.
 
 ```csharp
 public class ProceedDescription_V100
@@ -18,35 +18,35 @@ public class ProceedDescription_V100
 
 | Имя | Описание |
 | --- | --- |
-| [ProceedDescription_V100](proceeddescription_v100)() | Инициализирует новый экземпляр класса[`ProceedDescription_V100`](../proceeddescription_v100). |
+| [ProceedDescription_V100](proceeddescription_v100)() | Инициализирует новый экземпляр[`ProceedDescription_V100`](../proceeddescription_v100) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
 | [AcquiredDate](../../aspose.finance.ofx.tax1099/proceeddescription_v100/acquireddate) { get; set; } | Получает или задает дату получения. |
-| [BasisNotShown](../../aspose.finance.ofx.tax1099/proceeddescription_v100/basisnotshown) { get; set; } | Получает или задает не показанное основание. |
+| [BasisNotShown](../../aspose.finance.ofx.tax1099/proceeddescription_v100/basisnotshown) { get; set; } | Получает или задает не показанную основу. |
 | [CostBasis](../../aspose.finance.ofx.tax1099/proceeddescription_v100/costbasis) { get; set; } | Получает или задает базовую стоимость. Это не всегда может быть известно ФО, если ценная бумага была передана из другого ФО. |
 | [FederalTaxWithheld](../../aspose.finance.ofx.tax1099/proceeddescription_v100/federaltaxwithheld) { get; set; } | Получает или задает удержанный федеральный подоходный налог. |
 | [Form1099BNotReceived](../../aspose.finance.ofx.tax1099/proceeddescription_v100/form1099bnotreceived) { get; set; } | Получает или задает форму 1099-B не получено |
 | [Form8949Code](../../aspose.finance.ofx.tax1099/proceeddescription_v100/form8949code) { get; set; } | Получает или задает соответствующее значение флажка в форме 8949. |
-| [LongShort](../../aspose.finance.ofx.tax1099/proceeddescription_v100/longshort) { get; set; } | Получает или устанавливает длинное и короткое. Указывает период удержания продажи, когда дата приобретения не должна использоваться для расчета срока. |
-| [LossNotAllowed](../../aspose.finance.ofx.tax1099/proceeddescription_v100/lossnotallowed) { get; set; } | Получает или задает недопустимые потери. |
+| [LongShort](../../aspose.finance.ofx.tax1099/proceeddescription_v100/longshort) { get; set; } | Получает или устанавливает длинное и короткое. Указывает период удержания продажи, когда дату приобретения не следует использовать для расчета срока. |
+| [LossNotAllowed](../../aspose.finance.ofx.tax1099/proceeddescription_v100/lossnotallowed) { get; set; } | Получает или задает недопустимую потерю. |
 | [NoncoveredSecurity](../../aspose.finance.ofx.tax1099/proceeddescription_v100/noncoveredsecurity) { get; set; } | Получает или задает непокрываемую ценную бумагу. |
-| [NumberShares](../../aspose.finance.ofx.tax1099/proceeddescription_v100/numbershares) { get; set; } | Получает или задает количество общих ресурсов. |
+| [NumberShares](../../aspose.finance.ofx.tax1099/proceeddescription_v100/numbershares) { get; set; } | Получает или задает количество долей. |
 | [SaleDate](../../aspose.finance.ofx.tax1099/proceeddescription_v100/saledate) { get; set; } | Получает или задает дату продажи. |
 | [SaleDescription](../../aspose.finance.ofx.tax1099/proceeddescription_v100/saledescription) { get; set; } | Получает или задает описание продажи. |
 | [SalesPrice](../../aspose.finance.ofx.tax1099/proceeddescription_v100/salesprice) { get; set; } | Получает или задает цену продажи. Это общая цена продажи, а не цена за акцию. |
 | [SecurityName](../../aspose.finance.ofx.tax1099/proceeddescription_v100/securityname) { get; set; } | Получает или задает имя безопасности. |
 | [StateCode](../../aspose.finance.ofx.tax1099/proceeddescription_v100/statecode) { get; set; } | Получает или задает почтовое сокращение подоходного налога штата. |
-| [StateCode2](../../aspose.finance.ofx.tax1099/proceeddescription_v100/statecode2) { get; set; } | Получает или задает почтовое сокращение подоходного налога второго штата, строка 2. |
+| [StateCode2](../../aspose.finance.ofx.tax1099/proceeddescription_v100/statecode2) { get; set; } | Получает или задает сокращенное почтовое обозначение подоходного налога второго штата, строка 2. |
 | [StateIdNumber](../../aspose.finance.ofx.tax1099/proceeddescription_v100/stateidnumber) { get; set; } | Получает или задает идентификационный номер штата плательщика. |
 | [StateIdNumber2](../../aspose.finance.ofx.tax1099/proceeddescription_v100/stateidnumber2) { get; set; } | Получает или задает идентификационный номер штата плательщика, строка 2. |
 | [StateTaxWithheld](../../aspose.finance.ofx.tax1099/proceeddescription_v100/statetaxwithheld) { get; set; } | Получает или задает удержанную сумму подоходного налога штата. |
 | [StateTaxWithheld2](../../aspose.finance.ofx.tax1099/proceeddescription_v100/statetaxwithheld2) { get; set; } | Получает или задает удержанную сумму подоходного налога штата, строка 2. |
 | [VariousDate](../../aspose.finance.ofx.tax1099/proceeddescription_v100/variousdate) { get; set; } | Получает или задает различные даты приобретения. |
-| [WashSale](../../aspose.finance.ofx.tax1099/proceeddescription_v100/washsale) { get; set; } | Получает или задает распродажу стирки. Указывает на то, что продажа регулируется правилами распродажи. |
-| [WashSaleLossDisallowed](../../aspose.finance.ofx.tax1099/proceeddescription_v100/washsalelossdisallowed) { get; set; } | Получает или задает запрещенный убыток от продажи стирки. |
+| [WashSale](../../aspose.finance.ofx.tax1099/proceeddescription_v100/washsale) { get; set; } | Получает или задает распродажу стирки. Указывает, что продажа регулируется правилами распродажи. |
+| [WashSaleLossDisallowed](../../aspose.finance.ofx.tax1099/proceeddescription_v100/washsalelossdisallowed) { get; set; } | Возвращает или задает запрещенный убыток от стирки при продаже. |
 
 ### Смотрите также
 

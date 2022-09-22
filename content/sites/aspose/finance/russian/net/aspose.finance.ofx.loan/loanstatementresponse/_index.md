@@ -1,14 +1,14 @@
 ---
 title: LoanStatementResponse
 second_title: Справочник по API Aspose.Finance для .NET
-description: Класс запроса загрузки ссуды.
+description: Класс запроса на загрузку кредита.
 type: docs
 weight: 3950
 url: /ru/net/aspose.finance.ofx.loan/loanstatementresponse/
 ---
 ## LoanStatementResponse class
 
-Класс запроса загрузки ссуды.
+Класс запроса на загрузку кредита.
 
 ```csharp
 public class LoanStatementResponse
@@ -18,18 +18,18 @@ public class LoanStatementResponse
 
 | Имя | Описание |
 | --- | --- |
-| [LoanStatementResponse](loanstatementresponse)() | Инициализирует новый экземпляр класса[`LoanStatementResponse`](../loanstatementresponse). |
+| [LoanStatementResponse](loanstatementresponse)() | Инициализирует новый экземпляр[`LoanStatementResponse`](../loanstatementresponse) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [AvailableBalance](../../aspose.finance.ofx.loan/loanstatementresponse/availablebalance) { get; set; } | Получает или задает[`AvailableBalance`](./availablebalance). |
+| [AvailableBalance](../../aspose.finance.ofx.loan/loanstatementresponse/availablebalance) { get; set; } | Получает или задает[`AvailableBalance`](./availablebalance) . |
 | [Currency](../../aspose.finance.ofx.loan/loanstatementresponse/currency) { get; set; } | Получает или задает валюту по умолчанию для выписки. |
-| [LoanAccountFrom](../../aspose.finance.ofx.loan/loanstatementresponse/loanaccountfrom) { get; set; } | Получает или задает значение из[`LoanAccount`](../../aspose.finance.ofx/loanaccount). |
-| [LoanTransactionList](../../aspose.finance.ofx.loan/loanstatementresponse/loantransactionlist) { get; set; } | Получает или задает[`LoanTransactionList`](./loantransactionlist). |
+| [LoanAccountFrom](../../aspose.finance.ofx.loan/loanstatementresponse/loanaccountfrom) { get; set; } | Получает или задает из[`LoanAccount`](../../aspose.finance.ofx/loanaccount) . |
+| [LoanTransactionList](../../aspose.finance.ofx.loan/loanstatementresponse/loantransactionlist) { get; set; } | Получает или задает[`LoanTransactionList`](./loantransactionlist) . |
 | [MarketingInformation](../../aspose.finance.ofx.loan/loanstatementresponse/marketinginformation) { get; set; } | Получает или задает маркетинговую информацию. |
-| [PrincipalBalance](../../aspose.finance.ofx.loan/loanstatementresponse/principalbalance) { get; set; } | Получает или задает[`PrincipalBalanceType`](../../aspose.finance.ofx/principalbalancetype). |
+| [PrincipalBalance](../../aspose.finance.ofx.loan/loanstatementresponse/principalbalance) { get; set; } | Получает или задает[`PrincipalBalanceType`](../../aspose.finance.ofx/principalbalancetype) . |
 
 ### Смотрите также
 

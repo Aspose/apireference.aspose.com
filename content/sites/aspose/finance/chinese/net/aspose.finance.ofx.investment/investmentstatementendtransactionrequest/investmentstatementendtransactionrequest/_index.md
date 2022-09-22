@@ -1,14 +1,14 @@
 ---
 title: InvestmentStatementEndTransactionRequest
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化InvestmentStatementEndTransactionRequestaspose.finance.ofx.investment/investmentstatementendtransactionrequest类的新实例
+description: 初始化一个新的实例InvestmentStatementEndTransactionRequestaspose.finance.ofx.investment/investmentstatementendtransactionrequest类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.investment/investmentstatementendtransactionrequest/investmentstatementendtransactionrequest/
 ---
 ## InvestmentStatementEndTransactionRequest constructor
 
-初始化[`InvestmentStatementEndTransactionRequest`](../../investmentstatementendtransactionrequest)类的新实例。
+初始化一个新的实例[`InvestmentStatementEndTransactionRequest`](../../investmentstatementendtransactionrequest)类.
 
 ```csharp
 public InvestmentStatementEndTransactionRequest()

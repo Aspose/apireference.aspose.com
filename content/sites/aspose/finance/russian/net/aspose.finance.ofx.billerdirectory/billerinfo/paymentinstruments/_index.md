@@ -1,14 +1,14 @@
 ---
 title: PaymentInstruments
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает коллекциюPaymentInstrumentaspose.finance.ofx.billerdirectory/paymentinstrument.
+description: Получает или задает коллекциюPaymentInstrumentaspose.finance.ofx.billerdirectory/paymentinstrument .
 type: docs
 weight: 150
 url: /ru/net/aspose.finance.ofx.billerdirectory/billerinfo/paymentinstruments/
 ---
 ## BillerInfo.PaymentInstruments property
 
-Получает или задает коллекцию[`PaymentInstrument`](../../paymentinstrument).
+Получает или задает коллекцию[`PaymentInstrument`](../../paymentinstrument) .
 
 ```csharp
 public List<PaymentInstrument> PaymentInstruments { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: AvailableBalance
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置AvailableBalanceaspose.finance.ofx.creditcard/creditcardstatementresponse/availablebalance的来源
+description: 获取或设置 fromAvailableBalanceaspose.finance.ofx.creditcard/creditcardstatementresponse/availablebalance.
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.ofx.creditcard/creditcardstatementresponse/availablebalance/
 ---
 ## CreditCardStatementResponse.AvailableBalance property
 
-获取或设置`AvailableBalance`的来源。
+获取或设置 from`AvailableBalance`.
 
 ```csharp
 public AvailableBalance AvailableBalance { get; set; }

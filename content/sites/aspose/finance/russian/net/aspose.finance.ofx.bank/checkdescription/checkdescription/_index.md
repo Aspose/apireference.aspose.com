@@ -1,14 +1,14 @@
 ---
 title: CheckDescription
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаCheckDescriptionaspose.finance.ofx.bank/checkdescription.
+description: Инициализирует новый экземплярCheckDescriptionaspose.finance.ofx.bank/checkdescription класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.bank/checkdescription/checkdescription/
 ---
 ## CheckDescription constructor
 
-Инициализирует новый экземпляр класса[`CheckDescription`](../../checkdescription).
+Инициализирует новый экземпляр[`CheckDescription`](../../checkdescription) класс.
 
 ```csharp
 public CheckDescription()

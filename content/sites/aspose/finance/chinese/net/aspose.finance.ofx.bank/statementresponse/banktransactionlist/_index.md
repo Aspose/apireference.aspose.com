@@ -1,14 +1,14 @@
 ---
 title: BankTransactionList
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置BankTransactionListaspose.finance.ofx.bank/statementresponse/banktransactionlist的来源
+description: 获取或设置 fromBankTransactionListaspose.finance.ofx.bank/statementresponse/banktransactionlist.
 type: docs
 weight: 50
 url: /zh/net/aspose.finance.ofx.bank/statementresponse/banktransactionlist/
 ---
 ## StatementResponse.BankTransactionList property
 
-获取或设置`BankTransactionList`的来源。
+获取或设置 from`BankTransactionList`.
 
 ```csharp
 public BankTransactionList BankTransactionList { get; set; }

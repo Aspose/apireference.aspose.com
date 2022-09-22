@@ -3,7 +3,7 @@ title: XbrlExceptionType
 second_title: Справочник по API Aspose.Finance для .NET
 description: Представляет код пользовательского типа исключения.
 type: docs
-weight: 8180
+weight: 8190
 url: /ru/net/aspose.finance.xbrl/xbrlexceptiontype/
 ---
 ## XbrlExceptionType enumeration
@@ -18,7 +18,7 @@ public enum XbrlExceptionType
 
 | Имя | Ценность | Описание |
 | --- | --- | --- |
-| InvalidData | `0` | Неверные данные. |
+| InvalidData | `0` | Недопустимые данные. |
 
 ### Смотрите также
 

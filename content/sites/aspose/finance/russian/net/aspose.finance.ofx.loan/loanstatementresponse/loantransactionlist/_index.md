@@ -1,14 +1,14 @@
 ---
 title: LoanTransactionList
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задаетLoanTransactionListaspose.finance.ofx.loan/loanstatementresponse/loantransactionlist.
+description: Получает или задаетLoanTransactionListaspose.finance.ofx.loan/loanstatementresponse/loantransactionlist .
 type: docs
 weight: 50
 url: /ru/net/aspose.finance.ofx.loan/loanstatementresponse/loantransactionlist/
 ---
 ## LoanStatementResponse.LoanTransactionList property
 
-Получает или задает`LoanTransactionList`.
+Получает или задает`LoanTransactionList` .
 
 ```csharp
 public LoanTransactionList LoanTransactionList { get; set; }

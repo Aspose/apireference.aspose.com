@@ -1,14 +1,14 @@
 ---
 title: TAX1098s
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает коллекциюTax1098_V100aspose.finance.ofx.tax1098/tax1098_v100илиTax1098T_V100aspose.finance.ofx.tax1098/tax1098t_v100илиTax1098E_V100aspose.finance.ofx.tax1098/tax1098e_v100.
+description: Получает или задает коллекциюTax1098_V100aspose.finance.ofx.tax1098/tax1098_v100 или жеTax1098T_V100aspose.finance.ofx.tax1098/tax1098t_v100 или жеTax1098E_V100aspose.finance.ofx.tax1098/tax1098e_v100 .
 type: docs
 weight: 40
 url: /ru/net/aspose.finance.ofx.tax1098/tax1098response/tax1098s/
 ---
 ## Tax1098Response.TAX1098s property
 
-Получает или задает коллекцию[`Tax1098_V100`](../../tax1098_v100)или[`Tax1098T_V100`](../../tax1098t_v100)или[`Tax1098E_V100`](../../tax1098e_v100).
+Получает или задает коллекцию[`Tax1098_V100`](../../tax1098_v100) или же[`Tax1098T_V100`](../../tax1098t_v100) или же[`Tax1098E_V100`](../../tax1098e_v100) .
 
 ```csharp
 public List<AbstractTax1098> TAX1098s { get; set; }

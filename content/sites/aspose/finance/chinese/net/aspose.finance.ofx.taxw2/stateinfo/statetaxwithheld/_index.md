@@ -1,14 +1,14 @@
 ---
 title: StateTaxWithheld
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置预扣的州所得税
+description: 获取或设置扣缴的州所得税
 type: docs
 weight: 40
 url: /zh/net/aspose.finance.ofx.taxw2/stateinfo/statetaxwithheld/
 ---
 ## StateInfo.StateTaxWithheld property
 
-获取或设置预扣的州所得税。
+获取或设置扣缴的州所得税。
 
 ```csharp
 public string StateTaxWithheld { get; set; }

@@ -18,11 +18,11 @@ public class InlineRelationship
 
 | Имя | Описание |
 | --- | --- |
-| [Arcrole](../../aspose.finance.xbrl.inline/inlinerelationship/arcrole) { get; set; } | Получает или задает роль дуги[`InlineRelationship`](../inlinerelationship). |
-| [FromRefsId](../../aspose.finance.xbrl.inline/inlinerelationship/fromrefsid) { get; set; } | Получает или задает исходные идентификаторы ссылок[`InlineRelationship`](../inlinerelationship). |
-| [LinkRole](../../aspose.finance.xbrl.inline/inlinerelationship/linkrole) { get; set; } | Получает или задает роль ссылки[`InlineRelationship`](../inlinerelationship). |
-| [Order](../../aspose.finance.xbrl.inline/inlinerelationship/order) { get; set; } | Получает или задает порядок[`InlineRelationship`](../inlinerelationship). |
-| [ToRefsId](../../aspose.finance.xbrl.inline/inlinerelationship/torefsid) { get; set; } | Получает или задает идентификаторы ссылок[`InlineRelationship`](../inlinerelationship). |
+| [Arcrole](../../aspose.finance.xbrl.inline/inlinerelationship/arcrole) { get; set; } | Получает или задает роль дуги[`InlineRelationship`](../inlinerelationship) . |
+| [FromRefsId](../../aspose.finance.xbrl.inline/inlinerelationship/fromrefsid) { get; set; } | Получает или задает исходные идентификаторы ссылок[`InlineRelationship`](../inlinerelationship) . |
+| [LinkRole](../../aspose.finance.xbrl.inline/inlinerelationship/linkrole) { get; set; } | Получает или задает роль ссылки[`InlineRelationship`](../inlinerelationship) . |
+| [Order](../../aspose.finance.xbrl.inline/inlinerelationship/order) { get; set; } | Получает или задает порядок[`InlineRelationship`](../inlinerelationship) . |
+| [ToRefsId](../../aspose.finance.xbrl.inline/inlinerelationship/torefsid) { get; set; } | Получает или задает идентификаторы ссылок для[`InlineRelationship`](../inlinerelationship) . |
 
 ### Смотрите также
 

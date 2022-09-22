@@ -18,11 +18,11 @@ public class InlineReferences
 
 | Имя | Описание |
 | --- | --- |
-| [Id](../../aspose.finance.xbrl.inline/inlinereferences/id) { get; set; } | Получает или задает идентификатор[`InlineReferences`](../inlinereferences). |
-| [LinkbaseRefCollection](../../aspose.finance.xbrl.inline/inlinereferences/linkbaserefcollection) { get; } | Получает[`LinkbaseRefCollection`](./linkbaserefcollection)в[`InlineReferences`](../inlinereferences). |
-| [LinkbaseRefs](../../aspose.finance.xbrl.inline/inlinereferences/linkbaserefs) { get; } | Получает коллекцию[`LinkbaseRef`](../../aspose.finance.xbrl/linkbaseref)в[`InlineReferences`](../inlinereferences). |
+| [Id](../../aspose.finance.xbrl.inline/inlinereferences/id) { get; set; } | Получает или задает идентификатор[`InlineReferences`](../inlinereferences) . |
+| [LinkbaseRefCollection](../../aspose.finance.xbrl.inline/inlinereferences/linkbaserefcollection) { get; } | Получает[`LinkbaseRefCollection`](./linkbaserefcollection) в[`InlineReferences`](../inlinereferences) . |
+| [LinkbaseRefs](../../aspose.finance.xbrl.inline/inlinereferences/linkbaserefs) { get; } | Получает коллекцию[`LinkbaseRef`](../../aspose.finance.xbrl/linkbaseref) в[`InlineReferences`](../inlinereferences) . |
 | [SchemaRefs](../../aspose.finance.xbrl.inline/inlinereferences/schemarefs) { get; set; } | Получает коллекцию SchemaRef в[`InlineReferences`](../inlinereferences) |
-| [TargetId](../../aspose.finance.xbrl.inline/inlinereferences/targetid) { get; set; } | Получает или задает целевой идентификатор[`InlineReferences`](../inlinereferences). |
+| [TargetId](../../aspose.finance.xbrl.inline/inlinereferences/targetid) { get; set; } | Получает или задает целевой идентификатор[`InlineReferences`](../inlinereferences) . |
 
 ### Смотрите также
 

@@ -1,14 +1,14 @@
 ---
 title: Items
 second_title: Aspose.Finance for .NET API 参考
-description: 获取 XBRL 实例中Itemaspose.finance.xbrl/item对象的集合
+description: 获取集合Itemaspose.finance.xbrl/item XBRL 实例中的对象
 type: docs
 weight: 50
 url: /zh/net/aspose.finance.xbrl/xbrlinstance/items/
 ---
 ## XbrlInstance.Items property
 
-获取 XBRL 实例中[`Item`](../../item)对象的集合。
+获取集合[`Item`](../../item) XBRL 实例中的对象。
 
 ```csharp
 public List<Item> Items { get; }

@@ -1,14 +1,14 @@
 ---
 title: BuyDebt
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаBuyDebtaspose.finance.ofx.investment/buydebt.
+description: Инициализирует новый экземплярBuyDebtaspose.finance.ofx.investment/buydebt класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.investment/buydebt/buydebt/
 ---
 ## BuyDebt constructor
 
-Инициализирует новый экземпляр класса[`BuyDebt`](../../buydebt).
+Инициализирует новый экземпляр[`BuyDebt`](../../buydebt) класс.
 
 ```csharp
 public BuyDebt()

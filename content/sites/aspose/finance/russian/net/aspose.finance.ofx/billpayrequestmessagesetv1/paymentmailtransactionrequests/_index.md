@@ -1,14 +1,14 @@
 ---
 title: PaymentMailTransactionRequests
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает коллекциюPaymentMailTransactionRequestaspose.finance.ofx.billpay/paymentmailtransactionrequest.
+description: Получает или задает коллекциюPaymentMailTransactionRequestaspose.finance.ofx.billpay/paymentmailtransactionrequest .
 type: docs
 weight: 60
 url: /ru/net/aspose.finance.ofx/billpayrequestmessagesetv1/paymentmailtransactionrequests/
 ---
 ## BillPayRequestMessageSetV1.PaymentMailTransactionRequests property
 
-Получает или задает коллекцию[`PaymentMailTransactionRequest`](../../../aspose.finance.ofx.billpay/paymentmailtransactionrequest).
+Получает или задает коллекцию[`PaymentMailTransactionRequest`](../../../aspose.finance.ofx.billpay/paymentmailtransactionrequest) .
 
 ```csharp
 public List<PaymentMailTransactionRequest> PaymentMailTransactionRequests { get; set; }

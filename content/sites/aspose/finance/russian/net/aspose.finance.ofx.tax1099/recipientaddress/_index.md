@@ -16,7 +16,7 @@ public class RecipientAddress
 
 | Имя | Описание |
 | --- | --- |
-| [RecipientAddress](recipientaddress)() | Инициализирует новый экземпляр класса[`RecipientAddress`](../recipientaddress). |
+| [RecipientAddress](recipientaddress)() | Инициализирует новый экземпляр[`RecipientAddress`](../recipientaddress) класс. |
 
 ## Характеристики
 
@@ -27,7 +27,7 @@ public class RecipientAddress
 | [Address3](../../aspose.finance.ofx.tax1099/recipientaddress/address3) { get; set; } | Получает или задает адрес получателя, строка 3. |
 | [City](../../aspose.finance.ofx.tax1099/recipientaddress/city) { get; set; } | Получает или задает город получателя. |
 | [CountryString](../../aspose.finance.ofx.tax1099/recipientaddress/countrystring) { get; set; } | Получает или задает страну получателя (если не США), не сокращайте. |
-| [PHONE](../../aspose.finance.ofx.tax1099/recipientaddress/phone) { get; set; } | Получает или задает номер телефона получателя. |
+| [PHONE](../../aspose.finance.ofx.tax1099/recipientaddress/phone) { get; set; } | Получает или устанавливает номер телефона получателя. |
 | [PostalCode](../../aspose.finance.ofx.tax1099/recipientaddress/postalcode) { get; set; } | Получает или задает почтовый индекс получателя. |
 | [RecipientName1](../../aspose.finance.ofx.tax1099/recipientaddress/recipientname1) { get; set; } | Получает или задает имя получателя, строка 1. |
 | [RecipientName2](../../aspose.finance.ofx.tax1099/recipientaddress/recipientname2) { get; set; } | Получает или задает имя получателя, строка 2. |

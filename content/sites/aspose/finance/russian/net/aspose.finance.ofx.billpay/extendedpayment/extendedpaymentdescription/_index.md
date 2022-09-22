@@ -1,14 +1,14 @@
 ---
 title: ExtendedPaymentDescription
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает произвольный текст для связи с платежом.
+description: Получает или задает свободный текст для связи с платежом.
 type: docs
 weight: 30
 url: /ru/net/aspose.finance.ofx.billpay/extendedpayment/extendedpaymentdescription/
 ---
 ## ExtendedPayment.ExtendedPaymentDescription property
 
-Получает или задает произвольный текст для связи с платежом.
+Получает или задает свободный текст для связи с платежом.
 
 ```csharp
 public string ExtendedPaymentDescription { get; set; }

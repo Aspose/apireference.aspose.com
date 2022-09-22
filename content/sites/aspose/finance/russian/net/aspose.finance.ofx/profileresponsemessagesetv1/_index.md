@@ -18,13 +18,13 @@ public class ProfileResponseMessageSetV1 : AbstractResponseMessageSet
 
 | Имя | Описание |
 | --- | --- |
-| [ProfileResponseMessageSetV1](profileresponsemessagesetv1)() | Инициализирует новый экземпляр класса[`ProfileResponseMessageSetV1`](../profileresponsemessagesetv1). |
+| [ProfileResponseMessageSetV1](profileresponsemessagesetv1)() | Инициализирует новый экземпляр[`ProfileResponseMessageSetV1`](../profileresponsemessagesetv1) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [ProfileTransactionResponses](../../aspose.finance.ofx/profileresponsemessagesetv1/profiletransactionresponses) { get; set; } | Получает или задает коллекцию[`ProfileTransactionResponse`](../../aspose.finance.ofx.profile/profiletransactionresponse). |
+| [ProfileTransactionResponses](../../aspose.finance.ofx/profileresponsemessagesetv1/profiletransactionresponses) { get; set; } | Получает или задает коллекцию[`ProfileTransactionResponse`](../../aspose.finance.ofx.profile/profiletransactionresponse) . |
 
 ### Смотрите также
 

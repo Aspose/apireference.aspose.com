@@ -1,14 +1,14 @@
 ---
 title: CreditCardAccountFrom
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает значение изBankAccountaspose.finance.ofx/bankaccount.
+description: Получает или задает изBankAccountaspose.finance.ofx/bankaccount .
 type: docs
 weight: 30
 url: /ru/net/aspose.finance.ofx/creditcardaccountinfo/creditcardaccountfrom/
 ---
 ## CreditCardAccountInfo.CreditCardAccountFrom property
 
-Получает или задает значение из[`BankAccount`](../../bankaccount).
+Получает или задает из[`BankAccount`](../../bankaccount) .
 
 ```csharp
 public CreditCardAccount CreditCardAccountFrom { get; set; }

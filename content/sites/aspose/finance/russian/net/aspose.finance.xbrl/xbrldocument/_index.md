@@ -3,7 +3,7 @@ title: XbrlDocument
 second_title: Справочник по API Aspose.Finance для .NET
 description: Документ XBRL содержащий один или несколько экземпляров XBRL.
 type: docs
-weight: 8160
+weight: 8170
 url: /ru/net/aspose.finance.xbrl/xbrldocument/
 ---
 ## XbrlDocument class
@@ -18,21 +18,21 @@ public class XbrlDocument
 
 | Имя | Описание |
 | --- | --- |
-| [XbrlDocument](xbrldocument#constructor)() | Инициализирует новый экземпляр класса XbrlDocument |
+| [XbrlDocument](xbrldocument#constructor)() | Инициализирует новый экземпляр XbrlDocument class |
 | [XbrlDocument](xbrldocument#constructor_1)(string) | Инициализирует новый экземпляр класса XbrlDocument и открывает файл. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [XbrlInstances](../../aspose.finance.xbrl/xbrldocument/xbrlinstances) { get; } | Получает коллекцию экземпляров XBRL |
+| [XbrlInstances](../../aspose.finance.xbrl/xbrldocument/xbrlinstances) { get; } | Получает экземпляр XBRL collection |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
 | [Save](../../aspose.finance.xbrl/xbrldocument/save#save_1)(string) | Создает и сохраняет файл XBRL на диск. |
-| [Save](../../aspose.finance.xbrl/xbrldocument/save#save)(Stream, SaveOptions) | Сохраните XbrlDocument в поток. |
+| [Save](../../aspose.finance.xbrl/xbrldocument/save#save)(Stream, SaveOptions) | Сохраните XbrlDocument в потоке. |
 | [Save](../../aspose.finance.xbrl/xbrldocument/save#save_2)(string, SaveOptions) | Сохраните XbrlDocument на диск. |
 
 ### Смотрите также

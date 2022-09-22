@@ -18,14 +18,14 @@ public class EmailProfile
 
 | 姓名 | 描述 |
 | --- | --- |
-| [EmailProfile](emailprofile)() | 初始化[`EmailProfile`](../emailprofile)类的新实例。 |
+| [EmailProfile](emailprofile)() | 初始化一个新的实例[`EmailProfile`](../emailprofile)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
 | [CanEmail](../../aspose.finance.ofx.profile/emailprofile/canemail) { get; set; } | 获取或设置是否支持通用银行邮箱 |
-| [CanNotify](../../aspose.finance.ofx.profile/emailprofile/cannotify) { get; set; } | 获取或设置服务器是否在同步响应中返回!:DepositMailResponse或!:CheckMailResponse。 |
+| [CanNotify](../../aspose.finance.ofx.profile/emailprofile/cannotify) { get; set; } | 获取或设置服务器是否返回!:DepositMailResponse或者!:CheckMailResponse在同步响应中。 |
 
 ### 也可以看看
 

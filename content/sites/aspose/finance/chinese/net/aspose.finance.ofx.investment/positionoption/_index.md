@@ -1,14 +1,14 @@
 ---
 title: PositionOption
 second_title: Aspose.Finance for .NET API 参考
-description: 投资头寸期权类别
+description: 投资头寸期权类
 type: docs
 weight: 3390
 url: /zh/net/aspose.finance.ofx.investment/positionoption/
 ---
 ## PositionOption class
 
-投资头寸期权类别。
+投资头寸期权类
 
 ```csharp
 public class PositionOption : AbstractPositionBase
@@ -18,13 +18,13 @@ public class PositionOption : AbstractPositionBase
 
 | 姓名 | 描述 |
 | --- | --- |
-| [PositionOption](positionoption)() | 初始化[`PositionOption`](../positionoption)类的新实例。 |
+| [PositionOption](positionoption)() | 初始化一个新的实例[`PositionOption`](../positionoption)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [InvestmentPosition](../../aspose.finance.ofx.investment/abstractpositionbase/investmentposition) { get; set; } | 获取或设置[`InvestmentPosition`](../abstractpositionbase/investmentposition)。 |
+| [InvestmentPosition](../../aspose.finance.ofx.investment/abstractpositionbase/investmentposition) { get; set; } | 获取或设置[`InvestmentPosition`](../abstractpositionbase/investmentposition). |
 | [Secured](../../aspose.finance.ofx.investment/positionoption/secured) { get; set; } | 获取或设置选项的保护方式。 |
 
 ### 也可以看看

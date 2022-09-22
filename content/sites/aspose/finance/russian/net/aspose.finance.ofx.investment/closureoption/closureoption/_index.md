@@ -1,14 +1,14 @@
 ---
 title: ClosureOption
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаClosureOptionaspose.finance.ofx.investment/closureoption.
+description: Инициализирует новый экземплярClosureOptionaspose.finance.ofx.investment/closureoption класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.investment/closureoption/closureoption/
 ---
 ## ClosureOption constructor
 
-Инициализирует новый экземпляр класса[`ClosureOption`](../../closureoption).
+Инициализирует новый экземпляр[`ClosureOption`](../../closureoption) класс.
 
 ```csharp
 public ClosureOption()

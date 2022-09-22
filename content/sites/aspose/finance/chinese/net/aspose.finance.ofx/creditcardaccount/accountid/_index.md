@@ -1,14 +1,14 @@
 ---
 title: AccountId
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置帐户标识符
+description: 获取或设置账户标识符
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.ofx/creditcardaccount/accountid/
 ---
 ## CreditCardAccount.AccountId property
 
-获取或设置帐户标识符。
+获取或设置账户标识符。
 
 ```csharp
 public string AccountId { get; set; }

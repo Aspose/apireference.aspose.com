@@ -1,14 +1,14 @@
 ---
 title: Response
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置RecurringPaymentResponseaspose.finance.ofx.billpay/recurringpaymentresponse或RecurringPaymentModResponseaspose.finance.ofx.billpay/recurringpaymentmodresponse或RecurringPaymentCancelResponseaspose.finance.ofx.billpay/recurringpaymentcancelresponse
+description: 获取或设置RecurringPaymentResponseaspose.finance.ofx.billpay/recurringpaymentresponse或者RecurringPaymentModResponseaspose.finance.ofx.billpay/recurringpaymentmodresponse或者RecurringPaymentCancelResponseaspose.finance.ofx.billpay/recurringpaymentcancelresponse.
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.ofx.billpay/recurringpaymenttransactionresponse/response/
 ---
 ## RecurringPaymentTransactionResponse.Response property
 
-获取或设置[`RecurringPaymentResponse`](../../recurringpaymentresponse)或[`RecurringPaymentModResponse`](../../recurringpaymentmodresponse)或[`RecurringPaymentCancelResponse`](../../recurringpaymentcancelresponse)。
+获取或设置[`RecurringPaymentResponse`](../../recurringpaymentresponse)或者[`RecurringPaymentModResponse`](../../recurringpaymentmodresponse)或者[`RecurringPaymentCancelResponse`](../../recurringpaymentcancelresponse).
 
 ```csharp
 public AbstractRecurringPaymentResponse Response { get; set; }

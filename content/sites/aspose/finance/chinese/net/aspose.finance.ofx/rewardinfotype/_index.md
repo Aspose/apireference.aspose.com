@@ -1,14 +1,14 @@
 ---
 title: RewardInfoType
 second_title: Aspose.Finance for .NET API 参考
-description: 奖励/积分计划当前信息的打开汇总
+description: 奖励/积分计划当前信息的开盘汇总
 type: docs
 weight: 4970
 url: /zh/net/aspose.finance.ofx/rewardinfotype/
 ---
 ## RewardInfoType class
 
-奖励/积分计划当前信息的打开汇总。
+奖励/积分计划当前信息的开盘汇总。
 
 ```csharp
 public class RewardInfoType
@@ -18,7 +18,7 @@ public class RewardInfoType
 
 | 姓名 | 描述 |
 | --- | --- |
-| [RewardInfoType](rewardinfotype)() | 初始化[`RewardInfoType`](../rewardinfotype)类的新实例。 |
+| [RewardInfoType](rewardinfotype)() | 初始化一个新的实例[`RewardInfoType`](../rewardinfotype)类. |
 
 ## 特性
 

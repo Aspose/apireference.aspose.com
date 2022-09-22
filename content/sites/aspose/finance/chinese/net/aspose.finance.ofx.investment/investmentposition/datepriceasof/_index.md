@@ -1,14 +1,14 @@
 ---
 title: DatePriceAsOf
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置单价市值成本基准的日期时间
+description: 获取或设置单价和市值的日期和时间以及成本基准
 type: docs
 weight: 40
 url: /zh/net/aspose.finance.ofx.investment/investmentposition/datepriceasof/
 ---
 ## InvestmentPosition.DatePriceAsOf property
 
-获取或设置单价、市值、成本基准的日期时间。
+获取或设置单价和市值的日期和时间，以及成本基准。
 
 ```csharp
 public string DatePriceAsOf { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: InvestmentOpenOrderList
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаInvestmentOpenOrderListaspose.finance.ofx.investment/investmentopenorderlist.
+description: Инициализирует новый экземплярInvestmentOpenOrderListaspose.finance.ofx.investment/investmentopenorderlist класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.investment/investmentopenorderlist/investmentopenorderlist/
 ---
 ## InvestmentOpenOrderList constructor
 
-Инициализирует новый экземпляр класса[`InvestmentOpenOrderList`](../../investmentopenorderlist).
+Инициализирует новый экземпляр[`InvestmentOpenOrderList`](../../investmentopenorderlist) класс.
 
 ```csharp
 public InvestmentOpenOrderList()

@@ -1,14 +1,14 @@
 ---
 title: Investment401k
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задаетInvestment401kaspose.finance.ofx.investment/investmentstatementresponse/investment401k.
+description: Получает или задаетInvestment401kaspose.finance.ofx.investment/investmentstatementresponse/investment401k .
 type: docs
 weight: 40
 url: /ru/net/aspose.finance.ofx.investment/investmentstatementresponse/investment401k/
 ---
 ## InvestmentStatementResponse.Investment401k property
 
-Получает или задает`Investment401k`.
+Получает или задает`Investment401k` .
 
 ```csharp
 public Investment401k Investment401k { get; set; }

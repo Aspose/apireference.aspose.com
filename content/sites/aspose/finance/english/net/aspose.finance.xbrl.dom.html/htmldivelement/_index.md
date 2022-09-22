@@ -3,7 +3,7 @@ title: HTMLDivElement
 second_title: Aspose.Finance for .NET API Reference
 description: The class represents generic block container. See the DIV element definition in HTML 4.01.
 type: docs
-weight: 6820
+weight: 6850
 url: /net/aspose.finance.xbrl.dom.html/htmldivelement/
 ---
 ## HTMLDivElement class

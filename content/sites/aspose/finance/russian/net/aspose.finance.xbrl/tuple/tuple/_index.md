@@ -1,14 +1,14 @@
 ---
 title: Tuple
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаTupleaspose.finance.xbrl/tuple.
+description: Инициализирует новый экземплярTupleaspose.finance.xbrl/tuple класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.xbrl/tuple/tuple/
 ---
 ## Tuple constructor
 
-Инициализирует новый экземпляр класса[`Tuple`](../../tuple).
+Инициализирует новый экземпляр[`Tuple`](../../tuple) класс.
 
 ```csharp
 public Tuple(Concept concept)

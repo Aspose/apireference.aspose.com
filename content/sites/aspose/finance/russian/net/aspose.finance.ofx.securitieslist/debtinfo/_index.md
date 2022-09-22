@@ -18,25 +18,25 @@ public class DebtInfo : AbstractSecurityInfo
 
 | Имя | Описание |
 | --- | --- |
-| [DebtInfo](debtinfo)() | Инициализирует новый экземпляр класса[`DebtInfo`](../debtinfo). |
+| [DebtInfo](debtinfo)() | Инициализирует новый экземпляр[`DebtInfo`](../debtinfo) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [AssetClass](../../aspose.finance.ofx.securitieslist/debtinfo/assetclass) { get; set; } | Получает или задает класс актива. |
-| [CallDate](../../aspose.finance.ofx.securitieslist/debtinfo/calldate) { get; set; } | Получает или задает дату следующего звонка. |
+| [AssetClass](../../aspose.finance.ofx.securitieslist/debtinfo/assetclass) { get; set; } | Получает или задает класс активов. |
+| [CallDate](../../aspose.finance.ofx.securitieslist/debtinfo/calldate) { get; set; } | Получает или устанавливает дату следующего звонка. |
 | [CallPrice](../../aspose.finance.ofx.securitieslist/debtinfo/callprice) { get; set; } | Получает или задает цену отзыва облигации. |
 | [CallType](../../aspose.finance.ofx.securitieslist/debtinfo/calltype) { get; set; } | Получает или задает тип следующего вызова. |
 | [CouponFrequency](../../aspose.finance.ofx.securitieslist/debtinfo/couponfrequency) { get; set; } | Получает или задает частоту купона. |
-| [CouponRate](../../aspose.finance.ofx.securitieslist/debtinfo/couponrate) { get; set; } | Получает или задает купонную ставку облигации на ближайшую дату отзыва. |
+| [CouponRate](../../aspose.finance.ofx.securitieslist/debtinfo/couponrate) { get; set; } | Получает или задает купонную ставку облигации на следующую ближайшую дату отзыва . |
 | [DebtClass](../../aspose.finance.ofx.securitieslist/debtinfo/debtclass) { get; set; } | Получает или задает классификацию долга. |
 | [DebtType](../../aspose.finance.ofx.securitieslist/debtinfo/debttype) { get; set; } | Получает или задает тип долга. |
 | [FIAssetClass](../../aspose.finance.ofx.securitieslist/debtinfo/fiassetclass) { get; set; } | Получает или задает текстовую строку, содержащую класс активов, определенный FI. |
 | [MaturityDate](../../aspose.finance.ofx.securitieslist/debtinfo/maturitydate) { get; set; } | Получает или задает дату погашения долга. |
 | [ParValue](../../aspose.finance.ofx.securitieslist/debtinfo/parvalue) { get; set; } | Получает или задает номинальное значение. |
-| [SecurityInfo](../../aspose.finance.ofx.securitieslist/abstractsecurityinfo/securityinfo) { get; set; } | Получает или задает[`GeneralSecurityInfo`](../generalsecurityinfo). |
-| [YieldToCall](../../aspose.finance.ofx.securitieslist/debtinfo/yieldtocall) { get; set; } | Получает или задает доход до следующего вызова. |
+| [SecurityInfo](../../aspose.finance.ofx.securitieslist/abstractsecurityinfo/securityinfo) { get; set; } | Получает или задает[`GeneralSecurityInfo`](../generalsecurityinfo) . |
+| [YieldToCall](../../aspose.finance.ofx.securitieslist/debtinfo/yieldtocall) { get; set; } | Получает или устанавливает доходность до следующего вызова. |
 | [YieldToMaturity](../../aspose.finance.ofx.securitieslist/debtinfo/yieldtomaturity) { get; set; } | Получает или задает доходность к погашению. |
 
 ### Смотрите также

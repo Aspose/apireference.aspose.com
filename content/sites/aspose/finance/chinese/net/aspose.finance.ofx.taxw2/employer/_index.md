@@ -1,14 +1,14 @@
 ---
 title: Employer
 second_title: Aspose.Finance for .NET API 参考
-description: 雇主信息类
+description: 雇主信息类.
 type: docs
 weight: 6140
 url: /zh/net/aspose.finance.ofx.taxw2/employer/
 ---
 ## Employer class
 
-雇主信息类。
+雇主信息类.
 
 ```csharp
 public class Employer
@@ -18,7 +18,7 @@ public class Employer
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Employer](employer)() | 初始化[`Employer`](../employer)类的新实例。 |
+| [Employer](employer)() | 初始化一个新的实例[`Employer`](../employer)类. |
 
 ## 特性
 
@@ -26,7 +26,7 @@ public class Employer
 | --- | --- |
 | [Address1](../../aspose.finance.ofx.taxw2/employer/address1) { get; set; } | 获取或设置雇主地址，第 1 行。 |
 | [Address2](../../aspose.finance.ofx.taxw2/employer/address2) { get; set; } | 获取或设置雇主地址，第 2 行。 |
-| [Address3](../../aspose.finance.ofx.taxw2/employer/address3) { get; set; } | 获取或设置雇主地址，第 3 行。 |
+| [Address3](../../aspose.finance.ofx.taxw2/employer/address3) { get; set; } | 获取或设置雇主地址，第 3 行. |
 | [City](../../aspose.finance.ofx.taxw2/employer/city) { get; set; } | 获取或设置雇主城市。 |
 | [CountryString](../../aspose.finance.ofx.taxw2/employer/countrystring) { get; set; } | 获取或设置国家，不要缩写。 |
 | [FederalIdNumber](../../aspose.finance.ofx.taxw2/employer/federalidnumber) { get; set; } | 获取或设置雇主联邦 ID 号。 |

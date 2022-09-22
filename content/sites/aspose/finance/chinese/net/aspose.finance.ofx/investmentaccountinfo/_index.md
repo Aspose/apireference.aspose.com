@@ -8,7 +8,7 @@ url: /zh/net/aspose.finance.ofx/investmentaccountinfo/
 ---
 ## InvestmentAccountInfo class
 
-投资账户信息类。
+投资账户信息类
 
 ```csharp
 public class InvestmentAccountInfo : AbstractAccountInfo
@@ -18,18 +18,18 @@ public class InvestmentAccountInfo : AbstractAccountInfo
 
 | 姓名 | 描述 |
 | --- | --- |
-| [InvestmentAccountInfo](investmentaccountinfo)() | 初始化[`InvestmentAccountInfo`](../investmentaccountinfo)类的新实例。 |
+| [InvestmentAccountInfo](investmentaccountinfo)() | 初始化一个新的实例[`InvestmentAccountInfo`](../investmentaccountinfo)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Checking](../../aspose.finance.ofx/investmentaccountinfo/checking) { get; set; } | 获取或设置账户是否有写支票权限。 |
-| [InvestmentAccountFrom](../../aspose.finance.ofx/investmentaccountinfo/investmentaccountfrom) { get; set; } | 获取或设置[`InvestmentAccount`](../investmentaccount)的来源。 |
-| [InvestmentAccountType](../../aspose.finance.ofx/investmentaccountinfo/investmentaccounttype) { get; set; } | 获取或设置帐户类型。 |
+| [Checking](../../aspose.finance.ofx/investmentaccountinfo/checking) { get; set; } | 获取或设置账号是否有写支票权限 |
+| [InvestmentAccountFrom](../../aspose.finance.ofx/investmentaccountinfo/investmentaccountfrom) { get; set; } | 获取或设置 from[`InvestmentAccount`](../investmentaccount). |
+| [InvestmentAccountType](../../aspose.finance.ofx/investmentaccountinfo/investmentaccounttype) { get; set; } | 获取或设置账户类型。 |
 | [OptionLevel](../../aspose.finance.ofx/investmentaccountinfo/optionlevel) { get; set; } | 获取或设置期权交易权限的文字说明。 |
 | [ServiceStatus](../../aspose.finance.ofx/investmentaccountinfo/servicestatus) { get; set; } | 获取或设置账户的投资报表下载激活状态。 |
-| [UsProductType](../../aspose.finance.ofx/investmentaccountinfo/usproducttype) { get; set; } | 获取或设置帐号的分类。 |
+| [UsProductType](../../aspose.finance.ofx/investmentaccountinfo/usproducttype) { get; set; } | 获取或设置账户的分类。 |
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: RecurringPaymentModResponse
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаRecurringPaymentModResponseaspose.finance.ofx.billpay/recurringpaymentmodresponse.
+description: Инициализирует новый экземплярRecurringPaymentModResponseaspose.finance.ofx.billpay/recurringpaymentmodresponse класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.billpay/recurringpaymentmodresponse/recurringpaymentmodresponse/
 ---
 ## RecurringPaymentModResponse constructor
 
-Инициализирует новый экземпляр класса[`RecurringPaymentModResponse`](../../recurringpaymentmodresponse).
+Инициализирует новый экземпляр[`RecurringPaymentModResponse`](../../recurringpaymentmodresponse) класс.
 
 ```csharp
 public RecurringPaymentModResponse()

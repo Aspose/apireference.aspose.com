@@ -1,7 +1,7 @@
 ---
 title: Url
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает URL-адрес для запуска процесса регистрации.
+description: Получает или задает URLадрес для запуска процесса регистрации.
 type: docs
 weight: 20
 url: /ru/net/aspose.finance.ofx.profile/webenroll/url/

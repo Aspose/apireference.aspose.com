@@ -1,14 +1,14 @@
 ---
 title: XbrlInstance
 second_title: Aspose.Finance for .NET API 参考
-description: XBRL 实例是具有 xbrl 标记的根元素的 XML 片段 XBRL 实例包含业务报告事实每个事实对应于在其支持 DTS 中定义的Concept./concept XBRL 实例还包含提供解释实例中的事实所需的附加信息的上下文和单元
+description: XBRL 实例是具有 xbrl 标记的根元素的 XML 片段 XBRL 实例包含业务报告事实每个事实对应一个Concept./concept在他们的支持 DTS 中定义 XBRL 实例还包含提供解释实例中的事实所需的附加信息的上下文和单元
 type: docs
-weight: 8190
+weight: 8200
 url: /zh/net/aspose.finance.xbrl/xbrlinstance/
 ---
 ## XbrlInstance class
 
-XBRL 实例是具有 xbrl 标记的根元素的 XML 片段。 XBRL 实例包含业务报告事实，每个事实对应于在其支持 DTS 中定义的[`Concept`](../concept)。 XBRL 实例还包含提供解释实例中的事实所需的附加信息的上下文和单元。
+XBRL 实例是具有 xbrl 标记的根元素的 XML 片段。 XBRL 实例包含业务报告事实，每个事实对应一个[`Concept`](../concept)在他们的支持 DTS 中定义。 XBRL 实例还包含提供解释实例中的事实所需的附加信息的上下文和单元。
 
 ```csharp
 public class XbrlInstance
@@ -18,18 +18,18 @@ public class XbrlInstance
 
 | 姓名 | 描述 |
 | --- | --- |
-| [ArcroleReferences](../../aspose.finance.xbrl/xbrlinstance/arcrolereferences) { get; set; } | 获取或设置 XBRL 实例中[`ArcroleReference`](../arcrolereference)对象的集合。 |
-| [Contexts](../../aspose.finance.xbrl/xbrlinstance/contexts) { get; set; } | 获取或设置 XBRL 实例中[`Context`](../context)对象的集合。 |
-| [Facts](../../aspose.finance.xbrl/xbrlinstance/facts) { get; } | 获取 XBRL 实例中[`Fact`](../fact)对象的集合。 |
-| [FootnoteLinks](../../aspose.finance.xbrl/xbrlinstance/footnotelinks) { get; set; } | 获取或设置 XBRL 实例中[`FootnoteLink`](../footnotelink)对象的集合。 |
-| [Items](../../aspose.finance.xbrl/xbrlinstance/items) { get; } | 获取 XBRL 实例中[`Item`](../item)对象的集合。 |
-| [LinkbaseRefCollection](../../aspose.finance.xbrl/xbrlinstance/linkbaserefcollection) { get; } | 获取[`XbrlInstance`](../xbrlinstance)中的[`LinkbaseRefCollection`](./linkbaserefcollection)。 |
-| [RoleReferences](../../aspose.finance.xbrl/xbrlinstance/rolereferences) { get; set; } | 获取或设置 XBRL 实例中[`RoleReference`](../rolereference)对象的集合。 |
+| [ArcroleReferences](../../aspose.finance.xbrl/xbrlinstance/arcrolereferences) { get; set; } | 获取或设置的集合[`ArcroleReference`](../arcrolereference) XBRL 实例中的对象。 |
+| [Contexts](../../aspose.finance.xbrl/xbrlinstance/contexts) { get; set; } | 获取或设置的集合[`Context`](../context) XBRL 实例中的对象。 |
+| [Facts](../../aspose.finance.xbrl/xbrlinstance/facts) { get; } | 获取集合[`Fact`](../fact) XBRL 实例中的对象。 |
+| [FootnoteLinks](../../aspose.finance.xbrl/xbrlinstance/footnotelinks) { get; set; } | 获取或设置的集合[`FootnoteLink`](../footnotelink) XBRL 实例中的对象。 |
+| [Items](../../aspose.finance.xbrl/xbrlinstance/items) { get; } | 获取集合[`Item`](../item) XBRL 实例中的对象。 |
+| [LinkbaseRefCollection](../../aspose.finance.xbrl/xbrlinstance/linkbaserefcollection) { get; } | 获取[`LinkbaseRefCollection`](./linkbaserefcollection)在里面[`XbrlInstance`](../xbrlinstance). |
+| [RoleReferences](../../aspose.finance.xbrl/xbrlinstance/rolereferences) { get; set; } | 获取或设置的集合[`RoleReference`](../rolereference) XBRL 实例中的对象。 |
 | [SchemaLocation](../../aspose.finance.xbrl/xbrlinstance/schemalocation) { get; set; } | 获取或设置架构位置 |
 | [SchemaRefs](../../aspose.finance.xbrl/xbrlinstance/schemarefs) { get; } | 获取 SchemaRef 集合。 |
-| [Units](../../aspose.finance.xbrl/xbrlinstance/units) { get; set; } | 获取或设置 XBRL 实例中[`Unit`](../unit)对象的集合。 |
+| [Units](../../aspose.finance.xbrl/xbrlinstance/units) { get; set; } | 获取或设置的集合[`Unit`](../unit) XBRL 实例中的对象。 |
 | [ValidationErrors](../../aspose.finance.xbrl/xbrlinstance/validationerrors) { get; } | 获取验证错误的集合。 |
-| [XbrlDocument](../../aspose.finance.xbrl/xbrlinstance/xbrldocument) { get; } | 获取包含此实例的[`XbrlDocument`](./xbrldocument)。 |
+| [XbrlDocument](../../aspose.finance.xbrl/xbrlinstance/xbrldocument) { get; } | 获取[`XbrlDocument`](./xbrldocument)其中包含此实例。 |
 
 ## 方法
 

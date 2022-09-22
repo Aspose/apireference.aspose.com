@@ -20,9 +20,9 @@ public enum ContributionAmtTypeEnum
 | AFTERTAXCONTRIBAMT | `1` | 分配给该证券的每个新员工税前缴款的固定金额。 |
 | MATCHCONTRIBAMT | `2` | 分配给此证券的每个新雇主匹配供款的固定金额。 |
 | PROFITSHARINGCONTRIBAMT | `3` | 分配给此证券的每个新雇主利润分享贡献的固定金额。 |
-| ROLLOVERCONTRIBAMT | `4` | 分配给该证券的新展期供款的固定数额。 |
+| ROLLOVERCONTRIBAMT | `4` | 分配给该证券的新展期供款的固定金额。 |
 | OTHERVESTAMT | `5` | 分配给此证券的每个新的其他雇主供款的固定金额。 |
-| OTHERNONVESTAMT | `6` | 分配给此证券的每个新员工的固定金额。 |
+| OTHERNONVESTAMT | `6` | 分配给此证券的每个新的其他员工缴款的固定金额。 |
 
 ### 也可以看看
 

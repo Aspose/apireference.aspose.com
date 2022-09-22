@@ -1,14 +1,14 @@
 ---
 title: TransferStatusEnum
 second_title: Справочник по API Aspose.Finance для .NET
-description: Значения статуса обработки передачи enum.
+description: Значения состояния обработки передачи enum.
 type: docs
 weight: 6290
 url: /ru/net/aspose.finance.ofx/transferstatusenum/
 ---
 ## TransferStatusEnum enumeration
 
-Значения статуса обработки передачи enum.
+Значения состояния обработки передачи enum.
 
 ```csharp
 public enum TransferStatusEnum
@@ -20,7 +20,7 @@ public enum TransferStatusEnum
 | --- | --- | --- |
 | WILLPROCESSON | `0` | Будет обработано |
 | POSTEDON | `1` | Опубликовано |
-| NOFUNDSON | `2` | Нет средств для перевода |
+| NOFUNDSON | `2` | Средства недоступны для перевода |
 | CANCELEDON | `3` | Пользователь отменил платеж |
 | FAILEDON | `4` | Невозможно осуществить перевод по неустановленным причинам |
 

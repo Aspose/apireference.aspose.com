@@ -3,7 +3,7 @@ title: LenderAddress
 second_title: Aspose.Finance for .NET API Reference
 description: Lender address class.
 type: docs
-weight: 5750
+weight: 5780
 url: /net/aspose.finance.ofx.tax1098/lenderaddress/
 ---
 ## LenderAddress class

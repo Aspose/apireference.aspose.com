@@ -18,13 +18,13 @@ public class WireDestinationBank
 
 | Имя | Описание |
 | --- | --- |
-| [WireDestinationBank](wiredestinationbank)() | Инициализирует новый экземпляр класса[`WireDestinationBank`](../wiredestinationbank). |
+| [WireDestinationBank](wiredestinationbank)() | Инициализирует новый экземпляр[`WireDestinationBank`](../wiredestinationbank) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [ExtBankDescription](../../aspose.finance.ofx.wiretransfer/wiredestinationbank/extbankdescription) { get; set; } | Получает или задает[`ExtBankDescription`](./extbankdescription). |
+| [ExtBankDescription](../../aspose.finance.ofx.wiretransfer/wiredestinationbank/extbankdescription) { get; set; } | Получает или задает[`ExtBankDescription`](./extbankdescription) . |
 
 ### Смотрите также
 

@@ -18,13 +18,13 @@ public class ImageMessageSet : AbstractMessageSet
 
 | 姓名 | 描述 |
 | --- | --- |
-| [ImageMessageSet](imagemessageset)() | 初始化[`ImageMessageSet`](../imagemessageset)类的新实例。 |
+| [ImageMessageSet](imagemessageset)() | 初始化一个新的实例[`ImageMessageSet`](../imagemessageset)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [ImageMessageSetV1](../../aspose.finance.ofx.profile/imagemessageset/imagemessagesetv1) { get; set; } | 获取或设置[`ImageMessageSetV1`](./imagemessagesetv1)。 |
+| [ImageMessageSetV1](../../aspose.finance.ofx.profile/imagemessageset/imagemessagesetv1) { get; set; } | 获取或设置[`ImageMessageSetV1`](./imagemessagesetv1). |
 
 ### 也可以看看
 

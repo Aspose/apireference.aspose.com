@@ -18,7 +18,7 @@ public class Mail
 
 | Имя | Описание |
 | --- | --- |
-| [Mail](mail)() | Инициализирует новый экземпляр класса[`Mail`](../mail). |
+| [Mail](mail)() | Инициализирует новый экземпляр[`Mail`](../mail) класс. |
 
 ## Характеристики
 
@@ -27,10 +27,10 @@ public class Mail
 | [CreatedDate](../../aspose.finance.ofx/mail/createddate) { get; set; } | Получает или задает время создания сообщения. |
 | [From](../../aspose.finance.ofx/mail/from) { get; set; } | Получает или устанавливает, от кого пришло сообщение. |
 | [IncludeImages](../../aspose.finance.ofx/mail/includeimages) { get; set; } | Получает или задает, следует ли включать изображения в тело сообщения. |
-| [MessageBody](../../aspose.finance.ofx/mail/messagebody) { get; set; } | Получает или задает тело сообщения, HTML-кодированный или обычный текст. |
-| [Subject](../../aspose.finance.ofx/mail/subject) { get; set; } | Получает или задает тему сообщения (обычный текст, не HTML). |
+| [MessageBody](../../aspose.finance.ofx/mail/messagebody) { get; set; } | Получает или задает текст сообщения, HTML-кодированный или обычный текст. |
+| [Subject](../../aspose.finance.ofx/mail/subject) { get; set; } | Получает или задает тему сообщения (обычный текст, а не HTML). |
 | [To](../../aspose.finance.ofx/mail/to) { get; set; } | Получает или задает, кому должно быть доставлено сообщение. |
-| [UseHtml](../../aspose.finance.ofx/mail/usehtml) { get; set; } | Истинно для текста в формате HTML. False для обычного текста. |
+| [UseHtml](../../aspose.finance.ofx/mail/usehtml) { get; set; } | True для текста в формате HTML. False для обычного текста. |
 | [UserId](../../aspose.finance.ofx/mail/userid) { get; set; } | Получает или задает идентификатор пользователя. |
 
 ### Смотрите также

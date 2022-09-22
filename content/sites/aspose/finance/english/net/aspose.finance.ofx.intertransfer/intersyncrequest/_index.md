@@ -3,7 +3,7 @@ title: InterSyncRequest
 second_title: Aspose.Finance for .NET API Reference
 description: Interbank transaction synchronization request class.
 type: docs
-weight: 2450
+weight: 2460
 url: /net/aspose.finance.ofx.intertransfer/intersyncrequest/
 ---
 ## InterSyncRequest class

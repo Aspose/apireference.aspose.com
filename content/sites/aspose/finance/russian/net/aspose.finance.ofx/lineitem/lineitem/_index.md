@@ -1,14 +1,14 @@
 ---
 title: LineItem
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаLineItemaspose.finance.ofx/lineitem.
+description: Инициализирует новый экземплярLineItemaspose.finance.ofx/lineitem класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx/lineitem/lineitem/
 ---
 ## LineItem constructor
 
-Инициализирует новый экземпляр класса[`LineItem`](../../lineitem).
+Инициализирует новый экземпляр[`LineItem`](../../lineitem) класс.
 
 ```csharp
 public LineItem()

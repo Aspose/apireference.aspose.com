@@ -8,7 +8,7 @@ url: /zh/net/aspose.finance.ofx.signup/accountinfotransactionresponse/
 ---
 ## AccountInfoTransactionResponse class
 
-账户信息交易响应类。
+账户信息交易响应类
 
 ```csharp
 public class AccountInfoTransactionResponse : AbstractTransactionResponse
@@ -18,16 +18,16 @@ public class AccountInfoTransactionResponse : AbstractTransactionResponse
 
 | 姓名 | 描述 |
 | --- | --- |
-| [AccountInfoTransactionResponse](accountinfotransactionresponse)() | 初始化[`AccountInfoTransactionResponse`](../accountinfotransactionresponse)类的新实例。 |
+| [AccountInfoTransactionResponse](accountinfotransactionresponse)() | 初始化一个新的实例[`AccountInfoTransactionResponse`](../accountinfotransactionresponse)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [AccountInfoResponse](../../aspose.finance.ofx.signup/accountinfotransactionresponse/accountinforesponse) { get; set; } | 获取或设置[`AccountInfoResponse`](./accountinforesponse)。 |
+| [AccountInfoResponse](../../aspose.finance.ofx.signup/accountinfotransactionresponse/accountinforesponse) { get; set; } | 获取或设置[`AccountInfoResponse`](./accountinforesponse). |
 | [ClientCookie](../../aspose.finance.ofx/abstracttransactionresponse/clientcookie) { get; set; } | 获取或设置要在事务响应中回显的数据 |
-| [OfxExtension](../../aspose.finance.ofx.signup/accountinfotransactionresponse/ofxextension) { get; set; } | 获取或设置[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype)。 |
-| [Status](../../aspose.finance.ofx/abstracttransactionresponse/status) { get; set; } | 获取或设置[`Status`](../../aspose.finance.ofx/abstracttransactionresponse/status)。 |
+| [OfxExtension](../../aspose.finance.ofx.signup/accountinfotransactionresponse/ofxextension) { get; set; } | 获取或设置[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype). |
+| [Status](../../aspose.finance.ofx/abstracttransactionresponse/status) { get; set; } | 获取或设置[`Status`](../../aspose.finance.ofx/abstracttransactionresponse/status). |
 | [TransactionUniqueId](../../aspose.finance.ofx/abstracttransactionresponse/transactionuniqueid) { get; set; } | 获取或设置此事务的客户端分配的全局唯一 ID。 |
 
 ### 也可以看看

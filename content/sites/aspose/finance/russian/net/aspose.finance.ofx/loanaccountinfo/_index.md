@@ -1,14 +1,14 @@
 ---
 title: LoanAccountInfo
 second_title: Справочник по API Aspose.Finance для .NET
-description: Информация о кредитном счете.
+description: Информация о ссудном счете.
 type: docs
 weight: 4030
 url: /ru/net/aspose.finance.ofx/loanaccountinfo/
 ---
 ## LoanAccountInfo class
 
-Информация о кредитном счете.
+Информация о ссудном счете.
 
 ```csharp
 public class LoanAccountInfo : AbstractAccountInfo
@@ -18,30 +18,30 @@ public class LoanAccountInfo : AbstractAccountInfo
 
 | Имя | Описание |
 | --- | --- |
-| [LoanAccountInfo](loanaccountinfo)() | Инициализирует новый экземпляр класса[`LoanAccountInfo`](../loanaccountinfo). |
+| [LoanAccountInfo](loanaccountinfo)() | Инициализирует новый экземпляр[`LoanAccountInfo`](../loanaccountinfo) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
 | [AccountClassification](../../aspose.finance.ofx/loanaccountinfo/accountclassification) { get; set; } | Получает или задает классификацию учетной записи. |
-| [BalloonAmount](../../aspose.finance.ofx/loanaccountinfo/balloonamount) { get; set; } | Получает или задает общую сумму, не включенную или равную нулю для обычных кредитов, в противном случае объемную сумму. |
-| [LoanAccountFrom](../../aspose.finance.ofx/loanaccountinfo/loanaccountfrom) { get; set; } | Получает или задает значение из[`LoanAccount`](../loanaccount). |
+| [BalloonAmount](../../aspose.finance.ofx/loanaccountinfo/balloonamount) { get; set; } | Получает или задает общую сумму, не включенную или равную нулю для обычных кредитов, в противном случае - общую сумму. |
+| [LoanAccountFrom](../../aspose.finance.ofx/loanaccountinfo/loanaccountfrom) { get; set; } | Получает или задает из[`LoanAccount`](../loanaccount) . |
 | [LoanFrequency](../../aspose.finance.ofx/loanaccountinfo/loanfrequency) { get; set; } | Получает или задает частоту платежей. |
-| [LoanInitialBalance](../../aspose.finance.ofx/loanaccountinfo/loaninitialbalance) { get; set; } | Получает или задает начальный остаток кредита |
+| [LoanInitialBalance](../../aspose.finance.ofx/loanaccountinfo/loaninitialbalance) { get; set; } | Получает или задает начальный баланс кредита |
 | [LoanInitialNumberPayments](../../aspose.finance.ofx/loanaccountinfo/loaninitialnumberpayments) { get; set; } | Получает или задает начальное количество платежей по кредиту. |
 | [LoanInterest](../../aspose.finance.ofx/loanaccountinfo/loaninterest) { get; set; } | Получает или задает проценты по кредиту. |
 | [LoanInterestRate](../../aspose.finance.ofx/loanaccountinfo/loaninterestrate) { get; set; } | Получает или задает процентную ставку по кредиту. |
 | [LoanMaturityDate](../../aspose.finance.ofx/loanaccountinfo/loanmaturitydate) { get; set; } | Получает или задает ожидаемую дату окончания кредита. |
 | [LoanPayment](../../aspose.finance.ofx/loanaccountinfo/loanpayment) { get; set; } | Получает или задает платеж по кредиту. |
 | [LoanRemainingPayments](../../aspose.finance.ofx/loanaccountinfo/loanremainingpayments) { get; set; } | Получает или задает оставшееся количество платежей по кредиту |
-| [LoanStartDate](../../aspose.finance.ofx/loanaccountinfo/loanstartdate) { get; set; } | Получает или задает начальную дату кредита. |
+| [LoanStartDate](../../aspose.finance.ofx/loanaccountinfo/loanstartdate) { get; set; } | Получает или задает дату начала кредита. |
 | [LoanType](../../aspose.finance.ofx/loanaccountinfo/loantype) { get; set; } | Получает или задает тип кредита. |
-| [PrincipalBalance](../../aspose.finance.ofx/loanaccountinfo/principalbalance) { get; set; } | Получает или задает тип основного баланса кредита. |
-| [ServiceStatus](../../aspose.finance.ofx/loanaccountinfo/servicestatus) { get; set; } | Получает или задает статус учетной записи. |
+| [PrincipalBalance](../../aspose.finance.ofx/loanaccountinfo/principalbalance) { get; set; } | Получает или задает тип сальдо основной суммы кредита. |
+| [ServiceStatus](../../aspose.finance.ofx/loanaccountinfo/servicestatus) { get; set; } | Получает или устанавливает статус учетной записи. |
 | [SupportTransactionDetailDownload](../../aspose.finance.ofx/loanaccountinfo/supporttransactiondetaildownload) { get; set; } | Если учетная запись поддерживает загрузку сведений о транзакциях, да, если только баланс, нет. |
-| [TransferDestination](../../aspose.finance.ofx/loanaccountinfo/transferdestination) { get; set; } | если счет включен в качестве назначения для внутрибанковского или межбанковского перевода, да, иначе нет. |
-| [TransferSource](../../aspose.finance.ofx/loanaccountinfo/transfersource) { get; set; } | Если аккаунт включен в качестве источника для внутрибанковского или межбанковского перевода, да, иначе нет. |
+| [TransferDestination](../../aspose.finance.ofx/loanaccountinfo/transferdestination) { get; set; } | , если счет включен в качестве получателя внутрибанковского или межбанковского перевода, да, иначе нет. |
+| [TransferSource](../../aspose.finance.ofx/loanaccountinfo/transfersource) { get; set; } | Если счет включен как источник внутрибанковского или межбанковского перевода, да, иначе нет. |
 
 ### Смотрите также
 

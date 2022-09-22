@@ -1,14 +1,14 @@
 ---
 title: ImageMessageSet
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化ImageMessageSetaspose.finance.ofx.profile/imagemessageset类的新实例
+description: 初始化一个新的实例ImageMessageSetaspose.finance.ofx.profile/imagemessageset类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.profile/imagemessageset/imagemessageset/
 ---
 ## ImageMessageSet constructor
 
-初始化[`ImageMessageSet`](../../imagemessageset)类的新实例。
+初始化一个新的实例[`ImageMessageSet`](../../imagemessageset)类.
 
 ```csharp
 public ImageMessageSet()

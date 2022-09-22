@@ -3,7 +3,7 @@ title: WireTransferResponseMessageSetV1
 second_title: Aspose.Finance for .NET API Reference
 description: Wire transfer response messages set version 1 class.
 type: docs
-weight: 6450
+weight: 6480
 url: /net/aspose.finance.ofx/wiretransferresponsemessagesetv1/
 ---
 ## WireTransferResponseMessageSetV1 class

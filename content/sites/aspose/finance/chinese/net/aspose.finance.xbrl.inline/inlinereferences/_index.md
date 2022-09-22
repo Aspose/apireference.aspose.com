@@ -18,11 +18,11 @@ public class InlineReferences
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Id](../../aspose.finance.xbrl.inline/inlinereferences/id) { get; set; } | 获取或设置[`InlineReferences`](../inlinereferences)的 id。 |
-| [LinkbaseRefCollection](../../aspose.finance.xbrl.inline/inlinereferences/linkbaserefcollection) { get; } | 获取[`InlineReferences`](../inlinereferences)中的[`LinkbaseRefCollection`](./linkbaserefcollection). |
-| [LinkbaseRefs](../../aspose.finance.xbrl.inline/inlinereferences/linkbaserefs) { get; } | 获取[`InlineReferences`](../inlinereferences)中[`LinkbaseRef`](../../aspose.finance.xbrl/linkbaseref)的集合。 |
-| [SchemaRefs](../../aspose.finance.xbrl.inline/inlinereferences/schemarefs) { get; set; } | 获取[`InlineReferences`](../inlinereferences) |
-| [TargetId](../../aspose.finance.xbrl.inline/inlinereferences/targetid) { get; set; } | 获取或设置[`InlineReferences`](../inlinereferences)的目标ID。 |
+| [Id](../../aspose.finance.xbrl.inline/inlinereferences/id) { get; set; } | 获取或设置 id[`InlineReferences`](../inlinereferences). |
+| [LinkbaseRefCollection](../../aspose.finance.xbrl.inline/inlinereferences/linkbaserefcollection) { get; } | 获取[`LinkbaseRefCollection`](./linkbaserefcollection)在里面[`InlineReferences`](../inlinereferences). |
+| [LinkbaseRefs](../../aspose.finance.xbrl.inline/inlinereferences/linkbaserefs) { get; } | 获取集合[`LinkbaseRef`](../../aspose.finance.xbrl/linkbaseref)在里面[`InlineReferences`](../inlinereferences). |
+| [SchemaRefs](../../aspose.finance.xbrl.inline/inlinereferences/schemarefs) { get; set; } | 获取 SchemaRef 集合中的[`InlineReferences`](../inlinereferences) |
+| [TargetId](../../aspose.finance.xbrl.inline/inlinereferences/targetid) { get; set; } | 获取或设置目标id[`InlineReferences`](../inlinereferences). |
 
 ### 也可以看看
 

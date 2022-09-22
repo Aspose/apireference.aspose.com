@@ -1,14 +1,14 @@
 ---
 title: Employer
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаEmployeraspose.finance.ofx.taxw2/employer.
+description: Инициализирует новый экземплярEmployeraspose.finance.ofx.taxw2/employer класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.taxw2/employer/employer/
 ---
 ## Employer constructor
 
-Инициализирует новый экземпляр класса[`Employer`](../../employer).
+Инициализирует новый экземпляр[`Employer`](../../employer) класс.
 
 ```csharp
 public Employer()

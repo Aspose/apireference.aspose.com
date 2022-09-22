@@ -3,7 +3,7 @@ title: HTMLBodyElement
 second_title: Aspose.Finance for .NET API Reference
 description: The class represents the HTML document body. This element is always present in the DOM API even if the tags are not present in the source document. See the BODY element definition in HTML 4.01.
 type: docs
-weight: 6760
+weight: 6790
 url: /net/aspose.finance.xbrl.dom.html/htmlbodyelement/
 ---
 ## HTMLBodyElement class

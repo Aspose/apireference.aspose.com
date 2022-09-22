@@ -3,7 +3,7 @@ title: ContextEntity
 second_title: Aspose.Finance for .NET API Reference
 description: The entity of the Context./context.
 type: docs
-weight: 6550
+weight: 6580
 url: /net/aspose.finance.xbrl/contextentity/
 ---
 ## ContextEntity class

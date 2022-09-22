@@ -1,14 +1,14 @@
 ---
 title: PresentmentDetails
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает коллекциюPresentmentDetailaspose.finance.ofx.billerdelivery/presentmentdetail.
+description: Получает или задает коллекциюPresentmentDetailaspose.finance.ofx.billerdelivery/presentmentdetail .
 type: docs
 weight: 20
 url: /ru/net/aspose.finance.ofx.billerdelivery/presentmentdetailresponse/presentmentdetails/
 ---
 ## PresentmentDetailResponse.PresentmentDetails property
 
-Получает или задает коллекцию[`PresentmentDetail`](../../presentmentdetail).
+Получает или задает коллекцию[`PresentmentDetail`](../../presentmentdetail) .
 
 ```csharp
 public List<PresentmentDetail> PresentmentDetails { get; set; }

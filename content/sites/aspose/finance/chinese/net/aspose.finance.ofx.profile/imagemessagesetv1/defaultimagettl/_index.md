@@ -1,14 +1,14 @@
 ---
 title: DefaultImageTtl
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置图像可用后图像在主机上保持可用的默认日历天数
+description: 获取或设置一旦图像可用图像将在主机上保持可用的默认日历天数
 type: docs
 weight: 30
 url: /zh/net/aspose.finance.ofx.profile/imagemessagesetv1/defaultimagettl/
 ---
 ## ImageMessageSetV1.DefaultImageTtl property
 
-获取或设置图像可用后图像在主机上保持可用的默认日历天数。
+获取或设置一旦图像可用，图像将在主机上保持可用的默认日历天数。
 
 ```csharp
 public string DefaultImageTtl { get; set; }

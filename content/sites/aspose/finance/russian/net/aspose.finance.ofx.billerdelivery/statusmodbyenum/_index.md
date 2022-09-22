@@ -1,14 +1,14 @@
 ---
 title: StatusModByEnum
 second_title: Справочник по API Aspose.Finance для .NET
-description: Статус изменен перечислением.
+description: Статус изменен enum.
 type: docs
 weight: 1840
 url: /ru/net/aspose.finance.ofx.billerdelivery/statusmodbyenum/
 ---
 ## StatusModByEnum enumeration
 
-Статус изменен перечислением.
+Статус изменен enum.
 
 ```csharp
 public enum StatusModByEnum
@@ -23,9 +23,9 @@ public enum StatusModByEnum
 | PMTPROVIDERSR | `2` | Представитель службы, действующий от имени платежной системы. |
 | BILLER | `3` | Биллер. |
 | BILLERSR | `4` | Представитель службы, действующий от имени биллера. |
-| CUSTOMER | `5` | покупатель. |
+| CUSTOMER | `5` | клиент. |
 | CUSTAGENT | `6` | Автоматизированный программный агент, действующий от имени клиента. |
-| BILLPUBLISHER | `7` | Издательство счетов. |
+| BILLPUBLISHER | `7` | Издатель счетов. |
 
 ### Смотрите также
 

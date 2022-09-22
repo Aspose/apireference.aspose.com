@@ -1,14 +1,14 @@
 ---
 title: AccountNumber
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置收件人的帐号
+description: 获取或设置收款人账号
 type: docs
 weight: 20
 url: /zh/net/aspose.finance.ofx.tax1099/tax1099response/accountnumber/
 ---
 ## Tax1099Response.AccountNumber property
 
-获取或设置收件人的帐号。
+获取或设置收款人账号。
 
 ```csharp
 public string AccountNumber { get; set; }

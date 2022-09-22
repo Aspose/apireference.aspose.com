@@ -1,14 +1,14 @@
 ---
 title: SecurityRequest
 second_title: Справочник по API Aspose.Finance для .NET
-description: Инициализирует новый экземпляр классаSecurityRequestaspose.finance.ofx.securitieslist/securityrequest.
+description: Инициализирует новый экземплярSecurityRequestaspose.finance.ofx.securitieslist/securityrequest класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.finance.ofx.securitieslist/securityrequest/securityrequest/
 ---
 ## SecurityRequest constructor
 
-Инициализирует новый экземпляр класса[`SecurityRequest`](../../securityrequest).
+Инициализирует новый экземпляр[`SecurityRequest`](../../securityrequest) класс.
 
 ```csharp
 public SecurityRequest()

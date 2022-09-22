@@ -1,14 +1,14 @@
 ---
 title: ImageAvailDate
 second_title: Справочник по API Aspose.Finance для .NET
-description: Получает или задает дату доступности изображения.
+description: Получает или задает дату доступности образа.
 type: docs
 weight: 30
 url: /ru/net/aspose.finance.ofx/imagedata/imageavaildate/
 ---
 ## ImageData.ImageAvailDate property
 
-Получает или задает дату доступности изображения.
+Получает или задает дату доступности образа.
 
 ```csharp
 public string ImageAvailDate { get; set; }

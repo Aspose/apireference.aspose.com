@@ -8,7 +8,7 @@ url: /zh/net/aspose.finance.ofx.taxw2/employee/suffix/
 ---
 ## Employee.Suffix property
 
-获取或设置员工后缀。
+获取或设置员工后缀
 
 ```csharp
 public string Suffix { get; set; }

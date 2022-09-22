@@ -1,14 +1,14 @@
 ---
 title: LoanStatementTransactionRequests
 second_title: Aspose.Finance for .NET API 参考
-description: 获取或设置LoanStatementTransactionRequestaspose.finance.ofx.loan/loanstatementtransactionrequest的集合
+description: 获取或设置的集合LoanStatementTransactionRequestaspose.finance.ofx.loan/loanstatementtransactionrequest.
 type: docs
 weight: 60
 url: /zh/net/aspose.finance.ofx/loanrequestmessagesetv1/loanstatementtransactionrequests/
 ---
 ## LoanRequestMessageSetV1.LoanStatementTransactionRequests property
 
-获取或设置[`LoanStatementTransactionRequest`](../../../aspose.finance.ofx.loan/loanstatementtransactionrequest)的集合。
+获取或设置的集合[`LoanStatementTransactionRequest`](../../../aspose.finance.ofx.loan/loanstatementtransactionrequest).
 
 ```csharp
 public List<LoanStatementTransactionRequest> LoanStatementTransactionRequests { get; set; }

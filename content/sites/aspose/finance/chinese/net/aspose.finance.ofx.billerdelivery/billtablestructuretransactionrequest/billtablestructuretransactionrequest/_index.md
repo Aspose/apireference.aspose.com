@@ -1,14 +1,14 @@
 ---
 title: BillTableStructureTransactionRequest
 second_title: Aspose.Finance for .NET API 参考
-description: 初始化BillTableStructureTransactionRequestaspose.finance.ofx.billerdelivery/billtablestructuretransactionrequest类的新实例
+description: 初始化一个新的实例BillTableStructureTransactionRequestaspose.finance.ofx.billerdelivery/billtablestructuretransactionrequest类.
 type: docs
 weight: 10
 url: /zh/net/aspose.finance.ofx.billerdelivery/billtablestructuretransactionrequest/billtablestructuretransactionrequest/
 ---
 ## BillTableStructureTransactionRequest constructor
 
-初始化[`BillTableStructureTransactionRequest`](../../billtablestructuretransactionrequest)类的新实例。
+初始化一个新的实例[`BillTableStructureTransactionRequest`](../../billtablestructuretransactionrequest)类.
 
 ```csharp
 public BillTableStructureTransactionRequest()
