@@ -1,14 +1,14 @@
 ---
 title: Metered
 second_title: Справочник по API Aspose.Drawing для .NET
-description: Инициализирует новый экземпляр классаMeteredaspose.drawing/metered.
+description: Инициализирует новый экземплярMeteredaspose.drawing/metered класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.drawing/metered/metered/
 ---
 ## Metered constructor
 
-Инициализирует новый экземпляр класса[`Metered`](../../metered).
+Инициализирует новый экземпляр[`Metered`](../../metered) класс.
 
 ```csharp
 public Metered()

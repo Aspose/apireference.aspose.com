@@ -1,0 +1,57 @@
+---
+title: TextureBrush
+second_title: Referencia de Aspose.Drawing para .NET API
+description: Cada propiedad de la clase TextureBrush es un objeto Brush que utiliza una imagen para rellenar el interior de una forma. Esta clase no se puede heredar.
+type: docs
+weight: 1260
+url: /es/net/system.drawing/texturebrush/
+---
+## TextureBrush class
+
+Cada propiedad de la clase TextureBrush es un objeto Brush que utiliza una imagen para rellenar el interior de una forma. Esta clase no se puede heredar.
+
+```csharp
+public sealed class TextureBrush : Brush
+```
+
+## Constructores
+
+| Nombre | Descripción |
+| --- | --- |
+| [TextureBrush](texturebrush#constructor)(Image) | Inicializa una nueva instancia del[`TextureBrush`](../texturebrush) clase que usa la imagen especificada. |
+| [TextureBrush](texturebrush#constructor_3)(Image, RectangleF) | Inicializa una nueva instancia del[`TextureBrush`](../texturebrush) clase que utiliza la imagen especificada y el rectángulo delimitador. |
+| [TextureBrush](texturebrush#constructor_1)(Image, WrapMode) | Inicializa una nueva instancia del[`TextureBrush`](../texturebrush) clase que utiliza la imagen especificada y el modo de ajuste. |
+| [TextureBrush](texturebrush#constructor_4)(Image, RectangleF, ImageAttributes) | Inicializa una nueva instancia del[`TextureBrush`](../texturebrush) clase que utiliza la imagen, el rectángulo delimitador y los atributos de imagen especificados. |
+| [TextureBrush](texturebrush#constructor_2)(Image, WrapMode, RectangleF) | Inicializa una nueva instancia del[`TextureBrush`](../texturebrush) clase que utiliza la imagen especificada, el modo de ajuste y el rectángulo delimitador. |
+
+## Propiedades
+
+| Nombre | Descripción |
+| --- | --- |
+| [Image](../../system.drawing/texturebrush/image) { get; } | Obtiene el objeto Imagen asociado con este objeto TextureBrush. |
+| [Transform](../../system.drawing/texturebrush/transform) { get; set; } | Obtiene o establece una copia del objeto Matrix que define una transformación geométrica local para la imagen asociada con este objeto TextureBrush. |
+| [WrapMode](../../system.drawing/texturebrush/wrapmode) { get; set; } | Obtiene o establece una enumeración WrapMode que indica el modo de ajuste para este objeto TextureBrush. |
+
+## Métodos
+
+| Nombre | Descripción |
+| --- | --- |
+| override [Clone](../../system.drawing/texturebrush/clone)() | Crea una copia exacta de esteTextureBrush objeto. |
+| [Dispose](../../system.drawing/brush/dispose)() | Libera todos los recursos utilizados por este objeto Brush. |
+| [MultiplyTransform](../../system.drawing/texturebrush/multiplytransform#multiplytransform)(Matrix) | Multiplica elMatrix objeto que representa la transformación geométrica local de esteTextureBrush objeto por el especificadoMatrix objeto anteponiendo el especificadoMatrix objeto. |
+| [MultiplyTransform](../../system.drawing/texturebrush/multiplytransform#multiplytransform_1)(Matrix, MatrixOrder) | Multiplica elMatrix objeto que representa la transformación geométrica local de esteTextureBrush objeto por el especificadoMatrix objeto en el orden especificado. |
+| [ResetTransform](../../system.drawing/texturebrush/resettransform)() | Restablece la propiedad Transform de esteTextureBrush objeto a identidad. |
+| [RotateTransform](../../system.drawing/texturebrush/rotatetransform#rotatetransform)(float) | Rota la transformación geométrica local de esteTextureBrush objeto por la cantidad especificada. Este método antepone la rotación a la transformación. |
+| [RotateTransform](../../system.drawing/texturebrush/rotatetransform#rotatetransform_1)(float, MatrixOrder) | Rota la transformación geométrica local de esteTextureBrush objeto por la cantidad especificada en el orden especificado. |
+| [ScaleTransform](../../system.drawing/texturebrush/scaletransform#scaletransform)(float, float) | Escala la transformación geométrica local de esteTextureBrush objeto por las cantidades especificadas. Este método antepone la matriz de escala a la transformación. |
+| [ScaleTransform](../../system.drawing/texturebrush/scaletransform#scaletransform_1)(float, float, MatrixOrder) | Escala la transformación geométrica local de esteTextureBrush object por las cantidades especificadas en el orden especificado. |
+| [TranslateTransform](../../system.drawing/texturebrush/translatetransform#translatetransform)(float, float) | Traduce la transformación geométrica local de esteTextureBrushobjeto por las dimensiones especificadas. Este método antepone la traslación a la transformación. |
+| [TranslateTransform](../../system.drawing/texturebrush/translatetransform#translatetransform_1)(float, float, MatrixOrder) | Traduce la transformación geométrica local de esteTextureBrush objeto por las dimensiones especificadas en el orden especificado. |
+
+### Ver también
+
+* class [Brush](../brush)
+* espacio de nombres [System.Drawing](../../system.drawing)
+* asamblea [Aspose.Drawing](../../)
+
+<!-- DO NOT EDIT: generated by xmldocmd for Aspose.Drawing.dll -->

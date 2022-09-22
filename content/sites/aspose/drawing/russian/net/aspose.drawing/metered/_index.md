@@ -3,7 +3,7 @@ title: Metered
 second_title: Справочник по API Aspose.Drawing для .NET
 description: Предоставляет методы для установки измеренного ключа.
 type: docs
-weight: 860
+weight: 20
 url: /ru/net/aspose.drawing/metered/
 ---
 ## Metered class
@@ -18,20 +18,20 @@ public sealed class Metered : IDisposable
 
 | Имя | Описание |
 | --- | --- |
-| [Metered](metered)() | Инициализирует новый экземпляр класса[`Metered`](../metered). |
+| [Metered](metered)() | Инициализирует новый экземпляр[`Metered`](../metered) класс. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| [Dispose](../../aspose.drawing/metered/dispose)() | Выполняет определяемые приложением задачи, связанные с освобождением, освобождением или сбросом неуправляемых ресурсов. |
-| [SetMeteredKey](../../aspose.drawing/metered/setmeteredkey)(string, string) | Устанавливает дозированные открытый и закрытый ключ |
+| [Dispose](../../aspose.drawing/metered/dispose)() | Выполняет определяемые приложением задачи, связанные с освобождением, высвобождением или сбросом неуправляемых ресурсов. |
+| [SetMeteredKey](../../aspose.drawing/metered/setmeteredkey)(string, string) | Устанавливает лимитированный открытый и закрытый ключ |
 | static [GetConsumptionCredit](../../aspose.drawing/metered/getconsumptioncredit)() | Получает потребительский кредит. |
-| static [GetConsumptionQuantity](../../aspose.drawing/metered/getconsumptionquantity)() | Получает размер потребляемого файла. |
+| static [GetConsumptionQuantity](../../aspose.drawing/metered/getconsumptionquantity)() | Получает размер файла потребления. |
 
 ### Примеры
 
-В этом примере будет предпринята попытка установить дозированные открытый и закрытый ключ
+В этом примере будет предпринята попытка установить лимитированный открытый и закрытый ключ
 
 ```csharp
 [C#]
@@ -46,7 +46,7 @@ Dim matered As Metered = New Metered
 matered.SetMeteredKey("PublicKey", "PrivateKey")
 ```
 
-JAR-файл компонента:
+файл jar компонента:
 
 ```csharp
 Metered matered = new Metered();

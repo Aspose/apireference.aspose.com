@@ -1,0 +1,200 @@
+---
+title: Icon
+second_title: Aspose.Drawing for .NET API Referansı
+description: Yeni bir örneğini başlatırIconsystem.drawing/icon belirtilen dosya adından sınıf.
+type: docs
+weight: 10
+url: /tr/net/system.drawing/icon/icon/
+---
+## Icon(string) {#constructor_5}
+
+Yeni bir örneğini başlatır[`Icon`](../../icon) belirtilen dosya adından sınıf.
+
+```csharp
+public Icon(string fileName)
+```
+
+| Parametre | Tip | Tanım |
+| --- | --- | --- |
+| fileName | String | Yüklenecek dosyaIcon itibaren. |
+
+### Ayrıca bakınız
+
+* class [Icon](../../icon)
+* ad alanı [System.Drawing](../../icon)
+* toplantı [Aspose.Drawing](../../../)
+
+---
+
+## Icon(Stream) {#constructor_2}
+
+Yeni bir örneğini başlatır[`Icon`](../../icon) belirtilen veri akışından sınıf.
+
+```csharp
+public Icon(Stream stream)
+```
+
+| Parametre | Tip | Tanım |
+| --- | --- | --- |
+| stream | Stream | Yüklenecek veri akışıIcon. |
+
+### Ayrıca bakınız
+
+* class [Icon](../../icon)
+* ad alanı [System.Drawing](../../icon)
+* toplantı [Aspose.Drawing](../../../)
+
+---
+
+## Icon(string, Size) {#constructor_7}
+
+Yeni bir örneğini başlatır[`Icon`](../../icon) belirtilen dosyadan belirtilen boyuttaki sınıf.
+
+```csharp
+public Icon(string fileName, Size size)
+```
+
+| Parametre | Tip | Tanım |
+| --- | --- | --- |
+| fileName | String | Simge verilerini içeren dosyanın adı ve yolu. |
+| size | Size | Simgenin istenen boyutu. |
+
+### Ayrıca bakınız
+
+* struct [Size](../../size)
+* class [Icon](../../icon)
+* ad alanı [System.Drawing](../../icon)
+* toplantı [Aspose.Drawing](../../../)
+
+---
+
+## Icon(Icon, Size) {#constructor_1}
+
+Yeni bir örneğini başlatır[`Icon`](../../icon) sınıfı ve istenen boyutla eşleşen simge sürümünü bulmaya çalışır.
+
+```csharp
+public Icon(Icon original, Size size)
+```
+
+| Parametre | Tip | Tanım |
+| --- | --- | --- |
+| original | Icon | buIcon yeni boyutlandırılmış simgenin yükleneceği yer. |
+| size | Size | ASizeyenisinin yüksekliğini ve genişliğini belirten yapıIcon. |
+
+### Ayrıca bakınız
+
+* struct [Size](../../size)
+* class [Icon](../../icon)
+* ad alanı [System.Drawing](../../icon)
+* toplantı [Aspose.Drawing](../../../)
+
+---
+
+## Icon(Type, string) {#constructor_8}
+
+Yeni bir örneğini başlatır[`Icon`](../../icon) belirtilen derlemedeki bir kaynaktan sınıf.
+
+```csharp
+public Icon(Type type, string resource)
+```
+
+| Parametre | Tip | Tanım |
+| --- | --- | --- |
+| type | Type | AType kaynağın aranacağı derlemeyi belirtir. |
+| resource | String | Yüklenecek kaynak adı. |
+
+### Ayrıca bakınız
+
+* class [Icon](../../icon)
+* ad alanı [System.Drawing](../../icon)
+* toplantı [Aspose.Drawing](../../../)
+
+---
+
+## Icon(Stream, Size) {#constructor_4}
+
+Yeni bir örneğini başlatır[`Icon`](../../icon) belirtilen akıştan belirtilen boyuttaki sınıf.
+
+```csharp
+public Icon(Stream stream, Size size)
+```
+
+| Parametre | Tip | Tanım |
+| --- | --- | --- |
+| stream | Stream | Simge verilerini içeren akış. |
+| size | Size | Simgenin istenen boyutu. |
+
+### Ayrıca bakınız
+
+* struct [Size](../../size)
+* class [Icon](../../icon)
+* ad alanı [System.Drawing](../../icon)
+* toplantı [Aspose.Drawing](../../../)
+
+---
+
+## Icon(string, int, int) {#constructor_6}
+
+Yeni bir örneğini başlatır[`Icon`](../../icon) belirtilen dosyadan belirtilen genişlik ve yüksekliğe sahip sınıf.
+
+```csharp
+public Icon(string fileName, int width, int height)
+```
+
+| Parametre | Tip | Tanım |
+| --- | --- | --- |
+| fileName | String | içeren dosyanın adı ve yoluIcon veri. |
+| width | Int32 | İstenilen genişlikIcon. |
+| height | Int32 | İstenilen yükseklikIcon. |
+
+### Ayrıca bakınız
+
+* class [Icon](../../icon)
+* ad alanı [System.Drawing](../../icon)
+* toplantı [Aspose.Drawing](../../../)
+
+---
+
+## Icon(Icon, int, int) {#constructor}
+
+Yeni bir örneğini başlatır[`Icon`](../../icon) sınıfı ve istenen boyutla eşleşen simgenin bir sürümünü bulmaya çalışır..
+
+```csharp
+public Icon(Icon original, int width, int height)
+```
+
+| Parametre | Tip | Tanım |
+| --- | --- | --- |
+| original | Icon | Farklı boyuttan yüklenecek simge. |
+| width | Int32 | Yeni simgenin genişliği. |
+| height | Int32 | Yeni simgenin yüksekliği. |
+
+### Ayrıca bakınız
+
+* class [Icon](../../icon)
+* ad alanı [System.Drawing](../../icon)
+* toplantı [Aspose.Drawing](../../../)
+
+---
+
+## Icon(Stream, int, int) {#constructor_3}
+
+Yeni bir örneğini başlatır[`Icon`](../../icon) belirtilen veri akışından ve belirtilen genişlik ve yüksekliğe sahip sınıf.
+
+```csharp
+public Icon(Stream stream, int width, int height)
+```
+
+| Parametre | Tip | Tanım |
+| --- | --- | --- |
+| stream | Stream | Simgenin yükleneceği veri akışı. |
+| width | Int32 | Simgenin piksel cinsinden genişliği. |
+| height | Int32 | Simgenin piksel cinsinden yüksekliği. |
+
+### Ayrıca bakınız
+
+* class [Icon](../../icon)
+* ad alanı [System.Drawing](../../icon)
+* toplantı [Aspose.Drawing](../../../)
+
+<!-- DO NOT EDIT: generated by xmldocmd for Aspose.Drawing.dll -->

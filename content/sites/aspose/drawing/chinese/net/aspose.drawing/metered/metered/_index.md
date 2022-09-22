@@ -1,14 +1,14 @@
 ---
 title: Metered
 second_title: Aspose.Drawing for .NET API 参考
-description: 初始化Meteredaspose.drawing/metered类的新实例
+description: 初始化Meteredaspose.drawing/metered类.
 type: docs
 weight: 10
 url: /zh/net/aspose.drawing/metered/metered/
 ---
 ## Metered constructor
 
-初始化[`Metered`](../../metered)类的新实例。
+初始化[`Metered`](../../metered)类.
 
 ```csharp
 public Metered()

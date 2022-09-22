@@ -1,0 +1,144 @@
+---
+title: GraphicsPath
+second_title: Aspose.Drawing for .NET API Referansı
+description: FillMode Alternate değeriyle GraphicsPath sınıfının yeni bir örneğini başlatır.
+type: docs
+weight: 10
+url: /tr/net/system.drawing.drawing2d/graphicspath/graphicspath/
+---
+## GraphicsPath() {#constructor}
+
+FillMode Alternate değeriyle GraphicsPath sınıfının yeni bir örneğini başlatır.
+
+```csharp
+public GraphicsPath()
+```
+
+### Ayrıca bakınız
+
+* class [GraphicsPath](../../graphicspath)
+* ad alanı [System.Drawing.Drawing2D](../../graphicspath)
+* toplantı [Aspose.Drawing](../../../)
+
+---
+
+## GraphicsPath(FillMode) {#constructor_1}
+
+Yeni bir örneğini başlatır[`GraphicsPath`](../../graphicspath)Belirtilen ile sınıfFillMode numaralandırma.
+
+```csharp
+public GraphicsPath(FillMode fillMode)
+```
+
+| Parametre | Tip | Tanım |
+| --- | --- | --- |
+| fillMode | FillMode | buFillMode Bunun internal öğesinin nasıl olacağını belirleyen numaralandırmaGraphicsPath dolduruldu. |
+
+### Ayrıca bakınız
+
+* enum [FillMode](../../fillmode)
+* class [GraphicsPath](../../graphicspath)
+* ad alanı [System.Drawing.Drawing2D](../../graphicspath)
+* toplantı [Aspose.Drawing](../../../)
+
+---
+
+## GraphicsPath(PointF[], byte[]) {#constructor_2}
+
+Yeni bir örneğini başlatır[`GraphicsPath`](../../graphicspath) belirtilen sınıf[`PathPointType`](../../pathpointtype) vePointF diziler.
+
+```csharp
+public GraphicsPath(PointF[] pts, byte[] types)
+```
+
+| Parametre | Tip | Tanım |
+| --- | --- | --- |
+| pts | PointF[] | bir diziPointF bunu oluşturan noktaların koordinatlarını tanımlayan yapılar[`GraphicsPath`](../../graphicspath). |
+| types | Byte[] | bir dizi[`PathPointType`](../../pathpointtype) içindeki her bir karşılık gelen noktanın türünü belirten numaralandırma elemanları*pts* dizi. |
+
+### Notlar
+
+Bu yöntem aslında hiçbir şey yapmaz. Yalnızca System.Drawing API. ile uyumluluk içindir.
+
+### Ayrıca bakınız
+
+* struct [PointF](../../../system.drawing/pointf)
+* class [GraphicsPath](../../graphicspath)
+* ad alanı [System.Drawing.Drawing2D](../../graphicspath)
+* toplantı [Aspose.Drawing](../../../)
+
+---
+
+## GraphicsPath(Point[], byte[]) {#constructor_4}
+
+Yeni bir örneğini başlatır[`GraphicsPath`](../../graphicspath) belirtilen sınıf[`PathPointType`](../../pathpointtype) vePoint diziler.
+
+```csharp
+public GraphicsPath(Point[] pts, byte[] types)
+```
+
+| Parametre | Tip | Tanım |
+| --- | --- | --- |
+| pts | Point[] | bir diziPoint bunu oluşturan noktaların koordinatlarını tanımlayan yapılar[`GraphicsPath`](../../graphicspath). |
+| types | Byte[] | bir dizi[`PathPointType`](../../pathpointtype) içindeki her bir karşılık gelen noktanın türünü belirten numaralandırma elemanları*pts* dizi. |
+
+### Notlar
+
+Bu yöntem aslında hiçbir şey yapmaz. Yalnızca System.Drawing API. ile uyumluluk içindir.
+
+### Ayrıca bakınız
+
+* struct [Point](../../../system.drawing/point)
+* class [GraphicsPath](../../graphicspath)
+* ad alanı [System.Drawing.Drawing2D](../../graphicspath)
+* toplantı [Aspose.Drawing](../../../)
+
+---
+
+## GraphicsPath(PointF[], byte[], FillMode) {#constructor_3}
+
+Yeni bir örneğini başlatır[`GraphicsPath`](../../graphicspath) belirtilen sınıfPathPointType vePointF diziler ve belirtilen ileFillMode numaralandırma öğesi..
+
+```csharp
+public GraphicsPath(PointF[] pts, byte[] types, FillMode fillMode)
+```
+
+| Parametre | Tip | Tanım |
+| --- | --- | --- |
+| pts | PointF[] | bir diziPointF bunu oluşturan noktaların koordinatlarını tanımlayan yapılarGraphicsPath. |
+| types | Byte[] | bir diziPathPointType pts dizisindeki karşılık gelen her noktanın türünü belirten numaralandırma öğeleri. |
+| fillMode | FillMode | AFillMode buradaki şekillerin iç kısımlarının nasıl olduğunu belirten numaralandırmaGraphicsPath dolu. |
+
+### Ayrıca bakınız
+
+* struct [PointF](../../../system.drawing/pointf)
+* enum [FillMode](../../fillmode)
+* class [GraphicsPath](../../graphicspath)
+* ad alanı [System.Drawing.Drawing2D](../../graphicspath)
+* toplantı [Aspose.Drawing](../../../)
+
+---
+
+## GraphicsPath(Point[], byte[], FillMode) {#constructor_5}
+
+Yeni bir örneğini başlatır[`GraphicsPath`](../../graphicspath) belirtilen sınıfPathPointType vePoint diziler ve belirtilen ileFillMode numaralandırma öğesi..
+
+```csharp
+public GraphicsPath(Point[] pts, byte[] types, FillMode fillMode)
+```
+
+| Parametre | Tip | Tanım |
+| --- | --- | --- |
+| pts | Point[] | bir diziPoint bunu oluşturan noktaların koordinatlarını tanımlayan yapılarGraphicsPath. |
+| types | Byte[] | bir diziPathPointType pts dizisindeki karşılık gelen her noktanın türünü belirten numaralandırma öğeleri. |
+| fillMode | FillMode | AFillMode buradaki şekillerin iç kısımlarının nasıl olduğunu belirten numaralandırmaGraphicsPath dolu. |
+
+### Ayrıca bakınız
+
+* struct [Point](../../../system.drawing/point)
+* enum [FillMode](../../fillmode)
+* class [GraphicsPath](../../graphicspath)
+* ad alanı [System.Drawing.Drawing2D](../../graphicspath)
+* toplantı [Aspose.Drawing](../../../)
+
+<!-- DO NOT EDIT: generated by xmldocmd for Aspose.Drawing.dll -->
