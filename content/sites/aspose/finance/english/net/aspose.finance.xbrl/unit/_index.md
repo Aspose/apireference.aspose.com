@@ -3,7 +3,7 @@ title: Unit
 second_title: Aspose.Finance for .NET API Reference
 description: This class is used to specifies the units in which a Numeric Item has been measured.
 type: docs
-weight: 8060
+weight: 8110
 url: /net/aspose.finance.xbrl/unit/
 ---
 ## Unit class

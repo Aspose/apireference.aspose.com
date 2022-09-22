@@ -3,7 +3,7 @@ title: Comment
 second_title: Aspose.Finance for .NET API Reference
 description: Inherits from CharacterData and represents the content of a comment.
 type: docs
-weight: 6650
+weight: 6680
 url: /net/aspose.finance.xbrl.dom/comment/
 ---
 ## Comment class

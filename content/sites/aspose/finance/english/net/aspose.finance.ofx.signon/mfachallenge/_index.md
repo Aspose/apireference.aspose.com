@@ -3,7 +3,7 @@ title: MFAChallenge
 second_title: Aspose.Finance for .NET API Reference
 description: Challenge question class.
 type: docs
-weight: 5310
+weight: 5340
 url: /net/aspose.finance.ofx.signon/mfachallenge/
 ---
 ## MFAChallenge class

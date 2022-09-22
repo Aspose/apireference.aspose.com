@@ -3,7 +3,7 @@ title: LabelArc
 second_title: Aspose.Finance for .NET API Reference
 description: This class is a Xlink./xlink with Arc type. It connects Concepts with Label./label resources.
 type: docs
-weight: 7780
+weight: 7820
 url: /net/aspose.finance.xbrl/labelarc/
 ---
 ## LabelArc class

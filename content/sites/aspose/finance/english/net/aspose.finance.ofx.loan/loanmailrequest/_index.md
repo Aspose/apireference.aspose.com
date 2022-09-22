@@ -3,7 +3,7 @@ title: LoanMailRequest
 second_title: Aspose.Finance for .NET API Reference
 description: Loan email request class.
 type: docs
-weight: 3840
+weight: 3860
 url: /net/aspose.finance.ofx.loan/loanmailrequest/
 ---
 ## LoanMailRequest class

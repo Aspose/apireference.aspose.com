@@ -3,7 +3,7 @@ title: NamedNodeMap
 second_title: Aspose.Finance for .NET API Reference
 description: Represents collections of attributes that can be accessed by name.
 type: docs
-weight: 7420
+weight: 7450
 url: /net/aspose.finance.xbrl.dom/namednodemap/
 ---
 ## NamedNodeMap class

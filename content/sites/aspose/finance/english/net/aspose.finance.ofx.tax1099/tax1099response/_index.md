@@ -3,7 +3,7 @@ title: Tax1099Response
 second_title: Aspose.Finance for .NET API Reference
 description: Tax 1099 response class.
 type: docs
-weight: 6060
+weight: 6090
 url: /net/aspose.finance.ofx.tax1099/tax1099response/
 ---
 ## Tax1099Response class

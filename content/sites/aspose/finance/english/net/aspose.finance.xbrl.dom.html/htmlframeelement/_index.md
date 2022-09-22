@@ -3,7 +3,7 @@ title: HTMLFrameElement
 second_title: Aspose.Finance for .NET API Reference
 description: The class represents html frame. See the FRAME element definition in HTML 4.01.
 type: docs
-weight: 6870
+weight: 6900
 url: /net/aspose.finance.xbrl.dom.html/htmlframeelement/
 ---
 ## HTMLFrameElement class

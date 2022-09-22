@@ -3,7 +3,7 @@ title: AmortizationTransactionResponse
 second_title: Aspose.Finance for .NET API Reference
 description: Amortization statement transaction response class.
 type: docs
-weight: 3790
+weight: 3810
 url: /net/aspose.finance.ofx.loan/amortizationtransactionresponse/
 ---
 ## AmortizationTransactionResponse class

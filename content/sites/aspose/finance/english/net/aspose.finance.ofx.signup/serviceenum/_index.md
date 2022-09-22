@@ -3,7 +3,7 @@ title: ServiceEnum
 second_title: Aspose.Finance for .NET API Reference
 description: Service type enum.
 type: docs
-weight: 5670
+weight: 5700
 url: /net/aspose.finance.ofx.signup/serviceenum/
 ---
 ## ServiceEnum enumeration

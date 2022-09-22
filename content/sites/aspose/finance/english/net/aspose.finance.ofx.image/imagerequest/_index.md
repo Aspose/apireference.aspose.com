@@ -3,7 +3,7 @@ title: ImageRequest
 second_title: Aspose.Finance for .NET API Reference
 description: Image request class.
 type: docs
-weight: 2280
+weight: 2290
 url: /net/aspose.finance.ofx.image/imagerequest/
 ---
 ## ImageRequest class

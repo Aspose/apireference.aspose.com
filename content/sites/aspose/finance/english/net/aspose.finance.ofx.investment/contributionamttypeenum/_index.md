@@ -3,7 +3,7 @@ title: ContributionAmtTypeEnum
 second_title: Aspose.Finance for .NET API Reference
 description: 
 type: docs
-weight: 2750
+weight: 2760
 url: /net/aspose.finance.ofx.investment/contributionamttypeenum/
 ---
 ## ContributionAmtTypeEnum enumeration

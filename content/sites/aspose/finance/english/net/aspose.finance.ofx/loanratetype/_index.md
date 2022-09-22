@@ -3,7 +3,7 @@ title: LoanRateType
 second_title: Aspose.Finance for .NET API Reference
 description: Loan rate class.
 type: docs
-weight: 4100
+weight: 4120
 url: /net/aspose.finance.ofx/loanratetype/
 ---
 ## LoanRateType class

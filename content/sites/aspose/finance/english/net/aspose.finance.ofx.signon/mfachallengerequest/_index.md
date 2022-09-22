@@ -3,7 +3,7 @@ title: MFAChallengeRequest
 second_title: Aspose.Finance for .NET API Reference
 description: MFA challenge request class. It is a request for the server to send a list of challenge questions that must be correctly answered before the OFX client may proceed with further OFX requests.
 type: docs
-weight: 5330
+weight: 5360
 url: /net/aspose.finance.ofx.signon/mfachallengerequest/
 ---
 ## MFAChallengeRequest class

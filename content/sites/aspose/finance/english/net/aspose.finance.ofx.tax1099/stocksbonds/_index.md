@@ -3,7 +3,7 @@ title: StocksBonds
 second_title: Aspose.Finance for .NET API Reference
 description: Stocks bonds etc.
 type: docs
-weight: 5980
+weight: 6010
 url: /net/aspose.finance.ofx.tax1099/stocksbonds/
 ---
 ## StocksBonds class

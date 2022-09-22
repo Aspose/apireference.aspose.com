@@ -3,7 +3,7 @@ title: HTMLAnchorElement
 second_title: Aspose.Finance for .NET API Reference
 description: The class represents anchor element. See the A element definition in HTML 4.01.
 type: docs
-weight: 6700
+weight: 6730
 url: /net/aspose.finance.xbrl.dom.html/htmlanchorelement/
 ---
 ## HTMLAnchorElement class

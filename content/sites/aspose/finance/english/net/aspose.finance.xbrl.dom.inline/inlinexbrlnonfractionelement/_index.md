@@ -3,7 +3,7 @@ title: InlineXbrlNonFractionElement
 second_title: Aspose.Finance for .NET API Reference
 description: The class represents inline xbrl nonFraction element.
 type: docs
-weight: 7360
+weight: 7390
 url: /net/aspose.finance.xbrl.dom.inline/inlinexbrlnonfractionelement/
 ---
 ## InlineXbrlNonFractionElement class

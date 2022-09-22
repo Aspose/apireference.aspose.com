@@ -3,7 +3,7 @@ title: XlinkType
 second_title: Aspose.Finance for .NET API Reference
 description: Xlink type enum.
 type: docs
-weight: 8230
+weight: 8280
 url: /net/aspose.finance.xbrl/xlinktype/
 ---
 ## XlinkType enumeration

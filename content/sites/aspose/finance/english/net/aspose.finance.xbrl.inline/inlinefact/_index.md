@@ -3,7 +3,7 @@ title: InlineFact
 second_title: Aspose.Finance for .NET API Reference
 description: This abstract class if base class of fact in inline document including InlineFraction./inlinefractionInlineNonfraction./inlinenonfractionInlineNonnumeric./inlinenonnumericInlineTuple./inlinetuple.
 type: docs
-weight: 7670
+weight: 7710
 url: /net/aspose.finance.xbrl.inline/inlinefact/
 ---
 ## InlineFact class

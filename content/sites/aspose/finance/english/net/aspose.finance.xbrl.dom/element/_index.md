@@ -3,7 +3,7 @@ title: Element
 second_title: Aspose.Finance for .NET API Reference
 description: The Element interface represents an element in an inline xbrl document.
 type: docs
-weight: 6670
+weight: 6700
 url: /net/aspose.finance.xbrl.dom/element/
 ---
 ## Element class

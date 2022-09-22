@@ -3,7 +3,7 @@ title: Tax1098MessageSet
 second_title: Aspose.Finance for .NET API Reference
 description: Tax 1098 message set.
 type: docs
-weight: 4840
+weight: 4860
 url: /net/aspose.finance.ofx.profile/tax1098messageset/
 ---
 ## Tax1098MessageSet class

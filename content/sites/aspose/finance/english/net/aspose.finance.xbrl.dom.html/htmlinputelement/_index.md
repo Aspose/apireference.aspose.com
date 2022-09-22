@@ -3,7 +3,7 @@ title: HTMLInputElement
 second_title: Aspose.Finance for .NET API Reference
 description: The class represents form control. Depending upon the environment in which the page is being viewed the value property may be read-only for the file upload input type. For the password input type the actual value returned may be masked to prevent unauthorized use. See the INPUT element definition in HTML 4.01.
 type: docs
-weight: 6950
+weight: 6980
 url: /net/aspose.finance.xbrl.dom.html/htmlinputelement/
 ---
 ## HTMLInputElement class

@@ -3,7 +3,7 @@ title: OpenOrderBuyOption
 second_title: Aspose.Finance for .NET API Reference
 description: Open order buy option class.
 type: docs
-weight: 3240
+weight: 3250
 url: /net/aspose.finance.ofx.investment/openorderbuyoption/
 ---
 ## OpenOrderBuyOption class

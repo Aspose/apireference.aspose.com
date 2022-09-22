@@ -3,7 +3,7 @@ title: RecurringInterSyncResponse
 second_title: Aspose.Finance for .NET API Reference
 description: Recurring interbank transaction synchronization response class.
 type: docs
-weight: 2560
+weight: 2570
 url: /net/aspose.finance.ofx.intertransfer/recurringintersyncresponse/
 ---
 ## RecurringInterSyncResponse class

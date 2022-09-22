@@ -3,7 +3,7 @@ title: HTMLImageElement
 second_title: Aspose.Finance for .NET API Reference
 description: The class represents embedded image. See the IMG element definition in HTML 4.01.
 type: docs
-weight: 6940
+weight: 6970
 url: /net/aspose.finance.xbrl.dom.html/htmlimageelement/
 ---
 ## HTMLImageElement class

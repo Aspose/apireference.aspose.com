@@ -3,7 +3,7 @@ title: InceptToDate
 second_title: Aspose.Finance for .NET API Reference
 description: Total contributions to date since inception
 type: docs
-weight: 2860
+weight: 2870
 url: /net/aspose.finance.ofx.investment/incepttodate/
 ---
 ## InceptToDate class

@@ -3,7 +3,7 @@ title: MessageSetList
 second_title: Aspose.Finance for .NET API Reference
 description: message set list information class.
 type: docs
-weight: 4600
+weight: 4620
 url: /net/aspose.finance.ofx.profile/messagesetlist/
 ---
 ## MessageSetList class

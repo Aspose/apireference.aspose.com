@@ -3,7 +3,7 @@ title: InlineXbrlTupleElement
 second_title: Aspose.Finance for .NET API Reference
 description: The class represents inline xbrl tuple element.
 type: docs
-weight: 7410
+weight: 7440
 url: /net/aspose.finance.xbrl.dom.inline/inlinexbrltupleelement/
 ---
 ## InlineXbrlTupleElement class

@@ -3,7 +3,7 @@ title: QualifiedName
 second_title: Aspose.Finance for .NET API Reference
 description: XML schema type QName as defined in the http//www.w3.org/2001/XMLSchema namespace.
 type: docs
-weight: 7890
+weight: 7940
 url: /net/aspose.finance.xbrl/qualifiedname/
 ---
 ## QualifiedName class

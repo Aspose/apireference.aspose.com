@@ -3,7 +3,7 @@ title: Label
 second_title: Aspose.Finance for .NET API Reference
 description: This class is a Xlink./xlink with Resource type. Although each taxonomy defines a single set of elements representing a set of business reporting Concepts the human-readable XBRL documentation for those concepts including labels strings used as human-readable names for each concept and other explanatory documentation is contained in a resource element in the label Linkbase.
 type: docs
-weight: 7770
+weight: 7810
 url: /net/aspose.finance.xbrl/label/
 ---
 ## Label class

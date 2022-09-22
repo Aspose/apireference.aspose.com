@@ -3,7 +3,7 @@ title: XbrlInstanceCollection
 second_title: Aspose.Finance for .NET API Reference
 description: Collection of XBRL instances.
 type: docs
-weight: 8210
+weight: 8260
 url: /net/aspose.finance.xbrl/xbrlinstancecollection/
 ---
 ## XbrlInstanceCollection class

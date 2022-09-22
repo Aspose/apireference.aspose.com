@@ -3,7 +3,7 @@ title: MFAChallengeTransactionResponse
 second_title: Aspose.Finance for .NET API Reference
 description: MFA challenge transaction response class
 type: docs
-weight: 5360
+weight: 5390
 url: /net/aspose.finance.ofx.signon/mfachallengetransactionresponse/
 ---
 ## MFAChallengeTransactionResponse class

@@ -3,7 +3,7 @@ title: InlineXbrlElement
 second_title: Aspose.Finance for .NET API Reference
 description: The base class of inline xbrl element.
 type: docs
-weight: 7300
+weight: 7330
 url: /net/aspose.finance.xbrl.dom.inline/inlinexbrlelement/
 ---
 ## InlineXbrlElement class

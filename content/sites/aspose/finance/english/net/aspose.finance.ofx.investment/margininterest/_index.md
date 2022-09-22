@@ -3,7 +3,7 @@ title: MarginInterest
 second_title: Aspose.Finance for .NET API Reference
 description: Investment margin interest class.
 type: docs
-weight: 3200
+weight: 3210
 url: /net/aspose.finance.ofx.investment/margininterest/
 ---
 ## MarginInterest class

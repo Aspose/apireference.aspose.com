@@ -3,7 +3,7 @@ title: Tax1098ResponseMessageSetV1
 second_title: Aspose.Finance for .NET API Reference
 description: Tax 1098 response messages set version 1 class.
 type: docs
-weight: 5850
+weight: 5880
 url: /net/aspose.finance.ofx/tax1098responsemessagesetv1/
 ---
 ## Tax1098ResponseMessageSetV1 class

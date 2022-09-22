@@ -3,7 +3,7 @@ title: ChangeUserInfoTransactionRequest
 second_title: Aspose.Finance for .NET API Reference
 description: Change user information transaction request class.
 type: docs
-weight: 5580
+weight: 5610
 url: /net/aspose.finance.ofx.signup/changeuserinfotransactionrequest/
 ---
 ## ChangeUserInfoTransactionRequest class

@@ -3,7 +3,7 @@ title: SchemaRefCollection
 second_title: Aspose.Finance for .NET API Reference
 description: Collection of schema references.
 type: docs
-weight: 8020
+weight: 8070
 url: /net/aspose.finance.xbrl/schemarefcollection/
 ---
 ## SchemaRefCollection class

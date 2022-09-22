@@ -3,7 +3,7 @@ title: ReferenceLink
 second_title: Aspose.Finance for .NET API Reference
 description: This class is intended to contain relationships between Concepts and references to authoritative statements in the published business financial and accounting literature that give meaning to the concepts.
 type: docs
-weight: 7920
+weight: 7970
 url: /net/aspose.finance.xbrl/referencelink/
 ---
 ## ReferenceLink class

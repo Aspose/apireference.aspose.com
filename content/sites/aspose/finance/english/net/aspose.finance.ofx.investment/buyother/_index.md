@@ -3,7 +3,7 @@ title: BuyOther
 second_title: Aspose.Finance for .NET API Reference
 description: Investment buy other transaction class.
 type: docs
-weight: 2710
+weight: 2720
 url: /net/aspose.finance.ofx.investment/buyother/
 ---
 ## BuyOther class

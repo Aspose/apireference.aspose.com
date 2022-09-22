@@ -3,7 +3,7 @@ title: AbstractSecurityInfo
 second_title: Aspose.Finance for .NET API Reference
 description: Abstract base class for security info related classes.
 type: docs
-weight: 4980
+weight: 5010
 url: /net/aspose.finance.ofx.securitieslist/abstractsecurityinfo/
 ---
 ## AbstractSecurityInfo class

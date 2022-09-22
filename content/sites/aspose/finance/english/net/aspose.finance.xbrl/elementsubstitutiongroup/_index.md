@@ -3,7 +3,7 @@ title: ElementSubstitutionGroup
 second_title: Aspose.Finance for .NET API Reference
 description: Concept./concept substitution type enum.
 type: docs
-weight: 7610
+weight: 7640
 url: /net/aspose.finance.xbrl/elementsubstitutiongroup/
 ---
 ## ElementSubstitutionGroup enumeration

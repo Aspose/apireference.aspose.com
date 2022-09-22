@@ -3,7 +3,7 @@ title: InlineXbrlFractionElement
 second_title: Aspose.Finance for .NET API Reference
 description: The class represents inline xbrl fraction element.
 type: docs
-weight: 7330
+weight: 7360
 url: /net/aspose.finance.xbrl.dom.inline/inlinexbrlfractionelement/
 ---
 ## InlineXbrlFractionElement class

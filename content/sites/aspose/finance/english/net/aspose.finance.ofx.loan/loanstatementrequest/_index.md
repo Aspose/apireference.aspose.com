@@ -3,7 +3,7 @@ title: LoanStatementRequest
 second_title: Aspose.Finance for .NET API Reference
 description: Loan download request class.
 type: docs
-weight: 3940
+weight: 3960
 url: /net/aspose.finance.ofx.loan/loanstatementrequest/
 ---
 ## LoanStatementRequest class

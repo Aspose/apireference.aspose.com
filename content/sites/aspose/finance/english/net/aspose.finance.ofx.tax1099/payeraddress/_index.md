@@ -3,7 +3,7 @@ title: PayerAddress
 second_title: Aspose.Finance for .NET API Reference
 description: Payer address class.
 type: docs
-weight: 5930
+weight: 5960
 url: /net/aspose.finance.ofx.tax1099/payeraddress/
 ---
 ## PayerAddress class

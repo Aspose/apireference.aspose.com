@@ -3,7 +3,7 @@ title: Investment401kBalance
 second_title: Aspose.Finance for .NET API Reference
 description: The class contains an optional cash balance. It also contains the balances of the standard 401k sub-accounts.
 type: docs
-weight: 2900
+weight: 2910
 url: /net/aspose.finance.ofx.investment/investment401kbalance/
 ---
 ## Investment401kBalance class

@@ -3,7 +3,7 @@ title: PresentmentDirRequestMessageSetV1
 second_title: Aspose.Finance for .NET API Reference
 description: Biller directory request messages set version 1 class.
 type: docs
-weight: 4310
+weight: 4330
 url: /net/aspose.finance.ofx/presentmentdirrequestmessagesetv1/
 ---
 ## PresentmentDirRequestMessageSetV1 class

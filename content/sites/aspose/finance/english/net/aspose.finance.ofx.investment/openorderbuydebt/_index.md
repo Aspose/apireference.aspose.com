@@ -3,7 +3,7 @@ title: OpenOrderBuyDebt
 second_title: Aspose.Finance for .NET API Reference
 description: Open order buy debt class.
 type: docs
-weight: 3220
+weight: 3230
 url: /net/aspose.finance.ofx.investment/openorderbuydebt/
 ---
 ## OpenOrderBuyDebt class

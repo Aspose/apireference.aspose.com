@@ -3,7 +3,7 @@ title: InlineContinuation
 second_title: Aspose.Finance for .NET API Reference
 description: This class is for continuation in inline XBRL document.
 type: docs
-weight: 7660
+weight: 7700
 url: /net/aspose.finance.xbrl.inline/inlinecontinuation/
 ---
 ## InlineContinuation class

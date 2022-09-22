@@ -3,7 +3,7 @@ title: HTMLHtmlElement
 second_title: Aspose.Finance for .NET API Reference
 description: The class represents root of an HTML document. See the HTML element definition in HTML 4.01.
 type: docs
-weight: 6920
+weight: 6950
 url: /net/aspose.finance.xbrl.dom.html/htmlhtmlelement/
 ---
 ## HTMLHtmlElement class

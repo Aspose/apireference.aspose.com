@@ -3,7 +3,7 @@ title: InlineXbrlDocument
 second_title: Aspose.Finance for .NET API Reference
 description: An inline XBRL document.
 type: docs
-weight: 7750
+weight: 7790
 url: /net/aspose.finance.xbrl.inline/inlinexbrldocument/
 ---
 ## InlineXbrlDocument class
@@ -18,7 +18,8 @@ public class InlineXbrlDocument : Document
 
 | Name | Description |
 | --- | --- |
-| [InlineXbrlDocument](inlinexbrldocument)(string) | Initializes a new instance of [`InlineXbrlDocument`](../inlinexbrldocument) class and open a file. |
+| [InlineXbrlDocument](inlinexbrldocument#constructor)(string) | Initializes a new instance of [`InlineXbrlDocument`](../inlinexbrldocument) class and open a file. |
+| [InlineXbrlDocument](inlinexbrldocument#constructor_1)(string, LoadOptions) | Initializes a new instance of [`InlineXbrlDocument`](../inlinexbrldocument) class and open a file. |
 
 ## Properties
 
@@ -81,7 +82,9 @@ public class InlineXbrlDocument : Document
 | [RemoveChild](../../aspose.finance.xbrl.dom/node/removechild)(Node) | Removes the child node indicated by old child from the list of children. |
 | [ReplaceChild](../../aspose.finance.xbrl.dom/node/replacechild)(Node, Node) | Replaces the child node old child with new child in the list of children, and returns the old child node. |
 | [Save](../../aspose.finance.xbrl.inline/inlinexbrldocument/save#save)(Stream) | Creates and saves the inline xbrl file to the stream. |
-| [Save](../../aspose.finance.xbrl.inline/inlinexbrldocument/save#save_1)(string) | Creates and saves the inline xbrl file to the disk. |
+| [Save](../../aspose.finance.xbrl.inline/inlinexbrldocument/save#save_2)(string) | Creates and saves the inline xbrl file to the disk. |
+| [Save](../../aspose.finance.xbrl.inline/inlinexbrldocument/save#save_1)(Stream, SaveOptions) | Creates and saves the inline xbrl file to the stream. |
+| [Save](../../aspose.finance.xbrl.inline/inlinexbrldocument/save#save_3)(string, SaveOptions) | Creates and saves the inline xbrl file to the disk. |
 | [Validate](../../aspose.finance.xbrl.inline/inlinexbrldocument/validate)() | Validates this inline XBRL document. |
 
 ### See Also

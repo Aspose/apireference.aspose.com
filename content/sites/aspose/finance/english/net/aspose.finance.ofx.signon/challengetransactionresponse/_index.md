@@ -3,7 +3,7 @@ title: ChallengeTransactionResponse
 second_title: Aspose.Finance for .NET API Reference
 description: Challenge transaction response class.
 type: docs
-weight: 5290
+weight: 5320
 url: /net/aspose.finance.ofx.signon/challengetransactionresponse/
 ---
 ## ChallengeTransactionResponse class

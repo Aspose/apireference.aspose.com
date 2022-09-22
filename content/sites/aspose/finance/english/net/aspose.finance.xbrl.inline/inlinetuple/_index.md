@@ -3,7 +3,7 @@ title: InlineTuple
 second_title: Aspose.Finance for .NET API Reference
 description: This class is for the tuple in inline XBRL document.
 type: docs
-weight: 7740
+weight: 7780
 url: /net/aspose.finance.xbrl.inline/inlinetuple/
 ---
 ## InlineTuple class

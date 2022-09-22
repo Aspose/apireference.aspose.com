@@ -3,7 +3,7 @@ title: HTMLAreaElement
 second_title: Aspose.Finance for .NET API Reference
 description: The class represents client-side image map area definition. See the AREA element definition in HTML 4.01.
 type: docs
-weight: 6720
+weight: 6750
 url: /net/aspose.finance.xbrl.dom.html/htmlareaelement/
 ---
 ## HTMLAreaElement class

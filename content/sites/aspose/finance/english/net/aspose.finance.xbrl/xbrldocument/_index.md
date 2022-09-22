@@ -3,7 +3,7 @@ title: XbrlDocument
 second_title: Aspose.Finance for .NET API Reference
 description: An XBRL document which contains one or more XBRL instance.
 type: docs
-weight: 8170
+weight: 8220
 url: /net/aspose.finance.xbrl/xbrldocument/
 ---
 ## XbrlDocument class
@@ -20,6 +20,7 @@ public class XbrlDocument
 | --- | --- |
 | [XbrlDocument](xbrldocument#constructor)() | Initializes a new instance of XbrlDocument class |
 | [XbrlDocument](xbrldocument#constructor_1)(string) | Initializes a new instance of XbrlDocument class and open a file. |
+| [XbrlDocument](xbrldocument#constructor_2)(string, LoadOptions) | Initializes a new instance of XbrlDocument class and open a file. |
 
 ## Properties
 

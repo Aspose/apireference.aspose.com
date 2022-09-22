@@ -3,7 +3,7 @@ title: OtherInfo
 second_title: Aspose.Finance for .NET API Reference
 description: Use this class for security types other than debts mutual funds options and stocks.
 type: docs
-weight: 5110
+weight: 5140
 url: /net/aspose.finance.ofx.securitieslist/otherinfo/
 ---
 ## OtherInfo class

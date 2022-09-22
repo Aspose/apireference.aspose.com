@@ -3,7 +3,7 @@ title: PresentationLinkbaseRef
 second_title: Aspose.Finance for .NET API Reference
 description: This class is used to presentation linkbase reference.
 type: docs
-weight: 7880
+weight: 7930
 url: /net/aspose.finance.xbrl/presentationlinkbaseref/
 ---
 ## PresentationLinkbaseRef class

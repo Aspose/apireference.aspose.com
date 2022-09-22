@@ -3,7 +3,7 @@ title: HTMLMapElement
 second_title: Aspose.Finance for .NET API Reference
 description: The class represents client-side image map. See the MAP element definition in HTML 4.01.
 type: docs
-weight: 7010
+weight: 7040
 url: /net/aspose.finance.xbrl.dom.html/htmlmapelement/
 ---
 ## HTMLMapElement class

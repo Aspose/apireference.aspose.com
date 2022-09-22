@@ -3,7 +3,7 @@ title: ClientEnroll
 second_title: Aspose.Finance for .NET API Reference
 description: Client-based enrollment supported.
 type: docs
-weight: 4420
+weight: 4440
 url: /net/aspose.finance.ofx.profile/clientenroll/
 ---
 ## ClientEnroll class

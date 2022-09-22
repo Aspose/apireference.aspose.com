@@ -3,7 +3,7 @@ title: Tax1099Request
 second_title: Aspose.Finance for .NET API Reference
 description: Tax 1099 request class. This requests all types of 1099 tax forms from the server.
 type: docs
-weight: 6050
+weight: 6080
 url: /net/aspose.finance.ofx.tax1099/tax1099request/
 ---
 ## Tax1099Request class

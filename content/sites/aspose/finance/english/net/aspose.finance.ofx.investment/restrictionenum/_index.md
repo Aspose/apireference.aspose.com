@@ -3,7 +3,7 @@ title: RestrictionEnum
 second_title: Aspose.Finance for .NET API Reference
 description: Restriction enum.
 type: docs
-weight: 3450
+weight: 3460
 url: /net/aspose.finance.ofx.investment/restrictionenum/
 ---
 ## RestrictionEnum enumeration

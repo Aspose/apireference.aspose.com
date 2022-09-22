@@ -3,7 +3,7 @@ title: Fact
 second_title: Aspose.Finance for .NET API Reference
 description: Fact can be simple in which case their values must be expressed as simple content and facts can be compound in which case their value is made up from other simple and/or compound fact. Simple fact are expressed using Item./item. Compound facts are expressed using Tuple./tupletuple.
 type: docs
-weight: 7620
+weight: 7650
 url: /net/aspose.finance.xbrl/fact/
 ---
 ## Fact class

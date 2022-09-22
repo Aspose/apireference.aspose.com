@@ -3,7 +3,7 @@ title: PositionDebt
 second_title: Aspose.Finance for .NET API Reference
 description: Investment position debt class.
 type: docs
-weight: 3370
+weight: 3380
 url: /net/aspose.finance.ofx.investment/positiondebt/
 ---
 ## PositionDebt class

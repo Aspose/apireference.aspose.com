@@ -3,7 +3,7 @@ title: PrincipalBalanceType
 second_title: Aspose.Finance for .NET API Reference
 description: Loan principal balance.
 type: docs
-weight: 4340
+weight: 4360
 url: /net/aspose.finance.ofx/principalbalancetype/
 ---
 ## PrincipalBalanceType class

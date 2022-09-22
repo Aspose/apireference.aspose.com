@@ -3,7 +3,7 @@ title: RecipientAddress
 second_title: Aspose.Finance for .NET API Reference
 description: 
 type: docs
-weight: 5960
+weight: 5990
 url: /net/aspose.finance.ofx.tax1099/recipientaddress/
 ---
 ## RecipientAddress class

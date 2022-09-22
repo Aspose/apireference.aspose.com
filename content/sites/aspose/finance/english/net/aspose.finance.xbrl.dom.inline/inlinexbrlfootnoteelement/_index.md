@@ -3,7 +3,7 @@ title: InlineXbrlFootnoteElement
 second_title: Aspose.Finance for .NET API Reference
 description: The class represents inline xbrl footnote element.
 type: docs
-weight: 7320
+weight: 7350
 url: /net/aspose.finance.xbrl.dom.inline/inlinexbrlfootnoteelement/
 ---
 ## InlineXbrlFootnoteElement class

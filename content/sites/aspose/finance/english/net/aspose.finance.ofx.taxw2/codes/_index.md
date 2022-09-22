@@ -3,7 +3,7 @@ title: Codes
 second_title: Aspose.Finance for .NET API Reference
 description: Code class code and amount for Box 12.
 type: docs
-weight: 6120
+weight: 6150
 url: /net/aspose.finance.ofx.taxw2/codes/
 ---
 ## Codes class

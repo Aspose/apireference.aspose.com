@@ -6,7 +6,7 @@ type: docs
 weight: 270
 url: /net/aspose.finance.xbrl.inline/inlinexbrldocument/save/
 ---
-## Save(string) {#save_1}
+## Save(string) {#save_2}
 
 Creates and saves the inline xbrl file to the disk.
 
@@ -40,6 +40,50 @@ public void Save(Stream stream)
 
 ### See Also
 
+* class [InlineXbrlDocument](../../inlinexbrldocument)
+* namespace [Aspose.Finance.Xbrl.Inline](../../inlinexbrldocument)
+* assembly [Aspose.Finance](../../../)
+
+---
+
+## Save(string, SaveOptions) {#save_3}
+
+Creates and saves the inline xbrl file to the disk.
+
+```csharp
+public void Save(string fileName, SaveOptions saveOptions)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| fileName | String | The name of created file. |
+| saveOptions | SaveOptions | The save options. |
+
+### See Also
+
+* class [SaveOptions](../../../aspose.finance.xbrl/saveoptions)
+* class [InlineXbrlDocument](../../inlinexbrldocument)
+* namespace [Aspose.Finance.Xbrl.Inline](../../inlinexbrldocument)
+* assembly [Aspose.Finance](../../../)
+
+---
+
+## Save(Stream, SaveOptions) {#save_1}
+
+Creates and saves the inline xbrl file to the stream.
+
+```csharp
+public void Save(Stream stream, SaveOptions saveOptions)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| stream | Stream | The stream. |
+| saveOptions | SaveOptions | The save options. |
+
+### See Also
+
+* class [SaveOptions](../../../aspose.finance.xbrl/saveoptions)
 * class [InlineXbrlDocument](../../inlinexbrldocument)
 * namespace [Aspose.Finance.Xbrl.Inline](../../inlinexbrldocument)
 * assembly [Aspose.Finance](../../../)

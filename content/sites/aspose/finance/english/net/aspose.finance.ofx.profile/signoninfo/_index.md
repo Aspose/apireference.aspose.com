@@ -3,7 +3,7 @@ title: SignonInfo
 second_title: Aspose.Finance for .NET API Reference
 description: Signon information class.
 type: docs
-weight: 4770
+weight: 4790
 url: /net/aspose.finance.ofx.profile/signoninfo/
 ---
 ## SignonInfo class

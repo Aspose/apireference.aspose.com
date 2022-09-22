@@ -3,7 +3,7 @@ title: EnrollResponse
 second_title: Aspose.Finance for .NET API Reference
 description: Enrollment response class.
 type: docs
-weight: 5610
+weight: 5640
 url: /net/aspose.finance.ofx.signup/enrollresponse/
 ---
 ## EnrollResponse class

@@ -3,7 +3,7 @@ title: Payee
 second_title: Aspose.Finance for .NET API Reference
 description: This class specifies a complete billing address for a payee.
 type: docs
-weight: 4240
+weight: 4260
 url: /net/aspose.finance.ofx/payee/
 ---
 ## Payee class

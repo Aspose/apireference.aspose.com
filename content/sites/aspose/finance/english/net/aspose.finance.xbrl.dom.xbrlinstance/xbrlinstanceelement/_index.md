@@ -3,7 +3,7 @@ title: XbrlInstanceElement
 second_title: Aspose.Finance for .NET API Reference
 description: The base class of xbrl instance element.
 type: docs
-weight: 7490
+weight: 7520
 url: /net/aspose.finance.xbrl.dom.xbrlinstance/xbrlinstanceelement/
 ---
 ## XbrlInstanceElement class

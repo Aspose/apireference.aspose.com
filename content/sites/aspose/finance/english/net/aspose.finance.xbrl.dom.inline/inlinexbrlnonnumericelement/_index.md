@@ -3,7 +3,7 @@ title: InlineXbrlNonNumericElement
 second_title: Aspose.Finance for .NET API Reference
 description: The class represents inline xbrl nonNumeric element.
 type: docs
-weight: 7370
+weight: 7400
 url: /net/aspose.finance.xbrl.dom.inline/inlinexbrlnonnumericelement/
 ---
 ## InlineXbrlNonNumericElement class

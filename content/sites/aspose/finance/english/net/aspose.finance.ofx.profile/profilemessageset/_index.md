@@ -3,7 +3,7 @@ title: ProfileMessageSet
 second_title: Aspose.Finance for .NET API Reference
 description: Profile message set.
 type: docs
-weight: 4680
+weight: 4700
 url: /net/aspose.finance.ofx.profile/profilemessageset/
 ---
 ## ProfileMessageSet class

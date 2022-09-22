@@ -3,7 +3,7 @@ title: SchemaRefValidationError
 second_title: Aspose.Finance for .NET API Reference
 description: This class is for Arc validation related error.
 type: docs
-weight: 8140
+weight: 8190
 url: /net/aspose.finance.xbrl.validator/schemarefvalidationerror/
 ---
 ## SchemaRefValidationError class

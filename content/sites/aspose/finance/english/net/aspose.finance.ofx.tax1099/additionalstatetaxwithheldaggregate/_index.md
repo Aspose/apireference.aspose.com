@@ -3,7 +3,7 @@ title: AdditionalStateTaxWithheldAggregate
 second_title: Aspose.Finance for .NET API Reference
 description: State tax withheld when more than one state must be reported
 type: docs
-weight: 5870
+weight: 5900
 url: /net/aspose.finance.ofx.tax1099/additionalstatetaxwithheldaggregate/
 ---
 ## AdditionalStateTaxWithheldAggregate class

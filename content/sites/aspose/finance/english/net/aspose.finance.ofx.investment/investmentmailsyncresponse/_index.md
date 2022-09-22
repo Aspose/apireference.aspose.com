@@ -3,7 +3,7 @@ title: InvestmentMailSyncResponse
 second_title: Aspose.Finance for .NET API Reference
 description: Investment email Synchronization response class.
 type: docs
-weight: 3000
+weight: 3010
 url: /net/aspose.finance.ofx.investment/investmentmailsyncresponse/
 ---
 ## InvestmentMailSyncResponse class

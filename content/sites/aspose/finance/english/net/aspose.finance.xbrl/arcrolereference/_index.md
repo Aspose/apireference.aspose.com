@@ -3,7 +3,7 @@ title: ArcroleReference
 second_title: Aspose.Finance for .NET API Reference
 description: This class is used to resolve custom arcrole values that are used in a Linkbase or an XBRL Instance.
 type: docs
-weight: 6480
+weight: 6510
 url: /net/aspose.finance.xbrl/arcrolereference/
 ---
 ## ArcroleReference class

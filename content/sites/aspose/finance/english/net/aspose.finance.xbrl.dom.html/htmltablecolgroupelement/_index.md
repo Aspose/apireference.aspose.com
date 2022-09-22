@@ -3,7 +3,7 @@ title: HTMLTableColGroupElement
 second_title: Aspose.Finance for .NET API Reference
 description: The class represents the COLGROUP element. See the COLGROUP element definition in HTML 4.01.
 type: docs
-weight: 7200
+weight: 7230
 url: /net/aspose.finance.xbrl.dom.html/htmltablecolgroupelement/
 ---
 ## HTMLTableColGroupElement class

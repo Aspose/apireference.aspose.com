@@ -3,7 +3,7 @@ title: InterTransferMessageSet
 second_title: Aspose.Finance for .NET API Reference
 description: Interbank transfers message set.
 type: docs
-weight: 4530
+weight: 4550
 url: /net/aspose.finance.ofx.profile/intertransfermessageset/
 ---
 ## InterTransferMessageSet class

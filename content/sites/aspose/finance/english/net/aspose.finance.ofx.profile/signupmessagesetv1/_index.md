@@ -3,7 +3,7 @@ title: SignupMessageSetV1
 second_title: Aspose.Finance for .NET API Reference
 description: Version 1 of signup message set.
 type: docs
-weight: 4810
+weight: 4830
 url: /net/aspose.finance.ofx.profile/signupmessagesetv1/
 ---
 ## SignupMessageSetV1 class

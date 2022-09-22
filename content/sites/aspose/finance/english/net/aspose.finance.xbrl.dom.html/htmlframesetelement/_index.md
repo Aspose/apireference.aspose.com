@@ -3,7 +3,7 @@ title: HTMLFrameSetElement
 second_title: Aspose.Finance for .NET API Reference
 description: This class represents a grid of frames. See the FRAMESET element definition in HTML 4.01.
 type: docs
-weight: 6880
+weight: 6910
 url: /net/aspose.finance.xbrl.dom.html/htmlframesetelement/
 ---
 ## HTMLFrameSetElement class

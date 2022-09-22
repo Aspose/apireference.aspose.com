@@ -3,7 +3,7 @@ title: InlineRelationship
 second_title: Aspose.Finance for .NET API Reference
 description: This class is for relationships in inline XBRL document.
 type: docs
-weight: 7730
+weight: 7770
 url: /net/aspose.finance.xbrl.inline/inlinerelationship/
 ---
 ## InlineRelationship class

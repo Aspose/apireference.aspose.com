@@ -3,7 +3,7 @@ title: HTMLStyleElement
 second_title: Aspose.Finance for .NET API Reference
 description: The class represents style information. See the STYLE element definition in HTML 4.01.
 type: docs
-weight: 7160
+weight: 7190
 url: /net/aspose.finance.xbrl.dom.html/htmlstyleelement/
 ---
 ## HTMLStyleElement class

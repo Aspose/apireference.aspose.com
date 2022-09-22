@@ -3,7 +3,7 @@ title: RoleType
 second_title: Aspose.Finance for .NET API Reference
 description: This class is used to define custom role type.
 type: docs
-weight: 7980
+weight: 8030
 url: /net/aspose.finance.xbrl/roletype/
 ---
 ## RoleType class

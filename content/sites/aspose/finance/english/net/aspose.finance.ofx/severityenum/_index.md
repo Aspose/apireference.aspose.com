@@ -3,7 +3,7 @@ title: SeverityEnum
 second_title: Aspose.Finance for .NET API Reference
 description: Severity enum.
 type: docs
-weight: 5250
+weight: 5280
 url: /net/aspose.finance.ofx/severityenum/
 ---
 ## SeverityEnum enumeration

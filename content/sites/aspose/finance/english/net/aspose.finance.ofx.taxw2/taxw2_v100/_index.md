@@ -3,7 +3,7 @@ title: TaxW2_V100
 second_title: Aspose.Finance for .NET API Reference
 description: Tax W2 v100 form class.
 type: docs
-weight: 6220
+weight: 6250
 url: /net/aspose.finance.ofx.taxw2/taxw2_v100/
 ---
 ## TaxW2_V100 class

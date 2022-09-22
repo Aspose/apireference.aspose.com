@@ -3,7 +3,7 @@ title: XbrlLinkbaseRoleRefElement
 second_title: Aspose.Finance for .NET API Reference
 description: The class represents xbrl linkbase roleRef element.
 type: docs
-weight: 7570
+weight: 7600
 url: /net/aspose.finance.xbrl.dom.xbrllinkbase/xbrllinkbaserolerefelement/
 ---
 ## XbrlLinkbaseRoleRefElement class

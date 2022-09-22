@@ -3,7 +3,7 @@ title: XbrlExceptionType
 second_title: Aspose.Finance for .NET API Reference
 description: Represents custom exception type code.
 type: docs
-weight: 8190
+weight: 8240
 url: /net/aspose.finance.xbrl/xbrlexceptiontype/
 ---
 ## XbrlExceptionType enumeration

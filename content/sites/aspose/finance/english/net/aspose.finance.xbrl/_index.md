@@ -31,6 +31,7 @@ url: /net/aspose.finance.xbrl/
 | [Footnote](./footnote) | This class is a [`Xlink`](../aspose.finance.xbrl/xlink) with Resource type. It iss the only resource allowed in [`FootnoteLink`](../aspose.finance.xbrl/footnotelink). |
 | [FootnoteArc](./footnotearc) | This class is a [`Xlink`](../aspose.finance.xbrl/xlink) with Arc type. It is contained in FootnoteLink. |
 | [FootnoteLink](./footnotelink) | This class contains Locators, resources and arcs that describe irregular relationships between facts in an XBRL Instance. |
+| [IOConfig](./ioconfig) |  |
 | [Item](./item) | An item is an element in the substitution group for the XBRL item element. It contains the value of the simple fact and a reference to the context (and unit for numeric items) needed to correctly interpret that fact. |
 | [Label](./label) | This class is a [`Xlink`](../aspose.finance.xbrl/xlink) with Resource type. Although each taxonomy defines a single set of elements representing a set of business reporting Concepts, the human-readable XBRL documentation for those concepts, including labels (strings used as human-readable names for each concept) and other explanatory documentation, is contained in a resource element in the label Linkbase. |
 | [LabelArc](./labelarc) | This class is a [`Xlink`](../aspose.finance.xbrl/xlink) with Arc type. It connects Concepts with [`Label`](../aspose.finance.xbrl/label) resources. |
@@ -38,6 +39,7 @@ url: /net/aspose.finance.xbrl/
 | [LabelLinkbaseRef](./labellinkbaseref) | This class is used to label linkbase reference. |
 | [LinkbaseRef](./linkbaseref) | This class is used to linkbase reference. |
 | [LinkbaseRefCollection](./linkbaserefcollection) | Collection of schema linkbase references. |
+| [LoadOptions](./loadoptions) | The base class to configure options in file loading for different types |
 | [Loc](./loc) | This class is a [`Xlink`](../aspose.finance.xbrl/xlink) with Locator type. |
 | [LocalCacheService](./localcacheservice) | This class is a local cache service for schema and linkbase external files. |
 | [Locator](./locator) | The base abstract class of Xlink with Locator type. |

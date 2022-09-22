@@ -3,7 +3,7 @@ title: InterSyncResponse
 second_title: Aspose.Finance for .NET API Reference
 description: Interbank transaction synchronization response class.
 type: docs
-weight: 2460
+weight: 2470
 url: /net/aspose.finance.ofx.intertransfer/intersyncresponse/
 ---
 ## InterSyncResponse class

@@ -3,7 +3,7 @@ title: AbstractMessageSet
 second_title: Aspose.Finance for .NET API Reference
 description: Abstract base class of message set related classes.
 type: docs
-weight: 4350
+weight: 4370
 url: /net/aspose.finance.ofx.profile/abstractmessageset/
 ---
 ## AbstractMessageSet class

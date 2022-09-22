@@ -3,7 +3,7 @@ title: WireCancellationRequest
 second_title: Aspose.Finance for .NET API Reference
 description: Wire transfer cancellation request class.
 type: docs
-weight: 6350
+weight: 6380
 url: /net/aspose.finance.ofx.wiretransfer/wirecancellationrequest/
 ---
 ## WireCancellationRequest class

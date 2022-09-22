@@ -3,7 +3,7 @@ title: LoanDetailType
 second_title: Aspose.Finance for .NET API Reference
 description: Loan detail class.
 type: docs
-weight: 4040
+weight: 4060
 url: /net/aspose.finance.ofx/loandetailtype/
 ---
 ## LoanDetailType class

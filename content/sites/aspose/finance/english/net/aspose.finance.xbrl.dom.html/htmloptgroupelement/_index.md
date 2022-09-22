@@ -3,7 +3,7 @@ title: HTMLOptGroupElement
 second_title: Aspose.Finance for .NET API Reference
 description: The class represents group options together in logical subdivisions. See the OPTGROUP element definition in HTML 4.01.
 type: docs
-weight: 7080
+weight: 7110
 url: /net/aspose.finance.xbrl.dom.html/htmloptgroupelement/
 ---
 ## HTMLOptGroupElement class

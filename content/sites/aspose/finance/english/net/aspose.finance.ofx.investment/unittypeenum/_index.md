@@ -3,7 +3,7 @@ title: UnitTypeEnum
 second_title: Aspose.Finance for .NET API Reference
 description: Unit type enum.
 type: docs
-weight: 3580
+weight: 3590
 url: /net/aspose.finance.ofx.investment/unittypeenum/
 ---
 ## UnitTypeEnum enumeration

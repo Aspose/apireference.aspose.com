@@ -3,7 +3,7 @@ title: Tax1099TransactionRequest
 second_title: Aspose.Finance for .NET API Reference
 description: Tax 1099 transaction request class.
 type: docs
-weight: 6070
+weight: 6100
 url: /net/aspose.finance.ofx.tax1099/tax1099transactionrequest/
 ---
 ## Tax1099TransactionRequest class

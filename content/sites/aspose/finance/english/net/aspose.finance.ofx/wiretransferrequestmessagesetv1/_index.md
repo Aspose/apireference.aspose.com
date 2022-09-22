@@ -3,7 +3,7 @@ title: WireTransferRequestMessageSetV1
 second_title: Aspose.Finance for .NET API Reference
 description: Wire transfer request messages set version 1 class.
 type: docs
-weight: 6440
+weight: 6470
 url: /net/aspose.finance.ofx/wiretransferrequestmessagesetv1/
 ---
 ## WireTransferRequestMessageSetV1 class

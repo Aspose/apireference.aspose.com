@@ -3,7 +3,7 @@ title: LoanMailSyncRequest
 second_title: Aspose.Finance for .NET API Reference
 description: Loan mail synchronization request class.
 type: docs
-weight: 3860
+weight: 3880
 url: /net/aspose.finance.ofx.loan/loanmailsyncrequest/
 ---
 ## LoanMailSyncRequest class

@@ -3,7 +3,7 @@ title: OfxRequestDocument
 second_title: Aspose.Finance for .NET API Reference
 description: Ofx request document class.
 type: docs
-weight: 4210
+weight: 4230
 url: /net/aspose.finance.ofx/ofxrequestdocument/
 ---
 ## OfxRequestDocument class
@@ -20,6 +20,7 @@ public class OfxRequestDocument
 | --- | --- |
 | [OfxRequestDocument](ofxrequestdocument#constructor)() | Initializes a new instance of [`OfxRequestDocument`](../ofxrequestdocument) class. |
 | [OfxRequestDocument](ofxrequestdocument#constructor_1)(string) | Initializes a new instance of [`OfxRequestDocument`](../ofxrequestdocument) class. |
+| [OfxRequestDocument](ofxrequestdocument#constructor_2)(string, LoadOptions) | Initializes a new instance of [`OfxRequestDocument`](../ofxrequestdocument) class. |
 
 ## Properties
 
@@ -48,7 +49,8 @@ public class OfxRequestDocument
 
 | Name | Description |
 | --- | --- |
-| [Save](../../aspose.finance.ofx/ofxrequestdocument/save)(string, OfxVersionEnum) | Creates and saves the OFX file to the disk. |
+| [Save](../../aspose.finance.ofx/ofxrequestdocument/save#save)(string, OfxVersionEnum) | Creates and saves the OFX file to the disk. |
+| [Save](../../aspose.finance.ofx/ofxrequestdocument/save#save_1)(string, SaveOptions) | Creates and saves the OFX file to the disk. |
 
 ### See Also
 

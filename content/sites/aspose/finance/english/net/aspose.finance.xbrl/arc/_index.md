@@ -3,7 +3,7 @@ title: Arc
 second_title: Aspose.Finance for .NET API Reference
 description: The base abstract class of Xlink with Arc type.
 type: docs
-weight: 6460
+weight: 6490
 url: /net/aspose.finance.xbrl/arc/
 ---
 ## Arc class

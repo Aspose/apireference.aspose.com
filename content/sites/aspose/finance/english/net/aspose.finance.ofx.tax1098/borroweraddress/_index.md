@@ -3,7 +3,7 @@ title: BorrowerAddress
 second_title: Aspose.Finance for .NET API Reference
 description: Borrower address class.
 type: docs
-weight: 5730
+weight: 5760
 url: /net/aspose.finance.ofx.tax1098/borroweraddress/
 ---
 ## BorrowerAddress class

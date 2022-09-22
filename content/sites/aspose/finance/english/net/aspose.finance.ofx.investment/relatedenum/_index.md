@@ -3,7 +3,7 @@ title: RelatedEnum
 second_title: Aspose.Finance for .NET API Reference
 description: Related option transaction type enum.
 type: docs
-weight: 3440
+weight: 3450
 url: /net/aspose.finance.ofx.investment/relatedenum/
 ---
 ## RelatedEnum enumeration

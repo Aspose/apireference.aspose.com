@@ -3,7 +3,7 @@ title: DefinitionLinkbaseRef
 second_title: Aspose.Finance for .NET API Reference
 description: This class is used to definition linkbase reference.
 type: docs
-weight: 6610
+weight: 6640
 url: /net/aspose.finance.xbrl/definitionlinkbaseref/
 ---
 ## DefinitionLinkbaseRef class

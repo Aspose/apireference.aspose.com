@@ -3,7 +3,7 @@ title: AbstractRecurringInterRequest
 second_title: Aspose.Finance for .NET API Reference
 description: Abstract base class for all recurring interbank request related classes.
 type: docs
-weight: 2370
+weight: 2380
 url: /net/aspose.finance.ofx.intertransfer/abstractrecurringinterrequest/
 ---
 ## AbstractRecurringInterRequest class

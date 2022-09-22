@@ -3,7 +3,7 @@ title: HTMLFormElement
 second_title: Aspose.Finance for .NET API Reference
 description: The class encompasses behavior similar to a collection and an element. It provides direct access to the contained form controls as well as the attributes of the form element. See the FORM element definition in HTML 4.01.
 type: docs
-weight: 6860
+weight: 6890
 url: /net/aspose.finance.xbrl.dom.html/htmlformelement/
 ---
 ## HTMLFormElement class

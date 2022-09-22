@@ -3,7 +3,7 @@ title: InvestmentStatementTransactionResponse
 second_title: Aspose.Finance for .NET API Reference
 description: Investment statement transaction response class.
 type: docs
-weight: 3140
+weight: 3150
 url: /net/aspose.finance.ofx.investment/investmentstatementtransactionresponse/
 ---
 ## InvestmentStatementTransactionResponse class

@@ -3,7 +3,7 @@ title: AmortizationTransaction
 second_title: Aspose.Finance for .NET API Reference
 description: Amortization transaction class.
 type: docs
-weight: 3760
+weight: 3780
 url: /net/aspose.finance.ofx.loan/amortizationtransaction/
 ---
 ## AmortizationTransaction class

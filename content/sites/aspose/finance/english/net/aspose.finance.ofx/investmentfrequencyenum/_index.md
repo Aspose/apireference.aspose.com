@@ -3,7 +3,7 @@ title: InvestmentFrequencyEnum
 second_title: Aspose.Finance for .NET API Reference
 description: Investment frequency type enum.
 type: docs
-weight: 3660
+weight: 3670
 url: /net/aspose.finance.ofx/investmentfrequencyenum/
 ---
 ## InvestmentFrequencyEnum enumeration

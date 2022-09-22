@@ -3,7 +3,7 @@ title: BuyMutualFund
 second_title: Aspose.Finance for .NET API Reference
 description: Investment buy mutual fund transaction class.
 type: docs
-weight: 2690
+weight: 2700
 url: /net/aspose.finance.ofx.investment/buymutualfund/
 ---
 ## BuyMutualFund class

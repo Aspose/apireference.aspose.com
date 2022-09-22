@@ -3,7 +3,7 @@ title: ChallengeResponse
 second_title: Aspose.Finance for .NET API Reference
 description: Challenge response class.
 type: docs
-weight: 5270
+weight: 5300
 url: /net/aspose.finance.ofx.signon/challengeresponse/
 ---
 ## ChallengeResponse class

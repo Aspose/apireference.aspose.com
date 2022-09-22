@@ -3,7 +3,7 @@ title: Item
 second_title: Aspose.Finance for .NET API Reference
 description: An item is an element in the substitution group for the XBRL item element. It contains the value of the simple fact and a reference to the context and unit for numeric items needed to correctly interpret that fact.
 type: docs
-weight: 7760
+weight: 7800
 url: /net/aspose.finance.xbrl/item/
 ---
 ## Item class

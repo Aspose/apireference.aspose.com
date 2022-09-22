@@ -3,7 +3,7 @@ title: ProceedSummary_V100
 second_title: Aspose.Finance for .NET API Reference
 description: Tax 1099-B form proceeds summary class.
 type: docs
-weight: 5950
+weight: 5980
 url: /net/aspose.finance.ofx.tax1099/proceedsummary_v100/
 ---
 ## ProceedSummary_V100 class

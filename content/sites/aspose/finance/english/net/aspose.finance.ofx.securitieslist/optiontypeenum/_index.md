@@ -3,7 +3,7 @@ title: OptionTypeEnum
 second_title: Aspose.Finance for .NET API Reference
 description: Option type enum.
 type: docs
-weight: 5100
+weight: 5130
 url: /net/aspose.finance.ofx.securitieslist/optiontypeenum/
 ---
 ## OptionTypeEnum enumeration

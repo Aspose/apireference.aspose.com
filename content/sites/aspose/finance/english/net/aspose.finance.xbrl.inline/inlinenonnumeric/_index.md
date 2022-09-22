@@ -3,7 +3,7 @@ title: InlineNonnumeric
 second_title: Aspose.Finance for .NET API Reference
 description: This class is for XBRL non-numeric item in inline XBRL document.
 type: docs
-weight: 7710
+weight: 7750
 url: /net/aspose.finance.xbrl.inline/inlinenonnumeric/
 ---
 ## InlineNonnumeric class

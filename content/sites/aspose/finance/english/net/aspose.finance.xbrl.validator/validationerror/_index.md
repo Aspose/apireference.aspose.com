@@ -3,7 +3,7 @@ title: ValidationError
 second_title: Aspose.Finance for .NET API Reference
 description: this class is for base class of validation related error.
 type: docs
-weight: 8150
+weight: 8200
 url: /net/aspose.finance.xbrl.validator/validationerror/
 ---
 ## ValidationError class

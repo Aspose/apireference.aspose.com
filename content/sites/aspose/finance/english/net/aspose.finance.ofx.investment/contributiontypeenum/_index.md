@@ -3,7 +3,7 @@ title: ContributionTypeEnum
 second_title: Aspose.Finance for .NET API Reference
 description: Contribution allocation type.
 type: docs
-weight: 2790
+weight: 2800
 url: /net/aspose.finance.ofx.investment/contributiontypeenum/
 ---
 ## ContributionTypeEnum enumeration

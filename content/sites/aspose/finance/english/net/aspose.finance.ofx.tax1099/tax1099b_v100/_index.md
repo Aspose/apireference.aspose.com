@@ -3,7 +3,7 @@ title: Tax1099B_V100
 second_title: Aspose.Finance for .NET API Reference
 description: Tax 1099B V100 form class.
 type: docs
-weight: 5990
+weight: 6020
 url: /net/aspose.finance.ofx.tax1099/tax1099b_v100/
 ---
 ## Tax1099B_V100 class

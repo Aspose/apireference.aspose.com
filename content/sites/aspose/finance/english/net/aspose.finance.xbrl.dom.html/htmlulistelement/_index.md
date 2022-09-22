@@ -3,7 +3,7 @@ title: HTMLUListElement
 second_title: Aspose.Finance for .NET API Reference
 description: The class represents unordered list. See the UL element definition in HTML 4.01.
 type: docs
-weight: 7270
+weight: 7300
 url: /net/aspose.finance.xbrl.dom.html/htmlulistelement/
 ---
 ## HTMLUListElement class

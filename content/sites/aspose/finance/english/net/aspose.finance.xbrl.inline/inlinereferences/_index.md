@@ -3,7 +3,7 @@ title: InlineReferences
 second_title: Aspose.Finance for .NET API Reference
 description: This class is for references in inline XBRL document.
 type: docs
-weight: 7720
+weight: 7760
 url: /net/aspose.finance.xbrl.inline/inlinereferences/
 ---
 ## InlineReferences class

@@ -3,7 +3,7 @@ title: SellDebt
 second_title: Aspose.Finance for .NET API Reference
 description: Investment sell debt class.
 type: docs
-weight: 3480
+weight: 3490
 url: /net/aspose.finance.ofx.investment/selldebt/
 ---
 ## SellDebt class

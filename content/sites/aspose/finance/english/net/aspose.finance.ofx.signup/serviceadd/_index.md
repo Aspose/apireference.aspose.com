@@ -3,7 +3,7 @@ title: ServiceAdd
 second_title: Aspose.Finance for .NET API Reference
 description: Service addition class.
 type: docs
-weight: 5640
+weight: 5670
 url: /net/aspose.finance.ofx.signup/serviceadd/
 ---
 ## ServiceAdd class

@@ -3,7 +3,7 @@ title: OfxResponseDocument
 second_title: Aspose.Finance for .NET API Reference
 description: Ofx response document class.
 type: docs
-weight: 4220
+weight: 4240
 url: /net/aspose.finance.ofx/ofxresponsedocument/
 ---
 ## OfxResponseDocument class
@@ -20,6 +20,7 @@ public class OfxResponseDocument
 | --- | --- |
 | [OfxResponseDocument](ofxresponsedocument#constructor)() | Initializes a new instance of [`OfxResponseDocument`](../ofxresponsedocument) class. |
 | [OfxResponseDocument](ofxresponsedocument#constructor_1)(string) | Initializes a new instance of [`OfxResponseDocument`](../ofxresponsedocument) class. |
+| [OfxResponseDocument](ofxresponsedocument#constructor_2)(string, LoadOptions) | Initializes a new instance of [`OfxResponseDocument`](../ofxresponsedocument) class. |
 
 ## Properties
 
@@ -47,7 +48,8 @@ public class OfxResponseDocument
 
 | Name | Description |
 | --- | --- |
-| [Save](../../aspose.finance.ofx/ofxresponsedocument/save)(string, OfxVersionEnum) | Creates and saves the OFX file to the disk. |
+| [Save](../../aspose.finance.ofx/ofxresponsedocument/save#save)(string, OfxVersionEnum) | Creates and saves the OFX file to the disk. |
+| [Save](../../aspose.finance.ofx/ofxresponsedocument/save#save_1)(string, SaveOptions) | Creates and saves the OFX file to the disk. |
 
 ### See Also
 

@@ -3,7 +3,7 @@ title: StatementTransaction
 second_title: Aspose.Finance for .NET API Reference
 description: This class describes a single transaction. It identifies the type of the transaction and the date it was posted.The class can also provide additional information to help the customer recognize the transaction check number payee name and memo. The transaction can have a Standard Industrial Code that a client can use to categorize the transaction.
 type: docs
-weight: 5700
+weight: 5730
 url: /net/aspose.finance.ofx/statementtransaction/
 ---
 ## StatementTransaction class

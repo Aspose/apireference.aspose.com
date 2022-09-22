@@ -3,7 +3,7 @@ title: ContributionAmt
 second_title: Aspose.Finance for .NET API Reference
 description: Contribution amount allocation class.
 type: docs
-weight: 2740
+weight: 2750
 url: /net/aspose.finance.ofx.investment/contributionamt/
 ---
 ## ContributionAmt class
