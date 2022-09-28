@@ -3,7 +3,7 @@ title: ThresholdValue
 second_title: Aspose.OCR for .NET API Reference
 description: Gets or sets custom threshold value for image binarization. Range from 1 to 255.
 type: docs
-weight: 140
+weight: 130
 url: /net/aspose.ocr/baserecognitionsettings/thresholdvalue/
 ---
 ## BaseRecognitionSettings.ThresholdValue property

@@ -12,7 +12,7 @@ Initializes a new instance of the [`RecognitionSettings`](../../recognitionsetti
 
 ```csharp
 public BaseRecognitionSettings(Language language = Language.None, bool autoSkew = true, 
-    float skewAngle = 0, bool recognizeSingleLine = false, int threshold = 0)
+    float skewAngle = 0, int threshold = 0)
 ```
 
 | Parameter | Type | Description |
@@ -20,7 +20,6 @@ public BaseRecognitionSettings(Language language = Language.None, bool autoSkew 
 | language | Language | Language used for OCR. |
 | autoSkew | Boolean | Enable automatic image skew correction. |
 | skewAngle | Single | Set angle for image rotation. |
-| recognizeSingleLine | Boolean | For single-line images |
 | threshold | Int32 | Custom image binarization threshold |
 
 ### See Also
