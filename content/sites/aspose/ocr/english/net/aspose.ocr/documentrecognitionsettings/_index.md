@@ -36,11 +36,11 @@ public class DocumentRecognitionSettings : BaseRecognitionSettings
 | [LinesFiltration](../../aspose.ocr/baserecognitionsettings/linesfiltration) { get; set; } | Allows to recognize text in the tables (regions surrounded lines). |
 | [PagesNumber](../../aspose.ocr/documentrecognitionsettings/pagesnumber) { get; set; } | Set the number of pages for recognition multipage pdf file. |
 | [PreprocessingFilters](../../aspose.ocr/baserecognitionsettings/preprocessingfilters) { get; set; } | Allows to prepare the image for OCR by adjusting pre-processing methods. |
-| [RecognizeSingleLine](../../aspose.ocr/baserecognitionsettings/recognizesingleline) { set; } | Sets single-line image recognition. Disabled (false) by default. Disable all the processing steps associated with splitting into lines. Set this parameter to true if your image contains only one line. Disables RecognitionAreas settings, so all areas settings will be ignored. |
 | [SkewAngle](../../aspose.ocr/baserecognitionsettings/skewangle) { set; } | Gets or sets angle in degrees for image rotation.  Setting this value will disable the [`AutoSkew`](../baserecognitionsettings/autoskew) property, so that auto skew correction is not applied. Zero by default. |
 | [StartPage](../../aspose.ocr/documentrecognitionsettings/startpage) { get; set; } | Set the first page for recognition. |
 | [ThreadsCount](../../aspose.ocr/baserecognitionsettings/threadscount) { set; } | Gets or sets the number fo threads for processing. By default, 0 means that the image will be processed with the number of threads equal to your number of processors. ThreadsCount = 1 means that the image will be processed in the main thread. |
 | [ThresholdValue](../../aspose.ocr/baserecognitionsettings/thresholdvalue) { set; } | Gets or sets custom threshold value for image binarization. Range from 1 to 255. |
+| [UpscaleSmallFont](../../aspose.ocr/baserecognitionsettings/upscalesmallfont) { get; set; } | Allows you to use additional algorithms specifically for small font recognition. Useful for images with small size characters. |
 
 ### See Also
 

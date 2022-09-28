@@ -18,34 +18,36 @@ public enum Language
 
 | Name | Value | Description |
 | --- | --- | --- |
-| None | `0` | Multi-language support |
-| Eng | `1` | English alphabet |
-| Deu | `2` | German alphabet |
-| Por | `3` | Portuguese alphabet |
-| Spa | `4` | Spanish alphabet |
-| Fra | `5` | French alphabet |
-| Ita | `6` | Italian alphabet |
-| Cze | `7` | Czech alphabet |
-| Dan | `8` | Danish alphabet |
-| Dum | `9` | Dutch alphabet |
-| Est | `10` | Estonian alphabet |
-| Fin | `11` | Finnish alphabet |
-| Lav | `12` | Latvian alphabet |
-| Lit | `13` | Lithuanian alphabet |
-| Nor | `14` | Norwegian alphabet |
-| Pol | `15` | Polish alphabet |
-| Rum | `16` | Romanian alphabet |
-| Srp_hrv | `17` | Serbo-Croatian alphabet |
-| Slk | `18` | Slovak alphabet |
-| Slv | `19` | Slovene alphabet |
-| Swe | `20` | Swedish alphabet |
-| Chi | `21` | Chinese alphabet |
-| Bel | `22` | Belorussian alphabet |
-| Bul | `23` | Bulgarian alphabet |
-| Kaz | `24` | Kazakh alphabet |
-| Rus | `25` | Russian alphabet |
-| Srp | `26` | Serbian alphabet |
-| Ukr | `27` | Ukrainian alphabet |
+| None | `0` | Multi-language (latin alphabet) support |
+| Latin | `1` | Multi-language (latin alphabet) support |
+| Cyrillic | `2` | Multi-language (cyrillic alphabet) support |
+| Eng | `3` | English alphabet |
+| Deu | `4` | German alphabet |
+| Por | `5` | Portuguese alphabet |
+| Spa | `6` | Spanish alphabet |
+| Fra | `7` | French alphabet |
+| Ita | `8` | Italian alphabet |
+| Cze | `9` | Czech alphabet |
+| Dan | `10` | Danish alphabet |
+| Dum | `11` | Dutch alphabet |
+| Est | `12` | Estonian alphabet |
+| Fin | `13` | Finnish alphabet |
+| Lav | `14` | Latvian alphabet |
+| Lit | `15` | Lithuanian alphabet |
+| Nor | `16` | Norwegian alphabet |
+| Pol | `17` | Polish alphabet |
+| Rum | `18` | Romanian alphabet |
+| Srp_hrv | `19` | Serbo-Croatian alphabet |
+| Slk | `20` | Slovak alphabet |
+| Slv | `21` | Slovene alphabet |
+| Swe | `22` | Swedish alphabet |
+| Chi | `23` | Chinese alphabet |
+| Bel | `24` | Belorussian alphabet |
+| Bul | `25` | Bulgarian alphabet |
+| Kaz | `26` | Kazakh alphabet |
+| Rus | `27` | Russian alphabet |
+| Srp | `28` | Serbian alphabet |
+| Ukr | `29` | Ukrainian alphabet |
 
 ### See Also
 

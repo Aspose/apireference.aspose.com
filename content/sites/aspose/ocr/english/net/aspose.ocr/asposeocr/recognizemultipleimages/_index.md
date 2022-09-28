@@ -11,7 +11,8 @@ url: /net/aspose.ocr/asposeocr/recognizemultipleimages/
 Recognizes multiple images from list.  Archives and folders are not supported. Max amount of processed images is 20. Supports GIF, PNG, JPEG, BMP, TIFF.
 
 ```csharp
-public RecognitionResult[] RecognizeMultipleImages(List<string> files, RecognitionSettings settings)
+public List<RecognitionResult> RecognizeMultipleImages(List<string> files, 
+    RecognitionSettings settings)
 ```
 
 | Parameter | Type | Description |
@@ -38,7 +39,7 @@ Array of [`RecognitionResult`](../../recognitionresult) objects with recognition
 Recognizes multiple images from list with default settings.  Archives and folders are not supported. Max amount of processed images is 20. Supports GIF, PNG, JPEG, BMP, TIFF.
 
 ```csharp
-public RecognitionResult[] RecognizeMultipleImages(List<string> files)
+public List<RecognitionResult> RecognizeMultipleImages(List<string> files)
 ```
 
 | Parameter | Type | Description |
@@ -63,7 +64,7 @@ Array of [`RecognitionResult`](../../recognitionresult) objects with recognition
 Recognizes multiple images packed in ZIP archive or from folder.  Nested archives and folders are not supported. Max amount of processed images is 20. Supports GIF, PNG, JPEG, BMP, TIFF.
 
 ```csharp
-public RecognitionResult[] RecognizeMultipleImages(string path, RecognitionSettings settings)
+public List<RecognitionResult> RecognizeMultipleImages(string path, RecognitionSettings settings)
 ```
 
 | Parameter | Type | Description |
@@ -90,7 +91,7 @@ Array of [`RecognitionResult`](../../recognitionresult) objects with recognition
 Recognizes multiple images packed in ZIP archive or from folder with default settings.  Nested archives and folders are not supported. Max amount of processed images is 20. Supports GIF, PNG, JPEG, BMP, TIFF.
 
 ```csharp
-public RecognitionResult[] RecognizeMultipleImages(string path)
+public List<RecognitionResult> RecognizeMultipleImages(string path)
 ```
 
 | Parameter | Type | Description |

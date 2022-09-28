@@ -3,7 +3,7 @@ title: RecognizeTiff
 second_title: Aspose.OCR for .NET API Reference
 description: Recognize text from multi-page TIFF image.  Recognizes TIFF file with the ability to specify DocumentRecognitionSettingsaspose.ocr/documentrecognitionsettings. Supports TIFF TIF only. Doesnt supports other image types.
 type: docs
-weight: 140
+weight: 150
 url: /net/aspose.ocr/asposeocr/recognizetiff/
 ---
 ## AsposeOcr.RecognizeTiff method

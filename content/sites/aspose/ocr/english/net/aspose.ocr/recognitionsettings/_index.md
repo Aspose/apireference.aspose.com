@@ -3,7 +3,7 @@ title: RecognitionSettings
 second_title: Aspose.OCR for .NET API Reference
 description: Settings for the image recognition. Contains elements that allow customizing the recognition process.
 type: docs
-weight: 130
+weight: 140
 url: /net/aspose.ocr/recognitionsettings/
 ---
 ## RecognitionSettings class
@@ -35,10 +35,11 @@ public class RecognitionSettings : BaseRecognitionSettings
 | [LinesFiltration](../../aspose.ocr/baserecognitionsettings/linesfiltration) { get; set; } | Allows to recognize text in the tables (regions surrounded lines). |
 | [PreprocessingFilters](../../aspose.ocr/baserecognitionsettings/preprocessingfilters) { get; set; } | Allows to prepare the image for OCR by adjusting pre-processing methods. |
 | [RecognitionAreas](../../aspose.ocr/recognitionsettings/recognitionareas) { set; } | Gets or sets the list of text areas for processing.  Allows to manually specify the areas with text for more accurate recognition. If custom areas are set [`DetectAreas`](./detectareas) and !:AutoSkew properties will be ignored.  Disables DetectAreas and AutoSkew. |
-| [RecognizeSingleLine](../../aspose.ocr/baserecognitionsettings/recognizesingleline) { set; } | Sets single-line image recognition. Disabled (false) by default. Disable all the processing steps associated with splitting into lines. Set this parameter to true if your image contains only one line. Disables RecognitionAreas settings, so all areas settings will be ignored. |
+| [RecognizeSingleLine](../../aspose.ocr/recognitionsettings/recognizesingleline) { set; } | Sets single-line image recognition. Disabled (false) by default. Disable all the processing steps associated with splitting into lines. Set this parameter to true if your image contains only one line. Disables RecognitionAreas settings, so all areas settings will be ignored. |
 | [SkewAngle](../../aspose.ocr/baserecognitionsettings/skewangle) { set; } | Gets or sets angle in degrees for image rotation.  Setting this value will disable the [`AutoSkew`](../baserecognitionsettings/autoskew) property, so that auto skew correction is not applied. Zero by default. |
 | [ThreadsCount](../../aspose.ocr/baserecognitionsettings/threadscount) { set; } | Gets or sets the number fo threads for processing. By default, 0 means that the image will be processed with the number of threads equal to your number of processors. ThreadsCount = 1 means that the image will be processed in the main thread. |
 | [ThresholdValue](../../aspose.ocr/baserecognitionsettings/thresholdvalue) { set; } | Gets or sets custom threshold value for image binarization. Range from 1 to 255. |
+| [UpscaleSmallFont](../../aspose.ocr/baserecognitionsettings/upscalesmallfont) { get; set; } | Allows you to use additional algorithms specifically for small font recognition. Useful for images with small size characters. |
 
 ### See Also
 
