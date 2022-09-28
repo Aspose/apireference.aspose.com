@@ -1,1 +1,8 @@
 /words/net/aspose.words/range/fields/
+/words/net/aspose.words/range/fields
+/words/net/aspose.words.webextensions/webextension/properties/
+/words/net/aspose.words.webextensions/webextension/properties
+/words/net/aspose.words.markup/smarttag/properties/
+/words/net/aspose.words.markup/smarttag/properties
+/words/net/aspose.words.mailmerging/mailmergeregioninfo/fields/
+/words/net/aspose.words.mailmerging/mailmergeregioninfo/fields
