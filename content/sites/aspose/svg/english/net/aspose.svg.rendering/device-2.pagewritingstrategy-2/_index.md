@@ -3,7 +3,7 @@ title: DeviceTGraphicContextTRenderingOptions.PageWritingStrategyTGraphicContext
 second_title: Aspose.SVG for .NET API Reference
 description: Specifies types of strategies for writing pages into output streamstreams.
 type: docs
-weight: 2720
+weight: 2750
 url: /net/aspose.svg.rendering/device-2.pagewritingstrategy-2/
 ---
 ## Device&lt;TGraphicContext,TRenderingOptions&gt;.PageWritingStrategy&lt;TGraphicContext,TRenderingOptions&gt; enumeration

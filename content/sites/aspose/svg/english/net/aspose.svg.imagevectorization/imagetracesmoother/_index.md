@@ -3,7 +3,7 @@ title: ImageTraceSmoother
 second_title: Aspose.SVG for .NET API Reference
 description: The ImageTraceSimplifier class is responsible for smoothing the number of points in a curve that is approximated by a series of the trace points. This class implement nearest-neighbor approach.
 type: docs
-weight: 2120
+weight: 2130
 url: /net/aspose.svg.imagevectorization/imagetracesmoother/
 ---
 ## ImageTraceSmoother class

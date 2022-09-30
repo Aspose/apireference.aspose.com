@@ -3,7 +3,7 @@ title: SVGMarkerElement
 second_title: Aspose.SVG for .NET API Reference
 description: The SVGMarkerElement interface corresponds to the marker element.
 type: docs
-weight: 3290
+weight: 3320
 url: /net/aspose.svg/svgmarkerelement/
 ---
 ## SVGMarkerElement class

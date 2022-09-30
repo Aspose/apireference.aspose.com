@@ -3,7 +3,7 @@ title: ImageDevice.ImageGraphicContext
 second_title: Aspose.SVG for .NET API Reference
 description: Holds current graphics control parameters for the ImageDevice./imagedevice. These parameters define the global framework within which the graphics operators execute.
 type: docs
-weight: 2800
+weight: 2830
 url: /net/aspose.svg.rendering.image/imagedevice.imagegraphiccontext/
 ---
 ## ImageDevice.ImageGraphicContext class

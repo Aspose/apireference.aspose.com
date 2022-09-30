@@ -3,7 +3,7 @@ title: UrlRestriction
 second_title: Aspose.SVG for .NET API Reference
 description: This enum represents restriction applied to URLs of processed resources.
 type: docs
-weight: 3640
+weight: 3670
 url: /net/aspose.svg.saving/urlrestriction/
 ---
 ## UrlRestriction enumeration

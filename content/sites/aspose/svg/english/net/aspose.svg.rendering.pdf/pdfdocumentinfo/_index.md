@@ -3,7 +3,7 @@ title: PdfDocumentInfo
 second_title: Aspose.SVG for .NET API Reference
 description: Represents the information about the PDF document.
 type: docs
-weight: 2920
+weight: 2950
 url: /net/aspose.svg.rendering.pdf/pdfdocumentinfo/
 ---
 ## PdfDocumentInfo class
