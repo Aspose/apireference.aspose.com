@@ -3,7 +3,7 @@ title: License
 second_title: Aspose.SVG for .NET API Reference
 description: Provides methods to license the component.
 type: docs
-weight: 2160
+weight: 2190
 url: /net/aspose.svg/license/
 ---
 ## License class

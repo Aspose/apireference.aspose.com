@@ -3,7 +3,7 @@ title: SVGPathSegCurvetoQuadraticSmoothAbs
 second_title: Aspose.SVG for .NET API Reference
 description: The SVGPathSegCurvetoQuadraticSmoothAbs interface corresponds to an absolute smooth cubic curveto T path data command.
 type: docs
-weight: 2560
+weight: 2590
 url: /net/aspose.svg.paths/svgpathsegcurvetoquadraticsmoothabs/
 ---
 ## SVGPathSegCurvetoQuadraticSmoothAbs class

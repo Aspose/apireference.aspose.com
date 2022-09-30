@@ -3,7 +3,7 @@ title: PathBuilder
 second_title: Aspose.SVG for .NET API Reference
 description: Gets or sets the SVG path segments builder.
 type: docs
-weight: 40
+weight: 60
 url: /net/aspose.svg.imagevectorization/imagevectorizerconfiguration/pathbuilder/
 ---
 ## ImageVectorizerConfiguration.PathBuilder property

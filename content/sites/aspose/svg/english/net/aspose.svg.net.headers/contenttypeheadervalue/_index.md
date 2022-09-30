@@ -3,7 +3,7 @@ title: ContentTypeHeaderValue
 second_title: Aspose.SVG for .NET API Reference
 description: Represents a Content-Type header value.
 type: docs
-weight: 2240
+weight: 2270
 url: /net/aspose.svg.net.headers/contenttypeheadervalue/
 ---
 ## ContentTypeHeaderValue class

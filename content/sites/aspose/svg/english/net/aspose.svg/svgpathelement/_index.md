@@ -3,7 +3,7 @@ title: SVGPathElement
 second_title: Aspose.SVG for .NET API Reference
 description: The SVGPathElement interface corresponds to the path element.
 type: docs
-weight: 3320
+weight: 3350
 url: /net/aspose.svg/svgpathelement/
 ---
 ## SVGPathElement class
@@ -104,6 +104,7 @@ public class SVGPathElement : SVGGeometryElement, ISVGAnimatedPathData
 | [GetElementsByClassName](../../aspose.svg.dom/element/getelementsbyclassname)(string) | Returns a live NodeList object containing all the elements in the document that have all the classes specified in argument. http://www.w3.org/TR/dom/ |
 | [GetElementsByTagName](../../aspose.svg.dom/element/getelementsbytagname)(string) | Returns a NodeList of all descendant Elements with a given tag name, in document order. |
 | [GetElementsByTagNameNS](../../aspose.svg.dom/element/getelementsbytagnamens)(string, string) | Returns a NodeList of all the descendant Elements with a given local name and namespace URI in document order. |
+| [GetEquivalentPath](../../aspose.svg/svggeometryelement/getequivalentpath)() | Retruns a new instance instance of the [`SVGPathSegList`](../../aspose.svg.paths/svgpathseglist) represents [`SVGGeometryElement`](../svggeometryelement) as path segments. |
 | virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | This method is used to retrieve ECMAScript object Type. |
 | [GetPointAtLength](../../aspose.svg/svggeometryelement/getpointatlength)(float) | Returns the (x,y) coordinate in user space which is distance units along the path, utilizing the user agent's distance-along-a-path algorithm. |
 | [GetScreenCTM](../../aspose.svg/svggraphicselement/getscreenctm)() | Returns the transformation matrix from current user units (i.e., after application of the ‘transform’ attribute, if any) to the parent user agent's notice of a "pixel". For display devices, ideally this represents a physical screen pixel. For other devices or environments where physical pixel sizes are not known, then an algorithm similar to the CSS2 definition of a "pixel" can be used instead. Note that null is returned if this element is not hooked into the document tree. This method would have been more aptly named as getClientCTM, but the name getScreenCTM is kept for historical reasons. |

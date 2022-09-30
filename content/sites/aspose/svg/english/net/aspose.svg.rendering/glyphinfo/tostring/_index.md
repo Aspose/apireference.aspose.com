@@ -3,7 +3,7 @@ title: ToString
 second_title: Aspose.SVG for .NET API Reference
 description: Returns a String that represents this instance.
 type: docs
-weight: 40
+weight: 50
 url: /net/aspose.svg.rendering/glyphinfo/tostring/
 ---
 ## GlyphInfo.ToString method

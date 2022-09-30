@@ -3,7 +3,7 @@ title: XpsSaveOptions
 second_title: Aspose.SVG for .NET API Reference
 description: Specific options data class.
 type: docs
-weight: 3650
+weight: 3680
 url: /net/aspose.svg.saving/xpssaveoptions/
 ---
 ## XpsSaveOptions class

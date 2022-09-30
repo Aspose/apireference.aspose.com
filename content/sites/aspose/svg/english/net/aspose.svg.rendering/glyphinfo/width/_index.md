@@ -3,7 +3,7 @@ title: Width
 second_title: Aspose.SVG for .NET API Reference
 description: Gets the width of the glyph in points.
 type: docs
-weight: 30
+weight: 40
 url: /net/aspose.svg.rendering/glyphinfo/width/
 ---
 ## GlyphInfo.Width property

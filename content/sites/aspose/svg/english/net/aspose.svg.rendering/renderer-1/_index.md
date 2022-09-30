@@ -3,7 +3,7 @@ title: RendererTDocument
 second_title: Aspose.SVG for .NET API Reference
 description: Represents an abstract class for the all renderers.
 type: docs
-weight: 2950
+weight: 2980
 url: /net/aspose.svg.rendering/renderer-1/
 ---
 ## Renderer&lt;TDocument&gt; class
