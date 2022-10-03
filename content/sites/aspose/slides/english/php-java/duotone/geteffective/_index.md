@@ -3,7 +3,7 @@ title: getEffective
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 80
+weight: 40
 url: /php-java/duotone/geteffective/
 ---
 
@@ -13,7 +13,7 @@ url: /php-java/duotone/geteffective/
  
 
 ### Returns
-[DuotoneEffectiveData](../../duotoneeffectivedata)
+DuotoneEffectiveData
 
 
 ---

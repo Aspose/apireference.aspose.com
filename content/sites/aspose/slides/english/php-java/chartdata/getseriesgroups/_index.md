@@ -3,7 +3,7 @@ title: getSeriesGroups
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 110
+weight: 80
 url: /php-java/chartdata/getseriesgroups/
 ---
 
@@ -26,7 +26,7 @@ url: /php-java/chartdata/getseriesgroups/
  
 
 ### Returns
-[ChartSeriesGroupCollection](../../chartseriesgroupcollection)
+ChartSeriesGroupCollection
 
 
 ---

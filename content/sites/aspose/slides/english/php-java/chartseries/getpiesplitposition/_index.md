@@ -3,7 +3,7 @@ title: getPieSplitPosition
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 400
+weight: 310
 url: /php-java/chartseries/getpiesplitposition/
 ---
 

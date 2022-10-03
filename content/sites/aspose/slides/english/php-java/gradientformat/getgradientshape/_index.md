@@ -3,7 +3,7 @@ title: getGradientShape
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 100
+weight: 20
 url: /php-java/gradientformat/getgradientshape/
 ---
 

@@ -3,7 +3,7 @@ title: setRightToLeft
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 360
+weight: 200
 url: /php-java/table/setrighttoleft/
 ---
 

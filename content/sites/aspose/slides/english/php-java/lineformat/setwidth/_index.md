@@ -3,7 +3,7 @@ title: setWidth
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 470
+weight: 330
 url: /php-java/lineformat/setwidth/
 ---
 

@@ -3,7 +3,7 @@ title: setAutomaticTickLabelSpacing
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 780
+weight: 650
 url: /php-java/axis/setautomaticticklabelspacing/
 ---
 

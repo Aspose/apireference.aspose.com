@@ -3,7 +3,7 @@ title: setShowDataLabelsOverMaximum
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 450
+weight: 300
 url: /php-java/chart/setshowdatalabelsovermaximum/
 ---
 

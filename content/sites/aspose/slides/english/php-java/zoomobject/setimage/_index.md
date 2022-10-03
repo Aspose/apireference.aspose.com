@@ -3,7 +3,7 @@ title: setImage
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 170
+weight: 60
 url: /php-java/zoomobject/setimage/
 ---
 

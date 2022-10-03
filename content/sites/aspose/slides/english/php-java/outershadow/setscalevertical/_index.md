@@ -3,7 +3,7 @@ title: setScaleVertical
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 280
+weight: 230
 url: /php-java/outershadow/setscalevertical/
 ---
 

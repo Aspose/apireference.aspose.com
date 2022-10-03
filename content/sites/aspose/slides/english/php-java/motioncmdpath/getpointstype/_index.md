@@ -3,7 +3,7 @@ title: getPointsType
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 50
+weight: 30
 url: /php-java/motioncmdpath/getpointstype/
 ---
 

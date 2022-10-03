@@ -3,7 +3,7 @@ title: getLineFormat
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 320
+weight: 150
 url: /php-java/shape/getlineformat/
 ---
 

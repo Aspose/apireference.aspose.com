@@ -9,8 +9,9 @@ url: /php-java/blobmanagementoptions/settempfilesrootpath/
 
 ## setTempFilesRootPath(String value)  method
 
- Represents the root path on the filesystem, where the temporary files will be stored. System
- temorary directory will be used by default.
+ The root path where temporary files will be created. System temorary directory will be used by default. 
+ Hosting process should have permissions to 
+ create files and folders there.
  
 
 ### Returns

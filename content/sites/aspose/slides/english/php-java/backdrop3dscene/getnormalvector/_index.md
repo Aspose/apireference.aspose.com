@@ -3,7 +3,7 @@ title: getNormalVector
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 60
+weight: 20
 url: /php-java/backdrop3dscene/getnormalvector/
 ---
 

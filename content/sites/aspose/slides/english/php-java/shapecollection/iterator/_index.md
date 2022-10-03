@@ -3,7 +3,7 @@ title: iterator
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 1070
+weight: 600
 url: /php-java/shapecollection/iterator/
 ---
 

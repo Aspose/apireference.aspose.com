@@ -3,7 +3,7 @@ title: getPresentationFormat
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 380
+weight: 310
 url: /php-java/documentproperties/getpresentationformat/
 ---
 

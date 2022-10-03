@@ -3,7 +3,7 @@ title: setLabelOffset
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 890
+weight: 760
 url: /php-java/axis/setlabeloffset/
 ---
 

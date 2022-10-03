@@ -3,7 +3,7 @@ title: setMajorTickMark
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 920
+weight: 790
 url: /php-java/axis/setmajortickmark/
 ---
 

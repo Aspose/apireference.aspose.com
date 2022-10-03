@@ -3,7 +3,7 @@ title: indexOf
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 160
+weight: 150
 url: /php-java/mathblock/indexof/
 ---
 
@@ -34,33 +34,6 @@ int
 ---
 
 
-## indexOf([MathLimit](../../mathlimit) item)  method
-
- Determines the index of a specific math element in collection.
- 
-Example:
- 
-```php
-  $mathBlock = new MathBlock(new MathematicalText("x"));
-  $plusElement = new MathematicalText("+");
-  $mathBlock->add($plusElement);
-  $mathBlock->add(new MathRadical(new MathematicalText("x"), new MathematicalText("3")));
-  $index = $mathBlock->indexOf($plusElement);
-```
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| item | [MathLimit](../../mathlimit) | The element to locate in the collection. |
-
-### Returns
-int
-
-
----
-
-
 ## indexOf([MathMatrix](../../mathmatrix) item)  method
 
  Determines the index of a specific math element in collection.
@@ -80,6 +53,33 @@ Example:
 | Name | Type | Description |
 | --- | --- | --- |
 | item | [MathMatrix](../../mathmatrix) | The element to locate in the collection. |
+
+### Returns
+int
+
+
+---
+
+
+## indexOf([MathLimit](../../mathlimit) item)  method
+
+ Determines the index of a specific math element in collection.
+ 
+Example:
+ 
+```php
+  $mathBlock = new MathBlock(new MathematicalText("x"));
+  $plusElement = new MathematicalText("+");
+  $mathBlock->add($plusElement);
+  $mathBlock->add(new MathRadical(new MathematicalText("x"), new MathematicalText("3")));
+  $index = $mathBlock->indexOf($plusElement);
+```
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| item | [MathLimit](../../mathlimit) | The element to locate in the collection. |
 
 ### Returns
 int
@@ -196,33 +196,6 @@ int
 ---
 
 
-## indexOf([MathNaryOperator](../../mathnaryoperator) item)  method
-
- Determines the index of a specific math element in collection.
- 
-Example:
- 
-```php
-  $mathBlock = new MathBlock(new MathematicalText("x"));
-  $plusElement = new MathematicalText("+");
-  $mathBlock->add($plusElement);
-  $mathBlock->add(new MathRadical(new MathematicalText("x"), new MathematicalText("3")));
-  $index = $mathBlock->indexOf($plusElement);
-```
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| item | [MathNaryOperator](../../mathnaryoperator) | The element to locate in the collection. |
-
-### Returns
-int
-
-
----
-
-
 ## indexOf([MathAccent](../../mathaccent) item)  method
 
  Determines the index of a specific math element in collection.
@@ -250,7 +223,7 @@ int
 ---
 
 
-## indexOf([MathBorderBox](../../mathborderbox) item)  method
+## indexOf([MathNaryOperator](../../mathnaryoperator) item)  method
 
  Determines the index of a specific math element in collection.
  
@@ -268,7 +241,7 @@ Example:
 
 | Name | Type | Description |
 | --- | --- | --- |
-| item | [MathBorderBox](../../mathborderbox) | The element to locate in the collection. |
+| item | [MathNaryOperator](../../mathnaryoperator) | The element to locate in the collection. |
 
 ### Returns
 int
@@ -304,6 +277,33 @@ int
 ---
 
 
+## indexOf([MathBorderBox](../../mathborderbox) item)  method
+
+ Determines the index of a specific math element in collection.
+ 
+Example:
+ 
+```php
+  $mathBlock = new MathBlock(new MathematicalText("x"));
+  $plusElement = new MathematicalText("+");
+  $mathBlock->add($plusElement);
+  $mathBlock->add(new MathRadical(new MathematicalText("x"), new MathematicalText("3")));
+  $index = $mathBlock->indexOf($plusElement);
+```
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| item | [MathBorderBox](../../mathborderbox) | The element to locate in the collection. |
+
+### Returns
+int
+
+
+---
+
+
 ## indexOf([MathBar](../../mathbar) item)  method
 
  Determines the index of a specific math element in collection.
@@ -323,33 +323,6 @@ Example:
 | Name | Type | Description |
 | --- | --- | --- |
 | item | [MathBar](../../mathbar) | The element to locate in the collection. |
-
-### Returns
-int
-
-
----
-
-
-## indexOf([MathSuperscriptElement](../../mathsuperscriptelement) item)  method
-
- Determines the index of a specific math element in collection.
- 
-Example:
- 
-```php
-  $mathBlock = new MathBlock(new MathematicalText("x"));
-  $plusElement = new MathematicalText("+");
-  $mathBlock->add($plusElement);
-  $mathBlock->add(new MathRadical(new MathematicalText("x"), new MathematicalText("3")));
-  $index = $mathBlock->indexOf($plusElement);
-```
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| item | [MathSuperscriptElement](../../mathsuperscriptelement) | The element to locate in the collection. |
 
 ### Returns
 int
@@ -404,6 +377,33 @@ Example:
 | Name | Type | Description |
 | --- | --- | --- |
 | item | [MathSubscriptElement](../../mathsubscriptelement) | The element to locate in the collection. |
+
+### Returns
+int
+
+
+---
+
+
+## indexOf([MathSuperscriptElement](../../mathsuperscriptelement) item)  method
+
+ Determines the index of a specific math element in collection.
+ 
+Example:
+ 
+```php
+  $mathBlock = new MathBlock(new MathematicalText("x"));
+  $plusElement = new MathematicalText("+");
+  $mathBlock->add($plusElement);
+  $mathBlock->add(new MathRadical(new MathematicalText("x"), new MathematicalText("3")));
+  $index = $mathBlock->indexOf($plusElement);
+```
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| item | [MathSuperscriptElement](../../mathsuperscriptelement) | The element to locate in the collection. |
 
 ### Returns
 int

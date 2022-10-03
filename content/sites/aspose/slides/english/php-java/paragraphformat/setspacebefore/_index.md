@@ -3,7 +3,7 @@ title: setSpaceBefore
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 600
+weight: 330
 url: /php-java/paragraphformat/setspacebefore/
 ---
 

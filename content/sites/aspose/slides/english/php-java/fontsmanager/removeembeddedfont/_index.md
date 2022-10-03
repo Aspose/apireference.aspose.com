@@ -3,7 +3,7 @@ title: removeEmbeddedFont
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 190
+weight: 80
 url: /php-java/fontsmanager/removeembeddedfont/
 ---
 

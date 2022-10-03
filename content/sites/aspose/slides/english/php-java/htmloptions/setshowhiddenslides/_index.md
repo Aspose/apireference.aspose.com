@@ -3,7 +3,7 @@ title: setShowHiddenSlides
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 190
+weight: 150
 url: /php-java/htmloptions/setshowhiddenslides/
 ---
 

@@ -3,7 +3,7 @@ title: hasUpDownBars
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 620
+weight: 470
 url: /php-java/chartseries/hasupdownbars/
 ---
 

@@ -3,7 +3,7 @@ title: setSubject
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 830
+weight: 630
 url: /php-java/documentproperties/setsubject/
 ---
 

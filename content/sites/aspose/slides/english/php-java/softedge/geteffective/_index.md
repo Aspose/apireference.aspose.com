@@ -3,7 +3,7 @@ title: getEffective
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 40
+weight: 20
 url: /php-java/softedge/geteffective/
 ---
 
@@ -13,7 +13,7 @@ url: /php-java/softedge/geteffective/
  
 
 ### Returns
-[SoftEdgeEffectiveData](../../softedgeeffectivedata)
+SoftEdgeEffectiveData
 
 
 ---

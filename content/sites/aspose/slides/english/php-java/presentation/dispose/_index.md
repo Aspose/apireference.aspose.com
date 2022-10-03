@@ -3,7 +3,7 @@ title: dispose
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 160
+weight: 70
 url: /php-java/presentation/dispose/
 ---
 

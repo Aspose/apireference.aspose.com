@@ -3,7 +3,7 @@ title: setSaveMetafilesAsPng
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 310
+weight: 290
 url: /php-java/pdfoptions/setsavemetafilesaspng/
 ---
 

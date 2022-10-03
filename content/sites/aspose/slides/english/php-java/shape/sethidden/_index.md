@@ -3,7 +3,7 @@ title: setHidden
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 960
+weight: 420
 url: /php-java/shape/sethidden/
 ---
 

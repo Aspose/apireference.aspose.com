@@ -3,7 +3,7 @@ title: getRevisionNumber
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 390
+weight: 320
 url: /php-java/documentproperties/getrevisionnumber/
 ---
 

@@ -3,7 +3,7 @@ title: setShowBubbleSize
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 320
+weight: 210
 url: /php-java/datalabelformat/setshowbubblesize/
 ---
 

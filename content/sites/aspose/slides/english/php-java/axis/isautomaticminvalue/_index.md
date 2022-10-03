@@ -3,7 +3,7 @@ title: isAutomaticMinValue
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 520
+weight: 470
 url: /php-java/axis/isautomaticminvalue/
 ---
 

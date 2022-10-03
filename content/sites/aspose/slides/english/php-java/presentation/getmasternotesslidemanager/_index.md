@@ -3,7 +3,7 @@ title: getMasterNotesSlideManager
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 420
+weight: 230
 url: /php-java/presentation/getmasternotesslidemanager/
 ---
 
@@ -14,7 +14,7 @@ url: /php-java/presentation/getmasternotesslidemanager/
  
 
 ### Returns
-[MasterNotesSlideManager](../../masternotesslidemanager)
+MasterNotesSlideManager
 
 
 ---

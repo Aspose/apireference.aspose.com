@@ -3,7 +3,7 @@ title: setParentLabelLayout
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 770
+weight: 570
 url: /php-java/chartseries/setparentlabellayout/
 ---
 

@@ -3,7 +3,7 @@ title: setAnchorCenter
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 450
+weight: 260
 url: /php-java/cell/setanchorcenter/
 ---
 

@@ -3,7 +3,7 @@ title: getEffective
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 90
+weight: 30
 url: /php-java/portionformat/geteffective/
 ---
 
@@ -30,7 +30,7 @@ url: /php-java/portionformat/geteffective/
 ```
 
 ### Returns
-[PortionFormatEffectiveData](../../portionformateffectivedata)
+PortionFormatEffectiveData
 
 
 ---

@@ -3,7 +3,7 @@ title: joinPortionsWithSameFormatting
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 930
+weight: 510
 url: /php-java/presentation/joinportionswithsameformatting/
 ---
 

@@ -3,7 +3,7 @@ title: setBar3DShape
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 650
+weight: 490
 url: /php-java/chartseries/setbar3dshape/
 ---
 

@@ -3,7 +3,7 @@ title: removeByShape
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 220
+weight: 160
 url: /php-java/sequence/removebyshape/
 ---
 
@@ -43,7 +43,7 @@ void
 ---
 
 
-## removeByShape([Shape](../../shape) shape)  method
+## removeByShape([Table](../../table) shape)  method
 
  Remove effect for the specified shape.
  
@@ -55,7 +55,7 @@ void
 ---
 
 
-## removeByShape([Table](../../table) shape)  method
+## removeByShape([Shape](../../shape) shape)  method
 
  Remove effect for the specified shape.
  
@@ -199,7 +199,7 @@ void
 ---
 
 
-## removeByShape([Chart](../../chart) shape)  method
+## removeByShape([AudioFrame](../../audioframe) shape)  method
 
  Remove effect for the specified shape.
  
@@ -211,7 +211,7 @@ void
 ---
 
 
-## removeByShape([AudioFrame](../../audioframe) shape)  method
+## removeByShape([Chart](../../chart) shape)  method
 
  Remove effect for the specified shape.
  

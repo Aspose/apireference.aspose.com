@@ -3,7 +3,7 @@ title: setR1C1Formula
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 380
+weight: 140
 url: /php-java/chartdatacell/setr1c1formula/
 ---
 

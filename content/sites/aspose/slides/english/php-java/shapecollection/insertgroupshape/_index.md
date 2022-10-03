@@ -3,7 +3,7 @@ title: insertGroupShape
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 940
+weight: 480
 url: /php-java/shapecollection/insertgroupshape/
 ---
 

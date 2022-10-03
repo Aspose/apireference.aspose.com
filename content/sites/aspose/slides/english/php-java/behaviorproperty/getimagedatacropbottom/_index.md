@@ -3,7 +3,7 @@ title: getImageDataCropBottom
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 460
+weight: 450
 url: /php-java/behaviorproperty/getimagedatacropbottom/
 ---
 

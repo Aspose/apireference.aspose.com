@@ -3,13 +3,14 @@ title: getCreatedTime
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 170
+weight: 160
 url: /php-java/documentproperties/getcreatedtime/
 ---
 
 ## getCreatedTime()  method
 
- Returns the date when a presentation was created.
+ Returns the date a presentation was created.
+ Values are in UTC.
  Read/write  java.util.Date.
  
 

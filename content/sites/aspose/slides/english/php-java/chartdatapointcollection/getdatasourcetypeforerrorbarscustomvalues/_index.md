@@ -3,7 +3,7 @@ title: getDataSourceTypeForErrorBarsCustomValues
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 560
+weight: 450
 url: /php-java/chartdatapointcollection/getdatasourcetypeforerrorbarscustomvalues/
 ---
 

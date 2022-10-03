@@ -22,6 +22,7 @@ url: /php-java/fontsmanager/
 | [getFontFallBackRulesCollection](getfontfallbackrulescollection)() | Represents a user's collection of FontFallBack rules for managing of collections of fonts for proper substitutions by fallback functionality Read/write IFontFallBackRulesCollection. |
 | [getFontSubstRuleList](getfontsubstrulelist)() | Font substitutions to use when rendering. Read/write IFontSubstRuleCollection. |
 | [getFonts](getfonts)() | Returns the fonts used in the presentation |
+| [getSubstitutions](getsubstitutions)() | Gets the information about fonts that will be replaced on the presentation's rendering. |
 | [removeEmbeddedFont](removeembeddedfont)([FontData](../fontdata)) | Removes the embedded font |
 | [replaceFont](replacefont)([FontData](../fontdata), [FontData](../fontdata)) | Replace font in presentation |
 | [replaceFont](replacefont)([FontSubstRule](../fontsubstrule)) | Replace font in presentation using information provided in FontSubstRule |

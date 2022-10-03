@@ -3,7 +3,7 @@ title: remove
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 830
+weight: 560
 url: /php-java/chartdatapointcollection/remove/
 ---
 

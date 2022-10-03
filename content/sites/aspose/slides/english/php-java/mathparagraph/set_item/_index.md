@@ -3,7 +3,7 @@ title: set_Item
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 220
+weight: 170
 url: /php-java/mathparagraph/set_item/
 ---
 

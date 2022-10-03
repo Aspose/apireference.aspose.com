@@ -3,7 +3,7 @@ title: getRightAngleAxes
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 70
+weight: 50
 url: /php-java/rotation3d/getrightangleaxes/
 ---
 

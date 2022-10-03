@@ -3,7 +3,7 @@ title: setZoomContent
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 150
+weight: 90
 url: /php-java/scaleeffect/setzoomcontent/
 ---
 

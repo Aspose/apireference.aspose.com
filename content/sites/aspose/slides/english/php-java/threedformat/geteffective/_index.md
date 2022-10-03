@@ -3,7 +3,7 @@ title: getEffective
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 150
+weight: 70
 url: /php-java/threedformat/geteffective/
 ---
 
@@ -37,7 +37,7 @@ url: /php-java/threedformat/geteffective/
 ```
 
 ### Returns
-[ThreeDFormatEffectiveData](../../threedformateffectivedata)
+ThreeDFormatEffectiveData
 
 
 ---

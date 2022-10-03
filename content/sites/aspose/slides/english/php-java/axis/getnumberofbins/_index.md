@@ -3,7 +3,7 @@ title: getNumberOfBins
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 330
+weight: 300
 url: /php-java/axis/getnumberofbins/
 ---
 

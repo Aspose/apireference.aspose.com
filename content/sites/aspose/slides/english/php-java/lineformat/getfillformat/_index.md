@@ -3,7 +3,7 @@ title: getFillFormat
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 210
+weight: 130
 url: /php-java/lineformat/getfillformat/
 ---
 

@@ -3,7 +3,7 @@ title: setTotalEditingTime
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 850
+weight: 650
 url: /php-java/documentproperties/settotaleditingtime/
 ---
 

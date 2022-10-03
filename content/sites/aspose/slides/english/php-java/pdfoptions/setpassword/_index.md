@@ -3,7 +3,7 @@ title: setPassword
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 300
+weight: 280
 url: /php-java/pdfoptions/setpassword/
 ---
 

@@ -3,7 +3,7 @@ title: addEffect
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 30
+weight: 10
 url: /php-java/sequence/addeffect/
 ---
 
@@ -70,7 +70,7 @@ url: /php-java/sequence/addeffect/
 ---
 
 
-## addEffect([Shape](../../shape) shape, int effectType, int subtype, int triggerType)  method
+## addEffect([Table](../../table) shape, int effectType, int subtype, int triggerType)  method
 
  Add new effect to the end of sequence.
  
@@ -79,7 +79,7 @@ url: /php-java/sequence/addeffect/
 
 | Name | Type | Description |
 | --- | --- | --- |
-| shape | [Shape](../shape) | Shape object IShape for adding an effect |
+| shape | [Table](../table) | Shape object IShape for adding an effect |
 | effectType | int | Type of an animation effect EffectType |
 | subtype | int | Subtypes of animation effect EffectSubtype |
 | triggerType | int | Trigger type of effect EffectTriggerType |
@@ -91,7 +91,7 @@ url: /php-java/sequence/addeffect/
 ---
 
 
-## addEffect([Table](../../table) shape, int effectType, int subtype, int triggerType)  method
+## addEffect([Shape](../../shape) shape, int effectType, int subtype, int triggerType)  method
 
  Add new effect to the end of sequence.
  
@@ -100,7 +100,7 @@ url: /php-java/sequence/addeffect/
 
 | Name | Type | Description |
 | --- | --- | --- |
-| shape | [Table](../table) | Shape object IShape for adding an effect |
+| shape | [Shape](../shape) | Shape object IShape for adding an effect |
 | effectType | int | Type of an animation effect EffectType |
 | subtype | int | Subtypes of animation effect EffectSubtype |
 | triggerType | int | Trigger type of effect EffectTriggerType |
@@ -343,7 +343,7 @@ url: /php-java/sequence/addeffect/
 ---
 
 
-## addEffect([Chart](../../chart) shape, int effectType, int subtype, int triggerType)  method
+## addEffect([AudioFrame](../../audioframe) shape, int effectType, int subtype, int triggerType)  method
 
  Add new effect to the end of sequence.
  
@@ -352,7 +352,7 @@ url: /php-java/sequence/addeffect/
 
 | Name | Type | Description |
 | --- | --- | --- |
-| shape | [Chart](../chart) | Shape object IShape for adding an effect |
+| shape | [AudioFrame](../audioframe) | Shape object IShape for adding an effect |
 | effectType | int | Type of an animation effect EffectType |
 | subtype | int | Subtypes of animation effect EffectSubtype |
 | triggerType | int | Trigger type of effect EffectTriggerType |
@@ -364,7 +364,7 @@ url: /php-java/sequence/addeffect/
 ---
 
 
-## addEffect([AudioFrame](../../audioframe) shape, int effectType, int subtype, int triggerType)  method
+## addEffect([Chart](../../chart) shape, int effectType, int subtype, int triggerType)  method
 
  Add new effect to the end of sequence.
  
@@ -373,7 +373,7 @@ url: /php-java/sequence/addeffect/
 
 | Name | Type | Description |
 | --- | --- | --- |
-| shape | [AudioFrame](../audioframe) | Shape object IShape for adding an effect |
+| shape | [Chart](../chart) | Shape object IShape for adding an effect |
 | effectType | int | Type of an animation effect EffectType |
 | subtype | int | Subtypes of animation effect EffectSubtype |
 | triggerType | int | Trigger type of effect EffectTriggerType |

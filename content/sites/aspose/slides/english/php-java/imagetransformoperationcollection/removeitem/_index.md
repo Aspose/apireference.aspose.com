@@ -3,33 +3,9 @@ title: removeItem
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 380
+weight: 270
 url: /php-java/imagetransformoperationcollection/removeitem/
 ---
-
-## removeItem([SoftEdge](../../softedge) item)  method
-
- Removes the first occurrence of a specific object from the  IGenericCollection.
- 
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| item | [SoftEdge](../../softedge) | The object to remove from the IGenericCollection. |
-
-### Returns
-boolean
-
-### Exception
-
-| Exception | Condition |
-| --- | --- |
- | com.aspose.ms.System.NotSupportedException | The IGenericCollection is read-only. |
-
-
----
-
 
 ## removeItem([HSL](../../hsl) item)  method
 
@@ -49,7 +25,31 @@ boolean
 
 | Exception | Condition |
 | --- | --- |
- | com.aspose.ms.System.NotSupportedException | The IGenericCollection is read-only. |
+ | NotSupportedException | The IGenericCollection is read-only. |
+
+
+---
+
+
+## removeItem([SoftEdge](../../softedge) item)  method
+
+ Removes the first occurrence of a specific object from the  IGenericCollection.
+ 
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| item | [SoftEdge](../../softedge) | The object to remove from the IGenericCollection. |
+
+### Returns
+boolean
+
+### Exception
+
+| Exception | Condition |
+| --- | --- |
+ | NotSupportedException | The IGenericCollection is read-only. |
 
 
 ---
@@ -73,7 +73,7 @@ boolean
 
 | Exception | Condition |
 | --- | --- |
- | com.aspose.ms.System.NotSupportedException | The IGenericCollection is read-only. |
+ | NotSupportedException | The IGenericCollection is read-only. |
 
 
 ---
@@ -97,7 +97,7 @@ boolean
 
 | Exception | Condition |
 | --- | --- |
- | com.aspose.ms.System.NotSupportedException | The IGenericCollection is read-only. |
+ | NotSupportedException | The IGenericCollection is read-only. |
 
 
 ---
@@ -121,7 +121,7 @@ boolean
 
 | Exception | Condition |
 | --- | --- |
- | com.aspose.ms.System.NotSupportedException | The IGenericCollection is read-only. |
+ | NotSupportedException | The IGenericCollection is read-only. |
 
 
 ---
@@ -145,7 +145,7 @@ boolean
 
 | Exception | Condition |
 | --- | --- |
- | com.aspose.ms.System.NotSupportedException | The IGenericCollection is read-only. |
+ | NotSupportedException | The IGenericCollection is read-only. |
 
 
 ---
@@ -169,7 +169,7 @@ boolean
 
 | Exception | Condition |
 | --- | --- |
- | com.aspose.ms.System.NotSupportedException | The IGenericCollection is read-only. |
+ | NotSupportedException | The IGenericCollection is read-only. |
 
 
 ---
@@ -193,31 +193,7 @@ boolean
 
 | Exception | Condition |
 | --- | --- |
- | com.aspose.ms.System.NotSupportedException | The IGenericCollection is read-only. |
-
-
----
-
-
-## removeItem([AlphaFloor](../../alphafloor) item)  method
-
- Removes the first occurrence of a specific object from the  IGenericCollection.
- 
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| item | [AlphaFloor](../../alphafloor) | The object to remove from the IGenericCollection. |
-
-### Returns
-boolean
-
-### Exception
-
-| Exception | Condition |
-| --- | --- |
- | com.aspose.ms.System.NotSupportedException | The IGenericCollection is read-only. |
+ | NotSupportedException | The IGenericCollection is read-only. |
 
 
 ---
@@ -241,7 +217,31 @@ boolean
 
 | Exception | Condition |
 | --- | --- |
- | com.aspose.ms.System.NotSupportedException | The IGenericCollection is read-only. |
+ | NotSupportedException | The IGenericCollection is read-only. |
+
+
+---
+
+
+## removeItem([AlphaFloor](../../alphafloor) item)  method
+
+ Removes the first occurrence of a specific object from the  IGenericCollection.
+ 
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| item | [AlphaFloor](../../alphafloor) | The object to remove from the IGenericCollection. |
+
+### Returns
+boolean
+
+### Exception
+
+| Exception | Condition |
+| --- | --- |
+ | NotSupportedException | The IGenericCollection is read-only. |
 
 
 ---
@@ -265,7 +265,7 @@ boolean
 
 | Exception | Condition |
 | --- | --- |
- | com.aspose.ms.System.NotSupportedException | The IGenericCollection is read-only. |
+ | NotSupportedException | The IGenericCollection is read-only. |
 
 
 ---
@@ -289,7 +289,7 @@ boolean
 
 | Exception | Condition |
 | --- | --- |
- | com.aspose.ms.System.NotSupportedException | The IGenericCollection is read-only. |
+ | NotSupportedException | The IGenericCollection is read-only. |
 
 
 ---
@@ -313,31 +313,7 @@ boolean
 
 | Exception | Condition |
 | --- | --- |
- | com.aspose.ms.System.NotSupportedException | The IGenericCollection is read-only. |
-
-
----
-
-
-## removeItem([AlphaInverse](../../alphainverse) item)  method
-
- Removes the first occurrence of a specific object from the  IGenericCollection.
- 
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| item | [AlphaInverse](../../alphainverse) | The object to remove from the IGenericCollection. |
-
-### Returns
-boolean
-
-### Exception
-
-| Exception | Condition |
-| --- | --- |
- | com.aspose.ms.System.NotSupportedException | The IGenericCollection is read-only. |
+ | NotSupportedException | The IGenericCollection is read-only. |
 
 
 ---
@@ -361,7 +337,31 @@ boolean
 
 | Exception | Condition |
 | --- | --- |
- | com.aspose.ms.System.NotSupportedException | The IGenericCollection is read-only. |
+ | NotSupportedException | The IGenericCollection is read-only. |
+
+
+---
+
+
+## removeItem([AlphaInverse](../../alphainverse) item)  method
+
+ Removes the first occurrence of a specific object from the  IGenericCollection.
+ 
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| item | [AlphaInverse](../../alphainverse) | The object to remove from the IGenericCollection. |
+
+### Returns
+boolean
+
+### Exception
+
+| Exception | Condition |
+| --- | --- |
+ | NotSupportedException | The IGenericCollection is read-only. |
 
 
 ---
@@ -385,7 +385,7 @@ boolean
 
 | Exception | Condition |
 | --- | --- |
- | com.aspose.ms.System.NotSupportedException | The IGenericCollection is read-only. |
+ | NotSupportedException | The IGenericCollection is read-only. |
 
 
 ---
@@ -409,31 +409,7 @@ boolean
 
 | Exception | Condition |
 | --- | --- |
- | com.aspose.ms.System.NotSupportedException | The IGenericCollection is read-only. |
-
-
----
-
-
-## removeItem([AlphaReplace](../../alphareplace) item)  method
-
- Removes the first occurrence of a specific object from the  IGenericCollection.
- 
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| item | [AlphaReplace](../../alphareplace) | The object to remove from the IGenericCollection. |
-
-### Returns
-boolean
-
-### Exception
-
-| Exception | Condition |
-| --- | --- |
- | com.aspose.ms.System.NotSupportedException | The IGenericCollection is read-only. |
+ | NotSupportedException | The IGenericCollection is read-only. |
 
 
 ---
@@ -457,7 +433,31 @@ boolean
 
 | Exception | Condition |
 | --- | --- |
- | com.aspose.ms.System.NotSupportedException | The IGenericCollection is read-only. |
+ | NotSupportedException | The IGenericCollection is read-only. |
+
+
+---
+
+
+## removeItem([AlphaReplace](../../alphareplace) item)  method
+
+ Removes the first occurrence of a specific object from the  IGenericCollection.
+ 
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| item | [AlphaReplace](../../alphareplace) | The object to remove from the IGenericCollection. |
+
+### Returns
+boolean
+
+### Exception
+
+| Exception | Condition |
+| --- | --- |
+ | NotSupportedException | The IGenericCollection is read-only. |
 
 
 ---
@@ -481,7 +481,7 @@ boolean
 
 | Exception | Condition |
 | --- | --- |
- | com.aspose.ms.System.NotSupportedException | The IGenericCollection is read-only. |
+ | NotSupportedException | The IGenericCollection is read-only. |
 
 
 ---
@@ -505,7 +505,7 @@ boolean
 
 | Exception | Condition |
 | --- | --- |
- | com.aspose.ms.System.NotSupportedException | The IGenericCollection is read-only. |
+ | NotSupportedException | The IGenericCollection is read-only. |
 
 
 ---
@@ -529,7 +529,7 @@ boolean
 
 | Exception | Condition |
 | --- | --- |
- | com.aspose.ms.System.NotSupportedException | The IGenericCollection is read-only. |
+ | NotSupportedException | The IGenericCollection is read-only. |
 
 
 ---
@@ -553,7 +553,7 @@ boolean
 
 | Exception | Condition |
 | --- | --- |
- | com.aspose.ms.System.NotSupportedException | The IGenericCollection is read-only. |
+ | NotSupportedException | The IGenericCollection is read-only. |
 
 
 ---

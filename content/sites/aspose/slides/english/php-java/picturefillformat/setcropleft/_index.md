@@ -3,7 +3,7 @@ title: setCropLeft
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 250
+weight: 130
 url: /php-java/picturefillformat/setcropleft/
 ---
 

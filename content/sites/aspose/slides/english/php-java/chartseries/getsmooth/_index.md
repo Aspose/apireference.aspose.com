@@ -3,7 +3,7 @@ title: getSmooth
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 550
+weight: 430
 url: /php-java/chartseries/getsmooth/
 ---
 

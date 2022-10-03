@@ -3,7 +3,7 @@ title: isSynchronized
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 210
+weight: 60
 url: /php-java/columncollection/issynchronized/
 ---
 

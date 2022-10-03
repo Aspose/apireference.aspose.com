@@ -3,7 +3,7 @@ title: setSkewHorizontal
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 370
+weight: 310
 url: /php-java/reflection/setskewhorizontal/
 ---
 

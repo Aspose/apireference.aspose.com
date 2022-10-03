@@ -34,33 +34,6 @@ Example:
 ---
 
 
-## MathDelimiter([MathLimit](../../mathlimit) element)  constructor
-
- Initializes MathDelimiter with the specified element as single base argument
- 
-Example:
- 
-```php
-  $element = new MathematicalText("x");
-  $delimiter = new MathDelimiter($element);
-```
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| element | [MathLimit](../../mathlimit) | The base element to which the delimiter is applied. Can be null. |
-
-### Exception
-
-| Exception | Condition |
-| --- | --- |
- | InvalidOperationException | Throws then element is a container for another elements, such as MathBlock. In this case, you need to call a different constructor with IEnumerable argument. |
-
-
----
-
-
 ## MathDelimiter([MathMatrix](../../mathmatrix) element)  constructor
 
  Initializes MathDelimiter with the specified element as single base argument
@@ -77,6 +50,33 @@ Example:
 | Name | Type | Description |
 | --- | --- | --- |
 | element | [MathMatrix](../../mathmatrix) | The base element to which the delimiter is applied. Can be null. |
+
+### Exception
+
+| Exception | Condition |
+| --- | --- |
+ | InvalidOperationException | Throws then element is a container for another elements, such as MathBlock. In this case, you need to call a different constructor with IEnumerable argument. |
+
+
+---
+
+
+## MathDelimiter([MathLimit](../../mathlimit) element)  constructor
+
+ Initializes MathDelimiter with the specified element as single base argument
+ 
+Example:
+ 
+```php
+  $element = new MathematicalText("x");
+  $delimiter = new MathDelimiter($element);
+```
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| element | [MathLimit](../../mathlimit) | The base element to which the delimiter is applied. Can be null. |
 
 ### Exception
 
@@ -196,33 +196,6 @@ Example:
 ---
 
 
-## MathDelimiter([MathNaryOperator](../../mathnaryoperator) element)  constructor
-
- Initializes MathDelimiter with the specified element as single base argument
- 
-Example:
- 
-```php
-  $element = new MathematicalText("x");
-  $delimiter = new MathDelimiter($element);
-```
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| element | [MathNaryOperator](../../mathnaryoperator) | The base element to which the delimiter is applied. Can be null. |
-
-### Exception
-
-| Exception | Condition |
-| --- | --- |
- | InvalidOperationException | Throws then element is a container for another elements, such as MathBlock. In this case, you need to call a different constructor with IEnumerable argument. |
-
-
----
-
-
 ## MathDelimiter([MathAccent](../../mathaccent) element)  constructor
 
  Initializes MathDelimiter with the specified element as single base argument
@@ -250,7 +223,7 @@ Example:
 ---
 
 
-## MathDelimiter([MathBorderBox](../../mathborderbox) element)  constructor
+## MathDelimiter([MathNaryOperator](../../mathnaryoperator) element)  constructor
 
  Initializes MathDelimiter with the specified element as single base argument
  
@@ -265,7 +238,7 @@ Example:
 
 | Name | Type | Description |
 | --- | --- | --- |
-| element | [MathBorderBox](../../mathborderbox) | The base element to which the delimiter is applied. Can be null. |
+| element | [MathNaryOperator](../../mathnaryoperator) | The base element to which the delimiter is applied. Can be null. |
 
 ### Exception
 
@@ -304,6 +277,33 @@ Example:
 ---
 
 
+## MathDelimiter([MathBorderBox](../../mathborderbox) element)  constructor
+
+ Initializes MathDelimiter with the specified element as single base argument
+ 
+Example:
+ 
+```php
+  $element = new MathematicalText("x");
+  $delimiter = new MathDelimiter($element);
+```
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| element | [MathBorderBox](../../mathborderbox) | The base element to which the delimiter is applied. Can be null. |
+
+### Exception
+
+| Exception | Condition |
+| --- | --- |
+ | InvalidOperationException | Throws then element is a container for another elements, such as MathBlock. In this case, you need to call a different constructor with IEnumerable argument. |
+
+
+---
+
+
 ## MathDelimiter([MathBar](../../mathbar) element)  constructor
 
  Initializes MathDelimiter with the specified element as single base argument
@@ -320,33 +320,6 @@ Example:
 | Name | Type | Description |
 | --- | --- | --- |
 | element | [MathBar](../../mathbar) | The base element to which the delimiter is applied. Can be null. |
-
-### Exception
-
-| Exception | Condition |
-| --- | --- |
- | InvalidOperationException | Throws then element is a container for another elements, such as MathBlock. In this case, you need to call a different constructor with IEnumerable argument. |
-
-
----
-
-
-## MathDelimiter([MathSuperscriptElement](../../mathsuperscriptelement) element)  constructor
-
- Initializes MathDelimiter with the specified element as single base argument
- 
-Example:
- 
-```php
-  $element = new MathematicalText("x");
-  $delimiter = new MathDelimiter($element);
-```
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| element | [MathSuperscriptElement](../../mathsuperscriptelement) | The base element to which the delimiter is applied. Can be null. |
 
 ### Exception
 
@@ -401,6 +374,33 @@ Example:
 | Name | Type | Description |
 | --- | --- | --- |
 | element | [MathSubscriptElement](../../mathsubscriptelement) | The base element to which the delimiter is applied. Can be null. |
+
+### Exception
+
+| Exception | Condition |
+| --- | --- |
+ | InvalidOperationException | Throws then element is a container for another elements, such as MathBlock. In this case, you need to call a different constructor with IEnumerable argument. |
+
+
+---
+
+
+## MathDelimiter([MathSuperscriptElement](../../mathsuperscriptelement) element)  constructor
+
+ Initializes MathDelimiter with the specified element as single base argument
+ 
+Example:
+ 
+```php
+  $element = new MathematicalText("x");
+  $delimiter = new MathDelimiter($element);
+```
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| element | [MathSuperscriptElement](../../mathsuperscriptelement) | The base element to which the delimiter is applied. Can be null. |
 
 ### Exception
 

@@ -3,7 +3,7 @@ title: getEffective
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 20
+weight: 10
 url: /php-java/columnformat/geteffective/
 ---
 
@@ -32,7 +32,7 @@ url: /php-java/columnformat/geteffective/
 ```
 
 ### Returns
-[ColumnFormatEffectiveData](../../columnformateffectivedata)
+ColumnFormatEffectiveData
 
 
 ---

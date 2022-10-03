@@ -3,7 +3,7 @@ title: setAlternativeTextTitle
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 890
+weight: 380
 url: /php-java/shape/setalternativetexttitle/
 ---
 

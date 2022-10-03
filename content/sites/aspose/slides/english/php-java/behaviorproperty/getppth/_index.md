@@ -3,7 +3,7 @@ title: getPptH
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 550
+weight: 540
 url: /php-java/behaviorproperty/getppth/
 ---
 

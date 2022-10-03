@@ -3,7 +3,7 @@ title: setStartShapeConnectedTo
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 200
+weight: 120
 url: /php-java/connector/setstartshapeconnectedto/
 ---
 
@@ -64,7 +64,7 @@ void
 ---
 
 
-## setStartShapeConnectedTo([Shape](../../shape) value)  method
+## setStartShapeConnectedTo([Table](../../table) value)  method
 
  Returns or sets the shape to attach the beginning of the connector to.
  Read/write  IShape.
@@ -83,7 +83,7 @@ void
 ---
 
 
-## setStartShapeConnectedTo([Table](../../table) value)  method
+## setStartShapeConnectedTo([Shape](../../shape) value)  method
 
  Returns or sets the shape to attach the beginning of the connector to.
  Read/write  IShape.
@@ -311,7 +311,7 @@ void
 ---
 
 
-## setStartShapeConnectedTo([Chart](../../chart) value)  method
+## setStartShapeConnectedTo([AudioFrame](../../audioframe) value)  method
 
  Returns or sets the shape to attach the beginning of the connector to.
  Read/write  IShape.
@@ -330,7 +330,7 @@ void
 ---
 
 
-## setStartShapeConnectedTo([AudioFrame](../../audioframe) value)  method
+## setStartShapeConnectedTo([Chart](../../chart) value)  method
 
  Returns or sets the shape to attach the beginning of the connector to.
  Read/write  IShape.

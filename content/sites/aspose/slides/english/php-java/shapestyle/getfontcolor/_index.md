@@ -3,7 +3,7 @@ title: getFontColor
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 100
+weight: 60
 url: /php-java/shapestyle/getfontcolor/
 ---
 

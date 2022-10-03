@@ -3,7 +3,7 @@ title: getMasterHandoutSlideManager
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 410
+weight: 220
 url: /php-java/presentation/getmasterhandoutslidemanager/
 ---
 
@@ -14,7 +14,7 @@ url: /php-java/presentation/getmasterhandoutslidemanager/
  
 
 ### Returns
-[MasterHandoutSlideManager](../../masterhandoutslidemanager)
+MasterHandoutSlideManager
 
 
 ---

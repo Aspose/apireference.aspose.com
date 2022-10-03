@@ -3,7 +3,7 @@ title: setFont
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 370
+weight: 170
 url: /php-java/bulletformat/setfont/
 ---
 

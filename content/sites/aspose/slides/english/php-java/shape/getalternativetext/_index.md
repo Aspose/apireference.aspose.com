@@ -3,7 +3,7 @@ title: getAlternativeText
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 140
+weight: 20
 url: /php-java/shape/getalternativetext/
 ---
 

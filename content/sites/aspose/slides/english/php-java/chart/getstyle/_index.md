@@ -3,7 +3,7 @@ title: getStyle
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 280
+weight: 160
 url: /php-java/chart/getstyle/
 ---
 

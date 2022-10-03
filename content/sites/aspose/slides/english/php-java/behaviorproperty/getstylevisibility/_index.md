@@ -3,7 +3,7 @@ title: getStyleVisibility
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 1220
+weight: 1210
 url: /php-java/behaviorproperty/getstylevisibility/
 ---
 

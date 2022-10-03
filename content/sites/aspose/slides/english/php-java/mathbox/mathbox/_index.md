@@ -27,26 +27,6 @@ Example:
 ---
 
 
-## MathBox([MathLimit](../../mathlimit) element)  constructor
-
- Initializes MathBox with the specified element as an argument
- 
-Example:
- 
-```php
-  $box = new MathBox(new MathematicalText("=="));
-```
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| element | [MathLimit](../../mathlimit) | The base element to which the box is applied. Can be null. |
-
-
----
-
-
 ## MathBox([MathMatrix](../../mathmatrix) element)  constructor
 
  Initializes MathBox with the specified element as an argument
@@ -62,6 +42,26 @@ Example:
 | Name | Type | Description |
 | --- | --- | --- |
 | element | [MathMatrix](../../mathmatrix) | The base element to which the box is applied. Can be null. |
+
+
+---
+
+
+## MathBox([MathLimit](../../mathlimit) element)  constructor
+
+ Initializes MathBox with the specified element as an argument
+ 
+Example:
+ 
+```php
+  $box = new MathBox(new MathematicalText("=="));
+```
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| element | [MathLimit](../../mathlimit) | The base element to which the box is applied. Can be null. |
 
 
 ---
@@ -147,26 +147,6 @@ Example:
 ---
 
 
-## MathBox([MathNaryOperator](../../mathnaryoperator) element)  constructor
-
- Initializes MathBox with the specified element as an argument
- 
-Example:
- 
-```php
-  $box = new MathBox(new MathematicalText("=="));
-```
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| element | [MathNaryOperator](../../mathnaryoperator) | The base element to which the box is applied. Can be null. |
-
-
----
-
-
 ## MathBox([MathAccent](../../mathaccent) element)  constructor
 
  Initializes MathBox with the specified element as an argument
@@ -187,7 +167,7 @@ Example:
 ---
 
 
-## MathBox([MathBorderBox](../../mathborderbox) element)  constructor
+## MathBox([MathNaryOperator](../../mathnaryoperator) element)  constructor
 
  Initializes MathBox with the specified element as an argument
  
@@ -201,7 +181,7 @@ Example:
 
 | Name | Type | Description |
 | --- | --- | --- |
-| element | [MathBorderBox](../../mathborderbox) | The base element to which the box is applied. Can be null. |
+| element | [MathNaryOperator](../../mathnaryoperator) | The base element to which the box is applied. Can be null. |
 
 
 ---
@@ -227,6 +207,26 @@ Example:
 ---
 
 
+## MathBox([MathBorderBox](../../mathborderbox) element)  constructor
+
+ Initializes MathBox with the specified element as an argument
+ 
+Example:
+ 
+```php
+  $box = new MathBox(new MathematicalText("=="));
+```
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| element | [MathBorderBox](../../mathborderbox) | The base element to which the box is applied. Can be null. |
+
+
+---
+
+
 ## MathBox([MathBar](../../mathbar) element)  constructor
 
  Initializes MathBox with the specified element as an argument
@@ -242,26 +242,6 @@ Example:
 | Name | Type | Description |
 | --- | --- | --- |
 | element | [MathBar](../../mathbar) | The base element to which the box is applied. Can be null. |
-
-
----
-
-
-## MathBox([MathSuperscriptElement](../../mathsuperscriptelement) element)  constructor
-
- Initializes MathBox with the specified element as an argument
- 
-Example:
- 
-```php
-  $box = new MathBox(new MathematicalText("=="));
-```
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| element | [MathSuperscriptElement](../../mathsuperscriptelement) | The base element to which the box is applied. Can be null. |
 
 
 ---
@@ -302,6 +282,26 @@ Example:
 | Name | Type | Description |
 | --- | --- | --- |
 | element | [MathSubscriptElement](../../mathsubscriptelement) | The base element to which the box is applied. Can be null. |
+
+
+---
+
+
+## MathBox([MathSuperscriptElement](../../mathsuperscriptelement) element)  constructor
+
+ Initializes MathBox with the specified element as an argument
+ 
+Example:
+ 
+```php
+  $box = new MathBox(new MathematicalText("=="));
+```
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| element | [MathSuperscriptElement](../../mathsuperscriptelement) | The base element to which the box is applied. Can be null. |
 
 
 ---

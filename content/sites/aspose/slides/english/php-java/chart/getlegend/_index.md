@@ -3,7 +3,7 @@ title: getLegend
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 200
+weight: 100
 url: /php-java/chart/getlegend/
 ---
 

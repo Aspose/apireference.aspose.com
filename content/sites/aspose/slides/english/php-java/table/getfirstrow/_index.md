@@ -3,7 +3,7 @@ title: getFirstRow
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 100
+weight: 40
 url: /php-java/table/getfirstrow/
 ---
 

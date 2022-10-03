@@ -3,27 +3,9 @@ title: containsItem
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 240
+weight: 200
 url: /php-java/imagetransformoperationcollection/containsitem/
 ---
-
-## containsItem([SoftEdge](../../softedge) item)  method
-
- Determines whether the  IGenericCollection contains a specific value.
- 
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| item | [SoftEdge](../../softedge) | The object to locate in the IGenericCollection. |
-
-### Returns
-boolean
-
-
----
-
 
 ## containsItem([HSL](../../hsl) item)  method
 
@@ -35,6 +17,24 @@ boolean
 | Name | Type | Description |
 | --- | --- | --- |
 | item | [HSL](../../hsl) | The object to locate in the IGenericCollection. |
+
+### Returns
+boolean
+
+
+---
+
+
+## containsItem([SoftEdge](../../softedge) item)  method
+
+ Determines whether the  IGenericCollection contains a specific value.
+ 
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| item | [SoftEdge](../../softedge) | The object to locate in the IGenericCollection. |
 
 ### Returns
 boolean
@@ -151,24 +151,6 @@ boolean
 ---
 
 
-## containsItem([AlphaFloor](../../alphafloor) item)  method
-
- Determines whether the  IGenericCollection contains a specific value.
- 
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| item | [AlphaFloor](../../alphafloor) | The object to locate in the IGenericCollection. |
-
-### Returns
-boolean
-
-
----
-
-
 ## containsItem([AlphaModulateFixed](../../alphamodulatefixed) item)  method
 
  Determines whether the  IGenericCollection contains a specific value.
@@ -179,6 +161,24 @@ boolean
 | Name | Type | Description |
 | --- | --- | --- |
 | item | [AlphaModulateFixed](../../alphamodulatefixed) | The object to locate in the IGenericCollection. |
+
+### Returns
+boolean
+
+
+---
+
+
+## containsItem([AlphaFloor](../../alphafloor) item)  method
+
+ Determines whether the  IGenericCollection contains a specific value.
+ 
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| item | [AlphaFloor](../../alphafloor) | The object to locate in the IGenericCollection. |
 
 ### Returns
 boolean
@@ -241,24 +241,6 @@ boolean
 ---
 
 
-## containsItem([AlphaInverse](../../alphainverse) item)  method
-
- Determines whether the  IGenericCollection contains a specific value.
- 
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| item | [AlphaInverse](../../alphainverse) | The object to locate in the IGenericCollection. |
-
-### Returns
-boolean
-
-
----
-
-
 ## containsItem([AlphaCeiling](../../alphaceiling) item)  method
 
  Determines whether the  IGenericCollection contains a specific value.
@@ -269,6 +251,24 @@ boolean
 | Name | Type | Description |
 | --- | --- | --- |
 | item | [AlphaCeiling](../../alphaceiling) | The object to locate in the IGenericCollection. |
+
+### Returns
+boolean
+
+
+---
+
+
+## containsItem([AlphaInverse](../../alphainverse) item)  method
+
+ Determines whether the  IGenericCollection contains a specific value.
+ 
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| item | [AlphaInverse](../../alphainverse) | The object to locate in the IGenericCollection. |
 
 ### Returns
 boolean
@@ -313,24 +313,6 @@ boolean
 ---
 
 
-## containsItem([AlphaReplace](../../alphareplace) item)  method
-
- Determines whether the  IGenericCollection contains a specific value.
- 
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| item | [AlphaReplace](../../alphareplace) | The object to locate in the IGenericCollection. |
-
-### Returns
-boolean
-
-
----
-
-
 ## containsItem([PresetShadow](../../presetshadow) item)  method
 
  Determines whether the  IGenericCollection contains a specific value.
@@ -341,6 +323,24 @@ boolean
 | Name | Type | Description |
 | --- | --- | --- |
 | item | [PresetShadow](../../presetshadow) | The object to locate in the IGenericCollection. |
+
+### Returns
+boolean
+
+
+---
+
+
+## containsItem([AlphaReplace](../../alphareplace) item)  method
+
+ Determines whether the  IGenericCollection contains a specific value.
+ 
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| item | [AlphaReplace](../../alphareplace) | The object to locate in the IGenericCollection. |
 
 ### Returns
 boolean

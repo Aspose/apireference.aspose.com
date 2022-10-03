@@ -3,7 +3,7 @@ title: setAutomaticMinorUnit
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 760
+weight: 630
 url: /php-java/axis/setautomaticminorunit/
 ---
 

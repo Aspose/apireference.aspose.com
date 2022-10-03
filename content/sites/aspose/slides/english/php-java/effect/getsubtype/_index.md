@@ -3,7 +3,7 @@ title: getSubtype
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 110
+weight: 60
 url: /php-java/effect/getsubtype/
 ---
 

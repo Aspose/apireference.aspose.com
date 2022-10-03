@@ -3,7 +3,7 @@ title: getTextFrameForOverriding
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 140
+weight: 120
 url: /php-java/charttitle/gettextframeforoverriding/
 ---
 

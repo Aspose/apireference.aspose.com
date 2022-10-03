@@ -3,7 +3,7 @@ title: setDataSourceTypeForYValues
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 920
+weight: 610
 url: /php-java/chartdatapointcollection/setdatasourcetypeforyvalues/
 ---
 

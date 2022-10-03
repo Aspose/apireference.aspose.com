@@ -3,7 +3,7 @@ title: setPoints
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 80
+weight: 60
 url: /php-java/motioncmdpath/setpoints/
 ---
 

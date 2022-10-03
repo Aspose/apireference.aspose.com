@@ -3,7 +3,7 @@ title: hashCode
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 210
+weight: 50
 url: /php-java/fontdata/hashcode/
 ---
 

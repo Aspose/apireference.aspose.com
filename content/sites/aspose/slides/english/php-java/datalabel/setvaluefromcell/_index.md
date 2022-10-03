@@ -3,7 +3,7 @@ title: setValueFromCell
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 430
+weight: 250
 url: /php-java/datalabel/setvaluefromcell/
 ---
 

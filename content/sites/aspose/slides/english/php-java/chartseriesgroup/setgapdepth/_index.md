@@ -3,7 +3,7 @@ title: setGapDepth
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 370
+weight: 290
 url: /php-java/chartseriesgroup/setgapdepth/
 ---
 

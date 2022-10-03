@@ -3,7 +3,7 @@ title: setRotation
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 160
+weight: 60
 url: /php-java/lightrig/setrotation/
 ---
 

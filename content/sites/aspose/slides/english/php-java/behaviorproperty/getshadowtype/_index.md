@@ -3,7 +3,7 @@ title: getShadowType
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 790
+weight: 780
 url: /php-java/behaviorproperty/getshadowtype/
 ---
 

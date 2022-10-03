@@ -3,7 +3,7 @@ title: setPassword
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 270
+weight: 230
 url: /php-java/loadoptions/setpassword/
 ---
 

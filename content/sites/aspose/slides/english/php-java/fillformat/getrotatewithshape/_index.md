@@ -3,7 +3,7 @@ title: getRotateWithShape
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 150
+weight: 60
 url: /php-java/fillformat/getrotatewithshape/
 ---
 

@@ -3,7 +3,7 @@ title: getSpaceAfter
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 380
+weight: 160
 url: /php-java/paragraphformat/getspaceafter/
 ---
 

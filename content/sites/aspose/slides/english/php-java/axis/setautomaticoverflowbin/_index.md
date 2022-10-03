@@ -3,7 +3,7 @@ title: setAutomaticOverflowBin
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 770
+weight: 640
 url: /php-java/axis/setautomaticoverflowbin/
 ---
 

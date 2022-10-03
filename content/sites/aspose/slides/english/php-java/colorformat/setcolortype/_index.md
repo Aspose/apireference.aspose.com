@@ -3,7 +3,7 @@ title: setColorType
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 530
+weight: 230
 url: /php-java/colorformat/setcolortype/
 ---
 

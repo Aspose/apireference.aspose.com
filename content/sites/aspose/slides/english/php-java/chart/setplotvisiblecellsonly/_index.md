@@ -3,7 +3,7 @@ title: setPlotVisibleCellsOnly
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 430
+weight: 280
 url: /php-java/chart/setplotvisiblecellsonly/
 ---
 

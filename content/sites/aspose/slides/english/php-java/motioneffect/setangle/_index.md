@@ -3,7 +3,7 @@ title: setAngle
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 140
+weight: 100
 url: /php-java/motioneffect/setangle/
 ---
 

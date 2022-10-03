@@ -3,7 +3,7 @@ title: getPptX
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 580
+weight: 570
 url: /php-java/behaviorproperty/getpptx/
 ---
 

@@ -3,7 +3,7 @@ title: getPresentation
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 300
+weight: 170
 url: /php-java/cell/getpresentation/
 ---
 

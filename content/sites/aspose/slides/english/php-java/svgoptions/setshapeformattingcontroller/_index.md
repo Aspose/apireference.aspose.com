@@ -3,7 +3,7 @@ title: setShapeFormattingController
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 310
+weight: 240
 url: /php-java/svgoptions/setshapeformattingcontroller/
 ---
 

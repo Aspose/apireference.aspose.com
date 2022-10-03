@@ -37,7 +37,7 @@ void
 ---
 
 
-## writeShapeEnd([HtmlGenerator](../../htmlgenerator) generator, [Shape](../../shape) shape)  method
+## writeShapeEnd([HtmlGenerator](../../htmlgenerator) generator, [Table](../../table) shape)  method
 
 
 ### Returns
@@ -47,7 +47,7 @@ void
 ---
 
 
-## writeShapeEnd([HtmlGenerator](../../htmlgenerator) generator, [Table](../../table) shape)  method
+## writeShapeEnd([HtmlGenerator](../../htmlgenerator) generator, [Shape](../../shape) shape)  method
 
 
 ### Returns
@@ -167,7 +167,7 @@ void
 ---
 
 
-## writeShapeEnd([HtmlGenerator](../../htmlgenerator) generator, [Chart](../../chart) shape)  method
+## writeShapeEnd([HtmlGenerator](../../htmlgenerator) generator, [AudioFrame](../../audioframe) shape)  method
 
 
 ### Returns
@@ -177,7 +177,7 @@ void
 ---
 
 
-## writeShapeEnd([HtmlGenerator](../../htmlgenerator) generator, [AudioFrame](../../audioframe) shape)  method
+## writeShapeEnd([HtmlGenerator](../../htmlgenerator) generator, [Chart](../../chart) shape)  method
 
 
 ### Returns

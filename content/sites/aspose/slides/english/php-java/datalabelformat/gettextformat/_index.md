@@ -3,7 +3,7 @@ title: getTextFormat
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 220
+weight: 150
 url: /php-java/datalabelformat/gettextformat/
 ---
 

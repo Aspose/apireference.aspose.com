@@ -16,24 +16,8 @@ Initializes a new instance of this class.
  
 
 ```php
-  $example;
-  $an;
-  $be;
-  $find;
-  $file;
-  $in;
-  $that;
-  $component;
-  $in;
-  $that;
-  $calling;
-  $in;
-  $of;
-  $assembly;
-  $in;
-  $resources;
-  $calling;
-  $assembly = $$missing$;
+$license = new License();
+$license->setLicense("MyLicense.lic");
 ```
 
 

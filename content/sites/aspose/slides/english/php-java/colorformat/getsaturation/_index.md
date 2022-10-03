@@ -3,7 +3,7 @@ title: getSaturation
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 390
+weight: 170
 url: /php-java/colorformat/getsaturation/
 ---
 

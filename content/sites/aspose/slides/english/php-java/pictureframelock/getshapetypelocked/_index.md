@@ -3,7 +3,7 @@ title: getShapeTypeLocked
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 110
+weight: 100
 url: /php-java/pictureframelock/getshapetypelocked/
 ---
 

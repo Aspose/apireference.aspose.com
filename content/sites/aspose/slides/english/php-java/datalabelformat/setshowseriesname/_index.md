@@ -3,7 +3,7 @@ title: setShowSeriesName
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 390
+weight: 280
 url: /php-java/datalabelformat/setshowseriesname/
 ---
 

@@ -3,7 +3,7 @@ title: setCategoryAxisType
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 840
+weight: 710
 url: /php-java/axis/setcategoryaxistype/
 ---
 

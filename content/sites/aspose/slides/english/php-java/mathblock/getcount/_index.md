@@ -3,7 +3,7 @@ title: getCount
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 130
+weight: 120
 url: /php-java/mathblock/getcount/
 ---
 

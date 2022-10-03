@@ -3,7 +3,7 @@ title: copyToTArray
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 260
+weight: 210
 url: /php-java/imagetransformoperationcollection/copytotarray/
 ---
 
@@ -26,7 +26,7 @@ void
 
 | Exception | Condition |
 | --- | --- |
- | com.aspose.ms.System.ArgumentException | The number of elements in the source IGenericCollection is greater than the available space from arrayIndex to the end of the destination array. |
+ | ArgumentException | The number of elements in the source IGenericCollection is greater than the available space from arrayIndex to the end of the destination array. |
 
 
 ---

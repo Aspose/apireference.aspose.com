@@ -3,7 +3,7 @@ title: getSystemImage
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 220
+weight: 60
 url: /php-java/ppimage/getsystemimage/
 ---
 

@@ -3,7 +3,7 @@ title: get_Item
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 260
+weight: 130
 url: /php-java/table/get_item/
 ---
 

@@ -3,7 +3,7 @@ title: getY
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 340
+weight: 210
 url: /php-java/datalabel/gety/
 ---
 

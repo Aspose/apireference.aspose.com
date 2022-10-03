@@ -3,7 +3,7 @@ title: setNumberedBulletStartWith
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 390
+weight: 190
 url: /php-java/bulletformat/setnumberedbulletstartwith/
 ---
 

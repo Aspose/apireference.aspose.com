@@ -29,8 +29,8 @@ url: /php-java/commandeffect/
 | [setShapeTarget](setshapetarget)([Connector](../connector)) | Defines shape target of command effect. Read/write IShape. |
 | [setShapeTarget](setshapetarget)([GraphicalObject](../graphicalobject)) | Defines shape target of command effect. Read/write IShape. |
 | [setShapeTarget](setshapetarget)([SmartArtShape](../smartartshape)) | Defines shape target of command effect. Read/write IShape. |
-| [setShapeTarget](setshapetarget)([Shape](../shape)) | Defines shape target of command effect. Read/write IShape. |
 | [setShapeTarget](setshapetarget)([Table](../table)) | Defines shape target of command effect. Read/write IShape. |
+| [setShapeTarget](setshapetarget)([Shape](../shape)) | Defines shape target of command effect. Read/write IShape. |
 | [setShapeTarget](setshapetarget)([Ink](../ink)) | Defines shape target of command effect. Read/write IShape. |
 | [setShapeTarget](setshapetarget)([SummaryZoomFrame](../summaryzoomframe)) | Defines shape target of command effect. Read/write IShape. |
 | [setShapeTarget](setshapetarget)([SummaryZoomSection](../summaryzoomsection)) | Defines shape target of command effect. Read/write IShape. |
@@ -42,8 +42,8 @@ url: /php-java/commandeffect/
 | [setShapeTarget](setshapetarget)([AutoShape](../autoshape)) | Defines shape target of command effect. Read/write IShape. |
 | [setShapeTarget](setshapetarget)([SectionZoomFrame](../sectionzoomframe)) | Defines shape target of command effect. Read/write IShape. |
 | [setShapeTarget](setshapetarget)([PictureFrame](../pictureframe)) | Defines shape target of command effect. Read/write IShape. |
-| [setShapeTarget](setshapetarget)([Chart](../chart)) | Defines shape target of command effect. Read/write IShape. |
 | [setShapeTarget](setshapetarget)([AudioFrame](../audioframe)) | Defines shape target of command effect. Read/write IShape. |
+| [setShapeTarget](setshapetarget)([Chart](../chart)) | Defines shape target of command effect. Read/write IShape. |
 | [setShapeTarget](setshapetarget)([ZoomObject](../zoomobject)) | Defines shape target of command effect. Read/write IShape. |
 | [setShapeTarget](setshapetarget)([LegacyDiagram](../legacydiagram)) | Defines shape target of command effect. Read/write IShape. |
 | [setType](settype)(OrderedDictionary) | Defines command effect type of behavior. Read/write CommandEffectType. |

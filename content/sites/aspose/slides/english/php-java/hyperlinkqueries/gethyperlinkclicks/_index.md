@@ -3,7 +3,7 @@ title: getHyperlinkClicks
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 30
+weight: 20
 url: /php-java/hyperlinkqueries/gethyperlinkclicks/
 ---
 
@@ -14,7 +14,7 @@ url: /php-java/hyperlinkqueries/gethyperlinkclicks/
  
 
 ### Returns
-[BehaviorPropertyCollection](../../behaviorpropertycollection), KeyedCollection, Collection, ReadOnlyCollection, List
+[BehaviorPropertyCollection](../../behaviorpropertycollection), KeyedCollection, ReadOnlyCollection, Collection, List
 
 
 ---

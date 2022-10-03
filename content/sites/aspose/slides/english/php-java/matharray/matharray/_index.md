@@ -27,26 +27,6 @@ Example:
 ---
 
 
-## MathArray([MathLimit](../../mathlimit) element)  constructor
-
- Creates a mathematical array and places the specified element in it
- 
-Example:
- 
-```php
-  $mathArray = new MathArray(new MathematicalText("item1"));
-```
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| element | [MathLimit](../../mathlimit) | The element to place in the array |
-
-
----
-
-
 ## MathArray([MathMatrix](../../mathmatrix) element)  constructor
 
  Creates a mathematical array and places the specified element in it
@@ -62,6 +42,26 @@ Example:
 | Name | Type | Description |
 | --- | --- | --- |
 | element | [MathMatrix](../../mathmatrix) | The element to place in the array |
+
+
+---
+
+
+## MathArray([MathLimit](../../mathlimit) element)  constructor
+
+ Creates a mathematical array and places the specified element in it
+ 
+Example:
+ 
+```php
+  $mathArray = new MathArray(new MathematicalText("item1"));
+```
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| element | [MathLimit](../../mathlimit) | The element to place in the array |
 
 
 ---
@@ -147,26 +147,6 @@ Example:
 ---
 
 
-## MathArray([MathNaryOperator](../../mathnaryoperator) element)  constructor
-
- Creates a mathematical array and places the specified element in it
- 
-Example:
- 
-```php
-  $mathArray = new MathArray(new MathematicalText("item1"));
-```
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| element | [MathNaryOperator](../../mathnaryoperator) | The element to place in the array |
-
-
----
-
-
 ## MathArray([MathAccent](../../mathaccent) element)  constructor
 
  Creates a mathematical array and places the specified element in it
@@ -187,7 +167,7 @@ Example:
 ---
 
 
-## MathArray([MathBorderBox](../../mathborderbox) element)  constructor
+## MathArray([MathNaryOperator](../../mathnaryoperator) element)  constructor
 
  Creates a mathematical array and places the specified element in it
  
@@ -201,7 +181,7 @@ Example:
 
 | Name | Type | Description |
 | --- | --- | --- |
-| element | [MathBorderBox](../../mathborderbox) | The element to place in the array |
+| element | [MathNaryOperator](../../mathnaryoperator) | The element to place in the array |
 
 
 ---
@@ -227,6 +207,26 @@ Example:
 ---
 
 
+## MathArray([MathBorderBox](../../mathborderbox) element)  constructor
+
+ Creates a mathematical array and places the specified element in it
+ 
+Example:
+ 
+```php
+  $mathArray = new MathArray(new MathematicalText("item1"));
+```
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| element | [MathBorderBox](../../mathborderbox) | The element to place in the array |
+
+
+---
+
+
 ## MathArray([MathBar](../../mathbar) element)  constructor
 
  Creates a mathematical array and places the specified element in it
@@ -242,26 +242,6 @@ Example:
 | Name | Type | Description |
 | --- | --- | --- |
 | element | [MathBar](../../mathbar) | The element to place in the array |
-
-
----
-
-
-## MathArray([MathSuperscriptElement](../../mathsuperscriptelement) element)  constructor
-
- Creates a mathematical array and places the specified element in it
- 
-Example:
- 
-```php
-  $mathArray = new MathArray(new MathematicalText("item1"));
-```
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| element | [MathSuperscriptElement](../../mathsuperscriptelement) | The element to place in the array |
 
 
 ---
@@ -302,6 +282,26 @@ Example:
 | Name | Type | Description |
 | --- | --- | --- |
 | element | [MathSubscriptElement](../../mathsubscriptelement) | The element to place in the array |
+
+
+---
+
+
+## MathArray([MathSuperscriptElement](../../mathsuperscriptelement) element)  constructor
+
+ Creates a mathematical array and places the specified element in it
+ 
+Example:
+ 
+```php
+  $mathArray = new MathArray(new MathematicalText("item1"));
+```
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| element | [MathSuperscriptElement](../../mathsuperscriptelement) | The element to place in the array |
 
 
 ---

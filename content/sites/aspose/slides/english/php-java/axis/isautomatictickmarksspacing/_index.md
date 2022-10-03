@@ -3,7 +3,7 @@ title: isAutomaticTickMarksSpacing
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 560
+weight: 510
 url: /php-java/axis/isautomatictickmarksspacing/
 ---
 

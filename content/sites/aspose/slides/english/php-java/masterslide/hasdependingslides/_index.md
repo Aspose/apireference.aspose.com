@@ -3,7 +3,7 @@ title: hasDependingSlides
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 230
+weight: 120
 url: /php-java/masterslide/hasdependingslides/
 ---
 

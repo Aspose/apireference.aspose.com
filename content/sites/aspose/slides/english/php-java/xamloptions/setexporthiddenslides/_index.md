@@ -3,7 +3,7 @@ title: setExportHiddenSlides
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 220
+weight: 40
 url: /php-java/xamloptions/setexporthiddenslides/
 ---
 

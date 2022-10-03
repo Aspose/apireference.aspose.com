@@ -3,7 +3,7 @@ title: setOperator
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 210
+weight: 180
 url: /php-java/mathnaryoperator/setoperator/
 ---
 

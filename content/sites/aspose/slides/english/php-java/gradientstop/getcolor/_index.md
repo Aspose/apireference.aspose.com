@@ -3,7 +3,7 @@ title: getColor
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 90
+weight: 10
 url: /php-java/gradientstop/getcolor/
 ---
 

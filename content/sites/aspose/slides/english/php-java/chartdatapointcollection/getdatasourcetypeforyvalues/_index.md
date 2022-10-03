@@ -3,7 +3,7 @@ title: getDataSourceTypeForYValues
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 620
+weight: 480
 url: /php-java/chartdatapointcollection/getdatasourcetypeforyvalues/
 ---
 

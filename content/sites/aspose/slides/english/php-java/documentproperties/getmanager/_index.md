@@ -3,7 +3,7 @@ title: getManager
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 360
+weight: 290
 url: /php-java/documentproperties/getmanager/
 ---
 

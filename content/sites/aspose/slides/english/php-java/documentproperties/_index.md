@@ -36,7 +36,7 @@ url: /php-java/documentproperties/
 | [getContentStatus](getcontentstatus)() | Returns or sets the content status of a presentation. Read/write String. |
 | [getContentType](getcontenttype)() | Returns or sets the content type of a presentation. Read/write String. |
 | [getCountOfCustomProperties](getcountofcustomproperties)() | Returns the number of custom properties actually contained in a collection. Read-only int. |
-| [getCreatedTime](getcreatedtime)() | Returns the date when a presentation was created. Read/write java.util.Date. |
+| [getCreatedTime](getcreatedtime)() | Returns the date a presentation was created. Values are in UTC. Read/write java.util.Date. |
 | [getCustomPropertyName](getcustompropertyname)(int) | Return a custom property name at the specified index. |
 | [getCustomPropertyValue](getcustompropertyvalue)(String, boolean[]) | Gets a named boolean value from the custom properties. |
 | [getCustomPropertyValue](getcustompropertyvalue)(String, int[]) | Gets a named integer value from the custom properties. |
@@ -48,7 +48,7 @@ url: /php-java/documentproperties/
 | [getKeywords](getkeywords)() | Returns or sets the keywords of a presentation. Read/write String. |
 | [getLastPrinted](getlastprinted)() | Returns the date when a presentation was printed last time. Read/write java.util.Date. |
 | [getLastSavedBy](getlastsavedby)() | Returns or sets the name of a last person who modified a presentation. Read/write String. |
-| [getLastSavedTime](getlastsavedtime)() | Returns the date when a presentation was modified last time. Read-only in case of Presentation.DocumentProperties (because it will be updated internally while IPresentation object saving process). Can be changed via DocumentProperties instance returning by method IPresentationInfo#readDocumentProperties Please see the example in IPresentationInfo#updateDocumentProperties(IDocumentProperties) method summary. |
+| [getLastSavedTime](getlastsavedtime)() | Returns the date a presentation was last modified. Values are in UTC. Read-only in case of Presentation.DocumentProperties (because it will be updated internally while IPresentation object saving process). Can be changed via DocumentProperties instance returning by method IPresentationInfo#readDocumentProperties Please see the example in IPresentationInfo#updateDocumentProperties(IDocumentProperties) method summary. |
 | [getManager](getmanager)() | Returns or sets the manager property. Read/write String. |
 | [getNameOfApplication](getnameofapplication)() | Returns or sets the name of the application. Read/write String. |
 | [getPresentationFormat](getpresentationformat)() | Returns or sets the intended format of a presentation. Read/write String. |
@@ -66,7 +66,7 @@ url: /php-java/documentproperties/
 | [setCompany](setcompany)(String) | Returns or sets the company property. Read/write String. |
 | [setContentStatus](setcontentstatus)(String) | Returns or sets the content status of a presentation. Read/write String. |
 | [setContentType](setcontenttype)(String) | Returns or sets the content type of a presentation. Read/write String. |
-| [setCreatedTime](setcreatedtime)(Date) | Returns the date when a presentation was created. Read/write java.util.Date. |
+| [setCreatedTime](setcreatedtime)(Date) | Returns the date a presentation was created. Values are in UTC. Read/write java.util.Date. |
 | [setCustomPropertyValue](setcustompropertyvalue)(String, boolean) | Sets a named boolean custom property. |
 | [setCustomPropertyValue](setcustompropertyvalue)(String, int) | Sets a named integer custom property. |
 | [setCustomPropertyValue](setcustompropertyvalue)(String, Date) | Sets a named DateTime custom property. |
@@ -77,7 +77,7 @@ url: /php-java/documentproperties/
 | [setKeywords](setkeywords)(String) | Returns or sets the keywords of a presentation. Read/write String. |
 | [setLastPrinted](setlastprinted)(Date) | Returns the date when a presentation was printed last time. Read/write java.util.Date. |
 | [setLastSavedBy](setlastsavedby)(String) | Returns or sets the name of a last person who modified a presentation. Read/write String. |
-| [setLastSavedTime](setlastsavedtime)(Date) | Returns the date when a presentation was modified last time. Read-only in case of Presentation.DocumentProperties (because it will be updated internally while IPresentation object saving process). Can be changed via DocumentProperties instance returning by method IPresentationInfo#readDocumentProperties Please see the example in IPresentationInfo#updateDocumentProperties(IDocumentProperties) method summary. |
+| [setLastSavedTime](setlastsavedtime)(Date) | Returns the date a presentation was last modified. Values are in UTC. Read-only in case of Presentation.DocumentProperties (because it will be updated internally while IPresentation object saving process). Can be changed via DocumentProperties instance returning by method IPresentationInfo#readDocumentProperties Please see the example in IPresentationInfo#updateDocumentProperties(IDocumentProperties) method summary. |
 | [setManager](setmanager)(String) | Returns or sets the manager property. Read/write String. |
 | [setNameOfApplication](setnameofapplication)(String) | Returns or sets the name of the application. Read/write String. |
 | [setPresentationFormat](setpresentationformat)(String) | Returns or sets the intended format of a presentation. Read/write String. |

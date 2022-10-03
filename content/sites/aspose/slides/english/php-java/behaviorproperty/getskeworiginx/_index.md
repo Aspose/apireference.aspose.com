@@ -3,7 +3,7 @@ title: getSkewOriginX
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 890
+weight: 880
 url: /php-java/behaviorproperty/getskeworiginx/
 ---
 

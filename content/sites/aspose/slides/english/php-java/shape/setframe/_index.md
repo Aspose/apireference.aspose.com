@@ -3,7 +3,7 @@ title: setFrame
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 930
+weight: 400
 url: /php-java/shape/setframe/
 ---
 

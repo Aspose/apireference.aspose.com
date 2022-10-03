@@ -3,7 +3,7 @@ title: iterator
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 340
+weight: 240
 url: /php-java/imagetransformoperationcollection/iterator/
 ---
 

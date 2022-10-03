@@ -3,7 +3,7 @@ title: insertConnector
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 920
+weight: 460
 url: /php-java/shapecollection/insertconnector/
 ---
 

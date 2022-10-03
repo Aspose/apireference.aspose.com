@@ -3,7 +3,7 @@ title: setSkewVertical
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 300
+weight: 250
 url: /php-java/outershadow/setskewvertical/
 ---
 

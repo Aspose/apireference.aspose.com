@@ -3,7 +3,7 @@ title: setTriggerShape
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 230
+weight: 170
 url: /php-java/sequence/settriggershape/
 ---
 
@@ -49,7 +49,7 @@ void
 ---
 
 
-## setTriggerShape([Shape](../../shape) value)  method
+## setTriggerShape([Table](../../table) value)  method
 
  Returns or sets shape target for INTERACTIVE sequence.
  If sequence is not interactive then returns null.
@@ -63,7 +63,7 @@ void
 ---
 
 
-## setTriggerShape([Table](../../table) value)  method
+## setTriggerShape([Shape](../../shape) value)  method
 
  Returns or sets shape target for INTERACTIVE sequence.
  If sequence is not interactive then returns null.
@@ -231,7 +231,7 @@ void
 ---
 
 
-## setTriggerShape([Chart](../../chart) value)  method
+## setTriggerShape([AudioFrame](../../audioframe) value)  method
 
  Returns or sets shape target for INTERACTIVE sequence.
  If sequence is not interactive then returns null.
@@ -245,7 +245,7 @@ void
 ---
 
 
-## setTriggerShape([AudioFrame](../../audioframe) value)  method
+## setTriggerShape([Chart](../../chart) value)  method
 
  Returns or sets shape target for INTERACTIVE sequence.
  If sequence is not interactive then returns null.

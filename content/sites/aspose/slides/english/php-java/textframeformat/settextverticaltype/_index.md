@@ -3,7 +3,7 @@ title: setTextVerticalType
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 780
+weight: 300
 url: /php-java/textframeformat/settextverticaltype/
 ---
 

@@ -3,7 +3,7 @@ title: getHidden
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 260
+weight: 110
 url: /php-java/shape/gethidden/
 ---
 

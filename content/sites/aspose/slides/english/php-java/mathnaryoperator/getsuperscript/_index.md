@@ -3,7 +3,7 @@ title: getSuperscript
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 160
+weight: 130
 url: /php-java/mathnaryoperator/getsuperscript/
 ---
 
@@ -19,7 +19,7 @@ Example:
 ```
 
 ### Returns
-[MathLeftSubSuperscriptElement](../../mathleftsubsuperscriptelement), [MathLimit](../../mathlimit), [MathMatrix](../../mathmatrix), [MathBlock](../../mathblock), [MathRadical](../../mathradical), [MathArray](../../matharray), [MathDelimiter](../../mathdelimiter), [MathNaryOperator](../../mathnaryoperator), [MathAccent](../../mathaccent), [MathBorderBox](../../mathborderbox), [MathGroupingCharacter](../../mathgroupingcharacter), [MathBar](../../mathbar), [MathSuperscriptElement](../../mathsuperscriptelement), [MathFunction](../../mathfunction), [MathSubscriptElement](../../mathsubscriptelement), [MathFraction](../../mathfraction), [BaseScript](../../basescript), [MathematicalText](../../mathematicaltext), [MathElementBase](../../mathelementbase), [MathBox](../../mathbox), [MathRightSubSuperscriptElement](../../mathrightsubsuperscriptelement)
+[MathLeftSubSuperscriptElement](../../mathleftsubsuperscriptelement), [MathMatrix](../../mathmatrix), [MathLimit](../../mathlimit), [MathBlock](../../mathblock), [MathRadical](../../mathradical), [MathArray](../../matharray), [MathDelimiter](../../mathdelimiter), [MathAccent](../../mathaccent), [MathNaryOperator](../../mathnaryoperator), [MathGroupingCharacter](../../mathgroupingcharacter), [MathBorderBox](../../mathborderbox), [MathBar](../../mathbar), [MathFunction](../../mathfunction), [MathSubscriptElement](../../mathsubscriptelement), [MathSuperscriptElement](../../mathsuperscriptelement), [BaseScript](../../basescript), [MathFraction](../../mathfraction), [MathematicalText](../../mathematicaltext), [MathElementBase](../../mathelementbase), [MathBox](../../mathbox), [MathRightSubSuperscriptElement](../../mathrightsubsuperscriptelement)
 
 
 ---

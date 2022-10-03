@@ -3,7 +3,7 @@ title: setHistory
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 430
+weight: 290
 url: /php-java/hyperlink/sethistory/
 ---
 

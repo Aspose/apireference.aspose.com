@@ -3,7 +3,7 @@ title: getShowMeanMarkers
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 510
+weight: 400
 url: /php-java/chartseries/getshowmeanmarkers/
 ---
 

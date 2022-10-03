@@ -3,7 +3,7 @@ title: setUseCells
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 280
+weight: 150
 url: /php-java/chartcategorycollection/setusecells/
 ---
 

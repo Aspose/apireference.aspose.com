@@ -3,7 +3,7 @@ title: getMarginLeft
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 170
+weight: 100
 url: /php-java/cell/getmarginleft/
 ---
 

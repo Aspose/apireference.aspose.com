@@ -3,7 +3,7 @@ title: getPieSplitCustomPoints
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 390
+weight: 300
 url: /php-java/chartseries/getpiesplitcustompoints/
 ---
 

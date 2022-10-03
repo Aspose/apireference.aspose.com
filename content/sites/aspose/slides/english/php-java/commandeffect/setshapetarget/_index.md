@@ -3,7 +3,7 @@ title: setShapeTarget
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 70
+weight: 60
 url: /php-java/commandeffect/setshapetarget/
 ---
 
@@ -46,7 +46,7 @@ void
 ---
 
 
-## setShapeTarget([Shape](../../shape) value)  method
+## setShapeTarget([Table](../../table) value)  method
 
  Defines shape target of command effect.
  Read/write  IShape.
@@ -59,7 +59,7 @@ void
 ---
 
 
-## setShapeTarget([Table](../../table) value)  method
+## setShapeTarget([Shape](../../shape) value)  method
 
  Defines shape target of command effect.
  Read/write  IShape.
@@ -215,7 +215,7 @@ void
 ---
 
 
-## setShapeTarget([Chart](../../chart) value)  method
+## setShapeTarget([AudioFrame](../../audioframe) value)  method
 
  Defines shape target of command effect.
  Read/write  IShape.
@@ -228,7 +228,7 @@ void
 ---
 
 
-## setShapeTarget([AudioFrame](../../audioframe) value)  method
+## setShapeTarget([Chart](../../chart) value)  method
 
  Defines shape target of command effect.
  Read/write  IShape.

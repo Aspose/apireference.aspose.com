@@ -3,7 +3,7 @@ title: setXmlData
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 150
+weight: 80
 url: /php-java/customxmlpart/setxmldata/
 ---
 

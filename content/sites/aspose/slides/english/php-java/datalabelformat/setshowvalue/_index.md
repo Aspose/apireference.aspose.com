@@ -3,7 +3,7 @@ title: setShowValue
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 400
+weight: 290
 url: /php-java/datalabelformat/setshowvalue/
 ---
 

@@ -3,7 +3,7 @@ title: setAuthor
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 530
+weight: 400
 url: /php-java/documentproperties/setauthor/
 ---
 

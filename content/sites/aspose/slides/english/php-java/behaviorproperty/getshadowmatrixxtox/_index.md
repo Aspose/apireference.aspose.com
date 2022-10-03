@@ -3,7 +3,7 @@ title: getShadowMatrixXtoX
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 670
+weight: 660
 url: /php-java/behaviorproperty/getshadowmatrixxtox/
 ---
 

@@ -3,7 +3,7 @@ title: getEffective
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 150
+weight: 40
 url: /php-java/bulletformat/geteffective/
 ---
 
@@ -32,7 +32,7 @@ url: /php-java/bulletformat/geteffective/
 ```
 
 ### Returns
-[BulletFormatEffectiveData](../../bulletformateffectivedata)
+BulletFormatEffectiveData
 
 
 ---

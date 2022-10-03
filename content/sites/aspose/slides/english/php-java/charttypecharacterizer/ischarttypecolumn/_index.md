@@ -3,7 +3,7 @@ title: isChartTypeColumn
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 160
+weight: 90
 url: /php-java/charttypecharacterizer/ischarttypecolumn/
 ---
 

@@ -3,7 +3,7 @@ title: getOverlap
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 330
+weight: 250
 url: /php-java/chartseries/getoverlap/
 ---
 

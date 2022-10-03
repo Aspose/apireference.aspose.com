@@ -3,7 +3,7 @@ title: setForward
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 240
+weight: 220
 url: /php-java/trendline/setforward/
 ---
 

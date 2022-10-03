@@ -3,7 +3,7 @@ title: setAxisBetweenCategories
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 810
+weight: 680
 url: /php-java/axis/setaxisbetweencategories/
 ---
 

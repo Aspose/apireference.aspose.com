@@ -3,7 +3,7 @@ title: getShowMeanLine
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 500
+weight: 390
 url: /php-java/chartseries/getshowmeanline/
 ---
 

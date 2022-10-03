@@ -3,7 +3,7 @@ title: getTickMarksSpacing
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 450
+weight: 410
 url: /php-java/axis/gettickmarksspacing/
 ---
 

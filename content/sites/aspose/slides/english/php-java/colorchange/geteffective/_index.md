@@ -3,7 +3,7 @@ title: getEffective
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 70
+weight: 20
 url: /php-java/colorchange/geteffective/
 ---
 
@@ -13,7 +13,7 @@ url: /php-java/colorchange/geteffective/
  
 
 ### Returns
-[ColorChangeEffectiveData](../../colorchangeeffectivedata)
+ColorChangeEffectiveData
 
 
 ---

@@ -32,7 +32,7 @@ void
 ---
 
 
-## set_Item(int row, int column, [MathLimit](../../mathlimit) value)  method
+## set_Item(int row, int column, [MathMatrix](../../mathmatrix) value)  method
 
  Element of matrix
  
@@ -57,7 +57,7 @@ void
 ---
 
 
-## set_Item(int row, int column, [MathMatrix](../../mathmatrix) value)  method
+## set_Item(int row, int column, [MathLimit](../../mathlimit) value)  method
 
  Element of matrix
  
@@ -182,31 +182,6 @@ void
 ---
 
 
-## set_Item(int row, int column, [MathNaryOperator](../../mathnaryoperator) value)  method
-
- Element of matrix
- 
-Example:
- 
-```php
-  $matrix = new MathMatrix(2, 3);
-  $matrix->set_Item(0, 0, new MathematicalText("item.1.1"));
-```
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| row | int | The zero-based index of the row to get item |
-| column | int | The zero-based index of the column to get item |
-
-### Returns
-void
-
-
----
-
-
 ## set_Item(int row, int column, [MathAccent](../../mathaccent) value)  method
 
  Element of matrix
@@ -232,7 +207,7 @@ void
 ---
 
 
-## set_Item(int row, int column, [MathBorderBox](../../mathborderbox) value)  method
+## set_Item(int row, int column, [MathNaryOperator](../../mathnaryoperator) value)  method
 
  Element of matrix
  
@@ -282,7 +257,7 @@ void
 ---
 
 
-## set_Item(int row, int column, [MathBar](../../mathbar) value)  method
+## set_Item(int row, int column, [MathBorderBox](../../mathborderbox) value)  method
 
  Element of matrix
  
@@ -307,7 +282,7 @@ void
 ---
 
 
-## set_Item(int row, int column, [MathSuperscriptElement](../../mathsuperscriptelement) value)  method
+## set_Item(int row, int column, [MathBar](../../mathbar) value)  method
 
  Element of matrix
  
@@ -358,6 +333,31 @@ void
 
 
 ## set_Item(int row, int column, [MathSubscriptElement](../../mathsubscriptelement) value)  method
+
+ Element of matrix
+ 
+Example:
+ 
+```php
+  $matrix = new MathMatrix(2, 3);
+  $matrix->set_Item(0, 0, new MathematicalText("item.1.1"));
+```
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| row | int | The zero-based index of the row to get item |
+| column | int | The zero-based index of the column to get item |
+
+### Returns
+void
+
+
+---
+
+
+## set_Item(int row, int column, [MathSuperscriptElement](../../mathsuperscriptelement) value)  method
 
  Element of matrix
  

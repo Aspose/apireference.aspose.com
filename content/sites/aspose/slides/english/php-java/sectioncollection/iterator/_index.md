@@ -3,7 +3,7 @@ title: iterator
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 130
+weight: 100
 url: /php-java/sectioncollection/iterator/
 ---
 

@@ -3,7 +3,7 @@ title: getPieSplitBy
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 380
+weight: 290
 url: /php-java/chartseries/getpiesplitby/
 ---
 

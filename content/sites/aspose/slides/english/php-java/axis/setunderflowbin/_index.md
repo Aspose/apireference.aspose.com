@@ -3,7 +3,7 @@ title: setUnderflowBin
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 1120
+weight: 990
 url: /php-java/axis/setunderflowbin/
 ---
 

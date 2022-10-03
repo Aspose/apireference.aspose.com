@@ -3,7 +3,7 @@ title: setRadius
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 130
+weight: 80
 url: /php-java/softedge/setradius/
 ---
 

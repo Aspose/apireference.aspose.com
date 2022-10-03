@@ -3,7 +3,7 @@ title: highlightText
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 260
+weight: 90
 url: /php-java/textframe/highlighttext/
 ---
 

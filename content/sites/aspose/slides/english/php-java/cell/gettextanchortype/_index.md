@@ -3,7 +3,7 @@ title: getTextAnchorType
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 350
+weight: 210
 url: /php-java/cell/gettextanchortype/
 ---
 

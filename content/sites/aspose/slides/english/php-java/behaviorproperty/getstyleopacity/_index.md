@@ -3,7 +3,7 @@ title: getStyleOpacity
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 1130
+weight: 1120
 url: /php-java/behaviorproperty/getstyleopacity/
 ---
 

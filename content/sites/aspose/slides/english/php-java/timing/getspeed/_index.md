@@ -3,7 +3,7 @@ title: getSpeed
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 120
+weight: 110
 url: /php-java/timing/getspeed/
 ---
 

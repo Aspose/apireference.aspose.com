@@ -3,7 +3,7 @@ title: join
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 220
+weight: 200
 url: /php-java/mathblock/join/
 ---
 
@@ -32,31 +32,6 @@ Example:
 ---
 
 
-## join([MathLimit](../../mathlimit) mathElement)  method
-
- Joins a mathematical element with this mathematical block
- 
-Example:
- 
-```php
-  $element1 = new MathematicalText("x");
-  $element2 = new MathematicalText("y");
-  $block = $element1->join($element2);
-```
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| mathElement | [MathLimit](../../mathlimit) | The element to be joined |
-
-### Returns
-[MathBlock](../../mathblock)
-
-
----
-
-
 ## join([MathMatrix](../../mathmatrix) mathElement)  method
 
  Joins a mathematical element with this mathematical block
@@ -74,6 +49,31 @@ Example:
 | Name | Type | Description |
 | --- | --- | --- |
 | mathElement | [MathMatrix](../../mathmatrix) | The element to be joined |
+
+### Returns
+[MathBlock](../../mathblock)
+
+
+---
+
+
+## join([MathLimit](../../mathlimit) mathElement)  method
+
+ Joins a mathematical element with this mathematical block
+ 
+Example:
+ 
+```php
+  $element1 = new MathematicalText("x");
+  $element2 = new MathematicalText("y");
+  $block = $element1->join($element2);
+```
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| mathElement | [MathLimit](../../mathlimit) | The element to be joined |
 
 ### Returns
 [MathBlock](../../mathblock)
@@ -182,31 +182,6 @@ Example:
 ---
 
 
-## join([MathNaryOperator](../../mathnaryoperator) mathElement)  method
-
- Joins a mathematical element with this mathematical block
- 
-Example:
- 
-```php
-  $element1 = new MathematicalText("x");
-  $element2 = new MathematicalText("y");
-  $block = $element1->join($element2);
-```
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| mathElement | [MathNaryOperator](../../mathnaryoperator) | The element to be joined |
-
-### Returns
-[MathBlock](../../mathblock)
-
-
----
-
-
 ## join([MathAccent](../../mathaccent) mathElement)  method
 
  Joins a mathematical element with this mathematical block
@@ -232,7 +207,7 @@ Example:
 ---
 
 
-## join([MathBorderBox](../../mathborderbox) mathElement)  method
+## join([MathNaryOperator](../../mathnaryoperator) mathElement)  method
 
  Joins a mathematical element with this mathematical block
  
@@ -248,7 +223,7 @@ Example:
 
 | Name | Type | Description |
 | --- | --- | --- |
-| mathElement | [MathBorderBox](../../mathborderbox) | The element to be joined |
+| mathElement | [MathNaryOperator](../../mathnaryoperator) | The element to be joined |
 
 ### Returns
 [MathBlock](../../mathblock)
@@ -282,6 +257,31 @@ Example:
 ---
 
 
+## join([MathBorderBox](../../mathborderbox) mathElement)  method
+
+ Joins a mathematical element with this mathematical block
+ 
+Example:
+ 
+```php
+  $element1 = new MathematicalText("x");
+  $element2 = new MathematicalText("y");
+  $block = $element1->join($element2);
+```
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| mathElement | [MathBorderBox](../../mathborderbox) | The element to be joined |
+
+### Returns
+[MathBlock](../../mathblock)
+
+
+---
+
+
 ## join([MathBar](../../mathbar) mathElement)  method
 
  Joins a mathematical element with this mathematical block
@@ -299,31 +299,6 @@ Example:
 | Name | Type | Description |
 | --- | --- | --- |
 | mathElement | [MathBar](../../mathbar) | The element to be joined |
-
-### Returns
-[MathBlock](../../mathblock)
-
-
----
-
-
-## join([MathSuperscriptElement](../../mathsuperscriptelement) mathElement)  method
-
- Joins a mathematical element with this mathematical block
- 
-Example:
- 
-```php
-  $element1 = new MathematicalText("x");
-  $element2 = new MathematicalText("y");
-  $block = $element1->join($element2);
-```
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| mathElement | [MathSuperscriptElement](../../mathsuperscriptelement) | The element to be joined |
 
 ### Returns
 [MathBlock](../../mathblock)
@@ -374,6 +349,31 @@ Example:
 | Name | Type | Description |
 | --- | --- | --- |
 | mathElement | [MathSubscriptElement](../../mathsubscriptelement) | The element to be joined |
+
+### Returns
+[MathBlock](../../mathblock)
+
+
+---
+
+
+## join([MathSuperscriptElement](../../mathsuperscriptelement) mathElement)  method
+
+ Joins a mathematical element with this mathematical block
+ 
+Example:
+ 
+```php
+  $element1 = new MathematicalText("x");
+  $element2 = new MathematicalText("y");
+  $block = $element1->join($element2);
+```
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| mathElement | [MathSuperscriptElement](../../mathsuperscriptelement) | The element to be joined |
 
 ### Returns
 [MathBlock](../../mathblock)

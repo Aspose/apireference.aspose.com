@@ -3,7 +3,7 @@ title: getSyncRoot
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 280
+weight: 80
 url: /php-java/imagecollection/getsyncroot/
 ---
 

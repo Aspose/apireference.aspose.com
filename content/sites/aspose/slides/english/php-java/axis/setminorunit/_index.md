@@ -3,7 +3,7 @@ title: setMinorUnit
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 980
+weight: 850
 url: /php-java/axis/setminorunit/
 ---
 

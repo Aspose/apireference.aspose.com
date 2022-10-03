@@ -3,7 +3,7 @@ title: getShadowColor2
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 640
+weight: 630
 url: /php-java/behaviorproperty/getshadowcolor2/
 ---
 

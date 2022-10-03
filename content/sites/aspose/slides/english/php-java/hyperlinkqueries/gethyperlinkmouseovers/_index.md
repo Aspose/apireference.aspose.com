@@ -3,7 +3,7 @@ title: getHyperlinkMouseOvers
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 40
+weight: 30
 url: /php-java/hyperlinkqueries/gethyperlinkmouseovers/
 ---
 
@@ -14,7 +14,7 @@ url: /php-java/hyperlinkqueries/gethyperlinkmouseovers/
  
 
 ### Returns
-[BehaviorPropertyCollection](../../behaviorpropertycollection), KeyedCollection, Collection, ReadOnlyCollection, List
+[BehaviorPropertyCollection](../../behaviorpropertycollection), KeyedCollection, ReadOnlyCollection, Collection, List
 
 
 ---
