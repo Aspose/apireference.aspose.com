@@ -16,7 +16,7 @@ public IGlowEffectiveData GetEffective()
 
 ### Возвращаемое значение
 
-А[`IGlowEffectiveData`](../../igloweffectivedata).
+A[`IGlowEffectiveData`](../../igloweffectivedata).
 
 ### Смотрите также
 

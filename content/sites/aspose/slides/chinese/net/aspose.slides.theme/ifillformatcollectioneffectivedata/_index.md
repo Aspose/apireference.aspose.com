@@ -18,11 +18,11 @@ public interface IFillFormatCollectionEffectiveData : IGenericCollection<IFillFo
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Item](../../aspose.slides.theme/ifillformatcollectioneffectivedata/item) { get; } | 获取指定索引处的元素。 只读[`IFillFormatEffectiveData`](../../aspose.slides/ifillformateffectivedata). |
+| [Item](../../aspose.slides.theme/ifillformatcollectioneffectivedata/item) { get; } | 获取指定索引处的元素。 只读[`IFillFormatEffectiveData`](../../aspose.slides/ifillformateffectivedata)。 |
 
 ### 评论
 
-该接口用作[`IFormatSchemeEffectiveData`](../iformatschemeeffectivedata).
+此接口用作IFormatSchemeEffectiveData。
 
 ### 也可以看看
 

@@ -16,7 +16,7 @@ public IAlphaReplace CreateAlphaReplace(float alpha)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| alpha | Single | Α |
+| alpha | Single | Alpha |
 
 ### 返回值
 

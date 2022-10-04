@@ -1,14 +1,14 @@
 ---
 title: BubbleSizeRepresentation
 second_title: Справочник по API Aspose.Slides для .NET
-description: Определяет способ представления значений размера пузырьков на пузырьковой диаграмме. Чтение/записьBubbleSizeRepresentationTypeaspose.slides.charts/bubblesizerepresentationtype .
+description: Указывает как значения размера пузырьков представлены на пузырьковой диаграмме. Чтение/записьBubbleSizeRepresentationTypeaspose.slides.charts/bubblesizerepresentationtype.
 type: docs
 weight: 20
 url: /ru/net/aspose.slides.charts/ichartseriesgroup/bubblesizerepresentation/
 ---
 ## IChartSeriesGroup.BubbleSizeRepresentation property
 
-Определяет способ представления значений размера пузырьков на пузырьковой диаграмме. Чтение/запись[`BubbleSizeRepresentationType`](../../bubblesizerepresentationtype) .
+Указывает, как значения размера пузырьков представлены на пузырьковой диаграмме. Чтение/запись[`BubbleSizeRepresentationType`](../../bubblesizerepresentationtype).
 
 ```csharp
 public BubbleSizeRepresentationType BubbleSizeRepresentation { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: Layout
 second_title: Справочник по API Aspose.Slides для .NET
-description: Возврат или установка макета объекта SmartArt. Чтение/записьSmartArtLayoutTypeaspose.slides.smartart/smartartlayouttype .
+description: Возвращает или устанавливает макет объекта SmartArt. Чтение/записьSmartArtLayoutTypeaspose.slides.smartart/smartartlayouttype.
 type: docs
 weight: 50
 url: /ru/net/aspose.slides.smartart/ismartart/layout/
 ---
 ## ISmartArt.Layout property
 
-Возврат или установка макета объекта SmartArt. Чтение/запись[`SmartArtLayoutType`](../../smartartlayouttype) .
+Возвращает или устанавливает макет объекта SmartArt. Чтение/запись[`SmartArtLayoutType`](../../smartartlayouttype).
 
 ```csharp
 public SmartArtLayoutType Layout { get; set; }

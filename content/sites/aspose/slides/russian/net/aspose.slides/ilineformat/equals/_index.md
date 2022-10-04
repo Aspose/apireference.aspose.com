@@ -20,7 +20,7 @@ public bool Equals(ILineFormat lineFormat)
 
 ### Возвращаемое значение
 
-**истинный**если указанный LineFormat равен текущему LineFormat; иначе, **ЛОЖЬ** .
+**true** , если указанный LineFormat равен текущему LineFormat; иначе, **false** .
 
 ### Смотрите также
 

@@ -1,14 +1,14 @@
 ---
 title: Equals
 second_title: Справочник по API Aspose.Slides для .NET
-description: Определяет является ли указанныйOuterShadowaspose.slides.effects/outershadow равен текущемуOuterShadowaspose.slides.effects/outershadow .
+description: Определяет равен ли указанныйOuterShadowaspose.slides.effects/outershadowтекущемуВнешняяТень.
 type: docs
 weight: 110
 url: /ru/net/aspose.slides.effects/outershadow/equals/
 ---
 ## OuterShadow.Equals method
 
-Определяет, является ли указанный[`OuterShadow`](../../outershadow) равен текущему[`OuterShadow`](../../outershadow) .
+Определяет, равен ли указанный[`OuterShadow`](../../outershadow)текущемуВнешняяТень.
 
 ```csharp
 public override bool Equals(object obj)
@@ -16,7 +16,7 @@ public override bool Equals(object obj)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| obj | Object | [`OuterShadow`](../../outershadow) сравнивать. |
+| obj | Object | [`OuterShadow`](../../outershadow)для сравнения. |
 
 ### Возвращаемое значение
 

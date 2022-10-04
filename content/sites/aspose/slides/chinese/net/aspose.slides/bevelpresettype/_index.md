@@ -1,14 +1,14 @@
 ---
 title: BevelPresetType
 second_title: Aspose.Slides for .NET API 参考
-description: 定义 3D 形状斜角的常数
+description: 定义 3D 形状斜角的常量
 type: docs
 weight: 910
 url: /zh/net/aspose.slides/bevelpresettype/
 ---
 ## BevelPresetType enumeration
 
-定义 3D 形状斜角的常数。
+定义 3D 形状斜角的常量。
 
 ```csharp
 public enum BevelPresetType

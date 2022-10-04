@@ -1,14 +1,14 @@
 ---
 title: LineCapStyle
 second_title: Aspose.Slides for .NET API 参考
-description: 代表线帽样式
+description: 表示线帽样式
 type: docs
 weight: 7060
 url: /zh/net/aspose.slides/linecapstyle/
 ---
 ## LineCapStyle enumeration
 
-代表线帽样式。
+表示线帽样式。
 
 ```csharp
 public enum LineCapStyle : sbyte

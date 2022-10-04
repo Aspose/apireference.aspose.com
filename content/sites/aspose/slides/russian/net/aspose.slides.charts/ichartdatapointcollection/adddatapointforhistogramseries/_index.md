@@ -1,14 +1,14 @@
 ---
 title: AddDataPointForHistogramSeries
 second_title: Справочник по API Aspose.Slides для .NET
-description: Создает новую точку данных и добавляет ее в конец коллекции. Применяется для серий тип диаграммы которых  гистограмма.
+description: Создает новую точку данных и добавляет ее в конец коллекции. Применимо к сериям с типом диаграммы Гистограмма.
 type: docs
 weight: 130
 url: /ru/net/aspose.slides.charts/ichartdatapointcollection/adddatapointforhistogramseries/
 ---
 ## IChartDataPointCollection.AddDataPointForHistogramSeries method
 
-Создает новую точку данных и добавляет ее в конец коллекции. Применяется для серий, тип диаграммы которых — гистограмма.
+Создает новую точку данных и добавляет ее в конец коллекции. Применимо к сериям с типом диаграммы "Гистограмма".
 
 ```csharp
 public IChartDataPoint AddDataPointForHistogramSeries(IChartDataCell value)

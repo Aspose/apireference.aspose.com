@@ -1,14 +1,14 @@
 ---
 title: Storage
 second_title: Aspose.Slides for .NET API 参考
-description: 表示临时数据存储WebDocument./webdocument.
+description: 表示WebDocument./webdocument的临时数据存储
 type: docs
 weight: 4230
 url: /zh/net/aspose.slides.export.web/storage/
 ---
 ## Storage class
 
-表示临时数据存储[`WebDocument`](../webdocument).
+表示[`WebDocument`](../webdocument)的临时数据存储。
 
 ```csharp
 public sealed class Storage

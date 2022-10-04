@@ -16,7 +16,7 @@ public IInnerShadowEffectiveData GetEffective()
 
 ### 返回值
 
-一个[`IInnerShadowEffectiveData`](../../iinnershadoweffectivedata).
+A[`IInnerShadowEffectiveData`](../../iinnershadoweffectivedata)。
 
 ### 也可以看看
 

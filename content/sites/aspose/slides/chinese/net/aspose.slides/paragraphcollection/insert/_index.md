@@ -1,14 +1,14 @@
 ---
 title: Insert
 second_title: Aspose.Slides for .NET API 参考
-description: 在指定索引处将段落插入集合中
+description: 将段落插入到集合中指定索引处
 type: docs
 weight: 120
 url: /zh/net/aspose.slides/paragraphcollection/insert/
 ---
 ## Insert(int, IParagraph) {#insert}
 
-在指定索引处将段落插入集合中。
+将段落插入到集合中指定索引处。
 
 ```csharp
 public void Insert(int index, IParagraph value)

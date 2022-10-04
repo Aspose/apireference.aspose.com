@@ -1,14 +1,14 @@
 ---
 title: DocumentProperties
 second_title: Aspose.Slides for .NET API 参考
-description: 初始化类的新实例DocumentPropertiesaspose.slides/documentproperties.
+description: 初始化类DocumentPropertiesaspose.slides/documentproperties的新实例
 type: docs
 weight: 10
 url: /zh/net/aspose.slides/documentproperties/documentproperties/
 ---
 ## DocumentProperties constructor
 
-初始化类的新实例[`DocumentProperties`](../../documentproperties).
+初始化类[`DocumentProperties`](../../documentproperties)的新实例。
 
 ```csharp
 public DocumentProperties()

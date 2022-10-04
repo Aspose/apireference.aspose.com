@@ -16,7 +16,7 @@ public IAlphaBiLevelEffectiveData GetEffective()
 
 ### 返回值
 
-一个[`IAlphaBiLevelEffectiveData`](../../ialphabileveleffectivedata).
+A[`IAlphaBiLevelEffectiveData`](../../ialphabileveleffectivedata)。
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: NormaliseHeight
 second_title: Справочник по API Aspose.Slides для .NET
-description: Определяет следует ли нормализовать высоту текста. Только для чтенияBoolean .
+description: Определяет следует ли нормализовать высоту текста. Только чтениеBoolean.
 type: docs
 weight: 190
 url: /ru/net/aspose.slides/ibaseportionformateffectivedata/normaliseheight/
 ---
 ## IBasePortionFormatEffectiveData.NormaliseHeight property
 
-Определяет, следует ли нормализовать высоту текста. Только для чтенияBoolean .
+Определяет, следует ли нормализовать высоту текста. Только чтениеBoolean.
 
 ```csharp
 public bool NormaliseHeight { get; }

@@ -24,16 +24,19 @@ public void Remove(IFontFallBackRule targetRule)
 [C#]
 using (Presentation pres = new Presentation ())
 {
-    //从 FontsManager 获取空的或预初始化的规则集合
+     //从 FontsManager
+则集合
     IFontFallBackRulesCollection rulesList = pres.FontsManager.FontFallBackRulesCollection;
 
-    //向集合中添加几个规则
+    //向collection
+
     rulesList.Add(new FontFallBackRule(0x400,0x4FF, "Times New Roman"));
     rulesList.Add(new FontFallBackRule(0x3040, 0x309F, "MS Mincho"));
 
-    //检索集合中第一条规则的对象
+    //获取collection
+
     IFontFallBackRule firstRule = rulesList[0];
-    //移除 
+    //删除
     rulesList.Remove (firstRule);
 }
 ```

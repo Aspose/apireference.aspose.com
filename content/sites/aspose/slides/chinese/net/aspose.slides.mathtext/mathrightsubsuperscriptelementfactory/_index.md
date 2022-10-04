@@ -24,11 +24,11 @@ public class MathRightSubSuperscriptElementFactory : IMathRightSubSuperscriptEle
 
 | 姓名 | 描述 |
 | --- | --- |
-| [CreateMathRightSubSuperscriptElement](../../aspose.slides.mathtext/mathrightsubsuperscriptelementfactory/createmathrightsubsuperscriptelement)(IMathElement, IMathElement, IMathElement) | 创建 IMathRightSubSuperscriptElementFactory 的实例 |
+| [CreateMathRightSubSuperscriptElement](../../aspose.slides.mathtext/mathrightsubsuperscriptelementfactory/createmathrightsubsuperscriptelement)(IMathElement, IMathElement, IMathElement) | 创建 IMathRightSubSuperscriptElementFactory |
 
 ### 评论
 
-用于 COM 可比性
+For COM 比较
 
 ### 也可以看看
 

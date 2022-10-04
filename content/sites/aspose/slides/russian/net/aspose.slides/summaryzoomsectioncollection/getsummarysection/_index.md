@@ -1,14 +1,14 @@
 ---
 title: GetSummarySection
 second_title: Справочник по API Aspose.Slides для .NET
-description: Возвращает элемент сводного масштаба раздела для данного раздела.
+description: Возвращает элемент Summary Zoom Section для данного раздела.
 type: docs
 weight: 90
 url: /ru/net/aspose.slides/summaryzoomsectioncollection/getsummarysection/
 ---
 ## SummaryZoomSectionCollection.GetSummarySection method
 
-Возвращает элемент сводного масштаба раздела для данного раздела.
+Возвращает элемент Summary Zoom Section для данного раздела.
 
 ```csharp
 public ISummaryZoomSection GetSummarySection(ISection section)
@@ -16,11 +16,11 @@ public ISummaryZoomSection GetSummarySection(ISection section)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| section | ISection | Раздел, который нужно найти[`ISection`](../../isection) |
+| section | ISection | Раздел для поиска[`ISection`](../../isection) |
 
 ### Возвращаемое значение
 
-[`ISummaryZoomSection`](../../isummaryzoomsection) или null, если коллекция не содержит элемента для раздела.
+[`ISummaryZoomSection`](../../isummaryzoomsection)или null, если коллекция не содержит элементов для раздела.
 
 ### Примеры
 

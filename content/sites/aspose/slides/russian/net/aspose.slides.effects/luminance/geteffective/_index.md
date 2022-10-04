@@ -16,7 +16,7 @@ public ILuminanceEffectiveData GetEffective()
 
 ### Возвращаемое значение
 
-А[`ILuminanceEffectiveData`](../../iluminanceeffectivedata).
+A[`ILuminanceEffectiveData`](../../iluminanceeffectivedata).
 
 ### Смотрите также
 

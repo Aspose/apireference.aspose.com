@@ -1,14 +1,14 @@
 ---
 title: Item
 second_title: Справочник по API Aspose.Slides для .NET
-description: Возвращает или устанавливает пользовательское свойство связанное с указанным именем. Чтение/записьObject .
+description: Возвращает или задает пользовательское свойство связанное с указанным именем. Чтение/записьObject.
 type: docs
 weight: 130
 url: /ru/net/aspose.slides/documentproperties/item/
 ---
 ## DocumentProperties indexer
 
-Возвращает или устанавливает пользовательское свойство, связанное с указанным именем. Чтение/записьObject .
+Возвращает или задает пользовательское свойство, связанное с указанным именем. Чтение/записьObject.
 
 ```csharp
 public object this[string name] { get; set; }
@@ -16,7 +16,7 @@ public object this[string name] { get; set; }
 
 ### Примечания
 
-Значение может быть **инт** , **плавать** , **нить** , **логический** или же **ДатаВремя** .
+Значение может быть **int** , **float** , **string** , **bool** или **DateTime** .
 
 ### Смотрите также
 

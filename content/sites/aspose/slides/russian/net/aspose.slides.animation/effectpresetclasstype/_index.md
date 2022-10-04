@@ -1,14 +1,14 @@
 ---
 title: EffectPresetClassType
 second_title: Справочник по API Aspose.Slides для .NET
-description: Представление типов классов эффектов.
+description: Представляют типы классов эффектов.
 type: docs
 weight: 220
 url: /ru/net/aspose.slides.animation/effectpresetclasstype/
 ---
 ## EffectPresetClassType enumeration
 
-Представление типов классов эффектов.
+Представляют типы классов эффектов.
 
 ```csharp
 public enum EffectPresetClassType
@@ -18,12 +18,12 @@ public enum EffectPresetClassType
 
 | Имя | Ценность | Описание |
 | --- | --- | --- |
-| Entrance | `0` | Класс входных эффектов. |
+| Entrance | `0` | Класс эффектов входа. |
 | Exit | `1` | Выход из класса эффектов. |
-| Emphasis | `2` | Класс эффектов акцента. |
+| Emphasis | `2` | Класс эффектов выделения. |
 | Path | `3` | Класс путей движения. |
 | MediaCall | `4` | Класс медиаэффектов. |
-| OLEActionVerbs | `5` | Класс глаголов действия OLE. |
+| OLEActionVerbs | `5` | Класс OLE Action Verbs. |
 
 ### Смотрите также
 

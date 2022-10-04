@@ -1,14 +1,14 @@
 ---
 title: VbaReferenceFactory
 second_title: Справочник по API Aspose.Slides для .NET
-description: Позволяет создавать ссылки на проекты VBA через интерфейс COM
+description: Позволяет создавать ссылки на проекты VBA через COM-интерфейс
 type: docs
 weight: 10870
 url: /ru/net/aspose.slides.vba/vbareferencefactory/
 ---
 ## VbaReferenceFactory class
 
-Позволяет создавать ссылки на проекты VBA через интерфейс COM
+Позволяет создавать ссылки на проекты VBA через COM-интерфейс
 
 ```csharp
 public class VbaReferenceFactory : IVbaReferenceFactory
@@ -24,7 +24,7 @@ public class VbaReferenceFactory : IVbaReferenceFactory
 
 | Имя | Описание |
 | --- | --- |
-| static [Instance](../../aspose.slides.vba/vbareferencefactory/instance) { get; } | Проект VBA ссылается на статический экземпляр фабрики. Только для чтения[`VbaReferenceFactory`](../vbareferencefactory) . |
+| static [Instance](../../aspose.slides.vba/vbareferencefactory/instance) { get; } | Проект VBA ссылается на статический экземпляр фабрики. Только для чтения[`VbaReferenceFactory`](../vbareferencefactory). |
 
 ## Методы
 

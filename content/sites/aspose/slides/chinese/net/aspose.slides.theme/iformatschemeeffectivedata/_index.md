@@ -25,7 +25,7 @@ public interface IFormatSchemeEffectiveData
 
 ### 评论
 
-该接口用作[`IThemeEffectiveData`](../ithemeeffectivedata).
+此接口用作IThemeEffectiveData。
 
 ### 也可以看看
 

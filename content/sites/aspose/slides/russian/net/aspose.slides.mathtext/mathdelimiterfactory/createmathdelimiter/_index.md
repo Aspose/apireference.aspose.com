@@ -1,14 +1,14 @@
 ---
 title: CreateMathDelimiter
 second_title: Справочник по API Aspose.Slides для .NET
-description: Создайте математический разделитель применив его к element
+description: Создать математический разделитель применив его к элементу
 type: docs
 weight: 20
 url: /ru/net/aspose.slides.mathtext/mathdelimiterfactory/createmathdelimiter/
 ---
 ## CreateMathDelimiter(IMathElement) {#createmathdelimiter}
 
-Создайте математический разделитель, применив его к element
+Создать математический разделитель, применив его к элементу
 
 ```csharp
 public IMathDelimiter CreateMathDelimiter(IMathElement element)
@@ -16,7 +16,7 @@ public IMathDelimiter CreateMathDelimiter(IMathElement element)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| element | IMathElement | математический элемент для применения разделителя |
+| element | IMathElement | math элемент для применения разделителя |
 
 ### Возвращаемое значение
 
@@ -34,7 +34,7 @@ public IMathDelimiter CreateMathDelimiter(IMathElement element)
 
 ## CreateMathDelimiter(IMathElementCollection) {#createmathdelimiter_1}
 
-Создайте математический разделитель, применив его к element
+Создать математический разделитель, применив к элементу
 
 ```csharp
 public IMathDelimiter CreateMathDelimiter(IMathElementCollection mathElements)
@@ -42,7 +42,7 @@ public IMathDelimiter CreateMathDelimiter(IMathElementCollection mathElements)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| mathElements | IMathElementCollection | математические элементы для применения разделителя |
+| mathElements | IMathElementCollection | math элементы для применения разделителя |
 
 ### Возвращаемое значение
 

@@ -16,7 +16,7 @@ public IShapeElement[] CreateShapeElements()
 
 ### 返回值
 
-数组[`ShapeElement`](../../shapeelement)
+[`ShapeElement`](../../shapeelement)
 
 ### 也可以看看
 

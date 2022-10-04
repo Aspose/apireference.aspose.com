@@ -1,14 +1,14 @@
 ---
 title: RemoveHyperlinkMouseOver
 second_title: Справочник по API Aspose.Slides для .NET
-description: Удаляет мышь над гиперссылкой.
+description: Удаляет гиперссылку наведенную мышью.
 type: docs
 weight: 20
 url: /ru/net/aspose.slides/ihyperlinkmanager/removehyperlinkmouseover/
 ---
 ## IHyperlinkManager.RemoveHyperlinkMouseOver method
 
-Удаляет мышь над гиперссылкой.
+Удаляет гиперссылку, наведенную мышью.
 
 ```csharp
 public void RemoveHyperlinkMouseOver()

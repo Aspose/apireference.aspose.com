@@ -1,14 +1,14 @@
 ---
 title: GetEffective
 second_title: Справочник по API Aspose.Slides для .NET
-description: Получает действующие данные форматирования абзаца с применением наследования.
+description: Получает эффективные данные форматирования абзаца с применением наследования.
 type: docs
 weight: 160
 url: /ru/net/aspose.slides/paragraphformat/geteffective/
 ---
 ## ParagraphFormat.GetEffective method
 
-Получает действующие данные форматирования абзаца с применением наследования.
+Получает эффективные данные форматирования абзаца с применением наследования.
 
 ```csharp
 public IParagraphFormatEffectiveData GetEffective()
@@ -16,7 +16,7 @@ public IParagraphFormatEffectiveData GetEffective()
 
 ### Возвращаемое значение
 
-А[`IParagraphFormatEffectiveData`](../../iparagraphformateffectivedata).
+A[`IParagraphFormatEffectiveData`](../../iparagraphformateffectivedata).
 
 ### Примеры
 

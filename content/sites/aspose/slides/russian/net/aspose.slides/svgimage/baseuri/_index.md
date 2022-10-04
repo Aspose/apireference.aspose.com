@@ -1,14 +1,14 @@
 ---
 title: BaseUri
 second_title: Справочник по API Aspose.Slides для .NET
-description: Возвращает базовый URI указанного Svg. Используется для разрешения относительных ссылок. Только для чтенияString .
+description: Возвращает базовый URI указанного Svg. Используется для разрешения относительных ссылок. Только чтениеString.
 type: docs
 weight: 20
 url: /ru/net/aspose.slides/svgimage/baseuri/
 ---
 ## SvgImage.BaseUri property
 
-Возвращает базовый URI указанного Svg. Используется для разрешения относительных ссылок. Только для чтенияString .
+Возвращает базовый URI указанного Svg. Используется для разрешения относительных ссылок. Только чтениеString.
 
 ```csharp
 public string BaseUri { get; }

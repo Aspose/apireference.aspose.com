@@ -17,8 +17,8 @@ public void Insert(int index, float position, Color color)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | index | Int32 | Индекс в коллекции, куда будет вставлена новая остановка градиента. |
-| position | Single | Положение новой остановки градиента. |
-| color | Color | Цвет новой лучистой стопы. |
+| position | Single | Позиция новой остановки градиента. |
+| color | Color | Цвет новой радиентной остановки. |
 
 ### Смотрите также
 
@@ -39,8 +39,8 @@ public void Insert(int index, float position, PresetColor presetColor)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | index | Int32 | Индекс в коллекции, куда будет вставлена новая остановка градиента. |
-| position | Single | Положение новой остановки градиента. |
-| presetColor | PresetColor | Цвет новой лучистой стопы. |
+| position | Single | Позиция новой остановки градиента. |
+| presetColor | PresetColor | Цвет новой остановки радианта. |
 
 ### Смотрите также
 
@@ -62,8 +62,8 @@ public void Insert(int index, float position, SchemeColor schemeColor)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | index | Int32 | Индекс в коллекции, куда будет вставлена новая остановка градиента. |
-| position | Single | Положение новой остановки градиента. |
-| schemeColor | SchemeColor | Цвет новой лучистой стопы. |
+| position | Single | Позиция новой остановки градиента. |
+| schemeColor | SchemeColor | Цвет новой радиантной остановки. |
 
 ### Смотрите также
 

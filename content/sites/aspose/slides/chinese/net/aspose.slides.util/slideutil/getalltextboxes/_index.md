@@ -20,7 +20,7 @@ public static ITextFrame[] GetAllTextBoxes(IBaseSlide slide)
 
 ### 返回值
 
-数组[`TextFrame`](../../../aspose.slides/textframe)对象。
+[`TextFrame`](../../../aspose.slides/textframe)对象的数组。
 
 ### 也可以看看
 

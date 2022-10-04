@@ -16,7 +16,7 @@ public IColorOperationCollection CloneT()
 
 ### Возвращаемое значение
 
-Клон
+Клонировать
 
 ### Смотрите также
 

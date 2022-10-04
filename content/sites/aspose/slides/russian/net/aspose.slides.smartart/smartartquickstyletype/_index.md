@@ -18,19 +18,19 @@ public enum SmartArtQuickStyleType
 
 | Имя | Ценность | Описание |
 | --- | --- | --- |
-| SimpleFill | `0` | Простое заполнение |
+| SimpleFill | `0` | SimpleFill |
 | WhiteOutline | `1` | WhiteOutline |
-| SubtleEffect | `2` | Тонкий эффект |
-| ModerateEffect | `3` | Умеренный эффект |
+| SubtleEffect | `2` | SubtleEffect |
+| ModerateEffect | `3` | ModerateEffect |
 | IntenceEffect | `4` | IntenceEffect |
-| Polished | `5` | Полированный |
+| Polished | `5` | Полированная |
 | Inset | `6` | Вставка |
 | Cartoon | `7` | Мультфильм |
 | Powder | `8` | Порошок |
 | BrickScene | `9` | BrickScene |
-| FlatScene | `10` | Плоская сцена |
+| FlatScene | `10` | FlatScene |
 | MetallicScene | `11` | MetallicScene |
-| SunsetScene | `12` | Закатная сцена |
+| SunsetScene | `12` | SunsetScene |
 | BirdsEyeScene | `13` | BirdsEyeScene |
 
 ### Смотрите также

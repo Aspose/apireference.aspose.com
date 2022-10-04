@@ -16,11 +16,11 @@ public static ITextFrame[] GetAllTextBoxes(IBaseSlide slide)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| slide | IBaseSlide | Сканированный слайд. |
+| слайд | IBaseSlide | Отсканированный слайд. |
 
 ### Возвращаемое значение
 
-Массив[`TextFrame`](../../../aspose.slides/textframe) объекты.
+Массив объектов[`TextFrame`](../../../aspose.slides/textframe).
 
 ### Смотрите также
 

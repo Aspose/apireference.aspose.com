@@ -1,14 +1,14 @@
 ---
 title: PVIObject
 second_title: Справочник по API Aspose.Slides для .NET
-description: Инкапсулирует базовую инфраструктуру службы для объектов которые могут быть предметом наследования значения свойства.
+description: Инкапсулирует базовую сервисную инфраструктуру для объектов которые могут быть предметом наследования значений свойств.
 type: docs
 weight: 8540
 url: /ru/net/aspose.slides/pviobject/
 ---
 ## PVIObject class
 
-Инкапсулирует базовую инфраструктуру службы для объектов, которые могут быть предметом наследования значения свойства.
+Инкапсулирует базовую сервисную инфраструктуру для объектов, которые могут быть предметом наследования значений свойств.
 
 ```csharp
 public abstract class PVIObject : ISlideComponent
@@ -18,7 +18,7 @@ public abstract class PVIObject : ISlideComponent
 
 | Имя | Описание |
 | --- | --- |
-| [AsIPresentationComponent](../../aspose.slides/pviobject/asipresentationcomponent) { get; } | Позволяет получить базовый интерфейс IPresentationComponent. Только для чтения[`IPresentationComponent`](../ipresentationcomponent) . |
+| [AsIPresentationComponent](../../aspose.slides/pviobject/asipresentationcomponent) { get; } | Позволяет получить базовый интерфейс IPresentationComponent. Только для чтения[`IPresentationComponent`](../ipresentationcomponent). |
 
 ## Методы
 

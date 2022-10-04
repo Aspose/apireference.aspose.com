@@ -16,7 +16,7 @@ public IAudio AddAudio(IAudio audio)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| audio | IAudio | Исходный звук. |
+| audio | IAudio | Источник аудио. |
 
 ### Возвращаемое значение
 
@@ -33,7 +33,7 @@ public IAudio AddAudio(IAudio audio)
 
 ## AddAudio(Stream) {#addaudio_2}
 
-Создает и добавляет звук в презентацию из потока.
+Создает и добавляет звук к презентации из потока.
 
 ```csharp
 public IAudio AddAudio(Stream stream)
@@ -41,7 +41,7 @@ public IAudio AddAudio(Stream stream)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| stream | Stream | Поток, из которого нужно добавить аудио. |
+| stream | Stream | Поток, из которого нужно добавить звук. |
 
 ### Возвращаемое значение
 
@@ -58,7 +58,7 @@ public IAudio AddAudio(Stream stream)
 
 ## AddAudio(Stream, LoadingStreamBehavior) {#addaudio_3}
 
-Создает и добавляет звук в презентацию из потока.
+Создает и добавляет звук к презентации из потока.
 
 ```csharp
 public IAudio AddAudio(Stream stream, LoadingStreamBehavior loadingStreamBehavior)
@@ -85,7 +85,7 @@ public IAudio AddAudio(Stream stream, LoadingStreamBehavior loadingStreamBehavio
 
 ## AddAudio(byte[]) {#addaudio_1}
 
-Создает и добавляет аудио к презентации из байтового массива.
+Создает и добавляет звук к презентации из массива байтов.
 
 ```csharp
 public IAudio AddAudio(byte[] audioData)
@@ -93,7 +93,7 @@ public IAudio AddAudio(byte[] audioData)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| audioData | Byte[] | Звуковые байты. |
+| audioData | Byte[] | Аудио байты. |
 
 ### Возвращаемое значение
 

@@ -16,7 +16,7 @@ public IFontData[] GetFonts()
 
 ### 返回值
 
-一组字体
+字体数组
 
 ### 也可以看看
 

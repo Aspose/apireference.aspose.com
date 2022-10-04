@@ -16,7 +16,7 @@ public void Remove(IFontSubstRule value)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| value | IFontSubstRule | Модуль, который необходимо удалить из коллекции. |
+| value | IFontSubstRule | Модуль для удаления из коллекции. |
 
 ### Смотрите также
 

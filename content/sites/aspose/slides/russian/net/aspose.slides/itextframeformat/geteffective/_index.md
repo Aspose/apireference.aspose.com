@@ -1,14 +1,14 @@
 ---
 title: GetEffective
 second_title: Справочник по API Aspose.Slides для .NET
-description: Получает действующие данные форматирования текстового фрейма с применением наследования.
+description: Получает эффективные данные форматирования текстового фрейма с применением наследования.
 type: docs
 weight: 170
 url: /ru/net/aspose.slides/itextframeformat/geteffective/
 ---
 ## ITextFrameFormat.GetEffective method
 
-Получает действующие данные форматирования текстового фрейма с применением наследования.
+Получает эффективные данные форматирования текстового фрейма с применением наследования.
 
 ```csharp
 public ITextFrameFormatEffectiveData GetEffective()
@@ -16,7 +16,7 @@ public ITextFrameFormatEffectiveData GetEffective()
 
 ### Возвращаемое значение
 
-А[`ITextFrameFormatEffectiveData`](../../itextframeformateffectivedata).
+A[`ITextFrameFormatEffectiveData`](../../itextframeformateffectivedata).
 
 ### Смотрите также
 

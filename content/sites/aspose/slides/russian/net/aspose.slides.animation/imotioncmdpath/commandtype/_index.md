@@ -1,14 +1,14 @@
 ---
 title: CommandType
 second_title: Справочник по API Aspose.Slides для .NET
-description: Определяет тип команды. Чтение/записьMotionCommandPathTypeaspose.slides.animation/motioncommandpathtype .
+description: Указывает тип команды. Чтение/записьMotionCommandPathTypeaspose.slides.animation/motioncommandpathtype.
 type: docs
 weight: 10
 url: /ru/net/aspose.slides.animation/imotioncmdpath/commandtype/
 ---
 ## IMotionCmdPath.CommandType property
 
-Определяет тип команды. Чтение/запись[`MotionCommandPathType`](../../motioncommandpathtype) .
+Указывает тип команды. Чтение/запись[`MotionCommandPathType`](../../motioncommandpathtype).
 
 ```csharp
 public MotionCommandPathType CommandType { get; set; }

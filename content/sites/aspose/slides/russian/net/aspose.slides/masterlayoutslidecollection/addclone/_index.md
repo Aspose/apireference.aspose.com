@@ -16,7 +16,7 @@ public ILayoutSlide AddClone(ILayoutSlide sourceLayout)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| sourceLayout | ILayoutSlide | Сдвиньте, чтобы клонировать. |
+| sourceLayout | ILayoutSlide | Слайд для клонирования. |
 
 ### Возвращаемое значение
 
@@ -24,7 +24,7 @@ public ILayoutSlide AddClone(ILayoutSlide sourceLayout)
 
 ### Примечания
 
-1) Новый макет будет связан с родительским мастер-слайдом для этой коллекции слайдов макета. Таким образом, это аналог копирования/вставки с опцией «Использовать целевую тему» в PowerPoint. 2) Аналогом этого метода является метод[`AddClone`](../../igloballayoutslidecollection/addclone) доступен с помощью[`LayoutSlides`](../../ipresentation/layoutslides) свойство.
+1) Новый макет будет связан с родительским мастер-слайдом для этой коллекции слайдов макета. Итак, это аналог копирования/вставки с опцией «Использовать целевую тему» в PowerPoint. 2) Аналогом этого метода является метод[`AddClone`](../../igloballayoutslidecollection/addclone) доступ осуществляется с помощью свойства[`LayoutSlides`](../../ipresentation/layoutslides).
 
 ### Смотрите также
 

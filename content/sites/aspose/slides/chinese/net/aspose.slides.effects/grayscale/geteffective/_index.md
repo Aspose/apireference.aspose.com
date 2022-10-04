@@ -16,7 +16,7 @@ public IGrayScaleEffectiveData GetEffective()
 
 ### 返回值
 
-一个[`IGrayScaleEffectiveData`](../../igrayscaleeffectivedata).
+A[`IGrayScaleEffectiveData`](../../igrayscaleeffectivedata)。
 
 ### 也可以看看
 

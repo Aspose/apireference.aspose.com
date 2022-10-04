@@ -1,14 +1,14 @@
 ---
 title: License
 second_title: Справочник по API Aspose.Slides для .NET
-description: Предоставляет методы лицензирования компонента.
+description: Предоставляет методы для лицензирования компонента.
 type: docs
 weight: 6980
 url: /ru/net/aspose.slides/license/
 ---
 ## License class
 
-Предоставляет методы лицензирования компонента.
+Предоставляет методы для лицензирования компонента.
 
 ```csharp
 public class License : ILicense
@@ -24,7 +24,7 @@ public class License : ILicense
 
 | Имя | Описание |
 | --- | --- |
-| [IsLicensed](../../aspose.slides/license/islicensed)() | Проверить, применяется ли лицензия к component |
+| [IsLicensed](../../aspose.slides/license/islicensed)() | Проверить, применяется ли лицензия к компоненту |
 | [ResetLicense](../../aspose.slides/license/resetlicense)() | Сбросить лицензию |
 | [SetLicense](../../aspose.slides/license/setlicense#setlicense)(Stream) | Лицензирует компонент. |
 | [SetLicense](../../aspose.slides/license/setlicense#setlicense_1)(string) | Лицензирует компонент. |

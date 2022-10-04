@@ -1,14 +1,14 @@
 ---
 title: CreateMathBox
 second_title: Справочник по API Aspose.Slides для .NET
-description: Создайте математическое поле применив к element
+description: Создать математическое поле применив к элементу
 type: docs
 weight: 20
 url: /ru/net/aspose.slides.mathtext/mathboxfactory/createmathbox/
 ---
 ## MathBoxFactory.CreateMathBox method
 
-Создайте математическое поле, применив к element
+Создать математическое поле, применив к элементу
 
 ```csharp
 public IMathBox CreateMathBox(IMathElement element)
@@ -16,11 +16,11 @@ public IMathBox CreateMathBox(IMathElement element)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| element | IMathElement | математический элемент для применения коробки |
+| element | IMathElement | math элемент для применения box |
 
 ### Возвращаемое значение
 
-новый элемент коробки
+новый элемент box
 
 ### Смотрите также
 

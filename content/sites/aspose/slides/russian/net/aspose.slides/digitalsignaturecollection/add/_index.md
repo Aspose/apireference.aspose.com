@@ -1,14 +1,14 @@
 ---
 title: Add
 second_title: Справочник по API Aspose.Slides для .NET
-description: Добавляет подпись в конец коллекции.
+description: Добавляет подпись в конце коллекции.
 type: docs
 weight: 50
 url: /ru/net/aspose.slides/digitalsignaturecollection/add/
 ---
 ## DigitalSignatureCollection.Add method
 
-Добавляет подпись в конец коллекции.
+Добавляет подпись в конце коллекции.
 
 ```csharp
 public void Add(IDigitalSignature signature)
@@ -16,7 +16,7 @@ public void Add(IDigitalSignature signature)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| signature | IDigitalSignature | Подпись добавить. |
+| signature | IDigitalSignature | Подпись для добавления. |
 
 ### Примеры
 

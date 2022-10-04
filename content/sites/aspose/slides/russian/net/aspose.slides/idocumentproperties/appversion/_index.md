@@ -1,14 +1,14 @@
 ---
 title: AppVersion
 second_title: Справочник по API Aspose.Slides для .NET
-description: Возвращает версию приложения. Только для чтенияString .
+description: Возвращает версию приложения. Только чтениеString.
 type: docs
 weight: 20
 url: /ru/net/aspose.slides/idocumentproperties/appversion/
 ---
 ## IDocumentProperties.AppVersion property
 
-Возвращает версию приложения. Только для чтенияString .
+Возвращает версию приложения. Только чтениеString.
 
 ```csharp
 public string AppVersion { get; }

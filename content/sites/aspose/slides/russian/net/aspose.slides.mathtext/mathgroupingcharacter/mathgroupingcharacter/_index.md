@@ -1,14 +1,14 @@
 ---
 title: MathGroupingCharacter
 second_title: Справочник по API Aspose.Slides для .NET
-description: Инициализирует новый экземпляр класса MathGroupingCharacter с символом группировки по умолчанию U23DF НИЖНЯЯ КРУПНАЯ СКОБКА
+description: Инициализирует новый экземпляр класса MathGroupingCharacter с символом группировки по умолчанию U23DF НИЖНЯЯ КРЮЧНАЯ СКОБКА
 type: docs
 weight: 10
 url: /ru/net/aspose.slides.mathtext/mathgroupingcharacter/mathgroupingcharacter/
 ---
 ## MathGroupingCharacter(IMathElement) {#constructor}
 
-Инициализирует новый экземпляр класса MathGroupingCharacter с символом группировки по умолчанию U+23DF (НИЖНЯЯ КРУПНАЯ СКОБКА)
+Инициализирует новый экземпляр класса MathGroupingCharacter с символом группировки по умолчанию U+23DF (НИЖНЯЯ КРЮЧНАЯ СКОБКА)
 
 ```csharp
 public MathGroupingCharacter(IMathElement element)
@@ -16,7 +16,7 @@ public MathGroupingCharacter(IMathElement element)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| element | IMathElement | Базовый элемент, к которому применяется полоса |
+| element | IMathElement | Базовый элемент, к которому применяется панель |
 
 ### Примеры
 
@@ -48,9 +48,9 @@ public MathGroupingCharacter(IMathElement element, char character, MathTopBotPos
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | element | IMathElement | Базовый элемент, к которому применяется полоса |
-| character | Char | Группировка символов |
+| character | Char | Группирующий символ |
 | position | MathTopBotPositions | Позиция группирующего символа |
-| verticalJustification | MathTopBotPositions | Вертикальное обоснование группового характера |
+| verticalJustification | MathTopBotPositions | Вертикальное выравнивание группового символа |
 
 ### Примеры
 

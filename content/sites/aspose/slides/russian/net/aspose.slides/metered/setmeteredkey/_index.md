@@ -1,14 +1,14 @@
 ---
 title: SetMeteredKey
 second_title: Справочник по API Aspose.Slides для .NET
-description: Устанавливает лимитированный открытый и закрытый ключ
+description: Устанавливает измеренный открытый и закрытый ключ
 type: docs
 weight: 20
 url: /ru/net/aspose.slides/metered/setmeteredkey/
 ---
 ## Metered.SetMeteredKey method
 
-Устанавливает лимитированный открытый и закрытый ключ
+Устанавливает измеренный открытый и закрытый ключ
 
 ```csharp
 public void SetMeteredKey(string publicKey, string privateKey)

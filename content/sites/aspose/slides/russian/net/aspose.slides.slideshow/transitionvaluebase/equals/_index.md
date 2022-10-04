@@ -16,11 +16,11 @@ public override bool Equals(object obj)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| obj | Object | TransitionValueBase для сравнения с текущим TransitionValueBase. |
+| obj | Object | TransitionValueBase для сравнения с текущей TransitionValueBase. |
 
 ### Возвращаемое значение
 
-**истинный** если указанный TransitionValueBase равен текущему TransitionValueBase; в противном случае, **ЛОЖЬ**.
+**true** , если указанный TransitionValueBase равен текущему TransitionValueBase; в противном случае **false** .
 
 ### Смотрите также
 

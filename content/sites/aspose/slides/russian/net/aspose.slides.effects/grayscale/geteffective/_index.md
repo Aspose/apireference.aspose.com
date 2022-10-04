@@ -16,7 +16,7 @@ public IGrayScaleEffectiveData GetEffective()
 
 ### Возвращаемое значение
 
-А[`IGrayScaleEffectiveData`](../../igrayscaleeffectivedata).
+A[`IGrayScaleEffectiveData`](../../igrayscaleeffectivedata).
 
 ### Смотрите также
 

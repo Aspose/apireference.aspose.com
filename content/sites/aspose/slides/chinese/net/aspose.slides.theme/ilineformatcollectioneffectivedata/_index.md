@@ -18,11 +18,11 @@ public interface ILineFormatCollectionEffectiveData : IGenericCollection<ILineFo
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Item](../../aspose.slides.theme/ilineformatcollectioneffectivedata/item) { get; } | 获取指定索引处的元素。 只读[`ILineFormatEffectiveData`](../../aspose.slides/ilineformateffectivedata). |
+| [Item](../../aspose.slides.theme/ilineformatcollectioneffectivedata/item) { get; } | 获取指定索引处的元素。 只读[`ILineFormatEffectiveData`](../../aspose.slides/ilineformateffectivedata)。 |
 
 ### 评论
 
-该接口用作[`IFormatSchemeEffectiveData`](../iformatschemeeffectivedata).
+此接口用作IFormatSchemeEffectiveData。
 
 ### 也可以看看
 

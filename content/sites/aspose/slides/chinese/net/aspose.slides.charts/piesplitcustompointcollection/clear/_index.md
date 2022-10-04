@@ -1,14 +1,14 @@
 ---
 title: Clear
 second_title: Aspose.Slides for .NET API 参考
-description: 从ICollection.
+description: 从ICollection中删除所有项目
 type: docs
 weight: 70
 url: /zh/net/aspose.slides.charts/piesplitcustompointcollection/clear/
 ---
 ## PieSplitCustomPointCollection.Clear method
 
-从ICollection.
+从ICollection中删除所有项目。
 
 ```csharp
 public void Clear()

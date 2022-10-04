@@ -1,14 +1,14 @@
 ---
 title: InsertGroupShape
 second_title: Справочник по API Aspose.Slides для .NET
-description: Создает новый GroupShape и вставляет его в коллекцию по указанному индексу. Размер и положение кадра GroupShape будут соответствовать содержимому когда новая форма будет добавлена в GroupShape.
+description: Создает новый GroupShape и вставляет его в коллекцию по указанному индексу. Размер и положение кадра GroupShape будут соответствовать содержимому когда в GroupShape будет добавлена новая фигура.
 type: docs
 weight: 290
 url: /ru/net/aspose.slides/ishapecollection/insertgroupshape/
 ---
 ## IShapeCollection.InsertGroupShape method
 
-Создает новый GroupShape и вставляет его в коллекцию по указанному индексу. Размер и положение кадра GroupShape будут соответствовать содержимому, когда новая форма будет добавлена в GroupShape.
+Создает новый GroupShape и вставляет его в коллекцию по указанному индексу. Размер и положение кадра GroupShape будут соответствовать содержимому, когда в GroupShape будет добавлена новая фигура.
 
 ```csharp
 public IGroupShape InsertGroupShape(int index)
@@ -16,7 +16,7 @@ public IGroupShape InsertGroupShape(int index)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| index | Int32 | Отсчитываемый от нуля индекс, по которому должно быть вставлено значение. |
+| index | Int32 | Отсчитываемый от нуля индекс, в который следует вставить значение. |
 
 ### Возвращаемое значение
 

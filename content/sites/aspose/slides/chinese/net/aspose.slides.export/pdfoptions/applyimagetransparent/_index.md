@@ -1,14 +1,14 @@
 ---
 title: ApplyImageTransparent
 second_title: Aspose.Slides for .NET API 参考
-description: 将指定的透明颜色应用于图像如果真的.
+description: 如果 true 则将指定的透明颜色应用于图像
 type: docs
 weight: 40
 url: /zh/net/aspose.slides.export/pdfoptions/applyimagetransparent/
 ---
 ## PdfOptions.ApplyImageTransparent property
 
-将指定的透明颜色应用于图像，如果`真的`.
+如果` true` ，则将指定的透明颜色应用于图像。
 
 ```csharp
 public bool ApplyImageTransparent { get; set; }

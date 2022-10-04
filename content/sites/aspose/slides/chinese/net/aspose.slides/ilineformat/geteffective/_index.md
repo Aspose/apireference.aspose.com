@@ -16,7 +16,7 @@ public ILineFormatEffectiveData GetEffective()
 
 ### 返回值
 
-一个[`ILineFormatEffectiveData`](../../ilineformateffectivedata).
+A[`ILineFormatEffectiveData`](../../ilineformateffectivedata)。
 
 ### 也可以看看
 

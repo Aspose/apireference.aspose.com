@@ -1,14 +1,14 @@
 ---
 title: Marker
 second_title: Справочник по API Aspose.Slides для .NET
-description: Маркер серии возврата. Только для чтенияIMarkeraspose.slides.charts/imarker .
+description: Вернуть маркер серии. Только для чтенияIMarkeraspose.slides.charts/imarker.
 type: docs
 weight: 200
 url: /ru/net/aspose.slides.charts/ichartseries/marker/
 ---
 ## IChartSeries.Marker property
 
-Маркер серии возврата. Только для чтения[`IMarker`](../../imarker) .
+Вернуть маркер серии. Только для чтения[`IMarker`](../../imarker).
 
 ```csharp
 public IMarker Marker { get; }

@@ -1,14 +1,14 @@
 ---
 title: IFontSubstRuleCollection
 second_title: Справочник по API Aspose.Slides для .NET
-description: Представляет коллекцию подстановок шрифтов.
+description: Представляет набор подстановок шрифтов.
 type: docs
 weight: 5360
 url: /ru/net/aspose.slides/ifontsubstrulecollection/
 ---
 ## IFontSubstRuleCollection interface
 
-Представляет коллекцию подстановок шрифтов.
+Представляет набор подстановок шрифтов.
 
 ```csharp
 public interface IFontSubstRuleCollection : IGenericCollection<IFontSubstRule>
@@ -24,7 +24,7 @@ public interface IFontSubstRuleCollection : IGenericCollection<IFontSubstRule>
 
 | Имя | Описание |
 | --- | --- |
-| [Add](../../aspose.slides/ifontsubstrulecollection/add)(IFontSubstRule) | Добавляет новое правило подстановки шрифтов в коллекцию |
+| [Add](../../aspose.slides/ifontsubstrulecollection/add)(IFontSubstRule) | Добавляет новое правило подстановки шрифта в коллекцию |
 | [Remove](../../aspose.slides/ifontsubstrulecollection/remove)(IFontSubstRule) | Удаляет первое вхождение определенного объекта из коллекции. |
 
 ### Смотрите также

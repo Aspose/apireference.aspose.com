@@ -1,14 +1,14 @@
 ---
 title: ApplyColorScheme
 second_title: Aspose.Slides for .NET API 参考
-description: 对幻灯片应用额外的配色方案
+description: 将额外的配色方案应用于幻灯片
 type: docs
 weight: 30
 url: /zh/net/aspose.slides.theme/masterthememanager/applycolorscheme/
 ---
 ## MasterThemeManager.ApplyColorScheme method
 
-对幻灯片应用额外的配色方案。
+将额外的配色方案应用于幻灯片。
 
 ```csharp
 public void ApplyColorScheme(IExtraColorScheme scheme)

@@ -36,7 +36,7 @@ public void ReplaceImage(Image newImage)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| newImage | Image | Новый образ. |
+| newImage | Image | Новое изображение. |
 
 ### Смотрите также
 

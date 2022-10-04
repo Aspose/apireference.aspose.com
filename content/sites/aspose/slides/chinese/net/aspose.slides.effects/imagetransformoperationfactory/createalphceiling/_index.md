@@ -16,7 +16,7 @@ public IAlphaCeiling CreateAlphCeiling()
 
 ### 返回值
 
-阿尔法天花板效应。
+Alpha 天花板效果。
 
 ### 也可以看看
 

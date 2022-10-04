@@ -1,14 +1,14 @@
 ---
 title: Item
 second_title: Aspose.Slides for .NET API 参考
-description: 返回一个IImageTransformOperationaspose.slides.effects/iimagetransformoperation从集合中的索引.
+description: 通过它的索引从集合中返回IImageTransformOperationaspose.slides.effects/iimagetransformoperation
 type: docs
 weight: 20
 url: /zh/net/aspose.slides.effects/iimagetransformoperationcollection/item/
 ---
 ## IImageTransformOperationCollection indexer
 
-返回一个[`IImageTransformOperation`](../../iimagetransformoperation)从集合中的索引.
+通过它的索引从集合中返回[`IImageTransformOperation`](../../iimagetransformoperation)。
 
 ```csharp
 public IImageTransformOperation this[int index] { get; }

@@ -17,9 +17,9 @@ public MathFraction(IMathElement numerator, IMathElement denominator,
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| numerator | IMathElement | Числитель |
-| denominator | IMathElement | Знаменатель |
-| fractionType | MathFractionTypes | Тип фракции |
+| числитель | IMathElement | Числитель |
+| знаменатель | IMathElement | Знаменатель |
+| fractionType | MathFractionTypes | Тип дроби |
 
 ### Примеры
 
@@ -42,7 +42,7 @@ MathFraction mathFraction = new MathFraction(new MathematicalText("x"), new Math
 
 ## MathFraction(IMathElement, IMathElement) {#constructor}
 
-Инициализирует MathFraction типа Bar с указанными числителем и знаменателем
+Инициализирует MathFraction типа 'Bar' с указанными числителем и знаменателем
 
 ```csharp
 public MathFraction(IMathElement numerator, IMathElement denominator)
@@ -50,8 +50,8 @@ public MathFraction(IMathElement numerator, IMathElement denominator)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| numerator | IMathElement | Числитель |
-| denominator | IMathElement | Знаменатель |
+| числитель | IMathElement | Числитель |
+| знаменатель | IMathElement | Знаменатель |
 
 ### Примеры
 

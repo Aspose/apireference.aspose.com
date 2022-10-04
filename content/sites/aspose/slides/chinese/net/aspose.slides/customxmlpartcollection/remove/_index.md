@@ -20,13 +20,13 @@ public bool Remove(ICustomXmlPart item)
 
 ### 返回值
 
-`真的`如果项目被成功移除；否则，`错误的`.
+` true` 如果项目成功移除；否则，` false` 。
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 项目是`无效的`. |
+| ArgumentNullException | 项目是` null` 。 |
 
 ### 也可以看看
 

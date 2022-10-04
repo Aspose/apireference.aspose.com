@@ -1,14 +1,14 @@
 ---
 title: Equals
 second_title: Справочник по API Aspose.Slides для .NET
-description: Определяет является ли указанныйHSLaspose.slides.effects/hsl равен текущемуHSLaspose.slides.effects/hsl .
+description: Определяет равен ли указанныйHSLaspose.slides.effects/hslтекущемуHSL.
 type: docs
 weight: 10
 url: /ru/net/aspose.slides.effects/hsl/equals/
 ---
 ## HSL.Equals method
 
-Определяет, является ли указанный[`HSL`](../../hsl) равен текущему[`HSL`](../../hsl) .
+Определяет, равен ли указанный[`HSL`](../../hsl)текущемуHSL.
 
 ```csharp
 public override bool Equals(object obj)
@@ -16,7 +16,7 @@ public override bool Equals(object obj)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| obj | Object | [`HSL`](../../hsl) сравнивать. |
+| obj | Object | [`HSL`](../../hsl)для сравнения. |
 
 ### Возвращаемое значение
 

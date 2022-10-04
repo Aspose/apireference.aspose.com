@@ -1,14 +1,14 @@
 ---
 title: IEffectStyleCollectionEffectiveData
 second_title: Справочник по API Aspose.Slides для .NET
-description: Неизменяемый объект представляющий доступную только для чтения коллекцию стилей эффективных эффектов.
+description: Неизменяемый объект представляющий доступную только для чтения коллекцию эффективных стилей эффектов.
 type: docs
 weight: 10380
 url: /ru/net/aspose.slides.theme/ieffectstylecollectioneffectivedata/
 ---
 ## IEffectStyleCollectionEffectiveData interface
 
-Неизменяемый объект, представляющий доступную только для чтения коллекцию стилей эффективных эффектов.
+Неизменяемый объект, представляющий доступную только для чтения коллекцию эффективных стилей эффектов.
 
 ```csharp
 public interface IEffectStyleCollectionEffectiveData : IGenericCollection<IEffectStyleEffectiveData>
@@ -18,11 +18,11 @@ public interface IEffectStyleCollectionEffectiveData : IGenericCollection<IEffec
 
 | Имя | Описание |
 | --- | --- |
-| [Item](../../aspose.slides.theme/ieffectstylecollectioneffectivedata/item) { get; } | Получает элемент по указанному индексу. Только для чтения[`IEffectStyleEffectiveData`](../ieffectstyleeffectivedata) . |
+| [Item](../../aspose.slides.theme/ieffectstylecollectioneffectivedata/item) { get; } | Получает элемент по указанному индексу. Только для чтения[`IEffectStyleEffectiveData`](../ieffectstyleeffectivedata). |
 
 ### Примечания
 
-Этот интерфейс используется как часть[`IFormatSchemeEffectiveData`](../iformatschemeeffectivedata) .
+Этот интерфейс используется как часть[`IFormatSchemeEffectiveData`](../iformatschemeeffectivedata).
 
 ### Смотрите также
 

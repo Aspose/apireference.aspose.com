@@ -17,7 +17,7 @@ public void Insert(int index, string propertyValue)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | index | Int32 | Индекс, в который следует вставить новое свойство. |
-| propertyValue | String | Значение свойства для добавления. |
+| propertyValue | String | Значение добавляемого свойства. |
 
 ### Смотрите также
 

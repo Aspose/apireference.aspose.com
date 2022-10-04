@@ -16,7 +16,7 @@ public TextAnimation Add()
 
 ### 返回值
 
-添加`文本动画`
+添加` TextAnimation`
 
 ### 也可以看看
 

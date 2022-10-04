@@ -1,14 +1,14 @@
 ---
 title: GetGeometryPaths
 second_title: Справочник по API Aspose.Slides для .NET
-description: Возвращает копию пути геометрической формы. Координаты указаны относительно левого верхнего угла фигуры.
+description: Возвращает копию пути геометрической фигуры. Координаты относятся к левому верхнему углу фигуры.
 type: docs
 weight: 60
 url: /ru/net/aspose.slides/igeometryshape/getgeometrypaths/
 ---
 ## IGeometryShape.GetGeometryPaths method
 
-Возвращает копию пути геометрической формы. Координаты указаны относительно левого верхнего угла фигуры.
+Возвращает копию пути геометрической фигуры. Координаты относятся к левому верхнему углу фигуры.
 
 ```csharp
 public IGeometryPath[] GetGeometryPaths()

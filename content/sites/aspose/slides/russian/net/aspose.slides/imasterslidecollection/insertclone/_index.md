@@ -16,8 +16,8 @@ public IMasterSlide InsertClone(int index, IMasterSlide sourceMaster)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| index | Int32 | Указатель нового слайда. |
-| sourceMaster | IMasterSlide | Сдвиньте, чтобы клонировать. |
+| index | Int32 | Индекс нового слайда. |
+| sourceMaster | IMasterSlide | Слайд для клонирования. |
 
 ### Возвращаемое значение
 

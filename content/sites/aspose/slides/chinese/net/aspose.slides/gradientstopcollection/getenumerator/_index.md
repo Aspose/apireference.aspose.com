@@ -16,7 +16,7 @@ public IEnumerator<IGradientStop> GetEnumerator()
 
 ### 返回值
 
-一个IEnumerator可用于遍历集合。
+AIEnumerator可用于遍历集合。
 
 ### 也可以看看
 

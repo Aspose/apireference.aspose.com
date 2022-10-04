@@ -17,7 +17,7 @@ public ITab Add(double position, TabAlignment align)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | position | Double | Позиция табуляции. |
-| align | TabAlignment | Выравнивание вкладок. |
+| align | TabAlignment | Выравнивание табуляции. |
 
 ### Возвращаемое значение
 
@@ -43,7 +43,7 @@ public int Add(ITab value)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| value | ITab | Объект Tab, который нужно добавить в конец коллекции. |
+| value | ITab | Объект Tab, добавляемый в конец коллекции. |
 
 ### Возвращаемое значение
 

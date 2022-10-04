@@ -1,14 +1,14 @@
 ---
 title: INotesSlideManager
 second_title: Справочник по API Aspose.Slides для .NET
-description: Диспетчер слайдов заметок.
+description: Менеджер слайдов Notes.
 type: docs
 weight: 5960
 url: /ru/net/aspose.slides/inotesslidemanager/
 ---
 ## INotesSlideManager interface
 
-Диспетчер слайдов заметок.
+Менеджер слайдов Notes.
 
 ```csharp
 public interface INotesSlideManager
@@ -18,7 +18,7 @@ public interface INotesSlideManager
 
 | Имя | Описание |
 | --- | --- |
-| [NotesSlide](../../aspose.slides/inotesslidemanager/notesslide) { get; } | Возвращает слайд заметок для текущего слайда. Возвращает null, если слайд не содержит заметок. slide. Только для чтения[`INotesSlide`](../inotesslide) . |
+| [NotesSlide](../../aspose.slides/inotesslidemanager/notesslide) { get; } | Возвращает слайд заметок для текущего слайда. Возвращает null, если на слайде нет слайда с заметками. Только для чтения[`INotesSlide`](../inotesslide). |
 
 ## Методы
 

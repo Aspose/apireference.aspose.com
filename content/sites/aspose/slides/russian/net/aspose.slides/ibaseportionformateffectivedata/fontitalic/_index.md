@@ -1,14 +1,14 @@
 ---
 title: FontItalic
 second_title: Справочник по API Aspose.Slides для .NET
-description: Определяет является ли шрифт курсивом. Только для чтенияBoolean .
+description: Определяет является ли шрифт курсивным. Только чтениеBoolean.
 type: docs
 weight: 90
 url: /ru/net/aspose.slides/ibaseportionformateffectivedata/fontitalic/
 ---
 ## IBasePortionFormatEffectiveData.FontItalic property
 
-Определяет, является ли шрифт курсивом. Только для чтенияBoolean .
+Определяет, является ли шрифт курсивным. Только чтениеBoolean.
 
 ```csharp
 public bool FontItalic { get; }

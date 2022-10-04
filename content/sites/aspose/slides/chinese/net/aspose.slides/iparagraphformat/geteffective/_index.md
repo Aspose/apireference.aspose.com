@@ -16,7 +16,7 @@ public IParagraphFormatEffectiveData GetEffective()
 
 ### 返回值
 
-一个[`IParagraphFormatEffectiveData`](../../iparagraphformateffectivedata).
+A[`IParagraphFormatEffectiveData`](../../iparagraphformateffectivedata)。
 
 ### 也可以看看
 

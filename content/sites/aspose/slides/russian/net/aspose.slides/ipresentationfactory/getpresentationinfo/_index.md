@@ -41,7 +41,7 @@ public IPresentationInfo GetPresentationInfo(Stream stream)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| stream | Stream | Презентационный поток. |
+| stream | Stream | Поток презентации. |
 
 ### Возвращаемое значение
 

@@ -16,7 +16,7 @@ public IAlphaFloor CreateAlphaFloor()
 
 ### 返回值
 
-阿尔法地板效应。
+Alpha 地板效果。
 
 ### 也可以看看
 

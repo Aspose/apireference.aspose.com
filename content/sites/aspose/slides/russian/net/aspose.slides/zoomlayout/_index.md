@@ -1,14 +1,14 @@
 ---
 title: ZoomLayout
 second_title: Справочник по API Aspose.Slides для .NET
-description: Определяет общий макет масштабирования.
+description: Определяет макет сводного масштаба.
 type: docs
 weight: 11050
 url: /ru/net/aspose.slides/zoomlayout/
 ---
 ## ZoomLayout enumeration
 
-Определяет общий макет масштабирования.
+Определяет макет сводного масштаба.
 
 ```csharp
 public enum ZoomLayout
@@ -19,7 +19,7 @@ public enum ZoomLayout
 | Имя | Ценность | Описание |
 | --- | --- | --- |
 | GridLayout | `0` | Задает макет как сетку для списка объектов. |
-| FixedLayout | `1` | Задает макет с определяемым пользователем позиционированием масштаба. |
+| FixedLayout | `1` | Задает макет с заданным пользователем позиционированием Zoom. |
 
 ### Смотрите также
 

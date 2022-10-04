@@ -18,12 +18,6 @@ public void RemoveAt(int index)
 | --- | --- | --- |
 | index | Int32 | 要删除的元素的从零开始的索引。 |
 
-### 例外
-
-| 例外 | （健康）状况 |
-| --- | --- |
-| ArgumentOutOfRangeException |  |
-
 ### 也可以看看
 
 * interface [ISlideCollection](../../islidecollection)

@@ -1,14 +1,14 @@
 ---
 title: Amount
 second_title: Справочник по API Aspose.Slides для .NET
-description: Возвращает величину эффекта в процентах. Чтение/записьSingle .
+description: Возвращает количество эффекта в процентах. Чтение/записьSingle.
 type: docs
 weight: 10
 url: /ru/net/aspose.slides.effects/alphamodulatefixed/amount/
 ---
 ## AlphaModulateFixed.Amount property
 
-Возвращает величину эффекта в процентах. Чтение/записьSingle .
+Возвращает количество эффекта в процентах. Чтение/записьSingle.
 
 ```csharp
 public float Amount { get; set; }

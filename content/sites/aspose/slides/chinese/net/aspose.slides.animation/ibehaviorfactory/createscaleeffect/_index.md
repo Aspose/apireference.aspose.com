@@ -16,7 +16,7 @@ public IScaleEffect CreateScaleEffect()
 
 ### 返回值
 
-规模效应。
+缩放效果。
 
 ### 也可以看看
 

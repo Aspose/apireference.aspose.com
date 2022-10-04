@@ -1,14 +1,14 @@
 ---
 title: FractionType
 second_title: Справочник по API Aspose.Slides для .NET
-description: Тип дроби По умолчанию Bar
+description: Тип дроби По умолчаниюБар
 type: docs
 weight: 30
 url: /ru/net/aspose.slides.mathtext/imathfraction/fractiontype/
 ---
 ## IMathFraction.FractionType property
 
-Тип дроби По умолчанию: Bar
+Тип дроби По умолчанию:Бар
 
 ```csharp
 public MathFractionTypes FractionType { get; set; }

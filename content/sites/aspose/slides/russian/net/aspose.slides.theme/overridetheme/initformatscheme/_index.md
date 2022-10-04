@@ -18,7 +18,7 @@ public void InitFormatScheme()
 
 | исключение | условие |
 | --- | --- |
-| InvalidOperationException | Вызывается, если FormatScheme уже инициализирован (не нуль). |
+| InvalidOperationException | Генерируется, если FormatScheme уже инициализирована (не нуль). |
 
 ### Смотрите также
 

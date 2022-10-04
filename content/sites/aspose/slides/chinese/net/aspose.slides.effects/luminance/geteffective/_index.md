@@ -16,7 +16,7 @@ public ILuminanceEffectiveData GetEffective()
 
 ### 返回值
 
-一个[`ILuminanceEffectiveData`](../../iluminanceeffectivedata).
+A[`ILuminanceEffectiveData`](../../iluminanceeffectivedata)。
 
 ### 也可以看看
 

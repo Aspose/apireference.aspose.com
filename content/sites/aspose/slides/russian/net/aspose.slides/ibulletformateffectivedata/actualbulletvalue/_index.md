@@ -1,14 +1,14 @@
 ---
 title: ActualBulletValue
 second_title: Справочник по API Aspose.Slides для .NET
-description: Возвращает фактическое значение маркера для родительского абзаца. Только для чтенияString .
+description: Возвращает фактическое значение маркера для родительского абзаца. Только чтениеString.
 type: docs
 weight: 10
 url: /ru/net/aspose.slides/ibulletformateffectivedata/actualbulletvalue/
 ---
 ## IBulletFormatEffectiveData.ActualBulletValue property
 
-Возвращает фактическое значение маркера для родительского абзаца. Только для чтенияString .
+Возвращает фактическое значение маркера для родительского абзаца. Только чтениеString.
 
 ```csharp
 public string ActualBulletValue { get; }

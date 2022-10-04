@@ -1,14 +1,14 @@
 ---
 title: FillMode
 second_title: Справочник по API Aspose.Slides для .NET
-description: Устанавливает режим заливки
+description: Устанавливает режим заполнения
 type: docs
 weight: 20
 url: /ru/net/aspose.slides/geometrypath/fillmode/
 ---
 ## GeometryPath.FillMode property
 
-Устанавливает режим заливки
+Устанавливает режим заполнения
 
 ```csharp
 public PathFillModeType FillMode { get; set; }

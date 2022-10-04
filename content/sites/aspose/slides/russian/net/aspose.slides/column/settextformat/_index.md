@@ -1,14 +1,14 @@
 ---
 title: SetTextFormat
 second_title: Справочник по API Aspose.Slides для .NET
-description: Задает определенные свойства формата части для всех частей ячеек столбца.
+description: Устанавливает определенные свойства формата части для всех частей ячеек столбца.
 type: docs
 weight: 30
 url: /ru/net/aspose.slides/column/settextformat/
 ---
 ## SetTextFormat(IPortionFormat) {#settextformat_1}
 
-Задает определенные свойства формата части для всех частей ячеек столбца.
+Устанавливает определенные свойства формата части для всех частей ячеек столбца.
 
 ```csharp
 public void SetTextFormat(IPortionFormat source)
@@ -16,7 +16,7 @@ public void SetTextFormat(IPortionFormat source)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| source | IPortionFormat | Объект IPortionFormat с набором необходимых свойств. |
+| source | IPortionFormat | Объект IPortionFormat с необходимым набором свойств. |
 
 ### Смотрите также
 
@@ -37,7 +37,7 @@ public void SetTextFormat(IParagraphFormat source)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| source | IParagraphFormat | Объект IParagraphFormat с набором необходимых свойств. |
+| source | IParagraphFormat | Объект IParagraphFormat с установленными необходимыми свойствами. |
 
 ### Смотрите также
 
@@ -58,7 +58,7 @@ public void SetTextFormat(ITextFrameFormat source)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| source | ITextFrameFormat | Объект ITextFrameFormat с набором необходимых свойств. |
+| source | ITextFrameFormat | Объект ITextFrameFormat с необходимым набором свойств. |
 
 ### Смотрите также
 

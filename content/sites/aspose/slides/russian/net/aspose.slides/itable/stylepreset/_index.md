@@ -1,14 +1,14 @@
 ---
 title: StylePreset
 second_title: Справочник по API Aspose.Slides для .NET
-description: Получить или установить встроенный стиль таблицы. Чтение/записьTableStylePresetaspose.slides/tablestylepreset .
+description: Получает или устанавливает встроенный стиль таблицы. Чтение/записьTableStylePresetaspose.slides/tablestylepreset.
 type: docs
 weight: 120
 url: /ru/net/aspose.slides/itable/stylepreset/
 ---
 ## ITable.StylePreset property
 
-Получить или установить встроенный стиль таблицы. Чтение/запись[`TableStylePreset`](../../tablestylepreset) .
+Получает или устанавливает встроенный стиль таблицы. Чтение/запись[`TableStylePreset`](../../tablestylepreset).
 
 ```csharp
 public TableStylePreset StylePreset { get; set; }

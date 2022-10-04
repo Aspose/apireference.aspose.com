@@ -1,14 +1,14 @@
 ---
 title: JoinBlock
 second_title: Aspose.Slides for .NET API 参考
-description: 将另一个数学块与这个 连接起来
+description: 连接另一个数学块
 type: docs
 weight: 150
 url: /zh/net/aspose.slides.mathtext/mathblock/joinblock/
 ---
 ## MathBlock.JoinBlock method
 
-将另一个数学块与这个 连接起来
+连接另一个数学块
 
 ```csharp
 public IMathBlock JoinBlock(IMathBlock other)
@@ -20,11 +20,11 @@ public IMathBlock JoinBlock(IMathBlock other)
 
 ### 返回值
 
-加入后的这个数学块
+加入后的数学块
 
 ### 例子
 
-示例：
+示例:
 
 ```csharp
 [C#]

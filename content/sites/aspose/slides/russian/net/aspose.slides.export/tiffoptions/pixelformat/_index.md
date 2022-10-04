@@ -1,14 +1,14 @@
 ---
 title: PixelFormat
 second_title: Справочник по API Aspose.Slides для .NET
-description: Определяет формат пикселей для сгенерированных изображений. Чтение/записьImagePixelFormataspose.slides.export/imagepixelformat .
+description: Указывает формат пикселей для сгенерированных изображений. Чтение/записьImagePixelFormataspose.slides.export/imagepixelformat.
 type: docs
 weight: 70
 url: /ru/net/aspose.slides.export/tiffoptions/pixelformat/
 ---
 ## TiffOptions.PixelFormat property
 
-Определяет формат пикселей для сгенерированных изображений. Чтение/запись[`ImagePixelFormat`](../../imagepixelformat) .
+Указывает формат пикселей для сгенерированных изображений. Чтение/запись[`ImagePixelFormat`](../../imagepixelformat).
 
 ```csharp
 public ImagePixelFormat PixelFormat { get; set; }

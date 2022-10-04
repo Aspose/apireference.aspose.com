@@ -16,7 +16,7 @@ public ITextStyleEffectiveData GetEffective()
 
 ### 返回值
 
-一个[`ITextStyleEffectiveData`](../../itextstyleeffectivedata).
+A[`ITextStyleEffectiveData`](../../itextstyleeffectivedata)。
 
 ### 例子
 

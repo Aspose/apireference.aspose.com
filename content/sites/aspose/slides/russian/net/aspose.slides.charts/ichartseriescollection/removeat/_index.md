@@ -16,7 +16,7 @@ public void RemoveAt(int index)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| index | Int32 | ИндексInt32 |
+| index | Int32 | IndexInt32 |
 
 ### Смотрите также
 

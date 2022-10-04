@@ -1,14 +1,14 @@
 ---
 title: Accent
 second_title: Справочник по API Aspose.Slides для .NET
-description: Устанавливает знак ударения символ в верхней части этого элемента
+description: Устанавливает знак ударения символ над этим элементом
 type: docs
 weight: 10
 url: /ru/net/aspose.slides.mathtext/mathelementbase/accent/
 ---
 ## MathElementBase.Accent method
 
-Устанавливает знак ударения (символ в верхней части этого элемента)
+Устанавливает знак ударения (символ над этим элементом)
 
 ```csharp
 public IMathAccent Accent(char accentCharacter)
@@ -16,7 +16,7 @@ public IMathAccent Accent(char accentCharacter)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| accentCharacter | Char | Акцентный персонаж. Значение должно находиться в диапазоне (U+0300–U+036F) или (U+20D0–U+20EF). |
+| accentCharacter | Char | Символ ударения. Значение должно находиться в диапазоне (U+0300–U+036F) или (U+20D0–U+20EF) |
 
 ### Возвращаемое значение
 

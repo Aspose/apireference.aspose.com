@@ -1,14 +1,14 @@
 ---
 title: ShowMajorGridLines
 second_title: Справочник по API Aspose.Slides для .NET
-description: Чтобы скрыть основную линию сетки задайте для MajorGridLinesFormat.Line.FillFormat.FillType значение FillType.NoFill. Только для чтенияBoolean .
+description: Чтобы скрыть основные линии сетки установите для параметра MajorGridLinesFormat.Line.FillFormat.FillType значение FillType.NoFill. Только чтениеBoolean.
 type: docs
 weight: 480
 url: /ru/net/aspose.slides.charts/axis/showmajorgridlines/
 ---
 ## Axis.ShowMajorGridLines property
 
-Чтобы скрыть основную линию сетки, задайте для MajorGridLinesFormat.Line.FillFormat.FillType значение FillType.NoFill. Только для чтенияBoolean .
+Чтобы скрыть основные линии сетки, установите для параметра MajorGridLinesFormat.Line.FillFormat.FillType значение FillType.NoFill. Только чтениеBoolean.
 
 ```csharp
 public bool ShowMajorGridLines { get; }

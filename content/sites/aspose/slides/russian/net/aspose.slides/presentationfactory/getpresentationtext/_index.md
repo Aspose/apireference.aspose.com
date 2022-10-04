@@ -21,7 +21,7 @@ public IPresentationText GetPresentationText(string file, TextExtractionArrangin
 
 ### Возвращаемое значение
 
-Экземпляр PresentationText, содержащий массив SlideText, представляющий необработанный текст слайдов.
+Экземпляр PresentationText, содержащий массив SlideText, представляющий необработанный текст слайдов
 
 ### Смотрите также
 
@@ -35,7 +35,7 @@ public IPresentationText GetPresentationText(string file, TextExtractionArrangin
 
 ## GetPresentationText(Stream, TextExtractionArrangingMode) {#getpresentationtext}
 
-Извлекает необработанный текст со слайдов
+Получает необработанный текст со слайдов
 
 ```csharp
 public IPresentationText GetPresentationText(Stream stream, TextExtractionArrangingMode mode)
@@ -48,7 +48,7 @@ public IPresentationText GetPresentationText(Stream stream, TextExtractionArrang
 
 ### Возвращаемое значение
 
-Экземпляр PresentationText, содержащий массив SlideText, представляющий необработанный текст слайдов.
+Экземпляр PresentationText, содержащий массив SlideText, представляющий необработанный текст слайдов
 
 ### Смотрите также
 
@@ -62,7 +62,7 @@ public IPresentationText GetPresentationText(Stream stream, TextExtractionArrang
 
 ## GetPresentationText(Stream, TextExtractionArrangingMode, ILoadOptions) {#getpresentationtext_1}
 
-Извлекает необработанный текст со слайдов
+Получает необработанный текст со слайдов
 
 ```csharp
 public IPresentationText GetPresentationText(Stream stream, TextExtractionArrangingMode mode, 
@@ -73,11 +73,11 @@ public IPresentationText GetPresentationText(Stream stream, TextExtractionArrang
 | --- | --- | --- |
 | stream | Stream | Входной поток |
 | mode | TextExtractionArrangingMode | Режим извлечения |
-| options | ILoadOptions | Параметры загрузки |
+| options | ILoadOptions | Опции загрузки |
 
 ### Возвращаемое значение
 
-Экземпляр PresentationText, содержащий массив SlideText, представляющий необработанный текст слайдов.
+Экземпляр PresentationText, содержащий массив SlideText, представляющий необработанный текст слайдов
 
 ### Смотрите также
 

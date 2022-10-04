@@ -22,7 +22,7 @@ public interface IMathMatrixFactory
 
 ### 评论
 
-用于 COM 可比性
+用于 COM 比较
 
 ### 也可以看看
 

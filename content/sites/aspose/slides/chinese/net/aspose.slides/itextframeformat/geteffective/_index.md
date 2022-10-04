@@ -16,7 +16,7 @@ public ITextFrameFormatEffectiveData GetEffective()
 
 ### 返回值
 
-一个[`ITextFrameFormatEffectiveData`](../../itextframeformateffectivedata).
+A[`ITextFrameFormatEffectiveData`](../../itextframeformateffectivedata)。
 
 ### 也可以看看
 

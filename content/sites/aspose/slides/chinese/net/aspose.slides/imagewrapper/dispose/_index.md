@@ -1,14 +1,14 @@
 ---
 title: Dispose
 second_title: Aspose.Slides for .NET API 参考
-description: 处理 ImageWrapper
+description: Dispose ImageWrapper
 type: docs
 weight: 30
 url: /zh/net/aspose.slides/imagewrapper/dispose/
 ---
 ## ImageWrapper.Dispose method
 
-处理 ImageWrapper
+Dispose ImageWrapper
 
 ```csharp
 public void Dispose()

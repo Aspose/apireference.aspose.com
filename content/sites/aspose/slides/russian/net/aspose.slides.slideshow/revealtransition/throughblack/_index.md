@@ -1,14 +1,14 @@
 ---
 title: ThroughBlack
 second_title: Справочник по API Aspose.Slides для .NET
-description: Определяет исчезает ли переход через черный цвет. Чтение/записьBoolean .
+description: Указывает исчезает ли переход через черный цвет. Чтение/записьBoolean.
 type: docs
 weight: 20
 url: /ru/net/aspose.slides.slideshow/revealtransition/throughblack/
 ---
 ## RevealTransition.ThroughBlack property
 
-Определяет, исчезает ли переход через черный цвет. Чтение/записьBoolean .
+Указывает, исчезает ли переход через черный цвет. Чтение/записьBoolean.
 
 ```csharp
 public bool ThroughBlack { get; set; }

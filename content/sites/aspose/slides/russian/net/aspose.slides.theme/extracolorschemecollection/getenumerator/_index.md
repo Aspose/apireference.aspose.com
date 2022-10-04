@@ -1,14 +1,14 @@
 ---
 title: GetEnumerator
 second_title: Справочник по API Aspose.Slides для .NET
-description: Возвращает перечислитель который выполняет итерацию по коллекции.
+description: Возвращает перечислитель который перебирает коллекцию.
 type: docs
 weight: 60
 url: /ru/net/aspose.slides.theme/extracolorschemecollection/getenumerator/
 ---
 ## ExtraColorSchemeCollection.GetEnumerator method
 
-Возвращает перечислитель, который выполняет итерацию по коллекции.
+Возвращает перечислитель, который перебирает коллекцию.
 
 ```csharp
 public IEnumerator<IExtraColorScheme> GetEnumerator()
@@ -16,7 +16,7 @@ public IEnumerator<IExtraColorScheme> GetEnumerator()
 
 ### Возвращаемое значение
 
-АIEnumerator который можно использовать для перебора коллекции.
+AIEnumeratorкоторые можно использовать для перебора коллекции.
 
 ### Смотрите также
 

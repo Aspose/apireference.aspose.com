@@ -16,11 +16,11 @@ public IPPImage this[int index] { get; }
 
 | 范围 | 描述 |
 | --- | --- |
-| index | 指数。 |
+| index | 索引。 |
 
 ### 返回值
 
-图片。
+图像。
 
 ### 也可以看看
 

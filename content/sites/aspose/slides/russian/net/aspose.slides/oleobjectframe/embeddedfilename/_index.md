@@ -1,14 +1,14 @@
 ---
 title: EmbeddedFileName
 second_title: Справочник по API Aspose.Slides для .NET
-description: Возвращает путь встроенного OLE-объекта
+description: Возвращает путь встроенного объекта OLE
 type: docs
 weight: 40
 url: /ru/net/aspose.slides/oleobjectframe/embeddedfilename/
 ---
 ## OleObjectFrame.EmbeddedFileName property
 
-Возвращает путь встроенного OLE-объекта
+Возвращает путь встроенного объекта OLE
 
 ```csharp
 public string EmbeddedFileName { get; }

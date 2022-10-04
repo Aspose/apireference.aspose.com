@@ -1,14 +1,14 @@
 ---
 title: RemoveByShape
 second_title: Справочник по API Aspose.Slides для .NET
-description: Удалить эффект для указанной формы.
+description: Удалить эффект для указанной фигуры.
 type: docs
 weight: 120
 url: /ru/net/aspose.slides.animation/sequence/removebyshape/
 ---
 ## Sequence.RemoveByShape method
 
-Удалить эффект для указанной формы.
+Удалить эффект для указанной фигуры.
 
 ```csharp
 public void RemoveByShape(IShape shape)

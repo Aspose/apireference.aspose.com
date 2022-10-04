@@ -1,14 +1,14 @@
 ---
 title: TextCapType
 second_title: Справочник по API Aspose.Slides для .NET
-description: Представляет тип использования заглавных букв в тексте.
+description: Представляет тип капитализации текста.
 type: docs
 weight: 10120
 url: /ru/net/aspose.slides/textcaptype/
 ---
 ## TextCapType enumeration
 
-Представляет тип использования заглавных букв в тексте.
+Представляет тип капитализации текста.
 
 ```csharp
 public enum TextCapType : sbyte

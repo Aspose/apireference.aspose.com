@@ -1,14 +1,14 @@
 ---
 title: IndexOf
 second_title: Aspose.Slides for .NET API 参考
-description: 确定特定项目的索引IList.
+description: 确定IList中特定项目的索引
 type: docs
 weight: 90
 url: /zh/net/aspose.slides/portioncollection/indexof/
 ---
 ## PortionCollection.IndexOf method
 
-确定特定项目的索引IList.
+确定IList中特定项目的索引。
 
 ```csharp
 public int IndexOf(IPortion item)
@@ -16,11 +16,11 @@ public int IndexOf(IPortion item)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| item | IPortion | 要定位的对象IList. |
+| item | IPortion | 在IList中定位的对象. |
 
 ### 返回值
 
-的索引*item*如果在列表中找到；否则，-1.
+*item*的索引（如果在列表中找到）；否则，-1。
 
 ### 也可以看看
 

@@ -16,7 +16,7 @@ public ITextStyleEffectiveData GetEffective()
 
 ### Возвращаемое значение
 
-А[`ITextStyleEffectiveData`](../../itextstyleeffectivedata).
+A[`ITextStyleEffectiveData`](../../itextstyleeffectivedata).
 
 ### Смотрите также
 

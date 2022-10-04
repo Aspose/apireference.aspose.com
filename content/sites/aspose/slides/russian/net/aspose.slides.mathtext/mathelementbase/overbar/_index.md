@@ -16,7 +16,7 @@ public IMathBar Overbar()
 
 ### Возвращаемое значение
 
-Новый экземпляр типа[`IMathBar`](../../imathbar)
+Новый экземпляр type[`IMathBar`](../../imathbar)
 
 ### Примеры
 

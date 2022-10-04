@@ -16,7 +16,7 @@ public ReturnAction Warning(IWarningInfo warning)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| warning | IWarningInfo | Предупреждение об обработке. |
+| warning | IWarningInfo | Предупреждение для обработки. |
 
 ### Возвращаемое значение
 

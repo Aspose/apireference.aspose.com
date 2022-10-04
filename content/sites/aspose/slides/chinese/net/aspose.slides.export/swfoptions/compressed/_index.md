@@ -1,14 +1,14 @@
 ---
 title: Compressed
 second_title: Aspose.Slides for .NET API 参考
-description: 指定是否应压缩生成的 SWF 文档 默认为真的
+description: 指定是否应压缩生成的 SWF 文档 默认为 true 
 type: docs
 weight: 20
 url: /zh/net/aspose.slides.export/swfoptions/compressed/
 ---
 ## SwfOptions.Compressed property
 
-指定是否应压缩生成的 SWF 文档。 默认为`真的`
+指定是否应压缩生成的 SWF 文档。 默认为` true` 。
 
 ```csharp
 public bool Compressed { get; set; }

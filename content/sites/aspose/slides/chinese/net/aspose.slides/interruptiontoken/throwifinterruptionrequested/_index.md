@@ -1,14 +1,14 @@
 ---
 title: ThrowIfInterruptionRequested
 second_title: Aspose.Slides for .NET API 参考
-description: 抛出一个操作取消异常if 请求中断
+description: 抛出 OperationCanceledException if 中断请求
 type: docs
 weight: 30
 url: /zh/net/aspose.slides/interruptiontoken/throwifinterruptionrequested/
 ---
 ## InterruptionToken.ThrowIfInterruptionRequested method
 
-抛出一个操作取消异常if 请求中断。
+抛出 OperationCanceledException if 中断请求。
 
 ```csharp
 public void ThrowIfInterruptionRequested()

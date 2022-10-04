@@ -1,14 +1,14 @@
 ---
 title: JoinPortionsWithSameFormatting
 second_title: Aspose.Slides for .NET API 参考
-description: 以所有可接受的形状在所有段落中以相同的格式运行
+description: 在所有可接受的形状的所有段落中以相同的格式运行连接
 type: docs
 weight: 140
 url: /zh/net/aspose.slides/ibaseslide/joinportionswithsameformatting/
 ---
 ## IBaseSlide.JoinPortionsWithSameFormatting method
 
-以所有可接受的形状在所有段落中以相同的格式运行。
+在所有可接受的形状的所有段落中以相同的格式运行连接。
 
 ```csharp
 public void JoinPortionsWithSameFormatting()

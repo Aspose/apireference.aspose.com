@@ -1,14 +1,14 @@
 ---
 title: NullableBool
 second_title: Справочник по API Aspose.Slides для .NET
-description: Представляет тройные логические значения.
+description: Представляет три логических значения.
 type: docs
 weight: 8440
 url: /ru/net/aspose.slides/nullablebool/
 ---
 ## NullableBool enumeration
 
-Представляет тройные логические значения.
+Представляет три логических значения.
 
 ```csharp
 public enum NullableBool : sbyte

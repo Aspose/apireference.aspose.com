@@ -16,11 +16,11 @@ public IShape FindShapeByAltText(string altText)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| altText | String | 替代文字。 |
+| altText | String | 替代文本。 |
 
 ### 返回值
 
-ShapeEx 对象或 null。
+ShapeEx 对象或空。
 
 ### 也可以看看
 

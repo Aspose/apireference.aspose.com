@@ -20,24 +20,24 @@ public enum PresetShadowType
 | --- | --- | --- |
 | TopLeftDropShadow | `0` | Представляет верхнюю левую тень. |
 | TopLeftLargeDropShadow | `1` | Представляет большую левую верхнюю тень. |
-| BackLeftLongPerspectiveShadow | `2` | Представляет заднюю левую тень в длинной перспективе |
-| BackRightLongPerspectiveShadow | `3` | Представляет правую заднюю тень длинной перспективы |
+| BackLeftLongPerspectiveShadow | `2` | Представляет длинную тень в перспективе сзади слева |
+| BackRightLongPerspectiveShadow | `3` | Представляет правую заднюю длинную тень перспективы |
 | TopLeftDoubleDropShadow | `4` | Представляет верхнюю левую двойную тень. |
-| BottomRightSmallDropShadow | `5` | Представляет маленькую тень справа внизу. |
+| BottomRightSmallDropShadow | `5` | Представляет правую нижнюю маленькую тень. |
 | FrontLeftLongPerspectiveShadow | `6` | Представляет переднюю левую длинную тень в перспективе. |
 | FrontRightLongPerspectiveShadow | `7` | Представляет переднюю правую длинную тень в перспективе. |
-| OuterBoxShadow3D | `8` | Представляет тень внешнего блока 3D. |
+| OuterBoxShadow3D | `8` | Представляет трехмерную тень внешнего блока. |
 | InnerBoxShadow3D | `9` | Представляет трехмерную тень внутреннего блока. |
-| BackCenterPerspectiveShadow | `10` | Представляет заднюю центральную тень в перспективе. |
+| BackCenterPerspectiveShadow | `10` | Представляет тень в перспективе сзади по центру. |
 | TopRightDropShadow | `11` | Представляет верхнюю правую тень. |
 | FrontBottomShadow | `12` | Представляет переднюю нижнюю тень. |
-| BackLeftPerspectiveShadow | `13` | Представляет тень в перспективе слева сзади. |
-| BackRightPerspectiveShadow | `14` | Представляет заднюю правую перспективу тени. |
+| BackLeftPerspectiveShadow | `13` | Представляет тень в перспективе сзади слева. |
+| BackRightPerspectiveShadow | `14` | Представляет тень в перспективе сзади справа. |
 | BottomLeftDropShadow | `15` | Представляет нижнюю левую тень. |
 | BottomRightDropShadow | `16` | Представляет правую нижнюю тень. |
-| FrontLeftPerspectiveShadow | `17` | Представляет тень в перспективе слева спереди. |
+| FrontLeftPerspectiveShadow | `17` | Представляет тень в перспективе слева. |
 | FrontRightPerspectiveShadow | `18` | Представляет переднюю правую тень в перспективе. |
-| TopLeftSmallDropShadow | `19` | Представляет маленькую тень в левом верхнем углу. |
+| TopLeftSmallDropShadow | `19` | Представляет маленькую тень сверху слева. |
 
 ### Смотрите также
 

@@ -1,14 +1,14 @@
 ---
 title: GetEffective
 second_title: Справочник по API Aspose.Slides для .NET
-description: Получает эффективные данные форматирования заливки с применением наследования.
+description: Получает эффективные данные форматирования заливки с примененным наследованием.
 type: docs
 weight: 70
 url: /ru/net/aspose.slides/fillformat/geteffective/
 ---
 ## FillFormat.GetEffective method
 
-Получает эффективные данные форматирования заливки с применением наследования.
+Получает эффективные данные форматирования заливки с примененным наследованием.
 
 ```csharp
 public IFillFormatEffectiveData GetEffective()
@@ -16,11 +16,11 @@ public IFillFormatEffectiveData GetEffective()
 
 ### Возвращаемое значение
 
-А[`IFillFormatEffectiveData`](../../ifillformateffectivedata).
+A[`IFillFormatEffectiveData`](../../ifillformateffectivedata).
 
 ### Примеры
 
-В этом примере показано получение эффективных свойств формата заливки фигуры.
+Этот пример демонстрирует получение эффективных свойств формата заливки фигуры.
 
 ```csharp
 [C#]

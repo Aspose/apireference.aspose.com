@@ -16,13 +16,13 @@ public void DeleteColumn(int columnIndex)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| columnIndex | Int32 | Отсчитываемый от нуля индекс удаляемого столбца. |
+| columnIndex | Int32 | Отсчитываемый от нуля индекс столбец для удаления. |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| InvalidOperationException | При попытке удалить последний отдельный столбец в матрице |
+| InvalidOperationException | При попытке удалить последний одиночный столбец в матрице |
 | ArgumentOutOfRangeException | Если columnIndex меньше нуля или больше или равно ColumnCount |
 
 ### Примеры

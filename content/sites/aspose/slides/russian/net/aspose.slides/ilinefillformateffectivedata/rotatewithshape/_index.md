@@ -1,14 +1,14 @@
 ---
 title: RotateWithShape
 second_title: Справочник по API Aspose.Slides для .NET
-description: Определяет следует ли поворачивать заливку вместе с фигурой. Только для чтенияBoolean .
+description: Определяет должна ли заливка поворачиваться вместе с фигурой. Только чтениеBoolean.
 type: docs
 weight: 50
 url: /ru/net/aspose.slides/ilinefillformateffectivedata/rotatewithshape/
 ---
 ## ILineFillFormatEffectiveData.RotateWithShape property
 
-Определяет, следует ли поворачивать заливку вместе с фигурой. Только для чтенияBoolean .
+Определяет, должна ли заливка поворачиваться вместе с фигурой. Только чтениеBoolean.
 
 ```csharp
 public bool RotateWithShape { get; }

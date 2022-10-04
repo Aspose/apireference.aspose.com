@@ -16,7 +16,7 @@ public ICommentAuthor[] ToArray()
 
 ### 返回值
 
-数组[`ICommentAuthor`](../../icommentauthor)
+[`ICommentAuthor`](../../icommentauthor)
 
 ### 也可以看看
 

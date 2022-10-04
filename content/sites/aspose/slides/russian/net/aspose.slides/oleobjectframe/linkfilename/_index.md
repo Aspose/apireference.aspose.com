@@ -1,14 +1,14 @@
 ---
 title: LinkFileName
 second_title: Справочник по API Aspose.Slides для .NET
-description: Возвращает полный путь к связанному файлу. Будет использоваться короткое имя файла. Только для чтенияString .
+description: Возвращает полный путь к связанному файлу. Будет использоваться короткое имя файла. Только чтениеString.
 type: docs
 weight: 70
 url: /ru/net/aspose.slides/oleobjectframe/linkfilename/
 ---
 ## OleObjectFrame.LinkFileName property
 
-Возвращает полный путь к связанному файлу. Будет использоваться короткое имя файла. Только для чтенияString .
+Возвращает полный путь к связанному файлу. Будет использоваться короткое имя файла. Только чтениеString.
 
 ```csharp
 public string LinkFileName { get; }

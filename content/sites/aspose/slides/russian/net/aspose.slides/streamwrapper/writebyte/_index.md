@@ -16,7 +16,7 @@ public void WriteByte(byte value)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| value | Byte |  |
+| значение | Byte |  |
 
 ### Смотрите также
 

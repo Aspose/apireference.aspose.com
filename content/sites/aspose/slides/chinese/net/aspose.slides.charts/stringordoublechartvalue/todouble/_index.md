@@ -16,7 +16,7 @@ public double ToDouble()
 
 ### 返回值
 
-双重价值。
+双精度值。
 
 ### 也可以看看
 

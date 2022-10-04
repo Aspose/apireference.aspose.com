@@ -18,13 +18,13 @@ public sealed class SvgShape : ISvgShape
 
 | Имя | Описание |
 | --- | --- |
-| [Id](../../aspose.slides.export/svgshape/id) { get; set; } | Получает форму id |
+| [Id](../../aspose.slides.export/svgshape/id) { get; set; } | Получает идентификатор формы |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| [SetEventHandler](../../aspose.slides.export/svgshape/seteventhandler)(SvgEvent, string) | Устанавливает обработчик событий для shape |
+| [SetEventHandler](../../aspose.slides.export/svgshape/seteventhandler)(SvgEvent, string) | Устанавливает обработчик событий для фигуры |
 
 ### Смотрите также
 

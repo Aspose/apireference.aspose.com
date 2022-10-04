@@ -1,14 +1,14 @@
 ---
 title: Image
 second_title: Справочник по API Aspose.Slides для .NET
-description: Представляет свойство изображение
+description: Представляет свойство image
 type: docs
 weight: 410
 url: /ru/net/aspose.slides.animation/behaviorproperty/image/
 ---
 ## BehaviorProperty.Image property
 
-Представляет свойство "изображение"
+Представляет свойство 'image'
 
 ```csharp
 public static BehaviorProperty Image { get; }

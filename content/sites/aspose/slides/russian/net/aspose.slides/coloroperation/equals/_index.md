@@ -20,7 +20,7 @@ public override bool Equals(object obj)
 
 ### Возвращаемое значение
 
-**истинный** если указанная ColorOperation равна текущей ColorOperation; иначе, **ЛОЖЬ** .
+**true** если указанная ColorOperation равна текущей ColorOperation; иначе, **false** .
 
 ### Смотрите также
 

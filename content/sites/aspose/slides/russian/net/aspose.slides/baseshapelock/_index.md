@@ -18,7 +18,7 @@ public class BaseShapeLock : IBaseShapeLock
 
 | Имя | Описание |
 | --- | --- |
-| [NoLocks](../../aspose.slides/baseshapelock/nolocks) { get; } | Возвращает true, если все флаги блокировки отключены. Только для чтенияBoolean . |
+| [NoLocks](../../aspose.slides/baseshapelock/nolocks) { get; } | Возвращает true, если все флаги блокировки отключены. Только чтениеBoolean. |
 
 ### Смотрите также
 

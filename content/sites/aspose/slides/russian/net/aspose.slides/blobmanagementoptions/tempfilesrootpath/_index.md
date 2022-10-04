@@ -1,14 +1,14 @@
 ---
 title: TempFilesRootPath
 second_title: Справочник по API Aspose.Slides для .NET
-description: Представляет корневой путь в файловой системе где будут храниться временные файлы. По умолчанию будет использоваться временный каталог System .
+description: Представляет корневой путь в файловой системе где будут храниться временные файлы. System временный каталог будет использоваться по умолчанию.
 type: docs
 weight: 50
 url: /ru/net/aspose.slides/blobmanagementoptions/tempfilesrootpath/
 ---
 ## BlobManagementOptions.TempFilesRootPath property
 
-Представляет корневой путь в файловой системе, где будут храниться временные файлы. По умолчанию будет использоваться временный каталог System .
+Представляет корневой путь в файловой системе, где будут храниться временные файлы. System временный каталог будет использоваться по умолчанию.
 
 ```csharp
 public string TempFilesRootPath { get; set; }

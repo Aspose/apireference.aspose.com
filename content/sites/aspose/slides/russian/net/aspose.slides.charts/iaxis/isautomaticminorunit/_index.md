@@ -1,14 +1,14 @@
 ---
 title: IsAutomaticMinorUnit
 second_title: Справочник по API Aspose.Slides для .NET
-description: Указывает назначается ли автоматически младшая единица оси. Чтение/записьBoolean .
+description: Указывает назначаются ли автоматически младшие единицы оси. Чтение/записьBoolean.
 type: docs
 weight: 200
 url: /ru/net/aspose.slides.charts/iaxis/isautomaticminorunit/
 ---
 ## IAxis.IsAutomaticMinorUnit property
 
-Указывает, назначается ли автоматически младшая единица оси. Чтение/записьBoolean .
+Указывает, назначаются ли автоматически младшие единицы оси. Чтение/записьBoolean.
 
 ```csharp
 public bool IsAutomaticMinorUnit { get; set; }

@@ -20,7 +20,7 @@ public IFontData CreateFontData(string fontName)
 
 ### 返回值
 
-字体数据
+FontData
 
 ### 也可以看看
 

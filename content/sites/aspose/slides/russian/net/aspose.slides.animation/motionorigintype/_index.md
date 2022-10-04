@@ -1,14 +1,14 @@
 ---
 title: MotionOriginType
 second_title: Справочник по API Aspose.Slides для .NET
-description: Указывает к чему относится источник пути движения. Например макет слайда или родитель.
+description: Определяет начало пути движения относительно. Например макет слайда или родителя.
 type: docs
 weight: 580
 url: /ru/net/aspose.slides.animation/motionorigintype/
 ---
 ## MotionOriginType enumeration
 
-Указывает, к чему относится источник пути движения. Например, макет слайда или родитель.
+Определяет начало пути движения относительно. Например, макет слайда или родителя.
 
 ```csharp
 public enum MotionOriginType

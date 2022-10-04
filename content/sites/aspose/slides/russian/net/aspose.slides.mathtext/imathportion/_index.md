@@ -18,7 +18,7 @@ public interface IMathPortion
 
 | Имя | Описание |
 | --- | --- |
-| [MathParagraph](../../aspose.slides.mathtext/imathportion/mathparagraph) { get; } | Математический абзац |
+| [MathParagraph](../../aspose.slides.mathtext/imathportion/mathparagraph) { get; } | Математический параграф |
 
 ### Примеры
 

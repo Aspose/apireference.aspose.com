@@ -1,14 +1,14 @@
 ---
 title: ToString
 second_title: Справочник по API Aspose.Slides для .NET
-description: ВозвращаетString который представляет текущий цветовой формат.
+description: ВозвращаетString представляющий текущий цветовой формат.
 type: docs
 weight: 180
 url: /ru/net/aspose.slides/icolorformat/tostring/
 ---
 ## IColorFormat.ToString method
 
-ВозвращаетString который представляет текущий цветовой формат.
+ВозвращаетString, представляющий текущий цветовой формат.
 
 ```csharp
 public string ToString(ColorStringFormat format)
@@ -16,7 +16,7 @@ public string ToString(ColorStringFormat format)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| format | ColorStringFormat | Тип формата строки цвета. |
+| format | ColorStringFormat | Тип формата цветовой строки. |
 
 ### Возвращаемое значение
 

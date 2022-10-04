@@ -16,7 +16,7 @@ public IChartDataPoint AddDataPointForSunburstSeries(IChartDataCell sizeValue)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| sizeValue | IChartDataCell | 数据点大小值 |
+| sizeValue | IChartDataCell | 数据点 SizeValue |
 
 ### 返回值
 

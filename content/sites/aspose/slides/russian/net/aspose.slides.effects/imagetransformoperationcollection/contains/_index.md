@@ -1,14 +1,14 @@
 ---
 title: Contains
 second_title: Справочник по API Aspose.Slides для .NET
-description: ОпределяетICollection содержит определенное значение.
+description: Определяет содержит лиICollectionопределенное значение.
 type: docs
 weight: 230
 url: /ru/net/aspose.slides.effects/imagetransformoperationcollection/contains/
 ---
 ## ImageTransformOperationCollection.Contains method
 
-Определяет,ICollection содержит определенное значение.
+Определяет, содержит лиICollectionопределенное значение.
 
 ```csharp
 public bool Contains(IImageTransformOperation item)
@@ -16,11 +16,11 @@ public bool Contains(IImageTransformOperation item)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| item | IImageTransformOperation | Объект, который необходимо найти вICollection. |
+| item | IImageTransformOperation | Объект для размещения вICollection. |
 
 ### Возвращаемое значение
 
-верно, если*item* находится вICollection ; в противном случае false.
+true, если*item*находится вICollection; в противном случае ложно.
 
 ### Смотрите также
 

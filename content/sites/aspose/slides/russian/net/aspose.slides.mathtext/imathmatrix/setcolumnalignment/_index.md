@@ -16,7 +16,7 @@ public void SetColumnAlignment(int columnIndex, MathHorizontalAlignment val)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| columnIndex | Int32 | Индекс столбца с отсчетом от нуля |
+| columnIndex | Int32 | Zero- индекс столбца на основе |
 | val | MathHorizontalAlignment | Новое значение горизонтального выравнивания указанного столбца |
 
 ### Примеры

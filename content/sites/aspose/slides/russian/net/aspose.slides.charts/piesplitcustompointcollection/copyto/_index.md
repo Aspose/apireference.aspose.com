@@ -1,14 +1,14 @@
 ---
 title: CopyTo
 second_title: Справочник по API Aspose.Slides для .NET
-description: Копирует элементыICollection чтобыArray  начиная с определенногоArray индекс.
+description: Копирует элементыICollectionвArray начиная с определенногоArrayindex.
 type: docs
 weight: 90
 url: /ru/net/aspose.slides.charts/piesplitcustompointcollection/copyto/
 ---
 ## PieSplitCustomPointCollection.CopyTo method
 
-Копирует элементыICollection чтобыArray , начиная с определенногоArray индекс.
+Копирует элементыICollectionвArray, начиная с определенногоArrayindex.
 
 ```csharp
 public void CopyTo(IChartDataPoint[] array, int arrayIndex)
@@ -16,16 +16,16 @@ public void CopyTo(IChartDataPoint[] array, int arrayIndex)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| array | IChartDataPoint[] | одномерныйArray это место назначения элементов, скопированных изICollection .Array должны иметь индексацию с отсчетом от нуля. |
-| arrayIndex | Int32 | Индекс с отсчетом от нуля в*array* при котором начинается копирование. |
+| array | IChartDataPoint[] | ОдномерныйArrayкуда копируются элементы fromICollection.Arrayдолжен иметь индексацию с отсчетом от нуля. |
+| arrayIndex | Int32 | Отсчитываемый от нуля индекс в*array*с которого начинается копирование. |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | *array* нулевой. |
-| ArgumentOutOfRangeException | *arrayIndex* меньше 0. |
-| ArgumentException | Количество элементов в исходникеICollection больше, чем доступное пространство от*arrayIndex* до конца пункта назначения*array*. |
+| ArgumentNullException | *array*равно нулю. |
+| ArgumentOutOfRangeException | *arrayIndex*меньше 0. |
+| ArgumentException | Количество элементов в источникеICollectionбольше, чем доступное пространство из*arrayIndex*до конца адресата*array*. |
 
 ### Смотрите также
 

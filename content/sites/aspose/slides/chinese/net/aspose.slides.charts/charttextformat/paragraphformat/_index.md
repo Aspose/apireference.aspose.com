@@ -1,14 +1,14 @@
 ---
 title: ParagraphFormat
 second_title: Aspose.Slides for .NET API 参考
-description: ParagraphFormat. 只读IChartParagraphFormataspose.slides.charts/ichartparagraphformat.
+description: 段落格式 只读IChartParagraphFormataspose.slides.charts/ichartparagraphformat
 type: docs
 weight: 10
 url: /zh/net/aspose.slides.charts/charttextformat/paragraphformat/
 ---
 ## ChartTextFormat.ParagraphFormat property
 
-ParagraphFormat. 只读[`IChartParagraphFormat`](../../ichartparagraphformat).
+段落格式。 只读[`IChartParagraphFormat`](../../ichartparagraphformat)。
 
 ```csharp
 public IChartParagraphFormat ParagraphFormat { get; }

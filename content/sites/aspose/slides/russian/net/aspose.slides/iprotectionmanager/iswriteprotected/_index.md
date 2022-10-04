@@ -1,14 +1,14 @@
 ---
 title: IsWriteProtected
 second_title: Справочник по API Aspose.Slides для .NET
-description: Получает значение указывающее защищена ли эта презентация от записи. Только для чтенияBoolean .
+description: Получает значение указывающее защищена ли эта презентация от записи. Только чтениеBoolean.
 type: docs
 weight: 50
 url: /ru/net/aspose.slides/iprotectionmanager/iswriteprotected/
 ---
 ## IProtectionManager.IsWriteProtected property
 
-Получает значение, указывающее, защищена ли эта презентация от записи. Только для чтенияBoolean .
+Получает значение, указывающее, защищена ли эта презентация от записи. Только чтениеBoolean.
 
 ```csharp
 public bool IsWriteProtected { get; }

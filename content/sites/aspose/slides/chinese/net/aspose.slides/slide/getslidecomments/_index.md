@@ -16,11 +16,11 @@ public IComment[] GetSlideComments(ICommentAuthor author)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| author | ICommentAuthor | 要查找的评论的作者或返回所有评论的 null。 |
+| author | ICommentAuthor | 要查找的评论作者或返回所有评论为 null。 |
 
 ### 返回值
 
-数组[`Comment`](../../comment).
+[`Comment`](../../comment)的数组。
 
 ### 也可以看看
 

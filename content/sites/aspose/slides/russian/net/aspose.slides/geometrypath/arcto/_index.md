@@ -17,9 +17,9 @@ public void ArcTo(float width, float heigth, float startAngle, float sweepAngle)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | width | Single | Ширина прямоугольника |
-| heigth | Single | Высота прямоугольника |
+| heigth | Single | Высота прямоугольника прямоугольник |
 | startAngle | Single | Начальный угол. |
-| sweepAngle | Single | Угол стреловидности/ |
+| sweepAngle | Single | Угол развертки/ |
 
 ### Смотрите также
 

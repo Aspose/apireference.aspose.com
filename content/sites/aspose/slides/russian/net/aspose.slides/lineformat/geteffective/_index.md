@@ -1,14 +1,14 @@
 ---
 title: GetEffective
 second_title: Справочник по API Aspose.Slides для .NET
-description: Получает действующие данные форматирования строки с применением наследования.
+description: Получает действующие данные форматирования строки с примененным наследованием.
 type: docs
 weight: 190
 url: /ru/net/aspose.slides/lineformat/geteffective/
 ---
 ## LineFormat.GetEffective method
 
-Получает действующие данные форматирования строки с применением наследования.
+Получает действующие данные форматирования строки с примененным наследованием.
 
 ```csharp
 public ILineFormatEffectiveData GetEffective()
@@ -16,11 +16,11 @@ public ILineFormatEffectiveData GetEffective()
 
 ### Возвращаемое значение
 
-А[`ILineFormatEffectiveData`](../../ilineformateffectivedata).
+AILLineFormatEffectiveData.
 
 ### Примеры
 
-Этот пример демонстрирует получение эффективных свойств формата линии фигуры.
+Этот пример демонстрирует получение эффективных свойств формата линии формы.
 
 ```csharp
 [C#]

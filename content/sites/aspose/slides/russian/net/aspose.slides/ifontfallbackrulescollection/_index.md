@@ -1,14 +1,14 @@
 ---
 title: IFontFallBackRulesCollection
 second_title: Справочник по API Aspose.Slides для .NET
-description: Представляет набор правил FontFallBack определенных пользователем user
+description: Представляет набор правил FontFallBack определенных пользователем
 type: docs
 weight: 5330
 url: /ru/net/aspose.slides/ifontfallbackrulescollection/
 ---
 ## IFontFallBackRulesCollection interface
 
-Представляет набор правил FontFallBack, определенных пользователем user
+Представляет набор правил FontFallBack, определенных пользователем
 
 ```csharp
 public interface IFontFallBackRulesCollection : IGenericCollection<IFontFallBackRule>
@@ -18,7 +18,7 @@ public interface IFontFallBackRulesCollection : IGenericCollection<IFontFallBack
 
 | Имя | Описание |
 | --- | --- |
-| [Item](../../aspose.slides/ifontfallbackrulescollection/item) { get; } | Получает правило по указанному индексу. Только для чтения[`IFontFallBackRule`](../ifontfallbackrule) . |
+| [Item](../../aspose.slides/ifontfallbackrulescollection/item) { get; } | Получает правило по указанному индексу. Только для чтения[`IFontFallBackRule`](../ifontfallbackrule). |
 
 ## Методы
 

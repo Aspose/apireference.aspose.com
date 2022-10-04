@@ -1,14 +1,14 @@
 ---
 title: Subscript
 second_title: Справочник по API Aspose.Slides для .NET
-description: Аргумент нижнего индекса
+description: Нижний индекс
 type: docs
 weight: 30
 url: /ru/net/aspose.slides.mathtext/mathrightsubsuperscriptelement/subscript/
 ---
 ## MathRightSubSuperscriptElement.Subscript property
 
-Аргумент нижнего индекса
+Нижний индекс
 
 ```csharp
 public IMathElement Subscript { get; }

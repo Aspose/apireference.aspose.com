@@ -1,14 +1,14 @@
 ---
 title: CreateMathAccent
 second_title: Справочник по API Aspose.Slides для .NET
-description: Создает математический акцент применяемый к указанному математическому элементу с символом ударения по умолчанию value
+description: Создает математический акцент применяемый к указанному математическому элементу со значением символа акцента по умолчанию
 type: docs
 weight: 20
 url: /ru/net/aspose.slides.mathtext/mathaccentfactory/createmathaccent/
 ---
 ## CreateMathAccent(IMathElement) {#createmathaccent}
 
-Создает математический акцент, применяемый к указанному математическому элементу с символом ударения по умолчанию value
+Создает математический акцент, применяемый к указанному математическому элементу со значением символа акцента по умолчанию
 
 ```csharp
 public IMathAccent CreateMathAccent(IMathElement element)
@@ -43,7 +43,7 @@ public IMathAccent CreateMathAccent(IMathElement element, char accentCharacter)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | element | IMathElement | математический элемент для применения акцента |
-| accentCharacter | Char | акцентный персонаж |
+| accentCharacter | Char | символ акцента |
 
 ### Возвращаемое значение
 

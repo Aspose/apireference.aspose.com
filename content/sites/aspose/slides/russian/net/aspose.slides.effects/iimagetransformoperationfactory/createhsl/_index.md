@@ -16,13 +16,13 @@ public IHSL CreateHSL(float hue, float saturation, float luminance)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| hue | Single | оттенок. |
+| hue | Single | Оттенок. |
 | saturation | Single | Насыщенность. |
-| luminance | Single | Яркость. |
+| яркость | Single | Яркость. |
 
 ### Возвращаемое значение
 
-Эффект ХСЛ.
+Эффект HSL.
 
 ### Смотрите также
 

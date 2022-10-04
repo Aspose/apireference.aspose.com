@@ -1,14 +1,14 @@
 ---
 title: MathSuperscriptElementFactory
 second_title: Справочник по API Aspose.Slides для .NET
-description: Позволяет создать IMathSuperscriptElement
+description: Позволяет создавать IMathSuperscriptElement
 type: docs
 weight: 8300
 url: /ru/net/aspose.slides.mathtext/mathsuperscriptelementfactory/
 ---
 ## MathSuperscriptElementFactory class
 
-Позволяет создать IMathSuperscriptElement
+Позволяет создавать IMathSuperscriptElement
 
 ```csharp
 public class MathSuperscriptElementFactory : IMathSuperscriptElementFactory
@@ -28,7 +28,7 @@ public class MathSuperscriptElementFactory : IMathSuperscriptElementFactory
 
 ### Примечания
 
-Для COM-совместимости
+Для COM-совместимость
 
 ### Смотрите также
 

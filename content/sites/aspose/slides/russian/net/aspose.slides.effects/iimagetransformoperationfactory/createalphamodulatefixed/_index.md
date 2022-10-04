@@ -16,7 +16,7 @@ public IAlphaModulateFixed CreateAlphaModulateFixed(float amount)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| amount | Single | Количество. |
+| сумма | Single | Сумма. |
 
 ### Возвращаемое значение
 

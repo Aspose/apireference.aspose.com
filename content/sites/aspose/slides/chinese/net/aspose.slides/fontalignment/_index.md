@@ -1,14 +1,14 @@
 ---
 title: FontAlignment
 second_title: Aspose.Slides for .NET API 参考
-description: 表示垂直字体对齐方式
+description: 表示垂直字体对齐
 type: docs
 weight: 4360
 url: /zh/net/aspose.slides/fontalignment/
 ---
 ## FontAlignment enumeration
 
-表示垂直字体对齐方式。
+表示垂直字体对齐。
 
 ```csharp
 public enum FontAlignment

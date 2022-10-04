@@ -16,11 +16,11 @@ public IThreeDFormatEffectiveData GetEffective()
 
 ### Возвращаемое значение
 
-А[`IThreeDFormatEffectiveData`](../../ithreedformateffectivedata).
+A[`IThreeDFormatEffectiveData`](../../ithreedformateffectivedata).
 
 ### Примеры
 
-В этом примере показано, как получить эффективные свойства для камеры, установки освещения и верхнего скоса фигуры.
+В этом примере показано, как получить эффективные свойства для камеры, установки освещения и верхнего скоса формы.
 
 ```csharp
 [C#]

@@ -23,7 +23,7 @@ public interface IParagraphFactory
 
 ### 评论
 
-用于 COM 兼容性。
+For COM 兼容性。
 
 ### 也可以看看
 

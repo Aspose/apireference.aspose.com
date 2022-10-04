@@ -1,14 +1,14 @@
 ---
 title: Equals
 second_title: Справочник по API Aspose.Slides для .NET
-description: Определяет является ли указанныйReflectionaspose.slides.effects/reflection равен текущемуReflectionaspose.slides.effects/reflection .
+description: Определяет равен ли указанныйReflectionaspose.slides.effects/reflectionтекущемуОтражение.
 type: docs
 weight: 150
 url: /ru/net/aspose.slides.effects/reflection/equals/
 ---
 ## Reflection.Equals method
 
-Определяет, является ли указанный[`Reflection`](../../reflection) равен текущему[`Reflection`](../../reflection) .
+Определяет, равен ли указанный[`Reflection`](../../reflection)текущемуОтражение.
 
 ```csharp
 public override bool Equals(object obj)
@@ -16,7 +16,7 @@ public override bool Equals(object obj)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| obj | Object | [`Reflection`](../../reflection) сравнивать. |
+| obj | Object | [`Reflection`](../../reflection)для сравнения. |
 
 ### Возвращаемое значение
 

@@ -1,14 +1,14 @@
 ---
 title: HideRight
 second_title: Aspose.Slides for .NET API 参考
-description: 隐藏右边缘默认为 false- 指定边框右边缘的隐藏或显示状态
+description: Hide Right Edge默认为 false- 指定边框右边缘的隐藏或显示状态
 type: docs
 weight: 50
 url: /zh/net/aspose.slides.mathtext/mathborderbox/hideright/
 ---
 ## MathBorderBox.HideRight property
 
-隐藏右边缘（默认为 false）- 指定边框右边缘的隐藏或显示状态。
+Hide Right Edge（默认为 false）- 指定边框右边缘的隐藏或显示状态。
 
 ```csharp
 public bool HideRight { get; set; }
@@ -16,7 +16,7 @@ public bool HideRight { get; set; }
 
 ### 例子
 
-示例：
+示例:
 
 ```csharp
 [C#]

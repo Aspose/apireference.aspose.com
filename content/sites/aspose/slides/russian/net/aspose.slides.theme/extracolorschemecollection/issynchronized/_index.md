@@ -1,14 +1,14 @@
 ---
 title: IsSynchronized
 second_title: Справочник по API Aspose.Slides для .NET
-description: Возвращает значение указывающее является ли доступ к ArrayList синхронизированным потокобезопасным. Только для чтенияBoolean .
+description: Возвращает значение указывающее является ли доступ к ArrayList синхронизированным потокобезопасным. Только чтениеBoolean.
 type: docs
 weight: 20
 url: /ru/net/aspose.slides.theme/extracolorschemecollection/issynchronized/
 ---
 ## ExtraColorSchemeCollection.IsSynchronized property
 
-Возвращает значение, указывающее, является ли доступ к ArrayList синхронизированным (потокобезопасным). Только для чтенияBoolean .
+Возвращает значение, указывающее, является ли доступ к ArrayList синхронизированным (потокобезопасным). Только чтениеBoolean.
 
 ```csharp
 public bool IsSynchronized { get; }

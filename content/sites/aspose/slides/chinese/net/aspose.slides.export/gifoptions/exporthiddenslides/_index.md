@@ -1,14 +1,14 @@
 ---
 title: ExportHiddenSlides
 second_title: Aspose.Slides for .NET API 参考
-description: 确定是否将导出隐藏的幻灯片 默认值为 false
+description: 确定是否导出隐藏的幻灯片 默认值为假
 type: docs
 weight: 30
 url: /zh/net/aspose.slides.export/gifoptions/exporthiddenslides/
 ---
 ## GifOptions.ExportHiddenSlides property
 
-确定是否将导出隐藏的幻灯片。 默认值为 false。
+确定是否导出隐藏的幻灯片。 默认值为假。
 
 ```csharp
 public bool ExportHiddenSlides { get; set; }

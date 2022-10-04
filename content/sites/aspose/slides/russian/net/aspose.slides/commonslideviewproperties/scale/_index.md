@@ -1,14 +1,14 @@
 ---
 title: Scale
 second_title: Справочник по API Aspose.Slides для .NET
-description: Указывает коэффициент масштабирования представления в процентах. Чтение/записьInt32 .
+description: Задает коэффициент масштабирования представления в процентах. Чтение/записьInt32.
 type: docs
 weight: 10
 url: /ru/net/aspose.slides/commonslideviewproperties/scale/
 ---
 ## CommonSlideViewProperties.Scale property
 
-Указывает коэффициент масштабирования представления в процентах. Чтение/записьInt32 .
+Задает коэффициент масштабирования представления в процентах. Чтение/записьInt32.
 
 ```csharp
 public int Scale { get; set; }

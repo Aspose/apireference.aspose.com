@@ -16,7 +16,7 @@ public void Reorder(int index, ISlide slide)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| index | Int32 | 目标指数。 |
+| index | Int32 | 目标索引。 |
 | slide | ISlide | 滑动移动。 |
 
 ### 也可以看看
@@ -38,7 +38,7 @@ public void Reorder(int index, params ISlide[] slides)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| index | Int32 | 目标指数。 |
+| index | Int32 | 目标索引。 |
 | slides | ISlide[] | 滑动移动。 |
 
 ### 也可以看看

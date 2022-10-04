@@ -1,14 +1,14 @@
 ---
 title: SoundName
 second_title: Справочник по API Aspose.Slides для .NET
-description: Определяет удобочитаемое имя для звука перехода.Soundaspose.slides/islideshowtransition/sound свойство должно быть назначено для получения или установки имени звука. Чтение-записьString .
+description: Указывает удобочитаемое имя для звука перехода. СвойствоSoundaspose.slides/islideshowtransition/soundдолжно быть назначено для получения или установки имени звука. Чтение-записьString.
 type: docs
 weight: 70
 url: /ru/net/aspose.slides/islideshowtransition/soundname/
 ---
 ## ISlideShowTransition.SoundName property
 
-Определяет удобочитаемое имя для звука перехода.[`Sound`](../sound) свойство должно быть назначено для получения или установки имени звука. Чтение-записьString .
+Указывает удобочитаемое имя для звука перехода. Свойство[`Sound`](../sound)должно быть назначено для получения или установки имени звука. Чтение-записьString.
 
 ```csharp
 public string SoundName { get; set; }
@@ -18,11 +18,11 @@ public string SoundName { get; set; }
 
 | исключение | условие |
 | --- | --- |
-| [PptxException](../../pptxexception) | Когда[`Sound`](../sound)имущество не присвоено. |
+| [PptxException](../../pptxexception) | Когда свойство[`Sound`](../sound)не назначено. |
 
 ### Примечания
 
-Это имя появляется в пользовательском интерфейсе PowerPoint при настройке звука перехода вручную.
+Это имя появляется в пользовательском интерфейсе PowerPoint при ручной настройке звука перехода.
 
 ### Смотрите также
 

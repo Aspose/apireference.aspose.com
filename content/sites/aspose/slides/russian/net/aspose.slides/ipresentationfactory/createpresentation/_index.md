@@ -29,7 +29,7 @@ public IPresentation CreatePresentation()
 
 ## CreatePresentation(ILoadOptions) {#createpresentation_1}
 
-Создает новую презентацию с дополнительными параметрами загрузки
+Создает новую презентацию с дополнительными опциями загрузки
 
 ```csharp
 public IPresentation CreatePresentation(ILoadOptions options)
@@ -37,7 +37,7 @@ public IPresentation CreatePresentation(ILoadOptions options)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| options | ILoadOptions | Параметры загрузки |
+| options | ILoadOptions | Опции загрузки |
 
 ### Возвращаемое значение
 

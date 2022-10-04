@@ -22,7 +22,7 @@ public void InitFontSchemeFrom(IFontScheme fontScheme)
 
 | исключение | условие |
 | --- | --- |
-| InvalidOperationException | Вызывается, если FontScheme уже инициализирован (не нуль). |
+| InvalidOperationException | Генерируется, если FontScheme уже инициализирована (не нуль). |
 | ArgumentNullException | Вызывается, если параметр fontScheme имеет значение null. |
 
 ### Смотрите также

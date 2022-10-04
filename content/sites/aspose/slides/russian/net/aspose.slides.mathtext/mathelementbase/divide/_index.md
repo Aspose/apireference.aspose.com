@@ -16,11 +16,11 @@ public IMathFraction Divide(IMathElement denominator)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| denominator | IMathElement | Знаменатель |
+| знаменатель | IMathElement | Знаменатель |
 
 ### Возвращаемое значение
 
-новая фракция
+новая дробь
 
 ### Примеры
 
@@ -53,11 +53,11 @@ public IMathFraction Divide(string denominator)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| denominator | String | Знаменатель |
+| знаменатель | String | Знаменатель |
 
 ### Возвращаемое значение
 
-новая фракция
+новая дробь
 
 ### Примеры
 
@@ -88,8 +88,8 @@ public IMathFraction Divide(IMathElement denominator, MathFractionTypes fraction
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| denominator | IMathElement | Знаменатель |
-| fractionType | MathFractionTypes | Тип дроби: Бар, Без бара, Скошенный, Линейный |
+| знаменатель | IMathElement | Знаменатель |
+| fractionType | MathFractionTypes | Тип дроби:Столбчатая, Безбарьерная, Скошенная, Линейная |
 
 ### Возвращаемое значение
 
@@ -127,8 +127,8 @@ public IMathFraction Divide(string denominator, MathFractionTypes fractionType)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| denominator | String | Знаменатель |
-| fractionType | MathFractionTypes | Тип дроби: Бар, Без бара, Скошенный, Линейный |
+| знаменатель | String | Знаменатель |
+| фракцияТип | MathFractionTypes | Тип дроби:Столбчатая, Безбарьерная, Скошенная, Линейная |
 
 ### Возвращаемое значение
 

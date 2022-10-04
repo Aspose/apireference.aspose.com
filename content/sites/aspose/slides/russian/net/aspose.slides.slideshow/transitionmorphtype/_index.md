@@ -1,14 +1,14 @@
 ---
 title: TransitionMorphType
 second_title: Справочник по API Aspose.Slides для .NET
-description: Представляет тип перехода морфинга.
+description: Представляют тип перехода морфинга.
 type: docs
 weight: 9610
 url: /ru/net/aspose.slides.slideshow/transitionmorphtype/
 ---
 ## TransitionMorphType enumeration
 
-Представляет тип перехода морфинга.
+Представляют тип перехода морфинга.
 
 ```csharp
 public enum TransitionMorphType

@@ -16,7 +16,7 @@ public void ApplyColorScheme(IExtraColorScheme scheme)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| scheme | IExtraColorScheme |  |
+| схема | IExtraColorScheme |  |
 
 ### Смотрите также
 

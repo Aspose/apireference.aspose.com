@@ -16,7 +16,7 @@ public IChartDataPoint this[int index] { get; }
 
 | 范围 | 描述 |
 | --- | --- |
-| index | 指数。 |
+| index | 索引。 |
 
 ### 返回值
 

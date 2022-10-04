@@ -1,14 +1,14 @@
 ---
 title: GetEffective
 second_title: Справочник по API Aspose.Slides для .NET
-description: Получает данные об эффективном эффекте альфа-модуляции с применением наследования.
+description: Получает эффективные данные эффекта альфа-модуляции с применением наследования.
 type: docs
 weight: 20
 url: /ru/net/aspose.slides.effects/alphamodulate/geteffective/
 ---
 ## AlphaModulate.GetEffective method
 
-Получает данные об эффективном эффекте альфа-модуляции с применением наследования.
+Получает эффективные данные эффекта альфа-модуляции с применением наследования.
 
 ```csharp
 public IAlphaModulateEffectiveData GetEffective()
@@ -16,7 +16,7 @@ public IAlphaModulateEffectiveData GetEffective()
 
 ### Возвращаемое значение
 
-А[`IAlphaModulateEffectiveData`](../../ialphamodulateeffectivedata).
+A[`IAlphaModulateEffectiveData`](../../ialphamodulateeffectivedata).
 
 ### Смотрите также
 

@@ -18,7 +18,7 @@ public void InitFontScheme()
 
 | исключение | условие |
 | --- | --- |
-| InvalidOperationException | Вызывается, если FontScheme уже инициализирован (не нуль). |
+| InvalidOperationException | Генерируется, если FontScheme уже инициализирован (не нуль). |
 
 ### Смотрите также
 

@@ -16,7 +16,7 @@ public IAlphaInverseEffectiveData GetEffective()
 
 ### Возвращаемое значение
 
-А[`IAlphaInverseEffectiveData`](../../ialphainverseeffectivedata).
+A[`IAlphaInverseEffectiveData`](../../ialphainverseeffectivedata).
 
 ### Смотрите также
 

@@ -1,14 +1,14 @@
 ---
 title: IEmbeddedEotFontsHtmlController
 second_title: Справочник по API Aspose.Slides для .NET
-description: HTML-контроллер встроенных шрифтов Eot.
+description: Встроенный HTML-контроллер шрифтов Eot.
 type: docs
 weight: 3580
 url: /ru/net/aspose.slides.export/iembeddedeotfontshtmlcontroller/
 ---
 ## IEmbeddedEotFontsHtmlController interface
 
-HTML-контроллер встроенных шрифтов Eot.
+Встроенный HTML-контроллер шрифтов Eot.
 
 ```csharp
 public interface IEmbeddedEotFontsHtmlController : IHtmlFormattingController

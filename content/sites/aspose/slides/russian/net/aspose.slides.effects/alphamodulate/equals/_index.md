@@ -1,14 +1,14 @@
 ---
 title: Equals
 second_title: Справочник по API Aspose.Slides для .NET
-description: Определяет является ли указанныйAlphaModulateaspose.slides.effects/alphamodulate равен текущемуAlphaModulateaspose.slides.effects/alphamodulate .
+description: Определяет равен ли указанныйAlphaModulateaspose.slides.effects/alphamodulateтекущемуAlphaModulate.
 type: docs
 weight: 10
 url: /ru/net/aspose.slides.effects/alphamodulate/equals/
 ---
 ## AlphaModulate.Equals method
 
-Определяет, является ли указанный[`AlphaModulate`](../../alphamodulate) равен текущему[`AlphaModulate`](../../alphamodulate) .
+Определяет, равен ли указанный[`AlphaModulate`](../../alphamodulate)текущемуAlphaModulate.
 
 ```csharp
 public override bool Equals(object obj)
@@ -16,7 +16,7 @@ public override bool Equals(object obj)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| obj | Object | [`AlphaModulate`](../../alphamodulate) сравнивать. |
+| obj | Object | [`AlphaModulate`](../../alphamodulate)для сравнения. |
 
 ### Возвращаемое значение
 

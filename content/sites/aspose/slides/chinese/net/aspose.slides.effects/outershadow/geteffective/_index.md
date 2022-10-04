@@ -16,7 +16,7 @@ public IOuterShadowEffectiveData GetEffective()
 
 ### 返回值
 
-一个[`IOuterShadowEffectiveData`](../../ioutershadoweffectivedata).
+A[`IOuterShadowEffectiveData`](../../ioutershadoweffectivedata)。
 
 ### 也可以看看
 

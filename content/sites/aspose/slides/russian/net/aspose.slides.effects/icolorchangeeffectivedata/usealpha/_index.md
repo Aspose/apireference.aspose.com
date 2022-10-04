@@ -1,14 +1,14 @@
 ---
 title: UseAlpha
 second_title: Справочник по API Aspose.Slides для .NET
-description: Возвращает логическое значение определяющее следует ли использовать альфа-компонент. Только для чтенияBoolean .
+description: Возвращает логическое значение которое определяет следует ли использовать альфа-компонент. Только чтениеBoolean.
 type: docs
 weight: 40
 url: /ru/net/aspose.slides.effects/icolorchangeeffectivedata/usealpha/
 ---
 ## IColorChangeEffectiveData.UseAlpha property
 
-Возвращает логическое значение, определяющее, следует ли использовать альфа-компонент. Только для чтенияBoolean .
+Возвращает логическое значение, которое определяет, следует ли использовать альфа-компонент. Только чтениеBoolean.
 
 ```csharp
 public bool UseAlpha { get; }

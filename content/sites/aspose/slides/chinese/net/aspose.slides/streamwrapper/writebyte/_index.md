@@ -16,7 +16,7 @@ public void WriteByte(byte value)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| value | Byte |  |
+| 值 | Byte |  |
 
 ### 也可以看看
 

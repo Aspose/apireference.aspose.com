@@ -16,7 +16,7 @@ public IComment[] GetSlideComments(ICommentAuthor author)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| author | ICommentAuthor | Автор комментариев, чтобы найти или null, чтобы вернуть все комментарии. |
+| author | ICommentAuthor | Автор комментариев для поиска или null для возврата всех комментариев. |
 
 ### Возвращаемое значение
 

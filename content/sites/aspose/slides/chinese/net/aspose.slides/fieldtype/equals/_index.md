@@ -1,14 +1,14 @@
 ---
 title: Equals
 second_title: Aspose.Slides for .NET API 参考
-description: 检查此字段是否等于另一个字段
+description: 检查此字段是否等于另一个
 type: docs
 weight: 200
 url: /zh/net/aspose.slides/fieldtype/equals/
 ---
 ## FieldType.Equals method
 
-检查此字段是否等于另一个字段。
+检查此字段是否等于另一个。
 
 ```csharp
 public override bool Equals(object obj)

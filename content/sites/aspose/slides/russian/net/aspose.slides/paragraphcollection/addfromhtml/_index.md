@@ -1,14 +1,14 @@
 ---
 title: AddFromHtml
 second_title: Справочник по API Aspose.Slides для .NET
-description: Добавляет текст из указанной строки html в коллекцию.
+description: Добавляет в коллекцию текст из указанной строки html.
 type: docs
 weight: 50
 url: /ru/net/aspose.slides/paragraphcollection/addfromhtml/
 ---
 ## AddFromHtml(string) {#addfromhtml}
 
-Добавляет текст из указанной строки html в коллекцию.
+Добавляет в коллекцию текст из указанной строки html.
 
 ```csharp
 public void AddFromHtml(string text)
@@ -16,7 +16,7 @@ public void AddFromHtml(string text)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| text | String | HTML-текст. |
+| text | String | Текст HTML. |
 
 ### Смотрите также
 
@@ -28,7 +28,7 @@ public void AddFromHtml(string text)
 
 ## AddFromHtml(string, IExternalResourceResolver, string) {#addfromhtml_1}
 
-Добавляет текст из указанной строки html в коллекцию.
+Добавляет в коллекцию текст из указанной строки html.
 
 ```csharp
 public void AddFromHtml(string text, IExternalResourceResolver resolver, string uri)
@@ -36,9 +36,9 @@ public void AddFromHtml(string text, IExternalResourceResolver resolver, string 
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| text | String | HTML-текст. |
+| text | String | Текст HTML. |
 | resolver | IExternalResourceResolver | Объект обратного вызова Resolver, который разрешает URI и извлекает объекты, на которые ссылаются. |
-| uri | String | URI для добавления HTML-документа. Используется для разрешения относительных ссылок. |
+| uri | String | URI для добавления документа HTML. Используется для разрешения относительных ссылок. |
 
 ### Примечания
 

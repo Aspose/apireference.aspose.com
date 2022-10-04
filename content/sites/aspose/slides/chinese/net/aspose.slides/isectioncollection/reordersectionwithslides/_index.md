@@ -16,7 +16,7 @@ public void ReorderSectionWithSlides(ISection section, int index)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| index | ISection | 目标指数。 |
+| index | ISection | 目标索引。 |
 | section | Int32 | 要移动的部分。 |
 
 ### 也可以看看

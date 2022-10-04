@@ -1,14 +1,14 @@
 ---
 title: Light2
 second_title: Справочник по API Aspose.Slides для .NET
-description: Второй световой цвет в схеме. Только для чтенияColor .
+description: Второй светлый цвет в схеме. Только для чтенияColor.
 type: docs
 weight: 130
 url: /ru/net/aspose.slides.theme/icolorschemeeffectivedata/light2/
 ---
 ## IColorSchemeEffectiveData.Light2 property
 
-Второй световой цвет в схеме. Только для чтенияColor .
+Второй светлый цвет в схеме. Только для чтенияColor.
 
 ```csharp
 public Color Light2 { get; }

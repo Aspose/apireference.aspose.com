@@ -16,7 +16,7 @@ public IAlphaInverse CreateAlphaInverse()
 
 ### 返回值
 
-阿尔法反转效应。
+Alpha 反转效果。
 
 ### 也可以看看
 

@@ -16,7 +16,7 @@ public ITintEffectiveData GetEffective()
 
 ### Возвращаемое значение
 
-А[`ITintEffectiveData`](../../itinteffectivedata).
+A[`ITintEffectiveData`](../../itinteffectivedata).
 
 ### Смотрите также
 

@@ -16,7 +16,7 @@ public IThemeEffectiveData GetEffective()
 
 ### 返回值
 
-一个[`IThemeEffectiveData`](../../ithemeeffectivedata).
+A[`IThemeEffectiveData`](../../ithemeeffectivedata)。
 
 ### 例子
 

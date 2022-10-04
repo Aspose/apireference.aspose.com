@@ -1,14 +1,14 @@
 ---
 title: Position
 second_title: Справочник по API Aspose.Slides для .NET
-description: Позиция группирующего символа. По умолчанию Снизу
+description: Позиция группирующего символа. По умолчаниюНиз
 type: docs
 weight: 40
 url: /ru/net/aspose.slides.mathtext/mathgroupingcharacter/position/
 ---
 ## MathGroupingCharacter.Position property
 
-Позиция группирующего символа. По умолчанию: Снизу
+Позиция группирующего символа. По умолчанию:Низ
 
 ```csharp
 public MathTopBotPositions Position { get; set; }

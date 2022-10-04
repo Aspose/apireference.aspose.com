@@ -16,7 +16,7 @@ public IAlphaInverseEffectiveData GetEffective()
 
 ### 返回值
 
-一个[`IAlphaInverseEffectiveData`](../../ialphainverseeffectivedata).
+A[`IAlphaInverseEffectiveData`](../../ialphainverseeffectivedata)。
 
 ### 也可以看看
 

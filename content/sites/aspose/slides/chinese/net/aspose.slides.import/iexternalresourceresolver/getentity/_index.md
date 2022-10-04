@@ -20,7 +20,7 @@ public Stream GetEntity(string absoluteUri)
 
 ### 返回值
 
-一个Stream如果资源无法流式传输，则为 object 或 null。
+AStream对象或 null 如果资源无法流式传输。
 
 ### 也可以看看
 

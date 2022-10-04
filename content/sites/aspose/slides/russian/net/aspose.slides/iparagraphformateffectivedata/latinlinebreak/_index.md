@@ -1,14 +1,14 @@
 ---
 title: LatinLineBreak
 second_title: Справочник по API Aspose.Slides для .NET
-description: Определяет используется ли в абзаце разрыв строки на латинице. Только для чтенияBoolean .
+description: Определяет используется ли в абзаце разрыв строки на латинице. Только чтениеBoolean.
 type: docs
 weight: 100
 url: /ru/net/aspose.slides/iparagraphformateffectivedata/latinlinebreak/
 ---
 ## IParagraphFormatEffectiveData.LatinLineBreak property
 
-Определяет, используется ли в абзаце разрыв строки на латинице. Только для чтенияBoolean .
+Определяет, используется ли в абзаце разрыв строки на латинице. Только чтениеBoolean.
 
 ```csharp
 public bool LatinLineBreak { get; }

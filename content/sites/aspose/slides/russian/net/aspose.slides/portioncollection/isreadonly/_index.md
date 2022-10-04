@@ -1,14 +1,14 @@
 ---
 title: IsReadOnly
 second_title: Справочник по API Aspose.Slides для .NET
-description: Получает значение указывающееICollection доступен только для чтения. Только для чтенияBoolean .
+description: Получает значение указывающее является ли коллекцияICollectionдоступной только для чтения. Только чтениеBoolean.
 type: docs
 weight: 20
 url: /ru/net/aspose.slides/portioncollection/isreadonly/
 ---
 ## PortionCollection.IsReadOnly property
 
-Получает значение, указывающее,ICollection доступен только для чтения. Только для чтенияBoolean .
+Получает значение, указывающее, является ли коллекцияICollectionдоступной только для чтения. Только чтениеBoolean.
 
 ```csharp
 public bool IsReadOnly { get; }
@@ -16,7 +16,7 @@ public bool IsReadOnly { get; }
 
 ### Возвращаемое значение
 
-верно, еслиICollection доступен только для чтения; в противном случае false.
+true, еслиICollectionдоступен только для чтения; в противном случае ложно.
 
 ### Смотрите также
 

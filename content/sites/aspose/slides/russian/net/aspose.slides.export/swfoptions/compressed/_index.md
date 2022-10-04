@@ -1,14 +1,14 @@
 ---
 title: Compressed
 second_title: Справочник по API Aspose.Slides для .NET
-description: Указывает следует ли сжимать сгенерированный SWF-документ. Значение по умолчаниюистинный
+description: Указывает следует ли сжимать сгенерированный SWF-документ. По умолчанию true .
 type: docs
 weight: 20
 url: /ru/net/aspose.slides.export/swfoptions/compressed/
 ---
 ## SwfOptions.Compressed property
 
-Указывает, следует ли сжимать сгенерированный SWF-документ. Значение по умолчанию:`истинный`
+Указывает, следует ли сжимать сгенерированный SWF-документ. По умолчанию:` true` .
 
 ```csharp
 public bool Compressed { get; set; }

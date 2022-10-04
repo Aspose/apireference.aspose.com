@@ -1,14 +1,14 @@
 ---
 title: RemoveUnusedMasterSlides
 second_title: Aspose.Slides for .NET API 参考
-description: 进行压缩Presentationaspose.slides/presentation通过删除未使用的母版幻灯片
+description: 通过删除未使用的母版幻灯片来压缩Presentationaspose.slides/presentation
 type: docs
 weight: 20
 url: /zh/net/aspose.slides.lowcode/compress/removeunusedmasterslides/
 ---
 ## Compress.RemoveUnusedMasterSlides method
 
-进行压缩[`Presentation`](../../../aspose.slides/presentation)通过删除未使用的母版幻灯片。
+通过删除未使用的母版幻灯片来压缩[`Presentation`](../../../aspose.slides/presentation)。
 
 ```csharp
 public static void RemoveUnusedMasterSlides(Presentation pres)

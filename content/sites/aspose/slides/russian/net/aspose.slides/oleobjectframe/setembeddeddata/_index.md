@@ -1,14 +1,14 @@
 ---
 title: SetEmbeddedData
 second_title: Справочник по API Aspose.Slides для .NET
-description: Задает информацию о встроенных данных OLE.  Этот метод изменяет свойства объекта для отражения новых данных а устанавливает для флага IsObjectLink значение false указывая на то что объект OLE внедрен.
+description: Устанавливает информацию о встроенных данных OLE.  Этот метод изменяет свойства объекта для отражения новых данных и устанавливает флаг IsObjectLink в false указывает на то что объект OLE встроен.
 type: docs
 weight: 140
 url: /ru/net/aspose.slides/oleobjectframe/setembeddeddata/
 ---
 ## OleObjectFrame.SetEmbeddedData method
 
-Задает информацию о встроенных данных OLE.  Этот метод изменяет свойства объекта для отражения новых данных, а устанавливает для флага IsObjectLink значение false, указывая на то, что объект OLE внедрен.
+Устанавливает информацию о встроенных данных OLE.  Этот метод изменяет свойства объекта для отражения новых данных и устанавливает флаг IsObjectLink в false, указывает на то, что объект OLE встроен.
 
 ```csharp
 public void SetEmbeddedData(IOleEmbeddedDataInfo embeddedData)

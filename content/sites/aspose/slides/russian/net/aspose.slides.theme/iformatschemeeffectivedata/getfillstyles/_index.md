@@ -1,14 +1,14 @@
 ---
 title: GetFillStyles
 second_title: Справочник по API Aspose.Slides для .NET
-description: Возвращает коллекцию стилей заливки определенных темой.
+description: Возвращает набор стилей заливки определенных темой.
 type: docs
 weight: 30
 url: /ru/net/aspose.slides.theme/iformatschemeeffectivedata/getfillstyles/
 ---
 ## IFormatSchemeEffectiveData.GetFillStyles method
 
-Возвращает коллекцию стилей заливки, определенных темой.
+Возвращает набор стилей заливки, определенных темой.
 
 ```csharp
 public IFillFormatCollectionEffectiveData GetFillStyles(Color styleColor)
@@ -16,7 +16,7 @@ public IFillFormatCollectionEffectiveData GetFillStyles(Color styleColor)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| styleColor | Color | ЦветColor |
+| styleColor | Color | ColorColor |
 
 ### Возвращаемое значение
 

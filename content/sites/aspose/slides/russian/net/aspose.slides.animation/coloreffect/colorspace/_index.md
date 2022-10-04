@@ -1,14 +1,14 @@
 ---
 title: ColorSpace
 second_title: Справочник по API Aspose.Slides для .NET
-description: Представляет цветовое пространство поведения. Чтение/записьColorSpaceaspose.slides.animation/colorspace .
+description: Представляют цветовое пространство поведения. Чтение/записьColorSpaceaspose.slides.animation/colorspace.
 type: docs
 weight: 30
 url: /ru/net/aspose.slides.animation/coloreffect/colorspace/
 ---
 ## ColorEffect.ColorSpace property
 
-Представляет цветовое пространство поведения. Чтение/запись[`ColorSpace`](../../colorspace) .
+Представляют цветовое пространство поведения. Чтение/запись[`ColorSpace`](../../colorspace).
 
 ```csharp
 public ColorSpace ColorSpace { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: Equals
 second_title: Aspose.Slides for .NET API 参考
-description: 检查此对象是否等于另一个对象
+description: 检查此对象是否等于另一个
 type: docs
 weight: 1250
 url: /zh/net/aspose.slides.animation/behaviorproperty/equals/
 ---
 ## BehaviorProperty.Equals method
 
-检查此对象是否等于另一个对象。
+检查此对象是否等于另一个。
 
 ```csharp
 public override bool Equals(object obj)

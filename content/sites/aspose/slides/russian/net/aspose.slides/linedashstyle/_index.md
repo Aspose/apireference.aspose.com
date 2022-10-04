@@ -1,14 +1,14 @@
 ---
 title: LineDashStyle
 second_title: Справочник по API Aspose.Slides для .NET
-description: Представляет стиль штриховой линии.
+description: Представляет стиль пунктирной линии.
 type: docs
 weight: 7070
 url: /ru/net/aspose.slides/linedashstyle/
 ---
 ## LineDashStyle enumeration
 
-Представляет стиль штриховой линии.
+Представляет стиль пунктирной линии.
 
 ```csharp
 public enum LineDashStyle : sbyte

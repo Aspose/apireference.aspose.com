@@ -1,14 +1,14 @@
 ---
 title: TextFrameFormat
 second_title: Aspose.Slides for .NET API 参考
-description: 初始化一个新的实例TextFrameFormataspose.slides/textframeformat类.
+description: 初始化TextFrameFormataspose.slides/textframeformat类的新实例
 type: docs
 weight: 10
 url: /zh/net/aspose.slides/textframeformat/textframeformat/
 ---
 ## TextFrameFormat constructor
 
-初始化一个新的实例[`TextFrameFormat`](../../textframeformat)类.
+初始化[`TextFrameFormat`](../../textframeformat)类的新实例。
 
 ```csharp
 public TextFrameFormat()

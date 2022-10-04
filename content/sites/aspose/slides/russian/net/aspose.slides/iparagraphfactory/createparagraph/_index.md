@@ -29,7 +29,7 @@ public IParagraph CreateParagraph()
 
 ## CreateParagraph(IParagraph) {#createparagraph_1}
 
-Создает новый абзац с указанными данными абзаца, используя.
+Создает новый абзац с использованием указанных данных абзаца.
 
 ```csharp
 public IParagraph CreateParagraph(IParagraph paragraph)
@@ -37,11 +37,11 @@ public IParagraph CreateParagraph(IParagraph paragraph)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| paragraph | IParagraph | Абзац для использования данных. |
+| paragraph | IParagraph | Параграф для использования данных. |
 
 ### Возвращаемое значение
 
-Параграф.
+Пункт.
 
 ### Смотрите также
 

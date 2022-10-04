@@ -1,14 +1,14 @@
 ---
 title: Equals
 second_title: Справочник по API Aspose.Slides для .NET
-description: Определяет является ли указанныйAlphaReplaceaspose.slides.effects/alphareplace равен текущемуAlphaReplaceaspose.slides.effects/alphareplace .
+description: Определяет равен ли указанныйAlphaReplaceaspose.slides.effects/alphareplaceтекущемуAlphaReplace.
 type: docs
 weight: 10
 url: /ru/net/aspose.slides.effects/alphareplace/equals/
 ---
 ## AlphaReplace.Equals method
 
-Определяет, является ли указанный[`AlphaReplace`](../../alphareplace) равен текущему[`AlphaReplace`](../../alphareplace) .
+Определяет, равен ли указанный[`AlphaReplace`](../../alphareplace)текущемуAlphaReplace.
 
 ```csharp
 public override bool Equals(object obj)
@@ -16,7 +16,7 @@ public override bool Equals(object obj)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| obj | Object | [`AlphaReplace`](../../alphareplace) сравнивать. |
+| obj | Object | [`AlphaReplace`](../../alphareplace)для сравнения. |
 
 ### Возвращаемое значение
 

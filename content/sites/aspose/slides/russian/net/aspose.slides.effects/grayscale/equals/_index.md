@@ -1,14 +1,14 @@
 ---
 title: Equals
 second_title: Справочник по API Aspose.Slides для .NET
-description: Определяет является ли указанныйGrayScaleaspose.slides.effects/grayscale равен текущемуGrayScaleaspose.slides.effects/grayscale .
+description: Определяет равен ли указанныйGrayScaleaspose.slides.effects/grayscaleтекущемуОттенкисерого.
 type: docs
 weight: 10
 url: /ru/net/aspose.slides.effects/grayscale/equals/
 ---
 ## GrayScale.Equals method
 
-Определяет, является ли указанный[`GrayScale`](../../grayscale) равен текущему[`GrayScale`](../../grayscale) .
+Определяет, равен ли указанный[`GrayScale`](../../grayscale)текущемуОттенкисерого.
 
 ```csharp
 public override bool Equals(object obj)
@@ -16,7 +16,7 @@ public override bool Equals(object obj)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| obj | Object | [`GrayScale`](../../grayscale) сравнивать. |
+| obj | Object | [`GrayScale`](../../grayscale)для сравнения. |
 
 ### Возвращаемое значение
 

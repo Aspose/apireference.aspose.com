@@ -1,14 +1,14 @@
 ---
 title: InsertAudioFrameCD
 second_title: Aspose.Slides for .NET API 参考
-description: 插入带有 CD 的音频帧
+description: 插入带有 CD 的 AudioFrame
 type: docs
 weight: 270
 url: /zh/net/aspose.slides/shapecollection/insertaudioframecd/
 ---
 ## ShapeCollection.InsertAudioFrameCD method
 
-插入带有 CD 的音频帧。
+插入带有 CD 的 AudioFrame。
 
 ```csharp
 public IAudioFrame InsertAudioFrameCD(int index, float x, float y, float width, float height)

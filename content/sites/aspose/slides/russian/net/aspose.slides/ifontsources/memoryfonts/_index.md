@@ -1,14 +1,14 @@
 ---
 title: MemoryFonts
 second_title: Справочник по API Aspose.Slides для .NET
-description: Коллекция шрифтов представленных в виде массивов байтов.
+description: Коллекция шрифтов представленных в виде байтовых массивов.
 type: docs
 weight: 20
 url: /ru/net/aspose.slides/ifontsources/memoryfonts/
 ---
 ## IFontSources.MemoryFonts property
 
-Коллекция шрифтов, представленных в виде массивов байтов.
+Коллекция шрифтов, представленных в виде байтовых массивов.
 
 ```csharp
 public byte[][] MemoryFonts { get; set; }

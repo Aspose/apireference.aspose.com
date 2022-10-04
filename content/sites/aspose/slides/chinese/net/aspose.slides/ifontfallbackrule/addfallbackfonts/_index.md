@@ -16,18 +16,21 @@ public void AddFallBackFonts(string fontName)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| fontName | String | FallBack 的字体名称（以逗号分隔） |
+| fontName | String | 字体名称（以逗号分隔）对于 FallBack |
 
 ### 例子
 
 ```csharp
 [C#]
-//创建 FantFallBackRule 的新实例
+ //创建FantFallBackRule
+
 IFontFallBackRule newRule = new FontFallBackRule(0x3040, 0x309F, "MS Mincho");
 
-//向规则添加第二个字体 
+//向规则
+
 newRule.AddFallBackFonts("MS Gothic");
-//在规则中添加第三种和第四种字体 
+//在规则
+
 newRule.AddFallBackFonts("Tahoma, Times New Roman");
 ```
 
@@ -49,16 +52,17 @@ public void AddFallBackFonts(string[] fontNames)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| fontNames | String[] | FallBack 的字体名称（以逗号分隔） |
+| fontNames | String[] | 字体名称（以逗号分隔）对于 FallBack |
 
 ### 例子
 
 ```csharp
 [C#]
-//创建FontFallBackRule的新实例
+//创建FontFallBackRule
+
 IFontFallBackRule newRule = new FontFallBackRule(0x3040, 0x309F, "MS Mincho");
 
-//将另外三种字体添加到规则中 
+//将另外三种字体添加到规则
 newRule.AddFallBackFonts(new string [] {"MS Gothic","Tahoma, Times New Roman"});
 ```
 

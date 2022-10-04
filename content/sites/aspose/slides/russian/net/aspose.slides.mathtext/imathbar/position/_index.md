@@ -1,14 +1,14 @@
 ---
 title: Position
 second_title: Справочник по API Aspose.Slides для .NET
-description: Положение тактовой черты. По умолчанию Top
+description: Положение такта. По умолчаниюВерх
 type: docs
 weight: 30
 url: /ru/net/aspose.slides.mathtext/imathbar/position/
 ---
 ## IMathBar.Position property
 
-Положение тактовой черты. По умолчанию: Top
+Положение такта. По умолчанию:Верх
 
 ```csharp
 public MathTopBotPositions Position { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: ShowCommentsByNoAuthor
 second_title: Справочник по API Aspose.Slides для .NET
-description: Получает или задает видимость комментариев у которых нет автора. Если true то будут отображаться комментарии . Применяется только если комментарии отображаются.
+description: Получает или устанавливает видимость комментариев у которых нет автора. Если true то будут отображаться комментарии . Применяется только при отображении комментариев.
 type: docs
 weight: 60
 url: /ru/net/aspose.slides.export/notescommentslayoutingoptions/showcommentsbynoauthor/
 ---
 ## NotesCommentsLayoutingOptions.ShowCommentsByNoAuthor property
 
-Получает или задает видимость комментариев, у которых нет автора. Если true, то будут отображаться комментарии . (Применяется, только если комментарии отображаются).
+Получает или устанавливает видимость комментариев, у которых нет автора. Если true, то будут отображаться комментарии . (Применяется только при отображении комментариев).
 
 ```csharp
 public bool ShowCommentsByNoAuthor { get; set; }
@@ -16,7 +16,7 @@ public bool ShowCommentsByNoAuthor { get; set; }
 
 ### Примечания
 
-Значение по умолчанию: **ЛОЖЬ** .
+Значение по умолчанию: **false** .
 
 ### Смотрите также
 

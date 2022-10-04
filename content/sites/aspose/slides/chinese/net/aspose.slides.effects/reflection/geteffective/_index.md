@@ -16,7 +16,7 @@ public IReflectionEffectiveData GetEffective()
 
 ### 返回值
 
-一个[`IReflectionEffectiveData`](../../ireflectioneffectivedata).
+A[`IReflectionEffectiveData`](../../ireflectioneffectivedata)。
 
 ### 也可以看看
 

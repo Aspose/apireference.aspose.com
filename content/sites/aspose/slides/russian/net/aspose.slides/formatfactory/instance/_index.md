@@ -1,14 +1,14 @@
 ---
 title: Instance
 second_title: Справочник по API Aspose.Slides для .NET
-description: Форматировать статический экземпляр фабрики. Только для чтенияFormatFactoryaspose.slides/formatfactory .
+description: Статический экземпляр фабрики форматирования. Только для чтенияFormatFactoryaspose.slides/formatfactory.
 type: docs
 weight: 20
 url: /ru/net/aspose.slides/formatfactory/instance/
 ---
 ## FormatFactory.Instance property
 
-Форматировать статический экземпляр фабрики. Только для чтения[`FormatFactory`](../../formatfactory) .
+Статический экземпляр фабрики форматирования. Только для чтения[`FormatFactory`](../../formatfactory).
 
 ```csharp
 public static FormatFactory Instance { get; }

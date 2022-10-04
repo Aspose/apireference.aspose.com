@@ -17,12 +17,12 @@ public IMathLimit CreateMathLimit(IMathElement baseArg, IMathElement limit, bool
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | baseArg | IMathElement | Базовый аргумент для применения ограничения |
-| limit | IMathElement | Предельный элемент |
+| limit | IMathElement | Элемент лимита |
 | upperLimit | Boolean | Устанавливает размещение лимита сверху |
 
 ### Возвращаемое значение
 
-новый математический предел
+новый математический лимит
 
 ### Смотрите также
 
@@ -36,7 +36,7 @@ public IMathLimit CreateMathLimit(IMathElement baseArg, IMathElement limit, bool
 
 ## CreateMathLimit(IMathElement, IMathElement) {#createmathlimit}
 
-Создает IMathLimit с пределом внизу
+Создает IMathLimit с ограничением внизу
 
 ```csharp
 public IMathLimit CreateMathLimit(IMathElement baseArg, IMathElement limit)
@@ -44,12 +44,12 @@ public IMathLimit CreateMathLimit(IMathElement baseArg, IMathElement limit)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| baseArg | IMathElement | Базовый аргумент для применения ограничения |
-| limit | IMathElement | Предельный элемент |
+| baseArg | IMathElement | Базовый аргумент для применить ограничение |
+| limit | IMathElement | Элемент ограничения |
 
 ### Возвращаемое значение
 
-новый математический предел
+новое математическое ограничение
 
 ### Смотрите также
 

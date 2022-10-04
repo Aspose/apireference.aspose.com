@@ -16,7 +16,7 @@ public IColorSchemeEffectiveData GetColorScheme(Color styleColor)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| styleColor | Color | ЦветColor |
+| styleColor | Color | ColorColor |
 
 ### Возвращаемое значение
 

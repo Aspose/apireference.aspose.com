@@ -1,14 +1,14 @@
 ---
 title: CreateMathematicalText
 second_title: Справочник по API Aspose.Slides для .NET
-description: Создать пустой математический текст element
+description: Создать пустой элемент математического текста
 type: docs
 weight: 10
 url: /ru/net/aspose.slides.mathtext/imathematicaltextfactory/createmathematicaltext/
 ---
 ## CreateMathematicalText() {#createmathematicaltext}
 
-Создать пустой математический текст element
+Создать пустой элемент математического текста
 
 ```csharp
 public IMathematicalText CreateMathematicalText()
@@ -37,7 +37,7 @@ public IMathematicalText CreateMathematicalText(char mathSymbol)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| mathSymbol | Char | один символ для использования в качестве текстового значения |
+| mathSymbol | Char | одиночный символ для использования в качестве текстового значения |
 
 ### Возвращаемое значение
 
@@ -62,7 +62,7 @@ public IMathematicalText CreateMathematicalText(string mathText)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| mathText | String | текстовое значение |
+| mathText | String | text значение |
 
 ### Возвращаемое значение
 
@@ -88,7 +88,7 @@ public IMathematicalText CreateMathematicalText(string mathText, IPortionFormat 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | mathText | String | текстовое значение |
-| portionFormat | IPortionFormat | настройки формата текста |
+| partionFormat | IPortionFormat | настройки формата текста |
 
 ### Возвращаемое значение
 

@@ -1,14 +1,14 @@
 ---
 title: IsLicensed
 second_title: Справочник по API Aspose.Slides для .NET
-description: Проверить применяется ли лицензия к component
+description: Проверить применяется ли лицензия к компоненту
 type: docs
 weight: 20
 url: /ru/net/aspose.slides/license/islicensed/
 ---
 ## License.IsLicensed method
 
-Проверить, применяется ли лицензия к component
+Проверить, применяется ли лицензия к компоненту
 
 ```csharp
 public bool IsLicensed()
@@ -16,7 +16,7 @@ public bool IsLicensed()
 
 ### Возвращаемое значение
 
-`Истинный` если компонент лицензирован, иначе`ЛОЖЬ`
+` True` если компонент лицензирован, иначе` false`
 
 ### Смотрите также
 

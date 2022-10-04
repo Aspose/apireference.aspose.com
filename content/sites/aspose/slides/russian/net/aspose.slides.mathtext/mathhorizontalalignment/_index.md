@@ -1,14 +1,14 @@
 ---
 title: MathHorizontalAlignment
 second_title: Справочник по API Aspose.Slides для .NET
-description: Горизонтальное выравнивание
+description: Выравнивание по горизонтали
 type: docs
 weight: 8060
 url: /ru/net/aspose.slides.mathtext/mathhorizontalalignment/
 ---
 ## MathHorizontalAlignment enumeration
 
-Горизонтальное выравнивание
+Выравнивание по горизонтали
 
 ```csharp
 public enum MathHorizontalAlignment
@@ -21,7 +21,7 @@ public enum MathHorizontalAlignment
 | NotDefined | `0` | Значение не определено |
 | Left | `1` | Выравнивание по левому краю |
 | Center | `2` | Центр |
-| Right | `3` | Правильно |
+| Right | `3` | Право |
 
 ### Смотрите также
 

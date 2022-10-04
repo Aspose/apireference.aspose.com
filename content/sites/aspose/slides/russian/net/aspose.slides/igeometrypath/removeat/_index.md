@@ -1,14 +1,14 @@
 ---
 title: RemoveAt
 second_title: Справочник по API Aspose.Slides для .NET
-description: Удаляет сегмент по указанному индексу пути геометрии.
+description: Удаляет сегмент по указанному индексу геометрического пути.
 type: docs
 weight: 100
 url: /ru/net/aspose.slides/igeometrypath/removeat/
 ---
 ## IGeometryPath.RemoveAt method
 
-Удаляет сегмент по указанному индексу пути геометрии.
+Удаляет сегмент по указанному индексу геометрического пути.
 
 ```csharp
 public void RemoveAt(int index)

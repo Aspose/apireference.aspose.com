@@ -1,14 +1,14 @@
 ---
 title: GetEffective
 second_title: Aspose.Slides for .NET API 参考
-description: 获取有效的 Alpha Modulate Fixed 效果数据并应用继承
+description: 在应用了继承的情况下获取有效的 Alpha Modulate Fixed 效果数据
 type: docs
 weight: 30
 url: /zh/net/aspose.slides.effects/alphamodulatefixed/geteffective/
 ---
 ## AlphaModulateFixed.GetEffective method
 
-获取有效的 Alpha Modulate Fixed 效果数据并应用继承。
+在应用了继承的情况下获取有效的 Alpha Modulate Fixed 效果数据。
 
 ```csharp
 public IAlphaModulateFixedEffectiveData GetEffective()
@@ -16,7 +16,7 @@ public IAlphaModulateFixedEffectiveData GetEffective()
 
 ### 返回值
 
-一个[`IAlphaModulateFixedEffectiveData`](../../ialphamodulatefixedeffectivedata).
+A[`IAlphaModulateFixedEffectiveData`](../../ialphamodulatefixedeffectivedata)。
 
 ### 也可以看看
 

@@ -26,7 +26,7 @@ public ICustomXmlPart this[int index] { get; }
 
 | исключение | условие |
 | --- | --- |
-| ArgumentOutOfRangeException | индекс меньше 0.-или-индекс равен или больше, чем Count |
+| ArgumentOutOfRangeException | index меньше 0.-или-index равен или больше Count |
 
 ### Смотрите также
 

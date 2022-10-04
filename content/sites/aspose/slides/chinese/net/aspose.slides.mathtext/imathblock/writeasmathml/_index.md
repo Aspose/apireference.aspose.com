@@ -1,14 +1,14 @@
 ---
 title: WriteAsMathMl
 second_title: Aspose.Slides for .NET API 参考
-description: 保存此内容IMathBlockaspose.slides.mathtext/imathblock作为 MathML
+description: 将此IMathBlockaspose.slides.mathtext/imathblock的内容保存为 MathML
 type: docs
 weight: 60
 url: /zh/net/aspose.slides.mathtext/imathblock/writeasmathml/
 ---
 ## IMathBlock.WriteAsMathMl method
 
-保存此内容[`IMathBlock`](../../imathblock)作为 MathML
+将此[`IMathBlock`](../../imathblock)的内容保存为 MathML
 
 ```csharp
 public void WriteAsMathMl(Stream stream)

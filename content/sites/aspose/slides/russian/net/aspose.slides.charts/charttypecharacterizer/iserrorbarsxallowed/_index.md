@@ -16,11 +16,11 @@ public static bool IsErrorBarsXAllowed(ChartType seriesType)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| seriesType | ChartType | Тип сериала. |
+| seriesType | ChartType | Тип серии. |
 
 ### Возвращаемое значение
 
-Истинно, если разрешено, иначе ложно.
+Истина, если разрешено, иначе ложь.
 
 ### Смотрите также
 

@@ -1,14 +1,14 @@
 ---
 title: PropertyValueType
 second_title: Справочник по API Aspose.Slides для .NET
-description: Представление типов значений свойств.
+description: Представляют типы значений свойств.
 type: docs
 weight: 660
 url: /ru/net/aspose.slides.animation/propertyvaluetype/
 ---
 ## PropertyValueType enumeration
 
-Представление типов значений свойств.
+Представляют типы значений свойств.
 
 ```csharp
 public enum PropertyValueType

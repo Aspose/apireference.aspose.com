@@ -1,14 +1,14 @@
 ---
 title: AlternativeLanguageId
 second_title: Справочник по API Aspose.Slides для .NET
-description: Возвращает идентификатор альтернативного языка. Только для чтенияString .
+description: Возвращает идентификатор альтернативного языка. Только чтениеString.
 type: docs
 weight: 10
 url: /ru/net/aspose.slides/ibaseportionformateffectivedata/alternativelanguageid/
 ---
 ## IBasePortionFormatEffectiveData.AlternativeLanguageId property
 
-Возвращает идентификатор альтернативного языка. Только для чтенияString .
+Возвращает идентификатор альтернативного языка. Только чтениеString.
 
 ```csharp
 public string AlternativeLanguageId { get; }

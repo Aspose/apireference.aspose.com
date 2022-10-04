@@ -1,14 +1,14 @@
 ---
 title: HangingPunctuation
 second_title: Справочник по API Aspose.Slides для .NET
-description: Определяет используются ли в абзаце висячие знаки препинания. Только для чтенияBoolean .
+description: Определяет используются ли в абзаце висячие знаки препинания. Только чтениеBoolean.
 type: docs
 weight: 80
 url: /ru/net/aspose.slides/iparagraphformateffectivedata/hangingpunctuation/
 ---
 ## IParagraphFormatEffectiveData.HangingPunctuation property
 
-Определяет, используются ли в абзаце висячие знаки препинания. Только для чтенияBoolean .
+Определяет, используются ли в абзаце висячие знаки препинания. Только чтениеBoolean.
 
 ```csharp
 public bool HangingPunctuation { get; }

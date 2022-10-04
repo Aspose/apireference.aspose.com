@@ -1,14 +1,14 @@
 ---
 title: GraphicsPathToGeometryPath
 second_title: Справочник по API Aspose.Slides для .NET
-description: ПреобразуетGraphicsPath кIGeometryPathaspose.slides/igeometrypath Возвращаемое значение вызова метода может использоваться для изменения геометрии объекта IGeometryShape с помощью метода IGeometryShape.SetGeometryPaths.
+description: ПреобразуетGraphicsPathвIGeometryPathaspose.slides/igeometrypath Возвращаемое значение вызова метода можно использовать для изменения геометрии объекта IGeometryShape с помощью метода IGeometryShape.SetGeometryPaths.
 type: docs
 weight: 20
 url: /ru/net/aspose.slides.util/shapeutil/graphicspathtogeometrypath/
 ---
 ## ShapeUtil.GraphicsPathToGeometryPath method
 
-ПреобразуетGraphicsPath к[`IGeometryPath`](../../../aspose.slides/igeometrypath) Возвращаемое значение вызова метода может использоваться для изменения геометрии объекта IGeometryShape с помощью метода IGeometryShape.SetGeometryPaths.
+ПреобразуетGraphicsPathв[`IGeometryPath`](../../../aspose.slides/igeometrypath) Возвращаемое значение вызова метода можно использовать для изменения геометрии объекта IGeometryShape с помощью метода IGeometryShape.SetGeometryPaths.
 
 ```csharp
 public static IGeometryPath GraphicsPathToGeometryPath(GraphicsPath graphicsPath)
@@ -16,7 +16,7 @@ public static IGeometryPath GraphicsPathToGeometryPath(GraphicsPath graphicsPath
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| graphicsPath | GraphicsPath | Графический путь |
+| graphicsPath | GraphicsPath | Путь к графике |
 
 ### Возвращаемое значение
 

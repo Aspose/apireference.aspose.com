@@ -1,14 +1,14 @@
 ---
 title: MathSubscriptElementFactory
 second_title: Справочник по API Aspose.Slides для .NET
-description: Позволяет создать IMathSubscriptElement
+description: Позволяет создавать IMathSubscriptElement
 type: docs
 weight: 8280
 url: /ru/net/aspose.slides.mathtext/mathsubscriptelementfactory/
 ---
 ## MathSubscriptElementFactory class
 
-Позволяет создать IMathSubscriptElement
+Позволяет создавать IMathSubscriptElement
 
 ```csharp
 public class MathSubscriptElementFactory : IMathSubscriptElementFactory
@@ -28,7 +28,7 @@ public class MathSubscriptElementFactory : IMathSubscriptElementFactory
 
 ### Примечания
 
-Для COM-совместимости
+Для COM-совместимость
 
 ### Смотрите также
 

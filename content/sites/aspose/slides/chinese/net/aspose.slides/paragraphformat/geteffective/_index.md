@@ -16,11 +16,11 @@ public IParagraphFormatEffectiveData GetEffective()
 
 ### 返回值
 
-一个[`IParagraphFormatEffectiveData`](../../iparagraphformateffectivedata).
+A[`IParagraphFormatEffectiveData`](../../iparagraphformateffectivedata)。
 
 ### 例子
 
-这个例子演示了获得一些有效的段落格式属性。
+此示例演示了获取一些有效的段落格式属性。
 
 ```csharp
 [C#]

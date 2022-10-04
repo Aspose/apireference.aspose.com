@@ -17,7 +17,7 @@ public void FormatText(ISvgTSpan svgTSpan, IPortion portion, ITextFrame textFram
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | svgTSpan | ISvgTSpan | Объект для управления генерацией tspan SVG. |
-| portion | IPortion | Исходная часть. |
+| partion | IPortion | Исходная часть. |
 | textFrame | ITextFrame | Текстовый фрейм исходной части. |
 
 ### Смотрите также

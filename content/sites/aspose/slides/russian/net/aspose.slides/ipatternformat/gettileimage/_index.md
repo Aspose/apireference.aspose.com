@@ -16,12 +16,12 @@ public Bitmap GetTileImage(Color background, Color foreground)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| background | Color | ФонColor для шаблона. |
-| foreground | Color | Передний планColor для шаблона. |
+| background | Color | ФонColorдля узора. |
+| переднийплан | Color | Передний планColorдля узора. |
 
 ### Возвращаемое значение
 
-Кафельная плиткаBitmap.
+ПлиткаBitmap.
 
 ### Смотрите также
 
@@ -41,11 +41,11 @@ public Bitmap GetTileImage(Color styleColor)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| styleColor | Color | По умолчаниюColor, определено в объекте StyleEx ShapeEx. От этого могут зависеть цвета заливки. |
+| styleColor | Color | По умолчаниюColor, определенный в объекте StyleEx ShapeEx. От этого могут зависеть цвета заливки. |
 
 ### Возвращаемое значение
 
-Кафельная плиткаBitmap.
+ПлиткаBitmap.
 
 ### Смотрите также
 

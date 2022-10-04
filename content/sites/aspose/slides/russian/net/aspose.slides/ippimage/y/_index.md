@@ -1,14 +1,14 @@
 ---
 title: Y
 second_title: Справочник по API Aspose.Slides для .NET
-description: Возвращает смещение изображения по оси Y. Только для чтенияInt32 .
+description: Возвращает Y-смещение изображения. Только для чтенияInt32.
 type: docs
 weight: 80
 url: /ru/net/aspose.slides/ippimage/y/
 ---
 ## IPPImage.Y property
 
-Возвращает смещение изображения по оси Y. Только для чтенияInt32 .
+Возвращает Y-смещение изображения. Только для чтенияInt32.
 
 ```csharp
 public int Y { get; }

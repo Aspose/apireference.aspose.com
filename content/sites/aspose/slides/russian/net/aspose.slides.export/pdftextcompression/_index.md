@@ -19,7 +19,7 @@ public enum PdfTextCompression
 | Имя | Ценность | Описание |
 | --- | --- | --- |
 | None | `0` | Без сжатия. |
-| Flate | `1` | Flate (ZIP) сжатие. |
+| Flate | `1` | Сжатие Flate (ZIP). |
 
 ### Смотрите также
 

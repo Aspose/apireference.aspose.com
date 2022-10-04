@@ -1,14 +1,14 @@
 ---
 title: Password
 second_title: Справочник по API Aspose.Slides для .NET
-description: Получает или устанавливает пароль. Чтение/записьString .
+description: Получает или задает пароль. Чтение/записьString.
 type: docs
 weight: 100
 url: /ru/net/aspose.slides/loadoptions/password/
 ---
 ## LoadOptions.Password property
 
-Получает или устанавливает пароль. Чтение/записьString .
+Получает или задает пароль. Чтение/записьString.
 
 ```csharp
 public string Password { get; set; }

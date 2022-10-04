@@ -1,14 +1,14 @@
 ---
 title: NoLocks
 second_title: Справочник по API Aspose.Slides для .NET
-description: Возвращает true если все флаги блокировки отключены. Только для чтенияBoolean .
+description: Возвращает true если все флаги блокировки отключены. Только чтениеBoolean.
 type: docs
 weight: 10
 url: /ru/net/aspose.slides/ibaseshapelock/nolocks/
 ---
 ## IBaseShapeLock.NoLocks property
 
-Возвращает true, если все флаги блокировки отключены. Только для чтенияBoolean .
+Возвращает true, если все флаги блокировки отключены. Только чтениеBoolean.
 
 ```csharp
 public bool NoLocks { get; }

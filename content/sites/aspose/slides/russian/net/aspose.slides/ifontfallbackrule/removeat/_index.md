@@ -16,16 +16,16 @@ public void RemoveAt(int index)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| index | Int32 | Отсчитываемый от нуля индекс удаляемого шрифта. |
+| index | Int32 | Начинающийся с нуля индекс шрифта для удалять. |
 
 ### Примеры
 
 ```csharp
 [C#]
-// Создать правило, содержащее список шрифтов.
+ // Создать правило, содержащее список шрифтов.
 IFontFallBackRule newRule = new FontFallBackRule(0x3040, 0x309F, "MS Mincho, MS Gothic, Tahoma, Times New Roman");
 
-//Удаление Tahoma из списка
+ //Удаление Tahoma из list
 newRule.Remove (2);
 ```
 

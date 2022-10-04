@@ -1,14 +1,14 @@
 ---
 title: SetAllSlideNumbersVisibility
 second_title: Справочник по API Aspose.Slides для .NET
-description: Изменяет видимость всех заполнителей номеров страниц включая мастер-слайды макеты слайдов слайды мастер-заметок слайды-заметки и мастер-раздаточный материал.
+description: Изменяет видимость всех заполнителей номеров страниц включая мастер-слайды макеты слайдов слайды мастер заметок слайды заметок и мастер раздаточных материалов.
 type: docs
 weight: 70
 url: /ru/net/aspose.slides/presentationheaderfootermanager/setallslidenumbersvisibility/
 ---
 ## PresentationHeaderFooterManager.SetAllSlideNumbersVisibility method
 
-Изменяет видимость всех заполнителей номеров страниц, включая мастер-слайды, макеты слайдов, слайды, мастер-заметок, слайды-заметки и мастер-раздаточный материал.
+Изменяет видимость всех заполнителей номеров страниц, включая мастер-слайды, макеты слайдов, слайды, мастер заметок, слайды заметок и мастер раздаточных материалов.
 
 ```csharp
 public void SetAllSlideNumbersVisibility(bool isVisible)

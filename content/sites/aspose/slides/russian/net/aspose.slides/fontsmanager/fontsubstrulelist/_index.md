@@ -1,14 +1,14 @@
 ---
 title: FontSubstRuleList
 second_title: Справочник по API Aspose.Slides для .NET
-description: Подстановки шрифтов для использования при рендеринге. Чтение/записьIFontSubstRuleCollectionaspose.slides/ifontsubstrulecollection .
+description: Замена шрифта для использования при рендеринге. Чтение/записьIFontSubstRuleCollectionaspose.slides/ifontsubstrulecollection.
 type: docs
 weight: 20
 url: /ru/net/aspose.slides/fontsmanager/fontsubstrulelist/
 ---
 ## FontsManager.FontSubstRuleList property
 
-Подстановки шрифтов для использования при рендеринге. Чтение/запись[`IFontSubstRuleCollection`](../../ifontsubstrulecollection) .
+Замена шрифта для использования при рендеринге. Чтение/запись[`IFontSubstRuleCollection`](../../ifontsubstrulecollection).
 
 ```csharp
 public IFontSubstRuleCollection FontSubstRuleList { get; set; }

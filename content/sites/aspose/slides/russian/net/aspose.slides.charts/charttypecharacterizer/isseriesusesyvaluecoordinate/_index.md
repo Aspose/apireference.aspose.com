@@ -16,7 +16,7 @@ public static bool IsSeriesUsesYValueCoordinate(ChartType seriesType)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| seriesType | ChartType | Тип сериала. |
+| seriesType | ChartType | Тип серии. |
 
 ### Возвращаемое значение
 

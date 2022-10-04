@@ -1,14 +1,14 @@
 ---
 title: Equals
 second_title: Справочник по API Aspose.Slides для .NET
-description: Определяет является ли указанныйAlphaFlooraspose.slides.effects/alphafloor равен текущемуAlphaFlooraspose.slides.effects/alphafloor .
+description: Определяет равен ли указанныйAlphaFlooraspose.slides.effects/alphafloorтекущемуAlphaFloor.
 type: docs
 weight: 10
 url: /ru/net/aspose.slides.effects/alphafloor/equals/
 ---
 ## AlphaFloor.Equals method
 
-Определяет, является ли указанный[`AlphaFloor`](../../alphafloor) равен текущему[`AlphaFloor`](../../alphafloor) .
+Определяет, равен ли указанный[`AlphaFloor`](../../alphafloor)текущемуAlphaFloor.
 
 ```csharp
 public override bool Equals(object obj)
@@ -16,7 +16,7 @@ public override bool Equals(object obj)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| obj | Object | [`AlphaFloor`](../../alphafloor) сравнивать. |
+| obj | Object | [`AlphaFloor`](../../alphafloor)для сравнения. |
 
 ### Возвращаемое значение
 

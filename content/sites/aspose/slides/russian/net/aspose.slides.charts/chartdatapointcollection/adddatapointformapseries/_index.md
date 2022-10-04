@@ -1,14 +1,14 @@
 ---
 title: AddDataPointForMapSeries
 second_title: Справочник по API Aspose.Slides для .NET
-description: Создает новую точку данных и добавляет ее в конец коллекции. Применяется для серий с типом диаграммы Map.
+description: Создает новую точку данных и добавляет ее в конец коллекции. Применимо к сериям с типом диаграммы Карта.
 type: docs
 weight: 180
 url: /ru/net/aspose.slides.charts/chartdatapointcollection/adddatapointformapseries/
 ---
 ## ChartDataPointCollection.AddDataPointForMapSeries method
 
-Создает новую точку данных и добавляет ее в конец коллекции. Применяется для серий с типом диаграммы Map.
+Создает новую точку данных и добавляет ее в конец коллекции. Применимо к сериям с типом диаграммы Карта.
 
 ```csharp
 public IChartDataPoint AddDataPointForMapSeries(IChartDataCell value)

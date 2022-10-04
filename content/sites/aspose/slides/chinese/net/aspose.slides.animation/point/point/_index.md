@@ -33,8 +33,8 @@ public Point(float time, object value, string formula)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | time | Single |  |
-| value | Object |  |
-| formula | String |  |
+| 值 | Object |  |
+| 公式 | String |  |
 
 ### 也可以看看
 

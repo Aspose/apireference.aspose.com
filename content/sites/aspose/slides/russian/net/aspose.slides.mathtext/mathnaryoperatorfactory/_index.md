@@ -30,7 +30,7 @@ public class MathNaryOperatorFactory : IMathNaryOperatorFactory
 
 ### Примечания
 
-Для COM-совместимости
+Для COM-совместимость
 
 ### Смотрите также
 

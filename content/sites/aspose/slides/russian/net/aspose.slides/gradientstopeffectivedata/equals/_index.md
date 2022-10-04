@@ -1,14 +1,14 @@
 ---
 title: Equals
 second_title: Справочник по API Aspose.Slides для .NET
-description: Определяет является ли указанныйGradientStopEffectiveDataaspose.slides/gradientstopeffectivedata равен текущемуGradientStopEffectiveDataaspose.slides/gradientstopeffectivedata .
+description: Определяет равен ли указанныйGradientStopEffectiveDataaspose.slides/gradientstopeffectivedataтекущемуГрадиентСтопЭффективеДата.
 type: docs
 weight: 30
 url: /ru/net/aspose.slides/gradientstopeffectivedata/equals/
 ---
 ## GradientStopEffectiveData.Equals method
 
-Определяет, является ли указанный[`GradientStopEffectiveData`](../../gradientstopeffectivedata) равен текущему[`GradientStopEffectiveData`](../../gradientstopeffectivedata) .
+Определяет, равен ли указанный[`GradientStopEffectiveData`](../../gradientstopeffectivedata)текущемуГрадиентСтопЭффективеДата.
 
 ```csharp
 public override bool Equals(object obj)
@@ -16,7 +16,7 @@ public override bool Equals(object obj)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| obj | Object | [`GradientStopEffectiveData`](../../gradientstopeffectivedata) сравнивать. |
+| obj | Object | [`GradientStopEffectiveData`](../../gradientstopeffectivedata)для сравнения. |
 
 ### Возвращаемое значение
 

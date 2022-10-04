@@ -24,7 +24,7 @@ public OOXMLException()
 
 ## OOXMLException(string) {#constructor_1}
 
-Конструктор, позволяющий добавить сообщение в это исключение.
+Конструктор, позволяющий добавить сообщение к этому исключению.
 
 ```csharp
 public OOXMLException(string message)
@@ -32,7 +32,7 @@ public OOXMLException(string message)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| message | String | сообщение |
+| сообщение | String | сообщение |
 
 ### Смотрите также
 
@@ -52,8 +52,8 @@ public OOXMLException(string message, Exception exception)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| message | String | сообщение |
-| exception | Exception | исходное исключение |
+| сообщение | String | сообщение |
+| исключение | Exception | исходное исключение |
 
 ### Смотрите также
 

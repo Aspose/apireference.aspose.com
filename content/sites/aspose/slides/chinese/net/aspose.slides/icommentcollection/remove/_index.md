@@ -16,13 +16,13 @@ public void Remove(IComment comment)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| comment | IComment | 要从集合中删除的评论。 |
+| comment | IComment | 要从集合中删除的注释。 |
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 如果评论是`无效的` |
+| ArgumentNullException | 如果注释为` null` |
 | [PptxEditException](../../pptxeditexception) | 如果评论已被删除，则抛出。 |
 
 ### 也可以看看

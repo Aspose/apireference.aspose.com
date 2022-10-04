@@ -1,14 +1,14 @@
 ---
 title: SlideImageFormat
 second_title: Справочник по API Aspose.Slides для .NET
-description: Определяет формат в котором изображение слайда будет сохранено для презентации в формате экспорта HTML.
+description: Определяет формат в котором изображение слайда будет сохранено для экспорта презентации в HTML.
 type: docs
 weight: 4040
 url: /ru/net/aspose.slides.export/slideimageformat/
 ---
 ## SlideImageFormat class
 
-Определяет формат, в котором изображение слайда будет сохранено для презентации в формате экспорта HTML.
+Определяет формат, в котором изображение слайда будет сохранено для экспорта презентации в HTML.
 
 ```csharp
 public class SlideImageFormat : ISlideImageFormat

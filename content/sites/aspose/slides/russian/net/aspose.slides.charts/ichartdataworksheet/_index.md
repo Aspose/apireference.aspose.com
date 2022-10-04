@@ -18,8 +18,8 @@ public interface IChartDataWorksheet
 
 | Имя | Описание |
 | --- | --- |
-| [Index](../../aspose.slides.charts/ichartdataworksheet/index) { get; } | Получает индекс. Только для чтенияInt32 . |
-| [Name](../../aspose.slides.charts/ichartdataworksheet/name) { get; } | Получает имя. Только для чтенияString . |
+| [Index](../../aspose.slides.charts/ichartdataworksheet/index) { get; } | Получает индекс. Только для чтенияInt32. |
+| [Name](../../aspose.slides.charts/ichartdataworksheet/name) { get; } | Получает имя. Только чтениеString. |
 
 ### Смотрите также
 

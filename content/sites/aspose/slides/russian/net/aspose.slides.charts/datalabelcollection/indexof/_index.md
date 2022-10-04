@@ -16,11 +16,11 @@ public int IndexOf(IDataLabel value)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| value | IDataLabel | DataLabel найти. |
+| value | IDataLabel | DataLabel для поиска. |
 
 ### Возвращаемое значение
 
-Индекс DataLabel или -1, если DataLabel не из этой коллекции.
+Индекс метки данных или -1, если метка данных не из этой коллекции.
 
 ### Смотрите также
 

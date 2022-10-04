@@ -1,14 +1,14 @@
 ---
 title: Input
 second_title: Aspose.Slides for .NET API 参考
-description: 表示输入元素模板的集合IWebDocument.
+description: 表示IWebDocument的输入元素模板的集合
 type: docs
 weight: 4200
 url: /zh/net/aspose.slides.export.web/input/
 ---
 ## Input class
 
-表示输入元素（模板）的集合!:IWebDocument.
+表示!:IWebDocument的输入元素（模板）的集合。
 
 ```csharp
 public sealed class Input

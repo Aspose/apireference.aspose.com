@@ -20,7 +20,7 @@ public enum MathTopBotPositions
 | --- | --- | --- |
 | NotDefined | `0` | Не определено |
 | Top | `1` | Топ |
-| Bottom | `2` | Низ |
+| Bottom | `2` | Снизу |
 
 ### Смотрите также
 

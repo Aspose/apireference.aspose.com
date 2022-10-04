@@ -17,7 +17,7 @@ public void Reorder(int index, ISlide slide)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | index | Int32 | Целевой индекс. |
-| slide | ISlide | Сдвиньте, чтобы двигаться. |
+| слайд | ISlide | Слайд для перемещения. |
 
 ### Смотрите также
 
@@ -30,7 +30,7 @@ public void Reorder(int index, ISlide slide)
 
 ## Reorder(int, params ISlide[]) {#reorder_1}
 
-Перемещает слайды из коллекции в указанную позицию. Слайды будут размещены, начиная с индекса, в порядке их появления в списке.
+Перемещает слайды из коллекции в указанную позицию. Слайды будут располагаться, начиная с индекса, в порядке их появления в списке.
 
 ```csharp
 public void Reorder(int index, params ISlide[] slides)
@@ -39,7 +39,7 @@ public void Reorder(int index, params ISlide[] slides)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | index | Int32 | Целевой индекс. |
-| slides | ISlide[] | Слайды для перемещения. |
+| слайды | ISlide[] | Слайды для перемещения. |
 
 ### Смотрите также
 

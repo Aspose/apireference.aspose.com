@@ -16,7 +16,7 @@ public IAlphaBiLevel CreateAlphaBiLevel(float threshold)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| threshold | Single | Порог. |
+| порог | Single | Порог. |
 
 ### Возвращаемое значение
 

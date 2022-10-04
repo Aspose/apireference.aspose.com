@@ -1,14 +1,14 @@
 ---
 title: Output
 second_title: Справочник по API Aspose.Slides для .NET
-description: Возвращает набор выходных элементов документа. Только для чтенияOutputaspose.slides.export.web/webdocument/output .
+description: Возвращает набор выходных элементов документа. Только чтениеOutputaspose.slides.export.web/webdocument/output.
 type: docs
 weight: 40
 url: /ru/net/aspose.slides.export.web/webdocument/output/
 ---
 ## WebDocument.Output property
 
-Возвращает набор выходных элементов документа. Только для чтения`Output` .
+Возвращает набор выходных элементов документа. Только чтение`Output`.
 
 ```csharp
 public Output Output { get; }
@@ -29,10 +29,10 @@ using (Presentation pres = new Presentation("pres.pptx"))
     
     WebDocument document = new WebDocument(options);
 
-    // добавить «index.html» в выходные файлы, используя шаблон «index» для его создания и предоставив переменную в качестве модели
+     // добавить «index.html» в выходные файлы, используя шаблон «index» для его создания и переменную pre как model
     document.Output.Add("index.html", "index", pres);
 
-    // ... настроить другие параметры документа и затем сохранить документ
+     // ... настраиваем другие параметры документа и затем сохраняем document
     document.Save();
 }
 ```

@@ -1,14 +1,14 @@
 ---
 title: IMathRadicalFactory
 second_title: Справочник по API Aspose.Slides для .NET
-description: Позволяет создавать математические радикалы
+description: Позволяет создавать математический радикал
 type: docs
 weight: 7720
 url: /ru/net/aspose.slides.mathtext/imathradicalfactory/
 ---
 ## IMathRadicalFactory interface
 
-Позволяет создавать математические радикалы
+Позволяет создавать математический радикал
 
 ```csharp
 public interface IMathRadicalFactory

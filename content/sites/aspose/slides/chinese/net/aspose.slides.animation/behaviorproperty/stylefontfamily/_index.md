@@ -1,14 +1,14 @@
 ---
 title: StyleFontFamily
 second_title: Aspose.Slides for .NET API 参考
-description: 代表 style.fontFamily 属性
+description: 表示 style.fontFamily 属性
 type: docs
 weight: 1060
 url: /zh/net/aspose.slides.animation/behaviorproperty/stylefontfamily/
 ---
 ## BehaviorProperty.StyleFontFamily property
 
-代表 'style.fontFamily' 属性
+表示 'style.fontFamily' 属性
 
 ```csharp
 public static BehaviorProperty StyleFontFamily { get; }

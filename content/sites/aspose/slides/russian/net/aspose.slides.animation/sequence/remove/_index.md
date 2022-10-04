@@ -16,7 +16,7 @@ public void Remove(IEffect item)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| item | IEffect | Эффект удалить. |
+| item | IEffect | Эффект для удаления. |
 
 ### Смотрите также
 

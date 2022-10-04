@@ -16,7 +16,7 @@ public IMathSubscriptElement SetSubscript(IMathElement subscript)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| subscript | IMathElement | Нижний индекс (нижний индекс справа) |
+| subscript | IMathElement | Индекс (нижний индекс справа) |
 
 ### Возвращаемое значение
 
@@ -53,7 +53,7 @@ public IMathSubscriptElement SetSubscript(string subscript)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| subscript | String | Нижний индекс (нижний индекс справа) |
+| subscript | String | Индекс (нижний индекс справа) |
 
 ### Возвращаемое значение
 

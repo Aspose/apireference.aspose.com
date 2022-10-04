@@ -1,14 +1,14 @@
 ---
 title: CreateMathGroupingCharacter
 second_title: Справочник по API Aspose.Slides для .NET
-description: Создает математическую группировку character
+description: Создает математический символ группировки
 type: docs
 weight: 20
 url: /ru/net/aspose.slides.mathtext/mathgroupingcharacterfactory/createmathgroupingcharacter/
 ---
 ## CreateMathGroupingCharacter(IMathElement, char, MathTopBotPositions, MathTopBotPositions) {#createmathgroupingcharacter_1}
 
-Создает математическую группировку character
+Создает математический символ группировки
 
 ```csharp
 public IMathGroupingCharacter CreateMathGroupingCharacter(IMathElement element, char character, 
@@ -17,9 +17,9 @@ public IMathGroupingCharacter CreateMathGroupingCharacter(IMathElement element, 
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| element | IMathElement | математический элемент для применения символа группировки |
-| character | Char | группирующий символ |
-| position | MathTopBotPositions | позиция группирующего символа |
+| element | IMathElement | математический элемент для применения группировки символ |
+| символ | Char | символ группировки |
+| position | MathTopBotPositions | позиция символа группировки |
 | verticalJustification | MathTopBotPositions | вертикальное выравнивание |
 
 ### Возвращаемое значение
@@ -39,7 +39,7 @@ public IMathGroupingCharacter CreateMathGroupingCharacter(IMathElement element, 
 
 ## CreateMathGroupingCharacter(IMathElement) {#createmathgroupingcharacter}
 
-Создает математическую группировку character
+Создает математический символ группировки
 
 ```csharp
 public IMathGroupingCharacter CreateMathGroupingCharacter(IMathElement element)
@@ -47,11 +47,11 @@ public IMathGroupingCharacter CreateMathGroupingCharacter(IMathElement element)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| element | IMathElement | математический элемент для применения символа группировки |
+| element | IMathElement | математический элемент для применения группировки символ |
 
 ### Возвращаемое значение
 
-новый группирующий символьный элемент
+новый группирующий элемент символа
 
 ### Смотрите также
 

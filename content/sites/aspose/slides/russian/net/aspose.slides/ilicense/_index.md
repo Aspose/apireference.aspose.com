@@ -1,14 +1,14 @@
 ---
 title: ILicense
 second_title: Справочник по API Aspose.Slides для .NET
-description: Предоставляет методы лицензирования компонента.
+description: Предоставляет методы для лицензирования компонента.
 type: docs
 weight: 5700
 url: /ru/net/aspose.slides/ilicense/
 ---
 ## ILicense interface
 
-Предоставляет методы лицензирования компонента.
+Предоставляет методы для лицензирования компонента.
 
 ```csharp
 public interface ILicense

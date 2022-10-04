@@ -16,7 +16,7 @@ public IMathSuperscriptElement SetSuperscript(IMathElement superscript)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| superscript | IMathElement | Верхний индекс (верхний индекс справа) |
+| верхнийиндекс | IMathElement | Верхний индекс (верхний индекс справа) |
 
 ### Возвращаемое значение
 
@@ -52,7 +52,7 @@ public IMathSuperscriptElement SetSuperscript(string superscript)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| superscript | String | Верхний индекс (верхний индекс справа) |
+| верхнийиндекс | String | Верхний индекс (верхний индекс справа) |
 
 ### Возвращаемое значение
 

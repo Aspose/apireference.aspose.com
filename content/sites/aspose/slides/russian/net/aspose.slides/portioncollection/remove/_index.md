@@ -1,14 +1,14 @@
 ---
 title: Remove
 second_title: Справочник по API Aspose.Slides для .NET
-description: Удаляет первое вхождение определенного объекта изICollection .
+description: Удаляет первое вхождение определенного объекта изICollection.
 type: docs
 weight: 110
 url: /ru/net/aspose.slides/portioncollection/remove/
 ---
 ## PortionCollection.Remove method
 
-Удаляет первое вхождение определенного объекта изICollection .
+Удаляет первое вхождение определенного объекта изICollection.
 
 ```csharp
 public bool Remove(IPortion item)
@@ -16,17 +16,17 @@ public bool Remove(IPortion item)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| item | IPortion | Объект, который необходимо удалить изICollection. |
+| item | IPortion | Объект для удаления изICollection. |
 
 ### Возвращаемое значение
 
-верно, если*item* был успешно удален изICollection ; в противном случае ложно. Этот метод также возвращает false, если*item* в оригинале не нашелICollection .
+true, если*item*был успешно удален изICollection; в противном случае ложно. Этот метод также возвращает false, если*item*не найден в исходномICollection.
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| NotSupportedException | ICollection доступен только для чтения. |
+| NotSupportedException | КоллекцияICollectionдоступна только для чтения. |
 
 ### Смотрите также
 

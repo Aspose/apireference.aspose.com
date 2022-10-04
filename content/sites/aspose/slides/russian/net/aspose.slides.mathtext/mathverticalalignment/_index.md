@@ -1,14 +1,14 @@
 ---
 title: MathVerticalAlignment
 second_title: Справочник по API Aspose.Slides для .NET
-description: Вертикальное выравнивание
+description: Выравнивание по вертикали
 type: docs
 weight: 8320
 url: /ru/net/aspose.slides.mathtext/mathverticalalignment/
 ---
 ## MathVerticalAlignment enumeration
 
-Вертикальное выравнивание
+Выравнивание по вертикали
 
 ```csharp
 public enum MathVerticalAlignment
@@ -21,7 +21,7 @@ public enum MathVerticalAlignment
 | NotDefined | `0` | Значение не определено |
 | Top | `1` | Топ |
 | Center | `2` | Центр |
-| Bottom | `3` | Низ |
+| Bottom | `3` | Снизу |
 
 ### Смотрите также
 

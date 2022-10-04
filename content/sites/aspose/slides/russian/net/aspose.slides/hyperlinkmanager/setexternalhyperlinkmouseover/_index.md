@@ -16,7 +16,7 @@ public IHyperlink SetExternalHyperlinkMouseOver(string url)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| url | String | URL-адрес гиперссылки. |
+| url | String | URL гиперссылки. |
 
 ### Возвращаемое значение
 

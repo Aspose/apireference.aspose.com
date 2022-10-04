@@ -16,8 +16,8 @@ public void RenderToGraphics(IRenderingOptions options, Graphics graphics)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| options | IRenderingOptions | Варианты рендеринга. |
-| graphics | Graphics | Объект, на который выполняется рендеринг. |
+| options | IRenderingOptions | Параметры рендеринга. |
+| graphics | Graphics | Объект для рендеринга. |
 
 ### Исключения
 
@@ -45,10 +45,10 @@ public void RenderToGraphics(IRenderingOptions options, Graphics graphics, float
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| options | IRenderingOptions | Варианты рендеринга. |
-| graphics | Graphics | Объект, на который выполняется рендеринг. |
-| scaleX | Single | Масштаб рендеринга слайда (1,0 — 100 %) в направлении оси x. |
-| scaleY | Single | Масштаб рендеринга слайда (1,0 – 100 %) по оси Y. |
+| options | IRenderingOptions | Параметры рендеринга. |
+| graphics | Graphics | Объект для рендеринга. |
+| scaleX | Single | Масштаб рендеринга слайда (1.0 равен 100%) в направлении оси x. |
+| scaleY | Single | Масштаб рендеринга слайда (1.0 равен 100%) в направлении оси Y. |
 
 ### Исключения
 
@@ -75,9 +75,9 @@ public void RenderToGraphics(IRenderingOptions options, Graphics graphics, Size 
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| options | IRenderingOptions | Варианты рендеринга. |
-| graphics | Graphics | Объект, на который выполняется рендеринг. |
-| renderingSize | Size | Максимальные размеры (в пикселях), которые может занимать отображаемый слайд. |
+| options | IRenderingOptions | Параметры рендеринга. |
+| graphics | Graphics | Объект для рендеринга. |
+| renderingSize | Size | Максимальные размеры (в пикселях), которые может занимать визуализируемый слайд. |
 
 ### Исключения
 

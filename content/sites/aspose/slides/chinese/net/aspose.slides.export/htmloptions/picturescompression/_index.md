@@ -1,14 +1,14 @@
 ---
 title: PicturesCompression
 second_title: Aspose.Slides for .NET API 参考
-description: 代表图片压缩级别
+description: 代表图片压缩等级
 type: docs
 weight: 60
 url: /zh/net/aspose.slides.export/htmloptions/picturescompression/
 ---
 ## HtmlOptions.PicturesCompression property
 
-代表图片压缩级别
+代表图片压缩等级
 
 ```csharp
 public PicturesCompression PicturesCompression { get; set; }

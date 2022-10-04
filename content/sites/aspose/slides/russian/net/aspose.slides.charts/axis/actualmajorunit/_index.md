@@ -1,14 +1,14 @@
 ---
 title: ActualMajorUnit
 second_title: Справочник по API Aspose.Slides для .NET
-description: Определяет фактическую основную единицу оси. Вызовите метод IChart.ValidateChartLayout ранее чтобы получить фактическое значение.
+description: Задает фактическую основную единицу оси. Вызовите метод IChart.ValidateChartLayout ранее чтобы получить фактическое значение.
 type: docs
 weight: 10
 url: /ru/net/aspose.slides.charts/axis/actualmajorunit/
 ---
 ## Axis.ActualMajorUnit property
 
-Определяет фактическую основную единицу оси. Вызовите метод IChart.ValidateChartLayout() ранее, чтобы получить фактическое значение.
+Задает фактическую основную единицу оси. Вызовите метод IChart.ValidateChartLayout() ранее, чтобы получить фактическое значение.
 
 ```csharp
 public double ActualMajorUnit { get; }

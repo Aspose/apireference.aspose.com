@@ -32,9 +32,9 @@ public Point(float time, object value, string formula)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| time | Single |  |
-| value | Object |  |
-| formula | String |  |
+| время | Single |  |
+| значение | Object |  |
+| формула | String |  |
 
 ### Смотрите также
 

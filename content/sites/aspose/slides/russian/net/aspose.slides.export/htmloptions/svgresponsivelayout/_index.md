@@ -1,14 +1,14 @@
 ---
 title: SvgResponsiveLayout
 second_title: Справочник по API Aspose.Slides для .NET
-description: Истинно чтобы исключить атрибуты ширины и высоты из контейнера svg  это сделает макет отзывчивым. False - иначе. Чтение/записьBoolean .
+description: True чтобы исключить атрибуты ширины и высоты из контейнера svg  это сделает макет отзывчивым. Ложь - иначе. Чтение/записьBoolean.
 type: docs
 weight: 90
 url: /ru/net/aspose.slides.export/htmloptions/svgresponsivelayout/
 ---
 ## HtmlOptions.SvgResponsiveLayout property
 
-Истинно, чтобы исключить атрибуты ширины и высоты из контейнера svg — это сделает макет отзывчивым. False - иначе. Чтение/записьBoolean .
+True, чтобы исключить атрибуты ширины и высоты из контейнера svg — это сделает макет отзывчивым. Ложь - иначе. Чтение/записьBoolean.
 
 ```csharp
 public bool SvgResponsiveLayout { get; set; }

@@ -16,7 +16,7 @@ public IMathRadical Radical(IMathElement degree)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| degree | IMathElement | 激进的论据 |
+| degree | IMathElement | Radical |
 
 ### 返回值
 
@@ -24,7 +24,7 @@ public IMathRadical Radical(IMathElement degree)
 
 ### 例子
 
-示例：
+示例:
 
 ```csharp
 [C#]
@@ -53,7 +53,7 @@ public IMathRadical Radical(string degree)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| degree | String | 激进的论据 |
+| degree | String | Radical |
 
 ### 返回值
 
@@ -61,7 +61,7 @@ public IMathRadical Radical(string degree)
 
 ### 例子
 
-示例：
+示例:
 
 ```csharp
 [C#]

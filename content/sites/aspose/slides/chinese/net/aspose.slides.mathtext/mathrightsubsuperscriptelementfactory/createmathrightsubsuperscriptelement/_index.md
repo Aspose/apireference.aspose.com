@@ -1,14 +1,14 @@
 ---
 title: CreateMathRightSubSuperscriptElement
 second_title: Aspose.Slides for .NET API 参考
-description: 创建 IMathRightSubSuperscriptElementFactory 的实例
+description: 创建 IMathRightSubSuperscriptElementFactory
 type: docs
 weight: 20
 url: /zh/net/aspose.slides.mathtext/mathrightsubsuperscriptelementfactory/createmathrightsubsuperscriptelement/
 ---
 ## MathRightSubSuperscriptElementFactory.CreateMathRightSubSuperscriptElement method
 
-创建 IMathRightSubSuperscriptElementFactory 的实例
+创建 IMathRightSubSuperscriptElementFactory
 
 ```csharp
 public IMathRightSubSuperscriptElement CreateMathRightSubSuperscriptElement(IMathElement baseArg, 
@@ -19,11 +19,11 @@ public IMathRightSubSuperscriptElement CreateMathRightSubSuperscriptElement(IMat
 | --- | --- | --- |
 | baseArg | IMathElement | 应用索引的基本参数 |
 | subScript | IMathElement | 右下索引 |
-| superScript | IMathElement | 右上角索引 |
+| superScript | IMathElement | 右上索引 |
 
 ### 返回值
 
-新的 IMathLeftSubSuperscript 元素
+新的 IMathLeftSubSuperscriptElement
 
 ### 也可以看看
 

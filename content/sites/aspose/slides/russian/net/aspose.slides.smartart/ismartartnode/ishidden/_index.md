@@ -1,14 +1,14 @@
 ---
 title: IsHidden
 second_title: Справочник по API Aspose.Slides для .NET
-description: Возвращает true если этот узел является скрытым узлом в модели данных. Только для чтенияBoolean .
+description: Возвращает true если этот узел является скрытым узлом в модели данных. Только чтениеBoolean.
 type: docs
 weight: 40
 url: /ru/net/aspose.slides.smartart/ismartartnode/ishidden/
 ---
 ## ISmartArtNode.IsHidden property
 
-Возвращает true, если этот узел является скрытым узлом в модели данных. Только для чтенияBoolean .
+Возвращает true, если этот узел является скрытым узлом в модели данных. Только чтениеBoolean.
 
 ```csharp
 public bool IsHidden { get; }

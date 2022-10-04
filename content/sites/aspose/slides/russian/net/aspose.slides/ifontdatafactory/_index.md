@@ -1,14 +1,14 @@
 ---
 title: IFontDataFactory
 second_title: Справочник по API Aspose.Slides для .NET
-description: Фабричный интерфейс FontData
+description: Интерфейс фабрики FontData
 type: docs
 weight: 5310
 url: /ru/net/aspose.slides/ifontdatafactory/
 ---
 ## IFontDataFactory interface
 
-Фабричный интерфейс FontData
+Интерфейс фабрики FontData
 
 ```csharp
 public interface IFontDataFactory

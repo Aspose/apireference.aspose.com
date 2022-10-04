@@ -16,7 +16,7 @@ public static decimal GetConsumptionQuantity()
 
 ### Возвращаемое значение
 
-объем потребления
+количество потребления
 
 ### Смотрите также
 

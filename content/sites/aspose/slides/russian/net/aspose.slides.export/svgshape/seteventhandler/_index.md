@@ -1,14 +1,14 @@
 ---
 title: SetEventHandler
 second_title: Справочник по API Aspose.Slides для .NET
-description: Устанавливает обработчик событий для shape
+description: Устанавливает обработчик событий для фигуры
 type: docs
 weight: 20
 url: /ru/net/aspose.slides.export/svgshape/seteventhandler/
 ---
 ## SvgShape.SetEventHandler method
 
-Устанавливает обработчик событий для shape
+Устанавливает обработчик событий для фигуры
 
 ```csharp
 public void SetEventHandler(SvgEvent eventType, string handler)

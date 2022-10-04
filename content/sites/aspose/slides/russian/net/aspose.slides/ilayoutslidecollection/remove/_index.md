@@ -22,11 +22,11 @@ public void Remove(ILayoutSlide value)
 
 | исключение | условие |
 | --- | --- |
-| [PptxEditException](../../pptxeditexception) | Выдается, если в презентации используется макет (его свойство HasDependingSlides равно true). |
+| [PptxEditException](../../pptxeditexception) | Вызывается, если в презентации используется макет (его свойство HasDependingSlides равно true). |
 
 ### Примечания
 
-1) Чтобы избежать выбрасывания PptxEditException, проверьте свойство HasDependingSlides макета перед. 2) Вы также можете использовать[`Remove`](../../ilayoutslide/remove) способ упростить код.
+1) Чтобы избежать выбрасывания исключения PptxEditException, предварительно проверьте свойство HasDependingSlides макета. 2) Вы также можете использовать метод[`Remove`](../../ilayoutslide/remove)для упрощения кода.
 
 ### Смотрите также
 

@@ -20,7 +20,7 @@ public IMathElement Degree { get; }
 
 ```csharp
 [C#]
-IMathRadical radical = new MathematicalText("x").Radical("3"); // кубический корень
+IMathRadical radical = new MathematicalText("x").Radical("3");  // куб root
 IMathElement degreeElem = radical.Degree;
 ```
 

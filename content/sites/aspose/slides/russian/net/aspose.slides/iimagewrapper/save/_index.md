@@ -36,7 +36,7 @@ public void Save(Stream stream, PPImageFormat imageFormat)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| stream | Stream | Поток для сохранения изображенияStream |
+| stream | Stream | Поток для сохранения образаStream |
 | imageFormat | PPImageFormat | Формат изображения[`PPImageFormat`](../../ppimageformat) |
 
 ### Смотрите также

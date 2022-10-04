@@ -18,7 +18,7 @@ public interface IColumnFormat
 
 | Имя | Описание |
 | --- | --- |
-| [GetEffective](../../aspose.slides/icolumnformat/geteffective)() | Получает эффективные свойства форматирования столбца таблицы с примененными стилями наследования и таблицы. |
+| [GetEffective](../../aspose.slides/icolumnformat/geteffective)() | Получает эффективные свойства форматирования столбцов таблицы с применением стилей наследования и таблиц. |
 
 ### Смотрите также
 

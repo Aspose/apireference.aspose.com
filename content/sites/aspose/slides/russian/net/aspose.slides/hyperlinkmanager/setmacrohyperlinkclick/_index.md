@@ -1,14 +1,14 @@
 ---
 title: SetMacroHyperlinkClick
 second_title: Справочник по API Aspose.Slides для .NET
-description: Установить гиперссылку макроса одним кликом.
+description: Установить гиперссылку макроса по клику.
 type: docs
 weight: 70
 url: /ru/net/aspose.slides/hyperlinkmanager/setmacrohyperlinkclick/
 ---
 ## HyperlinkManager.SetMacroHyperlinkClick method
 
-Установить гиперссылку макроса одним кликом.
+Установить гиперссылку макроса по клику.
 
 ```csharp
 public IHyperlink SetMacroHyperlinkClick(string macroName)

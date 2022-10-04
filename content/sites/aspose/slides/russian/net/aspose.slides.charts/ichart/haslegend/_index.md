@@ -1,14 +1,14 @@
 ---
 title: HasLegend
 second_title: Справочник по API Aspose.Slides для .NET
-description: Определяет наличие легенды на диаграмме. Чтение/записьBoolean .
+description: Определяет есть ли у диаграммы легенда. Чтение/записьBoolean.
 type: docs
 weight: 120
 url: /ru/net/aspose.slides.charts/ichart/haslegend/
 ---
 ## IChart.HasLegend property
 
-Определяет наличие легенды на диаграмме. Чтение/записьBoolean .
+Определяет, есть ли у диаграммы легенда. Чтение/записьBoolean.
 
 ```csharp
 public bool HasLegend { get; set; }

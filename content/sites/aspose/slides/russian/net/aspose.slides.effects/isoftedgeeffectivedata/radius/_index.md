@@ -1,14 +1,14 @@
 ---
 title: Radius
 second_title: Справочник по API Aspose.Slides для .NET
-description: Определяет радиус размытия применяемый к краям. Только для чтенияDouble .
+description: Указывает радиус размытия применяемый к краям. Только для чтенияDouble.
 type: docs
 weight: 20
 url: /ru/net/aspose.slides.effects/isoftedgeeffectivedata/radius/
 ---
 ## ISoftEdgeEffectiveData.Radius property
 
-Определяет радиус размытия, применяемый к краям. Только для чтенияDouble .
+Указывает радиус размытия, применяемый к краям. Только для чтенияDouble.
 
 ```csharp
 public double Radius { get; }

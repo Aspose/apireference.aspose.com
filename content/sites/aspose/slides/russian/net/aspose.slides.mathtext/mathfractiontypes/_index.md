@@ -1,14 +1,14 @@
 ---
 title: MathFractionTypes
 second_title: Справочник по API Aspose.Slides для .NET
-description: Типы фракций
+description: Типы дробей
 type: docs
 weight: 7990
 url: /ru/net/aspose.slides.mathtext/mathfractiontypes/
 ---
 ## MathFractionTypes enumeration
 
-Типы фракций
+Типы дробей
 
 ```csharp
 public enum MathFractionTypes
@@ -18,7 +18,7 @@ public enum MathFractionTypes
 
 | Имя | Ценность | Описание |
 | --- | --- | --- |
-| Bar | `1` | Фракция бара |
+| Bar | `1` | Bar Fraction |
 | Skewed | `2` | Перекос |
 | Linear | `3` | Линейная дробь |
 | NoBar | `4` | Дробь без баров (стек) |

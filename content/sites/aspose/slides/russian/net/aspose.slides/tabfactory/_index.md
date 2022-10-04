@@ -28,7 +28,7 @@ public class TabFactory : ITabFactory
 
 ### Примечания
 
-Для COM-совместимости.
+Для совместимости с COM.
 
 ### Смотрите также
 

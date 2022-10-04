@@ -21,7 +21,7 @@ public static ITextFrame[] GetAllTextFrames(IPresentation pres, bool withMasters
 
 ### Возвращаемое значение
 
-Массив[`TextFrame`](../../../aspose.slides/textframe) объекты.
+Массив объектов[`TextFrame`](../../../aspose.slides/textframe).
 
 ### Смотрите также
 

@@ -16,7 +16,7 @@ public IHSL AddHSLEffect(float hue, float saturation, float luminance)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| hue | Single | Количество градусов, на которое настраивается оттенок. |
+| hue | Single | Число градусов, на которое регулируется оттенок. |
 | saturation | Single | Процент, на который регулируется насыщенность. |
 | luminance | Single | Процент, на который регулируется яркость. |
 

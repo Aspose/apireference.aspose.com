@@ -1,14 +1,14 @@
 ---
 title: EastAsianLineBreak
 second_title: Справочник по API Aspose.Slides для .NET
-description: Определяет используется ли восточноазиатский разрыв строки в абзаце. Только для чтенияBoolean .
+description: Определяет используется ли восточноазиатский разрыв строки в абзаце. Только чтениеBoolean.
 type: docs
 weight: 60
 url: /ru/net/aspose.slides/iparagraphformateffectivedata/eastasianlinebreak/
 ---
 ## IParagraphFormatEffectiveData.EastAsianLineBreak property
 
-Определяет, используется ли восточноазиатский разрыв строки в абзаце. Только для чтенияBoolean .
+Определяет, используется ли восточноазиатский разрыв строки в абзаце. Только чтениеBoolean.
 
 ```csharp
 public bool EastAsianLineBreak { get; }

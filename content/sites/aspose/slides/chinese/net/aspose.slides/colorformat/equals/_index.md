@@ -16,7 +16,7 @@ public override bool Equals(object obj)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| obj | Object | 目的。 |
+| obj | Object | 对象。 |
 
 ### 返回值
 

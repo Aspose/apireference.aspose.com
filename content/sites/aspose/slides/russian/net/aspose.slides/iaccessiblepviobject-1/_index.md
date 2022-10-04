@@ -1,14 +1,14 @@
 ---
 title: IAccessiblePVIObjectT
 second_title: Справочник по API Aspose.Slides для .NET
-description: Представляет тип который может возвращать соответствующие действующие данные с применением наследования.
+description: Представляет тип который может возвращать соответствующие действующие данные с примененным наследованием.
 type: docs
 weight: 4690
 url: /ru/net/aspose.slides/iaccessiblepviobject-1/
 ---
 ## IAccessiblePVIObject&lt;T&gt; interface
 
-Представляет тип, который может возвращать соответствующие действующие данные с применением наследования.
+Представляет тип, который может возвращать соответствующие действующие данные с примененным наследованием.
 
 ```csharp
 public interface IAccessiblePVIObject<T>
@@ -17,7 +17,7 @@ public interface IAccessiblePVIObject<T>
 
 | Параметр | Описание |
 | --- | --- |
-| T | Тип эффективных данных. |
+| T | Тип действующих данных. |
 
 ## Методы
 

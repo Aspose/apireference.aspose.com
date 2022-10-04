@@ -17,7 +17,7 @@ public IOleObjectFrame AddOleObjectFrame(float x, float y, float width, float he
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| x | Single | Координата X нового кадра OLE. |
+| x | Single | X координата нового кадра OLE. |
 | y | Single | Координата Y нового кадра OLE. |
 | width | Single | Ширина нового кадра OLE. |
 | height | Single | Высота нового кадра OLE. |
@@ -25,11 +25,11 @@ public IOleObjectFrame AddOleObjectFrame(float x, float y, float width, float he
 
 ### Возвращаемое значение
 
-Создан OLE-объект.
+Создан объект OLE.
 
 ### Примеры
 
-В этом примере показано добавление объекта OLE в конец коллекции:
+Этот пример демонстрирует добавление объекта OLE в конец коллекции:
 
 ```csharp
 [C#]
@@ -59,7 +59,7 @@ public IOleObjectFrame AddOleObjectFrame(float x, float y, float width, float he
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| x | Single | Координата X нового кадра OLE. |
+| x | Single | X координата нового кадра OLE. |
 | y | Single | Координата Y нового кадра OLE. |
 | width | Single | Ширина нового кадра OLE. |
 | height | Single | Высота нового кадра OLE. |
@@ -68,7 +68,7 @@ public IOleObjectFrame AddOleObjectFrame(float x, float y, float width, float he
 
 ### Возвращаемое значение
 
-Создан OLE-объект.
+Создан объект OLE.
 
 ### Смотрите также
 

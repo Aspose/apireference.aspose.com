@@ -1,14 +1,14 @@
 ---
 title: WriteFont
 second_title: Справочник по API Aspose.Slides для .NET
-description: Записывает данные в формате base64 в сам документ HTML
+description: Записывает данные в формате base64 в сам HTML-документ
 type: docs
 weight: 50
 url: /ru/net/aspose.slides.export/embedallfontshtmlcontroller/writefont/
 ---
 ## EmbedAllFontsHtmlController.WriteFont method
 
-Записывает данные в формате base64 в сам документ HTML
+Записывает данные в формате base64 в сам HTML-документ
 
 ```csharp
 public virtual void WriteFont(IHtmlGenerator generator, IFontData originalFont, 
@@ -17,9 +17,9 @@ public virtual void WriteFont(IHtmlGenerator generator, IFontData originalFont,
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| generator | IHtmlGenerator | HTML-генератор |
+| generator | IHtmlGenerator | Генератор HTML |
 | originalFont | IFontData | Шрифт для сериализации |
-| substitutedFont | IFontData | Замещенный шрифт (если произошла замена шрифта), в противном случае null |
+| replaceFont | IFontData | Замещенный шрифт (если произошла замена шрифта), null иначе |
 | fontStyle | String | Стиль шрифта |
 | fontWeight | String | Вес шрифта |
 | fontData | Byte[] | Данные шрифта |

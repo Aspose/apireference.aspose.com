@@ -1,14 +1,14 @@
 ---
 title: Item
 second_title: Aspose.Slides for .NET API 参考
-description: 按索引返回调整值
+description: 按索引返回调整
 type: docs
 weight: 30
 url: /zh/net/aspose.slides/adjustvaluecollection/item/
 ---
 ## AdjustValueCollection indexer
 
-按索引返回调整值。
+按索引返回调整。
 
 ```csharp
 public IAdjustValue this[int index] { get; }
@@ -16,11 +16,11 @@ public IAdjustValue this[int index] { get; }
 
 | 范围 | 描述 |
 | --- | --- |
-| index | 调整指标。 |
+| index | 调整的索引。 |
 
 ### 返回值
 
-[`AdjustValue`](../../adjustvalue).
+[`AdjustValue`](../../adjustvalue)。
 
 ### 也可以看看
 

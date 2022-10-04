@@ -1,14 +1,14 @@
 ---
 title: Name
 second_title: Справочник по API Aspose.Slides для .NET
-description: Имя модуля. Только для чтенияString .
+description: Имя модуля. Только чтениеString.
 type: docs
 weight: 10
 url: /ru/net/aspose.slides.vba/ivbamodule/name/
 ---
 ## IVbaModule.Name property
 
-Имя модуля. Только для чтенияString .
+Имя модуля. Только чтениеString.
 
 ```csharp
 public string Name { get; }

@@ -16,11 +16,11 @@ public ILineFormatEffectiveData GetEffective()
 
 ### 返回值
 
-一个[`ILineFormatEffectiveData`](../../ilineformateffectivedata).
+A[`ILineFormatEffectiveData`](../../ilineformateffectivedata)。
 
 ### 例子
 
-这个例子演示了获取形状的有效线格式属性。
+此示例演示了获取形状的有效线格式属性。
 
 ```csharp
 [C#]

@@ -1,14 +1,14 @@
 ---
 title: Position
 second_title: Aspose.Slides for .NET API 参考
-description: 条线的位置 默认值Top
+description: 柱线的位置 默认值顶部
 type: docs
 weight: 30
 url: /zh/net/aspose.slides.mathtext/mathbar/position/
 ---
 ## MathBar.Position property
 
-条线的位置。 默认值：Top
+柱线的位置。 默认值:顶部
 
 ```csharp
 public MathTopBotPositions Position { get; set; }
@@ -16,7 +16,7 @@ public MathTopBotPositions Position { get; set; }
 
 ### 例子
 
-示例：
+示例:
 
 ```csharp
 [C#]

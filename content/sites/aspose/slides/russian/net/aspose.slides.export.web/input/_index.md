@@ -1,14 +1,14 @@
 ---
 title: Input
 second_title: Справочник по API Aspose.Slides для .NET
-description: Представляет набор входных элементов шаблонов дляIWebDocument .
+description: Представляет набор элементов ввода шаблонов дляIWebDocument.
 type: docs
 weight: 4200
 url: /ru/net/aspose.slides.export.web/input/
 ---
 ## Input class
 
-Представляет набор входных элементов (шаблонов) для!:IWebDocument .
+Представляет набор элементов ввода (шаблонов) для!:IWebDocument.
 
 ```csharp
 public sealed class Input

@@ -16,7 +16,7 @@ public static bool operator !=(FieldType a, FieldType b)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| a | FieldType | Первый FieldType для сравнения. |
+| a | FieldType | Первый тип поля для сравнения. |
 | b | FieldType | Второй тип поля для сравнения. |
 
 ### Возвращаемое значение

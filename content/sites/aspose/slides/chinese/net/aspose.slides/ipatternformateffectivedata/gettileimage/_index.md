@@ -16,12 +16,12 @@ public Bitmap GetTileImage(Color background, Color foreground)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| background | Color | 的背景Color为模式。 |
-| foreground | Color | 前景Color为模式。 |
+| background | Color | 背景Color用于图案。 |
+| foreground | Color | 图案的前景Color。 |
 
 ### 返回值
 
-瓦Bitmap.
+平铺Bitmap。
 
 ### 也可以看看
 

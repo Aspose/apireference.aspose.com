@@ -24,7 +24,7 @@ public CannotCombine2DAnd3DChartsException()
 
 ## CannotCombine2DAnd3DChartsException(string) {#constructor_1}
 
-Конструктор, позволяющий добавить сообщение в это исключение.
+Конструктор, позволяющий добавить сообщение к этому исключению.
 
 ```csharp
 public CannotCombine2DAnd3DChartsException(string message)
@@ -32,7 +32,7 @@ public CannotCombine2DAnd3DChartsException(string message)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| message | String | сообщение |
+| сообщение | String | сообщение |
 
 ### Смотрите также
 
@@ -52,8 +52,8 @@ public CannotCombine2DAnd3DChartsException(string message, Exception exception)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| message | String | сообщение |
-| exception | Exception | исходное исключение |
+| сообщение | String | сообщение |
+| исключение | Exception | исходное исключение |
 
 ### Смотрите также
 

@@ -1,14 +1,14 @@
 ---
 title: Integral
 second_title: Справочник по API Aspose.Slides для .NET
-description: Берет интеграл
+description: Принимает интеграл
 type: docs
 weight: 70
 url: /ru/net/aspose.slides.mathtext/mathelementbase/integral/
 ---
 ## Integral(MathIntegralTypes, IMathElement, IMathElement, MathLimitLocations) {#integral_2}
 
-Берет интеграл
+Принимает интеграл
 
 ```csharp
 public IMathNaryOperator Integral(MathIntegralTypes integralType, IMathElement lowerLimit, 
@@ -17,10 +17,10 @@ public IMathNaryOperator Integral(MathIntegralTypes integralType, IMathElement l
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| integralType | MathIntegralTypes | Интегральный тип |
+| integralType | MathIntegralTypes | Тип интеграла |
 | lowerLimit | IMathElement | Нижний предел интеграла |
 | upperLimit | IMathElement | Верхний предел интеграла |
-| limitLocations | MathLimitLocations | расположение пределов |
+| limitLocations | MathLimitLocations | местоположение пределов |
 
 ### Возвращаемое значение
 
@@ -52,7 +52,7 @@ IMathNaryOperator integral = baseElement.Integral(MathIntegralTypes.Simple, lowe
 
 ## Integral(MathIntegralTypes, IMathElement, IMathElement) {#integral_1}
 
-Берет интеграл
+Принимает интеграл
 
 ```csharp
 public IMathNaryOperator Integral(MathIntegralTypes integralType, IMathElement lowerLimit, 
@@ -61,7 +61,7 @@ public IMathNaryOperator Integral(MathIntegralTypes integralType, IMathElement l
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| integralType | MathIntegralTypes | Интегральный тип |
+| integralType | MathIntegralTypes | Тип интеграла |
 | lowerLimit | IMathElement | Нижний предел интеграла |
 | upperLimit | IMathElement | Верхний предел интеграла |
 
@@ -102,7 +102,7 @@ public IMathNaryOperator Integral(MathIntegralTypes integralType)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| integralType | MathIntegralTypes | Интегральный тип |
+| integralType | MathIntegralTypes | Тип интеграла |
 
 ### Возвращаемое значение
 
@@ -130,7 +130,7 @@ IMathNaryOperator integral = baseElement.Integral(MathIntegralTypes.Contour);
 
 ## Integral(MathIntegralTypes, string, string, MathLimitLocations) {#integral_4}
 
-Берет интеграл
+Принимает интеграл
 
 ```csharp
 public IMathNaryOperator Integral(MathIntegralTypes integralType, string lowerLimit, 
@@ -139,10 +139,10 @@ public IMathNaryOperator Integral(MathIntegralTypes integralType, string lowerLi
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| integralType | MathIntegralTypes | Интегральный тип |
+| integralType | MathIntegralTypes | Тип интеграла |
 | lowerLimit | String | Нижний предел интеграла |
 | upperLimit | String | Верхний предел интеграла |
-| limitLocations | MathLimitLocations | расположение пределов |
+| limitLocations | MathLimitLocations | местоположение пределов |
 
 ### Возвращаемое значение
 
@@ -171,7 +171,7 @@ IMathNaryOperator integral = baseElement.Integral(MathIntegralTypes.Simple, "1",
 
 ## Integral(MathIntegralTypes, string, string) {#integral_3}
 
-Берет интеграл
+Принимает интеграл
 
 ```csharp
 public IMathNaryOperator Integral(MathIntegralTypes integralType, string lowerLimit, 
@@ -180,7 +180,7 @@ public IMathNaryOperator Integral(MathIntegralTypes integralType, string lowerLi
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| integralType | MathIntegralTypes | Интегральный тип |
+| integralType | MathIntegralTypes | Тип интеграла |
 | lowerLimit | String | Нижний предел интеграла |
 | upperLimit | String | Верхний предел интеграла |
 

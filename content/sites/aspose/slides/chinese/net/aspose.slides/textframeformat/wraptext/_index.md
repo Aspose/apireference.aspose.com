@@ -1,14 +1,14 @@
 ---
 title: WrapText
 second_title: Aspose.Slides for .NET API 参考
-description: 真的如果文本在 TextFrame 的边距处换行 读/写NullableBoolaspose.slides/nullablebool.
+description: True 如果文本在 TextFrame 的边距处换行 读/写NullableBoolaspose.slides/nullablebool
 type: docs
 weight: 160
 url: /zh/net/aspose.slides/textframeformat/wraptext/
 ---
 ## TextFrameFormat.WrapText property
 
-**真的**如果文本在 TextFrame 的边距处换行。 读/写[`NullableBool`](../../nullablebool).
+**True** 如果文本在 TextFrame 的边距处换行。 读/写[`NullableBool`](../../nullablebool)。
 
 ```csharp
 public NullableBool WrapText { get; set; }

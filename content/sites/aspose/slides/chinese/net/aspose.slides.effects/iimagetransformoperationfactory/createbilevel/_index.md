@@ -16,11 +16,11 @@ public IBiLevel CreateBiLevel(float threshold)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| threshold | Single | 临界点。 |
+| threshold | Single | 阈值。 |
 
 ### 返回值
 
-双水平效应。
+BiLevel 效果。
 
 ### 也可以看看
 

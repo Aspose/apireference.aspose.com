@@ -16,11 +16,11 @@ public bool Equals(ILineFormatEffectiveData lf)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| lf | ILineFormatEffectiveData | ILineFormatEffectiveData для сравнения с текущим ILineFormatEffectiveData. |
+| lf | ILineFormatEffectiveData | ILineFormatEffectiveData для сравнения с текущими ILineFormatEffectiveData. |
 
 ### Возвращаемое значение
 
-**истинный** если указанный ILineFormatEffectiveData равен текущему ILineFormatEffectiveData; в противном случае, **ЛОЖЬ**.
+**true** , если указанный ILineFormatEffectiveData равен текущему ILineFormatEffectiveData; в противном случае **false** .
 
 ### Смотрите также
 
