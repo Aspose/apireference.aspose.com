@@ -3,7 +3,7 @@ title: indexOf
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 340
+weight: 780
 url: /php-java/shapecollection/indexof/
 ---
 
@@ -61,24 +61,6 @@ int
 ---
 
 
-## indexOf([Table](../../table) shape)  method
-
- Returns the zero-based index of the first occurrence of a shape in the collection.
- 
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| shape | [Table](../../table) | The shape to locate in the collection. |
-
-### Returns
-int
-
-
----
-
-
 ## indexOf([Shape](../../shape) shape)  method
 
  Returns the zero-based index of the first occurrence of a shape in the collection.
@@ -89,6 +71,24 @@ int
 | Name | Type | Description |
 | --- | --- | --- |
 | shape | [Shape](../../shape) | The shape to locate in the collection. |
+
+### Returns
+int
+
+
+---
+
+
+## indexOf([Table](../../table) shape)  method
+
+ Returns the zero-based index of the first occurrence of a shape in the collection.
+ 
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| shape | [Table](../../table) | The shape to locate in the collection. |
 
 ### Returns
 int
@@ -295,24 +295,6 @@ int
 ---
 
 
-## indexOf([AudioFrame](../../audioframe) shape)  method
-
- Returns the zero-based index of the first occurrence of a shape in the collection.
- 
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| shape | [AudioFrame](../../audioframe) | The shape to locate in the collection. |
-
-### Returns
-int
-
-
----
-
-
 ## indexOf([Chart](../../chart) shape)  method
 
  Returns the zero-based index of the first occurrence of a shape in the collection.
@@ -323,6 +305,24 @@ int
 | Name | Type | Description |
 | --- | --- | --- |
 | shape | [Chart](../../chart) | The shape to locate in the collection. |
+
+### Returns
+int
+
+
+---
+
+
+## indexOf([AudioFrame](../../audioframe) shape)  method
+
+ Returns the zero-based index of the first occurrence of a shape in the collection.
+ 
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| shape | [AudioFrame](../../audioframe) | The shape to locate in the collection. |
 
 ### Returns
 int

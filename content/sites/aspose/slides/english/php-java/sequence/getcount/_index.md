@@ -3,7 +3,7 @@ title: getCount
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 60
+weight: 80
 url: /php-java/sequence/getcount/
 ---
 
@@ -56,7 +56,7 @@ int
 ---
 
 
-## getCount([Table](../../table) shape)  method
+## getCount([Shape](../../shape) shape)  method
 
  Returns count of effects for the specified shape.
  
@@ -68,7 +68,7 @@ int
 ---
 
 
-## getCount([Shape](../../shape) shape)  method
+## getCount([Table](../../table) shape)  method
 
  Returns count of effects for the specified shape.
  
@@ -212,7 +212,7 @@ int
 ---
 
 
-## getCount([AudioFrame](../../audioframe) shape)  method
+## getCount([Chart](../../chart) shape)  method
 
  Returns count of effects for the specified shape.
  
@@ -224,7 +224,7 @@ int
 ---
 
 
-## getCount([Chart](../../chart) shape)  method
+## getCount([AudioFrame](../../audioframe) shape)  method
 
  Returns count of effects for the specified shape.
  

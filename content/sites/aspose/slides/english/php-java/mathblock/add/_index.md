@@ -3,7 +3,7 @@ title: add
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 40
+weight: 50
 url: /php-java/mathblock/add/
 ---
 
@@ -32,31 +32,6 @@ void
 ---
 
 
-## add([MathMatrix](../../mathmatrix) item)  method
-
- Adds a math element to the end of the collection.
- 
-Example:
- 
-```php
-  $mathBlock = new MathBlock(new MathematicalText("x"));
-  $mathBlock->add(new MathematicalText("+"));
-  $mathBlock->add(new MathRadical(new MathematicalText("x"), new MathematicalText("3")));
-```
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| item | [MathMatrix](../../mathmatrix) | The IMathElement to be added to the end of the collection. |
-
-### Returns
-void
-
-
----
-
-
 ## add([MathLimit](../../mathlimit) item)  method
 
  Adds a math element to the end of the collection.
@@ -74,6 +49,31 @@ Example:
 | Name | Type | Description |
 | --- | --- | --- |
 | item | [MathLimit](../../mathlimit) | The IMathElement to be added to the end of the collection. |
+
+### Returns
+void
+
+
+---
+
+
+## add([MathMatrix](../../mathmatrix) item)  method
+
+ Adds a math element to the end of the collection.
+ 
+Example:
+ 
+```php
+  $mathBlock = new MathBlock(new MathematicalText("x"));
+  $mathBlock->add(new MathematicalText("+"));
+  $mathBlock->add(new MathRadical(new MathematicalText("x"), new MathematicalText("3")));
+```
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| item | [MathMatrix](../../mathmatrix) | The IMathElement to be added to the end of the collection. |
 
 ### Returns
 void
@@ -182,31 +182,6 @@ void
 ---
 
 
-## add([MathAccent](../../mathaccent) item)  method
-
- Adds a math element to the end of the collection.
- 
-Example:
- 
-```php
-  $mathBlock = new MathBlock(new MathematicalText("x"));
-  $mathBlock->add(new MathematicalText("+"));
-  $mathBlock->add(new MathRadical(new MathematicalText("x"), new MathematicalText("3")));
-```
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| item | [MathAccent](../../mathaccent) | The IMathElement to be added to the end of the collection. |
-
-### Returns
-void
-
-
----
-
-
 ## add([MathNaryOperator](../../mathnaryoperator) item)  method
 
  Adds a math element to the end of the collection.
@@ -232,7 +207,7 @@ void
 ---
 
 
-## add([MathGroupingCharacter](../../mathgroupingcharacter) item)  method
+## add([MathAccent](../../mathaccent) item)  method
 
  Adds a math element to the end of the collection.
  
@@ -248,7 +223,7 @@ Example:
 
 | Name | Type | Description |
 | --- | --- | --- |
-| item | [MathGroupingCharacter](../../mathgroupingcharacter) | The IMathElement to be added to the end of the collection. |
+| item | [MathAccent](../../mathaccent) | The IMathElement to be added to the end of the collection. |
 
 ### Returns
 void
@@ -282,6 +257,31 @@ void
 ---
 
 
+## add([MathGroupingCharacter](../../mathgroupingcharacter) item)  method
+
+ Adds a math element to the end of the collection.
+ 
+Example:
+ 
+```php
+  $mathBlock = new MathBlock(new MathematicalText("x"));
+  $mathBlock->add(new MathematicalText("+"));
+  $mathBlock->add(new MathRadical(new MathematicalText("x"), new MathematicalText("3")));
+```
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| item | [MathGroupingCharacter](../../mathgroupingcharacter) | The IMathElement to be added to the end of the collection. |
+
+### Returns
+void
+
+
+---
+
+
 ## add([MathBar](../../mathbar) item)  method
 
  Adds a math element to the end of the collection.
@@ -299,6 +299,31 @@ Example:
 | Name | Type | Description |
 | --- | --- | --- |
 | item | [MathBar](../../mathbar) | The IMathElement to be added to the end of the collection. |
+
+### Returns
+void
+
+
+---
+
+
+## add([MathSuperscriptElement](../../mathsuperscriptelement) item)  method
+
+ Adds a math element to the end of the collection.
+ 
+Example:
+ 
+```php
+  $mathBlock = new MathBlock(new MathematicalText("x"));
+  $mathBlock->add(new MathematicalText("+"));
+  $mathBlock->add(new MathRadical(new MathematicalText("x"), new MathematicalText("3")));
+```
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| item | [MathSuperscriptElement](../../mathsuperscriptelement) | The IMathElement to be added to the end of the collection. |
 
 ### Returns
 void
@@ -349,31 +374,6 @@ Example:
 | Name | Type | Description |
 | --- | --- | --- |
 | item | [MathSubscriptElement](../../mathsubscriptelement) | The IMathElement to be added to the end of the collection. |
-
-### Returns
-void
-
-
----
-
-
-## add([MathSuperscriptElement](../../mathsuperscriptelement) item)  method
-
- Adds a math element to the end of the collection.
- 
-Example:
- 
-```php
-  $mathBlock = new MathBlock(new MathematicalText("x"));
-  $mathBlock->add(new MathematicalText("+"));
-  $mathBlock->add(new MathRadical(new MathematicalText("x"), new MathematicalText("3")));
-```
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| item | [MathSuperscriptElement](../../mathsuperscriptelement) | The IMathElement to be added to the end of the collection. |
 
 ### Returns
 void

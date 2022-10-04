@@ -28,27 +28,6 @@ Example:
 ---
 
 
-## MathRadical([MathLeftSubSuperscriptElement](../../mathleftsubsuperscriptelement) baseArgument, [MathMatrix](../../mathmatrix) degreeArgument)  constructor
-
- Initializes a new instance of the MathRadical class.
- 
-Example:
- 
-```php
-  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
-```
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| baseArgument | [MathLeftSubSuperscriptElement](../mathleftsubsuperscriptelement) | Base |
-| degreeArgument | [MathMatrix](../../mathmatrix) | Degree |
-
-
----
-
-
 ## MathRadical([MathLeftSubSuperscriptElement](../../mathleftsubsuperscriptelement) baseArgument, [MathLimit](../../mathlimit) degreeArgument)  constructor
 
  Initializes a new instance of the MathRadical class.
@@ -65,6 +44,27 @@ Example:
 | --- | --- | --- |
 | baseArgument | [MathLeftSubSuperscriptElement](../mathleftsubsuperscriptelement) | Base |
 | degreeArgument | [MathLimit](../../mathlimit) | Degree |
+
+
+---
+
+
+## MathRadical([MathLeftSubSuperscriptElement](../../mathleftsubsuperscriptelement) baseArgument, [MathMatrix](../../mathmatrix) degreeArgument)  constructor
+
+ Initializes a new instance of the MathRadical class.
+ 
+Example:
+ 
+```php
+  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
+```
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| baseArgument | [MathLeftSubSuperscriptElement](../mathleftsubsuperscriptelement) | Base |
+| degreeArgument | [MathMatrix](../../mathmatrix) | Degree |
 
 
 ---
@@ -154,27 +154,6 @@ Example:
 ---
 
 
-## MathRadical([MathLeftSubSuperscriptElement](../../mathleftsubsuperscriptelement) baseArgument, [MathAccent](../../mathaccent) degreeArgument)  constructor
-
- Initializes a new instance of the MathRadical class.
- 
-Example:
- 
-```php
-  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
-```
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| baseArgument | [MathLeftSubSuperscriptElement](../mathleftsubsuperscriptelement) | Base |
-| degreeArgument | [MathAccent](../../mathaccent) | Degree |
-
-
----
-
-
 ## MathRadical([MathLeftSubSuperscriptElement](../../mathleftsubsuperscriptelement) baseArgument, [MathNaryOperator](../../mathnaryoperator) degreeArgument)  constructor
 
  Initializes a new instance of the MathRadical class.
@@ -196,7 +175,7 @@ Example:
 ---
 
 
-## MathRadical([MathLeftSubSuperscriptElement](../../mathleftsubsuperscriptelement) baseArgument, [MathGroupingCharacter](../../mathgroupingcharacter) degreeArgument)  constructor
+## MathRadical([MathLeftSubSuperscriptElement](../../mathleftsubsuperscriptelement) baseArgument, [MathAccent](../../mathaccent) degreeArgument)  constructor
 
  Initializes a new instance of the MathRadical class.
  
@@ -211,7 +190,7 @@ Example:
 | Name | Type | Description |
 | --- | --- | --- |
 | baseArgument | [MathLeftSubSuperscriptElement](../mathleftsubsuperscriptelement) | Base |
-| degreeArgument | [MathGroupingCharacter](../../mathgroupingcharacter) | Degree |
+| degreeArgument | [MathAccent](../../mathaccent) | Degree |
 
 
 ---
@@ -238,6 +217,27 @@ Example:
 ---
 
 
+## MathRadical([MathLeftSubSuperscriptElement](../../mathleftsubsuperscriptelement) baseArgument, [MathGroupingCharacter](../../mathgroupingcharacter) degreeArgument)  constructor
+
+ Initializes a new instance of the MathRadical class.
+ 
+Example:
+ 
+```php
+  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
+```
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| baseArgument | [MathLeftSubSuperscriptElement](../mathleftsubsuperscriptelement) | Base |
+| degreeArgument | [MathGroupingCharacter](../../mathgroupingcharacter) | Degree |
+
+
+---
+
+
 ## MathRadical([MathLeftSubSuperscriptElement](../../mathleftsubsuperscriptelement) baseArgument, [MathBar](../../mathbar) degreeArgument)  constructor
 
  Initializes a new instance of the MathRadical class.
@@ -254,6 +254,27 @@ Example:
 | --- | --- | --- |
 | baseArgument | [MathLeftSubSuperscriptElement](../mathleftsubsuperscriptelement) | Base |
 | degreeArgument | [MathBar](../../mathbar) | Degree |
+
+
+---
+
+
+## MathRadical([MathLeftSubSuperscriptElement](../../mathleftsubsuperscriptelement) baseArgument, [MathSuperscriptElement](../../mathsuperscriptelement) degreeArgument)  constructor
+
+ Initializes a new instance of the MathRadical class.
+ 
+Example:
+ 
+```php
+  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
+```
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| baseArgument | [MathLeftSubSuperscriptElement](../mathleftsubsuperscriptelement) | Base |
+| degreeArgument | [MathSuperscriptElement](../../mathsuperscriptelement) | Degree |
 
 
 ---
@@ -296,27 +317,6 @@ Example:
 | --- | --- | --- |
 | baseArgument | [MathLeftSubSuperscriptElement](../mathleftsubsuperscriptelement) | Base |
 | degreeArgument | [MathSubscriptElement](../../mathsubscriptelement) | Degree |
-
-
----
-
-
-## MathRadical([MathLeftSubSuperscriptElement](../../mathleftsubsuperscriptelement) baseArgument, [MathSuperscriptElement](../../mathsuperscriptelement) degreeArgument)  constructor
-
- Initializes a new instance of the MathRadical class.
- 
-Example:
- 
-```php
-  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
-```
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| baseArgument | [MathLeftSubSuperscriptElement](../mathleftsubsuperscriptelement) | Base |
-| degreeArgument | [MathSuperscriptElement](../../mathsuperscriptelement) | Degree |
 
 
 ---
@@ -406,405 +406,6 @@ Example:
 ---
 
 
-## MathRadical([MathMatrix](../../mathmatrix) baseArgument, [MathLeftSubSuperscriptElement](../../mathleftsubsuperscriptelement) degreeArgument)  constructor
-
- Initializes a new instance of the MathRadical class.
- 
-Example:
- 
-```php
-  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
-```
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| baseArgument | [MathMatrix](../mathmatrix) | Base |
-| degreeArgument | [MathLeftSubSuperscriptElement](../../mathleftsubsuperscriptelement) | Degree |
-
-
----
-
-
-## MathRadical([MathMatrix](../../mathmatrix) baseArgument, [MathMatrix](../../mathmatrix) degreeArgument)  constructor
-
- Initializes a new instance of the MathRadical class.
- 
-Example:
- 
-```php
-  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
-```
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| baseArgument | [MathMatrix](../mathmatrix) | Base |
-| degreeArgument | [MathMatrix](../../mathmatrix) | Degree |
-
-
----
-
-
-## MathRadical([MathMatrix](../../mathmatrix) baseArgument, [MathLimit](../../mathlimit) degreeArgument)  constructor
-
- Initializes a new instance of the MathRadical class.
- 
-Example:
- 
-```php
-  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
-```
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| baseArgument | [MathMatrix](../mathmatrix) | Base |
-| degreeArgument | [MathLimit](../../mathlimit) | Degree |
-
-
----
-
-
-## MathRadical([MathMatrix](../../mathmatrix) baseArgument, [MathBlock](../../mathblock) degreeArgument)  constructor
-
- Initializes a new instance of the MathRadical class.
- 
-Example:
- 
-```php
-  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
-```
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| baseArgument | [MathMatrix](../mathmatrix) | Base |
-| degreeArgument | [MathBlock](../../mathblock) | Degree |
-
-
----
-
-
-## MathRadical([MathMatrix](../../mathmatrix) baseArgument, [MathRadical](../../mathradical) degreeArgument)  constructor
-
- Initializes a new instance of the MathRadical class.
- 
-Example:
- 
-```php
-  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
-```
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| baseArgument | [MathMatrix](../mathmatrix) | Base |
-| degreeArgument | [MathRadical](../../mathradical) | Degree |
-
-
----
-
-
-## MathRadical([MathMatrix](../../mathmatrix) baseArgument, [MathArray](../../matharray) degreeArgument)  constructor
-
- Initializes a new instance of the MathRadical class.
- 
-Example:
- 
-```php
-  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
-```
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| baseArgument | [MathMatrix](../mathmatrix) | Base |
-| degreeArgument | [MathArray](../../matharray) | Degree |
-
-
----
-
-
-## MathRadical([MathMatrix](../../mathmatrix) baseArgument, [MathDelimiter](../../mathdelimiter) degreeArgument)  constructor
-
- Initializes a new instance of the MathRadical class.
- 
-Example:
- 
-```php
-  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
-```
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| baseArgument | [MathMatrix](../mathmatrix) | Base |
-| degreeArgument | [MathDelimiter](../../mathdelimiter) | Degree |
-
-
----
-
-
-## MathRadical([MathMatrix](../../mathmatrix) baseArgument, [MathAccent](../../mathaccent) degreeArgument)  constructor
-
- Initializes a new instance of the MathRadical class.
- 
-Example:
- 
-```php
-  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
-```
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| baseArgument | [MathMatrix](../mathmatrix) | Base |
-| degreeArgument | [MathAccent](../../mathaccent) | Degree |
-
-
----
-
-
-## MathRadical([MathMatrix](../../mathmatrix) baseArgument, [MathNaryOperator](../../mathnaryoperator) degreeArgument)  constructor
-
- Initializes a new instance of the MathRadical class.
- 
-Example:
- 
-```php
-  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
-```
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| baseArgument | [MathMatrix](../mathmatrix) | Base |
-| degreeArgument | [MathNaryOperator](../../mathnaryoperator) | Degree |
-
-
----
-
-
-## MathRadical([MathMatrix](../../mathmatrix) baseArgument, [MathGroupingCharacter](../../mathgroupingcharacter) degreeArgument)  constructor
-
- Initializes a new instance of the MathRadical class.
- 
-Example:
- 
-```php
-  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
-```
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| baseArgument | [MathMatrix](../mathmatrix) | Base |
-| degreeArgument | [MathGroupingCharacter](../../mathgroupingcharacter) | Degree |
-
-
----
-
-
-## MathRadical([MathMatrix](../../mathmatrix) baseArgument, [MathBorderBox](../../mathborderbox) degreeArgument)  constructor
-
- Initializes a new instance of the MathRadical class.
- 
-Example:
- 
-```php
-  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
-```
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| baseArgument | [MathMatrix](../mathmatrix) | Base |
-| degreeArgument | [MathBorderBox](../../mathborderbox) | Degree |
-
-
----
-
-
-## MathRadical([MathMatrix](../../mathmatrix) baseArgument, [MathBar](../../mathbar) degreeArgument)  constructor
-
- Initializes a new instance of the MathRadical class.
- 
-Example:
- 
-```php
-  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
-```
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| baseArgument | [MathMatrix](../mathmatrix) | Base |
-| degreeArgument | [MathBar](../../mathbar) | Degree |
-
-
----
-
-
-## MathRadical([MathMatrix](../../mathmatrix) baseArgument, [MathFunction](../../mathfunction) degreeArgument)  constructor
-
- Initializes a new instance of the MathRadical class.
- 
-Example:
- 
-```php
-  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
-```
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| baseArgument | [MathMatrix](../mathmatrix) | Base |
-| degreeArgument | [MathFunction](../../mathfunction) | Degree |
-
-
----
-
-
-## MathRadical([MathMatrix](../../mathmatrix) baseArgument, [MathSubscriptElement](../../mathsubscriptelement) degreeArgument)  constructor
-
- Initializes a new instance of the MathRadical class.
- 
-Example:
- 
-```php
-  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
-```
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| baseArgument | [MathMatrix](../mathmatrix) | Base |
-| degreeArgument | [MathSubscriptElement](../../mathsubscriptelement) | Degree |
-
-
----
-
-
-## MathRadical([MathMatrix](../../mathmatrix) baseArgument, [MathSuperscriptElement](../../mathsuperscriptelement) degreeArgument)  constructor
-
- Initializes a new instance of the MathRadical class.
- 
-Example:
- 
-```php
-  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
-```
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| baseArgument | [MathMatrix](../mathmatrix) | Base |
-| degreeArgument | [MathSuperscriptElement](../../mathsuperscriptelement) | Degree |
-
-
----
-
-
-## MathRadical([MathMatrix](../../mathmatrix) baseArgument, [MathFraction](../../mathfraction) degreeArgument)  constructor
-
- Initializes a new instance of the MathRadical class.
- 
-Example:
- 
-```php
-  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
-```
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| baseArgument | [MathMatrix](../mathmatrix) | Base |
-| degreeArgument | [MathFraction](../../mathfraction) | Degree |
-
-
----
-
-
-## MathRadical([MathMatrix](../../mathmatrix) baseArgument, [MathematicalText](../../mathematicaltext) degreeArgument)  constructor
-
- Initializes a new instance of the MathRadical class.
- 
-Example:
- 
-```php
-  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
-```
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| baseArgument | [MathMatrix](../mathmatrix) | Base |
-| degreeArgument | [MathematicalText](../../mathematicaltext) | Degree |
-
-
----
-
-
-## MathRadical([MathMatrix](../../mathmatrix) baseArgument, [MathBox](../../mathbox) degreeArgument)  constructor
-
- Initializes a new instance of the MathRadical class.
- 
-Example:
- 
-```php
-  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
-```
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| baseArgument | [MathMatrix](../mathmatrix) | Base |
-| degreeArgument | [MathBox](../../mathbox) | Degree |
-
-
----
-
-
-## MathRadical([MathMatrix](../../mathmatrix) baseArgument, [MathRightSubSuperscriptElement](../../mathrightsubsuperscriptelement) degreeArgument)  constructor
-
- Initializes a new instance of the MathRadical class.
- 
-Example:
- 
-```php
-  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
-```
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| baseArgument | [MathMatrix](../mathmatrix) | Base |
-| degreeArgument | [MathRightSubSuperscriptElement](../../mathrightsubsuperscriptelement) | Degree |
-
-
----
-
-
 ## MathRadical([MathLimit](../../mathlimit) baseArgument, [MathLeftSubSuperscriptElement](../../mathleftsubsuperscriptelement) degreeArgument)  constructor
 
  Initializes a new instance of the MathRadical class.
@@ -826,27 +427,6 @@ Example:
 ---
 
 
-## MathRadical([MathLimit](../../mathlimit) baseArgument, [MathMatrix](../../mathmatrix) degreeArgument)  constructor
-
- Initializes a new instance of the MathRadical class.
- 
-Example:
- 
-```php
-  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
-```
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| baseArgument | [MathLimit](../mathlimit) | Base |
-| degreeArgument | [MathMatrix](../../mathmatrix) | Degree |
-
-
----
-
-
 ## MathRadical([MathLimit](../../mathlimit) baseArgument, [MathLimit](../../mathlimit) degreeArgument)  constructor
 
  Initializes a new instance of the MathRadical class.
@@ -863,6 +443,27 @@ Example:
 | --- | --- | --- |
 | baseArgument | [MathLimit](../mathlimit) | Base |
 | degreeArgument | [MathLimit](../../mathlimit) | Degree |
+
+
+---
+
+
+## MathRadical([MathLimit](../../mathlimit) baseArgument, [MathMatrix](../../mathmatrix) degreeArgument)  constructor
+
+ Initializes a new instance of the MathRadical class.
+ 
+Example:
+ 
+```php
+  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
+```
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| baseArgument | [MathLimit](../mathlimit) | Base |
+| degreeArgument | [MathMatrix](../../mathmatrix) | Degree |
 
 
 ---
@@ -952,27 +553,6 @@ Example:
 ---
 
 
-## MathRadical([MathLimit](../../mathlimit) baseArgument, [MathAccent](../../mathaccent) degreeArgument)  constructor
-
- Initializes a new instance of the MathRadical class.
- 
-Example:
- 
-```php
-  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
-```
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| baseArgument | [MathLimit](../mathlimit) | Base |
-| degreeArgument | [MathAccent](../../mathaccent) | Degree |
-
-
----
-
-
 ## MathRadical([MathLimit](../../mathlimit) baseArgument, [MathNaryOperator](../../mathnaryoperator) degreeArgument)  constructor
 
  Initializes a new instance of the MathRadical class.
@@ -994,7 +574,7 @@ Example:
 ---
 
 
-## MathRadical([MathLimit](../../mathlimit) baseArgument, [MathGroupingCharacter](../../mathgroupingcharacter) degreeArgument)  constructor
+## MathRadical([MathLimit](../../mathlimit) baseArgument, [MathAccent](../../mathaccent) degreeArgument)  constructor
 
  Initializes a new instance of the MathRadical class.
  
@@ -1009,7 +589,7 @@ Example:
 | Name | Type | Description |
 | --- | --- | --- |
 | baseArgument | [MathLimit](../mathlimit) | Base |
-| degreeArgument | [MathGroupingCharacter](../../mathgroupingcharacter) | Degree |
+| degreeArgument | [MathAccent](../../mathaccent) | Degree |
 
 
 ---
@@ -1036,6 +616,27 @@ Example:
 ---
 
 
+## MathRadical([MathLimit](../../mathlimit) baseArgument, [MathGroupingCharacter](../../mathgroupingcharacter) degreeArgument)  constructor
+
+ Initializes a new instance of the MathRadical class.
+ 
+Example:
+ 
+```php
+  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
+```
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| baseArgument | [MathLimit](../mathlimit) | Base |
+| degreeArgument | [MathGroupingCharacter](../../mathgroupingcharacter) | Degree |
+
+
+---
+
+
 ## MathRadical([MathLimit](../../mathlimit) baseArgument, [MathBar](../../mathbar) degreeArgument)  constructor
 
  Initializes a new instance of the MathRadical class.
@@ -1052,6 +653,27 @@ Example:
 | --- | --- | --- |
 | baseArgument | [MathLimit](../mathlimit) | Base |
 | degreeArgument | [MathBar](../../mathbar) | Degree |
+
+
+---
+
+
+## MathRadical([MathLimit](../../mathlimit) baseArgument, [MathSuperscriptElement](../../mathsuperscriptelement) degreeArgument)  constructor
+
+ Initializes a new instance of the MathRadical class.
+ 
+Example:
+ 
+```php
+  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
+```
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| baseArgument | [MathLimit](../mathlimit) | Base |
+| degreeArgument | [MathSuperscriptElement](../../mathsuperscriptelement) | Degree |
 
 
 ---
@@ -1094,27 +716,6 @@ Example:
 | --- | --- | --- |
 | baseArgument | [MathLimit](../mathlimit) | Base |
 | degreeArgument | [MathSubscriptElement](../../mathsubscriptelement) | Degree |
-
-
----
-
-
-## MathRadical([MathLimit](../../mathlimit) baseArgument, [MathSuperscriptElement](../../mathsuperscriptelement) degreeArgument)  constructor
-
- Initializes a new instance of the MathRadical class.
- 
-Example:
- 
-```php
-  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
-```
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| baseArgument | [MathLimit](../mathlimit) | Base |
-| degreeArgument | [MathSuperscriptElement](../../mathsuperscriptelement) | Degree |
 
 
 ---
@@ -1204,6 +805,405 @@ Example:
 ---
 
 
+## MathRadical([MathMatrix](../../mathmatrix) baseArgument, [MathLeftSubSuperscriptElement](../../mathleftsubsuperscriptelement) degreeArgument)  constructor
+
+ Initializes a new instance of the MathRadical class.
+ 
+Example:
+ 
+```php
+  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
+```
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| baseArgument | [MathMatrix](../mathmatrix) | Base |
+| degreeArgument | [MathLeftSubSuperscriptElement](../../mathleftsubsuperscriptelement) | Degree |
+
+
+---
+
+
+## MathRadical([MathMatrix](../../mathmatrix) baseArgument, [MathLimit](../../mathlimit) degreeArgument)  constructor
+
+ Initializes a new instance of the MathRadical class.
+ 
+Example:
+ 
+```php
+  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
+```
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| baseArgument | [MathMatrix](../mathmatrix) | Base |
+| degreeArgument | [MathLimit](../../mathlimit) | Degree |
+
+
+---
+
+
+## MathRadical([MathMatrix](../../mathmatrix) baseArgument, [MathMatrix](../../mathmatrix) degreeArgument)  constructor
+
+ Initializes a new instance of the MathRadical class.
+ 
+Example:
+ 
+```php
+  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
+```
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| baseArgument | [MathMatrix](../mathmatrix) | Base |
+| degreeArgument | [MathMatrix](../../mathmatrix) | Degree |
+
+
+---
+
+
+## MathRadical([MathMatrix](../../mathmatrix) baseArgument, [MathBlock](../../mathblock) degreeArgument)  constructor
+
+ Initializes a new instance of the MathRadical class.
+ 
+Example:
+ 
+```php
+  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
+```
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| baseArgument | [MathMatrix](../mathmatrix) | Base |
+| degreeArgument | [MathBlock](../../mathblock) | Degree |
+
+
+---
+
+
+## MathRadical([MathMatrix](../../mathmatrix) baseArgument, [MathRadical](../../mathradical) degreeArgument)  constructor
+
+ Initializes a new instance of the MathRadical class.
+ 
+Example:
+ 
+```php
+  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
+```
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| baseArgument | [MathMatrix](../mathmatrix) | Base |
+| degreeArgument | [MathRadical](../../mathradical) | Degree |
+
+
+---
+
+
+## MathRadical([MathMatrix](../../mathmatrix) baseArgument, [MathArray](../../matharray) degreeArgument)  constructor
+
+ Initializes a new instance of the MathRadical class.
+ 
+Example:
+ 
+```php
+  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
+```
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| baseArgument | [MathMatrix](../mathmatrix) | Base |
+| degreeArgument | [MathArray](../../matharray) | Degree |
+
+
+---
+
+
+## MathRadical([MathMatrix](../../mathmatrix) baseArgument, [MathDelimiter](../../mathdelimiter) degreeArgument)  constructor
+
+ Initializes a new instance of the MathRadical class.
+ 
+Example:
+ 
+```php
+  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
+```
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| baseArgument | [MathMatrix](../mathmatrix) | Base |
+| degreeArgument | [MathDelimiter](../../mathdelimiter) | Degree |
+
+
+---
+
+
+## MathRadical([MathMatrix](../../mathmatrix) baseArgument, [MathNaryOperator](../../mathnaryoperator) degreeArgument)  constructor
+
+ Initializes a new instance of the MathRadical class.
+ 
+Example:
+ 
+```php
+  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
+```
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| baseArgument | [MathMatrix](../mathmatrix) | Base |
+| degreeArgument | [MathNaryOperator](../../mathnaryoperator) | Degree |
+
+
+---
+
+
+## MathRadical([MathMatrix](../../mathmatrix) baseArgument, [MathAccent](../../mathaccent) degreeArgument)  constructor
+
+ Initializes a new instance of the MathRadical class.
+ 
+Example:
+ 
+```php
+  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
+```
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| baseArgument | [MathMatrix](../mathmatrix) | Base |
+| degreeArgument | [MathAccent](../../mathaccent) | Degree |
+
+
+---
+
+
+## MathRadical([MathMatrix](../../mathmatrix) baseArgument, [MathBorderBox](../../mathborderbox) degreeArgument)  constructor
+
+ Initializes a new instance of the MathRadical class.
+ 
+Example:
+ 
+```php
+  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
+```
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| baseArgument | [MathMatrix](../mathmatrix) | Base |
+| degreeArgument | [MathBorderBox](../../mathborderbox) | Degree |
+
+
+---
+
+
+## MathRadical([MathMatrix](../../mathmatrix) baseArgument, [MathGroupingCharacter](../../mathgroupingcharacter) degreeArgument)  constructor
+
+ Initializes a new instance of the MathRadical class.
+ 
+Example:
+ 
+```php
+  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
+```
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| baseArgument | [MathMatrix](../mathmatrix) | Base |
+| degreeArgument | [MathGroupingCharacter](../../mathgroupingcharacter) | Degree |
+
+
+---
+
+
+## MathRadical([MathMatrix](../../mathmatrix) baseArgument, [MathBar](../../mathbar) degreeArgument)  constructor
+
+ Initializes a new instance of the MathRadical class.
+ 
+Example:
+ 
+```php
+  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
+```
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| baseArgument | [MathMatrix](../mathmatrix) | Base |
+| degreeArgument | [MathBar](../../mathbar) | Degree |
+
+
+---
+
+
+## MathRadical([MathMatrix](../../mathmatrix) baseArgument, [MathSuperscriptElement](../../mathsuperscriptelement) degreeArgument)  constructor
+
+ Initializes a new instance of the MathRadical class.
+ 
+Example:
+ 
+```php
+  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
+```
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| baseArgument | [MathMatrix](../mathmatrix) | Base |
+| degreeArgument | [MathSuperscriptElement](../../mathsuperscriptelement) | Degree |
+
+
+---
+
+
+## MathRadical([MathMatrix](../../mathmatrix) baseArgument, [MathFunction](../../mathfunction) degreeArgument)  constructor
+
+ Initializes a new instance of the MathRadical class.
+ 
+Example:
+ 
+```php
+  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
+```
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| baseArgument | [MathMatrix](../mathmatrix) | Base |
+| degreeArgument | [MathFunction](../../mathfunction) | Degree |
+
+
+---
+
+
+## MathRadical([MathMatrix](../../mathmatrix) baseArgument, [MathSubscriptElement](../../mathsubscriptelement) degreeArgument)  constructor
+
+ Initializes a new instance of the MathRadical class.
+ 
+Example:
+ 
+```php
+  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
+```
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| baseArgument | [MathMatrix](../mathmatrix) | Base |
+| degreeArgument | [MathSubscriptElement](../../mathsubscriptelement) | Degree |
+
+
+---
+
+
+## MathRadical([MathMatrix](../../mathmatrix) baseArgument, [MathFraction](../../mathfraction) degreeArgument)  constructor
+
+ Initializes a new instance of the MathRadical class.
+ 
+Example:
+ 
+```php
+  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
+```
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| baseArgument | [MathMatrix](../mathmatrix) | Base |
+| degreeArgument | [MathFraction](../../mathfraction) | Degree |
+
+
+---
+
+
+## MathRadical([MathMatrix](../../mathmatrix) baseArgument, [MathematicalText](../../mathematicaltext) degreeArgument)  constructor
+
+ Initializes a new instance of the MathRadical class.
+ 
+Example:
+ 
+```php
+  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
+```
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| baseArgument | [MathMatrix](../mathmatrix) | Base |
+| degreeArgument | [MathematicalText](../../mathematicaltext) | Degree |
+
+
+---
+
+
+## MathRadical([MathMatrix](../../mathmatrix) baseArgument, [MathBox](../../mathbox) degreeArgument)  constructor
+
+ Initializes a new instance of the MathRadical class.
+ 
+Example:
+ 
+```php
+  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
+```
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| baseArgument | [MathMatrix](../mathmatrix) | Base |
+| degreeArgument | [MathBox](../../mathbox) | Degree |
+
+
+---
+
+
+## MathRadical([MathMatrix](../../mathmatrix) baseArgument, [MathRightSubSuperscriptElement](../../mathrightsubsuperscriptelement) degreeArgument)  constructor
+
+ Initializes a new instance of the MathRadical class.
+ 
+Example:
+ 
+```php
+  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
+```
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| baseArgument | [MathMatrix](../mathmatrix) | Base |
+| degreeArgument | [MathRightSubSuperscriptElement](../../mathrightsubsuperscriptelement) | Degree |
+
+
+---
+
+
 ## MathRadical([MathBlock](../../mathblock) baseArgument, [MathLeftSubSuperscriptElement](../../mathleftsubsuperscriptelement) degreeArgument)  constructor
 
  Initializes a new instance of the MathRadical class.
@@ -1225,27 +1225,6 @@ Example:
 ---
 
 
-## MathRadical([MathBlock](../../mathblock) baseArgument, [MathMatrix](../../mathmatrix) degreeArgument)  constructor
-
- Initializes a new instance of the MathRadical class.
- 
-Example:
- 
-```php
-  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
-```
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| baseArgument | [MathBlock](../mathblock) | Base |
-| degreeArgument | [MathMatrix](../../mathmatrix) | Degree |
-
-
----
-
-
 ## MathRadical([MathBlock](../../mathblock) baseArgument, [MathLimit](../../mathlimit) degreeArgument)  constructor
 
  Initializes a new instance of the MathRadical class.
@@ -1262,6 +1241,27 @@ Example:
 | --- | --- | --- |
 | baseArgument | [MathBlock](../mathblock) | Base |
 | degreeArgument | [MathLimit](../../mathlimit) | Degree |
+
+
+---
+
+
+## MathRadical([MathBlock](../../mathblock) baseArgument, [MathMatrix](../../mathmatrix) degreeArgument)  constructor
+
+ Initializes a new instance of the MathRadical class.
+ 
+Example:
+ 
+```php
+  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
+```
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| baseArgument | [MathBlock](../mathblock) | Base |
+| degreeArgument | [MathMatrix](../../mathmatrix) | Degree |
 
 
 ---
@@ -1351,27 +1351,6 @@ Example:
 ---
 
 
-## MathRadical([MathBlock](../../mathblock) baseArgument, [MathAccent](../../mathaccent) degreeArgument)  constructor
-
- Initializes a new instance of the MathRadical class.
- 
-Example:
- 
-```php
-  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
-```
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| baseArgument | [MathBlock](../mathblock) | Base |
-| degreeArgument | [MathAccent](../../mathaccent) | Degree |
-
-
----
-
-
 ## MathRadical([MathBlock](../../mathblock) baseArgument, [MathNaryOperator](../../mathnaryoperator) degreeArgument)  constructor
 
  Initializes a new instance of the MathRadical class.
@@ -1393,7 +1372,7 @@ Example:
 ---
 
 
-## MathRadical([MathBlock](../../mathblock) baseArgument, [MathGroupingCharacter](../../mathgroupingcharacter) degreeArgument)  constructor
+## MathRadical([MathBlock](../../mathblock) baseArgument, [MathAccent](../../mathaccent) degreeArgument)  constructor
 
  Initializes a new instance of the MathRadical class.
  
@@ -1408,7 +1387,7 @@ Example:
 | Name | Type | Description |
 | --- | --- | --- |
 | baseArgument | [MathBlock](../mathblock) | Base |
-| degreeArgument | [MathGroupingCharacter](../../mathgroupingcharacter) | Degree |
+| degreeArgument | [MathAccent](../../mathaccent) | Degree |
 
 
 ---
@@ -1435,6 +1414,27 @@ Example:
 ---
 
 
+## MathRadical([MathBlock](../../mathblock) baseArgument, [MathGroupingCharacter](../../mathgroupingcharacter) degreeArgument)  constructor
+
+ Initializes a new instance of the MathRadical class.
+ 
+Example:
+ 
+```php
+  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
+```
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| baseArgument | [MathBlock](../mathblock) | Base |
+| degreeArgument | [MathGroupingCharacter](../../mathgroupingcharacter) | Degree |
+
+
+---
+
+
 ## MathRadical([MathBlock](../../mathblock) baseArgument, [MathBar](../../mathbar) degreeArgument)  constructor
 
  Initializes a new instance of the MathRadical class.
@@ -1451,6 +1451,27 @@ Example:
 | --- | --- | --- |
 | baseArgument | [MathBlock](../mathblock) | Base |
 | degreeArgument | [MathBar](../../mathbar) | Degree |
+
+
+---
+
+
+## MathRadical([MathBlock](../../mathblock) baseArgument, [MathSuperscriptElement](../../mathsuperscriptelement) degreeArgument)  constructor
+
+ Initializes a new instance of the MathRadical class.
+ 
+Example:
+ 
+```php
+  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
+```
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| baseArgument | [MathBlock](../mathblock) | Base |
+| degreeArgument | [MathSuperscriptElement](../../mathsuperscriptelement) | Degree |
 
 
 ---
@@ -1493,27 +1514,6 @@ Example:
 | --- | --- | --- |
 | baseArgument | [MathBlock](../mathblock) | Base |
 | degreeArgument | [MathSubscriptElement](../../mathsubscriptelement) | Degree |
-
-
----
-
-
-## MathRadical([MathBlock](../../mathblock) baseArgument, [MathSuperscriptElement](../../mathsuperscriptelement) degreeArgument)  constructor
-
- Initializes a new instance of the MathRadical class.
- 
-Example:
- 
-```php
-  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
-```
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| baseArgument | [MathBlock](../mathblock) | Base |
-| degreeArgument | [MathSuperscriptElement](../../mathsuperscriptelement) | Degree |
 
 
 ---
@@ -1624,27 +1624,6 @@ Example:
 ---
 
 
-## MathRadical([MathRadical](../../mathradical) baseArgument, [MathMatrix](../../mathmatrix) degreeArgument)  constructor
-
- Initializes a new instance of the MathRadical class.
- 
-Example:
- 
-```php
-  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
-```
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| baseArgument | [MathRadical](../mathradical) | Base |
-| degreeArgument | [MathMatrix](../../mathmatrix) | Degree |
-
-
----
-
-
 ## MathRadical([MathRadical](../../mathradical) baseArgument, [MathLimit](../../mathlimit) degreeArgument)  constructor
 
  Initializes a new instance of the MathRadical class.
@@ -1661,6 +1640,27 @@ Example:
 | --- | --- | --- |
 | baseArgument | [MathRadical](../mathradical) | Base |
 | degreeArgument | [MathLimit](../../mathlimit) | Degree |
+
+
+---
+
+
+## MathRadical([MathRadical](../../mathradical) baseArgument, [MathMatrix](../../mathmatrix) degreeArgument)  constructor
+
+ Initializes a new instance of the MathRadical class.
+ 
+Example:
+ 
+```php
+  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
+```
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| baseArgument | [MathRadical](../mathradical) | Base |
+| degreeArgument | [MathMatrix](../../mathmatrix) | Degree |
 
 
 ---
@@ -1750,27 +1750,6 @@ Example:
 ---
 
 
-## MathRadical([MathRadical](../../mathradical) baseArgument, [MathAccent](../../mathaccent) degreeArgument)  constructor
-
- Initializes a new instance of the MathRadical class.
- 
-Example:
- 
-```php
-  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
-```
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| baseArgument | [MathRadical](../mathradical) | Base |
-| degreeArgument | [MathAccent](../../mathaccent) | Degree |
-
-
----
-
-
 ## MathRadical([MathRadical](../../mathradical) baseArgument, [MathNaryOperator](../../mathnaryoperator) degreeArgument)  constructor
 
  Initializes a new instance of the MathRadical class.
@@ -1792,7 +1771,7 @@ Example:
 ---
 
 
-## MathRadical([MathRadical](../../mathradical) baseArgument, [MathGroupingCharacter](../../mathgroupingcharacter) degreeArgument)  constructor
+## MathRadical([MathRadical](../../mathradical) baseArgument, [MathAccent](../../mathaccent) degreeArgument)  constructor
 
  Initializes a new instance of the MathRadical class.
  
@@ -1807,7 +1786,7 @@ Example:
 | Name | Type | Description |
 | --- | --- | --- |
 | baseArgument | [MathRadical](../mathradical) | Base |
-| degreeArgument | [MathGroupingCharacter](../../mathgroupingcharacter) | Degree |
+| degreeArgument | [MathAccent](../../mathaccent) | Degree |
 
 
 ---
@@ -1834,6 +1813,27 @@ Example:
 ---
 
 
+## MathRadical([MathRadical](../../mathradical) baseArgument, [MathGroupingCharacter](../../mathgroupingcharacter) degreeArgument)  constructor
+
+ Initializes a new instance of the MathRadical class.
+ 
+Example:
+ 
+```php
+  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
+```
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| baseArgument | [MathRadical](../mathradical) | Base |
+| degreeArgument | [MathGroupingCharacter](../../mathgroupingcharacter) | Degree |
+
+
+---
+
+
 ## MathRadical([MathRadical](../../mathradical) baseArgument, [MathBar](../../mathbar) degreeArgument)  constructor
 
  Initializes a new instance of the MathRadical class.
@@ -1850,6 +1850,27 @@ Example:
 | --- | --- | --- |
 | baseArgument | [MathRadical](../mathradical) | Base |
 | degreeArgument | [MathBar](../../mathbar) | Degree |
+
+
+---
+
+
+## MathRadical([MathRadical](../../mathradical) baseArgument, [MathSuperscriptElement](../../mathsuperscriptelement) degreeArgument)  constructor
+
+ Initializes a new instance of the MathRadical class.
+ 
+Example:
+ 
+```php
+  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
+```
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| baseArgument | [MathRadical](../mathradical) | Base |
+| degreeArgument | [MathSuperscriptElement](../../mathsuperscriptelement) | Degree |
 
 
 ---
@@ -1892,27 +1913,6 @@ Example:
 | --- | --- | --- |
 | baseArgument | [MathRadical](../mathradical) | Base |
 | degreeArgument | [MathSubscriptElement](../../mathsubscriptelement) | Degree |
-
-
----
-
-
-## MathRadical([MathRadical](../../mathradical) baseArgument, [MathSuperscriptElement](../../mathsuperscriptelement) degreeArgument)  constructor
-
- Initializes a new instance of the MathRadical class.
- 
-Example:
- 
-```php
-  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
-```
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| baseArgument | [MathRadical](../mathradical) | Base |
-| degreeArgument | [MathSuperscriptElement](../../mathsuperscriptelement) | Degree |
 
 
 ---
@@ -2023,27 +2023,6 @@ Example:
 ---
 
 
-## MathRadical([MathArray](../../matharray) baseArgument, [MathMatrix](../../mathmatrix) degreeArgument)  constructor
-
- Initializes a new instance of the MathRadical class.
- 
-Example:
- 
-```php
-  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
-```
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| baseArgument | [MathArray](../matharray) | Base |
-| degreeArgument | [MathMatrix](../../mathmatrix) | Degree |
-
-
----
-
-
 ## MathRadical([MathArray](../../matharray) baseArgument, [MathLimit](../../mathlimit) degreeArgument)  constructor
 
  Initializes a new instance of the MathRadical class.
@@ -2060,6 +2039,27 @@ Example:
 | --- | --- | --- |
 | baseArgument | [MathArray](../matharray) | Base |
 | degreeArgument | [MathLimit](../../mathlimit) | Degree |
+
+
+---
+
+
+## MathRadical([MathArray](../../matharray) baseArgument, [MathMatrix](../../mathmatrix) degreeArgument)  constructor
+
+ Initializes a new instance of the MathRadical class.
+ 
+Example:
+ 
+```php
+  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
+```
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| baseArgument | [MathArray](../matharray) | Base |
+| degreeArgument | [MathMatrix](../../mathmatrix) | Degree |
 
 
 ---
@@ -2149,27 +2149,6 @@ Example:
 ---
 
 
-## MathRadical([MathArray](../../matharray) baseArgument, [MathAccent](../../mathaccent) degreeArgument)  constructor
-
- Initializes a new instance of the MathRadical class.
- 
-Example:
- 
-```php
-  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
-```
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| baseArgument | [MathArray](../matharray) | Base |
-| degreeArgument | [MathAccent](../../mathaccent) | Degree |
-
-
----
-
-
 ## MathRadical([MathArray](../../matharray) baseArgument, [MathNaryOperator](../../mathnaryoperator) degreeArgument)  constructor
 
  Initializes a new instance of the MathRadical class.
@@ -2191,7 +2170,7 @@ Example:
 ---
 
 
-## MathRadical([MathArray](../../matharray) baseArgument, [MathGroupingCharacter](../../mathgroupingcharacter) degreeArgument)  constructor
+## MathRadical([MathArray](../../matharray) baseArgument, [MathAccent](../../mathaccent) degreeArgument)  constructor
 
  Initializes a new instance of the MathRadical class.
  
@@ -2206,7 +2185,7 @@ Example:
 | Name | Type | Description |
 | --- | --- | --- |
 | baseArgument | [MathArray](../matharray) | Base |
-| degreeArgument | [MathGroupingCharacter](../../mathgroupingcharacter) | Degree |
+| degreeArgument | [MathAccent](../../mathaccent) | Degree |
 
 
 ---
@@ -2233,6 +2212,27 @@ Example:
 ---
 
 
+## MathRadical([MathArray](../../matharray) baseArgument, [MathGroupingCharacter](../../mathgroupingcharacter) degreeArgument)  constructor
+
+ Initializes a new instance of the MathRadical class.
+ 
+Example:
+ 
+```php
+  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
+```
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| baseArgument | [MathArray](../matharray) | Base |
+| degreeArgument | [MathGroupingCharacter](../../mathgroupingcharacter) | Degree |
+
+
+---
+
+
 ## MathRadical([MathArray](../../matharray) baseArgument, [MathBar](../../mathbar) degreeArgument)  constructor
 
  Initializes a new instance of the MathRadical class.
@@ -2249,6 +2249,27 @@ Example:
 | --- | --- | --- |
 | baseArgument | [MathArray](../matharray) | Base |
 | degreeArgument | [MathBar](../../mathbar) | Degree |
+
+
+---
+
+
+## MathRadical([MathArray](../../matharray) baseArgument, [MathSuperscriptElement](../../mathsuperscriptelement) degreeArgument)  constructor
+
+ Initializes a new instance of the MathRadical class.
+ 
+Example:
+ 
+```php
+  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
+```
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| baseArgument | [MathArray](../matharray) | Base |
+| degreeArgument | [MathSuperscriptElement](../../mathsuperscriptelement) | Degree |
 
 
 ---
@@ -2291,27 +2312,6 @@ Example:
 | --- | --- | --- |
 | baseArgument | [MathArray](../matharray) | Base |
 | degreeArgument | [MathSubscriptElement](../../mathsubscriptelement) | Degree |
-
-
----
-
-
-## MathRadical([MathArray](../../matharray) baseArgument, [MathSuperscriptElement](../../mathsuperscriptelement) degreeArgument)  constructor
-
- Initializes a new instance of the MathRadical class.
- 
-Example:
- 
-```php
-  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
-```
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| baseArgument | [MathArray](../matharray) | Base |
-| degreeArgument | [MathSuperscriptElement](../../mathsuperscriptelement) | Degree |
 
 
 ---
@@ -2422,27 +2422,6 @@ Example:
 ---
 
 
-## MathRadical([MathDelimiter](../../mathdelimiter) baseArgument, [MathMatrix](../../mathmatrix) degreeArgument)  constructor
-
- Initializes a new instance of the MathRadical class.
- 
-Example:
- 
-```php
-  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
-```
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| baseArgument | [MathDelimiter](../mathdelimiter) | Base |
-| degreeArgument | [MathMatrix](../../mathmatrix) | Degree |
-
-
----
-
-
 ## MathRadical([MathDelimiter](../../mathdelimiter) baseArgument, [MathLimit](../../mathlimit) degreeArgument)  constructor
 
  Initializes a new instance of the MathRadical class.
@@ -2459,6 +2438,27 @@ Example:
 | --- | --- | --- |
 | baseArgument | [MathDelimiter](../mathdelimiter) | Base |
 | degreeArgument | [MathLimit](../../mathlimit) | Degree |
+
+
+---
+
+
+## MathRadical([MathDelimiter](../../mathdelimiter) baseArgument, [MathMatrix](../../mathmatrix) degreeArgument)  constructor
+
+ Initializes a new instance of the MathRadical class.
+ 
+Example:
+ 
+```php
+  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
+```
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| baseArgument | [MathDelimiter](../mathdelimiter) | Base |
+| degreeArgument | [MathMatrix](../../mathmatrix) | Degree |
 
 
 ---
@@ -2548,27 +2548,6 @@ Example:
 ---
 
 
-## MathRadical([MathDelimiter](../../mathdelimiter) baseArgument, [MathAccent](../../mathaccent) degreeArgument)  constructor
-
- Initializes a new instance of the MathRadical class.
- 
-Example:
- 
-```php
-  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
-```
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| baseArgument | [MathDelimiter](../mathdelimiter) | Base |
-| degreeArgument | [MathAccent](../../mathaccent) | Degree |
-
-
----
-
-
 ## MathRadical([MathDelimiter](../../mathdelimiter) baseArgument, [MathNaryOperator](../../mathnaryoperator) degreeArgument)  constructor
 
  Initializes a new instance of the MathRadical class.
@@ -2590,7 +2569,7 @@ Example:
 ---
 
 
-## MathRadical([MathDelimiter](../../mathdelimiter) baseArgument, [MathGroupingCharacter](../../mathgroupingcharacter) degreeArgument)  constructor
+## MathRadical([MathDelimiter](../../mathdelimiter) baseArgument, [MathAccent](../../mathaccent) degreeArgument)  constructor
 
  Initializes a new instance of the MathRadical class.
  
@@ -2605,7 +2584,7 @@ Example:
 | Name | Type | Description |
 | --- | --- | --- |
 | baseArgument | [MathDelimiter](../mathdelimiter) | Base |
-| degreeArgument | [MathGroupingCharacter](../../mathgroupingcharacter) | Degree |
+| degreeArgument | [MathAccent](../../mathaccent) | Degree |
 
 
 ---
@@ -2632,6 +2611,27 @@ Example:
 ---
 
 
+## MathRadical([MathDelimiter](../../mathdelimiter) baseArgument, [MathGroupingCharacter](../../mathgroupingcharacter) degreeArgument)  constructor
+
+ Initializes a new instance of the MathRadical class.
+ 
+Example:
+ 
+```php
+  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
+```
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| baseArgument | [MathDelimiter](../mathdelimiter) | Base |
+| degreeArgument | [MathGroupingCharacter](../../mathgroupingcharacter) | Degree |
+
+
+---
+
+
 ## MathRadical([MathDelimiter](../../mathdelimiter) baseArgument, [MathBar](../../mathbar) degreeArgument)  constructor
 
  Initializes a new instance of the MathRadical class.
@@ -2648,6 +2648,27 @@ Example:
 | --- | --- | --- |
 | baseArgument | [MathDelimiter](../mathdelimiter) | Base |
 | degreeArgument | [MathBar](../../mathbar) | Degree |
+
+
+---
+
+
+## MathRadical([MathDelimiter](../../mathdelimiter) baseArgument, [MathSuperscriptElement](../../mathsuperscriptelement) degreeArgument)  constructor
+
+ Initializes a new instance of the MathRadical class.
+ 
+Example:
+ 
+```php
+  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
+```
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| baseArgument | [MathDelimiter](../mathdelimiter) | Base |
+| degreeArgument | [MathSuperscriptElement](../../mathsuperscriptelement) | Degree |
 
 
 ---
@@ -2690,27 +2711,6 @@ Example:
 | --- | --- | --- |
 | baseArgument | [MathDelimiter](../mathdelimiter) | Base |
 | degreeArgument | [MathSubscriptElement](../../mathsubscriptelement) | Degree |
-
-
----
-
-
-## MathRadical([MathDelimiter](../../mathdelimiter) baseArgument, [MathSuperscriptElement](../../mathsuperscriptelement) degreeArgument)  constructor
-
- Initializes a new instance of the MathRadical class.
- 
-Example:
- 
-```php
-  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
-```
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| baseArgument | [MathDelimiter](../mathdelimiter) | Base |
-| degreeArgument | [MathSuperscriptElement](../../mathsuperscriptelement) | Degree |
 
 
 ---
@@ -2800,405 +2800,6 @@ Example:
 ---
 
 
-## MathRadical([MathAccent](../../mathaccent) baseArgument, [MathLeftSubSuperscriptElement](../../mathleftsubsuperscriptelement) degreeArgument)  constructor
-
- Initializes a new instance of the MathRadical class.
- 
-Example:
- 
-```php
-  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
-```
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| baseArgument | [MathAccent](../mathaccent) | Base |
-| degreeArgument | [MathLeftSubSuperscriptElement](../../mathleftsubsuperscriptelement) | Degree |
-
-
----
-
-
-## MathRadical([MathAccent](../../mathaccent) baseArgument, [MathMatrix](../../mathmatrix) degreeArgument)  constructor
-
- Initializes a new instance of the MathRadical class.
- 
-Example:
- 
-```php
-  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
-```
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| baseArgument | [MathAccent](../mathaccent) | Base |
-| degreeArgument | [MathMatrix](../../mathmatrix) | Degree |
-
-
----
-
-
-## MathRadical([MathAccent](../../mathaccent) baseArgument, [MathLimit](../../mathlimit) degreeArgument)  constructor
-
- Initializes a new instance of the MathRadical class.
- 
-Example:
- 
-```php
-  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
-```
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| baseArgument | [MathAccent](../mathaccent) | Base |
-| degreeArgument | [MathLimit](../../mathlimit) | Degree |
-
-
----
-
-
-## MathRadical([MathAccent](../../mathaccent) baseArgument, [MathBlock](../../mathblock) degreeArgument)  constructor
-
- Initializes a new instance of the MathRadical class.
- 
-Example:
- 
-```php
-  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
-```
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| baseArgument | [MathAccent](../mathaccent) | Base |
-| degreeArgument | [MathBlock](../../mathblock) | Degree |
-
-
----
-
-
-## MathRadical([MathAccent](../../mathaccent) baseArgument, [MathRadical](../../mathradical) degreeArgument)  constructor
-
- Initializes a new instance of the MathRadical class.
- 
-Example:
- 
-```php
-  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
-```
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| baseArgument | [MathAccent](../mathaccent) | Base |
-| degreeArgument | [MathRadical](../../mathradical) | Degree |
-
-
----
-
-
-## MathRadical([MathAccent](../../mathaccent) baseArgument, [MathArray](../../matharray) degreeArgument)  constructor
-
- Initializes a new instance of the MathRadical class.
- 
-Example:
- 
-```php
-  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
-```
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| baseArgument | [MathAccent](../mathaccent) | Base |
-| degreeArgument | [MathArray](../../matharray) | Degree |
-
-
----
-
-
-## MathRadical([MathAccent](../../mathaccent) baseArgument, [MathDelimiter](../../mathdelimiter) degreeArgument)  constructor
-
- Initializes a new instance of the MathRadical class.
- 
-Example:
- 
-```php
-  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
-```
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| baseArgument | [MathAccent](../mathaccent) | Base |
-| degreeArgument | [MathDelimiter](../../mathdelimiter) | Degree |
-
-
----
-
-
-## MathRadical([MathAccent](../../mathaccent) baseArgument, [MathAccent](../../mathaccent) degreeArgument)  constructor
-
- Initializes a new instance of the MathRadical class.
- 
-Example:
- 
-```php
-  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
-```
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| baseArgument | [MathAccent](../mathaccent) | Base |
-| degreeArgument | [MathAccent](../../mathaccent) | Degree |
-
-
----
-
-
-## MathRadical([MathAccent](../../mathaccent) baseArgument, [MathNaryOperator](../../mathnaryoperator) degreeArgument)  constructor
-
- Initializes a new instance of the MathRadical class.
- 
-Example:
- 
-```php
-  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
-```
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| baseArgument | [MathAccent](../mathaccent) | Base |
-| degreeArgument | [MathNaryOperator](../../mathnaryoperator) | Degree |
-
-
----
-
-
-## MathRadical([MathAccent](../../mathaccent) baseArgument, [MathGroupingCharacter](../../mathgroupingcharacter) degreeArgument)  constructor
-
- Initializes a new instance of the MathRadical class.
- 
-Example:
- 
-```php
-  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
-```
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| baseArgument | [MathAccent](../mathaccent) | Base |
-| degreeArgument | [MathGroupingCharacter](../../mathgroupingcharacter) | Degree |
-
-
----
-
-
-## MathRadical([MathAccent](../../mathaccent) baseArgument, [MathBorderBox](../../mathborderbox) degreeArgument)  constructor
-
- Initializes a new instance of the MathRadical class.
- 
-Example:
- 
-```php
-  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
-```
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| baseArgument | [MathAccent](../mathaccent) | Base |
-| degreeArgument | [MathBorderBox](../../mathborderbox) | Degree |
-
-
----
-
-
-## MathRadical([MathAccent](../../mathaccent) baseArgument, [MathBar](../../mathbar) degreeArgument)  constructor
-
- Initializes a new instance of the MathRadical class.
- 
-Example:
- 
-```php
-  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
-```
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| baseArgument | [MathAccent](../mathaccent) | Base |
-| degreeArgument | [MathBar](../../mathbar) | Degree |
-
-
----
-
-
-## MathRadical([MathAccent](../../mathaccent) baseArgument, [MathFunction](../../mathfunction) degreeArgument)  constructor
-
- Initializes a new instance of the MathRadical class.
- 
-Example:
- 
-```php
-  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
-```
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| baseArgument | [MathAccent](../mathaccent) | Base |
-| degreeArgument | [MathFunction](../../mathfunction) | Degree |
-
-
----
-
-
-## MathRadical([MathAccent](../../mathaccent) baseArgument, [MathSubscriptElement](../../mathsubscriptelement) degreeArgument)  constructor
-
- Initializes a new instance of the MathRadical class.
- 
-Example:
- 
-```php
-  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
-```
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| baseArgument | [MathAccent](../mathaccent) | Base |
-| degreeArgument | [MathSubscriptElement](../../mathsubscriptelement) | Degree |
-
-
----
-
-
-## MathRadical([MathAccent](../../mathaccent) baseArgument, [MathSuperscriptElement](../../mathsuperscriptelement) degreeArgument)  constructor
-
- Initializes a new instance of the MathRadical class.
- 
-Example:
- 
-```php
-  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
-```
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| baseArgument | [MathAccent](../mathaccent) | Base |
-| degreeArgument | [MathSuperscriptElement](../../mathsuperscriptelement) | Degree |
-
-
----
-
-
-## MathRadical([MathAccent](../../mathaccent) baseArgument, [MathFraction](../../mathfraction) degreeArgument)  constructor
-
- Initializes a new instance of the MathRadical class.
- 
-Example:
- 
-```php
-  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
-```
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| baseArgument | [MathAccent](../mathaccent) | Base |
-| degreeArgument | [MathFraction](../../mathfraction) | Degree |
-
-
----
-
-
-## MathRadical([MathAccent](../../mathaccent) baseArgument, [MathematicalText](../../mathematicaltext) degreeArgument)  constructor
-
- Initializes a new instance of the MathRadical class.
- 
-Example:
- 
-```php
-  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
-```
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| baseArgument | [MathAccent](../mathaccent) | Base |
-| degreeArgument | [MathematicalText](../../mathematicaltext) | Degree |
-
-
----
-
-
-## MathRadical([MathAccent](../../mathaccent) baseArgument, [MathBox](../../mathbox) degreeArgument)  constructor
-
- Initializes a new instance of the MathRadical class.
- 
-Example:
- 
-```php
-  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
-```
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| baseArgument | [MathAccent](../mathaccent) | Base |
-| degreeArgument | [MathBox](../../mathbox) | Degree |
-
-
----
-
-
-## MathRadical([MathAccent](../../mathaccent) baseArgument, [MathRightSubSuperscriptElement](../../mathrightsubsuperscriptelement) degreeArgument)  constructor
-
- Initializes a new instance of the MathRadical class.
- 
-Example:
- 
-```php
-  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
-```
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| baseArgument | [MathAccent](../mathaccent) | Base |
-| degreeArgument | [MathRightSubSuperscriptElement](../../mathrightsubsuperscriptelement) | Degree |
-
-
----
-
-
 ## MathRadical([MathNaryOperator](../../mathnaryoperator) baseArgument, [MathLeftSubSuperscriptElement](../../mathleftsubsuperscriptelement) degreeArgument)  constructor
 
  Initializes a new instance of the MathRadical class.
@@ -3220,27 +2821,6 @@ Example:
 ---
 
 
-## MathRadical([MathNaryOperator](../../mathnaryoperator) baseArgument, [MathMatrix](../../mathmatrix) degreeArgument)  constructor
-
- Initializes a new instance of the MathRadical class.
- 
-Example:
- 
-```php
-  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
-```
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| baseArgument | [MathNaryOperator](../mathnaryoperator) | Base |
-| degreeArgument | [MathMatrix](../../mathmatrix) | Degree |
-
-
----
-
-
 ## MathRadical([MathNaryOperator](../../mathnaryoperator) baseArgument, [MathLimit](../../mathlimit) degreeArgument)  constructor
 
  Initializes a new instance of the MathRadical class.
@@ -3257,6 +2837,27 @@ Example:
 | --- | --- | --- |
 | baseArgument | [MathNaryOperator](../mathnaryoperator) | Base |
 | degreeArgument | [MathLimit](../../mathlimit) | Degree |
+
+
+---
+
+
+## MathRadical([MathNaryOperator](../../mathnaryoperator) baseArgument, [MathMatrix](../../mathmatrix) degreeArgument)  constructor
+
+ Initializes a new instance of the MathRadical class.
+ 
+Example:
+ 
+```php
+  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
+```
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| baseArgument | [MathNaryOperator](../mathnaryoperator) | Base |
+| degreeArgument | [MathMatrix](../../mathmatrix) | Degree |
 
 
 ---
@@ -3346,27 +2947,6 @@ Example:
 ---
 
 
-## MathRadical([MathNaryOperator](../../mathnaryoperator) baseArgument, [MathAccent](../../mathaccent) degreeArgument)  constructor
-
- Initializes a new instance of the MathRadical class.
- 
-Example:
- 
-```php
-  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
-```
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| baseArgument | [MathNaryOperator](../mathnaryoperator) | Base |
-| degreeArgument | [MathAccent](../../mathaccent) | Degree |
-
-
----
-
-
 ## MathRadical([MathNaryOperator](../../mathnaryoperator) baseArgument, [MathNaryOperator](../../mathnaryoperator) degreeArgument)  constructor
 
  Initializes a new instance of the MathRadical class.
@@ -3388,7 +2968,7 @@ Example:
 ---
 
 
-## MathRadical([MathNaryOperator](../../mathnaryoperator) baseArgument, [MathGroupingCharacter](../../mathgroupingcharacter) degreeArgument)  constructor
+## MathRadical([MathNaryOperator](../../mathnaryoperator) baseArgument, [MathAccent](../../mathaccent) degreeArgument)  constructor
 
  Initializes a new instance of the MathRadical class.
  
@@ -3403,7 +2983,7 @@ Example:
 | Name | Type | Description |
 | --- | --- | --- |
 | baseArgument | [MathNaryOperator](../mathnaryoperator) | Base |
-| degreeArgument | [MathGroupingCharacter](../../mathgroupingcharacter) | Degree |
+| degreeArgument | [MathAccent](../../mathaccent) | Degree |
 
 
 ---
@@ -3430,6 +3010,27 @@ Example:
 ---
 
 
+## MathRadical([MathNaryOperator](../../mathnaryoperator) baseArgument, [MathGroupingCharacter](../../mathgroupingcharacter) degreeArgument)  constructor
+
+ Initializes a new instance of the MathRadical class.
+ 
+Example:
+ 
+```php
+  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
+```
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| baseArgument | [MathNaryOperator](../mathnaryoperator) | Base |
+| degreeArgument | [MathGroupingCharacter](../../mathgroupingcharacter) | Degree |
+
+
+---
+
+
 ## MathRadical([MathNaryOperator](../../mathnaryoperator) baseArgument, [MathBar](../../mathbar) degreeArgument)  constructor
 
  Initializes a new instance of the MathRadical class.
@@ -3446,6 +3047,27 @@ Example:
 | --- | --- | --- |
 | baseArgument | [MathNaryOperator](../mathnaryoperator) | Base |
 | degreeArgument | [MathBar](../../mathbar) | Degree |
+
+
+---
+
+
+## MathRadical([MathNaryOperator](../../mathnaryoperator) baseArgument, [MathSuperscriptElement](../../mathsuperscriptelement) degreeArgument)  constructor
+
+ Initializes a new instance of the MathRadical class.
+ 
+Example:
+ 
+```php
+  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
+```
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| baseArgument | [MathNaryOperator](../mathnaryoperator) | Base |
+| degreeArgument | [MathSuperscriptElement](../../mathsuperscriptelement) | Degree |
 
 
 ---
@@ -3488,27 +3110,6 @@ Example:
 | --- | --- | --- |
 | baseArgument | [MathNaryOperator](../mathnaryoperator) | Base |
 | degreeArgument | [MathSubscriptElement](../../mathsubscriptelement) | Degree |
-
-
----
-
-
-## MathRadical([MathNaryOperator](../../mathnaryoperator) baseArgument, [MathSuperscriptElement](../../mathsuperscriptelement) degreeArgument)  constructor
-
- Initializes a new instance of the MathRadical class.
- 
-Example:
- 
-```php
-  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
-```
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| baseArgument | [MathNaryOperator](../mathnaryoperator) | Base |
-| degreeArgument | [MathSuperscriptElement](../../mathsuperscriptelement) | Degree |
 
 
 ---
@@ -3598,7 +3199,7 @@ Example:
 ---
 
 
-## MathRadical([MathGroupingCharacter](../../mathgroupingcharacter) baseArgument, [MathLeftSubSuperscriptElement](../../mathleftsubsuperscriptelement) degreeArgument)  constructor
+## MathRadical([MathAccent](../../mathaccent) baseArgument, [MathLeftSubSuperscriptElement](../../mathleftsubsuperscriptelement) degreeArgument)  constructor
 
  Initializes a new instance of the MathRadical class.
  
@@ -3612,14 +3213,14 @@ Example:
 
 | Name | Type | Description |
 | --- | --- | --- |
-| baseArgument | [MathGroupingCharacter](../mathgroupingcharacter) | Base |
+| baseArgument | [MathAccent](../mathaccent) | Base |
 | degreeArgument | [MathLeftSubSuperscriptElement](../../mathleftsubsuperscriptelement) | Degree |
 
 
 ---
 
 
-## MathRadical([MathGroupingCharacter](../../mathgroupingcharacter) baseArgument, [MathMatrix](../../mathmatrix) degreeArgument)  constructor
+## MathRadical([MathAccent](../../mathaccent) baseArgument, [MathLimit](../../mathlimit) degreeArgument)  constructor
 
  Initializes a new instance of the MathRadical class.
  
@@ -3633,35 +3234,14 @@ Example:
 
 | Name | Type | Description |
 | --- | --- | --- |
-| baseArgument | [MathGroupingCharacter](../mathgroupingcharacter) | Base |
-| degreeArgument | [MathMatrix](../../mathmatrix) | Degree |
-
-
----
-
-
-## MathRadical([MathGroupingCharacter](../../mathgroupingcharacter) baseArgument, [MathLimit](../../mathlimit) degreeArgument)  constructor
-
- Initializes a new instance of the MathRadical class.
- 
-Example:
- 
-```php
-  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
-```
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| baseArgument | [MathGroupingCharacter](../mathgroupingcharacter) | Base |
+| baseArgument | [MathAccent](../mathaccent) | Base |
 | degreeArgument | [MathLimit](../../mathlimit) | Degree |
 
 
 ---
 
 
-## MathRadical([MathGroupingCharacter](../../mathgroupingcharacter) baseArgument, [MathBlock](../../mathblock) degreeArgument)  constructor
+## MathRadical([MathAccent](../../mathaccent) baseArgument, [MathMatrix](../../mathmatrix) degreeArgument)  constructor
 
  Initializes a new instance of the MathRadical class.
  
@@ -3675,14 +3255,35 @@ Example:
 
 | Name | Type | Description |
 | --- | --- | --- |
-| baseArgument | [MathGroupingCharacter](../mathgroupingcharacter) | Base |
+| baseArgument | [MathAccent](../mathaccent) | Base |
+| degreeArgument | [MathMatrix](../../mathmatrix) | Degree |
+
+
+---
+
+
+## MathRadical([MathAccent](../../mathaccent) baseArgument, [MathBlock](../../mathblock) degreeArgument)  constructor
+
+ Initializes a new instance of the MathRadical class.
+ 
+Example:
+ 
+```php
+  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
+```
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| baseArgument | [MathAccent](../mathaccent) | Base |
 | degreeArgument | [MathBlock](../../mathblock) | Degree |
 
 
 ---
 
 
-## MathRadical([MathGroupingCharacter](../../mathgroupingcharacter) baseArgument, [MathRadical](../../mathradical) degreeArgument)  constructor
+## MathRadical([MathAccent](../../mathaccent) baseArgument, [MathRadical](../../mathradical) degreeArgument)  constructor
 
  Initializes a new instance of the MathRadical class.
  
@@ -3696,14 +3297,14 @@ Example:
 
 | Name | Type | Description |
 | --- | --- | --- |
-| baseArgument | [MathGroupingCharacter](../mathgroupingcharacter) | Base |
+| baseArgument | [MathAccent](../mathaccent) | Base |
 | degreeArgument | [MathRadical](../../mathradical) | Degree |
 
 
 ---
 
 
-## MathRadical([MathGroupingCharacter](../../mathgroupingcharacter) baseArgument, [MathArray](../../matharray) degreeArgument)  constructor
+## MathRadical([MathAccent](../../mathaccent) baseArgument, [MathArray](../../matharray) degreeArgument)  constructor
 
  Initializes a new instance of the MathRadical class.
  
@@ -3717,14 +3318,14 @@ Example:
 
 | Name | Type | Description |
 | --- | --- | --- |
-| baseArgument | [MathGroupingCharacter](../mathgroupingcharacter) | Base |
+| baseArgument | [MathAccent](../mathaccent) | Base |
 | degreeArgument | [MathArray](../../matharray) | Degree |
 
 
 ---
 
 
-## MathRadical([MathGroupingCharacter](../../mathgroupingcharacter) baseArgument, [MathDelimiter](../../mathdelimiter) degreeArgument)  constructor
+## MathRadical([MathAccent](../../mathaccent) baseArgument, [MathDelimiter](../../mathdelimiter) degreeArgument)  constructor
 
  Initializes a new instance of the MathRadical class.
  
@@ -3738,14 +3339,14 @@ Example:
 
 | Name | Type | Description |
 | --- | --- | --- |
-| baseArgument | [MathGroupingCharacter](../mathgroupingcharacter) | Base |
+| baseArgument | [MathAccent](../mathaccent) | Base |
 | degreeArgument | [MathDelimiter](../../mathdelimiter) | Degree |
 
 
 ---
 
 
-## MathRadical([MathGroupingCharacter](../../mathgroupingcharacter) baseArgument, [MathAccent](../../mathaccent) degreeArgument)  constructor
+## MathRadical([MathAccent](../../mathaccent) baseArgument, [MathNaryOperator](../../mathnaryoperator) degreeArgument)  constructor
 
  Initializes a new instance of the MathRadical class.
  
@@ -3759,35 +3360,14 @@ Example:
 
 | Name | Type | Description |
 | --- | --- | --- |
-| baseArgument | [MathGroupingCharacter](../mathgroupingcharacter) | Base |
-| degreeArgument | [MathAccent](../../mathaccent) | Degree |
-
-
----
-
-
-## MathRadical([MathGroupingCharacter](../../mathgroupingcharacter) baseArgument, [MathNaryOperator](../../mathnaryoperator) degreeArgument)  constructor
-
- Initializes a new instance of the MathRadical class.
- 
-Example:
- 
-```php
-  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
-```
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| baseArgument | [MathGroupingCharacter](../mathgroupingcharacter) | Base |
+| baseArgument | [MathAccent](../mathaccent) | Base |
 | degreeArgument | [MathNaryOperator](../../mathnaryoperator) | Degree |
 
 
 ---
 
 
-## MathRadical([MathGroupingCharacter](../../mathgroupingcharacter) baseArgument, [MathGroupingCharacter](../../mathgroupingcharacter) degreeArgument)  constructor
+## MathRadical([MathAccent](../../mathaccent) baseArgument, [MathAccent](../../mathaccent) degreeArgument)  constructor
 
  Initializes a new instance of the MathRadical class.
  
@@ -3801,14 +3381,14 @@ Example:
 
 | Name | Type | Description |
 | --- | --- | --- |
-| baseArgument | [MathGroupingCharacter](../mathgroupingcharacter) | Base |
-| degreeArgument | [MathGroupingCharacter](../../mathgroupingcharacter) | Degree |
+| baseArgument | [MathAccent](../mathaccent) | Base |
+| degreeArgument | [MathAccent](../../mathaccent) | Degree |
 
 
 ---
 
 
-## MathRadical([MathGroupingCharacter](../../mathgroupingcharacter) baseArgument, [MathBorderBox](../../mathborderbox) degreeArgument)  constructor
+## MathRadical([MathAccent](../../mathaccent) baseArgument, [MathBorderBox](../../mathborderbox) degreeArgument)  constructor
 
  Initializes a new instance of the MathRadical class.
  
@@ -3822,14 +3402,14 @@ Example:
 
 | Name | Type | Description |
 | --- | --- | --- |
-| baseArgument | [MathGroupingCharacter](../mathgroupingcharacter) | Base |
+| baseArgument | [MathAccent](../mathaccent) | Base |
 | degreeArgument | [MathBorderBox](../../mathborderbox) | Degree |
 
 
 ---
 
 
-## MathRadical([MathGroupingCharacter](../../mathgroupingcharacter) baseArgument, [MathBar](../../mathbar) degreeArgument)  constructor
+## MathRadical([MathAccent](../../mathaccent) baseArgument, [MathGroupingCharacter](../../mathgroupingcharacter) degreeArgument)  constructor
 
  Initializes a new instance of the MathRadical class.
  
@@ -3843,14 +3423,35 @@ Example:
 
 | Name | Type | Description |
 | --- | --- | --- |
-| baseArgument | [MathGroupingCharacter](../mathgroupingcharacter) | Base |
+| baseArgument | [MathAccent](../mathaccent) | Base |
+| degreeArgument | [MathGroupingCharacter](../../mathgroupingcharacter) | Degree |
+
+
+---
+
+
+## MathRadical([MathAccent](../../mathaccent) baseArgument, [MathBar](../../mathbar) degreeArgument)  constructor
+
+ Initializes a new instance of the MathRadical class.
+ 
+Example:
+ 
+```php
+  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
+```
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| baseArgument | [MathAccent](../mathaccent) | Base |
 | degreeArgument | [MathBar](../../mathbar) | Degree |
 
 
 ---
 
 
-## MathRadical([MathGroupingCharacter](../../mathgroupingcharacter) baseArgument, [MathFunction](../../mathfunction) degreeArgument)  constructor
+## MathRadical([MathAccent](../../mathaccent) baseArgument, [MathSuperscriptElement](../../mathsuperscriptelement) degreeArgument)  constructor
 
  Initializes a new instance of the MathRadical class.
  
@@ -3864,56 +3465,14 @@ Example:
 
 | Name | Type | Description |
 | --- | --- | --- |
-| baseArgument | [MathGroupingCharacter](../mathgroupingcharacter) | Base |
-| degreeArgument | [MathFunction](../../mathfunction) | Degree |
-
-
----
-
-
-## MathRadical([MathGroupingCharacter](../../mathgroupingcharacter) baseArgument, [MathSubscriptElement](../../mathsubscriptelement) degreeArgument)  constructor
-
- Initializes a new instance of the MathRadical class.
- 
-Example:
- 
-```php
-  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
-```
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| baseArgument | [MathGroupingCharacter](../mathgroupingcharacter) | Base |
-| degreeArgument | [MathSubscriptElement](../../mathsubscriptelement) | Degree |
-
-
----
-
-
-## MathRadical([MathGroupingCharacter](../../mathgroupingcharacter) baseArgument, [MathSuperscriptElement](../../mathsuperscriptelement) degreeArgument)  constructor
-
- Initializes a new instance of the MathRadical class.
- 
-Example:
- 
-```php
-  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
-```
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| baseArgument | [MathGroupingCharacter](../mathgroupingcharacter) | Base |
+| baseArgument | [MathAccent](../mathaccent) | Base |
 | degreeArgument | [MathSuperscriptElement](../../mathsuperscriptelement) | Degree |
 
 
 ---
 
 
-## MathRadical([MathGroupingCharacter](../../mathgroupingcharacter) baseArgument, [MathFraction](../../mathfraction) degreeArgument)  constructor
+## MathRadical([MathAccent](../../mathaccent) baseArgument, [MathFunction](../../mathfunction) degreeArgument)  constructor
 
  Initializes a new instance of the MathRadical class.
  
@@ -3927,14 +3486,56 @@ Example:
 
 | Name | Type | Description |
 | --- | --- | --- |
-| baseArgument | [MathGroupingCharacter](../mathgroupingcharacter) | Base |
+| baseArgument | [MathAccent](../mathaccent) | Base |
+| degreeArgument | [MathFunction](../../mathfunction) | Degree |
+
+
+---
+
+
+## MathRadical([MathAccent](../../mathaccent) baseArgument, [MathSubscriptElement](../../mathsubscriptelement) degreeArgument)  constructor
+
+ Initializes a new instance of the MathRadical class.
+ 
+Example:
+ 
+```php
+  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
+```
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| baseArgument | [MathAccent](../mathaccent) | Base |
+| degreeArgument | [MathSubscriptElement](../../mathsubscriptelement) | Degree |
+
+
+---
+
+
+## MathRadical([MathAccent](../../mathaccent) baseArgument, [MathFraction](../../mathfraction) degreeArgument)  constructor
+
+ Initializes a new instance of the MathRadical class.
+ 
+Example:
+ 
+```php
+  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
+```
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| baseArgument | [MathAccent](../mathaccent) | Base |
 | degreeArgument | [MathFraction](../../mathfraction) | Degree |
 
 
 ---
 
 
-## MathRadical([MathGroupingCharacter](../../mathgroupingcharacter) baseArgument, [MathematicalText](../../mathematicaltext) degreeArgument)  constructor
+## MathRadical([MathAccent](../../mathaccent) baseArgument, [MathematicalText](../../mathematicaltext) degreeArgument)  constructor
 
  Initializes a new instance of the MathRadical class.
  
@@ -3948,14 +3549,14 @@ Example:
 
 | Name | Type | Description |
 | --- | --- | --- |
-| baseArgument | [MathGroupingCharacter](../mathgroupingcharacter) | Base |
+| baseArgument | [MathAccent](../mathaccent) | Base |
 | degreeArgument | [MathematicalText](../../mathematicaltext) | Degree |
 
 
 ---
 
 
-## MathRadical([MathGroupingCharacter](../../mathgroupingcharacter) baseArgument, [MathBox](../../mathbox) degreeArgument)  constructor
+## MathRadical([MathAccent](../../mathaccent) baseArgument, [MathBox](../../mathbox) degreeArgument)  constructor
 
  Initializes a new instance of the MathRadical class.
  
@@ -3969,14 +3570,14 @@ Example:
 
 | Name | Type | Description |
 | --- | --- | --- |
-| baseArgument | [MathGroupingCharacter](../mathgroupingcharacter) | Base |
+| baseArgument | [MathAccent](../mathaccent) | Base |
 | degreeArgument | [MathBox](../../mathbox) | Degree |
 
 
 ---
 
 
-## MathRadical([MathGroupingCharacter](../../mathgroupingcharacter) baseArgument, [MathRightSubSuperscriptElement](../../mathrightsubsuperscriptelement) degreeArgument)  constructor
+## MathRadical([MathAccent](../../mathaccent) baseArgument, [MathRightSubSuperscriptElement](../../mathrightsubsuperscriptelement) degreeArgument)  constructor
 
  Initializes a new instance of the MathRadical class.
  
@@ -3990,7 +3591,7 @@ Example:
 
 | Name | Type | Description |
 | --- | --- | --- |
-| baseArgument | [MathGroupingCharacter](../mathgroupingcharacter) | Base |
+| baseArgument | [MathAccent](../mathaccent) | Base |
 | degreeArgument | [MathRightSubSuperscriptElement](../../mathrightsubsuperscriptelement) | Degree |
 
 
@@ -4018,27 +3619,6 @@ Example:
 ---
 
 
-## MathRadical([MathBorderBox](../../mathborderbox) baseArgument, [MathMatrix](../../mathmatrix) degreeArgument)  constructor
-
- Initializes a new instance of the MathRadical class.
- 
-Example:
- 
-```php
-  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
-```
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| baseArgument | [MathBorderBox](../mathborderbox) | Base |
-| degreeArgument | [MathMatrix](../../mathmatrix) | Degree |
-
-
----
-
-
 ## MathRadical([MathBorderBox](../../mathborderbox) baseArgument, [MathLimit](../../mathlimit) degreeArgument)  constructor
 
  Initializes a new instance of the MathRadical class.
@@ -4055,6 +3635,27 @@ Example:
 | --- | --- | --- |
 | baseArgument | [MathBorderBox](../mathborderbox) | Base |
 | degreeArgument | [MathLimit](../../mathlimit) | Degree |
+
+
+---
+
+
+## MathRadical([MathBorderBox](../../mathborderbox) baseArgument, [MathMatrix](../../mathmatrix) degreeArgument)  constructor
+
+ Initializes a new instance of the MathRadical class.
+ 
+Example:
+ 
+```php
+  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
+```
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| baseArgument | [MathBorderBox](../mathborderbox) | Base |
+| degreeArgument | [MathMatrix](../../mathmatrix) | Degree |
 
 
 ---
@@ -4144,27 +3745,6 @@ Example:
 ---
 
 
-## MathRadical([MathBorderBox](../../mathborderbox) baseArgument, [MathAccent](../../mathaccent) degreeArgument)  constructor
-
- Initializes a new instance of the MathRadical class.
- 
-Example:
- 
-```php
-  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
-```
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| baseArgument | [MathBorderBox](../mathborderbox) | Base |
-| degreeArgument | [MathAccent](../../mathaccent) | Degree |
-
-
----
-
-
 ## MathRadical([MathBorderBox](../../mathborderbox) baseArgument, [MathNaryOperator](../../mathnaryoperator) degreeArgument)  constructor
 
  Initializes a new instance of the MathRadical class.
@@ -4186,7 +3766,7 @@ Example:
 ---
 
 
-## MathRadical([MathBorderBox](../../mathborderbox) baseArgument, [MathGroupingCharacter](../../mathgroupingcharacter) degreeArgument)  constructor
+## MathRadical([MathBorderBox](../../mathborderbox) baseArgument, [MathAccent](../../mathaccent) degreeArgument)  constructor
 
  Initializes a new instance of the MathRadical class.
  
@@ -4201,7 +3781,7 @@ Example:
 | Name | Type | Description |
 | --- | --- | --- |
 | baseArgument | [MathBorderBox](../mathborderbox) | Base |
-| degreeArgument | [MathGroupingCharacter](../../mathgroupingcharacter) | Degree |
+| degreeArgument | [MathAccent](../../mathaccent) | Degree |
 
 
 ---
@@ -4228,6 +3808,27 @@ Example:
 ---
 
 
+## MathRadical([MathBorderBox](../../mathborderbox) baseArgument, [MathGroupingCharacter](../../mathgroupingcharacter) degreeArgument)  constructor
+
+ Initializes a new instance of the MathRadical class.
+ 
+Example:
+ 
+```php
+  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
+```
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| baseArgument | [MathBorderBox](../mathborderbox) | Base |
+| degreeArgument | [MathGroupingCharacter](../../mathgroupingcharacter) | Degree |
+
+
+---
+
+
 ## MathRadical([MathBorderBox](../../mathborderbox) baseArgument, [MathBar](../../mathbar) degreeArgument)  constructor
 
  Initializes a new instance of the MathRadical class.
@@ -4244,6 +3845,27 @@ Example:
 | --- | --- | --- |
 | baseArgument | [MathBorderBox](../mathborderbox) | Base |
 | degreeArgument | [MathBar](../../mathbar) | Degree |
+
+
+---
+
+
+## MathRadical([MathBorderBox](../../mathborderbox) baseArgument, [MathSuperscriptElement](../../mathsuperscriptelement) degreeArgument)  constructor
+
+ Initializes a new instance of the MathRadical class.
+ 
+Example:
+ 
+```php
+  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
+```
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| baseArgument | [MathBorderBox](../mathborderbox) | Base |
+| degreeArgument | [MathSuperscriptElement](../../mathsuperscriptelement) | Degree |
 
 
 ---
@@ -4286,27 +3908,6 @@ Example:
 | --- | --- | --- |
 | baseArgument | [MathBorderBox](../mathborderbox) | Base |
 | degreeArgument | [MathSubscriptElement](../../mathsubscriptelement) | Degree |
-
-
----
-
-
-## MathRadical([MathBorderBox](../../mathborderbox) baseArgument, [MathSuperscriptElement](../../mathsuperscriptelement) degreeArgument)  constructor
-
- Initializes a new instance of the MathRadical class.
- 
-Example:
- 
-```php
-  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
-```
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| baseArgument | [MathBorderBox](../mathborderbox) | Base |
-| degreeArgument | [MathSuperscriptElement](../../mathsuperscriptelement) | Degree |
 
 
 ---
@@ -4396,6 +3997,405 @@ Example:
 ---
 
 
+## MathRadical([MathGroupingCharacter](../../mathgroupingcharacter) baseArgument, [MathLeftSubSuperscriptElement](../../mathleftsubsuperscriptelement) degreeArgument)  constructor
+
+ Initializes a new instance of the MathRadical class.
+ 
+Example:
+ 
+```php
+  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
+```
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| baseArgument | [MathGroupingCharacter](../mathgroupingcharacter) | Base |
+| degreeArgument | [MathLeftSubSuperscriptElement](../../mathleftsubsuperscriptelement) | Degree |
+
+
+---
+
+
+## MathRadical([MathGroupingCharacter](../../mathgroupingcharacter) baseArgument, [MathLimit](../../mathlimit) degreeArgument)  constructor
+
+ Initializes a new instance of the MathRadical class.
+ 
+Example:
+ 
+```php
+  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
+```
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| baseArgument | [MathGroupingCharacter](../mathgroupingcharacter) | Base |
+| degreeArgument | [MathLimit](../../mathlimit) | Degree |
+
+
+---
+
+
+## MathRadical([MathGroupingCharacter](../../mathgroupingcharacter) baseArgument, [MathMatrix](../../mathmatrix) degreeArgument)  constructor
+
+ Initializes a new instance of the MathRadical class.
+ 
+Example:
+ 
+```php
+  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
+```
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| baseArgument | [MathGroupingCharacter](../mathgroupingcharacter) | Base |
+| degreeArgument | [MathMatrix](../../mathmatrix) | Degree |
+
+
+---
+
+
+## MathRadical([MathGroupingCharacter](../../mathgroupingcharacter) baseArgument, [MathBlock](../../mathblock) degreeArgument)  constructor
+
+ Initializes a new instance of the MathRadical class.
+ 
+Example:
+ 
+```php
+  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
+```
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| baseArgument | [MathGroupingCharacter](../mathgroupingcharacter) | Base |
+| degreeArgument | [MathBlock](../../mathblock) | Degree |
+
+
+---
+
+
+## MathRadical([MathGroupingCharacter](../../mathgroupingcharacter) baseArgument, [MathRadical](../../mathradical) degreeArgument)  constructor
+
+ Initializes a new instance of the MathRadical class.
+ 
+Example:
+ 
+```php
+  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
+```
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| baseArgument | [MathGroupingCharacter](../mathgroupingcharacter) | Base |
+| degreeArgument | [MathRadical](../../mathradical) | Degree |
+
+
+---
+
+
+## MathRadical([MathGroupingCharacter](../../mathgroupingcharacter) baseArgument, [MathArray](../../matharray) degreeArgument)  constructor
+
+ Initializes a new instance of the MathRadical class.
+ 
+Example:
+ 
+```php
+  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
+```
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| baseArgument | [MathGroupingCharacter](../mathgroupingcharacter) | Base |
+| degreeArgument | [MathArray](../../matharray) | Degree |
+
+
+---
+
+
+## MathRadical([MathGroupingCharacter](../../mathgroupingcharacter) baseArgument, [MathDelimiter](../../mathdelimiter) degreeArgument)  constructor
+
+ Initializes a new instance of the MathRadical class.
+ 
+Example:
+ 
+```php
+  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
+```
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| baseArgument | [MathGroupingCharacter](../mathgroupingcharacter) | Base |
+| degreeArgument | [MathDelimiter](../../mathdelimiter) | Degree |
+
+
+---
+
+
+## MathRadical([MathGroupingCharacter](../../mathgroupingcharacter) baseArgument, [MathNaryOperator](../../mathnaryoperator) degreeArgument)  constructor
+
+ Initializes a new instance of the MathRadical class.
+ 
+Example:
+ 
+```php
+  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
+```
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| baseArgument | [MathGroupingCharacter](../mathgroupingcharacter) | Base |
+| degreeArgument | [MathNaryOperator](../../mathnaryoperator) | Degree |
+
+
+---
+
+
+## MathRadical([MathGroupingCharacter](../../mathgroupingcharacter) baseArgument, [MathAccent](../../mathaccent) degreeArgument)  constructor
+
+ Initializes a new instance of the MathRadical class.
+ 
+Example:
+ 
+```php
+  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
+```
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| baseArgument | [MathGroupingCharacter](../mathgroupingcharacter) | Base |
+| degreeArgument | [MathAccent](../../mathaccent) | Degree |
+
+
+---
+
+
+## MathRadical([MathGroupingCharacter](../../mathgroupingcharacter) baseArgument, [MathBorderBox](../../mathborderbox) degreeArgument)  constructor
+
+ Initializes a new instance of the MathRadical class.
+ 
+Example:
+ 
+```php
+  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
+```
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| baseArgument | [MathGroupingCharacter](../mathgroupingcharacter) | Base |
+| degreeArgument | [MathBorderBox](../../mathborderbox) | Degree |
+
+
+---
+
+
+## MathRadical([MathGroupingCharacter](../../mathgroupingcharacter) baseArgument, [MathGroupingCharacter](../../mathgroupingcharacter) degreeArgument)  constructor
+
+ Initializes a new instance of the MathRadical class.
+ 
+Example:
+ 
+```php
+  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
+```
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| baseArgument | [MathGroupingCharacter](../mathgroupingcharacter) | Base |
+| degreeArgument | [MathGroupingCharacter](../../mathgroupingcharacter) | Degree |
+
+
+---
+
+
+## MathRadical([MathGroupingCharacter](../../mathgroupingcharacter) baseArgument, [MathBar](../../mathbar) degreeArgument)  constructor
+
+ Initializes a new instance of the MathRadical class.
+ 
+Example:
+ 
+```php
+  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
+```
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| baseArgument | [MathGroupingCharacter](../mathgroupingcharacter) | Base |
+| degreeArgument | [MathBar](../../mathbar) | Degree |
+
+
+---
+
+
+## MathRadical([MathGroupingCharacter](../../mathgroupingcharacter) baseArgument, [MathSuperscriptElement](../../mathsuperscriptelement) degreeArgument)  constructor
+
+ Initializes a new instance of the MathRadical class.
+ 
+Example:
+ 
+```php
+  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
+```
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| baseArgument | [MathGroupingCharacter](../mathgroupingcharacter) | Base |
+| degreeArgument | [MathSuperscriptElement](../../mathsuperscriptelement) | Degree |
+
+
+---
+
+
+## MathRadical([MathGroupingCharacter](../../mathgroupingcharacter) baseArgument, [MathFunction](../../mathfunction) degreeArgument)  constructor
+
+ Initializes a new instance of the MathRadical class.
+ 
+Example:
+ 
+```php
+  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
+```
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| baseArgument | [MathGroupingCharacter](../mathgroupingcharacter) | Base |
+| degreeArgument | [MathFunction](../../mathfunction) | Degree |
+
+
+---
+
+
+## MathRadical([MathGroupingCharacter](../../mathgroupingcharacter) baseArgument, [MathSubscriptElement](../../mathsubscriptelement) degreeArgument)  constructor
+
+ Initializes a new instance of the MathRadical class.
+ 
+Example:
+ 
+```php
+  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
+```
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| baseArgument | [MathGroupingCharacter](../mathgroupingcharacter) | Base |
+| degreeArgument | [MathSubscriptElement](../../mathsubscriptelement) | Degree |
+
+
+---
+
+
+## MathRadical([MathGroupingCharacter](../../mathgroupingcharacter) baseArgument, [MathFraction](../../mathfraction) degreeArgument)  constructor
+
+ Initializes a new instance of the MathRadical class.
+ 
+Example:
+ 
+```php
+  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
+```
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| baseArgument | [MathGroupingCharacter](../mathgroupingcharacter) | Base |
+| degreeArgument | [MathFraction](../../mathfraction) | Degree |
+
+
+---
+
+
+## MathRadical([MathGroupingCharacter](../../mathgroupingcharacter) baseArgument, [MathematicalText](../../mathematicaltext) degreeArgument)  constructor
+
+ Initializes a new instance of the MathRadical class.
+ 
+Example:
+ 
+```php
+  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
+```
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| baseArgument | [MathGroupingCharacter](../mathgroupingcharacter) | Base |
+| degreeArgument | [MathematicalText](../../mathematicaltext) | Degree |
+
+
+---
+
+
+## MathRadical([MathGroupingCharacter](../../mathgroupingcharacter) baseArgument, [MathBox](../../mathbox) degreeArgument)  constructor
+
+ Initializes a new instance of the MathRadical class.
+ 
+Example:
+ 
+```php
+  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
+```
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| baseArgument | [MathGroupingCharacter](../mathgroupingcharacter) | Base |
+| degreeArgument | [MathBox](../../mathbox) | Degree |
+
+
+---
+
+
+## MathRadical([MathGroupingCharacter](../../mathgroupingcharacter) baseArgument, [MathRightSubSuperscriptElement](../../mathrightsubsuperscriptelement) degreeArgument)  constructor
+
+ Initializes a new instance of the MathRadical class.
+ 
+Example:
+ 
+```php
+  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
+```
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| baseArgument | [MathGroupingCharacter](../mathgroupingcharacter) | Base |
+| degreeArgument | [MathRightSubSuperscriptElement](../../mathrightsubsuperscriptelement) | Degree |
+
+
+---
+
+
 ## MathRadical([MathBar](../../mathbar) baseArgument, [MathLeftSubSuperscriptElement](../../mathleftsubsuperscriptelement) degreeArgument)  constructor
 
  Initializes a new instance of the MathRadical class.
@@ -4417,27 +4417,6 @@ Example:
 ---
 
 
-## MathRadical([MathBar](../../mathbar) baseArgument, [MathMatrix](../../mathmatrix) degreeArgument)  constructor
-
- Initializes a new instance of the MathRadical class.
- 
-Example:
- 
-```php
-  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
-```
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| baseArgument | [MathBar](../mathbar) | Base |
-| degreeArgument | [MathMatrix](../../mathmatrix) | Degree |
-
-
----
-
-
 ## MathRadical([MathBar](../../mathbar) baseArgument, [MathLimit](../../mathlimit) degreeArgument)  constructor
 
  Initializes a new instance of the MathRadical class.
@@ -4454,6 +4433,27 @@ Example:
 | --- | --- | --- |
 | baseArgument | [MathBar](../mathbar) | Base |
 | degreeArgument | [MathLimit](../../mathlimit) | Degree |
+
+
+---
+
+
+## MathRadical([MathBar](../../mathbar) baseArgument, [MathMatrix](../../mathmatrix) degreeArgument)  constructor
+
+ Initializes a new instance of the MathRadical class.
+ 
+Example:
+ 
+```php
+  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
+```
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| baseArgument | [MathBar](../mathbar) | Base |
+| degreeArgument | [MathMatrix](../../mathmatrix) | Degree |
 
 
 ---
@@ -4543,27 +4543,6 @@ Example:
 ---
 
 
-## MathRadical([MathBar](../../mathbar) baseArgument, [MathAccent](../../mathaccent) degreeArgument)  constructor
-
- Initializes a new instance of the MathRadical class.
- 
-Example:
- 
-```php
-  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
-```
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| baseArgument | [MathBar](../mathbar) | Base |
-| degreeArgument | [MathAccent](../../mathaccent) | Degree |
-
-
----
-
-
 ## MathRadical([MathBar](../../mathbar) baseArgument, [MathNaryOperator](../../mathnaryoperator) degreeArgument)  constructor
 
  Initializes a new instance of the MathRadical class.
@@ -4585,7 +4564,7 @@ Example:
 ---
 
 
-## MathRadical([MathBar](../../mathbar) baseArgument, [MathGroupingCharacter](../../mathgroupingcharacter) degreeArgument)  constructor
+## MathRadical([MathBar](../../mathbar) baseArgument, [MathAccent](../../mathaccent) degreeArgument)  constructor
 
  Initializes a new instance of the MathRadical class.
  
@@ -4600,7 +4579,7 @@ Example:
 | Name | Type | Description |
 | --- | --- | --- |
 | baseArgument | [MathBar](../mathbar) | Base |
-| degreeArgument | [MathGroupingCharacter](../../mathgroupingcharacter) | Degree |
+| degreeArgument | [MathAccent](../../mathaccent) | Degree |
 
 
 ---
@@ -4627,6 +4606,27 @@ Example:
 ---
 
 
+## MathRadical([MathBar](../../mathbar) baseArgument, [MathGroupingCharacter](../../mathgroupingcharacter) degreeArgument)  constructor
+
+ Initializes a new instance of the MathRadical class.
+ 
+Example:
+ 
+```php
+  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
+```
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| baseArgument | [MathBar](../mathbar) | Base |
+| degreeArgument | [MathGroupingCharacter](../../mathgroupingcharacter) | Degree |
+
+
+---
+
+
 ## MathRadical([MathBar](../../mathbar) baseArgument, [MathBar](../../mathbar) degreeArgument)  constructor
 
  Initializes a new instance of the MathRadical class.
@@ -4643,6 +4643,27 @@ Example:
 | --- | --- | --- |
 | baseArgument | [MathBar](../mathbar) | Base |
 | degreeArgument | [MathBar](../../mathbar) | Degree |
+
+
+---
+
+
+## MathRadical([MathBar](../../mathbar) baseArgument, [MathSuperscriptElement](../../mathsuperscriptelement) degreeArgument)  constructor
+
+ Initializes a new instance of the MathRadical class.
+ 
+Example:
+ 
+```php
+  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
+```
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| baseArgument | [MathBar](../mathbar) | Base |
+| degreeArgument | [MathSuperscriptElement](../../mathsuperscriptelement) | Degree |
 
 
 ---
@@ -4685,27 +4706,6 @@ Example:
 | --- | --- | --- |
 | baseArgument | [MathBar](../mathbar) | Base |
 | degreeArgument | [MathSubscriptElement](../../mathsubscriptelement) | Degree |
-
-
----
-
-
-## MathRadical([MathBar](../../mathbar) baseArgument, [MathSuperscriptElement](../../mathsuperscriptelement) degreeArgument)  constructor
-
- Initializes a new instance of the MathRadical class.
- 
-Example:
- 
-```php
-  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
-```
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| baseArgument | [MathBar](../mathbar) | Base |
-| degreeArgument | [MathSuperscriptElement](../../mathsuperscriptelement) | Degree |
 
 
 ---
@@ -4795,6 +4795,405 @@ Example:
 ---
 
 
+## MathRadical([MathSuperscriptElement](../../mathsuperscriptelement) baseArgument, [MathLeftSubSuperscriptElement](../../mathleftsubsuperscriptelement) degreeArgument)  constructor
+
+ Initializes a new instance of the MathRadical class.
+ 
+Example:
+ 
+```php
+  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
+```
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| baseArgument | [MathSuperscriptElement](../mathsuperscriptelement) | Base |
+| degreeArgument | [MathLeftSubSuperscriptElement](../../mathleftsubsuperscriptelement) | Degree |
+
+
+---
+
+
+## MathRadical([MathSuperscriptElement](../../mathsuperscriptelement) baseArgument, [MathLimit](../../mathlimit) degreeArgument)  constructor
+
+ Initializes a new instance of the MathRadical class.
+ 
+Example:
+ 
+```php
+  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
+```
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| baseArgument | [MathSuperscriptElement](../mathsuperscriptelement) | Base |
+| degreeArgument | [MathLimit](../../mathlimit) | Degree |
+
+
+---
+
+
+## MathRadical([MathSuperscriptElement](../../mathsuperscriptelement) baseArgument, [MathMatrix](../../mathmatrix) degreeArgument)  constructor
+
+ Initializes a new instance of the MathRadical class.
+ 
+Example:
+ 
+```php
+  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
+```
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| baseArgument | [MathSuperscriptElement](../mathsuperscriptelement) | Base |
+| degreeArgument | [MathMatrix](../../mathmatrix) | Degree |
+
+
+---
+
+
+## MathRadical([MathSuperscriptElement](../../mathsuperscriptelement) baseArgument, [MathBlock](../../mathblock) degreeArgument)  constructor
+
+ Initializes a new instance of the MathRadical class.
+ 
+Example:
+ 
+```php
+  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
+```
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| baseArgument | [MathSuperscriptElement](../mathsuperscriptelement) | Base |
+| degreeArgument | [MathBlock](../../mathblock) | Degree |
+
+
+---
+
+
+## MathRadical([MathSuperscriptElement](../../mathsuperscriptelement) baseArgument, [MathRadical](../../mathradical) degreeArgument)  constructor
+
+ Initializes a new instance of the MathRadical class.
+ 
+Example:
+ 
+```php
+  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
+```
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| baseArgument | [MathSuperscriptElement](../mathsuperscriptelement) | Base |
+| degreeArgument | [MathRadical](../../mathradical) | Degree |
+
+
+---
+
+
+## MathRadical([MathSuperscriptElement](../../mathsuperscriptelement) baseArgument, [MathArray](../../matharray) degreeArgument)  constructor
+
+ Initializes a new instance of the MathRadical class.
+ 
+Example:
+ 
+```php
+  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
+```
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| baseArgument | [MathSuperscriptElement](../mathsuperscriptelement) | Base |
+| degreeArgument | [MathArray](../../matharray) | Degree |
+
+
+---
+
+
+## MathRadical([MathSuperscriptElement](../../mathsuperscriptelement) baseArgument, [MathDelimiter](../../mathdelimiter) degreeArgument)  constructor
+
+ Initializes a new instance of the MathRadical class.
+ 
+Example:
+ 
+```php
+  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
+```
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| baseArgument | [MathSuperscriptElement](../mathsuperscriptelement) | Base |
+| degreeArgument | [MathDelimiter](../../mathdelimiter) | Degree |
+
+
+---
+
+
+## MathRadical([MathSuperscriptElement](../../mathsuperscriptelement) baseArgument, [MathNaryOperator](../../mathnaryoperator) degreeArgument)  constructor
+
+ Initializes a new instance of the MathRadical class.
+ 
+Example:
+ 
+```php
+  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
+```
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| baseArgument | [MathSuperscriptElement](../mathsuperscriptelement) | Base |
+| degreeArgument | [MathNaryOperator](../../mathnaryoperator) | Degree |
+
+
+---
+
+
+## MathRadical([MathSuperscriptElement](../../mathsuperscriptelement) baseArgument, [MathAccent](../../mathaccent) degreeArgument)  constructor
+
+ Initializes a new instance of the MathRadical class.
+ 
+Example:
+ 
+```php
+  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
+```
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| baseArgument | [MathSuperscriptElement](../mathsuperscriptelement) | Base |
+| degreeArgument | [MathAccent](../../mathaccent) | Degree |
+
+
+---
+
+
+## MathRadical([MathSuperscriptElement](../../mathsuperscriptelement) baseArgument, [MathBorderBox](../../mathborderbox) degreeArgument)  constructor
+
+ Initializes a new instance of the MathRadical class.
+ 
+Example:
+ 
+```php
+  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
+```
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| baseArgument | [MathSuperscriptElement](../mathsuperscriptelement) | Base |
+| degreeArgument | [MathBorderBox](../../mathborderbox) | Degree |
+
+
+---
+
+
+## MathRadical([MathSuperscriptElement](../../mathsuperscriptelement) baseArgument, [MathGroupingCharacter](../../mathgroupingcharacter) degreeArgument)  constructor
+
+ Initializes a new instance of the MathRadical class.
+ 
+Example:
+ 
+```php
+  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
+```
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| baseArgument | [MathSuperscriptElement](../mathsuperscriptelement) | Base |
+| degreeArgument | [MathGroupingCharacter](../../mathgroupingcharacter) | Degree |
+
+
+---
+
+
+## MathRadical([MathSuperscriptElement](../../mathsuperscriptelement) baseArgument, [MathBar](../../mathbar) degreeArgument)  constructor
+
+ Initializes a new instance of the MathRadical class.
+ 
+Example:
+ 
+```php
+  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
+```
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| baseArgument | [MathSuperscriptElement](../mathsuperscriptelement) | Base |
+| degreeArgument | [MathBar](../../mathbar) | Degree |
+
+
+---
+
+
+## MathRadical([MathSuperscriptElement](../../mathsuperscriptelement) baseArgument, [MathSuperscriptElement](../../mathsuperscriptelement) degreeArgument)  constructor
+
+ Initializes a new instance of the MathRadical class.
+ 
+Example:
+ 
+```php
+  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
+```
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| baseArgument | [MathSuperscriptElement](../mathsuperscriptelement) | Base |
+| degreeArgument | [MathSuperscriptElement](../../mathsuperscriptelement) | Degree |
+
+
+---
+
+
+## MathRadical([MathSuperscriptElement](../../mathsuperscriptelement) baseArgument, [MathFunction](../../mathfunction) degreeArgument)  constructor
+
+ Initializes a new instance of the MathRadical class.
+ 
+Example:
+ 
+```php
+  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
+```
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| baseArgument | [MathSuperscriptElement](../mathsuperscriptelement) | Base |
+| degreeArgument | [MathFunction](../../mathfunction) | Degree |
+
+
+---
+
+
+## MathRadical([MathSuperscriptElement](../../mathsuperscriptelement) baseArgument, [MathSubscriptElement](../../mathsubscriptelement) degreeArgument)  constructor
+
+ Initializes a new instance of the MathRadical class.
+ 
+Example:
+ 
+```php
+  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
+```
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| baseArgument | [MathSuperscriptElement](../mathsuperscriptelement) | Base |
+| degreeArgument | [MathSubscriptElement](../../mathsubscriptelement) | Degree |
+
+
+---
+
+
+## MathRadical([MathSuperscriptElement](../../mathsuperscriptelement) baseArgument, [MathFraction](../../mathfraction) degreeArgument)  constructor
+
+ Initializes a new instance of the MathRadical class.
+ 
+Example:
+ 
+```php
+  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
+```
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| baseArgument | [MathSuperscriptElement](../mathsuperscriptelement) | Base |
+| degreeArgument | [MathFraction](../../mathfraction) | Degree |
+
+
+---
+
+
+## MathRadical([MathSuperscriptElement](../../mathsuperscriptelement) baseArgument, [MathematicalText](../../mathematicaltext) degreeArgument)  constructor
+
+ Initializes a new instance of the MathRadical class.
+ 
+Example:
+ 
+```php
+  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
+```
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| baseArgument | [MathSuperscriptElement](../mathsuperscriptelement) | Base |
+| degreeArgument | [MathematicalText](../../mathematicaltext) | Degree |
+
+
+---
+
+
+## MathRadical([MathSuperscriptElement](../../mathsuperscriptelement) baseArgument, [MathBox](../../mathbox) degreeArgument)  constructor
+
+ Initializes a new instance of the MathRadical class.
+ 
+Example:
+ 
+```php
+  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
+```
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| baseArgument | [MathSuperscriptElement](../mathsuperscriptelement) | Base |
+| degreeArgument | [MathBox](../../mathbox) | Degree |
+
+
+---
+
+
+## MathRadical([MathSuperscriptElement](../../mathsuperscriptelement) baseArgument, [MathRightSubSuperscriptElement](../../mathrightsubsuperscriptelement) degreeArgument)  constructor
+
+ Initializes a new instance of the MathRadical class.
+ 
+Example:
+ 
+```php
+  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
+```
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| baseArgument | [MathSuperscriptElement](../mathsuperscriptelement) | Base |
+| degreeArgument | [MathRightSubSuperscriptElement](../../mathrightsubsuperscriptelement) | Degree |
+
+
+---
+
+
 ## MathRadical([MathFunction](../../mathfunction) baseArgument, [MathLeftSubSuperscriptElement](../../mathleftsubsuperscriptelement) degreeArgument)  constructor
 
  Initializes a new instance of the MathRadical class.
@@ -4816,27 +5215,6 @@ Example:
 ---
 
 
-## MathRadical([MathFunction](../../mathfunction) baseArgument, [MathMatrix](../../mathmatrix) degreeArgument)  constructor
-
- Initializes a new instance of the MathRadical class.
- 
-Example:
- 
-```php
-  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
-```
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| baseArgument | [MathFunction](../mathfunction) | Base |
-| degreeArgument | [MathMatrix](../../mathmatrix) | Degree |
-
-
----
-
-
 ## MathRadical([MathFunction](../../mathfunction) baseArgument, [MathLimit](../../mathlimit) degreeArgument)  constructor
 
  Initializes a new instance of the MathRadical class.
@@ -4853,6 +5231,27 @@ Example:
 | --- | --- | --- |
 | baseArgument | [MathFunction](../mathfunction) | Base |
 | degreeArgument | [MathLimit](../../mathlimit) | Degree |
+
+
+---
+
+
+## MathRadical([MathFunction](../../mathfunction) baseArgument, [MathMatrix](../../mathmatrix) degreeArgument)  constructor
+
+ Initializes a new instance of the MathRadical class.
+ 
+Example:
+ 
+```php
+  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
+```
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| baseArgument | [MathFunction](../mathfunction) | Base |
+| degreeArgument | [MathMatrix](../../mathmatrix) | Degree |
 
 
 ---
@@ -4942,27 +5341,6 @@ Example:
 ---
 
 
-## MathRadical([MathFunction](../../mathfunction) baseArgument, [MathAccent](../../mathaccent) degreeArgument)  constructor
-
- Initializes a new instance of the MathRadical class.
- 
-Example:
- 
-```php
-  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
-```
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| baseArgument | [MathFunction](../mathfunction) | Base |
-| degreeArgument | [MathAccent](../../mathaccent) | Degree |
-
-
----
-
-
 ## MathRadical([MathFunction](../../mathfunction) baseArgument, [MathNaryOperator](../../mathnaryoperator) degreeArgument)  constructor
 
  Initializes a new instance of the MathRadical class.
@@ -4984,7 +5362,7 @@ Example:
 ---
 
 
-## MathRadical([MathFunction](../../mathfunction) baseArgument, [MathGroupingCharacter](../../mathgroupingcharacter) degreeArgument)  constructor
+## MathRadical([MathFunction](../../mathfunction) baseArgument, [MathAccent](../../mathaccent) degreeArgument)  constructor
 
  Initializes a new instance of the MathRadical class.
  
@@ -4999,7 +5377,7 @@ Example:
 | Name | Type | Description |
 | --- | --- | --- |
 | baseArgument | [MathFunction](../mathfunction) | Base |
-| degreeArgument | [MathGroupingCharacter](../../mathgroupingcharacter) | Degree |
+| degreeArgument | [MathAccent](../../mathaccent) | Degree |
 
 
 ---
@@ -5026,6 +5404,27 @@ Example:
 ---
 
 
+## MathRadical([MathFunction](../../mathfunction) baseArgument, [MathGroupingCharacter](../../mathgroupingcharacter) degreeArgument)  constructor
+
+ Initializes a new instance of the MathRadical class.
+ 
+Example:
+ 
+```php
+  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
+```
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| baseArgument | [MathFunction](../mathfunction) | Base |
+| degreeArgument | [MathGroupingCharacter](../../mathgroupingcharacter) | Degree |
+
+
+---
+
+
 ## MathRadical([MathFunction](../../mathfunction) baseArgument, [MathBar](../../mathbar) degreeArgument)  constructor
 
  Initializes a new instance of the MathRadical class.
@@ -5042,6 +5441,27 @@ Example:
 | --- | --- | --- |
 | baseArgument | [MathFunction](../mathfunction) | Base |
 | degreeArgument | [MathBar](../../mathbar) | Degree |
+
+
+---
+
+
+## MathRadical([MathFunction](../../mathfunction) baseArgument, [MathSuperscriptElement](../../mathsuperscriptelement) degreeArgument)  constructor
+
+ Initializes a new instance of the MathRadical class.
+ 
+Example:
+ 
+```php
+  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
+```
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| baseArgument | [MathFunction](../mathfunction) | Base |
+| degreeArgument | [MathSuperscriptElement](../../mathsuperscriptelement) | Degree |
 
 
 ---
@@ -5084,27 +5504,6 @@ Example:
 | --- | --- | --- |
 | baseArgument | [MathFunction](../mathfunction) | Base |
 | degreeArgument | [MathSubscriptElement](../../mathsubscriptelement) | Degree |
-
-
----
-
-
-## MathRadical([MathFunction](../../mathfunction) baseArgument, [MathSuperscriptElement](../../mathsuperscriptelement) degreeArgument)  constructor
-
- Initializes a new instance of the MathRadical class.
- 
-Example:
- 
-```php
-  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
-```
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| baseArgument | [MathFunction](../mathfunction) | Base |
-| degreeArgument | [MathSuperscriptElement](../../mathsuperscriptelement) | Degree |
 
 
 ---
@@ -5215,27 +5614,6 @@ Example:
 ---
 
 
-## MathRadical([MathSubscriptElement](../../mathsubscriptelement) baseArgument, [MathMatrix](../../mathmatrix) degreeArgument)  constructor
-
- Initializes a new instance of the MathRadical class.
- 
-Example:
- 
-```php
-  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
-```
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| baseArgument | [MathSubscriptElement](../mathsubscriptelement) | Base |
-| degreeArgument | [MathMatrix](../../mathmatrix) | Degree |
-
-
----
-
-
 ## MathRadical([MathSubscriptElement](../../mathsubscriptelement) baseArgument, [MathLimit](../../mathlimit) degreeArgument)  constructor
 
  Initializes a new instance of the MathRadical class.
@@ -5252,6 +5630,27 @@ Example:
 | --- | --- | --- |
 | baseArgument | [MathSubscriptElement](../mathsubscriptelement) | Base |
 | degreeArgument | [MathLimit](../../mathlimit) | Degree |
+
+
+---
+
+
+## MathRadical([MathSubscriptElement](../../mathsubscriptelement) baseArgument, [MathMatrix](../../mathmatrix) degreeArgument)  constructor
+
+ Initializes a new instance of the MathRadical class.
+ 
+Example:
+ 
+```php
+  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
+```
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| baseArgument | [MathSubscriptElement](../mathsubscriptelement) | Base |
+| degreeArgument | [MathMatrix](../../mathmatrix) | Degree |
 
 
 ---
@@ -5341,27 +5740,6 @@ Example:
 ---
 
 
-## MathRadical([MathSubscriptElement](../../mathsubscriptelement) baseArgument, [MathAccent](../../mathaccent) degreeArgument)  constructor
-
- Initializes a new instance of the MathRadical class.
- 
-Example:
- 
-```php
-  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
-```
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| baseArgument | [MathSubscriptElement](../mathsubscriptelement) | Base |
-| degreeArgument | [MathAccent](../../mathaccent) | Degree |
-
-
----
-
-
 ## MathRadical([MathSubscriptElement](../../mathsubscriptelement) baseArgument, [MathNaryOperator](../../mathnaryoperator) degreeArgument)  constructor
 
  Initializes a new instance of the MathRadical class.
@@ -5383,7 +5761,7 @@ Example:
 ---
 
 
-## MathRadical([MathSubscriptElement](../../mathsubscriptelement) baseArgument, [MathGroupingCharacter](../../mathgroupingcharacter) degreeArgument)  constructor
+## MathRadical([MathSubscriptElement](../../mathsubscriptelement) baseArgument, [MathAccent](../../mathaccent) degreeArgument)  constructor
 
  Initializes a new instance of the MathRadical class.
  
@@ -5398,7 +5776,7 @@ Example:
 | Name | Type | Description |
 | --- | --- | --- |
 | baseArgument | [MathSubscriptElement](../mathsubscriptelement) | Base |
-| degreeArgument | [MathGroupingCharacter](../../mathgroupingcharacter) | Degree |
+| degreeArgument | [MathAccent](../../mathaccent) | Degree |
 
 
 ---
@@ -5425,6 +5803,27 @@ Example:
 ---
 
 
+## MathRadical([MathSubscriptElement](../../mathsubscriptelement) baseArgument, [MathGroupingCharacter](../../mathgroupingcharacter) degreeArgument)  constructor
+
+ Initializes a new instance of the MathRadical class.
+ 
+Example:
+ 
+```php
+  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
+```
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| baseArgument | [MathSubscriptElement](../mathsubscriptelement) | Base |
+| degreeArgument | [MathGroupingCharacter](../../mathgroupingcharacter) | Degree |
+
+
+---
+
+
 ## MathRadical([MathSubscriptElement](../../mathsubscriptelement) baseArgument, [MathBar](../../mathbar) degreeArgument)  constructor
 
  Initializes a new instance of the MathRadical class.
@@ -5441,6 +5840,27 @@ Example:
 | --- | --- | --- |
 | baseArgument | [MathSubscriptElement](../mathsubscriptelement) | Base |
 | degreeArgument | [MathBar](../../mathbar) | Degree |
+
+
+---
+
+
+## MathRadical([MathSubscriptElement](../../mathsubscriptelement) baseArgument, [MathSuperscriptElement](../../mathsuperscriptelement) degreeArgument)  constructor
+
+ Initializes a new instance of the MathRadical class.
+ 
+Example:
+ 
+```php
+  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
+```
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| baseArgument | [MathSubscriptElement](../mathsubscriptelement) | Base |
+| degreeArgument | [MathSuperscriptElement](../../mathsuperscriptelement) | Degree |
 
 
 ---
@@ -5483,27 +5903,6 @@ Example:
 | --- | --- | --- |
 | baseArgument | [MathSubscriptElement](../mathsubscriptelement) | Base |
 | degreeArgument | [MathSubscriptElement](../../mathsubscriptelement) | Degree |
-
-
----
-
-
-## MathRadical([MathSubscriptElement](../../mathsubscriptelement) baseArgument, [MathSuperscriptElement](../../mathsuperscriptelement) degreeArgument)  constructor
-
- Initializes a new instance of the MathRadical class.
- 
-Example:
- 
-```php
-  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
-```
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| baseArgument | [MathSubscriptElement](../mathsubscriptelement) | Base |
-| degreeArgument | [MathSuperscriptElement](../../mathsuperscriptelement) | Degree |
 
 
 ---
@@ -5593,405 +5992,6 @@ Example:
 ---
 
 
-## MathRadical([MathSuperscriptElement](../../mathsuperscriptelement) baseArgument, [MathLeftSubSuperscriptElement](../../mathleftsubsuperscriptelement) degreeArgument)  constructor
-
- Initializes a new instance of the MathRadical class.
- 
-Example:
- 
-```php
-  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
-```
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| baseArgument | [MathSuperscriptElement](../mathsuperscriptelement) | Base |
-| degreeArgument | [MathLeftSubSuperscriptElement](../../mathleftsubsuperscriptelement) | Degree |
-
-
----
-
-
-## MathRadical([MathSuperscriptElement](../../mathsuperscriptelement) baseArgument, [MathMatrix](../../mathmatrix) degreeArgument)  constructor
-
- Initializes a new instance of the MathRadical class.
- 
-Example:
- 
-```php
-  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
-```
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| baseArgument | [MathSuperscriptElement](../mathsuperscriptelement) | Base |
-| degreeArgument | [MathMatrix](../../mathmatrix) | Degree |
-
-
----
-
-
-## MathRadical([MathSuperscriptElement](../../mathsuperscriptelement) baseArgument, [MathLimit](../../mathlimit) degreeArgument)  constructor
-
- Initializes a new instance of the MathRadical class.
- 
-Example:
- 
-```php
-  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
-```
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| baseArgument | [MathSuperscriptElement](../mathsuperscriptelement) | Base |
-| degreeArgument | [MathLimit](../../mathlimit) | Degree |
-
-
----
-
-
-## MathRadical([MathSuperscriptElement](../../mathsuperscriptelement) baseArgument, [MathBlock](../../mathblock) degreeArgument)  constructor
-
- Initializes a new instance of the MathRadical class.
- 
-Example:
- 
-```php
-  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
-```
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| baseArgument | [MathSuperscriptElement](../mathsuperscriptelement) | Base |
-| degreeArgument | [MathBlock](../../mathblock) | Degree |
-
-
----
-
-
-## MathRadical([MathSuperscriptElement](../../mathsuperscriptelement) baseArgument, [MathRadical](../../mathradical) degreeArgument)  constructor
-
- Initializes a new instance of the MathRadical class.
- 
-Example:
- 
-```php
-  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
-```
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| baseArgument | [MathSuperscriptElement](../mathsuperscriptelement) | Base |
-| degreeArgument | [MathRadical](../../mathradical) | Degree |
-
-
----
-
-
-## MathRadical([MathSuperscriptElement](../../mathsuperscriptelement) baseArgument, [MathArray](../../matharray) degreeArgument)  constructor
-
- Initializes a new instance of the MathRadical class.
- 
-Example:
- 
-```php
-  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
-```
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| baseArgument | [MathSuperscriptElement](../mathsuperscriptelement) | Base |
-| degreeArgument | [MathArray](../../matharray) | Degree |
-
-
----
-
-
-## MathRadical([MathSuperscriptElement](../../mathsuperscriptelement) baseArgument, [MathDelimiter](../../mathdelimiter) degreeArgument)  constructor
-
- Initializes a new instance of the MathRadical class.
- 
-Example:
- 
-```php
-  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
-```
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| baseArgument | [MathSuperscriptElement](../mathsuperscriptelement) | Base |
-| degreeArgument | [MathDelimiter](../../mathdelimiter) | Degree |
-
-
----
-
-
-## MathRadical([MathSuperscriptElement](../../mathsuperscriptelement) baseArgument, [MathAccent](../../mathaccent) degreeArgument)  constructor
-
- Initializes a new instance of the MathRadical class.
- 
-Example:
- 
-```php
-  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
-```
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| baseArgument | [MathSuperscriptElement](../mathsuperscriptelement) | Base |
-| degreeArgument | [MathAccent](../../mathaccent) | Degree |
-
-
----
-
-
-## MathRadical([MathSuperscriptElement](../../mathsuperscriptelement) baseArgument, [MathNaryOperator](../../mathnaryoperator) degreeArgument)  constructor
-
- Initializes a new instance of the MathRadical class.
- 
-Example:
- 
-```php
-  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
-```
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| baseArgument | [MathSuperscriptElement](../mathsuperscriptelement) | Base |
-| degreeArgument | [MathNaryOperator](../../mathnaryoperator) | Degree |
-
-
----
-
-
-## MathRadical([MathSuperscriptElement](../../mathsuperscriptelement) baseArgument, [MathGroupingCharacter](../../mathgroupingcharacter) degreeArgument)  constructor
-
- Initializes a new instance of the MathRadical class.
- 
-Example:
- 
-```php
-  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
-```
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| baseArgument | [MathSuperscriptElement](../mathsuperscriptelement) | Base |
-| degreeArgument | [MathGroupingCharacter](../../mathgroupingcharacter) | Degree |
-
-
----
-
-
-## MathRadical([MathSuperscriptElement](../../mathsuperscriptelement) baseArgument, [MathBorderBox](../../mathborderbox) degreeArgument)  constructor
-
- Initializes a new instance of the MathRadical class.
- 
-Example:
- 
-```php
-  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
-```
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| baseArgument | [MathSuperscriptElement](../mathsuperscriptelement) | Base |
-| degreeArgument | [MathBorderBox](../../mathborderbox) | Degree |
-
-
----
-
-
-## MathRadical([MathSuperscriptElement](../../mathsuperscriptelement) baseArgument, [MathBar](../../mathbar) degreeArgument)  constructor
-
- Initializes a new instance of the MathRadical class.
- 
-Example:
- 
-```php
-  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
-```
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| baseArgument | [MathSuperscriptElement](../mathsuperscriptelement) | Base |
-| degreeArgument | [MathBar](../../mathbar) | Degree |
-
-
----
-
-
-## MathRadical([MathSuperscriptElement](../../mathsuperscriptelement) baseArgument, [MathFunction](../../mathfunction) degreeArgument)  constructor
-
- Initializes a new instance of the MathRadical class.
- 
-Example:
- 
-```php
-  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
-```
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| baseArgument | [MathSuperscriptElement](../mathsuperscriptelement) | Base |
-| degreeArgument | [MathFunction](../../mathfunction) | Degree |
-
-
----
-
-
-## MathRadical([MathSuperscriptElement](../../mathsuperscriptelement) baseArgument, [MathSubscriptElement](../../mathsubscriptelement) degreeArgument)  constructor
-
- Initializes a new instance of the MathRadical class.
- 
-Example:
- 
-```php
-  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
-```
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| baseArgument | [MathSuperscriptElement](../mathsuperscriptelement) | Base |
-| degreeArgument | [MathSubscriptElement](../../mathsubscriptelement) | Degree |
-
-
----
-
-
-## MathRadical([MathSuperscriptElement](../../mathsuperscriptelement) baseArgument, [MathSuperscriptElement](../../mathsuperscriptelement) degreeArgument)  constructor
-
- Initializes a new instance of the MathRadical class.
- 
-Example:
- 
-```php
-  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
-```
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| baseArgument | [MathSuperscriptElement](../mathsuperscriptelement) | Base |
-| degreeArgument | [MathSuperscriptElement](../../mathsuperscriptelement) | Degree |
-
-
----
-
-
-## MathRadical([MathSuperscriptElement](../../mathsuperscriptelement) baseArgument, [MathFraction](../../mathfraction) degreeArgument)  constructor
-
- Initializes a new instance of the MathRadical class.
- 
-Example:
- 
-```php
-  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
-```
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| baseArgument | [MathSuperscriptElement](../mathsuperscriptelement) | Base |
-| degreeArgument | [MathFraction](../../mathfraction) | Degree |
-
-
----
-
-
-## MathRadical([MathSuperscriptElement](../../mathsuperscriptelement) baseArgument, [MathematicalText](../../mathematicaltext) degreeArgument)  constructor
-
- Initializes a new instance of the MathRadical class.
- 
-Example:
- 
-```php
-  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
-```
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| baseArgument | [MathSuperscriptElement](../mathsuperscriptelement) | Base |
-| degreeArgument | [MathematicalText](../../mathematicaltext) | Degree |
-
-
----
-
-
-## MathRadical([MathSuperscriptElement](../../mathsuperscriptelement) baseArgument, [MathBox](../../mathbox) degreeArgument)  constructor
-
- Initializes a new instance of the MathRadical class.
- 
-Example:
- 
-```php
-  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
-```
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| baseArgument | [MathSuperscriptElement](../mathsuperscriptelement) | Base |
-| degreeArgument | [MathBox](../../mathbox) | Degree |
-
-
----
-
-
-## MathRadical([MathSuperscriptElement](../../mathsuperscriptelement) baseArgument, [MathRightSubSuperscriptElement](../../mathrightsubsuperscriptelement) degreeArgument)  constructor
-
- Initializes a new instance of the MathRadical class.
- 
-Example:
- 
-```php
-  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
-```
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| baseArgument | [MathSuperscriptElement](../mathsuperscriptelement) | Base |
-| degreeArgument | [MathRightSubSuperscriptElement](../../mathrightsubsuperscriptelement) | Degree |
-
-
----
-
-
 ## MathRadical([MathFraction](../../mathfraction) baseArgument, [MathLeftSubSuperscriptElement](../../mathleftsubsuperscriptelement) degreeArgument)  constructor
 
  Initializes a new instance of the MathRadical class.
@@ -6013,27 +6013,6 @@ Example:
 ---
 
 
-## MathRadical([MathFraction](../../mathfraction) baseArgument, [MathMatrix](../../mathmatrix) degreeArgument)  constructor
-
- Initializes a new instance of the MathRadical class.
- 
-Example:
- 
-```php
-  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
-```
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| baseArgument | [MathFraction](../mathfraction) | Base |
-| degreeArgument | [MathMatrix](../../mathmatrix) | Degree |
-
-
----
-
-
 ## MathRadical([MathFraction](../../mathfraction) baseArgument, [MathLimit](../../mathlimit) degreeArgument)  constructor
 
  Initializes a new instance of the MathRadical class.
@@ -6050,6 +6029,27 @@ Example:
 | --- | --- | --- |
 | baseArgument | [MathFraction](../mathfraction) | Base |
 | degreeArgument | [MathLimit](../../mathlimit) | Degree |
+
+
+---
+
+
+## MathRadical([MathFraction](../../mathfraction) baseArgument, [MathMatrix](../../mathmatrix) degreeArgument)  constructor
+
+ Initializes a new instance of the MathRadical class.
+ 
+Example:
+ 
+```php
+  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
+```
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| baseArgument | [MathFraction](../mathfraction) | Base |
+| degreeArgument | [MathMatrix](../../mathmatrix) | Degree |
 
 
 ---
@@ -6139,27 +6139,6 @@ Example:
 ---
 
 
-## MathRadical([MathFraction](../../mathfraction) baseArgument, [MathAccent](../../mathaccent) degreeArgument)  constructor
-
- Initializes a new instance of the MathRadical class.
- 
-Example:
- 
-```php
-  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
-```
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| baseArgument | [MathFraction](../mathfraction) | Base |
-| degreeArgument | [MathAccent](../../mathaccent) | Degree |
-
-
----
-
-
 ## MathRadical([MathFraction](../../mathfraction) baseArgument, [MathNaryOperator](../../mathnaryoperator) degreeArgument)  constructor
 
  Initializes a new instance of the MathRadical class.
@@ -6181,7 +6160,7 @@ Example:
 ---
 
 
-## MathRadical([MathFraction](../../mathfraction) baseArgument, [MathGroupingCharacter](../../mathgroupingcharacter) degreeArgument)  constructor
+## MathRadical([MathFraction](../../mathfraction) baseArgument, [MathAccent](../../mathaccent) degreeArgument)  constructor
 
  Initializes a new instance of the MathRadical class.
  
@@ -6196,7 +6175,7 @@ Example:
 | Name | Type | Description |
 | --- | --- | --- |
 | baseArgument | [MathFraction](../mathfraction) | Base |
-| degreeArgument | [MathGroupingCharacter](../../mathgroupingcharacter) | Degree |
+| degreeArgument | [MathAccent](../../mathaccent) | Degree |
 
 
 ---
@@ -6223,6 +6202,27 @@ Example:
 ---
 
 
+## MathRadical([MathFraction](../../mathfraction) baseArgument, [MathGroupingCharacter](../../mathgroupingcharacter) degreeArgument)  constructor
+
+ Initializes a new instance of the MathRadical class.
+ 
+Example:
+ 
+```php
+  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
+```
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| baseArgument | [MathFraction](../mathfraction) | Base |
+| degreeArgument | [MathGroupingCharacter](../../mathgroupingcharacter) | Degree |
+
+
+---
+
+
 ## MathRadical([MathFraction](../../mathfraction) baseArgument, [MathBar](../../mathbar) degreeArgument)  constructor
 
  Initializes a new instance of the MathRadical class.
@@ -6239,6 +6239,27 @@ Example:
 | --- | --- | --- |
 | baseArgument | [MathFraction](../mathfraction) | Base |
 | degreeArgument | [MathBar](../../mathbar) | Degree |
+
+
+---
+
+
+## MathRadical([MathFraction](../../mathfraction) baseArgument, [MathSuperscriptElement](../../mathsuperscriptelement) degreeArgument)  constructor
+
+ Initializes a new instance of the MathRadical class.
+ 
+Example:
+ 
+```php
+  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
+```
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| baseArgument | [MathFraction](../mathfraction) | Base |
+| degreeArgument | [MathSuperscriptElement](../../mathsuperscriptelement) | Degree |
 
 
 ---
@@ -6281,27 +6302,6 @@ Example:
 | --- | --- | --- |
 | baseArgument | [MathFraction](../mathfraction) | Base |
 | degreeArgument | [MathSubscriptElement](../../mathsubscriptelement) | Degree |
-
-
----
-
-
-## MathRadical([MathFraction](../../mathfraction) baseArgument, [MathSuperscriptElement](../../mathsuperscriptelement) degreeArgument)  constructor
-
- Initializes a new instance of the MathRadical class.
- 
-Example:
- 
-```php
-  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
-```
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| baseArgument | [MathFraction](../mathfraction) | Base |
-| degreeArgument | [MathSuperscriptElement](../../mathsuperscriptelement) | Degree |
 
 
 ---
@@ -6412,27 +6412,6 @@ Example:
 ---
 
 
-## MathRadical([MathematicalText](../../mathematicaltext) baseArgument, [MathMatrix](../../mathmatrix) degreeArgument)  constructor
-
- Initializes a new instance of the MathRadical class.
- 
-Example:
- 
-```php
-  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
-```
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| baseArgument | [MathematicalText](../mathematicaltext) | Base |
-| degreeArgument | [MathMatrix](../../mathmatrix) | Degree |
-
-
----
-
-
 ## MathRadical([MathematicalText](../../mathematicaltext) baseArgument, [MathLimit](../../mathlimit) degreeArgument)  constructor
 
  Initializes a new instance of the MathRadical class.
@@ -6449,6 +6428,27 @@ Example:
 | --- | --- | --- |
 | baseArgument | [MathematicalText](../mathematicaltext) | Base |
 | degreeArgument | [MathLimit](../../mathlimit) | Degree |
+
+
+---
+
+
+## MathRadical([MathematicalText](../../mathematicaltext) baseArgument, [MathMatrix](../../mathmatrix) degreeArgument)  constructor
+
+ Initializes a new instance of the MathRadical class.
+ 
+Example:
+ 
+```php
+  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
+```
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| baseArgument | [MathematicalText](../mathematicaltext) | Base |
+| degreeArgument | [MathMatrix](../../mathmatrix) | Degree |
 
 
 ---
@@ -6538,27 +6538,6 @@ Example:
 ---
 
 
-## MathRadical([MathematicalText](../../mathematicaltext) baseArgument, [MathAccent](../../mathaccent) degreeArgument)  constructor
-
- Initializes a new instance of the MathRadical class.
- 
-Example:
- 
-```php
-  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
-```
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| baseArgument | [MathematicalText](../mathematicaltext) | Base |
-| degreeArgument | [MathAccent](../../mathaccent) | Degree |
-
-
----
-
-
 ## MathRadical([MathematicalText](../../mathematicaltext) baseArgument, [MathNaryOperator](../../mathnaryoperator) degreeArgument)  constructor
 
  Initializes a new instance of the MathRadical class.
@@ -6580,7 +6559,7 @@ Example:
 ---
 
 
-## MathRadical([MathematicalText](../../mathematicaltext) baseArgument, [MathGroupingCharacter](../../mathgroupingcharacter) degreeArgument)  constructor
+## MathRadical([MathematicalText](../../mathematicaltext) baseArgument, [MathAccent](../../mathaccent) degreeArgument)  constructor
 
  Initializes a new instance of the MathRadical class.
  
@@ -6595,7 +6574,7 @@ Example:
 | Name | Type | Description |
 | --- | --- | --- |
 | baseArgument | [MathematicalText](../mathematicaltext) | Base |
-| degreeArgument | [MathGroupingCharacter](../../mathgroupingcharacter) | Degree |
+| degreeArgument | [MathAccent](../../mathaccent) | Degree |
 
 
 ---
@@ -6622,6 +6601,27 @@ Example:
 ---
 
 
+## MathRadical([MathematicalText](../../mathematicaltext) baseArgument, [MathGroupingCharacter](../../mathgroupingcharacter) degreeArgument)  constructor
+
+ Initializes a new instance of the MathRadical class.
+ 
+Example:
+ 
+```php
+  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
+```
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| baseArgument | [MathematicalText](../mathematicaltext) | Base |
+| degreeArgument | [MathGroupingCharacter](../../mathgroupingcharacter) | Degree |
+
+
+---
+
+
 ## MathRadical([MathematicalText](../../mathematicaltext) baseArgument, [MathBar](../../mathbar) degreeArgument)  constructor
 
  Initializes a new instance of the MathRadical class.
@@ -6638,6 +6638,27 @@ Example:
 | --- | --- | --- |
 | baseArgument | [MathematicalText](../mathematicaltext) | Base |
 | degreeArgument | [MathBar](../../mathbar) | Degree |
+
+
+---
+
+
+## MathRadical([MathematicalText](../../mathematicaltext) baseArgument, [MathSuperscriptElement](../../mathsuperscriptelement) degreeArgument)  constructor
+
+ Initializes a new instance of the MathRadical class.
+ 
+Example:
+ 
+```php
+  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
+```
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| baseArgument | [MathematicalText](../mathematicaltext) | Base |
+| degreeArgument | [MathSuperscriptElement](../../mathsuperscriptelement) | Degree |
 
 
 ---
@@ -6680,27 +6701,6 @@ Example:
 | --- | --- | --- |
 | baseArgument | [MathematicalText](../mathematicaltext) | Base |
 | degreeArgument | [MathSubscriptElement](../../mathsubscriptelement) | Degree |
-
-
----
-
-
-## MathRadical([MathematicalText](../../mathematicaltext) baseArgument, [MathSuperscriptElement](../../mathsuperscriptelement) degreeArgument)  constructor
-
- Initializes a new instance of the MathRadical class.
- 
-Example:
- 
-```php
-  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
-```
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| baseArgument | [MathematicalText](../mathematicaltext) | Base |
-| degreeArgument | [MathSuperscriptElement](../../mathsuperscriptelement) | Degree |
 
 
 ---
@@ -6811,27 +6811,6 @@ Example:
 ---
 
 
-## MathRadical([MathBox](../../mathbox) baseArgument, [MathMatrix](../../mathmatrix) degreeArgument)  constructor
-
- Initializes a new instance of the MathRadical class.
- 
-Example:
- 
-```php
-  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
-```
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| baseArgument | [MathBox](../mathbox) | Base |
-| degreeArgument | [MathMatrix](../../mathmatrix) | Degree |
-
-
----
-
-
 ## MathRadical([MathBox](../../mathbox) baseArgument, [MathLimit](../../mathlimit) degreeArgument)  constructor
 
  Initializes a new instance of the MathRadical class.
@@ -6848,6 +6827,27 @@ Example:
 | --- | --- | --- |
 | baseArgument | [MathBox](../mathbox) | Base |
 | degreeArgument | [MathLimit](../../mathlimit) | Degree |
+
+
+---
+
+
+## MathRadical([MathBox](../../mathbox) baseArgument, [MathMatrix](../../mathmatrix) degreeArgument)  constructor
+
+ Initializes a new instance of the MathRadical class.
+ 
+Example:
+ 
+```php
+  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
+```
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| baseArgument | [MathBox](../mathbox) | Base |
+| degreeArgument | [MathMatrix](../../mathmatrix) | Degree |
 
 
 ---
@@ -6937,27 +6937,6 @@ Example:
 ---
 
 
-## MathRadical([MathBox](../../mathbox) baseArgument, [MathAccent](../../mathaccent) degreeArgument)  constructor
-
- Initializes a new instance of the MathRadical class.
- 
-Example:
- 
-```php
-  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
-```
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| baseArgument | [MathBox](../mathbox) | Base |
-| degreeArgument | [MathAccent](../../mathaccent) | Degree |
-
-
----
-
-
 ## MathRadical([MathBox](../../mathbox) baseArgument, [MathNaryOperator](../../mathnaryoperator) degreeArgument)  constructor
 
  Initializes a new instance of the MathRadical class.
@@ -6979,7 +6958,7 @@ Example:
 ---
 
 
-## MathRadical([MathBox](../../mathbox) baseArgument, [MathGroupingCharacter](../../mathgroupingcharacter) degreeArgument)  constructor
+## MathRadical([MathBox](../../mathbox) baseArgument, [MathAccent](../../mathaccent) degreeArgument)  constructor
 
  Initializes a new instance of the MathRadical class.
  
@@ -6994,7 +6973,7 @@ Example:
 | Name | Type | Description |
 | --- | --- | --- |
 | baseArgument | [MathBox](../mathbox) | Base |
-| degreeArgument | [MathGroupingCharacter](../../mathgroupingcharacter) | Degree |
+| degreeArgument | [MathAccent](../../mathaccent) | Degree |
 
 
 ---
@@ -7021,6 +7000,27 @@ Example:
 ---
 
 
+## MathRadical([MathBox](../../mathbox) baseArgument, [MathGroupingCharacter](../../mathgroupingcharacter) degreeArgument)  constructor
+
+ Initializes a new instance of the MathRadical class.
+ 
+Example:
+ 
+```php
+  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
+```
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| baseArgument | [MathBox](../mathbox) | Base |
+| degreeArgument | [MathGroupingCharacter](../../mathgroupingcharacter) | Degree |
+
+
+---
+
+
 ## MathRadical([MathBox](../../mathbox) baseArgument, [MathBar](../../mathbar) degreeArgument)  constructor
 
  Initializes a new instance of the MathRadical class.
@@ -7037,6 +7037,27 @@ Example:
 | --- | --- | --- |
 | baseArgument | [MathBox](../mathbox) | Base |
 | degreeArgument | [MathBar](../../mathbar) | Degree |
+
+
+---
+
+
+## MathRadical([MathBox](../../mathbox) baseArgument, [MathSuperscriptElement](../../mathsuperscriptelement) degreeArgument)  constructor
+
+ Initializes a new instance of the MathRadical class.
+ 
+Example:
+ 
+```php
+  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
+```
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| baseArgument | [MathBox](../mathbox) | Base |
+| degreeArgument | [MathSuperscriptElement](../../mathsuperscriptelement) | Degree |
 
 
 ---
@@ -7079,27 +7100,6 @@ Example:
 | --- | --- | --- |
 | baseArgument | [MathBox](../mathbox) | Base |
 | degreeArgument | [MathSubscriptElement](../../mathsubscriptelement) | Degree |
-
-
----
-
-
-## MathRadical([MathBox](../../mathbox) baseArgument, [MathSuperscriptElement](../../mathsuperscriptelement) degreeArgument)  constructor
-
- Initializes a new instance of the MathRadical class.
- 
-Example:
- 
-```php
-  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
-```
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| baseArgument | [MathBox](../mathbox) | Base |
-| degreeArgument | [MathSuperscriptElement](../../mathsuperscriptelement) | Degree |
 
 
 ---
@@ -7210,27 +7210,6 @@ Example:
 ---
 
 
-## MathRadical([MathRightSubSuperscriptElement](../../mathrightsubsuperscriptelement) baseArgument, [MathMatrix](../../mathmatrix) degreeArgument)  constructor
-
- Initializes a new instance of the MathRadical class.
- 
-Example:
- 
-```php
-  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
-```
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| baseArgument | [MathRightSubSuperscriptElement](../mathrightsubsuperscriptelement) | Base |
-| degreeArgument | [MathMatrix](../../mathmatrix) | Degree |
-
-
----
-
-
 ## MathRadical([MathRightSubSuperscriptElement](../../mathrightsubsuperscriptelement) baseArgument, [MathLimit](../../mathlimit) degreeArgument)  constructor
 
  Initializes a new instance of the MathRadical class.
@@ -7247,6 +7226,27 @@ Example:
 | --- | --- | --- |
 | baseArgument | [MathRightSubSuperscriptElement](../mathrightsubsuperscriptelement) | Base |
 | degreeArgument | [MathLimit](../../mathlimit) | Degree |
+
+
+---
+
+
+## MathRadical([MathRightSubSuperscriptElement](../../mathrightsubsuperscriptelement) baseArgument, [MathMatrix](../../mathmatrix) degreeArgument)  constructor
+
+ Initializes a new instance of the MathRadical class.
+ 
+Example:
+ 
+```php
+  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
+```
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| baseArgument | [MathRightSubSuperscriptElement](../mathrightsubsuperscriptelement) | Base |
+| degreeArgument | [MathMatrix](../../mathmatrix) | Degree |
 
 
 ---
@@ -7336,27 +7336,6 @@ Example:
 ---
 
 
-## MathRadical([MathRightSubSuperscriptElement](../../mathrightsubsuperscriptelement) baseArgument, [MathAccent](../../mathaccent) degreeArgument)  constructor
-
- Initializes a new instance of the MathRadical class.
- 
-Example:
- 
-```php
-  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
-```
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| baseArgument | [MathRightSubSuperscriptElement](../mathrightsubsuperscriptelement) | Base |
-| degreeArgument | [MathAccent](../../mathaccent) | Degree |
-
-
----
-
-
 ## MathRadical([MathRightSubSuperscriptElement](../../mathrightsubsuperscriptelement) baseArgument, [MathNaryOperator](../../mathnaryoperator) degreeArgument)  constructor
 
  Initializes a new instance of the MathRadical class.
@@ -7378,7 +7357,7 @@ Example:
 ---
 
 
-## MathRadical([MathRightSubSuperscriptElement](../../mathrightsubsuperscriptelement) baseArgument, [MathGroupingCharacter](../../mathgroupingcharacter) degreeArgument)  constructor
+## MathRadical([MathRightSubSuperscriptElement](../../mathrightsubsuperscriptelement) baseArgument, [MathAccent](../../mathaccent) degreeArgument)  constructor
 
  Initializes a new instance of the MathRadical class.
  
@@ -7393,7 +7372,7 @@ Example:
 | Name | Type | Description |
 | --- | --- | --- |
 | baseArgument | [MathRightSubSuperscriptElement](../mathrightsubsuperscriptelement) | Base |
-| degreeArgument | [MathGroupingCharacter](../../mathgroupingcharacter) | Degree |
+| degreeArgument | [MathAccent](../../mathaccent) | Degree |
 
 
 ---
@@ -7420,6 +7399,27 @@ Example:
 ---
 
 
+## MathRadical([MathRightSubSuperscriptElement](../../mathrightsubsuperscriptelement) baseArgument, [MathGroupingCharacter](../../mathgroupingcharacter) degreeArgument)  constructor
+
+ Initializes a new instance of the MathRadical class.
+ 
+Example:
+ 
+```php
+  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
+```
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| baseArgument | [MathRightSubSuperscriptElement](../mathrightsubsuperscriptelement) | Base |
+| degreeArgument | [MathGroupingCharacter](../../mathgroupingcharacter) | Degree |
+
+
+---
+
+
 ## MathRadical([MathRightSubSuperscriptElement](../../mathrightsubsuperscriptelement) baseArgument, [MathBar](../../mathbar) degreeArgument)  constructor
 
  Initializes a new instance of the MathRadical class.
@@ -7436,6 +7436,27 @@ Example:
 | --- | --- | --- |
 | baseArgument | [MathRightSubSuperscriptElement](../mathrightsubsuperscriptelement) | Base |
 | degreeArgument | [MathBar](../../mathbar) | Degree |
+
+
+---
+
+
+## MathRadical([MathRightSubSuperscriptElement](../../mathrightsubsuperscriptelement) baseArgument, [MathSuperscriptElement](../../mathsuperscriptelement) degreeArgument)  constructor
+
+ Initializes a new instance of the MathRadical class.
+ 
+Example:
+ 
+```php
+  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
+```
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| baseArgument | [MathRightSubSuperscriptElement](../mathrightsubsuperscriptelement) | Base |
+| degreeArgument | [MathSuperscriptElement](../../mathsuperscriptelement) | Degree |
 
 
 ---
@@ -7478,27 +7499,6 @@ Example:
 | --- | --- | --- |
 | baseArgument | [MathRightSubSuperscriptElement](../mathrightsubsuperscriptelement) | Base |
 | degreeArgument | [MathSubscriptElement](../../mathsubscriptelement) | Degree |
-
-
----
-
-
-## MathRadical([MathRightSubSuperscriptElement](../../mathrightsubsuperscriptelement) baseArgument, [MathSuperscriptElement](../../mathsuperscriptelement) degreeArgument)  constructor
-
- Initializes a new instance of the MathRadical class.
- 
-Example:
- 
-```php
-  $radical = new MathRadical(new MathematicalText("x"), new MathematicalText("3"));
-```
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| baseArgument | [MathRightSubSuperscriptElement](../mathrightsubsuperscriptelement) | Base |
-| degreeArgument | [MathSuperscriptElement](../../mathsuperscriptelement) | Degree |
 
 
 ---

@@ -3,7 +3,7 @@ title: getStrokeImageSizeY
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 980
+weight: 990
 url: /php-java/behaviorproperty/getstrokeimagesizey/
 ---
 

@@ -3,7 +3,7 @@ title: getEffectsByShape
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 90
+weight: 110
 url: /php-java/sequence/geteffectsbyshape/
 ---
 
@@ -43,7 +43,7 @@ url: /php-java/sequence/geteffectsbyshape/
 ---
 
 
-## getEffectsByShape([Table](../../table) shape)  method
+## getEffectsByShape([Shape](../../shape) shape)  method
 
  Returns array of effects for the specified shape.
  
@@ -55,7 +55,7 @@ url: /php-java/sequence/geteffectsbyshape/
 ---
 
 
-## getEffectsByShape([Shape](../../shape) shape)  method
+## getEffectsByShape([Table](../../table) shape)  method
 
  Returns array of effects for the specified shape.
  
@@ -199,7 +199,7 @@ url: /php-java/sequence/geteffectsbyshape/
 ---
 
 
-## getEffectsByShape([AudioFrame](../../audioframe) shape)  method
+## getEffectsByShape([Chart](../../chart) shape)  method
 
  Returns array of effects for the specified shape.
  
@@ -211,7 +211,7 @@ url: /php-java/sequence/geteffectsbyshape/
 ---
 
 
-## getEffectsByShape([Chart](../../chart) shape)  method
+## getEffectsByShape([AudioFrame](../../audioframe) shape)  method
 
  Returns array of effects for the specified shape.
  

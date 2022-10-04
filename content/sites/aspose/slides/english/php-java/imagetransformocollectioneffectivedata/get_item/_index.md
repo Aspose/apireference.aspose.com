@@ -3,7 +3,7 @@ title: get_Item
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 50
+weight: 120
 url: /php-java/imagetransformocollectioneffectivedata/get_item/
 ---
 
@@ -19,7 +19,7 @@ url: /php-java/imagetransformocollectioneffectivedata/get_item/
 | index | int | Index of element. |
 
 ### Returns
-BlurEffectiveData, ReflectionEffectiveData, BiLevelEffectiveData, AlphaReplaceEffectiveData, GrayScaleEffectiveData, DuotoneEffectiveData, AlphaModulateEffectiveData, GlowEffectiveData, AlphaInverseEffectiveData, PresetShadowEffectiveData, EffectEffectiveData, AlphaBiLevelEffectiveData, ColorReplaceEffectiveData, AlphaModulateFixedEffectiveData, ColorChangeEffectiveData, AlphaCeilingEffectiveData, FillOverlayEffectiveData, TintEffectiveData, AlphaFloorEffectiveData, InnerShadowEffectiveData, HSLEffectiveData, SoftEdgeEffectiveData, LuminanceEffectiveData, OuterShadowEffectiveData
+[BlurEffectiveData](../../blureffectivedata), [ReflectionEffectiveData](../../reflectioneffectivedata), [BiLevelEffectiveData](../../bileveleffectivedata), [DuotoneEffectiveData](../../duotoneeffectivedata), [AlphaReplaceEffectiveData](../../alphareplaceeffectivedata), [GrayScaleEffectiveData](../../grayscaleeffectivedata), [AlphaModulateEffectiveData](../../alphamodulateeffectivedata), [GlowEffectiveData](../../gloweffectivedata), [AlphaInverseEffectiveData](../../alphainverseeffectivedata), [PresetShadowEffectiveData](../../presetshadoweffectivedata), [EffectEffectiveData](../../effecteffectivedata), [ColorReplaceEffectiveData](../../colorreplaceeffectivedata), [AlphaBiLevelEffectiveData](../../alphabileveleffectivedata), [AlphaModulateFixedEffectiveData](../../alphamodulatefixedeffectivedata), [AlphaCeilingEffectiveData](../../alphaceilingeffectivedata), [ColorChangeEffectiveData](../../colorchangeeffectivedata), [FillOverlayEffectiveData](../../filloverlayeffectivedata), [TintEffectiveData](../../tinteffectivedata), [AlphaFloorEffectiveData](../../alphaflooreffectivedata), [InnerShadowEffectiveData](../../innershadoweffectivedata), [HSLEffectiveData](../../hsleffectivedata), [LuminanceEffectiveData](../../luminanceeffectivedata), [SoftEdgeEffectiveData](../../softedgeeffectivedata), [OuterShadowEffectiveData](../../outershadoweffectivedata)
 
 
 ---

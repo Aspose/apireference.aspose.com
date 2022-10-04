@@ -22,8 +22,6 @@ url: /php-java/timing/
 | [getDuration](getduration)() | Describes the duration of animation effect. Read/write float. |
 | [getRepeatCount](getrepeatcount)() | Describes the number of times the effect should repeat. Read/write float. |
 | [getRepeatDuration](getrepeatduration)() | Describes the number of times the effect should repeat. Read/write float. |
-| [getRepeatUntilEndSlide](getrepeatuntilendslide)() | This attribute specifies if the effect will repeat until the end of the slide. Read/write boolean. |
-| [getRepeatUntilNextClick](getrepeatuntilnextclick)() | This attribute specifies if the effect will repeat until the next click. Read/write boolean. |
 | [getRestart](getrestart)() | Specifies if a effect is to restart after complete. Read/write EffectRestartType. |
 | [getSpeed](getspeed)() | Specifies the percentage by which to speed up (or slow down) the timing. Read/write float. |
 | [getTriggerDelayTime](gettriggerdelaytime)() | Describes delay time after trigger. Read/write float. |
@@ -34,8 +32,6 @@ url: /php-java/timing/
 | [setDuration](setduration)(float) | Describes the duration of animation effect. Read/write float. |
 | [setRepeatCount](setrepeatcount)(float) | Describes the number of times the effect should repeat. Read/write float. |
 | [setRepeatDuration](setrepeatduration)(float) | Describes the number of times the effect should repeat. Read/write float. |
-| [setRepeatUntilEndSlide](setrepeatuntilendslide)(boolean) | This attribute specifies if the effect will repeat until the end of the slide. Read/write boolean. |
-| [setRepeatUntilNextClick](setrepeatuntilnextclick)(boolean) | This attribute specifies if the effect will repeat until the next click. Read/write boolean. |
 | [setRestart](setrestart)(int) | Specifies if a effect is to restart after complete. Read/write EffectRestartType. |
 | [setSpeed](setspeed)(float) | Specifies the percentage by which to speed up (or slow down) the timing. Read/write float. |
 | [setTriggerDelayTime](settriggerdelaytime)(float) | Describes delay time after trigger. Read/write float. |

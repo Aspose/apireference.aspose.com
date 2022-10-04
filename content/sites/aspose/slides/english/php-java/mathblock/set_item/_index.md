@@ -3,7 +3,7 @@ title: set_Item
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 250
+weight: 300
 url: /php-java/mathblock/set_item/
 ---
 
@@ -32,31 +32,6 @@ void
 ---
 
 
-## set_Item(int index, [MathMatrix](../../mathmatrix) value)  method
-
- Gets or sets IMathElement at the specified index.
- 
-Example:
- 
-```php
-  $mathBlock = new MathBlock(new MathematicalText("x"));
-  $firstElem = $mathBlock->get_Item(0);
-```
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| value | int | The mathematical element. |
-| index | [MathMatrix](../../mathmatrix) | The zero-based index of the item |
-
-### Returns
-void
-
-
----
-
-
 ## set_Item(int index, [MathLimit](../../mathlimit) value)  method
 
  Gets or sets IMathElement at the specified index.
@@ -74,6 +49,31 @@ Example:
 | --- | --- | --- |
 | value | int | The mathematical element. |
 | index | [MathLimit](../../mathlimit) | The zero-based index of the item |
+
+### Returns
+void
+
+
+---
+
+
+## set_Item(int index, [MathMatrix](../../mathmatrix) value)  method
+
+ Gets or sets IMathElement at the specified index.
+ 
+Example:
+ 
+```php
+  $mathBlock = new MathBlock(new MathematicalText("x"));
+  $firstElem = $mathBlock->get_Item(0);
+```
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| value | int | The mathematical element. |
+| index | [MathMatrix](../../mathmatrix) | The zero-based index of the item |
 
 ### Returns
 void
@@ -182,31 +182,6 @@ void
 ---
 
 
-## set_Item(int index, [MathAccent](../../mathaccent) value)  method
-
- Gets or sets IMathElement at the specified index.
- 
-Example:
- 
-```php
-  $mathBlock = new MathBlock(new MathematicalText("x"));
-  $firstElem = $mathBlock->get_Item(0);
-```
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| value | int | The mathematical element. |
-| index | [MathAccent](../../mathaccent) | The zero-based index of the item |
-
-### Returns
-void
-
-
----
-
-
 ## set_Item(int index, [MathNaryOperator](../../mathnaryoperator) value)  method
 
  Gets or sets IMathElement at the specified index.
@@ -232,7 +207,7 @@ void
 ---
 
 
-## set_Item(int index, [MathGroupingCharacter](../../mathgroupingcharacter) value)  method
+## set_Item(int index, [MathAccent](../../mathaccent) value)  method
 
  Gets or sets IMathElement at the specified index.
  
@@ -248,7 +223,7 @@ Example:
 | Name | Type | Description |
 | --- | --- | --- |
 | value | int | The mathematical element. |
-| index | [MathGroupingCharacter](../../mathgroupingcharacter) | The zero-based index of the item |
+| index | [MathAccent](../../mathaccent) | The zero-based index of the item |
 
 ### Returns
 void
@@ -282,6 +257,31 @@ void
 ---
 
 
+## set_Item(int index, [MathGroupingCharacter](../../mathgroupingcharacter) value)  method
+
+ Gets or sets IMathElement at the specified index.
+ 
+Example:
+ 
+```php
+  $mathBlock = new MathBlock(new MathematicalText("x"));
+  $firstElem = $mathBlock->get_Item(0);
+```
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| value | int | The mathematical element. |
+| index | [MathGroupingCharacter](../../mathgroupingcharacter) | The zero-based index of the item |
+
+### Returns
+void
+
+
+---
+
+
 ## set_Item(int index, [MathBar](../../mathbar) value)  method
 
  Gets or sets IMathElement at the specified index.
@@ -299,6 +299,31 @@ Example:
 | --- | --- | --- |
 | value | int | The mathematical element. |
 | index | [MathBar](../../mathbar) | The zero-based index of the item |
+
+### Returns
+void
+
+
+---
+
+
+## set_Item(int index, [MathSuperscriptElement](../../mathsuperscriptelement) value)  method
+
+ Gets or sets IMathElement at the specified index.
+ 
+Example:
+ 
+```php
+  $mathBlock = new MathBlock(new MathematicalText("x"));
+  $firstElem = $mathBlock->get_Item(0);
+```
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| value | int | The mathematical element. |
+| index | [MathSuperscriptElement](../../mathsuperscriptelement) | The zero-based index of the item |
 
 ### Returns
 void
@@ -349,31 +374,6 @@ Example:
 | --- | --- | --- |
 | value | int | The mathematical element. |
 | index | [MathSubscriptElement](../../mathsubscriptelement) | The zero-based index of the item |
-
-### Returns
-void
-
-
----
-
-
-## set_Item(int index, [MathSuperscriptElement](../../mathsuperscriptelement) value)  method
-
- Gets or sets IMathElement at the specified index.
- 
-Example:
- 
-```php
-  $mathBlock = new MathBlock(new MathematicalText("x"));
-  $firstElem = $mathBlock->get_Item(0);
-```
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| value | int | The mathematical element. |
-| index | [MathSuperscriptElement](../../mathsuperscriptelement) | The zero-based index of the item |
 
 ### Returns
 void

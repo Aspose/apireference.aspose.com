@@ -41,7 +41,6 @@ is_root: true
 | [BehaviorAccumulateType](behavioraccumulatetype) | Represents types of accumulation of effect behaviors. |
 | [BehaviorAdditiveType](behavioradditivetype) | Represents additive type for effect behavior. |
 | [BehaviorCollection](behaviorcollection) | Represents collection of behavior effects. |
-| [BehaviorFactory](behaviorfactory) | Allows to create animation effects For COM compatibility. |
 | [BehaviorProperty](behaviorproperty) | Represent property types for animation behavior. Follows the list of properties from https://msdn.microsoft.com/en-us/library/dd949052(v=office.15).aspx and https://msdn.microsoft.com/en-us/library/documentformat.openxml.presentation.attributename(v=office.15).aspx |
 | [BehaviorPropertyCollection](behaviorpropertycollection) | Represents timing properties for the effect behavior. |
 | [BevelPresetType](bevelpresettype) | Constants which define 3D bevel of shape. |
@@ -49,8 +48,6 @@ is_root: true
 | [BlackWhiteMode](blackwhitemode) | Determines how colored shape should be transformed into black and white. |
 | [BlobManagementOptions](blobmanagementoptions) | Represents options which can be used to manage BLOB handling rules and other BLOB settings. |
 | [Blur](blur) | Represents a Blur effect that is applied to the entire shape, including its fill. All color channels, including alpha, are affected. |
-| [BrowsedAtKiosk](browsedatkiosk) | Browsed at a kiosk (full screen) |
-| [BrowsedByIndividual](browsedbyindividual) | Browsed by individual (window) |
 | [BubbleSizeRepresentationType](bubblesizerepresentationtype) | Specifies the possible ways to represent data as bubble chart sizes. |
 | [BuildType](buildtype) | Determines how text will appear on a shape during animation. |
 | [BuildVersionInfo](buildversioninfo) | Contains information about version of Aspose.Slides. |
@@ -152,7 +149,6 @@ is_root: true
 | [Effect](effect) | Represents animation effect. |
 | [EffectChartMajorGroupingType](effectchartmajorgroupingtype) | Represents the type of an animation effect for chart's element. |
 | [EffectChartMinorGroupingType](effectchartminorgroupingtype) | Represents the type of an animation effect for chart's element in series or category. |
-| [EffectFactory](effectfactory) | Allows to create effects For COM compatibility. |
 | [EffectFillType](effectfilltype) | Represent fill types. |
 | [EffectFormat](effectformat) | Represents effect properties of shape. |
 | [EffectPresetClassType](effectpresetclasstype) | Represent effect class types. |
@@ -198,7 +194,6 @@ is_root: true
 | [FontSubstCondition](fontsubstcondition) | Represents a rule fot font substitution |
 | [FontSubstRule](fontsubstrule) | Represents font subtituition information |
 | [FontSubstRuleCollection](fontsubstrulecollection) | Represents collection of fonts substitution. |
-| [FontSubstitutionInfo](fontsubstitutioninfo) | This structure represents the information about the font replacement when it will be rendered. |
 | [Fonts](fonts) | Fonts collection. |
 | [FontsLoader](fontsloader) | Class for loading custom fonts defined by user. Should be used before creating any presentation objects. |
 | [FontsManager](fontsmanager) | Manages fonts across the presentation. |
@@ -238,7 +233,6 @@ is_root: true
 | [ImagePixelFormat](imagepixelformat) | Specifies the pixel format for the generated images. |
 | [ImageTransformOCollectionEffectiveData](imagetransformocollectioneffectivedata) | Immutable object that represents a readonly collection of effective image transform effects. Name IImageTransformOperationCollectionEffectiveData truncuted to IImageTransformOCollectionEffectiveData because of COM names length cannot be more then 39. |
 | [ImageTransformOperationCollection](imagetransformoperationcollection) | Represents a collection of effects apllied to an image. |
-| [ImageTransformOperationFactory](imagetransformoperationfactory) | Allows to create image transform operations For COM compatibility. |
 | [InOutTransition](inouttransition) | In-Out slide transition effect. |
 | [Ink](ink) | Represents an ink object on a slide. |
 | [InnerShadow](innershadow) | Represents a Inner Shadow effect. |
@@ -293,58 +287,39 @@ is_root: true
 | [MasterThemeManager](masterthememanager) | Provides access to presentation master theme. |
 | [MaterialPresetType](materialpresettype) | Constants which define material of shape. |
 | [MathAccent](mathaccent) | Specifies the accent function, consisting of a base and a combining diacritical mark Example: ?? |
-| [MathAccentFactory](mathaccentfactory) | Allows to create a math accent For COM comparibility |
 | [MathArray](matharray) | Specifies a vertical array of equations or any mathematical objects |
-| [MathArrayFactory](matharrayfactory) | Allows to create a math array For COM comparibility |
 | [MathBar](mathbar) | Specifies the bar function, consisting of a base argument and an overbar or underbar |
-| [MathBarFactory](mathbarfactory) | Allows to create a math bar For COM comparibility |
 | [MathBlock](mathblock) | Specifies an instance of mathematical text that contained within a MathParagraph and starts on its own line. All math zones, including equations, expressions, arrays of equations or expressions, and formulas are represented by math block. |
-| [MathBlockFactory](mathblockfactory) | Allows to create a math block For COM comparibility |
 | [MathBorderBox](mathborderbox) | Draws a rectangular or some other border around the IMathElement. |
-| [MathBorderBoxFactory](mathborderboxfactory) | Allows to create a math border box For COM comparibility |
 | [MathBox](mathbox) | Specifies the logical boxing (packaging) of mathematical element. For example, a boxed object can serve as an operator emulator with or without an alignment point, serve as a line break point, or be grouped such as not to allow line breaks within. For example, the "==" operator should be boxed to prevent line breaks. |
-| [MathBoxFactory](mathboxfactory) | Allows to create a math box For COM comparibility |
 | [MathDelimiter](mathdelimiter) | Specifies the delimiter object, consisting of opening and closing characters (such as parentheses, braces, brackets, and vertical bars), and one or more mathematical elements inside, separated by a specified character. Examples: (?2); [?2|?2] |
-| [MathDelimiterFactory](mathdelimiterfactory) | Allows to create a math delimiter For COM comparibility |
 | [MathDelimiterShape](mathdelimitershape) | The location and size of the delimiters relative to the content of the operands |
 | [MathFraction](mathfraction) | Specifies the fraction object, consisting of a numerator and denominator separated by a fraction bar. The fraction bar can be horizontal or diagonal, depending on the fraction properties. The fraction object is also used to represent the stack function, which places one element above another, with no fraction bar. |
-| [MathFractionFactory](mathfractionfactory) | Allows to create a math fraction For COM comparibility |
 | [MathFractionTypes](mathfractiontypes) | Fraction Types |
 | [MathFunction](mathfunction) | Specifies a function of an argument. |
-| [MathFunctionFactory](mathfunctionfactory) | Allows to create a math function For COM comparibility |
 | [MathFunctionsOfOneArgument](mathfunctionsofoneargument) | Common mathematical functions of one argument |
 | [MathFunctionsOfTwoArguments](mathfunctionsoftwoarguments) | Common mathematical functions of two arguments |
 | [MathGroupingCharacter](mathgroupingcharacter) | Specifies a grouping symbol above or below an expression, usually to highlight the relationship between elements |
-| [MathGroupingCharacterFactory](mathgroupingcharacterfactory) | Allows to create a math grouping character For COM compatibility |
 | [MathHorizontalAlignment](mathhorizontalalignment) | Horizontal Alignment |
 | [MathIntegralTypes](mathintegraltypes) | Mathematical integral types |
 | [MathJustification](mathjustification) | Specifies justification of the math paragraph (a series of adjacent instances of mathematical text within the same paragraph) |
 | [MathLeftSubSuperscriptElement](mathleftsubsuperscriptelement) | Specifies the Sub-Superscript object, which consists of a base and a subscript and superscript placed to the left of the base. |
 | [MathLimit](mathlimit) | Specifies the Limit object, consisting of text on the baseline and reduced-size text immediately above or below it. |
-| [MathLimitFactory](mathlimitfactory) | Allows to create IMathLimit For COM comparibility |
 | [MathLimitLocations](mathlimitlocations) | Location of limits (subscript/superscript) in n-ary operators. |
 | [MathMatrix](mathmatrix) | Specifies the Matrix object, consisting of child elements laid out in one or more rows and columns. It is important to note that matrices do not have built in delimiters. To place the matrix in the brackets you should use the delimiter object (IMathDelimiter). Null arguments can be used to create gaps in matrices. |
-| [MathMatrixFactory](mathmatrixfactory) | Allows to create a math matrix For COM comparibility |
 | [MathNaryOperator](mathnaryoperator) | Specifies an N-ary mathematical object, such as Summation and Integral. It consists of an operator, a base (or operand), and optional upper and lower limits. Examples of N-ary operators are: Summation, Union, Intersection, Integral |
-| [MathNaryOperatorFactory](mathnaryoperatorfactory) | Allows to create IMathNaryOperator For COM comparibility |
 | [MathNaryOperatorTypes](mathnaryoperatortypes) | Nary operator IMathNaryOperator types (excluding integrals) For integrals MathIntegralTypes |
 | [MathParagraph](mathparagraph) | Mathematical paragraph that is a container for mathematical blocks (IMathBlock) |
-| [MathParagraphFactory](mathparagraphfactory) | Allows to create a math paragraph For COM comparibility |
 | [MathPortion](mathportion) | Represents a portion with mathematical context inside. |
 | [MathRadical](mathradical) | Specifies the radical function, consisting of a base, and an optional degree. Example of radical object is ??. |
-| [MathRadicalFactory](mathradicalfactory) | Allows to create math radical For COM comparibility |
 | [MathRightSubSuperscriptElement](mathrightsubsuperscriptelement) | Specifies the Sub-Superscript object, which consists of a base and a subscript and superscript placed to the right of the base. |
-| [MathRightSubSuperscriptElementFactory](mathrightsubsuperscriptelementfactory) | Allows to create IMathRightSubSuperscriptElementFactory For COM comparibility |
 | [MathRowSpacingRule](mathrowspacingrule) | The type of vertical spacing between columns in a matrix or array |
 | [MathSpacingRules](mathspacingrules) | Types of gap (horizontal spacing) between columns of a matrix |
 | [MathSubscriptElement](mathsubscriptelement) | Specifies the subscript object, which consists of a base and a reduced-size subscript placed below and to the right. |
-| [MathSubscriptElementFactory](mathsubscriptelementfactory) | Allows to create IMathSubscriptElement For COM comparibility |
 | [MathSuperscriptElement](mathsuperscriptelement) | Specifies the superscript object, which consists of a base and a reduced-size superscript placed above and to the right |
-| [MathSuperscriptElementFactory](mathsuperscriptelementfactory) | Allows to create IMathSuperscriptElement For COM comparibility |
 | [MathTopBotPositions](mathtopbotpositions) | Top/bottom positions enumeration |
 | [MathVerticalAlignment](mathverticalalignment) | Vertical Alignment |
 | [MathematicalText](mathematicaltext) | Mathematical text |
-| [MathematicalTextFactory](mathematicaltextfactory) | Allows to create a MathematicalText element For COM comparibility |
 | [Metered](metered) | Provides methods to set metered key. |
 | [ModernComment](moderncomment) | Represents a comment on a slide. |
 | [ModernCommentStatus](moderncommentstatus) | Represents the status of a modern comment. |
@@ -383,7 +358,6 @@ is_root: true
 | [PPImage](ppimage) | Represents an image in a presentation. |
 | [Paragraph](paragraph) | Represents a paragraph of text. |
 | [ParagraphCollection](paragraphcollection) | Represents a collection of a paragraphs. |
-| [ParagraphFactory](paragraphfactory) | Allows to create paragraphs For COM compatibility. |
 | [ParagraphFormat](paragraphformat) | This class contains the paragraph formatting properties. Unlike IParagraphFormatEffectiveData, all properties of this class are writeable. This class is used to return and manipulate paragraph formatting properties defined for the particular paragraph. This means that no inheritance is applied when getting values so for the majority of cases you will get values meaning "undefined". In order to get the effective formatting parameter values including inherited you need to use ParagraphFormat#getEffective method which returns a IParagraphFormatEffectiveData instance. |
 | [ParentLabelLayoutType](parentlabellayouttype) | Represents layout of category data labels. Used with Treemap series only. |
 | [PathCommandType](pathcommandtype) | Represents graphics path commands |
@@ -414,7 +388,6 @@ is_root: true
 | [PointCollection](pointcollection) | Represent collection of animation points. |
 | [Portion](portion) | Represents a portion of text inside a text paragraph. |
 | [PortionCollection](portioncollection) | Represents a collection of portions. |
-| [PortionFactory](portionfactory) | Allows to create test portions For COM comparibility |
 | [PortionFormat](portionformat) | This class contains the text portion formatting properties. Unlike IPortionFormatEffectiveData, all properties of this class are writeable. This class is used to return and manipulate text portion formatting properties defined for the particular portion. This means that no inheritance is applied when getting values so for the majority of cases you will get values meaning "undefined". In order to get the effective formatting parameter values including inherited you need to use PortionFormat#getEffective method which returns a IPortionFormatEffectiveData instance. |
 | [PptCorruptFileException](pptcorruptfileexception) | Exception which thrown when presentation file is probably corrupt. |
 | [PptEditException](ppteditexception) | Represents an exception thrown when edit presentation error is detected. |
@@ -434,7 +407,6 @@ is_root: true
 | [PresentationInfo](presentationinfo) | Information about presentation file |
 | [PresentationLockingBehavior](presentationlockingbehavior) | Represents the behavior regarding treating the IPresentation source (file or java.io.InputStream) while loading and working with an instance of IPresentation. The source is the parameter passed to the IPresentation constructor. In the example below, the source is the "pres.pptx" file: For this example, the source ("pres.pptx" file) will be locked for a IPresentation instance lifetime, i.e. can't be changed or deleted by the other process. |
 | [PresentationText](presentationtext) | Represents the text extracted from the presentation |
-| [PresentedBySpeaker](presentedbyspeaker) | Presented by a speaker (full screen) |
 | [PresetColor](presetcolor) | Represents predefined color presets. |
 | [PresetShadow](presetshadow) | Represents a Preset Shadow effect. |
 | [PresetShadowType](presetshadowtype) | Represents a preset for a shadow effect. |
@@ -458,7 +430,6 @@ is_root: true
 | [RowFormat](rowformat) | Represents format of a table row. |
 | [SVGOptions](svgoptions) | Represents an SVG options. |
 | [SaveFormat](saveformat) | Constants which define the format of a saved presentation. |
-| [SaveOptionsFactory](saveoptionsfactory) | Allows to create save options' instances For COM compatibility. |
 | [ScaleEffect](scaleeffect) | Represents animation scale effect. |
 | [SchemeColor](schemecolor) | Represents colors in a color scheme. |
 | [Section](section) | Represents section of slides. |
@@ -489,14 +460,12 @@ is_root: true
 | [SlideImageFormat](slideimageformat) | Determines format in which slide image will be saved for presentation to HTML export. |
 | [SlideLayoutType](slidelayouttype) | Represents the slide layout type. |
 | [SlideOrientation](slideorientation) | Represents the slide orientation. |
-| [SlideShowSettings](slideshowsettings) | Represents the slide show settings for the presentation. |
 | [SlideShowTransition](slideshowtransition) | Represents slide show transition. |
 | [SlideSize](slidesize) | Represents a size of slide. |
 | [SlideSizeScaleType](slidesizescaletype) | Represents the scale type of slide content. |
 | [SlideSizeType](slidesizetype) | Represents the slide size preset. |
 | [SlideThemeManager](slidethememanager) | Provides access to slide theme overriden. |
 | [SlideUtil](slideutil) | Offer methods which help to search shapes and text in a presentation. |
-| [SlidesRange](slidesrange) | Slides range |
 | [SmartArt](smartart) | Represents a SmartArt diagram |
 | [SmartArtColorType](smartartcolortype) | Represents color scheme of a SmartArt diagram. |
 | [SmartArtLayoutType](smartartlayouttype) | Represents layout type of a SmartArt diagram. |
@@ -528,7 +497,6 @@ is_root: true
 | [Tab](tab) | Represents a tabulation for a text. |
 | [TabAlignment](tabalignment) | Represents the tab alignment. |
 | [TabCollection](tabcollection) | Represents a collection of tabs. |
-| [TabFactory](tabfactory) | Allows to create ITab instances For COM compatibility. |
 | [Table](table) | Represents a table on a slide. |
 | [TableFormat](tableformat) | Represents format of a table. |
 | [TableStylePreset](tablestylepreset) | Represents builtin table styles. |

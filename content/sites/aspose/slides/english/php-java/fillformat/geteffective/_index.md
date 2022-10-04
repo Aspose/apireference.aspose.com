@@ -3,7 +3,7 @@ title: getEffective
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 10
+weight: 70
 url: /php-java/fillformat/geteffective/
 ---
 
@@ -45,7 +45,7 @@ url: /php-java/fillformat/geteffective/
 ```
 
 ### Returns
-FillFormatEffectiveData
+[FillFormatEffectiveData](../../fillformateffectivedata)
 
 
 ---

@@ -3,7 +3,7 @@ title: getShadowMatrixPerspectiveX
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 640
+weight: 650
 url: /php-java/behaviorproperty/getshadowmatrixperspectivex/
 ---
 

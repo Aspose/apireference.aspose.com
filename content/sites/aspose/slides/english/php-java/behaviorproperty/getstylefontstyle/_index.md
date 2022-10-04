@@ -3,7 +3,7 @@ title: getStyleFontStyle
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 1100
+weight: 1110
 url: /php-java/behaviorproperty/getstylefontstyle/
 ---
 

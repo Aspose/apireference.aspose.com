@@ -3,7 +3,7 @@ title: getSlidesText
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 10
+weight: 20
 url: /php-java/presentationtext/getslidestext/
 ---
 
@@ -13,7 +13,7 @@ url: /php-java/presentationtext/getslidestext/
  
 
 ### Returns
-SlideText
+[SlideText](../../slidetext)
 
 
 ---

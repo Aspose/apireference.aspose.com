@@ -3,7 +3,7 @@ title: createThemeEffective
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 10
+weight: 50
 url: /php-java/chart/createthemeeffective/
 ---
 
@@ -13,7 +13,7 @@ url: /php-java/chart/createthemeeffective/
  
 
 ### Returns
-ThemeEffectiveData
+[ThemeEffectiveData](../../themeeffectivedata)
 
 
 ---

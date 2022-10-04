@@ -3,7 +3,7 @@ title: getSeries
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 170
+weight: 200
 url: /php-java/chartseriesgroup/getseries/
 ---
 
@@ -14,7 +14,7 @@ url: /php-java/chartseriesgroup/getseries/
  
 
 ### Returns
-ChartSeriesReadonlyCollection
+[ChartSeriesReadonlyCollection](../../chartseriesreadonlycollection)
 
 
 ---

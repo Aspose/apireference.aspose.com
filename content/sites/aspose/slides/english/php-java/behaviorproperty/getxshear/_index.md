@@ -3,7 +3,7 @@ title: getXShear
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 1230
+weight: 1240
 url: /php-java/behaviorproperty/getxshear/
 ---
 

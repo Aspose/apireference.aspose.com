@@ -3,7 +3,7 @@ title: setEndShapeConnectedTo
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 90
+weight: 150
 url: /php-java/connector/setendshapeconnectedto/
 ---
 
@@ -64,7 +64,7 @@ void
 ---
 
 
-## setEndShapeConnectedTo([Table](../../table) value)  method
+## setEndShapeConnectedTo([Shape](../../shape) value)  method
 
  Returns or sets the shape to attach the end of the connector to.
  Read/write  IShape.
@@ -83,7 +83,7 @@ void
 ---
 
 
-## setEndShapeConnectedTo([Shape](../../shape) value)  method
+## setEndShapeConnectedTo([Table](../../table) value)  method
 
  Returns or sets the shape to attach the end of the connector to.
  Read/write  IShape.
@@ -311,7 +311,7 @@ void
 ---
 
 
-## setEndShapeConnectedTo([AudioFrame](../../audioframe) value)  method
+## setEndShapeConnectedTo([Chart](../../chart) value)  method
 
  Returns or sets the shape to attach the end of the connector to.
  Read/write  IShape.
@@ -330,7 +330,7 @@ void
 ---
 
 
-## setEndShapeConnectedTo([Chart](../../chart) value)  method
+## setEndShapeConnectedTo([AudioFrame](../../audioframe) value)  method
 
  Returns or sets the shape to attach the end of the connector to.
  Read/write  IShape.

@@ -21,7 +21,7 @@ Example:
 ---
 
 
-## MathLimit([MathLeftSubSuperscriptElement](../../mathleftsubsuperscriptelement) baseArg, [MathMatrix](../../mathmatrix) limit, boolean upperLimit)  constructor
+## MathLimit([MathLeftSubSuperscriptElement](../../mathleftsubsuperscriptelement) baseArg, [MathLimit](../../mathlimit) limit, boolean upperLimit)  constructor
 
  Initializes a new instance of the MathLimit class.
  
@@ -35,7 +35,7 @@ Example:
 ---
 
 
-## MathLimit([MathLeftSubSuperscriptElement](../../mathleftsubsuperscriptelement) baseArg, [MathLimit](../../mathlimit) limit, boolean upperLimit)  constructor
+## MathLimit([MathLeftSubSuperscriptElement](../../mathleftsubsuperscriptelement) baseArg, [MathMatrix](../../mathmatrix) limit, boolean upperLimit)  constructor
 
  Initializes a new instance of the MathLimit class.
  
@@ -105,20 +105,6 @@ Example:
 ---
 
 
-## MathLimit([MathLeftSubSuperscriptElement](../../mathleftsubsuperscriptelement) baseArg, [MathAccent](../../mathaccent) limit, boolean upperLimit)  constructor
-
- Initializes a new instance of the MathLimit class.
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
-```
-
-
----
-
-
 ## MathLimit([MathLeftSubSuperscriptElement](../../mathleftsubsuperscriptelement) baseArg, [MathNaryOperator](../../mathnaryoperator) limit, boolean upperLimit)  constructor
 
  Initializes a new instance of the MathLimit class.
@@ -133,7 +119,7 @@ Example:
 ---
 
 
-## MathLimit([MathLeftSubSuperscriptElement](../../mathleftsubsuperscriptelement) baseArg, [MathGroupingCharacter](../../mathgroupingcharacter) limit, boolean upperLimit)  constructor
+## MathLimit([MathLeftSubSuperscriptElement](../../mathleftsubsuperscriptelement) baseArg, [MathAccent](../../mathaccent) limit, boolean upperLimit)  constructor
 
  Initializes a new instance of the MathLimit class.
  
@@ -161,7 +147,35 @@ Example:
 ---
 
 
+## MathLimit([MathLeftSubSuperscriptElement](../../mathleftsubsuperscriptelement) baseArg, [MathGroupingCharacter](../../mathgroupingcharacter) limit, boolean upperLimit)  constructor
+
+ Initializes a new instance of the MathLimit class.
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
+```
+
+
+---
+
+
 ## MathLimit([MathLeftSubSuperscriptElement](../../mathleftsubsuperscriptelement) baseArg, [MathBar](../../mathbar) limit, boolean upperLimit)  constructor
+
+ Initializes a new instance of the MathLimit class.
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
+```
+
+
+---
+
+
+## MathLimit([MathLeftSubSuperscriptElement](../../mathleftsubsuperscriptelement) baseArg, [MathSuperscriptElement](../../mathsuperscriptelement) limit, boolean upperLimit)  constructor
 
  Initializes a new instance of the MathLimit class.
  
@@ -190,20 +204,6 @@ Example:
 
 
 ## MathLimit([MathLeftSubSuperscriptElement](../../mathleftsubsuperscriptelement) baseArg, [MathSubscriptElement](../../mathsubscriptelement) limit, boolean upperLimit)  constructor
-
- Initializes a new instance of the MathLimit class.
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
-```
-
-
----
-
-
-## MathLimit([MathLeftSubSuperscriptElement](../../mathleftsubsuperscriptelement) baseArg, [MathSuperscriptElement](../../mathsuperscriptelement) limit, boolean upperLimit)  constructor
 
  Initializes a new instance of the MathLimit class.
  
@@ -273,272 +273,6 @@ Example:
 ---
 
 
-## MathLimit([MathMatrix](../../mathmatrix) baseArg, [MathLeftSubSuperscriptElement](../../mathleftsubsuperscriptelement) limit, boolean upperLimit)  constructor
-
- Initializes a new instance of the MathLimit class.
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
-```
-
-
----
-
-
-## MathLimit([MathMatrix](../../mathmatrix) baseArg, [MathMatrix](../../mathmatrix) limit, boolean upperLimit)  constructor
-
- Initializes a new instance of the MathLimit class.
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
-```
-
-
----
-
-
-## MathLimit([MathMatrix](../../mathmatrix) baseArg, [MathLimit](../../mathlimit) limit, boolean upperLimit)  constructor
-
- Initializes a new instance of the MathLimit class.
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
-```
-
-
----
-
-
-## MathLimit([MathMatrix](../../mathmatrix) baseArg, [MathBlock](../../mathblock) limit, boolean upperLimit)  constructor
-
- Initializes a new instance of the MathLimit class.
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
-```
-
-
----
-
-
-## MathLimit([MathMatrix](../../mathmatrix) baseArg, [MathRadical](../../mathradical) limit, boolean upperLimit)  constructor
-
- Initializes a new instance of the MathLimit class.
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
-```
-
-
----
-
-
-## MathLimit([MathMatrix](../../mathmatrix) baseArg, [MathArray](../../matharray) limit, boolean upperLimit)  constructor
-
- Initializes a new instance of the MathLimit class.
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
-```
-
-
----
-
-
-## MathLimit([MathMatrix](../../mathmatrix) baseArg, [MathDelimiter](../../mathdelimiter) limit, boolean upperLimit)  constructor
-
- Initializes a new instance of the MathLimit class.
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
-```
-
-
----
-
-
-## MathLimit([MathMatrix](../../mathmatrix) baseArg, [MathAccent](../../mathaccent) limit, boolean upperLimit)  constructor
-
- Initializes a new instance of the MathLimit class.
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
-```
-
-
----
-
-
-## MathLimit([MathMatrix](../../mathmatrix) baseArg, [MathNaryOperator](../../mathnaryoperator) limit, boolean upperLimit)  constructor
-
- Initializes a new instance of the MathLimit class.
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
-```
-
-
----
-
-
-## MathLimit([MathMatrix](../../mathmatrix) baseArg, [MathGroupingCharacter](../../mathgroupingcharacter) limit, boolean upperLimit)  constructor
-
- Initializes a new instance of the MathLimit class.
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
-```
-
-
----
-
-
-## MathLimit([MathMatrix](../../mathmatrix) baseArg, [MathBorderBox](../../mathborderbox) limit, boolean upperLimit)  constructor
-
- Initializes a new instance of the MathLimit class.
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
-```
-
-
----
-
-
-## MathLimit([MathMatrix](../../mathmatrix) baseArg, [MathBar](../../mathbar) limit, boolean upperLimit)  constructor
-
- Initializes a new instance of the MathLimit class.
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
-```
-
-
----
-
-
-## MathLimit([MathMatrix](../../mathmatrix) baseArg, [MathFunction](../../mathfunction) limit, boolean upperLimit)  constructor
-
- Initializes a new instance of the MathLimit class.
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
-```
-
-
----
-
-
-## MathLimit([MathMatrix](../../mathmatrix) baseArg, [MathSubscriptElement](../../mathsubscriptelement) limit, boolean upperLimit)  constructor
-
- Initializes a new instance of the MathLimit class.
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
-```
-
-
----
-
-
-## MathLimit([MathMatrix](../../mathmatrix) baseArg, [MathSuperscriptElement](../../mathsuperscriptelement) limit, boolean upperLimit)  constructor
-
- Initializes a new instance of the MathLimit class.
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
-```
-
-
----
-
-
-## MathLimit([MathMatrix](../../mathmatrix) baseArg, [MathFraction](../../mathfraction) limit, boolean upperLimit)  constructor
-
- Initializes a new instance of the MathLimit class.
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
-```
-
-
----
-
-
-## MathLimit([MathMatrix](../../mathmatrix) baseArg, [MathematicalText](../../mathematicaltext) limit, boolean upperLimit)  constructor
-
- Initializes a new instance of the MathLimit class.
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
-```
-
-
----
-
-
-## MathLimit([MathMatrix](../../mathmatrix) baseArg, [MathBox](../../mathbox) limit, boolean upperLimit)  constructor
-
- Initializes a new instance of the MathLimit class.
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
-```
-
-
----
-
-
-## MathLimit([MathMatrix](../../mathmatrix) baseArg, [MathRightSubSuperscriptElement](../../mathrightsubsuperscriptelement) limit, boolean upperLimit)  constructor
-
- Initializes a new instance of the MathLimit class.
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
-```
-
-
----
-
-
 ## MathLimit([MathLimit](../../mathlimit) baseArg, [MathLeftSubSuperscriptElement](../../mathleftsubsuperscriptelement) limit, boolean upperLimit)  constructor
 
  Initializes a new instance of the MathLimit class.
@@ -553,7 +287,7 @@ Example:
 ---
 
 
-## MathLimit([MathLimit](../../mathlimit) baseArg, [MathMatrix](../../mathmatrix) limit, boolean upperLimit)  constructor
+## MathLimit([MathLimit](../../mathlimit) baseArg, [MathLimit](../../mathlimit) limit, boolean upperLimit)  constructor
 
  Initializes a new instance of the MathLimit class.
  
@@ -567,7 +301,7 @@ Example:
 ---
 
 
-## MathLimit([MathLimit](../../mathlimit) baseArg, [MathLimit](../../mathlimit) limit, boolean upperLimit)  constructor
+## MathLimit([MathLimit](../../mathlimit) baseArg, [MathMatrix](../../mathmatrix) limit, boolean upperLimit)  constructor
 
  Initializes a new instance of the MathLimit class.
  
@@ -637,20 +371,6 @@ Example:
 ---
 
 
-## MathLimit([MathLimit](../../mathlimit) baseArg, [MathAccent](../../mathaccent) limit, boolean upperLimit)  constructor
-
- Initializes a new instance of the MathLimit class.
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
-```
-
-
----
-
-
 ## MathLimit([MathLimit](../../mathlimit) baseArg, [MathNaryOperator](../../mathnaryoperator) limit, boolean upperLimit)  constructor
 
  Initializes a new instance of the MathLimit class.
@@ -665,7 +385,7 @@ Example:
 ---
 
 
-## MathLimit([MathLimit](../../mathlimit) baseArg, [MathGroupingCharacter](../../mathgroupingcharacter) limit, boolean upperLimit)  constructor
+## MathLimit([MathLimit](../../mathlimit) baseArg, [MathAccent](../../mathaccent) limit, boolean upperLimit)  constructor
 
  Initializes a new instance of the MathLimit class.
  
@@ -693,7 +413,35 @@ Example:
 ---
 
 
+## MathLimit([MathLimit](../../mathlimit) baseArg, [MathGroupingCharacter](../../mathgroupingcharacter) limit, boolean upperLimit)  constructor
+
+ Initializes a new instance of the MathLimit class.
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
+```
+
+
+---
+
+
 ## MathLimit([MathLimit](../../mathlimit) baseArg, [MathBar](../../mathbar) limit, boolean upperLimit)  constructor
+
+ Initializes a new instance of the MathLimit class.
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
+```
+
+
+---
+
+
+## MathLimit([MathLimit](../../mathlimit) baseArg, [MathSuperscriptElement](../../mathsuperscriptelement) limit, boolean upperLimit)  constructor
 
  Initializes a new instance of the MathLimit class.
  
@@ -722,20 +470,6 @@ Example:
 
 
 ## MathLimit([MathLimit](../../mathlimit) baseArg, [MathSubscriptElement](../../mathsubscriptelement) limit, boolean upperLimit)  constructor
-
- Initializes a new instance of the MathLimit class.
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
-```
-
-
----
-
-
-## MathLimit([MathLimit](../../mathlimit) baseArg, [MathSuperscriptElement](../../mathsuperscriptelement) limit, boolean upperLimit)  constructor
 
  Initializes a new instance of the MathLimit class.
  
@@ -805,6 +539,272 @@ Example:
 ---
 
 
+## MathLimit([MathMatrix](../../mathmatrix) baseArg, [MathLeftSubSuperscriptElement](../../mathleftsubsuperscriptelement) limit, boolean upperLimit)  constructor
+
+ Initializes a new instance of the MathLimit class.
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
+```
+
+
+---
+
+
+## MathLimit([MathMatrix](../../mathmatrix) baseArg, [MathLimit](../../mathlimit) limit, boolean upperLimit)  constructor
+
+ Initializes a new instance of the MathLimit class.
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
+```
+
+
+---
+
+
+## MathLimit([MathMatrix](../../mathmatrix) baseArg, [MathMatrix](../../mathmatrix) limit, boolean upperLimit)  constructor
+
+ Initializes a new instance of the MathLimit class.
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
+```
+
+
+---
+
+
+## MathLimit([MathMatrix](../../mathmatrix) baseArg, [MathBlock](../../mathblock) limit, boolean upperLimit)  constructor
+
+ Initializes a new instance of the MathLimit class.
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
+```
+
+
+---
+
+
+## MathLimit([MathMatrix](../../mathmatrix) baseArg, [MathRadical](../../mathradical) limit, boolean upperLimit)  constructor
+
+ Initializes a new instance of the MathLimit class.
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
+```
+
+
+---
+
+
+## MathLimit([MathMatrix](../../mathmatrix) baseArg, [MathArray](../../matharray) limit, boolean upperLimit)  constructor
+
+ Initializes a new instance of the MathLimit class.
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
+```
+
+
+---
+
+
+## MathLimit([MathMatrix](../../mathmatrix) baseArg, [MathDelimiter](../../mathdelimiter) limit, boolean upperLimit)  constructor
+
+ Initializes a new instance of the MathLimit class.
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
+```
+
+
+---
+
+
+## MathLimit([MathMatrix](../../mathmatrix) baseArg, [MathNaryOperator](../../mathnaryoperator) limit, boolean upperLimit)  constructor
+
+ Initializes a new instance of the MathLimit class.
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
+```
+
+
+---
+
+
+## MathLimit([MathMatrix](../../mathmatrix) baseArg, [MathAccent](../../mathaccent) limit, boolean upperLimit)  constructor
+
+ Initializes a new instance of the MathLimit class.
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
+```
+
+
+---
+
+
+## MathLimit([MathMatrix](../../mathmatrix) baseArg, [MathBorderBox](../../mathborderbox) limit, boolean upperLimit)  constructor
+
+ Initializes a new instance of the MathLimit class.
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
+```
+
+
+---
+
+
+## MathLimit([MathMatrix](../../mathmatrix) baseArg, [MathGroupingCharacter](../../mathgroupingcharacter) limit, boolean upperLimit)  constructor
+
+ Initializes a new instance of the MathLimit class.
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
+```
+
+
+---
+
+
+## MathLimit([MathMatrix](../../mathmatrix) baseArg, [MathBar](../../mathbar) limit, boolean upperLimit)  constructor
+
+ Initializes a new instance of the MathLimit class.
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
+```
+
+
+---
+
+
+## MathLimit([MathMatrix](../../mathmatrix) baseArg, [MathSuperscriptElement](../../mathsuperscriptelement) limit, boolean upperLimit)  constructor
+
+ Initializes a new instance of the MathLimit class.
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
+```
+
+
+---
+
+
+## MathLimit([MathMatrix](../../mathmatrix) baseArg, [MathFunction](../../mathfunction) limit, boolean upperLimit)  constructor
+
+ Initializes a new instance of the MathLimit class.
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
+```
+
+
+---
+
+
+## MathLimit([MathMatrix](../../mathmatrix) baseArg, [MathSubscriptElement](../../mathsubscriptelement) limit, boolean upperLimit)  constructor
+
+ Initializes a new instance of the MathLimit class.
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
+```
+
+
+---
+
+
+## MathLimit([MathMatrix](../../mathmatrix) baseArg, [MathFraction](../../mathfraction) limit, boolean upperLimit)  constructor
+
+ Initializes a new instance of the MathLimit class.
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
+```
+
+
+---
+
+
+## MathLimit([MathMatrix](../../mathmatrix) baseArg, [MathematicalText](../../mathematicaltext) limit, boolean upperLimit)  constructor
+
+ Initializes a new instance of the MathLimit class.
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
+```
+
+
+---
+
+
+## MathLimit([MathMatrix](../../mathmatrix) baseArg, [MathBox](../../mathbox) limit, boolean upperLimit)  constructor
+
+ Initializes a new instance of the MathLimit class.
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
+```
+
+
+---
+
+
+## MathLimit([MathMatrix](../../mathmatrix) baseArg, [MathRightSubSuperscriptElement](../../mathrightsubsuperscriptelement) limit, boolean upperLimit)  constructor
+
+ Initializes a new instance of the MathLimit class.
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
+```
+
+
+---
+
+
 ## MathLimit([MathBlock](../../mathblock) baseArg, [MathLeftSubSuperscriptElement](../../mathleftsubsuperscriptelement) limit, boolean upperLimit)  constructor
 
  Initializes a new instance of the MathLimit class.
@@ -819,7 +819,7 @@ Example:
 ---
 
 
-## MathLimit([MathBlock](../../mathblock) baseArg, [MathMatrix](../../mathmatrix) limit, boolean upperLimit)  constructor
+## MathLimit([MathBlock](../../mathblock) baseArg, [MathLimit](../../mathlimit) limit, boolean upperLimit)  constructor
 
  Initializes a new instance of the MathLimit class.
  
@@ -833,7 +833,7 @@ Example:
 ---
 
 
-## MathLimit([MathBlock](../../mathblock) baseArg, [MathLimit](../../mathlimit) limit, boolean upperLimit)  constructor
+## MathLimit([MathBlock](../../mathblock) baseArg, [MathMatrix](../../mathmatrix) limit, boolean upperLimit)  constructor
 
  Initializes a new instance of the MathLimit class.
  
@@ -903,20 +903,6 @@ Example:
 ---
 
 
-## MathLimit([MathBlock](../../mathblock) baseArg, [MathAccent](../../mathaccent) limit, boolean upperLimit)  constructor
-
- Initializes a new instance of the MathLimit class.
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
-```
-
-
----
-
-
 ## MathLimit([MathBlock](../../mathblock) baseArg, [MathNaryOperator](../../mathnaryoperator) limit, boolean upperLimit)  constructor
 
  Initializes a new instance of the MathLimit class.
@@ -931,7 +917,7 @@ Example:
 ---
 
 
-## MathLimit([MathBlock](../../mathblock) baseArg, [MathGroupingCharacter](../../mathgroupingcharacter) limit, boolean upperLimit)  constructor
+## MathLimit([MathBlock](../../mathblock) baseArg, [MathAccent](../../mathaccent) limit, boolean upperLimit)  constructor
 
  Initializes a new instance of the MathLimit class.
  
@@ -959,7 +945,35 @@ Example:
 ---
 
 
+## MathLimit([MathBlock](../../mathblock) baseArg, [MathGroupingCharacter](../../mathgroupingcharacter) limit, boolean upperLimit)  constructor
+
+ Initializes a new instance of the MathLimit class.
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
+```
+
+
+---
+
+
 ## MathLimit([MathBlock](../../mathblock) baseArg, [MathBar](../../mathbar) limit, boolean upperLimit)  constructor
+
+ Initializes a new instance of the MathLimit class.
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
+```
+
+
+---
+
+
+## MathLimit([MathBlock](../../mathblock) baseArg, [MathSuperscriptElement](../../mathsuperscriptelement) limit, boolean upperLimit)  constructor
 
  Initializes a new instance of the MathLimit class.
  
@@ -988,20 +1002,6 @@ Example:
 
 
 ## MathLimit([MathBlock](../../mathblock) baseArg, [MathSubscriptElement](../../mathsubscriptelement) limit, boolean upperLimit)  constructor
-
- Initializes a new instance of the MathLimit class.
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
-```
-
-
----
-
-
-## MathLimit([MathBlock](../../mathblock) baseArg, [MathSuperscriptElement](../../mathsuperscriptelement) limit, boolean upperLimit)  constructor
 
  Initializes a new instance of the MathLimit class.
  
@@ -1085,7 +1085,7 @@ Example:
 ---
 
 
-## MathLimit([MathRadical](../../mathradical) baseArg, [MathMatrix](../../mathmatrix) limit, boolean upperLimit)  constructor
+## MathLimit([MathRadical](../../mathradical) baseArg, [MathLimit](../../mathlimit) limit, boolean upperLimit)  constructor
 
  Initializes a new instance of the MathLimit class.
  
@@ -1099,7 +1099,7 @@ Example:
 ---
 
 
-## MathLimit([MathRadical](../../mathradical) baseArg, [MathLimit](../../mathlimit) limit, boolean upperLimit)  constructor
+## MathLimit([MathRadical](../../mathradical) baseArg, [MathMatrix](../../mathmatrix) limit, boolean upperLimit)  constructor
 
  Initializes a new instance of the MathLimit class.
  
@@ -1169,20 +1169,6 @@ Example:
 ---
 
 
-## MathLimit([MathRadical](../../mathradical) baseArg, [MathAccent](../../mathaccent) limit, boolean upperLimit)  constructor
-
- Initializes a new instance of the MathLimit class.
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
-```
-
-
----
-
-
 ## MathLimit([MathRadical](../../mathradical) baseArg, [MathNaryOperator](../../mathnaryoperator) limit, boolean upperLimit)  constructor
 
  Initializes a new instance of the MathLimit class.
@@ -1197,7 +1183,7 @@ Example:
 ---
 
 
-## MathLimit([MathRadical](../../mathradical) baseArg, [MathGroupingCharacter](../../mathgroupingcharacter) limit, boolean upperLimit)  constructor
+## MathLimit([MathRadical](../../mathradical) baseArg, [MathAccent](../../mathaccent) limit, boolean upperLimit)  constructor
 
  Initializes a new instance of the MathLimit class.
  
@@ -1225,7 +1211,35 @@ Example:
 ---
 
 
+## MathLimit([MathRadical](../../mathradical) baseArg, [MathGroupingCharacter](../../mathgroupingcharacter) limit, boolean upperLimit)  constructor
+
+ Initializes a new instance of the MathLimit class.
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
+```
+
+
+---
+
+
 ## MathLimit([MathRadical](../../mathradical) baseArg, [MathBar](../../mathbar) limit, boolean upperLimit)  constructor
+
+ Initializes a new instance of the MathLimit class.
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
+```
+
+
+---
+
+
+## MathLimit([MathRadical](../../mathradical) baseArg, [MathSuperscriptElement](../../mathsuperscriptelement) limit, boolean upperLimit)  constructor
 
  Initializes a new instance of the MathLimit class.
  
@@ -1254,20 +1268,6 @@ Example:
 
 
 ## MathLimit([MathRadical](../../mathradical) baseArg, [MathSubscriptElement](../../mathsubscriptelement) limit, boolean upperLimit)  constructor
-
- Initializes a new instance of the MathLimit class.
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
-```
-
-
----
-
-
-## MathLimit([MathRadical](../../mathradical) baseArg, [MathSuperscriptElement](../../mathsuperscriptelement) limit, boolean upperLimit)  constructor
 
  Initializes a new instance of the MathLimit class.
  
@@ -1351,7 +1351,7 @@ Example:
 ---
 
 
-## MathLimit([MathArray](../../matharray) baseArg, [MathMatrix](../../mathmatrix) limit, boolean upperLimit)  constructor
+## MathLimit([MathArray](../../matharray) baseArg, [MathLimit](../../mathlimit) limit, boolean upperLimit)  constructor
 
  Initializes a new instance of the MathLimit class.
  
@@ -1365,7 +1365,7 @@ Example:
 ---
 
 
-## MathLimit([MathArray](../../matharray) baseArg, [MathLimit](../../mathlimit) limit, boolean upperLimit)  constructor
+## MathLimit([MathArray](../../matharray) baseArg, [MathMatrix](../../mathmatrix) limit, boolean upperLimit)  constructor
 
  Initializes a new instance of the MathLimit class.
  
@@ -1435,20 +1435,6 @@ Example:
 ---
 
 
-## MathLimit([MathArray](../../matharray) baseArg, [MathAccent](../../mathaccent) limit, boolean upperLimit)  constructor
-
- Initializes a new instance of the MathLimit class.
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
-```
-
-
----
-
-
 ## MathLimit([MathArray](../../matharray) baseArg, [MathNaryOperator](../../mathnaryoperator) limit, boolean upperLimit)  constructor
 
  Initializes a new instance of the MathLimit class.
@@ -1463,7 +1449,7 @@ Example:
 ---
 
 
-## MathLimit([MathArray](../../matharray) baseArg, [MathGroupingCharacter](../../mathgroupingcharacter) limit, boolean upperLimit)  constructor
+## MathLimit([MathArray](../../matharray) baseArg, [MathAccent](../../mathaccent) limit, boolean upperLimit)  constructor
 
  Initializes a new instance of the MathLimit class.
  
@@ -1491,7 +1477,35 @@ Example:
 ---
 
 
+## MathLimit([MathArray](../../matharray) baseArg, [MathGroupingCharacter](../../mathgroupingcharacter) limit, boolean upperLimit)  constructor
+
+ Initializes a new instance of the MathLimit class.
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
+```
+
+
+---
+
+
 ## MathLimit([MathArray](../../matharray) baseArg, [MathBar](../../mathbar) limit, boolean upperLimit)  constructor
+
+ Initializes a new instance of the MathLimit class.
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
+```
+
+
+---
+
+
+## MathLimit([MathArray](../../matharray) baseArg, [MathSuperscriptElement](../../mathsuperscriptelement) limit, boolean upperLimit)  constructor
 
  Initializes a new instance of the MathLimit class.
  
@@ -1520,20 +1534,6 @@ Example:
 
 
 ## MathLimit([MathArray](../../matharray) baseArg, [MathSubscriptElement](../../mathsubscriptelement) limit, boolean upperLimit)  constructor
-
- Initializes a new instance of the MathLimit class.
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
-```
-
-
----
-
-
-## MathLimit([MathArray](../../matharray) baseArg, [MathSuperscriptElement](../../mathsuperscriptelement) limit, boolean upperLimit)  constructor
 
  Initializes a new instance of the MathLimit class.
  
@@ -1617,7 +1617,7 @@ Example:
 ---
 
 
-## MathLimit([MathDelimiter](../../mathdelimiter) baseArg, [MathMatrix](../../mathmatrix) limit, boolean upperLimit)  constructor
+## MathLimit([MathDelimiter](../../mathdelimiter) baseArg, [MathLimit](../../mathlimit) limit, boolean upperLimit)  constructor
 
  Initializes a new instance of the MathLimit class.
  
@@ -1631,7 +1631,7 @@ Example:
 ---
 
 
-## MathLimit([MathDelimiter](../../mathdelimiter) baseArg, [MathLimit](../../mathlimit) limit, boolean upperLimit)  constructor
+## MathLimit([MathDelimiter](../../mathdelimiter) baseArg, [MathMatrix](../../mathmatrix) limit, boolean upperLimit)  constructor
 
  Initializes a new instance of the MathLimit class.
  
@@ -1701,20 +1701,6 @@ Example:
 ---
 
 
-## MathLimit([MathDelimiter](../../mathdelimiter) baseArg, [MathAccent](../../mathaccent) limit, boolean upperLimit)  constructor
-
- Initializes a new instance of the MathLimit class.
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
-```
-
-
----
-
-
 ## MathLimit([MathDelimiter](../../mathdelimiter) baseArg, [MathNaryOperator](../../mathnaryoperator) limit, boolean upperLimit)  constructor
 
  Initializes a new instance of the MathLimit class.
@@ -1729,7 +1715,7 @@ Example:
 ---
 
 
-## MathLimit([MathDelimiter](../../mathdelimiter) baseArg, [MathGroupingCharacter](../../mathgroupingcharacter) limit, boolean upperLimit)  constructor
+## MathLimit([MathDelimiter](../../mathdelimiter) baseArg, [MathAccent](../../mathaccent) limit, boolean upperLimit)  constructor
 
  Initializes a new instance of the MathLimit class.
  
@@ -1757,7 +1743,35 @@ Example:
 ---
 
 
+## MathLimit([MathDelimiter](../../mathdelimiter) baseArg, [MathGroupingCharacter](../../mathgroupingcharacter) limit, boolean upperLimit)  constructor
+
+ Initializes a new instance of the MathLimit class.
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
+```
+
+
+---
+
+
 ## MathLimit([MathDelimiter](../../mathdelimiter) baseArg, [MathBar](../../mathbar) limit, boolean upperLimit)  constructor
+
+ Initializes a new instance of the MathLimit class.
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
+```
+
+
+---
+
+
+## MathLimit([MathDelimiter](../../mathdelimiter) baseArg, [MathSuperscriptElement](../../mathsuperscriptelement) limit, boolean upperLimit)  constructor
 
  Initializes a new instance of the MathLimit class.
  
@@ -1786,20 +1800,6 @@ Example:
 
 
 ## MathLimit([MathDelimiter](../../mathdelimiter) baseArg, [MathSubscriptElement](../../mathsubscriptelement) limit, boolean upperLimit)  constructor
-
- Initializes a new instance of the MathLimit class.
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
-```
-
-
----
-
-
-## MathLimit([MathDelimiter](../../mathdelimiter) baseArg, [MathSuperscriptElement](../../mathsuperscriptelement) limit, boolean upperLimit)  constructor
 
  Initializes a new instance of the MathLimit class.
  
@@ -1869,272 +1869,6 @@ Example:
 ---
 
 
-## MathLimit([MathAccent](../../mathaccent) baseArg, [MathLeftSubSuperscriptElement](../../mathleftsubsuperscriptelement) limit, boolean upperLimit)  constructor
-
- Initializes a new instance of the MathLimit class.
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
-```
-
-
----
-
-
-## MathLimit([MathAccent](../../mathaccent) baseArg, [MathMatrix](../../mathmatrix) limit, boolean upperLimit)  constructor
-
- Initializes a new instance of the MathLimit class.
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
-```
-
-
----
-
-
-## MathLimit([MathAccent](../../mathaccent) baseArg, [MathLimit](../../mathlimit) limit, boolean upperLimit)  constructor
-
- Initializes a new instance of the MathLimit class.
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
-```
-
-
----
-
-
-## MathLimit([MathAccent](../../mathaccent) baseArg, [MathBlock](../../mathblock) limit, boolean upperLimit)  constructor
-
- Initializes a new instance of the MathLimit class.
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
-```
-
-
----
-
-
-## MathLimit([MathAccent](../../mathaccent) baseArg, [MathRadical](../../mathradical) limit, boolean upperLimit)  constructor
-
- Initializes a new instance of the MathLimit class.
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
-```
-
-
----
-
-
-## MathLimit([MathAccent](../../mathaccent) baseArg, [MathArray](../../matharray) limit, boolean upperLimit)  constructor
-
- Initializes a new instance of the MathLimit class.
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
-```
-
-
----
-
-
-## MathLimit([MathAccent](../../mathaccent) baseArg, [MathDelimiter](../../mathdelimiter) limit, boolean upperLimit)  constructor
-
- Initializes a new instance of the MathLimit class.
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
-```
-
-
----
-
-
-## MathLimit([MathAccent](../../mathaccent) baseArg, [MathAccent](../../mathaccent) limit, boolean upperLimit)  constructor
-
- Initializes a new instance of the MathLimit class.
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
-```
-
-
----
-
-
-## MathLimit([MathAccent](../../mathaccent) baseArg, [MathNaryOperator](../../mathnaryoperator) limit, boolean upperLimit)  constructor
-
- Initializes a new instance of the MathLimit class.
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
-```
-
-
----
-
-
-## MathLimit([MathAccent](../../mathaccent) baseArg, [MathGroupingCharacter](../../mathgroupingcharacter) limit, boolean upperLimit)  constructor
-
- Initializes a new instance of the MathLimit class.
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
-```
-
-
----
-
-
-## MathLimit([MathAccent](../../mathaccent) baseArg, [MathBorderBox](../../mathborderbox) limit, boolean upperLimit)  constructor
-
- Initializes a new instance of the MathLimit class.
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
-```
-
-
----
-
-
-## MathLimit([MathAccent](../../mathaccent) baseArg, [MathBar](../../mathbar) limit, boolean upperLimit)  constructor
-
- Initializes a new instance of the MathLimit class.
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
-```
-
-
----
-
-
-## MathLimit([MathAccent](../../mathaccent) baseArg, [MathFunction](../../mathfunction) limit, boolean upperLimit)  constructor
-
- Initializes a new instance of the MathLimit class.
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
-```
-
-
----
-
-
-## MathLimit([MathAccent](../../mathaccent) baseArg, [MathSubscriptElement](../../mathsubscriptelement) limit, boolean upperLimit)  constructor
-
- Initializes a new instance of the MathLimit class.
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
-```
-
-
----
-
-
-## MathLimit([MathAccent](../../mathaccent) baseArg, [MathSuperscriptElement](../../mathsuperscriptelement) limit, boolean upperLimit)  constructor
-
- Initializes a new instance of the MathLimit class.
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
-```
-
-
----
-
-
-## MathLimit([MathAccent](../../mathaccent) baseArg, [MathFraction](../../mathfraction) limit, boolean upperLimit)  constructor
-
- Initializes a new instance of the MathLimit class.
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
-```
-
-
----
-
-
-## MathLimit([MathAccent](../../mathaccent) baseArg, [MathematicalText](../../mathematicaltext) limit, boolean upperLimit)  constructor
-
- Initializes a new instance of the MathLimit class.
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
-```
-
-
----
-
-
-## MathLimit([MathAccent](../../mathaccent) baseArg, [MathBox](../../mathbox) limit, boolean upperLimit)  constructor
-
- Initializes a new instance of the MathLimit class.
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
-```
-
-
----
-
-
-## MathLimit([MathAccent](../../mathaccent) baseArg, [MathRightSubSuperscriptElement](../../mathrightsubsuperscriptelement) limit, boolean upperLimit)  constructor
-
- Initializes a new instance of the MathLimit class.
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
-```
-
-
----
-
-
 ## MathLimit([MathNaryOperator](../../mathnaryoperator) baseArg, [MathLeftSubSuperscriptElement](../../mathleftsubsuperscriptelement) limit, boolean upperLimit)  constructor
 
  Initializes a new instance of the MathLimit class.
@@ -2149,7 +1883,7 @@ Example:
 ---
 
 
-## MathLimit([MathNaryOperator](../../mathnaryoperator) baseArg, [MathMatrix](../../mathmatrix) limit, boolean upperLimit)  constructor
+## MathLimit([MathNaryOperator](../../mathnaryoperator) baseArg, [MathLimit](../../mathlimit) limit, boolean upperLimit)  constructor
 
  Initializes a new instance of the MathLimit class.
  
@@ -2163,7 +1897,7 @@ Example:
 ---
 
 
-## MathLimit([MathNaryOperator](../../mathnaryoperator) baseArg, [MathLimit](../../mathlimit) limit, boolean upperLimit)  constructor
+## MathLimit([MathNaryOperator](../../mathnaryoperator) baseArg, [MathMatrix](../../mathmatrix) limit, boolean upperLimit)  constructor
 
  Initializes a new instance of the MathLimit class.
  
@@ -2233,20 +1967,6 @@ Example:
 ---
 
 
-## MathLimit([MathNaryOperator](../../mathnaryoperator) baseArg, [MathAccent](../../mathaccent) limit, boolean upperLimit)  constructor
-
- Initializes a new instance of the MathLimit class.
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
-```
-
-
----
-
-
 ## MathLimit([MathNaryOperator](../../mathnaryoperator) baseArg, [MathNaryOperator](../../mathnaryoperator) limit, boolean upperLimit)  constructor
 
  Initializes a new instance of the MathLimit class.
@@ -2261,7 +1981,7 @@ Example:
 ---
 
 
-## MathLimit([MathNaryOperator](../../mathnaryoperator) baseArg, [MathGroupingCharacter](../../mathgroupingcharacter) limit, boolean upperLimit)  constructor
+## MathLimit([MathNaryOperator](../../mathnaryoperator) baseArg, [MathAccent](../../mathaccent) limit, boolean upperLimit)  constructor
 
  Initializes a new instance of the MathLimit class.
  
@@ -2289,7 +2009,35 @@ Example:
 ---
 
 
+## MathLimit([MathNaryOperator](../../mathnaryoperator) baseArg, [MathGroupingCharacter](../../mathgroupingcharacter) limit, boolean upperLimit)  constructor
+
+ Initializes a new instance of the MathLimit class.
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
+```
+
+
+---
+
+
 ## MathLimit([MathNaryOperator](../../mathnaryoperator) baseArg, [MathBar](../../mathbar) limit, boolean upperLimit)  constructor
+
+ Initializes a new instance of the MathLimit class.
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
+```
+
+
+---
+
+
+## MathLimit([MathNaryOperator](../../mathnaryoperator) baseArg, [MathSuperscriptElement](../../mathsuperscriptelement) limit, boolean upperLimit)  constructor
 
  Initializes a new instance of the MathLimit class.
  
@@ -2318,20 +2066,6 @@ Example:
 
 
 ## MathLimit([MathNaryOperator](../../mathnaryoperator) baseArg, [MathSubscriptElement](../../mathsubscriptelement) limit, boolean upperLimit)  constructor
-
- Initializes a new instance of the MathLimit class.
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
-```
-
-
----
-
-
-## MathLimit([MathNaryOperator](../../mathnaryoperator) baseArg, [MathSuperscriptElement](../../mathsuperscriptelement) limit, boolean upperLimit)  constructor
 
  Initializes a new instance of the MathLimit class.
  
@@ -2401,7 +2135,7 @@ Example:
 ---
 
 
-## MathLimit([MathGroupingCharacter](../../mathgroupingcharacter) baseArg, [MathLeftSubSuperscriptElement](../../mathleftsubsuperscriptelement) limit, boolean upperLimit)  constructor
+## MathLimit([MathAccent](../../mathaccent) baseArg, [MathLeftSubSuperscriptElement](../../mathleftsubsuperscriptelement) limit, boolean upperLimit)  constructor
 
  Initializes a new instance of the MathLimit class.
  
@@ -2415,7 +2149,7 @@ Example:
 ---
 
 
-## MathLimit([MathGroupingCharacter](../../mathgroupingcharacter) baseArg, [MathMatrix](../../mathmatrix) limit, boolean upperLimit)  constructor
+## MathLimit([MathAccent](../../mathaccent) baseArg, [MathLimit](../../mathlimit) limit, boolean upperLimit)  constructor
 
  Initializes a new instance of the MathLimit class.
  
@@ -2429,7 +2163,7 @@ Example:
 ---
 
 
-## MathLimit([MathGroupingCharacter](../../mathgroupingcharacter) baseArg, [MathLimit](../../mathlimit) limit, boolean upperLimit)  constructor
+## MathLimit([MathAccent](../../mathaccent) baseArg, [MathMatrix](../../mathmatrix) limit, boolean upperLimit)  constructor
 
  Initializes a new instance of the MathLimit class.
  
@@ -2443,7 +2177,7 @@ Example:
 ---
 
 
-## MathLimit([MathGroupingCharacter](../../mathgroupingcharacter) baseArg, [MathBlock](../../mathblock) limit, boolean upperLimit)  constructor
+## MathLimit([MathAccent](../../mathaccent) baseArg, [MathBlock](../../mathblock) limit, boolean upperLimit)  constructor
 
  Initializes a new instance of the MathLimit class.
  
@@ -2457,7 +2191,7 @@ Example:
 ---
 
 
-## MathLimit([MathGroupingCharacter](../../mathgroupingcharacter) baseArg, [MathRadical](../../mathradical) limit, boolean upperLimit)  constructor
+## MathLimit([MathAccent](../../mathaccent) baseArg, [MathRadical](../../mathradical) limit, boolean upperLimit)  constructor
 
  Initializes a new instance of the MathLimit class.
  
@@ -2471,7 +2205,7 @@ Example:
 ---
 
 
-## MathLimit([MathGroupingCharacter](../../mathgroupingcharacter) baseArg, [MathArray](../../matharray) limit, boolean upperLimit)  constructor
+## MathLimit([MathAccent](../../mathaccent) baseArg, [MathArray](../../matharray) limit, boolean upperLimit)  constructor
 
  Initializes a new instance of the MathLimit class.
  
@@ -2485,7 +2219,7 @@ Example:
 ---
 
 
-## MathLimit([MathGroupingCharacter](../../mathgroupingcharacter) baseArg, [MathDelimiter](../../mathdelimiter) limit, boolean upperLimit)  constructor
+## MathLimit([MathAccent](../../mathaccent) baseArg, [MathDelimiter](../../mathdelimiter) limit, boolean upperLimit)  constructor
 
  Initializes a new instance of the MathLimit class.
  
@@ -2499,7 +2233,7 @@ Example:
 ---
 
 
-## MathLimit([MathGroupingCharacter](../../mathgroupingcharacter) baseArg, [MathAccent](../../mathaccent) limit, boolean upperLimit)  constructor
+## MathLimit([MathAccent](../../mathaccent) baseArg, [MathNaryOperator](../../mathnaryoperator) limit, boolean upperLimit)  constructor
 
  Initializes a new instance of the MathLimit class.
  
@@ -2513,7 +2247,7 @@ Example:
 ---
 
 
-## MathLimit([MathGroupingCharacter](../../mathgroupingcharacter) baseArg, [MathNaryOperator](../../mathnaryoperator) limit, boolean upperLimit)  constructor
+## MathLimit([MathAccent](../../mathaccent) baseArg, [MathAccent](../../mathaccent) limit, boolean upperLimit)  constructor
 
  Initializes a new instance of the MathLimit class.
  
@@ -2527,7 +2261,7 @@ Example:
 ---
 
 
-## MathLimit([MathGroupingCharacter](../../mathgroupingcharacter) baseArg, [MathGroupingCharacter](../../mathgroupingcharacter) limit, boolean upperLimit)  constructor
+## MathLimit([MathAccent](../../mathaccent) baseArg, [MathBorderBox](../../mathborderbox) limit, boolean upperLimit)  constructor
 
  Initializes a new instance of the MathLimit class.
  
@@ -2541,7 +2275,7 @@ Example:
 ---
 
 
-## MathLimit([MathGroupingCharacter](../../mathgroupingcharacter) baseArg, [MathBorderBox](../../mathborderbox) limit, boolean upperLimit)  constructor
+## MathLimit([MathAccent](../../mathaccent) baseArg, [MathGroupingCharacter](../../mathgroupingcharacter) limit, boolean upperLimit)  constructor
 
  Initializes a new instance of the MathLimit class.
  
@@ -2555,7 +2289,7 @@ Example:
 ---
 
 
-## MathLimit([MathGroupingCharacter](../../mathgroupingcharacter) baseArg, [MathBar](../../mathbar) limit, boolean upperLimit)  constructor
+## MathLimit([MathAccent](../../mathaccent) baseArg, [MathBar](../../mathbar) limit, boolean upperLimit)  constructor
 
  Initializes a new instance of the MathLimit class.
  
@@ -2569,7 +2303,7 @@ Example:
 ---
 
 
-## MathLimit([MathGroupingCharacter](../../mathgroupingcharacter) baseArg, [MathFunction](../../mathfunction) limit, boolean upperLimit)  constructor
+## MathLimit([MathAccent](../../mathaccent) baseArg, [MathSuperscriptElement](../../mathsuperscriptelement) limit, boolean upperLimit)  constructor
 
  Initializes a new instance of the MathLimit class.
  
@@ -2583,7 +2317,7 @@ Example:
 ---
 
 
-## MathLimit([MathGroupingCharacter](../../mathgroupingcharacter) baseArg, [MathSubscriptElement](../../mathsubscriptelement) limit, boolean upperLimit)  constructor
+## MathLimit([MathAccent](../../mathaccent) baseArg, [MathFunction](../../mathfunction) limit, boolean upperLimit)  constructor
 
  Initializes a new instance of the MathLimit class.
  
@@ -2597,7 +2331,7 @@ Example:
 ---
 
 
-## MathLimit([MathGroupingCharacter](../../mathgroupingcharacter) baseArg, [MathSuperscriptElement](../../mathsuperscriptelement) limit, boolean upperLimit)  constructor
+## MathLimit([MathAccent](../../mathaccent) baseArg, [MathSubscriptElement](../../mathsubscriptelement) limit, boolean upperLimit)  constructor
 
  Initializes a new instance of the MathLimit class.
  
@@ -2611,7 +2345,7 @@ Example:
 ---
 
 
-## MathLimit([MathGroupingCharacter](../../mathgroupingcharacter) baseArg, [MathFraction](../../mathfraction) limit, boolean upperLimit)  constructor
+## MathLimit([MathAccent](../../mathaccent) baseArg, [MathFraction](../../mathfraction) limit, boolean upperLimit)  constructor
 
  Initializes a new instance of the MathLimit class.
  
@@ -2625,7 +2359,7 @@ Example:
 ---
 
 
-## MathLimit([MathGroupingCharacter](../../mathgroupingcharacter) baseArg, [MathematicalText](../../mathematicaltext) limit, boolean upperLimit)  constructor
+## MathLimit([MathAccent](../../mathaccent) baseArg, [MathematicalText](../../mathematicaltext) limit, boolean upperLimit)  constructor
 
  Initializes a new instance of the MathLimit class.
  
@@ -2639,7 +2373,7 @@ Example:
 ---
 
 
-## MathLimit([MathGroupingCharacter](../../mathgroupingcharacter) baseArg, [MathBox](../../mathbox) limit, boolean upperLimit)  constructor
+## MathLimit([MathAccent](../../mathaccent) baseArg, [MathBox](../../mathbox) limit, boolean upperLimit)  constructor
 
  Initializes a new instance of the MathLimit class.
  
@@ -2653,7 +2387,7 @@ Example:
 ---
 
 
-## MathLimit([MathGroupingCharacter](../../mathgroupingcharacter) baseArg, [MathRightSubSuperscriptElement](../../mathrightsubsuperscriptelement) limit, boolean upperLimit)  constructor
+## MathLimit([MathAccent](../../mathaccent) baseArg, [MathRightSubSuperscriptElement](../../mathrightsubsuperscriptelement) limit, boolean upperLimit)  constructor
 
  Initializes a new instance of the MathLimit class.
  
@@ -2681,7 +2415,7 @@ Example:
 ---
 
 
-## MathLimit([MathBorderBox](../../mathborderbox) baseArg, [MathMatrix](../../mathmatrix) limit, boolean upperLimit)  constructor
+## MathLimit([MathBorderBox](../../mathborderbox) baseArg, [MathLimit](../../mathlimit) limit, boolean upperLimit)  constructor
 
  Initializes a new instance of the MathLimit class.
  
@@ -2695,7 +2429,7 @@ Example:
 ---
 
 
-## MathLimit([MathBorderBox](../../mathborderbox) baseArg, [MathLimit](../../mathlimit) limit, boolean upperLimit)  constructor
+## MathLimit([MathBorderBox](../../mathborderbox) baseArg, [MathMatrix](../../mathmatrix) limit, boolean upperLimit)  constructor
 
  Initializes a new instance of the MathLimit class.
  
@@ -2765,20 +2499,6 @@ Example:
 ---
 
 
-## MathLimit([MathBorderBox](../../mathborderbox) baseArg, [MathAccent](../../mathaccent) limit, boolean upperLimit)  constructor
-
- Initializes a new instance of the MathLimit class.
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
-```
-
-
----
-
-
 ## MathLimit([MathBorderBox](../../mathborderbox) baseArg, [MathNaryOperator](../../mathnaryoperator) limit, boolean upperLimit)  constructor
 
  Initializes a new instance of the MathLimit class.
@@ -2793,7 +2513,7 @@ Example:
 ---
 
 
-## MathLimit([MathBorderBox](../../mathborderbox) baseArg, [MathGroupingCharacter](../../mathgroupingcharacter) limit, boolean upperLimit)  constructor
+## MathLimit([MathBorderBox](../../mathborderbox) baseArg, [MathAccent](../../mathaccent) limit, boolean upperLimit)  constructor
 
  Initializes a new instance of the MathLimit class.
  
@@ -2821,7 +2541,35 @@ Example:
 ---
 
 
+## MathLimit([MathBorderBox](../../mathborderbox) baseArg, [MathGroupingCharacter](../../mathgroupingcharacter) limit, boolean upperLimit)  constructor
+
+ Initializes a new instance of the MathLimit class.
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
+```
+
+
+---
+
+
 ## MathLimit([MathBorderBox](../../mathborderbox) baseArg, [MathBar](../../mathbar) limit, boolean upperLimit)  constructor
+
+ Initializes a new instance of the MathLimit class.
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
+```
+
+
+---
+
+
+## MathLimit([MathBorderBox](../../mathborderbox) baseArg, [MathSuperscriptElement](../../mathsuperscriptelement) limit, boolean upperLimit)  constructor
 
  Initializes a new instance of the MathLimit class.
  
@@ -2850,20 +2598,6 @@ Example:
 
 
 ## MathLimit([MathBorderBox](../../mathborderbox) baseArg, [MathSubscriptElement](../../mathsubscriptelement) limit, boolean upperLimit)  constructor
-
- Initializes a new instance of the MathLimit class.
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
-```
-
-
----
-
-
-## MathLimit([MathBorderBox](../../mathborderbox) baseArg, [MathSuperscriptElement](../../mathsuperscriptelement) limit, boolean upperLimit)  constructor
 
  Initializes a new instance of the MathLimit class.
  
@@ -2933,6 +2667,272 @@ Example:
 ---
 
 
+## MathLimit([MathGroupingCharacter](../../mathgroupingcharacter) baseArg, [MathLeftSubSuperscriptElement](../../mathleftsubsuperscriptelement) limit, boolean upperLimit)  constructor
+
+ Initializes a new instance of the MathLimit class.
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
+```
+
+
+---
+
+
+## MathLimit([MathGroupingCharacter](../../mathgroupingcharacter) baseArg, [MathLimit](../../mathlimit) limit, boolean upperLimit)  constructor
+
+ Initializes a new instance of the MathLimit class.
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
+```
+
+
+---
+
+
+## MathLimit([MathGroupingCharacter](../../mathgroupingcharacter) baseArg, [MathMatrix](../../mathmatrix) limit, boolean upperLimit)  constructor
+
+ Initializes a new instance of the MathLimit class.
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
+```
+
+
+---
+
+
+## MathLimit([MathGroupingCharacter](../../mathgroupingcharacter) baseArg, [MathBlock](../../mathblock) limit, boolean upperLimit)  constructor
+
+ Initializes a new instance of the MathLimit class.
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
+```
+
+
+---
+
+
+## MathLimit([MathGroupingCharacter](../../mathgroupingcharacter) baseArg, [MathRadical](../../mathradical) limit, boolean upperLimit)  constructor
+
+ Initializes a new instance of the MathLimit class.
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
+```
+
+
+---
+
+
+## MathLimit([MathGroupingCharacter](../../mathgroupingcharacter) baseArg, [MathArray](../../matharray) limit, boolean upperLimit)  constructor
+
+ Initializes a new instance of the MathLimit class.
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
+```
+
+
+---
+
+
+## MathLimit([MathGroupingCharacter](../../mathgroupingcharacter) baseArg, [MathDelimiter](../../mathdelimiter) limit, boolean upperLimit)  constructor
+
+ Initializes a new instance of the MathLimit class.
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
+```
+
+
+---
+
+
+## MathLimit([MathGroupingCharacter](../../mathgroupingcharacter) baseArg, [MathNaryOperator](../../mathnaryoperator) limit, boolean upperLimit)  constructor
+
+ Initializes a new instance of the MathLimit class.
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
+```
+
+
+---
+
+
+## MathLimit([MathGroupingCharacter](../../mathgroupingcharacter) baseArg, [MathAccent](../../mathaccent) limit, boolean upperLimit)  constructor
+
+ Initializes a new instance of the MathLimit class.
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
+```
+
+
+---
+
+
+## MathLimit([MathGroupingCharacter](../../mathgroupingcharacter) baseArg, [MathBorderBox](../../mathborderbox) limit, boolean upperLimit)  constructor
+
+ Initializes a new instance of the MathLimit class.
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
+```
+
+
+---
+
+
+## MathLimit([MathGroupingCharacter](../../mathgroupingcharacter) baseArg, [MathGroupingCharacter](../../mathgroupingcharacter) limit, boolean upperLimit)  constructor
+
+ Initializes a new instance of the MathLimit class.
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
+```
+
+
+---
+
+
+## MathLimit([MathGroupingCharacter](../../mathgroupingcharacter) baseArg, [MathBar](../../mathbar) limit, boolean upperLimit)  constructor
+
+ Initializes a new instance of the MathLimit class.
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
+```
+
+
+---
+
+
+## MathLimit([MathGroupingCharacter](../../mathgroupingcharacter) baseArg, [MathSuperscriptElement](../../mathsuperscriptelement) limit, boolean upperLimit)  constructor
+
+ Initializes a new instance of the MathLimit class.
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
+```
+
+
+---
+
+
+## MathLimit([MathGroupingCharacter](../../mathgroupingcharacter) baseArg, [MathFunction](../../mathfunction) limit, boolean upperLimit)  constructor
+
+ Initializes a new instance of the MathLimit class.
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
+```
+
+
+---
+
+
+## MathLimit([MathGroupingCharacter](../../mathgroupingcharacter) baseArg, [MathSubscriptElement](../../mathsubscriptelement) limit, boolean upperLimit)  constructor
+
+ Initializes a new instance of the MathLimit class.
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
+```
+
+
+---
+
+
+## MathLimit([MathGroupingCharacter](../../mathgroupingcharacter) baseArg, [MathFraction](../../mathfraction) limit, boolean upperLimit)  constructor
+
+ Initializes a new instance of the MathLimit class.
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
+```
+
+
+---
+
+
+## MathLimit([MathGroupingCharacter](../../mathgroupingcharacter) baseArg, [MathematicalText](../../mathematicaltext) limit, boolean upperLimit)  constructor
+
+ Initializes a new instance of the MathLimit class.
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
+```
+
+
+---
+
+
+## MathLimit([MathGroupingCharacter](../../mathgroupingcharacter) baseArg, [MathBox](../../mathbox) limit, boolean upperLimit)  constructor
+
+ Initializes a new instance of the MathLimit class.
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
+```
+
+
+---
+
+
+## MathLimit([MathGroupingCharacter](../../mathgroupingcharacter) baseArg, [MathRightSubSuperscriptElement](../../mathrightsubsuperscriptelement) limit, boolean upperLimit)  constructor
+
+ Initializes a new instance of the MathLimit class.
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
+```
+
+
+---
+
+
 ## MathLimit([MathBar](../../mathbar) baseArg, [MathLeftSubSuperscriptElement](../../mathleftsubsuperscriptelement) limit, boolean upperLimit)  constructor
 
  Initializes a new instance of the MathLimit class.
@@ -2947,7 +2947,7 @@ Example:
 ---
 
 
-## MathLimit([MathBar](../../mathbar) baseArg, [MathMatrix](../../mathmatrix) limit, boolean upperLimit)  constructor
+## MathLimit([MathBar](../../mathbar) baseArg, [MathLimit](../../mathlimit) limit, boolean upperLimit)  constructor
 
  Initializes a new instance of the MathLimit class.
  
@@ -2961,7 +2961,7 @@ Example:
 ---
 
 
-## MathLimit([MathBar](../../mathbar) baseArg, [MathLimit](../../mathlimit) limit, boolean upperLimit)  constructor
+## MathLimit([MathBar](../../mathbar) baseArg, [MathMatrix](../../mathmatrix) limit, boolean upperLimit)  constructor
 
  Initializes a new instance of the MathLimit class.
  
@@ -3031,20 +3031,6 @@ Example:
 ---
 
 
-## MathLimit([MathBar](../../mathbar) baseArg, [MathAccent](../../mathaccent) limit, boolean upperLimit)  constructor
-
- Initializes a new instance of the MathLimit class.
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
-```
-
-
----
-
-
 ## MathLimit([MathBar](../../mathbar) baseArg, [MathNaryOperator](../../mathnaryoperator) limit, boolean upperLimit)  constructor
 
  Initializes a new instance of the MathLimit class.
@@ -3059,7 +3045,7 @@ Example:
 ---
 
 
-## MathLimit([MathBar](../../mathbar) baseArg, [MathGroupingCharacter](../../mathgroupingcharacter) limit, boolean upperLimit)  constructor
+## MathLimit([MathBar](../../mathbar) baseArg, [MathAccent](../../mathaccent) limit, boolean upperLimit)  constructor
 
  Initializes a new instance of the MathLimit class.
  
@@ -3087,7 +3073,35 @@ Example:
 ---
 
 
+## MathLimit([MathBar](../../mathbar) baseArg, [MathGroupingCharacter](../../mathgroupingcharacter) limit, boolean upperLimit)  constructor
+
+ Initializes a new instance of the MathLimit class.
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
+```
+
+
+---
+
+
 ## MathLimit([MathBar](../../mathbar) baseArg, [MathBar](../../mathbar) limit, boolean upperLimit)  constructor
+
+ Initializes a new instance of the MathLimit class.
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
+```
+
+
+---
+
+
+## MathLimit([MathBar](../../mathbar) baseArg, [MathSuperscriptElement](../../mathsuperscriptelement) limit, boolean upperLimit)  constructor
 
  Initializes a new instance of the MathLimit class.
  
@@ -3116,20 +3130,6 @@ Example:
 
 
 ## MathLimit([MathBar](../../mathbar) baseArg, [MathSubscriptElement](../../mathsubscriptelement) limit, boolean upperLimit)  constructor
-
- Initializes a new instance of the MathLimit class.
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
-```
-
-
----
-
-
-## MathLimit([MathBar](../../mathbar) baseArg, [MathSuperscriptElement](../../mathsuperscriptelement) limit, boolean upperLimit)  constructor
 
  Initializes a new instance of the MathLimit class.
  
@@ -3199,6 +3199,272 @@ Example:
 ---
 
 
+## MathLimit([MathSuperscriptElement](../../mathsuperscriptelement) baseArg, [MathLeftSubSuperscriptElement](../../mathleftsubsuperscriptelement) limit, boolean upperLimit)  constructor
+
+ Initializes a new instance of the MathLimit class.
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
+```
+
+
+---
+
+
+## MathLimit([MathSuperscriptElement](../../mathsuperscriptelement) baseArg, [MathLimit](../../mathlimit) limit, boolean upperLimit)  constructor
+
+ Initializes a new instance of the MathLimit class.
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
+```
+
+
+---
+
+
+## MathLimit([MathSuperscriptElement](../../mathsuperscriptelement) baseArg, [MathMatrix](../../mathmatrix) limit, boolean upperLimit)  constructor
+
+ Initializes a new instance of the MathLimit class.
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
+```
+
+
+---
+
+
+## MathLimit([MathSuperscriptElement](../../mathsuperscriptelement) baseArg, [MathBlock](../../mathblock) limit, boolean upperLimit)  constructor
+
+ Initializes a new instance of the MathLimit class.
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
+```
+
+
+---
+
+
+## MathLimit([MathSuperscriptElement](../../mathsuperscriptelement) baseArg, [MathRadical](../../mathradical) limit, boolean upperLimit)  constructor
+
+ Initializes a new instance of the MathLimit class.
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
+```
+
+
+---
+
+
+## MathLimit([MathSuperscriptElement](../../mathsuperscriptelement) baseArg, [MathArray](../../matharray) limit, boolean upperLimit)  constructor
+
+ Initializes a new instance of the MathLimit class.
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
+```
+
+
+---
+
+
+## MathLimit([MathSuperscriptElement](../../mathsuperscriptelement) baseArg, [MathDelimiter](../../mathdelimiter) limit, boolean upperLimit)  constructor
+
+ Initializes a new instance of the MathLimit class.
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
+```
+
+
+---
+
+
+## MathLimit([MathSuperscriptElement](../../mathsuperscriptelement) baseArg, [MathNaryOperator](../../mathnaryoperator) limit, boolean upperLimit)  constructor
+
+ Initializes a new instance of the MathLimit class.
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
+```
+
+
+---
+
+
+## MathLimit([MathSuperscriptElement](../../mathsuperscriptelement) baseArg, [MathAccent](../../mathaccent) limit, boolean upperLimit)  constructor
+
+ Initializes a new instance of the MathLimit class.
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
+```
+
+
+---
+
+
+## MathLimit([MathSuperscriptElement](../../mathsuperscriptelement) baseArg, [MathBorderBox](../../mathborderbox) limit, boolean upperLimit)  constructor
+
+ Initializes a new instance of the MathLimit class.
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
+```
+
+
+---
+
+
+## MathLimit([MathSuperscriptElement](../../mathsuperscriptelement) baseArg, [MathGroupingCharacter](../../mathgroupingcharacter) limit, boolean upperLimit)  constructor
+
+ Initializes a new instance of the MathLimit class.
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
+```
+
+
+---
+
+
+## MathLimit([MathSuperscriptElement](../../mathsuperscriptelement) baseArg, [MathBar](../../mathbar) limit, boolean upperLimit)  constructor
+
+ Initializes a new instance of the MathLimit class.
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
+```
+
+
+---
+
+
+## MathLimit([MathSuperscriptElement](../../mathsuperscriptelement) baseArg, [MathSuperscriptElement](../../mathsuperscriptelement) limit, boolean upperLimit)  constructor
+
+ Initializes a new instance of the MathLimit class.
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
+```
+
+
+---
+
+
+## MathLimit([MathSuperscriptElement](../../mathsuperscriptelement) baseArg, [MathFunction](../../mathfunction) limit, boolean upperLimit)  constructor
+
+ Initializes a new instance of the MathLimit class.
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
+```
+
+
+---
+
+
+## MathLimit([MathSuperscriptElement](../../mathsuperscriptelement) baseArg, [MathSubscriptElement](../../mathsubscriptelement) limit, boolean upperLimit)  constructor
+
+ Initializes a new instance of the MathLimit class.
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
+```
+
+
+---
+
+
+## MathLimit([MathSuperscriptElement](../../mathsuperscriptelement) baseArg, [MathFraction](../../mathfraction) limit, boolean upperLimit)  constructor
+
+ Initializes a new instance of the MathLimit class.
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
+```
+
+
+---
+
+
+## MathLimit([MathSuperscriptElement](../../mathsuperscriptelement) baseArg, [MathematicalText](../../mathematicaltext) limit, boolean upperLimit)  constructor
+
+ Initializes a new instance of the MathLimit class.
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
+```
+
+
+---
+
+
+## MathLimit([MathSuperscriptElement](../../mathsuperscriptelement) baseArg, [MathBox](../../mathbox) limit, boolean upperLimit)  constructor
+
+ Initializes a new instance of the MathLimit class.
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
+```
+
+
+---
+
+
+## MathLimit([MathSuperscriptElement](../../mathsuperscriptelement) baseArg, [MathRightSubSuperscriptElement](../../mathrightsubsuperscriptelement) limit, boolean upperLimit)  constructor
+
+ Initializes a new instance of the MathLimit class.
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
+```
+
+
+---
+
+
 ## MathLimit([MathFunction](../../mathfunction) baseArg, [MathLeftSubSuperscriptElement](../../mathleftsubsuperscriptelement) limit, boolean upperLimit)  constructor
 
  Initializes a new instance of the MathLimit class.
@@ -3213,7 +3479,7 @@ Example:
 ---
 
 
-## MathLimit([MathFunction](../../mathfunction) baseArg, [MathMatrix](../../mathmatrix) limit, boolean upperLimit)  constructor
+## MathLimit([MathFunction](../../mathfunction) baseArg, [MathLimit](../../mathlimit) limit, boolean upperLimit)  constructor
 
  Initializes a new instance of the MathLimit class.
  
@@ -3227,7 +3493,7 @@ Example:
 ---
 
 
-## MathLimit([MathFunction](../../mathfunction) baseArg, [MathLimit](../../mathlimit) limit, boolean upperLimit)  constructor
+## MathLimit([MathFunction](../../mathfunction) baseArg, [MathMatrix](../../mathmatrix) limit, boolean upperLimit)  constructor
 
  Initializes a new instance of the MathLimit class.
  
@@ -3297,20 +3563,6 @@ Example:
 ---
 
 
-## MathLimit([MathFunction](../../mathfunction) baseArg, [MathAccent](../../mathaccent) limit, boolean upperLimit)  constructor
-
- Initializes a new instance of the MathLimit class.
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
-```
-
-
----
-
-
 ## MathLimit([MathFunction](../../mathfunction) baseArg, [MathNaryOperator](../../mathnaryoperator) limit, boolean upperLimit)  constructor
 
  Initializes a new instance of the MathLimit class.
@@ -3325,7 +3577,7 @@ Example:
 ---
 
 
-## MathLimit([MathFunction](../../mathfunction) baseArg, [MathGroupingCharacter](../../mathgroupingcharacter) limit, boolean upperLimit)  constructor
+## MathLimit([MathFunction](../../mathfunction) baseArg, [MathAccent](../../mathaccent) limit, boolean upperLimit)  constructor
 
  Initializes a new instance of the MathLimit class.
  
@@ -3353,7 +3605,35 @@ Example:
 ---
 
 
+## MathLimit([MathFunction](../../mathfunction) baseArg, [MathGroupingCharacter](../../mathgroupingcharacter) limit, boolean upperLimit)  constructor
+
+ Initializes a new instance of the MathLimit class.
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
+```
+
+
+---
+
+
 ## MathLimit([MathFunction](../../mathfunction) baseArg, [MathBar](../../mathbar) limit, boolean upperLimit)  constructor
+
+ Initializes a new instance of the MathLimit class.
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
+```
+
+
+---
+
+
+## MathLimit([MathFunction](../../mathfunction) baseArg, [MathSuperscriptElement](../../mathsuperscriptelement) limit, boolean upperLimit)  constructor
 
  Initializes a new instance of the MathLimit class.
  
@@ -3382,20 +3662,6 @@ Example:
 
 
 ## MathLimit([MathFunction](../../mathfunction) baseArg, [MathSubscriptElement](../../mathsubscriptelement) limit, boolean upperLimit)  constructor
-
- Initializes a new instance of the MathLimit class.
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
-```
-
-
----
-
-
-## MathLimit([MathFunction](../../mathfunction) baseArg, [MathSuperscriptElement](../../mathsuperscriptelement) limit, boolean upperLimit)  constructor
 
  Initializes a new instance of the MathLimit class.
  
@@ -3479,7 +3745,7 @@ Example:
 ---
 
 
-## MathLimit([MathSubscriptElement](../../mathsubscriptelement) baseArg, [MathMatrix](../../mathmatrix) limit, boolean upperLimit)  constructor
+## MathLimit([MathSubscriptElement](../../mathsubscriptelement) baseArg, [MathLimit](../../mathlimit) limit, boolean upperLimit)  constructor
 
  Initializes a new instance of the MathLimit class.
  
@@ -3493,7 +3759,7 @@ Example:
 ---
 
 
-## MathLimit([MathSubscriptElement](../../mathsubscriptelement) baseArg, [MathLimit](../../mathlimit) limit, boolean upperLimit)  constructor
+## MathLimit([MathSubscriptElement](../../mathsubscriptelement) baseArg, [MathMatrix](../../mathmatrix) limit, boolean upperLimit)  constructor
 
  Initializes a new instance of the MathLimit class.
  
@@ -3563,20 +3829,6 @@ Example:
 ---
 
 
-## MathLimit([MathSubscriptElement](../../mathsubscriptelement) baseArg, [MathAccent](../../mathaccent) limit, boolean upperLimit)  constructor
-
- Initializes a new instance of the MathLimit class.
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
-```
-
-
----
-
-
 ## MathLimit([MathSubscriptElement](../../mathsubscriptelement) baseArg, [MathNaryOperator](../../mathnaryoperator) limit, boolean upperLimit)  constructor
 
  Initializes a new instance of the MathLimit class.
@@ -3591,7 +3843,7 @@ Example:
 ---
 
 
-## MathLimit([MathSubscriptElement](../../mathsubscriptelement) baseArg, [MathGroupingCharacter](../../mathgroupingcharacter) limit, boolean upperLimit)  constructor
+## MathLimit([MathSubscriptElement](../../mathsubscriptelement) baseArg, [MathAccent](../../mathaccent) limit, boolean upperLimit)  constructor
 
  Initializes a new instance of the MathLimit class.
  
@@ -3619,7 +3871,35 @@ Example:
 ---
 
 
+## MathLimit([MathSubscriptElement](../../mathsubscriptelement) baseArg, [MathGroupingCharacter](../../mathgroupingcharacter) limit, boolean upperLimit)  constructor
+
+ Initializes a new instance of the MathLimit class.
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
+```
+
+
+---
+
+
 ## MathLimit([MathSubscriptElement](../../mathsubscriptelement) baseArg, [MathBar](../../mathbar) limit, boolean upperLimit)  constructor
+
+ Initializes a new instance of the MathLimit class.
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
+```
+
+
+---
+
+
+## MathLimit([MathSubscriptElement](../../mathsubscriptelement) baseArg, [MathSuperscriptElement](../../mathsuperscriptelement) limit, boolean upperLimit)  constructor
 
  Initializes a new instance of the MathLimit class.
  
@@ -3648,20 +3928,6 @@ Example:
 
 
 ## MathLimit([MathSubscriptElement](../../mathsubscriptelement) baseArg, [MathSubscriptElement](../../mathsubscriptelement) limit, boolean upperLimit)  constructor
-
- Initializes a new instance of the MathLimit class.
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
-```
-
-
----
-
-
-## MathLimit([MathSubscriptElement](../../mathsubscriptelement) baseArg, [MathSuperscriptElement](../../mathsuperscriptelement) limit, boolean upperLimit)  constructor
 
  Initializes a new instance of the MathLimit class.
  
@@ -3731,272 +3997,6 @@ Example:
 ---
 
 
-## MathLimit([MathSuperscriptElement](../../mathsuperscriptelement) baseArg, [MathLeftSubSuperscriptElement](../../mathleftsubsuperscriptelement) limit, boolean upperLimit)  constructor
-
- Initializes a new instance of the MathLimit class.
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
-```
-
-
----
-
-
-## MathLimit([MathSuperscriptElement](../../mathsuperscriptelement) baseArg, [MathMatrix](../../mathmatrix) limit, boolean upperLimit)  constructor
-
- Initializes a new instance of the MathLimit class.
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
-```
-
-
----
-
-
-## MathLimit([MathSuperscriptElement](../../mathsuperscriptelement) baseArg, [MathLimit](../../mathlimit) limit, boolean upperLimit)  constructor
-
- Initializes a new instance of the MathLimit class.
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
-```
-
-
----
-
-
-## MathLimit([MathSuperscriptElement](../../mathsuperscriptelement) baseArg, [MathBlock](../../mathblock) limit, boolean upperLimit)  constructor
-
- Initializes a new instance of the MathLimit class.
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
-```
-
-
----
-
-
-## MathLimit([MathSuperscriptElement](../../mathsuperscriptelement) baseArg, [MathRadical](../../mathradical) limit, boolean upperLimit)  constructor
-
- Initializes a new instance of the MathLimit class.
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
-```
-
-
----
-
-
-## MathLimit([MathSuperscriptElement](../../mathsuperscriptelement) baseArg, [MathArray](../../matharray) limit, boolean upperLimit)  constructor
-
- Initializes a new instance of the MathLimit class.
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
-```
-
-
----
-
-
-## MathLimit([MathSuperscriptElement](../../mathsuperscriptelement) baseArg, [MathDelimiter](../../mathdelimiter) limit, boolean upperLimit)  constructor
-
- Initializes a new instance of the MathLimit class.
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
-```
-
-
----
-
-
-## MathLimit([MathSuperscriptElement](../../mathsuperscriptelement) baseArg, [MathAccent](../../mathaccent) limit, boolean upperLimit)  constructor
-
- Initializes a new instance of the MathLimit class.
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
-```
-
-
----
-
-
-## MathLimit([MathSuperscriptElement](../../mathsuperscriptelement) baseArg, [MathNaryOperator](../../mathnaryoperator) limit, boolean upperLimit)  constructor
-
- Initializes a new instance of the MathLimit class.
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
-```
-
-
----
-
-
-## MathLimit([MathSuperscriptElement](../../mathsuperscriptelement) baseArg, [MathGroupingCharacter](../../mathgroupingcharacter) limit, boolean upperLimit)  constructor
-
- Initializes a new instance of the MathLimit class.
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
-```
-
-
----
-
-
-## MathLimit([MathSuperscriptElement](../../mathsuperscriptelement) baseArg, [MathBorderBox](../../mathborderbox) limit, boolean upperLimit)  constructor
-
- Initializes a new instance of the MathLimit class.
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
-```
-
-
----
-
-
-## MathLimit([MathSuperscriptElement](../../mathsuperscriptelement) baseArg, [MathBar](../../mathbar) limit, boolean upperLimit)  constructor
-
- Initializes a new instance of the MathLimit class.
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
-```
-
-
----
-
-
-## MathLimit([MathSuperscriptElement](../../mathsuperscriptelement) baseArg, [MathFunction](../../mathfunction) limit, boolean upperLimit)  constructor
-
- Initializes a new instance of the MathLimit class.
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
-```
-
-
----
-
-
-## MathLimit([MathSuperscriptElement](../../mathsuperscriptelement) baseArg, [MathSubscriptElement](../../mathsubscriptelement) limit, boolean upperLimit)  constructor
-
- Initializes a new instance of the MathLimit class.
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
-```
-
-
----
-
-
-## MathLimit([MathSuperscriptElement](../../mathsuperscriptelement) baseArg, [MathSuperscriptElement](../../mathsuperscriptelement) limit, boolean upperLimit)  constructor
-
- Initializes a new instance of the MathLimit class.
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
-```
-
-
----
-
-
-## MathLimit([MathSuperscriptElement](../../mathsuperscriptelement) baseArg, [MathFraction](../../mathfraction) limit, boolean upperLimit)  constructor
-
- Initializes a new instance of the MathLimit class.
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
-```
-
-
----
-
-
-## MathLimit([MathSuperscriptElement](../../mathsuperscriptelement) baseArg, [MathematicalText](../../mathematicaltext) limit, boolean upperLimit)  constructor
-
- Initializes a new instance of the MathLimit class.
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
-```
-
-
----
-
-
-## MathLimit([MathSuperscriptElement](../../mathsuperscriptelement) baseArg, [MathBox](../../mathbox) limit, boolean upperLimit)  constructor
-
- Initializes a new instance of the MathLimit class.
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
-```
-
-
----
-
-
-## MathLimit([MathSuperscriptElement](../../mathsuperscriptelement) baseArg, [MathRightSubSuperscriptElement](../../mathrightsubsuperscriptelement) limit, boolean upperLimit)  constructor
-
- Initializes a new instance of the MathLimit class.
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
-```
-
-
----
-
-
 ## MathLimit([MathFraction](../../mathfraction) baseArg, [MathLeftSubSuperscriptElement](../../mathleftsubsuperscriptelement) limit, boolean upperLimit)  constructor
 
  Initializes a new instance of the MathLimit class.
@@ -4011,7 +4011,7 @@ Example:
 ---
 
 
-## MathLimit([MathFraction](../../mathfraction) baseArg, [MathMatrix](../../mathmatrix) limit, boolean upperLimit)  constructor
+## MathLimit([MathFraction](../../mathfraction) baseArg, [MathLimit](../../mathlimit) limit, boolean upperLimit)  constructor
 
  Initializes a new instance of the MathLimit class.
  
@@ -4025,7 +4025,7 @@ Example:
 ---
 
 
-## MathLimit([MathFraction](../../mathfraction) baseArg, [MathLimit](../../mathlimit) limit, boolean upperLimit)  constructor
+## MathLimit([MathFraction](../../mathfraction) baseArg, [MathMatrix](../../mathmatrix) limit, boolean upperLimit)  constructor
 
  Initializes a new instance of the MathLimit class.
  
@@ -4095,20 +4095,6 @@ Example:
 ---
 
 
-## MathLimit([MathFraction](../../mathfraction) baseArg, [MathAccent](../../mathaccent) limit, boolean upperLimit)  constructor
-
- Initializes a new instance of the MathLimit class.
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
-```
-
-
----
-
-
 ## MathLimit([MathFraction](../../mathfraction) baseArg, [MathNaryOperator](../../mathnaryoperator) limit, boolean upperLimit)  constructor
 
  Initializes a new instance of the MathLimit class.
@@ -4123,7 +4109,7 @@ Example:
 ---
 
 
-## MathLimit([MathFraction](../../mathfraction) baseArg, [MathGroupingCharacter](../../mathgroupingcharacter) limit, boolean upperLimit)  constructor
+## MathLimit([MathFraction](../../mathfraction) baseArg, [MathAccent](../../mathaccent) limit, boolean upperLimit)  constructor
 
  Initializes a new instance of the MathLimit class.
  
@@ -4151,7 +4137,35 @@ Example:
 ---
 
 
+## MathLimit([MathFraction](../../mathfraction) baseArg, [MathGroupingCharacter](../../mathgroupingcharacter) limit, boolean upperLimit)  constructor
+
+ Initializes a new instance of the MathLimit class.
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
+```
+
+
+---
+
+
 ## MathLimit([MathFraction](../../mathfraction) baseArg, [MathBar](../../mathbar) limit, boolean upperLimit)  constructor
+
+ Initializes a new instance of the MathLimit class.
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
+```
+
+
+---
+
+
+## MathLimit([MathFraction](../../mathfraction) baseArg, [MathSuperscriptElement](../../mathsuperscriptelement) limit, boolean upperLimit)  constructor
 
  Initializes a new instance of the MathLimit class.
  
@@ -4180,20 +4194,6 @@ Example:
 
 
 ## MathLimit([MathFraction](../../mathfraction) baseArg, [MathSubscriptElement](../../mathsubscriptelement) limit, boolean upperLimit)  constructor
-
- Initializes a new instance of the MathLimit class.
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
-```
-
-
----
-
-
-## MathLimit([MathFraction](../../mathfraction) baseArg, [MathSuperscriptElement](../../mathsuperscriptelement) limit, boolean upperLimit)  constructor
 
  Initializes a new instance of the MathLimit class.
  
@@ -4277,7 +4277,7 @@ Example:
 ---
 
 
-## MathLimit([MathematicalText](../../mathematicaltext) baseArg, [MathMatrix](../../mathmatrix) limit, boolean upperLimit)  constructor
+## MathLimit([MathematicalText](../../mathematicaltext) baseArg, [MathLimit](../../mathlimit) limit, boolean upperLimit)  constructor
 
  Initializes a new instance of the MathLimit class.
  
@@ -4291,7 +4291,7 @@ Example:
 ---
 
 
-## MathLimit([MathematicalText](../../mathematicaltext) baseArg, [MathLimit](../../mathlimit) limit, boolean upperLimit)  constructor
+## MathLimit([MathematicalText](../../mathematicaltext) baseArg, [MathMatrix](../../mathmatrix) limit, boolean upperLimit)  constructor
 
  Initializes a new instance of the MathLimit class.
  
@@ -4361,20 +4361,6 @@ Example:
 ---
 
 
-## MathLimit([MathematicalText](../../mathematicaltext) baseArg, [MathAccent](../../mathaccent) limit, boolean upperLimit)  constructor
-
- Initializes a new instance of the MathLimit class.
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
-```
-
-
----
-
-
 ## MathLimit([MathematicalText](../../mathematicaltext) baseArg, [MathNaryOperator](../../mathnaryoperator) limit, boolean upperLimit)  constructor
 
  Initializes a new instance of the MathLimit class.
@@ -4389,7 +4375,7 @@ Example:
 ---
 
 
-## MathLimit([MathematicalText](../../mathematicaltext) baseArg, [MathGroupingCharacter](../../mathgroupingcharacter) limit, boolean upperLimit)  constructor
+## MathLimit([MathematicalText](../../mathematicaltext) baseArg, [MathAccent](../../mathaccent) limit, boolean upperLimit)  constructor
 
  Initializes a new instance of the MathLimit class.
  
@@ -4417,7 +4403,35 @@ Example:
 ---
 
 
+## MathLimit([MathematicalText](../../mathematicaltext) baseArg, [MathGroupingCharacter](../../mathgroupingcharacter) limit, boolean upperLimit)  constructor
+
+ Initializes a new instance of the MathLimit class.
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
+```
+
+
+---
+
+
 ## MathLimit([MathematicalText](../../mathematicaltext) baseArg, [MathBar](../../mathbar) limit, boolean upperLimit)  constructor
+
+ Initializes a new instance of the MathLimit class.
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
+```
+
+
+---
+
+
+## MathLimit([MathematicalText](../../mathematicaltext) baseArg, [MathSuperscriptElement](../../mathsuperscriptelement) limit, boolean upperLimit)  constructor
 
  Initializes a new instance of the MathLimit class.
  
@@ -4446,20 +4460,6 @@ Example:
 
 
 ## MathLimit([MathematicalText](../../mathematicaltext) baseArg, [MathSubscriptElement](../../mathsubscriptelement) limit, boolean upperLimit)  constructor
-
- Initializes a new instance of the MathLimit class.
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
-```
-
-
----
-
-
-## MathLimit([MathematicalText](../../mathematicaltext) baseArg, [MathSuperscriptElement](../../mathsuperscriptelement) limit, boolean upperLimit)  constructor
 
  Initializes a new instance of the MathLimit class.
  
@@ -4543,7 +4543,7 @@ Example:
 ---
 
 
-## MathLimit([MathBox](../../mathbox) baseArg, [MathMatrix](../../mathmatrix) limit, boolean upperLimit)  constructor
+## MathLimit([MathBox](../../mathbox) baseArg, [MathLimit](../../mathlimit) limit, boolean upperLimit)  constructor
 
  Initializes a new instance of the MathLimit class.
  
@@ -4557,7 +4557,7 @@ Example:
 ---
 
 
-## MathLimit([MathBox](../../mathbox) baseArg, [MathLimit](../../mathlimit) limit, boolean upperLimit)  constructor
+## MathLimit([MathBox](../../mathbox) baseArg, [MathMatrix](../../mathmatrix) limit, boolean upperLimit)  constructor
 
  Initializes a new instance of the MathLimit class.
  
@@ -4627,20 +4627,6 @@ Example:
 ---
 
 
-## MathLimit([MathBox](../../mathbox) baseArg, [MathAccent](../../mathaccent) limit, boolean upperLimit)  constructor
-
- Initializes a new instance of the MathLimit class.
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
-```
-
-
----
-
-
 ## MathLimit([MathBox](../../mathbox) baseArg, [MathNaryOperator](../../mathnaryoperator) limit, boolean upperLimit)  constructor
 
  Initializes a new instance of the MathLimit class.
@@ -4655,7 +4641,7 @@ Example:
 ---
 
 
-## MathLimit([MathBox](../../mathbox) baseArg, [MathGroupingCharacter](../../mathgroupingcharacter) limit, boolean upperLimit)  constructor
+## MathLimit([MathBox](../../mathbox) baseArg, [MathAccent](../../mathaccent) limit, boolean upperLimit)  constructor
 
  Initializes a new instance of the MathLimit class.
  
@@ -4683,7 +4669,35 @@ Example:
 ---
 
 
+## MathLimit([MathBox](../../mathbox) baseArg, [MathGroupingCharacter](../../mathgroupingcharacter) limit, boolean upperLimit)  constructor
+
+ Initializes a new instance of the MathLimit class.
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
+```
+
+
+---
+
+
 ## MathLimit([MathBox](../../mathbox) baseArg, [MathBar](../../mathbar) limit, boolean upperLimit)  constructor
+
+ Initializes a new instance of the MathLimit class.
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
+```
+
+
+---
+
+
+## MathLimit([MathBox](../../mathbox) baseArg, [MathSuperscriptElement](../../mathsuperscriptelement) limit, boolean upperLimit)  constructor
 
  Initializes a new instance of the MathLimit class.
  
@@ -4712,20 +4726,6 @@ Example:
 
 
 ## MathLimit([MathBox](../../mathbox) baseArg, [MathSubscriptElement](../../mathsubscriptelement) limit, boolean upperLimit)  constructor
-
- Initializes a new instance of the MathLimit class.
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
-```
-
-
----
-
-
-## MathLimit([MathBox](../../mathbox) baseArg, [MathSuperscriptElement](../../mathsuperscriptelement) limit, boolean upperLimit)  constructor
 
  Initializes a new instance of the MathLimit class.
  
@@ -4809,7 +4809,7 @@ Example:
 ---
 
 
-## MathLimit([MathRightSubSuperscriptElement](../../mathrightsubsuperscriptelement) baseArg, [MathMatrix](../../mathmatrix) limit, boolean upperLimit)  constructor
+## MathLimit([MathRightSubSuperscriptElement](../../mathrightsubsuperscriptelement) baseArg, [MathLimit](../../mathlimit) limit, boolean upperLimit)  constructor
 
  Initializes a new instance of the MathLimit class.
  
@@ -4823,7 +4823,7 @@ Example:
 ---
 
 
-## MathLimit([MathRightSubSuperscriptElement](../../mathrightsubsuperscriptelement) baseArg, [MathLimit](../../mathlimit) limit, boolean upperLimit)  constructor
+## MathLimit([MathRightSubSuperscriptElement](../../mathrightsubsuperscriptelement) baseArg, [MathMatrix](../../mathmatrix) limit, boolean upperLimit)  constructor
 
  Initializes a new instance of the MathLimit class.
  
@@ -4893,20 +4893,6 @@ Example:
 ---
 
 
-## MathLimit([MathRightSubSuperscriptElement](../../mathrightsubsuperscriptelement) baseArg, [MathAccent](../../mathaccent) limit, boolean upperLimit)  constructor
-
- Initializes a new instance of the MathLimit class.
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
-```
-
-
----
-
-
 ## MathLimit([MathRightSubSuperscriptElement](../../mathrightsubsuperscriptelement) baseArg, [MathNaryOperator](../../mathnaryoperator) limit, boolean upperLimit)  constructor
 
  Initializes a new instance of the MathLimit class.
@@ -4921,7 +4907,7 @@ Example:
 ---
 
 
-## MathLimit([MathRightSubSuperscriptElement](../../mathrightsubsuperscriptelement) baseArg, [MathGroupingCharacter](../../mathgroupingcharacter) limit, boolean upperLimit)  constructor
+## MathLimit([MathRightSubSuperscriptElement](../../mathrightsubsuperscriptelement) baseArg, [MathAccent](../../mathaccent) limit, boolean upperLimit)  constructor
 
  Initializes a new instance of the MathLimit class.
  
@@ -4949,7 +4935,35 @@ Example:
 ---
 
 
+## MathLimit([MathRightSubSuperscriptElement](../../mathrightsubsuperscriptelement) baseArg, [MathGroupingCharacter](../../mathgroupingcharacter) limit, boolean upperLimit)  constructor
+
+ Initializes a new instance of the MathLimit class.
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
+```
+
+
+---
+
+
 ## MathLimit([MathRightSubSuperscriptElement](../../mathrightsubsuperscriptelement) baseArg, [MathBar](../../mathbar) limit, boolean upperLimit)  constructor
+
+ Initializes a new instance of the MathLimit class.
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
+```
+
+
+---
+
+
+## MathLimit([MathRightSubSuperscriptElement](../../mathrightsubsuperscriptelement) baseArg, [MathSuperscriptElement](../../mathsuperscriptelement) limit, boolean upperLimit)  constructor
 
  Initializes a new instance of the MathLimit class.
  
@@ -4978,20 +4992,6 @@ Example:
 
 
 ## MathLimit([MathRightSubSuperscriptElement](../../mathrightsubsuperscriptelement) baseArg, [MathSubscriptElement](../../mathsubscriptelement) limit, boolean upperLimit)  constructor
-
- Initializes a new instance of the MathLimit class.
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"), false);
-```
-
-
----
-
-
-## MathLimit([MathRightSubSuperscriptElement](../../mathrightsubsuperscriptelement) baseArg, [MathSuperscriptElement](../../mathsuperscriptelement) limit, boolean upperLimit)  constructor
 
  Initializes a new instance of the MathLimit class.
  
@@ -5075,7 +5075,7 @@ Example:
 ---
 
 
-## MathLimit([MathLeftSubSuperscriptElement](../../mathleftsubsuperscriptelement) baseArg, [MathMatrix](../../mathmatrix) limit)  constructor
+## MathLimit([MathLeftSubSuperscriptElement](../../mathleftsubsuperscriptelement) baseArg, [MathLimit](../../mathlimit) limit)  constructor
 
  Initializes a new instance of the MathLimit class with lower limit
  
@@ -5089,7 +5089,7 @@ Example:
 ---
 
 
-## MathLimit([MathLeftSubSuperscriptElement](../../mathleftsubsuperscriptelement) baseArg, [MathLimit](../../mathlimit) limit)  constructor
+## MathLimit([MathLeftSubSuperscriptElement](../../mathleftsubsuperscriptelement) baseArg, [MathMatrix](../../mathmatrix) limit)  constructor
 
  Initializes a new instance of the MathLimit class with lower limit
  
@@ -5159,20 +5159,6 @@ Example:
 ---
 
 
-## MathLimit([MathLeftSubSuperscriptElement](../../mathleftsubsuperscriptelement) baseArg, [MathAccent](../../mathaccent) limit)  constructor
-
- Initializes a new instance of the MathLimit class with lower limit
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
-```
-
-
----
-
-
 ## MathLimit([MathLeftSubSuperscriptElement](../../mathleftsubsuperscriptelement) baseArg, [MathNaryOperator](../../mathnaryoperator) limit)  constructor
 
  Initializes a new instance of the MathLimit class with lower limit
@@ -5187,7 +5173,7 @@ Example:
 ---
 
 
-## MathLimit([MathLeftSubSuperscriptElement](../../mathleftsubsuperscriptelement) baseArg, [MathGroupingCharacter](../../mathgroupingcharacter) limit)  constructor
+## MathLimit([MathLeftSubSuperscriptElement](../../mathleftsubsuperscriptelement) baseArg, [MathAccent](../../mathaccent) limit)  constructor
 
  Initializes a new instance of the MathLimit class with lower limit
  
@@ -5215,7 +5201,35 @@ Example:
 ---
 
 
+## MathLimit([MathLeftSubSuperscriptElement](../../mathleftsubsuperscriptelement) baseArg, [MathGroupingCharacter](../../mathgroupingcharacter) limit)  constructor
+
+ Initializes a new instance of the MathLimit class with lower limit
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
+```
+
+
+---
+
+
 ## MathLimit([MathLeftSubSuperscriptElement](../../mathleftsubsuperscriptelement) baseArg, [MathBar](../../mathbar) limit)  constructor
+
+ Initializes a new instance of the MathLimit class with lower limit
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
+```
+
+
+---
+
+
+## MathLimit([MathLeftSubSuperscriptElement](../../mathleftsubsuperscriptelement) baseArg, [MathSuperscriptElement](../../mathsuperscriptelement) limit)  constructor
 
  Initializes a new instance of the MathLimit class with lower limit
  
@@ -5244,20 +5258,6 @@ Example:
 
 
 ## MathLimit([MathLeftSubSuperscriptElement](../../mathleftsubsuperscriptelement) baseArg, [MathSubscriptElement](../../mathsubscriptelement) limit)  constructor
-
- Initializes a new instance of the MathLimit class with lower limit
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
-```
-
-
----
-
-
-## MathLimit([MathLeftSubSuperscriptElement](../../mathleftsubsuperscriptelement) baseArg, [MathSuperscriptElement](../../mathsuperscriptelement) limit)  constructor
 
  Initializes a new instance of the MathLimit class with lower limit
  
@@ -5327,272 +5327,6 @@ Example:
 ---
 
 
-## MathLimit([MathMatrix](../../mathmatrix) baseArg, [MathLeftSubSuperscriptElement](../../mathleftsubsuperscriptelement) limit)  constructor
-
- Initializes a new instance of the MathLimit class with lower limit
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
-```
-
-
----
-
-
-## MathLimit([MathMatrix](../../mathmatrix) baseArg, [MathMatrix](../../mathmatrix) limit)  constructor
-
- Initializes a new instance of the MathLimit class with lower limit
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
-```
-
-
----
-
-
-## MathLimit([MathMatrix](../../mathmatrix) baseArg, [MathLimit](../../mathlimit) limit)  constructor
-
- Initializes a new instance of the MathLimit class with lower limit
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
-```
-
-
----
-
-
-## MathLimit([MathMatrix](../../mathmatrix) baseArg, [MathBlock](../../mathblock) limit)  constructor
-
- Initializes a new instance of the MathLimit class with lower limit
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
-```
-
-
----
-
-
-## MathLimit([MathMatrix](../../mathmatrix) baseArg, [MathRadical](../../mathradical) limit)  constructor
-
- Initializes a new instance of the MathLimit class with lower limit
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
-```
-
-
----
-
-
-## MathLimit([MathMatrix](../../mathmatrix) baseArg, [MathArray](../../matharray) limit)  constructor
-
- Initializes a new instance of the MathLimit class with lower limit
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
-```
-
-
----
-
-
-## MathLimit([MathMatrix](../../mathmatrix) baseArg, [MathDelimiter](../../mathdelimiter) limit)  constructor
-
- Initializes a new instance of the MathLimit class with lower limit
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
-```
-
-
----
-
-
-## MathLimit([MathMatrix](../../mathmatrix) baseArg, [MathAccent](../../mathaccent) limit)  constructor
-
- Initializes a new instance of the MathLimit class with lower limit
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
-```
-
-
----
-
-
-## MathLimit([MathMatrix](../../mathmatrix) baseArg, [MathNaryOperator](../../mathnaryoperator) limit)  constructor
-
- Initializes a new instance of the MathLimit class with lower limit
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
-```
-
-
----
-
-
-## MathLimit([MathMatrix](../../mathmatrix) baseArg, [MathGroupingCharacter](../../mathgroupingcharacter) limit)  constructor
-
- Initializes a new instance of the MathLimit class with lower limit
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
-```
-
-
----
-
-
-## MathLimit([MathMatrix](../../mathmatrix) baseArg, [MathBorderBox](../../mathborderbox) limit)  constructor
-
- Initializes a new instance of the MathLimit class with lower limit
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
-```
-
-
----
-
-
-## MathLimit([MathMatrix](../../mathmatrix) baseArg, [MathBar](../../mathbar) limit)  constructor
-
- Initializes a new instance of the MathLimit class with lower limit
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
-```
-
-
----
-
-
-## MathLimit([MathMatrix](../../mathmatrix) baseArg, [MathFunction](../../mathfunction) limit)  constructor
-
- Initializes a new instance of the MathLimit class with lower limit
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
-```
-
-
----
-
-
-## MathLimit([MathMatrix](../../mathmatrix) baseArg, [MathSubscriptElement](../../mathsubscriptelement) limit)  constructor
-
- Initializes a new instance of the MathLimit class with lower limit
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
-```
-
-
----
-
-
-## MathLimit([MathMatrix](../../mathmatrix) baseArg, [MathSuperscriptElement](../../mathsuperscriptelement) limit)  constructor
-
- Initializes a new instance of the MathLimit class with lower limit
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
-```
-
-
----
-
-
-## MathLimit([MathMatrix](../../mathmatrix) baseArg, [MathFraction](../../mathfraction) limit)  constructor
-
- Initializes a new instance of the MathLimit class with lower limit
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
-```
-
-
----
-
-
-## MathLimit([MathMatrix](../../mathmatrix) baseArg, [MathematicalText](../../mathematicaltext) limit)  constructor
-
- Initializes a new instance of the MathLimit class with lower limit
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
-```
-
-
----
-
-
-## MathLimit([MathMatrix](../../mathmatrix) baseArg, [MathBox](../../mathbox) limit)  constructor
-
- Initializes a new instance of the MathLimit class with lower limit
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
-```
-
-
----
-
-
-## MathLimit([MathMatrix](../../mathmatrix) baseArg, [MathRightSubSuperscriptElement](../../mathrightsubsuperscriptelement) limit)  constructor
-
- Initializes a new instance of the MathLimit class with lower limit
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
-```
-
-
----
-
-
 ## MathLimit([MathLimit](../../mathlimit) baseArg, [MathLeftSubSuperscriptElement](../../mathleftsubsuperscriptelement) limit)  constructor
 
  Initializes a new instance of the MathLimit class with lower limit
@@ -5607,7 +5341,7 @@ Example:
 ---
 
 
-## MathLimit([MathLimit](../../mathlimit) baseArg, [MathMatrix](../../mathmatrix) limit)  constructor
+## MathLimit([MathLimit](../../mathlimit) baseArg, [MathLimit](../../mathlimit) limit)  constructor
 
  Initializes a new instance of the MathLimit class with lower limit
  
@@ -5621,7 +5355,7 @@ Example:
 ---
 
 
-## MathLimit([MathLimit](../../mathlimit) baseArg, [MathLimit](../../mathlimit) limit)  constructor
+## MathLimit([MathLimit](../../mathlimit) baseArg, [MathMatrix](../../mathmatrix) limit)  constructor
 
  Initializes a new instance of the MathLimit class with lower limit
  
@@ -5691,20 +5425,6 @@ Example:
 ---
 
 
-## MathLimit([MathLimit](../../mathlimit) baseArg, [MathAccent](../../mathaccent) limit)  constructor
-
- Initializes a new instance of the MathLimit class with lower limit
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
-```
-
-
----
-
-
 ## MathLimit([MathLimit](../../mathlimit) baseArg, [MathNaryOperator](../../mathnaryoperator) limit)  constructor
 
  Initializes a new instance of the MathLimit class with lower limit
@@ -5719,7 +5439,7 @@ Example:
 ---
 
 
-## MathLimit([MathLimit](../../mathlimit) baseArg, [MathGroupingCharacter](../../mathgroupingcharacter) limit)  constructor
+## MathLimit([MathLimit](../../mathlimit) baseArg, [MathAccent](../../mathaccent) limit)  constructor
 
  Initializes a new instance of the MathLimit class with lower limit
  
@@ -5747,7 +5467,35 @@ Example:
 ---
 
 
+## MathLimit([MathLimit](../../mathlimit) baseArg, [MathGroupingCharacter](../../mathgroupingcharacter) limit)  constructor
+
+ Initializes a new instance of the MathLimit class with lower limit
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
+```
+
+
+---
+
+
 ## MathLimit([MathLimit](../../mathlimit) baseArg, [MathBar](../../mathbar) limit)  constructor
+
+ Initializes a new instance of the MathLimit class with lower limit
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
+```
+
+
+---
+
+
+## MathLimit([MathLimit](../../mathlimit) baseArg, [MathSuperscriptElement](../../mathsuperscriptelement) limit)  constructor
 
  Initializes a new instance of the MathLimit class with lower limit
  
@@ -5776,20 +5524,6 @@ Example:
 
 
 ## MathLimit([MathLimit](../../mathlimit) baseArg, [MathSubscriptElement](../../mathsubscriptelement) limit)  constructor
-
- Initializes a new instance of the MathLimit class with lower limit
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
-```
-
-
----
-
-
-## MathLimit([MathLimit](../../mathlimit) baseArg, [MathSuperscriptElement](../../mathsuperscriptelement) limit)  constructor
 
  Initializes a new instance of the MathLimit class with lower limit
  
@@ -5859,6 +5593,272 @@ Example:
 ---
 
 
+## MathLimit([MathMatrix](../../mathmatrix) baseArg, [MathLeftSubSuperscriptElement](../../mathleftsubsuperscriptelement) limit)  constructor
+
+ Initializes a new instance of the MathLimit class with lower limit
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
+```
+
+
+---
+
+
+## MathLimit([MathMatrix](../../mathmatrix) baseArg, [MathLimit](../../mathlimit) limit)  constructor
+
+ Initializes a new instance of the MathLimit class with lower limit
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
+```
+
+
+---
+
+
+## MathLimit([MathMatrix](../../mathmatrix) baseArg, [MathMatrix](../../mathmatrix) limit)  constructor
+
+ Initializes a new instance of the MathLimit class with lower limit
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
+```
+
+
+---
+
+
+## MathLimit([MathMatrix](../../mathmatrix) baseArg, [MathBlock](../../mathblock) limit)  constructor
+
+ Initializes a new instance of the MathLimit class with lower limit
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
+```
+
+
+---
+
+
+## MathLimit([MathMatrix](../../mathmatrix) baseArg, [MathRadical](../../mathradical) limit)  constructor
+
+ Initializes a new instance of the MathLimit class with lower limit
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
+```
+
+
+---
+
+
+## MathLimit([MathMatrix](../../mathmatrix) baseArg, [MathArray](../../matharray) limit)  constructor
+
+ Initializes a new instance of the MathLimit class with lower limit
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
+```
+
+
+---
+
+
+## MathLimit([MathMatrix](../../mathmatrix) baseArg, [MathDelimiter](../../mathdelimiter) limit)  constructor
+
+ Initializes a new instance of the MathLimit class with lower limit
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
+```
+
+
+---
+
+
+## MathLimit([MathMatrix](../../mathmatrix) baseArg, [MathNaryOperator](../../mathnaryoperator) limit)  constructor
+
+ Initializes a new instance of the MathLimit class with lower limit
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
+```
+
+
+---
+
+
+## MathLimit([MathMatrix](../../mathmatrix) baseArg, [MathAccent](../../mathaccent) limit)  constructor
+
+ Initializes a new instance of the MathLimit class with lower limit
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
+```
+
+
+---
+
+
+## MathLimit([MathMatrix](../../mathmatrix) baseArg, [MathBorderBox](../../mathborderbox) limit)  constructor
+
+ Initializes a new instance of the MathLimit class with lower limit
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
+```
+
+
+---
+
+
+## MathLimit([MathMatrix](../../mathmatrix) baseArg, [MathGroupingCharacter](../../mathgroupingcharacter) limit)  constructor
+
+ Initializes a new instance of the MathLimit class with lower limit
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
+```
+
+
+---
+
+
+## MathLimit([MathMatrix](../../mathmatrix) baseArg, [MathBar](../../mathbar) limit)  constructor
+
+ Initializes a new instance of the MathLimit class with lower limit
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
+```
+
+
+---
+
+
+## MathLimit([MathMatrix](../../mathmatrix) baseArg, [MathSuperscriptElement](../../mathsuperscriptelement) limit)  constructor
+
+ Initializes a new instance of the MathLimit class with lower limit
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
+```
+
+
+---
+
+
+## MathLimit([MathMatrix](../../mathmatrix) baseArg, [MathFunction](../../mathfunction) limit)  constructor
+
+ Initializes a new instance of the MathLimit class with lower limit
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
+```
+
+
+---
+
+
+## MathLimit([MathMatrix](../../mathmatrix) baseArg, [MathSubscriptElement](../../mathsubscriptelement) limit)  constructor
+
+ Initializes a new instance of the MathLimit class with lower limit
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
+```
+
+
+---
+
+
+## MathLimit([MathMatrix](../../mathmatrix) baseArg, [MathFraction](../../mathfraction) limit)  constructor
+
+ Initializes a new instance of the MathLimit class with lower limit
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
+```
+
+
+---
+
+
+## MathLimit([MathMatrix](../../mathmatrix) baseArg, [MathematicalText](../../mathematicaltext) limit)  constructor
+
+ Initializes a new instance of the MathLimit class with lower limit
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
+```
+
+
+---
+
+
+## MathLimit([MathMatrix](../../mathmatrix) baseArg, [MathBox](../../mathbox) limit)  constructor
+
+ Initializes a new instance of the MathLimit class with lower limit
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
+```
+
+
+---
+
+
+## MathLimit([MathMatrix](../../mathmatrix) baseArg, [MathRightSubSuperscriptElement](../../mathrightsubsuperscriptelement) limit)  constructor
+
+ Initializes a new instance of the MathLimit class with lower limit
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
+```
+
+
+---
+
+
 ## MathLimit([MathBlock](../../mathblock) baseArg, [MathLeftSubSuperscriptElement](../../mathleftsubsuperscriptelement) limit)  constructor
 
  Initializes a new instance of the MathLimit class with lower limit
@@ -5873,7 +5873,7 @@ Example:
 ---
 
 
-## MathLimit([MathBlock](../../mathblock) baseArg, [MathMatrix](../../mathmatrix) limit)  constructor
+## MathLimit([MathBlock](../../mathblock) baseArg, [MathLimit](../../mathlimit) limit)  constructor
 
  Initializes a new instance of the MathLimit class with lower limit
  
@@ -5887,7 +5887,7 @@ Example:
 ---
 
 
-## MathLimit([MathBlock](../../mathblock) baseArg, [MathLimit](../../mathlimit) limit)  constructor
+## MathLimit([MathBlock](../../mathblock) baseArg, [MathMatrix](../../mathmatrix) limit)  constructor
 
  Initializes a new instance of the MathLimit class with lower limit
  
@@ -5957,20 +5957,6 @@ Example:
 ---
 
 
-## MathLimit([MathBlock](../../mathblock) baseArg, [MathAccent](../../mathaccent) limit)  constructor
-
- Initializes a new instance of the MathLimit class with lower limit
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
-```
-
-
----
-
-
 ## MathLimit([MathBlock](../../mathblock) baseArg, [MathNaryOperator](../../mathnaryoperator) limit)  constructor
 
  Initializes a new instance of the MathLimit class with lower limit
@@ -5985,7 +5971,7 @@ Example:
 ---
 
 
-## MathLimit([MathBlock](../../mathblock) baseArg, [MathGroupingCharacter](../../mathgroupingcharacter) limit)  constructor
+## MathLimit([MathBlock](../../mathblock) baseArg, [MathAccent](../../mathaccent) limit)  constructor
 
  Initializes a new instance of the MathLimit class with lower limit
  
@@ -6013,7 +5999,35 @@ Example:
 ---
 
 
+## MathLimit([MathBlock](../../mathblock) baseArg, [MathGroupingCharacter](../../mathgroupingcharacter) limit)  constructor
+
+ Initializes a new instance of the MathLimit class with lower limit
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
+```
+
+
+---
+
+
 ## MathLimit([MathBlock](../../mathblock) baseArg, [MathBar](../../mathbar) limit)  constructor
+
+ Initializes a new instance of the MathLimit class with lower limit
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
+```
+
+
+---
+
+
+## MathLimit([MathBlock](../../mathblock) baseArg, [MathSuperscriptElement](../../mathsuperscriptelement) limit)  constructor
 
  Initializes a new instance of the MathLimit class with lower limit
  
@@ -6042,20 +6056,6 @@ Example:
 
 
 ## MathLimit([MathBlock](../../mathblock) baseArg, [MathSubscriptElement](../../mathsubscriptelement) limit)  constructor
-
- Initializes a new instance of the MathLimit class with lower limit
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
-```
-
-
----
-
-
-## MathLimit([MathBlock](../../mathblock) baseArg, [MathSuperscriptElement](../../mathsuperscriptelement) limit)  constructor
 
  Initializes a new instance of the MathLimit class with lower limit
  
@@ -6139,7 +6139,7 @@ Example:
 ---
 
 
-## MathLimit([MathRadical](../../mathradical) baseArg, [MathMatrix](../../mathmatrix) limit)  constructor
+## MathLimit([MathRadical](../../mathradical) baseArg, [MathLimit](../../mathlimit) limit)  constructor
 
  Initializes a new instance of the MathLimit class with lower limit
  
@@ -6153,7 +6153,7 @@ Example:
 ---
 
 
-## MathLimit([MathRadical](../../mathradical) baseArg, [MathLimit](../../mathlimit) limit)  constructor
+## MathLimit([MathRadical](../../mathradical) baseArg, [MathMatrix](../../mathmatrix) limit)  constructor
 
  Initializes a new instance of the MathLimit class with lower limit
  
@@ -6223,20 +6223,6 @@ Example:
 ---
 
 
-## MathLimit([MathRadical](../../mathradical) baseArg, [MathAccent](../../mathaccent) limit)  constructor
-
- Initializes a new instance of the MathLimit class with lower limit
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
-```
-
-
----
-
-
 ## MathLimit([MathRadical](../../mathradical) baseArg, [MathNaryOperator](../../mathnaryoperator) limit)  constructor
 
  Initializes a new instance of the MathLimit class with lower limit
@@ -6251,7 +6237,7 @@ Example:
 ---
 
 
-## MathLimit([MathRadical](../../mathradical) baseArg, [MathGroupingCharacter](../../mathgroupingcharacter) limit)  constructor
+## MathLimit([MathRadical](../../mathradical) baseArg, [MathAccent](../../mathaccent) limit)  constructor
 
  Initializes a new instance of the MathLimit class with lower limit
  
@@ -6279,7 +6265,35 @@ Example:
 ---
 
 
+## MathLimit([MathRadical](../../mathradical) baseArg, [MathGroupingCharacter](../../mathgroupingcharacter) limit)  constructor
+
+ Initializes a new instance of the MathLimit class with lower limit
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
+```
+
+
+---
+
+
 ## MathLimit([MathRadical](../../mathradical) baseArg, [MathBar](../../mathbar) limit)  constructor
+
+ Initializes a new instance of the MathLimit class with lower limit
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
+```
+
+
+---
+
+
+## MathLimit([MathRadical](../../mathradical) baseArg, [MathSuperscriptElement](../../mathsuperscriptelement) limit)  constructor
 
  Initializes a new instance of the MathLimit class with lower limit
  
@@ -6308,20 +6322,6 @@ Example:
 
 
 ## MathLimit([MathRadical](../../mathradical) baseArg, [MathSubscriptElement](../../mathsubscriptelement) limit)  constructor
-
- Initializes a new instance of the MathLimit class with lower limit
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
-```
-
-
----
-
-
-## MathLimit([MathRadical](../../mathradical) baseArg, [MathSuperscriptElement](../../mathsuperscriptelement) limit)  constructor
 
  Initializes a new instance of the MathLimit class with lower limit
  
@@ -6405,7 +6405,7 @@ Example:
 ---
 
 
-## MathLimit([MathArray](../../matharray) baseArg, [MathMatrix](../../mathmatrix) limit)  constructor
+## MathLimit([MathArray](../../matharray) baseArg, [MathLimit](../../mathlimit) limit)  constructor
 
  Initializes a new instance of the MathLimit class with lower limit
  
@@ -6419,7 +6419,7 @@ Example:
 ---
 
 
-## MathLimit([MathArray](../../matharray) baseArg, [MathLimit](../../mathlimit) limit)  constructor
+## MathLimit([MathArray](../../matharray) baseArg, [MathMatrix](../../mathmatrix) limit)  constructor
 
  Initializes a new instance of the MathLimit class with lower limit
  
@@ -6489,20 +6489,6 @@ Example:
 ---
 
 
-## MathLimit([MathArray](../../matharray) baseArg, [MathAccent](../../mathaccent) limit)  constructor
-
- Initializes a new instance of the MathLimit class with lower limit
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
-```
-
-
----
-
-
 ## MathLimit([MathArray](../../matharray) baseArg, [MathNaryOperator](../../mathnaryoperator) limit)  constructor
 
  Initializes a new instance of the MathLimit class with lower limit
@@ -6517,7 +6503,7 @@ Example:
 ---
 
 
-## MathLimit([MathArray](../../matharray) baseArg, [MathGroupingCharacter](../../mathgroupingcharacter) limit)  constructor
+## MathLimit([MathArray](../../matharray) baseArg, [MathAccent](../../mathaccent) limit)  constructor
 
  Initializes a new instance of the MathLimit class with lower limit
  
@@ -6545,7 +6531,35 @@ Example:
 ---
 
 
+## MathLimit([MathArray](../../matharray) baseArg, [MathGroupingCharacter](../../mathgroupingcharacter) limit)  constructor
+
+ Initializes a new instance of the MathLimit class with lower limit
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
+```
+
+
+---
+
+
 ## MathLimit([MathArray](../../matharray) baseArg, [MathBar](../../mathbar) limit)  constructor
+
+ Initializes a new instance of the MathLimit class with lower limit
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
+```
+
+
+---
+
+
+## MathLimit([MathArray](../../matharray) baseArg, [MathSuperscriptElement](../../mathsuperscriptelement) limit)  constructor
 
  Initializes a new instance of the MathLimit class with lower limit
  
@@ -6574,20 +6588,6 @@ Example:
 
 
 ## MathLimit([MathArray](../../matharray) baseArg, [MathSubscriptElement](../../mathsubscriptelement) limit)  constructor
-
- Initializes a new instance of the MathLimit class with lower limit
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
-```
-
-
----
-
-
-## MathLimit([MathArray](../../matharray) baseArg, [MathSuperscriptElement](../../mathsuperscriptelement) limit)  constructor
 
  Initializes a new instance of the MathLimit class with lower limit
  
@@ -6671,7 +6671,7 @@ Example:
 ---
 
 
-## MathLimit([MathDelimiter](../../mathdelimiter) baseArg, [MathMatrix](../../mathmatrix) limit)  constructor
+## MathLimit([MathDelimiter](../../mathdelimiter) baseArg, [MathLimit](../../mathlimit) limit)  constructor
 
  Initializes a new instance of the MathLimit class with lower limit
  
@@ -6685,7 +6685,7 @@ Example:
 ---
 
 
-## MathLimit([MathDelimiter](../../mathdelimiter) baseArg, [MathLimit](../../mathlimit) limit)  constructor
+## MathLimit([MathDelimiter](../../mathdelimiter) baseArg, [MathMatrix](../../mathmatrix) limit)  constructor
 
  Initializes a new instance of the MathLimit class with lower limit
  
@@ -6755,20 +6755,6 @@ Example:
 ---
 
 
-## MathLimit([MathDelimiter](../../mathdelimiter) baseArg, [MathAccent](../../mathaccent) limit)  constructor
-
- Initializes a new instance of the MathLimit class with lower limit
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
-```
-
-
----
-
-
 ## MathLimit([MathDelimiter](../../mathdelimiter) baseArg, [MathNaryOperator](../../mathnaryoperator) limit)  constructor
 
  Initializes a new instance of the MathLimit class with lower limit
@@ -6783,7 +6769,7 @@ Example:
 ---
 
 
-## MathLimit([MathDelimiter](../../mathdelimiter) baseArg, [MathGroupingCharacter](../../mathgroupingcharacter) limit)  constructor
+## MathLimit([MathDelimiter](../../mathdelimiter) baseArg, [MathAccent](../../mathaccent) limit)  constructor
 
  Initializes a new instance of the MathLimit class with lower limit
  
@@ -6811,7 +6797,35 @@ Example:
 ---
 
 
+## MathLimit([MathDelimiter](../../mathdelimiter) baseArg, [MathGroupingCharacter](../../mathgroupingcharacter) limit)  constructor
+
+ Initializes a new instance of the MathLimit class with lower limit
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
+```
+
+
+---
+
+
 ## MathLimit([MathDelimiter](../../mathdelimiter) baseArg, [MathBar](../../mathbar) limit)  constructor
+
+ Initializes a new instance of the MathLimit class with lower limit
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
+```
+
+
+---
+
+
+## MathLimit([MathDelimiter](../../mathdelimiter) baseArg, [MathSuperscriptElement](../../mathsuperscriptelement) limit)  constructor
 
  Initializes a new instance of the MathLimit class with lower limit
  
@@ -6840,20 +6854,6 @@ Example:
 
 
 ## MathLimit([MathDelimiter](../../mathdelimiter) baseArg, [MathSubscriptElement](../../mathsubscriptelement) limit)  constructor
-
- Initializes a new instance of the MathLimit class with lower limit
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
-```
-
-
----
-
-
-## MathLimit([MathDelimiter](../../mathdelimiter) baseArg, [MathSuperscriptElement](../../mathsuperscriptelement) limit)  constructor
 
  Initializes a new instance of the MathLimit class with lower limit
  
@@ -6923,272 +6923,6 @@ Example:
 ---
 
 
-## MathLimit([MathAccent](../../mathaccent) baseArg, [MathLeftSubSuperscriptElement](../../mathleftsubsuperscriptelement) limit)  constructor
-
- Initializes a new instance of the MathLimit class with lower limit
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
-```
-
-
----
-
-
-## MathLimit([MathAccent](../../mathaccent) baseArg, [MathMatrix](../../mathmatrix) limit)  constructor
-
- Initializes a new instance of the MathLimit class with lower limit
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
-```
-
-
----
-
-
-## MathLimit([MathAccent](../../mathaccent) baseArg, [MathLimit](../../mathlimit) limit)  constructor
-
- Initializes a new instance of the MathLimit class with lower limit
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
-```
-
-
----
-
-
-## MathLimit([MathAccent](../../mathaccent) baseArg, [MathBlock](../../mathblock) limit)  constructor
-
- Initializes a new instance of the MathLimit class with lower limit
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
-```
-
-
----
-
-
-## MathLimit([MathAccent](../../mathaccent) baseArg, [MathRadical](../../mathradical) limit)  constructor
-
- Initializes a new instance of the MathLimit class with lower limit
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
-```
-
-
----
-
-
-## MathLimit([MathAccent](../../mathaccent) baseArg, [MathArray](../../matharray) limit)  constructor
-
- Initializes a new instance of the MathLimit class with lower limit
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
-```
-
-
----
-
-
-## MathLimit([MathAccent](../../mathaccent) baseArg, [MathDelimiter](../../mathdelimiter) limit)  constructor
-
- Initializes a new instance of the MathLimit class with lower limit
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
-```
-
-
----
-
-
-## MathLimit([MathAccent](../../mathaccent) baseArg, [MathAccent](../../mathaccent) limit)  constructor
-
- Initializes a new instance of the MathLimit class with lower limit
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
-```
-
-
----
-
-
-## MathLimit([MathAccent](../../mathaccent) baseArg, [MathNaryOperator](../../mathnaryoperator) limit)  constructor
-
- Initializes a new instance of the MathLimit class with lower limit
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
-```
-
-
----
-
-
-## MathLimit([MathAccent](../../mathaccent) baseArg, [MathGroupingCharacter](../../mathgroupingcharacter) limit)  constructor
-
- Initializes a new instance of the MathLimit class with lower limit
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
-```
-
-
----
-
-
-## MathLimit([MathAccent](../../mathaccent) baseArg, [MathBorderBox](../../mathborderbox) limit)  constructor
-
- Initializes a new instance of the MathLimit class with lower limit
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
-```
-
-
----
-
-
-## MathLimit([MathAccent](../../mathaccent) baseArg, [MathBar](../../mathbar) limit)  constructor
-
- Initializes a new instance of the MathLimit class with lower limit
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
-```
-
-
----
-
-
-## MathLimit([MathAccent](../../mathaccent) baseArg, [MathFunction](../../mathfunction) limit)  constructor
-
- Initializes a new instance of the MathLimit class with lower limit
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
-```
-
-
----
-
-
-## MathLimit([MathAccent](../../mathaccent) baseArg, [MathSubscriptElement](../../mathsubscriptelement) limit)  constructor
-
- Initializes a new instance of the MathLimit class with lower limit
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
-```
-
-
----
-
-
-## MathLimit([MathAccent](../../mathaccent) baseArg, [MathSuperscriptElement](../../mathsuperscriptelement) limit)  constructor
-
- Initializes a new instance of the MathLimit class with lower limit
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
-```
-
-
----
-
-
-## MathLimit([MathAccent](../../mathaccent) baseArg, [MathFraction](../../mathfraction) limit)  constructor
-
- Initializes a new instance of the MathLimit class with lower limit
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
-```
-
-
----
-
-
-## MathLimit([MathAccent](../../mathaccent) baseArg, [MathematicalText](../../mathematicaltext) limit)  constructor
-
- Initializes a new instance of the MathLimit class with lower limit
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
-```
-
-
----
-
-
-## MathLimit([MathAccent](../../mathaccent) baseArg, [MathBox](../../mathbox) limit)  constructor
-
- Initializes a new instance of the MathLimit class with lower limit
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
-```
-
-
----
-
-
-## MathLimit([MathAccent](../../mathaccent) baseArg, [MathRightSubSuperscriptElement](../../mathrightsubsuperscriptelement) limit)  constructor
-
- Initializes a new instance of the MathLimit class with lower limit
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
-```
-
-
----
-
-
 ## MathLimit([MathNaryOperator](../../mathnaryoperator) baseArg, [MathLeftSubSuperscriptElement](../../mathleftsubsuperscriptelement) limit)  constructor
 
  Initializes a new instance of the MathLimit class with lower limit
@@ -7203,7 +6937,7 @@ Example:
 ---
 
 
-## MathLimit([MathNaryOperator](../../mathnaryoperator) baseArg, [MathMatrix](../../mathmatrix) limit)  constructor
+## MathLimit([MathNaryOperator](../../mathnaryoperator) baseArg, [MathLimit](../../mathlimit) limit)  constructor
 
  Initializes a new instance of the MathLimit class with lower limit
  
@@ -7217,7 +6951,7 @@ Example:
 ---
 
 
-## MathLimit([MathNaryOperator](../../mathnaryoperator) baseArg, [MathLimit](../../mathlimit) limit)  constructor
+## MathLimit([MathNaryOperator](../../mathnaryoperator) baseArg, [MathMatrix](../../mathmatrix) limit)  constructor
 
  Initializes a new instance of the MathLimit class with lower limit
  
@@ -7287,20 +7021,6 @@ Example:
 ---
 
 
-## MathLimit([MathNaryOperator](../../mathnaryoperator) baseArg, [MathAccent](../../mathaccent) limit)  constructor
-
- Initializes a new instance of the MathLimit class with lower limit
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
-```
-
-
----
-
-
 ## MathLimit([MathNaryOperator](../../mathnaryoperator) baseArg, [MathNaryOperator](../../mathnaryoperator) limit)  constructor
 
  Initializes a new instance of the MathLimit class with lower limit
@@ -7315,7 +7035,7 @@ Example:
 ---
 
 
-## MathLimit([MathNaryOperator](../../mathnaryoperator) baseArg, [MathGroupingCharacter](../../mathgroupingcharacter) limit)  constructor
+## MathLimit([MathNaryOperator](../../mathnaryoperator) baseArg, [MathAccent](../../mathaccent) limit)  constructor
 
  Initializes a new instance of the MathLimit class with lower limit
  
@@ -7343,7 +7063,35 @@ Example:
 ---
 
 
+## MathLimit([MathNaryOperator](../../mathnaryoperator) baseArg, [MathGroupingCharacter](../../mathgroupingcharacter) limit)  constructor
+
+ Initializes a new instance of the MathLimit class with lower limit
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
+```
+
+
+---
+
+
 ## MathLimit([MathNaryOperator](../../mathnaryoperator) baseArg, [MathBar](../../mathbar) limit)  constructor
+
+ Initializes a new instance of the MathLimit class with lower limit
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
+```
+
+
+---
+
+
+## MathLimit([MathNaryOperator](../../mathnaryoperator) baseArg, [MathSuperscriptElement](../../mathsuperscriptelement) limit)  constructor
 
  Initializes a new instance of the MathLimit class with lower limit
  
@@ -7372,20 +7120,6 @@ Example:
 
 
 ## MathLimit([MathNaryOperator](../../mathnaryoperator) baseArg, [MathSubscriptElement](../../mathsubscriptelement) limit)  constructor
-
- Initializes a new instance of the MathLimit class with lower limit
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
-```
-
-
----
-
-
-## MathLimit([MathNaryOperator](../../mathnaryoperator) baseArg, [MathSuperscriptElement](../../mathsuperscriptelement) limit)  constructor
 
  Initializes a new instance of the MathLimit class with lower limit
  
@@ -7455,7 +7189,7 @@ Example:
 ---
 
 
-## MathLimit([MathGroupingCharacter](../../mathgroupingcharacter) baseArg, [MathLeftSubSuperscriptElement](../../mathleftsubsuperscriptelement) limit)  constructor
+## MathLimit([MathAccent](../../mathaccent) baseArg, [MathLeftSubSuperscriptElement](../../mathleftsubsuperscriptelement) limit)  constructor
 
  Initializes a new instance of the MathLimit class with lower limit
  
@@ -7469,7 +7203,7 @@ Example:
 ---
 
 
-## MathLimit([MathGroupingCharacter](../../mathgroupingcharacter) baseArg, [MathMatrix](../../mathmatrix) limit)  constructor
+## MathLimit([MathAccent](../../mathaccent) baseArg, [MathLimit](../../mathlimit) limit)  constructor
 
  Initializes a new instance of the MathLimit class with lower limit
  
@@ -7483,7 +7217,7 @@ Example:
 ---
 
 
-## MathLimit([MathGroupingCharacter](../../mathgroupingcharacter) baseArg, [MathLimit](../../mathlimit) limit)  constructor
+## MathLimit([MathAccent](../../mathaccent) baseArg, [MathMatrix](../../mathmatrix) limit)  constructor
 
  Initializes a new instance of the MathLimit class with lower limit
  
@@ -7497,7 +7231,7 @@ Example:
 ---
 
 
-## MathLimit([MathGroupingCharacter](../../mathgroupingcharacter) baseArg, [MathBlock](../../mathblock) limit)  constructor
+## MathLimit([MathAccent](../../mathaccent) baseArg, [MathBlock](../../mathblock) limit)  constructor
 
  Initializes a new instance of the MathLimit class with lower limit
  
@@ -7511,7 +7245,7 @@ Example:
 ---
 
 
-## MathLimit([MathGroupingCharacter](../../mathgroupingcharacter) baseArg, [MathRadical](../../mathradical) limit)  constructor
+## MathLimit([MathAccent](../../mathaccent) baseArg, [MathRadical](../../mathradical) limit)  constructor
 
  Initializes a new instance of the MathLimit class with lower limit
  
@@ -7525,7 +7259,7 @@ Example:
 ---
 
 
-## MathLimit([MathGroupingCharacter](../../mathgroupingcharacter) baseArg, [MathArray](../../matharray) limit)  constructor
+## MathLimit([MathAccent](../../mathaccent) baseArg, [MathArray](../../matharray) limit)  constructor
 
  Initializes a new instance of the MathLimit class with lower limit
  
@@ -7539,7 +7273,7 @@ Example:
 ---
 
 
-## MathLimit([MathGroupingCharacter](../../mathgroupingcharacter) baseArg, [MathDelimiter](../../mathdelimiter) limit)  constructor
+## MathLimit([MathAccent](../../mathaccent) baseArg, [MathDelimiter](../../mathdelimiter) limit)  constructor
 
  Initializes a new instance of the MathLimit class with lower limit
  
@@ -7553,7 +7287,7 @@ Example:
 ---
 
 
-## MathLimit([MathGroupingCharacter](../../mathgroupingcharacter) baseArg, [MathAccent](../../mathaccent) limit)  constructor
+## MathLimit([MathAccent](../../mathaccent) baseArg, [MathNaryOperator](../../mathnaryoperator) limit)  constructor
 
  Initializes a new instance of the MathLimit class with lower limit
  
@@ -7567,7 +7301,7 @@ Example:
 ---
 
 
-## MathLimit([MathGroupingCharacter](../../mathgroupingcharacter) baseArg, [MathNaryOperator](../../mathnaryoperator) limit)  constructor
+## MathLimit([MathAccent](../../mathaccent) baseArg, [MathAccent](../../mathaccent) limit)  constructor
 
  Initializes a new instance of the MathLimit class with lower limit
  
@@ -7581,7 +7315,7 @@ Example:
 ---
 
 
-## MathLimit([MathGroupingCharacter](../../mathgroupingcharacter) baseArg, [MathGroupingCharacter](../../mathgroupingcharacter) limit)  constructor
+## MathLimit([MathAccent](../../mathaccent) baseArg, [MathBorderBox](../../mathborderbox) limit)  constructor
 
  Initializes a new instance of the MathLimit class with lower limit
  
@@ -7595,7 +7329,7 @@ Example:
 ---
 
 
-## MathLimit([MathGroupingCharacter](../../mathgroupingcharacter) baseArg, [MathBorderBox](../../mathborderbox) limit)  constructor
+## MathLimit([MathAccent](../../mathaccent) baseArg, [MathGroupingCharacter](../../mathgroupingcharacter) limit)  constructor
 
  Initializes a new instance of the MathLimit class with lower limit
  
@@ -7609,7 +7343,7 @@ Example:
 ---
 
 
-## MathLimit([MathGroupingCharacter](../../mathgroupingcharacter) baseArg, [MathBar](../../mathbar) limit)  constructor
+## MathLimit([MathAccent](../../mathaccent) baseArg, [MathBar](../../mathbar) limit)  constructor
 
  Initializes a new instance of the MathLimit class with lower limit
  
@@ -7623,7 +7357,7 @@ Example:
 ---
 
 
-## MathLimit([MathGroupingCharacter](../../mathgroupingcharacter) baseArg, [MathFunction](../../mathfunction) limit)  constructor
+## MathLimit([MathAccent](../../mathaccent) baseArg, [MathSuperscriptElement](../../mathsuperscriptelement) limit)  constructor
 
  Initializes a new instance of the MathLimit class with lower limit
  
@@ -7637,7 +7371,7 @@ Example:
 ---
 
 
-## MathLimit([MathGroupingCharacter](../../mathgroupingcharacter) baseArg, [MathSubscriptElement](../../mathsubscriptelement) limit)  constructor
+## MathLimit([MathAccent](../../mathaccent) baseArg, [MathFunction](../../mathfunction) limit)  constructor
 
  Initializes a new instance of the MathLimit class with lower limit
  
@@ -7651,7 +7385,7 @@ Example:
 ---
 
 
-## MathLimit([MathGroupingCharacter](../../mathgroupingcharacter) baseArg, [MathSuperscriptElement](../../mathsuperscriptelement) limit)  constructor
+## MathLimit([MathAccent](../../mathaccent) baseArg, [MathSubscriptElement](../../mathsubscriptelement) limit)  constructor
 
  Initializes a new instance of the MathLimit class with lower limit
  
@@ -7665,7 +7399,7 @@ Example:
 ---
 
 
-## MathLimit([MathGroupingCharacter](../../mathgroupingcharacter) baseArg, [MathFraction](../../mathfraction) limit)  constructor
+## MathLimit([MathAccent](../../mathaccent) baseArg, [MathFraction](../../mathfraction) limit)  constructor
 
  Initializes a new instance of the MathLimit class with lower limit
  
@@ -7679,7 +7413,7 @@ Example:
 ---
 
 
-## MathLimit([MathGroupingCharacter](../../mathgroupingcharacter) baseArg, [MathematicalText](../../mathematicaltext) limit)  constructor
+## MathLimit([MathAccent](../../mathaccent) baseArg, [MathematicalText](../../mathematicaltext) limit)  constructor
 
  Initializes a new instance of the MathLimit class with lower limit
  
@@ -7693,7 +7427,7 @@ Example:
 ---
 
 
-## MathLimit([MathGroupingCharacter](../../mathgroupingcharacter) baseArg, [MathBox](../../mathbox) limit)  constructor
+## MathLimit([MathAccent](../../mathaccent) baseArg, [MathBox](../../mathbox) limit)  constructor
 
  Initializes a new instance of the MathLimit class with lower limit
  
@@ -7707,7 +7441,7 @@ Example:
 ---
 
 
-## MathLimit([MathGroupingCharacter](../../mathgroupingcharacter) baseArg, [MathRightSubSuperscriptElement](../../mathrightsubsuperscriptelement) limit)  constructor
+## MathLimit([MathAccent](../../mathaccent) baseArg, [MathRightSubSuperscriptElement](../../mathrightsubsuperscriptelement) limit)  constructor
 
  Initializes a new instance of the MathLimit class with lower limit
  
@@ -7735,7 +7469,7 @@ Example:
 ---
 
 
-## MathLimit([MathBorderBox](../../mathborderbox) baseArg, [MathMatrix](../../mathmatrix) limit)  constructor
+## MathLimit([MathBorderBox](../../mathborderbox) baseArg, [MathLimit](../../mathlimit) limit)  constructor
 
  Initializes a new instance of the MathLimit class with lower limit
  
@@ -7749,7 +7483,7 @@ Example:
 ---
 
 
-## MathLimit([MathBorderBox](../../mathborderbox) baseArg, [MathLimit](../../mathlimit) limit)  constructor
+## MathLimit([MathBorderBox](../../mathborderbox) baseArg, [MathMatrix](../../mathmatrix) limit)  constructor
 
  Initializes a new instance of the MathLimit class with lower limit
  
@@ -7819,20 +7553,6 @@ Example:
 ---
 
 
-## MathLimit([MathBorderBox](../../mathborderbox) baseArg, [MathAccent](../../mathaccent) limit)  constructor
-
- Initializes a new instance of the MathLimit class with lower limit
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
-```
-
-
----
-
-
 ## MathLimit([MathBorderBox](../../mathborderbox) baseArg, [MathNaryOperator](../../mathnaryoperator) limit)  constructor
 
  Initializes a new instance of the MathLimit class with lower limit
@@ -7847,7 +7567,7 @@ Example:
 ---
 
 
-## MathLimit([MathBorderBox](../../mathborderbox) baseArg, [MathGroupingCharacter](../../mathgroupingcharacter) limit)  constructor
+## MathLimit([MathBorderBox](../../mathborderbox) baseArg, [MathAccent](../../mathaccent) limit)  constructor
 
  Initializes a new instance of the MathLimit class with lower limit
  
@@ -7875,7 +7595,35 @@ Example:
 ---
 
 
+## MathLimit([MathBorderBox](../../mathborderbox) baseArg, [MathGroupingCharacter](../../mathgroupingcharacter) limit)  constructor
+
+ Initializes a new instance of the MathLimit class with lower limit
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
+```
+
+
+---
+
+
 ## MathLimit([MathBorderBox](../../mathborderbox) baseArg, [MathBar](../../mathbar) limit)  constructor
+
+ Initializes a new instance of the MathLimit class with lower limit
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
+```
+
+
+---
+
+
+## MathLimit([MathBorderBox](../../mathborderbox) baseArg, [MathSuperscriptElement](../../mathsuperscriptelement) limit)  constructor
 
  Initializes a new instance of the MathLimit class with lower limit
  
@@ -7904,20 +7652,6 @@ Example:
 
 
 ## MathLimit([MathBorderBox](../../mathborderbox) baseArg, [MathSubscriptElement](../../mathsubscriptelement) limit)  constructor
-
- Initializes a new instance of the MathLimit class with lower limit
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
-```
-
-
----
-
-
-## MathLimit([MathBorderBox](../../mathborderbox) baseArg, [MathSuperscriptElement](../../mathsuperscriptelement) limit)  constructor
 
  Initializes a new instance of the MathLimit class with lower limit
  
@@ -7987,6 +7721,272 @@ Example:
 ---
 
 
+## MathLimit([MathGroupingCharacter](../../mathgroupingcharacter) baseArg, [MathLeftSubSuperscriptElement](../../mathleftsubsuperscriptelement) limit)  constructor
+
+ Initializes a new instance of the MathLimit class with lower limit
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
+```
+
+
+---
+
+
+## MathLimit([MathGroupingCharacter](../../mathgroupingcharacter) baseArg, [MathLimit](../../mathlimit) limit)  constructor
+
+ Initializes a new instance of the MathLimit class with lower limit
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
+```
+
+
+---
+
+
+## MathLimit([MathGroupingCharacter](../../mathgroupingcharacter) baseArg, [MathMatrix](../../mathmatrix) limit)  constructor
+
+ Initializes a new instance of the MathLimit class with lower limit
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
+```
+
+
+---
+
+
+## MathLimit([MathGroupingCharacter](../../mathgroupingcharacter) baseArg, [MathBlock](../../mathblock) limit)  constructor
+
+ Initializes a new instance of the MathLimit class with lower limit
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
+```
+
+
+---
+
+
+## MathLimit([MathGroupingCharacter](../../mathgroupingcharacter) baseArg, [MathRadical](../../mathradical) limit)  constructor
+
+ Initializes a new instance of the MathLimit class with lower limit
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
+```
+
+
+---
+
+
+## MathLimit([MathGroupingCharacter](../../mathgroupingcharacter) baseArg, [MathArray](../../matharray) limit)  constructor
+
+ Initializes a new instance of the MathLimit class with lower limit
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
+```
+
+
+---
+
+
+## MathLimit([MathGroupingCharacter](../../mathgroupingcharacter) baseArg, [MathDelimiter](../../mathdelimiter) limit)  constructor
+
+ Initializes a new instance of the MathLimit class with lower limit
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
+```
+
+
+---
+
+
+## MathLimit([MathGroupingCharacter](../../mathgroupingcharacter) baseArg, [MathNaryOperator](../../mathnaryoperator) limit)  constructor
+
+ Initializes a new instance of the MathLimit class with lower limit
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
+```
+
+
+---
+
+
+## MathLimit([MathGroupingCharacter](../../mathgroupingcharacter) baseArg, [MathAccent](../../mathaccent) limit)  constructor
+
+ Initializes a new instance of the MathLimit class with lower limit
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
+```
+
+
+---
+
+
+## MathLimit([MathGroupingCharacter](../../mathgroupingcharacter) baseArg, [MathBorderBox](../../mathborderbox) limit)  constructor
+
+ Initializes a new instance of the MathLimit class with lower limit
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
+```
+
+
+---
+
+
+## MathLimit([MathGroupingCharacter](../../mathgroupingcharacter) baseArg, [MathGroupingCharacter](../../mathgroupingcharacter) limit)  constructor
+
+ Initializes a new instance of the MathLimit class with lower limit
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
+```
+
+
+---
+
+
+## MathLimit([MathGroupingCharacter](../../mathgroupingcharacter) baseArg, [MathBar](../../mathbar) limit)  constructor
+
+ Initializes a new instance of the MathLimit class with lower limit
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
+```
+
+
+---
+
+
+## MathLimit([MathGroupingCharacter](../../mathgroupingcharacter) baseArg, [MathSuperscriptElement](../../mathsuperscriptelement) limit)  constructor
+
+ Initializes a new instance of the MathLimit class with lower limit
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
+```
+
+
+---
+
+
+## MathLimit([MathGroupingCharacter](../../mathgroupingcharacter) baseArg, [MathFunction](../../mathfunction) limit)  constructor
+
+ Initializes a new instance of the MathLimit class with lower limit
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
+```
+
+
+---
+
+
+## MathLimit([MathGroupingCharacter](../../mathgroupingcharacter) baseArg, [MathSubscriptElement](../../mathsubscriptelement) limit)  constructor
+
+ Initializes a new instance of the MathLimit class with lower limit
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
+```
+
+
+---
+
+
+## MathLimit([MathGroupingCharacter](../../mathgroupingcharacter) baseArg, [MathFraction](../../mathfraction) limit)  constructor
+
+ Initializes a new instance of the MathLimit class with lower limit
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
+```
+
+
+---
+
+
+## MathLimit([MathGroupingCharacter](../../mathgroupingcharacter) baseArg, [MathematicalText](../../mathematicaltext) limit)  constructor
+
+ Initializes a new instance of the MathLimit class with lower limit
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
+```
+
+
+---
+
+
+## MathLimit([MathGroupingCharacter](../../mathgroupingcharacter) baseArg, [MathBox](../../mathbox) limit)  constructor
+
+ Initializes a new instance of the MathLimit class with lower limit
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
+```
+
+
+---
+
+
+## MathLimit([MathGroupingCharacter](../../mathgroupingcharacter) baseArg, [MathRightSubSuperscriptElement](../../mathrightsubsuperscriptelement) limit)  constructor
+
+ Initializes a new instance of the MathLimit class with lower limit
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
+```
+
+
+---
+
+
 ## MathLimit([MathBar](../../mathbar) baseArg, [MathLeftSubSuperscriptElement](../../mathleftsubsuperscriptelement) limit)  constructor
 
  Initializes a new instance of the MathLimit class with lower limit
@@ -8001,7 +8001,7 @@ Example:
 ---
 
 
-## MathLimit([MathBar](../../mathbar) baseArg, [MathMatrix](../../mathmatrix) limit)  constructor
+## MathLimit([MathBar](../../mathbar) baseArg, [MathLimit](../../mathlimit) limit)  constructor
 
  Initializes a new instance of the MathLimit class with lower limit
  
@@ -8015,7 +8015,7 @@ Example:
 ---
 
 
-## MathLimit([MathBar](../../mathbar) baseArg, [MathLimit](../../mathlimit) limit)  constructor
+## MathLimit([MathBar](../../mathbar) baseArg, [MathMatrix](../../mathmatrix) limit)  constructor
 
  Initializes a new instance of the MathLimit class with lower limit
  
@@ -8085,20 +8085,6 @@ Example:
 ---
 
 
-## MathLimit([MathBar](../../mathbar) baseArg, [MathAccent](../../mathaccent) limit)  constructor
-
- Initializes a new instance of the MathLimit class with lower limit
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
-```
-
-
----
-
-
 ## MathLimit([MathBar](../../mathbar) baseArg, [MathNaryOperator](../../mathnaryoperator) limit)  constructor
 
  Initializes a new instance of the MathLimit class with lower limit
@@ -8113,7 +8099,7 @@ Example:
 ---
 
 
-## MathLimit([MathBar](../../mathbar) baseArg, [MathGroupingCharacter](../../mathgroupingcharacter) limit)  constructor
+## MathLimit([MathBar](../../mathbar) baseArg, [MathAccent](../../mathaccent) limit)  constructor
 
  Initializes a new instance of the MathLimit class with lower limit
  
@@ -8141,7 +8127,35 @@ Example:
 ---
 
 
+## MathLimit([MathBar](../../mathbar) baseArg, [MathGroupingCharacter](../../mathgroupingcharacter) limit)  constructor
+
+ Initializes a new instance of the MathLimit class with lower limit
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
+```
+
+
+---
+
+
 ## MathLimit([MathBar](../../mathbar) baseArg, [MathBar](../../mathbar) limit)  constructor
+
+ Initializes a new instance of the MathLimit class with lower limit
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
+```
+
+
+---
+
+
+## MathLimit([MathBar](../../mathbar) baseArg, [MathSuperscriptElement](../../mathsuperscriptelement) limit)  constructor
 
  Initializes a new instance of the MathLimit class with lower limit
  
@@ -8170,20 +8184,6 @@ Example:
 
 
 ## MathLimit([MathBar](../../mathbar) baseArg, [MathSubscriptElement](../../mathsubscriptelement) limit)  constructor
-
- Initializes a new instance of the MathLimit class with lower limit
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
-```
-
-
----
-
-
-## MathLimit([MathBar](../../mathbar) baseArg, [MathSuperscriptElement](../../mathsuperscriptelement) limit)  constructor
 
  Initializes a new instance of the MathLimit class with lower limit
  
@@ -8253,6 +8253,272 @@ Example:
 ---
 
 
+## MathLimit([MathSuperscriptElement](../../mathsuperscriptelement) baseArg, [MathLeftSubSuperscriptElement](../../mathleftsubsuperscriptelement) limit)  constructor
+
+ Initializes a new instance of the MathLimit class with lower limit
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
+```
+
+
+---
+
+
+## MathLimit([MathSuperscriptElement](../../mathsuperscriptelement) baseArg, [MathLimit](../../mathlimit) limit)  constructor
+
+ Initializes a new instance of the MathLimit class with lower limit
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
+```
+
+
+---
+
+
+## MathLimit([MathSuperscriptElement](../../mathsuperscriptelement) baseArg, [MathMatrix](../../mathmatrix) limit)  constructor
+
+ Initializes a new instance of the MathLimit class with lower limit
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
+```
+
+
+---
+
+
+## MathLimit([MathSuperscriptElement](../../mathsuperscriptelement) baseArg, [MathBlock](../../mathblock) limit)  constructor
+
+ Initializes a new instance of the MathLimit class with lower limit
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
+```
+
+
+---
+
+
+## MathLimit([MathSuperscriptElement](../../mathsuperscriptelement) baseArg, [MathRadical](../../mathradical) limit)  constructor
+
+ Initializes a new instance of the MathLimit class with lower limit
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
+```
+
+
+---
+
+
+## MathLimit([MathSuperscriptElement](../../mathsuperscriptelement) baseArg, [MathArray](../../matharray) limit)  constructor
+
+ Initializes a new instance of the MathLimit class with lower limit
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
+```
+
+
+---
+
+
+## MathLimit([MathSuperscriptElement](../../mathsuperscriptelement) baseArg, [MathDelimiter](../../mathdelimiter) limit)  constructor
+
+ Initializes a new instance of the MathLimit class with lower limit
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
+```
+
+
+---
+
+
+## MathLimit([MathSuperscriptElement](../../mathsuperscriptelement) baseArg, [MathNaryOperator](../../mathnaryoperator) limit)  constructor
+
+ Initializes a new instance of the MathLimit class with lower limit
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
+```
+
+
+---
+
+
+## MathLimit([MathSuperscriptElement](../../mathsuperscriptelement) baseArg, [MathAccent](../../mathaccent) limit)  constructor
+
+ Initializes a new instance of the MathLimit class with lower limit
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
+```
+
+
+---
+
+
+## MathLimit([MathSuperscriptElement](../../mathsuperscriptelement) baseArg, [MathBorderBox](../../mathborderbox) limit)  constructor
+
+ Initializes a new instance of the MathLimit class with lower limit
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
+```
+
+
+---
+
+
+## MathLimit([MathSuperscriptElement](../../mathsuperscriptelement) baseArg, [MathGroupingCharacter](../../mathgroupingcharacter) limit)  constructor
+
+ Initializes a new instance of the MathLimit class with lower limit
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
+```
+
+
+---
+
+
+## MathLimit([MathSuperscriptElement](../../mathsuperscriptelement) baseArg, [MathBar](../../mathbar) limit)  constructor
+
+ Initializes a new instance of the MathLimit class with lower limit
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
+```
+
+
+---
+
+
+## MathLimit([MathSuperscriptElement](../../mathsuperscriptelement) baseArg, [MathSuperscriptElement](../../mathsuperscriptelement) limit)  constructor
+
+ Initializes a new instance of the MathLimit class with lower limit
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
+```
+
+
+---
+
+
+## MathLimit([MathSuperscriptElement](../../mathsuperscriptelement) baseArg, [MathFunction](../../mathfunction) limit)  constructor
+
+ Initializes a new instance of the MathLimit class with lower limit
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
+```
+
+
+---
+
+
+## MathLimit([MathSuperscriptElement](../../mathsuperscriptelement) baseArg, [MathSubscriptElement](../../mathsubscriptelement) limit)  constructor
+
+ Initializes a new instance of the MathLimit class with lower limit
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
+```
+
+
+---
+
+
+## MathLimit([MathSuperscriptElement](../../mathsuperscriptelement) baseArg, [MathFraction](../../mathfraction) limit)  constructor
+
+ Initializes a new instance of the MathLimit class with lower limit
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
+```
+
+
+---
+
+
+## MathLimit([MathSuperscriptElement](../../mathsuperscriptelement) baseArg, [MathematicalText](../../mathematicaltext) limit)  constructor
+
+ Initializes a new instance of the MathLimit class with lower limit
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
+```
+
+
+---
+
+
+## MathLimit([MathSuperscriptElement](../../mathsuperscriptelement) baseArg, [MathBox](../../mathbox) limit)  constructor
+
+ Initializes a new instance of the MathLimit class with lower limit
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
+```
+
+
+---
+
+
+## MathLimit([MathSuperscriptElement](../../mathsuperscriptelement) baseArg, [MathRightSubSuperscriptElement](../../mathrightsubsuperscriptelement) limit)  constructor
+
+ Initializes a new instance of the MathLimit class with lower limit
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
+```
+
+
+---
+
+
 ## MathLimit([MathFunction](../../mathfunction) baseArg, [MathLeftSubSuperscriptElement](../../mathleftsubsuperscriptelement) limit)  constructor
 
  Initializes a new instance of the MathLimit class with lower limit
@@ -8267,7 +8533,7 @@ Example:
 ---
 
 
-## MathLimit([MathFunction](../../mathfunction) baseArg, [MathMatrix](../../mathmatrix) limit)  constructor
+## MathLimit([MathFunction](../../mathfunction) baseArg, [MathLimit](../../mathlimit) limit)  constructor
 
  Initializes a new instance of the MathLimit class with lower limit
  
@@ -8281,7 +8547,7 @@ Example:
 ---
 
 
-## MathLimit([MathFunction](../../mathfunction) baseArg, [MathLimit](../../mathlimit) limit)  constructor
+## MathLimit([MathFunction](../../mathfunction) baseArg, [MathMatrix](../../mathmatrix) limit)  constructor
 
  Initializes a new instance of the MathLimit class with lower limit
  
@@ -8351,20 +8617,6 @@ Example:
 ---
 
 
-## MathLimit([MathFunction](../../mathfunction) baseArg, [MathAccent](../../mathaccent) limit)  constructor
-
- Initializes a new instance of the MathLimit class with lower limit
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
-```
-
-
----
-
-
 ## MathLimit([MathFunction](../../mathfunction) baseArg, [MathNaryOperator](../../mathnaryoperator) limit)  constructor
 
  Initializes a new instance of the MathLimit class with lower limit
@@ -8379,7 +8631,7 @@ Example:
 ---
 
 
-## MathLimit([MathFunction](../../mathfunction) baseArg, [MathGroupingCharacter](../../mathgroupingcharacter) limit)  constructor
+## MathLimit([MathFunction](../../mathfunction) baseArg, [MathAccent](../../mathaccent) limit)  constructor
 
  Initializes a new instance of the MathLimit class with lower limit
  
@@ -8407,7 +8659,35 @@ Example:
 ---
 
 
+## MathLimit([MathFunction](../../mathfunction) baseArg, [MathGroupingCharacter](../../mathgroupingcharacter) limit)  constructor
+
+ Initializes a new instance of the MathLimit class with lower limit
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
+```
+
+
+---
+
+
 ## MathLimit([MathFunction](../../mathfunction) baseArg, [MathBar](../../mathbar) limit)  constructor
+
+ Initializes a new instance of the MathLimit class with lower limit
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
+```
+
+
+---
+
+
+## MathLimit([MathFunction](../../mathfunction) baseArg, [MathSuperscriptElement](../../mathsuperscriptelement) limit)  constructor
 
  Initializes a new instance of the MathLimit class with lower limit
  
@@ -8436,20 +8716,6 @@ Example:
 
 
 ## MathLimit([MathFunction](../../mathfunction) baseArg, [MathSubscriptElement](../../mathsubscriptelement) limit)  constructor
-
- Initializes a new instance of the MathLimit class with lower limit
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
-```
-
-
----
-
-
-## MathLimit([MathFunction](../../mathfunction) baseArg, [MathSuperscriptElement](../../mathsuperscriptelement) limit)  constructor
 
  Initializes a new instance of the MathLimit class with lower limit
  
@@ -8533,7 +8799,7 @@ Example:
 ---
 
 
-## MathLimit([MathSubscriptElement](../../mathsubscriptelement) baseArg, [MathMatrix](../../mathmatrix) limit)  constructor
+## MathLimit([MathSubscriptElement](../../mathsubscriptelement) baseArg, [MathLimit](../../mathlimit) limit)  constructor
 
  Initializes a new instance of the MathLimit class with lower limit
  
@@ -8547,7 +8813,7 @@ Example:
 ---
 
 
-## MathLimit([MathSubscriptElement](../../mathsubscriptelement) baseArg, [MathLimit](../../mathlimit) limit)  constructor
+## MathLimit([MathSubscriptElement](../../mathsubscriptelement) baseArg, [MathMatrix](../../mathmatrix) limit)  constructor
 
  Initializes a new instance of the MathLimit class with lower limit
  
@@ -8617,20 +8883,6 @@ Example:
 ---
 
 
-## MathLimit([MathSubscriptElement](../../mathsubscriptelement) baseArg, [MathAccent](../../mathaccent) limit)  constructor
-
- Initializes a new instance of the MathLimit class with lower limit
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
-```
-
-
----
-
-
 ## MathLimit([MathSubscriptElement](../../mathsubscriptelement) baseArg, [MathNaryOperator](../../mathnaryoperator) limit)  constructor
 
  Initializes a new instance of the MathLimit class with lower limit
@@ -8645,7 +8897,7 @@ Example:
 ---
 
 
-## MathLimit([MathSubscriptElement](../../mathsubscriptelement) baseArg, [MathGroupingCharacter](../../mathgroupingcharacter) limit)  constructor
+## MathLimit([MathSubscriptElement](../../mathsubscriptelement) baseArg, [MathAccent](../../mathaccent) limit)  constructor
 
  Initializes a new instance of the MathLimit class with lower limit
  
@@ -8673,7 +8925,35 @@ Example:
 ---
 
 
+## MathLimit([MathSubscriptElement](../../mathsubscriptelement) baseArg, [MathGroupingCharacter](../../mathgroupingcharacter) limit)  constructor
+
+ Initializes a new instance of the MathLimit class with lower limit
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
+```
+
+
+---
+
+
 ## MathLimit([MathSubscriptElement](../../mathsubscriptelement) baseArg, [MathBar](../../mathbar) limit)  constructor
+
+ Initializes a new instance of the MathLimit class with lower limit
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
+```
+
+
+---
+
+
+## MathLimit([MathSubscriptElement](../../mathsubscriptelement) baseArg, [MathSuperscriptElement](../../mathsuperscriptelement) limit)  constructor
 
  Initializes a new instance of the MathLimit class with lower limit
  
@@ -8702,20 +8982,6 @@ Example:
 
 
 ## MathLimit([MathSubscriptElement](../../mathsubscriptelement) baseArg, [MathSubscriptElement](../../mathsubscriptelement) limit)  constructor
-
- Initializes a new instance of the MathLimit class with lower limit
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
-```
-
-
----
-
-
-## MathLimit([MathSubscriptElement](../../mathsubscriptelement) baseArg, [MathSuperscriptElement](../../mathsuperscriptelement) limit)  constructor
 
  Initializes a new instance of the MathLimit class with lower limit
  
@@ -8785,272 +9051,6 @@ Example:
 ---
 
 
-## MathLimit([MathSuperscriptElement](../../mathsuperscriptelement) baseArg, [MathLeftSubSuperscriptElement](../../mathleftsubsuperscriptelement) limit)  constructor
-
- Initializes a new instance of the MathLimit class with lower limit
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
-```
-
-
----
-
-
-## MathLimit([MathSuperscriptElement](../../mathsuperscriptelement) baseArg, [MathMatrix](../../mathmatrix) limit)  constructor
-
- Initializes a new instance of the MathLimit class with lower limit
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
-```
-
-
----
-
-
-## MathLimit([MathSuperscriptElement](../../mathsuperscriptelement) baseArg, [MathLimit](../../mathlimit) limit)  constructor
-
- Initializes a new instance of the MathLimit class with lower limit
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
-```
-
-
----
-
-
-## MathLimit([MathSuperscriptElement](../../mathsuperscriptelement) baseArg, [MathBlock](../../mathblock) limit)  constructor
-
- Initializes a new instance of the MathLimit class with lower limit
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
-```
-
-
----
-
-
-## MathLimit([MathSuperscriptElement](../../mathsuperscriptelement) baseArg, [MathRadical](../../mathradical) limit)  constructor
-
- Initializes a new instance of the MathLimit class with lower limit
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
-```
-
-
----
-
-
-## MathLimit([MathSuperscriptElement](../../mathsuperscriptelement) baseArg, [MathArray](../../matharray) limit)  constructor
-
- Initializes a new instance of the MathLimit class with lower limit
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
-```
-
-
----
-
-
-## MathLimit([MathSuperscriptElement](../../mathsuperscriptelement) baseArg, [MathDelimiter](../../mathdelimiter) limit)  constructor
-
- Initializes a new instance of the MathLimit class with lower limit
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
-```
-
-
----
-
-
-## MathLimit([MathSuperscriptElement](../../mathsuperscriptelement) baseArg, [MathAccent](../../mathaccent) limit)  constructor
-
- Initializes a new instance of the MathLimit class with lower limit
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
-```
-
-
----
-
-
-## MathLimit([MathSuperscriptElement](../../mathsuperscriptelement) baseArg, [MathNaryOperator](../../mathnaryoperator) limit)  constructor
-
- Initializes a new instance of the MathLimit class with lower limit
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
-```
-
-
----
-
-
-## MathLimit([MathSuperscriptElement](../../mathsuperscriptelement) baseArg, [MathGroupingCharacter](../../mathgroupingcharacter) limit)  constructor
-
- Initializes a new instance of the MathLimit class with lower limit
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
-```
-
-
----
-
-
-## MathLimit([MathSuperscriptElement](../../mathsuperscriptelement) baseArg, [MathBorderBox](../../mathborderbox) limit)  constructor
-
- Initializes a new instance of the MathLimit class with lower limit
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
-```
-
-
----
-
-
-## MathLimit([MathSuperscriptElement](../../mathsuperscriptelement) baseArg, [MathBar](../../mathbar) limit)  constructor
-
- Initializes a new instance of the MathLimit class with lower limit
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
-```
-
-
----
-
-
-## MathLimit([MathSuperscriptElement](../../mathsuperscriptelement) baseArg, [MathFunction](../../mathfunction) limit)  constructor
-
- Initializes a new instance of the MathLimit class with lower limit
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
-```
-
-
----
-
-
-## MathLimit([MathSuperscriptElement](../../mathsuperscriptelement) baseArg, [MathSubscriptElement](../../mathsubscriptelement) limit)  constructor
-
- Initializes a new instance of the MathLimit class with lower limit
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
-```
-
-
----
-
-
-## MathLimit([MathSuperscriptElement](../../mathsuperscriptelement) baseArg, [MathSuperscriptElement](../../mathsuperscriptelement) limit)  constructor
-
- Initializes a new instance of the MathLimit class with lower limit
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
-```
-
-
----
-
-
-## MathLimit([MathSuperscriptElement](../../mathsuperscriptelement) baseArg, [MathFraction](../../mathfraction) limit)  constructor
-
- Initializes a new instance of the MathLimit class with lower limit
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
-```
-
-
----
-
-
-## MathLimit([MathSuperscriptElement](../../mathsuperscriptelement) baseArg, [MathematicalText](../../mathematicaltext) limit)  constructor
-
- Initializes a new instance of the MathLimit class with lower limit
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
-```
-
-
----
-
-
-## MathLimit([MathSuperscriptElement](../../mathsuperscriptelement) baseArg, [MathBox](../../mathbox) limit)  constructor
-
- Initializes a new instance of the MathLimit class with lower limit
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
-```
-
-
----
-
-
-## MathLimit([MathSuperscriptElement](../../mathsuperscriptelement) baseArg, [MathRightSubSuperscriptElement](../../mathrightsubsuperscriptelement) limit)  constructor
-
- Initializes a new instance of the MathLimit class with lower limit
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
-```
-
-
----
-
-
 ## MathLimit([MathFraction](../../mathfraction) baseArg, [MathLeftSubSuperscriptElement](../../mathleftsubsuperscriptelement) limit)  constructor
 
  Initializes a new instance of the MathLimit class with lower limit
@@ -9065,7 +9065,7 @@ Example:
 ---
 
 
-## MathLimit([MathFraction](../../mathfraction) baseArg, [MathMatrix](../../mathmatrix) limit)  constructor
+## MathLimit([MathFraction](../../mathfraction) baseArg, [MathLimit](../../mathlimit) limit)  constructor
 
  Initializes a new instance of the MathLimit class with lower limit
  
@@ -9079,7 +9079,7 @@ Example:
 ---
 
 
-## MathLimit([MathFraction](../../mathfraction) baseArg, [MathLimit](../../mathlimit) limit)  constructor
+## MathLimit([MathFraction](../../mathfraction) baseArg, [MathMatrix](../../mathmatrix) limit)  constructor
 
  Initializes a new instance of the MathLimit class with lower limit
  
@@ -9149,20 +9149,6 @@ Example:
 ---
 
 
-## MathLimit([MathFraction](../../mathfraction) baseArg, [MathAccent](../../mathaccent) limit)  constructor
-
- Initializes a new instance of the MathLimit class with lower limit
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
-```
-
-
----
-
-
 ## MathLimit([MathFraction](../../mathfraction) baseArg, [MathNaryOperator](../../mathnaryoperator) limit)  constructor
 
  Initializes a new instance of the MathLimit class with lower limit
@@ -9177,7 +9163,7 @@ Example:
 ---
 
 
-## MathLimit([MathFraction](../../mathfraction) baseArg, [MathGroupingCharacter](../../mathgroupingcharacter) limit)  constructor
+## MathLimit([MathFraction](../../mathfraction) baseArg, [MathAccent](../../mathaccent) limit)  constructor
 
  Initializes a new instance of the MathLimit class with lower limit
  
@@ -9205,7 +9191,35 @@ Example:
 ---
 
 
+## MathLimit([MathFraction](../../mathfraction) baseArg, [MathGroupingCharacter](../../mathgroupingcharacter) limit)  constructor
+
+ Initializes a new instance of the MathLimit class with lower limit
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
+```
+
+
+---
+
+
 ## MathLimit([MathFraction](../../mathfraction) baseArg, [MathBar](../../mathbar) limit)  constructor
+
+ Initializes a new instance of the MathLimit class with lower limit
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
+```
+
+
+---
+
+
+## MathLimit([MathFraction](../../mathfraction) baseArg, [MathSuperscriptElement](../../mathsuperscriptelement) limit)  constructor
 
  Initializes a new instance of the MathLimit class with lower limit
  
@@ -9234,20 +9248,6 @@ Example:
 
 
 ## MathLimit([MathFraction](../../mathfraction) baseArg, [MathSubscriptElement](../../mathsubscriptelement) limit)  constructor
-
- Initializes a new instance of the MathLimit class with lower limit
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
-```
-
-
----
-
-
-## MathLimit([MathFraction](../../mathfraction) baseArg, [MathSuperscriptElement](../../mathsuperscriptelement) limit)  constructor
 
  Initializes a new instance of the MathLimit class with lower limit
  
@@ -9331,7 +9331,7 @@ Example:
 ---
 
 
-## MathLimit([MathematicalText](../../mathematicaltext) baseArg, [MathMatrix](../../mathmatrix) limit)  constructor
+## MathLimit([MathematicalText](../../mathematicaltext) baseArg, [MathLimit](../../mathlimit) limit)  constructor
 
  Initializes a new instance of the MathLimit class with lower limit
  
@@ -9345,7 +9345,7 @@ Example:
 ---
 
 
-## MathLimit([MathematicalText](../../mathematicaltext) baseArg, [MathLimit](../../mathlimit) limit)  constructor
+## MathLimit([MathematicalText](../../mathematicaltext) baseArg, [MathMatrix](../../mathmatrix) limit)  constructor
 
  Initializes a new instance of the MathLimit class with lower limit
  
@@ -9415,20 +9415,6 @@ Example:
 ---
 
 
-## MathLimit([MathematicalText](../../mathematicaltext) baseArg, [MathAccent](../../mathaccent) limit)  constructor
-
- Initializes a new instance of the MathLimit class with lower limit
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
-```
-
-
----
-
-
 ## MathLimit([MathematicalText](../../mathematicaltext) baseArg, [MathNaryOperator](../../mathnaryoperator) limit)  constructor
 
  Initializes a new instance of the MathLimit class with lower limit
@@ -9443,7 +9429,7 @@ Example:
 ---
 
 
-## MathLimit([MathematicalText](../../mathematicaltext) baseArg, [MathGroupingCharacter](../../mathgroupingcharacter) limit)  constructor
+## MathLimit([MathematicalText](../../mathematicaltext) baseArg, [MathAccent](../../mathaccent) limit)  constructor
 
  Initializes a new instance of the MathLimit class with lower limit
  
@@ -9471,7 +9457,35 @@ Example:
 ---
 
 
+## MathLimit([MathematicalText](../../mathematicaltext) baseArg, [MathGroupingCharacter](../../mathgroupingcharacter) limit)  constructor
+
+ Initializes a new instance of the MathLimit class with lower limit
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
+```
+
+
+---
+
+
 ## MathLimit([MathematicalText](../../mathematicaltext) baseArg, [MathBar](../../mathbar) limit)  constructor
+
+ Initializes a new instance of the MathLimit class with lower limit
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
+```
+
+
+---
+
+
+## MathLimit([MathematicalText](../../mathematicaltext) baseArg, [MathSuperscriptElement](../../mathsuperscriptelement) limit)  constructor
 
  Initializes a new instance of the MathLimit class with lower limit
  
@@ -9500,20 +9514,6 @@ Example:
 
 
 ## MathLimit([MathematicalText](../../mathematicaltext) baseArg, [MathSubscriptElement](../../mathsubscriptelement) limit)  constructor
-
- Initializes a new instance of the MathLimit class with lower limit
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
-```
-
-
----
-
-
-## MathLimit([MathematicalText](../../mathematicaltext) baseArg, [MathSuperscriptElement](../../mathsuperscriptelement) limit)  constructor
 
  Initializes a new instance of the MathLimit class with lower limit
  
@@ -9597,7 +9597,7 @@ Example:
 ---
 
 
-## MathLimit([MathBox](../../mathbox) baseArg, [MathMatrix](../../mathmatrix) limit)  constructor
+## MathLimit([MathBox](../../mathbox) baseArg, [MathLimit](../../mathlimit) limit)  constructor
 
  Initializes a new instance of the MathLimit class with lower limit
  
@@ -9611,7 +9611,7 @@ Example:
 ---
 
 
-## MathLimit([MathBox](../../mathbox) baseArg, [MathLimit](../../mathlimit) limit)  constructor
+## MathLimit([MathBox](../../mathbox) baseArg, [MathMatrix](../../mathmatrix) limit)  constructor
 
  Initializes a new instance of the MathLimit class with lower limit
  
@@ -9681,20 +9681,6 @@ Example:
 ---
 
 
-## MathLimit([MathBox](../../mathbox) baseArg, [MathAccent](../../mathaccent) limit)  constructor
-
- Initializes a new instance of the MathLimit class with lower limit
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
-```
-
-
----
-
-
 ## MathLimit([MathBox](../../mathbox) baseArg, [MathNaryOperator](../../mathnaryoperator) limit)  constructor
 
  Initializes a new instance of the MathLimit class with lower limit
@@ -9709,7 +9695,7 @@ Example:
 ---
 
 
-## MathLimit([MathBox](../../mathbox) baseArg, [MathGroupingCharacter](../../mathgroupingcharacter) limit)  constructor
+## MathLimit([MathBox](../../mathbox) baseArg, [MathAccent](../../mathaccent) limit)  constructor
 
  Initializes a new instance of the MathLimit class with lower limit
  
@@ -9737,7 +9723,35 @@ Example:
 ---
 
 
+## MathLimit([MathBox](../../mathbox) baseArg, [MathGroupingCharacter](../../mathgroupingcharacter) limit)  constructor
+
+ Initializes a new instance of the MathLimit class with lower limit
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
+```
+
+
+---
+
+
 ## MathLimit([MathBox](../../mathbox) baseArg, [MathBar](../../mathbar) limit)  constructor
+
+ Initializes a new instance of the MathLimit class with lower limit
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
+```
+
+
+---
+
+
+## MathLimit([MathBox](../../mathbox) baseArg, [MathSuperscriptElement](../../mathsuperscriptelement) limit)  constructor
 
  Initializes a new instance of the MathLimit class with lower limit
  
@@ -9766,20 +9780,6 @@ Example:
 
 
 ## MathLimit([MathBox](../../mathbox) baseArg, [MathSubscriptElement](../../mathsubscriptelement) limit)  constructor
-
- Initializes a new instance of the MathLimit class with lower limit
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
-```
-
-
----
-
-
-## MathLimit([MathBox](../../mathbox) baseArg, [MathSuperscriptElement](../../mathsuperscriptelement) limit)  constructor
 
  Initializes a new instance of the MathLimit class with lower limit
  
@@ -9863,7 +9863,7 @@ Example:
 ---
 
 
-## MathLimit([MathRightSubSuperscriptElement](../../mathrightsubsuperscriptelement) baseArg, [MathMatrix](../../mathmatrix) limit)  constructor
+## MathLimit([MathRightSubSuperscriptElement](../../mathrightsubsuperscriptelement) baseArg, [MathLimit](../../mathlimit) limit)  constructor
 
  Initializes a new instance of the MathLimit class with lower limit
  
@@ -9877,7 +9877,7 @@ Example:
 ---
 
 
-## MathLimit([MathRightSubSuperscriptElement](../../mathrightsubsuperscriptelement) baseArg, [MathLimit](../../mathlimit) limit)  constructor
+## MathLimit([MathRightSubSuperscriptElement](../../mathrightsubsuperscriptelement) baseArg, [MathMatrix](../../mathmatrix) limit)  constructor
 
  Initializes a new instance of the MathLimit class with lower limit
  
@@ -9947,20 +9947,6 @@ Example:
 ---
 
 
-## MathLimit([MathRightSubSuperscriptElement](../../mathrightsubsuperscriptelement) baseArg, [MathAccent](../../mathaccent) limit)  constructor
-
- Initializes a new instance of the MathLimit class with lower limit
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
-```
-
-
----
-
-
 ## MathLimit([MathRightSubSuperscriptElement](../../mathrightsubsuperscriptelement) baseArg, [MathNaryOperator](../../mathnaryoperator) limit)  constructor
 
  Initializes a new instance of the MathLimit class with lower limit
@@ -9975,7 +9961,7 @@ Example:
 ---
 
 
-## MathLimit([MathRightSubSuperscriptElement](../../mathrightsubsuperscriptelement) baseArg, [MathGroupingCharacter](../../mathgroupingcharacter) limit)  constructor
+## MathLimit([MathRightSubSuperscriptElement](../../mathrightsubsuperscriptelement) baseArg, [MathAccent](../../mathaccent) limit)  constructor
 
  Initializes a new instance of the MathLimit class with lower limit
  
@@ -10003,7 +9989,35 @@ Example:
 ---
 
 
+## MathLimit([MathRightSubSuperscriptElement](../../mathrightsubsuperscriptelement) baseArg, [MathGroupingCharacter](../../mathgroupingcharacter) limit)  constructor
+
+ Initializes a new instance of the MathLimit class with lower limit
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
+```
+
+
+---
+
+
 ## MathLimit([MathRightSubSuperscriptElement](../../mathrightsubsuperscriptelement) baseArg, [MathBar](../../mathbar) limit)  constructor
+
+ Initializes a new instance of the MathLimit class with lower limit
+ 
+Example:
+ 
+```php
+  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
+```
+
+
+---
+
+
+## MathLimit([MathRightSubSuperscriptElement](../../mathrightsubsuperscriptelement) baseArg, [MathSuperscriptElement](../../mathsuperscriptelement) limit)  constructor
 
  Initializes a new instance of the MathLimit class with lower limit
  
@@ -10032,20 +10046,6 @@ Example:
 
 
 ## MathLimit([MathRightSubSuperscriptElement](../../mathrightsubsuperscriptelement) baseArg, [MathSubscriptElement](../../mathsubscriptelement) limit)  constructor
-
- Initializes a new instance of the MathLimit class with lower limit
- 
-Example:
- 
-```php
-  $limitElement = new MathLimit(new MathematicalText("lim"), new MathematicalText("???"));
-```
-
-
----
-
-
-## MathLimit([MathRightSubSuperscriptElement](../../mathrightsubsuperscriptelement) baseArg, [MathSuperscriptElement](../../mathsuperscriptelement) limit)  constructor
 
  Initializes a new instance of the MathLimit class with lower limit
  

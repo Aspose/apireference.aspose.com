@@ -3,7 +3,7 @@ title: remove
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 230
+weight: 260
 url: /php-java/mathblock/remove/
 ---
 
@@ -34,33 +34,6 @@ boolean
 ---
 
 
-## remove([MathMatrix](../../mathmatrix) item)  method
-
- Removes the first occurrence of a specific object from the collection.
- 
-Example:
- 
-```php
-  $mathBlock = new MathBlock(new MathematicalText("x"));
-  $plusElement = new MathematicalText("+");
-  $mathBlock->Add($plusElement);
-  $mathBlock->Add(new MathRadical(new MathematicalText("x"), new MathematicalText("3")));
-  $mathBlock->Remove($plusElement);
-```
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| item | [MathMatrix](../../mathmatrix) | The object to remove from the collection. |
-
-### Returns
-boolean
-
-
----
-
-
 ## remove([MathLimit](../../mathlimit) item)  method
 
  Removes the first occurrence of a specific object from the collection.
@@ -80,6 +53,33 @@ Example:
 | Name | Type | Description |
 | --- | --- | --- |
 | item | [MathLimit](../../mathlimit) | The object to remove from the collection. |
+
+### Returns
+boolean
+
+
+---
+
+
+## remove([MathMatrix](../../mathmatrix) item)  method
+
+ Removes the first occurrence of a specific object from the collection.
+ 
+Example:
+ 
+```php
+  $mathBlock = new MathBlock(new MathematicalText("x"));
+  $plusElement = new MathematicalText("+");
+  $mathBlock->Add($plusElement);
+  $mathBlock->Add(new MathRadical(new MathematicalText("x"), new MathematicalText("3")));
+  $mathBlock->Remove($plusElement);
+```
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| item | [MathMatrix](../../mathmatrix) | The object to remove from the collection. |
 
 ### Returns
 boolean
@@ -196,33 +196,6 @@ boolean
 ---
 
 
-## remove([MathAccent](../../mathaccent) item)  method
-
- Removes the first occurrence of a specific object from the collection.
- 
-Example:
- 
-```php
-  $mathBlock = new MathBlock(new MathematicalText("x"));
-  $plusElement = new MathematicalText("+");
-  $mathBlock->Add($plusElement);
-  $mathBlock->Add(new MathRadical(new MathematicalText("x"), new MathematicalText("3")));
-  $mathBlock->Remove($plusElement);
-```
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| item | [MathAccent](../../mathaccent) | The object to remove from the collection. |
-
-### Returns
-boolean
-
-
----
-
-
 ## remove([MathNaryOperator](../../mathnaryoperator) item)  method
 
  Removes the first occurrence of a specific object from the collection.
@@ -250,7 +223,7 @@ boolean
 ---
 
 
-## remove([MathGroupingCharacter](../../mathgroupingcharacter) item)  method
+## remove([MathAccent](../../mathaccent) item)  method
 
  Removes the first occurrence of a specific object from the collection.
  
@@ -268,7 +241,7 @@ Example:
 
 | Name | Type | Description |
 | --- | --- | --- |
-| item | [MathGroupingCharacter](../../mathgroupingcharacter) | The object to remove from the collection. |
+| item | [MathAccent](../../mathaccent) | The object to remove from the collection. |
 
 ### Returns
 boolean
@@ -304,6 +277,33 @@ boolean
 ---
 
 
+## remove([MathGroupingCharacter](../../mathgroupingcharacter) item)  method
+
+ Removes the first occurrence of a specific object from the collection.
+ 
+Example:
+ 
+```php
+  $mathBlock = new MathBlock(new MathematicalText("x"));
+  $plusElement = new MathematicalText("+");
+  $mathBlock->Add($plusElement);
+  $mathBlock->Add(new MathRadical(new MathematicalText("x"), new MathematicalText("3")));
+  $mathBlock->Remove($plusElement);
+```
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| item | [MathGroupingCharacter](../../mathgroupingcharacter) | The object to remove from the collection. |
+
+### Returns
+boolean
+
+
+---
+
+
 ## remove([MathBar](../../mathbar) item)  method
 
  Removes the first occurrence of a specific object from the collection.
@@ -323,6 +323,33 @@ Example:
 | Name | Type | Description |
 | --- | --- | --- |
 | item | [MathBar](../../mathbar) | The object to remove from the collection. |
+
+### Returns
+boolean
+
+
+---
+
+
+## remove([MathSuperscriptElement](../../mathsuperscriptelement) item)  method
+
+ Removes the first occurrence of a specific object from the collection.
+ 
+Example:
+ 
+```php
+  $mathBlock = new MathBlock(new MathematicalText("x"));
+  $plusElement = new MathematicalText("+");
+  $mathBlock->Add($plusElement);
+  $mathBlock->Add(new MathRadical(new MathematicalText("x"), new MathematicalText("3")));
+  $mathBlock->Remove($plusElement);
+```
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| item | [MathSuperscriptElement](../../mathsuperscriptelement) | The object to remove from the collection. |
 
 ### Returns
 boolean
@@ -377,33 +404,6 @@ Example:
 | Name | Type | Description |
 | --- | --- | --- |
 | item | [MathSubscriptElement](../../mathsubscriptelement) | The object to remove from the collection. |
-
-### Returns
-boolean
-
-
----
-
-
-## remove([MathSuperscriptElement](../../mathsuperscriptelement) item)  method
-
- Removes the first occurrence of a specific object from the collection.
- 
-Example:
- 
-```php
-  $mathBlock = new MathBlock(new MathematicalText("x"));
-  $plusElement = new MathematicalText("+");
-  $mathBlock->Add($plusElement);
-  $mathBlock->Add(new MathRadical(new MathematicalText("x"), new MathematicalText("3")));
-  $mathBlock->Remove($plusElement);
-```
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| item | [MathSuperscriptElement](../../mathsuperscriptelement) | The object to remove from the collection. |
 
 ### Returns
 boolean

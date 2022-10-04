@@ -3,7 +3,7 @@ title: add
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 10
+weight: 20
 url: /php-java/sequencecollection/add/
 ---
 
@@ -46,7 +46,7 @@ url: /php-java/sequencecollection/add/
 ---
 
 
-## add([Table](../../table) shapeTrigger)  method
+## add([Shape](../../shape) shapeTrigger)  method
 
  Add new interactive sequence.
  Read/write  Sequence.
@@ -59,7 +59,7 @@ url: /php-java/sequencecollection/add/
 ---
 
 
-## add([Shape](../../shape) shapeTrigger)  method
+## add([Table](../../table) shapeTrigger)  method
 
  Add new interactive sequence.
  Read/write  Sequence.
@@ -215,7 +215,7 @@ url: /php-java/sequencecollection/add/
 ---
 
 
-## add([AudioFrame](../../audioframe) shapeTrigger)  method
+## add([Chart](../../chart) shapeTrigger)  method
 
  Add new interactive sequence.
  Read/write  Sequence.
@@ -228,7 +228,7 @@ url: /php-java/sequencecollection/add/
 ---
 
 
-## add([Chart](../../chart) shapeTrigger)  method
+## add([AudioFrame](../../audioframe) shapeTrigger)  method
 
  Add new interactive sequence.
  Read/write  Sequence.

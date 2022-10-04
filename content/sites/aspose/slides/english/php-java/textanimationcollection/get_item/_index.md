@@ -3,7 +3,7 @@ title: get_Item
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 50
+weight: 70
 url: /php-java/textanimationcollection/get_item/
 ---
 
@@ -73,24 +73,6 @@ url: /php-java/textanimationcollection/get_item/
 ---
 
 
-## get_Item([Table](../../table) shape)  method
-
- Returns all elements 
- 
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| shape | [Table](../../table) | IShape to remove. |
-
-### Returns
-[TextAnimation](../../textanimation)
-
-
----
-
-
 ## get_Item([Shape](../../shape) shape)  method
 
  Returns all elements 
@@ -101,6 +83,24 @@ url: /php-java/textanimationcollection/get_item/
 | Name | Type | Description |
 | --- | --- | --- |
 | shape | [Shape](../../shape) | IShape to remove. |
+
+### Returns
+[TextAnimation](../../textanimation)
+
+
+---
+
+
+## get_Item([Table](../../table) shape)  method
+
+ Returns all elements 
+ 
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| shape | [Table](../../table) | IShape to remove. |
 
 ### Returns
 [TextAnimation](../../textanimation)
@@ -307,24 +307,6 @@ url: /php-java/textanimationcollection/get_item/
 ---
 
 
-## get_Item([AudioFrame](../../audioframe) shape)  method
-
- Returns all elements 
- 
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| shape | [AudioFrame](../../audioframe) | IShape to remove. |
-
-### Returns
-[TextAnimation](../../textanimation)
-
-
----
-
-
 ## get_Item([Chart](../../chart) shape)  method
 
  Returns all elements 
@@ -335,6 +317,24 @@ url: /php-java/textanimationcollection/get_item/
 | Name | Type | Description |
 | --- | --- | --- |
 | shape | [Chart](../../chart) | IShape to remove. |
+
+### Returns
+[TextAnimation](../../textanimation)
+
+
+---
+
+
+## get_Item([AudioFrame](../../audioframe) shape)  method
+
+ Returns all elements 
+ 
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| shape | [AudioFrame](../../audioframe) | IShape to remove. |
 
 ### Returns
 [TextAnimation](../../textanimation)

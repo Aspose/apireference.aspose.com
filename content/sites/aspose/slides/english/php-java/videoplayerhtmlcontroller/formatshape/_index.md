@@ -37,7 +37,7 @@ void
 ---
 
 
-## formatShape([SvgShape](../../svgshape) svgShape, [Table](../../table) shape)  method
+## formatShape([SvgShape](../../svgshape) svgShape, [Shape](../../shape) shape)  method
 
 
 ### Returns
@@ -47,7 +47,7 @@ void
 ---
 
 
-## formatShape([SvgShape](../../svgshape) svgShape, [Shape](../../shape) shape)  method
+## formatShape([SvgShape](../../svgshape) svgShape, [Table](../../table) shape)  method
 
 
 ### Returns
@@ -167,7 +167,7 @@ void
 ---
 
 
-## formatShape([SvgShape](../../svgshape) svgShape, [AudioFrame](../../audioframe) shape)  method
+## formatShape([SvgShape](../../svgshape) svgShape, [Chart](../../chart) shape)  method
 
 
 ### Returns
@@ -177,7 +177,7 @@ void
 ---
 
 
-## formatShape([SvgShape](../../svgshape) svgShape, [Chart](../../chart) shape)  method
+## formatShape([SvgShape](../../svgshape) svgShape, [AudioFrame](../../audioframe) shape)  method
 
 
 ### Returns

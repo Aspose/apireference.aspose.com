@@ -41,26 +41,6 @@ Example:
 ---
 
 
-## MathBlock([MathMatrix](../../mathmatrix) mathElement)  constructor
-
- Creates a new mathematical block and puts specified element in it
- 
-Example:
- 
-```php
-  $mathBlock = new MathBlock(new MathematicalText("x"));
-```
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| mathElement | [MathMatrix](../../mathmatrix) | The mathematical element to put in the block |
-
-
----
-
-
 ## MathBlock([MathLimit](../../mathlimit) mathElement)  constructor
 
  Creates a new mathematical block and puts specified element in it
@@ -76,6 +56,26 @@ Example:
 | Name | Type | Description |
 | --- | --- | --- |
 | mathElement | [MathLimit](../../mathlimit) | The mathematical element to put in the block |
+
+
+---
+
+
+## MathBlock([MathMatrix](../../mathmatrix) mathElement)  constructor
+
+ Creates a new mathematical block and puts specified element in it
+ 
+Example:
+ 
+```php
+  $mathBlock = new MathBlock(new MathematicalText("x"));
+```
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| mathElement | [MathMatrix](../../mathmatrix) | The mathematical element to put in the block |
 
 
 ---
@@ -161,26 +161,6 @@ Example:
 ---
 
 
-## MathBlock([MathAccent](../../mathaccent) mathElement)  constructor
-
- Creates a new mathematical block and puts specified element in it
- 
-Example:
- 
-```php
-  $mathBlock = new MathBlock(new MathematicalText("x"));
-```
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| mathElement | [MathAccent](../../mathaccent) | The mathematical element to put in the block |
-
-
----
-
-
 ## MathBlock([MathNaryOperator](../../mathnaryoperator) mathElement)  constructor
 
  Creates a new mathematical block and puts specified element in it
@@ -201,7 +181,7 @@ Example:
 ---
 
 
-## MathBlock([MathGroupingCharacter](../../mathgroupingcharacter) mathElement)  constructor
+## MathBlock([MathAccent](../../mathaccent) mathElement)  constructor
 
  Creates a new mathematical block and puts specified element in it
  
@@ -215,7 +195,7 @@ Example:
 
 | Name | Type | Description |
 | --- | --- | --- |
-| mathElement | [MathGroupingCharacter](../../mathgroupingcharacter) | The mathematical element to put in the block |
+| mathElement | [MathAccent](../../mathaccent) | The mathematical element to put in the block |
 
 
 ---
@@ -241,6 +221,26 @@ Example:
 ---
 
 
+## MathBlock([MathGroupingCharacter](../../mathgroupingcharacter) mathElement)  constructor
+
+ Creates a new mathematical block and puts specified element in it
+ 
+Example:
+ 
+```php
+  $mathBlock = new MathBlock(new MathematicalText("x"));
+```
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| mathElement | [MathGroupingCharacter](../../mathgroupingcharacter) | The mathematical element to put in the block |
+
+
+---
+
+
 ## MathBlock([MathBar](../../mathbar) mathElement)  constructor
 
  Creates a new mathematical block and puts specified element in it
@@ -256,6 +256,26 @@ Example:
 | Name | Type | Description |
 | --- | --- | --- |
 | mathElement | [MathBar](../../mathbar) | The mathematical element to put in the block |
+
+
+---
+
+
+## MathBlock([MathSuperscriptElement](../../mathsuperscriptelement) mathElement)  constructor
+
+ Creates a new mathematical block and puts specified element in it
+ 
+Example:
+ 
+```php
+  $mathBlock = new MathBlock(new MathematicalText("x"));
+```
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| mathElement | [MathSuperscriptElement](../../mathsuperscriptelement) | The mathematical element to put in the block |
 
 
 ---
@@ -296,26 +316,6 @@ Example:
 | Name | Type | Description |
 | --- | --- | --- |
 | mathElement | [MathSubscriptElement](../../mathsubscriptelement) | The mathematical element to put in the block |
-
-
----
-
-
-## MathBlock([MathSuperscriptElement](../../mathsuperscriptelement) mathElement)  constructor
-
- Creates a new mathematical block and puts specified element in it
- 
-Example:
- 
-```php
-  $mathBlock = new MathBlock(new MathematicalText("x"));
-```
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| mathElement | [MathSuperscriptElement](../../mathsuperscriptelement) | The mathematical element to put in the block |
 
 
 ---

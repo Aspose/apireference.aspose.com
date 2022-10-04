@@ -28,27 +28,6 @@ Example:
 ---
 
 
-## MathGroupingCharacter([MathMatrix](../../mathmatrix) element)  constructor
-
- Initializes a new instance of the MathGroupingCharacter class 
- with the default grouping character U+23DF (BOTTOM CURLY BRACKET)
- 
-Example:
- 
-```php
-  $groupingCharacter = new MathGroupingCharacter(new MathematicalText("abc"));
-```
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| element | [MathMatrix](../../mathmatrix) | The base element to which the bar is applied |
-
-
----
-
-
 ## MathGroupingCharacter([MathLimit](../../mathlimit) element)  constructor
 
  Initializes a new instance of the MathGroupingCharacter class 
@@ -65,6 +44,27 @@ Example:
 | Name | Type | Description |
 | --- | --- | --- |
 | element | [MathLimit](../../mathlimit) | The base element to which the bar is applied |
+
+
+---
+
+
+## MathGroupingCharacter([MathMatrix](../../mathmatrix) element)  constructor
+
+ Initializes a new instance of the MathGroupingCharacter class 
+ with the default grouping character U+23DF (BOTTOM CURLY BRACKET)
+ 
+Example:
+ 
+```php
+  $groupingCharacter = new MathGroupingCharacter(new MathematicalText("abc"));
+```
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| element | [MathMatrix](../../mathmatrix) | The base element to which the bar is applied |
 
 
 ---
@@ -154,27 +154,6 @@ Example:
 ---
 
 
-## MathGroupingCharacter([MathAccent](../../mathaccent) element)  constructor
-
- Initializes a new instance of the MathGroupingCharacter class 
- with the default grouping character U+23DF (BOTTOM CURLY BRACKET)
- 
-Example:
- 
-```php
-  $groupingCharacter = new MathGroupingCharacter(new MathematicalText("abc"));
-```
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| element | [MathAccent](../../mathaccent) | The base element to which the bar is applied |
-
-
----
-
-
 ## MathGroupingCharacter([MathNaryOperator](../../mathnaryoperator) element)  constructor
 
  Initializes a new instance of the MathGroupingCharacter class 
@@ -196,7 +175,7 @@ Example:
 ---
 
 
-## MathGroupingCharacter([MathGroupingCharacter](../../mathgroupingcharacter) element)  constructor
+## MathGroupingCharacter([MathAccent](../../mathaccent) element)  constructor
 
  Initializes a new instance of the MathGroupingCharacter class 
  with the default grouping character U+23DF (BOTTOM CURLY BRACKET)
@@ -211,7 +190,7 @@ Example:
 
 | Name | Type | Description |
 | --- | --- | --- |
-| element | [MathGroupingCharacter](../../mathgroupingcharacter) | The base element to which the bar is applied |
+| element | [MathAccent](../../mathaccent) | The base element to which the bar is applied |
 
 
 ---
@@ -238,6 +217,27 @@ Example:
 ---
 
 
+## MathGroupingCharacter([MathGroupingCharacter](../../mathgroupingcharacter) element)  constructor
+
+ Initializes a new instance of the MathGroupingCharacter class 
+ with the default grouping character U+23DF (BOTTOM CURLY BRACKET)
+ 
+Example:
+ 
+```php
+  $groupingCharacter = new MathGroupingCharacter(new MathematicalText("abc"));
+```
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| element | [MathGroupingCharacter](../../mathgroupingcharacter) | The base element to which the bar is applied |
+
+
+---
+
+
 ## MathGroupingCharacter([MathBar](../../mathbar) element)  constructor
 
  Initializes a new instance of the MathGroupingCharacter class 
@@ -254,6 +254,27 @@ Example:
 | Name | Type | Description |
 | --- | --- | --- |
 | element | [MathBar](../../mathbar) | The base element to which the bar is applied |
+
+
+---
+
+
+## MathGroupingCharacter([MathSuperscriptElement](../../mathsuperscriptelement) element)  constructor
+
+ Initializes a new instance of the MathGroupingCharacter class 
+ with the default grouping character U+23DF (BOTTOM CURLY BRACKET)
+ 
+Example:
+ 
+```php
+  $groupingCharacter = new MathGroupingCharacter(new MathematicalText("abc"));
+```
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| element | [MathSuperscriptElement](../../mathsuperscriptelement) | The base element to which the bar is applied |
 
 
 ---
@@ -296,27 +317,6 @@ Example:
 | Name | Type | Description |
 | --- | --- | --- |
 | element | [MathSubscriptElement](../../mathsubscriptelement) | The base element to which the bar is applied |
-
-
----
-
-
-## MathGroupingCharacter([MathSuperscriptElement](../../mathsuperscriptelement) element)  constructor
-
- Initializes a new instance of the MathGroupingCharacter class 
- with the default grouping character U+23DF (BOTTOM CURLY BRACKET)
- 
-Example:
- 
-```php
-  $groupingCharacter = new MathGroupingCharacter(new MathematicalText("abc"));
-```
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| element | [MathSuperscriptElement](../../mathsuperscriptelement) | The base element to which the bar is applied |
 
 
 ---
@@ -429,29 +429,6 @@ Example:
 ---
 
 
-## MathGroupingCharacter([MathMatrix](../../mathmatrix) element, char character, int position, int verticalJustification)  constructor
-
- Initializes a new instance of the MathGroupingCharacter class.
- 
-Example:
- 
-```php
-  $groupingCharacter = new MathGroupingCharacter(new MathematicalText("abc"), '_', MathTopBotPositions::Top, MathTopBotPositions::Bottom);
-```
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| element | [MathMatrix](../mathmatrix) | The base element to which the bar is applied |
-| character | char | Grouping Character |
-| position | int | Position of grouping character |
-| verticalJustification | int | Vertical justification of group character |
-
-
----
-
-
 ## MathGroupingCharacter([MathLimit](../../mathlimit) element, char character, int position, int verticalJustification)  constructor
 
  Initializes a new instance of the MathGroupingCharacter class.
@@ -467,6 +444,29 @@ Example:
 | Name | Type | Description |
 | --- | --- | --- |
 | element | [MathLimit](../mathlimit) | The base element to which the bar is applied |
+| character | char | Grouping Character |
+| position | int | Position of grouping character |
+| verticalJustification | int | Vertical justification of group character |
+
+
+---
+
+
+## MathGroupingCharacter([MathMatrix](../../mathmatrix) element, char character, int position, int verticalJustification)  constructor
+
+ Initializes a new instance of the MathGroupingCharacter class.
+ 
+Example:
+ 
+```php
+  $groupingCharacter = new MathGroupingCharacter(new MathematicalText("abc"), '_', MathTopBotPositions::Top, MathTopBotPositions::Bottom);
+```
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| element | [MathMatrix](../mathmatrix) | The base element to which the bar is applied |
 | character | char | Grouping Character |
 | position | int | Position of grouping character |
 | verticalJustification | int | Vertical justification of group character |
@@ -567,29 +567,6 @@ Example:
 ---
 
 
-## MathGroupingCharacter([MathAccent](../../mathaccent) element, char character, int position, int verticalJustification)  constructor
-
- Initializes a new instance of the MathGroupingCharacter class.
- 
-Example:
- 
-```php
-  $groupingCharacter = new MathGroupingCharacter(new MathematicalText("abc"), '_', MathTopBotPositions::Top, MathTopBotPositions::Bottom);
-```
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| element | [MathAccent](../mathaccent) | The base element to which the bar is applied |
-| character | char | Grouping Character |
-| position | int | Position of grouping character |
-| verticalJustification | int | Vertical justification of group character |
-
-
----
-
-
 ## MathGroupingCharacter([MathNaryOperator](../../mathnaryoperator) element, char character, int position, int verticalJustification)  constructor
 
  Initializes a new instance of the MathGroupingCharacter class.
@@ -613,7 +590,7 @@ Example:
 ---
 
 
-## MathGroupingCharacter([MathGroupingCharacter](../../mathgroupingcharacter) element, char character, int position, int verticalJustification)  constructor
+## MathGroupingCharacter([MathAccent](../../mathaccent) element, char character, int position, int verticalJustification)  constructor
 
  Initializes a new instance of the MathGroupingCharacter class.
  
@@ -627,7 +604,7 @@ Example:
 
 | Name | Type | Description |
 | --- | --- | --- |
-| element | [MathGroupingCharacter](../mathgroupingcharacter) | The base element to which the bar is applied |
+| element | [MathAccent](../mathaccent) | The base element to which the bar is applied |
 | character | char | Grouping Character |
 | position | int | Position of grouping character |
 | verticalJustification | int | Vertical justification of group character |
@@ -659,6 +636,29 @@ Example:
 ---
 
 
+## MathGroupingCharacter([MathGroupingCharacter](../../mathgroupingcharacter) element, char character, int position, int verticalJustification)  constructor
+
+ Initializes a new instance of the MathGroupingCharacter class.
+ 
+Example:
+ 
+```php
+  $groupingCharacter = new MathGroupingCharacter(new MathematicalText("abc"), '_', MathTopBotPositions::Top, MathTopBotPositions::Bottom);
+```
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| element | [MathGroupingCharacter](../mathgroupingcharacter) | The base element to which the bar is applied |
+| character | char | Grouping Character |
+| position | int | Position of grouping character |
+| verticalJustification | int | Vertical justification of group character |
+
+
+---
+
+
 ## MathGroupingCharacter([MathBar](../../mathbar) element, char character, int position, int verticalJustification)  constructor
 
  Initializes a new instance of the MathGroupingCharacter class.
@@ -674,6 +674,29 @@ Example:
 | Name | Type | Description |
 | --- | --- | --- |
 | element | [MathBar](../mathbar) | The base element to which the bar is applied |
+| character | char | Grouping Character |
+| position | int | Position of grouping character |
+| verticalJustification | int | Vertical justification of group character |
+
+
+---
+
+
+## MathGroupingCharacter([MathSuperscriptElement](../../mathsuperscriptelement) element, char character, int position, int verticalJustification)  constructor
+
+ Initializes a new instance of the MathGroupingCharacter class.
+ 
+Example:
+ 
+```php
+  $groupingCharacter = new MathGroupingCharacter(new MathematicalText("abc"), '_', MathTopBotPositions::Top, MathTopBotPositions::Bottom);
+```
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| element | [MathSuperscriptElement](../mathsuperscriptelement) | The base element to which the bar is applied |
 | character | char | Grouping Character |
 | position | int | Position of grouping character |
 | verticalJustification | int | Vertical justification of group character |
@@ -720,29 +743,6 @@ Example:
 | Name | Type | Description |
 | --- | --- | --- |
 | element | [MathSubscriptElement](../mathsubscriptelement) | The base element to which the bar is applied |
-| character | char | Grouping Character |
-| position | int | Position of grouping character |
-| verticalJustification | int | Vertical justification of group character |
-
-
----
-
-
-## MathGroupingCharacter([MathSuperscriptElement](../../mathsuperscriptelement) element, char character, int position, int verticalJustification)  constructor
-
- Initializes a new instance of the MathGroupingCharacter class.
- 
-Example:
- 
-```php
-  $groupingCharacter = new MathGroupingCharacter(new MathematicalText("abc"), '_', MathTopBotPositions::Top, MathTopBotPositions::Bottom);
-```
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| element | [MathSuperscriptElement](../mathsuperscriptelement) | The base element to which the bar is applied |
 | character | char | Grouping Character |
 | position | int | Position of grouping character |
 | verticalJustification | int | Vertical justification of group character |

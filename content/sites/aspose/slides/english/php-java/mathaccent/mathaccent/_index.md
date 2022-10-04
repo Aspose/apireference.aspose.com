@@ -28,27 +28,6 @@ Example:
 ---
 
 
-## MathAccent([MathMatrix](../../mathmatrix) element)  constructor
-
- Creates a math accent applying to a specified math element with the default accent character value
- 
-Example:
- 
-```php
-  $baseElement = new MathematicalText("x");
-  $accent = new MathAccent($baseElement);
-```
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| element | [MathMatrix](../../mathmatrix) | a math element to apply accent |
-
-
----
-
-
 ## MathAccent([MathLimit](../../mathlimit) element)  constructor
 
  Creates a math accent applying to a specified math element with the default accent character value
@@ -65,6 +44,27 @@ Example:
 | Name | Type | Description |
 | --- | --- | --- |
 | element | [MathLimit](../../mathlimit) | a math element to apply accent |
+
+
+---
+
+
+## MathAccent([MathMatrix](../../mathmatrix) element)  constructor
+
+ Creates a math accent applying to a specified math element with the default accent character value
+ 
+Example:
+ 
+```php
+  $baseElement = new MathematicalText("x");
+  $accent = new MathAccent($baseElement);
+```
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| element | [MathMatrix](../../mathmatrix) | a math element to apply accent |
 
 
 ---
@@ -154,27 +154,6 @@ Example:
 ---
 
 
-## MathAccent([MathAccent](../../mathaccent) element)  constructor
-
- Creates a math accent applying to a specified math element with the default accent character value
- 
-Example:
- 
-```php
-  $baseElement = new MathematicalText("x");
-  $accent = new MathAccent($baseElement);
-```
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| element | [MathAccent](../../mathaccent) | a math element to apply accent |
-
-
----
-
-
 ## MathAccent([MathNaryOperator](../../mathnaryoperator) element)  constructor
 
  Creates a math accent applying to a specified math element with the default accent character value
@@ -196,7 +175,7 @@ Example:
 ---
 
 
-## MathAccent([MathGroupingCharacter](../../mathgroupingcharacter) element)  constructor
+## MathAccent([MathAccent](../../mathaccent) element)  constructor
 
  Creates a math accent applying to a specified math element with the default accent character value
  
@@ -211,7 +190,7 @@ Example:
 
 | Name | Type | Description |
 | --- | --- | --- |
-| element | [MathGroupingCharacter](../../mathgroupingcharacter) | a math element to apply accent |
+| element | [MathAccent](../../mathaccent) | a math element to apply accent |
 
 
 ---
@@ -238,6 +217,27 @@ Example:
 ---
 
 
+## MathAccent([MathGroupingCharacter](../../mathgroupingcharacter) element)  constructor
+
+ Creates a math accent applying to a specified math element with the default accent character value
+ 
+Example:
+ 
+```php
+  $baseElement = new MathematicalText("x");
+  $accent = new MathAccent($baseElement);
+```
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| element | [MathGroupingCharacter](../../mathgroupingcharacter) | a math element to apply accent |
+
+
+---
+
+
 ## MathAccent([MathBar](../../mathbar) element)  constructor
 
  Creates a math accent applying to a specified math element with the default accent character value
@@ -254,6 +254,27 @@ Example:
 | Name | Type | Description |
 | --- | --- | --- |
 | element | [MathBar](../../mathbar) | a math element to apply accent |
+
+
+---
+
+
+## MathAccent([MathSuperscriptElement](../../mathsuperscriptelement) element)  constructor
+
+ Creates a math accent applying to a specified math element with the default accent character value
+ 
+Example:
+ 
+```php
+  $baseElement = new MathematicalText("x");
+  $accent = new MathAccent($baseElement);
+```
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| element | [MathSuperscriptElement](../../mathsuperscriptelement) | a math element to apply accent |
 
 
 ---
@@ -296,27 +317,6 @@ Example:
 | Name | Type | Description |
 | --- | --- | --- |
 | element | [MathSubscriptElement](../../mathsubscriptelement) | a math element to apply accent |
-
-
----
-
-
-## MathAccent([MathSuperscriptElement](../../mathsuperscriptelement) element)  constructor
-
- Creates a math accent applying to a specified math element with the default accent character value
- 
-Example:
- 
-```php
-  $baseElement = new MathematicalText("x");
-  $accent = new MathAccent($baseElement);
-```
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| element | [MathSuperscriptElement](../../mathsuperscriptelement) | a math element to apply accent |
 
 
 ---
@@ -428,28 +428,6 @@ Example:
 ---
 
 
-## MathAccent([MathMatrix](../../mathmatrix) element, char accentCharacter)  constructor
-
- Creates a math accent applying to a specified math element
- 
-Example:
- 
-```php
-  $baseElement = new MathematicalText("x");
-  $accent = new MathAccent($baseElement, '~');
-```
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| element | [MathMatrix](../mathmatrix) | math element to apply accent |
-| accentCharacter | char | accent character |
-
-
----
-
-
 ## MathAccent([MathLimit](../../mathlimit) element, char accentCharacter)  constructor
 
  Creates a math accent applying to a specified math element
@@ -466,6 +444,28 @@ Example:
 | Name | Type | Description |
 | --- | --- | --- |
 | element | [MathLimit](../mathlimit) | math element to apply accent |
+| accentCharacter | char | accent character |
+
+
+---
+
+
+## MathAccent([MathMatrix](../../mathmatrix) element, char accentCharacter)  constructor
+
+ Creates a math accent applying to a specified math element
+ 
+Example:
+ 
+```php
+  $baseElement = new MathematicalText("x");
+  $accent = new MathAccent($baseElement, '~');
+```
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| element | [MathMatrix](../mathmatrix) | math element to apply accent |
 | accentCharacter | char | accent character |
 
 
@@ -560,28 +560,6 @@ Example:
 ---
 
 
-## MathAccent([MathAccent](../../mathaccent) element, char accentCharacter)  constructor
-
- Creates a math accent applying to a specified math element
- 
-Example:
- 
-```php
-  $baseElement = new MathematicalText("x");
-  $accent = new MathAccent($baseElement, '~');
-```
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| element | [MathAccent](../mathaccent) | math element to apply accent |
-| accentCharacter | char | accent character |
-
-
----
-
-
 ## MathAccent([MathNaryOperator](../../mathnaryoperator) element, char accentCharacter)  constructor
 
  Creates a math accent applying to a specified math element
@@ -604,7 +582,7 @@ Example:
 ---
 
 
-## MathAccent([MathGroupingCharacter](../../mathgroupingcharacter) element, char accentCharacter)  constructor
+## MathAccent([MathAccent](../../mathaccent) element, char accentCharacter)  constructor
 
  Creates a math accent applying to a specified math element
  
@@ -619,7 +597,7 @@ Example:
 
 | Name | Type | Description |
 | --- | --- | --- |
-| element | [MathGroupingCharacter](../mathgroupingcharacter) | math element to apply accent |
+| element | [MathAccent](../mathaccent) | math element to apply accent |
 | accentCharacter | char | accent character |
 
 
@@ -648,6 +626,28 @@ Example:
 ---
 
 
+## MathAccent([MathGroupingCharacter](../../mathgroupingcharacter) element, char accentCharacter)  constructor
+
+ Creates a math accent applying to a specified math element
+ 
+Example:
+ 
+```php
+  $baseElement = new MathematicalText("x");
+  $accent = new MathAccent($baseElement, '~');
+```
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| element | [MathGroupingCharacter](../mathgroupingcharacter) | math element to apply accent |
+| accentCharacter | char | accent character |
+
+
+---
+
+
 ## MathAccent([MathBar](../../mathbar) element, char accentCharacter)  constructor
 
  Creates a math accent applying to a specified math element
@@ -664,6 +664,28 @@ Example:
 | Name | Type | Description |
 | --- | --- | --- |
 | element | [MathBar](../mathbar) | math element to apply accent |
+| accentCharacter | char | accent character |
+
+
+---
+
+
+## MathAccent([MathSuperscriptElement](../../mathsuperscriptelement) element, char accentCharacter)  constructor
+
+ Creates a math accent applying to a specified math element
+ 
+Example:
+ 
+```php
+  $baseElement = new MathematicalText("x");
+  $accent = new MathAccent($baseElement, '~');
+```
+
+### Parameters
+
+| Name | Type | Description |
+| --- | --- | --- |
+| element | [MathSuperscriptElement](../mathsuperscriptelement) | math element to apply accent |
 | accentCharacter | char | accent character |
 
 
@@ -708,28 +730,6 @@ Example:
 | Name | Type | Description |
 | --- | --- | --- |
 | element | [MathSubscriptElement](../mathsubscriptelement) | math element to apply accent |
-| accentCharacter | char | accent character |
-
-
----
-
-
-## MathAccent([MathSuperscriptElement](../../mathsuperscriptelement) element, char accentCharacter)  constructor
-
- Creates a math accent applying to a specified math element
- 
-Example:
- 
-```php
-  $baseElement = new MathematicalText("x");
-  $accent = new MathAccent($baseElement, '~');
-```
-
-### Parameters
-
-| Name | Type | Description |
-| --- | --- | --- |
-| element | [MathSuperscriptElement](../mathsuperscriptelement) | math element to apply accent |
 | accentCharacter | char | accent character |
 
 

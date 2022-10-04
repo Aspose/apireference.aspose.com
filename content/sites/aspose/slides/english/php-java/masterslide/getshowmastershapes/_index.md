@@ -3,14 +3,14 @@ title: getShowMasterShapes
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 90
+weight: 200
 url: /php-java/masterslide/getshowmastershapes/
 ---
 
 ## getShowMasterShapes()  method
 
  Specifies if shapes on the master slide should be shown on slides or not.
- For master slide itself this property always returns  false.
+ For master slide itself this property always returns false.
  Read/write  boolean.
  
 
@@ -21,7 +21,7 @@ boolean
 
 | Exception | Condition |
 | --- | --- |
- | NotSupportedException | Thrown if set {@code true} for master slide. |
+ | com.aspose.ms.System.NotSupportedException | Thrown if set true for master slide. |
 
 
 ---

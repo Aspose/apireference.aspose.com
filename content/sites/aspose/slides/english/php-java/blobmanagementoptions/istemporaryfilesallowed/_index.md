@@ -9,9 +9,9 @@ url: /php-java/blobmanagementoptions/istemporaryfilesallowed/
 
 ## isTemporaryFilesAllowed()  method
 
- This property defines if temporary files can be created while working with BLOBs, what greatly 
- decreases  the memory consumption but requires permissions to create files.
- All files will be deleted after work with the presentation will be finished.
+ Set that using of temporary files is not allowed to optimize memory consumption while working with
+ large amounts of data during presentation's lifetime. If false, OutOfMemoryException can be thrown.
+ 
 
 ### Returns
 boolean

@@ -3,7 +3,7 @@ title: getSkewMatrixYtoX
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 830
+weight: 840
 url: /php-java/behaviorproperty/getskewmatrixytox/
 ---
 

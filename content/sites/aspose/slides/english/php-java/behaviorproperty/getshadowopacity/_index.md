@@ -3,7 +3,7 @@ title: getShadowOpacity
 second_title: Aspose.Sildes for PHP via Java API Reference
 description: 
 type: docs
-weight: 750
+weight: 760
 url: /php-java/behaviorproperty/getshadowopacity/
 ---
 
