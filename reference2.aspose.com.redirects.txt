@@ -1,4 +1,4 @@
-rewrite /(.*)/index/?$ https://reference2.aspose.com/$1 permanent;
+rewrite /(.*)/index/?$ https://reference2.aspose.com/$1/ permanent;
 rewrite /(.*)/(methods|constructors|properties|fields)/?$ https://reference2.aspose.com/$1 permanent;
 rewrite /(.*?/net)/([^.]+).([^.]+).([^.]+)/(.*)/methods/([0-9]+) https://reference2.aspose.com/$1/$2.$3/$4/$5#$5_$6 permanent;
 rewrite /net/(.*?)/([^.]+).([^.]+).([^.]+)/(.*)/methods/([0-9]+) https://reference2.aspose.com/$1/net/$2.$3/$4/$5#$5_$6 permanent;
