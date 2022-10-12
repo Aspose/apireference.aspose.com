@@ -3,7 +3,7 @@ title: SaveOptions
 second_title: Aspose.SVG for .NET API 参考
 description: 这是类的抽象基类允许用户在将文档保存为特定格式时指定其他选项
 type: docs
-weight: 3620
+weight: 3630
 url: /zh/net/aspose.svg.saving/saveoptions/
 ---
 ## SaveOptions class
@@ -18,7 +18,7 @@ public abstract class SaveOptions
 
 | 姓名 | 描述 |
 | --- | --- |
-| [ResourceHandlingOptions](../../aspose.svg.saving/saveoptions/resourcehandlingoptions) { get; } | 获取用于配置资源处理的[`ResourceHandlingOptions`](../resourcehandlingoptions)对象。 |
+| [ResourceHandlingOptions](../../aspose.svg.saving/saveoptions/resourcehandlingoptions) { get; } | 得到一个[`ResourceHandlingOptions`](../resourcehandlingoptions)用于配置资源处理的对象。 |
 
 ### 也可以看看
 

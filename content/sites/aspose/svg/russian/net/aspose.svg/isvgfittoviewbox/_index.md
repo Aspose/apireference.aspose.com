@@ -1,9 +1,9 @@
 ---
 title: ISVGFitToViewBox
 second_title: Справочник по Aspose.SVG для .NET API
-description: Интерфейс SVGFitToViewBox определяет атрибуты DOM которые применяются к элементам имеющим XML-атрибуты viewBox и preserveAspectRatio.
+description: Интерфейс SVGFitToViewBox определяет атрибуты DOM которые применяются к элементам имеющим XMLатрибуты viewBox и preserveAspectRatio.
 type: docs
-weight: 2000
+weight: 2010
 url: /ru/net/aspose.svg/isvgfittoviewbox/
 ---
 ## ISVGFitToViewBox interface
@@ -19,7 +19,7 @@ public interface ISVGFitToViewBox
 | Имя | Описание |
 | --- | --- |
 | [PreserveAspectRatio](../../aspose.svg/isvgfittoviewbox/preserveaspectratio) { get; } | Соответствует атрибуту preserveAspectRatio данного элемента. |
-| [ViewBox](../../aspose.svg/isvgfittoviewbox/viewbox) { get; } | Соответствует атрибуту 'viewBox' данного элемента. |
+| [ViewBox](../../aspose.svg/isvgfittoviewbox/viewbox) { get; } | Соответствует атрибуту viewBox данного элемента. |
 
 ### Смотрите также
 

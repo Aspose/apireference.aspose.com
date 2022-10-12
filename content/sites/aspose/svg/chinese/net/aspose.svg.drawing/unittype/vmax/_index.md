@@ -1,14 +1,14 @@
 ---
 title: Vmax
 second_title: Aspose.SVG for .NET API 参考
-description: 测量是相对于视口大尺寸的 1 试试看
+description: 测量是相对于视口 较大尺寸的 1 试试看
 type: docs
 weight: 280
 url: /zh/net/aspose.svg.drawing/unittype/vmax/
 ---
 ## UnitType.Vmax field
 
-测量是相对于视口*大尺寸的 1% 试试看
+测量是相对于视口* 较大尺寸的 1% 试试看
 
 ```csharp
 public static readonly UnitType Vmax;

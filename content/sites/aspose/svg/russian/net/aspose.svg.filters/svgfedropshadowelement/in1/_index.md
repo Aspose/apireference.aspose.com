@@ -16,7 +16,7 @@ public SVGAnimatedString In1 { get; }
 
 ### Стоимость имущества
 
-Атрибут 'in' данного элемента 'feDropShadow'.
+Атрибут 'in' данного элемента feDropShadow.
 
 ### Смотрите также
 

@@ -1,14 +1,14 @@
 ---
 title: SpreadMethod
 second_title: Aspose.SVG for .NET API 参考
-description: 对应于给定元素上的属性spreadMethod此接口上定义的传播方法类型之一
+description: 对应于给定元素的属性spreadMethod此接口上定义的传播方法类型之一
 type: docs
 weight: 40
 url: /zh/net/aspose.svg/svggradientelement/spreadmethod/
 ---
 ## SVGGradientElement.SpreadMethod property
 
-对应于给定元素上的属性“spreadMethod”。此接口上定义的传播方法类型之一。
+对应于给定元素的属性“spreadMethod”。此接口上定义的传播方法类型之一。
 
 ```csharp
 public SVGAnimatedEnumeration SpreadMethod { get; }

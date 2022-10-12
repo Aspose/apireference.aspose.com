@@ -3,7 +3,7 @@ title: SVGAnimatedAngle
 second_title: Aspose.SVG for .NET API 参考
 description: 用于可以动画的基本数据类型角度的属性
 type: docs
-weight: 100
+weight: 90
 url: /zh/net/aspose.svg.datatypes/svganimatedangle/
 ---
 ## SVGAnimatedAngle class
@@ -25,9 +25,9 @@ public class SVGAnimatedAngle : SVGAnimatedValue<SVGAngle>
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose)() | 释放非托管和（可选）托管资源。 |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | 此方法用于检索 ECMAScript 对象Type。 |
-| override [ToString](../../aspose.svg.datatypes/svganimatedangle/tostring)() | 返回代表此实例的String。 |
+| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose)() | 释放非托管和 - 可选 - 托管资源。 |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | 此方法用于检索 ECMAScript 对象Type . |
+| override [ToString](../../aspose.svg.datatypes/svganimatedangle/tostring)() | 返回一个String代表这个实例。 |
 
 ### 也可以看看
 

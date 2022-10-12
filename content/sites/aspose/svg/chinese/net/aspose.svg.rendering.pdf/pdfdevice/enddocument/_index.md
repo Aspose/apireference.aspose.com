@@ -1,14 +1,14 @@
 ---
 title: EndDocument
 second_title: Aspose.SVG for .NET API 参考
-description: 结束文档的呈现
+description: 结束文档的渲染
 type: docs
 weight: 100
 url: /zh/net/aspose.svg.rendering.pdf/pdfdevice/enddocument/
 ---
 ## PdfDevice.EndDocument method
 
-结束文档的呈现。
+结束文档的渲染。
 
 ```csharp
 public override void EndDocument()

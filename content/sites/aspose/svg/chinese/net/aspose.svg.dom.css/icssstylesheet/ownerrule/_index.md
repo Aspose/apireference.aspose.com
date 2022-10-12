@@ -1,14 +1,14 @@
 ---
 title: OwnerRule
 second_title: Aspose.SVG for .NET API 参考
-description: 如果此样式表来自import 规则则 ownerRule 属性将包含 CSSImportRule在这种情况下StyleSheet 接口中的 ownerNode 属性将为空如果样式表来自元素或处理指令则 ownerRule 属性将为空并且 ownerNode 属性将包含节点
+description: 如果此样式表来自import 规则则 ownerRule 属性将包含 CSSImportRule在这种情况下StyleSheet 接口中的 ownerNode 属性将为空如果样式表来自元素或处理指令则 ownerRule 属性将为空并且 ownerNode 属性将包含 Node.
 type: docs
 weight: 20
 url: /zh/net/aspose.svg.dom.css/icssstylesheet/ownerrule/
 ---
 ## ICSSStyleSheet.OwnerRule property
 
-如果此样式表来自@import 规则，则 ownerRule 属性将包含 CSSImportRule。在这种情况下，StyleSheet 接口中的 ownerNode 属性将为空。如果样式表来自元素或处理指令，则 ownerRule 属性将为空，并且 ownerNode 属性将包含节点。
+如果此样式表来自@import 规则，则 ownerRule 属性将包含 CSSImportRule。在这种情况下，StyleSheet 接口中的 ownerNode 属性将为空。如果样式表来自元素或处理指令，则 ownerRule 属性将为空，并且 ownerNode 属性将包含 Node.
 
 ```csharp
 public ICSSRule OwnerRule { get; }

@@ -3,7 +3,7 @@ title: SVGZoomAndPan
 second_title: Aspose.SVG for .NET API 参考
 description: SVGZoomAndPan 枚举定义了属性 zoomAndPan 和相关的常量
 type: docs
-weight: 3540
+weight: 3550
 url: /zh/net/aspose.svg/svgzoomandpan/
 ---
 ## SVGZoomAndPan enumeration

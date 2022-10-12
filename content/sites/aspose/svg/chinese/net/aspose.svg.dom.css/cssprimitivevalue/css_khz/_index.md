@@ -1,14 +1,14 @@
 ---
 title: CSS_KHZ
 second_title: Aspose.SVG for .NET API 参考
-description: 该值为频率 kHz可以使用 getFloatValue 方法获取该值
+description: 该值为频率 kHz该值可以通过getFloatValue方法获取
 type: docs
 weight: 260
 url: /zh/net/aspose.svg.dom.css/cssprimitivevalue/css_khz/
 ---
 ## CSSPrimitiveValue.CSS_KHZ field
 
-该值为频率 (kHz)。可以使用 getFloatValue 方法获取该值。
+该值为频率 (kHz)。该值可以通过getFloatValue方法获取。
 
 ```csharp
 public const ushort CSS_KHZ;

@@ -1,14 +1,14 @@
 ---
 title: OrderY
 second_title: Справочник по Aspose.SVG для .NET API
-description: Соответствует атрибуту order данного элемента feConvolveMatrix.
+description: Соответствует атрибуту порядок данного элемента feConvolveMatrix.
 type: docs
 weight: 100
 url: /ru/net/aspose.svg.filters/svgfeconvolvematrixelement/ordery/
 ---
 ## SVGFEConvolveMatrixElement.OrderY property
 
-Соответствует атрибуту 'order' данного элемента 'feConvolveMatrix'.
+Соответствует атрибуту «порядок» данного элемента «feConvolveMatrix».
 
 ```csharp
 public SVGAnimatedInteger OrderY { get; }

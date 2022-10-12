@@ -16,7 +16,7 @@ public bool AnimationsPaused()
 
 ### 返回值
 
-布尔值，指示此 SVG 文档片段是否处于暂停状态。
+指示此 SVG 文档片段是否处于暂停状态的布尔值。
 
 ### 也可以看看
 

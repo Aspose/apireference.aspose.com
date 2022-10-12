@@ -1,14 +1,14 @@
 ---
 title: SVG_TRANSFORM_SKEWX
 second_title: Aspose.SVG for .NET API 参考
-description: skewX... 变换
+description: skewX 变换
 type: docs
 weight: 140
 url: /zh/net/aspose.svg.datatypes/svgtransform/svg_transform_skewx/
 ---
 ## SVGTransform.SVG_TRANSFORM_SKEWX field
 
-'skewX(...)' 变换。
+'skewX(…)' 变换。
 
 ```csharp
 public const ushort SVG_TRANSFORM_SKEWX;

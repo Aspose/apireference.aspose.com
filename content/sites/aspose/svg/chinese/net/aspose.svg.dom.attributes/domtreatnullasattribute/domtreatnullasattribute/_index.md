@@ -1,14 +1,14 @@
 ---
 title: DOMTreatNullAsAttribute
 second_title: Aspose.SVG for .NET API 参考
-description: 初始化DOMTreatNullAsAttributeaspose.svg.dom.attributes/domtreatnullasattribute类的新实例
+description: 初始化DOMTreatNullAsAttributeaspose.svg.dom.attributes/domtreatnullasattribute类.
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.dom.attributes/domtreatnullasattribute/domtreatnullasattribute/
 ---
 ## DOMTreatNullAsAttribute constructor
 
-初始化[`DOMTreatNullAsAttribute`](../../domtreatnullasattribute)类的新实例。
+初始化[`DOMTreatNullAsAttribute`](../../domtreatnullasattribute)类.
 
 ```csharp
 public DOMTreatNullAsAttribute(Type type, object value)

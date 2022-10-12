@@ -1,14 +1,14 @@
 ---
 title: QuerySelector
 second_title: Справочник по Aspose.SVG для .NET API
-description: Возвращает первый элемент в документе соответствующий селектору
+description: Возвращает первый элемент в документе соответствующий selector
 type: docs
 weight: 120
 url: /ru/net/aspose.svg.dom/documentfragment/queryselector/
 ---
 ## DocumentFragment.QuerySelector method
 
-Возвращает первый элемент в документе, соответствующий селектору
+Возвращает первый элемент в документе, соответствующий selector
 
 ```csharp
 public Element QuerySelector(string selector)

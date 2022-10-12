@@ -1,14 +1,14 @@
 ---
 title: Configuration
 second_title: Справочник по Aspose.SVG для .NET API
-description: Настройка методов и опций векторизации изображения
+description: Конфигурация методов и опций векторизации изображения
 type: docs
 weight: 20
 url: /ru/net/aspose.svg.imagevectorization/imagevectorizer/configuration/
 ---
 ## ImageVectorizer.Configuration property
 
-Настройка методов и опций векторизации изображения
+Конфигурация методов и опций векторизации изображения
 
 ```csharp
 public ImageVectorizerConfiguration Configuration { get; set; }

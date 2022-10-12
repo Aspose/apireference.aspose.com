@@ -1,14 +1,14 @@
 ---
 title: MarkerHeight
 second_title: Aspose.SVG for .NET API 参考
-description: 对应于给定 marker 元素的属性 markerHeight
+description: 对应于给定marker元素上的属性markerHeight
 type: docs
 weight: 10
 url: /zh/net/aspose.svg/svgmarkerelement/markerheight/
 ---
 ## SVGMarkerElement.MarkerHeight property
 
-对应于给定 'marker' 元素的属性 'markerHeight'。
+对应于给定“marker”元素上的属性“markerHeight”。
 
 ```csharp
 public SVGAnimatedLength MarkerHeight { get; }
@@ -16,7 +16,7 @@ public SVGAnimatedLength MarkerHeight { get; }
 
 ### 适当的价值
 
-给定 'marker' 元素的属性 'markerHeight'。
+给定'marker'元素的属性'markerHeight'。
 
 ### 也可以看看
 

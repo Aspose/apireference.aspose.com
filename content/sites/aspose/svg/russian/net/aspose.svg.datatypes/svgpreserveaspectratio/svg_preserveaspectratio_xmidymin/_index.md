@@ -8,7 +8,7 @@ url: /ru/net/aspose.svg.datatypes/svgpreserveaspectratio/svg_preserveaspectratio
 ---
 ## SVGPreserveAspectRatio.SVG_PRESERVEASPECTRATIO_XMIDYMIN field
 
-Соответствует значению 'xMidYMin' для атрибута 'preserveAspectRatio'.
+Соответствует значению «xMidYMin» для атрибута «preserveAspectRatio».
 
 ```csharp
 public const ushort SVG_PRESERVEASPECTRATIO_XMIDYMIN;

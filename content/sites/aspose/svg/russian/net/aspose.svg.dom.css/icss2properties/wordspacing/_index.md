@@ -1,14 +1,14 @@
 ---
 title: WordSpacing
 second_title: Справочник по Aspose.SVG для .NET API
-description: См. определение свойства word-spacing в CSS2.
+description: См. определение свойства межсловного интервала в CSS2.
 type: docs
 weight: 1210
 url: /ru/net/aspose.svg.dom.css/icss2properties/wordspacing/
 ---
 ## ICSS2Properties.WordSpacing property
 
-См. определение свойства word-spacing в CSS2.
+См. определение свойства межсловного интервала в CSS2.
 
 ```csharp
 public string WordSpacing { get; set; }

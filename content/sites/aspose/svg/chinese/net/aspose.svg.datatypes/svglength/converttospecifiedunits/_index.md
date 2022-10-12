@@ -1,14 +1,14 @@
 ---
 title: ConvertToSpecifiedUnits
 second_title: Aspose.SVG for .NET API 参考
-description: 保留相同的底层存储值但将存储的单元标识符重置为给定的 unitType此方法可能会修改对象属性 unitTypevalueInSpecifiedUnits 和 valueAsString例如如果原始值为0.5cm并调用该方法转换为毫米则 unitType 将更改为 SVG_LENGTHTYPE_MMvalueInSpecifiedUnits 将更改为数值 5valueAsString 将更改为5mm
+description: 保留相同的底层存储值但将存储的单元标识符重置为给定的 unitType此方法可能会修改对象属性 unitTypevalueInSpecifiedUnits 和 valueAsString例如如果原始值为0.5cm并且调用该方法转换为毫米则 unitType 将更改为 SVG_LENGTHTYPE_MMvalueInSpecifiedUnits 将更改为数值 5valueAsString 将更改为5mm
 type: docs
 weight: 50
 url: /zh/net/aspose.svg.datatypes/svglength/converttospecifiedunits/
 ---
 ## SVGLength.ConvertToSpecifiedUnits method
 
-保留相同的底层存储值，但将存储的单元标识符重置为给定的 unitType。此方法可能会修改对象属性 unitType、valueInSpecifiedUnits 和 valueAsString。例如，如果原始值为“0.5cm”并调用该方法转换为毫米，则 unitType 将更改为 SVG_LENGTHTYPE_MM，valueInSpecifiedUnits 将更改为数值 5，valueAsString 将更改为“5mm”。
+保留相同的底层存储值，但将存储的单元标识符重置为给定的 unitType。此方法可能会修改对象属性 unitType、valueInSpecifiedUnits 和 valueAsString。例如，如果原始值为“0.5cm”并且调用该方法转换为毫米，则 unitType 将更改为 SVG_LENGTHTYPE_MM，valueInSpecifiedUnits 将更改为数值 5，valueAsString 将更改为“5mm”。
 
 ```csharp
 public void ConvertToSpecifiedUnits(ushort unitType)

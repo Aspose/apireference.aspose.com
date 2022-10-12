@@ -1,14 +1,14 @@
 ---
 title: ToString
 second_title: Справочник по Aspose.SVG для .NET API
-description: ВозвращаетString представляющий этот экземпляр.
+description: ВозвращаетString который представляет этот экземпляр.
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.datatypes/svganimatedenumeration/tostring/
 ---
 ## SVGAnimatedEnumeration.ToString method
 
-ВозвращаетString, представляющий этот экземпляр.
+ВозвращаетString который представляет этот экземпляр.
 
 ```csharp
 public override string ToString()
@@ -16,7 +16,7 @@ public override string ToString()
 
 ### Возвращаемое значение
 
-ОбъектString, представляющий этот экземпляр.
+АString который представляет этот экземпляр.
 
 ### Смотрите также
 

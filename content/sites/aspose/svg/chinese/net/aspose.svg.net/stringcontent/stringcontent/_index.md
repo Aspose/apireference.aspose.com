@@ -1,14 +1,14 @@
 ---
 title: StringContent
 second_title: Aspose.SVG for .NET API 参考
-description: 初始化StringContentaspose.svg.net/stringcontent类的新实例
+description: 初始化StringContentaspose.svg.net/stringcontent类.
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.net/stringcontent/stringcontent/
 ---
 ## StringContent(string) {#constructor}
 
-初始化[`StringContent`](../../stringcontent)类的新实例。
+初始化[`StringContent`](../../stringcontent)类.
 
 ```csharp
 public StringContent(string content)
@@ -28,7 +28,7 @@ public StringContent(string content)
 
 ## StringContent(string, Encoding) {#constructor_1}
 
-初始化[`StringContent`](../../stringcontent)类的新实例。
+初始化[`StringContent`](../../stringcontent)类.
 
 ```csharp
 public StringContent(string content, Encoding encoding)
@@ -49,7 +49,7 @@ public StringContent(string content, Encoding encoding)
 
 ## StringContent(string, Encoding, string) {#constructor_2}
 
-初始化[`StringContent`](../../stringcontent)类的新实例。
+初始化[`StringContent`](../../stringcontent)类.
 
 ```csharp
 public StringContent(string content, Encoding encoding, string mediaType)

@@ -1,14 +1,14 @@
 ---
 title: ChildNodes
 second_title: Aspose.SVG for .NET API 参考
-description: 一个包含此节点所有子节点的 NodeList如果没有子节点则这是一个不包含节点的 NodeList
+description: 包含此节点的所有子节点的 NodeList如果没有子节点这是一个不包含节点的 NodeList..
 type: docs
 weight: 30
 url: /zh/net/aspose.svg.dom/node/childnodes/
 ---
 ## Node.ChildNodes property
 
-一个包含此节点所有子节点的 NodeList。如果没有子节点，则这是一个不包含节点的 NodeList。
+包含此节点的所有子节点的 NodeList。如果没有子节点，这是一个不包含节点的 NodeList..
 
 ```csharp
 public NodeList ChildNodes { get; }

@@ -1,7 +1,7 @@
 ---
 title: op_Subtraction
 second_title: Справочник по Aspose.SVG для .NET API
-description: Реализует оператор -.
+description: Реализует оператор .
 type: docs
 weight: 80
 url: /ru/net/aspose.svg.drawing/time/op_subtraction/
@@ -16,8 +16,8 @@ public static Time operator -(Time a, Time b)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| a | Time | Параметр a. |
-| b | Time | Параметр b. |
+| a | Time | Параметр а. |
+| b | Time | Параметр б. |
 
 ### Возвращаемое значение
 

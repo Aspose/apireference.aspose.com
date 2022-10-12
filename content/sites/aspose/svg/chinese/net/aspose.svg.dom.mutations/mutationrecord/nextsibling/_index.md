@@ -1,14 +1,14 @@
 ---
 title: NextSibling
 second_title: Aspose.SVG for .NET API 参考
-description: 返回添加或删除节点的下一个兄弟节点或 null
+description: 返回添加或删除节点的下一个兄弟节点或 null.
 type: docs
 weight: 40
 url: /zh/net/aspose.svg.dom.mutations/mutationrecord/nextsibling/
 ---
 ## MutationRecord.NextSibling property
 
-返回添加或删除节点的下一个兄弟节点，或 null。
+返回添加或删除节点的下一个兄弟节点，或 null.
 
 ```csharp
 public Node NextSibling { get; }
@@ -16,7 +16,7 @@ public Node NextSibling { get; }
 
 ### 适当的价值
 
-下一个兄弟。
+下一个兄弟姐妹。
 
 ### 也可以看看
 

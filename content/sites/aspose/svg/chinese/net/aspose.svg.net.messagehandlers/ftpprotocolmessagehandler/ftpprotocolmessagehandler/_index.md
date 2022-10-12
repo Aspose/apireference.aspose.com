@@ -1,14 +1,14 @@
 ---
 title: FtpProtocolMessageHandler
 second_title: Aspose.SVG for .NET API 参考
-description: 初始化FtpProtocolMessageHandleraspose.svg.net.messagehandlers/ftpprotocolmessagehandler类的新实例
+description: 初始化FtpProtocolMessageHandleraspose.svg.net.messagehandlers/ftpprotocolmessagehandler类.
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.net.messagehandlers/ftpprotocolmessagehandler/ftpprotocolmessagehandler/
 ---
 ## FtpProtocolMessageHandler constructor
 
-初始化[`FtpProtocolMessageHandler`](../../ftpprotocolmessagehandler)类的新实例。
+初始化[`FtpProtocolMessageHandler`](../../ftpprotocolmessagehandler)类.
 
 ```csharp
 public FtpProtocolMessageHandler()

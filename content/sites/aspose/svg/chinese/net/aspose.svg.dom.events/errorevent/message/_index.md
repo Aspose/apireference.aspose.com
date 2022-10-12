@@ -1,14 +1,14 @@
 ---
 title: Message
 second_title: Aspose.SVG for .NET API 参考
-description: message 属性必须返回它被初始化的值创建对象时该属性必须初始化为空字符串它表示错误消息
+description: 消息属性必须返回它被初始化的值创建对象时该属性必须初始化为空字符串它代表错误消息
 type: docs
 weight: 60
 url: /zh/net/aspose.svg.dom.events/errorevent/message/
 ---
 ## ErrorEvent.Message property
 
-message 属性必须返回它被初始化的值。创建对象时，该属性必须初始化为空字符串。它表示错误消息。
+消息属性必须返回它被初始化的值。创建对象时，该属性必须初始化为空字符串。它代表错误消息。
 
 ```csharp
 public string Message { get; }

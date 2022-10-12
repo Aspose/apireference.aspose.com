@@ -3,7 +3,7 @@ title: ResponseMessage
 second_title: Aspose.SVG for .NET API 参考
 description: 表示响应消息
 type: docs
-weight: 2400
+weight: 2410
 url: /zh/net/aspose.svg.net/responsemessage/
 ---
 ## ResponseMessage class
@@ -18,7 +18,7 @@ public class ResponseMessage : IDisposable
 
 | 姓名 | 描述 |
 | --- | --- |
-| [ResponseMessage](responsemessage)(HttpStatusCode) | 初始化[`ResponseMessage`](../responsemessage)类的新实例。 |
+| [ResponseMessage](responsemessage)(HttpStatusCode) | 初始化[`ResponseMessage`](../responsemessage)类. |
 
 ## 特性
 
@@ -26,8 +26,8 @@ public class ResponseMessage : IDisposable
 | --- | --- |
 | [Content](../../aspose.svg.net/responsemessage/content) { get; set; } | 获取或设置响应内容。 |
 | [Cookies](../../aspose.svg.net/responsemessage/cookies) { get; set; } | 获取或设置 cookie 集合。 |
-| [Headers](../../aspose.svg.net/responsemessage/headers) { get; } | 获取标题。 |
-| [IsSuccess](../../aspose.svg.net/responsemessage/issuccess) { get; } | 获取一个指示此消息是否成功的值。 |
+| [Headers](../../aspose.svg.net/responsemessage/headers) { get; } | 获取标头。 |
+| [IsSuccess](../../aspose.svg.net/responsemessage/issuccess) { get; } | 获取一个值，指示此消息是否成功。 |
 | [Request](../../aspose.svg.net/responsemessage/request) { get; set; } | 获取或设置关联的请求。 |
 | [StatusCode](../../aspose.svg.net/responsemessage/statuscode) { get; set; } | 获取或设置状态码。 |
 

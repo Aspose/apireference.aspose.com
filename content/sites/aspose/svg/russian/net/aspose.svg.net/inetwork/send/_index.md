@@ -1,14 +1,14 @@
 ---
 title: Send
 second_title: Справочник по Aspose.SVG для .NET API
-description: Отправляет сообщениеRequestMessageaspose.svg.net/requestmessage.
+description: ОтправляетRequestMessageaspose.svg.net/requestmessage сообщение.
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.net/inetwork/send/
 ---
 ## INetwork.Send method
 
-Отправляет сообщение[`RequestMessage`](../../requestmessage).
+Отправляет[`RequestMessage`](../../requestmessage) сообщение.
 
 ```csharp
 public ResponseMessage Send(RequestMessage message)
@@ -20,7 +20,7 @@ public ResponseMessage Send(RequestMessage message)
 
 ### Возвращаемое значение
 
-A[`ResponseMessage`](../../responsemessage)сообщение
+А[`ResponseMessage`](../../responsemessage) сообщение
 
 ### Смотрите также
 

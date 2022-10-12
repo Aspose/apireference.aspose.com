@@ -1,14 +1,14 @@
 ---
 title: Dx
 second_title: Aspose.SVG for .NET API 参考
-description: 对应于给定 feDropShadow 元素的属性 dx
+description: 对应于给定feDropShadow元素的属性dx
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.filters/svgfedropshadowelement/dx/
 ---
 ## SVGFEDropShadowElement.Dx property
 
-对应于给定 'feDropShadow' 元素的属性 'dx'。
+对应于给定“feDropShadow”元素的属性“dx”。
 
 ```csharp
 public SVGAnimatedNumber Dx { get; }
@@ -16,7 +16,7 @@ public SVGAnimatedNumber Dx { get; }
 
 ### 适当的价值
 
-给定 'feDropShadow' 元素的属性 'dx'。
+给定“feDropShadow”元素的属性“dx”。
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: DERIVATION_UNION
 second_title: Aspose.SVG for .NET API 参考
-description: 如果文档的架构是 XML 架构 XML 架构第 1 部分如果涉及简单类型则此常量表示联合
+description: 如果文档的模式是 XML 模式 XML 模式第 1 部分如果涉及简单类型则此常量表示联合
 type: docs
 weight: 70
 url: /zh/net/aspose.svg.dom/typeinfo/derivation_union/
 ---
 ## TypeInfo.DERIVATION_UNION field
 
-如果文档的架构是 XML 架构 [XML 架构第 1 部分]，如果涉及简单类型，则此常量表示联合。
+如果文档的模式是 XML 模式 [XML 模式第 1 部分]，如果涉及简单类型，则此常量表示联合。
 
 ```csharp
 public const ulong DERIVATION_UNION;

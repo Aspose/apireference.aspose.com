@@ -1,14 +1,14 @@
 ---
 title: FontStyle
 second_title: Справочник по Aspose.SVG для .NET API
-description: См. определение свойства font-style в CSS2.
+description: См. определение свойства стиля шрифта в CSS2.
 type: docs
 weight: 520
 url: /ru/net/aspose.svg.dom.css/icss2properties/fontstyle/
 ---
 ## ICSS2Properties.FontStyle property
 
-См. определение свойства font-style в CSS2.
+См. определение свойства стиля шрифта в CSS2.
 
 ```csharp
 public string FontStyle { get; set; }

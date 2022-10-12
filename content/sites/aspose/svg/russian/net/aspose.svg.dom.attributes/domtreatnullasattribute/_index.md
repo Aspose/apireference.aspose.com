@@ -3,7 +3,7 @@ title: DOMTreatNullAsAttribute
 second_title: Справочник по Aspose.SVG для .NET API
 description: Указывает что null значения члена будет рассматриваться как указанное значение.
 type: docs
-weight: 440
+weight: 430
 url: /ru/net/aspose.svg.dom.attributes/domtreatnullasattribute/
 ---
 ## DOMTreatNullAsAttribute class
@@ -19,7 +19,7 @@ public sealed class DOMTreatNullAsAttribute : Attribute
 
 | Имя | Описание |
 | --- | --- |
-| [DOMTreatNullAsAttribute](domtreatnullasattribute)(Type, object) | Инициализирует новый экземпляр класса[`DOMTreatNullAsAttribute`](../domtreatnullasattribute). |
+| [DOMTreatNullAsAttribute](domtreatnullasattribute)(Type, object) | Инициализирует новый экземпляр[`DOMTreatNullAsAttribute`](../domtreatnullasattribute) класс. |
 
 ## Характеристики
 

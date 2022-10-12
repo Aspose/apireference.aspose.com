@@ -3,7 +3,7 @@ title: ISVGFilterPrimitiveStandardAttributes
 second_title: Aspose.SVG for .NET API 参考
 description: 这个接口定义了过滤器原语接口通用的 DOM 属性集
 type: docs
-weight: 1630
+weight: 1640
 url: /zh/net/aspose.svg.filters/isvgfilterprimitivestandardattributes/
 ---
 ## ISVGFilterPrimitiveStandardAttributes interface
@@ -19,10 +19,10 @@ public interface ISVGFilterPrimitiveStandardAttributes
 | 姓名 | 描述 |
 | --- | --- |
 | [Height](../../aspose.svg.filters/isvgfilterprimitivestandardattributes/height) { get; } | 对应于给定“过滤器”元素的属性“高度”。 |
-| [Result](../../aspose.svg.filters/isvgfilterprimitivestandardattributes/result) { get; } | 对应于给定 'filter' 元素的属性 'result'。 |
-| [Width](../../aspose.svg.filters/isvgfilterprimitivestandardattributes/width) { get; } | 对应于给定“过滤器”元素的属性“宽度”。 |
-| [X](../../aspose.svg.filters/isvgfilterprimitivestandardattributes/x) { get; } | 对应于给定“过滤器”元素的属性“x”。 |
-| [Y](../../aspose.svg.filters/isvgfilterprimitivestandardattributes/y) { get; } | 对应于给定 'filter' 元素上的属性 'y'。 |
+| [Result](../../aspose.svg.filters/isvgfilterprimitivestandardattributes/result) { get; } | 对应于给定“过滤器”元素上的属性“结果”。 |
+| [Width](../../aspose.svg.filters/isvgfilterprimitivestandardattributes/width) { get; } | 对应于给定“过滤器”元素上的属性“宽度”。 |
+| [X](../../aspose.svg.filters/isvgfilterprimitivestandardattributes/x) { get; } | 对应于给定“过滤器”元素上的属性“x”。 |
+| [Y](../../aspose.svg.filters/isvgfilterprimitivestandardattributes/y) { get; } | 对应于给定“过滤器”元素上的属性“y”。 |
 
 ### 也可以看看
 

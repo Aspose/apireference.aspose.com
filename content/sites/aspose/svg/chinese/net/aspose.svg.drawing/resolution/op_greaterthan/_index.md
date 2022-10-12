@@ -1,14 +1,14 @@
 ---
 title: op_GreaterThan
 second_title: Aspose.SVG for .NET API 参考
-description: 实现运算符 gt
+description: 实现运算符 gt.
 type: docs
 weight: 30
 url: /zh/net/aspose.svg.drawing/resolution/op_greaterthan/
 ---
 ## Resolution GreaterThan operator
 
-实现运算符 &gt;。
+实现运算符 &gt;.
 
 ```csharp
 public static bool operator >(Resolution a, Resolution b)
@@ -16,8 +16,8 @@ public static bool operator >(Resolution a, Resolution b)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| a | Resolution | 参数a。 |
-| b | Resolution | 参数 b。 |
+| a | Resolution | 参数 a。 |
+| b | Resolution | 参数 B. |
 
 ### 返回值
 

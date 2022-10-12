@@ -18,7 +18,7 @@ public bool BooleanValue { get; }
 
 | исключение | условие |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception) | TYPE_ERR: возникает, если` resultType` не ` Логический` тип. |
+| [DOMException](../../../aspose.svg.dom/domexception) | TYPE_ERR: возникает, если`тип результата` не `логический` тип. |
 
 ### Смотрите также
 

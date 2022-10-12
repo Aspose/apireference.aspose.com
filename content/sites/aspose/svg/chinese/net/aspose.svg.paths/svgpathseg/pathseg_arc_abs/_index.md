@@ -1,14 +1,14 @@
 ---
 title: PATHSEG_ARC_ABS
 second_title: Aspose.SVG for .NET API 参考
-description: 对应于绝对 arctoA 路径数据命令
+description: 对应一个绝对arctoA路径数据指令
 type: docs
 weight: 30
 url: /zh/net/aspose.svg.paths/svgpathseg/pathseg_arc_abs/
 ---
 ## SVGPathSeg.PATHSEG_ARC_ABS field
 
-对应于“绝对 arcto”(A) 路径数据命令。
+对应一个“绝对arcto”（A）路径数据指令。
 
 ```csharp
 public const ushort PATHSEG_ARC_ABS;

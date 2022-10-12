@@ -1,14 +1,14 @@
 ---
 title: Left
 second_title: Aspose.SVG for .NET API 参考
-description: 此属性用于矩形的左侧
+description: 这个属性用于矩形的左边
 type: docs
 weight: 20
 url: /zh/net/aspose.svg.dom.css/rect/left/
 ---
 ## Rect.Left property
 
-此属性用于矩形的左侧。
+这个属性用于矩形的左边。
 
 ```csharp
 public CSSPrimitiveValue Left { get; }

@@ -1,14 +1,14 @@
 ---
 title: AddEventListener
 second_title: Справочник по Aspose.SVG для .NET API
-description: Этот метод позволяет регистрировать прослушиватели событий на цели события.
+description: Этот метод позволяет регистрировать прослушиватели событий в цели события.
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.dom/eventtarget/addeventlistener/
 ---
 ## AddEventListener(string, DOMEventHandler, bool) {#addeventlistener}
 
-Этот метод позволяет регистрировать прослушиватели событий на цели события.
+Этот метод позволяет регистрировать прослушиватели событий в цели события.
 
 ```csharp
 public void AddEventListener(string type, DOMEventHandler handler, bool useCapture)
@@ -17,14 +17,14 @@ public void AddEventListener(string type, DOMEventHandler handler, bool useCaptu
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | type | String | Тип события, на которое регистрируется пользователь |
-| handler | DOMEventHandler | Принимает[`DOMEventHandler`](../../../aspose.svg.dom.events/domeventhandler)для вызова при возникновении события. |
-| useCapture | Boolean | Если true, useCapture указывает, что пользователь желает инициировать захват. После инициации захвата все события указанного типа будут отправлены на зарегистрированный [`IEventListener`](../../../aspose.svg.dom.events/ieventlistener) до того, как будут отправляются на любые цели событий под ними в дереве. События, всплывающие вверх по дереву, не будут запускать[`IEventListener`](../../../aspose.svg.dom.events/ieventlistener), предназначенный для использования захвата. |
+| handler | DOMEventHandler | Принимает[`DOMEventHandler`](../../../aspose.svg.dom.events/domeventhandler) вызываться при возникновении события. |
+| useCapture | Boolean | Если значение true, useCapture указывает, что пользователь хочет инициировать захват.[`IEventListener`](../../../aspose.svg.dom.events/ieventlistener) до того, как они будут отправлены на любые цели событий, находящиеся под ними в дереве. События, которые всплывают вверх по дереву, не вызовут[`IEventListener`](../../../aspose.svg.dom.events/ieventlistener) предназначены для использования захвата. |
 
 ### Примечания
 
-Если[`IEventListener`](../../../aspose.svg.dom.events/ieventlistener)добавляется к[`EventTarget`](../../eventtarget)во время обработки события не будет запущен текущими действиями, но может быть запущен на более позднем этапе потока событий, например, на этапе всплытия.
+Если[`IEventListener`](../../../aspose.svg.dom.events/ieventlistener) добавляется к[`EventTarget`](../../eventtarget) пока он обрабатывает событие, он не будет запущен текущими действиями, но может быть запущен на более позднем этапе потока событий, например, на этапе всплытия.
 
-Если на одном и том же[`EventTarget`](../../eventtarget)с одним и тем же параметрам повторяющиеся экземпляры отбрасываются. Они не приводят к двойному вызову[`IEventListener`](../../../aspose.svg.dom.events/ieventlistener)и, поскольку они отбрасываются, их не нужно удалять с помощью [`RemoveEventListener`](../removeeventlistener) метод.
+Если несколько идентичных прослушивателей событий зарегистрированы на одном[`EventTarget`](../../eventtarget)с теми же параметрами повторяющиеся экземпляры отбрасываются. Они не вызывают[`IEventListener`](../../../aspose.svg.dom.events/ieventlistener) вызываться дважды, и поскольку они отбрасываются, их не нужно удалять с помощью the [`RemoveEventListener`](../removeeventlistener) метод.
 
 ### Смотрите также
 
@@ -37,7 +37,7 @@ public void AddEventListener(string type, DOMEventHandler handler, bool useCaptu
 
 ## AddEventListener(string, IEventListener) {#addeventlistener_1}
 
-Этот метод позволяет регистрировать прослушиватели событий на цели события.
+Этот метод позволяет регистрировать прослушиватели событий в цели события.
 
 ```csharp
 public void AddEventListener(string type, IEventListener listener)
@@ -45,14 +45,14 @@ public void AddEventListener(string type, IEventListener listener)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| type | String | Тип события, для которого регистрируется пользователь |
-| listener | IEventListener | Принимает интерфейс, реализованный пользователем, который содержит методы, которые будут вызываться при возникновении события. |
+| type | String | Тип события, на которое регистрируется пользователь |
+| listener | IEventListener | Принимает реализованный пользователем интерфейс, который содержит методы, вызываемые при возникновении события. |
 
 ### Примечания
 
-Если[`IEventListener`](../../../aspose.svg.dom.events/ieventlistener)добавляется к[`EventTarget`](../../eventtarget)во время обработки события не будет запущен текущими действиями, но может быть запущен на более позднем этапе потока событий, например, в фазе всплытия.
+Если[`IEventListener`](../../../aspose.svg.dom.events/ieventlistener) добавляется к[`EventTarget`](../../eventtarget) пока он обрабатывает событие, он не будет запущен текущими действиями, но может быть запущен на более позднем этапе потока событий, например, на этапе всплытия.
 
-Если на одном и том же[`EventTarget`](../../eventtarget)с одним и тем же параметрам повторяющиеся экземпляры отбрасываются. Они не приводят к двойному вызову[`IEventListener`](../../../aspose.svg.dom.events/ieventlistener)и, поскольку они отбрасываются, их не нужно удалять с помощью [`RemoveEventListener`](../removeeventlistener) метод.
+Если несколько идентичных прослушивателей событий зарегистрированы на одном[`EventTarget`](../../eventtarget)с теми же параметрами повторяющиеся экземпляры отбрасываются. Они не вызывают[`IEventListener`](../../../aspose.svg.dom.events/ieventlistener) вызываться дважды, и поскольку они отбрасываются, их не нужно удалять с помощью the [`RemoveEventListener`](../removeeventlistener) метод.
 
 ### Смотрите также
 
@@ -65,7 +65,7 @@ public void AddEventListener(string type, IEventListener listener)
 
 ## AddEventListener(string, IEventListener, bool) {#addeventlistener_2}
 
-Этот метод позволяет регистрировать прослушиватели событий на цели события.
+Этот метод позволяет регистрировать прослушиватели событий в цели события.
 
 ```csharp
 public void AddEventListener(string type, IEventListener listener, bool useCapture)
@@ -73,15 +73,15 @@ public void AddEventListener(string type, IEventListener listener, bool useCaptu
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| type | String | Тип события, для которого регистрируется пользователь |
-| listener | IEventListener | Принимает интерфейс, реализованный пользователем, который содержит методы, которые будут вызываться при возникновении события. |
-| useCapture | Boolean | Если true, useCapture указывает, что пользователь желает инициировать захват. После инициации захвата все события указанного типа будут отправлены на зарегистрированный [`IEventListener`](../../../aspose.svg.dom.events/ieventlistener) до того, как будут отправляются на любые цели событий под ними в дереве. События, всплывающие вверх по дереву, не будут запускать[`IEventListener`](../../../aspose.svg.dom.events/ieventlistener), предназначенный для использования захвата. |
+| type | String | Тип события, на которое регистрируется пользователь |
+| listener | IEventListener | Принимает реализованный пользователем интерфейс, который содержит методы, вызываемые при возникновении события. |
+| useCapture | Boolean | Если значение true, useCapture указывает, что пользователь хочет инициировать захват.[`IEventListener`](../../../aspose.svg.dom.events/ieventlistener) до того, как они будут отправлены на любые цели событий, находящиеся под ними в дереве. События, которые всплывают вверх по дереву, не вызовут[`IEventListener`](../../../aspose.svg.dom.events/ieventlistener) предназначены для использования захвата. |
 
 ### Примечания
 
-Если[`IEventListener`](../../../aspose.svg.dom.events/ieventlistener)добавляется к[`EventTarget`](../../eventtarget)во время обработки события не будет запущен текущими действиями, но может быть запущен на более позднем этапе потока событий, например, в фазе всплытия.
+Если[`IEventListener`](../../../aspose.svg.dom.events/ieventlistener) добавляется к[`EventTarget`](../../eventtarget) пока он обрабатывает событие, он не будет запущен текущими действиями, но может быть запущен на более позднем этапе потока событий, например, на этапе всплытия.
 
-Если на одном и том же[`EventTarget`](../../eventtarget)с одним и тем же параметрам повторяющиеся экземпляры отбрасываются. Они не приводят к двойному вызову[`IEventListener`](../../../aspose.svg.dom.events/ieventlistener)и, поскольку они отбрасываются, их не нужно удалять с помощью [`RemoveEventListener`](../removeeventlistener) метод.
+Если несколько идентичных прослушивателей событий зарегистрированы на одном[`EventTarget`](../../eventtarget)с теми же параметрами повторяющиеся экземпляры отбрасываются. Они не вызывают[`IEventListener`](../../../aspose.svg.dom.events/ieventlistener) вызываться дважды, и поскольку они отбрасываются, их не нужно удалять с помощью the [`RemoveEventListener`](../removeeventlistener) метод.
 
 ### Смотрите также
 

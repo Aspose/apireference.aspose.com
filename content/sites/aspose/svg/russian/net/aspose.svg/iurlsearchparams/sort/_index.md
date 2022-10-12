@@ -1,7 +1,7 @@
 ---
 title: Sort
 second_title: Справочник по Aspose.SVG для .NET API
-description: Сортирует все пары имя-значение если они есть по их именам.
+description: Сортирует все пары имязначение если они есть по их именам.
 type: docs
 weight: 70
 url: /ru/net/aspose.svg/iurlsearchparams/sort/

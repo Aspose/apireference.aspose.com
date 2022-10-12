@@ -1,14 +1,14 @@
 ---
 title: SpeakPunctuation
 second_title: Справочник по Aspose.SVG для .NET API
-description: См. определение свойства говорить-пунктуация в CSS2.
+description: См. определение свойства пунктуации в CSS2.
 type: docs
 weight: 1030
 url: /ru/net/aspose.svg.dom.css/icss2properties/speakpunctuation/
 ---
 ## ICSS2Properties.SpeakPunctuation property
 
-См. определение свойства говорить-пунктуация в CSS2.
+См. определение свойства пунктуации в CSS2.
 
 ```csharp
 public string SpeakPunctuation { get; set; }
@@ -16,7 +16,7 @@ public string SpeakPunctuation { get; set; }
 
 ### Возвращаемое значение
 
-свойство речи-пунктуации
+свойство говорить-пунктуация
 
 ### Смотрите также
 

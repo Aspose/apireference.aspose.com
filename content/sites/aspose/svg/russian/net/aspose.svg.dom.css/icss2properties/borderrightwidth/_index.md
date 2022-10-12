@@ -1,7 +1,7 @@
 ---
 title: BorderRightWidth
 second_title: Справочник по Aspose.SVG для .NET API
-description: См. определение свойства border-right-width в CSS2.
+description: См. определение свойства borderrightwidth в CSS2.
 type: docs
 weight: 220
 url: /ru/net/aspose.svg.dom.css/icss2properties/borderrightwidth/

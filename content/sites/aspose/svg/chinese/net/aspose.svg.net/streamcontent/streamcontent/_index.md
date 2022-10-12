@@ -1,14 +1,14 @@
 ---
 title: StreamContent
 second_title: Aspose.SVG for .NET API 参考
-description: 初始化StreamContentaspose.svg.net/streamcontent类的新实例
+description: 初始化StreamContentaspose.svg.net/streamcontent类.
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.net/streamcontent/streamcontent/
 ---
 ## StreamContent constructor
 
-初始化[`StreamContent`](../../streamcontent)类的新实例。
+初始化[`StreamContent`](../../streamcontent)类.
 
 ```csharp
 public StreamContent(Stream content)

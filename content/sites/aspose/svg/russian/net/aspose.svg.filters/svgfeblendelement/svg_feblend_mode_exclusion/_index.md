@@ -8,7 +8,7 @@ url: /ru/net/aspose.svg.filters/svgfeblendelement/svg_feblend_mode_exclusion/
 ---
 ## SVGFEBlendElement.SVG_FEBLEND_MODE_EXCLUSION field
 
-Соответствует значению 'исключение'.
+Соответствует значению «исключение».
 
 ```csharp
 public const ushort SVG_FEBLEND_MODE_EXCLUSION;

@@ -1,14 +1,14 @@
 ---
 title: SHOW_DOCUMENT_TYPE
 second_title: Справочник по Aspose.SVG для .NET API
-description: Показать узлы DocumentType.
+description: Показать узлы типа документа.
 type: docs
 weight: 120
 url: /ru/net/aspose.svg.dom.traversal.filters/nodefilter/show_document_type/
 ---
 ## NodeFilter.SHOW_DOCUMENT_TYPE field
 
-Показать узлы DocumentType.
+Показать узлы типа документа.
 
 ```csharp
 public const long SHOW_DOCUMENT_TYPE;

@@ -1,14 +1,14 @@
 ---
 title: MetaKey
 second_title: Справочник по Aspose.SVG для .NET API
-description: true если был активен ключевой модификатор мета Meta.
+description: true если ключевой модификатор мета Meta был активен.
 type: docs
 weight: 80
 url: /ru/net/aspose.svg.dom.events/keyboardevent/metakey/
 ---
 ## KeyboardEvent.MetaKey property
 
-true, если был активен ключевой модификатор мета (Meta).
+true, если ключевой модификатор мета (Meta) был активен.
 
 ```csharp
 public bool MetaKey { get; }
@@ -16,7 +16,7 @@ public bool MetaKey { get; }
 
 ### Стоимость имущества
 
-` true` если Мета; в противном случае` false` .
+`истинный` если Мета; в противном случае,`ЛОЖЬ` .
 
 ### Смотрите также
 

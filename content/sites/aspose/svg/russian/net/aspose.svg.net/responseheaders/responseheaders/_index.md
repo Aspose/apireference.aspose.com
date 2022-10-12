@@ -1,14 +1,14 @@
 ---
 title: ResponseHeaders
 second_title: Справочник по Aspose.SVG для .NET API
-description: Инициализирует новый экземпляр классаRequestHeadersaspose.svg.net/requestheaders.
+description: Инициализирует новый экземплярRequestHeadersaspose.svg.net/requestheaders класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.net/responseheaders/responseheaders/
 ---
 ## ResponseHeaders constructor
 
-Инициализирует новый экземпляр класса[`RequestHeaders`](../../requestheaders).
+Инициализирует новый экземпляр[`RequestHeaders`](../../requestheaders) класс.
 
 ```csharp
 public ResponseHeaders()

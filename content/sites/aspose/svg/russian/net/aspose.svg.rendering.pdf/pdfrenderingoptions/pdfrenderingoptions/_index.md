@@ -1,14 +1,14 @@
 ---
 title: PdfRenderingOptions
 second_title: Справочник по Aspose.SVG для .NET API
-description: Инициализирует новый экземпляр классаPdfRenderingOptionsaspose.svg.rendering.pdf/pdfrenderingoptions.
+description: Инициализирует новый экземплярPdfRenderingOptionsaspose.svg.rendering.pdf/pdfrenderingoptions класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.rendering.pdf/pdfrenderingoptions/pdfrenderingoptions/
 ---
 ## PdfRenderingOptions constructor
 
-Инициализирует новый экземпляр класса[`PdfRenderingOptions`](../../pdfrenderingoptions).
+Инициализирует новый экземпляр[`PdfRenderingOptions`](../../pdfrenderingoptions) класс.
 
 ```csharp
 public PdfRenderingOptions()

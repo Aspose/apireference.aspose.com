@@ -1,14 +1,14 @@
 ---
 title: ChildNodes
 second_title: Справочник по Aspose.SVG для .NET API
-description: NodeList содержащий все дочерние элементы этого узла. Если дочерних элементов нет это NodeList не содержащий узлов.
+description: NodeList содержащий все дочерние элементы этого узла. Если нет детей это NodeList не содержащий узлов..
 type: docs
 weight: 30
 url: /ru/net/aspose.svg.dom/node/childnodes/
 ---
 ## Node.ChildNodes property
 
-NodeList, содержащий все дочерние элементы этого узла. Если дочерних элементов нет, это NodeList, не содержащий узлов.
+NodeList, содержащий все дочерние элементы этого узла. Если нет детей, это NodeList, не содержащий узлов..
 
 ```csharp
 public NodeList ChildNodes { get; }

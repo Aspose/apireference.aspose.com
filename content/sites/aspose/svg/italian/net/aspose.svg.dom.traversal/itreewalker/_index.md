@@ -1,0 +1,45 @@
+---
+title: ITreeWalker
+second_title: Riferimento API Aspose.SVG per .NET
+description: Gli oggetti TreeWalker vengono utilizzati per navigare in un albero di documenti o in un sottoalbero utilizzando la vista del documento definita dai relativi flag e filtri whatToShow se presenti. Qualsiasi funzione che esegua la navigazione utilizzando un TreeWalker supporterà automaticamente qualsiasi vista definita da un TreeWalker.
+type: docs
+weight: 1270
+url: /it/net/aspose.svg.dom.traversal/itreewalker/
+---
+## ITreeWalker interface
+
+Gli oggetti TreeWalker vengono utilizzati per navigare in un albero di documenti o in un sottoalbero utilizzando la vista del documento definita dai relativi flag e filtri whatToShow (se presenti). Qualsiasi funzione che esegua la navigazione utilizzando un TreeWalker supporterà automaticamente qualsiasi vista definita da un TreeWalker.
+
+L'omissione di nodi dalla vista logica di una sottostruttura può comportare una struttura sostanzialmente diversa dalla stessa sottostruttura nel documento completo e non filtrato. I nodi che sono fratelli nella vista TreeWalker possono essere figli di nodi diversi, ampiamente separati da nella vista originale. Ad esempio, considera un NodeFilter che ignora tutti i nodi tranne i nodi di testo e il nodo radice di un documento. Nella vista logica che ne risulta, tutti i nodi di testo saranno fratelli e appariranno come figli diretti del nodo radice, non importa quanto sia profondamente nidificata la struttura del documento originale.
+
+Vedi anche il[Document Object Model (DOM) Livello 2 Traversal and Range Specification](http://www.w3.org/TR/2000/REC-DOM-Level-2-Traversal-Range-20001113). @dal livello DOM 2
+
+```csharp
+public interface ITreeWalker : ITraversal
+```
+
+## Proprietà
+
+| Nome | Descrizione |
+| --- | --- |
+| [CurrentNode](../../aspose.svg.dom.traversal/itreewalker/currentnode) { get; set; } | Il nodo in cui è attualmente posizionato il TreeWalker. Le modifiche all'albero DOM possono far sì che il nodo corrente non venga più accettato dal filtro associato del TreeWalker. currentNode può anche essere impostato esplicitamente su qualsiasi nodo, indipendentemente dal fatto che lo sia o meno all'interno del sottoalbero specificato dal nodo root o sarebbe accettato dal filtro e dai flag whatToShow. Si verifica un ulteriore attraversamento relativo a currentNode anche se non fa parte della vista corrente, applicando i filtri nella direzione richiesta; se non è possibile traversal , currentNode non viene modificato. |
+
+## Metodi
+
+| Nome | Descrizione |
+| --- | --- |
+| [FirstChild](../../aspose.svg.dom.traversal/itreewalker/firstchild)() | Sposta TreeWalker sul primo figlio visibile del nodo corrente e restituisce il nuovo nodo. Se il nodo corrente non ha figli visibili , restituisce null e mantiene il nodo corrente. |
+| [LastChild](../../aspose.svg.dom.traversal/itreewalker/lastchild)() | Sposta il TreeWalker sull'ultimo figlio visibile del nodo corrente e restituisce il nuovo nodo. Se il nodo corrente non ha figli visibili , restituisce null e mantiene il nodo corrente. |
+| [NextNode](../../aspose.svg.dom.traversal/itreewalker/nextnode)() | Sposta il TreeWalker al successivo nodo visibile nell'ordine document relativo al nodo corrente e restituisce il nuovo nodo. Se il nodo corrente non ha un nodo successivo, o se la ricerca di nextNode tenta di salire dal nodo root di TreeWalker, restituisce null e mantiene il nodo corrente. |
+| [NextSibling](../../aspose.svg.dom.traversal/itreewalker/nextsibling)() | Sposta il TreeWalker al fratello successivo del nodo corrente e restituisce il nuovo nodo. Se il nodo corrente non ha un parente successivo visibile , restituisce null e mantiene il nodo corrente. |
+| [ParentNode](../../aspose.svg.dom.traversal/itreewalker/parentnode)() | Si sposta e restituisce il nodo predecessore visibile più vicino del nodo corrente. Se la ricerca di parentNode tenta di fare un passo verso l'alto dal nodo radice di TreeWalker, o se non riesce a trovare un nodo antenato visibile, questo metodo mantiene la posizione corrente di e restituisce null. |
+| [PreviousNode](../../aspose.svg.dom.traversal/itreewalker/previousnode)() | Sposta il TreeWalker al nodo visibile precedente nell'ordine del documento rispetto al nodo corrente e restituisce il nuovo nodo . Se il nodo corrente non ha un nodo precedente, o se la ricerca di previousNode tenta di salire dal nodo radice di TreeWalker , restituisce null e mantiene il nodo corrente. |
+| [PreviousSibling](../../aspose.svg.dom.traversal/itreewalker/previoussibling)() | Sposta il TreeWalker sul fratello precedente del nodo corrente di e restituisce il nuovo nodo. Se il nodo corrente non ha il fratello precedente visibile, restituisce null e mantiene il nodo corrente . |
+
+### Guarda anche
+
+* interface [ITraversal](../itraversal)
+* spazio dei nomi [Aspose.Svg.Dom.Traversal](../../aspose.svg.dom.traversal)
+* assemblea [Aspose.SVG](../../)
+
+<!-- DO NOT EDIT: generated by xmldocmd for Aspose.SVG.dll -->

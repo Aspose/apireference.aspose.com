@@ -1,14 +1,14 @@
 ---
 title: Bubbles
 second_title: Aspose.SVG for .NET API 参考
-description: 用于指示事件是否为冒泡事件如果事件可以冒泡则值为 true否则值为 false
+description: 用于指示事件是否为冒泡事件如果事件可以冒泡则值为真否则值为假
 type: docs
 weight: 20
 url: /zh/net/aspose.svg.dom.events/event/bubbles/
 ---
 ## Event.Bubbles property
 
-用于指示事件是否为冒泡事件。如果事件可以冒泡，则值为 true，否则值为 false。
+用于指示事件是否为冒泡事件。如果事件可以冒泡，则值为真，否则值为假。
 
 ```csharp
 public bool Bubbles { get; }

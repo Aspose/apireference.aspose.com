@@ -8,7 +8,7 @@ url: /ru/net/aspose.svg.filters/svgfediffuselightingelement/surfacescale/
 ---
 ## SVGFEDiffuseLightingElement.SurfaceScale property
 
-Соответствует атрибуту 'surfaceScale' данного элемента 'feDiffuseLighting'.
+Соответствует атрибуту «surfaceScale» данного элемента «feDiffuseLighting».
 
 ```csharp
 public SVGAnimatedNumber SurfaceScale { get; }

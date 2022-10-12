@@ -1,14 +1,14 @@
 ---
 title: CapturingPhase
 second_title: Справочник по Aspose.SVG для .NET API
-description: В настоящее время событие оценивается в целевом объектеIEventTargetaspose.svg.dom.events/ieventtarget.
+description: Событие в настоящее время оценивается на целиIEventTargetaspose.svg.dom.events/ieventtarget .
 type: docs
 weight: 170
 url: /ru/net/aspose.svg.dom.events/event/capturingphase/
 ---
 ## Event.CapturingPhase field
 
-В настоящее время событие оценивается в целевом объекте[`IEventTarget`](../../ieventtarget).
+Событие в настоящее время оценивается на цели[`IEventTarget`](../../ieventtarget) .
 
 ```csharp
 public const ushort CapturingPhase;

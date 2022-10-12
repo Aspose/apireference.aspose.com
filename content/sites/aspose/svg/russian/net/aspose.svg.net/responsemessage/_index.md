@@ -3,7 +3,7 @@ title: ResponseMessage
 second_title: Справочник по Aspose.SVG для .NET API
 description: Представляет ответное сообщение.
 type: docs
-weight: 2400
+weight: 2410
 url: /ru/net/aspose.svg.net/responsemessage/
 ---
 ## ResponseMessage class
@@ -18,7 +18,7 @@ public class ResponseMessage : IDisposable
 
 | Имя | Описание |
 | --- | --- |
-| [ResponseMessage](responsemessage)(HttpStatusCode) | Инициализирует новый экземпляр класса[`ResponseMessage`](../responsemessage). |
+| [ResponseMessage](responsemessage)(HttpStatusCode) | Инициализирует новый экземпляр[`ResponseMessage`](../responsemessage) класс. |
 
 ## Характеристики
 
@@ -27,7 +27,7 @@ public class ResponseMessage : IDisposable
 | [Content](../../aspose.svg.net/responsemessage/content) { get; set; } | Получает или задает содержимое ответа. |
 | [Cookies](../../aspose.svg.net/responsemessage/cookies) { get; set; } | Получает или задает коллекцию файлов cookie. |
 | [Headers](../../aspose.svg.net/responsemessage/headers) { get; } | Получает заголовки. |
-| [IsSuccess](../../aspose.svg.net/responsemessage/issuccess) { get; } | Получает значение, указывающее, успешно ли отправлено это сообщение. |
+| [IsSuccess](../../aspose.svg.net/responsemessage/issuccess) { get; } | Получает значение, указывающее, успешно ли получено это сообщение. |
 | [Request](../../aspose.svg.net/responsemessage/request) { get; set; } | Получает или задает связанный запрос. |
 | [StatusCode](../../aspose.svg.net/responsemessage/statuscode) { get; set; } | Получает или задает код состояния. |
 
@@ -35,7 +35,7 @@ public class ResponseMessage : IDisposable
 
 | Имя | Описание |
 | --- | --- |
-| [Dispose](../../aspose.svg.net/responsemessage/dispose)() | Выполняет определяемые приложением задачи, связанные с освобождением, освобождением или сбросом неуправляемых ресурсов. |
+| [Dispose](../../aspose.svg.net/responsemessage/dispose)() | Выполняет определяемые приложением задачи, связанные с освобождением, высвобождением или сбросом неуправляемых ресурсов. |
 
 ### Смотрите также
 

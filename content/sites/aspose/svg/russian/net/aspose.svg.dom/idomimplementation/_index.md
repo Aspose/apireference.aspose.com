@@ -1,9 +1,9 @@
 ---
 title: IDOMImplementation
 second_title: Справочник по Aspose.SVG для .NET API
-description: Интерфейс DOMImplementation предоставляет ряд методов для выполнения операций которые не зависят от какого-либо конкретного экземпляра объектной модели документа.
+description: Интерфейс DOMImplementation предоставляет ряд методов для выполнения операций которые не зависят от какоголибо конкретного экземпляра объектной модели документа.
 type: docs
-weight: 1050
+weight: 1040
 url: /ru/net/aspose.svg.dom/idomimplementation/
 ---
 ## IDOMImplementation interface
@@ -18,10 +18,10 @@ public interface IDOMImplementation
 
 | Имя | Описание |
 | --- | --- |
-| [CreateDocument](../../aspose.svg.dom/idomimplementation/createdocument)(string, string, DocumentType) | Создает объект DOM Document указанного типа с его элементом документа. |
+| [CreateDocument](../../aspose.svg.dom/idomimplementation/createdocument)(string, string, DocumentType) | Создает объект документа DOM указанного типа с его элементом документа. |
 | [CreateDocumentType](../../aspose.svg.dom/idomimplementation/createdocumenttype)(string, string, string) | Создает пустой узел DocumentType. Объявления сущностей и нотации недоступны. Расширения ссылок на сущности и добавления атрибутов по умолчанию не происходят. |
-| [CreateHTMLDocument](../../aspose.svg.dom/idomimplementation/createhtmldocument)(string) | Возвращает документ с уже построенным базовым деревом, включая элемент заголовка, если аргумент заголовка не опущен. |
-| [HasFeature](../../aspose.svg.dom/idomimplementation/hasfeature)() | Проверить, реализует ли реализация DOM конкретную функцию и версию, как указано в DOM Features. |
+| [CreateHTMLDocument](../../aspose.svg.dom/idomimplementation/createhtmldocument)(string) | Возвращает документ с уже построенным базовым деревом, включая элемент title, если аргумент title не опущен. |
+| [HasFeature](../../aspose.svg.dom/idomimplementation/hasfeature)() | Проверить, реализует ли реализация DOM определенную функцию и версию, как указано в DOM Features. |
 
 ### Смотрите также
 

@@ -1,14 +1,14 @@
 ---
 title: op_LessThan
 second_title: Aspose.SVG for .NET API 参考
-description: 实现运算符 lt
+description: 实现运算符 lt.
 type: docs
 weight: 60
 url: /zh/net/aspose.svg.drawing/frequency/op_lessthan/
 ---
 ## Frequency LessThan operator
 
-实现运算符 &lt;。
+实现运算符 &lt;.
 
 ```csharp
 public static bool operator <(Frequency a, Frequency b)
@@ -16,8 +16,8 @@ public static bool operator <(Frequency a, Frequency b)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| a | Frequency | 参数a。 |
-| b | Frequency | 参数 b。 |
+| a | Frequency | 参数 a。 |
+| b | Frequency | 参数 B. |
 
 ### 返回值
 

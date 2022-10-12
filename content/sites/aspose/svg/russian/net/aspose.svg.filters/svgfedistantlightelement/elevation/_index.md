@@ -8,7 +8,7 @@ url: /ru/net/aspose.svg.filters/svgfedistantlightelement/elevation/
 ---
 ## SVGFEDistantLightElement.Elevation property
 
-Соответствует атрибуту 'высота' данного элемента 'feDistantLight'.
+Соответствует атрибуту «высота» данного элемента «feDistantLight».
 
 ```csharp
 public SVGAnimatedNumber Elevation { get; }
@@ -16,7 +16,7 @@ public SVGAnimatedNumber Elevation { get; }
 
 ### Стоимость имущества
 
-Атрибут 'высота' данного элемента 'feDistantLight'.
+Атрибут «высота» данного элемента «feDistantLight».
 
 ### Смотрите также
 

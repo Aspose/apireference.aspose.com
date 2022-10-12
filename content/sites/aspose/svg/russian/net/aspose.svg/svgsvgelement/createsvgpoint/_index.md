@@ -1,7 +1,7 @@
 ---
 title: CreateSVGPoint
 second_title: Справочник по Aspose.SVG для .NET API
-description: Создает объект SVGPoint вне каких-либо деревьев документов. Объект инициализируется точкой 00 в пользовательской системе координат.
+description: Создает объект SVGPoint вне какихлибо деревьев документов. Объект инициализируется точкой 00 в пользовательской системе координат.
 type: docs
 weight: 160
 url: /ru/net/aspose.svg/svgsvgelement/createsvgpoint/

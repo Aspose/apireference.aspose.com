@@ -3,7 +3,7 @@ title: IWindowTimers
 second_title: Справочник по Aspose.SVG для .NET API
 description: Позволяет авторам планировать обратные вызовы на основе таймера.
 type: docs
-weight: 3750
+weight: 3760
 url: /ru/net/aspose.svg.window/iwindowtimers/
 ---
 ## IWindowTimers interface
@@ -18,10 +18,10 @@ public interface IWindowTimers
 
 | Имя | Описание |
 | --- | --- |
-| [ClearInterval](../../aspose.svg.window/iwindowtimers/clearinterval)(int) | Отменяет тайм-аут, установленный с помощью setInterval(), идентифицированный дескриптором |
-| [ClearTimeout](../../aspose.svg.window/iwindowtimers/cleartimeout)(int) | Отменяет тайм-аут, установленный с помощью setTimeout(), указанного дескриптором. |
-| [SetInterval](../../aspose.svg.window/iwindowtimers/setinterval)(object, int, params object[]) | Планирует тайм-аут для запуска обработчика каждые миллисекунды тайм-аута. Любые аргументы передаются напрямую обработчику. |
-| [SetTimeout](../../aspose.svg.window/iwindowtimers/settimeout)(object, int, params object[]) | Планирует тайм-аут для запуска обработчика после тайм-аута в миллисекундах. Любые аргументы передаются напрямую обработчику. |
+| [ClearInterval](../../aspose.svg.window/iwindowtimers/clearinterval)(int) | Отменяет тайм-аут, установленный с помощью setInterval(), идентифицированный handle |
+| [ClearTimeout](../../aspose.svg.window/iwindowtimers/cleartimeout)(int) | Отменяет тайм-аут, установленный с помощью setTimeout(), идентифицированный дескриптором. |
+| [SetInterval](../../aspose.svg.window/iwindowtimers/setinterval)(object, int, params object[]) | Планирует тайм-аут для запуска обработчика каждые миллисекунды тайм-аута. Любые аргументы передаются непосредственно обработчику. |
+| [SetTimeout](../../aspose.svg.window/iwindowtimers/settimeout)(object, int, params object[]) | Планирует тайм-аут для запуска обработчика после тайм-аута в миллисекундах. Любые аргументы передаются непосредственно обработчику. |
 
 ### Смотрите также
 

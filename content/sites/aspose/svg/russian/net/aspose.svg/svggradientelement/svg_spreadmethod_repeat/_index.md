@@ -1,14 +1,14 @@
 ---
 title: SVG_SPREADMETHOD_REPEAT
 second_title: Справочник по Aspose.SVG для .NET API
-description: Соответствует значению repeat.
+description: Соответствует значению повторить.
 type: docs
 weight: 70
 url: /ru/net/aspose.svg/svggradientelement/svg_spreadmethod_repeat/
 ---
 ## SVGGradientElement.SVG_SPREADMETHOD_REPEAT field
 
-Соответствует значению 'repeat'.
+Соответствует значению «повторить».
 
 ```csharp
 public const ushort SVG_SPREADMETHOD_REPEAT;

@@ -1,14 +1,14 @@
 ---
 title: DocumentURI
 second_title: Aspose.SVG for .NET API 参考
-description: 文档的位置如果未定义或者如果文档是使用 DOMImplementation.createDocument 创建的则为 null
+description: 文档的位置如果未定义或文档是使用 DOMImplementation.createDocument. 创建的则为 null
 type: docs
 weight: 110
 url: /zh/net/aspose.svg.dom/document/documenturi/
 ---
 ## Document.DocumentURI property
 
-文档的位置，如果未定义或者如果文档是使用 DOMImplementation.createDocument 创建的，则为 null。
+文档的位置，如果未定义或文档是使用 DOMImplementation.createDocument. 创建的，则为 null
 
 ```csharp
 public string DocumentURI { get; }
@@ -16,7 +16,7 @@ public string DocumentURI { get; }
 
 ### 适当的价值
 
-文档 URI。
+文档 URI.
 
 ### 也可以看看
 

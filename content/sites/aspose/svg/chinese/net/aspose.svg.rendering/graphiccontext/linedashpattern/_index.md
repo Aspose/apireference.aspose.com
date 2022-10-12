@@ -1,14 +1,14 @@
 ---
 title: LineDashPattern
 second_title: Aspose.SVG for .NET API 参考
-description: 设置或获取描边路径时要使用的短划线图案的描述
+description: 设置或获取描边路径时要使用的虚线模式的描述
 type: docs
 weight: 90
 url: /zh/net/aspose.svg.rendering/graphiccontext/linedashpattern/
 ---
 ## GraphicContext.LineDashPattern property
 
-设置或获取描边路径时要使用的短划线图案的描述。
+设置或获取描边路径时要使用的虚线模式的描述。
 
 ```csharp
 public virtual float[] LineDashPattern { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: Scale
 second_title: Справочник по Aspose.SVG для .NET API
-description: Соответствует атрибуту scale данного элемента feDisplacementMap.
+description: Соответствует атрибуту масштаб данного элемента feDisplacementMap.
 type: docs
 weight: 50
 url: /ru/net/aspose.svg.filters/svgfedisplacementmapelement/scale/
 ---
 ## SVGFEDisplacementMapElement.Scale property
 
-Соответствует атрибуту 'scale' данного элемента 'feDisplacementMap'.
+Соответствует атрибуту «масштаб» данного элемента «feDisplacementMap».
 
 ```csharp
 public SVGAnimatedNumber Scale { get; }
@@ -16,7 +16,7 @@ public SVGAnimatedNumber Scale { get; }
 
 ### Стоимость имущества
 
-Атрибут 'масштаб' данного элемента 'feDisplacementMap'.
+Масштаб атрибута данного элемента feDisplacementMap.
 
 ### Смотрите также
 

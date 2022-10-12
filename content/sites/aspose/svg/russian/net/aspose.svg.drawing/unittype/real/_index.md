@@ -1,14 +1,14 @@
 ---
 title: Real
 second_title: Справочник по Aspose.SVG для .NET API
-description: Измерение - действительное число.
+description: Измерение является действительным числом.
 type: docs
 weight: 230
 url: /ru/net/aspose.svg.drawing/unittype/real/
 ---
 ## UnitType.Real field
 
-Измерение - действительное число.
+Измерение является действительным числом.
 
 ```csharp
 public static readonly UnitType Real;

@@ -1,7 +1,7 @@
 ---
 title: BorderBottom
 second_title: Справочник по Aspose.SVG для .NET API
-description: См. определение свойства border-bottom в CSS2.
+description: См. определение свойства borderbottom в CSS2.
 type: docs
 weight: 90
 url: /ru/net/aspose.svg.dom.css/icss2properties/borderbottom/

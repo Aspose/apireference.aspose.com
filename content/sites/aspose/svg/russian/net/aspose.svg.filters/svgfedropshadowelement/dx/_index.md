@@ -8,7 +8,7 @@ url: /ru/net/aspose.svg.filters/svgfedropshadowelement/dx/
 ---
 ## SVGFEDropShadowElement.Dx property
 
-Соответствует атрибуту 'dx' данного элемента 'feDropShadow'.
+Соответствует атрибуту 'dx' данного элемента feDropShadow.
 
 ```csharp
 public SVGAnimatedNumber Dx { get; }

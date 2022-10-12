@@ -1,14 +1,14 @@
 ---
 title: SearchParams
 second_title: Aspose.SVG for .NET API 参考
-description: 获取关联的IUrlSearchParamsaspose.svg/iurlsearchparams对象
+description: 获取关联的IUrlSearchParamsaspose.svg/iurlsearchparams对象.
 type: docs
 weight: 120
 url: /zh/net/aspose.svg/url/searchparams/
 ---
 ## Url.SearchParams property
 
-获取关联的[`IUrlSearchParams`](../../iurlsearchparams)对象。
+获取关联的[`IUrlSearchParams`](../../iurlsearchparams)对象.
 
 ```csharp
 public IUrlSearchParams SearchParams { get; }
@@ -16,7 +16,7 @@ public IUrlSearchParams SearchParams { get; }
 
 ### 适当的价值
 
-[`IUrlSearchParams`](../../iurlsearchparams)对象。
+[`IUrlSearchParams`](../../iurlsearchparams)对象.
 
 ### 也可以看看
 

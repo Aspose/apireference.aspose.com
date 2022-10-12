@@ -1,14 +1,14 @@
 ---
 title: IServiceProvider
 second_title: Справочник по Aspose.SVG для .NET API
-description: Предоставляет неизменяемый контейнер для служб.
+description: Предоставляет неизменяемый контейнер для сервисов.
 type: docs
-weight: 3700
+weight: 3710
 url: /ru/net/aspose.svg.services/iserviceprovider/
 ---
 ## IServiceProvider interface
 
-Предоставляет неизменяемый контейнер для служб.
+Предоставляет неизменяемый контейнер для сервисов.
 
 ```csharp
 public interface IServiceProvider

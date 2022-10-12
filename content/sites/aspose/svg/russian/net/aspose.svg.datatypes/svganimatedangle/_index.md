@@ -1,14 +1,14 @@
 ---
 title: SVGAnimatedAngle
 second_title: Справочник по Aspose.SVG для .NET API
-description: Используется для атрибутов базового типа данных angle которые можно анимировать.
+description: Используется для атрибутов угла базового типа данных которые можно анимировать.
 type: docs
-weight: 100
+weight: 90
 url: /ru/net/aspose.svg.datatypes/svganimatedangle/
 ---
 ## SVGAnimatedAngle class
 
-Используется для атрибутов базового типа данных angle, которые можно анимировать.
+Используется для атрибутов угла базового типа данных, которые можно анимировать.
 
 ```csharp
 public class SVGAnimatedAngle : SVGAnimatedValue<SVGAngle>
@@ -26,8 +26,8 @@ public class SVGAnimatedAngle : SVGAnimatedValue<SVGAngle>
 | Имя | Описание |
 | --- | --- |
 | [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose)() | Освобождает неуправляемые и (необязательно) управляемые ресурсы. |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | Этот метод используется для получения объекта ECMAScriptType. |
-| override [ToString](../../aspose.svg.datatypes/svganimatedangle/tostring)() | ВозвращаетString, представляющий этот экземпляр. |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | Этот метод используется для получения объекта ECMAScript.Type . |
+| override [ToString](../../aspose.svg.datatypes/svganimatedangle/tostring)() | ВозвращаетString который представляет этот экземпляр. |
 
 ### Смотрите также
 

@@ -26,7 +26,7 @@ public T GetItem(ulong index)
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception) | 代码[`INDEX_SIZE_ERR`](../../../aspose.svg.dom/domexception/index_size_err)。 如果索引号大于或等于 numberOfItems，则引发。 |
+| [DOMException](../../../aspose.svg.dom/domexception) | 代码[`INDEX_SIZE_ERR`](../../../aspose.svg.dom/domexception/index_size_err). 如果索引号大于或等于 numberOfItems 则引发。 |
 
 ### 也可以看看
 

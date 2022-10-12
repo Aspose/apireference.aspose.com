@@ -8,7 +8,7 @@ url: /ru/net/aspose.svg.filters/svgfespotlightelement/pointsaty/
 ---
 ## SVGFESpotLightElement.PointsAtY property
 
-Соответствует атрибуту 'pointsAtY' данного элемента 'feSpotLight'.
+Соответствует атрибуту pointsAtY данного элемента feSpotLight.
 
 ```csharp
 public SVGAnimatedNumber PointsAtY { get; }
@@ -16,7 +16,7 @@ public SVGAnimatedNumber PointsAtY { get; }
 
 ### Стоимость имущества
 
-Атрибут 'pointsAtY' данного элемента 'feSpotLight'.
+Атрибут pointsAtY данного элемента feSpotLight.
 
 ### Смотрите также
 

@@ -1,14 +1,14 @@
 ---
 title: CreateTreeWalker
 second_title: Справочник по Aspose.SVG для .NET API
-description: Создать новый TreeWalker над поддеревом корнем которого является указанный узел .
+description: Создать новый TreeWalker поверх поддерева с корнем в указанном узле .
 type: docs
 weight: 940
 url: /ru/net/aspose.svg.dom/document/createtreewalker/
 ---
 ## CreateTreeWalker(Node) {#createtreewalker}
 
-Создать новый TreeWalker над поддеревом, корнем которого является указанный узел .
+Создать новый TreeWalker поверх поддерева с корнем в указанном узле .
 
 ```csharp
 public ITreeWalker CreateTreeWalker(Node root)
@@ -16,7 +16,7 @@ public ITreeWalker CreateTreeWalker(Node root)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| root | Node | узел, который будет служить корнем для TreeWalker. Флаги whatToShow и NodeFilter не учитываются при установке этого значения; любой тип узла будет принят в качестве корня. currentNode TreeWalker инициализируется этим узлом, независимо от того, виден он или нет. Корень функционирует как точка остановки для методов обхода , которые смотрят вверх в структуре документа, таких как parentNode и nextNode. Корень не должен быть нулевым. |
+| root | Node | node, который будет служить корнем для the TreeWalker. Флаги whatToShow и NodeFilter не учитываются при установке этого значения; любой тип узла будет принят в качестве корня. Текущий узел TreeWalker инициализируется этим узлом независимо от того, виден он или нет. Корень функционирует как точка остановки для методов traversal , которые смотрят вверх в структуре документа, таких как parentNode и nextNode. Корень must не должен быть нулевым. |
 
 ### Возвращаемое значение
 
@@ -26,7 +26,7 @@ public ITreeWalker CreateTreeWalker(Node root)
 
 | исключение | условие |
 | --- | --- |
-| [DOMException](../../domexception) | NOT_SUPPORTED_ERR: Возникает, если указанный корень имеет значение null. |
+| [DOMException](../../domexception) | NOT_SUPPORTED_ERR: Возникает, если указанный корень is null. |
 
 ### Смотрите также
 
@@ -40,7 +40,7 @@ public ITreeWalker CreateTreeWalker(Node root)
 
 ## CreateTreeWalker(Node, long) {#createtreewalker_1}
 
-Создать новый TreeWalker над поддеревом, корнем которого является указанный узел .
+Создать новый TreeWalker поверх поддерева с корнем в указанном узле .
 
 ```csharp
 public ITreeWalker CreateTreeWalker(Node root, long whatToShow)
@@ -48,8 +48,8 @@ public ITreeWalker CreateTreeWalker(Node root, long whatToShow)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| root | Node | узел, который будет служить корнем для TreeWalker. Флаги whatToShow и NodeFilter не учитываются при установке этого значения; любой тип узла будет принят в качестве корня. currentNode TreeWalker инициализируется этим узлом, независимо от того, виден он или нет. Корень функционирует как точка остановки для методов обхода , которые смотрят вверх в структуре документа, таких как parentNode и nextNode. Корень не должен быть нулевым. |
-| whatToShow | Int64 | флаг указывает, какие типы узлов могут появляться в логическом представлении дерева, представляемого обходчиком дерева. См. описание NodeFilter для набора возможных значений SHOW_. Эти флаги можно комбинировать с помощью ИЛИ. |
+| root | Node | node, который будет служить корнем для the TreeWalker. Флаги whatToShow и NodeFilter не учитываются при установке этого значения; любой тип узла будет принят в качестве корня. Текущий узел TreeWalker инициализируется этим узлом независимо от того, виден он или нет. Корень функционирует как точка остановки для методов traversal , которые смотрят вверх в структуре документа, таких как parentNode и nextNode. Корень must не должен быть нулевым. |
+| whatToShow | Int64 | флаг указывает, какие типы узлов могут появляться в логическом представлении дерева, представленного обходчиком дерева. См. описание NodeFilter для набора возможных значений SHOW_. Эти флаги можно комбинировать с помощью оператора ИЛИ. |
 
 ### Возвращаемое значение
 
@@ -59,7 +59,7 @@ public ITreeWalker CreateTreeWalker(Node root, long whatToShow)
 
 | исключение | условие |
 | --- | --- |
-| [DOMException](../../domexception) | NOT_SUPPORTED_ERR: Возникает, если указанный корень имеет значение null. |
+| [DOMException](../../domexception) | NOT_SUPPORTED_ERR: Возникает, если указанный корень is null. |
 
 ### Смотрите также
 
@@ -73,7 +73,7 @@ public ITreeWalker CreateTreeWalker(Node root, long whatToShow)
 
 ## CreateTreeWalker(Node, long, INodeFilter) {#createtreewalker_2}
 
-Создать новый TreeWalker над поддеревом, корнем которого является указанный узел .
+Создать новый TreeWalker поверх поддерева с корнем в указанном узле .
 
 ```csharp
 public ITreeWalker CreateTreeWalker(Node root, long whatToShow, INodeFilter filter)
@@ -81,9 +81,9 @@ public ITreeWalker CreateTreeWalker(Node root, long whatToShow, INodeFilter filt
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| root | Node | узел, который будет служить корнем для TreeWalker. Флаги whatToShow и NodeFilter не учитываются при установке этого значения; любой тип узла будет принят в качестве корня. currentNode TreeWalker инициализируется этим узлом, независимо от того, виден он или нет. Корень функционирует как точка остановки для методов обхода , которые смотрят вверх в структуре документа, таких как parentNode и nextNode. Корень не должен быть нулевым. |
-| whatToShow | Int64 | флаг указывает, какие типы узлов могут появляться в логическом представлении дерева, представляемого обходчиком дерева. См. описание NodeFilter для набора возможных значений SHOW_. Эти флаги можно комбинировать с помощью ИЛИ. |
-| filter | INodeFilter | NodeFilter для использования с этим TreeWalker, или null, чтобы указать отсутствие фильтра. |
+| root | Node | node, который будет служить корнем для the TreeWalker. Флаги whatToShow и NodeFilter не учитываются при установке этого значения; любой тип узла будет принят в качестве корня. Текущий узел TreeWalker инициализируется этим узлом независимо от того, виден он или нет. Корень функционирует как точка остановки для методов traversal , которые смотрят вверх в структуре документа, таких как parentNode и nextNode. Корень must не должен быть нулевым. |
+| whatToShow | Int64 | флаг указывает, какие типы узлов могут появляться в логическом представлении дерева, представленного обходчиком дерева. См. описание NodeFilter для набора возможных значений SHOW_. Эти флаги можно комбинировать с помощью оператора ИЛИ. |
+| filter | INodeFilter | NodeFilter для использования с this TreeWalker или null, чтобы указать отсутствие фильтра. |
 
 ### Возвращаемое значение
 
@@ -93,7 +93,7 @@ public ITreeWalker CreateTreeWalker(Node root, long whatToShow, INodeFilter filt
 
 | исключение | условие |
 | --- | --- |
-| [DOMException](../../domexception) | NOT_SUPPORTED_ERR: Возникает, если указанный корень имеет значение null. |
+| [DOMException](../../domexception) | NOT_SUPPORTED_ERR: Возникает, если указанный корень is null. |
 
 ### Смотрите также
 

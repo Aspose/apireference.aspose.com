@@ -1,14 +1,14 @@
 ---
 title: CSS_NUMBER
 second_title: Aspose.SVG for .NET API 参考
-description: 该值是一个简单的数字可以使用 getFloatValue 方法获取该值
+description: 该值是一个简单的数字该值可以通过getFloatValue方法获取
 type: docs
 weight: 290
 url: /zh/net/aspose.svg.dom.css/cssprimitivevalue/css_number/
 ---
 ## CSSPrimitiveValue.CSS_NUMBER field
 
-该值是一个简单的数字。可以使用 getFloatValue 方法获取该值。
+该值是一个简单的数字。该值可以通过getFloatValue方法获取。
 
 ```csharp
 public const ushort CSS_NUMBER;

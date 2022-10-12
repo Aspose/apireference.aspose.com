@@ -1,14 +1,14 @@
 ---
 title: Code
 second_title: Aspose.SVG for .NET API 参考
-description: 返回一个包含错误代码常量之一的值如果不匹配则返回 0出于历史原因使用此字段
+description: 返回一个包含错误代码常量之一的值如果不匹配则返回 0此字段用于历史原因
 type: docs
 weight: 20
 url: /zh/net/aspose.svg.dom/domexception/code/
 ---
 ## DOMException.Code property
 
-返回一个包含错误代码常量之一的值，如果不匹配，则返回 0。出于历史原因使用此字段。
+返回一个包含错误代码常量之一的值，如果不匹配，则返回 0。此字段用于历史原因。
 
 ```csharp
 public ushort Code { get; }

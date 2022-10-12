@@ -1,14 +1,14 @@
 ---
 title: CSS_VALUE_LIST
 second_title: Aspose.SVG for .NET API 参考
-description: 该值是一个 CSSValue 列表并且可以通过在 CSSValue 接口的这个实例上使用特定于绑定的强制转换方法来获得 CSSValueList 接口的一个实例
+description: 该值是一个 CSSValue 列表并且可以通过对这个 CSSValue 接口实例使用特定于绑定的强制转换方法来获得一个 CSSValueList 接口实例
 type: docs
 weight: 100
 url: /zh/net/aspose.svg.dom.css/cssvalue/css_value_list/
 ---
 ## CSSValue.CSS_VALUE_LIST field
 
-该值是一个 CSSValue 列表，并且可以通过在 CSSValue 接口的这个实例上使用特定于绑定的强制转换方法来获得 CSSValueList 接口的一个实例。
+该值是一个 CSSValue 列表，并且可以通过对这个 CSSValue 接口实例使用特定于绑定的强制转换方法来获得一个 CSSValueList 接口实例。
 
 ```csharp
 public const ushort CSS_VALUE_LIST;

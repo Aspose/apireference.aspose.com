@@ -1,14 +1,14 @@
 ---
 title: Keys
 second_title: Справочник по Aspose.SVG для .NET API
-description: Получает коллекцию содержащую ключи из коллекцииMutationObserverInitaspose.svg.dom.mutations/mutationobserverinit.
+description: Получает коллекцию содержащую ключи вMutationObserverInitaspose.svg.dom.mutations/mutationobserverinitколлекция.
 type: docs
 weight: 110
 url: /ru/net/aspose.svg.dom.mutations/mutationobserverinit/keys/
 ---
 ## MutationObserverInit.Keys property
 
-Получает коллекцию, содержащую ключи из коллекции[`MutationObserverInit`](../../mutationobserverinit).
+Получает коллекцию, содержащую ключи в[`MutationObserverInit`](../../mutationobserverinit)коллекция.
 
 ```csharp
 public ICollection<string> Keys { get; }

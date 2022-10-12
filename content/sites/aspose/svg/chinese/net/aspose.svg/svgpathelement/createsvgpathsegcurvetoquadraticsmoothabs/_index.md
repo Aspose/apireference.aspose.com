@@ -1,14 +1,14 @@
 ---
 title: CreateSVGPathSegCurvetoQuadraticSmoothAbs
 second_title: Aspose.SVG for .NET API 参考
-description: 返回一个独立的无父对象的 SVGPathSegCurvetoQuadraticSmoothAbs 对象
+description: 返回一个独立的无父 SVGPathSegCurvetoQuadraticSmoothAbs 对象
 type: docs
 weight: 120
 url: /zh/net/aspose.svg/svgpathelement/createsvgpathsegcurvetoquadraticsmoothabs/
 ---
 ## SVGPathElement.CreateSVGPathSegCurvetoQuadraticSmoothAbs method
 
-返回一个独立的、无父对象的 SVGPathSegCurvetoQuadraticSmoothAbs 对象。
+返回一个独立的无父 SVGPathSegCurvetoQuadraticSmoothAbs 对象。
 
 ```csharp
 public SVGPathSegCurvetoQuadraticSmoothAbs CreateSVGPathSegCurvetoQuadraticSmoothAbs(float x, 
@@ -17,12 +17,12 @@ public SVGPathSegCurvetoQuadraticSmoothAbs CreateSVGPathSegCurvetoQuadraticSmoot
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| x | Single | 该路径段终点的绝对 X 坐标。 |
+| x | Single | 此路径段终点的绝对 X 坐标。 |
 | y | Single | 此路径段终点的绝对 Y 坐标。 |
 
 ### 返回值
 
-一个独立的无父 SVGPathSegCurvetoQuadraticSmoothAbs 对象。
+一个独立的、无父对象的 SVGPathSegCurvetoQuadraticSmoothAbs 对象。
 
 ### 也可以看看
 

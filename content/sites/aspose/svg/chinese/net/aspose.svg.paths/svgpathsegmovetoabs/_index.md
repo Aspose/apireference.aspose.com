@@ -1,14 +1,14 @@
 ---
 title: SVGPathSegMovetoAbs
 second_title: Aspose.SVG for .NET API 参考
-description: SVGPathSegMovetoAbs 接口对应于绝对移动M 路径数据命令
+description: SVGPathSegMovetoAbs 接口对应于绝对移动M路径数据命令
 type: docs
-weight: 2640
+weight: 2650
 url: /zh/net/aspose.svg.paths/svgpathsegmovetoabs/
 ---
 ## SVGPathSegMovetoAbs class
 
-SVGPathSegMovetoAbs 接口对应于“绝对移动”(M) 路径数据命令。
+SVGPathSegMovetoAbs 接口对应于“绝对移动”（M）路径数据命令。
 
 ```csharp
 public class SVGPathSegMovetoAbs : SVGPathSeg
@@ -21,14 +21,14 @@ public class SVGPathSegMovetoAbs : SVGPathSeg
 | [PathSegType](../../aspose.svg.paths/svgpathseg/pathsegtype) { get; } | 由在此接口上定义的常量之一指定的路径段的类型。 |
 | [PathSegTypeAsLetter](../../aspose.svg.paths/svgpathseg/pathsegtypeasletter) { get; } | 路径段的类型，由对应的单字符命令名指定。 |
 | [X](../../aspose.svg.paths/svgpathsegmovetoabs/x) { get; set; } | 该路径段终点的绝对 X 坐标。 |
-| [Y](../../aspose.svg.paths/svgpathsegmovetoabs/y) { get; set; } | 此路径段终点的绝对 Y 坐标。 |
+| [Y](../../aspose.svg.paths/svgpathsegmovetoabs/y) { get; set; } | 该路径段终点的绝对 Y 坐标。 |
 
 ## 方法
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose)() | 释放非托管和（可选）托管资源。 |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | 此方法用于检索 ECMAScript 对象Type。 |
+| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose)() | 释放非托管和 - 可选 - 托管资源。 |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | 此方法用于检索 ECMAScript 对象Type . |
 
 ### 也可以看看
 

@@ -16,13 +16,13 @@ public void SetMatrix(SVGMatrix matrix)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| matrix | SVGMatrix | Новая матрица для преобразования. |
+| matrix | SVGMatrix | Новая матрица трансформации. |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception) | Код[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err). Возникает при попытке изменить значение атрибута только для чтения. |
+| [DOMException](../../../aspose.svg.dom/domexception) | код[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err) . Возникает при попытке изменить значение атрибута только для чтения. |
 
 ### Смотрите также
 

@@ -22,7 +22,7 @@ public float X { get; set; }
 
 | исключение | условие |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception) | Код[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err). Возникает, если объект SVGPoint доступен только для чтения или соответствует атрибуту DOM, который доступен только для чтения. |
+| [DOMException](../../../aspose.svg.dom/domexception) | код[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err) . Возникает, если объект SVGPoint доступен только для чтения или соответствует атрибуту DOM, который доступен только для чтения. |
 
 ### Смотрите также
 

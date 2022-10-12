@@ -1,14 +1,14 @@
 ---
 title: X
 second_title: Справочник по Aspose.SVG для .NET API
-description: Соответствует атрибуту x данного элемента image.
+description: Соответствует атрибуту x данного элемента изображения.
 type: docs
 weight: 50
 url: /ru/net/aspose.svg/svgimageelement/x/
 ---
 ## SVGImageElement.X property
 
-Соответствует атрибуту 'x' данного элемента 'image'.
+Соответствует атрибуту «x» данного элемента «изображения».
 
 ```csharp
 public SVGAnimatedLength X { get; }
@@ -16,7 +16,7 @@ public SVGAnimatedLength X { get; }
 
 ### Стоимость имущества
 
-Соответствует атрибуту 'x' данного элемента 'image'.
+Соответствует атрибуту «x» данного элемента «изображения».
 
 ### Смотрите также
 

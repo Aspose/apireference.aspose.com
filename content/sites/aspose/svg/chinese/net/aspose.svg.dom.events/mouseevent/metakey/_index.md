@@ -1,14 +1,14 @@
 ---
 title: MetaKey
 second_title: Aspose.SVG for .NET API 参考
-description: 请参阅 metaKey 属性
+description: 参考metaKey属性
 type: docs
 weight: 80
 url: /zh/net/aspose.svg.dom.events/mouseevent/metakey/
 ---
 ## MouseEvent.MetaKey property
 
-请参阅 metaKey 属性。
+参考metaKey属性
 
 ```csharp
 public bool MetaKey { get; }
@@ -16,7 +16,7 @@ public bool MetaKey { get; }
 
 ### 适当的价值
 
-` true` if [元键]；否则，` false` 。
+`真的`如果 [元键];否则，`错误的` .
 
 ### 也可以看看
 

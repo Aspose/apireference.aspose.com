@@ -20,7 +20,7 @@ public ShadowRoot AttachShadow(ShadowRootMode mode)
 
 ### Возвращаемое значение
 
-Created[`ShadowRoot`](../../shadowroot).
+Созданный[`ShadowRoot`](../../shadowroot).
 
 ### Исключения
 

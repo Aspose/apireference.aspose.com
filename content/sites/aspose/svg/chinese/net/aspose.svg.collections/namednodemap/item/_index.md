@@ -1,14 +1,14 @@
 ---
 title: Item
 second_title: Aspose.SVG for .NET API 参考
-description: 返回地图中的第 index 个项目如果 index 大于或等于此映射中的节点数则返回 null
+description: 返回地图中的第 index 个项目如果 index 大于或等于此映射中的节点数则返回 null.
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.collections/namednodemap/item/
 ---
 ## NamedNodeMap indexer (1 of 2)
 
-返回地图中的第 index 个项目。如果 index 大于或等于此映射中的节点数，则返回 null。
+返回地图中的第 index 个项目。如果 index 大于或等于此映射中的节点数，则返回 null.
 
 ```csharp
 public Attr this[int index] { get; }
@@ -16,7 +16,7 @@ public Attr this[int index] { get; }
 
 | 范围 | 描述 |
 | --- | --- |
-| index | 索引。 |
+| index | 指数。 |
 
 ### 返回值
 
@@ -24,7 +24,7 @@ public Attr this[int index] { get; }
 
 ### 适当的价值
 
-[`Attr`](../../../aspose.svg.dom/attr)。
+的[`Attr`](../../../aspose.svg.dom/attr) .
 
 ### 也可以看看
 
@@ -37,7 +37,7 @@ public Attr this[int index] { get; }
 
 ## NamedNodeMap indexer (2 of 2)
 
-获取具有指定名称的[`Attr`](../../../aspose.svg.dom/attr)。
+获取[`Attr`](../../../aspose.svg.dom/attr)具有指定的名称。
 
 ```csharp
 public Attr this[string name] { get; }
@@ -53,7 +53,7 @@ public Attr this[string name] { get; }
 
 ### 适当的价值
 
-[`Attr`](../../../aspose.svg.dom/attr)。
+的[`Attr`](../../../aspose.svg.dom/attr) .
 
 ### 也可以看看
 

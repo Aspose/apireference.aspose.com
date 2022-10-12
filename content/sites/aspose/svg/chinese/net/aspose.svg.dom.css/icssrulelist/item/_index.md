@@ -1,14 +1,14 @@
 ---
 title: Item
 second_title: Aspose.SVG for .NET API 参考
-description: 用于通过 item 方法检索 CSS 规则http//www.w3.org/TR/DOM-Level-2-Style/css.htmlCSS-CSSRuleList 此集合中的顺序表示 CSS 样式表中规则的顺序如果 index 大于或等于列表中的规则数则返回 null
+description: 用于通过 item 方法检索 CSS 规则 http//www.w3.org/TR/DOMLevel2Style/css.htmlCSSCSSRuleList此集合中的顺序表示 CSS 样式表中规则的顺序如果 index 大于或等于列表中的规则数则返回 null.
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.dom.css/icssrulelist/item/
 ---
 ## ICSSRuleList indexer
 
-用于通过 item() 方法检索 CSS 规则（http://www.w3.org/TR/DOM-Level-2-Style/css.html#CSS-CSSRuleList ）。此集合中的顺序表示 CSS 样式表中规则的顺序。如果 index 大于或等于列表中的规则数，则返回 null。
+用于通过 item() 方法检索 CSS 规则 (http://www.w3.org/TR/DOM-Level-2-Style/css.html#CSS-CSSRuleList)。此集合中的顺序表示 CSS 样式表中规则的顺序。如果 index 大于或等于列表中的规则数，则返回 null.
 
 ```csharp
 public ICSSRule this[int index] { get; }
@@ -24,7 +24,7 @@ CSS 规则实例。
 
 ### 适当的价值
 
-[`ICSSRule`](../../icssrule)。
+的[`ICSSRule`](../../icssrule) .
 
 ### 也可以看看
 

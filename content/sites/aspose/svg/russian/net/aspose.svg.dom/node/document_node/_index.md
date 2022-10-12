@@ -1,14 +1,14 @@
 ---
 title: DOCUMENT_NODE
 second_title: Справочник по Aspose.SVG для .NET API
-description: Узел документа
+description: Документ node
 type: docs
 weight: 360
 url: /ru/net/aspose.svg.dom/node/document_node/
 ---
 ## Node.DOCUMENT_NODE field
 
-Узел документа
+Документ node
 
 ```csharp
 public const ushort DOCUMENT_NODE;

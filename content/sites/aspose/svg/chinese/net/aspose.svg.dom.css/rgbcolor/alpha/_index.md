@@ -1,14 +1,14 @@
 ---
 title: Alpha
 second_title: Aspose.SVG for .NET API 参考
-description: 此属性用于 RGB 颜色的 alpha 值
+description: 这个属性用于RGB颜色的alpha值
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.dom.css/rgbcolor/alpha/
 ---
 ## RGBColor.Alpha property
 
-此属性用于 RGB 颜色的 alpha 值。
+这个属性用于RGB颜色的alpha值。
 
 ```csharp
 public CSSPrimitiveValue Alpha { get; }

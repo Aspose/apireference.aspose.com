@@ -1,14 +1,14 @@
 ---
 title: Flush
 second_title: Aspose.SVG for .NET API 参考
-description: 清除包装输出流的所有缓冲区并导致将任何缓冲数据写入底层设备
+description: 清除包装输出流的所有缓冲区并导致任何缓冲数据写入底层设备
 type: docs
 weight: 90
 url: /zh/net/aspose.svg.io/outputstream/flush/
 ---
 ## OutputStream.Flush method
 
-清除包装输出流的所有缓冲区，并导致将任何缓冲数据写入底层设备。
+清除包装输出流的所有缓冲区，并导致任何缓冲数据写入底层设备。
 
 ```csharp
 public override void Flush()

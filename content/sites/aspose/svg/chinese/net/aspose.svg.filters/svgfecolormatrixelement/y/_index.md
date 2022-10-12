@@ -1,14 +1,14 @@
 ---
 title: Y
 second_title: Aspose.SVG for .NET API 参考
-description: 对应于给定 filter 元素上的属性 y
+description: 对应于给定过滤器元素上的属性y
 type: docs
 weight: 80
 url: /zh/net/aspose.svg.filters/svgfecolormatrixelement/y/
 ---
 ## SVGFEColorMatrixElement.Y property
 
-对应于给定 'filter' 元素上的属性 'y'。
+对应于给定“过滤器”元素上的属性“y”。
 
 ```csharp
 public SVGAnimatedLength Y { get; }

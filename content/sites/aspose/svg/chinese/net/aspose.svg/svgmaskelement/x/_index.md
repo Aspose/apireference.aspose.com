@@ -1,14 +1,14 @@
 ---
 title: X
 second_title: Aspose.SVG for .NET API 参考
-description: 对应于给定 mask 元素的属性 x采用 SVGUnitTypes 中定义的常量之一
+description: 对应于给定 mask 元素的属性 x采用 SVGUnitTypes. 中定义的常量之一
 type: docs
 weight: 80
 url: /zh/net/aspose.svg/svgmaskelement/x/
 ---
 ## SVGMaskElement.X property
 
-对应于给定 'mask' 元素的属性 'x'。采用 SVGUnitTypes 中定义的常量之一。
+对应于给定 'mask' 元素的属性 'x'。采用 SVGUnitTypes. 中定义的常量之一
 
 ```csharp
 public SVGAnimatedLength X { get; }

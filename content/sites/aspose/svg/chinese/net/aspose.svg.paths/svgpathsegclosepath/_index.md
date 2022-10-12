@@ -1,14 +1,14 @@
 ---
 title: SVGPathSegClosePath
 second_title: Aspose.SVG for .NET API 参考
-description: 他的 SVGPathSegClosePath 接口对应一个closepathz路径数据命令
+description: 他的SVGPathSegClosePath接口对应一个closepathz路径数据命令
 type: docs
-weight: 2480
+weight: 2490
 url: /zh/net/aspose.svg.paths/svgpathsegclosepath/
 ---
 ## SVGPathSegClosePath class
 
-他的 SVGPathSegClosePath 接口对应一个“closepath”（z）路径数据命令。
+他的SVGPathSegClosePath接口对应一个“closepath”(z)路径数据命令。
 
 ```csharp
 public class SVGPathSegClosePath : SVGPathSeg
@@ -25,8 +25,8 @@ public class SVGPathSegClosePath : SVGPathSeg
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose)() | 释放非托管和（可选）托管资源。 |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | 此方法用于检索 ECMAScript 对象Type。 |
+| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose)() | 释放非托管和 - 可选 - 托管资源。 |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | 此方法用于检索 ECMAScript 对象Type . |
 
 ### 也可以看看
 

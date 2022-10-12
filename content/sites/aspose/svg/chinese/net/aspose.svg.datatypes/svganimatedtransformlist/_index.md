@@ -1,14 +1,14 @@
 ---
 title: SVGAnimatedTransformList
 second_title: Aspose.SVG for .NET API 参考
-description: 用于指定一组转换的各种属性例如可用于许多 SVG 元素并且可以动画的transform属性
+description: 用于指定一组转换的各种属性例如可用于许多 SVG 元素的transform属性并且可以设置动画
 type: docs
-weight: 210
+weight: 200
 url: /zh/net/aspose.svg.datatypes/svganimatedtransformlist/
 ---
 ## SVGAnimatedTransformList class
 
-用于指定一组转换的各种属性，例如可用于许多 SVG 元素并且可以动画的“transform”属性。
+用于指定一组转换的各种属性，例如可用于许多 SVG 元素的“transform”属性，并且可以设置动画。
 
 ```csharp
 public class SVGAnimatedTransformList : SVGAnimatedValue<SVGTransformList>
@@ -25,9 +25,9 @@ public class SVGAnimatedTransformList : SVGAnimatedValue<SVGTransformList>
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose)() | 释放非托管和（可选）托管资源。 |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | 此方法用于检索 ECMAScript 对象Type。 |
-| override [ToString](../../aspose.svg.datatypes/svganimatedtransformlist/tostring)() | 返回代表此实例的String。 |
+| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose)() | 释放非托管和 - 可选 - 托管资源。 |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | 此方法用于检索 ECMAScript 对象Type . |
+| override [ToString](../../aspose.svg.datatypes/svganimatedtransformlist/tostring)() | 返回一个String代表这个实例。 |
 
 ### 也可以看看
 

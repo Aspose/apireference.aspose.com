@@ -1,14 +1,14 @@
 ---
 title: SVGStringList
 second_title: Справочник по Aspose.SVG для .NET API
-description: Инициализирует новый экземпляр классаSVGStringListaspose.svg.datatypes/svgstringlist.
+description: Инициализирует новый экземплярSVGStringListaspose.svg.datatypes/svgstringlist класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.datatypes/svgstringlist/svgstringlist/
 ---
 ## SVGStringList() {#constructor}
 
-Инициализирует новый экземпляр класса[`SVGStringList`](../../svgstringlist).
+Инициализирует новый экземпляр[`SVGStringList`](../../svgstringlist) класс.
 
 ```csharp
 public SVGStringList()
@@ -24,7 +24,7 @@ public SVGStringList()
 
 ## SVGStringList(IEnumerable&lt;string&gt;) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`SVGStringList`](../../svgstringlist).
+Инициализирует новый экземпляр[`SVGStringList`](../../svgstringlist) класс.
 
 ```csharp
 public SVGStringList(IEnumerable<string> enumerable)
@@ -32,7 +32,7 @@ public SVGStringList(IEnumerable<string> enumerable)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| enumerable | IEnumerable`1 | Перечисляемое. |
+| enumerable | IEnumerable`1 | Перечислимое. |
 
 ### Смотрите также
 

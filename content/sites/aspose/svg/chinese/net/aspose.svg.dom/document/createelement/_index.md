@@ -1,14 +1,14 @@
 ---
 title: CreateElement
 second_title: Aspose.SVG for .NET API 参考
-description: 创建指定类型的元素请注意返回的实例实现了 Element 接口因此可以直接在返回的对象上指定属性
+description: 创建指定类型的元素注意返回的实例实现了Element接口所以可以直接在返回的对象上指定属性
 type: docs
 weight: 850
 url: /zh/net/aspose.svg.dom/document/createelement/
 ---
 ## Document.CreateElement method
 
-创建指定类型的元素。请注意，返回的实例实现了 Element 接口，因此可以直接在返回的对象上指定属性。
+创建指定类型的元素。注意返回的实例实现了Element接口，所以可以直接在返回的对象上指定属性。
 
 ```csharp
 public Element CreateElement(string localName)
@@ -20,7 +20,7 @@ public Element CreateElement(string localName)
 
 ### 返回值
 
-[`Element`](../../element)。
+的[`Element`](../../element) .
 
 ### 也可以看看
 

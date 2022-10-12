@@ -1,14 +1,14 @@
 ---
 title: Render
 second_title: Aspose.SVG for .NET API 参考
-description: 定义将多个SVGDocumentaspose.svg/svgdocuments 渲染到特定IDeviceaspose.svg.rendering/idevice的方法 在没有任何网络操作加载资源活动定时器动画任务或指定超时时间后将执行渲染
+description: 定义渲染多个的方法SVGDocumentaspose.svg/svgdocument变成具体的IDeviceaspose.svg.rendering/idevice . 一旦没有任何用于加载资源活动定时器动画任务或指定超时的网络操作将执行渲染
 type: docs
 weight: 20
 url: /zh/net/aspose.svg.rendering/svgrenderer/render/
 ---
 ## SvgRenderer.Render method
 
-定义将多个[`SVGDocument`](../../../aspose.svg/svgdocument)s 渲染到特定[`IDevice`](../../idevice)的方法。 在没有任何网络操作加载资源、活动定时器、动画任务或指定超时时间后，将执行渲染。
+定义渲染多个的方法[`SVGDocument`](../../../aspose.svg/svgdocument)变成具体的[`IDevice`](../../idevice) . 一旦没有任何用于加载资源、活动定时器、动画任务或指定超时的网络操作，将执行渲染。
 
 ```csharp
 public override void Render(IDevice device, TimeSpan timeout, params SVGDocument[] documents)
@@ -17,7 +17,7 @@ public override void Render(IDevice device, TimeSpan timeout, params SVGDocument
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | device | IDevice | 输出设备。 |
-| timeout | TimeSpan | TimeSpan表示等待的毫秒数，或TimeSpan表示-1 毫秒无限期等待。 |
+| timeout | TimeSpan | 一个TimeSpan表示等待的毫秒数，或TimeSpan表示 -1 毫秒无限期等待。 |
 | documents | SVGDocument[] | 要呈现的文档。 |
 
 ### 也可以看看

@@ -1,14 +1,14 @@
 ---
 title: SetRotate
 second_title: Справочник по Aspose.SVG для .NET API
-description: Устанавливает тип преобразования SVG_TRANSFORM_ROTATE с параметром angle определяющим угол поворота и параметрами cx и cy определяющими необязательный центр вращения.
+description: Устанавливает тип преобразования на SVG_TRANSFORM_ROTATE с параметром angle определяющим угол поворота и параметрами cx и cy определяющими необязательный центр вращения.
 type: docs
 weight: 50
 url: /ru/net/aspose.svg.datatypes/svgtransform/setrotate/
 ---
 ## SVGTransform.SetRotate method
 
-Устанавливает тип преобразования SVG_TRANSFORM_ROTATE, с параметром angle, определяющим угол поворота, и параметрами cx и cy, определяющими необязательный центр вращения.
+Устанавливает тип преобразования на SVG_TRANSFORM_ROTATE, с параметром angle, определяющим угол поворота, и параметрами cx и cy, определяющими необязательный центр вращения.
 
 ```csharp
 public void SetRotate(float angle, float cx, float cy)
@@ -18,13 +18,13 @@ public void SetRotate(float angle, float cx, float cy)
 | --- | --- | --- |
 | angle | Single | Угол поворота. |
 | cx | Single | Координата x центра вращения. |
-| cy | Single | Y-координата центра вращения. |
+| cy | Single | Координата Y центра вращения. |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception) | Код[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err). Возникает при попытке изменить значение атрибута только для чтения. |
+| [DOMException](../../../aspose.svg.dom/domexception) | код[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err) . Возникает при попытке изменить значение атрибута только для чтения. |
 
 ### Смотрите также
 

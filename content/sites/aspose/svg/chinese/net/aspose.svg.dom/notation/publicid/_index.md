@@ -1,14 +1,14 @@
 ---
 title: PublicId
 second_title: Aspose.SVG for .NET API 参考
-description: 此表示法的公共标识符如果未指定公共标识符则为 null
+description: 此表示法的公共标识符如果未指定公共标识符则为 null.
 type: docs
 weight: 30
 url: /zh/net/aspose.svg.dom/notation/publicid/
 ---
 ## Notation.PublicId property
 
-此表示法的公共标识符。如果未指定公共标识符，则为 null。
+此表示法的公共标识符。如果未指定公共标识符，则为 null.
 
 ```csharp
 public string PublicId { get; }

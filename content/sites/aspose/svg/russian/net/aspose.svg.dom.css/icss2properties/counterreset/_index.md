@@ -1,7 +1,7 @@
 ---
 title: CounterReset
 second_title: Справочник по Aspose.SVG для .NET API
-description: См. определение свойства counter-reset в CSS2.
+description: См. определение свойства counterreset в CSS2.
 type: docs
 weight: 370
 url: /ru/net/aspose.svg.dom.css/icss2properties/counterreset/

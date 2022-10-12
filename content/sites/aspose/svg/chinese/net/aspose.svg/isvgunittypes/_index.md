@@ -3,7 +3,7 @@ title: ISVGUnitTypes
 second_title: Aspose.SVG for .NET API 参考
 description: SVGUnitTypes 接口定义了一组常用的常量是 SVGGradientElementSVGPatternElementSVGClipPathElementSVGMaskElement 和 SVGFilterElement 使用的基本接口
 type: docs
-weight: 2040
+weight: 2050
 url: /zh/net/aspose.svg/isvgunittypes/
 ---
 ## ISVGUnitTypes interface

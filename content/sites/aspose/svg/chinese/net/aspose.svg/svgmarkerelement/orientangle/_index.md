@@ -16,7 +16,7 @@ public SVGAnimatedAngle OrientAngle { get; }
 
 ### 适当的价值
 
-给定“标记”元素的“方向”属性。
+给定“marker”元素的属性“orient”。
 
 ### 也可以看看
 

@@ -8,7 +8,7 @@ url: /ru/net/aspose.svg.filters/svgfemergenodeelement/in1/
 ---
 ## SVGFEMergeNodeElement.In1 property
 
-Соответствует атрибуту 'in' данного элемента 'feMergeNode'.
+Соответствует атрибуту "in" данного элемента "feMergeNode".
 
 ```csharp
 public SVGAnimatedString In1 { get; }

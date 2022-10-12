@@ -1,14 +1,14 @@
 ---
 title: CtrlKey
 second_title: Aspose.SVG for .NET API 参考
-description: 如果 Control控制键修饰符处于活动状态则为 true 该属性的未初始化值必须为假
+description: 如果 Control控制键修饰符处于活动状态则为 true 此属性的未初始化值必须为 false
 type: docs
 weight: 40
 url: /zh/net/aspose.svg.dom.events/keyboardevent/ctrlkey/
 ---
 ## KeyboardEvent.CtrlKey property
 
-如果 Control（控制）键修饰符处于活动状态，则为 true。 该属性的未初始化值必须为假。
+如果 Control（控制）键修饰符处于活动状态，则为 true。 此属性的未初始化值必须为 false。
 
 ```csharp
 public bool CtrlKey { get; }
@@ -16,7 +16,7 @@ public bool CtrlKey { get; }
 
 ### 适当的价值
 
-` true` 如果控制；否则，` false` 。
+`真的`如果控制；否则，`错误的` .
 
 ### 也可以看看
 

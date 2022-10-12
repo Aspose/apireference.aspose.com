@@ -1,14 +1,14 @@
 ---
 title: SetOrientToAuto
 second_title: Справочник по Aspose.SVG для .NET API
-description: Устанавливает значение атрибута ориентация в авто.
+description: Устанавливает значение атрибута ориентация на авто.
 type: docs
 weight: 110
 url: /ru/net/aspose.svg/svgmarkerelement/setorienttoauto/
 ---
 ## SVGMarkerElement.SetOrientToAuto method
 
-Устанавливает значение атрибута 'ориентация' в 'авто'.
+Устанавливает значение атрибута 'ориентация' на 'авто'.
 
 ```csharp
 public void SetOrientToAuto()
@@ -18,7 +18,7 @@ public void SetOrientToAuto()
 
 | исключение | условие |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception) | Код[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err). Возникает при попытке изменить значение атрибута только для чтения. |
+| [DOMException](../../../aspose.svg.dom/domexception) | код[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err) . Возникает при попытке изменить значение атрибута только для чтения. |
 
 ### Смотрите также
 

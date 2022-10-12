@@ -3,7 +3,7 @@ title: NameValueHeaderValue
 second_title: Aspose.SVG for .NET API 参考
 description: 表示描述标头值的名称/值对
 type: docs
-weight: 2240
+weight: 2250
 url: /zh/net/aspose.svg.net.headers/namevalueheadervalue/
 ---
 ## NameValueHeaderValue class
@@ -25,7 +25,7 @@ public class NameValueHeaderValue
 
 | 姓名 | 描述 |
 | --- | --- |
-| override [ToString](../../aspose.svg.net.headers/namevalueheadervalue/tostring)() | 返回代表此实例的String。 |
+| override [ToString](../../aspose.svg.net.headers/namevalueheadervalue/tostring)() | 返回一个String代表这个实例。 |
 
 ### 也可以看看
 

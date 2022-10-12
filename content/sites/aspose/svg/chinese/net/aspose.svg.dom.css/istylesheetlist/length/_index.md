@@ -1,14 +1,14 @@
 ---
 title: Length
 second_title: Aspose.SVG for .NET API 参考
-description: 列表中样式表的数量有效子样式表索引的范围是 0 到 length-1 含
+description: 列表中样式表的数量有效子样式表索引的范围是 0 到 length1含
 type: docs
 weight: 20
 url: /zh/net/aspose.svg.dom.css/istylesheetlist/length/
 ---
 ## IStyleSheetList.Length property
 
-列表中样式表的数量。有效子样式表索引的范围是 0 到 length-1 （含）。
+列表中样式表的数量。有效子样式表索引的范围是 0 到 length-1（含）。
 
 ```csharp
 public int Length { get; }

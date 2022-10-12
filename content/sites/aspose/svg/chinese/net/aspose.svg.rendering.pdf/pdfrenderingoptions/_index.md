@@ -1,14 +1,14 @@
 ---
 title: PdfRenderingOptions
 second_title: Aspose.SVG for .NET API 参考
-description: 表示PdfDevice./pdfdevice的渲染选项
+description: 表示渲染选项PdfDevice./pdfdevice .
 type: docs
-weight: 2920
+weight: 2930
 url: /zh/net/aspose.svg.rendering.pdf/pdfrenderingoptions/
 ---
 ## PdfRenderingOptions class
 
-表示[`PdfDevice`](../pdfdevice)的渲染选项。
+表示渲染选项[`PdfDevice`](../pdfdevice) .
 
 ```csharp
 public class PdfRenderingOptions : RenderingOptions
@@ -18,20 +18,20 @@ public class PdfRenderingOptions : RenderingOptions
 
 | 姓名 | 描述 |
 | --- | --- |
-| [PdfRenderingOptions](pdfrenderingoptions)() | 初始化[`PdfRenderingOptions`](../pdfrenderingoptions)类的新实例。 |
+| [PdfRenderingOptions](pdfrenderingoptions)() | 初始化[`PdfRenderingOptions`](../pdfrenderingoptions)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [BackgroundColor](../../aspose.svg.rendering/renderingoptions/backgroundcolor) { get; set; } | 获取或设置Color将填充每个页面的背景。默认值为Transparent。 |
-| [Css](../../aspose.svg.rendering/renderingoptions/css) { get; } | 获取一个[`CssOptions`](../../aspose.svg.rendering/cssoptions)对象，用于配置 css 属性处理。 |
+| [BackgroundColor](../../aspose.svg.rendering/renderingoptions/backgroundcolor) { get; set; } | 获取或设置Color这将填充每个页面的背景。默认值为Transparent . |
+| [Css](../../aspose.svg.rendering/renderingoptions/css) { get; } | 得到一个[`CssOptions`](../../aspose.svg.rendering/cssoptions)用于配置css属性处理的对象。 |
 | [DocumentInfo](../../aspose.svg.rendering.pdf/pdfrenderingoptions/documentinfo) { get; } | 包含有关输出 PDF 文档的信息。 |
 | [Encryption](../../aspose.svg.rendering.pdf/pdfrenderingoptions/encryption) { get; set; } | 获取或设置加密细节。如果未设置，则不会执行加密。 |
-| virtual [HorizontalResolution](../../aspose.svg.rendering/renderingoptions/horizontalresolution) { get; set; } | 设置或获取内部（在过滤器处理期间使用）图像的水平分辨率，以每英寸像素为单位。默认情况下，此属性为 300 dpi。 |
+| virtual [HorizontalResolution](../../aspose.svg.rendering/renderingoptions/horizontalresolution) { get; set; } | 设置或获取内部（在过滤器处理期间使用）图像的水平分辨率，以每英寸像素为单位。默认情况下，此属性为 300 dpi. |
 | [JpegQuality](../../aspose.svg.rendering.pdf/pdfrenderingoptions/jpegquality) { get; set; } | 指定图像的 JPEG 压缩质量（如果使用 JPEG 压缩）。 默认为 95。 |
 | [PageSetup](../../aspose.svg.rendering/renderingoptions/pagesetup) { get; } | 获取一个页面设置对象，用于配置输出页面集。 |
-| virtual [VerticalResolution](../../aspose.svg.rendering/renderingoptions/verticalresolution) { get; set; } | 设置或获取内部（在过滤器处理期间使用）图像的垂直分辨率，以每英寸像素为单位。默认情况下，此属性为 300 dpi。 |
+| virtual [VerticalResolution](../../aspose.svg.rendering/renderingoptions/verticalresolution) { get; set; } | 设置或获取内部（在过滤器处理期间使用）图像的垂直分辨率，以每英寸像素为单位。默认情况下，此属性为 300 dpi. |
 
 ### 也可以看看
 

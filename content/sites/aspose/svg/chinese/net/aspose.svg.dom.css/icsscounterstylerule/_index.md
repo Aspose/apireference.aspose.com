@@ -1,9 +1,9 @@
 ---
 title: ICSSCounterStyleRule
 second_title: Aspose.SVG for .NET API 参考
-description: counter-style 规则允许作者定义自定义计数器样式
+description: counterstyle 规则允许作者定义自定义计数器样式
 type: docs
-weight: 550
+weight: 540
 url: /zh/net/aspose.svg.dom.css/icsscounterstylerule/
 ---
 ## ICSSCounterStyleRule interface

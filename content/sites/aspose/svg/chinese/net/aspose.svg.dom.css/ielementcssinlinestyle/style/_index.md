@@ -1,14 +1,14 @@
 ---
 title: Style
 second_title: Aspose.SVG for .NET API 参考
-description: 表示 表示允许作者直接将样式信息应用于特定元素的样式属性
+description: 表示一个样式属性允许作者直接将样式信息应用到特定元素
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.dom.css/ielementcssinlinestyle/style/
 ---
 ## IElementCSSInlineStyle.Style property
 
-表示 表示允许作者直接将样式信息应用于特定元素的样式属性。
+表示一个样式属性，允许作者直接将样式信息应用到特定元素。
 
 ```csharp
 public ICSSStyleDeclaration Style { get; }

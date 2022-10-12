@@ -1,14 +1,14 @@
 ---
 title: OutputStreamContext
 second_title: Справочник по Aspose.SVG для .NET API
-description: Инициализирует новый экземпляр классаOutputStreamContextaspose.svg.io/outputstreamcontext.
+description: Инициализирует новый экземплярOutputStreamContextaspose.svg.io/outputstreamcontext класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.io/outputstreamcontext/outputstreamcontext/
 ---
 ## OutputStreamContext constructor
 
-Инициализирует новый экземпляр класса[`OutputStreamContext`](../../outputstreamcontext).
+Инициализирует новый экземпляр[`OutputStreamContext`](../../outputstreamcontext) класс.
 
 ```csharp
 public OutputStreamContext(string uri)

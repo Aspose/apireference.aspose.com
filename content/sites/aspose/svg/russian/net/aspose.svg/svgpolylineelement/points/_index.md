@@ -1,14 +1,14 @@
 ---
 title: Points
 second_title: Справочник по Aspose.SVG для .NET API
-description: Предоставляет доступ к базовому т.е. статическому содержимому атрибута points.
+description: Предоставляет доступ к базовому т.е. статическому содержимому атрибута точки.
 type: docs
 weight: 20
 url: /ru/net/aspose.svg/svgpolylineelement/points/
 ---
 ## SVGPolylineElement.Points property
 
-Предоставляет доступ к базовому (т.е. статическому) содержимому атрибута 'points'.
+Предоставляет доступ к базовому (т.е. статическому) содержимому атрибута «точки».
 
 ```csharp
 public SVGPointList Points { get; }
@@ -16,7 +16,7 @@ public SVGPointList Points { get; }
 
 ### Стоимость имущества
 
-Содержимое атрибута 'points'
+Содержимое атрибута «точки»
 
 ### Смотрите также
 

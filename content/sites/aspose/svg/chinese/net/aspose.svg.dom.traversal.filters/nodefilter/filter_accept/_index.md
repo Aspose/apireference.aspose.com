@@ -1,14 +1,14 @@
 ---
 title: FILTER_ACCEPT
 second_title: Aspose.SVG for .NET API 参考
-description: 接受节点为 NodeIterator 或 TreeWalker 定义的导航方法将返回此 节点
+description: 接受节点为 NodeIterator 或 TreeWalker 定义的导航方法将返回此 node.
 type: docs
 weight: 30
 url: /zh/net/aspose.svg.dom.traversal.filters/nodefilter/filter_accept/
 ---
 ## NodeFilter.FILTER_ACCEPT field
 
-接受节点。为 NodeIterator 或 TreeWalker 定义的导航方法将返回此 节点。
+接受节点。为 NodeIterator 或 TreeWalker 定义的导航方法将返回此 node.
 
 ```csharp
 public const short FILTER_ACCEPT;

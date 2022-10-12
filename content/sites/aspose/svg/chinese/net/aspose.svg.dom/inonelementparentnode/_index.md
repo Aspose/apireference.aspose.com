@@ -1,14 +1,14 @@
 ---
 title: INonElementParentNode
 second_title: Aspose.SVG for .NET API 参考
-description: 定义非元素类型的IParentNode./iparentnode
+description: 定义IParentNode./iparentnode不是元素类型
 type: docs
-weight: 1100
+weight: 1090
 url: /zh/net/aspose.svg.dom/inonelementparentnode/
 ---
 ## INonElementParentNode interface
 
-定义非元素类型的[`IParentNode`](../iparentnode)。
+定义[`IParentNode`](../iparentnode)不是元素类型。
 
 ```csharp
 public interface INonElementParentNode

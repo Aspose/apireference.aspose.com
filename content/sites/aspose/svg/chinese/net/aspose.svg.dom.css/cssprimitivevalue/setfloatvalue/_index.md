@@ -1,14 +1,14 @@
 ---
 title: SetFloatValue
 second_title: Aspose.SVG for .NET API 参考
-description: 以指定单位设置浮点值的方法如果附加此值的属性不能接受指定的单位或浮点值则该值将保持不变并引发 DOMException
+description: 一种以指定单位设置浮点值的方法如果附加此值的属性不能接受指定的单位或浮点值则该值将保持不变并引发 DOMException
 type: docs
 weight: 80
 url: /zh/net/aspose.svg.dom.css/cssprimitivevalue/setfloatvalue/
 ---
 ## CSSPrimitiveValue.SetFloatValue method
 
-以指定单位设置浮点值的方法。如果附加此值的属性不能接受指定的单位或浮点值，则该值将保持不变并引发 DOMException。
+一种以指定单位设置浮点值的方法。如果附加此值的属性不能接受指定的单位或浮点值，则该值将保持不变并引发 DOMException。
 
 ```csharp
 public abstract void SetFloatValue(ushort unitType, float floatValue)

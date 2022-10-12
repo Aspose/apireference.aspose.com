@@ -1,7 +1,7 @@
 ---
 title: op_Subtraction
 second_title: Справочник по Aspose.SVG для .NET API
-description: Реализует оператор -.
+description: Реализует оператор .
 type: docs
 weight: 90
 url: /ru/net/aspose.svg.drawing/resolution/op_subtraction/
@@ -16,8 +16,8 @@ public static Resolution operator -(Resolution a, Resolution b)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| a | Resolution | Параметр a. |
-| b | Resolution | Параметр b. |
+| a | Resolution | Параметр а. |
+| b | Resolution | Параметр б. |
 
 ### Возвращаемое значение
 

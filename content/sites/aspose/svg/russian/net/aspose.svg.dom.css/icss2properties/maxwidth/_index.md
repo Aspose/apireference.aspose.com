@@ -1,7 +1,7 @@
 ---
 title: MaxWidth
 second_title: Справочник по Aspose.SVG для .NET API
-description: См. определение свойства max-width в CSS2.
+description: См. определение свойства maxwidth в CSS2.
 type: docs
 weight: 710
 url: /ru/net/aspose.svg.dom.css/icss2properties/maxwidth/

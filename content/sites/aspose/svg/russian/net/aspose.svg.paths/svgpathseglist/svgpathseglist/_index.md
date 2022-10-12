@@ -1,14 +1,14 @@
 ---
 title: SVGPathSegList
 second_title: Справочник по Aspose.SVG для .NET API
-description: Инициализирует новый экземпляр классаSVGPathSegListaspose.svg.paths/svgpathseglist.
+description: Инициализирует новый экземплярSVGPathSegListaspose.svg.paths/svgpathseglist класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.paths/svgpathseglist/svgpathseglist/
 ---
 ## SVGPathSegList() {#constructor}
 
-Инициализирует новый экземпляр класса[`SVGPathSegList`](../../svgpathseglist).
+Инициализирует новый экземпляр[`SVGPathSegList`](../../svgpathseglist) класс.
 
 ```csharp
 public SVGPathSegList()
@@ -24,7 +24,7 @@ public SVGPathSegList()
 
 ## SVGPathSegList(IEnumerable&lt;SVGPathSeg&gt;) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`SVGPathSegList`](../../svgpathseglist).
+Инициализирует новый экземпляр[`SVGPathSegList`](../../svgpathseglist) класс.
 
 ```csharp
 public SVGPathSegList(IEnumerable<SVGPathSeg> enumerable)
@@ -32,7 +32,7 @@ public SVGPathSegList(IEnumerable<SVGPathSeg> enumerable)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| enumerable | IEnumerable`1 | Перечисляемое. |
+| enumerable | IEnumerable`1 | Перечислимое. |
 
 ### Смотрите также
 

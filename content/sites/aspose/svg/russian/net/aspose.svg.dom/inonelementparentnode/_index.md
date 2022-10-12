@@ -1,14 +1,14 @@
 ---
 title: INonElementParentNode
 second_title: Справочник по Aspose.SVG для .NET API
-description: ОпределяетIParentNode./iparentnode которые не относятся к типу Element.
+description: определяетIParentNode./iparentnode которые не относятся к типу Element.
 type: docs
-weight: 1100
+weight: 1090
 url: /ru/net/aspose.svg.dom/inonelementparentnode/
 ---
 ## INonElementParentNode interface
 
-Определяет[`IParentNode`](../iparentnode), которые не относятся к типу Element.
+определяет[`IParentNode`](../iparentnode) которые не относятся к типу Element.
 
 ```csharp
 public interface INonElementParentNode

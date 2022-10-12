@@ -1,14 +1,14 @@
 ---
 title: SetIdAttributeNS
 second_title: Aspose.SVG for .NET API 参考
-description: 如果参数 isId 为真则此方法将指定的属性声明为用户确定的 ID 属性
+description: 如果参数isId为真则该方法声明指定的属性为用户确定的ID属性
 type: docs
 weight: 460
 url: /zh/net/aspose.svg.dom/element/setidattributens/
 ---
 ## Element.SetIdAttributeNS method
 
-如果参数 isId 为真，则此方法将指定的属性声明为用户确定的 ID 属性。
+如果参数isId为真，则该方法声明指定的属性为用户确定的ID属性。
 
 ```csharp
 public void SetIdAttributeNS(string namespaceURI, string localName, bool isId)
@@ -17,8 +17,8 @@ public void SetIdAttributeNS(string namespaceURI, string localName, bool isId)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | namespaceURI | String | 命名空间 URI。 |
-| localName | String | 本地名称。 |
-| isId | Boolean | 如果设置为` true` [is id]。 |
+| localName | String | 当地人的名字。 |
+| isId | Boolean | 如果设置为`真的` [是身份证]。 |
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: Message
 second_title: Aspose.SVG for .NET API 参考
-description: 返回表示与给定错误名称关联的消息或描述的字符串
+description: 返回一个字符串表示与给定错误名称相关的消息或描述
 type: docs
 weight: 30
 url: /zh/net/aspose.svg.dom/domexception/message/
 ---
 ## DOMException.Message property
 
-返回表示与给定错误名称关联的消息或描述的字符串。
+返回一个字符串，表示与给定错误名称相关的消息或描述。
 
 ```csharp
 public override string Message { get; }
@@ -16,7 +16,7 @@ public override string Message { get; }
 
 ### 适当的价值
 
-错误消息。
+错误信息。
 
 ### 也可以看看
 

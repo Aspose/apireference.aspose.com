@@ -1,7 +1,7 @@
 ---
 title: CueBefore
 second_title: Справочник по Aspose.SVG для .NET API
-description: См. определение свойства cue-before в CSS2.
+description: См. определение свойства cuebefore в CSS2.
 type: docs
 weight: 400
 url: /ru/net/aspose.svg.dom.css/icss2properties/cuebefore/
@@ -16,7 +16,7 @@ public string CueBefore { get; set; }
 
 ### Возвращаемое значение
 
-сигнал-перед свойством
+кий перед свойством
 
 ### Смотрите также
 

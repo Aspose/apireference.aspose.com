@@ -1,14 +1,14 @@
 ---
 title: InitEvent
 second_title: Справочник по Aspose.SVG для .NET API
-description: МетодInitEventaspose.svg.dom.events/event/initeventиспользуется для инициализации значение объектаEventaspose.svg.dom.events/event созданного через интерфейс IDocumentEventaspose.svg.dom.events/idocumentevent.
+description: InitEventaspose.svg.dom.events/event/initevent метод используется для инициализации значенияEventaspose.svg.dom.events/event создано через the IDocumentEventaspose.svg.dom.events/idocumentevent интерфейс.
 type: docs
 weight: 110
 url: /ru/net/aspose.svg.dom.events/event/initevent/
 ---
 ## Event.InitEvent method
 
-Метод`InitEvent`используется для инициализации значение объекта[`Event`](../../event), созданного через интерфейс [`IDocumentEvent`](../../idocumentevent).
+`InitEvent` метод используется для инициализации значения[`Event`](../../event) создано через the [`IDocumentEvent`](../../idocumentevent) интерфейс.
 
 ```csharp
 public void InitEvent(string type, bool bubbles, bool cancelable)
@@ -17,12 +17,12 @@ public void InitEvent(string type, bool bubbles, bool cancelable)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | type | String | Тип события. |
-| bubbles | Boolean | , если установлено значение` true` [пузыри]. |
-| cancelable | Boolean | , если установлено значение` true` [cancelable]. |
+| bubbles | Boolean | если установлено`истинный` [пузыри]. |
+| cancelable | Boolean | если установлено`истинный` [отменяемо]. |
 
 ### Примечания
 
-Этот метод может быть вызван только до отправки события через[`DispatchEvent`](../../ieventtarget/dispatchevent), хотя при необходимости он может вызываться несколько раз на этом этапе. При многократном вызове последний вызов имеет приоритет. При вызове из подкласса интерфейса Event изменяются только значения, указанные в методе initEvent, все остальные атрибуты остаются без изменений.
+Этот метод может быть вызван только до того, как событие будет отправлено через[`DispatchEvent`](../../ieventtarget/dispatchevent) метод, , хотя при необходимости он может вызываться несколько раз в течение этой фазы. При многократном вызове последний вызов имеет приоритет. При вызове из подкласса интерфейса Event изменяются только значения, указанные в методе initEvent, все остальные атрибуты остаются без изменений.
 
 ### Смотрите также
 

@@ -17,7 +17,7 @@ public void RemoveAttributeNS(string namespaceURI, string localName)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | namespaceURI | String | 命名空间 URI。 |
-| localName | String | 本地名称。 |
+| localName | String | 当地人的名字。 |
 
 ### 也可以看看
 

@@ -17,11 +17,11 @@ public bool HasAttributeNS(string namespaceURI, string localName)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | namespaceURI | String | URI пространства имен. |
-| localName | String | Имя локального. |
+| localName | String | Имя местного. |
 
 ### Возвращаемое значение
 
-` true` if [имеет атрибут NS] [указанный URI пространства имен]; в противном случае` false` .
+`истинный` если [имеет атрибут NS] [указанный URI пространства имен]; в противном случае,`ЛОЖЬ` .
 
 ### Смотрите также
 

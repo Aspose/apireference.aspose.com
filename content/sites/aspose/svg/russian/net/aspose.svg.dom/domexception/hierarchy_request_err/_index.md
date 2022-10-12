@@ -1,7 +1,7 @@
 ---
 title: HIERARCHY_REQUEST_ERR
 second_title: Справочник по Aspose.SVG для .NET API
-description: Если какой-либо узел вставлен куда-то ему не место.
+description: Если какойлибо узел вставлен кудато ему не место.
 type: docs
 weight: 80
 url: /ru/net/aspose.svg.dom/domexception/hierarchy_request_err/

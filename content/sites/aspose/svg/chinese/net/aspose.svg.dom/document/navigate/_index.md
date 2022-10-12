@@ -49,7 +49,7 @@ public void Navigate(Url url)
 
 ## Navigate(string, string) {#navigate_6}
 
-从指定内容加载文档并使用 baseUri 解析相关资源，替换之前的内容。
+从指定内容加载文档并使用baseUri解析相关资源，替换之前的内容。
 
 ```csharp
 public void Navigate(string content, string baseUri)
@@ -64,7 +64,7 @@ public void Navigate(string content, string baseUri)
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | ` baseUri` 是` null` 。 |
+| ArgumentNullException | `baseUri`是`无效的`. |
 
 ### 也可以看看
 
@@ -76,7 +76,7 @@ public void Navigate(string content, string baseUri)
 
 ## Navigate(string, Url) {#navigate_5}
 
-从指定内容加载文档并使用 baseUri 解析相关资源，替换之前的内容。
+从指定内容加载文档并使用baseUri解析相关资源，替换之前的内容。
 
 ```csharp
 public void Navigate(string content, Url baseUri)
@@ -91,7 +91,7 @@ public void Navigate(string content, Url baseUri)
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | ` baseUri` 是` null` 。 |
+| ArgumentNullException | `baseUri`是`无效的`. |
 
 ### 也可以看看
 
@@ -104,7 +104,7 @@ public void Navigate(string content, Url baseUri)
 
 ## Navigate(Stream, string) {#navigate_3}
 
-从指定内容加载文档并使用 baseUri 解析相关资源，替换之前的内容。 文档加载从流中的当前位置开始。
+从指定内容加载文档并使用baseUri解析相关资源，替换之前的内容。 文档加载从流中的当前位置开始。
 
 ```csharp
 public void Navigate(Stream content, string baseUri)
@@ -119,7 +119,7 @@ public void Navigate(Stream content, string baseUri)
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | ` baseUri` 是` null` 。 |
+| ArgumentNullException | `baseUri`是`无效的`. |
 
 ### 也可以看看
 
@@ -131,7 +131,7 @@ public void Navigate(Stream content, string baseUri)
 
 ## Navigate(Stream, Url) {#navigate_2}
 
-从指定内容加载文档并使用 baseUri 解析相关资源，替换之前的内容。 文档加载从流中的当前位置开始。
+从指定内容加载文档并使用baseUri解析相关资源，替换之前的内容。 文档加载从流中的当前位置开始。
 
 ```csharp
 public void Navigate(Stream content, Url baseUri)
@@ -146,7 +146,7 @@ public void Navigate(Stream content, Url baseUri)
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | ` baseUri` 是` null` 。 |
+| ArgumentNullException | `baseUri`是`无效的`. |
 
 ### 也可以看看
 

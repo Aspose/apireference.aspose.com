@@ -17,7 +17,7 @@ public void AddService<TService>(TService service)
 
 | Параметр | Описание |
 | --- | --- |
-| TService | Тип добавляемой службы. |
+| TService | Тип службы для добавления. |
 | service | Экземпляр службы для добавления. |
 
 ### Смотрите также

@@ -3,7 +3,7 @@ title: MutationCallback
 second_title: Справочник по Aspose.SVG для .NET API
 description: Представляет метод который будет обрабатывать события мутации.
 type: docs
-weight: 1120
+weight: 1110
 url: /ru/net/aspose.svg.dom.mutations/mutationcallback/
 ---
 ## MutationCallback delegate
@@ -16,8 +16,8 @@ public delegate void MutationCallback(IList<MutationRecord> mutations, MutationO
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| mutations | IList`1 | Список записей мутаций. |
-| observer | MutationObserver | Наблюдатель мутаций. |
+| mutations | IList`1 | Список записей о мутациях. |
+| observer | MutationObserver | Наблюдатель за мутациями. |
 
 ### Смотрите также
 

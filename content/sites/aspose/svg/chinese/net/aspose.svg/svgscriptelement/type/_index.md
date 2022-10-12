@@ -1,14 +1,14 @@
 ---
 title: Type
 second_title: Aspose.SVG for .NET API 参考
-description: 对应于给定 script 元素的属性 type
+description: 对应于给定脚本元素的属性类型
 type: docs
 weight: 30
 url: /zh/net/aspose.svg/svgscriptelement/type/
 ---
 ## SVGScriptElement.Type property
 
-对应于给定 'script' 元素的属性 'type'。
+对应于给定“脚本”元素的属性“类型”。
 
 ```csharp
 public string Type { get; set; }
@@ -22,7 +22,7 @@ public string Type { get; set; }
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception) | 代码[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err). 在尝试更改只读属性的值时引发。 |
+| [DOMException](../../../aspose.svg.dom/domexception) | 代码[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err) . 尝试更改只读属性的值时引发。 |
 
 ### 也可以看看
 

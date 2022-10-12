@@ -1,14 +1,14 @@
 ---
 title: SetFontsLookupFolder
 second_title: Aspose.SVG for .NET API 参考
-description: 设置字体选择时使用的文件夹
+description: 设置字体选择期间使用的文件夹
 type: docs
 weight: 30
 url: /zh/net/aspose.svg/fontssettings/setfontslookupfolder/
 ---
 ## SetFontsLookupFolder(string) {#setfontslookupfolder}
 
-设置字体选择时使用的文件夹。
+设置字体选择期间使用的文件夹。
 
 ```csharp
 public void SetFontsLookupFolder(string fontsFolder)
@@ -28,7 +28,7 @@ public void SetFontsLookupFolder(string fontsFolder)
 
 ## SetFontsLookupFolder(string, bool) {#setfontslookupfolder_1}
 
-设置字体选择时使用的文件夹。
+设置字体选择期间使用的文件夹。
 
 ```csharp
 public void SetFontsLookupFolder(string fontsFolder, bool recursive)
@@ -37,7 +37,7 @@ public void SetFontsLookupFolder(string fontsFolder, bool recursive)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | fontsFolder | String | 字体文件夹。 |
-| recursive | Boolean | 如果设置为` true` 将使用所有嵌套目录。默认值为` false` 。 |
+| recursive | Boolean | 如果设置为`真的`将使用所有嵌套目录。默认值为`错误的`. |
 
 ### 也可以看看
 

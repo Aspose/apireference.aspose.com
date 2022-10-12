@@ -1,14 +1,14 @@
 ---
 title: EventTarget
 second_title: Справочник по Aspose.SVG для .NET API
-description: ИнтерфейсEventTarget./eventtargetреализуется всеми узлами в реализации которая поддерживает модель событий DOM. Таким образом этот интерфейс можно получить с помощью методов приведения специфичных для привязки к экземпляру интерфейса Node. Интерфейс позволяет регистрировать и удалять прослушиватели событий наEventTarget./eventtargetи отправлять события этомуIEventTarget../aspose.svg.dom.events/ieventtarget.
+description: EventTarget./eventtarget интерфейс реализуется всеми узлами в реализации которая поддерживает модель событий DOM. Таким образом этот интерфейс можно получить используя методы приведения для конкретных привязок к экземпляру интерфейса узла. Интерфейс позволяет регистрировать и удалять прослушиватели событий на анEventTarget./eventtarget и отправка событий на этотIEventTarget../aspose.svg.dom.events/ieventtarget .
 type: docs
-weight: 880
+weight: 870
 url: /ru/net/aspose.svg.dom/eventtarget/
 ---
 ## EventTarget class
 
-Интерфейс[`EventTarget`](../eventtarget)реализуется всеми узлами в реализации, которая поддерживает модель событий DOM. Таким образом, этот интерфейс можно получить с помощью методов приведения, специфичных для привязки, к экземпляру интерфейса Node. Интерфейс позволяет регистрировать и удалять прослушиватели событий на[`EventTarget`](../eventtarget)и отправлять события этому[`IEventTarget`](../../aspose.svg.dom.events/ieventtarget).
+[`EventTarget`](../eventtarget) интерфейс реализуется всеми узлами в реализации, которая поддерживает модель событий DOM. Таким образом, этот интерфейс можно получить, используя методы приведения для конкретных привязок к экземпляру интерфейса узла. Интерфейс позволяет регистрировать и удалять прослушиватели событий на ан[`EventTarget`](../eventtarget) и отправка событий на этот[`IEventTarget`](../../aspose.svg.dom.events/ieventtarget) .
 
 ```csharp
 public class EventTarget : DOMObject, IDisposable, IEventTarget
@@ -18,15 +18,15 @@ public class EventTarget : DOMObject, IDisposable, IEventTarget
 
 | Имя | Описание |
 | --- | --- |
-| [AddEventListener](../../aspose.svg.dom/eventtarget/addeventlistener#addeventlistener_1)(string, IEventListener) | Этот метод позволяет регистрировать прослушиватели событий на цели события. |
-| [AddEventListener](../../aspose.svg.dom/eventtarget/addeventlistener#addeventlistener)(string, DOMEventHandler, bool) | Этот метод позволяет регистрировать прослушиватели событий на цели события. |
-| [AddEventListener](../../aspose.svg.dom/eventtarget/addeventlistener#addeventlistener_2)(string, IEventListener, bool) | Этот метод позволяет регистрировать прослушиватели событий на цели события. |
+| [AddEventListener](../../aspose.svg.dom/eventtarget/addeventlistener#addeventlistener_1)(string, IEventListener) | Этот метод позволяет регистрировать прослушиватели событий в цели события. |
+| [AddEventListener](../../aspose.svg.dom/eventtarget/addeventlistener#addeventlistener)(string, DOMEventHandler, bool) | Этот метод позволяет регистрировать прослушиватели событий в цели события. |
+| [AddEventListener](../../aspose.svg.dom/eventtarget/addeventlistener#addeventlistener_2)(string, IEventListener, bool) | Этот метод позволяет регистрировать прослушиватели событий в цели события. |
 | [DispatchEvent](../../aspose.svg.dom/eventtarget/dispatchevent)(Event) | Этот метод позволяет отправлять события в модель событий реализации. |
-| [Dispose](../../aspose.svg.dom/eventtarget/dispose)() | Выполняет определяемые приложением задачи, связанные с освобождением, освобождением или сбросом неуправляемых ресурсов. |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | Этот метод используется для получения объекта ECMAScriptType. |
-| [RemoveEventListener](../../aspose.svg.dom/eventtarget/removeeventlistener#removeeventlistener_1)(string, IEventListener) | Этот метод позволяет удалить прослушиватели событий из цели события. Если[`IEventListener`](../../aspose.svg.dom.events/ieventlistener)удаляется из[`EventTarget`](../eventtarget)во время обработки события, это не будет вызвано текущими действиями. Прослушиватели событий никогда не могут быть вызваны после удаления. |
-| [RemoveEventListener](../../aspose.svg.dom/eventtarget/removeeventlistener#removeeventlistener)(string, DOMEventHandler, bool) | Этот метод позволяет удалить прослушиватели событий из цели события. Если[`IEventListener`](../../aspose.svg.dom.events/ieventlistener)удаляется из[`EventTarget`](../eventtarget)во время обработки события, это не будет вызвано текущими действиями. Прослушиватели событий никогда не могут быть вызваны после удаления. |
-| [RemoveEventListener](../../aspose.svg.dom/eventtarget/removeeventlistener#removeeventlistener_2)(string, IEventListener, bool) | Этот метод позволяет удалить прослушиватели событий из цели события. Если[`IEventListener`](../../aspose.svg.dom.events/ieventlistener)удаляется из[`EventTarget`](../eventtarget)во время обработки события, это не будет вызвано текущими действиями. Прослушиватели событий никогда не могут быть вызваны после удаления. |
+| [Dispose](../../aspose.svg.dom/eventtarget/dispose)() | Выполняет определяемые приложением задачи, связанные с освобождением, высвобождением или сбросом неуправляемых ресурсов. |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | Этот метод используется для получения объекта ECMAScript.Type . |
+| [RemoveEventListener](../../aspose.svg.dom/eventtarget/removeeventlistener#removeeventlistener_1)(string, IEventListener) | Этот метод позволяет удалить прослушиватели событий из цели события. Если[`IEventListener`](../../aspose.svg.dom.events/ieventlistener) удаляется из[`EventTarget`](../eventtarget) пока он обрабатывает событие, он не будет запущен текущими действиями. Прослушиватели событий никогда не могут быть вызваны после удаления. |
+| [RemoveEventListener](../../aspose.svg.dom/eventtarget/removeeventlistener#removeeventlistener)(string, DOMEventHandler, bool) | Этот метод позволяет удалить прослушиватели событий из цели события. Если[`IEventListener`](../../aspose.svg.dom.events/ieventlistener) удаляется из[`EventTarget`](../eventtarget) пока он обрабатывает событие, он не будет запущен текущими действиями. Прослушиватели событий никогда не могут быть вызваны после удаления. |
+| [RemoveEventListener](../../aspose.svg.dom/eventtarget/removeeventlistener#removeeventlistener_2)(string, IEventListener, bool) | Этот метод позволяет удалить прослушиватели событий из цели события. Если[`IEventListener`](../../aspose.svg.dom.events/ieventlistener) удаляется из[`EventTarget`](../eventtarget) пока он обрабатывает событие, он не будет запущен текущими действиями. Прослушиватели событий никогда не могут быть вызваны после удаления. |
 
 ### Смотрите также
 

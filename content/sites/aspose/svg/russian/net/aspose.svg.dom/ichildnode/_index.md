@@ -1,14 +1,14 @@
 ---
 title: IChildNode
 second_title: Справочник по Aspose.SVG для .NET API
-description: ОпределяетIChildNode./ichildnodeинтерфейс который должен быть реализованNode./node который может иметь родителя.
+description: определяетIChildNode./ichildnode интерфейс который должен быть реализованNode./node у которого может быть родитель.
 type: docs
-weight: 1040
+weight: 1030
 url: /ru/net/aspose.svg.dom/ichildnode/
 ---
 ## IChildNode interface
 
-Определяет[`IChildNode`](../ichildnode)интерфейс, который должен быть реализован[`Node`](../node), который может иметь родителя.
+определяет[`IChildNode`](../ichildnode) интерфейс, который должен быть реализован[`Node`](../node) у которого может быть родитель.
 
 ```csharp
 public interface IChildNode

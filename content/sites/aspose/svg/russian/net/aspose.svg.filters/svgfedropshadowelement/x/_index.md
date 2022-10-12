@@ -16,7 +16,7 @@ public SVGAnimatedLength X { get; }
 
 ### Стоимость имущества
 
-Атрибут 'x' данного элемента 'feDropShadow'.
+Атрибут 'x' данного элемента feDropShadow.
 
 ### Смотрите также
 

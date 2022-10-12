@@ -3,7 +3,7 @@ title: IXPathNamespace
 second_title: Справочник по Aspose.SVG для .NET API
 description: Интерфейс XPathNamespace возвращается интерфейсами XPathResult для представления типа узла пространства имен XPath которого нет в DOM.
 type: docs
-weight: 1350
+weight: 1340
 url: /ru/net/aspose.svg.dom.xpath/ixpathnamespace/
 ---
 ## IXPathNamespace interface
@@ -18,7 +18,7 @@ public interface IXPathNamespace
 
 | Имя | Описание |
 | --- | --- |
-| [OwnerElement](../../aspose.svg.dom.xpath/ixpathnamespace/ownerelement) { get; } | Объект[`Element`](../../aspose.svg.dom/element), для которого пространство имен находилось в области действия при запросе. Это не меняется в возвращаемом узле пространства имен, даже если документ изменяется таким образом , что пространство имен выходит за пределы области действия этого элемента, и этот узел больше не находится там с помощью XPath . |
+| [OwnerElement](../../aspose.svg.dom.xpath/ixpathnamespace/ownerelement) { get; } | [`Element`](../../aspose.svg.dom/element)для которого пространство имен находилось в области действия, когда оно было запрошено. Это не меняется в возвращаемом узле пространства имен, даже если документ изменяется так , что пространство имен выходит за пределы области действия этого элемента, и XPath больше не находит этот узел там. |
 
 ### Смотрите также
 

@@ -1,14 +1,14 @@
 ---
 title: Name
 second_title: Aspose.SVG for .NET API 参考
-description: name 属性必须返回margin at-rule 的名称字符不包含在名称中
+description: name 属性必须返回margin atrule 的名称  字符不包含在名称中
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.dom.css/icssmarginrule/name/
 ---
 ## ICSSMarginRule.Name property
 
-name 属性必须返回margin at-rule 的名称。@字符不包含在名称中。
+name 属性必须返回margin at-rule 的名称。 @ 字符不包含在名称中。
 
 ```csharp
 public string Name { get; }

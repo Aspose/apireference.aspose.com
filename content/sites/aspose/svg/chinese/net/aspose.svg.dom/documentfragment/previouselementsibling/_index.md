@@ -1,14 +1,14 @@
 ---
 title: PreviousElementSibling
 second_title: Aspose.SVG for .NET API 参考
-description: 返回此元素的前一个兄弟元素节点如果此元素在文档树中没有位于该元素之前的元素兄弟节点则返回 null
+description: 返回此元素的前一个兄弟元素节点如果此元素在文档树中没有位于该元素之前的元素兄弟节点则为 null
 type: docs
 weight: 100
 url: /zh/net/aspose.svg.dom/documentfragment/previouselementsibling/
 ---
 ## DocumentFragment.PreviousElementSibling property
 
-返回此元素的前一个兄弟元素节点。如果此元素在文档树中没有位于该元素之前的元素兄弟节点，则返回 null。
+返回此元素的前一个兄弟元素节点。如果此元素在文档树中没有位于该元素之前的元素兄弟节点，则为 null。
 
 ```csharp
 public Element PreviousElementSibling { get; }

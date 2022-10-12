@@ -8,7 +8,7 @@ url: /ru/net/aspose.svg.filters/svgfeturbulenceelement/type/
 ---
 ## SVGFETurbulenceElement.Type property
 
-Соответствует атрибуту 'type' данного элемента 'feTurbulence'. Принимает одну из констант SVG_TURBULENCE_TYPE_*, определенных в этом интерфейсе.
+Соответствует атрибуту type данного элемента feTurbulence. Принимает одну из констант SVG_TURBULENCE_TYPE_*, определенных в этом интерфейсе.
 
 ```csharp
 public SVGAnimatedEnumeration Type { get; }
@@ -16,7 +16,7 @@ public SVGAnimatedEnumeration Type { get; }
 
 ### Стоимость имущества
 
-Атрибут 'type' данного элемента 'feTurbulence'.
+Тип атрибута данного элемента feTurbulence.
 
 ### Смотрите также
 

@@ -1,14 +1,14 @@
 ---
 title: Richness
 second_title: Справочник по Aspose.SVG для .NET API
-description: См. определение свойства насыщенности в CSS2.
+description: См. определение свойства богатства в CSS2.
 type: docs
 weight: 970
 url: /ru/net/aspose.svg.dom.css/icss2properties/richness/
 ---
 ## ICSS2Properties.Richness property
 
-См. определение свойства насыщенности в CSS2.
+См. определение свойства богатства в CSS2.
 
 ```csharp
 public string Richness { get; set; }
@@ -16,7 +16,7 @@ public string Richness { get; set; }
 
 ### Возвращаемое значение
 
-свойство богатства
+собственность богатства
 
 ### Смотрите также
 

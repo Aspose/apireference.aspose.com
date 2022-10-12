@@ -1,14 +1,14 @@
 ---
 title: SVGValueType
 second_title: Aspose.SVG for .NET API 参考
-description: SVGValueType 类型用于表示基本的 SVG 值类型
+description: SVGValueType 类型用于表示基本 SVG 值类型
 type: docs
-weight: 350
+weight: 340
 url: /zh/net/aspose.svg.datatypes/svgvaluetype/
 ---
 ## SVGValueType class
 
-SVGValueType 类型用于表示基本的 SVG 值类型。
+SVGValueType 类型用于表示基本 SVG 值类型。
 
 ```csharp
 public abstract class SVGValueType : DOMObject, IDisposable
@@ -18,8 +18,8 @@ public abstract class SVGValueType : DOMObject, IDisposable
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose)() | 释放非托管和（可选）托管资源。 |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | 此方法用于检索 ECMAScript 对象Type。 |
+| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose)() | 释放非托管和 - 可选 - 托管资源。 |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | 此方法用于检索 ECMAScript 对象Type . |
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: SVG_TRANSFORM_MATRIX
 second_title: Справочник по Aspose.SVG для .NET API
-description: Преобразование матрицы.
+description: Матричное  преобразование.
 type: docs
 weight: 110
 url: /ru/net/aspose.svg.datatypes/svgtransform/svg_transform_matrix/
 ---
 ## SVGTransform.SVG_TRANSFORM_MATRIX field
 
-Преобразование 'матрицы(…)'.
+«Матричное (…)» преобразование.
 
 ```csharp
 public const ushort SVG_TRANSFORM_MATRIX;

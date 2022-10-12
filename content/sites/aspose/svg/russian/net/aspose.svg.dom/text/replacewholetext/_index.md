@@ -16,11 +16,11 @@ public Text ReplaceWholeText(string content)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| content | String | Содержание. |
+| content | String | Контент. |
 
 ### Возвращаемое значение
 
-[`Text`](../../text).
+[`Text`](../../text) .
 
 ### Смотрите также
 

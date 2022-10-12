@@ -17,7 +17,7 @@ public virtual void DeleteData(int offset, int count)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | offset | Int32 | 偏移量。 |
-| count | Int32 | 计数。 |
+| count | Int32 | 伯爵。 |
 
 ### 也可以看看
 

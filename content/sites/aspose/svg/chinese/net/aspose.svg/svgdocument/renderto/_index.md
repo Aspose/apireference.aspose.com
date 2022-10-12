@@ -1,14 +1,14 @@
 ---
 title: RenderTo
 second_title: Aspose.SVG for .NET API 参考
-description: 该方法用于将当前文档的内容打印到指定设备
+description: 该方法用于将当前文档的内容打印到指定的设备上
 type: docs
 weight: 80
 url: /zh/net/aspose.svg/svgdocument/renderto/
 ---
 ## SVGDocument.RenderTo method
 
-该方法用于将当前文档的内容打印到指定设备。
+该方法用于将当前文档的内容打印到指定的设备上。
 
 ```csharp
 public override void RenderTo(IDevice device)

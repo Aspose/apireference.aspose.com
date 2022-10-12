@@ -1,0 +1,179 @@
+---
+title: Navigate
+second_title: Aspose.SVG für .NET-API-Referenz
+description: Lädt das Dokument unter der angegebenen URL Uniform Resource Locator in die aktuelle Instanz und ersetzt den vorherigen Inhalt.
+type: docs
+weight: 1010
+url: /de/net/aspose.svg.dom/document/navigate/
+---
+## Navigate(string) {#navigate_4}
+
+Lädt das Dokument unter der angegebenen URL (Uniform Resource Locator) in die aktuelle Instanz und ersetzt den vorherigen Inhalt.
+
+```csharp
+public void Navigate(string address)
+```
+
+| Parameter | Typ | Beschreibung |
+| --- | --- | --- |
+| address | String | Die Dokumentenadresse. Er wird mit dem aktuellen Verzeichnispfad zu einer absoluten URL kombiniert. |
+
+### Siehe auch
+
+* class [Document](../../document)
+* namensraum [Aspose.Svg.Dom](../../document)
+* Montage [Aspose.SVG](../../../)
+
+---
+
+## Navigate(Url) {#navigate_1}
+
+Lädt das Dokument unter der angegebenen URL (Uniform Resource Locator) in die aktuelle Instanz und ersetzt den vorherigen Inhalt.
+
+```csharp
+public void Navigate(Url url)
+```
+
+| Parameter | Typ | Beschreibung |
+| --- | --- | --- |
+| url | Url | Die Dokument-URL. |
+
+### Siehe auch
+
+* class [Url](../../../aspose.svg/url)
+* class [Document](../../document)
+* namensraum [Aspose.Svg.Dom](../../document)
+* Montage [Aspose.SVG](../../../)
+
+---
+
+## Navigate(string, string) {#navigate_6}
+
+Lädt das Dokument aus dem angegebenen Inhalt und verwendet baseUri, um relative Ressourcen aufzulösen, wobei der vorherige Inhalt ersetzt wird.
+
+```csharp
+public void Navigate(string content, string baseUri)
+```
+
+| Parameter | Typ | Beschreibung |
+| --- | --- | --- |
+| content | String | Der Dokumenteninhalt. |
+| baseUri | String | Der Basis-URI zum Auflösen relativer Ressourcen. Er wird mit dem aktuellen Verzeichnispfad zu einer absoluten URL kombiniert. |
+
+### Ausnahmen
+
+| Ausnahme | Bedingung |
+| --- | --- |
+| ArgumentNullException | `baseUri` ist`Null`. |
+
+### Siehe auch
+
+* class [Document](../../document)
+* namensraum [Aspose.Svg.Dom](../../document)
+* Montage [Aspose.SVG](../../../)
+
+---
+
+## Navigate(string, Url) {#navigate_5}
+
+Lädt das Dokument aus dem angegebenen Inhalt und verwendet baseUri, um relative Ressourcen aufzulösen, wobei der vorherige Inhalt ersetzt wird.
+
+```csharp
+public void Navigate(string content, Url baseUri)
+```
+
+| Parameter | Typ | Beschreibung |
+| --- | --- | --- |
+| content | String | Der Dokumenteninhalt. |
+| baseUri | Url | Der Basis-URI zum Auflösen relativer Ressourcen. |
+
+### Ausnahmen
+
+| Ausnahme | Bedingung |
+| --- | --- |
+| ArgumentNullException | `baseUri` ist`Null`. |
+
+### Siehe auch
+
+* class [Url](../../../aspose.svg/url)
+* class [Document](../../document)
+* namensraum [Aspose.Svg.Dom](../../document)
+* Montage [Aspose.SVG](../../../)
+
+---
+
+## Navigate(Stream, string) {#navigate_3}
+
+Lädt das Dokument aus dem angegebenen Inhalt und verwendet baseUri, um relative Ressourcen aufzulösen, wodurch der vorherige Inhalt ersetzt wird. Das Laden des Dokuments beginnt an der aktuellen Position im Stream.
+
+```csharp
+public void Navigate(Stream content, string baseUri)
+```
+
+| Parameter | Typ | Beschreibung |
+| --- | --- | --- |
+| content | Stream | Der Dokumenteninhalt. |
+| baseUri | String | Der Basis-URI zum Auflösen relativer Ressourcen. Er wird mit dem aktuellen Verzeichnispfad zu einer absoluten URL kombiniert. |
+
+### Ausnahmen
+
+| Ausnahme | Bedingung |
+| --- | --- |
+| ArgumentNullException | `baseUri` ist`Null`. |
+
+### Siehe auch
+
+* class [Document](../../document)
+* namensraum [Aspose.Svg.Dom](../../document)
+* Montage [Aspose.SVG](../../../)
+
+---
+
+## Navigate(Stream, Url) {#navigate_2}
+
+Lädt das Dokument aus dem angegebenen Inhalt und verwendet baseUri, um relative Ressourcen aufzulösen, wodurch der vorherige Inhalt ersetzt wird. Das Laden des Dokuments beginnt an der aktuellen Position im Stream.
+
+```csharp
+public void Navigate(Stream content, Url baseUri)
+```
+
+| Parameter | Typ | Beschreibung |
+| --- | --- | --- |
+| content | Stream | Der Dokumenteninhalt. |
+| baseUri | Url | Der Basis-URI zum Auflösen relativer Ressourcen. |
+
+### Ausnahmen
+
+| Ausnahme | Bedingung |
+| --- | --- |
+| ArgumentNullException | `baseUri` ist`Null`. |
+
+### Siehe auch
+
+* class [Url](../../../aspose.svg/url)
+* class [Document](../../document)
+* namensraum [Aspose.Svg.Dom](../../document)
+* Montage [Aspose.SVG](../../../)
+
+---
+
+## Navigate(RequestMessage) {#navigate}
+
+Lädt das Dokument basierend auf dem angegebenen Anforderungsobjekt und ersetzt den vorherigen Inhalt.
+
+```csharp
+public void Navigate(RequestMessage request)
+```
+
+| Parameter | Typ | Beschreibung |
+| --- | --- | --- |
+| request | RequestMessage | Das Anforderungsobjekt, das zum Laden von Dokumentinhalten verwendet wird. |
+
+### Siehe auch
+
+* class [RequestMessage](../../../aspose.svg.net/requestmessage)
+* class [Document](../../document)
+* namensraum [Aspose.Svg.Dom](../../document)
+* Montage [Aspose.SVG](../../../)
+
+<!-- DO NOT EDIT: generated by xmldocmd for Aspose.SVG.dll -->

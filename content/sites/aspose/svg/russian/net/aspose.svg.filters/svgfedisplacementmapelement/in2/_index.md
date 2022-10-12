@@ -8,7 +8,7 @@ url: /ru/net/aspose.svg.filters/svgfedisplacementmapelement/in2/
 ---
 ## SVGFEDisplacementMapElement.In2 property
 
-Соответствует атрибуту 'in2' данного элемента 'feDisplacementMap'.
+Соответствует атрибуту in2 данного элемента feDisplacementMap.
 
 ```csharp
 public SVGAnimatedString In2 { get; }
@@ -16,7 +16,7 @@ public SVGAnimatedString In2 { get; }
 
 ### Стоимость имущества
 
-Атрибут 'in2' данного элемента 'feDisplacementMap'.
+Атрибут in2 данного элемента feDisplacementMap.
 
 ### Смотрите также
 

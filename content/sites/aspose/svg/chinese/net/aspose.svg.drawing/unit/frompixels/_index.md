@@ -1,14 +1,14 @@
 ---
 title: FromPixels
 second_title: Aspose.SVG for .NET API 参考
-description: 返回以像素表示的Lengthaspose.svg.drawing/length对象
+description: 返回一个Lengthaspose.svg.drawing/length以像素表示的对象
 type: docs
 weight: 170
 url: /zh/net/aspose.svg.drawing/unit/frompixels/
 ---
 ## Unit.FromPixels method
 
-返回以像素表示的[`Length`](../../length)对象。
+返回一个[`Length`](../../length)以像素表示的对象。
 
 ```csharp
 public static Length FromPixels(double value)
@@ -16,11 +16,11 @@ public static Length FromPixels(double value)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| value | Double | 值。 |
+| value | Double | 价值。 |
 
 ### 返回值
 
-返回一个[`Length`](../../length)对象。
+返回一个[`Length`](../../length)目的。
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: Operator
 second_title: Справочник по Aspose.SVG для .NET API
-description: Соответствует атрибуту operator данного элемента feMorphology. Принимает одну из констант SVG_MORPHOLOGY_OPERATOR_ определенных в этом интерфейсе.
+description: Соответствует атрибуту оператор данного элемента feMorphology. Принимает одну из констант SVG_MORPHOLOGY_OPERATOR_ определенных в этом интерфейсе.
 type: docs
 weight: 30
 url: /ru/net/aspose.svg.filters/svgfemorphologyelement/operator/
 ---
 ## SVGFEMorphologyElement.Operator property
 
-Соответствует атрибуту 'operator' данного элемента 'feMorphology'. Принимает одну из констант SVG_MORPHOLOGY_OPERATOR_*, определенных в этом интерфейсе.
+Соответствует атрибуту «оператор» данного элемента «feMorphology». Принимает одну из констант SVG_MORPHOLOGY_OPERATOR_*, определенных в этом интерфейсе.
 
 ```csharp
 public SVGAnimatedEnumeration Operator { get; }
@@ -16,7 +16,7 @@ public SVGAnimatedEnumeration Operator { get; }
 
 ### Стоимость имущества
 
-Атрибут 'оператор' данного элемента 'feMorphology'.
+Атрибут «оператор» данного элемента «feMorphology».
 
 ### Смотрите также
 

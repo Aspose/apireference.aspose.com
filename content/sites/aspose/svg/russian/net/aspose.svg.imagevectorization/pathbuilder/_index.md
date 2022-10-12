@@ -1,14 +1,14 @@
 ---
 title: PathBuilder
 second_title: Справочник по Aspose.SVG для .NET API
-description: Класс PathBuilder отвечает за построение сегментов путиSVGPathSeg../aspose.svg.paths/svgpathsegиз списка точек трассировки.
+description: Класс PathBuilder отвечает за построение сегментов пути.SVGPathSeg../aspose.svg.paths/svgpathseg из списка точек трассировки.
 type: docs
-weight: 2140
+weight: 2150
 url: /ru/net/aspose.svg.imagevectorization/pathbuilder/
 ---
 ## PathBuilder class
 
-Класс PathBuilder отвечает за построение сегментов пути[`SVGPathSeg`](../../aspose.svg.paths/svgpathseg)из списка точек трассировки.
+Класс PathBuilder отвечает за построение сегментов пути.[`SVGPathSeg`](../../aspose.svg.paths/svgpathseg) из списка точек трассировки.
 
 ```csharp
 public class PathBuilder : IPathBuilder
@@ -18,14 +18,14 @@ public class PathBuilder : IPathBuilder
 
 | Имя | Описание |
 | --- | --- |
-| [PathBuilder](pathbuilder#constructor)() | Инициализирует новый экземпляр класса[`PathBuilder`](../pathbuilder). |
-| [PathBuilder](pathbuilder#constructor_1)(float) | Инициализирует новый экземпляр класса[`PathBuilder`](../pathbuilder). |
+| [PathBuilder](pathbuilder#constructor)() | Инициализирует новый экземпляр[`PathBuilder`](../pathbuilder) класс. |
+| [PathBuilder](pathbuilder#constructor_1)(float) | Инициализирует новый экземпляр[`PathBuilder`](../pathbuilder) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [Tension](../../aspose.svg.imagevectorization/pathbuilder/tension) { get; set; } | Значение натяжения влияет на то, насколько круто изгибается кривая в (интерполированных) контрольных точках. Он должен быть в диапазоне от 0 до 1. Любые более высокие или более низкие значения будут выровнены с минимальным и максимальным значениями этого диапазона соответственно. |
+| [Tension](../../aspose.svg.imagevectorization/pathbuilder/tension) { get; set; } | Значение натяжения влияет на то, насколько круто изгибается кривая в (интерполированных) контрольных точках. Оно должно быть в диапазоне от 0 до 1. Любые более высокие или более низкие значения будут совмещены с минимальными и максимальными значениями этого диапазона, соответственно. |
 
 ## Методы
 

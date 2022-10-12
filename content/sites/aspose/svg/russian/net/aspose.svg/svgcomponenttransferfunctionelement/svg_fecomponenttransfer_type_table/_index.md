@@ -8,7 +8,7 @@ url: /ru/net/aspose.svg/svgcomponenttransferfunctionelement/svg_fecomponenttrans
 ---
 ## SVGComponentTransferFunctionElement.SVG_FECOMPONENTTRANSFER_TYPE_TABLE field
 
-Соответствует значению 'таблица'.
+Соответствует значению "таблица".
 
 ```csharp
 public const ushort SVG_FECOMPONENTTRANSFER_TYPE_TABLE;

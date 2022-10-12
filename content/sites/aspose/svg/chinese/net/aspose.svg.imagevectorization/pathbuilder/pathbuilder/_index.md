@@ -1,14 +1,14 @@
 ---
 title: PathBuilder
 second_title: Aspose.SVG for .NET API 参考
-description: 初始化PathBuilderaspose.svg.imagevectorization/pathbuilder类的新实例
+description: 初始化PathBuilderaspose.svg.imagevectorization/pathbuilder类.
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.imagevectorization/pathbuilder/pathbuilder/
 ---
 ## PathBuilder() {#constructor}
 
-初始化[`PathBuilder`](../../pathbuilder)类的新实例。
+初始化[`PathBuilder`](../../pathbuilder)类.
 
 ```csharp
 public PathBuilder()
@@ -24,7 +24,7 @@ public PathBuilder()
 
 ## PathBuilder(float) {#constructor_1}
 
-初始化[`PathBuilder`](../../pathbuilder)类的新实例。
+初始化[`PathBuilder`](../../pathbuilder)类.
 
 ```csharp
 public PathBuilder(float tension)
@@ -32,7 +32,7 @@ public PathBuilder(float tension)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| tension | Single | 张力。 |
+| tension | Single | 紧张。 |
 
 ### 也可以看看
 

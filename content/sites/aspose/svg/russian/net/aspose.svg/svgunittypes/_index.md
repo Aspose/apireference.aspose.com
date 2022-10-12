@@ -3,7 +3,7 @@ title: SVGUnitTypes
 second_title: Справочник по Aspose.SVG для .NET API
 description: Перечисление SVGUnitTypes определяет часто используемый набор констант и является базовым интерфейсом используемым SVGGradientElement SVGPatternElement SVGClipPathElement SVGMaskElement и SVGFilterElement.
 type: docs
-weight: 3510
+weight: 3520
 url: /ru/net/aspose.svg/svgunittypes/
 ---
 ## SVGUnitTypes enumeration

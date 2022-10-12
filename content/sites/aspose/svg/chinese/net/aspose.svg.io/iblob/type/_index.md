@@ -1,14 +1,14 @@
 ---
 title: Type
 second_title: Aspose.SVG for .NET API 参考
-description: 小写的 ASCII 编码字符串表示 Blob 的媒体类型 在获取时用户代理必须将 Blob 的类型作为小写的 ASCII 编码字符串返回 这样当它转换为字节序列时它是可解析的 MIME 类型 或空字符串 - 0 字节 - 如果无法确定类型
+description: 小写的 ASCII 编码字符串表示 Blob 的媒体类型 获取时用户代理必须将 Blob 的类型作为小写的 ASCII 编码字符串返回 以便在将其转换为字节时序列它是一个可解析的 MIME 类型 或空字符串  0 字节  如果类型无法确定
 type: docs
 weight: 20
 url: /zh/net/aspose.svg.io/iblob/type/
 ---
 ## IBlob.Type property
 
-小写的 ASCII 编码字符串，表示 Blob 的媒体类型。 在获取时，用户代理必须将 Blob 的类型作为小写的 ASCII 编码字符串返回， 这样当它转换为字节序列时，它是可解析的 MIME 类型， 或空字符串 - 0 字节 - 如果无法确定类型。
+小写的 ASCII 编码字符串，表示 Blob 的媒体类型。 获取时，用户代理必须将 Blob 的类型作为小写的 ASCII 编码字符串返回， 以便在将其转换为字节时序列，它是一个可解析的 MIME 类型， 或空字符串 - 0 字节 - 如果类型无法确定。
 
 ```csharp
 public string Type { get; }

@@ -3,7 +3,7 @@ title: SaveOptions
 second_title: Справочник по Aspose.SVG для .NET API
 description: Это абстрактный базовый класс для классов которые позволяют пользователю указывать дополнительные параметры при сохранении документа в определенном формате.
 type: docs
-weight: 3620
+weight: 3630
 url: /ru/net/aspose.svg.saving/saveoptions/
 ---
 ## SaveOptions class
@@ -18,7 +18,7 @@ public abstract class SaveOptions
 
 | Имя | Описание |
 | --- | --- |
-| [ResourceHandlingOptions](../../aspose.svg.saving/saveoptions/resourcehandlingoptions) { get; } | Получает объект[`ResourceHandlingOptions`](../resourcehandlingoptions), который используется для настройки обработки ресурсов. |
+| [ResourceHandlingOptions](../../aspose.svg.saving/saveoptions/resourcehandlingoptions) { get; } | Получает[`ResourceHandlingOptions`](../resourcehandlingoptions) объект, который используется для настройки обработки ресурсов. |
 
 ### Смотрите также
 

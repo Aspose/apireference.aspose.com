@@ -16,7 +16,7 @@ public SVGAnimatedNumber Bias { get; }
 
 ### Стоимость имущества
 
-Атрибут 'bias' данного элемента 'feConvolveMatrix'.
+Атрибут 'bias' данного элемента feConvolveMatrix.
 
 ### Смотрите также
 

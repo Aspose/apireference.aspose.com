@@ -1,14 +1,14 @@
 ---
 title: FILTER_SKIP
 second_title: Aspose.SVG for .NET API 参考
-description: 跳过此单个节点为 NodeIterator 或 TreeWalker 定义的导航方法不会返回 这个节点对于 NodeIterator 和 TreeWalker仍将考虑该节点的子节点 
+description: 跳过此单个节点为 NodeIterator 或 TreeWalker 定义的导航方法将不会返回 此节点对于 NodeIterator 和 TreeWalker该节点的子节点仍将被 考虑
 type: docs
 weight: 50
 url: /zh/net/aspose.svg.dom.traversal.filters/nodefilter/filter_skip/
 ---
 ## NodeFilter.FILTER_SKIP field
 
-跳过此单个节点。为 NodeIterator 或 TreeWalker 定义的导航方法不会返回 这个节点。对于 NodeIterator 和 TreeWalker，仍将考虑该节点的子节点 。
+跳过此单个节点。为 NodeIterator 或 TreeWalker 定义的导航方法将不会返回 此节点。对于 NodeIterator 和 TreeWalker，该节点的子节点仍将被 考虑。
 
 ```csharp
 public const short FILTER_SKIP;

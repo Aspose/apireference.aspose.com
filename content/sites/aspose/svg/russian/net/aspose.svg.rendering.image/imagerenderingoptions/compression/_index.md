@@ -1,14 +1,14 @@
 ---
 title: Compression
 second_title: Справочник по Aspose.SVG для .NET API
-description: Задает или получает формат файла изображения с тегами TIFFCompressionaspose.svg.rendering.image/compression. По умолчанию это свойствоLZW.
+description: Устанавливает или получает формат файла изображения с тегами TIFFCompressionaspose.svg.rendering.image/compression . По умолчанию это свойствоLZW .
 type: docs
 weight: 20
 url: /ru/net/aspose.svg.rendering.image/imagerenderingoptions/compression/
 ---
 ## ImageRenderingOptions.Compression property
 
-Задает или получает формат файла изображения с тегами (TIFF)[`Compression`](../../compression). По умолчанию это свойствоLZW.
+Устанавливает или получает формат файла изображения с тегами (TIFF)[`Compression`](../../compression) . По умолчанию это свойствоLZW .
 
 ```csharp
 public Compression Compression { get; set; }

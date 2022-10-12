@@ -1,14 +1,14 @@
 ---
 title: CookieContainer
 second_title: Aspose.SVG for .NET API 参考
-description: 获取或设置处理程序用来存储服务器 cookie 的 cookie 容器
+description: 获取或设置处理程序用于存储服务器 cookie 的 cookie 容器
 type: docs
 weight: 30
 url: /zh/net/aspose.svg.net/requestmessage/cookiecontainer/
 ---
 ## RequestMessage.CookieContainer property
 
-获取或设置处理程序用来存储服务器 cookie 的 cookie 容器。
+获取或设置处理程序用于存储服务器 cookie 的 cookie 容器。
 
 ```csharp
 public CookieContainer CookieContainer { get; set; }

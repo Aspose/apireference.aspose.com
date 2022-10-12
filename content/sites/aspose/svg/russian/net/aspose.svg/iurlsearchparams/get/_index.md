@@ -1,14 +1,14 @@
 ---
 title: Get
 second_title: Справочник по Aspose.SVG для .NET API
-description: Возвращает значение первой пары имя-значение с именем name .
+description: Возвращает значение первой пары имязначение чье имяимя .
 type: docs
 weight: 30
 url: /ru/net/aspose.svg/iurlsearchparams/get/
 ---
 ## IUrlSearchParams.Get method
 
-Возвращает значение первой пары "имя-значение" с именем` name` .
+Возвращает значение первой пары "имя-значение", чье имя`имя` .
 
 ```csharp
 public string Get(string name)
@@ -20,7 +20,7 @@ public string Get(string name)
 
 ### Возвращаемое значение
 
-Значение первой пары имя-значение, имя которой равно` name` или null , если его нет.
+Значение первой пары "имя-значение", имя которой`имя` или null , если его нет.
 
 ### Смотрите также
 

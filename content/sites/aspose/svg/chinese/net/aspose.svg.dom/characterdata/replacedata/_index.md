@@ -1,14 +1,14 @@
 ---
 title: ReplaceData
 second_title: Aspose.SVG for .NET API 参考
-description: 用指定的字符串替换从指定的 16 位单位偏移开始的字符
+description: 用指定的字符串替换从指定的 16 位单元偏移开始的字符
 type: docs
 weight: 60
 url: /zh/net/aspose.svg.dom/characterdata/replacedata/
 ---
 ## CharacterData.ReplaceData method
 
-用指定的字符串替换从指定的 16 位单位偏移开始的字符。
+用指定的字符串替换从指定的 16 位单元偏移开始的字符。
 
 ```csharp
 public virtual void ReplaceData(int offset, int count, string data)
@@ -17,7 +17,7 @@ public virtual void ReplaceData(int offset, int count, string data)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | offset | Int32 | 偏移量。 |
-| count | Int32 | 计数。 |
+| count | Int32 | 伯爵。 |
 | data | String | 内容数据。 |
 
 ### 也可以看看

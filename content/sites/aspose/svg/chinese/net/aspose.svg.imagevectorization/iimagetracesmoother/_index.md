@@ -3,7 +3,7 @@ title: IImageTraceSmoother
 second_title: Aspose.SVG for .NET API 参考
 description: IImageTraceSmoother 接口负责平滑跟踪
 type: docs
-weight: 2080
+weight: 2090
 url: /zh/net/aspose.svg.imagevectorization/iimagetracesmoother/
 ---
 ## IImageTraceSmoother interface

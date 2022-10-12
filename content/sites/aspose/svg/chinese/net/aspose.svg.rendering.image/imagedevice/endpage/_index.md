@@ -1,14 +1,14 @@
 ---
 title: EndPage
 second_title: Aspose.SVG for .NET API 参考
-description: 结束当前页面的呈现
+description: 结束当前页面的渲染
 type: docs
 weight: 130
 url: /zh/net/aspose.svg.rendering.image/imagedevice/endpage/
 ---
 ## ImageDevice.EndPage method
 
-结束当前页面的呈现。
+结束当前页面的渲染。
 
 ```csharp
 public override void EndPage()

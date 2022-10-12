@@ -1,14 +1,14 @@
 ---
 title: Render
 second_title: Aspose.SVG for .NET API 参考
-description: 定义将TDocument渲染到指定的IDeviceaspose.svg.rendering/idevice的方法
+description: 定义渲染方法TDocument进入指定IDeviceaspose.svg.rendering/idevice .
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.rendering/renderer-1/render/
 ---
 ## Render(IDevice, TDocument) {#render_2}
 
-定义将!:TDocument渲染到指定的[`IDevice`](../../idevice)的方法。
+定义渲染方法!:TDocument进入指定[`IDevice`](../../idevice) .
 
 ```csharp
 public void Render(IDevice device, TDocument document)
@@ -17,7 +17,7 @@ public void Render(IDevice device, TDocument document)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | device | IDevice | 输出设备。 |
-| document | TDocument | 文档。 |
+| document | TDocument | 文件。 |
 
 ### 也可以看看
 
@@ -30,7 +30,7 @@ public void Render(IDevice device, TDocument document)
 
 ## Render(IDevice, TDocument, TimeSpan) {#render_4}
 
-定义将!:TDocument渲染到指定的[`IDevice`](../../idevice)的方法。 在没有任何网络操作加载资源、活动定时器、动画任务或指定超时时间后，将执行渲染。
+定义渲染方法!:TDocument进入指定[`IDevice`](../../idevice) . 一旦没有任何用于加载资源、活动定时器、动画任务或指定超时的网络操作，将执行渲染。
 
 ```csharp
 public void Render(IDevice device, TDocument document, TimeSpan timeout)
@@ -39,8 +39,8 @@ public void Render(IDevice device, TDocument document, TimeSpan timeout)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | device | IDevice | 输出设备。 |
-| document | TDocument | 文档。 |
-| timeout | TimeSpan | TimeSpan表示等待的毫秒数，或TimeSpan表示-1 毫秒无限期等待。 |
+| document | TDocument | 文件。 |
+| timeout | TimeSpan | 一个TimeSpan表示等待的毫秒数，或TimeSpan表示 -1 毫秒无限期等待。 |
 
 ### 也可以看看
 
@@ -53,7 +53,7 @@ public void Render(IDevice device, TDocument document, TimeSpan timeout)
 
 ## Render(IDevice, TDocument, int) {#render_3}
 
-定义将!:TDocument渲染到指定的[`IDevice`](../../idevice)的方法。 在没有任何网络操作加载资源、活动定时器、动画任务或指定超时时间后，将执行渲染。
+定义渲染方法!:TDocument进入指定[`IDevice`](../../idevice) . 一旦没有任何用于加载资源、活动定时器、动画任务或指定超时的网络操作，将执行渲染。
 
 ```csharp
 public void Render(IDevice device, TDocument document, int timeout)
@@ -62,7 +62,7 @@ public void Render(IDevice device, TDocument document, int timeout)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | device | IDevice | 输出设备。 |
-| document | TDocument | 文档。 |
+| document | TDocument | 文件。 |
 | timeout | Int32 | 毫秒数，表示等待的毫秒数，或 -1 毫秒无限期等待。 |
 
 ### 也可以看看
@@ -76,7 +76,7 @@ public void Render(IDevice device, TDocument document, int timeout)
 
 ## Render(IDevice, params TDocument[]) {#render_5}
 
-定义将多个!:TDocument渲染到特定[`IDevice`](../../idevice)的方法。
+定义渲染多个的方法!:TDocument变成具体的[`IDevice`](../../idevice) .
 
 ```csharp
 public void Render(IDevice device, params TDocument[] documents)
@@ -98,7 +98,7 @@ public void Render(IDevice device, params TDocument[] documents)
 
 ## Render(IDevice, int, params TDocument[]) {#render}
 
-定义将多个!:TDocument渲染到特定[`IDevice`](../../idevice)的方法。 在没有任何网络操作加载资源、活动定时器、动画任务或指定超时时间后，将执行渲染。
+定义渲染多个的方法!:TDocument变成具体的[`IDevice`](../../idevice) . 一旦没有任何用于加载资源、活动定时器、动画任务或指定超时的网络操作，将执行渲染。
 
 ```csharp
 public void Render(IDevice device, int timeout, params TDocument[] documents)
@@ -121,7 +121,7 @@ public void Render(IDevice device, int timeout, params TDocument[] documents)
 
 ## Render(IDevice, TimeSpan, params TDocument[]) {#render_1}
 
-定义将多个!:TDocument渲染到特定[`IDevice`](../../idevice)的方法。 在没有任何网络操作加载资源、活动定时器、动画任务或指定超时时间后，将执行渲染。
+定义渲染多个的方法!:TDocument变成具体的[`IDevice`](../../idevice) . 一旦没有任何用于加载资源、活动定时器、动画任务或指定超时的网络操作，将执行渲染。
 
 ```csharp
 public abstract void Render(IDevice device, TimeSpan timeout, params TDocument[] documents)
@@ -130,7 +130,7 @@ public abstract void Render(IDevice device, TimeSpan timeout, params TDocument[]
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | device | IDevice | 输出设备。 |
-| timeout | TimeSpan | TimeSpan表示等待的毫秒数，或TimeSpan表示-1 毫秒无限期等待。 |
+| timeout | TimeSpan | 一个TimeSpan表示等待的毫秒数，或TimeSpan表示 -1 毫秒无限期等待。 |
 | documents | TDocument[] | 要呈现的文档。 |
 
 ### 也可以看看

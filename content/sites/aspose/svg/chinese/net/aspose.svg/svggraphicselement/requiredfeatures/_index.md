@@ -1,14 +1,14 @@
 ---
 title: RequiredFeatures
 second_title: Aspose.SVG for .NET API 参考
-description: 对应于给定元素的属性requiredFeatures
+description: 对应于给定元素上的属性requiredFeatures
 type: docs
 weight: 40
 url: /zh/net/aspose.svg/svggraphicselement/requiredfeatures/
 ---
 ## SVGGraphicsElement.RequiredFeatures property
 
-对应于给定元素的属性“requiredFeatures”。
+对应于给定元素上的属性“requiredFeatures”。
 
 ```csharp
 public SVGStringList RequiredFeatures { get; }

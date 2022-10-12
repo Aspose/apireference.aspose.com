@@ -1,14 +1,14 @@
 ---
 title: FontSize
 second_title: Справочник по Aspose.SVG для .NET API
-description: См. определение свойства font-size в CSS2.
+description: См. определение свойства размера шрифта в CSS2.
 type: docs
 weight: 490
 url: /ru/net/aspose.svg.dom.css/icss2properties/fontsize/
 ---
 ## ICSS2Properties.FontSize property
 
-См. определение свойства font-size в CSS2.
+См. определение свойства размера шрифта в CSS2.
 
 ```csharp
 public string FontSize { get; set; }

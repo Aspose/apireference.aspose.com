@@ -1,14 +1,14 @@
 ---
 title: SVGPathSegList
 second_title: Aspose.SVG for .NET API 参考
-description: 初始化SVGPathSegListaspose.svg.paths/svgpathseglist类的新实例
+description: 初始化SVGPathSegListaspose.svg.paths/svgpathseglist类.
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.paths/svgpathseglist/svgpathseglist/
 ---
 ## SVGPathSegList() {#constructor}
 
-初始化[`SVGPathSegList`](../../svgpathseglist)类的新实例。
+初始化[`SVGPathSegList`](../../svgpathseglist)类.
 
 ```csharp
 public SVGPathSegList()
@@ -24,7 +24,7 @@ public SVGPathSegList()
 
 ## SVGPathSegList(IEnumerable&lt;SVGPathSeg&gt;) {#constructor_1}
 
-初始化[`SVGPathSegList`](../../svgpathseglist)类的新实例。
+初始化[`SVGPathSegList`](../../svgpathseglist)类.
 
 ```csharp
 public SVGPathSegList(IEnumerable<SVGPathSeg> enumerable)
@@ -32,7 +32,7 @@ public SVGPathSegList(IEnumerable<SVGPathSeg> enumerable)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| enumerable | IEnumerable`1 | 可枚举的。 |
+| enumerable | IEnumerable`1 | 可数的。 |
 
 ### 也可以看看
 

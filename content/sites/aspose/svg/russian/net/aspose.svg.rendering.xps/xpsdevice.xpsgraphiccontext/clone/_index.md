@@ -1,14 +1,14 @@
 ---
 title: Clone
 second_title: Справочник по Aspose.SVG для .NET API
-description: Создает новый экземпляр класса XpsGraphicContext с теми же значениями свойств что и у существующего экземпляра.
+description: Создает новый экземпляр класса XpsGraphicContext с теми же значениями свойств что и существующий экземпляр.
 type: docs
 weight: 20
 url: /ru/net/aspose.svg.rendering.xps/xpsdevice.xpsgraphiccontext/clone/
 ---
 ## XpsDevice.XpsGraphicContext.Clone method
 
-Создает новый экземпляр класса XpsGraphicContext с теми же значениями свойств, что и у существующего экземпляра.
+Создает новый экземпляр класса XpsGraphicContext с теми же значениями свойств, что и существующий экземпляр.
 
 ```csharp
 public override GraphicContext Clone()

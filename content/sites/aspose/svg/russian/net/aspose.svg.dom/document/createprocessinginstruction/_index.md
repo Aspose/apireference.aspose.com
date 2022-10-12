@@ -1,14 +1,14 @@
 ---
 title: CreateProcessingInstruction
 second_title: Справочник по Aspose.SVG для .NET API
-description: Создает узел ProcessingInstruction с указанным именем и строками данных.
+description: Создает узел ProcessingInstruction с заданным именем и строками данных.
 type: docs
 weight: 920
 url: /ru/net/aspose.svg.dom/document/createprocessinginstruction/
 ---
 ## Document.CreateProcessingInstruction method
 
-Создает узел ProcessingInstruction с указанным именем и строками данных.
+Создает узел ProcessingInstruction с заданным именем и строками данных.
 
 ```csharp
 public ProcessingInstruction CreateProcessingInstruction(string target, string data)
@@ -21,7 +21,7 @@ public ProcessingInstruction CreateProcessingInstruction(string target, string d
 
 ### Возвращаемое значение
 
-[`ProcessingInstruction`](../../processinginstruction).
+[`ProcessingInstruction`](../../processinginstruction) .
 
 ### Смотрите также
 

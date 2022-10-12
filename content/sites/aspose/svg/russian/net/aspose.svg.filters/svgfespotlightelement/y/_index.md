@@ -8,7 +8,7 @@ url: /ru/net/aspose.svg.filters/svgfespotlightelement/y/
 ---
 ## SVGFESpotLightElement.Y property
 
-Соответствует атрибуту 'y' данного элемента 'feSpotLight'.
+Соответствует атрибуту 'y' данного элемента feSpotLight.
 
 ```csharp
 public SVGAnimatedNumber Y { get; }

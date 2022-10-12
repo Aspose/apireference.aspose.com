@@ -1,14 +1,14 @@
 ---
 title: Encoding
 second_title: Справочник по Aspose.SVG для .NET API
-description: Информация о кодировке используемая в этом правилеcharset.
+description: Информация о кодировке используемая в этом правиле charset.
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.dom.css/icsscharsetrule/encoding/
 ---
 ## ICSSCharsetRule.Encoding property
 
-Информация о кодировке, используемая в этом правиле@charset.
+Информация о кодировке, используемая в этом правиле @charset.
 
 ```csharp
 public string Encoding { get; set; }

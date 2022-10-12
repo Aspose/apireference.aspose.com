@@ -1,14 +1,14 @@
 ---
 title: Add
 second_title: Aspose.SVG for .NET API 参考
-description: 将内容添加到MultipartFormDataContentaspose.svg.net/multipartformdatacontent类
+description: 将内容添加到MultipartFormDataContentaspose.svg.net/multipartformdatacontentclass
 type: docs
 weight: 20
 url: /zh/net/aspose.svg.net/multipartformdatacontent/add/
 ---
 ## Add(Content) {#add}
 
-将内容添加到[`MultipartFormDataContent`](../../multipartformdatacontent)类
+将内容添加到[`MultipartFormDataContent`](../../multipartformdatacontent)class
 
 ```csharp
 public override void Add(Content content)
@@ -29,7 +29,7 @@ public override void Add(Content content)
 
 ## Add(Content, string) {#add_1}
 
-将内容添加到 [`MultipartFormDataContent`](../../multipartformdatacontent) 具有字段名称参数的类
+将内容添加到[`MultipartFormDataContent`](../../multipartformdatacontent)具有字段名称 parameter 的类
 
 ```csharp
 public void Add(Content content, string name)
@@ -51,7 +51,7 @@ public void Add(Content content, string name)
 
 ## Add(Content, string, string) {#add_2}
 
-将内容添加到[`MultipartFormDataContent`](../../multipartformdatacontent)类，带有字段和文件名参数
+将内容添加到[`MultipartFormDataContent`](../../multipartformdatacontent)具有字段和文件名参数 的类
 
 ```csharp
 public void Add(Content content, string name, string fileName)

@@ -16,7 +16,7 @@ public void SetLeftRightPage(Page leftPage, Page rightPage)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| leftPage | Page | 左侧页面。 |
+| leftPage | Page | 左页。 |
 | rightPage | Page | 正确的页面。 |
 
 ### 也可以看看

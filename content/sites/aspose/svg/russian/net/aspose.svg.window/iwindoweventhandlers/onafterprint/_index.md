@@ -1,14 +1,14 @@
 ---
 title: OnAfterPrint
 second_title: Справочник по Aspose.SVG для .NET API
-description: Получает или задает обработчик событий
+description: Получает или задает обработчик события
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.window/iwindoweventhandlers/onafterprint/
 ---
 ## IWindowEventHandlers.OnAfterPrint event
 
-Получает или задает обработчик событий
+Получает или задает обработчик события
 
 ```csharp
 public event DOMEventHandler OnAfterPrint;

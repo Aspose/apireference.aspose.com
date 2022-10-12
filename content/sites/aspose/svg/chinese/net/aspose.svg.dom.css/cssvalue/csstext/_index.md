@@ -1,14 +1,14 @@
 ---
 title: CSSText
 second_title: Aspose.SVG for .NET API 参考
-description: 当前值的字符串表示
+description: 当前值的字符串表示形式
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.dom.css/cssvalue/csstext/
 ---
 ## CSSValue.CSSText property
 
-当前值的字符串表示。
+当前值的字符串表示形式。
 
 ```csharp
 public abstract string CSSText { get; set; }

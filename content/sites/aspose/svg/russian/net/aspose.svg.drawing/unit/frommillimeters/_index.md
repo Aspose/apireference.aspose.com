@@ -1,14 +1,14 @@
 ---
 title: FromMillimeters
 second_title: Справочник по Aspose.SVG для .NET API
-description: Возвращает объектLengthaspose.svg.drawing/length представленный в миллиметрах.
+description: ВозвращаетLengthaspose.svg.drawing/length объект представленный в миллиметрах.
 type: docs
 weight: 140
 url: /ru/net/aspose.svg.drawing/unit/frommillimeters/
 ---
 ## Unit.FromMillimeters method
 
-Возвращает объект[`Length`](../../length), представленный в миллиметрах.
+Возвращает[`Length`](../../length) объект, представленный в миллиметрах.
 
 ```csharp
 public static Length FromMillimeters(double value)
@@ -20,7 +20,7 @@ public static Length FromMillimeters(double value)
 
 ### Возвращаемое значение
 
-Возвращает объект[`Length`](../../length).
+Возвращает[`Length`](../../length) объект.
 
 ### Смотрите также
 

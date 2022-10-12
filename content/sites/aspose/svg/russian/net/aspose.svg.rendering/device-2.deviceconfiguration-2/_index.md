@@ -3,7 +3,7 @@ title: DeviceTGraphicContextTRenderingOptions.DeviceConfigurationTGraphicContext
 second_title: Справочник по Aspose.SVG для .NET API
 description: Представляет объект конфигурации для устройств.
 type: docs
-weight: 2700
+weight: 2710
 url: /ru/net/aspose.svg.rendering/device-2.deviceconfiguration-2/
 ---
 ## Device&lt;TGraphicContext,TRenderingOptions&gt;.DeviceConfiguration&lt;TGraphicContext,TRenderingOptions&gt; class
@@ -26,7 +26,7 @@ public class DeviceConfiguration<TGraphicContext, TRenderingOptions>
 
 | Имя | Описание |
 | --- | --- |
-| [PageWritingStrategy](../../aspose.svg.rendering/deviceconfiguration/pagewritingstrategy) { get; set; } | Получает или задает стратегию написания страницы. |
+| [PageWritingStrategy](../../aspose.svg.rendering/deviceconfiguration/pagewritingstrategy) { get; set; } | Получает или задает стратегию записи страницы. |
 
 ### Смотрите также
 

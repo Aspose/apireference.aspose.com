@@ -1,14 +1,14 @@
 ---
 title: Intercept
 second_title: Справочник по Aspose.SVG для .NET API
-description: Соответствует атрибуту intercept данного элемента.
+description: Соответствует атрибуту перехват данного элемента.
 type: docs
 weight: 30
 url: /ru/net/aspose.svg/svgcomponenttransferfunctionelement/intercept/
 ---
 ## SVGComponentTransferFunctionElement.Intercept property
 
-Соответствует атрибуту 'intercept' данного элемента.
+Соответствует атрибуту «перехват» данного элемента.
 
 ```csharp
 public SVGAnimatedNumber Intercept { get; }
@@ -16,7 +16,7 @@ public SVGAnimatedNumber Intercept { get; }
 
 ### Стоимость имущества
 
-Атрибут 'перехват' данного элемента.
+Атрибут «перехват» данного элемента.
 
 ### Смотрите также
 

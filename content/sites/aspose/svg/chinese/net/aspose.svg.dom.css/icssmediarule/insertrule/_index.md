@@ -1,14 +1,14 @@
 ---
 title: InsertRule
 second_title: Aspose.SVG for .NET API 参考
-description: 用于将新规则插入媒体块
+description: 用于在媒体块中插入新规则
 type: docs
 weight: 40
 url: /zh/net/aspose.svg.dom.css/icssmediarule/insertrule/
 ---
 ## ICSSMediaRule.InsertRule method
 
-用于将新规则插入媒体块。
+用于在媒体块中插入新规则。
 
 ```csharp
 public long InsertRule(string rule, long index)
@@ -16,8 +16,8 @@ public long InsertRule(string rule, long index)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| rule | String | 媒体规则。 |
-| index | Int64 | 索引。 |
+| rule | String | 媒体统治。 |
+| index | Int64 | 指数。 |
 
 ### 返回值
 

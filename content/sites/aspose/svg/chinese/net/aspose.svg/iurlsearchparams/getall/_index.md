@@ -1,14 +1,14 @@
 ---
 title: GetAll
 second_title: Aspose.SVG for .NET API 参考
-description: 返回名称为 name 的所有值
+description: 返回名称为姓名 .
 type: docs
 weight: 40
 url: /zh/net/aspose.svg/iurlsearchparams/getall/
 ---
 ## IUrlSearchParams.GetAll method
 
-返回名称为` name` 的所有值。
+返回名称为`姓名` .
 
 ```csharp
 public IList<string> GetAll(string name)
@@ -20,7 +20,7 @@ public IList<string> GetAll(string name)
 
 ### 返回值
 
-包含名称为` name` 的所有值的列表。
+包含名称为的所有值的列表`姓名`.
 
 ### 也可以看看
 

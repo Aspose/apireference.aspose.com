@@ -1,14 +1,14 @@
 ---
 title: SVGTransformList
 second_title: Aspose.SVG for .NET API 参考
-description: 初始化SVGTransformListaspose.svg.datatypes/svgtransformlist类的新实例
+description: 初始化SVGTransformListaspose.svg.datatypes/svgtransformlist类.
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.datatypes/svgtransformlist/svgtransformlist/
 ---
 ## SVGTransformList() {#constructor}
 
-初始化[`SVGTransformList`](../../svgtransformlist)类的新实例。
+初始化[`SVGTransformList`](../../svgtransformlist)类.
 
 ```csharp
 public SVGTransformList()
@@ -24,7 +24,7 @@ public SVGTransformList()
 
 ## SVGTransformList(IEnumerable&lt;SVGTransform&gt;) {#constructor_1}
 
-初始化[`SVGTransformList`](../../svgtransformlist)类的新实例。
+初始化[`SVGTransformList`](../../svgtransformlist)类.
 
 ```csharp
 public SVGTransformList(IEnumerable<SVGTransform> enumerable)
@@ -32,7 +32,7 @@ public SVGTransformList(IEnumerable<SVGTransform> enumerable)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| enumerable | IEnumerable`1 | 可枚举的。 |
+| enumerable | IEnumerable`1 | 可数的。 |
 
 ### 也可以看看
 

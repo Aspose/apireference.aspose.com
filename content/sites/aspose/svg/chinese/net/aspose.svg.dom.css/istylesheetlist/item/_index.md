@@ -1,14 +1,14 @@
 ---
 title: Item
 second_title: Aspose.SVG for .NET API 参考
-description: 用于根据 http//www.w3.org/TR/2000/REC-DOM-Level-2-Style- 通过方法 itemint index 检索样式表20001113/stylesheets.html
+description: 用于根据 http//www.w3.org/TR/2000/RECDOMLevel2Style20001113/stylesheets.html. 通过方法 itemint index 检索样式表
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.dom.css/istylesheetlist/item/
 ---
 ## IStyleSheetList indexer
 
-用于根据 http://www.w3.org/TR/2000/REC-DOM-Level-2-Style- 通过方法 item(int index) 检索样式表20001113/stylesheets.html。
+用于根据 http://www.w3.org/TR/2000/REC-DOM-Level-2-Style-20001113/stylesheets.html. 通过方法 item(int index) 检索样式表
 
 ```csharp
 public ICSSStyleSheet this[int index] { get; }
@@ -24,7 +24,7 @@ CSS 样式表实例。
 
 ### 适当的价值
 
-[`ICSSStyleSheet`](../../icssstylesheet)。
+的[`ICSSStyleSheet`](../../icssstylesheet) .
 
 ### 也可以看看
 

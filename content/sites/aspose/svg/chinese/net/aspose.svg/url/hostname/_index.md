@@ -1,14 +1,14 @@
 ---
 title: Hostname
 second_title: Aspose.SVG for .NET API 参考
-description: 获取或设置指定 URL 主机名的字符串表示
+description: 获取或设置指定 URL 主机名的字符串表示形式
 type: docs
 weight: 40
 url: /zh/net/aspose.svg/url/hostname/
 ---
 ## Url.Hostname property
 
-获取或设置指定 URL 主机名的字符串表示。
+获取或设置指定 URL 主机名的字符串表示形式。
 
 ```csharp
 public string Hostname { get; set; }

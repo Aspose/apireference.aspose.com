@@ -1,14 +1,14 @@
 ---
 title: ImageDevice
 second_title: Справочник по Aspose.SVG для .NET API
-description: Инициализирует новый экземпляр классаImageDeviceaspose.svg.rendering.image/imagedevice.
+description: Инициализирует новый экземплярImageDeviceaspose.svg.rendering.image/imagedevice класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.rendering.image/imagedevice/imagedevice/
 ---
 ## ImageDevice(ICreateStreamProvider) {#constructor}
 
-Инициализирует новый экземпляр класса[`ImageDevice`](../../imagedevice).
+Инициализирует новый экземпляр[`ImageDevice`](../../imagedevice) класс.
 
 ```csharp
 public ImageDevice(ICreateStreamProvider streamProvider)
@@ -16,7 +16,7 @@ public ImageDevice(ICreateStreamProvider streamProvider)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| streamProvider | ICreateStreamProvider | Поставщик потока. |
+| streamProvider | ICreateStreamProvider | Провайдер потока. |
 
 ### Смотрите также
 
@@ -29,7 +29,7 @@ public ImageDevice(ICreateStreamProvider streamProvider)
 
 ## ImageDevice(ImageRenderingOptions, ICreateStreamProvider) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`ImageDevice`](../../imagedevice)с помощью параметров рендеринга и поставщика потоков.
+Инициализирует новый экземпляр[`ImageDevice`](../../imagedevice) класс по параметрам рендеринга и потоковому провайдеру.
 
 ```csharp
 public ImageDevice(ImageRenderingOptions options, ICreateStreamProvider streamProvider)
@@ -37,8 +37,8 @@ public ImageDevice(ImageRenderingOptions options, ICreateStreamProvider streamPr
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| options | ImageRenderingOptions | Параметры рендеринга. |
-| streamProvider | ICreateStreamProvider | Объект, реализующий интерфейс[`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider) |
+| options | ImageRenderingOptions | Варианты рендеринга. |
+| streamProvider | ICreateStreamProvider | Объект, реализующий[`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider) интерфейс |
 
 ### Смотрите также
 
@@ -52,7 +52,7 @@ public ImageDevice(ImageRenderingOptions options, ICreateStreamProvider streamPr
 
 ## ImageDevice(string) {#constructor_5}
 
-Инициализирует новый экземпляр класса[`ImageDevice`](../../imagedevice).
+Инициализирует новый экземпляр[`ImageDevice`](../../imagedevice) класс.
 
 ```csharp
 public ImageDevice(string file)
@@ -72,7 +72,7 @@ public ImageDevice(string file)
 
 ## ImageDevice(ImageRenderingOptions, string) {#constructor_3}
 
-Инициализирует новый экземпляр класса[`ImageDevice`](../../imagedevice)параметрами рендеринга и именем выходного файла.
+Инициализирует новый экземпляр[`ImageDevice`](../../imagedevice) класс по параметрам рендеринга и имени выходного файла.
 
 ```csharp
 public ImageDevice(ImageRenderingOptions options, string file)
@@ -80,7 +80,7 @@ public ImageDevice(ImageRenderingOptions options, string file)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| options | ImageRenderingOptions | Параметры рендеринга. |
+| options | ImageRenderingOptions | Варианты рендеринга. |
 | file | String | Имя выходного файла. |
 
 ### Смотрите также
@@ -94,7 +94,7 @@ public ImageDevice(ImageRenderingOptions options, string file)
 
 ## ImageDevice(Stream) {#constructor_4}
 
-Инициализирует новый экземпляр класса[`ImageDevice`](../../imagedevice).
+Инициализирует новый экземпляр[`ImageDevice`](../../imagedevice) класс.
 
 ```csharp
 public ImageDevice(Stream stream)
@@ -114,7 +114,7 @@ public ImageDevice(Stream stream)
 
 ## ImageDevice(ImageRenderingOptions, Stream) {#constructor_2}
 
-Инициализирует новый экземпляр класса[`ImageDevice`](../../imagedevice)параметрами рендеринга и потоком вывода.
+Инициализирует новый экземпляр[`ImageDevice`](../../imagedevice) класс по параметрам рендеринга и выходному потоку.
 
 ```csharp
 public ImageDevice(ImageRenderingOptions options, Stream stream)
@@ -122,7 +122,7 @@ public ImageDevice(ImageRenderingOptions options, Stream stream)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| options | ImageRenderingOptions | Параметры рендеринга. |
+| options | ImageRenderingOptions | Варианты рендеринга. |
 | stream | Stream | Выходной поток. |
 
 ### Смотрите также

@@ -3,7 +3,7 @@ title: RequestMessage
 second_title: Справочник по Aspose.SVG для .NET API
 description: Представляет сообщение запроса.
 type: docs
-weight: 2380
+weight: 2390
 url: /ru/net/aspose.svg.net/requestmessage/
 ---
 ## RequestMessage class
@@ -18,8 +18,8 @@ public class RequestMessage : IDisposable
 
 | Имя | Описание |
 | --- | --- |
-| [RequestMessage](requestmessage#constructor_1)(string) | Инициализирует новый экземпляр класса[`RequestMessage`](../requestmessage). |
-| [RequestMessage](requestmessage#constructor)(Url) | Инициализирует новый экземпляр класса[`RequestMessage`](../requestmessage). |
+| [RequestMessage](requestmessage#constructor_1)(string) | Инициализирует новый экземпляр[`RequestMessage`](../requestmessage) класс. |
+| [RequestMessage](requestmessage#constructor)(Url) | Инициализирует новый экземпляр[`RequestMessage`](../requestmessage) класс. |
 
 ## Характеристики
 
@@ -27,9 +27,9 @@ public class RequestMessage : IDisposable
 | --- | --- |
 | [Content](../../aspose.svg.net/requestmessage/content) { get; set; } | Получает или задает содержимое запроса. |
 | [CookieContainer](../../aspose.svg.net/requestmessage/cookiecontainer) { get; set; } | Получает или задает контейнер файлов cookie, используемый обработчиком для хранения серверных файлов cookie. |
-| [Credentials](../../aspose.svg.net/requestmessage/credentials) { get; set; } | Получает или задает данные проверки подлинности для запроса. |
-| [Headers](../../aspose.svg.net/requestmessage/headers) { get; } | Получает[`RequestHeaders`](../requestheaders). |
-| [Method](../../aspose.svg.net/requestmessage/method) { get; set; } | Получает или задает[`HttpMethod`](../httpmethod). |
+| [Credentials](../../aspose.svg.net/requestmessage/credentials) { get; set; } | Получает или задает данные аутентификации для запроса. |
+| [Headers](../../aspose.svg.net/requestmessage/headers) { get; } | Получает[`RequestHeaders`](../requestheaders) . |
+| [Method](../../aspose.svg.net/requestmessage/method) { get; set; } | Получает или задает[`HttpMethod`](../httpmethod) . |
 | [PreAuthenticate](../../aspose.svg.net/requestmessage/preauthenticate) { get; set; } | Получает или задает значение, указывающее, следует ли отправлять заголовок авторизации вместе с запросом. |
 | [RequestUri](../../aspose.svg.net/requestmessage/requesturi) { get; set; } | Получает или задает URI запроса. |
 | [Timeout](../../aspose.svg.net/requestmessage/timeout) { get; set; } | Количество миллисекунд ожидания до истечения времени ожидания запроса. Значение по умолчанию — 100 000 миллисекунд (100 секунд). |
@@ -38,7 +38,7 @@ public class RequestMessage : IDisposable
 
 | Имя | Описание |
 | --- | --- |
-| [Dispose](../../aspose.svg.net/requestmessage/dispose)() | Выполняет определяемые приложением задачи, связанные с освобождением, освобождением или сбросом неуправляемых ресурсов. |
+| [Dispose](../../aspose.svg.net/requestmessage/dispose)() | Выполняет определяемые приложением задачи, связанные с освобождением, высвобождением или сбросом неуправляемых ресурсов. |
 
 ### Смотрите также
 

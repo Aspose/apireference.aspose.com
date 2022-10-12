@@ -1,14 +1,14 @@
 ---
 title: Item
 second_title: Справочник по Aspose.SVG для .NET API
-description: Используется для извлечения таблицы стилей по элементу метода int index в соответствии с http//www.w3.org/TR/2000/REC-DOM-Level-2-Style- 20001113/stylesheets.html.
+description: Используется для извлечения таблицы стилей по элементу метода int index в соответствии с http//www.w3.org/TR/2000/RECDOMLevel2Style20001113/stylesheets.html.
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.dom.css/istylesheetlist/item/
 ---
 ## IStyleSheetList indexer
 
-Используется для извлечения таблицы стилей по элементу метода (int index) в соответствии с http://www.w3.org/TR/2000/REC-DOM-Level-2-Style- 20001113/stylesheets.html.
+Используется для извлечения таблицы стилей по элементу метода (int index) в соответствии с http://www.w3.org/TR/2000/REC-DOM-Level-2-Style-20001113/stylesheets.html.
 
 ```csharp
 public ICSSStyleSheet this[int index] { get; }
@@ -24,7 +24,7 @@ public ICSSStyleSheet this[int index] { get; }
 
 ### Стоимость имущества
 
-[`ICSSStyleSheet`](../../icssstylesheet).
+[`ICSSStyleSheet`](../../icssstylesheet) .
 
 ### Смотрите также
 

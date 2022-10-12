@@ -16,8 +16,8 @@ public static bool operator >=(Time a, Time b)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| a | Time | Параметр a. |
-| b | Time | Параметр b. |
+| a | Time | Параметр а. |
+| b | Time | Параметр б. |
 
 ### Возвращаемое значение
 
@@ -27,8 +27,8 @@ public static bool operator >=(Time a, Time b)
 
 | исключение | условие |
 | --- | --- |
-| ArgumentException | Аргументы имеют разные типы |
-| ArgumentNullException | Аргумент имеет значение null |
+| ArgumentException | Аргументы бывают разных типов |
+| ArgumentNullException | Аргумент недействителен |
 
 ### Смотрите также
 

@@ -1,14 +1,14 @@
 ---
 title: UnitType
 second_title: Aspose.SVG for .NET API 参考
-description: 获取Unitaspose.svg.drawing/unit的单位类型
+description: 获取单位类型Unitaspose.svg.drawing/unit .
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.drawing/unit/unittype/
 ---
 ## Unit.UnitType property
 
-获取[`Unit`](../../unit)的单位类型。
+获取单位类型[`Unit`](../../unit) .
 
 ```csharp
 public UnitType UnitType { get; }
@@ -16,7 +16,7 @@ public UnitType UnitType { get; }
 
 ### 适当的价值
 
-单位的类型。
+单元的类型。
 
 ### 也可以看看
 

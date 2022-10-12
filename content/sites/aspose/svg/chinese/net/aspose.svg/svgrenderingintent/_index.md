@@ -1,9 +1,9 @@
 ---
 title: SVGRenderingIntent
 second_title: Aspose.SVG for .NET API 参考
-description: SVGRenderingIntent 枚举定义了rendering-intent属性或描述符的可能值的枚举列表
+description: SVGRenderingIntent 枚举定义了renderingintent属性或描述符的可能值的枚举列表
 type: docs
-weight: 3370
+weight: 3380
 url: /zh/net/aspose.svg/svgrenderingintent/
 ---
 ## SVGRenderingIntent enumeration

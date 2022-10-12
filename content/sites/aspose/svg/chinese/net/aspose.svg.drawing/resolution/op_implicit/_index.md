@@ -1,14 +1,14 @@
 ---
 title: op_Implicit
 second_title: Aspose.SVG for .NET API 参考
-description: 执行从Double到Resolutionaspose.svg.drawing/resolution的隐式转换
+description: 从Double至Resolutionaspose.svg.drawing/resolution .
 type: docs
 weight: 50
 url: /zh/net/aspose.svg.drawing/resolution/op_implicit/
 ---
 ## implicit operator {#op_implicit}
 
-执行从Double到[`Resolution`](../../resolution)的隐式转换。
+从Double至[`Resolution`](../../resolution) .
 
 ```csharp
 public static implicit operator Resolution(double value)
@@ -32,7 +32,7 @@ public static implicit operator Resolution(double value)
 
 ## implicit operator {#op_implicit_1}
 
-执行从Single到[`Resolution`](../../resolution)的隐式转换。
+从Single至[`Resolution`](../../resolution) .
 
 ```csharp
 public static implicit operator Resolution(float value)

@@ -1,14 +1,14 @@
 ---
 title: BorderWidth
 second_title: Aspose.SVG for .NET API 参考
-description: 请参阅 CSS2 中的border-width 属性定义
+description: 参见CSS2中的borderwidth属性定义
 type: docs
 weight: 290
 url: /zh/net/aspose.svg.dom.css/icss2properties/borderwidth/
 ---
 ## ICSS2Properties.BorderWidth property
 
-请参阅 CSS2 中的border-width 属性定义。
+参见CSS2中的border-width属性定义。
 
 ```csharp
 public string BorderWidth { get; set; }

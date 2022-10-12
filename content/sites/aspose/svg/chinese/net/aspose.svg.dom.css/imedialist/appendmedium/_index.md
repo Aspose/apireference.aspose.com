@@ -1,14 +1,14 @@
 ---
 title: AppendMedium
 second_title: Aspose.SVG for .NET API 参考
-description: 将介质 newMedium 添加到列表末尾如果 newMedium 已被使用则首先将其删除
+description: 将媒体 newMedium 添加到列表的末尾如果已经使用了newMedium则先将其移除
 type: docs
 weight: 40
 url: /zh/net/aspose.svg.dom.css/imedialist/appendmedium/
 ---
 ## IMediaList.AppendMedium method
 
-将介质 newMedium 添加到列表末尾。如果 newMedium 已被使用，则首先将其删除。
+将媒体 newMedium 添加到列表的末尾。如果已经使用了newMedium，则先将其移除。
 
 ```csharp
 public void AppendMedium(string newMedium)

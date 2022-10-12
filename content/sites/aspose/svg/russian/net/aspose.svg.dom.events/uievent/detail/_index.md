@@ -1,14 +1,14 @@
 ---
 title: Detail
 second_title: Справочник по Aspose.SVG для .NET API
-description: Указывает некоторую подробную информацию о Событии в зависимости от типа события.
+description: Указывает некоторую подробную информацию о событии в зависимости от типа события.
 type: docs
 weight: 20
 url: /ru/net/aspose.svg.dom.events/uievent/detail/
 ---
 ## UIEvent.Detail property
 
-Указывает некоторую подробную информацию о Событии, в зависимости от типа события.
+Указывает некоторую подробную информацию о событии в зависимости от типа события.
 
 ```csharp
 public long Detail { get; }

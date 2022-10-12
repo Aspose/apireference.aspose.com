@@ -1,14 +1,14 @@
 ---
 title: Count
 second_title: Справочник по Aspose.SVG для .NET API
-description: Получает количество пар ключ/значение содержащихся в коллекцииMutationObserverInitaspose.svg.dom.mutations/mutationobserverinit.
+description: Получает количество пар ключ/значение содержащихся вMutationObserverInitaspose.svg.dom.mutations/mutationobserverinitколлекция.
 type: docs
 weight: 80
 url: /ru/net/aspose.svg.dom.mutations/mutationobserverinit/count/
 ---
 ## MutationObserverInit.Count property
 
-Получает количество пар ключ/значение, содержащихся в коллекции[`MutationObserverInit`](../../mutationobserverinit).
+Получает количество пар ключ/значение, содержащихся в[`MutationObserverInit`](../../mutationobserverinit)коллекция.
 
 ```csharp
 public int Count { get; }

@@ -3,7 +3,7 @@ title: INetworkOperationContext
 second_title: Aspose.SVG for .NET API 参考
 description: 为网络服务提供上下文信息
 type: docs
-weight: 2270
+weight: 2280
 url: /zh/net/aspose.svg.net/inetworkoperationcontext/
 ---
 ## INetworkOperationContext interface

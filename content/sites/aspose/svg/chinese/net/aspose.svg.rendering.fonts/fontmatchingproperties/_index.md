@@ -3,7 +3,7 @@ title: FontMatchingProperties
 second_title: Aspose.SVG for .NET API 参考
 description: 此类包含描述被匹配字体的属性
 type: docs
-weight: 2730
+weight: 2740
 url: /zh/net/aspose.svg.rendering.fonts/fontmatchingproperties/
 ---
 ## FontMatchingProperties class
@@ -20,7 +20,7 @@ public class FontMatchingProperties
 | --- | --- |
 | [FontFamilies](../../aspose.svg.rendering.fonts/fontmatchingproperties/fontfamilies) { get; } | 获取字体系列的集合。 |
 | [FontStretch](../../aspose.svg.rendering.fonts/fontmatchingproperties/fontstretch) { get; } | 获取字体拉伸值。 |
-| [FontStyle](../../aspose.svg.rendering.fonts/fontmatchingproperties/fontstyle) { get; } | 获取字体样式值。这个属性可以有这样的值：normal、italic、oblique。 |
+| [FontStyle](../../aspose.svg.rendering.fonts/fontmatchingproperties/fontstyle) { get; } | 获取字体样式值。这个属性可以有这样的值：normal、italic、oblique. |
 | [FontWeight](../../aspose.svg.rendering.fonts/fontmatchingproperties/fontweight) { get; } | 获取字体粗细值。 |
 
 ### 也可以看看

@@ -1,14 +1,14 @@
 ---
 title: X
 second_title: Справочник по Aspose.SVG для .NET API
-description: Относительная координата X для конечной точки этого сегмента пути.
+description: Относительная координата X конечной точки этого сегмента пути.
 type: docs
 weight: 60
 url: /ru/net/aspose.svg.paths/svgpathsegarcrel/x/
 ---
 ## SVGPathSegArcRel.X property
 
-Относительная координата X для конечной точки этого сегмента пути.
+Относительная координата X конечной точки этого сегмента пути.
 
 ```csharp
 public float X { get; set; }
@@ -22,7 +22,7 @@ public float X { get; set; }
 
 | исключение | условие |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception) | Код[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err). Возникает при попытке изменить значение атрибута только для чтения. |
+| [DOMException](../../../aspose.svg.dom/domexception) | код[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err) . Возникает при попытке изменить значение атрибута только для чтения. |
 
 ### Смотрите также
 

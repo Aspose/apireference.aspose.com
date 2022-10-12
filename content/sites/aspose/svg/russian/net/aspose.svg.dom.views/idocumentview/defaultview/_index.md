@@ -1,14 +1,14 @@
 ---
 title: DefaultView
 second_title: Справочник по Aspose.SVG для .NET API
-description: AbstractView по умолчанию для этого документа или нуль если он недоступен.
+description: Абстрактное представление по умолчанию для этого документа или значение null если оно недоступно.
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.dom.views/idocumentview/defaultview/
 ---
 ## IDocumentView.DefaultView property
 
-AbstractView по умолчанию для этого документа или нуль, если он недоступен.
+Абстрактное представление по умолчанию для этого документа или значение null, если оно недоступно.
 
 ```csharp
 public IAbstractView DefaultView { get; }

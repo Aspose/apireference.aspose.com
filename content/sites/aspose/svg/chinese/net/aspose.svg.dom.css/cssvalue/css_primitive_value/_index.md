@@ -1,14 +1,14 @@
 ---
 title: CSS_PRIMITIVE_VALUE
 second_title: Aspose.SVG for .NET API 参考
-description: 该值是一个原始值并且可以通过在这个 CSSValue 接口实例上使用特定于绑定的转换方法来获得一个 CSSPrimitiveValue 接口实例
+description: 该值是一个原始值并且可以通过在CSSValue接口的这个实例上使用特定于绑定的转换方法来获得一个CSSPrimitiveValue接口的实例
 type: docs
 weight: 90
 url: /zh/net/aspose.svg.dom.css/cssvalue/css_primitive_value/
 ---
 ## CSSValue.CSS_PRIMITIVE_VALUE field
 
-该值是一个原始值，并且可以通过在这个 CSSValue 接口实例上使用特定于绑定的转换方法来获得一个 CSSPrimitiveValue 接口实例。
+该值是一个原始值，并且可以通过在CSSValue接口的这个实例上使用特定于绑定的转换方法来获得一个CSSPrimitiveValue接口的实例。
 
 ```csharp
 public const ushort CSS_PRIMITIVE_VALUE;

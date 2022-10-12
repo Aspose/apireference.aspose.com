@@ -1,7 +1,7 @@
 ---
 title: PaddingTop
 second_title: Справочник по Aspose.SVG для .NET API
-description: См. определение свойства padding-top в CSS2.
+description: См. определение свойства paddingtop в CSS2.
 type: docs
 weight: 840
 url: /ru/net/aspose.svg.dom.css/icss2properties/paddingtop/

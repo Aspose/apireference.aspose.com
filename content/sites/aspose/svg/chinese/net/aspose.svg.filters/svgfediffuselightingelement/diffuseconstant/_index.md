@@ -16,7 +16,7 @@ public SVGAnimatedNumber DiffuseConstant { get; }
 
 ### 适当的价值
 
-给定 'feDiffuseLighting' 元素的属性 'diffuseConstant'。
+给定“feDiffuseLighting”元素的属性“diffuseConstant”。
 
 ### 也可以看看
 

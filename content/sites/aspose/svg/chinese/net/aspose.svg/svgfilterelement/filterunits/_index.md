@@ -1,14 +1,14 @@
 ---
 title: FilterUnits
 second_title: Aspose.SVG for .NET API 参考
-description: 对应于给定 filter 元素上的属性 filterUnits采用 SVGUnitTypes 中定义的常量之一
+description: 对应于给定 filter 元素上的属性 filterUnits采用 SVGUnitTypes. 中定义的常量之一
 type: docs
 weight: 10
 url: /zh/net/aspose.svg/svgfilterelement/filterunits/
 ---
 ## SVGFilterElement.FilterUnits property
 
-对应于给定 'filter' 元素上的属性 'filterUnits'。采用 SVGUnitTypes 中定义的常量之一。
+对应于给定 'filter' 元素上的属性 'filterUnits'。采用 SVGUnitTypes. 中定义的常量之一
 
 ```csharp
 public SVGAnimatedEnumeration FilterUnits { get; }
@@ -16,7 +16,7 @@ public SVGAnimatedEnumeration FilterUnits { get; }
 
 ### 适当的价值
 
-给定 'filter' 元素的属性 'filterUnits'。
+给定“过滤器”元素的属性“filterUnits”。
 
 ### 也可以看看
 

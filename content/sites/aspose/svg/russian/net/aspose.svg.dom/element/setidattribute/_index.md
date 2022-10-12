@@ -1,14 +1,14 @@
 ---
 title: SetIdAttribute
 second_title: Справочник по Aspose.SVG для .NET API
-description: Если параметр isId имеет значение true этот метод объявляет указанный атрибут как идентификатор определяемый пользователем.
+description: Если параметр isId имеет значение true этот метод объявляет указанный атрибут как определяемый пользователем атрибут ID.
 type: docs
 weight: 440
 url: /ru/net/aspose.svg.dom/element/setidattribute/
 ---
 ## Element.SetIdAttribute method
 
-Если параметр isId имеет значение true, этот метод объявляет указанный атрибут как идентификатор, определяемый пользователем.
+Если параметр isId имеет значение true, этот метод объявляет указанный атрибут как определяемый пользователем атрибут ID.
 
 ```csharp
 public void SetIdAttribute(string name, bool isId)
@@ -17,7 +17,7 @@ public void SetIdAttribute(string name, bool isId)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | name | String | Имя атрибута. |
-| isId | Boolean | , если установлено значение` true` [это идентификатор]. |
+| isId | Boolean | если установлено`истинный` [идентификатор]. |
 
 ### Смотрите также
 

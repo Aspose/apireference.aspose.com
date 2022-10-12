@@ -1,14 +1,14 @@
 ---
 title: ShiftKey
 second_title: Aspose.SVG for .NET API 参考
-description: 请参阅 shiftKey 属性
+description: 参考 shiftKey 属性
 type: docs
 weight: 120
 url: /zh/net/aspose.svg.dom.events/mouseevent/shiftkey/
 ---
 ## MouseEvent.ShiftKey property
 
-请参阅 shiftKey 属性。
+参考 shiftKey 属性。
 
 ```csharp
 public bool ShiftKey { get; }
@@ -16,7 +16,7 @@ public bool ShiftKey { get; }
 
 ### 适当的价值
 
-` true` if [shift key];否则，` false` 。
+`真的`如果 [shift 键];否则，`错误的` .
 
 ### 也可以看看
 

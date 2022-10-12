@@ -16,7 +16,7 @@ public void DeleteRule(long index)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| index | Int64 | 索引。 |
+| index | Int64 | 指数。 |
 
 ### 也可以看看
 

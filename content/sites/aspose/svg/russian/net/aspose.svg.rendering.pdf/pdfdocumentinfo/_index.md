@@ -3,7 +3,7 @@ title: PdfDocumentInfo
 second_title: Справочник по Aspose.SVG для .NET API
 description: Представляет информацию о документе PDF.
 type: docs
-weight: 2910
+weight: 2920
 url: /ru/net/aspose.svg.rendering.pdf/pdfdocumentinfo/
 ---
 ## PdfDocumentInfo class
@@ -19,11 +19,11 @@ public class PdfDocumentInfo
 | Имя | Описание |
 | --- | --- |
 | [Author](../../aspose.svg.rendering.pdf/pdfdocumentinfo/author) { get; set; } | Имя человека, создавшего документ. |
-| [CreationDate](../../aspose.svg.rendering.pdf/pdfdocumentinfo/creationdate) { get; set; } | Получает или задает дату создания документа, указанную в виде всемирного координированного времени (UTC). |
+| [CreationDate](../../aspose.svg.rendering.pdf/pdfdocumentinfo/creationdate) { get; set; } | Получает или задает дату создания документа, указанную как всемирное координированное время (UTC). |
 | [Creator](../../aspose.svg.rendering.pdf/pdfdocumentinfo/creator) { get; set; } | Имя продукта, создавшего исходный документ. |
 | [Keywords](../../aspose.svg.rendering.pdf/pdfdocumentinfo/keywords) { get; set; } | Ключевые слова, связанные с документом. |
-| [ModificationDate](../../aspose.svg.rendering.pdf/pdfdocumentinfo/modificationdate) { get; set; } | Получает или задает дату изменения документа, указанную в виде всемирного координированного времени (UTC). |
-| [Producer](../../aspose.svg.rendering.pdf/pdfdocumentinfo/producer) { get; set; } | Имя продукта, который преобразовал документ. |
+| [ModificationDate](../../aspose.svg.rendering.pdf/pdfdocumentinfo/modificationdate) { get; set; } | Получает или задает дату изменения документа, указанную как всемирное координированное время (UTC). |
+| [Producer](../../aspose.svg.rendering.pdf/pdfdocumentinfo/producer) { get; set; } | Название продукта, который преобразовал документ. |
 | [Subject](../../aspose.svg.rendering.pdf/pdfdocumentinfo/subject) { get; set; } | Тема документа. |
 | [Title](../../aspose.svg.rendering.pdf/pdfdocumentinfo/title) { get; set; } | Название документа. |
 

@@ -1,14 +1,14 @@
 ---
 title: TypeName
 second_title: Справочник по Aspose.SVG для .NET API
-description: Имя типа объявленное для связанного элемента или атрибута или null если неизвестно.
+description: Имя типа объявленного для связанного элемента или атрибута или null если неизвестно.
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.dom/typeinfo/typename/
 ---
 ## TypeInfo.TypeName property
 
-Имя типа, объявленное для связанного элемента или атрибута, или null, если неизвестно.
+Имя типа, объявленного для связанного элемента или атрибута, или null, если неизвестно.
 
 ```csharp
 public string TypeName { get; }

@@ -1,14 +1,14 @@
 ---
 title: Clear
 second_title: Aspose.SVG for .NET API 参考
-description: 从MutationObserverInitaspose.svg.dom.mutations/mutationobserverinit集合中删除所有元素
+description: 删除所有元素MutationObserverInitaspose.svg.dom.mutations/mutationobserverinit集合.
 type: docs
 weight: 150
 url: /zh/net/aspose.svg.dom.mutations/mutationobserverinit/clear/
 ---
 ## MutationObserverInit.Clear method
 
-从[`MutationObserverInit`](../../mutationobserverinit)集合中删除所有元素。
+删除所有元素[`MutationObserverInit`](../../mutationobserverinit)集合.
 
 ```csharp
 public void Clear()

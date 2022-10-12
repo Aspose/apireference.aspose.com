@@ -16,7 +16,7 @@ public NodeList RemovedNodes { get; }
 
 ### 适当的价值
 
-删除的节点。
+移除的节点。
 
 ### 也可以看看
 

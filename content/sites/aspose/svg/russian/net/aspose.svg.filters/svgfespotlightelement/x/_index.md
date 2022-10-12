@@ -8,7 +8,7 @@ url: /ru/net/aspose.svg.filters/svgfespotlightelement/x/
 ---
 ## SVGFESpotLightElement.X property
 
-Соответствует атрибуту 'x' данного элемента 'feSpotLight'.
+Соответствует атрибуту «x» данного элемента «feSpotLight».
 
 ```csharp
 public SVGAnimatedNumber X { get; }

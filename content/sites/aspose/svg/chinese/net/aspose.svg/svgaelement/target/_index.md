@@ -1,14 +1,14 @@
 ---
 title: Target
 second_title: Aspose.SVG for .NET API 参考
-description: 对应于给定 a 元素的属性 target
+description: 对应于给定 a 元素上的属性 target
 type: docs
 weight: 20
 url: /zh/net/aspose.svg/svgaelement/target/
 ---
 ## SVGAElement.Target property
 
-对应于给定 'a' 元素的属性 'target'。
+对应于给定 'a' 元素上的属性 'target'。
 
 ```csharp
 public SVGAnimatedString Target { get; }
@@ -16,7 +16,7 @@ public SVGAnimatedString Target { get; }
 
 ### 适当的价值
 
-给定 'a' 元素的属性 'target'。
+给定'a'元素的属性'target'。
 
 ### 也可以看看
 

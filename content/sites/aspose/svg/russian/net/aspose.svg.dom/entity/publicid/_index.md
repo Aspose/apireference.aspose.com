@@ -1,14 +1,14 @@
 ---
 title: PublicId
 second_title: Справочник по Aspose.SVG для .NET API
-description: Открытый идентификатор связанный с сущностью если он указан и null в противном случае.
+description: Общедоступный идентификатор связанный с объектом если он указан и null в противном случае.
 type: docs
 weight: 50
 url: /ru/net/aspose.svg.dom/entity/publicid/
 ---
 ## Entity.PublicId property
 
-Открытый идентификатор, связанный с сущностью, если он указан, и null в противном случае.
+Общедоступный идентификатор, связанный с объектом, если он указан, и null в противном случае.
 
 ```csharp
 public string PublicId { get; }

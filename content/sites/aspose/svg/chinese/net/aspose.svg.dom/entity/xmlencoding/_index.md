@@ -1,14 +1,14 @@
 ---
 title: XmlEncoding
 second_title: Aspose.SVG for .NET API 参考
-description: 一个属性当它是一个外部解析实体时作为文本声明的一部分指定该实体的编码否则为 null
+description: 一个属性作为文本声明的一部分当它是一个外部解析实体时它指定该实体的编码否则为空
 type: docs
 weight: 70
 url: /zh/net/aspose.svg.dom/entity/xmlencoding/
 ---
 ## Entity.XmlEncoding property
 
-一个属性，当它是一个外部解析实体时，作为文本声明的一部分，指定该实体的编码。否则为 null。
+一个属性，作为文本声明的一部分，当它是一个外部解析实体时，它指定该实体的编码。否则为空。
 
 ```csharp
 public string XmlEncoding { get; }

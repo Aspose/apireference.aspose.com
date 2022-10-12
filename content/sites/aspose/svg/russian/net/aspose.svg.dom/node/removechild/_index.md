@@ -1,14 +1,14 @@
 ---
 title: RemoveChild
 second_title: Справочник по Aspose.SVG для .NET API
-description: Удаляет дочерний узел указанный oldChild из списка дочерних и возвращает его.
+description: Удаляет дочерний узел указанный oldChild из списка дочерних элементов и возвращает его.
 type: docs
 weight: 290
 url: /ru/net/aspose.svg.dom/node/removechild/
 ---
 ## Node.RemoveChild method
 
-Удаляет дочерний узел, указанный oldChild, из списка дочерних, и возвращает его.
+Удаляет дочерний узел, указанный oldChild, из списка дочерних элементов и возвращает его.
 
 ```csharp
 public Node RemoveChild(Node child)

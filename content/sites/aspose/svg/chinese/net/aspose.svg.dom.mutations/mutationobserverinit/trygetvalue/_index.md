@@ -17,11 +17,11 @@ public bool TryGetValue(string key, out object value)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | key | String | 要获取的值的键。 |
-| value | Object& | 当该方法返回时，如果找到该键，则包含与指定键关联的值；否则为空。 |
+| value | Object& | 此方法返回时，如果找到该键，则包含与指定键关联的值；否则为空。 |
 
 ### 返回值
 
-如果[`MutationObserverInit`](../../mutationobserverinit)包含指定的密钥，则为真；否则为假。
+真，如果[`MutationObserverInit`](../../mutationobserverinit)包含指定的密钥；否则为假。
 
 ### 也可以看看
 

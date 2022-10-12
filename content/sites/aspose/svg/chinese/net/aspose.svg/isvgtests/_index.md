@@ -3,7 +3,7 @@ title: ISVGTests
 second_title: Aspose.SVG for .NET API 参考
 description: 接口 SVGTests 定义了一个接口该接口适用于所有具有requiredFeaturesrequiredExtensions和systemLanguage属性的元素
 type: docs
-weight: 2020
+weight: 2030
 url: /zh/net/aspose.svg/isvgtests/
 ---
 ## ISVGTests interface
@@ -19,8 +19,8 @@ public interface ISVGTests
 | 姓名 | 描述 |
 | --- | --- |
 | [RequiredExtensions](../../aspose.svg/isvgtests/requiredextensions) { get; } | 对应于给定元素上的属性“requiredExtensions”。 |
-| [RequiredFeatures](../../aspose.svg/isvgtests/requiredfeatures) { get; } | 对应于给定元素的属性“requiredFeatures”。 |
-| [SystemLanguage](../../aspose.svg/isvgtests/systemlanguage) { get; } | 对应于给定元素的属性“systemLanguage”。 |
+| [RequiredFeatures](../../aspose.svg/isvgtests/requiredfeatures) { get; } | 对应于给定元素上的属性“requiredFeatures”。 |
+| [SystemLanguage](../../aspose.svg/isvgtests/systemlanguage) { get; } | 对应于给定元素上的属性“systemLanguage”。 |
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: Item
 second_title: Aspose.SVG for .NET API 参考
-description: 返回集合中的第 index 个项目如果 index 大于或等于列表中的节点数则返回 null
+description: 返回集合中的第 index 个项目如果 index 大于或等于列表中的节点数则返回 null.
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.collections/htmlcollection/item/
 ---
 ## HTMLCollection indexer
 
-返回集合中的第 index 个项目。如果 index 大于或等于列表中的节点数，则返回 null。
+返回集合中的第 index 个项目。如果 index 大于或等于列表中的节点数，则返回 null.
 
 ```csharp
 public abstract Element this[int index] { get; }
@@ -16,7 +16,7 @@ public abstract Element this[int index] { get; }
 
 | 范围 | 描述 |
 | --- | --- |
-| index | 索引。 |
+| index | 指数。 |
 
 ### 返回值
 
@@ -24,7 +24,7 @@ public abstract Element this[int index] { get; }
 
 ### 适当的价值
 
-[`Element`](../../../aspose.svg.dom/element)。
+的[`Element`](../../../aspose.svg.dom/element) .
 
 ### 也可以看看
 

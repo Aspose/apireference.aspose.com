@@ -1,14 +1,14 @@
 ---
 title: CreateSVGLength
 second_title: Aspose.SVG for .NET API 参考
-description: 在任何文档树之外创建一个 SVGLength 对象该对象被初始化为 0 个用户单位的值
+description: 在任何文档树之外创建一个 SVGLength 对象对象被初始化为 0 个用户单位的值
 type: docs
 weight: 130
 url: /zh/net/aspose.svg/svgsvgelement/createsvglength/
 ---
 ## SVGSVGElement.CreateSVGLength method
 
-在任何文档树之外创建一个 SVGLength 对象。该对象被初始化为 0 个用户单位的值。
+在任何文档树之外创建一个 SVGLength 对象。对象被初始化为 0 个用户单位的值。
 
 ```csharp
 public SVGLength CreateSVGLength()

@@ -1,14 +1,14 @@
 ---
 title: SVG_FECOLORMATRIX_TYPE_LUMINANCETOALPHA
 second_title: Aspose.SVG for .NET API 参考
-description: 对应于值 luminanceToAlpha
+description: 对应于值luminanceToAlpha
 type: docs
 weight: 100
 url: /zh/net/aspose.svg.filters/svgfecolormatrixelement/svg_fecolormatrix_type_luminancetoalpha/
 ---
 ## SVGFEColorMatrixElement.SVG_FECOLORMATRIX_TYPE_LUMINANCETOALPHA field
 
-对应于值 'luminanceToAlpha'。
+对应于值“luminanceToAlpha”。
 
 ```csharp
 public const ushort SVG_FECOLORMATRIX_TYPE_LUMINANCETOALPHA;

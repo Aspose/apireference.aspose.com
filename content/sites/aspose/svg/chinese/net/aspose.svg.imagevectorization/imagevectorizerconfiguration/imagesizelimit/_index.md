@@ -1,14 +1,14 @@
 ---
 title: ImageSizeLimit
 second_title: Aspose.SVG for .NET API 参考
-description: 获取由乘法图像宽度和高度确定的图像的最大尺寸集 图片的大小会根据这个属性进行缩放 默认值为 1800000
+description: 获取由乘法图像宽度和高度确定的图像的最大尺寸集 图像的大小将根据此属性进行缩放 默认值为 1800000
 type: docs
 weight: 30
 url: /zh/net/aspose.svg.imagevectorization/imagevectorizerconfiguration/imagesizelimit/
 ---
 ## ImageVectorizerConfiguration.ImageSizeLimit property
 
-获取由乘法图像宽度和高度确定的图像的最大尺寸集。 图片的大小会根据这个属性进行缩放。 默认值为 1800000。
+获取由乘法图像宽度和高度确定的图像的最大尺寸集。 图像的大小将根据此属性进行缩放。 默认值为 1800000。
 
 ```csharp
 public int ImageSizeLimit { get; set; }

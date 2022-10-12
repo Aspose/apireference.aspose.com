@@ -1,14 +1,14 @@
 ---
 title: Style
 second_title: Aspose.SVG for .NET API 参考
-description: 此规则的声明块
+description: 该规则的声明块
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.dom.css/icssfontfacerule/style/
 ---
 ## ICSSFontFaceRule.Style property
 
-此规则的声明块。
+该规则的声明块。
 
 ```csharp
 public ICSSStyleDeclaration Style { get; }

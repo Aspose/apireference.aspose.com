@@ -1,14 +1,14 @@
 ---
 title: MessageHandlers
 second_title: Aspose.SVG for .NET API 参考
-description: 获取MessageHandleraspose.svg.net/messagehandler实例列表作为RequestMessageaspose.svg.net/requestmessage调用执行
+description: 获取列表MessageHandleraspose.svg.net/messagehandler要调用的实例RequestMessageaspose.svg.net/requestmessage执行.
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.services/inetworkservice/messagehandlers/
 ---
 ## INetworkService.MessageHandlers property
 
-获取[`MessageHandler`](../../../aspose.svg.net/messagehandler)实例列表，作为[`RequestMessage`](../../../aspose.svg.net/requestmessage)调用执行。
+获取列表[`MessageHandler`](../../../aspose.svg.net/messagehandler)要调用的实例[`RequestMessage`](../../../aspose.svg.net/requestmessage)执行.
 
 ```csharp
 public MessageHandlerCollection MessageHandlers { get; }

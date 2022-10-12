@@ -1,7 +1,7 @@
 ---
 title: ReplaceData
 second_title: Справочник по Aspose.SVG для .NET API
-description: Заменить символы начинающиеся с указанного 16-битного смещения указанной строкой.
+description: Заменить символы начинающиеся с указанного 16битного смещения указанной строкой.
 type: docs
 weight: 60
 url: /ru/net/aspose.svg.dom/characterdata/replacedata/
@@ -17,8 +17,8 @@ public virtual void ReplaceData(int offset, int count, string data)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | offset | Int32 | Смещение. |
-| count | Int32 | Счетчик. |
-| data | String | Данные содержимого. |
+| count | Int32 | Счет. |
+| data | String | Данные контента. |
 
 ### Смотрите также
 

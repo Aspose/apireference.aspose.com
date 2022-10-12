@@ -3,7 +3,7 @@ title: ICSSUnknownRule
 second_title: Aspose.SVG for .NET API 参考
 description: CSSUnknownRule 接口表示此用户代理不支持的规则
 type: docs
-weight: 680
+weight: 670
 url: /zh/net/aspose.svg.dom.css/icssunknownrule/
 ---
 ## ICSSUnknownRule interface

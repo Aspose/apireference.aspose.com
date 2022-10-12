@@ -1,14 +1,14 @@
 ---
 title: Page
 second_title: Aspose.SVG for .NET API 参考
-description: 请参阅 CSS2 中的页面属性定义
+description: 参见CSS2中的页面属性定义
 type: docs
 weight: 850
 url: /zh/net/aspose.svg.dom.css/icss2properties/page/
 ---
 ## ICSS2Properties.Page property
 
-请参阅 CSS2 中的页面属性定义。
+参见CSS2中的页面属性定义。
 
 ```csharp
 public string Page { get; set; }

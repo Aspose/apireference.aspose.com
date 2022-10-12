@@ -1,14 +1,14 @@
 ---
 title: Host
 second_title: Aspose.SVG for .NET API 参考
-description: Host 是包含此 ShadowRoot 的元素
+description: Host 是一个包含此 ShadowRoot 的元素
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.dom/shadowroot/host/
 ---
 ## ShadowRoot.Host property
 
-Host 是包含此 ShadowRoot 的元素。
+Host 是一个包含此 ShadowRoot 的元素。
 
 ```csharp
 public Element Host { get; }

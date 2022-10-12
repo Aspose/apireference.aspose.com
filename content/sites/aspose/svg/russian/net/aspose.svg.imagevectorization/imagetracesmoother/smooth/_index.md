@@ -1,14 +1,14 @@
 ---
 title: Smooth
 second_title: Справочник по Aspose.SVG для .NET API
-description: Сглаживает след.
+description: Сглаживает трассировку.
 type: docs
 weight: 30
 url: /ru/net/aspose.svg.imagevectorization/imagetracesmoother/smooth/
 ---
 ## ImageTraceSmoother.Smooth method
 
-Сглаживает след.
+Сглаживает трассировку.
 
 ```csharp
 public virtual IEnumerable<PointF> Smooth(IEnumerable<PointF> trace)

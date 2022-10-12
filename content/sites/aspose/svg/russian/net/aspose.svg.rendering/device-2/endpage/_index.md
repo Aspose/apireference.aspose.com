@@ -1,14 +1,14 @@
 ---
 title: EndPage
 second_title: Справочник по Aspose.SVG для .NET API
-description: Завершает отображение текущей страницы.
+description: Завершает визуализацию текущей страницы.
 type: docs
 weight: 140
 url: /ru/net/aspose.svg.rendering/device-2/endpage/
 ---
 ## Device&lt;TGraphicContext,TRenderingOptions&gt;.EndPage method
 
-Завершает отображение текущей страницы.
+Завершает визуализацию текущей страницы.
 
 ```csharp
 public virtual void EndPage()

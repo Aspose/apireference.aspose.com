@@ -1,14 +1,14 @@
 ---
 title: FirstChild
 second_title: Aspose.SVG for .NET API 参考
-description: 将 TreeWalker 移动到 当前节点的第一个可见子节点并返回新节点如果当前节点没有 可见子节点则返回null并保留当前 节点
+description: 将 TreeWalker 移动到 当前节点的第一个可见子节点并返回新节点如果当前节点有 no 可见子节点返回 null并保留 current 节点
 type: docs
 weight: 20
 url: /zh/net/aspose.svg.dom.traversal/itreewalker/firstchild/
 ---
 ## ITreeWalker.FirstChild method
 
-将 TreeWalker 移动到 当前节点的第一个可见子节点，并返回新节点。如果当前节点没有 可见子节点，则返回null，并保留当前 节点。
+将 TreeWalker 移动到 当前节点的第一个可见子节点，并返回新节点。如果当前节点有 no 可见子节点，返回 null，并保留 current 节点。
 
 ```csharp
 public Node FirstChild()

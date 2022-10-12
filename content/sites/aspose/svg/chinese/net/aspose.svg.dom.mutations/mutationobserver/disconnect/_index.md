@@ -1,14 +1,14 @@
 ---
 title: Disconnect
 second_title: Aspose.SVG for .NET API 参考
-description: 阻止观察者观察任何突变在再次使用 observe 方法之前不会调用观察者的回调
+description: 阻止观察者观察任何突变在再次使用observe方法之前不会调用observer的回调
 type: docs
 weight: 20
 url: /zh/net/aspose.svg.dom.mutations/mutationobserver/disconnect/
 ---
 ## MutationObserver.Disconnect method
 
-阻止观察者观察任何突变。在再次使用 observe() 方法之前，不会调用观察者的回调。
+阻止观察者观察任何突变。在再次使用observe()方法之前，不会调用observer的回调。
 
 ```csharp
 public void Disconnect()

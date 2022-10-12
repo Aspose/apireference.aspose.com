@@ -1,7 +1,7 @@
 ---
 title: ListStylePosition
 second_title: Справочник по Aspose.SVG для .NET API
-description: См. определение свойства list-style-position в CSS2.
+description: См. определение свойства liststyleposition в CSS2.
 type: docs
 weight: 610
 url: /ru/net/aspose.svg.dom.css/icss2properties/liststyleposition/
@@ -16,7 +16,7 @@ public string ListStylePosition { get; set; }
 
 ### Возвращаемое значение
 
-свойство позиции в стиле списка
+свойство позиции стиля списка
 
 ### Смотрите также
 

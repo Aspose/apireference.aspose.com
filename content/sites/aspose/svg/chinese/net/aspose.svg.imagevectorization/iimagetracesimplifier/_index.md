@@ -3,7 +3,7 @@ title: IImageTraceSimplifier
 second_title: Aspose.SVG for .NET API 参考
 description: IImageTraceSimplifier 接口负责减少跟踪中的点
 type: docs
-weight: 2070
+weight: 2080
 url: /zh/net/aspose.svg.imagevectorization/iimagetracesimplifier/
 ---
 ## IImageTraceSimplifier interface

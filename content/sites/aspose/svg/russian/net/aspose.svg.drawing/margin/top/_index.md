@@ -1,14 +1,14 @@
 ---
 title: Top
 second_title: Справочник по Aspose.SVG для .NET API
-description: Получает или задает верхнее значение.
+description: Получает или устанавливает верхнюю часть.
 type: docs
 weight: 50
 url: /ru/net/aspose.svg.drawing/margin/top/
 ---
 ## Margin.Top property
 
-Получает или задает верхнее значение.
+Получает или устанавливает верхнюю часть.
 
 ```csharp
 public LengthOrAuto Top { get; set; }
@@ -16,7 +16,7 @@ public LengthOrAuto Top { get; set; }
 
 ### Стоимость имущества
 
-Верх.
+Топ.
 
 ### Смотрите также
 

@@ -8,7 +8,7 @@ url: /ru/net/aspose.svg.filters/svgfeblendelement/svg_feblend_mode_screen/
 ---
 ## SVGFEBlendElement.SVG_FEBLEND_MODE_SCREEN field
 
-Соответствует значению 'экран'.
+Соответствует значению «экран».
 
 ```csharp
 public const ushort SVG_FEBLEND_MODE_SCREEN;

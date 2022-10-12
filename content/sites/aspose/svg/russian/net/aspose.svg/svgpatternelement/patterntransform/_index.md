@@ -8,7 +8,7 @@ url: /ru/net/aspose.svg/svgpatternelement/patterntransform/
 ---
 ## SVGPatternElement.PatternTransform property
 
-Соответствует атрибуту 'patternTransform' данного элемента 'pattern'.
+Соответствует атрибуту «patternTransform» данного элемента «pattern».
 
 ```csharp
 public SVGAnimatedTransformList PatternTransform { get; }

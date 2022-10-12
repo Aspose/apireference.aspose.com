@@ -3,7 +3,7 @@ title: DOMConstructorAttribute
 second_title: Aspose.SVG for .NET API 参考
 description: 指定由 W3C 定义的构造函数
 type: docs
-weight: 380
+weight: 370
 url: /zh/net/aspose.svg.dom.attributes/domconstructorattribute/
 ---
 ## DOMConstructorAttribute class

@@ -20,7 +20,7 @@ public bool Confirm(string message)
 
 ### 返回值
 
-如果用户单击确定返回 true，如果用户单击取消返回 false
+如果用户单击“确定”返回 true，如果用户单击“取消”返回 false
 
 ### 也可以看看
 

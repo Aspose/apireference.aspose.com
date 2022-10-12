@@ -1,14 +1,14 @@
 ---
 title: CSS_CH
 second_title: Aspose.SVG for .NET API 参考
-description: 该值为长度ch可以使用 getFloatValue 方法获取该值
+description: 该值为长度ch该值可以通过getFloatValue方法获取
 type: docs
 weight: 120
 url: /zh/net/aspose.svg.dom.css/cssprimitivevalue/css_ch/
 ---
 ## CSSPrimitiveValue.CSS_CH field
 
-该值为长度（ch）。可以使用 getFloatValue 方法获取该值。
+该值为长度（ch）。该值可以通过getFloatValue方法获取。
 
 ```csharp
 public const ushort CSS_CH;

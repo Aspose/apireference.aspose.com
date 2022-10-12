@@ -16,7 +16,7 @@ public string Directory { get; set; }
 
 ### 适当的价值
 
-目录。
+目录.
 
 ### 也可以看看
 

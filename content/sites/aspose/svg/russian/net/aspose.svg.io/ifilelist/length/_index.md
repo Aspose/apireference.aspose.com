@@ -1,14 +1,14 @@
 ---
 title: Length
 second_title: Справочник по Aspose.SVG для .NET API
-description: Возвращает длину списка файлов.
+description: Длина возврата для списка файлов.
 type: docs
 weight: 20
 url: /ru/net/aspose.svg.io/ifilelist/length/
 ---
 ## IFileList.Length property
 
-Возвращает длину списка файлов.
+Длина возврата для списка файлов.
 
 ```csharp
 public long Length { get; }

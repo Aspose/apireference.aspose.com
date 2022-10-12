@@ -3,7 +3,7 @@ title: IGradientBrush
 second_title: Справочник по Aspose.SVG для .NET API
 description: Объявить методы для получения общих свойств градиентных кистей.
 type: docs
-weight: 1440
+weight: 1450
 url: /ru/net/aspose.svg.drawing/igradientbrush/
 ---
 ## IGradientBrush interface
@@ -18,8 +18,8 @@ public interface IGradientBrush : ITransformableBrush
 
 | Имя | Описание |
 | --- | --- |
-| [BlendFactors](../../aspose.svg.drawing/igradientbrush/blendfactors) { get; } | Получите коэффициенты смешивания, которые определяют пользовательский спад для градиента. |
-| [BlendPositions](../../aspose.svg.drawing/igradientbrush/blendpositions) { get; } | Получить позиции перехода, которые определяют пользовательский спад для градиента. |
+| [BlendFactors](../../aspose.svg.drawing/igradientbrush/blendfactors) { get; } | Получить коэффициенты смешивания, которые определяют пользовательский спад для градиента. |
+| [BlendPositions](../../aspose.svg.drawing/igradientbrush/blendpositions) { get; } | Получить позиции смешивания, которые определяют пользовательский спад для градиента. |
 | [InterpolationColors](../../aspose.svg.drawing/igradientbrush/interpolationcolors) { get; } | Получить цвета интерполяции, определяющие многоцветный линейный градиент. |
 
 ### Смотрите также

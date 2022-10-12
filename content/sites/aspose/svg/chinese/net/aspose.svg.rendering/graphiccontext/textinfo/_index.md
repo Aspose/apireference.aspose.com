@@ -1,14 +1,14 @@
 ---
 title: TextInfo
 second_title: Aspose.SVG for .NET API 参考
-description: 获取一个TextInfoaspose.svg.rendering/textinfo对象其中包含有关渲染文本的信息
+description: 得到一个TextInfoaspose.svg.rendering/textinfo包含有关渲染文本信息的对象
 type: docs
 weight: 150
 url: /zh/net/aspose.svg.rendering/graphiccontext/textinfo/
 ---
 ## GraphicContext.TextInfo property
 
-获取一个[`TextInfo`](../../textinfo)对象，其中包含有关渲染文本的信息。
+得到一个[`TextInfo`](../../textinfo)包含有关渲染文本信息的对象。
 
 ```csharp
 public virtual TextInfo TextInfo { get; }
@@ -16,7 +16,7 @@ public virtual TextInfo TextInfo { get; }
 
 ### 适当的价值
 
-[`TextInfo`](../../textinfo)对象。
+的[`TextInfo`](../../textinfo)对象.
 
 ### 也可以看看
 

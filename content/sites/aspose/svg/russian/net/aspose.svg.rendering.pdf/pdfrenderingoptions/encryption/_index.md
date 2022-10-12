@@ -1,14 +1,14 @@
 ---
 title: Encryption
 second_title: Справочник по Aspose.SVG для .NET API
-description: Получает или задает данные шифрования. Если не установлено то шифрование выполняться не будет.
+description: Получает или задает сведения о шифровании. Если не установлено то шифрование выполняться не будет.
 type: docs
 weight: 30
 url: /ru/net/aspose.svg.rendering.pdf/pdfrenderingoptions/encryption/
 ---
 ## PdfRenderingOptions.Encryption property
 
-Получает или задает данные шифрования. Если не установлено, то шифрование выполняться не будет.
+Получает или задает сведения о шифровании. Если не установлено, то шифрование выполняться не будет.
 
 ```csharp
 public PdfEncryptionInfo Encryption { get; set; }

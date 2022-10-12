@@ -1,14 +1,14 @@
 ---
 title: Size
 second_title: Справочник по Aspose.SVG для .NET API
-description: Инициализирует новый экземпляр классаSizeaspose.svg.drawing/size.
+description: Инициализирует новый экземплярSizeaspose.svg.drawing/size класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.drawing/size/size/
 ---
 ## Size() {#constructor}
 
-Инициализирует новый экземпляр класса[`Size`](../../size).
+Инициализирует новый экземпляр[`Size`](../../size) класс.
 
 ```csharp
 public Size()
@@ -24,7 +24,7 @@ public Size()
 
 ## Size(int, int) {#constructor_2}
 
-Инициализирует новый экземпляр класса[`Size`](../../size)и указывает высоту и ширину в пикселях.
+Инициализирует новый экземпляр[`Size`](../../size) class и укажите высоту и ширину в пикселях.
 
 ```csharp
 public Size(int width, int height)
@@ -45,7 +45,7 @@ public Size(int width, int height)
 
 ## Size(Length, Length) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`Size`](../../size).
+Инициализирует новый экземпляр[`Size`](../../size) класс.
 
 ```csharp
 public Size(Length width, Length height)

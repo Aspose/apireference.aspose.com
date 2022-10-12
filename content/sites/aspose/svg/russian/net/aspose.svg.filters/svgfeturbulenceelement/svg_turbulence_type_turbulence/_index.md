@@ -8,7 +8,7 @@ url: /ru/net/aspose.svg.filters/svgfeturbulenceelement/svg_turbulence_type_turbu
 ---
 ## SVGFETurbulenceElement.SVG_TURBULENCE_TYPE_TURBULENCE field
 
-Соответствует значению 'турбулентность'.
+Соответствует значению «турбулентность».
 
 ```csharp
 public const ushort SVG_TURBULENCE_TYPE_TURBULENCE;

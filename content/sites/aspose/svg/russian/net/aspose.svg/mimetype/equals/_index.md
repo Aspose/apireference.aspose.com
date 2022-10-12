@@ -20,7 +20,7 @@ public bool Equals(MimeType other)
 
 ### Возвращаемое значение
 
-true, если текущий объект равен параметру*other*; в противном случае ложно.
+true, если текущий объект равен*other* параметр; в противном случае false.
 
 ### Смотрите также
 
@@ -32,7 +32,7 @@ true, если текущий объект равен параметру*other*;
 
 ## Equals(object) {#equals_1}
 
-Определяет, равен ли указанныйObjectтекущемуObject.
+Определяет, является ли указанныйObject равен текущемуObject .
 
 ```csharp
 public override bool Equals(object obj)
@@ -40,11 +40,11 @@ public override bool Equals(object obj)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| obj | Object | Objectдля сравнения с текущимObject. |
+| obj | Object | Object сравнить с нынешнимObject. |
 
 ### Возвращаемое значение
 
-true, если указанныйObjectравен текущемуObject; в противном случае ложно.
+true, если указаноObject равен текущемуObject ; в противном случае false.
 
 ### Смотрите также
 

@@ -1,14 +1,14 @@
 ---
 title: Page
 second_title: Справочник по Aspose.SVG для .NET API
-description: Инициализирует новый экземпляр классаPageaspose.svg.drawing/page.
+description: Инициализирует новый экземплярPageaspose.svg.drawing/page класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.drawing/page/page/
 ---
 ## Page(Size, Margin) {#constructor_3}
 
-Инициализирует новый экземпляр класса[`Page`](../../page).
+Инициализирует новый экземпляр[`Page`](../../page) класс.
 
 ```csharp
 public Page(Size size, Margin margin)
@@ -31,7 +31,7 @@ public Page(Size size, Margin margin)
 
 ## Page(Size) {#constructor_2}
 
-Инициализирует новый экземпляр класса[`Page`](../../page).
+Инициализирует новый экземпляр[`Page`](../../page) класс.
 
 ```csharp
 public Page(Size size)
@@ -52,7 +52,7 @@ public Page(Size size)
 
 ## Page(Margin) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`Page`](../../page).
+Инициализирует новый экземпляр[`Page`](../../page) класс.
 
 ```csharp
 public Page(Margin margin)
@@ -73,7 +73,7 @@ public Page(Margin margin)
 
 ## Page() {#constructor}
 
-Инициализирует новый экземпляр класса[`Page`](../../page).
+Инициализирует новый экземпляр[`Page`](../../page) класс.
 
 ```csharp
 public Page()

@@ -1,14 +1,14 @@
 ---
 title: Right
 second_title: Aspose.SVG for .NET API 参考
-description: 请参阅 CSS2 中的正确属性定义
+description: 在 CSS2 中查看正确的属性定义
 type: docs
 weight: 980
 url: /zh/net/aspose.svg.dom.css/icss2properties/right/
 ---
 ## ICSS2Properties.Right property
 
-请参阅 CSS2 中的正确属性定义。
+在 CSS2 中查看正确的属性定义。
 
 ```csharp
 public string Right { get; set; }
@@ -16,7 +16,7 @@ public string Right { get; set; }
 
 ### 返回值
 
-右属性
+权利财产
 
 ### 也可以看看
 

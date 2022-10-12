@@ -1,25 +1,25 @@
 ---
 title: Aspose.Svg.Dom.Events
 second_title: Справочник по Aspose.SVG для .NET API
-description: Пространство имен Aspose.Svg.Dom.Events предоставляет объекты для любых событий связанных с обновлением DOM. Он включает в себя подписку на наблюдение конкретной контекстной информации  связанную с событием а также построение пользовательских событий.
+description: Aspose.Svg.Dom.Events namespace предоставляет объекты для любых событий связанных с обновлением DOM. Он включает в себя подписку на конкретную контекстную информацию  наблюдение  связанное с событием а также создание пользовательских событий.
 type: docs
 weight: 80
 url: /ru/net/aspose.svg.dom.events/
 ---
-Пространство имен **Aspose.Svg.Dom.Events** предоставляет объекты для любых событий, связанных с обновлением DOM. Он включает в себя подписку на наблюдение конкретной контекстной информации , связанную с событием, а также построение пользовательских событий.
+**Aspose.Svg.Dom.Events** namespace предоставляет объекты для любых событий, связанных с обновлением DOM. Он включает в себя подписку на конкретную контекстную информацию , наблюдение , связанное с событием, а также создание пользовательских событий.
 
 ## Классы
 
 | Учебный класс | Описание |
 | --- | --- |
 | [CustomEvent](./customevent) | События, использующие интерфейс CustomEvent, могут использоваться для переноса пользовательских данных. |
-| [DocumentLoadErrorEvent](./documentloaderrorevent) | [`DocumentLoadErrorEvent`](../aspose.svg.dom.events/documentloaderrorevent)возникает, когда запрошенный ресурс недоступен. |
+| [DocumentLoadErrorEvent](./documentloaderrorevent) | [`DocumentLoadErrorEvent`](../aspose.svg.dom.events/documentloaderrorevent) возникает, когда запрошенный ресурс недоступен. |
 | [DOMEventHandler](./domeventhandler) | Представляет обратный вызов для обработки событий. |
-| [ErrorEvent](./errorevent) | [`ErrorEvent`](../aspose.svg.dom.events/errorevent)предоставляет контекстную информацию об ошибках, возникших во время выполнения. |
-| [Event](./event) | [`Event`](../aspose.svg.dom.events/event)используется для предоставления контекстной информации о событии обработчику, обрабатывающему событие. |
+| [ErrorEvent](./errorevent) | [`ErrorEvent`](../aspose.svg.dom.events/errorevent) предоставляет контекстную информацию об ошибках, возникших во время выполнения. |
+| [Event](./event) | [`Event`](../aspose.svg.dom.events/event) используется для предоставления контекстной информации о событии обработчику, обрабатывающему событие. |
 | [FocusEvent](./focusevent) | Интерфейс FocusEvent предоставляет конкретную контекстную информацию, связанную с событиями Focus. |
-| [InputEvent](./inputevent) | Входные события отправляются как уведомления всякий раз, когда DOM обновляется. |
-| [KeyboardEvent](./keyboardevent) | Интерфейс KeyboardEvent предоставляет конкретную контекстную информацию, связанную с клавиатурными устройствами. Каждое событие клавиатуры ссылается на клавишу, используя значение. События клавиатуры обычно направляются элементу, находящемуся в фокусе. |
+| [InputEvent](./inputevent) | События ввода отправляются в виде уведомлений при каждом обновлении DOM. |
+| [KeyboardEvent](./keyboardevent) | Интерфейс KeyboardEvent предоставляет конкретную контекстную информацию, связанную с клавиатурными устройствами. Каждое событие клавиатуры ссылается на клавишу, используя значение. События клавиатуры обычно направляются на элемент, находящийся в фокусе. |
 | [MouseEvent](./mouseevent) | Интерфейс MouseEvent предоставляет конкретную контекстную информацию, связанную с событиями мыши. |
 | [UIEvent](./uievent) | Интерфейс UIEvent предоставляет конкретную контекстную информацию, связанную с событиями пользовательского интерфейса. |
 | [WheelEvent](./wheelevent) | Интерфейс WheelEvent предоставляет конкретную контекстную информацию, связанную с событиями колеса. Чтобы создать экземпляр интерфейса WheelEvent, используйте конструктор WheelEvent, передав необязательный словарь WheelEventInit. |
@@ -27,8 +27,8 @@ url: /ru/net/aspose.svg.dom.events/
 
 | Интерфейс | Описание |
 | --- | --- |
-| [IDocumentEvent](./idocumentevent) | Интерфейс[`IDocumentEvent`](../aspose.svg.dom.events/idocumentevent)предоставляет механизм, с помощью которого пользователь может создать[`Event`](../aspose.svg.dom.events/event)типа, поддерживаемого реализацией. |
-| [IEventListener](./ieventlistener) | Интерфейс[`IEventListener`](../aspose.svg.dom.events/ieventlistener)является основным методом обработки событий. Пользователи реализуют интерфейс[`IEventListener`](../aspose.svg.dom.events/ieventlistener)и регистрируют свой слушатель на[`EventTarget`](../aspose.svg.dom/eventtarget)с помощью[`AddEventListener`](../aspose.svg.dom/eventtarget/addeventlistener)метод. Пользователи также должны удалить свой[`IEventListener`](../aspose.svg.dom.events/ieventlistener)из своего[`EventTarget`](../aspose.svg.dom/eventtarget)после завершения использования слушатель. |
-| [IEventTarget](./ieventtarget) | Интерфейс[`EventTarget`](../aspose.svg.dom/eventtarget)реализуется всеми узлами в реализации, которая поддерживает модель событий DOM. Таким образом, этот интерфейс можно получить с помощью методов приведения, специфичных для привязки, к экземпляру интерфейса Node. Интерфейс позволяет регистрировать и удалять прослушиватели событий на[`EventTarget`](../aspose.svg.dom/eventtarget)и отправлять события этому[`IEventTarget`](../aspose.svg.dom.events/ieventtarget). |
+| [IDocumentEvent](./idocumentevent) | [`IDocumentEvent`](../aspose.svg.dom.events/idocumentevent) Интерфейс предоставляет механизм, с помощью которого пользователь может создать[`Event`](../aspose.svg.dom.events/event) типа, поддерживаемого реализацией. |
+| [IEventListener](./ieventlistener) | [`IEventListener`](../aspose.svg.dom.events/ieventlistener)интерфейс является основным методом обработки событий. Пользователи реализуют[`IEventListener`](../aspose.svg.dom.events/ieventlistener) интерфейс и зарегистрировать своего слушателя на[`EventTarget`](../aspose.svg.dom/eventtarget) с использованием[`AddEventListener`](../aspose.svg.dom/eventtarget/addeventlistener) method. Пользователи также должны удалить свои[`IEventListener`](../aspose.svg.dom.events/ieventlistener) от его[`EventTarget`](../aspose.svg.dom/eventtarget) после того, как они завершили использование слушателя. |
+| [IEventTarget](./ieventtarget) | [`EventTarget`](../aspose.svg.dom/eventtarget) интерфейс реализуется всеми узлами в реализации, которая поддерживает модель событий DOM. Таким образом, этот интерфейс можно получить, используя методы приведения для конкретных привязок к экземпляру интерфейса узла. Интерфейс позволяет регистрировать и удалять прослушиватели событий на ан[`EventTarget`](../aspose.svg.dom/eventtarget) и отправка событий на этот[`IEventTarget`](../aspose.svg.dom.events/ieventtarget) . |
 
 <!-- DO NOT EDIT: generated by xmldocmd for Aspose.SVG.dll -->

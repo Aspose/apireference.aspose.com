@@ -16,7 +16,7 @@ public bool DefaultPrevented { get; }
 
 ### 适当的价值
 
-` true` if [默认阻止]；否则，` false` 。
+`真的`如果 [默认阻止];否则，`错误的` .
 
 ### 也可以看看
 

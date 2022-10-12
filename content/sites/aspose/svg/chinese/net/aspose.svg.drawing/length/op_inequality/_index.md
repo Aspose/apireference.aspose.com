@@ -1,14 +1,14 @@
 ---
 title: op_Inequality
 second_title: Aspose.SVG for .NET API 参考
-description: 实现运算符 
+description: 实现运算符 .
 type: docs
 weight: 50
 url: /zh/net/aspose.svg.drawing/length/op_inequality/
 ---
 ## Length Inequality operator
 
-实现运算符 !=。
+实现运算符 !=.
 
 ```csharp
 public static bool operator !=(Length a, Length b)
@@ -16,8 +16,8 @@ public static bool operator !=(Length a, Length b)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| a | Length | 参数a。 |
-| b | Length | 参数 b。 |
+| a | Length | 参数 a。 |
+| b | Length | 参数 B. |
 
 ### 返回值
 

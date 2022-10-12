@@ -1,14 +1,14 @@
 ---
 title: FontSize
 second_title: Справочник по Aspose.SVG для .NET API
-description: Устанавливает или получает размер шрифта текста.
+description: Задает или получает размер шрифта текста.
 type: docs
 weight: 50
 url: /ru/net/aspose.svg.rendering/graphiccontext/fontsize/
 ---
 ## GraphicContext.FontSize property
 
-Устанавливает или получает размер шрифта текста.
+Задает или получает размер шрифта текста.
 
 ```csharp
 public virtual float FontSize { get; set; }

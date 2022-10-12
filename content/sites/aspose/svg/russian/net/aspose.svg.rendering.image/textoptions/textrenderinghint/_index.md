@@ -1,14 +1,14 @@
 ---
 title: TextRenderingHint
 second_title: Справочник по Aspose.SVG для .NET API
-description: Устанавливает или получаетTextRenderingHint который влияет на качество рендеринга текста. По умолчанию это свойствоSystemDefault.
+description: Устанавливает или получаетTextRenderingHint что влияет на качество рендеринга текста. По умолчанию это свойствоSystemDefault .
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.rendering.image/textoptions/textrenderinghint/
 ---
 ## TextOptions.TextRenderingHint property
 
-Устанавливает или получаетTextRenderingHint, который влияет на качество рендеринга текста. По умолчанию это свойствоSystemDefault.
+Устанавливает или получаетTextRenderingHint что влияет на качество рендеринга текста. По умолчанию это свойствоSystemDefault .
 
 ```csharp
 public TextRenderingHint TextRenderingHint { get; set; }

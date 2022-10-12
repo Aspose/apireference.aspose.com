@@ -1,14 +1,14 @@
 ---
 title: SetMeteredKey
 second_title: Aspose.SVG for .NET API 参考
-description: 设置计量的公钥和私钥 如果你购买的是计量许可证在启动应用程序时应该调用这个API正常情况下这样就足够了 但是如果总是上传消费数据失败超过24小时License会被设置为评估状态 为了避免这种情况你应该定期检查License状态如果是评估状态再次调用该接口
+description: 设置计量公钥和私钥 如果购买计量许可证在启动应用程序时应该调用此API正常情况下这就足够了 但是如果总是无法上传消费数据超过24小时License会被设置为评估状态 为了避免这种情况你应该定期检查License状态如果是评估状态再次调用这个API
 type: docs
 weight: 20
 url: /zh/net/aspose.svg/metered/setmeteredkey/
 ---
 ## Metered.SetMeteredKey method
 
-设置计量的公钥和私钥。 如果你购买的是计量许可证，在启动应用程序时，应该调用这个API，正常情况下，这样就足够了。 但是，如果总是上传消费数据失败，超过24小时，License会被设置为评估状态， 为了避免这种情况，你应该定期检查License状态，如果是评估状态，再次调用该接口。
+设置计量公钥和私钥。 如果购买计量许可证，在启动应用程序时，应该调用此API，正常情况下，这就足够了。 但是，如果总是无法上传消费数据，超过24小时，License会被设置为评估状态， 为了避免这种情况，你应该定期检查License状态，如果是评估状态，再次调用这个API。
 
 ```csharp
 public void SetMeteredKey(string publicKey, string privateKey)

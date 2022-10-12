@@ -3,7 +3,7 @@ title: SVGPathSegClosePath
 second_title: Справочник по Aspose.SVG для .NET API
 description: Интерфейс SVGPathSegClosePath соответствует команде данных пути closepath z.
 type: docs
-weight: 2480
+weight: 2490
 url: /ru/net/aspose.svg.paths/svgpathsegclosepath/
 ---
 ## SVGPathSegClosePath class
@@ -18,7 +18,7 @@ public class SVGPathSegClosePath : SVGPathSeg
 
 | Имя | Описание |
 | --- | --- |
-| [PathSegType](../../aspose.svg.paths/svgpathseg/pathsegtype) { get; } | Тип сегмента пути, заданный одной из констант, определенных в этом интерфейсе. |
+| [PathSegType](../../aspose.svg.paths/svgpathseg/pathsegtype) { get; } | Тип сегмента пути, указанный одной из констант, определенных на этом интерфейсе. |
 | [PathSegTypeAsLetter](../../aspose.svg.paths/svgpathseg/pathsegtypeasletter) { get; } | Тип сегмента пути, определяемый соответствующим односимвольным именем команды. |
 
 ## Методы
@@ -26,7 +26,7 @@ public class SVGPathSegClosePath : SVGPathSeg
 | Имя | Описание |
 | --- | --- |
 | [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose)() | Освобождает неуправляемые и (необязательно) управляемые ресурсы. |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | Этот метод используется для получения объекта ECMAScriptType. |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | Этот метод используется для получения объекта ECMAScript.Type . |
 
 ### Смотрите также
 

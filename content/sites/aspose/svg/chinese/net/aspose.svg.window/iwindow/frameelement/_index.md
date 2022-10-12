@@ -1,14 +1,14 @@
 ---
 title: FrameElement
 second_title: Aspose.SVG for .NET API 参考
-description: Document 的 frameElement 对象
+description: Document. 的 frameElement 对象
 type: docs
 weight: 20
 url: /zh/net/aspose.svg.window/iwindow/frameelement/
 ---
 ## IWindow.FrameElement property
 
-Document 的 frameElement 对象。
+Document. 的 frameElement 对象
 
 ```csharp
 public Element FrameElement { get; }

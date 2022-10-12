@@ -1,14 +1,14 @@
 ---
 title: Exponent
 second_title: Справочник по Aspose.SVG для .NET API
-description: Соответствует атрибуту exponent данного элемента.
+description: Соответствует атрибуту показатель степени данного элемента.
 type: docs
 weight: 20
 url: /ru/net/aspose.svg/svgcomponenttransferfunctionelement/exponent/
 ---
 ## SVGComponentTransferFunctionElement.Exponent property
 
-Соответствует атрибуту exponent данного элемента.
+Соответствует атрибуту «показатель степени» данного элемента.
 
 ```csharp
 public SVGAnimatedNumber Exponent { get; }
@@ -16,7 +16,7 @@ public SVGAnimatedNumber Exponent { get; }
 
 ### Стоимость имущества
 
-Атрибут 'показатель степени' данного элемента.
+Атрибут «показатель степени» данного элемента.
 
 ### Смотрите также
 

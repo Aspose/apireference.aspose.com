@@ -1,14 +1,14 @@
 ---
 title: Height
 second_title: Справочник по Aspose.SVG для .NET API
-description: Соответствует атрибуту высота данного элемента использовать.
+description: Соответствует атрибуту высота данного элемента использования.
 type: docs
 weight: 10
 url: /ru/net/aspose.svg/svguseelement/height/
 ---
 ## SVGUseElement.Height property
 
-Соответствует атрибуту «высота» данного элемента «использовать».
+Соответствует атрибуту "высота" данного элемента "использования".
 
 ```csharp
 public SVGAnimatedLength Height { get; }
@@ -16,7 +16,7 @@ public SVGAnimatedLength Height { get; }
 
 ### Стоимость имущества
 
-Соответствует атрибуту 'высота' данного элемента 'use'.
+Соответствует атрибуту "высота" данного элемента "использования".
 
 ### Смотрите также
 

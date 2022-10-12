@@ -36,7 +36,7 @@ public void Navigate(Url url)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| url | Url | URL документа. |
+| url | Url | URL-адрес документа. |
 
 ### Смотрите также
 
@@ -64,7 +64,7 @@ public void Navigate(string content, string baseUri)
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | ` baseUri` is` null` . |
+| ArgumentNullException | `baseUri` является`нулевой`. |
 
 ### Смотрите также
 
@@ -91,7 +91,7 @@ public void Navigate(string content, Url baseUri)
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | ` baseUri` is` null` . |
+| ArgumentNullException | `baseUri` является`нулевой`. |
 
 ### Смотрите также
 
@@ -119,7 +119,7 @@ public void Navigate(Stream content, string baseUri)
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | ` baseUri` is` null` . |
+| ArgumentNullException | `baseUri` является`нулевой`. |
 
 ### Смотрите также
 
@@ -146,7 +146,7 @@ public void Navigate(Stream content, Url baseUri)
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | ` baseUri` is` null` . |
+| ArgumentNullException | `baseUri` является`нулевой`. |
 
 ### Смотрите также
 
@@ -167,7 +167,7 @@ public void Navigate(RequestMessage request)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| request | RequestMessage | Объект запроса, используемый для загрузки содержимого документа. |
+| request | RequestMessage | Объект запроса, который используется для загрузки содержимого документа. |
 
 ### Смотрите также
 

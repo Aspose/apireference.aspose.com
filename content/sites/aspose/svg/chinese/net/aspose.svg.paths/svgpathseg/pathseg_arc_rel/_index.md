@@ -1,14 +1,14 @@
 ---
 title: PATHSEG_ARC_REL
 second_title: Aspose.SVG for .NET API 参考
-description: 对应于相对 arctoa 路径数据命令
+description: 对应一个相对arctoa路径数据命令
 type: docs
 weight: 40
 url: /zh/net/aspose.svg.paths/svgpathseg/pathseg_arc_rel/
 ---
 ## SVGPathSeg.PATHSEG_ARC_REL field
 
-对应于“相对 arcto”(a) 路径数据命令。
+对应一个“相对arcto”（a）路径数据命令。
 
 ```csharp
 public const ushort PATHSEG_ARC_REL;

@@ -20,7 +20,7 @@ public CDATASection CreateCDATASection(string data)
 
 ### Возвращаемое значение
 
-[`CDATASection`](../../cdatasection).
+[`CDATASection`](../../cdatasection) .
 
 ### Смотрите также
 

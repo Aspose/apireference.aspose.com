@@ -1,14 +1,14 @@
 ---
 title: Method
 second_title: Aspose.SVG for .NET API 参考
-description: 获取或设置HttpMethodaspose.svg.net/httpmethod
+description: 获取或设置HttpMethodaspose.svg.net/httpmethod .
 type: docs
 weight: 60
 url: /zh/net/aspose.svg.net/requestmessage/method/
 ---
 ## RequestMessage.Method property
 
-获取或设置[`HttpMethod`](../../httpmethod)。
+获取或设置[`HttpMethod`](../../httpmethod) .
 
 ```csharp
 public HttpMethod Method { get; set; }
@@ -16,7 +16,7 @@ public HttpMethod Method { get; set; }
 
 ### 适当的价值
 
-[`HttpMethod`](../../httpmethod)。
+的[`HttpMethod`](../../httpmethod) .
 
 ### 也可以看看
 

@@ -35,9 +35,9 @@ public abstract class SVGListBase<T> : SVGValueType, IEnumerable<T>
 | [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose)() | Освобождает неуправляемые и (необязательно) управляемые ресурсы. |
 | [GetEnumerator](../../aspose.svg.collections/svglistbase`1/getenumerator)() | Получает перечислитель. |
 | [GetItem](../../aspose.svg.collections/svglistbase`1/getitem)(ulong) | Возвращает указанный элемент из списка. |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | Этот метод используется для получения объекта ECMAScriptType. |
-| [Initialize](../../aspose.svg.collections/svglistbase`1/initialize)(T) | Удаляет все существующие текущие элементы из списка и повторно инициализирует список, чтобы он содержал один элемент, указанный в параметре. |
-| [InsertItemBefore](../../aspose.svg.collections/svglistbase`1/insertitembefore)(T, ulong) | Вставляет новый элемент в список в указанной позиции. Первый элемент имеет номер 0. |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | Этот метод используется для получения объекта ECMAScript.Type . |
+| [Initialize](../../aspose.svg.collections/svglistbase`1/initialize)(T) | Удаляет все существующие текущие элементы из списка и повторно инициализирует список для хранения одного элемента, указанного параметром. |
+| [InsertItemBefore](../../aspose.svg.collections/svglistbase`1/insertitembefore)(T, ulong) | Вставляет новый элемент в список в указанной позиции. Первый элемент номер 0. |
 | [RemoveItem](../../aspose.svg.collections/svglistbase`1/removeitem)(ulong) | Удаляет существующий элемент из списка. |
 | [ReplaceItem](../../aspose.svg.collections/svglistbase`1/replaceitem)(T, ulong) | Заменяет существующий элемент в списке новым элементом. |
 

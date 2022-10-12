@@ -20,7 +20,7 @@ public bool Contains(string token)
 
 ### 返回值
 
-一个布尔值，如果调用列表包含令牌，则为真，否则为假。
+一个布尔值，如果调用列表包含令牌，则为 true，否则为 false。
 
 ### 也可以看看
 

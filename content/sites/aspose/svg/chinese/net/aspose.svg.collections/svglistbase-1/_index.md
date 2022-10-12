@@ -1,14 +1,14 @@
 ---
 title: SVGListBaseT
 second_title: Aspose.SVG for .NET API 参考
-description: 此接口定义所有 SVG 列表的基本列表
+description: 这个接口定义了所有 SVG 列表的基本列表
 type: docs
 weight: 50
 url: /zh/net/aspose.svg.collections/svglistbase-1/
 ---
 ## SVGListBase&lt;T&gt; class
 
-此接口定义所有 SVG 列表的基本列表。
+这个接口定义了所有 SVG 列表的基本列表。
 
 ```csharp
 public abstract class SVGListBase<T> : SVGValueType, IEnumerable<T>
@@ -22,7 +22,7 @@ public abstract class SVGListBase<T> : SVGValueType, IEnumerable<T>
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Item](../../aspose.svg.collections/svglistbase`1/item) { get; set; } | 返回列表中的第一个项目。 |
+| [Item](../../aspose.svg.collections/svglistbase`1/item) { get; set; } | 返回列表中的第索引项。 |
 | [Length](../../aspose.svg.collections/svglistbase`1/length) { get; } | 列表中的项目数。 |
 | [NumberOfItems](../../aspose.svg.collections/svglistbase`1/numberofitems) { get; } | 列表中的项目数。 |
 
@@ -32,12 +32,12 @@ public abstract class SVGListBase<T> : SVGValueType, IEnumerable<T>
 | --- | --- |
 | [AppendItem](../../aspose.svg.collections/svglistbase`1/appenditem)(T) | 在列表末尾插入一个新项目。 |
 | [Clear](../../aspose.svg.collections/svglistbase`1/clear)() | 从列表中清除所有现有的当前项目，结果是一个空列表。 |
-| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose)() | 释放非托管和（可选）托管资源。 |
-| [GetEnumerator](../../aspose.svg.collections/svglistbase`1/getenumerator)() | 获取枚举数。 |
+| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose)() | 释放非托管和 - 可选 - 托管资源。 |
+| [GetEnumerator](../../aspose.svg.collections/svglistbase`1/getenumerator)() | 获取枚举器。 |
 | [GetItem](../../aspose.svg.collections/svglistbase`1/getitem)(ulong) | 从列表中返回指定的项目。 |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | 此方法用于检索 ECMAScript 对象Type。 |
-| [Initialize](../../aspose.svg.collections/svglistbase`1/initialize)(T) | 从列表中清除所有现有的当前项并重新初始化列表以保存由参数指定的单个项。 |
-| [InsertItemBefore](../../aspose.svg.collections/svglistbase`1/insertitembefore)(T, ulong) | 将新项目插入到列表中的指定位置。第一项是数字 0。 |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | 此方法用于检索 ECMAScript 对象Type . |
+| [Initialize](../../aspose.svg.collections/svglistbase`1/initialize)(T) | 从列表中清除所有现有的当前项目并重新初始化列表以保存参数指定的单个项目。 |
+| [InsertItemBefore](../../aspose.svg.collections/svglistbase`1/insertitembefore)(T, ulong) | 在列表的指定位置插入一个新项目。第一项是数字 0. |
 | [RemoveItem](../../aspose.svg.collections/svglistbase`1/removeitem)(ulong) | 从列表中删除现有项目。 |
 | [ReplaceItem](../../aspose.svg.collections/svglistbase`1/replaceitem)(T, ulong) | 将列表中的现有项目替换为新项目。 |
 

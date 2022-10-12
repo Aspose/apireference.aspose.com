@@ -1,14 +1,14 @@
 ---
 title: Dy
 second_title: Справочник по Aspose.SVG для .NET API
-description: Соответствует атрибуту dy данного элемента feOffset.
+description: Соответствует атрибуту dy в данном элементе feOffset.
 type: docs
 weight: 20
 url: /ru/net/aspose.svg.filters/svgfeoffsetelement/dy/
 ---
 ## SVGFEOffsetElement.Dy property
 
-Соответствует атрибуту 'dy' данного элемента 'feOffset'.
+Соответствует атрибуту dy в данном элементе feOffset.
 
 ```csharp
 public SVGAnimatedNumber Dy { get; }
@@ -16,7 +16,7 @@ public SVGAnimatedNumber Dy { get; }
 
 ### Стоимость имущества
 
-Атрибут 'dy' данного элемента 'feOffset'.
+Атрибут dy данного элемента feOffset.
 
 ### Смотрите также
 

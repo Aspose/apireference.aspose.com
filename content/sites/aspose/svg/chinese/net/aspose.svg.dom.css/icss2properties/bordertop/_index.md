@@ -1,14 +1,14 @@
 ---
 title: BorderTop
 second_title: Aspose.SVG for .NET API 参考
-description: 请参见 CSS2 中的border-top 属性定义
+description: 参见CSS2中的bordertop属性定义
 type: docs
 weight: 250
 url: /zh/net/aspose.svg.dom.css/icss2properties/bordertop/
 ---
 ## ICSS2Properties.BorderTop property
 
-请参见 CSS2 中的border-top 属性定义。
+参见CSS2中的border-top属性定义。
 
 ```csharp
 public string BorderTop { get; set; }
@@ -16,7 +16,7 @@ public string BorderTop { get; set; }
 
 ### 返回值
 
-边框顶部属性
+边界顶部属性
 
 ### 也可以看看
 

@@ -8,7 +8,7 @@ url: /ru/net/aspose.svg.filters/svgfegaussianblurelement/y/
 ---
 ## SVGFEGaussianBlurElement.Y property
 
-Соответствует атрибуту «y» данного элемента «фильтр».
+Соответствует атрибуту "y" данного элемента "фильтр".
 
 ```csharp
 public SVGAnimatedLength Y { get; }
@@ -16,7 +16,7 @@ public SVGAnimatedLength Y { get; }
 
 ### Стоимость имущества
 
-Атрибут «y» данного элемента «фильтр».
+Атрибут "y" данного элемента "filter".
 
 ### Смотрите также
 

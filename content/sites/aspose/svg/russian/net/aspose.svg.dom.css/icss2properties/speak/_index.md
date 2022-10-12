@@ -1,14 +1,14 @@
 ---
 title: Speak
 second_title: Справочник по Aspose.SVG для .NET API
-description: См. определение свойства speak в CSS2.
+description: См. определение свойства говорить в CSS2.
 type: docs
 weight: 1000
 url: /ru/net/aspose.svg.dom.css/icss2properties/speak/
 ---
 ## ICSS2Properties.Speak property
 
-См. определение свойства speak в CSS2.
+См. определение свойства говорить в CSS2.
 
 ```csharp
 public string Speak { get; set; }
@@ -16,7 +16,7 @@ public string Speak { get; set; }
 
 ### Возвращаемое значение
 
-свойство говорить
+говорить собственность
 
 ### Смотрите также
 

@@ -3,7 +3,7 @@ title: IDocumentStyle
 second_title: Справочник по Aspose.SVG для .NET API
 description: Интерфейс DocumentStyle предоставляет механизм с помощью которого таблицы стилей встроенные в документ могут быть извлечены. Ожидается что экземпляр интерфейса DocumentStyle может быть получен с помощью методов приведения конкретных привязок к экземпляру интерфейса Document.
 type: docs
-weight: 710
+weight: 700
 url: /ru/net/aspose.svg.dom.css/idocumentstyle/
 ---
 ## IDocumentStyle interface
@@ -18,7 +18,7 @@ public interface IDocumentStyle
 
 | Имя | Описание |
 | --- | --- |
-| [StyleSheets](../../aspose.svg.dom.css/idocumentstyle/stylesheets) { get; } | Список, содержащий все таблицы стилей, явно связанные или встроенные в документ. Для HTML-документов сюда входят внешние таблицы стилей, включаемые через HTML-элемент LINK, и встроенные элементы STYLE. |
+| [StyleSheets](../../aspose.svg.dom.css/idocumentstyle/stylesheets) { get; } | Список, содержащий все таблицы стилей, явно связанные с документом или встроенные в него. Для HTML-документов сюда входят внешние таблицы стилей, включаемые через HTML-элемент LINK, и встроенные элементы STYLE. |
 
 ### Смотрите также
 

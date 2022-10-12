@@ -1,14 +1,14 @@
 ---
 title: SVG_FECOMPONENTTRANSFER_TYPE_IDENTITY
 second_title: Aspose.SVG for .NET API 参考
-description: 对应于值身份
+description: 对应于值identity
 type: docs
 weight: 100
 url: /zh/net/aspose.svg/svgcomponenttransferfunctionelement/svg_fecomponenttransfer_type_identity/
 ---
 ## SVGComponentTransferFunctionElement.SVG_FECOMPONENTTRANSFER_TYPE_IDENTITY field
 
-对应于值“身份”。
+对应于值'identity'。
 
 ```csharp
 public const ushort SVG_FECOMPONENTTRANSFER_TYPE_IDENTITY;

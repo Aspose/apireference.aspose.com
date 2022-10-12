@@ -1,14 +1,14 @@
 ---
 title: CreateSVGRect
 second_title: Aspose.SVG for .NET API 参考
-description: 在任何文档树之外创建一个 SVGRect 对象该对象被初始化以使所有值都设置为 0 个用户单位
+description: 在任何文档树之外创建一个 SVGRect 对象初始化对象使所有值都设置为 0 个用户单位
 type: docs
 weight: 170
 url: /zh/net/aspose.svg/svgsvgelement/createsvgrect/
 ---
 ## SVGSVGElement.CreateSVGRect method
 
-在任何文档树之外创建一个 SVGRect 对象。该对象被初始化，以使所有值都设置为 0 个用户单位。
+在任何文档树之外创建一个 SVGRect 对象。初始化对象，使所有值都设置为 0 个用户单位。
 
 ```csharp
 public SVGRect CreateSVGRect()

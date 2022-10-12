@@ -16,11 +16,11 @@ public float GetDescent(float fontSize)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| fontSize | Single | 字体大小。 |
+| fontSize | Single | 字体的大小。 |
 
 ### 返回值
 
-以点为单位的下降。
+下降点。
 
 ### 也可以看看
 

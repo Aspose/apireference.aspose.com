@@ -1,12 +1,12 @@
 ---
 title: Aspose.Svg.Net
 second_title: Справочник по Aspose.SVG для .NET API
-description: Пространство имен Aspose.Svg.Net представлено классами и интерфейсами которые отвечают за помогая легкой сетевой обработке.
+description: Aspose.Svg.Netпространство имен представлено классами и интерфейсами которые отвечают за упрощение сетевой обработки.
 type: docs
 weight: 190
 url: /ru/net/aspose.svg.net/
 ---
-Пространство имен **Aspose.Svg.Net** представлено классами и интерфейсами, которые отвечают за помогая легкой сетевой обработке.
+**Aspose.Svg.Net**пространство имен представлено классами и интерфейсами, которые отвечают за упрощение сетевой обработки.
 
 ## Классы
 
@@ -14,14 +14,14 @@ url: /ru/net/aspose.svg.net/
 | --- | --- |
 | [ByteArrayContent](./bytearraycontent) | Представляет содержимое на основе массива байтов. |
 | [Content](./content) | Представляет базовый класс для тела объекта HTTP и заголовков содержимого. |
-| [ContentHeaders](./contentheaders) | Содержит заголовки, связанные с содержимым. |
+| [ContentHeaders](./contentheaders) | Содержит заголовки, связанные с контентом. |
 | [FormUrlEncodedContent](./formurlencodedcontent) | Контейнер для кортежей имени/значения, закодированных с использованием MIME-типа application/x-www-form-urlencoded. |
 | [HttpMethod](./httpmethod) | Представляет служебный класс для получения и сравнения стандартных методов HTTP. |
-| [MessageFilter](./messagefilter) | Представляет абстрактный базовый класс для различных классов фильтров, используемых для запроса сообщений |
+| [MessageFilter](./messagefilter) | Представляет абстрактный базовый класс для различных классов фильтров, используемых для запроса messages |
 | [MessageHandler](./messagehandler) | Представляет базовый тип для обработчиков сообщений. |
-| [MessageHandlerCollection](./messagehandlercollection) | Представляет коллекцию[`MessageHandler`](../aspose.svg.net/messagehandler). |
+| [MessageHandlerCollection](./messagehandlercollection) | Представляет коллекцию[`MessageHandler`](../aspose.svg.net/messagehandler) . |
 | [MultipartContent](./multipartcontent) | Представляет содержимое multipart/*. |
-| [MultipartFormDataContent](./multipartformdatacontent) | Представление контента для алгоритма кодирования multipart/form-data |
+| [MultipartFormDataContent](./multipartformdatacontent) | Представлять содержимое для алгоритма кодирования multipart/form-data |
 | [RequestHeaders](./requestheaders) | Содержит заголовки протокола, связанные с запросом. |
 | [RequestMessage](./requestmessage) | Представляет сообщение запроса. |
 | [ResponseHeaders](./responseheaders) | Содержит заголовки протокола, связанные с ответом. |

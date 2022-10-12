@@ -17,7 +17,7 @@ public string Prompt(string message, string @default)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | message | String | 消息。 |
-| default | String | 默认值。 |
+| default | String | 默认。 |
 
 ### 返回值
 

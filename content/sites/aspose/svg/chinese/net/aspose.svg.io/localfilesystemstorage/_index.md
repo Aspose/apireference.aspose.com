@@ -3,7 +3,7 @@ title: LocalFileSystemStorage
 second_title: Aspose.SVG for .NET API 参考
 description: 文件系统存储
 type: docs
-weight: 1960
+weight: 1970
 url: /zh/net/aspose.svg.io/localfilesystemstorage/
 ---
 ## LocalFileSystemStorage class
@@ -18,8 +18,8 @@ public class LocalFileSystemStorage : IOutputStorage
 
 | 姓名 | 描述 |
 | --- | --- |
-| [LocalFileSystemStorage](localfilesystemstorage#constructor)() | 初始化[`LocalFileSystemStorage`](../localfilesystemstorage)类的新实例。 |
-| [LocalFileSystemStorage](localfilesystemstorage#constructor_1)(string) | 初始化[`LocalFileSystemStorage`](../localfilesystemstorage)类的新实例。 |
+| [LocalFileSystemStorage](localfilesystemstorage#constructor)() | 初始化[`LocalFileSystemStorage`](../localfilesystemstorage)类. |
+| [LocalFileSystemStorage](localfilesystemstorage#constructor_1)(string) | 初始化[`LocalFileSystemStorage`](../localfilesystemstorage)类. |
 
 ## 特性
 
@@ -31,7 +31,7 @@ public class LocalFileSystemStorage : IOutputStorage
 
 | 姓名 | 描述 |
 | --- | --- |
-| virtual [CreateStream](../../aspose.svg.io/localfilesystemstorage/createstream)(OutputStreamContext) | 创建输出文件流[`OutputStream`](../outputstream)。 |
+| virtual [CreateStream](../../aspose.svg.io/localfilesystemstorage/createstream)(OutputStreamContext) | 创建输出文件流[`OutputStream`](../outputstream) . |
 | virtual [ReleaseStream](../../aspose.svg.io/localfilesystemstorage/releasestream)(OutputStream) | 释放输出文件流。 |
 
 ### 也可以看看

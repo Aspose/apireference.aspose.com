@@ -1,14 +1,14 @@
 ---
 title: HandleEvent
 second_title: Справочник по Aspose.SVG для .NET API
-description: Этот метод вызывается всякий раз когда происходит событие того типа для которого был зарегистрирован интерфейсIEventListeneraspose.svg.dom.events/ieventlistener.
+description: Этот метод вызывается всякий раз когда происходит событие того типа для которогоIEventListeneraspose.svg.dom.events/ieventlistener интерфейс был зарегистрирован.
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.dom.events/ieventlistener/handleevent/
 ---
 ## IEventListener.HandleEvent method
 
-Этот метод вызывается всякий раз, когда происходит событие того типа, для которого был зарегистрирован интерфейс[`IEventListener`](../../ieventlistener).
+Этот метод вызывается всякий раз, когда происходит событие того типа, для которого[`IEventListener`](../../ieventlistener) интерфейс был зарегистрирован.
 
 ```csharp
 public void HandleEvent(Event @event)
@@ -16,7 +16,7 @@ public void HandleEvent(Event @event)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| event | Event | [`Event`](../../event)содержит контекстную информацию о событии. Он также содержит методы[`StopPropagation`](../../event/stoppropagation)и[`PreventDefault`](../../event/preventdefault), которые используются для определения потока события и действия по умолчанию. |
+| event | Event | [`Event`](../../event) содержит контекстную информацию о событии. Также содержит[`StopPropagation`](../../event/stoppropagation) а также[`PreventDefault`](../../event/preventdefault) методы, которые используются для определения потока события и действия по умолчанию. |
 
 ### Смотрите также
 

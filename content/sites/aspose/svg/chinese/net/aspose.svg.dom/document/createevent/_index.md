@@ -1,14 +1,14 @@
 ---
 title: CreateEvent
 second_title: Aspose.SVG for .NET API 参考
-description: 创建一个实现支持的类型的Eventaspose.svg.dom.events/event
+description: 创建一个Eventaspose.svg.dom.events/event实现支持的类型
 type: docs
 weight: 880
 url: /zh/net/aspose.svg.dom/document/createevent/
 ---
 ## Document.CreateEvent method
 
-创建一个实现支持的类型的[`Event`](../../../aspose.svg.dom.events/event)。
+创建一个[`Event`](../../../aspose.svg.dom.events/event)实现支持的类型。
 
 ```csharp
 public Event CreateEvent(string eventType)
@@ -16,7 +16,7 @@ public Event CreateEvent(string eventType)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| eventType | String | eventType 参数指定要创建的[`Event`](../../../aspose.svg.dom.events/event)接口的类型。  如果实现支持指定的[`Event`](../../../aspose.svg.dom.events/event)接口，则此方法将 返回请求的接口类型的新[`Event`](../../../aspose.svg.dom.events/event)。 如果[`Event`](../../../aspose.svg.dom.events/event)要通过[`DispatchEvent`](../../../aspose.svg.dom.events/ieventtarget/dispatchevent)方法适当的[`InitEvent`](../../../aspose.svg.dom.events/event/initevent) 方法必须在创建后调用才能初始化[`Event`](../../../aspose.svg.dom.events/event)的值。 |
+| eventType | String | eventType 参数指定的类型[`Event`](../../../aspose.svg.dom.events/event)要创建的接口。  如果[`Event`](../../../aspose.svg.dom.events/event)指定的接口受实现支持此方法将 返回一个新的[`Event`](../../../aspose.svg.dom.events/event)请求的接口类型。 如果[`Event`](../../../aspose.svg.dom.events/event)将通过[`DispatchEvent`](../../../aspose.svg.dom.events/ieventtarget/dispatchevent)方法适当[`InitEvent`](../../../aspose.svg.dom.events/event/initevent) 方法必须在创建后调用才能初始化[`Event`](../../../aspose.svg.dom.events/event) 值. |
 
 ### 返回值
 
@@ -26,7 +26,7 @@ public Event CreateEvent(string eventType)
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| [DOMException](../../domexception) | NOT_SUPPORTED_ERR：如果实现不支持Event接口请求 |
+| [DOMException](../../domexception) | NOT_SUPPORTED_ERR：如果实现不支持[`Event`](../../../aspose.svg.dom.events/event)请求的接口 |
 
 ### 也可以看看
 

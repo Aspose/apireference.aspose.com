@@ -1,14 +1,14 @@
 ---
 title: HttpMethod
 second_title: Aspose.SVG for .NET API 参考
-description: 使用特定 HTTP 方法初始化HttpMethodaspose.svg.net/httpmethod类的新实例
+description: 初始化HttpMethodaspose.svg.net/httpmethod具有特定 HTTP 方法的类
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.net/httpmethod/httpmethod/
 ---
 ## HttpMethod constructor
 
-使用特定 HTTP 方法初始化[`HttpMethod`](../../httpmethod)类的新实例。
+初始化[`HttpMethod`](../../httpmethod)具有特定 HTTP 方法的类。
 
 ```csharp
 public HttpMethod(string method)

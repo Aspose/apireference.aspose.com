@@ -3,7 +3,7 @@ title: ICreateStreamProvider
 second_title: Aspose.SVG for .NET API 参考
 description: 表示可以由向渲染设备提供流的类实现的接口
 type: docs
-weight: 1920
+weight: 1930
 url: /zh/net/aspose.svg.io/icreatestreamprovider/
 ---
 ## ICreateStreamProvider interface

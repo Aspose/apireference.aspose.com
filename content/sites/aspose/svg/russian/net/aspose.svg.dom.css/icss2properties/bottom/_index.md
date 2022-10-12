@@ -1,14 +1,14 @@
 ---
 title: Bottom
 second_title: Справочник по Aspose.SVG для .NET API
-description: См. определение свойства bottom в CSS2.
+description: См. определение нижнего свойства в CSS2.
 type: docs
 weight: 300
 url: /ru/net/aspose.svg.dom.css/icss2properties/bottom/
 ---
 ## ICSS2Properties.Bottom property
 
-См. определение свойства bottom в CSS2.
+См. определение нижнего свойства в CSS2.
 
 ```csharp
 public string Bottom { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: LengthOrAuto
 second_title: Aspose.SVG for .NET API 参考
-description: 表示存储长度或自动单位的容器
+description: 表示存储长度或自动单位的容器..
 type: docs
-weight: 1520
+weight: 1530
 url: /zh/net/aspose.svg.drawing/lengthorauto/
 ---
 ## LengthOrAuto class
 
-表示存储长度或“自动”单位的容器。
+表示存储长度或“自动”单位的容器..
 
 ```csharp
 public class LengthOrAuto : Unit
@@ -18,8 +18,8 @@ public class LengthOrAuto : Unit
 
 | 姓名 | 描述 |
 | --- | --- |
-| [LengthOrAuto](lengthorauto#constructor)() | 初始化[`LengthOrAuto`](../lengthorauto)类的新实例并将状态设置为“自动”。 |
-| [LengthOrAuto](lengthorauto#constructor_1)(Length) | 初始化[`LengthOrAuto`](../lengthorauto)类的新实例并将状态设置为“长度”。 |
+| [LengthOrAuto](lengthorauto#constructor)() | 初始化[`LengthOrAuto`](../lengthorauto)类并将状态设置为“自动”。 |
+| [LengthOrAuto](lengthorauto#constructor_1)(Length) | 初始化[`LengthOrAuto`](../lengthorauto)类并将状态设置为“长度”。 |
 
 ## 特性
 
@@ -27,18 +27,18 @@ public class LengthOrAuto : Unit
 | --- | --- |
 | [IsAuto](../../aspose.svg.drawing/lengthorauto/isauto) { get; } | 获取一个值，该值指示此实例是否处于“自动”状态。 |
 | [Length](../../aspose.svg.drawing/lengthorauto/length) { get; set; } | 获取或设置长度。 |
-| [UnitType](../../aspose.svg.drawing/lengthorauto/unittype) { get; } | 获取[`Unit`](../unit)的单位类型。 |
+| [UnitType](../../aspose.svg.drawing/lengthorauto/unittype) { get; } | 获取单位类型[`Unit`](../unit) . |
 
 ## 方法
 
 | 姓名 | 描述 |
 | --- | --- |
-| override [Equals](../../aspose.svg.drawing/unit/equals)(object) | 确定指定的Object是否等于此实例。 |
-| override [Equals](../../aspose.svg.drawing/lengthorauto/equals#equals)(Unit) | 确定指定的[`Unit`](../unit)是否等于此实例。 |
+| override [Equals](../../aspose.svg.drawing/unit/equals)(object) | 判断是否指定Object 等于这个实例。 |
+| override [Equals](../../aspose.svg.drawing/lengthorauto/equals#equals)(Unit) | 判断是否指定[`Unit`](../unit) 等于这个实例。 |
 | override [GetHashCode](../../aspose.svg.drawing/unit/gethashcode)() | 返回此实例的哈希码。 |
 | [SetAuto](../../aspose.svg.drawing/lengthorauto/setauto)() | 将容器重置为“自动”状态。 |
-| override [ToString](../../aspose.svg.drawing/lengthorauto/tostring)() | 返回代表此实例的String。 |
-| [implicit operator](../../aspose.svg.drawing/lengthorauto/op_implicit) | 执行从[`Length`](./length)到[`LengthOrAuto`](../lengthorauto)的隐式转换。 |
+| override [ToString](../../aspose.svg.drawing/lengthorauto/tostring)() | 返回一个String代表这个实例。 |
+| [implicit operator](../../aspose.svg.drawing/lengthorauto/op_implicit) | 从[`Length`](./length)至[`LengthOrAuto`](../lengthorauto) . |
 
 ### 也可以看看
 

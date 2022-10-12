@@ -1,14 +1,14 @@
 ---
 title: View
 second_title: Aspose.SVG for .NET API 参考
-description: view 属性标识生成事件的窗口 该属性的未初始化值必须为空
+description: view 属性标识生成事件的窗口 此属性的未初始化值必须为 null
 type: docs
 weight: 30
 url: /zh/net/aspose.svg.dom.events/uievent/view/
 ---
 ## UIEvent.View property
 
-view 属性标识生成事件的窗口。 该属性的未初始化值必须为空。
+view 属性标识生成事件的窗口。 此属性的未初始化值必须为 null。
 
 ```csharp
 public IWindow View { get; }

@@ -1,14 +1,14 @@
 ---
 title: FormUrlEncodedContent
 second_title: Справочник по Aspose.SVG для .NET API
-description: Инициализирует новый экземпляр классаFormUrlEncodedContentaspose.svg.net/formurlencodedcontent.
+description: Инициализирует новый экземплярFormUrlEncodedContentaspose.svg.net/formurlencodedcontent класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.net/formurlencodedcontent/formurlencodedcontent/
 ---
 ## FormUrlEncodedContent constructor
 
-Инициализирует новый экземпляр класса[`FormUrlEncodedContent`](../../formurlencodedcontent).
+Инициализирует новый экземпляр[`FormUrlEncodedContent`](../../formurlencodedcontent) класс.
 
 ```csharp
 public FormUrlEncodedContent(IEnumerable<KeyValuePair<string, string>> nameValueCollection)

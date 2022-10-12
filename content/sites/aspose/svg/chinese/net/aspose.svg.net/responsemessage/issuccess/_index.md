@@ -1,14 +1,14 @@
 ---
 title: IsSuccess
 second_title: Aspose.SVG for .NET API 参考
-description: 获取一个指示此消息是否成功的值
+description: 获取一个值指示此消息是否成功
 type: docs
 weight: 50
 url: /zh/net/aspose.svg.net/responsemessage/issuccess/
 ---
 ## ResponseMessage.IsSuccess property
 
-获取一个指示此消息是否成功的值。
+获取一个值，指示此消息是否成功。
 
 ```csharp
 public bool IsSuccess { get; }
@@ -16,7 +16,7 @@ public bool IsSuccess { get; }
 
 ### 适当的价值
 
-` true` 如果此实例成功；否则，` false` 。
+`真的`如果这个实例是成功的；否则，`错误的` .
 
 ### 也可以看看
 

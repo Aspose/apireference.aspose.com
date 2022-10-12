@@ -1,14 +1,14 @@
 ---
 title: TakeRecords
 second_title: Aspose.SVG for .NET API 参考
-description: 方法返回记录队列的副本然后清空记录队列
+description: 该方法返回记录队列的副本然后清空记录队列
 type: docs
 weight: 40
 url: /zh/net/aspose.svg.dom.mutations/mutationobserver/takerecords/
 ---
 ## MutationObserver.TakeRecords method
 
-方法返回记录队列的副本，然后清空记录队列。
+该方法返回记录队列的副本，然后清空记录队列。
 
 ```csharp
 public IEnumerable<MutationRecord> TakeRecords()

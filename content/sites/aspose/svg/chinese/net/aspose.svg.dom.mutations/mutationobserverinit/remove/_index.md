@@ -1,14 +1,14 @@
 ---
 title: Remove
 second_title: Aspose.SVG for .NET API 参考
-description: 从MutationObserverInitaspose.svg.dom.mutations/mutationobserverinit集合中删除指定的键/值对
+description: 从MutationObserverInitaspose.svg.dom.mutations/mutationobserverinit集合.
 type: docs
 weight: 200
 url: /zh/net/aspose.svg.dom.mutations/mutationobserverinit/remove/
 ---
 ## Remove(KeyValuePair&lt;string, object&gt;) {#remove}
 
-从[`MutationObserverInit`](../../mutationobserverinit)集合中删除指定的键/值对。
+从[`MutationObserverInit`](../../mutationobserverinit)集合.
 
 ```csharp
 public bool Remove(KeyValuePair<string, object> item)
@@ -20,7 +20,7 @@ public bool Remove(KeyValuePair<string, object> item)
 
 ### 返回值
 
-如果成功移除则为真；否则为假。
+如果成功删除，则为真；否则为假。
 
 ### 也可以看看
 
@@ -32,7 +32,7 @@ public bool Remove(KeyValuePair<string, object> item)
 
 ## Remove(string) {#remove_1}
 
-从[`MutationObserverInit`](../../mutationobserverinit)集合中删除与指定键关联的值。
+从[`MutationObserverInit`](../../mutationobserverinit)集合.
 
 ```csharp
 public bool Remove(string key)

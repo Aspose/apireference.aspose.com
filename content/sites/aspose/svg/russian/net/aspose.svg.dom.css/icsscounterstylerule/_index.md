@@ -1,14 +1,14 @@
 ---
 title: ICSSCounterStyleRule
 second_title: Справочник по Aspose.SVG для .NET API
-description: Правилоcounter-style позволяет авторам определять собственный стиль счетчика.
+description: Правило counterstyle позволяет авторам определять собственный стиль счетчика.
 type: docs
-weight: 550
+weight: 540
 url: /ru/net/aspose.svg.dom.css/icsscounterstylerule/
 ---
 ## ICSSCounterStyleRule interface
 
-Правило@counter-style позволяет авторам определять собственный стиль счетчика.
+Правило @counter-style позволяет авторам определять собственный стиль счетчика.
 
 ```csharp
 public interface ICSSCounterStyleRule : ICSSRule

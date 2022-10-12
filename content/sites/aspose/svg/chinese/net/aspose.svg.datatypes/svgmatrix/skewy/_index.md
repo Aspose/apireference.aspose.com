@@ -20,7 +20,7 @@ public SVGMatrix SkewY(float angle)
 
 ### 返回值
 
-倾斜角。
+斜角。
 
 ### 也可以看看
 

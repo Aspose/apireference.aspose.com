@@ -1,14 +1,14 @@
 ---
 title: CSS_HZ
 second_title: Aspose.SVG for .NET API 参考
-description: 该值为频率 Hz可以使用 getFloatValue 方法获取该值
+description: 该值为频率 Hz该值可以通过getFloatValue方法获取
 type: docs
 weight: 230
 url: /zh/net/aspose.svg.dom.css/cssprimitivevalue/css_hz/
 ---
 ## CSSPrimitiveValue.CSS_HZ field
 
-该值为频率 (Hz)。可以使用 getFloatValue 方法获取该值。
+该值为频率 (Hz)。该值可以通过getFloatValue方法获取。
 
 ```csharp
 public const ushort CSS_HZ;

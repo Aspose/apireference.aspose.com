@@ -1,14 +1,14 @@
 ---
 title: SetTimeout
 second_title: Aspose.SVG for .NET API 参考
-description: 在 timeout 毫秒后安排一个超时来运行处理程序任何参数都直接传递给处理程序
+description: 安排超时毫秒后运行处理程序的超时任何参数都直接传递给处理程序
 type: docs
 weight: 40
 url: /zh/net/aspose.svg.window/iwindowtimers/settimeout/
 ---
 ## IWindowTimers.SetTimeout method
 
-在 timeout 毫秒后安排一个超时来运行处理程序。任何参数都直接传递给处理程序。
+安排超时毫秒后运行处理程序的超时。任何参数都直接传递给处理程序。
 
 ```csharp
 public int SetTimeout(object handler, int timeout, params object[] args)
@@ -18,11 +18,11 @@ public int SetTimeout(object handler, int timeout, params object[] args)
 | --- | --- | --- |
 | handler | Object | 处理程序。 |
 | timeout | Int32 | 超时。 |
-| args | Object[] | 参数。 |
+| args | Object[] | 论据。 |
 
 ### 返回值
 
-句柄
+手柄
 
 ### 也可以看看
 

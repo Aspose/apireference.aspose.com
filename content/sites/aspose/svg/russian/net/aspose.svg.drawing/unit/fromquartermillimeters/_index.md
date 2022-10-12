@@ -1,14 +1,14 @@
 ---
 title: FromQuarterMillimeters
 second_title: Справочник по Aspose.SVG для .NET API
-description: Возвращает объектLengthaspose.svg.drawing/length представленный в четвертях миллиметра.
+description: ВозвращаетLengthaspose.svg.drawing/length объект представленный в четверти миллиметра.
 type: docs
 weight: 190
 url: /ru/net/aspose.svg.drawing/unit/fromquartermillimeters/
 ---
 ## Unit.FromQuarterMillimeters method
 
-Возвращает объект[`Length`](../../length), представленный в четвертях миллиметра.
+Возвращает[`Length`](../../length) объект, представленный в четверти миллиметра.
 
 ```csharp
 public static Length FromQuarterMillimeters(double value)
@@ -20,7 +20,7 @@ public static Length FromQuarterMillimeters(double value)
 
 ### Возвращаемое значение
 
-Возвращает объект[`Length`](../../length).
+Возвращает[`Length`](../../length) объект.
 
 ### Смотрите также
 

@@ -1,14 +1,14 @@
 ---
 title: Multiply
 second_title: Aspose.SVG for .NET API 参考
-description: 执行矩阵乘法该矩阵与另一个矩阵后乘返回生成的新矩阵
+description: 执行矩阵乘法该矩阵后乘以另一个矩阵返回生成的新矩阵
 type: docs
 weight: 70
 url: /zh/net/aspose.svg.datatypes/svgmatrix/multiply/
 ---
 ## SVGMatrix.Multiply method
 
-执行矩阵乘法。该矩阵与另一个矩阵后乘，返回生成的新矩阵。
+执行矩阵乘法。该矩阵后乘以另一个矩阵，返回生成的新矩阵。
 
 ```csharp
 public SVGMatrix Multiply(SVGMatrix secondMatrix)

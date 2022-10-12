@@ -3,7 +3,7 @@ title: SVGSaveOptions
 second_title: Справочник по Aspose.SVG для .NET API
 description: Представляет параметры сохранения SVG.
 type: docs
-weight: 3610
+weight: 3620
 url: /ru/net/aspose.svg.saving/svgsaveoptions/
 ---
 ## SVGSaveOptions class
@@ -24,7 +24,7 @@ public class SVGSaveOptions : SaveOptions
 
 | Имя | Описание |
 | --- | --- |
-| [ResourceHandlingOptions](../../aspose.svg.saving/saveoptions/resourcehandlingoptions) { get; } | Получает объект[`ResourceHandlingOptions`](../resourcehandlingoptions), который используется для настройки обработки ресурсов. |
+| [ResourceHandlingOptions](../../aspose.svg.saving/saveoptions/resourcehandlingoptions) { get; } | Получает[`ResourceHandlingOptions`](../resourcehandlingoptions) объект, который используется для настройки обработки ресурсов. |
 | [VectorizeText](../../aspose.svg.saving/svgsaveoptions/vectorizetext) { get; set; } | Получает или задает, заменяются ли текстовые элементы путями. |
 
 ### Смотрите также

@@ -1,14 +1,14 @@
 ---
 title: FileName
 second_title: Справочник по Aspose.SVG для .NET API
-description: Имя сохраняемого файла.
+description: Имя сохраненного файла.
 type: docs
 weight: 30
 url: /ru/net/aspose.svg.net.headers/contentdispositionheadervalue/filename/
 ---
 ## ContentDispositionHeaderValue.FileName property
 
-Имя сохраняемого файла.
+Имя сохраненного файла.
 
 ```csharp
 public string FileName { get; set; }

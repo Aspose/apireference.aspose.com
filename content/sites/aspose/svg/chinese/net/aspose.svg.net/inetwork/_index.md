@@ -3,7 +3,7 @@ title: INetwork
 second_title: Aspose.SVG for .NET API 参考
 description: 为网络服务提供接口
 type: docs
-weight: 2260
+weight: 2270
 url: /zh/net/aspose.svg.net/inetwork/
 ---
 ## INetwork interface
@@ -18,7 +18,7 @@ public interface INetwork : IDisposable
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Send](../../aspose.svg.net/inetwork/send)(RequestMessage) | 发送[`RequestMessage`](../requestmessage)消息。 |
+| [Send](../../aspose.svg.net/inetwork/send)(RequestMessage) | 发送一个[`RequestMessage`](../requestmessage)消息. |
 
 ### 也可以看看
 

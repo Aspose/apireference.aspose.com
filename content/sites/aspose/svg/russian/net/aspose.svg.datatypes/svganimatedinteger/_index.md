@@ -3,7 +3,7 @@ title: SVGAnimatedInteger
 second_title: Справочник по Aspose.SVG для .NET API
 description: Используется для атрибутов базового типа integer которые можно анимировать.
 type: docs
-weight: 130
+weight: 120
 url: /ru/net/aspose.svg.datatypes/svganimatedinteger/
 ---
 ## SVGAnimatedInteger class
@@ -26,8 +26,8 @@ public class SVGAnimatedInteger : SVGAnimatedValue<long>
 | Имя | Описание |
 | --- | --- |
 | [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose)() | Освобождает неуправляемые и (необязательно) управляемые ресурсы. |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | Этот метод используется для получения объекта ECMAScriptType. |
-| override [ToString](../../aspose.svg.datatypes/svganimatedinteger/tostring)() | ВозвращаетString, представляющий этот экземпляр. |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | Этот метод используется для получения объекта ECMAScript.Type . |
+| override [ToString](../../aspose.svg.datatypes/svganimatedinteger/tostring)() | ВозвращаетString который представляет этот экземпляр. |
 
 ### Смотрите также
 

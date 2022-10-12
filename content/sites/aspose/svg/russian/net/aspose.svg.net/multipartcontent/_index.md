@@ -3,7 +3,7 @@ title: MultipartContent
 second_title: Справочник по Aspose.SVG для .NET API
 description: Представляет содержимое multipart/.
 type: docs
-weight: 2350
+weight: 2360
 url: /ru/net/aspose.svg.net/multipartcontent/
 ---
 ## MultipartContent class
@@ -18,9 +18,9 @@ public class MultipartContent : Content, IEnumerable<Content>
 
 | Имя | Описание |
 | --- | --- |
-| [MultipartContent](multipartcontent#constructor)() | Создайте новый экземпляр класса[`MultipartContent`](../multipartcontent). |
-| [MultipartContent](multipartcontent#constructor_1)(string) | Создайте новый экземпляр класса[`MultipartContent`](../multipartcontent)с подтипом. |
-| [MultipartContent](multipartcontent#constructor_2)(string, string) | Создайте новый экземпляр класса[`MultipartContent`](../multipartcontent)с подтипом и границей. |
+| [MultipartContent](multipartcontent#constructor)() | Создать новый экземпляр[`MultipartContent`](../multipartcontent) класс. |
+| [MultipartContent](multipartcontent#constructor_1)(string) | Создать новый экземпляр[`MultipartContent`](../multipartcontent) класс с подтипом. |
+| [MultipartContent](multipartcontent#constructor_2)(string, string) | Создать новый экземпляр[`MultipartContent`](../multipartcontent) класс с подтипом и границей. |
 
 ## Характеристики
 
@@ -33,11 +33,11 @@ public class MultipartContent : Content, IEnumerable<Content>
 | Имя | Описание |
 | --- | --- |
 | virtual [Add](../../aspose.svg.net/multipartcontent/add)(Content) | Добавить новый контент в[`MultipartContent`](../multipartcontent) |
-| [Dispose](../../aspose.svg.net/content/dispose)() | Выполняет определяемые приложением задачи, связанные с освобождением, освобождением или сбросом неуправляемых ресурсов. |
+| [Dispose](../../aspose.svg.net/content/dispose)() | Выполняет определяемые приложением задачи, связанные с освобождением, высвобождением или сбросом неуправляемых ресурсов. |
 | [GetEnumerator](../../aspose.svg.net/multipartcontent/getenumerator)() | Возвращает перечислитель, который перебирает коллекцию. |
 | [ReadAsByteArray](../../aspose.svg.net/content/readasbytearray)() | Сериализировать содержимое HTTP и вернуть массив байтов, представляющий содержимое. |
-| [ReadAsStream](../../aspose.svg.net/content/readasstream)() | Сериализация содержимого HTTP и возврат потока, представляющего содержимое. |
-| [ReadAsString](../../aspose.svg.net/content/readasstring)() | Сериализация содержимого HTTP и возврат строки, представляющей содержимое. |
+| [ReadAsStream](../../aspose.svg.net/content/readasstream)() | Сериализировать содержимое HTTP и вернуть поток, представляющий содержимое. |
+| [ReadAsString](../../aspose.svg.net/content/readasstring)() | Сериализировать содержимое HTTP и вернуть строку, представляющую содержимое. |
 
 ### Смотрите также
 

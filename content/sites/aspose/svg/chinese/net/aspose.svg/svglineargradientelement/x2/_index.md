@@ -1,14 +1,14 @@
 ---
 title: X2
 second_title: Aspose.SVG for .NET API 参考
-description: 对应于给定 linearGradient 元素上的属性 x2
+description: 对应于给定linearGradient元素上的属性x2
 type: docs
 weight: 20
 url: /zh/net/aspose.svg/svglineargradientelement/x2/
 ---
 ## SVGLinearGradientElement.X2 property
 
-对应于给定 'linearGradient' 元素上的属性 'x2'。
+对应于给定“linearGradient”元素上的属性“x2”。
 
 ```csharp
 public SVGAnimatedLength X2 { get; }

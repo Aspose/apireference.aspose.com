@@ -1,14 +1,14 @@
 ---
 title: MessageFilter
 second_title: Справочник по Aspose.SVG для .NET API
-description: Представляет абстрактный базовый класс для различных классов фильтров используемых для запроса сообщений
+description: Представляет абстрактный базовый класс для различных классов фильтров используемых для запроса messages
 type: docs
-weight: 2280
+weight: 2290
 url: /ru/net/aspose.svg.net/messagefilter/
 ---
 ## MessageFilter class
 
-Представляет абстрактный базовый класс для различных классов фильтров, используемых для запроса сообщений
+Представляет абстрактный базовый класс для различных классов фильтров, используемых для запроса messages
 
 ```csharp
 public abstract class MessageFilter

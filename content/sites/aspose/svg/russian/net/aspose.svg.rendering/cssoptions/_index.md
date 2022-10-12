@@ -3,7 +3,7 @@ title: CssOptions
 second_title: Справочник по Aspose.SVG для .NET API
 description: Представляет параметры рендеринга CSS.
 type: docs
-weight: 2680
+weight: 2690
 url: /ru/net/aspose.svg.rendering/cssoptions/
 ---
 ## CssOptions class
@@ -18,7 +18,7 @@ public class CssOptions
 
 | Имя | Описание |
 | --- | --- |
-| [MediaType](../../aspose.svg.rendering/cssoptions/mediatype) { get; set; } | Получает или задает[`MediaType`](../mediatype), который будет использоваться для разрешения медиа-запросов во время рендеринга. Значение по умолчанию:` Печать` . |
+| [MediaType](../../aspose.svg.rendering/cssoptions/mediatype) { get; set; } | Получает или устанавливает[`MediaType`](../mediatype) который будет использоваться для разрешения медиа-запросов во время рендеринга. Значение по умолчанию`Распечатать` . |
 
 ### Смотрите также
 

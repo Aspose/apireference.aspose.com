@@ -3,12 +3,12 @@ title: SVGPathSegLinetoHorizontalAbs
 second_title: Справочник по Aspose.SVG для .NET API
 description: Интерфейс SVGPathSegLinetoHorizontalAbs соответствует команде данных пути абсолютная горизонтальная линия до H.
 type: docs
-weight: 2580
+weight: 2590
 url: /ru/net/aspose.svg.paths/svgpathseglinetohorizontalabs/
 ---
 ## SVGPathSegLinetoHorizontalAbs class
 
-Интерфейс SVGPathSegLinetoHorizontalAbs соответствует команде данных пути "абсолютная горизонтальная линия до" (H).
+Интерфейс SVGPathSegLinetoHorizontalAbs соответствует команде данных пути «абсолютная горизонтальная линия до» (H).
 
 ```csharp
 public class SVGPathSegLinetoHorizontalAbs : SVGPathSeg
@@ -18,7 +18,7 @@ public class SVGPathSegLinetoHorizontalAbs : SVGPathSeg
 
 | Имя | Описание |
 | --- | --- |
-| [PathSegType](../../aspose.svg.paths/svgpathseg/pathsegtype) { get; } | Тип сегмента пути, заданный одной из констант, определенных в этом интерфейсе. |
+| [PathSegType](../../aspose.svg.paths/svgpathseg/pathsegtype) { get; } | Тип сегмента пути, указанный одной из констант, определенных на этом интерфейсе. |
 | [PathSegTypeAsLetter](../../aspose.svg.paths/svgpathseg/pathsegtypeasletter) { get; } | Тип сегмента пути, определяемый соответствующим односимвольным именем команды. |
 | [X](../../aspose.svg.paths/svgpathseglinetohorizontalabs/x) { get; set; } | Абсолютная координата X конечной точки этого сегмента пути. |
 
@@ -27,7 +27,7 @@ public class SVGPathSegLinetoHorizontalAbs : SVGPathSeg
 | Имя | Описание |
 | --- | --- |
 | [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose)() | Освобождает неуправляемые и (необязательно) управляемые ресурсы. |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | Этот метод используется для получения объекта ECMAScriptType. |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | Этот метод используется для получения объекта ECMAScript.Type . |
 
 ### Смотрите также
 

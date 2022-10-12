@@ -1,14 +1,14 @@
 ---
 title: GetIntValue
 second_title: Aspose.SVG for .NET API 参考
-description: 该方法用于获取指定单位的 int 值如果此 CSS 值不包含 int 值或无法转换为指定单位则会引发 DOMException
+description: 此方法用于获取指定单位的 int 值如果此 CSS 值不包含 int 值或无法转换为指定单位则会引发 DOMException
 type: docs
 weight: 40
 url: /zh/net/aspose.svg.dom.css/cssprimitivevalue/getintvalue/
 ---
 ## CSSPrimitiveValue.GetIntValue method
 
-该方法用于获取指定单位的 int 值。如果此 CSS 值不包含 int 值或无法转换为指定单位，则会引发 DOMException。
+此方法用于获取指定单位的 int 值。如果此 CSS 值不包含 int 值或无法转换为指定单位，则会引发 DOMException。
 
 ```csharp
 public abstract int GetIntValue(ushort unitType)

@@ -1,14 +1,14 @@
 ---
 title: Transform
 second_title: Справочник по Aspose.SVG для .NET API
-description: Измените текущую матрицу преобразования умножив указанную матрицу.
+description: Изменить текущую матрицу преобразования умножив указанную матрицу.
 type: docs
 weight: 40
 url: /ru/net/aspose.svg.rendering.image/imagedevice.imagegraphiccontext/transform/
 ---
 ## ImageDevice.ImageGraphicContext.Transform method
 
-Измените текущую матрицу преобразования, умножив указанную матрицу.
+Изменить текущую матрицу преобразования, умножив указанную матрицу.
 
 ```csharp
 public override void Transform(Matrix matrix)
@@ -16,7 +16,7 @@ public override void Transform(Matrix matrix)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| matrix | Matrix | Матрица преобразования. |
+| matrix | Matrix | Матрица трансформации. |
 
 ### Смотрите также
 

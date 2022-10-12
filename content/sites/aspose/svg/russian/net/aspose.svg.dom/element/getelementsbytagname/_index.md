@@ -1,7 +1,7 @@
 ---
 title: GetElementsByTagName
 second_title: Справочник по Aspose.SVG для .NET API
-description: Возвращает NodeList всех элементов-потомков с заданным именем тега в порядке документа.
+description: Возвращает NodeList всех элементовпотомков с заданным именем тега в порядке документа.
 type: docs
 weight: 290
 url: /ru/net/aspose.svg.dom/element/getelementsbytagname/

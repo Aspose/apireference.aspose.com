@@ -17,11 +17,11 @@ public Node ImportNode(Node importedNode, bool deep)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | importedNode | Node | 导入的节点。 |
-| deep | Boolean | 如果设置为` true` [深]。 |
+| deep | Boolean | 如果设置为`真的`[深的]。 |
 
 ### 返回值
 
-[`Node`](../../node)。
+的[`Node`](../../node) .
 
 ### 也可以看看
 

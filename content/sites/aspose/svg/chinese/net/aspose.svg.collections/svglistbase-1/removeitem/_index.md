@@ -20,14 +20,14 @@ public T RemoveItem(ulong index)
 
 ### 返回值
 
-已删除的项。
+已移除的项目。
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception) | 代码[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err)。 无法修改列表时引发。 |
-| [DOMException](../../../aspose.svg.dom/domexception) | 代码[`INDEX_SIZE_ERR`](../../../aspose.svg.dom/domexception/index_size_err)。 如果索引号大于或等于 numberOfItems，则引发。 |
+| [DOMException](../../../aspose.svg.dom/domexception) | 代码[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err). 无法修改列表时引发。 |
+| [DOMException](../../../aspose.svg.dom/domexception) | 代码[`INDEX_SIZE_ERR`](../../../aspose.svg.dom/domexception/index_size_err). 如果索引号大于或等于 numberOfItems 则引发。 |
 
 ### 也可以看看
 

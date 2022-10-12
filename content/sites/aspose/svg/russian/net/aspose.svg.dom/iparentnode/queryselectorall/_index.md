@@ -1,7 +1,7 @@
 ---
 title: QuerySelectorAll
 second_title: Справочник по Aspose.SVG для .NET API
-description: Возвращает все элементы-потомки узла соответствующие селекторам.
+description: Возвращает все элементыпотомки узла соответствующие селекторам.
 type: docs
 weight: 60
 url: /ru/net/aspose.svg.dom/iparentnode/queryselectorall/

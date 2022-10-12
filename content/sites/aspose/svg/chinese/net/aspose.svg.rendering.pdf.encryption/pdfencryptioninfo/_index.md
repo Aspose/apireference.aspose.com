@@ -3,7 +3,7 @@ title: PdfEncryptionInfo
 second_title: Aspose.SVG for .NET API 参考
 description: 包含 pdf 加密的详细信息
 type: docs
-weight: 2870
+weight: 2880
 url: /zh/net/aspose.svg.rendering.pdf.encryption/pdfencryptioninfo/
 ---
 ## PdfEncryptionInfo class
@@ -18,7 +18,7 @@ public class PdfEncryptionInfo
 
 | 姓名 | 描述 |
 | --- | --- |
-| [PdfEncryptionInfo](pdfencryptioninfo)(string, string, PdfPermissions, PdfEncryptionAlgorithm) | 初始化[`PdfEncryptionInfo`](../pdfencryptioninfo)类的新实例。 |
+| [PdfEncryptionInfo](pdfencryptioninfo)(string, string, PdfPermissions, PdfEncryptionAlgorithm) | 初始化[`PdfEncryptionInfo`](../pdfencryptioninfo)类. |
 
 ## 特性
 

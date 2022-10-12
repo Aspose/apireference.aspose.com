@@ -1,14 +1,14 @@
 ---
 title: BeginDocument
 second_title: Aspose.SVG for .NET API 参考
-description: 开始呈现文档
+description: 开始渲染文档
 type: docs
 weight: 30
 url: /zh/net/aspose.svg.rendering.pdf/pdfdevice/begindocument/
 ---
 ## PdfDevice.BeginDocument method
 
-开始呈现文档。
+开始渲染文档。
 
 ```csharp
 public override void BeginDocument(Document document)
@@ -16,7 +16,7 @@ public override void BeginDocument(Document document)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| document | Document | 文档。 |
+| document | Document | 文件。 |
 
 ### 也可以看看
 

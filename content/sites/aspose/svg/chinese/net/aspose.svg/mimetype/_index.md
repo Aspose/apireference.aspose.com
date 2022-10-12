@@ -3,7 +3,7 @@ title: MimeType
 second_title: Aspose.SVG for .NET API 参考
 description: 表示 Internet 媒体类型
 type: docs
-weight: 2170
+weight: 2180
 url: /zh/net/aspose.svg/mimetype/
 ---
 ## MimeType class
@@ -32,12 +32,12 @@ public class MimeType : IEquatable<MimeType>
 | 姓名 | 描述 |
 | --- | --- |
 | static [FromFileExtension](../../aspose.svg/mimetype/fromfileextension)(string) | 基于文件扩展名创建新的 MIME 类型。 |
-| [Equals](../../aspose.svg/mimetype/equals#equals)(MimeType) | 表示当前对象是否等于另一个相同类型的对象。 |
-| override [Equals](../../aspose.svg/mimetype/equals#equals_1)(object) | 确定指定的Object是否等于当前的Object。 |
+| [Equals](../../aspose.svg/mimetype/equals#equals)(MimeType) | 表示当前对象是否等于另一个同类型的对象。 |
+| override [Equals](../../aspose.svg/mimetype/equals#equals_1)(object) | 判断是否指定Object等于当前Object . |
 | override [GetHashCode](../../aspose.svg/mimetype/gethashcode)() | 返回此实例的哈希码。 |
-| override [ToString](../../aspose.svg/mimetype/tostring)() | 返回代表 Mime 类型的String。 |
+| override [ToString](../../aspose.svg/mimetype/tostring)() | 返回一个String代表 Mime 类型。 |
 | [operator ==](../../aspose.svg/mimetype/op_equality) | 比较两个 Mime 类型并返回一个布尔值，指示两者是否匹配。 |
-| [implicit operator](../../aspose.svg/mimetype/op_implicit#op_implicit) | 执行从String到[`MimeType`](../mimetype)的隐式转换。 (2 operators) |
+| [implicit operator](../../aspose.svg/mimetype/op_implicit#op_implicit) | 从String至[`MimeType`](../mimetype) . (2 operators) |
 | [operator !=](../../aspose.svg/mimetype/op_inequality) | 比较两个 Mime 类型并返回一个布尔值，指示两者是否匹配。 |
 
 ### 也可以看看

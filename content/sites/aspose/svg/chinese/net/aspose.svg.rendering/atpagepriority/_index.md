@@ -3,7 +3,7 @@ title: AtPagePriority
 second_title: Aspose.SVG for .NET API 参考
 description: 指定应用页面大小声明的可能顺序
 type: docs
-weight: 2670
+weight: 2680
 url: /zh/net/aspose.svg.rendering/atpagepriority/
 ---
 ## AtPagePriority enumeration
@@ -18,8 +18,8 @@ public enum AtPagePriority
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| OptionsPriority | `0` | 指定在[`RenderingOptions`](../renderingoptions)中声明的[`PageSetup`](../pagesetup)值将覆盖定义的值在 css 中` @page` 规则。 |
-| CssPriority | `1` | 指定` @page` 规则将覆盖在[`PageSetup`](../pagesetup)中定义的值。 |
+| OptionsPriority | `0` | 指定[`PageSetup`](../pagesetup)中声明的值[`RenderingOptions`](../renderingoptions)将覆盖css中定义的值`@页`规则 . |
+| CssPriority | `1` | 指定`@页`规则在 css 中定义的值将覆盖在 css 中定义的值[`PageSetup`](../pagesetup) . |
 
 ### 也可以看看
 

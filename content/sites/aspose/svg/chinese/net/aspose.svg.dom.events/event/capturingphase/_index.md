@@ -1,14 +1,14 @@
 ---
 title: CapturingPhase
 second_title: Aspose.SVG for .NET API 参考
-description: 事件当前正在目标IEventTargetaspose.svg.dom.events/ieventtarget处评估
+description: 目标当前正在评估事件IEventTargetaspose.svg.dom.events/ieventtarget .
 type: docs
 weight: 170
 url: /zh/net/aspose.svg.dom.events/event/capturingphase/
 ---
 ## Event.CapturingPhase field
 
-事件当前正在目标[`IEventTarget`](../../ieventtarget)处评估。
+目标当前正在评估事件[`IEventTarget`](../../ieventtarget) .
 
 ```csharp
 public const ushort CapturingPhase;

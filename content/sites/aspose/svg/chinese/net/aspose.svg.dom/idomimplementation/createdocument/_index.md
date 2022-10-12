@@ -17,12 +17,12 @@ public Document CreateDocument(string namespaceURI, string qualifiedName, Docume
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | namespaceURI | String | 命名空间 URI。 |
-| qualifiedName | String | 合格的名称。 |
+| qualifiedName | String | 合格者的姓名。 |
 | doctype | DocumentType | 文档类型。 |
 
 ### 返回值
 
-返回文档。
+退回文件。
 
 ### 也可以看看
 

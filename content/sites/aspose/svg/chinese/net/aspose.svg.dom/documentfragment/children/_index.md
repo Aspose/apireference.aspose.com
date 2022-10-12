@@ -16,7 +16,7 @@ public HTMLCollection Children { get; }
 
 ### 适当的价值
 
-儿童合集
+孩子们的集合
 
 ### 也可以看看
 

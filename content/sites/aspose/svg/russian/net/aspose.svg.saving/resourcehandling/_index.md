@@ -3,7 +3,7 @@ title: ResourceHandling
 second_title: Справочник по Aspose.SVG для .NET API
 description: Это перечисление представляет параметры обработки ресурсов.
 type: docs
-weight: 3580
+weight: 3590
 url: /ru/net/aspose.svg.saving/resourcehandling/
 ---
 ## ResourceHandling enumeration
@@ -18,8 +18,8 @@ public enum ResourceHandling
 
 | Имя | Ценность | Описание |
 | --- | --- | --- |
-| Save | `0` | Ресурс будет сохранен в виде файла. |
-| Embed | `1` | Ресурс будет привязан к владельцу. |
+| Save | `0` | Ресурс будет сохранен как файл. |
+| Embed | `1` | Ресурс будет встроен в владельца. |
 | Discard | `2` | Ресурс будет удален. |
 | Ignore | `3` | Ресурс не будет сохранен. |
 

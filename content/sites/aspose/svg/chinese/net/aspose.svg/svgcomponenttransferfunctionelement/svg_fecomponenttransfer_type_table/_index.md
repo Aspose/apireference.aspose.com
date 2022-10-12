@@ -1,14 +1,14 @@
 ---
 title: SVG_FECOMPONENTTRANSFER_TYPE_TABLE
 second_title: Aspose.SVG for .NET API 参考
-description: 对应于值table
+description: 对应于值表
 type: docs
 weight: 120
 url: /zh/net/aspose.svg/svgcomponenttransferfunctionelement/svg_fecomponenttransfer_type_table/
 ---
 ## SVGComponentTransferFunctionElement.SVG_FECOMPONENTTRANSFER_TYPE_TABLE field
 
-对应于值'table'。
+对应于值“表”。
 
 ```csharp
 public const ushort SVG_FECOMPONENTTRANSFER_TYPE_TABLE;

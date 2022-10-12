@@ -1,14 +1,14 @@
 ---
 title: Margin
 second_title: Справочник по Aspose.SVG для .NET API
-description: См. определение свойства margin в CSS2.
+description: См. определение свойства поля в CSS2.
 type: docs
 weight: 630
 url: /ru/net/aspose.svg.dom.css/icss2properties/margin/
 ---
 ## ICSS2Properties.Margin property
 
-См. определение свойства margin в CSS2.
+См. определение свойства поля в CSS2.
 
 ```csharp
 public string Margin { get; set; }

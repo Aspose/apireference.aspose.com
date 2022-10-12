@@ -1,14 +1,14 @@
 ---
 title: CreateStream
 second_title: Aspose.SVG for .NET API 参考
-description: 创建输出文件流OutputStreamaspose.svg.io/outputstream
+description: 创建输出文件流OutputStreamaspose.svg.io/outputstream .
 type: docs
 weight: 30
 url: /zh/net/aspose.svg.io/localfilesystemstorage/createstream/
 ---
 ## LocalFileSystemStorage.CreateStream method
 
-创建输出文件流[`OutputStream`](../../outputstream)。
+创建输出文件流[`OutputStream`](../../outputstream) .
 
 ```csharp
 public virtual OutputStream CreateStream(OutputStreamContext context)
@@ -16,7 +16,7 @@ public virtual OutputStream CreateStream(OutputStreamContext context)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| context | OutputStreamContext | 指定输出流上下文[`OutputStreamContext`](../../outputstreamcontext)。 |
+| context | OutputStreamContext | 指定输出流上下文[`OutputStreamContext`](../../outputstreamcontext). |
 
 ### 返回值
 

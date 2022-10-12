@@ -1,14 +1,14 @@
 ---
 title: Target
 second_title: Справочник по Aspose.SVG для .NET API
-description: Используется для указанияIEventTargetaspose.svg.dom.events/ieventtarget на который изначально было отправлено событие.
+description: Используется для обозначенияIEventTargetaspose.svg.dom.events/ieventtarget которому изначально было отправлено событие.
 type: docs
 weight: 80
 url: /ru/net/aspose.svg.dom.events/event/target/
 ---
 ## Event.Target property
 
-Используется для указания[`IEventTarget`](../../ieventtarget), на который изначально было отправлено событие.
+Используется для обозначения[`IEventTarget`](../../ieventtarget) которому изначально было отправлено событие.
 
 ```csharp
 public EventTarget Target { get; }

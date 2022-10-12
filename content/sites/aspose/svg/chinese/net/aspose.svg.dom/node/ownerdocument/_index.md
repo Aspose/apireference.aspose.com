@@ -1,14 +1,14 @@
 ---
 title: OwnerDocument
 second_title: Aspose.SVG for .NET API 参考
-description: 与此节点关联的 Document 对象这也是用于创建新节点的 Document 对象当此节点是尚未与任何 Document 一起使用的 Document 或 DocumentType 时此节点为 null
+description: 与此节点关联的 Document 对象这也是用于创建新节点的 Document 对象当此节点是一个 Document 或 DocumentType 尚未与任何 Document 一起使用时这是 null.
 type: docs
 weight: 120
 url: /zh/net/aspose.svg.dom/node/ownerdocument/
 ---
 ## Node.OwnerDocument property
 
-与此节点关联的 Document 对象。这也是用于创建新节点的 Document 对象。当此节点是尚未与任何 Document 一起使用的 Document 或 DocumentType 时，此节点为 null。
+与此节点关联的 Document 对象。这也是用于创建新节点的 Document 对象。当此节点是一个 Document 或 DocumentType 尚未与任何 Document 一起使用时，这是 null.
 
 ```csharp
 public virtual Document OwnerDocument { get; }

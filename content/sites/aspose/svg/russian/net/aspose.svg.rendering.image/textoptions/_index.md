@@ -1,14 +1,14 @@
 ---
 title: TextOptions
 second_title: Справочник по Aspose.SVG для .NET API
-description: Представляет параметры рендеринга текста дляImageDevice./imagedevice.
+description: Представляет параметры рендеринга текста дляImageDevice./imagedevice .
 type: docs
-weight: 2820
+weight: 2830
 url: /ru/net/aspose.svg.rendering.image/textoptions/
 ---
 ## TextOptions class
 
-Представляет параметры рендеринга текста для[`ImageDevice`](../imagedevice).
+Представляет параметры рендеринга текста для[`ImageDevice`](../imagedevice) .
 
 ```csharp
 public class TextOptions
@@ -18,7 +18,7 @@ public class TextOptions
 
 | Имя | Описание |
 | --- | --- |
-| [TextRenderingHint](../../aspose.svg.rendering.image/textoptions/textrenderinghint) { get; set; } | Устанавливает или получаетTextRenderingHint, который влияет на качество рендеринга текста. По умолчанию это свойствоSystemDefault. |
+| [TextRenderingHint](../../aspose.svg.rendering.image/textoptions/textrenderinghint) { get; set; } | Устанавливает или получаетTextRenderingHint что влияет на качество рендеринга текста. По умолчанию это свойствоSystemDefault . |
 
 ### Смотрите также
 

@@ -16,7 +16,7 @@ public SVGAnimatedEnumeration LengthAdjust { get; }
 
 ### Стоимость имущества
 
-Атрибут 'lengthAdjust' данного элемента
+Атрибут lengthAdjust данного элемента element
 
 ### Смотрите также
 

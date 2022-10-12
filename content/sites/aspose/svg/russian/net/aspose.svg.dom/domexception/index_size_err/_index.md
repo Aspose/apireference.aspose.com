@@ -1,14 +1,14 @@
 ---
 title: INDEX_SIZE_ERR
 second_title: Справочник по Aspose.SVG для .NET API
-description: Если индекс или размер отрицательный или превышает допустимое значение.
+description: Если индекс или размер отрицательные или превышают допустимое значение.
 type: docs
 weight: 90
 url: /ru/net/aspose.svg.dom/domexception/index_size_err/
 ---
 ## DOMException.INDEX_SIZE_ERR field
 
-Если индекс или размер отрицательный или превышает допустимое значение.
+Если индекс или размер отрицательные или превышают допустимое значение.
 
 ```csharp
 public const ushort INDEX_SIZE_ERR;

@@ -1,14 +1,14 @@
 ---
 title: X
 second_title: Справочник по Aspose.SVG для .NET API
-description: Соответствует атрибуту x данного элемента pattern.
+description: Соответствует атрибуту x данного элемента шаблона.
 type: docs
 weight: 120
 url: /ru/net/aspose.svg/svgpatternelement/x/
 ---
 ## SVGPatternElement.X property
 
-Соответствует атрибуту 'x' данного элемента 'pattern'.
+Соответствует атрибуту «x» данного элемента «шаблона».
 
 ```csharp
 public SVGAnimatedLength X { get; }

@@ -1,14 +1,14 @@
 ---
 title: Equals
 second_title: Aspose.SVG for .NET API 参考
-description: 确定指定的Unitaspose.svg.drawing/unit是否等于此实例
+description: 判断是否指定Unitaspose.svg.drawing/unit 等于这个实例
 type: docs
 weight: 20
 url: /zh/net/aspose.svg.drawing/unit/equals/
 ---
 ## Equals(Unit) {#equals}
 
-确定指定的[`Unit`](../../unit)是否等于此实例。
+判断是否指定[`Unit`](../../unit) 等于这个实例。
 
 ```csharp
 public virtual bool Equals(Unit other)
@@ -16,11 +16,11 @@ public virtual bool Equals(Unit other)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| other | Unit | [`Unit`](../../unit)与此实例进行比较。 |
+| other | Unit | 这[`Unit`](../../unit)与此实例进行比较。 |
 
 ### 返回值
 
-` true` 如果指定的[`Unit`](../../unit)等于这个实例；否则，` false` 。
+`真的`如果指定[`Unit`](../../unit)等于这个实例；否则，`错误的` .
 
 ### 也可以看看
 
@@ -32,7 +32,7 @@ public virtual bool Equals(Unit other)
 
 ## Equals(object) {#equals_1}
 
-确定指定的Object是否等于此实例。
+判断是否指定Object 等于这个实例。
 
 ```csharp
 public override bool Equals(object obj)
@@ -40,11 +40,11 @@ public override bool Equals(object obj)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| obj | Object | Object与此实例进行比较。 |
+| obj | Object | 这Object与此实例进行比较。 |
 
 ### 返回值
 
-` true` 如果指定的Object等于这个实例；否则，` false` 。
+`真的`如果指定Object等于这个实例；否则，`错误的` .
 
 ### 也可以看看
 

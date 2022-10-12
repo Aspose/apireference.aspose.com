@@ -8,7 +8,7 @@ url: /ru/net/aspose.svg.filters/svgfeconvolvematrixelement/svg_edgemode_duplicat
 ---
 ## SVGFEConvolveMatrixElement.SVG_EDGEMODE_DUPLICATE field
 
-Соответствует значению 'дубликат'.
+Соответствует значению «дубликат».
 
 ```csharp
 public const ushort SVG_EDGEMODE_DUPLICATE;

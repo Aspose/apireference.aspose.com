@@ -1,14 +1,14 @@
 ---
 title: Id
 second_title: Справочник по Aspose.SVG для .NET API
-description: Значение атрибута id данного элемента или пустая строка если id отсутствует.
+description: Значение атрибута id для данного элемента или пустая строка если id отсутствует.
 type: docs
 weight: 20
 url: /ru/net/aspose.svg/svgelement/id/
 ---
 ## SVGElement.Id property
 
-Значение атрибута 'id' данного элемента или пустая строка, если 'id' отсутствует.
+Значение атрибута 'id' для данного элемента или пустая строка, если 'id' отсутствует.
 
 ```csharp
 public string Id { get; set; }

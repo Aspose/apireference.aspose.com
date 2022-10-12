@@ -1,14 +1,14 @@
 ---
 title: Exponent
 second_title: Aspose.SVG for .NET API 参考
-description: 对应于给定元素的属性指数
+description: 对应于给定元素上的属性指数
 type: docs
 weight: 20
 url: /zh/net/aspose.svg/svgcomponenttransferfunctionelement/exponent/
 ---
 ## SVGComponentTransferFunctionElement.Exponent property
 
-对应于给定元素的属性“指数”。
+对应于给定元素上的属性“指数”。
 
 ```csharp
 public SVGAnimatedNumber Exponent { get; }

@@ -8,7 +8,7 @@ url: /ru/net/aspose.svg.dom.css/icssstyledeclaration/setproperty/
 ---
 ## SetProperty(string, string) {#setproperty}
 
-Используется для установки значения свойства с приоритетом по умолчанию в этом блоке объявлений. Приоритет по умолчанию не является "важным", т.е. String.Empty
+Используется для установки значения свойства с приоритетом по умолчанию в этом блоке объявлений. Приоритет по умолчанию не является «важным», т.е. String.Empty
 
 ```csharp
 public void SetProperty(string propertyName, string value)
@@ -16,7 +16,7 @@ public void SetProperty(string propertyName, string value)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| propertyName | String | Имя свойства. |
+| propertyName | String | Название свойства. |
 | value | String | Значение. |
 
 ### Смотрите также
@@ -29,7 +29,7 @@ public void SetProperty(string propertyName, string value)
 
 ## SetProperty(string, string, string) {#setproperty_1}
 
-Используется для установки значения свойства и приоритета в этом блоке объявлений.
+Используется для установки значения свойства и приоритета в этом блоке объявления.
 
 ```csharp
 public void SetProperty(string propertyName, string value, string priority)
@@ -37,7 +37,7 @@ public void SetProperty(string propertyName, string value, string priority)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| propertyName | String | Имя свойства. |
+| propertyName | String | Название свойства. |
 | value | String | Значение. |
 | priority | String | Приоритет. |
 

@@ -1,14 +1,14 @@
 ---
 title: Divisor
 second_title: Aspose.SVG for .NET API 参考
-description: 对应于给定 feConvolveMatrix 元素的属性 divisor
+description: 对应于给定feConvolveMatrix元素上的属性除数
 type: docs
 weight: 20
 url: /zh/net/aspose.svg.filters/svgfeconvolvematrixelement/divisor/
 ---
 ## SVGFEConvolveMatrixElement.Divisor property
 
-对应于给定 'feConvolveMatrix' 元素的属性 'divisor'。
+对应于给定“feConvolveMatrix”元素上的属性“除数”。
 
 ```csharp
 public SVGAnimatedNumber Divisor { get; }

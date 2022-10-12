@@ -3,7 +3,7 @@ title: SizingType
 second_title: Aspose.SVG for .NET API 参考
 description: 表示页面大小类型的枚举
 type: docs
-weight: 2960
+weight: 2970
 url: /zh/net/aspose.svg.rendering/sizingtype/
 ---
 ## SizingType enumeration
@@ -18,7 +18,7 @@ public enum SizingType
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| FitContent | `0` | 更改页面的给定大小以适应其包含的内容的大小。 |
+| FitContent | `0` | 更改页面的给定大小以适合其包含的内容的大小。 |
 | ScaleContent | `1` | 根据给定的页面大小缩放内容大小。 |
 | Contain | `2` | 使内容大小适合页面大小，同时尽可能保持首选纵横比。 |
 | Crop | `3` | 将内容放在页面上并裁剪超出给定页面大小的所有内容。 |

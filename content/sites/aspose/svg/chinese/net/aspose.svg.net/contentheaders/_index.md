@@ -3,7 +3,7 @@ title: ContentHeaders
 second_title: Aspose.SVG for .NET API 参考
 description: 包含与内容关联的标头
 type: docs
-weight: 2200
+weight: 2210
 url: /zh/net/aspose.svg.net/contentheaders/
 ---
 ## ContentHeaders class
@@ -18,7 +18,7 @@ public class ContentHeaders : WebHeaderCollection
 
 | 姓名 | 描述 |
 | --- | --- |
-| [ContentHeaders](contentheaders)() | 初始化[`ContentHeaders`](../contentheaders)类的新实例。 |
+| [ContentHeaders](contentheaders)() | 初始化[`ContentHeaders`](../contentheaders)类. |
 
 ## 特性
 

@@ -16,7 +16,7 @@ public SVGAnimatedEnumeration Type { get; }
 
 ### 适当的价值
 
-给定 'feTurbulence' 元素的属性 'type'。
+给定'feTurbulence'元素的属性'type'。
 
 ### 也可以看看
 

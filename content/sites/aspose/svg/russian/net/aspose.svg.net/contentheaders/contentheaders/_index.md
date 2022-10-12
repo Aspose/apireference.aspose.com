@@ -1,14 +1,14 @@
 ---
 title: ContentHeaders
 second_title: Справочник по Aspose.SVG для .NET API
-description: Инициализирует новый экземпляр классаContentHeadersaspose.svg.net/contentheaders.
+description: Инициализирует новый экземплярContentHeadersaspose.svg.net/contentheaders класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.net/contentheaders/contentheaders/
 ---
 ## ContentHeaders constructor
 
-Инициализирует новый экземпляр класса[`ContentHeaders`](../../contentheaders).
+Инициализирует новый экземпляр[`ContentHeaders`](../../contentheaders) класс.
 
 ```csharp
 public ContentHeaders()

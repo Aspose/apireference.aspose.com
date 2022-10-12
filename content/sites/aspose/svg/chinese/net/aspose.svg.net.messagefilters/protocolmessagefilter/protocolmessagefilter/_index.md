@@ -1,14 +1,14 @@
 ---
 title: ProtocolMessageFilter
 second_title: Aspose.SVG for .NET API 参考
-description: 初始化ProtocolMessageFilteraspose.svg.net.messagefilters/protocolmessagefilter类的新实例
+description: 初始化ProtocolMessageFilteraspose.svg.net.messagefilters/protocolmessagefilter类.
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.net.messagefilters/protocolmessagefilter/protocolmessagefilter/
 ---
 ## ProtocolMessageFilter constructor
 
-初始化[`ProtocolMessageFilter`](../../protocolmessagefilter)类的新实例。
+初始化[`ProtocolMessageFilter`](../../protocolmessagefilter)类.
 
 ```csharp
 public ProtocolMessageFilter(params string[] protocols)

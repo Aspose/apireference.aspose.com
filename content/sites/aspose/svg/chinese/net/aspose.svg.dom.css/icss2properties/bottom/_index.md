@@ -1,14 +1,14 @@
 ---
 title: Bottom
 second_title: Aspose.SVG for .NET API 参考
-description: 请参阅 CSS2 中的底部属性定义
+description: 见CSS2中的底部属性定义
 type: docs
 weight: 300
 url: /zh/net/aspose.svg.dom.css/icss2properties/bottom/
 ---
 ## ICSS2Properties.Bottom property
 
-请参阅 CSS2 中的底部属性定义。
+见CSS2中的底部属性定义。
 
 ```csharp
 public string Bottom { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: OnOnline
 second_title: Справочник по Aspose.SVG для .NET API
-description: Получает или задает обработчик событий
+description: Получает или задает обработчик события
 type: docs
 weight: 70
 url: /ru/net/aspose.svg.window/iwindoweventhandlers/ononline/
 ---
 ## IWindowEventHandlers.OnOnline event
 
-Получает или задает обработчик событий
+Получает или задает обработчик события
 
 ```csharp
 public event DOMEventHandler OnOnline;

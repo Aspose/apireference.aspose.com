@@ -16,7 +16,7 @@ public override Document OwnerDocument { get; }
 
 ### 适当的价值
 
-所有者文档。
+所有者文档.
 
 ### 也可以看看
 

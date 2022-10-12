@@ -1,14 +1,14 @@
 ---
 title: StopImmediatePropagation
 second_title: Aspose.SVG for .NET API 参考
-description: 调用此方法可防止事件到达在当前事件侦听器之后注册的任何事件侦听器并且在树中分派时还可防止事件到达任何其他对象
+description: 调用此方法可防止事件到达在当前事件侦听器之后注册的任何事件侦听器并且在树中调度时也可防止事件到达任何其他对象
 type: docs
 weight: 130
 url: /zh/net/aspose.svg.dom.events/event/stopimmediatepropagation/
 ---
 ## Event.StopImmediatePropagation method
 
-调用此方法可防止事件到达在当前事件侦听器之后注册的任何事件侦听器，并且在树中分派时还可防止事件到达任何其他对象。
+调用此方法可防止事件到达在当前事件侦听器之后注册的任何事件侦听器，并且在树中调度时也可防止事件到达任何其他对象。
 
 ```csharp
 public void StopImmediatePropagation()

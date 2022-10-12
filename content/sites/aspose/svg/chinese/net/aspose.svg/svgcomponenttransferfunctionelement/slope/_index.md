@@ -1,14 +1,14 @@
 ---
 title: Slope
 second_title: Aspose.SVG for .NET API 参考
-description: 对应于给定元素的属性斜率
+description: 对应于给定元素上的属性坡度
 type: docs
 weight: 50
 url: /zh/net/aspose.svg/svgcomponenttransferfunctionelement/slope/
 ---
 ## SVGComponentTransferFunctionElement.Slope property
 
-对应于给定元素的属性“斜率”。
+对应于给定元素上的属性“坡度”。
 
 ```csharp
 public SVGAnimatedNumber Slope { get; }
@@ -16,7 +16,7 @@ public SVGAnimatedNumber Slope { get; }
 
 ### 适当的价值
 
-给定元素的属性“斜率”。
+给定元素的属性“坡度”。
 
 ### 也可以看看
 

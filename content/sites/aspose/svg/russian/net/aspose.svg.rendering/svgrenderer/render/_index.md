@@ -1,14 +1,14 @@
 ---
 title: Render
 second_title: Справочник по Aspose.SVG для .NET API
-description: Определяет метод для рендеринга несколькихSVGDocumentaspose.svg/svgdocumentв определенныеIDeviceaspose.svg.rendering/idevice. Рендеринг будет выполнен когда не будет никаких сетевых операций по загрузке ресурсов активных таймеров задач анимации или истечет указанный тайм-аут.
+description: Определяет метод для рендеринга несколькихSVGDocumentaspose.svg/svgdocument в конкретныеIDeviceaspose.svg.rendering/idevice . Рендеринг будет выполнен после того как не будет никаких сетевых операций для загрузки ресурсов активных таймеров задач анимации или истечет указанное время ожидания.
 type: docs
 weight: 20
 url: /ru/net/aspose.svg.rendering/svgrenderer/render/
 ---
 ## SvgRenderer.Render method
 
-Определяет метод для рендеринга нескольких[`SVGDocument`](../../../aspose.svg/svgdocument)в определенные[`IDevice`](../../idevice). Рендеринг будет выполнен, когда не будет никаких сетевых операций по загрузке ресурсов, активных таймеров, задач анимации или истечет указанный тайм-аут.
+Определяет метод для рендеринга нескольких[`SVGDocument`](../../../aspose.svg/svgdocument) в конкретные[`IDevice`](../../idevice) . Рендеринг будет выполнен после того, как не будет никаких сетевых операций для загрузки ресурсов, активных таймеров, задач анимации или истечет указанное время ожидания.
 
 ```csharp
 public override void Render(IDevice device, TimeSpan timeout, params SVGDocument[] documents)
@@ -16,9 +16,9 @@ public override void Render(IDevice device, TimeSpan timeout, params SVGDocument
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| device | IDevice | Устройство вывода. |
-| timeout | TimeSpan | TimeSpan, который представляет количество миллисекунд ожидания, илиTimeSpan, который представляет -1 миллисекунда, чтобы ждать бесконечно. |
-| documents | SVGDocument[] | Документы для визуализации. |
+| device | IDevice | Выходное устройство. |
+| timeout | TimeSpan | АTimeSpan который представляет количество миллисекунд ожидания, илиTimeSpan что представляет собой -1 миллисекунду ожидания на неопределенный срок. |
+| documents | SVGDocument[] | Документы для оформления. |
 
 ### Смотрите также
 

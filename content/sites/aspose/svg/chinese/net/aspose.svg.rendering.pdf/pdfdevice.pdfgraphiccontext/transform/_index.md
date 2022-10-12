@@ -1,14 +1,14 @@
 ---
 title: Transform
 second_title: Aspose.SVG for .NET API 参考
-description: 通过乘以指定的矩阵来修改当前的变换矩阵
+description: 通过乘以指定矩阵来修改当前变换矩阵
 type: docs
 weight: 100
 url: /zh/net/aspose.svg.rendering.pdf/pdfdevice.pdfgraphiccontext/transform/
 ---
 ## PdfDevice.PdfGraphicContext.Transform method
 
-通过乘以指定的矩阵来修改当前的变换矩阵。
+通过乘以指定矩阵来修改当前变换矩阵。
 
 ```csharp
 public override void Transform(Matrix matrix)

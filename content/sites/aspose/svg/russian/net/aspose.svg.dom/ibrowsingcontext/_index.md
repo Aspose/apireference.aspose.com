@@ -1,14 +1,14 @@
 ---
 title: IBrowsingContext
 second_title: Справочник по Aspose.SVG для .NET API
-description: Контекст просмотра  это среда в которой пользователю представлены объектыDocument./document.
+description: Контекст просмотра  это среда в которойDocument./document объекты представлены пользователю.
 type: docs
-weight: 1030
+weight: 1020
 url: /ru/net/aspose.svg.dom/ibrowsingcontext/
 ---
 ## IBrowsingContext interface
 
-Контекст просмотра — это среда, в которой пользователю представлены объекты[`Document`](../document).
+Контекст просмотра — это среда, в которой[`Document`](../document) объекты представлены пользователю.
 
 ```csharp
 public interface IBrowsingContext : IDisposable, IServiceProvider

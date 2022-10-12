@@ -1,14 +1,14 @@
 ---
 title: CurrentTranslate
 second_title: Aspose.SVG for .NET API 参考
-description: 在最外层的 svg 元素上考虑到用户放大倍数的相应翻译因子 在不是最外层 svg 元素的 svg 元素上访问时该属性的行为是未定义的
+description: 在最外层的 svg 元素上考虑到用户放大率的相应转换因子 当在不是最外层 svg 元素的svg元素上访问时未定义此属性的行为
 type: docs
 weight: 20
 url: /zh/net/aspose.svg/svgsvgelement/currenttranslate/
 ---
 ## SVGSVGElement.CurrentTranslate property
 
-在最外层的 svg 元素上，考虑到用户“放大倍数”的相应翻译因子。 在不是最外层 svg 元素的 'svg' 元素上访问时，该属性的行为是未定义的。
+在最外层的 svg 元素上，考虑到用户“放大率”的相应转换因子。 当在不是最外层 svg 元素的“svg”元素上访问时，未定义此属性的行为。
 
 ```csharp
 public SVGPoint CurrentTranslate { get; }

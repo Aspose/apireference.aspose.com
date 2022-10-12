@@ -16,7 +16,7 @@ public Content Content { get; set; }
 
 ### 适当的价值
 
-身体。
+身体.
 
 ### 也可以看看
 

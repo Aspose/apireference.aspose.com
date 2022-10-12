@@ -1,14 +1,14 @@
 ---
 title: BlendPositions
 second_title: Справочник по Aspose.SVG для .NET API
-description: Получить позиции перехода которые определяют пользовательский спад для градиента.
+description: Получить позиции смешивания которые определяют пользовательский спад для градиента.
 type: docs
 weight: 20
 url: /ru/net/aspose.svg.drawing/igradientbrush/blendpositions/
 ---
 ## IGradientBrush.BlendPositions property
 
-Получить позиции перехода, которые определяют пользовательский спад для градиента.
+Получить позиции смешивания, которые определяют пользовательский спад для градиента.
 
 ```csharp
 public float[] BlendPositions { get; }
@@ -16,7 +16,7 @@ public float[] BlendPositions { get; }
 
 ### Возвращаемое значение
 
-Смешивание позиций.
+Смешайте позиции.
 
 ### Смотрите также
 

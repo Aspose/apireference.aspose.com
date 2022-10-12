@@ -1,14 +1,14 @@
 ---
 title: QUOTA_EXCEEDED_ERR
 second_title: Справочник по Aspose.SVG для .NET API
-description: Квота превышена.
+description: Превышена квота.
 type: docs
 weight: 230
 url: /ru/net/aspose.svg.dom/domexception/quota_exceeded_err/
 ---
 ## DOMException.QUOTA_EXCEEDED_ERR field
 
-Квота превышена.
+Превышена квота.
 
 ```csharp
 public const ushort QUOTA_EXCEEDED_ERR;

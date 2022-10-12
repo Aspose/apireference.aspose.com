@@ -8,7 +8,7 @@ url: /ru/net/aspose.svg.filters/svgfespotlightelement/z/
 ---
 ## SVGFESpotLightElement.Z property
 
-Соответствует атрибуту 'z' данного элемента 'feSpotLight'.
+Соответствует атрибуту 'z' данного элемента feSpotLight.
 
 ```csharp
 public SVGAnimatedNumber Z { get; }

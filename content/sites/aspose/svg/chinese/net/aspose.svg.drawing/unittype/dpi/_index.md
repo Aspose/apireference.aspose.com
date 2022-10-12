@@ -1,14 +1,14 @@
 ---
 title: Dpi
 second_title: Aspose.SVG for .NET API 参考
-description: 测量单位为每英寸点数
+description: 以每英寸点数为单位
 type: docs
 weight: 60
 url: /zh/net/aspose.svg.drawing/unittype/dpi/
 ---
 ## UnitType.Dpi field
 
-测量单位为每英寸点数。
+以每英寸点数为单位。
 
 ```csharp
 public static readonly UnitType Dpi;

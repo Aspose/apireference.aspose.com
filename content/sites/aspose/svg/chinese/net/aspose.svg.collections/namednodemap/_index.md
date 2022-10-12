@@ -18,8 +18,8 @@ public class NamedNodeMap : DOMObject, IDisposable, IEnumerable<Attr>
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Item](../../aspose.svg.collections/namednodemap/item) { get; } | 返回地图中的第 index 个项目。如果 index 大于或等于此映射中的节点数，则返回 null。 (2 indexers) |
-| [Length](../../aspose.svg.collections/namednodemap/length) { get; } | 此映射中的节点数。 |
+| [Item](../../aspose.svg.collections/namednodemap/item) { get; } | 返回地图中的第 index 个项目。如果 index 大于或等于此映射中的节点数，则返回 null. (2 indexers) |
+| [Length](../../aspose.svg.collections/namednodemap/length) { get; } | 这张地图的节点数。 |
 
 ## 方法
 
@@ -28,11 +28,11 @@ public class NamedNodeMap : DOMObject, IDisposable, IEnumerable<Attr>
 | [GetEnumerator](../../aspose.svg.collections/namednodemap/getenumerator)() | 返回一个遍历集合的枚举器。 |
 | [GetNamedItem](../../aspose.svg.collections/namednodemap/getnameditem)(string) | 检索由名称指定的节点。 |
 | [GetNamedItemNS](../../aspose.svg.collections/namednodemap/getnameditemns)(string, string) | 检索由本地名称和命名空间 URI 指定的节点。 |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | 此方法用于检索 ECMAScript 对象Type。 |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | 此方法用于检索 ECMAScript 对象Type . |
 | [RemoveNamedItem](../../aspose.svg.collections/namednodemap/removenameditem)(string) | 删除由名称指定的节点。 |
 | [RemoveNamedItemNS](../../aspose.svg.collections/namednodemap/removenameditemns)(string, string) | 删除由本地名称和命名空间 URI 指定的节点。 |
-| [SetNamedItem](../../aspose.svg.collections/namednodemap/setnameditem)(Attr) | 使用节点名称属性添加节点。如果此映射中已存在具有该名称的节点，则将其替换为新节点。自行替换节点无效。 |
-| [SetNamedItemNS](../../aspose.svg.collections/namednodemap/setnameditemns)(Attr) | 使用其 namespaceURI 和 localName 添加一个节点。如果具有该名称空间 URI 和该本地名称的节点已存在于此映射中，则将其替换为新节点。自行替换节点无效。 |
+| [SetNamedItem](../../aspose.svg.collections/namednodemap/setnameditem)(Attr) | 使用其 nodeName 属性添加一个节点。如果此映射中已存在具有该名称的节点，则将其替换为新节点。自己替换一个节点是没有效果的 |
+| [SetNamedItemNS](../../aspose.svg.collections/namednodemap/setnameditemns)(Attr) | 使用其 namespaceURI 和 localName 添加一个节点。如果具有该名称空间 URI 和该本地名称的节点已存在于此映射中，则将其替换为新节点。自己替换一个节点是没有效果的 |
 
 ### 也可以看看
 

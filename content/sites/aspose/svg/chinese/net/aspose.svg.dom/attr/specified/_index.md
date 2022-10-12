@@ -1,14 +1,14 @@
 ---
 title: Specified
 second_title: Aspose.SVG for .NET API 参考
-description: 如果该属性在实例文档中被显式地赋予了一个值则为真否则为假
+description: 如果该属性在实例文档中被明确地赋予了一个值则为真否则为假
 type: docs
 weight: 110
 url: /zh/net/aspose.svg.dom/attr/specified/
 ---
 ## Attr.Specified property
 
-如果该属性在实例文档中被显式地赋予了一个值，则为真，否则为假。
+如果该属性在实例文档中被明确地赋予了一个值，则为真，否则为假。
 
 ```csharp
 public bool Specified { get; }
@@ -16,7 +16,7 @@ public bool Specified { get; }
 
 ### 适当的价值
 
-` true` 如果指定；否则，` false` 。
+`真的`如果指定；否则，`错误的` .
 
 ### 也可以看看
 

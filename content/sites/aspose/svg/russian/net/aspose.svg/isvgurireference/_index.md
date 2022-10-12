@@ -3,7 +3,7 @@ title: ISVGURIReference
 second_title: Справочник по Aspose.SVG для .NET API
 description: Интерфейс SVGURIReference определяет интерфейс который применяется ко всем элементам имеющим набор атрибутов XLink таких как xlinkhref которые определяют ссылку URI.
 type: docs
-weight: 2030
+weight: 2040
 url: /ru/net/aspose.svg/isvgurireference/
 ---
 ## ISVGURIReference interface

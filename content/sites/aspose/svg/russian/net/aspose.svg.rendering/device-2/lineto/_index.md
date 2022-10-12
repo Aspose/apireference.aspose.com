@@ -1,14 +1,14 @@
 ---
 title: LineTo
 second_title: Справочник по Aspose.SVG для .NET API
-description: Добавляет отрезок прямой из текущей точки в точку pt. Новая текущая точка - pt.
+description: Добавляет отрезок прямой от текущей точки до точки pt. Новая текущая точка  pt.
 type: docs
 weight: 180
 url: /ru/net/aspose.svg.rendering/device-2/lineto/
 ---
 ## Device&lt;TGraphicContext,TRenderingOptions&gt;.LineTo method
 
-Добавляет отрезок прямой из текущей точки в точку (pt). Новая текущая точка - pt.
+Добавляет отрезок прямой от текущей точки до точки (pt). Новая текущая точка - pt.
 
 ```csharp
 public abstract void LineTo(PointF pt)

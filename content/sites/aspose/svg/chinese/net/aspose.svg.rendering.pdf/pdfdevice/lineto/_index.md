@@ -1,14 +1,14 @@
 ---
 title: LineTo
 second_title: Aspose.SVG for .NET API 参考
-description: 从当前点到点 pt 追加一条直线段新的当前点是 pt
+description: 将一条直线段从当前点附加到点 pt新的当前点是 pt.
 type: docs
 weight: 160
 url: /zh/net/aspose.svg.rendering.pdf/pdfdevice/lineto/
 ---
 ## PdfDevice.LineTo method
 
-从当前点到点 (pt) 追加一条直线段。新的当前点是 pt。
+将一条直线段从当前点附加到点 (pt)。新的当前点是 pt.
 
 ```csharp
 public override void LineTo(PointF pt)
@@ -16,7 +16,7 @@ public override void LineTo(PointF pt)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| pt | PointF | 创建线的点。 |
+| pt | PointF | 创建线的位置点。 |
 
 ### 也可以看看
 

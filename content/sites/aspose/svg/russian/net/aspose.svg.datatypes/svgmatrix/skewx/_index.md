@@ -1,7 +1,7 @@
 ---
 title: SkewX
 second_title: Справочник по Aspose.SVG для .NET API
-description: Пост-умножает преобразование skewX на текущую матрицу и возвращает результирующую матрицу.
+description: Постумножает преобразование skewX на текущую матрицу и возвращает результирующую матрицу.
 type: docs
 weight: 110
 url: /ru/net/aspose.svg.datatypes/svgmatrix/skewx/
@@ -20,7 +20,7 @@ public SVGMatrix SkewX(float angle)
 
 ### Возвращаемое значение
 
-Результирующая матрица.
+Полученная матрица.
 
 ### Смотрите также
 

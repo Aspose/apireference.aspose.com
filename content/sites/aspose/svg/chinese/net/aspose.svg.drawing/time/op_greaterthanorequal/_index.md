@@ -1,14 +1,14 @@
 ---
 title: op_GreaterThanOrEqual
 second_title: Aspose.SVG for .NET API 参考
-description: 实现运算符 gt
+description: 实现运算符 gt.
 type: docs
 weight: 40
 url: /zh/net/aspose.svg.drawing/time/op_greaterthanorequal/
 ---
 ## Time GreaterThanOrEqual operator
 
-实现运算符 &gt;=。
+实现运算符 &gt;=.
 
 ```csharp
 public static bool operator >=(Time a, Time b)
@@ -16,8 +16,8 @@ public static bool operator >=(Time a, Time b)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| a | Time | 参数a。 |
-| b | Time | 参数 b。 |
+| a | Time | 参数 a。 |
+| b | Time | 参数 B. |
 
 ### 返回值
 

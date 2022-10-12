@@ -1,14 +1,14 @@
 ---
 title: DefaultView
 second_title: Aspose.SVG for .NET API 参考
-description: Document 接口的 defaultView IDL 属性在获取时 必须返回此 Document 的浏览上下文的 WindowProxy 对象 如果此 Document 具有关联的浏览上下文 否则为 null
+description: Document 接口的 defaultView IDL 属性获取时 必须返回此 Document 的浏览上下文的 WindowProxy 对象如果此 Document 具有关联的浏览上下文则为 否则为 null
 type: docs
 weight: 80
 url: /zh/net/aspose.svg.dom/document/defaultview/
 ---
 ## Document.DefaultView property
 
-Document 接口的 defaultView IDL 属性，在获取时， 必须返回此 Document 的浏览上下文的 WindowProxy 对象， 如果此 Document 具有关联的浏览上下文, 否则为 null。
+Document 接口的 defaultView IDL 属性，获取时， 必须返回此 Document 的浏览上下文的 WindowProxy 对象，如果此 Document 具有关联的浏览上下文，则为 ，否则为 null。
 
 ```csharp
 public IWindow DefaultView { get; }

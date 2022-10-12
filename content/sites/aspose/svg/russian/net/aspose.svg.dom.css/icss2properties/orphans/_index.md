@@ -1,14 +1,14 @@
 ---
 title: Orphans
 second_title: Справочник по Aspose.SVG для .NET API
-description: См. определение свойства orphans в CSS2.
+description: См. определение свойства сирот в CSS2.
 type: docs
 weight: 740
 url: /ru/net/aspose.svg.dom.css/icss2properties/orphans/
 ---
 ## ICSS2Properties.Orphans property
 
-См. определение свойства orphans в CSS2.
+См. определение свойства сирот в CSS2.
 
 ```csharp
 public string Orphans { get; set; }

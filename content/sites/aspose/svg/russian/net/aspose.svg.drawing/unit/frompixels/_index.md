@@ -1,14 +1,14 @@
 ---
 title: FromPixels
 second_title: Справочник по Aspose.SVG для .NET API
-description: Возвращает объектLengthaspose.svg.drawing/length представленный в пикселях.
+description: ВозвращаетLengthaspose.svg.drawing/length объект представленный в пикселях.
 type: docs
 weight: 170
 url: /ru/net/aspose.svg.drawing/unit/frompixels/
 ---
 ## Unit.FromPixels method
 
-Возвращает объект[`Length`](../../length), представленный в пикселях.
+Возвращает[`Length`](../../length) объект, представленный в пикселях.
 
 ```csharp
 public static Length FromPixels(double value)
@@ -20,7 +20,7 @@ public static Length FromPixels(double value)
 
 ### Возвращаемое значение
 
-Возвращает объект[`Length`](../../length).
+Возвращает[`Length`](../../length) объект.
 
 ### Смотрите также
 

@@ -16,8 +16,8 @@ public static Length operator +(Length a, Length b)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| a | Length | Параметр a. |
-| b | Length | Параметр b. |
+| a | Length | Параметр а. |
+| b | Length | Параметр б. |
 
 ### Возвращаемое значение
 

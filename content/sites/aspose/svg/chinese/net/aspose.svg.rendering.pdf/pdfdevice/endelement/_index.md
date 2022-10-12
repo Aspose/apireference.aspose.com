@@ -16,7 +16,7 @@ public override void EndElement(Element element)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| element | Element | [`Element`](../../../aspose.svg.dom/element)。 |
+| element | Element | 这[`Element`](../../../aspose.svg.dom/element). |
 
 ### 也可以看看
 

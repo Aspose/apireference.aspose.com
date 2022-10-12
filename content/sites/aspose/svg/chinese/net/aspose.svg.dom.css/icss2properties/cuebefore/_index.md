@@ -1,14 +1,14 @@
 ---
 title: CueBefore
 second_title: Aspose.SVG for .NET API 参考
-description: 请参阅 CSS2 中的 cue-before 属性定义
+description: 参见 CSS2 中的 cuebefore 属性定义
 type: docs
 weight: 400
 url: /zh/net/aspose.svg.dom.css/icss2properties/cuebefore/
 ---
 ## ICSS2Properties.CueBefore property
 
-请参阅 CSS2 中的 cue-before 属性定义。
+参见 CSS2 中的 cue-before 属性定义。
 
 ```csharp
 public string CueBefore { get; set; }
@@ -16,7 +16,7 @@ public string CueBefore { get; set; }
 
 ### 返回值
 
-cue-before 属性
+提示前属性
 
 ### 也可以看看
 

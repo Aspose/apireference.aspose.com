@@ -1,7 +1,7 @@
 ---
 title: CreateSVGMatrix
 second_title: Справочник по Aspose.SVG для .NET API
-description: Создает объект SVGMatrix вне каких-либо деревьев документов. Объект инициализируется единичной матрицей.
+description: Создает объект SVGMatrix вне какихлибо деревьев документов. Объект инициализируется единичной матрицей.
 type: docs
 weight: 140
 url: /ru/net/aspose.svg/svgsvgelement/createsvgmatrix/

@@ -1,14 +1,14 @@
 ---
 title: Height
 second_title: Aspose.SVG for .NET API 参考
-description: 获取或设置此Sizeaspose.svg.drawing/size的垂直分量
+description: 获取或设置 this 的垂直分量Sizeaspose.svg.drawing/size .
 type: docs
 weight: 20
 url: /zh/net/aspose.svg.drawing/size/height/
 ---
 ## Size.Height property
 
-获取或设置此[`Size`](../../size)的垂直分量。
+获取或设置 this 的垂直分量[`Size`](../../size) .
 
 ```csharp
 public Length Height { get; set; }
@@ -16,7 +16,7 @@ public Length Height { get; set; }
 
 ### 适当的价值
 
-[`Size`](../../size)的垂直分量。
+这个的垂直分量[`Size`](../../size) .
 
 ### 也可以看看
 

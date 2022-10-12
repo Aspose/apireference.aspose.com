@@ -1,14 +1,14 @@
 ---
 title: CSSValueList
 second_title: Aspose.SVG for .NET API 参考
-description: 初始化CSSValueListaspose.svg.dom.css/cssvaluelist类的新实例
+description: 初始化CSSValueListaspose.svg.dom.css/cssvaluelist类.
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.dom.css/cssvaluelist/cssvaluelist/
 ---
 ## CSSValueList() {#constructor}
 
-初始化[`CSSValueList`](../../cssvaluelist)类的新实例。
+初始化[`CSSValueList`](../../cssvaluelist)类.
 
 ```csharp
 public CSSValueList()
@@ -24,7 +24,7 @@ public CSSValueList()
 
 ## CSSValueList(IEnumerable&lt;CSSValue&gt;) {#constructor_2}
 
-初始化[`CSSValueList`](../../cssvaluelist)类的新实例。
+初始化[`CSSValueList`](../../cssvaluelist)类.
 
 ```csharp
 public CSSValueList(IEnumerable<CSSValue> values)
@@ -32,7 +32,7 @@ public CSSValueList(IEnumerable<CSSValue> values)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| values | IEnumerable`1 | 值。 |
+| values | IEnumerable`1 | 价值。 |
 
 ### 也可以看看
 
@@ -45,7 +45,7 @@ public CSSValueList(IEnumerable<CSSValue> values)
 
 ## CSSValueList(params CSSValue[]) {#constructor_1}
 
-初始化[`CSSValueList`](../../cssvaluelist)类的新实例。
+初始化[`CSSValueList`](../../cssvaluelist)类.
 
 ```csharp
 public CSSValueList(params CSSValue[] values)
@@ -53,7 +53,7 @@ public CSSValueList(params CSSValue[] values)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| values | CSSValue[] | 值。 |
+| values | CSSValue[] | 价值。 |
 
 ### 也可以看看
 

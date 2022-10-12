@@ -1,14 +1,14 @@
 ---
 title: MarkerWidth
 second_title: Aspose.SVG for .NET API 参考
-description: 对应于给定 marker 元素的属性 markerWidth
+description: 对应于给定marker元素上的属性markerWidth
 type: docs
 weight: 30
 url: /zh/net/aspose.svg/svgmarkerelement/markerwidth/
 ---
 ## SVGMarkerElement.MarkerWidth property
 
-对应于给定 'marker' 元素的属性 'markerWidth'。
+对应于给定“marker”元素上的属性“markerWidth”。
 
 ```csharp
 public SVGAnimatedLength MarkerWidth { get; }
@@ -16,7 +16,7 @@ public SVGAnimatedLength MarkerWidth { get; }
 
 ### 适当的价值
 
-给定 'marker' 元素的属性 'markerWidth'。
+给定'marker'元素的属性'markerWidth'。
 
 ### 也可以看看
 

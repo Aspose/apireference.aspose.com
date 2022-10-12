@@ -1,14 +1,14 @@
 ---
 title: Red
 second_title: Aspose.SVG for .NET API 参考
-description: 此属性用于 RGB 颜色的红色值
+description: 这个属性用于RGB颜色的红色值
 type: docs
 weight: 40
 url: /zh/net/aspose.svg.dom.css/rgbcolor/red/
 ---
 ## RGBColor.Red property
 
-此属性用于 RGB 颜色的红色值。
+这个属性用于RGB颜色的红色值。
 
 ```csharp
 public CSSPrimitiveValue Red { get; }

@@ -1,14 +1,14 @@
 ---
 title: Location
 second_title: Aspose.SVG for .NET API 参考
-description: Location 对象提供其 Document 的浏览上下文的活动文档的地址的表示并允许通过添加或替换条目来更改浏览上下文的会话历史记录的当前条目历史对象
+description: 位置对象提供其文档浏览上下文的活动文档地址的表示并允许通过添加或替换历史对象中的条目来更改浏览上下文的会话历史记录的当前条目
 type: docs
-weight: 3760
+weight: 3770
 url: /zh/net/aspose.svg.window/location/
 ---
 ## Location class
 
-Location 对象提供其 Document 的浏览上下文的活动文档的地址的表示，并允许通过添加或替换条目来更改浏览上下文的会话历史记录的当前条目历史对象。
+位置对象提供其文档浏览上下文的活动文档地址的表示，并允许通过添加或替换历史对象中的条目来更改浏览上下文的会话历史记录的当前条目。
 
 ```csharp
 public sealed class Location : Url
@@ -20,15 +20,15 @@ public sealed class Location : Url
 | --- | --- |
 | [Hash](../../aspose.svg/url/hash) { get; set; } | 获取或设置指定 URL 哈希段的字符串表示形式。 |
 | [Host](../../aspose.svg/url/host) { get; set; } | 获取或设置指定 URL 主机的字符串表示形式。 |
-| [Hostname](../../aspose.svg/url/hostname) { get; set; } | 获取或设置指定 URL 主机名的字符串表示。 |
+| [Hostname](../../aspose.svg/url/hostname) { get; set; } | 获取或设置指定 URL 主机名的字符串表示形式。 |
 | [Href](../../aspose.svg/url/href) { get; set; } | 获取或设置指定 URL 实例的序列化表示。 |
 | [Origin](../../aspose.svg/url/origin) { get; } | 获取指定 URL 源的字符串表示形式。 |
 | [Password](../../aspose.svg/url/password) { get; set; } | 获取或设置指定 URL 密码的字符串表示形式。 |
 | [Pathname](../../aspose.svg/url/pathname) { get; set; } | 获取或设置指定 URL 路径的字符串表示形式。 |
 | [Port](../../aspose.svg/url/port) { get; set; } | 获取或设置指定 URL 端口的字符串表示形式。 |
 | [Protocol](../../aspose.svg/url/protocol) { get; set; } | 获取或设置指定 URL 架构的字符串表示形式。 |
-| [Search](../../aspose.svg/url/search) { get; set; } | 获取或设置指定 URL 搜索段的字符串表示。 |
-| [SearchParams](../../aspose.svg/url/searchparams) { get; } | 获取关联的[`IUrlSearchParams`](../../aspose.svg/iurlsearchparams)对象。 |
+| [Search](../../aspose.svg/url/search) { get; set; } | 获取或设置指定 URL 搜索段的字符串表示形式。 |
+| [SearchParams](../../aspose.svg/url/searchparams) { get; } | 获取关联的[`IUrlSearchParams`](../../aspose.svg/iurlsearchparams)对象. |
 | [Username](../../aspose.svg/url/username) { get; set; } | 获取或设置指定 URL 用户名的字符串表示形式。 |
 
 ## 方法
@@ -36,13 +36,13 @@ public sealed class Location : Url
 | 姓名 | 描述 |
 | --- | --- |
 | [Assign](../../aspose.svg.window/location/assign)(string) | 导航到给定页面。 |
-| override [Equals](../../aspose.svg/url/equals)(object) | 确定指定的Object是否等于此实例。 |
+| override [Equals](../../aspose.svg/url/equals)(object) | 判断是否指定Object 等于这个实例。 |
 | override [GetHashCode](../../aspose.svg/url/gethashcode)() | 返回此实例的哈希码。 |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | 此方法用于检索 ECMAScript 对象Type。 |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | 此方法用于检索 ECMAScript 对象Type . |
 | [Reload](../../aspose.svg.window/location/reload)() | 重新加载当前页面。 |
 | [Replace](../../aspose.svg.window/location/replace)(string) | 从会话历史记录中删除当前页面并导航到给定页面。 |
-| [ToJson](../../aspose.svg/url/tojson)() | 返回代表此实例的String。 |
-| override [ToString](../../aspose.svg/url/tostring)() | 返回代表此实例的String。 |
+| [ToJson](../../aspose.svg/url/tojson)() | 返回一个String代表这个实例。 |
+| override [ToString](../../aspose.svg/url/tostring)() | 返回一个String代表这个实例。 |
 
 ### 也可以看看
 

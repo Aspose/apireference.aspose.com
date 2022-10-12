@@ -1,14 +1,14 @@
 ---
 title: Rotate
 second_title: Aspose.SVG for .NET API 参考
-description: 对应于给定元素的属性旋转
+description: 对应于给定元素的旋转属性
 type: docs
 weight: 30
 url: /zh/net/aspose.svg/svgtextpositioningelement/rotate/
 ---
 ## SVGTextPositioningElement.Rotate property
 
-对应于给定元素的属性“旋转”。
+对应于给定元素的“旋转”属性。
 
 ```csharp
 public SVGAnimatedNumberList Rotate { get; }

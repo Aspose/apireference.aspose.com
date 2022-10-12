@@ -1,14 +1,14 @@
 ---
 title: PathSegList
 second_title: Aspose.SVG for .NET API 参考
-description: 以与 SVG 语法一对一匹配的形式提供对d属性的基本即静态内容的访问 因此如果 d 属性有一个absolute moveto M和一个absolute arcto A命令那么 pathSegList 将有两个条目一个 SVG_PATHSEG_MOVETO_ABS 和一个 SVG_PATHSEG_ARC_ABS
+description: 以与 SVG 语法一对一匹配的形式提供对d属性的基本即静态内容的访问 因此如果 d 属性有一个absolute moveto M和一个absolute arcto A命令那么 pathSegList 将有两个条目一个 SVG_PATHSEG_MOVETO_ABS 和一个 SVG_PATHSEG_ARC_ABS.
 type: docs
 weight: 20
 url: /zh/net/aspose.svg/svgpathelement/pathseglist/
 ---
 ## SVGPathElement.PathSegList property
 
-以与 SVG 语法一对一匹配的形式提供对“d”属性的基本（即静态）内容的访问。 因此，如果 'd' 属性有一个“absolute moveto (M)”和一个“absolute arcto (A)”命令，那么 pathSegList 将有两个条目：一个 SVG_PATHSEG_MOVETO_ABS 和一个 SVG_PATHSEG_ARC_ABS。
+以与 SVG 语法一对一匹配的形式提供对“d”属性的基本（即静态）内容的访问。 因此，如果 'd' 属性有一个“absolute moveto (M)”和一个“absolute arcto (A)”命令，那么 pathSegList 将有两个条目：一个 SVG_PATHSEG_MOVETO_ABS 和一个 SVG_PATHSEG_ARC_ABS.
 
 ```csharp
 public SVGPathSegList PathSegList { get; set; }

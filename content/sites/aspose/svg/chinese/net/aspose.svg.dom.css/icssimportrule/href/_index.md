@@ -1,14 +1,14 @@
 ---
 title: Href
 second_title: Aspose.SVG for .NET API 参考
-description: 要导入的样式表的位置该属性将不包含 URI 周围的url...说明符
+description: 要导入的样式表的位置该属性将不包含 URI. 周围的url...说明符
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.dom.css/icssimportrule/href/
 ---
 ## ICSSImportRule.Href property
 
-要导入的样式表的位置。该属性将不包含 URI 周围的“url(...)”说明符。
+要导入的样式表的位置。该属性将不包含 URI. 周围的“url(...)”说明符
 
 ```csharp
 public string Href { get; }

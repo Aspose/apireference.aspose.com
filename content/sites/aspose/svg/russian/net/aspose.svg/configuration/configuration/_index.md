@@ -1,14 +1,14 @@
 ---
 title: Configuration
 second_title: Справочник по Aspose.SVG для .NET API
-description: Инициализирует новый экземпляр классаConfigurationaspose.svg/configuration.
+description: Инициализирует новый экземплярConfigurationaspose.svg/configuration класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.svg/configuration/configuration/
 ---
 ## Configuration constructor
 
-Инициализирует новый экземпляр класса[`Configuration`](../../configuration).
+Инициализирует новый экземпляр[`Configuration`](../../configuration) класс.
 
 ```csharp
 public Configuration()

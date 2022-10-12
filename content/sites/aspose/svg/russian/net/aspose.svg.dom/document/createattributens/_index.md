@@ -1,14 +1,14 @@
 ---
 title: CreateAttributeNS
 second_title: Справочник по Aspose.SVG для .NET API
-description: Создает атрибут заданного полного имени и URI пространства имен.
+description: Создает атрибут с заданным полным именем и URI пространства имен.
 type: docs
 weight: 800
 url: /ru/net/aspose.svg.dom/document/createattributens/
 ---
 ## Document.CreateAttributeNS method
 
-Создает атрибут заданного полного имени и URI пространства имен.
+Создает атрибут с заданным полным именем и URI пространства имен.
 
 ```csharp
 public Attr CreateAttributeNS(string namespaceURI, string qualifiedName)
@@ -21,7 +21,7 @@ public Attr CreateAttributeNS(string namespaceURI, string qualifiedName)
 
 ### Возвращаемое значение
 
-[`Attr`](../../attr).
+[`Attr`](../../attr) .
 
 ### Смотрите также
 

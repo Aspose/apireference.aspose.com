@@ -1,14 +1,14 @@
 ---
 title: Clone
 second_title: Справочник по Aspose.SVG для .NET API
-description: Создает новый экземпляр класса с теми же значениями свойств что и у существующего экземпляра.
+description: Создает новый экземпляр класса с теми же значениями свойств что и существующий экземпляр.
 type: docs
 weight: 90
 url: /ru/net/aspose.svg.rendering.pdf/pdfdevice.pdfgraphiccontext/clone/
 ---
 ## PdfDevice.PdfGraphicContext.Clone method
 
-Создает новый экземпляр класса с теми же значениями свойств, что и у существующего экземпляра.
+Создает новый экземпляр класса с теми же значениями свойств, что и существующий экземпляр.
 
 ```csharp
 public override GraphicContext Clone()
@@ -16,7 +16,7 @@ public override GraphicContext Clone()
 
 ### Возвращаемое значение
 
-Экземпляр графического контекста
+Экземпляр GraphicContext
 
 ### Смотрите также
 

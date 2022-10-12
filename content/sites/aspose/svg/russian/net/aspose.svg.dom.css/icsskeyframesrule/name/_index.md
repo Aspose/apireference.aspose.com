@@ -1,14 +1,14 @@
 ---
 title: Name
 second_title: Справочник по Aspose.SVG для .NET API
-description: Этот атрибут является именем ключевых кадров используемым свойством animation-name.
+description: Этот атрибут является именем ключевых кадров используемых свойством имяанимации.
 type: docs
 weight: 20
 url: /ru/net/aspose.svg.dom.css/icsskeyframesrule/name/
 ---
 ## ICSSKeyframesRule.Name property
 
-Этот атрибут является именем ключевых кадров, используемым свойством 'animation-name'.
+Этот атрибут является именем ключевых кадров, используемых свойством 'имя-анимации'.
 
 ```csharp
 public string Name { get; }

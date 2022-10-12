@@ -1,14 +1,14 @@
 ---
 title: Height
 second_title: Aspose.SVG for .NET API 参考
-description: 对应于给定 mask 元素的属性 height采用 SVGUnitTypes 中定义的常量之一
+description: 对应于给定 mask 元素的属性 height采用 SVGUnitTypes. 中定义的常量之一
 type: docs
 weight: 10
 url: /zh/net/aspose.svg/svgmaskelement/height/
 ---
 ## SVGMaskElement.Height property
 
-对应于给定 'mask' 元素的属性 'height'。采用 SVGUnitTypes 中定义的常量之一。
+对应于给定 'mask' 元素的属性 'height'。采用 SVGUnitTypes. 中定义的常量之一
 
 ```csharp
 public SVGAnimatedLength Height { get; }

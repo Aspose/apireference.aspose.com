@@ -1,7 +1,7 @@
 ---
 title: FontVariant
 second_title: Справочник по Aspose.SVG для .NET API
-description: См. определение свойства font-variant в CSS2.
+description: См. определение свойства fontvariant в CSS2.
 type: docs
 weight: 530
 url: /ru/net/aspose.svg.dom.css/icss2properties/fontvariant/

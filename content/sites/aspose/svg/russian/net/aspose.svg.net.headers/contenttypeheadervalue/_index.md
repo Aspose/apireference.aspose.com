@@ -1,9 +1,9 @@
 ---
 title: ContentTypeHeaderValue
 second_title: Справочник по Aspose.SVG для .NET API
-description: Представляет значение заголовка Content-Type.
+description: Представляет значение заголовка ContentType.
 type: docs
-weight: 2230
+weight: 2240
 url: /ru/net/aspose.svg.net.headers/contenttypeheadervalue/
 ---
 ## ContentTypeHeaderValue class
@@ -19,7 +19,7 @@ public class ContentTypeHeaderValue : NameValueHeaderValue
 | Имя | Описание |
 | --- | --- |
 | [CharSet](../../aspose.svg.net.headers/contenttypeheadervalue/charset) { get; set; } | Получает или задает набор символов для содержимого. |
-| [MediaType](../../aspose.svg.net.headers/contenttypeheadervalue/mediatype) { get; set; } | Получает или задает тип носителя для содержимого. |
+| [MediaType](../../aspose.svg.net.headers/contenttypeheadervalue/mediatype) { get; set; } | Получает или задает тип носителя для контента. |
 | [Name](../../aspose.svg.net.headers/namevalueheadervalue/name) { get; } | Получает имя параметра. |
 | [Value](../../aspose.svg.net.headers/namevalueheadervalue/value) { get; set; } | Получает или задает значение параметра. |
 
@@ -27,7 +27,7 @@ public class ContentTypeHeaderValue : NameValueHeaderValue
 
 | Имя | Описание |
 | --- | --- |
-| override [ToString](../../aspose.svg.net.headers/namevalueheadervalue/tostring)() | ВозвращаетString, представляющий этот экземпляр. |
+| override [ToString](../../aspose.svg.net.headers/namevalueheadervalue/tostring)() | ВозвращаетString который представляет этот экземпляр. |
 
 ### Смотрите также
 

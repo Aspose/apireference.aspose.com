@@ -1,14 +1,14 @@
 ---
 title: AttributeName
 second_title: Aspose.SVG for .NET API 参考
-description: 返回已更改属性的本地名称否则返回 null
+description: 返回更改属性的本地名称否则返回 null
 type: docs
 weight: 20
 url: /zh/net/aspose.svg.dom.mutations/mutationrecord/attributename/
 ---
 ## MutationRecord.AttributeName property
 
-返回已更改属性的本地名称，否则返回 null。
+返回更改属性的本地名称，否则返回 null。
 
 ```csharp
 public string AttributeName { get; }

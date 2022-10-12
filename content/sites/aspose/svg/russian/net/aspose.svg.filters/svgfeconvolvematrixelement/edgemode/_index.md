@@ -8,7 +8,7 @@ url: /ru/net/aspose.svg.filters/svgfeconvolvematrixelement/edgemode/
 ---
 ## SVGFEConvolveMatrixElement.EdgeMode property
 
-Соответствует атрибуту 'edgeMode' данного элемента 'feConvolveMatrix'.
+Соответствует атрибуту "edgeMode" данного элемента "feConvolveMatrix".
 
 ```csharp
 public SVGAnimatedEnumeration EdgeMode { get; }
@@ -16,7 +16,7 @@ public SVGAnimatedEnumeration EdgeMode { get; }
 
 ### Стоимость имущества
 
-Атрибут 'edgeMode' данного элемента 'feConvolveMatrix'.
+Атрибут edgeMode данного элемента feConvolveMatrix.
 
 ### Смотрите также
 

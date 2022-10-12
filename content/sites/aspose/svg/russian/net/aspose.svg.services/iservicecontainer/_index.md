@@ -1,14 +1,14 @@
 ---
 title: IServiceContainer
 second_title: Справочник по Aspose.SVG для .NET API
-description: Предоставляет контейнер для служб.
+description: Предоставляет контейнер для сервисов.
 type: docs
-weight: 3690
+weight: 3700
 url: /ru/net/aspose.svg.services/iservicecontainer/
 ---
 ## IServiceContainer interface
 
-Предоставляет контейнер для служб.
+Предоставляет контейнер для сервисов.
 
 ```csharp
 public interface IServiceContainer : IDisposable, IServiceProvider

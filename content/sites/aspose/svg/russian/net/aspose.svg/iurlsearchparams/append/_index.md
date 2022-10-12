@@ -1,14 +1,14 @@
 ---
 title: Append
 second_title: Справочник по Aspose.SVG для .NET API
-description: Добавляет новую пару имя-значение с именем name и значением value .
+description: Добавляет новую пару имязначение имя которойимя и значениеценность .
 type: docs
 weight: 10
 url: /ru/net/aspose.svg/iurlsearchparams/append/
 ---
 ## IUrlSearchParams.Append method
 
-Добавляет новую пару "имя-значение" с именем` name` и значением` value` .
+Добавляет новую пару "имя-значение", имя которой`имя` и значение`ценность` .
 
 ```csharp
 public void Append(string name, string value)
@@ -16,8 +16,8 @@ public void Append(string name, string value)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| name | String | Имя новой пары имя-значение. |
-| value | String | Значение новой пары имя-значение. |
+| name | String | Имя новой пары "имя-значение". |
+| value | String | Значение новой пары "имя-значение". |
 
 ### Смотрите также
 

@@ -8,7 +8,7 @@ url: /ru/net/aspose.svg/svgmarkerelement/svg_marker_orient_auto/
 ---
 ## SVGMarkerElement.SVG_MARKER_ORIENT_AUTO field
 
-Атрибут 'ориентация' имеет значение 'авто'.
+Атрибут "ориентация" имеет значение "авто".
 
 ```csharp
 public const ushort SVG_MARKER_ORIENT_AUTO;

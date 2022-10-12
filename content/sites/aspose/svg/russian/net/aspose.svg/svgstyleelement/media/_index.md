@@ -16,13 +16,13 @@ public string Media { get; set; }
 
 ### Стоимость имущества
 
-Атрибут 'media' данного элемента.
+Атрибут «медиа» для данного элемента.
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception) | code[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err). Возникает при попытке изменить значение атрибута только для чтения. |
+| [DOMException](../../../aspose.svg.dom/domexception) | код[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err) . Возникает при попытке изменить значение атрибута только для чтения. |
 
 ### Смотрите также
 

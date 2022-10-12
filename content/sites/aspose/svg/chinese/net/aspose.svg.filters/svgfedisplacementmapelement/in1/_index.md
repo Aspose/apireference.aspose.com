@@ -16,7 +16,7 @@ public SVGAnimatedString In1 { get; }
 
 ### 适当的价值
 
-给定“feDisplacementMap”元素的“in”属性。
+给定'feDisplacementMap'元素的属性'in'。
 
 ### 也可以看看
 

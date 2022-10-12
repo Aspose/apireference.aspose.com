@@ -1,14 +1,14 @@
 ---
 title: MediaType
 second_title: Справочник по Aspose.SVG для .NET API
-description: Получает или задаетMediaTypeaspose.svg.rendering/mediatype который будет использоваться для разрешения медиа-запросов во время рендеринга. Значение по умолчанию Печать .
+description: Получает или устанавливаетMediaTypeaspose.svg.rendering/mediatype который будет использоваться для разрешения медиазапросов во время рендеринга. Значение по умолчаниюРаспечатать .
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.rendering/cssoptions/mediatype/
 ---
 ## CssOptions.MediaType property
 
-Получает или задает[`MediaType`](../../mediatype), который будет использоваться для разрешения медиа-запросов во время рендеринга. Значение по умолчанию:` Печать` .
+Получает или устанавливает[`MediaType`](../../mediatype) который будет использоваться для разрешения медиа-запросов во время рендеринга. Значение по умолчанию`Распечатать` .
 
 ```csharp
 public MediaType MediaType { get; set; }

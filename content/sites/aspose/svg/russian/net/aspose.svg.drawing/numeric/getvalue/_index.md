@@ -28,7 +28,7 @@ public double GetValue()
 
 ## GetValue(UnitType) {#getvalue_1}
 
-Получает значение, преобразованное в указанный[`UnitType`](../../unittype).
+Получает значение, преобразованное в указанное[`UnitType`](../../unittype) .
 
 ```csharp
 public double GetValue(UnitType unitType)
@@ -36,7 +36,7 @@ public double GetValue(UnitType unitType)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| unitType | UnitType | Тип юнита. |
+| unitType | UnitType | Тип агрегата. |
 
 ### Возвращаемое значение
 

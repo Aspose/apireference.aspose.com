@@ -1,14 +1,14 @@
 ---
 title: SvgRenderer
 second_title: Aspose.SVG for .NET API 参考
-description: 代表 SVG 文档渲染器
+description: 表示 SVG 文档渲染器
 type: docs
-weight: 2970
+weight: 2980
 url: /zh/net/aspose.svg.rendering/svgrenderer/
 ---
 ## SvgRenderer class
 
-代表 SVG 文档渲染器。
+表示 SVG 文档渲染器。
 
 ```csharp
 public class SvgRenderer : Renderer<SVGDocument>
@@ -24,13 +24,13 @@ public class SvgRenderer : Renderer<SVGDocument>
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Dispose](../../aspose.svg.rendering/renderer/dispose)() | 释放非托管和（可选）托管资源。 |
+| [Dispose](../../aspose.svg.rendering/renderer/dispose)() | 释放非托管和 - 可选 - 托管资源。 |
 | [Render](../../aspose.svg.rendering/renderer`1/render)(IDevice, SVGDocument) |  |
 | [Render](../../aspose.svg.rendering/renderer`1/render)(IDevice, params SVGDocument[]) |  |
 | [Render](../../aspose.svg.rendering/renderer`1/render)(IDevice, int, params SVGDocument[]) |  |
 | [Render](../../aspose.svg.rendering/renderer`1/render)(IDevice, SVGDocument, int) |  |
 | [Render](../../aspose.svg.rendering/renderer`1/render)(IDevice, SVGDocument, TimeSpan) |  |
-| override [Render](../../aspose.svg.rendering/svgrenderer/render#render_5)(IDevice, TimeSpan, params SVGDocument[]) | 定义将多个[`SVGDocument`](../../aspose.svg/svgdocument)s 渲染到特定[`IDevice`](../idevice)的方法。 在没有任何网络操作加载资源、活动定时器、动画任务或指定超时时间后，将执行渲染。 |
+| override [Render](../../aspose.svg.rendering/svgrenderer/render#render_5)(IDevice, TimeSpan, params SVGDocument[]) | 定义渲染多个的方法[`SVGDocument`](../../aspose.svg/svgdocument)变成具体的[`IDevice`](../idevice) . 一旦没有任何用于加载资源、活动定时器、动画任务或指定超时的网络操作，将执行渲染。 |
 
 ### 也可以看看
 

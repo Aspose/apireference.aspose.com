@@ -16,7 +16,7 @@ public CookieContainer CookieContainer { get; set; }
 
 ### Стоимость имущества
 
-System.Net.CookieContainer, содержащий файлы cookie, связанные с этим запросом.
+Контейнер System.Net.CookieContainer, содержащий файлы cookie, связанные с этим запросом.
 
 ### Смотрите также
 

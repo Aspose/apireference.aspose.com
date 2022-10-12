@@ -3,7 +3,7 @@ title: ICSSValueList
 second_title: Справочник по Aspose.SVG для .NET API
 description: Интерфейс обеспечивает абстракцию упорядоченного набора значений CSS.
 type: docs
-weight: 690
+weight: 680
 url: /ru/net/aspose.svg.dom.css/icssvaluelist/
 ---
 ## ICSSValueList interface
@@ -18,7 +18,7 @@ public interface ICSSValueList
 
 | Имя | Описание |
 | --- | --- |
-| [Item](../../aspose.svg.dom.css/icssvaluelist/item) { get; } | Метод возвращает[`CSSValue`](../cssvalue)по указанному индексу. http://www.w3.org/TR/2000/REC-DOM-Level-2-Style-20001113/css.html#CSS-CSSValueList |
+| [Item](../../aspose.svg.dom.css/icssvaluelist/item) { get; } | Метод возвращает[`CSSValue`](../cssvalue) по указанному индексу. http://www.w3.org/TR/2000/REC-DOM-Level-2-Style-20001113/css.html#CSS-CSSValueList |
 | [Length](../../aspose.svg.dom.css/icssvaluelist/length) { get; } | Количество CSSValues в списке. |
 
 ### Смотрите также

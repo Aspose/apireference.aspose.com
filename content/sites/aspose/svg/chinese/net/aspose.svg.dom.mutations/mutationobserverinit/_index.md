@@ -1,14 +1,14 @@
 ---
 title: MutationObserverInit
 second_title: Aspose.SVG for .NET API 参考
-description: 此类表示用于配置MutationObserver./mutationobserver的选项集合
+description: 此类表示一个选项集合用于配置MutationObserver./mutationobserver .
 type: docs
-weight: 1140
+weight: 1130
 url: /zh/net/aspose.svg.dom.mutations/mutationobserverinit/
 ---
 ## MutationObserverInit class
 
-此类表示用于配置[`MutationObserver`](../mutationobserver)的选项集合。
+此类表示一个选项集合，用于配置[`MutationObserver`](../mutationobserver) .
 
 ```csharp
 public class MutationObserverInit : IDictionary<string, object>
@@ -18,7 +18,7 @@ public class MutationObserverInit : IDictionary<string, object>
 
 | 姓名 | 描述 |
 | --- | --- |
-| [MutationObserverInit](mutationobserverinit)() | 初始化[`MutationObserverInit`](../mutationobserverinit)类的新实例。 |
+| [MutationObserverInit](mutationobserverinit)() | 初始化[`MutationObserverInit`](../mutationobserverinit)类. |
 
 ## 特性
 
@@ -26,30 +26,30 @@ public class MutationObserverInit : IDictionary<string, object>
 | --- | --- |
 | [AttributeFilter](../../aspose.svg.dom.mutations/mutationobserverinit/attributefilter) { get; set; } | 如果不需要观察所有属性突变并且属性为真或省略，则设置为属性本地名称列表（无命名空间）。 |
 | [AttributeOldValue](../../aspose.svg.dom.mutations/mutationobserverinit/attributeoldvalue) { get; set; } | 如果属性为真或省略且需要记录突变前目标的属性值，则设置为真。 |
-| [Attributes](../../aspose.svg.dom.mutations/mutationobserverinit/attributes) { get; set; } | 如果要观察到目标属性的突变，则设置为 true。如果指定了attributeOldValue 和/或attributeFilter，则可以省略。 |
-| [CharacterData](../../aspose.svg.dom.mutations/mutationobserverinit/characterdata) { get; set; } | 如果要观察目标数据的突变，则设置为 true。如果指定了 characterDataOldValue 则可以省略 |
+| [Attributes](../../aspose.svg.dom.mutations/mutationobserverinit/attributes) { get; set; } | 如果要观察目标属性的突变，则设置为 true。如果指定了attributeOldValue 和/或attributeFilter，则可以省略。 |
+| [CharacterData](../../aspose.svg.dom.mutations/mutationobserverinit/characterdata) { get; set; } | 如果要观察目标数据的突变，则设置为 true。如果指定了 characterDataOldValue，则可以省略 |
 | [CharacterDataOldValue](../../aspose.svg.dom.mutations/mutationobserverinit/characterdataoldvalue) { get; set; } | 如果 characterData 设置为 true 或省略并且需要记录突变前的目标数据，则设置为 true。 |
 | [ChildList](../../aspose.svg.dom.mutations/mutationobserverinit/childlist) { get; set; } | 如果要观察目标子代的突变，则设置为 true。 |
-| [Count](../../aspose.svg.dom.mutations/mutationobserverinit/count) { get; } | 获取[`MutationObserverInit`](../mutationobserverinit)集合中包含的键/值对的数量。 |
-| [IsReadOnly](../../aspose.svg.dom.mutations/mutationobserverinit/isreadonly) { get; } | 确定[`MutationObserverInit`](../mutationobserverinit)集合是否可变。 |
+| [Count](../../aspose.svg.dom.mutations/mutationobserverinit/count) { get; } | 获取包含在[`MutationObserverInit`](../mutationobserverinit)集合. |
+| [IsReadOnly](../../aspose.svg.dom.mutations/mutationobserverinit/isreadonly) { get; } | 确定是否[`MutationObserverInit`](../mutationobserverinit)集合是可变的。 |
 | [Item](../../aspose.svg.dom.mutations/mutationobserverinit/item) { get; set; } | 获取或设置具有指定键的元素。 |
-| [Keys](../../aspose.svg.dom.mutations/mutationobserverinit/keys) { get; } | 获取包含[`MutationObserverInit`](../mutationobserverinit)集合中的键的集合。 |
-| [Subtree](../../aspose.svg.dom.mutations/mutationobserverinit/subtree) { get; set; } | 如果不仅要观察到目标的突变，还要观察到目标的后代，则设置为 true |
-| [Values](../../aspose.svg.dom.mutations/mutationobserverinit/values) { get; } | 获取包含[`MutationObserverInit`](../mutationobserverinit)集合中的值的集合。 |
+| [Keys](../../aspose.svg.dom.mutations/mutationobserverinit/keys) { get; } | 获取包含[`MutationObserverInit`](../mutationobserverinit)集合. |
+| [Subtree](../../aspose.svg.dom.mutations/mutationobserverinit/subtree) { get; set; } | 如果不仅要观察目标，还要观察目标的后代，则设置为 true |
+| [Values](../../aspose.svg.dom.mutations/mutationobserverinit/values) { get; } | 获取包含[`MutationObserverInit`](../mutationobserverinit)集合. |
 
 ## 方法
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Add](../../aspose.svg.dom.mutations/mutationobserverinit/add#add)(KeyValuePair&lt;string, object&gt;) | 将元素添加到[`MutationObserverInit`](../mutationobserverinit)集合。 |
-| [Add](../../aspose.svg.dom.mutations/mutationobserverinit/add#add_1)(string, object) | 将指定的键和值添加到[`MutationObserverInit`](../mutationobserverinit)集合。 |
-| [Clear](../../aspose.svg.dom.mutations/mutationobserverinit/clear)() | 从[`MutationObserverInit`](../mutationobserverinit)集合中删除所有元素。 |
-| [Contains](../../aspose.svg.dom.mutations/mutationobserverinit/contains)(KeyValuePair&lt;string, object&gt;) | 确定[`MutationObserverInit`](../mutationobserverinit)是否包含指定的键/值对。 |
-| [ContainsKey](../../aspose.svg.dom.mutations/mutationobserverinit/containskey)(string) | 确定[`MutationObserverInit`](../mutationobserverinit)集合是否包含指定的键。 |
-| [CopyTo](../../aspose.svg.dom.mutations/mutationobserverinit/copyto)(KeyValuePair&lt;string, object&gt;[], int) | 将[`MutationObserverInit`](../mutationobserverinit)元素复制到现有的一维数组，从指定的数组索引开始。 |
-| [GetEnumerator](../../aspose.svg.dom.mutations/mutationobserverinit/getenumerator)() | 返回一个遍历[`MutationObserverInit`](../mutationobserverinit)元素的枚举器。 |
-| [Remove](../../aspose.svg.dom.mutations/mutationobserverinit/remove#remove)(KeyValuePair&lt;string, object&gt;) | 从[`MutationObserverInit`](../mutationobserverinit)集合中删除指定的键/值对。 |
-| [Remove](../../aspose.svg.dom.mutations/mutationobserverinit/remove#remove_1)(string) | 从[`MutationObserverInit`](../mutationobserverinit)集合中删除与指定键关联的值。 |
+| [Add](../../aspose.svg.dom.mutations/mutationobserverinit/add#add)(KeyValuePair&lt;string, object&gt;) | 添加一个元素到[`MutationObserverInit`](../mutationobserverinit)集合. |
+| [Add](../../aspose.svg.dom.mutations/mutationobserverinit/add#add_1)(string, object) | 将指定的键和值添加到[`MutationObserverInit`](../mutationobserverinit)集合. |
+| [Clear](../../aspose.svg.dom.mutations/mutationobserverinit/clear)() | 删除所有元素[`MutationObserverInit`](../mutationobserverinit)集合. |
+| [Contains](../../aspose.svg.dom.mutations/mutationobserverinit/contains)(KeyValuePair&lt;string, object&gt;) | 确定是否[`MutationObserverInit`](../mutationobserverinit)包含指定的键/值对。 |
+| [ContainsKey](../../aspose.svg.dom.mutations/mutationobserverinit/containskey)(string) | 确定是否[`MutationObserverInit`](../mutationobserverinit)集合包含一个指定的键。 |
+| [CopyTo](../../aspose.svg.dom.mutations/mutationobserverinit/copyto)(KeyValuePair&lt;string, object&gt;[], int) | 复制[`MutationObserverInit`](../mutationobserverinit)元素到现有的一维数组，从指定的数组索引开始。 |
+| [GetEnumerator](../../aspose.svg.dom.mutations/mutationobserverinit/getenumerator)() | 返回一个遍历[`MutationObserverInit`](../mutationobserverinit)元素. |
+| [Remove](../../aspose.svg.dom.mutations/mutationobserverinit/remove#remove)(KeyValuePair&lt;string, object&gt;) | 从[`MutationObserverInit`](../mutationobserverinit)集合. |
+| [Remove](../../aspose.svg.dom.mutations/mutationobserverinit/remove#remove_1)(string) | 从[`MutationObserverInit`](../mutationobserverinit)集合. |
 | [TryGetValue](../../aspose.svg.dom.mutations/mutationobserverinit/trygetvalue)(string, out object) | 获取与指定键关联的值。 |
 
 ### 也可以看看

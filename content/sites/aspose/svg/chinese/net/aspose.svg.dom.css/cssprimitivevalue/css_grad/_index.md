@@ -1,14 +1,14 @@
 ---
 title: CSS_GRAD
 second_title: Aspose.SVG for .NET API 参考
-description: 值是角度梯度可以使用 getFloatValue 方法获取该值
+description: 该值是一个角度梯度该值可以通过getFloatValue方法获取
 type: docs
 weight: 220
 url: /zh/net/aspose.svg.dom.css/cssprimitivevalue/css_grad/
 ---
 ## CSSPrimitiveValue.CSS_GRAD field
 
-值是角度（梯度）。可以使用 getFloatValue 方法获取该值。
+该值是一个角度（梯度）。该值可以通过getFloatValue方法获取。
 
 ```csharp
 public const ushort CSS_GRAD;

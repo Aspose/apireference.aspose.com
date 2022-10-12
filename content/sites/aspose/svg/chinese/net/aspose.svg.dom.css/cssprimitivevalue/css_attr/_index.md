@@ -1,14 +1,14 @@
 ---
 title: CSS_ATTR
 second_title: Aspose.SVG for .NET API 参考
-description: 值是一个属性函数可以使用 getStringValue 方法获取该值
+description: 该值是一个属性函数可以使用getStringValue方法获取值
 type: docs
 weight: 110
 url: /zh/net/aspose.svg.dom.css/cssprimitivevalue/css_attr/
 ---
 ## CSSPrimitiveValue.CSS_ATTR field
 
-值是一个属性函数。可以使用 getStringValue 方法获取该值。
+该值是一个属性函数。可以使用getStringValue方法获取值。
 
 ```csharp
 public const ushort CSS_ATTR;

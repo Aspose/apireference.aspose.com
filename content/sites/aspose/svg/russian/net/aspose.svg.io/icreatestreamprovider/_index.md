@@ -3,7 +3,7 @@ title: ICreateStreamProvider
 second_title: Справочник по Aspose.SVG для .NET API
 description: Представляет интерфейс который может быть реализован классами передающими потоки на устройства рендеринга.
 type: docs
-weight: 1920
+weight: 1930
 url: /ru/net/aspose.svg.io/icreatestreamprovider/
 ---
 ## ICreateStreamProvider interface

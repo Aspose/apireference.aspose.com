@@ -1,14 +1,14 @@
 ---
 title: PdfRenderingOptions
 second_title: Aspose.SVG for .NET API 参考
-description: 初始化PdfRenderingOptionsaspose.svg.rendering.pdf/pdfrenderingoptions类的新实例
+description: 初始化PdfRenderingOptionsaspose.svg.rendering.pdf/pdfrenderingoptions类.
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.rendering.pdf/pdfrenderingoptions/pdfrenderingoptions/
 ---
 ## PdfRenderingOptions constructor
 
-初始化[`PdfRenderingOptions`](../../pdfrenderingoptions)类的新实例。
+初始化[`PdfRenderingOptions`](../../pdfrenderingoptions)类.
 
 ```csharp
 public PdfRenderingOptions()

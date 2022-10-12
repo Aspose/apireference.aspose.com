@@ -16,7 +16,7 @@ public SVGAnimatedNumber PathLength { get; }
 
 ### Стоимость имущества
 
-Атрибут pathLength для данного элемента.
+Атрибут pathLength данного элемента.
 
 ### Смотрите также
 

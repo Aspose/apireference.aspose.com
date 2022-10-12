@@ -1,14 +1,14 @@
 ---
 title: GetCTM
 second_title: Aspose.SVG for .NET API 参考
-description: 将转换矩阵从当前用户单元即在应用 transform 属性如果有的话返回到最近视口元素的视口坐标系
+description: 返回从当前用户单元即在应用 transform 属性后如果有的话到最近视口元素的视口坐标系的变换矩阵
 type: docs
 weight: 80
 url: /zh/net/aspose.svg/svggraphicselement/getctm/
 ---
 ## SVGGraphicsElement.GetCTM method
 
-将转换矩阵从当前用户单元（即，在应用 'transform' 属性，如果有的话）返回到最近视口元素的视口坐标系。
+返回从当前用户单元（即，在应用 'transform' 属性后，如果有的话）到最近视口元素的视口坐标系的变换矩阵。
 
 ```csharp
 public SVGMatrix GetCTM()

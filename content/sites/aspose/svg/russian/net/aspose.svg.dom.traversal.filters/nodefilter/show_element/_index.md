@@ -1,14 +1,14 @@
 ---
 title: SHOW_ELEMENT
 second_title: Справочник по Aspose.SVG для .NET API
-description: Показать узлы элемента.
+description: Показать узлы элементов.
 type: docs
 weight: 130
 url: /ru/net/aspose.svg.dom.traversal.filters/nodefilter/show_element/
 ---
 ## NodeFilter.SHOW_ELEMENT field
 
-Показать узлы элемента.
+Показать узлы элементов.
 
 ```csharp
 public const long SHOW_ELEMENT;

@@ -20,7 +20,7 @@ public Attr CreateAttribute(string localName)
 
 ### 返回值
 
-[`Attr`](../../attr)。
+的[`Attr`](../../attr) .
 
 ### 也可以看看
 

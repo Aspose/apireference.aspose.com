@@ -1,14 +1,14 @@
 ---
 title: ImageFormat
 second_title: Справочник по Aspose.SVG для .NET API
-description: Указывает формат файла изображения.
+description: Определяет формат файла изображения.
 type: docs
-weight: 2800
+weight: 2810
 url: /ru/net/aspose.svg.rendering.image/imageformat/
 ---
 ## ImageFormat enumeration
 
-Указывает формат файла изображения.
+Определяет формат файла изображения.
 
 ```csharp
 public enum ImageFormat

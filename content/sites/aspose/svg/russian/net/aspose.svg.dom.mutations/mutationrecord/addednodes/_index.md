@@ -1,14 +1,14 @@
 ---
 title: AddedNodes
 second_title: Справочник по Aspose.SVG для .NET API
-description: Возвращает добавленные узлы.
+description: Вернуть добавленные узлы.
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.dom.mutations/mutationrecord/addednodes/
 ---
 ## MutationRecord.AddedNodes property
 
-Возвращает добавленные узлы.
+Вернуть добавленные узлы.
 
 ```csharp
 public NodeList AddedNodes { get; }

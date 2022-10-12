@@ -16,7 +16,7 @@ public SVGAnimatedLength Height { get; }
 
 ### 适当的价值
 
-给定 'feDropShadow' 元素的属性 'height'。
+给定“feDropShadow”元素的属性“高度”。
 
 ### 也可以看看
 

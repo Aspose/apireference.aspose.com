@@ -1,14 +1,14 @@
 ---
 title: Item
 second_title: Справочник по Aspose.SVG для .NET API
-description: ПолучаетCSSValueaspose.svg.dom.css/cssvalueпо указанному индексу.
+description: ПолучаетCSSValueaspose.svg.dom.css/cssvalue по указанному индексу.
 type: docs
 weight: 30
 url: /ru/net/aspose.svg.dom.css/cssvaluelist/item/
 ---
 ## CSSValueList indexer
 
-Получает[`CSSValue`](../../cssvalue)по указанному индексу.
+Получает[`CSSValue`](../../cssvalue) по указанному индексу.
 
 ```csharp
 public CSSValue this[int index] { get; }
@@ -20,7 +20,7 @@ public CSSValue this[int index] { get; }
 
 ### Стоимость имущества
 
-[`CSSValue`](../../cssvalue).
+[`CSSValue`](../../cssvalue) .
 
 ### Смотрите также
 

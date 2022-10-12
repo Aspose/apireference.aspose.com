@@ -1,7 +1,7 @@
 ---
 title: ScaleNonUniform
 second_title: Справочник по Aspose.SVG для .NET API
-description: Пост-умножает преобразование неравномерного масштаба на текущую матрицу и возвращает результирующую матрицу.
+description: Постумножает преобразование неравномерного масштаба на текущую матрицу и возвращает результирующую матрицу.
 type: docs
 weight: 100
 url: /ru/net/aspose.svg.datatypes/svgmatrix/scalenonuniform/
@@ -21,7 +21,7 @@ public SVGMatrix ScaleNonUniform(float scaleFactorX, float scaleFactorY)
 
 ### Возвращаемое значение
 
-Результирующая матрица.
+Полученная матрица.
 
 ### Смотрите также
 

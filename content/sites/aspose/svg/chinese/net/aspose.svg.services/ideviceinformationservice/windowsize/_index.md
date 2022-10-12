@@ -1,14 +1,14 @@
 ---
 title: WindowSize
 second_title: Aspose.SVG for .NET API 参考
-description: 获取或设置窗口的大小
+description: 获取或设置窗口大小
 type: docs
 weight: 40
 url: /zh/net/aspose.svg.services/ideviceinformationservice/windowsize/
 ---
 ## IDeviceInformationService.WindowSize property
 
-获取或设置窗口的大小。
+获取或设置窗口大小。
 
 ```csharp
 public Size WindowSize { get; set; }
@@ -16,7 +16,7 @@ public Size WindowSize { get; set; }
 
 ### 适当的价值
 
-窗口的大小。
+窗口大小。
 
 ### 也可以看看
 

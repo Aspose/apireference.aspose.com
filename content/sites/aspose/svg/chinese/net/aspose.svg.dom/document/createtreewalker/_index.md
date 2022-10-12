@@ -16,11 +16,11 @@ public ITreeWalker CreateTreeWalker(Node root)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| root | Node | 节点将作为 TreeWalker 的根。设置此值时不考虑 whatToShow 标志和 NodeFilter； 任何节点类型都将被接受为根。 TreeWalker 的 currentNode 被 初始化为这个节点，不管它是否可见。 根用作遍历在文档结构中向上查找的 方法的停止点，例如 parentNode 和nextNode。根必须 不能为空。 |
+| root | Node | 节点，它将作为 the TreeWalker 的根。设置此值时不考虑 whatToShow 标志和 NodeFilter； 任何节点类型都将被接受为根。 TreeWalker的 currentNode被 初始化到这个节点，不管它是否可见。 root 用作在文档结构中向上查找的 traversal 方法的停止点，例如 parentNode 和nextNode。根 must 不能为空。 |
 
 ### 返回值
 
-新创建的树行者。
+新创建的TreeWalker.
 
 ### 例外
 
@@ -48,12 +48,12 @@ public ITreeWalker CreateTreeWalker(Node root, long whatToShow)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| root | Node | 节点将作为 TreeWalker 的根。设置此值时不考虑 whatToShow 标志和 NodeFilter； 任何节点类型都将被接受为根。 TreeWalker 的 currentNode 被 初始化为这个节点，不管它是否可见。 根用作遍历在文档结构中向上查找的 方法的停止点，例如 parentNode 和nextNode。根必须 不能为空。 |
-| whatToShow | Int64 | 标志指定哪些节点类型可能出现在 tree-walker 呈现的树的逻辑视图中。有关可能的 SHOW_ 值集，请参阅 NodeFilter 的 描述。这些标志可以使用 OR 组合。 |
+| root | Node | 节点，它将作为 the TreeWalker 的根。设置此值时不考虑 whatToShow 标志和 NodeFilter； 任何节点类型都将被接受为根。 TreeWalker的 currentNode被 初始化到这个节点，不管它是否可见。 root 用作在文档结构中向上查找的 traversal 方法的停止点，例如 parentNode 和nextNode。根 must 不能为空。 |
+| whatToShow | Int64 | flag 指定哪些节点类型可能出现在 tree-walker 呈现的树的逻辑视图中。有关可能的 SHOW_ 值的集合，请参见NodeFilter 的 描述。这些标志可以使用OR 组合。 |
 
 ### 返回值
 
-新创建的树行者。
+新创建的TreeWalker.
 
 ### 例外
 
@@ -81,13 +81,13 @@ public ITreeWalker CreateTreeWalker(Node root, long whatToShow, INodeFilter filt
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| root | Node | 节点将作为 TreeWalker 的根。设置此值时不考虑 whatToShow 标志和 NodeFilter； 任何节点类型都将被接受为根。 TreeWalker 的 currentNode 被 初始化为这个节点，不管它是否可见。 根用作遍历在文档结构中向上查找的 方法的停止点，例如 parentNode 和nextNode。根必须 不能为空。 |
-| whatToShow | Int64 | 标志指定哪些节点类型可能出现在 tree-walker 呈现的树的逻辑视图中。有关可能的 SHOW_ 值集，请参阅 NodeFilter 的 描述。这些标志可以使用 OR 组合。 |
-| filter | INodeFilter | NodeFilter 与此 TreeWalker 一起使用，或 null 表示没有过滤器。 |
+| root | Node | 节点，它将作为 the TreeWalker 的根。设置此值时不考虑 whatToShow 标志和 NodeFilter； 任何节点类型都将被接受为根。 TreeWalker的 currentNode被 初始化到这个节点，不管它是否可见。 root 用作在文档结构中向上查找的 traversal 方法的停止点，例如 parentNode 和nextNode。根 must 不能为空。 |
+| whatToShow | Int64 | flag 指定哪些节点类型可能出现在 tree-walker 呈现的树的逻辑视图中。有关可能的 SHOW_ 值的集合，请参见NodeFilter 的 描述。这些标志可以使用OR 组合。 |
+| filter | INodeFilter | NodeFilter 与 this TreeWalker 一起使用，或 null 表示没有过滤器。 |
 
 ### 返回值
 
-新创建的树行者。
+新创建的TreeWalker.
 
 ### 例外
 

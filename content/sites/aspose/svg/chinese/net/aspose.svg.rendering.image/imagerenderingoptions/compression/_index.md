@@ -1,14 +1,14 @@
 ---
 title: Compression
 second_title: Aspose.SVG for .NET API 参考
-description: 设置或获取标记图像文件格式 TIFFCompressionaspose.svg.rendering.image/compression默认情况下此属性为LZW
+description: 设置或获取标记图像文件格式 TIFFCompressionaspose.svg.rendering.image/compression.默认情况下此属性为LZW .
 type: docs
 weight: 20
 url: /zh/net/aspose.svg.rendering.image/imagerenderingoptions/compression/
 ---
 ## ImageRenderingOptions.Compression property
 
-设置或获取标记图像文件格式 (TIFF)[`Compression`](../../compression)。默认情况下，此属性为LZW。
+设置或获取标记图像文件格式 (TIFF)[`Compression`](../../compression).默认情况下，此属性为LZW .
 
 ```csharp
 public Compression Compression { get; set; }

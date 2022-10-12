@@ -1,0 +1,143 @@
+---
+title: Render
+second_title: Aspose.SVG for .NET API Referansı
+description: Oluşturma yöntemini tanımlarTDocumentbelirtilen içineIDeviceaspose.svg.rendering/idevice .
+type: docs
+weight: 10
+url: /tr/net/aspose.svg.rendering/renderer-1/render/
+---
+## Render(IDevice, TDocument) {#render_2}
+
+Oluşturma yöntemini tanımlar!:TDocumentbelirtilen içine[`IDevice`](../../idevice) .
+
+```csharp
+public void Render(IDevice device, TDocument document)
+```
+
+| Parametre | Tip | Tanım |
+| --- | --- | --- |
+| device | IDevice | Çıkış cihazı. |
+| document | TDocument | Döküman. |
+
+### Ayrıca bakınız
+
+* interface [IDevice](../../idevice)
+* class [Renderer&lt;TDocument&gt;](../../renderer-1)
+* ad alanı [Aspose.Svg.Rendering](../../renderer-1)
+* toplantı [Aspose.SVG](../../../)
+
+---
+
+## Render(IDevice, TDocument, TimeSpan) {#render_4}
+
+Oluşturma yöntemini tanımlar!:TDocumentbelirtilen içine[`IDevice`](../../idevice) . Kaynak yükleme, etkin zamanlayıcılar, animasyon görevleri için herhangi bir ağ işlemi olmadığında veya belirtilen zaman aşımı süresi geçtiğinde oluşturma gerçekleştirilecektir.
+
+```csharp
+public void Render(IDevice device, TDocument document, TimeSpan timeout)
+```
+
+| Parametre | Tip | Tanım |
+| --- | --- | --- |
+| device | IDevice | Çıkış cihazı. |
+| document | TDocument | Döküman. |
+| timeout | TimeSpan | ATimeSpan bu, beklenecek milisaniye sayısını temsil eder veyaTimeSpan Bu, süresiz olarak beklemek için -1 milisaniyeyi temsil eder. |
+
+### Ayrıca bakınız
+
+* interface [IDevice](../../idevice)
+* class [Renderer&lt;TDocument&gt;](../../renderer-1)
+* ad alanı [Aspose.Svg.Rendering](../../renderer-1)
+* toplantı [Aspose.SVG](../../../)
+
+---
+
+## Render(IDevice, TDocument, int) {#render_3}
+
+Oluşturma yöntemini tanımlar!:TDocumentbelirtilen içine[`IDevice`](../../idevice) . Kaynak yükleme, etkin zamanlayıcılar, animasyon görevleri için herhangi bir ağ işlemi olmadığında veya belirtilen zaman aşımı süresi geçtiğinde oluşturma gerçekleştirilecektir.
+
+```csharp
+public void Render(IDevice device, TDocument document, int timeout)
+```
+
+| Parametre | Tip | Tanım |
+| --- | --- | --- |
+| device | IDevice | Çıkış cihazı. |
+| document | TDocument | Döküman. |
+| timeout | Int32 | Beklenecek milisaniye sayısını veya süresiz olarak beklenecek -1 milisaniyeyi temsil eden milisaniye sayısı. |
+
+### Ayrıca bakınız
+
+* interface [IDevice](../../idevice)
+* class [Renderer&lt;TDocument&gt;](../../renderer-1)
+* ad alanı [Aspose.Svg.Rendering](../../renderer-1)
+* toplantı [Aspose.SVG](../../../)
+
+---
+
+## Render(IDevice, params TDocument[]) {#render_5}
+
+Birden çok görüntü oluşturma yöntemini tanımlar!:TDocument özel olarak[`IDevice`](../../idevice) .
+
+```csharp
+public void Render(IDevice device, params TDocument[] documents)
+```
+
+| Parametre | Tip | Tanım |
+| --- | --- | --- |
+| device | IDevice | Çıkış cihazı. |
+| documents | TDocument[] | İşlenecek belgeler. |
+
+### Ayrıca bakınız
+
+* interface [IDevice](../../idevice)
+* class [Renderer&lt;TDocument&gt;](../../renderer-1)
+* ad alanı [Aspose.Svg.Rendering](../../renderer-1)
+* toplantı [Aspose.SVG](../../../)
+
+---
+
+## Render(IDevice, int, params TDocument[]) {#render}
+
+Birden çok görüntü oluşturma yöntemini tanımlar!:TDocument özel olarak[`IDevice`](../../idevice) . Kaynak yükleme, etkin zamanlayıcılar, animasyon görevleri için herhangi bir ağ işlemi olmadığında veya belirtilen zaman aşımı süresi geçtiğinde oluşturma gerçekleştirilecektir.
+
+```csharp
+public void Render(IDevice device, int timeout, params TDocument[] documents)
+```
+
+| Parametre | Tip | Tanım |
+| --- | --- | --- |
+| device | IDevice | Çıkış cihazı. |
+| timeout | Int32 | Beklenecek milisaniye sayısını veya süresiz olarak beklenecek -1 milisaniyeyi temsil eden milisaniye sayısı. |
+| documents | TDocument[] | İşlenecek belgeler. |
+
+### Ayrıca bakınız
+
+* interface [IDevice](../../idevice)
+* class [Renderer&lt;TDocument&gt;](../../renderer-1)
+* ad alanı [Aspose.Svg.Rendering](../../renderer-1)
+* toplantı [Aspose.SVG](../../../)
+
+---
+
+## Render(IDevice, TimeSpan, params TDocument[]) {#render_1}
+
+Birden çok görüntü oluşturma yöntemini tanımlar!:TDocument özel olarak[`IDevice`](../../idevice) . Kaynak yükleme, etkin zamanlayıcılar, animasyon görevleri için herhangi bir ağ işlemi olmadığında veya belirtilen zaman aşımı süresi geçtiğinde oluşturma gerçekleştirilecektir.
+
+```csharp
+public abstract void Render(IDevice device, TimeSpan timeout, params TDocument[] documents)
+```
+
+| Parametre | Tip | Tanım |
+| --- | --- | --- |
+| device | IDevice | Çıkış cihazı. |
+| timeout | TimeSpan | ATimeSpan bu, beklenecek milisaniye sayısını temsil eder veyaTimeSpan Bu, süresiz olarak beklemek için -1 milisaniyeyi temsil eder. |
+| documents | TDocument[] | İşlenecek belgeler. |
+
+### Ayrıca bakınız
+
+* interface [IDevice](../../idevice)
+* class [Renderer&lt;TDocument&gt;](../../renderer-1)
+* ad alanı [Aspose.Svg.Rendering](../../renderer-1)
+* toplantı [Aspose.SVG](../../../)
+
+<!-- DO NOT EDIT: generated by xmldocmd for Aspose.SVG.dll -->

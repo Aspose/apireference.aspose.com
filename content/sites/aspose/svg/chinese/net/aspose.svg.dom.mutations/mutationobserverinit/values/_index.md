@@ -1,14 +1,14 @@
 ---
 title: Values
 second_title: Aspose.SVG for .NET API 参考
-description: 获取包含MutationObserverInitaspose.svg.dom.mutations/mutationobserverinit集合中的值的集合
+description: 获取包含MutationObserverInitaspose.svg.dom.mutations/mutationobserverinit集合.
 type: docs
 weight: 130
 url: /zh/net/aspose.svg.dom.mutations/mutationobserverinit/values/
 ---
 ## MutationObserverInit.Values property
 
-获取包含[`MutationObserverInit`](../../mutationobserverinit)集合中的值的集合。
+获取包含[`MutationObserverInit`](../../mutationobserverinit)集合.
 
 ```csharp
 public ICollection<object> Values { get; }

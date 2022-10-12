@@ -1,14 +1,14 @@
 ---
 title: ParentRule
 second_title: Справочник по Aspose.SVG для .NET API
-description: Правило CSS содержащее этот блок объявлений или null если это CSSStyleDeclaration не присоединено к CSSRule.
+description: Правило CSS содержащее этот блок объявления или null если это CSSStyleDeclaration не присоединено к CSSRule.
 type: docs
 weight: 40
 url: /ru/net/aspose.svg.dom.css/icssstyledeclaration/parentrule/
 ---
 ## ICSSStyleDeclaration.ParentRule property
 
-Правило CSS, содержащее этот блок объявлений, или null, если это CSSStyleDeclaration не присоединено к CSSRule.
+Правило CSS, содержащее этот блок объявления, или null, если это CSSStyleDeclaration не присоединено к CSSRule.
 
 ```csharp
 public ICSSRule ParentRule { get; }

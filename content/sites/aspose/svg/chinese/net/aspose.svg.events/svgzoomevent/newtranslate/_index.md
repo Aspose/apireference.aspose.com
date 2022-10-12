@@ -1,14 +1,14 @@
 ---
 title: NewTranslate
 second_title: Aspose.SVG for .NET API 参考
-description: 处理完缩放操作后的平移值 SVGPoint 对象是只读的
+description: 处理缩放操作后的平移值 SVGPoint 对象是只读的
 type: docs
 weight: 20
 url: /zh/net/aspose.svg.events/svgzoomevent/newtranslate/
 ---
 ## SVGZoomEvent.NewTranslate property
 
-处理完缩放操作后的平移值。 SVGPoint 对象是只读的。
+处理缩放操作后的平移值。 SVGPoint 对象是只读的。
 
 ```csharp
 public SVGPoint NewTranslate { get; }

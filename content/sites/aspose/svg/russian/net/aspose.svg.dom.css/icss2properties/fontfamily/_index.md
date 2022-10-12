@@ -1,14 +1,14 @@
 ---
 title: FontFamily
 second_title: Справочник по Aspose.SVG для .NET API
-description: См. определение свойства font-family в CSS2.
+description: См. определение свойства семейства шрифтов в CSS2.
 type: docs
 weight: 480
 url: /ru/net/aspose.svg.dom.css/icss2properties/fontfamily/
 ---
 ## ICSS2Properties.FontFamily property
 
-См. определение свойства font-family в CSS2.
+См. определение свойства семейства шрифтов в CSS2.
 
 ```csharp
 public string FontFamily { get; set; }

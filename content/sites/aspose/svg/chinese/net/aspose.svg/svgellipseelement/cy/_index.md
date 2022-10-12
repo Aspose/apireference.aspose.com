@@ -1,14 +1,14 @@
 ---
 title: Cy
 second_title: Aspose.SVG for .NET API 参考
-description: 对应于给定 circle 元素的属性 cy
+description: 对应于给定 circle 元素上的属性 cy
 type: docs
 weight: 20
 url: /zh/net/aspose.svg/svgellipseelement/cy/
 ---
 ## SVGEllipseElement.Cy property
 
-对应于给定 'circle' 元素的属性 'cy'。
+对应于给定 'circle' 元素上的属性 'cy'。
 
 ```csharp
 public SVGAnimatedLength Cy { get; }
@@ -16,7 +16,7 @@ public SVGAnimatedLength Cy { get; }
 
 ### 适当的价值
 
-给定 'circle' 元素的属性 'cy'。
+给定'circle'元素的属性'cy'。
 
 ### 也可以看看
 

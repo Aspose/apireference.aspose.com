@@ -3,7 +3,7 @@ title: SVGLengthList
 second_title: Справочник по Aspose.SVG для .NET API
 description: Этот интерфейс определяет список объектов SVGLength.
 type: docs
-weight: 240
+weight: 230
 url: /ru/net/aspose.svg.datatypes/svglengthlist/
 ---
 ## SVGLengthList class
@@ -31,12 +31,12 @@ public class SVGLengthList : SVGListBase<SVGLength>
 | [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose)() | Освобождает неуправляемые и (необязательно) управляемые ресурсы. |
 | [GetEnumerator](../../aspose.svg.collections/svglistbase`1/getenumerator)() |  |
 | [GetItem](../../aspose.svg.collections/svglistbase`1/getitem)(ulong) |  |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | Этот метод используется для получения объекта ECMAScriptType. |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | Этот метод используется для получения объекта ECMAScript.Type . |
 | [Initialize](../../aspose.svg.collections/svglistbase`1/initialize)(SVGLength) |  |
 | [InsertItemBefore](../../aspose.svg.collections/svglistbase`1/insertitembefore)(SVGLength, ulong) |  |
 | [RemoveItem](../../aspose.svg.collections/svglistbase`1/removeitem)(ulong) |  |
 | [ReplaceItem](../../aspose.svg.collections/svglistbase`1/replaceitem)(SVGLength, ulong) |  |
-| override [ToString](../../aspose.svg.datatypes/svglengthlist/tostring)() | ВозвращаетString, представляющий этот экземпляр. |
+| override [ToString](../../aspose.svg.datatypes/svglengthlist/tostring)() | ВозвращаетString который представляет этот экземпляр. |
 
 ### Смотрите также
 

@@ -1,14 +1,14 @@
 ---
 title: op_Explicit
 second_title: Справочник по Aspose.SVG для .NET API
-description: Выполняет явное преобразование изUnitTypeaspose.svg.drawing/unittypeвString.
+description: Выполняет явное преобразование изUnitTypeaspose.svg.drawing/unittype кString .
 type: docs
 weight: 350
 url: /ru/net/aspose.svg.drawing/unittype/op_explicit/
 ---
 ## UnitType Explicit operator
 
-Выполняет явное преобразование из[`UnitType`](../../unittype)вString.
+Выполняет явное преобразование из[`UnitType`](../../unittype) кString .
 
 ```csharp
 public static explicit operator string(UnitType value)

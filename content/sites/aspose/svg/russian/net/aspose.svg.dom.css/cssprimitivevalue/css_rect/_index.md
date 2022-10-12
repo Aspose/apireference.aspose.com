@@ -1,14 +1,14 @@
 ---
 title: CSS_RECT
 second_title: Справочник по Aspose.SVG для .NET API
-description: Значение представляет собой прямую функцию. Значение можно получить с помощью метода GetRectValue.
+description: Значение представляет собой прямоугольную функцию. Значение можно получить с помощью метода GetRectValue.
 type: docs
 weight: 350
 url: /ru/net/aspose.svg.dom.css/cssprimitivevalue/css_rect/
 ---
 ## CSSPrimitiveValue.CSS_RECT field
 
-Значение представляет собой прямую функцию. Значение можно получить с помощью метода GetRectValue.
+Значение представляет собой прямоугольную функцию. Значение можно получить с помощью метода GetRectValue.
 
 ```csharp
 public const ushort CSS_RECT;

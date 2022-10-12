@@ -3,7 +3,7 @@ title: IService
 second_title: Aspose.SVG for .NET API 参考
 description: 定义服务实现的基本接口
 type: docs
-weight: 3680
+weight: 3690
 url: /zh/net/aspose.svg.services/iservice/
 ---
 ## IService interface

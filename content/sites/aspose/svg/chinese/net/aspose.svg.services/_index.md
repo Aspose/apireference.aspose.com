@@ -1,18 +1,18 @@
 ---
 title: Aspose.Svg.Services
 second_title: Aspose.SVG for .NET API 参考
-description: Aspose.Svg.Services 命名空间包含 接口作为服务实现的协议
+description: 的 Aspose.Svg.Services命名空间包含 接口作为服务实现的协议
 type: docs
 weight: 310
 url: /zh/net/aspose.svg.services/
 ---
-**Aspose.Svg.Services** 命名空间包含 接口作为服务实现的协议。
+的 **Aspose.Svg.Services**命名空间包含 接口作为服务实现的协议。
 
 ## 接口
 
 | 界面 | 描述 |
 | --- | --- |
-| [IDeviceInformationService](./ideviceinformationservice) | 描述[`Document`](../aspose.svg.dom/document)呈现给用户的环境的界面。 |
+| [IDeviceInformationService](./ideviceinformationservice) | 描述环境的接口[`Document`](../aspose.svg.dom/document)呈现给用户。 |
 | [INetworkService](./inetworkservice) | 为网络操作提供接口。 |
 | [IRuntimeService](./iruntimeservice) | 该服务用于配置运行时相关的属性。 |
 | [IService](./iservice) | 定义服务实现的基本接口。 |

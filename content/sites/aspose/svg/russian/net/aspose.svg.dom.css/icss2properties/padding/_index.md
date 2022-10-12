@@ -1,14 +1,14 @@
 ---
 title: Padding
 second_title: Справочник по Aspose.SVG для .NET API
-description: См. определение свойства padding в CSS2.
+description: См. определение свойства заполнения в CSS2.
 type: docs
 weight: 800
 url: /ru/net/aspose.svg.dom.css/icss2properties/padding/
 ---
 ## ICSS2Properties.Padding property
 
-См. определение свойства padding в CSS2.
+См. определение свойства заполнения в CSS2.
 
 ```csharp
 public string Padding { get; set; }

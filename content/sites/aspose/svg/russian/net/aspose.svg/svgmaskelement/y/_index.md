@@ -1,14 +1,14 @@
 ---
 title: Y
 second_title: Справочник по Aspose.SVG для .NET API
-description: Соответствует атрибуту y данного элемента mask. Принимает одну из констант определенных в SVGUnitTypes.
+description: Соответствует атрибуту y данного элемента маска. Принимает одну из констант определенных в SVGUnitTypes.
 type: docs
 weight: 90
 url: /ru/net/aspose.svg/svgmaskelement/y/
 ---
 ## SVGMaskElement.Y property
 
-Соответствует атрибуту 'y' данного элемента 'mask'. Принимает одну из констант, определенных в SVGUnitTypes.
+Соответствует атрибуту «y» данного элемента «маска». Принимает одну из констант, определенных в SVGUnitTypes.
 
 ```csharp
 public SVGAnimatedLength Y { get; }

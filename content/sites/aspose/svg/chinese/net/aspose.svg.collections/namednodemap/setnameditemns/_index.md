@@ -1,14 +1,14 @@
 ---
 title: SetNamedItemNS
 second_title: Aspose.SVG for .NET API 参考
-description: 使用其 namespaceURI 和 localName 添加一个节点如果具有该名称空间 URI 和该本地名称的节点已存在于此映射中则将其替换为新节点自行替换节点无效
+description: 使用其 namespaceURI 和 localName 添加一个节点如果具有该名称空间 URI 和该本地名称的节点已存在于此映射中则将其替换为新节点自己替换一个节点是没有效果的
 type: docs
 weight: 90
 url: /zh/net/aspose.svg.collections/namednodemap/setnameditemns/
 ---
 ## NamedNodeMap.SetNamedItemNS method
 
-使用其 namespaceURI 和 localName 添加一个节点。如果具有该名称空间 URI 和该本地名称的节点已存在于此映射中，则将其替换为新节点。自行替换节点无效。
+使用其 namespaceURI 和 localName 添加一个节点。如果具有该名称空间 URI 和该本地名称的节点已存在于此映射中，则将其替换为新节点。自己替换一个节点是没有效果的
 
 ```csharp
 public Attr SetNamedItemNS(Attr attr)

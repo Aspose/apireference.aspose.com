@@ -1,14 +1,14 @@
 ---
 title: IAbstractView
 second_title: Справочник по Aspose.SVG для .NET API
-description: Базовый интерфейс из которого должны быть получены все представления.
+description: Базовый интерфейс из которого должны быть получены все виды.
 type: docs
-weight: 1300
+weight: 1290
 url: /ru/net/aspose.svg.dom.views/iabstractview/
 ---
 ## IAbstractView interface
 
-Базовый интерфейс, из которого должны быть получены все представления.
+Базовый интерфейс, из которого должны быть получены все виды.
 
 ```csharp
 public interface IAbstractView

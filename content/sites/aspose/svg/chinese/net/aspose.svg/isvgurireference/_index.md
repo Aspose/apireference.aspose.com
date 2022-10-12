@@ -3,7 +3,7 @@ title: ISVGURIReference
 second_title: Aspose.SVG for .NET API 参考
 description: 接口 SVGURIReference 定义了一个接口该接口适用于所有具有 XLink 属性集合的元素例如 xlinkhref它定义了一个 URI 引用
 type: docs
-weight: 2030
+weight: 2040
 url: /zh/net/aspose.svg/isvgurireference/
 ---
 ## ISVGURIReference interface

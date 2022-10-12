@@ -1,14 +1,14 @@
 ---
 title: NodeValue
 second_title: Aspose.SVG for .NET API 参考
-description: 此节点的值取决于其类型
+description: 这个节点的值取决于它的类型
 type: docs
 weight: 40
 url: /zh/net/aspose.svg.dom/text/nodevalue/
 ---
 ## Text.NodeValue property
 
-此节点的值，取决于其类型。
+这个节点的值，取决于它的类型。
 
 ```csharp
 public override string NodeValue { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: YChannelSelector
 second_title: Справочник по Aspose.SVG для .NET API
-description: Соответствует атрибуту yChannelSelector данного элемента feDisplacementMap. Принимает одну из констант SVG_CHANNEL_ определенных в этом интерфейсе.
+description: Соответствует атрибуту yChannelSelector данного элемента feDisplacementMap. Принимает одну из констант SVG_CHANNEL_ определенных на этом интерфейсе.
 type: docs
 weight: 100
 url: /ru/net/aspose.svg.filters/svgfedisplacementmapelement/ychannelselector/
 ---
 ## SVGFEDisplacementMapElement.YChannelSelector property
 
-Соответствует атрибуту yChannelSelector данного элемента feDisplacementMap. Принимает одну из констант SVG_CHANNEL_*, определенных в этом интерфейсе.
+Соответствует атрибуту yChannelSelector данного элемента feDisplacementMap. Принимает одну из констант SVG_CHANNEL_*, определенных на этом интерфейсе.
 
 ```csharp
 public SVGAnimatedEnumeration YChannelSelector { get; }

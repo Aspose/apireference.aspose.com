@@ -1,9 +1,9 @@
 ---
 title: ContentTypeHeaderValue
 second_title: Aspose.SVG for .NET API 参考
-description: 表示 Content-Type 标头值
+description: 表示 ContentType 标头值
 type: docs
-weight: 2230
+weight: 2240
 url: /zh/net/aspose.svg.net.headers/contenttypeheadervalue/
 ---
 ## ContentTypeHeaderValue class
@@ -27,7 +27,7 @@ public class ContentTypeHeaderValue : NameValueHeaderValue
 
 | 姓名 | 描述 |
 | --- | --- |
-| override [ToString](../../aspose.svg.net.headers/namevalueheadervalue/tostring)() | 返回代表此实例的String。 |
+| override [ToString](../../aspose.svg.net.headers/namevalueheadervalue/tostring)() | 返回一个String代表这个实例。 |
 
 ### 也可以看看
 

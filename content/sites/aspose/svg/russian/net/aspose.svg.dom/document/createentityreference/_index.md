@@ -16,11 +16,11 @@ public EntityReference CreateEntityReference(string name)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| name | String | Имя объекта. |
+| name | String | Имя сущности. |
 
 ### Возвращаемое значение
 
-[`EntityReference`](../../entityreference).
+[`EntityReference`](../../entityreference) .
 
 ### Смотрите также
 

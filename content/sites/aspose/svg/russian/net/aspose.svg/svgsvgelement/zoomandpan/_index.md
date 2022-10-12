@@ -8,7 +8,7 @@ url: /ru/net/aspose.svg/svgsvgelement/zoomandpan/
 ---
 ## SVGSVGElement.ZoomAndPan property
 
-Соответствует атрибуту 'zoomAndPan' данного элемента. Значение должно быть одной из констант SVG_ZOOMANDPAN_*, определенных в этом интерфейсе.
+Соответствует атрибуту zoomAndPan данного элемента. Значение должно быть одной из констант SVG_ZOOMANDPAN_*, определенных в этом интерфейсе.
 
 ```csharp
 public ushort ZoomAndPan { get; set; }
@@ -16,13 +16,13 @@ public ushort ZoomAndPan { get; set; }
 
 ### Стоимость имущества
 
-Увеличение и панорамирование.
+Масштаб и панорамирование.
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception) | Код[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err). Возникает при попытке изменить значение атрибута только для чтения. |
+| [DOMException](../../../aspose.svg.dom/domexception) | код[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err) . Возникает при попытке изменить значение атрибута только для чтения. |
 
 ### Смотрите также
 

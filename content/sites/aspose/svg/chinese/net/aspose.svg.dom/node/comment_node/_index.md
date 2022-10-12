@@ -1,14 +1,14 @@
 ---
 title: COMMENT_NODE
 second_title: Aspose.SVG for .NET API 参考
-description: 评论节点
+description: 一个评论节点
 type: docs
 weight: 340
 url: /zh/net/aspose.svg.dom/node/comment_node/
 ---
 ## Node.COMMENT_NODE field
 
-评论节点
+一个评论节点
 
 ```csharp
 public const ushort COMMENT_NODE;

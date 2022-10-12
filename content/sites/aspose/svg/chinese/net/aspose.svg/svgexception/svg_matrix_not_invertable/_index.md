@@ -1,14 +1,14 @@
 ---
 title: SVG_MATRIX_NOT_INVERTABLE
 second_title: Aspose.SVG for .NET API 参考
-description: 在尝试反转不可逆矩阵时引发
+description: 当试图反转一个不可逆的矩阵时引发
 type: docs
 weight: 40
 url: /zh/net/aspose.svg/svgexception/svg_matrix_not_invertable/
 ---
 ## SVGException.SVG_MATRIX_NOT_INVERTABLE field
 
-在尝试反转不可逆矩阵时引发。
+当试图反转一个不可逆的矩阵时引发。
 
 ```csharp
 public const ushort SVG_MATRIX_NOT_INVERTABLE;

@@ -3,7 +3,7 @@ title: SVGAnimatedBoolean
 second_title: Справочник по Aspose.SVG для .NET API
 description: Используется для атрибутов логического типа которые можно анимировать.
 type: docs
-weight: 110
+weight: 100
 url: /ru/net/aspose.svg.datatypes/svganimatedboolean/
 ---
 ## SVGAnimatedBoolean class
@@ -26,8 +26,8 @@ public class SVGAnimatedBoolean : SVGAnimatedValue<bool>
 | Имя | Описание |
 | --- | --- |
 | [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose)() | Освобождает неуправляемые и (необязательно) управляемые ресурсы. |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | Этот метод используется для получения объекта ECMAScriptType. |
-| override [ToString](../../aspose.svg.datatypes/svganimatedboolean/tostring)() | ВозвращаетString, представляющий этот экземпляр. |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | Этот метод используется для получения объекта ECMAScript.Type . |
+| override [ToString](../../aspose.svg.datatypes/svganimatedboolean/tostring)() | ВозвращаетString который представляет этот экземпляр. |
 
 ### Смотрите также
 

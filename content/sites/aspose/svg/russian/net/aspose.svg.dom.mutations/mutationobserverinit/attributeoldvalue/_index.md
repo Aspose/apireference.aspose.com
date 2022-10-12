@@ -1,14 +1,14 @@
 ---
 title: AttributeOldValue
 second_title: Справочник по Aspose.SVG для .NET API
-description: Установите значение true если атрибуты являются истинными или опущены и значение атрибута цели перед мутацией необходимо записать.
+description: Установите значение true если атрибуты являются истинными или опущены и значение атрибута цели перед необходимостью записи мутации.
 type: docs
 weight: 30
 url: /ru/net/aspose.svg.dom.mutations/mutationobserverinit/attributeoldvalue/
 ---
 ## MutationObserverInit.AttributeOldValue property
 
-Установите значение true, если атрибуты являются истинными или опущены, и значение атрибута цели перед мутацией необходимо записать.
+Установите значение true, если атрибуты являются истинными или опущены, и значение атрибута цели перед необходимостью записи мутации.
 
 ```csharp
 public bool AttributeOldValue { get; set; }

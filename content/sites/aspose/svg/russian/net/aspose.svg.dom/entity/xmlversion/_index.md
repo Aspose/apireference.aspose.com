@@ -16,7 +16,7 @@ public string XmlVersion { get; }
 
 ### Стоимость имущества
 
-XML-версия.
+Версия XML.
 
 ### Смотрите также
 

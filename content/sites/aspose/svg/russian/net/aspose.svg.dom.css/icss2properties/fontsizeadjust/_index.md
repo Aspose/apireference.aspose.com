@@ -1,7 +1,7 @@
 ---
 title: FontSizeAdjust
 second_title: Справочник по Aspose.SVG для .NET API
-description: См. определение свойства font-size-adjust в CSS2.
+description: См. определение свойства fontsizeadjust в CSS2.
 type: docs
 weight: 500
 url: /ru/net/aspose.svg.dom.css/icss2properties/fontsizeadjust/

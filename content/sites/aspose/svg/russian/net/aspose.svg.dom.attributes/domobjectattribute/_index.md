@@ -3,7 +3,7 @@ title: DOMObjectAttribute
 second_title: Справочник по Aspose.SVG для .NET API
 description: Указывает что объект помечен этим атрибутом определенным W3C.
 type: docs
-weight: 430
+weight: 420
 url: /ru/net/aspose.svg.dom.attributes/domobjectattribute/
 ---
 ## DOMObjectAttribute class

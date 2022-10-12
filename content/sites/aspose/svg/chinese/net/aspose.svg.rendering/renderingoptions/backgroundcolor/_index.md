@@ -1,14 +1,14 @@
 ---
 title: BackgroundColor
 second_title: Aspose.SVG for .NET API 参考
-description: 获取或设置Color将填充每个页面的背景默认值为Transparent
+description: 获取或设置Color这将填充每个页面的背景默认值为Transparent .
 type: docs
 weight: 20
 url: /zh/net/aspose.svg.rendering/renderingoptions/backgroundcolor/
 ---
 ## RenderingOptions.BackgroundColor property
 
-获取或设置Color将填充每个页面的背景。默认值为Transparent。
+获取或设置Color这将填充每个页面的背景。默认值为Transparent .
 
 ```csharp
 public Color BackgroundColor { get; set; }

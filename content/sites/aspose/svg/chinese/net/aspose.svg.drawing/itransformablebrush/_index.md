@@ -1,14 +1,14 @@
 ---
 title: ITransformableBrush
 second_title: Aspose.SVG for .NET API 参考
-description: 描述获取变换矩阵和换行模式的方法
+description: 说明获取变换矩阵和换行模式的方法
 type: docs
-weight: 1490
+weight: 1500
 url: /zh/net/aspose.svg.drawing/itransformablebrush/
 ---
 ## ITransformableBrush interface
 
-描述获取变换矩阵和换行模式的方法。
+说明获取变换矩阵和换行模式的方法。
 
 ```csharp
 public interface ITransformableBrush : IBrush
@@ -18,8 +18,8 @@ public interface ITransformableBrush : IBrush
 
 | 姓名 | 描述 |
 | --- | --- |
-| [TransformationMatrix](../../aspose.svg.drawing/itransformablebrush/transformationmatrix) { get; } | 获取转换。变换为此画笔定义了一个局部几何变换。 |
-| [WrapMode](../../aspose.svg.drawing/itransformablebrush/wrapmode) { get; } | 获取或设置环绕模式。环绕模式指定纹理或渐变在小于填充区域时如何平铺 。 |
+| [TransformationMatrix](../../aspose.svg.drawing/itransformablebrush/transformationmatrix) { get; } | 获取转换。变换定义了这个画笔的局部几何变换。 |
+| [WrapMode](../../aspose.svg.drawing/itransformablebrush/wrapmode) { get; } | 获取或设置换行模式。环绕模式指定纹理或渐变在小于填充区域时如何平铺 。 |
 
 ### 也可以看看
 

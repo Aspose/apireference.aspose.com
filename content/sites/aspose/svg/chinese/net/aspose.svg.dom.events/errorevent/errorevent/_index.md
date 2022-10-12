@@ -1,14 +1,14 @@
 ---
 title: ErrorEvent
 second_title: Aspose.SVG for .NET API 参考
-description: 初始化ErrorEventaspose.svg.dom.events/errorevent类的新实例
+description: 初始化ErrorEventaspose.svg.dom.events/errorevent类.
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.dom.events/errorevent/errorevent/
 ---
 ## ErrorEvent(Exception) {#constructor_1}
 
-初始化[`ErrorEvent`](../../errorevent)类的新实例。
+初始化[`ErrorEvent`](../../errorevent)类.
 
 ```csharp
 public ErrorEvent(Exception exception)
@@ -16,7 +16,7 @@ public ErrorEvent(Exception exception)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| exception | Exception | 异常。 |
+| exception | Exception | 例外。 |
 
 ### 也可以看看
 
@@ -28,7 +28,7 @@ public ErrorEvent(Exception exception)
 
 ## ErrorEvent(IDictionary&lt;string, object&gt;) {#constructor}
 
-初始化[`ErrorEvent`](../../errorevent)类的新实例。
+初始化[`ErrorEvent`](../../errorevent)类.
 
 ```csharp
 public ErrorEvent(IDictionary<string, object> eventInitDict)

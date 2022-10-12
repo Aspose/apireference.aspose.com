@@ -3,7 +3,7 @@ title: MessageHandler
 second_title: Aspose.SVG for .NET API 参考
 description: 表示消息处理程序的基本类型
 type: docs
-weight: 2300
+weight: 2310
 url: /zh/net/aspose.svg.net/messagehandler/
 ---
 ## MessageHandler class

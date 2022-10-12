@@ -1,14 +1,14 @@
 ---
 title: op_Equality
 second_title: Справочник по Aspose.SVG для .NET API
-description: Определяет равны ли два указанных значенияUnitTypeaspose.svg.drawing/unittype.
+description: Определяет являются ли два указанныхUnitTypeaspose.svg.drawing/unittype значения равны.
 type: docs
 weight: 340
 url: /ru/net/aspose.svg.drawing/unittype/op_equality/
 ---
 ## UnitType Equality operator
 
-Определяет, равны ли два указанных значения[`UnitType`](../../unittype).
+Определяет, являются ли два указанных[`UnitType`](../../unittype) значения равны.
 
 ```csharp
 public static bool operator ==(UnitType first, UnitType second)
@@ -16,12 +16,12 @@ public static bool operator ==(UnitType first, UnitType second)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| first | UnitType | Первое значение[`UnitType`](../../unittype)для сравнения. |
-| second | UnitType | Второе значение[`UnitType`](../../unittype)для сравнения. |
+| first | UnitType | Первый[`UnitType`](../../unittype) значение для сравнения. |
+| second | UnitType | Секунда[`UnitType`](../../unittype) значение для сравнения. |
 
 ### Возвращаемое значение
 
-` true` , если оба[`UnitType`](../../unittype)равны; в противном случае` false` .
+`истинный` если оба[`UnitType`](../../unittype) равны; в противном случае,`ЛОЖЬ` .
 
 ### Смотрите также
 

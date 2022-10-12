@@ -1,12 +1,12 @@
 ---
 title: Aspose.Svg.Net
 second_title: Aspose.SVG for .NET API 参考
-description: Aspose.Svg.Net 命名空间由 类和接口提供这些类和接口由 负责帮助轻松的网络处理
+description: 的 Aspose.Svg.Net命名空间由 类和接口提供它们 负责帮助轻松进行网络处理
 type: docs
 weight: 190
 url: /zh/net/aspose.svg.net/
 ---
-**Aspose.Svg.Net** 命名空间由 类和接口提供，这些类和接口由 负责帮助轻松的网络处理。
+的 **Aspose.Svg.Net**命名空间由 类和接口提供，它们 负责帮助轻松进行网络处理。
 
 ## 课程
 
@@ -19,7 +19,7 @@ url: /zh/net/aspose.svg.net/
 | [HttpMethod](./httpmethod) | 表示用于检索和比较标准 HTTP 方法的实用程序类。 |
 | [MessageFilter](./messagefilter) | 表示用于查询消息的不同类过滤器的抽象基类 |
 | [MessageHandler](./messagehandler) | 表示消息处理程序的基本类型。 |
-| [MessageHandlerCollection](./messagehandlercollection) | 表示[`MessageHandler`](../aspose.svg.net/messagehandler)的集合。 |
+| [MessageHandlerCollection](./messagehandlercollection) | 代表集合[`MessageHandler`](../aspose.svg.net/messagehandler) . |
 | [MultipartContent](./multipartcontent) | 表示多部分/* 内容。 |
 | [MultipartFormDataContent](./multipartformdatacontent) | 表示多部分/表单数据编码算法的内容 |
 | [RequestHeaders](./requestheaders) | 包含与请求关联的协议标头。 |

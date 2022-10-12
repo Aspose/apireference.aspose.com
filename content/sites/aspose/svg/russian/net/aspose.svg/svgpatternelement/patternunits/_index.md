@@ -1,14 +1,14 @@
 ---
 title: PatternUnits
 second_title: Справочник по Aspose.SVG для .NET API
-description: Соответствует атрибуту patternUnits данного элемента pattern. Принимает одну из констант определенных в SVGUnitTypes.
+description: Соответствует атрибуту patternUnits данного элемента шаблона. Принимает одну из констант определенных в SVGUnitTypes.
 type: docs
 weight: 50
 url: /ru/net/aspose.svg/svgpatternelement/patternunits/
 ---
 ## SVGPatternElement.PatternUnits property
 
-Соответствует атрибуту 'patternUnits' данного элемента 'pattern'. Принимает одну из констант, определенных в SVGUnitTypes.
+Соответствует атрибуту 'patternUnits' данного элемента 'шаблона'. Принимает одну из констант, определенных в SVGUnitTypes.
 
 ```csharp
 public SVGAnimatedEnumeration PatternUnits { get; }

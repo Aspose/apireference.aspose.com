@@ -1,14 +1,14 @@
 ---
 title: RemoveChild
 second_title: Aspose.SVG for .NET API 参考
-description: 从子节点列表中删除 oldChild 指示的子节点并返回它
+description: 将 oldChild 指示的子节点从子节点列表中移除并返回
 type: docs
 weight: 290
 url: /zh/net/aspose.svg.dom/node/removechild/
 ---
 ## Node.RemoveChild method
 
-从子节点列表中删除 oldChild 指示的子节点，并返回它。
+将 oldChild 指示的子节点从子节点列表中移除，并返回。
 
 ```csharp
 public Node RemoveChild(Node child)

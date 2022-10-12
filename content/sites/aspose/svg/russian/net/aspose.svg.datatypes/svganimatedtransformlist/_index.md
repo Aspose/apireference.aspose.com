@@ -1,14 +1,14 @@
 ---
 title: SVGAnimatedTransformList
 second_title: Справочник по Aspose.SVG для .NET API
-description: Используется для различных атрибутов которые задают набор преобразований таких как атрибут преобразование который доступен для многих элементов SVG и который можно анимировать.
+description: Используется для различных атрибутов которые определяют набор преобразований таких как атрибут преобразование который доступен для многих элементов SVG и который можно анимировать.
 type: docs
-weight: 210
+weight: 200
 url: /ru/net/aspose.svg.datatypes/svganimatedtransformlist/
 ---
 ## SVGAnimatedTransformList class
 
-Используется для различных атрибутов, которые задают набор преобразований, таких как атрибут «преобразование», который доступен для многих элементов SVG и который можно анимировать.
+Используется для различных атрибутов, которые определяют набор преобразований, таких как атрибут «преобразование», который доступен для многих элементов SVG и который можно анимировать.
 
 ```csharp
 public class SVGAnimatedTransformList : SVGAnimatedValue<SVGTransformList>
@@ -26,8 +26,8 @@ public class SVGAnimatedTransformList : SVGAnimatedValue<SVGTransformList>
 | Имя | Описание |
 | --- | --- |
 | [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose)() | Освобождает неуправляемые и (необязательно) управляемые ресурсы. |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | Этот метод используется для получения объекта ECMAScriptType. |
-| override [ToString](../../aspose.svg.datatypes/svganimatedtransformlist/tostring)() | ВозвращаетString, представляющий этот экземпляр. |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | Этот метод используется для получения объекта ECMAScript.Type . |
+| override [ToString](../../aspose.svg.datatypes/svganimatedtransformlist/tostring)() | ВозвращаетString который представляет этот экземпляр. |
 
 ### Смотрите также
 

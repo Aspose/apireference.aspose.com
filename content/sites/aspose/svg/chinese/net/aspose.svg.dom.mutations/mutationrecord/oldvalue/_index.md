@@ -1,14 +1,14 @@
 ---
 title: OldValue
 second_title: Aspose.SVG for .NET API 参考
-description: 返回值取决于类型对于属性它是更改前更改的属性的值 为characterData为变更前节点的数据 对于childList它为空
+description: 返回值取决于类型 attributes为变化前的属性值 characterData为变化前节点的数据 childList为null
 type: docs
 weight: 50
 url: /zh/net/aspose.svg.dom.mutations/mutationrecord/oldvalue/
 ---
 ## MutationRecord.OldValue property
 
-返回值取决于类型。对于“属性”，它是更改前更改的属性的值。 为“characterData”，为变更前节点的数据。 对于“childList”，它为空。
+返回值取决于类型。 “attributes”为变化前的属性值。 “characterData”为变化前节点的数据。 “childList”为null。
 
 ```csharp
 public string OldValue { get; }

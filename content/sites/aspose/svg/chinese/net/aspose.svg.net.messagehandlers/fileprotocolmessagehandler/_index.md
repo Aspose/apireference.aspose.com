@@ -1,14 +1,14 @@
 ---
 title: FileProtocolMessageHandler
 second_title: Aspose.SVG for .NET API 参考
-description: 表示 文件 协议消息处理程序
+description: 代表文件协议消息处理程序.
 type: docs
-weight: 2320
+weight: 2330
 url: /zh/net/aspose.svg.net.messagehandlers/fileprotocolmessagehandler/
 ---
 ## FileProtocolMessageHandler class
 
-表示` 文件：` 协议消息处理程序。
+代表`文件：`协议消息处理程序.
 
 ```csharp
 public class FileProtocolMessageHandler : MessageHandler
@@ -18,7 +18,7 @@ public class FileProtocolMessageHandler : MessageHandler
 
 | 姓名 | 描述 |
 | --- | --- |
-| [FileProtocolMessageHandler](fileprotocolmessagehandler)() | 初始化[`FileProtocolMessageHandler`](../fileprotocolmessagehandler)类的新实例。 |
+| [FileProtocolMessageHandler](fileprotocolmessagehandler)() | 初始化[`FileProtocolMessageHandler`](../fileprotocolmessagehandler)类. |
 
 ## 特性
 

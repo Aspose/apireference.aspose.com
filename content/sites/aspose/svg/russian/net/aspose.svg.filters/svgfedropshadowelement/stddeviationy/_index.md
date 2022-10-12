@@ -8,7 +8,7 @@ url: /ru/net/aspose.svg.filters/svgfedropshadowelement/stddeviationy/
 ---
 ## SVGFEDropShadowElement.StdDeviationY property
 
-Соответствует атрибуту 'stdDeviation' данного элемента 'feDropShadow'. Содержит компонент Y (возможно, вычисляемый автоматически) атрибута 'stdDeviation'.
+Соответствует атрибуту 'stdDeviation' данного элемента feDropShadow. Содержит компонент Y (возможно, вычисляемый автоматически) атрибута 'stdDeviation'.
 
 ```csharp
 public SVGAnimatedNumber StdDeviationY { get; }

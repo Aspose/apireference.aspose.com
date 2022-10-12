@@ -1,14 +1,14 @@
 ---
 title: FontMatcher
 second_title: Справочник по Aspose.SVG для .NET API
-description: Этот класс позволяет управлять некоторыми частями алгоритма сопоставления шрифтов.
+description: Этот класс позволяет вам управлять некоторыми частями алгоритма сопоставления шрифтов.
 type: docs
-weight: 2720
+weight: 2730
 url: /ru/net/aspose.svg.rendering.fonts/fontmatcher/
 ---
 ## FontMatcher class
 
-Этот класс позволяет управлять некоторыми частями алгоритма сопоставления шрифтов.
+Этот класс позволяет вам управлять некоторыми частями алгоритма сопоставления шрифтов.
 
 ```csharp
 public abstract class FontMatcher
@@ -18,7 +18,7 @@ public abstract class FontMatcher
 
 | Имя | Описание |
 | --- | --- |
-| abstract [MatchFontFallback](../../aspose.svg.rendering.fonts/fontmatcher/matchfontfallback)(FontMatchingProperties, uint) | Этот метод вызывается, если в папках поиска шрифтов не найден подходящий шрифт. Он должен возвращать шрифт истинного типа на основе*fontMatchingProperties*, который может отображать*charCode*, или` null` , если такой шрифт нет в наличии. |
+| abstract [MatchFontFallback](../../aspose.svg.rendering.fonts/fontmatcher/matchfontfallback)(FontMatchingProperties, uint) | Этот метод вызывается, если в папках поиска шрифтов не найден подходящий шрифт. Он должен возвращать шрифт истинного типа на основе*fontMatchingProperties* который может отображать*charCode* , или же`нулевой` если такой шрифт недоступен. |
 
 ### Смотрите также
 

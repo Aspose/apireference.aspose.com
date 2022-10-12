@@ -1,14 +1,14 @@
 ---
 title: Turn
 second_title: Aspose.SVG for .NET API 参考
-description: 依次进行测量
+description: 轮流测量
 type: docs
 weight: 260
 url: /zh/net/aspose.svg.drawing/unittype/turn/
 ---
 ## UnitType.Turn field
 
-依次进行测量。
+轮流测量。
 
 ```csharp
 public static readonly UnitType Turn;

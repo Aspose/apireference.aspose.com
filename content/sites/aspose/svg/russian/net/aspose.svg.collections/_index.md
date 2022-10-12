@@ -1,19 +1,19 @@
 ---
 title: Aspose.Svg.Collections
 second_title: Справочник по Aspose.SVG для .NET API
-description: Пространство имен Aspose.Svg.Collections состоит из классов для представления хранения узлов и элементов и управления ими.
+description: Aspose.Svg.Collections пространство имен состоит из классов для представления хранения и управления узлами и элементами.
 type: docs
 weight: 20
 url: /ru/net/aspose.svg.collections/
 ---
-Пространство имен **Aspose.Svg.Collections** состоит из классов для представления, хранения узлов и элементов и управления ими.
+**Aspose.Svg.Collections** пространство имен состоит из классов для представления, хранения и управления узлами и элементами.
 
 ## Классы
 
 | Учебный класс | Описание |
 | --- | --- |
 | [DOMTokenList](./domtokenlist) | Класс DOMTokenList представляет набор токенов, разделенных пробелами. Он индексируется, начиная с 0, как и объекты массива JavaScript. DOMTokenList всегда чувствителен к регистру. |
-| [HTMLCollection](./htmlcollection) | [`HTMLCollection`](../aspose.svg.collections/htmlcollection)представляет собой общую коллекцию[`Element`](../aspose.svg.dom/element). |
+| [HTMLCollection](./htmlcollection) | [`HTMLCollection`](../aspose.svg.collections/htmlcollection) представляет собой общий набор[`Element`](../aspose.svg.dom/element) . |
 | [NamedNodeMap](./namednodemap) | Представляет коллекции атрибутов, доступ к которым можно получить по имени. |
 | [NodeList](./nodelist) | NodeList обеспечивает абстракцию упорядоченного набора узлов, не определяя и не ограничивая реализацию этого набора. |
 | [SVGListBase&lt;T&gt;](./svglistbase-1) | Этот интерфейс определяет базовый список всех списков SVG. |

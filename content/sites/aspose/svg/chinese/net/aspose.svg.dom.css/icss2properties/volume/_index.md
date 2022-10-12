@@ -1,14 +1,14 @@
 ---
 title: Volume
 second_title: Aspose.SVG for .NET API 参考
-description: 请参阅 CSS2 中的音量属性定义
+description: 参见CSS2中的volume属性定义
 type: docs
 weight: 1170
 url: /zh/net/aspose.svg.dom.css/icss2properties/volume/
 ---
 ## ICSS2Properties.Volume property
 
-请参阅 CSS2 中的音量属性定义。
+参见CSS2中的volume属性定义。
 
 ```csharp
 public string Volume { get; set; }
@@ -16,7 +16,7 @@ public string Volume { get; set; }
 
 ### 返回值
 
-卷属性
+体积属性
 
 ### 也可以看看
 

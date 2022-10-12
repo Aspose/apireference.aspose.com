@@ -16,7 +16,7 @@ public SVGAnimatedLength Y { get; }
 
 ### 适当的价值
 
-对应于给定 'image' 元素的属性 'y'。
+对应于给定 'image' 元素上的属性 'y'。
 
 ### 也可以看看
 

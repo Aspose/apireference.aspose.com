@@ -1,14 +1,14 @@
 ---
 title: ImageVectorizer
 second_title: Aspose.SVG for .NET API 参考
-description: 初始化ImageVectorizeraspose.svg.imagevectorization/imagevectorizer类的新实例
+description: 初始化ImageVectorizeraspose.svg.imagevectorization/imagevectorizer类.
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.imagevectorization/imagevectorizer/imagevectorizer/
 ---
 ## ImageVectorizer() {#constructor}
 
-初始化[`ImageVectorizer`](../../imagevectorizer)类的新实例。
+初始化[`ImageVectorizer`](../../imagevectorizer)类.
 
 ```csharp
 public ImageVectorizer()
@@ -24,7 +24,7 @@ public ImageVectorizer()
 
 ## ImageVectorizer(ImageVectorizerConfiguration) {#constructor_1}
 
-初始化[`ImageVectorizer`](../../imagevectorizer)类的新实例。
+初始化[`ImageVectorizer`](../../imagevectorizer)类.
 
 ```csharp
 public ImageVectorizer(ImageVectorizerConfiguration configuration)

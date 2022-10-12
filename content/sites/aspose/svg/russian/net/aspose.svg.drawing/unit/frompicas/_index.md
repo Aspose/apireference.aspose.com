@@ -1,14 +1,14 @@
 ---
 title: FromPicas
 second_title: Справочник по Aspose.SVG для .NET API
-description: Возвращает объектLengthaspose.svg.drawing/length представленный в пиках.
+description: ВозвращаетLengthaspose.svg.drawing/length объект представленный в picas.
 type: docs
 weight: 160
 url: /ru/net/aspose.svg.drawing/unit/frompicas/
 ---
 ## Unit.FromPicas method
 
-Возвращает объект[`Length`](../../length), представленный в пиках.
+Возвращает[`Length`](../../length) объект, представленный в picas.
 
 ```csharp
 public static Length FromPicas(double value)
@@ -20,7 +20,7 @@ public static Length FromPicas(double value)
 
 ### Возвращаемое значение
 
-Возвращает объект[`Length`](../../length).
+Возвращает[`Length`](../../length) объект.
 
 ### Смотрите также
 

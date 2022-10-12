@@ -1,14 +1,14 @@
 ---
 title: Margin
 second_title: Aspose.SVG for .NET API 参考
-description: 请参阅 CSS2 中的边距属性定义
+description: 见 CSS2 中的 margin 属性定义
 type: docs
 weight: 630
 url: /zh/net/aspose.svg.dom.css/icss2properties/margin/
 ---
 ## ICSS2Properties.Margin property
 
-请参阅 CSS2 中的边距属性定义。
+见 CSS2 中的 margin 属性定义。
 
 ```csharp
 public string Margin { get; set; }
@@ -16,7 +16,7 @@ public string Margin { get; set; }
 
 ### 返回值
 
-边距属性
+保证金属性
 
 ### 也可以看看
 

@@ -16,7 +16,7 @@ public SVGAnimatedNumber Elevation { get; }
 
 ### 适当的价值
 
-给定 'feDistantLight' 元素的属性 'elevation'。
+给定“feDistantLight”元素的“海拔”属性。
 
 ### 也可以看看
 

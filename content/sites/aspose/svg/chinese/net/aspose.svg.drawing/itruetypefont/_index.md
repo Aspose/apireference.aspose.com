@@ -3,7 +3,7 @@ title: ITrueTypeFont
 second_title: Aspose.SVG for .NET API 参考
 description: 声明使用 TrueType 字体的方法
 type: docs
-weight: 1500
+weight: 1510
 url: /zh/net/aspose.svg.drawing/itruetypefont/
 ---
 ## ITrueTypeFont interface
@@ -20,15 +20,15 @@ public interface ITrueTypeFont
 | --- | --- |
 | [DataSize](../../aspose.svg.drawing/itruetypefont/datasize) { get; } | 以字节为单位返回字体数据的大小 |
 | [FamilyName](../../aspose.svg.drawing/itruetypefont/familyname) { get; } | 获取字体家族的名称。 |
-| [FullFontName](../../aspose.svg.drawing/itruetypefont/fullfontname) { get; } | 这应该是“FamilyName”和“SubFamilyName”的组合。例外：如果字体是“常规”字体，如“SubFamilyName”中的 所示，则仅使用“FamilyName”中包含的姓氏。 上述完整字体名称定义的一个例外是 Microsoft 平台字符串 对于 CFF OpenType 字体：在这种情况下，完整字体名称字符串必须与 PostScript 相同CFF 名称索引中的字体名称。 |
-| [SubFamilyName](../../aspose.svg.drawing/itruetypefont/subfamilyname) { get; } | 字体子系列名称用于区分具有相同字体系列名称的组中的字体。 假定这是针对样式（斜体、斜体）和粗细（浅色、粗体、黑色等）。 在粗细或样式上没有特别差异的字体（例如，中等粗细、非斜体和 fsSelection 位 6 设置）应将字符串“Regular”存储在此位置。 |
+| [FullFontName](../../aspose.svg.drawing/itruetypefont/fullfontname) { get; } | 这应该是“FamilyName”和“SubFamilyName”的组合。例外：如果字体是“常规”字体，如“子家族名称”中的 所示，则仅使用“家族名称”中包含的家族名称。 上述完整字体名称定义的一个例外是 Microsoft 平台字符串 用于 CFF OpenType 字体：在这种情况下，完整字体名称字符串必须与 CFF 名称索引中的 PostScript FontName 相同。 |
+| [SubFamilyName](../../aspose.svg.drawing/itruetypefont/subfamilyname) { get; } | 字体子系列名称用于区分具有相同字体系列名称的组中的字体。 这被假定为处理样式（斜体、斜体）和粗体（浅色、粗体、黑色等）。 在粗细或样式上没有特别差异的字体（例如，中等粗细、非斜体和 fsSelection 位 6 设置）应将字符串“Regular”存储在此位置。 |
 
 ## 方法
 
 | 姓名 | 描述 |
 | --- | --- |
 | [GetAscent](../../aspose.svg.drawing/itruetypefont/getascent)(float) | 返回上升，以点为单位。 |
-| [GetData](../../aspose.svg.drawing/itruetypefont/getdata)() | 使用字体数据打开流。调用者负责处理流。 |
+| [GetData](../../aspose.svg.drawing/itruetypefont/getdata)() | 打开带有字体数据的流。调用者负责处理流。 |
 | [GetDescent](../../aspose.svg.drawing/itruetypefont/getdescent)(float) | 返回下降，以点为单位。 |
 
 ### 也可以看看

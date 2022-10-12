@@ -3,7 +3,7 @@ title: SVGAnimatedEnumeration
 second_title: Справочник по Aspose.SVG для .NET API
 description: Используется для атрибутов значение которых должно быть константой из определенного перечисления и которые можно анимировать.
 type: docs
-weight: 120
+weight: 110
 url: /ru/net/aspose.svg.datatypes/svganimatedenumeration/
 ---
 ## SVGAnimatedEnumeration class
@@ -26,8 +26,8 @@ public class SVGAnimatedEnumeration : SVGAnimatedValue<ushort>
 | Имя | Описание |
 | --- | --- |
 | [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose)() | Освобождает неуправляемые и (необязательно) управляемые ресурсы. |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | Этот метод используется для получения объекта ECMAScriptType. |
-| override [ToString](../../aspose.svg.datatypes/svganimatedenumeration/tostring)() | ВозвращаетString, представляющий этот экземпляр. |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | Этот метод используется для получения объекта ECMAScript.Type . |
+| override [ToString](../../aspose.svg.datatypes/svganimatedenumeration/tostring)() | ВозвращаетString который представляет этот экземпляр. |
 
 ### Смотрите также
 

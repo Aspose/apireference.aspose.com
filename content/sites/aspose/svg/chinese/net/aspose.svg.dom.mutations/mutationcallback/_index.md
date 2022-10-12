@@ -3,7 +3,7 @@ title: MutationCallback
 second_title: Aspose.SVG for .NET API 参考
 description: 表示将处理突变事件的方法
 type: docs
-weight: 1120
+weight: 1110
 url: /zh/net/aspose.svg.dom.mutations/mutationcallback/
 ---
 ## MutationCallback delegate
@@ -17,7 +17,7 @@ public delegate void MutationCallback(IList<MutationRecord> mutations, MutationO
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | mutations | IList`1 | 突变记录列表。 |
-| observer | MutationObserver | 变异观察者。 |
+| observer | MutationObserver | 突变观察者。 |
 
 ### 也可以看看
 

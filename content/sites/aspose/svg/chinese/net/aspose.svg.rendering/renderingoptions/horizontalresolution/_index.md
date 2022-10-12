@@ -1,14 +1,14 @@
 ---
 title: HorizontalResolution
 second_title: Aspose.SVG for .NET API 参考
-description: 设置或获取内部在过滤器处理期间使用图像的水平分辨率以每英寸像素为单位默认情况下此属性为 300 dpi
+description: 设置或获取内部在过滤器处理期间使用图像的水平分辨率以每英寸像素为单位默认情况下此属性为 300 dpi.
 type: docs
 weight: 40
 url: /zh/net/aspose.svg.rendering/renderingoptions/horizontalresolution/
 ---
 ## RenderingOptions.HorizontalResolution property
 
-设置或获取内部（在过滤器处理期间使用）图像的水平分辨率，以每英寸像素为单位。默认情况下，此属性为 300 dpi。
+设置或获取内部（在过滤器处理期间使用）图像的水平分辨率，以每英寸像素为单位。默认情况下，此属性为 300 dpi.
 
 ```csharp
 public virtual Resolution HorizontalResolution { get; set; }

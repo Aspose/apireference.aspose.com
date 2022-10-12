@@ -1,14 +1,14 @@
 ---
 title: ScreenSize
 second_title: Aspose.SVG for .NET API 参考
-description: 获取或设置屏幕的大小
+description: 获取或设置屏幕大小
 type: docs
 weight: 20
 url: /zh/net/aspose.svg.services/ideviceinformationservice/screensize/
 ---
 ## IDeviceInformationService.ScreenSize property
 
-获取或设置屏幕的大小。
+获取或设置屏幕大小。
 
 ```csharp
 public Size ScreenSize { get; set; }

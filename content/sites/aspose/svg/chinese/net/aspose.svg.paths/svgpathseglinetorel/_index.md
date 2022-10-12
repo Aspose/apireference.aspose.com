@@ -1,14 +1,14 @@
 ---
 title: SVGPathSegLinetoRel
 second_title: Aspose.SVG for .NET API 参考
-description: SVGPathSegLinetoRel 接口对应于relative linetol 路径数据命令
+description: SVGPathSegLinetoRel 接口对应一个relative linetol路径数据命令
 type: docs
-weight: 2600
+weight: 2610
 url: /zh/net/aspose.svg.paths/svgpathseglinetorel/
 ---
 ## SVGPathSegLinetoRel class
 
-SVGPathSegLinetoRel 接口对应于“relative lineto”(l) 路径数据命令。
+SVGPathSegLinetoRel 接口对应一个“relative lineto”（l）路径数据命令。
 
 ```csharp
 public class SVGPathSegLinetoRel : SVGPathSeg
@@ -27,8 +27,8 @@ public class SVGPathSegLinetoRel : SVGPathSeg
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose)() | 释放非托管和（可选）托管资源。 |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | 此方法用于检索 ECMAScript 对象Type。 |
+| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose)() | 释放非托管和 - 可选 - 托管资源。 |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | 此方法用于检索 ECMAScript 对象Type . |
 
 ### 也可以看看
 

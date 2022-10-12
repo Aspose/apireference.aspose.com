@@ -3,7 +3,7 @@ title: SVGAnimatedString
 second_title: Aspose.SVG for .NET API 参考
 description: 用于可以动画的 DOMString 类型的属性
 type: docs
-weight: 200
+weight: 190
 url: /zh/net/aspose.svg.datatypes/svganimatedstring/
 ---
 ## SVGAnimatedString class
@@ -25,9 +25,9 @@ public class SVGAnimatedString : SVGAnimatedValue<string>
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose)() | 释放非托管和（可选）托管资源。 |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | 此方法用于检索 ECMAScript 对象Type。 |
-| override [ToString](../../aspose.svg.datatypes/svganimatedstring/tostring)() | 返回代表此实例的String。 |
+| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose)() | 释放非托管和 - 可选 - 托管资源。 |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | 此方法用于检索 ECMAScript 对象Type . |
+| override [ToString](../../aspose.svg.datatypes/svganimatedstring/tostring)() | 返回一个String代表这个实例。 |
 
 ### 也可以看看
 

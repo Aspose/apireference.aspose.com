@@ -1,14 +1,14 @@
 ---
 title: X
 second_title: Aspose.SVG for .NET API 参考
-description: 对应于给定过滤器元素的属性x
+description: 对应于给定过滤器元素上的属性x
 type: docs
 weight: 160
 url: /zh/net/aspose.svg.filters/svgfeconvolvematrixelement/x/
 ---
 ## SVGFEConvolveMatrixElement.X property
 
-对应于给定“过滤器”元素的属性“x”。
+对应于给定“过滤器”元素上的属性“x”。
 
 ```csharp
 public SVGAnimatedLength X { get; }

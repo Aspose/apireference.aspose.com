@@ -8,7 +8,7 @@ url: /zh/net/aspose.svg.datatypes/svgangle/svg_angletype_unspecified/
 ---
 ## SVGAngle.SVG_ANGLETYPE_UNSPECIFIED field
 
-未提供单位类型（即，指定了无单位值）。对于角度，无单位值的处理方式与指定度数相同。
+未提供单位类型（即指定了无单位值）。对于角度，无单位值的处理方式与指定度数相同。
 
 ```csharp
 public const ushort SVG_ANGLETYPE_UNSPECIFIED;

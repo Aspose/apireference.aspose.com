@@ -18,7 +18,7 @@ public class Configuration : IServiceContainer
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Configuration](configuration)() | 初始化[`Configuration`](../configuration)类的新实例。 |
+| [Configuration](configuration)() | 初始化[`Configuration`](../configuration)类. |
 
 ## 特性
 

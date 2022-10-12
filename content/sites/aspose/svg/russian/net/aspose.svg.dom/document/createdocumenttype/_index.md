@@ -17,14 +17,14 @@ public DocumentType CreateDocumentType(string name, string publicId, string syst
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| name | String | Имя типа документа. |
+| name | String | Название типа документа. |
 | publicId | String | Публичный идентификатор. |
 | systemId | String | Идентификатор системы. |
 | internalSubset | String | Внутреннее подмножество. |
 
 ### Возвращаемое значение
 
-[`DocumentType`](../../documenttype).
+[`DocumentType`](../../documenttype) .
 
 ### Смотрите также
 

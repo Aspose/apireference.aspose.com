@@ -8,7 +8,7 @@ url: /ru/net/aspose.svg/svgmaskelement/height/
 ---
 ## SVGMaskElement.Height property
 
-Соответствует атрибуту 'высота' данного элемента 'маски'. Принимает одну из констант, определенных в SVGUnitTypes.
+Соответствует атрибуту «высота» данного элемента «маски». Принимает одну из констант, определенных в SVGUnitTypes.
 
 ```csharp
 public SVGAnimatedLength Height { get; }
@@ -16,7 +16,7 @@ public SVGAnimatedLength Height { get; }
 
 ### Стоимость имущества
 
-Атрибут 'высота' данного элемента 'маски'.
+Атрибут «высота» данного элемента «маски».
 
 ### Смотрите также
 

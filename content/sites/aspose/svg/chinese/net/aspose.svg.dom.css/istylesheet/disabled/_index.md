@@ -16,7 +16,7 @@ public bool Disabled { get; set; }
 
 ### 适当的价值
 
-` true` 如果禁用；否则，` false` 。
+`真的`如果禁用；否则，`错误的` .
 
 ### 也可以看看
 

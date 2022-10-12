@@ -8,7 +8,7 @@ url: /ru/net/aspose.svg/isvgfittoviewbox/viewbox/
 ---
 ## ISVGFitToViewBox.ViewBox property
 
-Соответствует атрибуту 'viewBox' данного элемента.
+Соответствует атрибуту viewBox данного элемента.
 
 ```csharp
 public SVGAnimatedRect ViewBox { get; }
@@ -16,7 +16,7 @@ public SVGAnimatedRect ViewBox { get; }
 
 ### Стоимость имущества
 
-'viewBox' данного элемента.
+ViewBox данного элемента.
 
 ### Смотрите также
 

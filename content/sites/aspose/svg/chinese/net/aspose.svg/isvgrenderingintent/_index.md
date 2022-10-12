@@ -1,9 +1,9 @@
 ---
 title: ISVGRenderingIntent
 second_title: Aspose.SVG for .NET API 参考
-description: SVGRenderingIntent 接口定义了rendering-intent属性或描述符的可能值的枚举列表
+description: SVGRenderingIntent 接口定义了renderingintent属性或描述符的可能值的枚举列表
 type: docs
-weight: 2010
+weight: 2020
 url: /zh/net/aspose.svg/isvgrenderingintent/
 ---
 ## ISVGRenderingIntent interface

@@ -1,14 +1,14 @@
 ---
 title: Border
 second_title: Aspose.SVG for .NET API 参考
-description: 请参见 CSS2 中的边框属性定义
+description: 参见CSS2中的border属性定义
 type: docs
 weight: 80
 url: /zh/net/aspose.svg.dom.css/icss2properties/border/
 ---
 ## ICSS2Properties.Border property
 
-请参见 CSS2 中的边框属性定义。
+参见CSS2中的border属性定义。
 
 ```csharp
 public string Border { get; set; }

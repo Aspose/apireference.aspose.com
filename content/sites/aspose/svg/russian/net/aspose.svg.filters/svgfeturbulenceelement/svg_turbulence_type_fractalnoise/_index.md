@@ -8,7 +8,7 @@ url: /ru/net/aspose.svg.filters/svgfeturbulenceelement/svg_turbulence_type_fract
 ---
 ## SVGFETurbulenceElement.SVG_TURBULENCE_TYPE_FRACTALNOISE field
 
-Соответствует значению 'fractalNoise'.
+Соответствует значению fractalNoise.
 
 ```csharp
 public const ushort SVG_TURBULENCE_TYPE_FRACTALNOISE;

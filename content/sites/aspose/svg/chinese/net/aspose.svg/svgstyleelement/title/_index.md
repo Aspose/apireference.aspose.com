@@ -1,14 +1,14 @@
 ---
 title: Title
 second_title: Aspose.SVG for .NET API 参考
-description: 对应于给定元素的属性标题
+description: 对应于给定元素上的属性标题
 type: docs
 weight: 30
 url: /zh/net/aspose.svg/svgstyleelement/title/
 ---
 ## SVGStyleElement.Title property
 
-对应于给定元素的属性“标题”。
+对应于给定元素上的属性“标题”。
 
 ```csharp
 public string Title { get; set; }
@@ -22,7 +22,7 @@ public string Title { get; set; }
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception) | 代码[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err). 在尝试更改只读属性的值时引发。 |
+| [DOMException](../../../aspose.svg.dom/domexception) | 代码[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err) 在尝试更改只读属性的值时引发。 |
 
 ### 也可以看看
 

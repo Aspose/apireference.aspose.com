@@ -3,7 +3,7 @@ title: ICSSStyleRule
 second_title: Справочник по Aspose.SVG для .NET API
 description: Интерфейс CSSStyleRule представляет один набор правил в таблице стилей CSS.
 type: docs
-weight: 660
+weight: 650
 url: /ru/net/aspose.svg.dom.css/icssstylerule/
 ---
 ## ICSSStyleRule interface
@@ -18,7 +18,7 @@ public interface ICSSStyleRule : ICSSRule
 
 | Имя | Описание |
 | --- | --- |
-| [SelectorText](../../aspose.svg.dom.css/icssstylerule/selectortext) { get; } | Текстовое представление селектора для набора правил. Реализация могла удалить незначащие пробелы при анализе селектора. |
+| [SelectorText](../../aspose.svg.dom.css/icssstylerule/selectortext) { get; } | Текстовое представление селектора для набора правил. Реализация могла удалить незначительные пробелы при разборе селектора. |
 | [Style](../../aspose.svg.dom.css/icssstylerule/style) { get; } | Блок объявления этого набора правил. |
 
 ### Смотрите также

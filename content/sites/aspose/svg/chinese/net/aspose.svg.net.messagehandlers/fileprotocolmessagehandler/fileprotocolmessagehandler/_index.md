@@ -1,14 +1,14 @@
 ---
 title: FileProtocolMessageHandler
 second_title: Aspose.SVG for .NET API 参考
-description: 初始化FileProtocolMessageHandleraspose.svg.net.messagehandlers/fileprotocolmessagehandler类的新实例
+description: 初始化FileProtocolMessageHandleraspose.svg.net.messagehandlers/fileprotocolmessagehandler类.
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.net.messagehandlers/fileprotocolmessagehandler/fileprotocolmessagehandler/
 ---
 ## FileProtocolMessageHandler constructor
 
-初始化[`FileProtocolMessageHandler`](../../fileprotocolmessagehandler)类的新实例。
+初始化[`FileProtocolMessageHandler`](../../fileprotocolmessagehandler)类.
 
 ```csharp
 public FileProtocolMessageHandler()

@@ -3,7 +3,7 @@ title: MessageFilter
 second_title: Aspose.SVG for .NET API 参考
 description: 表示用于查询消息的不同类过滤器的抽象基类
 type: docs
-weight: 2280
+weight: 2290
 url: /zh/net/aspose.svg.net/messagefilter/
 ---
 ## MessageFilter class

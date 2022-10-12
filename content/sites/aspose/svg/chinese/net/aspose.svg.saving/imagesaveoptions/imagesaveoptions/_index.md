@@ -1,14 +1,14 @@
 ---
 title: ImageSaveOptions
 second_title: Aspose.SVG for .NET API 参考
-description: 初始化ImageSaveOptionsaspose.svg.saving/imagesaveoptions类的新实例Png将用作默认图像格式
+description: 初始化ImageSaveOptionsaspose.svg.saving/imagesaveoptions班级Png将用作默认图像格式
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.saving/imagesaveoptions/imagesaveoptions/
 ---
 ## ImageSaveOptions() {#constructor}
 
-初始化[`ImageSaveOptions`](../../imagesaveoptions)类的新实例；Png将用作默认图像格式。
+初始化[`ImageSaveOptions`](../../imagesaveoptions)班级;Png将用作默认图像格式。
 
 ```csharp
 public ImageSaveOptions()
@@ -24,7 +24,7 @@ public ImageSaveOptions()
 
 ## ImageSaveOptions(ImageFormat) {#constructor_1}
 
-图片格式[`ImageFormat`](../../../aspose.svg.rendering.image/imageformat)基于初始化
+图像格式[`ImageFormat`](../../../aspose.svg.rendering.image/imageformat)基于初始化
 
 ```csharp
 public ImageSaveOptions(ImageFormat format)
@@ -32,7 +32,7 @@ public ImageSaveOptions(ImageFormat format)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| format | ImageFormat | 图片格式 |
+| format | ImageFormat | 图像格式 |
 
 ### 也可以看看
 

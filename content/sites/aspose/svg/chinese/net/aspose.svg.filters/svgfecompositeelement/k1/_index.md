@@ -1,14 +1,14 @@
 ---
 title: K1
 second_title: Aspose.SVG for .NET API 参考
-description: 对应于给定 feComposite 元素的属性 k1
+description: 对应于给定feComposite元素的属性k1
 type: docs
 weight: 40
 url: /zh/net/aspose.svg.filters/svgfecompositeelement/k1/
 ---
 ## SVGFECompositeElement.K1 property
 
-对应于给定 'feComposite' 元素的属性 'k1'。
+对应于给定“feComposite”元素的属性“k1”。
 
 ```csharp
 public SVGAnimatedNumber K1 { get; }

@@ -1,14 +1,14 @@
 ---
 title: Color
 second_title: Aspose.SVG for .NET API 参考
-description: 获取代表颜色的颜色用于沿渐变的相应位置
+description: 获取表示沿渐变的相应位置使用的颜色的颜色
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.drawing/iinterpolationcolor/color/
 ---
 ## IInterpolationColor.Color property
 
-获取代表颜色的颜色，用于沿渐变的相应位置。
+获取表示沿渐变的相应位置使用的颜色的颜色。
 
 ```csharp
 public Color Color { get; }

@@ -1,14 +1,14 @@
 ---
 title: PreviousSibling
 second_title: Aspose.SVG for .NET API 参考
-description: 返回添加或删除节点的前一个兄弟节点或 null
+description: 返回添加或删除节点的上一个兄弟节点或 null
 type: docs
 weight: 60
 url: /zh/net/aspose.svg.dom.mutations/mutationrecord/previoussibling/
 ---
 ## MutationRecord.PreviousSibling property
 
-返回添加或删除节点的前一个兄弟节点，或 null。
+返回添加或删除节点的上一个兄弟节点，或 null。
 
 ```csharp
 public Node PreviousSibling { get; }
@@ -16,7 +16,7 @@ public Node PreviousSibling { get; }
 
 ### 适当的价值
 
-上一个兄弟。
+上一个兄弟姐妹。
 
 ### 也可以看看
 

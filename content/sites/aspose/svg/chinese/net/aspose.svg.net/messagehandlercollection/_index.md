@@ -1,14 +1,14 @@
 ---
 title: MessageHandlerCollection
 second_title: Aspose.SVG for .NET API 参考
-description: 表示MessageHandler./messagehandler的集合
+description: 代表集合MessageHandler./messagehandler .
 type: docs
-weight: 2310
+weight: 2320
 url: /zh/net/aspose.svg.net/messagehandlercollection/
 ---
 ## MessageHandlerCollection class
 
-表示[`MessageHandler`](../messagehandler)的集合。
+代表集合[`MessageHandler`](../messagehandler) .
 
 ```csharp
 public class MessageHandlerCollection : Collection<MessageHandler>

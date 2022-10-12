@@ -1,7 +1,7 @@
 ---
 title: ContentType
 second_title: Справочник по Aspose.SVG для .NET API
-description: Получает значение заголовка Content-Type.
+description: Получает значение заголовка ContentType.
 type: docs
 weight: 20
 url: /ru/net/aspose.svg.net/contentheaders/contenttype/

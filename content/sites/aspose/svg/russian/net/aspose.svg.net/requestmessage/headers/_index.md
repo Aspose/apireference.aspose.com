@@ -1,14 +1,14 @@
 ---
 title: Headers
 second_title: Справочник по Aspose.SVG для .NET API
-description: ПолучаетRequestHeadersaspose.svg.net/requestheaders.
+description: ПолучаетRequestHeadersaspose.svg.net/requestheaders .
 type: docs
 weight: 50
 url: /ru/net/aspose.svg.net/requestmessage/headers/
 ---
 ## RequestMessage.Headers property
 
-Получает[`RequestHeaders`](../../requestheaders).
+Получает[`RequestHeaders`](../../requestheaders) .
 
 ```csharp
 public RequestHeaders Headers { get; }

@@ -1,14 +1,14 @@
 ---
 title: AnimatedPoints
 second_title: Aspose.SVG for .NET API 参考
-description: 提供对points属性的当前动画内容的访问如果给定的属性或属性正在被动画化则包含属性或属性的当前动画值如果给定的属性或属性当前没有被动画化则包含与点相同的值
+description: 提供对points属性的当前动画内容的访问如果给定的属性或属性正在被动画化则包含属性或属性的当前动画值如果给定的属性或属性当前没有被动画化则包含与 points. 相同的值
 type: docs
 weight: 10
 url: /zh/net/aspose.svg/svgpolygonelement/animatedpoints/
 ---
 ## SVGPolygonElement.AnimatedPoints property
 
-提供对“points”属性的当前动画内容的访问。如果给定的属性或属性正在被动画化，则包含属性或属性的当前动画值。如果给定的属性或属性当前没有被动画化，则包含与点相同的值。
+提供对“points”属性的当前动画内容的访问。如果给定的属性或属性正在被动画化，则包含属性或属性的当前动画值。如果给定的属性或属性当前没有被动画化，则包含与 points. 相同的值
 
 ```csharp
 public SVGPointList AnimatedPoints { get; }

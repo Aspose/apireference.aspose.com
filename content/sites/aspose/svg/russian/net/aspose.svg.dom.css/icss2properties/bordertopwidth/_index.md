@@ -1,7 +1,7 @@
 ---
 title: BorderTopWidth
 second_title: Справочник по Aspose.SVG для .NET API
-description: См. определение свойства border-top-width в CSS2.
+description: См. определение свойства bordertopwidth в CSS2.
 type: docs
 weight: 280
 url: /ru/net/aspose.svg.dom.css/icss2properties/bordertopwidth/

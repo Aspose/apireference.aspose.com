@@ -1,14 +1,14 @@
 ---
 title: PlatformException
 second_title: Aspose.SVG for .NET API 参考
-description: 初始化PlatformExceptionaspose.svg/platformexception类的新实例
+description: 初始化PlatformExceptionaspose.svg/platformexception类.
 type: docs
 weight: 10
 url: /zh/net/aspose.svg/platformexception/platformexception/
 ---
 ## PlatformException() {#constructor}
 
-初始化[`PlatformException`](../../platformexception)类的新实例。
+初始化[`PlatformException`](../../platformexception)类.
 
 ```csharp
 public PlatformException()
@@ -24,7 +24,7 @@ public PlatformException()
 
 ## PlatformException(string) {#constructor_1}
 
-使用指定的错误消息初始化[`PlatformException`](../../platformexception)类的新实例。
+初始化[`PlatformException`](../../platformexception)具有指定错误消息的类。
 
 ```csharp
 public PlatformException(string message)
@@ -44,7 +44,7 @@ public PlatformException(string message)
 
 ## PlatformException(string, Exception) {#constructor_2}
 
-初始化[`PlatformException`](../../platformexception)类的新实例，其中包含指定的错误消息和对导致此异常的内部异常的引用.
+初始化[`PlatformException`](../../platformexception)具有指定错误消息的类和对导致此异常的内部异常的引用。
 
 ```csharp
 public PlatformException(string message, Exception innerException)

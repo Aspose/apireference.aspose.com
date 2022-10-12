@@ -16,7 +16,7 @@ public void DeleteMedium(string oldMedium)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| oldMedium | String | Старый носитель. |
+| oldMedium | String | Старая среда. |
 
 ### Смотрите также
 

@@ -16,11 +16,11 @@ public float GetAscent(float fontSize)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| fontSize | Single | 字体大小。 |
+| fontSize | Single | 字体的大小。 |
 
 ### 返回值
 
-上升点数。
+上升点。
 
 ### 也可以看看
 

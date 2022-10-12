@@ -1,14 +1,14 @@
 ---
 title: IXPathExpression
 second_title: Aspose.SVG for .NET API 参考
-description:  XPathExpression 接口表示已解析和解析的 XPath 表达式
+description: 的XPath 表达式接口表示一个已解析并解析的 XPath 表达式
 type: docs
-weight: 1330
+weight: 1320
 url: /zh/net/aspose.svg.dom.xpath/ixpathexpression/
 ---
 ## IXPathExpression interface
 
-` XPathExpression` 接口表示已解析和解析的 XPath 表达式。
+的`XPath 表达式`接口表示一个已解析并解析的 XPath 表达式。
 
 ```csharp
 public interface IXPathExpression

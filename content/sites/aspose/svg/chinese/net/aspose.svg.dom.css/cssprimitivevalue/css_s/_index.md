@@ -1,14 +1,14 @@
 ---
 title: CSS_S
 second_title: Aspose.SVG for .NET API 参考
-description: 值是时间 s可以使用 getFloatValue 方法获取该值
+description: 该值为时间s该值可以通过getFloatValue方法获取
 type: docs
 weight: 380
 url: /zh/net/aspose.svg.dom.css/cssprimitivevalue/css_s/
 ---
 ## CSSPrimitiveValue.CSS_S field
 
-值是时间 (s)。可以使用 getFloatValue 方法获取该值。
+该值为时间（s）。该值可以通过getFloatValue方法获取。
 
 ```csharp
 public const ushort CSS_S;

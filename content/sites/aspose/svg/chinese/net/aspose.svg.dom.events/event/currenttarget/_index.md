@@ -1,14 +1,14 @@
 ---
 title: CurrentTarget
 second_title: Aspose.SVG for .NET API 参考
-description: 用于表示IEventTargetaspose.svg.dom.events/ieventtarget的IEventListeneraspose.svg.dom.events/ieventlisteners 当前正在处理中 这在捕获和冒泡时特别有用
+description: 用来表示IEventTargetaspose.svg.dom.events/ieventtarget谁的IEventListeneraspose.svg.dom.events/ieventlistener 当前正在处理中 这在捕获和冒泡期间特别有用
 type: docs
 weight: 40
 url: /zh/net/aspose.svg.dom.events/event/currenttarget/
 ---
 ## Event.CurrentTarget property
 
-用于表示[`IEventTarget`](../../ieventtarget)的[`IEventListener`](../../ieventlistener)s 当前正在处理中。 这在捕获和冒泡时特别有用。
+用来表示[`IEventTarget`](../../ieventtarget)谁的[`IEventListener`](../../ieventlistener) 当前正在处理中。 这在捕获和冒泡期间特别有用。
 
 ```csharp
 public EventTarget CurrentTarget { get; }

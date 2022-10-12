@@ -1,14 +1,14 @@
 ---
 title: Angle
 second_title: Справочник по Aspose.SVG для .NET API
-description: Удобный атрибут для SVG_TRANSFORM_ROTATE SVG_TRANSFORM_SKEWX и SVG_TRANSFORM_SKEWY. Он удерживает заданный угол. Для SVG_TRANSFORM_MATRIX SVG_TRANSFORM_TRANSLATE и SVG_TRANSFORM_SCALE угол будет равен нулю.
+description: Удобный атрибут для SVG_TRANSFORM_ROTATE SVG_TRANSFORM_SKEWX и SVG_TRANSFORM_SKEWY. Он содержит указанный угол. Для SVG_TRANSFORM_MATRIX SVG_TRANSFORM_TRANSLATE и SVG_TRANSFORM_SCALE угол будет равен нулю.
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.datatypes/svgtransform/angle/
 ---
 ## SVGTransform.Angle property
 
-Удобный атрибут для SVG_TRANSFORM_ROTATE, SVG_TRANSFORM_SKEWX и SVG_TRANSFORM_SKEWY. Он удерживает заданный угол. Для SVG_TRANSFORM_MATRIX, SVG_TRANSFORM_TRANSLATE и SVG_TRANSFORM_SCALE угол будет равен нулю.
+Удобный атрибут для SVG_TRANSFORM_ROTATE, SVG_TRANSFORM_SKEWX и SVG_TRANSFORM_SKEWY. Он содержит указанный угол. Для SVG_TRANSFORM_MATRIX, SVG_TRANSFORM_TRANSLATE и SVG_TRANSFORM_SCALE угол будет равен нулю.
 
 ```csharp
 public float Angle { get; }

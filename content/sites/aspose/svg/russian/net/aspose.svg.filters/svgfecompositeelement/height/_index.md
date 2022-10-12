@@ -8,7 +8,7 @@ url: /ru/net/aspose.svg.filters/svgfecompositeelement/height/
 ---
 ## SVGFECompositeElement.Height property
 
-Соответствует атрибуту 'высота' данного элемента 'фильтра'.
+Соответствует атрибуту "высота" данного элемента "фильтра".
 
 ```csharp
 public SVGAnimatedLength Height { get; }
@@ -16,7 +16,7 @@ public SVGAnimatedLength Height { get; }
 
 ### Стоимость имущества
 
-Атрибут 'высота' данного элемента 'фильтра'.
+Атрибут «высота» данного элемента «фильтр».
 
 ### Смотрите также
 

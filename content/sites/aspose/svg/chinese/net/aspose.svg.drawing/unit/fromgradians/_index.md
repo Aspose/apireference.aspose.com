@@ -1,14 +1,14 @@
 ---
 title: FromGradians
 second_title: Aspose.SVG for .NET API 参考
-description: 返回一个以梯度表示的Angleaspose.svg.drawing/angle对象
+description: 返回一个Angleaspose.svg.drawing/angle以梯度表示的对象.
 type: docs
 weight: 100
 url: /zh/net/aspose.svg.drawing/unit/fromgradians/
 ---
 ## Unit.FromGradians method
 
-返回一个以梯度表示的[`Angle`](../../angle)对象。
+返回一个[`Angle`](../../angle)以梯度表示的对象.
 
 ```csharp
 public static Angle FromGradians(double value)
@@ -16,11 +16,11 @@ public static Angle FromGradians(double value)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| value | Double | 值。 |
+| value | Double | 价值。 |
 
 ### 返回值
 
-返回一个[`Angle`](../../angle)对象。
+返回一个[`Angle`](../../angle)目的。
 
 ### 也可以看看
 

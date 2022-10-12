@@ -1,14 +1,14 @@
 ---
 title: FirstChild
 second_title: Справочник по Aspose.SVG для .NET API
-description: Первый потомок этого узла. Если такого узла нет возвращается null.
+description: Первый дочерний элемент этого узла. Если такого узла нет возвращается null.
 type: docs
 weight: 40
 url: /ru/net/aspose.svg.dom/node/firstchild/
 ---
 ## Node.FirstChild property
 
-Первый потомок этого узла. Если такого узла нет, возвращается null.
+Первый дочерний элемент этого узла. Если такого узла нет, возвращается null.
 
 ```csharp
 public Node FirstChild { get; }

@@ -1,14 +1,14 @@
 ---
 title: FromRadians
 second_title: Справочник по Aspose.SVG для .NET API
-description: Возвращает объектAngleaspose.svg.drawing/angle представленный в радианах.
+description: ВозвращаетAngleaspose.svg.drawing/angle объект представленный в радианах.
 type: docs
 weight: 200
 url: /ru/net/aspose.svg.drawing/unit/fromradians/
 ---
 ## Unit.FromRadians method
 
-Возвращает объект[`Angle`](../../angle), представленный в радианах.
+Возвращает[`Angle`](../../angle) объект, представленный в радианах.
 
 ```csharp
 public static Angle FromRadians(double value)
@@ -20,7 +20,7 @@ public static Angle FromRadians(double value)
 
 ### Возвращаемое значение
 
-Возвращает объект[`Angle`](../../angle).
+Возвращает[`Angle`](../../angle) объект.
 
 ### Смотрите также
 

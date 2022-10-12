@@ -22,8 +22,8 @@ public string ValueAsString { get; set; }
 
 | исключение | условие |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception) | Код[`SYNTAX_ERR`](../../../aspose.svg.dom/domexception/syntax_err) Возникает, если назначенная строка не может быть проанализирована как допустимая длина. |
-| [DOMException](../../../aspose.svg.dom/domexception) | Код[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err) Возникает, когда длина соответствует атрибуту только для чтения или когда сам объект доступен только для чтения. |
+| [DOMException](../../../aspose.svg.dom/domexception) | код[`SYNTAX_ERR`](../../../aspose.svg.dom/domexception/syntax_err) Возникает, если назначенная строка не может быть проанализирована как допустимая длина. |
+| [DOMException](../../../aspose.svg.dom/domexception) | код[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err) Возникает, когда длина соответствует атрибуту только для чтения или когда сам объект доступен только для чтения. |
 
 ### Смотрите также
 

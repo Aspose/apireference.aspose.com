@@ -8,7 +8,7 @@ url: /zh/net/aspose.svg.rendering/device-2.deviceconfiguration-2/pagewritingstra
 ---
 ## Device&lt;TGraphicContext,TRenderingOptions&gt;.DeviceConfiguration&lt;TGraphicContext,TRenderingOptions&gt;.PageWritingStrategy property
 
-获取或设置页面写入策略。
+获取或设置页面写入策略
 
 ```csharp
 public PageWritingStrategy<TGraphicContext, TRenderingOptions> PageWritingStrategy { get; set; }
@@ -16,7 +16,7 @@ public PageWritingStrategy<TGraphicContext, TRenderingOptions> PageWritingStrate
 
 ### 适当的价值
 
-页面写入策略。
+页面写入策略.
 
 ### 也可以看看
 

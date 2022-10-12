@@ -1,7 +1,7 @@
 ---
 title: Document
 second_title: Справочник по Aspose.SVG для .NET API
-description: Это свойство представляет документ-владелец.
+description: Это свойство представляет документвладелец.
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.dom/ielementinit/document/

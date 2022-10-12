@@ -1,14 +1,14 @@
 ---
 title: CSS_DEG
 second_title: Aspose.SVG for .NET API 参考
-description: 该值为角度度可以使用 getFloatValue 方法获取该值
+description: 该值为角度度该值可以通过getFloatValue方法获取
 type: docs
 weight: 150
 url: /zh/net/aspose.svg.dom.css/cssprimitivevalue/css_deg/
 ---
 ## CSSPrimitiveValue.CSS_DEG field
 
-该值为角度（度）。可以使用 getFloatValue 方法获取该值。
+该值为角度（度）。该值可以通过getFloatValue方法获取。
 
 ```csharp
 public const ushort CSS_DEG;

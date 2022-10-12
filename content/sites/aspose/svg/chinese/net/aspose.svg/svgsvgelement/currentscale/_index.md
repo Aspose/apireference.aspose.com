@@ -1,14 +1,14 @@
 ---
 title: CurrentScale
 second_title: Aspose.SVG for .NET API 参考
-description: 在最外层的 svg 元素上此属性指示相对于初始视图的当前比例因子以考虑用户放大和平移操作如放大和平移下所述 DOM 属性 currentScale 和 currentTranslate 等价于 2x3 矩阵 abcdef  currentScale 0 0 currentScale currentTranslate.x currentTranslate.y如果启用了放大即zoomAndPanmagnify那么效果就好像在 SVG 文档片段的最外层即最外层 svg 元素之外放置了一个额外的转换 在不是最外层 svg 元素的 svg 元素上访问时该属性的行为是未定义的
+description: 在最外面的 svg 元素上此属性指示相对于初始视图的当前比例因子以考虑用户放大和平移操作如放大和平移下所述 DOM 属性 currentScale 和 currentTranslate 等价于 2x3 矩阵 abcdef  currentScale 0 0 currentScale currentTranslate.x currentTranslate.y如果启用放大即 zoomAndPanmagnify则效果就像在 SVG 文档片段的最外层即最外层 svg 元素之外放置了一个额外的转换 访问时一个svg元素它不是最外层的svg元素这个属性有什么行为是未定义的
 type: docs
 weight: 10
 url: /zh/net/aspose.svg/svgsvgelement/currentscale/
 ---
 ## SVGSVGElement.CurrentScale property
 
-在最外层的 svg 元素上，此属性指示相对于初始视图的当前比例因子，以考虑用户放大和平移操作，如放大和平移下所述。 DOM 属性 currentScale 和 currentTranslate 等价于 2x3 矩阵 [abcdef] = [currentScale 0 0 currentScale currentTranslate.x currentTranslate.y]。如果启用了“放大”（即，zoomAndPan="magnify"），那么效果就好像在 SVG 文档片段的最外层（即最外层 svg 元素之外）放置了一个额外的转换。 在不是最外层 svg 元素的 'svg' 元素上访问时，该属性的行为是未定义的。
+在最外面的 svg 元素上，此属性指示相对于初始视图的当前比例因子，以考虑用户放大和平移操作，如放大和平移下所述。 DOM 属性 currentScale 和 currentTranslate 等价于 2x3 矩阵 [abcdef] = [currentScale 0 0 currentScale currentTranslate.x currentTranslate.y]。如果启用“放大”（即 zoomAndPan="magnify"），则效果就像在 SVG 文档片段的最外层（即最外层 svg 元素之外）放置了一个额外的转换。 访问时一个'svg'元素，它不是最外层的svg元素，这个属性有什么行为是未定义的。
 
 ```csharp
 public float CurrentScale { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: GetElementsByClassName
 second_title: Aspose.SVG for .NET API 参考
-description: 返回一个活动的 NodeList 对象该对象包含文档中具有参数中指定的所有类的所有元素 http//www.w3.org/TR/dom/
+description: 返回一个活动的 NodeList 对象其中包含文档中具有参数中指定的所有类的所有元素 http//www.w3.org/TR/dom/
 type: docs
 weight: 970
 url: /zh/net/aspose.svg.dom/document/getelementsbyclassname/
 ---
 ## Document.GetElementsByClassName method
 
-返回一个活动的 NodeList 对象，该对象包含文档中具有参数中指定的所有类的所有元素。 http://www.w3.org/TR/dom/
+返回一个活动的 NodeList 对象，其中包含文档中具有参数中指定的所有类的所有元素。 http://www.w3.org/TR/dom/
 
 ```csharp
 public HTMLCollection GetElementsByClassName(string classNames)
@@ -16,11 +16,11 @@ public HTMLCollection GetElementsByClassName(string classNames)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| classNames | String | 包含一组无序唯一空格的字符串-表示类（类名）的分隔标记 |
+| classNames | String | 包含一组无序的唯一空格分隔标记的字符串字符串，表示类（类名） |
 
 ### 返回值
 
-[`Element`](../../element)。
+的[`Element`](../../element) .
 
 ### 也可以看看
 

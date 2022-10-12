@@ -1,14 +1,14 @@
 ---
 title: SmoothingMode
 second_title: Справочник по Aspose.SVG для .NET API
-description: Получает или задает качество рендеринга для этого объекта Graphics.
+description: Получает или задает качество рендеринга для этой графики.
 type: docs
 weight: 50
 url: /ru/net/aspose.svg.rendering.image/imagerenderingoptions/smoothingmode/
 ---
 ## ImageRenderingOptions.SmoothingMode property
 
-Получает или задает качество рендеринга для этого объекта Graphics.
+Получает или задает качество рендеринга для этой графики.
 
 ```csharp
 public SmoothingMode SmoothingMode { get; set; }

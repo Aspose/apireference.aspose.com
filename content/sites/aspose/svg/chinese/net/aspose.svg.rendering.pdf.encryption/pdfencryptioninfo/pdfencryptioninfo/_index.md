@@ -1,14 +1,14 @@
 ---
 title: PdfEncryptionInfo
 second_title: Aspose.SVG for .NET API 参考
-description: 初始化PdfEncryptionInfoaspose.svg.rendering.pdf.encryption/pdfencryptioninfo类的新实例
+description: 初始化PdfEncryptionInfoaspose.svg.rendering.pdf.encryption/pdfencryptioninfo类.
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.rendering.pdf.encryption/pdfencryptioninfo/pdfencryptioninfo/
 ---
 ## PdfEncryptionInfo constructor
 
-初始化[`PdfEncryptionInfo`](../../pdfencryptioninfo)类的新实例。
+初始化[`PdfEncryptionInfo`](../../pdfencryptioninfo)类.
 
 ```csharp
 public PdfEncryptionInfo(string userPassword, string ownerPassword, PdfPermissions permissions, 

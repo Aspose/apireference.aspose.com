@@ -17,11 +17,11 @@ public Element CreateElementNS(string namespaceURI, string qualifiedName)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | namespaceURI | String | 命名空间 URI。 |
-| qualifiedName | String | 合格的名称。 |
+| qualifiedName | String | 合格者的姓名。 |
 
 ### 返回值
 
-[`Element`](../../element)。
+的[`Element`](../../element) .
 
 ### 也可以看看
 

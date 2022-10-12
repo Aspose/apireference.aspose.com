@@ -1,14 +1,14 @@
 ---
 title: Pitch
 second_title: Aspose.SVG for .NET API 参考
-description: 参见 CSS2 中的 pitch 属性定义
+description: 见 CSS2 中的 pitch 属性定义
 type: docs
 weight: 920
 url: /zh/net/aspose.svg.dom.css/icss2properties/pitch/
 ---
 ## ICSS2Properties.Pitch property
 
-参见 CSS2 中的 pitch 属性定义。
+见 CSS2 中的 pitch 属性定义。
 
 ```csharp
 public string Pitch { get; set; }
@@ -16,7 +16,7 @@ public string Pitch { get; set; }
 
 ### 返回值
 
-间距属性
+沥青属性
 
 ### 也可以看看
 

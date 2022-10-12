@@ -1,14 +1,14 @@
 ---
 title: Position
 second_title: Aspose.SVG for .NET API 参考
-description: 参见 CSS2 中的 position 属性定义
+description: 见CSS2中的位置属性定义
 type: docs
 weight: 950
 url: /zh/net/aspose.svg.dom.css/icss2properties/position/
 ---
 ## ICSS2Properties.Position property
 
-参见 CSS2 中的 position 属性定义。
+见CSS2中的位置属性定义。
 
 ```csharp
 public string Position { get; set; }

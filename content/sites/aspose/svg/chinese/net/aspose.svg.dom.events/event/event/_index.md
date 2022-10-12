@@ -1,14 +1,14 @@
 ---
 title: Event
 second_title: Aspose.SVG for .NET API 参考
-description: 初始化Eventaspose.svg.dom.events/event类的新实例
+description: 初始化Eventaspose.svg.dom.events/event类.
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.dom.events/event/event/
 ---
 ## Event(string) {#constructor}
 
-初始化[`Event`](../../event)类的新实例。
+初始化[`Event`](../../event)类.
 
 ```csharp
 public Event(string type)
@@ -28,7 +28,7 @@ public Event(string type)
 
 ## Event(string, IDictionary&lt;string, object&gt;) {#constructor_1}
 
-初始化[`Event`](../../event)类的新实例。
+初始化[`Event`](../../event)类.
 
 ```csharp
 public Event(string type, IDictionary<string, object> eventInitDict)

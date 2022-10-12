@@ -1,14 +1,14 @@
 ---
 title: Value
 second_title: Aspose.SVG for .NET API 参考
-description: 浮点值以用户为单位设置此属性将导致 valueInSpecifiedUnits 和 valueAsString 自动更新以反映此设置
+description: 作为浮点值的值以用户为单位设置此属性将导致 valueInSpecifiedUnits 和 valueAsString 自动更新以反映此设置
 type: docs
 weight: 20
 url: /zh/net/aspose.svg.datatypes/svglength/value/
 ---
 ## SVGLength.Value property
 
-浮点值，以用户为单位。设置此属性将导致 valueInSpecifiedUnits 和 valueAsString 自动更新以反映此设置。
+作为浮点值的值，以用户为单位。设置此属性将导致 valueInSpecifiedUnits 和 valueAsString 自动更新以反映此设置。
 
 ```csharp
 public float Value { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: Name
 second_title: Aspose.SVG for .NET API 参考
-description: 文件名 在获取时它必须以字符串形式返回文件名
+description: 文件名 获取时必须以字符串形式返回文件名
 type: docs
 weight: 20
 url: /zh/net/aspose.svg.io/ifile/name/
 ---
 ## IFile.Name property
 
-文件名。 在获取时，它必须以字符串形式返回文件名。
+文件名。 获取时，必须以字符串形式返回文件名。
 
 ```csharp
 public string Name { get; }

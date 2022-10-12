@@ -1,14 +1,14 @@
 ---
 title: HttpMethod
 second_title: Справочник по Aspose.SVG для .NET API
-description: Инициализирует новый экземпляр классаHttpMethodaspose.svg.net/httpmethodс помощью определенного метода HTTP.
+description: Инициализирует новый экземплярHttpMethodaspose.svg.net/httpmethod класс с определенным методом HTTP.
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.net/httpmethod/httpmethod/
 ---
 ## HttpMethod constructor
 
-Инициализирует новый экземпляр класса[`HttpMethod`](../../httpmethod)с помощью определенного метода HTTP.
+Инициализирует новый экземпляр[`HttpMethod`](../../httpmethod) класс с определенным методом HTTP.
 
 ```csharp
 public HttpMethod(string method)

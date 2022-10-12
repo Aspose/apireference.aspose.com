@@ -1,14 +1,14 @@
 ---
 title: PreviousNode
 second_title: Aspose.SVG for .NET API 参考
-description: 将 TreeWalker 移动到 文档顺序中相对于当前节点的上一个可见节点并返回新的 节点如果当前节点没有前一个节点或者搜索 previousNode 尝试从 TreeWalker 的根节点向上跳返回 null并保留当前节点
+description: 将 TreeWalker 移动到上一个可见节点 in 相对于当前节点的文档顺序并返回 new 节点如果当前节点没有前一个节点或者搜索 previousNode尝试从 TreeWalker的根节点上一步返回 null并保留当前节点
 type: docs
 weight: 70
 url: /zh/net/aspose.svg.dom.traversal/itreewalker/previousnode/
 ---
 ## ITreeWalker.PreviousNode method
 
-将 TreeWalker 移动到 文档顺序中相对于当前节点的上一个可见节点，并返回新的 节点。如果当前节点没有前一个节点，或者搜索 previousNode 尝试从 TreeWalker 的根节点向上跳，返回 null，并保留当前节点。
+将 TreeWalker 移动到上一个可见节点 in 相对于当前节点的文档顺序，并返回 new 节点。如果当前节点没有前一个节点，或者搜索 previousNode尝试从 TreeWalker的根节点上一步，返回 null，并保留当前节点。
 
 ```csharp
 public Node PreviousNode()

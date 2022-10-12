@@ -1,14 +1,14 @@
 ---
 title: Transform
 second_title: Aspose.SVG for .NET API 参考
-description: 对应于给定元素的属性转换
+description: 对应于给定元素的变换属性
 type: docs
 weight: 20
 url: /zh/net/aspose.svg/svgclippathelement/transform/
 ---
 ## SVGClipPathElement.Transform property
 
-对应于给定元素的属性“转换”。
+对应于给定元素的“变换”属性。
 
 ```csharp
 public SVGAnimatedTransformList Transform { get; }

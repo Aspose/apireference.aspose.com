@@ -1,14 +1,14 @@
 ---
 title: PATHSEG_CURVETO_QUADRATIC_REL
 second_title: Aspose.SVG for .NET API 参考
-description: 对应于相对二次贝塞尔曲线q 路径数据命令
+description: 对应于相对二次贝塞尔曲线q路径数据命令
 type: docs
 weight: 110
 url: /zh/net/aspose.svg.paths/svgpathseg/pathseg_curveto_quadratic_rel/
 ---
 ## SVGPathSeg.PATHSEG_CURVETO_QUADRATIC_REL field
 
-对应于“相对二次贝塞尔曲线”(q) 路径数据命令。
+对应于“相对二次贝塞尔曲线”（q）路径数据命令。
 
 ```csharp
 public const ushort PATHSEG_CURVETO_QUADRATIC_REL;

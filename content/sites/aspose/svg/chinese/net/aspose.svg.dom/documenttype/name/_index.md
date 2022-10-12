@@ -8,7 +8,7 @@ url: /zh/net/aspose.svg.dom/documenttype/name/
 ---
 ## DocumentType.Name property
 
-DTD 的名称；即，紧跟在 DOCTYPE 关键字之后的名称。
+DTD 的名称；即紧跟在 DOCTYPE 关键字之后的名称。
 
 ```csharp
 public string Name { get; }

@@ -8,7 +8,7 @@ url: /ru/net/aspose.svg/svglineargradientelement/x1/
 ---
 ## SVGLinearGradientElement.X1 property
 
-Соответствует атрибуту 'x1' данного элемента 'linearGradient'.
+Соответствует атрибуту «x1» данного элемента «linearGradient».
 
 ```csharp
 public SVGAnimatedLength X1 { get; }
@@ -16,7 +16,7 @@ public SVGAnimatedLength X1 { get; }
 
 ### Стоимость имущества
 
-Атрибут 'x1' данного элемента 'linearGradient'.
+Атрибут «x1» данного элемента «linearGradient».
 
 ### Смотрите также
 

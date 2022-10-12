@@ -3,7 +3,7 @@ title: SVGPathSegList
 second_title: Справочник по Aspose.SVG для .NET API
 description: Этот интерфейс определяет список объектов SVGPathSeg.
 type: docs
-weight: 2630
+weight: 2640
 url: /ru/net/aspose.svg.paths/svgpathseglist/
 ---
 ## SVGPathSegList class
@@ -18,8 +18,8 @@ public class SVGPathSegList : SVGListBase<SVGPathSeg>
 
 | Имя | Описание |
 | --- | --- |
-| [SVGPathSegList](svgpathseglist#constructor)() | Инициализирует новый экземпляр класса[`SVGPathSegList`](../svgpathseglist). |
-| [SVGPathSegList](svgpathseglist#constructor_1)(IEnumerable&lt;SVGPathSeg&gt;) | Инициализирует новый экземпляр класса[`SVGPathSegList`](../svgpathseglist). |
+| [SVGPathSegList](svgpathseglist#constructor)() | Инициализирует новый экземпляр[`SVGPathSegList`](../svgpathseglist) класс. |
+| [SVGPathSegList](svgpathseglist#constructor_1)(IEnumerable&lt;SVGPathSeg&gt;) | Инициализирует новый экземпляр[`SVGPathSegList`](../svgpathseglist) класс. |
 
 ## Характеристики
 
@@ -38,7 +38,7 @@ public class SVGPathSegList : SVGListBase<SVGPathSeg>
 | [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose)() | Освобождает неуправляемые и (необязательно) управляемые ресурсы. |
 | [GetEnumerator](../../aspose.svg.collections/svglistbase`1/getenumerator)() |  |
 | [GetItem](../../aspose.svg.collections/svglistbase`1/getitem)(ulong) |  |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | Этот метод используется для получения объекта ECMAScriptType. |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | Этот метод используется для получения объекта ECMAScript.Type . |
 | [Initialize](../../aspose.svg.collections/svglistbase`1/initialize)(SVGPathSeg) |  |
 | [InsertItemBefore](../../aspose.svg.collections/svglistbase`1/insertitembefore)(SVGPathSeg, ulong) |  |
 | [RemoveItem](../../aspose.svg.collections/svglistbase`1/removeitem)(ulong) |  |

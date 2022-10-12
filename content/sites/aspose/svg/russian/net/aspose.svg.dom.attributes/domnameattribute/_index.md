@@ -3,7 +3,7 @@ title: DOMNameAttribute
 second_title: Справочник по Aspose.SVG для .NET API
 description: Указывает официальное имя объекта DOM как оно определено W3C.
 type: docs
-weight: 390
+weight: 380
 url: /ru/net/aspose.svg.dom.attributes/domnameattribute/
 ---
 ## DOMNameAttribute class
@@ -19,7 +19,7 @@ public sealed class DOMNameAttribute : Attribute
 
 | Имя | Описание |
 | --- | --- |
-| [DOMNameAttribute](domnameattribute)(string) | Инициализирует новый экземпляр класса[`DOMNameAttribute`](../domnameattribute). |
+| [DOMNameAttribute](domnameattribute)(string) | Инициализирует новый экземпляр[`DOMNameAttribute`](../domnameattribute) класс. |
 
 ## Характеристики
 

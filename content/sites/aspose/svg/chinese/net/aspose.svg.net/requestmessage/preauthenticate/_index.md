@@ -16,7 +16,7 @@ public bool PreAuthenticate { get; set; }
 
 ### 适当的价值
 
-` true` 在身份验证发生后发送带有请求的 HTTP 授权标头；否则，` false` 。默认值为` false` 。
+`真的`在身份验证发生后发送带有请求的 HTTP 授权标头；否则，`错误的` .默认是`错误的` .
 
 ### 也可以看看
 

@@ -1,7 +1,7 @@
 ---
 title: BorderColor
 second_title: Справочник по Aspose.SVG для .NET API
-description: См. определение свойства border-color в CSS2.
+description: См. определение свойства bordercolor в CSS2.
 type: docs
 weight: 140
 url: /ru/net/aspose.svg.dom.css/icss2properties/bordercolor/

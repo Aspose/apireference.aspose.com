@@ -17,11 +17,11 @@ public Node ImportNode(Node importedNode, bool deep)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | importedNode | Node | Импортированный узел. |
-| deep | Boolean | , если установлено значение` true` [глубокий]. |
+| deep | Boolean | если установлено`истинный` [глубокий]. |
 
 ### Возвращаемое значение
 
-[`Node`](../../node).
+[`Node`](../../node) .
 
 ### Смотрите также
 

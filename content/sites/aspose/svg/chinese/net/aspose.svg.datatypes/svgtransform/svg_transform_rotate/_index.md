@@ -1,14 +1,14 @@
 ---
 title: SVG_TRANSFORM_ROTATE
 second_title: Aspose.SVG for .NET API 参考
-description: 一个旋转变换
+description: 旋转转换
 type: docs
 weight: 120
 url: /zh/net/aspose.svg.datatypes/svgtransform/svg_transform_rotate/
 ---
 ## SVGTransform.SVG_TRANSFORM_ROTATE field
 
-一个“旋转（…）”变换。
+“旋转（…）”转换。
 
 ```csharp
 public const ushort SVG_TRANSFORM_ROTATE;

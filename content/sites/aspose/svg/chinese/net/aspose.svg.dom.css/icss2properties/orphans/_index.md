@@ -1,14 +1,14 @@
 ---
 title: Orphans
 second_title: Aspose.SVG for .NET API 参考
-description: 请参阅 CSS2 中的 orphans 属性定义
+description: 参见 CSS2 中的 orphans 属性定义
 type: docs
 weight: 740
 url: /zh/net/aspose.svg.dom.css/icss2properties/orphans/
 ---
 ## ICSS2Properties.Orphans property
 
-请参阅 CSS2 中的 orphans 属性定义。
+参见 CSS2 中的 orphans 属性定义。
 
 ```csharp
 public string Orphans { get; set; }
@@ -16,7 +16,7 @@ public string Orphans { get; set; }
 
 ### 返回值
 
-孤儿属性
+孤儿财产
 
 ### 也可以看看
 

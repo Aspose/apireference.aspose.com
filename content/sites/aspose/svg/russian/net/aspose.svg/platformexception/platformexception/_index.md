@@ -1,14 +1,14 @@
 ---
 title: PlatformException
 second_title: Справочник по Aspose.SVG для .NET API
-description: Инициализирует новый экземпляр классаPlatformExceptionaspose.svg/platformexception.
+description: Инициализирует новый экземплярPlatformExceptionaspose.svg/platformexception класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.svg/platformexception/platformexception/
 ---
 ## PlatformException() {#constructor}
 
-Инициализирует новый экземпляр класса[`PlatformException`](../../platformexception).
+Инициализирует новый экземпляр[`PlatformException`](../../platformexception) класс.
 
 ```csharp
 public PlatformException()
@@ -24,7 +24,7 @@ public PlatformException()
 
 ## PlatformException(string) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`PlatformException`](../../platformexception)с указанным сообщением об ошибке.
+Инициализирует новый экземпляр[`PlatformException`](../../platformexception) класс с указанным сообщением об ошибке.
 
 ```csharp
 public PlatformException(string message)
@@ -44,7 +44,7 @@ public PlatformException(string message)
 
 ## PlatformException(string, Exception) {#constructor_2}
 
-Инициализирует новый экземпляр класса[`PlatformException`](../../platformexception)с указанным сообщением об ошибке и ссылкой на внутреннее исключение, являющееся причиной этого исключения .
+Инициализирует новый экземпляр[`PlatformException`](../../platformexception) класс с указанным сообщением об ошибке и ссылкой на внутреннее исключение, которое является причиной этого исключения.
 
 ```csharp
 public PlatformException(string message, Exception innerException)

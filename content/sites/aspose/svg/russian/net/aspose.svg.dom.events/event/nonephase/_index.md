@@ -1,14 +1,14 @@
 ---
 title: NonePhase
 second_title: Справочник по Aspose.SVG для .NET API
-description: В этой фазе находятся события которые в настоящее время не отправляются.
+description: События которые в настоящее время не отправляются находятся в этой фазе.
 type: docs
 weight: 180
 url: /ru/net/aspose.svg.dom.events/event/nonephase/
 ---
 ## Event.NonePhase field
 
-В этой фазе находятся события, которые в настоящее время не отправляются.
+События, которые в настоящее время не отправляются, находятся в этой фазе.
 
 ```csharp
 public const ushort NonePhase;

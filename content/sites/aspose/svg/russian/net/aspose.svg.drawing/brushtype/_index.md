@@ -3,7 +3,7 @@ title: BrushType
 second_title: Справочник по Aspose.SVG для .NET API
 description: Определяет тип кисти.
 type: docs
-weight: 1390
+weight: 1380
 url: /ru/net/aspose.svg.drawing/brushtype/
 ---
 ## BrushType enumeration

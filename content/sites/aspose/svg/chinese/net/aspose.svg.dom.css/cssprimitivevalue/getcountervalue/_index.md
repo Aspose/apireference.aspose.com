@@ -1,14 +1,14 @@
 ---
 title: GetCounterValue
 second_title: Aspose.SVG for .NET API 参考
-description: 该方法用于获取Counter值如果此 CSS 值不包含计数器值则会引发 DOMException可以使用 Counter 接口来修改相应的样式属性
+description: 该方法用于获取Counter值如果此 CSS 值不包含计数器值则会引发 DOMException可以使用Counter接口来修改对应的style属性
 type: docs
 weight: 20
 url: /zh/net/aspose.svg.dom.css/cssprimitivevalue/getcountervalue/
 ---
 ## CSSPrimitiveValue.GetCounterValue method
 
-该方法用于获取Counter值。如果此 CSS 值不包含计数器值，则会引发 DOMException。可以使用 Counter 接口来修改相应的样式属性。
+该方法用于获取Counter值。如果此 CSS 值不包含计数器值，则会引发 DOMException。可以使用Counter接口来修改对应的style属性。
 
 ```csharp
 public abstract Counter GetCounterValue()

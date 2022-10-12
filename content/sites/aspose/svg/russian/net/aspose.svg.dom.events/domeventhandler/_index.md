@@ -3,7 +3,7 @@ title: DOMEventHandler
 second_title: Справочник по Aspose.SVG для .NET API
 description: Представляет обратный вызов для обработки событий.
 type: docs
-weight: 900
+weight: 890
 url: /ru/net/aspose.svg.dom.events/domeventhandler/
 ---
 ## DOMEventHandler delegate

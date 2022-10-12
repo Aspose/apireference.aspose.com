@@ -8,7 +8,7 @@ url: /ru/net/aspose.svg/svgpatternelement/viewbox/
 ---
 ## SVGPatternElement.ViewBox property
 
-Соответствует атрибуту 'viewBox' данного элемента.
+Соответствует атрибуту viewBox данного элемента.
 
 ```csharp
 public SVGAnimatedRect ViewBox { get; }
@@ -16,7 +16,7 @@ public SVGAnimatedRect ViewBox { get; }
 
 ### Стоимость имущества
 
-'viewBox' данного элемента.
+ViewBox данного элемента.
 
 ### Смотрите также
 

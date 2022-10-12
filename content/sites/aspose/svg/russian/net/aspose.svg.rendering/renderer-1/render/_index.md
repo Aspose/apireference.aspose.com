@@ -1,14 +1,14 @@
 ---
 title: Render
 second_title: Справочник по Aspose.SVG для .NET API
-description: Определяет метод для рендерингаTDocumentв указанныйIDeviceaspose.svg.rendering/idevice.
+description: Определяет метод рендерингаTDocumentв указанныеIDeviceaspose.svg.rendering/idevice .
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.rendering/renderer-1/render/
 ---
 ## Render(IDevice, TDocument) {#render_2}
 
-Определяет метод для рендеринга!:TDocumentв указанный[`IDevice`](../../idevice).
+Определяет метод рендеринга!:TDocumentв указанные[`IDevice`](../../idevice) .
 
 ```csharp
 public void Render(IDevice device, TDocument document)
@@ -16,7 +16,7 @@ public void Render(IDevice device, TDocument document)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| device | IDevice | Устройство вывода. |
+| device | IDevice | Выходное устройство. |
 | document | TDocument | Документ. |
 
 ### Смотрите также
@@ -30,7 +30,7 @@ public void Render(IDevice device, TDocument document)
 
 ## Render(IDevice, TDocument, TimeSpan) {#render_4}
 
-Определяет метод для рендеринга!:TDocumentв указанный[`IDevice`](../../idevice). Рендеринг будет выполнен, когда не будет никаких сетевых операций по загрузке ресурсов, активных таймеров, задач анимации или истечет указанный тайм-аут.
+Определяет метод рендеринга!:TDocumentв указанные[`IDevice`](../../idevice) . Рендеринг будет выполнен после того, как не будет никаких сетевых операций для загрузки ресурсов, активных таймеров, задач анимации или истечет указанное время ожидания.
 
 ```csharp
 public void Render(IDevice device, TDocument document, TimeSpan timeout)
@@ -38,9 +38,9 @@ public void Render(IDevice device, TDocument document, TimeSpan timeout)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| device | IDevice | Устройство вывода. |
+| device | IDevice | Выходное устройство. |
 | document | TDocument | Документ. |
-| timeout | TimeSpan | TimeSpan, который представляет количество миллисекунд ожидания, илиTimeSpan, который представляет -1 миллисекунда, чтобы ждать бесконечно. |
+| timeout | TimeSpan | АTimeSpan который представляет количество миллисекунд ожидания, илиTimeSpan что представляет собой -1 миллисекунду ожидания на неопределенный срок. |
 
 ### Смотрите также
 
@@ -53,7 +53,7 @@ public void Render(IDevice device, TDocument document, TimeSpan timeout)
 
 ## Render(IDevice, TDocument, int) {#render_3}
 
-Определяет метод для рендеринга!:TDocumentв указанный[`IDevice`](../../idevice). Рендеринг будет выполнен, когда не будет никаких сетевых операций по загрузке ресурсов, активных таймеров, задач анимации или истечет указанный тайм-аут.
+Определяет метод рендеринга!:TDocumentв указанные[`IDevice`](../../idevice) . Рендеринг будет выполнен после того, как не будет никаких сетевых операций для загрузки ресурсов, активных таймеров, задач анимации или истечет указанное время ожидания.
 
 ```csharp
 public void Render(IDevice device, TDocument document, int timeout)
@@ -61,9 +61,9 @@ public void Render(IDevice device, TDocument document, int timeout)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| device | IDevice | Устройство вывода. |
+| device | IDevice | Выходное устройство. |
 | document | TDocument | Документ. |
-| timeout | Int32 | Число миллисекунд, которое представляет количество миллисекунд ожидания, или -1 миллисекунда ожидания бесконечно. |
+| timeout | Int32 | Число миллисекунд, которое представляет собой количество миллисекунд ожидания или -1 миллисекунду для бесконечного ожидания. |
 
 ### Смотрите также
 
@@ -76,7 +76,7 @@ public void Render(IDevice device, TDocument document, int timeout)
 
 ## Render(IDevice, params TDocument[]) {#render_5}
 
-Определяет метод для рендеринга нескольких!:TDocumentв определенные[`IDevice`](../../idevice).
+Определяет метод для рендеринга нескольких!:TDocument в конкретные[`IDevice`](../../idevice) .
 
 ```csharp
 public void Render(IDevice device, params TDocument[] documents)
@@ -84,8 +84,8 @@ public void Render(IDevice device, params TDocument[] documents)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| device | IDevice | Устройство вывода. |
-| documents | TDocument[] | Документы для визуализации. |
+| device | IDevice | Выходное устройство. |
+| documents | TDocument[] | Документы для оформления. |
 
 ### Смотрите также
 
@@ -98,7 +98,7 @@ public void Render(IDevice device, params TDocument[] documents)
 
 ## Render(IDevice, int, params TDocument[]) {#render}
 
-Определяет метод для рендеринга нескольких!:TDocumentв определенные[`IDevice`](../../idevice). Рендеринг будет выполнен, когда не будет никаких сетевых операций по загрузке ресурсов, активных таймеров, задач анимации или истечет указанный тайм-аут.
+Определяет метод для рендеринга нескольких!:TDocument в конкретные[`IDevice`](../../idevice) . Рендеринг будет выполнен после того, как не будет никаких сетевых операций для загрузки ресурсов, активных таймеров, задач анимации или истечет указанное время ожидания.
 
 ```csharp
 public void Render(IDevice device, int timeout, params TDocument[] documents)
@@ -106,9 +106,9 @@ public void Render(IDevice device, int timeout, params TDocument[] documents)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| device | IDevice | Устройство вывода. |
-| timeout | Int32 | Число миллисекунд, которое представляет количество миллисекунд ожидания, или -1 миллисекунда ожидания бесконечно. |
-| documents | TDocument[] | Документы для визуализации. |
+| device | IDevice | Выходное устройство. |
+| timeout | Int32 | Число миллисекунд, которое представляет собой количество миллисекунд ожидания или -1 миллисекунду для бесконечного ожидания. |
+| documents | TDocument[] | Документы для оформления. |
 
 ### Смотрите также
 
@@ -121,7 +121,7 @@ public void Render(IDevice device, int timeout, params TDocument[] documents)
 
 ## Render(IDevice, TimeSpan, params TDocument[]) {#render_1}
 
-Определяет метод для рендеринга нескольких!:TDocumentв определенные[`IDevice`](../../idevice). Рендеринг будет выполнен, когда не будет никаких сетевых операций по загрузке ресурсов, активных таймеров, задач анимации или истечет указанный тайм-аут.
+Определяет метод для рендеринга нескольких!:TDocument в конкретные[`IDevice`](../../idevice) . Рендеринг будет выполнен после того, как не будет никаких сетевых операций для загрузки ресурсов, активных таймеров, задач анимации или истечет указанное время ожидания.
 
 ```csharp
 public abstract void Render(IDevice device, TimeSpan timeout, params TDocument[] documents)
@@ -129,9 +129,9 @@ public abstract void Render(IDevice device, TimeSpan timeout, params TDocument[]
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| device | IDevice | Устройство вывода. |
-| timeout | TimeSpan | TimeSpan, который представляет количество миллисекунд ожидания, илиTimeSpan, который представляет -1 миллисекунда, чтобы ждать бесконечно. |
-| documents | TDocument[] | Документы для визуализации. |
+| device | IDevice | Выходное устройство. |
+| timeout | TimeSpan | АTimeSpan который представляет количество миллисекунд ожидания, илиTimeSpan что представляет собой -1 миллисекунду ожидания на неопределенный срок. |
+| documents | TDocument[] | Документы для оформления. |
 
 ### Смотрите также
 

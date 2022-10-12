@@ -8,7 +8,7 @@ url: /ru/net/aspose.svg/svgcomponenttransferfunctionelement/amplitude/
 ---
 ## SVGComponentTransferFunctionElement.Amplitude property
 
-Соответствует атрибуту 'амплитуда' данного элемента.
+Соответствует атрибуту «амплитуда» данного элемента.
 
 ```csharp
 public SVGAnimatedNumber Amplitude { get; }
@@ -16,7 +16,7 @@ public SVGAnimatedNumber Amplitude { get; }
 
 ### Стоимость имущества
 
-Атрибут 'амплитуда' данного элемента.
+Атрибут «амплитуда» данного элемента.
 
 ### Смотрите также
 

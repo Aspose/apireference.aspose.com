@@ -1,14 +1,14 @@
 ---
 title: DOMObject
 second_title: Справочник по Aspose.SVG для .NET API
-description: Тип DOMObject используется для представления базового объекта для всей объектной модели документа. Для Java и ECMAScript DOMObject привязан к типу Object.
+description: Тип DOMObject используется для представления базового объекта для всей объектной модели документа. Для Java и ECMAScript тип DOMObject привязан к типу объекта.
 type: docs
-weight: 810
+weight: 800
 url: /ru/net/aspose.svg.dom/domobject/
 ---
 ## DOMObject class
 
-Тип DOMObject используется для представления базового объекта для всей объектной модели документа. Для Java и ECMAScript DOMObject привязан к типу Object.
+Тип DOMObject используется для представления базового объекта для всей объектной модели документа. Для Java и ECMAScript тип DOMObject привязан к типу объекта.
 
 ```csharp
 public class DOMObject : INotifyPropertyChanged
@@ -24,7 +24,7 @@ public class DOMObject : INotifyPropertyChanged
 
 | Имя | Описание |
 | --- | --- |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | Этот метод используется для получения объекта ECMAScriptType. |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | Этот метод используется для получения объекта ECMAScript.Type . |
 
 ### Смотрите также
 

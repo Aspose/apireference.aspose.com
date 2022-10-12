@@ -21,7 +21,7 @@ public IEnumerable<SVGPathSeg> Build(IEnumerable<PointF> trace, SVGPathElement p
 
 ### 返回值
 
-路径段列表[`SVGPathSeg`](../../../aspose.svg.paths/svgpathseg)。
+路径段列表[`SVGPathSeg`](../../../aspose.svg.paths/svgpathseg).
 
 ### 也可以看看
 

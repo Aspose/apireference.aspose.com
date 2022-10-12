@@ -3,7 +3,7 @@ title: ResourceHandling
 second_title: Aspose.SVG for .NET API 参考
 description: 这个枚举代表资源处理选项
 type: docs
-weight: 3580
+weight: 3590
 url: /zh/net/aspose.svg.saving/resourcehandling/
 ---
 ## ResourceHandling enumeration

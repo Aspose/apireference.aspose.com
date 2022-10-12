@@ -1,9 +1,9 @@
 ---
 title: ContentDispositionHeaderValue
 second_title: Aspose.SVG for .NET API 参考
-description: 表示 Content-Disposition 标头值
+description: 表示 ContentDisposition 标头值
 type: docs
-weight: 2220
+weight: 2230
 url: /zh/net/aspose.svg.net.headers/contentdispositionheadervalue/
 ---
 ## ContentDispositionHeaderValue class
@@ -33,8 +33,8 @@ public class ContentDispositionHeaderValue
 
 | 姓名 | 描述 |
 | --- | --- |
-| override [Equals](../../aspose.svg.net.headers/contentdispositionheadervalue/equals)(object) | 确定指定的Object是否等于此实例。 |
-| override [ToString](../../aspose.svg.net.headers/contentdispositionheadervalue/tostring)() | 返回代表此实例的String。 |
+| override [Equals](../../aspose.svg.net.headers/contentdispositionheadervalue/equals)(object) | 判断是否指定Object等于这个实例。 |
+| override [ToString](../../aspose.svg.net.headers/contentdispositionheadervalue/tostring)() | 返回一个String代表这个实例。 |
 
 ### 也可以看看
 

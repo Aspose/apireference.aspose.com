@@ -1,14 +1,14 @@
 ---
 title: Root
 second_title: Aspose.SVG for .NET API 参考
-description: NodeIterator 的根节点在创建 时指定
+description: NodeIterator 的根节点在创建 it 时指定
 type: docs
 weight: 20
 url: /zh/net/aspose.svg.dom.traversal/itraversal/root/
 ---
 ## ITraversal.Root property
 
-NodeIterator 的根节点，在创建 时指定。
+NodeIterator 的根节点，在创建 it 时指定。
 
 ```csharp
 public Node Root { get; }
@@ -16,7 +16,7 @@ public Node Root { get; }
 
 ### 适当的价值
 
-根。
+根.
 
 ### 也可以看看
 

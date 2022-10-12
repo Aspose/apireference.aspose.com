@@ -1,14 +1,14 @@
 ---
 title: ICSSMarginRule
 second_title: Справочник по Aspose.SVG для .NET API
-description: Интерфейс CSSMarginRule представляет собой правило поля.
+description: Интерфейс CSSMarginRule представляет маржу по правилу.
 type: docs
-weight: 600
+weight: 590
 url: /ru/net/aspose.svg.dom.css/icssmarginrule/
 ---
 ## ICSSMarginRule interface
 
-Интерфейс CSSMarginRule представляет собой правило поля.
+Интерфейс CSSMarginRule представляет маржу по правилу.
 
 ```csharp
 public interface ICSSMarginRule : ICSSRule
@@ -18,7 +18,7 @@ public interface ICSSMarginRule : ICSSRule
 
 | Имя | Описание |
 | --- | --- |
-| [Name](../../aspose.svg.dom.css/icssmarginrule/name) { get; } | Атрибут name должен возвращать имя поля по правилу. Символ@не входит в имя. |
+| [Name](../../aspose.svg.dom.css/icssmarginrule/name) { get; } | Атрибут name должен возвращать имя правила поля. Символ @ не входит в имя. |
 | [Style](../../aspose.svg.dom.css/icssmarginrule/style) { get; } | Блок объявления этого правила. |
 
 ### Смотрите также

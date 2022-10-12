@@ -1,14 +1,14 @@
 ---
 title: FromDotsPerInch
 second_title: Справочник по Aspose.SVG для .NET API
-description: Возвращает объектResolutionaspose.svg.drawing/resolution представленный в точках на дюйм.
+description: ВозвращаетResolutionaspose.svg.drawing/resolution объект представленный в точках на дюйм.
 type: docs
 weight: 80
 url: /ru/net/aspose.svg.drawing/unit/fromdotsperinch/
 ---
 ## Unit.FromDotsPerInch method
 
-Возвращает объект[`Resolution`](../../resolution), представленный в точках на дюйм.
+Возвращает[`Resolution`](../../resolution) объект, представленный в точках на дюйм.
 
 ```csharp
 public static Resolution FromDotsPerInch(double value)
@@ -20,7 +20,7 @@ public static Resolution FromDotsPerInch(double value)
 
 ### Возвращаемое значение
 
-Возвращает объект[`Resolution`](../../resolution).
+Возвращает[`Resolution`](../../resolution) объект.
 
 ### Смотрите также
 

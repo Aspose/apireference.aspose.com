@@ -1,14 +1,14 @@
 ---
 title: K3
 second_title: Aspose.SVG for .NET API 参考
-description: 对应于给定 feComposite 元素的属性 k3
+description: 对应于给定feComposite元素的属性k3
 type: docs
 weight: 60
 url: /zh/net/aspose.svg.filters/svgfecompositeelement/k3/
 ---
 ## SVGFECompositeElement.K3 property
 
-对应于给定 'feComposite' 元素的属性 'k3'。
+对应于给定“feComposite”元素的属性“k3”。
 
 ```csharp
 public SVGAnimatedNumber K3 { get; }
@@ -16,7 +16,7 @@ public SVGAnimatedNumber K3 { get; }
 
 ### 适当的价值
 
-给定 'feComposite' 元素上的属性 'k3'。
+给定“feComposite”元素的属性“k3”。
 
 ### 也可以看看
 

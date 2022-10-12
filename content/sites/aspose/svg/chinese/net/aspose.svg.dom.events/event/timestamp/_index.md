@@ -1,14 +1,14 @@
 ---
 title: TimeStamp
 second_title: Aspose.SVG for .NET API 参考
-description: 用于指定创建事件的时间相对于纪元的毫秒数 由于某些系统可能不提供此信息timeStamp 的值可能不适用于所有事件 不可用时将返回值 0 纪元时间的示例是系统启动时间或 1970 年 1 月 1 日 000 UTC
+description: 用于指定创建事件的时间以毫秒为单位 将返回 0 值 纪元时间的示例是系统启动时间或 000 UTC 1970 年 1 月 1 日
 type: docs
 weight: 90
 url: /zh/net/aspose.svg.dom.events/event/timestamp/
 ---
 ## Event.TimeStamp property
 
-用于指定创建事件的时间（相对于纪元的毫秒数）。 由于某些系统可能不提供此信息，timeStamp 的值可能不适用于所有事件。 不可用时，将返回值 0。 纪元时间的示例是系统启动时间或 1970 年 1 月 1 日 0:0:0 UTC。
+用于指定创建事件的时间（以毫秒为单位） ，将返回 0 值。 纪元时间的示例是系统启动时间或 0:0:0 UTC 1970 年 1 月 1 日。
 
 ```csharp
 public ulong TimeStamp { get; }

@@ -1,14 +1,14 @@
 ---
 title: IPathBuilder
 second_title: Справочник по Aspose.SVG для .NET API
-description: Интерфейс IPathBuilder отвечает за построение сегментов путиSVGPathSeg../aspose.svg.paths/svgpathsegиз списка точек трассировки.
+description: Интерфейс IPathBuilder отвечает за построение сегментов путиSVGPathSeg../aspose.svg.paths/svgpathseg из списка точек трассировки.
 type: docs
-weight: 2090
+weight: 2100
 url: /ru/net/aspose.svg.imagevectorization/ipathbuilder/
 ---
 ## IPathBuilder interface
 
-Интерфейс IPathBuilder отвечает за построение сегментов пути[`SVGPathSeg`](../../aspose.svg.paths/svgpathseg)из списка точек трассировки.
+Интерфейс IPathBuilder отвечает за построение сегментов пути[`SVGPathSeg`](../../aspose.svg.paths/svgpathseg) из списка точек трассировки.
 
 ```csharp
 public interface IPathBuilder

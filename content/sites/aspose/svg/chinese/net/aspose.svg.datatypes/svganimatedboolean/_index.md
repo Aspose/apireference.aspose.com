@@ -1,14 +1,14 @@
 ---
 title: SVGAnimatedBoolean
 second_title: Aspose.SVG for .NET API 参考
-description: 用于可以动画的布尔类型的属性
+description: 用于布尔类型的属性可以动画
 type: docs
-weight: 110
+weight: 100
 url: /zh/net/aspose.svg.datatypes/svganimatedboolean/
 ---
 ## SVGAnimatedBoolean class
 
-用于可以动画的布尔类型的属性。
+用于布尔类型的属性，可以动画。
 
 ```csharp
 public class SVGAnimatedBoolean : SVGAnimatedValue<bool>
@@ -25,9 +25,9 @@ public class SVGAnimatedBoolean : SVGAnimatedValue<bool>
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose)() | 释放非托管和（可选）托管资源。 |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | 此方法用于检索 ECMAScript 对象Type。 |
-| override [ToString](../../aspose.svg.datatypes/svganimatedboolean/tostring)() | 返回代表此实例的String。 |
+| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose)() | 释放非托管和 - 可选 - 托管资源。 |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | 此方法用于检索 ECMAScript 对象Type . |
+| override [ToString](../../aspose.svg.datatypes/svganimatedboolean/tostring)() | 返回一个String代表这个实例。 |
 
 ### 也可以看看
 

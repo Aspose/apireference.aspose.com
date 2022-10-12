@@ -1,14 +1,14 @@
 ---
 title: ContainsKey
 second_title: Справочник по Aspose.SVG для .NET API
-description: Определяет содержит ли коллекцияMutationObserverInitaspose.svg.dom.mutations/mutationobserverinitуказанный ключ.
+description: ОпределяетMutationObserverInitaspose.svg.dom.mutations/mutationobserverinit коллекция содержит указанный ключ.
 type: docs
 weight: 170
 url: /ru/net/aspose.svg.dom.mutations/mutationobserverinit/containskey/
 ---
 ## MutationObserverInit.ContainsKey method
 
-Определяет, содержит ли коллекция[`MutationObserverInit`](../../mutationobserverinit)указанный ключ.
+Определяет,[`MutationObserverInit`](../../mutationobserverinit) коллекция содержит указанный ключ.
 
 ```csharp
 public bool ContainsKey(string key)
@@ -20,7 +20,7 @@ public bool ContainsKey(string key)
 
 ### Возвращаемое значение
 
-True, если[`MutationObserverInit`](../../mutationobserverinit)содержит указанный ключ; в противном случае ложно.
+Верно, если[`MutationObserverInit`](../../mutationobserverinit) содержать указанный ключ; в противном случае ложно.
 
 ### Смотрите также
 

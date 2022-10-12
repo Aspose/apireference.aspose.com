@@ -3,7 +3,7 @@ title: ShadowRootMode
 second_title: Справочник по Aspose.SVG для .NET API
 description: Режимы в которых может работать ShadowRoot.
 type: docs
-weight: 1200
+weight: 1190
 url: /ru/net/aspose.svg.dom/shadowrootmode/
 ---
 ## ShadowRootMode enumeration

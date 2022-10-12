@@ -1,14 +1,14 @@
 ---
 title: FontVariant
 second_title: Aspose.SVG for .NET API 参考
-description: 请参阅 CSS2 中的 font-variant 属性定义
+description: 参见 CSS2 中的 fontvariant 属性定义
 type: docs
 weight: 530
 url: /zh/net/aspose.svg.dom.css/icss2properties/fontvariant/
 ---
 ## ICSS2Properties.FontVariant property
 
-请参阅 CSS2 中的 font-variant 属性定义。
+参见 CSS2 中的 font-variant 属性定义。
 
 ```csharp
 public string FontVariant { get; set; }

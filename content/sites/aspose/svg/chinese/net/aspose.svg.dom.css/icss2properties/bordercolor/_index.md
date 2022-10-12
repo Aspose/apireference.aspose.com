@@ -1,14 +1,14 @@
 ---
 title: BorderColor
 second_title: Aspose.SVG for .NET API 参考
-description: 请参见 CSS2 中的border-color 属性定义
+description: 参见 CSS2 中的bordercolor 属性定义
 type: docs
 weight: 140
 url: /zh/net/aspose.svg.dom.css/icss2properties/bordercolor/
 ---
 ## ICSS2Properties.BorderColor property
 
-请参见 CSS2 中的border-color 属性定义。
+参见 CSS2 中的border-color 属性定义。
 
 ```csharp
 public string BorderColor { get; set; }

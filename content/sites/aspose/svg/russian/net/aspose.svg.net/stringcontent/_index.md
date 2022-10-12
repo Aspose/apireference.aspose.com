@@ -3,7 +3,7 @@ title: StringContent
 second_title: Справочник по Aspose.SVG для .NET API
 description: Представляет содержимое на основе строки.
 type: docs
-weight: 2420
+weight: 2430
 url: /ru/net/aspose.svg.net/stringcontent/
 ---
 ## StringContent class
@@ -18,9 +18,9 @@ public class StringContent : ByteArrayContent
 
 | Имя | Описание |
 | --- | --- |
-| [StringContent](stringcontent#constructor)(string) | Инициализирует новый экземпляр класса[`StringContent`](../stringcontent). |
-| [StringContent](stringcontent#constructor_1)(string, Encoding) | Инициализирует новый экземпляр класса[`StringContent`](../stringcontent). |
-| [StringContent](stringcontent#constructor_2)(string, Encoding, string) | Инициализирует новый экземпляр класса[`StringContent`](../stringcontent). |
+| [StringContent](stringcontent#constructor)(string) | Инициализирует новый экземпляр[`StringContent`](../stringcontent) класс. |
+| [StringContent](stringcontent#constructor_1)(string, Encoding) | Инициализирует новый экземпляр[`StringContent`](../stringcontent) класс. |
+| [StringContent](stringcontent#constructor_2)(string, Encoding, string) | Инициализирует новый экземпляр[`StringContent`](../stringcontent) класс. |
 
 ## Характеристики
 
@@ -32,10 +32,10 @@ public class StringContent : ByteArrayContent
 
 | Имя | Описание |
 | --- | --- |
-| [Dispose](../../aspose.svg.net/content/dispose)() | Выполняет определяемые приложением задачи, связанные с освобождением, освобождением или сбросом неуправляемых ресурсов. |
+| [Dispose](../../aspose.svg.net/content/dispose)() | Выполняет определяемые приложением задачи, связанные с освобождением, высвобождением или сбросом неуправляемых ресурсов. |
 | [ReadAsByteArray](../../aspose.svg.net/content/readasbytearray)() | Сериализировать содержимое HTTP и вернуть массив байтов, представляющий содержимое. |
-| [ReadAsStream](../../aspose.svg.net/content/readasstream)() | Сериализация содержимого HTTP и возврат потока, представляющего содержимое. |
-| [ReadAsString](../../aspose.svg.net/content/readasstring)() | Сериализация содержимого HTTP и возврат строки, представляющей содержимое. |
+| [ReadAsStream](../../aspose.svg.net/content/readasstream)() | Сериализировать содержимое HTTP и вернуть поток, представляющий содержимое. |
+| [ReadAsString](../../aspose.svg.net/content/readasstring)() | Сериализировать содержимое HTTP и вернуть строку, представляющую содержимое. |
 
 ### Смотрите также
 

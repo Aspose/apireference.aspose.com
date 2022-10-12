@@ -1,14 +1,14 @@
 ---
 title: ViewBox
 second_title: Aspose.SVG for .NET API 参考
-description: 对应于给定元素的属性viewBox
+description: 对应于给定元素上的属性viewBox
 type: docs
 weight: 90
 url: /zh/net/aspose.svg/svgmarkerelement/viewbox/
 ---
 ## SVGMarkerElement.ViewBox property
 
-对应于给定元素的属性“viewBox”。
+对应于给定元素上的属性“viewBox”。
 
 ```csharp
 public SVGAnimatedRect ViewBox { get; }

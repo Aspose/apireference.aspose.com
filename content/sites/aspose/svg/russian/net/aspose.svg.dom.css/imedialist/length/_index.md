@@ -1,14 +1,14 @@
 ---
 title: Length
 second_title: Справочник по Aspose.SVG для .NET API
-description: Количество носителей в списке. Диапазон допустимых носителей  от 0 до length-1 включительно.
+description: Количество носителей в списке. Диапазон допустимых носителей от 0 до длины 1 включительно.
 type: docs
 weight: 20
 url: /ru/net/aspose.svg.dom.css/imedialist/length/
 ---
 ## IMediaList.Length property
 
-Количество носителей в списке. Диапазон допустимых носителей — от 0 до length-1 включительно.
+Количество носителей в списке. Диапазон допустимых носителей: от 0 до длины 1 включительно.
 
 ```csharp
 public long Length { get; }

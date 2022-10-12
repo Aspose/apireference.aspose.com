@@ -3,7 +3,7 @@ title: BrushType
 second_title: Aspose.SVG for .NET API 参考
 description: 指定画笔的类型
 type: docs
-weight: 1390
+weight: 1380
 url: /zh/net/aspose.svg.drawing/brushtype/
 ---
 ## BrushType enumeration

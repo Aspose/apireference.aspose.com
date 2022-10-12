@@ -16,7 +16,7 @@ public bool ShiftKey { get; }
 
 ### 适当的价值
 
-` true` 如果换档；否则，` false` 。
+`真的`如果换档；否则，`错误的` .
 
 ### 也可以看看
 

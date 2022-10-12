@@ -8,7 +8,7 @@ url: /ru/net/aspose.svg.filters/svgfespecularlightingelement/specularconstant/
 ---
 ## SVGFESpecularLightingElement.SpecularConstant property
 
-Соответствует атрибуту 'specularConstant' данного элемента 'feSpecularLighting'.
+Соответствует атрибуту specularConstant данного элемента feSpecularLighting.
 
 ```csharp
 public SVGAnimatedNumber SpecularConstant { get; }
@@ -16,7 +16,7 @@ public SVGAnimatedNumber SpecularConstant { get; }
 
 ### Стоимость имущества
 
-Атрибут 'specularConstant' данного элемента 'feSpecularLighting'.
+Атрибут specularConstant данного элемента feSpecularLighting.
 
 ### Смотрите также
 

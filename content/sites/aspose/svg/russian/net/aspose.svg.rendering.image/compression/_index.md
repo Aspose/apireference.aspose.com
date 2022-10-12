@@ -1,14 +1,14 @@
 ---
 title: Compression
 second_title: Справочник по Aspose.SVG для .NET API
-description: Задает возможные схемы сжатия растровых изображений в формате Tagged Image File Format TIFF.
+description: Определяет возможные схемы сжатия растровых изображений в формате Tagged Image File Format TIFF.
 type: docs
-weight: 2770
+weight: 2780
 url: /ru/net/aspose.svg.rendering.image/compression/
 ---
 ## Compression enumeration
 
-Задает возможные схемы сжатия растровых изображений в формате Tagged Image File Format (TIFF).
+Определяет возможные схемы сжатия растровых изображений в формате Tagged Image File Format (TIFF).
 
 ```csharp
 public enum Compression

@@ -18,7 +18,7 @@ public class Configuration : IServiceContainer
 
 | Имя | Описание |
 | --- | --- |
-| [Configuration](configuration)() | Инициализирует новый экземпляр класса[`Configuration`](../configuration). |
+| [Configuration](configuration)() | Инициализирует новый экземпляр[`Configuration`](../configuration) класс. |
 
 ## Характеристики
 
@@ -31,7 +31,7 @@ public class Configuration : IServiceContainer
 | Имя | Описание |
 | --- | --- |
 | [AddService&lt;TService&gt;](../../aspose.svg/configuration/addservice)(TService) | Добавляет указанный сервис в конфигурацию. |
-| [Dispose](../../aspose.svg/configuration/dispose)() | Выполняет определяемые приложением задачи, связанные с освобождением, освобождением или сбросом неуправляемых ресурсов. |
+| [Dispose](../../aspose.svg/configuration/dispose)() | Выполняет определяемые приложением задачи, связанные с освобождением, высвобождением или сбросом неуправляемых ресурсов. |
 | [GetService&lt;TService&gt;](../../aspose.svg/configuration/getservice)() | Получает запрошенную услугу. |
 
 ### Смотрите также

@@ -1,14 +1,14 @@
 ---
 title: PointsAtY
 second_title: Aspose.SVG for .NET API 参考
-description: 对应于给定 feSpotLight 元素上的属性 pointsAtY
+description: 对应于给定feSpotLight元素上的属性pointsAtY
 type: docs
 weight: 30
 url: /zh/net/aspose.svg.filters/svgfespotlightelement/pointsaty/
 ---
 ## SVGFESpotLightElement.PointsAtY property
 
-对应于给定 'feSpotLight' 元素上的属性 'pointsAtY'。
+对应于给定“feSpotLight”元素上的属性“pointsAtY”。
 
 ```csharp
 public SVGAnimatedNumber PointsAtY { get; }
@@ -16,7 +16,7 @@ public SVGAnimatedNumber PointsAtY { get; }
 
 ### 适当的价值
 
-给定 'feSpotLight' 元素的属性 'pointsAtY'。
+给定“feSpotLight”元素的属性“pointsAtY”。
 
 ### 也可以看看
 

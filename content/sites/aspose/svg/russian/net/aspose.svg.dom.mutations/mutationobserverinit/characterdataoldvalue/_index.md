@@ -1,14 +1,14 @@
 ---
 title: CharacterDataOldValue
 second_title: Справочник по Aspose.SVG для .NET API
-description: Установите значение true если для characterData установлено значение true или оно опущено и необходимо записать данные цели перед мутацией.
+description: Установите значение true если для characterData установлено значение true или оно опущено а данные цели перед мутацией необходимо записать.
 type: docs
 weight: 60
 url: /ru/net/aspose.svg.dom.mutations/mutationobserverinit/characterdataoldvalue/
 ---
 ## MutationObserverInit.CharacterDataOldValue property
 
-Установите значение true, если для characterData установлено значение true или оно опущено, и необходимо записать данные цели перед мутацией.
+Установите значение true, если для characterData установлено значение true или оно опущено, а данные цели перед мутацией необходимо записать.
 
 ```csharp
 public bool CharacterDataOldValue { get; set; }

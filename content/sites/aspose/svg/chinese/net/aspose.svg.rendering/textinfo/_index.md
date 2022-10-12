@@ -3,7 +3,7 @@ title: TextInfo
 second_title: Aspose.SVG for .NET API 参考
 description: 包含有关渲染文本的信息
 type: docs
-weight: 2980
+weight: 2990
 url: /zh/net/aspose.svg.rendering/textinfo/
 ---
 ## TextInfo class

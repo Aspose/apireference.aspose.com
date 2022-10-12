@@ -1,14 +1,14 @@
 ---
 title: X
 second_title: Aspose.SVG for .NET API 参考
-description: 对应于给定光标元素的属性x
+description: 对应于给定光标元素上的属性x
 type: docs
 weight: 50
 url: /zh/net/aspose.svg/svgcursorelement/x/
 ---
 ## SVGCursorElement.X property
 
-对应于给定“光标”元素的属性“x”。
+对应于给定“光标”元素上的属性“x”。
 
 ```csharp
 public SVGAnimatedLength X { get; }

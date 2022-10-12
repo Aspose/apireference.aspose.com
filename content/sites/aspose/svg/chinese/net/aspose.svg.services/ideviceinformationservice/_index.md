@@ -1,14 +1,14 @@
 ---
 title: IDeviceInformationService
 second_title: Aspose.SVG for .NET API 参考
-description: 描述Document../aspose.svg.dom/document呈现给用户的环境的界面
+description: 描述环境的接口Document../aspose.svg.dom/document呈现给用户
 type: docs
-weight: 3650
+weight: 3660
 url: /zh/net/aspose.svg.services/ideviceinformationservice/
 ---
 ## IDeviceInformationService interface
 
-描述[`Document`](../../aspose.svg.dom/document)呈现给用户的环境的界面。
+描述环境的接口[`Document`](../../aspose.svg.dom/document)呈现给用户。
 
 ```csharp
 public interface IDeviceInformationService : IService
@@ -19,9 +19,9 @@ public interface IDeviceInformationService : IService
 | 姓名 | 描述 |
 | --- | --- |
 | [HorizontalResolution](../../aspose.svg.services/ideviceinformationservice/horizontalresolution) { get; set; } | 获取或设置水平分辨率。 |
-| [ScreenSize](../../aspose.svg.services/ideviceinformationservice/screensize) { get; set; } | 获取或设置屏幕的大小。 |
+| [ScreenSize](../../aspose.svg.services/ideviceinformationservice/screensize) { get; set; } | 获取或设置屏幕大小。 |
 | [VerticalResolution](../../aspose.svg.services/ideviceinformationservice/verticalresolution) { get; set; } | 获取或设置垂直分辨率。 |
-| [WindowSize](../../aspose.svg.services/ideviceinformationservice/windowsize) { get; set; } | 获取或设置窗口的大小。 |
+| [WindowSize](../../aspose.svg.services/ideviceinformationservice/windowsize) { get; set; } | 获取或设置窗口大小。 |
 
 ### 也可以看看
 

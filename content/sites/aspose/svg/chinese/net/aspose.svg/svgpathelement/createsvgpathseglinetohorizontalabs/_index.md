@@ -1,14 +1,14 @@
 ---
 title: CreateSVGPathSegLinetoHorizontalAbs
 second_title: Aspose.SVG for .NET API 参考
-description: 返回一个独立的无父对象的 SVGPathSegLinetoHorizontalAbs 对象
+description: 返回一个独立的无父 SVGPathSegLinetoHorizontalAbs 对象
 type: docs
 weight: 150
 url: /zh/net/aspose.svg/svgpathelement/createsvgpathseglinetohorizontalabs/
 ---
 ## SVGPathElement.CreateSVGPathSegLinetoHorizontalAbs method
 
-返回一个独立的、无父对象的 SVGPathSegLinetoHorizontalAbs 对象。
+返回一个独立的无父 SVGPathSegLinetoHorizontalAbs 对象。
 
 ```csharp
 public SVGPathSegLinetoHorizontalAbs CreateSVGPathSegLinetoHorizontalAbs(float x)
@@ -16,7 +16,7 @@ public SVGPathSegLinetoHorizontalAbs CreateSVGPathSegLinetoHorizontalAbs(float x
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| x | Single | 该路径段终点的绝对 X 坐标。 |
+| x | Single | 此路径段终点的绝对 X 坐标。 |
 
 ### 返回值
 

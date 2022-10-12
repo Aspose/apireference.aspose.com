@@ -1,14 +1,14 @@
 ---
 title: Renderer
 second_title: Справочник по Aspose.SVG для .NET API
-description: Представляет базовый класс для всех средств визуализации и реализует интерфейс IDisposable.
+description: Представляет базовый класс для всех средств визуализации и реализации интерфейса IDisposable.
 type: docs
-weight: 2930
+weight: 2940
 url: /ru/net/aspose.svg.rendering/renderer/
 ---
 ## Renderer class
 
-Представляет базовый класс для всех средств визуализации и реализует интерфейс IDisposable.
+Представляет базовый класс для всех средств визуализации и реализации интерфейса IDisposable.
 
 ```csharp
 public class Renderer : IDisposable

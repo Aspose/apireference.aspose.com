@@ -1,14 +1,14 @@
 ---
 title: OnMessage
 second_title: Справочник по Aspose.SVG для .NET API
-description: Получает или задает обработчик событий
+description: Получает или задает обработчик события
 type: docs
 weight: 50
 url: /ru/net/aspose.svg.window/iwindoweventhandlers/onmessage/
 ---
 ## IWindowEventHandlers.OnMessage event
 
-Получает или задает обработчик событий
+Получает или задает обработчик события
 
 ```csharp
 public event DOMEventHandler OnMessage;

@@ -3,7 +3,7 @@ title: SVGValueType
 second_title: Справочник по Aspose.SVG для .NET API
 description: Тип SVGValueType используется для представления базового типа значения SVG.
 type: docs
-weight: 350
+weight: 340
 url: /ru/net/aspose.svg.datatypes/svgvaluetype/
 ---
 ## SVGValueType class
@@ -19,7 +19,7 @@ public abstract class SVGValueType : DOMObject, IDisposable
 | Имя | Описание |
 | --- | --- |
 | [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose)() | Освобождает неуправляемые и (необязательно) управляемые ресурсы. |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | Этот метод используется для получения объекта ECMAScriptType. |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | Этот метод используется для получения объекта ECMAScript.Type . |
 
 ### Смотрите также
 

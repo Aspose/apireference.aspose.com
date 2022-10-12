@@ -1,14 +1,14 @@
 ---
 title: Y
 second_title: Aspose.SVG for .NET API 参考
-description: 对应于给定 rect 元素的属性 y
+description: 对应于给定rect元素上的属性y
 type: docs
 weight: 60
 url: /zh/net/aspose.svg/svgrectelement/y/
 ---
 ## SVGRectElement.Y property
 
-对应于给定 'rect' 元素的属性 'y'。
+对应于给定“rect”元素上的属性“y”。
 
 ```csharp
 public SVGAnimatedLength Y { get; }

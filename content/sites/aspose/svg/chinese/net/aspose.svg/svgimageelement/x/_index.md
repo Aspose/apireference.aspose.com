@@ -1,14 +1,14 @@
 ---
 title: X
 second_title: Aspose.SVG for .NET API 参考
-description: 对应于给定 image 元素的属性 x
+description: 对应于给定图像元素上的属性x
 type: docs
 weight: 50
 url: /zh/net/aspose.svg/svgimageelement/x/
 ---
 ## SVGImageElement.X property
 
-对应于给定 'image' 元素的属性 'x'。
+对应于给定“图像”元素上的属性“x”。
 
 ```csharp
 public SVGAnimatedLength X { get; }
@@ -16,7 +16,7 @@ public SVGAnimatedLength X { get; }
 
 ### 适当的价值
 
-对应于给定 'image' 元素的属性 'x'。
+对应于给定“图像”元素上的属性“x”。
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: FromDegrees
 second_title: Справочник по Aspose.SVG для .NET API
-description: Возвращает объектAngleaspose.svg.drawing/angle представленный в градусах.
+description: ВозвращаетAngleaspose.svg.drawing/angle объект представленный в градусах.
 type: docs
 weight: 60
 url: /ru/net/aspose.svg.drawing/unit/fromdegrees/
 ---
 ## Unit.FromDegrees method
 
-Возвращает объект[`Angle`](../../angle), представленный в градусах.
+Возвращает[`Angle`](../../angle) объект, представленный в градусах.
 
 ```csharp
 public static Angle FromDegrees(double value)
@@ -20,7 +20,7 @@ public static Angle FromDegrees(double value)
 
 ### Возвращаемое значение
 
-Возвращает объект[`Angle`](../../angle).
+Возвращает[`Angle`](../../angle) объект.
 
 ### Смотрите также
 

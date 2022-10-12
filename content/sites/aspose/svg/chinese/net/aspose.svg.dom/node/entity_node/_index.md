@@ -1,14 +1,14 @@
 ---
 title: ENTITY_NODE
 second_title: Aspose.SVG for .NET API 参考
-description: 实体节点
+description: 一个实体节点
 type: docs
 weight: 390
 url: /zh/net/aspose.svg.dom/node/entity_node/
 ---
 ## Node.ENTITY_NODE field
 
-实体节点
+一个实体节点
 
 ```csharp
 public const ushort ENTITY_NODE;

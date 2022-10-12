@@ -1,14 +1,14 @@
 ---
 title: IParentNode
 second_title: Aspose.SVG for .NET API 参考
-description: 定义由任何可能的父节点实现的IParentNode./iparentnode接口
+description: 定义IParentNode./iparentnode由任何可能的父母实现的接口
 type: docs
-weight: 1110
+weight: 1100
 url: /zh/net/aspose.svg.dom/iparentnode/
 ---
 ## IParentNode interface
 
-定义由任何可能的父节点实现的[`IParentNode`](../iparentnode)接口。
+定义[`IParentNode`](../iparentnode)由任何可能的父母实现的接口。
 
 ```csharp
 public interface IParentNode : IElementTraversal
@@ -27,7 +27,7 @@ public interface IParentNode : IElementTraversal
 
 | 姓名 | 描述 |
 | --- | --- |
-| [QuerySelector](../../aspose.svg.dom/iparentnode/queryselector)(string) | 返回第一个与选择器匹配的节点的后代元素。 |
+| [QuerySelector](../../aspose.svg.dom/iparentnode/queryselector)(string) | 返回与选择器匹配的节点的后代的第一个元素。 |
 | [QuerySelectorAll](../../aspose.svg.dom/iparentnode/queryselectorall)(string) | 返回与选择器匹配的节点的所有元素后代。 |
 
 ### 也可以看看

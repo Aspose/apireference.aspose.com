@@ -1,14 +1,14 @@
 ---
 title: Width
 second_title: Справочник по Aspose.SVG для .NET API
-description: Соответствует атрибуту ширина данного элемента фильтр.
+description: Соответствует атрибуту width данного элемента filter.
 type: docs
 weight: 60
 url: /ru/net/aspose.svg.filters/svgfegaussianblurelement/width/
 ---
 ## SVGFEGaussianBlurElement.Width property
 
-Соответствует атрибуту «ширина» данного элемента «фильтр».
+Соответствует атрибуту «width» данного элемента «filter».
 
 ```csharp
 public SVGAnimatedLength Width { get; }
@@ -16,7 +16,7 @@ public SVGAnimatedLength Width { get; }
 
 ### Стоимость имущества
 
-Атрибут «Ширина» данного элемента «фильтр».
+Атрибут «Ширина» данного элемента «Фильтр».
 
 ### Смотрите также
 

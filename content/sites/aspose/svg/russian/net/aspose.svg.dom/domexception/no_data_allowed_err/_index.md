@@ -1,14 +1,14 @@
 ---
 title: NO_DATA_ALLOWED_ERR
 second_title: Справочник по Aspose.SVG для .NET API
-description: Если данные указаны для Узла который не поддерживает данные.
+description: Если данные указаны для узла который не поддерживает данные.
 type: docs
 weight: 210
 url: /ru/net/aspose.svg.dom/domexception/no_data_allowed_err/
 ---
 ## DOMException.NO_DATA_ALLOWED_ERR field
 
-Если данные указаны для Узла, который не поддерживает данные.
+Если данные указаны для узла, который не поддерживает данные.
 
 ```csharp
 public const ushort NO_DATA_ALLOWED_ERR;

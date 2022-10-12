@@ -1,14 +1,14 @@
 ---
 title: FocusEvent
 second_title: Справочник по Aspose.SVG для .NET API
-description: Инициализирует новый экземпляр классаFocusEventaspose.svg.dom.events/focusevent.
+description: Инициализирует новый экземплярFocusEventaspose.svg.dom.events/focusevent класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.dom.events/focusevent/focusevent/
 ---
 ## FocusEvent(string) {#constructor}
 
-Инициализирует новый экземпляр класса[`FocusEvent`](../../focusevent).
+Инициализирует новый экземпляр[`FocusEvent`](../../focusevent) класс.
 
 ```csharp
 public FocusEvent(string type)
@@ -28,7 +28,7 @@ public FocusEvent(string type)
 
 ## FocusEvent(string, IDictionary&lt;string, object&gt;) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`FocusEvent`](../../focusevent).
+Инициализирует новый экземпляр[`FocusEvent`](../../focusevent) класс.
 
 ```csharp
 public FocusEvent(string type, IDictionary<string, object> eventInitDict)

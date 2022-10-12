@@ -20,7 +20,7 @@ public ICSSStyleDeclaration GetComputedStyle(Element element)
 
 ### 返回值
 
-计算的样式
+计算样式
 
 ### 也可以看看
 
@@ -47,7 +47,7 @@ public ICSSStyleDeclaration GetComputedStyle(Element element, string pseudoEleme
 
 ### 返回值
 
-计算的样式
+计算样式
 
 ### 也可以看看
 

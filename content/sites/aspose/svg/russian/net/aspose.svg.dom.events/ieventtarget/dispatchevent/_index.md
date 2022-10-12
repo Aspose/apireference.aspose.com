@@ -16,11 +16,11 @@ public bool DispatchEvent(Event @event)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| event | Event | Определяет тип события, поведение и контекстную информацию, которые будут использоваться при обработке события. |
+| event | Event | Задает тип события, поведение и контекстную информацию, которые будут использоваться при обработке события. |
 
 ### Возвращаемое значение
 
-Возвращаемое значение[`DispatchEvent`](../../../aspose.svg.dom/eventtarget/dispatchevent)указывает был ли какой-либо из слушателей, которые обрабатывали событие с именем[`PreventDefault`](../../event/preventdefault). Если был вызван[`PreventDefault`](../../event/preventdefault), значение равно false, в противном случае значение равно true.
+Возвращаемое значение[`DispatchEvent`](../../../aspose.svg.dom/eventtarget/dispatchevent) указывает, был ли какой-либо из слушателей, обработавших событие, вызванное[`PreventDefault`](../../event/preventdefault) . Если[`PreventDefault`](../../event/preventdefault) было вызвано, значение ложно, иначе значение истинно.
 
 ### Исключения
 
@@ -30,7 +30,7 @@ public bool DispatchEvent(Event @event)
 
 ### Примечания
 
-События, отправленные таким образом, будут иметь то же поведение захвата и всплытия, что и события, отправляемые непосредственно реализацией. Целью события является[`EventTarget`](../../../aspose.svg.dom/eventtarget), на котором[`DispatchEvent`](../../../aspose.svg.dom/eventtarget/dispatchevent)называется.
+События, отправленные таким образом, будут иметь такое же поведение при захвате и воспроизведении, что и события, отправленные непосредственно реализацией. Целью события является[`EventTarget`](../../../aspose.svg.dom/eventtarget) на котором[`DispatchEvent`](../../../aspose.svg.dom/eventtarget/dispatchevent) называется .
 
 ### Смотрите также
 

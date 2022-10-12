@@ -1,14 +1,14 @@
 ---
 title: LENGTHADJUST_SPACING
 second_title: Справочник по Aspose.SVG для .NET API
-description: Соответствует значению spacing.
+description: Соответствует значению интервал.
 type: docs
 weight: 50
 url: /ru/net/aspose.svg/svgtextcontentelement/lengthadjust_spacing/
 ---
 ## SVGTextContentElement.LENGTHADJUST_SPACING field
 
-Соответствует значению 'spacing'.
+Соответствует значению «интервал».
 
 ```csharp
 public const ushort LENGTHADJUST_SPACING;

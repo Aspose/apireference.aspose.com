@@ -1,14 +1,14 @@
 ---
 title: SystemId
 second_title: Aspose.SVG for .NET API 参考
-description: 与实体关联的系统标识符如果指定否则为 null这可能是绝对 URI也可能不是
+description: 如果指定则为与实体关联的系统标识符否则为 null这可能是绝对 URI也可能不是
 type: docs
 weight: 60
 url: /zh/net/aspose.svg.dom/entity/systemid/
 ---
 ## Entity.SystemId property
 
-与实体关联的系统标识符（如果指定），否则为 null。这可能是绝对 URI，也可能不是。
+如果指定，则为与实体关联的系统标识符，否则为 null。这可能是绝对 URI，也可能不是。
 
 ```csharp
 public string SystemId { get; }

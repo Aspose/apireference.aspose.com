@@ -17,8 +17,8 @@ public void InitTimeEvent(string typeArg, IAbstractView viewArg, long detailArg)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | typeArg | String | Указывает тип события. |
-| viewArg | IAbstractView | Определяет AbstractView События. |
-| detailArg | Int64 | Указывает подробности события. |
+| viewArg | IAbstractView | Определяет AbstractView события. |
+| detailArg | Int64 | Определяет детали события. |
 
 ### Смотрите также
 

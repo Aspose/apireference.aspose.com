@@ -3,7 +3,7 @@ title: MediaType
 second_title: Справочник по Aspose.SVG для .NET API
 description: Определяет возможные типы мультимедиа используемые во время рендеринга.
 type: docs
-weight: 2840
+weight: 2850
 url: /ru/net/aspose.svg.rendering/mediatype/
 ---
 ## MediaType enumeration
@@ -18,8 +18,8 @@ public enum MediaType
 
 | Имя | Ценность | Описание |
 | --- | --- | --- |
-| Print | `0` | Во время рендеринга используется` Print` носитель для печати. |
-| Screen | `1` | Во время рендеринга используется экран` Screen` . |
+| Print | `0` | `Распечатать` медиа используется во время рендеринга. |
+| Screen | `1` | `Экран` медиа используется во время рендеринга. |
 
 ### Смотрите также
 

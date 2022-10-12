@@ -1,14 +1,14 @@
 ---
 title: CSS_STRING
 second_title: Aspose.SVG for .NET API 参考
-description: 值是一个字符串可以使用 getStringValue 方法获取该值
+description: 该值是一个字符串可以使用getStringValue方法获取值
 type: docs
 weight: 390
 url: /zh/net/aspose.svg.dom.css/cssprimitivevalue/css_string/
 ---
 ## CSSPrimitiveValue.CSS_STRING field
 
-值是一个字符串。可以使用 getStringValue 方法获取该值。
+该值是一个字符串。可以使用getStringValue方法获取值。
 
 ```csharp
 public const ushort CSS_STRING;

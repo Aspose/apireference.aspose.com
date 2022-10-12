@@ -3,7 +3,7 @@ title: RequestMessage
 second_title: Aspose.SVG for .NET API 参考
 description: 表示请求消息
 type: docs
-weight: 2380
+weight: 2390
 url: /zh/net/aspose.svg.net/requestmessage/
 ---
 ## RequestMessage class
@@ -18,20 +18,20 @@ public class RequestMessage : IDisposable
 
 | 姓名 | 描述 |
 | --- | --- |
-| [RequestMessage](requestmessage#constructor_1)(string) | 初始化[`RequestMessage`](../requestmessage)类的新实例。 |
-| [RequestMessage](requestmessage#constructor)(Url) | 初始化[`RequestMessage`](../requestmessage)类的新实例。 |
+| [RequestMessage](requestmessage#constructor_1)(string) | 初始化[`RequestMessage`](../requestmessage)类. |
+| [RequestMessage](requestmessage#constructor)(Url) | 初始化[`RequestMessage`](../requestmessage)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Content](../../aspose.svg.net/requestmessage/content) { get; set; } | 获取或设置请求内容。 |
-| [CookieContainer](../../aspose.svg.net/requestmessage/cookiecontainer) { get; set; } | 获取或设置处理程序用来存储服务器 cookie 的 cookie 容器。 |
-| [Credentials](../../aspose.svg.net/requestmessage/credentials) { get; set; } | 获取或设置请求的身份验证信息。 |
-| [Headers](../../aspose.svg.net/requestmessage/headers) { get; } | 获取[`RequestHeaders`](../requestheaders)。 |
-| [Method](../../aspose.svg.net/requestmessage/method) { get; set; } | 获取或设置[`HttpMethod`](../httpmethod)。 |
+| [Content](../../aspose.svg.net/requestmessage/content) { get; set; } | 获取或设置请求内容 |
+| [CookieContainer](../../aspose.svg.net/requestmessage/cookiecontainer) { get; set; } | 获取或设置处理程序用于存储服务器 cookie 的 cookie 容器。 |
+| [Credentials](../../aspose.svg.net/requestmessage/credentials) { get; set; } | 获取或设置请求的认证信息。 |
+| [Headers](../../aspose.svg.net/requestmessage/headers) { get; } | 获取[`RequestHeaders`](../requestheaders) . |
+| [Method](../../aspose.svg.net/requestmessage/method) { get; set; } | 获取或设置[`HttpMethod`](../httpmethod) . |
 | [PreAuthenticate](../../aspose.svg.net/requestmessage/preauthenticate) { get; set; } | 获取或设置一个值，该值指示是否随请求发送授权标头。 |
-| [RequestUri](../../aspose.svg.net/requestmessage/requesturi) { get; set; } | 获取或设置请求 URI。 |
+| [RequestUri](../../aspose.svg.net/requestmessage/requesturi) { get; set; } | 获取或设置请求URI。 |
 | [Timeout](../../aspose.svg.net/requestmessage/timeout) { get; set; } | 请求超时前等待的毫秒数。默认值为 100,000 毫秒（100 秒）。 |
 
 ## 方法

@@ -1,7 +1,7 @@
 ---
 title: PauseAfter
 second_title: Справочник по Aspose.SVG для .NET API
-description: См. определение свойства pause-after в CSS2.
+description: См. определение свойства pauseafter в CSS2.
 type: docs
 weight: 900
 url: /ru/net/aspose.svg.dom.css/icss2properties/pauseafter/
@@ -16,7 +16,7 @@ public string PauseAfter { get; set; }
 
 ### Возвращаемое значение
 
-свойство паузы после
+свойство pause-after
 
 ### Смотрите также
 

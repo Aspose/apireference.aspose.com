@@ -1,14 +1,14 @@
 ---
 title: ContentDispositionHeaderValue
 second_title: Справочник по Aspose.SVG для .NET API
-description: Создайте новый экземпляр этого типа диспозиции.
+description: Создать новый экземпляр этого типа расположения.
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.net.headers/contentdispositionheadervalue/contentdispositionheadervalue/
 ---
 ## ContentDispositionHeaderValue constructor
 
-Создайте новый экземпляр этого типа диспозиции.
+Создать новый экземпляр этого типа расположения.
 
 ```csharp
 public ContentDispositionHeaderValue(string dispositionType)

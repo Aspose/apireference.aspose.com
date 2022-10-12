@@ -1,14 +1,14 @@
 ---
 title: GetHashCode
 second_title: Справочник по Aspose.SVG для .NET API
-description: Возвращает хэш-код для данного экземпляра.
+description: Возвращает хэшкод для этого экземпляра.
 type: docs
 weight: 40
 url: /ru/net/aspose.svg.dom.css/cssvalue/gethashcode/
 ---
 ## CSSValue.GetHashCode method
 
-Возвращает хэш-код для данного экземпляра.
+Возвращает хэш-код для этого экземпляра.
 
 ```csharp
 public override int GetHashCode()

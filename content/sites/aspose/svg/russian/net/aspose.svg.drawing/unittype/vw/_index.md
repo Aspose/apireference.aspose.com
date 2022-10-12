@@ -1,14 +1,14 @@
 ---
 title: Vw
 second_title: Справочник по Aspose.SVG для .NET API
-description: Измерение относительно 1 ширины окна просмотра
+description: Измерение относится к 1 ширины окна просмотра
 type: docs
 weight: 300
 url: /ru/net/aspose.svg.drawing/unittype/vw/
 ---
 ## UnitType.Vw field
 
-Измерение относительно 1% ширины окна просмотра*
+Измерение относится к 1% ширины окна просмотра*
 
 ```csharp
 public static readonly UnitType Vw;

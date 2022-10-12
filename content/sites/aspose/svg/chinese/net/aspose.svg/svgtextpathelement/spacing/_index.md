@@ -1,14 +1,14 @@
 ---
 title: Spacing
 second_title: Aspose.SVG for .NET API 参考
-description: 对应于给定 textPath 元素上的属性 spacing
+description: 对应于给定textPath元素的属性间距
 type: docs
 weight: 30
 url: /zh/net/aspose.svg/svgtextpathelement/spacing/
 ---
 ## SVGTextPathElement.Spacing property
 
-对应于给定 'textPath' 元素上的属性 'spacing'。
+对应于给定“textPath”元素的属性“间距”。
 
 ```csharp
 public SVGAnimatedEnumeration Spacing { get; }
@@ -16,7 +16,7 @@ public SVGAnimatedEnumeration Spacing { get; }
 
 ### 适当的价值
 
-给定 'textPath' 元素的属性 'spacing'。
+给定“textPath”元素的属性“间距”。
 
 ### 也可以看看
 

@@ -1,12 +1,12 @@
 ---
 title: Aspose.Svg.Net.Headers
 second_title: Aspose.SVG for .NET API 参考
-description: Aspose.Svg.Net.Headers 为 提供了很少的数据类来描述网络中的标题内容
+description: 的 Aspose.Svg.Net.Headers为 提供了一些数据类来描述网络中的标头内容
 type: docs
 weight: 200
 url: /zh/net/aspose.svg.net.headers/
 ---
-**Aspose.Svg.Net.Headers** 为 提供了很少的数据类来描述网络中的标题内容。
+的 **Aspose.Svg.Net.Headers**为 提供了一些数据类来描述网络中的标头内容。
 
 ## 课程
 

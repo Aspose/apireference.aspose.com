@@ -8,7 +8,7 @@ url: /ru/net/aspose.svg.filters/svgfediffuselightingelement/diffuseconstant/
 ---
 ## SVGFEDiffuseLightingElement.DiffuseConstant property
 
-Соответствует атрибуту 'diffuseConstant' данного элемента 'feDiffuseLighting'.
+Соответствует атрибуту diffuseConstant данного элемента feDiffuseLighting.
 
 ```csharp
 public SVGAnimatedNumber DiffuseConstant { get; }
@@ -16,7 +16,7 @@ public SVGAnimatedNumber DiffuseConstant { get; }
 
 ### Стоимость имущества
 
-Атрибут 'diffuseConstant' данного элемента 'feDiffuseLighting'.
+Атрибут diffuseConstant данного элемента feDiffuseLighting.
 
 ### Смотрите также
 

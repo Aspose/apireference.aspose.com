@@ -1,14 +1,14 @@
 ---
 title: SVG_FEBLEND_MODE_HUE
 second_title: Aspose.SVG for .NET API 参考
-description: 对应于值 hue
+description: 对应于值 hue.
 type: docs
 weight: 160
 url: /zh/net/aspose.svg.filters/svgfeblendelement/svg_feblend_mode_hue/
 ---
 ## SVGFEBlendElement.SVG_FEBLEND_MODE_HUE field
 
-对应于值 'hue'。
+对应于值 'hue'.
 
 ```csharp
 public const ushort SVG_FEBLEND_MODE_HUE;

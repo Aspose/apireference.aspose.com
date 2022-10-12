@@ -1,14 +1,14 @@
 ---
 title: PatternContentUnits
 second_title: Aspose.SVG for .NET API 参考
-description: 对应于给定 pattern 元素的属性 patternContentUnits采用 SVGUnitTypes 中定义的常量之一
+description: 对应于给定 pattern 元素的属性 patternContentUnits采用 SVGUnitTypes. 中定义的常量之一
 type: docs
 weight: 30
 url: /zh/net/aspose.svg/svgpatternelement/patterncontentunits/
 ---
 ## SVGPatternElement.PatternContentUnits property
 
-对应于给定 'pattern' 元素的属性 'patternContentUnits'。采用 SVGUnitTypes 中定义的常量之一。
+对应于给定 'pattern' 元素的属性 'patternContentUnits'。采用 SVGUnitTypes. 中定义的常量之一
 
 ```csharp
 public SVGAnimatedEnumeration PatternContentUnits { get; }
@@ -16,7 +16,7 @@ public SVGAnimatedEnumeration PatternContentUnits { get; }
 
 ### 适当的价值
 
-给定 'pattern' 元素的属性 'patternContentUnits'。
+给定'pattern'元素的属性'patternContentUnits'。
 
 ### 也可以看看
 

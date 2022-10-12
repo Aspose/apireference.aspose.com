@@ -3,7 +3,7 @@ title: SVGAnimatedRect
 second_title: Справочник по Aspose.SVG для .NET API
 description: Используется для атрибутов типа SVGRect которые можно анимировать.
 type: docs
-weight: 190
+weight: 180
 url: /ru/net/aspose.svg.datatypes/svganimatedrect/
 ---
 ## SVGAnimatedRect class
@@ -26,8 +26,8 @@ public class SVGAnimatedRect : SVGAnimatedValue<SVGRect>
 | Имя | Описание |
 | --- | --- |
 | [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose)() | Освобождает неуправляемые и (необязательно) управляемые ресурсы. |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | Этот метод используется для получения объекта ECMAScriptType. |
-| override [ToString](../../aspose.svg.datatypes/svganimatedrect/tostring)() | ВозвращаетString, представляющий этот экземпляр. |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | Этот метод используется для получения объекта ECMAScript.Type . |
+| override [ToString](../../aspose.svg.datatypes/svganimatedrect/tostring)() | ВозвращаетString который представляет этот экземпляр. |
 
 ### Смотрите также
 

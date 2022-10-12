@@ -1,14 +1,14 @@
 ---
 title: DOM_DELTA_PAGE
 second_title: Aspose.SVG for .NET API 参考
-description: delta 的度量单位必须是页面可以定义为单个屏幕或定义为分界的页面
+description: delta 的度量单位必须是页面定义为单个屏幕或划分的页面
 type: docs
 weight: 70
 url: /zh/net/aspose.svg.dom.events/wheelevent/dom_delta_page/
 ---
 ## WheelEvent.DOM_DELTA_PAGE field
 
-delta 的度量单位必须是页面，可以定义为单个屏幕或定义为分界的页面。
+delta 的度量单位必须是页面，定义为单个屏幕或划分的页面。
 
 ```csharp
 public const ulong DOM_DELTA_PAGE;

@@ -1,14 +1,14 @@
 ---
 title: Method
 second_title: Aspose.SVG for .NET API 参考
-description: 对应于给定 textPath 元素的属性 method
+description: 对应于给定textPath元素的属性方法
 type: docs
 weight: 20
 url: /zh/net/aspose.svg/svgtextpathelement/method/
 ---
 ## SVGTextPathElement.Method property
 
-对应于给定 'textPath' 元素的属性 'method'。
+对应于给定“textPath”元素的属性“方法”。
 
 ```csharp
 public SVGAnimatedEnumeration Method { get; }

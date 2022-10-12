@@ -1,14 +1,14 @@
 ---
 title: XmlVersion
 second_title: Aspose.SVG for .NET API 参考
-description: 作为 XML 声明的一部分指定此文档的版本号的属性如果没有声明并且该文档支持XML特性则值为1.0如果此文档不支持XML功能则该值始终为空
+description: 一个属性作为 XML 声明的一部分指定该文档的版本号如果没有声明并且该文档支持XML特性则值为1.0如果此文档不支持XML功能则该值始终为 null.
 type: docs
 weight: 270
 url: /zh/net/aspose.svg.dom/document/xmlversion/
 ---
 ## Document.XmlVersion property
 
-作为 XML 声明的一部分，指定此文档的版本号的属性。如果没有声明并且该文档支持“XML”特性，则值为“1.0”。如果此文档不支持“XML”功能，则该值始终为空。
+一个属性，作为 XML 声明的一部分，指定该文档的版本号。如果没有声明并且该文档支持“XML”特性，则值为“1.0”。如果此文档不支持“XML”功能，则该值始终为 null.
 
 ```csharp
 public string XmlVersion { get; set; }

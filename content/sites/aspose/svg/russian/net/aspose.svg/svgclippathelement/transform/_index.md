@@ -1,14 +1,14 @@
 ---
 title: Transform
 second_title: Справочник по Aspose.SVG для .NET API
-description: Соответствует атрибуту transform данного элемента.
+description: Соответствует атрибуту преобразование данного элемента.
 type: docs
 weight: 20
 url: /ru/net/aspose.svg/svgclippathelement/transform/
 ---
 ## SVGClipPathElement.Transform property
 
-Соответствует атрибуту 'transform' данного элемента.
+Соответствует атрибуту «преобразование» данного элемента.
 
 ```csharp
 public SVGAnimatedTransformList Transform { get; }

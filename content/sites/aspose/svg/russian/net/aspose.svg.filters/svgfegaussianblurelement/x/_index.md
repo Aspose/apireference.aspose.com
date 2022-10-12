@@ -1,14 +1,14 @@
 ---
 title: X
 second_title: Справочник по Aspose.SVG для .NET API
-description: Соответствует атрибуту x данного элемента фильтр.
+description: Соответствует атрибуту x данного элемента filter.
 type: docs
 weight: 70
 url: /ru/net/aspose.svg.filters/svgfegaussianblurelement/x/
 ---
 ## SVGFEGaussianBlurElement.X property
 
-Соответствует атрибуту «x» данного элемента «фильтр».
+Соответствует атрибуту "x" данного элемента "filter".
 
 ```csharp
 public SVGAnimatedLength X { get; }
@@ -16,7 +16,7 @@ public SVGAnimatedLength X { get; }
 
 ### Стоимость имущества
 
-Атрибут «x» данного элемента «фильтр».
+Атрибут "x" данного элемента "filter".
 
 ### Смотрите также
 

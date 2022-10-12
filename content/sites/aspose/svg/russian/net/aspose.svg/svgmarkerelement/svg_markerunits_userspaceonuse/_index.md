@@ -1,14 +1,14 @@
 ---
 title: SVG_MARKERUNITS_USERSPACEONUSE
 second_title: Справочник по Aspose.SVG для .NET API
-description: Значением атрибута markerUnits является userSpaceOnUse.
+description: Значение атрибута markerUnits равно userSpaceOnUse.
 type: docs
 weight: 140
 url: /ru/net/aspose.svg/svgmarkerelement/svg_markerunits_userspaceonuse/
 ---
 ## SVGMarkerElement.SVG_MARKERUNITS_USERSPACEONUSE field
 
-Значением атрибута 'markerUnits' является 'userSpaceOnUse'.
+Значение атрибута 'markerUnits' равно 'userSpaceOnUse'.
 
 ```csharp
 public const ushort SVG_MARKERUNITS_USERSPACEONUSE;

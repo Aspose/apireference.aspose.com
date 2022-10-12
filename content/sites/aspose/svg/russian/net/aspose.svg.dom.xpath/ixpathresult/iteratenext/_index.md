@@ -1,14 +1,14 @@
 ---
 title: IterateNext
 second_title: Справочник по Aspose.SVG для .NET API
-description: Выполняет итерацию и возвращает следующий узел из набора узлов или null  если узлов больше нет.
+description: Итерирует и возвращает следующий узел из набора узлов илинулевой если больше нет узлов.
 type: docs
 weight: 80
 url: /ru/net/aspose.svg.dom.xpath/ixpathresult/iteratenext/
 ---
 ## IXPathResult.IterateNext method
 
-Выполняет итерацию и возвращает следующий узел из набора узлов или` null` , если узлов больше нет.
+Итерирует и возвращает следующий узел из набора узлов или`нулевой` если больше нет узлов.
 
 ```csharp
 public Node IterateNext()
@@ -22,8 +22,8 @@ public Node IterateNext()
 
 | исключение | условие |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception) | TYPE_ERR: возникает, если` resultType` не ` UnorderedNodeIterator` type или` OrderedNodeIterator` type. |
-| [DOMException](../../../aspose.svg.dom/domexception) | INVALID_STATE_ERR: Документ был изменен с момента возврата результата. |
+| [DOMException](../../../aspose.svg.dom/domexception) | TYPE_ERR: возникает, если`тип результата` не `UnorderedNodeIterator` тип или`OrderedNodeIterator` тип. |
+| [DOMException](../../../aspose.svg.dom/domexception) | INVALID_STATE_ERR: документ был изменен с момента возврата результата. |
 
 ### Смотрите также
 

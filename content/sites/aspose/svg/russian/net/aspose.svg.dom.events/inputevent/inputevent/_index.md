@@ -1,14 +1,14 @@
 ---
 title: InputEvent
 second_title: Справочник по Aspose.SVG для .NET API
-description: Инициализирует новый экземпляр классаInputEventaspose.svg.dom.events/inputevent.
+description: Инициализирует новый экземплярInputEventaspose.svg.dom.events/inputevent класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.dom.events/inputevent/inputevent/
 ---
 ## InputEvent(string) {#constructor}
 
-Инициализирует новый экземпляр класса[`InputEvent`](../../inputevent).
+Инициализирует новый экземпляр[`InputEvent`](../../inputevent) класс.
 
 ```csharp
 public InputEvent(string type)
@@ -28,7 +28,7 @@ public InputEvent(string type)
 
 ## InputEvent(string, IDictionary&lt;string, object&gt;) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`InputEvent`](../../inputevent).
+Инициализирует новый экземпляр[`InputEvent`](../../inputevent) класс.
 
 ```csharp
 public InputEvent(string type, IDictionary<string, object> eventInitDict)

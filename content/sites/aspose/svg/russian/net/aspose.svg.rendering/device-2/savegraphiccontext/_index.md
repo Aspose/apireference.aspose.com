@@ -1,14 +1,14 @@
 ---
 title: SaveGraphicContext
 second_title: Справочник по Aspose.SVG для .NET API
-description: Помещает в стек копию всего графического контекста.
+description: Помещает копию всего графического контекста в стек.
 type: docs
 weight: 210
 url: /ru/net/aspose.svg.rendering/device-2/savegraphiccontext/
 ---
 ## Device&lt;TGraphicContext,TRenderingOptions&gt;.SaveGraphicContext method
 
-Помещает в стек копию всего графического контекста.
+Помещает копию всего графического контекста в стек.
 
 ```csharp
 public virtual void SaveGraphicContext()

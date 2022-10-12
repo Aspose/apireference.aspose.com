@@ -1,14 +1,14 @@
 ---
 title: OwnerSVGElement
 second_title: Справочник по Aspose.SVG для .NET API
-description: Ближайший предок элемента svg. Null если данный элемент является самым внешним элементом svg.
+description: Ближайший элементпредок svg. Null если данный элемент является самым внешним элементом svg.
 type: docs
 weight: 30
 url: /ru/net/aspose.svg/svgelement/ownersvgelement/
 ---
 ## SVGElement.OwnerSVGElement property
 
-Ближайший предок элемента 'svg'. Null, если данный элемент является самым внешним элементом svg.
+Ближайший элемент-предок 'svg'. Null, если данный элемент является самым внешним элементом svg.
 
 ```csharp
 public SVGSVGElement OwnerSVGElement { get; }

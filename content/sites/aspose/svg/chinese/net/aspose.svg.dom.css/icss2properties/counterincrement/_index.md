@@ -1,14 +1,14 @@
 ---
 title: CounterIncrement
 second_title: Aspose.SVG for .NET API 参考
-description: 请参阅 CSS2 中的计数器增量属性定义
+description: 参见 CSS2 中的 counterincrement 属性定义
 type: docs
 weight: 360
 url: /zh/net/aspose.svg.dom.css/icss2properties/counterincrement/
 ---
 ## ICSS2Properties.CounterIncrement property
 
-请参阅 CSS2 中的计数器增量属性定义。
+参见 CSS2 中的 counter-increment 属性定义。
 
 ```csharp
 public string CounterIncrement { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: Detach
 second_title: Aspose.SVG for .NET API 参考
-description: 将 NodeIterator 从它迭代 的集合中分离出来释放所有计算资源并将迭代器 置于 INVALID 状态调用分离后 对 nextNode 或 previousNode 的调用将 引发异常 INVALID_STATE_ERR
+description: 将 NodeIterator 从 iterated 的集合中分离出来释放所有计算资源并将 iterator 置于 INVALID 状态调用分离后 调用 nextNode 或 previousNode 将 引发异常 INVALID_STATE_ERR.
 type: docs
 weight: 30
 url: /zh/net/aspose.svg.dom.traversal/inodeiterator/detach/
 ---
 ## INodeIterator.Detach method
 
-将 NodeIterator 从它迭代 的集合中分离出来，释放所有计算资源并将迭代器 置于 INVALID 状态。调用分离后， 对 nextNode 或 previousNode 的调用将 引发异常 INVALID_STATE_ERR。
+将 NodeIterator 从 iterated 的集合中分离出来，释放所有计算资源并将 iterator 置于 INVALID 状态。调用分离后， 调用 nextNode 或 previousNode 将 引发异常 INVALID_STATE_ERR.
 
 ```csharp
 public void Detach()

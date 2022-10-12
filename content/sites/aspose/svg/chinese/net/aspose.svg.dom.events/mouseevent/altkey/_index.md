@@ -1,14 +1,14 @@
 ---
 title: AltKey
 second_title: Aspose.SVG for .NET API 参考
-description: 请参阅 altKey 属性
+description: 参考altKey属性
 type: docs
 weight: 20
 url: /zh/net/aspose.svg.dom.events/mouseevent/altkey/
 ---
 ## MouseEvent.AltKey property
 
-请参阅 altKey 属性。
+参考altKey属性。
 
 ```csharp
 public bool AltKey { get; }
@@ -16,7 +16,7 @@ public bool AltKey { get; }
 
 ### 适当的价值
 
-` true` if [alt key];否则，` false` 。
+`真的`如果 [alt 键];否则，`错误的` .
 
 ### 也可以看看
 

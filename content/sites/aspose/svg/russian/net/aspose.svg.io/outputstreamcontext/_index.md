@@ -3,7 +3,7 @@ title: OutputStreamContext
 second_title: Справочник по Aspose.SVG для .NET API
 description: Контекст для инициализации выходного потока.
 type: docs
-weight: 1980
+weight: 1990
 url: /ru/net/aspose.svg.io/outputstreamcontext/
 ---
 ## OutputStreamContext class
@@ -18,7 +18,7 @@ public class OutputStreamContext
 
 | Имя | Описание |
 | --- | --- |
-| [OutputStreamContext](outputstreamcontext)(string) | Инициализирует новый экземпляр класса[`OutputStreamContext`](../outputstreamcontext). |
+| [OutputStreamContext](outputstreamcontext)(string) | Инициализирует новый экземпляр[`OutputStreamContext`](../outputstreamcontext) класс. |
 
 ## Характеристики
 

@@ -1,14 +1,14 @@
 ---
 title: Vh
 second_title: Справочник по Aspose.SVG для .NET API
-description: Измерение относительно 1 высоты окна просмотра Попробуйте
+description: Измерение относится к 1 высоты окна просмотра Попробуйте
 type: docs
 weight: 270
 url: /ru/net/aspose.svg.drawing/unittype/vh/
 ---
 ## UnitType.Vh field
 
-Измерение относительно 1% высоты окна просмотра* Попробуйте
+Измерение относится к 1% высоты окна просмотра* Попробуйте
 
 ```csharp
 public static readonly UnitType Vh;

@@ -1,14 +1,14 @@
 ---
 title: SystemLanguage
 second_title: Aspose.SVG for .NET API 参考
-description: 对应于给定元素的属性systemLanguage
+description: 对应于给定元素上的属性systemLanguage
 type: docs
 weight: 60
 url: /zh/net/aspose.svg/svgmaskelement/systemlanguage/
 ---
 ## SVGMaskElement.SystemLanguage property
 
-对应于给定元素的属性“systemLanguage”。
+对应于给定元素上的属性“systemLanguage”。
 
 ```csharp
 public SVGStringList SystemLanguage { get; }

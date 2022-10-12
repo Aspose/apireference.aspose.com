@@ -1,14 +1,14 @@
 ---
 title: DeviceTGraphicContextTRenderingOptions.PageWritingStrategyTGraphicContextTRenderingOptions
 second_title: Справочник по Aspose.SVG для .NET API
-description: Задает типы стратегий записи страниц в выходной потокпотоки.
+description: Определяет типы стратегий записи страниц в выходной потокпотоки.
 type: docs
-weight: 2710
+weight: 2720
 url: /ru/net/aspose.svg.rendering/device-2.pagewritingstrategy-2/
 ---
 ## Device&lt;TGraphicContext,TRenderingOptions&gt;.PageWritingStrategy&lt;TGraphicContext,TRenderingOptions&gt; enumeration
 
-Задает типы стратегий записи страниц в выходной поток\потоки.
+Определяет типы стратегий записи страниц в выходной поток\потоки.
 
 ```csharp
 public enum PageWritingStrategy<TGraphicContext, TRenderingOptions>

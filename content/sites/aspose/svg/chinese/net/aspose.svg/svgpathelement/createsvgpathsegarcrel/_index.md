@@ -1,14 +1,14 @@
 ---
 title: CreateSVGPathSegArcRel
 second_title: Aspose.SVG for .NET API 参考
-description: 返回一个独立的无父对象的 SVGPathSegArcRel 对象
+description: 返回一个独立的无父 SVGPathSegArcRel 对象
 type: docs
 weight: 40
 url: /zh/net/aspose.svg/svgpathelement/createsvgpathsegarcrel/
 ---
 ## SVGPathElement.CreateSVGPathSegArcRel method
 
-返回一个独立的、无父对象的 SVGPathSegArcRel 对象。
+返回一个独立的无父 SVGPathSegArcRel 对象。
 
 ```csharp
 public SVGPathSegArcRel CreateSVGPathSegArcRel(float x, float y, float r1, float r2, float angle, 
@@ -21,7 +21,7 @@ public SVGPathSegArcRel CreateSVGPathSegArcRel(float x, float y, float r1, float
 | y | Single | 此路径段终点的相对 Y 坐标。 |
 | r1 | Single | 椭圆的 x 轴半径（即 r1）。 |
 | r2 | Single | 椭圆的 y 轴半径（即 r2）。 |
-| angle | Single | 椭圆的 x 轴相对于用户坐标系 x 轴的旋转角度，以度为单位。 |
+| angle | Single | 椭圆的 x 轴相对于用户坐标系的 x 轴的旋转角度（以度为单位）。 |
 | largeArcFlag | Boolean | large-arc-flag 参数的值。 |
 | sweepFlag | Boolean | large-arc-flag 参数的值。 |
 

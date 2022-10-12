@@ -1,14 +1,14 @@
 ---
 title: Equals
 second_title: Справочник по Aspose.SVG для .NET API
-description: Определяет равен ли указанныйUnitaspose.svg.drawing/unitэтому экземпляру.
+description: Определяет является ли указанныйUnitaspose.svg.drawing/unit  равно этому экземпляру.
 type: docs
 weight: 20
 url: /ru/net/aspose.svg.drawing/numeric/equals/
 ---
 ## Numeric.Equals method
 
-Определяет, равен ли указанный[`Unit`](../../unit)этому экземпляру.
+Определяет, является ли указанный[`Unit`](../../unit) , равно этому экземпляру.
 
 ```csharp
 public override bool Equals(Unit other)
@@ -16,11 +16,11 @@ public override bool Equals(Unit other)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| other | Unit | [`Unit`](../../unit)для сравнения с этим экземпляром. |
+| other | Unit | [`Unit`](../../unit) для сравнения с этим экземпляром. |
 
 ### Возвращаемое значение
 
-` true` , если указанный[`Unit`](../../unit)равен этому экземпляру; в противном случае` false` .
+`истинный` если указанный[`Unit`](../../unit) равен этому экземпляру; в противном случае,`ЛОЖЬ` .
 
 ### Смотрите также
 

@@ -1,14 +1,14 @@
 ---
 title: SVG_PRESERVEASPECTRATIO_NONE
 second_title: Aspose.SVG for .NET API 参考
-description: 对应于属性preserveAspectRatio的值无
+description: 对应于属性preserveAspectRatio的值none
 type: docs
 weight: 70
 url: /zh/net/aspose.svg.datatypes/svgpreserveaspectratio/svg_preserveaspectratio_none/
 ---
 ## SVGPreserveAspectRatio.SVG_PRESERVEASPECTRATIO_NONE field
 
-对应于属性“preserveAspectRatio”的值“无”。
+对应于属性“preserveAspectRatio”的值“none”。
 
 ```csharp
 public const ushort SVG_PRESERVEASPECTRATIO_NONE;

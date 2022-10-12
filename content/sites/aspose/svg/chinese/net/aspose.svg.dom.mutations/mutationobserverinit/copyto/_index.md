@@ -1,14 +1,14 @@
 ---
 title: CopyTo
 second_title: Aspose.SVG for .NET API 参考
-description: 将MutationObserverInitaspose.svg.dom.mutations/mutationobserverinit元素复制到现有的一维数组从指定的数组索引开始
+description: 复制MutationObserverInitaspose.svg.dom.mutations/mutationobserverinit元素到现有的一维数组从指定的数组索引开始
 type: docs
 weight: 180
 url: /zh/net/aspose.svg.dom.mutations/mutationobserverinit/copyto/
 ---
 ## MutationObserverInit.CopyTo method
 
-将[`MutationObserverInit`](../../mutationobserverinit)元素复制到现有的一维数组，从指定的数组索引开始。
+复制[`MutationObserverInit`](../../mutationobserverinit)元素到现有的一维数组，从指定的数组索引开始。
 
 ```csharp
 public void CopyTo(KeyValuePair<string, object>[] array, int arrayIndex)

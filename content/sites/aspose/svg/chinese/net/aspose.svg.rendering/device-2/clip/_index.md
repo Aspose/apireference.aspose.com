@@ -1,14 +1,14 @@
 ---
 title: Clip
 second_title: Aspose.SVG for .NET API 参考
-description: 通过与当前路径相交来修改当前剪切路径使用 FillMode 规则确定要填充的区域 这个方法终止当前路径
+description: 通过与当前路径相交来修改当前剪切路径使用 FillMode 规则来确定要填充的区域 此方法终止当前路径
 type: docs
 weight: 70
 url: /zh/net/aspose.svg.rendering/device-2/clip/
 ---
 ## Device&lt;TGraphicContext,TRenderingOptions&gt;.Clip method
 
-通过与当前路径相交来修改当前剪切路径，使用 FillMode 规则确定要填充的区域。 这个方法终止当前路径。
+通过与当前路径相交来修改当前剪切路径，使用 FillMode 规则来确定要填充的区域。 此方法终止当前路径。
 
 ```csharp
 public abstract void Clip(FillMode mode)

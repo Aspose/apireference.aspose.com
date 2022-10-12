@@ -1,14 +1,14 @@
 ---
 title: Width
 second_title: Aspose.SVG for .NET API 参考
-description: 对应于给定 mask 元素的属性 width采用 SVGUnitTypes 中定义的常量之一
+description: 对应于给定 mask 元素的属性 width采用 SVGUnitTypes. 中定义的常量之一
 type: docs
 weight: 70
 url: /zh/net/aspose.svg/svgmaskelement/width/
 ---
 ## SVGMaskElement.Width property
 
-对应于给定 'mask' 元素的属性 'width'。采用 SVGUnitTypes 中定义的常量之一。
+对应于给定 'mask' 元素的属性 'width'。采用 SVGUnitTypes. 中定义的常量之一
 
 ```csharp
 public SVGAnimatedLength Width { get; }

@@ -1,14 +1,14 @@
 ---
 title: Grad
 second_title: Справочник по Aspose.SVG для .NET API
-description: Измерение в градусах.
+description: Измерение в градах.
 type: docs
 weight: 100
 url: /ru/net/aspose.svg.drawing/unittype/grad/
 ---
 ## UnitType.Grad field
 
-Измерение в градусах.
+Измерение в градах.
 
 ```csharp
 public static readonly UnitType Grad;

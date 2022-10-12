@@ -1,14 +1,14 @@
 ---
 title: OwnerElement
 second_title: Aspose.SVG for .NET API 参考
-description: Elementaspose.svg.dom/element命名空间在被请求时在其范围内 这在返回的命名空间节点上不会改变即使文档更改了这样的 命名空间超出了该元素的范围并且 XPath 不再找到该节点 .
+description: 的Elementaspose.svg.dom/element请求时命名空间在其范围内 这在返回的命名空间节点上不会改变即使文档更改了这样的 使得命名空间超出该元素的范围并且 XPath 不再在 找到该节点
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.dom.xpath/ixpathnamespace/ownerelement/
 ---
 ## IXPathNamespace.OwnerElement property
 
-[`Element`](../../../aspose.svg.dom/element)命名空间在被请求时在其范围内。 这在返回的命名空间节点上不会改变，即使文档更改了这样的 命名空间超出了该元素的范围并且 XPath 不再找到该节点 .
+的[`Element`](../../../aspose.svg.dom/element)请求时，命名空间在其范围内。 这在返回的命名空间节点上不会改变，即使文档更改了这样的 使得命名空间超出该元素的范围并且 XPath 不再在 找到该节点。
 
 ```csharp
 public Element OwnerElement { get; }

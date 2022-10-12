@@ -1,14 +1,14 @@
 ---
 title: ATTRIBUTE_NODE
 second_title: Справочник по Aspose.SVG для .NET API
-description: Узел атрибута
+description: Атрибут node
 type: docs
 weight: 320
 url: /ru/net/aspose.svg.dom/node/attribute_node/
 ---
 ## Node.ATTRIBUTE_NODE field
 
-Узел атрибута
+Атрибут node
 
 ```csharp
 public const ushort ATTRIBUTE_NODE;

@@ -1,7 +1,7 @@
 ---
 title: VoiceFamily
 second_title: Справочник по Aspose.SVG для .NET API
-description: См. определение свойства voice-family в CSS2.
+description: См. определение свойства voicefamily в CSS2.
 type: docs
 weight: 1160
 url: /ru/net/aspose.svg.dom.css/icss2properties/voicefamily/
@@ -16,7 +16,7 @@ public string VoiceFamily { get; set; }
 
 ### Возвращаемое значение
 
-свойство voice-family
+голос-семейная собственность
 
 ### Смотрите также
 

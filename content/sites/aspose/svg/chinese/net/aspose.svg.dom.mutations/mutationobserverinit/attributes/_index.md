@@ -1,14 +1,14 @@
 ---
 title: Attributes
 second_title: Aspose.SVG for .NET API 参考
-description: 如果要观察到目标属性的突变则设置为 true如果指定了attributeOldValue 和/或attributeFilter则可以省略
+description: 如果要观察目标属性的突变则设置为 true如果指定了attributeOldValue 和/或attributeFilter则可以省略
 type: docs
 weight: 40
 url: /zh/net/aspose.svg.dom.mutations/mutationobserverinit/attributes/
 ---
 ## MutationObserverInit.Attributes property
 
-如果要观察到目标属性的突变，则设置为 true。如果指定了attributeOldValue 和/或attributeFilter，则可以省略。
+如果要观察目标属性的突变，则设置为 true。如果指定了attributeOldValue 和/或attributeFilter，则可以省略。
 
 ```csharp
 public bool Attributes { get; set; }

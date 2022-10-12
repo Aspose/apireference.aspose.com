@@ -1,14 +1,14 @@
 ---
 title: DispositionType
 second_title: Справочник по Aspose.SVG для .NET API
-description: Получить или установить тип расположения
+description: Получить или установить тип размещения
 type: docs
 weight: 20
 url: /ru/net/aspose.svg.net.headers/contentdispositionheadervalue/dispositiontype/
 ---
 ## ContentDispositionHeaderValue.DispositionType property
 
-Получить или установить тип расположения
+Получить или установить тип размещения
 
 ```csharp
 public string DispositionType { get; set; }

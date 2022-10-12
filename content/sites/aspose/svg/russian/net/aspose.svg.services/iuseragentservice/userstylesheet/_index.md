@@ -1,14 +1,14 @@
 ---
 title: UserStyleSheet
 second_title: Справочник по Aspose.SVG для .NET API
-description: Позволяет указать информацию о стиле для конкретного документа
+description: Позволяет указать информацию о стиле для определенного документа
 type: docs
 weight: 50
 url: /ru/net/aspose.svg.services/iuseragentservice/userstylesheet/
 ---
 ## IUserAgentService.UserStyleSheet property
 
-Позволяет указать информацию о стиле для конкретного документа
+Позволяет указать информацию о стиле для определенного документа
 
 ```csharp
 public string UserStyleSheet { get; set; }

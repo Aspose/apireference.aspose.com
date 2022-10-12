@@ -3,7 +3,7 @@ title: ByteArrayContent
 second_title: Справочник по Aspose.SVG для .NET API
 description: Представляет содержимое на основе массива байтов.
 type: docs
-weight: 2180
+weight: 2190
 url: /ru/net/aspose.svg.net/bytearraycontent/
 ---
 ## ByteArrayContent class
@@ -18,7 +18,7 @@ public class ByteArrayContent : Content
 
 | Имя | Описание |
 | --- | --- |
-| [ByteArrayContent](bytearraycontent)(byte[]) | Инициализирует новый экземпляр класса[`ByteArrayContent`](../bytearraycontent). |
+| [ByteArrayContent](bytearraycontent)(byte[]) | Инициализирует новый экземпляр[`ByteArrayContent`](../bytearraycontent) класс. |
 
 ## Характеристики
 
@@ -30,10 +30,10 @@ public class ByteArrayContent : Content
 
 | Имя | Описание |
 | --- | --- |
-| [Dispose](../../aspose.svg.net/content/dispose)() | Выполняет определяемые приложением задачи, связанные с освобождением, освобождением или сбросом неуправляемых ресурсов. |
+| [Dispose](../../aspose.svg.net/content/dispose)() | Выполняет определяемые приложением задачи, связанные с освобождением, высвобождением или сбросом неуправляемых ресурсов. |
 | [ReadAsByteArray](../../aspose.svg.net/content/readasbytearray)() | Сериализировать содержимое HTTP и вернуть массив байтов, представляющий содержимое. |
-| [ReadAsStream](../../aspose.svg.net/content/readasstream)() | Сериализация содержимого HTTP и возврат потока, представляющего содержимое. |
-| [ReadAsString](../../aspose.svg.net/content/readasstring)() | Сериализация содержимого HTTP и возврат строки, представляющей содержимое. |
+| [ReadAsStream](../../aspose.svg.net/content/readasstream)() | Сериализировать содержимое HTTP и вернуть поток, представляющий содержимое. |
+| [ReadAsString](../../aspose.svg.net/content/readasstring)() | Сериализировать содержимое HTTP и вернуть строку, представляющую содержимое. |
 
 ### Смотрите также
 

@@ -23,8 +23,8 @@ public void NewValueSpecifiedUnits(ushort newUnitType, float valueInSpecifiedUni
 
 | исключение | условие |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception) | Код[`NOT_SUPPORTED_ERR`](../../../aspose.svg.dom/domexception/not_supported_err) Возникает, если unitType имеет значение SVG_ANGLETYPE_UNKNOWN или не является допустимой константой типа единицы измерения (одной из других констант SVG_ANGLETYPE_*, определенных в этом интерфейсе). |
-| [DOMException](../../../aspose.svg.dom/domexception) | Код[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err) Возникает, когда угол соответствует атрибуту только для чтения или когда сам объект доступен только для чтения. |
+| [DOMException](../../../aspose.svg.dom/domexception) | код[`NOT_SUPPORTED_ERR`](../../../aspose.svg.dom/domexception/not_supported_err) Возникает, если unitType имеет значение SVG_ANGLETYPE_UNKNOWN или не является допустимой константой типа единицы измерения (одной из других констант SVG_ANGLETYPE_*, определенных в этом интерфейсе). |
+| [DOMException](../../../aspose.svg.dom/domexception) | код[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err) Возникает, когда угол соответствует атрибуту только для чтения или когда сам объект доступен только для чтения. |
 
 ### Смотрите также
 

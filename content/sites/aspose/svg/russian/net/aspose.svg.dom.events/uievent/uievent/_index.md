@@ -1,14 +1,14 @@
 ---
 title: UIEvent
 second_title: Справочник по Aspose.SVG для .NET API
-description: Инициализирует новый экземпляр классаUIEventaspose.svg.dom.events/uievent.
+description: Инициализирует новый экземплярUIEventaspose.svg.dom.events/uievent класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.dom.events/uievent/uievent/
 ---
 ## UIEvent(string) {#constructor}
 
-Инициализирует новый экземпляр класса[`UIEvent`](../../uievent).
+Инициализирует новый экземпляр[`UIEvent`](../../uievent) класс.
 
 ```csharp
 public UIEvent(string type)
@@ -28,7 +28,7 @@ public UIEvent(string type)
 
 ## UIEvent(string, IDictionary&lt;string, object&gt;) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`UIEvent`](../../uievent).
+Инициализирует новый экземпляр[`UIEvent`](../../uievent) класс.
 
 ```csharp
 public UIEvent(string type, IDictionary<string, object> eventInitDict)

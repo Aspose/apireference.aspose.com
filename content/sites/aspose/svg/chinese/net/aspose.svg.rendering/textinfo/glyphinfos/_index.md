@@ -16,7 +16,7 @@ public IList<GlyphInfo> GlyphInfos { get; }
 
 ### 适当的价值
 
-IList包含有关渲染字形的信息。
+一个IList包含有关渲染字形的信息。
 
 ### 也可以看看
 

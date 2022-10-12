@@ -1,14 +1,14 @@
 ---
 title: Attributes
 second_title: Aspose.SVG for .NET API 参考
-description: NamedNodeMap 包含此节点的属性如果它是一个元素否则为 null
+description: 包含此节点属性的 NamedNodeMap如果它是元素否则为 null
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.dom/node/attributes/
 ---
 ## Node.Attributes property
 
-NamedNodeMap 包含此节点的属性（如果它是一个元素），否则为 null。
+包含此节点属性的 NamedNodeMap（如果它是元素），否则为 null。
 
 ```csharp
 public virtual NamedNodeMap Attributes { get; }

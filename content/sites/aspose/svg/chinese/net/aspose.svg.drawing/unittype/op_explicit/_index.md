@@ -1,14 +1,14 @@
 ---
 title: op_Explicit
 second_title: Aspose.SVG for .NET API 参考
-description: 执行从UnitTypeaspose.svg.drawing/unittype到String的显式转换
+description: 执行显式转换UnitTypeaspose.svg.drawing/unittype至String .
 type: docs
 weight: 350
 url: /zh/net/aspose.svg.drawing/unittype/op_explicit/
 ---
 ## UnitType Explicit operator
 
-执行从[`UnitType`](../../unittype)到String的显式转换。
+执行显式转换[`UnitType`](../../unittype)至String .
 
 ```csharp
 public static explicit operator string(UnitType value)
@@ -16,7 +16,7 @@ public static explicit operator string(UnitType value)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| value | UnitType | 值。 |
+| value | UnitType | 价值。 |
 
 ### 返回值
 

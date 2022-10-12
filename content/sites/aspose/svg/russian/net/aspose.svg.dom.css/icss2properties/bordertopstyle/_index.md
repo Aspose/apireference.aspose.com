@@ -1,14 +1,14 @@
 ---
 title: BorderTopStyle
 second_title: Справочник по Aspose.SVG для .NET API
-description: См. определение свойства border-top-style в CSS2.
+description: См. определение свойства bordertop в CSS2.
 type: docs
 weight: 270
 url: /ru/net/aspose.svg.dom.css/icss2properties/bordertopstyle/
 ---
 ## ICSS2Properties.BorderTopStyle property
 
-См. определение свойства border-top-style в CSS2.
+См. определение свойства border-top в CSS2.
 
 ```csharp
 public string BorderTopStyle { get; set; }
@@ -16,7 +16,7 @@ public string BorderTopStyle { get; set; }
 
 ### Возвращаемое значение
 
-свойство в стиле border-top
+свойство border-top-style
 
 ### Смотрите также
 

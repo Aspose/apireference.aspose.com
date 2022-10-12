@@ -1,14 +1,14 @@
 ---
 title: CreateEntityReference
 second_title: Aspose.SVG for .NET API 参考
-description: 创建一个 EntityReference 对象另外如果被引用实体已知则EntityReference节点的子列表与对应Entity节点的子列表相同
+description: 创建一个 EntityReference 对象另外如果引用的实体已知则EntityReference节点的子列表与对应Entity节点的子列表相同
 type: docs
 weight: 870
 url: /zh/net/aspose.svg.dom/document/createentityreference/
 ---
 ## Document.CreateEntityReference method
 
-创建一个 EntityReference 对象。另外，如果被引用实体已知，则EntityReference节点的子列表与对应Entity节点的子列表相同。
+创建一个 EntityReference 对象。另外，如果引用的实体已知，则EntityReference节点的子列表与对应Entity节点的子列表相同。
 
 ```csharp
 public EntityReference CreateEntityReference(string name)
@@ -20,7 +20,7 @@ public EntityReference CreateEntityReference(string name)
 
 ### 返回值
 
-[`EntityReference`](../../entityreference)。
+的[`EntityReference`](../../entityreference) .
 
 ### 也可以看看
 

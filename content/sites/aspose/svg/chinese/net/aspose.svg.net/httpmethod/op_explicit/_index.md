@@ -1,14 +1,14 @@
 ---
 title: op_Explicit
 second_title: Aspose.SVG for .NET API 参考
-description: 执行从String到HttpMethodaspose.svg.net/httpmethod的显式转换
+description: 执行显式转换String至HttpMethodaspose.svg.net/httpmethod .
 type: docs
 weight: 100
 url: /zh/net/aspose.svg.net/httpmethod/op_explicit/
 ---
 ## HttpMethod Explicit operator
 
-执行从String到[`HttpMethod`](../../httpmethod)的显式转换。
+执行显式转换String至[`HttpMethod`](../../httpmethod) .
 
 ```csharp
 public static explicit operator HttpMethod(string name)

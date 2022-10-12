@@ -1,14 +1,14 @@
 ---
 title: PageUrlRestriction
 second_title: Aspose.SVG for .NET API 参考
-description: 获取或设置应用于处理页面的 URL 的限制默认值为RootAndSubFolders
+description: 获取或设置应用于处理页面的 URL 的限制默认值为RootAndSubFolders .
 type: docs
 weight: 40
 url: /zh/net/aspose.svg.saving/resourcehandlingoptions/pageurlrestriction/
 ---
 ## ResourceHandlingOptions.PageUrlRestriction property
 
-获取或设置应用于处理页面的 URL 的限制。默认值为RootAndSubFolders。
+获取或设置应用于处理页面的 URL 的限制。默认值为RootAndSubFolders .
 
 ```csharp
 public UrlRestriction PageUrlRestriction { get; set; }

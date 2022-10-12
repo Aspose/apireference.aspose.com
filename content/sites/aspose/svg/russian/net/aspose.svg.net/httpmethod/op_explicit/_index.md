@@ -1,14 +1,14 @@
 ---
 title: op_Explicit
 second_title: Справочник по Aspose.SVG для .NET API
-description: Выполняет явное преобразование изStringвHttpMethodaspose.svg.net/httpmethod.
+description: Выполняет явное преобразование изString кHttpMethodaspose.svg.net/httpmethod .
 type: docs
 weight: 100
 url: /ru/net/aspose.svg.net/httpmethod/op_explicit/
 ---
 ## HttpMethod Explicit operator
 
-Выполняет явное преобразование изStringв[`HttpMethod`](../../httpmethod).
+Выполняет явное преобразование изString к[`HttpMethod`](../../httpmethod) .
 
 ```csharp
 public static explicit operator HttpMethod(string name)

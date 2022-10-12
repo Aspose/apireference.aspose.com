@@ -16,7 +16,7 @@ public Sandbox Security { get; }
 
 ### 适当的价值
 
-安全。
+安全.
 
 ### 也可以看看
 

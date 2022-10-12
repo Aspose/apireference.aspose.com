@@ -1,14 +1,14 @@
 ---
 title: Y
 second_title: Aspose.SVG for .NET API 参考
-description: 对应于给定过滤器元素的属性y
+description: 对应于给定过滤器元素上的属性y
 type: docs
 weight: 80
 url: /zh/net/aspose.svg.filters/svgfegaussianblurelement/y/
 ---
 ## SVGFEGaussianBlurElement.Y property
 
-对应于给定“过滤器”元素的属性“y”。
+对应于给定“过滤器”元素上的属性“y”。
 
 ```csharp
 public SVGAnimatedLength Y { get; }

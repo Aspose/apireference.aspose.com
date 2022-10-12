@@ -1,14 +1,14 @@
 ---
 title: CSS_VW
 second_title: Справочник по Aspose.SVG для .NET API
-description: Значение представляет собой процент от полной ширины области просмотра.
+description: Значение представляет собой процент от полной ширины окна просмотра.
 type: docs
 weight: 450
 url: /ru/net/aspose.svg.dom.css/cssprimitivevalue/css_vw/
 ---
 ## CSSPrimitiveValue.CSS_VW field
 
-Значение представляет собой процент от полной ширины области просмотра.
+Значение представляет собой процент от полной ширины окна просмотра.
 
 ```csharp
 public const ushort CSS_VW;

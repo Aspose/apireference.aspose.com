@@ -1,14 +1,14 @@
 ---
 title: PreventDefault
 second_title: Aspose.SVG for .NET API 参考
-description: 如果一个事件是可取消的PreventDefaultaspose.svg.dom.events/event/preventdefault方法用于表示该事件将被取消 表示实现通常作为事件结果而采取的任何默认操作都不会发生
+description: 如果事件是可取消的则PreventDefaultaspose.svg.dom.events/event/preventdefault方法用于表示事件将被取消 表示实现通常作为事件结果而采取的任何默认操作都不会发生
 type: docs
 weight: 120
 url: /zh/net/aspose.svg.dom.events/event/preventdefault/
 ---
 ## Event.PreventDefault method
 
-如果一个事件是可取消的，`PreventDefault`方法用于表示该事件将被取消， 表示实现通常作为事件结果而采取的任何默认操作都不会发生。
+如果事件是可取消的，则`PreventDefault`方法用于表示事件将被取消， 表示实现通常作为事件结果而采取的任何默认操作都不会发生。
 
 ```csharp
 public void PreventDefault()
@@ -16,7 +16,7 @@ public void PreventDefault()
 
 ### 评论
 
-如果在事件流的任何阶段，`PreventDefault`方法被调用，事件被取消。 与该事件关联的任何默认操作都不会发生。 对不可取消的事件调用此方法无效。 一旦调用了`PreventDefault`，它将在事件传播的其余部分保持有效。 在事件流的任何阶段都可以使用此方法。
+如果在事件流的任何阶段，`PreventDefault`方法被调用 事件被取消。 与该事件关联的任何默认操作都不会发生。 对不可取消的事件调用此方法无效。 一次`PreventDefault`已被调用，它将在事件传播的其余部分保持有效。 此方法可在事件流的任何阶段使用。
 
 ### 也可以看看
 

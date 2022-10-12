@@ -8,7 +8,7 @@ url: /ru/net/aspose.svg/isvgtests/systemlanguage/
 ---
 ## ISVGTests.SystemLanguage property
 
-Соответствует атрибуту 'systemLanguage' данного элемента.
+Соответствует атрибуту systemLanguage данного элемента.
 
 ```csharp
 public SVGStringList SystemLanguage { get; }

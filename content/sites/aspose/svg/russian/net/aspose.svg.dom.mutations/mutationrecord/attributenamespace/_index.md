@@ -1,14 +1,14 @@
 ---
 title: AttributeNamespace
 second_title: Справочник по Aspose.SVG для .NET API
-description: Возвращает пространство имен измененного атрибута и null в противном случае.
+description: Возвращает пространство имен измененного атрибута иначе null.
 type: docs
 weight: 30
 url: /ru/net/aspose.svg.dom.mutations/mutationrecord/attributenamespace/
 ---
 ## MutationRecord.AttributeNamespace property
 
-Возвращает пространство имен измененного атрибута и null в противном случае.
+Возвращает пространство имен измененного атрибута, иначе null.
 
 ```csharp
 public string AttributeNamespace { get; }

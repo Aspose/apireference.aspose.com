@@ -8,7 +8,7 @@ url: /ru/net/aspose.svg.paths/svgpathseg/pathseg_curveto_quadratic_smooth_abs/
 ---
 ## SVGPathSeg.PATHSEG_CURVETO_QUADRATIC_SMOOTH_ABS field
 
-Соответствует команде данных пути "абсолютно гладкая квадратичная кривая к" (T).
+Соответствует команде данных пути «абсолютно гладкая квадратичная кривая к» (T).
 
 ```csharp
 public const ushort PATHSEG_CURVETO_QUADRATIC_SMOOTH_ABS;

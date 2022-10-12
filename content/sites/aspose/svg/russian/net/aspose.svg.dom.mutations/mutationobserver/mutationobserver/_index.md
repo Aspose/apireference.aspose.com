@@ -1,14 +1,14 @@
 ---
 title: MutationObserver
 second_title: Справочник по Aspose.SVG для .NET API
-description: Создает объект MutationObserver и устанавливает для егоMutationCallbackaspose.svg.dom.mutations/mutationcallbackобратный вызов. Обратный вызов вызывается со списком объектов MutationRecord в качестве первого аргумента и сконструированным объектом MutationObserver в качестве второго аргумента. Он вызывается после изменения узлов зарегистрированных с помощью метода ltsee crefObserveNode IMutationObserverInit /gt.
+description: Создает объект MutationObserver и устанавливает егоMutationCallbackaspose.svg.dom.mutations/mutationcallback для обратного звонка. Обратный вызов вызывается со списком объектов MutationRecord в качестве первого аргумента и созданным объектом MutationObserver в качестве второго аргумента. Он вызывается после того как узлы зарегистрированы вObserveNode IMutationObserverInit метод мутировали.
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.dom.mutations/mutationobserver/mutationobserver/
 ---
 ## MutationObserver constructor
 
-Создает объект MutationObserver и устанавливает для его[`MutationCallback`](../../mutationcallback)обратный вызов. Обратный вызов вызывается со списком объектов MutationRecord в качестве первого аргумента и сконструированным объектом MutationObserver в качестве второго аргумента. Он вызывается после изменения узлов, зарегистрированных с помощью метода &lt;see cref="!:Observe(Node, IMutationObserverInit)" /&gt;.
+Создает объект MutationObserver и устанавливает его[`MutationCallback`](../../mutationcallback) для обратного звонка. Обратный вызов вызывается со списком объектов MutationRecord в качестве первого аргумента и созданным объектом MutationObserver в качестве второго аргумента. Он вызывается после того, как узлы зарегистрированы в!:Observe(Node, IMutationObserverInit) метод, мутировали.
 
 ```csharp
 public MutationObserver(MutationCallback callback)
@@ -16,7 +16,7 @@ public MutationObserver(MutationCallback callback)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| callback | MutationCallback | Обратный вызов. |
+| callback | MutationCallback | Обратный звонок. |
 
 ### Смотрите также
 

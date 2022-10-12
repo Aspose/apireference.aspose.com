@@ -1,14 +1,14 @@
 ---
 title: LetterSpacing
 second_title: Aspose.SVG for .NET API 参考
-description: 请参阅 CSS2 中的字母间距属性定义
+description: 参见 CSS2 中的字母间距属性定义
 type: docs
 weight: 570
 url: /zh/net/aspose.svg.dom.css/icss2properties/letterspacing/
 ---
 ## ICSS2Properties.LetterSpacing property
 
-请参阅 CSS2 中的字母间距属性定义。
+参见 CSS2 中的字母间距属性定义。
 
 ```csharp
 public string LetterSpacing { get; set; }

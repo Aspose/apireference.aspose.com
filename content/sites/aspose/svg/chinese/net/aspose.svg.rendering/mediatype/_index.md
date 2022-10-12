@@ -3,7 +3,7 @@ title: MediaType
 second_title: Aspose.SVG for .NET API 参考
 description: 指定渲染期间可能使用的媒体类型
 type: docs
-weight: 2840
+weight: 2850
 url: /zh/net/aspose.svg.rendering/mediatype/
 ---
 ## MediaType enumeration
@@ -18,8 +18,8 @@ public enum MediaType
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| Print | `0` | ` Print` 媒体在渲染期间使用。 |
-| Screen | `1` | ` 屏幕` 媒体在渲染期间使用。 |
+| Print | `0` | 的`打印`渲染期间使用媒体。 |
+| Screen | `1` | 的`屏幕`渲染期间使用媒体。 |
 
 ### 也可以看看
 

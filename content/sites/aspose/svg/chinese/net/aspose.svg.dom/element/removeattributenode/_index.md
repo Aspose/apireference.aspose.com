@@ -1,14 +1,14 @@
 ---
 title: RemoveAttributeNode
 second_title: Aspose.SVG for .NET API 参考
-description: 删除指定的属性节点
+description: 移除指定的属性节点
 type: docs
 weight: 380
 url: /zh/net/aspose.svg.dom/element/removeattributenode/
 ---
 ## Element.RemoveAttributeNode method
 
-删除指定的属性节点。
+移除指定的属性节点。
 
 ```csharp
 public Attr RemoveAttributeNode(Attr oldAttr)
@@ -16,7 +16,7 @@ public Attr RemoveAttributeNode(Attr oldAttr)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| oldAttr | Attr | 旧属性。 |
+| oldAttr | Attr | 旧的属性。 |
 
 ### 返回值
 

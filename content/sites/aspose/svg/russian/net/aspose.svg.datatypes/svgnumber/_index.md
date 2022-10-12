@@ -1,14 +1,14 @@
 ---
 title: SVGNumber
 second_title: Справочник по Aspose.SVG для .NET API
-description: Используется для атрибутов числа основного типа.
+description: Используется для атрибутов основного типа number.
 type: docs
-weight: 260
+weight: 250
 url: /ru/net/aspose.svg.datatypes/svgnumber/
 ---
 ## SVGNumber class
 
-Используется для атрибутов числа основного типа.
+Используется для атрибутов основного типа number.
 
 ```csharp
 public class SVGNumber : SVGValueType
@@ -25,8 +25,8 @@ public class SVGNumber : SVGValueType
 | Имя | Описание |
 | --- | --- |
 | [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose)() | Освобождает неуправляемые и (необязательно) управляемые ресурсы. |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | Этот метод используется для получения объекта ECMAScriptType. |
-| override [ToString](../../aspose.svg.datatypes/svgnumber/tostring)() | ВозвращаетString, представляющий этот экземпляр. |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | Этот метод используется для получения объекта ECMAScript.Type . |
+| override [ToString](../../aspose.svg.datatypes/svgnumber/tostring)() | ВозвращаетString который представляет этот экземпляр. |
 
 ### Смотрите также
 

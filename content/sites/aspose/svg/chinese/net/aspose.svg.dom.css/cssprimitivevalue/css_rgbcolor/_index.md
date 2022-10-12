@@ -1,14 +1,14 @@
 ---
 title: CSS_RGBCOLOR
 second_title: Aspose.SVG for .NET API 参考
-description: 该值为 RGB 颜色可以使用 GetRGBColorValue 方法获取该值
+description: 该值为 RGB 颜色该值可以通过GetRGBColorValue方法获取
 type: docs
 weight: 370
 url: /zh/net/aspose.svg.dom.css/cssprimitivevalue/css_rgbcolor/
 ---
 ## CSSPrimitiveValue.CSS_RGBCOLOR field
 
-该值为 RGB 颜色。可以使用 GetRGBColorValue 方法获取该值。
+该值为 RGB 颜色。该值可以通过GetRGBColorValue方法获取。
 
 ```csharp
 public const ushort CSS_RGBCOLOR;

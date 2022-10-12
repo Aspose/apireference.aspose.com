@@ -3,7 +3,7 @@ title: ShadowRootMode
 second_title: Aspose.SVG for .NET API 参考
 description: ShadowRoot 可以运行的模式
 type: docs
-weight: 1200
+weight: 1190
 url: /zh/net/aspose.svg.dom/shadowrootmode/
 ---
 ## ShadowRootMode enumeration
@@ -19,7 +19,7 @@ public enum ShadowRootMode
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
 | Open | `0` | “打开”模式。 |
-| Closed | `1` | “关闭”模式。 |
+| Closed | `1` | “封闭”模式。 |
 
 ### 也可以看看
 

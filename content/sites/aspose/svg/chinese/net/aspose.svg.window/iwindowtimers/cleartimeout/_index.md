@@ -1,14 +1,14 @@
 ---
 title: ClearTimeout
 second_title: Aspose.SVG for .NET API 参考
-description: 取消由句柄标识的 setTimeout 设置的超时
+description: 取消使用由句柄标识的 setTimeout 设置的超时
 type: docs
 weight: 20
 url: /zh/net/aspose.svg.window/iwindowtimers/cleartimeout/
 ---
 ## IWindowTimers.ClearTimeout method
 
-取消由句柄标识的 setTimeout() 设置的超时。
+取消使用由句柄标识的 setTimeout() 设置的超时。
 
 ```csharp
 public void ClearTimeout(int handle)
@@ -16,7 +16,7 @@ public void ClearTimeout(int handle)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| handle | Int32 | 句柄。 |
+| handle | Int32 | 手柄。 |
 
 ### 也可以看看
 

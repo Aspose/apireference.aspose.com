@@ -3,7 +3,7 @@ title: SVGPathSegArcAbs
 second_title: Справочник по Aspose.SVG для .NET API
 description: Интерфейс SVGPathSegArcAbs соответствует команде данных пути absolute arcto A.
 type: docs
-weight: 2460
+weight: 2470
 url: /ru/net/aspose.svg.paths/svgpathsegarcabs/
 ---
 ## SVGPathSegArcAbs class
@@ -19,8 +19,8 @@ public class SVGPathSegArcAbs : SVGPathSeg
 | Имя | Описание |
 | --- | --- |
 | [Angle](../../aspose.svg.paths/svgpathsegarcabs/angle) { get; set; } | Угол поворота оси x эллипса относительно оси x пользовательской системы координат в градусах. |
-| [LargeArcFlag](../../aspose.svg.paths/svgpathsegarcabs/largearcflag) { get; set; } | Значение параметра big-arc-flag. |
-| [PathSegType](../../aspose.svg.paths/svgpathseg/pathsegtype) { get; } | Тип сегмента пути, заданный одной из констант, определенных в этом интерфейсе. |
+| [LargeArcFlag](../../aspose.svg.paths/svgpathsegarcabs/largearcflag) { get; set; } | Значение параметра флага большой дуги. |
+| [PathSegType](../../aspose.svg.paths/svgpathseg/pathsegtype) { get; } | Тип сегмента пути, указанный одной из констант, определенных на этом интерфейсе. |
 | [PathSegTypeAsLetter](../../aspose.svg.paths/svgpathseg/pathsegtypeasletter) { get; } | Тип сегмента пути, определяемый соответствующим односимвольным именем команды. |
 | [R1](../../aspose.svg.paths/svgpathsegarcabs/r1) { get; set; } | Радиус оси x для эллипса (т.е. r1). |
 | [R2](../../aspose.svg.paths/svgpathsegarcabs/r2) { get; set; } | Радиус оси Y для эллипса (т.е. r2). |
@@ -33,7 +33,7 @@ public class SVGPathSegArcAbs : SVGPathSeg
 | Имя | Описание |
 | --- | --- |
 | [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose)() | Освобождает неуправляемые и (необязательно) управляемые ресурсы. |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | Этот метод используется для получения объекта ECMAScriptType. |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | Этот метод используется для получения объекта ECMAScript.Type . |
 
 ### Смотрите также
 

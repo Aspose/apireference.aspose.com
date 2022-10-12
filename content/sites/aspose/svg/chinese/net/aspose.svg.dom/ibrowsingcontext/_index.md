@@ -1,14 +1,14 @@
 ---
 title: IBrowsingContext
 second_title: Aspose.SVG for .NET API 参考
-description: 浏览上下文是一个环境其中Document./document对象被呈现给用户
+description: 浏览上下文是一个环境其中Document./document对象呈现给用户
 type: docs
-weight: 1030
+weight: 1020
 url: /zh/net/aspose.svg.dom/ibrowsingcontext/
 ---
 ## IBrowsingContext interface
 
-浏览上下文是一个环境，其中[`Document`](../document)对象被呈现给用户。
+浏览上下文是一个环境，其中[`Document`](../document)对象呈现给用户。
 
 ```csharp
 public interface IBrowsingContext : IDisposable, IServiceProvider
@@ -21,7 +21,7 @@ public interface IBrowsingContext : IDisposable, IServiceProvider
 | [ActiveDocument](../../aspose.svg.dom/ibrowsingcontext/activedocument) { get; } | 获取当前文档。 |
 | [DOMImplementation](../../aspose.svg.dom/ibrowsingcontext/domimplementation) { get; } | 获取 DOM 实现。 |
 | [Network](../../aspose.svg.dom/ibrowsingcontext/network) { get; } | 获取网络服务。 |
-| [Parent](../../aspose.svg.dom/ibrowsingcontext/parent) { get; } | 获取父上下文（如果有）。 |
+| [Parent](../../aspose.svg.dom/ibrowsingcontext/parent) { get; } | 获取父上下文，如果有的话。 |
 | [Security](../../aspose.svg.dom/ibrowsingcontext/security) { get; } | 获取沙盒标志。 |
 | [Window](../../aspose.svg.dom/ibrowsingcontext/window) { get; } | 获取 WindowProxy 对象。 |
 

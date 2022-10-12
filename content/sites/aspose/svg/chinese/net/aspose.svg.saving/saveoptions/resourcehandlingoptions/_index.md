@@ -1,14 +1,14 @@
 ---
 title: ResourceHandlingOptions
 second_title: Aspose.SVG for .NET API 参考
-description: 获取用于配置资源处理的ResourceHandlingOptionsaspose.svg.saving/resourcehandlingoptions对象
+description: 得到一个ResourceHandlingOptionsaspose.svg.saving/resourcehandlingoptions用于配置资源处理的对象
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.saving/saveoptions/resourcehandlingoptions/
 ---
 ## SaveOptions.ResourceHandlingOptions property
 
-获取用于配置资源处理的[`ResourceHandlingOptions`](../../resourcehandlingoptions)对象。
+得到一个[`ResourceHandlingOptions`](../../resourcehandlingoptions)用于配置资源处理的对象。
 
 ```csharp
 public ResourceHandlingOptions ResourceHandlingOptions { get; }
@@ -16,7 +16,7 @@ public ResourceHandlingOptions ResourceHandlingOptions { get; }
 
 ### 适当的价值
 
-[`ResourceHandlingOptions`](../../resourcehandlingoptions)对象。
+的[`ResourceHandlingOptions`](../../resourcehandlingoptions)对象.
 
 ### 也可以看看
 

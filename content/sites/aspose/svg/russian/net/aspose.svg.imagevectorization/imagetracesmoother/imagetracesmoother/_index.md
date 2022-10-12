@@ -1,14 +1,14 @@
 ---
 title: ImageTraceSmoother
 second_title: Справочник по Aspose.SVG для .NET API
-description: Инициализирует новый экземпляр классаImageTraceSmootheraspose.svg.imagevectorization/imagetracesmoother.
+description: Инициализирует новый экземплярImageTraceSmootheraspose.svg.imagevectorization/imagetracesmoother класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.imagevectorization/imagetracesmoother/imagetracesmoother/
 ---
 ## ImageTraceSmoother() {#constructor}
 
-Инициализирует новый экземпляр класса[`ImageTraceSmoother`](../../imagetracesmoother).
+Инициализирует новый экземпляр[`ImageTraceSmoother`](../../imagetracesmoother) класс.
 
 ```csharp
 public ImageTraceSmoother()
@@ -24,7 +24,7 @@ public ImageTraceSmoother()
 
 ## ImageTraceSmoother(int) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`ImageTraceSmoother`](../../imagetracesmoother).
+Инициализирует новый экземпляр[`ImageTraceSmoother`](../../imagetracesmoother) класс.
 
 ```csharp
 public ImageTraceSmoother(int severity)

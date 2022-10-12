@@ -1,7 +1,7 @@
 ---
 title: HasAttributes
 second_title: Справочник по Aspose.SVG для .NET API
-description: Возвращает имеет ли этот узел если это элемент какие-либо атрибуты
+description: Возвращает имеет ли этот узел если это элемент какиелибо атрибуты
 type: docs
 weight: 200
 url: /ru/net/aspose.svg.dom/node/hasattributes/
@@ -16,7 +16,7 @@ public virtual bool HasAttributes()
 
 ### Возвращаемое значение
 
-boolean` true` , если этот узел имеет какие-либо атрибуты,` false` в противном случае.
+логическое значение`истинный` если этот узел имеет какие-либо атрибуты,`ЛОЖЬ` иначе.
 
 ### Смотрите также
 

@@ -1,14 +1,14 @@
 ---
 title: CSS_CM
 second_title: Aspose.SVG for .NET API 参考
-description: 该值为长度厘米可以使用 getFloatValue 方法获取该值
+description: 该值为长度厘米该值可以通过getFloatValue方法获取
 type: docs
 weight: 130
 url: /zh/net/aspose.svg.dom.css/cssprimitivevalue/css_cm/
 ---
 ## CSSPrimitiveValue.CSS_CM field
 
-该值为长度（厘米）。可以使用 getFloatValue 方法获取该值。
+该值为长度（厘米）。该值可以通过getFloatValue方法获取。
 
 ```csharp
 public const ushort CSS_CM;

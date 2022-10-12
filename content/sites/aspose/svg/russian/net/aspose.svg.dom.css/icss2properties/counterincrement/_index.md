@@ -1,7 +1,7 @@
 ---
 title: CounterIncrement
 second_title: Справочник по Aspose.SVG для .NET API
-description: См. определение свойства counter-increment в CSS2.
+description: См. определение свойства counterincrement в CSS2.
 type: docs
 weight: 360
 url: /ru/net/aspose.svg.dom.css/icss2properties/counterincrement/
@@ -16,7 +16,7 @@ public string CounterIncrement { get; set; }
 
 ### Возвращаемое значение
 
-свойство счетчика приращения
+свойство встречного приращения
 
 ### Смотрите также
 

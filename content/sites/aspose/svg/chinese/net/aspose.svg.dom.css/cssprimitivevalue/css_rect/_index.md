@@ -1,14 +1,14 @@
 ---
 title: CSS_RECT
 second_title: Aspose.SVG for .NET API 参考
-description: 值是一个矩形函数可以使用 GetRectValue 方法获取该值
+description: 该值是一个矩形函数可以使用GetRectValue方法获取该值
 type: docs
 weight: 350
 url: /zh/net/aspose.svg.dom.css/cssprimitivevalue/css_rect/
 ---
 ## CSSPrimitiveValue.CSS_RECT field
 
-值是一个矩形函数。可以使用 GetRectValue 方法获取该值。
+该值是一个矩形函数。可以使用GetRectValue方法获取该值。
 
 ```csharp
 public const ushort CSS_RECT;

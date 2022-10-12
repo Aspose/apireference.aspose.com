@@ -16,7 +16,7 @@ public string URL { get; }
 
 ### 适当的价值
 
-URL。
+网址。
 
 ### 也可以看看
 

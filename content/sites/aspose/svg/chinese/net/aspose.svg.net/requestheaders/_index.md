@@ -3,7 +3,7 @@ title: RequestHeaders
 second_title: Aspose.SVG for .NET API 参考
 description: 包含与请求关联的协议标头
 type: docs
-weight: 2370
+weight: 2380
 url: /zh/net/aspose.svg.net/requestheaders/
 ---
 ## RequestHeaders class

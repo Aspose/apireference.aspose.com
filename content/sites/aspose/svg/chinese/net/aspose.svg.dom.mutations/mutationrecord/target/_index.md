@@ -1,14 +1,14 @@
 ---
 title: Target
 second_title: Aspose.SVG for .NET API 参考
-description: 根据类型返回受突变影响的节点对于属性它是其属性发生变化的元素对于characterData它是 CharacterData 节点对于childList它是其子节点发生变化的节点
+description: 返回受突变影响的节点具体取决于类型对于属性它是其属性发生变化的元素对于characterData它是 CharacterData 节点对于childList是子节点发生变化的节点
 type: docs
 weight: 80
 url: /zh/net/aspose.svg.dom.mutations/mutationrecord/target/
 ---
 ## MutationRecord.Target property
 
-根据类型返回受突变影响的节点。对于“属性”，它是其属性发生变化的元素。对于“characterData”，它是 CharacterData 节点。对于“childList”，它是其子节点发生变化的节点。
+返回受突变影响的节点，具体取决于类型。对于“属性”，它是其属性发生变化的元素。对于“characterData”，它是 CharacterData 节点。对于“childList”，是子节点发生变化的节点。
 
 ```csharp
 public Node Target { get; }

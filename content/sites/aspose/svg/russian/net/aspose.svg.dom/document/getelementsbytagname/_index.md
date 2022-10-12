@@ -1,14 +1,14 @@
 ---
 title: GetElementsByTagName
 second_title: Справочник по Aspose.SVG для .NET API
-description: Возвращает NodeList всех элементов в порядке документа с заданным именем тега содержащихся в документе.
+description: Возвращает NodeList всех элементов в порядке документа с заданным именем тега и содержится в документе.
 type: docs
 weight: 980
 url: /ru/net/aspose.svg.dom/document/getelementsbytagname/
 ---
 ## Document.GetElementsByTagName method
 
-Возвращает NodeList всех элементов в порядке документа с заданным именем тега, содержащихся в документе.
+Возвращает NodeList всех элементов в порядке документа с заданным именем тега и содержится в документе.
 
 ```csharp
 public HTMLCollection GetElementsByTagName(string tagname)
@@ -16,7 +16,7 @@ public HTMLCollection GetElementsByTagName(string tagname)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| tagname | String | Имя тега. |
+| tagname | String | Тег. |
 
 ### Возвращаемое значение
 

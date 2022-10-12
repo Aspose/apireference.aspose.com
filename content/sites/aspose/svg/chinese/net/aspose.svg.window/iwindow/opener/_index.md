@@ -1,14 +1,14 @@
 ---
 title: Opener
 second_title: Aspose.SVG for .NET API 参考
-description: Window 对象的 opener IDL 属性在获取时必须返回创建当前浏览上下文的浏览上下文的 WindowProxy 对象它的 opener 浏览上下文如果有一如果它仍然可用并且当前浏览上下文没有拒绝它的开启者否则它必须返回 null设置时如果新值为 null 则当前浏览上下文必须拒绝它的开启者如果新值是其他值则用户代理必须调用 Window 对象的 DefineOwnProperty 内部方法将属性名称opener作为属性键传递并将属性描述符  Value value  Writable true Enumerable true Configurable true  作为属性描述符其中 value 是新值
+description: Window 对象的 opener IDL 属性在获取时必须返回创建当前浏览上下文的浏览上下文的 WindowProxy 对象它的 opener 浏览上下文如果有如果它仍然可用如果当前的浏览上下文并没有否认它的开启者否则它必须返回 null设置时如果新值为 null 则当前浏览上下文必须拒绝它的开启者如果新值是其他值则用户代理必须调用 Window 对象的 DefineOwnProperty 内部方法将属性名称opener作为属性键传递并将属性描述符  Value value  Writable true Enumerable true Configurable true  作为属性描述符其中value是新值
 type: docs
 weight: 50
 url: /zh/net/aspose.svg.window/iwindow/opener/
 ---
 ## IWindow.Opener property
 
-Window 对象的 opener IDL 属性在获取时必须返回创建当前浏览上下文的浏览上下文的 WindowProxy 对象（它的 opener 浏览上下文），如果有一，如果它仍然可用，并且当前浏览上下文没有拒绝它的开启者；否则，它必须返回 null。设置时，如果新值为 null 则当前浏览上下文必须拒绝它的开启者；如果新值是其他值，则用户代理必须调用 Window 对象的 [[DefineOwnProperty]] 内部方法，将属性名称“opener”作为属性键传递，并将属性描述符 { [[Value]]: value , [[Writable]]: true, [[Enumerable]]: true, [[Configurable]]: true } 作为属性描述符，其中 value 是新值。
+Window 对象的 opener IDL 属性在获取时必须返回创建当前浏览上下文的浏览上下文的 WindowProxy 对象（它的 opener 浏览上下文），如果有，如果它仍然可用，如果当前的浏览上下文并没有否认它的开启者；否则，它必须返回 null。设置时，如果新值为 null 则当前浏览上下文必须拒绝它的开启者；如果新值是其他值，则用户代理必须调用 Window 对象的 [[DefineOwnProperty]] 内部方法，将属性名称“opener”作为属性键传递，并将属性描述符 { [[Value]]: value , [[Writable]]: true, [[Enumerable]]: true, [[Configurable]]: true } 作为属性描述符，其中value是新值。
 
 ```csharp
 public IWindow Opener { get; }
@@ -16,7 +16,7 @@ public IWindow Opener { get; }
 
 ### 适当的价值
 
-揭幕战。
+开瓶器.
 
 ### 也可以看看
 

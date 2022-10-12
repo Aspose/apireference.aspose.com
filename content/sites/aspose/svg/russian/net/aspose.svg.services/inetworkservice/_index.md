@@ -3,7 +3,7 @@ title: INetworkService
 second_title: Справочник по Aspose.SVG для .NET API
 description: Предоставляет интерфейс для сетевых операций.
 type: docs
-weight: 3660
+weight: 3670
 url: /ru/net/aspose.svg.services/inetworkservice/
 ---
 ## INetworkService interface
@@ -18,7 +18,7 @@ public interface INetworkService : IService
 
 | Имя | Описание |
 | --- | --- |
-| [MessageHandlers](../../aspose.svg.services/inetworkservice/messagehandlers) { get; } | Получает список экземпляров[`MessageHandler`](../../aspose.svg.net/messagehandler), которые будут вызываться как[`RequestMessage`](../../aspose.svg.net/requestmessage)выполняется. |
+| [MessageHandlers](../../aspose.svg.services/inetworkservice/messagehandlers) { get; } | Получает список[`MessageHandler`](../../aspose.svg.net/messagehandler) экземпляры, которые будут вызываться как[`RequestMessage`](../../aspose.svg.net/requestmessage) выполняет. |
 | [UrlResolver](../../aspose.svg.services/inetworkservice/urlresolver) { get; set; } | Получает или задает преобразователь URL. |
 
 ### Смотрите также

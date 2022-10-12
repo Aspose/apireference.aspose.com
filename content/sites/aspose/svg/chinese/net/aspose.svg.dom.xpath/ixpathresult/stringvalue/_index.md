@@ -1,14 +1,14 @@
 ---
 title: StringValue
 second_title: Aspose.SVG for .NET API 参考
-description: 此字符串结果的值
+description: 这个字符串结果的值
 type: docs
 weight: 70
 url: /zh/net/aspose.svg.dom.xpath/ixpathresult/stringvalue/
 ---
 ## IXPathResult.StringValue property
 
-此字符串结果的值。
+这个字符串结果的值。
 
 ```csharp
 public string StringValue { get; }
@@ -18,7 +18,7 @@ public string StringValue { get; }
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception) | TYPE_ERR: 如果` resultType` 不是 则引发` 字符串` 类型。 |
+| [DOMException](../../../aspose.svg.dom/domexception) | TYPE_ERR：如果出现则引发`结果类型`不是 `细绳`类型。 |
 
 ### 也可以看看
 

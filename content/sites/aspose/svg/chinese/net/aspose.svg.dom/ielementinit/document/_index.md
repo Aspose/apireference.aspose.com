@@ -1,14 +1,14 @@
 ---
 title: Document
 second_title: Aspose.SVG for .NET API 参考
-description: 此属性表示所有者文档
+description: 此属性代表所有者文档
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.dom/ielementinit/document/
 ---
 ## IElementInit.Document property
 
-此属性表示所有者文档。
+此属性代表所有者文档。
 
 ```csharp
 public Document Document { get; }
@@ -16,7 +16,7 @@ public Document Document { get; }
 
 ### 适当的价值
 
-所有者文档。
+所有者文档.
 
 ### 也可以看看
 

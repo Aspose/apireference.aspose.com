@@ -1,14 +1,14 @@
 ---
 title: CSS_RAD
 second_title: Aspose.SVG for .NET API 参考
-description: 值是角度 rad可以使用 getFloatValue 方法获取该值
+description: 该值是一个角度 rad该值可以通过getFloatValue方法获取
 type: docs
 weight: 340
 url: /zh/net/aspose.svg.dom.css/cssprimitivevalue/css_rad/
 ---
 ## CSSPrimitiveValue.CSS_RAD field
 
-值是角度 (rad)。可以使用 getFloatValue 方法获取该值。
+该值是一个角度 (rad)。该值可以通过getFloatValue方法获取。
 
 ```csharp
 public const ushort CSS_RAD;

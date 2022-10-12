@@ -1,14 +1,14 @@
 ---
 title: ValueAsString
 second_title: Aspose.SVG for .NET API 参考
-description: 字符串值单位由 unitType 表示设置此属性将导致 valuevalueInSpecifiedUnits 和 unitType 自动更新以反映此设置
+description: 字符串值单位为unitType设置此属性将导致 valuevalueInSpecifiedUnits 和 unitType 自动更新以反映此设置
 type: docs
 weight: 30
 url: /zh/net/aspose.svg.datatypes/svglength/valueasstring/
 ---
 ## SVGLength.ValueAsString property
 
-字符串值，单位由 unitType 表示。设置此属性将导致 value、valueInSpecifiedUnits 和 unitType 自动更新以反映此设置。
+字符串值，单位为unitType。设置此属性将导致 value、valueInSpecifiedUnits 和 unitType 自动更新以反映此设置。
 
 ```csharp
 public string ValueAsString { get; set; }
@@ -22,7 +22,7 @@ public string ValueAsString { get; set; }
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception) | 代码[`SYNTAX_ERR`](../../../aspose.svg.dom/domexception/syntax_err) 如果分配的字符串不能被解析为有效长度，则引发。 |
+| [DOMException](../../../aspose.svg.dom/domexception) | 代码[`SYNTAX_ERR`](../../../aspose.svg.dom/domexception/syntax_err) 如果分配的字符串无法解析为有效长度，则引发。 |
 | [DOMException](../../../aspose.svg.dom/domexception) | 代码[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err) 当长度对应于只读属性或对象本身为只读时引发。 |
 
 ### 也可以看看

@@ -1,14 +1,14 @@
 ---
 title: DOMTreatNullAsAttribute
 second_title: Aspose.SVG for .NET API 参考
-description: 表示成员值的 null 将被视为指定值
+description: 表示成员值的空值将被视为指定值
 type: docs
-weight: 440
+weight: 430
 url: /zh/net/aspose.svg.dom.attributes/domtreatnullasattribute/
 ---
 ## DOMTreatNullAsAttribute class
 
-表示成员值的 null 将被视为指定值。
+表示成员值的空值将被视为指定值。
 
 ```csharp
 [AttributeUsage(AttributeTargets.All)]
@@ -19,7 +19,7 @@ public sealed class DOMTreatNullAsAttribute : Attribute
 
 | 姓名 | 描述 |
 | --- | --- |
-| [DOMTreatNullAsAttribute](domtreatnullasattribute)(Type, object) | 初始化[`DOMTreatNullAsAttribute`](../domtreatnullasattribute)类的新实例。 |
+| [DOMTreatNullAsAttribute](domtreatnullasattribute)(Type, object) | 初始化[`DOMTreatNullAsAttribute`](../domtreatnullasattribute)类. |
 
 ## 特性
 

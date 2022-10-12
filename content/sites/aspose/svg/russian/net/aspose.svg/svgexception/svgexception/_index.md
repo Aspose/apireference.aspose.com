@@ -1,14 +1,14 @@
 ---
 title: SVGException
 second_title: Справочник по Aspose.SVG для .NET API
-description: Инициализирует новый экземпляр классаSVGExceptionaspose.svg/svgexception.
+description: Инициализирует новый экземплярSVGExceptionaspose.svg/svgexception класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.svg/svgexception/svgexception/
 ---
 ## SVGException constructor
 
-Инициализирует новый экземпляр класса[`SVGException`](../../svgexception).
+Инициализирует новый экземпляр[`SVGException`](../../svgexception) класс.
 
 ```csharp
 public SVGException(ushort code)

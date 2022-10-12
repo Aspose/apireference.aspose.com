@@ -1,7 +1,7 @@
 ---
 title: FontStretch
 second_title: Справочник по Aspose.SVG для .NET API
-description: См. определение свойства font-stretch в CSS2.
+description: См. определение свойства fontstretch в CSS2.
 type: docs
 weight: 510
 url: /ru/net/aspose.svg.dom.css/icss2properties/fontstretch/

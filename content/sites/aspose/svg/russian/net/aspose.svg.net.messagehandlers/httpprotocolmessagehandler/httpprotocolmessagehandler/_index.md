@@ -1,14 +1,14 @@
 ---
 title: HttpProtocolMessageHandler
 second_title: Справочник по Aspose.SVG для .NET API
-description: Инициализирует новый экземпляр классаHttpProtocolMessageHandleraspose.svg.net.messagehandlers/httpprotocolmessagehandler.
+description: Инициализирует новый экземплярHttpProtocolMessageHandleraspose.svg.net.messagehandlers/httpprotocolmessagehandler класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.net.messagehandlers/httpprotocolmessagehandler/httpprotocolmessagehandler/
 ---
 ## HttpProtocolMessageHandler constructor
 
-Инициализирует новый экземпляр класса[`HttpProtocolMessageHandler`](../../httpprotocolmessagehandler).
+Инициализирует новый экземпляр[`HttpProtocolMessageHandler`](../../httpprotocolmessagehandler) класс.
 
 ```csharp
 public HttpProtocolMessageHandler()

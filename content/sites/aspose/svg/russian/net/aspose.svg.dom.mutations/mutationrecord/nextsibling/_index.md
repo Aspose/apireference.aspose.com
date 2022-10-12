@@ -1,14 +1,14 @@
 ---
 title: NextSibling
 second_title: Справочник по Aspose.SVG для .NET API
-description: Возвращает следующего одноуровневого узла добавленного или удаленного узла или null.
+description: Возвращает следующего родственного узла добавленных или удаленных узлов или null.
 type: docs
 weight: 40
 url: /ru/net/aspose.svg.dom.mutations/mutationrecord/nextsibling/
 ---
 ## MutationRecord.NextSibling property
 
-Возвращает следующего одноуровневого узла добавленного или удаленного узла или null.
+Возвращает следующего родственного узла добавленных или удаленных узлов или null.
 
 ```csharp
 public Node NextSibling { get; }

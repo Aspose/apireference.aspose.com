@@ -1,14 +1,14 @@
 ---
 title: Equals
 second_title: Aspose.SVG for .NET API 参考
-description: 表示当前对象是否等于另一个相同类型的对象
+description: 表示当前对象是否等于另一个同类型的对象
 type: docs
 weight: 50
 url: /zh/net/aspose.svg/mimetype/equals/
 ---
 ## Equals(MimeType) {#equals}
 
-表示当前对象是否等于另一个相同类型的对象。
+表示当前对象是否等于另一个同类型的对象。
 
 ```csharp
 public bool Equals(MimeType other)
@@ -20,7 +20,7 @@ public bool Equals(MimeType other)
 
 ### 返回值
 
-如果当前对象等于*other*参数则为真；否则为假。
+如果当前对象等于*other*范围;否则为假。
 
 ### 也可以看看
 
@@ -32,7 +32,7 @@ public bool Equals(MimeType other)
 
 ## Equals(object) {#equals_1}
 
-确定指定的Object是否等于当前的Object。
+判断是否指定Object等于当前Object .
 
 ```csharp
 public override bool Equals(object obj)
@@ -40,11 +40,11 @@ public override bool Equals(object obj)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| obj | Object | Object与当前的Object进行比较。 |
+| obj | Object | 这Object与当前比较Object. |
 
 ### 返回值
 
-如果指定的Object等于当前的Object，则为真；否则为假。
+如果指定为真Object等于当前Object;否则为假。
 
 ### 也可以看看
 

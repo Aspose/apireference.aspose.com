@@ -1,14 +1,14 @@
 ---
 title: KeyboardEvent
 second_title: Справочник по Aspose.SVG для .NET API
-description: Инициализирует новый экземпляр классаKeyboardEventaspose.svg.dom.events/keyboardevent.
+description: Инициализирует новый экземплярKeyboardEventaspose.svg.dom.events/keyboardevent класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.dom.events/keyboardevent/keyboardevent/
 ---
 ## KeyboardEvent(string) {#constructor}
 
-Инициализирует новый экземпляр класса[`KeyboardEvent`](../../keyboardevent).
+Инициализирует новый экземпляр[`KeyboardEvent`](../../keyboardevent) класс.
 
 ```csharp
 public KeyboardEvent(string type)
@@ -28,7 +28,7 @@ public KeyboardEvent(string type)
 
 ## KeyboardEvent(string, IDictionary&lt;string, object&gt;) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`KeyboardEvent`](../../keyboardevent).
+Инициализирует новый экземпляр[`KeyboardEvent`](../../keyboardevent) класс.
 
 ```csharp
 public KeyboardEvent(string type, IDictionary<string, object> eventInitDict)

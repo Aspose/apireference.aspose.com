@@ -1,14 +1,14 @@
 ---
 title: PdfEncryptionInfo
 second_title: Справочник по Aspose.SVG для .NET API
-description: Содержит детали для шифрования pdf.
+description: Содержит детали для шифрования PDF.
 type: docs
-weight: 2870
+weight: 2880
 url: /ru/net/aspose.svg.rendering.pdf.encryption/pdfencryptioninfo/
 ---
 ## PdfEncryptionInfo class
 
-Содержит детали для шифрования pdf.
+Содержит детали для шифрования PDF.
 
 ```csharp
 public class PdfEncryptionInfo
@@ -18,7 +18,7 @@ public class PdfEncryptionInfo
 
 | Имя | Описание |
 | --- | --- |
-| [PdfEncryptionInfo](pdfencryptioninfo)(string, string, PdfPermissions, PdfEncryptionAlgorithm) | Инициализирует новый экземпляр класса[`PdfEncryptionInfo`](../pdfencryptioninfo). |
+| [PdfEncryptionInfo](pdfencryptioninfo)(string, string, PdfPermissions, PdfEncryptionAlgorithm) | Инициализирует новый экземпляр[`PdfEncryptionInfo`](../pdfencryptioninfo) класс. |
 
 ## Характеристики
 
@@ -27,7 +27,7 @@ public class PdfEncryptionInfo
 | [EncryptionAlgorithm](../../aspose.svg.rendering.pdf.encryption/pdfencryptioninfo/encryptionalgorithm) { get; set; } | Получает или задает режим шифрования. |
 | [OwnerPassword](../../aspose.svg.rendering.pdf.encryption/pdfencryptioninfo/ownerpassword) { get; set; } | Получает или задает пароль владельца. |
 | [Permissions](../../aspose.svg.rendering.pdf.encryption/pdfencryptioninfo/permissions) { get; set; } | Получает или задает разрешения. |
-| [UserPassword](../../aspose.svg.rendering.pdf.encryption/pdfencryptioninfo/userpassword) { get; set; } | Получает или задает пароль пользователя. |
+| [UserPassword](../../aspose.svg.rendering.pdf.encryption/pdfencryptioninfo/userpassword) { get; set; } | Получает или устанавливает пароль пользователя. |
 
 ### Смотрите также
 

@@ -1,7 +1,7 @@
 ---
 title: UnicodeBidi
 second_title: Справочник по Aspose.SVG для .NET API
-description: См. определение свойства unicode-bidi в CSS2.
+description: См. определение свойства unicodebidi в CSS2.
 type: docs
 weight: 1130
 url: /ru/net/aspose.svg.dom.css/icss2properties/unicodebidi/

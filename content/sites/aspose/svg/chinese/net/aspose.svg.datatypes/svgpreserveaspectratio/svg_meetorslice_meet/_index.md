@@ -1,14 +1,14 @@
 ---
 title: SVG_MEETORSLICE_MEET
 second_title: Aspose.SVG for .NET API 参考
-description: 对应于属性 preserveAspectRatio 的值 meet
+description: 对应于属性preserveAspectRatio的值满足
 type: docs
 weight: 40
 url: /zh/net/aspose.svg.datatypes/svgpreserveaspectratio/svg_meetorslice_meet/
 ---
 ## SVGPreserveAspectRatio.SVG_MEETORSLICE_MEET field
 
-对应于属性 'preserveAspectRatio' 的值 'meet'。
+对应于属性“preserveAspectRatio”的值“满足”。
 
 ```csharp
 public const ushort SVG_MEETORSLICE_MEET;

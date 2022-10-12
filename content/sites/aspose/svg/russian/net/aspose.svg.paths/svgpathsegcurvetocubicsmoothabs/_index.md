@@ -3,7 +3,7 @@ title: SVGPathSegCurvetoCubicSmoothAbs
 second_title: Справочник по Aspose.SVG для .NET API
 description: Интерфейс SVGPathSegCurvetoCubicSmoothAbs соответствует команде данных пути абсолютно гладкая кубическая кривая к S.
 type: docs
-weight: 2510
+weight: 2520
 url: /ru/net/aspose.svg.paths/svgpathsegcurvetocubicsmoothabs/
 ---
 ## SVGPathSegCurvetoCubicSmoothAbs class
@@ -18,7 +18,7 @@ public class SVGPathSegCurvetoCubicSmoothAbs : SVGPathSeg
 
 | Имя | Описание |
 | --- | --- |
-| [PathSegType](../../aspose.svg.paths/svgpathseg/pathsegtype) { get; } | Тип сегмента пути, заданный одной из констант, определенных в этом интерфейсе. |
+| [PathSegType](../../aspose.svg.paths/svgpathseg/pathsegtype) { get; } | Тип сегмента пути, указанный одной из констант, определенных на этом интерфейсе. |
 | [PathSegTypeAsLetter](../../aspose.svg.paths/svgpathseg/pathsegtypeasletter) { get; } | Тип сегмента пути, определяемый соответствующим односимвольным именем команды. |
 | [X](../../aspose.svg.paths/svgpathsegcurvetocubicsmoothabs/x) { get; set; } | Абсолютная координата X конечной точки этого сегмента пути. |
 | [X2](../../aspose.svg.paths/svgpathsegcurvetocubicsmoothabs/x2) { get; set; } | Абсолютная координата X для второй контрольной точки. |
@@ -30,7 +30,7 @@ public class SVGPathSegCurvetoCubicSmoothAbs : SVGPathSeg
 | Имя | Описание |
 | --- | --- |
 | [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose)() | Освобождает неуправляемые и (необязательно) управляемые ресурсы. |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | Этот метод используется для получения объекта ECMAScriptType. |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | Этот метод используется для получения объекта ECMAScript.Type . |
 
 ### Смотрите также
 

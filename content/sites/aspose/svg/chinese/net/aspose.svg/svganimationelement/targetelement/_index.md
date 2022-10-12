@@ -1,14 +1,14 @@
 ---
 title: TargetElement
 second_title: Aspose.SVG for .NET API 参考
-description: 动画元素
+description: 正在动画的元素
 type: docs
 weight: 40
 url: /zh/net/aspose.svg/svganimationelement/targetelement/
 ---
 ## SVGAnimationElement.TargetElement property
 
-动画元素。
+正在动画的元素。
 
 ```csharp
 public SVGElement TargetElement { get; }

@@ -3,7 +3,7 @@ title: SVGNumber
 second_title: Aspose.SVG for .NET API 参考
 description: 用于基本类型编号的属性
 type: docs
-weight: 260
+weight: 250
 url: /zh/net/aspose.svg.datatypes/svgnumber/
 ---
 ## SVGNumber class
@@ -24,9 +24,9 @@ public class SVGNumber : SVGValueType
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose)() | 释放非托管和（可选）托管资源。 |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | 此方法用于检索 ECMAScript 对象Type。 |
-| override [ToString](../../aspose.svg.datatypes/svgnumber/tostring)() | 返回代表此实例的String。 |
+| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose)() | 释放非托管和 - 可选 - 托管资源。 |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | 此方法用于检索 ECMAScript 对象Type . |
+| override [ToString](../../aspose.svg.datatypes/svgnumber/tostring)() | 返回一个String代表这个实例。 |
 
 ### 也可以看看
 

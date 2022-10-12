@@ -1,14 +1,14 @@
 ---
 title: CreationDate
 second_title: Справочник по Aspose.SVG для .NET API
-description: Получает или задает дату создания документа указанную в виде всемирного координированного времени UTC.
+description: Получает или задает дату создания документа указанную как всемирное координированное время UTC.
 type: docs
 weight: 20
 url: /ru/net/aspose.svg.rendering.pdf/pdfdocumentinfo/creationdate/
 ---
 ## PdfDocumentInfo.CreationDate property
 
-Получает или задает дату создания документа, указанную в виде всемирного координированного времени (UTC).
+Получает или задает дату создания документа, указанную как всемирное координированное время (UTC).
 
 ```csharp
 public DateTime CreationDate { get; set; }

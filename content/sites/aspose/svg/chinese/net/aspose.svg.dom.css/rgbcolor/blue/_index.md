@@ -1,14 +1,14 @@
 ---
 title: Blue
 second_title: Aspose.SVG for .NET API 参考
-description: 该属性用于RGB 颜色的蓝色值
+description: 该属性用于RGB颜色的蓝色值
 type: docs
 weight: 20
 url: /zh/net/aspose.svg.dom.css/rgbcolor/blue/
 ---
 ## RGBColor.Blue property
 
-该属性用于RGB 颜色的蓝色值。
+该属性用于RGB颜色的蓝色值。
 
 ```csharp
 public CSSPrimitiveValue Blue { get; }

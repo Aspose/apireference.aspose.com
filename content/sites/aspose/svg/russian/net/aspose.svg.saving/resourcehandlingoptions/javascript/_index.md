@@ -1,14 +1,14 @@
 ---
 title: JavaScript
 second_title: Справочник по Aspose.SVG для .NET API
-description: Получает или задает перечисление представляющее способ обработки скриптов. В настоящее времяSaveIgnoreDiscardиEmbed. Значение по умолчанию Save.
+description: Получает или задает перечисление представляющее способ обработки скриптов. В настоящее времяSave Ignore Discard а такжеEmbed значения поддерживаются. Значение по умолчаниюSave .
 type: docs
 weight: 20
 url: /ru/net/aspose.svg.saving/resourcehandlingoptions/javascript/
 ---
 ## ResourceHandlingOptions.JavaScript property
 
-Получает или задает перечисление, представляющее способ обработки скриптов. В настоящее времяSave,Ignore,DiscardиEmbed. Значение по умолчанию —Save.
+Получает или задает перечисление, представляющее способ обработки скриптов. В настоящее времяSave ,Ignore ,Discard а такжеEmbed значения поддерживаются. Значение по умолчаниюSave .
 
 ```csharp
 public ResourceHandling JavaScript { get; set; }

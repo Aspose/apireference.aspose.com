@@ -1,14 +1,14 @@
 ---
 title: DOM_KEY_LOCATION_STANDARD
 second_title: Aspose.SVG for .NET API 参考
-description: 键激活不得区分为左键或右键并且NumLock 键除外不是源自数字小键盘或不是源自数字键盘对应的虚拟键
+description: 键激活不得区分为左键或右键并且NumLock 键除外不是源自数字小键盘或不是源自与数字小键盘对应的虚拟键
 type: docs
 weight: 140
 url: /zh/net/aspose.svg.dom.events/keyboardevent/dom_key_location_standard/
 ---
 ## KeyboardEvent.DOM_KEY_LOCATION_STANDARD field
 
-键激活不得区分为左键或右键，并且（NumLock 键除外）不是源自数字小键盘（或不是源自数字键盘对应的虚拟键）。
+键激活不得区分为左键或右键，并且（NumLock 键除外）不是源自数字小键盘（或不是源自与数字小键盘对应的虚拟键）。
 
 ```csharp
 public const ulong DOM_KEY_LOCATION_STANDARD;

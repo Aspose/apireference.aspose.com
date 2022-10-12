@@ -1,7 +1,7 @@
 ---
 title: BorderLeftColor
 second_title: Справочник по Aspose.SVG для .NET API
-description: См. определение свойства border-left-color в CSS2.
+description: См. определение свойства borderleftcolor в CSS2.
 type: docs
 weight: 160
 url: /ru/net/aspose.svg.dom.css/icss2properties/borderleftcolor/
@@ -16,7 +16,7 @@ public string BorderLeftColor { get; set; }
 
 ### Возвращаемое значение
 
-свойство цвета границы слева
+свойство границы левого цвета
 
 ### Смотрите также
 

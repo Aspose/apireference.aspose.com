@@ -1,25 +1,25 @@
 ---
 title: Aspose.Svg.Rendering
 second_title: Aspose.SVG for .NET API 参考
-description: Aspose.Svg.Rendering 命名空间由 众多渲染器对象以及适当的 低级别选项类负责 将文档/文件呈现到 IDevice 实现中
+description: 的 Aspose.Svg.Rendering命名空间由 众多渲染器对象以及适当的 低级选项类组成它们负责 将文档/文件渲染到IDevice 实现中
 type: docs
 weight: 240
 url: /zh/net/aspose.svg.rendering/
 ---
-**Aspose.Svg.Rendering** 命名空间由 众多渲染器对象以及适当的 低级别选项类负责 将文档/文件呈现到 IDevice 实现中。
+的 **Aspose.Svg.Rendering**命名空间由 众多渲染器对象以及适当的 低级选项类组成，它们负责 将文档/文件渲染到IDevice 实现中。
 
 ## 课程
 
 | 班级 | 描述 |
 | --- | --- |
-| [CssOptions](./cssoptions) | 表示 css 渲染选项。 |
+| [CssOptions](./cssoptions) | 代表 css 渲染选项。 |
 | [Device&lt;TGraphicContext,TRenderingOptions&gt;](./device-2) | 表示实现特定渲染设备的基类。 |
-| [GraphicContext](./graphiccontext) | 保存当前图形控制参数。 这些参数定义了图形操作符执行的全局框架。 |
-| [PageSetup](./pagesetup) | 表示一个页面设置对象，用于配置输出页面集。 |
-| [Renderer](./renderer) | 表示所有渲染器的基类并实现 IDisposable 接口。 |
+| [GraphicContext](./graphiccontext) | 保存当前的图形控制参数。 这些参数定义了图形操作符执行的全局框架。 |
+| [PageSetup](./pagesetup) | 表示一个页面设置对象，用于配置输出page-set。 |
+| [Renderer](./renderer) | 表示所有渲染器和实现 IDisposable 接口的基类。 |
 | [Renderer&lt;TDocument&gt;](./renderer-1) | 表示所有渲染器的抽象类。 |
 | [RenderingOptions](./renderingoptions) | 表示渲染选项。 |
-| [SvgRenderer](./svgrenderer) | 代表 SVG 文档渲染器。 |
+| [SvgRenderer](./svgrenderer) | 表示 SVG 文档渲染器。 |
 | [TextInfo](./textinfo) | 包含有关渲染文本的信息。 |
 ## 接口
 

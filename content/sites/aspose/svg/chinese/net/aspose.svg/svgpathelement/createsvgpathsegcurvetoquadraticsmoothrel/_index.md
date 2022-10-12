@@ -1,14 +1,14 @@
 ---
 title: CreateSVGPathSegCurvetoQuadraticSmoothRel
 second_title: Aspose.SVG for .NET API 参考
-description: 返回一个独立的无父对象的 SVGPathSegCurvetoQuadraticSmoothRel 对象
+description: 返回一个独立的无父 SVGPathSegCurvetoQuadraticSmoothRel 对象
 type: docs
 weight: 130
 url: /zh/net/aspose.svg/svgpathelement/createsvgpathsegcurvetoquadraticsmoothrel/
 ---
 ## SVGPathElement.CreateSVGPathSegCurvetoQuadraticSmoothRel method
 
-返回一个独立的、无父对象的 SVGPathSegCurvetoQuadraticSmoothRel 对象。
+返回一个独立的无父 SVGPathSegCurvetoQuadraticSmoothRel 对象。
 
 ```csharp
 public SVGPathSegCurvetoQuadraticSmoothRel CreateSVGPathSegCurvetoQuadraticSmoothRel(float x, 
@@ -22,7 +22,7 @@ public SVGPathSegCurvetoQuadraticSmoothRel CreateSVGPathSegCurvetoQuadraticSmoot
 
 ### 返回值
 
-一个独立的、无父对象的 SVGPathSegCurvetoQuadraticSmoothRel 对象。
+一个独立的无父 SVGPathSegCurvetoQuadraticSmoothRel 对象。
 
 ### 也可以看看
 

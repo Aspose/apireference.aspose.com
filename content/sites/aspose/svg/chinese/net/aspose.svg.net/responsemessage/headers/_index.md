@@ -1,14 +1,14 @@
 ---
 title: Headers
 second_title: Aspose.SVG for .NET API 参考
-description: 获取标题
+description: 获取标头
 type: docs
 weight: 40
 url: /zh/net/aspose.svg.net/responsemessage/headers/
 ---
 ## ResponseMessage.Headers property
 
-获取标题。
+获取标头。
 
 ```csharp
 public ResponseHeaders Headers { get; }

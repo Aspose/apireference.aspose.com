@@ -16,8 +16,8 @@ public static bool operator >=(Resolution a, Resolution b)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| a | Resolution | Параметр a. |
-| b | Resolution | Параметр b. |
+| a | Resolution | Параметр а. |
+| b | Resolution | Параметр б. |
 
 ### Возвращаемое значение
 
@@ -27,8 +27,8 @@ public static bool operator >=(Resolution a, Resolution b)
 
 | исключение | условие |
 | --- | --- |
-| ArgumentException | Аргументы имеют разные типы |
-| ArgumentNullException | Аргумент имеет значение null |
+| ArgumentException | Аргументы бывают разных типов |
+| ArgumentNullException | Аргумент недействителен |
 
 ### Смотрите также
 

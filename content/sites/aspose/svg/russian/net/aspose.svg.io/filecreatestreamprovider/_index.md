@@ -1,14 +1,14 @@
 ---
 title: FileCreateStreamProvider
 second_title: Справочник по Aspose.SVG для .NET API
-description: Представляет реализациюFileStreamдля предоставления потоков на устройства рендеринга.
+description: ПредставляетFileStream реализация для предоставления потоков на устройства рендеринга.
 type: docs
-weight: 1900
+weight: 1910
 url: /ru/net/aspose.svg.io/filecreatestreamprovider/
 ---
 ## FileCreateStreamProvider class
 
-Представляет реализациюFileStreamдля предоставления потоков на устройства рендеринга.
+ПредставляетFileStream реализация для предоставления потоков на устройства рендеринга.
 
 ```csharp
 public class FileCreateStreamProvider : ICreateStreamProvider
@@ -18,9 +18,9 @@ public class FileCreateStreamProvider : ICreateStreamProvider
 
 | Имя | Описание |
 | --- | --- |
-| [FileCreateStreamProvider](filecreatestreamprovider#constructor)() | Инициализирует новый экземпляр класса[`FileCreateStreamProvider`](../filecreatestreamprovider). |
-| [FileCreateStreamProvider](filecreatestreamprovider#constructor_1)(string) | Инициализирует новый экземпляр класса[`FileCreateStreamProvider`](../filecreatestreamprovider). |
-| [FileCreateStreamProvider](filecreatestreamprovider#constructor_2)(string, string) | Инициализирует новый экземпляр класса[`FileCreateStreamProvider`](../filecreatestreamprovider). |
+| [FileCreateStreamProvider](filecreatestreamprovider#constructor)() | Инициализирует новый экземпляр[`FileCreateStreamProvider`](../filecreatestreamprovider) класс. |
+| [FileCreateStreamProvider](filecreatestreamprovider#constructor_1)(string) | Инициализирует новый экземпляр[`FileCreateStreamProvider`](../filecreatestreamprovider) класс. |
+| [FileCreateStreamProvider](filecreatestreamprovider#constructor_2)(string, string) | Инициализирует новый экземпляр[`FileCreateStreamProvider`](../filecreatestreamprovider) класс. |
 
 ## Характеристики
 
@@ -33,7 +33,7 @@ public class FileCreateStreamProvider : ICreateStreamProvider
 
 | Имя | Описание |
 | --- | --- |
-| [Dispose](../../aspose.svg.io/filecreatestreamprovider/dispose)() | Выполняет определяемые приложением задачи, связанные с освобождением, освобождением или сбросом неуправляемых ресурсов. |
+| [Dispose](../../aspose.svg.io/filecreatestreamprovider/dispose)() | Выполняет определяемые приложением задачи, связанные с освобождением, высвобождением или сбросом неуправляемых ресурсов. |
 | [GetStream](../../aspose.svg.io/filecreatestreamprovider/getstream#getstream)(string, string) | Предоставляет поток для рендеринга. |
 | [GetStream](../../aspose.svg.io/filecreatestreamprovider/getstream#getstream_1)(string, string, int) | Предоставляет поток для рендеринга. |
 | [ReleaseStream](../../aspose.svg.io/filecreatestreamprovider/releasestream)(Stream) | Освобождает поток. |

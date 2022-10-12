@@ -16,7 +16,7 @@ public IInterpolationColor[] InterpolationColors { get; }
 
 ### Возвращаемое значение
 
-Интерполяция цветов.
+Интерполяционные цвета.
 
 ### Смотрите также
 

@@ -16,7 +16,7 @@ public SVGAnimatedEnumeration StitchTiles { get; }
 
 ### 适当的价值
 
-给定 'feTurbulence' 元素的属性 'stitchTiles'。
+给定“feTurbulence”元素的属性“stitchTiles”。
 
 ### 也可以看看
 

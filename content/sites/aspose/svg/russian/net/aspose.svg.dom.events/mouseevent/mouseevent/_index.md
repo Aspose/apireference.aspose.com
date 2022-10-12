@@ -1,14 +1,14 @@
 ---
 title: MouseEvent
 second_title: Справочник по Aspose.SVG для .NET API
-description: Инициализирует новый экземпляр классаMouseEventaspose.svg.dom.events/mouseevent.
+description: Инициализирует новый экземплярMouseEventaspose.svg.dom.events/mouseevent класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.dom.events/mouseevent/mouseevent/
 ---
 ## MouseEvent(string) {#constructor}
 
-Инициализирует новый экземпляр класса[`MouseEvent`](../../mouseevent).
+Инициализирует новый экземпляр[`MouseEvent`](../../mouseevent) класс.
 
 ```csharp
 public MouseEvent(string type)
@@ -28,7 +28,7 @@ public MouseEvent(string type)
 
 ## MouseEvent(string, IDictionary&lt;string, object&gt;) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`MouseEvent`](../../mouseevent).
+Инициализирует новый экземпляр[`MouseEvent`](../../mouseevent) класс.
 
 ```csharp
 public MouseEvent(string type, IDictionary<string, object> eventInitDict)

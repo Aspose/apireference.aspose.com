@@ -1,14 +1,14 @@
 ---
 title: FtpProtocolMessageHandler
 second_title: Aspose.SVG for .NET API 参考
-description: 表示 ftp 协议消息处理程序
+description: 代表FTP协议消息处理程序.
 type: docs
-weight: 2330
+weight: 2340
 url: /zh/net/aspose.svg.net.messagehandlers/ftpprotocolmessagehandler/
 ---
 ## FtpProtocolMessageHandler class
 
-表示` ftp：` 协议消息处理程序。
+代表`FTP：`协议消息处理程序.
 
 ```csharp
 public class FtpProtocolMessageHandler : MessageHandler
@@ -18,7 +18,7 @@ public class FtpProtocolMessageHandler : MessageHandler
 
 | 姓名 | 描述 |
 | --- | --- |
-| [FtpProtocolMessageHandler](ftpprotocolmessagehandler)() | 初始化[`FtpProtocolMessageHandler`](../ftpprotocolmessagehandler)类的新实例。 |
+| [FtpProtocolMessageHandler](ftpprotocolmessagehandler)() | 初始化[`FtpProtocolMessageHandler`](../ftpprotocolmessagehandler)类. |
 
 ## 特性
 

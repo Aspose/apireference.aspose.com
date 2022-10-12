@@ -1,14 +1,14 @@
 ---
 title: SetInterval
 second_title: Aspose.SVG for .NET API 参考
-description: 每超时毫秒安排一个超时来运行处理程序任何参数都直接传递给处理程序
+description: 为每超时毫秒运行处理程序安排一个超时任何参数都直接传递给处理程序
 type: docs
 weight: 30
 url: /zh/net/aspose.svg.window/iwindowtimers/setinterval/
 ---
 ## IWindowTimers.SetInterval method
 
-每超时毫秒安排一个超时来运行处理程序。任何参数都直接传递给处理程序。
+为每超时毫秒运行处理程序安排一个超时。任何参数都直接传递给处理程序。
 
 ```csharp
 public int SetInterval(object handler, int timeout, params object[] args)
@@ -18,11 +18,11 @@ public int SetInterval(object handler, int timeout, params object[] args)
 | --- | --- | --- |
 | handler | Object | 处理程序。 |
 | timeout | Int32 | 超时。 |
-| args | Object[] | 参数。 |
+| args | Object[] | 论据。 |
 
 ### 返回值
 
-句柄
+手柄
 
 ### 也可以看看
 

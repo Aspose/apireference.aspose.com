@@ -3,7 +3,7 @@ title: SVGAnimatedValueT
 second_title: Aspose.SVG for .NET API 参考
 description: 用于可以动画的类型的属性
 type: docs
-weight: 220
+weight: 210
 url: /zh/net/aspose.svg.datatypes/svganimatedvalue-1/
 ---
 ## SVGAnimatedValue&lt;T&gt; class
@@ -22,15 +22,15 @@ public abstract class SVGAnimatedValue<T> : SVGValueType
 
 | 姓名 | 描述 |
 | --- | --- |
-| virtual [AnimVal](../../aspose.svg.datatypes/svganimatedvalue`1/animval) { get; } | 如果给定的属性或属性正在动画，则包含属性或属性的当前动画值。如果给定的属性或属性当前没有被动画化，则包含与 baseVal 相同的值。 |
-| [BaseVal](../../aspose.svg.datatypes/svganimatedvalue`1/baseval) { get; set; } | 应用任何动画之前给定属性的基本值。 |
+| virtual [AnimVal](../../aspose.svg.datatypes/svganimatedvalue`1/animval) { get; } | 如果给定的属性或属性正在动画，则包含属性或属性的当前动画值。如果给定的属性或属性当前没有被动画化，则包含与 baseVal. 相同的值 |
+| [BaseVal](../../aspose.svg.datatypes/svganimatedvalue`1/baseval) { get; set; } | 应用任何动画之前给定属性的基值。 |
 
 ## 方法
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose)() | 释放非托管和（可选）托管资源。 |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | 此方法用于检索 ECMAScript 对象Type。 |
+| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose)() | 释放非托管和 - 可选 - 托管资源。 |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | 此方法用于检索 ECMAScript 对象Type . |
 
 ### 也可以看看
 

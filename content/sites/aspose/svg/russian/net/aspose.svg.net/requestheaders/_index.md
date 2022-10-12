@@ -3,7 +3,7 @@ title: RequestHeaders
 second_title: Справочник по Aspose.SVG для .NET API
 description: Содержит заголовки протокола связанные с запросом.
 type: docs
-weight: 2370
+weight: 2380
 url: /ru/net/aspose.svg.net/requestheaders/
 ---
 ## RequestHeaders class

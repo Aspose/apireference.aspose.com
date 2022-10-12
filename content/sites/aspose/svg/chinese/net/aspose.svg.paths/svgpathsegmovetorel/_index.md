@@ -1,14 +1,14 @@
 ---
 title: SVGPathSegMovetoRel
 second_title: Aspose.SVG for .NET API 参考
-description: SVGPathSegMovetoRel 接口对应于相对移动m 路径数据命令
+description: SVGPathSegMovetoRel 接口对应于相对移动m路径数据命令
 type: docs
-weight: 2650
+weight: 2660
 url: /zh/net/aspose.svg.paths/svgpathsegmovetorel/
 ---
 ## SVGPathSegMovetoRel class
 
-SVGPathSegMovetoRel 接口对应于“相对移动”(m) 路径数据命令。
+SVGPathSegMovetoRel 接口对应于“相对移动”（m）路径数据命令。
 
 ```csharp
 public class SVGPathSegMovetoRel : SVGPathSeg
@@ -27,8 +27,8 @@ public class SVGPathSegMovetoRel : SVGPathSeg
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose)() | 释放非托管和（可选）托管资源。 |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | 此方法用于检索 ECMAScript 对象Type。 |
+| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose)() | 释放非托管和 - 可选 - 托管资源。 |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | 此方法用于检索 ECMAScript 对象Type . |
 
 ### 也可以看看
 

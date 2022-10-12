@@ -1,14 +1,14 @@
 ---
 title: SVGPathSegCurvetoQuadraticRel
 second_title: Aspose.SVG for .NET API 参考
-description: SVGPathSegCurvetoQuadraticRel 接口对应于相对二次贝塞尔曲线q 路径数据命令
+description: SVGPathSegCurvetoQuadraticRel 接口对应于相对二次贝塞尔曲线q路径数据命令
 type: docs
-weight: 2540
+weight: 2550
 url: /zh/net/aspose.svg.paths/svgpathsegcurvetoquadraticrel/
 ---
 ## SVGPathSegCurvetoQuadraticRel class
 
-SVGPathSegCurvetoQuadraticRel 接口对应于“相对二次贝塞尔曲线”(q) 路径数据命令。
+SVGPathSegCurvetoQuadraticRel 接口对应于“相对二次贝塞尔曲线”（q）路径数据命令。
 
 ```csharp
 public class SVGPathSegCurvetoQuadraticRel : SVGPathSeg
@@ -29,8 +29,8 @@ public class SVGPathSegCurvetoQuadraticRel : SVGPathSeg
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose)() | 释放非托管和（可选）托管资源。 |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | 此方法用于检索 ECMAScript 对象Type。 |
+| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose)() | 释放非托管和 - 可选 - 托管资源。 |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | 此方法用于检索 ECMAScript 对象Type . |
 
 ### 也可以看看
 

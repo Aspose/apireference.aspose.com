@@ -1,14 +1,14 @@
 ---
 title: R1
 second_title: Aspose.SVG for .NET API 参考
-description: 椭圆的 x 轴半径即 r1
+description: 椭圆的x轴半径即r1
 type: docs
 weight: 30
 url: /zh/net/aspose.svg.paths/svgpathsegarcabs/r1/
 ---
 ## SVGPathSegArcAbs.R1 property
 
-椭圆的 x 轴半径（即 r1）。
+椭圆的x轴半径（即r1）。
 
 ```csharp
 public float R1 { get; set; }
@@ -22,7 +22,7 @@ x 轴半径
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| Dom。DOMException | 代码[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err)。 在尝试更改只读属性的值时引发。 |
+| [DOMException](../../../aspose.svg.dom/domexception) | 代码[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err) . 尝试更改只读属性的值时引发。 |
 
 ### 也可以看看
 

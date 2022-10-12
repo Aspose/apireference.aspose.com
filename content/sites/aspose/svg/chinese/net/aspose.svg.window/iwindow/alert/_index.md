@@ -1,14 +1,14 @@
 ---
 title: Alert
 second_title: Aspose.SVG for .NET API 参考
-description: 显示带有给定消息的模式警报并等待用户将其关闭
+description: 显示带有给定消息的模式警报并等待用户关闭它
 type: docs
 weight: 100
 url: /zh/net/aspose.svg.window/iwindow/alert/
 ---
 ## IWindow.Alert method
 
-显示带有给定消息的模式警报，并等待用户将其关闭
+显示带有给定消息的模式警报，并等待用户关闭它
 
 ```csharp
 public void Alert(string message)

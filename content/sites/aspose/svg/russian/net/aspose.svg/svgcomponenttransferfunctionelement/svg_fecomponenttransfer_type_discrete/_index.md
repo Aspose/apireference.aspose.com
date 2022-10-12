@@ -8,7 +8,7 @@ url: /ru/net/aspose.svg/svgcomponenttransferfunctionelement/svg_fecomponenttrans
 ---
 ## SVGComponentTransferFunctionElement.SVG_FECOMPONENTTRANSFER_TYPE_DISCRETE field
 
-Соответствует значению 'дискретный'.
+Соответствует значению «дискретный».
 
 ```csharp
 public const ushort SVG_FECOMPONENTTRANSFER_TYPE_DISCRETE;

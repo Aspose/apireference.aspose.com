@@ -8,7 +8,7 @@ url: /ru/net/aspose.svg.filters/svgfeturbulenceelement/numoctaves/
 ---
 ## SVGFETurbulenceElement.NumOctaves property
 
-Соответствует атрибуту 'numOctaves' данного элемента 'feTurbulence'.
+Соответствует атрибуту numOctaves данного элемента feTurbulence.
 
 ```csharp
 public SVGAnimatedInteger NumOctaves { get; }

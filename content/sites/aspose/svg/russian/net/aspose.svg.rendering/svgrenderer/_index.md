@@ -1,14 +1,14 @@
 ---
 title: SvgRenderer
 second_title: Справочник по Aspose.SVG для .NET API
-description: Представляет средство визуализации документов SVG.
+description: Представляет средство визуализации документа SVG.
 type: docs
-weight: 2970
+weight: 2980
 url: /ru/net/aspose.svg.rendering/svgrenderer/
 ---
 ## SvgRenderer class
 
-Представляет средство визуализации документов SVG.
+Представляет средство визуализации документа SVG.
 
 ```csharp
 public class SvgRenderer : Renderer<SVGDocument>
@@ -30,7 +30,7 @@ public class SvgRenderer : Renderer<SVGDocument>
 | [Render](../../aspose.svg.rendering/renderer`1/render)(IDevice, int, params SVGDocument[]) |  |
 | [Render](../../aspose.svg.rendering/renderer`1/render)(IDevice, SVGDocument, int) |  |
 | [Render](../../aspose.svg.rendering/renderer`1/render)(IDevice, SVGDocument, TimeSpan) |  |
-| override [Render](../../aspose.svg.rendering/svgrenderer/render#render_5)(IDevice, TimeSpan, params SVGDocument[]) | Определяет метод для рендеринга нескольких[`SVGDocument`](../../aspose.svg/svgdocument)в определенные[`IDevice`](../idevice). Рендеринг будет выполнен, когда не будет никаких сетевых операций по загрузке ресурсов, активных таймеров, задач анимации или истечет указанный тайм-аут. |
+| override [Render](../../aspose.svg.rendering/svgrenderer/render#render_5)(IDevice, TimeSpan, params SVGDocument[]) | Определяет метод для рендеринга нескольких[`SVGDocument`](../../aspose.svg/svgdocument) в конкретные[`IDevice`](../idevice) . Рендеринг будет выполнен после того, как не будет никаких сетевых операций для загрузки ресурсов, активных таймеров, задач анимации или истечет указанное время ожидания. |
 
 ### Смотрите также
 

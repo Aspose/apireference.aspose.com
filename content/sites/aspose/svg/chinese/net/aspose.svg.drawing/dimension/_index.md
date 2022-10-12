@@ -1,14 +1,14 @@
 ---
 title: Dimension
 second_title: Aspose.SVG for .NET API 参考
-description: 提供维度的基类 通用术语维度是指一个带有单位的数字用UnitType./unittype表示
+description: 提供维度的基类 通用术语维度是指一个带有单位的数字记为UnitType./unittype .
 type: docs
-weight: 1400
+weight: 1410
 url: /zh/net/aspose.svg.drawing/dimension/
 ---
 ## Dimension class
 
-提供维度的基类。 通用术语“维度”是指一个带有单位的数字，用[`UnitType`](../unittype)表示。
+提供维度的基类。 通用术语“维度”是指一个带有单位的数字，记为[`UnitType`](../unittype) .
 
 ```csharp
 public abstract class Dimension : Numeric
@@ -18,19 +18,19 @@ public abstract class Dimension : Numeric
 
 | 姓名 | 描述 |
 | --- | --- |
-| [UnitType](../../aspose.svg.drawing/unit/unittype) { get; } | 获取[`Unit`](../unit)的单位类型。 |
+| [UnitType](../../aspose.svg.drawing/unit/unittype) { get; } | 获取单位类型[`Unit`](../unit) . |
 
 ## 方法
 
 | 姓名 | 描述 |
 | --- | --- |
-| [CompareTo](../../aspose.svg.drawing/numeric/compareto)(Numeric) | 将当前实例与另一个相同类型的对象进行比较，并返回一个整数，该整数指示当前实例在排序顺序中是位于另一个对象之前、之后还是出现在相同位置. |
-| override [Equals](../../aspose.svg.drawing/unit/equals)(object) | 确定指定的Object是否等于此实例。 |
-| override [Equals](../../aspose.svg.drawing/numeric/equals)(Unit) | 确定指定的[`Unit`](../unit)是否等于此实例。 |
+| [CompareTo](../../aspose.svg.drawing/numeric/compareto)(Numeric) | 将当前实例与另一个相同类型的对象进行比较，并返回一个整数，指示当前实例在排序顺序中是在另一个对象之前、之后还是出现在相同位置。 |
+| override [Equals](../../aspose.svg.drawing/unit/equals)(object) | 判断是否指定Object 等于这个实例。 |
+| override [Equals](../../aspose.svg.drawing/numeric/equals)(Unit) | 判断是否指定[`Unit`](../unit) 等于这个实例。 |
 | override [GetHashCode](../../aspose.svg.drawing/numeric/gethashcode)() | 返回此实例的哈希码。 |
 | [GetValue](../../aspose.svg.drawing/numeric/getvalue)() | 获取单位值。 |
-| [GetValue](../../aspose.svg.drawing/numeric/getvalue)(UnitType) | 获取转换为指定[`UnitType`](../unittype)的值。 |
-| override [ToString](../../aspose.svg.drawing/dimension/tostring)() | 返回代表此实例的String。 |
+| [GetValue](../../aspose.svg.drawing/numeric/getvalue)(UnitType) | 获取转换为指定值的值[`UnitType`](../unittype) . |
+| override [ToString](../../aspose.svg.drawing/dimension/tostring)() | 返回一个String代表这个实例。 |
 
 ### 也可以看看
 

@@ -22,7 +22,7 @@ X 坐标。
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception) | 代码[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err). 如果 SVGPoint 对象是只读的，或者对应于只读的 DOM 属性，则引发。 |
+| [DOMException](../../../aspose.svg.dom/domexception) | 代码[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err) . 如果 SVGPoint 对象是只读的，或者对应于只读的 DOM 属性，则引发。 |
 
 ### 也可以看看
 

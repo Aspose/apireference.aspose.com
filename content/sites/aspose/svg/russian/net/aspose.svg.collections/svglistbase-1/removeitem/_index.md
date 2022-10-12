@@ -16,7 +16,7 @@ public T RemoveItem(ulong index)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| index | UInt64 | Индекс удаляемого элемента. Первый элемент имеет номер 0. |
+| index | UInt64 | Индекс элемента, который необходимо удалить. Первый элемент имеет номер 0. |
 
 ### Возвращаемое значение
 
@@ -27,7 +27,7 @@ public T RemoveItem(ulong index)
 | исключение | условие |
 | --- | --- |
 | [DOMException](../../../aspose.svg.dom/domexception) | Код[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err). Возникает, когда список нельзя изменить. |
-| [DOMException](../../../aspose.svg.dom/domexception) | Code[`INDEX_SIZE_ERR`](../../../aspose.svg.dom/domexception/index_size_err). Возникает, если номер индекса больше или равен numberOfItems. |
+| [DOMException](../../../aspose.svg.dom/domexception) | Код[`INDEX_SIZE_ERR`](../../../aspose.svg.dom/domexception/index_size_err). Возникает, если номер индекса больше или равен numberOfItems. |
 
 ### Смотрите также
 

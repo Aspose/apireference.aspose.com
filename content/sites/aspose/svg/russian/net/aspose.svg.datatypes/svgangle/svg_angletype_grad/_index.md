@@ -1,14 +1,14 @@
 ---
 title: SVG_ANGLETYPE_GRAD
 second_title: Справочник по Aspose.SVG для .NET API
-description: Единица измерения  радианы.
+description: Тип единицы измерения  радианы.
 type: docs
 weight: 90
 url: /ru/net/aspose.svg.datatypes/svgangle/svg_angletype_grad/
 ---
 ## SVGAngle.SVG_ANGLETYPE_GRAD field
 
-Единица измерения — радианы.
+Тип единицы измерения — радианы.
 
 ```csharp
 public const ushort SVG_ANGLETYPE_GRAD;

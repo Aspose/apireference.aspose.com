@@ -1,14 +1,14 @@
 ---
 title: ClipPathUnits
 second_title: Aspose.SVG for .NET API 参考
-description: 对应于给定 clipPath 元素上的属性 clipPathUnits采用 SVGUnitTypes 中定义的常量之一
+description: 对应于给定clipPath元素的属性clipPathUnits采用 SVGUnitTypes. 中定义的常量之一
 type: docs
 weight: 10
 url: /zh/net/aspose.svg/svgclippathelement/clippathunits/
 ---
 ## SVGClipPathElement.ClipPathUnits property
 
-对应于给定 'clipPath' 元素上的属性 'clipPathUnits'。采用 SVGUnitTypes 中定义的常量之一。
+对应于给定“clipPath”元素的属性“clipPathUnits”。采用 SVGUnitTypes. 中定义的常量之一
 
 ```csharp
 public SVGAnimatedEnumeration ClipPathUnits { get; }

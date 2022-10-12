@@ -1,14 +1,14 @@
 ---
 title: Y
 second_title: Aspose.SVG for .NET API 参考
-description: 对应于给定元素的属性y
+description: 对应于给定元素上的属性y
 type: docs
 weight: 50
 url: /zh/net/aspose.svg/svgtextpositioningelement/y/
 ---
 ## SVGTextPositioningElement.Y property
 
-对应于给定元素的属性“y”。
+对应于给定元素上的属性“y”。
 
 ```csharp
 public SVGAnimatedLengthList Y { get; }

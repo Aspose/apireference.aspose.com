@@ -1,14 +1,14 @@
 ---
 title: ImageVectorizer
 second_title: Aspose.SVG for .NET API 参考
-description: 这个 ImageVectorizer 类矢量化光栅图像如 PNGJPGGIFBMP 等...并返回 SVGDocument 在矢量化下我们是指将位图简化为由路径元素组成并存储为 SVG 的几何形状的过程
+description: 这个 ImageVectorizer 类矢量化光栅图像如 PNGJPGGIFBMP 等......并返回 SVGDocument 在矢量化下我们是指将位图简化为由路径元素组成的几何形状并存储为 SVG 的过程
 type: docs
-weight: 2120
+weight: 2130
 url: /zh/net/aspose.svg.imagevectorization/imagevectorizer/
 ---
 ## ImageVectorizer class
 
-这个 ImageVectorizer 类矢量化光栅图像，如 PNG、JPG、GIF、BMP 等...并返回 SVGDocument。 在矢量化下，我们是指将位图简化为由路径元素组成并存储为 SVG 的几何形状的过程。
+这个 ImageVectorizer 类矢量化光栅图像，如 PNG、JPG、GIF、BMP 等......并返回 SVGDocument。 在矢量化下，我们是指将位图简化为由路径元素组成的几何形状并存储为 SVG 的过程。
 
 ```csharp
 public class ImageVectorizer
@@ -18,8 +18,8 @@ public class ImageVectorizer
 
 | 姓名 | 描述 |
 | --- | --- |
-| [ImageVectorizer](imagevectorizer#constructor)() | 初始化[`ImageVectorizer`](../imagevectorizer)类的新实例。 |
-| [ImageVectorizer](imagevectorizer#constructor_1)(ImageVectorizerConfiguration) | 初始化[`ImageVectorizer`](../imagevectorizer)类的新实例。 |
+| [ImageVectorizer](imagevectorizer#constructor)() | 初始化[`ImageVectorizer`](../imagevectorizer)类. |
+| [ImageVectorizer](imagevectorizer#constructor_1)(ImageVectorizerConfiguration) | 初始化[`ImageVectorizer`](../imagevectorizer)类. |
 
 ## 特性
 
@@ -31,9 +31,9 @@ public class ImageVectorizer
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Vectorize](../../aspose.svg.imagevectorization/imagevectorizer/vectorize#vectorize)(Bitmap) | 向量化位图。 |
+| [Vectorize](../../aspose.svg.imagevectorization/imagevectorizer/vectorize#vectorize)(Bitmap) | 矢量化位图。 |
 | [Vectorize](../../aspose.svg.imagevectorization/imagevectorizer/vectorize#vectorize_1)(Stream) | 对来自指定流的光栅图像进行矢量化。 |
-| [Vectorize](../../aspose.svg.imagevectorization/imagevectorizer/vectorize#vectorize_2)(string) | 从指定文件矢量化光栅图像。 |
+| [Vectorize](../../aspose.svg.imagevectorization/imagevectorizer/vectorize#vectorize_2)(string) | 将指定文件中的光栅图像矢量化。 |
 
 ### 也可以看看
 

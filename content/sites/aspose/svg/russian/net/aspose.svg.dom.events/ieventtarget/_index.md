@@ -1,14 +1,14 @@
 ---
 title: IEventTarget
 second_title: Справочник по Aspose.SVG для .NET API
-description: ИнтерфейсEventTarget../aspose.svg.dom/eventtargetреализуется всеми узлами в реализации которая поддерживает модель событий DOM. Таким образом этот интерфейс можно получить с помощью методов приведения специфичных для привязки к экземпляру интерфейса Node. Интерфейс позволяет регистрировать и удалять прослушиватели событий наEventTarget../aspose.svg.dom/eventtargetи отправлять события этомуIEventTarget./ieventtarget.
+description: EventTarget../aspose.svg.dom/eventtarget интерфейс реализуется всеми узлами в реализации которая поддерживает модель событий DOM. Таким образом этот интерфейс можно получить используя методы приведения для конкретных привязок к экземпляру интерфейса узла. Интерфейс позволяет регистрировать и удалять прослушиватели событий на анEventTarget../aspose.svg.dom/eventtarget и отправка событий на этотIEventTarget./ieventtarget .
 type: docs
-weight: 970
+weight: 960
 url: /ru/net/aspose.svg.dom.events/ieventtarget/
 ---
 ## IEventTarget interface
 
-Интерфейс[`EventTarget`](../../aspose.svg.dom/eventtarget)реализуется всеми узлами в реализации, которая поддерживает модель событий DOM. Таким образом, этот интерфейс можно получить с помощью методов приведения, специфичных для привязки, к экземпляру интерфейса Node. Интерфейс позволяет регистрировать и удалять прослушиватели событий на[`EventTarget`](../../aspose.svg.dom/eventtarget)и отправлять события этому[`IEventTarget`](../ieventtarget).
+[`EventTarget`](../../aspose.svg.dom/eventtarget) интерфейс реализуется всеми узлами в реализации, которая поддерживает модель событий DOM. Таким образом, этот интерфейс можно получить, используя методы приведения для конкретных привязок к экземпляру интерфейса узла. Интерфейс позволяет регистрировать и удалять прослушиватели событий на ан[`EventTarget`](../../aspose.svg.dom/eventtarget) и отправка событий на этот[`IEventTarget`](../ieventtarget) .
 
 ```csharp
 public interface IEventTarget
@@ -18,11 +18,11 @@ public interface IEventTarget
 
 | Имя | Описание |
 | --- | --- |
-| [AddEventListener](../../aspose.svg.dom.events/ieventtarget/addeventlistener#addeventlistener)(string, IEventListener) | Этот метод позволяет регистрировать прослушиватели событий на цели события. |
-| [AddEventListener](../../aspose.svg.dom.events/ieventtarget/addeventlistener#addeventlistener_1)(string, IEventListener, bool) | Этот метод позволяет регистрировать прослушиватели событий на цели события. |
+| [AddEventListener](../../aspose.svg.dom.events/ieventtarget/addeventlistener#addeventlistener)(string, IEventListener) | Этот метод позволяет регистрировать прослушиватели событий в цели события. |
+| [AddEventListener](../../aspose.svg.dom.events/ieventtarget/addeventlistener#addeventlistener_1)(string, IEventListener, bool) | Этот метод позволяет регистрировать прослушиватели событий в цели события. |
 | [DispatchEvent](../../aspose.svg.dom.events/ieventtarget/dispatchevent)(Event) | Этот метод позволяет отправлять события в модель событий реализации. |
-| [RemoveEventListener](../../aspose.svg.dom.events/ieventtarget/removeeventlistener#removeeventlistener)(string, IEventListener) | Этот метод позволяет удалить прослушиватели событий из цели события. Если[`IEventListener`](../ieventlistener)удаляется из[`EventTarget`](../../aspose.svg.dom/eventtarget)во время обработки события, это не будет вызвано текущими действиями. Прослушиватели событий никогда не могут быть вызваны после удаления. |
-| [RemoveEventListener](../../aspose.svg.dom.events/ieventtarget/removeeventlistener#removeeventlistener_1)(string, IEventListener, bool) | Этот метод позволяет удалить прослушиватели событий из цели события. Если[`IEventListener`](../ieventlistener)удаляется из[`EventTarget`](../../aspose.svg.dom/eventtarget)во время обработки события, это не будет вызвано текущими действиями. Прослушиватели событий никогда не могут быть вызваны после удаления. |
+| [RemoveEventListener](../../aspose.svg.dom.events/ieventtarget/removeeventlistener#removeeventlistener)(string, IEventListener) | Этот метод позволяет удалить прослушиватели событий из цели события. Если[`IEventListener`](../ieventlistener) удаляется из[`EventTarget`](../../aspose.svg.dom/eventtarget) пока он обрабатывает событие, он не будет запущен текущими действиями. Прослушиватели событий никогда не могут быть вызваны после удаления. |
+| [RemoveEventListener](../../aspose.svg.dom.events/ieventtarget/removeeventlistener#removeeventlistener_1)(string, IEventListener, bool) | Этот метод позволяет удалить прослушиватели событий из цели события. Если[`IEventListener`](../ieventlistener) удаляется из[`EventTarget`](../../aspose.svg.dom/eventtarget) пока он обрабатывает событие, он не будет запущен текущими действиями. Прослушиватели событий никогда не могут быть вызваны после удаления. |
 
 ### Смотрите также
 

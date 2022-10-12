@@ -1,14 +1,14 @@
 ---
 title: PATHSEG_CURVETO_CUBIC_REL
 second_title: Справочник по Aspose.SVG для .NET API
-description: Соответствует команде данных пути относительная кубическая кривая Безье c.
+description: Соответствует относительной кубической кривой Безье к c команде данных пути.
 type: docs
 weight: 70
 url: /ru/net/aspose.svg.paths/svgpathseg/pathseg_curveto_cubic_rel/
 ---
 ## SVGPathSeg.PATHSEG_CURVETO_CUBIC_REL field
 
-Соответствует команде данных пути "относительная кубическая кривая Безье" (c).
+Соответствует "относительной кубической кривой Безье к" (c) команде данных пути.
 
 ```csharp
 public const ushort PATHSEG_CURVETO_CUBIC_REL;

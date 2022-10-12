@@ -18,15 +18,15 @@ public abstract class NodeList : DOMObject, IEnumerable<Node>
 
 | Имя | Описание |
 | --- | --- |
-| abstract [Item](../../aspose.svg.collections/nodelist/item) { get; } | Метод возвращает индексный элемент коллекции. Если индекс больше или равен количеству узлов в списке, возвращается значение null. |
+| abstract [Item](../../aspose.svg.collections/nodelist/item) { get; } | Метод возвращает индексный элемент в коллекции. Если индекс больше или равен количеству узлов в списке, возвращается null. |
 | abstract [Length](../../aspose.svg.collections/nodelist/length) { get; } | Количество узлов в списке. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| abstract [GetEnumerator](../../aspose.svg.collections/nodelist/getenumerator)() | Возвращает перечислитель, выполняющий итерацию по коллекции. |
-| override [GetPlatformType](../../aspose.svg.collections/nodelist/getplatformtype)() | Этот метод используется для получения объекта ECMAScriptType. |
+| abstract [GetEnumerator](../../aspose.svg.collections/nodelist/getenumerator)() | Возвращает перечислитель, который выполняет итерацию по коллекции. |
+| override [GetPlatformType](../../aspose.svg.collections/nodelist/getplatformtype)() | Этот метод используется для получения объекта ECMAScript.Type . |
 
 ### Смотрите также
 

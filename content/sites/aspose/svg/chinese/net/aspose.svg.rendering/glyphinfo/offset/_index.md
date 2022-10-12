@@ -1,14 +1,14 @@
 ---
 title: Offset
 second_title: Aspose.SVG for .NET API 参考
-description: 获取到下一个字形的偏移量以磅为单位
+description: 获取到下一个字形的偏移量
 type: docs
 weight: 20
 url: /zh/net/aspose.svg.rendering/glyphinfo/offset/
 ---
 ## GlyphInfo.Offset property
 
-获取到下一个字形的偏移量（以磅为单位）。
+获取到下一个字形的偏移量。
 
 ```csharp
 public float Offset { get; }
@@ -16,7 +16,7 @@ public float Offset { get; }
 
 ### 适当的价值
 
-以点为单位的偏移量。
+偏移量。
 
 ### 也可以看看
 

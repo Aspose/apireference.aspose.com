@@ -16,7 +16,7 @@ public SVGAnimatedNumber Seed { get; }
 
 ### 适当的价值
 
-给定 'feTurbulence' 元素的属性 'seed'。
+给定“feTurbulence”元素的属性“种子”。
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: Font
 second_title: Aspose.SVG for .NET API 参考
-description: 请参阅 CSS2 中的字体属性定义
+description: 参见CSS2中的字体属性定义
 type: docs
 weight: 470
 url: /zh/net/aspose.svg.dom.css/icss2properties/font/
 ---
 ## ICSS2Properties.Font property
 
-请参阅 CSS2 中的字体属性定义。
+参见CSS2中的字体属性定义。
 
 ```csharp
 public string Font { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: Page
 second_title: Aspose.SVG for .NET API 参考
-description: 初始化Pageaspose.svg.drawing/page类的新实例
+description: 初始化Pageaspose.svg.drawing/page类.
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.drawing/page/page/
 ---
 ## Page(Size, Margin) {#constructor_3}
 
-初始化[`Page`](../../page)类的新实例。
+初始化[`Page`](../../page)类.
 
 ```csharp
 public Page(Size size, Margin margin)
@@ -31,7 +31,7 @@ public Page(Size size, Margin margin)
 
 ## Page(Size) {#constructor_2}
 
-初始化[`Page`](../../page)类的新实例。
+初始化[`Page`](../../page)类.
 
 ```csharp
 public Page(Size size)
@@ -52,7 +52,7 @@ public Page(Size size)
 
 ## Page(Margin) {#constructor_1}
 
-初始化[`Page`](../../page)类的新实例。
+初始化[`Page`](../../page)类.
 
 ```csharp
 public Page(Margin margin)
@@ -73,7 +73,7 @@ public Page(Margin margin)
 
 ## Page() {#constructor}
 
-初始化[`Page`](../../page)类的新实例。
+初始化[`Page`](../../page)类.
 
 ```csharp
 public Page()

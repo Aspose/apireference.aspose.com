@@ -1,14 +1,14 @@
 ---
 title: SVGPathSegCurvetoCubicSmoothAbs
 second_title: Aspose.SVG for .NET API 参考
-description: SVGPathSegCurvetoCubicSmoothAbs 接口对应于绝对平滑三次曲线S 路径数据命令
+description: SVGPathSegCurvetoCubicSmoothAbs 接口对应一个绝对平滑三次曲线到S路径数据命令
 type: docs
-weight: 2510
+weight: 2520
 url: /zh/net/aspose.svg.paths/svgpathsegcurvetocubicsmoothabs/
 ---
 ## SVGPathSegCurvetoCubicSmoothAbs class
 
-SVGPathSegCurvetoCubicSmoothAbs 接口对应于“绝对平滑三次曲线”(S) 路径数据命令。
+SVGPathSegCurvetoCubicSmoothAbs 接口对应一个“绝对平滑三次曲线到”（S）路径数据命令。
 
 ```csharp
 public class SVGPathSegCurvetoCubicSmoothAbs : SVGPathSeg
@@ -22,15 +22,15 @@ public class SVGPathSegCurvetoCubicSmoothAbs : SVGPathSeg
 | [PathSegTypeAsLetter](../../aspose.svg.paths/svgpathseg/pathsegtypeasletter) { get; } | 路径段的类型，由对应的单字符命令名指定。 |
 | [X](../../aspose.svg.paths/svgpathsegcurvetocubicsmoothabs/x) { get; set; } | 该路径段终点的绝对 X 坐标。 |
 | [X2](../../aspose.svg.paths/svgpathsegcurvetocubicsmoothabs/x2) { get; set; } | 第二个控制点的绝对 X 坐标。 |
-| [Y](../../aspose.svg.paths/svgpathsegcurvetocubicsmoothabs/y) { get; set; } | 此路径段终点的绝对 Y 坐标。 |
+| [Y](../../aspose.svg.paths/svgpathsegcurvetocubicsmoothabs/y) { get; set; } | 该路径段终点的绝对 Y 坐标。 |
 | [Y2](../../aspose.svg.paths/svgpathsegcurvetocubicsmoothabs/y2) { get; set; } | 第二个控制点的绝对 Y 坐标。 |
 
 ## 方法
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose)() | 释放非托管和（可选）托管资源。 |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | 此方法用于检索 ECMAScript 对象Type。 |
+| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose)() | 释放非托管和 - 可选 - 托管资源。 |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | 此方法用于检索 ECMAScript 对象Type . |
 
 ### 也可以看看
 

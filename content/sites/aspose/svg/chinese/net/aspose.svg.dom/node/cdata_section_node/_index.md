@@ -1,14 +1,14 @@
 ---
 title: CDATA_SECTION_NODE
 second_title: Aspose.SVG for .NET API 参考
-description: cdata 节节点
+description: 一个 cdata 节 node
 type: docs
 weight: 330
 url: /zh/net/aspose.svg.dom/node/cdata_section_node/
 ---
 ## Node.CDATA_SECTION_NODE field
 
-cdata 节节点
+一个 cdata 节 node
 
 ```csharp
 public const ushort CDATA_SECTION_NODE;

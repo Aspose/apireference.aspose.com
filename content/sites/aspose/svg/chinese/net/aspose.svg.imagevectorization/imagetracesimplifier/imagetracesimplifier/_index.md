@@ -1,14 +1,14 @@
 ---
 title: ImageTraceSimplifier
 second_title: Aspose.SVG for .NET API 参考
-description: 初始化ImageTraceSimplifieraspose.svg.imagevectorization/imagetracesimplifier类的新实例
+description: 初始化ImageTraceSimplifieraspose.svg.imagevectorization/imagetracesimplifier类.
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.imagevectorization/imagetracesimplifier/imagetracesimplifier/
 ---
 ## ImageTraceSimplifier() {#constructor}
 
-初始化[`ImageTraceSimplifier`](../../imagetracesimplifier)类的新实例。
+初始化[`ImageTraceSimplifier`](../../imagetracesimplifier)类.
 
 ```csharp
 public ImageTraceSimplifier()
@@ -24,7 +24,7 @@ public ImageTraceSimplifier()
 
 ## ImageTraceSimplifier(float) {#constructor_1}
 
-初始化[`ImageTraceSimplifier`](../../imagetracesimplifier)类的新实例。
+初始化[`ImageTraceSimplifier`](../../imagetracesimplifier)类.
 
 ```csharp
 public ImageTraceSimplifier(float tolerance)
@@ -32,7 +32,7 @@ public ImageTraceSimplifier(float tolerance)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| tolerance | Single | 公差 |
+| tolerance | Single | 宽容 |
 
 ### 也可以看看
 

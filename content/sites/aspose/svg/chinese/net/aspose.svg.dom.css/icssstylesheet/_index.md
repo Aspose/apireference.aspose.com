@@ -3,7 +3,7 @@ title: ICSSStyleSheet
 second_title: Aspose.SVG for .NET API 参考
 description: CSSStyleSheet 接口是用于表示CSS 样式表的具体接口即内容类型为text/css的样式表
 type: docs
-weight: 670
+weight: 660
 url: /zh/net/aspose.svg.dom.css/icssstylesheet/
 ---
 ## ICSSStyleSheet interface
@@ -18,8 +18,8 @@ public interface ICSSStyleSheet : IStyleSheet
 
 | 姓名 | 描述 |
 | --- | --- |
-| [CSSRules](../../aspose.svg.dom.css/icssstylesheet/cssrules) { get; } | 样式表中包含的所有 CSS 规则的列表。这包括规则集和规则。 |
-| [OwnerRule](../../aspose.svg.dom.css/icssstylesheet/ownerrule) { get; } | 如果此样式表来自@import 规则，则 ownerRule 属性将包含 CSSImportRule。在这种情况下，StyleSheet 接口中的 ownerNode 属性将为空。如果样式表来自元素或处理指令，则 ownerRule 属性将为空，并且 ownerNode 属性将包含节点。 |
+| [CSSRules](../../aspose.svg.dom.css/icssstylesheet/cssrules) { get; } | 样式表中包含的所有 CSS 规则的列表。这包括规则集和 at-rules. |
+| [OwnerRule](../../aspose.svg.dom.css/icssstylesheet/ownerrule) { get; } | 如果此样式表来自@import 规则，则 ownerRule 属性将包含 CSSImportRule。在这种情况下，StyleSheet 接口中的 ownerNode 属性将为空。如果样式表来自元素或处理指令，则 ownerRule 属性将为空，并且 ownerNode 属性将包含 Node. |
 
 ## 方法
 

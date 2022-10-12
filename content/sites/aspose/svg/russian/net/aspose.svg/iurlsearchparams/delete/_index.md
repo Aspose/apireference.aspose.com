@@ -1,14 +1,14 @@
 ---
 title: Delete
 second_title: Справочник по Aspose.SVG для .NET API
-description: Удаляет все пары имя-значение с именем name .
+description: Удаляет все пары имязначение чье имяимя .
 type: docs
 weight: 20
 url: /ru/net/aspose.svg/iurlsearchparams/delete/
 ---
 ## IUrlSearchParams.Delete method
 
-Удаляет все пары "имя-значение" с именем` name` .
+Удаляет все пары имя-значение, чье имя`имя` .
 
 ```csharp
 public void Delete(string name)

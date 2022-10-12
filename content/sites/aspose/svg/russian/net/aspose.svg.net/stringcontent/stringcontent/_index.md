@@ -1,14 +1,14 @@
 ---
 title: StringContent
 second_title: Справочник по Aspose.SVG для .NET API
-description: Инициализирует новый экземпляр классаStringContentaspose.svg.net/stringcontent.
+description: Инициализирует новый экземплярStringContentaspose.svg.net/stringcontent класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.net/stringcontent/stringcontent/
 ---
 ## StringContent(string) {#constructor}
 
-Инициализирует новый экземпляр класса[`StringContent`](../../stringcontent).
+Инициализирует новый экземпляр[`StringContent`](../../stringcontent) класс.
 
 ```csharp
 public StringContent(string content)
@@ -16,7 +16,7 @@ public StringContent(string content)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| content | String | Содержание. |
+| content | String | Контент. |
 
 ### Смотрите также
 
@@ -28,7 +28,7 @@ public StringContent(string content)
 
 ## StringContent(string, Encoding) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`StringContent`](../../stringcontent).
+Инициализирует новый экземпляр[`StringContent`](../../stringcontent) класс.
 
 ```csharp
 public StringContent(string content, Encoding encoding)
@@ -36,7 +36,7 @@ public StringContent(string content, Encoding encoding)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| content | String | Содержание. |
+| content | String | Контент. |
 | encoding | Encoding | Кодировка. |
 
 ### Смотрите также
@@ -49,7 +49,7 @@ public StringContent(string content, Encoding encoding)
 
 ## StringContent(string, Encoding, string) {#constructor_2}
 
-Инициализирует новый экземпляр класса[`StringContent`](../../stringcontent).
+Инициализирует новый экземпляр[`StringContent`](../../stringcontent) класс.
 
 ```csharp
 public StringContent(string content, Encoding encoding, string mediaType)
@@ -57,7 +57,7 @@ public StringContent(string content, Encoding encoding, string mediaType)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| content | String | Содержание. |
+| content | String | Контент. |
 | encoding | Encoding | Кодировка. |
 | mediaType | String | Тип носителя. |
 

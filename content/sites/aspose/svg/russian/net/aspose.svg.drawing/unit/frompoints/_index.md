@@ -1,14 +1,14 @@
 ---
 title: FromPoints
 second_title: Справочник по Aspose.SVG для .NET API
-description: Возвращает объектLengthaspose.svg.drawing/length представленный в точках.
+description: ВозвращаетLengthaspose.svg.drawing/length объект представленный в точках.
 type: docs
 weight: 180
 url: /ru/net/aspose.svg.drawing/unit/frompoints/
 ---
 ## Unit.FromPoints method
 
-Возвращает объект[`Length`](../../length), представленный в точках.
+Возвращает[`Length`](../../length) объект, представленный в точках.
 
 ```csharp
 public static Length FromPoints(double value)
@@ -20,7 +20,7 @@ public static Length FromPoints(double value)
 
 ### Возвращаемое значение
 
-Возвращает объект[`Length`](../../length).
+Возвращает[`Length`](../../length) объект.
 
 ### Смотрите также
 

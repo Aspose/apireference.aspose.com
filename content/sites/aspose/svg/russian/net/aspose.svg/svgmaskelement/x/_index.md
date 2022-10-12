@@ -1,14 +1,14 @@
 ---
 title: X
 second_title: Справочник по Aspose.SVG для .NET API
-description: Соответствует атрибуту x данного элемента mask. Принимает одну из констант определенных в SVGUnitTypes.
+description: Соответствует атрибуту x данного элемента маска. Принимает одну из констант определенных в SVGUnitTypes.
 type: docs
 weight: 80
 url: /ru/net/aspose.svg/svgmaskelement/x/
 ---
 ## SVGMaskElement.X property
 
-Соответствует атрибуту 'x' данного элемента 'mask'. Принимает одну из констант, определенных в SVGUnitTypes.
+Соответствует атрибуту «x» данного элемента «маска». Принимает одну из констант, определенных в SVGUnitTypes.
 
 ```csharp
 public SVGAnimatedLength X { get; }
@@ -16,7 +16,7 @@ public SVGAnimatedLength X { get; }
 
 ### Стоимость имущества
 
-Атрибут 'x' данного элемента 'маски'.
+Атрибут «x» данного элемента «маска».
 
 ### Смотрите также
 

@@ -1,14 +1,14 @@
 ---
 title: GetEnumerator
 second_title: Справочник по Aspose.SVG для .NET API
-description: Возвращает перечислитель перебирающий элементыMutationObserverInitaspose.svg.dom.mutations/mutationobserverinit.
+description: Возвращает перечислитель который перебираетMutationObserverInitaspose.svg.dom.mutations/mutationobserverinit элементы.
 type: docs
 weight: 190
 url: /ru/net/aspose.svg.dom.mutations/mutationobserverinit/getenumerator/
 ---
 ## MutationObserverInit.GetEnumerator method
 
-Возвращает перечислитель, перебирающий элементы[`MutationObserverInit`](../../mutationobserverinit).
+Возвращает перечислитель, который перебирает[`MutationObserverInit`](../../mutationobserverinit) элементы.
 
 ```csharp
 public IEnumerator<KeyValuePair<string, object>> GetEnumerator()
@@ -16,7 +16,7 @@ public IEnumerator<KeyValuePair<string, object>> GetEnumerator()
 
 ### Возвращаемое значение
 
-ОбъектIEnumerator, который можно использовать для перебора Элементы[`MutationObserverInit`](../../mutationobserverinit).
+АнIEnumerator объект, который можно использовать для перебора[`MutationObserverInit`](../../mutationobserverinit) элементы.
 
 ### Смотрите также
 

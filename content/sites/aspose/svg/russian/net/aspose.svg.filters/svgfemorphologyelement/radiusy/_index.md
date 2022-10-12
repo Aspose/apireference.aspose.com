@@ -16,7 +16,7 @@ public SVGAnimatedNumber RadiusY { get; }
 
 ### Стоимость имущества
 
-Атрибут 'radius' данного элемента 'feMorphology'.
+Атрибут «радиус» данного элемента «feMorphology».
 
 ### Смотрите также
 

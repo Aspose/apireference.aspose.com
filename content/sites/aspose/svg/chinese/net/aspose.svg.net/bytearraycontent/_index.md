@@ -3,7 +3,7 @@ title: ByteArrayContent
 second_title: Aspose.SVG for .NET API 参考
 description: 表示基于字节数组的内容
 type: docs
-weight: 2180
+weight: 2190
 url: /zh/net/aspose.svg.net/bytearraycontent/
 ---
 ## ByteArrayContent class
@@ -18,7 +18,7 @@ public class ByteArrayContent : Content
 
 | 姓名 | 描述 |
 | --- | --- |
-| [ByteArrayContent](bytearraycontent)(byte[]) | 初始化[`ByteArrayContent`](../bytearraycontent)类的新实例。 |
+| [ByteArrayContent](bytearraycontent)(byte[]) | 初始化[`ByteArrayContent`](../bytearraycontent)类. |
 
 ## 特性
 
@@ -31,9 +31,9 @@ public class ByteArrayContent : Content
 | 姓名 | 描述 |
 | --- | --- |
 | [Dispose](../../aspose.svg.net/content/dispose)() | 执行与释放、释放或重置非托管资源相关的应用程序定义任务。 |
-| [ReadAsByteArray](../../aspose.svg.net/content/readasbytearray)() | 序列化 HTTP 内容并返回一个表示内容的字节数组。 |
+| [ReadAsByteArray](../../aspose.svg.net/content/readasbytearray)() | 序列化HTTP内容，返回代表内容的字节数组。 |
 | [ReadAsStream](../../aspose.svg.net/content/readasstream)() | 序列化 HTTP 内容并返回代表内容的流。 |
-| [ReadAsString](../../aspose.svg.net/content/readasstring)() | 序列化 HTTP 内容并返回一个表示内容的字符串。 |
+| [ReadAsString](../../aspose.svg.net/content/readasstring)() | 序列化HTTP内容并返回代表内容的字符串。 |
 
 ### 也可以看看
 

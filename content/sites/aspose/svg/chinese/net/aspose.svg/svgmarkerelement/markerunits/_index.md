@@ -16,7 +16,7 @@ public SVGAnimatedEnumeration MarkerUnits { get; }
 
 ### 适当的价值
 
-给定 'marker' 元素的属性 'markerUnits'。
+给定'marker'元素的属性'markerUnits'。
 
 ### 也可以看看
 

@@ -3,7 +3,7 @@ title: SVGSaveFormat
 second_title: Aspose.SVG for .NET API 参考
 description: 指定保存文档的格式
 type: docs
-weight: 3600
+weight: 3610
 url: /zh/net/aspose.svg.saving/svgsaveformat/
 ---
 ## SVGSaveFormat enumeration

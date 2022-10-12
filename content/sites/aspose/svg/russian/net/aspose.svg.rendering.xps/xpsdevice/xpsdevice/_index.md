@@ -1,14 +1,14 @@
 ---
 title: XpsDevice
 second_title: Справочник по Aspose.SVG для .NET API
-description: Инициализирует новый экземпляр классаXpsDeviceaspose.svg.rendering.xps/xpsdevice.
+description: Инициализирует новый экземплярXpsDeviceaspose.svg.rendering.xps/xpsdevice класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.rendering.xps/xpsdevice/xpsdevice/
 ---
 ## XpsDevice(ICreateStreamProvider) {#constructor}
 
-Инициализирует новый экземпляр класса[`XpsDevice`](../../xpsdevice).
+Инициализирует новый экземпляр[`XpsDevice`](../../xpsdevice) класс.
 
 ```csharp
 public XpsDevice(ICreateStreamProvider streamProvider)
@@ -16,7 +16,7 @@ public XpsDevice(ICreateStreamProvider streamProvider)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| streamProvider | ICreateStreamProvider | Поставщик потока. |
+| streamProvider | ICreateStreamProvider | Провайдер потока. |
 
 ### Смотрите также
 
@@ -29,7 +29,7 @@ public XpsDevice(ICreateStreamProvider streamProvider)
 
 ## XpsDevice(XpsRenderingOptions, ICreateStreamProvider) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`XpsDevice`](../../xpsdevice)с помощью параметров рендеринга и поставщика потоков.
+Инициализирует новый экземпляр[`XpsDevice`](../../xpsdevice) класс по параметрам рендеринга и потоковому провайдеру.
 
 ```csharp
 public XpsDevice(XpsRenderingOptions options, ICreateStreamProvider streamProvider)
@@ -37,8 +37,8 @@ public XpsDevice(XpsRenderingOptions options, ICreateStreamProvider streamProvid
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| options | XpsRenderingOptions | Параметры рендеринга. |
-| streamProvider | ICreateStreamProvider | Объект, реализующий интерфейс[`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider) |
+| options | XpsRenderingOptions | Варианты рендеринга. |
+| streamProvider | ICreateStreamProvider | Объект, реализующий[`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider) интерфейс |
 
 ### Смотрите также
 
@@ -52,7 +52,7 @@ public XpsDevice(XpsRenderingOptions options, ICreateStreamProvider streamProvid
 
 ## XpsDevice(string) {#constructor_5}
 
-Инициализирует новый экземпляр класса[`XpsDevice`](../../xpsdevice).
+Инициализирует новый экземпляр[`XpsDevice`](../../xpsdevice) класс.
 
 ```csharp
 public XpsDevice(string file)
@@ -72,7 +72,7 @@ public XpsDevice(string file)
 
 ## XpsDevice(XpsRenderingOptions, string) {#constructor_3}
 
-Инициализирует новый экземпляр класса[`XpsDevice`](../../xpsdevice)параметрами рендеринга и именем выходного файла.
+Инициализирует новый экземпляр[`XpsDevice`](../../xpsdevice) класс по параметрам рендеринга и имени выходного файла.
 
 ```csharp
 public XpsDevice(XpsRenderingOptions options, string file)
@@ -80,7 +80,7 @@ public XpsDevice(XpsRenderingOptions options, string file)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| options | XpsRenderingOptions | Параметры рендеринга. |
+| options | XpsRenderingOptions | Варианты рендеринга. |
 | file | String | Имя выходного файла. |
 
 ### Смотрите также
@@ -94,7 +94,7 @@ public XpsDevice(XpsRenderingOptions options, string file)
 
 ## XpsDevice(Stream) {#constructor_4}
 
-Инициализирует новый экземпляр класса[`XpsDevice`](../../xpsdevice).
+Инициализирует новый экземпляр[`XpsDevice`](../../xpsdevice) класс.
 
 ```csharp
 public XpsDevice(Stream stream)
@@ -114,7 +114,7 @@ public XpsDevice(Stream stream)
 
 ## XpsDevice(XpsRenderingOptions, Stream) {#constructor_2}
 
-Инициализирует новый экземпляр класса[`XpsDevice`](../../xpsdevice)с помощью параметров рендеринга и выходного потока.
+Инициализирует новый экземпляр[`XpsDevice`](../../xpsdevice) класс по параметрам рендеринга и выходному потоку.
 
 ```csharp
 public XpsDevice(XpsRenderingOptions options, Stream stream)
@@ -122,7 +122,7 @@ public XpsDevice(XpsRenderingOptions options, Stream stream)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| options | XpsRenderingOptions | Параметры рендеринга. |
+| options | XpsRenderingOptions | Варианты рендеринга. |
 | stream | Stream | Выходной поток. |
 
 ### Смотрите также

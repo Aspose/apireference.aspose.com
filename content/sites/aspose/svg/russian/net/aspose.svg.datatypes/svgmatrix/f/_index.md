@@ -1,14 +1,14 @@
 ---
 title: F
 second_title: Справочник по Aspose.SVG для .NET API
-description: F-компонента матрицы.
+description: Компонент F матрицы.
 type: docs
 weight: 60
 url: /ru/net/aspose.svg.datatypes/svgmatrix/f/
 ---
 ## SVGMatrix.F property
 
-F-компонента матрицы.
+Компонент F матрицы.
 
 ```csharp
 public float F { get; set; }
@@ -16,13 +16,13 @@ public float F { get; set; }
 
 ### Стоимость имущества
 
-F-компонента матрицы.
+Компонент F матрицы.
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception) | Код[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err). Возникает при попытке изменить значение атрибута только для чтения. |
+| [DOMException](../../../aspose.svg.dom/domexception) | код[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err) . Возникает при попытке изменить значение атрибута только для чтения. |
 
 ### Смотрите также
 

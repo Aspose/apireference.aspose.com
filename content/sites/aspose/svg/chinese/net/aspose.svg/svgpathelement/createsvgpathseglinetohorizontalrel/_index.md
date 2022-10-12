@@ -1,14 +1,14 @@
 ---
 title: CreateSVGPathSegLinetoHorizontalRel
 second_title: Aspose.SVG for .NET API 参考
-description: 返回一个独立的无父对象的 SVGPathSegLinetoHorizontalRel 对象
+description: 返回一个独立的无父 SVGPathSegLinetoHorizontalRel 对象
 type: docs
 weight: 160
 url: /zh/net/aspose.svg/svgpathelement/createsvgpathseglinetohorizontalrel/
 ---
 ## SVGPathElement.CreateSVGPathSegLinetoHorizontalRel method
 
-返回一个独立的、无父对象的 SVGPathSegLinetoHorizontalRel 对象。
+返回一个独立的无父 SVGPathSegLinetoHorizontalRel 对象。
 
 ```csharp
 public SVGPathSegLinetoHorizontalRel CreateSVGPathSegLinetoHorizontalRel(float x)

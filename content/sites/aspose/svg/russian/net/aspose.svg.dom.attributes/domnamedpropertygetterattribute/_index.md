@@ -3,7 +3,7 @@ title: DOMNamedPropertyGetterAttribute
 second_title: Справочник по Aspose.SVG для .NET API
 description: Указывает что метод будет использоваться как получатель именованного свойства.
 type: docs
-weight: 400
+weight: 390
 url: /ru/net/aspose.svg.dom.attributes/domnamedpropertygetterattribute/
 ---
 ## DOMNamedPropertyGetterAttribute class

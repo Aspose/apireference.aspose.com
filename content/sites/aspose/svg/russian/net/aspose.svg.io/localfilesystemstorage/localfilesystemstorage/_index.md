@@ -1,14 +1,14 @@
 ---
 title: LocalFileSystemStorage
 second_title: Справочник по Aspose.SVG для .NET API
-description: Инициализирует новый экземпляр классаLocalFileSystemStorageaspose.svg.io/localfilesystemstorage.
+description: Инициализирует новый экземплярLocalFileSystemStorageaspose.svg.io/localfilesystemstorage класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.io/localfilesystemstorage/localfilesystemstorage/
 ---
 ## LocalFileSystemStorage() {#constructor}
 
-Инициализирует новый экземпляр класса[`LocalFileSystemStorage`](../../localfilesystemstorage).
+Инициализирует новый экземпляр[`LocalFileSystemStorage`](../../localfilesystemstorage) класс.
 
 ```csharp
 public LocalFileSystemStorage()
@@ -24,7 +24,7 @@ public LocalFileSystemStorage()
 
 ## LocalFileSystemStorage(string) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`LocalFileSystemStorage`](../../localfilesystemstorage).
+Инициализирует новый экземпляр[`LocalFileSystemStorage`](../../localfilesystemstorage) класс.
 
 ```csharp
 public LocalFileSystemStorage(string outputDirectory)

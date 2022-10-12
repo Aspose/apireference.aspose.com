@@ -3,7 +3,7 @@ title: IAbstractView
 second_title: Aspose.SVG for .NET API 参考
 description: 所有视图都应从其派生的基本接口
 type: docs
-weight: 1300
+weight: 1290
 url: /zh/net/aspose.svg.dom.views/iabstractview/
 ---
 ## IAbstractView interface

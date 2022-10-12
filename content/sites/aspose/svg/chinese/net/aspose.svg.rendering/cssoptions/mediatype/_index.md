@@ -1,14 +1,14 @@
 ---
 title: MediaType
 second_title: Aspose.SVG for .NET API 参考
-description: 获取或设置MediaTypeaspose.svg.rendering/mediatype将用于渲染期间的媒体查询解析默认值为 打印 
+description: 获取或设置MediaTypeaspose.svg.rendering/mediatype这将用于渲染期间的媒体查询解析默认值为打印 .
 type: docs
 weight: 10
 url: /zh/net/aspose.svg.rendering/cssoptions/mediatype/
 ---
 ## CssOptions.MediaType property
 
-获取或设置[`MediaType`](../../mediatype)将用于渲染期间的媒体查询解析。默认值为` 打印` 。
+获取或设置[`MediaType`](../../mediatype)这将用于渲染期间的媒体查询解析。默认值为`打印` .
 
 ```csharp
 public MediaType MediaType { get; set; }

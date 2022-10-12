@@ -1,14 +1,14 @@
 ---
 title: PATHSEG_CLOSEPATH
 second_title: Aspose.SVG for .NET API 参考
-description: 对应于closepathz 路径数据命令
+description: 对应于closepathz路径数据命令
 type: docs
 weight: 50
 url: /zh/net/aspose.svg.paths/svgpathseg/pathseg_closepath/
 ---
 ## SVGPathSeg.PATHSEG_CLOSEPATH field
 
-对应于“closepath”(z) 路径数据命令。
+对应于“closepath”（z）路径数据命令。
 
 ```csharp
 public const ushort PATHSEG_CLOSEPATH;

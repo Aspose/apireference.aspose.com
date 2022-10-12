@@ -1,14 +1,14 @@
 ---
 title: ConvertToSpecifiedUnits
 second_title: Aspose.SVG for .NET API 参考
-description: 保留相同的底层存储值但将存储的单元标识符重置为给定的 unitType此方法可能会修改对象属性 unitTypevalueInSpecifiedUnits 和 valueAsString
+description: 保留相同的底层存储值但将存储的单元标识符重置为给定的 unitType对象属性 unitTypevalueInSpecifiedUnits 和 valueAsString 可能会因为此方法而被修改
 type: docs
 weight: 50
 url: /zh/net/aspose.svg.datatypes/svgangle/converttospecifiedunits/
 ---
 ## SVGAngle.ConvertToSpecifiedUnits method
 
-保留相同的底层存储值，但将存储的单元标识符重置为给定的 unitType。此方法可能会修改对象属性 unitType、valueInSpecifiedUnits 和 valueAsString。
+保留相同的底层存储值，但将存储的单元标识符重置为给定的 unitType。对象属性 unitType、valueInSpecifiedUnits 和 valueAsString 可能会因为此方法而被修改。
 
 ```csharp
 public void ConvertToSpecifiedUnits(ushort unitType)

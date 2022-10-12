@@ -1,14 +1,14 @@
 ---
 title: Result
 second_title: Aspose.SVG for .NET API 参考
-description: 对应于给定 filter 元素的属性 result
+description: 对应于给定过滤器元素上的属性结果
 type: docs
 weight: 60
 url: /zh/net/aspose.svg.filters/svgfemorphologyelement/result/
 ---
 ## SVGFEMorphologyElement.Result property
 
-对应于给定 'filter' 元素的属性 'result'。
+对应于给定“过滤器”元素上的属性“结果”。
 
 ```csharp
 public SVGAnimatedString Result { get; }

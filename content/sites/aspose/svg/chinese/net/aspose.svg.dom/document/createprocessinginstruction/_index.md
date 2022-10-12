@@ -21,7 +21,7 @@ public ProcessingInstruction CreateProcessingInstruction(string target, string d
 
 ### 返回值
 
-[`ProcessingInstruction`](../../processinginstruction)。
+的[`ProcessingInstruction`](../../processinginstruction) .
 
 ### 也可以看看
 

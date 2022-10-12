@@ -1,14 +1,14 @@
 ---
 title: DrawImage
 second_title: Aspose.SVG for .NET API 参考
-description: 绘制指定图像
+description: 绘制指定的图像
 type: docs
 weight: 100
 url: /zh/net/aspose.svg.rendering/idevice/drawimage/
 ---
 ## IDevice.DrawImage method
 
-绘制指定图像。
+绘制指定的图像。
 
 ```csharp
 public void DrawImage(byte[] data, ImageType type, RectangleF rect)

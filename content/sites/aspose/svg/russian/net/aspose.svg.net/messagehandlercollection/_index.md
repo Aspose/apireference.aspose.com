@@ -1,14 +1,14 @@
 ---
 title: MessageHandlerCollection
 second_title: Справочник по Aspose.SVG для .NET API
-description: Представляет коллекциюMessageHandler./messagehandler.
+description: Представляет коллекциюMessageHandler./messagehandler .
 type: docs
-weight: 2310
+weight: 2320
 url: /ru/net/aspose.svg.net/messagehandlercollection/
 ---
 ## MessageHandlerCollection class
 
-Представляет коллекцию[`MessageHandler`](../messagehandler).
+Представляет коллекцию[`MessageHandler`](../messagehandler) .
 
 ```csharp
 public class MessageHandlerCollection : Collection<MessageHandler>

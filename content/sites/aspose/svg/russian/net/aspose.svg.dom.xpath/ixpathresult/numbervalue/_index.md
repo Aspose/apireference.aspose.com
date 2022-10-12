@@ -18,7 +18,7 @@ public double NumberValue { get; }
 
 | исключение | условие |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception) | TYPE_ERR: возникает, если` resultType` не ` Номер` тип. |
+| [DOMException](../../../aspose.svg.dom/domexception) | TYPE_ERR: возникает, если`тип результата` не `Число` тип. |
 
 ### Смотрите также
 

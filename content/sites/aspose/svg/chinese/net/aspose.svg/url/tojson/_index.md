@@ -1,14 +1,14 @@
 ---
 title: ToJson
 second_title: Aspose.SVG for .NET API 参考
-description: 返回代表此实例的String
+description: 返回一个String代表这个实例
 type: docs
 weight: 160
 url: /zh/net/aspose.svg/url/tojson/
 ---
 ## Url.ToJson method
 
-返回代表此实例的String。
+返回一个String代表这个实例。
 
 ```csharp
 public string ToJson()
@@ -16,7 +16,7 @@ public string ToJson()
 
 ### 返回值
 
-String代表此实例。
+一个String代表这个实例。
 
 ### 也可以看看
 

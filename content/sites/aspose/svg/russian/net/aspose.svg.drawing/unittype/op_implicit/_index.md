@@ -1,14 +1,14 @@
 ---
 title: op_Implicit
 second_title: Справочник по Aspose.SVG для .NET API
-description: Выполняет неявное преобразование изStringвUnitTypeaspose.svg.drawing/unittype.
+description: Выполняет неявное преобразование изString кUnitTypeaspose.svg.drawing/unittype .
 type: docs
 weight: 360
 url: /ru/net/aspose.svg.drawing/unittype/op_implicit/
 ---
 ## UnitType Implicit operator
 
-Выполняет неявное преобразование изStringв[`UnitType`](../../unittype).
+Выполняет неявное преобразование изString к[`UnitType`](../../unittype) .
 
 ```csharp
 public static implicit operator UnitType(string value)

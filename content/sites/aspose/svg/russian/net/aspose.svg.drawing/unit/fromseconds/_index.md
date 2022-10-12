@@ -1,14 +1,14 @@
 ---
 title: FromSeconds
 second_title: Справочник по Aspose.SVG для .NET API
-description: Возвращает объектTimeaspose.svg.drawing/time который представлен в секундах.
+description: ВозвращаетTimeaspose.svg.drawing/time объект представленный в секундах.
 type: docs
 weight: 210
 url: /ru/net/aspose.svg.drawing/unit/fromseconds/
 ---
 ## Unit.FromSeconds method
 
-Возвращает объект[`Time`](../../time), который представлен в секундах.
+Возвращает[`Time`](../../time) объект, представленный в секундах.
 
 ```csharp
 public static Time FromSeconds(double value)
@@ -20,7 +20,7 @@ public static Time FromSeconds(double value)
 
 ### Возвращаемое значение
 
-Возвращает объект[`Time`](../../time).
+Возвращает[`Time`](../../time) объект.
 
 ### Смотрите также
 

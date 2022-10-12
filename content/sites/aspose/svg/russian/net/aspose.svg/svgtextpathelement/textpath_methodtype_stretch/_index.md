@@ -8,7 +8,7 @@ url: /ru/net/aspose.svg/svgtextpathelement/textpath_methodtype_stretch/
 ---
 ## SVGTextPathElement.TEXTPATH_METHODTYPE_STRETCH field
 
-Соответствует значению 'растянуть'.
+Соответствует значению «растянуть».
 
 ```csharp
 public const ushort TEXTPATH_METHODTYPE_STRETCH;

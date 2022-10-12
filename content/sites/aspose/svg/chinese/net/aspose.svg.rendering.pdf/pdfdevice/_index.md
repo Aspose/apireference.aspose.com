@@ -3,7 +3,7 @@ title: PdfDevice
 second_title: Aspose.SVG for .NET API 参考
 description: 表示渲染为 pdf 文档
 type: docs
-weight: 2890
+weight: 2900
 url: /zh/net/aspose.svg.rendering.pdf/pdfdevice/
 ---
 ## PdfDevice class
@@ -18,12 +18,12 @@ public class PdfDevice : Device<PdfGraphicContext, PdfRenderingOptions>
 
 | 姓名 | 描述 |
 | --- | --- |
-| [PdfDevice](pdfdevice#constructor)(ICreateStreamProvider) | 初始化[`PdfDevice`](../pdfdevice)类的新实例。 |
-| [PdfDevice](pdfdevice#constructor_4)(Stream) | 初始化[`PdfDevice`](../pdfdevice)类的新实例。 |
-| [PdfDevice](pdfdevice#constructor_5)(string) | 初始化[`PdfDevice`](../pdfdevice)类的新实例。 |
-| [PdfDevice](pdfdevice#constructor_1)(PdfRenderingOptions, ICreateStreamProvider) | 通过渲染选项和流提供程序初始化[`PdfDevice`](../pdfdevice)类的新实例。 |
-| [PdfDevice](pdfdevice#constructor_2)(PdfRenderingOptions, Stream) | 通过渲染选项和输出流初始化[`PdfDevice`](../pdfdevice)类的新实例。 |
-| [PdfDevice](pdfdevice#constructor_3)(PdfRenderingOptions, string) | 通过渲染选项和输出文件名初始化[`PdfDevice`](../pdfdevice)类的新实例。 |
+| [PdfDevice](pdfdevice#constructor)(ICreateStreamProvider) | 初始化[`PdfDevice`](../pdfdevice)类. |
+| [PdfDevice](pdfdevice#constructor_4)(Stream) | 初始化[`PdfDevice`](../pdfdevice)类. |
+| [PdfDevice](pdfdevice#constructor_5)(string) | 初始化[`PdfDevice`](../pdfdevice)类. |
+| [PdfDevice](pdfdevice#constructor_1)(PdfRenderingOptions, ICreateStreamProvider) | 初始化[`PdfDevice`](../pdfdevice)按渲染选项和流提供者分类。 |
+| [PdfDevice](pdfdevice#constructor_2)(PdfRenderingOptions, Stream) | 初始化[`PdfDevice`](../pdfdevice)按渲染选项和输出流分类。 |
+| [PdfDevice](pdfdevice#constructor_3)(PdfRenderingOptions, string) | 初始化[`PdfDevice`](../pdfdevice)通过渲染选项和输出文件名进行分类。 |
 
 ## 特性
 
@@ -37,26 +37,26 @@ public class PdfDevice : Device<PdfGraphicContext, PdfRenderingOptions>
 | 姓名 | 描述 |
 | --- | --- |
 | override [AddRect](../../aspose.svg.rendering.pdf/pdfdevice/addrect)(RectangleF) | 将一个矩形作为完整的子路径附加到当前路径。 |
-| override [BeginDocument](../../aspose.svg.rendering.pdf/pdfdevice/begindocument)(Document) | 开始呈现文档。 |
+| override [BeginDocument](../../aspose.svg.rendering.pdf/pdfdevice/begindocument)(Document) | 开始渲染文档。 |
 | override [BeginElement](../../aspose.svg.rendering.pdf/pdfdevice/beginelement)(Element, RectangleF) | 开始渲染元素。 |
 | override [BeginPage](../../aspose.svg.rendering.pdf/pdfdevice/beginpage)(SizeF) | 开始渲染新页面。 |
-| override [Clip](../../aspose.svg.rendering.pdf/pdfdevice/clip)(FillMode) | 通过与当前路径相交来修改当前剪切路径，使用 FillMode 规则确定要填充的区域。 这个方法终止当前路径。 |
-| override [ClosePath](../../aspose.svg.rendering.pdf/pdfdevice/closepath)() | 通过从当前点到子路径的起点附加一条直线段来关闭当前子路径。 如果当前子路径已经关闭，“ClosePath”什么也不做。 此运算符终止当前子路径。将另一个段附加到当前路径会开始一个新的子路径 ，即使新段开始于“ClosePath”方法到达的端点。 |
-| override [CubicBezierTo](../../aspose.svg.rendering.pdf/pdfdevice/cubicbezierto)(PointF, PointF, PointF) | 将三次贝塞尔曲线附加到当前路径。曲线从当前点延伸到点 pt2， 使用 pt1 和 pt2 作为 Bézier 控制点。新的当前点是pt3。 |
+| override [Clip](../../aspose.svg.rendering.pdf/pdfdevice/clip)(FillMode) | 通过与当前路径相交来修改当前剪切路径，使用 FillMode 规则来确定要填充的区域。 此方法终止当前路径。 |
+| override [ClosePath](../../aspose.svg.rendering.pdf/pdfdevice/closepath)() | 通过将一条直线段从当前点附加到子路径的起点来关闭当前子路径。 如果当前子路径已经关闭，“ClosePath”什么也不做。 这个操作符终止当前子路径。将另一个段附加到当前路径会开始一个新的子路径， ，即使新段开始于“ClosePath”方法到达的端点。 |
+| override [CubicBezierTo](../../aspose.svg.rendering.pdf/pdfdevice/cubicbezierto)(PointF, PointF, PointF) | 将三次贝塞尔曲线附加到当前路径。曲线从当前点延伸到点 pt2, ，使用 pt1 和 pt2 作为 Bézier 控制点。新的当前点是pt3. |
 | [Dispose](../../aspose.svg.rendering/device`2/dispose)() |  |
-| override [DrawImage](../../aspose.svg.rendering.pdf/pdfdevice/drawimage)(byte[], ImageType, RectangleF) | 绘制指定图像。 |
-| override [EndDocument](../../aspose.svg.rendering.pdf/pdfdevice/enddocument)() | 结束文档的呈现。 |
+| override [DrawImage](../../aspose.svg.rendering.pdf/pdfdevice/drawimage)(byte[], ImageType, RectangleF) | 绘制指定的图像。 |
+| override [EndDocument](../../aspose.svg.rendering.pdf/pdfdevice/enddocument)() | 结束文档的渲染。 |
 | override [EndElement](../../aspose.svg.rendering.pdf/pdfdevice/endelement)(Element) | 结束元素的渲染。 |
-| override [EndPage](../../aspose.svg.rendering.pdf/pdfdevice/endpage)() | 结束当前页面的呈现。 |
-| override [Fill](../../aspose.svg.rendering.pdf/pdfdevice/fill)(FillMode) | 填充当前路径包围的整个区域。 如果路径由多个断开的子路径组成，它会填充所有子路径的内部， 一起考虑。 这个方法终止当前路径。 |
+| override [EndPage](../../aspose.svg.rendering.pdf/pdfdevice/endpage)() | 结束当前页面的渲染。 |
+| override [Fill](../../aspose.svg.rendering.pdf/pdfdevice/fill)(FillMode) | 填充当前路径包围的整个区域。 如果路径由多个断开的子路径组成，它会填充所有子路径的内部， 一起考虑。 此方法终止当前路径。 |
 | override [FillText](../../aspose.svg.rendering.pdf/pdfdevice/filltext)(string, PointF) | 在指定位置填充指定文本字符串。 |
 | override [Flush](../../aspose.svg.rendering.pdf/pdfdevice/flush)() | 将所有数据刷新到输出流。 |
-| override [LineTo](../../aspose.svg.rendering.pdf/pdfdevice/lineto)(PointF) | 从当前点到点 (pt) 追加一条直线段。新的当前点是 pt。 |
-| override [MoveTo](../../aspose.svg.rendering.pdf/pdfdevice/moveto)(PointF) | 通过将当前点移动到参数 pt 的坐标开始新的子路径，省略任何连接线段。 如果当前路径中之前的路径构造方法也是“MoveTo”，则新的“MoveTo”覆盖； 路径中没有先前“MoveTo”操作的痕迹。 |
+| override [LineTo](../../aspose.svg.rendering.pdf/pdfdevice/lineto)(PointF) | 将一条直线段从当前点附加到点 (pt)。新的当前点是 pt. |
+| override [MoveTo](../../aspose.svg.rendering.pdf/pdfdevice/moveto)(PointF) | 通过将当前点移动到参数 pt 的坐标开始新的子路径，省略任何连接线段。 如果当前路径中之前的路径构造方法也是“MoveTo”，则新的“MoveTo”覆盖它； 路径中没有先前“MoveTo”操作的痕迹。 |
 | override [RestoreGraphicContext](../../aspose.svg.rendering.pdf/pdfdevice/restoregraphiccontext)() | 通过从堆栈中弹出它来将整个图形上下文恢复到以前的值。 |
 | override [SaveGraphicContext](../../aspose.svg.rendering.pdf/pdfdevice/savegraphiccontext)() | 将整个图形上下文的副本推入堆栈。 |
-| override [Stroke](../../aspose.svg.rendering.pdf/pdfdevice/stroke)() | 沿着当前路径画一条线。描边线跟随路径中的每个直线段或曲线段， 以该段为中心，两侧平行。每个路径的子路径都被单独处理。 这个方法终止当前路径。 |
-| override [StrokeAndFill](../../aspose.svg.rendering.pdf/pdfdevice/strokeandfill)(FillMode) | 描边并填充当前路径。 这个方法终止当前路径。 |
+| override [Stroke](../../aspose.svg.rendering.pdf/pdfdevice/stroke)() | 沿着当前路径画一条线。描边线跟随路径中的每个直线段或曲线段， 以该段为中心，两侧平行。每个路径的子路径都被单独处理。 此方法终止当前路径。 |
+| override [StrokeAndFill](../../aspose.svg.rendering.pdf/pdfdevice/strokeandfill)(FillMode) | 描边并填充当前路径。 此方法终止当前路径。 |
 | override [StrokeText](../../aspose.svg.rendering.pdf/pdfdevice/stroketext)(string, PointF) | 在指定位置描边指定文本字符串。 |
 
 ## 其他成员

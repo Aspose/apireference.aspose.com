@@ -1,7 +1,7 @@
 ---
 title: ContentType
 second_title: Aspose.SVG for .NET API 参考
-description: 获取 Content-Type 标头值
+description: 获取 ContentType 标头值
 type: docs
 weight: 20
 url: /zh/net/aspose.svg.net/contentheaders/contenttype/

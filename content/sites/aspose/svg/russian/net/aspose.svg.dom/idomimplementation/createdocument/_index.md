@@ -1,14 +1,14 @@
 ---
 title: CreateDocument
 second_title: Справочник по Aspose.SVG для .NET API
-description: Создает объект DOM Document указанного типа с его элементом документа.
+description: Создает объект документа DOM указанного типа с его элементом документа.
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.dom/idomimplementation/createdocument/
 ---
 ## IDOMImplementation.CreateDocument method
 
-Создает объект DOM Document указанного типа с его элементом документа.
+Создает объект документа DOM указанного типа с его элементом документа.
 
 ```csharp
 public Document CreateDocument(string namespaceURI, string qualifiedName, DocumentType doctype)

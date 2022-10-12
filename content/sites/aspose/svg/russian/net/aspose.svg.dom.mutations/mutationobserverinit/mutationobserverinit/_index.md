@@ -1,14 +1,14 @@
 ---
 title: MutationObserverInit
 second_title: Справочник по Aspose.SVG для .NET API
-description: Инициализирует новый экземпляр классаMutationObserverInitaspose.svg.dom.mutations/mutationobserverinit.
+description: Инициализирует новый экземплярMutationObserverInitaspose.svg.dom.mutations/mutationobserverinit класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.dom.mutations/mutationobserverinit/mutationobserverinit/
 ---
 ## MutationObserverInit constructor
 
-Инициализирует новый экземпляр класса[`MutationObserverInit`](../../mutationobserverinit).
+Инициализирует новый экземпляр[`MutationObserverInit`](../../mutationobserverinit) класс.
 
 ```csharp
 public MutationObserverInit()

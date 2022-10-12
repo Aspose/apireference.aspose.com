@@ -1,14 +1,14 @@
 ---
 title: FontStyle
 second_title: Aspose.SVG for .NET API 参考
-description: 请参阅 CSS2 中的字体样式属性定义
+description: 参见 CSS2 中的 fontstyle 属性定义
 type: docs
 weight: 520
 url: /zh/net/aspose.svg.dom.css/icss2properties/fontstyle/
 ---
 ## ICSS2Properties.FontStyle property
 
-请参阅 CSS2 中的字体样式属性定义。
+参见 CSS2 中的 font-style 属性定义。
 
 ```csharp
 public string FontStyle { get; set; }

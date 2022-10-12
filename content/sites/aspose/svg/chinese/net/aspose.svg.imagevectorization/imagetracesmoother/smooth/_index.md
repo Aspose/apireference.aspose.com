@@ -1,14 +1,14 @@
 ---
 title: Smooth
 second_title: Aspose.SVG for .NET API 参考
-description: 平滑跟踪
+description: 平滑轨迹
 type: docs
 weight: 30
 url: /zh/net/aspose.svg.imagevectorization/imagetracesmoother/smooth/
 ---
 ## ImageTraceSmoother.Smooth method
 
-平滑跟踪。
+平滑轨迹。
 
 ```csharp
 public virtual IEnumerable<PointF> Smooth(IEnumerable<PointF> trace)

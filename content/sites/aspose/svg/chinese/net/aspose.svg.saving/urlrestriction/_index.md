@@ -3,7 +3,7 @@ title: UrlRestriction
 second_title: Aspose.SVG for .NET API 参考
 description: 此枚举表示应用于已处理资源的 URL 的限制
 type: docs
-weight: 3630
+weight: 3640
 url: /zh/net/aspose.svg.saving/urlrestriction/
 ---
 ## UrlRestriction enumeration

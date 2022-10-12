@@ -16,7 +16,7 @@ public virtual void Add(Content content)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| content | Content | Добавляемый контент в[`MultipartContent`](../../multipartcontent) |
+| content | Content | Контент, который нужно добавить в[`MultipartContent`](../../multipartcontent) |
 
 ### Смотрите также
 

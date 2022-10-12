@@ -1,14 +1,14 @@
 ---
 title: Initialize
 second_title: Aspose.SVG for .NET API 参考
-description: 从列表中清除所有现有的当前项并重新初始化列表以保存由参数指定的单个项
+description: 从列表中清除所有现有的当前项目并重新初始化列表以保存参数指定的单个项目
 type: docs
 weight: 80
 url: /zh/net/aspose.svg.collections/svglistbase-1/initialize/
 ---
 ## SVGListBase&lt;T&gt;.Initialize method
 
-从列表中清除所有现有的当前项并重新初始化列表以保存由参数指定的单个项。
+从列表中清除所有现有的当前项目并重新初始化列表以保存参数指定的单个项目。
 
 ```csharp
 public T Initialize(T newItem)
@@ -26,7 +26,7 @@ public T Initialize(T newItem)
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception) | 代码[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err)。 无法修改列表时引发。 |
+| [DOMException](../../../aspose.svg.dom/domexception) | 代码[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err). 无法修改列表时引发。 |
 
 ### 也可以看看
 

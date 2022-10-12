@@ -16,8 +16,8 @@ public override long Seek(long offset, SeekOrigin origin)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| offset | Int64 | 相对于原始参数的字节偏移量。 |
-| origin | SeekOrigin | SeekOrigin类型的值指示用于获取 新位置的参考点。 |
+| offset | Int64 | 相对于 origin 参数的字节偏移量。 |
+| origin | SeekOrigin | 类型的值SeekOrigin指示用于获取 新位置的参考点。 |
 
 ### 返回值
 

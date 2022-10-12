@@ -1,14 +1,14 @@
 ---
 title: TextOptions
 second_title: Aspose.SVG for .NET API 参考
-description: 表示ImageDevice./imagedevice的文本渲染选项
+description: 表示文本呈现选项ImageDevice./imagedevice .
 type: docs
-weight: 2820
+weight: 2830
 url: /zh/net/aspose.svg.rendering.image/textoptions/
 ---
 ## TextOptions class
 
-表示[`ImageDevice`](../imagedevice)的文本渲染选项。
+表示文本呈现选项[`ImageDevice`](../imagedevice) .
 
 ```csharp
 public class TextOptions
@@ -18,7 +18,7 @@ public class TextOptions
 
 | 姓名 | 描述 |
 | --- | --- |
-| [TextRenderingHint](../../aspose.svg.rendering.image/textoptions/textrenderinghint) { get; set; } | 设置或获取影响文本渲染质量的TextRenderingHint。默认情况下，此属性为SystemDefault。 |
+| [TextRenderingHint](../../aspose.svg.rendering.image/textoptions/textrenderinghint) { get; set; } | 设置或获取TextRenderingHint这会影响文本渲染质量。默认情况下，此属性为SystemDefault . |
 
 ### 也可以看看
 

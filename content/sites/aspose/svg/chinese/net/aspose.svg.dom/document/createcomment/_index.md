@@ -20,7 +20,7 @@ public Comment CreateComment(string data)
 
 ### 返回值
 
-[`Comment`](../../comment)。
+的[`Comment`](../../comment) .
 
 ### 也可以看看
 

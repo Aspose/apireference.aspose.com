@@ -1,14 +1,14 @@
 ---
 title: FILTER_SKIP
 second_title: Справочник по Aspose.SVG для .NET API
-description: Пропустите этот единственный узел. Методы навигации определенные для NodeIterator или TreeWalker не будут возвращать этот узел. И для NodeIterator и для TreeWalker дочерние элементы этого узла по-прежнему будут учитываться .
+description: Пропустить этот единственный узел. Методы навигации определенные для NodeIterator или TreeWalker не будут возвращать этот узел. И для NodeIterator и для TreeWalker дочерние узлы этого узла попрежнему будут считаться .
 type: docs
 weight: 50
 url: /ru/net/aspose.svg.dom.traversal.filters/nodefilter/filter_skip/
 ---
 ## NodeFilter.FILTER_SKIP field
 
-Пропустите этот единственный узел. Методы навигации, определенные для NodeIterator или TreeWalker, не будут возвращать этот узел. И для NodeIterator, и для TreeWalker дочерние элементы этого узла по-прежнему будут учитываться .
+Пропустить этот единственный узел. Методы навигации, определенные для NodeIterator или TreeWalker, не будут возвращать этот узел. И для NodeIterator, и для TreeWalker дочерние узлы этого узла по-прежнему будут считаться .
 
 ```csharp
 public const short FILTER_SKIP;

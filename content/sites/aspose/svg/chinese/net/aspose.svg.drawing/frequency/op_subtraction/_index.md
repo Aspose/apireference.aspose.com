@@ -1,14 +1,14 @@
 ---
 title: op_Subtraction
 second_title: Aspose.SVG for .NET API 参考
-description: 实现运算符 -
+description: 实现运算符 .
 type: docs
 weight: 80
 url: /zh/net/aspose.svg.drawing/frequency/op_subtraction/
 ---
 ## Frequency Subtraction operator
 
-实现运算符 -。
+实现运算符 -.
 
 ```csharp
 public static Frequency operator -(Frequency a, Frequency b)
@@ -16,8 +16,8 @@ public static Frequency operator -(Frequency a, Frequency b)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| a | Frequency | 参数a。 |
-| b | Frequency | 参数 b。 |
+| a | Frequency | 参数 a。 |
+| b | Frequency | 参数 B. |
 
 ### 返回值
 
@@ -28,7 +28,7 @@ public static Frequency operator -(Frequency a, Frequency b)
 | 例外 | （健康）状况 |
 | --- | --- |
 | ArgumentNullException | 参数为空 |
-| ArgumentException | 参数有不同的类型 或 参数有不同的分辨率 或 |
+| ArgumentException | 参数有不同的类型 or 参数有不同的分辨率 or |
 
 ### 也可以看看
 

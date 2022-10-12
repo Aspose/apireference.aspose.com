@@ -1,14 +1,14 @@
 ---
 title: op_GreaterThan
 second_title: Aspose.SVG for .NET API 参考
-description: 实现运算符 gt
+description: 实现运算符 gt.
 type: docs
 weight: 30
 url: /zh/net/aspose.svg.drawing/angle/op_greaterthan/
 ---
 ## Angle GreaterThan operator
 
-实现运算符 &gt;。
+实现运算符 &gt;.
 
 ```csharp
 public static bool operator >(Angle a, Angle b)
@@ -16,8 +16,8 @@ public static bool operator >(Angle a, Angle b)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| a | Angle | 参数a。 |
-| b | Angle | 参数 b。 |
+| a | Angle | 参数 a。 |
+| b | Angle | 参数 B. |
 
 ### 返回值
 

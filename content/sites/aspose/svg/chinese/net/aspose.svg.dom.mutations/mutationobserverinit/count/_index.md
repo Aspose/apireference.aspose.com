@@ -1,14 +1,14 @@
 ---
 title: Count
 second_title: Aspose.SVG for .NET API 参考
-description: 获取MutationObserverInitaspose.svg.dom.mutations/mutationobserverinit集合中包含的键/值对的数量
+description: 获取包含在MutationObserverInitaspose.svg.dom.mutations/mutationobserverinit集合.
 type: docs
 weight: 80
 url: /zh/net/aspose.svg.dom.mutations/mutationobserverinit/count/
 ---
 ## MutationObserverInit.Count property
 
-获取[`MutationObserverInit`](../../mutationobserverinit)集合中包含的键/值对的数量。
+获取包含在[`MutationObserverInit`](../../mutationobserverinit)集合.
 
 ```csharp
 public int Count { get; }

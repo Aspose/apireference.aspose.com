@@ -1,14 +1,14 @@
 ---
 title: SVGPathSegArcRel
 second_title: Aspose.SVG for .NET API 参考
-description: SVGPathSegArcRel 接口对应于相对 arctoa 路径数据命令
+description: SVGPathSegArcRel接口对应一个相对arctoa路径数据命令
 type: docs
-weight: 2470
+weight: 2480
 url: /zh/net/aspose.svg.paths/svgpathsegarcrel/
 ---
 ## SVGPathSegArcRel class
 
-SVGPathSegArcRel 接口对应于“相对 arcto”(a) 路径数据命令。
+SVGPathSegArcRel接口对应一个“相对arcto”（a）路径数据命令。
 
 ```csharp
 public class SVGPathSegArcRel : SVGPathSeg
@@ -18,11 +18,11 @@ public class SVGPathSegArcRel : SVGPathSeg
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Angle](../../aspose.svg.paths/svgpathsegarcrel/angle) { get; set; } | 椭圆 x 轴相对于用户坐标系 x 轴的旋转角度，以度为单位。 |
-| [LargeArcFlag](../../aspose.svg.paths/svgpathsegarcrel/largearcflag) { get; set; } | large-arc-flag 参数的值。 |
+| [Angle](../../aspose.svg.paths/svgpathsegarcrel/angle) { get; set; } | 椭圆的 x 轴相对于用户坐标系的 x 轴的旋转角度（以度为单位）。 |
+| [LargeArcFlag](../../aspose.svg.paths/svgpathsegarcrel/largearcflag) { get; set; } | large-arc-flag参数的值。 |
 | [PathSegType](../../aspose.svg.paths/svgpathseg/pathsegtype) { get; } | 由在此接口上定义的常量之一指定的路径段的类型。 |
 | [PathSegTypeAsLetter](../../aspose.svg.paths/svgpathseg/pathsegtypeasletter) { get; } | 路径段的类型，由对应的单字符命令名指定。 |
-| [R1](../../aspose.svg.paths/svgpathsegarcrel/r1) { get; set; } | 椭圆的 x 轴半径（即 r1）。 |
+| [R1](../../aspose.svg.paths/svgpathsegarcrel/r1) { get; set; } | 椭圆的x轴半径（即r1）。 |
 | [R2](../../aspose.svg.paths/svgpathsegarcrel/r2) { get; set; } | 椭圆的 y 轴半径（即 r2）。 |
 | [SweepFlag](../../aspose.svg.paths/svgpathsegarcrel/sweepflag) { get; set; } | 扫描标志参数的值。 |
 | [X](../../aspose.svg.paths/svgpathsegarcrel/x) { get; set; } | 此路径段终点的相对 X 坐标。 |
@@ -32,8 +32,8 @@ public class SVGPathSegArcRel : SVGPathSeg
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose)() | 释放非托管和（可选）托管资源。 |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | 此方法用于检索 ECMAScript 对象Type。 |
+| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose)() | 释放非托管和 - 可选 - 托管资源。 |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | 此方法用于检索 ECMAScript 对象Type . |
 
 ### 也可以看看
 

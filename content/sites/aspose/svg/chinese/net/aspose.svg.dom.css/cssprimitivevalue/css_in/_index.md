@@ -1,14 +1,14 @@
 ---
 title: CSS_IN
 second_title: Aspose.SVG for .NET API 参考
-description: 该值为长度英寸可以使用 getFloatValue 方法获取该值
+description: 该值为长度英寸该值可以通过getFloatValue方法获取
 type: docs
 weight: 250
 url: /zh/net/aspose.svg.dom.css/cssprimitivevalue/css_in/
 ---
 ## CSSPrimitiveValue.CSS_IN field
 
-该值为长度（英寸）。可以使用 getFloatValue 方法获取该值。
+该值为长度（英寸）。该值可以通过getFloatValue方法获取。
 
 ```csharp
 public const ushort CSS_IN;

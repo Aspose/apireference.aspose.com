@@ -20,7 +20,7 @@ public SVGPoint GetPointAtLength(float distance)
 
 ### 返回值
 
-用户空间中返回的点。
+用户空间中的返回点。
 
 ### 也可以看看
 

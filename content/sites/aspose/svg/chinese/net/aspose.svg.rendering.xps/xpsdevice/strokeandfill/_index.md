@@ -1,14 +1,14 @@
 ---
 title: StrokeAndFill
 second_title: Aspose.SVG for .NET API 参考
-description: 描边并填充当前路径 这个方法终止当前路径
+description: 描边并填充当前路径 此方法终止当前路径
 type: docs
 weight: 190
 url: /zh/net/aspose.svg.rendering.xps/xpsdevice/strokeandfill/
 ---
 ## XpsDevice.StrokeAndFill method
 
-描边并填充当前路径。 这个方法终止当前路径。
+描边并填充当前路径。 此方法终止当前路径。
 
 ```csharp
 public override void StrokeAndFill(FillMode mode)

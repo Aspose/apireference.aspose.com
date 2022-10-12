@@ -1,14 +1,14 @@
 ---
 title: CreateSVGPathSegLinetoVerticalAbs
 second_title: Aspose.SVG for .NET API 参考
-description: 返回一个独立的无父对象的 SVGPathSegLinetoVerticalAbs 对象
+description: 返回一个独立的无父 SVGPathSegLinetoVerticalAbs 对象
 type: docs
 weight: 180
 url: /zh/net/aspose.svg/svgpathelement/createsvgpathseglinetoverticalabs/
 ---
 ## SVGPathElement.CreateSVGPathSegLinetoVerticalAbs method
 
-返回一个独立的、无父对象的 SVGPathSegLinetoVerticalAbs 对象。
+返回一个独立的无父 SVGPathSegLinetoVerticalAbs 对象。
 
 ```csharp
 public SVGPathSegLinetoVerticalAbs CreateSVGPathSegLinetoVerticalAbs(float y)
@@ -20,7 +20,7 @@ public SVGPathSegLinetoVerticalAbs CreateSVGPathSegLinetoVerticalAbs(float y)
 
 ### 返回值
 
-一个独立的、无父对象的 SVGPathSegLinetoVerticalAbs 对象。
+一个独立的无父 SVGPathSegLinetoVerticalAbs 对象。
 
 ### 也可以看看
 

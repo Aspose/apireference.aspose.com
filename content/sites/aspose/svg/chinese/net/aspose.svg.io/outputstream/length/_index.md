@@ -1,14 +1,14 @@
 ---
 title: Length
 second_title: Aspose.SVG for .NET API 参考
-description: 获取包装输出流的长度以字节为单位
+description: 获取包装输出流的字节长度
 type: docs
 weight: 50
 url: /zh/net/aspose.svg.io/outputstream/length/
 ---
 ## OutputStream.Length property
 
-获取包装输出流的长度（以字节为单位）。
+获取包装输出流的字节长度。
 
 ```csharp
 public override long Length { get; }

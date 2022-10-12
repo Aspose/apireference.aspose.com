@@ -8,7 +8,7 @@ url: /ru/net/aspose.svg.filters/svgfediffuselightingelement/in1/
 ---
 ## SVGFEDiffuseLightingElement.In1 property
 
-Соответствует атрибуту 'in' данного элемента 'feDiffuseLighting'.
+Соответствует атрибуту "in" данного элемента "feDiffuseLighting".
 
 ```csharp
 public SVGAnimatedString In1 { get; }
@@ -16,7 +16,7 @@ public SVGAnimatedString In1 { get; }
 
 ### Стоимость имущества
 
-Атрибут 'in' данного элемента 'feDiffuseLighting'.
+Атрибут "in" данного элемента "feDiffuseLighting".
 
 ### Смотрите также
 

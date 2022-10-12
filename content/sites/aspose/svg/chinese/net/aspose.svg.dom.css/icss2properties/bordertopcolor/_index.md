@@ -1,14 +1,14 @@
 ---
 title: BorderTopColor
 second_title: Aspose.SVG for .NET API 参考
-description: 请参见 CSS2 中的border-top-color 属性定义
+description: 参见 CSS2 中的bordertopcolor 属性定义
 type: docs
 weight: 260
 url: /zh/net/aspose.svg.dom.css/icss2properties/bordertopcolor/
 ---
 ## ICSS2Properties.BorderTopColor property
 
-请参见 CSS2 中的border-top-color 属性定义。
+参见 CSS2 中的border-top-color 属性定义。
 
 ```csharp
 public string BorderTopColor { get; set; }

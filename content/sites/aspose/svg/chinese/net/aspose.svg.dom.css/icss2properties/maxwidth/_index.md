@@ -1,14 +1,14 @@
 ---
 title: MaxWidth
 second_title: Aspose.SVG for .NET API 参考
-description: 请参阅 CSS2 中的 max-width 属性定义
+description: 参见 CSS2 中的 maxwidth 属性定义
 type: docs
 weight: 710
 url: /zh/net/aspose.svg.dom.css/icss2properties/maxwidth/
 ---
 ## ICSS2Properties.MaxWidth property
 
-请参阅 CSS2 中的 max-width 属性定义。
+参见 CSS2 中的 max-width 属性定义。
 
 ```csharp
 public string MaxWidth { get; set; }

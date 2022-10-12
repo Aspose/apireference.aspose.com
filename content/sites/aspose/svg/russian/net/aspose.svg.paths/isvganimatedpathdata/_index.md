@@ -3,7 +3,7 @@ title: ISVGAnimatedPathData
 second_title: Справочник по Aspose.SVG для .NET API
 description: Интерфейс SVGAnimatedPathData поддерживает элементы с атрибутом d который содержит данные пути SVG и поддерживает возможность анимации этого атрибута.
 type: docs
-weight: 2440
+weight: 2450
 url: /ru/net/aspose.svg.paths/isvganimatedpathdata/
 ---
 ## ISVGAnimatedPathData interface
@@ -19,7 +19,7 @@ public interface ISVGAnimatedPathData
 | Имя | Описание |
 | --- | --- |
 | [AnimatedPathSegList](../../aspose.svg.paths/isvganimatedpathdata/animatedpathseglist) { get; } | Предоставляет доступ к текущему анимированному содержимому атрибута 'd' в форме, которая полностью соответствует синтаксису SVG. Если данный атрибут или свойство анимируется, содержит текущее анимированное значение атрибута или свойства, а сам объект и его содержимое доступны только для чтения. Если данный атрибут или свойство в настоящее время не анимируются, содержит то же значение, что и pathSegList. |
-| [PathSegList](../../aspose.svg.paths/isvganimatedpathdata/pathseglist) { get; } | Предоставляет доступ к базовому (т.е. статическому) содержимому атрибута 'd' в форме, которая один к одному соответствует синтаксису SVG. Таким образом, если атрибут 'd' имеет команду "absolute moveto (M)" и "absolute arcto (A)", то pathSegList будет иметь две записи: SVG_PATHSEG_MOVETO_ABS и SVG_PATHSEG_ARC_ABS. |
+| [PathSegList](../../aspose.svg.paths/isvganimatedpathdata/pathseglist) { get; } | Предоставляет доступ к базовому (т.е. статическому) содержимому атрибута 'd' в форме, которая полностью соответствует синтаксису SVG. Таким образом, если в атрибуте 'd' указаны команды "absolute moveto (M)" и "absolute arcto (A)", то pathSegList будет иметь две записи: SVG_PATHSEG_MOVETO_ABS и SVG_PATHSEG_ARC_ABS. |
 
 ### Смотрите также
 

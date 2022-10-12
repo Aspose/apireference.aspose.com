@@ -21,7 +21,7 @@ public Element CreateElementNS(string namespaceURI, string qualifiedName)
 
 ### Возвращаемое значение
 
-[`Element`](../../element).
+[`Element`](../../element) .
 
 ### Смотрите также
 

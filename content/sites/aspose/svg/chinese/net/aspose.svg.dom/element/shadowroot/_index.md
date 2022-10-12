@@ -16,7 +16,7 @@ public ShadowRoot ShadowRoot { get; }
 
 ### 适当的价值
 
-shadowRoot。
+shadowRoot.
 
 ### 也可以看看
 

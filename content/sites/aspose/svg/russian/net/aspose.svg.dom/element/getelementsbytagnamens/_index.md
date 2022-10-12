@@ -1,7 +1,7 @@
 ---
 title: GetElementsByTagNameNS
 second_title: Справочник по Aspose.SVG для .NET API
-description: Возвращает NodeList всех элементов-потомков с заданным локальным именем и URI пространства имен в порядке документа.
+description: Возвращает NodeList всех элементовпотомков с заданным локальным именем и URI пространства имен в порядке документа.
 type: docs
 weight: 300
 url: /ru/net/aspose.svg.dom/element/getelementsbytagnamens/
@@ -17,11 +17,11 @@ public HTMLCollection GetElementsByTagNameNS(string namespaceURI, string localNa
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | namespaceURI | String | URI пространства имен. |
-| localName | String | Имя локального. |
+| localName | String | Имя местного. |
 
 ### Возвращаемое значение
 
-Возвращает элементы
+Возвращает elements
 
 ### Смотрите также
 

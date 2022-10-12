@@ -1,14 +1,14 @@
 ---
 title: XmlVersion
 second_title: Aspose.SVG for .NET API 参考
-description: 一个属性当它是一个外部解析实体时作为文本声明的一部分指定该实体的版本号否则为 null
+description: 一个属性作为文本声明的一部分当它是一个外部解析实体时它指定了这个实体的版本号否则为空
 type: docs
 weight: 80
 url: /zh/net/aspose.svg.dom/entity/xmlversion/
 ---
 ## Entity.XmlVersion property
 
-一个属性，当它是一个外部解析实体时，作为文本声明的一部分，指定该实体的版本号。否则为 null。
+一个属性，作为文本声明的一部分，当它是一个外部解析实体时，它指定了这个实体的版本号。否则为空。
 
 ```csharp
 public string XmlVersion { get; }

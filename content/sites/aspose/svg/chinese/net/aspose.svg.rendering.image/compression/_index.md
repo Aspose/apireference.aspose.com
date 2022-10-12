@@ -1,14 +1,14 @@
 ---
 title: Compression
 second_title: Aspose.SVG for .NET API 参考
-description: 为标记图像文件格式 TIFF 位图图像指定可能的压缩方案
+description: 指定标记图像文件格式 TIFF 位图图像的可能压缩方案
 type: docs
-weight: 2770
+weight: 2780
 url: /zh/net/aspose.svg.rendering.image/compression/
 ---
 ## Compression enumeration
 
-为标记图像文件格式 (TIFF) 位图图像指定可能的压缩方案。
+指定标记图像文件格式 (TIFF) 位图图像的可能压缩方案。
 
 ```csharp
 public enum Compression

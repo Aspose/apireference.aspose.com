@@ -1,14 +1,14 @@
 ---
 title: Keys
 second_title: Aspose.SVG for .NET API 参考
-description: 获取包含MutationObserverInitaspose.svg.dom.mutations/mutationobserverinit集合中的键的集合
+description: 获取包含MutationObserverInitaspose.svg.dom.mutations/mutationobserverinit集合.
 type: docs
 weight: 110
 url: /zh/net/aspose.svg.dom.mutations/mutationobserverinit/keys/
 ---
 ## MutationObserverInit.Keys property
 
-获取包含[`MutationObserverInit`](../../mutationobserverinit)集合中的键的集合。
+获取包含[`MutationObserverInit`](../../mutationobserverinit)集合.
 
 ```csharp
 public ICollection<string> Keys { get; }

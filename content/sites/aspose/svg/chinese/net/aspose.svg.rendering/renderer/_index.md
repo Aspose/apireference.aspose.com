@@ -1,14 +1,14 @@
 ---
 title: Renderer
 second_title: Aspose.SVG for .NET API 参考
-description: 表示所有渲染器的基类并实现 IDisposable 接口
+description: 表示所有渲染器和实现 IDisposable 接口的基类
 type: docs
-weight: 2930
+weight: 2940
 url: /zh/net/aspose.svg.rendering/renderer/
 ---
 ## Renderer class
 
-表示所有渲染器的基类并实现 IDisposable 接口。
+表示所有渲染器和实现 IDisposable 接口的基类。
 
 ```csharp
 public class Renderer : IDisposable
@@ -24,7 +24,7 @@ public class Renderer : IDisposable
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Dispose](../../aspose.svg.rendering/renderer/dispose)() | 释放非托管和（可选）托管资源。 |
+| [Dispose](../../aspose.svg.rendering/renderer/dispose)() | 释放非托管和 - 可选 - 托管资源。 |
 
 ### 也可以看看
 
