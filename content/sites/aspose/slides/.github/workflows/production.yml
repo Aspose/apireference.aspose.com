@@ -6,9 +6,9 @@ name: CopyChangesToProductionRepo
 on:
   # Triggers the workflow on push or pull request events but only for the main branch
   push:
-    branches: [ main ]
+    branches: [ production ]
   pull_request:
-    branches: [ main ]
+    branches: [ production ]
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -31,6 +31,6 @@ jobs:
         dst_owner: Aspose
         dst_repo_name: apireference.aspose.com
         dst_branch: production
-        src_branch: main
+        src_branch: production
         clean: true
 
