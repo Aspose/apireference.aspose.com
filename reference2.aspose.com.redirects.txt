@@ -104,11 +104,8 @@ rewrite words//java/com.aspose.words/table https://reference2.aspose.com/words/j
 rewrite words//java/com.aspose.words/run https://reference2.aspose.com/words/java/com.aspose.words/Run permanent;
 rewrite words//java/com.aspose.words/paragraph https://reference2.aspose.com/words/java/com.aspose.words/Paragraph permanent;
 rewrite words/java/com.aspose.words/paragraph https://reference2.aspose.com/words/java/com.aspose.words/Paragraph permanent;
-rewrite words//java/com.aspose.words/field https://reference2.aspose.com/words/java/com.aspose.words/Field permanent;
-rewrite words/java/com.aspose.words/field https://reference2.aspose.com/words/java/com.aspose.words/Field permanent;
 rewrite words//java/com.aspose.words/font https://reference2.aspose.com/words/java/com.aspose.words/Font permanent;
 rewrite words/java/com.aspose.words/font https://reference2.aspose.com/words/java/com.aspose.words/Font permanent;
-rewrite words//java/com.aspose.words/comment https://reference2.aspose.com/words/java/com.aspose.words/Comment permanent;
 rewrite words/java/com.aspose.words/comment https://reference2.aspose.com/words/java/com.aspose.words/Comment permanent;
 rewrite words//java/com.aspose.words/structureddocumenttag https://reference2.aspose.com/words/java/com.aspose.words/StructuredDocumentTag permanent;
 rewrite words/java/com.aspose.words/structureddocumenttag https://reference2.aspose.com/words/java/com.aspose.words/StructuredDocumentTag permanent;
