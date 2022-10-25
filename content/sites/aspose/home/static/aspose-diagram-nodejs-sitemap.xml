@@ -1,879 +1,879 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/AbstractInterruptMonitor</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/AbstractInterruptMonitor</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/Act</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/Act</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/ActCollection</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/ActCollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/ActiveXControl</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/ActiveXControl</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/ActiveXControlBase</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/ActiveXControlBase</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/Align</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/Align</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/Alignment</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/Alignment</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/Annotation</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/Annotation</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/global</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/global</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/AnnotationCollection</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/AnnotationCollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/ArcTo</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/ArcTo</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/ArcToCollection</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/ArcToCollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/ArrowSize</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/ArrowSize</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/AutoLinkComparison</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/AutoLinkComparison</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/AutoSpaceOptions</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/AutoSpaceOptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/Bevel</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/Bevel</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/BevelLightingType</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/BevelLightingType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/BevelMaterialType</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/BevelMaterialType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/BevelType</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/BevelType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/BoolValue</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/BoolValue</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/Bullet</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/Bullet</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/Calendar</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/Calendar</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/Case</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/Case</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/Char</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/Char</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/CharCollection</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/CharCollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/CheckBoxActiveXControl</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/CheckBoxActiveXControl</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/Collection</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/Collection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/ColorEntry</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/ColorEntry</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/ColorEntryCollection</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/ColorEntryCollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/ColorValue</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/ColorValue</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/ComboBoxActiveXControl</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/ComboBoxActiveXControl</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/CommandButtonActiveXControl</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/CommandButtonActiveXControl</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/CompoundType</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/CompoundType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/ConFixedCode</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/ConFixedCode</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/ConLineJumpCode</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/ConLineJumpCode</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/ConLineJumpDirX</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/ConLineJumpDirX</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/ConLineJumpDirY</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/ConLineJumpDirY</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/ConLineJumpStyle</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/ConLineJumpStyle</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/ConLineRouteExt</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/ConLineRouteExt</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/ConType</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/ConType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/Connect</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/Connect</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/ConnectCollection</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/ConnectCollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/Connection</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/Connection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/ConnectionABCD</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/ConnectionABCD</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/ConnectionABCDCollection</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/ConnectionABCDCollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/ConnectionCollection</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/ConnectionCollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/Control</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/Control</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/ControlCollection</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/ControlCollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/Coordinate</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/Coordinate</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/CoordinateCollection</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/CoordinateCollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/Cp</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/Cp</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/CustomProp</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/CustomProp</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/CustomPropCollection</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/CustomPropCollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/CustomValue</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/CustomValue</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/DataColumn</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/DataColumn</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/DataColumnCollection</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/DataColumnCollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/DataConnection</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/DataConnection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/DataConnectionCollection</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/DataConnectionCollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/DataRecordSet</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/DataRecordSet</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/DataRecordSetCollection</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/DataRecordSetCollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/DateValue</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/DateValue</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/Diagram</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/Diagram</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/DiagramException</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/DiagramException</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/DiagramSaveOptions</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/DiagramSaveOptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/DisplayMode</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/DisplayMode</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/DisplayModeSmartTagDef</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/DisplayModeSmartTagDef</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/DocProps</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/DocProps</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/DocumentProperties</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/DocumentProperties</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/DocumentSettings</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/DocumentSettings</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/DocumentSheet</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/DocumentSheet</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/DoubleValue</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/DoubleValue</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/DrawingResizeType</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/DrawingResizeType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/DrawingScaleType</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/DrawingScaleType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/DrawingSizeType</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/DrawingSizeType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/DynFeedback</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/DynFeedback</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/Ellipse</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/Ellipse</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/EllipseCollection</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/EllipseCollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/EllipticalArcTo</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/EllipticalArcTo</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/EllipticalArcToCollection</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/EllipticalArcToCollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/Event</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/Event</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/EventItem</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/EventItem</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/EventItemCollection</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/EventItemCollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/Field</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/Field</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/FieldCollection</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/FieldCollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/FileFontSource</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/FileFontSource</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/FileFormatInfo</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/FileFormatInfo</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/FileFormatUtil</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/FileFormatUtil</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/Fill</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/Fill</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/Fld</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/Fld</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/FloatPointNumCollection</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/FloatPointNumCollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/FolderFontSource</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/FolderFontSource</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/Font</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/Font</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/FontCollection</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/FontCollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/FontConfigs</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/FontConfigs</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/FontSourceBase</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/FontSourceBase</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/Foreign</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/Foreign</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/ForeignData</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/ForeignData</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/FormatTxt</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/FormatTxt</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/FormatTxtCollection</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/FormatTxtCollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/Geom</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/Geom</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/GeomCollection</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/GeomCollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/GlowEffect</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/GlowEffect</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/GlueType</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/GlueType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/GradientFill</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/GradientFill</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/GradientStop</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/GradientStop</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/GridDensity</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/GridDensity</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/GradientStopCollection</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/GradientStopCollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/Group</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/Group</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/HTMLSaveOptions</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/HTMLSaveOptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/HeaderFooter</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/HeaderFooter</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/HeaderFooterFont</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/HeaderFooterFont</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/Help</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/Help</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/HorzAlign</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/HorzAlign</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/Hyperlink</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/Hyperlink</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/HyperlinkCollection</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/HyperlinkCollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/Image</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/Image</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/ImageActiveXControl</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/ImageActiveXControl</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/ImageSaveOptions</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/ImageSaveOptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/IndividualFontConfigs</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/IndividualFontConfigs</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/InfiniteLine</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/InfiniteLine</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/InfiniteLineCollection</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/InfiniteLineCollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/IntValue</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/IntValue</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/InterruptMonitor</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/InterruptMonitor</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/Issue</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/Issue</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/IssueCollection</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/IssueCollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/IssueTarget</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/IssueTarget</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/LabelActiveXControl</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/LabelActiveXControl</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/Layer</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/Layer</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/LayerCollection</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/LayerCollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/LayerMem</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/LayerMem</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/Layout</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/Layout</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/LayoutOptions</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/LayoutOptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/License</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/License</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/Line</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/Line</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/LineAdjustFrom</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/LineAdjustFrom</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/LineAdjustTo</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/LineAdjustTo</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/LineJumpCode</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/LineJumpCode</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/LineJumpStyle</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/LineJumpStyle</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/LineRouteExt</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/LineRouteExt</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/LineTo</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/LineTo</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/LineToCollection</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/LineToCollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/ListBoxActiveXControl</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/ListBoxActiveXControl</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/LoadOptions</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/LoadOptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/LocalizeFont</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/LocalizeFont</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/Margin</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/Margin</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/Master</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/Master</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/MasterCollection</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/MasterCollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/MasterShortcut</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/MasterShortcut</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/MasterShortcutCollection</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/MasterShortcutCollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/MemoryFontSource</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/MemoryFontSource</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/Metered</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/Metered</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/MilestoneHelper</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/MilestoneHelper</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/Misc</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/Misc</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/MoveTo</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/MoveTo</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/MoveToCollection</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/MoveToCollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/NURBSTo</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/NURBSTo</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/NURBSToCollection</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/NURBSToCollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/ObjType</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/ObjType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/ObjectKind</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/ObjectKind</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/OutputFormat</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/OutputFormat</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/Page</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/Page</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/PageCollection</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/PageCollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/PageEndSavingArgs</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/PageEndSavingArgs</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/PageLayout</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/PageLayout</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/PageLineJumpDirX</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/PageLineJumpDirX</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/PageLineJumpDirY</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/PageLineJumpDirY</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/PageProps</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/PageProps</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/PageSavingArgs</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/PageSavingArgs</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/PageSheet</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/PageSheet</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/PageSize</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/PageSize</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/PageStartSavingArgs</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/PageStartSavingArgs</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/Para</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/Para</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/ParaCollection</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/ParaCollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/PdfDigitalSignatureDetails</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/PdfDigitalSignatureDetails</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/PdfEncryptionDetails</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/PdfEncryptionDetails</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/PdfSaveOptions</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/PdfSaveOptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/PlaceDepth</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/PlaceDepth</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/PlaceFlip</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/PlaceFlip</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/PlaceStyle</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/PlaceStyle</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/PolylineTo</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/PolylineTo</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/PolylineToCollection</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/PolylineToCollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/Pos</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/Pos</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/Pp</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/Pp</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/PreviewScope</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/PreviewScope</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/PrintPageOrientation</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/PrintPageOrientation</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/PrintProps</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/PrintProps</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/PrintSaveOptions</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/PrintSaveOptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/Prop</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/Prop</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/PropCollection</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/PropCollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/Protection</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/Protection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/RadioButtonActiveXControl</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/RadioButtonActiveXControl</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/RelCubBezTo</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/RelCubBezTo</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/RelCubBezToCollection</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/RelCubBezToCollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/RelEllipticalArcTo</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/RelEllipticalArcTo</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/RelEllipticalArcToCollection</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/RelEllipticalArcToCollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/RelLineTo</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/RelLineTo</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/RelLineToCollection</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/RelLineToCollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/RelMoveTo</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/RelMoveTo</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/RelMoveToCollection</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/RelMoveToCollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/RelQuadBezTo</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/RelQuadBezTo</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/RelQuadBezToCollection</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/RelQuadBezToCollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/RenderingSaveOptions</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/RenderingSaveOptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/ResizeMode</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/ResizeMode</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/Reviewer</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/Reviewer</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/ReviewerCollection</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/ReviewerCollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/RotationType</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/RotationType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/RouteStyle</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/RouteStyle</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/Row</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/Row</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/RowCollection</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/RowCollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/Rule</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/Rule</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/RuleCollection</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/RuleCollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/RuleInfo</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/RuleInfo</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/RuleSet</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/RuleSet</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/RuleSetCollection</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/RuleSetCollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/RuleValue</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/RuleValue</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/RulerDensity</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/RulerDensity</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/RulerGrid</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/RulerGrid</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/SVGSaveOptions</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/SVGSaveOptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/SaveOptions</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/SaveOptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/Scratch</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/Scratch</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/ScratchCollection</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/ScratchCollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/ScrollBarActiveXControl</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/ScrollBarActiveXControl</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/SelectMode</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/SelectMode</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/Shape</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/Shape</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/ShapeCollection</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/ShapeCollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/ShapeFixedCode</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/ShapeFixedCode</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/ShapePlaceFlip</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/ShapePlaceFlip</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/ShapePlaceStyle</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/ShapePlaceStyle</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/ShapePlowCode</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/ShapePlowCode</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/ShapeRouteStyle</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/ShapeRouteStyle</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/ShapeShdwShow</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/ShapeShdwShow</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/ShapeShdwType</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/ShapeShdwType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/ShdwType</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/ShdwType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/SmartTagDef</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/SmartTagDef</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/SmartTagDefCollection</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/SmartTagDefCollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/SolutionXML</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/SolutionXML</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/SolutionXMLCollection</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/SolutionXMLCollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/SpinButtonActiveXControl</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/SpinButtonActiveXControl</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/SplineKnot</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/SplineKnot</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/SplineKnotCollection</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/SplineKnotCollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/SplineStart</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/SplineStart</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/SplineStartCollection</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/SplineStartCollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/Str2Value</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/Str2Value</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/StrValue</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/StrValue</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/Style</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/Style</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/StyleProp</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/StyleProp</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/StyleSheet</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/StyleSheet</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/StyleSheetCollection</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/StyleSheetCollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/Tab</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/Tab</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/TabCollection</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/TabCollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/TabsCollection</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/TabsCollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/Text</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/Text</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/TextBlock</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/TextBlock</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/TextBoxActiveXControl</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/TextBoxActiveXControl</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/TextCollection</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/TextCollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/TextDirection</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/TextDirection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/TextXForm</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/TextXForm</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/ThreeDFormat</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/ThreeDFormat</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/TimeLineHelper</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/TimeLineHelper</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/ToggleButtonActiveXControl</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/ToggleButtonActiveXControl</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/Tp</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/Tp</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/Txt</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/Txt</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/TypeConnection</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/TypeConnection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/TypeField</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/TypeField</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/TypeProp</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/TypeProp</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/UIVisibility</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/UIVisibility</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/UnitFormulaErr</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/UnitFormulaErr</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/UnitFormulaErrV</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/UnitFormulaErrV</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/UnknownControl</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/UnknownControl</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/User</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/User</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/UserCollection</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/UserCollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/Validation</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/Validation</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/ValidationProperties</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/ValidationProperties</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/Value</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/Value</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/VbaModule</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/VbaModule</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/VbaModuleCollection</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/VbaModuleCollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/VbaProject</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/VbaProject</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/VbaProjectReference</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/VbaProjectReference</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/VbaProjectReferenceCollection</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/VbaProjectReferenceCollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/VerticalAlign</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/VerticalAlign</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/WalkPreference</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/WalkPreference</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/WarningInfo</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/WarningInfo</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/Window</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/Window</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/WindowCollection</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/WindowCollection</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/XAMLSaveOptions</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/XAMLSaveOptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/XForm</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/XForm</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/XForm1D</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/XForm1D</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/XJustify</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/XJustify</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/XPSSaveOptions</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/XPSSaveOptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/YJustify</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/YJustify</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/diagram/nodejs/aspose.diagram.doc-js</loc>
+    <loc>https://reference.aspose.com/diagram/nodejs/aspose.diagram.doc-js</loc>
   </url>
 </urlset>

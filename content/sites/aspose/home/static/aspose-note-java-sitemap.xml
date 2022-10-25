@@ -1,1134 +1,1134 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://apireference.aspose.com/note/java</loc>
+    <loc>https://reference.aspose.com/note/java</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/allclasses-frame</loc>
+    <loc>https://reference.aspose.com/note/java/allclasses-frame</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/package-frame</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/package-frame</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note.fonts/package-frame</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note.fonts/package-frame</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/AlwaysSplitObjectsAlgorithm</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/AlwaysSplitObjectsAlgorithm</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/AttachedFile</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/AttachedFile</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/CheckBox</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/CheckBox</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/CompositeNode</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/CompositeNode</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/CompositeNodeBase</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/CompositeNodeBase</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/DisplayUnitsConverter</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/DisplayUnitsConverter</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/CssSavingArgs</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/CssSavingArgs</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/Document</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/Document</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note.fonts/DocumentFontsSubsystem</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note.fonts/DocumentFontsSubsystem</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/DocumentPrintAttributeSet</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/DocumentPrintAttributeSet</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/DocumentVisitor</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/DocumentVisitor</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/ExtendedApsDocument</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/ExtendedApsDocument</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/ExtendedApsGlyphs</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/ExtendedApsGlyphs</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/ExtendedApsImage</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/ExtendedApsImage</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/ExtendedApsNode</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/ExtendedApsNode</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/ExtendedApsPage</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/ExtendedApsPage</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/FileFormat</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/FileFormat</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/ExtendedApsPath</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/ExtendedApsPath</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/ExtendedCompositeNode</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/ExtendedCompositeNode</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/FontSavingArgs</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/FontSavingArgs</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note.fonts/FontsSubsystem</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note.fonts/FontsSubsystem</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/ICompositeNode</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/ICompositeNode</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/ICompositeNodeT</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/ICompositeNodeT</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/ICssSavingCallback</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/ICssSavingCallback</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/IFontSavingCallback</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/IFontSavingCallback</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note.fonts/IFontsSubsystem</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note.fonts/IFontsSubsystem</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/IImageSavingCallback</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/IImageSavingCallback</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/ImageSavingArgs</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/ImageSavingArgs</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/Image</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/Image</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/INode</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/INode</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/INotebookChildNode</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/INotebookChildNode</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/IOutlineChildNode</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/IOutlineChildNode</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/INoteTag</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/INoteTag</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/IPageChildNode</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/IPageChildNode</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/IPageSavingCallback</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/IPageSavingCallback</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/IOutlineElementChildNode</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/IOutlineElementChildNode</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/ITaggable</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/ITaggable</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/ITag</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/ITag</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/KeepPartAndCloneSolidObjectToNextPageAlgorithm</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/KeepPartAndCloneSolidObjectToNextPageAlgorithm</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/LoadOptions</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/LoadOptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/LocaleOptions</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/LocaleOptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/KeepSolidObjectsAlgorithm</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/KeepSolidObjectsAlgorithm</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/Metered</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/Metered</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/Node</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/Node</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/Margins</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/Margins</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/Notebook</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/Notebook</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/NodeType</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/NodeType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/NotebookLoadOptions</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/NotebookLoadOptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/NoteCheckBox</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/NoteCheckBox</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/NoteTask</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/NoteTask</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/NumberFormat</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/NumberFormat</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/NoteTag</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/NoteTag</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/NumberList</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/NumberList</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/OutlineElement</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/OutlineElement</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/Outline</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/Outline</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/OutlineGroup</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/OutlineGroup</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/Page</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/Page</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/PageHistory</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/PageHistory</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/PageSavingArgs</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/PageSavingArgs</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/PageSizeType</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/PageSizeType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/PageSplittingAlgorithm</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/PageSplittingAlgorithm</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/ParagraphStyle</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/ParagraphStyle</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/PdfImageCompression</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/PdfImageCompression</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/ResourceExportType</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/ResourceExportType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/ResourceSavingArgs</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/ResourceSavingArgs</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/RevisionSummary</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/RevisionSummary</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/RichText</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/RichText</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/SaveFormat</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/SaveFormat</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/SaveFormatConverter</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/SaveFormatConverter</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/Style</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/Style</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/TableCell</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/TableCell</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/Table</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/Table</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/TableRow</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/TableRow</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/TextStyle</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/TextStyle</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/TableColumn</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/TableColumn</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/TagStatus</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/TagStatus</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/TaskType</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/TaskType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/TiffCompression</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/TiffCompression</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/Title</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/Title</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/overview-summary</loc>
+    <loc>https://reference.aspose.com/note/java/overview-summary</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/deprecated-list</loc>
+    <loc>https://reference.aspose.com/note/java/deprecated-list</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/package-summary</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/package-summary</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note.fonts/package-summary</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note.fonts/package-summary</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note.fonts/package-use</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note.fonts/package-use</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/package-use</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/package-use</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/alwayssplitobjectsalgorithm</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/alwayssplitobjectsalgorithm</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/attachedfile</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/attachedfile</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/class-use/AlwaysSplitObjectsAlgorithm</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/class-use/AlwaysSplitObjectsAlgorithm</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/class-use/AttachedFile</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/class-use/AttachedFile</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/checkbox</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/checkbox</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/class-use/CheckBox</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/class-use/CheckBox</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/compositenodebase</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/compositenodebase</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/class-use/CompositeNode</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/class-use/CompositeNode</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/compositenode</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/compositenode</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/class-use/DisplayUnitsConverter</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/class-use/DisplayUnitsConverter</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/class-use/CompositeNodeBase</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/class-use/CompositeNodeBase</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/displayunitsconverter</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/displayunitsconverter</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/csssavingargs</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/csssavingargs</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/class-use/CssSavingArgs</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/class-use/CssSavingArgs</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/class-use/Document</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/class-use/Document</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/document</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/document</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/documentprintattributeset</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/documentprintattributeset</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note.fonts/documentfontssubsystem</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note.fonts/documentfontssubsystem</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note.fonts/class-use/DocumentFontsSubsystem</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note.fonts/class-use/DocumentFontsSubsystem</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/class-use/DocumentPrintAttributeSet</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/class-use/DocumentPrintAttributeSet</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/serialized-form</loc>
+    <loc>https://reference.aspose.com/note/java/serialized-form</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/documentvisitor</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/documentvisitor</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/class-use/DocumentVisitor</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/class-use/DocumentVisitor</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/class-use/ExtendedApsDocument</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/class-use/ExtendedApsDocument</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/extendedapsdocument</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/extendedapsdocument</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/extendedapsglyphs</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/extendedapsglyphs</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/class-use/ExtendedApsGlyphs</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/class-use/ExtendedApsGlyphs</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/extendedapsimage</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/extendedapsimage</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/class-use/ExtendedApsImage</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/class-use/ExtendedApsImage</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/extendedapsnode</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/extendedapsnode</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/class-use/ExtendedApsNode</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/class-use/ExtendedApsNode</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/class-use/ExtendedApsPage</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/class-use/ExtendedApsPage</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/extendedapspage</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/extendedapspage</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/fileformat</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/fileformat</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/class-use/FileFormat</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/class-use/FileFormat</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/class-use/ExtendedApsPath</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/class-use/ExtendedApsPath</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/extendedapspath</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/extendedapspath</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/constant-values</loc>
+    <loc>https://reference.aspose.com/note/java/constant-values</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/class-use/ExtendedCompositeNode</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/class-use/ExtendedCompositeNode</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/extendedcompositenode</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/extendedcompositenode</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/fontsavingargs</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/fontsavingargs</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/class-use/FontSavingArgs</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/class-use/FontSavingArgs</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note.fonts/class-use/FontsSubsystem</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note.fonts/class-use/FontsSubsystem</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note.fonts/fontssubsystem</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note.fonts/fontssubsystem</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/icompositenode</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/icompositenode</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/class-use/ICompositeNode</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/class-use/ICompositeNode</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/icompositenodet</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/icompositenodet</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/class-use/ICompositeNodeT</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/class-use/ICompositeNodeT</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/class-use/ICssSavingCallback</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/class-use/ICssSavingCallback</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/icsssavingcallback</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/icsssavingcallback</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/ifontsavingcallback</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/ifontsavingcallback</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note.fonts/class-use/IFontsSubsystem</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note.fonts/class-use/IFontsSubsystem</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/class-use/IFontSavingCallback</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/class-use/IFontSavingCallback</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note.fonts/ifontssubsystem</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note.fonts/ifontssubsystem</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/class-use/IImageSavingCallback</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/class-use/IImageSavingCallback</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/iimagesavingcallback</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/iimagesavingcallback</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/imagesavingargs</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/imagesavingargs</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/class-use/ImageSavingArgs</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/class-use/ImageSavingArgs</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/class-use/Image</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/class-use/Image</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/image</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/image</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/inode</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/inode</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/class-use/INode</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/class-use/INode</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/class-use/INotebookChildNode</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/class-use/INotebookChildNode</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/inotebookchildnode</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/inotebookchildnode</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/class-use/IOutlineChildNode</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/class-use/IOutlineChildNode</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/inotetag</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/inotetag</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/ioutlinechildnode</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/ioutlinechildnode</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/ipagechildnode</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/ipagechildnode</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/class-use/INoteTag</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/class-use/INoteTag</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/ipagesavingcallback</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/ipagesavingcallback</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/class-use/IPageChildNode</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/class-use/IPageChildNode</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/ioutlineelementchildnode</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/ioutlineelementchildnode</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/class-use/IPageSavingCallback</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/class-use/IPageSavingCallback</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/itaggable</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/itaggable</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/class-use/IOutlineElementChildNode</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/class-use/IOutlineElementChildNode</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/class-use/ITaggable</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/class-use/ITaggable</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/itag</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/itag</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/keeppartandclonesolidobjecttonextpagealgorithm</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/keeppartandclonesolidobjecttonextpagealgorithm</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/class-use/ITag</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/class-use/ITag</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/class-use/KeepPartAndCloneSolidObjectToNextPageAlgorithm</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/class-use/KeepPartAndCloneSolidObjectToNextPageAlgorithm</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/loadoptions</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/loadoptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/class-use/LoadOptions</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/class-use/LoadOptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/keepsolidobjectsalgorithm</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/keepsolidobjectsalgorithm</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/localeoptions</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/localeoptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/class-use/KeepSolidObjectsAlgorithm</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/class-use/KeepSolidObjectsAlgorithm</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/class-use/LocaleOptions</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/class-use/LocaleOptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/metered</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/metered</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/class-use/Metered</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/class-use/Metered</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/node</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/node</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/margins</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/margins</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/class-use/Margins</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/class-use/Margins</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/class-use/Node</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/class-use/Node</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/notebook</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/notebook</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/class-use/Notebook</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/class-use/Notebook</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/nodetype</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/nodetype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/class-use/NotebookLoadOptions</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/class-use/NotebookLoadOptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/notebookloadoptions</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/notebookloadoptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/class-use/NodeType</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/class-use/NodeType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/notecheckbox</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/notecheckbox</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/class-use/NoteCheckBox</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/class-use/NoteCheckBox</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/notetask</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/notetask</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/class-use/NumberFormat</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/class-use/NumberFormat</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/numberformat</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/numberformat</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/class-use/NoteTask</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/class-use/NoteTask</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/class-use/NoteTag</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/class-use/NoteTag</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/notetag</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/notetag</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/numberlist</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/numberlist</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/class-use/NumberList</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/class-use/NumberList</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/outlineelement</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/outlineelement</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/outline</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/outline</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/class-use/OutlineElement</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/class-use/OutlineElement</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/outlinegroup</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/outlinegroup</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/class-use/OutlineGroup</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/class-use/OutlineGroup</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/class-use/Outline</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/class-use/Outline</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/page</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/page</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/class-use/Page</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/class-use/Page</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/pagehistory</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/pagehistory</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/pagesavingargs</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/pagesavingargs</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/class-use/PageHistory</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/class-use/PageHistory</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/class-use/PageSavingArgs</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/class-use/PageSavingArgs</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/pagesizetype</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/pagesizetype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/class-use/PageSizeType</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/class-use/PageSizeType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/class-use/PageSplittingAlgorithm</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/class-use/PageSplittingAlgorithm</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/pagesplittingalgorithm</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/pagesplittingalgorithm</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/paragraphstyle</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/paragraphstyle</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/class-use/ParagraphStyle</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/class-use/ParagraphStyle</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/pdfimagecompression</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/pdfimagecompression</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/class-use/PdfImageCompression</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/class-use/PdfImageCompression</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/resourcesavingargs</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/resourcesavingargs</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/resourceexporttype</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/resourceexporttype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/class-use/ResourceExportType</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/class-use/ResourceExportType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/class-use/ResourceSavingArgs</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/class-use/ResourceSavingArgs</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/revisionsummary</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/revisionsummary</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/class-use/RichText</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/class-use/RichText</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/richtext</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/richtext</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/class-use/RevisionSummary</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/class-use/RevisionSummary</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/class-use/SaveFormat</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/class-use/SaveFormat</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/saveformatconverter</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/saveformatconverter</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/saveformat</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/saveformat</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/class-use/SaveFormatConverter</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/class-use/SaveFormatConverter</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/style</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/style</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/class-use/Style</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/class-use/Style</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/tablecell</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/tablecell</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/class-use/TableCell</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/class-use/TableCell</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/table</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/table</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/class-use/Table</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/class-use/Table</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/tablerow</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/tablerow</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/class-use/TableRow</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/class-use/TableRow</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/textstyle</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/textstyle</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/class-use/TextStyle</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/class-use/TextStyle</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/tablecolumn</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/tablecolumn</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/class-use/TableColumn</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/class-use/TableColumn</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/tagstatus</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/tagstatus</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/class-use/TaskType</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/class-use/TaskType</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/class-use/TagStatus</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/class-use/TagStatus</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/tasktype</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/tasktype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/tiffcompression</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/tiffcompression</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/class-use/TiffCompression</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/class-use/TiffCompression</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/title</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/title</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note/class-use/Title</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note/class-use/Title</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note.fonts.class-use/DocumentFontsSubsystem</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note.fonts.class-use/DocumentFontsSubsystem</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note.fonts.class-use/IFontsSubsystem</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note.fonts.class-use/IFontsSubsystem</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note.fonts.class-use/FontsSubsystem</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note.fonts.class-use/FontsSubsystem</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note.class-use/CheckBox</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note.class-use/CheckBox</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note.class-use/CompositeNode</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note.class-use/CompositeNode</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note.class-use/AttachedFile</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note.class-use/AttachedFile</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note.class-use/CompositeNodeBase</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note.class-use/CompositeNodeBase</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note.class-use/Document</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note.class-use/Document</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note.class-use/CssSavingArgs</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note.class-use/CssSavingArgs</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note.class-use/DocumentVisitor</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note.class-use/DocumentVisitor</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note.class-use/ExtendedApsNode</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note.class-use/ExtendedApsNode</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note.class-use/ICompositeNodeT</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note.class-use/ICompositeNodeT</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note.class-use/FontSavingArgs</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note.class-use/FontSavingArgs</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note.class-use/ICompositeNode</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note.class-use/ICompositeNode</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note.class-use/ImageSavingArgs</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note.class-use/ImageSavingArgs</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note.class-use/Image</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note.class-use/Image</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note.class-use/INode</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note.class-use/INode</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note.class-use/INotebookChildNode</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note.class-use/INotebookChildNode</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note.class-use/IOutlineChildNode</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note.class-use/IOutlineChildNode</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note.class-use/IOutlineElementChildNode</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note.class-use/IOutlineElementChildNode</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note.class-use/IPageChildNode</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note.class-use/IPageChildNode</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note.class-use/ITag</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note.class-use/ITag</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note.class-use/ITaggable</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note.class-use/ITaggable</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note.class-use/LoadOptions</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note.class-use/LoadOptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note.class-use/Margins</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note.class-use/Margins</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note.class-use/NotebookLoadOptions</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note.class-use/NotebookLoadOptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note.class-use/Node</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note.class-use/Node</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note.class-use/NoteTag</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note.class-use/NoteTag</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note.class-use/NoteTask</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note.class-use/NoteTask</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note.class-use/NoteCheckBox</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note.class-use/NoteCheckBox</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note.class-use/Outline</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note.class-use/Outline</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note.class-use/NumberList</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note.class-use/NumberList</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note.class-use/OutlineElement</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note.class-use/OutlineElement</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note.class-use/Page</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note.class-use/Page</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note.class-use/OutlineGroup</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note.class-use/OutlineGroup</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note.class-use/PageHistory</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note.class-use/PageHistory</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note.class-use/PageSavingArgs</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note.class-use/PageSavingArgs</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note.class-use/ResourceSavingArgs</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note.class-use/ResourceSavingArgs</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note.class-use/ParagraphStyle</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note.class-use/ParagraphStyle</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note.class-use/PageSplittingAlgorithm</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note.class-use/PageSplittingAlgorithm</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note.class-use/RichText</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note.class-use/RichText</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note.class-use/RevisionSummary</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note.class-use/RevisionSummary</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note.class-use/Table</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note.class-use/Table</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note.class-use/Style</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note.class-use/Style</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note.class-use/TableCell</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note.class-use/TableCell</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note.class-use/TableRow</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note.class-use/TableRow</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note.class-use/Title</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note.class-use/Title</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note.class-use/TableColumn</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note.class-use/TableColumn</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note.class-use/TextStyle</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note.class-use/TextStyle</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note.class-use/alwayssplitobjectsalgorithm</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note.class-use/alwayssplitobjectsalgorithm</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note.class-use/checkbox</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note.class-use/checkbox</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note.class-use/attachedfile</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note.class-use/attachedfile</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note.class-use/displayunitsconverter</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note.class-use/displayunitsconverter</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note.class-use/compositenode</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note.class-use/compositenode</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note.class-use/compositenodebase</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note.class-use/compositenodebase</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note.class-use/csssavingargs</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note.class-use/csssavingargs</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note.fonts.class-use/documentfontssubsystem</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note.fonts.class-use/documentfontssubsystem</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note.class-use/document</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note.class-use/document</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note.class-use/documentprintattributeset</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note.class-use/documentprintattributeset</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note.class-use/documentvisitor</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note.class-use/documentvisitor</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note.class-use/extendedapsglyphs</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note.class-use/extendedapsglyphs</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note.class-use/extendedapsdocument</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note.class-use/extendedapsdocument</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note.class-use/extendedapsimage</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note.class-use/extendedapsimage</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note.class-use/extendedapspage</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note.class-use/extendedapspage</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note.class-use/fileformat</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note.class-use/fileformat</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note.class-use/extendedapsnode</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note.class-use/extendedapsnode</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note.class-use/extendedcompositenode</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note.class-use/extendedcompositenode</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note.class-use/extendedapspath</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note.class-use/extendedapspath</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note.class-use/fontsavingargs</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note.class-use/fontsavingargs</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note.class-use/icompositenode</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note.class-use/icompositenode</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note.fonts.class-use/fontssubsystem</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note.fonts.class-use/fontssubsystem</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note.class-use/icompositenodet</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note.class-use/icompositenodet</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note.fonts.class-use/ifontssubsystem</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note.fonts.class-use/ifontssubsystem</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note.class-use/icsssavingcallback</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note.class-use/icsssavingcallback</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note.class-use/ifontsavingcallback</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note.class-use/ifontsavingcallback</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note.class-use/imagesavingargs</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note.class-use/imagesavingargs</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note.class-use/iimagesavingcallback</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note.class-use/iimagesavingcallback</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note.class-use/image</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note.class-use/image</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note.class-use/inode</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note.class-use/inode</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note.class-use/inotebookchildnode</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note.class-use/inotebookchildnode</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note.class-use/ioutlinechildnode</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note.class-use/ioutlinechildnode</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note.class-use/inotetag</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note.class-use/inotetag</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note.class-use/ipagesavingcallback</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note.class-use/ipagesavingcallback</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note.class-use/ioutlineelementchildnode</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note.class-use/ioutlineelementchildnode</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note.class-use/ipagechildnode</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note.class-use/ipagechildnode</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note.class-use/itaggable</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note.class-use/itaggable</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note.class-use/itag</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note.class-use/itag</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note.class-use/loadoptions</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note.class-use/loadoptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note.class-use/keeppartandclonesolidobjecttonextpagealgorithm</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note.class-use/keeppartandclonesolidobjecttonextpagealgorithm</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note.class-use/keepsolidobjectsalgorithm</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note.class-use/keepsolidobjectsalgorithm</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note.class-use/localeoptions</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note.class-use/localeoptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note.class-use/metered</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note.class-use/metered</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note.class-use/margins</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note.class-use/margins</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note.class-use/notebook</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note.class-use/notebook</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note.class-use/node</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note.class-use/node</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note.class-use/notebookloadoptions</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note.class-use/notebookloadoptions</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note.class-use/nodetype</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note.class-use/nodetype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note.class-use/notecheckbox</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note.class-use/notecheckbox</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note.class-use/numberformat</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note.class-use/numberformat</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note.class-use/notetask</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note.class-use/notetask</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note.class-use/outlinegroup</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note.class-use/outlinegroup</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note.class-use/outlineelement</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note.class-use/outlineelement</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note.class-use/outline</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note.class-use/outline</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note.class-use/numberlist</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note.class-use/numberlist</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note.class-use/page</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note.class-use/page</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note.class-use/pagehistory</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note.class-use/pagehistory</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note.class-use/notetag</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note.class-use/notetag</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note.class-use/pagesizetype</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note.class-use/pagesizetype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note.class-use/pagesavingargs</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note.class-use/pagesavingargs</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note.class-use/paragraphstyle</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note.class-use/paragraphstyle</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note.class-use/pagesplittingalgorithm</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note.class-use/pagesplittingalgorithm</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note.class-use/pdfimagecompression</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note.class-use/pdfimagecompression</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note.class-use/resourceexporttype</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note.class-use/resourceexporttype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note.class-use/richtext</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note.class-use/richtext</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note.class-use/resourcesavingargs</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note.class-use/resourcesavingargs</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note.class-use/revisionsummary</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note.class-use/revisionsummary</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note.class-use/saveformat</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note.class-use/saveformat</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note.class-use/saveformatconverter</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note.class-use/saveformatconverter</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note.class-use/style</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note.class-use/style</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note.class-use/table</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note.class-use/table</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note.class-use/tablecell</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note.class-use/tablecell</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note.class-use/tablerow</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note.class-use/tablerow</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note.class-use/textstyle</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note.class-use/textstyle</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note.class-use/tablecolumn</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note.class-use/tablecolumn</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note.class-use/tasktype</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note.class-use/tasktype</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note.class-use/tagstatus</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note.class-use/tagstatus</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note.class-use/title</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note.class-use/title</loc>
   </url>
   <url>
-    <loc>https://apireference.aspose.com/note/java/com.aspose.note.class-use/tiffcompression</loc>
+    <loc>https://reference.aspose.com/note/java/com.aspose.note.class-use/tiffcompression</loc>
   </url>
 </urlset>
