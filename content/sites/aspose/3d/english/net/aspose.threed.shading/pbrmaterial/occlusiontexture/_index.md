@@ -3,7 +3,7 @@ title: OcclusionTexture
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 100
+weight: 110
 url: /net/aspose.threed.shading/pbrmaterial/occlusiontexture/
 ---
 ## PbrMaterial.OcclusionTexture property

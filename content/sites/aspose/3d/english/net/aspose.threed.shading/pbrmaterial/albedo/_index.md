@@ -3,7 +3,7 @@ title: Albedo
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 20
+weight: 30
 url: /net/aspose.threed.shading/pbrmaterial/albedo/
 ---
 ## PbrMaterial.Albedo property

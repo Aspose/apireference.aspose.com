@@ -3,7 +3,7 @@ title: EmissiveTexture
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 50
+weight: 60
 url: /net/aspose.threed.shading/pbrmaterial/emissivetexture/
 ---
 ## PbrMaterial.EmissiveTexture property

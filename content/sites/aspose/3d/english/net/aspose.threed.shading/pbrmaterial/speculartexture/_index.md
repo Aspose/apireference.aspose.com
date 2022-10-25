@@ -3,7 +3,7 @@ title: SpecularTexture
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 120
+weight: 130
 url: /net/aspose.threed.shading/pbrmaterial/speculartexture/
 ---
 ## PbrMaterial.SpecularTexture property
