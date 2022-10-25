@@ -112,9 +112,6 @@
 <loc>https://reference.aspose.com/aspose-email-cpp-sitemap.xml</loc>
 </sitemap>
 <sitemap>
-<loc>https://reference.aspose.com/aspose-slides-java-sitemap.xml</loc>
-</sitemap>
-<sitemap>
 <loc>https://reference.aspose.com/aspose-slides-cpp-sitemap.xml</loc>
 </sitemap>
 <sitemap>
@@ -206,5 +203,8 @@
 </sitemap>
 <sitemap>
 <loc>https://reference.aspose.com/aspose-tex-cpp-sitemap.xml</loc>
+</sitemap>
+<sitemap>
+<loc>https://reference.aspose.com/aspose-pdf-net-sitemap.xml</loc>
 </sitemap>
 </sitemapindex>
