@@ -156,6 +156,8 @@ navbar_logo = false
 footer_about_disable = false
 
 
+[Taxonomies]
+
 [minify]
   disableCSS = false
   disableHTML = false

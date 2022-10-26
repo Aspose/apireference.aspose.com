@@ -36,13 +36,13 @@ defaultContentLang = 'en'
   [languages.en]
     contentDir = 'content/sites/aspose/pdf/english'
     languageName = 'English'
-    languageCode = "en"
+	languageCode = "en"
     flag = "flag-us"
     weight = 10
   [languages.ru]
     contentDir = 'content/sites/aspose/pdf/russian'
     languageName = 'Русский'
-    languageCode = "ru"
+	languageCode = "ru"
     flag = "flag-ru"
     weight = 11
   [languages.zh]
@@ -199,6 +199,8 @@ footer_about_disable = false
       decimals = -1
     [minify.tdewolff.xml]
       keepWhitespace = false
+
+[Taxonomies]
 
 [deployment]
 [[deployment.matchers]]
