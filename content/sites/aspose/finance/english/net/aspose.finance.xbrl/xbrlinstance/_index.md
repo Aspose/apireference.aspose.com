@@ -41,6 +41,7 @@ public class XbrlInstance
 | [GetConceptById](../../aspose.finance.xbrl/xbrlinstance/getconceptbyid)(string) | Gets the concept which has the specified id. |
 | [GetConceptByLoc](../../aspose.finance.xbrl/xbrlinstance/getconceptbyloc)(Loc) | Gets the concept by the locator. |
 | [GetConceptByName](../../aspose.finance.xbrl/xbrlinstance/getconceptbyname)(string) | Gets the concept which has the specified name. |
+| [GetConceptByUriAndName](../../aspose.finance.xbrl/xbrlinstance/getconceptbyuriandname)(string, string) | Gets the concept which has the specified uri and name. |
 | [GetContextById](../../aspose.finance.xbrl/xbrlinstance/getcontextbyid)(string) | Gets the context which has the specified id. |
 | [GetPresentationLinks](../../aspose.finance.xbrl/xbrlinstance/getpresentationlinks)(string, string) | Gets the presentation links in the xbrl instance. |
 | [GetRoleTypeByURI](../../aspose.finance.xbrl/xbrlinstance/getroletypebyuri)(string) | Gets the RoleType which has the specified uri. |
