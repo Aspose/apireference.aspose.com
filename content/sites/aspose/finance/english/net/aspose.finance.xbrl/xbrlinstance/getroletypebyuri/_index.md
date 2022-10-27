@@ -3,7 +3,7 @@ title: GetRoleTypeByURI
 second_title: Aspose.Finance for .NET API Reference
 description: Gets the RoleType which has the specified uri.
 type: docs
-weight: 210
+weight: 220
 url: /net/aspose.finance.xbrl/xbrlinstance/getroletypebyuri/
 ---
 ## XbrlInstance.GetRoleTypeByURI method
