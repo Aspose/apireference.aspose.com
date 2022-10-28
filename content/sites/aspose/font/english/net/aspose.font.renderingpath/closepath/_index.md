@@ -3,7 +3,7 @@ title: ClosePath
 second_title: Aspose.Font for .NET API Reference
 description: Represents ClosePath operation.
 type: docs
-weight: 460
+weight: 480
 url: /net/aspose.font.renderingpath/closepath/
 ---
 ## ClosePath class

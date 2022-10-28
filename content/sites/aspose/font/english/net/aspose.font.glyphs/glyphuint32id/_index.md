@@ -3,7 +3,7 @@ title: GlyphUInt32Id
 second_title: Aspose.Font for .NET API Reference
 description: Represents integer glyph id.
 type: docs
-weight: 300
+weight: 310
 url: /net/aspose.font.glyphs/glyphuint32id/
 ---
 ## GlyphUInt32Id class

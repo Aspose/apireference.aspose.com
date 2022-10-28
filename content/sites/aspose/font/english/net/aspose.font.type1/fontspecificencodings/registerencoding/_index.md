@@ -1,7 +1,7 @@
 ---
 title: RegisterEncoding
 second_title: Aspose.Font for .NET API Reference
-description: Register encoding for consumer-aware Fonts.
+description: Register encoding for consumeraware Fonts.
 type: docs
 weight: 10
 url: /net/aspose.font.type1/fontspecificencodings/registerencoding/

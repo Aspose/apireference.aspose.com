@@ -1,7 +1,7 @@
 ---
 title: Count
 second_title: Aspose.Font for .NET API Reference
-description: Gets count of pairs name-code in the map.
+description: Gets count of pairs namecode in the map.
 type: docs
 weight: 10
 url: /net/aspose.font/nametocodemap/count/

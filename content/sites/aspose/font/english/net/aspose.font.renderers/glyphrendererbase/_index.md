@@ -3,7 +3,7 @@ title: GlyphRendererBase
 second_title: Aspose.Font for .NET API Reference
 description: Represents base class for glyph renderers.
 type: docs
-weight: 420
+weight: 440
 url: /net/aspose.font.renderers/glyphrendererbase/
 ---
 ## GlyphRendererBase class

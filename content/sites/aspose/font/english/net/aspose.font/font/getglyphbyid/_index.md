@@ -1,7 +1,7 @@
 ---
 title: GetGlyphById
 second_title: Aspose.Font for .NET API Reference
-description: Returns glyph by glyph id. Glyph id is a unique number for a glyph which is font type dependent. GlyphId - derived object. For example Type1s id is a glyph name instance of GlyphStringIdaspose.font.glyphs/glyphstringid class. TTFs id is an int index instance of GlyphUInt32Idaspose.font.glyphs/glyphuint32id class.
+description: Returns glyph by glyph id. Glyph id is a unique number for a glyph which is font type dependent. GlyphId  derived object. For example Type1s id is a glyph name instance of GlyphStringIdaspose.font.glyphs/glyphstringid class. TTFs id is an int index instance of GlyphUInt32Idaspose.font.glyphs/glyphuint32id class.
 type: docs
 weight: 180
 url: /net/aspose.font/font/getglyphbyid/

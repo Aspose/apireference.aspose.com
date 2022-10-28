@@ -1,7 +1,7 @@
 ---
 title: IsFixedPitch
 second_title: Aspose.Font for .NET API Reference
-description: Gets uint32 isFixedPitch. 0 if the font is proportionally spaced non-zero if the font is not proportionally spaced i.e. monospaced.
+description: Gets uint32 isFixedPitch. 0 if the font is proportionally spaced nonzero if the font is not proportionally spaced i.e. monospaced.
 type: docs
 weight: 30
 url: /net/aspose.font.ttftables/ttfposttable/isfixedpitch/

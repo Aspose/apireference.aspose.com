@@ -1,7 +1,7 @@
 ---
 title: IsCidKeyedFont
 second_title: Aspose.Font for .NET API Reference
-description: Gets value indicating that the Font is cid-keyed.
+description: Gets value indicating that the Font is cidkeyed.
 type: docs
 weight: 90
 url: /net/aspose.font.cff/cfffont/iscidkeyedfont/

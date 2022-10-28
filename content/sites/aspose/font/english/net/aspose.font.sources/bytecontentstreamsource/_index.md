@@ -3,7 +3,7 @@ title: ByteContentStreamSource
 second_title: Aspose.Font for .NET API Reference
 description: Represents a stream source based on content stream.
 type: docs
-weight: 530
+weight: 550
 url: /net/aspose.font.sources/bytecontentstreamsource/
 ---
 ## ByteContentStreamSource class

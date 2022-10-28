@@ -3,7 +3,7 @@ title: TtfNameTable.NameId
 second_title: Aspose.Font for .NET API Reference
 description: Represents NameId.
 type: docs
-weight: 960
+weight: 980
 url: /net/aspose.font.ttftables/ttfnametable.nameid/
 ---
 ## TtfNameTable.NameId enumeration

@@ -3,7 +3,7 @@ title: TtfHeadTable
 second_title: Aspose.Font for .NET API Reference
 description: Represents head table of the TTF Font file.
 type: docs
-weight: 830
+weight: 850
 url: /net/aspose.font.ttftables/ttfheadtable/
 ---
 ## TtfHeadTable class

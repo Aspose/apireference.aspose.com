@@ -1,7 +1,7 @@
 ---
 title: TtfEncodingParameters
 second_title: Aspose.Font for .NET API Reference
-description: Initializes new instance of TtfEncodingParameters class. Takes Platform Id Platform-specific encoding id as parameters. These parameters used to request special CMap subtable from main font CMap table see table CMap name in OpenType Font File specification.
+description: Initializes new instance of TtfEncodingParameters class. Takes Platform Id Platformspecific encoding id as parameters. These parameters used to request special CMap subtable from main font CMap table see table CMap name in OpenType Font File specification.
 type: docs
 weight: 10
 url: /net/aspose.font.ttf/ttfencodingparameters/ttfencodingparameters/

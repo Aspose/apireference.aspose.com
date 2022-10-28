@@ -3,7 +3,7 @@ title: LicenseFlags
 second_title: Aspose.Font for .NET API Reference
 description: Represents a helper wrapper for an embedding flags from OS/2 table field fsType.
 type: docs
-weight: 590
+weight: 610
 url: /net/aspose.font.ttf/licenseflags/
 ---
 ## LicenseFlags class

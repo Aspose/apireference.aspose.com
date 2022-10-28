@@ -3,7 +3,7 @@ title: WoffFormatException
 second_title: Aspose.Font for .NET API Reference
 description: Represents WOFF font processing related exception.
 type: docs
-weight: 1100
+weight: 1120
 url: /net/aspose.font.woffexceptions/woffformatexception/
 ---
 ## WoffFormatException class

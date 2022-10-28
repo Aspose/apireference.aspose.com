@@ -1,7 +1,7 @@
 ---
 title: FontDirectionHint
 second_title: Aspose.Font for .NET API Reference
-description: Gets int16 fontDirectionHint. 0 Mixed directional glyphs 1 Only strongly left to right glyphs 2 Like 1 but also contains neutrals -1 Only strongly right to left glyphs -2 Like -1 but also contains neutrals.
+description: Gets int16 fontDirectionHint. 0 Mixed directional glyphs 1 Only strongly left to right glyphs 2 Like 1 but also contains neutrals 1 Only strongly right to left glyphs 2 Like 1 but also contains neutrals.
 type: docs
 weight: 40
 url: /net/aspose.font.ttftables/ttfheadtable/fontdirectionhint/

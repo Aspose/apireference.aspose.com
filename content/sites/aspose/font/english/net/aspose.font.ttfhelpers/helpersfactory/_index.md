@@ -3,7 +3,7 @@ title: HelpersFactory
 second_title: Aspose.Font for .NET API Reference
 description: Creates objects related to TtfHelpers namespace
 type: docs
-weight: 750
+weight: 770
 url: /net/aspose.font.ttfhelpers/helpersfactory/
 ---
 ## HelpersFactory class

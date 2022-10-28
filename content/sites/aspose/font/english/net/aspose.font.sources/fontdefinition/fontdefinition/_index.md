@@ -1,7 +1,7 @@
 ---
 title: FontDefinition
 second_title: Aspose.Font for .NET API Reference
-description: Creates single-file Font definition.
+description: Creates singlefile Font definition.
 type: docs
 weight: 10
 url: /net/aspose.font.sources/fontdefinition/fontdefinition/

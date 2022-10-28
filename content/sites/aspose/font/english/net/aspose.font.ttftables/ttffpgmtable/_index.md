@@ -3,7 +3,7 @@ title: TtfFpgmTable
 second_title: Aspose.Font for .NET API Reference
 description: Represents fpgm table of the TTF Font file.
 type: docs
-weight: 810
+weight: 830
 url: /net/aspose.font.ttftables/ttffpgmtable/
 ---
 ## TtfFpgmTable class

@@ -1,7 +1,7 @@
 ---
 title: FontSpecificEncodings
 second_title: Aspose.Font for .NET API Reference
-description: Stores specific encodings for consumer-aware Fonts. For example PDF documents uses Adobe Symbol and ZapfDingbats specific encodings.
+description: Stores specific encodings for consumeraware Fonts. For example PDF documents uses Adobe Symbol and ZapfDingbats specific encodings.
 type: docs
 weight: 30
 url: /net/aspose.font/fontenvironment/fontspecificencodings/

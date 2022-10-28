@@ -3,7 +3,7 @@ title: TtcFontSource
 second_title: Aspose.Font for .NET API Reference
 description: Represents TTC Font source.
 type: docs
-weight: 610
+weight: 630
 url: /net/aspose.font.ttf/ttcfontsource/
 ---
 ## TtcFontSource class

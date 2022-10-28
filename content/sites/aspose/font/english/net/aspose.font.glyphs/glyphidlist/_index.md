@@ -3,7 +3,7 @@ title: GlyphIdList
 second_title: Aspose.Font for .NET API Reference
 description: Represents glyph id list.
 type: docs
-weight: 260
+weight: 270
 url: /net/aspose.font.glyphs/glyphidlist/
 ---
 ## GlyphIdList class

@@ -1,7 +1,7 @@
 ---
 title: FindUnicodeTable
 second_title: Aspose.Font for .NET API Reference
-description: Searches and returns unicode CMap. if there is ucs-4 CMap - returns it first otherwise - returns any unicode cmap it can find.
+description: Searches and returns unicode CMap. if there is ucs4 CMap  returns it first otherwise  returns any unicode cmap it can find.
 type: docs
 weight: 10
 url: /net/aspose.font.ttftables/ttfcmaptable/findunicodetable/

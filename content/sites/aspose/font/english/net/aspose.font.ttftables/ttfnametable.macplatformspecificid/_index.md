@@ -3,7 +3,7 @@ title: TtfNameTable.MacPlatformSpecificId
 second_title: Aspose.Font for .NET API Reference
 description: Represents Macintosh platform PlatformSpecificId enumeration.
 type: docs
-weight: 950
+weight: 970
 url: /net/aspose.font.ttftables/ttfnametable.macplatformspecificid/
 ---
 ## TtfNameTable.MacPlatformSpecificId enumeration
