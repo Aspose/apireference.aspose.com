@@ -1,7 +1,7 @@
 ---
 title: FontDefinition
 second_title: Aspose.Font for .NET API Reference
-description: Creates single-file Font definition.
+description: Creates singlefile Font definition.
 type: docs
 weight: 10
 url: /net/aspose.font.sources/fontdefinition/fontdefinition/
@@ -22,10 +22,10 @@ public FontDefinition(FontType fontType, string fileExtension, StreamSource stre
 
 ### See Also
 
-* enum [FontType](../../../aspose.font/fonttype)
-* class [StreamSource](../../streamsource)
-* class [FontDefinition](../../fontdefinition)
-* namespace [Aspose.Font.Sources](../../fontdefinition)
+* enum [FontType](../../../aspose.font/fonttype/)
+* class [StreamSource](../../streamsource/)
+* class [FontDefinition](../)
+* namespace [Aspose.Font.Sources](../../fontdefinition/)
 * assembly [Aspose.Font](../../../)
 
 ---
@@ -45,10 +45,10 @@ public FontDefinition(FontType fontType, StreamSource streamSource)
 
 ### See Also
 
-* enum [FontType](../../../aspose.font/fonttype)
-* class [StreamSource](../../streamsource)
-* class [FontDefinition](../../fontdefinition)
-* namespace [Aspose.Font.Sources](../../fontdefinition)
+* enum [FontType](../../../aspose.font/fonttype/)
+* class [StreamSource](../../streamsource/)
+* class [FontDefinition](../)
+* namespace [Aspose.Font.Sources](../../fontdefinition/)
 * assembly [Aspose.Font](../../../)
 
 ---
@@ -71,10 +71,10 @@ public FontDefinition(string fontName, FontType fontType, string fileExtension,
 
 ### See Also
 
-* enum [FontType](../../../aspose.font/fonttype)
-* class [StreamSource](../../streamsource)
-* class [FontDefinition](../../fontdefinition)
-* namespace [Aspose.Font.Sources](../../fontdefinition)
+* enum [FontType](../../../aspose.font/fonttype/)
+* class [StreamSource](../../streamsource/)
+* class [FontDefinition](../)
+* namespace [Aspose.Font.Sources](../../fontdefinition/)
 * assembly [Aspose.Font](../../../)
 
 ---
@@ -94,10 +94,10 @@ public FontDefinition(FontType fontType, FontFileDefinition fileDefinition)
 
 ### See Also
 
-* enum [FontType](../../../aspose.font/fonttype)
-* class [FontFileDefinition](../../fontfiledefinition)
-* class [FontDefinition](../../fontdefinition)
-* namespace [Aspose.Font.Sources](../../fontdefinition)
+* enum [FontType](../../../aspose.font/fonttype/)
+* class [FontFileDefinition](../../fontfiledefinition/)
+* class [FontDefinition](../)
+* namespace [Aspose.Font.Sources](../../fontdefinition/)
 * assembly [Aspose.Font](../../../)
 
 ---
@@ -118,10 +118,10 @@ public FontDefinition(string fontName, FontType fontType, FontFileDefinition fil
 
 ### See Also
 
-* enum [FontType](../../../aspose.font/fonttype)
-* class [FontFileDefinition](../../fontfiledefinition)
-* class [FontDefinition](../../fontdefinition)
-* namespace [Aspose.Font.Sources](../../fontdefinition)
+* enum [FontType](../../../aspose.font/fonttype/)
+* class [FontFileDefinition](../../fontfiledefinition/)
+* class [FontDefinition](../)
+* namespace [Aspose.Font.Sources](../../fontdefinition/)
 * assembly [Aspose.Font](../../../)
 
 ---
@@ -144,10 +144,10 @@ public FontDefinition(string fontName, string postscriptName, FontType fontType,
 
 ### See Also
 
-* enum [FontType](../../../aspose.font/fonttype)
-* class [FontFileDefinition](../../fontfiledefinition)
-* class [FontDefinition](../../fontdefinition)
-* namespace [Aspose.Font.Sources](../../fontdefinition)
+* enum [FontType](../../../aspose.font/fonttype/)
+* class [FontFileDefinition](../../fontfiledefinition/)
+* class [FontDefinition](../)
+* namespace [Aspose.Font.Sources](../../fontdefinition/)
 * assembly [Aspose.Font](../../../)
 
 ---
@@ -167,10 +167,10 @@ public FontDefinition(FontType fontType, FontFileDefinition[] fileDefinitions)
 
 ### See Also
 
-* enum [FontType](../../../aspose.font/fonttype)
-* class [FontFileDefinition](../../fontfiledefinition)
-* class [FontDefinition](../../fontdefinition)
-* namespace [Aspose.Font.Sources](../../fontdefinition)
+* enum [FontType](../../../aspose.font/fonttype/)
+* class [FontFileDefinition](../../fontfiledefinition/)
+* class [FontDefinition](../)
+* namespace [Aspose.Font.Sources](../../fontdefinition/)
 * assembly [Aspose.Font](../../../)
 
 ---
@@ -193,10 +193,10 @@ public FontDefinition(string fontName, string postscriptName, FontType fontType,
 
 ### See Also
 
-* enum [FontType](../../../aspose.font/fonttype)
-* class [FontFileDefinition](../../fontfiledefinition)
-* class [FontDefinition](../../fontdefinition)
-* namespace [Aspose.Font.Sources](../../fontdefinition)
+* enum [FontType](../../../aspose.font/fonttype/)
+* class [FontFileDefinition](../../fontfiledefinition/)
+* class [FontDefinition](../)
+* namespace [Aspose.Font.Sources](../../fontdefinition/)
 * assembly [Aspose.Font](../../../)
 
 ---
@@ -219,11 +219,11 @@ public FontDefinition(MultiLanguageString fontNames, MultiLanguageString postscr
 
 ### See Also
 
-* class [MultiLanguageString](../../../aspose.font/multilanguagestring)
-* enum [FontType](../../../aspose.font/fonttype)
-* class [FontFileDefinition](../../fontfiledefinition)
-* class [FontDefinition](../../fontdefinition)
-* namespace [Aspose.Font.Sources](../../fontdefinition)
+* class [MultiLanguageString](../../../aspose.font/multilanguagestring/)
+* enum [FontType](../../../aspose.font/fonttype/)
+* class [FontFileDefinition](../../fontfiledefinition/)
+* class [FontDefinition](../)
+* namespace [Aspose.Font.Sources](../../fontdefinition/)
 * assembly [Aspose.Font](../../../)
 
 ---
@@ -246,11 +246,11 @@ public FontDefinition(MultiLanguageString fontNames, MultiLanguageString postscr
 
 ### See Also
 
-* class [MultiLanguageString](../../../aspose.font/multilanguagestring)
-* enum [FontType](../../../aspose.font/fonttype)
-* class [FontFileDefinition](../../fontfiledefinition)
-* class [FontDefinition](../../fontdefinition)
-* namespace [Aspose.Font.Sources](../../fontdefinition)
+* class [MultiLanguageString](../../../aspose.font/multilanguagestring/)
+* enum [FontType](../../../aspose.font/fonttype/)
+* class [FontFileDefinition](../../fontfiledefinition/)
+* class [FontDefinition](../)
+* namespace [Aspose.Font.Sources](../../fontdefinition/)
 * assembly [Aspose.Font](../../../)
 
 <!-- DO NOT EDIT: generated by xmldocmd for Aspose.Font.dll -->
