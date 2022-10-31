@@ -1,14 +1,14 @@
 ---
 title: GetEquivalentPath
 second_title: Aspose.SVG for .NET API Reference
-description: Retruns a new instance instance of the SVGPathSegListaspose.svg.paths/svgpathseglist represents SVGGeometryElementaspose.svg/svggeometryelement as path segments.
+description: Returns a new instance instance of the SVGPathSegListaspose.svg.paths/svgpathseglist which represents SVGGeometryElementaspose.svg/svggeometryelement as path segments.
 type: docs
 weight: 20
 url: /net/aspose.svg/svggeometryelement/getequivalentpath/
 ---
 ## SVGGeometryElement.GetEquivalentPath method
 
-Retruns a new instance instance of the [`SVGPathSegList`](../../../aspose.svg.paths/svgpathseglist) represents [`SVGGeometryElement`](../../svggeometryelement) as path segments.
+Returns a new instance instance of the [`SVGPathSegList`](../../../aspose.svg.paths/svgpathseglist) which represents [`SVGGeometryElement`](../../svggeometryelement) as path segments.
 
 ```csharp
 public SVGPathSegList GetEquivalentPath()

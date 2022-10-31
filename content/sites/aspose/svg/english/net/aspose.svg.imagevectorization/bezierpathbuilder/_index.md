@@ -8,7 +8,7 @@ url: /net/aspose.svg.imagevectorization/bezierpathbuilder/
 ---
 ## BezierPathBuilder class
 
-The [`BezierPathBuilder`](../BezierPathBuilder) class is responsible for building path segments [`SVGPathSeg`](../../aspose.svg.paths/svgpathseg) from list of the trace points. This path builder is based on using least-squares method to find Bezier control points for trace of points.
+The [`SplinePathBuilder`](../splinepathbuilder) class is responsible for building path segments [`SVGPathSeg`](../../aspose.svg.paths/svgpathseg) from list of the trace points. This path builder is based on using least-squares method to find Bezier control points for trace of points.
 
 ```csharp
 public class BezierPathBuilder : IPathBuilder
