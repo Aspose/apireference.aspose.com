@@ -18,7 +18,7 @@ public enum StencilType
 
 | Name | Value | Description |
 | --- | --- | --- |
-| None | `0` | No any stencil effect applies. |
+| None | `0` | The stencil effect will not be applied. |
 | MonoColor | `1` | Only one color is used for rendering stencil lines. |
 | Auto | `2` | The colors for rendering stencil lines detects automatically. |
 

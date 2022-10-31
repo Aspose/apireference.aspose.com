@@ -1,14 +1,14 @@
 ---
 title: ColorModel
 second_title: Aspose.SVG for .NET API Reference
-description: This enumeration is used to select the color model for woking with color components.
+description: This enumeration is used to select the color model for working with color components.
 type: docs
 weight: 1400
 url: /net/aspose.svg.drawing/colormodel/
 ---
 ## ColorModel enumeration
 
-This enumeration is used to select the color model for woking with color components.
+This enumeration is used to select the color model for working with color components.
 
 ```csharp
 public enum ColorModel
