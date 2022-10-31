@@ -3,7 +3,7 @@ title: GetJson
 second_title: Aspose.OCR for .NET API Reference
 description: Form JSON string with recognition results.
 type: docs
-weight: 80
+weight: 90
 url: /net/aspose.ocr/recognitionresult/getjson/
 ---
 ## RecognitionResult.GetJson method

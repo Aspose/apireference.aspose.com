@@ -1,22 +1,18 @@
 ---
-title: GetXml
+title: Image
 second_title: Aspose.OCR for .NET API Reference
-description: Form XML string with recognition results.
+description: Gets or sets image for pdf creation.
 type: docs
-weight: 120
-url: /net/aspose.ocr/recognitionresult/getxml/
+weight: 10
+url: /net/aspose.ocr/recognitionresult/image/
 ---
-## RecognitionResult.GetXml method
+## RecognitionResult.Image property
 
-Form XML string with recognition results.
+Gets or sets image for pdf creation.
 
 ```csharp
-public string GetXml()
+public List<byte[][]> Image { get; set; }
 ```
-
-### Return Value
-
-Recognition results as a string XML serialized.
 
 ### See Also
 

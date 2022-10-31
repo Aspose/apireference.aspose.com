@@ -3,7 +3,7 @@ title: RecognitionLinesResult
 second_title: Aspose.OCR for .NET API Reference
 description: Gets a list of recognition results with a list of rows Rectangles.
 type: docs
-weight: 40
+weight: 50
 url: /net/aspose.ocr/recognitionresult/recognitionlinesresult/
 ---
 ## RecognitionResult.RecognitionLinesResult property

@@ -18,6 +18,7 @@ public class RecognitionResult
 
 | Name | Description |
 | --- | --- |
+| [Image](../../aspose.ocr/recognitionresult/image) { get; set; } | Gets or sets image for pdf creation. |
 | [RecognitionAreasRectangles](../../aspose.ocr/recognitionresult/recognitionareasrectangles) { get; } | Gets rectangles coordinates. |
 | [RecognitionAreasText](../../aspose.ocr/recognitionresult/recognitionareastext) { get; } | Gets list recognition results of a list of areas (Rectangles). |
 | [RecognitionCharactersList](../../aspose.ocr/recognitionresult/recognitioncharacterslist) { get; } | A set of characters found by the recognition algorithm and arranged in descending order of probability. |
