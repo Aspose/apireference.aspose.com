@@ -34,6 +34,7 @@ public class GlobalPageSettings
 | [PageMarginLeft](../../aspose.omr.generation/globalpagesettings/pagemarginleft) | Left margin of the page on pixels |
 | [PageMarginRight](../../aspose.omr.generation/globalpagesettings/pagemarginright) | Right margin of the page on pixels |
 | [PaperSize](../../aspose.omr.generation/globalpagesettings/papersize) | Paper size |
+| [RotationPointPosition](../../aspose.omr.generation/globalpagesettings/rotationpointposition) |  |
 | [Wrap](../../aspose.omr.generation/globalpagesettings/wrap) | Set wrapping policy for template generation. By default no wrapping is enabled. Flags enumeration. |
 
 ### See Also

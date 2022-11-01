@@ -3,7 +3,7 @@ title: IsClipped
 second_title: Aspose.OMR for .NET API Reference
 description: If true block and all its content will be clipped as picture upon recognition
 type: docs
-weight: 110
+weight: 120
 url: /net/aspose.omr.generation.config.elements.parents/blockconfig/isclipped/
 ---
 ## BlockConfig.IsClipped property

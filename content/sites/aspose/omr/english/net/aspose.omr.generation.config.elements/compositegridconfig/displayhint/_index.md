@@ -1,17 +1,15 @@
 ---
-title: VerticalMargin
+title: DisplayHint
 second_title: Aspose.OMR for .NET API Reference
-description: The margin between lines
+description: 
 type: docs
-weight: 190
-url: /net/aspose.omr.generation.config.elements/compositegridconfig/verticalmargin/
+weight: 50
+url: /net/aspose.omr.generation.config.elements/compositegridconfig/displayhint/
 ---
-## CompositeGridConfig.VerticalMargin field
-
-The margin between lines
+## CompositeGridConfig.DisplayHint property
 
 ```csharp
-public int VerticalMargin;
+public bool DisplayHint { get; set; }
 ```
 
 ### See Also

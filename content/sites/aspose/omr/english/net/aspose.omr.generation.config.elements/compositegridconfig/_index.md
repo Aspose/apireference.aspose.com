@@ -27,6 +27,7 @@ public class CompositeGridConfig : BaseConfig
 | [BubbleType](../../aspose.omr.generation.config.elements/compositegridconfig/bubbletype) { get; set; } | The type of a bubble |
 | [Column](../../aspose.omr.generation.config.elements/compositegridconfig/column) { get; set; } | When element is drawn in multi-column parent - represent position. |
 | [ColumnsCount](../../aspose.omr.generation.config.elements/compositegridconfig/columnscount) { get; set; } | Amount of columns inside grid. Each column represent single symbol in result value Amount have to be equal to [`ExtraRow`](./extrarow) amount of columns |
+| [DisplayHint](../../aspose.omr.generation.config.elements/compositegridconfig/displayhint) { get; set; } |  |
 | [ExtraRow](../../aspose.omr.generation.config.elements/compositegridconfig/extrarow) { get; set; } | Column-specific values that will be placed on top of default ones - [`Values`](./values). Presented as two dimensional array. First - row. Second - column. Each string represent text inside bubble. if string is null no bubble will be placed. Amount of columns have to be equal to [`ColumnsCount`](./columnscount) |
 | [GridAlignment](../../aspose.omr.generation.config.elements/compositegridconfig/gridalignment) { get; set; } | Grid alignment, indicates where grid should be drawn on page |
 | [GridOrientation](../../aspose.omr.generation.config.elements/compositegridconfig/gridorientation) { get; set; } | Grid orientation: horizontal or vertical. Indicates how child elements should be positioned |

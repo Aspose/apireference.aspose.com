@@ -3,7 +3,7 @@ title: BorderLeftStyle
 second_title: Aspose.OMR for .NET API Reference
 description: Additional style for left border
 type: docs
-weight: 40
+weight: 50
 url: /net/aspose.omr.generation.config.elements.parents/blockconfig/borderleftstyle/
 ---
 ## BlockConfig.BorderLeftStyle property

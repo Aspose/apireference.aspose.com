@@ -19,24 +19,146 @@ public enum Color
 | Name | Value | Description |
 | --- | --- | --- |
 | undefined | `0` | Color is not set. |
-| Aqua | `18` | Aqua color |
-| Aquamarine | `1` | Aquamarine color |
-| Black | `2` | Black color |
-| Blue | `3` | Blue color |
-| BlueViolet | `4` | BlueViolet color |
-| Crimson | `5` | Crimson color |
-| DarkBlue | `6` | DarkBlue color |
-| DarkGreen | `7` | DarkGreen color |
-| DarkOrange | `8` | DarkOrange color |
-| DarkSalmon | `9` | DarkSalmon color |
-| Fuchsia | `10` | Fuchsia color |
-| Indigo | `11` | Indigo color |
-| Lime | `12` | Lime color |
-| Red | `13` | The red color |
-| Teal | `14` | Teal color |
-| White | `15` | White color |
-| Gray | `16` | Gray color |
-| LightGray | `17` | LightGray color |
+| AliceBlue | `28` |  |
+| AntiqueWhite | `29` |  |
+| Aqua | `30` | Aqua color |
+| Aquamarine | `31` | Aquamarine color |
+| Azure | `32` |  |
+| Beige | `33` |  |
+| Bisque | `34` |  |
+| Black | `35` | Black color |
+| BlanchedAlmond | `36` |  |
+| Blue | `37` | Blue color |
+| BlueViolet | `38` | BlueViolet color |
+| Brown | `39` |  |
+| BurlyWood | `40` |  |
+| CadetBlue | `41` |  |
+| Chartreuse | `42` |  |
+| Chocolate | `43` |  |
+| Coral | `44` |  |
+| CornflowerBlue | `45` |  |
+| Cornsilk | `46` |  |
+| Crimson | `47` | Crimson color |
+| Cyan | `48` |  |
+| DarkBlue | `49` | DarkBlue color |
+| DarkCyan | `50` |  |
+| DarkGoldenrod | `51` |  |
+| DarkGray | `52` |  |
+| DarkGreen | `53` | DarkGreen color |
+| DarkKhaki | `54` |  |
+| DarkMagenta | `55` |  |
+| DarkOliveGreen | `56` |  |
+| DarkOrange | `57` | DarkOrange color |
+| DarkOrchid | `58` |  |
+| DarkRed | `59` |  |
+| DarkSalmon | `60` | DarkSalmon color |
+| DarkSeaGreen | `61` |  |
+| DarkSlateBlue | `62` |  |
+| DarkSlateGray | `63` |  |
+| DarkTurquoise | `64` |  |
+| DarkViolet | `65` |  |
+| DeepPink | `66` |  |
+| DeepSkyBlue | `67` |  |
+| DimGray | `68` |  |
+| DodgerBlue | `69` |  |
+| Firebrick | `70` |  |
+| FloralWhite | `71` |  |
+| ForestGreen | `72` |  |
+| Fuchsia | `73` | Fuchsia color |
+| Gainsboro | `74` |  |
+| GhostWhite | `75` |  |
+| Gold | `76` |  |
+| Goldenrod | `77` |  |
+| Gray | `78` | Gray color |
+| Green | `79` |  |
+| GreenYellow | `80` |  |
+| Honeydew | `81` |  |
+| HotPink | `82` |  |
+| IndianRed | `83` |  |
+| Indigo | `84` | Indigo color |
+| Ivory | `85` |  |
+| Khaki | `86` |  |
+| Lavender | `87` |  |
+| LavenderBlush | `88` |  |
+| LawnGreen | `89` |  |
+| LemonChiffon | `90` |  |
+| LightBlue | `91` |  |
+| LightCoral | `92` |  |
+| LightCyan | `93` |  |
+| LightGoldenrodYellow | `94` |  |
+| LightGray | `95` | LightGray color |
+| LightGreen | `96` |  |
+| LightPink | `97` |  |
+| LightSalmon | `98` |  |
+| LightSeaGreen | `99` |  |
+| LightSkyBlue | `100` |  |
+| LightSlateGray | `101` |  |
+| LightSteelBlue | `102` |  |
+| LightYellow | `103` |  |
+| Lime | `104` | Lime color |
+| LimeGreen | `105` |  |
+| Linen | `106` |  |
+| Magenta | `107` |  |
+| Maroon | `108` |  |
+| MediumAquamarine | `109` |  |
+| MediumBlue | `110` |  |
+| MediumOrchid | `111` |  |
+| MediumPurple | `112` |  |
+| MediumSeaGreen | `113` |  |
+| MediumSlateBlue | `114` |  |
+| MediumSpringGreen | `115` |  |
+| MediumTurquoise | `116` |  |
+| MediumVioletRed | `117` |  |
+| MidnightBlue | `118` |  |
+| MintCream | `119` |  |
+| MistyRose | `120` |  |
+| Moccasin | `121` |  |
+| NavajoWhite | `122` |  |
+| Navy | `123` |  |
+| OldLace | `124` |  |
+| Olive | `125` |  |
+| OliveDrab | `126` |  |
+| Orange | `127` |  |
+| OrangeRed | `128` |  |
+| Orchid | `129` |  |
+| PaleGoldenrod | `130` |  |
+| PaleGreen | `131` |  |
+| PaleTurquoise | `132` |  |
+| PaleVioletRed | `133` |  |
+| PapayaWhip | `134` |  |
+| PeachPuff | `135` |  |
+| Peru | `136` |  |
+| Pink | `137` |  |
+| Plum | `138` |  |
+| PowderBlue | `139` |  |
+| Purple | `140` |  |
+| Red | `141` | The red color |
+| RosyBrown | `142` |  |
+| RoyalBlue | `143` |  |
+| SaddleBrown | `144` |  |
+| Salmon | `145` |  |
+| SandyBrown | `146` |  |
+| SeaGreen | `147` |  |
+| SeaShell | `148` |  |
+| Sienna | `149` |  |
+| Silver | `150` |  |
+| SkyBlue | `151` |  |
+| SlateBlue | `152` |  |
+| SlateGray | `153` |  |
+| Snow | `154` |  |
+| SpringGreen | `155` |  |
+| SteelBlue | `156` |  |
+| Tan | `157` |  |
+| Teal | `158` | Teal color |
+| Thistle | `159` |  |
+| Tomato | `160` |  |
+| Turquoise | `161` |  |
+| Violet | `162` |  |
+| Wheat | `163` |  |
+| White | `164` | White color |
+| WhiteSmoke | `165` |  |
+| Yellow | `166` |  |
+| YellowGreen | `167` |  |
 
 ### See Also
 

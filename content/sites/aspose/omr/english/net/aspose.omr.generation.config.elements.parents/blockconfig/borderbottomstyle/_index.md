@@ -3,7 +3,7 @@ title: BorderBottomStyle
 second_title: Aspose.OMR for .NET API Reference
 description: Additional style for bottom border
 type: docs
-weight: 20
+weight: 30
 url: /net/aspose.omr.generation.config.elements.parents/blockconfig/borderbottomstyle/
 ---
 ## BlockConfig.BorderBottomStyle property

@@ -3,7 +3,7 @@ title: GridAlignment
 second_title: Aspose.OMR for .NET API Reference
 description: Grid alignment indicates where grid should be drawn on page
 type: docs
-weight: 60
+weight: 70
 url: /net/aspose.omr.generation.config.elements/compositegridconfig/gridalignment/
 ---
 ## CompositeGridConfig.GridAlignment property

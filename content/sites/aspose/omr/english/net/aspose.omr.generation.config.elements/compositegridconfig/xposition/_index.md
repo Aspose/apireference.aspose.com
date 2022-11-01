@@ -3,7 +3,7 @@ title: XPosition
 second_title: Aspose.OMR for .NET API Reference
 description: Grid X position on page overrides the alignment
 type: docs
-weight: 150
+weight: 160
 url: /net/aspose.omr.generation.config.elements/compositegridconfig/xposition/
 ---
 ## CompositeGridConfig.XPosition property
