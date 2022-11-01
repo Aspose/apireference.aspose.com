@@ -68,7 +68,6 @@ rewrite words/java/BuildingBlock https://reference.aspose.com/words/java/com.asp
 rewrite words/java/com.aspose.words/fieldindex https://reference.aspose.com/words/java/com.aspose.words/fieldindex/ permanent;
 rewrite words/java/CompositeNode https://reference.aspose.com/words/java/com.aspose.words/compositenode/ permanent;
 rewrite words/java/Range https://reference.aspose.com/words/java/com.aspose.words/range/ permanent;
-rewrite words/java/DocumentBuilder https://reference.aspose.com/words/java/com.aspose.words/documentbuilder/ permanent;
 rewrite words/java/XmlMapping https://reference.aspose.com/words/java/com.aspose.words/xmlmapping/ permanent;
 rewrite words/java/IWarningCallback https://reference.aspose.com/words/java/com.aspose.words/iwarningcallback/ permanent;
 rewrite words/java/com.aspose.wordsBase/DocumentBase https://reference.aspose.com/words/java/com.aspose.words/documentbase/ permanent;
@@ -97,7 +96,6 @@ rewrite words/java/com.aspose.words/style https://reference.aspose.com/words/jav
 rewrite words//java/com.aspose.words/paragraphformat https://reference.aspose.com/words/java/com.aspose.words/paragraphformat/ permanent;
 rewrite words/java/com.aspose.words/paragraphformat https://reference.aspose.com/words/java/com.aspose.words/paragraphformat/ permanent;
 rewrite words//java/com.aspose.words/documentbuilder https://reference.aspose.com/words/java/com.aspose.words/documentbuilder/ permanent;
-rewrite words/java/com.aspose.words/documentbuilder https://reference.aspose.com/words/java/com.aspose.words/documentbuilder/ permanent;
 rewrite words//java/com.aspose.words/pagesetup https://reference.aspose.com/words/java/com.aspose.words/pagesetup/ permanent;
 rewrite words/java/com.aspose.words/pagesetup https://reference.aspose.com/words/java/com.aspose.words/pagesetup/ permanent;
 rewrite words//java/com.aspose.words/cellformat https://reference.aspose.com/words/java/com.aspose.words/cellformat/ permanent;
