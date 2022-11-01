@@ -3,7 +3,7 @@ title: BorderTopStyle
 second_title: Aspose.OMR for .NET API Reference
 description: Additional style for top border
 type: docs
-weight: 70
+weight: 80
 url: /net/aspose.omr.generation.config.elements.parents/blockconfig/bordertopstyle/
 ---
 ## BlockConfig.BorderTopStyle property

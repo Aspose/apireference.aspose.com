@@ -3,7 +3,7 @@ title: BorderRightStyle
 second_title: Aspose.OMR for .NET API Reference
 description: Additional style for right border
 type: docs
-weight: 50
+weight: 60
 url: /net/aspose.omr.generation.config.elements.parents/blockconfig/borderrightstyle/
 ---
 ## BlockConfig.BorderRightStyle property

@@ -3,7 +3,7 @@ title: HeaderType
 second_title: Aspose.OMR for .NET API Reference
 description: Indicates what type of element to draw at the start of the grid
 type: docs
-weight: 100
+weight: 110
 url: /net/aspose.omr.generation.config.elements/compositegridconfig/headertype/
 ---
 ## CompositeGridConfig.HeaderType property

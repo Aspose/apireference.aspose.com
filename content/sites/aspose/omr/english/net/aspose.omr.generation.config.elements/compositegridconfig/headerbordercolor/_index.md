@@ -3,7 +3,7 @@ title: HeaderBorderColor
 second_title: Aspose.OMR for .NET API Reference
 description: Square border color
 type: docs
-weight: 80
+weight: 90
 url: /net/aspose.omr.generation.config.elements/compositegridconfig/headerbordercolor/
 ---
 ## CompositeGridConfig.HeaderBorderColor property

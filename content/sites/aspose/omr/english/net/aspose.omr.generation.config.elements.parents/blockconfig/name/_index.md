@@ -3,7 +3,7 @@ title: Name
 second_title: Aspose.OMR for .NET API Reference
 description: Name of Block element
 type: docs
-weight: 120
+weight: 130
 url: /net/aspose.omr.generation.config.elements.parents/blockconfig/name/
 ---
 ## BlockConfig.Name property

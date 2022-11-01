@@ -3,7 +3,7 @@ title: BubbleSize
 second_title: Aspose.OMR for .NET API Reference
 description: The size of a bubble
 type: docs
-weight: 170
+weight: 180
 url: /net/aspose.omr.generation.config.elements/compositegridconfig/bubblesize/
 ---
 ## CompositeGridConfig.BubbleSize field

@@ -3,7 +3,7 @@ title: BorderType
 second_title: Aspose.OMR for .NET API Reference
 description: Type of drawn border
 type: docs
-weight: 80
+weight: 90
 url: /net/aspose.omr.generation.config.elements.parents/blockconfig/bordertype/
 ---
 ## BlockConfig.BorderType property
