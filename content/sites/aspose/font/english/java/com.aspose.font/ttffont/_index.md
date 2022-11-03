@@ -3,7 +3,7 @@ title: TtfFont
 second_title: Aspose.Font for Java API Reference
 description: Represents TrueType Font TTF.
 type: docs
-weight: 72
+weight: 74
 url: /java/com.aspose.font/ttffont/
 ---
 **Inheritance:**

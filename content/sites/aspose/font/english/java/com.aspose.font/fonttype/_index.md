@@ -3,7 +3,7 @@ title: FontType
 second_title: Aspose.Font for Java API Reference
 description: Specifies Font type.
 type: docs
-weight: 106
+weight: 108
 url: /java/com.aspose.font/fonttype/
 ---
 **Inheritance:**

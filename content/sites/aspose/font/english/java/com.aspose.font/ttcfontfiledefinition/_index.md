@@ -3,7 +3,7 @@ title: TtcFontFileDefinition
 second_title: Aspose.Font for Java API Reference
 description: Represents file definition for TTC Font.
 type: docs
-weight: 57
+weight: 59
 url: /java/com.aspose.font/ttcfontfiledefinition/
 ---
 **Inheritance:**

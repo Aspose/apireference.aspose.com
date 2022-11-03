@@ -3,7 +3,7 @@ title: FontNotSupportedOperationException
 second_title: Aspose.Font for Java API Reference
 description: Represents not supported operation exception.
 type: docs
-weight: 33
+weight: 34
 url: /java/com.aspose.font/fontnotsupportedoperationexception/
 ---
 **Inheritance:**

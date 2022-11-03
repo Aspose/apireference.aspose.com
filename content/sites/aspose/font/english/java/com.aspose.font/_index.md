@@ -1,13 +1,13 @@
 ---
 title: com.aspose.font
 second_title: Aspose.Font for Java API Reference
-description: The com.aspose.font is a root package for all classes that deal fonts.
+description: The com.aspose.font is a root package for all classes that deal with fonts.
 type: docs
 weight: 10
 url: /java/com.aspose.font/
 ---
 
-The **com.aspose.font** is a root package for all classes that deal fonts.
+The **com.aspose.font** is a root package for all classes that deal with fonts.
 
 
 ## Classes
@@ -35,6 +35,7 @@ The **com.aspose.font** is a root package for all classes that deal fonts.
 | [FontDefinition](../com.aspose.font/fontdefinition) | Represents Font file set definition. |
 | [FontEnvironment](../com.aspose.font/fontenvironment) | Provides information about the current environment and platform. |
 | [FontException](../com.aspose.font/fontexception) | Represents common Font processing related exception. |
+| [FontFactory](../com.aspose.font/fontfactory) | Class which allows to open fonts of different types |
 | [FontFileDefinition](../com.aspose.font/fontfiledefinition) | Represents Font file definition. |
 | [FontMetrics](../com.aspose.font/fontmetrics) | Represents font metrics. |
 | [FontNotSupportedOperationException](../com.aspose.font/fontnotsupportedoperationexception) | Represents not supported operation exception. |
@@ -53,6 +54,7 @@ The **com.aspose.font** is a root package for all classes that deal fonts.
 | [LineTo](../com.aspose.font/lineto) | Represents LineTo operation. |
 | [MSLanguageId](../com.aspose.font/mslanguageid) | Microsoft platform language id enumeration. |
 | [MacLanguageId](../com.aspose.font/maclanguageid) | Macintosh platform language id enumeration. |
+| [Metered](../com.aspose.font/metered) | Provides methods to set metered key. |
 | [MoveTo](../com.aspose.font/moveto) | Represents MoveTo operation. |
 | [MultiLanguageString](../com.aspose.font/multilanguagestring) | Represents multi language string. |
 | [NameRecord](../com.aspose.font/namerecord) |  |

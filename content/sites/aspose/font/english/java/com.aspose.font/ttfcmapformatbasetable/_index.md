@@ -3,7 +3,7 @@ title: TtfCMapFormatBaseTable
 second_title: Aspose.Font for Java API Reference
 description: Represents CMap sub table base class.
 type: docs
-weight: 66
+weight: 68
 url: /java/com.aspose.font/ttfcmapformatbasetable/
 ---
 **Inheritance:**
