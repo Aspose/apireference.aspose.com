@@ -3,7 +3,7 @@ title: TtfFontMetrics
 second_title: Aspose.Font for Java API Reference
 description: Represents TTF Font metrics.
 type: docs
-weight: 73
+weight: 75
 url: /java/com.aspose.font/ttffontmetrics/
 ---
 **Inheritance:**

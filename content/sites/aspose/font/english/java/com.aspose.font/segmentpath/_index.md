@@ -3,7 +3,7 @@ title: SegmentPath
 second_title: Aspose.Font for Java API Reference
 description: Represents rendering path.
 type: docs
-weight: 54
+weight: 56
 url: /java/com.aspose.font/segmentpath/
 ---
 **Inheritance:**

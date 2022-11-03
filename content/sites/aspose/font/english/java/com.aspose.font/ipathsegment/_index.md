@@ -3,7 +3,7 @@ title: IPathSegment
 second_title: Aspose.Font for Java API Reference
 description: Represents interface of any path segment.
 type: docs
-weight: 103
+weight: 105
 url: /java/com.aspose.font/ipathsegment/
 ---
 **All Implemented Interfaces:**
