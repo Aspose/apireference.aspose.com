@@ -82,9 +82,6 @@
 <loc>https://reference.aspose.com/aspose-words-cpp-sitemap.xml</loc>
 </sitemap>
 <sitemap>
-<loc>https://reference.aspose.com/aspose-pdf-java-sitemap.xml</loc>
-</sitemap>
-<sitemap>
 <loc>https://reference.aspose.com/aspose-pdf-cpp-sitemap.xml</loc>
 </sitemap>
 <sitemap>
@@ -176,8 +173,5 @@
 </sitemap>
 <sitemap>
 <loc>https://reference.aspose.com/aspose-tex-cpp-sitemap.xml</loc>
-</sitemap>
-<sitemap>
-<loc>https://reference.aspose.com/aspose-pdf-net-sitemap.xml</loc>
 </sitemap>
 </sitemapindex>
