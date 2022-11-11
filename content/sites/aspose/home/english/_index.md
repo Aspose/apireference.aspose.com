@@ -56,6 +56,7 @@ Manipulate Outlook files and email protocols in your application. Includes 6 ind
 {{< blocks/product-item title=".NET" href="/email/net/" class="btn-net" >}}
 {{< blocks/product-item title="JAVA" href="/email/java/" class="btn-java" >}}
 {{< blocks/product-item title="C++" href="/email/cpp/" class="btn-c" >}}
+{{< blocks/product-item title="Python" href="/email/python-net/" class="btn-python" >}}
 
 {{< /blocks/product-card >}}
 
