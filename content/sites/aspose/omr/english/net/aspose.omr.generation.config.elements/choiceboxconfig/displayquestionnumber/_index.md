@@ -1,17 +1,15 @@
 ---
-title: FontFamily
+title: DisplayQuestionNumber
 second_title: Aspose.OMR for .NET API Reference
-description: The font family of the text
+description: 
 type: docs
-weight: 50
-url: /net/aspose.omr.generation.config.elements/choiceboxconfig/fontfamily/
+weight: 40
+url: /net/aspose.omr.generation.config.elements/choiceboxconfig/displayquestionnumber/
 ---
-## ChoiceBoxConfig.FontFamily property
-
-The font family of the text
+## ChoiceBoxConfig.DisplayQuestionNumber property
 
 ```csharp
-public string FontFamily { get; set; }
+public bool DisplayQuestionNumber { get; set; }
 ```
 
 ### See Also

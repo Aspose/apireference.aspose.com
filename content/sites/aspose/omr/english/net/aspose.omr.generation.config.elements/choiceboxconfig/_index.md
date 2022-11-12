@@ -25,6 +25,8 @@ public class ChoiceBoxConfig : BaseConfig
 | Name | Description |
 | --- | --- |
 | [AnswersString](../../aspose.omr.generation.config.elements/choiceboxconfig/answersstring) { get; set; } | Gets or sets answer strings for ChoiceBox element |
+| [Color](../../aspose.omr.generation.config.elements/choiceboxconfig/color) { get; set; } |  |
+| [DisplayQuestionNumber](../../aspose.omr.generation.config.elements/choiceboxconfig/displayquestionnumber) { get; set; } |  |
 | [FontFamily](../../aspose.omr.generation.config.elements/choiceboxconfig/fontfamily) { get; set; } | The font family of the text |
 | [FontSize](../../aspose.omr.generation.config.elements/choiceboxconfig/fontsize) { get; set; } | The size of the text font |
 | [FontStyle](../../aspose.omr.generation.config.elements/choiceboxconfig/fontstyle) { get; set; } | The style of the text |
