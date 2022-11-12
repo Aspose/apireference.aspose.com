@@ -1,6 +1,6 @@
 ---
 title: Aspose.Pub
-second_title: Aspose.Font for .NET API Reference
+second_title: Aspose.PUB for .NET API Reference
 description: The Aspose.Pub namespace provides classes describing PUB objects.
 type: docs
 weight: 10

@@ -1,6 +1,6 @@
 ---
 title: XRight
-second_title: Aspose.Font for .NET API Reference
+second_title: Aspose.PUB for .NET API Reference
 description: Xcoordinate of bottomright corner in EMUs
 type: docs
 weight: 30

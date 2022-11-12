@@ -1,6 +1,6 @@
 ---
 title: Parse
-second_title: Aspose.Font for .NET API Reference
+second_title: Aspose.PUB for .NET API Reference
 description: Parses publisher file and returns Documentaspose.pub/document/object as result of parsing.
 type: docs
 weight: 10

@@ -1,6 +1,6 @@
 ---
 title: Template
-second_title: Aspose.Font for .NET API Reference
+second_title: Aspose.PUB for .NET API Reference
 description: Applicationspecific template from which the document was created
 type: docs
 weight: 120

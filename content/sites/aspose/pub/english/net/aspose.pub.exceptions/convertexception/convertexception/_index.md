@@ -1,6 +1,6 @@
 ---
 title: ConvertException
-second_title: Aspose.Font for .NET API Reference
+second_title: Aspose.PUB for .NET API Reference
 description: Initializes a new instance of the ConvertExceptionaspose.pub.exceptions/convertexception/ class.
 type: docs
 weight: 10
