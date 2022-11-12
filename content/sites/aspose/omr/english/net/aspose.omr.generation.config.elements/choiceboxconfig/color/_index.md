@@ -1,21 +1,20 @@
 ---
-title: FontFamily
+title: Color
 second_title: Aspose.OMR for .NET API Reference
-description: The font family of the text
+description: 
 type: docs
-weight: 50
-url: /net/aspose.omr.generation.config.elements/choiceboxconfig/fontfamily/
+weight: 30
+url: /net/aspose.omr.generation.config.elements/choiceboxconfig/color/
 ---
-## ChoiceBoxConfig.FontFamily property
-
-The font family of the text
+## ChoiceBoxConfig.Color property
 
 ```csharp
-public string FontFamily { get; set; }
+public Color Color { get; set; }
 ```
 
 ### See Also
 
+* enum [Color](../../../aspose.omr.generation/color)
 * class [ChoiceBoxConfig](../../choiceboxconfig)
 * namespace [Aspose.OMR.Generation.Config.Elements](../../choiceboxconfig)
 * assembly [Aspose.OMR](../../../)

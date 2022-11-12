@@ -3,7 +3,7 @@ title: TextAlignment
 second_title: Aspose.OMR for .NET API Reference
 description: Text alignment indicating where text should be drawn on page
 type: docs
-weight: 80
+weight: 100
 url: /net/aspose.omr.generation.config.elements/choiceboxconfig/textalignment/
 ---
 ## ChoiceBoxConfig.TextAlignment property

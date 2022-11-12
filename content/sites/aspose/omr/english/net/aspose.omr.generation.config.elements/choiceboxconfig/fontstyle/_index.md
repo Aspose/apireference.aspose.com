@@ -3,7 +3,7 @@ title: FontStyle
 second_title: Aspose.OMR for .NET API Reference
 description: The style of the text
 type: docs
-weight: 50
+weight: 70
 url: /net/aspose.omr.generation.config.elements/choiceboxconfig/fontstyle/
 ---
 ## ChoiceBoxConfig.FontStyle property
