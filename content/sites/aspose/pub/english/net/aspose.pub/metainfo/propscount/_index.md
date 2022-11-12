@@ -1,6 +1,6 @@
 ---
 title: PropsCount
-second_title: Aspose.Font for .NET API Reference
+second_title: Aspose.PUB for .NET API Reference
 description: Count of properties
 type: docs
 weight: 70

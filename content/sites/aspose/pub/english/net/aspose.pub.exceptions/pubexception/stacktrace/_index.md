@@ -1,6 +1,6 @@
 ---
 title: StackTrace
-second_title: Aspose.Font for .NET API Reference
+second_title: Aspose.PUB for .NET API Reference
 description: Gets a string representation of the immediate frames on the call stack.
 type: docs
 weight: 30

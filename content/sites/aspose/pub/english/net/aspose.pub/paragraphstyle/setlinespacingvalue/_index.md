@@ -1,6 +1,6 @@
 ---
 title: SetLineSpacingValue
-second_title: Aspose.Font for .NET API Reference
+second_title: Aspose.PUB for .NET API Reference
 description: Sets value of line spacing
 type: docs
 weight: 220

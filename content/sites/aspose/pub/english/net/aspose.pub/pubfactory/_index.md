@@ -1,6 +1,6 @@
 ---
 title: PubFactory
-second_title: Aspose.Font for .NET API Reference
+second_title: Aspose.PUB for .NET API Reference
 description: Factory for PUB objects
 type: docs
 weight: 160

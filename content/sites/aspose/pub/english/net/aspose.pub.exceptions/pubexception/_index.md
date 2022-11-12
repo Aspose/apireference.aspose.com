@@ -1,6 +1,6 @@
 ---
 title: PubException
-second_title: Aspose.Font for .NET API Reference
+second_title: Aspose.PUB for .NET API Reference
 description: Represents errors that occur during PUB application execution.
 type: docs
 weight: 70

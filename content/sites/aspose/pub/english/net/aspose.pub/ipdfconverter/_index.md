@@ -1,6 +1,6 @@
 ---
 title: IPdfConverter
-second_title: Aspose.Font for .NET API Reference
+second_title: Aspose.PUB for .NET API Reference
 description: Declares functionality to convert PUB document into PDF document
 type: docs
 weight: 90

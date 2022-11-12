@@ -1,6 +1,6 @@
 ---
 title: Aspose.Pub.Utils
-second_title: Aspose.Font for .NET API Reference
+second_title: Aspose.PUB for .NET API Reference
 description: Namespace Aspose.PUB.Utils provides an utility objects
 type: docs
 weight: 30

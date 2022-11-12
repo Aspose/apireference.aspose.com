@@ -1,6 +1,6 @@
 ---
 title: BuildVersionInfo
-second_title: Aspose.Font for .NET API Reference
+second_title: Aspose.PUB for .NET API Reference
 description: This class provides information about current product build.
 type: docs
 weight: 30

@@ -1,6 +1,6 @@
 ---
 title: Style
-second_title: Aspose.Font for .NET API Reference
+second_title: Aspose.PUB for .NET API Reference
 description: Style of paragraph
 type: docs
 weight: 20

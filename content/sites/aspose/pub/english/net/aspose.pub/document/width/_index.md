@@ -1,6 +1,6 @@
 ---
 title: Width
-second_title: Aspose.Font for .NET API Reference
+second_title: Aspose.PUB for .NET API Reference
 description: Width of document in PUB metricsEMUs
 type: docs
 weight: 90

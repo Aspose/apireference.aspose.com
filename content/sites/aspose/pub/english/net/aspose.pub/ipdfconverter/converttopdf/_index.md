@@ -1,6 +1,6 @@
 ---
 title: ConvertToPdf
-second_title: Aspose.Font for .NET API Reference
+second_title: Aspose.PUB for .NET API Reference
 description: Converts PUB document into PDF format and saves result as PDF file
 type: docs
 weight: 10

@@ -1,6 +1,6 @@
 ---
 title: SetLeftIndent
-second_title: Aspose.Font for .NET API Reference
+second_title: Aspose.PUB for .NET API Reference
 description: Sets left indent
 type: docs
 weight: 200

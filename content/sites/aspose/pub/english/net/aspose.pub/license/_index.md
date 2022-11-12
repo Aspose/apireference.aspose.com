@@ -1,6 +1,6 @@
 ---
 title: License
-second_title: Aspose.Font for .NET API Reference
+second_title: Aspose.PUB for .NET API Reference
 description: Provides methods to license the component.
 type: docs
 weight: 110

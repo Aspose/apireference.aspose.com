@@ -1,6 +1,6 @@
 ---
 title: Colors
-second_title: Aspose.Font for .NET API Reference
+second_title: Aspose.PUB for .NET API Reference
 description: Array of colors
 type: docs
 weight: 10

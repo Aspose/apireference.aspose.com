@@ -1,10 +1,10 @@
 ---
-title: Aspose.Font for .NET
+title: Aspose.PUB for .NET
 type: docs
 weight: 10
 url: /net/
-keywords: "Aspose.Font for .NET, Aspose Font, Aspose API Reference."
-description: Aspose.Font is a .NET font loading and Font library. It supports multiple font formats such as TrueType (with TrueType collections), CFF, OpenType, and Type1.
+keywords: "Aspose.PUB for .NET, Aspose PUB, Aspose API Reference."
+description: Aspose.PUB for .NET, you purely focus on your business logic instead of going into the underlying details of the .pub file format.
 is_root: true
 ---
 ## Namespaces

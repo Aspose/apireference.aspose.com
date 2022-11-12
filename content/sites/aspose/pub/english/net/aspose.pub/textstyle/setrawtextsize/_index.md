@@ -1,6 +1,6 @@
 ---
 title: SetRawTextSize
-second_title: Aspose.Font for .NET API Reference
+second_title: Aspose.PUB for .NET API Reference
 description: Sets size of text in PUB metricsin EMUs
 type: docs
 weight: 290

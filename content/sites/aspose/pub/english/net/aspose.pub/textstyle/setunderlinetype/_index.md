@@ -1,6 +1,6 @@
 ---
 title: SetUnderlineType
-second_title: Aspose.Font for .NET API Reference
+second_title: Aspose.PUB for .NET API Reference
 description: Sets underline type for text
 type: docs
 weight: 320

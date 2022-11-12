@@ -1,6 +1,6 @@
 ---
 title: GetWidth
-second_title: Aspose.Font for .NET API Reference
+second_title: Aspose.PUB for .NET API Reference
 description: Returns width of current Coord object in natural PUB metrics
 type: docs
 weight: 120

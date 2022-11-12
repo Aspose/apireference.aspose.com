@@ -1,6 +1,6 @@
 ---
 title: TextParagraph
-second_title: Aspose.Font for .NET API Reference
+second_title: Aspose.PUB for .NET API Reference
 description: Constructor
 type: docs
 weight: 10

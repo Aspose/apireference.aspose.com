@@ -1,6 +1,6 @@
 ---
 title: SetSummaryInfo
-second_title: Aspose.Font for .NET API Reference
+second_title: Aspose.PUB for .NET API Reference
 description: Sets summary info
 type: docs
 weight: 130

@@ -1,6 +1,6 @@
 ---
 title: Subject
-second_title: Aspose.Font for .NET API Reference
+second_title: Aspose.PUB for .NET API Reference
 description: The subject of the document
 type: docs
 weight: 110

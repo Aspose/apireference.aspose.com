@@ -1,6 +1,6 @@
 ---
 title: SetCategory
-second_title: Aspose.Font for .NET API Reference
+second_title: Aspose.PUB for .NET API Reference
 description: Sets category
 type: docs
 weight: 60

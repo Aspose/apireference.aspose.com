@@ -1,6 +1,6 @@
 ---
 title: UserDefinedProperties
-second_title: Aspose.Font for .NET API Reference
+second_title: Aspose.PUB for .NET API Reference
 description: User defined properties
 type: docs
 weight: 50

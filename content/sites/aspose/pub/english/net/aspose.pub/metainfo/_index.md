@@ -1,6 +1,6 @@
 ---
 title: MetaInfo
-second_title: Aspose.Font for .NET API Reference
+second_title: Aspose.PUB for .NET API Reference
 description: Base class for summary info objects
 type: docs
 weight: 130

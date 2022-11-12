@@ -1,6 +1,6 @@
 ---
 title: TextGroup
-second_title: Aspose.Font for .NET API Reference
+second_title: Aspose.PUB for .NET API Reference
 description: Text group
 type: docs
 weight: 190

@@ -1,6 +1,6 @@
 ---
 title: GetProperty
-second_title: Aspose.Font for .NET API Reference
+second_title: Aspose.PUB for .NET API Reference
 description: Gets property by ID passed
 type: docs
 weight: 120

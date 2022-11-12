@@ -1,6 +1,6 @@
 ---
 title: UnorderedListChar
-second_title: Aspose.Font for .NET API Reference
+second_title: Aspose.PUB for .NET API Reference
 description: Character for unordered list in paragraph if paragraph is an unordered list
 type: docs
 weight: 130

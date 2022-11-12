@@ -1,6 +1,6 @@
 ---
 title: AddDefaultTextStyle
-second_title: Aspose.Font for .NET API Reference
+second_title: Aspose.PUB for .NET API Reference
 description: Adds default text style
 type: docs
 weight: 110

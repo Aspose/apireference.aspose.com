@@ -1,6 +1,6 @@
 ---
 title: ConvertException
-second_title: Aspose.Font for .NET API Reference
+second_title: Aspose.PUB for .NET API Reference
 description: Exception for conversion cases
 type: docs
 weight: 60

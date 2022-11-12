@@ -1,6 +1,6 @@
 ---
 title: SetDefaultStyleIndex
-second_title: Aspose.Font for .NET API Reference
+second_title: Aspose.PUB for .NET API Reference
 description: Sets index for default text style in Document.DefaultTextStyles array
 type: docs
 weight: 160

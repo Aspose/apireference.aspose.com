@@ -1,6 +1,6 @@
 ---
 title: SetIsItalic
-second_title: Aspose.Font for .NET API Reference
+second_title: Aspose.PUB for .NET API Reference
 description: Sets is text italic
 type: docs
 weight: 240

@@ -1,6 +1,6 @@
 ---
 title: BaseStyle
-second_title: Aspose.Font for .NET API Reference
+second_title: Aspose.PUB for .NET API Reference
 description: Declares base functionality for PUB styles
 type: docs
 weight: 20

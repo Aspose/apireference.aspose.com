@@ -1,6 +1,6 @@
 ---
 title: SetLastAuthor
-second_title: Aspose.Font for .NET API Reference
+second_title: Aspose.PUB for .NET API Reference
 description: Sets last author of the document
 type: docs
 weight: 180

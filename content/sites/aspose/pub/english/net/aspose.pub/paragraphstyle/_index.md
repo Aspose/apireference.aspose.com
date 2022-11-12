@@ -1,6 +1,6 @@
 ---
 title: ParagraphStyle
-second_title: Aspose.Font for .NET API Reference
+second_title: Aspose.PUB for .NET API Reference
 description: This class describes style of PUB paragraph
 type: docs
 weight: 150

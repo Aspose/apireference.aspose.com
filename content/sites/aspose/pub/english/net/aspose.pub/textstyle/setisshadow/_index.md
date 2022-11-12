@@ -1,6 +1,6 @@
 ---
 title: SetIsShadow
-second_title: Aspose.Font for .NET API Reference
+second_title: Aspose.PUB for .NET API Reference
 description: Sets is text shadowed
 type: docs
 weight: 260

@@ -1,6 +1,6 @@
 ---
 title: SetIsEmboss
-second_title: Aspose.Font for .NET API Reference
+second_title: Aspose.PUB for .NET API Reference
 description: Sets is text embossed
 type: docs
 weight: 220

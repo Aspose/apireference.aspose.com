@@ -1,6 +1,6 @@
 ---
 title: Language
-second_title: Aspose.Font for .NET API Reference
+second_title: Aspose.PUB for .NET API Reference
 description: Language value
 type: docs
 weight: 40
