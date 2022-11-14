@@ -3,7 +3,7 @@ title: Skew
 second_title: Aspose.OCR for .NET API Reference
 description: Gets skew angle.
 type: docs
-weight: 60
+weight: 70
 url: /net/aspose.ocr/recognitionresult/skew/
 ---
 ## RecognitionResult.Skew property

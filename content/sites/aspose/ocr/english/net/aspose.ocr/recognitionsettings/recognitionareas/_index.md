@@ -1,14 +1,14 @@
 ---
 title: RecognitionAreas
 second_title: Aspose.OCR for .NET API Reference
-description: Gets or sets the list of text areas for processing.  Allows to manually specify the areas with text for more accurate recognition. If custom areas are set DetectAreasaspose.ocr/recognitionsettings/detectareas and AutoSkew properties will be ignored.  Disables DetectAreas and AutoSkew.
+description: Gets or sets the list of text areas for processing.  Allows to manually specify the areas with text for more accurate recognition. If custom areas are set DetectAreas and AutoSkew properties will be ignored.  Disables DetectAreas and AutoSkew.
 type: docs
-weight: 30
+weight: 20
 url: /net/aspose.ocr/recognitionsettings/recognitionareas/
 ---
 ## RecognitionSettings.RecognitionAreas property
 
-Gets or sets the list of text areas for processing.  Allows to manually specify the areas with text for more accurate recognition. If custom areas are set [`DetectAreas`](../detectareas) and !:AutoSkew properties will be ignored.  Disables DetectAreas and AutoSkew.
+Gets or sets the list of text areas for processing.  Allows to manually specify the areas with text for more accurate recognition. If custom areas are set DetectAreas and !:AutoSkew properties will be ignored.  Disables DetectAreas and AutoSkew.
 
 ```csharp
 public List<Rectangle> RecognitionAreas { set; }

@@ -6,7 +6,7 @@ type: docs
 weight: 80
 url: /net/aspose.ocr/asposeocr/recognizeimage/
 ---
-## RecognizeImage(string) {#recognizeimage_8}
+## RecognizeImage(string) {#recognizeimage_5}
 
 Recognizes text on image.
 
@@ -65,7 +65,7 @@ Recognizes image with the ability to specify [`RecognitionSettings`](../../recog
 
 ---
 
-## RecognizeImage(MemoryStream) {#recognizeimage_6}
+## RecognizeImage(MemoryStream) {#recognizeimage_4}
 
 Recognizes text on image.
 

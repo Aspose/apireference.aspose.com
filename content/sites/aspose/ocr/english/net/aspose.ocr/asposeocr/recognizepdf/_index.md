@@ -6,18 +6,17 @@ type: docs
 weight: 130
 url: /net/aspose.ocr/asposeocr/recognizepdf/
 ---
-## RecognizePdf(MemoryStream, DocumentRecognitionSettings) {#recognizepdf}
+## RecognizePdf(string, DocumentRecognitionSettings) {#recognizepdf_1}
 
 Recognize text from scanned pdf (extract images).  Recognizes pdf file with the ability to specify [`RecognitionSettings`](../../recognitionsettings). Supports Scanned PDF only. Doesn't supports Searchable PDF.
 
 ```csharp
-public List<RecognitionResult> RecognizePdf(MemoryStream stream, 
-    DocumentRecognitionSettings settings)
+public List<RecognitionResult> RecognizePdf(string fullPath, DocumentRecognitionSettings settings)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| stream | MemoryStream | Memory stream with the pdf file. |
+| fullPath | String | Full path to the image. |
 | settings | DocumentRecognitionSettings | Recognition settings. |
 
 ### Return Value
@@ -34,17 +33,18 @@ The [`RecognitionResult`](../../recognitionresult) object with image recognition
 
 ---
 
-## RecognizePdf(string, DocumentRecognitionSettings) {#recognizepdf_1}
+## RecognizePdf(MemoryStream, DocumentRecognitionSettings) {#recognizepdf}
 
 Recognize text from scanned pdf (extract images).  Recognizes pdf file with the ability to specify [`RecognitionSettings`](../../recognitionsettings). Supports Scanned PDF only. Doesn't supports Searchable PDF.
 
 ```csharp
-public List<RecognitionResult> RecognizePdf(string fullPath, DocumentRecognitionSettings settings)
+public List<RecognitionResult> RecognizePdf(MemoryStream stream, 
+    DocumentRecognitionSettings settings)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fullPath | String | Full path to the image. |
+| stream | MemoryStream | Memory stream with the pdf file. |
 | settings | DocumentRecognitionSettings | Recognition settings. |
 
 ### Return Value

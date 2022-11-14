@@ -6,7 +6,7 @@ type: docs
 weight: 150
 url: /net/aspose.ocr/asposeocr/recognizetiff/
 ---
-## AsposeOcr.RecognizeTiff method
+## RecognizeTiff(string, DocumentRecognitionSettings) {#recognizetiff_1}
 
 Recognize text from multi-page TIFF image.  Recognizes TIFF file with the ability to specify [`DocumentRecognitionSettings`](../../documentrecognitionsettings). Supports TIFF (TIF) only. Doesn't supports other image types.
 
@@ -17,6 +17,34 @@ public List<RecognitionResult> RecognizeTiff(string fullPath, DocumentRecognitio
 | Parameter | Type | Description |
 | --- | --- | --- |
 | fullPath | String | Full path to the image. |
+| settings | DocumentRecognitionSettings | Recognition settings. |
+
+### Return Value
+
+The [`RecognitionResult`](../../recognitionresult) list of objects with image recognition results.
+
+### See Also
+
+* class [RecognitionResult](../../recognitionresult)
+* class [DocumentRecognitionSettings](../../documentrecognitionsettings)
+* class [AsposeOcr](../../asposeocr)
+* namespace [Aspose.OCR](../../asposeocr)
+* assembly [Aspose.OCR](../../../)
+
+---
+
+## RecognizeTiff(MemoryStream, DocumentRecognitionSettings) {#recognizetiff}
+
+Recognize text from multi-page TIFF image.  Recognizes TIFF file with the ability to specify [`DocumentRecognitionSettings`](../../documentrecognitionsettings). Supports TIFF (TIF) only. Doesn't supports other image types.
+
+```csharp
+public List<RecognitionResult> RecognizeTiff(MemoryStream stream, 
+    DocumentRecognitionSettings settings)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| stream | MemoryStream | Memory stream with the TIFF file. |
 | settings | DocumentRecognitionSettings | Recognition settings. |
 
 ### Return Value

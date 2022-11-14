@@ -3,7 +3,7 @@ title: RecognitionCharactersList
 second_title: Aspose.OCR for .NET API Reference
 description: A set of characters found by the recognition algorithm and arranged in descending order of probability.
 type: docs
-weight: 30
+weight: 40
 url: /net/aspose.ocr/recognitionresult/recognitioncharacterslist/
 ---
 ## RecognitionResult.RecognitionCharactersList property
