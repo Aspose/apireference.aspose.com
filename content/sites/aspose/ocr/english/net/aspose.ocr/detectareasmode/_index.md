@@ -23,6 +23,7 @@ public enum DetectAreasMode
 | PHOTO | `2` | Detects paragraphs uses NN model for photos. Better for image with a lot of pictures and other not text objects. |
 | COMBINE | `3` | Detects paragraphs with text and then uses other NN model to detect areas inside of paragraphs. Better for images with complex structure. |
 | TABLE | `4` | Detects cells with text. Preferable mode for images with table structure. |
+| CURVED_TEXT | `5` | Detects lines and recognizes text on curved images. Preferred mode for photos of book and magazine pages. |
 
 ### Remarks
 
