@@ -3,7 +3,7 @@ title: UnderlineThickness
 second_title: Aspose.Font for .NET API Reference
 description: Gets FWord underlineThickness value.
 type: docs
-weight: 100
+weight: 110
 url: /net/aspose.font.ttftables/ttfposttable/underlinethickness/
 ---
 ## TtfPostTable.UnderlineThickness property

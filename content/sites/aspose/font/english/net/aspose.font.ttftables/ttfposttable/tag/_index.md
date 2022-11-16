@@ -3,7 +3,7 @@ title: Tag
 second_title: Aspose.Font for .NET API Reference
 description: Gets table tag.
 type: docs
-weight: 140
+weight: 150
 url: /net/aspose.font.ttftables/ttfposttable/tag/
 ---
 ## TtfPostTable.Tag property
