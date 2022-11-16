@@ -3,7 +3,7 @@ title: GetAllGlyphIndexesForGlyphName
 second_title: Aspose.Font for .NET API Reference
 description: Gets array of glyphs indexes by glyph name
 type: docs
-weight: 110
+weight: 120
 url: /net/aspose.font.ttftables/ttfposttable/getallglyphindexesforglyphname/
 ---
 ## TtfPostTable.GetAllGlyphIndexesForGlyphName method

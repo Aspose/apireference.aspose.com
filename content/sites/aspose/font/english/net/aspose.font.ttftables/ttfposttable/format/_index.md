@@ -1,14 +1,14 @@
 ---
 title: Format
 second_title: Aspose.Font for .NET API Reference
-description: Gets fixed formatversion of this table.
+description: Gets fixed formatversion of this table. Deprecated use TableFormataspose.font.ttftables/ttfposttable/tableformat/ property
 type: docs
 weight: 10
 url: /net/aspose.font.ttftables/ttfposttable/format/
 ---
 ## TtfPostTable.Format property
 
-Gets fixed format(version) of this table.
+Gets fixed format(version) of this table. Deprecated, use [`TableFormat`](../tableformat/) property
 
 ```csharp
 public float Format { get; }
