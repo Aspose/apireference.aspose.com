@@ -43,7 +43,8 @@ Create, edit or convert Excel spreadsheets in your application. Includes 10 indi
 {{< blocks/product-item title="C++" href="/cells/cpp/" class="btn-c" >}}
 {{< blocks/product-item title="NODE.JS" href="/cells/nodejs/" class="btn-nodejs" >}}
 {{< blocks/product-item title="PHP" href="/cells/php/" class="btn-php" >}}
-{{< blocks/product-item title="PYTHON" href="/cells/python-java/" class="btn-python" >}}
+{{< blocks/product-item title="PYTHON via Java" href="/cells/python-java/" class="btn-python" >}}
+{{< blocks/product-item title="PYTHON via .NET" href="/cells/python-net/" class="btn-python" >}}
 
 {{< /blocks/product-card >}}
 
