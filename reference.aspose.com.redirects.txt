@@ -88,5 +88,6 @@ rewrite ^/(net|java|cpp|php|nodejs|androidjava|python)/(words|pdf|cells|email|sl
 rewrite (net|java)/(viewer|annotation|conversion|comparison|signature|assembly|metadata|search|parser|watermark|editor|merger|redaction|classification)(.*) https://reference.aspose.com/$2/$1$3 permanent;
 rewrite diagram/nodejs/aspose.diagram/(.*) https://reference.aspose.com/diagram/nodejs/$1 permanent;
 rewrite ^/(.*)/package-summary https://reference.aspose.com/$1/ permanent;
+rewrite ^/(.*)/package-frame https://reference.aspose.com/$1/ permanent;
 rewrite ^/admin(.*) https://reference3.aspose.com/admin$1 permanent;
 rewrite (.*)/python(?!-java)(?!-net)(.*) https://reference.aspose.com/$1/python-java$2 permanent;
