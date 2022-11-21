@@ -19,6 +19,7 @@ Represents "post" table of the TTF font file
 | --- | --- |
 | [getTag()](#getTag--) | Gets table tag. |
 | [getFormat()](#getFormat--) | Gets fixed format(version) of this table. |
+| [getTableFormat()](#getTableFormat--) | Gets fixed format (version) of this table. |
 | [getItalicAngle()](#getItalicAngle--) | Gets fixed italicAngle Italic angle in degrees. |
 | [getUnderlinePosition()](#getUnderlinePosition--) | Gets FWord underlinePosition Underline position. |
 | [getUnderlineThickness()](#getUnderlineThickness--) | Gets FWord underlineThickness Underline thickness. |
@@ -51,6 +52,16 @@ Gets fixed format(version) of this table.
 
 **Returns:**
 float - Fixed format(version) of this table.
+### getTableFormat() {#getTableFormat--}
+```
+public Version16Dot16 getTableFormat()
+```
+
+
+Gets fixed format (version) of this table. Use properties MajorNumber and MinorNUmber of object  Version16Dot16  in hexademical notation to detect version used.
+
+**Returns:**
+[Version16Dot16](../../com.aspose.font/version16dot16) - Fixed format (version) of this table.
 ### getItalicAngle() {#getItalicAngle--}
 ```
 public float getItalicAngle()
