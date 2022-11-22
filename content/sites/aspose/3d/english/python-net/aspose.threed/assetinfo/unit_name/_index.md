@@ -12,7 +12,7 @@ is_root: false
 
 
 Gets or sets the unit of length used in this asset.
-            e.g. cm/m/km/inch/feet
+e.g. cm/m/km/inch/feet
 
 ### See Also
 * module [aspose.threed](../../)

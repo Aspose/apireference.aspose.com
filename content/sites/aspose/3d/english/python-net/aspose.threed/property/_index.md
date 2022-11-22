@@ -14,6 +14,11 @@ Class to hold user-defined properties.
 
 
 
+**Inheritance:** [Property](/3d/python-net/aspose.threed/property) → 
+[A3DObject](/3d/python-net/aspose.threed/a3dobject)
+
+
+
 The Property type exposes the following members:
 
 ### Properties

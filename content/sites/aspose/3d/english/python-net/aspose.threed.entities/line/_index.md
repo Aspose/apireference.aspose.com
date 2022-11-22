@@ -11,8 +11,16 @@ is_root: false
 ## Line class
 
 A polyline is a path defined by a set of points with [Geometry.control_points](/3d/python-net/aspose.threed.entities/geometry#control_points), and connected by [Line.segments](/3d/python-net/aspose.threed.entities/line#segments),
-            which means it can also be a set of connected line segments.
-            The line is usually a linear object, which means it cannot be used to represent a curve, in order to represent a curve, uses [NurbsCurve](/3d/python-net/aspose.threed.entities/nurbscurve).
+which means it can also be a set of connected line segments.
+The line is usually a linear object, which means it cannot be used to represent a curve, in order to represent a curve, uses [NurbsCurve](/3d/python-net/aspose.threed.entities/nurbscurve).
+
+
+
+**Inheritance:** [Line](/3d/python-net/aspose.threed.entities/line) → 
+[Curve](/3d/python-net/aspose.threed.entities/curve) → 
+[Entity](/3d/python-net/aspose.threed/entity) → 
+[SceneObject](/3d/python-net/aspose.threed/sceneobject) → 
+[A3DObject](/3d/python-net/aspose.threed/a3dobject)
 
 
 
@@ -46,7 +54,7 @@ The Line type exposes the following members:
 | [remove_property(property)](/3d/python-net/aspose.threed.entities/line/remove_property/#str) | Remove the specified property identified by name |
 | [get_property(property)](/3d/python-net/aspose.threed.entities/line/get_property/#str) | Get the value of specified property |
 | [set_property(property, value)](/3d/python-net/aspose.threed.entities/line/set_property/#str-any) | Sets the value of specified property |
-| [find_property(property_name)](/3d/python-net/aspose.threed.entities/line/find_property/#str) | Finds the property.<br/>            It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) <br/>            or native property(Identified by its name) |
+| [find_property(property_name)](/3d/python-net/aspose.threed.entities/line/find_property/#str) | Finds the property.<br/>It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) <br/>or native property(Identified by its name) |
 | [get_bounding_box()](/3d/python-net/aspose.threed.entities/line/get_bounding_box/#) | Gets the bounding box of current entity in its object space coordinate system. |
 | [get_entity_renderer_key()](/3d/python-net/aspose.threed.entities/line/get_entity_renderer_key/#) | Gets the key of the entity renderer registered in the renderer |
 | [from_points(points)](/3d/python-net/aspose.threed.entities/line/from_points/#Aspose.ThreeD.Utilities.Vector3[]) | Construct a [Line](/3d/python-net/aspose.threed.entities/line) instance from a set of points. |

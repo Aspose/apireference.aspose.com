@@ -12,8 +12,8 @@ is_root: false
 
 
 Gets or sets whether to keep the builtin properties in GlobalSettings which have a native property replacement in [AssetInfo](/3d/python-net/aspose.threed/assetinfo).
-            Set this to true if you want the full properties in GlobalSettings
-            Default value is false
+Set this to true if you want the full properties in GlobalSettings
+Default value is false
 
 ### See Also
 * module [aspose.threed.formats](../../)

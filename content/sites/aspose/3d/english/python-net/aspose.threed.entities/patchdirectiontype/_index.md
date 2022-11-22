@@ -20,8 +20,8 @@ The PatchDirectionType type exposes the following members:
 | Field | Description |
 | :- | :- |
 | BEZIER | [The patch direction is a Bezier curve.](https://en.wikipedia.org/wiki/B%C3%A9zier_curve) |
-| QUADRATIC_BEZIER | The quadratic bezier patch.<br/>            [The patch direction is a quadratic curve.](https://en.wikipedia.org/wiki/B%C3%A9zier_curve#Quadratic_curves) |
-| CARDINAL_SPLINE | cardinal patch.<br/>            [The patch direction is a cardinal spline.](https://en.wikipedia.org/wiki/Cubic_Hermite_spline#Cardinal_spline) |
+| QUADRATIC_BEZIER | The quadratic bezier patch.<br/>[The patch direction is a quadratic curve.](https://en.wikipedia.org/wiki/B%C3%A9zier_curve#Quadratic_curves) |
+| CARDINAL_SPLINE | cardinal patch.<br/>[The patch direction is a cardinal spline.](https://en.wikipedia.org/wiki/Cubic_Hermite_spline#Cardinal_spline) |
 | BASIS_SPLINE | [The patch direction is a basis spline.](https://en.wikipedia.org/wiki/B-spline) |
 | LINEAR | [The patch direction is a linear curve.](https://en.wikipedia.org/wiki/B%C3%A9zier_curve#Linear_curves) |
 

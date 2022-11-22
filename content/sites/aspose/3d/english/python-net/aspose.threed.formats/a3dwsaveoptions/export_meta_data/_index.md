@@ -12,7 +12,7 @@ is_root: false
 
 
 Export meta data associated with Scene/Node to client
-            Default value is true
+Default value is true
 
 ### See Also
 * module [aspose.threed.formats](../../)

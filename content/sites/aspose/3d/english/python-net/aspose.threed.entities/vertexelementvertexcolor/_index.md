@@ -14,6 +14,12 @@ Defines the vertex color for specified components
 
 
 
+**Inheritance:** [VertexElementVertexColor](/3d/python-net/aspose.threed.entities/vertexelementvertexcolor) → 
+[VertexElementVector4](/3d/python-net/aspose.threed.entities/vertexelementvector4) → 
+[VertexElement](/3d/python-net/aspose.threed.entities/vertexelement)
+
+
+
 The VertexElementVertexColor type exposes the following members:
 
 ### Constructors

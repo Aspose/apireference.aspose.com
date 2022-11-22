@@ -14,6 +14,12 @@ Defines blend weight for specified components.
 
 
 
+**Inheritance:** [VertexElementWeight](/3d/python-net/aspose.threed.entities/vertexelementweight) → 
+[VertexElementDoublesTemplate](/3d/python-net/aspose.threed.entities/vertexelementdoublestemplate) → 
+[VertexElement](/3d/python-net/aspose.threed.entities/vertexelement)
+
+
+
 The VertexElementWeight type exposes the following members:
 
 ### Constructors

@@ -12,8 +12,8 @@ is_root: false
 
 
 Get or set if the key frame is flat.
-            Key frame should be flat if next or previous key frame has the same value.
-            Flat key frame has flat tangents and fixed interpolation.
+Key frame should be flat if next or previous key frame has the same value.
+Flat key frame has flat tangents and fixed interpolation.
 
 ### See Also
 * module [aspose.threed.animation](../../)

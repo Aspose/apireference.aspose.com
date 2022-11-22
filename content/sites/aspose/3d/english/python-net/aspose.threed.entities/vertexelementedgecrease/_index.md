@@ -14,6 +14,12 @@ Defines the edge crease for specified components
 
 
 
+**Inheritance:** [VertexElementEdgeCrease](/3d/python-net/aspose.threed.entities/vertexelementedgecrease) → 
+[VertexElementDoublesTemplate](/3d/python-net/aspose.threed.entities/vertexelementdoublestemplate) → 
+[VertexElement](/3d/python-net/aspose.threed.entities/vertexelement)
+
+
+
 The VertexElementEdgeCrease type exposes the following members:
 
 ### Constructors

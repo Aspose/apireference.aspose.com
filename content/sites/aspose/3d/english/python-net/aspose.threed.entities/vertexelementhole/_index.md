@@ -14,6 +14,11 @@ Defines if specified polygon is hole
 
 
 
+**Inheritance:** [VertexElementHole](/3d/python-net/aspose.threed.entities/vertexelementhole) → 
+[VertexElement](/3d/python-net/aspose.threed.entities/vertexelement)
+
+
+
 The VertexElementHole type exposes the following members:
 
 ### Constructors

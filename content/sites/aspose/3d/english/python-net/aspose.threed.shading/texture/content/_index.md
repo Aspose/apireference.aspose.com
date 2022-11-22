@@ -12,7 +12,7 @@ is_root: false
 
 
 Gets or sets the binary content of the texture.
-            The embedded texture content is optional, user should load texture from external file if this is missing.
+The embedded texture content is optional, user should load texture from external file if this is missing.
 
 ### See Also
 * module [aspose.threed.shading](../../)

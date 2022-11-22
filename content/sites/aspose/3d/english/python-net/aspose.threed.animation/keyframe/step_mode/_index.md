@@ -12,9 +12,9 @@ is_root: false
 
 
 Gets or sets the key's step mode.
-            If the interpolation type is [Interpolation.CONSTANT](/3d/python-net/aspose.threed.animation/interpolation#CONSTANT), list.data[index] decides which key-frame's value will be used during interpolation.  
-            A [StepMode.PREVIOUS_VALUE](/3d/python-net/aspose.threed.animation/stepmode#PREVIOUS_VALUE) means the left key-frame's value will be used  
-            A [StepMode.NEXT_VALUE](/3d/python-net/aspose.threed.animation/stepmode#NEXT_VALUE) means the next right key-frame's value will be used
+If the interpolation type is [Interpolation.CONSTANT](/3d/python-net/aspose.threed.animation/interpolation#CONSTANT), list.data[index] decides which key-frame's value will be used during interpolation.  
+A [StepMode.PREVIOUS_VALUE](/3d/python-net/aspose.threed.animation/stepmode#PREVIOUS_VALUE) means the left key-frame's value will be used  
+A [StepMode.NEXT_VALUE](/3d/python-net/aspose.threed.animation/stepmode#NEXT_VALUE) means the next right key-frame's value will be used
 
 ### See Also
 * module [aspose.threed.animation](../../)

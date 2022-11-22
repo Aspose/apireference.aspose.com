@@ -12,7 +12,7 @@ is_root: false
 
 
 Generate materials with random colors for each objects in the scene if color table is not exported within the RVM file.
-            Default value is true
+Default value is true
 
 ### See Also
 * module [aspose.threed.formats](../../)

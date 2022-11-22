@@ -12,7 +12,7 @@ is_root: false
 
 
 Gets or sets whether to normalize the normal vector during the loading.
-            Default value is true.
+Default value is true.
 
 ### See Also
 * module [aspose.threed.formats](../../)

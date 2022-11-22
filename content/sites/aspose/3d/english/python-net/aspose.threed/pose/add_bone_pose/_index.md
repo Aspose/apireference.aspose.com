@@ -11,7 +11,7 @@ is_root: false
 ## add_bone_pose(node, matrix) {#Node-aspose.threed.utilities.Matrix4}
 
 Saves pose transformation matrix for the given bone node. 
-            Global transformation matrix is implied.
+Global transformation matrix is implied.
 
 
 

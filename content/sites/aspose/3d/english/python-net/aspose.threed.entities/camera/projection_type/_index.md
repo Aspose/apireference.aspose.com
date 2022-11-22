@@ -12,7 +12,7 @@ is_root: false
 
 
 Gets or sets the camera's projection type.
-            By default the perspective projection is used.
+By default the perspective projection is used.
 
 ### See Also
 * module [aspose.threed.entities](../../)

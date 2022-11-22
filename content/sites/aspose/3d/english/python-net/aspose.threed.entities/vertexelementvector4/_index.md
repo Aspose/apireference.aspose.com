@@ -14,6 +14,11 @@ A helper class for defining concrete [VertexElement](/3d/python-net/aspose.three
 
 
 
+**Inheritance:** [VertexElementVector4](/3d/python-net/aspose.threed.entities/vertexelementvector4) → 
+[VertexElement](/3d/python-net/aspose.threed.entities/vertexelement)
+
+
+
 The VertexElementVector4 type exposes the following members:
 
 ### Properties

@@ -12,7 +12,7 @@ is_root: false
 
 
 Gets or sets the prefix of the attributes that were defined in external attribute files,
-            The prefix are used to avoid name conflicts, default value is "rvm:"
+The prefix are used to avoid name conflicts, default value is "rvm:"
 
 ### See Also
 * module [aspose.threed.formats](../../)

@@ -12,8 +12,8 @@ is_root: false
 
 
 Sets this to true to suppress trial exception for unlicensed usage, but the restrictions will not be lifted.
-            In order to lift the restrictions, please use a proper license.
-            And sets this to true also means you're aware of the unlicensed restrictions.
+In order to lift the restrictions, please use a proper license.
+And sets this to true also means you're aware of the unlicensed restrictions.
 
 ### See Also
 * module [aspose.threed](../../)

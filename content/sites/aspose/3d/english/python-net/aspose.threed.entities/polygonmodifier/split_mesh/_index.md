@@ -11,8 +11,8 @@ is_root: false
 ## split_mesh(mesh, policy) {#Mesh-SplitMeshPolicy}
 
 Split mesh into sub-meshes by [VertexElementMaterial](/3d/python-net/aspose.threed.entities/vertexelementmaterial).
-            Each sub-mesh will use only one material.
-            The original mesh will not get changed.
+Each sub-mesh will use only one material.
+The original mesh will not get changed.
 
 ### Returns 
 
@@ -35,8 +35,8 @@ def split_mesh(self, mesh, policy):
 ## split_mesh(scene, policy, remove_old_mesh) {#Scene-SplitMeshPolicy-bool}
 
 Split mesh into sub-meshes by [VertexElementMaterial](/3d/python-net/aspose.threed.entities/vertexelementmaterial).
-            Each sub-mesh will use only one material.
-            Perform mesh splitting on all nodes of the scene.
+Each sub-mesh will use only one material.
+Perform mesh splitting on all nodes of the scene.
 
 
 
@@ -56,8 +56,8 @@ def split_mesh(self, scene, policy, remove_old_mesh):
 ## split_mesh(node, policy, create_child_nodes, remove_old_mesh) {#Node-SplitMeshPolicy-bool-bool}
 
 Split mesh into sub-meshes by [VertexElementMaterial](/3d/python-net/aspose.threed.entities/vertexelementmaterial).
-            Each sub-mesh will use only one material.
-            Perform mesh splitting on a node
+Each sub-mesh will use only one material.
+Perform mesh splitting on a node
 
 
 

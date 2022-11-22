@@ -12,7 +12,7 @@ is_root: false
 
 
 The height of the rectangular torus.
-            Default value is 20
+Default value is 20
 
 ### See Also
 * module [aspose.threed.entities](../../)

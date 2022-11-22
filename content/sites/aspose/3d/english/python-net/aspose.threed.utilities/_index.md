@@ -20,7 +20,7 @@ All utility classes are defined in this namespace.
 | [FVector2](/3d/python-net/aspose.threed.utilities/fvector2) | A float vector with two components. |
 | [FVector3](/3d/python-net/aspose.threed.utilities/fvector3) | A float vector with three components. |
 | [FVector4](/3d/python-net/aspose.threed.utilities/fvector4) | A float vector with four components. |
-| [FileSystem](/3d/python-net/aspose.threed.utilities/filesystem) | File system encapsulation.<br/>            Aspose.3D will use this to read/write dependencies. |
+| [FileSystem](/3d/python-net/aspose.threed.utilities/filesystem) | File system encapsulation.<br/>Aspose.3D will use this to read/write dependencies. |
 | [IOUtils](/3d/python-net/aspose.threed.utilities/ioutils) | Utilities to write matrix/vector to binary writer |
 | [LocalFileSystem](/3d/python-net/aspose.threed.utilities/localfilesystem) | The [LocalFileSystem](/3d/python-net/aspose.threed.utilities/localfilesystem) will maps the read/write operations to local directory. |
 | [MathUtils](/3d/python-net/aspose.threed.utilities/mathutils) | A set of useful mathematical utilities. |
@@ -28,7 +28,7 @@ All utility classes are defined in this namespace.
 | [MemoryFileSystem](/3d/python-net/aspose.threed.utilities/memoryfilesystem) | The [MemoryFileSystem](/3d/python-net/aspose.threed.utilities/memoryfilesystem) will maps the read/write operations to memory. |
 | [ParseException](/3d/python-net/aspose.threed.utilities/parseexception) | Exception when Aspose.3D failed to parse the input. |
 | [Quaternion](/3d/python-net/aspose.threed.utilities/quaternion) | Quaternion is usually used to perform rotation in computer graphics. |
-| [RelativeRectangle](/3d/python-net/aspose.threed.utilities/relativerectangle) | Relative rectangle<br/>            The formula between relative component to absolute value is:<br/>            Scale * (Reference Width) + offset<br/>            So if we want it to represent an absolute value, leave all scale fields zero, and use offset fields instead. |
+| [RelativeRectangle](/3d/python-net/aspose.threed.utilities/relativerectangle) | Relative rectangle<br/>The formula between relative component to absolute value is:<br/>Scale * (Reference Width) + offset<br/>So if we want it to represent an absolute value, leave all scale fields zero, and use offset fields instead. |
 | [SemanticAttribute](/3d/python-net/aspose.threed.utilities/semanticattribute) | Allow user to use their own structure for static declaration of [VertexDeclaration](/3d/python-net/aspose.threed.utilities/vertexdeclaration) |
 | [TransformBuilder](/3d/python-net/aspose.threed.utilities/transformbuilder) | The [TransformBuilder](/3d/python-net/aspose.threed.utilities/transformbuilder) is used to build transform matrix by a chain of transformations. |
 | [Vector2](/3d/python-net/aspose.threed.utilities/vector2) | A vector with two components. |
@@ -38,7 +38,7 @@ All utility classes are defined in this namespace.
 | [VertexDeclaration](/3d/python-net/aspose.threed.utilities/vertexdeclaration) | The declaration of a custom defined vertex's structure |
 | [VertexField](/3d/python-net/aspose.threed.utilities/vertexfield) | Vertex's field memory layout description. |
 | [Watermark](/3d/python-net/aspose.threed.utilities/watermark) | Utility to encode/decode blind watermark  to/from a mesh. |
-| [ZipArchiveFileSystem](/3d/python-net/aspose.threed.utilities/ziparchivefilesystem) | File system to provide to the read-only access to speicified zip file or zip stream.<br/>            File system will be disposed after the open/save operation. |
+| [ZipArchiveFileSystem](/3d/python-net/aspose.threed.utilities/ziparchivefilesystem) | File system to provide to the read-only access to speicified zip file or zip stream.<br/>File system will be disposed after the open/save operation. |
 
 
 ### Enumerations

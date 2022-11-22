@@ -12,7 +12,7 @@ is_root: false
 
 
 Ignore the normal data that stored in STL file and recalculate the normal data based on the vertex position.
-            Default value is false
+Default value is false
 
 ### See Also
 * module [aspose.threed.formats](../../)

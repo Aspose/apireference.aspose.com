@@ -14,6 +14,12 @@ Defines tangent vectors for specified components.
 
 
 
+**Inheritance:** [VertexElementTangent](/3d/python-net/aspose.threed.entities/vertexelementtangent) → 
+[VertexElementVector4](/3d/python-net/aspose.threed.entities/vertexelementvector4) → 
+[VertexElement](/3d/python-net/aspose.threed.entities/vertexelement)
+
+
+
 The VertexElementTangent type exposes the following members:
 
 ### Constructors

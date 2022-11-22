@@ -14,6 +14,12 @@ A skin deformer contains multiple bones to work, each bone blends a part of the 
 
 
 
+**Inheritance:** [SkinDeformer](/3d/python-net/aspose.threed.deformers/skindeformer) → 
+[Deformer](/3d/python-net/aspose.threed.deformers/deformer) → 
+[A3DObject](/3d/python-net/aspose.threed/a3dobject)
+
+
+
 The SkinDeformer type exposes the following members:
 
 ### Constructors
@@ -39,7 +45,7 @@ The SkinDeformer type exposes the following members:
 | [remove_property(property)](/3d/python-net/aspose.threed.deformers/skindeformer/remove_property/#str) | Remove the specified property identified by name |
 | [get_property(property)](/3d/python-net/aspose.threed.deformers/skindeformer/get_property/#str) | Get the value of specified property |
 | [set_property(property, value)](/3d/python-net/aspose.threed.deformers/skindeformer/set_property/#str-any) | Sets the value of specified property |
-| [find_property(property_name)](/3d/python-net/aspose.threed.deformers/skindeformer/find_property/#str) | Finds the property.<br/>            It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) <br/>            or native property(Identified by its name) |
+| [find_property(property_name)](/3d/python-net/aspose.threed.deformers/skindeformer/find_property/#str) | Finds the property.<br/>It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) <br/>or native property(Identified by its name) |
 
 
 ### See Also

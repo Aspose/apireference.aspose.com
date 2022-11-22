@@ -11,7 +11,12 @@ is_root: false
 ## ZipArchiveFileSystem class
 
 File system to provide to the read-only access to speicified zip file or zip stream.
-            File system will be disposed after the open/save operation.
+File system will be disposed after the open/save operation.
+
+
+
+**Inheritance:** [ZipArchiveFileSystem](/3d/python-net/aspose.threed.utilities/ziparchivefilesystem) → 
+[FileSystem](/3d/python-net/aspose.threed.utilities/filesystem)
 
 
 

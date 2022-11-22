@@ -12,8 +12,8 @@ is_root: false
 
 
 Gets or sets the specular factor. 
-            The formula of specular:
-             SpecularColor * SpecularFactor * (N dot H) ^ Shininess
+The formula of specular:
+SpecularColor * SpecularFactor * (N dot H) ^ Shininess
 
 ### See Also
 * module [aspose.threed.shading](../../)

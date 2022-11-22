@@ -12,7 +12,7 @@ is_root: false
 
 
 Display a orientation box.
-            Default value is true.
+Default value is true.
 
 ### See Also
 * module [aspose.threed.formats](../../)

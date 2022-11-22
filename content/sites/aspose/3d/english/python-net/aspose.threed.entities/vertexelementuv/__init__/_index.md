@@ -11,7 +11,7 @@ is_root: false
 ## VertexElementUV() {#}
 
 Initializes a new instance of the [VertexElementUV](/3d/python-net/aspose.threed.entities/vertexelementuv) class.
-            The default texture mapping type is [TextureMapping.DIFFUSE](/3d/python-net/aspose.threed.entities/texturemapping#DIFFUSE)
+The default texture mapping type is [TextureMapping.DIFFUSE](/3d/python-net/aspose.threed.entities/texturemapping#DIFFUSE)
 
 
 

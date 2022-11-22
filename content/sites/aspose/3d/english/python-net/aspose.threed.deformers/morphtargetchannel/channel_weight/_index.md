@@ -12,7 +12,7 @@ is_root: false
 
 
 Gets or sets the deformer weight of this channel. 
-            The weight is between 0.0 and 1.0
+The weight is between 0.0 and 1.0
 
 ### See Also
 * module [aspose.threed.deformers](../../)

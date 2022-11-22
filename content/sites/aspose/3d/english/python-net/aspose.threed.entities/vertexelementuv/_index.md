@@ -11,7 +11,13 @@ is_root: false
 ## VertexElementUV class
 
 Defines the UV coordinates for specified components.
-            A geometry can have multiple [VertexElementUV](/3d/python-net/aspose.threed.entities/vertexelementuv) elements, and each one have different [TextureMapping](/3d/python-net/aspose.threed.entities/texturemapping)s.
+A geometry can have multiple [VertexElementUV](/3d/python-net/aspose.threed.entities/vertexelementuv) elements, and each one have different [TextureMapping](/3d/python-net/aspose.threed.entities/texturemapping)s.
+
+
+
+**Inheritance:** [VertexElementUV](/3d/python-net/aspose.threed.entities/vertexelementuv) → 
+[VertexElementVector4](/3d/python-net/aspose.threed.entities/vertexelementvector4) → 
+[VertexElement](/3d/python-net/aspose.threed.entities/vertexelement)
 
 
 
@@ -20,7 +26,7 @@ The VertexElementUV type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [VertexElementUV()](/3d/python-net/aspose.threed.entities/vertexelementuv/__init__/#) | Initializes a new instance of the [VertexElementUV](/3d/python-net/aspose.threed.entities/vertexelementuv) class.<br/>            The default texture mapping type is [TextureMapping.DIFFUSE](/3d/python-net/aspose.threed.entities/texturemapping#DIFFUSE) |
+| [VertexElementUV()](/3d/python-net/aspose.threed.entities/vertexelementuv/__init__/#) | Initializes a new instance of the [VertexElementUV](/3d/python-net/aspose.threed.entities/vertexelementuv) class.<br/>The default texture mapping type is [TextureMapping.DIFFUSE](/3d/python-net/aspose.threed.entities/texturemapping#DIFFUSE) |
 | [VertexElementUV(texture_mapping)](/3d/python-net/aspose.threed.entities/vertexelementuv/__init__/#TextureMapping) | Initializes a new instance of the [VertexElementUV](/3d/python-net/aspose.threed.entities/vertexelementuv) class. |
 
 

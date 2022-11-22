@@ -12,7 +12,7 @@ is_root: false
 
 
 Display a simple UI in the scene.
-            Default value is true.
+Default value is true.
 
 ### See Also
 * module [aspose.threed.formats](../../)

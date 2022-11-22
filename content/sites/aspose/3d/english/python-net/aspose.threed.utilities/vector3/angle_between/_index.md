@@ -11,7 +11,7 @@ is_root: false
 ## angle_between(dir) {#Vector3}
 
 Calculate the inner angle between two direction
-            Two direction can be non-normalized vectors
+Two direction can be non-normalized vectors
 
 ### Returns 
 
@@ -33,7 +33,7 @@ def angle_between(self, dir):
 ## angle_between(dir, up) {#Vector3-Vector3}
 
 Calculate the inner angle between two direction
-            Two direction can be non-normalized vectors
+Two direction can be non-normalized vectors
 
 ### Returns 
 

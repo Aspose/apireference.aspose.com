@@ -14,6 +14,11 @@ Defines if specified components is visible
 
 
 
+**Inheritance:** [VertexElementVisibility](/3d/python-net/aspose.threed.entities/vertexelementvisibility) → 
+[VertexElement](/3d/python-net/aspose.threed.entities/vertexelement)
+
+
+
 The VertexElementVisibility type exposes the following members:
 
 ### Constructors

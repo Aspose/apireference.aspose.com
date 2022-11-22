@@ -12,7 +12,7 @@ is_root: false
 
 
 Gets or sets the theta start.
-            The default value is 0.
+The default value is 0.
 
 ### See Also
 * module [aspose.threed.entities](../../)

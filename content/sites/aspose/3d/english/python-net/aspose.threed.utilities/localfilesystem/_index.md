@@ -14,6 +14,11 @@ The [LocalFileSystem](/3d/python-net/aspose.threed.utilities/localfilesystem) wi
 
 
 
+**Inheritance:** [LocalFileSystem](/3d/python-net/aspose.threed.utilities/localfilesystem) → 
+[FileSystem](/3d/python-net/aspose.threed.utilities/filesystem)
+
+
+
 The LocalFileSystem type exposes the following members:
 
 ### Constructors

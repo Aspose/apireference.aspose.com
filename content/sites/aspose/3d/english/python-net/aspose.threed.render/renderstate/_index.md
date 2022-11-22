@@ -11,7 +11,7 @@ is_root: false
 ## RenderState class
 
 Render state for building the pipeline
-            The changes made on render state will not affect the created pipeline instances.
+The changes made on render state will not affect the created pipeline instances.
 
 
 

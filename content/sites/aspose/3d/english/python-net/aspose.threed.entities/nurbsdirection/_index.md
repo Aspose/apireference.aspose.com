@@ -11,7 +11,7 @@ is_root: false
 ## NurbsDirection class
 
 A 3D [NurbsSurface](/3d/python-net/aspose.threed.entities/nurbssurface) has two direction, the [NurbsSurface.u](/3d/python-net/aspose.threed.entities/nurbssurface#u) and [NurbsSurface.v](/3d/python-net/aspose.threed.entities/nurbssurface#v), the [NurbsDirection](/3d/python-net/aspose.threed.entities/nurbsdirection) defines data for each direction.
-            A direction is actually a NURBS curve, that means it's also defined by its [NurbsDirection.order](/3d/python-net/aspose.threed.entities/nurbsdirection#order), a [NurbsDirection.KnotVectors](/3d/python-net/aspose.threed.entities/nurbsdirection), and a set of weighted control points(defined in [NurbsSurface](/3d/python-net/aspose.threed.entities/nurbssurface)).
+A direction is actually a NURBS curve, that means it's also defined by its [NurbsDirection.order](/3d/python-net/aspose.threed.entities/nurbsdirection#order), a [NurbsDirection.KnotVectors](/3d/python-net/aspose.threed.entities/nurbsdirection), and a set of weighted control points(defined in [NurbsSurface](/3d/python-net/aspose.threed.entities/nurbssurface)).
 
 
 

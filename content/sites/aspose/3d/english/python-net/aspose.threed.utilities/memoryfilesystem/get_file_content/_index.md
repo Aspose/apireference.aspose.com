@@ -11,7 +11,7 @@ is_root: false
 ## get_file_content(file_name) {#str}
 
 Returns the raw content of the specified file.
-            Throw FileNotFoundException if the specified file is not existing.
+Throw FileNotFoundException if the specified file is not existing.
 
 ### Returns 
 

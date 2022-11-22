@@ -11,10 +11,18 @@ is_root: false
 ## Patch class
 
 A [Patch](/3d/python-net/aspose.threed.entities/patch) is a parametric modeling surface, similar to [NurbsSurface](/3d/python-net/aspose.threed.entities/nurbssurface), it's also defined by two 
-             [PatchDirection](/3d/python-net/aspose.threed.entities/patchdirection), the [Patch.u](/3d/python-net/aspose.threed.entities/patch#u) and [Patch.v](/3d/python-net/aspose.threed.entities/patch#v).
-            
-             But difference between [Patch](/3d/python-net/aspose.threed.entities/patch) and [NurbsSurface](/3d/python-net/aspose.threed.entities/nurbssurface) is that the [PatchDirection](/3d/python-net/aspose.threed.entities/patchdirection) curve 
-             can be one of [PatchDirectionType.BEZIER](/3d/python-net/aspose.threed.entities/patchdirectiontype#BEZIER), [PatchDirectionType.QUADRATIC_BEZIER](/3d/python-net/aspose.threed.entities/patchdirectiontype#QUADRATIC_BEZIER), [PatchDirectionType.BASIS_SPLINE](/3d/python-net/aspose.threed.entities/patchdirectiontype#BASIS_SPLINE), [PatchDirectionType.CARDINAL_SPLINE](/3d/python-net/aspose.threed.entities/patchdirectiontype#CARDINAL_SPLINE) and [PatchDirectionType.LINEAR](/3d/python-net/aspose.threed.entities/patchdirectiontype#LINEAR)
+[PatchDirection](/3d/python-net/aspose.threed.entities/patchdirection), the [Patch.u](/3d/python-net/aspose.threed.entities/patch#u) and [Patch.v](/3d/python-net/aspose.threed.entities/patch#v).
+
+But difference between [Patch](/3d/python-net/aspose.threed.entities/patch) and [NurbsSurface](/3d/python-net/aspose.threed.entities/nurbssurface) is that the [PatchDirection](/3d/python-net/aspose.threed.entities/patchdirection) curve 
+can be one of [PatchDirectionType.BEZIER](/3d/python-net/aspose.threed.entities/patchdirectiontype#BEZIER), [PatchDirectionType.QUADRATIC_BEZIER](/3d/python-net/aspose.threed.entities/patchdirectiontype#QUADRATIC_BEZIER), [PatchDirectionType.BASIS_SPLINE](/3d/python-net/aspose.threed.entities/patchdirectiontype#BASIS_SPLINE), [PatchDirectionType.CARDINAL_SPLINE](/3d/python-net/aspose.threed.entities/patchdirectiontype#CARDINAL_SPLINE) and [PatchDirectionType.LINEAR](/3d/python-net/aspose.threed.entities/patchdirectiontype#LINEAR)
+
+
+
+**Inheritance:** [Patch](/3d/python-net/aspose.threed.entities/patch) → 
+[Geometry](/3d/python-net/aspose.threed.entities/geometry) → 
+[Entity](/3d/python-net/aspose.threed/entity) → 
+[SceneObject](/3d/python-net/aspose.threed/sceneobject) → 
+[A3DObject](/3d/python-net/aspose.threed/a3dobject)
 
 
 
@@ -57,7 +65,7 @@ The Patch type exposes the following members:
 | [create_element_uv(uv_mapping, mapping_mode, reference_mode)](/3d/python-net/aspose.threed.entities/patch/create_element_uv/#TextureMapping-MappingMode-ReferenceMode) | Creates a [VertexElementUV](/3d/python-net/aspose.threed.entities/vertexelementuv) with given texture mapping type. |
 | [get_property(property)](/3d/python-net/aspose.threed.entities/patch/get_property/#str) | Get the value of specified property |
 | [set_property(property, value)](/3d/python-net/aspose.threed.entities/patch/set_property/#str-any) | Sets the value of specified property |
-| [find_property(property_name)](/3d/python-net/aspose.threed.entities/patch/find_property/#str) | Finds the property.<br/>            It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) <br/>            or native property(Identified by its name) |
+| [find_property(property_name)](/3d/python-net/aspose.threed.entities/patch/find_property/#str) | Finds the property.<br/>It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) <br/>or native property(Identified by its name) |
 | [get_bounding_box()](/3d/python-net/aspose.threed.entities/patch/get_bounding_box/#) | Gets the bounding box of current entity in its object space coordinate system. |
 | [get_entity_renderer_key()](/3d/python-net/aspose.threed.entities/patch/get_entity_renderer_key/#) | Gets the key of the entity renderer registered in the renderer |
 | [get_element(type)](/3d/python-net/aspose.threed.entities/patch/get_element/#VertexElementType) | Gets a vertex element with specified type |

@@ -11,7 +11,7 @@ is_root: false
 ## FileSystem class
 
 File system encapsulation.
-            Aspose.3D will use this to read/write dependencies.
+Aspose.3D will use this to read/write dependencies.
 
 
 

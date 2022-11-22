@@ -11,7 +11,7 @@ is_root: false
 ## get_format_by_extension(extension_name) {#str}
 
 Gets the preferred file format from the file extension name
-            The extension name should starts with a dot('.').
+The extension name should starts with a dot('.').
 
 ### Returns 
 

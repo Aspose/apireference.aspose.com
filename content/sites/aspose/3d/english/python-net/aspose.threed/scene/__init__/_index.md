@@ -42,7 +42,7 @@ def __init__(self, entity):
 ## Scene(file_name) {#str}
 
 Initializes a new instance of the [Scene](/3d/python-net/aspose.threed/scene) class and open the file immediately.
-            This is an obsoleted constructor, please use [Scene.from_file(file_name)](/3d/python-net/aspose.threed/scene/from_file).
+This is an obsoleted constructor, please use [Scene.from_file(file_name)](/3d/python-net/aspose.threed/scene/from_file).
 
 
 

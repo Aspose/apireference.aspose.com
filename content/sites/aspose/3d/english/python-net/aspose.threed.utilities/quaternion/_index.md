@@ -42,7 +42,7 @@ The Quaternion type exposes the following members:
 | [conjugate()](/3d/python-net/aspose.threed.utilities/quaternion/conjugate/#) | Returns a conjugate quaternion of current quaternion |
 | [inverse()](/3d/python-net/aspose.threed.utilities/quaternion/inverse/#) | Returns a inverse quaternion of current quaternion |
 | [dot(q)](/3d/python-net/aspose.threed.utilities/quaternion/dot/#Quaternion) |  |
-| [euler_angles()](/3d/python-net/aspose.threed.utilities/quaternion/euler_angles/#) | Converts quaternion to rotation represented by Euler angles<br/>            All components are in radian |
+| [euler_angles()](/3d/python-net/aspose.threed.utilities/quaternion/euler_angles/#) | Converts quaternion to rotation represented by Euler angles<br/>All components are in radian |
 | [normalize()](/3d/python-net/aspose.threed.utilities/quaternion/normalize/#) | Normalize the quaternion |
 | [to_angle_axis(angle, axis)](/3d/python-net/aspose.threed.utilities/quaternion/to_angle_axis/#Double&-Vector3&) |  |
 | [concat(rhs)](/3d/python-net/aspose.threed.utilities/quaternion/concat/#Quaternion) |  |

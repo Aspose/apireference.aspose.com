@@ -14,6 +14,12 @@ Material for physically based rendering based on diffuse color/specular/glossine
 
 
 
+**Inheritance:** [PbrSpecularMaterial](/3d/python-net/aspose.threed.shading/pbrspecularmaterial) → 
+[Material](/3d/python-net/aspose.threed.shading/material) → 
+[A3DObject](/3d/python-net/aspose.threed/a3dobject)
+
+
+
 The PbrSpecularMaterial type exposes the following members:
 
 ### Constructors
@@ -32,7 +38,7 @@ The PbrSpecularMaterial type exposes the following members:
 | [MAP_EMISSIVE](/3d/python-net/aspose.threed.shading/pbrspecularmaterial/MAP_EMISSIVE) |  |
 | [MAP_AMBIENT](/3d/python-net/aspose.threed.shading/pbrspecularmaterial/MAP_AMBIENT) |  |
 | [MAP_NORMAL](/3d/python-net/aspose.threed.shading/pbrspecularmaterial/MAP_NORMAL) |  |
-| [transparency](/3d/python-net/aspose.threed.shading/pbrspecularmaterial/transparency) | Gets or sets the transparency factor.<br/>            The factor should be ranged between 0(0%, fully opaque) and 1(100%, fully transparent)<br/>            Any invalid factor value will be clamped. |
+| [transparency](/3d/python-net/aspose.threed.shading/pbrspecularmaterial/transparency) | Gets or sets the transparency factor.<br/>The factor should be ranged between 0(0%, fully opaque) and 1(100%, fully transparent)<br/>Any invalid factor value will be clamped. |
 | [normal_texture](/3d/python-net/aspose.threed.shading/pbrspecularmaterial/normal_texture) | Gets or sets the texture of normal mapping |
 | [specular_glossiness_texture](/3d/python-net/aspose.threed.shading/pbrspecularmaterial/specular_glossiness_texture) | Gets or sets the texture for specular color, channel RGB stores the specular color and channel A stores the glossiness. |
 | [glossiness_factor](/3d/python-net/aspose.threed.shading/pbrspecularmaterial/glossiness_factor) | Gets or sets the glossiness(smoothness) of the material, 1 means perfectly smooth and 0 means perfectly rough, default value is 1, range is [0, 1] |
@@ -51,7 +57,7 @@ The PbrSpecularMaterial type exposes the following members:
 | [remove_property(property)](/3d/python-net/aspose.threed.shading/pbrspecularmaterial/remove_property/#str) | Remove the specified property identified by name |
 | [get_property(property)](/3d/python-net/aspose.threed.shading/pbrspecularmaterial/get_property/#str) | Get the value of specified property |
 | [set_property(property, value)](/3d/python-net/aspose.threed.shading/pbrspecularmaterial/set_property/#str-any) | Sets the value of specified property |
-| [find_property(property_name)](/3d/python-net/aspose.threed.shading/pbrspecularmaterial/find_property/#str) | Finds the property.<br/>            It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) <br/>            or native property(Identified by its name) |
+| [find_property(property_name)](/3d/python-net/aspose.threed.shading/pbrspecularmaterial/find_property/#str) | Finds the property.<br/>It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) <br/>or native property(Identified by its name) |
 | [get_texture(slot_name)](/3d/python-net/aspose.threed.shading/pbrspecularmaterial/get_texture/#str) | Gets the texture from the specified slot, it can be material's property name or shader's parameter name |
 | [set_texture(slot_name, texture)](/3d/python-net/aspose.threed.shading/pbrspecularmaterial/set_texture/#str-TextureBase) | Sets the texture to specified slot |
 

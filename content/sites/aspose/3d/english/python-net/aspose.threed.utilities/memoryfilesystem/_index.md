@@ -14,6 +14,11 @@ The [MemoryFileSystem](/3d/python-net/aspose.threed.utilities/memoryfilesystem) 
 
 
 
+**Inheritance:** [MemoryFileSystem](/3d/python-net/aspose.threed.utilities/memoryfilesystem) → 
+[FileSystem](/3d/python-net/aspose.threed.utilities/filesystem)
+
+
+
 The MemoryFileSystem type exposes the following members:
 
 ### Constructors
@@ -33,7 +38,7 @@ The MemoryFileSystem type exposes the following members:
 | :- | :- |
 | [read_file(file_name, options)](/3d/python-net/aspose.threed.utilities/memoryfilesystem/read_file/#str-aspose.threed.formats.IOConfig) | Create a stream for reading dependencies. |
 | [write_file(file_name, options)](/3d/python-net/aspose.threed.utilities/memoryfilesystem/write_file/#str-aspose.threed.formats.IOConfig) | Create a stream for writing dependencies. |
-| [get_file_content(file_name)](/3d/python-net/aspose.threed.utilities/memoryfilesystem/get_file_content/#str) | Returns the raw content of the specified file.<br/>            Throw FileNotFoundException if the specified file is not existing. |
+| [get_file_content(file_name)](/3d/python-net/aspose.threed.utilities/memoryfilesystem/get_file_content/#str) | Returns the raw content of the specified file.<br/>Throw FileNotFoundException if the specified file is not existing. |
 
 
 ### See Also

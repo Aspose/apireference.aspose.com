@@ -11,8 +11,13 @@ is_root: false
 ## AssetInfo class
 
 Information of asset.
-            Asset information can be attached to a [Scene](/3d/python-net/aspose.threed/scene).
-            Child [Scene](/3d/python-net/aspose.threed/scene) can have its own [AssetInfo](/3d/python-net/aspose.threed/assetinfo) to override parent's definition.
+Asset information can be attached to a [Scene](/3d/python-net/aspose.threed/scene).
+Child [Scene](/3d/python-net/aspose.threed/scene) can have its own [AssetInfo](/3d/python-net/aspose.threed/assetinfo) to override parent's definition.
+
+
+
+**Inheritance:** [AssetInfo](/3d/python-net/aspose.threed/assetinfo) → 
+[A3DObject](/3d/python-net/aspose.threed/a3dobject)
 
 
 
@@ -44,7 +49,7 @@ The AssetInfo type exposes the following members:
 | [keywords](/3d/python-net/aspose.threed/assetinfo/keywords) | Gets or sets the keywords of this asset |
 | [revision](/3d/python-net/aspose.threed/assetinfo/revision) | Gets or sets the revision number of this asset, usually used in version control system. |
 | [comment](/3d/python-net/aspose.threed/assetinfo/comment) | Gets or sets the comment of this asset. |
-| [unit_name](/3d/python-net/aspose.threed/assetinfo/unit_name) | Gets or sets the unit of length used in this asset.<br/>            e.g. cm/m/km/inch/feet |
+| [unit_name](/3d/python-net/aspose.threed/assetinfo/unit_name) | Gets or sets the unit of length used in this asset.<br/>e.g. cm/m/km/inch/feet |
 | [unit_scale_factor](/3d/python-net/aspose.threed/assetinfo/unit_scale_factor) | Gets or sets the scale factor to real-world meter. |
 | [coordinated_system](/3d/python-net/aspose.threed/assetinfo/coordinated_system) | Gets or sets the coordinate system used in this asset. |
 | [up_vector](/3d/python-net/aspose.threed/assetinfo/up_vector) | Gets or sets the up-vector used in this asset. |
@@ -57,7 +62,7 @@ The AssetInfo type exposes the following members:
 | [remove_property(property)](/3d/python-net/aspose.threed/assetinfo/remove_property/#str) | Remove the specified property identified by name |
 | [get_property(property)](/3d/python-net/aspose.threed/assetinfo/get_property/#str) | Get the value of specified property |
 | [set_property(property, value)](/3d/python-net/aspose.threed/assetinfo/set_property/#str-any) | Sets the value of specified property |
-| [find_property(property_name)](/3d/python-net/aspose.threed/assetinfo/find_property/#str) | Finds the property.<br/>            It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) <br/>            or native property(Identified by its name) |
+| [find_property(property_name)](/3d/python-net/aspose.threed/assetinfo/find_property/#str) | Finds the property.<br/>It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) <br/>or native property(Identified by its name) |
 
 
 ### See Also

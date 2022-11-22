@@ -12,8 +12,8 @@ is_root: false
 
 
 The file name of the external buffer file used to store binary data.
-            If this file is not specified, Aspose.3D will generate a name for you.
-            This is ignored when export glTF in binary mode.
+If this file is not specified, Aspose.3D will generate a name for you.
+This is ignored when export glTF in binary mode.
 
 ### See Also
 * module [aspose.threed.formats](../../)

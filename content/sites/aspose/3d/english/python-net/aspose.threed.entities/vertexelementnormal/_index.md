@@ -14,6 +14,12 @@ Defines normal vectors for specified components.
 
 
 
+**Inheritance:** [VertexElementNormal](/3d/python-net/aspose.threed.entities/vertexelementnormal) → 
+[VertexElementVector4](/3d/python-net/aspose.threed.entities/vertexelementvector4) → 
+[VertexElement](/3d/python-net/aspose.threed.entities/vertexelement)
+
+
+
 The VertexElementNormal type exposes the following members:
 
 ### Constructors

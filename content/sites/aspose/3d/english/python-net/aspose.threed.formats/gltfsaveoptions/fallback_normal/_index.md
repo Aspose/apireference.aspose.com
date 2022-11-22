@@ -12,7 +12,7 @@ is_root: false
 
 
 When GLTF2 exporter detected an invalid normal, this will be used instead of its original value to bypass the validation.
-            Default value is (0, 1, 0)
+Default value is (0, 1, 0)
 
 ### See Also
 * module [aspose.threed.formats](../../)

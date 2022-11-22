@@ -12,7 +12,7 @@ is_root: false
 
 
 Gets or sets the face color to be used  when rendering the 3D content. 
-            This is only relevant only when the [PdfSaveOptions.render_mode](/3d/python-net/aspose.threed.formats/pdfsaveoptions#render_mode) has a value of Illustration.
+This is only relevant only when the [PdfSaveOptions.render_mode](/3d/python-net/aspose.threed.formats/pdfsaveoptions#render_mode) has a value of Illustration.
 
 ### See Also
 * module [aspose.threed.formats](../../)

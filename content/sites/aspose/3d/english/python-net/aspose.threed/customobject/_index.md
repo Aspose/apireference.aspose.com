@@ -11,7 +11,12 @@ is_root: false
 ## CustomObject class
 
 Meta data or custom objects used in 3D files are managed by this class.
-            All custom properties are saved as dynamic properties.
+All custom properties are saved as dynamic properties.
+
+
+
+**Inheritance:** [CustomObject](/3d/python-net/aspose.threed/customobject) → 
+[A3DObject](/3d/python-net/aspose.threed/a3dobject)
 
 
 
@@ -38,7 +43,7 @@ The CustomObject type exposes the following members:
 | [remove_property(property)](/3d/python-net/aspose.threed/customobject/remove_property/#str) | Remove the specified property identified by name |
 | [get_property(property)](/3d/python-net/aspose.threed/customobject/get_property/#str) | Get the value of specified property |
 | [set_property(property, value)](/3d/python-net/aspose.threed/customobject/set_property/#str-any) | Sets the value of specified property |
-| [find_property(property_name)](/3d/python-net/aspose.threed/customobject/find_property/#str) | Finds the property.<br/>            It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) <br/>            or native property(Identified by its name) |
+| [find_property(property_name)](/3d/python-net/aspose.threed/customobject/find_property/#str) | Finds the property.<br/>It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) <br/>or native property(Identified by its name) |
 
 
 ### See Also

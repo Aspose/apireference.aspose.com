@@ -25,7 +25,7 @@ IO related customization are defined in this namespace.
 | [GltfLoadOptions](/3d/python-net/aspose.threed.formats/gltfloadoptions) | Load options for glTF format |
 | [GltfSaveOptions](/3d/python-net/aspose.threed.formats/gltfsaveoptions) | Save options for glTF format. |
 | [Html5SaveOptions](/3d/python-net/aspose.threed.formats/html5saveoptions) | Save options for HTML5 |
-| [IOConfig](/3d/python-net/aspose.threed.formats/ioconfig) | IO config for serialization/deserialization.<br/>            User can specify detailed configurations like dependency look-up path<br/>            Or format-related configs here |
+| [IOConfig](/3d/python-net/aspose.threed.formats/ioconfig) | IO config for serialization/deserialization.<br/>User can specify detailed configurations like dependency look-up path<br/>Or format-related configs here |
 | [LoadOptions](/3d/python-net/aspose.threed.formats/loadoptions) | The base class to configure options in file loading for different types |
 | [ObjLoadOptions](/3d/python-net/aspose.threed.formats/objloadoptions) | Load options for wavefront obj |
 | [ObjSaveOptions](/3d/python-net/aspose.threed.formats/objsaveoptions) | Save options for wavefront obj file |

@@ -11,8 +11,13 @@ is_root: false
 ## VertexElementMaterial class
 
 Defines material index for specified components.
-            
-            A node can have multiple materials, the [VertexElementMaterial](/3d/python-net/aspose.threed.entities/vertexelementmaterial) is used to render different part of the geometry in different materials.
+
+A node can have multiple materials, the [VertexElementMaterial](/3d/python-net/aspose.threed.entities/vertexelementmaterial) is used to render different part of the geometry in different materials.
+
+
+
+**Inheritance:** [VertexElementMaterial](/3d/python-net/aspose.threed.entities/vertexelementmaterial) → 
+[VertexElement](/3d/python-net/aspose.threed.entities/vertexelement)
 
 
 

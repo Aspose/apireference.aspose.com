@@ -14,6 +14,11 @@ Read/write operations are dummy operations.
 
 
 
+**Inheritance:** [DummyFileSystem](/3d/python-net/aspose.threed.utilities/dummyfilesystem) → 
+[FileSystem](/3d/python-net/aspose.threed.utilities/filesystem)
+
+
+
 The DummyFileSystem type exposes the following members:
 
 ### Constructors

@@ -38,7 +38,7 @@ The Renderer type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [clear_cache()](/3d/python-net/aspose.threed.render/renderer/clear_cache/#) | Manually clear the cache.<br/>            Aspose.3D will cache some objects like materials/geometries into internal types that compatible with the render pipeline.<br/>            This should be manually called when scene has major changes. |
+| [clear_cache()](/3d/python-net/aspose.threed.render/renderer/clear_cache/#) | Manually clear the cache.<br/>Aspose.3D will cache some objects like materials/geometries into internal types that compatible with the render pipeline.<br/>This should be manually called when scene has major changes. |
 | [get_post_processing(name)](/3d/python-net/aspose.threed.render/renderer/get_post_processing/#str) | Gets a built-in post-processor that supported by the renderer. |
 | [execute(post_processing, result)](/3d/python-net/aspose.threed.render/renderer/execute/#PostProcessing-IRenderTarget) | Execute an post processing on specified render target |
 | [create_renderer()](/3d/python-net/aspose.threed.render/renderer/create_renderer/#) |  |

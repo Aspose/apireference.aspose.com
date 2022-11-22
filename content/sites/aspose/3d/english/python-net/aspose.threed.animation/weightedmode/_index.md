@@ -19,7 +19,7 @@ The WeightedMode type exposes the following members:
 ### Fields
 | Field | Description |
 | :- | :- |
-| NONE | Both out and next in weights are not used.<br/>            When calculation needs tangent information, default value(0.3333) will be used. |
+| NONE | Both out and next in weights are not used.<br/>When calculation needs tangent information, default value(0.3333) will be used. |
 | OUT_WEIGHT | Out(right) tangent is weighted. |
 | NEXT_IN_WEIGHT | Next in(left) tangent is weighted. |
 | BOTH | Both out and next in tangents are weighted. |

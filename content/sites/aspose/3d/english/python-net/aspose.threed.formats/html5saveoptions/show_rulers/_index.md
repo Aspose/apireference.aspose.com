@@ -12,7 +12,7 @@ is_root: false
 
 
 Display rulers of x/y/z axes in the scene to measure the model.
-            Default value is false.
+Default value is false.
 
 ### See Also
 * module [aspose.threed.formats](../../)

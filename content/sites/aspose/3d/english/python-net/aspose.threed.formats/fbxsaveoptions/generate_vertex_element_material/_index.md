@@ -12,7 +12,7 @@ is_root: false
 
 
 Gets or sets whether always generate a [VertexElementMaterial](/3d/python-net/aspose.threed.entities/vertexelementmaterial) for geometries if the attached node contains materials.
-            This is turned off by default.
+This is turned off by default.
 
 ### See Also
 * module [aspose.threed.formats](../../)

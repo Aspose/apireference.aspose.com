@@ -11,7 +11,7 @@ is_root: false
 ## render(camera, file_name) {#aspose.threed.entities.Camera-str}
 
 Render the scene into external file from given camera's perspective.
-            The default output size is 1024x768 and output format is png
+The default output size is 1024x768 and output format is png
 
 
 

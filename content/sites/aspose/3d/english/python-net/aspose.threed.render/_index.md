@@ -30,15 +30,15 @@ All rendering related classes are defined in this namespace
 | [ITexture1D](/3d/python-net/aspose.threed.render/itexture1d) | 1D texture |
 | [ITexture2D](/3d/python-net/aspose.threed.render/itexture2d) | 2D texture |
 | [ITextureCubemap](/3d/python-net/aspose.threed.render/itexturecubemap) | Cube map texture |
-| [ITextureUnit](/3d/python-net/aspose.threed.render/itextureunit) | [ITextureUnit](/3d/python-net/aspose.threed.render/itextureunit) represents a texture in the memory that shared between GPU and CPU and can be sampled by the shader,<br/>            where the [Texture](/3d/python-net/aspose.threed.shading/texture) only represents a reference to an external file.<br/>            More details can be found https://en.wikipedia.org/wiki/Texture_mapping_unit |
+| [ITextureUnit](/3d/python-net/aspose.threed.render/itextureunit) | [ITextureUnit](/3d/python-net/aspose.threed.render/itextureunit) represents a texture in the memory that shared between GPU and CPU and can be sampled by the shader,<br/>where the [Texture](/3d/python-net/aspose.threed.shading/texture) only represents a reference to an external file.<br/>More details can be found https://en.wikipedia.org/wiki/Texture_mapping_unit |
 | [IVertexBuffer](/3d/python-net/aspose.threed.render/ivertexbuffer) | The vertex buffer holds the polygon vertex data that will be sent to rendering pipeline |
 | [InitializationException](/3d/python-net/aspose.threed.render/initializationexception) | Exceptions in render pipeline initialization |
 | [PostProcessing](/3d/python-net/aspose.threed.render/postprocessing) | The post-processing effects |
 | [PushConstant](/3d/python-net/aspose.threed.render/pushconstant) | A utility to provide data to shader through push constant. |
 | [RenderFactory](/3d/python-net/aspose.threed.render/renderfactory) | RenderFactory creates all resources that represented in rendering pipeline. |
 | [RenderParameters](/3d/python-net/aspose.threed.render/renderparameters) | Describe the parameters of the render target |
-| [RenderResource](/3d/python-net/aspose.threed.render/renderresource) | The abstract class of all render resources<br/>            All render resources will be disposed when the renderer is released.<br/>            Classes like [Mesh](/3d/python-net/aspose.threed.entities/mesh)/[Texture](/3d/python-net/aspose.threed.shading/texture) will have a corresponding RenderResource |
-| [RenderState](/3d/python-net/aspose.threed.render/renderstate) | Render state for building the pipeline<br/>            The changes made on render state will not affect the created pipeline instances. |
+| [RenderResource](/3d/python-net/aspose.threed.render/renderresource) | The abstract class of all render resources<br/>All render resources will be disposed when the renderer is released.<br/>Classes like [Mesh](/3d/python-net/aspose.threed.entities/mesh)/[Texture](/3d/python-net/aspose.threed.shading/texture) will have a corresponding RenderResource |
+| [RenderState](/3d/python-net/aspose.threed.render/renderstate) | Render state for building the pipeline<br/>The changes made on render state will not affect the created pipeline instances. |
 | [Renderer](/3d/python-net/aspose.threed.render/renderer) | The context about renderer. |
 | [RendererVariableManager](/3d/python-net/aspose.threed.render/renderervariablemanager) | This class manages variables used in rendering |
 | [SPIRVSource](/3d/python-net/aspose.threed.render/spirvsource) | The compiled shader in SPIR-V format. |

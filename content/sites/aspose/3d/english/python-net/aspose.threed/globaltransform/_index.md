@@ -11,7 +11,7 @@ is_root: false
 ## GlobalTransform class
 
 Global transform is similar to [Transform](/3d/python-net/aspose.threed/transform) but it's immutable while it represents the final evaluated transformation.
-            Right-hand coordinate system is used while evaluating global transform
+Right-hand coordinate system is used while evaluating global transform
 
 
 

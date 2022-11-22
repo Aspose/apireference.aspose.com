@@ -12,7 +12,7 @@ is_root: false
 
 
 The inner radius of the rectangular torus
-            Default value is 17
+Default value is 17
 
 ### See Also
 * module [aspose.threed.entities](../../)

@@ -14,6 +14,11 @@ Adobe's Portable Document Format
 
 
 
+**Inheritance:** [PdfFormat](/3d/python-net/aspose.threed.formats/pdfformat) → 
+[FileFormat](/3d/python-net/aspose.threed/fileformat)
+
+
+
 The PdfFormat type exposes the following members:
 
 ### Properties
@@ -85,7 +90,7 @@ The PdfFormat type exposes the following members:
 | [extract_scene(file_name)](/3d/python-net/aspose.threed.formats/pdfformat/extract_scene/#str) | Extract 3D scenes from PDF file. |
 | [extract_scene(file_name, password)](/3d/python-net/aspose.threed.formats/pdfformat/extract_scene/#str-byte[]) |  |
 | [extract_scene(stream, password)](/3d/python-net/aspose.threed.formats/pdfformat/extract_scene/#System.IO.Stream-byte[]) |  |
-| [get_format_by_extension(extension_name)](/3d/python-net/aspose.threed.formats/pdfformat/get_format_by_extension/#str) | Gets the preferred file format from the file extension name<br/>            The extension name should starts with a dot('.'). |
+| [get_format_by_extension(extension_name)](/3d/python-net/aspose.threed.formats/pdfformat/get_format_by_extension/#str) | Gets the preferred file format from the file extension name<br/>The extension name should starts with a dot('.'). |
 | [create_load_options()](/3d/python-net/aspose.threed.formats/pdfformat/create_load_options/#) | Create a default load options for this file format |
 | [create_save_options()](/3d/python-net/aspose.threed.formats/pdfformat/create_save_options/#) | Create a default save options for this file format |
 

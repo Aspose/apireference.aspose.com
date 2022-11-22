@@ -14,6 +14,11 @@ Google Draco format
 
 
 
+**Inheritance:** [DracoFormat](/3d/python-net/aspose.threed.formats/dracoformat) → 
+[FileFormat](/3d/python-net/aspose.threed/fileformat)
+
+
+
 The DracoFormat type exposes the following members:
 
 ### Properties
@@ -85,7 +90,7 @@ The DracoFormat type exposes the following members:
 | [encode(entity, stream, options)](/3d/python-net/aspose.threed.formats/dracoformat/encode/#Entity-System.IO.Stream-DracoSaveOptions) | Encode the entity to specified stream |
 | [encode(entity, file_name, options)](/3d/python-net/aspose.threed.formats/dracoformat/encode/#Entity-str-DracoSaveOptions) | Encode the entity to specified file |
 | [encode(entity, options)](/3d/python-net/aspose.threed.formats/dracoformat/encode/#Entity-DracoSaveOptions) | Encode the entity to Draco raw data |
-| [get_format_by_extension(extension_name)](/3d/python-net/aspose.threed.formats/dracoformat/get_format_by_extension/#str) | Gets the preferred file format from the file extension name<br/>            The extension name should starts with a dot('.'). |
+| [get_format_by_extension(extension_name)](/3d/python-net/aspose.threed.formats/dracoformat/get_format_by_extension/#str) | Gets the preferred file format from the file extension name<br/>The extension name should starts with a dot('.'). |
 | [create_load_options()](/3d/python-net/aspose.threed.formats/dracoformat/create_load_options/#) | Create a default load options for this file format |
 | [create_save_options()](/3d/python-net/aspose.threed.formats/dracoformat/create_save_options/#) | Create a default save options for this file format |
 

@@ -14,6 +14,14 @@ The point cloud contains no topology information but only the control points and
 
 
 
+**Inheritance:** [PointCloud](/3d/python-net/aspose.threed.entities/pointcloud) → 
+[Geometry](/3d/python-net/aspose.threed.entities/geometry) → 
+[Entity](/3d/python-net/aspose.threed/entity) → 
+[SceneObject](/3d/python-net/aspose.threed/sceneobject) → 
+[A3DObject](/3d/python-net/aspose.threed/a3dobject)
+
+
+
 The PointCloud type exposes the following members:
 
 ### Constructors
@@ -50,10 +58,10 @@ The PointCloud type exposes the following members:
 | [create_element_uv(uv_mapping)](/3d/python-net/aspose.threed.entities/pointcloud/create_element_uv/#TextureMapping) | Creates a [VertexElementUV](/3d/python-net/aspose.threed.entities/vertexelementuv) with given texture mapping type. |
 | [create_element_uv(uv_mapping, mapping_mode, reference_mode)](/3d/python-net/aspose.threed.entities/pointcloud/create_element_uv/#TextureMapping-MappingMode-ReferenceMode) | Creates a [VertexElementUV](/3d/python-net/aspose.threed.entities/vertexelementuv) with given texture mapping type. |
 | [from_geometry(g)](/3d/python-net/aspose.threed.entities/pointcloud/from_geometry/#Geometry) | Create a new PointCloud instance from a geometry object |
-| [from_geometry(g, density)](/3d/python-net/aspose.threed.entities/pointcloud/from_geometry/#Geometry-int) | Create a new point cloud instance from a geometry object.<br/>            Density is the number of points per unit triangle(Unit triangle are the triangle with maximum surface area from the mesh) |
+| [from_geometry(g, density)](/3d/python-net/aspose.threed.entities/pointcloud/from_geometry/#Geometry-int) | Create a new point cloud instance from a geometry object.<br/>Density is the number of points per unit triangle(Unit triangle are the triangle with maximum surface area from the mesh) |
 | [get_property(property)](/3d/python-net/aspose.threed.entities/pointcloud/get_property/#str) | Get the value of specified property |
 | [set_property(property, value)](/3d/python-net/aspose.threed.entities/pointcloud/set_property/#str-any) | Sets the value of specified property |
-| [find_property(property_name)](/3d/python-net/aspose.threed.entities/pointcloud/find_property/#str) | Finds the property.<br/>            It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) <br/>            or native property(Identified by its name) |
+| [find_property(property_name)](/3d/python-net/aspose.threed.entities/pointcloud/find_property/#str) | Finds the property.<br/>It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) <br/>or native property(Identified by its name) |
 | [get_bounding_box()](/3d/python-net/aspose.threed.entities/pointcloud/get_bounding_box/#) | Gets the bounding box of current entity in its object space coordinate system. |
 | [get_entity_renderer_key()](/3d/python-net/aspose.threed.entities/pointcloud/get_entity_renderer_key/#) | Gets the key of the entity renderer registered in the renderer |
 | [get_element(type)](/3d/python-net/aspose.threed.entities/pointcloud/get_element/#VertexElementType) | Gets a vertex element with specified type |

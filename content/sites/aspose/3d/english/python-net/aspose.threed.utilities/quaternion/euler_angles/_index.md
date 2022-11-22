@@ -11,7 +11,7 @@ is_root: false
 ## euler_angles() {#}
 
 Converts quaternion to rotation represented by Euler angles
-            All components are in radian
+All components are in radian
 
 ### Returns 
 

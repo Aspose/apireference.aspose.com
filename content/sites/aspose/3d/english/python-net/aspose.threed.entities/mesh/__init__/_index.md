@@ -25,8 +25,8 @@ def __init__(self):
 ## Mesh(height_map) {#System.Drawing.Bitmap}
 
 Construct a mesh using specified height map, 
-            if the height map's pixel format contains multiple components, the first(usually the red) component will be used as the height value(z)
-            The control point's x and y components are normalized pixel coordinate.
+if the height map's pixel format contains multiple components, the first(usually the red) component will be used as the height value(z)
+The control point's x and y components are normalized pixel coordinate.
 
 
 
@@ -61,8 +61,8 @@ def __init__(self, name):
 ## Mesh(height_map, transform) {#System.Drawing.Bitmap-aspose.threed.utilities.Matrix4}
 
 Construct a mesh using specified height map, 
-            if the height map's pixel format contains multiple components, the first(usually the red) component will be used as the height value(z)
-            The control point's x and y components are normalized pixel coordinate.
+if the height map's pixel format contains multiple components, the first(usually the red) component will be used as the height value(z)
+The control point's x and y components are normalized pixel coordinate.
 
 
 
@@ -81,8 +81,8 @@ def __init__(self, height_map, transform):
 ## Mesh(height_map, tri_mesh, transform) {#System.Drawing.Bitmap-bool-aspose.threed.utilities.Matrix4}
 
 Construct a mesh using specified height map, 
-            if the height map's pixel format contains multiple components, the first(usually the red) component will be used as the height value(z)
-            The control point's x and y components are normalized pixel coordinate.
+if the height map's pixel format contains multiple components, the first(usually the red) component will be used as the height value(z)
+The control point's x and y components are normalized pixel coordinate.
 
 
 

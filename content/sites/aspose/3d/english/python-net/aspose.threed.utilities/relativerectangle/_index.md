@@ -11,9 +11,9 @@ is_root: false
 ## RelativeRectangle class
 
 Relative rectangle
-            The formula between relative component to absolute value is:
-            Scale * (Reference Width) + offset
-            So if we want it to represent an absolute value, leave all scale fields zero, and use offset fields instead.
+The formula between relative component to absolute value is:
+Scale * (Reference Width) + offset
+So if we want it to represent an absolute value, leave all scale fields zero, and use offset fields instead.
 
 
 

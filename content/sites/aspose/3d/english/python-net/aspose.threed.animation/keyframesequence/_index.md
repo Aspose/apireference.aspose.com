@@ -14,6 +14,11 @@ The sequence of key-frames, it describes the transformation of a sampled value o
 
 
 
+**Inheritance:** [KeyframeSequence](/3d/python-net/aspose.threed.animation/keyframesequence) → 
+[A3DObject](/3d/python-net/aspose.threed/a3dobject)
+
+
+
 The KeyframeSequence type exposes the following members:
 
 ### Constructors
@@ -43,7 +48,7 @@ The KeyframeSequence type exposes the following members:
 | [add(time, value, interpolation)](/3d/python-net/aspose.threed.animation/keyframesequence/add/#float-float-Interpolation) | Create a new key frame with specified value |
 | [get_property(property)](/3d/python-net/aspose.threed.animation/keyframesequence/get_property/#str) | Get the value of specified property |
 | [set_property(property, value)](/3d/python-net/aspose.threed.animation/keyframesequence/set_property/#str-any) | Sets the value of specified property |
-| [find_property(property_name)](/3d/python-net/aspose.threed.animation/keyframesequence/find_property/#str) | Finds the property.<br/>            It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) <br/>            or native property(Identified by its name) |
+| [find_property(property_name)](/3d/python-net/aspose.threed.animation/keyframesequence/find_property/#str) | Finds the property.<br/>It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) <br/>or native property(Identified by its name) |
 | [reset()](/3d/python-net/aspose.threed.animation/keyframesequence/reset/#) | Removes all key frames and reset the post/pre behaviors. |
 
 

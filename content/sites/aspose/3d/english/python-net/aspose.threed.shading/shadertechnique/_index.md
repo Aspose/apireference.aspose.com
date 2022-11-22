@@ -29,7 +29,7 @@ The ShaderTechnique type exposes the following members:
 | [shader_language](/3d/python-net/aspose.threed.shading/shadertechnique/shader_language) | Gets or sets the shader language used by this technique. |
 | [shader_version](/3d/python-net/aspose.threed.shading/shadertechnique/shader_version) | Gets or sets the shader version used by this technique. |
 | [shader_file](/3d/python-net/aspose.threed.shading/shadertechnique/shader_file) | Gets or sets the file name of the external shader file. |
-| [shader_content](/3d/python-net/aspose.threed.shading/shadertechnique/shader_content) | Gets or sets the content of a embedded shader script.<br/>            It could be HLSL/GLSL shader source file. |
+| [shader_content](/3d/python-net/aspose.threed.shading/shadertechnique/shader_content) | Gets or sets the content of a embedded shader script.<br/>It could be HLSL/GLSL shader source file. |
 | [shader_entry](/3d/python-net/aspose.threed.shading/shadertechnique/shader_entry) | Gets or sets the entry point of the shader, some shader like HLSL can have customized shader entries. |
 | [render_api](/3d/python-net/aspose.threed.shading/shadertechnique/render_api) | Gets or sets the rendering API used by this technique |
 | [render_api_version](/3d/python-net/aspose.threed.shading/shadertechnique/render_api_version) | Gets or sets the version of the rendering API. |

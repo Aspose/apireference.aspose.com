@@ -12,9 +12,9 @@ is_root: false
 
 
 Gets or sets the Default value of the channel.
-            If a channel has no keyframe sequences connected, the default value will be used during the animation evaluation.
-            A real scenario: Animation only animates a node's x coordinate, the y and z are not changed, 
-            then the default value will be used during full translation evaluation.
+If a channel has no keyframe sequences connected, the default value will be used during the animation evaluation.
+A real scenario: Animation only animates a node's x coordinate, the y and z are not changed, 
+then the default value will be used during full translation evaluation.
 
 ### See Also
 * module [aspose.threed.animation](../../)

@@ -14,6 +14,12 @@ Defines the binormal vectors for specified components.
 
 
 
+**Inheritance:** [VertexElementBinormal](/3d/python-net/aspose.threed.entities/vertexelementbinormal) → 
+[VertexElementVector4](/3d/python-net/aspose.threed.entities/vertexelementvector4) → 
+[VertexElement](/3d/python-net/aspose.threed.entities/vertexelement)
+
+
+
 The VertexElementBinormal type exposes the following members:
 
 ### Constructors

@@ -11,9 +11,15 @@ is_root: false
 ## MorphTargetDeformer class
 
 MorphTargetDeformer provides per-vertex animation.
-            MorphTargetDeformer organize all targets via [MorphTargetChannel](/3d/python-net/aspose.threed.deformers/morphtargetchannel), each channel can organize multiple targets.
-            A common use of morph target deformer is to apply facial expression to a character.
-            More details can be found at https://en.wikipedia.org/wiki/Morph_target_animation
+MorphTargetDeformer organize all targets via [MorphTargetChannel](/3d/python-net/aspose.threed.deformers/morphtargetchannel), each channel can organize multiple targets.
+A common use of morph target deformer is to apply facial expression to a character.
+More details can be found at https://en.wikipedia.org/wiki/Morph_target_animation
+
+
+
+**Inheritance:** [MorphTargetDeformer](/3d/python-net/aspose.threed.deformers/morphtargetdeformer) → 
+[Deformer](/3d/python-net/aspose.threed.deformers/deformer) → 
+[A3DObject](/3d/python-net/aspose.threed/a3dobject)
 
 
 
@@ -42,7 +48,7 @@ The MorphTargetDeformer type exposes the following members:
 | [remove_property(property)](/3d/python-net/aspose.threed.deformers/morphtargetdeformer/remove_property/#str) | Remove the specified property identified by name |
 | [get_property(property)](/3d/python-net/aspose.threed.deformers/morphtargetdeformer/get_property/#str) | Get the value of specified property |
 | [set_property(property, value)](/3d/python-net/aspose.threed.deformers/morphtargetdeformer/set_property/#str-any) | Sets the value of specified property |
-| [find_property(property_name)](/3d/python-net/aspose.threed.deformers/morphtargetdeformer/find_property/#str) | Finds the property.<br/>            It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) <br/>            or native property(Identified by its name) |
+| [find_property(property_name)](/3d/python-net/aspose.threed.deformers/morphtargetdeformer/find_property/#str) | Finds the property.<br/>It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) <br/>or native property(Identified by its name) |
 
 
 ### See Also

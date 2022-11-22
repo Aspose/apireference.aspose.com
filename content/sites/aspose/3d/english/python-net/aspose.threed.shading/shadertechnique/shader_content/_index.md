@@ -12,7 +12,7 @@ is_root: false
 
 
 Gets or sets the content of a embedded shader script.
-            It could be HLSL/GLSL shader source file.
+It could be HLSL/GLSL shader source file.
 
 ### See Also
 * module [aspose.threed.shading](../../)

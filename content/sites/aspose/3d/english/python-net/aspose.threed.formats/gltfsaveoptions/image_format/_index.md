@@ -12,8 +12,8 @@ is_root: false
 
 
 Standard glTF only supports PNG/JPG as its texture format, this option will guide how Aspose.3D
-            convert the non-standard images to supported format during the exporting.
-            Default value is [GltfEmbeddedImageFormat.PNG](/3d/python-net/aspose.threed.formats/gltfembeddedimageformat#PNG)
+convert the non-standard images to supported format during the exporting.
+Default value is [GltfEmbeddedImageFormat.PNG](/3d/python-net/aspose.threed.formats/gltfembeddedimageformat#PNG)
 
 ### See Also
 * module [aspose.threed.formats](../../)

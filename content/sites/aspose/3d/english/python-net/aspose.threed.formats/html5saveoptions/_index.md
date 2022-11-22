@@ -14,6 +14,12 @@ Save options for HTML5
 
 
 
+**Inheritance:** [Html5SaveOptions](/3d/python-net/aspose.threed.formats/html5saveoptions) → 
+[SaveOptions](/3d/python-net/aspose.threed.formats/saveoptions) → 
+[IOConfig](/3d/python-net/aspose.threed.formats/ioconfig)
+
+
+
 The Html5SaveOptions type exposes the following members:
 
 ### Constructors
@@ -26,14 +32,14 @@ The Html5SaveOptions type exposes the following members:
 | Property | Description |
 | :- | :- |
 | [file_format](/3d/python-net/aspose.threed.formats/html5saveoptions/file_format) | Gets the file format that specified in current Save/Load option. |
-| [encoding](/3d/python-net/aspose.threed.formats/html5saveoptions/encoding) | Gets or sets the default encoding for text-based files.<br/>            Default value is null which means the importer/exporter will decide which encoding to use. |
+| [encoding](/3d/python-net/aspose.threed.formats/html5saveoptions/encoding) | Gets or sets the default encoding for text-based files.<br/>Default value is null which means the importer/exporter will decide which encoding to use. |
 | [file_system](/3d/python-net/aspose.threed.formats/html5saveoptions/file_system) | Allow user to handle how to manage the external dependencies during load/save. |
 | [lookup_paths](/3d/python-net/aspose.threed.formats/html5saveoptions/lookup_paths) | Some files like OBJ depends on external file, the lookup paths will allows Aspose.3D to look for external file to load. |
-| [file_name](/3d/python-net/aspose.threed.formats/html5saveoptions/file_name) | The file name of the exporting/importing scene.<br/>            This is optional, but useful when serialize external assets like OBJ's material. |
-| [show_grid](/3d/python-net/aspose.threed.formats/html5saveoptions/show_grid) | Display a grid in the scene.<br/>            Default value is true. |
-| [show_rulers](/3d/python-net/aspose.threed.formats/html5saveoptions/show_rulers) | Display rulers of x/y/z axes in the scene to measure the model.<br/>            Default value is false. |
-| [show_ui](/3d/python-net/aspose.threed.formats/html5saveoptions/show_ui) | Display a simple UI in the scene.<br/>            Default value is true. |
-| [orientation_box](/3d/python-net/aspose.threed.formats/html5saveoptions/orientation_box) | Display a orientation box.<br/>            Default value is true. |
+| [file_name](/3d/python-net/aspose.threed.formats/html5saveoptions/file_name) | The file name of the exporting/importing scene.<br/>This is optional, but useful when serialize external assets like OBJ's material. |
+| [show_grid](/3d/python-net/aspose.threed.formats/html5saveoptions/show_grid) | Display a grid in the scene.<br/>Default value is true. |
+| [show_rulers](/3d/python-net/aspose.threed.formats/html5saveoptions/show_rulers) | Display rulers of x/y/z axes in the scene to measure the model.<br/>Default value is false. |
+| [show_ui](/3d/python-net/aspose.threed.formats/html5saveoptions/show_ui) | Display a simple UI in the scene.<br/>Default value is true. |
+| [orientation_box](/3d/python-net/aspose.threed.formats/html5saveoptions/orientation_box) | Display a orientation box.<br/>Default value is true. |
 | [up_vector](/3d/python-net/aspose.threed.formats/html5saveoptions/up_vector) | Gets or sets the up vector, value can be "x"/"y"/"z", default value is "y" |
 | [far_plane](/3d/python-net/aspose.threed.formats/html5saveoptions/far_plane) | Gets or sets the far plane of the camera, default value is 1000. |
 | [near_plane](/3d/python-net/aspose.threed.formats/html5saveoptions/near_plane) | Gets or sets the near plane of the camera, default value is 1 |

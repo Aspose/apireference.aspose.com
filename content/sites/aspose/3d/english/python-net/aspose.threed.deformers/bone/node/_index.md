@@ -12,8 +12,8 @@ is_root: false
 
 
 Gets or sets the node. The bone node is the bone which skin attached to, the [SkinDeformer](/3d/python-net/aspose.threed.deformers/skindeformer) will use bone node to influence the displacement of the control points.
-            Bone node usually has a [Skeleton](/3d/python-net/aspose.threed.entities/skeleton) attached, but it's not required.
-            Attached [Skeleton](/3d/python-net/aspose.threed.entities/skeleton) is usually used by DCC software to show skeleton to user.
+Bone node usually has a [Skeleton](/3d/python-net/aspose.threed.entities/skeleton) attached, but it's not required.
+Attached [Skeleton](/3d/python-net/aspose.threed.entities/skeleton) is usually used by DCC software to show skeleton to user.
 
 ### See Also
 * module [aspose.threed.deformers](../../)

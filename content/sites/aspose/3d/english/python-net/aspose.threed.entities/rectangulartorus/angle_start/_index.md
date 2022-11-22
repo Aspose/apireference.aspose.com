@@ -12,7 +12,7 @@ is_root: false
 
 
 The start angle of the arc, measured in radian.
-            Default value is 0
+Default value is 0
 
 ### See Also
 * module [aspose.threed.entities](../../)

@@ -14,6 +14,11 @@ The source code of shaders in GLSL
 
 
 
+**Inheritance:** [GLSLSource](/3d/python-net/aspose.threed.render/glslsource) → 
+[ShaderSource](/3d/python-net/aspose.threed.render/shadersource)
+
+
+
 The GLSLSource type exposes the following members:
 
 ### Constructors

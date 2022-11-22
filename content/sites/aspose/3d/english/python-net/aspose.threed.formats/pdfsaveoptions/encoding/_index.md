@@ -12,7 +12,7 @@ is_root: false
 
 
 Gets or sets the default encoding for text-based files.
-            Default value is null which means the importer/exporter will decide which encoding to use.
+Default value is null which means the importer/exporter will decide which encoding to use.
 
 ### See Also
 * module [aspose.threed.formats](../../)

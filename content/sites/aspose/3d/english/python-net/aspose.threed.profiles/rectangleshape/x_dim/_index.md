@@ -12,7 +12,7 @@ is_root: false
 
 
 Gets or sets the extent of the rectangle in the direction of x-axis
-            Default value is 2.0
+Default value is 2.0
 
 ### See Also
 * module [aspose.threed.profiles](../../)

@@ -12,7 +12,7 @@ is_root: false
 
 
 The total angle of the arc, measured in radian.
-            Default value is PI
+Default value is PI
 
 ### See Also
 * module [aspose.threed.entities](../../)

@@ -11,8 +11,8 @@ is_root: false
 ## find_property(property) {#str}
 
 Finds the property.
-            It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) 
-            or native property(Identified by its name)
+It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) 
+or native property(Identified by its name)
 
 ### Returns 
 

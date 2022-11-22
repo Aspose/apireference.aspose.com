@@ -12,8 +12,8 @@ is_root: false
 
 
 Convert the primitive entities to mesh during the export.
-            Or directly encode the primitives to the output file(will use Aspose's extension definition for unofficial primitives like Dish, Torus)
-            Default value is true.
+Or directly encode the primitives to the output file(will use Aspose's extension definition for unofficial primitives like Dish, Torus)
+Default value is true.
 
 ### See Also
 * module [aspose.threed.formats](../../)

@@ -14,6 +14,15 @@ IFC compatible L-shape profile that defined by parameters.
 
 
 
+**Inheritance:** [LShape](/3d/python-net/aspose.threed.profiles/lshape) → 
+[ParameterizedProfile](/3d/python-net/aspose.threed.profiles/parameterizedprofile) → 
+[Profile](/3d/python-net/aspose.threed.profiles/profile) → 
+[Entity](/3d/python-net/aspose.threed/entity) → 
+[SceneObject](/3d/python-net/aspose.threed/sceneobject) → 
+[A3DObject](/3d/python-net/aspose.threed/a3dobject)
+
+
+
 The LShape type exposes the following members:
 
 ### Constructors
@@ -45,7 +54,7 @@ The LShape type exposes the following members:
 | [remove_property(property)](/3d/python-net/aspose.threed.profiles/lshape/remove_property/#str) | Remove the specified property identified by name |
 | [get_property(property)](/3d/python-net/aspose.threed.profiles/lshape/get_property/#str) | Get the value of specified property |
 | [set_property(property, value)](/3d/python-net/aspose.threed.profiles/lshape/set_property/#str-any) | Sets the value of specified property |
-| [find_property(property_name)](/3d/python-net/aspose.threed.profiles/lshape/find_property/#str) | Finds the property.<br/>            It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) <br/>            or native property(Identified by its name) |
+| [find_property(property_name)](/3d/python-net/aspose.threed.profiles/lshape/find_property/#str) | Finds the property.<br/>It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) <br/>or native property(Identified by its name) |
 | [get_bounding_box()](/3d/python-net/aspose.threed.profiles/lshape/get_bounding_box/#) | Gets the bounding box of current entity in its object space coordinate system. |
 | [get_entity_renderer_key()](/3d/python-net/aspose.threed.profiles/lshape/get_entity_renderer_key/#) | Gets the key of the entity renderer registered in the renderer |
 | [get_extent()](/3d/python-net/aspose.threed.profiles/lshape/get_extent/#) | Gets the extent in x and y dimension. |

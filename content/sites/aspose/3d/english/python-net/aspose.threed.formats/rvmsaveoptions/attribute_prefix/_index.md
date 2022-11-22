@@ -12,7 +12,7 @@ is_root: false
 
 
 Gets or sets the prefix of which attributes that will be exported, the exported property will contains no prefix, custom properties with different prefix will not be exported, default value is 'rvm:'.
-            For example if a property is rvm:Refno=345, the exported attribute will be Refno = 345, the prefix is stripped.
+For example if a property is rvm:Refno=345, the exported attribute will be Refno = 345, the prefix is stripped.
 
 ### See Also
 * module [aspose.threed.formats](../../)

@@ -11,8 +11,8 @@ is_root: false
 ## set_geometric_scaling(sx, sy, sz) {#float-float-float}
 
 Sets the geometric scaling. 
-            Geometric transformation only affects the entities attached and leave the child nodes unaffected.
-            It will be merged as local transformation when you export the geometric transformation to file types that does not support it.
+Geometric transformation only affects the entities attached and leave the child nodes unaffected.
+It will be merged as local transformation when you export the geometric transformation to file types that does not support it.
 
 
 

@@ -32,7 +32,7 @@ def from_geometry(self, g):
 ## from_geometry(g, density) {#Geometry-int}
 
 Create a new point cloud instance from a geometry object.
-            Density is the number of points per unit triangle(Unit triangle are the triangle with maximum surface area from the mesh)
+Density is the number of points per unit triangle(Unit triangle are the triangle with maximum surface area from the mesh)
 
 ### Returns 
 

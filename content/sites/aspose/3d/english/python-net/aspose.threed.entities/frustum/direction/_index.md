@@ -12,7 +12,7 @@ is_root: false
 
 
 Gets or sets the direction that the camera is looking at.
-            Changes on this property will also affects the [Frustum.look_at](/3d/python-net/aspose.threed.entities/frustum#look_at) and [Frustum.target](/3d/python-net/aspose.threed.entities/frustum#target).
+Changes on this property will also affects the [Frustum.look_at](/3d/python-net/aspose.threed.entities/frustum#look_at) and [Frustum.target](/3d/python-net/aspose.threed.entities/frustum#target).
 
 ### See Also
 * module [aspose.threed.entities](../../)

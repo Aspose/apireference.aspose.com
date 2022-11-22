@@ -11,8 +11,8 @@ is_root: false
 ## RenderResource class
 
 The abstract class of all render resources
-            All render resources will be disposed when the renderer is released.
-            Classes like [Mesh](/3d/python-net/aspose.threed.entities/mesh)/[Texture](/3d/python-net/aspose.threed.shading/texture) will have a corresponding RenderResource
+All render resources will be disposed when the renderer is released.
+Classes like [Mesh](/3d/python-net/aspose.threed.entities/mesh)/[Texture](/3d/python-net/aspose.threed.shading/texture) will have a corresponding RenderResource
 
 
 

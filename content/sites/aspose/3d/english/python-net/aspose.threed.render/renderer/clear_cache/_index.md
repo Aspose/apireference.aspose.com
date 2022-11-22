@@ -11,8 +11,8 @@ is_root: false
 ## clear_cache() {#}
 
 Manually clear the cache.
-            Aspose.3D will cache some objects like materials/geometries into internal types that compatible with the render pipeline.
-            This should be manually called when scene has major changes.
+Aspose.3D will cache some objects like materials/geometries into internal types that compatible with the render pipeline.
+This should be manually called when scene has major changes.
 
 
 

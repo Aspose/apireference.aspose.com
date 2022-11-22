@@ -31,7 +31,7 @@ The EntityRenderer type exposes the following members:
 | [frame_begin(renderer, render_queue)](/3d/python-net/aspose.threed.render/entityrenderer/frame_begin/#Renderer-IRenderQueue) | Begin rendering a frame |
 | [frame_end(renderer, render_queue)](/3d/python-net/aspose.threed.render/entityrenderer/frame_end/#Renderer-IRenderQueue) | Ends rendering a frame |
 | [prepare_render_queue(renderer, queue, node, entity)](/3d/python-net/aspose.threed.render/entityrenderer/prepare_render_queue/#Renderer-IRenderQueue-Node-Entity) | Prepare rendering commands for specified node/entity pair. |
-| [render_entity(renderer, command_list, node, renderable_resource, sub_entity)](/3d/python-net/aspose.threed.render/entityrenderer/render_entity/#Renderer-ICommandList-Node-any-int) | Each render task pushed to the [IRenderQueue](/3d/python-net/aspose.threed.render/irenderqueue) will have a corresponding RenderEntity call<br/>            to perform the concrete rendering job. |
+| [render_entity(renderer, command_list, node, renderable_resource, sub_entity)](/3d/python-net/aspose.threed.render/entityrenderer/render_entity/#Renderer-ICommandList-Node-any-int) | Each render task pushed to the [IRenderQueue](/3d/python-net/aspose.threed.render/irenderqueue) will have a corresponding RenderEntity call<br/>to perform the concrete rendering job. |
 | [dispose()](/3d/python-net/aspose.threed.render/entityrenderer/dispose/#) | The entity renderer is being disposed, release shared resources. |
 
 

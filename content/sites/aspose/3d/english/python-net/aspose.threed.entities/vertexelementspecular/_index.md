@@ -14,6 +14,12 @@ Defines specular color for specified components.
 
 
 
+**Inheritance:** [VertexElementSpecular](/3d/python-net/aspose.threed.entities/vertexelementspecular) → 
+[VertexElementVector4](/3d/python-net/aspose.threed.entities/vertexelementvector4) → 
+[VertexElement](/3d/python-net/aspose.threed.entities/vertexelement)
+
+
+
 The VertexElementSpecular type exposes the following members:
 
 ### Constructors

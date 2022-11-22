@@ -11,11 +11,17 @@ is_root: false
 ## Node class
 
 Represents an element in the scene graph.
-            A scene graph is a tree of Node objects. The tree management services are self contained in this class.
-            Note the Aspose.3D SDK does not test the validity of the constructed scene graph. It is the responsibility of the caller to make sure that it does not generate cyclic graphs in a node hierarchy.
-            Besides the tree management, this class defines all the properties required to describe the position of the object in the scene. This information include the basic Translation, Rotation and Scaling properties and the more advanced options for pivots, limits, and IK joints attributes such the stiffness and dampening.
-            When it is first created, the Node object is "empty" (i.e: it is an object without any graphical representation that only contains the position information). In this state, it can be used to represent parents in the node tree structure but not much more. The normal use of this type of objects is to add them an entity that will specialize the node (see the "Entity").
-            The entity is an object in itself and is connected to the the Node. This also means that the same entity can be shared among multiple nodes. Camera, Light, Mesh, etc... are all entities and they all derived from the base class Entity.
+A scene graph is a tree of Node objects. The tree management services are self contained in this class.
+Note the Aspose.3D SDK does not test the validity of the constructed scene graph. It is the responsibility of the caller to make sure that it does not generate cyclic graphs in a node hierarchy.
+Besides the tree management, this class defines all the properties required to describe the position of the object in the scene. This information include the basic Translation, Rotation and Scaling properties and the more advanced options for pivots, limits, and IK joints attributes such the stiffness and dampening.
+When it is first created, the Node object is "empty" (i.e: it is an object without any graphical representation that only contains the position information). In this state, it can be used to represent parents in the node tree structure but not much more. The normal use of this type of objects is to add them an entity that will specialize the node (see the "Entity").
+The entity is an object in itself and is connected to the the Node. This also means that the same entity can be shared among multiple nodes. Camera, Light, Mesh, etc... are all entities and they all derived from the base class Entity.
+
+
+
+**Inheritance:** [Node](/3d/python-net/aspose.threed/node) → 
+[SceneObject](/3d/python-net/aspose.threed/sceneobject) → 
+[A3DObject](/3d/python-net/aspose.threed/a3dobject)
 
 
 
@@ -63,7 +69,7 @@ The Node type exposes the following members:
 | [get_child(node_name)](/3d/python-net/aspose.threed/node/get_child/#str) | Gets the child node with the specified name |
 | [get_property(property)](/3d/python-net/aspose.threed/node/get_property/#str) | Get the value of specified property |
 | [set_property(property, value)](/3d/python-net/aspose.threed/node/set_property/#str-any) | Sets the value of specified property |
-| [find_property(property_name)](/3d/python-net/aspose.threed/node/find_property/#str) | Finds the property.<br/>            It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) <br/>            or native property(Identified by its name) |
+| [find_property(property_name)](/3d/python-net/aspose.threed/node/find_property/#str) | Finds the property.<br/>It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) <br/>or native property(Identified by its name) |
 | [merge(node)](/3d/python-net/aspose.threed/node/merge/#Node) |  |
 | [evaluate_global_transform(with_geometric_transform)](/3d/python-net/aspose.threed/node/evaluate_global_transform/#bool) | Evaluate the global transform, include the geometric transform or not. |
 | [get_bounding_box()](/3d/python-net/aspose.threed/node/get_bounding_box/#) | Calculate the bounding box of the node |

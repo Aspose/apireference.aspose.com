@@ -11,9 +11,9 @@ is_root: false
 ## VertexElement class
 
 Base class of vertex elements.
-             A vertex element type is identified by VertexElementType. 
-             A VertexElement describes how the vertex element is mapped to a geometry surface and how the mapping information is arranged in memory. 
-             A VertexElement contains Normals, UVs or other kind of information.
+A vertex element type is identified by VertexElementType. 
+A VertexElement describes how the vertex element is mapped to a geometry surface and how the mapping information is arranged in memory. 
+A VertexElement contains Normals, UVs or other kind of information.
 
 
 

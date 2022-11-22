@@ -11,7 +11,13 @@ is_root: false
 ## VertexElementSmoothingGroup class
 
 A smoothing group is a group of polygons in a polygon mesh which should appear to form a smooth surface.
-            Some early 3d modeling software like 3D studio max for DOS used smoothing group to void storing normal vector for each mesh vertex.
+Some early 3d modeling software like 3D studio max for DOS used smoothing group to void storing normal vector for each mesh vertex.
+
+
+
+**Inheritance:** [VertexElementSmoothingGroup](/3d/python-net/aspose.threed.entities/vertexelementsmoothinggroup) → 
+[VertexElementIntsTemplate](/3d/python-net/aspose.threed.entities/vertexelementintstemplate) → 
+[VertexElement](/3d/python-net/aspose.threed.entities/vertexelement)
 
 
 

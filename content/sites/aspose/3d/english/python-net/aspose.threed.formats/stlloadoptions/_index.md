@@ -14,6 +14,12 @@ Load options for STL
 
 
 
+**Inheritance:** [StlLoadOptions](/3d/python-net/aspose.threed.formats/stlloadoptions) → 
+[LoadOptions](/3d/python-net/aspose.threed.formats/loadoptions) → 
+[IOConfig](/3d/python-net/aspose.threed.formats/ioconfig)
+
+
+
 The StlLoadOptions type exposes the following members:
 
 ### Constructors
@@ -27,12 +33,12 @@ The StlLoadOptions type exposes the following members:
 | Property | Description |
 | :- | :- |
 | [file_format](/3d/python-net/aspose.threed.formats/stlloadoptions/file_format) | Gets the file format that specified in current Save/Load option. |
-| [encoding](/3d/python-net/aspose.threed.formats/stlloadoptions/encoding) | Gets or sets the default encoding for text-based files.<br/>            Default value is null which means the importer/exporter will decide which encoding to use. |
+| [encoding](/3d/python-net/aspose.threed.formats/stlloadoptions/encoding) | Gets or sets the default encoding for text-based files.<br/>Default value is null which means the importer/exporter will decide which encoding to use. |
 | [file_system](/3d/python-net/aspose.threed.formats/stlloadoptions/file_system) | Allow user to handle how to manage the external dependencies during load/save. |
 | [lookup_paths](/3d/python-net/aspose.threed.formats/stlloadoptions/lookup_paths) | Some files like OBJ depends on external file, the lookup paths will allows Aspose.3D to look for external file to load. |
-| [file_name](/3d/python-net/aspose.threed.formats/stlloadoptions/file_name) | The file name of the exporting/importing scene.<br/>            This is optional, but useful when serialize external assets like OBJ's material. |
+| [file_name](/3d/python-net/aspose.threed.formats/stlloadoptions/file_name) | The file name of the exporting/importing scene.<br/>This is optional, but useful when serialize external assets like OBJ's material. |
 | [flip_coordinate_system](/3d/python-net/aspose.threed.formats/stlloadoptions/flip_coordinate_system) | Gets or sets whether to flip coordinate system of control points/normal during importing. |
-| [recalculate_normal](/3d/python-net/aspose.threed.formats/stlloadoptions/recalculate_normal) | Ignore the normal data that stored in STL file and recalculate the normal data based on the vertex position.<br/>            Default value is false |
+| [recalculate_normal](/3d/python-net/aspose.threed.formats/stlloadoptions/recalculate_normal) | Ignore the normal data that stored in STL file and recalculate the normal data based on the vertex position.<br/>Default value is false |
 
 
 ### See Also

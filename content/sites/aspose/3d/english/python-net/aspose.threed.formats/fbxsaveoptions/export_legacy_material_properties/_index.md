@@ -12,7 +12,7 @@ is_root: false
 
 
 Gets or sets whether export legacy material properties, used for back compatibility.
-            This option is turned on by default.
+This option is turned on by default.
 
 ### See Also
 * module [aspose.threed.formats](../../)

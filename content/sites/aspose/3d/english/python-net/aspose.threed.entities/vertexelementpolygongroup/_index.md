@@ -14,6 +14,12 @@ Defines polygon group for specified components to group related polygons togethe
 
 
 
+**Inheritance:** [VertexElementPolygonGroup](/3d/python-net/aspose.threed.entities/vertexelementpolygongroup) → 
+[VertexElementIntsTemplate](/3d/python-net/aspose.threed.entities/vertexelementintstemplate) → 
+[VertexElement](/3d/python-net/aspose.threed.entities/vertexelement)
+
+
+
 The VertexElementPolygonGroup type exposes the following members:
 
 ### Constructors

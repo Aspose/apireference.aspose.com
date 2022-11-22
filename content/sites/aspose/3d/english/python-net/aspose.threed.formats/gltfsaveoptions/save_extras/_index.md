@@ -12,8 +12,8 @@ is_root: false
 
 
 Save scene object's dynamic properties into 'extra' fields in the generated glTF file.
-            This is useful to provide application-specific data.
-            Default value is false.
+This is useful to provide application-specific data.
+Default value is false.
 
 ### See Also
 * module [aspose.threed.formats](../../)

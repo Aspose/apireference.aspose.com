@@ -14,6 +14,11 @@ A helper class for defining concrete [VertexElement](/3d/python-net/aspose.three
 
 
 
+**Inheritance:** [VertexElementIntsTemplate](/3d/python-net/aspose.threed.entities/vertexelementintstemplate) → 
+[VertexElement](/3d/python-net/aspose.threed.entities/vertexelement)
+
+
+
 The VertexElementIntsTemplate type exposes the following members:
 
 ### Properties

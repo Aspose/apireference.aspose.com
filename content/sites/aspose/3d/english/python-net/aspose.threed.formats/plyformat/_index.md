@@ -14,6 +14,11 @@ The PLY format.
 
 
 
+**Inheritance:** [PlyFormat](/3d/python-net/aspose.threed.formats/plyformat) → 
+[FileFormat](/3d/python-net/aspose.threed/fileformat)
+
+
+
 The PlyFormat type exposes the following members:
 
 ### Properties
@@ -84,7 +89,7 @@ The PlyFormat type exposes the following members:
 | [encode(entity, file_name, opt)](/3d/python-net/aspose.threed.formats/plyformat/encode/#Entity-str-PlySaveOptions) | Encode the entity and save the result into an external file. |
 | [decode(file_name, opt)](/3d/python-net/aspose.threed.formats/plyformat/decode/#str-PlyLoadOptions) | Decode a point cloud or mesh from the specified stream. |
 | [decode(stream, opt)](/3d/python-net/aspose.threed.formats/plyformat/decode/#System.IO.Stream-PlyLoadOptions) | Decode a point cloud or mesh from the specified stream. |
-| [get_format_by_extension(extension_name)](/3d/python-net/aspose.threed.formats/plyformat/get_format_by_extension/#str) | Gets the preferred file format from the file extension name<br/>            The extension name should starts with a dot('.'). |
+| [get_format_by_extension(extension_name)](/3d/python-net/aspose.threed.formats/plyformat/get_format_by_extension/#str) | Gets the preferred file format from the file extension name<br/>The extension name should starts with a dot('.'). |
 | [create_load_options()](/3d/python-net/aspose.threed.formats/plyformat/create_load_options/#) | Create a default load options for this file format |
 | [create_save_options()](/3d/python-net/aspose.threed.formats/plyformat/create_save_options/#) | Create a default save options for this file format |
 

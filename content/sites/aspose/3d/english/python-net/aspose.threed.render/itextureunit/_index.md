@@ -11,8 +11,8 @@ is_root: false
 ## ITextureUnit class
 
 [ITextureUnit](/3d/python-net/aspose.threed.render/itextureunit) represents a texture in the memory that shared between GPU and CPU and can be sampled by the shader,
-            where the [Texture](/3d/python-net/aspose.threed.shading/texture) only represents a reference to an external file.
-            More details can be found https://en.wikipedia.org/wiki/Texture_mapping_unit
+where the [Texture](/3d/python-net/aspose.threed.shading/texture) only represents a reference to an external file.
+More details can be found https://en.wikipedia.org/wiki/Texture_mapping_unit
 
 
 

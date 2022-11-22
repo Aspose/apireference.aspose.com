@@ -14,6 +14,12 @@ Save options for wavefront obj file
 
 
 
+**Inheritance:** [ObjSaveOptions](/3d/python-net/aspose.threed.formats/objsaveoptions) → 
+[SaveOptions](/3d/python-net/aspose.threed.formats/saveoptions) → 
+[IOConfig](/3d/python-net/aspose.threed.formats/ioconfig)
+
+
+
 The ObjSaveOptions type exposes the following members:
 
 ### Constructors
@@ -26,10 +32,10 @@ The ObjSaveOptions type exposes the following members:
 | Property | Description |
 | :- | :- |
 | [file_format](/3d/python-net/aspose.threed.formats/objsaveoptions/file_format) | Gets the file format that specified in current Save/Load option. |
-| [encoding](/3d/python-net/aspose.threed.formats/objsaveoptions/encoding) | Gets or sets the default encoding for text-based files.<br/>            Default value is null which means the importer/exporter will decide which encoding to use. |
+| [encoding](/3d/python-net/aspose.threed.formats/objsaveoptions/encoding) | Gets or sets the default encoding for text-based files.<br/>Default value is null which means the importer/exporter will decide which encoding to use. |
 | [file_system](/3d/python-net/aspose.threed.formats/objsaveoptions/file_system) | Allow user to handle how to manage the external dependencies during load/save. |
 | [lookup_paths](/3d/python-net/aspose.threed.formats/objsaveoptions/lookup_paths) | Some files like OBJ depends on external file, the lookup paths will allows Aspose.3D to look for external file to load. |
-| [file_name](/3d/python-net/aspose.threed.formats/objsaveoptions/file_name) | The file name of the exporting/importing scene.<br/>            This is optional, but useful when serialize external assets like OBJ's material. |
+| [file_name](/3d/python-net/aspose.threed.formats/objsaveoptions/file_name) | The file name of the exporting/importing scene.<br/>This is optional, but useful when serialize external assets like OBJ's material. |
 | [point_cloud](/3d/python-net/aspose.threed.formats/objsaveoptions/point_cloud) | Gets or sets the flag whether the exporter should export the scene as point cloud(without topological structure), default value is false |
 | [verbose](/3d/python-net/aspose.threed.formats/objsaveoptions/verbose) | Gets or sets whether generate comments for each section |
 | [serialize_w](/3d/python-net/aspose.threed.formats/objsaveoptions/serialize_w) | Gets or sets whether serialize W component in model's vertex position. |

@@ -14,15 +14,23 @@ A mesh is made of many n-sided polygons.
 
 
 
+**Inheritance:** [Mesh](/3d/python-net/aspose.threed.entities/mesh) → 
+[Geometry](/3d/python-net/aspose.threed.entities/geometry) → 
+[Entity](/3d/python-net/aspose.threed/entity) → 
+[SceneObject](/3d/python-net/aspose.threed/sceneobject) → 
+[A3DObject](/3d/python-net/aspose.threed/a3dobject)
+
+
+
 The Mesh type exposes the following members:
 
 ### Constructors
 | Constructor | Description |
 | :- | :- |
 | [Mesh()](/3d/python-net/aspose.threed.entities/mesh/__init__/#) | Initializes a new instance of the [Mesh](/3d/python-net/aspose.threed.entities/mesh) class. |
-| [Mesh(height_map)](/3d/python-net/aspose.threed.entities/mesh/__init__/#System.Drawing.Bitmap) | Construct a mesh using specified height map, <br/>            if the height map's pixel format contains multiple components, the first(usually the red) component will be used as the height value(z)<br/>            The control point's x and y components are normalized pixel coordinate. |
-| [Mesh(height_map, transform)](/3d/python-net/aspose.threed.entities/mesh/__init__/#System.Drawing.Bitmap-aspose.threed.utilities.Matrix4) | Construct a mesh using specified height map, <br/>            if the height map's pixel format contains multiple components, the first(usually the red) component will be used as the height value(z)<br/>            The control point's x and y components are normalized pixel coordinate. |
-| [Mesh(height_map, tri_mesh, transform)](/3d/python-net/aspose.threed.entities/mesh/__init__/#System.Drawing.Bitmap-bool-aspose.threed.utilities.Matrix4) | Construct a mesh using specified height map, <br/>            if the height map's pixel format contains multiple components, the first(usually the red) component will be used as the height value(z)<br/>            The control point's x and y components are normalized pixel coordinate. |
+| [Mesh(height_map)](/3d/python-net/aspose.threed.entities/mesh/__init__/#System.Drawing.Bitmap) | Construct a mesh using specified height map, <br/>if the height map's pixel format contains multiple components, the first(usually the red) component will be used as the height value(z)<br/>The control point's x and y components are normalized pixel coordinate. |
+| [Mesh(height_map, transform)](/3d/python-net/aspose.threed.entities/mesh/__init__/#System.Drawing.Bitmap-aspose.threed.utilities.Matrix4) | Construct a mesh using specified height map, <br/>if the height map's pixel format contains multiple components, the first(usually the red) component will be used as the height value(z)<br/>The control point's x and y components are normalized pixel coordinate. |
+| [Mesh(height_map, tri_mesh, transform)](/3d/python-net/aspose.threed.entities/mesh/__init__/#System.Drawing.Bitmap-bool-aspose.threed.utilities.Matrix4) | Construct a mesh using specified height map, <br/>if the height map's pixel format contains multiple components, the first(usually the red) component will be used as the height value(z)<br/>The control point's x and y components are normalized pixel coordinate. |
 | [Mesh(name)](/3d/python-net/aspose.threed.entities/mesh/__init__/#str) | Initializes a new instance of the [Mesh](/3d/python-net/aspose.threed.entities/mesh) class. |
 
 
@@ -61,7 +69,7 @@ The Mesh type exposes the following members:
 | [create_polygon(v1, v2, v3)](/3d/python-net/aspose.threed.entities/mesh/create_polygon/#int-int-int) | Create a polygon with 3 vertices(triangle) |
 | [get_property(property)](/3d/python-net/aspose.threed.entities/mesh/get_property/#str) | Get the value of specified property |
 | [set_property(property, value)](/3d/python-net/aspose.threed.entities/mesh/set_property/#str-any) | Sets the value of specified property |
-| [find_property(property_name)](/3d/python-net/aspose.threed.entities/mesh/find_property/#str) | Finds the property.<br/>            It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) <br/>            or native property(Identified by its name) |
+| [find_property(property_name)](/3d/python-net/aspose.threed.entities/mesh/find_property/#str) | Finds the property.<br/>It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) <br/>or native property(Identified by its name) |
 | [get_bounding_box()](/3d/python-net/aspose.threed.entities/mesh/get_bounding_box/#) | Gets the bounding box of current entity in its object space coordinate system. |
 | [get_entity_renderer_key()](/3d/python-net/aspose.threed.entities/mesh/get_entity_renderer_key/#) | Gets the key of the entity renderer registered in the renderer |
 | [get_element(type)](/3d/python-net/aspose.threed.entities/mesh/get_element/#VertexElementType) | Gets a vertex element with specified type |

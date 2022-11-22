@@ -14,6 +14,12 @@ Save options for universal 3d
 
 
 
+**Inheritance:** [U3dSaveOptions](/3d/python-net/aspose.threed.formats/u3dsaveoptions) → 
+[SaveOptions](/3d/python-net/aspose.threed.formats/saveoptions) → 
+[IOConfig](/3d/python-net/aspose.threed.formats/ioconfig)
+
+
+
 The U3dSaveOptions type exposes the following members:
 
 ### Constructors
@@ -26,10 +32,10 @@ The U3dSaveOptions type exposes the following members:
 | Property | Description |
 | :- | :- |
 | [file_format](/3d/python-net/aspose.threed.formats/u3dsaveoptions/file_format) | Gets the file format that specified in current Save/Load option. |
-| [encoding](/3d/python-net/aspose.threed.formats/u3dsaveoptions/encoding) | Gets or sets the default encoding for text-based files.<br/>            Default value is null which means the importer/exporter will decide which encoding to use. |
+| [encoding](/3d/python-net/aspose.threed.formats/u3dsaveoptions/encoding) | Gets or sets the default encoding for text-based files.<br/>Default value is null which means the importer/exporter will decide which encoding to use. |
 | [file_system](/3d/python-net/aspose.threed.formats/u3dsaveoptions/file_system) | Allow user to handle how to manage the external dependencies during load/save. |
 | [lookup_paths](/3d/python-net/aspose.threed.formats/u3dsaveoptions/lookup_paths) | Some files like OBJ depends on external file, the lookup paths will allows Aspose.3D to look for external file to load. |
-| [file_name](/3d/python-net/aspose.threed.formats/u3dsaveoptions/file_name) | The file name of the exporting/importing scene.<br/>            This is optional, but useful when serialize external assets like OBJ's material. |
+| [file_name](/3d/python-net/aspose.threed.formats/u3dsaveoptions/file_name) | The file name of the exporting/importing scene.<br/>This is optional, but useful when serialize external assets like OBJ's material. |
 | [flip_coordinate_system](/3d/python-net/aspose.threed.formats/u3dsaveoptions/flip_coordinate_system) | Gets or sets whether flip coordinate system of control points/normal during importing/exporting. |
 | [mesh_compression](/3d/python-net/aspose.threed.formats/u3dsaveoptions/mesh_compression) | Gets or sets whether to enable mesh data compression. |
 | [export_normals](/3d/python-net/aspose.threed.formats/u3dsaveoptions/export_normals) | Gets or sets whether to export normal data. |

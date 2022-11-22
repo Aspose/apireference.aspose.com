@@ -11,7 +11,14 @@ is_root: false
 ## TriMesh class
 
 A TriMesh contains raw data that can be used by GPU directly.
-            This class is a utility to help to construct a mesh that only contains per-vertex data.
+This class is a utility to help to construct a mesh that only contains per-vertex data.
+
+
+
+**Inheritance:** [TriMesh](/3d/python-net/aspose.threed.entities/trimesh) → 
+[Entity](/3d/python-net/aspose.threed/entity) → 
+[SceneObject](/3d/python-net/aspose.threed/sceneobject) → 
+[A3DObject](/3d/python-net/aspose.threed/a3dobject)
 
 
 
@@ -51,7 +58,7 @@ The TriMesh type exposes the following members:
 | [indices_to_array(result)](/3d/python-net/aspose.threed.entities/trimesh/indices_to_array/#Int32[]&) |  |
 | [get_property(property)](/3d/python-net/aspose.threed.entities/trimesh/get_property/#str) | Get the value of specified property |
 | [set_property(property, value)](/3d/python-net/aspose.threed.entities/trimesh/set_property/#str-any) | Sets the value of specified property |
-| [find_property(property_name)](/3d/python-net/aspose.threed.entities/trimesh/find_property/#str) | Finds the property.<br/>            It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) <br/>            or native property(Identified by its name) |
+| [find_property(property_name)](/3d/python-net/aspose.threed.entities/trimesh/find_property/#str) | Finds the property.<br/>It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) <br/>or native property(Identified by its name) |
 | [get_bounding_box()](/3d/python-net/aspose.threed.entities/trimesh/get_bounding_box/#) | Gets the bounding box of current entity in its object space coordinate system. |
 | [get_entity_renderer_key()](/3d/python-net/aspose.threed.entities/trimesh/get_entity_renderer_key/#) | Gets the key of the entity renderer registered in the renderer |
 | [copy_from(input, vd)](/3d/python-net/aspose.threed.entities/trimesh/copy_from/#TriMesh-aspose.threed.utilities.VertexDeclaration) |  |

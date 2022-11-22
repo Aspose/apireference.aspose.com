@@ -12,7 +12,7 @@ is_root: false
 
 
 Gets or sets the radius of the circular arcs of all four corners, measured in degrees.
-            Default value is 0.0
+Default value is 0.0
 
 ### See Also
 * module [aspose.threed.profiles](../../)

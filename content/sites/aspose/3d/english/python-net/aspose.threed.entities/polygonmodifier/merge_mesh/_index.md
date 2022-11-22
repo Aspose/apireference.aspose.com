@@ -11,7 +11,7 @@ is_root: false
 ## merge_mesh(scene) {#Scene}
 
 Convert a whole scene to a single transformed mesh
-            Vertex elements like normal/texture coordinates are not supported yet
+Vertex elements like normal/texture coordinates are not supported yet
 
 ### Returns 
 
@@ -48,7 +48,7 @@ def merge_mesh(self, nodes):
 ## merge_mesh(node) {#Node}
 
 Convert a whole node to a single transformed mesh
-            Vertex elements like normal/texture coordinates are not supported yet
+Vertex elements like normal/texture coordinates are not supported yet
 
 ### Returns 
 

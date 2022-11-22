@@ -12,7 +12,7 @@ is_root: false
 
 
 Gets or sets the length of the theta.
-            The default value is 2π.
+The default value is 2π.
 
 ### See Also
 * module [aspose.threed.entities](../../)

@@ -11,7 +11,12 @@ is_root: false
 ## VertexElementUserData class
 
 Defines custom user data for specified components.
-            Usually it's application-specific data for special purpose.
+Usually it's application-specific data for special purpose.
+
+
+
+**Inheritance:** [VertexElementUserData](/3d/python-net/aspose.threed.entities/vertexelementuserdata) → 
+[VertexElement](/3d/python-net/aspose.threed.entities/vertexelement)
 
 
 
