@@ -83,13 +83,13 @@ The PdfFormat type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [detect(stream, file_name)](/3d/python-net/aspose.threed.formats/pdfformat/detect/#System.IO.Stream-str) | Detect the file format from data stream, file name is optional for guessing types that has no magic header. |
+| [detect(stream, file_name)](/3d/python-net/aspose.threed.formats/pdfformat/detect/#io.RawIOBase-str) | Detect the file format from data stream, file name is optional for guessing types that has no magic header. |
 | [detect(file_name)](/3d/python-net/aspose.threed.formats/pdfformat/detect/#str) | Detect the file format from file name, file must be readable so Aspose.3D can detect the file format through file header. |
 | [extract(file_name, password)](/3d/python-net/aspose.threed.formats/pdfformat/extract/#str-byte[]) |  |
-| [extract(stream, password)](/3d/python-net/aspose.threed.formats/pdfformat/extract/#System.IO.Stream-byte[]) |  |
+| [extract(stream, password)](/3d/python-net/aspose.threed.formats/pdfformat/extract/#io.RawIOBase-byte[]) |  |
 | [extract_scene(file_name)](/3d/python-net/aspose.threed.formats/pdfformat/extract_scene/#str) | Extract 3D scenes from PDF file. |
 | [extract_scene(file_name, password)](/3d/python-net/aspose.threed.formats/pdfformat/extract_scene/#str-byte[]) |  |
-| [extract_scene(stream, password)](/3d/python-net/aspose.threed.formats/pdfformat/extract_scene/#System.IO.Stream-byte[]) |  |
+| [extract_scene(stream, password)](/3d/python-net/aspose.threed.formats/pdfformat/extract_scene/#io.RawIOBase-byte[]) |  |
 | [get_format_by_extension(extension_name)](/3d/python-net/aspose.threed.formats/pdfformat/get_format_by_extension/#str) | Gets the preferred file format from the file extension name<br/>The extension name should starts with a dot('.'). |
 | [create_load_options()](/3d/python-net/aspose.threed.formats/pdfformat/create_load_options/#) | Create a default load options for this file format |
 | [create_save_options()](/3d/python-net/aspose.threed.formats/pdfformat/create_save_options/#) | Create a default save options for this file format |

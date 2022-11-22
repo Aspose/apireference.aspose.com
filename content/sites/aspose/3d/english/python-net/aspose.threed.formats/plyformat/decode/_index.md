@@ -30,7 +30,7 @@ def decode(self, file_name, opt):
 | opt | [PlyLoadOptions](/3d/python-net/aspose.threed.formats/plyloadoptions) | The load option of PLY format |
 
 
-## decode(stream, opt) {#System.IO.Stream-PlyLoadOptions}
+## decode(stream, opt) {#io.RawIOBase-PlyLoadOptions}
 
 Decode a point cloud or mesh from the specified stream.
 
@@ -48,7 +48,7 @@ def decode(self, stream, opt):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| stream | System.IO.Stream | The input stream |
+| stream | io.RawIOBase | The input stream |
 | opt | [PlyLoadOptions](/3d/python-net/aspose.threed.formats/plyloadoptions) | The load option of PLY format |
 
 

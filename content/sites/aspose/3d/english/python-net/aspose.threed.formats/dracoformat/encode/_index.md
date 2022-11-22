@@ -30,7 +30,7 @@ def encode(self, entity, options):
 | options | [DracoSaveOptions](/3d/python-net/aspose.threed.formats/dracosaveoptions) | Extra options for encoding the point cloud |
 
 
-## encode(entity, stream, options) {#Entity-System.IO.Stream-DracoSaveOptions}
+## encode(entity, stream, options) {#Entity-io.RawIOBase-DracoSaveOptions}
 
 Encode the entity to specified stream
 
@@ -45,7 +45,7 @@ def encode(self, entity, stream, options):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | entity | [Entity](/3d/python-net/aspose.threed/entity) | The entity to be encoded |
-| stream | System.IO.Stream | The stream that encoded data will be written to |
+| stream | io.RawIOBase | The stream that encoded data will be written to |
 | options | [DracoSaveOptions](/3d/python-net/aspose.threed.formats/dracosaveoptions) | Extra options for encoding the point cloud |
 
 

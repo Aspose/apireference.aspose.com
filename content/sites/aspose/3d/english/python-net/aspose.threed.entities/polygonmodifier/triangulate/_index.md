@@ -46,7 +46,7 @@ def triangulate(self, mesh):
 | mesh | [Mesh](/3d/python-net/aspose.threed.entities/mesh) | The original non-triangle mesh |
 
 
-## triangulate(control_points) {#System.Collections.Generic.IList<Aspose.ThreeD.Utilities.Vector4>}
+## triangulate(control_points) {#list}
 
 
 
@@ -58,10 +58,10 @@ def triangulate(self, control_points):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| control_points | System.Collections.Generic.IList<Aspose.ThreeD.Utilities.Vector4> |  |
+| control_points | list |  |
 
 
-## triangulate(control_points, polygons) {#System.Collections.Generic.IList<Aspose.ThreeD.Utilities.Vector4>-System.Collections.Generic.IList<int[]>}
+## triangulate(control_points, polygons) {#list-list}
 
 
 
@@ -73,11 +73,11 @@ def triangulate(self, control_points, polygons):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| control_points | System.Collections.Generic.IList<Aspose.ThreeD.Utilities.Vector4> |  |
-| polygons | System.Collections.Generic.IList<int[]> |  |
+| control_points | list |  |
+| polygons | list |  |
 
 
-## triangulate(control_points, polygon) {#System.Collections.Generic.IList<Aspose.ThreeD.Utilities.Vector4>-int[]}
+## triangulate(control_points, polygon) {#list-int[]}
 
 
 
@@ -89,11 +89,11 @@ def triangulate(self, control_points, polygon):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| control_points | System.Collections.Generic.IList<Aspose.ThreeD.Utilities.Vector4> |  |
+| control_points | list |  |
 | polygon | int[] |  |
 
 
-## triangulate(control_points, polygons, generate_normals, nor_out) {#System.Collections.Generic.IList<Aspose.ThreeD.Utilities.Vector4>-System.Collections.Generic.IList<int[]>-bool-Aspose.ThreeD.Utilities.Vector3[]&}
+## triangulate(control_points, polygons, generate_normals, nor_out) {#list-list-bool-Aspose.ThreeD.Utilities.Vector3[]&}
 
 
 
@@ -105,8 +105,8 @@ def triangulate(self, control_points, polygons, generate_normals, nor_out):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| control_points | System.Collections.Generic.IList<Aspose.ThreeD.Utilities.Vector4> |  |
-| polygons | System.Collections.Generic.IList<int[]> |  |
+| control_points | list |  |
+| polygons | list |  |
 | generate_normals | bool |  |
 | nor_out | Aspose.ThreeD.Utilities.Vector3[]& |  |
 

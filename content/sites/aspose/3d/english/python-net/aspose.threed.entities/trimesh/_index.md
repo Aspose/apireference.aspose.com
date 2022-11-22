@@ -64,9 +64,9 @@ The TriMesh type exposes the following members:
 | [copy_from(input, vd)](/3d/python-net/aspose.threed.entities/trimesh/copy_from/#TriMesh-aspose.threed.utilities.VertexDeclaration) |  |
 | [begin_vertex()](/3d/python-net/aspose.threed.entities/trimesh/begin_vertex/#) | Begin adding vertex |
 | [end_vertex()](/3d/python-net/aspose.threed.entities/trimesh/end_vertex/#) | End adding vertex |
-| [write_vertices_to(stream)](/3d/python-net/aspose.threed.entities/trimesh/write_vertices_to/#System.IO.Stream) | Write vertices data to the specified stream |
-| [write_16b_indices_to(stream)](/3d/python-net/aspose.threed.entities/trimesh/write_16b_indices_to/#System.IO.Stream) | Write the indices data as 16bit integer to the stream |
-| [write_32b_indices_to(stream)](/3d/python-net/aspose.threed.entities/trimesh/write_32b_indices_to/#System.IO.Stream) | Write the indices data as 32bit integer to the stream |
+| [write_vertices_to(stream)](/3d/python-net/aspose.threed.entities/trimesh/write_vertices_to/#io.RawIOBase) | Write vertices data to the specified stream |
+| [write_16b_indices_to(stream)](/3d/python-net/aspose.threed.entities/trimesh/write_16b_indices_to/#io.RawIOBase) | Write the indices data as 16bit integer to the stream |
+| [write_32b_indices_to(stream)](/3d/python-net/aspose.threed.entities/trimesh/write_32b_indices_to/#io.RawIOBase) | Write the indices data as 32bit integer to the stream |
 | [vertices_to_array()](/3d/python-net/aspose.threed.entities/trimesh/vertices_to_array/#) | Convert the vertices data to byte array |
 | [from_raw_data(vd, vertices, indices, generate_vertex_mapping)](/3d/python-net/aspose.threed.entities/trimesh/from_raw_data/#aspose.threed.utilities.VertexDeclaration-byte[]-int[]-bool) |  |
 | [load_vertices_from_bytes(vertices_in_bytes)](/3d/python-net/aspose.threed.entities/trimesh/load_vertices_from_bytes/#byte[]) |  |

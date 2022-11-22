@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.formats/plyformat/encode/
 is_root: false
 ---
 
-## encode(entity, stream, opt) {#Entity-System.IO.Stream-PlySaveOptions}
+## encode(entity, stream, opt) {#Entity-io.RawIOBase-PlySaveOptions}
 
 Encode the entity and save the result into the stream.
 
@@ -23,7 +23,7 @@ def encode(self, entity, stream, opt):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | entity | [Entity](/3d/python-net/aspose.threed/entity) | The entity to encode |
-| stream | System.IO.Stream | The stream to write to, this method will not close this stream |
+| stream | io.RawIOBase | The stream to write to, this method will not close this stream |
 | opt | [PlySaveOptions](/3d/python-net/aspose.threed.formats/plysaveoptions) | Save options |
 
 

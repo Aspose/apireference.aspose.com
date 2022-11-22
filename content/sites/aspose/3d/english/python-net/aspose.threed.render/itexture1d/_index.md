@@ -36,8 +36,8 @@ The ITexture1D type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [save(path, format)](/3d/python-net/aspose.threed.render/itexture1d/save/#str-System.Drawing.Imaging.ImageFormat) | Save the texture content to external file. |
-| [save(bitmap)](/3d/python-net/aspose.threed.render/itexture1d/save/#System.Drawing.Bitmap) | Save the texture content to external file. |
+| [save(path, format)](/3d/python-net/aspose.threed.render/itexture1d/save/#str-aspose.pydrawing.imaging.ImageFormat) | Save the texture content to external file. |
+| [save(bitmap)](/3d/python-net/aspose.threed.render/itexture1d/save/#aspose.pydrawing.Bitmap) | Save the texture content to external file. |
 | [load(bitmap)](/3d/python-net/aspose.threed.render/itexture1d/load/#TextureData) | Load texture content from specified Bitmap |
 | [to_bitmap()](/3d/python-net/aspose.threed.render/itexture1d/to_bitmap/#) | Convert the texture unit to Bitmap instance |
 

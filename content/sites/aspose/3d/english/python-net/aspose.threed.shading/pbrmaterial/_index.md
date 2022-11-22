@@ -26,7 +26,7 @@ The PbrMaterial type exposes the following members:
 | Constructor | Description |
 | :- | :- |
 | [PbrMaterial()](/3d/python-net/aspose.threed.shading/pbrmaterial/__init__/#) | Construct a default PBR material instance |
-| [PbrMaterial(albedo)](/3d/python-net/aspose.threed.shading/pbrmaterial/__init__/#System.Drawing.Color) | Construct a default PBR material with specified albedo color value. |
+| [PbrMaterial(albedo)](/3d/python-net/aspose.threed.shading/pbrmaterial/__init__/#aspose.pydrawing.Color) | Construct a default PBR material with specified albedo color value. |
 
 
 ### Properties

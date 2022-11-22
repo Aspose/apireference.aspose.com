@@ -37,7 +37,7 @@ The ITextureCubemap type exposes the following members:
 | Method | Description |
 | :- | :- |
 | [load(face, data)](/3d/python-net/aspose.threed.render/itexturecubemap/load/#CubeFace-TextureData) | Load the data into specified face |
-| [save(side, bitmap)](/3d/python-net/aspose.threed.render/itexturecubemap/save/#CubeFace-System.Drawing.Bitmap) | Save the specified side to memory |
+| [save(side, bitmap)](/3d/python-net/aspose.threed.render/itexturecubemap/save/#CubeFace-aspose.pydrawing.Bitmap) | Save the specified side to memory |
 | [to_bitmap(side)](/3d/python-net/aspose.threed.render/itexturecubemap/to_bitmap/#CubeFace) | Convert the texture unit to Bitmap instance |
 
 

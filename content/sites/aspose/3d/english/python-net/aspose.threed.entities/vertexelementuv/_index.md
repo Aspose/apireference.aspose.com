@@ -44,8 +44,8 @@ The VertexElementUV type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [add_data(data)](/3d/python-net/aspose.threed.entities/vertexelementuv/add_data/#System.Collections.Generic.IEnumerable<Aspose.ThreeD.Utilities.Vector2>) |  |
-| [add_data(data)](/3d/python-net/aspose.threed.entities/vertexelementuv/add_data/#System.Collections.Generic.IEnumerable<Aspose.ThreeD.Utilities.Vector3>) |  |
+| [add_data(data)](/3d/python-net/aspose.threed.entities/vertexelementuv/add_data/#list) |  |
+| [add_data(data)](/3d/python-net/aspose.threed.entities/vertexelementuv/add_data/#list) |  |
 | [set_indices(data)](/3d/python-net/aspose.threed.entities/vertexelementuv/set_indices/#int[]) |  |
 | [clear()](/3d/python-net/aspose.threed.entities/vertexelementuv/clear/#) | Removes all elements from the direct and the index arrays. |
 | [copy_to(target)](/3d/python-net/aspose.threed.entities/vertexelementuv/copy_to/#VertexElementVector4) | Copies data to specified element |

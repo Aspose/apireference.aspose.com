@@ -19,7 +19,7 @@ The TextureData type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [TextureData(width, height, stride, bytes_per_pixel, pixel_format, data)](/3d/python-net/aspose.threed.render/texturedata/__init__/#int-int-int-int-System.Drawing.Imaging.PixelFormat-byte[]) |  |
+| [TextureData(width, height, stride, bytes_per_pixel, pixel_format, data)](/3d/python-net/aspose.threed.render/texturedata/__init__/#int-int-int-int-aspose.pydrawing.imaging.PixelFormat-byte[]) |  |
 | [TextureData(width, height, stride, bytes_per_pixel, pixel_format, data)](/3d/python-net/aspose.threed.render/texturedata/__init__/#int-int-int-int-PixelFormat-byte[]) |  |
 | [TextureData()](/3d/python-net/aspose.threed.render/texturedata/__init__/#) | Constructor of [TextureData](/3d/python-net/aspose.threed.render/texturedata) |
 
@@ -38,9 +38,9 @@ The TextureData type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [from_bitmap(bitmap)](/3d/python-net/aspose.threed.render/texturedata/from_bitmap/#System.Drawing.Bitmap) | Convert a Bitmap to [TextureData](/3d/python-net/aspose.threed.render/texturedata) |
+| [from_bitmap(bitmap)](/3d/python-net/aspose.threed.render/texturedata/from_bitmap/#aspose.pydrawing.Bitmap) | Convert a Bitmap to [TextureData](/3d/python-net/aspose.threed.render/texturedata) |
 | [to_bitmap()](/3d/python-net/aspose.threed.render/texturedata/to_bitmap/#) | Convert the TextureData to a Bitmap instance. |
-| [from_stream(stream)](/3d/python-net/aspose.threed.render/texturedata/from_stream/#System.IO.Stream) | Load a texture from stream |
+| [from_stream(stream)](/3d/python-net/aspose.threed.render/texturedata/from_stream/#io.RawIOBase) | Load a texture from stream |
 | [from_file(file_name)](/3d/python-net/aspose.threed.render/texturedata/from_file/#str) | Load a texture from file |
 
 

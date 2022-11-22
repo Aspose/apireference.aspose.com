@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.entities/vertexelementuv/add_data/
 is_root: false
 ---
 
-## add_data(data) {#System.Collections.Generic.IEnumerable<Aspose.ThreeD.Utilities.Vector2>}
+## add_data(data) {#list}
 
 
 
@@ -20,10 +20,10 @@ def add_data(self, data):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| data | System.Collections.Generic.IEnumerable<Aspose.ThreeD.Utilities.Vector2> |  |
+| data | list |  |
 
 
-## add_data(data) {#System.Collections.Generic.IEnumerable<Aspose.ThreeD.Utilities.Vector3>}
+## add_data(data) {#list}
 
 
 
@@ -35,7 +35,7 @@ def add_data(self, data):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| data | System.Collections.Generic.IEnumerable<Aspose.ThreeD.Utilities.Vector3> |  |
+| data | list |  |
 
 
 

@@ -25,7 +25,7 @@ def save(self, file_name):
 | file_name | str | File name. |
 
 
-## save(stream, format) {#System.IO.Stream-FileFormat}
+## save(stream, format) {#io.RawIOBase-FileFormat}
 
 Saves the scene to stream using specified file format.
 
@@ -39,11 +39,11 @@ def save(self, stream, format):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| stream | System.IO.Stream | Input stream, user is responsible for closing the stream. |
+| stream | io.RawIOBase | Input stream, user is responsible for closing the stream. |
 | format | [FileFormat](/3d/python-net/aspose.threed/fileformat) | Format. |
 
 
-## save(stream, options) {#System.IO.Stream-aspose.threed.formats.SaveOptions}
+## save(stream, options) {#io.RawIOBase-aspose.threed.formats.SaveOptions}
 
 Saves the scene to stream using specified file format.
 
@@ -57,7 +57,7 @@ def save(self, stream, options):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| stream | System.IO.Stream | Input stream, user is responsible for closing the stream. |
+| stream | io.RawIOBase | Input stream, user is responsible for closing the stream. |
 | options | aspose.threed.formats.SaveOptions | More detailed configuration to save the stream. |
 
 

@@ -22,7 +22,7 @@ def __init__(self):
 
 
 
-## PbrMaterial(albedo) {#System.Drawing.Color}
+## PbrMaterial(albedo) {#aspose.pydrawing.Color}
 
 Construct a default PBR material with specified albedo color value.
 
@@ -36,7 +36,7 @@ def __init__(self, albedo):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| albedo | System.Drawing.Color | The default albedo color value |
+| albedo | aspose.pydrawing.Color | The default albedo color value |
 
 
 

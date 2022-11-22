@@ -20,7 +20,7 @@ def __init__(self):
 
 
 
-## Vector4(color) {#System.Drawing.Color}
+## Vector4(color) {#aspose.pydrawing.Color}
 
 Initializes a new instance of the [Vector4](/3d/python-net/aspose.threed.utilities/vector4) struct.
 
@@ -34,7 +34,7 @@ def __init__(self, color):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| color | System.Drawing.Color | Color. |
+| color | aspose.pydrawing.Color | Color. |
 
 
 ## Vector4(vec) {#Vector3}

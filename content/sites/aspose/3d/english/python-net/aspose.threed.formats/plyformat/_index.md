@@ -83,12 +83,12 @@ The PlyFormat type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [detect(stream, file_name)](/3d/python-net/aspose.threed.formats/plyformat/detect/#System.IO.Stream-str) | Detect the file format from data stream, file name is optional for guessing types that has no magic header. |
+| [detect(stream, file_name)](/3d/python-net/aspose.threed.formats/plyformat/detect/#io.RawIOBase-str) | Detect the file format from data stream, file name is optional for guessing types that has no magic header. |
 | [detect(file_name)](/3d/python-net/aspose.threed.formats/plyformat/detect/#str) | Detect the file format from file name, file must be readable so Aspose.3D can detect the file format through file header. |
-| [encode(entity, stream, opt)](/3d/python-net/aspose.threed.formats/plyformat/encode/#Entity-System.IO.Stream-PlySaveOptions) | Encode the entity and save the result into the stream. |
+| [encode(entity, stream, opt)](/3d/python-net/aspose.threed.formats/plyformat/encode/#Entity-io.RawIOBase-PlySaveOptions) | Encode the entity and save the result into the stream. |
 | [encode(entity, file_name, opt)](/3d/python-net/aspose.threed.formats/plyformat/encode/#Entity-str-PlySaveOptions) | Encode the entity and save the result into an external file. |
 | [decode(file_name, opt)](/3d/python-net/aspose.threed.formats/plyformat/decode/#str-PlyLoadOptions) | Decode a point cloud or mesh from the specified stream. |
-| [decode(stream, opt)](/3d/python-net/aspose.threed.formats/plyformat/decode/#System.IO.Stream-PlyLoadOptions) | Decode a point cloud or mesh from the specified stream. |
+| [decode(stream, opt)](/3d/python-net/aspose.threed.formats/plyformat/decode/#io.RawIOBase-PlyLoadOptions) | Decode a point cloud or mesh from the specified stream. |
 | [get_format_by_extension(extension_name)](/3d/python-net/aspose.threed.formats/plyformat/get_format_by_extension/#str) | Gets the preferred file format from the file extension name<br/>The extension name should starts with a dot('.'). |
 | [create_load_options()](/3d/python-net/aspose.threed.formats/plyformat/create_load_options/#) | Create a default load options for this file format |
 | [create_save_options()](/3d/python-net/aspose.threed.formats/plyformat/create_save_options/#) | Create a default save options for this file format |

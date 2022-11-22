@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.render/texturedata/from_stream/
 is_root: false
 ---
 
-## from_stream(stream) {#System.IO.Stream}
+## from_stream(stream) {#io.RawIOBase}
 
 Load a texture from stream
 
@@ -26,7 +26,7 @@ def from_stream(self, stream):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| stream | System.IO.Stream |  |
+| stream | io.RawIOBase |  |
 
 
 

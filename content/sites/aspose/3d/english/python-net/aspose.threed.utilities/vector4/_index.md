@@ -19,7 +19,7 @@ The Vector4 type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [Vector4(color)](/3d/python-net/aspose.threed.utilities/vector4/__init__/#System.Drawing.Color) | Initializes a new instance of the [Vector4](/3d/python-net/aspose.threed.utilities/vector4) struct. |
+| [Vector4(color)](/3d/python-net/aspose.threed.utilities/vector4/__init__/#aspose.pydrawing.Color) | Initializes a new instance of the [Vector4](/3d/python-net/aspose.threed.utilities/vector4) struct. |
 | [Vector4(vec, w)](/3d/python-net/aspose.threed.utilities/vector4/__init__/#Vector3-float) | Initializes a new instance of the [Vector4](/3d/python-net/aspose.threed.utilities/vector4) struct. |
 | [Vector4(vec)](/3d/python-net/aspose.threed.utilities/vector4/__init__/#Vector3) | Initializes a new instance of the [Vector4](/3d/python-net/aspose.threed.utilities/vector4) struct. |
 | [Vector4(vec)](/3d/python-net/aspose.threed.utilities/vector4/__init__/#FVector4) |  |

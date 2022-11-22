@@ -8,7 +8,7 @@ url: /python-net/aspose.threed/scene/open/
 is_root: false
 ---
 
-## open(stream) {#System.IO.Stream}
+## open(stream) {#io.RawIOBase}
 
 Opens the scene from given stream
 
@@ -22,7 +22,7 @@ def open(self, stream):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| stream | System.IO.Stream | Input stream, user is responsible for closing the stream. |
+| stream | io.RawIOBase | Input stream, user is responsible for closing the stream. |
 
 
 ## open(file_name) {#str}

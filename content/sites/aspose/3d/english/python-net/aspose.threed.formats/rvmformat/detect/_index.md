@@ -29,7 +29,7 @@ def detect(self, file_name):
 | file_name | str |  |
 
 
-## detect(stream, file_name) {#System.IO.Stream-str}
+## detect(stream, file_name) {#io.RawIOBase-str}
 
 Detect the file format from data stream, file name is optional for guessing types that has no magic header.
 
@@ -47,7 +47,7 @@ def detect(self, stream, file_name):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| stream | System.IO.Stream |  |
+| stream | io.RawIOBase |  |
 | file_name | str |  |
 
 

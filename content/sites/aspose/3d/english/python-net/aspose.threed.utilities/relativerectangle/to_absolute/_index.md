@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.utilities/relativerectangle/to_absolute/
 is_root: false
 ---
 
-## to_absolute(rect) {#System.Drawing.Size}
+## to_absolute(rect) {#aspose.pydrawing.Size}
 
 Convert the relative rectangle to absolute rectangle
 
@@ -26,10 +26,10 @@ def to_absolute(self, rect):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| rect | System.Drawing.Size |  |
+| rect | aspose.pydrawing.Size |  |
 
 
-## to_absolute(rect) {#System.Drawing.Rectangle}
+## to_absolute(rect) {#aspose.pydrawing.Rectangle}
 
 Convert the relative rectangle to absolute rectangle
 
@@ -47,7 +47,7 @@ def to_absolute(self, rect):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| rect | System.Drawing.Rectangle |  |
+| rect | aspose.pydrawing.Rectangle |  |
 
 
 

@@ -21,12 +21,12 @@ The PolygonModifier type exposes the following members:
 | :- | :- |
 | [triangulate(scene)](/3d/python-net/aspose.threed.entities/polygonmodifier/triangulate/#Scene) | Convert all polygon-based meshes into full triangle mesh |
 | [triangulate(mesh)](/3d/python-net/aspose.threed.entities/polygonmodifier/triangulate/#Mesh) | Convert a polygon-based mesh into full triangle mesh |
-| [triangulate(control_points, polygons, generate_normals, nor_out)](/3d/python-net/aspose.threed.entities/polygonmodifier/triangulate/#System.Collections.Generic.IList<Aspose.ThreeD.Utilities.Vector4>-System.Collections.Generic.IList<int[]>-bool-Aspose.ThreeD.Utilities.Vector3[]&) |  |
-| [triangulate(control_points, polygons)](/3d/python-net/aspose.threed.entities/polygonmodifier/triangulate/#System.Collections.Generic.IList<Aspose.ThreeD.Utilities.Vector4>-System.Collections.Generic.IList<int[]>) |  |
-| [triangulate(control_points, polygon)](/3d/python-net/aspose.threed.entities/polygonmodifier/triangulate/#System.Collections.Generic.IList<Aspose.ThreeD.Utilities.Vector4>-int[]) |  |
-| [triangulate(control_points)](/3d/python-net/aspose.threed.entities/polygonmodifier/triangulate/#System.Collections.Generic.IList<Aspose.ThreeD.Utilities.Vector4>) |  |
+| [triangulate(control_points, polygons, generate_normals, nor_out)](/3d/python-net/aspose.threed.entities/polygonmodifier/triangulate/#list-list-bool-Aspose.ThreeD.Utilities.Vector3[]&) |  |
+| [triangulate(control_points, polygons)](/3d/python-net/aspose.threed.entities/polygonmodifier/triangulate/#list-list) |  |
+| [triangulate(control_points, polygon)](/3d/python-net/aspose.threed.entities/polygonmodifier/triangulate/#list-int[]) |  |
+| [triangulate(control_points)](/3d/python-net/aspose.threed.entities/polygonmodifier/triangulate/#list) |  |
 | [merge_mesh(scene)](/3d/python-net/aspose.threed.entities/polygonmodifier/merge_mesh/#Scene) | Convert a whole scene to a single transformed mesh<br/>Vertex elements like normal/texture coordinates are not supported yet |
-| [merge_mesh(nodes)](/3d/python-net/aspose.threed.entities/polygonmodifier/merge_mesh/#System.Collections.Generic.IList<Node>) |  |
+| [merge_mesh(nodes)](/3d/python-net/aspose.threed.entities/polygonmodifier/merge_mesh/#list) |  |
 | [merge_mesh(node)](/3d/python-net/aspose.threed.entities/polygonmodifier/merge_mesh/#Node) | Convert a whole node to a single transformed mesh<br/>Vertex elements like normal/texture coordinates are not supported yet |
 | [scale(scene, scale)](/3d/python-net/aspose.threed.entities/polygonmodifier/scale/#Scene-aspose.threed.utilities.Vector3) | Scale all geometries(Scale the control points not the transformation matrix) in this scene |
 | [scale(node, scale)](/3d/python-net/aspose.threed.entities/polygonmodifier/scale/#Node-aspose.threed.utilities.Vector3) | Scale all geometries(Scale the control points not the transformation matrix) in this node |

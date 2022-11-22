@@ -30,7 +30,7 @@ Tries to find the license in the following locations:
 
 1. Explicit path.
 
-## set_license(stream) {#System.IO.Stream}
+## set_license(stream) {#io.RawIOBase}
 
 Licenses the component.
 
@@ -44,7 +44,7 @@ def set_license(self, stream):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| stream | System.IO.Stream | A stream that contains the license. |
+| stream | io.RawIOBase | A stream that contains the license. |
 ### Remarks
 
 Use this method to load a license from a stream.

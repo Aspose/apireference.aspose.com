@@ -22,7 +22,7 @@ def __init__(self):
 
 
 
-## Mesh(height_map) {#System.Drawing.Bitmap}
+## Mesh(height_map) {#aspose.pydrawing.Bitmap}
 
 Construct a mesh using specified height map, 
 if the height map's pixel format contains multiple components, the first(usually the red) component will be used as the height value(z)
@@ -38,7 +38,7 @@ def __init__(self, height_map):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| height_map | System.Drawing.Bitmap | Input height map |
+| height_map | aspose.pydrawing.Bitmap | Input height map |
 
 
 ## Mesh(name) {#str}
@@ -58,7 +58,7 @@ def __init__(self, name):
 | name | str | Name. |
 
 
-## Mesh(height_map, transform) {#System.Drawing.Bitmap-aspose.threed.utilities.Matrix4}
+## Mesh(height_map, transform) {#aspose.pydrawing.Bitmap-aspose.threed.utilities.Matrix4}
 
 Construct a mesh using specified height map, 
 if the height map's pixel format contains multiple components, the first(usually the red) component will be used as the height value(z)
@@ -74,11 +74,11 @@ def __init__(self, height_map, transform):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| height_map | System.Drawing.Bitmap | Input height map |
+| height_map | aspose.pydrawing.Bitmap | Input height map |
 | transform | aspose.threed.utilities.Matrix4 | The transform that applied on the control points |
 
 
-## Mesh(height_map, tri_mesh, transform) {#System.Drawing.Bitmap-bool-aspose.threed.utilities.Matrix4}
+## Mesh(height_map, tri_mesh, transform) {#aspose.pydrawing.Bitmap-bool-aspose.threed.utilities.Matrix4}
 
 Construct a mesh using specified height map, 
 if the height map's pixel format contains multiple components, the first(usually the red) component will be used as the height value(z)
@@ -94,7 +94,7 @@ def __init__(self, height_map, tri_mesh, transform):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| height_map | System.Drawing.Bitmap | Input height map |
+| height_map | aspose.pydrawing.Bitmap | Input height map |
 | tri_mesh | bool |  |
 | transform | aspose.threed.utilities.Matrix4 | The transform that applied on the control points |
 

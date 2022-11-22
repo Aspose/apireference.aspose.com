@@ -24,7 +24,7 @@ def extract(self, file_name, password):
 | password | byte[] |  |
 
 
-## extract(stream, password) {#System.IO.Stream-byte[]}
+## extract(stream, password) {#io.RawIOBase-byte[]}
 
 
 
@@ -36,7 +36,7 @@ def extract(self, stream, password):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| stream | System.IO.Stream |  |
+| stream | io.RawIOBase |  |
 | password | byte[] |  |
 
 

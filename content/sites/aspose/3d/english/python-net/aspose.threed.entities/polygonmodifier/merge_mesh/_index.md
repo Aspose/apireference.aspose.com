@@ -30,7 +30,7 @@ def merge_mesh(self, scene):
 | scene | [Scene](/3d/python-net/aspose.threed/scene) | The scene to merge |
 
 
-## merge_mesh(nodes) {#System.Collections.Generic.IList<Node>}
+## merge_mesh(nodes) {#list}
 
 
 
@@ -42,7 +42,7 @@ def merge_mesh(self, nodes):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| nodes | System.Collections.Generic.IList<Node> |  |
+| nodes | list |  |
 
 
 ## merge_mesh(node) {#Node}

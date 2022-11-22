@@ -28,7 +28,7 @@ The IRenderTexture type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [create_viewport(camera, background_color, rect)](/3d/python-net/aspose.threed.render/irendertexture/create_viewport/#aspose.threed.entities.Camera-System.Drawing.Color-aspose.threed.utilities.RelativeRectangle) |  |
+| [create_viewport(camera, background_color, rect)](/3d/python-net/aspose.threed.render/irendertexture/create_viewport/#aspose.threed.entities.Camera-aspose.pydrawing.Color-aspose.threed.utilities.RelativeRectangle) |  |
 | [create_viewport(camera, rect)](/3d/python-net/aspose.threed.render/irendertexture/create_viewport/#aspose.threed.entities.Camera-aspose.threed.utilities.RelativeRectangle) |  |
 | [create_viewport(camera)](/3d/python-net/aspose.threed.render/irendertexture/create_viewport/#aspose.threed.entities.Camera) |  |
 

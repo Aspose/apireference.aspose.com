@@ -25,8 +25,8 @@ The ZipArchiveFileSystem type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [ZipArchiveFileSystem(stream, base_dir)](/3d/python-net/aspose.threed.utilities/ziparchivefilesystem/__init__/#System.IO.Stream-str) | Construct a [ZipArchiveFileSystem](/3d/python-net/aspose.threed.utilities/ziparchivefilesystem) through a stream. |
-| [ZipArchiveFileSystem(stream)](/3d/python-net/aspose.threed.utilities/ziparchivefilesystem/__init__/#System.IO.Stream) | Construct a [ZipArchiveFileSystem](/3d/python-net/aspose.threed.utilities/ziparchivefilesystem) through a stream. |
+| [ZipArchiveFileSystem(stream, base_dir)](/3d/python-net/aspose.threed.utilities/ziparchivefilesystem/__init__/#io.RawIOBase-str) | Construct a [ZipArchiveFileSystem](/3d/python-net/aspose.threed.utilities/ziparchivefilesystem) through a stream. |
+| [ZipArchiveFileSystem(stream)](/3d/python-net/aspose.threed.utilities/ziparchivefilesystem/__init__/#io.RawIOBase) | Construct a [ZipArchiveFileSystem](/3d/python-net/aspose.threed.utilities/ziparchivefilesystem) through a stream. |
 | [ZipArchiveFileSystem(file_name)](/3d/python-net/aspose.threed.utilities/ziparchivefilesystem/__init__/#str) | Construct a [ZipArchiveFileSystem](/3d/python-net/aspose.threed.utilities/ziparchivefilesystem) through a file name. |
 
 

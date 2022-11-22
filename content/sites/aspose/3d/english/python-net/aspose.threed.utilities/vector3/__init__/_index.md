@@ -35,7 +35,7 @@ def __init__(self, vec):
 | vec | [FVector3](/3d/python-net/aspose.threed.utilities/fvector3) |  |
 
 
-## Vector3(color) {#System.Drawing.Color}
+## Vector3(color) {#aspose.pydrawing.Color}
 
 Initializes a new instance of the [Vector3](/3d/python-net/aspose.threed.utilities/vector3) struct.
 
@@ -49,7 +49,7 @@ def __init__(self, color):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| color | System.Drawing.Color | Color. |
+| color | aspose.pydrawing.Color | Color. |
 
 
 ## Vector3(v) {#float}

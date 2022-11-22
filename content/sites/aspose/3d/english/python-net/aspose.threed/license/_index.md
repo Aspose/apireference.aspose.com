@@ -26,7 +26,7 @@ The License type exposes the following members:
 | Method | Description |
 | :- | :- |
 | [set_license(license_name)](/3d/python-net/aspose.threed/license/set_license/#str) |  |
-| [set_license(stream)](/3d/python-net/aspose.threed/license/set_license/#System.IO.Stream) |  |
+| [set_license(stream)](/3d/python-net/aspose.threed/license/set_license/#io.RawIOBase) |  |
 
 
 ### See Also

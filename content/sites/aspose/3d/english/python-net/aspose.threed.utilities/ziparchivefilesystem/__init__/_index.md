@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.utilities/ziparchivefilesystem/__init__/
 is_root: false
 ---
 
-## ZipArchiveFileSystem(stream) {#System.IO.Stream}
+## ZipArchiveFileSystem(stream) {#io.RawIOBase}
 
 Construct a [ZipArchiveFileSystem](/3d/python-net/aspose.threed.utilities/ziparchivefilesystem) through a stream.
 
@@ -22,7 +22,7 @@ def __init__(self, stream):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| stream | System.IO.Stream |  |
+| stream | io.RawIOBase |  |
 
 
 ## ZipArchiveFileSystem(file_name) {#str}
@@ -42,7 +42,7 @@ def __init__(self, file_name):
 | file_name | str |  |
 
 
-## ZipArchiveFileSystem(stream, base_dir) {#System.IO.Stream-str}
+## ZipArchiveFileSystem(stream, base_dir) {#io.RawIOBase-str}
 
 Construct a [ZipArchiveFileSystem](/3d/python-net/aspose.threed.utilities/ziparchivefilesystem) through a stream.
 
@@ -56,7 +56,7 @@ def __init__(self, stream, base_dir):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| stream | System.IO.Stream |  |
+| stream | io.RawIOBase |  |
 | base_dir | str |  |
 
 

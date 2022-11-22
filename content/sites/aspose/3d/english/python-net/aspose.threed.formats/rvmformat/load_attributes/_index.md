@@ -27,7 +27,7 @@ def load_attributes(self, scene, file_name, prefix):
 | prefix | str | The prefix of the attributes that used to avoid conflict of names, default value is "rvm:" |
 
 
-## load_attributes(scene, stream, prefix) {#Scene-System.IO.Stream-str}
+## load_attributes(scene, stream, prefix) {#Scene-io.RawIOBase-str}
 
 Load the attributes from specified stream
 
@@ -42,7 +42,7 @@ def load_attributes(self, scene, stream, prefix):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | scene | [Scene](/3d/python-net/aspose.threed/scene) | The scene where the attributes will be applied to |
-| stream | System.IO.Stream | The stream that contains the attributes |
+| stream | io.RawIOBase | The stream that contains the attributes |
 | prefix | str | The prefix of the attributes that used to avoid conflict of names, default value is "rvm:" |
 
 

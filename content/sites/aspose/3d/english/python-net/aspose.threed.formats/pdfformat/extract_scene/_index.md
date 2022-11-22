@@ -45,7 +45,7 @@ def extract_scene(self, file_name, password):
 | password | byte[] |  |
 
 
-## extract_scene(stream, password) {#System.IO.Stream-byte[]}
+## extract_scene(stream, password) {#io.RawIOBase-byte[]}
 
 
 
@@ -57,7 +57,7 @@ def extract_scene(self, stream, password):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| stream | System.IO.Stream |  |
+| stream | io.RawIOBase |  |
 | password | byte[] |  |
 
 

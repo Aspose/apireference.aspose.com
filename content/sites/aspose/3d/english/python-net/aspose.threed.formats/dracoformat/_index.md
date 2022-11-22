@@ -83,11 +83,11 @@ The DracoFormat type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [detect(stream, file_name)](/3d/python-net/aspose.threed.formats/dracoformat/detect/#System.IO.Stream-str) | Detect the file format from data stream, file name is optional for guessing types that has no magic header. |
+| [detect(stream, file_name)](/3d/python-net/aspose.threed.formats/dracoformat/detect/#io.RawIOBase-str) | Detect the file format from data stream, file name is optional for guessing types that has no magic header. |
 | [detect(file_name)](/3d/python-net/aspose.threed.formats/dracoformat/detect/#str) | Detect the file format from file name, file must be readable so Aspose.3D can detect the file format through file header. |
 | [decode(file_name)](/3d/python-net/aspose.threed.formats/dracoformat/decode/#str) | Decode the point cloud or mesh from specified file name |
 | [decode(data)](/3d/python-net/aspose.threed.formats/dracoformat/decode/#byte[]) |  |
-| [encode(entity, stream, options)](/3d/python-net/aspose.threed.formats/dracoformat/encode/#Entity-System.IO.Stream-DracoSaveOptions) | Encode the entity to specified stream |
+| [encode(entity, stream, options)](/3d/python-net/aspose.threed.formats/dracoformat/encode/#Entity-io.RawIOBase-DracoSaveOptions) | Encode the entity to specified stream |
 | [encode(entity, file_name, options)](/3d/python-net/aspose.threed.formats/dracoformat/encode/#Entity-str-DracoSaveOptions) | Encode the entity to specified file |
 | [encode(entity, options)](/3d/python-net/aspose.threed.formats/dracoformat/encode/#Entity-DracoSaveOptions) | Encode the entity to Draco raw data |
 | [get_format_by_extension(extension_name)](/3d/python-net/aspose.threed.formats/dracoformat/get_format_by_extension/#str) | Gets the preferred file format from the file extension name<br/>The extension name should starts with a dot('.'). |

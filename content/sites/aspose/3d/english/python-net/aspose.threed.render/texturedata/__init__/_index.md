@@ -22,7 +22,7 @@ def __init__(self):
 
 
 
-## TextureData(width, height, stride, bytes_per_pixel, pixel_format, data) {#int-int-int-int-System.Drawing.Imaging.PixelFormat-byte[]}
+## TextureData(width, height, stride, bytes_per_pixel, pixel_format, data) {#int-int-int-int-aspose.pydrawing.imaging.PixelFormat-byte[]}
 
 
 
@@ -38,7 +38,7 @@ def __init__(self, width, height, stride, bytes_per_pixel, pixel_format, data):
 | height | int |  |
 | stride | int |  |
 | bytes_per_pixel | int |  |
-| pixel_format | System.Drawing.Imaging.PixelFormat |  |
+| pixel_format | aspose.pydrawing.imaging.PixelFormat |  |
 | data | byte[] |  |
 
 

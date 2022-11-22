@@ -41,8 +41,8 @@ The RelativeRectangle type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [to_absolute(rect)](/3d/python-net/aspose.threed.utilities/relativerectangle/to_absolute/#System.Drawing.Size) | Convert the relative rectangle to absolute rectangle |
-| [to_absolute(rect)](/3d/python-net/aspose.threed.utilities/relativerectangle/to_absolute/#System.Drawing.Rectangle) | Convert the relative rectangle to absolute rectangle |
+| [to_absolute(rect)](/3d/python-net/aspose.threed.utilities/relativerectangle/to_absolute/#aspose.pydrawing.Size) | Convert the relative rectangle to absolute rectangle |
+| [to_absolute(rect)](/3d/python-net/aspose.threed.utilities/relativerectangle/to_absolute/#aspose.pydrawing.Rectangle) | Convert the relative rectangle to absolute rectangle |
 | [from_scale(scale_x, scale_y, scale_width, scale_height)](/3d/python-net/aspose.threed.utilities/relativerectangle/from_scale/#float-float-float-float) | Construct a [RelativeRectangle](/3d/python-net/aspose.threed.utilities/relativerectangle) with all offset fields zero and scale fields from given parameters. |
 
 
