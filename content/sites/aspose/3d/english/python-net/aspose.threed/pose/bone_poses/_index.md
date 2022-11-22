@@ -1,0 +1,18 @@
+﻿---
+title: bone_poses property
+second_title: Aspose.3D for Python via .NET API References
+description: 
+type: docs
+weight: 80
+url: /python-net/aspose.threed/pose/bone_poses/
+is_root: false
+---
+
+## bone_poses property
+
+
+Gets all [BonePose](/3d/python-net/aspose.threed/bonepose).
+
+### See Also
+* module [aspose.threed](../../)
+* class [Pose](/3d/python-net/aspose.threed/pose)

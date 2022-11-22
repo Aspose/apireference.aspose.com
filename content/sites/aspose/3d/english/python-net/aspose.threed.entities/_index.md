@@ -1,0 +1,93 @@
+﻿---
+title: aspose.threed.entities
+second_title: Aspose.3D for Python via .NET API References
+description: 
+type: docs
+weight: 10
+url: /python-net/aspose.threed.entities/
+is_root: false
+---
+
+All geometry and entities are defined in this namespace
+
+### Classes
+| Class | Description |
+| :- | :- |
+| [Box](/3d/python-net/aspose.threed.entities/box) | Box. |
+| [Camera](/3d/python-net/aspose.threed.entities/camera) | The camera describes the eye point of the viewer looking at the scene. |
+| [Circle](/3d/python-net/aspose.threed.entities/circle) | A [Circle](/3d/python-net/aspose.threed.entities/circle) curve consists of a set of points in the edge of the circle shape. |
+| [CompositeCurve](/3d/python-net/aspose.threed.entities/compositecurve) | A [CompositeCurve](/3d/python-net/aspose.threed.entities/compositecurve) is consisting of several curve segments. |
+| [Curve](/3d/python-net/aspose.threed.entities/curve) | The base class of all curve implementations. |
+| [Cylinder](/3d/python-net/aspose.threed.entities/cylinder) | Parameterized Cylinder.<br/>It can also be used to represent the cone when one of radiusTop/radiusBottom is zero. |
+| [Dish](/3d/python-net/aspose.threed.entities/dish) | Parameterized dish. |
+| [Ellipse](/3d/python-net/aspose.threed.entities/ellipse) | An [Ellipse](/3d/python-net/aspose.threed.entities/ellipse) defines a set of points that form the shape of ellipse. |
+| [EndPoint](/3d/python-net/aspose.threed.entities/endpoint) | The end point to trim the curve, can be a parameter value or a Cartesian point. |
+| [Frustum](/3d/python-net/aspose.threed.entities/frustum) | The base class of [Camera](/3d/python-net/aspose.threed.entities/camera) and [Light](/3d/python-net/aspose.threed.entities/light) |
+| [Geometry](/3d/python-net/aspose.threed.entities/geometry) | The base class of all renderable geometric objects (like [Mesh](/3d/python-net/aspose.threed.entities/mesh), [NurbsSurface](/3d/python-net/aspose.threed.entities/nurbssurface), [Patch](/3d/python-net/aspose.threed.entities/patch) and etc.).<br/><br/><br/><br/><br/>The [Geometry](/3d/python-net/aspose.threed.entities/geometry) base class supports:  <br/><br/>* **Control point management** , control points defines the base 3D spatial structure of the geometry, different geometric types has different way to define concrete 3D models. **Vertex element definition** , vertex elements applies extra information like normals/uv coordinates/vertex colors to the geometry, see [VertexElement](/3d/python-net/aspose.threed.entities/vertexelement) for more details.**Object deforming** , [Deformer](/3d/python-net/aspose.threed.deformers/deformer) can be bonded to animate geometry's shape.<br/><br/>* **Control point management** , control points defines the base 3D spatial structure of the geometry, different geometric types has different way to define concrete 3D models. **Vertex element definition** , vertex elements applies extra information like normals/uv coordinates/vertex colors to the geometry, see [VertexElement](/3d/python-net/aspose.threed.entities/vertexelement) for more details.**Object deforming** , [Deformer](/3d/python-net/aspose.threed.deformers/deformer) can be bonded to animate geometry's shape.<br/><br/>* **Control point management** , control points defines the base 3D spatial structure of the geometry, different geometric types has different way to define concrete 3D models. **Vertex element definition** , vertex elements applies extra information like normals/uv coordinates/vertex colors to the geometry, see [VertexElement](/3d/python-net/aspose.threed.entities/vertexelement) for more details.**Object deforming** , [Deformer](/3d/python-net/aspose.threed.deformers/deformer) can be bonded to animate geometry's shape. |
+| [IIndexedVertexElement](/3d/python-net/aspose.threed.entities/iindexedvertexelement) | VertexElement with indices data. |
+| [IMeshConvertible](/3d/python-net/aspose.threed.entities/imeshconvertible) | Entities that implemented this interface can be converted to [Mesh](/3d/python-net/aspose.threed.entities/mesh) |
+| [IOrientable](/3d/python-net/aspose.threed.entities/iorientable) | Orientable entities shall implement this interface. |
+| [Light](/3d/python-net/aspose.threed.entities/light) | The light illuminates the scene.<br/><br/><br/><br/><br/>The formula to calculate the total attenuation of light is:<br/>`A = ConstantAttenuation + (Dist * LinearAttenuation) + ((Dist^2) * QuadraticAttenuation)` |
+| [Line](/3d/python-net/aspose.threed.entities/line) | A polyline is a path defined by a set of points with [Geometry.control_points](/3d/python-net/aspose.threed.entities/geometry#control_points), and connected by [Line.segments](/3d/python-net/aspose.threed.entities/line#segments),<br/>which means it can also be a set of connected line segments.<br/>The line is usually a linear object, which means it cannot be used to represent a curve, in order to represent a curve, uses [NurbsCurve](/3d/python-net/aspose.threed.entities/nurbscurve). |
+| [LinearExtrusion](/3d/python-net/aspose.threed.entities/linearextrusion) | Linear extrusion takes a 2D shape as input and extends the shape in the 3rd dimension. |
+| [Mesh](/3d/python-net/aspose.threed.entities/mesh) | A mesh is made of many n-sided polygons. |
+| [NurbsCurve](/3d/python-net/aspose.threed.entities/nurbscurve) | [NURBS curve](https://en.wikipedia.org/wiki/Non-uniform_rational_B-spline) is a curve represented by NURBS(Non-uniform rational basis spline),<br/>A NURBS curve is defined by its [NurbsCurve.order](/3d/python-net/aspose.threed.entities/nurbscurve#order), a set of weighted [Geometry.control_points](/3d/python-net/aspose.threed.entities/geometry#control_points) and a [NurbsCurve.KnotVectors](/3d/python-net/aspose.threed.entities/nurbscurve)<br/>The w component in control point is used as control point's weight, whatever it is a [CurveDimension.TWO_DIMENSIONAL](/3d/python-net/aspose.threed.entities/curvedimension#TWO_DIMENSIONAL) or [CurveDimension.THREE_DIMENSIONAL](/3d/python-net/aspose.threed.entities/curvedimension#THREE_DIMENSIONAL) |
+| [NurbsDirection](/3d/python-net/aspose.threed.entities/nurbsdirection) | A 3D [NurbsSurface](/3d/python-net/aspose.threed.entities/nurbssurface) has two direction, the [NurbsSurface.u](/3d/python-net/aspose.threed.entities/nurbssurface#u) and [NurbsSurface.v](/3d/python-net/aspose.threed.entities/nurbssurface#v), the [NurbsDirection](/3d/python-net/aspose.threed.entities/nurbsdirection) defines data for each direction.<br/>A direction is actually a NURBS curve, that means it's also defined by its [NurbsDirection.order](/3d/python-net/aspose.threed.entities/nurbsdirection#order), a [NurbsDirection.KnotVectors](/3d/python-net/aspose.threed.entities/nurbsdirection), and a set of weighted control points(defined in [NurbsSurface](/3d/python-net/aspose.threed.entities/nurbssurface)). |
+| [NurbsSurface](/3d/python-net/aspose.threed.entities/nurbssurface) | [NurbsSurface](/3d/python-net/aspose.threed.entities/nurbssurface) is a surface represented by [NURBS(Non-uniform rational basis spline)](https://en.wikipedia.org/wiki/Non-uniform_rational_B-spline),<br/>A [NurbsSurface](/3d/python-net/aspose.threed.entities/nurbssurface) is defined by two [NurbsDirection](/3d/python-net/aspose.threed.entities/nurbsdirection)[NurbsSurface.u](/3d/python-net/aspose.threed.entities/nurbssurface#u) and [NurbsSurface.v](/3d/python-net/aspose.threed.entities/nurbssurface#v).<br/>The w component in control point is used as control point's weight whatever the direction's type is a [CurveDimension.TWO_DIMENSIONAL](/3d/python-net/aspose.threed.entities/curvedimension#TWO_DIMENSIONAL) or [CurveDimension.THREE_DIMENSIONAL](/3d/python-net/aspose.threed.entities/curvedimension#THREE_DIMENSIONAL) |
+| [Patch](/3d/python-net/aspose.threed.entities/patch) | A [Patch](/3d/python-net/aspose.threed.entities/patch) is a parametric modeling surface, similar to [NurbsSurface](/3d/python-net/aspose.threed.entities/nurbssurface), it's also defined by two <br/>[PatchDirection](/3d/python-net/aspose.threed.entities/patchdirection), the [Patch.u](/3d/python-net/aspose.threed.entities/patch#u) and [Patch.v](/3d/python-net/aspose.threed.entities/patch#v).<br/><br/>But difference between [Patch](/3d/python-net/aspose.threed.entities/patch) and [NurbsSurface](/3d/python-net/aspose.threed.entities/nurbssurface) is that the [PatchDirection](/3d/python-net/aspose.threed.entities/patchdirection) curve <br/>can be one of [PatchDirectionType.BEZIER](/3d/python-net/aspose.threed.entities/patchdirectiontype#BEZIER), [PatchDirectionType.QUADRATIC_BEZIER](/3d/python-net/aspose.threed.entities/patchdirectiontype#QUADRATIC_BEZIER), [PatchDirectionType.BASIS_SPLINE](/3d/python-net/aspose.threed.entities/patchdirectiontype#BASIS_SPLINE), [PatchDirectionType.CARDINAL_SPLINE](/3d/python-net/aspose.threed.entities/patchdirectiontype#CARDINAL_SPLINE) and [PatchDirectionType.LINEAR](/3d/python-net/aspose.threed.entities/patchdirectiontype#LINEAR) |
+| [PatchDirection](/3d/python-net/aspose.threed.entities/patchdirection) | Patch's U and V direction. |
+| [Plane](/3d/python-net/aspose.threed.entities/plane) | Parameterized plane. |
+| [PointCloud](/3d/python-net/aspose.threed.entities/pointcloud) | The point cloud contains no topology information but only the control points and the vertex elements. |
+| [PolygonBuilder](/3d/python-net/aspose.threed.entities/polygonbuilder) | A helper class to build polygon for [Mesh](/3d/python-net/aspose.threed.entities/mesh) |
+| [PolygonModifier](/3d/python-net/aspose.threed.entities/polygonmodifier) | Utilities to modify polygons |
+| [Primitive](/3d/python-net/aspose.threed.entities/primitive) | Base class for all primitives |
+| [Pyramid](/3d/python-net/aspose.threed.entities/pyramid) | Parameterized pyramid. |
+| [RectangularTorus](/3d/python-net/aspose.threed.entities/rectangulartorus) | Parameterized rectangular torus. |
+| [RevolvedAreaSolid](/3d/python-net/aspose.threed.entities/revolvedareasolid) | This class represents a solid model by revolving a cross section provided by a profile about an axis. |
+| [Shape](/3d/python-net/aspose.threed.entities/shape) | The shape describes the deformation on a set of control points, which is similar to the cluster deformer in Maya.<br/>For example, we can add a shape to a created geometry. <br/>And the shape and the geometry have the same topological information but different position of the control points. <br/>With varying amounts of influence, the geometry performs a deformation effect. |
+| [Skeleton](/3d/python-net/aspose.threed.entities/skeleton) | The [Skeleton](/3d/python-net/aspose.threed.entities/skeleton) is mainly used by CAD software to help designer to manipulate the transformation of skeletal structure, it's usually useless outside the CAD softwares.<br/>To make the skeleton hierarchy acts like one object in CAD software, it's necessary to mark the top [Skeleton](/3d/python-net/aspose.threed.entities/skeleton) node as the root one by setting [Skeleton.type](/3d/python-net/aspose.threed.entities/skeleton#type) to [SkeletonType.SKELETON](/3d/python-net/aspose.threed.entities/skeletontype#SKELETON),<br/>and all children set to [SkeletonType.BONE](/3d/python-net/aspose.threed.entities/skeletontype#BONE) |
+| [Sphere](/3d/python-net/aspose.threed.entities/sphere) | Parameterized sphere. |
+| [SweptAreaSolid](/3d/python-net/aspose.threed.entities/sweptareasolid) | A [SweptAreaSolid](/3d/python-net/aspose.threed.entities/sweptareasolid) constructs a geometry by sweeping a profile along a directrix. |
+| [Torus](/3d/python-net/aspose.threed.entities/torus) | Parameterized torus. |
+| [TransformedCurve](/3d/python-net/aspose.threed.entities/transformedcurve) | A [TransformedCurve](/3d/python-net/aspose.threed.entities/transformedcurve) gives a curve a placement by using a transformation matrix.<br/>This allows to perform a transformation inside a [TrimmedCurve](/3d/python-net/aspose.threed.entities/trimmedcurve) or [CompositeCurve](/3d/python-net/aspose.threed.entities/compositecurve). |
+| [TriMesh](/3d/python-net/aspose.threed.entities/trimesh) | A TriMesh contains raw data that can be used by GPU directly.<br/>This class is a utility to help to construct a mesh that only contains per-vertex data. |
+| [TrimmedCurve](/3d/python-net/aspose.threed.entities/trimmedcurve) | A bounded curve that trimmed the basis curve at both ends. |
+| [VertexElement](/3d/python-net/aspose.threed.entities/vertexelement) | Base class of vertex elements.<br/>A vertex element type is identified by VertexElementType. <br/>A VertexElement describes how the vertex element is mapped to a geometry surface and how the mapping information is arranged in memory. <br/>A VertexElement contains Normals, UVs or other kind of information. |
+| [VertexElementBinormal](/3d/python-net/aspose.threed.entities/vertexelementbinormal) | Defines the binormal vectors for specified components. |
+| [VertexElementDoublesTemplate](/3d/python-net/aspose.threed.entities/vertexelementdoublestemplate) | A helper class for defining concrete [VertexElement](/3d/python-net/aspose.threed.entities/vertexelement) implementations. |
+| [VertexElementEdgeCrease](/3d/python-net/aspose.threed.entities/vertexelementedgecrease) | Defines the edge crease for specified components |
+| [VertexElementHole](/3d/python-net/aspose.threed.entities/vertexelementhole) | Defines if specified polygon is hole |
+| [VertexElementIntsTemplate](/3d/python-net/aspose.threed.entities/vertexelementintstemplate) | A helper class for defining concrete [VertexElement](/3d/python-net/aspose.threed.entities/vertexelement) implementations. |
+| [VertexElementMaterial](/3d/python-net/aspose.threed.entities/vertexelementmaterial) | Defines material index for specified components.<br/><br/>A node can have multiple materials, the [VertexElementMaterial](/3d/python-net/aspose.threed.entities/vertexelementmaterial) is used to render different part of the geometry in different materials. |
+| [VertexElementNormal](/3d/python-net/aspose.threed.entities/vertexelementnormal) | Defines normal vectors for specified components. |
+| [VertexElementPolygonGroup](/3d/python-net/aspose.threed.entities/vertexelementpolygongroup) | Defines polygon group for specified components to group related polygons together. |
+| [VertexElementSmoothingGroup](/3d/python-net/aspose.threed.entities/vertexelementsmoothinggroup) | A smoothing group is a group of polygons in a polygon mesh which should appear to form a smooth surface.<br/>Some early 3d modeling software like 3D studio max for DOS used smoothing group to void storing normal vector for each mesh vertex. |
+| [VertexElementSpecular](/3d/python-net/aspose.threed.entities/vertexelementspecular) | Defines specular color for specified components. |
+| [VertexElementTangent](/3d/python-net/aspose.threed.entities/vertexelementtangent) | Defines tangent vectors for specified components. |
+| [VertexElementUV](/3d/python-net/aspose.threed.entities/vertexelementuv) | Defines the UV coordinates for specified components.<br/>A geometry can have multiple [VertexElementUV](/3d/python-net/aspose.threed.entities/vertexelementuv) elements, and each one have different [TextureMapping](/3d/python-net/aspose.threed.entities/texturemapping)s. |
+| [VertexElementUserData](/3d/python-net/aspose.threed.entities/vertexelementuserdata) | Defines custom user data for specified components.<br/>Usually it's application-specific data for special purpose. |
+| [VertexElementVector4](/3d/python-net/aspose.threed.entities/vertexelementvector4) | A helper class for defining concrete [VertexElement](/3d/python-net/aspose.threed.entities/vertexelement) implementations. |
+| [VertexElementVertexColor](/3d/python-net/aspose.threed.entities/vertexelementvertexcolor) | Defines the vertex color for specified components |
+| [VertexElementVertexCrease](/3d/python-net/aspose.threed.entities/vertexelementvertexcrease) | Defines the vertex crease for specified components |
+| [VertexElementVisibility](/3d/python-net/aspose.threed.entities/vertexelementvisibility) | Defines if specified components is visible |
+| [VertexElementWeight](/3d/python-net/aspose.threed.entities/vertexelementweight) | Defines blend weight for specified components. |
+
+
+### Enumerations
+| Enumeration | Description |
+| :- | :- |
+| [ApertureMode](/3d/python-net/aspose.threed.entities/aperturemode) | Camera aperture modes.<br/>The aperture mode determines which values drive the camera aperture. <br/>If the aperture mode is HorizAndVert, Horizontal, or Vertical, then the field of view is used. <br/>If the aperture mode is FocalLength, then the focal length is used. |
+| [CurveDimension](/3d/python-net/aspose.threed.entities/curvedimension) | The dimension of the curves. |
+| [LightType](/3d/python-net/aspose.threed.entities/lighttype) | Light types. |
+| [MappingMode](/3d/python-net/aspose.threed.entities/mappingmode) | Determines how the element is mapped to a surface. <br/>The [MappingMode](/3d/python-net/aspose.threed.entities/mappingmode) defined how [VertexElement](/3d/python-net/aspose.threed.entities/vertexelement) is mapped to the surface of geometry. |
+| [NurbsType](/3d/python-net/aspose.threed.entities/nurbstype) | NURBS types. |
+| [PatchDirectionType](/3d/python-net/aspose.threed.entities/patchdirectiontype) | Patch direction's types. |
+| [ProjectionType](/3d/python-net/aspose.threed.entities/projectiontype) | Camera's projection types. |
+| [ReferenceMode](/3d/python-net/aspose.threed.entities/referencemode) | [ReferenceMode](/3d/python-net/aspose.threed.entities/referencemode) defines how mapping information is stored and referenced by. |
+| [RotationMode](/3d/python-net/aspose.threed.entities/rotationmode) | The frustum's rotation mode |
+| [SkeletonType](/3d/python-net/aspose.threed.entities/skeletontype) | [Skeleton](/3d/python-net/aspose.threed.entities/skeleton)'s types. |
+| [SplitMeshPolicy](/3d/python-net/aspose.threed.entities/splitmeshpolicy) | Share vertex/control point data between sub-meshes or each sub-mesh has its own compacted data. |
+| [TextureMapping](/3d/python-net/aspose.threed.entities/texturemapping) | The texture mapping type for [VertexElementUV](/3d/python-net/aspose.threed.entities/vertexelementuv)<br/>Describes which kind of texture mapping is used. |
+| [VertexElementType](/3d/python-net/aspose.threed.entities/vertexelementtype) | The type of the vertex element, defined how it will be used in modeling. |
+
+

@@ -1,0 +1,16 @@
+﻿---
+title: MAYA_ASCII property
+second_title: Aspose.3D for Python via .NET API References
+description: 
+type: docs
+weight: 330
+url: /python-net/aspose.threed/fileformat/maya_ascii/
+is_root: false
+---
+
+## MAYA_ASCII property
+
+
+### See Also
+* module [aspose.threed](../../)
+* class [FileFormat](/3d/python-net/aspose.threed/fileformat)
