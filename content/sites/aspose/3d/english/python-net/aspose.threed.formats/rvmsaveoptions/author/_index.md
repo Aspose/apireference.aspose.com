@@ -1,0 +1,18 @@
+﻿---
+title: author property
+second_title: Aspose.3D for Python via .NET API References
+description: 
+type: docs
+weight: 50
+url: /python-net/aspose.threed.formats/rvmsaveoptions/author/
+is_root: false
+---
+
+## author property
+
+
+Author information, default value is '3d@aspose'
+
+### See Also
+* module [aspose.threed.formats](../../)
+* class [RvmSaveOptions](/3d/python-net/aspose.threed.formats/rvmsaveoptions)

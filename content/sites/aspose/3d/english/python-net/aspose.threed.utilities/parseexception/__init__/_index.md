@@ -1,0 +1,31 @@
+﻿---
+title: ParseException constructor
+second_title: Aspose.3D for Python via .NET API References
+description: 
+type: docs
+weight: 10
+url: /python-net/aspose.threed.utilities/parseexception/__init__/
+is_root: false
+---
+
+## ParseException(msg) {#str}
+
+Constructor of [ParseException](/3d/python-net/aspose.threed.utilities/parseexception)
+
+
+
+```python
+def __init__(self, msg):
+    ...
+```
+
+
+| Parameter | Type | Description |
+| :- | :- | :- |
+| msg | str |  |
+
+
+
+### See Also
+* module [aspose.threed.utilities](../../)
+* class [ParseException](/3d/python-net/aspose.threed.utilities/parseexception)
