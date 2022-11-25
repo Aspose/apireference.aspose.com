@@ -1,14 +1,14 @@
 ---
 title: ImageDevice
 second_title: Aspose.SVG for .NET API Reference
-description: Initializes a new instance of the ImageDeviceaspose.svg.rendering.image/imagedevice class.
+description: Initializes a new instance of the ImageDeviceaspose.svg.rendering.image/imagedevice/ class.
 type: docs
 weight: 10
 url: /net/aspose.svg.rendering.image/imagedevice/imagedevice/
 ---
 ## ImageDevice(ICreateStreamProvider) {#constructor}
 
-Initializes a new instance of the [`ImageDevice`](../../imagedevice) class.
+Initializes a new instance of the [`ImageDevice`](../) class.
 
 ```csharp
 public ImageDevice(ICreateStreamProvider streamProvider)
@@ -20,16 +20,16 @@ public ImageDevice(ICreateStreamProvider streamProvider)
 
 ### See Also
 
-* interface [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider)
-* class [ImageDevice](../../imagedevice)
-* namespace [Aspose.Svg.Rendering.Image](../../imagedevice)
+* interface [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)
+* class [ImageDevice](../)
+* namespace [Aspose.Svg.Rendering.Image](../../imagedevice/)
 * assembly [Aspose.SVG](../../../)
 
 ---
 
 ## ImageDevice(ImageRenderingOptions, ICreateStreamProvider) {#constructor_1}
 
-Initializes a new instance of the [`ImageDevice`](../../imagedevice) class by rendering options and stream provider.
+Initializes a new instance of the [`ImageDevice`](../) class by rendering options and stream provider.
 
 ```csharp
 public ImageDevice(ImageRenderingOptions options, ICreateStreamProvider streamProvider)
@@ -38,21 +38,21 @@ public ImageDevice(ImageRenderingOptions options, ICreateStreamProvider streamPr
 | Parameter | Type | Description |
 | --- | --- | --- |
 | options | ImageRenderingOptions | Rendering options. |
-| streamProvider | ICreateStreamProvider | Object that implements the [`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider) interface |
+| streamProvider | ICreateStreamProvider | Object that implements the [`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider/) interface |
 
 ### See Also
 
-* class [ImageRenderingOptions](../../imagerenderingoptions)
-* interface [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider)
-* class [ImageDevice](../../imagedevice)
-* namespace [Aspose.Svg.Rendering.Image](../../imagedevice)
+* class [ImageRenderingOptions](../../imagerenderingoptions/)
+* interface [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)
+* class [ImageDevice](../)
+* namespace [Aspose.Svg.Rendering.Image](../../imagedevice/)
 * assembly [Aspose.SVG](../../../)
 
 ---
 
 ## ImageDevice(string) {#constructor_5}
 
-Initializes a new instance of the [`ImageDevice`](../../imagedevice) class.
+Initializes a new instance of the [`ImageDevice`](../) class.
 
 ```csharp
 public ImageDevice(string file)
@@ -64,15 +64,15 @@ public ImageDevice(string file)
 
 ### See Also
 
-* class [ImageDevice](../../imagedevice)
-* namespace [Aspose.Svg.Rendering.Image](../../imagedevice)
+* class [ImageDevice](../)
+* namespace [Aspose.Svg.Rendering.Image](../../imagedevice/)
 * assembly [Aspose.SVG](../../../)
 
 ---
 
 ## ImageDevice(ImageRenderingOptions, string) {#constructor_3}
 
-Initializes a new instance of the [`ImageDevice`](../../imagedevice) class by rendering options and output file name.
+Initializes a new instance of the [`ImageDevice`](../) class by rendering options and output file name.
 
 ```csharp
 public ImageDevice(ImageRenderingOptions options, string file)
@@ -85,16 +85,16 @@ public ImageDevice(ImageRenderingOptions options, string file)
 
 ### See Also
 
-* class [ImageRenderingOptions](../../imagerenderingoptions)
-* class [ImageDevice](../../imagedevice)
-* namespace [Aspose.Svg.Rendering.Image](../../imagedevice)
+* class [ImageRenderingOptions](../../imagerenderingoptions/)
+* class [ImageDevice](../)
+* namespace [Aspose.Svg.Rendering.Image](../../imagedevice/)
 * assembly [Aspose.SVG](../../../)
 
 ---
 
 ## ImageDevice(Stream) {#constructor_4}
 
-Initializes a new instance of the [`ImageDevice`](../../imagedevice) class.
+Initializes a new instance of the [`ImageDevice`](../) class.
 
 ```csharp
 public ImageDevice(Stream stream)
@@ -106,15 +106,15 @@ public ImageDevice(Stream stream)
 
 ### See Also
 
-* class [ImageDevice](../../imagedevice)
-* namespace [Aspose.Svg.Rendering.Image](../../imagedevice)
+* class [ImageDevice](../)
+* namespace [Aspose.Svg.Rendering.Image](../../imagedevice/)
 * assembly [Aspose.SVG](../../../)
 
 ---
 
 ## ImageDevice(ImageRenderingOptions, Stream) {#constructor_2}
 
-Initializes a new instance of the [`ImageDevice`](../../imagedevice) class by rendering options and output stream.
+Initializes a new instance of the [`ImageDevice`](../) class by rendering options and output stream.
 
 ```csharp
 public ImageDevice(ImageRenderingOptions options, Stream stream)
@@ -127,9 +127,9 @@ public ImageDevice(ImageRenderingOptions options, Stream stream)
 
 ### See Also
 
-* class [ImageRenderingOptions](../../imagerenderingoptions)
-* class [ImageDevice](../../imagedevice)
-* namespace [Aspose.Svg.Rendering.Image](../../imagedevice)
+* class [ImageRenderingOptions](../../imagerenderingoptions/)
+* class [ImageDevice](../)
+* namespace [Aspose.Svg.Rendering.Image](../../imagedevice/)
 * assembly [Aspose.SVG](../../../)
 
 <!-- DO NOT EDIT: generated by xmldocmd for Aspose.SVG.dll -->

@@ -1,14 +1,14 @@
 ---
 title: Render
 second_title: Aspose.SVG for .NET API Reference
-description: Defines method for rendering TDocument into specified IDeviceaspose.svg.rendering/idevice.
+description: Defines method for rendering TDocument into specified IDeviceaspose.svg.rendering/idevice/.
 type: docs
 weight: 10
 url: /net/aspose.svg.rendering/renderer-1/render/
 ---
 ## Render(IDevice, TDocument) {#render_2}
 
-Defines method for rendering !:TDocument into specified [`IDevice`](../../idevice).
+Defines method for rendering !:TDocument into specified [`IDevice`](../../idevice/).
 
 ```csharp
 public void Render(IDevice device, TDocument document)
@@ -21,16 +21,16 @@ public void Render(IDevice device, TDocument document)
 
 ### See Also
 
-* interface [IDevice](../../idevice)
-* class [Renderer&lt;TDocument&gt;](../../renderer-1)
-* namespace [Aspose.Svg.Rendering](../../renderer-1)
+* interface [IDevice](../../idevice/)
+* class [Renderer&lt;TDocument&gt;](../)
+* namespace [Aspose.Svg.Rendering](../../renderer-1/)
 * assembly [Aspose.SVG](../../../)
 
 ---
 
 ## Render(IDevice, TDocument, TimeSpan) {#render_4}
 
-Defines method for rendering !:TDocument into specified [`IDevice`](../../idevice). The rendering will be performed once there are no any network operations for loading resources, active timers, animation tasks or specified timeout is elapsed.
+Defines method for rendering !:TDocument into specified [`IDevice`](../../idevice/). The rendering will be performed once there are no any network operations for loading resources, active timers, animation tasks or specified timeout is elapsed.
 
 ```csharp
 public void Render(IDevice device, TDocument document, TimeSpan timeout)
@@ -44,16 +44,16 @@ public void Render(IDevice device, TDocument document, TimeSpan timeout)
 
 ### See Also
 
-* interface [IDevice](../../idevice)
-* class [Renderer&lt;TDocument&gt;](../../renderer-1)
-* namespace [Aspose.Svg.Rendering](../../renderer-1)
+* interface [IDevice](../../idevice/)
+* class [Renderer&lt;TDocument&gt;](../)
+* namespace [Aspose.Svg.Rendering](../../renderer-1/)
 * assembly [Aspose.SVG](../../../)
 
 ---
 
 ## Render(IDevice, TDocument, int) {#render_3}
 
-Defines method for rendering !:TDocument into specified [`IDevice`](../../idevice). The rendering will be performed once there are no any network operations for loading resources, active timers, animation tasks or specified timeout is elapsed.
+Defines method for rendering !:TDocument into specified [`IDevice`](../../idevice/). The rendering will be performed once there are no any network operations for loading resources, active timers, animation tasks or specified timeout is elapsed.
 
 ```csharp
 public void Render(IDevice device, TDocument document, int timeout)
@@ -67,16 +67,16 @@ public void Render(IDevice device, TDocument document, int timeout)
 
 ### See Also
 
-* interface [IDevice](../../idevice)
-* class [Renderer&lt;TDocument&gt;](../../renderer-1)
-* namespace [Aspose.Svg.Rendering](../../renderer-1)
+* interface [IDevice](../../idevice/)
+* class [Renderer&lt;TDocument&gt;](../)
+* namespace [Aspose.Svg.Rendering](../../renderer-1/)
 * assembly [Aspose.SVG](../../../)
 
 ---
 
 ## Render(IDevice, params TDocument[]) {#render_5}
 
-Defines method for rendering multiple !:TDocuments into specific [`IDevice`](../../idevice).
+Defines method for rendering multiple !:TDocuments into specific [`IDevice`](../../idevice/).
 
 ```csharp
 public void Render(IDevice device, params TDocument[] documents)
@@ -89,16 +89,16 @@ public void Render(IDevice device, params TDocument[] documents)
 
 ### See Also
 
-* interface [IDevice](../../idevice)
-* class [Renderer&lt;TDocument&gt;](../../renderer-1)
-* namespace [Aspose.Svg.Rendering](../../renderer-1)
+* interface [IDevice](../../idevice/)
+* class [Renderer&lt;TDocument&gt;](../)
+* namespace [Aspose.Svg.Rendering](../../renderer-1/)
 * assembly [Aspose.SVG](../../../)
 
 ---
 
 ## Render(IDevice, int, params TDocument[]) {#render}
 
-Defines method for rendering multiple !:TDocuments into specific [`IDevice`](../../idevice). The rendering will be performed once there are no any network operations for loading resources, active timers, animation tasks or specified timeout is elapsed.
+Defines method for rendering multiple !:TDocuments into specific [`IDevice`](../../idevice/). The rendering will be performed once there are no any network operations for loading resources, active timers, animation tasks or specified timeout is elapsed.
 
 ```csharp
 public void Render(IDevice device, int timeout, params TDocument[] documents)
@@ -112,16 +112,16 @@ public void Render(IDevice device, int timeout, params TDocument[] documents)
 
 ### See Also
 
-* interface [IDevice](../../idevice)
-* class [Renderer&lt;TDocument&gt;](../../renderer-1)
-* namespace [Aspose.Svg.Rendering](../../renderer-1)
+* interface [IDevice](../../idevice/)
+* class [Renderer&lt;TDocument&gt;](../)
+* namespace [Aspose.Svg.Rendering](../../renderer-1/)
 * assembly [Aspose.SVG](../../../)
 
 ---
 
 ## Render(IDevice, TimeSpan, params TDocument[]) {#render_1}
 
-Defines method for rendering multiple !:TDocuments into specific [`IDevice`](../../idevice). The rendering will be performed once there are no any network operations for loading resources, active timers, animation tasks or specified timeout is elapsed.
+Defines method for rendering multiple !:TDocuments into specific [`IDevice`](../../idevice/). The rendering will be performed once there are no any network operations for loading resources, active timers, animation tasks or specified timeout is elapsed.
 
 ```csharp
 public abstract void Render(IDevice device, TimeSpan timeout, params TDocument[] documents)
@@ -135,9 +135,9 @@ public abstract void Render(IDevice device, TimeSpan timeout, params TDocument[]
 
 ### See Also
 
-* interface [IDevice](../../idevice)
-* class [Renderer&lt;TDocument&gt;](../../renderer-1)
-* namespace [Aspose.Svg.Rendering](../../renderer-1)
+* interface [IDevice](../../idevice/)
+* class [Renderer&lt;TDocument&gt;](../)
+* namespace [Aspose.Svg.Rendering](../../renderer-1/)
 * assembly [Aspose.SVG](../../../)
 
 <!-- DO NOT EDIT: generated by xmldocmd for Aspose.SVG.dll -->
