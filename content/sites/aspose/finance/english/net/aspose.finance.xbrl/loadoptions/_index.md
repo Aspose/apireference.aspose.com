@@ -14,6 +14,12 @@ The base class to configure options in file loading for different types
 public class LoadOptions : IOConfig
 ```
 
+## Constructors
+
+| Name | Description |
+| --- | --- |
+| [LoadOptions](loadoptions)() | The default constructor. |
+
 ### See Also
 
 * class [IOConfig](../ioconfig)
