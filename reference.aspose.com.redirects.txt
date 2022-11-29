@@ -90,5 +90,6 @@ rewrite diagram/nodejs/aspose.diagram/(.*) https://reference.aspose.com/diagram/
 rewrite ^/(.*)/package-summary https://reference.aspose.com/$1/ permanent;
 rewrite ^/(.*)/package-frame https://reference.aspose.com/$1/ permanent;
 rewrite ^/(.*)/class-use/(.*) https://reference.aspose.com/$1/$2/ permanent;
+rewrite ^/(.*)/(.*).class-use/(.*) https://reference.aspose.com/$1/$2/$3/ permanent;
 rewrite ^/admin(.*) https://reference3.aspose.com/admin$1 permanent;
 rewrite (.*)/python(?!-java)(?!-net)(.*) https://reference.aspose.com/$1/python-java$2 permanent;
