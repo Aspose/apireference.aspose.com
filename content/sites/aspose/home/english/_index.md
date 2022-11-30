@@ -275,6 +275,7 @@ Create and read finance-related formats such as XBRL, iXBRL formats for business
 {{< /blocks/card-item-text >}}
 
 {{< blocks/product-item title=".NET" href="/finance/net/" class="btn-net" >}}
+{{< blocks/product-item title="Python" href="/finance/python-net/" class="btn-python" >}}
 
 {{< /blocks/product-card >}}
 
