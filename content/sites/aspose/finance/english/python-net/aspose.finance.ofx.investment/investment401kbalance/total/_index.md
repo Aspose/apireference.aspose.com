@@ -1,0 +1,18 @@
+﻿---
+title: total property
+second_title: Aspose.Finance for Python via .NET API References
+description: 
+type: docs
+weight: 120
+url: /python-net/aspose.finance.ofx.investment/investment401kbalance/total/
+is_root: false
+---
+
+## total property
+
+
+Gets or sets the current value of all securities purchased with all contributions.
+
+### See Also
+* module [aspose.finance.ofx.investment](../../)
+* class [Investment401kBalance](/finance/python-net/aspose.finance.ofx.investment/investment401kbalance)

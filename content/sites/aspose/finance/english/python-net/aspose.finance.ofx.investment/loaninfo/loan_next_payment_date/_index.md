@@ -1,0 +1,18 @@
+﻿---
+title: loan_next_payment_date property
+second_title: Aspose.Finance for Python via .NET API References
+description: 
+type: docs
+weight: 100
+url: /python-net/aspose.finance.ofx.investment/loaninfo/loan_next_payment_date/
+is_root: false
+---
+
+## loan_next_payment_date property
+
+
+Gets or sets the next payment due date.
+
+### See Also
+* module [aspose.finance.ofx.investment](../../)
+* class [LoanInfo](/finance/python-net/aspose.finance.ofx.investment/loaninfo)
