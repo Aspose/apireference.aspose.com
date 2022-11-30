@@ -1,0 +1,28 @@
+﻿---
+title: InvestmentMailRequest constructor
+second_title: Aspose.Finance for Python via .NET API References
+description: 
+type: docs
+weight: 10
+url: /python-net/aspose.finance.ofx.investment/investmentmailrequest/__init__/
+is_root: false
+---
+
+## InvestmentMailRequest() {#}
+
+Initializes a new instance of [InvestmentMailRequest](/finance/python-net/aspose.finance.ofx.investment/investmentmailrequest) class.
+
+
+
+```python
+def __init__(self):
+    ...
+```
+
+
+
+
+
+### See Also
+* module [aspose.finance.ofx.investment](../../)
+* class [InvestmentMailRequest](/finance/python-net/aspose.finance.ofx.investment/investmentmailrequest)
