@@ -23,3 +23,20 @@ Aspose.Finance, as a pure .NET library provides much better performance and ease
 
 These are links to some useful resources:
 - [Aspose.Finance for .NET API Reference](/finance/net/)
+
+## Aspose.Finance for Python via .NET
+
+{{% alert color="primary" %}}
+
+![Aspose.Finance for Python via .NET Product Logo](home_2.png)
+
+
+Aspose.Finance for Python via .NET is an adaptable library for finance-related formats handling. Programming interface can undoubtedly make, read, and validate eXtensible Business Reporting Language XBRL and iXBRL formats as well as make OFX Request and Response documents in various formats. Developers can foster XBRL empowered programming effortlessly or can use inside any current digital financial reporting system  to make reports with XBRL. It is an extensible, simple to utilize and standalone Programming interface autonomous of some other programming.
+
+Aspose.Finance for Python via .NET API Reference contains examples, code snippets and API documentation.
+
+{{% /alert %}}
+
+
+These are links to some useful resources:
+- [Aspose.Finance for Python via .NET API Reference](/finance/python-net/)
