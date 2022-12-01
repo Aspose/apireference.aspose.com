@@ -115,6 +115,7 @@ Create, edit, convert and print Microsoft Visio documents in your applications. 
 {{< blocks/product-item title="JAVA" href="/diagram/java/" class="btn-java" >}}
 {{< blocks/product-item title="NODE.JS" href="/diagram/nodejs/" class="btn-nodejs" >}}
 {{< blocks/product-item title="Python" href="/diagram/python-java/" class="btn-python" >}}
+{{< blocks/product-item title="PYTHON via .NET" href="/diagram/python-net/" class="btn-python" >}}
 
 {{< /blocks/product-card >}}
 
