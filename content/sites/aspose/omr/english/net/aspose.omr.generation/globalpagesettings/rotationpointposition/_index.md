@@ -14,6 +14,7 @@ public RotationPointPosition RotationPointPosition;
 
 ### See Also
 
+* enum [RotationPointPosition](../../rotationpointposition)
 * class [GlobalPageSettings](../../globalpagesettings)
 * namespace [Aspose.OMR.Generation](../../globalpagesettings)
 * assembly [Aspose.OMR](../../../)

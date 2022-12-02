@@ -3,7 +3,7 @@ title: ScoreHeaderType
 second_title: Aspose.OMR for .NET API Reference
 description: Type of score header.
 type: docs
-weight: 310
+weight: 320
 url: /net/aspose.omr.generation.config.enums/scoreheadertype/
 ---
 ## ScoreHeaderType enumeration

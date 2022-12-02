@@ -3,7 +3,7 @@ title: TableType
 second_title: Aspose.OMR for .NET API Reference
 description: The Table type
 type: docs
-weight: 320
+weight: 330
 url: /net/aspose.omr.generation.config.enums/tabletype/
 ---
 ## TableType enumeration

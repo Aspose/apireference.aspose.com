@@ -3,7 +3,7 @@ title: WrappingPolicy
 second_title: Aspose.OMR for .NET API Reference
 description: Define behavior for elements exceeding parent size.
 type: docs
-weight: 130
+weight: 140
 url: /net/aspose.omr.generation/wrappingpolicy/
 ---
 ## WrappingPolicy enumeration
