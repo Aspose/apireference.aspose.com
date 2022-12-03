@@ -3,7 +3,7 @@ title: ImageCollection
 second_title: Aspose.OMR for .NET API Reference
 description: Collection of Images that can be used for template Generation. e.g. Aspose.OMR.Api.OmrEngine.GenerateTemplateMemoryStream ImageCollection Can be useful when your images are not in the file system.
 type: docs
-weight: 680
+weight: 690
 url: /net/aspose.omr.api/imagecollection/
 ---
 ## ImageCollection class

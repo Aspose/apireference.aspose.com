@@ -3,7 +3,7 @@ title: OmrEngine
 second_title: Aspose.OMR for .NET API Reference
 description: The OMR engine. Handles the creation of the template and image processing classes and GUI components.
 type: docs
-weight: 690
+weight: 700
 url: /net/aspose.omr.api/omrengine/
 ---
 ## OmrEngine class

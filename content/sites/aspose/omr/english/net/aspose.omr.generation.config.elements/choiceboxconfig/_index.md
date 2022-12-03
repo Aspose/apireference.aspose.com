@@ -3,7 +3,7 @@ title: ChoiceBoxConfig
 second_title: Aspose.OMR for .NET API Reference
 description: The choice box is a basic element that represents a single question with set amount of answers.
 type: docs
-weight: 370
+weight: 380
 url: /net/aspose.omr.generation.config.elements/choiceboxconfig/
 ---
 ## ChoiceBoxConfig class
@@ -11,7 +11,7 @@ url: /net/aspose.omr.generation.config.elements/choiceboxconfig/
 The choice box is a basic element that represents a single question with set amount of answers.
 
 ```csharp
-public class ChoiceBoxConfig : BaseConfig
+public class ChoiceBoxConfig : ParentConfig
 ```
 
 ## Constructors
@@ -24,7 +24,7 @@ public class ChoiceBoxConfig : BaseConfig
 
 | Name | Description |
 | --- | --- |
-| [AnswersString](../../aspose.omr.generation.config.elements/choiceboxconfig/answersstring) { get; set; } | Gets or sets answer strings for ChoiceBox element |
+| override [Children](../../aspose.omr.generation.config.elements/choiceboxconfig/children) { get; set; } |  |
 | [Color](../../aspose.omr.generation.config.elements/choiceboxconfig/color) { get; set; } |  |
 | [DisplayQuestionNumber](../../aspose.omr.generation.config.elements/choiceboxconfig/displayquestionnumber) { get; set; } |  |
 | [FontFamily](../../aspose.omr.generation.config.elements/choiceboxconfig/fontfamily) { get; set; } | The font family of the text |
@@ -37,7 +37,7 @@ public class ChoiceBoxConfig : BaseConfig
 
 ### See Also
 
-* class [BaseConfig](../../aspose.omr.generation.config/baseconfig)
+* class [ParentConfig](../../aspose.omr.generation.config/parentconfig)
 * namespace [Aspose.OMR.Generation.Config.Elements](../../aspose.omr.generation.config.elements)
 * assembly [Aspose.OMR](../../)
 

@@ -3,7 +3,7 @@ title: VerticalAlignment
 second_title: Aspose.OMR for .NET API Reference
 description: Describes vertical positioning of child element inside parent
 type: docs
-weight: 340
+weight: 350
 url: /net/aspose.omr.generation.config.enums/verticalalignment/
 ---
 ## VerticalAlignment enumeration
