@@ -1,12 +1,12 @@
 ---
 title: Aspose.OMR.Generation.Config.Elements.ScoreGroup
 second_title: Aspose.OMR for .NET API Reference
-description: 
+description: The Aspose.OMR.Generation.Config.Elements.ScoreGroup contains elements required to generate forms programmatically see more at https//docs.aspose.com/omr/net/programmatic-forms/scoregroupconfig/
 type: docs
 weight: 90
 url: /net/aspose.omr.generation.config.elements.scoregroup/
 ---
-
+The **Aspose.OMR.Generation.Config.Elements.ScoreGroup** contains elements required to generate forms programmatically see more at https://docs.aspose.com/omr/net/programmatic-forms/scoregroupconfig/
 
 ## Classes
 

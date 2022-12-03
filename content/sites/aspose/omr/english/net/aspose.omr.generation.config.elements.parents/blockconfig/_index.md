@@ -24,7 +24,7 @@ public class BlockConfig : ParentConfig
 
 | Name | Description |
 | --- | --- |
-| [BackgroundColor](../../aspose.omr.generation.config.elements.parents/blockconfig/backgroundcolor) { get; set; } |  |
+| [BackgroundColor](../../aspose.omr.generation.config.elements.parents/blockconfig/backgroundcolor) { get; set; } | Color of border |
 | [BorderBottomStyle](../../aspose.omr.generation.config.elements.parents/blockconfig/borderbottomstyle) { get; set; } | Additional style for bottom border |
 | [BorderColor](../../aspose.omr.generation.config.elements.parents/blockconfig/bordercolor) { get; set; } | Color of border |
 | [BorderLeftStyle](../../aspose.omr.generation.config.elements.parents/blockconfig/borderleftstyle) { get; set; } | Additional style for left border |

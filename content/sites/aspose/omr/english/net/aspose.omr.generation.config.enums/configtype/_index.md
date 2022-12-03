@@ -53,7 +53,7 @@ public enum ConfigType
 | CheckBox | `206` | [`CheckBoxConfig`](../../aspose.omr.generation.config.elements.parents/checkboxconfig) |
 | TableContent | `207` | [`TableContentConfig`](../../aspose.omr.generation.config.elements.scoregroup/tablecontentconfig) |
 | CompositeGrid | `208` | [`CompositeGridConfig`](../../aspose.omr.generation.config.elements/compositegridconfig) |
-| ChoiceBoxAnswer | `209` |  |
+| ChoiceBoxAnswer | `209` | ChoiceBoxAnswerConfig |
 
 ### See Also
 

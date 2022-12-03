@@ -20,7 +20,7 @@ public enum WrappingPolicy
 | Name | Value | Description |
 | --- | --- | --- |
 | None | `0` | Default value. No wrapping |
-| Column | `2` |  |
+| Column | `2` | Elements will be moved to next column from 1 to 2, from 2 to 3, etc. |
 
 ### See Also
 
