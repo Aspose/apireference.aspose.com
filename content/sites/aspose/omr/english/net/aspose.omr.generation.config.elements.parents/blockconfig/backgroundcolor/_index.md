@@ -1,12 +1,14 @@
 ---
 title: BackgroundColor
 second_title: Aspose.OMR for .NET API Reference
-description: 
+description: Color of border
 type: docs
 weight: 20
 url: /net/aspose.omr.generation.config.elements.parents/blockconfig/backgroundcolor/
 ---
 ## BlockConfig.BackgroundColor property
+
+Color of border
 
 ```csharp
 public Color BackgroundColor { get; set; }

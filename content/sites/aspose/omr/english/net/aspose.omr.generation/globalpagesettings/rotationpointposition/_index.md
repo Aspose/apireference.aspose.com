@@ -1,12 +1,14 @@
 ---
 title: RotationPointPosition
 second_title: Aspose.OMR for .NET API Reference
-description: 
+description: Desired rotation point position on tempalte If not set - TopRight1 will be used
 type: docs
 weight: 120
 url: /net/aspose.omr.generation/globalpagesettings/rotationpointposition/
 ---
 ## GlobalPageSettings.RotationPointPosition field
+
+Desired rotation point position on tempalte If not set - TopRight1 will be used
 
 ```csharp
 public RotationPointPosition RotationPointPosition;

@@ -1,12 +1,12 @@
 ---
 title: Aspose.OMR.Generation.Config.Elements.Parents
 second_title: Aspose.OMR for .NET API Reference
-description: 
+description: The Aspose.OMR.Generation.Config.Elements.Parents contains parent template elements required to generate forms programmatically see more at https//docs.aspose.com/omr/net/programmatic-forms/
 type: docs
 weight: 80
 url: /net/aspose.omr.generation.config.elements.parents/
 ---
-
+The **Aspose.OMR.Generation.Config.Elements.Parents** contains parent template elements required to generate forms programmatically see more at https://docs.aspose.com/omr/net/programmatic-forms/
 
 ## Classes
 

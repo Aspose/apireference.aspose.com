@@ -1,12 +1,14 @@
 ---
 title: DisplayQuestionNumber
 second_title: Aspose.OMR for .NET API Reference
-description: 
+description: Should we display number of this question. By default - true
 type: docs
 weight: 40
 url: /net/aspose.omr.generation.config.elements/choiceboxconfig/displayquestionnumber/
 ---
 ## ChoiceBoxConfig.DisplayQuestionNumber property
+
+Should we display number of this question. By default - true
 
 ```csharp
 public bool DisplayQuestionNumber { get; set; }

@@ -24,9 +24,9 @@ public class ChoiceBoxConfig : ParentConfig
 
 | Name | Description |
 | --- | --- |
-| override [Children](../../aspose.omr.generation.config.elements/choiceboxconfig/children) { get; set; } |  |
-| [Color](../../aspose.omr.generation.config.elements/choiceboxconfig/color) { get; set; } |  |
-| [DisplayQuestionNumber](../../aspose.omr.generation.config.elements/choiceboxconfig/displayquestionnumber) { get; set; } |  |
+| override [Children](../../aspose.omr.generation.config.elements/choiceboxconfig/children) { get; set; } | Child omr elements. ChoiceBoxAnswerConfig |
+| [Color](../../aspose.omr.generation.config.elements/choiceboxconfig/color) { get; set; } | The color of the text |
+| [DisplayQuestionNumber](../../aspose.omr.generation.config.elements/choiceboxconfig/displayquestionnumber) { get; set; } | Should we display number of this question. By default - true |
 | [FontFamily](../../aspose.omr.generation.config.elements/choiceboxconfig/fontfamily) { get; set; } | The font family of the text |
 | [FontSize](../../aspose.omr.generation.config.elements/choiceboxconfig/fontsize) { get; set; } | The size of the text font |
 | [FontStyle](../../aspose.omr.generation.config.elements/choiceboxconfig/fontstyle) { get; set; } | The style of the text |

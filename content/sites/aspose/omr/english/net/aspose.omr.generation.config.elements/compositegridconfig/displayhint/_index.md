@@ -1,12 +1,14 @@
 ---
 title: DisplayHint
 second_title: Aspose.OMR for .NET API Reference
-description: 
+description: Should name of this Grid be displayed
 type: docs
 weight: 50
 url: /net/aspose.omr.generation.config.elements/compositegridconfig/displayhint/
 ---
 ## CompositeGridConfig.DisplayHint property
+
+Should name of this Grid be displayed
 
 ```csharp
 public bool DisplayHint { get; set; }

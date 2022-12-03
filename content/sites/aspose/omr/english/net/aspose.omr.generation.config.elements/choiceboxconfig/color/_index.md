@@ -1,12 +1,14 @@
 ---
 title: Color
 second_title: Aspose.OMR for .NET API Reference
-description: 
+description: The color of the text
 type: docs
 weight: 30
 url: /net/aspose.omr.generation.config.elements/choiceboxconfig/color/
 ---
 ## ChoiceBoxConfig.Color property
+
+The color of the text
 
 ```csharp
 public Color Color { get; set; }
