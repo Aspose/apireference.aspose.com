@@ -1,14 +1,12 @@
 ---
 title: PictureFrame
 second_title: Aspose.Sildes for .NET API Reference
-description: Represents a frame with a picture inside.
+description: 
 type: docs
 weight: 8760
 url: /net/aspose.slides/pictureframe/
 ---
 ## PictureFrame class
-
-Represents a frame with a picture inside.
 
 ```csharp
 public class PictureFrame : GeometryShape, IPictureFrame
@@ -40,7 +38,7 @@ public class PictureFrame : GeometryShape, IPictureFrame
 | [ParentGroup](../../aspose.slides/shape/parentgroup) { get; } | Returns parent GroupShape object if shape is grouped. Otherwise returns null. Read-only [`IGroupShape`](../igroupshape). |
 | [PictureFormat](../../aspose.slides/pictureframe/pictureformat) { get; } | Returns the PictureFillFormat object for a picture frame. Read-only [`IPictureFillFormat`](../ipicturefillformat). |
 | [PictureFrameLock](../../aspose.slides/pictureframe/pictureframelock) { get; } | Returns shape's locks. Read-only [`IPictureFrameLock`](../ipictureframelock). |
-| [Placeholder](../../aspose.slides/shape/placeholder) { get; } | Returns the placeholder for a shape. Returns null if the shape has no placeholder. Read-only [`IPlaceholder`](../iplaceholder). |
+| [Placeholder](../../aspose.slides/shape/placeholder) { get; } |  |
 | [Presentation](../../aspose.slides/shape/presentation) { get; } | Returns the parent presentation of a slide. Read-only [`IPresentation`](../ipresentation). |
 | [RawFrame](../../aspose.slides/shape/rawframe) { get; set; } | Returns or sets the raw shape frame's properties. Read/write [`IShapeFrame`](../ishapeframe). |
 | [RelativeScaleHeight](../../aspose.slides/pictureframe/relativescaleheight) { get; set; } | Returns or sets the scale of height(relative to original picture size) of the picture frame. Value 1.0 corresponds to 100%. Read/write Single. |

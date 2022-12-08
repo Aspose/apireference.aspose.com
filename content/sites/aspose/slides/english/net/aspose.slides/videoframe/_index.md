@@ -44,7 +44,7 @@ public class VideoFrame : PictureFrame, IVideoFrame
 | [ParentGroup](../../aspose.slides/shape/parentgroup) { get; } | Returns parent GroupShape object if shape is grouped. Otherwise returns null. Read-only [`IGroupShape`](../igroupshape). |
 | [PictureFormat](../../aspose.slides/pictureframe/pictureformat) { get; } | Returns the PictureFillFormat object for a picture frame. Read-only [`IPictureFillFormat`](../ipicturefillformat). |
 | [PictureFrameLock](../../aspose.slides/pictureframe/pictureframelock) { get; } | Returns shape's locks. Read-only [`IPictureFrameLock`](../ipictureframelock). |
-| [Placeholder](../../aspose.slides/shape/placeholder) { get; } | Returns the placeholder for a shape. Returns null if the shape has no placeholder. Read-only [`IPlaceholder`](../iplaceholder). |
+| [Placeholder](../../aspose.slides/shape/placeholder) { get; } |  |
 | [PlayLoopMode](../../aspose.slides/videoframe/playloopmode) { get; set; } | Determines whether a video is looped. Read/write Boolean. |
 | [PlayMode](../../aspose.slides/videoframe/playmode) { get; set; } | Returns or sets the video play mode. Read/write [`VideoPlayModePreset`](../videoplaymodepreset). |
 | [Presentation](../../aspose.slides/shape/presentation) { get; } | Returns the parent presentation of a slide. Read-only [`IPresentation`](../ipresentation). |

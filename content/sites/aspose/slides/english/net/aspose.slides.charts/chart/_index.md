@@ -52,7 +52,7 @@ public class Chart : GraphicalObject, IChart
 | [Name](../../aspose.slides/shape/name) { get; set; } | Returns or sets the name of a shape. Must be not null. Use empty string value if needed. Read/write String. |
 | [OfficeInteropShapeId](../../aspose.slides/shape/officeinteropshapeid) { get; } | Gets unique shape identifier in slide scope. Read-only UInt32. See also [`UniqueId`](../../aspose.slides/shape/uniqueid) for getting unique shape identifier in presentation scope. |
 | [ParentGroup](../../aspose.slides/shape/parentgroup) { get; } | Returns parent GroupShape object if shape is grouped. Otherwise returns null. Read-only [`IGroupShape`](../../aspose.slides/igroupshape). |
-| [Placeholder](../../aspose.slides/shape/placeholder) { get; } | Returns the placeholder for a shape. Returns null if the shape has no placeholder. Read-only [`IPlaceholder`](../../aspose.slides/iplaceholder). |
+| [Placeholder](../../aspose.slides/shape/placeholder) { get; } |  |
 | [PlotArea](../../aspose.slides.charts/chart/plotarea) { get; } | Represents the plot area of a chart. Read-only [`IChartPlotArea`](../ichartplotarea). |
 | [PlotVisibleCellsOnly](../../aspose.slides.charts/chart/plotvisiblecellsonly) { get; set; } | Determines whether the only visible cells are plotted. False to plot both visible and hidden cells. Read/write Boolean. |
 | [Presentation](../../aspose.slides/shape/presentation) { get; } | Returns the parent presentation of a slide. Read-only [`IPresentation`](../../aspose.slides/ipresentation). |

@@ -49,7 +49,7 @@ public class OleObjectFrame : GraphicalObject, IOleObjectFrame
 | [ObjectProgId](../../aspose.slides/oleobjectframe/objectprogid) { get; set; } | Returns the ProgID of an object. Read only String. |
 | [OfficeInteropShapeId](../../aspose.slides/shape/officeinteropshapeid) { get; } | Gets unique shape identifier in slide scope. Read-only UInt32. See also [`UniqueId`](../shape/uniqueid) for getting unique shape identifier in presentation scope. |
 | [ParentGroup](../../aspose.slides/shape/parentgroup) { get; } | Returns parent GroupShape object if shape is grouped. Otherwise returns null. Read-only [`IGroupShape`](../igroupshape). |
-| [Placeholder](../../aspose.slides/shape/placeholder) { get; } | Returns the placeholder for a shape. Returns null if the shape has no placeholder. Read-only [`IPlaceholder`](../iplaceholder). |
+| [Placeholder](../../aspose.slides/shape/placeholder) { get; } |  |
 | [Presentation](../../aspose.slides/shape/presentation) { get; } | Returns the parent presentation of a slide. Read-only [`IPresentation`](../ipresentation). |
 | [RawFrame](../../aspose.slides/shape/rawframe) { get; set; } | Returns or sets the raw shape frame's properties. Read/write [`IShapeFrame`](../ishapeframe). |
 | [Rotation](../../aspose.slides/shape/rotation) { get; set; } | Returns or sets the number of degrees the specified shape is rotated around the z-axis. A positive value indicates clockwise rotation; a negative value indicates counterclockwise rotation. Read/write Single. |
@@ -77,6 +77,78 @@ public class OleObjectFrame : GraphicalObject, IOleObjectFrame
 | [SetEmbeddedData](../../aspose.slides/oleobjectframe/setembeddeddata)(IOleEmbeddedDataInfo) | Sets information about OLE embedded data.  This method changes the properties of the object to reflect the new data and sets the IsObjectLink flag to false, indicating that the OLE object is embedded. |
 | [WriteAsSvg](../../aspose.slides/shape/writeassvg)(Stream) | Saves content of Shape as SVG file. |
 | [WriteAsSvg](../../aspose.slides/shape/writeassvg)(Stream, ISVGOptions) | Saves content of Shape as SVG file. |
+
+### Examples
+
+The following example shows how to accessing OLE Object frames.
+
+```csharp
+[C#]
+// Loads the PPTX to a presentation object
+using (Presentation pres = new Presentation("AccessingOLEObjectFrame.pptx"))
+{
+    // Accesses the first slide
+    ISlide sld = pres.Slides[0];
+    // Casts the shape to OleObjectFrame
+    OleObjectFrame oleObjectFrame = sld.Shapes[0] as OleObjectFrame;
+    // Reads the OLE Object and writes it to disk
+    if (oleObjectFrame != null)
+    {
+        // Gets embedded file data
+        byte[] data = oleObjectFrame.EmbeddedData.EmbeddedFileData;
+        // Gets embedded file extention
+        string fileExtention = oleObjectFrame.EmbeddedData.EmbeddedFileExtension;
+        // Creates a path to save the extracted file
+        string extractedPath = "excelFromOLE_out" + fileExtention;
+        // Saves extracted data
+        using (FileStream fstr = new FileStream(extractedPath, FileMode.Create, FileAccess.Write))
+        {
+            fstr.Write(data, 0, data.Length);
+        }
+    }
+}
+```
+
+The following example shows how to changing OLE Object Data.
+
+```csharp
+[C#]
+using (Presentation pres = new Presentation("ChangeOLEObjectData.pptx"))
+{
+    ISlide slide = pres.Slides[0];
+    OleObjectFrame ole = null;
+    // Traverses all shapes for Ole frame
+    foreach (IShape shape in slide.Shapes)
+    {
+        if (shape is OleObjectFrame)
+        {
+            ole = (OleObjectFrame)shape;
+        }
+    }
+    if (ole != null)
+    {
+        using (MemoryStream msln = new MemoryStream(ole.EmbeddedData.EmbeddedFileData))
+        {
+            // Reads object data in Workbook
+            Workbook Wb = new Workbook(msln);
+            using (MemoryStream msout = new MemoryStream())
+            {
+                // Modifies the workbook data
+                Wb.Worksheets[0].Cells[0, 4].PutValue("E");
+                Wb.Worksheets[0].Cells[1, 4].PutValue(12);
+                Wb.Worksheets[0].Cells[2, 4].PutValue(14);
+                Wb.Worksheets[0].Cells[3, 4].PutValue(15);
+                OoxmlSaveOptions so1 = new OoxmlSaveOptions(Aspose.Cells.SaveFormat.Xlsx);
+                Wb.Save(msout, so1);
+                // Changes Ole frame object data
+                IOleEmbeddedDataInfo newData = new OleEmbeddedDataInfo(msout.ToArray(), ole.EmbeddedData.EmbeddedFileExtension);
+                ole.SetEmbeddedData(newData);
+            }
+        }
+    }
+    pres.Save("OleEdit_out.pptx", SaveFormat.Pptx);
+}
+```
 
 ### See Also
 

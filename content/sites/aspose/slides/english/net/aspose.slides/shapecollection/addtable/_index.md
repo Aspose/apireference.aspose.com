@@ -1,29 +1,16 @@
 ---
 title: AddTable
 second_title: Aspose.Sildes for .NET API Reference
-description: Creates a new Table and adds it to the end of the collection.
+description: 
 type: docs
 weight: 200
 url: /net/aspose.slides/shapecollection/addtable/
 ---
 ## ShapeCollection.AddTable method
 
-Creates a new Table and adds it to the end of the collection.
-
 ```csharp
 public ITable AddTable(float x, float y, double[] columnWidths, double[] rowHeights)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| x | Single | The X-coordinate for a left side of shape's frame. |
-| y | Single | The Y-coordinate for a top side of shape's frame. |
-| columnWidths | Double[] | Array of doubles which represents widths of columns in the table. |
-| rowHeights | Double[] | Array of doubles which represents heights of rows in the table. |
-
-### Return Value
-
-Created Table object.
 
 ### See Also
 

@@ -41,7 +41,7 @@ public sealed class Slide : BaseSlide, ISlide
 | Name | Description |
 | --- | --- |
 | [CreateThemeEffective](../../aspose.slides/baseslide/createthemeeffective)() | Returns an effective theme for this slide. |
-| [Equals](../../aspose.slides/baseslide/equals)(IBaseSlide) | Determines whether the two IBaseSlide instances are equal. Returning value is calculated based on slide's structure and static content. Two slides are equal if all shapes, styles, texts, animation and other settings. etc. are equal. The comparison doesn't take into account unique identifier values, e.g. SlideId and dynamic content, e.g. current date value in Date Placeholder. |
+| [Equals](../../aspose.slides/baseslide/equals)(IBaseSlide) |  |
 | [FindShapeByAltText](../../aspose.slides/baseslide/findshapebyalttext)(string) | Finds first occurrence of a shape with the specified alternative text. |
 | [GetSlideComments](../../aspose.slides/slide/getslidecomments)(ICommentAuthor) | Returns all slide comments added by specific author. |
 | [GetThumbnail](../../aspose.slides/slide/getthumbnail#getthumbnail)() | Returns a Thumbnail Image object (20% of real size). |
@@ -58,7 +58,7 @@ public sealed class Slide : BaseSlide, ISlide
 | [RenderToGraphics](../../aspose.slides/slide/rendertographics#rendertographics_5)(IRenderingOptions, Graphics, Size) | Renders certain slide to a Graphics object using specified size. |
 | [RenderToGraphics](../../aspose.slides/slide/rendertographics#rendertographics_4)(IRenderingOptions, Graphics, float, float) | Renders certain slide to a Graphics object with custom scaling. |
 | [Reset](../../aspose.slides/slide/reset)() | Resets position, size and formatting of every shape that has a prototype on LayoutSlide. |
-| [WriteAsSvg](../../aspose.slides/slide/writeassvg#writeassvg)(Stream) | Saves content of slide as SVG file. |
+| [WriteAsSvg](../../aspose.slides/slide/writeassvg#writeassvg)(Stream) |  |
 | [WriteAsSvg](../../aspose.slides/slide/writeassvg#writeassvg_1)(Stream, ISVGOptions) | Saves content of slide as SVG file. |
 
 ### See Also

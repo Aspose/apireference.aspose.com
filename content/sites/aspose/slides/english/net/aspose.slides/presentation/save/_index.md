@@ -87,26 +87,9 @@ public void Save(Stream stream, int[] slides, SaveFormat format)
 
 ## Save(Stream, int[], SaveFormat, ISaveOptions) {#save_4}
 
-Saves specified slides of a presentation to a stream in the specified format with page number keeping.
-
 ```csharp
 public void Save(Stream stream, int[] slides, SaveFormat format, ISaveOptions options)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| stream | Stream | Output stream. |
-| slides | Int32[] | Array with slide positions, starting from 1. |
-| format | SaveFormat | Format of the exported data. |
-| options | ISaveOptions | Additional format options. |
-
-### Exceptions
-
-| exception | condition |
-| --- | --- |
-| ArgumentNullException | When stream or slides parameter is null. |
-| ArgumentOutOfRangeException | When slides parameter contains wrong page numbers. |
-| InvalidOperationException | When an unsupported SaveFormat is used, e.g. PPTX, PPTM, PPSX, PPSM, POTX, POTM, PPT, ODP. |
 
 ### See Also
 
@@ -215,17 +198,9 @@ public void Save(Stream stream, SaveFormat format)
 
 ## Save(string, SaveFormat, ISaveOptions) {#save_6}
 
-Saves all slides of a presentation to a file with the specified format and with additional options.
-
 ```csharp
 public void Save(string fname, SaveFormat format, ISaveOptions options)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| fname | String | Path to the created file. |
-| format | SaveFormat | Format of the exported data. |
-| options | ISaveOptions | Additional format options. |
 
 ### See Also
 

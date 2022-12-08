@@ -1,14 +1,12 @@
 ---
 title: DigitalSignature
 second_title: Aspose.Sildes for .NET API Reference
-description: Digital signature in signed file.
+description: 
 type: docs
 weight: 2640
 url: /net/aspose.slides/digitalsignature/
 ---
 ## DigitalSignature class
-
-Digital signature in signed file.
 
 ```csharp
 public class DigitalSignature : IDigitalSignature

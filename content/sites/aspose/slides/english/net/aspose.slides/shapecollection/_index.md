@@ -43,15 +43,15 @@ public sealed class ShapeCollection : DomObject<GroupShape>, IShapeCollection
 | [AddConnector](../../aspose.slides/shapecollection/addconnector#addconnector_1)(ShapeType, float, float, float, float, bool) | Creates a new Connector and adds it to the end of the collection. |
 | [AddGroupShape](../../aspose.slides/shapecollection/addgroupshape#addgroupshape)() | Creates a new GroupShape and adds it to the end of the collection. GroupShape frame size and position will be fitted to content when new shape will be added into the GroupShape. |
 | [AddGroupShape](../../aspose.slides/shapecollection/addgroupshape#addgroupshape_1)(ISvgImage, float, float, float, float) | Creates a new GroupShape, fills it with converted shapes from SVG and adds it to the end of the collection. |
-| [AddMathShape](../../aspose.slides/shapecollection/addmathshape)(float, float, float, float) | Creates a new Autoshape tuned from default template to math content and adds it to the end of the collection. |
-| [AddOleObjectFrame](../../aspose.slides/shapecollection/addoleobjectframe#addoleobjectframe)(float, float, float, float, IOleEmbeddedDataInfo) | Adds a new OLE object to the end of a collection. |
+| [AddMathShape](../../aspose.slides/shapecollection/addmathshape)(float, float, float, float) |  |
+| [AddOleObjectFrame](../../aspose.slides/shapecollection/addoleobjectframe#addoleobjectframe)(float, float, float, float, IOleEmbeddedDataInfo) |  |
 | [AddOleObjectFrame](../../aspose.slides/shapecollection/addoleobjectframe#addoleobjectframe_1)(float, float, float, float, string, string) | Adds a new OLE object to the end of a collection. |
 | [AddPictureFrame](../../aspose.slides/shapecollection/addpictureframe)(ShapeType, float, float, float, float, IPPImage) | Creates a new PictureFrame and adds it to the end of the collection. |
 | [AddSectionZoomFrame](../../aspose.slides/shapecollection/addsectionzoomframe#addsectionzoomframe)(float, float, float, float, ISection) | Adds a new Section Zoom object to the end of a collection. |
 | [AddSectionZoomFrame](../../aspose.slides/shapecollection/addsectionzoomframe#addsectionzoomframe_1)(float, float, float, float, ISection, IPPImage) | Adds a new Section Zoom object to the end of a collection with a predefined image. |
 | [AddSmartArt](../../aspose.slides/shapecollection/addsmartart)(float, float, float, float, SmartArtLayoutType) | Add SmartArt diagram. |
 | [AddSummaryZoomFrame](../../aspose.slides/shapecollection/addsummaryzoomframe)(float, float, float, float) | Adds a new Summary Zoom object to the end of a collection. |
-| [AddTable](../../aspose.slides/shapecollection/addtable)(float, float, double[], double[]) | Creates a new Table and adds it to the end of the collection. |
+| [AddTable](../../aspose.slides/shapecollection/addtable)(float, float, double[], double[]) |  |
 | [AddVideoFrame](../../aspose.slides/shapecollection/addvideoframe#addvideoframe)(float, float, float, float, IVideo) | Adds a new video frame to the end of a collection. |
 | [AddVideoFrame](../../aspose.slides/shapecollection/addvideoframe#addvideoframe_1)(float, float, float, float, string) | Adds a new video frame to the end of a collection. |
 | [AddZoomFrame](../../aspose.slides/shapecollection/addzoomframe#addzoomframe)(float, float, float, float, ISlide) | Adds a new Zoom object to the end of a collection. |

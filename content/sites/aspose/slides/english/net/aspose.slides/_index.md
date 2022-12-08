@@ -42,7 +42,7 @@ Contains classes for work with Microsoft PowerPoint presentations without utiliz
 | [Column](./column) | Represents a column in a table. |
 | [ColumnCollection](./columncollection) | Represents collection of columns in a table. |
 | [ColumnFormat](./columnformat) | Represents format of a table column. |
-| [Comment](./comment) | Represents a comment on a slide. |
+| [Comment](./comment) |  |
 | [CommentAuthor](./commentauthor) | Represents an author of comments. |
 | [CommentAuthorCollection](./commentauthorcollection) | Represents a collection of comment authors. |
 | [CommentCollection](./commentcollection) | Represents a collection of comments of one author. |
@@ -55,7 +55,7 @@ Contains classes for work with Microsoft PowerPoint presentations without utiliz
 | [CustomData](./customdata) | Represents container for custom data. |
 | [CustomXmlPart](./customxmlpart) | Represents custom xml part. |
 | [CustomXmlPartCollection](./customxmlpartcollection) | Represents collection of custom xml parts. |
-| [DigitalSignature](./digitalsignature) | Digital signature in signed file. |
+| [DigitalSignature](./digitalsignature) |  |
 | [DigitalSignatureCollection](./digitalsignaturecollection) | Represents a collection of digital signatures attached to a document. |
 | [DocumentProperties](./documentproperties) | Represents properties of a presentation. |
 | [DomObject&lt;TParent&gt;](./domobject-1) | Base DOM object |
@@ -134,7 +134,7 @@ Contains classes for work with Microsoft PowerPoint presentations without utiliz
 | [PatternFormat](./patternformat) | Represents a pattern to fill a shape. |
 | [Picture](./picture) | Represents a picture in a presentation. |
 | [PictureFillFormat](./picturefillformat) | Represents a picture fill style. |
-| [PictureFrame](./pictureframe) | Represents a frame with a picture inside. |
+| [PictureFrame](./pictureframe) |  |
 | [PictureFrameLock](./pictureframelock) | Determines which operations are disabled on the parent PictureFrame. |
 | [Placeholder](./placeholder) | Represents a placeholder on a slide. |
 | [Portion](./portion) | Represents a portion of text inside a text paragraph. |

@@ -43,7 +43,7 @@ public class SmartArt : GraphicalObject, ISmartArt
 | [Nodes](../../aspose.slides.smartart/smartart/nodes) { get; } | Returns collections of root nodes in SmartArt object. Read-only [`ISmartArtNodeCollection`](../ismartartnodecollection). |
 | [OfficeInteropShapeId](../../aspose.slides/shape/officeinteropshapeid) { get; } | Gets unique shape identifier in slide scope. Read-only UInt32. See also [`UniqueId`](../../aspose.slides/shape/uniqueid) for getting unique shape identifier in presentation scope. |
 | [ParentGroup](../../aspose.slides/shape/parentgroup) { get; } | Returns parent GroupShape object if shape is grouped. Otherwise returns null. Read-only [`IGroupShape`](../../aspose.slides/igroupshape). |
-| [Placeholder](../../aspose.slides/shape/placeholder) { get; } | Returns the placeholder for a shape. Returns null if the shape has no placeholder. Read-only [`IPlaceholder`](../../aspose.slides/iplaceholder). |
+| [Placeholder](../../aspose.slides/shape/placeholder) { get; } |  |
 | [Presentation](../../aspose.slides/shape/presentation) { get; } | Returns the parent presentation of a slide. Read-only [`IPresentation`](../../aspose.slides/ipresentation). |
 | [QuickStyle](../../aspose.slides.smartart/smartart/quickstyle) { get; set; } | Returns or sets quick style of SmartArt object. Read/write [`SmartArtQuickStyleType`](../smartartquickstyletype). |
 | [RawFrame](../../aspose.slides/shape/rawframe) { get; set; } | Returns or sets the raw shape frame's properties. Read/write [`IShapeFrame`](../../aspose.slides/ishapeframe). |

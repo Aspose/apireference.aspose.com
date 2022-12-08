@@ -52,10 +52,10 @@ public sealed class Presentation : IPresentation
 | [Sections](../../aspose.slides/presentation/sections) { get; } | Returns a list of all slides sections that are defined in the presentation. Read-only [`ISectionCollection`](../isectioncollection). |
 | [Slides](../../aspose.slides/presentation/slides) { get; } | Returns a list of all slides that are defined in the presentation. Read-only [`ISlideCollection`](../islidecollection). |
 | [SlideShowSettings](../../aspose.slides/presentation/slideshowsettings) { get; } | Returns the slide show settings for the presentation. |
-| [SlideSize](../../aspose.slides/presentation/slidesize) { get; } | Returns slide size object. Read-only [`ISlideSize`](../islidesize). |
+| [SlideSize](../../aspose.slides/presentation/slidesize) { get; } |  |
 | [SourceFormat](../../aspose.slides/presentation/sourceformat) { get; } | Returns information about from which format presentation was loaded. Read-only [`SourceFormat`](../sourceformat). |
 | [VbaProject](../../aspose.slides/presentation/vbaproject) { get; set; } | Gets or sets VBA project with presentation macros. Read/write [`IVbaProject`](../../aspose.slides.vba/ivbaproject). |
-| [Videos](../../aspose.slides/presentation/videos) { get; } | Returns the collection of all embedded video files in the presentation. Read-only [`IVideoCollection`](../ivideocollection). |
+| [Videos](../../aspose.slides/presentation/videos) { get; } |  |
 | [ViewProperties](../../aspose.slides/presentation/viewproperties) { get; } | Gets presentation wide view properties. Read-only [`IViewProperties`](../iviewproperties). |
 
 ## Methods
@@ -81,11 +81,41 @@ public sealed class Presentation : IPresentation
 | [Save](../../aspose.slides/presentation/save#save_3)(Stream, int[], SaveFormat) | Saves specified slides of a presentation to a stream in the specified format with page number keeping. |
 | [Save](../../aspose.slides/presentation/save#save_2)(Stream, SaveFormat, ISaveOptions) | Saves all slides of a presentation to a stream in the specified format and with additional options. |
 | [Save](../../aspose.slides/presentation/save#save_9)(string, int[], SaveFormat) | Saves specified slides of a presentation to a file with the specified format with page number keeping. |
-| [Save](../../aspose.slides/presentation/save#save_6)(string, SaveFormat, ISaveOptions) | Saves all slides of a presentation to a file with the specified format and with additional options. |
-| [Save](../../aspose.slides/presentation/save#save_4)(Stream, int[], SaveFormat, ISaveOptions) | Saves specified slides of a presentation to a stream in the specified format with page number keeping. |
+| [Save](../../aspose.slides/presentation/save#save_6)(string, SaveFormat, ISaveOptions) |  |
+| [Save](../../aspose.slides/presentation/save#save_4)(Stream, int[], SaveFormat, ISaveOptions) |  |
 | [Save](../../aspose.slides/presentation/save#save_10)(string, int[], SaveFormat, ISaveOptions) | Saves specified slides of a presentation to a file with the specified format with page number keeping. |
 | [Save](../../aspose.slides/presentation/save#save_8)(string, SaveFormat, HttpResponse, bool) | Sends the presentation to the client browser. This method is absent in ClientProfile versions of Aspose.Slide. |
 | [Save](../../aspose.slides/presentation/save#save_7)(string, SaveFormat, ISaveOptions, HttpResponse, bool) | Sends the presentation to the client browser. This method is absent in ClientProfile versions of Aspose.Slide. |
+
+### Examples
+
+The following example shows how to create PowerPoint Presentation.
+
+```csharp
+[C#]
+// Instantiate a Presentation object that represents a presentation file
+using (Presentation presentation = new Presentation())
+{
+    // Get the first slide
+    ISlide slide = presentation.Slides[0];
+    // Add an autoshape of type line
+    slide.Shapes.AddAutoShape(ShapeType.Line, 50, 150, 300, 0);
+	// Save the presentation file.
+    presentation.Save("NewPresentation_out.pptx", SaveFormat.Pptx);
+}
+```
+
+The following example shows how to open and save Presentation.
+
+```csharp
+[C#]
+// Load any supported file in Presentation e.g. ppt, pptx, odp etc.
+using (Presentation presentation = new Presentation("Sample.odp"))
+{
+	// Save the presentation file.
+	presentation.Save("OutputPresenation.pptx", SaveFormat.Pptx);
+}
+```
 
 ### See Also
 

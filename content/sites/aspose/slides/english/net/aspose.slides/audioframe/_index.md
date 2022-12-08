@@ -48,7 +48,7 @@ public class AudioFrame : PictureFrame, IAudioFrame
 | [ParentGroup](../../aspose.slides/shape/parentgroup) { get; } | Returns parent GroupShape object if shape is grouped. Otherwise returns null. Read-only [`IGroupShape`](../igroupshape). |
 | [PictureFormat](../../aspose.slides/pictureframe/pictureformat) { get; } | Returns the PictureFillFormat object for a picture frame. Read-only [`IPictureFillFormat`](../ipicturefillformat). |
 | [PictureFrameLock](../../aspose.slides/pictureframe/pictureframelock) { get; } | Returns shape's locks. Read-only [`IPictureFrameLock`](../ipictureframelock). |
-| [Placeholder](../../aspose.slides/shape/placeholder) { get; } | Returns the placeholder for a shape. Returns null if the shape has no placeholder. Read-only [`IPlaceholder`](../iplaceholder). |
+| [Placeholder](../../aspose.slides/shape/placeholder) { get; } |  |
 | [PlayAcrossSlides](../../aspose.slides/audioframe/playacrossslides) { get; set; } | Determines whether audio is playing across the slides. Read/write Boolean. |
 | [PlayLoopMode](../../aspose.slides/audioframe/playloopmode) { get; set; } | Determines whether an audio is looped. Read/write Boolean. |
 | [PlayMode](../../aspose.slides/audioframe/playmode) { get; set; } | Returns or sets the audio play mode. Read/write [`AudioPlayModePreset`](../audioplaymodepreset). |
@@ -85,6 +85,33 @@ public class AudioFrame : PictureFrame, IAudioFrame
 | [SetGeometryPaths](../../aspose.slides/geometryshape/setgeometrypaths)(IGeometryPath[]) | Updates shape geometry from array of [`IGeometryPath`](../igeometrypath). Coordinates must be relative to the left top corner of the shape. Changes the type of the shape ([`ShapeType`](../geometryshape/shapetype)) to Custom. |
 | [WriteAsSvg](../../aspose.slides/shape/writeassvg)(Stream) | Saves content of Shape as SVG file. |
 | [WriteAsSvg](../../aspose.slides/shape/writeassvg)(Stream, ISVGOptions) | Saves content of Shape as SVG file. |
+
+### Examples
+
+The following examples shows how to change Audio Play Options.
+
+```csharp
+[C#]
+using (Presentation pres = new Presentation("AudioFrameEmbed_out.pptx"))
+{
+    // Gets the AudioFrame shape
+    AudioFrame audioFrame = (AudioFrame)pres.Slides[0].Shapes[0];
+    // Sets the Play mode to play on click
+    audioFrame.PlayMode = AudioPlayModePreset.OnClick;
+    // Sets the volume to Low
+    audioFrame.Volume = AudioVolumeMode.Low;
+    // Sets the audio to play across slides
+    audioFrame.PlayAcrossSlides = true;
+    // Disables loop for the audio
+    audioFrame.PlayLoopMode = false;
+    // Hides the AudioFrame during the slide show
+    audioFrame.HideAtShowing = true;
+    // Rewinds the audio to start after playing
+    audioFrame.RewindAudio = true;
+    // Saves the PowerPoint file to disk
+    pres.Save("AudioFrameEmbed_changed.pptx", SaveFormat.Pptx);
+}
+```
 
 ### See Also
 

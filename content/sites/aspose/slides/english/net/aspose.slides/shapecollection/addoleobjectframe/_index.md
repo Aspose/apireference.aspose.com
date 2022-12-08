@@ -1,41 +1,16 @@
 ---
 title: AddOleObjectFrame
 second_title: Aspose.Sildes for .NET API Reference
-description: Adds a new OLE object to the end of a collection.
+description: 
 type: docs
 weight: 150
 url: /net/aspose.slides/shapecollection/addoleobjectframe/
 ---
 ## AddOleObjectFrame(float, float, float, float, IOleEmbeddedDataInfo) {#addoleobjectframe}
 
-Adds a new OLE object to the end of a collection.
-
 ```csharp
 public IOleObjectFrame AddOleObjectFrame(float x, float y, float width, float height, 
     IOleEmbeddedDataInfo dataInfo)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| x | Single | X coordinate of a new OLE frame. |
-| y | Single | Y coordinate of a new OLE frame. |
-| width | Single | Width of a new OLE frame. |
-| height | Single | Height of a new OLE frame. |
-| dataInfo | IOleEmbeddedDataInfo | Embedded data info [`IOleEmbeddedDataInfo`](../../ioleembeddeddatainfo). |
-
-### Return Value
-
-Created OLE object.
-
-### Examples
-
-This example demonstrates adding an OLE object to the end of a collection:
-
-```csharp
-[C#]
-byte[] fileData = File.ReadAllBytes("test.zip");
-IEmbeddedDataInfo dataInfo = new EmbeddedDataInfo(fileData, "zip");
-IOleObjectFrame oleObjectFrame = slidees.Shapes.AddOleObjectFrame(150, 20, 50, 50, dataInfo);
 ```
 
 ### See Also

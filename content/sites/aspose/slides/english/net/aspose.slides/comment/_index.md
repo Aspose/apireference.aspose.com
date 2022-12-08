@@ -1,14 +1,12 @@
 ---
 title: Comment
 second_title: Aspose.Sildes for .NET API Reference
-description: Represents a comment on a slide.
+description: 
 type: docs
 weight: 2490
 url: /net/aspose.slides/comment/
 ---
 ## Comment class
-
-Represents a comment on a slide.
 
 ```csharp
 public class Comment : IComment
