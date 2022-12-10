@@ -1,4 +1,4 @@
-rewrite /words/cpp/namespace/aspose https://reference2.aspose.com/words/cpp/ permanent;
+rewrite /words/cpp/namespace/aspose$ https://reference2.aspose.com/words/cpp/ permanent;
 rewrite /words/cpp/namespaces https://reference2.aspose.com/words/cpp/ permanent;
 rewrite /words/cpp/annotated https://reference2.aspose.com/words/cpp/ permanent;
 rewrite /words/cpp/namespace/(.*)_(.*)#(.*) https://reference2.aspose.com/words/cpp/$1$2/$3/ permanent;
