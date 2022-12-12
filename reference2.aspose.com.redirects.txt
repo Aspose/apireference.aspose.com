@@ -2,10 +2,13 @@ rewrite /words/cpp/namespace/aspose$ https://reference2.aspose.com/words/cpp/ pe
 rewrite /words/cpp/namespaces https://reference2.aspose.com/words/cpp/ permanent;
 rewrite /words/cpp/annotated https://reference2.aspose.com/words/cpp/ permanent;
 rewrite /words/cpp/namespace/(.*)_(.*)#(.*) https://reference2.aspose.com/words/cpp/$1$2/$3/ permanent;
+rewrite /words/cpp/namespace/(.*)_(.*)/#(.*) https://reference2.aspose.com/words/cpp/$1$2/$3/ permanent;
 rewrite /words/cpp/namespace/(.*)#(.*) https://reference2.aspose.com/words/cpp/$1/$2/ permanent;
+rewrite /words/cpp/namespace/(.*)/#(.*) https://reference2.aspose.com/words/cpp/$1/$2/ permanent;
 rewrite /words/cpp/namespace/(.*)_(.*) https://reference2.aspose.com/words/cpp/$1$2 permanent;
 rewrite /words/cpp/namespace/(.*) https://reference2.aspose.com/words/cpp/$1 permanent;
 rewrite /words/cpp/class/(.*)\.(.*)#([^_]+) https://reference2.aspose.com/words/cpp/$1/$2/$3/ permanent;
+rewrite /words/cpp/class/(.*)\.(.*)/#([^_]+) https://reference2.aspose.com/words/cpp/$1/$2/$3/ permanent;
 rewrite /words/cpp/class/(.*)_(.*)\.(.*)_(.*)_(.*)_(.*) https://reference2.aspose.com/words/cpp/$1$2/$3$4$5$6 permanent;
 rewrite /words/cpp/class/(.*)_(.*)\.(.*)_(.*)_(.*) https://reference2.aspose.com/words/cpp/$1$2/$3$4$5 permanent;
 rewrite /words/cpp/class/(.*)_(.*)\.(.*)_(.*) https://reference2.aspose.com/words/cpp/$1$2/$3$4 permanent;
