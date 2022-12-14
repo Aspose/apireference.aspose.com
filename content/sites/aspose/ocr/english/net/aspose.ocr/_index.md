@@ -14,9 +14,13 @@ The **Aspose.OCR** contains tools for image recognition, skew correction, text a
 | --- | --- |
 | [AsposeOcr](./asposeocr) | Main API for Aspose OCR library |
 | [BaseRecognitionSettings](./baserecognitionsettings) | Settings for the image recognition. Contains elements that allow customizing the recognition process. |
+| [CarPlateRecognitionSettings](./carplaterecognitionsettings) | Settings for the car number recognition. Contains elements that allow customizing the recognition process. |
 | [DocumentRecognitionSettings](./documentrecognitionsettings) | Settings for the pdf recognition. Contains elements that allow customizing the recognition process. |
+| [IDCardRecognitionSettings](./idcardrecognitionsettings) | Settings for the ID Card recognition. Contains elements that allow customizing the recognition process. |
+| [InvoiceRecognitionSettings](./invoicerecognitionsettings) | Settings for the invoice recognition. Contains elements that allow customizing the recognition process. |
 | [License](./license) | Provides methods to license the component. |
 | [Metered](./metered) | Provides methods to set metered key. |
+| [PassportRecognitionSettings](./passportrecognitionsettings) | Settings for the passport recognition. Contains elements that allow customizing the recognition process. |
 | [ReceiptRecognitionSettings](./receiptrecognitionsettings) | Settings for the receipt recognition. Contains elements that allow customizing the recognition process. |
 | [RecognitionResult](./recognitionresult) | The results of the image recognition. Contains elements with recognition information and methods for result export. |
 | [RecognitionSettings](./recognitionsettings) | Settings for the image recognition. Contains elements that allow customizing the recognition process. |

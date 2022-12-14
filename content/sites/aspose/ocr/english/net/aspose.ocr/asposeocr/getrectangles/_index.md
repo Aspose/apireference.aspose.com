@@ -3,7 +3,7 @@ title: GetRectangles
 second_title: Aspose.OCR for .NET API Reference
 description: Detects text areas on image.  Automatic image skew correction is not applied. Support GIF PNG JPEG BMP TIFF.
 type: docs
-weight: 50
+weight: 60
 url: /net/aspose.ocr/asposeocr/getrectangles/
 ---
 ## GetRectangles(string, AreasType, bool) {#getrectangles_1}

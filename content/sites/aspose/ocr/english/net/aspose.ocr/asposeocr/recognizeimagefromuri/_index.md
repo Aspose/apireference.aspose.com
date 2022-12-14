@@ -3,7 +3,7 @@ title: RecognizeImageFromUri
 second_title: Aspose.OCR for .NET API Reference
 description: Recognizes text on image provided by URI link.
 type: docs
-weight: 100
+weight: 150
 url: /net/aspose.ocr/asposeocr/recognizeimagefromuri/
 ---
 ## RecognizeImageFromUri(string) {#recognizeimagefromuri_1}
