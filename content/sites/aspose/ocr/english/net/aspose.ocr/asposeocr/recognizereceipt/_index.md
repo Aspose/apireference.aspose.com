@@ -3,7 +3,7 @@ title: RecognizeReceipt
 second_title: Aspose.OCR for .NET API Reference
 description: Recognizes text on image.
 type: docs
-weight: 140
+weight: 210
 url: /net/aspose.ocr/asposeocr/recognizereceipt/
 ---
 ## RecognizeReceipt(string, ReceiptRecognitionSettings) {#recognizereceipt_1}
@@ -18,7 +18,7 @@ public RecognitionResult RecognizeReceipt(string fullPath,
 | Parameter | Type | Description |
 | --- | --- | --- |
 | fullPath | String | Path to the image. |
-| settings | ReceiptRecognitionSettings | Recognition settings. |
+| settings | ReceiptRecognitionSettings | Recognition settings [`ReceiptRecognitionSettings`](../../receiptrecognitionsettings). |
 
 ### Return Value
 
@@ -50,7 +50,7 @@ public RecognitionResult RecognizeReceipt(MemoryStream stream,
 | Parameter | Type | Description |
 | --- | --- | --- |
 | stream | MemoryStream | Memory stream containing the receipt image. |
-| settings | ReceiptRecognitionSettings | Recognition settings. |
+| settings | ReceiptRecognitionSettings | Recognition settings [`ReceiptRecognitionSettings`](../../receiptrecognitionsettings). |
 
 ### Return Value
 

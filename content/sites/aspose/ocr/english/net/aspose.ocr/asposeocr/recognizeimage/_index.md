@@ -3,7 +3,7 @@ title: RecognizeImage
 second_title: Aspose.OCR for .NET API Reference
 description: Recognizes text on image.
 type: docs
-weight: 80
+weight: 130
 url: /net/aspose.ocr/asposeocr/recognizeimage/
 ---
 ## RecognizeImage(string) {#recognizeimage_5}

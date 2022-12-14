@@ -3,7 +3,7 @@ title: RecognizeMultipleImages
 second_title: Aspose.OCR for .NET API Reference
 description: Recognizes multiple images from list.  Archives and folders are not supported. Max amount of processed images is 20. Supports GIF PNG JPEG BMP TIFF.
 type: docs
-weight: 120
+weight: 180
 url: /net/aspose.ocr/asposeocr/recognizemultipleimages/
 ---
 ## RecognizeMultipleImages(List&lt;string&gt;, RecognitionSettings) {#recognizemultipleimages_1}

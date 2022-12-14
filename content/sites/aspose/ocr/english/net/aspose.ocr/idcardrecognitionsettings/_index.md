@@ -1,24 +1,24 @@
 ---
-title: ReceiptRecognitionSettings
+title: IDCardRecognitionSettings
 second_title: Aspose.OCR for .NET API Reference
-description: Settings for the receipt recognition. Contains elements that allow customizing the recognition process.
+description: Settings for the ID Card recognition. Contains elements that allow customizing the recognition process.
 type: docs
-weight: 170
-url: /net/aspose.ocr/receiptrecognitionsettings/
+weight: 140
+url: /net/aspose.ocr/idcardrecognitionsettings/
 ---
-## ReceiptRecognitionSettings class
+## IDCardRecognitionSettings class
 
-Settings for the receipt recognition. Contains elements that allow customizing the recognition process.
+Settings for the ID Card recognition. Contains elements that allow customizing the recognition process.
 
 ```csharp
-public class ReceiptRecognitionSettings
+public class IDCardRecognitionSettings : ReceiptRecognitionSettings
 ```
 
 ## Constructors
 
 | Name | Description |
 | --- | --- |
-| [ReceiptRecognitionSettings](receiptrecognitionsettings)(Language) | Initializes a new instance of the [`ReceiptRecognitionSettings`](../receiptrecognitionsettings) class with full set of properties. |
+| [IDCardRecognitionSettings](idcardrecognitionsettings)(Language) | Initializes a new instance of the [`IDCardRecognitionSettings`](../idcardrecognitionsettings) class with full set of properties. |
 
 ## Properties
 
@@ -33,6 +33,7 @@ public class ReceiptRecognitionSettings
 
 ### See Also
 
+* class [ReceiptRecognitionSettings](../receiptrecognitionsettings)
 * namespace [Aspose.OCR](../../aspose.ocr)
 * assembly [Aspose.OCR](../../)
 
