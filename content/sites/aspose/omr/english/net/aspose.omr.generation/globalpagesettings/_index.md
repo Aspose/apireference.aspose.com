@@ -30,13 +30,13 @@ public class GlobalPageSettings
 | [FontSize](../../aspose.omr.generation/globalpagesettings/fontsize) | The size of the text font |
 | [FontStyle](../../aspose.omr.generation/globalpagesettings/fontstyle) | The style of the text |
 | [ImagesPaths](../../aspose.omr.generation/globalpagesettings/imagespaths) | Full paths to the images used in generation |
-| [Locale](../../aspose.omr.generation/globalpagesettings/locale) | General Template directionality. |
 | [Orientation](../../aspose.omr.generation/globalpagesettings/orientation) | Orientation of the page |
 | [PageMarginLeft](../../aspose.omr.generation/globalpagesettings/pagemarginleft) | Left margin of the page on pixels |
 | [PageMarginRight](../../aspose.omr.generation/globalpagesettings/pagemarginright) | Right margin of the page on pixels |
 | [PaperSize](../../aspose.omr.generation/globalpagesettings/papersize) | Paper size |
 | [RotationPointPosition](../../aspose.omr.generation/globalpagesettings/rotationpointposition) | Desired rotation point position on tempalte If not set - TopRight1 will be used |
 | [Wrap](../../aspose.omr.generation/globalpagesettings/wrap) | Set wrapping policy for template generation. By default no wrapping is enabled. Flags enumeration. |
+| [WritingSystem](../../aspose.omr.generation/globalpagesettings/writingsystem) | Preset of template generation settings. Include directionality (LeftToRight or RightToLeft) and digits usage |
 
 ### See Also
 
