@@ -8,7 +8,7 @@ url: /net/aspose.finance.ofx.profile/emailprofile/cannotify/
 ---
 ## EmailProfile.CanNotify property
 
-Gets or sets whether server returns !:DepositMailResponse or !:CheckMailResponse in synchronization responses.
+Gets or sets whether server returns DepositMailResponse or CheckMailResponse in synchronization responses.
 
 ```csharp
 public bool CanNotify { get; set; }

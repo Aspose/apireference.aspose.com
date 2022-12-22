@@ -22,7 +22,7 @@ public OfxResponseDocument()
 
 ---
 
-## OfxResponseDocument(string) {#constructor_1}
+## OfxResponseDocument(string) {#constructor_3}
 
 Initializes a new instance of [`OfxResponseDocument`](../../ofxresponsedocument) class.
 
@@ -42,7 +42,27 @@ public OfxResponseDocument(string fileName)
 
 ---
 
-## OfxResponseDocument(string, LoadOptions) {#constructor_2}
+## OfxResponseDocument(Stream) {#constructor_1}
+
+Initializes a new instance of [`OfxResponseDocument`](../../ofxresponsedocument) class.
+
+```csharp
+public OfxResponseDocument(Stream stream)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| stream | Stream | The file stream. |
+
+### See Also
+
+* class [OfxResponseDocument](../../ofxresponsedocument)
+* namespace [Aspose.Finance.Ofx](../../ofxresponsedocument)
+* assembly [Aspose.Finance](../../../)
+
+---
+
+## OfxResponseDocument(string, LoadOptions) {#constructor_4}
 
 Initializes a new instance of [`OfxResponseDocument`](../../ofxresponsedocument) class.
 
@@ -53,6 +73,28 @@ public OfxResponseDocument(string fileName, LoadOptions options)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | fileName | String | The file name. |
+| options | LoadOptions | The load options. |
+
+### See Also
+
+* class [LoadOptions](../../loadoptions)
+* class [OfxResponseDocument](../../ofxresponsedocument)
+* namespace [Aspose.Finance.Ofx](../../ofxresponsedocument)
+* assembly [Aspose.Finance](../../../)
+
+---
+
+## OfxResponseDocument(Stream, LoadOptions) {#constructor_2}
+
+Initializes a new instance of [`OfxResponseDocument`](../../ofxresponsedocument) class.
+
+```csharp
+public OfxResponseDocument(Stream stream, LoadOptions options)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| stream | Stream | The file stream. |
 | options | LoadOptions | The load options. |
 
 ### See Also

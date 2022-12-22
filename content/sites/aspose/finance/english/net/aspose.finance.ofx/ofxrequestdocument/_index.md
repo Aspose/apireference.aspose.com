@@ -19,8 +19,10 @@ public class OfxRequestDocument
 | Name | Description |
 | --- | --- |
 | [OfxRequestDocument](ofxrequestdocument#constructor)() | Initializes a new instance of [`OfxRequestDocument`](../ofxrequestdocument) class. |
-| [OfxRequestDocument](ofxrequestdocument#constructor_1)(string) | Initializes a new instance of [`OfxRequestDocument`](../ofxrequestdocument) class. |
-| [OfxRequestDocument](ofxrequestdocument#constructor_2)(string, LoadOptions) | Initializes a new instance of [`OfxRequestDocument`](../ofxrequestdocument) class. |
+| [OfxRequestDocument](ofxrequestdocument#constructor_1)(Stream) | Initializes a new instance of [`OfxRequestDocument`](../ofxrequestdocument) class. |
+| [OfxRequestDocument](ofxrequestdocument#constructor_3)(string) | Initializes a new instance of [`OfxRequestDocument`](../ofxrequestdocument) class. |
+| [OfxRequestDocument](ofxrequestdocument#constructor_2)(Stream, LoadOptions) | Initializes a new instance of [`OfxRequestDocument`](../ofxrequestdocument) class. |
+| [OfxRequestDocument](ofxrequestdocument#constructor_4)(string, LoadOptions) | Initializes a new instance of [`OfxRequestDocument`](../ofxrequestdocument) class. |
 
 ## Properties
 
@@ -49,8 +51,10 @@ public class OfxRequestDocument
 
 | Name | Description |
 | --- | --- |
-| [Save](../../aspose.finance.ofx/ofxrequestdocument/save#save)(string, OfxVersionEnum) | Creates and saves the OFX file to the disk. |
-| [Save](../../aspose.finance.ofx/ofxrequestdocument/save#save_1)(string, SaveOptions) | Creates and saves the OFX file to the disk. |
+| [Save](../../aspose.finance.ofx/ofxrequestdocument/save#save)(Stream, OfxVersionEnum) | Saves the OFX file to the stream. |
+| [Save](../../aspose.finance.ofx/ofxrequestdocument/save#save_1)(Stream, SaveOptions) | Creates and saves the OFX file to the stream. |
+| [Save](../../aspose.finance.ofx/ofxrequestdocument/save#save_2)(string, OfxVersionEnum) | Creates and saves the OFX file to the disk. |
+| [Save](../../aspose.finance.ofx/ofxrequestdocument/save#save_3)(string, SaveOptions) | Creates and saves the OFX file to the disk. |
 
 ### See Also
 

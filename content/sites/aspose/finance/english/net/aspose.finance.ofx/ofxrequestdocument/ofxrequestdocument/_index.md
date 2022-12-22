@@ -22,7 +22,7 @@ public OfxRequestDocument()
 
 ---
 
-## OfxRequestDocument(string) {#constructor_1}
+## OfxRequestDocument(string) {#constructor_3}
 
 Initializes a new instance of [`OfxRequestDocument`](../../ofxrequestdocument) class.
 
@@ -42,7 +42,27 @@ public OfxRequestDocument(string fileName)
 
 ---
 
-## OfxRequestDocument(string, LoadOptions) {#constructor_2}
+## OfxRequestDocument(Stream) {#constructor_1}
+
+Initializes a new instance of [`OfxRequestDocument`](../../ofxrequestdocument) class.
+
+```csharp
+public OfxRequestDocument(Stream stream)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| stream | Stream | The ofx file stream. |
+
+### See Also
+
+* class [OfxRequestDocument](../../ofxrequestdocument)
+* namespace [Aspose.Finance.Ofx](../../ofxrequestdocument)
+* assembly [Aspose.Finance](../../../)
+
+---
+
+## OfxRequestDocument(string, LoadOptions) {#constructor_4}
 
 Initializes a new instance of [`OfxRequestDocument`](../../ofxrequestdocument) class.
 
@@ -53,6 +73,28 @@ public OfxRequestDocument(string fileName, LoadOptions options)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | fileName | String | The ofx file name. |
+| options | LoadOptions | The load options. |
+
+### See Also
+
+* class [LoadOptions](../../loadoptions)
+* class [OfxRequestDocument](../../ofxrequestdocument)
+* namespace [Aspose.Finance.Ofx](../../ofxrequestdocument)
+* assembly [Aspose.Finance](../../../)
+
+---
+
+## OfxRequestDocument(Stream, LoadOptions) {#constructor_2}
+
+Initializes a new instance of [`OfxRequestDocument`](../../ofxrequestdocument) class.
+
+```csharp
+public OfxRequestDocument(Stream stream, LoadOptions options)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| stream | Stream | The file stream. |
 | options | LoadOptions | The load options. |
 
 ### See Also

@@ -19,8 +19,10 @@ public class OfxResponseDocument
 | Name | Description |
 | --- | --- |
 | [OfxResponseDocument](ofxresponsedocument#constructor)() | Initializes a new instance of [`OfxResponseDocument`](../ofxresponsedocument) class. |
-| [OfxResponseDocument](ofxresponsedocument#constructor_1)(string) | Initializes a new instance of [`OfxResponseDocument`](../ofxresponsedocument) class. |
-| [OfxResponseDocument](ofxresponsedocument#constructor_2)(string, LoadOptions) | Initializes a new instance of [`OfxResponseDocument`](../ofxresponsedocument) class. |
+| [OfxResponseDocument](ofxresponsedocument#constructor_1)(Stream) | Initializes a new instance of [`OfxResponseDocument`](../ofxresponsedocument) class. |
+| [OfxResponseDocument](ofxresponsedocument#constructor_3)(string) | Initializes a new instance of [`OfxResponseDocument`](../ofxresponsedocument) class. |
+| [OfxResponseDocument](ofxresponsedocument#constructor_2)(Stream, LoadOptions) | Initializes a new instance of [`OfxResponseDocument`](../ofxresponsedocument) class. |
+| [OfxResponseDocument](ofxresponsedocument#constructor_4)(string, LoadOptions) | Initializes a new instance of [`OfxResponseDocument`](../ofxresponsedocument) class. |
 
 ## Properties
 
@@ -48,8 +50,10 @@ public class OfxResponseDocument
 
 | Name | Description |
 | --- | --- |
-| [Save](../../aspose.finance.ofx/ofxresponsedocument/save#save)(string, OfxVersionEnum) | Creates and saves the OFX file to the disk. |
-| [Save](../../aspose.finance.ofx/ofxresponsedocument/save#save_1)(string, SaveOptions) | Creates and saves the OFX file to the disk. |
+| [Save](../../aspose.finance.ofx/ofxresponsedocument/save#save)(Stream, OfxVersionEnum) | Saves the OFX file to the stream. |
+| [Save](../../aspose.finance.ofx/ofxresponsedocument/save#save_1)(Stream, SaveOptions) | Saves the OFX file to the stream. |
+| [Save](../../aspose.finance.ofx/ofxresponsedocument/save#save_2)(string, OfxVersionEnum) | Creates and saves the OFX file to the disk. |
+| [Save](../../aspose.finance.ofx/ofxresponsedocument/save#save_3)(string, SaveOptions) | Creates and saves the OFX file to the disk. |
 
 ### See Also
 

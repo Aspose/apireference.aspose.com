@@ -1,14 +1,14 @@
 ---
 title: Payee
 second_title: Aspose.Finance for .NET API Reference
-description: Gets or sets the complete Common.Payee information.
+description: Gets or sets the complete Payeeaspose.finance.ofx/payee information.
 type: docs
 weight: 30
 url: /net/aspose.finance.ofx.billpay/payeerequest/payee/
 ---
 ## PayeeRequest.Payee property
 
-Gets or sets the complete !:Common.Payee information.
+Gets or sets the complete [`Payee`](../../../aspose.finance.ofx/payee) information.
 
 ```csharp
 public Payee Payee { get; set; }

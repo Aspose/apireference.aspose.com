@@ -6,7 +6,7 @@ type: docs
 weight: 200
 url: /net/aspose.finance.ofx/ofxrequestdocument/save/
 ---
-## Save(string, OfxVersionEnum) {#save}
+## Save(string, OfxVersionEnum) {#save_2}
 
 Creates and saves the OFX file to the disk.
 
@@ -28,7 +28,29 @@ public void Save(string fileName, OfxVersionEnum ofxVersion)
 
 ---
 
-## Save(string, SaveOptions) {#save_1}
+## Save(Stream, OfxVersionEnum) {#save}
+
+Saves the OFX file to the stream.
+
+```csharp
+public void Save(Stream stream, OfxVersionEnum ofxVersion)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| stream | Stream | The stream. |
+| ofxVersion | OfxVersionEnum | The ofx version. |
+
+### See Also
+
+* enum [OfxVersionEnum](../../ofxversionenum)
+* class [OfxRequestDocument](../../ofxrequestdocument)
+* namespace [Aspose.Finance.Ofx](../../ofxrequestdocument)
+* assembly [Aspose.Finance](../../../)
+
+---
+
+## Save(string, SaveOptions) {#save_3}
 
 Creates and saves the OFX file to the disk.
 
@@ -39,6 +61,28 @@ public void Save(string fileName, SaveOptions saveOptions)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | fileName | String | The name of created file. |
+| saveOptions | SaveOptions | The save options. |
+
+### See Also
+
+* class [SaveOptions](../../saveoptions)
+* class [OfxRequestDocument](../../ofxrequestdocument)
+* namespace [Aspose.Finance.Ofx](../../ofxrequestdocument)
+* assembly [Aspose.Finance](../../../)
+
+---
+
+## Save(Stream, SaveOptions) {#save_1}
+
+Creates and saves the OFX file to the stream.
+
+```csharp
+public void Save(Stream stream, SaveOptions saveOptions)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| stream | Stream | The stream. |
 | saveOptions | SaveOptions | The save options. |
 
 ### See Also

@@ -8,7 +8,7 @@ url: /net/aspose.finance.ofx.profile/billpaymessagesetv1/statusviamods/
 ---
 ## BillPayMessageSetV1.StatusViaMods property
 
-If true, server supports communication of server-initiated payment status changes by means of the !:PaymentModResponse message.
+If true, server supports communication of server-initiated payment status changes by means of the PaymentModResponse message.
 
 ```csharp
 public bool StatusViaMods { get; set; }

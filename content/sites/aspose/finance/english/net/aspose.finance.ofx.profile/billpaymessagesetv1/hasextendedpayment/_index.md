@@ -8,7 +8,7 @@ url: /net/aspose.finance.ofx.profile/billpaymessagesetv1/hasextendedpayment/
 ---
 ## BillPayMessageSetV1.HasExtendedPayment property
 
-Gets or sets whether supports the !:ExtendedPayment business payment.
+Gets or sets whether supports the ExtendedPayment business payment.
 
 ```csharp
 public bool HasExtendedPayment { get; set; }

@@ -24,7 +24,7 @@ public class LoanTransactionAmount
 
 | Name | Description |
 | --- | --- |
-| [EscrowAmount](../../aspose.finance.ofx/loantransactionamount/escrowamount) { get; set; } | Gets or sets the !:Common.EscrowAmount for mortgages. |
+| [EscrowAmount](../../aspose.finance.ofx/loantransactionamount/escrowamount) { get; set; } | Gets or sets the [`EscrowAmount`](./escrowamount) for mortgages. |
 | [Insurance](../../aspose.finance.ofx/loantransactionamount/insurance) { get; set; } | Gets or sets the life, accident, health insurance on loan. |
 | [InterestAmount](../../aspose.finance.ofx/loantransactionamount/interestamount) { get; set; } | Gets or sets the amount of payment applied to interest. |
 | [PrincipalAmount](../../aspose.finance.ofx/loantransactionamount/principalamount) { get; set; } | Gets or sets the amount of payment applied to principal. |
