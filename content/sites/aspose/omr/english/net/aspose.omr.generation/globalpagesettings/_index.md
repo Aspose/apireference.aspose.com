@@ -36,6 +36,7 @@ public class GlobalPageSettings
 | [PaperSize](../../aspose.omr.generation/globalpagesettings/papersize) | Paper size |
 | [RotationPointPosition](../../aspose.omr.generation/globalpagesettings/rotationpointposition) | Desired rotation point position on tempalte If not set - TopRight1 will be used |
 | [Wrap](../../aspose.omr.generation/globalpagesettings/wrap) | Set wrapping policy for template generation. By default no wrapping is enabled. Flags enumeration. |
+| [WritingSystem](../../aspose.omr.generation/globalpagesettings/writingsystem) | Preset of template generation settings. Include directionality (LeftToRight or RightToLeft) and digits usage |
 
 ### See Also
 

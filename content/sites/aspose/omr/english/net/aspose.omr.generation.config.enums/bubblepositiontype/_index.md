@@ -3,7 +3,7 @@ title: BubblePositionType
 second_title: Aspose.OMR for .NET API Reference
 description: Position of bubble aganist main content
 type: docs
-weight: 220
+weight: 270
 url: /net/aspose.omr.generation.config.enums/bubblepositiontype/
 ---
 ## BubblePositionType enumeration

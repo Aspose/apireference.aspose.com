@@ -3,7 +3,7 @@ title: InputGroup
 second_title: Aspose.OMR for .NET API Reference
 description: Grouping element. Consists of two Content children. Drawn in proportions 13 and 23.
 type: docs
-weight: 450
+weight: 510
 url: /net/aspose.omr.generation.config.elements/inputgroup/
 ---
 ## InputGroup class

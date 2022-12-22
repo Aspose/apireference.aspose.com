@@ -3,7 +3,7 @@ title: TemplateProcessor
 second_title: Aspose.OMR for .NET API Reference
 description: Class for processing templates and images.  Each instance of this class works with a single OMR template. It is able to recognize images of the template specified in the constructor.
 type: docs
-weight: 710
+weight: 770
 url: /net/aspose.omr.api/templateprocessor/
 ---
 ## TemplateProcessor class
