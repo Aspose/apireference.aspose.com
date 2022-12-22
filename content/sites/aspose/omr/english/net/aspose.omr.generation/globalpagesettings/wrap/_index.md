@@ -3,7 +3,7 @@ title: Wrap
 second_title: Aspose.OMR for .NET API Reference
 description: Set wrapping policy for template generation. By default no wrapping is enabled. Flags enumeration.
 type: docs
-weight: 130
+weight: 140
 url: /net/aspose.omr.generation/globalpagesettings/wrap/
 ---
 ## GlobalPageSettings.Wrap field

@@ -30,6 +30,7 @@ public class GlobalPageSettings
 | [FontSize](../../aspose.omr.generation/globalpagesettings/fontsize) | The size of the text font |
 | [FontStyle](../../aspose.omr.generation/globalpagesettings/fontstyle) | The style of the text |
 | [ImagesPaths](../../aspose.omr.generation/globalpagesettings/imagespaths) | Full paths to the images used in generation |
+| [Locale](../../aspose.omr.generation/globalpagesettings/locale) | General Template directionality. |
 | [Orientation](../../aspose.omr.generation/globalpagesettings/orientation) | Orientation of the page |
 | [PageMarginLeft](../../aspose.omr.generation/globalpagesettings/pagemarginleft) | Left margin of the page on pixels |
 | [PageMarginRight](../../aspose.omr.generation/globalpagesettings/pagemarginright) | Right margin of the page on pixels |

@@ -3,7 +3,7 @@ title: BarcodeType
 second_title: Aspose.OMR for .NET API Reference
 description: Type of Barcode used in BarcodeConfig../aspose.omr.generation.config.elements/barcodeconfig
 type: docs
-weight: 200
+weight: 250
 url: /net/aspose.omr.generation.config.enums/barcodetype/
 ---
 ## BarcodeType enumeration

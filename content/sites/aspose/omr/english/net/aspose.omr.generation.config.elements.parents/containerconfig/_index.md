@@ -3,7 +3,7 @@ title: ContainerConfig
 second_title: Aspose.OMR for .NET API Reference
 description: Represents Container element.
 type: docs
-weight: 610
+weight: 670
 url: /net/aspose.omr.generation.config.elements.parents/containerconfig/
 ---
 ## ContainerConfig class
