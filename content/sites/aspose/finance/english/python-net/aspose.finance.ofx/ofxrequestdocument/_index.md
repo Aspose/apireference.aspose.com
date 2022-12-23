@@ -21,7 +21,9 @@ The OfxRequestDocument type exposes the following members:
 | :- | :- |
 | [OfxRequestDocument()](/finance/python-net/aspose.finance.ofx/ofxrequestdocument/__init__/#) | Initializes a new instance of [OfxRequestDocument](/finance/python-net/aspose.finance.ofx/ofxrequestdocument) class. |
 | [OfxRequestDocument(file_name)](/finance/python-net/aspose.finance.ofx/ofxrequestdocument/__init__/#str) | Initializes a new instance of [OfxRequestDocument](/finance/python-net/aspose.finance.ofx/ofxrequestdocument) class. |
+| [OfxRequestDocument(stream)](/finance/python-net/aspose.finance.ofx/ofxrequestdocument/__init__/#io.RawIOBase) | Initializes a new instance of [OfxRequestDocument](/finance/python-net/aspose.finance.ofx/ofxrequestdocument) class. |
 | [OfxRequestDocument(file_name, options)](/finance/python-net/aspose.finance.ofx/ofxrequestdocument/__init__/#str-LoadOptions) | Initializes a new instance of [OfxRequestDocument](/finance/python-net/aspose.finance.ofx/ofxrequestdocument) class. |
+| [OfxRequestDocument(stream, options)](/finance/python-net/aspose.finance.ofx/ofxrequestdocument/__init__/#io.RawIOBase-LoadOptions) | Initializes a new instance of [OfxRequestDocument](/finance/python-net/aspose.finance.ofx/ofxrequestdocument) class. |
 
 
 ### Properties
@@ -51,7 +53,9 @@ The OfxRequestDocument type exposes the following members:
 | Method | Description |
 | :- | :- |
 | [save(file_name, ofx_version)](/finance/python-net/aspose.finance.ofx/ofxrequestdocument/save/#str-OfxVersionEnum) | Creates and saves the OFX file to the disk. |
+| [save(stream, ofx_version)](/finance/python-net/aspose.finance.ofx/ofxrequestdocument/save/#io.RawIOBase-OfxVersionEnum) | Saves the OFX file to the stream. |
 | [save(file_name, save_options)](/finance/python-net/aspose.finance.ofx/ofxrequestdocument/save/#str-SaveOptions) | Creates and saves the OFX file to the disk. |
+| [save(stream, save_options)](/finance/python-net/aspose.finance.ofx/ofxrequestdocument/save/#io.RawIOBase-SaveOptions) | Creates and saves the OFX file to the stream. |
 
 
 ### See Also

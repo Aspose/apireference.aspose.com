@@ -39,6 +39,23 @@ def __init__(self, file_name):
 | file_name | str | The file name. |
 
 
+## OfxResponseDocument(stream) {#io.RawIOBase}
+
+Initializes a new instance of [OfxResponseDocument](/finance/python-net/aspose.finance.ofx/ofxresponsedocument) class.
+
+
+
+```python
+def __init__(self, stream):
+    ...
+```
+
+
+| Parameter | Type | Description |
+| :- | :- | :- |
+| stream | io.RawIOBase | The file stream. |
+
+
 ## OfxResponseDocument(file_name, options) {#str-LoadOptions}
 
 Initializes a new instance of [OfxResponseDocument](/finance/python-net/aspose.finance.ofx/ofxresponsedocument) class.
@@ -54,6 +71,24 @@ def __init__(self, file_name, options):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | file_name | str | The file name. |
+| options | [LoadOptions](/finance/python-net/aspose.finance.ofx/loadoptions) | The load options. |
+
+
+## OfxResponseDocument(stream, options) {#io.RawIOBase-LoadOptions}
+
+Initializes a new instance of [OfxResponseDocument](/finance/python-net/aspose.finance.ofx/ofxresponsedocument) class.
+
+
+
+```python
+def __init__(self, stream, options):
+    ...
+```
+
+
+| Parameter | Type | Description |
+| :- | :- | :- |
+| stream | io.RawIOBase | The file stream. |
 | options | [LoadOptions](/finance/python-net/aspose.finance.ofx/loadoptions) | The load options. |
 
 

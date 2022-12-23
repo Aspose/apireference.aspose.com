@@ -21,7 +21,9 @@ The OfxResponseDocument type exposes the following members:
 | :- | :- |
 | [OfxResponseDocument()](/finance/python-net/aspose.finance.ofx/ofxresponsedocument/__init__/#) | Initializes a new instance of [OfxResponseDocument](/finance/python-net/aspose.finance.ofx/ofxresponsedocument) class. |
 | [OfxResponseDocument(file_name)](/finance/python-net/aspose.finance.ofx/ofxresponsedocument/__init__/#str) | Initializes a new instance of [OfxResponseDocument](/finance/python-net/aspose.finance.ofx/ofxresponsedocument) class. |
+| [OfxResponseDocument(stream)](/finance/python-net/aspose.finance.ofx/ofxresponsedocument/__init__/#io.RawIOBase) | Initializes a new instance of [OfxResponseDocument](/finance/python-net/aspose.finance.ofx/ofxresponsedocument) class. |
 | [OfxResponseDocument(file_name, options)](/finance/python-net/aspose.finance.ofx/ofxresponsedocument/__init__/#str-LoadOptions) | Initializes a new instance of [OfxResponseDocument](/finance/python-net/aspose.finance.ofx/ofxresponsedocument) class. |
+| [OfxResponseDocument(stream, options)](/finance/python-net/aspose.finance.ofx/ofxresponsedocument/__init__/#io.RawIOBase-LoadOptions) | Initializes a new instance of [OfxResponseDocument](/finance/python-net/aspose.finance.ofx/ofxresponsedocument) class. |
 
 
 ### Properties
@@ -50,7 +52,9 @@ The OfxResponseDocument type exposes the following members:
 | Method | Description |
 | :- | :- |
 | [save(file_name, ofx_version)](/finance/python-net/aspose.finance.ofx/ofxresponsedocument/save/#str-OfxVersionEnum) | Creates and saves the OFX file to the disk. |
+| [save(stream, ofx_version)](/finance/python-net/aspose.finance.ofx/ofxresponsedocument/save/#io.RawIOBase-OfxVersionEnum) | Saves the OFX file to the stream. |
 | [save(file_name, save_options)](/finance/python-net/aspose.finance.ofx/ofxresponsedocument/save/#str-SaveOptions) | Creates and saves the OFX file to the disk. |
+| [save(stream, save_options)](/finance/python-net/aspose.finance.ofx/ofxresponsedocument/save/#io.RawIOBase-SaveOptions) | Saves the OFX file to the stream. |
 
 
 ### See Also

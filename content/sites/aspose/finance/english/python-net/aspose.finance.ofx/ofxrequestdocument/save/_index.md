@@ -26,6 +26,24 @@ def save(self, file_name, ofx_version):
 | ofx_version | [OfxVersionEnum](/finance/python-net/aspose.finance.ofx/ofxversionenum) | The ofx version. |
 
 
+## save(stream, ofx_version) {#io.RawIOBase-OfxVersionEnum}
+
+Saves the OFX file to the stream.
+
+
+
+```python
+def save(self, stream, ofx_version):
+    ...
+```
+
+
+| Parameter | Type | Description |
+| :- | :- | :- |
+| stream | io.RawIOBase | The stream. |
+| ofx_version | [OfxVersionEnum](/finance/python-net/aspose.finance.ofx/ofxversionenum) | The ofx version. |
+
+
 ## save(file_name, save_options) {#str-SaveOptions}
 
 Creates and saves the OFX file to the disk.
@@ -41,6 +59,24 @@ def save(self, file_name, save_options):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | file_name | str | The name of created file. |
+| save_options | [SaveOptions](/finance/python-net/aspose.finance.ofx/saveoptions) | The save options. |
+
+
+## save(stream, save_options) {#io.RawIOBase-SaveOptions}
+
+Creates and saves the OFX file to the stream.
+
+
+
+```python
+def save(self, stream, save_options):
+    ...
+```
+
+
+| Parameter | Type | Description |
+| :- | :- | :- |
+| stream | io.RawIOBase | The stream. |
 | save_options | [SaveOptions](/finance/python-net/aspose.finance.ofx/saveoptions) | The save options. |
 
 
