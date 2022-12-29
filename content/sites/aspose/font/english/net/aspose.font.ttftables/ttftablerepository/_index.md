@@ -32,6 +32,8 @@ public class TtfTableRepository
 | [Os2Table](../../aspose.font.ttftables/ttftablerepository/os2table/) { get; } | Gets OS/2 table. |
 | [PostTable](../../aspose.font.ttftables/ttftablerepository/posttable/) { get; } | Gets post table. |
 | [PrepTable](../../aspose.font.ttftables/ttftablerepository/preptable/) { get; } | Gets prep table. |
+| [VheaTable](../../aspose.font.ttftables/ttftablerepository/vheatable/) { get; } | Gets vhea table. |
+| [VmtxTable](../../aspose.font.ttftables/ttftablerepository/vmtxtable/) { get; } | Gets vmtx table. |
 
 ### See Also
 

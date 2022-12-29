@@ -37,7 +37,9 @@ public class TtfOs2Table : TtfTableBase
 | [USDefaultChar](../../aspose.font.ttftables/ttfos2table/usdefaultchar/) { get; } | Gets USDefaultChar value. |
 | [USFirstCharIndex](../../aspose.font.ttftables/ttfos2table/usfirstcharindex/) { get; } | Gets USFirstCharIndex value. |
 | [USLastCharIndex](../../aspose.font.ttftables/ttfos2table/uslastcharindex/) { get; } | Gets USLastCharIndex value. |
+| [USLowerOpticalPointSize](../../aspose.font.ttftables/ttfos2table/usloweropticalpointsize/) { get; } | Gets USLowerOpticalPointSize value. |
 | [USMaxContext](../../aspose.font.ttftables/ttfos2table/usmaxcontext/) { get; } | Gets USMaxContext value. |
+| [USUpperOpticalPointSize](../../aspose.font.ttftables/ttfos2table/usupperopticalpointsize/) { get; } | Gets USUpperOpticalPointSize value. |
 | [USWeightClass](../../aspose.font.ttftables/ttfos2table/usweightclass/) { get; } | Indicates the visual weight (degree of blackness or thickness of strokes) of the characters in the Font. |
 | [USWidthClass](../../aspose.font.ttftables/ttfos2table/uswidthclass/) { get; } | Indicates a relative change from the normal aspect ratio (width to height ratio) as specified by a font designer for the glyphs in a Font. |
 | [USWinAscent](../../aspose.font.ttftables/ttfos2table/uswinascent/) { get; } | Gets USWinAscent value. |

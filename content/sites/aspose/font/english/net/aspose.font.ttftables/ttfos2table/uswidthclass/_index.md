@@ -3,7 +3,7 @@ title: USWidthClass
 second_title: Aspose.Font for .NET API Reference
 description: Indicates a relative change from the normal aspect ratio width to height ratio as specified by a font designer for the glyphs in a Font.
 type: docs
-weight: 200
+weight: 220
 url: /net/aspose.font.ttftables/ttfos2table/uswidthclass/
 ---
 ## TtfOs2Table.USWidthClass property

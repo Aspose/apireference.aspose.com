@@ -3,7 +3,7 @@ title: YStrikeoutSize
 second_title: Aspose.Font for .NET API Reference
 description: Gets YStrikeoutSize value.
 type: docs
-weight: 260
+weight: 280
 url: /net/aspose.font.ttftables/ttfos2table/ystrikeoutsize/
 ---
 ## TtfOs2Table.YStrikeoutSize property
