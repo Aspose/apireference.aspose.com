@@ -3,7 +3,7 @@ title: YSuperscriptYSize
 second_title: Aspose.Font for .NET API Reference
 description: Gets YSuperscriptYSize value.
 type: docs
-weight: 340
+weight: 360
 url: /net/aspose.font.ttftables/ttfos2table/ysuperscriptysize/
 ---
 ## TtfOs2Table.YSuperscriptYSize property

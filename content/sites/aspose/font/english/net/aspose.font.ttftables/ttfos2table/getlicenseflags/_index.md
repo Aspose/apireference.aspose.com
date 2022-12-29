@@ -3,7 +3,7 @@ title: GetLicenseFlags
 second_title: Aspose.Font for .NET API Reference
 description: Gets an embedded flagsfsType in object representation.
 type: docs
-weight: 350
+weight: 370
 url: /net/aspose.font.ttftables/ttfos2table/getlicenseflags/
 ---
 ## TtfOs2Table.GetLicenseFlags method

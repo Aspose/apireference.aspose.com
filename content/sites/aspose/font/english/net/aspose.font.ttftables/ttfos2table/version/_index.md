@@ -3,7 +3,7 @@ title: Version
 second_title: Aspose.Font for .NET API Reference
 description: Gets Version value.
 type: docs
-weight: 230
+weight: 250
 url: /net/aspose.font.ttftables/ttfos2table/version/
 ---
 ## TtfOs2Table.Version property

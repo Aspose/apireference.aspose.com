@@ -3,7 +3,7 @@ title: Type1Encoding
 second_title: Aspose.Font for .NET API Reference
 description: Represents Type1 Font encoding.
 type: docs
-weight: 1080
+weight: 1110
 url: /net/aspose.font.type1/type1encoding/
 ---
 ## Type1Encoding class

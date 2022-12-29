@@ -3,7 +3,7 @@ title: USWinAscent
 second_title: Aspose.Font for .NET API Reference
 description: Gets USWinAscent value.
 type: docs
-weight: 210
+weight: 230
 url: /net/aspose.font.ttftables/ttfos2table/uswinascent/
 ---
 ## TtfOs2Table.USWinAscent property
