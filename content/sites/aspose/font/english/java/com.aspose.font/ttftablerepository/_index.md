@@ -31,6 +31,8 @@ repository of TTF tables
 | [getFpgmTable()](#getFpgmTable--) | Gets fpgm table. |
 | [getPrepTable()](#getPrepTable--) | Gets prep table. |
 | [getOs2Table()](#getOs2Table--) | Gets OS/2 table. |
+| [getVheaTable()](#getVheaTable--) | Gets vhea table. |
+| [getVmtxTable()](#getVmtxTable--) | Gets vmtx table. |
 ### getHeadTable() {#getHeadTable--}
 ```
 public TtfHeadTable getHeadTable()
@@ -171,3 +173,23 @@ Gets OS/2 table.
 
 **Returns:**
 [TtfOs2Table](../../com.aspose.font/ttfos2table) - OS/2 table.
+### getVheaTable() {#getVheaTable--}
+```
+public TtfVheaTable getVheaTable()
+```
+
+
+Gets vhea table.
+
+**Returns:**
+[TtfVheaTable](../../com.aspose.font/ttfvheatable) - Vhea table.
+### getVmtxTable() {#getVmtxTable--}
+```
+public TtfVmtxTable getVmtxTable()
+```
+
+
+Gets vmtx table.
+
+**Returns:**
+[TtfVmtxTable](../../com.aspose.font/ttfvmtxtable) - Vmtx table.

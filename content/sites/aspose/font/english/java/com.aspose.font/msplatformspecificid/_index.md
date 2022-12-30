@@ -3,7 +3,7 @@ title: MSPlatformSpecificId
 second_title: Aspose.Font for Java API Reference
 description: Represents Microsoft platform PlatformSpecificId enumeration.
 type: docs
-weight: 111
+weight: 113
 url: /java/com.aspose.font/msplatformspecificid/
 ---
 **Inheritance:**

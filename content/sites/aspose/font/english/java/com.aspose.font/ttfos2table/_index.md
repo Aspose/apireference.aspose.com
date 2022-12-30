@@ -52,6 +52,8 @@ Represents "OS/2" table of the TTF Font file.
 | [getUSDefaultChar()](#getUSDefaultChar--) | Gets USDefaultChar value. |
 | [getUSBreakChar()](#getUSBreakChar--) | Gets USBreakChar value. |
 | [getUSMaxContext()](#getUSMaxContext--) | Gets USMaxContext value. |
+| [getUSLowerOpticalPointSize()](#getUSLowerOpticalPointSize--) | Gets USLowerOpticalPointSize value. |
+| [getUSUpperOpticalPointSize()](#getUSUpperOpticalPointSize--) | Gets USUpperOpticalPointSize value. |
 | [getLicenseFlags()](#getLicenseFlags--) | Gets an embedded flags(fsType) in object representation. |
 ### getTag() {#getTag--}
 ```
@@ -417,6 +419,26 @@ Gets USMaxContext value.
 
 **Returns:**
 int - UsMaxContext value.
+### getUSLowerOpticalPointSize() {#getUSLowerOpticalPointSize--}
+```
+public int getUSLowerOpticalPointSize()
+```
+
+
+Gets USLowerOpticalPointSize value.
+
+**Returns:**
+int - The USLowerOpticalPointSize value.
+### getUSUpperOpticalPointSize() {#getUSUpperOpticalPointSize--}
+```
+public int getUSUpperOpticalPointSize()
+```
+
+
+Gets USUpperOpticalPointSize value.
+
+**Returns:**
+int - The USUpperOpticalPointSize value.
 ### getLicenseFlags() {#getLicenseFlags--}
 ```
 public LicenseFlags getLicenseFlags()

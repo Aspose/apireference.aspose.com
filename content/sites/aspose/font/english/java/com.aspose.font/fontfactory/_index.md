@@ -1,7 +1,7 @@
 ---
 title: FontFactory
 second_title: Aspose.Font for Java API Reference
-description: Class which allows to open fonts of different types
+description: Contains functionality for opening fonts of different types and other methods  for creating various objects.
 type: docs
 weight: 31
 url: /java/com.aspose.font/fontfactory/
@@ -12,7 +12,7 @@ java.lang.Object
 public class FontFactory
 ```
 
-Class which allows to open fonts of different types
+Contains functionality for opening fonts of different types and other methods for creating various objects.
 ## Constructors
 
 | Constructor | Description |
