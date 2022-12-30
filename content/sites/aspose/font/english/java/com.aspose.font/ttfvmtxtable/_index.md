@@ -19,7 +19,7 @@ Represents "vmtx" table of the TTF Font file.
 | --- | --- |
 | [getTag()](#getTag--) | Gets table tag. |
 | [getVMetrics()](#getVMetrics--) | Gets vertical metrics. |
-| [getTopSideBearings()](#getTopSideBearings--) |  |
+| [getTopSideBearings()](#getTopSideBearings--) | Gets Top Side Bearings. |
 ### getTag() {#getTag--}
 ```
 public static String getTag()
@@ -46,7 +46,7 @@ public short[] getTopSideBearings()
 ```
 
 
-
+Gets Top Side Bearings. Array of top side bearings of the glyph.
 
 **Returns:**
-short[]
+short[] - The Top Side Bearings.
