@@ -11,6 +11,8 @@ is_root: false
 ## m22 property
 
 
+The m22.
+
 ### See Also
 * module [aspose.threed.utilities](../../)
 * class [Matrix4](/3d/python-net/aspose.threed.utilities/matrix4)

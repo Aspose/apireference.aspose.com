@@ -18,6 +18,7 @@ File format type
 
 | Field | Description |
 | --- | --- |
+| [MAYA](#MAYA) | Autodesk Maya format type |
 | [FBX](#FBX) | FBX file format type |
 | [STL](#STL) | STL file format type |
 | [WAVEFRONTOBJ](#WAVEFRONTOBJ) | Wavefront OBJ format type |
@@ -48,6 +49,14 @@ File format type
 | --- | --- |
 | [getExtension()](#getExtension--) | The extension name of this file format, started with . |
 | [toString()](#toString--) | Get the name of this file format type |
+### MAYA {#MAYA}
+```
+public static final FileFormatType MAYA
+```
+
+
+Autodesk Maya format type
+
 ### FBX {#FBX}
 ```
 public static final FileFormatType FBX

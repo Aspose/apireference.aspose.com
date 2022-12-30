@@ -50,6 +50,8 @@ def triangulate(self, mesh):
 
 
 
+
+
 ```python
 def triangulate(self, control_points):
     ...
@@ -65,6 +67,8 @@ def triangulate(self, control_points):
 
 
 
+
+
 ```python
 def triangulate(self, control_points, polygons):
     ...
@@ -77,7 +81,9 @@ def triangulate(self, control_points, polygons):
 | polygons | list |  |
 
 
-## triangulate(control_points, polygon) {#list-int[]}
+## triangulate(control_points, polygon) {#list-list}
+
+
 
 
 
@@ -90,10 +96,12 @@ def triangulate(self, control_points, polygon):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | control_points | list |  |
-| polygon | int[] |  |
+| polygon | list |  |
 
 
-## triangulate(control_points, polygons, generate_normals, nor_out) {#list-list-bool-Aspose.ThreeD.Utilities.Vector3[]&}
+## triangulate(control_points, polygons, generate_normals, nor_out) {#list-list-bool-any}
+
+
 
 
 
@@ -108,7 +116,7 @@ def triangulate(self, control_points, polygons, generate_normals, nor_out):
 | control_points | list |  |
 | polygons | list |  |
 | generate_normals | bool |  |
-| nor_out | Aspose.ThreeD.Utilities.Vector3[]& |  |
+| nor_out | any |  |
 
 
 

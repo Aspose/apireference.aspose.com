@@ -4,7 +4,7 @@ second_title: Aspose.3D for Java API Reference
 description: The texture mapping type for com.aspose.threed.VertexElementUV
  Describes which kind of texture mapping is used.
 type: docs
-weight: 277
+weight: 278
 url: /java/com.aspose.threed/texturemapping/
 ---
 

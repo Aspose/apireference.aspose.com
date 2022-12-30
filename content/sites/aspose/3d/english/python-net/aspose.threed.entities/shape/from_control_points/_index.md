@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.entities/shape/from_control_points/
 is_root: false
 ---
 
-## from_control_points(control_points) {#Aspose.ThreeD.Utilities.Vector3[]}
+## from_control_points(control_points) {#list}
 
 Create a shape with specified control points with a default indices.
 
@@ -26,7 +26,7 @@ def from_control_points(self, control_points):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| control_points | Aspose.ThreeD.Utilities.Vector3[] |  |
+| control_points | list |  |
 
 
 

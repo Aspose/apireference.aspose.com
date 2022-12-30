@@ -8,7 +8,10 @@ url: /python-net/aspose.threed.entities/mesh/create_polygon/
 is_root: false
 ---
 
-## create_polygon(indices) {#int[]}
+## create_polygon(indices) {#list}
+
+Creates a new polygon with all vertices defined in `indices`.
+To create polygon vertex by vertex, please use [PolygonBuilder](/3d/python-net/aspose.threed.entities/polygonbuilder).
 
 
 
@@ -20,10 +23,13 @@ def create_polygon(self, indices):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| indices | int[] |  |
+| indices | list | Array of the polygon indices, each index points to a control point that forms the polygon. |
 
 
-## create_polygon(indices, offset, length) {#int[]-int-int}
+## create_polygon(indices, offset, length) {#list-int-int}
+
+Creates a new polygon with all vertices defined in `indices`.
+To create polygon vertex by vertex, please use [PolygonBuilder](/3d/python-net/aspose.threed.entities/polygonbuilder).
 
 
 
@@ -35,9 +41,9 @@ def create_polygon(self, indices, offset, length):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| indices | int[] |  |
-| offset | int |  |
-| length | int |  |
+| indices | list | Array of the polygon indices, each index points to a control point that forms the polygon. |
+| offset | int | The offset of the first polygon index |
+| length | int | The length of the indices |
 
 
 ## create_polygon(v1, v2, v3) {#int-int-int}

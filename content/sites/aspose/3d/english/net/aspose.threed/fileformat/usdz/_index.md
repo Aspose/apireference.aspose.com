@@ -3,7 +3,7 @@ title: USDZ
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 350
+weight: 370
 url: /net/aspose.threed/fileformat/usdz/
 ---
 ## FileFormat.USDZ field

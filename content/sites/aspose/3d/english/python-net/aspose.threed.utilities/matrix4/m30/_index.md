@@ -11,6 +11,8 @@ is_root: false
 ## m30 property
 
 
+The m30.
+
 ### See Also
 * module [aspose.threed.utilities](../../)
 * class [Matrix4](/3d/python-net/aspose.threed.utilities/matrix4)

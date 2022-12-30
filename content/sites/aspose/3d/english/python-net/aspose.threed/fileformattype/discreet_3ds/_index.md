@@ -11,6 +11,8 @@ is_root: false
 ## DISCREET_3DS property
 
 
+Discreet 3D Studio's file format
+
 ### See Also
 * module [aspose.threed](../../)
 * class [FileFormatType](/3d/python-net/aspose.threed/fileformattype)

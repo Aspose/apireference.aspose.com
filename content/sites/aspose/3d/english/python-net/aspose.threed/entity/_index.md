@@ -43,7 +43,7 @@ The Entity type exposes the following members:
 | [set_property(property, value)](/3d/python-net/aspose.threed/entity/set_property/#str-any) | Sets the value of specified property |
 | [find_property(property_name)](/3d/python-net/aspose.threed/entity/find_property/#str) | Finds the property.<br/>It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) <br/>or native property(Identified by its name) |
 | [get_bounding_box()](/3d/python-net/aspose.threed/entity/get_bounding_box/#) | Gets the bounding box of current entity in its object space coordinate system. |
-| [get_entity_renderer_key()](/3d/python-net/aspose.threed/entity/get_entity_renderer_key/#) |  |
+| [get_entity_renderer_key()](/3d/python-net/aspose.threed/entity/get_entity_renderer_key/#) | Gets the key of the entity renderer registered in the renderer |
 
 
 ### See Also

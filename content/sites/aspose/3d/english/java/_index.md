@@ -10,4 +10,4 @@ is_root: true
 ## Packages
 | Package | Description |
 | --- | --- |
-| [com.aspose.threed](./com.aspose.threed) | Package contains classes to create, edit, manipulate and save 3D formats. |
+| [com.aspose.threed](./com.aspose.threed) |  |

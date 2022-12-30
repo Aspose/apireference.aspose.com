@@ -11,6 +11,8 @@ is_root: false
 ## ASPOSE_3D_WEB property
 
 
+Aspose.3D Web format.
+
 ### See Also
 * module [aspose.threed.formats](../../)
 * class [PlyFormat](/3d/python-net/aspose.threed.formats/plyformat)

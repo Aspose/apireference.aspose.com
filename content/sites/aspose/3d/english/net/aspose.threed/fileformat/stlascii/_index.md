@@ -3,7 +3,7 @@ title: STLASCII
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 310
+weight: 330
 url: /net/aspose.threed/fileformat/stlascii/
 ---
 ## FileFormat.STLASCII field

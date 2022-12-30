@@ -18,15 +18,15 @@ The PLY format.
 
 | Method | Description |
 | --- | --- |
-| [encode(Entity entity, Stream stream, PlySaveOptions opt)](#encode-com.aspose.threed.Entity-com.aspose.threed.Stream-com.aspose.threed.PlySaveOptions-) | Encode the entity and save the result into the stream. |
-| [encode(Entity entity, Stream stream)](#encode-com.aspose.threed.Entity-com.aspose.threed.Stream-) | Encode the entity and save the result into the stream. |
+| [encode(Entity entity, Stream stream, PlySaveOptions opt)](#encode-com.aspose.threed.Entity-com.aspose.csporter.helpers.Stream-com.aspose.threed.PlySaveOptions-) | Encode the entity and save the result into the stream. |
+| [encode(Entity entity, Stream stream)](#encode-com.aspose.threed.Entity-com.aspose.csporter.helpers.Stream-) | Encode the entity and save the result into the stream. |
 | [encode(Entity entity, String fileName, PlySaveOptions opt)](#encode-com.aspose.threed.Entity-java.lang.String-com.aspose.threed.PlySaveOptions-) | Encode the entity and save the result into an external file. |
 | [encode(Entity entity, String fileName)](#encode-com.aspose.threed.Entity-java.lang.String-) | Encode the entity and save the result into an external file. |
 | [decode(String fileName, PlyLoadOptions opt)](#decode-java.lang.String-com.aspose.threed.PlyLoadOptions-) | Decode a point cloud or mesh from the specified stream. |
 | [decode(String fileName)](#decode-java.lang.String-) | Decode a point cloud or mesh from the specified stream. |
-| [decode(Stream stream, PlyLoadOptions opt)](#decode-com.aspose.threed.Stream-com.aspose.threed.PlyLoadOptions-) | Decode a point cloud or mesh from the specified stream. |
-| [decode(Stream stream)](#decode-com.aspose.threed.Stream-) | Decode a point cloud or mesh from the specified stream. |
-### encode(Entity entity, Stream stream, PlySaveOptions opt) {#encode-com.aspose.threed.Entity-com.aspose.threed.Stream-com.aspose.threed.PlySaveOptions-}
+| [decode(Stream stream, PlyLoadOptions opt)](#decode-com.aspose.csporter.helpers.Stream-com.aspose.threed.PlyLoadOptions-) | Decode a point cloud or mesh from the specified stream. |
+| [decode(Stream stream)](#decode-com.aspose.csporter.helpers.Stream-) | Decode a point cloud or mesh from the specified stream. |
+### encode(Entity entity, Stream stream, PlySaveOptions opt) {#encode-com.aspose.threed.Entity-com.aspose.csporter.helpers.Stream-com.aspose.threed.PlySaveOptions-}
 ```
 public void encode(Entity entity, Stream stream, PlySaveOptions opt)
 ```
@@ -38,10 +38,10 @@ Encode the entity and save the result into the stream.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | entity | [Entity](../../com.aspose.threed/entity) | The entity to encode |
-| stream | com.aspose.threed.Stream | The stream to write to, this method will not close this stream |
+| stream | com.aspose.csporter.helpers.Stream | The stream to write to, this method will not close this stream |
 | opt | [PlySaveOptions](../../com.aspose.threed/plysaveoptions) | Save options |
 
-### encode(Entity entity, Stream stream) {#encode-com.aspose.threed.Entity-com.aspose.threed.Stream-}
+### encode(Entity entity, Stream stream) {#encode-com.aspose.threed.Entity-com.aspose.csporter.helpers.Stream-}
 ```
 public void encode(Entity entity, Stream stream)
 ```
@@ -53,7 +53,7 @@ Encode the entity and save the result into the stream.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | entity | [Entity](../../com.aspose.threed/entity) | The entity to encode |
-| stream | com.aspose.threed.Stream | The stream to write to, this method will not close this stream |
+| stream | com.aspose.csporter.helpers.Stream | The stream to write to, this method will not close this stream |
 
 ### encode(Entity entity, String fileName, PlySaveOptions opt) {#encode-com.aspose.threed.Entity-java.lang.String-com.aspose.threed.PlySaveOptions-}
 ```
@@ -115,7 +115,7 @@ Decode a point cloud or mesh from the specified stream.
 
 **Returns:**
 [Geometry](../../com.aspose.threed/geometry) - A com.aspose.threed.Mesh or com.aspose.threed.PointCloud instance
-### decode(Stream stream, PlyLoadOptions opt) {#decode-com.aspose.threed.Stream-com.aspose.threed.PlyLoadOptions-}
+### decode(Stream stream, PlyLoadOptions opt) {#decode-com.aspose.csporter.helpers.Stream-com.aspose.threed.PlyLoadOptions-}
 ```
 public Geometry decode(Stream stream, PlyLoadOptions opt)
 ```
@@ -126,12 +126,12 @@ Decode a point cloud or mesh from the specified stream.
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| stream | com.aspose.threed.Stream | The input stream |
+| stream | com.aspose.csporter.helpers.Stream | The input stream |
 | opt | [PlyLoadOptions](../../com.aspose.threed/plyloadoptions) | The load option of PLY format |
 
 **Returns:**
 [Geometry](../../com.aspose.threed/geometry) - A com.aspose.threed.Mesh or com.aspose.threed.PointCloud instance
-### decode(Stream stream) {#decode-com.aspose.threed.Stream-}
+### decode(Stream stream) {#decode-com.aspose.csporter.helpers.Stream-}
 ```
 public Geometry decode(Stream stream)
 ```
@@ -142,7 +142,7 @@ Decode a point cloud or mesh from the specified stream.
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| stream | com.aspose.threed.Stream | The input stream |
+| stream | com.aspose.csporter.helpers.Stream | The input stream |
 
 **Returns:**
 [Geometry](../../com.aspose.threed/geometry) - A com.aspose.threed.Mesh or com.aspose.threed.PointCloud instance

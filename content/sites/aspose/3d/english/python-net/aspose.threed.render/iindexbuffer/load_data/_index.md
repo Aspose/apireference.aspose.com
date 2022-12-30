@@ -25,7 +25,9 @@ def load_data(self, mesh):
 | mesh | aspose.threed.entities.TriMesh |  |
 
 
-## load_data(indices) {#int[]}
+## load_data(indices) {#list}
+
+Load indice data
 
 
 
@@ -37,25 +39,12 @@ def load_data(self, indices):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| indices | int[] |  |
+| indices | list |  |
 
 
-## load_data(indices) {#uint[]}
+## load_data(indices) {#list}
 
-
-
-```python
-def load_data(self, indices):
-    ...
-```
-
-
-| Parameter | Type | Description |
-| :- | :- | :- |
-| indices | uint[] |  |
-
-
-## load_data(indices) {#short[]}
+Load indice data
 
 
 
@@ -67,10 +56,29 @@ def load_data(self, indices):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| indices | short[] |  |
+| indices | list |  |
 
 
-## load_data(data) {#byte[]}
+## load_data(indices) {#list}
+
+Load indice data
+
+
+
+```python
+def load_data(self, indices):
+    ...
+```
+
+
+| Parameter | Type | Description |
+| :- | :- | :- |
+| indices | list |  |
+
+
+## load_data(data) {#bytes}
+
+Load the data into current buffer
 
 
 
@@ -82,7 +90,7 @@ def load_data(self, data):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| data | byte[] |  |
+| data | bytes |  |
 
 
 

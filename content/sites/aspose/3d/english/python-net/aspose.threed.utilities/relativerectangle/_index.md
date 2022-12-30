@@ -22,7 +22,7 @@ The RelativeRectangle type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [RelativeRectangle()](/3d/python-net/aspose.threed.utilities/relativerectangle/__init__/#) |  |
+| [RelativeRectangle()](/3d/python-net/aspose.threed.utilities/relativerectangle/__init__/#) | Constructs a new instance of RelativeRectangle |
 
 
 ### Properties

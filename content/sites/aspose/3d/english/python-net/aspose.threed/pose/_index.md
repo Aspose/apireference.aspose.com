@@ -43,8 +43,8 @@ The Pose type exposes the following members:
 | :- | :- |
 | [remove_property(property)](/3d/python-net/aspose.threed/pose/remove_property/#Property) | Removes a dynamic property. |
 | [remove_property(property)](/3d/python-net/aspose.threed/pose/remove_property/#str) | Remove the specified property identified by name |
-| [add_bone_pose(node, matrix, local_matrix)](/3d/python-net/aspose.threed/pose/add_bone_pose/#Node-aspose.threed.utilities.Matrix4-bool) |  |
-| [add_bone_pose(node, matrix)](/3d/python-net/aspose.threed/pose/add_bone_pose/#Node-aspose.threed.utilities.Matrix4) |  |
+| [add_bone_pose(node, matrix, local_matrix)](/3d/python-net/aspose.threed/pose/add_bone_pose/#Node-aspose.threed.utilities.Matrix4-bool) | Saves pose transformation matrix for the given bone node. |
+| [add_bone_pose(node, matrix)](/3d/python-net/aspose.threed/pose/add_bone_pose/#Node-aspose.threed.utilities.Matrix4) | Saves pose transformation matrix for the given bone node. <br/>Global transformation matrix is implied. |
 | [get_property(property)](/3d/python-net/aspose.threed/pose/get_property/#str) | Get the value of specified property |
 | [set_property(property, value)](/3d/python-net/aspose.threed/pose/set_property/#str-any) | Sets the value of specified property |
 | [find_property(property_name)](/3d/python-net/aspose.threed/pose/find_property/#str) | Finds the property.<br/>It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) <br/>or native property(Identified by its name) |

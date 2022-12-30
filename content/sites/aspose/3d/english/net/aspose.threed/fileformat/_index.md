@@ -66,6 +66,8 @@ public class FileFormat
 | static readonly [GLTF2_Binary](../../aspose.threed/fileformat/gltf2_binary) | Khronos Group's glTF version 2.0 |
 | static readonly [GLTF_Binary](../../aspose.threed/fileformat/gltf_binary) | Khronos Group's glTF in Binary format |
 | static readonly [HTML5](../../aspose.threed/fileformat/html5) | HTML5 File |
+| static readonly [MayaASCII](../../aspose.threed/fileformat/mayaascii) | Autodesk Maya in ASCII format |
+| static readonly [MayaBinary](../../aspose.threed/fileformat/mayabinary) | Autodesk Maya in Binary format |
 | static readonly [Microsoft3MF](../../aspose.threed/fileformat/microsoft3mf) | Microsoft 3D Manufacturing Format |
 | static readonly [Pcd](../../aspose.threed/fileformat/pcd) | PCL Point Cloud Data file in ASCII mode |
 | static readonly [PcdBinary](../../aspose.threed/fileformat/pcdbinary) | PCL Point Cloud Data file in Binary mode |

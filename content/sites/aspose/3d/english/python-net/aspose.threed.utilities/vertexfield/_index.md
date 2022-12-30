@@ -30,7 +30,7 @@ The VertexField type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [compare_to(other)](/3d/python-net/aspose.threed.utilities/vertexfield/compare_to/#VertexField) |  |
+| [compare_to(other)](/3d/python-net/aspose.threed.utilities/vertexfield/compare_to/#VertexField) | Compares this instance to a specified object and returns an indication of their relative values. |
 
 
 ### See Also

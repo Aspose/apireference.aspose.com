@@ -11,6 +11,8 @@ is_root: false
 ## m02 property
 
 
+The m02.
+
 ### See Also
 * module [aspose.threed.utilities](../../)
 * class [Matrix4](/3d/python-net/aspose.threed.utilities/matrix4)

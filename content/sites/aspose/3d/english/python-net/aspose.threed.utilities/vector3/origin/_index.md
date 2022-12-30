@@ -11,6 +11,8 @@ is_root: false
 ## ORIGIN property
 
 
+Gets the origin position.
+
 ### See Also
 * module [aspose.threed.utilities](../../)
 * class [Vector3](/3d/python-net/aspose.threed.utilities/vector3)

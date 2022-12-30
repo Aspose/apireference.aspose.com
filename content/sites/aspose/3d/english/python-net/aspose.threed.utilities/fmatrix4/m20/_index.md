@@ -11,6 +11,8 @@ is_root: false
 ## m20 property
 
 
+The m20.
+
 ### See Also
 * module [aspose.threed.utilities](../../)
 * class [FMatrix4](/3d/python-net/aspose.threed.utilities/fmatrix4)

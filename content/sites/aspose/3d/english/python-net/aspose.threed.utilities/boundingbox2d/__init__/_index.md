@@ -10,6 +10,8 @@ is_root: false
 
 ## BoundingBox2D() {#}
 
+Constructs a new instance of BoundingBox2D
+
 
 
 ```python

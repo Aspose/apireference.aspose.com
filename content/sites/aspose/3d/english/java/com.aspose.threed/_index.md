@@ -290,6 +290,7 @@ url: /java/com.aspose.threed/
 | [RenderStage](../com.aspose.threed/renderstage) | The render stage |
 | [RenderingAPI](../com.aspose.threed/renderingapi) | Commonly used rendering APIs |
 | [RotationMode](../com.aspose.threed/rotationmode) | The frustum's rotation mode |
+| [RotationOrder](../com.aspose.threed/rotationorder) | The order controls which rx ry rz are applied in the transformation matrix. |
 | [ShadingLanguage](../com.aspose.threed/shadinglanguage) | Commonly used shading languages |
 | [SkeletonType](../com.aspose.threed/skeletontype) | com.aspose.threed.Skeleton's types. |
 | [SplitMeshPolicy](../com.aspose.threed/splitmeshpolicy) | Share vertex/control point data between sub-meshes or each sub-mesh has its own compacted data. |

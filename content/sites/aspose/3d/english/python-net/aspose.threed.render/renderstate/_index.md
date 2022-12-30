@@ -49,7 +49,7 @@ The RenderState type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [compare_to(other)](/3d/python-net/aspose.threed.render/renderstate/compare_to/#RenderState) |  |
+| [compare_to(other)](/3d/python-net/aspose.threed.render/renderstate/compare_to/#RenderState) | Compare the render state with another instance |
 
 
 ### See Also

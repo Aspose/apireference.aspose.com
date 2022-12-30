@@ -19,8 +19,8 @@ The Watermark type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [encode_watermark(input, text, password)](/3d/python-net/aspose.threed.utilities/watermark/encode_watermark/#aspose.threed.entities.Mesh-str-str) |  |
-| [decode_watermark(input, password)](/3d/python-net/aspose.threed.utilities/watermark/decode_watermark/#aspose.threed.entities.Mesh-str) |  |
+| [encode_watermark(input, text, password)](/3d/python-net/aspose.threed.utilities/watermark/encode_watermark/#aspose.threed.entities.Mesh-str-str) | Encode a text into mesh' blind watermark. |
+| [decode_watermark(input, password)](/3d/python-net/aspose.threed.utilities/watermark/decode_watermark/#aspose.threed.entities.Mesh-str) | Decode the watermark from a mesh |
 
 
 ### See Also

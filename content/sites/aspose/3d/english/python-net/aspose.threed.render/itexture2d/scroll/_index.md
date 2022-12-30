@@ -11,6 +11,8 @@ is_root: false
 ## scroll property
 
 
+Gets or sets the scroll of the UV coordinate.
+
 ### See Also
 * module [aspose.threed.render](../../)
 * class [ITexture2D](/3d/python-net/aspose.threed.render/itexture2d)

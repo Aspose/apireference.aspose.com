@@ -19,18 +19,18 @@ The ITexture2D type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [type](/3d/python-net/aspose.threed.render/itexture2d/type) |  |
-| [width](/3d/python-net/aspose.threed.render/itexture2d/width) |  |
-| [height](/3d/python-net/aspose.threed.render/itexture2d/height) |  |
-| [depth](/3d/python-net/aspose.threed.render/itexture2d/depth) |  |
-| [u_wrap](/3d/python-net/aspose.threed.render/itexture2d/u_wrap) |  |
-| [v_wrap](/3d/python-net/aspose.threed.render/itexture2d/v_wrap) |  |
-| [w_wrap](/3d/python-net/aspose.threed.render/itexture2d/w_wrap) |  |
-| [minification](/3d/python-net/aspose.threed.render/itexture2d/minification) |  |
-| [magnification](/3d/python-net/aspose.threed.render/itexture2d/magnification) |  |
-| [mipmap](/3d/python-net/aspose.threed.render/itexture2d/mipmap) |  |
-| [scroll](/3d/python-net/aspose.threed.render/itexture2d/scroll) |  |
-| [scale](/3d/python-net/aspose.threed.render/itexture2d/scale) |  |
+| [type](/3d/python-net/aspose.threed.render/itexture2d/type) | Gets the type of this texture unit. |
+| [width](/3d/python-net/aspose.threed.render/itexture2d/width) | Gets the width of this texture. |
+| [height](/3d/python-net/aspose.threed.render/itexture2d/height) | Gets the height of this texture. |
+| [depth](/3d/python-net/aspose.threed.render/itexture2d/depth) | Gets the height of this texture, for none-3D texture it's always 1. |
+| [u_wrap](/3d/python-net/aspose.threed.render/itexture2d/u_wrap) | Gets or sets the wrap mode for texture's U coordinate. |
+| [v_wrap](/3d/python-net/aspose.threed.render/itexture2d/v_wrap) | Gets or sets the wrap mode for texture's V coordinate. |
+| [w_wrap](/3d/python-net/aspose.threed.render/itexture2d/w_wrap) | Gets or sets the wrap mode for texture's W coordinate. |
+| [minification](/3d/python-net/aspose.threed.render/itexture2d/minification) | Gets or sets the filter mode for minification. |
+| [magnification](/3d/python-net/aspose.threed.render/itexture2d/magnification) | Gets or sets the filter mode for magnification. |
+| [mipmap](/3d/python-net/aspose.threed.render/itexture2d/mipmap) | Gets or sets the filter mode for mipmap. |
+| [scroll](/3d/python-net/aspose.threed.render/itexture2d/scroll) | Gets or sets the scroll of the UV coordinate. |
+| [scale](/3d/python-net/aspose.threed.render/itexture2d/scale) | Gets or sets the scale of the UV coordinate. |
 
 
 ### Methods

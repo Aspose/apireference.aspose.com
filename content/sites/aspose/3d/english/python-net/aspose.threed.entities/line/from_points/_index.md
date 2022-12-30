@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.entities/line/from_points/
 is_root: false
 ---
 
-## from_points(points) {#Aspose.ThreeD.Utilities.Vector3[]}
+## from_points(points) {#list}
 
 Construct a [Line](/3d/python-net/aspose.threed.entities/line) instance from a set of points.
 
@@ -26,7 +26,7 @@ def from_points(self, points):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| points | Aspose.ThreeD.Utilities.Vector3[] |  |
+| points | list |  |
 
 
 

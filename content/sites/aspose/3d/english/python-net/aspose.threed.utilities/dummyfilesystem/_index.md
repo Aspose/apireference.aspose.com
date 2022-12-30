@@ -24,7 +24,7 @@ The DummyFileSystem type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [DummyFileSystem()](/3d/python-net/aspose.threed.utilities/dummyfilesystem/__init__/#) |  |
+| [DummyFileSystem()](/3d/python-net/aspose.threed.utilities/dummyfilesystem/__init__/#) | Constructs a new instance of DummyFileSystem |
 
 
 ### Methods

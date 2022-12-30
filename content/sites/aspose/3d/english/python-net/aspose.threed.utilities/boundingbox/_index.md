@@ -21,7 +21,7 @@ The BoundingBox type exposes the following members:
 | :- | :- |
 | [BoundingBox(minimum, maximum)](/3d/python-net/aspose.threed.utilities/boundingbox/__init__/#Vector3-Vector3) | Initialize a finite bounding box with given minimum and maximum corner |
 | [BoundingBox(min_x, min_y, min_z, max_x, max_y, max_z)](/3d/python-net/aspose.threed.utilities/boundingbox/__init__/#float-float-float-float-float-float) | Initialize a finite bounding box with given minimum and maximum corner |
-| [BoundingBox()](/3d/python-net/aspose.threed.utilities/boundingbox/__init__/#) |  |
+| [BoundingBox()](/3d/python-net/aspose.threed.utilities/boundingbox/__init__/#) | Constructs a new instance of BoundingBox |
 
 
 ### Properties
@@ -32,8 +32,8 @@ The BoundingBox type exposes the following members:
 | [maximum](/3d/python-net/aspose.threed.utilities/boundingbox/maximum) | The maximum corner of the bounding box |
 | [size](/3d/python-net/aspose.threed.utilities/boundingbox/size) | The size of the bounding box |
 | [center](/3d/python-net/aspose.threed.utilities/boundingbox/center) | The center of the bounding box. |
-| [NULL](/3d/python-net/aspose.threed.utilities/boundingbox/NULL) |  |
-| [INFINITE](/3d/python-net/aspose.threed.utilities/boundingbox/INFINITE) |  |
+| [NULL](/3d/python-net/aspose.threed.utilities/boundingbox/NULL) | The null bounding box |
+| [INFINITE](/3d/python-net/aspose.threed.utilities/boundingbox/INFINITE) | The infinite bounding box |
 
 
 ### Methods

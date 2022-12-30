@@ -24,7 +24,7 @@ The MemoryFileSystem type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [MemoryFileSystem()](/3d/python-net/aspose.threed.utilities/memoryfilesystem/__init__/#) |  |
+| [MemoryFileSystem()](/3d/python-net/aspose.threed.utilities/memoryfilesystem/__init__/#) | Constructs a new instance of MemoryFileSystem |
 
 
 ### Properties

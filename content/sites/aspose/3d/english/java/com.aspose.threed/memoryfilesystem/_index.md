@@ -73,7 +73,7 @@ Create a stream for reading dependencies.
 | options | [IOConfig](../../com.aspose.threed/ioconfig) |  |
 
 **Returns:**
-com.aspose.threed.Stream
+com.aspose.csporter.helpers.Stream
 ### writeFile(String fileName, IOConfig options) {#writeFile-java.lang.String-com.aspose.threed.IOConfig-}
 ```
 public Stream writeFile(String fileName, IOConfig options)
@@ -89,4 +89,4 @@ Create a stream for writing dependencies.
 | options | [IOConfig](../../com.aspose.threed/ioconfig) |  |
 
 **Returns:**
-com.aspose.threed.Stream
+com.aspose.csporter.helpers.Stream

@@ -3,7 +3,7 @@ title: VertexElementType
 second_title: Aspose.3D for Java API Reference
 description: The type of the vertex element defined how it will be used in modeling.
 type: docs
-weight: 279
+weight: 280
 url: /java/com.aspose.threed/vertexelementtype/
 ---
 

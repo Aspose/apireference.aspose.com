@@ -11,6 +11,8 @@ is_root: false
 ## GLTF2_BINARY property
 
 
+Khronos Group's glTF version 2.0
+
 ### See Also
 * module [aspose.threed](../../)
 * class [FileFormat](/3d/python-net/aspose.threed/fileformat)

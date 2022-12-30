@@ -38,9 +38,9 @@ A TriMesh contains raw data that can be used by GPU directly. This class is a ut
 | [fromMesh(Mesh mesh)](#fromMesh-com.aspose.threed.Mesh-) | Create a TriMesh from given mesh object, the vertex declaration are based on the input mesh's structure. |
 | [beginVertex()](#beginVertex--) | Begin adding vertex |
 | [endVertex()](#endVertex--) | End adding vertex |
-| [writeVerticesTo(Stream stream)](#writeVerticesTo-com.aspose.threed.Stream-) | Write vertices data to the specified stream |
-| [write16bIndicesTo(Stream stream)](#write16bIndicesTo-com.aspose.threed.Stream-) | Write the indices data as 16bit integer to the stream |
-| [write32bIndicesTo(Stream stream)](#write32bIndicesTo-com.aspose.threed.Stream-) | Write the indices data as 32bit integer to the stream |
+| [writeVerticesTo(Stream stream)](#writeVerticesTo-com.aspose.csporter.helpers.Stream-) | Write vertices data to the specified stream |
+| [write16bIndicesTo(Stream stream)](#write16bIndicesTo-com.aspose.csporter.helpers.Stream-) | Write the indices data as 16bit integer to the stream |
+| [write32bIndicesTo(Stream stream)](#write32bIndicesTo-com.aspose.csporter.helpers.Stream-) | Write the indices data as 32bit integer to the stream |
 | [verticesToArray()](#verticesToArray--) | Convert the vertices data to byte array |
 | [indicesToArray(short[][] result)](#indicesToArray-short-----) | Convert the indices to 16bit integer array |
 | [getShortIndices()](#getShortIndices--) | Convert the indices to 16bit integer array |
@@ -213,7 +213,7 @@ public void endVertex()
 
 End adding vertex
 
-### writeVerticesTo(Stream stream) {#writeVerticesTo-com.aspose.threed.Stream-}
+### writeVerticesTo(Stream stream) {#writeVerticesTo-com.aspose.csporter.helpers.Stream-}
 ```
 public void writeVerticesTo(Stream stream)
 ```
@@ -224,9 +224,9 @@ Write vertices data to the specified stream
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| stream | com.aspose.threed.Stream | The stream that the vertices data will be written to |
+| stream | com.aspose.csporter.helpers.Stream | The stream that the vertices data will be written to |
 
-### write16bIndicesTo(Stream stream) {#write16bIndicesTo-com.aspose.threed.Stream-}
+### write16bIndicesTo(Stream stream) {#write16bIndicesTo-com.aspose.csporter.helpers.Stream-}
 ```
 public void write16bIndicesTo(Stream stream)
 ```
@@ -237,9 +237,9 @@ Write the indices data as 16bit integer to the stream
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| stream | com.aspose.threed.Stream |  |
+| stream | com.aspose.csporter.helpers.Stream |  |
 
-### write32bIndicesTo(Stream stream) {#write32bIndicesTo-com.aspose.threed.Stream-}
+### write32bIndicesTo(Stream stream) {#write32bIndicesTo-com.aspose.csporter.helpers.Stream-}
 ```
 public void write32bIndicesTo(Stream stream)
 ```
@@ -250,7 +250,7 @@ Write the indices data as 32bit integer to the stream
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| stream | com.aspose.threed.Stream |  |
+| stream | com.aspose.csporter.helpers.Stream |  |
 
 ### verticesToArray() {#verticesToArray--}
 ```

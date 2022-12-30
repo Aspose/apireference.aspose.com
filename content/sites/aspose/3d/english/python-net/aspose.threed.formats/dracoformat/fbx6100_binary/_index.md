@@ -11,6 +11,8 @@ is_root: false
 ## FBX6100_BINARY property
 
 
+Binary FBX file format, with 6.1.0 version
+
 ### See Also
 * module [aspose.threed.formats](../../)
 * class [DracoFormat](/3d/python-net/aspose.threed.formats/dracoformat)

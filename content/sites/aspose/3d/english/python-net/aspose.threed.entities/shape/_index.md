@@ -69,7 +69,7 @@ The Shape type exposes the following members:
 | [get_element(type)](/3d/python-net/aspose.threed.entities/shape/get_element/#VertexElementType) | Gets a vertex element with specified type |
 | [get_vertex_element_of_uv(texture_mapping)](/3d/python-net/aspose.threed.entities/shape/get_vertex_element_of_uv/#TextureMapping) | Gets a [VertexElementUV](/3d/python-net/aspose.threed.entities/vertexelementuv) instance with given texture mapping type |
 | [add_element(element)](/3d/python-net/aspose.threed.entities/shape/add_element/#VertexElement) | Adds an existing vertex element to current geometry |
-| [from_control_points(control_points)](/3d/python-net/aspose.threed.entities/shape/from_control_points/#Aspose.ThreeD.Utilities.Vector3[]) | Create a shape with specified control points with a default indices. |
+| [from_control_points(control_points)](/3d/python-net/aspose.threed.entities/shape/from_control_points/#list) | Create a shape with specified control points with a default indices. |
 
 
 ### See Also

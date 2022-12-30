@@ -8,7 +8,9 @@ url: /python-net/aspose.threed.entities/vertexelementweight/set_data/
 is_root: false
 ---
 
-## set_data(data) {#double[]}
+## set_data(data) {#list}
+
+Load data
 
 
 
@@ -20,7 +22,7 @@ def set_data(self, data):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| data | double[] |  |
+| data | list |  |
 
 
 

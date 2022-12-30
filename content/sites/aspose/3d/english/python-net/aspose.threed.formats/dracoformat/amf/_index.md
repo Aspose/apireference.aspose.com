@@ -11,6 +11,8 @@ is_root: false
 ## AMF property
 
 
+Additive manufacturing file format
+
 ### See Also
 * module [aspose.threed.formats](../../)
 * class [DracoFormat](/3d/python-net/aspose.threed.formats/dracoformat)

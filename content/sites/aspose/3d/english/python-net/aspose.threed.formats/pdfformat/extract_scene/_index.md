@@ -29,7 +29,13 @@ def extract_scene(self, file_name):
 | file_name | str |  |
 
 
-## extract_scene(file_name, password) {#str-byte[]}
+## extract_scene(file_name, password) {#str-bytes}
+
+Extract 3D scenes from PDF file.
+
+### Returns 
+
+
 
 
 
@@ -42,10 +48,16 @@ def extract_scene(self, file_name, password):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | file_name | str |  |
-| password | byte[] |  |
+| password | bytes |  |
 
 
-## extract_scene(stream, password) {#io.RawIOBase-byte[]}
+## extract_scene(stream, password) {#io.RawIOBase-bytes}
+
+Extract raw 3D content from PDF stream.
+
+### Returns 
+
+
 
 
 
@@ -58,7 +70,7 @@ def extract_scene(self, stream, password):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | stream | io.RawIOBase |  |
-| password | byte[] |  |
+| password | bytes |  |
 
 
 

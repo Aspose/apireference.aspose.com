@@ -10,6 +10,8 @@ is_root: false
 
 ## Matrix4() {#}
 
+Constructs a new instance of Matrix4
+
 
 
 ```python
@@ -21,6 +23,8 @@ def __init__(self):
 
 
 ## Matrix4(m) {#FMatrix4}
+
+Construct [Matrix4](/3d/python-net/aspose.threed.utilities/matrix4) from an [FMatrix4](/3d/python-net/aspose.threed.utilities/fmatrix4) instance
 
 
 
@@ -35,7 +39,9 @@ def __init__(self, m):
 | m | [FMatrix4](/3d/python-net/aspose.threed.utilities/fmatrix4) |  |
 
 
-## Matrix4(m) {#double[]}
+## Matrix4(m) {#list}
+
+Initializes a new instance of the [Matrix4](/3d/python-net/aspose.threed.utilities/matrix4) struct.
 
 
 
@@ -47,7 +53,7 @@ def __init__(self, m):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| m | double[] |  |
+| m | list | M. |
 
 
 ## Matrix4(r0, r1, r2, r3) {#Vector4-Vector4-Vector4-Vector4}

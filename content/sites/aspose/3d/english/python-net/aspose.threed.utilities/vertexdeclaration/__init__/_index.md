@@ -10,6 +10,8 @@ is_root: false
 
 ## VertexDeclaration() {#}
 
+Constructs a new instance of VertexDeclaration
+
 
 
 ```python

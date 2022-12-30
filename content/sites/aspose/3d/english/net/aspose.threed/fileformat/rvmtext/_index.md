@@ -3,7 +3,7 @@ title: RvmText
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 580
+weight: 600
 url: /net/aspose.threed/fileformat/rvmtext/
 ---
 ## FileFormat.RvmText field

@@ -10,6 +10,8 @@ is_root: false
 
 ## EndPoint() {#}
 
+Constructs a new instance of EndPoint
+
 
 
 ```python

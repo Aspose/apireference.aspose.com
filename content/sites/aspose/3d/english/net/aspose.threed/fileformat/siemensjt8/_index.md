@@ -3,7 +3,7 @@ title: SiemensJT8
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 290
+weight: 310
 url: /net/aspose.threed/fileformat/siemensjt8/
 ---
 ## FileFormat.SiemensJT8 field

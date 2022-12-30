@@ -11,6 +11,8 @@ is_root: false
 ## Z_AXIS property
 
 
+Gets the Z axis.
+
 ### See Also
 * module [aspose.threed.utilities](../../)
 * class [Vector3](/3d/python-net/aspose.threed.utilities/vector3)

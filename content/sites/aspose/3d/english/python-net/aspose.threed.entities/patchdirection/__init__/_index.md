@@ -10,6 +10,8 @@ is_root: false
 
 ## PatchDirection() {#}
 
+Constructs a new instance of PatchDirection
+
 
 
 ```python

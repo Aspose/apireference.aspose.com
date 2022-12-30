@@ -10,6 +10,8 @@ is_root: false
 
 ## FMatrix4() {#}
 
+Constructs a new instance of FMatrix4
+
 
 
 ```python

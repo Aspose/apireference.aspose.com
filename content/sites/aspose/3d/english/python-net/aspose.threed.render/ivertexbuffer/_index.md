@@ -20,7 +20,7 @@ The IVertexBuffer type exposes the following members:
 | Property | Description |
 | :- | :- |
 | [vertex_declaration](/3d/python-net/aspose.threed.render/ivertexbuffer/vertex_declaration) | Gets the vertex declaration |
-| [size](/3d/python-net/aspose.threed.render/ivertexbuffer/size) |  |
+| [size](/3d/python-net/aspose.threed.render/ivertexbuffer/size) | Size of this buffer in bytes |
 
 
 ### Methods
@@ -28,7 +28,7 @@ The IVertexBuffer type exposes the following members:
 | :- | :- |
 | [load_data(mesh)](/3d/python-net/aspose.threed.render/ivertexbuffer/load_data/#aspose.threed.entities.TriMesh) | Load vertex data from [TriMesh](/3d/python-net/aspose.threed.entities/trimesh) |
 | [load_data(array)](/3d/python-net/aspose.threed.render/ivertexbuffer/load_data/#Array) |  |
-| [load_data(data)](/3d/python-net/aspose.threed.render/ivertexbuffer/load_data/#byte[]) |  |
+| [load_data(data)](/3d/python-net/aspose.threed.render/ivertexbuffer/load_data/#bytes) | Load the data into current buffer |
 
 
 ### See Also

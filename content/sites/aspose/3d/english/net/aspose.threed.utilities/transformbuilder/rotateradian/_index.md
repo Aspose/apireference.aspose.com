@@ -6,7 +6,7 @@ type: docs
 weight: 130
 url: /net/aspose.threed.utilities/transformbuilder/rotateradian/
 ---
-## TransformBuilder.RotateRadian method
+## TransformBuilder.RotateRadian method (1 of 2)
 
 Chain a rotation transform in radian
 
@@ -22,6 +22,29 @@ public TransformBuilder RotateRadian(double angle, Vector3 axis)
 ### See Also
 
 * struct [Vector3](../../vector3)
+* class [TransformBuilder](../../transformbuilder)
+* namespace [Aspose.ThreeD.Utilities](../../transformbuilder)
+* assembly [Aspose.3D](../../../)
+
+---
+
+## TransformBuilder.RotateRadian method (2 of 2)
+
+Append rotation with specified order
+
+```csharp
+public void RotateRadian(Vector3 rot, RotationOrder order)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| rot | Vector3 | Rotation in radian |
+| order | RotationOrder |  |
+
+### See Also
+
+* struct [Vector3](../../vector3)
+* enum [RotationOrder](../../rotationorder)
 * class [TransformBuilder](../../transformbuilder)
 * namespace [Aspose.ThreeD.Utilities](../../transformbuilder)
 * assembly [Aspose.3D](../../../)

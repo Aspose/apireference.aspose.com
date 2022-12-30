@@ -11,6 +11,8 @@ is_root: false
 ## y property
 
 
+The y component.
+
 ### See Also
 * module [aspose.threed.utilities](../../)
 * class [FVector4](/3d/python-net/aspose.threed.utilities/fvector4)

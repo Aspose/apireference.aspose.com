@@ -11,6 +11,8 @@ is_root: false
 ## FBX7200ASCII property
 
 
+ASCII FBX file format, with 7.2.0 version
+
 ### See Also
 * module [aspose.threed.formats](../../)
 * class [PlyFormat](/3d/python-net/aspose.threed.formats/plyformat)

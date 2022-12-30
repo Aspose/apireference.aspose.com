@@ -10,6 +10,8 @@ is_root: false
 
 ## BonePose() {#}
 
+Constructs a new instance of BonePose
+
 
 
 ```python

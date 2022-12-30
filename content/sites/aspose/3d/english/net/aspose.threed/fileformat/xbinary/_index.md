@@ -3,7 +3,7 @@ title: XBinary
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 380
+weight: 400
 url: /net/aspose.threed/fileformat/xbinary/
 ---
 ## FileFormat.XBinary field

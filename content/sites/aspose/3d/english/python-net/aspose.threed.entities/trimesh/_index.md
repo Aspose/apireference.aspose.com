@@ -54,22 +54,22 @@ The TriMesh type exposes the following members:
 | [remove_property(property)](/3d/python-net/aspose.threed.entities/trimesh/remove_property/#str) | Remove the specified property identified by name |
 | [from_mesh(declaration, mesh)](/3d/python-net/aspose.threed.entities/trimesh/from_mesh/#aspose.threed.utilities.VertexDeclaration-Mesh) | Create a TriMesh from given mesh object with given vertex layout. |
 | [from_mesh(mesh, use_float)](/3d/python-net/aspose.threed.entities/trimesh/from_mesh/#Mesh-bool) | Create a TriMesh from given mesh object, the vertex declaration are based on the input mesh's structure. |
-| [indices_to_array(result)](/3d/python-net/aspose.threed.entities/trimesh/indices_to_array/#UInt16[]&) |  |
-| [indices_to_array(result)](/3d/python-net/aspose.threed.entities/trimesh/indices_to_array/#Int32[]&) |  |
+| [indices_to_array(result)](/3d/python-net/aspose.threed.entities/trimesh/indices_to_array/#any) |  |
+| [indices_to_array(result)](/3d/python-net/aspose.threed.entities/trimesh/indices_to_array/#any) |  |
 | [get_property(property)](/3d/python-net/aspose.threed.entities/trimesh/get_property/#str) | Get the value of specified property |
 | [set_property(property, value)](/3d/python-net/aspose.threed.entities/trimesh/set_property/#str-any) | Sets the value of specified property |
 | [find_property(property_name)](/3d/python-net/aspose.threed.entities/trimesh/find_property/#str) | Finds the property.<br/>It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) <br/>or native property(Identified by its name) |
 | [get_bounding_box()](/3d/python-net/aspose.threed.entities/trimesh/get_bounding_box/#) | Gets the bounding box of current entity in its object space coordinate system. |
 | [get_entity_renderer_key()](/3d/python-net/aspose.threed.entities/trimesh/get_entity_renderer_key/#) | Gets the key of the entity renderer registered in the renderer |
-| [copy_from(input, vd)](/3d/python-net/aspose.threed.entities/trimesh/copy_from/#TriMesh-aspose.threed.utilities.VertexDeclaration) |  |
+| [copy_from(input, vd)](/3d/python-net/aspose.threed.entities/trimesh/copy_from/#TriMesh-aspose.threed.utilities.VertexDeclaration) | Copy the [TriMesh](/3d/python-net/aspose.threed.entities/trimesh) from input with new vertex layout |
 | [begin_vertex()](/3d/python-net/aspose.threed.entities/trimesh/begin_vertex/#) | Begin adding vertex |
 | [end_vertex()](/3d/python-net/aspose.threed.entities/trimesh/end_vertex/#) | End adding vertex |
 | [write_vertices_to(stream)](/3d/python-net/aspose.threed.entities/trimesh/write_vertices_to/#io.RawIOBase) | Write vertices data to the specified stream |
 | [write_16b_indices_to(stream)](/3d/python-net/aspose.threed.entities/trimesh/write_16b_indices_to/#io.RawIOBase) | Write the indices data as 16bit integer to the stream |
 | [write_32b_indices_to(stream)](/3d/python-net/aspose.threed.entities/trimesh/write_32b_indices_to/#io.RawIOBase) | Write the indices data as 32bit integer to the stream |
 | [vertices_to_array()](/3d/python-net/aspose.threed.entities/trimesh/vertices_to_array/#) | Convert the vertices data to byte array |
-| [from_raw_data(vd, vertices, indices, generate_vertex_mapping)](/3d/python-net/aspose.threed.entities/trimesh/from_raw_data/#aspose.threed.utilities.VertexDeclaration-byte[]-int[]-bool) |  |
-| [load_vertices_from_bytes(vertices_in_bytes)](/3d/python-net/aspose.threed.entities/trimesh/load_vertices_from_bytes/#byte[]) |  |
+| [from_raw_data(vd, vertices, indices, generate_vertex_mapping)](/3d/python-net/aspose.threed.entities/trimesh/from_raw_data/#aspose.threed.utilities.VertexDeclaration-bytes-list-bool) | Create TriMesh from raw data |
+| [load_vertices_from_bytes(vertices_in_bytes)](/3d/python-net/aspose.threed.entities/trimesh/load_vertices_from_bytes/#bytes) | Load vertices from bytes, the length of bytes must be an integer multiple of vertex size. |
 | [read_vector4(idx, field)](/3d/python-net/aspose.threed.entities/trimesh/read_vector4/#int-aspose.threed.utilities.VertexField) | Read the vector4 field |
 | [read_f_vector4(idx, field)](/3d/python-net/aspose.threed.entities/trimesh/read_f_vector4/#int-aspose.threed.utilities.VertexField) | Read the vector4 field |
 | [read_vector3(idx, field)](/3d/python-net/aspose.threed.entities/trimesh/read_vector3/#int-aspose.threed.utilities.VertexField) | Read the vector3 field |

@@ -11,7 +11,7 @@ url: /java/com.aspose.threed/vector3/
 java.lang.Object
 
 **All Implemented Interfaces:**
-java.lang.Comparable, com.aspose.threed.Struct, java.io.Serializable
+java.lang.Comparable, com.aspose.csporter.helpers.Struct, java.io.Serializable
 ```
 public final class Vector3 implements Comparable<Vector3>, Struct<Vector3>, Serializable
 ```

@@ -3,7 +3,7 @@ title: StepMode
 second_title: Aspose.3D for Java API Reference
 description: Interpolation step mode.
 type: docs
-weight: 275
+weight: 276
 url: /java/com.aspose.threed/stepmode/
 ---
 

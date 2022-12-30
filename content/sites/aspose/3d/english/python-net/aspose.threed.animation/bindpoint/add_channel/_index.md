@@ -30,6 +30,25 @@ def add_channel(self, name, value):
 | value | any | Value. |
 
 
+## add_channel(name, type, value) {#str-Type-any}
+
+
+
+
+
+```python
+def add_channel(self, name, type, value):
+    ...
+```
+
+
+| Parameter | Type | Description |
+| :- | :- | :- |
+| name | str |  |
+| type | Type |  |
+| value | any |  |
+
+
 
 ### See Also
 * module [aspose.threed.animation](../../)

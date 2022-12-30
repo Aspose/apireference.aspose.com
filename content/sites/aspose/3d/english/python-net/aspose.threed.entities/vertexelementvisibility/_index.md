@@ -40,9 +40,9 @@ The VertexElementVisibility type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [set_indices(data)](/3d/python-net/aspose.threed.entities/vertexelementvisibility/set_indices/#int[]) |  |
+| [set_indices(data)](/3d/python-net/aspose.threed.entities/vertexelementvisibility/set_indices/#list) | Load indices |
 | [clear()](/3d/python-net/aspose.threed.entities/vertexelementvisibility/clear/#) | Clears all the data from this vertex element. |
-| [set_data(data)](/3d/python-net/aspose.threed.entities/vertexelementvisibility/set_data/#bool[]) |  |
+| [set_data(data)](/3d/python-net/aspose.threed.entities/vertexelementvisibility/set_data/#list) |  |
 
 
 ### See Also

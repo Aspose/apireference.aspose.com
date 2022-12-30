@@ -11,6 +11,8 @@ is_root: false
 ## UNIT_SCALE property
 
 
+Gets the unit scale vector.
+
 ### See Also
 * module [aspose.threed.utilities](../../)
 * class [Vector3](/3d/python-net/aspose.threed.utilities/vector3)

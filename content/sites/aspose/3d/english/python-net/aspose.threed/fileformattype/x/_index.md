@@ -11,6 +11,8 @@ is_root: false
 ## X property
 
 
+DirectX's X File
+
 ### See Also
 * module [aspose.threed](../../)
 * class [FileFormatType](/3d/python-net/aspose.threed/fileformattype)

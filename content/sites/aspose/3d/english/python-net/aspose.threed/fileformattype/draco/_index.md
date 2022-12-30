@@ -11,6 +11,8 @@ is_root: false
 ## DRACO property
 
 
+Google Draco Mesh
+
 ### See Also
 * module [aspose.threed](../../)
 * class [FileFormatType](/3d/python-net/aspose.threed/fileformattype)

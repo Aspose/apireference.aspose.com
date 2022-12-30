@@ -11,6 +11,8 @@ is_root: false
 ## PLY property
 
 
+Polygon File Format or Stanford Triangle Format
+
 ### See Also
 * module [aspose.threed.formats](../../)
 * class [PdfFormat](/3d/python-net/aspose.threed.formats/pdfformat)

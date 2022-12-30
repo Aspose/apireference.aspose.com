@@ -3,7 +3,7 @@ title: CreateSaveOptions
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 520
+weight: 540
 url: /net/aspose.threed/fileformat/createsaveoptions/
 ---
 ## FileFormat.CreateSaveOptions method

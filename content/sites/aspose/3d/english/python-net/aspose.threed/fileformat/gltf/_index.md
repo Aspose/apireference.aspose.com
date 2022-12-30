@@ -11,6 +11,8 @@ is_root: false
 ## GLTF property
 
 
+Khronos Group's glTF
+
 ### See Also
 * module [aspose.threed](../../)
 * class [FileFormat](/3d/python-net/aspose.threed/fileformat)

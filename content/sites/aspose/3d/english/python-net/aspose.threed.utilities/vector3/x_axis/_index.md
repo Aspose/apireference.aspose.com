@@ -11,6 +11,8 @@ is_root: false
 ## X_AXIS property
 
 
+Gets the X axis.
+
 ### See Also
 * module [aspose.threed.utilities](../../)
 * class [Vector3](/3d/python-net/aspose.threed.utilities/vector3)

@@ -8,22 +8,9 @@ url: /python-net/aspose.threed.entities/trimesh/indices_to_array/
 is_root: false
 ---
 
-## indices_to_array(result) {#UInt16[]&}
+## indices_to_array(result) {#any}
 
 
-
-```python
-def indices_to_array(self, result):
-    ...
-```
-
-
-| Parameter | Type | Description |
-| :- | :- | :- |
-| result | UInt16[]& |  |
-
-
-## indices_to_array(result) {#Int32[]&}
 
 
 
@@ -35,7 +22,24 @@ def indices_to_array(self, result):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| result | Int32[]& |  |
+| result | any |  |
+
+
+## indices_to_array(result) {#any}
+
+
+
+
+
+```python
+def indices_to_array(self, result):
+    ...
+```
+
+
+| Parameter | Type | Description |
+| :- | :- | :- |
+| result | any |  |
 
 
 

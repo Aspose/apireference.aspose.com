@@ -43,10 +43,10 @@ The VertexElementSmoothingGroup type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [set_indices(data)](/3d/python-net/aspose.threed.entities/vertexelementsmoothinggroup/set_indices/#int[]) |  |
+| [set_indices(data)](/3d/python-net/aspose.threed.entities/vertexelementsmoothinggroup/set_indices/#list) | Load indices |
 | [clear()](/3d/python-net/aspose.threed.entities/vertexelementsmoothinggroup/clear/#) | Removes all elements from the direct and the index arrays. |
 | [copy_to(target)](/3d/python-net/aspose.threed.entities/vertexelementsmoothinggroup/copy_to/#VertexElementIntsTemplate) | Copies data to specified element |
-| [set_data(data)](/3d/python-net/aspose.threed.entities/vertexelementsmoothinggroup/set_data/#int[]) |  |
+| [set_data(data)](/3d/python-net/aspose.threed.entities/vertexelementsmoothinggroup/set_data/#list) | Load data |
 
 
 ### See Also

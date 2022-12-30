@@ -11,6 +11,8 @@ is_root: false
 ## UNIVERSAL_3D property
 
 
+Universal3D file format
+
 ### See Also
 * module [aspose.threed](../../)
 * class [FileFormat](/3d/python-net/aspose.threed/fileformat)

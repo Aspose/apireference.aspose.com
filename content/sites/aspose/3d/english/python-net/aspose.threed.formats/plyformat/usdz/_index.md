@@ -11,6 +11,8 @@ is_root: false
 ## USDZ property
 
 
+Compressed Universal Scene Description
+
 ### See Also
 * module [aspose.threed.formats](../../)
 * class [PlyFormat](/3d/python-net/aspose.threed.formats/plyformat)

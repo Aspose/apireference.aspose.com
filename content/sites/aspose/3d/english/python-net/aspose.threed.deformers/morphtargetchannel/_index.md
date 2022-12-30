@@ -37,7 +37,7 @@ The MorphTargetChannel type exposes the following members:
 | [weights](/3d/python-net/aspose.threed.deformers/morphtargetchannel/weights) | Gets the full weight values of target geometries. |
 | [channel_weight](/3d/python-net/aspose.threed.deformers/morphtargetchannel/channel_weight) | Gets or sets the deformer weight of this channel. <br/>The weight is between 0.0 and 1.0 |
 | [targets](/3d/python-net/aspose.threed.deformers/morphtargetchannel/targets) | Gets all targets associated with the channel. |
-| [DEFAULT_WEIGHT](/3d/python-net/aspose.threed.deformers/morphtargetchannel/DEFAULT_WEIGHT) |  |
+| [DEFAULT_WEIGHT](/3d/python-net/aspose.threed.deformers/morphtargetchannel/DEFAULT_WEIGHT) | Default weight for morph target. |
 
 
 ### Methods

@@ -11,6 +11,8 @@ is_root: false
 ## ASE property
 
 
+3D Studio Max's ASCII Scene Exporter format.
+
 ### See Also
 * module [aspose.threed](../../)
 * class [FileFormatType](/3d/python-net/aspose.threed/fileformattype)

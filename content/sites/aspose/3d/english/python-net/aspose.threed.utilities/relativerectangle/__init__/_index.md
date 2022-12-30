@@ -10,6 +10,8 @@ is_root: false
 
 ## RelativeRectangle() {#}
 
+Constructs a new instance of RelativeRectangle
+
 
 
 ```python

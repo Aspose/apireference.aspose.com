@@ -11,6 +11,8 @@ is_root: false
 ## w property
 
 
+The w component.
+
 ### See Also
 * module [aspose.threed.utilities](../../)
 * class [FVector4](/3d/python-net/aspose.threed.utilities/fvector4)

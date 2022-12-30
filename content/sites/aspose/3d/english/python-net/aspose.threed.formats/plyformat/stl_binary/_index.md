@@ -11,6 +11,8 @@ is_root: false
 ## STL_BINARY property
 
 
+Binary STL file format
+
 ### See Also
 * module [aspose.threed.formats](../../)
 * class [PlyFormat](/3d/python-net/aspose.threed.formats/plyformat)

@@ -18,8 +18,8 @@ File system to provide to the read-only access to speicified zip file or zip str
 
 | Constructor | Description |
 | --- | --- |
-| [ZipArchiveFileSystem(Stream stream, String baseDir)](#ZipArchiveFileSystem-com.aspose.threed.Stream-java.lang.String-) | Construct a com.aspose.threed.ZipArchiveFileSystem through a stream. |
-| [ZipArchiveFileSystem(Stream stream)](#ZipArchiveFileSystem-com.aspose.threed.Stream-) | Construct a com.aspose.threed.ZipArchiveFileSystem through a stream. |
+| [ZipArchiveFileSystem(Stream stream, String baseDir)](#ZipArchiveFileSystem-com.aspose.csporter.helpers.Stream-java.lang.String-) | Construct a com.aspose.threed.ZipArchiveFileSystem through a stream. |
+| [ZipArchiveFileSystem(Stream stream)](#ZipArchiveFileSystem-com.aspose.csporter.helpers.Stream-) | Construct a com.aspose.threed.ZipArchiveFileSystem through a stream. |
 | [ZipArchiveFileSystem(String fileName)](#ZipArchiveFileSystem-java.lang.String-) | Construct a com.aspose.threed.ZipArchiveFileSystem through a file name. |
 ## Methods
 
@@ -28,7 +28,7 @@ File system to provide to the read-only access to speicified zip file or zip str
 | [readFile(String fileName, IOConfig options)](#readFile-java.lang.String-com.aspose.threed.IOConfig-) | Open file for reading |
 | [writeFile(String fileName, IOConfig options)](#writeFile-java.lang.String-com.aspose.threed.IOConfig-) | Open file for writing, not implemented in this class. |
 | [close()](#close--) | Dispose the ZipArchiveFileSystem and release its internal resources. |
-### ZipArchiveFileSystem(Stream stream, String baseDir) {#ZipArchiveFileSystem-com.aspose.threed.Stream-java.lang.String-}
+### ZipArchiveFileSystem(Stream stream, String baseDir) {#ZipArchiveFileSystem-com.aspose.csporter.helpers.Stream-java.lang.String-}
 ```
 public ZipArchiveFileSystem(Stream stream, String baseDir)
 ```
@@ -39,10 +39,10 @@ Construct a com.aspose.threed.ZipArchiveFileSystem through a stream.
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| stream | com.aspose.threed.Stream |  |
+| stream | com.aspose.csporter.helpers.Stream |  |
 | baseDir | java.lang.String |  |
 
-### ZipArchiveFileSystem(Stream stream) {#ZipArchiveFileSystem-com.aspose.threed.Stream-}
+### ZipArchiveFileSystem(Stream stream) {#ZipArchiveFileSystem-com.aspose.csporter.helpers.Stream-}
 ```
 public ZipArchiveFileSystem(Stream stream)
 ```
@@ -53,7 +53,7 @@ Construct a com.aspose.threed.ZipArchiveFileSystem through a stream.
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| stream | com.aspose.threed.Stream |  |
+| stream | com.aspose.csporter.helpers.Stream |  |
 
 ### ZipArchiveFileSystem(String fileName) {#ZipArchiveFileSystem-java.lang.String-}
 ```
@@ -83,7 +83,7 @@ Open file for reading
 | options | [IOConfig](../../com.aspose.threed/ioconfig) |  |
 
 **Returns:**
-com.aspose.threed.Stream
+com.aspose.csporter.helpers.Stream
 ### writeFile(String fileName, IOConfig options) {#writeFile-java.lang.String-com.aspose.threed.IOConfig-}
 ```
 public Stream writeFile(String fileName, IOConfig options)
@@ -99,7 +99,7 @@ Open file for writing, not implemented in this class.
 | options | [IOConfig](../../com.aspose.threed/ioconfig) |  |
 
 **Returns:**
-com.aspose.threed.Stream
+com.aspose.csporter.helpers.Stream
 ### close() {#close--}
 ```
 public void close()

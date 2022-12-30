@@ -42,7 +42,7 @@ The VertexElementUserData type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [set_indices(data)](/3d/python-net/aspose.threed.entities/vertexelementuserdata/set_indices/#int[]) |  |
+| [set_indices(data)](/3d/python-net/aspose.threed.entities/vertexelementuserdata/set_indices/#list) | Load indices |
 | [clear()](/3d/python-net/aspose.threed.entities/vertexelementuserdata/clear/#) | Clears all the data from this vertex element. |
 
 

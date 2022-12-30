@@ -11,6 +11,8 @@ is_root: false
 ## m33 property
 
 
+The m33.
+
 ### See Also
 * module [aspose.threed.utilities](../../)
 * class [FMatrix4](/3d/python-net/aspose.threed.utilities/fmatrix4)

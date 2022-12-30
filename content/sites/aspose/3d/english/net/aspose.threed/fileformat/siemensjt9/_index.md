@@ -3,7 +3,7 @@ title: SiemensJT9
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 300
+weight: 320
 url: /net/aspose.threed/fileformat/siemensjt9/
 ---
 ## FileFormat.SiemensJT9 field

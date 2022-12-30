@@ -3,7 +3,7 @@ title: TransformBuilder
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 2620
+weight: 2630
 url: /net/aspose.threed.utilities/transformbuilder/
 ---
 ## TransformBuilder class
@@ -39,10 +39,12 @@ public class TransformBuilder
 | [Reset](../../aspose.threed.utilities/transformbuilder/reset)() | Reset the transform to identity matrix |
 | [Rotate](../../aspose.threed.utilities/transformbuilder/rotate)(Quaternion) | Chain a rotation by a quaternion |
 | [RotateDegree](../../aspose.threed.utilities/transformbuilder/rotatedegree)(double, Vector3) | Chain a rotation transform in degree |
+| [RotateDegree](../../aspose.threed.utilities/transformbuilder/rotatedegree)(Vector3, RotationOrder) | Append rotation with specified order |
 | [RotateEulerDegree](../../aspose.threed.utilities/transformbuilder/rotateeulerdegree)(double, double, double) | Chain a rotation by Euler angles in degree |
 | [RotateEulerRadian](../../aspose.threed.utilities/transformbuilder/rotateeulerradian)(Vector3) | Chain a rotation by Euler angles in radian |
 | [RotateEulerRadian](../../aspose.threed.utilities/transformbuilder/rotateeulerradian)(double, double, double) | Chain a rotation by Euler angles in radian |
 | [RotateRadian](../../aspose.threed.utilities/transformbuilder/rotateradian)(double, Vector3) | Chain a rotation transform in radian |
+| [RotateRadian](../../aspose.threed.utilities/transformbuilder/rotateradian)(Vector3, RotationOrder) | Append rotation with specified order |
 | [Scale](../../aspose.threed.utilities/transformbuilder/scale)(double) | Chain a scaling transform matrix with a component scaled by s |
 | [Scale](../../aspose.threed.utilities/transformbuilder/scale)(Vector3) | Chain a scale transform |
 | [Scale](../../aspose.threed.utilities/transformbuilder/scale)(double, double, double) | Chain a scaling transform matrix |

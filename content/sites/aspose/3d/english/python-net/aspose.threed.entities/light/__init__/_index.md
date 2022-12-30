@@ -41,6 +41,8 @@ def __init__(self, name):
 
 ## Light(name, type) {#str-LightType}
 
+Initializes a new instance of the [Light](/3d/python-net/aspose.threed.entities/light) class.
+
 
 
 ```python
@@ -51,8 +53,8 @@ def __init__(self, name, type):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| name | str |  |
-| type | [LightType](/3d/python-net/aspose.threed.entities/lighttype) |  |
+| name | str | Name |
+| type | [LightType](/3d/python-net/aspose.threed.entities/lighttype) | New light's type |
 
 
 

@@ -11,6 +11,8 @@ is_root: false
 ## Y_AXIS property
 
 
+Gets the Y axis.
+
 ### See Also
 * module [aspose.threed.utilities](../../)
 * class [Vector3](/3d/python-net/aspose.threed.utilities/vector3)

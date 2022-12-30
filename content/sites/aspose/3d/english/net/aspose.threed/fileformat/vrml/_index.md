@@ -3,7 +3,7 @@ title: VRML
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 360
+weight: 380
 url: /net/aspose.threed/fileformat/vrml/
 ---
 ## FileFormat.VRML field
