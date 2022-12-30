@@ -3,7 +3,7 @@ title: WoffFormatException
 second_title: Aspose.Font for Java API Reference
 description: Represents WOFF font processing related exception.
 type: docs
-weight: 94
+weight: 96
 url: /java/com.aspose.font/woffformatexception/
 ---
 **Inheritance:**

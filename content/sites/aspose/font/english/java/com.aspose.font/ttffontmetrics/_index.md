@@ -23,12 +23,12 @@ Represents TTF Font metrics.
 | [setAscender(double value)](#setAscender-double-) | Sets ascender value. |
 | [getDescender()](#getDescender--) | Gets descender value. |
 | [setDescender(double value)](#setDescender-double-) | Sets descender value. |
-| [getLineGap()](#getLineGap--) | Gets LineGap value. |
-| [getTypoDescender()](#getTypoDescender--) | Gets TypoDescender value. |
-| [setTypoDescender(double value)](#setTypoDescender-double-) | Sets TypoDescender value. |
-| [getTypoLineGap()](#getTypoLineGap--) | Gets TypoLineGap value. |
 | [getTypoAscender()](#getTypoAscender--) | Gets TypoAscender value. |
 | [setTypoAscender(double value)](#setTypoAscender-double-) | Sets TypoAscender value. |
+| [getTypoDescender()](#getTypoDescender--) | Gets TypoDescender value. |
+| [setTypoDescender(double value)](#setTypoDescender-double-) | Sets TypoDescender value. |
+| [getLineGap()](#getLineGap--) | Gets LineGap value. |
+| [getTypoLineGap()](#getTypoLineGap--) | Gets TypoLineGap value. |
 | [getFontBBox()](#getFontBBox--) | Gets FontBBox value. |
 | [getFontMatrix()](#getFontMatrix--) | Gets FontBBox value. |
 | [getKerningValue(GlyphId prevGlyphId, GlyphId nextGlyphId)](#getKerningValue-com.aspose.font.GlyphId-com.aspose.font.GlyphId-) | Returns kerning value for the glyph pair. |
@@ -111,49 +111,6 @@ Sets descender value.
 | --- | --- | --- |
 | value | double | Descender value. |
 
-### getLineGap() {#getLineGap--}
-```
-public double getLineGap()
-```
-
-
-Gets LineGap value.
-
-**Returns:**
-double - LineGap value.
-### getTypoDescender() {#getTypoDescender--}
-```
-public double getTypoDescender()
-```
-
-
-Gets TypoDescender value.
-
-**Returns:**
-double - TypoDescender value.
-### setTypoDescender(double value) {#setTypoDescender-double-}
-```
-public void setTypoDescender(double value)
-```
-
-
-Sets TypoDescender value.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | double | TypoDescender value. |
-
-### getTypoLineGap() {#getTypoLineGap--}
-```
-public double getTypoLineGap()
-```
-
-
-Gets TypoLineGap value.
-
-**Returns:**
-double - TypoLineGap value.
 ### getTypoAscender() {#getTypoAscender--}
 ```
 public double getTypoAscender()
@@ -177,6 +134,49 @@ Sets TypoAscender value.
 | --- | --- | --- |
 | value | double | TypoAscender value. |
 
+### getTypoDescender() {#getTypoDescender--}
+```
+public double getTypoDescender()
+```
+
+
+Gets TypoDescender value.
+
+**Returns:**
+double - TypoDescender value.
+### setTypoDescender(double value) {#setTypoDescender-double-}
+```
+public void setTypoDescender(double value)
+```
+
+
+Sets TypoDescender value.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | double | TypoDescender value. |
+
+### getLineGap() {#getLineGap--}
+```
+public double getLineGap()
+```
+
+
+Gets LineGap value.
+
+**Returns:**
+double - LineGap value.
+### getTypoLineGap() {#getTypoLineGap--}
+```
+public double getTypoLineGap()
+```
+
+
+Gets TypoLineGap value.
+
+**Returns:**
+double - TypoLineGap value.
 ### getFontBBox() {#getFontBBox--}
 ```
 public FontBBox getFontBBox()

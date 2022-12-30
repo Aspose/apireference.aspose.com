@@ -3,7 +3,7 @@ title: Type1FontMetrics
 second_title: Aspose.Font for Java API Reference
 description: Represents Type1 Font metrics.
 type: docs
-weight: 91
+weight: 93
 url: /java/com.aspose.font/type1fontmetrics/
 ---
 **Inheritance:**

@@ -35,7 +35,7 @@ The **com.aspose.font** is a root package for all classes that deal with fonts.
 | [FontDefinition](../com.aspose.font/fontdefinition) | Represents Font file set definition. |
 | [FontEnvironment](../com.aspose.font/fontenvironment) | Provides information about the current environment and platform. |
 | [FontException](../com.aspose.font/fontexception) | Represents common Font processing related exception. |
-| [FontFactory](../com.aspose.font/fontfactory) | Class which allows to open fonts of different types |
+| [FontFactory](../com.aspose.font/fontfactory) | Contains functionality for opening fonts of different types and other methods for creating various objects. |
 | [FontFileDefinition](../com.aspose.font/fontfiledefinition) | Represents Font file definition. |
 | [FontMetrics](../com.aspose.font/fontmetrics) | Represents font metrics. |
 | [FontNotSupportedOperationException](../com.aspose.font/fontnotsupportedoperationexception) | Represents not supported operation exception. |
@@ -97,6 +97,9 @@ The **com.aspose.font** is a root package for all classes that deal with fonts.
 | [TtfPrepTable](../com.aspose.font/ttfpreptable) | Represents "prep" table of the TTF Font file. |
 | [TtfTableBase](../com.aspose.font/ttftablebase) | Represents TTF table definition. |
 | [TtfTableRepository](../com.aspose.font/ttftablerepository) | repository of TTF tables |
+| [TtfVheaTable](../com.aspose.font/ttfvheatable) | Represents "hhea" table of the TTF Font file. |
+| [TtfVmtxTable](../com.aspose.font/ttfvmtxtable) | Represents "vmtx" table of the TTF Font file. |
+| [TtfVmtxTable.LongVerMetric](../com.aspose.font/ttfvmtxtable.longvermetric) | Represents vertical metrics record. |
 | [Type1Encoding](../com.aspose.font/type1encoding) | Represents Type1 Font encoding. |
 | [Type1Font](../com.aspose.font/type1font) | Represents Type1 Font. |
 | [Type1FontMetrics](../com.aspose.font/type1fontmetrics) | Represents Type1 Font metrics. |
