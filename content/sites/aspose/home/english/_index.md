@@ -129,6 +129,7 @@ Create, edit, convert and print Microsoft Project documents in your applications
 {{< blocks/product-item title=".NET" href="/tasks/net/" class="btn-net" >}}
 {{< blocks/product-item title="JAVA" href="/tasks/java/" class="btn-java" >}}
 {{< blocks/product-item title="C++" href="/tasks/cpp/" class="btn-c" >}}
+{{< blocks/product-item title="Python" href="/tasks/python-net/" class="btn-python" >}}
 
 {{< /blocks/product-card >}}
 
