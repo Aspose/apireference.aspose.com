@@ -3,7 +3,7 @@ title: Aspose.OCR.SpellChecker
 second_title: Aspose.OCR for .NET API Reference
 description: The Aspose.OCR.SpellChecker contains classes for misspelled text correction.
 type: docs
-weight: 40
+weight: 50
 url: /net/aspose.ocr.spellchecker/
 ---
 The **Aspose.OCR.SpellChecker** contains classes for misspelled text correction.

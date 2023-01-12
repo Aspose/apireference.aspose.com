@@ -3,7 +3,7 @@ title: CalculateSkew
 second_title: Aspose.OCR for .NET API Reference
 description: Calculates the skew angle of an image.
 type: docs
-weight: 20
+weight: 30
 url: /net/aspose.ocr/asposeocr/calculateskew/
 ---
 ## CalculateSkew(MemoryStream) {#calculateskew}

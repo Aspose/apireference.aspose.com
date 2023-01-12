@@ -3,7 +3,7 @@ title: RecognizeInvoice
 second_title: Aspose.OCR for .NET API Reference
 description: Recognizes text on invoice image.
 type: docs
-weight: 160
+weight: 180
 url: /net/aspose.ocr/asposeocr/recognizeinvoice/
 ---
 ## RecognizeInvoice(string, InvoiceRecognitionSettings) {#recognizeinvoice_1}
@@ -26,7 +26,7 @@ The [`RecognitionResult`](../../recognitionresult) object with image recognition
 
 ### Remarks
 
-Recognizes image with the ability to specify [`InvoiceRecognitionSettings`](../../invoicerecognitionsettings). Supports GIF, PNG, JPEG, BMP, TIFF.
+Recognizes image with the ability to specify [`InvoiceRecognitionSettings`](../../invoicerecognitionsettings). Supports GIF, PNG, JPEG, BMP, TIFF, JFIF.
 
 ### See Also
 
@@ -58,7 +58,7 @@ The [`RecognitionResult`](../../recognitionresult) object with image recognition
 
 ### Remarks
 
-Recognizes image with the ability to specify [`InvoiceRecognitionSettings`](../../invoicerecognitionsettings). Supports GIF, PNG, JPEG, BMP, TIFF.
+Recognizes image with the ability to specify [`InvoiceRecognitionSettings`](../../invoicerecognitionsettings). Supports GIF, PNG, JPEG, BMP, TIFF, JFIF.
 
 ### See Also
 

@@ -3,7 +3,7 @@ title: License
 second_title: Aspose.OCR for .NET API Reference
 description: Provides methods to license the component.
 type: docs
-weight: 30
+weight: 40
 url: /net/aspose.ocr/license/
 ---
 ## License class

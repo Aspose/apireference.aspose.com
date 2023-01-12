@@ -3,7 +3,7 @@ title: AsposeOcr
 second_title: Aspose.OCR for .NET API Reference
 description: Main API for Aspose OCR library
 type: docs
-weight: 10
+weight: 20
 url: /net/aspose.ocr/asposeocr/
 ---
 ## AsposeOcr class
@@ -30,8 +30,8 @@ public class AsposeOcr
 | [CalculateSkewFromUri](../../aspose.ocr/asposeocr/calculateskewfromuri)(string) | Calculates the skew angle of an image from URI. |
 | [CompareImageTexts](../../aspose.ocr/asposeocr/compareimagetexts)(string, string, RecognitionSettings, bool) | Check if two images contain the same text. |
 | [CorrectSpelling](../../aspose.ocr/asposeocr/correctspelling)(string, SpellCheckLanguage, string) | Corrects text (replaces misspelled words). |
-| [GetRectangles](../../aspose.ocr/asposeocr/getrectangles#getrectangles)(MemoryStream, AreasType, bool) | Detects text areas on image.  Automatic image skew correction is not applied. Support GIF, PNG, JPEG, BMP, TIFF. |
-| [GetRectangles](../../aspose.ocr/asposeocr/getrectangles#getrectangles_1)(string, AreasType, bool) | Detects text areas on image.  Automatic image skew correction is not applied. Support GIF, PNG, JPEG, BMP, TIFF. |
+| [GetRectangles](../../aspose.ocr/asposeocr/getrectangles#getrectangles)(MemoryStream, AreasType, bool) | Detects text areas on image.  Automatic image skew correction is not applied. Supports GIF, PNG, JPEG, BMP, TIFF, JFIF. |
+| [GetRectangles](../../aspose.ocr/asposeocr/getrectangles#getrectangles_1)(string, AreasType, bool) | Detects text areas on image.  Automatic image skew correction is not applied. Supports GIF, PNG, JPEG, BMP, TIFF, JFIF. |
 | [ImageHasText](../../aspose.ocr/asposeocr/imagehastext#imagehastext_1)(string, Regex, RecognitionSettings) | Check if the image text matches the provided regular expression. |
 | [ImageHasText](../../aspose.ocr/asposeocr/imagehastext#imagehastext)(string, string, RecognitionSettings, bool) | Check if the image contains the provided text fragment. |
 | [ImageTextDiff](../../aspose.ocr/asposeocr/imagetextdiff)(string, string, RecognitionSettings, bool) | Compare the texts on the two images and return a number representing how similar they are (0 to 1). |
@@ -45,22 +45,22 @@ public class AsposeOcr
 | [RecognizeIDCard](../../aspose.ocr/asposeocr/recognizeidcard#recognizeidcard_1)(string, IDCardRecognitionSettings) | Recognizes text on ID Card. |
 | [RecognizeImage](../../aspose.ocr/asposeocr/recognizeimage#recognizeimage_4)(MemoryStream) | Recognizes text on image. |
 | [RecognizeImage](../../aspose.ocr/asposeocr/recognizeimage#recognizeimage_5)(string) | Recognizes text on image. |
-| [RecognizeImage](../../aspose.ocr/asposeocr/recognizeimage#recognizeimage_2)(MemoryStream, RecognitionSettings) | Recognizes text on image.  Recognizes image with the ability to specify [`RecognitionSettings`](../recognitionsettings). Supports GIF, PNG, JPEG, BMP, TIFF. |
+| [RecognizeImage](../../aspose.ocr/asposeocr/recognizeimage#recognizeimage_2)(MemoryStream, RecognitionSettings) | Recognizes text on image.  Recognizes image with the ability to specify [`RecognitionSettings`](../recognitionsettings). Supports GIF, PNG, JPEG, BMP, TIFF, JFIF. |
 | [RecognizeImage](../../aspose.ocr/asposeocr/recognizeimage#recognizeimage_3)(string, RecognitionSettings) | Recognizes text on image. |
 | [RecognizeImage](../../aspose.ocr/asposeocr/recognizeimage#recognizeimage)(Color[], int, int, RecognitionSettings) | Recognizes text on image. |
 | [RecognizeImage](../../aspose.ocr/asposeocr/recognizeimage#recognizeimage_1)(byte[], int, int, PixelType, RecognitionSettings) | Recognizes text on image. |
 | [RecognizeImageFast](../../aspose.ocr/asposeocr/recognizeimagefast#recognizeimagefast)(MemoryStream) | Recognize text on the image with good quality. Doesn't use skew correction and areas detection. Works in fast mode. |
 | [RecognizeImageFast](../../aspose.ocr/asposeocr/recognizeimagefast#recognizeimagefast_1)(string) | Recognize text on the image with good quality. Doesn't use skew correction and areas detection. Works in fast mode. |
-| [RecognizeImageFromUri](../../aspose.ocr/asposeocr/recognizeimagefromuri#recognizeimagefromuri_1)(string) | Recognizes text on image provided by URI link. |
-| [RecognizeImageFromUri](../../aspose.ocr/asposeocr/recognizeimagefromuri#recognizeimagefromuri)(string, RecognitionSettings) | Recognizes text on image provided by URI link. |
+| [RecognizeImageFromBase64](../../aspose.ocr/asposeocr/recognizeimagefrombase64)(string, RecognitionSettings) | Recognizes text on image provided in base64 type. |
+| [RecognizeImageFromUri](../../aspose.ocr/asposeocr/recognizeimagefromuri)(string, RecognitionSettings) | Recognizes text on image provided by URI link. |
 | [RecognizeInvoice](../../aspose.ocr/asposeocr/recognizeinvoice#recognizeinvoice)(MemoryStream, InvoiceRecognitionSettings) | Recognizes text on invoice image. |
 | [RecognizeInvoice](../../aspose.ocr/asposeocr/recognizeinvoice#recognizeinvoice_1)(string, InvoiceRecognitionSettings) | Recognizes text on invoice image. |
-| [RecognizeLine](../../aspose.ocr/asposeocr/recognizeline#recognizeline)(MemoryStream) | Recognizes image that contains single line of text.  Automatic image skew correction is not applied. Supports GIF, PNG, JPEG, BMP, TIFF. |
-| [RecognizeLine](../../aspose.ocr/asposeocr/recognizeline#recognizeline_1)(string) | Recognizes image that contains single line of text.  Automatic image skew correction is not applied. Supports GIF, PNG, JPEG, BMP, TIFF. |
-| [RecognizeMultipleImages](../../aspose.ocr/asposeocr/recognizemultipleimages#recognizemultipleimages)(List&lt;string&gt;) | Recognizes multiple images from list with default settings.  Archives and folders are not supported. Max amount of processed images is 20. Supports GIF, PNG, JPEG, BMP, TIFF. |
-| [RecognizeMultipleImages](../../aspose.ocr/asposeocr/recognizemultipleimages#recognizemultipleimages_2)(string) | Recognizes multiple images packed in ZIP archive or from folder with default settings.  Nested archives and folders are not supported. Max amount of processed images is 20. Supports GIF, PNG, JPEG, BMP, TIFF. |
-| [RecognizeMultipleImages](../../aspose.ocr/asposeocr/recognizemultipleimages#recognizemultipleimages_1)(List&lt;string&gt;, RecognitionSettings) | Recognizes multiple images from list.  Archives and folders are not supported. Max amount of processed images is 20. Supports GIF, PNG, JPEG, BMP, TIFF. |
-| [RecognizeMultipleImages](../../aspose.ocr/asposeocr/recognizemultipleimages#recognizemultipleimages_3)(string, RecognitionSettings) | Recognizes multiple images packed in ZIP archive or from folder.  Nested archives and folders are not supported. Max amount of processed images is 20. Supports GIF, PNG, JPEG, BMP, TIFF. |
+| [RecognizeLine](../../aspose.ocr/asposeocr/recognizeline#recognizeline)(MemoryStream) | Recognizes image that contains single line of text.  Automatic image skew correction is not applied. Supports GIF, PNG, JPEG, BMP, TIFF, JFIF. |
+| [RecognizeLine](../../aspose.ocr/asposeocr/recognizeline#recognizeline_1)(string) | Recognizes image that contains single line of text.  Automatic image skew correction is not applied. Supports GIF, PNG, JPEG, BMP, TIFF, JFIF. |
+| [RecognizeMultipleImages](../../aspose.ocr/asposeocr/recognizemultipleimages#recognizemultipleimages)(List&lt;string&gt;) | Recognizes multiple images from list with default settings.  Archives and folders are not supported. Max amount of processed images is 20. Supports GIF, PNG, JPEG, BMP, TIFF, JFIF. |
+| [RecognizeMultipleImages](../../aspose.ocr/asposeocr/recognizemultipleimages#recognizemultipleimages_2)(string) | Recognizes multiple images packed in ZIP archive or from folder with default settings.  Nested archives and folders are not supported. Max amount of processed images is 20. Supports GIF, PNG, JPEG, BMP, TIFF, JFIF. |
+| [RecognizeMultipleImages](../../aspose.ocr/asposeocr/recognizemultipleimages#recognizemultipleimages_1)(List&lt;string&gt;, RecognitionSettings) | Recognizes multiple images from list.  Archives and folders are not supported. Max amount of processed images is 20. Supports GIF, PNG, JPEG, BMP, TIFF, JFIF. |
+| [RecognizeMultipleImages](../../aspose.ocr/asposeocr/recognizemultipleimages#recognizemultipleimages_3)(string, RecognitionSettings) | Recognizes multiple images packed in ZIP archive or from folder.  Nested archives and folders are not supported. Max amount of processed images is 20. Supports GIF, PNG, JPEG, BMP, TIFF, JFIF. |
 | [RecognizePassport](../../aspose.ocr/asposeocr/recognizepassport#recognizepassport)(MemoryStream, PassportRecognitionSettings) | Recognizes text on passports. |
 | [RecognizePassport](../../aspose.ocr/asposeocr/recognizepassport#recognizepassport_1)(string, PassportRecognitionSettings) | Recognizes text on passports. |
 | [RecognizePdf](../../aspose.ocr/asposeocr/recognizepdf#recognizepdf)(MemoryStream, DocumentRecognitionSettings) | Recognize text from scanned pdf (extract images).  Recognizes pdf file with the ability to specify [`RecognitionSettings`](../recognitionsettings). Supports Scanned PDF only. Doesn't supports Searchable PDF. |

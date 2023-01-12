@@ -3,7 +3,7 @@ title: RecognizeCarPlate
 second_title: Aspose.OCR for .NET API Reference
 description: Recognizes car plate.
 type: docs
-weight: 100
+weight: 110
 url: /net/aspose.ocr/asposeocr/recognizecarplate/
 ---
 ## RecognizeCarPlate(string, CarPlateRecognitionSettings) {#recognizecarplate_1}
@@ -26,7 +26,7 @@ The [`RecognitionResult`](../../recognitionresult) object with image recognition
 
 ### Remarks
 
-Recognizes car plate with the ability to specify [`CarPlateRecognitionSettings`](../../carplaterecognitionsettings). Supports GIF, PNG, JPEG, BMP, TIFF.
+Recognizes car plate with the ability to specify [`CarPlateRecognitionSettings`](../../carplaterecognitionsettings). Supports GIF, PNG, JPEG, BMP, TIFF, JFIF.
 
 ### See Also
 
@@ -58,7 +58,7 @@ The [`RecognitionResult`](../../recognitionresult) object with image recognition
 
 ### Remarks
 
-Recognizes car plate with the ability to specify [`CarPlateRecognitionSettings`](../../carplaterecognitionsettings). Supports GIF, PNG, JPEG, BMP, TIFF.
+Recognizes car plate with the ability to specify [`CarPlateRecognitionSettings`](../../carplaterecognitionsettings). Supports GIF, PNG, JPEG, BMP, TIFF, JFIF.
 
 ### See Also
 

@@ -3,7 +3,7 @@ title: DocumentRecognitionSettings
 second_title: Aspose.OCR for .NET API Reference
 description: Settings for the pdf recognition. Contains elements that allow customizing the recognition process.
 type: docs
-weight: 130
+weight: 140
 url: /net/aspose.ocr/documentrecognitionsettings/
 ---
 ## DocumentRecognitionSettings class

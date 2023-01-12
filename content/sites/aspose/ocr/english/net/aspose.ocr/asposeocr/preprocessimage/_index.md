@@ -3,7 +3,7 @@ title: PreprocessImage
 second_title: Aspose.OCR for .NET API Reference
 description: Use image preprocessing to improve the accuracy of OCR. Create a list of filters that will be applied to the input image in the order you specify. example to create filters PreprocessingFilter filters  new PreprocessingFilter  PreprocessingFilter.Invert PreprocessingFilter.Threshold150 PreprocessingFilter.Binarize PreprocessingFilter.Rotate180 PreprocessingFilter.Resize30003000 Aspose.OCR.Filters.InterpolationFilterType.Box PreprocessingFilter.Scale6f PreprocessingFilter.Dilate  You dont need all of them. Set only what you need.
 type: docs
-weight: 90
+weight: 100
 url: /net/aspose.ocr/asposeocr/preprocessimage/
 ---
 ## PreprocessImage(string, PreprocessingFilter) {#preprocessimage_1}

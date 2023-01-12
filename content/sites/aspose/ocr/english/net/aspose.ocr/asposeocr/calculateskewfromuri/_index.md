@@ -3,7 +3,7 @@ title: CalculateSkewFromUri
 second_title: Aspose.OCR for .NET API Reference
 description: Calculates the skew angle of an image from URI.
 type: docs
-weight: 30
+weight: 40
 url: /net/aspose.ocr/asposeocr/calculateskewfromuri/
 ---
 ## AsposeOcr.CalculateSkewFromUri method

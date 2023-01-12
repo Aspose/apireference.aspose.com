@@ -3,7 +3,7 @@ title: RecognizePassport
 second_title: Aspose.OCR for .NET API Reference
 description: Recognizes text on passports.
 type: docs
-weight: 190
+weight: 210
 url: /net/aspose.ocr/asposeocr/recognizepassport/
 ---
 ## RecognizePassport(string, PassportRecognitionSettings) {#recognizepassport_1}
@@ -26,7 +26,7 @@ The [`RecognitionResult`](../../recognitionresult) object with image recognition
 
 ### Remarks
 
-Recognizes image with the ability to specify [`PassportRecognitionSettings`](../../passportrecognitionsettings). Supports GIF, PNG, JPEG, BMP, TIFF.
+Recognizes image with the ability to specify [`PassportRecognitionSettings`](../../passportrecognitionsettings). Supports GIF, PNG, JPEG, BMP, TIFF, JFIF.
 
 ### See Also
 
@@ -58,7 +58,7 @@ The [`RecognitionResult`](../../recognitionresult) object with image recognition
 
 ### Remarks
 
-Recognizes image with the ability to specify [`PassportRecognitionSettings`](../../passportrecognitionsettings). Supports GIF, PNG, JPEG, BMP, TIFF.
+Recognizes image with the ability to specify [`PassportRecognitionSettings`](../../passportrecognitionsettings). Supports GIF, PNG, JPEG, BMP, TIFF, JFIF.
 
 ### See Also
 

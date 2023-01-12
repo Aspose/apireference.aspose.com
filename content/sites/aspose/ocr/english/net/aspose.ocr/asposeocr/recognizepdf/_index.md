@@ -3,7 +3,7 @@ title: RecognizePdf
 second_title: Aspose.OCR for .NET API Reference
 description: Recognize text from scanned pdf extract images.  Recognizes pdf file with the ability to specify DocumentRecognitionSettingsaspose.ocr/documentrecognitionsettings. Supports Scanned PDF only. Doesnt supports Searchable PDF.
 type: docs
-weight: 200
+weight: 220
 url: /net/aspose.ocr/asposeocr/recognizepdf/
 ---
 ## RecognizePdf(string, DocumentRecognitionSettings) {#recognizepdf_1}

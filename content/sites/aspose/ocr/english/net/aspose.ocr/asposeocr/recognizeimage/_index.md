@@ -3,7 +3,7 @@ title: RecognizeImage
 second_title: Aspose.OCR for .NET API Reference
 description: Recognizes text on image.
 type: docs
-weight: 130
+weight: 140
 url: /net/aspose.ocr/asposeocr/recognizeimage/
 ---
 ## RecognizeImage(string) {#recognizeimage_5}
@@ -24,7 +24,7 @@ Recognized text.
 
 ### Remarks
 
-Uses automatic image skew correction and text areas detection. Supports GIF, PNG, JPEG, BMP, TIFF.
+Uses automatic image skew correction and text areas detection. Supports GIF, PNG, JPEG, BMP, TIFF, JFIF.
 
 ### See Also
 
@@ -53,7 +53,7 @@ The [`RecognitionResult`](../../recognitionresult) object with image recognition
 
 ### Remarks
 
-Recognizes image with the ability to specify [`RecognitionSettings`](../../recognitionsettings). Supports GIF, PNG, JPEG, BMP, TIFF.
+Recognizes image with the ability to specify [`RecognitionSettings`](../../recognitionsettings). Supports GIF, PNG, JPEG, BMP, TIFF, JFIF.
 
 ### See Also
 
@@ -83,7 +83,7 @@ Recognized text.
 
 ### Remarks
 
-Uses automatic image skew correction and text areas detection. Support GIF, PNG, JPEG, BMP, TIFF.
+Uses automatic image skew correction and text areas detection. Supports GIF, PNG, JPEG, BMP, TIFF, JFIF.
 
 ### See Also
 
@@ -95,7 +95,7 @@ Uses automatic image skew correction and text areas detection. Support GIF, PNG,
 
 ## RecognizeImage(MemoryStream, RecognitionSettings) {#recognizeimage_2}
 
-Recognizes text on image.  Recognizes image with the ability to specify [`RecognitionSettings`](../../recognitionsettings). Supports GIF, PNG, JPEG, BMP, TIFF.
+Recognizes text on image.  Recognizes image with the ability to specify [`RecognitionSettings`](../../recognitionsettings). Supports GIF, PNG, JPEG, BMP, TIFF, JFIF.
 
 ```csharp
 public RecognitionResult RecognizeImage(MemoryStream stream, RecognitionSettings settings)

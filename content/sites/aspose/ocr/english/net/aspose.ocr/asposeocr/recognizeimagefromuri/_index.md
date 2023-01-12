@@ -3,43 +3,15 @@ title: RecognizeImageFromUri
 second_title: Aspose.OCR for .NET API Reference
 description: Recognizes text on image provided by URI link.
 type: docs
-weight: 150
+weight: 170
 url: /net/aspose.ocr/asposeocr/recognizeimagefromuri/
 ---
-## RecognizeImageFromUri(string) {#recognizeimagefromuri_1}
+## AsposeOcr.RecognizeImageFromUri method
 
 Recognizes text on image provided by URI link.
 
 ```csharp
-public string RecognizeImageFromUri(string uri)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| uri | String | URI link to the image. |
-
-### Return Value
-
-Recognized text.
-
-### Remarks
-
-Uses automatic image skew correction and text areas detection. Supports GIF, PNG, JPEG, BMP, TIFF.
-
-### See Also
-
-* class [AsposeOcr](../../asposeocr)
-* namespace [Aspose.OCR](../../asposeocr)
-* assembly [Aspose.OCR](../../../)
-
----
-
-## RecognizeImageFromUri(string, RecognitionSettings) {#recognizeimagefromuri}
-
-Recognizes text on image provided by URI link.
-
-```csharp
-public RecognitionResult RecognizeImageFromUri(string uri, RecognitionSettings settings)
+public RecognitionResult RecognizeImageFromUri(string uri, RecognitionSettings settings = null)
 ```
 
 | Parameter | Type | Description |
@@ -53,7 +25,7 @@ The [`RecognitionResult`](../../recognitionresult) object with image recognition
 
 ### Remarks
 
-Recognizes image with the ability to specify [`RecognitionSettings`](../../recognitionsettings). Supports GIF, PNG, JPEG, BMP, TIFF.
+Recognizes image with the ability to specify [`RecognitionSettings`](../../recognitionsettings). Supports GIF, PNG, JPEG, BMP, TIFF, JFIF.
 
 ### See Also
 
