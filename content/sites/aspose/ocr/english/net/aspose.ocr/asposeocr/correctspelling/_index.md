@@ -3,7 +3,7 @@ title: CorrectSpelling
 second_title: Aspose.OCR for .NET API Reference
 description: Corrects text replaces misspelled words.
 type: docs
-weight: 50
+weight: 60
 url: /net/aspose.ocr/asposeocr/correctspelling/
 ---
 ## AsposeOcr.CorrectSpelling method

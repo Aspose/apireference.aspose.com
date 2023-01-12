@@ -3,7 +3,7 @@ title: RecognizeReceipt
 second_title: Aspose.OCR for .NET API Reference
 description: Recognizes text on image.
 type: docs
-weight: 210
+weight: 230
 url: /net/aspose.ocr/asposeocr/recognizereceipt/
 ---
 ## RecognizeReceipt(string, ReceiptRecognitionSettings) {#recognizereceipt_1}
@@ -26,7 +26,7 @@ The [`RecognitionResult`](../../recognitionresult) object with image recognition
 
 ### Remarks
 
-Recognizes image with the ability to specify [`ReceiptRecognitionSettings`](../../receiptrecognitionsettings). Supports GIF, PNG, JPEG, BMP, TIFF.
+Recognizes image with the ability to specify [`ReceiptRecognitionSettings`](../../receiptrecognitionsettings). Supports GIF, PNG, JPEG, BMP, TIFF, JFIF.
 
 ### See Also
 
@@ -58,7 +58,7 @@ The [`RecognitionResult`](../../recognitionresult) object with image recognition
 
 ### Remarks
 
-Recognizes image with the ability to specify [`ReceiptRecognitionSettings`](../../receiptrecognitionsettings). Supports GIF, PNG, JPEG, BMP, TIFF.
+Recognizes image with the ability to specify [`ReceiptRecognitionSettings`](../../receiptrecognitionsettings). Supports GIF, PNG, JPEG, BMP, TIFF, JFIF.
 
 ### See Also
 

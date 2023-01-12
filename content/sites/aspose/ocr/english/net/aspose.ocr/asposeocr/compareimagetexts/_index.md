@@ -3,7 +3,7 @@ title: CompareImageTexts
 second_title: Aspose.OCR for .NET API Reference
 description: Check if two images contain the same text.
 type: docs
-weight: 40
+weight: 50
 url: /net/aspose.ocr/asposeocr/compareimagetexts/
 ---
 ## AsposeOcr.CompareImageTexts method

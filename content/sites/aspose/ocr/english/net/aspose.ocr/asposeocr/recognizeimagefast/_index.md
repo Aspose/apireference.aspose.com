@@ -3,7 +3,7 @@ title: RecognizeImageFast
 second_title: Aspose.OCR for .NET API Reference
 description: Recognize text on the image with good quality. Doesnt use skew correction and areas detection. Works in fast mode.
 type: docs
-weight: 140
+weight: 150
 url: /net/aspose.ocr/asposeocr/recognizeimagefast/
 ---
 ## RecognizeImageFast(string) {#recognizeimagefast_1}

@@ -1,14 +1,14 @@
 ---
 title: RecognizeMultipleImages
 second_title: Aspose.OCR for .NET API Reference
-description: Recognizes multiple images from list.  Archives and folders are not supported. Max amount of processed images is 20. Supports GIF PNG JPEG BMP TIFF.
+description: Recognizes multiple images from list.  Archives and folders are not supported. Max amount of processed images is 20. Supports GIF PNG JPEG BMP TIFF JFIF.
 type: docs
-weight: 180
+weight: 200
 url: /net/aspose.ocr/asposeocr/recognizemultipleimages/
 ---
 ## RecognizeMultipleImages(List&lt;string&gt;, RecognitionSettings) {#recognizemultipleimages_1}
 
-Recognizes multiple images from list.  Archives and folders are not supported. Max amount of processed images is 20. Supports GIF, PNG, JPEG, BMP, TIFF.
+Recognizes multiple images from list.  Archives and folders are not supported. Max amount of processed images is 20. Supports GIF, PNG, JPEG, BMP, TIFF, JFIF.
 
 ```csharp
 public List<RecognitionResult> RecognizeMultipleImages(List<string> files, 
@@ -36,7 +36,7 @@ Array of [`RecognitionResult`](../../recognitionresult) objects with recognition
 
 ## RecognizeMultipleImages(List&lt;string&gt;) {#recognizemultipleimages}
 
-Recognizes multiple images from list with default settings.  Archives and folders are not supported. Max amount of processed images is 20. Supports GIF, PNG, JPEG, BMP, TIFF.
+Recognizes multiple images from list with default settings.  Archives and folders are not supported. Max amount of processed images is 20. Supports GIF, PNG, JPEG, BMP, TIFF, JFIF.
 
 ```csharp
 public List<RecognitionResult> RecognizeMultipleImages(List<string> files)
@@ -61,7 +61,7 @@ Array of [`RecognitionResult`](../../recognitionresult) objects with recognition
 
 ## RecognizeMultipleImages(string, RecognitionSettings) {#recognizemultipleimages_3}
 
-Recognizes multiple images packed in ZIP archive or from folder.  Nested archives and folders are not supported. Max amount of processed images is 20. Supports GIF, PNG, JPEG, BMP, TIFF.
+Recognizes multiple images packed in ZIP archive or from folder.  Nested archives and folders are not supported. Max amount of processed images is 20. Supports GIF, PNG, JPEG, BMP, TIFF, JFIF.
 
 ```csharp
 public List<RecognitionResult> RecognizeMultipleImages(string path, RecognitionSettings settings)
@@ -88,7 +88,7 @@ Array of [`RecognitionResult`](../../recognitionresult) objects with recognition
 
 ## RecognizeMultipleImages(string) {#recognizemultipleimages_2}
 
-Recognizes multiple images packed in ZIP archive or from folder with default settings.  Nested archives and folders are not supported. Max amount of processed images is 20. Supports GIF, PNG, JPEG, BMP, TIFF.
+Recognizes multiple images packed in ZIP archive or from folder with default settings.  Nested archives and folders are not supported. Max amount of processed images is 20. Supports GIF, PNG, JPEG, BMP, TIFF, JFIF.
 
 ```csharp
 public List<RecognitionResult> RecognizeMultipleImages(string path)

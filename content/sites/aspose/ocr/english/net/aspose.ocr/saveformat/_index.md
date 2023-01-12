@@ -3,7 +3,7 @@ title: SaveFormat
 second_title: Aspose.OCR for .NET API Reference
 description: For recognition result saving
 type: docs
-weight: 100
+weight: 110
 url: /net/aspose.ocr/saveformat/
 ---
 ## SaveFormat enumeration
@@ -24,6 +24,9 @@ public enum SaveFormat
 | Xlsx | `3` | Saves the document as an Excel ( 2007 and later) workbook Document. |
 | Xml | `4` | Saves the document as an XML file. |
 | Json | `5` | Saves the document as an JSON file. |
+| HTML | `6` | Saves the document as an HTML file. |
+| EPUB | `7` | Saves the document as an EPUB file. |
+| RTF | `8` | Saves the document as an rtf file. |
 
 ### See Also
 

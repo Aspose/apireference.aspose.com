@@ -3,7 +3,7 @@ title: Language
 second_title: Aspose.OCR for .NET API Reference
 description: Languages used for OCR. ISO 639-2 Code
 type: docs
-weight: 70
+weight: 80
 url: /net/aspose.ocr/language/
 ---
 ## Language enumeration
@@ -48,6 +48,7 @@ public enum Language
 | Rus | `27` | Russian alphabet |
 | Srp | `28` | Serbian alphabet |
 | Ukr | `29` | Ukrainian alphabet |
+| Hin | `30` | Hindi alphabet |
 
 ### See Also
 

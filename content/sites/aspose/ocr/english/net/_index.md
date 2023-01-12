@@ -13,6 +13,7 @@ is_root: true
 | --- | --- |
 | [Aspose.OCR](./aspose.ocr) | The **Aspose.OCR** contains tools for image recognition, skew correction, text areas detection and spell check. |
 | [Aspose.OCR.Filters](./aspose.ocr.filters) | The **Aspose.OCR.Filters** contains interpolations, used forscale images. |
+| [Aspose.OCR.Models.Events](./aspose.ocr.models.events) |  |
 | [Aspose.OCR.Models.PreprocessingFilters](./aspose.ocr.models.preprocessingfilters) | The **Aspose.OCR.Models.PreprocessingFilters** contains base class for image processing commands.. |
 | [Aspose.OCR.SpellChecker](./aspose.ocr.spellchecker) | The **Aspose.OCR.SpellChecker** contains classes for misspelled text correction. |
 
