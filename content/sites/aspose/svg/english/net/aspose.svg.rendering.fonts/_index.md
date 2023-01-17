@@ -1,12 +1,12 @@
 ---
 title: Aspose.Svg.Rendering.Fonts
 second_title: Aspose.SVG for .NET API Reference
-description: 
+description: The Aspose.Svg.Rendering.Fonts namespace contains classes for working with fonts. The namespace includes classes for matching fonts based on certain properties and for controlling the font matching algorithm.
 type: docs
 weight: 250
 url: /net/aspose.svg.rendering.fonts/
 ---
-
+The **Aspose.Svg.Rendering.Fonts** namespace contains classes for working with fonts. The namespace includes classes for matching fonts based on certain properties and for controlling the font matching algorithm.
 
 ## Classes
 
