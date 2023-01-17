@@ -30,6 +30,8 @@ Create, edit or convert PDF documents in your application. Includes 7 individual
 {{< blocks/product-item title=".NET" href="/pdf/net/" class="btn-net" >}}
 {{< blocks/product-item title="JAVA" href="/pdf/java/" class="btn-java" >}}
 {{< blocks/product-item title="C++" href="/pdf/cpp/" class="btn-c" >}}
+{{< blocks/product-item title="PYTHON" href="/pdf/python-net/" class="btn-python" >}}
+{{< blocks/product-item title="JavaScript" href="/pdf/javascript-cpp/" class="btn-nodejs" >}}
 {{< /blocks/product-card >}}
 
 {{< blocks/product-card title="**Aspose.Cells**" href="cells" >}}
