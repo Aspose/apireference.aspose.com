@@ -22,7 +22,7 @@ public XbrlDocument()
 
 ---
 
-## XbrlDocument(string) {#constructor_1}
+## XbrlDocument(string) {#constructor_3}
 
 Initializes a new instance of XbrlDocument class and open a file.
 
@@ -42,7 +42,27 @@ public XbrlDocument(string fileName)
 
 ---
 
-## XbrlDocument(string, LoadOptions) {#constructor_2}
+## XbrlDocument(Stream) {#constructor_1}
+
+Initializes a new instance of XbrlDocument class and opens it with a stream..
+
+```csharp
+public XbrlDocument(Stream stream)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| stream | Stream | The file stream. |
+
+### See Also
+
+* class [XbrlDocument](../../xbrldocument)
+* namespace [Aspose.Finance.Xbrl](../../xbrldocument)
+* assembly [Aspose.Finance](../../../)
+
+---
+
+## XbrlDocument(string, LoadOptions) {#constructor_4}
 
 Initializes a new instance of XbrlDocument class and open a file.
 
@@ -53,6 +73,28 @@ public XbrlDocument(string fileName, LoadOptions options)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | fileName | String | The file name. |
+| options | LoadOptions | The load options. |
+
+### See Also
+
+* class [LoadOptions](../../loadoptions)
+* class [XbrlDocument](../../xbrldocument)
+* namespace [Aspose.Finance.Xbrl](../../xbrldocument)
+* assembly [Aspose.Finance](../../../)
+
+---
+
+## XbrlDocument(Stream, LoadOptions) {#constructor_2}
+
+Initializes a new instance of XbrlDocument class and opens it with a stream..
+
+```csharp
+public XbrlDocument(Stream stream, LoadOptions options)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| stream | Stream | The file stream. |
 | options | LoadOptions | The load options. |
 
 ### See Also

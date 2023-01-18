@@ -18,8 +18,10 @@ public class InlineXbrlDocument : Document
 
 | Name | Description |
 | --- | --- |
-| [InlineXbrlDocument](inlinexbrldocument#constructor)(string) | Initializes a new instance of [`InlineXbrlDocument`](../inlinexbrldocument) class and open a file. |
-| [InlineXbrlDocument](inlinexbrldocument#constructor_1)(string, LoadOptions) | Initializes a new instance of [`InlineXbrlDocument`](../inlinexbrldocument) class and open a file. |
+| [InlineXbrlDocument](inlinexbrldocument#constructor)(Stream) | Initializes a new instance of [`InlineXbrlDocument`](../inlinexbrldocument) class and opens it with a stream.. |
+| [InlineXbrlDocument](inlinexbrldocument#constructor_2)(string) | Initializes a new instance of [`InlineXbrlDocument`](../inlinexbrldocument) class and open a file. |
+| [InlineXbrlDocument](inlinexbrldocument#constructor_1)(Stream, LoadOptions) | Initializes a new instance of [`InlineXbrlDocument`](../inlinexbrldocument) class and opens it with a stream. |
+| [InlineXbrlDocument](inlinexbrldocument#constructor_3)(string, LoadOptions) | Initializes a new instance of [`InlineXbrlDocument`](../inlinexbrldocument) class and open a file. |
 
 ## Properties
 

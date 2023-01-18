@@ -19,8 +19,10 @@ public class XbrlDocument
 | Name | Description |
 | --- | --- |
 | [XbrlDocument](xbrldocument#constructor)() | Initializes a new instance of XbrlDocument class |
-| [XbrlDocument](xbrldocument#constructor_1)(string) | Initializes a new instance of XbrlDocument class and open a file. |
-| [XbrlDocument](xbrldocument#constructor_2)(string, LoadOptions) | Initializes a new instance of XbrlDocument class and open a file. |
+| [XbrlDocument](xbrldocument#constructor_1)(Stream) | Initializes a new instance of XbrlDocument class and opens it with a stream.. |
+| [XbrlDocument](xbrldocument#constructor_3)(string) | Initializes a new instance of XbrlDocument class and open a file. |
+| [XbrlDocument](xbrldocument#constructor_2)(Stream, LoadOptions) | Initializes a new instance of XbrlDocument class and opens it with a stream.. |
+| [XbrlDocument](xbrldocument#constructor_4)(string, LoadOptions) | Initializes a new instance of XbrlDocument class and open a file. |
 
 ## Properties
 
