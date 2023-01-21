@@ -21,6 +21,7 @@ public enum FontSavingFormats
 | TTF | `0` | TTF (TrueType) Font format. |
 | WOFF | `1` | WOFF(Web Open Font Format). |
 | WOFF2 | `2` | WOFF File Format 2.0 |
+| SVG | `3` | SVG(Scalable Vector Graphics) Font format |
 
 ### See Also
 
