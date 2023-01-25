@@ -20,6 +20,7 @@ Specifies Font type.
 | [TTF](#TTF) | TTF (TrueType) Font format. |
 | [WOFF](#WOFF) | WOFF(Web Open Font Format). |
 | [WOFF2](#WOFF2) | WOFF File Format 2.0 |
+| [SVG](#SVG) | SVG(Scalable Vector Graphics) Font format |
 ## Methods
 
 | Method | Description |
@@ -49,6 +50,14 @@ public static final FontSavingFormats WOFF2
 
 
 WOFF File Format 2.0
+
+### SVG {#SVG}
+```
+public static final FontSavingFormats SVG
+```
+
+
+SVG(Scalable Vector Graphics) Font format
 
 ### values() {#values--}
 ```
