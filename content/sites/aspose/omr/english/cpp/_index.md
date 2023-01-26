@@ -1,0 +1,13 @@
+---
+title: Aspose.OMR for C++
+type: docs
+weight: 10
+url: /cpp/
+keywords: "Aspose.OMR for C++, Aspose OMR, Aspose API Reference."
+description: Aspose.OMR for C++ is an API to recognize optical marks from OMR digitized sheet images.
+is_root: true
+---
+## Namespaces
+
+| Namespace | Description |
+| --- | --- |

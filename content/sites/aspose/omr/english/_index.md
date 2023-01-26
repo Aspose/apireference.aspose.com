@@ -11,7 +11,7 @@ url: /
 
 {{% alert color="primary" %}} 
 
-![Aspose.OMR for .NET Product Logo](home_1.png)
+![Aspose.OMR for .NET Product Logo](omr_net.svg)
 
 **Welcome to the Aspose.OMR for .NET**
 
@@ -27,7 +27,7 @@ These are links to some useful resources:
 
 {{% alert color="primary" %}} 
 
-![Aspose.OMR for Java Product Logo](home_2.png)
+![Aspose.OMR for Java Product Logo](omr_java.svg)
 
 **Welcome to the Aspose.OMR for Java**
 
@@ -38,4 +38,20 @@ Aspose.OMR for Java is an API to recognize optical marks from OMR digitized shee
 These are links to some useful resources:
 
 - [Aspose.OMR for Java API Reference](/omr/java/)
+
+
+## Aspose.OMR for C++
+
+{{% alert color="primary" %}} 
+
+![Aspose.OMR for C++ Product Logo](omr_cpp.svg)
+
+**Welcome to the Aspose.OMR for C++**
+
+Aspose.OMR for C++ is an API to recognize optical marks from OMR digitized sheet images. It can be used to recognize optical marks in a variety of image formats like BMP, JPG, TIF, TIFF, GIF. The API allows capturing human-marked data from document forms such as surveys, questionnaires, multiple-choice examination papers, and other tests. With this solution, it is possible to recognize scanned images and even photos with high accuracy. Recognition is based on a template markup which contains a graphical mapping of the elements to be recognized from the scanned images.
+
+{{% /alert %}} 
+
+These are links to some useful resources:
+- [Aspose.OMR for C++ API Reference](/omr/cpp/)
 
