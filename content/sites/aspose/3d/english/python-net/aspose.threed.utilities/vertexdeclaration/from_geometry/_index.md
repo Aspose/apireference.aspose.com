@@ -12,6 +12,7 @@ is_root: false
 
 Create a [VertexDeclaration](/3d/python-net/aspose.threed.utilities/vertexdeclaration) based on a [Geometry](/3d/python-net/aspose.threed.entities/geometry)'s layout.
 
+
 ### Returns 
 
 

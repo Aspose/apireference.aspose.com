@@ -12,6 +12,7 @@ is_root: false
 
 Compare the render state with another instance
 
+
 ### Returns 
 
 

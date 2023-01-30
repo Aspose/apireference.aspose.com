@@ -12,6 +12,7 @@ is_root: false
 
 Gets the property bind point on specified animation instance.
 
+
 ### Returns 
 
 

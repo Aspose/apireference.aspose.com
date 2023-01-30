@@ -26,6 +26,18 @@ def rotate_euler_degree(self, deg_x, deg_y, deg_z):
 | deg_y | float |  |
 | deg_z | float |  |
 
+### Example 
+
+
+```python
+from aspose.threed.utilities import TransformBuilder
+
+tb = TransformBuilder()
+tb.rotate_euler_degree(0, 90, 0)
+print(f"Transform Matrix: {tb.matrix}")
+
+```
+
 
 
 ### See Also

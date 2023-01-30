@@ -28,6 +28,17 @@ def set_geometric_translation(self, x, y, z):
 | y | float |  |
 | z | float |  |
 
+### Example 
+
+
+```python
+from aspose.threed import Node
+
+node = Node()
+node.transform.set_geometric_translation(10, 0, 0)
+
+```
+
 
 
 ### See Also

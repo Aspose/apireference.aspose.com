@@ -12,6 +12,7 @@ is_root: false
 
 Check if two vectors are equal
 
+
 ### Returns 
 
 

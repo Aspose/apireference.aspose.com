@@ -13,6 +13,22 @@ is_root: false
 
 Gets or sets whether to exclude this node and all child nodes/entities during exporting.
 
+### Example 
+
+
+The following code shows how to exclude specified node from exporting
+
+```python
+from aspose.threed import Scene
+from aspose.threed.entities import Box
+
+scene = Scene()
+scene.root_node.create_child_node("excluded", Box()).excluded = True
+scene.root_node.create_child_node("not excluded", Box())
+scene.save("output.usdz")
+
+```
+
 ### See Also
 * module [aspose.threed](../../)
 * class [Node](/3d/python-net/aspose.threed/node)

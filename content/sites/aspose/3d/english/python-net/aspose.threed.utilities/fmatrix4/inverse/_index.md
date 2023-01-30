@@ -12,6 +12,7 @@ is_root: false
 
 Calculate the inverse matrix of current instance.
 
+
 ### Returns 
 
 

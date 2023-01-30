@@ -12,6 +12,7 @@ is_root: false
 
 Convert the [RevolvedAreaSolid](/3d/python-net/aspose.threed.entities/revolvedareasolid) into a mesh.
 
+
 ### Returns 
 
 

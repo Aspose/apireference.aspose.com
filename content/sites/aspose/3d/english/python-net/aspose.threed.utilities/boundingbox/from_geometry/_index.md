@@ -12,6 +12,7 @@ is_root: false
 
 Construct a bounding box from given geometry
 
+
 ### Returns 
 
 

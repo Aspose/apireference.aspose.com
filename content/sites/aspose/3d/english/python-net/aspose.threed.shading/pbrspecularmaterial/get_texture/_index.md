@@ -12,6 +12,7 @@ is_root: false
 
 Gets the texture from the specified slot, it can be material's property name or shader's parameter name
 
+
 ### Returns 
 
 
@@ -27,6 +28,21 @@ def get_texture(self, slot_name):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | slot_name | str | Slot name. |
+
+### Example 
+
+
+```python
+from aspose import pycore
+from aspose.threed.shading import LambertMaterial, Material, Texture
+
+mat = LambertMaterial()
+tex = Texture()
+tex.file_name = "diffuse.png"
+mat.set_texture(Material.MAP_DIFFUSE, tex)
+tex = pycore.cast(Aspose.ThreeD.Shading.Texture, mat.get_texture(Material.MAP_DIFFUSE))
+
+```
 
 
 

@@ -53,6 +53,22 @@ The TransformBuilder type exposes the following members:
 | [reset()](/3d/python-net/aspose.threed.utilities/transformbuilder/reset/#) | Reset the transform to identity matrix |
 
 
+
+### Example 
+
+
+The following code shows how to create a matrix by a set of operation
+
+```python
+from aspose.threed.utilities import TransformBuilder
+
+tb = TransformBuilder()
+tb.translate(10, 20, 0)
+tb.scale(10, 10, 10)
+tb.rotate_euler_degree(90, 0, 0)
+print(f"Transform Matrix: {tb.matrix}")
+
+```
 ### See Also
 
 * module [aspose.threed.utilities](../)

@@ -12,6 +12,7 @@ is_root: false
 
 Sets the Euler angles in degrees of current transform.
 
+
 ### Returns 
 
 
@@ -29,6 +30,17 @@ def set_euler_angles(self, rx, ry, rz):
 | rx | float |  |
 | ry | float |  |
 | rz | float |  |
+
+### Example 
+
+
+```python
+from aspose.threed import Node
+
+node = Node()
+node.transform.set_euler_angles(90, 0, 0)
+
+```
 
 
 

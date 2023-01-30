@@ -12,6 +12,7 @@ is_root: false
 
 Creates a new [Renderer](/3d/python-net/aspose.threed.render/renderer) with default profile.
 
+
 ### Returns 
 
 

@@ -12,6 +12,7 @@ is_root: false
 
 Construct a [RelativeRectangle](/3d/python-net/aspose.threed.utilities/relativerectangle) with all offset fields zero and scale fields from given parameters.
 
+
 ### Returns 
 
 

@@ -25,6 +25,16 @@ def create_polygon(self, indices):
 | :- | :- | :- |
 | indices | list | Array of the polygon indices, each index points to a control point that forms the polygon. |
 
+### Example 
+
+
+```python
+
+indices = [0, 1, 2]
+mesh.create_polygon(indices)
+
+```
+
 
 ## create_polygon(indices, offset, length) {#list-int-int}
 
@@ -44,6 +54,16 @@ def create_polygon(self, indices, offset, length):
 | indices | list | Array of the polygon indices, each index points to a control point that forms the polygon. |
 | offset | int | The offset of the first polygon index |
 | length | int | The length of the indices |
+
+### Example 
+
+
+```python
+
+indices = [0, 1, 2]
+mesh.create_polygon(indices)
+
+```
 
 
 ## create_polygon(v1, v2, v3) {#int-int-int}

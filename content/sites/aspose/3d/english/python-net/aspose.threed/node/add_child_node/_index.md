@@ -24,6 +24,22 @@ def add_child_node(self, node):
 | :- | :- | :- |
 | node | [Node](/3d/python-net/aspose.threed/node) | The child node to be attached |
 
+### Example 
+
+
+The following code shows how to get all meshes from a scene
+
+```python
+from aspose.threed import Node, Scene
+
+scene = Scene.from_file("input.fbx")
+newNode = Node()
+
+# add a new node manually
+scene.root_node.add_child_node(newNode)
+
+```
+
 
 
 ### See Also

@@ -13,6 +13,18 @@ is_root: false
 
 Gets the translation
 
+### Example 
+
+
+```python
+from aspose.threed import Scene
+
+scene = Scene.from_file("test.fbx")
+tr = scene.root_node.global_transform
+print(f"Translation = {tr.translation}")
+
+```
+
 ### See Also
 * module [aspose.threed](../../)
 * class [GlobalTransform](/3d/python-net/aspose.threed/globaltransform)

@@ -12,6 +12,7 @@ is_root: false
 
 Create a new uniform buffer in GPU side with pre-allocated size.
 
+
 ### Returns 
 
 

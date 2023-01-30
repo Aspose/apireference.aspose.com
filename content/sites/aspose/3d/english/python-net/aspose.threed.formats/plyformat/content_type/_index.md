@@ -13,6 +13,23 @@ is_root: false
 
 Gets file format content type
 
+### Example 
+
+
+```python
+from aspose.threed import FileContentType, FileFormat
+
+format = FileFormat.MAYA_BINARY
+if format.content_type == FileContentType.BINARY:
+    print(f"{format} is binary format")
+
+else:
+    print(f"{format} is text-based format")
+
+
+
+```
+
 ### See Also
 * module [aspose.threed.formats](../../)
 * class [PlyFormat](/3d/python-net/aspose.threed.formats/plyformat)

@@ -12,6 +12,7 @@ is_root: false
 
 Creates a [VertexElementUV](/3d/python-net/aspose.threed.entities/vertexelementuv) with given texture mapping type.
 
+
 ### Returns 
 
 
@@ -32,6 +33,7 @@ def create_element_uv(self, uv_mapping):
 ## create_element_uv(uv_mapping, mapping_mode, reference_mode) {#TextureMapping-MappingMode-ReferenceMode}
 
 Creates a [VertexElementUV](/3d/python-net/aspose.threed.entities/vertexelementuv) with given texture mapping type.
+
 
 ### Returns 
 

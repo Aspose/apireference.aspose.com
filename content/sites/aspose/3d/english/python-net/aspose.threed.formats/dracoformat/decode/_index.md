@@ -12,6 +12,7 @@ is_root: false
 
 Decode the point cloud or mesh from specified file name
 
+
 ### Returns 
 
 
@@ -32,6 +33,7 @@ def decode(self, file_name):
 ## decode(data) {#bytes}
 
 Decode the point cloud or mesh from memory data
+
 
 ### Returns 
 

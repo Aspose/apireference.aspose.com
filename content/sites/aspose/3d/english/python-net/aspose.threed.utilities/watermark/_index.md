@@ -23,6 +23,21 @@ The Watermark type exposes the following members:
 | [decode_watermark(input, password)](/3d/python-net/aspose.threed.utilities/watermark/decode_watermark/#aspose.threed.entities.Mesh-str) | Decode the watermark from a mesh |
 
 
+
+### Example 
+
+
+The following code shows how to encode a blind watermark into a mesh and decode it.
+
+```python
+from aspose.threed.entities import Cylinder
+from aspose.threed.utilities import Watermark
+
+mesh = Cylinder().to_mesh()
+encodedMesh = Watermark.encode_watermark(mesh, "Hello", None)
+watermark = Watermark.decode_watermark(encodedMesh, None)
+
+```
 ### See Also
 
 * module [aspose.threed.utilities](../)

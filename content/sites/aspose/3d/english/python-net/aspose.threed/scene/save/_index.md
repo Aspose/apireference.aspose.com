@@ -24,6 +24,19 @@ def save(self, file_name):
 | :- | :- | :- |
 | file_name | str | File name. |
 
+### Example 
+
+
+The following code shows how to save scene
+
+```python
+from aspose.threed import Scene
+
+scene = Scene.from_file("input.fbx")
+scene.save("output.usdz")
+
+```
+
 
 ## save(stream, format) {#io.RawIOBase-FileFormat}
 
@@ -41,6 +54,23 @@ def save(self, stream, format):
 | :- | :- | :- |
 | stream | io.RawIOBase | Input stream, user is responsible for closing the stream. |
 | format | [FileFormat](/3d/python-net/aspose.threed/fileformat) | Format. |
+
+### Example 
+
+
+The following code shows how to save scene
+
+```python
+from aspose.threed import FileFormat, Scene
+from io import BytesIO
+
+scene = Scene.from_file("input.fbx")
+with BytesIO() as ms:
+    scene.save(ms, FileFormat.USDZ)
+
+
+
+```
 
 
 ## save(stream, options) {#io.RawIOBase-aspose.threed.formats.SaveOptions}
@@ -60,6 +90,26 @@ def save(self, stream, options):
 | stream | io.RawIOBase | Input stream, user is responsible for closing the stream. |
 | options | aspose.threed.formats.SaveOptions | More detailed configuration to save the stream. |
 
+### Example 
+
+
+The following code shows how to save scene
+
+```python
+from aspose.threed import Scene
+from aspose.threed.formats import UsdSaveOptions
+from io import BytesIO
+
+scene = Scene.from_file("input.fbx")
+opt = UsdSaveOptions()
+opt.primitive_to_mesh = True
+with BytesIO() as ms:
+    scene.save(ms, opt)
+
+
+
+```
+
 
 ## save(file_name, format) {#str-FileFormat}
 
@@ -78,6 +128,19 @@ def save(self, file_name, format):
 | file_name | str | File name. |
 | format | [FileFormat](/3d/python-net/aspose.threed/fileformat) | Format. |
 
+### Example 
+
+
+The following code shows how to save scene
+
+```python
+from aspose.threed import FileFormat, Scene
+
+scene = Scene.from_file("input.fbx")
+scene.save("output.usdz", FileFormat.USDZ)
+
+```
+
 
 ## save(file_name, options) {#str-aspose.threed.formats.SaveOptions}
 
@@ -95,6 +158,22 @@ def save(self, file_name, options):
 | :- | :- | :- |
 | file_name | str | File name. |
 | options | aspose.threed.formats.SaveOptions | More detailed configuration to save the stream. |
+
+### Example 
+
+
+The following code shows how to save scene
+
+```python
+from aspose.threed import Scene
+from aspose.threed.formats import UsdSaveOptions
+
+scene = Scene.from_file("input.fbx")
+opts = UsdSaveOptions()
+opts.primitive_to_mesh = True
+scene.save("output.usdz", opts)
+
+```
 
 
 

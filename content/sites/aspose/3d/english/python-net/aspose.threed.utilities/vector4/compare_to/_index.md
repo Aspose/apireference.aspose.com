@@ -12,6 +12,7 @@ is_root: false
 
 Compare current vector to another instance.
 
+
 ### Returns 
 
 

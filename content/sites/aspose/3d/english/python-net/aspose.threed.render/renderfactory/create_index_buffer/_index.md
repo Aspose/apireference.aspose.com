@@ -12,6 +12,7 @@ is_root: false
 
 Create an [IIndexBuffer](/3d/python-net/aspose.threed.render/iindexbuffer) instance to store polygon's face information.
 
+
 ### Returns 
 
 

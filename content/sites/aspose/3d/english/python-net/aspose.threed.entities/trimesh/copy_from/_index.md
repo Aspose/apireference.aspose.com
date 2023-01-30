@@ -12,6 +12,7 @@ is_root: false
 
 Copy the [TriMesh](/3d/python-net/aspose.threed.entities/trimesh) from input with new vertex layout
 
+
 ### Returns 
 
 

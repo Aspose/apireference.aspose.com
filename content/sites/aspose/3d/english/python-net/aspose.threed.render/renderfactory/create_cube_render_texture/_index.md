@@ -12,6 +12,7 @@ is_root: false
 
 Create a render target contains 1 cube texture
 
+
 ### Returns 
 
 

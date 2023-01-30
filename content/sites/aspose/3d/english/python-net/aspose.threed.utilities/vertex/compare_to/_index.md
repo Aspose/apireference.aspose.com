@@ -12,6 +12,7 @@ is_root: false
 
 Compare the vertex with another vertex instance
 
+
 ### Returns 
 
 

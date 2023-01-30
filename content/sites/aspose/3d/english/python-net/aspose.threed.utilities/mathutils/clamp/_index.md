@@ -12,6 +12,7 @@ is_root: false
 
 Clamp value to range [min, max]
 
+
 ### Returns 
 
 
@@ -29,6 +30,22 @@ def clamp(self, val, min, max):
 | val | float | Value to clamp. |
 | min | float | Minimum value. |
 | max | float | Maximum value. |
+
+### Example 
+
+
+```python
+from aspose.threed.utilities import MathUtils
+
+val = 195
+
+# Clamp value to [0, 100]
+clampedValue = MathUtils.clamp(val, 0, 100)
+
+# This will output 100
+print(f"Value = {val}")
+
+```
 
 
 

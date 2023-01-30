@@ -12,6 +12,7 @@ is_root: false
 
 Convert the vertices data to byte array
 
+
 ### Returns 
 
 

@@ -12,6 +12,7 @@ is_root: false
 
 Create a rotation matrix from Euler angle
 
+
 ### Returns 
 
 
@@ -28,10 +29,25 @@ def rotate_from_euler(self, eul):
 | :- | :- | :- |
 | eul | [Vector3](/3d/python-net/aspose.threed.utilities/vector3) | Rotation in radian |
 
+### Example 
+
+
+The following code shows how to create a matrix for rotate operation.
+
+```python
+from aspose.threed.utilities import Matrix4, Vector3
+
+t = Matrix4.rotate_from_euler(Vector3(0, math.pi, 0))
+pos = Vector3(1, 1, 10)
+print(f"Transformed: {t * pos}")
+
+```
+
 
 ## rotate_from_euler(rx, ry, rz) {#float-float-float}
 
 Create a rotation matrix from Euler angle
+
 
 ### Returns 
 
@@ -50,6 +66,20 @@ def rotate_from_euler(self, rx, ry, rz):
 | rx | float | Rotation in x axis in radian |
 | ry | float | Rotation in y axis in radian |
 | rz | float | Rotation in z axis in radian |
+
+### Example 
+
+
+The following code shows how to create a matrix for rotate operation.
+
+```python
+from aspose.threed.utilities import Matrix4, Vector3
+
+t = Matrix4.rotate_from_euler(0, math.pi, 0)
+pos = Vector3(1, 1, 10)
+print(f"Transformed: {t * pos}")
+
+```
 
 
 

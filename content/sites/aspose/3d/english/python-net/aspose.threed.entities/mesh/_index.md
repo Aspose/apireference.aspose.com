@@ -79,6 +79,32 @@ The Mesh type exposes the following members:
 | [to_mesh()](/3d/python-net/aspose.threed.entities/mesh/to_mesh/#) | Gets the Mesh instance from current entity. |
 
 
+
+### Example 
+
+
+To add a polygon in mesh:
+
+```python
+from aspose.threed.entities import Mesh
+
+mesh = Mesh()
+indices = [0, 1, 2]
+mesh.create_polygon(indices)
+
+```
+
+Travel through all polygons in mesh:
+
+```python
+from aspose.threed.entities import Mesh
+
+mesh = Mesh()
+for polygon in mesh:
+    pass
+
+
+```
 ### See Also
 
 * module [aspose.threed.entities](../)

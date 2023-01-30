@@ -12,6 +12,7 @@ is_root: false
 
 Construct a [Line](/3d/python-net/aspose.threed.entities/line) instance from a set of points.
 
+
 ### Returns 
 
 

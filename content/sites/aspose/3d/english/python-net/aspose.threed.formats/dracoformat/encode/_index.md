@@ -12,6 +12,7 @@ is_root: false
 
 Encode the entity to Draco raw data
 
+
 ### Returns 
 
 

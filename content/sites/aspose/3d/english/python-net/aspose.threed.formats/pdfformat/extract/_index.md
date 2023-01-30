@@ -12,6 +12,7 @@ is_root: false
 
 Extract raw 3D content from PDF file.
 
+
 ### Returns 
 
 
@@ -33,6 +34,7 @@ def extract(self, file_name, password):
 ## extract(stream, password) {#io.RawIOBase-bytes}
 
 Extract raw 3D content from PDF stream.
+
 
 ### Returns 
 

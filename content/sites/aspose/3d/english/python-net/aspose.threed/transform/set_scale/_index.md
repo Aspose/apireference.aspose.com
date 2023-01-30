@@ -12,6 +12,7 @@ is_root: false
 
 Sets the scale of current transform.
 
+
 ### Returns 
 
 
@@ -29,6 +30,17 @@ def set_scale(self, sx, sy, sz):
 | sx | float |  |
 | sy | float |  |
 | sz | float |  |
+
+### Example 
+
+
+```python
+from aspose.threed import Node
+
+node = Node()
+node.transform.set_scale(2, 2, 2)
+
+```
 
 
 

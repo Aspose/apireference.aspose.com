@@ -12,6 +12,7 @@ is_root: false
 
 Gets the vertex count of the specified polygon.
 
+
 ### Returns 
 
 

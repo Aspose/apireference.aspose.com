@@ -13,10 +13,11 @@ is_root: false
 Gets the preferred file format from the file extension name
 The extension name should starts with a dot('.').
 
+
 ### Returns 
 
 
-
+Instance of [FileFormat](/3d/python-net/aspose.threed/fileformat), otherwise null returned.
 
 
 ```python
@@ -28,6 +29,26 @@ def get_format_by_extension(self, extension_name):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | extension_name | str |  |
+
+### Example 
+
+
+The following code shows how to save scene to memory using specified format
+
+```python
+from aspose.threed import FileFormat, Scene
+from aspose.threed.entities import Box
+from io import BytesIO
+
+scene = Scene(Box())
+outputFormat = ".glb"
+format = FileFormat.get_format_by_extension(outputFormat)
+with BytesIO() as ms:
+    scene.save(ms, format)
+
+
+
+```
 
 
 

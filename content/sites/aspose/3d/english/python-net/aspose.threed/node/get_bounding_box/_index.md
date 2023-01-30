@@ -12,6 +12,7 @@ is_root: false
 
 Calculate the bounding box of the node
 
+
 ### Returns 
 
 

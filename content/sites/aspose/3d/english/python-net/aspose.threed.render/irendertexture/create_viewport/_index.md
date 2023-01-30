@@ -12,6 +12,7 @@ is_root: false
 
 Create a viewport in specified camera perspective.
 
+
 ### Returns 
 
 
@@ -32,6 +33,7 @@ def create_viewport(self, camera):
 ## create_viewport(camera, rect) {#aspose.threed.entities.Camera-aspose.threed.utilities.RelativeRectangle}
 
 Create a viewport with position/size in specified camera perspective.
+
 
 ### Returns 
 
@@ -54,6 +56,7 @@ def create_viewport(self, camera, rect):
 ## create_viewport(camera, background_color, rect) {#aspose.threed.entities.Camera-aspose.pydrawing.Color-aspose.threed.utilities.RelativeRectangle}
 
 Create a viewport with specified background color and position/size in specified camera perspective.
+
 
 ### Returns 
 

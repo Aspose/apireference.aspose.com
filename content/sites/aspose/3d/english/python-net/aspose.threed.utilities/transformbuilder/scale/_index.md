@@ -24,6 +24,18 @@ def scale(self, s):
 | :- | :- | :- |
 | s | float |  |
 
+### Example 
+
+
+```python
+from aspose.threed.utilities import TransformBuilder
+
+tb = TransformBuilder()
+tb.scale(10)
+print(f"Transform Matrix: {tb.matrix}")
+
+```
+
 
 ## scale(s) {#Vector3}
 
@@ -40,6 +52,18 @@ def scale(self, s):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | s | [Vector3](/3d/python-net/aspose.threed.utilities/vector3) |  |
+
+### Example 
+
+
+```python
+from aspose.threed.utilities import TransformBuilder, Vector3
+
+tb = TransformBuilder()
+tb.scale(Vector3(10, 10, 10))
+print(f"Transform Matrix: {tb.matrix}")
+
+```
 
 
 ## scale(x, y, z) {#float-float-float}
@@ -59,6 +83,18 @@ def scale(self, x, y, z):
 | x | float |  |
 | y | float |  |
 | z | float |  |
+
+### Example 
+
+
+```python
+from aspose.threed.utilities import TransformBuilder
+
+tb = TransformBuilder()
+tb.scale(10, 10, 10)
+print(f"Transform Matrix: {tb.matrix}")
+
+```
 
 
 

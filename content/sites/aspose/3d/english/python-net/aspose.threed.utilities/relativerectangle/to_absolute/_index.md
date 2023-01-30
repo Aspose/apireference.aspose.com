@@ -12,6 +12,7 @@ is_root: false
 
 Convert the relative rectangle to absolute rectangle
 
+
 ### Returns 
 
 
@@ -32,6 +33,7 @@ def to_absolute(self, rect):
 ## to_absolute(rect) {#aspose.pydrawing.Rectangle}
 
 Convert the relative rectangle to absolute rectangle
+
 
 ### Returns 
 

@@ -12,6 +12,7 @@ is_root: false
 
 Creates quaternion from given Euler angle
 
+
 ### Returns 
 
 
@@ -32,6 +33,7 @@ def from_euler_angle(self, euler_angle):
 ## from_euler_angle(pitch, yaw, roll) {#float-float-float}
 
 Creates quaternion from given Euler angle
+
 
 ### Returns 
 

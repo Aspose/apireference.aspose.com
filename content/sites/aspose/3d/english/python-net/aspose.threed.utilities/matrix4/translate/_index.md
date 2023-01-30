@@ -12,6 +12,7 @@ is_root: false
 
 Creates a matrix that translates along the x-axis, the y-axis and the z-axis
 
+
 ### Returns 
 
 
@@ -28,10 +29,25 @@ def translate(self, t):
 | :- | :- | :- |
 | t | [Vector3](/3d/python-net/aspose.threed.utilities/vector3) | Translate offset |
 
+### Example 
+
+
+The following code shows how to create a matrix for translate operation.
+
+```python
+from aspose.threed.utilities import Matrix4, Vector3
+
+t = Matrix4.translate(Vector3(10, 0, 0))
+pos = Vector3(1, 1, 10)
+print(f"Transformed: {t * pos}")
+
+```
+
 
 ## translate(tx, ty, tz) {#float-float-float}
 
 Creates a matrix that translates along the x-axis, the y-axis and the z-axis
+
 
 ### Returns 
 
@@ -50,6 +66,20 @@ def translate(self, tx, ty, tz):
 | tx | float | X-coordinate offset |
 | ty | float | Y-coordinate offset |
 | tz | float | Z-coordinate offset |
+
+### Example 
+
+
+The following code shows how to create a matrix for translate operation.
+
+```python
+from aspose.threed.utilities import Matrix4, Vector3
+
+t = Matrix4.translate(10, 0, 0)
+pos = Vector3(1, 1, 10)
+print(f"Transformed: {t * pos}")
+
+```
 
 
 

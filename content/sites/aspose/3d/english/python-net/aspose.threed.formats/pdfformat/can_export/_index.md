@@ -13,6 +13,23 @@ is_root: false
 
 Gets whether Aspose.3D supports export scene to current file format.
 
+### Example 
+
+
+The following code shows how to check if exporting to specified format is supported.
+
+```python
+from aspose.threed import FileFormat
+
+outputFormat = ".glb"
+format = FileFormat.get_format_by_extension(outputFormat)
+if format.can_export:
+    print(f"Can export to {outputFormat}")
+
+
+
+```
+
 ### See Also
 * module [aspose.threed.formats](../../)
 * class [PdfFormat](/3d/python-net/aspose.threed.formats/pdfformat)

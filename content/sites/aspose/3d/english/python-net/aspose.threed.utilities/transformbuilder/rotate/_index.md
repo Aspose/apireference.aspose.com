@@ -24,6 +24,18 @@ def rotate(self, q):
 | :- | :- | :- |
 | q | [Quaternion](/3d/python-net/aspose.threed.utilities/quaternion) |  |
 
+### Example 
+
+
+```python
+from aspose.threed.utilities import Quaternion, TransformBuilder
+
+tb = TransformBuilder()
+tb.rotate(Quaternion.from_euler_angle(0, math.pi, 0))
+print(f"Transform Matrix: {tb.matrix}")
+
+```
+
 
 
 ### See Also

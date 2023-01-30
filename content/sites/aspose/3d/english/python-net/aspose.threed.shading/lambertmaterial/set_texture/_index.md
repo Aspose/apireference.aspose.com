@@ -25,6 +25,19 @@ def set_texture(self, slot_name, texture):
 | slot_name | str | Slot name. |
 | texture | [TextureBase](/3d/python-net/aspose.threed.shading/texturebase) | Texture. |
 
+### Example 
+
+
+```python
+from aspose.threed.shading import LambertMaterial, Material, Texture
+
+mat = LambertMaterial()
+tex = Texture()
+tex.file_name = "diffuse.png"
+mat.set_texture(Material.MAP_NORMAL, tex)
+
+```
+
 
 
 ### See Also

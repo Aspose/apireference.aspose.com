@@ -12,6 +12,7 @@ is_root: false
 
 Convert a Bitmap to [TextureData](/3d/python-net/aspose.threed.render/texturedata)
 
+
 ### Returns 
 
 

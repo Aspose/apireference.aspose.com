@@ -15,6 +15,18 @@ Gets or sets the geometric Euler rotation(measured in degree).
 Geometric transformation only affects the entities attached and leave the child nodes unaffected.
 It will be merged as local transformation when you export the geometric transformation to file types that does not support it.
 
+### Example 
+
+
+```python
+from aspose.threed import Node
+from aspose.threed.utilities import Vector3
+
+node = Node()
+node.transform.geometric_rotation = Vector3(90, 0, 0)
+
+```
+
 ### See Also
 * module [aspose.threed](../../)
 * class [Transform](/3d/python-net/aspose.threed/transform)

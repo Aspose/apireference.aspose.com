@@ -12,6 +12,7 @@ is_root: false
 
 Normalize the quaternion
 
+
 ### Returns 
 
 

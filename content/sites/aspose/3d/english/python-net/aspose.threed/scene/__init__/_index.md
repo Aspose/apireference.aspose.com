@@ -38,6 +38,12 @@ def __init__(self, entity):
 | :- | :- | :- |
 | entity | [Entity](/3d/python-net/aspose.threed/entity) | The initial entity that attached to the scene |
 
+### Example 
+
+
+The following code shows how to create a [Scene](/3d/python-net/aspose.threed/scene) directly from an [Entity](/3d/python-net/aspose.threed/entity):
+`var scene = new Scene(new Box());`
+
 
 ## Scene(file_name) {#str}
 

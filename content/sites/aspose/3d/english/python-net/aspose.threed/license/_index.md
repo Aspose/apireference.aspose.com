@@ -29,6 +29,12 @@ The License type exposes the following members:
 | [set_license(stream)](/3d/python-net/aspose.threed/license/set_license/#io.RawIOBase) | Licenses the component. |
 
 
+
+### Example 
+
+
+In this example, an attempt will be made to find a license file named MyLicense.lic
+in the folder that contains
 ### See Also
 
 * module [aspose.threed](../)

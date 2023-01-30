@@ -13,6 +13,18 @@ is_root: false
 
 Gets or sets the rotation represented in quaternion.
 
+### Example 
+
+
+```python
+from aspose.threed import Node
+from aspose.threed.utilities import Quaternion
+
+node = Node()
+node.transform.rotation = Quaternion(1, 0, 0, 0)
+
+```
+
 ### See Also
 * module [aspose.threed](../../)
 * class [Transform](/3d/python-net/aspose.threed/transform)

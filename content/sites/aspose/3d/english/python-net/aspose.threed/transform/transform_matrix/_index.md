@@ -13,6 +13,18 @@ is_root: false
 
 Gets or sets the transform matrix.
 
+### Example 
+
+
+```python
+from aspose.threed import Node
+from aspose.threed.utilities import Matrix4
+
+node = Node()
+node.transform.transform_matrix = Matrix4.identity
+
+```
+
 ### See Also
 * module [aspose.threed](../../)
 * class [Transform](/3d/python-net/aspose.threed/transform)

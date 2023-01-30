@@ -30,6 +30,11 @@ The Metered type exposes the following members:
 | [get_consumption_credit()](/3d/python-net/aspose.threed/metered/get_consumption_credit/#) | Gets consumption credit |
 
 
+
+### Example 
+
+
+In this example, an attempt will be made to set metered public and private key
 ### See Also
 
 * module [aspose.threed](../)

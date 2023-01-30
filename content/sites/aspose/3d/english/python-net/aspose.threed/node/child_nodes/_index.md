@@ -13,6 +13,21 @@ is_root: false
 
 Gets the children nodes.
 
+### Example 
+
+
+The following code shows how to enumerate child node of root node
+
+```python
+from aspose.threed import Scene
+
+scene = Scene.from_file("test.fbx")
+for child in scene.root_node.child_nodes:
+    pass
+
+
+```
+
 ### See Also
 * module [aspose.threed](../../)
 * class [Node](/3d/python-net/aspose.threed/node)

@@ -12,6 +12,7 @@ is_root: false
 
 Normalizes this instance.
 
+
 ### Returns 
 
 

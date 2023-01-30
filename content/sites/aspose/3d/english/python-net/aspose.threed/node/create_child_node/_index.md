@@ -12,6 +12,7 @@ is_root: false
 
 Creates a child node
 
+
 ### Returns 
 
 
@@ -25,10 +26,27 @@ def create_child_node(self):
 
 
 
+### Example 
+
+
+The following code shows how to create a new child node under root node
+
+```python
+from aspose.threed import Scene
+from aspose.threed.entities import Box
+
+scene = Scene()
+node = scene.root_node.create_child_node()
+node.entity = Box()
+scene.save("output.fbx")
+
+```
+
 
 ## create_child_node(node_name) {#str}
 
 Create a new child node with given node name
+
 
 ### Returns 
 
@@ -46,10 +64,27 @@ def create_child_node(self, node_name):
 | :- | :- | :- |
 | node_name | str | The new child node's name |
 
+### Example 
+
+
+The following code shows how to create a new child node under root node
+
+```python
+from aspose.threed import Scene
+from aspose.threed.entities import Box
+
+scene = Scene()
+node = scene.root_node.create_child_node("new node")
+node.entity = Box()
+scene.save("output.fbx")
+
+```
+
 
 ## create_child_node(entity) {#Entity}
 
 Create a new child node with given entity attached
+
 
 ### Returns 
 
@@ -67,10 +102,26 @@ def create_child_node(self, entity):
 | :- | :- | :- |
 | entity | [Entity](/3d/python-net/aspose.threed/entity) | Default entity attached to the node |
 
+### Example 
+
+
+The following code shows how to create a new child node under root node
+
+```python
+from aspose.threed import Scene
+from aspose.threed.entities import Box
+
+scene = Scene()
+node = scene.root_node.create_child_node(Box())
+scene.save("output.fbx")
+
+```
+
 
 ## create_child_node(node_name, entity) {#str-Entity}
 
 Create a new child node with given node name
+
 
 ### Returns 
 
@@ -93,6 +144,7 @@ def create_child_node(self, node_name, entity):
 ## create_child_node(node_name, entity, material) {#str-Entity-aspose.threed.shading.Material}
 
 Create a new child node with given node name, and attach specified entity and a material
+
 
 ### Returns 
 

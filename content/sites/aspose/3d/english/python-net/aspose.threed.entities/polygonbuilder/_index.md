@@ -30,6 +30,35 @@ The PolygonBuilder type exposes the following members:
 | [end()](/3d/python-net/aspose.threed.entities/polygonbuilder/end/#) | Finishes the polygon creation |
 
 
+
+### Example 
+
+
+```python
+from aspose.threed.entities import Mesh, PolygonBuilder
+
+mesh = Mesh()
+builder = PolygonBuilder(mesh)
+builder.begin()
+builder.add_vertex(0)
+builder.add_vertex(1)
+builder.add_vertex(2)
+builder.end()
+
+```
+
+Equals to :
+
+```python
+from aspose.threed.entities import Mesh
+
+mesh = Mesh()
+indices = [0, 1, 2]
+mesh.create_polygon(indices)
+
+```
+
+If all indices are ready to use, [Mesh.create_polygon(indices, offset, length)](/3d/python-net/aspose.threed.entities/mesh/create_polygon) is preferred, otherwise [PolygonBuilder](/3d/python-net/aspose.threed.entities/polygonbuilder) would be a better choice.
 ### See Also
 
 * module [aspose.threed.entities](../)

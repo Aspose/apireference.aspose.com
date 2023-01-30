@@ -12,6 +12,7 @@ is_root: false
 
 Gets the weight for control point specified by index
 
+
 ### Returns 
 
 

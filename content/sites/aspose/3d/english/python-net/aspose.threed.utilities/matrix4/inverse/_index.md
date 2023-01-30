@@ -12,6 +12,7 @@ is_root: false
 
 Inverses this instance.
 
+
 ### Returns 
 
 
@@ -24,6 +25,20 @@ def inverse(self):
 ```
 
 
+
+### Example 
+
+
+The following code shows how to inverse a matrix
+
+```python
+from aspose.threed.utilities import Matrix4
+
+t = Matrix4.translate(0, 10, 9)
+mat = t.inverse()
+print(f"Inversed Matrix: {mat}")
+
+```
 
 
 

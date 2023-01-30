@@ -25,6 +25,18 @@ def rotate_degree(self, angle, axis):
 | angle | float | The angle to rotate in degree |
 | axis | [Vector3](/3d/python-net/aspose.threed.utilities/vector3) | The axis to rotate |
 
+### Example 
+
+
+```python
+from aspose.threed.utilities import TransformBuilder, Vector3
+
+tb = TransformBuilder()
+tb.rotate_degree(90, Vector3.Y_AXIS)
+print(f"Transform Matrix: {tb.matrix}")
+
+```
+
 
 ## rotate_degree(rot, order) {#Vector3-RotationOrder}
 

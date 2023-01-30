@@ -12,6 +12,7 @@ is_root: false
 
 Create an [IVertexBuffer](/3d/python-net/aspose.threed.render/ivertexbuffer) instance to store polygon's vertex information.
 
+
 ### Returns 
 
 

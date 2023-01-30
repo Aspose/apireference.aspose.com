@@ -28,6 +28,17 @@ def set_geometric_scaling(self, sx, sy, sz):
 | sy | float |  |
 | sz | float |  |
 
+### Example 
+
+
+```python
+from aspose.threed import Node
+
+node = Node()
+node.transform.set_geometric_scaling(2, 2, 2)
+
+```
+
 
 
 ### See Also

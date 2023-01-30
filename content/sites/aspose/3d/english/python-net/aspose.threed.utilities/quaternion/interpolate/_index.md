@@ -12,6 +12,7 @@ is_root: false
 
 Populates this quaternion with the interpolated value between the given quaternion arguments for a t between from and to.
 
+
 ### Returns 
 
 

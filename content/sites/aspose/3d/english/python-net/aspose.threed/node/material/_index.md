@@ -13,6 +13,20 @@ is_root: false
 
 Gets or sets the first material associated with this node, if sets, will clear other materials
 
+### Example 
+
+
+```python
+from aspose.threed import Scene
+from aspose.threed.entities import Box
+from aspose.threed.shading import LambertMaterial
+
+scene = Scene()
+node = scene.root_node.create_child_node(Box())
+node.material = LambertMaterial()
+
+```
+
 ### See Also
 * module [aspose.threed](../../)
 * class [Node](/3d/python-net/aspose.threed/node)
