@@ -179,6 +179,7 @@ Create, edit and convert 3D documents in your own applications. Includes 2 indiv
 
 {{< blocks/product-item title=".NET" href="/3d/net/" class="btn-net" >}}
 {{< blocks/product-item title="JAVA" href="/3d/java/" class="btn-java" >}}
+{{< blocks/product-item title="Python" href="/3d/python-net/" class="btn-python" >}}
 
 {{< /blocks/product-card >}}
 
