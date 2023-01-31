@@ -12,6 +12,7 @@ is_root: false
 
 Returns a conjugate quaternion of current quaternion
 
+
 ### Returns 
 
 

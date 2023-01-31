@@ -11,6 +11,8 @@ is_root: false
 ## MICROSOFT_3MF property
 
 
+3D Manufacturing Format
+
 ### See Also
 * module [aspose.threed](../../)
 * class [FileFormatType](/3d/python-net/aspose.threed/fileformattype)

@@ -11,7 +11,7 @@ url: /java/com.aspose.threed/vector4/
 java.lang.Object
 
 **All Implemented Interfaces:**
-java.lang.Comparable, com.aspose.threed.Struct, java.io.Serializable
+java.lang.Comparable, com.aspose.csporter.helpers.Struct, java.io.Serializable
 ```
 public final class Vector4 implements Comparable<Vector4>, Struct<Vector4>, Serializable
 ```

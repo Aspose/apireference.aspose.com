@@ -11,6 +11,8 @@ is_root: false
 ## WAVEFRONT_OBJ property
 
 
+Wavefront's Obj file format
+
 ### See Also
 * module [aspose.threed.formats](../../)
 * class [RvmFormat](/3d/python-net/aspose.threed.formats/rvmformat)

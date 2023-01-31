@@ -12,6 +12,7 @@ is_root: false
 
 Gets a vertex element with specified type
 
+
 ### Returns 
 
 

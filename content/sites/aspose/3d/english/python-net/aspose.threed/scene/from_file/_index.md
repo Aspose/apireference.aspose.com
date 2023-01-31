@@ -24,6 +24,12 @@ def from_file(self, file_name):
 | :- | :- | :- |
 | file_name | str | File name. |
 
+### Example 
+
+
+The following code shows how to create a scene from a file
+`Scene scene = Scene.FromFile("input.fbx");`
+
 
 
 ### See Also

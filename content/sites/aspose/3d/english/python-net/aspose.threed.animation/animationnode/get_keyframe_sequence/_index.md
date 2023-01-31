@@ -12,6 +12,7 @@ is_root: false
 
 Gets the keyframe sequence on given property.
 
+
 ### Returns 
 
 
@@ -34,6 +35,7 @@ def get_keyframe_sequence(self, target, prop_name, create):
 ## get_keyframe_sequence(target, prop_name, channel_name, create) {#A3DObject-str-str-bool}
 
 Gets the keyframe sequence on given property and channel.
+
 
 ### Returns 
 

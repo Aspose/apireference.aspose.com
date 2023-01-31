@@ -6,7 +6,7 @@ type: docs
 weight: 100
 url: /net/aspose.threed.utilities/transformbuilder/rotatedegree/
 ---
-## TransformBuilder.RotateDegree method
+## TransformBuilder.RotateDegree method (1 of 2)
 
 Chain a rotation transform in degree
 
@@ -22,6 +22,29 @@ public TransformBuilder RotateDegree(double angle, Vector3 axis)
 ### See Also
 
 * struct [Vector3](../../vector3)
+* class [TransformBuilder](../../transformbuilder)
+* namespace [Aspose.ThreeD.Utilities](../../transformbuilder)
+* assembly [Aspose.3D](../../../)
+
+---
+
+## TransformBuilder.RotateDegree method (2 of 2)
+
+Append rotation with specified order
+
+```csharp
+public void RotateDegree(Vector3 rot, RotationOrder order)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| rot | Vector3 | Rotation in degrees |
+| order | RotationOrder |  |
+
+### See Also
+
+* struct [Vector3](../../vector3)
+* enum [RotationOrder](../../rotationorder)
 * class [TransformBuilder](../../transformbuilder)
 * namespace [Aspose.ThreeD.Utilities](../../transformbuilder)
 * assembly [Aspose.3D](../../../)

@@ -19,7 +19,7 @@ The EntityRenderer type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [EntityRenderer(key, features)](/3d/python-net/aspose.threed.render/entityrenderer/__init__/#str-EntityRendererFeatures) |  |
+| [EntityRenderer(key, features)](/3d/python-net/aspose.threed.render/entityrenderer/__init__/#str-EntityRendererFeatures) | Constructor of [EntityRenderer](/3d/python-net/aspose.threed.render/entityrenderer) |
 | [EntityRenderer(key)](/3d/python-net/aspose.threed.render/entityrenderer/__init__/#str) | Constructor of [EntityRenderer](/3d/python-net/aspose.threed.render/entityrenderer) |
 
 

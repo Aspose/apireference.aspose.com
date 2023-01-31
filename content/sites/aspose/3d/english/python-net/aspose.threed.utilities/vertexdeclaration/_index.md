@@ -19,7 +19,7 @@ The VertexDeclaration type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [VertexDeclaration()](/3d/python-net/aspose.threed.utilities/vertexdeclaration/__init__/#) |  |
+| [VertexDeclaration()](/3d/python-net/aspose.threed.utilities/vertexdeclaration/__init__/#) | Constructs a new instance of VertexDeclaration |
 
 
 ### Properties
@@ -42,7 +42,7 @@ The VertexDeclaration type exposes the following members:
 | [clear()](/3d/python-net/aspose.threed.utilities/vertexdeclaration/clear/#) | Clear all fields. |
 | [add_field(data_type, semantic, index, alias)](/3d/python-net/aspose.threed.utilities/vertexdeclaration/add_field/#VertexFieldDataType-VertexFieldSemantic-int-str) | Add a new vertex field |
 | [from_geometry(geometry, use_float)](/3d/python-net/aspose.threed.utilities/vertexdeclaration/from_geometry/#aspose.threed.entities.Geometry-bool) | Create a [VertexDeclaration](/3d/python-net/aspose.threed.utilities/vertexdeclaration) based on a [Geometry](/3d/python-net/aspose.threed.entities/geometry)'s layout. |
-| [compare_to(other)](/3d/python-net/aspose.threed.utilities/vertexdeclaration/compare_to/#VertexDeclaration) |  |
+| [compare_to(other)](/3d/python-net/aspose.threed.utilities/vertexdeclaration/compare_to/#VertexDeclaration) | Compares this instance to a specified object and returns an indication of their relative values. |
 
 
 ### See Also

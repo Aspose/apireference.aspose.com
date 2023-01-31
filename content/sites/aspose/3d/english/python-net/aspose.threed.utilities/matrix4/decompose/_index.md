@@ -8,7 +8,9 @@ url: /python-net/aspose.threed.utilities/matrix4/decompose/
 is_root: false
 ---
 
-## decompose(translation, scaling, rotation) {#Vector3&-Vector3&-Quaternion&}
+## decompose(translation, scaling, rotation) {#any-any-any}
+
+
 
 
 
@@ -20,9 +22,9 @@ def decompose(self, translation, scaling, rotation):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| translation | Vector3& |  |
-| scaling | Vector3& |  |
-| rotation | Quaternion& |  |
+| translation | any |  |
+| scaling | any |  |
+| rotation | any |  |
 
 
 

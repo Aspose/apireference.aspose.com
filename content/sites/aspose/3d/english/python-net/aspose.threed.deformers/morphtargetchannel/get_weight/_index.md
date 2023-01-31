@@ -12,6 +12,7 @@ is_root: false
 
 Gets the weight for the specified target, if the target is not belongs to this channel, default value 0 is returned.
 
+
 ### Returns 
 
 

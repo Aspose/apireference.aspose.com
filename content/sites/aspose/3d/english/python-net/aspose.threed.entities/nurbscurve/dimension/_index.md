@@ -12,6 +12,7 @@ is_root: false
 
 
 Gets or sets the curve's dimension.
+
 ### Remarks 
 
 

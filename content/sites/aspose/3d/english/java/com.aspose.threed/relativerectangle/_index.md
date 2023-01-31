@@ -14,7 +14,7 @@ url: /java/com.aspose.threed/relativerectangle/
 java.lang.Object
 
 **All Implemented Interfaces:**
-com.aspose.threed.Struct, java.io.Serializable
+com.aspose.csporter.helpers.Struct, java.io.Serializable
 ```
 public final class RelativeRectangle implements Struct<RelativeRectangle>, Serializable
 ```

@@ -12,6 +12,7 @@ is_root: false
 
 Gets a named [AnimationClip](/3d/python-net/aspose.threed.animation/animationclip)
 
+
 ### Returns 
 
 

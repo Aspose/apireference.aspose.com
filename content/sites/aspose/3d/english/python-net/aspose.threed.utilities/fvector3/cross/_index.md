@@ -12,6 +12,7 @@ is_root: false
 
 Cross product of two vectors
 
+
 ### Returns 
 
 

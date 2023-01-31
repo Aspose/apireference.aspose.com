@@ -3,7 +3,7 @@ title: Version
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 500
+weight: 520
 url: /net/aspose.threed/fileformat/version/
 ---
 ## FileFormat.Version property

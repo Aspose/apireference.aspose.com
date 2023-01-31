@@ -11,7 +11,7 @@ url: /java/com.aspose.threed/matrix4/
 java.lang.Object
 
 **All Implemented Interfaces:**
-com.aspose.threed.Struct, java.io.Serializable
+com.aspose.csporter.helpers.Struct, java.io.Serializable
 ```
 public final class Matrix4 implements Struct<Matrix4>, Serializable
 ```

@@ -11,49 +11,6 @@ url: /net/aspose.threed.utilities/vector3/vector3/
 Initializes a new instance of the [`Vector3`](../../vector3) struct.
 
 ```csharp
-public Vector3(double x, double y, double z)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| x | Double | The x coordinate. |
-| y | Double | The y coordinate. |
-| z | Double | The z coordinate. |
-
-### See Also
-
-* struct [Vector3](../../vector3)
-* namespace [Aspose.ThreeD.Utilities](../../vector3)
-* assembly [Aspose.3D](../../../)
-
----
-
-## Vector3 constructor (2 of 5)
-
-Initializes a new instance of the [`Vector3`](../../vector3) struct.
-
-```csharp
-public Vector3(FVector3 vec)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| vec | FVector3 | The x coordinate. |
-
-### See Also
-
-* struct [FVector3](../../fvector3)
-* struct [Vector3](../../vector3)
-* namespace [Aspose.ThreeD.Utilities](../../vector3)
-* assembly [Aspose.3D](../../../)
-
----
-
-## Vector3 constructor (3 of 5)
-
-Initializes a new instance of the [`Vector3`](../../vector3) struct.
-
-```csharp
 public Vector3(Color color)
 ```
 
@@ -69,7 +26,7 @@ public Vector3(Color color)
 
 ---
 
-## Vector3 constructor (4 of 5)
+## Vector3 constructor (2 of 5)
 
 Initializes a new instance of the [`Vector3`](../../vector3) struct.
 
@@ -89,7 +46,7 @@ public Vector3(double v)
 
 ---
 
-## Vector3 constructor (5 of 5)
+## Vector3 constructor (3 of 5)
 
 Initializes a new instance of the [`Vector3`](../../vector3) struct.
 
@@ -104,6 +61,49 @@ public Vector3(Vector4 vec4)
 ### See Also
 
 * struct [Vector4](../../vector4)
+* struct [Vector3](../../vector3)
+* namespace [Aspose.ThreeD.Utilities](../../vector3)
+* assembly [Aspose.3D](../../../)
+
+---
+
+## Vector3 constructor (4 of 5)
+
+Initializes a new instance of the [`Vector3`](../../vector3) struct.
+
+```csharp
+public Vector3(double x, double y, double z)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| x | Double | The x coordinate. |
+| y | Double | The y coordinate. |
+| z | Double | The z coordinate. |
+
+### See Also
+
+* struct [Vector3](../../vector3)
+* namespace [Aspose.ThreeD.Utilities](../../vector3)
+* assembly [Aspose.3D](../../../)
+
+---
+
+## Vector3 constructor (5 of 5)
+
+Initializes a new instance of the [`Vector3`](../../vector3) struct.
+
+```csharp
+public Vector3(FVector3 vec)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| vec | FVector3 | The x coordinate. |
+
+### See Also
+
+* struct [FVector3](../../fvector3)
 * struct [Vector3](../../vector3)
 * namespace [Aspose.ThreeD.Utilities](../../vector3)
 * assembly [Aspose.3D](../../../)

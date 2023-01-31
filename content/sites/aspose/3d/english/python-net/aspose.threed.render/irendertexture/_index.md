@@ -21,16 +21,16 @@ The IRenderTexture type exposes the following members:
 | :- | :- |
 | [targets](/3d/python-net/aspose.threed.render/irendertexture/targets) | Color output targets. |
 | [depth_texture](/3d/python-net/aspose.threed.render/irendertexture/depth_texture) | Depth buffer texture |
-| [size](/3d/python-net/aspose.threed.render/irendertexture/size) |  |
-| [viewports](/3d/python-net/aspose.threed.render/irendertexture/viewports) |  |
+| [size](/3d/python-net/aspose.threed.render/irendertexture/size) | Gets or sets the size of the render target. |
+| [viewports](/3d/python-net/aspose.threed.render/irendertexture/viewports) | Gets all viewports that associated with this render target. |
 
 
 ### Methods
 | Method | Description |
 | :- | :- |
-| [create_viewport(camera, background_color, rect)](/3d/python-net/aspose.threed.render/irendertexture/create_viewport/#aspose.threed.entities.Camera-aspose.pydrawing.Color-aspose.threed.utilities.RelativeRectangle) |  |
-| [create_viewport(camera, rect)](/3d/python-net/aspose.threed.render/irendertexture/create_viewport/#aspose.threed.entities.Camera-aspose.threed.utilities.RelativeRectangle) |  |
-| [create_viewport(camera)](/3d/python-net/aspose.threed.render/irendertexture/create_viewport/#aspose.threed.entities.Camera) |  |
+| [create_viewport(camera, background_color, rect)](/3d/python-net/aspose.threed.render/irendertexture/create_viewport/#aspose.threed.entities.Camera-aspose.pydrawing.Color-aspose.threed.utilities.RelativeRectangle) | Create a viewport with specified background color and position/size in specified camera perspective. |
+| [create_viewport(camera, rect)](/3d/python-net/aspose.threed.render/irendertexture/create_viewport/#aspose.threed.entities.Camera-aspose.threed.utilities.RelativeRectangle) | Create a viewport with position/size in specified camera perspective. |
+| [create_viewport(camera)](/3d/python-net/aspose.threed.render/irendertexture/create_viewport/#aspose.threed.entities.Camera) | Create a viewport in specified camera perspective. |
 
 
 ### See Also

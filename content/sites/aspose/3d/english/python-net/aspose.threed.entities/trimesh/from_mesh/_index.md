@@ -12,6 +12,7 @@ is_root: false
 
 Create a TriMesh from given mesh object with given vertex layout.
 
+
 ### Returns 
 
 
@@ -33,6 +34,7 @@ def from_mesh(self, declaration, mesh):
 ## from_mesh(mesh, use_float) {#Mesh-bool}
 
 Create a TriMesh from given mesh object, the vertex declaration are based on the input mesh's structure.
+
 
 ### Returns 
 

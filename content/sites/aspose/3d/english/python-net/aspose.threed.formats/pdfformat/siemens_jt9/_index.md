@@ -11,6 +11,8 @@ is_root: false
 ## SIEMENS_JT9 property
 
 
+Siemens JT File Version 9
+
 ### See Also
 * module [aspose.threed.formats](../../)
 * class [PdfFormat](/3d/python-net/aspose.threed.formats/pdfformat)

@@ -37,7 +37,7 @@ The MorphTargetChannel type exposes the following members:
 | [weights](/3d/python-net/aspose.threed.deformers/morphtargetchannel/weights) | Gets the full weight values of target geometries. |
 | [channel_weight](/3d/python-net/aspose.threed.deformers/morphtargetchannel/channel_weight) | Gets or sets the deformer weight of this channel. <br/>The weight is between 0.0 and 1.0 |
 | [targets](/3d/python-net/aspose.threed.deformers/morphtargetchannel/targets) | Gets all targets associated with the channel. |
-| [DEFAULT_WEIGHT](/3d/python-net/aspose.threed.deformers/morphtargetchannel/DEFAULT_WEIGHT) |  |
+| [DEFAULT_WEIGHT](/3d/python-net/aspose.threed.deformers/morphtargetchannel/DEFAULT_WEIGHT) | Default weight for morph target. |
 
 
 ### Methods
@@ -50,6 +50,7 @@ The MorphTargetChannel type exposes the following members:
 | [find_property(property_name)](/3d/python-net/aspose.threed.deformers/morphtargetchannel/find_property/#str) | Finds the property.<br/>It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) <br/>or native property(Identified by its name) |
 | [get_weight(target)](/3d/python-net/aspose.threed.deformers/morphtargetchannel/get_weight/#aspose.threed.entities.Shape) | Gets the weight for the specified target, if the target is not belongs to this channel, default value 0 is returned. |
 | [set_weight(target, weight)](/3d/python-net/aspose.threed.deformers/morphtargetchannel/set_weight/#aspose.threed.entities.Shape-float) | Sets the weight for the specified target, default value is 1, range should between 0~1 |
+
 
 
 ### Remarks 

@@ -58,6 +58,24 @@ The Transform type exposes the following members:
 | [set_post_rotation(rx, ry, rz)](/3d/python-net/aspose.threed/transform/set_post_rotation/#float-float-float) | Sets the post-rotation represented in degree |
 
 
+
+### Example 
+
+
+The following code shows how to change the transform of the node:
+
+```python
+from aspose.threed import Scene
+from aspose.threed.entities import Box
+from aspose.threed.utilities import Vector3
+
+scene = Scene()
+boxNode = scene.root_node.create_child_node(Box())
+
+# place the box at (10, 0, 0)
+boxNode.transform.translation = Vector3(10, 0, 0)
+
+```
 ### See Also
 
 * module [aspose.threed](../)

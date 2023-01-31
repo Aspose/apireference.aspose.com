@@ -11,6 +11,8 @@ is_root: false
 ## XYZ property
 
 
+Xyz point cloud file
+
 ### See Also
 * module [aspose.threed](../../)
 * class [FileFormatType](/3d/python-net/aspose.threed/fileformattype)

@@ -12,6 +12,7 @@ is_root: false
 
 Concatenates the two matrices
 
+
 ### Returns 
 
 
@@ -32,6 +33,7 @@ def concatenate(self, m2):
 ## concatenate(m2) {#Matrix4}
 
 Concatenates the two matrices
+
 
 ### Returns 
 

@@ -10,6 +10,8 @@ is_root: false
 
 ## MemoryFileSystem() {#}
 
+Constructs a new instance of MemoryFileSystem
+
 
 
 ```python

@@ -37,6 +37,7 @@ All utility classes are defined in this namespace.
 | --- | --- |
 | [BoundingBoxExtent](./boundingboxextent) | The extent of the bounding box |
 | [ComposeOrder](./composeorder) | The order to compose transform matrix |
+| [RotationOrder](./rotationorder) | The order controls which rx ry rz are applied in the transformation matrix. |
 | [VertexFieldDataType](./vertexfielddatatype) | Vertex field's data type |
 | [VertexFieldSemantic](./vertexfieldsemantic) | The semantic of the vertex field |
 

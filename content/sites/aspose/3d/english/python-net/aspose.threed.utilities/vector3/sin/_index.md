@@ -12,6 +12,7 @@ is_root: false
 
 Calculates sine on each component
 
+
 ### Returns 
 
 

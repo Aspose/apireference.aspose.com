@@ -3,7 +3,7 @@ title: SemanticAttribute
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 2610
+weight: 2620
 url: /net/aspose.threed.utilities/semanticattribute/
 ---
 ## SemanticAttribute class

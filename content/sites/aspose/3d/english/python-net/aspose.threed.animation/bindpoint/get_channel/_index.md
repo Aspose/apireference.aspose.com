@@ -12,6 +12,7 @@ is_root: false
 
 Gets channel by given name
 
+
 ### Returns 
 
 

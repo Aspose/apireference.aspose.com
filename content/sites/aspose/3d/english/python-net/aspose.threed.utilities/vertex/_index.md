@@ -19,15 +19,15 @@ The Vertex type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [compare_to(other)](/3d/python-net/aspose.threed.utilities/vertex/compare_to/#Vertex) |  |
-| [read_vector4(field)](/3d/python-net/aspose.threed.utilities/vertex/read_vector4/#VertexField) |  |
-| [read_f_vector4(field)](/3d/python-net/aspose.threed.utilities/vertex/read_f_vector4/#VertexField) |  |
-| [read_vector3(field)](/3d/python-net/aspose.threed.utilities/vertex/read_vector3/#VertexField) |  |
-| [read_f_vector3(field)](/3d/python-net/aspose.threed.utilities/vertex/read_f_vector3/#VertexField) |  |
-| [read_vector2(field)](/3d/python-net/aspose.threed.utilities/vertex/read_vector2/#VertexField) |  |
-| [read_f_vector2(field)](/3d/python-net/aspose.threed.utilities/vertex/read_f_vector2/#VertexField) |  |
-| [read_double(field)](/3d/python-net/aspose.threed.utilities/vertex/read_double/#VertexField) |  |
-| [read_float(field)](/3d/python-net/aspose.threed.utilities/vertex/read_float/#VertexField) |  |
+| [compare_to(other)](/3d/python-net/aspose.threed.utilities/vertex/compare_to/#Vertex) | Compare the vertex with another vertex instance |
+| [read_vector4(field)](/3d/python-net/aspose.threed.utilities/vertex/read_vector4/#VertexField) | Read the vector4 field |
+| [read_f_vector4(field)](/3d/python-net/aspose.threed.utilities/vertex/read_f_vector4/#VertexField) | Read the vector4 field |
+| [read_vector3(field)](/3d/python-net/aspose.threed.utilities/vertex/read_vector3/#VertexField) | Read the vector3 field |
+| [read_f_vector3(field)](/3d/python-net/aspose.threed.utilities/vertex/read_f_vector3/#VertexField) | Read the vector3 field |
+| [read_vector2(field)](/3d/python-net/aspose.threed.utilities/vertex/read_vector2/#VertexField) | Read the vector2 field |
+| [read_f_vector2(field)](/3d/python-net/aspose.threed.utilities/vertex/read_f_vector2/#VertexField) | Read the vector2 field |
+| [read_double(field)](/3d/python-net/aspose.threed.utilities/vertex/read_double/#VertexField) | Read the double field |
+| [read_float(field)](/3d/python-net/aspose.threed.utilities/vertex/read_float/#VertexField) | Read the float field |
 
 
 ### See Also

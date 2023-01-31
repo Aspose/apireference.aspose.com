@@ -60,21 +60,21 @@ The Node type exposes the following members:
 | :- | :- |
 | [remove_property(property)](/3d/python-net/aspose.threed/node/remove_property/#Property) | Removes a dynamic property. |
 | [remove_property(property)](/3d/python-net/aspose.threed/node/remove_property/#str) | Remove the specified property identified by name |
-| [create_child_node()](/3d/python-net/aspose.threed/node/create_child_node/#) |  |
-| [create_child_node(node_name)](/3d/python-net/aspose.threed/node/create_child_node/#str) |  |
-| [create_child_node(entity)](/3d/python-net/aspose.threed/node/create_child_node/#Entity) |  |
-| [create_child_node(node_name, entity)](/3d/python-net/aspose.threed/node/create_child_node/#str-Entity) |  |
-| [create_child_node(node_name, entity, material)](/3d/python-net/aspose.threed/node/create_child_node/#str-Entity-aspose.threed.shading.Material) |  |
+| [create_child_node()](/3d/python-net/aspose.threed/node/create_child_node/#) | Creates a child node |
+| [create_child_node(node_name)](/3d/python-net/aspose.threed/node/create_child_node/#str) | Create a new child node with given node name |
+| [create_child_node(entity)](/3d/python-net/aspose.threed/node/create_child_node/#Entity) | Create a new child node with given entity attached |
+| [create_child_node(node_name, entity)](/3d/python-net/aspose.threed/node/create_child_node/#str-Entity) | Create a new child node with given node name |
+| [create_child_node(node_name, entity, material)](/3d/python-net/aspose.threed/node/create_child_node/#str-Entity-aspose.threed.shading.Material) | Create a new child node with given node name, and attach specified entity and a material |
 | [get_child(index)](/3d/python-net/aspose.threed/node/get_child/#int) | Gets the child node at specified index. |
 | [get_child(node_name)](/3d/python-net/aspose.threed/node/get_child/#str) | Gets the child node with the specified name |
 | [get_property(property)](/3d/python-net/aspose.threed/node/get_property/#str) | Get the value of specified property |
 | [set_property(property, value)](/3d/python-net/aspose.threed/node/set_property/#str-any) | Sets the value of specified property |
 | [find_property(property_name)](/3d/python-net/aspose.threed/node/find_property/#str) | Finds the property.<br/>It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) <br/>or native property(Identified by its name) |
-| [merge(node)](/3d/python-net/aspose.threed/node/merge/#Node) |  |
+| [merge(node)](/3d/python-net/aspose.threed/node/merge/#Node) | Detach everything under the node and attach them to current node. |
 | [evaluate_global_transform(with_geometric_transform)](/3d/python-net/aspose.threed/node/evaluate_global_transform/#bool) | Evaluate the global transform, include the geometric transform or not. |
 | [get_bounding_box()](/3d/python-net/aspose.threed/node/get_bounding_box/#) | Calculate the bounding box of the node |
 | [add_entity(entity)](/3d/python-net/aspose.threed/node/add_entity/#Entity) | Add an entity to the node. |
-| [add_child_node(node)](/3d/python-net/aspose.threed/node/add_child_node/#Node) |  |
+| [add_child_node(node)](/3d/python-net/aspose.threed/node/add_child_node/#Node) | Add a child node to this node |
 | [select_single_object(path)](/3d/python-net/aspose.threed/node/select_single_object/#str) | Select single object under current node using XPath-like query syntax. |
 | [select_objects(path)](/3d/python-net/aspose.threed/node/select_objects/#str) | Select multiple objects under current node using XPath-like query syntax. |
 

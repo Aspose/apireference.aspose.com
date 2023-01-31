@@ -12,6 +12,7 @@ is_root: false
 
 Create a render target contains 1 targets that renders to the texture
 
+
 ### Returns 
 
 
@@ -34,6 +35,7 @@ def create_render_texture(self, parameters, width, height):
 ## create_render_texture(parameters, targets, width, height) {#RenderParameters-int-int-int}
 
 Create a render target that renders to the texture
+
 
 ### Returns 
 

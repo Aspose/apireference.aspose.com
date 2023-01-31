@@ -10,6 +10,8 @@ is_root: false
 
 ## DummyFileSystem() {#}
 
+Constructs a new instance of DummyFileSystem
+
 
 
 ```python

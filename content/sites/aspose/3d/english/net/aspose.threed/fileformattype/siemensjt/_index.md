@@ -3,7 +3,7 @@ title: SiemensJT
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 160
+weight: 170
 url: /net/aspose.threed/fileformattype/siemensjt/
 ---
 ## FileFormatType.SiemensJT field

@@ -10,6 +10,8 @@ is_root: false
 
 ## Vector3() {#}
 
+Constructs a new instance of Vector3
+
 
 
 ```python
@@ -22,6 +24,8 @@ def __init__(self):
 
 ## Vector3(vec) {#FVector3}
 
+Initializes a new instance of the [Vector3](/3d/python-net/aspose.threed.utilities/vector3) struct.
+
 
 
 ```python
@@ -32,7 +36,7 @@ def __init__(self, vec):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| vec | [FVector3](/3d/python-net/aspose.threed.utilities/fvector3) |  |
+| vec | [FVector3](/3d/python-net/aspose.threed.utilities/fvector3) | The x coordinate. |
 
 
 ## Vector3(color) {#aspose.pydrawing.Color}

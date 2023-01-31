@@ -13,6 +13,18 @@ is_root: false
 
 Gets or sets the emissive color
 
+### Example 
+
+
+```python
+from aspose.threed.shading import LambertMaterial
+from aspose.threed.utilities import Vector3
+
+mat = LambertMaterial()
+mat.emissive_color = Vector3(1, 1, 1)
+
+```
+
 ### See Also
 * module [aspose.threed.shading](../../)
 * class [PhongMaterial](/3d/python-net/aspose.threed.shading/phongmaterial)

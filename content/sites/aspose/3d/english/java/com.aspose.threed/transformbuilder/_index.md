@@ -45,6 +45,8 @@ The com.aspose.threed.TransformBuilder is used to build transform matrix by a ch
 | [translate(double tx, double ty, double tz)](#translate-double-double-double-) | Chain a translation transform |
 | [translate(Vector3 v)](#translate-com.aspose.threed.Vector3-) | Chain a translation transform |
 | [reset()](#reset--) | Reset the transform to identity matrix |
+| [rotateDegree(Vector3 rot, RotationOrder order)](#rotateDegree-com.aspose.threed.Vector3-com.aspose.threed.RotationOrder-) | Append rotation with specified order |
+| [rotateRadian(Vector3 rot, RotationOrder order)](#rotateRadian-com.aspose.threed.Vector3-com.aspose.threed.RotationOrder-) | Append rotation with specified order |
 ### TransformBuilder(Matrix4 initial, ComposeOrder order) {#TransformBuilder-com.aspose.threed.Matrix4-com.aspose.threed.ComposeOrder-}
 ```
 public TransformBuilder(Matrix4 initial, ComposeOrder order)
@@ -368,4 +370,32 @@ public void reset()
 
 
 Reset the transform to identity matrix
+
+### rotateDegree(Vector3 rot, RotationOrder order) {#rotateDegree-com.aspose.threed.Vector3-com.aspose.threed.RotationOrder-}
+```
+public void rotateDegree(Vector3 rot, RotationOrder order)
+```
+
+
+Append rotation with specified order
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| rot | [Vector3](../../com.aspose.threed/vector3) | Rotation in degrees |
+| order | [RotationOrder](../../com.aspose.threed/rotationorder) |  |
+
+### rotateRadian(Vector3 rot, RotationOrder order) {#rotateRadian-com.aspose.threed.Vector3-com.aspose.threed.RotationOrder-}
+```
+public void rotateRadian(Vector3 rot, RotationOrder order)
+```
+
+
+Append rotation with specified order
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| rot | [Vector3](../../com.aspose.threed/vector3) | Rotation in radian |
+| order | [RotationOrder](../../com.aspose.threed/rotationorder) |  |
 

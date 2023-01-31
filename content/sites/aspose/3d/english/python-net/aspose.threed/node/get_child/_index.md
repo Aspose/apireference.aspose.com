@@ -12,6 +12,7 @@ is_root: false
 
 Gets the child node at specified index.
 
+
 ### Returns 
 
 
@@ -28,10 +29,25 @@ def get_child(self, index):
 | :- | :- | :- |
 | index | int | Index. |
 
+### Example 
+
+
+The following code shows how to get a child node at specified index.
+
+```python
+from aspose.threed import Scene
+
+scene = Scene.from_file("input.fbx")
+node = scene.root_node.get_child(0)
+print(f"The first node of the file is {node.name}")
+
+```
+
 
 ## get_child(node_name) {#str}
 
 Gets the child node with the specified name
+
 
 ### Returns 
 
@@ -48,6 +64,20 @@ def get_child(self, node_name):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | node_name | str | The child name to find. |
+
+### Example 
+
+
+The following code shows how to get a child node with specified name
+
+```python
+from aspose.threed import Scene
+
+scene = Scene.from_file("input.fbx")
+node = scene.root_node.get_child("box")
+print(f"The box node's translation is {node.transform.translation}")
+
+```
 
 
 

@@ -21,20 +21,20 @@ The FVector2 type exposes the following members:
 | :- | :- |
 | [FVector2(x, y)](/3d/python-net/aspose.threed.utilities/fvector2/__init__/#float-float) | Initializes a new instance of the [FVector2](/3d/python-net/aspose.threed.utilities/fvector2). |
 | [FVector2(vec)](/3d/python-net/aspose.threed.utilities/fvector2/__init__/#Vector2) | Initializes a new instance of the [FVector2](/3d/python-net/aspose.threed.utilities/fvector2). |
-| [FVector2()](/3d/python-net/aspose.threed.utilities/fvector2/__init__/#) |  |
+| [FVector2()](/3d/python-net/aspose.threed.utilities/fvector2/__init__/#) | Constructs a new instance of FVector2 |
 
 
 ### Properties
 | Property | Description |
 | :- | :- |
-| [x](/3d/python-net/aspose.threed.utilities/fvector2/x) |  |
-| [y](/3d/python-net/aspose.threed.utilities/fvector2/y) |  |
+| [x](/3d/python-net/aspose.threed.utilities/fvector2/x) | The x component. |
+| [y](/3d/python-net/aspose.threed.utilities/fvector2/y) | The y component. |
 
 
 ### Methods
 | Method | Description |
 | :- | :- |
-| [equals(rhs)](/3d/python-net/aspose.threed.utilities/fvector2/equals/#FVector2) |  |
+| [equals(rhs)](/3d/python-net/aspose.threed.utilities/fvector2/equals/#FVector2) | Check if two vectors are equal |
 
 
 ### See Also

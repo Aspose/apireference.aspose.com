@@ -12,6 +12,7 @@ is_root: false
 
 Decode the point cloud or mesh from specified file name
 
+
 ### Returns 
 
 
@@ -29,8 +30,15 @@ def decode(self, file_name):
 | file_name | str | The file name contains the drc file |
 
 
-## decode(data) {#byte[]}
+## decode(data) {#bytes}
 
+Decode the point cloud or mesh from memory data
+
+
+### Returns 
+
+
+A [Mesh](/3d/python-net/aspose.threed.entities/mesh) or [PointCloud](/3d/python-net/aspose.threed.entities/pointcloud) instance depends on the content
 
 
 ```python
@@ -41,7 +49,7 @@ def decode(self, data):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| data | byte[] |  |
+| data | bytes | The raw drc bytes |
 
 
 

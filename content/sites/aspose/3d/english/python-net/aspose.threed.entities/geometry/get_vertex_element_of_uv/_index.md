@@ -12,6 +12,7 @@ is_root: false
 
 Gets a [VertexElementUV](/3d/python-net/aspose.threed.entities/vertexelementuv) instance with given texture mapping type
 
+
 ### Returns 
 
 

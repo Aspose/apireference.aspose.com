@@ -3,7 +3,7 @@ title: ShadingLanguage
 second_title: Aspose.3D for Java API Reference
 description: Commonly used shading languages
 type: docs
-weight: 271
+weight: 272
 url: /java/com.aspose.threed/shadinglanguage/
 ---
 

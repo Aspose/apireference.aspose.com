@@ -3,7 +3,7 @@ title: USD
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 340
+weight: 360
 url: /net/aspose.threed/fileformat/usd/
 ---
 ## FileFormat.USD field

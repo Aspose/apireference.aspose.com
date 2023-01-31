@@ -11,6 +11,8 @@ is_root: false
 ## mipmap property
 
 
+Gets or sets the filter mode for mipmap.
+
 ### See Also
 * module [aspose.threed.render](../../)
 * class [ITexture2D](/3d/python-net/aspose.threed.render/itexture2d)

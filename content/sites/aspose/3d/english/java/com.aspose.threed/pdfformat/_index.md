@@ -20,12 +20,12 @@ Adobe's Portable Document Format
 | --- | --- |
 | [extract(String fileName, byte[] password)](#extract-java.lang.String-byte---) | Extract raw 3D content from PDF file. |
 | [extract(String fileName)](#extract-java.lang.String-) | Extract raw 3D content from PDF file. |
-| [extract(Stream stream, byte[] password)](#extract-com.aspose.threed.Stream-byte---) | Extract raw 3D content from PDF stream. |
-| [extract(Stream stream)](#extract-com.aspose.threed.Stream-) | Extract raw 3D content from PDF stream. |
+| [extract(Stream stream, byte[] password)](#extract-com.aspose.csporter.helpers.Stream-byte---) | Extract raw 3D content from PDF stream. |
+| [extract(Stream stream)](#extract-com.aspose.csporter.helpers.Stream-) | Extract raw 3D content from PDF stream. |
 | [extractScene(String fileName)](#extractScene-java.lang.String-) | Extract 3D scenes from PDF file. |
 | [extractScene(String fileName, byte[] password)](#extractScene-java.lang.String-byte---) | Extract 3D scenes from PDF file. |
-| [extractScene(Stream stream, byte[] password)](#extractScene-com.aspose.threed.Stream-byte---) | Extract raw 3D content from PDF stream. |
-| [extractScene(Stream stream)](#extractScene-com.aspose.threed.Stream-) | Extract raw 3D content from PDF stream. |
+| [extractScene(Stream stream, byte[] password)](#extractScene-com.aspose.csporter.helpers.Stream-byte---) | Extract raw 3D content from PDF stream. |
+| [extractScene(Stream stream)](#extractScene-com.aspose.csporter.helpers.Stream-) | Extract raw 3D content from PDF stream. |
 ### extract(String fileName, byte[] password) {#extract-java.lang.String-byte---}
 ```
 public ArrayList<byte[]> extract(String fileName, byte[] password)
@@ -57,7 +57,7 @@ Extract raw 3D content from PDF file.
 
 **Returns:**
 java.util.ArrayList<byte[]>
-### extract(Stream stream, byte[] password) {#extract-com.aspose.threed.Stream-byte---}
+### extract(Stream stream, byte[] password) {#extract-com.aspose.csporter.helpers.Stream-byte---}
 ```
 public ArrayList<byte[]> extract(Stream stream, byte[] password)
 ```
@@ -68,12 +68,12 @@ Extract raw 3D content from PDF stream.
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| stream | com.aspose.threed.Stream |  |
+| stream | com.aspose.csporter.helpers.Stream |  |
 | password | byte[] |  |
 
 **Returns:**
 java.util.ArrayList<byte[]>
-### extract(Stream stream) {#extract-com.aspose.threed.Stream-}
+### extract(Stream stream) {#extract-com.aspose.csporter.helpers.Stream-}
 ```
 public ArrayList<byte[]> extract(Stream stream)
 ```
@@ -84,7 +84,7 @@ Extract raw 3D content from PDF stream.
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| stream | com.aspose.threed.Stream |  |
+| stream | com.aspose.csporter.helpers.Stream |  |
 
 **Returns:**
 java.util.ArrayList<byte[]>
@@ -119,7 +119,7 @@ Extract 3D scenes from PDF file.
 
 **Returns:**
 java.util.ArrayList<com.aspose.threed.Scene>
-### extractScene(Stream stream, byte[] password) {#extractScene-com.aspose.threed.Stream-byte---}
+### extractScene(Stream stream, byte[] password) {#extractScene-com.aspose.csporter.helpers.Stream-byte---}
 ```
 public ArrayList<Scene> extractScene(Stream stream, byte[] password)
 ```
@@ -130,12 +130,12 @@ Extract raw 3D content from PDF stream.
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| stream | com.aspose.threed.Stream |  |
+| stream | com.aspose.csporter.helpers.Stream |  |
 | password | byte[] |  |
 
 **Returns:**
 java.util.ArrayList<com.aspose.threed.Scene>
-### extractScene(Stream stream) {#extractScene-com.aspose.threed.Stream-}
+### extractScene(Stream stream) {#extractScene-com.aspose.csporter.helpers.Stream-}
 ```
 public ArrayList<Scene> extractScene(Stream stream)
 ```
@@ -146,7 +146,7 @@ Extract raw 3D content from PDF stream.
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| stream | com.aspose.threed.Stream |  |
+| stream | com.aspose.csporter.helpers.Stream |  |
 
 **Returns:**
 java.util.ArrayList<com.aspose.threed.Scene>

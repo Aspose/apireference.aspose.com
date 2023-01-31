@@ -12,10 +12,11 @@ is_root: false
 
 Encode a text into mesh' blind watermark.
 
+
 ### Returns 
 
 
-
+A new mesh instance with blind watermark encoded
 
 
 ```python
@@ -29,6 +30,22 @@ def encode_watermark(self, input, text, password):
 | input | aspose.threed.entities.Mesh | Mesh to encode a blind watermark |
 | text | str | Text to encode to the mesh |
 | password | str | Password to protect the watermark, it's optional |
+
+### Example 
+
+
+The following code shows how to encode a blind watermark into a mesh and save to ply file
+
+```python
+from aspose.threed import Scene
+from aspose.threed.entities import Cylinder
+from aspose.threed.utilities import Watermark
+
+mesh = Cylinder().to_mesh()
+encodedMesh = Watermark.encode_watermark(mesh, "Hello", "password")
+Scene(encodedMesh).save("test.ply")
+
+```
 
 
 

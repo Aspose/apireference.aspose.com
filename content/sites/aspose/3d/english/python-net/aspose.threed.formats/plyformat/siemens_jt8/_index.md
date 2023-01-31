@@ -11,6 +11,8 @@ is_root: false
 ## SIEMENS_JT8 property
 
 
+Siemens JT File Version 8
+
 ### See Also
 * module [aspose.threed.formats](../../)
 * class [PlyFormat](/3d/python-net/aspose.threed.formats/plyformat)

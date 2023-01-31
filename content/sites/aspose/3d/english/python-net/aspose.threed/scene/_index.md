@@ -29,7 +29,7 @@ The Scene type exposes the following members:
 | :- | :- |
 | [Scene()](/3d/python-net/aspose.threed/scene/__init__/#) | Initializes a new instance of the [Scene](/3d/python-net/aspose.threed/scene) class. |
 | [Scene(entity)](/3d/python-net/aspose.threed/scene/__init__/#Entity) | Initializes a new instance of the [Scene](/3d/python-net/aspose.threed/scene) class with an entity attached to a new node. |
-| [Scene(parent_scene, name)](/3d/python-net/aspose.threed/scene/__init__/#Scene-str) |  |
+| [Scene(parent_scene, name)](/3d/python-net/aspose.threed/scene/__init__/#Scene-str) | Initializes a new instance of the [Scene](/3d/python-net/aspose.threed/scene) class as a sub-scene. |
 | [Scene(file_name)](/3d/python-net/aspose.threed/scene/__init__/#str) | Initializes a new instance of the [Scene](/3d/python-net/aspose.threed/scene) class and open the file immediately.<br/>This is an obsoleted constructor, please use [Scene.from_file(file_name)](/3d/python-net/aspose.threed/scene/from_file). |
 
 

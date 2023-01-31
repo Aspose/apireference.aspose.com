@@ -3,7 +3,7 @@ title: PcdBinary
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 280
+weight: 300
 url: /net/aspose.threed/fileformat/pcdbinary/
 ---
 ## FileFormat.PcdBinary field

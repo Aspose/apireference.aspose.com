@@ -11,6 +11,8 @@ is_root: false
 ## z property
 
 
+The z component.
+
 ### See Also
 * module [aspose.threed.utilities](../../)
 * class [Vector4](/3d/python-net/aspose.threed.utilities/vector4)

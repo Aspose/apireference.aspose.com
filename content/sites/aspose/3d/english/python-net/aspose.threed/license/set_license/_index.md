@@ -29,6 +29,15 @@ Tries to find the license in the following locations:
 
 
 1. Explicit path.
+### Example 
+
+
+In this example, an attempt will be made to find a license file named MyLicense.lic
+in the folder that contains 
+
+Can be a full or short file name.
+Use an empty string to switch to evaluation mode.
+
 
 ## set_license(stream) {#io.RawIOBase}
 
@@ -48,6 +57,17 @@ def set_license(self, stream):
 ### Remarks
 
 Use this method to load a license from a stream.
+### Example 
+
+
+```python
+from aspose.threed import License
+
+license = License()
+license.set_license(myStream)
+
+```
+
 
 
 ### See Also

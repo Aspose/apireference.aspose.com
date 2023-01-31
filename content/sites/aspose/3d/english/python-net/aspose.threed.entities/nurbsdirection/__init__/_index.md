@@ -10,6 +10,8 @@ is_root: false
 
 ## NurbsDirection() {#}
 
+Constructs a new instance of NurbsDirection
+
 
 
 ```python

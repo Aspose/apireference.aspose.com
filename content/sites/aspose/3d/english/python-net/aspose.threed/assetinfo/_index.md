@@ -65,6 +65,19 @@ The AssetInfo type exposes the following members:
 | [find_property(property_name)](/3d/python-net/aspose.threed/assetinfo/find_property/#str) | Finds the property.<br/>It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) <br/>or native property(Identified by its name) |
 
 
+
+### Example 
+
+
+The following code shows how to read asset info from a fbx file:
+
+```python
+from aspose.threed import Scene
+
+scene = Scene.from_file("test.fbx")
+print(f"The file is created at {scene.asset_info.creation_time} by {scene.asset_info.application_name} {scene.asset_info.application_version} ")
+
+```
 ### See Also
 
 * module [aspose.threed](../)

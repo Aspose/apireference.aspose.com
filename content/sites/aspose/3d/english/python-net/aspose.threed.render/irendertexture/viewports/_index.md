@@ -11,6 +11,8 @@ is_root: false
 ## viewports property
 
 
+Gets all viewports that associated with this render target.
+
 ### See Also
 * module [aspose.threed.render](../../)
 * class [IRenderTexture](/3d/python-net/aspose.threed.render/irendertexture)

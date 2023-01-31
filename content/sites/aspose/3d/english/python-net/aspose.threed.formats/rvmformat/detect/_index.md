@@ -12,6 +12,7 @@ is_root: false
 
 Detect the file format from file name, file must be readable so Aspose.3D can detect the file format through file header.
 
+
 ### Returns 
 
 
@@ -28,10 +29,22 @@ def detect(self, file_name):
 | :- | :- | :- |
 | file_name | str |  |
 
+### Example 
+
+
+```python
+from aspose.threed import FileFormat
+
+fmt = FileFormat.detect("input.fbx")
+print(f"Input file format: {fmt}")
+
+```
+
 
 ## detect(stream, file_name) {#io.RawIOBase-str}
 
 Detect the file format from data stream, file name is optional for guessing types that has no magic header.
+
 
 ### Returns 
 
@@ -49,6 +62,19 @@ def detect(self, stream, file_name):
 | :- | :- | :- |
 | stream | io.RawIOBase |  |
 | file_name | str |  |
+
+### Example 
+
+
+```python
+from aspose.threed import FileFormat
+from io import BytesIO
+
+bytes = bytearray(100)
+fmt = FileFormat.detect(BytesIO(bytes), "input-file")
+print(f"Input data format: {fmt}")
+
+```
 
 
 

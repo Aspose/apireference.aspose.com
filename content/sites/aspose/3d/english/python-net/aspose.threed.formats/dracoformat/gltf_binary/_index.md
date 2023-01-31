@@ -11,6 +11,8 @@ is_root: false
 ## GLTF_BINARY property
 
 
+Khronos Group's glTF in Binary format
+
 ### See Also
 * module [aspose.threed.formats](../../)
 * class [DracoFormat](/3d/python-net/aspose.threed.formats/dracoformat)

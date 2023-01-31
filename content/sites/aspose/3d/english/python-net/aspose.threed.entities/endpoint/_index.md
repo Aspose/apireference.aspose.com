@@ -21,7 +21,7 @@ The EndPoint type exposes the following members:
 | :- | :- |
 | [EndPoint(point)](/3d/python-net/aspose.threed.entities/endpoint/__init__/#aspose.threed.utilities.Vector3) | Construct a [EndPoint](/3d/python-net/aspose.threed.entities/endpoint) from a Cartesian point. |
 | [EndPoint(v)](/3d/python-net/aspose.threed.entities/endpoint/__init__/#float) | Construct a [EndPoint](/3d/python-net/aspose.threed.entities/endpoint) from a real parameter. |
-| [EndPoint()](/3d/python-net/aspose.threed.entities/endpoint/__init__/#) |  |
+| [EndPoint()](/3d/python-net/aspose.threed.entities/endpoint/__init__/#) | Constructs a new instance of EndPoint |
 
 
 ### Properties

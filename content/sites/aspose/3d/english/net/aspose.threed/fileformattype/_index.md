@@ -34,6 +34,7 @@ public sealed class FileFormatType
 | static readonly [FBX](../../aspose.threed/fileformattype/fbx) | FBX file format type |
 | static readonly [GLTF](../../aspose.threed/fileformattype/gltf) | Khronos Group's glTF |
 | static readonly [HTML5](../../aspose.threed/fileformattype/html5) | HTML5 File |
+| static readonly [Maya](../../aspose.threed/fileformattype/maya) | Autodesk Maya format type |
 | static readonly [Microsoft3MF](../../aspose.threed/fileformattype/microsoft3mf) | 3D Manufacturing Format |
 | static readonly [Pcd](../../aspose.threed/fileformattype/pcd) | Point Cloud Data used by Point Cloud Library |
 | static readonly [PDF](../../aspose.threed/fileformattype/pdf) | Portable Document Format |

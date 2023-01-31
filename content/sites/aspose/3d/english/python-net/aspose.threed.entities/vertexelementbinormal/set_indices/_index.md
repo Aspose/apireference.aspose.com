@@ -8,7 +8,9 @@ url: /python-net/aspose.threed.entities/vertexelementbinormal/set_indices/
 is_root: false
 ---
 
-## set_indices(data) {#int[]}
+## set_indices(data) {#list}
+
+Load indices
 
 
 
@@ -20,7 +22,7 @@ def set_indices(self, data):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| data | int[] |  |
+| data | list |  |
 
 
 

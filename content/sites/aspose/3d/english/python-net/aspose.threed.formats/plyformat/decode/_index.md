@@ -12,6 +12,7 @@ is_root: false
 
 Decode a point cloud or mesh from the specified stream.
 
+
 ### Returns 
 
 
@@ -33,6 +34,7 @@ def decode(self, file_name, opt):
 ## decode(stream, opt) {#io.RawIOBase-PlyLoadOptions}
 
 Decode a point cloud or mesh from the specified stream.
+
 
 ### Returns 
 

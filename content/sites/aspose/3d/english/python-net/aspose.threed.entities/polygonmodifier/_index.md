@@ -21,9 +21,9 @@ The PolygonModifier type exposes the following members:
 | :- | :- |
 | [triangulate(scene)](/3d/python-net/aspose.threed.entities/polygonmodifier/triangulate/#Scene) | Convert all polygon-based meshes into full triangle mesh |
 | [triangulate(mesh)](/3d/python-net/aspose.threed.entities/polygonmodifier/triangulate/#Mesh) | Convert a polygon-based mesh into full triangle mesh |
-| [triangulate(control_points, polygons, generate_normals, nor_out)](/3d/python-net/aspose.threed.entities/polygonmodifier/triangulate/#list-list-bool-Aspose.ThreeD.Utilities.Vector3[]&) |  |
+| [triangulate(control_points, polygons, generate_normals, nor_out)](/3d/python-net/aspose.threed.entities/polygonmodifier/triangulate/#list-list-bool-any) |  |
 | [triangulate(control_points, polygons)](/3d/python-net/aspose.threed.entities/polygonmodifier/triangulate/#list-list) |  |
-| [triangulate(control_points, polygon)](/3d/python-net/aspose.threed.entities/polygonmodifier/triangulate/#list-int[]) |  |
+| [triangulate(control_points, polygon)](/3d/python-net/aspose.threed.entities/polygonmodifier/triangulate/#list-list) |  |
 | [triangulate(control_points)](/3d/python-net/aspose.threed.entities/polygonmodifier/triangulate/#list) |  |
 | [merge_mesh(scene)](/3d/python-net/aspose.threed.entities/polygonmodifier/merge_mesh/#Scene) | Convert a whole scene to a single transformed mesh<br/>Vertex elements like normal/texture coordinates are not supported yet |
 | [merge_mesh(nodes)](/3d/python-net/aspose.threed.entities/polygonmodifier/merge_mesh/#list) |  |

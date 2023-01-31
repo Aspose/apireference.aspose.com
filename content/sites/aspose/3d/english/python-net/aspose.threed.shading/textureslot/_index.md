@@ -23,6 +23,23 @@ The TextureSlot type exposes the following members:
 | [texture](/3d/python-net/aspose.threed.shading/textureslot/texture) | The texture that will be bounded to the material. |
 
 
+
+### Example 
+
+
+```python
+from aspose.threed.shading import LambertMaterial, Material, Texture
+
+mat = LambertMaterial()
+tex = Texture()
+tex.file_name = "diffuse.png"
+mat.set_texture(Material.MAP_DIFFUSE, tex)
+for slot in mat:
+    print(f"Texture slot {slot.slot_name} = {slot.texture}")
+
+
+
+```
 ### See Also
 
 * module [aspose.threed.shading](../)

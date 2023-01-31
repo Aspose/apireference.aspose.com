@@ -19,8 +19,8 @@ The TextureData type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [TextureData(width, height, stride, bytes_per_pixel, pixel_format, data)](/3d/python-net/aspose.threed.render/texturedata/__init__/#int-int-int-int-aspose.pydrawing.imaging.PixelFormat-byte[]) |  |
-| [TextureData(width, height, stride, bytes_per_pixel, pixel_format, data)](/3d/python-net/aspose.threed.render/texturedata/__init__/#int-int-int-int-PixelFormat-byte[]) |  |
+| [TextureData(width, height, stride, bytes_per_pixel, pixel_format, data)](/3d/python-net/aspose.threed.render/texturedata/__init__/#int-int-int-int-aspose.pydrawing.imaging.PixelFormat-bytes) | Constructor of [TextureData](/3d/python-net/aspose.threed.render/texturedata) |
+| [TextureData(width, height, stride, bytes_per_pixel, pixel_format, data)](/3d/python-net/aspose.threed.render/texturedata/__init__/#int-int-int-int-PixelFormat-bytes) | Constructor of [TextureData](/3d/python-net/aspose.threed.render/texturedata) |
 | [TextureData()](/3d/python-net/aspose.threed.render/texturedata/__init__/#) | Constructor of [TextureData](/3d/python-net/aspose.threed.render/texturedata) |
 
 

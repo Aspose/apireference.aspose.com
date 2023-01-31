@@ -22,24 +22,24 @@ The FVector3 type exposes the following members:
 | [FVector3(x, y, z)](/3d/python-net/aspose.threed.utilities/fvector3/__init__/#float-float-float) | Initializes a new instance of the [FVector3](/3d/python-net/aspose.threed.utilities/fvector3). |
 | [FVector3(vec)](/3d/python-net/aspose.threed.utilities/fvector3/__init__/#Vector3) | Initializes a new instance of the [FVector3](/3d/python-net/aspose.threed.utilities/fvector3). |
 | [FVector3(vec)](/3d/python-net/aspose.threed.utilities/fvector3/__init__/#Vector4) | Initializes a new instance of the [FVector4](/3d/python-net/aspose.threed.utilities/fvector4). |
-| [FVector3()](/3d/python-net/aspose.threed.utilities/fvector3/__init__/#) |  |
+| [FVector3()](/3d/python-net/aspose.threed.utilities/fvector3/__init__/#) | Constructs a new instance of FVector3 |
 
 
 ### Properties
 | Property | Description |
 | :- | :- |
-| [ZERO](/3d/python-net/aspose.threed.utilities/fvector3/ZERO) |  |
-| [UNIT_SCALE](/3d/python-net/aspose.threed.utilities/fvector3/UNIT_SCALE) |  |
-| [x](/3d/python-net/aspose.threed.utilities/fvector3/x) |  |
-| [y](/3d/python-net/aspose.threed.utilities/fvector3/y) |  |
-| [z](/3d/python-net/aspose.threed.utilities/fvector3/z) |  |
+| [ZERO](/3d/python-net/aspose.threed.utilities/fvector3/ZERO) | The Zero vector. |
+| [UNIT_SCALE](/3d/python-net/aspose.threed.utilities/fvector3/UNIT_SCALE) | The unit scale vector with all components are all 1 |
+| [x](/3d/python-net/aspose.threed.utilities/fvector3/x) | The x component. |
+| [y](/3d/python-net/aspose.threed.utilities/fvector3/y) | The y component. |
+| [z](/3d/python-net/aspose.threed.utilities/fvector3/z) | The y component. |
 
 
 ### Methods
 | Method | Description |
 | :- | :- |
 | [normalize()](/3d/python-net/aspose.threed.utilities/fvector3/normalize/#) | Normalizes this instance. |
-| [cross(rhs)](/3d/python-net/aspose.threed.utilities/fvector3/cross/#FVector3) |  |
+| [cross(rhs)](/3d/python-net/aspose.threed.utilities/fvector3/cross/#FVector3) | Cross product of two vectors |
 
 
 ### See Also

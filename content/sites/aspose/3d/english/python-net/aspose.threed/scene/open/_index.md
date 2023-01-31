@@ -24,6 +24,22 @@ def open(self, stream):
 | :- | :- | :- |
 | stream | io.RawIOBase | Input stream, user is responsible for closing the stream. |
 
+### Example 
+
+
+The following code shows how to open a scene from stream
+
+```python
+from aspose.threed import Scene
+
+scene = Scene()
+with open("input.fbx", "rb") as stream:
+    scene.open(stream)
+
+
+
+```
+
 
 ## open(file_name) {#str}
 
@@ -40,6 +56,19 @@ def open(self, file_name):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | file_name | str | File name. |
+
+### Example 
+
+
+The following code shows how to open a scene from file name
+
+```python
+from aspose.threed import Scene
+
+scene = Scene()
+scene.open("input.fbx")
+
+```
 
 
 ## open(file_name, options) {#str-aspose.threed.formats.LoadOptions}
@@ -58,6 +87,22 @@ def open(self, file_name, options):
 | :- | :- | :- |
 | file_name | str | File name. |
 | options | aspose.threed.formats.LoadOptions | More detailed configuration to open the stream. |
+
+### Example 
+
+
+The following code shows how to open a scene from file name with extra load options
+
+```python
+from aspose.threed import Scene
+from aspose.threed.formats import FbxLoadOptions
+
+scene = Scene()
+opts = FbxLoadOptions()
+opts.lookup_paths.append("textures")
+scene.open("input.fbx", opts)
+
+```
 
 
 

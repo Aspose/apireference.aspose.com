@@ -35,7 +35,7 @@ The Light type exposes the following members:
 | :- | :- |
 | [Light()](/3d/python-net/aspose.threed.entities/light/__init__/#) | Initializes a new instance of the [Light](/3d/python-net/aspose.threed.entities/light) class. |
 | [Light(name)](/3d/python-net/aspose.threed.entities/light/__init__/#str) | Initializes a new instance of the [Light](/3d/python-net/aspose.threed.entities/light) class. |
-| [Light(name, type)](/3d/python-net/aspose.threed.entities/light/__init__/#str-LightType) |  |
+| [Light(name, type)](/3d/python-net/aspose.threed.entities/light/__init__/#str-LightType) | Initializes a new instance of the [Light](/3d/python-net/aspose.threed.entities/light) class. |
 
 
 ### Properties

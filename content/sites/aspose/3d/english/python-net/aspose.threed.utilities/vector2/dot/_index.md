@@ -12,6 +12,7 @@ is_root: false
 
 Gets the dot product of two vectors
 
+
 ### Returns 
 
 

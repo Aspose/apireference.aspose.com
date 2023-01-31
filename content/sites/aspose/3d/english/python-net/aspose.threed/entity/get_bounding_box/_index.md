@@ -21,6 +21,20 @@ def get_bounding_box(self):
 
 
 
+### Example 
+
+
+The following code shows how to calculate the bounding box of a shape
+
+```python
+from aspose.threed.entities import Sphere
+
+entity = Sphere()
+bbox = entity.get_bounding_box()
+print(f"The bounding box of the entity is {bbox.minimum} ~ {bbox.maximum}")
+
+```
+
 
 
 ### See Also

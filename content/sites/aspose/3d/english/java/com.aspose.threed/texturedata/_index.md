@@ -33,7 +33,7 @@ This class contains the raw data and format definition of a texture.
 | [getPixelFormat()](#getPixelFormat--) | The pixel's format |
 | [fromBitmap(BufferedImage bitmap)](#fromBitmap-java.awt.image.BufferedImage-) | Convert a java.awt.image.BufferedImage to com.aspose.threed.TextureData |
 | [toBitmap()](#toBitmap--) | Convert the TextureData to a java.awt.image.BufferedImage instance. |
-| [fromStream(Stream stream)](#fromStream-com.aspose.threed.Stream-) | Load a texture from stream |
+| [fromStream(Stream stream)](#fromStream-com.aspose.csporter.helpers.Stream-) | Load a texture from stream |
 | [fromFile(String fileName)](#fromFile-java.lang.String-) | Load a texture from file |
 ### TextureData(int width, int height, int stride, int bytesPerPixel, int pixelFormat, byte[] data) {#TextureData-int-int-int-int-int-byte---}
 ```
@@ -164,7 +164,7 @@ Convert the TextureData to a java.awt.image.BufferedImage instance.
 
 **Returns:**
 java.awt.image.BufferedImage
-### fromStream(Stream stream) {#fromStream-com.aspose.threed.Stream-}
+### fromStream(Stream stream) {#fromStream-com.aspose.csporter.helpers.Stream-}
 ```
 public static TextureData fromStream(Stream stream)
 ```
@@ -175,7 +175,7 @@ Load a texture from stream
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| stream | com.aspose.threed.Stream |  |
+| stream | com.aspose.csporter.helpers.Stream |  |
 
 **Returns:**
 [TextureData](../../com.aspose.threed/texturedata)

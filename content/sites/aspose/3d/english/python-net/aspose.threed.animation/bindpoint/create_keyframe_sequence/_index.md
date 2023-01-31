@@ -12,6 +12,7 @@ is_root: false
 
 Creates a new curve and connects it to the first channel of the curve mapping
 
+
 ### Returns 
 
 

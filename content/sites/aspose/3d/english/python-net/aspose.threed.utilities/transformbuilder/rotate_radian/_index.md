@@ -25,6 +25,18 @@ def rotate_radian(self, angle, axis):
 | angle | float | The angle to rotate in radian |
 | axis | [Vector3](/3d/python-net/aspose.threed.utilities/vector3) | The axis to rotate |
 
+### Example 
+
+
+```python
+from aspose.threed.utilities import TransformBuilder, Vector3
+
+tb = TransformBuilder()
+tb.rotate_radian(math.pi, Vector3.Y_AXIS)
+print(f"Transform Matrix: {tb.matrix}")
+
+```
+
 
 ## rotate_radian(rot, order) {#Vector3-RotationOrder}
 
@@ -42,6 +54,18 @@ def rotate_radian(self, rot, order):
 | :- | :- | :- |
 | rot | [Vector3](/3d/python-net/aspose.threed.utilities/vector3) | Rotation in radian |
 | order | [RotationOrder](/3d/python-net/aspose.threed.utilities/rotationorder) |  |
+
+### Example 
+
+
+```python
+from aspose.threed.utilities import RotationOrder, TransformBuilder, Vector3
+
+tb = TransformBuilder()
+tb.rotate_radian(Vector3(0.3, 0.4, 0.1), RotationOrder.YZX)
+print(f"Transform Matrix: {tb.matrix}")
+
+```
 
 
 

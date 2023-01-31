@@ -12,6 +12,7 @@ is_root: false
 
 Sets the translation of current transform.
 
+
 ### Returns 
 
 
@@ -29,6 +30,17 @@ def set_translation(self, tx, ty, tz):
 | tx | float |  |
 | ty | float |  |
 | tz | float |  |
+
+### Example 
+
+
+```python
+from aspose.threed import Node
+
+node = Node()
+node.transform.set_translation(10, 0, 0)
+
+```
 
 
 

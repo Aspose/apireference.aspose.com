@@ -11,6 +11,8 @@ is_root: false
 ## FBX7700ASCII property
 
 
+ASCII FBX file format, with 7.7.0 version
+
 ### See Also
 * module [aspose.threed.formats](../../)
 * class [RvmFormat](/3d/python-net/aspose.threed.formats/rvmformat)

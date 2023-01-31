@@ -8,7 +8,9 @@ url: /python-net/aspose.threed.utilities/quaternion/to_angle_axis/
 is_root: false
 ---
 
-## to_angle_axis(angle, axis) {#Double&-Vector3&}
+## to_angle_axis(angle, axis) {#any-any}
+
+
 
 
 
@@ -20,8 +22,8 @@ def to_angle_axis(self, angle, axis):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| angle | Double& |  |
-| axis | Vector3& |  |
+| angle | any |  |
+| axis | any |  |
 
 
 

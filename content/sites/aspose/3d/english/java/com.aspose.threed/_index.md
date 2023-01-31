@@ -102,15 +102,9 @@ url: /java/com.aspose.threed/
 | [MorphTargetChannel](../com.aspose.threed/morphtargetchannel) | A MorphTargetChannel is used by com.aspose.threed.MorphTargetDeformer to organize the target geometries. |
 | [MorphTargetDeformer](../com.aspose.threed/morphtargetdeformer) | MorphTargetDeformer provides per-vertex animation. |
 | [Node](../com.aspose.threed/node) | Represents an element in the scene graph. |
-| [NurbsCurve](../com.aspose.threed/nurbscurve) | [NURBS curve][] is a curve represented by NURBS(Non-uniform rational basis spline), A NURBS curve is defined by its com.aspose.threed.NurbsCurve\#getOrder, a set of weighted com.aspose.threed.Geometry\#getControlPoints and a com.aspose.threed.NurbsCurve\#getKnotVectors The w component in control point is used as control point's weight, whatever it is a com.aspose.threed.CurveDimension\#TWO\_DIMENSIONAL or com.aspose.threed.CurveDimension\#THREE\_DIMENSIONAL
-
-
-[NURBS curve]: https://en.wikipedia.org/wiki/Non-uniform_rational_B-spline |
+| [NurbsCurve](../com.aspose.threed/nurbscurve) | [NURBS curve][] is a curve represented by NURBS(Non-uniform rational basis spline), A NURBS curve is defined by its com.aspose.threed.NurbsCurve\#getOrder, a set of weighted com.aspose.threed.Geometry\#getControlPoints and a com.aspose.threed.NurbsCurve\#getKnotVectors The w component in control point is used as control point's weight, whatever it is a com.aspose.threed.CurveDimension\#TWO\_DIMENSIONAL or com.aspose.threed.CurveDimension\#THREE\_DIMENSIONAL [NURBS curve]: https://en.wikipedia.org/wiki/Non-uniform_rational_B-spline |
 | [NurbsDirection](../com.aspose.threed/nurbsdirection) | A 3D com.aspose.threed.NurbsSurface has two direction, the com.aspose.threed.NurbsSurface\#getU and com.aspose.threed.NurbsSurface\#getV, the com.aspose.threed.NurbsDirection defines data for each direction. |
-| [NurbsSurface](../com.aspose.threed/nurbssurface) | com.aspose.threed.NurbsSurface is a surface represented by [NURBS(Non-uniform rational basis spline)][NURBS_Non-uniform rational basis spline], A com.aspose.threed.NurbsSurface is defined by two com.aspose.threed.NurbsDirection com.aspose.threed.NurbsSurface\#getU and com.aspose.threed.NurbsSurface\#getV.
-
-
-[NURBS_Non-uniform rational basis spline]: https://en.wikipedia.org/wiki/Non-uniform_rational_B-spline |
+| [NurbsSurface](../com.aspose.threed/nurbssurface) | com.aspose.threed.NurbsSurface is a surface represented by [NURBS(Non-uniform rational basis spline)][NURBS_Non-uniform rational basis spline], A com.aspose.threed.NurbsSurface is defined by two com.aspose.threed.NurbsDirection com.aspose.threed.NurbsSurface\#getU and com.aspose.threed.NurbsSurface\#getV. [NURBS_Non-uniform rational basis spline]: https://en.wikipedia.org/wiki/Non-uniform_rational_B-spline |
 | [ObjLoadOptions](../com.aspose.threed/objloadoptions) | Load options for wavefront obj |
 | [ObjSaveOptions](../com.aspose.threed/objsaveoptions) | Save options for wavefront obj file |
 | [ParameterizedProfile](../com.aspose.threed/parameterizedprofile) | The base class of all parameterized profiles. |
@@ -290,6 +284,7 @@ url: /java/com.aspose.threed/
 | [RenderStage](../com.aspose.threed/renderstage) | The render stage |
 | [RenderingAPI](../com.aspose.threed/renderingapi) | Commonly used rendering APIs |
 | [RotationMode](../com.aspose.threed/rotationmode) | The frustum's rotation mode |
+| [RotationOrder](../com.aspose.threed/rotationorder) | The order controls which rx ry rz are applied in the transformation matrix. |
 | [ShadingLanguage](../com.aspose.threed/shadinglanguage) | Commonly used shading languages |
 | [SkeletonType](../com.aspose.threed/skeletontype) | com.aspose.threed.Skeleton's types. |
 | [SplitMeshPolicy](../com.aspose.threed/splitmeshpolicy) | Share vertex/control point data between sub-meshes or each sub-mesh has its own compacted data. |

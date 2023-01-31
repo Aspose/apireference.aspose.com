@@ -12,6 +12,7 @@ is_root: false
 
 Convert this primitive to [Mesh](/3d/python-net/aspose.threed.entities/mesh)
 
+
 ### Returns 
 
 

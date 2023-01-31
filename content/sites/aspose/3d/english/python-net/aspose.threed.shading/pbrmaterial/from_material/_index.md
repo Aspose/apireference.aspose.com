@@ -12,6 +12,7 @@ is_root: false
 
 Allow convert other material to PbrMaterial
 
+
 ### Returns 
 
 
@@ -27,6 +28,22 @@ def from_material(self, material):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | material | [Material](/3d/python-net/aspose.threed.shading/material) |  |
+
+### Example 
+
+
+```python
+from aspose.threed.shading import LambertMaterial, Material, PbrMaterial, Texture
+from aspose.threed.utilities import Vector3
+
+mat = LambertMaterial()
+tex = Texture()
+tex.file_name = "diffuse.png"
+mat.set_texture(Material.MAP_DIFFUSE, tex)
+mat.diffuse_color = Vector3(0.3, 0.9, 0.4)
+pbr = PbrMaterial.from_material(mat)
+
+```
 
 
 

@@ -12,6 +12,8 @@ is_root: false
 
 
 
+
+
 ```python
 def add_data(self, data):
     ...
@@ -24,6 +26,8 @@ def add_data(self, data):
 
 
 ## add_data(data) {#list}
+
+
 
 
 

@@ -63,8 +63,8 @@ The Mesh type exposes the following members:
 | [create_element(type, mapping_mode, reference_mode)](/3d/python-net/aspose.threed.entities/mesh/create_element/#VertexElementType-MappingMode-ReferenceMode) | Creates a vertex element with specified type and add it to the geometry. |
 | [create_element_uv(uv_mapping)](/3d/python-net/aspose.threed.entities/mesh/create_element_uv/#TextureMapping) | Creates a [VertexElementUV](/3d/python-net/aspose.threed.entities/vertexelementuv) with given texture mapping type. |
 | [create_element_uv(uv_mapping, mapping_mode, reference_mode)](/3d/python-net/aspose.threed.entities/mesh/create_element_uv/#TextureMapping-MappingMode-ReferenceMode) | Creates a [VertexElementUV](/3d/python-net/aspose.threed.entities/vertexelementuv) with given texture mapping type. |
-| [create_polygon(indices, offset, length)](/3d/python-net/aspose.threed.entities/mesh/create_polygon/#int[]-int-int) |  |
-| [create_polygon(indices)](/3d/python-net/aspose.threed.entities/mesh/create_polygon/#int[]) |  |
+| [create_polygon(indices, offset, length)](/3d/python-net/aspose.threed.entities/mesh/create_polygon/#list-int-int) | Creates a new polygon with all vertices defined in `indices`.<br/>To create polygon vertex by vertex, please use [PolygonBuilder](/3d/python-net/aspose.threed.entities/polygonbuilder). |
+| [create_polygon(indices)](/3d/python-net/aspose.threed.entities/mesh/create_polygon/#list) | Creates a new polygon with all vertices defined in `indices`.<br/>To create polygon vertex by vertex, please use [PolygonBuilder](/3d/python-net/aspose.threed.entities/polygonbuilder). |
 | [create_polygon(v1, v2, v3, v4)](/3d/python-net/aspose.threed.entities/mesh/create_polygon/#int-int-int-int) | Create a polygon with 4 vertices(quad) |
 | [create_polygon(v1, v2, v3)](/3d/python-net/aspose.threed.entities/mesh/create_polygon/#int-int-int) | Create a polygon with 3 vertices(triangle) |
 | [get_property(property)](/3d/python-net/aspose.threed.entities/mesh/get_property/#str) | Get the value of specified property |
@@ -76,9 +76,35 @@ The Mesh type exposes the following members:
 | [get_vertex_element_of_uv(texture_mapping)](/3d/python-net/aspose.threed.entities/mesh/get_vertex_element_of_uv/#TextureMapping) | Gets a [VertexElementUV](/3d/python-net/aspose.threed.entities/vertexelementuv) instance with given texture mapping type |
 | [add_element(element)](/3d/python-net/aspose.threed.entities/mesh/add_element/#VertexElement) | Adds an existing vertex element to current geometry |
 | [get_polygon_size(index)](/3d/python-net/aspose.threed.entities/mesh/get_polygon_size/#int) | Gets the vertex count of the specified polygon. |
-| [to_mesh()](/3d/python-net/aspose.threed.entities/mesh/to_mesh/#) |  |
+| [to_mesh()](/3d/python-net/aspose.threed.entities/mesh/to_mesh/#) | Gets the Mesh instance from current entity. |
 
 
+
+### Example 
+
+
+To add a polygon in mesh:
+
+```python
+from aspose.threed.entities import Mesh
+
+mesh = Mesh()
+indices = [0, 1, 2]
+mesh.create_polygon(indices)
+
+```
+
+Travel through all polygons in mesh:
+
+```python
+from aspose.threed.entities import Mesh
+
+mesh = Mesh()
+for polygon in mesh:
+    pass
+
+
+```
 ### See Also
 
 * module [aspose.threed.entities](../)

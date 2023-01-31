@@ -27,11 +27,11 @@ The Material type exposes the following members:
 | :- | :- |
 | [name](/3d/python-net/aspose.threed.shading/material/name) | Gets or sets the name. |
 | [properties](/3d/python-net/aspose.threed.shading/material/properties) | Gets the collection of all properties. |
-| [MAP_SPECULAR](/3d/python-net/aspose.threed.shading/material/MAP_SPECULAR) |  |
-| [MAP_DIFFUSE](/3d/python-net/aspose.threed.shading/material/MAP_DIFFUSE) |  |
-| [MAP_EMISSIVE](/3d/python-net/aspose.threed.shading/material/MAP_EMISSIVE) |  |
-| [MAP_AMBIENT](/3d/python-net/aspose.threed.shading/material/MAP_AMBIENT) |  |
-| [MAP_NORMAL](/3d/python-net/aspose.threed.shading/material/MAP_NORMAL) |  |
+| [MAP_SPECULAR](/3d/python-net/aspose.threed.shading/material/MAP_SPECULAR) | Used in [Material.set_texture(slot_name, texture)](/3d/python-net/aspose.threed.shading/material/set_texture) to assign a specular texture mapping. |
+| [MAP_DIFFUSE](/3d/python-net/aspose.threed.shading/material/MAP_DIFFUSE) | Used in [Material.set_texture(slot_name, texture)](/3d/python-net/aspose.threed.shading/material/set_texture) to assign a diffuse texture mapping. |
+| [MAP_EMISSIVE](/3d/python-net/aspose.threed.shading/material/MAP_EMISSIVE) | Used in [Material.set_texture(slot_name, texture)](/3d/python-net/aspose.threed.shading/material/set_texture) to assign a emissive texture mapping. |
+| [MAP_AMBIENT](/3d/python-net/aspose.threed.shading/material/MAP_AMBIENT) | Used in [Material.set_texture(slot_name, texture)](/3d/python-net/aspose.threed.shading/material/set_texture) to assign a ambient texture mapping. |
+| [MAP_NORMAL](/3d/python-net/aspose.threed.shading/material/MAP_NORMAL) | Used in [Material.set_texture(slot_name, texture)](/3d/python-net/aspose.threed.shading/material/set_texture) to assign a normal texture mapping. |
 
 
 ### Methods
@@ -46,6 +46,23 @@ The Material type exposes the following members:
 | [set_texture(slot_name, texture)](/3d/python-net/aspose.threed.shading/material/set_texture/#str-TextureBase) | Sets the texture to specified slot |
 
 
+
+### Example 
+
+
+```python
+from aspose.threed.shading import LambertMaterial, Material, Texture
+
+mat = LambertMaterial()
+tex = Texture()
+tex.file_name = "diffuse.png"
+mat.set_texture(Material.MAP_DIFFUSE, tex)
+for slot in mat:
+    print(f"Texture slot {slot.slot_name} = {slot.texture}")
+
+
+
+```
 ### See Also
 
 * module [aspose.threed.shading](../)

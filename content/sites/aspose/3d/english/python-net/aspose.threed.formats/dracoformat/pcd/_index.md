@@ -11,6 +11,8 @@ is_root: false
 ## PCD property
 
 
+PCL Point Cloud Data file in ASCII mode
+
 ### See Also
 * module [aspose.threed.formats](../../)
 * class [DracoFormat](/3d/python-net/aspose.threed.formats/dracoformat)

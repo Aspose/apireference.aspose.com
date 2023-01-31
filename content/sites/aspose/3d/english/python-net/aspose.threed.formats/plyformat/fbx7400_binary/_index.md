@@ -11,6 +11,8 @@ is_root: false
 ## FBX7400_BINARY property
 
 
+Binary FBX file format, with 7.4.0 version
+
 ### See Also
 * module [aspose.threed.formats](../../)
 * class [PlyFormat](/3d/python-net/aspose.threed.formats/plyformat)

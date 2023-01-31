@@ -11,6 +11,8 @@ is_root: false
 ## SIEMENS_JT property
 
 
+Siemens PLM Software NX's JT File
+
 ### See Also
 * module [aspose.threed](../../)
 * class [FileFormatType](/3d/python-net/aspose.threed/fileformattype)

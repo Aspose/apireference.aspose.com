@@ -33,11 +33,11 @@ The PbrSpecularMaterial type exposes the following members:
 | :- | :- |
 | [name](/3d/python-net/aspose.threed.shading/pbrspecularmaterial/name) | Gets or sets the name. |
 | [properties](/3d/python-net/aspose.threed.shading/pbrspecularmaterial/properties) | Gets the collection of all properties. |
-| [MAP_SPECULAR](/3d/python-net/aspose.threed.shading/pbrspecularmaterial/MAP_SPECULAR) |  |
-| [MAP_DIFFUSE](/3d/python-net/aspose.threed.shading/pbrspecularmaterial/MAP_DIFFUSE) |  |
-| [MAP_EMISSIVE](/3d/python-net/aspose.threed.shading/pbrspecularmaterial/MAP_EMISSIVE) |  |
-| [MAP_AMBIENT](/3d/python-net/aspose.threed.shading/pbrspecularmaterial/MAP_AMBIENT) |  |
-| [MAP_NORMAL](/3d/python-net/aspose.threed.shading/pbrspecularmaterial/MAP_NORMAL) |  |
+| [MAP_SPECULAR](/3d/python-net/aspose.threed.shading/pbrspecularmaterial/MAP_SPECULAR) | Used in [Material.set_texture(slot_name, texture)](/3d/python-net/aspose.threed.shading/material/set_texture) to assign a specular texture mapping. |
+| [MAP_DIFFUSE](/3d/python-net/aspose.threed.shading/pbrspecularmaterial/MAP_DIFFUSE) | Used in [Material.set_texture(slot_name, texture)](/3d/python-net/aspose.threed.shading/material/set_texture) to assign a diffuse texture mapping. |
+| [MAP_EMISSIVE](/3d/python-net/aspose.threed.shading/pbrspecularmaterial/MAP_EMISSIVE) | Used in [Material.set_texture(slot_name, texture)](/3d/python-net/aspose.threed.shading/material/set_texture) to assign a emissive texture mapping. |
+| [MAP_AMBIENT](/3d/python-net/aspose.threed.shading/pbrspecularmaterial/MAP_AMBIENT) | Used in [Material.set_texture(slot_name, texture)](/3d/python-net/aspose.threed.shading/material/set_texture) to assign a ambient texture mapping. |
+| [MAP_NORMAL](/3d/python-net/aspose.threed.shading/pbrspecularmaterial/MAP_NORMAL) | Used in [Material.set_texture(slot_name, texture)](/3d/python-net/aspose.threed.shading/material/set_texture) to assign a normal texture mapping. |
 | [transparency](/3d/python-net/aspose.threed.shading/pbrspecularmaterial/transparency) | Gets or sets the transparency factor.<br/>The factor should be ranged between 0(0%, fully opaque) and 1(100%, fully transparent)<br/>Any invalid factor value will be clamped. |
 | [normal_texture](/3d/python-net/aspose.threed.shading/pbrspecularmaterial/normal_texture) | Gets or sets the texture of normal mapping |
 | [specular_glossiness_texture](/3d/python-net/aspose.threed.shading/pbrspecularmaterial/specular_glossiness_texture) | Gets or sets the texture for specular color, channel RGB stores the specular color and channel A stores the glossiness. |
@@ -47,7 +47,7 @@ The PbrSpecularMaterial type exposes the following members:
 | [diffuse](/3d/python-net/aspose.threed.shading/pbrspecularmaterial/diffuse) | Gets or sets the diffuse color of the material, default value is (1, 1, 1) |
 | [emissive_texture](/3d/python-net/aspose.threed.shading/pbrspecularmaterial/emissive_texture) | Gets or sets the texture for emissive |
 | [emissive_color](/3d/python-net/aspose.threed.shading/pbrspecularmaterial/emissive_color) | Gets or sets the emissive color, default value is (0, 0, 0) |
-| [MAP_SPECULAR_GLOSSINESS](/3d/python-net/aspose.threed.shading/pbrspecularmaterial/MAP_SPECULAR_GLOSSINESS) |  |
+| [MAP_SPECULAR_GLOSSINESS](/3d/python-net/aspose.threed.shading/pbrspecularmaterial/MAP_SPECULAR_GLOSSINESS) | The texture map for specular glossiness |
 
 
 ### Methods

@@ -12,6 +12,7 @@ is_root: false
 
 Create a preconfigured graphics pipeline with preconfigured shader/render state/vertex declaration and draw operations.
 
+
 ### Returns 
 
 

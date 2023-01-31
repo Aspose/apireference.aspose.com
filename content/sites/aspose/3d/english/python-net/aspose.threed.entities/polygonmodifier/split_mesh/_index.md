@@ -14,6 +14,7 @@ Split mesh into sub-meshes by [VertexElementMaterial](/3d/python-net/aspose.thre
 Each sub-mesh will use only one material.
 The original mesh will not get changed.
 
+
 ### Returns 
 
 

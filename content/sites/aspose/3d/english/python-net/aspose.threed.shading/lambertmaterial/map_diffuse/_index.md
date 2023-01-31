@@ -11,6 +11,8 @@ is_root: false
 ## MAP_DIFFUSE property
 
 
+Used in [Material.set_texture(slot_name, texture)](/3d/python-net/aspose.threed.shading/material/set_texture) to assign a diffuse texture mapping.
+
 ### See Also
 * module [aspose.threed.shading](../../)
 * class [LambertMaterial](/3d/python-net/aspose.threed.shading/lambertmaterial)

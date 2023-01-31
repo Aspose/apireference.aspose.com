@@ -12,6 +12,7 @@ is_root: false
 
 A shorthand function to create and register the animation node on current clip.
 
+
 ### Returns 
 
 

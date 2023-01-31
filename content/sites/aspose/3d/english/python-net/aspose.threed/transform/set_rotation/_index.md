@@ -12,6 +12,7 @@ is_root: false
 
 Sets the rotation(as quaternion components) of current transform.
 
+
 ### Returns 
 
 
@@ -30,6 +31,17 @@ def set_rotation(self, rw, rx, ry, rz):
 | rx | float |  |
 | ry | float |  |
 | rz | float |  |
+
+### Example 
+
+
+```python
+from aspose.threed import Node
+
+node = Node()
+node.transform.set_rotation(1, 0, 0, 0)
+
+```
 
 
 

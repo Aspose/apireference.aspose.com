@@ -12,6 +12,7 @@ is_root: false
 
 Returns a inverse quaternion of current quaternion
 
+
 ### Returns 
 
 

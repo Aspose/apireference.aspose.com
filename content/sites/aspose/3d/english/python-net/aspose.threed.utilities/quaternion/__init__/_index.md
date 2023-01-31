@@ -10,6 +10,8 @@ is_root: false
 
 ## Quaternion() {#}
 
+Constructs a new instance of Quaternion
+
 
 
 ```python

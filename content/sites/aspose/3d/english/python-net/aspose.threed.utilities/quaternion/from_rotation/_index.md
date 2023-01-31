@@ -12,6 +12,7 @@ is_root: false
 
 Creates a quaternion that rotate from original to destination direction
 
+
 ### Returns 
 
 

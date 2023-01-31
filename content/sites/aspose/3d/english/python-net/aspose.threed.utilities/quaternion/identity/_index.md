@@ -11,6 +11,8 @@ is_root: false
 ## IDENTITY property
 
 
+The Identity quaternion.
+
 ### See Also
 * module [aspose.threed.utilities](../../)
 * class [Quaternion](/3d/python-net/aspose.threed.utilities/quaternion)

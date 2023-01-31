@@ -10,6 +10,8 @@ is_root: false
 
 ## Vector4() {#}
 
+Constructs a new instance of Vector4
+
 
 
 ```python
@@ -56,6 +58,8 @@ def __init__(self, vec):
 
 ## Vector4(vec) {#FVector4}
 
+Initializes a new instance of the [Vector4](/3d/python-net/aspose.threed.utilities/vector4) struct.
+
 
 
 ```python
@@ -66,7 +70,7 @@ def __init__(self, vec):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| vec | [FVector4](/3d/python-net/aspose.threed.utilities/fvector4) |  |
+| vec | [FVector4](/3d/python-net/aspose.threed.utilities/fvector4) | Vec. |
 
 
 ## Vector4(vec, w) {#Vector3-float}

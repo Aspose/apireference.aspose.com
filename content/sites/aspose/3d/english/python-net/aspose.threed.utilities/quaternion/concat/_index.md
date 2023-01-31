@@ -12,6 +12,7 @@ is_root: false
 
 Concatenate two quaternions
 
+
 ### Returns 
 
 

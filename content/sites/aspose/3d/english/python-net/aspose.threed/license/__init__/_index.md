@@ -21,6 +21,12 @@ def __init__(self):
 
 
 
+### Example 
+
+
+In this example, an attempt will be made to find a license file named MyLicense.lic
+in the folder that contains
+
 
 
 ### See Also

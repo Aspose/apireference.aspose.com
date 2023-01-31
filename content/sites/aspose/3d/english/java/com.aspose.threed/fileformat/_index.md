@@ -32,6 +32,8 @@ File format definition
 | [FBX7600_BINARY](#FBX7600-BINARY) | Binary FBX file format, with 7.6.0 version |
 | [FBX7700ASCII](#FBX7700ASCII) | ASCII FBX file format, with 7.7.0 version |
 | [FBX7700_BINARY](#FBX7700-BINARY) | Binary FBX file format, with 7.7.0 version |
+| [MAYAASCII](#MAYAASCII) | Autodesk Maya in ASCII format |
+| [MAYA_BINARY](#MAYA-BINARY) | Autodesk Maya in Binary format |
 | [STL_BINARY](#STL-BINARY) | Binary STL file format |
 | [STLASCII](#STLASCII) | ASCII STL file format |
 | [WAVEFRONTOBJ](#WAVEFRONTOBJ) | Wavefront's Obj file format |
@@ -76,7 +78,7 @@ File format definition
 | [getExtensions()](#getExtensions--) | Gets the extension names of this type. |
 | [getContentType()](#getContentType--) | Gets file format content type |
 | [getFileFormatType()](#getFileFormatType--) | Gets file format type |
-| [detect(Stream stream, String fileName)](#detect-com.aspose.threed.Stream-java.lang.String-) | Detect the file format from data stream, file name is optional for guessing types that has no magic header. |
+| [detect(Stream stream, String fileName)](#detect-com.aspose.csporter.helpers.Stream-java.lang.String-) | Detect the file format from data stream, file name is optional for guessing types that has no magic header. |
 | [detect(String fileName)](#detect-java.lang.String-) | Detect the file format from file name, file must be readable so Aspose.3D can detect the file format through file header. |
 | [createLoadOptions()](#createLoadOptions--) | Create a default load options for this file format |
 | [createSaveOptions()](#createSaveOptions--) | Create a default save options for this file format |
@@ -192,6 +194,22 @@ public static final FileFormat FBX7700_BINARY
 
 
 Binary FBX file format, with 7.7.0 version
+
+### MAYAASCII {#MAYAASCII}
+```
+public static final FileFormat MAYAASCII
+```
+
+
+Autodesk Maya in ASCII format
+
+### MAYA_BINARY {#MAYA-BINARY}
+```
+public static final FileFormat MAYA_BINARY
+```
+
+
+Autodesk Maya in Binary format
 
 ### STL_BINARY {#STL-BINARY}
 ```
@@ -458,7 +476,7 @@ public Version getVersion()
 Gets file format version
 
 **Returns:**
-com.aspose.threed.Version
+com.aspose.csporter.helpers.Version
 ### getFormatByExtension(String extensionName) {#getFormatByExtension-java.lang.String-}
 ```
 public static FileFormat getFormatByExtension(String extensionName)
@@ -534,7 +552,7 @@ Gets file format type
 
 **Returns:**
 [FileFormatType](../../com.aspose.threed/fileformattype)
-### detect(Stream stream, String fileName) {#detect-com.aspose.threed.Stream-java.lang.String-}
+### detect(Stream stream, String fileName) {#detect-com.aspose.csporter.helpers.Stream-java.lang.String-}
 ```
 public static FileFormat detect(Stream stream, String fileName)
 ```
@@ -545,7 +563,7 @@ Detect the file format from data stream, file name is optional for guessing type
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| stream | com.aspose.threed.Stream |  |
+| stream | com.aspose.csporter.helpers.Stream |  |
 | fileName | java.lang.String |  |
 
 **Returns:**

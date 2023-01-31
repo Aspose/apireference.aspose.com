@@ -34,11 +34,11 @@ The LambertMaterial type exposes the following members:
 | :- | :- |
 | [name](/3d/python-net/aspose.threed.shading/lambertmaterial/name) | Gets or sets the name. |
 | [properties](/3d/python-net/aspose.threed.shading/lambertmaterial/properties) | Gets the collection of all properties. |
-| [MAP_SPECULAR](/3d/python-net/aspose.threed.shading/lambertmaterial/MAP_SPECULAR) |  |
-| [MAP_DIFFUSE](/3d/python-net/aspose.threed.shading/lambertmaterial/MAP_DIFFUSE) |  |
-| [MAP_EMISSIVE](/3d/python-net/aspose.threed.shading/lambertmaterial/MAP_EMISSIVE) |  |
-| [MAP_AMBIENT](/3d/python-net/aspose.threed.shading/lambertmaterial/MAP_AMBIENT) |  |
-| [MAP_NORMAL](/3d/python-net/aspose.threed.shading/lambertmaterial/MAP_NORMAL) |  |
+| [MAP_SPECULAR](/3d/python-net/aspose.threed.shading/lambertmaterial/MAP_SPECULAR) | Used in [Material.set_texture(slot_name, texture)](/3d/python-net/aspose.threed.shading/material/set_texture) to assign a specular texture mapping. |
+| [MAP_DIFFUSE](/3d/python-net/aspose.threed.shading/lambertmaterial/MAP_DIFFUSE) | Used in [Material.set_texture(slot_name, texture)](/3d/python-net/aspose.threed.shading/material/set_texture) to assign a diffuse texture mapping. |
+| [MAP_EMISSIVE](/3d/python-net/aspose.threed.shading/lambertmaterial/MAP_EMISSIVE) | Used in [Material.set_texture(slot_name, texture)](/3d/python-net/aspose.threed.shading/material/set_texture) to assign a emissive texture mapping. |
+| [MAP_AMBIENT](/3d/python-net/aspose.threed.shading/lambertmaterial/MAP_AMBIENT) | Used in [Material.set_texture(slot_name, texture)](/3d/python-net/aspose.threed.shading/material/set_texture) to assign a ambient texture mapping. |
+| [MAP_NORMAL](/3d/python-net/aspose.threed.shading/lambertmaterial/MAP_NORMAL) | Used in [Material.set_texture(slot_name, texture)](/3d/python-net/aspose.threed.shading/material/set_texture) to assign a normal texture mapping. |
 | [emissive_color](/3d/python-net/aspose.threed.shading/lambertmaterial/emissive_color) | Gets or sets the emissive color |
 | [ambient_color](/3d/python-net/aspose.threed.shading/lambertmaterial/ambient_color) | Gets or sets the ambient color |
 | [diffuse_color](/3d/python-net/aspose.threed.shading/lambertmaterial/diffuse_color) | Gets or sets the diffuse color |

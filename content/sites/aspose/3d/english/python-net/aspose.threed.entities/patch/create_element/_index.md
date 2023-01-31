@@ -12,6 +12,7 @@ is_root: false
 
 Creates a vertex element with specified type and add it to the geometry.
 
+
 ### Returns 
 
 
@@ -34,6 +35,7 @@ If type is [VertexElementType.UV](/3d/python-net/aspose.threed.entities/vertexel
 ## create_element(type, mapping_mode, reference_mode) {#VertexElementType-MappingMode-ReferenceMode}
 
 Creates a vertex element with specified type and add it to the geometry.
+
 
 ### Returns 
 

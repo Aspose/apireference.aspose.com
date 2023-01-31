@@ -10,6 +10,8 @@ is_root: false
 
 ## GLSLSource() {#}
 
+Constructs a new instance of GLSLSource
+
 
 
 ```python

@@ -11,7 +11,7 @@ url: /java/com.aspose.threed/fvector3/
 java.lang.Object
 
 **All Implemented Interfaces:**
-com.aspose.threed.Struct, java.io.Serializable
+com.aspose.csporter.helpers.Struct, java.io.Serializable
 ```
 public final class FVector3 implements Struct<FVector3>, Serializable
 ```

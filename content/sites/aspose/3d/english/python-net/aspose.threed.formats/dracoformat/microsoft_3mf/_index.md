@@ -11,6 +11,8 @@ is_root: false
 ## MICROSOFT_3MF property
 
 
+Microsoft 3D Manufacturing Format
+
 ### See Also
 * module [aspose.threed.formats](../../)
 * class [DracoFormat](/3d/python-net/aspose.threed.formats/dracoformat)

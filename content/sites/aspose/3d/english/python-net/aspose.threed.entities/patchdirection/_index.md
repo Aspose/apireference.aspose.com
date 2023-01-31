@@ -19,7 +19,7 @@ The PatchDirection type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [PatchDirection()](/3d/python-net/aspose.threed.entities/patchdirection/__init__/#) |  |
+| [PatchDirection()](/3d/python-net/aspose.threed.entities/patchdirection/__init__/#) | Constructs a new instance of PatchDirection |
 
 
 ### Properties

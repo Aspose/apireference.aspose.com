@@ -13,6 +13,17 @@ is_root: false
 
 Gets the extension name of this type.
 
+### Example 
+
+
+```python
+from aspose.threed import FileFormat
+
+format = FileFormat.MAYA_BINARY
+print(f"Extension of {format} is {format.extension}")
+
+```
+
 ### See Also
 * module [aspose.threed.formats](../../)
 * class [RvmFormat](/3d/python-net/aspose.threed.formats/rvmformat)

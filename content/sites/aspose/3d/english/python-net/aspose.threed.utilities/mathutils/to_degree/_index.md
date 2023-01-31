@@ -12,6 +12,7 @@ is_root: false
 
 Convert a [Vector3](/3d/python-net/aspose.threed.utilities/vector3) from radian to degree.
 
+
 ### Returns 
 
 
@@ -28,10 +29,22 @@ def to_degree(self, radian):
 | :- | :- | :- |
 | radian | [Vector3](/3d/python-net/aspose.threed.utilities/vector3) | The radian value. |
 
+### Example 
+
+
+```python
+from aspose.threed.utilities import MathUtils, Vector3
+
+degrees = MathUtils.to_degree(Vector3(0.34, 0.9, 0.2))
+print(f"Degrees = {degrees}")
+
+```
+
 
 ## to_degree(radian) {#float}
 
 Convert a number from radian to degree
+
 
 ### Returns 
 
@@ -49,10 +62,22 @@ def to_degree(self, radian):
 | :- | :- | :- |
 | radian | float | The radian value. |
 
+### Example 
+
+
+```python
+from aspose.threed.utilities import MathUtils
+
+deg = MathUtils.to_degree(0.3)
+print(f"Degree = {deg}")
+
+```
+
 
 ## to_degree(radian) {#float}
 
 Convert a number from radian to degree
+
 
 ### Returns 
 
@@ -69,11 +94,23 @@ def to_degree(self, radian):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | radian | float | The radian value. |
+
+### Example 
+
+
+```python
+from aspose.threed.utilities import MathUtils
+
+deg = MathUtils.to_degree(0.3)
+print(f"Degree = {deg}")
+
+```
 
 
 ## to_degree(x, y, z) {#float-float-float}
 
 Convert a number from radian to degree
+
 
 ### Returns 
 

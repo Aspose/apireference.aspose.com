@@ -28,6 +28,17 @@ def set_geometric_rotation(self, rx, ry, rz):
 | ry | float |  |
 | rz | float |  |
 
+### Example 
+
+
+```python
+from aspose.threed import Node
+
+node = Node()
+node.transform.set_geometric_rotation(90, 0, 0)
+
+```
+
 
 
 ### See Also

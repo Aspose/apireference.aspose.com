@@ -19,12 +19,12 @@ The RotationOrder type exposes the following members:
 ### Fields
 | Field | Description |
 | :- | :- |
-| XYZ |  |
-| XZY |  |
-| YZX |  |
-| YXZ |  |
-| ZXY |  |
-| ZYX |  |
+| XYZ | Rotate in X,Y,Z order |
+| XZY | Rotate in X,Z,Y order |
+| YZX | Rotate in Y,Z,X order |
+| YXZ | Rotate in Y,X,Z order |
+| ZXY | Rotate in Z,X,Y order |
+| ZYX | Rotate in Z,Y,X order |
 
 
 ### See Also

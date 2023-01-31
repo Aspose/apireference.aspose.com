@@ -11,6 +11,8 @@ is_root: false
 ## UNIT_SCALE property
 
 
+The unit scale vector with all components are all 1
+
 ### See Also
 * module [aspose.threed.utilities](../../)
 * class [FVector3](/3d/python-net/aspose.threed.utilities/fvector3)

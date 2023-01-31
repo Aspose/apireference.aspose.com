@@ -22,19 +22,19 @@ The Vector4 type exposes the following members:
 | [Vector4(color)](/3d/python-net/aspose.threed.utilities/vector4/__init__/#aspose.pydrawing.Color) | Initializes a new instance of the [Vector4](/3d/python-net/aspose.threed.utilities/vector4) struct. |
 | [Vector4(vec, w)](/3d/python-net/aspose.threed.utilities/vector4/__init__/#Vector3-float) | Initializes a new instance of the [Vector4](/3d/python-net/aspose.threed.utilities/vector4) struct. |
 | [Vector4(vec)](/3d/python-net/aspose.threed.utilities/vector4/__init__/#Vector3) | Initializes a new instance of the [Vector4](/3d/python-net/aspose.threed.utilities/vector4) struct. |
-| [Vector4(vec)](/3d/python-net/aspose.threed.utilities/vector4/__init__/#FVector4) |  |
+| [Vector4(vec)](/3d/python-net/aspose.threed.utilities/vector4/__init__/#FVector4) | Initializes a new instance of the [Vector4](/3d/python-net/aspose.threed.utilities/vector4) struct. |
 | [Vector4(x, y, z)](/3d/python-net/aspose.threed.utilities/vector4/__init__/#float-float-float) | Initializes a new instance of the [Vector4](/3d/python-net/aspose.threed.utilities/vector4) struct. |
 | [Vector4(x, y, z, w)](/3d/python-net/aspose.threed.utilities/vector4/__init__/#float-float-float-float) | Initializes a new instance of the [Vector4](/3d/python-net/aspose.threed.utilities/vector4) struct. |
-| [Vector4()](/3d/python-net/aspose.threed.utilities/vector4/__init__/#) |  |
+| [Vector4()](/3d/python-net/aspose.threed.utilities/vector4/__init__/#) | Constructs a new instance of Vector4 |
 
 
 ### Properties
 | Property | Description |
 | :- | :- |
-| [x](/3d/python-net/aspose.threed.utilities/vector4/x) |  |
-| [y](/3d/python-net/aspose.threed.utilities/vector4/y) |  |
-| [z](/3d/python-net/aspose.threed.utilities/vector4/z) |  |
-| [w](/3d/python-net/aspose.threed.utilities/vector4/w) |  |
+| [x](/3d/python-net/aspose.threed.utilities/vector4/x) | The x component. |
+| [y](/3d/python-net/aspose.threed.utilities/vector4/y) | The y component. |
+| [z](/3d/python-net/aspose.threed.utilities/vector4/z) | The z component. |
+| [w](/3d/python-net/aspose.threed.utilities/vector4/w) | The w component. |
 
 
 ### Methods
@@ -42,7 +42,7 @@ The Vector4 type exposes the following members:
 | :- | :- |
 | [set(new_x, new_y, new_z)](/3d/python-net/aspose.threed.utilities/vector4/set/#float-float-float) | Sets vector's xyz components at a time, w will be set to 1 |
 | [set(new_x, new_y, new_z, new_w)](/3d/python-net/aspose.threed.utilities/vector4/set/#float-float-float-float) | Sets vector's all components at a time |
-| [compare_to(other)](/3d/python-net/aspose.threed.utilities/vector4/compare_to/#Vector4) |  |
+| [compare_to(other)](/3d/python-net/aspose.threed.utilities/vector4/compare_to/#Vector4) | Compare current vector to another instance. |
 
 
 ### See Also

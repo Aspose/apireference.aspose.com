@@ -11,6 +11,8 @@ is_root: false
 ## FBX7600_BINARY property
 
 
+Binary FBX file format, with 7.6.0 version
+
 ### See Also
 * module [aspose.threed.formats](../../)
 * class [PdfFormat](/3d/python-net/aspose.threed.formats/pdfformat)

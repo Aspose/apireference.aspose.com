@@ -11,6 +11,8 @@ is_root: false
 ## GLTF2 property
 
 
+Khronos Group's glTF version 2.0
+
 ### See Also
 * module [aspose.threed.formats](../../)
 * class [PdfFormat](/3d/python-net/aspose.threed.formats/pdfformat)

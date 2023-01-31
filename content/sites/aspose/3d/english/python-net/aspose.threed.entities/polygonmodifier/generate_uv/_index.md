@@ -12,6 +12,7 @@ is_root: false
 
 Generate UV data from the given input mesh
 
+
 ### Returns 
 
 
@@ -32,6 +33,7 @@ def generate_uv(self, mesh):
 ## generate_uv(mesh, normals) {#Mesh-VertexElementNormal}
 
 Generate UV data from the given input mesh and specified normal data.
+
 
 ### Returns 
 

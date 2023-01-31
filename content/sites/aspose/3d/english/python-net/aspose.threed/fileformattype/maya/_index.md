@@ -11,6 +11,8 @@ is_root: false
 ## MAYA property
 
 
+Autodesk Maya format type
+
 ### See Also
 * module [aspose.threed](../../)
 * class [FileFormatType](/3d/python-net/aspose.threed/fileformattype)

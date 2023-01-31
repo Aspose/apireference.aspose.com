@@ -13,6 +13,23 @@ is_root: false
 
 Gets whether Aspose.3D supports import scene from current file format.
 
+### Example 
+
+
+The following code shows how to check if importing from specified format is supported.
+
+```python
+from aspose.threed import FileFormat
+
+outputFormat = ".glb"
+format = FileFormat.get_format_by_extension(outputFormat)
+if format.can_import:
+    print(f"Can import from {outputFormat}")
+
+
+
+```
+
 ### See Also
 * module [aspose.threed.formats](../../)
 * class [DracoFormat](/3d/python-net/aspose.threed.formats/dracoformat)

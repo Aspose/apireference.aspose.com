@@ -13,6 +13,21 @@ is_root: false
 
 Gets the root node of the scene.
 
+### Example 
+
+
+The following code shows how to create a node with Box entity attached to the root node.
+
+```python
+from aspose.threed import Scene
+from aspose.threed.entities import Box
+
+scene = Scene()
+scene.root_node.create_child_node(Box())
+scene.save("box.stl")
+
+```
+
 ### See Also
 * module [aspose.threed](../../)
 * class [Scene](/3d/python-net/aspose.threed/scene)

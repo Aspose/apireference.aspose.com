@@ -12,6 +12,7 @@ is_root: false
 
 Bind the entire buffer to current descriptor
 
+
 ### Returns 
 
 
@@ -33,6 +34,7 @@ def bind(self, buffer):
 
 Bind the texture unit to current descriptor set
 
+
 ### Returns 
 
 
@@ -53,6 +55,7 @@ def bind(self, texture):
 ## bind(binding, buffer) {#int-IBuffer}
 
 Bind the buffer to current descriptor set at specified binding location.
+
 
 ### Returns 
 
@@ -76,6 +79,7 @@ def bind(self, binding, buffer):
 
 Bind the texture unit to current descriptor set
 
+
 ### Returns 
 
 
@@ -97,6 +101,7 @@ def bind(self, binding, texture):
 ## bind(buffer, offset, size) {#IBuffer-int-int}
 
 Bind the buffer to current descriptor set
+
 
 ### Returns 
 
@@ -120,6 +125,7 @@ def bind(self, buffer, offset, size):
 ## bind(binding, buffer, offset, size) {#int-IBuffer-int-int}
 
 Bind the buffer to current descriptor set at specified binding location.
+
 
 ### Returns 
 
