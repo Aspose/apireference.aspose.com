@@ -38,4 +38,19 @@ Die API ist benutzerfreundlich und spart Zeit und Geld, als eine ähnliche Lösu
 Dies sind Links zu einigen nützlichen Ressourcen:
 - [Aspose.3D für Java-API-Referenz](/3d/java/)
 
+## Aspose.3D für Python über .NET
+
+{{% alert color="primary" %}} 
+
+![Aspose.3D für Python über das .NET-Produktlogo](../home_3.png)
+
+Aspose.3D für Python über .NET ist eine funktionsreiche Gameware- und Computer-Aided-Designing (CAD)-API zur Bearbeitung von Dokumenten ohne Abhängigkeiten von 3D-Modellierungs- und Rendering-Software. Die API unterstützt die Dateiformate Discreet3DS, WavefrontOBJ, FBX (ASCII, Binär), STL (ASCII, Binär), Universal3D, Collada, glTF, GLB, PLY, DirectX, Google Draco und mehr. Entwickler können die Inhalte von 3D-Dokumentformaten einfach erstellen, lesen, konvertieren, modifizieren und steuern.
+
+Aspose.3D für Python über die .NET-API ist benutzerfreundlich und kann mit jeder Python-Anwendung so einfach wie das Kopieren bereitgestellt werden, ohne sich um andere bereits installierte Dienste und Module kümmern zu müssen.
+
+{{% /alert %}} 
+
+
+Dies sind Links zu einigen nützlichen Ressourcen:
+- [Aspose.3D für Python über die .NET-API-Referenz](/3d/python-net/)
 

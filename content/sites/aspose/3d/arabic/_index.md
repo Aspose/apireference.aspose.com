@@ -38,4 +38,20 @@ Aspose.3D for .NET هو مشروع مكتبة فئة يمكّن تطبيقات .
 هذه روابط لبعض المصادر المفيدة:
 - [Aspose.3D لمرجع Java API](/3d/java/)
 
+## Aspose.3D لـ Python عبر .NET
+
+{{% alert color="primary" %}} 
+
+![Aspose.3D for Python عبر .NET Product Logo](../home_3.png)
+
+Aspose.3D for Python عبر .NET هي أداة ألعاب غنية بالميزات وواجهة برمجة تطبيقات للتصميم بمساعدة الكمبيوتر (CAD) لمعالجة المستندات دون أي نمذجة ثلاثية الأبعاد وعرض تبعيات البرامج. تدعم واجهة برمجة التطبيقات تنسيقات ملفات Discreet3DS و WavefrontOBJ و FBX (ASCII و Binary) و STL (ASCII و Binary) و Universal3D و Collada و glTF و GLB و PLY و DirectX و Google Draco والمزيد. يمكن للمطورين إنشاء محتوى تنسيقات المستندات ثلاثية الأبعاد وقراءتها وتحويلها وتعديلها والتحكم فيها بسهولة.
+
+Aspose.3D for Python عبر .NET API سهل الاستخدام ويمكن نشره مع أي تطبيق Python بنفس سهولة نسخه دون القلق بشأن الخدمات والوحدات النمطية الأخرى المثبتة بالفعل.
+
+{{% /alert %}} 
+
+
+هذه روابط لبعض المصادر المفيدة:
+- [Aspose.3D for Python عبر .NET API Reference](/3d/python-net/)
+
 
