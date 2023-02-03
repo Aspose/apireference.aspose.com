@@ -42,7 +42,7 @@ API はユーザー フレンドリーであり、同様のソリューション
 
 {{% alert color="primary" %}} 
 
-![Aspose.3D for Python via .NET 製品ロゴ](home_3.png)
+![Aspose.3D for Python via .NET 製品ロゴ](../home_3.png)
 
 Aspose.3D for Python via .NET は、機能豊富なゲームウェアおよびコンピューター支援設計 (CAD) API であり、3D モデリングおよびレンダリング ソフトウェアに依存せずにドキュメントを操作できます。 API は、Discreet3DS、WavefrontOBJ、FBX (ASCII、バイナリ)、STL (ASCII、バイナリ)、Universal3D、Collada、glTF、GLB、PLY、DirectX、Google Draco ファイル形式などをサポートします。 開発者は、3D ドキュメント形式の内容を簡単に作成、読み取り、変換、変更、および制御できます。
 
