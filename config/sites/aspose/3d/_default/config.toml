@@ -93,6 +93,12 @@ defaultContentLang = 'en'
     languageCode = "tr"
     flag = "flag-tr"
     weight = 19
+  [languages.ja]
+    contentDir = 'content/sites/aspose/3d/japanese'
+    languageName = "日本語"
+    languageCode = "ja"
+    flag = "flag-ja"
+    weight = 20
 
 disableKinds = ["taxonomy", "taxonomyTerm"]
 ignoreFiles = ["(?i:readme.md)", '\.spin$']
