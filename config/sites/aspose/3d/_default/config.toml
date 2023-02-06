@@ -111,6 +111,18 @@ defaultContentLang = 'en'
     languageCode = "ko"
     flag = "flag-kr"
     weight = 22
+  [languages.el]
+    contentDir = 'content/sites/aspose/3d/greece'
+    languageName = "  Ελληνικά"
+    languageCode = "el"
+    flag = "flag-gr"
+    weight = 23
+  [languages.id]
+    contentDir = 'content/sites/aspose/3d/indonesian'
+    languageName = "Indonesian"
+    languageCode = "id"
+    flag = "flag-id"
+    weight = 24
 
 disableKinds = ["taxonomy", "taxonomyTerm"]
 ignoreFiles = ["(?i:readme.md)", '\.spin$']
