@@ -12,7 +12,14 @@ is_root: false
 
 
 The pixel's format
+### Definition:
+```python
+@property
+def pixel_format(self):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.render](../../)
+* class [PixelFormat](/3d/python-net/aspose.threed.render/pixelformat)
 * class [TextureData](/3d/python-net/aspose.threed.render/texturedata)

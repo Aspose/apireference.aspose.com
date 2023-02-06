@@ -49,7 +49,9 @@ The GltfSaveOptions type exposes the following members:
 | [draco_compression](/3d/python-net/aspose.threed.formats/gltfsaveoptions/draco_compression) | Gets or sets whether to enable draco compression |
 
 
-### See Also
 
-* module [aspose.threed.formats](../)
+### See Also
+* module [aspose.threed.formats](..)
+* class [GltfSaveOptions](/3d/python-net/aspose.threed.formats/gltfsaveoptions)
+* class [IOConfig](/3d/python-net/aspose.threed.formats/ioconfig)
 * class [SaveOptions](/3d/python-net/aspose.threed.formats/saveoptions)

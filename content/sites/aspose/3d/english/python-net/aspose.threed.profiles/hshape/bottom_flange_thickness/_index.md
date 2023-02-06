@@ -12,6 +12,15 @@ is_root: false
 
 
 Gets or sets the flange thickness of H-shape.
+### Definition:
+```python
+@property
+def bottom_flange_thickness(self):
+    ...
+@bottom_flange_thickness.setter
+def bottom_flange_thickness(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.profiles](../../)

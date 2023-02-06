@@ -12,6 +12,15 @@ is_root: false
 
 
 Gets or sets the file name of attribute list file, exporter will generate a name based on the .rvm file name when this property is undefined, default value is null.
+### Definition:
+```python
+@property
+def attribute_list_file(self):
+    ...
+@attribute_list_file.setter
+def attribute_list_file(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.formats](../../)

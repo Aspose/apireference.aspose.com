@@ -12,7 +12,17 @@ is_root: false
 
 
 The second end point to trim, can be a Cartesian point or a real parameter.
+### Definition:
+```python
+@property
+def second(self):
+    ...
+@second.setter
+def second(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.entities](../../)
+* class [EndPoint](/3d/python-net/aspose.threed.entities/endpoint)
 * class [TrimmedCurve](/3d/python-net/aspose.threed.entities/trimmedcurve)

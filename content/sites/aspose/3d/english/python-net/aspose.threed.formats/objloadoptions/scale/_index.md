@@ -12,6 +12,15 @@ is_root: false
 
 
 Scales on x/y/z axis, default value is 1.0
+### Definition:
+```python
+@property
+def scale(self):
+    ...
+@scale.setter
+def scale(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.formats](../../)

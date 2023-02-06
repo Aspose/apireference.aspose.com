@@ -39,7 +39,9 @@ The XLoadOptions type exposes the following members:
 | [flip_coordinate_system](/3d/python-net/aspose.threed.formats/xloadoptions/flip_coordinate_system) | Flip the coordinate system, this is true by default |
 
 
-### See Also
 
-* module [aspose.threed.formats](../)
+### See Also
+* module [aspose.threed.formats](..)
+* class [IOConfig](/3d/python-net/aspose.threed.formats/ioconfig)
 * class [LoadOptions](/3d/python-net/aspose.threed.formats/loadoptions)
+* class [XLoadOptions](/3d/python-net/aspose.threed.formats/xloadoptions)

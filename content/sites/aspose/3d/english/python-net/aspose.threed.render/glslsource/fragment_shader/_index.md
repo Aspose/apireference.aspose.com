@@ -12,6 +12,15 @@ is_root: false
 
 
 Gets or sets the source code of the fragment shader.
+### Definition:
+```python
+@property
+def fragment_shader(self):
+    ...
+@fragment_shader.setter
+def fragment_shader(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.render](../../)

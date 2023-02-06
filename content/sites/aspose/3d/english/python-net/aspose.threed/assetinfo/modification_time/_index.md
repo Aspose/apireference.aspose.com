@@ -12,6 +12,15 @@ is_root: false
 
 
 Gets or Sets the modification time of this asset
+### Definition:
+```python
+@property
+def modification_time(self):
+    ...
+@modification_time.setter
+def modification_time(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed](../../)

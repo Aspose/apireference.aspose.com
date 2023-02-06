@@ -31,6 +31,6 @@ The IRenderTarget type exposes the following members:
 | [create_viewport(camera)](/3d/python-net/aspose.threed.render/irendertarget/create_viewport/#aspose.threed.entities.Camera) | Create a viewport in specified camera perspective. |
 
 
-### See Also
 
-* module [aspose.threed.render](../)
+### See Also
+* module [aspose.threed.render](..)

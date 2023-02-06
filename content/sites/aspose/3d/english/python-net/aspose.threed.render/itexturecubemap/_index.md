@@ -41,6 +41,7 @@ The ITextureCubemap type exposes the following members:
 | [to_bitmap(side)](/3d/python-net/aspose.threed.render/itexturecubemap/to_bitmap/#CubeFace) | Convert the texture unit to Bitmap instance |
 
 
-### See Also
 
-* module [aspose.threed.render](../)
+### See Also
+* module [aspose.threed.render](..)
+* class [ITextureUnit](/3d/python-net/aspose.threed.render/itextureunit)

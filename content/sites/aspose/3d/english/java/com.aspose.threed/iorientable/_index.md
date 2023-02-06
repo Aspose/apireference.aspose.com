@@ -16,8 +16,8 @@ Orientable entities shall implement this interface.
 | Method | Description |
 | --- | --- |
 | [getDirection()](#getDirection--) | Gets the direction that the entity is looking at. |
-| [setDirection(Vector3 value)](#setDirection-com.aspose.threed.Vector3-) | Sets the direction that the entity is looking at. |
 | [getTarget()](#getTarget--) | Gets the target that the entity is looking at. |
+| [setDirection(Vector3 value)](#setDirection-com.aspose.threed.Vector3-) | Sets the direction that the entity is looking at. |
 | [setTarget(Node value)](#setTarget-com.aspose.threed.Node-) | Sets the target that the entity is looking at. |
 ### getDirection() {#getDirection--}
 ```
@@ -29,6 +29,16 @@ Gets the direction that the entity is looking at.
 
 **Returns:**
 [Vector3](../../com.aspose.threed/vector3)
+### getTarget() {#getTarget--}
+```
+public abstract Node getTarget()
+```
+
+
+Gets the target that the entity is looking at.
+
+**Returns:**
+[Node](../../com.aspose.threed/node)
 ### setDirection(Vector3 value) {#setDirection-com.aspose.threed.Vector3-}
 ```
 public abstract void setDirection(Vector3 value)
@@ -42,16 +52,6 @@ Sets the direction that the entity is looking at.
 | --- | --- | --- |
 | value | [Vector3](../../com.aspose.threed/vector3) | New value |
 
-### getTarget() {#getTarget--}
-```
-public abstract Node getTarget()
-```
-
-
-Gets the target that the entity is looking at.
-
-**Returns:**
-[Node](../../com.aspose.threed/node)
 ### setTarget(Node value) {#setTarget-com.aspose.threed.Node-}
 ```
 public abstract void setTarget(Node value)

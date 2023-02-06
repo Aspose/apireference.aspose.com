@@ -34,4 +34,5 @@ def from_geometry(self, geometry, use_float):
 
 ### See Also
 * module [aspose.threed.utilities](../../)
+* class [Geometry](/3d/python-net/aspose.threed.entities/geometry)
 * class [VertexDeclaration](/3d/python-net/aspose.threed.utilities/vertexdeclaration)

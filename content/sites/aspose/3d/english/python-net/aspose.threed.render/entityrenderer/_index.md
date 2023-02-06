@@ -35,6 +35,8 @@ The EntityRenderer type exposes the following members:
 | [dispose()](/3d/python-net/aspose.threed.render/entityrenderer/dispose/#) | The entity renderer is being disposed, release shared resources. |
 
 
-### See Also
 
-* module [aspose.threed.render](../)
+### See Also
+* module [aspose.threed.render](..)
+* class [EntityRenderer](/3d/python-net/aspose.threed.render/entityrenderer)
+* class [IRenderQueue](/3d/python-net/aspose.threed.render/irenderqueue)

@@ -16,6 +16,15 @@ The separator between object's name and the duplicated counter, default value is
 When scene contains objects that use the same name, Aspose.3D 3DS exporter will generate a different name for the object.
 For example there's two nodes named "Box", the first node will have a name "Box",
 and the second node will get a new name "Box_2" using the default configuration.
+### Definition:
+```python
+@property
+def duplicated_name_separator(self):
+    ...
+@duplicated_name_separator.setter
+def duplicated_name_separator(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.formats](../../)

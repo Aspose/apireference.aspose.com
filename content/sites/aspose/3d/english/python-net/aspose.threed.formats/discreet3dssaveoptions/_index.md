@@ -47,7 +47,9 @@ The Discreet3dsSaveOptions type exposes the following members:
 | [high_precise_color](/3d/python-net/aspose.threed.formats/discreet3dssaveoptions/high_precise_color) | If this is true, the generated 3ds file will use high precise color, means each channel of red/green/blue are in 32bit float.<br/>Otherwise the generated file will use 24bit color, each channel use 8bit byte.<br/>The default value is false, because not all applications supports the high-precise color. |
 
 
-### See Also
 
-* module [aspose.threed.formats](../)
+### See Also
+* module [aspose.threed.formats](..)
+* class [Discreet3dsSaveOptions](/3d/python-net/aspose.threed.formats/discreet3dssaveoptions)
+* class [IOConfig](/3d/python-net/aspose.threed.formats/ioconfig)
 * class [SaveOptions](/3d/python-net/aspose.threed.formats/saveoptions)

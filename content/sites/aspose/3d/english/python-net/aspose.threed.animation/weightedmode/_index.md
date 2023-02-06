@@ -25,6 +25,6 @@ The WeightedMode type exposes the following members:
 | BOTH | Both out and next in tangents are weighted. |
 
 
-### See Also
 
-* module [aspose.threed.animation](../)
+### See Also
+* module [aspose.threed.animation](..)

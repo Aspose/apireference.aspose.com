@@ -12,6 +12,15 @@ is_root: false
 
 
 Quantization bits for position, default value is 14
+### Definition:
+```python
+@property
+def position_bits(self):
+    ...
+@position_bits.setter
+def position_bits(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.formats](../../)

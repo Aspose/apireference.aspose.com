@@ -12,7 +12,17 @@ is_root: false
 
 
 The base profile to construct the geometry.
+### Definition:
+```python
+@property
+def shape(self):
+    ...
+@shape.setter
+def shape(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.entities](../../)
+* class [Profile](/3d/python-net/aspose.threed.profiles/profile)
 * class [SweptAreaSolid](/3d/python-net/aspose.threed.entities/sweptareasolid)

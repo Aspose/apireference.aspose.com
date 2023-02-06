@@ -12,6 +12,15 @@ is_root: false
 
 
 Radius of the dish
+### Definition:
+```python
+@property
+def radius(self):
+    ...
+@radius.setter
+def radius(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.entities](../../)

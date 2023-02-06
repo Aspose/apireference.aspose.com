@@ -63,6 +63,6 @@ The PixelFormat type exposes the following members:
 | R8 | 8-bit pixel format, all bits red. |
 
 
-### See Also
 
-* module [aspose.threed.render](../)
+### See Also
+* module [aspose.threed.render](..)

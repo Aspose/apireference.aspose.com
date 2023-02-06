@@ -111,4 +111,5 @@ def __init__(self, m00, m01, m02, m03, m10, m11, m12, m13, m20, m21, m22, m23, m
 
 ### See Also
 * module [aspose.threed.utilities](../../)
+* class [FMatrix4](/3d/python-net/aspose.threed.utilities/fmatrix4)
 * class [Matrix4](/3d/python-net/aspose.threed.utilities/matrix4)

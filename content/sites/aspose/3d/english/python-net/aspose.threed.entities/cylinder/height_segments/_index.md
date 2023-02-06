@@ -12,6 +12,15 @@ is_root: false
 
 
 Gets or sets the height segments.
+### Definition:
+```python
+@property
+def height_segments(self):
+    ...
+@height_segments.setter
+def height_segments(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.entities](../../)

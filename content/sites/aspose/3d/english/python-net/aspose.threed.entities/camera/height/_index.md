@@ -12,6 +12,15 @@ is_root: false
 
 
 Gets or sets the view plane's height measured in inches
+### Definition:
+```python
+@property
+def height(self):
+    ...
+@height.setter
+def height(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.entities](../../)

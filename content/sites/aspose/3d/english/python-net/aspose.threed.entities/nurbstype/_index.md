@@ -24,6 +24,7 @@ The NurbsType type exposes the following members:
 | PERIODIC | The [NurbsCurve](/3d/python-net/aspose.threed.entities/nurbscurve) is a periodic curve. |
 
 
-### See Also
 
-* module [aspose.threed.entities](../)
+### See Also
+* module [aspose.threed.entities](..)
+* class [NurbsCurve](/3d/python-net/aspose.threed.entities/nurbscurve)

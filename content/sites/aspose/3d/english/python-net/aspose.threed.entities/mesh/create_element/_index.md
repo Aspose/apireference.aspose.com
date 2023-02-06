@@ -62,3 +62,4 @@ If type is [VertexElementType.UV](/3d/python-net/aspose.threed.entities/vertexel
 ### See Also
 * module [aspose.threed.entities](../../)
 * class [Mesh](/3d/python-net/aspose.threed.entities/mesh)
+* class [VertexElementUV](/3d/python-net/aspose.threed.entities/vertexelementuv)

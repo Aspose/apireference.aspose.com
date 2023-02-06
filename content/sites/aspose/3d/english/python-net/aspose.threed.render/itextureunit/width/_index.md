@@ -12,6 +12,12 @@ is_root: false
 
 
 Gets the width of this texture.
+### Definition:
+```python
+@property
+def width(self):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.render](../../)

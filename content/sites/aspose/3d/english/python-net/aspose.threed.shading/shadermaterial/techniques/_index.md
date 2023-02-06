@@ -12,6 +12,12 @@ is_root: false
 
 
 Gets all available techniques defined in this material.
+### Definition:
+```python
+@property
+def techniques(self):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.shading](../../)

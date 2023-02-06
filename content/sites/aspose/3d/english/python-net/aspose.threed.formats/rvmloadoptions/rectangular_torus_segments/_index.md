@@ -12,6 +12,15 @@ is_root: false
 
 
 Gets or sets the number of rectangular torus' radial segments, default value is 20
+### Definition:
+```python
+@property
+def rectangular_torus_segments(self):
+    ...
+@rectangular_torus_segments.setter
+def rectangular_torus_segments(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.formats](../../)

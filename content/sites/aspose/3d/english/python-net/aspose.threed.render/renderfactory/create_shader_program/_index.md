@@ -34,3 +34,4 @@ def create_shader_program(self, shader_source):
 ### See Also
 * module [aspose.threed.render](../../)
 * class [RenderFactory](/3d/python-net/aspose.threed.render/renderfactory)
+* class [ShaderProgram](/3d/python-net/aspose.threed.render/shaderprogram)

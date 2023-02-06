@@ -12,7 +12,17 @@ is_root: false
 
 
 Gets or sets the texture wrap modes in V.
+### Definition:
+```python
+@property
+def wrap_mode_v(self):
+    ...
+@wrap_mode_v.setter
+def wrap_mode_v(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.shading](../../)
 * class [Texture](/3d/python-net/aspose.threed.shading/texture)
+* class [WrapMode](/3d/python-net/aspose.threed.shading/wrapmode)

@@ -12,6 +12,15 @@ is_root: false
 
 
 Gets or sets the version of the rendering API.
+### Definition:
+```python
+@property
+def render_api_version(self):
+    ...
+@render_api_version.setter
+def render_api_version(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.shading](../../)

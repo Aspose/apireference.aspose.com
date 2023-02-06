@@ -12,6 +12,15 @@ is_root: false
 
 
 Gets or sets the radius of the fillet.
+### Definition:
+```python
+@property
+def fillet_radius(self):
+    ...
+@fillet_radius.setter
+def fillet_radius(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.profiles](../../)

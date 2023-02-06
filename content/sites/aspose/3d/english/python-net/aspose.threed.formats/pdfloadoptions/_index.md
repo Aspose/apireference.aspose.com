@@ -39,7 +39,9 @@ The PdfLoadOptions type exposes the following members:
 | [password](/3d/python-net/aspose.threed.formats/pdfloadoptions/password) | The password to unlock the encrypted PDF file. |
 
 
-### See Also
 
-* module [aspose.threed.formats](../)
+### See Also
+* module [aspose.threed.formats](..)
+* class [IOConfig](/3d/python-net/aspose.threed.formats/ioconfig)
 * class [LoadOptions](/3d/python-net/aspose.threed.formats/loadoptions)
+* class [PdfLoadOptions](/3d/python-net/aspose.threed.formats/pdfloadoptions)

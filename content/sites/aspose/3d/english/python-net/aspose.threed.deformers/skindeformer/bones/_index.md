@@ -12,6 +12,12 @@ is_root: false
 
 
 Gets all bones that the skin deformer contains
+### Definition:
+```python
+@property
+def bones(self):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.deformers](../../)

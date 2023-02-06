@@ -37,7 +37,8 @@ The SPIRVSource type exposes the following members:
 | [fragment_shader](/3d/python-net/aspose.threed.render/spirvsource/fragment_shader) | Gets or sets the source code of the fragment shader. |
 
 
-### See Also
 
-* module [aspose.threed.render](../)
+### See Also
+* module [aspose.threed.render](..)
+* class [SPIRVSource](/3d/python-net/aspose.threed.render/spirvsource)
 * class [ShaderSource](/3d/python-net/aspose.threed.render/shadersource)

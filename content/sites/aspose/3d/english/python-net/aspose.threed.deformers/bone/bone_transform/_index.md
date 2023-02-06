@@ -12,7 +12,17 @@ is_root: false
 
 
 Gets or sets the transform matrix of the bone.
+### Definition:
+```python
+@property
+def bone_transform(self):
+    ...
+@bone_transform.setter
+def bone_transform(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.deformers](../../)
 * class [Bone](/3d/python-net/aspose.threed.deformers/bone)
+* class [Matrix4](/3d/python-net/aspose.threed.utilities/matrix4)

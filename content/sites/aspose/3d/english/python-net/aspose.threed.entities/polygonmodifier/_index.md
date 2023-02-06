@@ -40,6 +40,7 @@ The PolygonModifier type exposes the following members:
 | [generate_normal(mesh)](/3d/python-net/aspose.threed.entities/polygonmodifier/generate_normal/#Mesh) | Generate normal data from Mesh definition |
 
 
-### See Also
 
-* module [aspose.threed.entities](../)
+### See Also
+* module [aspose.threed.entities](..)
+* class [VertexElementMaterial](/3d/python-net/aspose.threed.entities/vertexelementmaterial)

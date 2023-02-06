@@ -57,7 +57,10 @@ The SweptAreaSolid type exposes the following members:
 | [to_mesh()](/3d/python-net/aspose.threed.entities/sweptareasolid/to_mesh/#) | Convert current object to mesh |
 
 
-### See Also
 
-* module [aspose.threed.entities](../)
-* class [Entity](/3d/python-net/aspose.threed.entities/entity)
+### See Also
+* module [aspose.threed.entities](..)
+* class [A3DObject](/3d/python-net/aspose.threed/a3dobject)
+* class [Entity](/3d/python-net/aspose.threed/entity)
+* class [SceneObject](/3d/python-net/aspose.threed/sceneobject)
+* class [SweptAreaSolid](/3d/python-net/aspose.threed.entities/sweptareasolid)

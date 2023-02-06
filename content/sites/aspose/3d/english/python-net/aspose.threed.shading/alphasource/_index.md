@@ -24,6 +24,6 @@ The AlphaSource type exposes the following members:
 | FIXED_VALUE | The Alpha is a fixed value which is defined by [TextureBase.alpha](/3d/python-net/aspose.threed.shading/texturebase#alpha) |
 
 
-### See Also
 
-* module [aspose.threed.shading](../)
+### See Also
+* module [aspose.threed.shading](..)

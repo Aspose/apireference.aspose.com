@@ -12,6 +12,15 @@ is_root: false
 
 
 Gets or sets the linear attenuation to calculate the total attenuation of the light
+### Definition:
+```python
+@property
+def linear_attenuation(self):
+    ...
+@linear_attenuation.setter
+def linear_attenuation(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.entities](../../)

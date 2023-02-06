@@ -28,6 +28,6 @@ The IBuffer type exposes the following members:
 | [load_data(data)](/3d/python-net/aspose.threed.render/ibuffer/load_data/#bytes) | Load the data into current buffer |
 
 
-### See Also
 
-* module [aspose.threed.render](../)
+### See Also
+* module [aspose.threed.render](..)

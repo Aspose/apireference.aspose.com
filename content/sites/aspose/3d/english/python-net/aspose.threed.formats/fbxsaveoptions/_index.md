@@ -46,7 +46,11 @@ The FbxSaveOptions type exposes the following members:
 | [generate_vertex_element_material](/3d/python-net/aspose.threed.formats/fbxsaveoptions/generate_vertex_element_material) | Gets or sets whether always generate a [VertexElementMaterial](/3d/python-net/aspose.threed.entities/vertexelementmaterial) for geometries if the attached node contains materials.<br/>This is turned off by default. |
 
 
-### See Also
 
-* module [aspose.threed.formats](../)
+### See Also
+* module [aspose.threed.formats](..)
+* class [FbxSaveOptions](/3d/python-net/aspose.threed.formats/fbxsaveoptions)
+* class [IOConfig](/3d/python-net/aspose.threed.formats/ioconfig)
 * class [SaveOptions](/3d/python-net/aspose.threed.formats/saveoptions)
+* class [Texture](/3d/python-net/aspose.threed.shading/texture)
+* class [VertexElementMaterial](/3d/python-net/aspose.threed.entities/vertexelementmaterial)

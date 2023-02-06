@@ -41,7 +41,9 @@ The Discreet3dsLoadOptions type exposes the following members:
 | [apply_animation_transform](/3d/python-net/aspose.threed.formats/discreet3dsloadoptions/apply_animation_transform) | Gets or sets whether to use the transformation defined in the first frame of animation track. |
 
 
-### See Also
 
-* module [aspose.threed.formats](../)
+### See Also
+* module [aspose.threed.formats](..)
+* class [Discreet3dsLoadOptions](/3d/python-net/aspose.threed.formats/discreet3dsloadoptions)
+* class [IOConfig](/3d/python-net/aspose.threed.formats/ioconfig)
 * class [LoadOptions](/3d/python-net/aspose.threed.formats/loadoptions)

@@ -28,6 +28,15 @@ node.visible = False
 scene.save("output.fbx")
 
 ```
+### Definition:
+```python
+@property
+def visible(self):
+    ...
+@visible.setter
+def visible(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed](../../)

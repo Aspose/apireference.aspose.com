@@ -12,6 +12,15 @@ is_root: false
 
 
 Gets or sets the constant attenuation to calculate the total attenuation of the light
+### Definition:
+```python
+@property
+def constant_attenuation(self):
+    ...
+@constant_attenuation.setter
+def constant_attenuation(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.entities](../../)

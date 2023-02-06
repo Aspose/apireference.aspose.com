@@ -12,6 +12,15 @@ is_root: false
 
 
 Gets or sets the author of this asset
+### Definition:
+```python
+@property
+def author(self):
+    ...
+@author.setter
+def author(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed](../../)

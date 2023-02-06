@@ -71,12 +71,12 @@ from aspose.threed.utilities import Vector3
 
 scene = Scene()
 boxNode = scene.root_node.create_child_node(Box())
-
 # place the box at (10, 0, 0)
 boxNode.transform.translation = Vector3(10, 0, 0)
 
 ```
-### See Also
 
-* module [aspose.threed](../)
+### See Also
+* module [aspose.threed](..)
 * class [A3DObject](/3d/python-net/aspose.threed/a3dobject)
+* class [Transform](/3d/python-net/aspose.threed/transform)

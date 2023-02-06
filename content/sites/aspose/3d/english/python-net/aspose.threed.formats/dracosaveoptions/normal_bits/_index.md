@@ -12,6 +12,15 @@ is_root: false
 
 
 Quantization bits for normal vectors, default value is 10
+### Definition:
+```python
+@property
+def normal_bits(self):
+    ...
+@normal_bits.setter
+def normal_bits(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.formats](../../)

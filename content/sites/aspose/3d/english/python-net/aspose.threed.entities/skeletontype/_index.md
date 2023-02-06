@@ -23,6 +23,7 @@ The SkeletonType type exposes the following members:
 | BONE | The [Skeleton](/3d/python-net/aspose.threed.entities/skeleton) is a bone entity. |
 
 
-### See Also
 
-* module [aspose.threed.entities](../)
+### See Also
+* module [aspose.threed.entities](..)
+* class [Skeleton](/3d/python-net/aspose.threed.entities/skeleton)

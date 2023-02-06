@@ -12,6 +12,15 @@ is_root: false
 
 
 Gets or sets the first radius of the ellipse that measured in the direction of x axis.
+### Definition:
+```python
+@property
+def semi_axis1(self):
+    ...
+@semi_axis1.setter
+def semi_axis1(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.profiles](../../)

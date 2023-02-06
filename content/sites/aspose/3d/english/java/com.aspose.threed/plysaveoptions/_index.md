@@ -18,37 +18,57 @@ Save options for exporting scene as PLY file.
 
 | Constructor | Description |
 | --- | --- |
-| [PlySaveOptions()](#PlySaveOptions--) | Constructor of com.aspose.threed.PlySaveOptions |
-| [PlySaveOptions(FileContentType contentType)](#PlySaveOptions-com.aspose.threed.FileContentType-) | Constructor of com.aspose.threed.PlySaveOptions |
+| [PlySaveOptions()](#PlySaveOptions--) | Constructor of [PlySaveOptions](../../com.aspose.threed/plysaveoptions) |
+| [PlySaveOptions(FileContentType contentType)](#PlySaveOptions-com.aspose.threed.FileContentType-) | Constructor of [PlySaveOptions](../../com.aspose.threed/plysaveoptions) |
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getPointCloud()](#getPointCloud--) | Export the scene as point cloud, the default value is false. |
-| [setPointCloud(boolean value)](#setPointCloud-boolean-) | Export the scene as point cloud, the default value is false. |
-| [getFlipCoordinate()](#getFlipCoordinate--) | Flip the coordinate while saving the scene, default value is true |
-| [setFlipCoordinate(boolean value)](#setFlipCoordinate-boolean-) | Flip the coordinate while saving the scene, default value is true |
-| [getVertexElement()](#getVertexElement--) | The element name for the vertex data, default value is "vertex" |
-| [setVertexElement(String value)](#setVertexElement-java.lang.String-) | The element name for the vertex data, default value is "vertex" |
-| [getPositionComponents()](#getPositionComponents--) | The component names for position data, default value is ("x", "y", "z") |
-| [setPositionComponents(Tuple_3<String,String,String> value)](#setPositionComponents-com.aspose.csporter.helpers.Tuple-3-java.lang.String-java.lang.String-java.lang.String--) | The component names for position data, default value is ("x", "y", "z") |
-| [getNormalComponents()](#getNormalComponents--) | The component names for normal data, default value is ("nx", "ny", "nz") |
-| [setNormalComponents(Tuple_3<String,String,String> value)](#setNormalComponents-com.aspose.csporter.helpers.Tuple-3-java.lang.String-java.lang.String-java.lang.String--) | The component names for normal data, default value is ("nx", "ny", "nz") |
-| [getTextureCoordinateComponents()](#getTextureCoordinateComponents--) | The component names for texture coordinate data, default value is ("u", "v") |
-| [setTextureCoordinateComponents(Tuple_2<String,String> value)](#setTextureCoordinateComponents-com.aspose.csporter.helpers.Tuple-2-java.lang.String-java.lang.String--) | The component names for texture coordinate data, default value is ("u", "v") |
+| [equals(Object arg0)](#equals-java.lang.Object-) |  |
+| [getClass()](#getClass--) |  |
 | [getColorComponents()](#getColorComponents--) | The component names for vertex color, default value is ("red", "green", "blue") |
-| [setColorComponents(Tuple_3<String,String,String> value)](#setColorComponents-com.aspose.csporter.helpers.Tuple-3-java.lang.String-java.lang.String-java.lang.String--) | The component names for vertex color, default value is ("red", "green", "blue") |
+| [getEncoding()](#getEncoding--) | Gets the default encoding for text-based files. |
 | [getFaceElement()](#getFaceElement--) | The element name for the face data, default value is "face" |
-| [setFaceElement(String value)](#setFaceElement-java.lang.String-) | The element name for the face data, default value is "face" |
 | [getFaceProperty()](#getFaceProperty--) | The property name for the face data, default value is "vertex\_index" |
+| [getFileFormat()](#getFileFormat--) | Gets the file format that specified in current Save/Load option. |
+| [getFileName()](#getFileName--) | The file name of the exporting/importing scene. |
+| [getFileSystem()](#getFileSystem--) | Allow user to handle how to manage the external dependencies during load/save. |
+| [getFileSystemFactory()](#getFileSystemFactory--) | Gets the factory class for FileSystem. |
+| [getFlipCoordinate()](#getFlipCoordinate--) | Flip the coordinate while saving the scene, default value is true |
+| [getLookupPaths()](#getLookupPaths--) | Some files like OBJ depends on external file, the lookup paths will allows Aspose.3D to look for external file to load. |
+| [getNormalComponents()](#getNormalComponents--) | The component names for normal data, default value is ("nx", "ny", "nz") |
+| [getPointCloud()](#getPointCloud--) | Export the scene as point cloud, the default value is false. |
+| [getPositionComponents()](#getPositionComponents--) | The component names for position data, default value is ("x", "y", "z") |
+| [getTextureCoordinateComponents()](#getTextureCoordinateComponents--) | The component names for texture coordinate data, default value is ("u", "v") |
+| [getVertexElement()](#getVertexElement--) | The element name for the vertex data, default value is "vertex" |
+| [hashCode()](#hashCode--) |  |
+| [notify()](#notify--) |  |
+| [notifyAll()](#notifyAll--) |  |
+| [setColorComponents(Tuple_3<String,String,String> value)](#setColorComponents-com.aspose.csporter.helpers.Tuple-3-java.lang.String-java.lang.String-java.lang.String--) | The component names for vertex color, default value is ("red", "green", "blue") |
+| [setEncoding(Charset value)](#setEncoding-java.nio.charset.Charset-) | Sets the default encoding for text-based files. |
+| [setFaceElement(String value)](#setFaceElement-java.lang.String-) | The element name for the face data, default value is "face" |
 | [setFaceProperty(String value)](#setFaceProperty-java.lang.String-) | The property name for the face data, default value is "vertex\_index" |
+| [setFileName(String value)](#setFileName-java.lang.String-) | The file name of the exporting/importing scene. |
+| [setFileSystem(FileSystem value)](#setFileSystem-com.aspose.threed.FileSystem-) | Allow user to handle how to manage the external dependencies during load/save. |
+| [setFileSystemFactory(FileSystemFactory value)](#setFileSystemFactory-com.aspose.threed.FileSystemFactory-) | Sets the factory class for FileSystem. |
+| [setFlipCoordinate(boolean value)](#setFlipCoordinate-boolean-) | Flip the coordinate while saving the scene, default value is true |
+| [setLookupPaths(ArrayList<String> value)](#setLookupPaths-java.util.ArrayList-java.lang.String--) | Some files like OBJ depends on external file, the lookup paths will allows Aspose.3D to look for external file to load. |
+| [setNormalComponents(Tuple_3<String,String,String> value)](#setNormalComponents-com.aspose.csporter.helpers.Tuple-3-java.lang.String-java.lang.String-java.lang.String--) | The component names for normal data, default value is ("nx", "ny", "nz") |
+| [setPointCloud(boolean value)](#setPointCloud-boolean-) | Export the scene as point cloud, the default value is false. |
+| [setPositionComponents(Tuple_3<String,String,String> value)](#setPositionComponents-com.aspose.csporter.helpers.Tuple-3-java.lang.String-java.lang.String-java.lang.String--) | The component names for position data, default value is ("x", "y", "z") |
+| [setTextureCoordinateComponents(Tuple_2<String,String> value)](#setTextureCoordinateComponents-com.aspose.csporter.helpers.Tuple-2-java.lang.String-java.lang.String--) | The component names for texture coordinate data, default value is ("u", "v") |
+| [setVertexElement(String value)](#setVertexElement-java.lang.String-) | The element name for the vertex data, default value is "vertex" |
+| [toString()](#toString--) |  |
+| [wait()](#wait--) |  |
+| [wait(long arg0)](#wait-long-) |  |
+| [wait(long arg0, int arg1)](#wait-long-int-) |  |
 ### PlySaveOptions() {#PlySaveOptions--}
 ```
 public PlySaveOptions()
 ```
 
 
-Constructor of com.aspose.threed.PlySaveOptions
+Constructor of [PlySaveOptions](../../com.aspose.threed/plysaveoptions)
 
 ### PlySaveOptions(FileContentType contentType) {#PlySaveOptions-com.aspose.threed.FileContentType-}
 ```
@@ -56,151 +76,38 @@ public PlySaveOptions(FileContentType contentType)
 ```
 
 
-Constructor of com.aspose.threed.PlySaveOptions
+Constructor of [PlySaveOptions](../../com.aspose.threed/plysaveoptions)
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
 | contentType | [FileContentType](../../com.aspose.threed/filecontenttype) |  |
 
-### getPointCloud() {#getPointCloud--}
+### equals(Object arg0) {#equals-java.lang.Object-}
 ```
-public boolean getPointCloud()
+public boolean equals(Object arg0)
 ```
 
 
-Export the scene as point cloud, the default value is false.
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | java.lang.Object |  |
 
 **Returns:**
 boolean
-### setPointCloud(boolean value) {#setPointCloud-boolean-}
+### getClass() {#getClass--}
 ```
-public void setPointCloud(boolean value)
-```
-
-
-Export the scene as point cloud, the default value is false.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | boolean | New value |
-
-### getFlipCoordinate() {#getFlipCoordinate--}
-```
-public boolean getFlipCoordinate()
+public final native Class<?> getClass()
 ```
 
 
-Flip the coordinate while saving the scene, default value is true
+
 
 **Returns:**
-boolean
-### setFlipCoordinate(boolean value) {#setFlipCoordinate-boolean-}
-```
-public void setFlipCoordinate(boolean value)
-```
-
-
-Flip the coordinate while saving the scene, default value is true
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | boolean | New value |
-
-### getVertexElement() {#getVertexElement--}
-```
-public String getVertexElement()
-```
-
-
-The element name for the vertex data, default value is "vertex"
-
-**Returns:**
-java.lang.String
-### setVertexElement(String value) {#setVertexElement-java.lang.String-}
-```
-public void setVertexElement(String value)
-```
-
-
-The element name for the vertex data, default value is "vertex"
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | java.lang.String | New value |
-
-### getPositionComponents() {#getPositionComponents--}
-```
-public Tuple_3<String,String,String> getPositionComponents()
-```
-
-
-The component names for position data, default value is ("x", "y", "z")
-
-**Returns:**
-com.aspose.csporter.helpers.Tuple_3<java.lang.String,java.lang.String,java.lang.String>
-### setPositionComponents(Tuple_3<String,String,String> value) {#setPositionComponents-com.aspose.csporter.helpers.Tuple-3-java.lang.String-java.lang.String-java.lang.String--}
-```
-public void setPositionComponents(Tuple_3<String,String,String> value)
-```
-
-
-The component names for position data, default value is ("x", "y", "z")
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | com.aspose.csporter.helpers.Tuple_3<java.lang.String,java.lang.String,java.lang.String> | New value |
-
-### getNormalComponents() {#getNormalComponents--}
-```
-public Tuple_3<String,String,String> getNormalComponents()
-```
-
-
-The component names for normal data, default value is ("nx", "ny", "nz")
-
-**Returns:**
-com.aspose.csporter.helpers.Tuple_3<java.lang.String,java.lang.String,java.lang.String>
-### setNormalComponents(Tuple_3<String,String,String> value) {#setNormalComponents-com.aspose.csporter.helpers.Tuple-3-java.lang.String-java.lang.String-java.lang.String--}
-```
-public void setNormalComponents(Tuple_3<String,String,String> value)
-```
-
-
-The component names for normal data, default value is ("nx", "ny", "nz")
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | com.aspose.csporter.helpers.Tuple_3<java.lang.String,java.lang.String,java.lang.String> | New value |
-
-### getTextureCoordinateComponents() {#getTextureCoordinateComponents--}
-```
-public Tuple_2<String,String> getTextureCoordinateComponents()
-```
-
-
-The component names for texture coordinate data, default value is ("u", "v")
-
-**Returns:**
-com.aspose.csporter.helpers.Tuple_2<java.lang.String,java.lang.String>
-### setTextureCoordinateComponents(Tuple_2<String,String> value) {#setTextureCoordinateComponents-com.aspose.csporter.helpers.Tuple-2-java.lang.String-java.lang.String--}
-```
-public void setTextureCoordinateComponents(Tuple_2<String,String> value)
-```
-
-
-The component names for texture coordinate data, default value is ("u", "v")
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | com.aspose.csporter.helpers.Tuple_2<java.lang.String,java.lang.String> | New value |
-
+java.lang.Class<?>
 ### getColorComponents() {#getColorComponents--}
 ```
 public Tuple_3<String,String,String> getColorComponents()
@@ -211,6 +118,172 @@ The component names for vertex color, default value is ("red", "green", "blue")
 
 **Returns:**
 com.aspose.csporter.helpers.Tuple_3<java.lang.String,java.lang.String,java.lang.String>
+### getEncoding() {#getEncoding--}
+```
+public Charset getEncoding()
+```
+
+
+Gets the default encoding for text-based files. Default value is null which means the importer/exporter will decide which encoding to use.
+
+**Returns:**
+java.nio.charset.Charset
+### getFaceElement() {#getFaceElement--}
+```
+public String getFaceElement()
+```
+
+
+The element name for the face data, default value is "face"
+
+**Returns:**
+java.lang.String
+### getFaceProperty() {#getFaceProperty--}
+```
+public String getFaceProperty()
+```
+
+
+The property name for the face data, default value is "vertex\_index"
+
+**Returns:**
+java.lang.String
+### getFileFormat() {#getFileFormat--}
+```
+public FileFormat getFileFormat()
+```
+
+
+Gets the file format that specified in current Save/Load option.
+
+**Returns:**
+[FileFormat](../../com.aspose.threed/fileformat)
+### getFileName() {#getFileName--}
+```
+public String getFileName()
+```
+
+
+The file name of the exporting/importing scene. This is optional, but useful when serialize external assets like OBJ's material.
+
+**Returns:**
+java.lang.String
+### getFileSystem() {#getFileSystem--}
+```
+public FileSystem getFileSystem()
+```
+
+
+Allow user to handle how to manage the external dependencies during load/save.
+
+**Returns:**
+[FileSystem](../../com.aspose.threed/filesystem)
+### getFileSystemFactory() {#getFileSystemFactory--}
+```
+public static FileSystemFactory getFileSystemFactory()
+```
+
+
+Gets the factory class for FileSystem. The default factory will create [LocalFileSystem](../../com.aspose.threed/localfilesystem) which is not suitable for server environment.
+
+**Returns:**
+[FileSystemFactory](../../com.aspose.threed/filesystemfactory)
+### getFlipCoordinate() {#getFlipCoordinate--}
+```
+public boolean getFlipCoordinate()
+```
+
+
+Flip the coordinate while saving the scene, default value is true
+
+**Returns:**
+boolean
+### getLookupPaths() {#getLookupPaths--}
+```
+public ArrayList<String> getLookupPaths()
+```
+
+
+Some files like OBJ depends on external file, the lookup paths will allows Aspose.3D to look for external file to load.
+
+**Returns:**
+java.util.ArrayList<java.lang.String>
+### getNormalComponents() {#getNormalComponents--}
+```
+public Tuple_3<String,String,String> getNormalComponents()
+```
+
+
+The component names for normal data, default value is ("nx", "ny", "nz")
+
+**Returns:**
+com.aspose.csporter.helpers.Tuple_3<java.lang.String,java.lang.String,java.lang.String>
+### getPointCloud() {#getPointCloud--}
+```
+public boolean getPointCloud()
+```
+
+
+Export the scene as point cloud, the default value is false.
+
+**Returns:**
+boolean
+### getPositionComponents() {#getPositionComponents--}
+```
+public Tuple_3<String,String,String> getPositionComponents()
+```
+
+
+The component names for position data, default value is ("x", "y", "z")
+
+**Returns:**
+com.aspose.csporter.helpers.Tuple_3<java.lang.String,java.lang.String,java.lang.String>
+### getTextureCoordinateComponents() {#getTextureCoordinateComponents--}
+```
+public Tuple_2<String,String> getTextureCoordinateComponents()
+```
+
+
+The component names for texture coordinate data, default value is ("u", "v")
+
+**Returns:**
+com.aspose.csporter.helpers.Tuple_2<java.lang.String,java.lang.String>
+### getVertexElement() {#getVertexElement--}
+```
+public String getVertexElement()
+```
+
+
+The element name for the vertex data, default value is "vertex"
+
+**Returns:**
+java.lang.String
+### hashCode() {#hashCode--}
+```
+public native int hashCode()
+```
+
+
+
+
+**Returns:**
+int
+### notify() {#notify--}
+```
+public final native void notify()
+```
+
+
+
+
+### notifyAll() {#notifyAll--}
+```
+public final native void notifyAll()
+```
+
+
+
+
 ### setColorComponents(Tuple_3<String,String,String> value) {#setColorComponents-com.aspose.csporter.helpers.Tuple-3-java.lang.String-java.lang.String-java.lang.String--}
 ```
 public void setColorComponents(Tuple_3<String,String,String> value)
@@ -224,16 +297,19 @@ The component names for vertex color, default value is ("red", "green", "blue")
 | --- | --- | --- |
 | value | com.aspose.csporter.helpers.Tuple_3<java.lang.String,java.lang.String,java.lang.String> | New value |
 
-### getFaceElement() {#getFaceElement--}
+### setEncoding(Charset value) {#setEncoding-java.nio.charset.Charset-}
 ```
-public String getFaceElement()
+public void setEncoding(Charset value)
 ```
 
 
-The element name for the face data, default value is "face"
+Sets the default encoding for text-based files. Default value is null which means the importer/exporter will decide which encoding to use.
 
-**Returns:**
-java.lang.String
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | java.nio.charset.Charset | New value |
+
 ### setFaceElement(String value) {#setFaceElement-java.lang.String-}
 ```
 public void setFaceElement(String value)
@@ -247,16 +323,6 @@ The element name for the face data, default value is "face"
 | --- | --- | --- |
 | value | java.lang.String | New value |
 
-### getFaceProperty() {#getFaceProperty--}
-```
-public String getFaceProperty()
-```
-
-
-The property name for the face data, default value is "vertex\_index"
-
-**Returns:**
-java.lang.String
 ### setFaceProperty(String value) {#setFaceProperty-java.lang.String-}
 ```
 public void setFaceProperty(String value)
@@ -269,4 +335,179 @@ The property name for the face data, default value is "vertex\_index"
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | java.lang.String | New value |
+
+### setFileName(String value) {#setFileName-java.lang.String-}
+```
+public void setFileName(String value)
+```
+
+
+The file name of the exporting/importing scene. This is optional, but useful when serialize external assets like OBJ's material.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | java.lang.String | New value |
+
+### setFileSystem(FileSystem value) {#setFileSystem-com.aspose.threed.FileSystem-}
+```
+public void setFileSystem(FileSystem value)
+```
+
+
+Allow user to handle how to manage the external dependencies during load/save.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | [FileSystem](../../com.aspose.threed/filesystem) | New value |
+
+### setFileSystemFactory(FileSystemFactory value) {#setFileSystemFactory-com.aspose.threed.FileSystemFactory-}
+```
+public static void setFileSystemFactory(FileSystemFactory value)
+```
+
+
+Sets the factory class for FileSystem. The default factory will create [LocalFileSystem](../../com.aspose.threed/localfilesystem) which is not suitable for server environment.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | [FileSystemFactory](../../com.aspose.threed/filesystemfactory) | New value |
+
+### setFlipCoordinate(boolean value) {#setFlipCoordinate-boolean-}
+```
+public void setFlipCoordinate(boolean value)
+```
+
+
+Flip the coordinate while saving the scene, default value is true
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | boolean | New value |
+
+### setLookupPaths(ArrayList<String> value) {#setLookupPaths-java.util.ArrayList-java.lang.String--}
+```
+public void setLookupPaths(ArrayList<String> value)
+```
+
+
+Some files like OBJ depends on external file, the lookup paths will allows Aspose.3D to look for external file to load.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | java.util.ArrayList<java.lang.String> | New value |
+
+### setNormalComponents(Tuple_3<String,String,String> value) {#setNormalComponents-com.aspose.csporter.helpers.Tuple-3-java.lang.String-java.lang.String-java.lang.String--}
+```
+public void setNormalComponents(Tuple_3<String,String,String> value)
+```
+
+
+The component names for normal data, default value is ("nx", "ny", "nz")
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | com.aspose.csporter.helpers.Tuple_3<java.lang.String,java.lang.String,java.lang.String> | New value |
+
+### setPointCloud(boolean value) {#setPointCloud-boolean-}
+```
+public void setPointCloud(boolean value)
+```
+
+
+Export the scene as point cloud, the default value is false.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | boolean | New value |
+
+### setPositionComponents(Tuple_3<String,String,String> value) {#setPositionComponents-com.aspose.csporter.helpers.Tuple-3-java.lang.String-java.lang.String-java.lang.String--}
+```
+public void setPositionComponents(Tuple_3<String,String,String> value)
+```
+
+
+The component names for position data, default value is ("x", "y", "z")
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | com.aspose.csporter.helpers.Tuple_3<java.lang.String,java.lang.String,java.lang.String> | New value |
+
+### setTextureCoordinateComponents(Tuple_2<String,String> value) {#setTextureCoordinateComponents-com.aspose.csporter.helpers.Tuple-2-java.lang.String-java.lang.String--}
+```
+public void setTextureCoordinateComponents(Tuple_2<String,String> value)
+```
+
+
+The component names for texture coordinate data, default value is ("u", "v")
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | com.aspose.csporter.helpers.Tuple_2<java.lang.String,java.lang.String> | New value |
+
+### setVertexElement(String value) {#setVertexElement-java.lang.String-}
+```
+public void setVertexElement(String value)
+```
+
+
+The element name for the vertex data, default value is "vertex"
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | java.lang.String | New value |
+
+### toString() {#toString--}
+```
+public String toString()
+```
+
+
+
+
+**Returns:**
+java.lang.String
+### wait() {#wait--}
+```
+public final void wait()
+```
+
+
+
+
+### wait(long arg0) {#wait-long-}
+```
+public final native void wait(long arg0)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+
+### wait(long arg0, int arg1) {#wait-long-int-}
+```
+public final void wait(long arg0, int arg1)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+| arg1 | int |  |
 

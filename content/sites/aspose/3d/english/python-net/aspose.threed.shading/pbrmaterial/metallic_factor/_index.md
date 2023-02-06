@@ -12,6 +12,15 @@ is_root: false
 
 
 Gets or sets the metalness of the material, value of 1 means the material is a metal and value of 0 means the material is a dielectric.
+### Definition:
+```python
+@property
+def metallic_factor(self):
+    ...
+@metallic_factor.setter
+def metallic_factor(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.shading](../../)

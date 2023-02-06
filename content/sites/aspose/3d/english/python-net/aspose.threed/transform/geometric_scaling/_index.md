@@ -26,7 +26,17 @@ node = Node()
 node.transform.geometric_scaling = Vector3(2, 2, 2)
 
 ```
+### Definition:
+```python
+@property
+def geometric_scaling(self):
+    ...
+@geometric_scaling.setter
+def geometric_scaling(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed](../../)
 * class [Transform](/3d/python-net/aspose.threed/transform)
+* class [Vector3](/3d/python-net/aspose.threed.utilities/vector3)

@@ -23,6 +23,6 @@ The CurveDimension type exposes the following members:
 | THREE_DIMENSIONAL | The curves are three dimensional points. |
 
 
-### See Also
 
-* module [aspose.threed.entities](../)
+### See Also
+* module [aspose.threed.entities](..)

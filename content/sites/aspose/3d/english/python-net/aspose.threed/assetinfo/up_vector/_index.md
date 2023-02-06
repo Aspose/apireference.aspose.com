@@ -12,6 +12,15 @@ is_root: false
 
 
 Gets or sets the up-vector used in this asset.
+### Definition:
+```python
+@property
+def up_vector(self):
+    ...
+@up_vector.setter
+def up_vector(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed](../../)

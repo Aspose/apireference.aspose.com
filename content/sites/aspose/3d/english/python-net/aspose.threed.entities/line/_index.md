@@ -61,7 +61,12 @@ The Line type exposes the following members:
 | [make_default_indices()](/3d/python-net/aspose.threed.entities/line/make_default_indices/#) | Generate the sequence 0,1,2,3....[Geometry.control_points](/3d/python-net/aspose.threed.entities/geometry#control_points).Length-1 to [Line.segments](/3d/python-net/aspose.threed.entities/line#segments) so the ControlPoints can be used as a single line |
 
 
-### See Also
 
-* module [aspose.threed.entities](../)
+### See Also
+* module [aspose.threed.entities](..)
+* class [A3DObject](/3d/python-net/aspose.threed/a3dobject)
 * class [Curve](/3d/python-net/aspose.threed.entities/curve)
+* class [Entity](/3d/python-net/aspose.threed/entity)
+* class [Line](/3d/python-net/aspose.threed.entities/line)
+* class [NurbsCurve](/3d/python-net/aspose.threed.entities/nurbscurve)
+* class [SceneObject](/3d/python-net/aspose.threed/sceneobject)

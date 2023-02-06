@@ -12,6 +12,15 @@ is_root: false
 
 
 Gets or sets the limb node size that used in CAD software to represent the size of the bone.
+### Definition:
+```python
+@property
+def size(self):
+    ...
+@size.setter
+def size(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.entities](../../)

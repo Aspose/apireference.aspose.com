@@ -56,7 +56,11 @@ The CompositeCurve type exposes the following members:
 | [add_segment(curve, same_direction)](/3d/python-net/aspose.threed.entities/compositecurve/add_segment/#Curve-bool) | The |
 
 
-### See Also
 
-* module [aspose.threed.entities](../)
+### See Also
+* module [aspose.threed.entities](..)
+* class [A3DObject](/3d/python-net/aspose.threed/a3dobject)
+* class [CompositeCurve](/3d/python-net/aspose.threed.entities/compositecurve)
 * class [Curve](/3d/python-net/aspose.threed.entities/curve)
+* class [Entity](/3d/python-net/aspose.threed/entity)
+* class [SceneObject](/3d/python-net/aspose.threed/sceneobject)

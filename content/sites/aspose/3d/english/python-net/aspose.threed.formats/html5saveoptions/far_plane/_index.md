@@ -12,6 +12,15 @@ is_root: false
 
 
 Gets or sets the far plane of the camera, default value is 1000.
+### Definition:
+```python
+@property
+def far_plane(self):
+    ...
+@far_plane.setter
+def far_plane(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.formats](../../)

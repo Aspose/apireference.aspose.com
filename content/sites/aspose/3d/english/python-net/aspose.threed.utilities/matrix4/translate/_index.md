@@ -67,20 +67,6 @@ def translate(self, tx, ty, tz):
 | ty | float | Y-coordinate offset |
 | tz | float | Z-coordinate offset |
 
-### Example 
-
-
-The following code shows how to create a matrix for translate operation.
-
-```python
-from aspose.threed.utilities import Matrix4, Vector3
-
-t = Matrix4.translate(10, 0, 0)
-pos = Vector3(1, 1, 10)
-print(f"Transformed: {t * pos}")
-
-```
-
 
 
 ### See Also

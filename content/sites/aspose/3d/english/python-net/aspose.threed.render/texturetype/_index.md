@@ -26,6 +26,7 @@ The TextureType type exposes the following members:
 | ARRAY_2D | Multiple set of 2d textures |
 
 
-### See Also
 
-* module [aspose.threed.render](../)
+### See Also
+* module [aspose.threed.render](..)
+* class [ITextureUnit](/3d/python-net/aspose.threed.render/itextureunit)

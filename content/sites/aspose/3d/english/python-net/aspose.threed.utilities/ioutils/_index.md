@@ -16,6 +16,6 @@ Utilities to write matrix/vector to binary writer
 
 The IOUtils type exposes the following members:
 
-### See Also
 
-* module [aspose.threed.utilities](../)
+### See Also
+* module [aspose.threed.utilities](..)

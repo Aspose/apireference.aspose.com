@@ -35,27 +35,7 @@ The LocalFileSystem type exposes the following members:
 
 
 
-### Example 
-
-
-The following code shows how to import file, and provide dependent files in a given directory
-
-```python
-from aspose.threed import FileFormat, Scene
-from aspose.threed.utilities import LocalFileSystem
-
-inputFile = "input.fbx"
-format = FileFormat.detect(inputFile)
-
-# create a load options instance and specify a zip file system
-opt = format.create_load_options()
-opt.file_system = LocalFileSystem("textures/")
-
-# load the file
-scene = Scene.from_file(inputFile, opt)
-
-```
 ### See Also
-
-* module [aspose.threed.utilities](../)
+* module [aspose.threed.utilities](..)
 * class [FileSystem](/3d/python-net/aspose.threed.utilities/filesystem)
+* class [LocalFileSystem](/3d/python-net/aspose.threed.utilities/localfilesystem)

@@ -21,30 +21,36 @@ The end point to trim the curve, can be a parameter value or a Cartesian point.
 
 | Constructor | Description |
 | --- | --- |
-| [EndPoint(Vector3 point)](#EndPoint-com.aspose.threed.Vector3-) | Construct a com.aspose.threed.EndPoint from a Cartesian point. |
-| [EndPoint(double v)](#EndPoint-double-) | Construct a com.aspose.threed.EndPoint from a real parameter. |
+| [EndPoint(Vector3 point)](#EndPoint-com.aspose.threed.Vector3-) | Construct a [EndPoint](../../com.aspose.threed/endpoint) from a Cartesian point. |
+| [EndPoint(double v)](#EndPoint-double-) | Construct a [EndPoint](../../com.aspose.threed/endpoint) from a real parameter. |
 | [EndPoint()](#EndPoint--) |  |
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [fromDegree(double degree)](#fromDegree-double-) | Create an end point measured in degree. |
-| [fromRadian(double degree)](#fromRadian-double-) | Create an end point measured in radian. |
-| [isCartesianPoint()](#isCartesianPoint--) | Is the end point a Cartesian point? |
-| [getAsPoint()](#getAsPoint--) | Gets the end point as Cartesian point, or thrown an exception. |
-| [getAsValue()](#getAsValue--) | Gets the end point as a real parameter, or throw an exception. |
-| [toString()](#toString--) | Returns a string representation of the current end point. |
 | [clone()](#clone--) |  |
 | [copyFrom(EndPoint src)](#copyFrom-com.aspose.threed.EndPoint-) |  |
-| [hashCode()](#hashCode--) |  |
 | [equals(Object obj)](#equals-java.lang.Object-) |  |
+| [fromDegree(double degree)](#fromDegree-double-) | Create an end point measured in degree. |
+| [fromRadian(double degree)](#fromRadian-double-) | Create an end point measured in radian. |
+| [getAsPoint()](#getAsPoint--) | Gets the end point as Cartesian point, or thrown an exception. |
+| [getAsValue()](#getAsValue--) | Gets the end point as a real parameter, or throw an exception. |
+| [getClass()](#getClass--) |  |
+| [hashCode()](#hashCode--) |  |
+| [isCartesianPoint()](#isCartesianPoint--) | Is the end point a Cartesian point? |
+| [notify()](#notify--) |  |
+| [notifyAll()](#notifyAll--) |  |
+| [toString()](#toString--) | Returns a string representation of the current end point. |
+| [wait()](#wait--) |  |
+| [wait(long arg0)](#wait-long-) |  |
+| [wait(long arg0, int arg1)](#wait-long-int-) |  |
 ### EndPoint(Vector3 point) {#EndPoint-com.aspose.threed.Vector3-}
 ```
 public EndPoint(Vector3 point)
 ```
 
 
-Construct a com.aspose.threed.EndPoint from a Cartesian point.
+Construct a [EndPoint](../../com.aspose.threed/endpoint) from a Cartesian point.
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -57,7 +63,7 @@ public EndPoint(double v)
 ```
 
 
-Construct a com.aspose.threed.EndPoint from a real parameter.
+Construct a [EndPoint](../../com.aspose.threed/endpoint) from a real parameter.
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -70,6 +76,44 @@ public EndPoint()
 ```
 
 
+### clone() {#clone--}
+```
+public EndPoint clone()
+```
+
+
+
+
+**Returns:**
+[EndPoint](../../com.aspose.threed/endpoint)
+### copyFrom(EndPoint src) {#copyFrom-com.aspose.threed.EndPoint-}
+```
+public void copyFrom(EndPoint src)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| src | [EndPoint](../../com.aspose.threed/endpoint) |  |
+
+### equals(Object obj) {#equals-java.lang.Object-}
+```
+public boolean equals(Object obj)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| obj | java.lang.Object |  |
+
+**Returns:**
+boolean
 ### fromDegree(double degree) {#fromDegree-double-}
 ```
 public static EndPoint fromDegree(double degree)
@@ -100,16 +144,6 @@ Create an end point measured in radian.
 
 **Returns:**
 [EndPoint](../../com.aspose.threed/endpoint)
-### isCartesianPoint() {#isCartesianPoint--}
-```
-public boolean isCartesianPoint()
-```
-
-
-Is the end point a Cartesian point?
-
-**Returns:**
-boolean
 ### getAsPoint() {#getAsPoint--}
 ```
 public Vector3 getAsPoint()
@@ -130,39 +164,16 @@ Gets the end point as a real parameter, or throw an exception.
 
 **Returns:**
 double
-### toString() {#toString--}
+### getClass() {#getClass--}
 ```
-public String toString()
-```
-
-
-Returns a string representation of the current end point.
-
-**Returns:**
-java.lang.String
-### clone() {#clone--}
-```
-public EndPoint clone()
+public final native Class<?> getClass()
 ```
 
 
 
 
 **Returns:**
-[EndPoint](../../com.aspose.threed/endpoint)
-### copyFrom(EndPoint src) {#copyFrom-com.aspose.threed.EndPoint-}
-```
-public void copyFrom(EndPoint src)
-```
-
-
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| src | [EndPoint](../../com.aspose.threed/endpoint) |  |
-
+java.lang.Class<?>
 ### hashCode() {#hashCode--}
 ```
 public int hashCode()
@@ -173,9 +184,53 @@ public int hashCode()
 
 **Returns:**
 int
-### equals(Object obj) {#equals-java.lang.Object-}
+### isCartesianPoint() {#isCartesianPoint--}
 ```
-public boolean equals(Object obj)
+public boolean isCartesianPoint()
+```
+
+
+Is the end point a Cartesian point?
+
+**Returns:**
+boolean
+### notify() {#notify--}
+```
+public final native void notify()
+```
+
+
+
+
+### notifyAll() {#notifyAll--}
+```
+public final native void notifyAll()
+```
+
+
+
+
+### toString() {#toString--}
+```
+public String toString()
+```
+
+
+Returns a string representation of the current end point.
+
+**Returns:**
+java.lang.String
+### wait() {#wait--}
+```
+public final void wait()
+```
+
+
+
+
+### wait(long arg0) {#wait-long-}
+```
+public final native void wait(long arg0)
 ```
 
 
@@ -184,7 +239,19 @@ public boolean equals(Object obj)
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| obj | java.lang.Object |  |
+| arg0 | long |  |
 
-**Returns:**
-boolean
+### wait(long arg0, int arg1) {#wait-long-int-}
+```
+public final void wait(long arg0, int arg1)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+| arg1 | int |  |
+

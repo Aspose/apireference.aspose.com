@@ -12,6 +12,15 @@ is_root: false
 
 
 Gets or sets the length of girth.
+### Definition:
+```python
+@property
+def girth(self):
+    ...
+@girth.setter
+def girth(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.profiles](../../)

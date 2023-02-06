@@ -16,6 +16,6 @@ The source code of shader
 
 The ShaderSource type exposes the following members:
 
-### See Also
 
-* module [aspose.threed.render](../)
+### See Also
+* module [aspose.threed.render](..)

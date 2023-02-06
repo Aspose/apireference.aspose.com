@@ -12,6 +12,15 @@ is_root: false
 
 
 Gets or sets the length of the phi.
+### Definition:
+```python
+@property
+def phi_length(self):
+    ...
+@phi_length.setter
+def phi_length(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.entities](../../)

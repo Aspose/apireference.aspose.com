@@ -12,6 +12,12 @@ is_root: false
 
 
 Gets the segments of the line
+### Definition:
+```python
+@property
+def segments(self):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.entities](../../)

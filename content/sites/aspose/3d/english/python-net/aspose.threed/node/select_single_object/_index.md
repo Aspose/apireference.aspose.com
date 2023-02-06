@@ -53,13 +53,10 @@ s.root_node.create_child_node("b")
 c = s.root_node.create_child_node("c")
 c.create_child_node("c1").add_entity(Camera("cam"))
 c.create_child_node("c2").add_entity(Light("light"))
-
 # Select single camera object under the child nodes of node named 'c' under the root node
 c1 = s.root_node.select_single_object("/c/*/<Camera>")
-
 #  Select node named 'a1' under the root node, even if the 'a1' is not a directly child node of the
 obj = s.root_node.select_single_object("a1")
-
 # Select the node itself, since the '/' is selected directly on the root node, so the root node is selected.
 obj = s.root_node.select_single_object("/")
 
@@ -70,3 +67,4 @@ obj = s.root_node.select_single_object("/")
 ### See Also
 * module [aspose.threed](../../)
 * class [Node](/3d/python-net/aspose.threed/node)
+* class [ParseException](/3d/python-net/aspose.threed.utilities/parseexception)

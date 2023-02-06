@@ -12,6 +12,12 @@ is_root: false
 
 
 Gets the meta data defined in this node.
+### Definition:
+```python
+@property
+def meta_datas(self):
+    ...
+```
 
 ### See Also
 * module [aspose.threed](../../)

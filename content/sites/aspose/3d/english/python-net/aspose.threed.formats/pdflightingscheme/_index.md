@@ -33,6 +33,6 @@ The PdfLightingScheme type exposes the following members:
 | HEADLAMP | Single infinite light attached to the camera, low ambient term |
 
 
-### See Also
 
-* module [aspose.threed.formats](../)
+### See Also
+* module [aspose.threed.formats](..)

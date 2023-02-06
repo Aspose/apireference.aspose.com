@@ -46,12 +46,11 @@ format = FileFormat.get_format_by_extension(outputFormat)
 with BytesIO() as ms:
     scene.save(ms, format)
 
-
-
 ```
 
 
 
 ### See Also
 * module [aspose.threed.formats](../../)
+* class [FileFormat](/3d/python-net/aspose.threed/fileformat)
 * class [PlyFormat](/3d/python-net/aspose.threed.formats/plyformat)

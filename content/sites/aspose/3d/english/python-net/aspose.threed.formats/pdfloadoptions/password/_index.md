@@ -12,6 +12,15 @@ is_root: false
 
 
 The password to unlock the encrypted PDF file.
+### Definition:
+```python
+@property
+def password(self):
+    ...
+@password.setter
+def password(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.formats](../../)

@@ -12,7 +12,17 @@ is_root: false
 
 
 Gets or sets the shader that used to render the lambert material
+### Definition:
+```python
+@property
+def lambert(self):
+    ...
+@lambert.setter
+def lambert(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.render](../../)
+* class [ShaderProgram](/3d/python-net/aspose.threed.render/shaderprogram)
 * class [ShaderSet](/3d/python-net/aspose.threed.render/shaderset)

@@ -12,6 +12,15 @@ is_root: false
 
 
 Gets or sets whether export all lights in the scene.
+### Definition:
+```python
+@property
+def export_light(self):
+    ...
+@export_light.setter
+def export_light(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.formats](../../)

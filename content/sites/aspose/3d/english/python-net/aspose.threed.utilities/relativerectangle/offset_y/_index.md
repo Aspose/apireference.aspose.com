@@ -12,6 +12,15 @@ is_root: false
 
 
 Gets or sets the offset for coordinate Y
+### Definition:
+```python
+@property
+def offset_y(self):
+    ...
+@offset_y.setter
+def offset_y(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.utilities](../../)

@@ -12,7 +12,17 @@ is_root: false
 
 
 Gets or sets the camera's aperture mode
+### Definition:
+```python
+@property
+def aperture_mode(self):
+    ...
+@aperture_mode.setter
+def aperture_mode(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.entities](../../)
+* class [ApertureMode](/3d/python-net/aspose.threed.entities/aperturemode)
 * class [Camera](/3d/python-net/aspose.threed.entities/camera)

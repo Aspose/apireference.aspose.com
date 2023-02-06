@@ -12,7 +12,14 @@ is_root: false
 
 
 Gets the collection of all properties.
+### Definition:
+```python
+@property
+def properties(self):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.deformers](../../)
 * class [Bone](/3d/python-net/aspose.threed.deformers/bone)
+* class [PropertyCollection](/3d/python-net/aspose.threed/propertycollection)

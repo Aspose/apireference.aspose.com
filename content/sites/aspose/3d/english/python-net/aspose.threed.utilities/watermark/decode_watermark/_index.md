@@ -42,11 +42,11 @@ def decode_watermark(self, input, password):
 The following code shows how to decode a blind watermark from a mesh saved in 3D file
 
 ```python
-from aspose import pycore
 from aspose.threed import FileFormat
 from aspose.threed.utilities import Watermark
+import aspose.pycore
 
-mesh = pycore.cast(Aspose.ThreeD.Entities.Mesh, FileFormat.PLY.decode("test.ply", None))
+mesh = aspose.pycore.cast(Aspose.ThreeD.Entities.Mesh, FileFormat.PLY.decode("test.ply", None))
 watermark = Watermark.decode_watermark(mesh, "password")
 
 ```

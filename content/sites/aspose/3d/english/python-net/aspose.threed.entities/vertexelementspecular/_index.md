@@ -48,7 +48,9 @@ The VertexElementSpecular type exposes the following members:
 | [set_data(data)](/3d/python-net/aspose.threed.entities/vertexelementspecular/set_data/#list) | Load data |
 
 
-### See Also
 
-* module [aspose.threed.entities](../)
+### See Also
+* module [aspose.threed.entities](..)
+* class [VertexElement](/3d/python-net/aspose.threed.entities/vertexelement)
+* class [VertexElementSpecular](/3d/python-net/aspose.threed.entities/vertexelementspecular)
 * class [VertexElementVector4](/3d/python-net/aspose.threed.entities/vertexelementvector4)

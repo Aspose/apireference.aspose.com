@@ -12,7 +12,14 @@ is_root: false
 
 
 Alias annotated by attribute [SemanticAttribute](/3d/python-net/aspose.threed.utilities/semanticattribute)
+### Definition:
+```python
+@property
+def alias(self):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.utilities](../../)
+* class [SemanticAttribute](/3d/python-net/aspose.threed.utilities/semanticattribute)
 * class [VertexField](/3d/python-net/aspose.threed.utilities/vertexfield)

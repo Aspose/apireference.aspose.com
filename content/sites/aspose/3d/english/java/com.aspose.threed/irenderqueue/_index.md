@@ -29,6 +29,6 @@ Add render task to the render queue.
 | --- | --- | --- |
 | groupId | [RenderQueueGroupId](../../com.aspose.threed/renderqueuegroupid) | Which group of the queue the render task will be in |
 | pipeline | [IPipeline](../../com.aspose.threed/ipipeline) | The pipeline instance used for this render task |
-| renderableResource | java.lang.Object | Custom object that will be sent to com.aspose.threed.EntityRenderer |
+| renderableResource | java.lang.Object | Custom object that will be sent to [EntityRenderer](../../com.aspose.threed/entityrenderer) |
 | subEntity | int | The index of sub entities, useful when the entity is consisting of more than one sub renderable components. |
 

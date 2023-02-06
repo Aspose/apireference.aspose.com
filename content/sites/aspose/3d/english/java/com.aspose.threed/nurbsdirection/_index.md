@@ -1,7 +1,7 @@
 ---
 title: NurbsDirection
 second_title: Aspose.3D for Java API Reference
-description: A 3D com.aspose.threed.NurbsSurface has two direction the com.aspose.threed.NurbsSurfacegetU and com.aspose.threed.NurbsSurfacegetV the com.aspose.threed.NurbsDirection defines data for each direction.
+description: A 3D  has two direction the  and  the  defines data for each direction.
 type: docs
 weight: 100
 url: /java/com.aspose.threed/nurbsdirection/
@@ -13,7 +13,7 @@ java.lang.Object
 public class NurbsDirection
 ```
 
-A 3D com.aspose.threed.NurbsSurface has two direction, the com.aspose.threed.NurbsSurface\#getU and com.aspose.threed.NurbsSurface\#getV, the com.aspose.threed.NurbsDirection defines data for each direction. A direction is actually a NURBS curve, that means it's also defined by its com.aspose.threed.NurbsDirection\#getOrder, a com.aspose.threed.NurbsDirection\#getKnotVectors, and a set of weighted control points(defined in com.aspose.threed.NurbsSurface).
+A 3D [NurbsSurface](../../com.aspose.threed/nurbssurface) has two direction, the [NurbsSurface.getU](../../com.aspose.threed/nurbssurface\#getU) and [NurbsSurface.getV](../../com.aspose.threed/nurbssurface\#getV), the [NurbsDirection](../../com.aspose.threed/nurbsdirection) defines data for each direction. A direction is actually a NURBS curve, that means it's also defined by its [getOrder](../../com.aspose.threed/nurbsdirection\#getOrder), a [getKnotVectors](../../com.aspose.threed/nurbsdirection\#getKnotVectors), and a set of weighted control points(defined in [NurbsSurface](../../com.aspose.threed/nurbssurface)).
 ## Constructors
 
 | Constructor | Description |
@@ -23,22 +23,76 @@ A 3D com.aspose.threed.NurbsSurface has two direction, the com.aspose.threed.Nur
 
 | Method | Description |
 | --- | --- |
+| [equals(Object arg0)](#equals-java.lang.Object-) |  |
+| [getClass()](#getClass--) |  |
+| [getCount()](#getCount--) | Gets the count of control points in current direction. |
+| [getDivisions()](#getDivisions--) | Gets the number of divisions between adjacent control points in current direction. |
 | [getKnotVectors()](#getKnotVectors--) | Gets the knot vector, it is a sequence of parameter values that determines where and how the control points affect the NURBS curve. |
 | [getMultiplicity()](#getMultiplicity--) | Gets the multiplicity. |
 | [getOrder()](#getOrder--) | Gets the order of a NURBS curve, it defines the number of nearby control points that influence any given point on the curve. |
-| [setOrder(int value)](#setOrder-int-) | Sets the order of a NURBS curve, it defines the number of nearby control points that influence any given point on the curve. |
-| [getDivisions()](#getDivisions--) | Gets the number of divisions between adjacent control points in current direction. |
-| [setDivisions(int value)](#setDivisions-int-) | Sets the number of divisions between adjacent control points in current direction. |
 | [getType()](#getType--) | Gets the type of the current direction. |
-| [setType(NurbsType value)](#setType-com.aspose.threed.NurbsType-) | Sets the type of the current direction. |
-| [getCount()](#getCount--) | Gets the count of control points in current direction. |
+| [hashCode()](#hashCode--) |  |
+| [notify()](#notify--) |  |
+| [notifyAll()](#notifyAll--) |  |
 | [setCount(int value)](#setCount-int-) | Sets the count of control points in current direction. |
+| [setDivisions(int value)](#setDivisions-int-) | Sets the number of divisions between adjacent control points in current direction. |
+| [setOrder(int value)](#setOrder-int-) | Sets the order of a NURBS curve, it defines the number of nearby control points that influence any given point on the curve. |
+| [setType(NurbsType value)](#setType-com.aspose.threed.NurbsType-) | Sets the type of the current direction. |
+| [toString()](#toString--) |  |
+| [wait()](#wait--) |  |
+| [wait(long arg0)](#wait-long-) |  |
+| [wait(long arg0, int arg1)](#wait-long-int-) |  |
 ### NurbsDirection() {#NurbsDirection--}
 ```
 public NurbsDirection()
 ```
 
 
+### equals(Object arg0) {#equals-java.lang.Object-}
+```
+public boolean equals(Object arg0)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | java.lang.Object |  |
+
+**Returns:**
+boolean
+### getClass() {#getClass--}
+```
+public final native Class<?> getClass()
+```
+
+
+
+
+**Returns:**
+java.lang.Class<?>
+### getCount() {#getCount--}
+```
+public int getCount()
+```
+
+
+Gets the count of control points in current direction.
+
+**Returns:**
+int
+### getDivisions() {#getDivisions--}
+```
+public int getDivisions()
+```
+
+
+Gets the number of divisions between adjacent control points in current direction.
+
+**Returns:**
+int
 ### getKnotVectors() {#getKnotVectors--}
 ```
 public List<Double> getKnotVectors()
@@ -69,29 +123,55 @@ Gets the order of a NURBS curve, it defines the number of nearby control points 
 
 **Returns:**
 int
-### setOrder(int value) {#setOrder-int-}
+### getType() {#getType--}
 ```
-public void setOrder(int value)
+public NurbsType getType()
 ```
 
 
-Sets the order of a NURBS curve, it defines the number of nearby control points that influence any given point on the curve.
+Gets the type of the current direction.
+
+**Returns:**
+[NurbsType](../../com.aspose.threed/nurbstype)
+### hashCode() {#hashCode--}
+```
+public native int hashCode()
+```
+
+
+
+
+**Returns:**
+int
+### notify() {#notify--}
+```
+public final native void notify()
+```
+
+
+
+
+### notifyAll() {#notifyAll--}
+```
+public final native void notifyAll()
+```
+
+
+
+
+### setCount(int value) {#setCount-int-}
+```
+public void setCount(int value)
+```
+
+
+Sets the count of control points in current direction.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | int | New value |
 
-### getDivisions() {#getDivisions--}
-```
-public int getDivisions()
-```
-
-
-Gets the number of divisions between adjacent control points in current direction.
-
-**Returns:**
-int
 ### setDivisions(int value) {#setDivisions-int-}
 ```
 public void setDivisions(int value)
@@ -105,16 +185,19 @@ Sets the number of divisions between adjacent control points in current directio
 | --- | --- | --- |
 | value | int | New value |
 
-### getType() {#getType--}
+### setOrder(int value) {#setOrder-int-}
 ```
-public NurbsType getType()
+public void setOrder(int value)
 ```
 
 
-Gets the type of the current direction.
+Sets the order of a NURBS curve, it defines the number of nearby control points that influence any given point on the curve.
 
-**Returns:**
-[NurbsType](../../com.aspose.threed/nurbstype)
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | int | New value |
+
 ### setType(NurbsType value) {#setType-com.aspose.threed.NurbsType-}
 ```
 public void setType(NurbsType value)
@@ -128,26 +211,48 @@ Sets the type of the current direction.
 | --- | --- | --- |
 | value | [NurbsType](../../com.aspose.threed/nurbstype) | New value |
 
-### getCount() {#getCount--}
+### toString() {#toString--}
 ```
-public int getCount()
+public String toString()
 ```
 
 
-Gets the count of control points in current direction.
+
 
 **Returns:**
-int
-### setCount(int value) {#setCount-int-}
+java.lang.String
+### wait() {#wait--}
 ```
-public void setCount(int value)
+public final void wait()
 ```
 
 
-Sets the count of control points in current direction.
+
+
+### wait(long arg0) {#wait-long-}
+```
+public final native void wait(long arg0)
+```
+
+
+
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | int | New value |
+| arg0 | long |  |
+
+### wait(long arg0, int arg1) {#wait-long-int-}
+```
+public final void wait(long arg0, int arg1)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+| arg1 | int |  |
 

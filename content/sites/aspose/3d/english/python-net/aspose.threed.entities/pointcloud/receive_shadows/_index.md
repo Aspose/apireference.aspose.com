@@ -12,6 +12,15 @@ is_root: false
 
 
 Gets or sets whether this geometry can receive shadow.
+### Definition:
+```python
+@property
+def receive_shadows(self):
+    ...
+@receive_shadows.setter
+def receive_shadows(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.entities](../../)

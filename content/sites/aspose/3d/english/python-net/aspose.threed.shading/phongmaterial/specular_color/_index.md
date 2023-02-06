@@ -12,7 +12,17 @@ is_root: false
 
 
 Gets or sets the specular color.
+### Definition:
+```python
+@property
+def specular_color(self):
+    ...
+@specular_color.setter
+def specular_color(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.shading](../../)
 * class [PhongMaterial](/3d/python-net/aspose.threed.shading/phongmaterial)
+* class [Vector3](/3d/python-net/aspose.threed.utilities/vector3)

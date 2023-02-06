@@ -18,22 +18,45 @@ The vertex buffer holds the polygon vertex data that will be sent to rendering p
 
 | Method | Description |
 | --- | --- |
-| [loadData(TriMesh mesh)](#loadData-com.aspose.threed.TriMesh-) | Load vertex data from com.aspose.threed.TriMesh |
-| [loadData(long data, int size)](#loadData-long-int-) | Load data from given position |
-| [loadData(Object array)](#loadData-java.lang.Object-) | Load data from array |
 | [getVertexDeclaration()](#getVertexDeclaration--) | Gets the vertex declaration |
+| [loadData(TriMesh mesh)](#loadData-com.aspose.threed.TriMesh-) | Load vertex data from [TriMesh](../../com.aspose.threed/trimesh) |
+| [loadData(Object array)](#loadData-java.lang.Object-) | Load data from array |
+| [loadData(long data, int size)](#loadData-long-int-) | Load data from given position |
+### getVertexDeclaration() {#getVertexDeclaration--}
+```
+public abstract VertexDeclaration getVertexDeclaration()
+```
+
+
+Gets the vertex declaration
+
+**Returns:**
+[VertexDeclaration](../../com.aspose.threed/vertexdeclaration)
 ### loadData(TriMesh mesh) {#loadData-com.aspose.threed.TriMesh-}
 ```
 public abstract void loadData(TriMesh mesh)
 ```
 
 
-Load vertex data from com.aspose.threed.TriMesh
+Load vertex data from [TriMesh](../../com.aspose.threed/trimesh)
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
 | mesh | [TriMesh](../../com.aspose.threed/trimesh) |  |
+
+### loadData(Object array) {#loadData-java.lang.Object-}
+```
+public abstract void loadData(Object array)
+```
+
+
+Load data from array
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| array | java.lang.Object |  |
 
 ### loadData(long data, int size) {#loadData-long-int-}
 ```
@@ -49,26 +72,3 @@ Load data from given position
 | data | long |  |
 | size | int |  |
 
-### loadData(Object array) {#loadData-java.lang.Object-}
-```
-public abstract void loadData(Object array)
-```
-
-
-Load data from array
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| array | java.lang.Object |  |
-
-### getVertexDeclaration() {#getVertexDeclaration--}
-```
-public abstract VertexDeclaration getVertexDeclaration()
-```
-
-
-Gets the vertex declaration
-
-**Returns:**
-[VertexDeclaration](../../com.aspose.threed/vertexdeclaration)

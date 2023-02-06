@@ -12,6 +12,15 @@ is_root: false
 
 
 Gets or sets the number of divisions between adjacent control points in current direction.
+### Definition:
+```python
+@property
+def divisions(self):
+    ...
+@divisions.setter
+def divisions(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.entities](../../)

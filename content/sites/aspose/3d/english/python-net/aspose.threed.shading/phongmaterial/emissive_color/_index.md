@@ -24,7 +24,17 @@ mat = LambertMaterial()
 mat.emissive_color = Vector3(1, 1, 1)
 
 ```
+### Definition:
+```python
+@property
+def emissive_color(self):
+    ...
+@emissive_color.setter
+def emissive_color(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.shading](../../)
 * class [PhongMaterial](/3d/python-net/aspose.threed.shading/phongmaterial)
+* class [Vector3](/3d/python-net/aspose.threed.utilities/vector3)

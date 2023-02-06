@@ -34,4 +34,5 @@ def read_f_vector2(self, idx, field):
 
 ### See Also
 * module [aspose.threed.entities](../../)
+* class [FVector2](/3d/python-net/aspose.threed.utilities/fvector2)
 * class [TriMesh](/3d/python-net/aspose.threed.entities/trimesh)

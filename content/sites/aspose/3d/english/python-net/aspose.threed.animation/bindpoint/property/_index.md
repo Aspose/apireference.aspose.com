@@ -12,7 +12,14 @@ is_root: false
 
 
 Gets the property associated with the CurveMapping
+### Definition:
+```python
+@property
+def property(self):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.animation](../../)
 * class [BindPoint](/3d/python-net/aspose.threed.animation/bindpoint)
+* class [Property](/3d/python-net/aspose.threed/property)

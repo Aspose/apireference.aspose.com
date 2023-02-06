@@ -12,6 +12,15 @@ is_root: false
 
 
 The JSON content of GLTF file is indented for human reading, default value is false
+### Definition:
+```python
+@property
+def pretty_print(self):
+    ...
+@pretty_print.setter
+def pretty_print(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.formats](../../)

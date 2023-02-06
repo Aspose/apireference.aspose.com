@@ -12,6 +12,15 @@ is_root: false
 
 
 Gets or sets the thickness of wall.
+### Definition:
+```python
+@property
+def web_thickness(self):
+    ...
+@web_thickness.setter
+def web_thickness(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.profiles](../../)

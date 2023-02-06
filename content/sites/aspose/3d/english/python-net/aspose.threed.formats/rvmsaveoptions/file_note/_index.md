@@ -12,6 +12,15 @@ is_root: false
 
 
 File note in the file header.
+### Definition:
+```python
+@property
+def file_note(self):
+    ...
+@file_note.setter
+def file_note(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.formats](../../)

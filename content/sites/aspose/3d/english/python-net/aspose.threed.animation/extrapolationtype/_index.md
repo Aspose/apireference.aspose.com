@@ -26,6 +26,6 @@ The ExtrapolationType type exposes the following members:
 | OSCILLATE | The mirror repetition. |
 
 
-### See Also
 
-* module [aspose.threed.animation](../)
+### See Also
+* module [aspose.threed.animation](..)

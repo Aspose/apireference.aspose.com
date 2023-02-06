@@ -36,8 +36,6 @@ scene = Scene()
 with open("input.fbx", "rb") as stream:
     scene.open(stream)
 
-
-
 ```
 
 

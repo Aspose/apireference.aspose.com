@@ -12,7 +12,14 @@ is_root: false
 
 
 Gets the geometry which owns this deformer
+### Definition:
+```python
+@property
+def owner(self):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.deformers](../../)
+* class [Geometry](/3d/python-net/aspose.threed.entities/geometry)
 * class [MorphTargetDeformer](/3d/python-net/aspose.threed.deformers/morphtargetdeformer)

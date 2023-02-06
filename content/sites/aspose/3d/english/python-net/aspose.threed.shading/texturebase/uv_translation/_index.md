@@ -12,7 +12,17 @@ is_root: false
 
 
 Gets or sets the UV translation.
+### Definition:
+```python
+@property
+def uv_translation(self):
+    ...
+@uv_translation.setter
+def uv_translation(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.shading](../../)
 * class [TextureBase](/3d/python-net/aspose.threed.shading/texturebase)
+* class [Vector2](/3d/python-net/aspose.threed.utilities/vector2)

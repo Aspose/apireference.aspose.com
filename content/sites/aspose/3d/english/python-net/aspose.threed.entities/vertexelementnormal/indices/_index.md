@@ -12,6 +12,12 @@ is_root: false
 
 
 Gets the indices data
+### Definition:
+```python
+@property
+def indices(self):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.entities](../../)

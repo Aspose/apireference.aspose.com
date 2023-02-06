@@ -12,6 +12,12 @@ is_root: false
 
 
 File names that in this memory file system.
+### Definition:
+```python
+@property
+def file_names(self):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.utilities](../../)

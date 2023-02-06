@@ -12,6 +12,15 @@ is_root: false
 
 
 Gets or sets the file name of the external shader file.
+### Definition:
+```python
+@property
+def shader_file(self):
+    ...
+@shader_file.setter
+def shader_file(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.shading](../../)

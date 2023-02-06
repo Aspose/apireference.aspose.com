@@ -12,6 +12,15 @@ is_root: false
 
 
 Gets or sets whether serialize W component in model's vertex position.
+### Definition:
+```python
+@property
+def serialize_w(self):
+    ...
+@serialize_w.setter
+def serialize_w(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.formats](../../)

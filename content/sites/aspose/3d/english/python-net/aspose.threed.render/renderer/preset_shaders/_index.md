@@ -12,7 +12,17 @@ is_root: false
 
 
 Gets or sets the preset shader set
+### Definition:
+```python
+@property
+def preset_shaders(self):
+    ...
+@preset_shaders.setter
+def preset_shaders(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.render](../../)
+* class [PresetShaders](/3d/python-net/aspose.threed.render/presetshaders)
 * class [Renderer](/3d/python-net/aspose.threed.render/renderer)

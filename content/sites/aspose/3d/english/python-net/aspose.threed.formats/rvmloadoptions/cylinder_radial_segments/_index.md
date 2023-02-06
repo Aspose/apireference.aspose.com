@@ -12,6 +12,15 @@ is_root: false
 
 
 Gets or sets the number of cylinder's radial segments, default value is 16
+### Definition:
+```python
+@property
+def cylinder_radial_segments(self):
+    ...
+@cylinder_radial_segments.setter
+def cylinder_radial_segments(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.formats](../../)

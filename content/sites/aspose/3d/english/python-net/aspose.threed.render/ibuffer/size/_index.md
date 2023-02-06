@@ -12,6 +12,12 @@ is_root: false
 
 
 Size of this buffer in bytes
+### Definition:
+```python
+@property
+def size(self):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.render](../../)

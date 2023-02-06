@@ -12,6 +12,15 @@ is_root: false
 
 
 The user data attached in this element
+### Definition:
+```python
+@property
+def data(self):
+    ...
+@data.setter
+def data(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.entities](../../)

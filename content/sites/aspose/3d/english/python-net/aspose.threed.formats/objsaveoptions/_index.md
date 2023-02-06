@@ -43,7 +43,9 @@ The ObjSaveOptions type exposes the following members:
 | [flip_coordinate_system](/3d/python-net/aspose.threed.formats/objsaveoptions/flip_coordinate_system) | Gets or sets whether flip coordinate system of control points/normal during importing/exporting. |
 
 
-### See Also
 
-* module [aspose.threed.formats](../)
+### See Also
+* module [aspose.threed.formats](..)
+* class [IOConfig](/3d/python-net/aspose.threed.formats/ioconfig)
+* class [ObjSaveOptions](/3d/python-net/aspose.threed.formats/objsaveoptions)
 * class [SaveOptions](/3d/python-net/aspose.threed.formats/saveoptions)

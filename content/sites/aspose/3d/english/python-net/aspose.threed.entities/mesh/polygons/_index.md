@@ -12,6 +12,12 @@ is_root: false
 
 
 Gets the polygons definition of the mesh
+### Definition:
+```python
+@property
+def polygons(self):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.entities](../../)

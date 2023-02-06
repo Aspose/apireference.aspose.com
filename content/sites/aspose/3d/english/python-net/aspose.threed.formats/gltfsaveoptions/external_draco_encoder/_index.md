@@ -17,6 +17,15 @@ Use external draco encoder to accelerate the draco compression speed.
 
 
 Aspose.3D will create new sub process to encode the mesh to the draco format, use it at your own risk.
+### Definition:
+```python
+@property
+def external_draco_encoder(self):
+    ...
+@external_draco_encoder.setter
+def external_draco_encoder(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.formats](../../)

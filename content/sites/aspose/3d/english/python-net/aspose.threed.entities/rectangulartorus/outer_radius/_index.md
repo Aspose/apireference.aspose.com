@@ -13,6 +13,15 @@ is_root: false
 
 The outer radius of the rectangular torus
 Default value is 20
+### Definition:
+```python
+@property
+def outer_radius(self):
+    ...
+@outer_radius.setter
+def outer_radius(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.entities](../../)

@@ -12,7 +12,14 @@ is_root: false
 
 
 Data type of this field.
+### Definition:
+```python
+@property
+def data_type(self):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.utilities](../../)
 * class [VertexField](/3d/python-net/aspose.threed.utilities/vertexfield)
+* class [VertexFieldDataType](/3d/python-net/aspose.threed.utilities/vertexfielddatatype)

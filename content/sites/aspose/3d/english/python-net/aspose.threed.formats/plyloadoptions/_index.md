@@ -39,7 +39,9 @@ The PlyLoadOptions type exposes the following members:
 | [flip_coordinate_system](/3d/python-net/aspose.threed.formats/plyloadoptions/flip_coordinate_system) | Gets or sets flip coordinate system of control points/normal during importing/exporting. |
 
 
-### See Also
 
-* module [aspose.threed.formats](../)
+### See Also
+* module [aspose.threed.formats](..)
+* class [IOConfig](/3d/python-net/aspose.threed.formats/ioconfig)
 * class [LoadOptions](/3d/python-net/aspose.threed.formats/loadoptions)
+* class [PlyLoadOptions](/3d/python-net/aspose.threed.formats/plyloadoptions)

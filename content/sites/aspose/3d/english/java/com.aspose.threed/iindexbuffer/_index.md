@@ -18,21 +18,11 @@ The index buffer describes the geometry used in rendering pipeline.
 
 | Method | Description |
 | --- | --- |
-| [getIndexDataType()](#getIndexDataType--) | Gets the data type of each element. |
 | [getCount()](#getCount--) | Gets the number of index in this buffer. |
-| [loadData(TriMesh mesh)](#loadData-com.aspose.threed.TriMesh-) | Load indice data from com.aspose.threed.TriMesh |
+| [getIndexDataType()](#getIndexDataType--) | Gets the data type of each element. |
+| [loadData(TriMesh mesh)](#loadData-com.aspose.threed.TriMesh-) | Load indice data from [TriMesh](../../com.aspose.threed/trimesh) |
 | [loadData(int[] indices)](#loadData-int---) | Load indice data |
 | [loadData(short[] indices)](#loadData-short---) | Load indice data |
-### getIndexDataType() {#getIndexDataType--}
-```
-public abstract IndexDataType getIndexDataType()
-```
-
-
-Gets the data type of each element.
-
-**Returns:**
-[IndexDataType](../../com.aspose.threed/indexdatatype)
 ### getCount() {#getCount--}
 ```
 public abstract int getCount()
@@ -43,13 +33,23 @@ Gets the number of index in this buffer.
 
 **Returns:**
 int
+### getIndexDataType() {#getIndexDataType--}
+```
+public abstract IndexDataType getIndexDataType()
+```
+
+
+Gets the data type of each element.
+
+**Returns:**
+[IndexDataType](../../com.aspose.threed/indexdatatype)
 ### loadData(TriMesh mesh) {#loadData-com.aspose.threed.TriMesh-}
 ```
 public abstract void loadData(TriMesh mesh)
 ```
 
 
-Load indice data from com.aspose.threed.TriMesh
+Load indice data from [TriMesh](../../com.aspose.threed/trimesh)
 
 **Parameters:**
 | Parameter | Type | Description |

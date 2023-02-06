@@ -12,7 +12,17 @@ is_root: false
 
 
 Gets or sets the stencil action when both stencil test and depth test passes.
+### Definition:
+```python
+@property
+def pass_action(self):
+    ...
+@pass_action.setter
+def pass_action(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.render](../../)
+* class [StencilAction](/3d/python-net/aspose.threed.render/stencilaction)
 * class [StencilState](/3d/python-net/aspose.threed.render/stencilstate)

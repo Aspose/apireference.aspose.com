@@ -12,6 +12,15 @@ is_root: false
 
 
 Gets or sets the rendering API used by this technique
+### Definition:
+```python
+@property
+def render_api(self):
+    ...
+@render_api.setter
+def render_api(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.shading](../../)

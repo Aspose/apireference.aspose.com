@@ -30,4 +30,5 @@ def get_bounding_box(self):
 
 ### See Also
 * module [aspose.threed](../../)
+* class [BoundingBox](/3d/python-net/aspose.threed.utilities/boundingbox)
 * class [Node](/3d/python-net/aspose.threed/node)

@@ -12,7 +12,17 @@ is_root: false
 
 
 Gets or sets the fallback entity renderer when the entity has no special renderer defined.
+### Definition:
+```python
+@property
+def fallback_entity_renderer(self):
+    ...
+@fallback_entity_renderer.setter
+def fallback_entity_renderer(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.render](../../)
+* class [EntityRenderer](/3d/python-net/aspose.threed.render/entityrenderer)
 * class [Renderer](/3d/python-net/aspose.threed.render/renderer)

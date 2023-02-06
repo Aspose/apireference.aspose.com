@@ -27,6 +27,7 @@ The DescriptorSetUpdater type exposes the following members:
 | [bind(binding, texture)](/3d/python-net/aspose.threed.render/descriptorsetupdater/bind/#int-ITextureUnit) | Bind the texture unit to current descriptor set |
 
 
-### See Also
 
-* module [aspose.threed.render](../)
+### See Also
+* module [aspose.threed.render](..)
+* class [IDescriptorSet](/3d/python-net/aspose.threed.render/idescriptorset)

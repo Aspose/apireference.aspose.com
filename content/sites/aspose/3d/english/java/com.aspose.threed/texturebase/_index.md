@@ -18,187 +18,126 @@ Base class for all concrete textures. Texture defines the look and feel of a geo
 
 | Constructor | Description |
 | --- | --- |
-| [TextureBase(String name)](#TextureBase-java.lang.String-) | Initializes a new instance of the com.aspose.threed.TextureBase class. |
+| [TextureBase(String name)](#TextureBase-java.lang.String-) | Initializes a new instance of the [TextureBase](../../com.aspose.threed/texturebase) class. |
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getAlpha()](#getAlpha--) | Gets the default alpha value of the texture This is valid when the com.aspose.threed.TextureBase\#getAlphaSource is com.aspose.threed.AlphaSource\#PIXEL\_ALPHA Default value is 1.0, valid value range is between 0 and 1 |
-| [setAlpha(double value)](#setAlpha-double-) | Sets the default alpha value of the texture This is valid when the com.aspose.threed.TextureBase\#getAlphaSource is com.aspose.threed.AlphaSource\#PIXEL\_ALPHA Default value is 1.0, valid value range is between 0 and 1 |
+| [equals(Object arg0)](#equals-java.lang.Object-) |  |
+| [findProperty(String propertyName)](#findProperty-java.lang.String-) | Finds the property. |
+| [getAlpha()](#getAlpha--) | Gets the default alpha value of the texture This is valid when the [getAlphaSource](../../com.aspose.threed/texturebase\#getAlphaSource) is [AlphaSource.PIXEL\_ALPHA](../../com.aspose.threed/alphasource\#PIXEL-ALPHA) Default value is 1.0, valid value range is between 0 and 1 |
 | [getAlphaSource()](#getAlphaSource--) | Gets whether the texture defines the alpha channel. |
-| [setAlphaSource(AlphaSource value)](#setAlphaSource-com.aspose.threed.AlphaSource-) | Sets whether the texture defines the alpha channel. |
-| [getWrapModeU()](#getWrapModeU--) | Gets the texture wrap modes in U. |
-| [setWrapModeU(WrapMode value)](#setWrapModeU-com.aspose.threed.WrapMode-) | Sets the texture wrap modes in U. |
-| [getWrapModeV()](#getWrapModeV--) | Gets the texture wrap modes in V. |
-| [setWrapModeV(WrapMode value)](#setWrapModeV-com.aspose.threed.WrapMode-) | Sets the texture wrap modes in V. |
-| [getWrapModeW()](#getWrapModeW--) | Gets the texture wrap modes in W. |
-| [setWrapModeW(WrapMode value)](#setWrapModeW-com.aspose.threed.WrapMode-) | Sets the texture wrap modes in W. |
-| [getMinFilter()](#getMinFilter--) | Gets the filter for minification. |
-| [setMinFilter(TextureFilter value)](#setMinFilter-com.aspose.threed.TextureFilter-) | Sets the filter for minification. |
+| [getClass()](#getClass--) |  |
 | [getMagFilter()](#getMagFilter--) | Gets the filter for magnification. |
-| [setMagFilter(TextureFilter value)](#setMagFilter-com.aspose.threed.TextureFilter-) | Sets the filter for magnification. |
+| [getMinFilter()](#getMinFilter--) | Gets the filter for minification. |
 | [getMipFilter()](#getMipFilter--) | Gets the filter for mip-level sampling. |
-| [setMipFilter(TextureFilter value)](#setMipFilter-com.aspose.threed.TextureFilter-) | Sets the filter for mip-level sampling. |
+| [getName()](#getName--) | Gets the name. |
+| [getProperties()](#getProperties--) | Gets the collection of all properties. |
+| [getProperty(String property)](#getProperty-java.lang.String-) | Get the value of specified property |
 | [getUVRotation()](#getUVRotation--) | Gets the rotation of the texture |
-| [setUVRotation(Vector3 value)](#setUVRotation-com.aspose.threed.Vector3-) | Sets the rotation of the texture |
 | [getUVScale()](#getUVScale--) | Gets the UV scale. |
-| [setUVScale(Vector2 value)](#setUVScale-com.aspose.threed.Vector2-) | Sets the UV scale. |
 | [getUVTranslation()](#getUVTranslation--) | Gets the UV translation. |
-| [setUVTranslation(Vector2 value)](#setUVTranslation-com.aspose.threed.Vector2-) | Sets the UV translation. |
-| [setTranslation(double u, double v)](#setTranslation-double-double-) | Sets the UV translation. |
-| [setScale(double u, double v)](#setScale-double-double-) | Sets the UV scale. |
+| [getWrapModeU()](#getWrapModeU--) | Gets the texture wrap modes in U. |
+| [getWrapModeV()](#getWrapModeV--) | Gets the texture wrap modes in V. |
+| [getWrapModeW()](#getWrapModeW--) | Gets the texture wrap modes in W. |
+| [hashCode()](#hashCode--) |  |
+| [notify()](#notify--) |  |
+| [notifyAll()](#notifyAll--) |  |
+| [removeProperty(Property property)](#removeProperty-com.aspose.threed.Property-) | Removes a dynamic property. |
+| [removeProperty(String property)](#removeProperty-java.lang.String-) | Remove the specified property identified by name |
+| [setAlpha(double value)](#setAlpha-double-) | Sets the default alpha value of the texture This is valid when the [getAlphaSource](../../com.aspose.threed/texturebase\#getAlphaSource) is [AlphaSource.PIXEL\_ALPHA](../../com.aspose.threed/alphasource\#PIXEL-ALPHA) Default value is 1.0, valid value range is between 0 and 1 |
+| [setAlphaSource(AlphaSource value)](#setAlphaSource-com.aspose.threed.AlphaSource-) | Sets whether the texture defines the alpha channel. |
+| [setMagFilter(TextureFilter value)](#setMagFilter-com.aspose.threed.TextureFilter-) | Sets the filter for magnification. |
+| [setMinFilter(TextureFilter value)](#setMinFilter-com.aspose.threed.TextureFilter-) | Sets the filter for minification. |
+| [setMipFilter(TextureFilter value)](#setMipFilter-com.aspose.threed.TextureFilter-) | Sets the filter for mip-level sampling. |
+| [setName(String value)](#setName-java.lang.String-) | Sets the name. |
+| [setProperty(String property, Object value)](#setProperty-java.lang.String-java.lang.Object-) | Sets the value of specified property |
 | [setRotation(double u, double v)](#setRotation-double-double-) | Sets the UV rotation. |
+| [setScale(double u, double v)](#setScale-double-double-) | Sets the UV scale. |
+| [setTranslation(double u, double v)](#setTranslation-double-double-) | Sets the UV translation. |
+| [setUVRotation(Vector3 value)](#setUVRotation-com.aspose.threed.Vector3-) | Sets the rotation of the texture |
+| [setUVScale(Vector2 value)](#setUVScale-com.aspose.threed.Vector2-) | Sets the UV scale. |
+| [setUVTranslation(Vector2 value)](#setUVTranslation-com.aspose.threed.Vector2-) | Sets the UV translation. |
+| [setWrapModeU(WrapMode value)](#setWrapModeU-com.aspose.threed.WrapMode-) | Sets the texture wrap modes in U. |
+| [setWrapModeV(WrapMode value)](#setWrapModeV-com.aspose.threed.WrapMode-) | Sets the texture wrap modes in V. |
+| [setWrapModeW(WrapMode value)](#setWrapModeW-com.aspose.threed.WrapMode-) | Sets the texture wrap modes in W. |
+| [toString()](#toString--) |  |
+| [wait()](#wait--) |  |
+| [wait(long arg0)](#wait-long-) |  |
+| [wait(long arg0, int arg1)](#wait-long-int-) |  |
 ### TextureBase(String name) {#TextureBase-java.lang.String-}
 ```
 public TextureBase(String name)
 ```
 
 
-Initializes a new instance of the com.aspose.threed.TextureBase class.
+Initializes a new instance of the [TextureBase](../../com.aspose.threed/texturebase) class.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
 | name | java.lang.String | Name. |
 
+### equals(Object arg0) {#equals-java.lang.Object-}
+```
+public boolean equals(Object arg0)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | java.lang.Object |  |
+
+**Returns:**
+boolean
+### findProperty(String propertyName) {#findProperty-java.lang.String-}
+```
+public Property findProperty(String propertyName)
+```
+
+
+Finds the property. It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) or native property(Identified by its name)
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| propertyName | java.lang.String | Property name. |
+
+**Returns:**
+[Property](../../com.aspose.threed/property) - The property.
 ### getAlpha() {#getAlpha--}
 ```
 public double getAlpha()
 ```
 
 
-Gets the default alpha value of the texture This is valid when the com.aspose.threed.TextureBase\#getAlphaSource is com.aspose.threed.AlphaSource\#PIXEL\_ALPHA Default value is 1.0, valid value range is between 0 and 1
+Gets the default alpha value of the texture This is valid when the [getAlphaSource](../../com.aspose.threed/texturebase\#getAlphaSource) is [AlphaSource.PIXEL\_ALPHA](../../com.aspose.threed/alphasource\#PIXEL-ALPHA) Default value is 1.0, valid value range is between 0 and 1
 
 **Returns:**
 double
-### setAlpha(double value) {#setAlpha-double-}
-```
-public void setAlpha(double value)
-```
-
-
-Sets the default alpha value of the texture This is valid when the com.aspose.threed.TextureBase\#getAlphaSource is com.aspose.threed.AlphaSource\#PIXEL\_ALPHA Default value is 1.0, valid value range is between 0 and 1
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | double | New value |
-
 ### getAlphaSource() {#getAlphaSource--}
 ```
 public AlphaSource getAlphaSource()
 ```
 
 
-Gets whether the texture defines the alpha channel. Default value is com.aspose.threed.AlphaSource\#NONE
+Gets whether the texture defines the alpha channel. Default value is [AlphaSource.NONE](../../com.aspose.threed/alphasource\#NONE)
 
 **Returns:**
 [AlphaSource](../../com.aspose.threed/alphasource)
-### setAlphaSource(AlphaSource value) {#setAlphaSource-com.aspose.threed.AlphaSource-}
+### getClass() {#getClass--}
 ```
-public void setAlphaSource(AlphaSource value)
-```
-
-
-Sets whether the texture defines the alpha channel. Default value is com.aspose.threed.AlphaSource\#NONE
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | [AlphaSource](../../com.aspose.threed/alphasource) | New value |
-
-### getWrapModeU() {#getWrapModeU--}
-```
-public WrapMode getWrapModeU()
+public final native Class<?> getClass()
 ```
 
 
-Gets the texture wrap modes in U.
+
 
 **Returns:**
-[WrapMode](../../com.aspose.threed/wrapmode)
-### setWrapModeU(WrapMode value) {#setWrapModeU-com.aspose.threed.WrapMode-}
-```
-public void setWrapModeU(WrapMode value)
-```
-
-
-Sets the texture wrap modes in U.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | [WrapMode](../../com.aspose.threed/wrapmode) | New value |
-
-### getWrapModeV() {#getWrapModeV--}
-```
-public WrapMode getWrapModeV()
-```
-
-
-Gets the texture wrap modes in V.
-
-**Returns:**
-[WrapMode](../../com.aspose.threed/wrapmode)
-### setWrapModeV(WrapMode value) {#setWrapModeV-com.aspose.threed.WrapMode-}
-```
-public void setWrapModeV(WrapMode value)
-```
-
-
-Sets the texture wrap modes in V.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | [WrapMode](../../com.aspose.threed/wrapmode) | New value |
-
-### getWrapModeW() {#getWrapModeW--}
-```
-public WrapMode getWrapModeW()
-```
-
-
-Gets the texture wrap modes in W.
-
-**Returns:**
-[WrapMode](../../com.aspose.threed/wrapmode)
-### setWrapModeW(WrapMode value) {#setWrapModeW-com.aspose.threed.WrapMode-}
-```
-public void setWrapModeW(WrapMode value)
-```
-
-
-Sets the texture wrap modes in W.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | [WrapMode](../../com.aspose.threed/wrapmode) | New value |
-
-### getMinFilter() {#getMinFilter--}
-```
-public TextureFilter getMinFilter()
-```
-
-
-Gets the filter for minification.
-
-**Returns:**
-[TextureFilter](../../com.aspose.threed/texturefilter)
-### setMinFilter(TextureFilter value) {#setMinFilter-com.aspose.threed.TextureFilter-}
-```
-public void setMinFilter(TextureFilter value)
-```
-
-
-Sets the filter for minification.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | [TextureFilter](../../com.aspose.threed/texturefilter) | New value |
-
+java.lang.Class<?>
 ### getMagFilter() {#getMagFilter--}
 ```
 public TextureFilter getMagFilter()
@@ -209,6 +148,203 @@ Gets the filter for magnification.
 
 **Returns:**
 [TextureFilter](../../com.aspose.threed/texturefilter)
+### getMinFilter() {#getMinFilter--}
+```
+public TextureFilter getMinFilter()
+```
+
+
+Gets the filter for minification.
+
+**Returns:**
+[TextureFilter](../../com.aspose.threed/texturefilter)
+### getMipFilter() {#getMipFilter--}
+```
+public TextureFilter getMipFilter()
+```
+
+
+Gets the filter for mip-level sampling.
+
+**Returns:**
+[TextureFilter](../../com.aspose.threed/texturefilter)
+### getName() {#getName--}
+```
+public String getName()
+```
+
+
+Gets the name.
+
+**Returns:**
+java.lang.String
+### getProperties() {#getProperties--}
+```
+public PropertyCollection getProperties()
+```
+
+
+Gets the collection of all properties.
+
+**Returns:**
+[PropertyCollection](../../com.aspose.threed/propertycollection)
+### getProperty(String property) {#getProperty-java.lang.String-}
+```
+public Object getProperty(String property)
+```
+
+
+Get the value of specified property
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| property | java.lang.String | Property name |
+
+**Returns:**
+java.lang.Object - The value of the found property
+### getUVRotation() {#getUVRotation--}
+```
+public Vector3 getUVRotation()
+```
+
+
+Gets the rotation of the texture
+
+**Returns:**
+[Vector3](../../com.aspose.threed/vector3)
+### getUVScale() {#getUVScale--}
+```
+public Vector2 getUVScale()
+```
+
+
+Gets the UV scale.
+
+**Returns:**
+[Vector2](../../com.aspose.threed/vector2)
+### getUVTranslation() {#getUVTranslation--}
+```
+public Vector2 getUVTranslation()
+```
+
+
+Gets the UV translation.
+
+**Returns:**
+[Vector2](../../com.aspose.threed/vector2)
+### getWrapModeU() {#getWrapModeU--}
+```
+public WrapMode getWrapModeU()
+```
+
+
+Gets the texture wrap modes in U.
+
+**Returns:**
+[WrapMode](../../com.aspose.threed/wrapmode)
+### getWrapModeV() {#getWrapModeV--}
+```
+public WrapMode getWrapModeV()
+```
+
+
+Gets the texture wrap modes in V.
+
+**Returns:**
+[WrapMode](../../com.aspose.threed/wrapmode)
+### getWrapModeW() {#getWrapModeW--}
+```
+public WrapMode getWrapModeW()
+```
+
+
+Gets the texture wrap modes in W.
+
+**Returns:**
+[WrapMode](../../com.aspose.threed/wrapmode)
+### hashCode() {#hashCode--}
+```
+public native int hashCode()
+```
+
+
+
+
+**Returns:**
+int
+### notify() {#notify--}
+```
+public final native void notify()
+```
+
+
+
+
+### notifyAll() {#notifyAll--}
+```
+public final native void notifyAll()
+```
+
+
+
+
+### removeProperty(Property property) {#removeProperty-com.aspose.threed.Property-}
+```
+public boolean removeProperty(Property property)
+```
+
+
+Removes a dynamic property.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| property | [Property](../../com.aspose.threed/property) | Which property to remove |
+
+**Returns:**
+boolean - true if the property is successfully removed
+### removeProperty(String property) {#removeProperty-java.lang.String-}
+```
+public boolean removeProperty(String property)
+```
+
+
+Remove the specified property identified by name
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| property | java.lang.String |  |
+
+**Returns:**
+boolean
+### setAlpha(double value) {#setAlpha-double-}
+```
+public void setAlpha(double value)
+```
+
+
+Sets the default alpha value of the texture This is valid when the [getAlphaSource](../../com.aspose.threed/texturebase\#getAlphaSource) is [AlphaSource.PIXEL\_ALPHA](../../com.aspose.threed/alphasource\#PIXEL-ALPHA) Default value is 1.0, valid value range is between 0 and 1
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | double | New value |
+
+### setAlphaSource(AlphaSource value) {#setAlphaSource-com.aspose.threed.AlphaSource-}
+```
+public void setAlphaSource(AlphaSource value)
+```
+
+
+Sets whether the texture defines the alpha channel. Default value is [AlphaSource.NONE](../../com.aspose.threed/alphasource\#NONE)
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | [AlphaSource](../../com.aspose.threed/alphasource) | New value |
+
 ### setMagFilter(TextureFilter value) {#setMagFilter-com.aspose.threed.TextureFilter-}
 ```
 public void setMagFilter(TextureFilter value)
@@ -222,16 +358,19 @@ Sets the filter for magnification.
 | --- | --- | --- |
 | value | [TextureFilter](../../com.aspose.threed/texturefilter) | New value |
 
-### getMipFilter() {#getMipFilter--}
+### setMinFilter(TextureFilter value) {#setMinFilter-com.aspose.threed.TextureFilter-}
 ```
-public TextureFilter getMipFilter()
+public void setMinFilter(TextureFilter value)
 ```
 
 
-Gets the filter for mip-level sampling.
+Sets the filter for minification.
 
-**Returns:**
-[TextureFilter](../../com.aspose.threed/texturefilter)
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | [TextureFilter](../../com.aspose.threed/texturefilter) | New value |
+
 ### setMipFilter(TextureFilter value) {#setMipFilter-com.aspose.threed.TextureFilter-}
 ```
 public void setMipFilter(TextureFilter value)
@@ -245,82 +384,40 @@ Sets the filter for mip-level sampling.
 | --- | --- | --- |
 | value | [TextureFilter](../../com.aspose.threed/texturefilter) | New value |
 
-### getUVRotation() {#getUVRotation--}
+### setName(String value) {#setName-java.lang.String-}
 ```
-public Vector3 getUVRotation()
-```
-
-
-Gets the rotation of the texture
-
-**Returns:**
-[Vector3](../../com.aspose.threed/vector3)
-### setUVRotation(Vector3 value) {#setUVRotation-com.aspose.threed.Vector3-}
-```
-public void setUVRotation(Vector3 value)
+public void setName(String value)
 ```
 
 
-Sets the rotation of the texture
+Sets the name.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | [Vector3](../../com.aspose.threed/vector3) | New value |
+| value | java.lang.String | New value |
 
-### getUVScale() {#getUVScale--}
+### setProperty(String property, Object value) {#setProperty-java.lang.String-java.lang.Object-}
 ```
-public Vector2 getUVScale()
-```
-
-
-Gets the UV scale.
-
-**Returns:**
-[Vector2](../../com.aspose.threed/vector2)
-### setUVScale(Vector2 value) {#setUVScale-com.aspose.threed.Vector2-}
-```
-public void setUVScale(Vector2 value)
+public void setProperty(String property, Object value)
 ```
 
 
-Sets the UV scale.
+Sets the value of specified property
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | [Vector2](../../com.aspose.threed/vector2) | New value |
+| property | java.lang.String | Property name |
+| value | java.lang.Object | The value of the property |
 
-### getUVTranslation() {#getUVTranslation--}
+### setRotation(double u, double v) {#setRotation-double-double-}
 ```
-public Vector2 getUVTranslation()
-```
-
-
-Gets the UV translation.
-
-**Returns:**
-[Vector2](../../com.aspose.threed/vector2)
-### setUVTranslation(Vector2 value) {#setUVTranslation-com.aspose.threed.Vector2-}
-```
-public void setUVTranslation(Vector2 value)
+public void setRotation(double u, double v)
 ```
 
 
-Sets the UV translation.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | [Vector2](../../com.aspose.threed/vector2) | New value |
-
-### setTranslation(double u, double v) {#setTranslation-double-double-}
-```
-public void setTranslation(double u, double v)
-```
-
-
-Sets the UV translation.
+Sets the UV rotation.
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -342,17 +439,140 @@ Sets the UV scale.
 | u | double | U. |
 | v | double | V. |
 
-### setRotation(double u, double v) {#setRotation-double-double-}
+### setTranslation(double u, double v) {#setTranslation-double-double-}
 ```
-public void setRotation(double u, double v)
+public void setTranslation(double u, double v)
 ```
 
 
-Sets the UV rotation.
+Sets the UV translation.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
 | u | double | U. |
 | v | double | V. |
+
+### setUVRotation(Vector3 value) {#setUVRotation-com.aspose.threed.Vector3-}
+```
+public void setUVRotation(Vector3 value)
+```
+
+
+Sets the rotation of the texture
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | [Vector3](../../com.aspose.threed/vector3) | New value |
+
+### setUVScale(Vector2 value) {#setUVScale-com.aspose.threed.Vector2-}
+```
+public void setUVScale(Vector2 value)
+```
+
+
+Sets the UV scale.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | [Vector2](../../com.aspose.threed/vector2) | New value |
+
+### setUVTranslation(Vector2 value) {#setUVTranslation-com.aspose.threed.Vector2-}
+```
+public void setUVTranslation(Vector2 value)
+```
+
+
+Sets the UV translation.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | [Vector2](../../com.aspose.threed/vector2) | New value |
+
+### setWrapModeU(WrapMode value) {#setWrapModeU-com.aspose.threed.WrapMode-}
+```
+public void setWrapModeU(WrapMode value)
+```
+
+
+Sets the texture wrap modes in U.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | [WrapMode](../../com.aspose.threed/wrapmode) | New value |
+
+### setWrapModeV(WrapMode value) {#setWrapModeV-com.aspose.threed.WrapMode-}
+```
+public void setWrapModeV(WrapMode value)
+```
+
+
+Sets the texture wrap modes in V.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | [WrapMode](../../com.aspose.threed/wrapmode) | New value |
+
+### setWrapModeW(WrapMode value) {#setWrapModeW-com.aspose.threed.WrapMode-}
+```
+public void setWrapModeW(WrapMode value)
+```
+
+
+Sets the texture wrap modes in W.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | [WrapMode](../../com.aspose.threed/wrapmode) | New value |
+
+### toString() {#toString--}
+```
+public String toString()
+```
+
+
+
+
+**Returns:**
+java.lang.String
+### wait() {#wait--}
+```
+public final void wait()
+```
+
+
+
+
+### wait(long arg0) {#wait-long-}
+```
+public final native void wait(long arg0)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+
+### wait(long arg0, int arg1) {#wait-long-int-}
+```
+public final void wait(long arg0, int arg1)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+| arg1 | int |  |
 

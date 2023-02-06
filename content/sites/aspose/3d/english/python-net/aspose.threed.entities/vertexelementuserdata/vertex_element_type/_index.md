@@ -12,7 +12,15 @@ is_root: false
 
 
 Gets the type of the [VertexElement](/3d/python-net/aspose.threed.entities/vertexelement)
+### Definition:
+```python
+@property
+def vertex_element_type(self):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.entities](../../)
+* class [VertexElement](/3d/python-net/aspose.threed.entities/vertexelement)
+* class [VertexElementType](/3d/python-net/aspose.threed.entities/vertexelementtype)
 * class [VertexElementUserData](/3d/python-net/aspose.threed.entities/vertexelementuserdata)

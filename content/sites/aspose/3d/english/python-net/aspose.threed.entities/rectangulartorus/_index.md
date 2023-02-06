@@ -63,7 +63,12 @@ The RectangularTorus type exposes the following members:
 | [to_mesh()](/3d/python-net/aspose.threed.entities/rectangulartorus/to_mesh/#) | Convert this primitive to [Mesh](/3d/python-net/aspose.threed.entities/mesh) |
 
 
-### See Also
 
-* module [aspose.threed.entities](../)
+### See Also
+* module [aspose.threed.entities](..)
+* class [A3DObject](/3d/python-net/aspose.threed/a3dobject)
+* class [Entity](/3d/python-net/aspose.threed/entity)
+* class [Mesh](/3d/python-net/aspose.threed.entities/mesh)
 * class [Primitive](/3d/python-net/aspose.threed.entities/primitive)
+* class [RectangularTorus](/3d/python-net/aspose.threed.entities/rectangulartorus)
+* class [SceneObject](/3d/python-net/aspose.threed/sceneobject)

@@ -12,6 +12,15 @@ is_root: false
 
 
 Gets or sets the Z-order of the viewport.
+### Definition:
+```python
+@property
+def z_order(self):
+    ...
+@z_order.setter
+def z_order(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.render](../../)

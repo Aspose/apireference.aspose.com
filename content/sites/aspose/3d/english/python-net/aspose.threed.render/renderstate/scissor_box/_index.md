@@ -12,6 +12,15 @@ is_root: false
 
 
 Gets or sets the scissor box
+### Definition:
+```python
+@property
+def scissor_box(self):
+    ...
+@scissor_box.setter
+def scissor_box(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.render](../../)

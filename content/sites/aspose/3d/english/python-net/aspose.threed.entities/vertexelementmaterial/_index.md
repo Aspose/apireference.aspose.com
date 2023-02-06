@@ -46,7 +46,8 @@ The VertexElementMaterial type exposes the following members:
 | [clear()](/3d/python-net/aspose.threed.entities/vertexelementmaterial/clear/#) | Removes all elements from the direct and the index arrays. |
 
 
-### See Also
 
-* module [aspose.threed.entities](../)
+### See Also
+* module [aspose.threed.entities](..)
 * class [VertexElement](/3d/python-net/aspose.threed.entities/vertexelement)
+* class [VertexElementMaterial](/3d/python-net/aspose.threed.entities/vertexelementmaterial)

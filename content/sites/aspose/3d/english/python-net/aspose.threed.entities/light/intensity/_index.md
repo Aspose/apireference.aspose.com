@@ -12,6 +12,15 @@ is_root: false
 
 
 Gets or sets the light's intensity, default value is 100
+### Definition:
+```python
+@property
+def intensity(self):
+    ...
+@intensity.setter
+def intensity(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.entities](../../)

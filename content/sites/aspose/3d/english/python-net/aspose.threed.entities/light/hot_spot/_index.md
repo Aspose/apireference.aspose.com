@@ -12,6 +12,15 @@ is_root: false
 
 
 Gets or sets the hot spot cone angle(in degrees).
+### Definition:
+```python
+@property
+def hot_spot(self):
+    ...
+@hot_spot.setter
+def hot_spot(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.entities](../../)

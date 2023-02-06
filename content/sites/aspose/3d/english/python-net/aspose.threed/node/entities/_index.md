@@ -12,6 +12,12 @@ is_root: false
 
 
 Gets all node entities.
+### Definition:
+```python
+@property
+def entities(self):
+    ...
+```
 
 ### See Also
 * module [aspose.threed](../../)

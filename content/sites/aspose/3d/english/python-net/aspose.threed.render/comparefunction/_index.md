@@ -29,6 +29,6 @@ The CompareFunction type exposes the following members:
 | ALWAYS | Always passes |
 
 
-### See Also
 
-* module [aspose.threed.render](../)
+### See Also
+* module [aspose.threed.render](..)

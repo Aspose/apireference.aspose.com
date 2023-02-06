@@ -18,26 +18,35 @@ Subclass this to implement rendering for different kind of entities.
 
 | Constructor | Description |
 | --- | --- |
-| [EntityRenderer(String key, byte features)](#EntityRenderer-java.lang.String-byte-) | Constructor of com.aspose.threed.EntityRenderer |
-| [EntityRenderer(String key)](#EntityRenderer-java.lang.String-) | Constructor of com.aspose.threed.EntityRenderer |
+| [EntityRenderer(String key, byte features)](#EntityRenderer-java.lang.String-byte-) | Constructor of [EntityRenderer](../../com.aspose.threed/entityrenderer) |
+| [EntityRenderer(String key)](#EntityRenderer-java.lang.String-) | Constructor of [EntityRenderer](../../com.aspose.threed/entityrenderer) |
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [initialize(Renderer renderer)](#initialize-com.aspose.threed.Renderer-) | Initialize the entity renderer |
-| [resetSceneCache()](#resetSceneCache--) | The scene has changed or removed, need to dispose scene-level render resources in this |
+| [dispose()](#dispose--) | The entity renderer is being disposed, release shared resources. |
+| [equals(Object arg0)](#equals-java.lang.Object-) |  |
 | [frameBegin(Renderer renderer, IRenderQueue renderQueue)](#frameBegin-com.aspose.threed.Renderer-com.aspose.threed.IRenderQueue-) | Begin rendering a frame |
 | [frameEnd(Renderer renderer, IRenderQueue renderQueue)](#frameEnd-com.aspose.threed.Renderer-com.aspose.threed.IRenderQueue-) | Ends rendering a frame |
+| [getClass()](#getClass--) |  |
+| [hashCode()](#hashCode--) |  |
+| [initialize(Renderer renderer)](#initialize-com.aspose.threed.Renderer-) | Initialize the entity renderer |
+| [notify()](#notify--) |  |
+| [notifyAll()](#notifyAll--) |  |
 | [prepareRenderQueue(Renderer renderer, IRenderQueue queue, Node node, Entity entity)](#prepareRenderQueue-com.aspose.threed.Renderer-com.aspose.threed.IRenderQueue-com.aspose.threed.Node-com.aspose.threed.Entity-) | Prepare rendering commands for specified node/entity pair. |
-| [renderEntity(Renderer renderer, ICommandList commandList, Node node, Object renderableResource, int subEntity)](#renderEntity-com.aspose.threed.Renderer-com.aspose.threed.ICommandList-com.aspose.threed.Node-java.lang.Object-int-) | Each render task pushed to the com.aspose.threed.IRenderQueue will have a corresponding RenderEntity call to perform the concrete rendering job. |
-| [dispose()](#dispose--) | The entity renderer is being disposed, release shared resources. |
+| [renderEntity(Renderer renderer, ICommandList commandList, Node node, Object renderableResource, int subEntity)](#renderEntity-com.aspose.threed.Renderer-com.aspose.threed.ICommandList-com.aspose.threed.Node-java.lang.Object-int-) | Each render task pushed to the [IRenderQueue](../../com.aspose.threed/irenderqueue) will have a corresponding RenderEntity call to perform the concrete rendering job. |
+| [resetSceneCache()](#resetSceneCache--) | The scene has changed or removed, need to dispose scene-level render resources in this |
+| [toString()](#toString--) |  |
+| [wait()](#wait--) |  |
+| [wait(long arg0)](#wait-long-) |  |
+| [wait(long arg0, int arg1)](#wait-long-int-) |  |
 ### EntityRenderer(String key, byte features) {#EntityRenderer-java.lang.String-byte-}
 ```
 public EntityRenderer(String key, byte features)
 ```
 
 
-Constructor of com.aspose.threed.EntityRenderer
+Constructor of [EntityRenderer](../../com.aspose.threed/entityrenderer)
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -51,34 +60,36 @@ public EntityRenderer(String key)
 ```
 
 
-Constructor of com.aspose.threed.EntityRenderer
+Constructor of [EntityRenderer](../../com.aspose.threed/entityrenderer)
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
 | key | java.lang.String | The key of the entity renderer |
 
-### initialize(Renderer renderer) {#initialize-com.aspose.threed.Renderer-}
+### dispose() {#dispose--}
 ```
-public void initialize(Renderer renderer)
+public void dispose()
 ```
 
 
-Initialize the entity renderer
+The entity renderer is being disposed, release shared resources.
+
+### equals(Object arg0) {#equals-java.lang.Object-}
+```
+public boolean equals(Object arg0)
+```
+
+
+
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| renderer | [Renderer](../../com.aspose.threed/renderer) |  |
+| arg0 | java.lang.Object |  |
 
-### resetSceneCache() {#resetSceneCache--}
-```
-public void resetSceneCache()
-```
-
-
-The scene has changed or removed, need to dispose scene-level render resources in this
-
+**Returns:**
+boolean
 ### frameBegin(Renderer renderer, IRenderQueue renderQueue) {#frameBegin-com.aspose.threed.Renderer-com.aspose.threed.IRenderQueue-}
 ```
 public void frameBegin(Renderer renderer, IRenderQueue renderQueue)
@@ -107,6 +118,55 @@ Ends rendering a frame
 | renderer | [Renderer](../../com.aspose.threed/renderer) | Current renderer |
 | renderQueue | [IRenderQueue](../../com.aspose.threed/irenderqueue) | Render queue |
 
+### getClass() {#getClass--}
+```
+public final native Class<?> getClass()
+```
+
+
+
+
+**Returns:**
+java.lang.Class<?>
+### hashCode() {#hashCode--}
+```
+public native int hashCode()
+```
+
+
+
+
+**Returns:**
+int
+### initialize(Renderer renderer) {#initialize-com.aspose.threed.Renderer-}
+```
+public void initialize(Renderer renderer)
+```
+
+
+Initialize the entity renderer
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| renderer | [Renderer](../../com.aspose.threed/renderer) |  |
+
+### notify() {#notify--}
+```
+public final native void notify()
+```
+
+
+
+
+### notifyAll() {#notifyAll--}
+```
+public final native void notifyAll()
+```
+
+
+
+
 ### prepareRenderQueue(Renderer renderer, IRenderQueue queue, Node node, Entity entity) {#prepareRenderQueue-com.aspose.threed.Renderer-com.aspose.threed.IRenderQueue-com.aspose.threed.Node-com.aspose.threed.Entity-}
 ```
 public void prepareRenderQueue(Renderer renderer, IRenderQueue queue, Node node, Entity entity)
@@ -129,7 +189,7 @@ public void renderEntity(Renderer renderer, ICommandList commandList, Node node,
 ```
 
 
-Each render task pushed to the com.aspose.threed.IRenderQueue will have a corresponding RenderEntity call to perform the concrete rendering job.
+Each render task pushed to the [IRenderQueue](../../com.aspose.threed/irenderqueue) will have a corresponding RenderEntity call to perform the concrete rendering job.
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -140,11 +200,56 @@ Each render task pushed to the com.aspose.threed.IRenderQueue will have a corres
 | renderableResource | java.lang.Object | The custom object that passed to IRenderQueue during the PrepareRenderQueue |
 | subEntity | int | The index of the sub entity that passed to IRenderQueue |
 
-### dispose() {#dispose--}
+### resetSceneCache() {#resetSceneCache--}
 ```
-public void dispose()
+public void resetSceneCache()
 ```
 
 
-The entity renderer is being disposed, release shared resources.
+The scene has changed or removed, need to dispose scene-level render resources in this
+
+### toString() {#toString--}
+```
+public String toString()
+```
+
+
+
+
+**Returns:**
+java.lang.String
+### wait() {#wait--}
+```
+public final void wait()
+```
+
+
+
+
+### wait(long arg0) {#wait-long-}
+```
+public final native void wait(long arg0)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+
+### wait(long arg0, int arg1) {#wait-long-int-}
+```
+public final void wait(long arg0, int arg1)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+| arg1 | int |  |
 

@@ -12,7 +12,17 @@ is_root: false
 
 
 Gets or sets the scene node, points to a skinned skeleton node
+### Definition:
+```python
+@property
+def node(self):
+    ...
+@node.setter
+def node(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed](../../)
 * class [BonePose](/3d/python-net/aspose.threed/bonepose)
+* class [Node](/3d/python-net/aspose.threed/node)

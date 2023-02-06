@@ -12,6 +12,12 @@ is_root: false
 
 
 The total size of all vertices in bytes
+### Definition:
+```python
+@property
+def vertices_size_in_bytes(self):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.entities](../../)

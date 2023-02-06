@@ -22,6 +22,6 @@ The ExportException type exposes the following members:
 | [ExportException(msg)](/3d/python-net/aspose.threed/exportexception/__init__/#str) | Initializes a new instance |
 
 
-### See Also
 
-* module [aspose.threed](../)
+### See Also
+* module [aspose.threed](..)

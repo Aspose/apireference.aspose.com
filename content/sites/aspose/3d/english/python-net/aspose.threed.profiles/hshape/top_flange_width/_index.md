@@ -12,6 +12,15 @@ is_root: false
 
 
 Gets or sets the width of the top flange.
+### Definition:
+```python
+@property
+def top_flange_width(self):
+    ...
+@top_flange_width.setter
+def top_flange_width(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.profiles](../../)

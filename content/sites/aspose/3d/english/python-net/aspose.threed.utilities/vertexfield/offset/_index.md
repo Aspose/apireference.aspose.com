@@ -12,6 +12,12 @@ is_root: false
 
 
 The offset in bytes of this field.
+### Definition:
+```python
+@property
+def offset(self):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.utilities](../../)

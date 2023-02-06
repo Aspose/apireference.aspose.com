@@ -12,7 +12,17 @@ is_root: false
 
 
 Gets or sets the texture for diffuse
+### Definition:
+```python
+@property
+def diffuse_texture(self):
+    ...
+@diffuse_texture.setter
+def diffuse_texture(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.shading](../../)
 * class [PbrSpecularMaterial](/3d/python-net/aspose.threed.shading/pbrspecularmaterial)
+* class [TextureBase](/3d/python-net/aspose.threed.shading/texturebase)

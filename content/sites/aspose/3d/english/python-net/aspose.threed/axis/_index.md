@@ -24,6 +24,6 @@ The Axis type exposes the following members:
 | Z_AXIS | The Z axis. |
 
 
-### See Also
 
-* module [aspose.threed](../)
+### See Also
+* module [aspose.threed](..)

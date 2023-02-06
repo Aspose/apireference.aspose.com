@@ -30,54 +30,54 @@ The RvmFormat type exposes the following members:
 | [extensions](/3d/python-net/aspose.threed.formats/rvmformat/extensions) | Gets the extension names of this type. |
 | [content_type](/3d/python-net/aspose.threed.formats/rvmformat/content_type) | Gets file format content type |
 | [file_format_type](/3d/python-net/aspose.threed.formats/rvmformat/file_format_type) | Gets file format type |
-| [FBX6100ASCII](/3d/python-net/aspose.threed.formats/rvmformat/FBX6100ASCII) | ASCII FBX file format, with 6.1.0 version |
-| [FBX6100_BINARY](/3d/python-net/aspose.threed.formats/rvmformat/FBX6100_BINARY) | Binary FBX file format, with 6.1.0 version |
-| [FBX7200ASCII](/3d/python-net/aspose.threed.formats/rvmformat/FBX7200ASCII) | ASCII FBX file format, with 7.2.0 version |
-| [FBX7200_BINARY](/3d/python-net/aspose.threed.formats/rvmformat/FBX7200_BINARY) | Binary FBX file format, with 7.2.0 version |
-| [FBX7300ASCII](/3d/python-net/aspose.threed.formats/rvmformat/FBX7300ASCII) | ASCII FBX file format, with 7.3.0 version |
-| [FBX7300_BINARY](/3d/python-net/aspose.threed.formats/rvmformat/FBX7300_BINARY) | Binary FBX file format, with 7.3.0 version |
-| [FBX7400ASCII](/3d/python-net/aspose.threed.formats/rvmformat/FBX7400ASCII) | ASCII FBX file format, with 7.4.0 version |
-| [FBX7400_BINARY](/3d/python-net/aspose.threed.formats/rvmformat/FBX7400_BINARY) | Binary FBX file format, with 7.4.0 version |
-| [FBX7500ASCII](/3d/python-net/aspose.threed.formats/rvmformat/FBX7500ASCII) | ASCII FBX file format, with 7.5.0 version |
-| [FBX7500_BINARY](/3d/python-net/aspose.threed.formats/rvmformat/FBX7500_BINARY) | Binary FBX file format, with 7.5.0 version |
-| [FBX7600ASCII](/3d/python-net/aspose.threed.formats/rvmformat/FBX7600ASCII) | ASCII FBX file format, with 7.6.0 version |
-| [FBX7600_BINARY](/3d/python-net/aspose.threed.formats/rvmformat/FBX7600_BINARY) | Binary FBX file format, with 7.6.0 version |
-| [FBX7700ASCII](/3d/python-net/aspose.threed.formats/rvmformat/FBX7700ASCII) | ASCII FBX file format, with 7.7.0 version |
-| [FBX7700_BINARY](/3d/python-net/aspose.threed.formats/rvmformat/FBX7700_BINARY) | Binary FBX file format, with 7.7.0 version |
-| [MAYA_ASCII](/3d/python-net/aspose.threed.formats/rvmformat/MAYA_ASCII) | Autodesk Maya in ASCII format |
-| [MAYA_BINARY](/3d/python-net/aspose.threed.formats/rvmformat/MAYA_BINARY) | Autodesk Maya in Binary format |
-| [STL_BINARY](/3d/python-net/aspose.threed.formats/rvmformat/STL_BINARY) | Binary STL file format |
-| [STLASCII](/3d/python-net/aspose.threed.formats/rvmformat/STLASCII) | ASCII STL file format |
-| [WAVEFRONT_OBJ](/3d/python-net/aspose.threed.formats/rvmformat/WAVEFRONT_OBJ) | Wavefront's Obj file format |
-| [DISCREET_3DS](/3d/python-net/aspose.threed.formats/rvmformat/DISCREET_3DS) | 3D Studio's file format |
-| [COLLADA](/3d/python-net/aspose.threed.formats/rvmformat/COLLADA) | Collada file format |
-| [UNIVERSAL_3D](/3d/python-net/aspose.threed.formats/rvmformat/UNIVERSAL_3D) | Universal3D file format |
-| [GLTF](/3d/python-net/aspose.threed.formats/rvmformat/GLTF) | Khronos Group's glTF |
-| [GLTF2](/3d/python-net/aspose.threed.formats/rvmformat/GLTF2) | Khronos Group's glTF version 2.0 |
-| [GLTF_BINARY](/3d/python-net/aspose.threed.formats/rvmformat/GLTF_BINARY) | Khronos Group's glTF in Binary format |
-| [GLTF2_BINARY](/3d/python-net/aspose.threed.formats/rvmformat/GLTF2_BINARY) | Khronos Group's glTF version 2.0 |
-| [PDF](/3d/python-net/aspose.threed.formats/rvmformat/PDF) | Adobe's Portable Document Format |
-| [DXF](/3d/python-net/aspose.threed.formats/rvmformat/DXF) | AutoCAD DXF |
-| [PLY](/3d/python-net/aspose.threed.formats/rvmformat/PLY) | Polygon File Format or Stanford Triangle Format |
-| [X_BINARY](/3d/python-net/aspose.threed.formats/rvmformat/X_BINARY) | DirectX X File in binary format |
-| [X_TEXT](/3d/python-net/aspose.threed.formats/rvmformat/X_TEXT) | DirectX X File in binary format |
-| [DRACO](/3d/python-net/aspose.threed.formats/rvmformat/DRACO) | Google Draco Mesh |
-| [MICROSOFT_3MF](/3d/python-net/aspose.threed.formats/rvmformat/MICROSOFT_3MF) | Microsoft 3D Manufacturing Format |
-| [RVM_TEXT](/3d/python-net/aspose.threed.formats/rvmformat/RVM_TEXT) | AVEVA Plant Design Management System Model in text format |
-| [RVM_BINARY](/3d/python-net/aspose.threed.formats/rvmformat/RVM_BINARY) | AVEVA Plant Design Management System Model in binary format |
-| [ASE](/3d/python-net/aspose.threed.formats/rvmformat/ASE) | 3D Studio Max's ASCII Scene Exporter format. |
-| [SIEMENS_JT8](/3d/python-net/aspose.threed.formats/rvmformat/SIEMENS_JT8) | Siemens JT File Version 8 |
-| [SIEMENS_JT9](/3d/python-net/aspose.threed.formats/rvmformat/SIEMENS_JT9) | Siemens JT File Version 9 |
-| [AMF](/3d/python-net/aspose.threed.formats/rvmformat/AMF) | Additive manufacturing file format |
-| [VRML](/3d/python-net/aspose.threed.formats/rvmformat/VRML) | The Virtual Reality Modeling Language |
-| [ASPOSE_3D_WEB](/3d/python-net/aspose.threed.formats/rvmformat/ASPOSE_3D_WEB) | Aspose.3D Web format. |
-| [HTML5](/3d/python-net/aspose.threed.formats/rvmformat/HTML5) | HTML5 File |
-| [ZIP](/3d/python-net/aspose.threed.formats/rvmformat/ZIP) | Zip archive that contains other 3d file format. |
-| [USD](/3d/python-net/aspose.threed.formats/rvmformat/USD) | Universal Scene Description |
-| [USDZ](/3d/python-net/aspose.threed.formats/rvmformat/USDZ) | Compressed Universal Scene Description |
-| [XYZ](/3d/python-net/aspose.threed.formats/rvmformat/XYZ) | Xyz point cloud file |
-| [PCD](/3d/python-net/aspose.threed.formats/rvmformat/PCD) | PCL Point Cloud Data file in ASCII mode |
-| [PCD_BINARY](/3d/python-net/aspose.threed.formats/rvmformat/PCD_BINARY) | PCL Point Cloud Data file in Binary mode |
+| [FBX6100ASCII](/3d/python-net/aspose.threed.formats/rvmformat/fbx6100ascii) | ASCII FBX file format, with 6.1.0 version |
+| [FBX6100_BINARY](/3d/python-net/aspose.threed.formats/rvmformat/fbx6100_binary) | Binary FBX file format, with 6.1.0 version |
+| [FBX7200ASCII](/3d/python-net/aspose.threed.formats/rvmformat/fbx7200ascii) | ASCII FBX file format, with 7.2.0 version |
+| [FBX7200_BINARY](/3d/python-net/aspose.threed.formats/rvmformat/fbx7200_binary) | Binary FBX file format, with 7.2.0 version |
+| [FBX7300ASCII](/3d/python-net/aspose.threed.formats/rvmformat/fbx7300ascii) | ASCII FBX file format, with 7.3.0 version |
+| [FBX7300_BINARY](/3d/python-net/aspose.threed.formats/rvmformat/fbx7300_binary) | Binary FBX file format, with 7.3.0 version |
+| [FBX7400ASCII](/3d/python-net/aspose.threed.formats/rvmformat/fbx7400ascii) | ASCII FBX file format, with 7.4.0 version |
+| [FBX7400_BINARY](/3d/python-net/aspose.threed.formats/rvmformat/fbx7400_binary) | Binary FBX file format, with 7.4.0 version |
+| [FBX7500ASCII](/3d/python-net/aspose.threed.formats/rvmformat/fbx7500ascii) | ASCII FBX file format, with 7.5.0 version |
+| [FBX7500_BINARY](/3d/python-net/aspose.threed.formats/rvmformat/fbx7500_binary) | Binary FBX file format, with 7.5.0 version |
+| [FBX7600ASCII](/3d/python-net/aspose.threed.formats/rvmformat/fbx7600ascii) | ASCII FBX file format, with 7.6.0 version |
+| [FBX7600_BINARY](/3d/python-net/aspose.threed.formats/rvmformat/fbx7600_binary) | Binary FBX file format, with 7.6.0 version |
+| [FBX7700ASCII](/3d/python-net/aspose.threed.formats/rvmformat/fbx7700ascii) | ASCII FBX file format, with 7.7.0 version |
+| [FBX7700_BINARY](/3d/python-net/aspose.threed.formats/rvmformat/fbx7700_binary) | Binary FBX file format, with 7.7.0 version |
+| [MAYA_ASCII](/3d/python-net/aspose.threed.formats/rvmformat/maya_ascii) | Autodesk Maya in ASCII format |
+| [MAYA_BINARY](/3d/python-net/aspose.threed.formats/rvmformat/maya_binary) | Autodesk Maya in Binary format |
+| [STL_BINARY](/3d/python-net/aspose.threed.formats/rvmformat/stl_binary) | Binary STL file format |
+| [STLASCII](/3d/python-net/aspose.threed.formats/rvmformat/stlascii) | ASCII STL file format |
+| [WAVEFRONT_OBJ](/3d/python-net/aspose.threed.formats/rvmformat/wavefront_obj) | Wavefront's Obj file format |
+| [DISCREET_3DS](/3d/python-net/aspose.threed.formats/rvmformat/discreet_3ds) | 3D Studio's file format |
+| [COLLADA](/3d/python-net/aspose.threed.formats/rvmformat/collada) | Collada file format |
+| [UNIVERSAL_3D](/3d/python-net/aspose.threed.formats/rvmformat/universal_3d) | Universal3D file format |
+| [GLTF](/3d/python-net/aspose.threed.formats/rvmformat/gltf) | Khronos Group's glTF |
+| [GLTF2](/3d/python-net/aspose.threed.formats/rvmformat/gltf2) | Khronos Group's glTF version 2.0 |
+| [GLTF_BINARY](/3d/python-net/aspose.threed.formats/rvmformat/gltf_binary) | Khronos Group's glTF in Binary format |
+| [GLTF2_BINARY](/3d/python-net/aspose.threed.formats/rvmformat/gltf2_binary) | Khronos Group's glTF version 2.0 |
+| [PDF](/3d/python-net/aspose.threed.formats/rvmformat/pdf) | Adobe's Portable Document Format |
+| [DXF](/3d/python-net/aspose.threed.formats/rvmformat/dxf) | AutoCAD DXF |
+| [PLY](/3d/python-net/aspose.threed.formats/rvmformat/ply) | Polygon File Format or Stanford Triangle Format |
+| [X_BINARY](/3d/python-net/aspose.threed.formats/rvmformat/x_binary) | DirectX X File in binary format |
+| [X_TEXT](/3d/python-net/aspose.threed.formats/rvmformat/x_text) | DirectX X File in binary format |
+| [DRACO](/3d/python-net/aspose.threed.formats/rvmformat/draco) | Google Draco Mesh |
+| [MICROSOFT_3MF](/3d/python-net/aspose.threed.formats/rvmformat/microsoft_3mf) | Microsoft 3D Manufacturing Format |
+| [RVM_TEXT](/3d/python-net/aspose.threed.formats/rvmformat/rvm_text) | AVEVA Plant Design Management System Model in text format |
+| [RVM_BINARY](/3d/python-net/aspose.threed.formats/rvmformat/rvm_binary) | AVEVA Plant Design Management System Model in binary format |
+| [ASE](/3d/python-net/aspose.threed.formats/rvmformat/ase) | 3D Studio Max's ASCII Scene Exporter format. |
+| [SIEMENS_JT8](/3d/python-net/aspose.threed.formats/rvmformat/siemens_jt8) | Siemens JT File Version 8 |
+| [SIEMENS_JT9](/3d/python-net/aspose.threed.formats/rvmformat/siemens_jt9) | Siemens JT File Version 9 |
+| [AMF](/3d/python-net/aspose.threed.formats/rvmformat/amf) | Additive manufacturing file format |
+| [VRML](/3d/python-net/aspose.threed.formats/rvmformat/vrml) | The Virtual Reality Modeling Language |
+| [ASPOSE_3D_WEB](/3d/python-net/aspose.threed.formats/rvmformat/aspose_3d_web) | Aspose.3D Web format. |
+| [HTML5](/3d/python-net/aspose.threed.formats/rvmformat/html5) | HTML5 File |
+| [ZIP](/3d/python-net/aspose.threed.formats/rvmformat/zip) | Zip archive that contains other 3d file format. |
+| [USD](/3d/python-net/aspose.threed.formats/rvmformat/usd) | Universal Scene Description |
+| [USDZ](/3d/python-net/aspose.threed.formats/rvmformat/usdz) | Compressed Universal Scene Description |
+| [XYZ](/3d/python-net/aspose.threed.formats/rvmformat/xyz) | Xyz point cloud file |
+| [PCD](/3d/python-net/aspose.threed.formats/rvmformat/pcd) | PCL Point Cloud Data file in ASCII mode |
+| [PCD_BINARY](/3d/python-net/aspose.threed.formats/rvmformat/pcd_binary) | PCL Point Cloud Data file in Binary mode |
 
 
 ### Methods
@@ -92,7 +92,8 @@ The RvmFormat type exposes the following members:
 | [create_save_options()](/3d/python-net/aspose.threed.formats/rvmformat/create_save_options/#) | Create a default save options for this file format |
 
 
-### See Also
 
-* module [aspose.threed.formats](../)
-* class [FileFormat](/3d/python-net/aspose.threed.formats/fileformat)
+### See Also
+* module [aspose.threed.formats](..)
+* class [FileFormat](/3d/python-net/aspose.threed/fileformat)
+* class [RvmFormat](/3d/python-net/aspose.threed.formats/rvmformat)

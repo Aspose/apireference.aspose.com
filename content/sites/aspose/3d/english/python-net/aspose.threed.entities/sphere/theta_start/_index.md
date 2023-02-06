@@ -12,6 +12,15 @@ is_root: false
 
 
 Gets or sets the theta start.
+### Definition:
+```python
+@property
+def theta_start(self):
+    ...
+@theta_start.setter
+def theta_start(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.entities](../../)

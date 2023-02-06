@@ -16,6 +16,6 @@ The pre-baked sequence of operations to draw in GPU side.
 
 The IPipeline type exposes the following members:
 
-### See Also
 
-* module [aspose.threed.render](../)
+### See Also
+* module [aspose.threed.render](..)

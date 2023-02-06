@@ -12,6 +12,15 @@ is_root: false
 
 
 Gets or sets tension used in TCB spline
+### Definition:
+```python
+@property
+def tension(self):
+    ...
+@tension.setter
+def tension(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.animation](../../)

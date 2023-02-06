@@ -27,7 +27,7 @@ The Quaternion type exposes the following members:
 | Property | Description |
 | :- | :- |
 | [length](/3d/python-net/aspose.threed.utilities/quaternion/length) | Gets the length of the quaternion |
-| [IDENTITY](/3d/python-net/aspose.threed.utilities/quaternion/IDENTITY) | The Identity quaternion. |
+| [IDENTITY](/3d/python-net/aspose.threed.utilities/quaternion/identity) | The Identity quaternion. |
 | [w](/3d/python-net/aspose.threed.utilities/quaternion/w) | The w component. |
 | [x](/3d/python-net/aspose.threed.utilities/quaternion/x) | The x component. |
 | [y](/3d/python-net/aspose.threed.utilities/quaternion/y) | The y component. |
@@ -52,6 +52,7 @@ The Quaternion type exposes the following members:
 | [interpolate(t, from_address, to)](/3d/python-net/aspose.threed.utilities/quaternion/interpolate/#float-Quaternion-Quaternion) | Populates this quaternion with the interpolated value between the given quaternion arguments for a t between from and to. |
 
 
-### See Also
 
-* module [aspose.threed.utilities](../)
+### See Also
+* module [aspose.threed.utilities](..)
+* class [Quaternion](/3d/python-net/aspose.threed.utilities/quaternion)

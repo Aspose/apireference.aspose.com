@@ -12,6 +12,15 @@ is_root: false
 
 
 Gets or sets the out and next in tangents are independent.
+### Definition:
+```python
+@property
+def independent_tangent(self):
+    ...
+@independent_tangent.setter
+def independent_tangent(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.animation](../../)

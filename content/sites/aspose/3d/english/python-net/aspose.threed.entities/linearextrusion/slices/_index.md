@@ -12,6 +12,15 @@ is_root: false
 
 
 The slices of the twisted extruded geometry, default value is 1.
+### Definition:
+```python
+@property
+def slices(self):
+    ...
+@slices.setter
+def slices(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.entities](../../)

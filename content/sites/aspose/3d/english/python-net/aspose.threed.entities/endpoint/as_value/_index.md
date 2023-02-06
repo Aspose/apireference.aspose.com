@@ -12,6 +12,12 @@ is_root: false
 
 
 Gets the end point as a real parameter, or throw an exception.
+### Definition:
+```python
+@property
+def as_value(self):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.entities](../../)

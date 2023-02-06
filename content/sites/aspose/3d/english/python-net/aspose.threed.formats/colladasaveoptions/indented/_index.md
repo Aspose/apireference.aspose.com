@@ -12,6 +12,15 @@ is_root: false
 
 
 Gets or sets whether the exported XML document is indented.
+### Definition:
+```python
+@property
+def indented(self):
+    ...
+@indented.setter
+def indented(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.formats](../../)

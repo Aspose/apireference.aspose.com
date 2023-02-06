@@ -12,6 +12,15 @@ is_root: false
 
 
 The element name for the face data, default value is "face"
+### Definition:
+```python
+@property
+def face_element(self):
+    ...
+@face_element.setter
+def face_element(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.formats](../../)

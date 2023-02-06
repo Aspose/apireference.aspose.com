@@ -39,7 +39,9 @@ The GltfLoadOptions type exposes the following members:
 | [flip_tex_coord_v](/3d/python-net/aspose.threed.formats/gltfloadoptions/flip_tex_coord_v) | Flip the v(t) coordinate in mesh's texture coordinate, default value is true. |
 
 
-### See Also
 
-* module [aspose.threed.formats](../)
+### See Also
+* module [aspose.threed.formats](..)
+* class [GltfLoadOptions](/3d/python-net/aspose.threed.formats/gltfloadoptions)
+* class [IOConfig](/3d/python-net/aspose.threed.formats/ioconfig)
 * class [LoadOptions](/3d/python-net/aspose.threed.formats/loadoptions)

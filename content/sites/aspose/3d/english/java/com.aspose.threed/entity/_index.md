@@ -13,36 +13,144 @@ java.lang.Object, [com.aspose.threed.A3DObject](../../com.aspose.threed/a3dobjec
 public abstract class Entity extends SceneObject
 ```
 
-The base class of all entities. Entity represents a concrete object that attached under a node like com.aspose.threed.Light/com.aspose.threed.Geometry.
+The base class of all entities. Entity represents a concrete object that attached under a node like [Light](../../com.aspose.threed/light)/[Geometry](../../com.aspose.threed/geometry).
 ## Constructors
 
 | Constructor | Description |
 | --- | --- |
-| [Entity(String name)](#Entity-java.lang.String-) | Initializes a new instance of the com.aspose.threed.Entity class. |
+| [Entity(String name)](#Entity-java.lang.String-) | Initializes a new instance of the [Entity](../../com.aspose.threed/entity) class. |
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getParentNodes()](#getParentNodes--) | Gets all parent nodes, an entity can be attached to multiple parent nodes for geometry instancing |
-| [getExcluded()](#getExcluded--) | Gets whether to exclude this entity during exporting. |
-| [setExcluded(boolean value)](#setExcluded-boolean-) | Sets whether to exclude this entity during exporting. |
-| [getParentNode()](#getParentNode--) | Gets the first parent node, if set the first parent node, this entity will be detached from other parent nodes. |
-| [setParentNode(Node value)](#setParentNode-com.aspose.threed.Node-) | Sets the first parent node, if set the first parent node, this entity will be detached from other parent nodes. |
+| [equals(Object arg0)](#equals-java.lang.Object-) |  |
+| [findProperty(String propertyName)](#findProperty-java.lang.String-) | Finds the property. |
 | [getBoundingBox()](#getBoundingBox--) | Gets the bounding box of current entity in its object space coordinate system. |
+| [getClass()](#getClass--) |  |
 | [getEntityRendererKey()](#getEntityRendererKey--) | Gets the key of the entity renderer registered in the renderer |
+| [getExcluded()](#getExcluded--) | Gets whether to exclude this entity during exporting. |
+| [getName()](#getName--) | Gets the name. |
+| [getParentNode()](#getParentNode--) | Gets the first parent node, if set the first parent node, this entity will be detached from other parent nodes. |
+| [getParentNodes()](#getParentNodes--) | Gets all parent nodes, an entity can be attached to multiple parent nodes for geometry instancing |
+| [getProperties()](#getProperties--) | Gets the collection of all properties. |
+| [getProperty(String property)](#getProperty-java.lang.String-) | Get the value of specified property |
+| [getScene()](#getScene--) | Gets the scene that this object belongs to |
+| [hashCode()](#hashCode--) |  |
+| [notify()](#notify--) |  |
+| [notifyAll()](#notifyAll--) |  |
+| [removeProperty(Property property)](#removeProperty-com.aspose.threed.Property-) | Removes a dynamic property. |
+| [removeProperty(String property)](#removeProperty-java.lang.String-) | Remove the specified property identified by name |
+| [setExcluded(boolean value)](#setExcluded-boolean-) | Sets whether to exclude this entity during exporting. |
+| [setName(String value)](#setName-java.lang.String-) | Sets the name. |
+| [setParentNode(Node value)](#setParentNode-com.aspose.threed.Node-) | Sets the first parent node, if set the first parent node, this entity will be detached from other parent nodes. |
+| [setProperty(String property, Object value)](#setProperty-java.lang.String-java.lang.Object-) | Sets the value of specified property |
+| [toString()](#toString--) |  |
+| [wait()](#wait--) |  |
+| [wait(long arg0)](#wait-long-) |  |
+| [wait(long arg0, int arg1)](#wait-long-int-) |  |
 ### Entity(String name) {#Entity-java.lang.String-}
 ```
 public Entity(String name)
 ```
 
 
-Initializes a new instance of the com.aspose.threed.Entity class.
+Initializes a new instance of the [Entity](../../com.aspose.threed/entity) class.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
 | name | java.lang.String | Name. |
 
+### equals(Object arg0) {#equals-java.lang.Object-}
+```
+public boolean equals(Object arg0)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | java.lang.Object |  |
+
+**Returns:**
+boolean
+### findProperty(String propertyName) {#findProperty-java.lang.String-}
+```
+public Property findProperty(String propertyName)
+```
+
+
+Finds the property. It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) or native property(Identified by its name)
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| propertyName | java.lang.String | Property name. |
+
+**Returns:**
+[Property](../../com.aspose.threed/property) - The property.
+### getBoundingBox() {#getBoundingBox--}
+```
+public BoundingBox getBoundingBox()
+```
+
+
+Gets the bounding box of current entity in its object space coordinate system.
+
+**Returns:**
+[BoundingBox](../../com.aspose.threed/boundingbox)
+### getClass() {#getClass--}
+```
+public final native Class<?> getClass()
+```
+
+
+
+
+**Returns:**
+java.lang.Class<?>
+### getEntityRendererKey() {#getEntityRendererKey--}
+```
+public EntityRendererKey getEntityRendererKey()
+```
+
+
+Gets the key of the entity renderer registered in the renderer
+
+**Returns:**
+[EntityRendererKey](../../com.aspose.threed/entityrendererkey)
+### getExcluded() {#getExcluded--}
+```
+public boolean getExcluded()
+```
+
+
+Gets whether to exclude this entity during exporting.
+
+**Returns:**
+boolean
+### getName() {#getName--}
+```
+public String getName()
+```
+
+
+Gets the name.
+
+**Returns:**
+java.lang.String
+### getParentNode() {#getParentNode--}
+```
+public Node getParentNode()
+```
+
+
+Gets the first parent node, if set the first parent node, this entity will be detached from other parent nodes.
+
+**Returns:**
+[Node](../../com.aspose.threed/node)
 ### getParentNodes() {#getParentNodes--}
 ```
 public ArrayList<Node> getParentNodes()
@@ -53,13 +161,94 @@ Gets all parent nodes, an entity can be attached to multiple parent nodes for ge
 
 **Returns:**
 java.util.ArrayList<com.aspose.threed.Node>
-### getExcluded() {#getExcluded--}
+### getProperties() {#getProperties--}
 ```
-public boolean getExcluded()
+public PropertyCollection getProperties()
 ```
 
 
-Gets whether to exclude this entity during exporting.
+Gets the collection of all properties.
+
+**Returns:**
+[PropertyCollection](../../com.aspose.threed/propertycollection)
+### getProperty(String property) {#getProperty-java.lang.String-}
+```
+public Object getProperty(String property)
+```
+
+
+Get the value of specified property
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| property | java.lang.String | Property name |
+
+**Returns:**
+java.lang.Object - The value of the found property
+### getScene() {#getScene--}
+```
+public Scene getScene()
+```
+
+
+Gets the scene that this object belongs to
+
+**Returns:**
+[Scene](../../com.aspose.threed/scene)
+### hashCode() {#hashCode--}
+```
+public native int hashCode()
+```
+
+
+
+
+**Returns:**
+int
+### notify() {#notify--}
+```
+public final native void notify()
+```
+
+
+
+
+### notifyAll() {#notifyAll--}
+```
+public final native void notifyAll()
+```
+
+
+
+
+### removeProperty(Property property) {#removeProperty-com.aspose.threed.Property-}
+```
+public boolean removeProperty(Property property)
+```
+
+
+Removes a dynamic property.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| property | [Property](../../com.aspose.threed/property) | Which property to remove |
+
+**Returns:**
+boolean - true if the property is successfully removed
+### removeProperty(String property) {#removeProperty-java.lang.String-}
+```
+public boolean removeProperty(String property)
+```
+
+
+Remove the specified property identified by name
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| property | java.lang.String |  |
 
 **Returns:**
 boolean
@@ -76,16 +265,19 @@ Sets whether to exclude this entity during exporting.
 | --- | --- | --- |
 | value | boolean | New value |
 
-### getParentNode() {#getParentNode--}
+### setName(String value) {#setName-java.lang.String-}
 ```
-public Node getParentNode()
+public void setName(String value)
 ```
 
 
-Gets the first parent node, if set the first parent node, this entity will be detached from other parent nodes.
+Sets the name.
 
-**Returns:**
-[Node](../../com.aspose.threed/node)
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | java.lang.String | New value |
+
 ### setParentNode(Node value) {#setParentNode-com.aspose.threed.Node-}
 ```
 public void setParentNode(Node value)
@@ -99,23 +291,62 @@ Sets the first parent node, if set the first parent node, this entity will be de
 | --- | --- | --- |
 | value | [Node](../../com.aspose.threed/node) | New value |
 
-### getBoundingBox() {#getBoundingBox--}
+### setProperty(String property, Object value) {#setProperty-java.lang.String-java.lang.Object-}
 ```
-public BoundingBox getBoundingBox()
+public void setProperty(String property, Object value)
 ```
 
 
-Gets the bounding box of current entity in its object space coordinate system.
+Sets the value of specified property
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| property | java.lang.String | Property name |
+| value | java.lang.Object | The value of the property |
+
+### toString() {#toString--}
+```
+public String toString()
+```
+
+
+
 
 **Returns:**
-[BoundingBox](../../com.aspose.threed/boundingbox)
-### getEntityRendererKey() {#getEntityRendererKey--}
+java.lang.String
+### wait() {#wait--}
 ```
-public EntityRendererKey getEntityRendererKey()
+public final void wait()
 ```
 
 
-Gets the key of the entity renderer registered in the renderer
 
-**Returns:**
-[EntityRendererKey](../../com.aspose.threed/entityrendererkey)
+
+### wait(long arg0) {#wait-long-}
+```
+public final native void wait(long arg0)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+
+### wait(long arg0, int arg1) {#wait-long-int-}
+```
+public final void wait(long arg0, int arg1)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+| arg1 | int |  |
+

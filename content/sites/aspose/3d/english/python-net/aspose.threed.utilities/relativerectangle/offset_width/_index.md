@@ -12,6 +12,15 @@ is_root: false
 
 
 Gets or sets the offset for width
+### Definition:
+```python
+@property
+def offset_width(self):
+    ...
+@offset_width.setter
+def offset_width(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.utilities](../../)

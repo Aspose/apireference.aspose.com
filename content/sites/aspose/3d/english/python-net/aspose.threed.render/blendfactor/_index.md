@@ -36,6 +36,6 @@ The BlendFactor type exposes the following members:
 | SRC_ALPHA_SATURATE | The blend factor is min(src.a, 1 - dst.a) |
 
 
-### See Also
 
-* module [aspose.threed.render](../)
+### See Also
+* module [aspose.threed.render](..)

@@ -14,6 +14,15 @@ is_root: false
 Gets or sets whether to embed the texture to the final output file.
 FBX Exporter will try to find the texture's raw data from [IOConfig.file_system](/3d/python-net/aspose.threed.formats/ioconfig#file_system), and embed the file to final FBX file.
 Default value is false.
+### Definition:
+```python
+@property
+def embed_textures(self):
+    ...
+@embed_textures.setter
+def embed_textures(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.formats](../../)

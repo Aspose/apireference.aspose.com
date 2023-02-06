@@ -12,6 +12,15 @@ is_root: false
 
 
 Gets or sets the application vendor's name
+### Definition:
+```python
+@property
+def application_vendor(self):
+    ...
+@application_vendor.setter
+def application_vendor(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed](../../)

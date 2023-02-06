@@ -12,7 +12,14 @@ is_root: false
 
 
 Gets the u direction.
+### Definition:
+```python
+@property
+def u(self):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.entities](../../)
 * class [Patch](/3d/python-net/aspose.threed.entities/patch)
+* class [PatchDirection](/3d/python-net/aspose.threed.entities/patchdirection)

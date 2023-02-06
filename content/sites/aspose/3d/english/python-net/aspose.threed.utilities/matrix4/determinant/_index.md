@@ -12,6 +12,12 @@ is_root: false
 
 
 Gets the determinant of the matrix.
+### Definition:
+```python
+@property
+def determinant(self):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.utilities](../../)

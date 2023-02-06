@@ -22,6 +22,6 @@ The IDescriptorSet type exposes the following members:
 | [begin_update()](/3d/python-net/aspose.threed.render/idescriptorset/begin_update/#) | Begin to update the descriptor set |
 
 
-### See Also
 
-* module [aspose.threed.render](../)
+### See Also
+* module [aspose.threed.render](..)

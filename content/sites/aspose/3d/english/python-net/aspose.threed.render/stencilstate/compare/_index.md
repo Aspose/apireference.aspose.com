@@ -12,7 +12,17 @@ is_root: false
 
 
 Gets or sets the compare function used in stencil test
+### Definition:
+```python
+@property
+def compare(self):
+    ...
+@compare.setter
+def compare(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.render](../../)
+* class [CompareFunction](/3d/python-net/aspose.threed.render/comparefunction)
 * class [StencilState](/3d/python-net/aspose.threed.render/stencilstate)

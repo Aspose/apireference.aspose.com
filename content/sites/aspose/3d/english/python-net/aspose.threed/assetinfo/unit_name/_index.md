@@ -13,6 +13,15 @@ is_root: false
 
 Gets or sets the unit of length used in this asset.
 e.g. cm/m/km/inch/feet
+### Definition:
+```python
+@property
+def unit_name(self):
+    ...
+@unit_name.setter
+def unit_name(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed](../../)

@@ -12,7 +12,17 @@ is_root: false
 
 
 Gets or sets the up direction of the camera
+### Definition:
+```python
+@property
+def up(self):
+    ...
+@up.setter
+def up(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.entities](../../)
 * class [Camera](/3d/python-net/aspose.threed.entities/camera)
+* class [Vector3](/3d/python-net/aspose.threed.utilities/vector3)

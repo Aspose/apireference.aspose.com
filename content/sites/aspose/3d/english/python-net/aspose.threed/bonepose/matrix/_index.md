@@ -12,7 +12,17 @@ is_root: false
 
 
 Gets or sets the transform matrix of the node in current pose.
+### Definition:
+```python
+@property
+def matrix(self):
+    ...
+@matrix.setter
+def matrix(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed](../../)
 * class [BonePose](/3d/python-net/aspose.threed/bonepose)
+* class [Matrix4](/3d/python-net/aspose.threed.utilities/matrix4)

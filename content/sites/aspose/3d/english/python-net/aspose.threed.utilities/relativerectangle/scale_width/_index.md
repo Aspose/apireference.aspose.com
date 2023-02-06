@@ -12,6 +12,15 @@ is_root: false
 
 
 Relative width
+### Definition:
+```python
+@property
+def scale_width(self):
+    ...
+@scale_width.setter
+def scale_width(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.utilities](../../)

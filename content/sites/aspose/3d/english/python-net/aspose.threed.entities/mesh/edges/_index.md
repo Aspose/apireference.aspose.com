@@ -12,6 +12,12 @@ is_root: false
 
 
 Gets edges of the Mesh.  Edge is optional in mesh, so it can be empty.
+### Definition:
+```python
+@property
+def edges(self):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.entities](../../)

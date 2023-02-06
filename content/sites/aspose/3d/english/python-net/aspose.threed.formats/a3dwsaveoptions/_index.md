@@ -40,7 +40,9 @@ The A3dwSaveOptions type exposes the following members:
 | [meta_data_prefix](/3d/python-net/aspose.threed.formats/a3dwsaveoptions/meta_data_prefix) | If this property is non-null, only the properties of Scene/Node that start with this prefix will be exported, and the prefix will be removed. |
 
 
-### See Also
 
-* module [aspose.threed.formats](../)
+### See Also
+* module [aspose.threed.formats](..)
+* class [A3dwSaveOptions](/3d/python-net/aspose.threed.formats/a3dwsaveoptions)
+* class [IOConfig](/3d/python-net/aspose.threed.formats/ioconfig)
 * class [SaveOptions](/3d/python-net/aspose.threed.formats/saveoptions)

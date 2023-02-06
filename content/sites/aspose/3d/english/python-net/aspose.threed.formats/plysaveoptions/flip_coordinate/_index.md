@@ -12,6 +12,15 @@ is_root: false
 
 
 Flip the coordinate while saving the scene, default value is true
+### Definition:
+```python
+@property
+def flip_coordinate(self):
+    ...
+@flip_coordinate.setter
+def flip_coordinate(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.formats](../../)

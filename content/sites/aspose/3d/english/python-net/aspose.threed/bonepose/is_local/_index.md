@@ -12,6 +12,15 @@ is_root: false
 
 
 Gets or sets if the matrix is defined in local coordinate.
+### Definition:
+```python
+@property
+def is_local(self):
+    ...
+@is_local.setter
+def is_local(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed](../../)

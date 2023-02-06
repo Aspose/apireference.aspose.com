@@ -63,7 +63,11 @@ The NurbsCurve type exposes the following members:
 | [evaluate_at(u)](/3d/python-net/aspose.threed.entities/nurbscurve/evaluate_at/#float) | Evaluate the curve's point at specified position |
 
 
-### See Also
 
-* module [aspose.threed.entities](../)
+### See Also
+* module [aspose.threed.entities](..)
+* class [A3DObject](/3d/python-net/aspose.threed/a3dobject)
 * class [Curve](/3d/python-net/aspose.threed.entities/curve)
+* class [Entity](/3d/python-net/aspose.threed/entity)
+* class [NurbsCurve](/3d/python-net/aspose.threed.entities/nurbscurve)
+* class [SceneObject](/3d/python-net/aspose.threed/sceneobject)

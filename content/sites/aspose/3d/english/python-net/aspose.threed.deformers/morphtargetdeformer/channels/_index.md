@@ -12,6 +12,12 @@ is_root: false
 
 
 Gets all channels contained in this deformer
+### Definition:
+```python
+@property
+def channels(self):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.deformers](../../)

@@ -13,6 +13,15 @@ is_root: false
 
 The inner radius of the rectangular torus
 Default value is 17
+### Definition:
+```python
+@property
+def inner_radius(self):
+    ...
+@inner_radius.setter
+def inner_radius(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.entities](../../)

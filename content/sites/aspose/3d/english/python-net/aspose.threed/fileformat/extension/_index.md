@@ -23,6 +23,12 @@ format = FileFormat.MAYA_BINARY
 print(f"Extension of {format} is {format.extension}")
 
 ```
+### Definition:
+```python
+@property
+def extension(self):
+    ...
+```
 
 ### See Also
 * module [aspose.threed](../../)

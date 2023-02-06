@@ -13,7 +13,17 @@ is_root: false
 
 Gets or sets the key's tangent weight mode.
 The out tangent or the next in tangent can be customized by select correct [WeightedMode](/3d/python-net/aspose.threed.animation/weightedmode)
+### Definition:
+```python
+@property
+def tangent_weight_mode(self):
+    ...
+@tangent_weight_mode.setter
+def tangent_weight_mode(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.animation](../../)
 * class [KeyFrame](/3d/python-net/aspose.threed.animation/keyframe)
+* class [WeightedMode](/3d/python-net/aspose.threed.animation/weightedmode)

@@ -13,6 +13,15 @@ is_root: false
 
 Gets or sets the content of a embedded shader script.
 It could be HLSL/GLSL shader source file.
+### Definition:
+```python
+@property
+def shader_content(self):
+    ...
+@shader_content.setter
+def shader_content(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.shading](../../)

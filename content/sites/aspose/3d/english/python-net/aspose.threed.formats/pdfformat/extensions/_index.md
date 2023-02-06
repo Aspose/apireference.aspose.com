@@ -12,6 +12,12 @@ is_root: false
 
 
 Gets the extension names of this type.
+### Definition:
+```python
+@property
+def extensions(self):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.formats](../../)

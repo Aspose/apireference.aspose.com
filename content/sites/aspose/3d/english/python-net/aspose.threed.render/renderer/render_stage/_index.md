@@ -12,7 +12,14 @@ is_root: false
 
 
 Gets the current render stage.
+### Definition:
+```python
+@property
+def render_stage(self):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.render](../../)
+* class [RenderStage](/3d/python-net/aspose.threed.render/renderstage)
 * class [Renderer](/3d/python-net/aspose.threed.render/renderer)

@@ -12,7 +12,17 @@ is_root: false
 
 
 Offset for bottom vertices
+### Definition:
+```python
+@property
+def bottom_offset(self):
+    ...
+@bottom_offset.setter
+def bottom_offset(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.entities](../../)
 * class [Pyramid](/3d/python-net/aspose.threed.entities/pyramid)
+* class [Vector3](/3d/python-net/aspose.threed.utilities/vector3)

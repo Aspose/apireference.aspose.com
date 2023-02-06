@@ -12,7 +12,14 @@ is_root: false
 
 
 Gets the file format that specified in current Save/Load option.
+### Definition:
+```python
+@property
+def file_format(self):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.formats](../../)
+* class [FileFormat](/3d/python-net/aspose.threed/fileformat)
 * class [XLoadOptions](/3d/python-net/aspose.threed.formats/xloadoptions)

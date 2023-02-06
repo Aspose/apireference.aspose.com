@@ -12,6 +12,15 @@ is_root: false
 
 
 Flip texture coordinate  v(t) component, default value is true.
+### Definition:
+```python
+@property
+def flip_tex_coord_v(self):
+    ...
+@flip_tex_coord_v.setter
+def flip_tex_coord_v(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.formats](../../)

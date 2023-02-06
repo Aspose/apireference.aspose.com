@@ -12,7 +12,17 @@ is_root: false
 
 
 Gets or sets the shader that used to render the phong material
+### Definition:
+```python
+@property
+def phong(self):
+    ...
+@phong.setter
+def phong(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.render](../../)
+* class [ShaderProgram](/3d/python-net/aspose.threed.render/shaderprogram)
 * class [ShaderSet](/3d/python-net/aspose.threed.render/shaderset)

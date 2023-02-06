@@ -26,7 +26,17 @@ node = Node()
 node.transform.geometric_translation = Vector3(10, 0, 0)
 
 ```
+### Definition:
+```python
+@property
+def geometric_translation(self):
+    ...
+@geometric_translation.setter
+def geometric_translation(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed](../../)
 * class [Transform](/3d/python-net/aspose.threed/transform)
+* class [Vector3](/3d/python-net/aspose.threed.utilities/vector3)

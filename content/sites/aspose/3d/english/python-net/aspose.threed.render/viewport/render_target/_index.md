@@ -12,7 +12,14 @@ is_root: false
 
 
 Gets the render target that created this viewport.
+### Definition:
+```python
+@property
+def render_target(self):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.render](../../)
+* class [IRenderTarget](/3d/python-net/aspose.threed.render/irendertarget)
 * class [Viewport](/3d/python-net/aspose.threed.render/viewport)

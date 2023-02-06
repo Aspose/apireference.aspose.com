@@ -39,3 +39,4 @@ The returned TriMesh will not copy the input byte array for performance, externa
 ### See Also
 * module [aspose.threed.entities](../../)
 * class [TriMesh](/3d/python-net/aspose.threed.entities/trimesh)
+* class [Vertex](/3d/python-net/aspose.threed.utilities/vertex)

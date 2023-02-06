@@ -12,6 +12,15 @@ is_root: false
 
 
 Export the scene as point cloud, default value is false.
+### Definition:
+```python
+@property
+def point_cloud(self):
+    ...
+@point_cloud.setter
+def point_cloud(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.formats](../../)

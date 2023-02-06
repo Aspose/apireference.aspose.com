@@ -12,6 +12,15 @@ is_root: false
 
 
 Gets or sets the height when frustum in orthographic projection.
+### Definition:
+```python
+@property
+def ortho_height(self):
+    ...
+@ortho_height.setter
+def ortho_height(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.entities](../../)

@@ -44,7 +44,9 @@ The PlySaveOptions type exposes the following members:
 | [face_property](/3d/python-net/aspose.threed.formats/plysaveoptions/face_property) | The property name for the face data, default value is "vertex_index" |
 
 
-### See Also
 
-* module [aspose.threed.formats](../)
+### See Also
+* module [aspose.threed.formats](..)
+* class [IOConfig](/3d/python-net/aspose.threed.formats/ioconfig)
+* class [PlySaveOptions](/3d/python-net/aspose.threed.formats/plysaveoptions)
 * class [SaveOptions](/3d/python-net/aspose.threed.formats/saveoptions)

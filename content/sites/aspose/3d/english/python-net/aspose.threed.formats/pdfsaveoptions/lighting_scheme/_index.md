@@ -12,7 +12,17 @@ is_root: false
 
 
 LightingScheme specifies the lighting to apply to 3D artwork.
+### Definition:
+```python
+@property
+def lighting_scheme(self):
+    ...
+@lighting_scheme.setter
+def lighting_scheme(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.formats](../../)
+* class [PdfLightingScheme](/3d/python-net/aspose.threed.formats/pdflightingscheme)
 * class [PdfSaveOptions](/3d/python-net/aspose.threed.formats/pdfsaveoptions)

@@ -12,6 +12,15 @@ is_root: false
 
 
 Gets or sets the flag whether the exporter should export the scene as point cloud(without topological structure), default value is false
+### Definition:
+```python
+@property
+def point_cloud(self):
+    ...
+@point_cloud.setter
+def point_cloud(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.formats](../../)

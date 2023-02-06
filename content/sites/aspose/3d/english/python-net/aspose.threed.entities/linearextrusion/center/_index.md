@@ -12,6 +12,15 @@ is_root: false
 
 
 If this value is false, the linear extrusion Z range is from 0 to height, otherwise the range is from -height/2 to height/2.
+### Definition:
+```python
+@property
+def center(self):
+    ...
+@center.setter
+def center(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.entities](../../)

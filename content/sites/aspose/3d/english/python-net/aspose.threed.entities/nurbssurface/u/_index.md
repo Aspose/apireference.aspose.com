@@ -12,7 +12,14 @@ is_root: false
 
 
 Gets the NURBS surface's U direction
+### Definition:
+```python
+@property
+def u(self):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.entities](../../)
+* class [NurbsDirection](/3d/python-net/aspose.threed.entities/nurbsdirection)
 * class [NurbsSurface](/3d/python-net/aspose.threed.entities/nurbssurface)

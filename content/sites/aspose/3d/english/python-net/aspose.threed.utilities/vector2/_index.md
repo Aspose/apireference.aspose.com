@@ -45,6 +45,7 @@ The Vector2 type exposes the following members:
 | [compare_to(other)](/3d/python-net/aspose.threed.utilities/vector2/compare_to/#Vector2) | Compare current vector to another instance. |
 
 
-### See Also
 
-* module [aspose.threed.utilities](../)
+### See Also
+* module [aspose.threed.utilities](..)
+* class [Vector2](/3d/python-net/aspose.threed.utilities/vector2)

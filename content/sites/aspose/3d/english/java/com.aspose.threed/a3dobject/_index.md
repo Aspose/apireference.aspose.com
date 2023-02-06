@@ -21,27 +21,36 @@ The base class of all Aspose.ThreeD objects, all sub classes will support dynami
 
 | Constructor | Description |
 | --- | --- |
-| [A3DObject(String name)](#A3DObject-java.lang.String-) | Initializes a new instance of the com.aspose.threed.A3DObject class. |
-| [A3DObject()](#A3DObject--) | Initializes a new instance of the com.aspose.threed.A3DObject class with no name. |
+| [A3DObject(String name)](#A3DObject-java.lang.String-) | Initializes a new instance of the [A3DObject](../../com.aspose.threed/a3dobject) class. |
+| [A3DObject()](#A3DObject--) | Initializes a new instance of the [A3DObject](../../com.aspose.threed/a3dobject) class with no name. |
 ## Methods
 
 | Method | Description |
 | --- | --- |
+| [equals(Object arg0)](#equals-java.lang.Object-) |  |
+| [findProperty(String propertyName)](#findProperty-java.lang.String-) | Finds the property. |
+| [getClass()](#getClass--) |  |
 | [getName()](#getName--) | Gets the name. |
-| [setName(String value)](#setName-java.lang.String-) | Sets the name. |
+| [getProperties()](#getProperties--) | Gets the collection of all properties. |
+| [getProperty(String property)](#getProperty-java.lang.String-) | Get the value of specified property |
+| [hashCode()](#hashCode--) |  |
+| [notify()](#notify--) |  |
+| [notifyAll()](#notifyAll--) |  |
 | [removeProperty(Property property)](#removeProperty-com.aspose.threed.Property-) | Removes a dynamic property. |
 | [removeProperty(String property)](#removeProperty-java.lang.String-) | Remove the specified property identified by name |
-| [getProperty(String property)](#getProperty-java.lang.String-) | Get the value of specified property |
+| [setName(String value)](#setName-java.lang.String-) | Sets the name. |
 | [setProperty(String property, Object value)](#setProperty-java.lang.String-java.lang.Object-) | Sets the value of specified property |
-| [findProperty(String propertyName)](#findProperty-java.lang.String-) | Finds the property. |
-| [getProperties()](#getProperties--) | Gets the collection of all properties. |
+| [toString()](#toString--) |  |
+| [wait()](#wait--) |  |
+| [wait(long arg0)](#wait-long-) |  |
+| [wait(long arg0, int arg1)](#wait-long-int-) |  |
 ### A3DObject(String name) {#A3DObject-java.lang.String-}
 ```
 public A3DObject(String name)
 ```
 
 
-Initializes a new instance of the com.aspose.threed.A3DObject class.
+Initializes a new instance of the [A3DObject](../../com.aspose.threed/a3dobject) class.
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -54,8 +63,48 @@ public A3DObject()
 ```
 
 
-Initializes a new instance of the com.aspose.threed.A3DObject class with no name.
+Initializes a new instance of the [A3DObject](../../com.aspose.threed/a3dobject) class with no name.
 
+### equals(Object arg0) {#equals-java.lang.Object-}
+```
+public boolean equals(Object arg0)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | java.lang.Object |  |
+
+**Returns:**
+boolean
+### findProperty(String propertyName) {#findProperty-java.lang.String-}
+```
+public Property findProperty(String propertyName)
+```
+
+
+Finds the property. It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) or native property(Identified by its name)
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| propertyName | java.lang.String | Property name. |
+
+**Returns:**
+[Property](../../com.aspose.threed/property) - The property.
+### getClass() {#getClass--}
+```
+public final native Class<?> getClass()
+```
+
+
+
+
+**Returns:**
+java.lang.Class<?>
 ### getName() {#getName--}
 ```
 public String getName()
@@ -66,18 +115,56 @@ Gets the name.
 
 **Returns:**
 java.lang.String
-### setName(String value) {#setName-java.lang.String-}
+### getProperties() {#getProperties--}
 ```
-public void setName(String value)
+public PropertyCollection getProperties()
 ```
 
 
-Sets the name.
+Gets the collection of all properties.
+
+**Returns:**
+[PropertyCollection](../../com.aspose.threed/propertycollection)
+### getProperty(String property) {#getProperty-java.lang.String-}
+```
+public Object getProperty(String property)
+```
+
+
+Get the value of specified property
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | java.lang.String | New value |
+| property | java.lang.String | Property name |
+
+**Returns:**
+java.lang.Object - The value of the found property
+### hashCode() {#hashCode--}
+```
+public native int hashCode()
+```
+
+
+
+
+**Returns:**
+int
+### notify() {#notify--}
+```
+public final native void notify()
+```
+
+
+
+
+### notifyAll() {#notifyAll--}
+```
+public final native void notifyAll()
+```
+
+
+
 
 ### removeProperty(Property property) {#removeProperty-com.aspose.threed.Property-}
 ```
@@ -109,21 +196,19 @@ Remove the specified property identified by name
 
 **Returns:**
 boolean
-### getProperty(String property) {#getProperty-java.lang.String-}
+### setName(String value) {#setName-java.lang.String-}
 ```
-public Object getProperty(String property)
+public void setName(String value)
 ```
 
 
-Get the value of specified property
+Sets the name.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| property | java.lang.String | Property name |
+| value | java.lang.String | New value |
 
-**Returns:**
-java.lang.Object - The value of the found property
 ### setProperty(String property, Object value) {#setProperty-java.lang.String-java.lang.Object-}
 ```
 public void setProperty(String property, Object value)
@@ -138,28 +223,48 @@ Sets the value of specified property
 | property | java.lang.String | Property name |
 | value | java.lang.Object | The value of the property |
 
-### findProperty(String propertyName) {#findProperty-java.lang.String-}
+### toString() {#toString--}
 ```
-public Property findProperty(String propertyName)
+public String toString()
 ```
 
 
-Finds the property. It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) or native property(Identified by its name)
+
+
+**Returns:**
+java.lang.String
+### wait() {#wait--}
+```
+public final void wait()
+```
+
+
+
+
+### wait(long arg0) {#wait-long-}
+```
+public final native void wait(long arg0)
+```
+
+
+
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| propertyName | java.lang.String | Property name. |
+| arg0 | long |  |
 
-**Returns:**
-[Property](../../com.aspose.threed/property) - The property.
-### getProperties() {#getProperties--}
+### wait(long arg0, int arg1) {#wait-long-int-}
 ```
-public PropertyCollection getProperties()
+public final void wait(long arg0, int arg1)
 ```
 
 
-Gets the collection of all properties.
 
-**Returns:**
-[PropertyCollection](../../com.aspose.threed/propertycollection)
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+| arg1 | int |  |
+

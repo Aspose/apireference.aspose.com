@@ -12,6 +12,12 @@ is_root: false
 
 
 Number of horizontal pixels
+### Definition:
+```python
+@property
+def width(self):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.render](../../)

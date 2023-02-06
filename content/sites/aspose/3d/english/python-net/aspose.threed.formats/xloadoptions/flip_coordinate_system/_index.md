@@ -12,6 +12,15 @@ is_root: false
 
 
 Flip the coordinate system, this is true by default
+### Definition:
+```python
+@property
+def flip_coordinate_system(self):
+    ...
+@flip_coordinate_system.setter
+def flip_coordinate_system(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.formats](../../)

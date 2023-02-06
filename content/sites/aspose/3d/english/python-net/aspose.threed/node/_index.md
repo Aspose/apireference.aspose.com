@@ -79,7 +79,9 @@ The Node type exposes the following members:
 | [select_objects(path)](/3d/python-net/aspose.threed/node/select_objects/#str) | Select multiple objects under current node using XPath-like query syntax. |
 
 
-### See Also
 
-* module [aspose.threed](../)
+### See Also
+* module [aspose.threed](..)
+* class [A3DObject](/3d/python-net/aspose.threed/a3dobject)
+* class [Node](/3d/python-net/aspose.threed/node)
 * class [SceneObject](/3d/python-net/aspose.threed/sceneobject)

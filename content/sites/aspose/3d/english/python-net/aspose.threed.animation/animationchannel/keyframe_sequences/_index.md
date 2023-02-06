@@ -12,6 +12,12 @@ is_root: false
 
 
 Gets all keyframe sequences inside this channel
+### Definition:
+```python
+@property
+def keyframe_sequences(self):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.animation](../../)

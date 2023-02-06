@@ -12,6 +12,12 @@ is_root: false
 
 
 Color output targets.
+### Definition:
+```python
+@property
+def targets(self):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.render](../../)

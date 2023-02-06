@@ -30,6 +30,8 @@ The SemanticAttribute type exposes the following members:
 | [alias](/3d/python-net/aspose.threed.utilities/semanticattribute/alias) | Alias of the vertex field |
 
 
-### See Also
 
-* module [aspose.threed.utilities](../)
+### See Also
+* module [aspose.threed.utilities](..)
+* class [SemanticAttribute](/3d/python-net/aspose.threed.utilities/semanticattribute)
+* class [VertexDeclaration](/3d/python-net/aspose.threed.utilities/vertexdeclaration)

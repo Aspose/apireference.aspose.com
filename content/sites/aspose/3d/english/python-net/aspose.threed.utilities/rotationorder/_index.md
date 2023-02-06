@@ -27,6 +27,6 @@ The RotationOrder type exposes the following members:
 | ZYX | Rotate in Z,Y,X order |
 
 
-### See Also
 
-* module [aspose.threed.utilities](../)
+### See Also
+* module [aspose.threed.utilities](..)

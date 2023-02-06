@@ -45,7 +45,9 @@ The PdfSaveOptions type exposes the following members:
 | [embed_textures](/3d/python-net/aspose.threed.formats/pdfsaveoptions/embed_textures) | Embed the external textures into the PDF file, default value is false. |
 
 
-### See Also
 
-* module [aspose.threed.formats](../)
+### See Also
+* module [aspose.threed.formats](..)
+* class [IOConfig](/3d/python-net/aspose.threed.formats/ioconfig)
+* class [PdfSaveOptions](/3d/python-net/aspose.threed.formats/pdfsaveoptions)
 * class [SaveOptions](/3d/python-net/aspose.threed.formats/saveoptions)

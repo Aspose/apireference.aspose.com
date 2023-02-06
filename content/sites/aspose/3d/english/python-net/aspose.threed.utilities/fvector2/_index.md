@@ -37,6 +37,7 @@ The FVector2 type exposes the following members:
 | [equals(rhs)](/3d/python-net/aspose.threed.utilities/fvector2/equals/#FVector2) | Check if two vectors are equal |
 
 
-### See Also
 
-* module [aspose.threed.utilities](../)
+### See Also
+* module [aspose.threed.utilities](..)
+* class [FVector2](/3d/python-net/aspose.threed.utilities/fvector2)

@@ -53,7 +53,6 @@ s.root_node.create_child_node("b")
 c = s.root_node.create_child_node("c")
 c.create_child_node("c1").add_entity(Camera("cam"))
 c.create_child_node("c2").add_entity(Light("light"))
-
 # select objects that has type Camera or name is 'light' whatever it's located.
 objects = s.root_node.select_objects("//*[(@Type = 'Camera') or (@Name = 'light')]")
 
@@ -64,3 +63,4 @@ objects = s.root_node.select_objects("//*[(@Type = 'Camera') or (@Name = 'light'
 ### See Also
 * module [aspose.threed](../../)
 * class [Node](/3d/python-net/aspose.threed/node)
+* class [ParseException](/3d/python-net/aspose.threed.utilities/parseexception)

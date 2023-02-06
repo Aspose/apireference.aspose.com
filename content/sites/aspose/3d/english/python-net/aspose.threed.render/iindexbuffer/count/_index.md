@@ -12,6 +12,12 @@ is_root: false
 
 
 Gets the number of index in this buffer.
+### Definition:
+```python
+@property
+def count(self):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.render](../../)

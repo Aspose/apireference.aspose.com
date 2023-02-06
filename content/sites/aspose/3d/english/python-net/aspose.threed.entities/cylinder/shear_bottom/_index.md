@@ -12,7 +12,17 @@ is_root: false
 
 
 Gets or sets of the shear transform of the bottom side, vector stores the (x-axis, z-axis) shear value that measured in radian, default value is (0, 0)
+### Definition:
+```python
+@property
+def shear_bottom(self):
+    ...
+@shear_bottom.setter
+def shear_bottom(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.entities](../../)
 * class [Cylinder](/3d/python-net/aspose.threed.entities/cylinder)
+* class [Vector2](/3d/python-net/aspose.threed.utilities/vector2)

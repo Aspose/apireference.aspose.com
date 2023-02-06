@@ -34,3 +34,4 @@ def render_entity(self, renderer, command_list, node, renderable_resource, sub_e
 ### See Also
 * module [aspose.threed.render](../../)
 * class [EntityRenderer](/3d/python-net/aspose.threed.render/entityrenderer)
+* class [IRenderQueue](/3d/python-net/aspose.threed.render/irenderqueue)

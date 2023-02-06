@@ -12,7 +12,14 @@ is_root: false
 
 
 Gets the stencil state for back face.
+### Definition:
+```python
+@property
+def stencil_back_face(self):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.render](../../)
 * class [RenderState](/3d/python-net/aspose.threed.render/renderstate)
+* class [StencilState](/3d/python-net/aspose.threed.render/stencilstate)

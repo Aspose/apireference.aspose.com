@@ -12,6 +12,15 @@ is_root: false
 
 
 Gets or sets whether to enable mesh data compression.
+### Definition:
+```python
+@property
+def mesh_compression(self):
+    ...
+@mesh_compression.setter
+def mesh_compression(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.formats](../../)

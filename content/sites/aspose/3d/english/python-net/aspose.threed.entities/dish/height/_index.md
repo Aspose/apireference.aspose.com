@@ -12,6 +12,15 @@ is_root: false
 
 
 Height of the dish
+### Definition:
+```python
+@property
+def height(self):
+    ...
+@height.setter
+def height(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.entities](../../)

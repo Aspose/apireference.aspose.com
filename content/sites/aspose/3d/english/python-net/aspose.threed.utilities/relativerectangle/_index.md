@@ -46,6 +46,7 @@ The RelativeRectangle type exposes the following members:
 | [from_scale(scale_x, scale_y, scale_width, scale_height)](/3d/python-net/aspose.threed.utilities/relativerectangle/from_scale/#float-float-float-float) | Construct a [RelativeRectangle](/3d/python-net/aspose.threed.utilities/relativerectangle) with all offset fields zero and scale fields from given parameters. |
 
 
-### See Also
 
-* module [aspose.threed.utilities](../)
+### See Also
+* module [aspose.threed.utilities](..)
+* class [RelativeRectangle](/3d/python-net/aspose.threed.utilities/relativerectangle)

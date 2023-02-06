@@ -12,6 +12,12 @@ is_root: false
 
 
 Gets the type of the property value.
+### Definition:
+```python
+@property
+def value_type(self):
+    ...
+```
 
 ### See Also
 * module [aspose.threed](../../)

@@ -21,120 +21,26 @@ Base class of vertex elements. A vertex element type is identified by VertexElem
 
 | Method | Description |
 | --- | --- |
-| [getVertexElementType()](#getVertexElementType--) | Gets the type of the com.aspose.threed.VertexElement |
-| [getName()](#getName--) | Gets the name. |
-| [setName(String value)](#setName-java.lang.String-) | Sets the name. |
-| [getMappingMode()](#getMappingMode--) | Gets how the element is mapped. |
-| [setMappingMode(MappingMode value)](#setMappingMode-com.aspose.threed.MappingMode-) | Sets how the element is mapped. |
-| [getReferenceMode()](#getReferenceMode--) | Gets how the element is referenced. |
-| [setReferenceMode(ReferenceMode value)](#setReferenceMode-com.aspose.threed.ReferenceMode-) | Sets how the element is referenced. |
-| [getIndices()](#getIndices--) | Gets the indices data |
-| [setIndices(int[] data)](#setIndices-int---) | Load indices |
 | [clear()](#clear--) | Clears all the data from this vertex element. |
 | [clone(boolean withData)](#clone-boolean-) | Deep clone the vertex element |
+| [equals(Object arg0)](#equals-java.lang.Object-) |  |
+| [getClass()](#getClass--) |  |
+| [getIndices()](#getIndices--) | Gets the indices data |
+| [getMappingMode()](#getMappingMode--) | Gets how the element is mapped. |
+| [getName()](#getName--) | Gets the name. |
+| [getReferenceMode()](#getReferenceMode--) | Gets how the element is referenced. |
+| [getVertexElementType()](#getVertexElementType--) | Gets the type of the [VertexElement](../../com.aspose.threed/vertexelement) |
+| [hashCode()](#hashCode--) |  |
+| [notify()](#notify--) |  |
+| [notifyAll()](#notifyAll--) |  |
+| [setIndices(int[] data)](#setIndices-int---) | Load indices |
+| [setMappingMode(MappingMode value)](#setMappingMode-com.aspose.threed.MappingMode-) | Sets how the element is mapped. |
+| [setName(String value)](#setName-java.lang.String-) | Sets the name. |
+| [setReferenceMode(ReferenceMode value)](#setReferenceMode-com.aspose.threed.ReferenceMode-) | Sets how the element is referenced. |
 | [toString()](#toString--) | String representation of vertex element. |
-### getVertexElementType() {#getVertexElementType--}
-```
-public VertexElementType getVertexElementType()
-```
-
-
-Gets the type of the com.aspose.threed.VertexElement
-
-**Returns:**
-[VertexElementType](../../com.aspose.threed/vertexelementtype)
-### getName() {#getName--}
-```
-public String getName()
-```
-
-
-Gets the name.
-
-**Returns:**
-java.lang.String
-### setName(String value) {#setName-java.lang.String-}
-```
-public void setName(String value)
-```
-
-
-Sets the name.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | java.lang.String | New value |
-
-### getMappingMode() {#getMappingMode--}
-```
-public MappingMode getMappingMode()
-```
-
-
-Gets how the element is mapped.
-
-**Returns:**
-[MappingMode](../../com.aspose.threed/mappingmode)
-### setMappingMode(MappingMode value) {#setMappingMode-com.aspose.threed.MappingMode-}
-```
-public void setMappingMode(MappingMode value)
-```
-
-
-Sets how the element is mapped.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | [MappingMode](../../com.aspose.threed/mappingmode) | New value |
-
-### getReferenceMode() {#getReferenceMode--}
-```
-public ReferenceMode getReferenceMode()
-```
-
-
-Gets how the element is referenced.
-
-**Returns:**
-[ReferenceMode](../../com.aspose.threed/referencemode)
-### setReferenceMode(ReferenceMode value) {#setReferenceMode-com.aspose.threed.ReferenceMode-}
-```
-public void setReferenceMode(ReferenceMode value)
-```
-
-
-Sets how the element is referenced.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | [ReferenceMode](../../com.aspose.threed/referencemode) | New value |
-
-### getIndices() {#getIndices--}
-```
-public List<Integer> getIndices()
-```
-
-
-Gets the indices data
-
-**Returns:**
-java.util.List<java.lang.Integer>
-### setIndices(int[] data) {#setIndices-int---}
-```
-public void setIndices(int[] data)
-```
-
-
-Load indices
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| data | int[] |  |
-
+| [wait()](#wait--) |  |
+| [wait(long arg0)](#wait-long-) |  |
+| [wait(long arg0, int arg1)](#wait-long-int-) |  |
 ### clear() {#clear--}
 ```
 public abstract void clear()
@@ -158,6 +64,159 @@ Deep clone the vertex element
 
 **Returns:**
 [VertexElement](../../com.aspose.threed/vertexelement)
+### equals(Object arg0) {#equals-java.lang.Object-}
+```
+public boolean equals(Object arg0)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | java.lang.Object |  |
+
+**Returns:**
+boolean
+### getClass() {#getClass--}
+```
+public final native Class<?> getClass()
+```
+
+
+
+
+**Returns:**
+java.lang.Class<?>
+### getIndices() {#getIndices--}
+```
+public List<Integer> getIndices()
+```
+
+
+Gets the indices data
+
+**Returns:**
+java.util.List<java.lang.Integer>
+### getMappingMode() {#getMappingMode--}
+```
+public MappingMode getMappingMode()
+```
+
+
+Gets how the element is mapped.
+
+**Returns:**
+[MappingMode](../../com.aspose.threed/mappingmode)
+### getName() {#getName--}
+```
+public String getName()
+```
+
+
+Gets the name.
+
+**Returns:**
+java.lang.String
+### getReferenceMode() {#getReferenceMode--}
+```
+public ReferenceMode getReferenceMode()
+```
+
+
+Gets how the element is referenced.
+
+**Returns:**
+[ReferenceMode](../../com.aspose.threed/referencemode)
+### getVertexElementType() {#getVertexElementType--}
+```
+public VertexElementType getVertexElementType()
+```
+
+
+Gets the type of the [VertexElement](../../com.aspose.threed/vertexelement)
+
+**Returns:**
+[VertexElementType](../../com.aspose.threed/vertexelementtype)
+### hashCode() {#hashCode--}
+```
+public native int hashCode()
+```
+
+
+
+
+**Returns:**
+int
+### notify() {#notify--}
+```
+public final native void notify()
+```
+
+
+
+
+### notifyAll() {#notifyAll--}
+```
+public final native void notifyAll()
+```
+
+
+
+
+### setIndices(int[] data) {#setIndices-int---}
+```
+public void setIndices(int[] data)
+```
+
+
+Load indices
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| data | int[] |  |
+
+### setMappingMode(MappingMode value) {#setMappingMode-com.aspose.threed.MappingMode-}
+```
+public void setMappingMode(MappingMode value)
+```
+
+
+Sets how the element is mapped.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | [MappingMode](../../com.aspose.threed/mappingmode) | New value |
+
+### setName(String value) {#setName-java.lang.String-}
+```
+public void setName(String value)
+```
+
+
+Sets the name.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | java.lang.String | New value |
+
+### setReferenceMode(ReferenceMode value) {#setReferenceMode-com.aspose.threed.ReferenceMode-}
+```
+public void setReferenceMode(ReferenceMode value)
+```
+
+
+Sets how the element is referenced.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | [ReferenceMode](../../com.aspose.threed/referencemode) | New value |
+
 ### toString() {#toString--}
 ```
 public String toString()
@@ -168,3 +227,38 @@ String representation of vertex element.
 
 **Returns:**
 java.lang.String
+### wait() {#wait--}
+```
+public final void wait()
+```
+
+
+
+
+### wait(long arg0) {#wait-long-}
+```
+public final native void wait(long arg0)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+
+### wait(long arg0, int arg1) {#wait-long-int-}
+```
+public final void wait(long arg0, int arg1)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+| arg1 | int |  |
+

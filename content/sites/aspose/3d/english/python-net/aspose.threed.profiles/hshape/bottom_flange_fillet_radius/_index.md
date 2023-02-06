@@ -12,6 +12,15 @@ is_root: false
 
 
 Gets or sets the radius of fillet between the web and the bottom flange.
+### Definition:
+```python
+@property
+def bottom_flange_fillet_radius(self):
+    ...
+@bottom_flange_fillet_radius.setter
+def bottom_flange_fillet_radius(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.profiles](../../)

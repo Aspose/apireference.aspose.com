@@ -33,6 +33,6 @@ The VertexFieldSemantic type exposes the following members:
 | WEIGHT | Blend weights |
 
 
-### See Also
 
-* module [aspose.threed.utilities](../)
+### See Also
+* module [aspose.threed.utilities](..)

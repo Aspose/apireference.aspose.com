@@ -27,6 +27,6 @@ The CubeFace type exposes the following members:
 | NEGATIVE_Z | The -Z face |
 
 
-### See Also
 
-* module [aspose.threed.render](../)
+### See Also
+* module [aspose.threed.render](..)

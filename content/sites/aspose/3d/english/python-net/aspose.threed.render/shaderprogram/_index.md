@@ -16,6 +16,6 @@ The shader program
 
 The ShaderProgram type exposes the following members:
 
-### See Also
 
-* module [aspose.threed.render](../)
+### See Also
+* module [aspose.threed.render](..)

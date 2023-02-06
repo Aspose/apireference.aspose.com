@@ -74,7 +74,11 @@ The Cylinder type exposes the following members:
 | [to_mesh()](/3d/python-net/aspose.threed.entities/cylinder/to_mesh/#) | Convert current object to mesh |
 
 
-### See Also
 
-* module [aspose.threed.entities](../)
+### See Also
+* module [aspose.threed.entities](..)
+* class [A3DObject](/3d/python-net/aspose.threed/a3dobject)
+* class [Cylinder](/3d/python-net/aspose.threed.entities/cylinder)
+* class [Entity](/3d/python-net/aspose.threed/entity)
 * class [Primitive](/3d/python-net/aspose.threed.entities/primitive)
+* class [SceneObject](/3d/python-net/aspose.threed/sceneobject)

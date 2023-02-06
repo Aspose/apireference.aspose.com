@@ -12,6 +12,15 @@ is_root: false
 
 
 Gets or sets the application that created this asset
+### Definition:
+```python
+@property
+def application_name(self):
+    ...
+@application_name.setter
+def application_name(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed](../../)

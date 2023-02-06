@@ -34,6 +34,7 @@ The PushConstant type exposes the following members:
 | [commit(stage, command_list)](/3d/python-net/aspose.threed.render/pushconstant/commit/#ShaderStage-ICommandList) | Commit prepared data to graphics pipeline. |
 
 
-### See Also
 
-* module [aspose.threed.render](../)
+### See Also
+* module [aspose.threed.render](..)
+* class [PushConstant](/3d/python-net/aspose.threed.render/pushconstant)

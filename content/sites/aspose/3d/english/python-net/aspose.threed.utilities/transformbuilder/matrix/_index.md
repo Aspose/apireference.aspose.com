@@ -12,7 +12,17 @@ is_root: false
 
 
 Gets or sets the current matrix value
+### Definition:
+```python
+@property
+def matrix(self):
+    ...
+@matrix.setter
+def matrix(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.utilities](../../)
+* class [Matrix4](/3d/python-net/aspose.threed.utilities/matrix4)
 * class [TransformBuilder](/3d/python-net/aspose.threed.utilities/transformbuilder)

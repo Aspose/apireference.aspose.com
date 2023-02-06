@@ -12,6 +12,15 @@ is_root: false
 
 
 Gets or sets the associated texture file.
+### Definition:
+```python
+@property
+def file_name(self):
+    ...
+@file_name.setter
+def file_name(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.shading](../../)

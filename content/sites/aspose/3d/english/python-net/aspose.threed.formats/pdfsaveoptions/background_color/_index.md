@@ -12,7 +12,17 @@ is_root: false
 
 
 Background color of the 3D view in PDF file.
+### Definition:
+```python
+@property
+def background_color(self):
+    ...
+@background_color.setter
+def background_color(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.formats](../../)
 * class [PdfSaveOptions](/3d/python-net/aspose.threed.formats/pdfsaveoptions)
+* class [Vector3](/3d/python-net/aspose.threed.utilities/vector3)

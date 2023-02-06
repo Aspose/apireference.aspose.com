@@ -13,6 +13,15 @@ is_root: false
 
 Gets or sets whether to normalize the normal vector during the loading.
 Default value is true.
+### Definition:
+```python
+@property
+def normalize_normal(self):
+    ...
+@normalize_normal.setter
+def normalize_normal(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.formats](../../)

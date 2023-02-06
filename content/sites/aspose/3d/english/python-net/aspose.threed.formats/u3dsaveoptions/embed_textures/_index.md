@@ -12,6 +12,15 @@ is_root: false
 
 
 Embed the external textures into the U3D file, default value is false.
+### Definition:
+```python
+@property
+def embed_textures(self):
+    ...
+@embed_textures.setter
+def embed_textures(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.formats](../../)

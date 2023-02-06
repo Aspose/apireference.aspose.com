@@ -12,6 +12,15 @@ is_root: false
 
 
 Gets or sets if the light can cast shadows on other objects.
+### Definition:
+```python
+@property
+def cast_shadows(self):
+    ...
+@cast_shadows.setter
+def cast_shadows(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.entities](../../)

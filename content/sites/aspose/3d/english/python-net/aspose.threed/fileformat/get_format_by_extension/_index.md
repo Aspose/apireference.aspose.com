@@ -46,8 +46,6 @@ format = FileFormat.get_format_by_extension(outputFormat)
 with BytesIO() as ms:
     scene.save(ms, format)
 
-
-
 ```
 
 

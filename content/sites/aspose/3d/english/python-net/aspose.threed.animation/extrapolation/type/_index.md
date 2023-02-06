@@ -12,7 +12,17 @@ is_root: false
 
 
 Gets and sets the sampling pattern of extrapolation
+### Definition:
+```python
+@property
+def type(self):
+    ...
+@type.setter
+def type(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.animation](../../)
 * class [Extrapolation](/3d/python-net/aspose.threed.animation/extrapolation)
+* class [ExtrapolationType](/3d/python-net/aspose.threed.animation/extrapolationtype)

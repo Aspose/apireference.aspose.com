@@ -21,45 +21,51 @@ A vector with four components.
 
 | Constructor | Description |
 | --- | --- |
-| [Vector4(Color color)](#Vector4-java.awt.Color-) | Initializes a new instance of the com.aspose.threed.Vector4 struct. |
-| [Vector4(Vector3 vec, double w)](#Vector4-com.aspose.threed.Vector3-double-) | Initializes a new instance of the com.aspose.threed.Vector4 struct. |
-| [Vector4(Vector3 vec)](#Vector4-com.aspose.threed.Vector3-) | Initializes a new instance of the com.aspose.threed.Vector4 struct. |
-| [Vector4(FVector4 vec)](#Vector4-com.aspose.threed.FVector4-) | Initializes a new instance of the com.aspose.threed.Vector4 struct. |
-| [Vector4(double x, double y, double z)](#Vector4-double-double-double-) | Initializes a new instance of the com.aspose.threed.Vector4 struct. |
-| [Vector4(double x, double y, double z, double w)](#Vector4-double-double-double-double-) | Initializes a new instance of the com.aspose.threed.Vector4 struct. |
+| [Vector4(Color color)](#Vector4-java.awt.Color-) | Initializes a new instance of the [Vector4](../../com.aspose.threed/vector4) struct. |
+| [Vector4(Vector3 vec, double w)](#Vector4-com.aspose.threed.Vector3-double-) | Initializes a new instance of the [Vector4](../../com.aspose.threed/vector4) struct. |
+| [Vector4(Vector3 vec)](#Vector4-com.aspose.threed.Vector3-) | Initializes a new instance of the [Vector4](../../com.aspose.threed/vector4) struct. |
+| [Vector4(FVector4 vec)](#Vector4-com.aspose.threed.FVector4-) | Initializes a new instance of the [Vector4](../../com.aspose.threed/vector4) struct. |
+| [Vector4(double x, double y, double z)](#Vector4-double-double-double-) | Initializes a new instance of the [Vector4](../../com.aspose.threed/vector4) struct. |
+| [Vector4(double x, double y, double z, double w)](#Vector4-double-double-double-double-) | Initializes a new instance of the [Vector4](../../com.aspose.threed/vector4) struct. |
 | [Vector4()](#Vector4--) |  |
 ## Fields
 
 | Field | Description |
 | --- | --- |
+| [w](#w) | The w component. |
 | [x](#x) | The x component. |
 | [y](#y) | The y component. |
 | [z](#z) | The z component. |
-| [w](#w) | The w component. |
 ## Methods
 
 | Method | Description |
 | --- | --- |
 | [add(Vector4 lhs, Vector4 rhs)](#add-com.aspose.threed.Vector4-com.aspose.threed.Vector4-) | Operator overloading for + |
-| [sub(Vector4 lhs, Vector4 rhs)](#sub-com.aspose.threed.Vector4-com.aspose.threed.Vector4-) | Operator overloading for - (minus) |
+| [clone()](#clone--) |  |
+| [compareTo(Vector4 other)](#compareTo-com.aspose.threed.Vector4-) | Compare current vector to another instance. |
+| [copyFrom(Vector4 src)](#copyFrom-com.aspose.threed.Vector4-) |  |
+| [create(Vector4 v)](#create-com.aspose.threed.Vector4-) | Explicit conversion operator to cast Vector4 to FVector4 |
+| [equals(Object obj)](#equals-java.lang.Object-) | Check if two vectors are equal |
+| [getClass()](#getClass--) |  |
+| [hashCode()](#hashCode--) | Gets the hash code of this vector |
 | [mul(Vector4 lhs, Vector4 rhs)](#mul-com.aspose.threed.Vector4-com.aspose.threed.Vector4-) | Operator overloading for \* |
 | [mul(Vector4 lhs, double rhs)](#mul-com.aspose.threed.Vector4-double-) | Operator overloading for \* |
-| [create(Vector4 v)](#create-com.aspose.threed.Vector4-) | Explicit conversion operator to cast Vector4 to FVector4 |
+| [notify()](#notify--) |  |
+| [notifyAll()](#notifyAll--) |  |
 | [set(double newX, double newY, double newZ)](#set-double-double-double-) | Sets vector's xyz components at a time, w will be set to 1 |
-| [equals(Object obj)](#equals-java.lang.Object-) | Check if two vectors are equal |
 | [set(double newX, double newY, double newZ, double newW)](#set-double-double-double-double-) | Sets vector's all components at a time |
-| [toString()](#toString--) | Returns a java.lang.String that represents the current com.aspose.threed.Vector4. |
-| [compareTo(Vector4 other)](#compareTo-com.aspose.threed.Vector4-) | Compare current vector to another instance. |
-| [clone()](#clone--) |  |
-| [copyFrom(Vector4 src)](#copyFrom-com.aspose.threed.Vector4-) |  |
-| [hashCode()](#hashCode--) | Gets the hash code of this vector |
+| [sub(Vector4 lhs, Vector4 rhs)](#sub-com.aspose.threed.Vector4-com.aspose.threed.Vector4-) | Operator overloading for - (minus) |
+| [toString()](#toString--) | Returns a java.lang.String that represents the current [Vector4](../../com.aspose.threed/vector4). |
+| [wait()](#wait--) |  |
+| [wait(long arg0)](#wait-long-) |  |
+| [wait(long arg0, int arg1)](#wait-long-int-) |  |
 ### Vector4(Color color) {#Vector4-java.awt.Color-}
 ```
 public Vector4(Color color)
 ```
 
 
-Initializes a new instance of the com.aspose.threed.Vector4 struct.
+Initializes a new instance of the [Vector4](../../com.aspose.threed/vector4) struct.
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -72,7 +78,7 @@ public Vector4(Vector3 vec, double w)
 ```
 
 
-Initializes a new instance of the com.aspose.threed.Vector4 struct.
+Initializes a new instance of the [Vector4](../../com.aspose.threed/vector4) struct.
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -86,7 +92,7 @@ public Vector4(Vector3 vec)
 ```
 
 
-Initializes a new instance of the com.aspose.threed.Vector4 struct.
+Initializes a new instance of the [Vector4](../../com.aspose.threed/vector4) struct.
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -99,7 +105,7 @@ public Vector4(FVector4 vec)
 ```
 
 
-Initializes a new instance of the com.aspose.threed.Vector4 struct.
+Initializes a new instance of the [Vector4](../../com.aspose.threed/vector4) struct.
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -112,7 +118,7 @@ public Vector4(double x, double y, double z)
 ```
 
 
-Initializes a new instance of the com.aspose.threed.Vector4 struct.
+Initializes a new instance of the [Vector4](../../com.aspose.threed/vector4) struct.
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -127,7 +133,7 @@ public Vector4(double x, double y, double z, double w)
 ```
 
 
-Initializes a new instance of the com.aspose.threed.Vector4 struct.
+Initializes a new instance of the [Vector4](../../com.aspose.threed/vector4) struct.
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -142,6 +148,14 @@ Initializes a new instance of the com.aspose.threed.Vector4 struct.
 public Vector4()
 ```
 
+
+### w {#w}
+```
+public double w
+```
+
+
+The w component.
 
 ### x {#x}
 ```
@@ -167,14 +181,6 @@ public double z
 
 The z component.
 
-### w {#w}
-```
-public double w
-```
-
-
-The w component.
-
 ### add(Vector4 lhs, Vector4 rhs) {#add-com.aspose.threed.Vector4-com.aspose.threed.Vector4-}
 ```
 public static Vector4 add(Vector4 lhs, Vector4 rhs)
@@ -191,22 +197,94 @@ Operator overloading for +
 
 **Returns:**
 [Vector4](../../com.aspose.threed/vector4) - Result vector
-### sub(Vector4 lhs, Vector4 rhs) {#sub-com.aspose.threed.Vector4-com.aspose.threed.Vector4-}
+### clone() {#clone--}
 ```
-public static Vector4 sub(Vector4 lhs, Vector4 rhs)
+public Vector4 clone()
 ```
 
 
-Operator overloading for - (minus)
+
+
+**Returns:**
+[Vector4](../../com.aspose.threed/vector4)
+### compareTo(Vector4 other) {#compareTo-com.aspose.threed.Vector4-}
+```
+public int compareTo(Vector4 other)
+```
+
+
+Compare current vector to another instance.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| lhs | [Vector4](../../com.aspose.threed/vector4) | The left vector |
-| rhs | [Vector4](../../com.aspose.threed/vector4) | The right vector |
+| other | [Vector4](../../com.aspose.threed/vector4) |  |
 
 **Returns:**
-[Vector4](../../com.aspose.threed/vector4) - Result vector
+int
+### copyFrom(Vector4 src) {#copyFrom-com.aspose.threed.Vector4-}
+```
+public void copyFrom(Vector4 src)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| src | [Vector4](../../com.aspose.threed/vector4) |  |
+
+### create(Vector4 v) {#create-com.aspose.threed.Vector4-}
+```
+public static FVector4 create(Vector4 v)
+```
+
+
+Explicit conversion operator to cast Vector4 to FVector4
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| v | [Vector4](../../com.aspose.threed/vector4) |  |
+
+**Returns:**
+[FVector4](../../com.aspose.threed/fvector4)
+### equals(Object obj) {#equals-java.lang.Object-}
+```
+public boolean equals(Object obj)
+```
+
+
+Check if two vectors are equal
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| obj | java.lang.Object |  |
+
+**Returns:**
+boolean
+### getClass() {#getClass--}
+```
+public final native Class<?> getClass()
+```
+
+
+
+
+**Returns:**
+java.lang.Class<?>
+### hashCode() {#hashCode--}
+```
+public int hashCode()
+```
+
+
+Gets the hash code of this vector
+
+**Returns:**
+int
 ### mul(Vector4 lhs, Vector4 rhs) {#mul-com.aspose.threed.Vector4-com.aspose.threed.Vector4-}
 ```
 public static Vector4 mul(Vector4 lhs, Vector4 rhs)
@@ -239,21 +317,22 @@ Operator overloading for \*
 
 **Returns:**
 [Vector4](../../com.aspose.threed/vector4) - Result vector
-### create(Vector4 v) {#create-com.aspose.threed.Vector4-}
+### notify() {#notify--}
 ```
-public static FVector4 create(Vector4 v)
+public final native void notify()
 ```
 
 
-Explicit conversion operator to cast Vector4 to FVector4
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| v | [Vector4](../../com.aspose.threed/vector4) |  |
 
-**Returns:**
-[FVector4](../../com.aspose.threed/fvector4)
+### notifyAll() {#notifyAll--}
+```
+public final native void notifyAll()
+```
+
+
+
+
 ### set(double newX, double newY, double newZ) {#set-double-double-double-}
 ```
 public void set(double newX, double newY, double newZ)
@@ -269,21 +348,6 @@ Sets vector's xyz components at a time, w will be set to 1
 | newY | double | New Y component. |
 | newZ | double | New Z component. |
 
-### equals(Object obj) {#equals-java.lang.Object-}
-```
-public boolean equals(Object obj)
-```
-
-
-Check if two vectors are equal
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| obj | java.lang.Object |  |
-
-**Returns:**
-boolean
 ### set(double newX, double newY, double newZ, double newW) {#set-double-double-double-double-}
 ```
 public void set(double newX, double newY, double newZ, double newW)
@@ -300,44 +364,43 @@ Sets vector's all components at a time
 | newZ | double | New Z component. |
 | newW | double | New W component. |
 
+### sub(Vector4 lhs, Vector4 rhs) {#sub-com.aspose.threed.Vector4-com.aspose.threed.Vector4-}
+```
+public static Vector4 sub(Vector4 lhs, Vector4 rhs)
+```
+
+
+Operator overloading for - (minus)
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| lhs | [Vector4](../../com.aspose.threed/vector4) | The left vector |
+| rhs | [Vector4](../../com.aspose.threed/vector4) | The right vector |
+
+**Returns:**
+[Vector4](../../com.aspose.threed/vector4) - Result vector
 ### toString() {#toString--}
 ```
 public String toString()
 ```
 
 
-Returns a java.lang.String that represents the current com.aspose.threed.Vector4.
+Returns a java.lang.String that represents the current [Vector4](../../com.aspose.threed/vector4).
 
 **Returns:**
-java.lang.String - A java.lang.String that represents the current com.aspose.threed.Vector4.
-### compareTo(Vector4 other) {#compareTo-com.aspose.threed.Vector4-}
+java.lang.String - A java.lang.String that represents the current [Vector4](../../com.aspose.threed/vector4).
+### wait() {#wait--}
 ```
-public int compareTo(Vector4 other)
-```
-
-
-Compare current vector to another instance.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| other | [Vector4](../../com.aspose.threed/vector4) |  |
-
-**Returns:**
-int
-### clone() {#clone--}
-```
-public Vector4 clone()
+public final void wait()
 ```
 
 
 
 
-**Returns:**
-[Vector4](../../com.aspose.threed/vector4)
-### copyFrom(Vector4 src) {#copyFrom-com.aspose.threed.Vector4-}
+### wait(long arg0) {#wait-long-}
 ```
-public void copyFrom(Vector4 src)
+public final native void wait(long arg0)
 ```
 
 
@@ -346,15 +409,19 @@ public void copyFrom(Vector4 src)
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| src | [Vector4](../../com.aspose.threed/vector4) |  |
+| arg0 | long |  |
 
-### hashCode() {#hashCode--}
+### wait(long arg0, int arg1) {#wait-long-int-}
 ```
-public int hashCode()
+public final void wait(long arg0, int arg1)
 ```
 
 
-Gets the hash code of this vector
 
-**Returns:**
-int
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+| arg1 | int |  |
+

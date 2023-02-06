@@ -12,6 +12,15 @@ is_root: false
 
 
 Gets or sets the shader version used by this technique.
+### Definition:
+```python
+@property
+def shader_version(self):
+    ...
+@shader_version.setter
+def shader_version(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.shading](../../)

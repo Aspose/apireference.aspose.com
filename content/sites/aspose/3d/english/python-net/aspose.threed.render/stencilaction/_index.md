@@ -29,6 +29,6 @@ The StencilAction type exposes the following members:
 | INVERT | Bit-wise inverts the current stencil buffer value. |
 
 
-### See Also
 
-* module [aspose.threed.render](../)
+### See Also
+* module [aspose.threed.render](..)

@@ -24,6 +24,6 @@ The BoundingBoxExtent type exposes the following members:
 | INFINITE | Infinite bounding box |
 
 
-### See Also
 
-* module [aspose.threed.utilities](../)
+### See Also
+* module [aspose.threed.utilities](..)

@@ -47,7 +47,9 @@ The VertexElementWeight type exposes the following members:
 | [set_data(data)](/3d/python-net/aspose.threed.entities/vertexelementweight/set_data/#list) | Load data |
 
 
-### See Also
 
-* module [aspose.threed.entities](../)
+### See Also
+* module [aspose.threed.entities](..)
+* class [VertexElement](/3d/python-net/aspose.threed.entities/vertexelement)
 * class [VertexElementDoublesTemplate](/3d/python-net/aspose.threed.entities/vertexelementdoublestemplate)
+* class [VertexElementWeight](/3d/python-net/aspose.threed.entities/vertexelementweight)

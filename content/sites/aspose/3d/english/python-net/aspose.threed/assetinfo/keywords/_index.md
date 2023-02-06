@@ -12,6 +12,15 @@ is_root: false
 
 
 Gets or sets the keywords of this asset
+### Definition:
+```python
+@property
+def keywords(self):
+    ...
+@keywords.setter
+def keywords(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed](../../)

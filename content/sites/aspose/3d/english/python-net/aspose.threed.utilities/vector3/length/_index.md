@@ -12,6 +12,12 @@ is_root: false
 
 
 Gets the length of this vector.
+### Definition:
+```python
+@property
+def length(self):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.utilities](../../)

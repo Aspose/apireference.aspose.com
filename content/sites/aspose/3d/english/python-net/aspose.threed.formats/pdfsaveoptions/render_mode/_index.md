@@ -12,7 +12,17 @@ is_root: false
 
 
 Render mode specifies the style in which the 3D artwork is rendered.
+### Definition:
+```python
+@property
+def render_mode(self):
+    ...
+@render_mode.setter
+def render_mode(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.formats](../../)
+* class [PdfRenderMode](/3d/python-net/aspose.threed.formats/pdfrendermode)
 * class [PdfSaveOptions](/3d/python-net/aspose.threed.formats/pdfsaveoptions)

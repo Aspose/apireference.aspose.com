@@ -12,6 +12,15 @@ is_root: false
 
 
 Gets or sets the reference value for the stencil test.
+### Definition:
+```python
+@property
+def stencil_reference(self):
+    ...
+@stencil_reference.setter
+def stencil_reference(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.render](../../)

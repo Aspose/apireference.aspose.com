@@ -26,87 +26,32 @@ The declaration of a custom defined vertex's structure
 
 | Method | Description |
 | --- | --- |
-| [getSealed()](#getSealed--) | A com.aspose.threed.VertexDeclaration will be sealed when its been used by com.aspose.threed.TriMesh, no more modifications is allowed. |
-| [getCount()](#getCount--) | Gets the count of all fields defined in this com.aspose.threed.VertexDeclaration |
-| [get(int index)](#get-int-) | Gets the com.aspose.threed.VertexField by index |
-| [clear()](#clear--) | Clear all fields. |
-| [addField(int dataType, VertexFieldSemantic semantic, int index, String alias)](#addField-int-com.aspose.threed.VertexFieldSemantic-int-java.lang.String-) | Add a new vertex field |
 | [addField(int dataType, VertexFieldSemantic semantic)](#addField-int-com.aspose.threed.VertexFieldSemantic-) | Add a new vertex field |
 | [addField(int dataType, VertexFieldSemantic semantic, int index)](#addField-int-com.aspose.threed.VertexFieldSemantic-int-) | Add a new vertex field |
-| [fromGeometry(Geometry geometry, boolean useFloat)](#fromGeometry-com.aspose.threed.Geometry-boolean-) | Create a com.aspose.threed.VertexDeclaration based on a com.aspose.threed.Geometry's layout. |
-| [getSize()](#getSize--) | The size in byte of the vertex structure. |
+| [addField(int dataType, VertexFieldSemantic semantic, int index, String alias)](#addField-int-com.aspose.threed.VertexFieldSemantic-int-java.lang.String-) | Add a new vertex field |
+| [clear()](#clear--) | Clear all fields. |
 | [compareTo(VertexDeclaration other)](#compareTo-com.aspose.threed.VertexDeclaration-) | Compares this instance to a specified object and returns an indication of their relative values. |
-| [toString()](#toString--) | String representation of com.aspose.threed.VertexDeclaration |
-| [equals(Object obj)](#equals-java.lang.Object-) | Determines whether this instance and a specified object, which must also be a com.aspose.threed.VertexDeclaration object, have the same value. |
+| [equals(Object obj)](#equals-java.lang.Object-) | Determines whether this instance and a specified object, which must also be a [VertexDeclaration](../../com.aspose.threed/vertexdeclaration) object, have the same value. |
+| [fromGeometry(Geometry geometry, boolean useFloat)](#fromGeometry-com.aspose.threed.Geometry-boolean-) | Create a [VertexDeclaration](../../com.aspose.threed/vertexdeclaration) based on a [Geometry](../../com.aspose.threed/geometry)'s layout. |
+| [get(int index)](#get-int-) | Gets the [VertexField](../../com.aspose.threed/vertexfield) by index |
+| [getClass()](#getClass--) |  |
+| [getCount()](#getCount--) | Gets the count of all fields defined in this [VertexDeclaration](../../com.aspose.threed/vertexdeclaration) |
+| [getSealed()](#getSealed--) | A [VertexDeclaration](../../com.aspose.threed/vertexdeclaration) will be sealed when its been used by [TriMesh](../../com.aspose.threed/trimesh), no more modifications is allowed. |
+| [getSize()](#getSize--) | The size in byte of the vertex structure. |
 | [hashCode()](#hashCode--) | Returns the hash code for this string. |
 | [iterator()](#iterator--) | Gets an enumerator to walk through all vertex fields in this instance. |
+| [notify()](#notify--) |  |
+| [notifyAll()](#notifyAll--) |  |
+| [toString()](#toString--) | String representation of [VertexDeclaration](../../com.aspose.threed/vertexdeclaration) |
+| [wait()](#wait--) |  |
+| [wait(long arg0)](#wait-long-) |  |
+| [wait(long arg0, int arg1)](#wait-long-int-) |  |
 ### VertexDeclaration() {#VertexDeclaration--}
 ```
 public VertexDeclaration()
 ```
 
 
-### getSealed() {#getSealed--}
-```
-public boolean getSealed()
-```
-
-
-A com.aspose.threed.VertexDeclaration will be sealed when its been used by com.aspose.threed.TriMesh, no more modifications is allowed.
-
-**Returns:**
-boolean
-### getCount() {#getCount--}
-```
-public int getCount()
-```
-
-
-Gets the count of all fields defined in this com.aspose.threed.VertexDeclaration
-
-**Returns:**
-int
-### get(int index) {#get-int-}
-```
-public VertexField get(int index)
-```
-
-
-Gets the com.aspose.threed.VertexField by index
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| index | int |  |
-
-**Returns:**
-[VertexField](../../com.aspose.threed/vertexfield)
-### clear() {#clear--}
-```
-public void clear()
-```
-
-
-Clear all fields.
-
-### addField(int dataType, VertexFieldSemantic semantic, int index, String alias) {#addField-int-com.aspose.threed.VertexFieldSemantic-int-java.lang.String-}
-```
-public VertexField addField(int dataType, VertexFieldSemantic semantic, int index, String alias)
-```
-
-
-Add a new vertex field
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| dataType | int | The data type of the vertex field |
-| semantic | [VertexFieldSemantic](../../com.aspose.threed/vertexfieldsemantic) | How will this field used for |
-| index | int | The index for same field semantic, -1 for auto-generation |
-| alias | java.lang.String | The alias name of the field |
-
-**Returns:**
-[VertexField](../../com.aspose.threed/vertexfield)
 ### addField(int dataType, VertexFieldSemantic semantic) {#addField-int-com.aspose.threed.VertexFieldSemantic-}
 ```
 public VertexField addField(int dataType, VertexFieldSemantic semantic)
@@ -140,32 +85,32 @@ Add a new vertex field
 
 **Returns:**
 [VertexField](../../com.aspose.threed/vertexfield)
-### fromGeometry(Geometry geometry, boolean useFloat) {#fromGeometry-com.aspose.threed.Geometry-boolean-}
+### addField(int dataType, VertexFieldSemantic semantic, int index, String alias) {#addField-int-com.aspose.threed.VertexFieldSemantic-int-java.lang.String-}
 ```
-public static VertexDeclaration fromGeometry(Geometry geometry, boolean useFloat)
+public VertexField addField(int dataType, VertexFieldSemantic semantic, int index, String alias)
 ```
 
 
-Create a com.aspose.threed.VertexDeclaration based on a com.aspose.threed.Geometry's layout.
+Add a new vertex field
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| geometry | [Geometry](../../com.aspose.threed/geometry) |  |
-| useFloat | boolean | Use float instead of double type |
+| dataType | int | The data type of the vertex field |
+| semantic | [VertexFieldSemantic](../../com.aspose.threed/vertexfieldsemantic) | How will this field used for |
+| index | int | The index for same field semantic, -1 for auto-generation |
+| alias | java.lang.String | The alias name of the field |
 
 **Returns:**
-[VertexDeclaration](../../com.aspose.threed/vertexdeclaration)
-### getSize() {#getSize--}
+[VertexField](../../com.aspose.threed/vertexfield)
+### clear() {#clear--}
 ```
-public int getSize()
+public void clear()
 ```
 
 
-The size in byte of the vertex structure.
+Clear all fields.
 
-**Returns:**
-int
 ### compareTo(VertexDeclaration other) {#compareTo-com.aspose.threed.VertexDeclaration-}
 ```
 public int compareTo(VertexDeclaration other)
@@ -181,23 +126,13 @@ Compares this instance to a specified object and returns an indication of their 
 
 **Returns:**
 int
-### toString() {#toString--}
-```
-public String toString()
-```
-
-
-String representation of com.aspose.threed.VertexDeclaration
-
-**Returns:**
-java.lang.String
 ### equals(Object obj) {#equals-java.lang.Object-}
 ```
 public boolean equals(Object obj)
 ```
 
 
-Determines whether this instance and a specified object, which must also be a com.aspose.threed.VertexDeclaration object, have the same value.
+Determines whether this instance and a specified object, which must also be a [VertexDeclaration](../../com.aspose.threed/vertexdeclaration) object, have the same value.
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -206,6 +141,77 @@ Determines whether this instance and a specified object, which must also be a co
 
 **Returns:**
 boolean
+### fromGeometry(Geometry geometry, boolean useFloat) {#fromGeometry-com.aspose.threed.Geometry-boolean-}
+```
+public static VertexDeclaration fromGeometry(Geometry geometry, boolean useFloat)
+```
+
+
+Create a [VertexDeclaration](../../com.aspose.threed/vertexdeclaration) based on a [Geometry](../../com.aspose.threed/geometry)'s layout.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| geometry | [Geometry](../../com.aspose.threed/geometry) |  |
+| useFloat | boolean | Use float instead of double type |
+
+**Returns:**
+[VertexDeclaration](../../com.aspose.threed/vertexdeclaration)
+### get(int index) {#get-int-}
+```
+public VertexField get(int index)
+```
+
+
+Gets the [VertexField](../../com.aspose.threed/vertexfield) by index
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| index | int |  |
+
+**Returns:**
+[VertexField](../../com.aspose.threed/vertexfield)
+### getClass() {#getClass--}
+```
+public final native Class<?> getClass()
+```
+
+
+
+
+**Returns:**
+java.lang.Class<?>
+### getCount() {#getCount--}
+```
+public int getCount()
+```
+
+
+Gets the count of all fields defined in this [VertexDeclaration](../../com.aspose.threed/vertexdeclaration)
+
+**Returns:**
+int
+### getSealed() {#getSealed--}
+```
+public boolean getSealed()
+```
+
+
+A [VertexDeclaration](../../com.aspose.threed/vertexdeclaration) will be sealed when its been used by [TriMesh](../../com.aspose.threed/trimesh), no more modifications is allowed.
+
+**Returns:**
+boolean
+### getSize() {#getSize--}
+```
+public int getSize()
+```
+
+
+The size in byte of the vertex structure.
+
+**Returns:**
+int
 ### hashCode() {#hashCode--}
 ```
 public int hashCode()
@@ -226,3 +232,64 @@ Gets an enumerator to walk through all vertex fields in this instance.
 
 **Returns:**
 java.util.Iterator<com.aspose.threed.VertexField> - Enumerator
+### notify() {#notify--}
+```
+public final native void notify()
+```
+
+
+
+
+### notifyAll() {#notifyAll--}
+```
+public final native void notifyAll()
+```
+
+
+
+
+### toString() {#toString--}
+```
+public String toString()
+```
+
+
+String representation of [VertexDeclaration](../../com.aspose.threed/vertexdeclaration)
+
+**Returns:**
+java.lang.String
+### wait() {#wait--}
+```
+public final void wait()
+```
+
+
+
+
+### wait(long arg0) {#wait-long-}
+```
+public final native void wait(long arg0)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+
+### wait(long arg0, int arg1) {#wait-long-int-}
+```
+public final void wait(long arg0, int arg1)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+| arg1 | int |  |
+

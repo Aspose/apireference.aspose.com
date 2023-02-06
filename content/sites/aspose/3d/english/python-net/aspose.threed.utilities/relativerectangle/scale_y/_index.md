@@ -12,6 +12,15 @@ is_root: false
 
 
 Relative coordinate Y
+### Definition:
+```python
+@property
+def scale_y(self):
+    ...
+@scale_y.setter
+def scale_y(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.utilities](../../)

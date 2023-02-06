@@ -12,6 +12,15 @@ is_root: false
 
 
 Gets or sets if the mipmap is enabled for this texture
+### Definition:
+```python
+@property
+def enable_mip_map(self):
+    ...
+@enable_mip_map.setter
+def enable_mip_map(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.shading](../../)

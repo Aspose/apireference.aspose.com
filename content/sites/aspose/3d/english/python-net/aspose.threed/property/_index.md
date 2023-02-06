@@ -42,7 +42,8 @@ The Property type exposes the following members:
 | [get_keyframe_sequence(anim, create)](/3d/python-net/aspose.threed/property/get_keyframe_sequence/#aspose.threed.animation.AnimationNode-bool) | Gets the keyframe sequence on specified animation instance. |
 
 
-### See Also
 
-* module [aspose.threed](../)
+### See Also
+* module [aspose.threed](..)
 * class [A3DObject](/3d/python-net/aspose.threed/a3dobject)
+* class [Property](/3d/python-net/aspose.threed/property)

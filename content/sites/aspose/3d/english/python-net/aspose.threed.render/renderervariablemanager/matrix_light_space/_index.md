@@ -12,7 +12,17 @@ is_root: false
 
 
 Matrix for light space transformation
+### Definition:
+```python
+@property
+def matrix_light_space(self):
+    ...
+@matrix_light_space.setter
+def matrix_light_space(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.render](../../)
+* class [FMatrix4](/3d/python-net/aspose.threed.utilities/fmatrix4)
 * class [RendererVariableManager](/3d/python-net/aspose.threed.render/renderervariablemanager)

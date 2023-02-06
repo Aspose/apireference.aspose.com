@@ -12,7 +12,17 @@ is_root: false
 
 
 The Curve used to construct the profile
+### Definition:
+```python
+@property
+def curve(self):
+    ...
+@curve.setter
+def curve(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.profiles](../../)
 * class [ArbitraryProfile](/3d/python-net/aspose.threed.profiles/arbitraryprofile)
+* class [Curve](/3d/python-net/aspose.threed.entities/curve)

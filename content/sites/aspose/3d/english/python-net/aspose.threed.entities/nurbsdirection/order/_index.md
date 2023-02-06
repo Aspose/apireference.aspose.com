@@ -12,6 +12,15 @@ is_root: false
 
 
 Gets or sets the order of a NURBS curve, it defines the number of nearby control points that influence any given point on the curve.
+### Definition:
+```python
+@property
+def order(self):
+    ...
+@order.setter
+def order(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.entities](../../)

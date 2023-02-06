@@ -55,7 +55,8 @@ The BindPoint type exposes the following members:
 | [reset_channels()](/3d/python-net/aspose.threed.animation/bindpoint/reset_channels/#) | Empties the property channels of this animation curve mapping. |
 
 
-### See Also
 
-* module [aspose.threed.animation](../)
-* class [A3DObject](/3d/python-net/aspose.threed.animation/a3dobject)
+### See Also
+* module [aspose.threed.animation](..)
+* class [A3DObject](/3d/python-net/aspose.threed/a3dobject)
+* class [BindPoint](/3d/python-net/aspose.threed.animation/bindpoint)

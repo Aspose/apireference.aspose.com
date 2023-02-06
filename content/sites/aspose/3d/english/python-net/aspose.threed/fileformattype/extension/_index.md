@@ -12,6 +12,12 @@ is_root: false
 
 
 The extension name of this file format, started with .
+### Definition:
+```python
+@property
+def extension(self):
+    ...
+```
 
 ### See Also
 * module [aspose.threed](../../)

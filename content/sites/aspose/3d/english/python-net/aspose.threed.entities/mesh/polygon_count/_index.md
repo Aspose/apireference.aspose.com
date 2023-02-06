@@ -12,6 +12,12 @@ is_root: false
 
 
 Gets the count of polygons
+### Definition:
+```python
+@property
+def polygon_count(self):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.entities](../../)

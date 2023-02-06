@@ -14,6 +14,15 @@ is_root: false
 Gets or sets the shininess, this controls the specular highlight's size.
 The formula of specular:
 SpecularColor * SpecularFactor * (N dot H) ^ Shininess
+### Definition:
+```python
+@property
+def shininess(self):
+    ...
+@shininess.setter
+def shininess(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.shading](../../)

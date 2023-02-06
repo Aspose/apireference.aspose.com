@@ -15,16 +15,42 @@ Encodes a sequence of commands which will be sent to GPU to render.
 
 | Method | Description |
 | --- | --- |
+| [bindDescriptorSet(IDescriptorSet descriptorSet)](#bindDescriptorSet-com.aspose.threed.IDescriptorSet-) | Bind the descriptor set to current pipeline |
+| [bindIndexBuffer(IIndexBuffer indexBuffer)](#bindIndexBuffer-com.aspose.threed.IIndexBuffer-) | Bind the index buffer for rendering |
 | [bindPipeline(IPipeline pipeline)](#bindPipeline-com.aspose.threed.IPipeline-) | Bind the pipeline instance for rendering |
 | [bindVertexBuffer(IVertexBuffer vertexBuffer)](#bindVertexBuffer-com.aspose.threed.IVertexBuffer-) | Bind the vertex buffer for rendering |
-| [bindIndexBuffer(IIndexBuffer indexBuffer)](#bindIndexBuffer-com.aspose.threed.IIndexBuffer-) | Bind the index buffer for rendering |
-| [bindDescriptorSet(IDescriptorSet descriptorSet)](#bindDescriptorSet-com.aspose.threed.IDescriptorSet-) | Bind the descriptor set to current pipeline |
-| [draw(int start, int count)](#draw-int-int-) | Draw without index buffer |
 | [draw()](#draw--) | Draw without index buffer |
+| [draw(int start, int count)](#draw-int-int-) | Draw without index buffer |
 | [drawIndex()](#drawIndex--) | Issue an indexed draw into a command list |
 | [drawIndex(int start, int count)](#drawIndex-int-int-) | Issue an indexed draw into a command list |
 | [pushConstants(int stage, byte[] data)](#pushConstants-int-byte---) | Push the constant to the pipeline |
 | [pushConstants(int stage, byte[] data, int size)](#pushConstants-int-byte---int-) | Push the constant to the pipeline |
+### bindDescriptorSet(IDescriptorSet descriptorSet) {#bindDescriptorSet-com.aspose.threed.IDescriptorSet-}
+```
+public abstract void bindDescriptorSet(IDescriptorSet descriptorSet)
+```
+
+
+Bind the descriptor set to current pipeline
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| descriptorSet | [IDescriptorSet](../../com.aspose.threed/idescriptorset) |  |
+
+### bindIndexBuffer(IIndexBuffer indexBuffer) {#bindIndexBuffer-com.aspose.threed.IIndexBuffer-}
+```
+public abstract void bindIndexBuffer(IIndexBuffer indexBuffer)
+```
+
+
+Bind the index buffer for rendering
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| indexBuffer | [IIndexBuffer](../../com.aspose.threed/iindexbuffer) |  |
+
 ### bindPipeline(IPipeline pipeline) {#bindPipeline-com.aspose.threed.IPipeline-}
 ```
 public abstract void bindPipeline(IPipeline pipeline)
@@ -51,31 +77,13 @@ Bind the vertex buffer for rendering
 | --- | --- | --- |
 | vertexBuffer | [IVertexBuffer](../../com.aspose.threed/ivertexbuffer) |  |
 
-### bindIndexBuffer(IIndexBuffer indexBuffer) {#bindIndexBuffer-com.aspose.threed.IIndexBuffer-}
+### draw() {#draw--}
 ```
-public abstract void bindIndexBuffer(IIndexBuffer indexBuffer)
-```
-
-
-Bind the index buffer for rendering
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| indexBuffer | [IIndexBuffer](../../com.aspose.threed/iindexbuffer) |  |
-
-### bindDescriptorSet(IDescriptorSet descriptorSet) {#bindDescriptorSet-com.aspose.threed.IDescriptorSet-}
-```
-public abstract void bindDescriptorSet(IDescriptorSet descriptorSet)
+public abstract void draw()
 ```
 
 
-Bind the descriptor set to current pipeline
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| descriptorSet | [IDescriptorSet](../../com.aspose.threed/idescriptorset) |  |
+Draw without index buffer
 
 ### draw(int start, int count) {#draw-int-int-}
 ```
@@ -90,14 +98,6 @@ Draw without index buffer
 | --- | --- | --- |
 | start | int |  |
 | count | int |  |
-
-### draw() {#draw--}
-```
-public abstract void draw()
-```
-
-
-Draw without index buffer
 
 ### drawIndex() {#drawIndex--}
 ```

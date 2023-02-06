@@ -12,6 +12,15 @@ is_root: false
 
 
 Gets or sets the tangent is time-independent
+### Definition:
+```python
+@property
+def time_independent_tangent(self):
+    ...
+@time_independent_tangent.setter
+def time_independent_tangent(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.animation](../../)

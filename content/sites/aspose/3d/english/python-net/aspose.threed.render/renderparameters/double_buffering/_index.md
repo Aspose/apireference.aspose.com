@@ -12,6 +12,15 @@ is_root: false
 
 
 Gets or sets whether double buffer is used.
+### Definition:
+```python
+@property
+def double_buffering(self):
+    ...
+@double_buffering.setter
+def double_buffering(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.render](../../)

@@ -12,7 +12,17 @@ is_root: false
 
 
 Gets or sets the [Renderer.node](/3d/python-net/aspose.threed.render/renderer#node) instance used to provide world transform matrix.
+### Definition:
+```python
+@property
+def node(self):
+    ...
+@node.setter
+def node(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.render](../../)
+* class [Node](/3d/python-net/aspose.threed/node)
 * class [Renderer](/3d/python-net/aspose.threed.render/renderer)

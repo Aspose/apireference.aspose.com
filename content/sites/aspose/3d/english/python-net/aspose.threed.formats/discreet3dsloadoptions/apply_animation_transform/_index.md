@@ -12,6 +12,15 @@ is_root: false
 
 
 Gets or sets whether to use the transformation defined in the first frame of animation track.
+### Definition:
+```python
+@property
+def apply_animation_transform(self):
+    ...
+@apply_animation_transform.setter
+def apply_animation_transform(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.formats](../../)

@@ -12,6 +12,15 @@ is_root: false
 
 
 Gets or sets the bias used in TCB spline
+### Definition:
+```python
+@property
+def bias(self):
+    ...
+@bias.setter
+def bias(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.animation](../../)

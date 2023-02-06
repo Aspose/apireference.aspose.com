@@ -23,6 +23,6 @@ The SplitMeshPolicy type exposes the following members:
 | COMPACT_DATA | Only used control points and vertex elements data will be copied to the sub-mesh |
 
 
-### See Also
 
-* module [aspose.threed.entities](../)
+### See Also
+* module [aspose.threed.entities](..)

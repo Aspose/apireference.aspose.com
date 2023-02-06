@@ -12,6 +12,15 @@ is_root: false
 
 
 Gets or sets the depth value used when clear the viewport with depth buffer bit set.
+### Definition:
+```python
+@property
+def depth_clear(self):
+    ...
+@depth_clear.setter
+def depth_clear(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.render](../../)

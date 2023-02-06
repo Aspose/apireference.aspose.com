@@ -23,6 +23,7 @@ The IndexDataType type exposes the following members:
 | INT16 | The index buffer's elements are 16bit int |
 
 
-### See Also
 
-* module [aspose.threed.render](../)
+### See Also
+* module [aspose.threed.render](..)
+* class [IIndexBuffer](/3d/python-net/aspose.threed.render/iindexbuffer)

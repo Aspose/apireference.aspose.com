@@ -33,4 +33,5 @@ def create_vertex_buffer(self, declaration):
 
 ### See Also
 * module [aspose.threed.render](../../)
+* class [IVertexBuffer](/3d/python-net/aspose.threed.render/ivertexbuffer)
 * class [RenderFactory](/3d/python-net/aspose.threed.render/renderfactory)

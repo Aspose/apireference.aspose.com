@@ -12,7 +12,14 @@ is_root: false
 
 
 Gets the post behavior indicates what the sampled value should be after the last key frame.
+### Definition:
+```python
+@property
+def post_behavior(self):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.animation](../../)
+* class [Extrapolation](/3d/python-net/aspose.threed.animation/extrapolation)
 * class [KeyframeSequence](/3d/python-net/aspose.threed.animation/keyframesequence)

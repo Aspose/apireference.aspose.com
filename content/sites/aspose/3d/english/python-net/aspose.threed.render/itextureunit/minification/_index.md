@@ -12,7 +12,17 @@ is_root: false
 
 
 Gets or sets the filter mode for minification.
+### Definition:
+```python
+@property
+def minification(self):
+    ...
+@minification.setter
+def minification(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.render](../../)
 * class [ITextureUnit](/3d/python-net/aspose.threed.render/itextureunit)
+* class [TextureFilter](/3d/python-net/aspose.threed.shading/texturefilter)

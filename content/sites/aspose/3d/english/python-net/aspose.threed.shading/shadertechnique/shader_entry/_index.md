@@ -12,6 +12,15 @@ is_root: false
 
 
 Gets or sets the entry point of the shader, some shader like HLSL can have customized shader entries.
+### Definition:
+```python
+@property
+def shader_entry(self):
+    ...
+@shader_entry.setter
+def shader_entry(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.shading](../../)

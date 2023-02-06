@@ -33,14 +33,14 @@ def get_texture(self, slot_name):
 
 
 ```python
-from aspose import pycore
 from aspose.threed.shading import LambertMaterial, Material, Texture
+import aspose.pycore
 
 mat = LambertMaterial()
 tex = Texture()
 tex.file_name = "diffuse.png"
 mat.set_texture(Material.MAP_DIFFUSE, tex)
-tex = pycore.cast(Aspose.ThreeD.Shading.Texture, mat.get_texture(Material.MAP_DIFFUSE))
+tex = aspose.pycore.cast(Aspose.ThreeD.Shading.Texture, mat.get_texture(Material.MAP_DIFFUSE))
 
 ```
 

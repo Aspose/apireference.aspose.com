@@ -12,7 +12,17 @@ is_root: false
 
 
 Gets or sets the polygon's render mode.
+### Definition:
+```python
+@property
+def polygon_mode(self):
+    ...
+@polygon_mode.setter
+def polygon_mode(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.render](../../)
+* class [PolygonMode](/3d/python-net/aspose.threed.render/polygonmode)
 * class [RenderState](/3d/python-net/aspose.threed.render/renderstate)

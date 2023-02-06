@@ -57,7 +57,13 @@ The CircleShape type exposes the following members:
 | [get_extent()](/3d/python-net/aspose.threed.profiles/circleshape/get_extent/#) | Gets the extent in x and y dimension. |
 
 
-### See Also
 
-* module [aspose.threed.profiles](../)
+### See Also
+* module [aspose.threed.profiles](..)
+* class [A3DObject](/3d/python-net/aspose.threed/a3dobject)
+* class [CircleShape](/3d/python-net/aspose.threed.profiles/circleshape)
+* class [Entity](/3d/python-net/aspose.threed/entity)
+* class [LinearExtrusion](/3d/python-net/aspose.threed.entities/linearextrusion)
 * class [ParameterizedProfile](/3d/python-net/aspose.threed.profiles/parameterizedprofile)
+* class [Profile](/3d/python-net/aspose.threed.profiles/profile)
+* class [SceneObject](/3d/python-net/aspose.threed/sceneobject)

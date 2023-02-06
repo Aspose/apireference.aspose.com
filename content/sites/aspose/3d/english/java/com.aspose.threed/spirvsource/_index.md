@@ -23,16 +23,25 @@ The compiled shader in SPIR-V format.
 
 | Method | Description |
 | --- | --- |
-| [getMaximumDescriptorSets()](#getMaximumDescriptorSets--) | Maximum descriptor sets, default value is 10 |
-| [setMaximumDescriptorSets(int value)](#setMaximumDescriptorSets-int-) | Maximum descriptor sets, default value is 10 |
+| [equals(Object arg0)](#equals-java.lang.Object-) |  |
+| [getClass()](#getClass--) |  |
 | [getComputeShader()](#getComputeShader--) | Gets the source code of the compute shader. |
-| [setComputeShader(byte[] value)](#setComputeShader-byte---) | Sets the source code of the compute shader. |
-| [getGeometryShader()](#getGeometryShader--) | Gets the source code of the geometry shader. |
-| [setGeometryShader(byte[] value)](#setGeometryShader-byte---) | Sets the source code of the geometry shader. |
-| [getVertexShader()](#getVertexShader--) | Gets the source code of the vertex shader |
-| [setVertexShader(byte[] value)](#setVertexShader-byte---) | Sets the source code of the vertex shader |
 | [getFragmentShader()](#getFragmentShader--) | Gets the source code of the fragment shader. |
+| [getGeometryShader()](#getGeometryShader--) | Gets the source code of the geometry shader. |
+| [getMaximumDescriptorSets()](#getMaximumDescriptorSets--) | Maximum descriptor sets, default value is 10 |
+| [getVertexShader()](#getVertexShader--) | Gets the source code of the vertex shader |
+| [hashCode()](#hashCode--) |  |
+| [notify()](#notify--) |  |
+| [notifyAll()](#notifyAll--) |  |
+| [setComputeShader(byte[] value)](#setComputeShader-byte---) | Sets the source code of the compute shader. |
 | [setFragmentShader(byte[] value)](#setFragmentShader-byte---) | Sets the source code of the fragment shader. |
+| [setGeometryShader(byte[] value)](#setGeometryShader-byte---) | Sets the source code of the geometry shader. |
+| [setMaximumDescriptorSets(int value)](#setMaximumDescriptorSets-int-) | Maximum descriptor sets, default value is 10 |
+| [setVertexShader(byte[] value)](#setVertexShader-byte---) | Sets the source code of the vertex shader |
+| [toString()](#toString--) |  |
+| [wait()](#wait--) |  |
+| [wait(long arg0)](#wait-long-) |  |
+| [wait(long arg0, int arg1)](#wait-long-int-) |  |
 ### SPIRVSource() {#SPIRVSource--}
 ```
 public SPIRVSource()
@@ -41,29 +50,31 @@ public SPIRVSource()
 
 Constructor of SPIR-V based shader sources.
 
-### getMaximumDescriptorSets() {#getMaximumDescriptorSets--}
+### equals(Object arg0) {#equals-java.lang.Object-}
 ```
-public int getMaximumDescriptorSets()
-```
-
-
-Maximum descriptor sets, default value is 10
-
-**Returns:**
-int
-### setMaximumDescriptorSets(int value) {#setMaximumDescriptorSets-int-}
-```
-public void setMaximumDescriptorSets(int value)
+public boolean equals(Object arg0)
 ```
 
 
-Maximum descriptor sets, default value is 10
+
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | int | New value |
+| arg0 | java.lang.Object |  |
 
+**Returns:**
+boolean
+### getClass() {#getClass--}
+```
+public final native Class<?> getClass()
+```
+
+
+
+
+**Returns:**
+java.lang.Class<?>
 ### getComputeShader() {#getComputeShader--}
 ```
 public byte[] getComputeShader()
@@ -74,6 +85,72 @@ Gets the source code of the compute shader.
 
 **Returns:**
 byte[]
+### getFragmentShader() {#getFragmentShader--}
+```
+public byte[] getFragmentShader()
+```
+
+
+Gets the source code of the fragment shader.
+
+**Returns:**
+byte[]
+### getGeometryShader() {#getGeometryShader--}
+```
+public byte[] getGeometryShader()
+```
+
+
+Gets the source code of the geometry shader.
+
+**Returns:**
+byte[]
+### getMaximumDescriptorSets() {#getMaximumDescriptorSets--}
+```
+public int getMaximumDescriptorSets()
+```
+
+
+Maximum descriptor sets, default value is 10
+
+**Returns:**
+int
+### getVertexShader() {#getVertexShader--}
+```
+public byte[] getVertexShader()
+```
+
+
+Gets the source code of the vertex shader
+
+**Returns:**
+byte[]
+### hashCode() {#hashCode--}
+```
+public native int hashCode()
+```
+
+
+
+
+**Returns:**
+int
+### notify() {#notify--}
+```
+public final native void notify()
+```
+
+
+
+
+### notifyAll() {#notifyAll--}
+```
+public final native void notifyAll()
+```
+
+
+
+
 ### setComputeShader(byte[] value) {#setComputeShader-byte---}
 ```
 public void setComputeShader(byte[] value)
@@ -87,16 +164,19 @@ Sets the source code of the compute shader.
 | --- | --- | --- |
 | value | byte[] | New value |
 
-### getGeometryShader() {#getGeometryShader--}
+### setFragmentShader(byte[] value) {#setFragmentShader-byte---}
 ```
-public byte[] getGeometryShader()
+public void setFragmentShader(byte[] value)
 ```
 
 
-Gets the source code of the geometry shader.
+Sets the source code of the fragment shader.
 
-**Returns:**
-byte[]
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | byte[] | New value |
+
 ### setGeometryShader(byte[] value) {#setGeometryShader-byte---}
 ```
 public void setGeometryShader(byte[] value)
@@ -110,16 +190,19 @@ Sets the source code of the geometry shader.
 | --- | --- | --- |
 | value | byte[] | New value |
 
-### getVertexShader() {#getVertexShader--}
+### setMaximumDescriptorSets(int value) {#setMaximumDescriptorSets-int-}
 ```
-public byte[] getVertexShader()
+public void setMaximumDescriptorSets(int value)
 ```
 
 
-Gets the source code of the vertex shader
+Maximum descriptor sets, default value is 10
 
-**Returns:**
-byte[]
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | int | New value |
+
 ### setVertexShader(byte[] value) {#setVertexShader-byte---}
 ```
 public void setVertexShader(byte[] value)
@@ -133,26 +216,48 @@ Sets the source code of the vertex shader
 | --- | --- | --- |
 | value | byte[] | New value |
 
-### getFragmentShader() {#getFragmentShader--}
+### toString() {#toString--}
 ```
-public byte[] getFragmentShader()
+public String toString()
 ```
 
 
-Gets the source code of the fragment shader.
+
 
 **Returns:**
-byte[]
-### setFragmentShader(byte[] value) {#setFragmentShader-byte---}
+java.lang.String
+### wait() {#wait--}
 ```
-public void setFragmentShader(byte[] value)
+public final void wait()
 ```
 
 
-Sets the source code of the fragment shader.
+
+
+### wait(long arg0) {#wait-long-}
+```
+public final native void wait(long arg0)
+```
+
+
+
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | byte[] | New value |
+| arg0 | long |  |
+
+### wait(long arg0, int arg1) {#wait-long-int-}
+```
+public final void wait(long arg0, int arg1)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+| arg1 | int |  |
 

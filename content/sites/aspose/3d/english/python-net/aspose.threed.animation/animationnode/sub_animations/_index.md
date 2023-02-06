@@ -12,6 +12,12 @@ is_root: false
 
 
 Gets the sub-animation nodes under current animations
+### Definition:
+```python
+@property
+def sub_animations(self):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.animation](../../)

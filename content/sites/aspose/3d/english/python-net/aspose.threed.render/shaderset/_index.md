@@ -31,6 +31,7 @@ The ShaderSet type exposes the following members:
 | [fallback](/3d/python-net/aspose.threed.render/shaderset/fallback) | Gets or sets the fallback shader when required shader is unavailable |
 
 
-### See Also
 
-* module [aspose.threed.render](../)
+### See Also
+* module [aspose.threed.render](..)
+* class [ShaderSet](/3d/python-net/aspose.threed.render/shaderset)

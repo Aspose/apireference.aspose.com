@@ -12,6 +12,15 @@ is_root: false
 
 
 The radius of the circle curve, default value is 10
+### Definition:
+```python
+@property
+def radius(self):
+    ...
+@radius.setter
+def radius(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.entities](../../)

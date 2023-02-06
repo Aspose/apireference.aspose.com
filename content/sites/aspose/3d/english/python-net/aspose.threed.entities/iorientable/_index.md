@@ -23,6 +23,6 @@ The IOrientable type exposes the following members:
 | [target](/3d/python-net/aspose.threed.entities/iorientable/target) | Gets or sets the target that the entity is looking at. |
 
 
-### See Also
 
-* module [aspose.threed.entities](../)
+### See Also
+* module [aspose.threed.entities](..)

@@ -12,7 +12,17 @@ is_root: false
 
 
 Gets or sets the texture for specular color, channel RGB stores the specular color and channel A stores the glossiness.
+### Definition:
+```python
+@property
+def specular_glossiness_texture(self):
+    ...
+@specular_glossiness_texture.setter
+def specular_glossiness_texture(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.shading](../../)
 * class [PbrSpecularMaterial](/3d/python-net/aspose.threed.shading/pbrspecularmaterial)
+* class [TextureBase](/3d/python-net/aspose.threed.shading/texturebase)

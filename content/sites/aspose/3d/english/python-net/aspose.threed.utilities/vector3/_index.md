@@ -35,11 +35,11 @@ The Vector3 type exposes the following members:
 | [x](/3d/python-net/aspose.threed.utilities/vector3/x) | The x component. |
 | [y](/3d/python-net/aspose.threed.utilities/vector3/y) | The y component. |
 | [z](/3d/python-net/aspose.threed.utilities/vector3/z) | The z component. |
-| [ORIGIN](/3d/python-net/aspose.threed.utilities/vector3/ORIGIN) | Gets the origin position. |
-| [UNIT_SCALE](/3d/python-net/aspose.threed.utilities/vector3/UNIT_SCALE) | Gets the unit scale vector. |
-| [X_AXIS](/3d/python-net/aspose.threed.utilities/vector3/X_AXIS) | Gets the X axis. |
-| [Y_AXIS](/3d/python-net/aspose.threed.utilities/vector3/Y_AXIS) | Gets the Y axis. |
-| [Z_AXIS](/3d/python-net/aspose.threed.utilities/vector3/Z_AXIS) | Gets the Z axis. |
+| [ORIGIN](/3d/python-net/aspose.threed.utilities/vector3/origin) | Gets the origin position. |
+| [UNIT_SCALE](/3d/python-net/aspose.threed.utilities/vector3/unit_scale) | Gets the unit scale vector. |
+| [X_AXIS](/3d/python-net/aspose.threed.utilities/vector3/x_axis) | Gets the X axis. |
+| [Y_AXIS](/3d/python-net/aspose.threed.utilities/vector3/y_axis) | Gets the Y axis. |
+| [Z_AXIS](/3d/python-net/aspose.threed.utilities/vector3/z_axis) | Gets the Z axis. |
 
 
 ### Methods
@@ -56,6 +56,7 @@ The Vector3 type exposes the following members:
 | [compare_to(other)](/3d/python-net/aspose.threed.utilities/vector3/compare_to/#Vector3) | Compare current vector to another instance. |
 
 
-### See Also
 
-* module [aspose.threed.utilities](../)
+### See Also
+* module [aspose.threed.utilities](..)
+* class [Vector3](/3d/python-net/aspose.threed.utilities/vector3)

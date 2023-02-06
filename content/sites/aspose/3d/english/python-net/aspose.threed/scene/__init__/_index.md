@@ -42,7 +42,14 @@ def __init__(self, entity):
 
 
 The following code shows how to create a [Scene](/3d/python-net/aspose.threed/scene) directly from an [Entity](/3d/python-net/aspose.threed/entity):
-`var scene = new Scene(new Box());`
+
+```python
+from aspose.threed import Scene
+from aspose.threed.entities import Box
+
+scene = Scene(Box())
+
+```
 
 
 ## Scene(file_name) {#str}
@@ -84,4 +91,5 @@ def __init__(self, parent_scene, name):
 
 ### See Also
 * module [aspose.threed](../../)
+* class [Entity](/3d/python-net/aspose.threed/entity)
 * class [Scene](/3d/python-net/aspose.threed/scene)

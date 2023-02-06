@@ -18,42 +18,57 @@ Commonly used rendering APIs
 
 | Field | Description |
 | --- | --- |
-| [NONE](#NONE) | No rendering API |
-| [PREVIEW](#PREVIEW) | PreviewColorAPI, compatible with FBX |
+| [ARNOLD](#ARNOLD) | Arnold renderer |
+| [CUSTOM](#CUSTOM) | Custom rendering API |
 | [DIRECTX](#DIRECTX) | DirectX |
+| [MANTLE](#MANTLE) | AMD Mantle |
+| [MENTAL_RAY](#MENTAL-RAY) | MentalRay |
+| [METAL](#METAL) | Metal developed by Apple |
+| [NONE](#NONE) | No rendering API |
 | [OPENGL](#OPENGL) | OpenGL |
 | [OPENGLES](#OPENGLES) | OpenGL ES |
-| [MANTLE](#MANTLE) | AMD Mantle |
-| [METAL](#METAL) | Metal developed by Apple |
-| [VULKAN](#VULKAN) | Vulkan |
+| [PREVIEW](#PREVIEW) | PreviewColorAPI, compatible with FBX |
 | [RENDER_MAN](#RENDER-MAN) | RenderMan |
 | [RENDER_WARE](#RENDER-WARE) | RenderWare |
-| [STAGE3D](#STAGE3D) | Stage3D used in Adobe Flash |
-| [MENTAL_RAY](#MENTAL-RAY) | MentalRay |
-| [ARNOLD](#ARNOLD) | Arnold renderer |
 | [SHADERFX](#SHADERFX) | ShaderFX renderer |
-| [CUSTOM](#CUSTOM) | Custom rendering API |
+| [STAGE3D](#STAGE3D) | Stage3D used in Adobe Flash |
+| [VULKAN](#VULKAN) | Vulkan |
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [values()](#values--) |  |
+| [<T>valueOf(Class<T> arg0, String arg1)](#-T-valueOf-java.lang.Class-T--java.lang.String-) |  |
+| [compareTo(E arg0)](#compareTo-E-) |  |
+| [describeConstable()](#describeConstable--) |  |
+| [equals(Object arg0)](#equals-java.lang.Object-) |  |
+| [getClass()](#getClass--) |  |
+| [getDeclaringClass()](#getDeclaringClass--) |  |
+| [hashCode()](#hashCode--) |  |
+| [name()](#name--) |  |
+| [notify()](#notify--) |  |
+| [notifyAll()](#notifyAll--) |  |
+| [ordinal()](#ordinal--) |  |
+| [toString()](#toString--) |  |
 | [valueOf(String name)](#valueOf-java.lang.String-) |  |
-### NONE {#NONE}
+| [values()](#values--) |  |
+| [wait()](#wait--) |  |
+| [wait(long arg0)](#wait-long-) |  |
+| [wait(long arg0, int arg1)](#wait-long-int-) |  |
+### ARNOLD {#ARNOLD}
 ```
-public static final RenderingAPI NONE
-```
-
-
-No rendering API
-
-### PREVIEW {#PREVIEW}
-```
-public static final RenderingAPI PREVIEW
+public static final RenderingAPI ARNOLD
 ```
 
 
-PreviewColorAPI, compatible with FBX
+Arnold renderer
+
+### CUSTOM {#CUSTOM}
+```
+public static final RenderingAPI CUSTOM
+```
+
+
+Custom rendering API
 
 ### DIRECTX {#DIRECTX}
 ```
@@ -62,6 +77,38 @@ public static final RenderingAPI DIRECTX
 
 
 DirectX
+
+### MANTLE {#MANTLE}
+```
+public static final RenderingAPI MANTLE
+```
+
+
+AMD Mantle
+
+### MENTAL_RAY {#MENTAL-RAY}
+```
+public static final RenderingAPI MENTAL_RAY
+```
+
+
+MentalRay
+
+### METAL {#METAL}
+```
+public static final RenderingAPI METAL
+```
+
+
+Metal developed by Apple
+
+### NONE {#NONE}
+```
+public static final RenderingAPI NONE
+```
+
+
+No rendering API
 
 ### OPENGL {#OPENGL}
 ```
@@ -79,29 +126,13 @@ public static final RenderingAPI OPENGLES
 
 OpenGL ES
 
-### MANTLE {#MANTLE}
+### PREVIEW {#PREVIEW}
 ```
-public static final RenderingAPI MANTLE
-```
-
-
-AMD Mantle
-
-### METAL {#METAL}
-```
-public static final RenderingAPI METAL
+public static final RenderingAPI PREVIEW
 ```
 
 
-Metal developed by Apple
-
-### VULKAN {#VULKAN}
-```
-public static final RenderingAPI VULKAN
-```
-
-
-Vulkan
+PreviewColorAPI, compatible with FBX
 
 ### RENDER_MAN {#RENDER-MAN}
 ```
@@ -119,30 +150,6 @@ public static final RenderingAPI RENDER_WARE
 
 RenderWare
 
-### STAGE3D {#STAGE3D}
-```
-public static final RenderingAPI STAGE3D
-```
-
-
-Stage3D used in Adobe Flash
-
-### MENTAL_RAY {#MENTAL-RAY}
-```
-public static final RenderingAPI MENTAL_RAY
-```
-
-
-MentalRay
-
-### ARNOLD {#ARNOLD}
-```
-public static final RenderingAPI ARNOLD
-```
-
-
-Arnold renderer
-
 ### SHADERFX {#SHADERFX}
 ```
 public static final RenderingAPI SHADERFX
@@ -151,24 +158,154 @@ public static final RenderingAPI SHADERFX
 
 ShaderFX renderer
 
-### CUSTOM {#CUSTOM}
+### STAGE3D {#STAGE3D}
 ```
-public static final RenderingAPI CUSTOM
+public static final RenderingAPI STAGE3D
 ```
 
 
-Custom rendering API
+Stage3D used in Adobe Flash
 
-### values() {#values--}
+### VULKAN {#VULKAN}
 ```
-public static RenderingAPI[] values()
+public static final RenderingAPI VULKAN
+```
+
+
+Vulkan
+
+### <T>valueOf(Class<T> arg0, String arg1) {#-T-valueOf-java.lang.Class-T--java.lang.String-}
+```
+public static T <T>valueOf(Class<T> arg0, String arg1)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | java.lang.Class<T> |  |
+| arg1 | java.lang.String |  |
+
+**Returns:**
+T
+### compareTo(E arg0) {#compareTo-E-}
+```
+public final int compareTo(E arg0)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | E |  |
+
+**Returns:**
+int
+### describeConstable() {#describeConstable--}
+```
+public final Optional<Enum.EnumDesc<E>> describeConstable()
 ```
 
 
 
 
 **Returns:**
-com.aspose.threed.RenderingAPI[]
+java.util.Optional<java.lang.Enum.EnumDesc<E>>
+### equals(Object arg0) {#equals-java.lang.Object-}
+```
+public final boolean equals(Object arg0)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | java.lang.Object |  |
+
+**Returns:**
+boolean
+### getClass() {#getClass--}
+```
+public final native Class<?> getClass()
+```
+
+
+
+
+**Returns:**
+java.lang.Class<?>
+### getDeclaringClass() {#getDeclaringClass--}
+```
+public final Class<E> getDeclaringClass()
+```
+
+
+
+
+**Returns:**
+java.lang.Class<E>
+### hashCode() {#hashCode--}
+```
+public final int hashCode()
+```
+
+
+
+
+**Returns:**
+int
+### name() {#name--}
+```
+public final String name()
+```
+
+
+
+
+**Returns:**
+java.lang.String
+### notify() {#notify--}
+```
+public final native void notify()
+```
+
+
+
+
+### notifyAll() {#notifyAll--}
+```
+public final native void notifyAll()
+```
+
+
+
+
+### ordinal() {#ordinal--}
+```
+public final int ordinal()
+```
+
+
+
+
+**Returns:**
+int
+### toString() {#toString--}
+```
+public String toString()
+```
+
+
+
+
+**Returns:**
+java.lang.String
 ### valueOf(String name) {#valueOf-java.lang.String-}
 ```
 public static RenderingAPI valueOf(String name)
@@ -184,3 +321,48 @@ public static RenderingAPI valueOf(String name)
 
 **Returns:**
 [RenderingAPI](../../com.aspose.threed/renderingapi)
+### values() {#values--}
+```
+public static RenderingAPI[] values()
+```
+
+
+
+
+**Returns:**
+com.aspose.threed.RenderingAPI[]
+### wait() {#wait--}
+```
+public final void wait()
+```
+
+
+
+
+### wait(long arg0) {#wait-long-}
+```
+public final native void wait(long arg0)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+
+### wait(long arg0, int arg1) {#wait-long-int-}
+```
+public final void wait(long arg0, int arg1)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+| arg1 | int |  |
+

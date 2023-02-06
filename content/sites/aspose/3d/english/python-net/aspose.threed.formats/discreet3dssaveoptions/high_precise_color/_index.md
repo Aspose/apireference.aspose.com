@@ -14,6 +14,15 @@ is_root: false
 If this is true, the generated 3ds file will use high precise color, means each channel of red/green/blue are in 32bit float.
 Otherwise the generated file will use 24bit color, each channel use 8bit byte.
 The default value is false, because not all applications supports the high-precise color.
+### Definition:
+```python
+@property
+def high_precise_color(self):
+    ...
+@high_precise_color.setter
+def high_precise_color(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.formats](../../)

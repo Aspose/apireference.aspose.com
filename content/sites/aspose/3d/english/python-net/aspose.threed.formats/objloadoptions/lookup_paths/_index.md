@@ -12,6 +12,15 @@ is_root: false
 
 
 Some files like OBJ depends on external file, the lookup paths will allows Aspose.3D to look for external file to load.
+### Definition:
+```python
+@property
+def lookup_paths(self):
+    ...
+@lookup_paths.setter
+def lookup_paths(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.formats](../../)

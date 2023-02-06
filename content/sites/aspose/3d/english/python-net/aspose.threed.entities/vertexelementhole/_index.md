@@ -45,7 +45,8 @@ The VertexElementHole type exposes the following members:
 | [set_data(data)](/3d/python-net/aspose.threed.entities/vertexelementhole/set_data/#list) |  |
 
 
-### See Also
 
-* module [aspose.threed.entities](../)
+### See Also
+* module [aspose.threed.entities](..)
 * class [VertexElement](/3d/python-net/aspose.threed.entities/vertexelement)
+* class [VertexElementHole](/3d/python-net/aspose.threed.entities/vertexelementhole)

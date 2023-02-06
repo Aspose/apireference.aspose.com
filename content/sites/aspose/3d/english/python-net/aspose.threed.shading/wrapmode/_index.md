@@ -26,6 +26,6 @@ The WrapMode type exposes the following members:
 | BORDER | The coordinates that outside of the range [0.0, 1.0] are set to a specified border color. |
 
 
-### See Also
 
-* module [aspose.threed.shading](../)
+### See Also
+* module [aspose.threed.shading](..)

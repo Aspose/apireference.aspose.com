@@ -24,7 +24,17 @@ node = Node()
 node.transform.euler_angles = Vector3(90, 0, 0)
 
 ```
+### Definition:
+```python
+@property
+def euler_angles(self):
+    ...
+@euler_angles.setter
+def euler_angles(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed](../../)
 * class [Transform](/3d/python-net/aspose.threed/transform)
+* class [Vector3](/3d/python-net/aspose.threed.utilities/vector3)

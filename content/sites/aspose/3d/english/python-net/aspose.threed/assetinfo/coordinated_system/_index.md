@@ -12,6 +12,15 @@ is_root: false
 
 
 Gets or sets the coordinate system used in this asset.
+### Definition:
+```python
+@property
+def coordinated_system(self):
+    ...
+@coordinated_system.setter
+def coordinated_system(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed](../../)

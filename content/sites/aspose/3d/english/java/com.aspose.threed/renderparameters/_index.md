@@ -18,31 +18,40 @@ Describe the parameters of the render target
 
 | Constructor | Description |
 | --- | --- |
-| [RenderParameters(boolean doubleBuffering, int colorBits, int depthBits, int stencilBits)](#RenderParameters-boolean-int-int-int-) | Initialize an instance of com.aspose.threed.PixelFormat |
-| [RenderParameters()](#RenderParameters--) | Initialize an instance of com.aspose.threed.PixelFormat |
-| [RenderParameters(boolean doubleBuffering)](#RenderParameters-boolean-) | Initialize an instance of com.aspose.threed.PixelFormat |
-| [RenderParameters(boolean doubleBuffering, int colorBits)](#RenderParameters-boolean-int-) | Initialize an instance of com.aspose.threed.PixelFormat |
-| [RenderParameters(boolean doubleBuffering, int colorBits, int depthBits)](#RenderParameters-boolean-int-int-) | Initialize an instance of com.aspose.threed.PixelFormat |
+| [RenderParameters(boolean doubleBuffering, int colorBits, int depthBits, int stencilBits)](#RenderParameters-boolean-int-int-int-) | Initialize an instance of [PixelFormat](../../com.aspose.threed/pixelformat) |
+| [RenderParameters()](#RenderParameters--) | Initialize an instance of [PixelFormat](../../com.aspose.threed/pixelformat) |
+| [RenderParameters(boolean doubleBuffering)](#RenderParameters-boolean-) | Initialize an instance of [PixelFormat](../../com.aspose.threed/pixelformat) |
+| [RenderParameters(boolean doubleBuffering, int colorBits)](#RenderParameters-boolean-int-) | Initialize an instance of [PixelFormat](../../com.aspose.threed/pixelformat) |
+| [RenderParameters(boolean doubleBuffering, int colorBits, int depthBits)](#RenderParameters-boolean-int-int-) | Initialize an instance of [PixelFormat](../../com.aspose.threed/pixelformat) |
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getDoubleBuffering()](#getDoubleBuffering--) | Gets whether double buffer is used. |
-| [setDoubleBuffering(boolean value)](#setDoubleBuffering-boolean-) | Sets whether double buffer is used. |
-| [getColorBits()](#getColorBits--) | Gets how many bits will be used by color buffer. |
-| [setColorBits(int value)](#setColorBits-int-) | Sets how many bits will be used by color buffer. |
-| [getDepthBits()](#getDepthBits--) | Gets how many bits will be used by depth buffer. |
-| [setDepthBits(int value)](#setDepthBits-int-) | Sets how many bits will be used by depth buffer. |
-| [getStencilBits()](#getStencilBits--) | Gets how many bits will be used in stencil buffer. |
-| [setStencilBits(int value)](#setStencilBits-int-) | Sets how many bits will be used in stencil buffer. |
 | [clone()](#clone--) |  |
+| [equals(Object arg0)](#equals-java.lang.Object-) |  |
+| [getClass()](#getClass--) |  |
+| [getColorBits()](#getColorBits--) | Gets how many bits will be used by color buffer. |
+| [getDepthBits()](#getDepthBits--) | Gets how many bits will be used by depth buffer. |
+| [getDoubleBuffering()](#getDoubleBuffering--) | Gets whether double buffer is used. |
+| [getStencilBits()](#getStencilBits--) | Gets how many bits will be used in stencil buffer. |
+| [hashCode()](#hashCode--) |  |
+| [notify()](#notify--) |  |
+| [notifyAll()](#notifyAll--) |  |
+| [setColorBits(int value)](#setColorBits-int-) | Sets how many bits will be used by color buffer. |
+| [setDepthBits(int value)](#setDepthBits-int-) | Sets how many bits will be used by depth buffer. |
+| [setDoubleBuffering(boolean value)](#setDoubleBuffering-boolean-) | Sets whether double buffer is used. |
+| [setStencilBits(int value)](#setStencilBits-int-) | Sets how many bits will be used in stencil buffer. |
+| [toString()](#toString--) |  |
+| [wait()](#wait--) |  |
+| [wait(long arg0)](#wait-long-) |  |
+| [wait(long arg0, int arg1)](#wait-long-int-) |  |
 ### RenderParameters(boolean doubleBuffering, int colorBits, int depthBits, int stencilBits) {#RenderParameters-boolean-int-int-int-}
 ```
 public RenderParameters(boolean doubleBuffering, int colorBits, int depthBits, int stencilBits)
 ```
 
 
-Initialize an instance of com.aspose.threed.PixelFormat
+Initialize an instance of [PixelFormat](../../com.aspose.threed/pixelformat)
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -58,7 +67,7 @@ public RenderParameters()
 ```
 
 
-Initialize an instance of com.aspose.threed.PixelFormat
+Initialize an instance of [PixelFormat](../../com.aspose.threed/pixelformat)
 
 ### RenderParameters(boolean doubleBuffering) {#RenderParameters-boolean-}
 ```
@@ -66,7 +75,7 @@ public RenderParameters(boolean doubleBuffering)
 ```
 
 
-Initialize an instance of com.aspose.threed.PixelFormat
+Initialize an instance of [PixelFormat](../../com.aspose.threed/pixelformat)
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -79,7 +88,7 @@ public RenderParameters(boolean doubleBuffering, int colorBits)
 ```
 
 
-Initialize an instance of com.aspose.threed.PixelFormat
+Initialize an instance of [PixelFormat](../../com.aspose.threed/pixelformat)
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -93,7 +102,7 @@ public RenderParameters(boolean doubleBuffering, int colorBits, int depthBits)
 ```
 
 
-Initialize an instance of com.aspose.threed.PixelFormat
+Initialize an instance of [PixelFormat](../../com.aspose.threed/pixelformat)
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -102,29 +111,41 @@ Initialize an instance of com.aspose.threed.PixelFormat
 | colorBits | int |  |
 | depthBits | int |  |
 
-### getDoubleBuffering() {#getDoubleBuffering--}
+### clone() {#clone--}
 ```
-public boolean getDoubleBuffering()
+public RenderParameters clone()
 ```
 
 
-Gets whether double buffer is used.
+
 
 **Returns:**
-boolean
-### setDoubleBuffering(boolean value) {#setDoubleBuffering-boolean-}
+[RenderParameters](../../com.aspose.threed/renderparameters)
+### equals(Object arg0) {#equals-java.lang.Object-}
 ```
-public void setDoubleBuffering(boolean value)
+public boolean equals(Object arg0)
 ```
 
 
-Sets whether double buffer is used.
+
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | boolean | New value |
+| arg0 | java.lang.Object |  |
 
+**Returns:**
+boolean
+### getClass() {#getClass--}
+```
+public final native Class<?> getClass()
+```
+
+
+
+
+**Returns:**
+java.lang.Class<?>
 ### getColorBits() {#getColorBits--}
 ```
 public int getColorBits()
@@ -135,6 +156,62 @@ Gets how many bits will be used by color buffer.
 
 **Returns:**
 int
+### getDepthBits() {#getDepthBits--}
+```
+public int getDepthBits()
+```
+
+
+Gets how many bits will be used by depth buffer.
+
+**Returns:**
+int
+### getDoubleBuffering() {#getDoubleBuffering--}
+```
+public boolean getDoubleBuffering()
+```
+
+
+Gets whether double buffer is used.
+
+**Returns:**
+boolean
+### getStencilBits() {#getStencilBits--}
+```
+public int getStencilBits()
+```
+
+
+Gets how many bits will be used in stencil buffer.
+
+**Returns:**
+int
+### hashCode() {#hashCode--}
+```
+public native int hashCode()
+```
+
+
+
+
+**Returns:**
+int
+### notify() {#notify--}
+```
+public final native void notify()
+```
+
+
+
+
+### notifyAll() {#notifyAll--}
+```
+public final native void notifyAll()
+```
+
+
+
+
 ### setColorBits(int value) {#setColorBits-int-}
 ```
 public void setColorBits(int value)
@@ -148,16 +225,6 @@ Sets how many bits will be used by color buffer.
 | --- | --- | --- |
 | value | int | New value |
 
-### getDepthBits() {#getDepthBits--}
-```
-public int getDepthBits()
-```
-
-
-Gets how many bits will be used by depth buffer.
-
-**Returns:**
-int
 ### setDepthBits(int value) {#setDepthBits-int-}
 ```
 public void setDepthBits(int value)
@@ -171,16 +238,19 @@ Sets how many bits will be used by depth buffer.
 | --- | --- | --- |
 | value | int | New value |
 
-### getStencilBits() {#getStencilBits--}
+### setDoubleBuffering(boolean value) {#setDoubleBuffering-boolean-}
 ```
-public int getStencilBits()
+public void setDoubleBuffering(boolean value)
 ```
 
 
-Gets how many bits will be used in stencil buffer.
+Sets whether double buffer is used.
 
-**Returns:**
-int
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | boolean | New value |
+
 ### setStencilBits(int value) {#setStencilBits-int-}
 ```
 public void setStencilBits(int value)
@@ -194,13 +264,48 @@ Sets how many bits will be used in stencil buffer.
 | --- | --- | --- |
 | value | int | New value |
 
-### clone() {#clone--}
+### toString() {#toString--}
 ```
-public RenderParameters clone()
+public String toString()
 ```
 
 
 
 
 **Returns:**
-[RenderParameters](../../com.aspose.threed/renderparameters)
+java.lang.String
+### wait() {#wait--}
+```
+public final void wait()
+```
+
+
+
+
+### wait(long arg0) {#wait-long-}
+```
+public final native void wait(long arg0)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+
+### wait(long arg0, int arg1) {#wait-long-int-}
+```
+public final void wait(long arg0, int arg1)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+| arg1 | int |  |
+

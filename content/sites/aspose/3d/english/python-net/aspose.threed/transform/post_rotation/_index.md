@@ -24,7 +24,17 @@ node = Node()
 node.transform.post_rotation = Vector3(90, 0, 0)
 
 ```
+### Definition:
+```python
+@property
+def post_rotation(self):
+    ...
+@post_rotation.setter
+def post_rotation(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed](../../)
 * class [Transform](/3d/python-net/aspose.threed/transform)
+* class [Vector3](/3d/python-net/aspose.threed.utilities/vector3)

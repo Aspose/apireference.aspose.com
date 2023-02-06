@@ -12,7 +12,14 @@ is_root: false
 
 
 Gets the vertex declaration
+### Definition:
+```python
+@property
+def vertex_declaration(self):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.render](../../)
 * class [IVertexBuffer](/3d/python-net/aspose.threed.render/ivertexbuffer)
+* class [VertexDeclaration](/3d/python-net/aspose.threed.utilities/vertexdeclaration)

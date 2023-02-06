@@ -12,6 +12,15 @@ is_root: false
 
 
 Gets or sets the near plane of the camera, default value is 1
+### Definition:
+```python
+@property
+def near_plane(self):
+    ...
+@near_plane.setter
+def near_plane(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.formats](../../)

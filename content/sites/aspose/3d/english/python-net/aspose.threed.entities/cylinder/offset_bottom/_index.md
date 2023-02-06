@@ -12,7 +12,17 @@ is_root: false
 
 
 Gets or sets the vertices transformation offset of the bottom side.
+### Definition:
+```python
+@property
+def offset_bottom(self):
+    ...
+@offset_bottom.setter
+def offset_bottom(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.entities](../../)
 * class [Cylinder](/3d/python-net/aspose.threed.entities/cylinder)
+* class [Vector3](/3d/python-net/aspose.threed.utilities/vector3)

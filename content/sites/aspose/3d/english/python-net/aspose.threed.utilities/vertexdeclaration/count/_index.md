@@ -12,6 +12,12 @@ is_root: false
 
 
 Gets the count of all fields defined in this [VertexDeclaration](/3d/python-net/aspose.threed.utilities/vertexdeclaration)
+### Definition:
+```python
+@property
+def count(self):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.utilities](../../)

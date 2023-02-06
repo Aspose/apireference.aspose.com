@@ -12,6 +12,15 @@ is_root: false
 
 
 Gets or sets the version of the application that created this asset.
+### Definition:
+```python
+@property
+def application_version(self):
+    ...
+@application_version.setter
+def application_version(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed](../../)

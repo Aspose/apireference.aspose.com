@@ -12,7 +12,17 @@ is_root: false
 
 
 Gets or sets the texture for specular color
+### Definition:
+```python
+@property
+def specular_texture(self):
+    ...
+@specular_texture.setter
+def specular_texture(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.shading](../../)
 * class [PbrMaterial](/3d/python-net/aspose.threed.shading/pbrmaterial)
+* class [TextureBase](/3d/python-net/aspose.threed.shading/texturebase)

@@ -12,6 +12,15 @@ is_root: false
 
 
 Gets or sets the starting angle of the revolving procedure, measured in radian, default value is 0.
+### Definition:
+```python
+@property
+def angle_start(self):
+    ...
+@angle_start.setter
+def angle_start(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.entities](../../)

@@ -12,7 +12,14 @@ is_root: false
 
 
 Depth buffer texture
+### Definition:
+```python
+@property
+def depth_texture(self):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.render](../../)
 * class [IRenderTexture](/3d/python-net/aspose.threed.render/irendertexture)
+* class [ITextureUnit](/3d/python-net/aspose.threed.render/itextureunit)

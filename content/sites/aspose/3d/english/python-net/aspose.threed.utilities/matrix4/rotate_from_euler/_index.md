@@ -67,20 +67,6 @@ def rotate_from_euler(self, rx, ry, rz):
 | ry | float | Rotation in y axis in radian |
 | rz | float | Rotation in z axis in radian |
 
-### Example 
-
-
-The following code shows how to create a matrix for rotate operation.
-
-```python
-from aspose.threed.utilities import Matrix4, Vector3
-
-t = Matrix4.rotate_from_euler(0, math.pi, 0)
-pos = Vector3(1, 1, 10)
-print(f"Transformed: {t * pos}")
-
-```
-
 
 
 ### See Also

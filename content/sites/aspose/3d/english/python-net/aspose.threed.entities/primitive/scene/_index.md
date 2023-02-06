@@ -12,7 +12,14 @@ is_root: false
 
 
 Gets the scene that this object belongs to
+### Definition:
+```python
+@property
+def scene(self):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.entities](../../)
 * class [Primitive](/3d/python-net/aspose.threed.entities/primitive)
+* class [Scene](/3d/python-net/aspose.threed/scene)

@@ -12,6 +12,12 @@ is_root: false
 
 
 Gets the scene that this object belongs to
+### Definition:
+```python
+@property
+def scene(self):
+    ...
+```
 
 ### See Also
 * module [aspose.threed](../../)

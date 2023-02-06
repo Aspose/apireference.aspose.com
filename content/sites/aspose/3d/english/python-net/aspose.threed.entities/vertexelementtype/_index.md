@@ -36,6 +36,21 @@ The VertexElementType type exposes the following members:
 | HOLE | Holes, see [VertexElementHole](/3d/python-net/aspose.threed.entities/vertexelementhole) |
 
 
-### See Also
 
-* module [aspose.threed.entities](../)
+### See Also
+* module [aspose.threed.entities](..)
+* class [VertexElementBinormal](/3d/python-net/aspose.threed.entities/vertexelementbinormal)
+* class [VertexElementEdgeCrease](/3d/python-net/aspose.threed.entities/vertexelementedgecrease)
+* class [VertexElementHole](/3d/python-net/aspose.threed.entities/vertexelementhole)
+* class [VertexElementMaterial](/3d/python-net/aspose.threed.entities/vertexelementmaterial)
+* class [VertexElementNormal](/3d/python-net/aspose.threed.entities/vertexelementnormal)
+* class [VertexElementPolygonGroup](/3d/python-net/aspose.threed.entities/vertexelementpolygongroup)
+* class [VertexElementSmoothingGroup](/3d/python-net/aspose.threed.entities/vertexelementsmoothinggroup)
+* class [VertexElementSpecular](/3d/python-net/aspose.threed.entities/vertexelementspecular)
+* class [VertexElementTangent](/3d/python-net/aspose.threed.entities/vertexelementtangent)
+* class [VertexElementUV](/3d/python-net/aspose.threed.entities/vertexelementuv)
+* class [VertexElementUserData](/3d/python-net/aspose.threed.entities/vertexelementuserdata)
+* class [VertexElementVertexColor](/3d/python-net/aspose.threed.entities/vertexelementvertexcolor)
+* class [VertexElementVertexCrease](/3d/python-net/aspose.threed.entities/vertexelementvertexcrease)
+* class [VertexElementVisibility](/3d/python-net/aspose.threed.entities/vertexelementvisibility)
+* class [VertexElementWeight](/3d/python-net/aspose.threed.entities/vertexelementweight)

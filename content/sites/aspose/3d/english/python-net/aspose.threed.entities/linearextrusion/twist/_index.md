@@ -12,6 +12,15 @@ is_root: false
 
 
 The number of degrees of through which the shape is extruded.
+### Definition:
+```python
+@property
+def twist(self):
+    ...
+@twist.setter
+def twist(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.entities](../../)

@@ -12,6 +12,12 @@ is_root: false
 
 
 Active post-processing chain
+### Definition:
+```python
+@property
+def post_processings(self):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.render](../../)

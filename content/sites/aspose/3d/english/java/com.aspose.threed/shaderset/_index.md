@@ -21,97 +21,70 @@ Shader programs for each kind of materials
 
 | Constructor | Description |
 | --- | --- |
-| [ShaderSet()](#ShaderSet--) | Construct the instance of com.aspose.threed.ShaderSet |
+| [ShaderSet()](#ShaderSet--) | Construct the instance of [ShaderSet](../../com.aspose.threed/shaderset) |
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getLambert()](#getLambert--) | Gets the shader that used to render the lambert material |
-| [setLambert(ShaderProgram value)](#setLambert-com.aspose.threed.ShaderProgram-) | Sets the shader that used to render the lambert material |
-| [getPhong()](#getPhong--) | Gets the shader that used to render the phong material |
-| [setPhong(ShaderProgram value)](#setPhong-com.aspose.threed.ShaderProgram-) | Sets the shader that used to render the phong material |
-| [getPbr()](#getPbr--) | Gets the shader that used to render the PBR material |
-| [setPbr(ShaderProgram value)](#setPbr-com.aspose.threed.ShaderProgram-) | Sets the shader that used to render the PBR material |
-| [getFallback()](#getFallback--) | Gets the fallback shader when required shader is unavailable |
-| [setFallback(ShaderProgram value)](#setFallback-com.aspose.threed.ShaderProgram-) | Sets the fallback shader when required shader is unavailable |
 | [close()](#close--) | Dispose this instance and release all shader programs. |
+| [equals(Object arg0)](#equals-java.lang.Object-) |  |
+| [getClass()](#getClass--) |  |
+| [getFallback()](#getFallback--) | Gets the fallback shader when required shader is unavailable |
+| [getLambert()](#getLambert--) | Gets the shader that used to render the lambert material |
+| [getPbr()](#getPbr--) | Gets the shader that used to render the PBR material |
+| [getPhong()](#getPhong--) | Gets the shader that used to render the phong material |
+| [hashCode()](#hashCode--) |  |
+| [notify()](#notify--) |  |
+| [notifyAll()](#notifyAll--) |  |
+| [setFallback(ShaderProgram value)](#setFallback-com.aspose.threed.ShaderProgram-) | Sets the fallback shader when required shader is unavailable |
+| [setLambert(ShaderProgram value)](#setLambert-com.aspose.threed.ShaderProgram-) | Sets the shader that used to render the lambert material |
+| [setPbr(ShaderProgram value)](#setPbr-com.aspose.threed.ShaderProgram-) | Sets the shader that used to render the PBR material |
+| [setPhong(ShaderProgram value)](#setPhong-com.aspose.threed.ShaderProgram-) | Sets the shader that used to render the phong material |
+| [toString()](#toString--) |  |
+| [wait()](#wait--) |  |
+| [wait(long arg0)](#wait-long-) |  |
+| [wait(long arg0, int arg1)](#wait-long-int-) |  |
 ### ShaderSet() {#ShaderSet--}
 ```
 public ShaderSet()
 ```
 
 
-Construct the instance of com.aspose.threed.ShaderSet
+Construct the instance of [ShaderSet](../../com.aspose.threed/shaderset)
 
-### getLambert() {#getLambert--}
+### close() {#close--}
 ```
-public ShaderProgram getLambert()
-```
-
-
-Gets the shader that used to render the lambert material
-
-**Returns:**
-[ShaderProgram](../../com.aspose.threed/shaderprogram)
-### setLambert(ShaderProgram value) {#setLambert-com.aspose.threed.ShaderProgram-}
-```
-public void setLambert(ShaderProgram value)
+public void close()
 ```
 
 
-Sets the shader that used to render the lambert material
+Dispose this instance and release all shader programs.
+
+### equals(Object arg0) {#equals-java.lang.Object-}
+```
+public boolean equals(Object arg0)
+```
+
+
+
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | [ShaderProgram](../../com.aspose.threed/shaderprogram) | New value |
-
-### getPhong() {#getPhong--}
-```
-public ShaderProgram getPhong()
-```
-
-
-Gets the shader that used to render the phong material
+| arg0 | java.lang.Object |  |
 
 **Returns:**
-[ShaderProgram](../../com.aspose.threed/shaderprogram)
-### setPhong(ShaderProgram value) {#setPhong-com.aspose.threed.ShaderProgram-}
+boolean
+### getClass() {#getClass--}
 ```
-public void setPhong(ShaderProgram value)
-```
-
-
-Sets the shader that used to render the phong material
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | [ShaderProgram](../../com.aspose.threed/shaderprogram) | New value |
-
-### getPbr() {#getPbr--}
-```
-public ShaderProgram getPbr()
+public final native Class<?> getClass()
 ```
 
 
-Gets the shader that used to render the PBR material
+
 
 **Returns:**
-[ShaderProgram](../../com.aspose.threed/shaderprogram)
-### setPbr(ShaderProgram value) {#setPbr-com.aspose.threed.ShaderProgram-}
-```
-public void setPbr(ShaderProgram value)
-```
-
-
-Sets the shader that used to render the PBR material
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | [ShaderProgram](../../com.aspose.threed/shaderprogram) | New value |
-
+java.lang.Class<?>
 ### getFallback() {#getFallback--}
 ```
 public ShaderProgram getFallback()
@@ -122,6 +95,62 @@ Gets the fallback shader when required shader is unavailable
 
 **Returns:**
 [ShaderProgram](../../com.aspose.threed/shaderprogram)
+### getLambert() {#getLambert--}
+```
+public ShaderProgram getLambert()
+```
+
+
+Gets the shader that used to render the lambert material
+
+**Returns:**
+[ShaderProgram](../../com.aspose.threed/shaderprogram)
+### getPbr() {#getPbr--}
+```
+public ShaderProgram getPbr()
+```
+
+
+Gets the shader that used to render the PBR material
+
+**Returns:**
+[ShaderProgram](../../com.aspose.threed/shaderprogram)
+### getPhong() {#getPhong--}
+```
+public ShaderProgram getPhong()
+```
+
+
+Gets the shader that used to render the phong material
+
+**Returns:**
+[ShaderProgram](../../com.aspose.threed/shaderprogram)
+### hashCode() {#hashCode--}
+```
+public native int hashCode()
+```
+
+
+
+
+**Returns:**
+int
+### notify() {#notify--}
+```
+public final native void notify()
+```
+
+
+
+
+### notifyAll() {#notifyAll--}
+```
+public final native void notifyAll()
+```
+
+
+
+
 ### setFallback(ShaderProgram value) {#setFallback-com.aspose.threed.ShaderProgram-}
 ```
 public void setFallback(ShaderProgram value)
@@ -135,11 +164,87 @@ Sets the fallback shader when required shader is unavailable
 | --- | --- | --- |
 | value | [ShaderProgram](../../com.aspose.threed/shaderprogram) | New value |
 
-### close() {#close--}
+### setLambert(ShaderProgram value) {#setLambert-com.aspose.threed.ShaderProgram-}
 ```
-public void close()
+public void setLambert(ShaderProgram value)
 ```
 
 
-Dispose this instance and release all shader programs.
+Sets the shader that used to render the lambert material
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | [ShaderProgram](../../com.aspose.threed/shaderprogram) | New value |
+
+### setPbr(ShaderProgram value) {#setPbr-com.aspose.threed.ShaderProgram-}
+```
+public void setPbr(ShaderProgram value)
+```
+
+
+Sets the shader that used to render the PBR material
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | [ShaderProgram](../../com.aspose.threed/shaderprogram) | New value |
+
+### setPhong(ShaderProgram value) {#setPhong-com.aspose.threed.ShaderProgram-}
+```
+public void setPhong(ShaderProgram value)
+```
+
+
+Sets the shader that used to render the phong material
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | [ShaderProgram](../../com.aspose.threed/shaderprogram) | New value |
+
+### toString() {#toString--}
+```
+public String toString()
+```
+
+
+
+
+**Returns:**
+java.lang.String
+### wait() {#wait--}
+```
+public final void wait()
+```
+
+
+
+
+### wait(long arg0) {#wait-long-}
+```
+public final native void wait(long arg0)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+
+### wait(long arg0, int arg1) {#wait-long-int-}
+```
+public final void wait(long arg0, int arg1)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+| arg1 | int |  |
 

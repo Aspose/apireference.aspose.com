@@ -12,7 +12,17 @@ is_root: false
 
 
 Gets or sets the color of the line, default value is white(1, 1, 1)
+### Definition:
+```python
+@property
+def color(self):
+    ...
+@color.setter
+def color(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.entities](../../)
 * class [TransformedCurve](/3d/python-net/aspose.threed.entities/transformedcurve)
+* class [Vector3](/3d/python-net/aspose.threed.utilities/vector3)

@@ -12,6 +12,15 @@ is_root: false
 
 
 Gets or sets whether to export texture coordinates.
+### Definition:
+```python
+@property
+def export_texture_coordinates(self):
+    ...
+@export_texture_coordinates.setter
+def export_texture_coordinates(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.formats](../../)

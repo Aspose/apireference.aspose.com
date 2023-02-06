@@ -12,6 +12,15 @@ is_root: false
 
 
 Gets or sets the master scale used in exporting.
+### Definition:
+```python
+@property
+def master_scale(self):
+    ...
+@master_scale.setter
+def master_scale(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.formats](../../)

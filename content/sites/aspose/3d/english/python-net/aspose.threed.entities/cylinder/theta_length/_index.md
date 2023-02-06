@@ -13,6 +13,15 @@ is_root: false
 
 Gets or sets the length of the theta.
 The default value is 2π.
+### Definition:
+```python
+@property
+def theta_length(self):
+    ...
+@theta_length.setter
+def theta_length(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.entities](../../)

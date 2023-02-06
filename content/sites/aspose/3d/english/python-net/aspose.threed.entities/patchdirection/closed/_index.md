@@ -12,6 +12,15 @@ is_root: false
 
 
 Gets or sets a value indicating whether this [PatchDirection](/3d/python-net/aspose.threed.entities/patchdirection) is a closed curve.
+### Definition:
+```python
+@property
+def closed(self):
+    ...
+@closed.setter
+def closed(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.entities](../../)

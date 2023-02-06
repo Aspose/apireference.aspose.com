@@ -36,6 +36,6 @@ The PdfRenderMode type exposes the following members:
 | SHADED_ILLUSTRATION | Displays silhouette edges with lit and textured surfaces and an additional emissive term to remove poorly lit areas of the artwork. |
 
 
-### See Also
 
-* module [aspose.threed.formats](../)
+### See Also
+* module [aspose.threed.formats](..)

@@ -30,6 +30,7 @@ The MathUtils type exposes the following members:
 | [clamp(val, min, max)](/3d/python-net/aspose.threed.utilities/mathutils/clamp/#float-float-float) | Clamp value to range [min, max] |
 
 
-### See Also
 
-* module [aspose.threed.utilities](../)
+### See Also
+* module [aspose.threed.utilities](..)
+* class [Vector3](/3d/python-net/aspose.threed.utilities/vector3)

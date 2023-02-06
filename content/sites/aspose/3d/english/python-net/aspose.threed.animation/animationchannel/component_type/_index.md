@@ -12,6 +12,12 @@ is_root: false
 
 
 Gets the component field's type
+### Definition:
+```python
+@property
+def component_type(self):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.animation](../../)

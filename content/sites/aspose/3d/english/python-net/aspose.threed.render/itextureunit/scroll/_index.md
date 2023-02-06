@@ -12,7 +12,17 @@ is_root: false
 
 
 Gets or sets the scroll of the UV coordinate.
+### Definition:
+```python
+@property
+def scroll(self):
+    ...
+@scroll.setter
+def scroll(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.render](../../)
 * class [ITextureUnit](/3d/python-net/aspose.threed.render/itextureunit)
+* class [Vector2](/3d/python-net/aspose.threed.utilities/vector2)

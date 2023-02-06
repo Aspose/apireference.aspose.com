@@ -46,7 +46,8 @@ The CustomObject type exposes the following members:
 | [find_property(property_name)](/3d/python-net/aspose.threed/customobject/find_property/#str) | Finds the property.<br/>It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) <br/>or native property(Identified by its name) |
 
 
-### See Also
 
-* module [aspose.threed](../)
+### See Also
+* module [aspose.threed](..)
 * class [A3DObject](/3d/python-net/aspose.threed/a3dobject)
+* class [CustomObject](/3d/python-net/aspose.threed/customobject)

@@ -58,7 +58,11 @@ The TrimmedCurve type exposes the following members:
 | [get_entity_renderer_key()](/3d/python-net/aspose.threed.entities/trimmedcurve/get_entity_renderer_key/#) | Gets the key of the entity renderer registered in the renderer |
 
 
-### See Also
 
-* module [aspose.threed.entities](../)
+### See Also
+* module [aspose.threed.entities](..)
+* class [A3DObject](/3d/python-net/aspose.threed/a3dobject)
 * class [Curve](/3d/python-net/aspose.threed.entities/curve)
+* class [Entity](/3d/python-net/aspose.threed/entity)
+* class [SceneObject](/3d/python-net/aspose.threed/sceneobject)
+* class [TrimmedCurve](/3d/python-net/aspose.threed.entities/trimmedcurve)

@@ -12,6 +12,12 @@ is_root: false
 
 
 Is the end point a Cartesian point?
+### Definition:
+```python
+@property
+def is_cartesian_point(self):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.entities](../../)

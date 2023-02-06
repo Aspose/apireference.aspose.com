@@ -12,7 +12,17 @@ is_root: false
 
 
 Gets or sets the transparent color.
+### Definition:
+```python
+@property
+def transparent_color(self):
+    ...
+@transparent_color.setter
+def transparent_color(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.shading](../../)
 * class [LambertMaterial](/3d/python-net/aspose.threed.shading/lambertmaterial)
+* class [Vector3](/3d/python-net/aspose.threed.utilities/vector3)

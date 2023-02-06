@@ -12,6 +12,15 @@ is_root: false
 
 
 Gets or sets the out(right) weight on this key frame.
+### Definition:
+```python
+@property
+def out_weight(self):
+    ...
+@out_weight.setter
+def out_weight(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.animation](../../)

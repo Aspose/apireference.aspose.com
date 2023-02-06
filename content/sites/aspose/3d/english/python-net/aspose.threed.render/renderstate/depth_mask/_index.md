@@ -12,6 +12,15 @@ is_root: false
 
 
 Enable or disable the depth writing.
+### Definition:
+```python
+@property
+def depth_mask(self):
+    ...
+@depth_mask.setter
+def depth_mask(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.render](../../)

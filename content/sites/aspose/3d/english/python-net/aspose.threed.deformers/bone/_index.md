@@ -59,7 +59,10 @@ The Bone type exposes the following members:
 | [set_weight(index, weight)](/3d/python-net/aspose.threed.deformers/bone/set_weight/#int-float) | Sets the weight for control point specified by index |
 
 
-### See Also
 
-* module [aspose.threed.deformers](../)
-* class [A3DObject](/3d/python-net/aspose.threed.deformers/a3dobject)
+### See Also
+* module [aspose.threed.deformers](..)
+* class [A3DObject](/3d/python-net/aspose.threed/a3dobject)
+* class [Bone](/3d/python-net/aspose.threed.deformers/bone)
+* class [Skeleton](/3d/python-net/aspose.threed.entities/skeleton)
+* class [SkinDeformer](/3d/python-net/aspose.threed.deformers/skindeformer)

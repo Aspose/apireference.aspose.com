@@ -25,6 +25,6 @@ The DracoCompressionLevel type exposes the following members:
 | OPTIMAL | Encoder will compress the scene optimally, which may takes longer time to finish. |
 
 
-### See Also
 
-* module [aspose.threed.formats](../)
+### See Also
+* module [aspose.threed.formats](..)
