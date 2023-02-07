@@ -12,7 +12,14 @@ is_root: false
 
 
 Gets file format type
+### Definition:
+```python
+@property
+def file_format_type(self):
+    ...
+```
 
 ### See Also
 * module [aspose.threed](../../)
 * class [FileFormat](/3d/python-net/aspose.threed/fileformat)
+* class [FileFormatType](/3d/python-net/aspose.threed/fileformattype)

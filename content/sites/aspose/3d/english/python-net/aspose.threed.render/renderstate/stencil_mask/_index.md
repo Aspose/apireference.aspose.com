@@ -12,6 +12,15 @@ is_root: false
 
 
 Gets or sets the mask that is ANDed with the both reference and stored stencil value when test is done.
+### Definition:
+```python
+@property
+def stencil_mask(self):
+    ...
+@stencil_mask.setter
+def stencil_mask(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.render](../../)

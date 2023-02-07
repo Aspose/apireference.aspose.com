@@ -13,6 +13,15 @@ is_root: false
 
 Gets or sets the binary content of the texture.
 The embedded texture content is optional, user should load texture from external file if this is missing.
+### Definition:
+```python
+@property
+def content(self):
+    ...
+@content.setter
+def content(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.shading](../../)

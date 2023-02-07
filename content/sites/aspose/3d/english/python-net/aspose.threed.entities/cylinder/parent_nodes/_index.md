@@ -12,6 +12,12 @@ is_root: false
 
 
 Gets all parent nodes, an entity can be attached to multiple parent nodes for geometry instancing
+### Definition:
+```python
+@property
+def parent_nodes(self):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.entities](../../)

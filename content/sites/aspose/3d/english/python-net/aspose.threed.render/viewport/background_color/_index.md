@@ -12,6 +12,15 @@ is_root: false
 
 
 Gets or sets the background color of the viewport.
+### Definition:
+```python
+@property
+def background_color(self):
+    ...
+@background_color.setter
+def background_color(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.render](../../)

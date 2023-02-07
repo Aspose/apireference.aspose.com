@@ -65,20 +65,6 @@ def scale(self, s):
 | :- | :- | :- |
 | s | float | Scaling factories applies to all axex |
 
-### Example 
-
-
-The following code shows how to create a matrix for scale operation.
-
-```python
-from aspose.threed.utilities import Matrix4, Vector3
-
-t = Matrix4.scale(10)
-pos = Vector3(1, 1, 10)
-print(f"Transformed: {t * pos}")
-
-```
-
 
 ## scale(sx, sy, sz) {#float-float-float}
 
@@ -102,20 +88,6 @@ def scale(self, sx, sy, sz):
 | sx | float | Scaling factories applies to the x-axis |
 | sy | float | Scaling factories applies to the y-axis |
 | sz | float | Scaling factories applies to the z-axis |
-
-### Example 
-
-
-The following code shows how to create a matrix for scale operation.
-
-```python
-from aspose.threed.utilities import Matrix4, Vector3
-
-t = Matrix4.scale(10, 20, 10)
-pos = Vector3(1, 1, 10)
-print(f"Transformed: {t * pos}")
-
-```
 
 
 

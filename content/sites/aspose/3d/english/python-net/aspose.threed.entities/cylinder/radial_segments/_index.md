@@ -12,6 +12,15 @@ is_root: false
 
 
 Gets or sets the radial segments.
+### Definition:
+```python
+@property
+def radial_segments(self):
+    ...
+@radial_segments.setter
+def radial_segments(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.entities](../../)

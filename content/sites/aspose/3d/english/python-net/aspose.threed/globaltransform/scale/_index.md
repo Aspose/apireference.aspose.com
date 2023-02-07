@@ -24,7 +24,14 @@ tr = scene.root_node.global_transform
 print(f"Scale = {tr.scale}")
 
 ```
+### Definition:
+```python
+@property
+def scale(self):
+    ...
+```
 
 ### See Also
 * module [aspose.threed](../../)
 * class [GlobalTransform](/3d/python-net/aspose.threed/globaltransform)
+* class [Vector3](/3d/python-net/aspose.threed.utilities/vector3)

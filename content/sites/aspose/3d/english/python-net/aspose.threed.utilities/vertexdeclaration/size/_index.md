@@ -12,6 +12,12 @@ is_root: false
 
 
 The size in byte of the vertex structure.
+### Definition:
+```python
+@property
+def size(self):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.utilities](../../)

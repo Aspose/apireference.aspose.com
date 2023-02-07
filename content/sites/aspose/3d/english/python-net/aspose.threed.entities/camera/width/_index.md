@@ -12,6 +12,15 @@ is_root: false
 
 
 Gets or sets the view plane's width measured in inches
+### Definition:
+```python
+@property
+def width(self):
+    ...
+@width.setter
+def width(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.entities](../../)

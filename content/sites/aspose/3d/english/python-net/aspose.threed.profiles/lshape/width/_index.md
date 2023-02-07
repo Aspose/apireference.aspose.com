@@ -12,6 +12,15 @@ is_root: false
 
 
 Gets or sets the width of the profile.
+### Definition:
+```python
+@property
+def width(self):
+    ...
+@width.setter
+def width(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.profiles](../../)

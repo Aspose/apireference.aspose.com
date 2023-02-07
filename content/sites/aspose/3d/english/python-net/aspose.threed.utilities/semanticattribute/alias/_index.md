@@ -12,6 +12,12 @@ is_root: false
 
 
 Alias of the vertex field
+### Definition:
+```python
+@property
+def alias(self):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.utilities](../../)

@@ -12,6 +12,12 @@ is_root: false
 
 
 Gets the key frames of this curve.
+### Definition:
+```python
+@property
+def key_frames(self):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.animation](../../)

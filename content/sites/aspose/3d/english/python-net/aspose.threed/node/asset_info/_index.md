@@ -12,7 +12,17 @@ is_root: false
 
 
 Per-node asset info
+### Definition:
+```python
+@property
+def asset_info(self):
+    ...
+@asset_info.setter
+def asset_info(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed](../../)
+* class [AssetInfo](/3d/python-net/aspose.threed/assetinfo)
 * class [Node](/3d/python-net/aspose.threed/node)

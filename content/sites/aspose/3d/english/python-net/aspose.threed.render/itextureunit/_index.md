@@ -35,6 +35,8 @@ The ITextureUnit type exposes the following members:
 | [scale](/3d/python-net/aspose.threed.render/itextureunit/scale) | Gets or sets the scale of the UV coordinate. |
 
 
-### See Also
 
-* module [aspose.threed.render](../)
+### See Also
+* module [aspose.threed.render](..)
+* class [ITextureUnit](/3d/python-net/aspose.threed.render/itextureunit)
+* class [Texture](/3d/python-net/aspose.threed.shading/texture)

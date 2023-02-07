@@ -12,6 +12,15 @@ is_root: false
 
 
 Quantization bits for vertex color, default value is 10
+### Definition:
+```python
+@property
+def color_bits(self):
+    ...
+@color_bits.setter
+def color_bits(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.formats](../../)

@@ -27,6 +27,6 @@ The Interpolation type exposes the following members:
 | TCB_SPLINE | Also called Kochanek-Bartels spline, the behavior of tangent is defined by tension/bias/continuity |
 
 
-### See Also
 
-* module [aspose.threed.animation](../)
+### See Also
+* module [aspose.threed.animation](..)

@@ -12,6 +12,12 @@ is_root: false
 
 
 Gets the square of the length.
+### Definition:
+```python
+@property
+def length2(self):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.utilities](../../)

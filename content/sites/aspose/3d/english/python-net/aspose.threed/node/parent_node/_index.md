@@ -12,6 +12,15 @@ is_root: false
 
 
 Gets or sets the parent node.
+### Definition:
+```python
+@property
+def parent_node(self):
+    ...
+@parent_node.setter
+def parent_node(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed](../../)

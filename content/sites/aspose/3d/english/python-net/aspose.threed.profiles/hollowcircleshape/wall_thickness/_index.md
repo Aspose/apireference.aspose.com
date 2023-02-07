@@ -12,6 +12,15 @@ is_root: false
 
 
 Gets or sets the difference between the outer and inner radius.
+### Definition:
+```python
+@property
+def wall_thickness(self):
+    ...
+@wall_thickness.setter
+def wall_thickness(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.profiles](../../)

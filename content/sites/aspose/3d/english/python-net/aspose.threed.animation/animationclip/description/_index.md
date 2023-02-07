@@ -12,6 +12,15 @@ is_root: false
 
 
 Gets or sets the description of this animation clip
+### Definition:
+```python
+@property
+def description(self):
+    ...
+@description.setter
+def description(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.animation](../../)

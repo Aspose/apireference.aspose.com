@@ -12,6 +12,15 @@ is_root: false
 
 
 Gets or sets the frustum's far plane distance.
+### Definition:
+```python
+@property
+def far_plane(self):
+    ...
+@far_plane.setter
+def far_plane(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.entities](../../)

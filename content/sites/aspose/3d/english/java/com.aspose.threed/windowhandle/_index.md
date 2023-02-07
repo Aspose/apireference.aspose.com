@@ -18,38 +18,46 @@ Encapsulated window handle for different platforms.
 
 | Method | Description |
 | --- | --- |
-| [fromWayland(long display, long surface)](#fromWayland-long-long-) | Create com.aspose.threed.WindowHandle from a Wayland surface |
-| [fromXlib(long display, long window)](#fromXlib-long-long-) | Create com.aspose.threed.WindowHandle from an Xlib window |
+| [equals(Object arg0)](#equals-java.lang.Object-) |  |
+| [fromWayland(long display, long surface)](#fromWayland-long-long-) | Create [WindowHandle](../../com.aspose.threed/windowhandle) from a Wayland surface |
 | [fromWin32(long hWnd)](#fromWin32-long-) | The native HWND instance in Windows environment. |
+| [fromXlib(long display, long window)](#fromXlib-long-long-) | Create [WindowHandle](../../com.aspose.threed/windowhandle) from an Xlib window |
+| [getClass()](#getClass--) |  |
+| [hashCode()](#hashCode--) |  |
+| [notify()](#notify--) |  |
+| [notifyAll()](#notifyAll--) |  |
+| [toString()](#toString--) |  |
+| [wait()](#wait--) |  |
+| [wait(long arg0)](#wait-long-) |  |
+| [wait(long arg0, int arg1)](#wait-long-int-) |  |
+### equals(Object arg0) {#equals-java.lang.Object-}
+```
+public boolean equals(Object arg0)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | java.lang.Object |  |
+
+**Returns:**
+boolean
 ### fromWayland(long display, long surface) {#fromWayland-long-long-}
 ```
 public static WindowHandle fromWayland(long display, long surface)
 ```
 
 
-Create com.aspose.threed.WindowHandle from a Wayland surface
+Create [WindowHandle](../../com.aspose.threed/windowhandle) from a Wayland surface
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
 | display | long | The display instance of Wayland server |
 | surface | long | The handle of the surface |
-
-**Returns:**
-[WindowHandle](../../com.aspose.threed/windowhandle)
-### fromXlib(long display, long window) {#fromXlib-long-long-}
-```
-public static WindowHandle fromXlib(long display, long window)
-```
-
-
-Create com.aspose.threed.WindowHandle from an Xlib window
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| display | long | The display instance of the X server |
-| window | long | The handle of the window |
 
 **Returns:**
 [WindowHandle](../../com.aspose.threed/windowhandle)
@@ -68,3 +76,100 @@ The native HWND instance in Windows environment.
 
 **Returns:**
 [WindowHandle](../../com.aspose.threed/windowhandle)
+### fromXlib(long display, long window) {#fromXlib-long-long-}
+```
+public static WindowHandle fromXlib(long display, long window)
+```
+
+
+Create [WindowHandle](../../com.aspose.threed/windowhandle) from an Xlib window
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| display | long | The display instance of the X server |
+| window | long | The handle of the window |
+
+**Returns:**
+[WindowHandle](../../com.aspose.threed/windowhandle)
+### getClass() {#getClass--}
+```
+public final native Class<?> getClass()
+```
+
+
+
+
+**Returns:**
+java.lang.Class<?>
+### hashCode() {#hashCode--}
+```
+public native int hashCode()
+```
+
+
+
+
+**Returns:**
+int
+### notify() {#notify--}
+```
+public final native void notify()
+```
+
+
+
+
+### notifyAll() {#notifyAll--}
+```
+public final native void notifyAll()
+```
+
+
+
+
+### toString() {#toString--}
+```
+public String toString()
+```
+
+
+
+
+**Returns:**
+java.lang.String
+### wait() {#wait--}
+```
+public final void wait()
+```
+
+
+
+
+### wait(long arg0) {#wait-long-}
+```
+public final native void wait(long arg0)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+
+### wait(long arg0, int arg1) {#wait-long-int-}
+```
+public final void wait(long arg0, int arg1)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+| arg1 | int |  |
+

@@ -48,7 +48,9 @@ The VertexElementPolygonGroup type exposes the following members:
 | [set_data(data)](/3d/python-net/aspose.threed.entities/vertexelementpolygongroup/set_data/#list) | Load data |
 
 
-### See Also
 
-* module [aspose.threed.entities](../)
+### See Also
+* module [aspose.threed.entities](..)
+* class [VertexElement](/3d/python-net/aspose.threed.entities/vertexelement)
 * class [VertexElementIntsTemplate](/3d/python-net/aspose.threed.entities/vertexelementintstemplate)
+* class [VertexElementPolygonGroup](/3d/python-net/aspose.threed.entities/vertexelementpolygongroup)

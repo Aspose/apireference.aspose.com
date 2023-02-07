@@ -12,6 +12,12 @@ is_root: false
 
 
 The count of vertices in this [TriMesh](/3d/python-net/aspose.threed.entities/trimesh)
+### Definition:
+```python
+@property
+def vertices_count(self):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.entities](../../)

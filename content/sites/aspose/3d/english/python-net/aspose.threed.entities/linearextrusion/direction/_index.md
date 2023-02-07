@@ -12,7 +12,17 @@ is_root: false
 
 
 The direction of extrusion, default value is (0, 0, 1)
+### Definition:
+```python
+@property
+def direction(self):
+    ...
+@direction.setter
+def direction(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.entities](../../)
 * class [LinearExtrusion](/3d/python-net/aspose.threed.entities/linearextrusion)
+* class [Vector3](/3d/python-net/aspose.threed.utilities/vector3)

@@ -12,6 +12,15 @@ is_root: false
 
 
 Gets or sets the radius of edge in flange's edge.
+### Definition:
+```python
+@property
+def edge_radius(self):
+    ...
+@edge_radius.setter
+def edge_radius(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.profiles](../../)

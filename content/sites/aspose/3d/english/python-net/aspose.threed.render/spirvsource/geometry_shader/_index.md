@@ -12,6 +12,15 @@ is_root: false
 
 
 Gets or sets the source code of the geometry shader.
+### Definition:
+```python
+@property
+def geometry_shader(self):
+    ...
+@geometry_shader.setter
+def geometry_shader(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.render](../../)

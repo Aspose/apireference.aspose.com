@@ -12,6 +12,12 @@ is_root: false
 
 
 Gets the animations contained inside the clip.
+### Definition:
+```python
+@property
+def animations(self):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.animation](../../)

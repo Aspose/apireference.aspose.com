@@ -35,6 +35,6 @@ The RendererVariableManager type exposes the following members:
 | [world_ambient](/3d/python-net/aspose.threed.render/renderervariablemanager/world_ambient) | Ambient color defined in viewport. |
 
 
-### See Also
 
-* module [aspose.threed.render](../)
+### See Also
+* module [aspose.threed.render](..)

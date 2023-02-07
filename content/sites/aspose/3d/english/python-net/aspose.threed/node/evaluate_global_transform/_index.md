@@ -41,7 +41,6 @@ from aspose.threed.utilities import Vector3
 
 scene = Scene()
 boxNode = scene.root_node.create_child_node(Box())
-
 # place the box at (10, 0, 0)
 boxNode.transform.translation = Vector3(10, 0, 0)
 mat = boxNode.evaluate_global_transform(True)
@@ -53,4 +52,5 @@ print(f"The box's global transform matrix is {mat}")
 
 ### See Also
 * module [aspose.threed](../../)
+* class [Matrix4](/3d/python-net/aspose.threed.utilities/matrix4)
 * class [Node](/3d/python-net/aspose.threed/node)

@@ -12,6 +12,15 @@ is_root: false
 
 
 Gets or sets the length of the flange.
+### Definition:
+```python
+@property
+def flange_width(self):
+    ...
+@flange_width.setter
+def flange_width(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.profiles](../../)

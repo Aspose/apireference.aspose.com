@@ -12,6 +12,15 @@ is_root: false
 
 
 Gets or sets the subject of this asset
+### Definition:
+```python
+@property
+def subject(self):
+    ...
+@subject.setter
+def subject(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed](../../)

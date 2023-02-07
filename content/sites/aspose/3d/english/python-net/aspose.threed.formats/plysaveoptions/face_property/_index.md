@@ -12,6 +12,15 @@ is_root: false
 
 
 The property name for the face data, default value is "vertex_index"
+### Definition:
+```python
+@property
+def face_property(self):
+    ...
+@face_property.setter
+def face_property(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.formats](../../)

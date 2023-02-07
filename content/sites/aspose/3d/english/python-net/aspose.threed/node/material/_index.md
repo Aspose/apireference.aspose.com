@@ -26,7 +26,17 @@ node = scene.root_node.create_child_node(Box())
 node.material = LambertMaterial()
 
 ```
+### Definition:
+```python
+@property
+def material(self):
+    ...
+@material.setter
+def material(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed](../../)
+* class [Material](/3d/python-net/aspose.threed.shading/material)
 * class [Node](/3d/python-net/aspose.threed/node)

@@ -12,7 +12,14 @@ is_root: false
 
 
 Gets the type of this texture unit.
+### Definition:
+```python
+@property
+def type(self):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.render](../../)
 * class [ITextureUnit](/3d/python-net/aspose.threed.render/itextureunit)
+* class [TextureType](/3d/python-net/aspose.threed.render/texturetype)

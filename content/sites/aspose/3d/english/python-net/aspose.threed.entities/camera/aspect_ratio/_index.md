@@ -12,6 +12,15 @@ is_root: false
 
 
 Gets or sets the view plane aspect ratio.
+### Definition:
+```python
+@property
+def aspect_ratio(self):
+    ...
+@aspect_ratio.setter
+def aspect_ratio(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.entities](../../)

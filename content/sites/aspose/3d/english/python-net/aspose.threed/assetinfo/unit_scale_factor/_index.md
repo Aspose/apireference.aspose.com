@@ -17,6 +17,15 @@ Gets or sets the scale factor to real-world meter.
 
 
 This is ignored during serialization if the unit name is null.
+### Definition:
+```python
+@property
+def unit_scale_factor(self):
+    ...
+@unit_scale_factor.setter
+def unit_scale_factor(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed](../../)

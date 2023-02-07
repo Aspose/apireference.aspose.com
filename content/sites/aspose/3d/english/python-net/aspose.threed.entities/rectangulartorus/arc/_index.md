@@ -13,6 +13,15 @@ is_root: false
 
 The total angle of the arc, measured in radian.
 Default value is PI
+### Definition:
+```python
+@property
+def arc(self):
+    ...
+@arc.setter
+def arc(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.entities](../../)

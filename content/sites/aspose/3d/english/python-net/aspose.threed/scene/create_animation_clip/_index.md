@@ -34,4 +34,5 @@ def create_animation_clip(self, name):
 
 ### See Also
 * module [aspose.threed](../../)
+* class [AnimationClip](/3d/python-net/aspose.threed.animation/animationclip)
 * class [Scene](/3d/python-net/aspose.threed/scene)

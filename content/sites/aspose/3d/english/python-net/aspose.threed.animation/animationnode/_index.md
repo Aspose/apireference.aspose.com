@@ -54,7 +54,8 @@ The AnimationNode type exposes the following members:
 | [create_bind_point(obj, prop_name)](/3d/python-net/aspose.threed.animation/animationnode/create_bind_point/#A3DObject-str) | Creates a BindPoint based on the property data type. |
 
 
-### See Also
 
-* module [aspose.threed.animation](../)
-* class [A3DObject](/3d/python-net/aspose.threed.animation/a3dobject)
+### See Also
+* module [aspose.threed.animation](..)
+* class [A3DObject](/3d/python-net/aspose.threed/a3dobject)
+* class [AnimationNode](/3d/python-net/aspose.threed.animation/animationnode)

@@ -12,6 +12,15 @@ is_root: false
 
 
 Gets or sets the field of the view, default value is 45, measured in degree.
+### Definition:
+```python
+@property
+def field_of_view(self):
+    ...
+@field_of_view.setter
+def field_of_view(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.formats](../../)

@@ -45,6 +45,9 @@ The VertexDeclaration type exposes the following members:
 | [compare_to(other)](/3d/python-net/aspose.threed.utilities/vertexdeclaration/compare_to/#VertexDeclaration) | Compares this instance to a specified object and returns an indication of their relative values. |
 
 
-### See Also
 
-* module [aspose.threed.utilities](../)
+### See Also
+* module [aspose.threed.utilities](..)
+* class [Geometry](/3d/python-net/aspose.threed.entities/geometry)
+* class [TriMesh](/3d/python-net/aspose.threed.entities/trimesh)
+* class [VertexDeclaration](/3d/python-net/aspose.threed.utilities/vertexdeclaration)

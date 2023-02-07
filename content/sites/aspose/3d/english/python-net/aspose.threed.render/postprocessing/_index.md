@@ -39,7 +39,8 @@ The PostProcessing type exposes the following members:
 | [find_property(property_name)](/3d/python-net/aspose.threed.render/postprocessing/find_property/#str) | Finds the property.<br/>It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) <br/>or native property(Identified by its name) |
 
 
-### See Also
 
-* module [aspose.threed.render](../)
-* class [A3DObject](/3d/python-net/aspose.threed.render/a3dobject)
+### See Also
+* module [aspose.threed.render](..)
+* class [A3DObject](/3d/python-net/aspose.threed/a3dobject)
+* class [PostProcessing](/3d/python-net/aspose.threed.render/postprocessing)

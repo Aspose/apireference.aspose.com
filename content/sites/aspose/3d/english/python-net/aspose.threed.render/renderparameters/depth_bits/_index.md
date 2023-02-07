@@ -12,6 +12,15 @@ is_root: false
 
 
 Gets or sets how many bits will be used by depth buffer.
+### Definition:
+```python
+@property
+def depth_bits(self):
+    ...
+@depth_bits.setter
+def depth_bits(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.render](../../)

@@ -12,6 +12,15 @@ is_root: false
 
 
 Gets or sets whether flip coordinate system of control points/normal during exporting.
+### Definition:
+```python
+@property
+def flip_coordinate_system(self):
+    ...
+@flip_coordinate_system.setter
+def flip_coordinate_system(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.formats](../../)

@@ -35,3 +35,4 @@ def read_vector2(self, idx, field):
 ### See Also
 * module [aspose.threed.entities](../../)
 * class [TriMesh](/3d/python-net/aspose.threed.entities/trimesh)
+* class [Vector2](/3d/python-net/aspose.threed.utilities/vector2)

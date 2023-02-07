@@ -12,6 +12,15 @@ is_root: false
 
 
 Gets or sets the up vector, value can be "x"/"y"/"z", default value is "y"
+### Definition:
+```python
+@property
+def up_vector(self):
+    ...
+@up_vector.setter
+def up_vector(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.formats](../../)

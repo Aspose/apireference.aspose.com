@@ -46,7 +46,8 @@ The VertexElementUserData type exposes the following members:
 | [clear()](/3d/python-net/aspose.threed.entities/vertexelementuserdata/clear/#) | Clears all the data from this vertex element. |
 
 
-### See Also
 
-* module [aspose.threed.entities](../)
+### See Also
+* module [aspose.threed.entities](..)
 * class [VertexElement](/3d/python-net/aspose.threed.entities/vertexelement)
+* class [VertexElementUserData](/3d/python-net/aspose.threed.entities/vertexelementuserdata)

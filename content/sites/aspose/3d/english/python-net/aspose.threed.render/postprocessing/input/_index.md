@@ -12,7 +12,17 @@ is_root: false
 
 
 Input of this post-processing
+### Definition:
+```python
+@property
+def input(self):
+    ...
+@input.setter
+def input(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.render](../../)
+* class [ITextureUnit](/3d/python-net/aspose.threed.render/itextureunit)
 * class [PostProcessing](/3d/python-net/aspose.threed.render/postprocessing)

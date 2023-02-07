@@ -58,7 +58,12 @@ The RectangleShape type exposes the following members:
 | [get_extent()](/3d/python-net/aspose.threed.profiles/rectangleshape/get_extent/#) | Gets the extent in x and y dimension. |
 
 
-### See Also
 
-* module [aspose.threed.profiles](../)
+### See Also
+* module [aspose.threed.profiles](..)
+* class [A3DObject](/3d/python-net/aspose.threed/a3dobject)
+* class [Entity](/3d/python-net/aspose.threed/entity)
 * class [ParameterizedProfile](/3d/python-net/aspose.threed.profiles/parameterizedprofile)
+* class [Profile](/3d/python-net/aspose.threed.profiles/profile)
+* class [RectangleShape](/3d/python-net/aspose.threed.profiles/rectangleshape)
+* class [SceneObject](/3d/python-net/aspose.threed/sceneobject)

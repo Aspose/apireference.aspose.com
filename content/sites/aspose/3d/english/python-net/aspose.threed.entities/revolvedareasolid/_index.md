@@ -58,7 +58,10 @@ The RevolvedAreaSolid type exposes the following members:
 | [to_mesh()](/3d/python-net/aspose.threed.entities/revolvedareasolid/to_mesh/#) | Convert the [RevolvedAreaSolid](/3d/python-net/aspose.threed.entities/revolvedareasolid) into a mesh. |
 
 
-### See Also
 
-* module [aspose.threed.entities](../)
-* class [Entity](/3d/python-net/aspose.threed.entities/entity)
+### See Also
+* module [aspose.threed.entities](..)
+* class [A3DObject](/3d/python-net/aspose.threed/a3dobject)
+* class [Entity](/3d/python-net/aspose.threed/entity)
+* class [RevolvedAreaSolid](/3d/python-net/aspose.threed.entities/revolvedareasolid)
+* class [SceneObject](/3d/python-net/aspose.threed/sceneobject)

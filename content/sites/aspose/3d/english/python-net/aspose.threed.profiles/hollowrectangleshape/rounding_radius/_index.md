@@ -13,6 +13,15 @@ is_root: false
 
 Gets or sets the radius of the circular arcs of all four corners, measured in degrees.
 Default value is 0.0
+### Definition:
+```python
+@property
+def rounding_radius(self):
+    ...
+@rounding_radius.setter
+def rounding_radius(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.profiles](../../)

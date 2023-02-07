@@ -12,6 +12,15 @@ is_root: false
 
 
 Gets or sets the time in seconds of the end of the clip.
+### Definition:
+```python
+@property
+def stop(self):
+    ...
+@stop.setter
+def stop(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.animation](../../)

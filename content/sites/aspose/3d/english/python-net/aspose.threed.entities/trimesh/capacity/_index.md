@@ -12,6 +12,12 @@ is_root: false
 
 
 The capacity of pre-allocated vertices.
+### Definition:
+```python
+@property
+def capacity(self):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.entities](../../)

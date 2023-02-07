@@ -12,6 +12,15 @@ is_root: false
 
 
 Gets or sets the thickness of flange.
+### Definition:
+```python
+@property
+def flange_thickness(self):
+    ...
+@flange_thickness.setter
+def flange_thickness(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.profiles](../../)

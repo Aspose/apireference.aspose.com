@@ -25,7 +25,17 @@ scene = Scene.from_file("test.fbx")
 print(f"The FBX file is created by {scene.asset_info.application_name} {scene.asset_info.application_version}")
 
 ```
+### Definition:
+```python
+@property
+def asset_info(self):
+    ...
+@asset_info.setter
+def asset_info(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed](../../)
+* class [AssetInfo](/3d/python-net/aspose.threed/assetinfo)
 * class [Scene](/3d/python-net/aspose.threed/scene)

@@ -12,7 +12,17 @@ is_root: false
 
 
 Gets or sets the UV scale.
+### Definition:
+```python
+@property
+def uv_scale(self):
+    ...
+@uv_scale.setter
+def uv_scale(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.shading](../../)
 * class [TextureBase](/3d/python-net/aspose.threed.shading/texturebase)
+* class [Vector2](/3d/python-net/aspose.threed.utilities/vector2)

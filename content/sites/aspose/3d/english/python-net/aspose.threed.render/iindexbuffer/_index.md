@@ -34,6 +34,8 @@ The IIndexBuffer type exposes the following members:
 | [load_data(data)](/3d/python-net/aspose.threed.render/iindexbuffer/load_data/#bytes) | Load the data into current buffer |
 
 
-### See Also
 
-* module [aspose.threed.render](../)
+### See Also
+* module [aspose.threed.render](..)
+* class [IBuffer](/3d/python-net/aspose.threed.render/ibuffer)
+* class [TriMesh](/3d/python-net/aspose.threed.entities/trimesh)

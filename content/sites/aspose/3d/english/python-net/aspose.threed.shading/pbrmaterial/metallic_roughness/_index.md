@@ -12,7 +12,17 @@ is_root: false
 
 
 Gets or sets the texture for metallic(in R channel) and roughness(in G channel)
+### Definition:
+```python
+@property
+def metallic_roughness(self):
+    ...
+@metallic_roughness.setter
+def metallic_roughness(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.shading](../../)
 * class [PbrMaterial](/3d/python-net/aspose.threed.shading/pbrmaterial)
+* class [TextureBase](/3d/python-net/aspose.threed.shading/texturebase)

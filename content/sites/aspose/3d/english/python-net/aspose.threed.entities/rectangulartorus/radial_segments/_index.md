@@ -12,6 +12,15 @@ is_root: false
 
 
 The radial segments, default value is 10
+### Definition:
+```python
+@property
+def radial_segments(self):
+    ...
+@radial_segments.setter
+def radial_segments(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.entities](../../)

@@ -12,6 +12,15 @@ is_root: false
 
 
 Gets or sets whether to export vertex's diffuse color.
+### Definition:
+```python
+@property
+def export_vertex_diffuse(self):
+    ...
+@export_vertex_diffuse.setter
+def export_vertex_diffuse(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.formats](../../)

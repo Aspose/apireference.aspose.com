@@ -12,6 +12,15 @@ is_root: false
 
 
 Export node's properties through USD's customData field.
+### Definition:
+```python
+@property
+def export_meta_data(self):
+    ...
+@export_meta_data.setter
+def export_meta_data(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.formats](../../)

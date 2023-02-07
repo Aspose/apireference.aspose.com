@@ -76,7 +76,16 @@ The Geometry type exposes the following members:
 | [add_element(element)](/3d/python-net/aspose.threed.entities/geometry/add_element/#VertexElement) | Adds an existing vertex element to current geometry |
 
 
-### See Also
 
-* module [aspose.threed.entities](../)
-* class [Entity](/3d/python-net/aspose.threed.entities/entity)
+### See Also
+* module [aspose.threed.entities](..)
+* class [A3DObject](/3d/python-net/aspose.threed/a3dobject)
+* class [Deformer](/3d/python-net/aspose.threed.deformers/deformer)
+* class [Entity](/3d/python-net/aspose.threed/entity)
+* class [Geometry](/3d/python-net/aspose.threed.entities/geometry)
+* class [Mesh](/3d/python-net/aspose.threed.entities/mesh)
+* class [NurbsSurface](/3d/python-net/aspose.threed.entities/nurbssurface)
+* class [Patch](/3d/python-net/aspose.threed.entities/patch)
+* class [SceneObject](/3d/python-net/aspose.threed/sceneobject)
+* class [VertexElement](/3d/python-net/aspose.threed.entities/vertexelement)
+* class [VertexElementUV](/3d/python-net/aspose.threed.entities/vertexelementuv)

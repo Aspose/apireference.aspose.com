@@ -12,7 +12,17 @@ is_root: false
 
 
 Gets or sets the stencil action when stencil test fails.
+### Definition:
+```python
+@property
+def fail_action(self):
+    ...
+@fail_action.setter
+def fail_action(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.render](../../)
+* class [StencilAction](/3d/python-net/aspose.threed.render/stencilaction)
 * class [StencilState](/3d/python-net/aspose.threed.render/stencilstate)

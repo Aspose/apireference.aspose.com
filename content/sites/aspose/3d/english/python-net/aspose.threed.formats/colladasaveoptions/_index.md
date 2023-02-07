@@ -40,7 +40,9 @@ The ColladaSaveOptions type exposes the following members:
 | [transform_style](/3d/python-net/aspose.threed.formats/colladasaveoptions/transform_style) | Gets or sets the style of node transformation |
 
 
-### See Also
 
-* module [aspose.threed.formats](../)
+### See Also
+* module [aspose.threed.formats](..)
+* class [ColladaSaveOptions](/3d/python-net/aspose.threed.formats/colladasaveoptions)
+* class [IOConfig](/3d/python-net/aspose.threed.formats/ioconfig)
 * class [SaveOptions](/3d/python-net/aspose.threed.formats/saveoptions)

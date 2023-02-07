@@ -25,6 +25,7 @@ The EntityRendererFeatures type exposes the following members:
 | SHADOWMAP | This renderer can work in shadowmap mode |
 
 
-### See Also
 
-* module [aspose.threed.render](../)
+### See Also
+* module [aspose.threed.render](..)
+* class [EntityRenderer](/3d/python-net/aspose.threed.render/entityrenderer)

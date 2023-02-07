@@ -12,7 +12,17 @@ is_root: false
 
 
 Gets or sets the light's type
+### Definition:
+```python
+@property
+def light_type(self):
+    ...
+@light_type.setter
+def light_type(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.entities](../../)
 * class [Light](/3d/python-net/aspose.threed.entities/light)
+* class [LightType](/3d/python-net/aspose.threed.entities/lighttype)

@@ -18,18 +18,8 @@ The interface of render texture
 
 | Method | Description |
 | --- | --- |
-| [getTargets()](#getTargets--) | Color output targets. |
 | [getDepthTexture()](#getDepthTexture--) | Depth buffer texture |
-### getTargets() {#getTargets--}
-```
-public abstract List<ITextureUnit> getTargets()
-```
-
-
-Color output targets.
-
-**Returns:**
-java.util.List<com.aspose.threed.ITextureUnit>
+| [getTargets()](#getTargets--) | Color output targets. |
 ### getDepthTexture() {#getDepthTexture--}
 ```
 public abstract ITextureUnit getDepthTexture()
@@ -40,3 +30,13 @@ Depth buffer texture
 
 **Returns:**
 [ITextureUnit](../../com.aspose.threed/itextureunit)
+### getTargets() {#getTargets--}
+```
+public abstract List<ITextureUnit> getTargets()
+```
+
+
+Color output targets.
+
+**Returns:**
+java.util.List<com.aspose.threed.ITextureUnit>

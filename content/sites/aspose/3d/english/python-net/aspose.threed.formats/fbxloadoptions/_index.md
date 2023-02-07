@@ -40,7 +40,10 @@ The FbxLoadOptions type exposes the following members:
 | [keep_builtin_global_settings](/3d/python-net/aspose.threed.formats/fbxloadoptions/keep_builtin_global_settings) | Gets or sets whether to keep the builtin properties in GlobalSettings which have a native property replacement in [AssetInfo](/3d/python-net/aspose.threed/assetinfo).<br/>Set this to true if you want the full properties in GlobalSettings<br/>Default value is false |
 
 
-### See Also
 
-* module [aspose.threed.formats](../)
+### See Also
+* module [aspose.threed.formats](..)
+* class [AssetInfo](/3d/python-net/aspose.threed/assetinfo)
+* class [FbxLoadOptions](/3d/python-net/aspose.threed.formats/fbxloadoptions)
+* class [IOConfig](/3d/python-net/aspose.threed.formats/ioconfig)
 * class [LoadOptions](/3d/python-net/aspose.threed.formats/loadoptions)

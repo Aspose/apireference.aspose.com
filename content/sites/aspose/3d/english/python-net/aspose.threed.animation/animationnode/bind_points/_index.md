@@ -12,6 +12,12 @@ is_root: false
 
 
 Gets the current property bind points
+### Definition:
+```python
+@property
+def bind_points(self):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.animation](../../)

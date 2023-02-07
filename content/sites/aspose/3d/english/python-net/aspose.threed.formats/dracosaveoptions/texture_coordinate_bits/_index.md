@@ -12,6 +12,15 @@ is_root: false
 
 
 Quantization bits for texture coordinate, default value is 12
+### Definition:
+```python
+@property
+def texture_coordinate_bits(self):
+    ...
+@texture_coordinate_bits.setter
+def texture_coordinate_bits(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.formats](../../)

@@ -12,7 +12,17 @@ is_root: false
 
 
 Matrix for projection transformation
+### Definition:
+```python
+@property
+def matrix_projection(self):
+    ...
+@matrix_projection.setter
+def matrix_projection(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.render](../../)
+* class [FMatrix4](/3d/python-net/aspose.threed.utilities/fmatrix4)
 * class [RendererVariableManager](/3d/python-net/aspose.threed.render/renderervariablemanager)

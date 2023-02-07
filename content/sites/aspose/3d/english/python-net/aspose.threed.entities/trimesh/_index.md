@@ -80,7 +80,10 @@ The TriMesh type exposes the following members:
 | [read_float(idx, field)](/3d/python-net/aspose.threed.entities/trimesh/read_float/#int-aspose.threed.utilities.VertexField) | Read the float field |
 
 
-### See Also
 
-* module [aspose.threed.entities](../)
-* class [Entity](/3d/python-net/aspose.threed.entities/entity)
+### See Also
+* module [aspose.threed.entities](..)
+* class [A3DObject](/3d/python-net/aspose.threed/a3dobject)
+* class [Entity](/3d/python-net/aspose.threed/entity)
+* class [SceneObject](/3d/python-net/aspose.threed/sceneobject)
+* class [TriMesh](/3d/python-net/aspose.threed.entities/trimesh)

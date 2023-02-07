@@ -12,7 +12,17 @@ is_root: false
 
 
 Gets or sets the the interested position that the camera is looking at.
+### Definition:
+```python
+@property
+def look_at(self):
+    ...
+@look_at.setter
+def look_at(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.entities](../../)
 * class [Frustum](/3d/python-net/aspose.threed.entities/frustum)
+* class [Vector3](/3d/python-net/aspose.threed.utilities/vector3)

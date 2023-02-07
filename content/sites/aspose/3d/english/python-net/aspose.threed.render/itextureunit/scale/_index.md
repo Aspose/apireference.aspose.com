@@ -12,7 +12,17 @@ is_root: false
 
 
 Gets or sets the scale of the UV coordinate.
+### Definition:
+```python
+@property
+def scale(self):
+    ...
+@scale.setter
+def scale(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.render](../../)
 * class [ITextureUnit](/3d/python-net/aspose.threed.render/itextureunit)
+* class [Vector2](/3d/python-net/aspose.threed.utilities/vector2)

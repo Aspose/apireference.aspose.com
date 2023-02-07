@@ -12,6 +12,15 @@ is_root: false
 
 
 Gets or sets the next in(left) weight on this key frame.
+### Definition:
+```python
+@property
+def next_in_weight(self):
+    ...
+@next_in_weight.setter
+def next_in_weight(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.animation](../../)

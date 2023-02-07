@@ -34,7 +34,6 @@ from aspose.threed import Node, Scene
 
 scene = Scene.from_file("input.fbx")
 newNode = Node()
-
 # add a new node manually
 scene.root_node.add_child_node(newNode)
 

@@ -41,7 +41,9 @@ The UsdSaveOptions type exposes the following members:
 | [export_meta_data](/3d/python-net/aspose.threed.formats/usdsaveoptions/export_meta_data) | Export node's properties through USD's customData field. |
 
 
-### See Also
 
-* module [aspose.threed.formats](../)
+### See Also
+* module [aspose.threed.formats](..)
+* class [IOConfig](/3d/python-net/aspose.threed.formats/ioconfig)
 * class [SaveOptions](/3d/python-net/aspose.threed.formats/saveoptions)
+* class [UsdSaveOptions](/3d/python-net/aspose.threed.formats/usdsaveoptions)

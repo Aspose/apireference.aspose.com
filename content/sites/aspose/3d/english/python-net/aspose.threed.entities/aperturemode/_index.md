@@ -28,6 +28,6 @@ The ApertureMode type exposes the following members:
 | FOCAL_LENGTH | Use focal length directly. |
 
 
-### See Also
 
-* module [aspose.threed.entities](../)
+### See Also
+* module [aspose.threed.entities](..)

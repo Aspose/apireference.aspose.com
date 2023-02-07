@@ -24,7 +24,17 @@ node = Node()
 node.transform.transform_matrix = Matrix4.identity
 
 ```
+### Definition:
+```python
+@property
+def transform_matrix(self):
+    ...
+@transform_matrix.setter
+def transform_matrix(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed](../../)
+* class [Matrix4](/3d/python-net/aspose.threed.utilities/matrix4)
 * class [Transform](/3d/python-net/aspose.threed/transform)

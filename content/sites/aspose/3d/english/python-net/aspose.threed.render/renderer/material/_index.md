@@ -12,7 +12,17 @@ is_root: false
 
 
 Gets or sets the material that used to provide material information used by shaders.
+### Definition:
+```python
+@property
+def material(self):
+    ...
+@material.setter
+def material(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.render](../../)
+* class [Material](/3d/python-net/aspose.threed.shading/material)
 * class [Renderer](/3d/python-net/aspose.threed.render/renderer)

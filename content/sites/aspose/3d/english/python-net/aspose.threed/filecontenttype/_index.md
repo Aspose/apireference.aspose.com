@@ -23,6 +23,6 @@ The FileContentType type exposes the following members:
 | ASCII | ASCII format type, such as ASCII FBX, ASCII STL |
 
 
-### See Also
 
-* module [aspose.threed](../)
+### See Also
+* module [aspose.threed](..)

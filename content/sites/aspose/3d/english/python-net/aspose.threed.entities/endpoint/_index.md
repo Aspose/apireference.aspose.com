@@ -39,6 +39,7 @@ The EndPoint type exposes the following members:
 | [from_radian(degree)](/3d/python-net/aspose.threed.entities/endpoint/from_radian/#float) | Create an end point measured in radian. |
 
 
-### See Also
 
-* module [aspose.threed.entities](../)
+### See Also
+* module [aspose.threed.entities](..)
+* class [EndPoint](/3d/python-net/aspose.threed.entities/endpoint)

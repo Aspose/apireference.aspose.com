@@ -26,6 +26,6 @@ The PatchDirectionType type exposes the following members:
 | LINEAR | [The patch direction is a linear curve.](https://en.wikipedia.org/wiki/B%C3%A9zier_curve#Linear_curves) |
 
 
-### See Also
 
-* module [aspose.threed.entities](../)
+### See Also
+* module [aspose.threed.entities](..)

@@ -12,6 +12,15 @@ is_root: false
 
 
 Gets or sets the number of dish' latitude segments, default value is 8
+### Definition:
+```python
+@property
+def dish_latitude_segments(self):
+    ...
+@dish_latitude_segments.setter
+def dish_latitude_segments(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.formats](../../)

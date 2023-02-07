@@ -68,8 +68,6 @@ scene = Scene.from_file("input.fbx")
 with BytesIO() as ms:
     scene.save(ms, FileFormat.USDZ)
 
-
-
 ```
 
 
@@ -105,8 +103,6 @@ opt = UsdSaveOptions()
 opt.primitive_to_mesh = True
 with BytesIO() as ms:
     scene.save(ms, opt)
-
-
 
 ```
 

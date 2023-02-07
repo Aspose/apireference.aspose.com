@@ -35,6 +35,6 @@ The License type exposes the following members:
 
 In this example, an attempt will be made to find a license file named MyLicense.lic
 in the folder that contains
-### See Also
 
-* module [aspose.threed](../)
+### See Also
+* module [aspose.threed](..)

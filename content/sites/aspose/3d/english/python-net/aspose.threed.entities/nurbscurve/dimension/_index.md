@@ -17,7 +17,17 @@ Gets or sets the curve's dimension.
 
 
 For a [CurveDimension.TWO_DIMENSIONAL](/3d/python-net/aspose.threed.entities/curvedimension#TWO_DIMENSIONAL) curve, the z component in control point is unused.
+### Definition:
+```python
+@property
+def dimension(self):
+    ...
+@dimension.setter
+def dimension(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.entities](../../)
+* class [CurveDimension](/3d/python-net/aspose.threed.entities/curvedimension)
 * class [NurbsCurve](/3d/python-net/aspose.threed.entities/nurbscurve)

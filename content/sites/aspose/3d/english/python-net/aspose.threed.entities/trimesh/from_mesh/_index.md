@@ -57,4 +57,5 @@ def from_mesh(self, mesh, use_float):
 
 ### See Also
 * module [aspose.threed.entities](../../)
+* class [Mesh](/3d/python-net/aspose.threed.entities/mesh)
 * class [TriMesh](/3d/python-net/aspose.threed.entities/trimesh)

@@ -41,7 +41,9 @@ The StlLoadOptions type exposes the following members:
 | [recalculate_normal](/3d/python-net/aspose.threed.formats/stlloadoptions/recalculate_normal) | Ignore the normal data that stored in STL file and recalculate the normal data based on the vertex position.<br/>Default value is false |
 
 
-### See Also
 
-* module [aspose.threed.formats](../)
+### See Also
+* module [aspose.threed.formats](..)
+* class [IOConfig](/3d/python-net/aspose.threed.formats/ioconfig)
 * class [LoadOptions](/3d/python-net/aspose.threed.formats/loadoptions)
+* class [StlLoadOptions](/3d/python-net/aspose.threed.formats/stlloadoptions)

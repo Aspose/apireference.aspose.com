@@ -13,6 +13,15 @@ is_root: false
 
 Gets or sets the U component if the [Vector2](/3d/python-net/aspose.threed.utilities/vector2) is used as a mapping coordinate.
 It's an alias of x component.
+### Definition:
+```python
+@property
+def u(self):
+    ...
+@u.setter
+def u(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.utilities](../../)

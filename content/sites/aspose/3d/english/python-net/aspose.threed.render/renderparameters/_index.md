@@ -31,6 +31,7 @@ The RenderParameters type exposes the following members:
 | [stencil_bits](/3d/python-net/aspose.threed.render/renderparameters/stencil_bits) | Gets or sets how many bits will be used in stencil buffer. |
 
 
-### See Also
 
-* module [aspose.threed.render](../)
+### See Also
+* module [aspose.threed.render](..)
+* class [PixelFormat](/3d/python-net/aspose.threed.render/pixelformat)

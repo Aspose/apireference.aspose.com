@@ -12,7 +12,17 @@ is_root: false
 
 
 The transformation matrix.
+### Definition:
+```python
+@property
+def transform_matrix(self):
+    ...
+@transform_matrix.setter
+def transform_matrix(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.entities](../../)
+* class [Matrix4](/3d/python-net/aspose.threed.utilities/matrix4)
 * class [TransformedCurve](/3d/python-net/aspose.threed.entities/transformedcurve)

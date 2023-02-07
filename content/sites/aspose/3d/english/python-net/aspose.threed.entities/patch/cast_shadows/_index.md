@@ -12,6 +12,15 @@ is_root: false
 
 
 Gets or sets whether this geometry can cast shadow
+### Definition:
+```python
+@property
+def cast_shadows(self):
+    ...
+@cast_shadows.setter
+def cast_shadows(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.entities](../../)

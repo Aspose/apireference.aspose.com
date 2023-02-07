@@ -35,6 +35,6 @@ The ShadingLanguage type exposes the following members:
 | MENTAL_RAY | Mental Ray Shader language |
 
 
-### See Also
 
-* module [aspose.threed.shading](../)
+### See Also
+* module [aspose.threed.shading](..)

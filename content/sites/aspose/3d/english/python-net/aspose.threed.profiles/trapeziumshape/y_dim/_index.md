@@ -12,6 +12,15 @@ is_root: false
 
 
 Gets or sets the distance between the top and bottom lines measured along the y-axis.
+### Definition:
+```python
+@property
+def y_dim(self):
+    ...
+@y_dim.setter
+def y_dim(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.profiles](../../)

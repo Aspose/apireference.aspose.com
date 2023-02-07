@@ -12,6 +12,15 @@ is_root: false
 
 
 Gets or sets the depth of the profile.
+### Definition:
+```python
+@property
+def depth(self):
+    ...
+@depth.setter
+def depth(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.profiles](../../)

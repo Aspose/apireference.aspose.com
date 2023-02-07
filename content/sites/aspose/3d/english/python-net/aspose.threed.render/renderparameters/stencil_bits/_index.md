@@ -12,6 +12,15 @@ is_root: false
 
 
 Gets or sets how many bits will be used in stencil buffer.
+### Definition:
+```python
+@property
+def stencil_bits(self):
+    ...
+@stencil_bits.setter
+def stencil_bits(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.render](../../)

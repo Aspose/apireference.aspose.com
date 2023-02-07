@@ -1,8 +1,7 @@
 ---
 title: RenderState
 second_title: Aspose.3D for Java API Reference
-description: Render state for building the pipeline
- The changes made on render state will not affect the created pipeline instances.
+description: Render state for building the pipeline The changes made on render state will not affect the created pipeline instances.
 type: docs
 weight: 136
 url: /java/com.aspose.threed/renderstate/
@@ -22,57 +21,87 @@ Render state for building the pipeline The changes made on render state will not
 
 | Constructor | Description |
 | --- | --- |
-| [RenderState()](#RenderState--) | Constructor of com.aspose.threed.RenderState |
+| [RenderState()](#RenderState--) | Constructor of [RenderState](../../com.aspose.threed/renderstate) |
 ## Methods
 
 | Method | Description |
 | --- | --- |
+| [close()](#close--) | Dispose the [RenderState](../../com.aspose.threed/renderstate) and release all internal resources. |
+| [compareTo(RenderState other)](#compareTo-com.aspose.threed.RenderState-) | Compare the render state with another instance |
 | [equals(Object obj)](#equals-java.lang.Object-) | Returns a value indicating whether this instance is equal to a specified object. |
 | [getBlend()](#getBlend--) | Enable or disable the fragment blending. |
-| [setBlend(boolean value)](#setBlend-boolean-) | Enable or disable the fragment blending. |
-| [getBlendColor()](#getBlendColor--) | Gets the blend color where used in com.aspose.threed.BlendFactor\#CONSTANT\_COLOR |
-| [setBlendColor(FVector4 value)](#setBlendColor-com.aspose.threed.FVector4-) | Sets the blend color where used in com.aspose.threed.BlendFactor\#CONSTANT\_COLOR |
-| [getSourceBlendFactor()](#getSourceBlendFactor--) | Gets how the color is blended. |
-| [setSourceBlendFactor(BlendFactor value)](#setSourceBlendFactor-com.aspose.threed.BlendFactor-) | Sets how the color is blended. |
-| [getDestinationBlendFactor()](#getDestinationBlendFactor--) | Gets how the color is blended. |
-| [setDestinationBlendFactor(BlendFactor value)](#setDestinationBlendFactor-com.aspose.threed.BlendFactor-) | Sets how the color is blended. |
+| [getBlendColor()](#getBlendColor--) | Gets the blend color where used in [BlendFactor.CONSTANT\_COLOR](../../com.aspose.threed/blendfactor\#CONSTANT-COLOR) |
+| [getClass()](#getClass--) |  |
 | [getCullFace()](#getCullFace--) | Enable or disable cull face |
-| [setCullFace(boolean value)](#setCullFace-boolean-) | Enable or disable cull face |
 | [getCullFaceMode()](#getCullFaceMode--) | Gets which face will be culled. |
-| [setCullFaceMode(int value)](#setCullFaceMode-int-) | Sets which face will be culled. |
-| [getFrontFace()](#getFrontFace--) | Gets which order is front face. |
-| [setFrontFace(FrontFace value)](#setFrontFace-com.aspose.threed.FrontFace-) | Sets which order is front face. |
-| [getDepthTest()](#getDepthTest--) | Enable or disable the depth test. |
-| [setDepthTest(boolean value)](#setDepthTest-boolean-) | Enable or disable the depth test. |
-| [getDepthMask()](#getDepthMask--) | Enable or disable the depth writing. |
-| [setDepthMask(boolean value)](#setDepthMask-boolean-) | Enable or disable the depth writing. |
 | [getDepthFunction()](#getDepthFunction--) | Gets the compare function used in depth test |
-| [setDepthFunction(CompareFunction value)](#setDepthFunction-com.aspose.threed.CompareFunction-) | Sets the compare function used in depth test |
-| [getStencilTest()](#getStencilTest--) | Enable or disable the stencil test. |
-| [setStencilTest(boolean value)](#setStencilTest-boolean-) | Enable or disable the stencil test. |
-| [getStencilReference()](#getStencilReference--) | Gets the reference value for the stencil test. |
-| [setStencilReference(int value)](#setStencilReference-int-) | Sets the reference value for the stencil test. |
-| [getStencilMask()](#getStencilMask--) | Gets the mask that is ANDed with the both reference and stored stencil value when test is done. |
-| [setStencilMask(int value)](#setStencilMask-int-) | Sets the mask that is ANDed with the both reference and stored stencil value when test is done. |
-| [getStencilFrontFace()](#getStencilFrontFace--) | Gets the stencil state for front face. |
-| [getStencilBackFace()](#getStencilBackFace--) | Gets the stencil state for back face. |
-| [getScissorTest()](#getScissorTest--) | Enable or disable scissor test |
-| [setScissorTest(boolean value)](#setScissorTest-boolean-) | Enable or disable scissor test |
-| [getScissorBox()](#getScissorBox--) | Gets the scissor box |
-| [setScissorBox(Rectangle value)](#setScissorBox-java.awt.Rectangle-) | Sets the scissor box |
+| [getDepthMask()](#getDepthMask--) | Enable or disable the depth writing. |
+| [getDepthTest()](#getDepthTest--) | Enable or disable the depth test. |
+| [getDestinationBlendFactor()](#getDestinationBlendFactor--) | Gets how the color is blended. |
+| [getFrontFace()](#getFrontFace--) | Gets which order is front face. |
 | [getPolygonMode()](#getPolygonMode--) | Gets the polygon's render mode. |
-| [setPolygonMode(PolygonMode value)](#setPolygonMode-com.aspose.threed.PolygonMode-) | Sets the polygon's render mode. |
-| [compareTo(RenderState other)](#compareTo-com.aspose.threed.RenderState-) | Compare the render state with another instance |
+| [getScissorBox()](#getScissorBox--) | Gets the scissor box |
+| [getScissorTest()](#getScissorTest--) | Enable or disable scissor test |
+| [getSourceBlendFactor()](#getSourceBlendFactor--) | Gets how the color is blended. |
+| [getStencilBackFace()](#getStencilBackFace--) | Gets the stencil state for back face. |
+| [getStencilFrontFace()](#getStencilFrontFace--) | Gets the stencil state for front face. |
+| [getStencilMask()](#getStencilMask--) | Gets the mask that is ANDed with the both reference and stored stencil value when test is done. |
+| [getStencilReference()](#getStencilReference--) | Gets the reference value for the stencil test. |
+| [getStencilTest()](#getStencilTest--) | Enable or disable the stencil test. |
 | [hashCode()](#hashCode--) | Returns the hash code for this instance. |
-| [close()](#close--) | Dispose the com.aspose.threed.RenderState and release all internal resources. |
+| [notify()](#notify--) |  |
+| [notifyAll()](#notifyAll--) |  |
+| [setBlend(boolean value)](#setBlend-boolean-) | Enable or disable the fragment blending. |
+| [setBlendColor(FVector4 value)](#setBlendColor-com.aspose.threed.FVector4-) | Sets the blend color where used in [BlendFactor.CONSTANT\_COLOR](../../com.aspose.threed/blendfactor\#CONSTANT-COLOR) |
+| [setCullFace(boolean value)](#setCullFace-boolean-) | Enable or disable cull face |
+| [setCullFaceMode(int value)](#setCullFaceMode-int-) | Sets which face will be culled. |
+| [setDepthFunction(CompareFunction value)](#setDepthFunction-com.aspose.threed.CompareFunction-) | Sets the compare function used in depth test |
+| [setDepthMask(boolean value)](#setDepthMask-boolean-) | Enable or disable the depth writing. |
+| [setDepthTest(boolean value)](#setDepthTest-boolean-) | Enable or disable the depth test. |
+| [setDestinationBlendFactor(BlendFactor value)](#setDestinationBlendFactor-com.aspose.threed.BlendFactor-) | Sets how the color is blended. |
+| [setFrontFace(FrontFace value)](#setFrontFace-com.aspose.threed.FrontFace-) | Sets which order is front face. |
+| [setPolygonMode(PolygonMode value)](#setPolygonMode-com.aspose.threed.PolygonMode-) | Sets the polygon's render mode. |
+| [setScissorBox(Rectangle value)](#setScissorBox-java.awt.Rectangle-) | Sets the scissor box |
+| [setScissorTest(boolean value)](#setScissorTest-boolean-) | Enable or disable scissor test |
+| [setSourceBlendFactor(BlendFactor value)](#setSourceBlendFactor-com.aspose.threed.BlendFactor-) | Sets how the color is blended. |
+| [setStencilMask(int value)](#setStencilMask-int-) | Sets the mask that is ANDed with the both reference and stored stencil value when test is done. |
+| [setStencilReference(int value)](#setStencilReference-int-) | Sets the reference value for the stencil test. |
+| [setStencilTest(boolean value)](#setStencilTest-boolean-) | Enable or disable the stencil test. |
+| [toString()](#toString--) |  |
+| [wait()](#wait--) |  |
+| [wait(long arg0)](#wait-long-) |  |
+| [wait(long arg0, int arg1)](#wait-long-int-) |  |
 ### RenderState() {#RenderState--}
 ```
 public RenderState()
 ```
 
 
-Constructor of com.aspose.threed.RenderState
+Constructor of [RenderState](../../com.aspose.threed/renderstate)
 
+### close() {#close--}
+```
+public void close()
+```
+
+
+Dispose the [RenderState](../../com.aspose.threed/renderstate) and release all internal resources.
+
+### compareTo(RenderState other) {#compareTo-com.aspose.threed.RenderState-}
+```
+public int compareTo(RenderState other)
+```
+
+
+Compare the render state with another instance
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| other | [RenderState](../../com.aspose.threed/renderstate) |  |
+
+**Returns:**
+int
 ### equals(Object obj) {#equals-java.lang.Object-}
 ```
 public boolean equals(Object obj)
@@ -98,6 +127,212 @@ Enable or disable the fragment blending.
 
 **Returns:**
 boolean
+### getBlendColor() {#getBlendColor--}
+```
+public FVector4 getBlendColor()
+```
+
+
+Gets the blend color where used in [BlendFactor.CONSTANT\_COLOR](../../com.aspose.threed/blendfactor\#CONSTANT-COLOR)
+
+**Returns:**
+[FVector4](../../com.aspose.threed/fvector4)
+### getClass() {#getClass--}
+```
+public final native Class<?> getClass()
+```
+
+
+
+
+**Returns:**
+java.lang.Class<?>
+### getCullFace() {#getCullFace--}
+```
+public boolean getCullFace()
+```
+
+
+Enable or disable cull face
+
+**Returns:**
+boolean
+### getCullFaceMode() {#getCullFaceMode--}
+```
+public int getCullFaceMode()
+```
+
+
+Gets which face will be culled.
+
+**Returns:**
+int
+### getDepthFunction() {#getDepthFunction--}
+```
+public CompareFunction getDepthFunction()
+```
+
+
+Gets the compare function used in depth test
+
+**Returns:**
+[CompareFunction](../../com.aspose.threed/comparefunction)
+### getDepthMask() {#getDepthMask--}
+```
+public boolean getDepthMask()
+```
+
+
+Enable or disable the depth writing.
+
+**Returns:**
+boolean
+### getDepthTest() {#getDepthTest--}
+```
+public boolean getDepthTest()
+```
+
+
+Enable or disable the depth test.
+
+**Returns:**
+boolean
+### getDestinationBlendFactor() {#getDestinationBlendFactor--}
+```
+public BlendFactor getDestinationBlendFactor()
+```
+
+
+Gets how the color is blended.
+
+**Returns:**
+[BlendFactor](../../com.aspose.threed/blendfactor)
+### getFrontFace() {#getFrontFace--}
+```
+public FrontFace getFrontFace()
+```
+
+
+Gets which order is front face.
+
+**Returns:**
+[FrontFace](../../com.aspose.threed/frontface)
+### getPolygonMode() {#getPolygonMode--}
+```
+public PolygonMode getPolygonMode()
+```
+
+
+Gets the polygon's render mode.
+
+**Returns:**
+[PolygonMode](../../com.aspose.threed/polygonmode)
+### getScissorBox() {#getScissorBox--}
+```
+public Rectangle getScissorBox()
+```
+
+
+Gets the scissor box
+
+**Returns:**
+java.awt.Rectangle
+### getScissorTest() {#getScissorTest--}
+```
+public boolean getScissorTest()
+```
+
+
+Enable or disable scissor test
+
+**Returns:**
+boolean
+### getSourceBlendFactor() {#getSourceBlendFactor--}
+```
+public BlendFactor getSourceBlendFactor()
+```
+
+
+Gets how the color is blended.
+
+**Returns:**
+[BlendFactor](../../com.aspose.threed/blendfactor)
+### getStencilBackFace() {#getStencilBackFace--}
+```
+public StencilState getStencilBackFace()
+```
+
+
+Gets the stencil state for back face.
+
+**Returns:**
+[StencilState](../../com.aspose.threed/stencilstate)
+### getStencilFrontFace() {#getStencilFrontFace--}
+```
+public StencilState getStencilFrontFace()
+```
+
+
+Gets the stencil state for front face.
+
+**Returns:**
+[StencilState](../../com.aspose.threed/stencilstate)
+### getStencilMask() {#getStencilMask--}
+```
+public int getStencilMask()
+```
+
+
+Gets the mask that is ANDed with the both reference and stored stencil value when test is done.
+
+**Returns:**
+int
+### getStencilReference() {#getStencilReference--}
+```
+public int getStencilReference()
+```
+
+
+Gets the reference value for the stencil test.
+
+**Returns:**
+int
+### getStencilTest() {#getStencilTest--}
+```
+public boolean getStencilTest()
+```
+
+
+Enable or disable the stencil test.
+
+**Returns:**
+boolean
+### hashCode() {#hashCode--}
+```
+public int hashCode()
+```
+
+
+Returns the hash code for this instance.
+
+**Returns:**
+int
+### notify() {#notify--}
+```
+public final native void notify()
+```
+
+
+
+
+### notifyAll() {#notifyAll--}
+```
+public final native void notifyAll()
+```
+
+
+
+
 ### setBlend(boolean value) {#setBlend-boolean-}
 ```
 public void setBlend(boolean value)
@@ -111,85 +346,19 @@ Enable or disable the fragment blending.
 | --- | --- | --- |
 | value | boolean | New value |
 
-### getBlendColor() {#getBlendColor--}
-```
-public FVector4 getBlendColor()
-```
-
-
-Gets the blend color where used in com.aspose.threed.BlendFactor\#CONSTANT\_COLOR
-
-**Returns:**
-[FVector4](../../com.aspose.threed/fvector4)
 ### setBlendColor(FVector4 value) {#setBlendColor-com.aspose.threed.FVector4-}
 ```
 public void setBlendColor(FVector4 value)
 ```
 
 
-Sets the blend color where used in com.aspose.threed.BlendFactor\#CONSTANT\_COLOR
+Sets the blend color where used in [BlendFactor.CONSTANT\_COLOR](../../com.aspose.threed/blendfactor\#CONSTANT-COLOR)
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | [FVector4](../../com.aspose.threed/fvector4) | New value |
 
-### getSourceBlendFactor() {#getSourceBlendFactor--}
-```
-public BlendFactor getSourceBlendFactor()
-```
-
-
-Gets how the color is blended.
-
-**Returns:**
-[BlendFactor](../../com.aspose.threed/blendfactor)
-### setSourceBlendFactor(BlendFactor value) {#setSourceBlendFactor-com.aspose.threed.BlendFactor-}
-```
-public void setSourceBlendFactor(BlendFactor value)
-```
-
-
-Sets how the color is blended.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | [BlendFactor](../../com.aspose.threed/blendfactor) | New value |
-
-### getDestinationBlendFactor() {#getDestinationBlendFactor--}
-```
-public BlendFactor getDestinationBlendFactor()
-```
-
-
-Gets how the color is blended.
-
-**Returns:**
-[BlendFactor](../../com.aspose.threed/blendfactor)
-### setDestinationBlendFactor(BlendFactor value) {#setDestinationBlendFactor-com.aspose.threed.BlendFactor-}
-```
-public void setDestinationBlendFactor(BlendFactor value)
-```
-
-
-Sets how the color is blended.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | [BlendFactor](../../com.aspose.threed/blendfactor) | New value |
-
-### getCullFace() {#getCullFace--}
-```
-public boolean getCullFace()
-```
-
-
-Enable or disable cull face
-
-**Returns:**
-boolean
 ### setCullFace(boolean value) {#setCullFace-boolean-}
 ```
 public void setCullFace(boolean value)
@@ -203,16 +372,6 @@ Enable or disable cull face
 | --- | --- | --- |
 | value | boolean | New value |
 
-### getCullFaceMode() {#getCullFaceMode--}
-```
-public int getCullFaceMode()
-```
-
-
-Gets which face will be culled.
-
-**Returns:**
-int
 ### setCullFaceMode(int value) {#setCullFaceMode-int-}
 ```
 public void setCullFaceMode(int value)
@@ -226,85 +385,6 @@ Sets which face will be culled.
 | --- | --- | --- |
 | value | int | New value |
 
-### getFrontFace() {#getFrontFace--}
-```
-public FrontFace getFrontFace()
-```
-
-
-Gets which order is front face.
-
-**Returns:**
-[FrontFace](../../com.aspose.threed/frontface)
-### setFrontFace(FrontFace value) {#setFrontFace-com.aspose.threed.FrontFace-}
-```
-public void setFrontFace(FrontFace value)
-```
-
-
-Sets which order is front face.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | [FrontFace](../../com.aspose.threed/frontface) | New value |
-
-### getDepthTest() {#getDepthTest--}
-```
-public boolean getDepthTest()
-```
-
-
-Enable or disable the depth test.
-
-**Returns:**
-boolean
-### setDepthTest(boolean value) {#setDepthTest-boolean-}
-```
-public void setDepthTest(boolean value)
-```
-
-
-Enable or disable the depth test.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | boolean | New value |
-
-### getDepthMask() {#getDepthMask--}
-```
-public boolean getDepthMask()
-```
-
-
-Enable or disable the depth writing.
-
-**Returns:**
-boolean
-### setDepthMask(boolean value) {#setDepthMask-boolean-}
-```
-public void setDepthMask(boolean value)
-```
-
-
-Enable or disable the depth writing.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | boolean | New value |
-
-### getDepthFunction() {#getDepthFunction--}
-```
-public CompareFunction getDepthFunction()
-```
-
-
-Gets the compare function used in depth test
-
-**Returns:**
-[CompareFunction](../../com.aspose.threed/comparefunction)
 ### setDepthFunction(CompareFunction value) {#setDepthFunction-com.aspose.threed.CompareFunction-}
 ```
 public void setDepthFunction(CompareFunction value)
@@ -318,151 +398,58 @@ Sets the compare function used in depth test
 | --- | --- | --- |
 | value | [CompareFunction](../../com.aspose.threed/comparefunction) | New value |
 
-### getStencilTest() {#getStencilTest--}
+### setDepthMask(boolean value) {#setDepthMask-boolean-}
 ```
-public boolean getStencilTest()
-```
-
-
-Enable or disable the stencil test.
-
-**Returns:**
-boolean
-### setStencilTest(boolean value) {#setStencilTest-boolean-}
-```
-public void setStencilTest(boolean value)
+public void setDepthMask(boolean value)
 ```
 
 
-Enable or disable the stencil test.
+Enable or disable the depth writing.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | boolean | New value |
 
-### getStencilReference() {#getStencilReference--}
+### setDepthTest(boolean value) {#setDepthTest-boolean-}
 ```
-public int getStencilReference()
-```
-
-
-Gets the reference value for the stencil test.
-
-**Returns:**
-int
-### setStencilReference(int value) {#setStencilReference-int-}
-```
-public void setStencilReference(int value)
+public void setDepthTest(boolean value)
 ```
 
 
-Sets the reference value for the stencil test.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | int | New value |
-
-### getStencilMask() {#getStencilMask--}
-```
-public int getStencilMask()
-```
-
-
-Gets the mask that is ANDed with the both reference and stored stencil value when test is done.
-
-**Returns:**
-int
-### setStencilMask(int value) {#setStencilMask-int-}
-```
-public void setStencilMask(int value)
-```
-
-
-Sets the mask that is ANDed with the both reference and stored stencil value when test is done.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | int | New value |
-
-### getStencilFrontFace() {#getStencilFrontFace--}
-```
-public StencilState getStencilFrontFace()
-```
-
-
-Gets the stencil state for front face.
-
-**Returns:**
-[StencilState](../../com.aspose.threed/stencilstate)
-### getStencilBackFace() {#getStencilBackFace--}
-```
-public StencilState getStencilBackFace()
-```
-
-
-Gets the stencil state for back face.
-
-**Returns:**
-[StencilState](../../com.aspose.threed/stencilstate)
-### getScissorTest() {#getScissorTest--}
-```
-public boolean getScissorTest()
-```
-
-
-Enable or disable scissor test
-
-**Returns:**
-boolean
-### setScissorTest(boolean value) {#setScissorTest-boolean-}
-```
-public void setScissorTest(boolean value)
-```
-
-
-Enable or disable scissor test
+Enable or disable the depth test.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | boolean | New value |
 
-### getScissorBox() {#getScissorBox--}
+### setDestinationBlendFactor(BlendFactor value) {#setDestinationBlendFactor-com.aspose.threed.BlendFactor-}
 ```
-public Rectangle getScissorBox()
-```
-
-
-Gets the scissor box
-
-**Returns:**
-java.awt.Rectangle
-### setScissorBox(Rectangle value) {#setScissorBox-java.awt.Rectangle-}
-```
-public void setScissorBox(Rectangle value)
+public void setDestinationBlendFactor(BlendFactor value)
 ```
 
 
-Sets the scissor box
+Sets how the color is blended.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | java.awt.Rectangle | New value |
+| value | [BlendFactor](../../com.aspose.threed/blendfactor) | New value |
 
-### getPolygonMode() {#getPolygonMode--}
+### setFrontFace(FrontFace value) {#setFrontFace-com.aspose.threed.FrontFace-}
 ```
-public PolygonMode getPolygonMode()
+public void setFrontFace(FrontFace value)
 ```
 
 
-Gets the polygon's render mode.
+Sets which order is front face.
 
-**Returns:**
-[PolygonMode](../../com.aspose.threed/polygonmode)
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | [FrontFace](../../com.aspose.threed/frontface) | New value |
+
 ### setPolygonMode(PolygonMode value) {#setPolygonMode-com.aspose.threed.PolygonMode-}
 ```
 public void setPolygonMode(PolygonMode value)
@@ -476,36 +463,126 @@ Sets the polygon's render mode.
 | --- | --- | --- |
 | value | [PolygonMode](../../com.aspose.threed/polygonmode) | New value |
 
-### compareTo(RenderState other) {#compareTo-com.aspose.threed.RenderState-}
+### setScissorBox(Rectangle value) {#setScissorBox-java.awt.Rectangle-}
 ```
-public int compareTo(RenderState other)
+public void setScissorBox(Rectangle value)
 ```
 
 
-Compare the render state with another instance
+Sets the scissor box
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| other | [RenderState](../../com.aspose.threed/renderstate) |  |
+| value | java.awt.Rectangle | New value |
+
+### setScissorTest(boolean value) {#setScissorTest-boolean-}
+```
+public void setScissorTest(boolean value)
+```
+
+
+Enable or disable scissor test
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | boolean | New value |
+
+### setSourceBlendFactor(BlendFactor value) {#setSourceBlendFactor-com.aspose.threed.BlendFactor-}
+```
+public void setSourceBlendFactor(BlendFactor value)
+```
+
+
+Sets how the color is blended.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | [BlendFactor](../../com.aspose.threed/blendfactor) | New value |
+
+### setStencilMask(int value) {#setStencilMask-int-}
+```
+public void setStencilMask(int value)
+```
+
+
+Sets the mask that is ANDed with the both reference and stored stencil value when test is done.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | int | New value |
+
+### setStencilReference(int value) {#setStencilReference-int-}
+```
+public void setStencilReference(int value)
+```
+
+
+Sets the reference value for the stencil test.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | int | New value |
+
+### setStencilTest(boolean value) {#setStencilTest-boolean-}
+```
+public void setStencilTest(boolean value)
+```
+
+
+Enable or disable the stencil test.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | boolean | New value |
+
+### toString() {#toString--}
+```
+public String toString()
+```
+
+
+
 
 **Returns:**
-int
-### hashCode() {#hashCode--}
+java.lang.String
+### wait() {#wait--}
 ```
-public int hashCode()
-```
-
-
-Returns the hash code for this instance.
-
-**Returns:**
-int
-### close() {#close--}
-```
-public void close()
+public final void wait()
 ```
 
 
-Dispose the com.aspose.threed.RenderState and release all internal resources.
+
+
+### wait(long arg0) {#wait-long-}
+```
+public final native void wait(long arg0)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+
+### wait(long arg0, int arg1) {#wait-long-int-}
+```
+public final void wait(long arg0, int arg1)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+| arg1 | int |  |
 

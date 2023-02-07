@@ -31,3 +31,4 @@ def get_extent(self):
 ### See Also
 * module [aspose.threed.profiles](../../)
 * class [LShape](/3d/python-net/aspose.threed.profiles/lshape)
+* class [Vector2](/3d/python-net/aspose.threed.utilities/vector2)

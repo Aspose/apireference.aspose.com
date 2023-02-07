@@ -13,6 +13,15 @@ is_root: false
 
 Gets or sets whether export legacy material properties, used for back compatibility.
 This option is turned on by default.
+### Definition:
+```python
+@property
+def export_legacy_material_properties(self):
+    ...
+@export_legacy_material_properties.setter
+def export_legacy_material_properties(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.formats](../../)

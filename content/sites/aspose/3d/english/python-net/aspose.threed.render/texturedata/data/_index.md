@@ -12,6 +12,12 @@ is_root: false
 
 
 Raw bytes of pixel data
+### Definition:
+```python
+@property
+def data(self):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.render](../../)

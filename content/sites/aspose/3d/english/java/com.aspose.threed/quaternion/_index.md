@@ -21,7 +21,7 @@ Quaternion is usually used to perform rotation in computer graphics.
 
 | Constructor | Description |
 | --- | --- |
-| [Quaternion(double w, double x, double y, double z)](#Quaternion-double-double-double-double-) | Initializes a new instance of the com.aspose.threed.Quaternion class. |
+| [Quaternion(double w, double x, double y, double z)](#Quaternion-double-double-double-double-) | Initializes a new instance of the [Quaternion](../../com.aspose.threed/quaternion) class. |
 | [Quaternion()](#Quaternion--) |  |
 ## Fields
 
@@ -36,41 +36,47 @@ Quaternion is usually used to perform rotation in computer graphics.
 
 | Method | Description |
 | --- | --- |
-| [equals(Object obj)](#equals-java.lang.Object-) | Check if two quaternions equals |
-| [conjugate()](#conjugate--) | Returns a conjugate quaternion of current quaternion |
-| [inverse()](#inverse--) | Returns a inverse quaternion of current quaternion |
-| [dot(Quaternion q)](#dot-com.aspose.threed.Quaternion-) | Dots product |
-| [eulerAngles()](#eulerAngles--) | Converts quaternion to rotation represented by Euler angles All components are in radian |
-| [getLength()](#getLength--) | Gets the length of the quaternion |
-| [normalize()](#normalize--) | Normalize the quaternion |
-| [toAngleAxis(double[] angle, Vector3 axis)](#toAngleAxis-double---com.aspose.threed.Vector3-) | Decompose the quaternion to angle and axis |
-| [concat(Quaternion rhs)](#concat-com.aspose.threed.Quaternion-) | Concatenate two quaternions |
-| [fromAngleAxis(double a, Vector3 axis)](#fromAngleAxis-double-com.aspose.threed.Vector3-) | Creates a quaternion around given axis and rotate in clockwise |
-| [fromRotation(Vector3 orig, Vector3 dest)](#fromRotation-com.aspose.threed.Vector3-com.aspose.threed.Vector3-) | Creates a quaternion that rotate from original to destination direction |
-| [fromEulerAngle(double pitch, double yaw, double roll)](#fromEulerAngle-double-double-double-) | Creates quaternion from given Euler angle |
-| [fromEulerAngle(Vector3 eulerAngle)](#fromEulerAngle-com.aspose.threed.Vector3-) | Creates quaternion from given Euler angle |
-| [toMatrix()](#toMatrix--) | Convert the rotation presented by quaternion to transform matrix. |
 | [add(Quaternion lhs, Quaternion rhs)](#add-com.aspose.threed.Quaternion-com.aspose.threed.Quaternion-) | Operator overloading for + |
+| [clone()](#clone--) |  |
+| [concat(Quaternion rhs)](#concat-com.aspose.threed.Quaternion-) | Concatenate two quaternions |
+| [conjugate()](#conjugate--) | Returns a conjugate quaternion of current quaternion |
+| [copyFrom(Quaternion src)](#copyFrom-com.aspose.threed.Quaternion-) |  |
 | [div(Quaternion lhs, double rhs)](#div-com.aspose.threed.Quaternion-double-) | Operator overloading for / |
-| [mul(Quaternion lhs, double rhs)](#mul-com.aspose.threed.Quaternion-double-) | Operator overloading for \* |
+| [dot(Quaternion q)](#dot-com.aspose.threed.Quaternion-) | Dots product |
+| [equals(Object obj)](#equals-java.lang.Object-) | Check if two quaternions equals |
+| [eulerAngles()](#eulerAngles--) | Converts quaternion to rotation represented by Euler angles All components are in radian |
+| [fromAngleAxis(double a, Vector3 axis)](#fromAngleAxis-double-com.aspose.threed.Vector3-) | Creates a quaternion around given axis and rotate in clockwise |
+| [fromEulerAngle(Vector3 eulerAngle)](#fromEulerAngle-com.aspose.threed.Vector3-) | Creates quaternion from given Euler angle |
+| [fromEulerAngle(double pitch, double yaw, double roll)](#fromEulerAngle-double-double-double-) | Creates quaternion from given Euler angle |
+| [fromRotation(Vector3 orig, Vector3 dest)](#fromRotation-com.aspose.threed.Vector3-com.aspose.threed.Vector3-) | Creates a quaternion that rotate from original to destination direction |
+| [getClass()](#getClass--) |  |
+| [getLength()](#getLength--) | Gets the length of the quaternion |
+| [hashCode()](#hashCode--) | Gets the hash code of Quaternion |
+| [interpolate(float t, Quaternion from, Quaternion to)](#interpolate-float-com.aspose.threed.Quaternion-com.aspose.threed.Quaternion-) | Populates this quaternion with the interpolated value between the given quaternion arguments for a t between from and to. |
+| [inverse()](#inverse--) | Returns a inverse quaternion of current quaternion |
 | [mul(Quaternion lhs, Quaternion rhs)](#mul-com.aspose.threed.Quaternion-com.aspose.threed.Quaternion-) | Operator overloading for \* |
 | [mul(Quaternion q, Vector3 v)](#mul-com.aspose.threed.Quaternion-com.aspose.threed.Vector3-) | Operator overloading for \* |
 | [mul(Quaternion q, Vector4 v)](#mul-com.aspose.threed.Quaternion-com.aspose.threed.Vector4-) | Operator overloading for \* |
-| [toString()](#toString--) | Gets the representation of quaternion in string |
+| [mul(Quaternion lhs, double rhs)](#mul-com.aspose.threed.Quaternion-double-) | Operator overloading for \* |
 | [mul(Vector3 v, Quaternion q)](#mul-com.aspose.threed.Vector3-com.aspose.threed.Quaternion-) | Operator overloading for \* |
+| [normalize()](#normalize--) | Normalize the quaternion |
+| [notify()](#notify--) |  |
+| [notifyAll()](#notifyAll--) |  |
 | [op_eq(Quaternion lhs, Quaternion rhs)](#op-eq-com.aspose.threed.Quaternion-com.aspose.threed.Quaternion-) | Equal operator for quaternion |
 | [op_ne(Quaternion lhs, Quaternion rhs)](#op-ne-com.aspose.threed.Quaternion-com.aspose.threed.Quaternion-) | Not-equal operator for quaternion |
-| [interpolate(float t, Quaternion from, Quaternion to)](#interpolate-float-com.aspose.threed.Quaternion-com.aspose.threed.Quaternion-) | Populates this quaternion with the interpolated value between the given quaternion arguments for a t between from and to. |
-| [clone()](#clone--) |  |
-| [copyFrom(Quaternion src)](#copyFrom-com.aspose.threed.Quaternion-) |  |
-| [hashCode()](#hashCode--) | Gets the hash code of Quaternion |
+| [toAngleAxis(double[] angle, Vector3 axis)](#toAngleAxis-double---com.aspose.threed.Vector3-) | Decompose the quaternion to angle and axis |
+| [toMatrix()](#toMatrix--) | Convert the rotation presented by quaternion to transform matrix. |
+| [toString()](#toString--) | Gets the representation of quaternion in string |
+| [wait()](#wait--) |  |
+| [wait(long arg0)](#wait-long-) |  |
+| [wait(long arg0, int arg1)](#wait-long-int-) |  |
 ### Quaternion(double w, double x, double y, double z) {#Quaternion-double-double-double-double-}
 ```
 public Quaternion(double w, double x, double y, double z)
 ```
 
 
-Initializes a new instance of the com.aspose.threed.Quaternion class.
+Initializes a new instance of the [Quaternion](../../com.aspose.threed/quaternion) class.
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -126,100 +132,32 @@ public double z
 
 The z component.
 
-### equals(Object obj) {#equals-java.lang.Object-}
+### add(Quaternion lhs, Quaternion rhs) {#add-com.aspose.threed.Quaternion-com.aspose.threed.Quaternion-}
 ```
-public boolean equals(Object obj)
+public static Quaternion add(Quaternion lhs, Quaternion rhs)
 ```
 
 
-Check if two quaternions equals
+Operator overloading for +
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| obj | java.lang.Object | The object to check equality. |
+| lhs | [Quaternion](../../com.aspose.threed/quaternion) | Left quaternion |
+| rhs | [Quaternion](../../com.aspose.threed/quaternion) | Right quaternion |
 
 **Returns:**
-boolean - True if all components are identically equal.
-### conjugate() {#conjugate--}
+[Quaternion](../../com.aspose.threed/quaternion) - Result quaternion
+### clone() {#clone--}
 ```
-public Quaternion conjugate()
+public Quaternion clone()
 ```
 
 
-Returns a conjugate quaternion of current quaternion
+
 
 **Returns:**
-[Quaternion](../../com.aspose.threed/quaternion) - The conjugate quaternion.
-### inverse() {#inverse--}
-```
-public Quaternion inverse()
-```
-
-
-Returns a inverse quaternion of current quaternion
-
-**Returns:**
-[Quaternion](../../com.aspose.threed/quaternion) - Inverse quaternion.
-### dot(Quaternion q) {#dot-com.aspose.threed.Quaternion-}
-```
-public double dot(Quaternion q)
-```
-
-
-Dots product
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| q | [Quaternion](../../com.aspose.threed/quaternion) | The quaternion |
-
-**Returns:**
-double - Dot value
-### eulerAngles() {#eulerAngles--}
-```
-public Vector3 eulerAngles()
-```
-
-
-Converts quaternion to rotation represented by Euler angles All components are in radian
-
-**Returns:**
-[Vector3](../../com.aspose.threed/vector3) - Result vector
-### getLength() {#getLength--}
-```
-public double getLength()
-```
-
-
-Gets the length of the quaternion
-
-**Returns:**
-double
-### normalize() {#normalize--}
-```
-public Quaternion normalize()
-```
-
-
-Normalize the quaternion
-
-**Returns:**
-[Quaternion](../../com.aspose.threed/quaternion) - Normalized quaternion.
-### toAngleAxis(double[] angle, Vector3 axis) {#toAngleAxis-double---com.aspose.threed.Vector3-}
-```
-public void toAngleAxis(double[] angle, Vector3 axis)
-```
-
-
-Decompose the quaternion to angle and axis
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| angle | double[] | The angle to rotate, in radian. |
-| axis | [Vector3](../../com.aspose.threed/vector3) | The axis that rotates around. |
-
+[Quaternion](../../com.aspose.threed/quaternion)
 ### concat(Quaternion rhs) {#concat-com.aspose.threed.Quaternion-}
 ```
 public Quaternion concat(Quaternion rhs)
@@ -235,6 +173,85 @@ Concatenate two quaternions
 
 **Returns:**
 [Quaternion](../../com.aspose.threed/quaternion)
+### conjugate() {#conjugate--}
+```
+public Quaternion conjugate()
+```
+
+
+Returns a conjugate quaternion of current quaternion
+
+**Returns:**
+[Quaternion](../../com.aspose.threed/quaternion) - The conjugate quaternion.
+### copyFrom(Quaternion src) {#copyFrom-com.aspose.threed.Quaternion-}
+```
+public void copyFrom(Quaternion src)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| src | [Quaternion](../../com.aspose.threed/quaternion) |  |
+
+### div(Quaternion lhs, double rhs) {#div-com.aspose.threed.Quaternion-double-}
+```
+public static Quaternion div(Quaternion lhs, double rhs)
+```
+
+
+Operator overloading for /
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| lhs | [Quaternion](../../com.aspose.threed/quaternion) | Left quaternion |
+| rhs | double | Right quaternion |
+
+**Returns:**
+[Quaternion](../../com.aspose.threed/quaternion) - Result quaternion
+### dot(Quaternion q) {#dot-com.aspose.threed.Quaternion-}
+```
+public double dot(Quaternion q)
+```
+
+
+Dots product
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| q | [Quaternion](../../com.aspose.threed/quaternion) | The quaternion |
+
+**Returns:**
+double - Dot value
+### equals(Object obj) {#equals-java.lang.Object-}
+```
+public boolean equals(Object obj)
+```
+
+
+Check if two quaternions equals
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| obj | java.lang.Object | The object to check equality. |
+
+**Returns:**
+boolean - True if all components are identically equal.
+### eulerAngles() {#eulerAngles--}
+```
+public Vector3 eulerAngles()
+```
+
+
+Converts quaternion to rotation represented by Euler angles All components are in radian
+
+**Returns:**
+[Vector3](../../com.aspose.threed/vector3) - Result vector
 ### fromAngleAxis(double a, Vector3 axis) {#fromAngleAxis-double-com.aspose.threed.Vector3-}
 ```
 public static Quaternion fromAngleAxis(double a, Vector3 axis)
@@ -251,19 +268,18 @@ Creates a quaternion around given axis and rotate in clockwise
 
 **Returns:**
 [Quaternion](../../com.aspose.threed/quaternion) - Created quaternion
-### fromRotation(Vector3 orig, Vector3 dest) {#fromRotation-com.aspose.threed.Vector3-com.aspose.threed.Vector3-}
+### fromEulerAngle(Vector3 eulerAngle) {#fromEulerAngle-com.aspose.threed.Vector3-}
 ```
-public static Quaternion fromRotation(Vector3 orig, Vector3 dest)
+public static Quaternion fromEulerAngle(Vector3 eulerAngle)
 ```
 
 
-Creates a quaternion that rotate from original to destination direction
+Creates quaternion from given Euler angle
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| orig | [Vector3](../../com.aspose.threed/vector3) | Original direction |
-| dest | [Vector3](../../com.aspose.threed/vector3) | Destination direction |
+| eulerAngle | [Vector3](../../com.aspose.threed/vector3) | Euler angle in radian |
 
 **Returns:**
 [Quaternion](../../com.aspose.threed/quaternion) - Created quaternion
@@ -284,79 +300,79 @@ Creates quaternion from given Euler angle
 
 **Returns:**
 [Quaternion](../../com.aspose.threed/quaternion) - Created quaternion
-### fromEulerAngle(Vector3 eulerAngle) {#fromEulerAngle-com.aspose.threed.Vector3-}
+### fromRotation(Vector3 orig, Vector3 dest) {#fromRotation-com.aspose.threed.Vector3-com.aspose.threed.Vector3-}
 ```
-public static Quaternion fromEulerAngle(Vector3 eulerAngle)
+public static Quaternion fromRotation(Vector3 orig, Vector3 dest)
 ```
 
 
-Creates quaternion from given Euler angle
+Creates a quaternion that rotate from original to destination direction
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| eulerAngle | [Vector3](../../com.aspose.threed/vector3) | Euler angle in radian |
+| orig | [Vector3](../../com.aspose.threed/vector3) | Original direction |
+| dest | [Vector3](../../com.aspose.threed/vector3) | Destination direction |
 
 **Returns:**
 [Quaternion](../../com.aspose.threed/quaternion) - Created quaternion
-### toMatrix() {#toMatrix--}
+### getClass() {#getClass--}
 ```
-public Matrix4 toMatrix()
+public final native Class<?> getClass()
 ```
 
 
-Convert the rotation presented by quaternion to transform matrix.
+
 
 **Returns:**
-[Matrix4](../../com.aspose.threed/matrix4) - The matrix representation of current quaternion.
-### add(Quaternion lhs, Quaternion rhs) {#add-com.aspose.threed.Quaternion-com.aspose.threed.Quaternion-}
+java.lang.Class<?>
+### getLength() {#getLength--}
 ```
-public static Quaternion add(Quaternion lhs, Quaternion rhs)
+public double getLength()
 ```
 
 
-Operator overloading for +
+Gets the length of the quaternion
+
+**Returns:**
+double
+### hashCode() {#hashCode--}
+```
+public int hashCode()
+```
+
+
+Gets the hash code of Quaternion
+
+**Returns:**
+int - The hash code of the [Quaternion](../../com.aspose.threed/quaternion)
+### interpolate(float t, Quaternion from, Quaternion to) {#interpolate-float-com.aspose.threed.Quaternion-com.aspose.threed.Quaternion-}
+```
+public static Quaternion interpolate(float t, Quaternion from, Quaternion to)
+```
+
+
+Populates this quaternion with the interpolated value between the given quaternion arguments for a t between from and to.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| lhs | [Quaternion](../../com.aspose.threed/quaternion) | Left quaternion |
-| rhs | [Quaternion](../../com.aspose.threed/quaternion) | Right quaternion |
+| t | float | The coefficient to interpolate. |
+| from | [Quaternion](../../com.aspose.threed/quaternion) | Source quaternion. |
+| to | [Quaternion](../../com.aspose.threed/quaternion) | Target quaternion. |
 
 **Returns:**
-[Quaternion](../../com.aspose.threed/quaternion) - Result quaternion
-### div(Quaternion lhs, double rhs) {#div-com.aspose.threed.Quaternion-double-}
+[Quaternion](../../com.aspose.threed/quaternion) - The interpolated quaternion.
+### inverse() {#inverse--}
 ```
-public static Quaternion div(Quaternion lhs, double rhs)
+public Quaternion inverse()
 ```
 
 
-Operator overloading for /
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| lhs | [Quaternion](../../com.aspose.threed/quaternion) | Left quaternion |
-| rhs | double | Right quaternion |
+Returns a inverse quaternion of current quaternion
 
 **Returns:**
-[Quaternion](../../com.aspose.threed/quaternion) - Result quaternion
-### mul(Quaternion lhs, double rhs) {#mul-com.aspose.threed.Quaternion-double-}
-```
-public static Quaternion mul(Quaternion lhs, double rhs)
-```
-
-
-Operator overloading for \*
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| lhs | [Quaternion](../../com.aspose.threed/quaternion) | Left quaternion |
-| rhs | double | Right quaternion |
-
-**Returns:**
-[Quaternion](../../com.aspose.threed/quaternion) - Result quaternion
+[Quaternion](../../com.aspose.threed/quaternion) - Inverse quaternion.
 ### mul(Quaternion lhs, Quaternion rhs) {#mul-com.aspose.threed.Quaternion-com.aspose.threed.Quaternion-}
 ```
 public static Quaternion mul(Quaternion lhs, Quaternion rhs)
@@ -405,16 +421,22 @@ Operator overloading for \*
 
 **Returns:**
 [Vector4](../../com.aspose.threed/vector4) - Rotated vector
-### toString() {#toString--}
+### mul(Quaternion lhs, double rhs) {#mul-com.aspose.threed.Quaternion-double-}
 ```
-public String toString()
+public static Quaternion mul(Quaternion lhs, double rhs)
 ```
 
 
-Gets the representation of quaternion in string
+Operator overloading for \*
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| lhs | [Quaternion](../../com.aspose.threed/quaternion) | Left quaternion |
+| rhs | double | Right quaternion |
 
 **Returns:**
-java.lang.String - Object string
+[Quaternion](../../com.aspose.threed/quaternion) - Result quaternion
 ### mul(Vector3 v, Quaternion q) {#mul-com.aspose.threed.Vector3-com.aspose.threed.Quaternion-}
 ```
 public static Vector3 mul(Vector3 v, Quaternion q)
@@ -431,6 +453,32 @@ Operator overloading for \*
 
 **Returns:**
 [Vector3](../../com.aspose.threed/vector3) - Rotated vector
+### normalize() {#normalize--}
+```
+public Quaternion normalize()
+```
+
+
+Normalize the quaternion
+
+**Returns:**
+[Quaternion](../../com.aspose.threed/quaternion) - Normalized quaternion.
+### notify() {#notify--}
+```
+public final native void notify()
+```
+
+
+
+
+### notifyAll() {#notifyAll--}
+```
+public final native void notifyAll()
+```
+
+
+
+
 ### op_eq(Quaternion lhs, Quaternion rhs) {#op-eq-com.aspose.threed.Quaternion-com.aspose.threed.Quaternion-}
 ```
 public static boolean op_eq(Quaternion lhs, Quaternion rhs)
@@ -463,36 +511,51 @@ Not-equal operator for quaternion
 
 **Returns:**
 boolean - True if two quaternions are not equal.
-### interpolate(float t, Quaternion from, Quaternion to) {#interpolate-float-com.aspose.threed.Quaternion-com.aspose.threed.Quaternion-}
+### toAngleAxis(double[] angle, Vector3 axis) {#toAngleAxis-double---com.aspose.threed.Vector3-}
 ```
-public static Quaternion interpolate(float t, Quaternion from, Quaternion to)
+public void toAngleAxis(double[] angle, Vector3 axis)
 ```
 
 
-Populates this quaternion with the interpolated value between the given quaternion arguments for a t between from and to.
+Decompose the quaternion to angle and axis
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| t | float | The coefficient to interpolate. |
-| from | [Quaternion](../../com.aspose.threed/quaternion) | Source quaternion. |
-| to | [Quaternion](../../com.aspose.threed/quaternion) | Target quaternion. |
+| angle | double[] | The angle to rotate, in radian. |
+| axis | [Vector3](../../com.aspose.threed/vector3) | The axis that rotates around. |
+
+### toMatrix() {#toMatrix--}
+```
+public Matrix4 toMatrix()
+```
+
+
+Convert the rotation presented by quaternion to transform matrix.
 
 **Returns:**
-[Quaternion](../../com.aspose.threed/quaternion) - The interpolated quaternion.
-### clone() {#clone--}
+[Matrix4](../../com.aspose.threed/matrix4) - The matrix representation of current quaternion.
+### toString() {#toString--}
 ```
-public Quaternion clone()
+public String toString()
 ```
 
 
-
+Gets the representation of quaternion in string
 
 **Returns:**
-[Quaternion](../../com.aspose.threed/quaternion)
-### copyFrom(Quaternion src) {#copyFrom-com.aspose.threed.Quaternion-}
+java.lang.String - Object string
+### wait() {#wait--}
 ```
-public void copyFrom(Quaternion src)
+public final void wait()
+```
+
+
+
+
+### wait(long arg0) {#wait-long-}
+```
+public final native void wait(long arg0)
 ```
 
 
@@ -501,15 +564,19 @@ public void copyFrom(Quaternion src)
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| src | [Quaternion](../../com.aspose.threed/quaternion) |  |
+| arg0 | long |  |
 
-### hashCode() {#hashCode--}
+### wait(long arg0, int arg1) {#wait-long-int-}
 ```
-public int hashCode()
+public final void wait(long arg0, int arg1)
 ```
 
 
-Gets the hash code of Quaternion
 
-**Returns:**
-int - The hash code of the com.aspose.threed.Quaternion
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+| arg1 | int |  |
+

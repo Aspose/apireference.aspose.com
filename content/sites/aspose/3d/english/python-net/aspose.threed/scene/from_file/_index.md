@@ -28,7 +28,13 @@ def from_file(self, file_name):
 
 
 The following code shows how to create a scene from a file
-`Scene scene = Scene.FromFile("input.fbx");`
+
+```python
+from aspose.threed import Scene
+
+scene = Scene.from_file("input.fbx")
+
+```
 
 
 

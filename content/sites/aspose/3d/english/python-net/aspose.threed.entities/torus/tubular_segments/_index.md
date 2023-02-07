@@ -12,6 +12,15 @@ is_root: false
 
 
 Gets or sets the tubular segments.
+### Definition:
+```python
+@property
+def tubular_segments(self):
+    ...
+@tubular_segments.setter
+def tubular_segments(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.entities](../../)

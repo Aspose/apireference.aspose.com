@@ -26,7 +26,17 @@ node = Node()
 node.transform.geometric_rotation = Vector3(90, 0, 0)
 
 ```
+### Definition:
+```python
+@property
+def geometric_rotation(self):
+    ...
+@geometric_rotation.setter
+def geometric_rotation(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed](../../)
 * class [Transform](/3d/python-net/aspose.threed/transform)
+* class [Vector3](/3d/python-net/aspose.threed.utilities/vector3)

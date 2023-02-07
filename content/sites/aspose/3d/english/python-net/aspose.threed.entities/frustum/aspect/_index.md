@@ -12,6 +12,15 @@ is_root: false
 
 
 Gets or sets the aspect ratio of the frustum
+### Definition:
+```python
+@property
+def aspect(self):
+    ...
+@aspect.setter
+def aspect(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.entities](../../)

@@ -25,6 +25,6 @@ The TextureFilter type exposes the following members:
 | ANISOTROPIC | Use anisotropic interpolation for sampling, this is only used by minification filter. |
 
 
-### See Also
 
-* module [aspose.threed.shading](../)
+### See Also
+* module [aspose.threed.shading](..)

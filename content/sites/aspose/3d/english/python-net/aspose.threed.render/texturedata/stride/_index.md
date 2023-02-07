@@ -12,6 +12,12 @@ is_root: false
 
 
 Number of bytes of a scanline.
+### Definition:
+```python
+@property
+def stride(self):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.render](../../)

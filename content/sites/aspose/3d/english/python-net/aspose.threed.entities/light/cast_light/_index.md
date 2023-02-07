@@ -12,6 +12,15 @@ is_root: false
 
 
 Gets or sets if the current light instance can illuminate other objects.
+### Definition:
+```python
+@property
+def cast_light(self):
+    ...
+@cast_light.setter
+def cast_light(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.entities](../../)

@@ -12,6 +12,15 @@ is_root: false
 
 
 Enable or disable scissor test
+### Definition:
+```python
+@property
+def scissor_test(self):
+    ...
+@scissor_test.setter
+def scissor_test(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.render](../../)

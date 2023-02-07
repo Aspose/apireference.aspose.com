@@ -12,6 +12,15 @@ is_root: false
 
 
 Gets or sets the height of the cylinder.
+### Definition:
+```python
+@property
+def height(self):
+    ...
+@height.setter
+def height(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.entities](../../)

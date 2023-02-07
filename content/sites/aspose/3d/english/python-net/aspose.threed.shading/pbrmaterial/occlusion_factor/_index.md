@@ -12,6 +12,15 @@ is_root: false
 
 
 Gets or sets the factor of ambient occlusion
+### Definition:
+```python
+@property
+def occlusion_factor(self):
+    ...
+@occlusion_factor.setter
+def occlusion_factor(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.shading](../../)

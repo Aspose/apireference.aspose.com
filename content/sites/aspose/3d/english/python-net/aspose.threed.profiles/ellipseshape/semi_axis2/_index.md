@@ -12,6 +12,15 @@ is_root: false
 
 
 Gets or sets the second radius of the ellipse that measured in the direction of y axis.
+### Definition:
+```python
+@property
+def semi_axis2(self):
+    ...
+@semi_axis2.setter
+def semi_axis2(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.profiles](../../)

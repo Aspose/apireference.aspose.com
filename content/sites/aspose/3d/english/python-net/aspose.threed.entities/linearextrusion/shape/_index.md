@@ -12,7 +12,17 @@ is_root: false
 
 
 The base shape to be extruded.
+### Definition:
+```python
+@property
+def shape(self):
+    ...
+@shape.setter
+def shape(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.entities](../../)
 * class [LinearExtrusion](/3d/python-net/aspose.threed.entities/linearextrusion)
+* class [Profile](/3d/python-net/aspose.threed.profiles/profile)

@@ -12,7 +12,17 @@ is_root: false
 
 
 Gets or sets which order is front face.
+### Definition:
+```python
+@property
+def front_face(self):
+    ...
+@front_face.setter
+def front_face(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.render](../../)
+* class [FrontFace](/3d/python-net/aspose.threed.render/frontface)
 * class [RenderState](/3d/python-net/aspose.threed.render/renderstate)

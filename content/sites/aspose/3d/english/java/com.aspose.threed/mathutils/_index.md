@@ -19,14 +19,23 @@ A set of useful mathematical utilities.
 | Method | Description |
 | --- | --- |
 | [clamp(double val, double min, double max)](#clamp-double-double-double-) | Clamp value to range [min, max] |
-| [toDegree(Vector3 radian)](#toDegree-com.aspose.threed.Vector3-) | Convert a com.aspose.threed.Vector3 from radian to degree. |
-| [toRadian(Vector3 degree)](#toRadian-com.aspose.threed.Vector3-) | Convert a com.aspose.threed.Vector3 from degree to radian |
-| [toDegree(float radian)](#toDegree-float-) | Convert a number from radian to degree |
+| [equals(Object arg0)](#equals-java.lang.Object-) |  |
+| [getClass()](#getClass--) |  |
+| [hashCode()](#hashCode--) |  |
+| [notify()](#notify--) |  |
+| [notifyAll()](#notifyAll--) |  |
+| [toDegree(Vector3 radian)](#toDegree-com.aspose.threed.Vector3-) | Convert a [Vector3](../../com.aspose.threed/vector3) from radian to degree. |
 | [toDegree(double radian)](#toDegree-double-) | Convert a number from radian to degree |
 | [toDegree(double x, double y, double z)](#toDegree-double-double-double-) | Convert a number from radian to degree |
-| [toRadian(float degree)](#toRadian-float-) | Convert a number from degree to radian |
+| [toDegree(float radian)](#toDegree-float-) | Convert a number from radian to degree |
+| [toRadian(Vector3 degree)](#toRadian-com.aspose.threed.Vector3-) | Convert a [Vector3](../../com.aspose.threed/vector3) from degree to radian |
 | [toRadian(double degree)](#toRadian-double-) | Convert a number from degree to radian |
 | [toRadian(double x, double y, double z)](#toRadian-double-double-double-) | Convert a vector from degree to radian |
+| [toRadian(float degree)](#toRadian-float-) | Convert a number from degree to radian |
+| [toString()](#toString--) |  |
+| [wait()](#wait--) |  |
+| [wait(long arg0)](#wait-long-) |  |
+| [wait(long arg0, int arg1)](#wait-long-int-) |  |
 ### clamp(double val, double min, double max) {#clamp-double-double-double-}
 ```
 public static double clamp(double val, double min, double max)
@@ -44,13 +53,64 @@ Clamp value to range [min, max]
 
 **Returns:**
 double - The value between [min, max]
+### equals(Object arg0) {#equals-java.lang.Object-}
+```
+public boolean equals(Object arg0)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | java.lang.Object |  |
+
+**Returns:**
+boolean
+### getClass() {#getClass--}
+```
+public final native Class<?> getClass()
+```
+
+
+
+
+**Returns:**
+java.lang.Class<?>
+### hashCode() {#hashCode--}
+```
+public native int hashCode()
+```
+
+
+
+
+**Returns:**
+int
+### notify() {#notify--}
+```
+public final native void notify()
+```
+
+
+
+
+### notifyAll() {#notifyAll--}
+```
+public final native void notifyAll()
+```
+
+
+
+
 ### toDegree(Vector3 radian) {#toDegree-com.aspose.threed.Vector3-}
 ```
 public static Vector3 toDegree(Vector3 radian)
 ```
 
 
-Convert a com.aspose.threed.Vector3 from radian to degree.
+Convert a [Vector3](../../com.aspose.threed/vector3) from radian to degree.
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -59,36 +119,6 @@ Convert a com.aspose.threed.Vector3 from radian to degree.
 
 **Returns:**
 [Vector3](../../com.aspose.threed/vector3) - The degree value.
-### toRadian(Vector3 degree) {#toRadian-com.aspose.threed.Vector3-}
-```
-public static Vector3 toRadian(Vector3 degree)
-```
-
-
-Convert a com.aspose.threed.Vector3 from degree to radian
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| degree | [Vector3](../../com.aspose.threed/vector3) | The degree value. |
-
-**Returns:**
-[Vector3](../../com.aspose.threed/vector3) - The radian value.
-### toDegree(float radian) {#toDegree-float-}
-```
-public static float toDegree(float radian)
-```
-
-
-Convert a number from radian to degree
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| radian | float | The radian value. |
-
-**Returns:**
-float - The degree value.
 ### toDegree(double radian) {#toDegree-double-}
 ```
 public static double toDegree(double radian)
@@ -121,21 +151,36 @@ Convert a number from radian to degree
 
 **Returns:**
 [Vector3](../../com.aspose.threed/vector3) - The degree value.
-### toRadian(float degree) {#toRadian-float-}
+### toDegree(float radian) {#toDegree-float-}
 ```
-public static float toRadian(float degree)
+public static float toDegree(float radian)
 ```
 
 
-Convert a number from degree to radian
+Convert a number from radian to degree
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| degree | float | The degree value. |
+| radian | float | The radian value. |
 
 **Returns:**
-float - The radian value.
+float - The degree value.
+### toRadian(Vector3 degree) {#toRadian-com.aspose.threed.Vector3-}
+```
+public static Vector3 toRadian(Vector3 degree)
+```
+
+
+Convert a [Vector3](../../com.aspose.threed/vector3) from degree to radian
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| degree | [Vector3](../../com.aspose.threed/vector3) | The degree value. |
+
+**Returns:**
+[Vector3](../../com.aspose.threed/vector3) - The radian value.
 ### toRadian(double degree) {#toRadian-double-}
 ```
 public static double toRadian(double degree)
@@ -168,3 +213,63 @@ Convert a vector from degree to radian
 
 **Returns:**
 [Vector3](../../com.aspose.threed/vector3) - The radian value.
+### toRadian(float degree) {#toRadian-float-}
+```
+public static float toRadian(float degree)
+```
+
+
+Convert a number from degree to radian
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| degree | float | The degree value. |
+
+**Returns:**
+float - The radian value.
+### toString() {#toString--}
+```
+public String toString()
+```
+
+
+
+
+**Returns:**
+java.lang.String
+### wait() {#wait--}
+```
+public final void wait()
+```
+
+
+
+
+### wait(long arg0) {#wait-long-}
+```
+public final native void wait(long arg0)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+
+### wait(long arg0, int arg1) {#wait-long-int-}
+```
+public final void wait(long arg0, int arg1)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+| arg1 | int |  |
+

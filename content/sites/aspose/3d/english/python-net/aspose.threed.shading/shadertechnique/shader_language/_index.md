@@ -12,6 +12,15 @@ is_root: false
 
 
 Gets or sets the shader language used by this technique.
+### Definition:
+```python
+@property
+def shader_language(self):
+    ...
+@shader_language.setter
+def shader_language(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.shading](../../)

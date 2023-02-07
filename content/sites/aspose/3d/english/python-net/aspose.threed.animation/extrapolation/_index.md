@@ -23,6 +23,6 @@ The Extrapolation type exposes the following members:
 | [repeat_count](/3d/python-net/aspose.threed.animation/extrapolation/repeat_count) | Gets and sets the repeat times of the extrapolation pattern. |
 
 
-### See Also
 
-* module [aspose.threed.animation](../)
+### See Also
+* module [aspose.threed.animation](..)

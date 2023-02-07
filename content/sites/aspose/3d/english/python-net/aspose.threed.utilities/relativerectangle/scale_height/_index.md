@@ -12,6 +12,15 @@ is_root: false
 
 
 Relative height
+### Definition:
+```python
+@property
+def scale_height(self):
+    ...
+@scale_height.setter
+def scale_height(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.utilities](../../)

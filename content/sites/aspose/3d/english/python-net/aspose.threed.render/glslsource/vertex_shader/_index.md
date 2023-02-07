@@ -12,6 +12,15 @@ is_root: false
 
 
 Gets or sets the source code of the vertex shader
+### Definition:
+```python
+@property
+def vertex_shader(self):
+    ...
+@vertex_shader.setter
+def vertex_shader(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.render](../../)

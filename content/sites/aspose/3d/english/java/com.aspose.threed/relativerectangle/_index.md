@@ -1,10 +1,7 @@
 ---
 title: RelativeRectangle
 second_title: Aspose.3D for Java API Reference
-description: Relative rectangle
- The formula between relative component to absolute value is
- Scale  Reference Width  offset
- So if we want it to represent an absolute value leave all scale fields zero and use offset fields instead.
+description: Relative rectangle The formula between relative component to absolute value is Scale  Reference Width  offset So if we want it to represent an absolute value leave all scale fields zero and use offset fields instead.
 type: docs
 weight: 132
 url: /java/com.aspose.threed/relativerectangle/
@@ -29,174 +26,118 @@ Relative rectangle The formula between relative component to absolute value is: 
 
 | Method | Description |
 | --- | --- |
-| [getScaleX()](#getScaleX--) | Relative coordinate X |
-| [setScaleX(float value)](#setScaleX-float-) | Relative coordinate X |
-| [getScaleY()](#getScaleY--) | Relative coordinate Y |
-| [setScaleY(float value)](#setScaleY-float-) | Relative coordinate Y |
-| [getScaleWidth()](#getScaleWidth--) | Relative width |
-| [setScaleWidth(float value)](#setScaleWidth-float-) | Relative width |
-| [getScaleHeight()](#getScaleHeight--) | Relative height |
-| [setScaleHeight(float value)](#setScaleHeight-float-) | Relative height |
-| [getOffsetX()](#getOffsetX--) | Gets the offset for coordinate X |
-| [setOffsetX(int value)](#setOffsetX-int-) | Sets the offset for coordinate X |
-| [getOffsetY()](#getOffsetY--) | Gets the offset for coordinate Y |
-| [setOffsetY(int value)](#setOffsetY-int-) | Sets the offset for coordinate Y |
-| [getOffsetWidth()](#getOffsetWidth--) | Gets the offset for width |
-| [setOffsetWidth(int value)](#setOffsetWidth-int-) | Sets the offset for width |
-| [getOffsetHeight()](#getOffsetHeight--) | Gets the offset for height |
-| [setOffsetHeight(int value)](#setOffsetHeight-int-) | Sets the offset for height |
-| [toAbsolute(Dimension rect)](#toAbsolute-java.awt.Dimension-) | Convert the relative rectangle to absolute rectangle |
-| [toAbsolute(Rectangle rect)](#toAbsolute-java.awt.Rectangle-) | Convert the relative rectangle to absolute rectangle |
-| [fromScale(float scaleX, float scaleY, float scaleWidth, float scaleHeight)](#fromScale-float-float-float-float-) | Construct a com.aspose.threed.RelativeRectangle with all offset fields zero and scale fields from given parameters. |
-| [toString()](#toString--) | Converts the value of this instance to a java.lang.String. |
 | [clone()](#clone--) |  |
 | [copyFrom(RelativeRectangle src)](#copyFrom-com.aspose.threed.RelativeRectangle-) |  |
-| [hashCode()](#hashCode--) |  |
 | [equals(Object obj)](#equals-java.lang.Object-) |  |
+| [fromScale(float scaleX, float scaleY, float scaleWidth, float scaleHeight)](#fromScale-float-float-float-float-) | Construct a [RelativeRectangle](../../com.aspose.threed/relativerectangle) with all offset fields zero and scale fields from given parameters. |
+| [getClass()](#getClass--) |  |
+| [getOffsetHeight()](#getOffsetHeight--) | Gets the offset for height |
+| [getOffsetWidth()](#getOffsetWidth--) | Gets the offset for width |
+| [getOffsetX()](#getOffsetX--) | Gets the offset for coordinate X |
+| [getOffsetY()](#getOffsetY--) | Gets the offset for coordinate Y |
+| [getScaleHeight()](#getScaleHeight--) | Relative height |
+| [getScaleWidth()](#getScaleWidth--) | Relative width |
+| [getScaleX()](#getScaleX--) | Relative coordinate X |
+| [getScaleY()](#getScaleY--) | Relative coordinate Y |
+| [hashCode()](#hashCode--) |  |
+| [notify()](#notify--) |  |
+| [notifyAll()](#notifyAll--) |  |
+| [setOffsetHeight(int value)](#setOffsetHeight-int-) | Sets the offset for height |
+| [setOffsetWidth(int value)](#setOffsetWidth-int-) | Sets the offset for width |
+| [setOffsetX(int value)](#setOffsetX-int-) | Sets the offset for coordinate X |
+| [setOffsetY(int value)](#setOffsetY-int-) | Sets the offset for coordinate Y |
+| [setScaleHeight(float value)](#setScaleHeight-float-) | Relative height |
+| [setScaleWidth(float value)](#setScaleWidth-float-) | Relative width |
+| [setScaleX(float value)](#setScaleX-float-) | Relative coordinate X |
+| [setScaleY(float value)](#setScaleY-float-) | Relative coordinate Y |
+| [toAbsolute(Dimension rect)](#toAbsolute-java.awt.Dimension-) | Convert the relative rectangle to absolute rectangle |
+| [toAbsolute(Rectangle rect)](#toAbsolute-java.awt.Rectangle-) | Convert the relative rectangle to absolute rectangle |
+| [toString()](#toString--) | Converts the value of this instance to a java.lang.String. |
+| [wait()](#wait--) |  |
+| [wait(long arg0)](#wait-long-) |  |
+| [wait(long arg0, int arg1)](#wait-long-int-) |  |
 ### RelativeRectangle() {#RelativeRectangle--}
 ```
 public RelativeRectangle()
 ```
 
 
-### getScaleX() {#getScaleX--}
+### clone() {#clone--}
 ```
-public float getScaleX()
+public RelativeRectangle clone()
 ```
 
 
-Relative coordinate X
+
 
 **Returns:**
-float
-### setScaleX(float value) {#setScaleX-float-}
+[RelativeRectangle](../../com.aspose.threed/relativerectangle)
+### copyFrom(RelativeRectangle src) {#copyFrom-com.aspose.threed.RelativeRectangle-}
 ```
-public void setScaleX(float value)
+public void copyFrom(RelativeRectangle src)
 ```
 
 
-Relative coordinate X
+
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | float | New value |
+| src | [RelativeRectangle](../../com.aspose.threed/relativerectangle) |  |
 
-### getScaleY() {#getScaleY--}
+### equals(Object obj) {#equals-java.lang.Object-}
 ```
-public float getScaleY()
-```
-
-
-Relative coordinate Y
-
-**Returns:**
-float
-### setScaleY(float value) {#setScaleY-float-}
-```
-public void setScaleY(float value)
+public boolean equals(Object obj)
 ```
 
 
-Relative coordinate Y
+
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | float | New value |
-
-### getScaleWidth() {#getScaleWidth--}
-```
-public float getScaleWidth()
-```
-
-
-Relative width
+| obj | java.lang.Object |  |
 
 **Returns:**
-float
-### setScaleWidth(float value) {#setScaleWidth-float-}
+boolean
+### fromScale(float scaleX, float scaleY, float scaleWidth, float scaleHeight) {#fromScale-float-float-float-float-}
 ```
-public void setScaleWidth(float value)
+public static RelativeRectangle fromScale(float scaleX, float scaleY, float scaleWidth, float scaleHeight)
 ```
 
 
-Relative width
+Construct a [RelativeRectangle](../../com.aspose.threed/relativerectangle) with all offset fields zero and scale fields from given parameters.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | float | New value |
-
-### getScaleHeight() {#getScaleHeight--}
-```
-public float getScaleHeight()
-```
-
-
-Relative height
+| scaleX | float |  |
+| scaleY | float |  |
+| scaleWidth | float |  |
+| scaleHeight | float |  |
 
 **Returns:**
-float
-### setScaleHeight(float value) {#setScaleHeight-float-}
+[RelativeRectangle](../../com.aspose.threed/relativerectangle)
+### getClass() {#getClass--}
 ```
-public void setScaleHeight(float value)
-```
-
-
-Relative height
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | float | New value |
-
-### getOffsetX() {#getOffsetX--}
-```
-public int getOffsetX()
+public final native Class<?> getClass()
 ```
 
 
-Gets the offset for coordinate X
+
+
+**Returns:**
+java.lang.Class<?>
+### getOffsetHeight() {#getOffsetHeight--}
+```
+public int getOffsetHeight()
+```
+
+
+Gets the offset for height
 
 **Returns:**
 int
-### setOffsetX(int value) {#setOffsetX-int-}
-```
-public void setOffsetX(int value)
-```
-
-
-Sets the offset for coordinate X
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | int | New value |
-
-### getOffsetY() {#getOffsetY--}
-```
-public int getOffsetY()
-```
-
-
-Gets the offset for coordinate Y
-
-**Returns:**
-int
-### setOffsetY(int value) {#setOffsetY-int-}
-```
-public void setOffsetY(int value)
-```
-
-
-Sets the offset for coordinate Y
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | int | New value |
-
 ### getOffsetWidth() {#getOffsetWidth--}
 ```
 public int getOffsetWidth()
@@ -207,6 +148,105 @@ Gets the offset for width
 
 **Returns:**
 int
+### getOffsetX() {#getOffsetX--}
+```
+public int getOffsetX()
+```
+
+
+Gets the offset for coordinate X
+
+**Returns:**
+int
+### getOffsetY() {#getOffsetY--}
+```
+public int getOffsetY()
+```
+
+
+Gets the offset for coordinate Y
+
+**Returns:**
+int
+### getScaleHeight() {#getScaleHeight--}
+```
+public float getScaleHeight()
+```
+
+
+Relative height
+
+**Returns:**
+float
+### getScaleWidth() {#getScaleWidth--}
+```
+public float getScaleWidth()
+```
+
+
+Relative width
+
+**Returns:**
+float
+### getScaleX() {#getScaleX--}
+```
+public float getScaleX()
+```
+
+
+Relative coordinate X
+
+**Returns:**
+float
+### getScaleY() {#getScaleY--}
+```
+public float getScaleY()
+```
+
+
+Relative coordinate Y
+
+**Returns:**
+float
+### hashCode() {#hashCode--}
+```
+public int hashCode()
+```
+
+
+
+
+**Returns:**
+int
+### notify() {#notify--}
+```
+public final native void notify()
+```
+
+
+
+
+### notifyAll() {#notifyAll--}
+```
+public final native void notifyAll()
+```
+
+
+
+
+### setOffsetHeight(int value) {#setOffsetHeight-int-}
+```
+public void setOffsetHeight(int value)
+```
+
+
+Sets the offset for height
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | int | New value |
+
 ### setOffsetWidth(int value) {#setOffsetWidth-int-}
 ```
 public void setOffsetWidth(int value)
@@ -220,28 +260,83 @@ Sets the offset for width
 | --- | --- | --- |
 | value | int | New value |
 
-### getOffsetHeight() {#getOffsetHeight--}
+### setOffsetX(int value) {#setOffsetX-int-}
 ```
-public int getOffsetHeight()
-```
-
-
-Gets the offset for height
-
-**Returns:**
-int
-### setOffsetHeight(int value) {#setOffsetHeight-int-}
-```
-public void setOffsetHeight(int value)
+public void setOffsetX(int value)
 ```
 
 
-Sets the offset for height
+Sets the offset for coordinate X
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | int | New value |
+
+### setOffsetY(int value) {#setOffsetY-int-}
+```
+public void setOffsetY(int value)
+```
+
+
+Sets the offset for coordinate Y
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | int | New value |
+
+### setScaleHeight(float value) {#setScaleHeight-float-}
+```
+public void setScaleHeight(float value)
+```
+
+
+Relative height
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | float | New value |
+
+### setScaleWidth(float value) {#setScaleWidth-float-}
+```
+public void setScaleWidth(float value)
+```
+
+
+Relative width
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | float | New value |
+
+### setScaleX(float value) {#setScaleX-float-}
+```
+public void setScaleX(float value)
+```
+
+
+Relative coordinate X
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | float | New value |
+
+### setScaleY(float value) {#setScaleY-float-}
+```
+public void setScaleY(float value)
+```
+
+
+Relative coordinate Y
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | float | New value |
 
 ### toAbsolute(Dimension rect) {#toAbsolute-java.awt.Dimension-}
 ```
@@ -273,24 +368,6 @@ Convert the relative rectangle to absolute rectangle
 
 **Returns:**
 java.awt.Rectangle
-### fromScale(float scaleX, float scaleY, float scaleWidth, float scaleHeight) {#fromScale-float-float-float-float-}
-```
-public static RelativeRectangle fromScale(float scaleX, float scaleY, float scaleWidth, float scaleHeight)
-```
-
-
-Construct a com.aspose.threed.RelativeRectangle with all offset fields zero and scale fields from given parameters.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| scaleX | float |  |
-| scaleY | float |  |
-| scaleWidth | float |  |
-| scaleHeight | float |  |
-
-**Returns:**
-[RelativeRectangle](../../com.aspose.threed/relativerectangle)
 ### toString() {#toString--}
 ```
 public String toString()
@@ -301,19 +378,17 @@ Converts the value of this instance to a java.lang.String.
 
 **Returns:**
 java.lang.String
-### clone() {#clone--}
+### wait() {#wait--}
 ```
-public RelativeRectangle clone()
+public final void wait()
 ```
 
 
 
 
-**Returns:**
-[RelativeRectangle](../../com.aspose.threed/relativerectangle)
-### copyFrom(RelativeRectangle src) {#copyFrom-com.aspose.threed.RelativeRectangle-}
+### wait(long arg0) {#wait-long-}
 ```
-public void copyFrom(RelativeRectangle src)
+public final native void wait(long arg0)
 ```
 
 
@@ -322,21 +397,11 @@ public void copyFrom(RelativeRectangle src)
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| src | [RelativeRectangle](../../com.aspose.threed/relativerectangle) |  |
+| arg0 | long |  |
 
-### hashCode() {#hashCode--}
+### wait(long arg0, int arg1) {#wait-long-int-}
 ```
-public int hashCode()
-```
-
-
-
-
-**Returns:**
-int
-### equals(Object obj) {#equals-java.lang.Object-}
-```
-public boolean equals(Object obj)
+public final void wait(long arg0, int arg1)
 ```
 
 
@@ -345,7 +410,6 @@ public boolean equals(Object obj)
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| obj | java.lang.Object |  |
+| arg0 | long |  |
+| arg1 | int |  |
 
-**Returns:**
-boolean

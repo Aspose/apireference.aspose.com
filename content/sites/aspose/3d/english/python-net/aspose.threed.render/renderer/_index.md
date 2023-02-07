@@ -46,6 +46,7 @@ The Renderer type exposes the following members:
 | [render(render_target)](/3d/python-net/aspose.threed.render/renderer/render/#IRenderTarget) | Render the specified target |
 
 
-### See Also
 
-* module [aspose.threed.render](../)
+### See Also
+* module [aspose.threed.render](..)
+* class [Renderer](/3d/python-net/aspose.threed.render/renderer)

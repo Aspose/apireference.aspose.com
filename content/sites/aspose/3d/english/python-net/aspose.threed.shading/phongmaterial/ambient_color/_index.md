@@ -12,7 +12,17 @@ is_root: false
 
 
 Gets or sets the ambient color
+### Definition:
+```python
+@property
+def ambient_color(self):
+    ...
+@ambient_color.setter
+def ambient_color(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.shading](../../)
 * class [PhongMaterial](/3d/python-net/aspose.threed.shading/phongmaterial)
+* class [Vector3](/3d/python-net/aspose.threed.utilities/vector3)

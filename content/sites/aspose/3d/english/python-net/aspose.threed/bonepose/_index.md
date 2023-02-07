@@ -30,6 +30,7 @@ The BonePose type exposes the following members:
 | [is_local](/3d/python-net/aspose.threed/bonepose/is_local) | Gets or sets if the matrix is defined in local coordinate. |
 
 
-### See Also
 
-* module [aspose.threed](../)
+### See Also
+* module [aspose.threed](..)
+* class [BonePose](/3d/python-net/aspose.threed/bonepose)

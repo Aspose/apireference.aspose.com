@@ -12,6 +12,12 @@ is_root: false
 
 
 Directories that stored external assets
+### Definition:
+```python
+@property
+def asset_directories(self):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.render](../../)

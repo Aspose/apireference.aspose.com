@@ -12,7 +12,14 @@ is_root: false
 
 
 Gets the extent of the bounding box.
+### Definition:
+```python
+@property
+def extent(self):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.utilities](../../)
 * class [BoundingBox2D](/3d/python-net/aspose.threed.utilities/boundingbox2d)
+* class [BoundingBoxExtent](/3d/python-net/aspose.threed.utilities/boundingboxextent)

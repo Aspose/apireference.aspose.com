@@ -12,6 +12,15 @@ is_root: false
 
 
 Gets or sets the time position of list.data[index] key frame, measured in seconds.
+### Definition:
+```python
+@property
+def time(self):
+    ...
+@time.setter
+def time(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.animation](../../)

@@ -28,6 +28,15 @@ scene.root_node.create_child_node("not excluded", Box())
 scene.save("output.usdz")
 
 ```
+### Definition:
+```python
+@property
+def excluded(self):
+    ...
+@excluded.setter
+def excluded(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed](../../)

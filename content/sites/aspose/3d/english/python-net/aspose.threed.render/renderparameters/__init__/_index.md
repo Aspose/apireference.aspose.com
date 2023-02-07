@@ -31,4 +31,5 @@ def __init__(self, double_buffering, color_bits, depth_bits, stencil_bits):
 
 ### See Also
 * module [aspose.threed.render](../../)
+* class [PixelFormat](/3d/python-net/aspose.threed.render/pixelformat)
 * class [RenderParameters](/3d/python-net/aspose.threed.render/renderparameters)

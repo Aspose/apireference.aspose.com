@@ -24,6 +24,6 @@ The GltfEmbeddedImageFormat type exposes the following members:
 | PNG | All non-supported images formats will be converted to png if possible. |
 
 
-### See Also
 
-* module [aspose.threed.formats](../)
+### See Also
+* module [aspose.threed.formats](..)

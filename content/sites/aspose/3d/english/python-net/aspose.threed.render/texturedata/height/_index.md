@@ -12,6 +12,12 @@ is_root: false
 
 
 Number of vertical pixels
+### Definition:
+```python
+@property
+def height(self):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.render](../../)

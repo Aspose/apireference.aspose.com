@@ -12,6 +12,15 @@ is_root: false
 
 
 The background color of the render result.
+### Definition:
+```python
+@property
+def background_color(self):
+    ...
+@background_color.setter
+def background_color(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed](../../)

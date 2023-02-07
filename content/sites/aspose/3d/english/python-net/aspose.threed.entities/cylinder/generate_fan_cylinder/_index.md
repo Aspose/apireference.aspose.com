@@ -12,6 +12,15 @@ is_root: false
 
 
 Gets or sets whether to generate the fan-style cylinder when the ThetaLength is less than 2*PI, otherwise the model will not be cut.
+### Definition:
+```python
+@property
+def generate_fan_cylinder(self):
+    ...
+@generate_fan_cylinder.setter
+def generate_fan_cylinder(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.entities](../../)

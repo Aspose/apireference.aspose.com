@@ -24,6 +24,6 @@ The CullFaceMode type exposes the following members:
 | BOTH | Both back/front faces are culled, doesn't affect line/point rendering. |
 
 
-### See Also
 
-* module [aspose.threed.render](../)
+### See Also
+* module [aspose.threed.render](..)

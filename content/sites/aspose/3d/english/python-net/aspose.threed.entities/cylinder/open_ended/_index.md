@@ -13,6 +13,15 @@ is_root: false
 
 Gets or sets a value indicating whether this [Cylinder](/3d/python-net/aspose.threed.entities/cylinder) open ended.
 The default value is false.
+### Definition:
+```python
+@property
+def open_ended(self):
+    ...
+@open_ended.setter
+def open_ended(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.entities](../../)

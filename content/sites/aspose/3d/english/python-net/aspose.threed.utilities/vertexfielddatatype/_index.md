@@ -34,6 +34,12 @@ The VertexFieldDataType type exposes the following members:
 | INT64 | Type of Int64 |
 
 
-### See Also
 
-* module [aspose.threed.utilities](../)
+### See Also
+* module [aspose.threed.utilities](..)
+* class [FVector2](/3d/python-net/aspose.threed.utilities/fvector2)
+* class [FVector3](/3d/python-net/aspose.threed.utilities/fvector3)
+* class [FVector4](/3d/python-net/aspose.threed.utilities/fvector4)
+* class [Vector2](/3d/python-net/aspose.threed.utilities/vector2)
+* class [Vector3](/3d/python-net/aspose.threed.utilities/vector3)
+* class [Vector4](/3d/python-net/aspose.threed.utilities/vector4)

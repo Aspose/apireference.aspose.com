@@ -12,6 +12,15 @@ is_root: false
 
 
 Compression large binary data in the FBX file(e.g. animation data, control points, vertex element data, indices), default value is true.
+### Definition:
+```python
+@property
+def enable_compression(self):
+    ...
+@enable_compression.setter
+def enable_compression(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.formats](../../)

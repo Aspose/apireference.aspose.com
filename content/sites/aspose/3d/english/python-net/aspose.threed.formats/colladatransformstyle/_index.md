@@ -23,6 +23,6 @@ The ColladaTransformStyle type exposes the following members:
 | MATRIX | Export the node's transfromation as matrix |
 
 
-### See Also
 
-* module [aspose.threed.formats](../)
+### See Also
+* module [aspose.threed.formats](..)

@@ -18,79 +18,98 @@ Save options for universal 3d
 
 | Constructor | Description |
 | --- | --- |
-| [U3dSaveOptions()](#U3dSaveOptions--) | Constructor of com.aspose.threed.U3dSaveOptions |
+| [U3dSaveOptions()](#U3dSaveOptions--) | Constructor of [U3dSaveOptions](../../com.aspose.threed/u3dsaveoptions) |
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getFlipCoordinateSystem()](#getFlipCoordinateSystem--) | Gets whether flip coordinate system of control points/normal during importing/exporting. |
-| [setFlipCoordinateSystem(boolean value)](#setFlipCoordinateSystem-boolean-) | Sets whether flip coordinate system of control points/normal during importing/exporting. |
-| [getMeshCompression()](#getMeshCompression--) | Gets whether to enable mesh data compression. |
-| [setMeshCompression(boolean value)](#setMeshCompression-boolean-) | Sets whether to enable mesh data compression. |
-| [getExportNormals()](#getExportNormals--) | Gets whether to export normal data. |
-| [setExportNormals(boolean value)](#setExportNormals-boolean-) | Sets whether to export normal data. |
-| [getExportTextureCoordinates()](#getExportTextureCoordinates--) | Gets whether to export texture coordinates. |
-| [setExportTextureCoordinates(boolean value)](#setExportTextureCoordinates-boolean-) | Sets whether to export texture coordinates. |
-| [getExportVertexDiffuse()](#getExportVertexDiffuse--) | Gets whether to export vertex's diffuse color. |
-| [setExportVertexDiffuse(boolean value)](#setExportVertexDiffuse-boolean-) | Sets whether to export vertex's diffuse color. |
-| [getExportVertexSpecular()](#getExportVertexSpecular--) | Gets whether to export vertex' specular color. |
-| [setExportVertexSpecular(boolean value)](#setExportVertexSpecular-boolean-) | Sets whether to export vertex' specular color. |
+| [equals(Object arg0)](#equals-java.lang.Object-) |  |
+| [getClass()](#getClass--) |  |
 | [getEmbedTextures()](#getEmbedTextures--) | Embed the external textures into the U3D file, default value is false. |
+| [getEncoding()](#getEncoding--) | Gets the default encoding for text-based files. |
+| [getExportNormals()](#getExportNormals--) | Gets whether to export normal data. |
+| [getExportTextureCoordinates()](#getExportTextureCoordinates--) | Gets whether to export texture coordinates. |
+| [getExportVertexDiffuse()](#getExportVertexDiffuse--) | Gets whether to export vertex's diffuse color. |
+| [getExportVertexSpecular()](#getExportVertexSpecular--) | Gets whether to export vertex' specular color. |
+| [getFileFormat()](#getFileFormat--) | Gets the file format that specified in current Save/Load option. |
+| [getFileName()](#getFileName--) | The file name of the exporting/importing scene. |
+| [getFileSystem()](#getFileSystem--) | Allow user to handle how to manage the external dependencies during load/save. |
+| [getFileSystemFactory()](#getFileSystemFactory--) | Gets the factory class for FileSystem. |
+| [getFlipCoordinateSystem()](#getFlipCoordinateSystem--) | Gets whether flip coordinate system of control points/normal during importing/exporting. |
+| [getLookupPaths()](#getLookupPaths--) | Some files like OBJ depends on external file, the lookup paths will allows Aspose.3D to look for external file to load. |
+| [getMeshCompression()](#getMeshCompression--) | Gets whether to enable mesh data compression. |
+| [hashCode()](#hashCode--) |  |
+| [notify()](#notify--) |  |
+| [notifyAll()](#notifyAll--) |  |
 | [setEmbedTextures(boolean value)](#setEmbedTextures-boolean-) | Embed the external textures into the U3D file, default value is false. |
+| [setEncoding(Charset value)](#setEncoding-java.nio.charset.Charset-) | Sets the default encoding for text-based files. |
+| [setExportNormals(boolean value)](#setExportNormals-boolean-) | Sets whether to export normal data. |
+| [setExportTextureCoordinates(boolean value)](#setExportTextureCoordinates-boolean-) | Sets whether to export texture coordinates. |
+| [setExportVertexDiffuse(boolean value)](#setExportVertexDiffuse-boolean-) | Sets whether to export vertex's diffuse color. |
+| [setExportVertexSpecular(boolean value)](#setExportVertexSpecular-boolean-) | Sets whether to export vertex' specular color. |
+| [setFileName(String value)](#setFileName-java.lang.String-) | The file name of the exporting/importing scene. |
+| [setFileSystem(FileSystem value)](#setFileSystem-com.aspose.threed.FileSystem-) | Allow user to handle how to manage the external dependencies during load/save. |
+| [setFileSystemFactory(FileSystemFactory value)](#setFileSystemFactory-com.aspose.threed.FileSystemFactory-) | Sets the factory class for FileSystem. |
+| [setFlipCoordinateSystem(boolean value)](#setFlipCoordinateSystem-boolean-) | Sets whether flip coordinate system of control points/normal during importing/exporting. |
+| [setLookupPaths(ArrayList<String> value)](#setLookupPaths-java.util.ArrayList-java.lang.String--) | Some files like OBJ depends on external file, the lookup paths will allows Aspose.3D to look for external file to load. |
+| [setMeshCompression(boolean value)](#setMeshCompression-boolean-) | Sets whether to enable mesh data compression. |
+| [toString()](#toString--) |  |
+| [wait()](#wait--) |  |
+| [wait(long arg0)](#wait-long-) |  |
+| [wait(long arg0, int arg1)](#wait-long-int-) |  |
 ### U3dSaveOptions() {#U3dSaveOptions--}
 ```
 public U3dSaveOptions()
 ```
 
 
-Constructor of com.aspose.threed.U3dSaveOptions
+Constructor of [U3dSaveOptions](../../com.aspose.threed/u3dsaveoptions)
 
-### getFlipCoordinateSystem() {#getFlipCoordinateSystem--}
+### equals(Object arg0) {#equals-java.lang.Object-}
 ```
-public boolean getFlipCoordinateSystem()
-```
-
-
-Gets whether flip coordinate system of control points/normal during importing/exporting.
-
-**Returns:**
-boolean
-### setFlipCoordinateSystem(boolean value) {#setFlipCoordinateSystem-boolean-}
-```
-public void setFlipCoordinateSystem(boolean value)
+public boolean equals(Object arg0)
 ```
 
 
-Sets whether flip coordinate system of control points/normal during importing/exporting.
+
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | boolean | New value |
-
-### getMeshCompression() {#getMeshCompression--}
-```
-public boolean getMeshCompression()
-```
-
-
-Gets whether to enable mesh data compression.
+| arg0 | java.lang.Object |  |
 
 **Returns:**
 boolean
-### setMeshCompression(boolean value) {#setMeshCompression-boolean-}
+### getClass() {#getClass--}
 ```
-public void setMeshCompression(boolean value)
+public final native Class<?> getClass()
 ```
 
 
-Sets whether to enable mesh data compression.
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | boolean | New value |
 
+**Returns:**
+java.lang.Class<?>
+### getEmbedTextures() {#getEmbedTextures--}
+```
+public boolean getEmbedTextures()
+```
+
+
+Embed the external textures into the U3D file, default value is false.
+
+**Returns:**
+boolean
+### getEncoding() {#getEncoding--}
+```
+public Charset getEncoding()
+```
+
+
+Gets the default encoding for text-based files. Default value is null which means the importer/exporter will decide which encoding to use.
+
+**Returns:**
+java.nio.charset.Charset
 ### getExportNormals() {#getExportNormals--}
 ```
 public boolean getExportNormals()
@@ -101,6 +120,158 @@ Gets whether to export normal data.
 
 **Returns:**
 boolean
+### getExportTextureCoordinates() {#getExportTextureCoordinates--}
+```
+public boolean getExportTextureCoordinates()
+```
+
+
+Gets whether to export texture coordinates.
+
+**Returns:**
+boolean
+### getExportVertexDiffuse() {#getExportVertexDiffuse--}
+```
+public boolean getExportVertexDiffuse()
+```
+
+
+Gets whether to export vertex's diffuse color.
+
+**Returns:**
+boolean
+### getExportVertexSpecular() {#getExportVertexSpecular--}
+```
+public boolean getExportVertexSpecular()
+```
+
+
+Gets whether to export vertex' specular color.
+
+**Returns:**
+boolean
+### getFileFormat() {#getFileFormat--}
+```
+public FileFormat getFileFormat()
+```
+
+
+Gets the file format that specified in current Save/Load option.
+
+**Returns:**
+[FileFormat](../../com.aspose.threed/fileformat)
+### getFileName() {#getFileName--}
+```
+public String getFileName()
+```
+
+
+The file name of the exporting/importing scene. This is optional, but useful when serialize external assets like OBJ's material.
+
+**Returns:**
+java.lang.String
+### getFileSystem() {#getFileSystem--}
+```
+public FileSystem getFileSystem()
+```
+
+
+Allow user to handle how to manage the external dependencies during load/save.
+
+**Returns:**
+[FileSystem](../../com.aspose.threed/filesystem)
+### getFileSystemFactory() {#getFileSystemFactory--}
+```
+public static FileSystemFactory getFileSystemFactory()
+```
+
+
+Gets the factory class for FileSystem. The default factory will create [LocalFileSystem](../../com.aspose.threed/localfilesystem) which is not suitable for server environment.
+
+**Returns:**
+[FileSystemFactory](../../com.aspose.threed/filesystemfactory)
+### getFlipCoordinateSystem() {#getFlipCoordinateSystem--}
+```
+public boolean getFlipCoordinateSystem()
+```
+
+
+Gets whether flip coordinate system of control points/normal during importing/exporting.
+
+**Returns:**
+boolean
+### getLookupPaths() {#getLookupPaths--}
+```
+public ArrayList<String> getLookupPaths()
+```
+
+
+Some files like OBJ depends on external file, the lookup paths will allows Aspose.3D to look for external file to load.
+
+**Returns:**
+java.util.ArrayList<java.lang.String>
+### getMeshCompression() {#getMeshCompression--}
+```
+public boolean getMeshCompression()
+```
+
+
+Gets whether to enable mesh data compression.
+
+**Returns:**
+boolean
+### hashCode() {#hashCode--}
+```
+public native int hashCode()
+```
+
+
+
+
+**Returns:**
+int
+### notify() {#notify--}
+```
+public final native void notify()
+```
+
+
+
+
+### notifyAll() {#notifyAll--}
+```
+public final native void notifyAll()
+```
+
+
+
+
+### setEmbedTextures(boolean value) {#setEmbedTextures-boolean-}
+```
+public void setEmbedTextures(boolean value)
+```
+
+
+Embed the external textures into the U3D file, default value is false.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | boolean | New value |
+
+### setEncoding(Charset value) {#setEncoding-java.nio.charset.Charset-}
+```
+public void setEncoding(Charset value)
+```
+
+
+Sets the default encoding for text-based files. Default value is null which means the importer/exporter will decide which encoding to use.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | java.nio.charset.Charset | New value |
+
 ### setExportNormals(boolean value) {#setExportNormals-boolean-}
 ```
 public void setExportNormals(boolean value)
@@ -114,16 +285,6 @@ Sets whether to export normal data.
 | --- | --- | --- |
 | value | boolean | New value |
 
-### getExportTextureCoordinates() {#getExportTextureCoordinates--}
-```
-public boolean getExportTextureCoordinates()
-```
-
-
-Gets whether to export texture coordinates.
-
-**Returns:**
-boolean
 ### setExportTextureCoordinates(boolean value) {#setExportTextureCoordinates-boolean-}
 ```
 public void setExportTextureCoordinates(boolean value)
@@ -137,16 +298,6 @@ Sets whether to export texture coordinates.
 | --- | --- | --- |
 | value | boolean | New value |
 
-### getExportVertexDiffuse() {#getExportVertexDiffuse--}
-```
-public boolean getExportVertexDiffuse()
-```
-
-
-Gets whether to export vertex's diffuse color.
-
-**Returns:**
-boolean
 ### setExportVertexDiffuse(boolean value) {#setExportVertexDiffuse-boolean-}
 ```
 public void setExportVertexDiffuse(boolean value)
@@ -160,16 +311,6 @@ Sets whether to export vertex's diffuse color.
 | --- | --- | --- |
 | value | boolean | New value |
 
-### getExportVertexSpecular() {#getExportVertexSpecular--}
-```
-public boolean getExportVertexSpecular()
-```
-
-
-Gets whether to export vertex' specular color.
-
-**Returns:**
-boolean
 ### setExportVertexSpecular(boolean value) {#setExportVertexSpecular-boolean-}
 ```
 public void setExportVertexSpecular(boolean value)
@@ -183,26 +324,126 @@ Sets whether to export vertex' specular color.
 | --- | --- | --- |
 | value | boolean | New value |
 
-### getEmbedTextures() {#getEmbedTextures--}
+### setFileName(String value) {#setFileName-java.lang.String-}
 ```
-public boolean getEmbedTextures()
-```
-
-
-Embed the external textures into the U3D file, default value is false.
-
-**Returns:**
-boolean
-### setEmbedTextures(boolean value) {#setEmbedTextures-boolean-}
-```
-public void setEmbedTextures(boolean value)
+public void setFileName(String value)
 ```
 
 
-Embed the external textures into the U3D file, default value is false.
+The file name of the exporting/importing scene. This is optional, but useful when serialize external assets like OBJ's material.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | java.lang.String | New value |
+
+### setFileSystem(FileSystem value) {#setFileSystem-com.aspose.threed.FileSystem-}
+```
+public void setFileSystem(FileSystem value)
+```
+
+
+Allow user to handle how to manage the external dependencies during load/save.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | [FileSystem](../../com.aspose.threed/filesystem) | New value |
+
+### setFileSystemFactory(FileSystemFactory value) {#setFileSystemFactory-com.aspose.threed.FileSystemFactory-}
+```
+public static void setFileSystemFactory(FileSystemFactory value)
+```
+
+
+Sets the factory class for FileSystem. The default factory will create [LocalFileSystem](../../com.aspose.threed/localfilesystem) which is not suitable for server environment.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | [FileSystemFactory](../../com.aspose.threed/filesystemfactory) | New value |
+
+### setFlipCoordinateSystem(boolean value) {#setFlipCoordinateSystem-boolean-}
+```
+public void setFlipCoordinateSystem(boolean value)
+```
+
+
+Sets whether flip coordinate system of control points/normal during importing/exporting.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | boolean | New value |
+
+### setLookupPaths(ArrayList<String> value) {#setLookupPaths-java.util.ArrayList-java.lang.String--}
+```
+public void setLookupPaths(ArrayList<String> value)
+```
+
+
+Some files like OBJ depends on external file, the lookup paths will allows Aspose.3D to look for external file to load.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | java.util.ArrayList<java.lang.String> | New value |
+
+### setMeshCompression(boolean value) {#setMeshCompression-boolean-}
+```
+public void setMeshCompression(boolean value)
+```
+
+
+Sets whether to enable mesh data compression.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | boolean | New value |
+
+### toString() {#toString--}
+```
+public String toString()
+```
+
+
+
+
+**Returns:**
+java.lang.String
+### wait() {#wait--}
+```
+public final void wait()
+```
+
+
+
+
+### wait(long arg0) {#wait-long-}
+```
+public final native void wait(long arg0)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+
+### wait(long arg0, int arg1) {#wait-long-int-}
+```
+public final void wait(long arg0, int arg1)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+| arg1 | int |  |
 

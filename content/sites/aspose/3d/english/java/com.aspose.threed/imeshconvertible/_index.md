@@ -1,7 +1,7 @@
 ---
 title: IMeshConvertible
 second_title: Aspose.3D for Java API Reference
-description: Entities that implemented this interface can be converted to com.aspose.threed.Mesh
+description: Entities that implemented this interface can be converted to
 type: docs
 weight: 221
 url: /java/com.aspose.threed/imeshconvertible/
@@ -10,7 +10,7 @@ url: /java/com.aspose.threed/imeshconvertible/
 public interface IMeshConvertible
 ```
 
-Entities that implemented this interface can be converted to com.aspose.threed.Mesh
+Entities that implemented this interface can be converted to [Mesh](../../com.aspose.threed/mesh)
 ## Methods
 
 | Method | Description |

@@ -51,7 +51,10 @@ The MorphTargetDeformer type exposes the following members:
 | [find_property(property_name)](/3d/python-net/aspose.threed.deformers/morphtargetdeformer/find_property/#str) | Finds the property.<br/>It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) <br/>or native property(Identified by its name) |
 
 
-### See Also
 
-* module [aspose.threed.deformers](../)
+### See Also
+* module [aspose.threed.deformers](..)
+* class [A3DObject](/3d/python-net/aspose.threed/a3dobject)
 * class [Deformer](/3d/python-net/aspose.threed.deformers/deformer)
+* class [MorphTargetChannel](/3d/python-net/aspose.threed.deformers/morphtargetchannel)
+* class [MorphTargetDeformer](/3d/python-net/aspose.threed.deformers/morphtargetdeformer)

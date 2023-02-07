@@ -12,6 +12,12 @@ is_root: false
 
 
 The segments of the curve.
+### Definition:
+```python
+@property
+def segments(self):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.entities](../../)

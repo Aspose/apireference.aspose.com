@@ -12,6 +12,15 @@ is_root: false
 
 
 Gets or sets the radius of web edge.
+### Definition:
+```python
+@property
+def web_edge_radius(self):
+    ...
+@web_edge_radius.setter
+def web_edge_radius(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.profiles](../../)

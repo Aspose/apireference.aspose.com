@@ -12,6 +12,15 @@ is_root: false
 
 
 Gets or sets the radius of the upper edges of the bottom flange.
+### Definition:
+```python
+@property
+def bottom_flange_edge_radius(self):
+    ...
+@bottom_flange_edge_radius.setter
+def bottom_flange_edge_radius(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.profiles](../../)

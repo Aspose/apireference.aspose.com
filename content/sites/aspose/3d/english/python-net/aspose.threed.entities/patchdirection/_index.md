@@ -31,6 +31,7 @@ The PatchDirection type exposes the following members:
 | [closed](/3d/python-net/aspose.threed.entities/patchdirection/closed) | Gets or sets a value indicating whether this [PatchDirection](/3d/python-net/aspose.threed.entities/patchdirection) is a closed curve. |
 
 
-### See Also
 
-* module [aspose.threed.entities](../)
+### See Also
+* module [aspose.threed.entities](..)
+* class [PatchDirection](/3d/python-net/aspose.threed.entities/patchdirection)

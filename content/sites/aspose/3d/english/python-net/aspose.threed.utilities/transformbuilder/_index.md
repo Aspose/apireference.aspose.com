@@ -69,6 +69,7 @@ tb.rotate_euler_degree(90, 0, 0)
 print(f"Transform Matrix: {tb.matrix}")
 
 ```
-### See Also
 
-* module [aspose.threed.utilities](../)
+### See Also
+* module [aspose.threed.utilities](..)
+* class [TransformBuilder](/3d/python-net/aspose.threed.utilities/transformbuilder)

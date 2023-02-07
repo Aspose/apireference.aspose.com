@@ -12,6 +12,15 @@ is_root: false
 
 
 Gets or sets whether to enable draco compression
+### Definition:
+```python
+@property
+def draco_compression(self):
+    ...
+@draco_compression.setter
+def draco_compression(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.formats](../../)

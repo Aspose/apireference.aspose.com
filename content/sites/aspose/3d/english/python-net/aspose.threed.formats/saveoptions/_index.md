@@ -31,7 +31,8 @@ The SaveOptions type exposes the following members:
 | [file_name](/3d/python-net/aspose.threed.formats/saveoptions/file_name) | The file name of the exporting/importing scene.<br/>This is optional, but useful when serialize external assets like OBJ's material. |
 
 
-### See Also
 
-* module [aspose.threed.formats](../)
+### See Also
+* module [aspose.threed.formats](..)
 * class [IOConfig](/3d/python-net/aspose.threed.formats/ioconfig)
+* class [SaveOptions](/3d/python-net/aspose.threed.formats/saveoptions)

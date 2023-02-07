@@ -12,7 +12,17 @@ is_root: false
 
 
 Gets or sets how the element is referenced.
+### Definition:
+```python
+@property
+def reference_mode(self):
+    ...
+@reference_mode.setter
+def reference_mode(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.entities](../../)
+* class [ReferenceMode](/3d/python-net/aspose.threed.entities/referencemode)
 * class [VertexElementHole](/3d/python-net/aspose.threed.entities/vertexelementhole)

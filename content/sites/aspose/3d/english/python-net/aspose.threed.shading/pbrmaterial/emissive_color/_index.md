@@ -12,7 +12,17 @@ is_root: false
 
 
 Gets or sets the emissive color
+### Definition:
+```python
+@property
+def emissive_color(self):
+    ...
+@emissive_color.setter
+def emissive_color(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.shading](../../)
 * class [PbrMaterial](/3d/python-net/aspose.threed.shading/pbrmaterial)
+* class [Vector3](/3d/python-net/aspose.threed.utilities/vector3)

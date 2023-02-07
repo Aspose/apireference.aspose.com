@@ -12,7 +12,17 @@ is_root: false
 
 
 Gets or sets the first parent node, if set the first parent node, this entity will be detached from other parent nodes.
+### Definition:
+```python
+@property
+def parent_node(self):
+    ...
+@parent_node.setter
+def parent_node(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.entities](../../)
 * class [Geometry](/3d/python-net/aspose.threed.entities/geometry)
+* class [Node](/3d/python-net/aspose.threed/node)

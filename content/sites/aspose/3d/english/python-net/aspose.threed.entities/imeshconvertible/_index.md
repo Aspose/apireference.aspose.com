@@ -22,6 +22,7 @@ The IMeshConvertible type exposes the following members:
 | [to_mesh()](/3d/python-net/aspose.threed.entities/imeshconvertible/to_mesh/#) | Convert current object to mesh |
 
 
-### See Also
 
-* module [aspose.threed.entities](../)
+### See Also
+* module [aspose.threed.entities](..)
+* class [Mesh](/3d/python-net/aspose.threed.entities/mesh)

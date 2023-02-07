@@ -27,6 +27,6 @@ The PropertyFlags type exposes the following members:
 | HIDDEN | The property is marked as hidden. |
 
 
-### See Also
 
-* module [aspose.threed](../)
+### See Also
+* module [aspose.threed](..)

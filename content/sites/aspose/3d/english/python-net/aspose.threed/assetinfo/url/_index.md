@@ -12,6 +12,15 @@ is_root: false
 
 
 Gets or Sets the URL of this asset.
+### Definition:
+```python
+@property
+def url(self):
+    ...
+@url.setter
+def url(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed](../../)

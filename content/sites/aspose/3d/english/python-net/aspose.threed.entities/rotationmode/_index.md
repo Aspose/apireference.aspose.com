@@ -23,6 +23,6 @@ The RotationMode type exposes the following members:
 | FIXED_DIRECTION | Direction is fixed, look at is calculated by the direction |
 
 
-### See Also
 
-* module [aspose.threed.entities](../)
+### See Also
+* module [aspose.threed.entities](..)

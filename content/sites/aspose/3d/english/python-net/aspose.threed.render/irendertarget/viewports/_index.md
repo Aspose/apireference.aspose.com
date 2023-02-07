@@ -12,6 +12,12 @@ is_root: false
 
 
 Gets all viewports that associated with this render target.
+### Definition:
+```python
+@property
+def viewports(self):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.render](../../)

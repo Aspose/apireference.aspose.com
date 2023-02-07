@@ -12,7 +12,14 @@ is_root: false
 
 
 The center of the bounding box.
+### Definition:
+```python
+@property
+def center(self):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.utilities](../../)
 * class [BoundingBox](/3d/python-net/aspose.threed.utilities/boundingbox)
+* class [Vector3](/3d/python-net/aspose.threed.utilities/vector3)

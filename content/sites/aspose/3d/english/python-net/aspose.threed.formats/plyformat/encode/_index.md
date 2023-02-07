@@ -8,6 +8,42 @@ url: /python-net/aspose.threed.formats/plyformat/encode/
 is_root: false
 ---
 
+## encode(entity, stream) {#Entity-io.RawIOBase}
+
+
+
+
+
+```python
+def encode(self, entity, stream):
+    ...
+```
+
+
+| Parameter | Type | Description |
+| :- | :- | :- |
+| entity | [Entity](/3d/python-net/aspose.threed/entity) |  |
+| stream | io.RawIOBase |  |
+
+
+## encode(entity, file_name) {#Entity-str}
+
+
+
+
+
+```python
+def encode(self, entity, file_name):
+    ...
+```
+
+
+| Parameter | Type | Description |
+| :- | :- | :- |
+| entity | [Entity](/3d/python-net/aspose.threed/entity) |  |
+| file_name | str |  |
+
+
 ## encode(entity, stream, opt) {#Entity-io.RawIOBase-PlySaveOptions}
 
 Encode the entity and save the result into the stream.

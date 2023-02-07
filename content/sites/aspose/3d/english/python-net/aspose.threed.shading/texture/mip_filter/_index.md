@@ -12,7 +12,17 @@ is_root: false
 
 
 Gets or sets the filter for mip-level sampling.
+### Definition:
+```python
+@property
+def mip_filter(self):
+    ...
+@mip_filter.setter
+def mip_filter(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.shading](../../)
 * class [Texture](/3d/python-net/aspose.threed.shading/texture)
+* class [TextureFilter](/3d/python-net/aspose.threed.shading/texturefilter)

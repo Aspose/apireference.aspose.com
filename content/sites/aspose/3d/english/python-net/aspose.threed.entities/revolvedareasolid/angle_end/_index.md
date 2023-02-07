@@ -12,6 +12,15 @@ is_root: false
 
 
 Gets or sets the ending angle of the revolving procedure, measured in radian, default value is pi.
+### Definition:
+```python
+@property
+def angle_end(self):
+    ...
+@angle_end.setter
+def angle_end(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.entities](../../)

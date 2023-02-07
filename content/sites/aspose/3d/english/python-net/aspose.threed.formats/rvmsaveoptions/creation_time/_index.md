@@ -12,6 +12,15 @@ is_root: false
 
 
 The timestamp that exported this file, default value is current time
+### Definition:
+```python
+@property
+def creation_time(self):
+    ...
+@creation_time.setter
+def creation_time(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.formats](../../)

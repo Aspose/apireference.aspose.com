@@ -12,6 +12,15 @@ is_root: false
 
 
 Gets or sets the time in seconds of the beginning of the clip.
+### Definition:
+```python
+@property
+def start(self):
+    ...
+@start.setter
+def start(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.animation](../../)

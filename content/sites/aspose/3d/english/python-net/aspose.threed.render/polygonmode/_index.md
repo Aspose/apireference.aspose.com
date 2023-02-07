@@ -24,6 +24,6 @@ The PolygonMode type exposes the following members:
 | FILL | The interior of the polygon is filled. |
 
 
-### See Also
 
-* module [aspose.threed.render](../)
+### See Also
+* module [aspose.threed.render](..)

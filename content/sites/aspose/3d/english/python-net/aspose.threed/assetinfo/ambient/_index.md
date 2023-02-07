@@ -12,6 +12,15 @@ is_root: false
 
 
 Gets or Sets the default ambient color of this asset
+### Definition:
+```python
+@property
+def ambient(self):
+    ...
+@ambient.setter
+def ambient(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed](../../)

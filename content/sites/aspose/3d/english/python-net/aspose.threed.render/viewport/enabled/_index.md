@@ -12,6 +12,15 @@ is_root: false
 
 
 Enable or disable this viewport.
+### Definition:
+```python
+@property
+def enabled(self):
+    ...
+@enabled.setter
+def enabled(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.render](../../)

@@ -45,7 +45,9 @@ The U3dSaveOptions type exposes the following members:
 | [embed_textures](/3d/python-net/aspose.threed.formats/u3dsaveoptions/embed_textures) | Embed the external textures into the U3D file, default value is false. |
 
 
-### See Also
 
-* module [aspose.threed.formats](../)
+### See Also
+* module [aspose.threed.formats](..)
+* class [IOConfig](/3d/python-net/aspose.threed.formats/ioconfig)
 * class [SaveOptions](/3d/python-net/aspose.threed.formats/saveoptions)
+* class [U3dSaveOptions](/3d/python-net/aspose.threed.formats/u3dsaveoptions)

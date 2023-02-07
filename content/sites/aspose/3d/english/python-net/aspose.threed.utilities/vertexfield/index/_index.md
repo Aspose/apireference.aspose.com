@@ -12,6 +12,12 @@ is_root: false
 
 
 Index of this field in the vertex's layout with same semantic.
+### Definition:
+```python
+@property
+def index(self):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.utilities](../../)

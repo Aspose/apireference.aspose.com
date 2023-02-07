@@ -12,6 +12,15 @@ is_root: false
 
 
 Center the scene after it's loaded.
+### Definition:
+```python
+@property
+def center_scene(self):
+    ...
+@center_scene.setter
+def center_scene(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.formats](../../)

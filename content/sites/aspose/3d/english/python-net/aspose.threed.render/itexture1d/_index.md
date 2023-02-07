@@ -42,6 +42,7 @@ The ITexture1D type exposes the following members:
 | [to_bitmap()](/3d/python-net/aspose.threed.render/itexture1d/to_bitmap/#) | Convert the texture unit to Bitmap instance |
 
 
-### See Also
 
-* module [aspose.threed.render](../)
+### See Also
+* module [aspose.threed.render](..)
+* class [ITextureUnit](/3d/python-net/aspose.threed.render/itextureunit)

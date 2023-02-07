@@ -12,6 +12,15 @@ is_root: false
 
 
 Gets or sets the thickness of the constant wall.
+### Definition:
+```python
+@property
+def thickness(self):
+    ...
+@thickness.setter
+def thickness(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.profiles](../../)

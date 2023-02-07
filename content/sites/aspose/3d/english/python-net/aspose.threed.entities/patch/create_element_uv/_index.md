@@ -58,3 +58,4 @@ def create_element_uv(self, uv_mapping, mapping_mode, reference_mode):
 ### See Also
 * module [aspose.threed.entities](../../)
 * class [Patch](/3d/python-net/aspose.threed.entities/patch)
+* class [VertexElementUV](/3d/python-net/aspose.threed.entities/vertexelementuv)

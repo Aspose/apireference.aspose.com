@@ -12,6 +12,15 @@ is_root: false
 
 
 Enable or disable the fragment blending.
+### Definition:
+```python
+@property
+def blend(self):
+    ...
+@blend.setter
+def blend(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.render](../../)

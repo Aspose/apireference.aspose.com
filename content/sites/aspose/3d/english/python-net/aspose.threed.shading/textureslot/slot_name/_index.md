@@ -12,6 +12,12 @@ is_root: false
 
 
 The slot name that indicates where this texture will be bounded to.
+### Definition:
+```python
+@property
+def slot_name(self):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.shading](../../)

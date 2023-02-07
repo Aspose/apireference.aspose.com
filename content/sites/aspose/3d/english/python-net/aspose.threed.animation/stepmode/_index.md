@@ -23,6 +23,6 @@ The StepMode type exposes the following members:
 | NEXT_VALUE | Curve value of a segment always uses the value from the next key frame |
 
 
-### See Also
 
-* module [aspose.threed.animation](../)
+### See Also
+* module [aspose.threed.animation](..)

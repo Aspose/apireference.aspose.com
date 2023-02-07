@@ -12,7 +12,14 @@ is_root: false
 
 
 Gets the pre behavior indicates what the sampled value should be before the first key.
+### Definition:
+```python
+@property
+def pre_behavior(self):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.animation](../../)
+* class [Extrapolation](/3d/python-net/aspose.threed.animation/extrapolation)
 * class [KeyframeSequence](/3d/python-net/aspose.threed.animation/keyframesequence)

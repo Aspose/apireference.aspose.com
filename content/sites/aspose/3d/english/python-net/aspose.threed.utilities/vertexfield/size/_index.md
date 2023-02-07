@@ -12,6 +12,12 @@ is_root: false
 
 
 The size in bytes of this field
+### Definition:
+```python
+@property
+def size(self):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.utilities](../../)

@@ -34,3 +34,4 @@ def get_element(self, type):
 ### See Also
 * module [aspose.threed.entities](../../)
 * class [Shape](/3d/python-net/aspose.threed.entities/shape)
+* class [VertexElement](/3d/python-net/aspose.threed.entities/vertexelement)

@@ -26,6 +26,6 @@ The LightType type exposes the following members:
 | VOLUME | The volume light. |
 
 
-### See Also
 
-* module [aspose.threed.entities](../)
+### See Also
+* module [aspose.threed.entities](..)

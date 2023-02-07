@@ -26,8 +26,12 @@ format = FileFormat.get_format_by_extension(outputFormat)
 if format.can_import:
     print(f"Can import from {outputFormat}")
 
-
-
+```
+### Definition:
+```python
+@property
+def can_import(self):
+    ...
 ```
 
 ### See Also

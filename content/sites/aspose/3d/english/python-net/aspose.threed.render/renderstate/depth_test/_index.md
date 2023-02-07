@@ -12,6 +12,15 @@ is_root: false
 
 
 Enable or disable the depth test.
+### Definition:
+```python
+@property
+def depth_test(self):
+    ...
+@depth_test.setter
+def depth_test(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.render](../../)

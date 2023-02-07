@@ -27,7 +27,14 @@ scene.root_node.create_child_node(Box())
 scene.save("box.stl")
 
 ```
+### Definition:
+```python
+@property
+def root_node(self):
+    ...
+```
 
 ### See Also
 * module [aspose.threed](../../)
+* class [Node](/3d/python-net/aspose.threed/node)
 * class [Scene](/3d/python-net/aspose.threed/scene)

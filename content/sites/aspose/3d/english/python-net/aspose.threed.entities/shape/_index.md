@@ -72,7 +72,12 @@ The Shape type exposes the following members:
 | [from_control_points(control_points)](/3d/python-net/aspose.threed.entities/shape/from_control_points/#list) | Create a shape with specified control points with a default indices. |
 
 
-### See Also
 
-* module [aspose.threed.entities](../)
+### See Also
+* module [aspose.threed.entities](..)
+* class [A3DObject](/3d/python-net/aspose.threed/a3dobject)
+* class [Entity](/3d/python-net/aspose.threed/entity)
 * class [Geometry](/3d/python-net/aspose.threed.entities/geometry)
+* class [SceneObject](/3d/python-net/aspose.threed/sceneobject)
+* class [Shape](/3d/python-net/aspose.threed.entities/shape)
+* class [VertexElementUV](/3d/python-net/aspose.threed.entities/vertexelementuv)

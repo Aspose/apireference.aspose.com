@@ -12,6 +12,15 @@ is_root: false
 
 
 Gets or sets the length segments.
+### Definition:
+```python
+@property
+def length_segments(self):
+    ...
+@length_segments.setter
+def length_segments(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.entities](../../)

@@ -37,9 +37,8 @@ mat.set_texture(Material.MAP_DIFFUSE, tex)
 for slot in mat:
     print(f"Texture slot {slot.slot_name} = {slot.texture}")
 
-
-
 ```
-### See Also
 
-* module [aspose.threed.shading](../)
+### See Also
+* module [aspose.threed.shading](..)
+* class [Material](/3d/python-net/aspose.threed.shading/material)

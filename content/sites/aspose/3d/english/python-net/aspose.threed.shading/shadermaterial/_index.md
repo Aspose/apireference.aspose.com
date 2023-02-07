@@ -38,11 +38,11 @@ The ShaderMaterial type exposes the following members:
 | :- | :- |
 | [name](/3d/python-net/aspose.threed.shading/shadermaterial/name) | Gets or sets the name. |
 | [properties](/3d/python-net/aspose.threed.shading/shadermaterial/properties) | Gets the collection of all properties. |
-| [MAP_SPECULAR](/3d/python-net/aspose.threed.shading/shadermaterial/MAP_SPECULAR) | Used in [Material.set_texture(slot_name, texture)](/3d/python-net/aspose.threed.shading/material/set_texture) to assign a specular texture mapping. |
-| [MAP_DIFFUSE](/3d/python-net/aspose.threed.shading/shadermaterial/MAP_DIFFUSE) | Used in [Material.set_texture(slot_name, texture)](/3d/python-net/aspose.threed.shading/material/set_texture) to assign a diffuse texture mapping. |
-| [MAP_EMISSIVE](/3d/python-net/aspose.threed.shading/shadermaterial/MAP_EMISSIVE) | Used in [Material.set_texture(slot_name, texture)](/3d/python-net/aspose.threed.shading/material/set_texture) to assign a emissive texture mapping. |
-| [MAP_AMBIENT](/3d/python-net/aspose.threed.shading/shadermaterial/MAP_AMBIENT) | Used in [Material.set_texture(slot_name, texture)](/3d/python-net/aspose.threed.shading/material/set_texture) to assign a ambient texture mapping. |
-| [MAP_NORMAL](/3d/python-net/aspose.threed.shading/shadermaterial/MAP_NORMAL) | Used in [Material.set_texture(slot_name, texture)](/3d/python-net/aspose.threed.shading/material/set_texture) to assign a normal texture mapping. |
+| [MAP_SPECULAR](/3d/python-net/aspose.threed.shading/shadermaterial/map_specular) | Used in [Material.set_texture(slot_name, texture)](/3d/python-net/aspose.threed.shading/material/set_texture) to assign a specular texture mapping. |
+| [MAP_DIFFUSE](/3d/python-net/aspose.threed.shading/shadermaterial/map_diffuse) | Used in [Material.set_texture(slot_name, texture)](/3d/python-net/aspose.threed.shading/material/set_texture) to assign a diffuse texture mapping. |
+| [MAP_EMISSIVE](/3d/python-net/aspose.threed.shading/shadermaterial/map_emissive) | Used in [Material.set_texture(slot_name, texture)](/3d/python-net/aspose.threed.shading/material/set_texture) to assign a emissive texture mapping. |
+| [MAP_AMBIENT](/3d/python-net/aspose.threed.shading/shadermaterial/map_ambient) | Used in [Material.set_texture(slot_name, texture)](/3d/python-net/aspose.threed.shading/material/set_texture) to assign a ambient texture mapping. |
+| [MAP_NORMAL](/3d/python-net/aspose.threed.shading/shadermaterial/map_normal) | Used in [Material.set_texture(slot_name, texture)](/3d/python-net/aspose.threed.shading/material/set_texture) to assign a normal texture mapping. |
 | [techniques](/3d/python-net/aspose.threed.shading/shadermaterial/techniques) | Gets all available techniques defined in this material. |
 
 
@@ -58,7 +58,10 @@ The ShaderMaterial type exposes the following members:
 | [set_texture(slot_name, texture)](/3d/python-net/aspose.threed.shading/shadermaterial/set_texture/#str-TextureBase) | Sets the texture to specified slot |
 
 
-### See Also
 
-* module [aspose.threed.shading](../)
+### See Also
+* module [aspose.threed.shading](..)
+* class [A3DObject](/3d/python-net/aspose.threed/a3dobject)
 * class [Material](/3d/python-net/aspose.threed.shading/material)
+* class [ShaderMaterial](/3d/python-net/aspose.threed.shading/shadermaterial)
+* class [ShaderTechnique](/3d/python-net/aspose.threed.shading/shadertechnique)

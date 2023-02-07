@@ -12,6 +12,15 @@ is_root: false
 
 
 Gets or sets the continuity used in TCB spline
+### Definition:
+```python
+@property
+def continuity(self):
+    ...
+@continuity.setter
+def continuity(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.animation](../../)

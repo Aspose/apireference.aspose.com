@@ -12,6 +12,15 @@ is_root: false
 
 
 Gets or sets whether to export normal data.
+### Definition:
+```python
+@property
+def export_normals(self):
+    ...
+@export_normals.setter
+def export_normals(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.formats](../../)

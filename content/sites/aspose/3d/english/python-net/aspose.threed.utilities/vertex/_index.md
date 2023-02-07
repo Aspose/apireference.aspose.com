@@ -30,6 +30,7 @@ The Vertex type exposes the following members:
 | [read_float(field)](/3d/python-net/aspose.threed.utilities/vertex/read_float/#VertexField) | Read the float field |
 
 
-### See Also
 
-* module [aspose.threed.utilities](../)
+### See Also
+* module [aspose.threed.utilities](..)
+* class [TriMesh](/3d/python-net/aspose.threed.entities/trimesh)

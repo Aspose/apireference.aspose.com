@@ -13,6 +13,15 @@ is_root: false
 
 The height of the rectangular torus.
 Default value is 20
+### Definition:
+```python
+@property
+def height(self):
+    ...
+@height.setter
+def height(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.entities](../../)

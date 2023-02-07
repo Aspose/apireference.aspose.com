@@ -12,6 +12,12 @@ is_root: false
 
 
 Gets the total number of property channels defined in this animation curve mapping.
+### Definition:
+```python
+@property
+def channels_count(self):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.animation](../../)

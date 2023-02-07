@@ -12,6 +12,15 @@ is_root: false
 
 
 Gets or sets the offset for height
+### Definition:
+```python
+@property
+def offset_height(self):
+    ...
+@offset_height.setter
+def offset_height(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.utilities](../../)

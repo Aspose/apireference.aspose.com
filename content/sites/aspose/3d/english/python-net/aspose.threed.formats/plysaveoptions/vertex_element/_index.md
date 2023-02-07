@@ -12,6 +12,15 @@ is_root: false
 
 
 The element name for the vertex data, default value is "vertex"
+### Definition:
+```python
+@property
+def vertex_element(self):
+    ...
+@vertex_element.setter
+def vertex_element(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.formats](../../)

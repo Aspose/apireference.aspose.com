@@ -12,6 +12,15 @@ is_root: false
 
 
 Gets or sets the radius of the tube.
+### Definition:
+```python
+@property
+def tube(self):
+    ...
+@tube.setter
+def tube(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.entities](../../)

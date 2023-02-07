@@ -12,6 +12,15 @@ is_root: false
 
 
 Gets or sets the length of the box aligned in z-axis.
+### Definition:
+```python
+@property
+def length(self):
+    ...
+@length.setter
+def length(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.entities](../../)

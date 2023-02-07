@@ -1,7 +1,7 @@
 ---
 title: BoundingBox2D
 second_title: Aspose.3D for Java API Reference
-description: The axis-aligned bounding box for com.aspose.threed.Vector2
+description: The axis-aligned bounding box for
 type: docs
 weight: 22
 url: /java/com.aspose.threed/boundingbox2d/
@@ -16,7 +16,7 @@ com.aspose.csporter.helpers.Struct, java.io.Serializable
 public final class BoundingBox2D implements Struct<BoundingBox2D>, Serializable
 ```
 
-The axis-aligned bounding box for com.aspose.threed.Vector2
+The axis-aligned bounding box for [Vector2](../../com.aspose.threed/vector2)
 ## Constructors
 
 | Constructor | Description |
@@ -27,22 +27,28 @@ The axis-aligned bounding box for com.aspose.threed.Vector2
 
 | Field | Description |
 | --- | --- |
-| [NULL](#NULL) | The null bounding box |
 | [INFINITE](#INFINITE) | The infinite bounding box |
+| [NULL](#NULL) | The null bounding box |
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getExtent()](#getExtent--) | Gets the extent of the bounding box. |
-| [getMinimum()](#getMinimum--) | The minimum corner of the bounding box |
-| [getMaximum()](#getMaximum--) | The maximum corner of the bounding box |
-| [merge(Vector2 pt)](#merge-com.aspose.threed.Vector2-) | Merges the new box into the current bounding box. |
-| [merge(BoundingBox2D bb)](#merge-com.aspose.threed.BoundingBox2D-) | Merges the new box into the current bounding box. |
-| [toString()](#toString--) | Gets the string representation of the bounding box. |
 | [clone()](#clone--) |  |
 | [copyFrom(BoundingBox2D src)](#copyFrom-com.aspose.threed.BoundingBox2D-) |  |
-| [hashCode()](#hashCode--) |  |
 | [equals(Object obj)](#equals-java.lang.Object-) |  |
+| [getClass()](#getClass--) |  |
+| [getExtent()](#getExtent--) | Gets the extent of the bounding box. |
+| [getMaximum()](#getMaximum--) | The maximum corner of the bounding box |
+| [getMinimum()](#getMinimum--) | The minimum corner of the bounding box |
+| [hashCode()](#hashCode--) |  |
+| [merge(BoundingBox2D bb)](#merge-com.aspose.threed.BoundingBox2D-) | Merges the new box into the current bounding box. |
+| [merge(Vector2 pt)](#merge-com.aspose.threed.Vector2-) | Merges the new box into the current bounding box. |
+| [notify()](#notify--) |  |
+| [notifyAll()](#notifyAll--) |  |
+| [toString()](#toString--) | Gets the string representation of the bounding box. |
+| [wait()](#wait--) |  |
+| [wait(long arg0)](#wait-long-) |  |
+| [wait(long arg0, int arg1)](#wait-long-int-) |  |
 ### BoundingBox2D(Vector2 minimum, Vector2 maximum) {#BoundingBox2D-com.aspose.threed.Vector2-com.aspose.threed.Vector2-}
 ```
 public BoundingBox2D(Vector2 minimum, Vector2 maximum)
@@ -63,14 +69,6 @@ public BoundingBox2D()
 ```
 
 
-### NULL {#NULL}
-```
-public static final BoundingBox2D NULL
-```
-
-
-The null bounding box
-
 ### INFINITE {#INFINITE}
 ```
 public static final BoundingBox2D INFINITE
@@ -79,72 +77,14 @@ public static final BoundingBox2D INFINITE
 
 The infinite bounding box
 
-### getExtent() {#getExtent--}
+### NULL {#NULL}
 ```
-public BoundingBoxExtent getExtent()
-```
-
-
-Gets the extent of the bounding box.
-
-**Returns:**
-[BoundingBoxExtent](../../com.aspose.threed/boundingboxextent)
-### getMinimum() {#getMinimum--}
-```
-public Vector2 getMinimum()
+public static final BoundingBox2D NULL
 ```
 
 
-The minimum corner of the bounding box
+The null bounding box
 
-**Returns:**
-[Vector2](../../com.aspose.threed/vector2)
-### getMaximum() {#getMaximum--}
-```
-public Vector2 getMaximum()
-```
-
-
-The maximum corner of the bounding box
-
-**Returns:**
-[Vector2](../../com.aspose.threed/vector2)
-### merge(Vector2 pt) {#merge-com.aspose.threed.Vector2-}
-```
-public void merge(Vector2 pt)
-```
-
-
-Merges the new box into the current bounding box.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| pt | [Vector2](../../com.aspose.threed/vector2) |  |
-
-### merge(BoundingBox2D bb) {#merge-com.aspose.threed.BoundingBox2D-}
-```
-public void merge(BoundingBox2D bb)
-```
-
-
-Merges the new box into the current bounding box.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| bb | [BoundingBox2D](../../com.aspose.threed/boundingbox2d) |  |
-
-### toString() {#toString--}
-```
-public String toString()
-```
-
-
-Gets the string representation of the bounding box.
-
-**Returns:**
-java.lang.String
 ### clone() {#clone--}
 ```
 public BoundingBox2D clone()
@@ -168,16 +108,6 @@ public void copyFrom(BoundingBox2D src)
 | --- | --- | --- |
 | src | [BoundingBox2D](../../com.aspose.threed/boundingbox2d) |  |
 
-### hashCode() {#hashCode--}
-```
-public int hashCode()
-```
-
-
-
-
-**Returns:**
-int
 ### equals(Object obj) {#equals-java.lang.Object-}
 ```
 public boolean equals(Object obj)
@@ -193,3 +123,140 @@ public boolean equals(Object obj)
 
 **Returns:**
 boolean
+### getClass() {#getClass--}
+```
+public final native Class<?> getClass()
+```
+
+
+
+
+**Returns:**
+java.lang.Class<?>
+### getExtent() {#getExtent--}
+```
+public BoundingBoxExtent getExtent()
+```
+
+
+Gets the extent of the bounding box.
+
+**Returns:**
+[BoundingBoxExtent](../../com.aspose.threed/boundingboxextent)
+### getMaximum() {#getMaximum--}
+```
+public Vector2 getMaximum()
+```
+
+
+The maximum corner of the bounding box
+
+**Returns:**
+[Vector2](../../com.aspose.threed/vector2)
+### getMinimum() {#getMinimum--}
+```
+public Vector2 getMinimum()
+```
+
+
+The minimum corner of the bounding box
+
+**Returns:**
+[Vector2](../../com.aspose.threed/vector2)
+### hashCode() {#hashCode--}
+```
+public int hashCode()
+```
+
+
+
+
+**Returns:**
+int
+### merge(BoundingBox2D bb) {#merge-com.aspose.threed.BoundingBox2D-}
+```
+public void merge(BoundingBox2D bb)
+```
+
+
+Merges the new box into the current bounding box.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| bb | [BoundingBox2D](../../com.aspose.threed/boundingbox2d) |  |
+
+### merge(Vector2 pt) {#merge-com.aspose.threed.Vector2-}
+```
+public void merge(Vector2 pt)
+```
+
+
+Merges the new box into the current bounding box.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| pt | [Vector2](../../com.aspose.threed/vector2) |  |
+
+### notify() {#notify--}
+```
+public final native void notify()
+```
+
+
+
+
+### notifyAll() {#notifyAll--}
+```
+public final native void notifyAll()
+```
+
+
+
+
+### toString() {#toString--}
+```
+public String toString()
+```
+
+
+Gets the string representation of the bounding box.
+
+**Returns:**
+java.lang.String
+### wait() {#wait--}
+```
+public final void wait()
+```
+
+
+
+
+### wait(long arg0) {#wait-long-}
+```
+public final native void wait(long arg0)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+
+### wait(long arg0, int arg1) {#wait-long-int-}
+```
+public final void wait(long arg0, int arg1)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+| arg1 | int |  |
+

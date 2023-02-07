@@ -12,6 +12,15 @@ is_root: false
 
 
 Gets or sets the extent of the bottom line measured along the x-axis.
+### Definition:
+```python
+@property
+def bottom_x_dim(self):
+    ...
+@bottom_x_dim.setter
+def bottom_x_dim(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.profiles](../../)

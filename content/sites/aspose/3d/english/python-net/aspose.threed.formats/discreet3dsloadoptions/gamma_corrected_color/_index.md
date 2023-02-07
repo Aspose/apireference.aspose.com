@@ -14,6 +14,15 @@ is_root: false
 A 3ds file may contains original color and gamma corrected color for same attribute,
 Setting this to true will use the gamma corrected color if possible, 
 otherwise the Aspose.3D will try to use the original color.
+### Definition:
+```python
+@property
+def gamma_corrected_color(self):
+    ...
+@gamma_corrected_color.setter
+def gamma_corrected_color(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.formats](../../)

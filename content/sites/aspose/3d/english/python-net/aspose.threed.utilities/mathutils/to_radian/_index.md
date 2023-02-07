@@ -135,3 +135,4 @@ def to_radian(self, x, y, z):
 ### See Also
 * module [aspose.threed.utilities](../../)
 * class [MathUtils](/3d/python-net/aspose.threed.utilities/mathutils)
+* class [Vector3](/3d/python-net/aspose.threed.utilities/vector3)

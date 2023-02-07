@@ -13,6 +13,15 @@ is_root: false
 
 The start angle of the arc, measured in radian.
 Default value is 0
+### Definition:
+```python
+@property
+def angle_start(self):
+    ...
+@angle_start.setter
+def angle_start(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.entities](../../)

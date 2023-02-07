@@ -12,6 +12,15 @@ is_root: false
 
 
 Gets or sets whether import materials for each object
+### Definition:
+```python
+@property
+def enable_materials(self):
+    ...
+@enable_materials.setter
+def enable_materials(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.formats](../../)

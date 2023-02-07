@@ -12,6 +12,15 @@ is_root: false
 
 
 Gets or sets the offset from the beginning of the top line to the bottom line.
+### Definition:
+```python
+@property
+def top_x_offset(self):
+    ...
+@top_x_offset.setter
+def top_x_offset(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.profiles](../../)

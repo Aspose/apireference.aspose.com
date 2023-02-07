@@ -23,6 +23,6 @@ The CoordinatedSystem type exposes the following members:
 | LEFT_HANDED | The left handed. |
 
 
-### See Also
 
-* module [aspose.threed](../)
+### See Also
+* module [aspose.threed](..)

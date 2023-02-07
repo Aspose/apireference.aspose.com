@@ -12,6 +12,15 @@ is_root: false
 
 
 Gets and sets the repeat times of the extrapolation pattern.
+### Definition:
+```python
+@property
+def repeat_count(self):
+    ...
+@repeat_count.setter
+def repeat_count(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.animation](../../)

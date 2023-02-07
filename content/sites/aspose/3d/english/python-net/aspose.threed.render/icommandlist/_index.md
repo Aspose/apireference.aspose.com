@@ -31,6 +31,6 @@ The ICommandList type exposes the following members:
 | [bind_descriptor_set(descriptor_set)](/3d/python-net/aspose.threed.render/icommandlist/bind_descriptor_set/#IDescriptorSet) | Bind the descriptor set to current pipeline |
 
 
-### See Also
 
-* module [aspose.threed.render](../)
+### See Also
+* module [aspose.threed.render](..)

@@ -12,6 +12,15 @@ is_root: false
 
 
 Gets or sets the revision number of this asset, usually used in version control system.
+### Definition:
+```python
+@property
+def revision(self):
+    ...
+@revision.setter
+def revision(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed](../../)

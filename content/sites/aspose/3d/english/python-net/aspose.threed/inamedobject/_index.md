@@ -22,6 +22,6 @@ The INamedObject type exposes the following members:
 | [name](/3d/python-net/aspose.threed/inamedobject/name) | Gets the name of the object |
 
 
-### See Also
 
-* module [aspose.threed](../)
+### See Also
+* module [aspose.threed](..)

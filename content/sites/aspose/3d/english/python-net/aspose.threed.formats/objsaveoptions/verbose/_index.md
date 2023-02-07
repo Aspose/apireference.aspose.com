@@ -12,6 +12,15 @@ is_root: false
 
 
 Gets or sets whether generate comments for each section
+### Definition:
+```python
+@property
+def verbose(self):
+    ...
+@verbose.setter
+def verbose(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.formats](../../)

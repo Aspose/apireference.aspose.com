@@ -12,7 +12,17 @@ is_root: false
 
 
 Gets or sets the shader instance used for rendering the geometry.
+### Definition:
+```python
+@property
+def shader(self):
+    ...
+@shader.setter
+def shader(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.render](../../)
 * class [Renderer](/3d/python-net/aspose.threed.render/renderer)
+* class [ShaderProgram](/3d/python-net/aspose.threed.render/shaderprogram)

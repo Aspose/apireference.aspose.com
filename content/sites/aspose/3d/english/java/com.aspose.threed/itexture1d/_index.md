@@ -19,8 +19,8 @@ public interface ITexture1D extends ITextureUnit
 | Method | Description |
 | --- | --- |
 | [load(TextureData bitmap)](#load-com.aspose.threed.TextureData-) | Load texture content from specified Bitmap |
-| [save(String path, String format)](#save-java.lang.String-java.lang.String-) | Save the texture content to external file. |
 | [save(BufferedImage bitmap)](#save-java.awt.image.BufferedImage-) | Save the texture content to external file. |
+| [save(String path, String format)](#save-java.lang.String-java.lang.String-) | Save the texture content to external file. |
 | [toBitmap()](#toBitmap--) | Convert the texture unit to java.awt.image.BufferedImage instance |
 ### load(TextureData bitmap) {#load-com.aspose.threed.TextureData-}
 ```
@@ -35,6 +35,19 @@ Load texture content from specified Bitmap
 | --- | --- | --- |
 | bitmap | [TextureData](../../com.aspose.threed/texturedata) |  |
 
+### save(BufferedImage bitmap) {#save-java.awt.image.BufferedImage-}
+```
+public abstract void save(BufferedImage bitmap)
+```
+
+
+Save the texture content to external file.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| bitmap | java.awt.image.BufferedImage | Result bitmap to save. |
+
 ### save(String path, String format) {#save-java.lang.String-java.lang.String-}
 ```
 public abstract void save(String path, String format)
@@ -48,19 +61,6 @@ Save the texture content to external file.
 | --- | --- | --- |
 | path | java.lang.String | File name to save. |
 | format | java.lang.String | Image format |
-
-### save(BufferedImage bitmap) {#save-java.awt.image.BufferedImage-}
-```
-public abstract void save(BufferedImage bitmap)
-```
-
-
-Save the texture content to external file.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| bitmap | java.awt.image.BufferedImage | Result bitmap to save. |
 
 ### toBitmap() {#toBitmap--}
 ```

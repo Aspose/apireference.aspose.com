@@ -18,156 +18,52 @@ File format type
 
 | Field | Description |
 | --- | --- |
-| [MAYA](#MAYA) | Autodesk Maya format type |
-| [FBX](#FBX) | FBX file format type |
-| [STL](#STL) | STL file format type |
-| [WAVEFRONTOBJ](#WAVEFRONTOBJ) | Wavefront OBJ format type |
-| [DISCREET3DS](#DISCREET3DS) | Discreet 3D Studio's file format |
-| [COLLADA](#COLLADA) | Khronos Group's Collada file format. |
-| [UNIVERSAL3D](#UNIVERSAL3D) | Universal 3D file format type |
-| [PDF](#PDF) | Portable Document Format |
-| [GLTF](#GLTF) | Khronos Group's glTF |
-| [DXF](#DXF) | AutoCAD DXF |
-| [PLY](#PLY) | Polygon File Format or Stanford Triangle Format |
-| [X](#X) | DirectX's X File |
-| [DRACO](#DRACO) | Google Draco Mesh |
-| [MICROSOFT3MF](#MICROSOFT3MF) | 3D Manufacturing Format |
-| [RVM](#RVM) | AVEVA Plant Design Management System Model. |
-| [ASE](#ASE) | 3D Studio Max's ASCII Scene Exporter format. |
-| [ZIP](#ZIP) | Zip archive that contains other 3d file format. |
-| [USD](#USD) | Universal Scene Description |
-| [PCD](#PCD) | Point Cloud Data used by Point Cloud Library |
-| [XYZ](#XYZ) | Xyz point cloud file |
-| [SIEMENSJT](#SIEMENSJT) | Siemens PLM Software NX's JT File |
 | [AMF](#AMF) | Additive manufacturing file format |
-| [VRML](#VRML) | The Virtual Reality Modeling Language |
-| [HTML5](#HTML5) | HTML5 File |
+| [ASE](#ASE) | 3D Studio Max's ASCII Scene Exporter format. |
 | [ASPOSE3D_WEB](#ASPOSE3D-WEB) | Aspose.3D Web format. |
+| [COLLADA](#COLLADA) | Khronos Group's Collada file format. |
+| [DISCREET3DS](#DISCREET3DS) | Discreet 3D Studio's file format |
+| [DRACO](#DRACO) | Google Draco Mesh |
+| [DXF](#DXF) | AutoCAD DXF |
+| [FBX](#FBX) | FBX file format type |
+| [GLTF](#GLTF) | Khronos Group's glTF |
+| [HTML5](#HTML5) | HTML5 File |
+| [MAYA](#MAYA) | Autodesk Maya format type |
+| [MICROSOFT3MF](#MICROSOFT3MF) | 3D Manufacturing Format |
+| [PCD](#PCD) | Point Cloud Data used by Point Cloud Library |
+| [PDF](#PDF) | Portable Document Format |
+| [PLY](#PLY) | Polygon File Format or Stanford Triangle Format |
+| [RVM](#RVM) | AVEVA Plant Design Management System Model. |
+| [SIEMENSJT](#SIEMENSJT) | Siemens PLM Software NX's JT File |
+| [STL](#STL) | STL file format type |
+| [UNIVERSAL3D](#UNIVERSAL3D) | Universal 3D file format type |
+| [USD](#USD) | Universal Scene Description |
+| [VRML](#VRML) | The Virtual Reality Modeling Language |
+| [WAVEFRONTOBJ](#WAVEFRONTOBJ) | Wavefront OBJ format type |
+| [X](#X) | DirectX's X File |
+| [XYZ](#XYZ) | Xyz point cloud file |
+| [ZIP](#ZIP) | Zip archive that contains other 3d file format. |
 ## Methods
 
 | Method | Description |
 | --- | --- |
+| [equals(Object arg0)](#equals-java.lang.Object-) |  |
+| [getClass()](#getClass--) |  |
 | [getExtension()](#getExtension--) | The extension name of this file format, started with . |
+| [hashCode()](#hashCode--) |  |
+| [notify()](#notify--) |  |
+| [notifyAll()](#notifyAll--) |  |
 | [toString()](#toString--) | Get the name of this file format type |
-### MAYA {#MAYA}
+| [wait()](#wait--) |  |
+| [wait(long arg0)](#wait-long-) |  |
+| [wait(long arg0, int arg1)](#wait-long-int-) |  |
+### AMF {#AMF}
 ```
-public static final FileFormatType MAYA
-```
-
-
-Autodesk Maya format type
-
-### FBX {#FBX}
-```
-public static final FileFormatType FBX
+public static final FileFormatType AMF
 ```
 
 
-FBX file format type
-
-### STL {#STL}
-```
-public static final FileFormatType STL
-```
-
-
-STL file format type
-
-### WAVEFRONTOBJ {#WAVEFRONTOBJ}
-```
-public static final FileFormatType WAVEFRONTOBJ
-```
-
-
-Wavefront OBJ format type
-
-### DISCREET3DS {#DISCREET3DS}
-```
-public static final FileFormatType DISCREET3DS
-```
-
-
-Discreet 3D Studio's file format
-
-### COLLADA {#COLLADA}
-```
-public static final FileFormatType COLLADA
-```
-
-
-Khronos Group's Collada file format.
-
-### UNIVERSAL3D {#UNIVERSAL3D}
-```
-public static final FileFormatType UNIVERSAL3D
-```
-
-
-Universal 3D file format type
-
-### PDF {#PDF}
-```
-public static final FileFormatType PDF
-```
-
-
-Portable Document Format
-
-### GLTF {#GLTF}
-```
-public static final FileFormatType GLTF
-```
-
-
-Khronos Group's glTF
-
-### DXF {#DXF}
-```
-public static final FileFormatType DXF
-```
-
-
-AutoCAD DXF
-
-### PLY {#PLY}
-```
-public static final FileFormatType PLY
-```
-
-
-Polygon File Format or Stanford Triangle Format
-
-### X {#X}
-```
-public static final FileFormatType X
-```
-
-
-DirectX's X File
-
-### DRACO {#DRACO}
-```
-public static final FileFormatType DRACO
-```
-
-
-Google Draco Mesh
-
-### MICROSOFT3MF {#MICROSOFT3MF}
-```
-public static final FileFormatType MICROSOFT3MF
-```
-
-
-3D Manufacturing Format
-
-### RVM {#RVM}
-```
-public static final FileFormatType RVM
-```
-
-
-AVEVA Plant Design Management System Model.
+Additive manufacturing file format
 
 ### ASE {#ASE}
 ```
@@ -177,61 +73,61 @@ public static final FileFormatType ASE
 
 3D Studio Max's ASCII Scene Exporter format.
 
-### ZIP {#ZIP}
+### ASPOSE3D_WEB {#ASPOSE3D-WEB}
 ```
-public static final FileFormatType ZIP
-```
-
-
-Zip archive that contains other 3d file format.
-
-### USD {#USD}
-```
-public static final FileFormatType USD
+public static final FileFormatType ASPOSE3D_WEB
 ```
 
 
-Universal Scene Description
+Aspose.3D Web format.
 
-### PCD {#PCD}
+### COLLADA {#COLLADA}
 ```
-public static final FileFormatType PCD
-```
-
-
-Point Cloud Data used by Point Cloud Library
-
-### XYZ {#XYZ}
-```
-public static final FileFormatType XYZ
+public static final FileFormatType COLLADA
 ```
 
 
-Xyz point cloud file
+Khronos Group's Collada file format.
 
-### SIEMENSJT {#SIEMENSJT}
+### DISCREET3DS {#DISCREET3DS}
 ```
-public static final FileFormatType SIEMENSJT
-```
-
-
-Siemens PLM Software NX's JT File
-
-### AMF {#AMF}
-```
-public static final FileFormatType AMF
+public static final FileFormatType DISCREET3DS
 ```
 
 
-Additive manufacturing file format
+Discreet 3D Studio's file format
 
-### VRML {#VRML}
+### DRACO {#DRACO}
 ```
-public static final FileFormatType VRML
+public static final FileFormatType DRACO
 ```
 
 
-The Virtual Reality Modeling Language
+Google Draco Mesh
+
+### DXF {#DXF}
+```
+public static final FileFormatType DXF
+```
+
+
+AutoCAD DXF
+
+### FBX {#FBX}
+```
+public static final FileFormatType FBX
+```
+
+
+FBX file format type
+
+### GLTF {#GLTF}
+```
+public static final FileFormatType GLTF
+```
+
+
+Khronos Group's glTF
 
 ### HTML5 {#HTML5}
 ```
@@ -241,14 +137,151 @@ public static final FileFormatType HTML5
 
 HTML5 File
 
-### ASPOSE3D_WEB {#ASPOSE3D-WEB}
+### MAYA {#MAYA}
 ```
-public static final FileFormatType ASPOSE3D_WEB
+public static final FileFormatType MAYA
 ```
 
 
-Aspose.3D Web format.
+Autodesk Maya format type
 
+### MICROSOFT3MF {#MICROSOFT3MF}
+```
+public static final FileFormatType MICROSOFT3MF
+```
+
+
+3D Manufacturing Format
+
+### PCD {#PCD}
+```
+public static final FileFormatType PCD
+```
+
+
+Point Cloud Data used by Point Cloud Library
+
+### PDF {#PDF}
+```
+public static final FileFormatType PDF
+```
+
+
+Portable Document Format
+
+### PLY {#PLY}
+```
+public static final FileFormatType PLY
+```
+
+
+Polygon File Format or Stanford Triangle Format
+
+### RVM {#RVM}
+```
+public static final FileFormatType RVM
+```
+
+
+AVEVA Plant Design Management System Model.
+
+### SIEMENSJT {#SIEMENSJT}
+```
+public static final FileFormatType SIEMENSJT
+```
+
+
+Siemens PLM Software NX's JT File
+
+### STL {#STL}
+```
+public static final FileFormatType STL
+```
+
+
+STL file format type
+
+### UNIVERSAL3D {#UNIVERSAL3D}
+```
+public static final FileFormatType UNIVERSAL3D
+```
+
+
+Universal 3D file format type
+
+### USD {#USD}
+```
+public static final FileFormatType USD
+```
+
+
+Universal Scene Description
+
+### VRML {#VRML}
+```
+public static final FileFormatType VRML
+```
+
+
+The Virtual Reality Modeling Language
+
+### WAVEFRONTOBJ {#WAVEFRONTOBJ}
+```
+public static final FileFormatType WAVEFRONTOBJ
+```
+
+
+Wavefront OBJ format type
+
+### X {#X}
+```
+public static final FileFormatType X
+```
+
+
+DirectX's X File
+
+### XYZ {#XYZ}
+```
+public static final FileFormatType XYZ
+```
+
+
+Xyz point cloud file
+
+### ZIP {#ZIP}
+```
+public static final FileFormatType ZIP
+```
+
+
+Zip archive that contains other 3d file format.
+
+### equals(Object arg0) {#equals-java.lang.Object-}
+```
+public boolean equals(Object arg0)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | java.lang.Object |  |
+
+**Returns:**
+boolean
+### getClass() {#getClass--}
+```
+public final native Class<?> getClass()
+```
+
+
+
+
+**Returns:**
+java.lang.Class<?>
 ### getExtension() {#getExtension--}
 ```
 public String getExtension()
@@ -259,6 +292,32 @@ The extension name of this file format, started with .
 
 **Returns:**
 java.lang.String
+### hashCode() {#hashCode--}
+```
+public native int hashCode()
+```
+
+
+
+
+**Returns:**
+int
+### notify() {#notify--}
+```
+public final native void notify()
+```
+
+
+
+
+### notifyAll() {#notifyAll--}
+```
+public final native void notifyAll()
+```
+
+
+
+
 ### toString() {#toString--}
 ```
 public String toString()
@@ -268,4 +327,39 @@ public String toString()
 Get the name of this file format type
 
 **Returns:**
-java.lang.String - A java.lang.String that represents the current com.aspose.threed.FileFormatType\#toString.
+java.lang.String - A java.lang.String that represents the current [toString](../../com.aspose.threed/fileformattype\#toString).
+### wait() {#wait--}
+```
+public final void wait()
+```
+
+
+
+
+### wait(long arg0) {#wait-long-}
+```
+public final native void wait(long arg0)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+
+### wait(long arg0, int arg1) {#wait-long-int-}
+```
+public final void wait(long arg0, int arg1)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+| arg1 | int |  |
+

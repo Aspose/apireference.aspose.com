@@ -12,7 +12,17 @@ is_root: false
 
 
 Gets or sets the next in(left) tangent on this key frame.
+### Definition:
+```python
+@property
+def next_in_tangent(self):
+    ...
+@next_in_tangent.setter
+def next_in_tangent(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.animation](../../)
 * class [KeyFrame](/3d/python-net/aspose.threed.animation/keyframe)
+* class [Vector2](/3d/python-net/aspose.threed.utilities/vector2)

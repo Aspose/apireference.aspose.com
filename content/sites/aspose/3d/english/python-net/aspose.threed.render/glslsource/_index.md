@@ -42,7 +42,8 @@ The GLSLSource type exposes the following members:
 | [define_include(file_name, content)](/3d/python-net/aspose.threed.render/glslsource/define_include/#str-str) | Define virtual file for #include in GLSL source code |
 
 
-### See Also
 
-* module [aspose.threed.render](../)
+### See Also
+* module [aspose.threed.render](..)
+* class [GLSLSource](/3d/python-net/aspose.threed.render/glslsource)
 * class [ShaderSource](/3d/python-net/aspose.threed.render/shadersource)

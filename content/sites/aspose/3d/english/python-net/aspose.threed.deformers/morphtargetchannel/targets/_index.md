@@ -12,6 +12,12 @@ is_root: false
 
 
 Gets all targets associated with the channel.
+### Definition:
+```python
+@property
+def targets(self):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.deformers](../../)

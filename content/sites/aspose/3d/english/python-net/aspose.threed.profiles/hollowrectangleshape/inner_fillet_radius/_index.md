@@ -12,6 +12,15 @@ is_root: false
 
 
 The inner fillet radius of the inner rectangle.
+### Definition:
+```python
+@property
+def inner_fillet_radius(self):
+    ...
+@inner_fillet_radius.setter
+def inner_fillet_radius(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.profiles](../../)

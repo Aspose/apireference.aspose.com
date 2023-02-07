@@ -12,6 +12,15 @@ is_root: false
 
 
 The format of the duplicated counter, default value is empty string.
+### Definition:
+```python
+@property
+def duplicated_name_counter_format(self):
+    ...
+@duplicated_name_counter_format.setter
+def duplicated_name_counter_format(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.formats](../../)

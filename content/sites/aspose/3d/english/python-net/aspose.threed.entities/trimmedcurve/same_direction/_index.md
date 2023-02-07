@@ -12,6 +12,15 @@ is_root: false
 
 
 Gets or sets whether the trimmed result uses the same direction of the basis curve.
+### Definition:
+```python
+@property
+def same_direction(self):
+    ...
+@same_direction.setter
+def same_direction(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.entities](../../)

@@ -29,8 +29,8 @@ The BoundingBox2D type exposes the following members:
 | [extent](/3d/python-net/aspose.threed.utilities/boundingbox2d/extent) | Gets the extent of the bounding box. |
 | [minimum](/3d/python-net/aspose.threed.utilities/boundingbox2d/minimum) | The minimum corner of the bounding box |
 | [maximum](/3d/python-net/aspose.threed.utilities/boundingbox2d/maximum) | The maximum corner of the bounding box |
-| [NULL](/3d/python-net/aspose.threed.utilities/boundingbox2d/NULL) | The null bounding box |
-| [INFINITE](/3d/python-net/aspose.threed.utilities/boundingbox2d/INFINITE) | The infinite bounding box |
+| [NULL](/3d/python-net/aspose.threed.utilities/boundingbox2d/null) | The null bounding box |
+| [INFINITE](/3d/python-net/aspose.threed.utilities/boundingbox2d/infinite) | The infinite bounding box |
 
 
 ### Methods
@@ -40,6 +40,7 @@ The BoundingBox2D type exposes the following members:
 | [merge(bb)](/3d/python-net/aspose.threed.utilities/boundingbox2d/merge/#BoundingBox2D) | Merges the new box into the current bounding box. |
 
 
-### See Also
 
-* module [aspose.threed.utilities](../)
+### See Also
+* module [aspose.threed.utilities](..)
+* class [Vector2](/3d/python-net/aspose.threed.utilities/vector2)

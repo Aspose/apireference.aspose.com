@@ -12,6 +12,12 @@ is_root: false
 
 
 Gets the vertex data
+### Definition:
+```python
+@property
+def data(self):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.entities](../../)

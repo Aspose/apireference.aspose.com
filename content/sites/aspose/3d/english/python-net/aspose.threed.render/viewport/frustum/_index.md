@@ -12,7 +12,17 @@ is_root: false
 
 
 Gets or sets the camera of this [Viewport](/3d/python-net/aspose.threed.render/viewport)
+### Definition:
+```python
+@property
+def frustum(self):
+    ...
+@frustum.setter
+def frustum(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.render](../../)
+* class [Frustum](/3d/python-net/aspose.threed.entities/frustum)
 * class [Viewport](/3d/python-net/aspose.threed.render/viewport)

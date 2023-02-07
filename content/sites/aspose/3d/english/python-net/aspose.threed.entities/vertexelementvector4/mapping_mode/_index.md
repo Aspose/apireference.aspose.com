@@ -12,7 +12,17 @@ is_root: false
 
 
 Gets or sets how the element is mapped.
+### Definition:
+```python
+@property
+def mapping_mode(self):
+    ...
+@mapping_mode.setter
+def mapping_mode(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.entities](../../)
+* class [MappingMode](/3d/python-net/aspose.threed.entities/mappingmode)
 * class [VertexElementVector4](/3d/python-net/aspose.threed.entities/vertexelementvector4)

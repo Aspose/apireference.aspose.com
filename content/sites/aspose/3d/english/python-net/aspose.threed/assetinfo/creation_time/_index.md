@@ -12,6 +12,15 @@ is_root: false
 
 
 Gets or Sets the creation time of this asset
+### Definition:
+```python
+@property
+def creation_time(self):
+    ...
+@creation_time.setter
+def creation_time(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed](../../)

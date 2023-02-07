@@ -12,6 +12,15 @@ is_root: false
 
 
 Enable or disable cull face
+### Definition:
+```python
+@property
+def cull_face(self):
+    ...
+@cull_face.setter
+def cull_face(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.render](../../)

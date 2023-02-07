@@ -13,6 +13,15 @@ is_root: false
 
 Display a simple UI in the scene.
 Default value is true.
+### Definition:
+```python
+@property
+def show_ui(self):
+    ...
+@show_ui.setter
+def show_ui(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.formats](../../)

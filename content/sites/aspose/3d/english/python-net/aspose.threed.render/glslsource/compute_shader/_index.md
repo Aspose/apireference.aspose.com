@@ -12,6 +12,15 @@ is_root: false
 
 
 Gets or sets the source code of the compute shader.
+### Definition:
+```python
+@property
+def compute_shader(self):
+    ...
+@compute_shader.setter
+def compute_shader(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.render](../../)

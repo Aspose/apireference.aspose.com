@@ -12,6 +12,12 @@ is_root: false
 
 
 Gets the identity matrix.
+### Definition:
+```python
+@property
+def identity(self):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.utilities](../../)

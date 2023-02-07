@@ -12,6 +12,12 @@ is_root: false
 
 
 Gets all deformers associated with this geometry.
+### Definition:
+```python
+@property
+def deformers(self):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.entities](../../)

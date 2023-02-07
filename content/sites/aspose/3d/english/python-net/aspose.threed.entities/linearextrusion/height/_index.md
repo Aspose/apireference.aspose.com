@@ -12,6 +12,15 @@ is_root: false
 
 
 The height of the extruded geometry, default value is 1.0
+### Definition:
+```python
+@property
+def height(self):
+    ...
+@height.setter
+def height(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.entities](../../)

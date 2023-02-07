@@ -3,7 +3,7 @@ title: count property
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 50
+weight: 60
 url: /python-net/aspose.threed/propertycollection/count/
 is_root: false
 ---
@@ -12,6 +12,12 @@ is_root: false
 
 
 Gets the count of declared properties.
+### Definition:
+```python
+@property
+def count(self):
+    ...
+```
 
 ### See Also
 * module [aspose.threed](../../)

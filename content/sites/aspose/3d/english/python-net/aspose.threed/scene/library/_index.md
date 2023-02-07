@@ -13,6 +13,12 @@ is_root: false
 
 Objects that not directly used in scene hierarchy can be defined in Library.
 This is useful when you're using sub-scenes and put reusable components under sub-scenes.
+### Definition:
+```python
+@property
+def library(self):
+    ...
+```
 
 ### See Also
 * module [aspose.threed](../../)

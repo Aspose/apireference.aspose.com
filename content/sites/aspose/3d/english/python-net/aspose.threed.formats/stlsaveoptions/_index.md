@@ -40,7 +40,9 @@ The StlSaveOptions type exposes the following members:
 | [flip_coordinate_system](/3d/python-net/aspose.threed.formats/stlsaveoptions/flip_coordinate_system) | Gets or sets whether flip coordinate system of control points/normal during exporting. |
 
 
-### See Also
 
-* module [aspose.threed.formats](../)
+### See Also
+* module [aspose.threed.formats](..)
+* class [IOConfig](/3d/python-net/aspose.threed.formats/ioconfig)
 * class [SaveOptions](/3d/python-net/aspose.threed.formats/saveoptions)
+* class [StlSaveOptions](/3d/python-net/aspose.threed.formats/stlsaveoptions)

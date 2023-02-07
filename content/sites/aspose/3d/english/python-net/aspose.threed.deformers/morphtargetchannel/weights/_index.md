@@ -12,6 +12,12 @@ is_root: false
 
 
 Gets the full weight values of target geometries.
+### Definition:
+```python
+@property
+def weights(self):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.deformers](../../)

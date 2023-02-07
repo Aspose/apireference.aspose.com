@@ -12,6 +12,15 @@ is_root: false
 
 
 The counter used by generating new name for duplicated names, default value is 2.
+### Definition:
+```python
+@property
+def duplicated_name_counter_base(self):
+    ...
+@duplicated_name_counter_base.setter
+def duplicated_name_counter_base(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.formats](../../)

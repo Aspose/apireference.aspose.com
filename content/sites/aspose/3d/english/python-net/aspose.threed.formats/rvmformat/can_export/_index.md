@@ -26,8 +26,12 @@ format = FileFormat.get_format_by_extension(outputFormat)
 if format.can_export:
     print(f"Can export to {outputFormat}")
 
-
-
+```
+### Definition:
+```python
+@property
+def can_export(self):
+    ...
 ```
 
 ### See Also

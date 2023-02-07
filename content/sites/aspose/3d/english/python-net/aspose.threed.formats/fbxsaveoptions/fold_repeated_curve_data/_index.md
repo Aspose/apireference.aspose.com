@@ -12,6 +12,15 @@ is_root: false
 
 
 Gets or sets whether reuse repeated curve data by increasing last data's ref count
+### Definition:
+```python
+@property
+def fold_repeated_curve_data(self):
+    ...
+@fold_repeated_curve_data.setter
+def fold_repeated_curve_data(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.formats](../../)

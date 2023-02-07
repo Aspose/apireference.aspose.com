@@ -12,6 +12,12 @@ is_root: false
 
 
 Number of bytes of a pixel
+### Definition:
+```python
+@property
+def bytes_per_pixel(self):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.render](../../)

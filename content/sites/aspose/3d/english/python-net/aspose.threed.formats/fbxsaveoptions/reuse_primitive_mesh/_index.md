@@ -13,6 +13,15 @@ is_root: false
 
 Reuse the mesh for the primitives with same parameters, this will significantly reduce the size of FBX output which scene was constructed by large set of primitive shapes(like imported from CAD files).
 Default value is false
+### Definition:
+```python
+@property
+def reuse_primitive_mesh(self):
+    ...
+@reuse_primitive_mesh.setter
+def reuse_primitive_mesh(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.formats](../../)

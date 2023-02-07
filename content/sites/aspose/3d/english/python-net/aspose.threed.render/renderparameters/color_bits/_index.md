@@ -12,6 +12,15 @@ is_root: false
 
 
 Gets or sets how many bits will be used by color buffer.
+### Definition:
+```python
+@property
+def color_bits(self):
+    ...
+@color_bits.setter
+def color_bits(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.render](../../)

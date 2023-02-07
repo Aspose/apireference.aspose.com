@@ -23,6 +23,6 @@ The ComposeOrder type exposes the following members:
 | PREPEND | Prepend the new transform to the chain |
 
 
-### See Also
 
-* module [aspose.threed.utilities](../)
+### See Also
+* module [aspose.threed.utilities](..)

@@ -12,7 +12,17 @@ is_root: false
 
 
 Gets or sets the type of the skeleton.
+### Definition:
+```python
+@property
+def type(self):
+    ...
+@type.setter
+def type(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.entities](../../)
 * class [Skeleton](/3d/python-net/aspose.threed.entities/skeleton)
+* class [SkeletonType](/3d/python-net/aspose.threed.entities/skeletontype)

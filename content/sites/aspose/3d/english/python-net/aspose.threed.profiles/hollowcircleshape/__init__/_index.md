@@ -25,4 +25,5 @@ def __init__(self):
 
 ### See Also
 * module [aspose.threed.profiles](../../)
+* class [CircleShape](/3d/python-net/aspose.threed.profiles/circleshape)
 * class [HollowCircleShape](/3d/python-net/aspose.threed.profiles/hollowcircleshape)

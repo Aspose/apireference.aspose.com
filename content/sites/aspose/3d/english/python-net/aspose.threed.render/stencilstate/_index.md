@@ -25,6 +25,6 @@ The StencilState type exposes the following members:
 | [pass_action](/3d/python-net/aspose.threed.render/stencilstate/pass_action) | Gets or sets the stencil action when both stencil test and depth test passes. |
 
 
-### See Also
 
-* module [aspose.threed.render](../)
+### See Also
+* module [aspose.threed.render](..)

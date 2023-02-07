@@ -61,7 +61,10 @@ The LinearExtrusion type exposes the following members:
 | [to_mesh()](/3d/python-net/aspose.threed.entities/linearextrusion/to_mesh/#) | Convert the extrusion to mesh. |
 
 
-### See Also
 
-* module [aspose.threed.entities](../)
-* class [Entity](/3d/python-net/aspose.threed.entities/entity)
+### See Also
+* module [aspose.threed.entities](..)
+* class [A3DObject](/3d/python-net/aspose.threed/a3dobject)
+* class [Entity](/3d/python-net/aspose.threed/entity)
+* class [LinearExtrusion](/3d/python-net/aspose.threed.entities/linearextrusion)
+* class [SceneObject](/3d/python-net/aspose.threed/sceneobject)

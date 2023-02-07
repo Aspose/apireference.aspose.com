@@ -13,6 +13,15 @@ is_root: false
 
 Export meta data associated with Scene/Node to client
 Default value is true
+### Definition:
+```python
+@property
+def export_meta_data(self):
+    ...
+@export_meta_data.setter
+def export_meta_data(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.formats](../../)

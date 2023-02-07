@@ -12,6 +12,12 @@ is_root: false
 
 
 Time in seconds
+### Definition:
+```python
+@property
+def world_time(self):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.render](../../)

@@ -12,6 +12,15 @@ is_root: false
 
 
 Radius on Y-axis
+### Definition:
+```python
+@property
+def semi_axis2(self):
+    ...
+@semi_axis2.setter
+def semi_axis2(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.entities](../../)

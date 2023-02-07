@@ -12,7 +12,17 @@ is_root: false
 
 
 Gets or sets the type of the curve.
+### Definition:
+```python
+@property
+def curve_type(self):
+    ...
+@curve_type.setter
+def curve_type(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.entities](../../)
 * class [NurbsCurve](/3d/python-net/aspose.threed.entities/nurbscurve)
+* class [NurbsType](/3d/python-net/aspose.threed.entities/nurbstype)

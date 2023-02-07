@@ -12,6 +12,15 @@ is_root: false
 
 
 Maximum descriptor sets, default value is 10
+### Definition:
+```python
+@property
+def maximum_descriptor_sets(self):
+    ...
+@maximum_descriptor_sets.setter
+def maximum_descriptor_sets(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.render](../../)

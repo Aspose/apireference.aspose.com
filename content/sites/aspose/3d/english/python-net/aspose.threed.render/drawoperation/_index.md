@@ -27,6 +27,6 @@ The DrawOperation type exposes the following members:
 | TRIANGLE_FAN | Triangle fan |
 
 
-### See Also
 
-* module [aspose.threed.render](../)
+### See Also
+* module [aspose.threed.render](..)

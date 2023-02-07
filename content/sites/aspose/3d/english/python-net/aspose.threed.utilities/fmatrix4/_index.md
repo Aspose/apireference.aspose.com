@@ -44,7 +44,7 @@ The FMatrix4 type exposes the following members:
 | [m31](/3d/python-net/aspose.threed.utilities/fmatrix4/m31) | The m31. |
 | [m32](/3d/python-net/aspose.threed.utilities/fmatrix4/m32) | The m32. |
 | [m33](/3d/python-net/aspose.threed.utilities/fmatrix4/m33) | The m33. |
-| [IDENTITY](/3d/python-net/aspose.threed.utilities/fmatrix4/IDENTITY) | The identity matrix |
+| [IDENTITY](/3d/python-net/aspose.threed.utilities/fmatrix4/identity) | The identity matrix |
 
 
 ### Methods
@@ -56,6 +56,8 @@ The FMatrix4 type exposes the following members:
 | [inverse()](/3d/python-net/aspose.threed.utilities/fmatrix4/inverse/#) | Calculate the inverse matrix of current instance. |
 
 
-### See Also
 
-* module [aspose.threed.utilities](../)
+### See Also
+* module [aspose.threed.utilities](..)
+* class [FMatrix4](/3d/python-net/aspose.threed.utilities/fmatrix4)
+* class [Matrix4](/3d/python-net/aspose.threed.utilities/matrix4)

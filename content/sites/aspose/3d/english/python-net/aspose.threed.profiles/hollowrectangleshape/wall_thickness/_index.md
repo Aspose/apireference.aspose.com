@@ -12,6 +12,15 @@ is_root: false
 
 
 The thickness between the boundary of the rectangle and the inner hole
+### Definition:
+```python
+@property
+def wall_thickness(self):
+    ...
+@wall_thickness.setter
+def wall_thickness(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.profiles](../../)

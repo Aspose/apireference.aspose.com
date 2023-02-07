@@ -13,6 +13,15 @@ is_root: false
 
 Gets or sets the V component if the [Vector2](/3d/python-net/aspose.threed.utilities/vector2) is used as a mapping coordinate.
 It's an alias of y component.
+### Definition:
+```python
+@property
+def v(self):
+    ...
+@v.setter
+def v(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.utilities](../../)

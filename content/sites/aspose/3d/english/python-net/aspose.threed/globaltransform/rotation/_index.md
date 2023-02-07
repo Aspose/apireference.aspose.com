@@ -24,7 +24,14 @@ tr = scene.root_node.global_transform
 print(f"Rotation = {tr.rotation}")
 
 ```
+### Definition:
+```python
+@property
+def rotation(self):
+    ...
+```
 
 ### See Also
 * module [aspose.threed](../../)
 * class [GlobalTransform](/3d/python-net/aspose.threed/globaltransform)
+* class [Quaternion](/3d/python-net/aspose.threed.utilities/quaternion)

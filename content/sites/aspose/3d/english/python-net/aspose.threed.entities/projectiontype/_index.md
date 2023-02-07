@@ -23,6 +23,6 @@ The ProjectionType type exposes the following members:
 | ORTHOGRAPHIC | The camera uses orthographic projection. |
 
 
-### See Also
 
-* module [aspose.threed.entities](../)
+### See Also
+* module [aspose.threed.entities](..)

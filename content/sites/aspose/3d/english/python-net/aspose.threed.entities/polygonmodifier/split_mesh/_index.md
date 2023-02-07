@@ -80,3 +80,4 @@ def split_mesh(self, node, policy, create_child_nodes, remove_old_mesh):
 ### See Also
 * module [aspose.threed.entities](../../)
 * class [PolygonModifier](/3d/python-net/aspose.threed.entities/polygonmodifier)
+* class [VertexElementMaterial](/3d/python-net/aspose.threed.entities/vertexelementmaterial)

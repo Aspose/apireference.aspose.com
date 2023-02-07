@@ -21,16 +21,16 @@ A float vector with three components.
 
 | Constructor | Description |
 | --- | --- |
-| [FVector3(float x, float y, float z)](#FVector3-float-float-float-) | Initializes a new instance of the com.aspose.threed.FVector3. |
-| [FVector3(Vector3 vec)](#FVector3-com.aspose.threed.Vector3-) | Initializes a new instance of the com.aspose.threed.FVector3. |
-| [FVector3(Vector4 vec)](#FVector3-com.aspose.threed.Vector4-) | Initializes a new instance of the com.aspose.threed.FVector4. |
+| [FVector3(float x, float y, float z)](#FVector3-float-float-float-) | Initializes a new instance of the [FVector3](../../com.aspose.threed/fvector3). |
+| [FVector3(Vector3 vec)](#FVector3-com.aspose.threed.Vector3-) | Initializes a new instance of the [FVector3](../../com.aspose.threed/fvector3). |
+| [FVector3(Vector4 vec)](#FVector3-com.aspose.threed.Vector4-) | Initializes a new instance of the [FVector4](../../com.aspose.threed/fvector4). |
 | [FVector3()](#FVector3--) |  |
 ## Fields
 
 | Field | Description |
 | --- | --- |
-| [ZERO](#ZERO) | The Zero vector. |
 | [UNIT_SCALE](#UNIT-SCALE) | The unit scale vector with all components are all 1 |
+| [ZERO](#ZERO) | The Zero vector. |
 | [x](#x) | The x component. |
 | [y](#y) | The y component. |
 | [z](#z) | The y component. |
@@ -38,25 +38,31 @@ A float vector with three components.
 
 | Method | Description |
 | --- | --- |
-| [create(FVector3 v)](#create-com.aspose.threed.FVector3-) | Explicit conversion operator to cast FVector3 to Vector3 |
-| [toString()](#toString--) | Returns a string that represents the com.aspose.threed.FVector3 |
-| [normalize()](#normalize--) | Normalizes this instance. |
-| [cross(FVector3 rhs)](#cross-com.aspose.threed.FVector3-) | Cross product of two vectors |
 | [add(FVector3 a, FVector3 b)](#add-com.aspose.threed.FVector3-com.aspose.threed.FVector3-) | \+ Operator overloading |
-| [negative(FVector3 a)](#negative-com.aspose.threed.FVector3-) | \- Operator overloading |
-| [sub(FVector3 a, FVector3 b)](#sub-com.aspose.threed.FVector3-com.aspose.threed.FVector3-) | \- Operator overloading |
-| [mul(FVector3 a, float b)](#mul-com.aspose.threed.FVector3-float-) | \* Operator overloading |
 | [clone()](#clone--) |  |
 | [copyFrom(FVector3 src)](#copyFrom-com.aspose.threed.FVector3-) |  |
-| [hashCode()](#hashCode--) |  |
+| [create(FVector3 v)](#create-com.aspose.threed.FVector3-) | Explicit conversion operator to cast FVector3 to Vector3 |
+| [cross(FVector3 rhs)](#cross-com.aspose.threed.FVector3-) | Cross product of two vectors |
 | [equals(Object obj)](#equals-java.lang.Object-) |  |
+| [getClass()](#getClass--) |  |
+| [hashCode()](#hashCode--) |  |
+| [mul(FVector3 a, float b)](#mul-com.aspose.threed.FVector3-float-) | \* Operator overloading |
+| [negative(FVector3 a)](#negative-com.aspose.threed.FVector3-) | \- Operator overloading |
+| [normalize()](#normalize--) | Normalizes this instance. |
+| [notify()](#notify--) |  |
+| [notifyAll()](#notifyAll--) |  |
+| [sub(FVector3 a, FVector3 b)](#sub-com.aspose.threed.FVector3-com.aspose.threed.FVector3-) | \- Operator overloading |
+| [toString()](#toString--) | Returns a string that represents the [FVector3](../../com.aspose.threed/fvector3) |
+| [wait()](#wait--) |  |
+| [wait(long arg0)](#wait-long-) |  |
+| [wait(long arg0, int arg1)](#wait-long-int-) |  |
 ### FVector3(float x, float y, float z) {#FVector3-float-float-float-}
 ```
 public FVector3(float x, float y, float z)
 ```
 
 
-Initializes a new instance of the com.aspose.threed.FVector3.
+Initializes a new instance of the [FVector3](../../com.aspose.threed/fvector3).
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -71,7 +77,7 @@ public FVector3(Vector3 vec)
 ```
 
 
-Initializes a new instance of the com.aspose.threed.FVector3.
+Initializes a new instance of the [FVector3](../../com.aspose.threed/fvector3).
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -84,7 +90,7 @@ public FVector3(Vector4 vec)
 ```
 
 
-Initializes a new instance of the com.aspose.threed.FVector4.
+Initializes a new instance of the [FVector4](../../com.aspose.threed/fvector4).
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -97,14 +103,6 @@ public FVector3()
 ```
 
 
-### ZERO {#ZERO}
-```
-public static final FVector3 ZERO
-```
-
-
-The Zero vector.
-
 ### UNIT_SCALE {#UNIT-SCALE}
 ```
 public static final FVector3 UNIT_SCALE
@@ -112,6 +110,14 @@ public static final FVector3 UNIT_SCALE
 
 
 The unit scale vector with all components are all 1
+
+### ZERO {#ZERO}
+```
+public static final FVector3 ZERO
+```
+
+
+The Zero vector.
 
 ### x {#x}
 ```
@@ -137,56 +143,6 @@ public float z
 
 The y component.
 
-### create(FVector3 v) {#create-com.aspose.threed.FVector3-}
-```
-public static Vector3 create(FVector3 v)
-```
-
-
-Explicit conversion operator to cast FVector3 to Vector3
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| v | [FVector3](../../com.aspose.threed/fvector3) |  |
-
-**Returns:**
-[Vector3](../../com.aspose.threed/vector3)
-### toString() {#toString--}
-```
-public String toString()
-```
-
-
-Returns a string that represents the com.aspose.threed.FVector3
-
-**Returns:**
-java.lang.String
-### normalize() {#normalize--}
-```
-public FVector3 normalize()
-```
-
-
-Normalizes this instance.
-
-**Returns:**
-[FVector3](../../com.aspose.threed/fvector3) - Normalized vector.
-### cross(FVector3 rhs) {#cross-com.aspose.threed.FVector3-}
-```
-public FVector3 cross(FVector3 rhs)
-```
-
-
-Cross product of two vectors
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| rhs | [FVector3](../../com.aspose.threed/fvector3) | Right hand side value. |
-
-**Returns:**
-[FVector3](../../com.aspose.threed/fvector3) - Cross product of two com.aspose.threed.FVector3s.
 ### add(FVector3 a, FVector3 b) {#add-com.aspose.threed.FVector3-com.aspose.threed.FVector3-}
 ```
 public static FVector3 add(FVector3 a, FVector3 b)
@@ -200,53 +156,6 @@ public static FVector3 add(FVector3 a, FVector3 b)
 | --- | --- | --- |
 | a | [FVector3](../../com.aspose.threed/fvector3) |  |
 | b | [FVector3](../../com.aspose.threed/fvector3) |  |
-
-**Returns:**
-[FVector3](../../com.aspose.threed/fvector3)
-### negative(FVector3 a) {#negative-com.aspose.threed.FVector3-}
-```
-public static FVector3 negative(FVector3 a)
-```
-
-
-\- Operator overloading
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| a | [FVector3](../../com.aspose.threed/fvector3) |  |
-
-**Returns:**
-[FVector3](../../com.aspose.threed/fvector3)
-### sub(FVector3 a, FVector3 b) {#sub-com.aspose.threed.FVector3-com.aspose.threed.FVector3-}
-```
-public static FVector3 sub(FVector3 a, FVector3 b)
-```
-
-
-\- Operator overloading
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| a | [FVector3](../../com.aspose.threed/fvector3) |  |
-| b | [FVector3](../../com.aspose.threed/fvector3) |  |
-
-**Returns:**
-[FVector3](../../com.aspose.threed/fvector3)
-### mul(FVector3 a, float b) {#mul-com.aspose.threed.FVector3-float-}
-```
-public static FVector3 mul(FVector3 a, float b)
-```
-
-
-\* Operator overloading
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| a | [FVector3](../../com.aspose.threed/fvector3) |  |
-| b | float |  |
 
 **Returns:**
 [FVector3](../../com.aspose.threed/fvector3)
@@ -273,16 +182,36 @@ public void copyFrom(FVector3 src)
 | --- | --- | --- |
 | src | [FVector3](../../com.aspose.threed/fvector3) |  |
 
-### hashCode() {#hashCode--}
+### create(FVector3 v) {#create-com.aspose.threed.FVector3-}
 ```
-public int hashCode()
+public static Vector3 create(FVector3 v)
 ```
 
 
+Explicit conversion operator to cast FVector3 to Vector3
 
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| v | [FVector3](../../com.aspose.threed/fvector3) |  |
 
 **Returns:**
-int
+[Vector3](../../com.aspose.threed/vector3)
+### cross(FVector3 rhs) {#cross-com.aspose.threed.FVector3-}
+```
+public FVector3 cross(FVector3 rhs)
+```
+
+
+Cross product of two vectors
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| rhs | [FVector3](../../com.aspose.threed/fvector3) | Right hand side value. |
+
+**Returns:**
+[FVector3](../../com.aspose.threed/fvector3) - Cross product of two [FVector3](../../com.aspose.threed/fvector3)s.
 ### equals(Object obj) {#equals-java.lang.Object-}
 ```
 public boolean equals(Object obj)
@@ -298,3 +227,141 @@ public boolean equals(Object obj)
 
 **Returns:**
 boolean
+### getClass() {#getClass--}
+```
+public final native Class<?> getClass()
+```
+
+
+
+
+**Returns:**
+java.lang.Class<?>
+### hashCode() {#hashCode--}
+```
+public int hashCode()
+```
+
+
+
+
+**Returns:**
+int
+### mul(FVector3 a, float b) {#mul-com.aspose.threed.FVector3-float-}
+```
+public static FVector3 mul(FVector3 a, float b)
+```
+
+
+\* Operator overloading
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| a | [FVector3](../../com.aspose.threed/fvector3) |  |
+| b | float |  |
+
+**Returns:**
+[FVector3](../../com.aspose.threed/fvector3)
+### negative(FVector3 a) {#negative-com.aspose.threed.FVector3-}
+```
+public static FVector3 negative(FVector3 a)
+```
+
+
+\- Operator overloading
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| a | [FVector3](../../com.aspose.threed/fvector3) |  |
+
+**Returns:**
+[FVector3](../../com.aspose.threed/fvector3)
+### normalize() {#normalize--}
+```
+public FVector3 normalize()
+```
+
+
+Normalizes this instance.
+
+**Returns:**
+[FVector3](../../com.aspose.threed/fvector3) - Normalized vector.
+### notify() {#notify--}
+```
+public final native void notify()
+```
+
+
+
+
+### notifyAll() {#notifyAll--}
+```
+public final native void notifyAll()
+```
+
+
+
+
+### sub(FVector3 a, FVector3 b) {#sub-com.aspose.threed.FVector3-com.aspose.threed.FVector3-}
+```
+public static FVector3 sub(FVector3 a, FVector3 b)
+```
+
+
+\- Operator overloading
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| a | [FVector3](../../com.aspose.threed/fvector3) |  |
+| b | [FVector3](../../com.aspose.threed/fvector3) |  |
+
+**Returns:**
+[FVector3](../../com.aspose.threed/fvector3)
+### toString() {#toString--}
+```
+public String toString()
+```
+
+
+Returns a string that represents the [FVector3](../../com.aspose.threed/fvector3)
+
+**Returns:**
+java.lang.String
+### wait() {#wait--}
+```
+public final void wait()
+```
+
+
+
+
+### wait(long arg0) {#wait-long-}
+```
+public final native void wait(long arg0)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+
+### wait(long arg0, int arg1) {#wait-long-int-}
+```
+public final void wait(long arg0, int arg1)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+| arg1 | int |  |
+

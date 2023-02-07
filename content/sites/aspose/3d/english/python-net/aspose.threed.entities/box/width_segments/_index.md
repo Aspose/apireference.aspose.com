@@ -12,6 +12,15 @@ is_root: false
 
 
 Gets or sets the width segments
+### Definition:
+```python
+@property
+def width_segments(self):
+    ...
+@width_segments.setter
+def width_segments(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.entities](../../)

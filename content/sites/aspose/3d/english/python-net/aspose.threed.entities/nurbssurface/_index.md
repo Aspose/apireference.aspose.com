@@ -72,7 +72,13 @@ The NurbsSurface type exposes the following members:
 | [to_mesh()](/3d/python-net/aspose.threed.entities/nurbssurface/to_mesh/#) | Convert the NURBS surface to the mesh |
 
 
-### See Also
 
-* module [aspose.threed.entities](../)
+### See Also
+* module [aspose.threed.entities](..)
+* class [A3DObject](/3d/python-net/aspose.threed/a3dobject)
+* class [Entity](/3d/python-net/aspose.threed/entity)
 * class [Geometry](/3d/python-net/aspose.threed.entities/geometry)
+* class [NurbsDirection](/3d/python-net/aspose.threed.entities/nurbsdirection)
+* class [NurbsSurface](/3d/python-net/aspose.threed.entities/nurbssurface)
+* class [SceneObject](/3d/python-net/aspose.threed/sceneobject)
+* class [VertexElementUV](/3d/python-net/aspose.threed.entities/vertexelementuv)

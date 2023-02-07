@@ -46,8 +46,6 @@ format = FileFormat.get_format_by_extension(outputFormat)
 with BytesIO() as ms:
     scene.save(ms, format)
 
-
-
 ```
 
 
@@ -55,3 +53,4 @@ with BytesIO() as ms:
 ### See Also
 * module [aspose.threed.formats](../../)
 * class [DracoFormat](/3d/python-net/aspose.threed.formats/dracoformat)
+* class [FileFormat](/3d/python-net/aspose.threed/fileformat)

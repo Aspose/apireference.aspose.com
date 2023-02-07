@@ -12,6 +12,15 @@ is_root: false
 
 
 Gets or sets whether to exclude this entity during exporting.
+### Definition:
+```python
+@property
+def excluded(self):
+    ...
+@excluded.setter
+def excluded(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.entities](../../)

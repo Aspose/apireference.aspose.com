@@ -44,6 +44,7 @@ The TextureData type exposes the following members:
 | [from_file(file_name)](/3d/python-net/aspose.threed.render/texturedata/from_file/#str) | Load a texture from file |
 
 
-### See Also
 
-* module [aspose.threed.render](../)
+### See Also
+* module [aspose.threed.render](..)
+* class [TextureData](/3d/python-net/aspose.threed.render/texturedata)

@@ -27,6 +27,8 @@ The MappingMode type exposes the following members:
 | ALL_SAME | One data mapped to the whole surface.<br/>What ever data is interpreted as control point/polygon vertex/edge endpoints, the data is always the same as it defined by [MappingMode.ALL_SAME](/3d/python-net/aspose.threed.entities/mappingmode#ALL_SAME). |
 
 
-### See Also
 
-* module [aspose.threed.entities](../)
+### See Also
+* module [aspose.threed.entities](..)
+* class [MappingMode](/3d/python-net/aspose.threed.entities/mappingmode)
+* class [VertexElement](/3d/python-net/aspose.threed.entities/vertexelement)

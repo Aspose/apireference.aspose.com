@@ -12,6 +12,15 @@ is_root: false
 
 
 Gets or sets the radius of the torus.
+### Definition:
+```python
+@property
+def radius(self):
+    ...
+@radius.setter
+def radius(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.entities](../../)

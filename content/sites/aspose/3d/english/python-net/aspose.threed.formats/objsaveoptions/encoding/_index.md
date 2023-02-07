@@ -13,6 +13,15 @@ is_root: false
 
 Gets or sets the default encoding for text-based files.
 Default value is null which means the importer/exporter will decide which encoding to use.
+### Definition:
+```python
+@property
+def encoding(self):
+    ...
+@encoding.setter
+def encoding(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.formats](../../)

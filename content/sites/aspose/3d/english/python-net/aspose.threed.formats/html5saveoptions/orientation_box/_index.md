@@ -13,6 +13,15 @@ is_root: false
 
 Display a orientation box.
 Default value is true.
+### Definition:
+```python
+@property
+def orientation_box(self):
+    ...
+@orientation_box.setter
+def orientation_box(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.formats](../../)

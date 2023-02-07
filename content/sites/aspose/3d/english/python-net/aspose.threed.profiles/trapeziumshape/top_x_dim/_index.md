@@ -12,6 +12,15 @@ is_root: false
 
 
 Gets or sets the extent of the top line measured along the x-axis.
+### Definition:
+```python
+@property
+def top_x_dim(self):
+    ...
+@top_x_dim.setter
+def top_x_dim(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.profiles](../../)

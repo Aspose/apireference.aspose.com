@@ -12,6 +12,15 @@ is_root: false
 
 
 Gets or sets the phi start.
+### Definition:
+```python
+@property
+def phi_start(self):
+    ...
+@phi_start.setter
+def phi_start(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.entities](../../)

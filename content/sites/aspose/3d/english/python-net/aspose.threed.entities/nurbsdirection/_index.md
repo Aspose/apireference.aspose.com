@@ -32,6 +32,8 @@ The NurbsDirection type exposes the following members:
 | [count](/3d/python-net/aspose.threed.entities/nurbsdirection/count) | Gets or sets the count of control points in current direction. |
 
 
-### See Also
 
-* module [aspose.threed.entities](../)
+### See Also
+* module [aspose.threed.entities](..)
+* class [NurbsDirection](/3d/python-net/aspose.threed.entities/nurbsdirection)
+* class [NurbsSurface](/3d/python-net/aspose.threed.entities/nurbssurface)

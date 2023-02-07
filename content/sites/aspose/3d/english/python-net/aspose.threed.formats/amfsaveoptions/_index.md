@@ -39,7 +39,9 @@ The AmfSaveOptions type exposes the following members:
 | [enable_compression](/3d/python-net/aspose.threed.formats/amfsaveoptions/enable_compression) | Whether to use compression to reduce the final file size, default value is true |
 
 
-### See Also
 
-* module [aspose.threed.formats](../)
+### See Also
+* module [aspose.threed.formats](..)
+* class [AmfSaveOptions](/3d/python-net/aspose.threed.formats/amfsaveoptions)
+* class [IOConfig](/3d/python-net/aspose.threed.formats/ioconfig)
 * class [SaveOptions](/3d/python-net/aspose.threed.formats/saveoptions)

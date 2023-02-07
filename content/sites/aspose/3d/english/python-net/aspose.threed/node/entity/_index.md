@@ -28,7 +28,17 @@ node.entity = Box()
 scene.save("output.fbx")
 
 ```
+### Definition:
+```python
+@property
+def entity(self):
+    ...
+@entity.setter
+def entity(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed](../../)
+* class [Entity](/3d/python-net/aspose.threed/entity)
 * class [Node](/3d/python-net/aspose.threed/node)

@@ -26,20 +26,6 @@ def transpose(self):
 
 
 
-### Example 
-
-
-The following code shows how to transpose a matrix
-
-```python
-from aspose.threed.utilities import Matrix4
-
-t = Matrix4.translate(0, 10, 9)
-mat = t.transpose()
-print(f"Transposed Matrix: {mat}")
-
-```
-
 
 
 ### See Also

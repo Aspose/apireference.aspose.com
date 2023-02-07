@@ -12,7 +12,14 @@ is_root: false
 
 
 Gets the collection of all properties.
+### Definition:
+```python
+@property
+def properties(self):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.profiles](../../)
 * class [ArbitraryProfile](/3d/python-net/aspose.threed.profiles/arbitraryprofile)
+* class [PropertyCollection](/3d/python-net/aspose.threed/propertycollection)

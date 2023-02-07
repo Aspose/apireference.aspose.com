@@ -12,6 +12,12 @@ is_root: false
 
 
 Gets the native error code.
+### Definition:
+```python
+@property
+def error_code(self):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.render](../../)

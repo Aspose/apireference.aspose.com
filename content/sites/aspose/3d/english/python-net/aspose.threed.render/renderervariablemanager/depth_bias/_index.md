@@ -12,6 +12,15 @@ is_root: false
 
 
 Depth bias for shadow mapping, default value is 0.001
+### Definition:
+```python
+@property
+def depth_bias(self):
+    ...
+@depth_bias.setter
+def depth_bias(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.render](../../)

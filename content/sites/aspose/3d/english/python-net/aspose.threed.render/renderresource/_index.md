@@ -18,6 +18,8 @@ Classes like [Mesh](/3d/python-net/aspose.threed.entities/mesh)/[Texture](/3d/py
 
 The RenderResource type exposes the following members:
 
-### See Also
 
-* module [aspose.threed.render](../)
+### See Also
+* module [aspose.threed.render](..)
+* class [Mesh](/3d/python-net/aspose.threed.entities/mesh)
+* class [Texture](/3d/python-net/aspose.threed.shading/texture)

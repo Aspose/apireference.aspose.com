@@ -12,6 +12,15 @@ is_root: false
 
 
 Gets or sets the arc.
+### Definition:
+```python
+@property
+def arc(self):
+    ...
+@arc.setter
+def arc(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.entities](../../)

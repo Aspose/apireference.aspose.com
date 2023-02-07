@@ -12,7 +12,17 @@ is_root: false
 
 
 Gets or sets the light's color
+### Definition:
+```python
+@property
+def color(self):
+    ...
+@color.setter
+def color(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.entities](../../)
 * class [Light](/3d/python-net/aspose.threed.entities/light)
+* class [Vector3](/3d/python-net/aspose.threed.utilities/vector3)

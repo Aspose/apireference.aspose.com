@@ -12,6 +12,15 @@ is_root: false
 
 
 Gets or sets the radius of cylinder's bottom cap.
+### Definition:
+```python
+@property
+def radius_bottom(self):
+    ...
+@radius_bottom.setter
+def radius_bottom(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.entities](../../)

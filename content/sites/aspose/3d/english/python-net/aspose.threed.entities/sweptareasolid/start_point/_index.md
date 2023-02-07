@@ -12,7 +12,17 @@ is_root: false
 
 
 The start point of the directrix.
+### Definition:
+```python
+@property
+def start_point(self):
+    ...
+@start_point.setter
+def start_point(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.entities](../../)
+* class [EndPoint](/3d/python-net/aspose.threed.entities/endpoint)
 * class [SweptAreaSolid](/3d/python-net/aspose.threed.entities/sweptareasolid)

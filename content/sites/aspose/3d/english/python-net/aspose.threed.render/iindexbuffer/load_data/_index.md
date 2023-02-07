@@ -97,3 +97,4 @@ def load_data(self, data):
 ### See Also
 * module [aspose.threed.render](../../)
 * class [IIndexBuffer](/3d/python-net/aspose.threed.render/iindexbuffer)
+* class [TriMesh](/3d/python-net/aspose.threed.entities/trimesh)

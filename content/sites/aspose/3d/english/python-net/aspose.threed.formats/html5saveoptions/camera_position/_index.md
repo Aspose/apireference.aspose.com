@@ -12,7 +12,17 @@ is_root: false
 
 
 Gets or sets the initial position of the camera, default value is (10, 10, 10)
+### Definition:
+```python
+@property
+def camera_position(self):
+    ...
+@camera_position.setter
+def camera_position(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.formats](../../)
 * class [Html5SaveOptions](/3d/python-net/aspose.threed.formats/html5saveoptions)
+* class [Vector3](/3d/python-net/aspose.threed.utilities/vector3)

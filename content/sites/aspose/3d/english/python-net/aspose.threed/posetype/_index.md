@@ -23,6 +23,6 @@ The PoseType type exposes the following members:
 | SNAPSHOT | The rest pose, means it's a snapshot of the bind pose. |
 
 
-### See Also
 
-* module [aspose.threed](../)
+### See Also
+* module [aspose.threed](..)

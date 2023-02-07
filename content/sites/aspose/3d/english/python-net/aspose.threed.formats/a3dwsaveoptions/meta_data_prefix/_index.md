@@ -12,6 +12,15 @@ is_root: false
 
 
 If this property is non-null, only the properties of Scene/Node that start with this prefix will be exported, and the prefix will be removed.
+### Definition:
+```python
+@property
+def meta_data_prefix(self):
+    ...
+@meta_data_prefix.setter
+def meta_data_prefix(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.formats](../../)

@@ -12,7 +12,17 @@ is_root: false
 
 
 Gets or sets the blend color where used in [BlendFactor.CONSTANT_COLOR](/3d/python-net/aspose.threed.render/blendfactor#CONSTANT_COLOR)
+### Definition:
+```python
+@property
+def blend_color(self):
+    ...
+@blend_color.setter
+def blend_color(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.render](../../)
+* class [FVector4](/3d/python-net/aspose.threed.utilities/fvector4)
 * class [RenderState](/3d/python-net/aspose.threed.render/renderstate)

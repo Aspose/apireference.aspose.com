@@ -12,6 +12,15 @@ is_root: false
 
 
 Directories that stored external assets(like textures)
+### Definition:
+```python
+@property
+def asset_directories(self):
+    ...
+@asset_directories.setter
+def asset_directories(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed](../../)

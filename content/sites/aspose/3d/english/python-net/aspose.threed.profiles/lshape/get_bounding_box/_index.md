@@ -29,7 +29,9 @@ The following code shows how to calculate the bounding box of a shape
 ```python
 from aspose.threed.entities import Sphere
 
-entity = Sphere()
+sphere = Sphere()
+sphere.radius = 10 
+entity = sphere
 bbox = entity.get_bounding_box()
 print(f"The bounding box of the entity is {bbox.minimum} ~ {bbox.maximum}")
 
@@ -39,4 +41,5 @@ print(f"The bounding box of the entity is {bbox.minimum} ~ {bbox.maximum}")
 
 ### See Also
 * module [aspose.threed.profiles](../../)
+* class [BoundingBox](/3d/python-net/aspose.threed.utilities/boundingbox)
 * class [LShape](/3d/python-net/aspose.threed.profiles/lshape)

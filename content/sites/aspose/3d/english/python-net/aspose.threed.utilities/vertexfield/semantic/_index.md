@@ -12,7 +12,14 @@ is_root: false
 
 
 The usage semantic of this field.
+### Definition:
+```python
+@property
+def semantic(self):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.utilities](../../)
 * class [VertexField](/3d/python-net/aspose.threed.utilities/vertexfield)
+* class [VertexFieldSemantic](/3d/python-net/aspose.threed.utilities/vertexfieldsemantic)

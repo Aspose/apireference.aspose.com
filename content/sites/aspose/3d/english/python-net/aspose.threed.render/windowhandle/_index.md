@@ -16,6 +16,6 @@ Encapsulated window handle for different platforms.
 
 The WindowHandle type exposes the following members:
 
-### See Also
 
-* module [aspose.threed.render](../)
+### See Also
+* module [aspose.threed.render](..)

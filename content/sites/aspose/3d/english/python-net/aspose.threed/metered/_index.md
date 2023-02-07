@@ -35,6 +35,6 @@ The Metered type exposes the following members:
 
 
 In this example, an attempt will be made to set metered public and private key
-### See Also
 
-* module [aspose.threed](../)
+### See Also
+* module [aspose.threed](..)

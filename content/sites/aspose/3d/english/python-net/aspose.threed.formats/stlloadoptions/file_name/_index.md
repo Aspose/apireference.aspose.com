@@ -13,6 +13,15 @@ is_root: false
 
 The file name of the exporting/importing scene.
 This is optional, but useful when serialize external assets like OBJ's material.
+### Definition:
+```python
+@property
+def file_name(self):
+    ...
+@file_name.setter
+def file_name(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.formats](../../)

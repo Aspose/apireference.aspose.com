@@ -36,6 +36,6 @@ The RenderingAPI type exposes the following members:
 | CUSTOM | Custom rendering API |
 
 
-### See Also
 
-* module [aspose.threed.shading](../)
+### See Also
+* module [aspose.threed.shading](..)

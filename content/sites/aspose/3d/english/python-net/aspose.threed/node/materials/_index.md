@@ -12,6 +12,12 @@ is_root: false
 
 
 Gets the materials associated with this node.
+### Definition:
+```python
+@property
+def materials(self):
+    ...
+```
 
 ### See Also
 * module [aspose.threed](../../)

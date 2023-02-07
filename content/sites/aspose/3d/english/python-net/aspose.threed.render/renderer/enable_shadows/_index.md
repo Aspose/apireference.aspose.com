@@ -12,6 +12,15 @@ is_root: false
 
 
 Gets or sets whether to enable shadows.
+### Definition:
+```python
+@property
+def enable_shadows(self):
+    ...
+@enable_shadows.setter
+def enable_shadows(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.render](../../)

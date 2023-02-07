@@ -52,7 +52,8 @@ The KeyframeSequence type exposes the following members:
 | [reset()](/3d/python-net/aspose.threed.animation/keyframesequence/reset/#) | Removes all key frames and reset the post/pre behaviors. |
 
 
-### See Also
 
-* module [aspose.threed.animation](../)
-* class [A3DObject](/3d/python-net/aspose.threed.animation/a3dobject)
+### See Also
+* module [aspose.threed.animation](..)
+* class [A3DObject](/3d/python-net/aspose.threed/a3dobject)
+* class [KeyframeSequence](/3d/python-net/aspose.threed.animation/keyframesequence)

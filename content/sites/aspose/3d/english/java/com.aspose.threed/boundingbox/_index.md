@@ -28,24 +28,30 @@ The axis-aligned bounding box
 
 | Field | Description |
 | --- | --- |
-| [NULL](#NULL) | The null bounding box |
 | [INFINITE](#INFINITE) | The infinite bounding box |
+| [NULL](#NULL) | The null bounding box |
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getExtent()](#getExtent--) | Gets the extent of the bounding box. |
-| [getMinimum()](#getMinimum--) | The minimum corner of the bounding box |
-| [getMaximum()](#getMaximum--) | The maximum corner of the bounding box |
-| [getSize()](#getSize--) | The size of the bounding box |
-| [getCenter()](#getCenter--) | The center of the bounding box. |
-| [fromGeometry(Geometry geometry)](#fromGeometry-com.aspose.threed.Geometry-) | Construct a bounding box from given geometry |
-| [mul(BoundingBox bbox, Matrix4 mat)](#mul-com.aspose.threed.BoundingBox-com.aspose.threed.Matrix4-) | Operator overloading for multiply |
-| [toString()](#toString--) | Gets the string representation of the bounding box. |
-| [equals(Object obj)](#equals-java.lang.Object-) | Determines if two objects are equal |
 | [clone()](#clone--) |  |
 | [copyFrom(BoundingBox src)](#copyFrom-com.aspose.threed.BoundingBox-) |  |
+| [equals(Object obj)](#equals-java.lang.Object-) | Determines if two objects are equal |
+| [fromGeometry(Geometry geometry)](#fromGeometry-com.aspose.threed.Geometry-) | Construct a bounding box from given geometry |
+| [getCenter()](#getCenter--) | The center of the bounding box. |
+| [getClass()](#getClass--) |  |
+| [getExtent()](#getExtent--) | Gets the extent of the bounding box. |
+| [getMaximum()](#getMaximum--) | The maximum corner of the bounding box |
+| [getMinimum()](#getMinimum--) | The minimum corner of the bounding box |
+| [getSize()](#getSize--) | The size of the bounding box |
 | [hashCode()](#hashCode--) | Returns the hash code for this instance |
+| [mul(BoundingBox bbox, Matrix4 mat)](#mul-com.aspose.threed.BoundingBox-com.aspose.threed.Matrix4-) | Operator overloading for multiply |
+| [notify()](#notify--) |  |
+| [notifyAll()](#notifyAll--) |  |
+| [toString()](#toString--) | Gets the string representation of the bounding box. |
+| [wait()](#wait--) |  |
+| [wait(long arg0)](#wait-long-) |  |
+| [wait(long arg0, int arg1)](#wait-long-int-) |  |
 ### BoundingBox(Vector3 minimum, Vector3 maximum) {#BoundingBox-com.aspose.threed.Vector3-com.aspose.threed.Vector3-}
 ```
 public BoundingBox(Vector3 minimum, Vector3 maximum)
@@ -84,14 +90,6 @@ public BoundingBox()
 ```
 
 
-### NULL {#NULL}
-```
-public static final BoundingBox NULL
-```
-
-
-The null bounding box
-
 ### INFINITE {#INFINITE}
 ```
 public static final BoundingBox INFINITE
@@ -100,112 +98,14 @@ public static final BoundingBox INFINITE
 
 The infinite bounding box
 
-### getExtent() {#getExtent--}
+### NULL {#NULL}
 ```
-public BoundingBoxExtent getExtent()
-```
-
-
-Gets the extent of the bounding box.
-
-**Returns:**
-[BoundingBoxExtent](../../com.aspose.threed/boundingboxextent)
-### getMinimum() {#getMinimum--}
-```
-public Vector3 getMinimum()
+public static final BoundingBox NULL
 ```
 
 
-The minimum corner of the bounding box
+The null bounding box
 
-**Returns:**
-[Vector3](../../com.aspose.threed/vector3)
-### getMaximum() {#getMaximum--}
-```
-public Vector3 getMaximum()
-```
-
-
-The maximum corner of the bounding box
-
-**Returns:**
-[Vector3](../../com.aspose.threed/vector3)
-### getSize() {#getSize--}
-```
-public Vector3 getSize()
-```
-
-
-The size of the bounding box
-
-**Returns:**
-[Vector3](../../com.aspose.threed/vector3)
-### getCenter() {#getCenter--}
-```
-public Vector3 getCenter()
-```
-
-
-The center of the bounding box.
-
-**Returns:**
-[Vector3](../../com.aspose.threed/vector3)
-### fromGeometry(Geometry geometry) {#fromGeometry-com.aspose.threed.Geometry-}
-```
-public static BoundingBox fromGeometry(Geometry geometry)
-```
-
-
-Construct a bounding box from given geometry
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| geometry | [Geometry](../../com.aspose.threed/geometry) |  |
-
-**Returns:**
-[BoundingBox](../../com.aspose.threed/boundingbox)
-### mul(BoundingBox bbox, Matrix4 mat) {#mul-com.aspose.threed.BoundingBox-com.aspose.threed.Matrix4-}
-```
-public static BoundingBox mul(BoundingBox bbox, Matrix4 mat)
-```
-
-
-Operator overloading for multiply
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| bbox | [BoundingBox](../../com.aspose.threed/boundingbox) |  |
-| mat | [Matrix4](../../com.aspose.threed/matrix4) |  |
-
-**Returns:**
-[BoundingBox](../../com.aspose.threed/boundingbox)
-### toString() {#toString--}
-```
-public String toString()
-```
-
-
-Gets the string representation of the bounding box.
-
-**Returns:**
-java.lang.String
-### equals(Object obj) {#equals-java.lang.Object-}
-```
-public boolean equals(Object obj)
-```
-
-
-Determines if two objects are equal
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| obj | java.lang.Object |  |
-
-**Returns:**
-boolean
 ### clone() {#clone--}
 ```
 public BoundingBox clone()
@@ -229,6 +129,96 @@ public void copyFrom(BoundingBox src)
 | --- | --- | --- |
 | src | [BoundingBox](../../com.aspose.threed/boundingbox) |  |
 
+### equals(Object obj) {#equals-java.lang.Object-}
+```
+public boolean equals(Object obj)
+```
+
+
+Determines if two objects are equal
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| obj | java.lang.Object |  |
+
+**Returns:**
+boolean
+### fromGeometry(Geometry geometry) {#fromGeometry-com.aspose.threed.Geometry-}
+```
+public static BoundingBox fromGeometry(Geometry geometry)
+```
+
+
+Construct a bounding box from given geometry
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| geometry | [Geometry](../../com.aspose.threed/geometry) |  |
+
+**Returns:**
+[BoundingBox](../../com.aspose.threed/boundingbox)
+### getCenter() {#getCenter--}
+```
+public Vector3 getCenter()
+```
+
+
+The center of the bounding box.
+
+**Returns:**
+[Vector3](../../com.aspose.threed/vector3)
+### getClass() {#getClass--}
+```
+public final native Class<?> getClass()
+```
+
+
+
+
+**Returns:**
+java.lang.Class<?>
+### getExtent() {#getExtent--}
+```
+public BoundingBoxExtent getExtent()
+```
+
+
+Gets the extent of the bounding box.
+
+**Returns:**
+[BoundingBoxExtent](../../com.aspose.threed/boundingboxextent)
+### getMaximum() {#getMaximum--}
+```
+public Vector3 getMaximum()
+```
+
+
+The maximum corner of the bounding box
+
+**Returns:**
+[Vector3](../../com.aspose.threed/vector3)
+### getMinimum() {#getMinimum--}
+```
+public Vector3 getMinimum()
+```
+
+
+The minimum corner of the bounding box
+
+**Returns:**
+[Vector3](../../com.aspose.threed/vector3)
+### getSize() {#getSize--}
+```
+public Vector3 getSize()
+```
+
+
+The size of the bounding box
+
+**Returns:**
+[Vector3](../../com.aspose.threed/vector3)
 ### hashCode() {#hashCode--}
 ```
 public int hashCode()
@@ -239,3 +229,80 @@ Returns the hash code for this instance
 
 **Returns:**
 int
+### mul(BoundingBox bbox, Matrix4 mat) {#mul-com.aspose.threed.BoundingBox-com.aspose.threed.Matrix4-}
+```
+public static BoundingBox mul(BoundingBox bbox, Matrix4 mat)
+```
+
+
+Operator overloading for multiply
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| bbox | [BoundingBox](../../com.aspose.threed/boundingbox) |  |
+| mat | [Matrix4](../../com.aspose.threed/matrix4) |  |
+
+**Returns:**
+[BoundingBox](../../com.aspose.threed/boundingbox)
+### notify() {#notify--}
+```
+public final native void notify()
+```
+
+
+
+
+### notifyAll() {#notifyAll--}
+```
+public final native void notifyAll()
+```
+
+
+
+
+### toString() {#toString--}
+```
+public String toString()
+```
+
+
+Gets the string representation of the bounding box.
+
+**Returns:**
+java.lang.String
+### wait() {#wait--}
+```
+public final void wait()
+```
+
+
+
+
+### wait(long arg0) {#wait-long-}
+```
+public final native void wait(long arg0)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+
+### wait(long arg0, int arg1) {#wait-long-int-}
+```
+public final void wait(long arg0, int arg1)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+| arg1 | int |  |
+

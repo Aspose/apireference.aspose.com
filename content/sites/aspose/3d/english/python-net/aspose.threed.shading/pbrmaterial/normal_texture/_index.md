@@ -12,7 +12,17 @@ is_root: false
 
 
 Gets or sets the texture of normal mapping
+### Definition:
+```python
+@property
+def normal_texture(self):
+    ...
+@normal_texture.setter
+def normal_texture(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.shading](../../)
 * class [PbrMaterial](/3d/python-net/aspose.threed.shading/pbrmaterial)
+* class [TextureBase](/3d/python-net/aspose.threed.shading/texturebase)

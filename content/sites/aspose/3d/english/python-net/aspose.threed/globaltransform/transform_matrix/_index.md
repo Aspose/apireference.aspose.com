@@ -24,7 +24,14 @@ tr = scene.root_node.global_transform
 print(f"Matrix = {tr.transform_matrix}")
 
 ```
+### Definition:
+```python
+@property
+def transform_matrix(self):
+    ...
+```
 
 ### See Also
 * module [aspose.threed](../../)
 * class [GlobalTransform](/3d/python-net/aspose.threed/globaltransform)
+* class [Matrix4](/3d/python-net/aspose.threed.utilities/matrix4)

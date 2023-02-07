@@ -32,8 +32,8 @@ The BoundingBox type exposes the following members:
 | [maximum](/3d/python-net/aspose.threed.utilities/boundingbox/maximum) | The maximum corner of the bounding box |
 | [size](/3d/python-net/aspose.threed.utilities/boundingbox/size) | The size of the bounding box |
 | [center](/3d/python-net/aspose.threed.utilities/boundingbox/center) | The center of the bounding box. |
-| [NULL](/3d/python-net/aspose.threed.utilities/boundingbox/NULL) | The null bounding box |
-| [INFINITE](/3d/python-net/aspose.threed.utilities/boundingbox/INFINITE) | The infinite bounding box |
+| [NULL](/3d/python-net/aspose.threed.utilities/boundingbox/null) | The null bounding box |
+| [INFINITE](/3d/python-net/aspose.threed.utilities/boundingbox/infinite) | The infinite bounding box |
 
 
 ### Methods
@@ -42,6 +42,6 @@ The BoundingBox type exposes the following members:
 | [from_geometry(geometry)](/3d/python-net/aspose.threed.utilities/boundingbox/from_geometry/#aspose.threed.entities.Geometry) | Construct a bounding box from given geometry |
 
 
-### See Also
 
-* module [aspose.threed.utilities](../)
+### See Also
+* module [aspose.threed.utilities](..)

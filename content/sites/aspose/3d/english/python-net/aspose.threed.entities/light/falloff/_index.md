@@ -12,6 +12,15 @@ is_root: false
 
 
 Gets or sets the falloff cone angle (in degrees).
+### Definition:
+```python
+@property
+def falloff(self):
+    ...
+@falloff.setter
+def falloff(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.entities](../../)

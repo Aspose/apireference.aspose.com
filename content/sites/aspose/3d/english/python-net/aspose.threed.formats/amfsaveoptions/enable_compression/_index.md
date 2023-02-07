@@ -12,6 +12,15 @@ is_root: false
 
 
 Whether to use compression to reduce the final file size, default value is true
+### Definition:
+```python
+@property
+def enable_compression(self):
+    ...
+@enable_compression.setter
+def enable_compression(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.formats](../../)

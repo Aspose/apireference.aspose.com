@@ -28,6 +28,6 @@ The IOConfig type exposes the following members:
 | [file_name](/3d/python-net/aspose.threed.formats/ioconfig/file_name) | The file name of the exporting/importing scene.<br/>This is optional, but useful when serialize external assets like OBJ's material. |
 
 
-### See Also
 
-* module [aspose.threed.formats](../)
+### See Also
+* module [aspose.threed.formats](..)

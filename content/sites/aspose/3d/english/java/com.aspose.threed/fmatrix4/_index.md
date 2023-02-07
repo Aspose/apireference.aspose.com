@@ -21,14 +21,15 @@ Matrix 4x4 with all component in float type
 
 | Constructor | Description |
 | --- | --- |
-| [FMatrix4(float m00, float m01, float m02, float m03, float m10, float m11, float m12, float m13, float m20, float m21, float m22, float m23, float m30, float m31, float m32, float m33)](#FMatrix4-float-float-float-float-float-float-float-float-float-float-float-float-float-float-float-float-) | Initialize the instance of com.aspose.threed.FMatrix4 |
-| [FMatrix4(Matrix4 mat)](#FMatrix4-com.aspose.threed.Matrix4-) | Initialize the instance of com.aspose.threed.FMatrix4 from a com.aspose.threed.Matrix4 instance. |
+| [FMatrix4(float m00, float m01, float m02, float m03, float m10, float m11, float m12, float m13, float m20, float m21, float m22, float m23, float m30, float m31, float m32, float m33)](#FMatrix4-float-float-float-float-float-float-float-float-float-float-float-float-float-float-float-float-) | Initialize the instance of [FMatrix4](../../com.aspose.threed/fmatrix4) |
+| [FMatrix4(Matrix4 mat)](#FMatrix4-com.aspose.threed.Matrix4-) | Initialize the instance of [FMatrix4](../../com.aspose.threed/fmatrix4) from a [Matrix4](../../com.aspose.threed/matrix4) instance. |
 | [FMatrix4(FVector4 r0, FVector4 r1, FVector4 r2, FVector4 r3)](#FMatrix4-com.aspose.threed.FVector4-com.aspose.threed.FVector4-com.aspose.threed.FVector4-com.aspose.threed.FVector4-) | Constructs matrix from 4 rows. |
 | [FMatrix4()](#FMatrix4--) |  |
 ## Fields
 
 | Field | Description |
 | --- | --- |
+| [IDENTITY](#IDENTITY) | The identity matrix |
 | [m00](#m00) | The m00. |
 | [m01](#m01) | The m01. |
 | [m02](#m02) | The m02. |
@@ -45,28 +46,34 @@ Matrix 4x4 with all component in float type
 | [m31](#m31) | The m31. |
 | [m32](#m32) | The m32. |
 | [m33](#m33) | The m33. |
-| [IDENTITY](#IDENTITY) | The identity matrix |
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [concatenate(FMatrix4 m2)](#concatenate-com.aspose.threed.FMatrix4-) | Concatenates the two matrices |
-| [mul(FMatrix4 left, FMatrix4 right)](#mul-com.aspose.threed.FMatrix4-com.aspose.threed.FMatrix4-) | Concatenate the two matrices |
-| [concatenate(Matrix4 m2)](#concatenate-com.aspose.threed.Matrix4-) | Concatenates the two matrices |
-| [transpose()](#transpose--) | Transposes this instance. |
-| [inverse()](#inverse--) | Calculate the inverse matrix of current instance. |
-| [mul(FMatrix4 lhs, float v)](#mul-com.aspose.threed.FMatrix4-float-) | Multiply the matrix and double value |
 | [clone()](#clone--) |  |
+| [concatenate(FMatrix4 m2)](#concatenate-com.aspose.threed.FMatrix4-) | Concatenates the two matrices |
+| [concatenate(Matrix4 m2)](#concatenate-com.aspose.threed.Matrix4-) | Concatenates the two matrices |
 | [copyFrom(FMatrix4 src)](#copyFrom-com.aspose.threed.FMatrix4-) |  |
-| [hashCode()](#hashCode--) |  |
 | [equals(Object obj)](#equals-java.lang.Object-) |  |
+| [getClass()](#getClass--) |  |
+| [hashCode()](#hashCode--) |  |
+| [inverse()](#inverse--) | Calculate the inverse matrix of current instance. |
+| [mul(FMatrix4 left, FMatrix4 right)](#mul-com.aspose.threed.FMatrix4-com.aspose.threed.FMatrix4-) | Concatenate the two matrices |
+| [mul(FMatrix4 lhs, float v)](#mul-com.aspose.threed.FMatrix4-float-) | Multiply the matrix and double value |
+| [notify()](#notify--) |  |
+| [notifyAll()](#notifyAll--) |  |
+| [toString()](#toString--) |  |
+| [transpose()](#transpose--) | Transposes this instance. |
+| [wait()](#wait--) |  |
+| [wait(long arg0)](#wait-long-) |  |
+| [wait(long arg0, int arg1)](#wait-long-int-) |  |
 ### FMatrix4(float m00, float m01, float m02, float m03, float m10, float m11, float m12, float m13, float m20, float m21, float m22, float m23, float m30, float m31, float m32, float m33) {#FMatrix4-float-float-float-float-float-float-float-float-float-float-float-float-float-float-float-float-}
 ```
 public FMatrix4(float m00, float m01, float m02, float m03, float m10, float m11, float m12, float m13, float m20, float m21, float m22, float m23, float m30, float m31, float m32, float m33)
 ```
 
 
-Initialize the instance of com.aspose.threed.FMatrix4
+Initialize the instance of [FMatrix4](../../com.aspose.threed/fmatrix4)
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -94,7 +101,7 @@ public FMatrix4(Matrix4 mat)
 ```
 
 
-Initialize the instance of com.aspose.threed.FMatrix4 from a com.aspose.threed.Matrix4 instance.
+Initialize the instance of [FMatrix4](../../com.aspose.threed/fmatrix4) from a [Matrix4](../../com.aspose.threed/matrix4) instance.
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -122,6 +129,14 @@ Constructs matrix from 4 rows.
 public FMatrix4()
 ```
 
+
+### IDENTITY {#IDENTITY}
+```
+public static final FMatrix4 IDENTITY
+```
+
+
+The identity matrix
 
 ### m00 {#m00}
 ```
@@ -251,14 +266,16 @@ public float m33
 
 The m33.
 
-### IDENTITY {#IDENTITY}
+### clone() {#clone--}
 ```
-public static final FMatrix4 IDENTITY
+public FMatrix4 clone()
 ```
 
 
-The identity matrix
 
+
+**Returns:**
+[FMatrix4](../../com.aspose.threed/fmatrix4)
 ### concatenate(FMatrix4 m2) {#concatenate-com.aspose.threed.FMatrix4-}
 ```
 public FMatrix4 concatenate(FMatrix4 m2)
@@ -274,6 +291,79 @@ Concatenates the two matrices
 
 **Returns:**
 [FMatrix4](../../com.aspose.threed/fmatrix4) - New matrix4
+### concatenate(Matrix4 m2) {#concatenate-com.aspose.threed.Matrix4-}
+```
+public FMatrix4 concatenate(Matrix4 m2)
+```
+
+
+Concatenates the two matrices
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| m2 | [Matrix4](../../com.aspose.threed/matrix4) | M2. |
+
+**Returns:**
+[FMatrix4](../../com.aspose.threed/fmatrix4) - New matrix4
+### copyFrom(FMatrix4 src) {#copyFrom-com.aspose.threed.FMatrix4-}
+```
+public void copyFrom(FMatrix4 src)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| src | [FMatrix4](../../com.aspose.threed/fmatrix4) |  |
+
+### equals(Object obj) {#equals-java.lang.Object-}
+```
+public boolean equals(Object obj)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| obj | java.lang.Object |  |
+
+**Returns:**
+boolean
+### getClass() {#getClass--}
+```
+public final native Class<?> getClass()
+```
+
+
+
+
+**Returns:**
+java.lang.Class<?>
+### hashCode() {#hashCode--}
+```
+public int hashCode()
+```
+
+
+
+
+**Returns:**
+int
+### inverse() {#inverse--}
+```
+public FMatrix4 inverse()
+```
+
+
+Calculate the inverse matrix of current instance.
+
+**Returns:**
+[FMatrix4](../../com.aspose.threed/fmatrix4) - Inverse matrix4
 ### mul(FMatrix4 left, FMatrix4 right) {#mul-com.aspose.threed.FMatrix4-com.aspose.threed.FMatrix4-}
 ```
 public static FMatrix4 mul(FMatrix4 left, FMatrix4 right)
@@ -290,41 +380,6 @@ Concatenate the two matrices
 
 **Returns:**
 [FMatrix4](../../com.aspose.threed/fmatrix4)
-### concatenate(Matrix4 m2) {#concatenate-com.aspose.threed.Matrix4-}
-```
-public FMatrix4 concatenate(Matrix4 m2)
-```
-
-
-Concatenates the two matrices
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| m2 | [Matrix4](../../com.aspose.threed/matrix4) | M2. |
-
-**Returns:**
-[FMatrix4](../../com.aspose.threed/fmatrix4) - New matrix4
-### transpose() {#transpose--}
-```
-public FMatrix4 transpose()
-```
-
-
-Transposes this instance.
-
-**Returns:**
-[FMatrix4](../../com.aspose.threed/fmatrix4) - The transposed matrix.
-### inverse() {#inverse--}
-```
-public FMatrix4 inverse()
-```
-
-
-Calculate the inverse matrix of current instance.
-
-**Returns:**
-[FMatrix4](../../com.aspose.threed/fmatrix4) - Inverse matrix4
 ### mul(FMatrix4 lhs, float v) {#mul-com.aspose.threed.FMatrix4-float-}
 ```
 public static FMatrix4 mul(FMatrix4 lhs, float v)
@@ -341,19 +396,53 @@ Multiply the matrix and double value
 
 **Returns:**
 [FMatrix4](../../com.aspose.threed/fmatrix4) - Result matrix
-### clone() {#clone--}
+### notify() {#notify--}
 ```
-public FMatrix4 clone()
+public final native void notify()
+```
+
+
+
+
+### notifyAll() {#notifyAll--}
+```
+public final native void notifyAll()
+```
+
+
+
+
+### toString() {#toString--}
+```
+public String toString()
 ```
 
 
 
 
 **Returns:**
-[FMatrix4](../../com.aspose.threed/fmatrix4)
-### copyFrom(FMatrix4 src) {#copyFrom-com.aspose.threed.FMatrix4-}
+java.lang.String
+### transpose() {#transpose--}
 ```
-public void copyFrom(FMatrix4 src)
+public FMatrix4 transpose()
+```
+
+
+Transposes this instance.
+
+**Returns:**
+[FMatrix4](../../com.aspose.threed/fmatrix4) - The transposed matrix.
+### wait() {#wait--}
+```
+public final void wait()
+```
+
+
+
+
+### wait(long arg0) {#wait-long-}
+```
+public final native void wait(long arg0)
 ```
 
 
@@ -362,21 +451,11 @@ public void copyFrom(FMatrix4 src)
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| src | [FMatrix4](../../com.aspose.threed/fmatrix4) |  |
+| arg0 | long |  |
 
-### hashCode() {#hashCode--}
+### wait(long arg0, int arg1) {#wait-long-int-}
 ```
-public int hashCode()
-```
-
-
-
-
-**Returns:**
-int
-### equals(Object obj) {#equals-java.lang.Object-}
-```
-public boolean equals(Object obj)
+public final void wait(long arg0, int arg1)
 ```
 
 
@@ -385,7 +464,6 @@ public boolean equals(Object obj)
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| obj | java.lang.Object |  |
+| arg0 | long |  |
+| arg1 | int |  |
 
-**Returns:**
-boolean

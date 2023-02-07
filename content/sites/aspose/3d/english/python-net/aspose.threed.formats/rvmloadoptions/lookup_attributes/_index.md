@@ -12,6 +12,15 @@ is_root: false
 
 
 Gets or sets whether to load attributes from external attribute list file(.att/.attrib/.txt), default value is true.
+### Definition:
+```python
+@property
+def lookup_attributes(self):
+    ...
+@lookup_attributes.setter
+def lookup_attributes(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.formats](../../)

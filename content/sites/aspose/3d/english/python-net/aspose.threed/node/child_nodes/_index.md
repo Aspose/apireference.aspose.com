@@ -25,7 +25,12 @@ scene = Scene.from_file("test.fbx")
 for child in scene.root_node.child_nodes:
     pass
 
-
+```
+### Definition:
+```python
+@property
+def child_nodes(self):
+    ...
 ```
 
 ### See Also

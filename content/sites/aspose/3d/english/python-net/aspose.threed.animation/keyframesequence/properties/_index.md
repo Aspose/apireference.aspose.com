@@ -12,7 +12,14 @@ is_root: false
 
 
 Gets the collection of all properties.
+### Definition:
+```python
+@property
+def properties(self):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.animation](../../)
 * class [KeyframeSequence](/3d/python-net/aspose.threed.animation/keyframesequence)
+* class [PropertyCollection](/3d/python-net/aspose.threed/propertycollection)

@@ -12,6 +12,12 @@ is_root: false
 
 
 Gets all control points
+### Definition:
+```python
+@property
+def control_points(self):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.entities](../../)

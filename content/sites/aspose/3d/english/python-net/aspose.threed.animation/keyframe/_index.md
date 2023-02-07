@@ -44,6 +44,8 @@ The KeyFrame type exposes the following members:
 | [time_independent_tangent](/3d/python-net/aspose.threed.animation/keyframe/time_independent_tangent) | Gets or sets the tangent is time-independent |
 
 
-### See Also
 
-* module [aspose.threed.animation](../)
+### See Also
+* module [aspose.threed.animation](..)
+* class [Extrapolation](/3d/python-net/aspose.threed.animation/extrapolation)
+* class [WeightedMode](/3d/python-net/aspose.threed.animation/weightedmode)

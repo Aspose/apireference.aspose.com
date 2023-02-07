@@ -12,6 +12,15 @@ is_root: false
 
 
 Gets or sets the value.
+### Definition:
+```python
+@property
+def value(self):
+    ...
+@value.setter
+def value(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed](../../)

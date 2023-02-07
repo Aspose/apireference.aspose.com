@@ -12,6 +12,15 @@ is_root: false
 
 
 Gets or sets the title of this asset
+### Definition:
+```python
+@property
+def title(self):
+    ...
+@title.setter
+def title(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed](../../)

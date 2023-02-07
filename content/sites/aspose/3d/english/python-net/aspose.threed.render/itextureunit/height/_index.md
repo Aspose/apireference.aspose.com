@@ -12,6 +12,12 @@ is_root: false
 
 
 Gets the height of this texture.
+### Definition:
+```python
+@property
+def height(self):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.render](../../)

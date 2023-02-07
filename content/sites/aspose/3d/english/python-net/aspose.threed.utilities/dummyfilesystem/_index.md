@@ -50,21 +50,18 @@ from io import BytesIO
 # create a scene with material
 scene = Scene()
 scene.root_node.create_child_node(Box()).material = LambertMaterial()
-
 # create a save option and specify the file system, so the dependent file will be written to memory
 opt = FileFormat.WAVEFRONT_OBJ.create_save_options()
 dfs = DummyFileSystem()
 opt.file_system = dfs
-
 # obj's material file name is associated with the obj's file name, so we need a explicit name.
 opt.file_name = "test.obj"
 with BytesIO() as ms:
     scene.save(ms, opt)
 
-
-
 ```
-### See Also
 
-* module [aspose.threed.utilities](../)
+### See Also
+* module [aspose.threed.utilities](..)
+* class [DummyFileSystem](/3d/python-net/aspose.threed.utilities/dummyfilesystem)
 * class [FileSystem](/3d/python-net/aspose.threed.utilities/filesystem)

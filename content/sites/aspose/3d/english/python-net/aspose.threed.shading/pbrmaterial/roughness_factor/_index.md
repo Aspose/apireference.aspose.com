@@ -12,6 +12,15 @@ is_root: false
 
 
 Gets or sets the roughness of the material, value of 1 means the material is completely rough and value of 0 means the material is completely smooth
+### Definition:
+```python
+@property
+def roughness_factor(self):
+    ...
+@roughness_factor.setter
+def roughness_factor(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.shading](../../)

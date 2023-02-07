@@ -12,7 +12,17 @@ is_root: false
 
 
 Allow user to handle how to manage the external dependencies during load/save.
+### Definition:
+```python
+@property
+def file_system(self):
+    ...
+@file_system.setter
+def file_system(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.formats](../../)
 * class [AmfSaveOptions](/3d/python-net/aspose.threed.formats/amfsaveoptions)
+* class [FileSystem](/3d/python-net/aspose.threed.utilities/filesystem)

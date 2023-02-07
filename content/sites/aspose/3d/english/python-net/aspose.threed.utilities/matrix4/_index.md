@@ -70,6 +70,22 @@ The Matrix4 type exposes the following members:
 | [decompose(translation, scaling, rotation)](/3d/python-net/aspose.threed.utilities/matrix4/decompose/#any-any-any) |  |
 
 
-### See Also
 
-* module [aspose.threed.utilities](../)
+### Example 
+
+
+```python
+from aspose.threed.utilities import Matrix4, Vector4
+
+mat = Matrix4.rotate_from_euler(90, 0, 0)
+mat2 = Matrix4.translate(0, 10, -50)
+transform = mat2 * mat
+pos = Vector4(10, 9, 0, 1)
+transformed = transform * pos
+
+```
+
+### See Also
+* module [aspose.threed.utilities](..)
+* class [FMatrix4](/3d/python-net/aspose.threed.utilities/fmatrix4)
+* class [Matrix4](/3d/python-net/aspose.threed.utilities/matrix4)

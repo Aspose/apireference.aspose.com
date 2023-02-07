@@ -12,6 +12,15 @@ is_root: false
 
 
 Enable or disable the stencil test.
+### Definition:
+```python
+@property
+def stencil_test(self):
+    ...
+@stencil_test.setter
+def stencil_test(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.render](../../)

@@ -12,6 +12,12 @@ is_root: false
 
 
 Gets the count of weight, this is automatically extended by [Bone.set_weight(index, weight)](/3d/python-net/aspose.threed.deformers/bone/set_weight)
+### Definition:
+```python
+@property
+def weight_count(self):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.deformers](../../)

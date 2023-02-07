@@ -13,7 +13,17 @@ is_root: false
 
 Gets or sets the camera's projection type.
 By default the perspective projection is used.
+### Definition:
+```python
+@property
+def projection_type(self):
+    ...
+@projection_type.setter
+def projection_type(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.entities](../../)
 * class [Camera](/3d/python-net/aspose.threed.entities/camera)
+* class [ProjectionType](/3d/python-net/aspose.threed.entities/projectiontype)

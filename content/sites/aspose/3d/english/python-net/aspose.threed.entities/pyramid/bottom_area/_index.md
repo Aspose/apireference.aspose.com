@@ -12,7 +12,17 @@ is_root: false
 
 
 Area of the bottom cap
+### Definition:
+```python
+@property
+def bottom_area(self):
+    ...
+@bottom_area.setter
+def bottom_area(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.entities](../../)
 * class [Pyramid](/3d/python-net/aspose.threed.entities/pyramid)
+* class [Vector2](/3d/python-net/aspose.threed.utilities/vector2)

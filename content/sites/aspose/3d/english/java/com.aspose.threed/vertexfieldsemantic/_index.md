@@ -18,32 +18,39 @@ The semantic of the vertex field
 
 | Field | Description |
 | --- | --- |
-| [POSITION](#POSITION) | Position data |
 | [BINORMAL](#BINORMAL) | Binormal vector |
+| [EDGE_CREASE](#EDGE-CREASE) | Edge crease |
 | [NORMAL](#NORMAL) | Normal vector |
+| [POSITION](#POSITION) | Position data |
+| [SPECULAR](#SPECULAR) | Specular colors |
 | [TANGENT](#TANGENT) | Tangent vector |
+| [USER_DATA](#USER-DATA) | User data, usually for application-specific purpose |
 | [UV](#UV) | Texture UV coordinate |
 | [VERTEX_COLOR](#VERTEX-COLOR) | Vertex color |
 | [VERTEX_CREASE](#VERTEX-CREASE) | Vertex crease |
-| [EDGE_CREASE](#EDGE-CREASE) | Edge crease |
-| [USER_DATA](#USER-DATA) | User data, usually for application-specific purpose |
 | [VISIBILITY](#VISIBILITY) | Visibility for components |
-| [SPECULAR](#SPECULAR) | Specular colors |
 | [WEIGHT](#WEIGHT) | Blend weights |
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [values()](#values--) |  |
+| [<T>valueOf(Class<T> arg0, String arg1)](#-T-valueOf-java.lang.Class-T--java.lang.String-) |  |
+| [compareTo(E arg0)](#compareTo-E-) |  |
+| [describeConstable()](#describeConstable--) |  |
+| [equals(Object arg0)](#equals-java.lang.Object-) |  |
+| [getClass()](#getClass--) |  |
+| [getDeclaringClass()](#getDeclaringClass--) |  |
+| [hashCode()](#hashCode--) |  |
+| [name()](#name--) |  |
+| [notify()](#notify--) |  |
+| [notifyAll()](#notifyAll--) |  |
+| [ordinal()](#ordinal--) |  |
+| [toString()](#toString--) |  |
 | [valueOf(String name)](#valueOf-java.lang.String-) |  |
-### POSITION {#POSITION}
-```
-public static final VertexFieldSemantic POSITION
-```
-
-
-Position data
-
+| [values()](#values--) |  |
+| [wait()](#wait--) |  |
+| [wait(long arg0)](#wait-long-) |  |
+| [wait(long arg0, int arg1)](#wait-long-int-) |  |
 ### BINORMAL {#BINORMAL}
 ```
 public static final VertexFieldSemantic BINORMAL
@@ -51,6 +58,14 @@ public static final VertexFieldSemantic BINORMAL
 
 
 Binormal vector
+
+### EDGE_CREASE {#EDGE-CREASE}
+```
+public static final VertexFieldSemantic EDGE_CREASE
+```
+
+
+Edge crease
 
 ### NORMAL {#NORMAL}
 ```
@@ -60,6 +75,22 @@ public static final VertexFieldSemantic NORMAL
 
 Normal vector
 
+### POSITION {#POSITION}
+```
+public static final VertexFieldSemantic POSITION
+```
+
+
+Position data
+
+### SPECULAR {#SPECULAR}
+```
+public static final VertexFieldSemantic SPECULAR
+```
+
+
+Specular colors
+
 ### TANGENT {#TANGENT}
 ```
 public static final VertexFieldSemantic TANGENT
@@ -67,6 +98,14 @@ public static final VertexFieldSemantic TANGENT
 
 
 Tangent vector
+
+### USER_DATA {#USER-DATA}
+```
+public static final VertexFieldSemantic USER_DATA
+```
+
+
+User data, usually for application-specific purpose
 
 ### UV {#UV}
 ```
@@ -92,22 +131,6 @@ public static final VertexFieldSemantic VERTEX_CREASE
 
 Vertex crease
 
-### EDGE_CREASE {#EDGE-CREASE}
-```
-public static final VertexFieldSemantic EDGE_CREASE
-```
-
-
-Edge crease
-
-### USER_DATA {#USER-DATA}
-```
-public static final VertexFieldSemantic USER_DATA
-```
-
-
-User data, usually for application-specific purpose
-
 ### VISIBILITY {#VISIBILITY}
 ```
 public static final VertexFieldSemantic VISIBILITY
@@ -115,14 +138,6 @@ public static final VertexFieldSemantic VISIBILITY
 
 
 Visibility for components
-
-### SPECULAR {#SPECULAR}
-```
-public static final VertexFieldSemantic SPECULAR
-```
-
-
-Specular colors
 
 ### WEIGHT {#WEIGHT}
 ```
@@ -132,16 +147,138 @@ public static final VertexFieldSemantic WEIGHT
 
 Blend weights
 
-### values() {#values--}
+### <T>valueOf(Class<T> arg0, String arg1) {#-T-valueOf-java.lang.Class-T--java.lang.String-}
 ```
-public static VertexFieldSemantic[] values()
+public static T <T>valueOf(Class<T> arg0, String arg1)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | java.lang.Class<T> |  |
+| arg1 | java.lang.String |  |
+
+**Returns:**
+T
+### compareTo(E arg0) {#compareTo-E-}
+```
+public final int compareTo(E arg0)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | E |  |
+
+**Returns:**
+int
+### describeConstable() {#describeConstable--}
+```
+public final Optional<Enum.EnumDesc<E>> describeConstable()
 ```
 
 
 
 
 **Returns:**
-com.aspose.threed.VertexFieldSemantic[]
+java.util.Optional<java.lang.Enum.EnumDesc<E>>
+### equals(Object arg0) {#equals-java.lang.Object-}
+```
+public final boolean equals(Object arg0)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | java.lang.Object |  |
+
+**Returns:**
+boolean
+### getClass() {#getClass--}
+```
+public final native Class<?> getClass()
+```
+
+
+
+
+**Returns:**
+java.lang.Class<?>
+### getDeclaringClass() {#getDeclaringClass--}
+```
+public final Class<E> getDeclaringClass()
+```
+
+
+
+
+**Returns:**
+java.lang.Class<E>
+### hashCode() {#hashCode--}
+```
+public final int hashCode()
+```
+
+
+
+
+**Returns:**
+int
+### name() {#name--}
+```
+public final String name()
+```
+
+
+
+
+**Returns:**
+java.lang.String
+### notify() {#notify--}
+```
+public final native void notify()
+```
+
+
+
+
+### notifyAll() {#notifyAll--}
+```
+public final native void notifyAll()
+```
+
+
+
+
+### ordinal() {#ordinal--}
+```
+public final int ordinal()
+```
+
+
+
+
+**Returns:**
+int
+### toString() {#toString--}
+```
+public String toString()
+```
+
+
+
+
+**Returns:**
+java.lang.String
 ### valueOf(String name) {#valueOf-java.lang.String-}
 ```
 public static VertexFieldSemantic valueOf(String name)
@@ -157,3 +294,48 @@ public static VertexFieldSemantic valueOf(String name)
 
 **Returns:**
 [VertexFieldSemantic](../../com.aspose.threed/vertexfieldsemantic)
+### values() {#values--}
+```
+public static VertexFieldSemantic[] values()
+```
+
+
+
+
+**Returns:**
+com.aspose.threed.VertexFieldSemantic[]
+### wait() {#wait--}
+```
+public final void wait()
+```
+
+
+
+
+### wait(long arg0) {#wait-long-}
+```
+public final native void wait(long arg0)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+
+### wait(long arg0, int arg1) {#wait-long-int-}
+```
+public final void wait(long arg0, int arg1)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+| arg1 | int |  |
+

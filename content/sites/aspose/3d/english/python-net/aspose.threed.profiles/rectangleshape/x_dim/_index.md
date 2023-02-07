@@ -13,6 +13,15 @@ is_root: false
 
 Gets or sets the extent of the rectangle in the direction of x-axis
 Default value is 2.0
+### Definition:
+```python
+@property
+def x_dim(self):
+    ...
+@x_dim.setter
+def x_dim(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.profiles](../../)

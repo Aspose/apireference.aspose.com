@@ -12,6 +12,15 @@ is_root: false
 
 
 Gets or sets the extent of the width.
+### Definition:
+```python
+@property
+def bottom_flange_width(self):
+    ...
+@bottom_flange_width.setter
+def bottom_flange_width(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.profiles](../../)

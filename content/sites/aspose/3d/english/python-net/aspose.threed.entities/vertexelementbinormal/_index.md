@@ -48,7 +48,9 @@ The VertexElementBinormal type exposes the following members:
 | [set_data(data)](/3d/python-net/aspose.threed.entities/vertexelementbinormal/set_data/#list) | Load data |
 
 
-### See Also
 
-* module [aspose.threed.entities](../)
+### See Also
+* module [aspose.threed.entities](..)
+* class [VertexElement](/3d/python-net/aspose.threed.entities/vertexelement)
+* class [VertexElementBinormal](/3d/python-net/aspose.threed.entities/vertexelementbinormal)
 * class [VertexElementVector4](/3d/python-net/aspose.threed.entities/vertexelementvector4)

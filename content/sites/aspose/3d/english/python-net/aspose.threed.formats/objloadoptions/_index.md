@@ -42,7 +42,9 @@ The ObjLoadOptions type exposes the following members:
 | [normalize_normal](/3d/python-net/aspose.threed.formats/objloadoptions/normalize_normal) | Gets or sets whether to normalize the normal vector during the loading.<br/>Default value is true. |
 
 
-### See Also
 
-* module [aspose.threed.formats](../)
+### See Also
+* module [aspose.threed.formats](..)
+* class [IOConfig](/3d/python-net/aspose.threed.formats/ioconfig)
 * class [LoadOptions](/3d/python-net/aspose.threed.formats/loadoptions)
+* class [ObjLoadOptions](/3d/python-net/aspose.threed.formats/objloadoptions)

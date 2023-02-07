@@ -12,7 +12,17 @@ is_root: false
 
 
 Gets or sets the frustum that used to provide view matrix.
+### Definition:
+```python
+@property
+def frustum(self):
+    ...
+@frustum.setter
+def frustum(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.render](../../)
+* class [Frustum](/3d/python-net/aspose.threed.entities/frustum)
 * class [Renderer](/3d/python-net/aspose.threed.render/renderer)

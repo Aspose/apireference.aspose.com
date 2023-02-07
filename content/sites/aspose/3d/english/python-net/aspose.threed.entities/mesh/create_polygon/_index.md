@@ -109,3 +109,4 @@ def create_polygon(self, v1, v2, v3, v4):
 ### See Also
 * module [aspose.threed.entities](../../)
 * class [Mesh](/3d/python-net/aspose.threed.entities/mesh)
+* class [PolygonBuilder](/3d/python-net/aspose.threed.entities/polygonbuilder)

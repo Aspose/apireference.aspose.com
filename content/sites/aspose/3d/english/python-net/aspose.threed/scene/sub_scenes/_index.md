@@ -12,6 +12,12 @@ is_root: false
 
 
 Gets all sub-scenes
+### Definition:
+```python
+@property
+def sub_scenes(self):
+    ...
+```
 
 ### See Also
 * module [aspose.threed](../../)

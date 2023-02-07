@@ -53,7 +53,9 @@ The AnimationClip type exposes the following members:
 | [create_animation_node(node_name)](/3d/python-net/aspose.threed.animation/animationclip/create_animation_node/#str) | A shorthand function to create and register the animation node on current clip. |
 
 
-### See Also
 
-* module [aspose.threed.animation](../)
-* class [SceneObject](/3d/python-net/aspose.threed.animation/sceneobject)
+### See Also
+* module [aspose.threed.animation](..)
+* class [A3DObject](/3d/python-net/aspose.threed/a3dobject)
+* class [AnimationClip](/3d/python-net/aspose.threed.animation/animationclip)
+* class [SceneObject](/3d/python-net/aspose.threed/sceneobject)

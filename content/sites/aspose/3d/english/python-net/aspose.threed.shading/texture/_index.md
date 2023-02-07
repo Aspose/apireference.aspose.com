@@ -63,7 +63,9 @@ The Texture type exposes the following members:
 | [set_rotation(u, v)](/3d/python-net/aspose.threed.shading/texture/set_rotation/#float-float) | Sets the UV rotation. |
 
 
-### See Also
 
-* module [aspose.threed.shading](../)
+### See Also
+* module [aspose.threed.shading](..)
+* class [A3DObject](/3d/python-net/aspose.threed/a3dobject)
+* class [Texture](/3d/python-net/aspose.threed.shading/texture)
 * class [TextureBase](/3d/python-net/aspose.threed.shading/texturebase)

@@ -12,6 +12,15 @@ is_root: false
 
 
 Gets or sets the comment of this asset.
+### Definition:
+```python
+@property
+def comment(self):
+    ...
+@comment.setter
+def comment(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed](../../)

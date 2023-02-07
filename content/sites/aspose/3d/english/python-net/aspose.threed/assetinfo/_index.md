@@ -78,7 +78,9 @@ scene = Scene.from_file("test.fbx")
 print(f"The file is created at {scene.asset_info.creation_time} by {scene.asset_info.application_name} {scene.asset_info.application_version} ")
 
 ```
-### See Also
 
-* module [aspose.threed](../)
+### See Also
+* module [aspose.threed](..)
 * class [A3DObject](/3d/python-net/aspose.threed/a3dobject)
+* class [AssetInfo](/3d/python-net/aspose.threed/assetinfo)
+* class [Scene](/3d/python-net/aspose.threed/scene)

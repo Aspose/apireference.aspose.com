@@ -12,6 +12,15 @@ is_root: false
 
 
 Embed all external assets as base64 into single file in ASCII mode, default value is false.
+### Definition:
+```python
+@property
+def embed_assets(self):
+    ...
+@embed_assets.setter
+def embed_assets(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.formats](../../)

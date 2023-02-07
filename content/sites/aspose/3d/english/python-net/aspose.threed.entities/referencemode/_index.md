@@ -24,6 +24,8 @@ The ReferenceMode type exposes the following members:
 | INDEX_TO_DIRECT | Data is referenced by index, then accessed by index in [VertexElement](/3d/python-net/aspose.threed.entities/vertexelement)'s data list. |
 
 
-### See Also
 
-* module [aspose.threed.entities](../)
+### See Also
+* module [aspose.threed.entities](..)
+* class [ReferenceMode](/3d/python-net/aspose.threed.entities/referencemode)
+* class [VertexElement](/3d/python-net/aspose.threed.entities/vertexelement)

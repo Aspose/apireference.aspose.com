@@ -12,6 +12,15 @@ is_root: false
 
 
 Gets or sets if the geometry is visible
+### Definition:
+```python
+@property
+def visible(self):
+    ...
+@visible.setter
+def visible(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.entities](../../)

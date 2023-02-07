@@ -12,6 +12,12 @@ is_root: false
 
 
 Gets all vertex elements
+### Definition:
+```python
+@property
+def vertex_elements(self):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.entities](../../)

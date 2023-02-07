@@ -44,7 +44,9 @@ The DracoSaveOptions type exposes the following members:
 | [point_cloud](/3d/python-net/aspose.threed.formats/dracosaveoptions/point_cloud) | Export the scene as point cloud, default value is false. |
 
 
-### See Also
 
-* module [aspose.threed.formats](../)
+### See Also
+* module [aspose.threed.formats](..)
+* class [DracoSaveOptions](/3d/python-net/aspose.threed.formats/dracosaveoptions)
+* class [IOConfig](/3d/python-net/aspose.threed.formats/ioconfig)
 * class [SaveOptions](/3d/python-net/aspose.threed.formats/saveoptions)

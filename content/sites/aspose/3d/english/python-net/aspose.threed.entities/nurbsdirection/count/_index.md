@@ -12,6 +12,15 @@ is_root: false
 
 
 Gets or sets the count of control points in current direction.
+### Definition:
+```python
+@property
+def count(self):
+    ...
+@count.setter
+def count(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.entities](../../)

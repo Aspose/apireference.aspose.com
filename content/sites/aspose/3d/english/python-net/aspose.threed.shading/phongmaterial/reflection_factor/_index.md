@@ -12,6 +12,15 @@ is_root: false
 
 
 Gets or sets the attenuation of the reflection color.
+### Definition:
+```python
+@property
+def reflection_factor(self):
+    ...
+@reflection_factor.setter
+def reflection_factor(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.shading](../../)

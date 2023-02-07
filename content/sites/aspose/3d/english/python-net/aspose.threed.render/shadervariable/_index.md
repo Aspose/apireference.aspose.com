@@ -29,6 +29,7 @@ The ShaderVariable type exposes the following members:
 | [name](/3d/python-net/aspose.threed.render/shadervariable/name) | Gets the name of this variable |
 
 
-### See Also
 
-* module [aspose.threed.render](../)
+### See Also
+* module [aspose.threed.render](..)
+* class [ShaderVariable](/3d/python-net/aspose.threed.render/shadervariable)

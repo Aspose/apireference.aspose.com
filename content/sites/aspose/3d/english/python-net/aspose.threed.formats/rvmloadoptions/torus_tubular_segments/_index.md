@@ -12,6 +12,15 @@ is_root: false
 
 
 Gets or sets the number of torus' tubular segments, default value is 20
+### Definition:
+```python
+@property
+def torus_tubular_segments(self):
+    ...
+@torus_tubular_segments.setter
+def torus_tubular_segments(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.formats](../../)

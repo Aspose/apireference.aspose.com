@@ -13,6 +13,15 @@ is_root: false
 
 Gets or sets the prefix of the attributes that were defined in external attribute files,
 The prefix are used to avoid name conflicts, default value is "rvm:"
+### Definition:
+```python
+@property
+def attribute_prefix(self):
+    ...
+@attribute_prefix.setter
+def attribute_prefix(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.formats](../../)

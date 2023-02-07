@@ -12,7 +12,17 @@ is_root: false
 
 
 Gets or sets the specular color of the material, default value is (1, 1, 1).
+### Definition:
+```python
+@property
+def specular(self):
+    ...
+@specular.setter
+def specular(self, value):
+    ...
+```
 
 ### See Also
 * module [aspose.threed.shading](../../)
 * class [PbrSpecularMaterial](/3d/python-net/aspose.threed.shading/pbrspecularmaterial)
+* class [Vector3](/3d/python-net/aspose.threed.utilities/vector3)

@@ -18,26 +18,24 @@ The base interface of render target
 
 | Method | Description |
 | --- | --- |
-| [createViewport(Camera camera, Color backgroundColor, RelativeRectangle rect)](#createViewport-com.aspose.threed.Camera-java.awt.Color-com.aspose.threed.RelativeRectangle-) | Create a viewport with specified background color and position/size in specified camera perspective. |
-| [createViewport(Camera camera, RelativeRectangle rect)](#createViewport-com.aspose.threed.Camera-com.aspose.threed.RelativeRectangle-) | Create a viewport with position/size in specified camera perspective. |
 | [createViewport(Camera camera)](#createViewport-com.aspose.threed.Camera-) | Create a viewport in specified camera perspective. |
+| [createViewport(Camera camera, RelativeRectangle rect)](#createViewport-com.aspose.threed.Camera-com.aspose.threed.RelativeRectangle-) | Create a viewport with position/size in specified camera perspective. |
+| [createViewport(Camera camera, Color backgroundColor, RelativeRectangle rect)](#createViewport-com.aspose.threed.Camera-java.awt.Color-com.aspose.threed.RelativeRectangle-) | Create a viewport with specified background color and position/size in specified camera perspective. |
 | [getSize()](#getSize--) | Gets the size of the render target. |
-| [setSize(Dimension value)](#setSize-java.awt.Dimension-) | Sets the size of the render target. |
 | [getViewports()](#getViewports--) | Gets all viewports that associated with this render target. |
-### createViewport(Camera camera, Color backgroundColor, RelativeRectangle rect) {#createViewport-com.aspose.threed.Camera-java.awt.Color-com.aspose.threed.RelativeRectangle-}
+| [setSize(Dimension value)](#setSize-java.awt.Dimension-) | Sets the size of the render target. |
+### createViewport(Camera camera) {#createViewport-com.aspose.threed.Camera-}
 ```
-public abstract Viewport createViewport(Camera camera, Color backgroundColor, RelativeRectangle rect)
+public abstract Viewport createViewport(Camera camera)
 ```
 
 
-Create a viewport with specified background color and position/size in specified camera perspective.
+Create a viewport in specified camera perspective.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
 | camera | [Camera](../../com.aspose.threed/camera) | The camera |
-| backgroundColor | java.awt.Color | The background of the viewport |
-| rect | [RelativeRectangle](../../com.aspose.threed/relativerectangle) | Position and size of the viewport |
 
 **Returns:**
 [Viewport](../../com.aspose.threed/viewport)
@@ -57,18 +55,20 @@ Create a viewport with position/size in specified camera perspective.
 
 **Returns:**
 [Viewport](../../com.aspose.threed/viewport)
-### createViewport(Camera camera) {#createViewport-com.aspose.threed.Camera-}
+### createViewport(Camera camera, Color backgroundColor, RelativeRectangle rect) {#createViewport-com.aspose.threed.Camera-java.awt.Color-com.aspose.threed.RelativeRectangle-}
 ```
-public abstract Viewport createViewport(Camera camera)
+public abstract Viewport createViewport(Camera camera, Color backgroundColor, RelativeRectangle rect)
 ```
 
 
-Create a viewport in specified camera perspective.
+Create a viewport with specified background color and position/size in specified camera perspective.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
 | camera | [Camera](../../com.aspose.threed/camera) | The camera |
+| backgroundColor | java.awt.Color | The background of the viewport |
+| rect | [RelativeRectangle](../../com.aspose.threed/relativerectangle) | Position and size of the viewport |
 
 **Returns:**
 [Viewport](../../com.aspose.threed/viewport)
@@ -82,6 +82,16 @@ Gets the size of the render target.
 
 **Returns:**
 java.awt.Dimension
+### getViewports() {#getViewports--}
+```
+public abstract List<Viewport> getViewports()
+```
+
+
+Gets all viewports that associated with this render target.
+
+**Returns:**
+java.util.List<com.aspose.threed.Viewport>
 ### setSize(Dimension value) {#setSize-java.awt.Dimension-}
 ```
 public abstract void setSize(Dimension value)
@@ -95,13 +105,3 @@ Sets the size of the render target.
 | --- | --- | --- |
 | value | java.awt.Dimension | New value |
 
-### getViewports() {#getViewports--}
-```
-public abstract List<Viewport> getViewports()
-```
-
-
-Gets all viewports that associated with this render target.
-
-**Returns:**
-java.util.List<com.aspose.threed.Viewport>
