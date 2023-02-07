@@ -23,6 +23,7 @@ id = "aspose-id"
 it = "aspose-it"
 ja = "aspose-ja"
 ko = "aspose-ko"
+nl = "aspose-nl"
 pl = "aspose-pl"
 pt = "aspose-pt"
 sv = "aspose-sv"
@@ -123,6 +124,12 @@ defaultContentLang = 'en'
     languageCode = "id"
     flag = "flag-id"
     weight = 24
+  [languages.nl]
+    contentDir = 'content/sites/aspose/3d/netherlands'
+    languageName = "Nederlands"
+    languageCode = "nl"
+    flag = "flag-nl"
+    weight = 25
 
 disableKinds = ["taxonomy", "taxonomyTerm"]
 ignoreFiles = ["(?i:readme.md)", '\.spin$']
