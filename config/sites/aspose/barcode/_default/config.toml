@@ -93,6 +93,30 @@ defaultContentLang = 'en'
     languageCode = "tr"
     flag = "flag-tr"
     weight = 19
+  [languages.ja]
+    contentDir = 'content/sites/aspose/barcode/japanese'
+    languageName = "日本語"
+    languageCode = "ja"
+    flag = "flag-jp"
+    weight = 20
+  [languages.hi]
+    contentDir = 'content/sites/aspose/barcode/indian'
+    languageName = "हिन्दी"
+    languageCode = "hi"
+    flag = "flag-in"
+    weight = 21
+  [languages.ko]
+    contentDir = 'content/sites/aspose/barcode/korean'
+    languageName = " 한국인"
+    languageCode = "ko"
+    flag = "flag-kr"
+    weight = 22
+  [languages.el]
+    contentDir = 'content/sites/aspose/barcode/greece'
+    languageName = "  Ελληνικά"
+    languageCode = "el"
+    flag = "flag-gr"
+    weight = 23
 
 disableKinds = ["taxonomy", "taxonomyTerm"]
 ignoreFiles = ["(?i:readme.md)", '\.spin$']
