@@ -1,7 +1,7 @@
 ---
 title: InputBin
 second_title: Aspose.Page for Java API Reference
-description: The base class for JobInputBin DocumentInputBin and PageInputBin features classes.
+description: The base class for JobInputBin DocumentInputBin and PageInputBin features classes.
 type: docs
 weight: 41
 url: /java/com.aspose.xps.metadata/inputbin/
@@ -12,4 +12,4 @@ java.lang.Object, [com.aspose.xps.metadata.PrintTicketElement](../../com.aspose.
 public abstract class InputBin extends Feature
 ```
 
-The base class for \`\`\` JobInputBin \`\`\`, \`\`\` DocumentInputBin \`\`\` and \`\`\` PageInputBin \`\`\` features classes.
+The base class for  JobInputBin ,  DocumentInputBin  and  PageInputBin  features classes.

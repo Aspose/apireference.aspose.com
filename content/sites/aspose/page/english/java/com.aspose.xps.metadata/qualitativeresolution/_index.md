@@ -1,7 +1,7 @@
 ---
 title: PageResolution.QualitativeResolution
 second_title: Aspose.Page for Java API Reference
-description: Defines constants for the QualitativeResolution scored property value.
+description: Defines constants for the QualitativeResolution scored property value.
 type: docs
 weight: 11
 url: /java/com.aspose.xps.metadata/pageresolution.qualitativeresolution/
@@ -15,7 +15,7 @@ java.lang.Object, [com.aspose.xps.metadata.PrintTicketElement](../../com.aspose.
 public static final class PageResolution.QualitativeResolution extends ScoredProperty implements PageResolution.IPageResolutionOptionItem
 ```
 
-Defines constants for the \`\`\` QualitativeResolution \`\`\` scored property value.
+Defines constants for the  QualitativeResolution  scored property value.
 ## Fields
 
 | Field | Description |

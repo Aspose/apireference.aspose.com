@@ -1,7 +1,7 @@
 ---
 title: PageMediaType.IPageMediaTypeItem
 second_title: Aspose.Page for Java API Reference
-description: The interface of any PageMediaType feature item.
+description: The interface of any PageMediaType feature item.
 type: docs
 weight: 17
 url: /java/com.aspose.xps.metadata/pagemediatype.ipagemediatypeitem/
@@ -12,4 +12,4 @@ url: /java/com.aspose.xps.metadata/pagemediatype.ipagemediatypeitem/
 public static interface PageMediaType.IPageMediaTypeItem extends IFeatureItem
 ```
 
-The interface of any \`\`\` PageMediaType \`\`\` feature item.
+The interface of any  PageMediaType  feature item.

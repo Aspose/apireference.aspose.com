@@ -1,7 +1,7 @@
 ---
 title: Staple.StapleOption
 second_title: Aspose.Page for Java API Reference
-description: Describes the JobStapleAllDocuments and DocumentStaple features options.
+description: Describes the JobStapleAllDocuments and DocumentStaple features options.
 type: docs
 weight: 10
 url: /java/com.aspose.xps.metadata/staple.stapleoption/
@@ -12,7 +12,7 @@ java.lang.Object, [com.aspose.xps.metadata.PrintTicketElement](../../com.aspose.
 public static final class Staple.StapleOption extends Option
 ```
 
-Describes the \`\`\` JobStapleAllDocuments \`\`\` and \`\`\` DocumentStaple \`\`\` features options.
+Describes the  JobStapleAllDocuments  and  DocumentStaple  features options.
 ## Constructors
 
 | Constructor | Description |
@@ -36,9 +36,9 @@ Describes the \`\`\` JobStapleAllDocuments \`\`\` and \`\`\` DocumentStaple \`\`
 
 | Method | Description |
 | --- | --- |
-| [add(Staple.IStapleOptionItem[] items)](#add-com.aspose.xps.metadata.Staple.IStapleOptionItem...-) | Adds an array of \`\`\` IStapleOptionItem \`\`\` instances to the feature. |
-| [setAngle(int angle)](#setAngle-int-) | Sets an \`\`\` Angle \`\`\` scored property value. |
-| [setSheetCapacity(int sheetCapacity)](#setSheetCapacity-int-) | Sets an \`\`\` SheetCapacity \`\`\` scored property value. |
+| [add(Staple.IStapleOptionItem[] items)](#add-com.aspose.xps.metadata.Staple.IStapleOptionItem...-) | Adds an array of  IStapleOptionItem  instances to the feature. |
+| [setAngle(int angle)](#setAngle-int-) | Sets an  Angle  scored property value. |
+| [setSheetCapacity(int sheetCapacity)](#setSheetCapacity-int-) | Sets an  SheetCapacity  scored property value. |
 ### StapleOption(String optionName, Staple.IStapleOptionItem[] items) {#StapleOption-java.lang.String-com.aspose.xps.metadata.Staple.IStapleOptionItem...-}
 ```
 public StapleOption(String optionName, Staple.IStapleOptionItem[] items)
@@ -51,7 +51,7 @@ Creates a new instance.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | optionName | java.lang.String | An options name. |
-| items | com.aspose.xps.metadata.Staple.IStapleOptionItem[] | An arbitrary array of \`\`\` IStapleOptionItem \`\`\` instances. |
+| items | com.aspose.xps.metadata.Staple.IStapleOptionItem[] | An arbitrary array of  IStapleOptionItem  instances. |
 
 ### SaddleStitch {#SaddleStitch}
 ```
@@ -139,12 +139,12 @@ public Staple.StapleOption add(Staple.IStapleOptionItem[] items)
 ```
 
 
-Adds an array of \`\`\` IStapleOptionItem \`\`\` instances to the feature.
+Adds an array of  IStapleOptionItem  instances to the feature.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| items | com.aspose.xps.metadata.Staple.IStapleOptionItem[] | An arbitrary array of \`\`\` IStapleOptionItem \`\`\` instances. |
+| items | com.aspose.xps.metadata.Staple.IStapleOptionItem[] | An arbitrary array of  IStapleOptionItem  instances. |
 
 **Returns:**
 [StapleOption](../../com.aspose.xps.metadata/stapleoption) - This options instance.
@@ -154,12 +154,12 @@ public Staple.StapleOption setAngle(int angle)
 ```
 
 
-Sets an \`\`\` Angle \`\`\` scored property value.
+Sets an  Angle  scored property value.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| angle | int | An \`\`\` Angle \`\`\` scored property value. |
+| angle | int | An  Angle  scored property value. |
 
 **Returns:**
 [StapleOption](../../com.aspose.xps.metadata/stapleoption) - This option instance.
@@ -169,12 +169,12 @@ public Staple.StapleOption setSheetCapacity(int sheetCapacity)
 ```
 
 
-Sets an \`\`\` SheetCapacity \`\`\` scored property value.
+Sets an  SheetCapacity  scored property value.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| sheetCapacity | int | An \`\`\` SheetCapacity \`\`\` scored property value. |
+| sheetCapacity | int | An  SheetCapacity  scored property value. |
 
 **Returns:**
 [StapleOption](../../com.aspose.xps.metadata/stapleoption) - This option instance.

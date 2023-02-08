@@ -1,7 +1,7 @@
 ---
 title: PageDeviceColorSpaceUsage
 second_title: Aspose.Page for Java API Reference
-description: In conjunction with the PageDeviceColorSpaceProfileURI parameter this parameter defines the rendering behavior for elements presented in a device color space.
+description: In conjunction with the PageDeviceColorSpaceProfileURI parameter this parameter defines the rendering behavior for elements presented in a device color space.
 type: docs
 weight: 95
 url: /java/com.aspose.xps.metadata/pagedevicecolorspaceusage/
@@ -15,7 +15,7 @@ java.lang.Object, [com.aspose.xps.metadata.PrintTicketElement](../../com.aspose.
 public final class PageDeviceColorSpaceUsage extends Feature implements IJobPrintTicketItem, IDocumentPrintTicketItem, IPagePrintTicketItem
 ```
 
-In conjunction with the \`\`\` PageDeviceColorSpaceProfileURI \`\`\` parameter, this parameter defines the rendering behavior for elements presented in a device color space. https://docs.microsoft.com/en-us/windows/win32/printdocs/pagedevicecolorspaceusage
+In conjunction with the  PageDeviceColorSpaceProfileURI  parameter, this parameter defines the rendering behavior for elements presented in a device color space. https://docs.microsoft.com/en-us/windows/win32/printdocs/pagedevicecolorspaceusage
 ## Constructors
 
 | Constructor | Description |

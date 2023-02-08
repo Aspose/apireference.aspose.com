@@ -1,7 +1,7 @@
 ---
 title: PageForceFrontSide.PageForceFrontSideOption
 second_title: Aspose.Page for Java API Reference
-description: Describes the PageForceFrontSide feature options.
+description: Describes the PageForceFrontSide feature options.
 type: docs
 weight: 10
 url: /java/com.aspose.xps.metadata/pageforcefrontside.pageforcefrontsideoption/
@@ -12,7 +12,7 @@ java.lang.Object, [com.aspose.xps.metadata.PrintTicketElement](../../com.aspose.
 public static final class PageForceFrontSide.PageForceFrontSideOption extends Option
 ```
 
-Describes the \`\`\` PageForceFrontSide \`\`\` feature options.
+Describes the  PageForceFrontSide  feature options.
 ## Fields
 
 | Field | Description |

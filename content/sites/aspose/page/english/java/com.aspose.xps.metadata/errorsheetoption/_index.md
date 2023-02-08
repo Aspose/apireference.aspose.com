@@ -1,7 +1,7 @@
 ---
 title: JobErrorSheet.ErrorSheetOption
 second_title: Aspose.Page for Java API Reference
-description: Describes the JobErrorSheet feature options.
+description: Describes the JobErrorSheet feature options.
 type: docs
 weight: 10
 url: /java/com.aspose.xps.metadata/joberrorsheet.errorsheetoption/
@@ -15,7 +15,7 @@ java.lang.Object, [com.aspose.xps.metadata.PrintTicketElement](../../com.aspose.
 public static final class JobErrorSheet.ErrorSheetOption extends Option implements JobErrorSheet.IJobErrorSheetItem
 ```
 
-Describes the \`\`\` JobErrorSheet \`\`\` feature options.
+Describes the  JobErrorSheet  feature options.
 ## Fields
 
 | Field | Description |
@@ -29,7 +29,7 @@ public JobErrorSheet.ErrorSheetOption Custom
 ```
 
 
-Specifies a custom error sheet should be output. If a \`\`\` JobErrorSheetSource \`\`\` \`\`\` ParameterInit \`\`\` element is not specified, this Option should be ignored.
+Specifies a custom error sheet should be output. If a  JobErrorSheetSource   ParameterInit  element is not specified, this Option should be ignored.
 
 ### None {#None}
 ```

@@ -26,9 +26,9 @@ Class incapsulating PathGeometry property element features. This element contain
 | [setTransform(XpsMatrix value)](#setTransform-com.aspose.xps.XpsMatrix-) | Sets the affine transformation matrix establishing the local matrix transformation that is applied to all child and descendant elements of the path geometry before it is used for filling, clipping, or stroking. |
 | [getPathFigures()](#getPathFigures--) | Returns the list of child path figures. |
 | [addSegment(XpsPathSegment segment)](#addSegment-com.aspose.xps.XpsPathSegment-) | Adds a path segment to the list of child segments of the last pah figure. |
-| [insertSegment(int index, XpsPathSegment segment)](#insertSegment-int-com.aspose.xps.XpsPathSegment-) | Inserts a path segment to the list of child segments of the last path figure at \`\`\` index \`\`\` position. |
+| [insertSegment(int index, XpsPathSegment segment)](#insertSegment-int-com.aspose.xps.XpsPathSegment-) | Inserts a path segment to the list of child segments of the last path figure at  index  position. |
 | [removeSegment(XpsPathSegment segment)](#removeSegment-com.aspose.xps.XpsPathSegment-) | Removes a path segment from the list of child segments of the last path figure. |
-| [removeSegmentAt(int index)](#removeSegmentAt-int-) | Removes a path segment from the list of child segments of the last path figure at \`\`\` index \`\`\` position. |
+| [removeSegmentAt(int index)](#removeSegmentAt-int-) | Removes a path segment from the list of child segments of the last path figure at  index  position. |
 | [deepClone()](#deepClone--) | Clones this path geometry. |
 ### getFillRule() {#getFillRule--}
 ```
@@ -107,7 +107,7 @@ public XpsPathSegment insertSegment(int index, XpsPathSegment segment)
 ```
 
 
-Inserts a path segment to the list of child segments of the last path figure at \`\`\` index \`\`\` position.
+Inserts a path segment to the list of child segments of the last path figure at  index  position.
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -138,7 +138,7 @@ public XpsPathSegment removeSegmentAt(int index)
 ```
 
 
-Removes a path segment from the list of child segments of the last path figure at \`\`\` index \`\`\` position.
+Removes a path segment from the list of child segments of the last path figure at  index  position.
 
 **Parameters:**
 | Parameter | Type | Description |

@@ -15,7 +15,7 @@ java.lang.Object, [com.aspose.xps.metadata.PrintTicketElement](../../com.aspose.
 public final class JobCollateAllDocuments extends Collate implements IJobPrintTicketItem
 ```
 
-Describes the collating characteristics of the output. All documents in each individual job are collated. \`\`\` DocumentCollate \`\`\` and \`\`\` JobCollateAllDocuments \`\`\` are mutually exclusive. The behavior and implementation of whether both or only one of these keywords is implemented is left to the driver. https://docs.microsoft.com/en-us/windows/win32/printdocs/jobcollatealldocuments
+Describes the collating characteristics of the output. All documents in each individual job are collated.  DocumentCollate  and  JobCollateAllDocuments  are mutually exclusive. The behavior and implementation of whether both or only one of these keywords is implemented is left to the driver. https://docs.microsoft.com/en-us/windows/win32/printdocs/jobcollatealldocuments
 ## Constructors
 
 | Constructor | Description |

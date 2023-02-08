@@ -15,7 +15,7 @@ java.lang.Object, [com.aspose.xps.metadata.PrintTicketElement](../../com.aspose.
 public final class JobErrorSheet extends Feature implements IJobPrintTicketItem
 ```
 
-Describes the error sheet output. The entire job will have a single error sheet. The error sheet should be output on the default \`\`\` PageMediaSize \`\`\` and using the default \`\`\` PageMediaType \`\`\`. The error sheet should to be isolated from the remainder of the job. This means that any finishing or processing options (such as \`\`\` JobDuplex \`\`\`, \`\`\` JobStaple \`\`\`, or \`\`\` JobBinding \`\`\`) should not include the error sheet. The error sheet should occur as the final sheet of the job. https://docs.microsoft.com/en-us/windows/win32/printdocs/joberrorsheet
+Describes the error sheet output. The entire job will have a single error sheet. The error sheet should be output on the default  PageMediaSize  and using the default  PageMediaType . The error sheet should to be isolated from the remainder of the job. This means that any finishing or processing options (such as  JobDuplex ,  JobStaple , or  JobBinding ) should not include the error sheet. The error sheet should occur as the final sheet of the job. https://docs.microsoft.com/en-us/windows/win32/printdocs/joberrorsheet
 ## Constructors
 
 | Constructor | Description |

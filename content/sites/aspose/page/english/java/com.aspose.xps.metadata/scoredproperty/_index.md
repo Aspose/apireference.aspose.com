@@ -1,7 +1,7 @@
 ---
 title: ScoredProperty
 second_title: Aspose.Page for Java API Reference
-description: The class that implements a common PrintTicket ScoredProperty.
+description: The class that implements a common PrintTicket ScoredProperty.
 type: docs
 weight: 146
 url: /java/com.aspose.xps.metadata/scoredproperty/
@@ -15,7 +15,7 @@ java.lang.Object, [com.aspose.xps.metadata.PrintTicketElement](../../com.aspose.
 public class ScoredProperty extends CompositePrintTicketElement implements IOptionItem, IScoredPropertyItem
 ```
 
-The class that implements a common PrintTicket \`\`\` ScoredProperty \`\`\`. The base class for all schema-defined scored properties. A \`\`\` ScoredProperty \`\`\` element declares a property that is intrinsic to an \`\`\` Option \`\`\` definition. Such properties should be compared when evaluating how closely a requested \`\`\` Option \`\`\` matches a device-supported \`\`\` Option \`\`\`. https://docs.microsoft.com/en-us/windows/win32/printdocs/scoredproperty
+The class that implements a common PrintTicket  ScoredProperty . The base class for all schema-defined scored properties. A  ScoredProperty  element declares a property that is intrinsic to an  Option  definition. Such properties should be compared when evaluating how closely a requested  Option  matches a device-supported  Option . https://docs.microsoft.com/en-us/windows/win32/printdocs/scoredproperty
 ## Constructors
 
 | Constructor | Description |
@@ -34,7 +34,7 @@ Creates a new instance.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | name | java.lang.String | A property name. |
-| parameterRef | [ParameterRef](../../com.aspose.xps.metadata/parameterref) | A \`\`\` ParameterRef \`\`\` instance. |
+| parameterRef | [ParameterRef](../../com.aspose.xps.metadata/parameterref) | A  ParameterRef  instance. |
 
 ### ScoredProperty(String name, Value value, IScoredPropertyItem[] items) {#ScoredProperty-java.lang.String-com.aspose.xps.metadata.Value-com.aspose.xps.metadata.IScoredPropertyItem...-}
 ```
@@ -49,5 +49,5 @@ Creates a new instance.
 | --- | --- | --- |
 | name | java.lang.String | A property name. |
 | value | [Value](../../com.aspose.xps.metadata/value) | A property value. |
-| items | com.aspose.xps.metadata.IScoredPropertyItem[] | An arbitrary array of \`\`\` IScoredPropertyItem \`\`\` instance. Each one must be a \`\`\` ScoredProperty \`\`\`, a \`\`\` Property \`\`\` or a \`\`\` Value \`\`\` instance. |
+| items | com.aspose.xps.metadata.IScoredPropertyItem[] | An arbitrary array of  IScoredPropertyItem  instance. Each one must be a  ScoredProperty , a  Property  or a  Value  instance. |
 

@@ -38,4 +38,4 @@ public Color toColor()
 Convenience method for getting .NET native representation of RGB color.
 
 **Returns:**
-java.awt.Color - \`\`\` System.Drawing.ColorSystem.Drawing.Color \`\`\` structure.
+java.awt.Color -  System.Drawing.ColorSystem.Drawing.Color  structure.

@@ -1,7 +1,7 @@
 ---
 title: PageMediaType.PageMediaTypeOption
 second_title: Aspose.Page for Java API Reference
-description: Describes the PageMediaType feature options.
+description: Describes the PageMediaType feature options.
 type: docs
 weight: 13
 url: /java/com.aspose.xps.metadata/pagemediatype.pagemediatypeoption/
@@ -15,7 +15,7 @@ java.lang.Object, [com.aspose.xps.metadata.PrintTicketElement](../../com.aspose.
 public static final class PageMediaType.PageMediaTypeOption extends Option implements PageMediaType.IPageMediaTypeItem
 ```
 
-Describes the \`\`\` PageMediaType \`\`\` feature options.
+Describes the  PageMediaType  feature options.
 ## Constructors
 
 | Constructor | Description |
@@ -59,8 +59,8 @@ Describes the \`\`\` PageMediaType \`\`\` feature options.
 
 | Method | Description |
 | --- | --- |
-| [add(PageMediaType.IPageMediaTypeOptionItem[] items)](#add-com.aspose.xps.metadata.PageMediaType.IPageMediaTypeOptionItem...-) | Adds an array of \`\`\` IPageMediaTypeOptionItem \`\`\` instances to the option. |
-| [setWeight(int weight)](#setWeight-int-) | Sets a \`\`\` Weight \`\`\` scored property value. |
+| [add(PageMediaType.IPageMediaTypeOptionItem[] items)](#add-com.aspose.xps.metadata.PageMediaType.IPageMediaTypeOptionItem...-) | Adds an array of  IPageMediaTypeOptionItem  instances to the option. |
+| [setWeight(int weight)](#setWeight-int-) | Sets a  Weight  scored property value. |
 | [clone()](#clone--) | Clones this option instance. |
 ### PageMediaTypeOption(String optionName, PageMediaType.IPageMediaTypeOptionItem[] items) {#PageMediaTypeOption-java.lang.String-com.aspose.xps.metadata.PageMediaType.IPageMediaTypeOptionItem...-}
 ```
@@ -74,7 +74,7 @@ Creates a new instance.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | optionName | java.lang.String | An options name. |
-| items | com.aspose.xps.metadata.PageMediaType.IPageMediaTypeOptionItem[] | An arbitrary array of \`\`\` IPageMediaTypeOptionItem \`\`\` instances. |
+| items | com.aspose.xps.metadata.PageMediaType.IPageMediaTypeOptionItem[] | An arbitrary array of  IPageMediaTypeOptionItem  instances. |
 
 ### PageMediaTypeOption(PageMediaType.PageMediaTypeOption option) {#PageMediaTypeOption-com.aspose.xps.metadata.PageMediaType.PageMediaTypeOption-}
 ```
@@ -327,12 +327,12 @@ public PageMediaType.PageMediaTypeOption add(PageMediaType.IPageMediaTypeOptionI
 ```
 
 
-Adds an array of \`\`\` IPageMediaTypeOptionItem \`\`\` instances to the option.
+Adds an array of  IPageMediaTypeOptionItem  instances to the option.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| items | com.aspose.xps.metadata.PageMediaType.IPageMediaTypeOptionItem[] | An arbitrary array of \`\`\` IPageMediaTypeOptionItem \`\`\` instances. |
+| items | com.aspose.xps.metadata.PageMediaType.IPageMediaTypeOptionItem[] | An arbitrary array of  IPageMediaTypeOptionItem  instances. |
 
 **Returns:**
 [PageMediaTypeOption](../../com.aspose.xps.metadata/pagemediatypeoption) - This options instance.
@@ -342,12 +342,12 @@ public PageMediaType.PageMediaTypeOption setWeight(int weight)
 ```
 
 
-Sets a \`\`\` Weight \`\`\` scored property value.
+Sets a  Weight  scored property value.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| weight | int | A \`\`\` Weight \`\`\` scored property value. |
+| weight | int | A  Weight  scored property value. |
 
 **Returns:**
 [PageMediaTypeOption](../../com.aspose.xps.metadata/pagemediatypeoption) - This option instance.

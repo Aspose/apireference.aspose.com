@@ -1,7 +1,7 @@
 ---
 title: InputBin.MediaTypeAutoSense
 second_title: Aspose.Page for Java API Reference
-description: Defines constants for the MediaTypeAutoSense scored property value.
+description: Defines constants for the MediaTypeAutoSense scored property value.
 type: docs
 weight: 17
 url: /java/com.aspose.xps.metadata/inputbin.mediatypeautosense/
@@ -15,7 +15,7 @@ java.lang.Object, [com.aspose.xps.metadata.PrintTicketElement](../../com.aspose.
 public static final class InputBin.MediaTypeAutoSense extends ScoredProperty implements InputBin.IInputBinOptionItem
 ```
 
-Defines constants for the \`\`\` MediaTypeAutoSense \`\`\` scored property value.
+Defines constants for the  MediaTypeAutoSense  scored property value.
 ## Fields
 
 | Field | Description |

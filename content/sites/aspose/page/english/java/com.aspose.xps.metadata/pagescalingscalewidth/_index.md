@@ -1,7 +1,7 @@
 ---
 title: PageScalingScaleWidth
 second_title: Aspose.Page for Java API Reference
-description: Specifies the scaling factor in the ImageableSizeWidth direction for custom scaling.
+description: Specifies the scaling factor in the ImageableSizeWidth direction for custom scaling.
 type: docs
 weight: 126
 url: /java/com.aspose.xps.metadata/pagescalingscalewidth/
@@ -15,7 +15,7 @@ java.lang.Object, [com.aspose.xps.metadata.PrintTicketElement](../../com.aspose.
 public final class PageScalingScaleWidth extends IntegerParameterInit implements IJobPrintTicketItem, IDocumentPrintTicketItem, IPagePrintTicketItem
 ```
 
-Specifies the scaling factor in the \`\`\` ImageableSizeWidth \`\`\` direction for custom scaling. https://docs.microsoft.com/en-us/windows/win32/printdocs/pagescalingscalewidth
+Specifies the scaling factor in the  ImageableSizeWidth  direction for custom scaling. https://docs.microsoft.com/en-us/windows/win32/printdocs/pagescalingscalewidth
 ## Constructors
 
 | Constructor | Description |

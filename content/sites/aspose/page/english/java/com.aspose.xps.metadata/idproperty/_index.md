@@ -1,7 +1,7 @@
 ---
 title: IDProperty
 second_title: Aspose.Page for Java API Reference
-description: The base class for JobID and DocumentID properties classes.
+description: The base class for JobID and DocumentID properties classes.
 type: docs
 weight: 40
 url: /java/com.aspose.xps.metadata/idproperty/
@@ -12,4 +12,4 @@ java.lang.Object, [com.aspose.xps.metadata.PrintTicketElement](../../com.aspose.
 public class IDProperty extends Property
 ```
 
-The base class for \`\`\` JobID \`\`\` and \`\`\` DocumentID \`\`\` properties classes.
+The base class for  JobID  and  DocumentID  properties classes.

@@ -1,7 +1,7 @@
 ---
 title: InputBin.MediaPath
 second_title: Aspose.Page for Java API Reference
-description: Defines constants for the MediaPath scored property value.
+description: Defines constants for the MediaPath scored property value.
 type: docs
 weight: 15
 url: /java/com.aspose.xps.metadata/inputbin.mediapath/
@@ -15,7 +15,7 @@ java.lang.Object, [com.aspose.xps.metadata.PrintTicketElement](../../com.aspose.
 public static final class InputBin.MediaPath extends ScoredProperty implements InputBin.IInputBinOptionItem
 ```
 
-Defines constants for the \`\`\` MediaPath \`\`\` scored property value.
+Defines constants for the  MediaPath  scored property value.
 ## Fields
 
 | Field | Description |

@@ -1,7 +1,7 @@
 ---
 title: JobPrimaryCoverFront.CoverFrontOption
 second_title: Aspose.Page for Java API Reference
-description: Describes the JobPrimaryCoverFront feature options.
+description: Describes the JobPrimaryCoverFront feature options.
 type: docs
 weight: 10
 url: /java/com.aspose.xps.metadata/jobprimarycoverfront.coverfrontoption/
@@ -12,7 +12,7 @@ java.lang.Object, [com.aspose.xps.metadata.PrintTicketElement](../../com.aspose.
 public static final class JobPrimaryCoverFront.CoverFrontOption extends Option
 ```
 
-Describes the \`\`\` JobPrimaryCoverFront \`\`\` feature options.
+Describes the  JobPrimaryCoverFront  feature options.
 ## Fields
 
 | Field | Description |
@@ -36,7 +36,7 @@ public static JobPrimaryCoverFront.CoverFrontOption PrintBack
 ```
 
 
-Specifies the cover indicated by "CoverFrontSource" should be printed on the back side of the cover sheet. If a \`\`\` JobPrimaryCoverFrontSource \`\`\` \`\`\` ParameterInit \`\`\` element is not specified, this Option should be ignored.
+Specifies the cover indicated by "CoverFrontSource" should be printed on the back side of the cover sheet. If a  JobPrimaryCoverFrontSource   ParameterInit  element is not specified, this Option should be ignored.
 
 ### PrintBoth {#PrintBoth}
 ```
@@ -44,7 +44,7 @@ public static JobPrimaryCoverFront.CoverFrontOption PrintBoth
 ```
 
 
-Specifies the cover indicated by "CoverFrontSource" may be printed on either side of the cover sheet. If a \`\`\` JobPrimaryCoverFrontSource \`\`\` \`\`\` ParameterInit \`\`\` element is not specified, this Option should be ignored.
+Specifies the cover indicated by "CoverFrontSource" may be printed on either side of the cover sheet. If a  JobPrimaryCoverFrontSource   ParameterInit  element is not specified, this Option should be ignored.
 
 ### PrintFront {#PrintFront}
 ```
@@ -52,7 +52,7 @@ public static JobPrimaryCoverFront.CoverFrontOption PrintFront
 ```
 
 
-Specifies the cover indicated by "CoverFrontSource" should be printed on the front side of the cover sheet. If a \`\`\` JobPrimaryCoverFrontSource \`\`\` \`\`\` ParameterInit \`\`\` element is not specified, this Option should be ignored.
+Specifies the cover indicated by "CoverFrontSource" should be printed on the front side of the cover sheet. If a  JobPrimaryCoverFrontSource   ParameterInit  element is not specified, this Option should be ignored.
 
 ### BlankCover {#BlankCover}
 ```

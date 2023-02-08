@@ -1,7 +1,7 @@
 ---
 title: NUp.PresentationDirection
 second_title: Aspose.Page for Java API Reference
-description: Describes inner PresentationDirection feature.
+description: Describes inner PresentationDirection feature.
 type: docs
 weight: 10
 url: /java/com.aspose.xps.metadata/nup.presentationdirection/
@@ -15,7 +15,7 @@ java.lang.Object, [com.aspose.xps.metadata.PrintTicketElement](../../com.aspose.
 public static final class NUp.PresentationDirection extends Feature implements NUp.INUpItem
 ```
 
-Describes inner \`\`\` PresentationDirection \`\`\` feature.
+Describes inner  PresentationDirection  feature.
 ## Constructors
 
 | Constructor | Description |

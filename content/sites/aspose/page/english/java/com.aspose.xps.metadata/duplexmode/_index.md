@@ -1,7 +1,7 @@
 ---
 title: Duplex.DuplexMode
 second_title: Aspose.Page for Java API Reference
-description: Defines possible values of the DuplexOptions DuplexMode scored property.
+description: Defines possible values of the DuplexOptions DuplexMode scored property.
 type: docs
 weight: 10
 url: /java/com.aspose.xps.metadata/duplex.duplexmode/
@@ -12,7 +12,7 @@ java.lang.Object, [com.aspose.xps.metadata.PrintTicketElement](../../com.aspose.
 public static final class Duplex.DuplexMode extends ScoredProperty
 ```
 
-Defines possible values of the \`\`\` DuplexOption \`\`\`'s \`\`\` DuplexMode \`\`\` scored property.
+Defines possible values of the  DuplexOption 's  DuplexMode  scored property.
 ## Fields
 
 | Field | Description |

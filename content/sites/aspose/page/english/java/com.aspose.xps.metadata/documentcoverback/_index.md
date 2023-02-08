@@ -15,7 +15,7 @@ java.lang.Object, [com.aspose.xps.metadata.PrintTicketElement](../../com.aspose.
 public final class DocumentCoverBack extends Feature implements IJobPrintTicketItem, IDocumentPrintTicketItem
 ```
 
-Describes the back (ending) cover sheet. Each document will have a separate sheet. The cover sheet should be printed on the \`\`\` PageMediaSize \`\`\` and \`\`\` PageMediaType \`\`\` used for the final page of the document. The cover sheet should be integrated into processing options (such as \`\`\` DocumentDuplex \`\`\`, \`\`\` DocumentNUp \`\`\`) as indicated by the Option specified. https://docs.microsoft.com/en-us/windows/win32/printdocs/documentcoverback
+Describes the back (ending) cover sheet. Each document will have a separate sheet. The cover sheet should be printed on the  PageMediaSize  and  PageMediaType  used for the final page of the document. The cover sheet should be integrated into processing options (such as  DocumentDuplex ,  DocumentNUp ) as indicated by the Option specified. https://docs.microsoft.com/en-us/windows/win32/printdocs/documentcoverback
 ## Constructors
 
 | Constructor | Description |

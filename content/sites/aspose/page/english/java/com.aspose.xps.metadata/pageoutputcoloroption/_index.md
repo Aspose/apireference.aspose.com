@@ -1,7 +1,7 @@
 ---
 title: PageOutputColor.PageOutputColorOption
 second_title: Aspose.Page for Java API Reference
-description: Describes the PageOutputColor feature options.
+description: Describes the PageOutputColor feature options.
 type: docs
 weight: 10
 url: /java/com.aspose.xps.metadata/pageoutputcolor.pageoutputcoloroption/
@@ -15,7 +15,7 @@ java.lang.Object, [com.aspose.xps.metadata.PrintTicketElement](../../com.aspose.
 public static final class PageOutputColor.PageOutputColorOption extends Option implements PageOutputColor.IPageOutputColorItem
 ```
 
-Describes the \`\`\` PageOutputColor \`\`\` feature options.
+Describes the  PageOutputColor  feature options.
 ## Constructors
 
 | Constructor | Description |
@@ -33,9 +33,9 @@ Describes the \`\`\` PageOutputColor \`\`\` feature options.
 
 | Method | Description |
 | --- | --- |
-| [add(PageOutputColor.IPageOutputColorOptionItem[] items)](#add-com.aspose.xps.metadata.PageOutputColor.IPageOutputColorOptionItem...-) | Adds an array of \`\`\` IPageOutputColorOptionItem \`\`\` instances to the option. |
-| [setDeviceBitsPerPixel(int deviceBitsPerPixel)](#setDeviceBitsPerPixel-int-) | Sets a \`\`\` DeviceBitsPerPixel \`\`\` scored property value. |
-| [setDriverBitsPerPixel(int driverBitsPerPixel)](#setDriverBitsPerPixel-int-) | Sets a \`\`\` DriverBitsPerPixel \`\`\` scored property value. |
+| [add(PageOutputColor.IPageOutputColorOptionItem[] items)](#add-com.aspose.xps.metadata.PageOutputColor.IPageOutputColorOptionItem...-) | Adds an array of  IPageOutputColorOptionItem  instances to the option. |
+| [setDeviceBitsPerPixel(int deviceBitsPerPixel)](#setDeviceBitsPerPixel-int-) | Sets a  DeviceBitsPerPixel  scored property value. |
+| [setDriverBitsPerPixel(int driverBitsPerPixel)](#setDriverBitsPerPixel-int-) | Sets a  DriverBitsPerPixel  scored property value. |
 | [clone()](#clone--) | Clones this option instance. |
 ### PageOutputColorOption(String optionName, PageOutputColor.IPageOutputColorOptionItem[] items) {#PageOutputColorOption-java.lang.String-com.aspose.xps.metadata.PageOutputColor.IPageOutputColorOptionItem...-}
 ```
@@ -49,7 +49,7 @@ Creates a new instance.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | optionName | java.lang.String | An options name. |
-| items | com.aspose.xps.metadata.PageOutputColor.IPageOutputColorOptionItem[] | An arbitrary array of \`\`\` IPageOutputColorOptionItem \`\`\` instances. |
+| items | com.aspose.xps.metadata.PageOutputColor.IPageOutputColorOptionItem[] | An arbitrary array of  IPageOutputColorOptionItem  instances. |
 
 ### PageOutputColorOption(PageOutputColor.PageOutputColorOption option) {#PageOutputColorOption-com.aspose.xps.metadata.PageOutputColor.PageOutputColorOption-}
 ```
@@ -94,12 +94,12 @@ public PageOutputColor.PageOutputColorOption add(PageOutputColor.IPageOutputColo
 ```
 
 
-Adds an array of \`\`\` IPageOutputColorOptionItem \`\`\` instances to the option.
+Adds an array of  IPageOutputColorOptionItem  instances to the option.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| items | com.aspose.xps.metadata.PageOutputColor.IPageOutputColorOptionItem[] | An arbitrary array of \`\`\` IPageOutputColorOptionItem \`\`\` instances. |
+| items | com.aspose.xps.metadata.PageOutputColor.IPageOutputColorOptionItem[] | An arbitrary array of  IPageOutputColorOptionItem  instances. |
 
 **Returns:**
 [PageOutputColorOption](../../com.aspose.xps.metadata/pageoutputcoloroption) - This options instance.
@@ -109,12 +109,12 @@ public PageOutputColor.PageOutputColorOption setDeviceBitsPerPixel(int deviceBit
 ```
 
 
-Sets a \`\`\` DeviceBitsPerPixel \`\`\` scored property value.
+Sets a  DeviceBitsPerPixel  scored property value.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| deviceBitsPerPixel | int | A \`\`\` DeviceBitsPerPixel \`\`\` scored property value. |
+| deviceBitsPerPixel | int | A  DeviceBitsPerPixel  scored property value. |
 
 **Returns:**
 [PageOutputColorOption](../../com.aspose.xps.metadata/pageoutputcoloroption) - This option instance.
@@ -124,12 +124,12 @@ public PageOutputColor.PageOutputColorOption setDriverBitsPerPixel(int driverBit
 ```
 
 
-Sets a \`\`\` DriverBitsPerPixel \`\`\` scored property value.
+Sets a  DriverBitsPerPixel  scored property value.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| driverBitsPerPixel | int | A \`\`\` DriverBitsPerPixel \`\`\` scored property value. |
+| driverBitsPerPixel | int | A  DriverBitsPerPixel  scored property value. |
 
 **Returns:**
 [PageOutputColorOption](../../com.aspose.xps.metadata/pageoutputcoloroption) - This option instance.

@@ -1,7 +1,7 @@
 ---
 title: PageMediaType.Material
 second_title: Aspose.Page for Java API Reference
-description: Defines constants for the Material scored property value.
+description: Defines constants for the Material scored property value.
 type: docs
 weight: 12
 url: /java/com.aspose.xps.metadata/pagemediatype.material/
@@ -15,7 +15,7 @@ java.lang.Object, [com.aspose.xps.metadata.PrintTicketElement](../../com.aspose.
 public static final class PageMediaType.Material extends ScoredProperty implements PageMediaType.IPageMediaTypeOptionItem
 ```
 
-Defines constants for the \`\`\` Material \`\`\` scored property value.
+Defines constants for the  Material  scored property value.
 ## Fields
 
 | Field | Description |

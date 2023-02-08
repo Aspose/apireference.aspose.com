@@ -1,7 +1,7 @@
 ---
 title: InputBin.FeedFace
 second_title: Aspose.Page for Java API Reference
-description: Defines constants for the FeedFace scored property value.
+description: Defines constants for the FeedFace scored property value.
 type: docs
 weight: 12
 url: /java/com.aspose.xps.metadata/inputbin.feedface/
@@ -15,7 +15,7 @@ java.lang.Object, [com.aspose.xps.metadata.PrintTicketElement](../../com.aspose.
 public static final class InputBin.FeedFace extends Property implements InputBin.IInputBinOptionItem
 ```
 
-Defines constants for the \`\`\` FeedFace \`\`\` scored property value.
+Defines constants for the  FeedFace  scored property value.
 ## Fields
 
 | Field | Description |

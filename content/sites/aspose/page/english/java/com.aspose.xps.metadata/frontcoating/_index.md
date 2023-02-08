@@ -1,7 +1,7 @@
 ---
 title: PageMediaType.FrontCoating
 second_title: Aspose.Page for Java API Reference
-description: Defines constants for the FrontCoating scored property value.
+description: Defines constants for the FrontCoating scored property value.
 type: docs
 weight: 11
 url: /java/com.aspose.xps.metadata/pagemediatype.frontcoating/
@@ -15,7 +15,7 @@ java.lang.Object, [com.aspose.xps.metadata.PrintTicketElement](../../com.aspose.
 public static final class PageMediaType.FrontCoating extends ScoredProperty implements PageMediaType.IPageMediaTypeOptionItem
 ```
 
-Defines constants for the \`\`\` FrontCoating \`\`\` scored property value.
+Defines constants for the  FrontCoating  scored property value.
 ## Fields
 
 | Field | Description |

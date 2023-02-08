@@ -1,7 +1,7 @@
 ---
 title: PageMediaType
 second_title: Aspose.Page for Java API Reference
-description: Describes the MediaType options and the characteristics of each option.
+description: Describes the MediaType options and the characteristics of each option.
 type: docs
 weight: 110
 url: /java/com.aspose.xps.metadata/pagemediatype/
@@ -15,7 +15,7 @@ java.lang.Object, [com.aspose.xps.metadata.PrintTicketElement](../../com.aspose.
 public final class PageMediaType extends Feature implements IJobPrintTicketItem, IDocumentPrintTicketItem, IPagePrintTicketItem
 ```
 
-Describes the \`\`\` MediaType \`\`\` options and the characteristics of each option. https://docs.microsoft.com/en-us/windows/win32/printdocs/pagemediatype
+Describes the  MediaType  options and the characteristics of each option. https://docs.microsoft.com/en-us/windows/win32/printdocs/pagemediatype
 ## Constructors
 
 | Constructor | Description |

@@ -15,7 +15,7 @@ java.lang.Object, [com.aspose.xps.metadata.PrintTicketElement](../../com.aspose.
 public final class JobPrimaryBannerSheet extends Feature implements IJobPrintTicketItem
 ```
 
-Describes the banner sheet to be output for the job. The banner sheet should be output on the default \`\`\` PageMediaSize \`\`\` and using the default \`\`\` PageMediaType \`\`\`. The banner sheet should be isolated from the remainder of the job. This means that any finishing or processing options (such as \`\`\` JobDuplexAllDocumentsContiguously \`\`\`, \`\`\` JobStapleAllDocuments \`\`\`, or \`\`\` JobBindAllDocuments \`\`\`) should not include the banner sheet. The banner sheet should occur as the first sheet of the job.
+Describes the banner sheet to be output for the job. The banner sheet should be output on the default  PageMediaSize  and using the default  PageMediaType . The banner sheet should be isolated from the remainder of the job. This means that any finishing or processing options (such as  JobDuplexAllDocumentsContiguously ,  JobStapleAllDocuments , or  JobBindAllDocuments ) should not include the banner sheet. The banner sheet should occur as the first sheet of the job.
 ## Constructors
 
 | Constructor | Description |

@@ -1,7 +1,7 @@
 ---
 title: PageOutputQuality.PageOutputQualityOption
 second_title: Aspose.Page for Java API Reference
-description: Defines PageOutputQuality feature options.
+description: Defines PageOutputQuality feature options.
 type: docs
 weight: 10
 url: /java/com.aspose.xps.metadata/pageoutputquality.pageoutputqualityoption/
@@ -12,7 +12,7 @@ java.lang.Object, [com.aspose.xps.metadata.PrintTicketElement](../../com.aspose.
 public static final class PageOutputQuality.PageOutputQualityOption extends Option
 ```
 
-Defines \`\`\` PageOutputQuality \`\`\` feature options.
+Defines  PageOutputQuality  feature options.
 ## Fields
 
 | Field | Description |

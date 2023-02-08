@@ -1,7 +1,7 @@
 ---
 title: PageTrueTypeFontMode.PageTrueTypeFontModeOption
 second_title: Aspose.Page for Java API Reference
-description: Describes the PageTrueTypeFontMode feature options.
+description: Describes the PageTrueTypeFontMode feature options.
 type: docs
 weight: 10
 url: /java/com.aspose.xps.metadata/pagetruetypefontmode.pagetruetypefontmodeoption/
@@ -12,7 +12,7 @@ java.lang.Object, [com.aspose.xps.metadata.PrintTicketElement](../../com.aspose.
 public static final class PageTrueTypeFontMode.PageTrueTypeFontModeOption extends Option
 ```
 
-Describes the \`\`\` PageTrueTypeFontMode \`\`\` feature options.
+Describes the  PageTrueTypeFontMode  feature options.
 ## Fields
 
 | Field | Description |

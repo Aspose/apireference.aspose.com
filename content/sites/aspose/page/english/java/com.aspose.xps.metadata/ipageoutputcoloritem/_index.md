@@ -1,7 +1,7 @@
 ---
 title: PageOutputColor.IPageOutputColorItem
 second_title: Aspose.Page for Java API Reference
-description: The interface of any PageOutputColor feature item.
+description: The interface of any PageOutputColor feature item.
 type: docs
 weight: 11
 url: /java/com.aspose.xps.metadata/pageoutputcolor.ipageoutputcoloritem/
@@ -12,4 +12,4 @@ url: /java/com.aspose.xps.metadata/pageoutputcolor.ipageoutputcoloritem/
 public static interface PageOutputColor.IPageOutputColorItem extends IFeatureItem
 ```
 
-The interface of any \`\`\` PageOutputColor \`\`\` feature item.
+The interface of any  PageOutputColor  feature item.

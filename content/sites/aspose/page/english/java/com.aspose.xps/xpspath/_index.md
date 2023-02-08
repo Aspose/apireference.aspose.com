@@ -253,7 +253,7 @@ public float getStrokeMiterLimit()
 ```
 
 
-Returns the ratio between the maximum miter length and half of the stroke thickness. This value is significant only if the \`\`\` StrokeLineJoin \`\`\` attribute specifies \`\`\` Miter \`\`\`.
+Returns the ratio between the maximum miter length and half of the stroke thickness. This value is significant only if the  StrokeLineJoin  attribute specifies  Miter .
 
 **Returns:**
 float - The ratio between the maximum miter length and half of the stroke thickness.
@@ -263,7 +263,7 @@ public void setStrokeMiterLimit(float value)
 ```
 
 
-Sets the ratio between the maximum miter length and half of the stroke thickness. This value is significant only if the \`\`\` StrokeLineJoin \`\`\` attribute specifies \`\`\` Miter \`\`\`.
+Sets the ratio between the maximum miter length and half of the stroke thickness. This value is significant only if the  StrokeLineJoin  attribute specifies  Miter .
 
 **Parameters:**
 | Parameter | Type | Description |

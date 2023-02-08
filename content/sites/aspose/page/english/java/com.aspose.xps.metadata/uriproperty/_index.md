@@ -1,7 +1,7 @@
 ---
 title: URIProperty
 second_title: Aspose.Page for Java API Reference
-description: The base class for JobURI and DocumentURI properties classes.
+description: The base class for JobURI and DocumentURI properties classes.
 type: docs
 weight: 151
 url: /java/com.aspose.xps.metadata/uriproperty/
@@ -12,4 +12,4 @@ java.lang.Object, [com.aspose.xps.metadata.PrintTicketElement](../../com.aspose.
 public class URIProperty extends Property
 ```
 
-The base class for \`\`\` JobURI \`\`\` and \`\`\` DocumentURI \`\`\` properties classes.
+The base class for  JobURI  and  DocumentURI  properties classes.

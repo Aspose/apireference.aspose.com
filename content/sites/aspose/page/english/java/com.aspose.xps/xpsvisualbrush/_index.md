@@ -18,7 +18,7 @@ Class incapsulating VisualBrush property element features. This element is used 
 | Method | Description |
 | --- | --- |
 | [getVisual()](#getVisual--) | Returns a Path, Glyphs, or Canvas element used to draw the brush\\u2019s source content. |
-| [setVisual(XpsContentElement visual)](#setVisual-com.aspose.xps.XpsContentElement-) | Sets \`\`\` visual \`\`\` as Visual element of visual brush. |
+| [setVisual(XpsContentElement visual)](#setVisual-com.aspose.xps.XpsContentElement-) | Sets  visual  as Visual element of visual brush. |
 | [deepClone()](#deepClone--) | Clones this visual brush. |
 ### getVisual() {#getVisual--}
 ```
@@ -36,7 +36,7 @@ public void setVisual(XpsContentElement visual)
 ```
 
 
-Sets \`\`\` visual \`\`\` as Visual element of visual brush.
+Sets  visual  as Visual element of visual brush.
 
 **Parameters:**
 | Parameter | Type | Description |

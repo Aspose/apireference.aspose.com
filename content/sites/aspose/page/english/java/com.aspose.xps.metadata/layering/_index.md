@@ -1,7 +1,7 @@
 ---
 title: PageWatermark.Layering
 second_title: Aspose.Page for Java API Reference
-description: Describes inner Layering feature.
+description: Describes inner Layering feature.
 type: docs
 weight: 10
 url: /java/com.aspose.xps.metadata/pagewatermark.layering/
@@ -15,7 +15,7 @@ java.lang.Object, [com.aspose.xps.metadata.PrintTicketElement](../../com.aspose.
 public static final class PageWatermark.Layering extends Feature implements PageWatermark.IPageWatermarkItem
 ```
 
-Describes inner \`\`\` Layering \`\`\` feature. Defines the layering behavior of the watermark.
+Describes inner  Layering  feature. Defines the layering behavior of the watermark.
 ## Constructors
 
 | Constructor | Description |

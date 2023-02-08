@@ -3,7 +3,7 @@ title: PsConverterLicenseException
 second_title: Aspose.Page for Java API Reference
 description: This class contains information about an error connected with licensing of Aspose.Page product.
 type: docs
-weight: 11
+weight: 14
 url: /java/com.aspose.eps/psconverterlicenseexception/
 ---
 **Inheritance:**
@@ -17,14 +17,14 @@ This class contains information about an error connected with licensing of Aspos
 
 | Constructor | Description |
 | --- | --- |
-| [PsConverterLicenseException(String errorStr)](#PsConverterLicenseException-java.lang.String-) | Initializes a new instance of the \`\`\` PsConverterLicenseException \`\`\` from \`\`\` errorStr \`\`\` string. |
+| [PsConverterLicenseException(String errorStr)](#PsConverterLicenseException-java.lang.String-) | Initializes a new instance of the  PsConverterLicenseException  from  errorStr  string. |
 ### PsConverterLicenseException(String errorStr) {#PsConverterLicenseException-java.lang.String-}
 ```
 public PsConverterLicenseException(String errorStr)
 ```
 
 
-Initializes a new instance of the \`\`\` PsConverterLicenseException \`\`\` from \`\`\` errorStr \`\`\` string.
+Initializes a new instance of the  PsConverterLicenseException  from  errorStr  string.
 
 **Parameters:**
 | Parameter | Type | Description |

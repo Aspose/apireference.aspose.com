@@ -1,7 +1,7 @@
 ---
 title: PageScalingOffsetHeight
 second_title: Aspose.Page for Java API Reference
-description: Specifies the scaling offset in the ImageableSizeWidth direction for custom scaling.
+description: Specifies the scaling offset in the ImageableSizeWidth direction for custom scaling.
 type: docs
 weight: 122
 url: /java/com.aspose.xps.metadata/pagescalingoffsetheight/
@@ -15,7 +15,7 @@ java.lang.Object, [com.aspose.xps.metadata.PrintTicketElement](../../com.aspose.
 public final class PageScalingOffsetHeight extends IntegerParameterInit implements IJobPrintTicketItem, IDocumentPrintTicketItem, IPagePrintTicketItem
 ```
 
-Specifies the scaling offset in the \`\`\` ImageableSizeWidth \`\`\` direction for custom scaling. https://docs.microsoft.com/en-us/windows/win32/printdocs/pagescalingoffsetheight
+Specifies the scaling offset in the  ImageableSizeWidth  direction for custom scaling. https://docs.microsoft.com/en-us/windows/win32/printdocs/pagescalingoffsetheight
 ## Constructors
 
 | Constructor | Description |

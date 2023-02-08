@@ -1,7 +1,7 @@
 ---
 title: PageBlackGenerationProcessing.PageBlackGenerationProcessingOption
 second_title: Aspose.Page for Java API Reference
-description: Describes the PageBlackGenerationProcessing feature options.
+description: Describes the PageBlackGenerationProcessing feature options.
 type: docs
 weight: 10
 url: /java/com.aspose.xps.metadata/pageblackgenerationprocessing.pageblackgenerationprocessingoption/
@@ -12,7 +12,7 @@ java.lang.Object, [com.aspose.xps.metadata.PrintTicketElement](../../com.aspose.
 public static final class PageBlackGenerationProcessing.PageBlackGenerationProcessingOption extends Option
 ```
 
-Describes the \`\`\` PageBlackGenerationProcessing \`\`\` feature options.
+Describes the  PageBlackGenerationProcessing  feature options.
 ## Fields
 
 | Field | Description |

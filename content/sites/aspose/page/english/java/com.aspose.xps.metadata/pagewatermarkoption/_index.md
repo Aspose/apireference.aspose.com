@@ -1,7 +1,7 @@
 ---
 title: PageWatermark.PageWatermarkOption
 second_title: Aspose.Page for Java API Reference
-description: Describes the PageWatermark features options.
+description: Describes the PageWatermark features options.
 type: docs
 weight: 12
 url: /java/com.aspose.xps.metadata/pagewatermark.pagewatermarkoption/
@@ -15,7 +15,7 @@ java.lang.Object, [com.aspose.xps.metadata.PrintTicketElement](../../com.aspose.
 public static final class PageWatermark.PageWatermarkOption extends Option implements PageWatermark.IPageWatermarkItem
 ```
 
-Describes the \`\`\` PageWatermark \`\`\` features options.
+Describes the  PageWatermark  features options.
 ## Constructors
 
 | Constructor | Description |
@@ -31,7 +31,7 @@ Describes the \`\`\` PageWatermark \`\`\` features options.
 
 | Method | Description |
 | --- | --- |
-| [add(PageWatermark.IPageWatermarkOptionItem[] items)](#add-com.aspose.xps.metadata.PageWatermark.IPageWatermarkOptionItem...-) | Adds an array of \`\`\` IPageWatermarkOptionItem \`\`\` instances to the option. |
+| [add(PageWatermark.IPageWatermarkOptionItem[] items)](#add-com.aspose.xps.metadata.PageWatermark.IPageWatermarkOptionItem...-) | Adds an array of  IPageWatermarkOptionItem  instances to the option. |
 | [clone()](#clone--) | Clones this option instance. |
 ### PageWatermarkOption(String optionName, PageWatermark.IPageWatermarkOptionItem[] items) {#PageWatermarkOption-java.lang.String-com.aspose.xps.metadata.PageWatermark.IPageWatermarkOptionItem...-}
 ```
@@ -45,7 +45,7 @@ Creates a new instance.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | optionName | java.lang.String | An options name. |
-| items | com.aspose.xps.metadata.PageWatermark.IPageWatermarkOptionItem[] | An arbitrary array of \`\`\` IPageWatermarkOptionItem \`\`\` instances. |
+| items | com.aspose.xps.metadata.PageWatermark.IPageWatermarkOptionItem[] | An arbitrary array of  IPageWatermarkOptionItem  instances. |
 
 ### PageWatermarkOption(PageWatermark.PageWatermarkOption option) {#PageWatermarkOption-com.aspose.xps.metadata.PageWatermark.PageWatermarkOption-}
 ```
@@ -74,12 +74,12 @@ public PageWatermark.PageWatermarkOption add(PageWatermark.IPageWatermarkOptionI
 ```
 
 
-Adds an array of \`\`\` IPageWatermarkOptionItem \`\`\` instances to the option.
+Adds an array of  IPageWatermarkOptionItem  instances to the option.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| items | com.aspose.xps.metadata.PageWatermark.IPageWatermarkOptionItem[] | An arbitrary array of \`\`\` IPageWatermarkOptionItem \`\`\` instances. |
+| items | com.aspose.xps.metadata.PageWatermark.IPageWatermarkOptionItem[] | An arbitrary array of  IPageWatermarkOptionItem  instances. |
 
 **Returns:**
 [PageWatermarkOption](../../com.aspose.xps.metadata/pagewatermarkoption) - This options instance.

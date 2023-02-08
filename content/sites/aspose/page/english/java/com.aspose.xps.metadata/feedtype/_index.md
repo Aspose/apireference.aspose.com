@@ -1,7 +1,7 @@
 ---
 title: InputBin.FeedType
 second_title: Aspose.Page for Java API Reference
-description: Defines constants for the FeedType scored property value.
+description: Defines constants for the FeedType scored property value.
 type: docs
 weight: 13
 url: /java/com.aspose.xps.metadata/inputbin.feedtype/
@@ -15,7 +15,7 @@ java.lang.Object, [com.aspose.xps.metadata.PrintTicketElement](../../com.aspose.
 public static final class InputBin.FeedType extends ScoredProperty implements InputBin.IInputBinOptionItem
 ```
 
-Defines constants for the \`\`\` FeedType \`\`\` scored property value.
+Defines constants for the  FeedType  scored property value.
 ## Fields
 
 | Field | Description |

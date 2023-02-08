@@ -15,7 +15,7 @@ java.lang.Object, [com.aspose.xps.metadata.PrintTicketElement](../../com.aspose.
 public final class PageForceFrontSide extends Feature implements IJobPrintTicketItem, IDocumentPrintTicketItem, IPagePrintTicketItem
 ```
 
-Forces the output to appear on the front of a media sheet. Relevant to media sheets with different surfaces on each side. In cases where this feature interferes with processing options (such as \`\`\` DocumentDuplex \`\`\`), \`\`\` PageForceFrontSide \`\`\` takes precedence for the specific page to which the feature applies.
+Forces the output to appear on the front of a media sheet. Relevant to media sheets with different surfaces on each side. In cases where this feature interferes with processing options (such as  DocumentDuplex ),  PageForceFrontSide  takes precedence for the specific page to which the feature applies.
 ## Constructors
 
 | Constructor | Description |

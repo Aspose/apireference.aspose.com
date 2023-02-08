@@ -1,7 +1,7 @@
 ---
 title: JobErrorSheet.ErrorSheetWhen
 second_title: Aspose.Page for Java API Reference
-description: Describes inner ErrorSheetWhen feature.
+description: Describes inner ErrorSheetWhen feature.
 type: docs
 weight: 11
 url: /java/com.aspose.xps.metadata/joberrorsheet.errorsheetwhen/
@@ -15,7 +15,7 @@ java.lang.Object, [com.aspose.xps.metadata.PrintTicketElement](../../com.aspose.
 public static final class JobErrorSheet.ErrorSheetWhen extends Feature implements JobErrorSheet.IJobErrorSheetItem
 ```
 
-Describes inner \`\`\` ErrorSheetWhen \`\`\` feature.
+Describes inner  ErrorSheetWhen  feature.
 ## Constructors
 
 | Constructor | Description |

@@ -1,7 +1,7 @@
 ---
 title: HolePunch.HolePunchOption
 second_title: Aspose.Page for Java API Reference
-description: Describes the HolePunch feature options.
+description: Describes the HolePunch feature options.
 type: docs
 weight: 10
 url: /java/com.aspose.xps.metadata/holepunch.holepunchoption/
@@ -12,7 +12,7 @@ java.lang.Object, [com.aspose.xps.metadata.PrintTicketElement](../../com.aspose.
 public static final class HolePunch.HolePunchOption extends Option
 ```
 
-Describes the \`\`\` HolePunch \`\`\` feature options.
+Describes the  HolePunch  feature options.
 ## Fields
 
 | Field | Description |

@@ -1,7 +1,7 @@
 ---
 title: JobBindAllDocuments.BindingOption
 second_title: Aspose.Page for Java API Reference
-description: Describes the JobBindAllDocuments feature options.
+description: Describes the JobBindAllDocuments feature options.
 type: docs
 weight: 11
 url: /java/com.aspose.xps.metadata/jobbindalldocuments.bindingoption/
@@ -12,7 +12,7 @@ java.lang.Object, [com.aspose.xps.metadata.PrintTicketElement](../../com.aspose.
 public static final class JobBindAllDocuments.BindingOption extends Option
 ```
 
-Describes the \`\`\` JobBindAllDocuments \`\`\` feature options.
+Describes the  JobBindAllDocuments  feature options.
 ## Constructors
 
 | Constructor | Description |

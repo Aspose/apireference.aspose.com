@@ -34,7 +34,7 @@ Creates a page-level print ticket instance.
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| items | com.aspose.xps.metadata.IPagePrintTicketItem[] | An arbitrary array of \`\`\` IPagePrintTicketItem \`\`\` instances. Each one must be a \`\`\` Feature \`\`\`, a \`\`\` ParameterInit \`\`\` or a \`\`\` Property \`\`\` instance. |
+| items | com.aspose.xps.metadata.IPagePrintTicketItem[] | An arbitrary array of  IPagePrintTicketItem  instances. Each one must be a  Feature , a  ParameterInit  or a  Property  instance. |
 
 ### add(IPagePrintTicketItem[] items) {#add-com.aspose.xps.metadata.IPagePrintTicketItem...-}
 ```
@@ -42,7 +42,7 @@ public void add(IPagePrintTicketItem[] items)
 ```
 
 
-Adds an array of items to the end of this PrintTicket item list. Each one may be a \`\`\` Feature \`\`\`, a \`\`\` ParameterInit \`\`\` or a \`\`\` Property \`\`\` instance.
+Adds an array of items to the end of this PrintTicket item list. Each one may be a  Feature , a  ParameterInit  or a  Property  instance.
 
 **Parameters:**
 | Parameter | Type | Description |

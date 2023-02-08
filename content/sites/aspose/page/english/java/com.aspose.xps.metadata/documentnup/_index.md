@@ -15,7 +15,7 @@ java.lang.Object, [com.aspose.xps.metadata.PrintTicketElement](../../com.aspose.
 public final class DocumentNUp extends NUp implements IJobPrintTicketItem, IDocumentPrintTicketItem
 ```
 
-Describes the output and format of multiple logical pages to a single physical sheet. Each document is compiled separately. \`\`\` DocumentNUp \`\`\` and \`\`\` JobNUpAllDocumentsContiguously \`\`\` are mutually exclusive. It is up to the driver to determine constraint handling between these keywords. https://docs.microsoft.com/en-us/windows/win32/printdocs/documentnup
+Describes the output and format of multiple logical pages to a single physical sheet. Each document is compiled separately.  DocumentNUp  and  JobNUpAllDocumentsContiguously  are mutually exclusive. It is up to the driver to determine constraint handling between these keywords. https://docs.microsoft.com/en-us/windows/win32/printdocs/documentnup
 ## Constructors
 
 | Constructor | Description |
@@ -25,7 +25,7 @@ Describes the output and format of multiple logical pages to a single physical s
 
 | Method | Description |
 | --- | --- |
-| [addPagesPerSheetOption(int value)](#addPagesPerSheetOption-int-) | Adds and option with a \`\`\` PagesPerSheet \`\`\` scored property value. |
+| [addPagesPerSheetOption(int value)](#addPagesPerSheetOption-int-) | Adds and option with a  PagesPerSheet  scored property value. |
 ### DocumentNUp(NUp.INUpItem[] items) {#DocumentNUp-com.aspose.xps.metadata.NUp.INUpItem...-}
 ```
 public DocumentNUp(NUp.INUpItem[] items)
@@ -45,7 +45,7 @@ public DocumentNUp addPagesPerSheetOption(int value)
 ```
 
 
-Adds and option with a \`\`\` PagesPerSheet \`\`\` scored property value. Specifies the number of logical pages per physical sheet.
+Adds and option with a  PagesPerSheet  scored property value. Specifies the number of logical pages per physical sheet.
 
 **Parameters:**
 | Parameter | Type | Description |

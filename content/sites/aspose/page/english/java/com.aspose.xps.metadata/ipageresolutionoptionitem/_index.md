@@ -1,7 +1,7 @@
 ---
 title: PageResolution.IPageResolutionOptionItem
 second_title: Aspose.Page for Java API Reference
-description: The interface of any PageResolutionOption item.
+description: The interface of any PageResolutionOption item.
 type: docs
 weight: 13
 url: /java/com.aspose.xps.metadata/pageresolution.ipageresolutionoptionitem/
@@ -12,4 +12,4 @@ url: /java/com.aspose.xps.metadata/pageresolution.ipageresolutionoptionitem/
 public static interface PageResolution.IPageResolutionOptionItem extends IOptionItem
 ```
 
-The interface of any \`\`\` PageResolutionOption \`\`\` item.
+The interface of any  PageResolutionOption  item.

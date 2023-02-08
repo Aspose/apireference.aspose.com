@@ -15,7 +15,7 @@ java.lang.Object, [com.aspose.xps.metadata.PrintTicketElement](../../com.aspose.
 public class ParameterInit extends PrintTicketElement implements IPrintTicketItem
 ```
 
-Class implementing print ticket parameter initializer. The class that implements a common PrintTicket parameter initializer. The base class for all schema-defined parameter initializers. Defines a value for an instance of a \`\`\` ParameterDef \`\`\` element. A \`\`\` ParameterInit \`\`\` element is the target of the reference made by a \`\`\` ParameterRef \`\`\` element. https://docs.microsoft.com/en-us/windows/win32/printdocs/parameterinit
+Class implementing print ticket parameter initializer. The class that implements a common PrintTicket parameter initializer. The base class for all schema-defined parameter initializers. Defines a value for an instance of a  ParameterDef  element. A  ParameterInit  element is the target of the reference made by a  ParameterRef  element. https://docs.microsoft.com/en-us/windows/win32/printdocs/parameterinit
 ## Constructors
 
 | Constructor | Description |

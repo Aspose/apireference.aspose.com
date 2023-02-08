@@ -1,7 +1,7 @@
 ---
 title: PageWatermarkTextAngle
 second_title: Aspose.Page for Java API Reference
-description: Specifies the angle of the watermark text relative to the PageImageableSizeWidth direction.
+description: Specifies the angle of the watermark text relative to the PageImageableSizeWidth direction.
 type: docs
 weight: 134
 url: /java/com.aspose.xps.metadata/pagewatermarktextangle/
@@ -15,7 +15,7 @@ java.lang.Object, [com.aspose.xps.metadata.PrintTicketElement](../../com.aspose.
 public final class PageWatermarkTextAngle extends IntegerParameterInit implements IJobPrintTicketItem, IDocumentPrintTicketItem, IPagePrintTicketItem
 ```
 
-Specifies the angle of the watermark text relative to the \`\`\` PageImageableSizeWidth \`\`\` direction. The angle is measured in the counter-clockwise direction. https://docs.microsoft.com/en-us/windows/win32/printdocs/pagewatermarktextangle
+Specifies the angle of the watermark text relative to the  PageImageableSizeWidth  direction. The angle is measured in the counter-clockwise direction. https://docs.microsoft.com/en-us/windows/win32/printdocs/pagewatermarktextangle
 ## Constructors
 
 | Constructor | Description |

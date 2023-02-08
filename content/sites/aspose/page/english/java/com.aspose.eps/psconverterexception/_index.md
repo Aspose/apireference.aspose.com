@@ -3,7 +3,7 @@ title: PsConverterException
 second_title: Aspose.Page for Java API Reference
 description: This class contains information about an error that is thrown while PS file is converted to PDF document.
 type: docs
-weight: 10
+weight: 13
 url: /java/com.aspose.eps/psconverterexception/
 ---
 **Inheritance:**
@@ -17,14 +17,14 @@ This class contains information about an error that is thrown while PS file is c
 
 | Constructor | Description |
 | --- | --- |
-| [PsConverterException(String errorStr)](#PsConverterException-java.lang.String-) | Initializes a new instance of the \`\`\` PsConverterException \`\`\` from \`\`\` errorStr \`\`\` string. |
+| [PsConverterException(String errorStr)](#PsConverterException-java.lang.String-) | Initializes a new instance of the  PsConverterException  from  errorStr  string. |
 ### PsConverterException(String errorStr) {#PsConverterException-java.lang.String-}
 ```
 public PsConverterException(String errorStr)
 ```
 
 
-Initializes a new instance of the \`\`\` PsConverterException \`\`\` from \`\`\` errorStr \`\`\` string.
+Initializes a new instance of the  PsConverterException  from  errorStr  string.
 
 **Parameters:**
 | Parameter | Type | Description |

@@ -1,7 +1,7 @@
 ---
 title: PageICMRenderingIntent.PageICMRenderingIntentOption
 second_title: Aspose.Page for Java API Reference
-description: Describes the PageICMRenderingIntent feature options.
+description: Describes the PageICMRenderingIntent feature options.
 type: docs
 weight: 10
 url: /java/com.aspose.xps.metadata/pageicmrenderingintent.pageicmrenderingintentoption/
@@ -12,7 +12,7 @@ java.lang.Object, [com.aspose.xps.metadata.PrintTicketElement](../../com.aspose.
 public static final class PageICMRenderingIntent.PageICMRenderingIntentOption extends Option
 ```
 
-Describes the \`\`\` PageICMRenderingIntent \`\`\` feature options.
+Describes the  PageICMRenderingIntent  feature options.
 ## Fields
 
 | Field | Description |

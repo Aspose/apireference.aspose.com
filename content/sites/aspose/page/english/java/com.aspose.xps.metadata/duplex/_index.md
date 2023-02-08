@@ -1,7 +1,7 @@
 ---
 title: Duplex
 second_title: Aspose.Page for Java API Reference
-description: The base class for JobDuplexAllDocumentsContiguously and DocumentDuplex features classes.
+description: The base class for JobDuplexAllDocumentsContiguously and DocumentDuplex features classes.
 type: docs
 weight: 37
 url: /java/com.aspose.xps.metadata/duplex/
@@ -12,4 +12,4 @@ java.lang.Object, [com.aspose.xps.metadata.PrintTicketElement](../../com.aspose.
 public abstract class Duplex extends Feature
 ```
 
-The base class for \`\`\` JobDuplexAllDocumentsContiguously \`\`\` and \`\`\` DocumentDuplex \`\`\` features classes.
+The base class for  JobDuplexAllDocumentsContiguously  and  DocumentDuplex  features classes.

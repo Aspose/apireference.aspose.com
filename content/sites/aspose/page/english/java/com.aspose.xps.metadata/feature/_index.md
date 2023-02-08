@@ -15,7 +15,7 @@ java.lang.Object, [com.aspose.xps.metadata.PrintTicketElement](../../com.aspose.
 public class Feature extends CompositePrintTicketElement implements IPrintTicketItem, IFeatureItem
 ```
 
-The class that incapsulates a common Print Schema feature. The base class for all schema-defined features. A \`\`\` Feature \`\`\` element contains a complete list of the \`\`\` Option \`\`\` and \`\`\` Property \`\`\` elements that fully describe a device attribute, job formatting setting, or other relevant characteristic. https://docs.microsoft.com/en-us/windows/win32/printdocs/feature
+The class that incapsulates a common Print Schema feature. The base class for all schema-defined features. A  Feature  element contains a complete list of the  Option  and  Property  elements that fully describe a device attribute, job formatting setting, or other relevant characteristic. https://docs.microsoft.com/en-us/windows/win32/printdocs/feature
 ## Constructors
 
 | Constructor | Description |
@@ -39,8 +39,8 @@ Creates a new PrintTicket feature instance.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | name | java.lang.String | A feature name. |
-| option | [Option](../../com.aspose.xps.metadata/option) | Required \`\`\` Option \`\`\` instance. |
-| items | com.aspose.xps.metadata.IFeatureItem[] | An arbitrary array of \`\`\` IFeatureItem \`\`\` instances. Each one must be a \`\`\` Feature \`\`\`, an \`\`\` Option \`\`\` or a \`\`\` Property \`\`\` instance. |
+| option | [Option](../../com.aspose.xps.metadata/option) | Required  Option  instance. |
+| items | com.aspose.xps.metadata.IFeatureItem[] | An arbitrary array of  IFeatureItem  instances. Each one must be a  Feature , an  Option  or a  Property  instance. |
 
 ### Feature(String name, Feature feature, IFeatureItem[] items) {#Feature-java.lang.String-com.aspose.xps.metadata.Feature-com.aspose.xps.metadata.IFeatureItem...-}
 ```
@@ -54,8 +54,8 @@ Creates a new PrintTicket feature instance.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | name | java.lang.String | Feature name. |
-| feature | [Feature](../../com.aspose.xps.metadata/feature) | Required \`\`\` Feature \`\`\` instance. |
-| items | com.aspose.xps.metadata.IFeatureItem[] | An arbitrary array of \`\`\` Property \`\`\` instances. Each one must be a \`\`\` Feature \`\`\`, an \`\`\` Option \`\`\` or a \`\`\` Property \`\`\` instance. |
+| feature | [Feature](../../com.aspose.xps.metadata/feature) | Required  Feature  instance. |
+| items | com.aspose.xps.metadata.IFeatureItem[] | An arbitrary array of  Property  instances. Each one must be a  Feature , an  Option  or a  Property  instance. |
 
 ### add(IFeatureItem[] items) {#add-com.aspose.xps.metadata.IFeatureItem...-}
 ```
@@ -63,7 +63,7 @@ public void add(IFeatureItem[] items)
 ```
 
 
-Adds a list of items to the end of this feature's item list. Each one must be a \`\`\` Feature \`\`\`, an \`\`\` Option \`\`\` or a \`\`\` Property \`\`\` instance.
+Adds a list of items to the end of this feature's item list. Each one must be a  Feature , an  Option  or a  Property  instance.
 
 **Parameters:**
 | Parameter | Type | Description |

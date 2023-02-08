@@ -15,7 +15,7 @@ java.lang.Object, [com.aspose.xps.metadata.PrintTicketElement](../../com.aspose.
 public final class DocumentInputBin extends InputBin implements IJobPrintTicketItem, IDocumentPrintTicketItem
 ```
 
-Describes the installed input bin in a device or the full list of supported bins for a device. The \`\`\` JobInputBin \`\`\`, \`\`\` DocumentInputBin \`\`\`, and \`\`\` PageInputBin \`\`\` keywords are mutually exclusive. Both should not be specified simultaneously in a PrintTicket or Print Capabilities document. https://docs.microsoft.com/en-us/windows/win32/printdocs/documentinputbin
+Describes the installed input bin in a device or the full list of supported bins for a device. The  JobInputBin ,  DocumentInputBin , and  PageInputBin  keywords are mutually exclusive. Both should not be specified simultaneously in a PrintTicket or Print Capabilities document. https://docs.microsoft.com/en-us/windows/win32/printdocs/documentinputbin
 ## Constructors
 
 | Constructor | Description |

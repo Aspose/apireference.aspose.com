@@ -1,7 +1,7 @@
 ---
 title: PageSourceColorProfile.PageSourceColorProfileOption
 second_title: Aspose.Page for Java API Reference
-description: Describes the PageSourceColorProfile feature options.
+description: Describes the PageSourceColorProfile feature options.
 type: docs
 weight: 10
 url: /java/com.aspose.xps.metadata/pagesourcecolorprofile.pagesourcecolorprofileoption/
@@ -12,7 +12,7 @@ java.lang.Object, [com.aspose.xps.metadata.PrintTicketElement](../../com.aspose.
 public static final class PageSourceColorProfile.PageSourceColorProfileOption extends Option
 ```
 
-Describes the \`\`\` PageSourceColorProfile \`\`\` feature options.
+Describes the  PageSourceColorProfile  feature options.
 ## Fields
 
 | Field | Description |

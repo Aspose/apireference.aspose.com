@@ -1,7 +1,7 @@
 ---
 title: PageDeviceFontSubstitution.PageDeviceFontSubstitutionOption
 second_title: Aspose.Page for Java API Reference
-description: Describes the PageDeviceFontSubstitution feature options.
+description: Describes the PageDeviceFontSubstitution feature options.
 type: docs
 weight: 10
 url: /java/com.aspose.xps.metadata/pagedevicefontsubstitution.pagedevicefontsubstitutionoption/
@@ -12,7 +12,7 @@ java.lang.Object, [com.aspose.xps.metadata.PrintTicketElement](../../com.aspose.
 public static final class PageDeviceFontSubstitution.PageDeviceFontSubstitutionOption extends Option
 ```
 
-Describes the \`\`\` PageDeviceFontSubstitution \`\`\` feature options.
+Describes the  PageDeviceFontSubstitution  feature options.
 ## Fields
 
 | Field | Description |

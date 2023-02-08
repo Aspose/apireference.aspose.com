@@ -1,7 +1,7 @@
 ---
 title: JobAccountingSheet.JobAccountingSheetOption
 second_title: Aspose.Page for Java API Reference
-description: Describes the JobAccountingSheet feature options.
+description: Describes the JobAccountingSheet feature options.
 type: docs
 weight: 10
 url: /java/com.aspose.xps.metadata/jobaccountingsheet.jobaccountingsheetoption/
@@ -12,7 +12,7 @@ java.lang.Object, [com.aspose.xps.metadata.PrintTicketElement](../../com.aspose.
 public static final class JobAccountingSheet.JobAccountingSheetOption extends Option
 ```
 
-Describes the \`\`\` JobAccountingSheet \`\`\` feature options.
+Describes the  JobAccountingSheet  feature options.
 ## Fields
 
 | Field | Description |

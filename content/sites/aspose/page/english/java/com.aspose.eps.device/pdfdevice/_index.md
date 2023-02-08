@@ -20,8 +20,8 @@ This class encapsulates rendering of document to PDF.
 
 | Constructor | Description |
 | --- | --- |
-| [PdfDevice(OutputStream ros)](#PdfDevice-java.io.OutputStream-) | Initializes new instance of \`\`\` PdfDevice \`\`\` with an output stream. |
-| [PdfDevice(OutputStream ros, Dimension size)](#PdfDevice-java.io.OutputStream-java.awt.Dimension-) | Initializes new instance of \`\`\` PdfDevice \`\`\` with an output stream. |
+| [PdfDevice(OutputStream ros)](#PdfDevice-java.io.OutputStream-) | Initializes new instance of  PdfDevice  with an output stream. |
+| [PdfDevice(OutputStream ros, Dimension size)](#PdfDevice-java.io.OutputStream-java.awt.Dimension-) | Initializes new instance of  PdfDevice  with an output stream. |
 ## Fields
 
 | Field | Description |
@@ -95,7 +95,7 @@ public PdfDevice(OutputStream ros)
 ```
 
 
-Initializes new instance of \`\`\` PdfDevice \`\`\` with an output stream.
+Initializes new instance of  PdfDevice  with an output stream.
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -108,7 +108,7 @@ public PdfDevice(OutputStream ros, Dimension size)
 ```
 
 
-Initializes new instance of \`\`\` PdfDevice \`\`\` with an output stream.
+Initializes new instance of  PdfDevice  with an output stream.
 
 **Parameters:**
 | Parameter | Type | Description |

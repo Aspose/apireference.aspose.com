@@ -15,7 +15,7 @@ java.lang.Object, [com.aspose.xps.metadata.PrintTicketElement](../../com.aspose.
 public final class PageWatermark extends Feature implements IJobPrintTicketItem, IDocumentPrintTicketItem, IPagePrintTicketItem
 ```
 
-Describes the watermark setting of the output and the watermark characteristics. Watermarks apply to the logical page, not the physical page. For example, if \`\`\` DocumentDuplex \`\`\` is enabled, a watermark will appear on each \`\`\` NUp \`\`\` page on each sheet. If \`\`\` DocumentDuplex \`\`\`, \`\`\` PagesPerSheet \`\`\`=2, then each sheet will have 2 watermarks. https://docs.microsoft.com/en-us/windows/win32/printdocs/pagewatermark
+Describes the watermark setting of the output and the watermark characteristics. Watermarks apply to the logical page, not the physical page. For example, if  DocumentDuplex  is enabled, a watermark will appear on each  NUp  page on each sheet. If  DocumentDuplex ,  PagesPerSheet =2, then each sheet will have 2 watermarks. https://docs.microsoft.com/en-us/windows/win32/printdocs/pagewatermark
 ## Constructors
 
 | Constructor | Description |

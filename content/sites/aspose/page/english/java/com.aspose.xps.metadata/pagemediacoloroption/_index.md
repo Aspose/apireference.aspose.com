@@ -1,7 +1,7 @@
 ---
 title: PageMediaColor.PageMediaColorOption
 second_title: Aspose.Page for Java API Reference
-description: Describes the PageMediaColor feature options.
+description: Describes the PageMediaColor feature options.
 type: docs
 weight: 10
 url: /java/com.aspose.xps.metadata/pagemediacolor.pagemediacoloroption/
@@ -12,7 +12,7 @@ java.lang.Object, [com.aspose.xps.metadata.PrintTicketElement](../../com.aspose.
 public static final class PageMediaColor.PageMediaColorOption extends Option
 ```
 
-Describes the \`\`\` PageMediaColor \`\`\` feature options.
+Describes the  PageMediaColor  feature options.
 ## Fields
 
 | Field | Description |

@@ -1,7 +1,7 @@
 ---
 title: PageNegativeImage.PageNegativeImageOption
 second_title: Aspose.Page for Java API Reference
-description: Defines PageNegativeImage feature options.
+description: Defines PageNegativeImage feature options.
 type: docs
 weight: 10
 url: /java/com.aspose.xps.metadata/pagenegativeimage.pagenegativeimageoption/
@@ -12,7 +12,7 @@ java.lang.Object, [com.aspose.xps.metadata.PrintTicketElement](../../com.aspose.
 public static final class PageNegativeImage.PageNegativeImageOption extends Option
 ```
 
-Defines \`\`\` PageNegativeImage \`\`\` feature options.
+Defines  PageNegativeImage  feature options.
 ## Fields
 
 | Field | Description |

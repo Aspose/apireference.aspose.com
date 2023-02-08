@@ -59,7 +59,7 @@ Class incapsulating image composing device.
 | [dispose()](#dispose--) | Disposes this device instance. |
 | [getTransform()](#getTransform--) | Returns the current transformation matrix. |
 | [setTransform(AffineTransform transform)](#setTransform-java.awt.geom.AffineTransform-) | Sets the current transformation matrix. |
-| [transform(AffineTransform transform)](#transform-java.awt.geom.AffineTransform-) | Multiplies the current transformation matrix by the specified \`\`\` Matrix \`\`\`. |
+| [transform(AffineTransform transform)](#transform-java.awt.geom.AffineTransform-) | Multiplies the current transformation matrix by the specified  Matrix . |
 | [translate(double x, double y)](#translate-double-double-) | Applies the specified translation vector to the current transformation matrix. |
 | [rotate(double theta)](#rotate-double-) | Applies a clockwise rotation about the origin to the current transformation matrix. |
 | [scale(double x, double y)](#scale-double-double-) | Applies the specified scale vector to the current transformation matrix. |
@@ -327,7 +327,7 @@ Starts a new page with the specifies title.
 | title | java.lang.String | The title. |
 
 **Returns:**
-boolean - \`\`\` True \`\`\` if started page is to be output (it's number is contained in PageNumbers save options). \`\`\` False \`\`\` , otherwise.
+boolean -  True  if started page is to be output (it's number is contained in PageNumbers save options).  False  , otherwise.
 ### openPage(float width, float height) {#openPage-float-float-}
 ```
 public boolean openPage(float width, float height)
@@ -343,7 +343,7 @@ Starts a new page with the specified width and height.
 | height | float | The height of the page. |
 
 **Returns:**
-boolean - \`\`\` True \`\`\` if started page is to be output (it's number is contained in PageNumbers save options). \`\`\` False \`\`\` , otherwise.
+boolean -  True  if started page is to be output (it's number is contained in PageNumbers save options).  False  , otherwise.
 ### closePage() {#closePage--}
 ```
 public void closePage()
@@ -407,7 +407,7 @@ public Device create()
 ```
 
 
-Creates a new instance of the device based on this device instance. Writes this device graphics state, i.e. creates \`\`\` ApsCanvas \`\`\` instance(s) with corresponding RenderTransform and Clip properties.
+Creates a new instance of the device based on this device instance. Writes this device graphics state, i.e. creates  ApsCanvas  instance(s) with corresponding RenderTransform and Clip properties.
 
 **Returns:**
 [Device](../../com.aspose.page/device) - The new device instance.
@@ -417,7 +417,7 @@ public void dispose()
 ```
 
 
-Disposes this device instance. Finalizes this device instance graphics state, i.e. switches APS composing context to the \`\`\` ApsCanvas \`\`\` of the level higher then this device's graphics state \`\`\` ApsCanvas \`\`\`.
+Disposes this device instance. Finalizes this device instance graphics state, i.e. switches APS composing context to the  ApsCanvas  of the level higher then this device's graphics state  ApsCanvas .
 
 ### getTransform() {#getTransform--}
 ```
@@ -448,7 +448,7 @@ public void transform(AffineTransform transform)
 ```
 
 
-Multiplies the current transformation matrix by the specified \`\`\` Matrix \`\`\`.
+Multiplies the current transformation matrix by the specified  Matrix .
 
 **Parameters:**
 | Parameter | Type | Description |

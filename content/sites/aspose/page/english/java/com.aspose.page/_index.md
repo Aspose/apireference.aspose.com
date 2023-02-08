@@ -1,7 +1,7 @@
 ---
 title: com.aspose.page
 second_title: Aspose.Page for Java API Reference
-description: The bAspose.Page/b is a root package for all classes of Aspose.Page library which are either directly in it like bDevice/b or indirectly through several subpackages.
+description: The Aspose.Page is a root package for all classes of Aspose.Page library which are either directly in it like Device or indirectly through several subpackages.
 type: docs
 weight: 13
 url: /java/com.aspose.page/

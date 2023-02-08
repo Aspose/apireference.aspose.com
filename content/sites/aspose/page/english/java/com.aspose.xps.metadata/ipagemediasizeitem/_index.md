@@ -1,7 +1,7 @@
 ---
 title: PageMediaSize.IPageMediaSizeItem
 second_title: Aspose.Page for Java API Reference
-description: The interface of any PageMediaSize item.
+description: The interface of any PageMediaSize item.
 type: docs
 weight: 11
 url: /java/com.aspose.xps.metadata/pagemediasize.ipagemediasizeitem/
@@ -12,4 +12,4 @@ url: /java/com.aspose.xps.metadata/pagemediasize.ipagemediasizeitem/
 public static interface PageMediaSize.IPageMediaSizeItem extends IFeatureItem
 ```
 
-The interface of any \`\`\` PageMediaSize \`\`\` item.
+The interface of any  PageMediaSize  item.

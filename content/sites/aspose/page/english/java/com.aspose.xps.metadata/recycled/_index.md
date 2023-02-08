@@ -1,7 +1,7 @@
 ---
 title: PageMediaType.Recycled
 second_title: Aspose.Page for Java API Reference
-description: Defines constants for the Recycled scored property value.
+description: Defines constants for the Recycled scored property value.
 type: docs
 weight: 16
 url: /java/com.aspose.xps.metadata/pagemediatype.recycled/
@@ -15,7 +15,7 @@ java.lang.Object, [com.aspose.xps.metadata.PrintTicketElement](../../com.aspose.
 public static final class PageMediaType.Recycled extends ScoredProperty implements PageMediaType.IPageMediaTypeOptionItem
 ```
 
-Defines constants for the \`\`\` Recycled \`\`\` scored property value.
+Defines constants for the  Recycled  scored property value.
 ## Fields
 
 | Field | Description |

@@ -1,7 +1,7 @@
 ---
 title: NUp.PresentationDirection.PresentationDirectionOption
 second_title: Aspose.Page for Java API Reference
-description: Describes the PresentationDirection feature options.
+description: Describes the PresentationDirection feature options.
 type: docs
 weight: 10
 url: /java/com.aspose.xps.metadata/nup.presentationdirection.presentationdirectionoption/
@@ -12,7 +12,7 @@ java.lang.Object, [com.aspose.xps.metadata.PrintTicketElement](../../com.aspose.
 public static final class NUp.PresentationDirection.PresentationDirectionOption extends Option
 ```
 
-Describes the \`\`\` PresentationDirection \`\`\` feature options.
+Describes the  PresentationDirection  feature options.
 ## Fields
 
 | Field | Description |

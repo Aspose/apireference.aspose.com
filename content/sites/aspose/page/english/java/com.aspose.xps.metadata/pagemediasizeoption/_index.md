@@ -1,7 +1,7 @@
 ---
 title: PageMediaSize.PageMediaSizeOption
 second_title: Aspose.Page for Java API Reference
-description: Describes the PageMediaSize feature options.
+description: Describes the PageMediaSize feature options.
 type: docs
 weight: 10
 url: /java/com.aspose.xps.metadata/pagemediasize.pagemediasizeoption/
@@ -15,7 +15,7 @@ java.lang.Object, [com.aspose.xps.metadata.PrintTicketElement](../../com.aspose.
 public static final class PageMediaSize.PageMediaSizeOption extends Option implements PageMediaSize.IPageMediaSizeItem
 ```
 
-Describes the \`\`\` PageMediaSize \`\`\` feature options.
+Describes the  PageMediaSize  feature options.
 ## Constructors
 
 | Constructor | Description |
@@ -202,8 +202,8 @@ Describes the \`\`\` PageMediaSize \`\`\` feature options.
 | Method | Description |
 | --- | --- |
 | [add(PageMediaSize.IPageMediaSizeOptionItem[] items)](#add-com.aspose.xps.metadata.PageMediaSize.IPageMediaSizeOptionItem...-) | Adds items to the options. |
-| [setMediaSizeWidth(int mediaSizeWidth)](#setMediaSizeWidth-int-) | Adds the \`\`\` MediaSizeWidth \`\`\` scored property value. |
-| [setMediaSizeHeight(int mediaSizeHeight)](#setMediaSizeHeight-int-) | Adds the \`\`\` MediaSizeWidth \`\`\` scored property value. |
+| [setMediaSizeWidth(int mediaSizeWidth)](#setMediaSizeWidth-int-) | Adds the  MediaSizeWidth  scored property value. |
+| [setMediaSizeHeight(int mediaSizeHeight)](#setMediaSizeHeight-int-) | Adds the  MediaSizeWidth  scored property value. |
 | [clone()](#clone--) | Clones this option instance. |
 ### PageMediaSizeOption(String name, PageMediaSize.IPageMediaSizeOptionItem[] items) {#PageMediaSizeOption-java.lang.String-com.aspose.xps.metadata.PageMediaSize.IPageMediaSizeOptionItem...-}
 ```
@@ -238,7 +238,7 @@ public static PageMediaSize.PageMediaSizeOption CustomMediaSize
 ```
 
 
-Specifies a custom media size. Must be validated against \`\`\` DeviceMediaSize \`\`\`.
+Specifies a custom media size. Must be validated against  DeviceMediaSize .
 
 ### PSCustomMediaSize {#PSCustomMediaSize}
 ```
@@ -246,7 +246,7 @@ public static PageMediaSize.PageMediaSizeOption PSCustomMediaSize
 ```
 
 
-Specifies a custom media size (PostScript specific). Must be validated against \`\`\` DeviceMediaSize \`\`\`.
+Specifies a custom media size (PostScript specific). Must be validated against  DeviceMediaSize .
 
 ### ISOA0 {#ISOA0}
 ```
@@ -1621,12 +1621,12 @@ public PageMediaSize.PageMediaSizeOption setMediaSizeWidth(int mediaSizeWidth)
 ```
 
 
-Adds the \`\`\` MediaSizeWidth \`\`\` scored property value.
+Adds the  MediaSizeWidth  scored property value.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| mediaSizeWidth | int | A \`\`\` MediaSizeWidth \`\`\` scored property value. |
+| mediaSizeWidth | int | A  MediaSizeWidth  scored property value. |
 
 **Returns:**
 [PageMediaSizeOption](../../com.aspose.xps.metadata/pagemediasizeoption) - This option.
@@ -1636,12 +1636,12 @@ public PageMediaSize.PageMediaSizeOption setMediaSizeHeight(int mediaSizeHeight)
 ```
 
 
-Adds the \`\`\` MediaSizeWidth \`\`\` scored property value.
+Adds the  MediaSizeWidth  scored property value.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| mediaSizeHeight | int | A \`\`\` MediaSizeHeight \`\`\` scored property value. |
+| mediaSizeHeight | int | A  MediaSizeHeight  scored property value. |
 
 **Returns:**
 [PageMediaSizeOption](../../com.aspose.xps.metadata/pagemediasizeoption) - This option.

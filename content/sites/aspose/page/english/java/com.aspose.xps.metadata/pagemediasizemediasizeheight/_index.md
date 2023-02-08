@@ -1,7 +1,7 @@
 ---
 title: PageMediaSizeMediaSizeHeight
 second_title: Aspose.Page for Java API Reference
-description: Specifies the dimension MediaSizeWidth direction for the Custom MediaSize option.
+description: Specifies the dimension MediaSizeWidth direction for the Custom MediaSize option.
 type: docs
 weight: 103
 url: /java/com.aspose.xps.metadata/pagemediasizemediasizeheight/
@@ -15,7 +15,7 @@ java.lang.Object, [com.aspose.xps.metadata.PrintTicketElement](../../com.aspose.
 public final class PageMediaSizeMediaSizeHeight extends IntegerParameterInit implements IJobPrintTicketItem, IDocumentPrintTicketItem, IPagePrintTicketItem
 ```
 
-Specifies the dimension \`\`\` MediaSizeWidth \`\`\` direction for the Custom \`\`\` MediaSize \`\`\` option. https://docs.microsoft.com/en-us/windows/win32/printdocs/pagemediasizemediasizeheight
+Specifies the dimension  MediaSizeWidth  direction for the Custom  MediaSize  option. https://docs.microsoft.com/en-us/windows/win32/printdocs/pagemediasizemediasizeheight
 ## Constructors
 
 | Constructor | Description |

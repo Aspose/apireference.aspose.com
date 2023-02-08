@@ -1,7 +1,7 @@
 ---
 title: PageMediaType.PrePunched
 second_title: Aspose.Page for Java API Reference
-description: Defines constants for the PrePunched scored property value.
+description: Defines constants for the PrePunched scored property value.
 type: docs
 weight: 15
 url: /java/com.aspose.xps.metadata/pagemediatype.prepunched/
@@ -15,7 +15,7 @@ java.lang.Object, [com.aspose.xps.metadata.PrintTicketElement](../../com.aspose.
 public static final class PageMediaType.PrePunched extends ScoredProperty implements PageMediaType.IPageMediaTypeOptionItem
 ```
 
-Defines constants for the \`\`\` PrePunched \`\`\` scored property value.
+Defines constants for the  PrePunched  scored property value.
 ## Fields
 
 | Field | Description |

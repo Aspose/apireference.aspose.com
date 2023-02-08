@@ -1,7 +1,7 @@
 ---
 title: PageScaling.ScaleOffsetAlignment
 second_title: Aspose.Page for Java API Reference
-description: Describes inner ScaleOffsetAlignment feature.
+description: Describes inner ScaleOffsetAlignment feature.
 type: docs
 weight: 11
 url: /java/com.aspose.xps.metadata/pagescaling.scaleoffsetalignment/
@@ -15,7 +15,7 @@ java.lang.Object, [com.aspose.xps.metadata.PrintTicketElement](../../com.aspose.
 public static final class PageScaling.ScaleOffsetAlignment extends Feature implements PageScaling.IPageScalingItem
 ```
 
-Describes inner \`\`\` ScaleOffsetAlignment \`\`\` feature.
+Describes inner  ScaleOffsetAlignment  feature.
 ## Constructors
 
 | Constructor | Description |

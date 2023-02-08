@@ -1,7 +1,7 @@
 ---
 title: OutputBin.BinType
 second_title: Aspose.Page for Java API Reference
-description: Defines constants for the BinType scored property value.
+description: Defines constants for the BinType scored property value.
 type: docs
 weight: 10
 url: /java/com.aspose.xps.metadata/outputbin.bintype/
@@ -15,7 +15,7 @@ java.lang.Object, [com.aspose.xps.metadata.PrintTicketElement](../../com.aspose.
 public static final class OutputBin.BinType extends ScoredProperty implements OutputBin.IOutputBinOptionItem
 ```
 
-Defines constants for the \`\`\` BinType \`\`\` scored property value.
+Defines constants for the  BinType  scored property value.
 ## Fields
 
 | Field | Description |

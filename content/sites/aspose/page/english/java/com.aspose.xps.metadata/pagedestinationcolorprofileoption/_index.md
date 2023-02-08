@@ -1,7 +1,7 @@
 ---
 title: PageDestinationColorProfile.PageDestinationColorProfileOption
 second_title: Aspose.Page for Java API Reference
-description: Describes the PageDestinationColorProfile feature options.
+description: Describes the PageDestinationColorProfile feature options.
 type: docs
 weight: 10
 url: /java/com.aspose.xps.metadata/pagedestinationcolorprofile.pagedestinationcolorprofileoption/
@@ -12,7 +12,7 @@ java.lang.Object, [com.aspose.xps.metadata.PrintTicketElement](../../com.aspose.
 public static final class PageDestinationColorProfile.PageDestinationColorProfileOption extends Option
 ```
 
-Describes the \`\`\` PageDestinationColorProfile \`\`\` feature options.
+Describes the  PageDestinationColorProfile  feature options.
 ## Fields
 
 | Field | Description |

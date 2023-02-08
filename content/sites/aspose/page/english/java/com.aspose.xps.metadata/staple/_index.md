@@ -1,7 +1,7 @@
 ---
 title: Staple
 second_title: Aspose.Page for Java API Reference
-description: The base class for JobStapleAllDocuments and DocumentStaple features classes.
+description: The base class for JobStapleAllDocuments and DocumentStaple features classes.
 type: docs
 weight: 148
 url: /java/com.aspose.xps.metadata/staple/
@@ -12,4 +12,4 @@ java.lang.Object, [com.aspose.xps.metadata.PrintTicketElement](../../com.aspose.
 public abstract class Staple extends Feature
 ```
 
-The base class for \`\`\` JobStapleAllDocuments \`\`\` and \`\`\` DocumentStaple \`\`\` features classes.
+The base class for  JobStapleAllDocuments  and  DocumentStaple  features classes.

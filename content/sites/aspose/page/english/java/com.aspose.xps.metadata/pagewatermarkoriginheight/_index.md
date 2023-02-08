@@ -1,7 +1,7 @@
 ---
 title: PageWatermarkOriginHeight
 second_title: Aspose.Page for Java API Reference
-description: Specifies the origin of a watermark relative to the origin of the PageImageableSize.
+description: Specifies the origin of a watermark relative to the origin of the PageImageableSize.
 type: docs
 weight: 132
 url: /java/com.aspose.xps.metadata/pagewatermarkoriginheight/
@@ -15,7 +15,7 @@ java.lang.Object, [com.aspose.xps.metadata.PrintTicketElement](../../com.aspose.
 public final class PageWatermarkOriginHeight extends IntegerParameterInit implements IJobPrintTicketItem, IDocumentPrintTicketItem, IPagePrintTicketItem
 ```
 
-Specifies the origin of a watermark relative to the origin of the \`\`\` PageImageableSize \`\`\`. https://docs.microsoft.com/en-us/windows/win32/printdocs/pagewatermarkoriginheight
+Specifies the origin of a watermark relative to the origin of the  PageImageableSize . https://docs.microsoft.com/en-us/windows/win32/printdocs/pagewatermarkoriginheight
 ## Constructors
 
 | Constructor | Description |
