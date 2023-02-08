@@ -3,7 +3,7 @@ title: PrintTicket
 second_title: Aspose.Page for .NET API Reference
 description: The class that implements a common PrintTicket of any scope. The base class for job document and pagelevel print tickets. A
 type: docs
-weight: 2730
+weight: 2790
 url: /net/aspose.page.xps.xpsmetadata/printticket/
 ---
 ## PrintTicket class

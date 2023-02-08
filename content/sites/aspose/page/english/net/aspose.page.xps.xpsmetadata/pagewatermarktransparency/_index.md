@@ -3,7 +3,7 @@ title: PageWatermarkTransparency
 second_title: Aspose.Page for .NET API Reference
 description: Specifies the transparency for the watermark. Fully opaque would have a value of 0. https//docs.microsoft.com/enus/windows/win32/printdocs/pagewatermarktransparency
 type: docs
-weight: 2700
+weight: 2760
 url: /net/aspose.page.xps.xpsmetadata/pagewatermarktransparency/
 ---
 ## PageWatermarkTransparency class

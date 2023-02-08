@@ -3,7 +3,7 @@ title: PageWatermarkTextText
 second_title: Aspose.Page for .NET API Reference
 description: Specifies the text of the watermark. https//docs.microsoft.com/enus/windows/win32/printdocs/pagewatermarktexttext
 type: docs
-weight: 2690
+weight: 2750
 url: /net/aspose.page.xps.xpsmetadata/pagewatermarktexttext/
 ---
 ## PageWatermarkTextText class

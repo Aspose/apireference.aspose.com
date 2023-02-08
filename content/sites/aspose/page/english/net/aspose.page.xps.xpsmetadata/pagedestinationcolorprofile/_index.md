@@ -3,7 +3,7 @@ title: PageDestinationColorProfile
 second_title: Aspose.Page for .NET API Reference
 description: Defines the characteristics of the destination color profile. Describes whether the application or driver selects the destination color profile to be used. https//docs.microsoft.com/enus/windows/win32/printdocs/pagedestinationcolorprofile
 type: docs
-weight: 1820
+weight: 1880
 url: /net/aspose.page.xps.xpsmetadata/pagedestinationcolorprofile/
 ---
 ## PageDestinationColorProfile class

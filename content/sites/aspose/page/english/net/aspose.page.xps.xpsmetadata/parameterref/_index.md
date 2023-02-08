@@ -3,7 +3,7 @@ title: ParameterRef
 second_title: Aspose.Page for .NET API Reference
 description: The class that implements a common PrintTicket parameter reference. A
 type: docs
-weight: 2720
+weight: 2780
 url: /net/aspose.page.xps.xpsmetadata/parameterref/
 ---
 ## ParameterRef class

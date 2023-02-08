@@ -3,7 +3,7 @@ title: PageBorderless
 second_title: Aspose.Page for .NET API Reference
 description: Describes when image content should be printed to the physical edges of the media. https//docs.microsoft.com/enus/windows/win32/printdocs/pageborderless
 type: docs
-weight: 1770
+weight: 1830
 url: /net/aspose.page.xps.xpsmetadata/pageborderless/
 ---
 ## PageBorderless class

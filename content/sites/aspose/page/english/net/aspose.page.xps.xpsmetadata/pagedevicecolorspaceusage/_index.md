@@ -3,7 +3,7 @@ title: PageDeviceColorSpaceUsage
 second_title: Aspose.Page for .NET API Reference
 description: In conjunction with the PageDeviceColorSpaceProfileURI./pagedevicecolorspaceprofileuri parameter this parameter defines the rendering behavior for elements presented in a device color space. https//docs.microsoft.com/enus/windows/win32/printdocs/pagedevicecolorspaceusage
 type: docs
-weight: 1870
+weight: 1930
 url: /net/aspose.page.xps.xpsmetadata/pagedevicecolorspaceusage/
 ---
 ## PageDeviceColorSpaceUsage class

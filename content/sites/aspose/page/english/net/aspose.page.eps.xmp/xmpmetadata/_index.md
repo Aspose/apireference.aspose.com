@@ -3,7 +3,7 @@ title: XmpMetadata
 second_title: Aspose.Page for .NET API Reference
 description: Provides access to XMP metadata stream.
 type: docs
-weight: 130
+weight: 190
 url: /net/aspose.page.eps.xmp/xmpmetadata/
 ---
 ## XmpMetadata class

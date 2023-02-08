@@ -3,7 +3,7 @@ title: JobBindAllDocuments
 second_title: Aspose.Page for .NET API Reference
 description: Describes the method of binding. All documents in the job are bound together. JobBindAllDocuments./jobbindalldocuments and DocumentBinding./documentbinding are mutually exclusive. It is up to the driver to determine constraint handling between these keywords. https//docs.microsoft.com/enus/windows/win32/printdocs/jobbindalldocuments
 type: docs
-weight: 1090
+weight: 1150
 url: /net/aspose.page.xps.xpsmetadata/jobbindalldocuments/
 ---
 ## JobBindAllDocuments class

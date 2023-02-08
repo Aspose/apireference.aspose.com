@@ -3,7 +3,7 @@ title: XpsDocument
 second_title: Aspose.Page for .NET API Reference
 description: Class incapsulating the main entity of XPS document that provides manipulation methods for any XPS element.
 type: docs
-weight: 410
+weight: 470
 url: /net/aspose.page.xps/xpsdocument/
 ---
 ## XpsDocument class

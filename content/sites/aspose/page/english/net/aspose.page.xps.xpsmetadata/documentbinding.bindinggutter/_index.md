@@ -3,7 +3,7 @@ title: DocumentBinding.BindingGutter
 second_title: Aspose.Page for .NET API Reference
 description: Describes the way to specify the
 type: docs
-weight: 510
+weight: 570
 url: /net/aspose.page.xps.xpsmetadata/documentbinding.bindinggutter/
 ---
 ## DocumentBinding.BindingGutter class

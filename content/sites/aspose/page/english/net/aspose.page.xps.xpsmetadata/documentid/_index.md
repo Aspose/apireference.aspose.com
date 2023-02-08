@@ -3,7 +3,7 @@ title: DocumentID
 second_title: Aspose.Page for .NET API Reference
 description: Specifies a unique ID for the document. https//docs.microsoft.com/enus/windows/win32/printdocs/documentid
 type: docs
-weight: 650
+weight: 710
 url: /net/aspose.page.xps.xpsmetadata/documentid/
 ---
 ## DocumentID class

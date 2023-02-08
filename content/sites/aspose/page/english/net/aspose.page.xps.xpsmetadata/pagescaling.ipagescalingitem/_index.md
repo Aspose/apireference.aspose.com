@@ -3,7 +3,7 @@ title: PageScaling.IPageScalingItem
 second_title: Aspose.Page for .NET API Reference
 description: The interface of any PageScaling./pagescaling feature item.
 type: docs
-weight: 2430
+weight: 2490
 url: /net/aspose.page.xps.xpsmetadata/pagescaling.ipagescalingitem/
 ---
 ## PageScaling.IPageScalingItem interface

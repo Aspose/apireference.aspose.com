@@ -3,7 +3,7 @@ title: JobDigitalSignatureProcessing
 second_title: Aspose.Page for .NET API Reference
 description: Describes configuring the digital signature processing for the entire job. Applicable only to content that contains digital signatures. https//docs.microsoft.com/enus/windows/win32/printdocs/jobdigitalsignatureprocessing
 type: docs
-weight: 1200
+weight: 1260
 url: /net/aspose.page.xps.xpsmetadata/jobdigitalsignatureprocessing/
 ---
 ## JobDigitalSignatureProcessing class

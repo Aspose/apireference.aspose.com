@@ -3,7 +3,7 @@ title: DocumentBindingGutter
 second_title: Aspose.Page for .NET API Reference
 description: Specifies the width of the binding gutter. https//docs.microsoft.com/enus/windows/win32/printdocs/documentbindinggutter
 type: docs
-weight: 540
+weight: 600
 url: /net/aspose.page.xps.xpsmetadata/documentbindinggutter/
 ---
 ## DocumentBindingGutter class

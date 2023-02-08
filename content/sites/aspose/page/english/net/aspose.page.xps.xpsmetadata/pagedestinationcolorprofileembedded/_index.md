@@ -3,7 +3,7 @@ title: PageDestinationColorProfileEmbedded
 second_title: Aspose.Page for .NET API Reference
 description: Specifies the embedded destination color profile. https//docs.microsoft.com/enus/windows/win32/printdocs/pagedestinationcolorprofileembedded
 type: docs
-weight: 1840
+weight: 1900
 url: /net/aspose.page.xps.xpsmetadata/pagedestinationcolorprofileembedded/
 ---
 ## PageDestinationColorProfileEmbedded class

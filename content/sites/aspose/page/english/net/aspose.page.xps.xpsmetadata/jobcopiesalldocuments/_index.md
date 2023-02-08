@@ -3,7 +3,7 @@ title: JobCopiesAllDocuments
 second_title: Aspose.Page for .NET API Reference
 description: Specifies the number of copies of a job. https//docs.microsoft.com/enus/windows/win32/printdocs/jobcopiesalldocuments
 type: docs
-weight: 1160
+weight: 1220
 url: /net/aspose.page.xps.xpsmetadata/jobcopiesalldocuments/
 ---
 ## JobCopiesAllDocuments class

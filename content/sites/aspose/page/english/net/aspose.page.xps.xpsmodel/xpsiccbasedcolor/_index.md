@@ -3,7 +3,7 @@ title: XpsIccBasedColor
 second_title: Aspose.Page for .NET API Reference
 description: Incapsulates ICC based color.
 type: docs
-weight: 3080
+weight: 3140
 url: /net/aspose.page.xps.xpsmodel/xpsiccbasedcolor/
 ---
 ## XpsIccBasedColor class

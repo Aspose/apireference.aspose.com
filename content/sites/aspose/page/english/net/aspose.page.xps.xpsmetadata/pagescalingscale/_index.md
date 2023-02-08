@@ -3,7 +3,7 @@ title: PageScalingScale
 second_title: Aspose.Page for .NET API Reference
 description: Specifies the scaling factor for custom square scaling. https//docs.microsoft.com/enus/windows/win32/printdocs/pagescalingscale
 type: docs
-weight: 2490
+weight: 2550
 url: /net/aspose.page.xps.xpsmetadata/pagescalingscale/
 ---
 ## PageScalingScale class

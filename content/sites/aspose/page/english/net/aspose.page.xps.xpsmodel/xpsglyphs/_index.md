@@ -3,7 +3,7 @@ title: XpsGlyphs
 second_title: Aspose.Page for .NET API Reference
 description: Class incapsulating Glyphs element features. This element represents a run of uniformlyformatted text from a single font. It provides information necessary for accurate rendering and supports search and selection features in viewing consumers.
 type: docs
-weight: 3030
+weight: 3090
 url: /net/aspose.page.xps.xpsmodel/xpsglyphs/
 ---
 ## XpsGlyphs class

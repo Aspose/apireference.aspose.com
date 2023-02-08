@@ -3,7 +3,7 @@ title: PageWatermarkOriginHeight
 second_title: Aspose.Page for .NET API Reference
 description: Specifies the origin of a watermark relative to the origin of the
 type: docs
-weight: 2640
+weight: 2700
 url: /net/aspose.page.xps.xpsmetadata/pagewatermarkoriginheight/
 ---
 ## PageWatermarkOriginHeight class

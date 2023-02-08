@@ -3,7 +3,7 @@ title: XpsVisualBrush
 second_title: Aspose.Page for .NET API Reference
 description: Class incapsulating VisualBrush property element features. This element is used to fill a region with a drawing.
 type: docs
-weight: 3360
+weight: 3420
 url: /net/aspose.page.xps.xpsmodel/xpsvisualbrush/
 ---
 ## XpsVisualBrush class

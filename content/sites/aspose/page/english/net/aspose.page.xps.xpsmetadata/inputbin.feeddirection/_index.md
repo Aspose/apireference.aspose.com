@@ -3,7 +3,7 @@ title: InputBin.FeedDirection
 second_title: Aspose.Page for .NET API Reference
 description: Defines constants for the
 type: docs
-weight: 960
+weight: 1020
 url: /net/aspose.page.xps.xpsmetadata/inputbin.feeddirection/
 ---
 ## InputBin.FeedDirection class

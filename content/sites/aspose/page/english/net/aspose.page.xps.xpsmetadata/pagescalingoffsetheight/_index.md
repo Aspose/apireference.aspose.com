@@ -3,7 +3,7 @@ title: PageScalingOffsetHeight
 second_title: Aspose.Page for .NET API Reference
 description: Specifies the scaling offset in the
 type: docs
-weight: 2470
+weight: 2530
 url: /net/aspose.page.xps.xpsmetadata/pagescalingoffsetheight/
 ---
 ## PageScalingOffsetHeight class

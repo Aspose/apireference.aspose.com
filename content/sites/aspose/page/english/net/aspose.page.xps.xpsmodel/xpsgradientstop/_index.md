@@ -3,7 +3,7 @@ title: XpsGradientStop
 second_title: Aspose.Page for .NET API Reference
 description: Class incapsulating GradientStop element features. This element is used by both the LinearGradientBrush and RadialGradientBrush elements to define the location and range of color progression for rendering a gradient.
 type: docs
-weight: 3050
+weight: 3110
 url: /net/aspose.page.xps.xpsmodel/xpsgradientstop/
 ---
 ## XpsGradientStop class

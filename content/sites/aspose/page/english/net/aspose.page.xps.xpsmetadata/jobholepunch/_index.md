@@ -3,7 +3,7 @@ title: JobHolePunch
 second_title: Aspose.Page for .NET API Reference
 description: Describes the hole punching characteristics of the output. All documents are punched together. The JobHolePunch./jobholepunch and DocumentHolePunch./documentholepunch keywords are mutually exclusive. Both should not be specified simultaneously in a PrintTicket or Print Capabilities document. https//docs.microsoft.com/enus/windows/win32/printdocs/jobholepunch
 type: docs
-weight: 1290
+weight: 1350
 url: /net/aspose.page.xps.xpsmetadata/jobholepunch/
 ---
 ## JobHolePunch class

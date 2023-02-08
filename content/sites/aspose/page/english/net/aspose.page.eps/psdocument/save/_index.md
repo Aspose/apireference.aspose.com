@@ -3,10 +3,10 @@ title: Save
 second_title: Aspose.Page for .NET API Reference
 description: Saves PS/EPS file to a device.
 type: docs
-weight: 50
+weight: 200
 url: /net/aspose.page.eps/psdocument/save/
 ---
-## Save(Device, SaveOptions) {#save}
+## Save(Device, SaveOptions) {#save_1}
 
 Saves PS/EPS file to a device.
 
@@ -29,7 +29,7 @@ public override void Save(Device device, SaveOptions options)
 
 ---
 
-## Save(Stream) {#save_1}
+## Save(Stream) {#save_2}
 
 Saves given [`PsDocument`](../../psdocument) as EPS file. This method is used only after updating XMP metadata. It saves initial EPS file with updated existing metadata or new one created while calling GetMetadata method. In the last case all necessary PostScript code and EPS comments are added.
 
@@ -40,6 +40,22 @@ public void Save(Stream epsStream)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | epsStream | Stream | Stream of output EPS file. |
+
+### See Also
+
+* class [PsDocument](../../psdocument)
+* namespace [Aspose.Page.EPS](../../psdocument)
+* assembly [Aspose.Page](../../../)
+
+---
+
+## Save() {#save}
+
+Saves given [`PsDocument`](../../psdocument) as EPS file. This method is used only when PsDocument was created from scratch.
+
+```csharp
+public void Save()
+```
 
 ### See Also
 

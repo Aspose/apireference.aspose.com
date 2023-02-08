@@ -3,7 +3,7 @@ title: SaveImageAsEps
 second_title: Aspose.Page for .NET API Reference
 description: Saves PNG/JPEG/TIFF/BMP/GIF/EMF image from input stream to EPS output stream.
 type: docs
-weight: 60
+weight: 310
 url: /net/aspose.page.eps/psdocument/saveimageaseps/
 ---
 ## SaveImageAsEps(Stream, Stream, PsSaveOptions) {#saveimageaseps_2}

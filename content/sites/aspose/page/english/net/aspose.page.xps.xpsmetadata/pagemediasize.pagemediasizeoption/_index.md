@@ -3,7 +3,7 @@ title: PageMediaSize.PageMediaSizeOption
 second_title: Aspose.Page for .NET API Reference
 description: Describes the PageMediaSize./pagemediasize feature options.
 type: docs
-weight: 2020
+weight: 2080
 url: /net/aspose.page.xps.xpsmetadata/pagemediasize.pagemediasizeoption/
 ---
 ## PageMediaSize.PageMediaSizeOption class

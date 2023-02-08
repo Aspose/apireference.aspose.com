@@ -3,7 +3,7 @@ title: DocumentNUp
 second_title: Aspose.Page for .NET API Reference
 description: Describes the output and format of multiple logical pages to a single physical sheet. Each document is compiled separately.
 type: docs
-weight: 680
+weight: 740
 url: /net/aspose.page.xps.xpsmetadata/documentnup/
 ---
 ## DocumentNUp class
