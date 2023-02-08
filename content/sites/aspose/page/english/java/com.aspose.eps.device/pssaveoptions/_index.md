@@ -17,15 +17,15 @@ This class contains options necessary for managing conversion process.
 
 | Constructor | Description |
 | --- | --- |
-| [PsSaveOptions()](#PsSaveOptions--) | Initialize new instance of  PdfSaveOptions  class with default values for flags  suppressErrors  (true) and  debug  (false). |
-| [PsSaveOptions(boolean supressErrors)](#PsSaveOptions-boolean-) | Initialize new instance of  PdfSaveOptions  class with default values for flag  debug  (false). |
+| [PsSaveOptions()](#PsSaveOptions--) | Initialize new instance of \`\`\` PdfSaveOptions \`\`\` class with default values for flags \`\`\` suppressErrors \`\`\` (true) and \`\`\` debug \`\`\` (false). |
+| [PsSaveOptions(boolean supressErrors)](#PsSaveOptions-boolean-) | Initialize new instance of \`\`\` PdfSaveOptions \`\`\` class with default values for flag \`\`\` debug \`\`\` (false). |
 ### PsSaveOptions() {#PsSaveOptions--}
 ```
 public PsSaveOptions()
 ```
 
 
-Initialize new instance of  PdfSaveOptions  class with default values for flags  suppressErrors  (true) and  debug  (false).
+Initialize new instance of \`\`\` PdfSaveOptions \`\`\` class with default values for flags \`\`\` suppressErrors \`\`\` (true) and \`\`\` debug \`\`\` (false).
 
 ### PsSaveOptions(boolean supressErrors) {#PsSaveOptions-boolean-}
 ```
@@ -33,7 +33,7 @@ public PsSaveOptions(boolean supressErrors)
 ```
 
 
-Initialize new instance of  PdfSaveOptions  class with default values for flag  debug  (false).
+Initialize new instance of \`\`\` PdfSaveOptions \`\`\` class with default values for flag \`\`\` debug \`\`\` (false).
 
 **Parameters:**
 | Parameter | Type | Description |

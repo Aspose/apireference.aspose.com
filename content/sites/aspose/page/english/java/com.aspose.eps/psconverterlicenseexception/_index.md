@@ -17,14 +17,14 @@ This class contains information about an error connected with licensing of Aspos
 
 | Constructor | Description |
 | --- | --- |
-| [PsConverterLicenseException(String errorStr)](#PsConverterLicenseException-java.lang.String-) | Initializes a new instance of the  PsConverterLicenseException  from  errorStr  string. |
+| [PsConverterLicenseException(String errorStr)](#PsConverterLicenseException-java.lang.String-) | Initializes a new instance of the \`\`\` PsConverterLicenseException \`\`\` from \`\`\` errorStr \`\`\` string. |
 ### PsConverterLicenseException(String errorStr) {#PsConverterLicenseException-java.lang.String-}
 ```
 public PsConverterLicenseException(String errorStr)
 ```
 
 
-Initializes a new instance of the  PsConverterLicenseException  from  errorStr  string.
+Initializes a new instance of the \`\`\` PsConverterLicenseException \`\`\` from \`\`\` errorStr \`\`\` string.
 
 **Parameters:**
 | Parameter | Type | Description |

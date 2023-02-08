@@ -17,7 +17,7 @@ This class encapsulates PS/EPS documents.
 
 | Constructor | Description |
 | --- | --- |
-| [PsDocument(InputStream psStream)](#PsDocument-java.io.InputStream-) | Initializes  PsDocument  with a stream of PS/EPS file. |
+| [PsDocument(InputStream psStream)](#PsDocument-java.io.InputStream-) | Initializes \`\`\` PsDocument \`\`\` with a stream of PS/EPS file. |
 ## Methods
 
 | Method | Description |
@@ -38,7 +38,7 @@ public PsDocument(InputStream psStream)
 ```
 
 
-Initializes  PsDocument  with a stream of PS/EPS file.
+Initializes \`\`\` PsDocument \`\`\` with a stream of PS/EPS file.
 
 **Parameters:**
 | Parameter | Type | Description |
