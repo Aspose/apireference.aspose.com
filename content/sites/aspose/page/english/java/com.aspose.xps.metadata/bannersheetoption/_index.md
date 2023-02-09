@@ -4,7 +4,7 @@ second_title: Aspose.Page for Java API Reference
 description: Represents options of the JobPrimaryBannerSheet feature.
 type: docs
 weight: 10
-url: /java/com.aspose.xps.metadata/bannersheetoption/
+url: /java/com.aspose.xps.metadata/jobprimarybannersheet.bannersheetoption/
 ---
 **Inheritance:**
 java.lang.Object, [com.aspose.xps.metadata.PrintTicketElement](../../com.aspose.xps.metadata/printticketelement), [com.aspose.xps.metadata.CompositePrintTicketElement](../../com.aspose.xps.metadata/compositeprintticketelement), [com.aspose.xps.metadata.Option](../../com.aspose.xps.metadata/option)
