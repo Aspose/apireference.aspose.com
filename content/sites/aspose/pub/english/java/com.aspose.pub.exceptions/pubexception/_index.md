@@ -3,7 +3,7 @@ title: PubException
 second_title: Aspose.PUB for Java API Reference
 description: Represents errors that occur during PUB application execution.
 type: docs
-weight: 12
+weight: 11
 url: /java/com.aspose.pub.exceptions/pubexception/
 ---
 **Inheritance:**

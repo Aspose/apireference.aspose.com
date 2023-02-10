@@ -3,7 +3,7 @@ title: PubFormatException
 second_title: Aspose.PUB for Java API Reference
 description: Exception for PUB format
 type: docs
-weight: 13
+weight: 12
 url: /java/com.aspose.pub.exceptions/pubformatexception/
 ---
 **Inheritance:**
