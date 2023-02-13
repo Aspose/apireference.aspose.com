@@ -3,7 +3,7 @@ title: Rotate
 second_title: Aspose.OCR for .NET API Reference
 description: Rotate original image.
 type: docs
-weight: 100
+weight: 110
 url: /net/aspose.ocr.models.preprocessingfilters/preprocessingfilter/rotate/
 ---
 ## Rotate(float) {#rotate}
