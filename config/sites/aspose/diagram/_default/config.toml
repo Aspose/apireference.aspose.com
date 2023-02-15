@@ -68,7 +68,13 @@ defaultContentLang = 'en'
     languageName = "Español"
     languageCode = "es"
     flag = "flag-es"
-    weight = 15	
+    weight = 15
+  [languages.ja]
+    contentDir = 'content/sites/aspose/3d/japanese'
+    languageName = "日本語"
+    languageCode = "ja"
+    flag = "flag-jp"
+    weight = 16
 
 
 disableKinds = ["taxonomy", "taxonomyTerm"]
