@@ -3,7 +3,7 @@ title: Equals
 second_title: Aspose.Font for .NET API Reference
 description: Returns true if objects are considered equal.
 type: docs
-weight: 40
+weight: 50
 url: /net/aspose.font/multilanguagestring/equals/
 ---
 ## MultiLanguageString.Equals method

@@ -1,14 +1,14 @@
 ---
 title: AddLanguageString
 second_title: Aspose.Font for .NET API Reference
-description: Adds string of specific language
+description: Adds string of specific language.
 type: docs
-weight: 20
+weight: 30
 url: /net/aspose.font/multilanguagestring/addlanguagestring/
 ---
 ## MultiLanguageString.AddLanguageString method
 
-Adds string of specific language
+Adds string of specific language.
 
 ```csharp
 public void AddLanguageString(string str, int languageId)

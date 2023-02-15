@@ -3,7 +3,7 @@ title: GetEnglishString
 second_title: Aspose.Font for .NET API Reference
 description: Returns english string if found. Otherwise returns first nonenglish string.
 type: docs
-weight: 70
+weight: 80
 url: /net/aspose.font/multilanguagestring/getenglishstring/
 ---
 ## MultiLanguageString.GetEnglishString method

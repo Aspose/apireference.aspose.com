@@ -3,7 +3,7 @@ title: op_Equality
 second_title: Aspose.Font for .NET API Reference
 description: Equality operator implementation.
 type: docs
-weight: 100
+weight: 110
 url: /net/aspose.font/multilanguagestring/op_equality/
 ---
 ## operator == {#op_equality}
