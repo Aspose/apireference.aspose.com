@@ -1,22 +1,18 @@
 ---
-title: GetHashCode
+title: IsEmpty
 second_title: Aspose.Font for .NET API Reference
-description: GetHashCode implementation.
+description: True if MultiLanguageString dont have strings of languages
 type: docs
-weight: 90
-url: /net/aspose.font/multilanguagestring/gethashcode/
+weight: 20
+url: /net/aspose.font/multilanguagestring/isempty/
 ---
-## MultiLanguageString.GetHashCode method
+## MultiLanguageString.IsEmpty property
 
-GetHashCode implementation.
+True, if MultiLanguageString don't have strings of languages
 
 ```csharp
-public override int GetHashCode()
+public bool IsEmpty { get; }
 ```
-
-### Return Value
-
-hash code of object
 
 ### See Also
 

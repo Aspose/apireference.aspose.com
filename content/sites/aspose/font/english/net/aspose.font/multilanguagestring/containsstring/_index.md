@@ -3,7 +3,7 @@ title: ContainsString
 second_title: Aspose.Font for .NET API Reference
 description: Returns true if the string is present inside all the language strings.
 type: docs
-weight: 30
+weight: 40
 url: /net/aspose.font/multilanguagestring/containsstring/
 ---
 ## MultiLanguageString.ContainsString method

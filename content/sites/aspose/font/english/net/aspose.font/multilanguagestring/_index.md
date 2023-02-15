@@ -20,11 +20,17 @@ public class MultiLanguageString
 | --- | --- |
 | [MultiLanguageString](multilanguagestring)() | Creates empty multi language string. |
 
+## Properties
+
+| Name | Description |
+| --- | --- |
+| [IsEmpty](../../aspose.font/multilanguagestring/isempty/) { get; } | True, if MultiLanguageString don't have strings of languages |
+
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [AddLanguageString](../../aspose.font/multilanguagestring/addlanguagestring/)(string, int) | Adds string of specific language |
+| [AddLanguageString](../../aspose.font/multilanguagestring/addlanguagestring/)(string, int) | Adds string of specific language. |
 | [ContainsString](../../aspose.font/multilanguagestring/containsstring/)(string) | Returns true if the string is present inside all the language strings. |
 | override [Equals](../../aspose.font/multilanguagestring/equals/)(object) | Returns true if objects are considered equal. |
 | [GetAllLanguageIds](../../aspose.font/multilanguagestring/getalllanguageids/)() | Gets language identifiers for all strings or empty array if no strings are presents |
