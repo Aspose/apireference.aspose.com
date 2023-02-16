@@ -10,7 +10,7 @@ is_root: false
 
 ## TrimmedCurve() {#}
 
-Constructor of [TrimmedCurve](/3d/python-net/aspose.threed.entities/trimmedcurve)
+Constructor of [`TrimmedCurve`](/3d/python-net/aspose.threed.entities/trimmedcurve)
 
 
 
@@ -24,5 +24,5 @@ def __init__(self):
 
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [TrimmedCurve](/3d/python-net/aspose.threed.entities/trimmedcurve)
+* module [`aspose.threed.entities`](../../)
+* class [`TrimmedCurve`](/3d/python-net/aspose.threed.entities/trimmedcurve)

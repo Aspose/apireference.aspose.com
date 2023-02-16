@@ -20,5 +20,5 @@ def parent_nodes(self):
 ```
 
 ### See Also
-* module [aspose.threed.profiles](../../)
-* class [RectangleShape](/3d/python-net/aspose.threed.profiles/rectangleshape)
+* module [`aspose.threed.profiles`](../../)
+* class [`RectangleShape`](/3d/python-net/aspose.threed.profiles/rectangleshape)

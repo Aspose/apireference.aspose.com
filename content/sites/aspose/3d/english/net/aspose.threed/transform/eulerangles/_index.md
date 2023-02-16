@@ -14,6 +14,13 @@ Gets or sets the rotation represented in Euler angles, measured in degree
 public Vector3 EulerAngles { get; set; }
 ```
 
+### Examples
+
+```csharp
+Node node = new Node();
+node.Transform.EulerAngles = new Vector3(90, 0, 0);
+```
+
 ### See Also
 
 * struct [Vector3](../../../aspose.threed.utilities/vector3)

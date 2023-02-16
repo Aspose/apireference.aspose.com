@@ -10,7 +10,7 @@ is_root: false
 
 ## ObjSaveOptions() {#}
 
-Constructor of [ObjSaveOptions](/3d/python-net/aspose.threed.formats/objsaveoptions)
+Constructor of [`ObjSaveOptions`](/3d/python-net/aspose.threed.formats/objsaveoptions)
 
 
 
@@ -24,5 +24,5 @@ def __init__(self):
 
 
 ### See Also
-* module [aspose.threed.formats](../../)
-* class [ObjSaveOptions](/3d/python-net/aspose.threed.formats/objsaveoptions)
+* module [`aspose.threed.formats`](../../)
+* class [`ObjSaveOptions`](/3d/python-net/aspose.threed.formats/objsaveoptions)

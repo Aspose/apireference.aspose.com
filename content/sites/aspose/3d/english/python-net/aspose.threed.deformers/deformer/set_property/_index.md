@@ -28,5 +28,5 @@ def set_property(self, property, value):
 
 
 ### See Also
-* module [aspose.threed.deformers](../../)
-* class [Deformer](/3d/python-net/aspose.threed.deformers/deformer)
+* module [`aspose.threed.deformers`](../../)
+* class [`Deformer`](/3d/python-net/aspose.threed.deformers/deformer)

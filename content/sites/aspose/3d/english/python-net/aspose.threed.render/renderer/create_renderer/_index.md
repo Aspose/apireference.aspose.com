@@ -10,7 +10,7 @@ is_root: false
 
 ## create_renderer() {#}
 
-Creates a new [Renderer](/3d/python-net/aspose.threed.render/renderer) with default profile.
+Creates a new [`Renderer`](/3d/python-net/aspose.threed.render/renderer) with default profile.
 
 
 ### Returns 
@@ -35,5 +35,5 @@ def create_renderer(self):
 
 
 ### See Also
-* module [aspose.threed.render](../../)
-* class [Renderer](/3d/python-net/aspose.threed.render/renderer)
+* module [`aspose.threed.render`](../../)
+* class [`Renderer`](/3d/python-net/aspose.threed.render/renderer)

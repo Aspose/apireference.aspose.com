@@ -14,5 +14,5 @@ is_root: false
 ASCII FBX file format, with 7.3.0 version
 
 ### See Also
-* module [aspose.threed.formats](../../)
-* class [DracoFormat](/3d/python-net/aspose.threed.formats/dracoformat)
+* module [`aspose.threed.formats`](../../)
+* class [`DracoFormat`](/3d/python-net/aspose.threed.formats/dracoformat)

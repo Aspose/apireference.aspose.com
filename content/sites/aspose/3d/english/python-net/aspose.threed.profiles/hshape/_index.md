@@ -10,16 +10,16 @@ is_root: false
 
 ## HShape class
 
-The [HShape](/3d/python-net/aspose.threed.profiles/hshape) provides the defining parameters of an 'H' or 'I' shape.
+The [`HShape`](/3d/python-net/aspose.threed.profiles/hshape) provides the defining parameters of an 'H' or 'I' shape.
 
 
 
-**Inheritance:** [HShape](/3d/python-net/aspose.threed.profiles/hshape) → 
-[ParameterizedProfile](/3d/python-net/aspose.threed.profiles/parameterizedprofile) → 
-[Profile](/3d/python-net/aspose.threed.profiles/profile) → 
-[Entity](/3d/python-net/aspose.threed/entity) → 
-[SceneObject](/3d/python-net/aspose.threed/sceneobject) → 
-[A3DObject](/3d/python-net/aspose.threed/a3dobject)
+**Inheritance:** [`HShape`](/3d/python-net/aspose.threed.profiles/hshape) → 
+[`ParameterizedProfile`](/3d/python-net/aspose.threed.profiles/parameterizedprofile) → 
+[`Profile`](/3d/python-net/aspose.threed.profiles/profile) → 
+[`Entity`](/3d/python-net/aspose.threed/entity) → 
+[`SceneObject`](/3d/python-net/aspose.threed/sceneobject) → 
+[`A3DObject`](/3d/python-net/aspose.threed/a3dobject)
 
 
 
@@ -28,7 +28,7 @@ The HShape type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [HShape()](/3d/python-net/aspose.threed.profiles/hshape/__init__/#) | Constructor of [HShape](/3d/python-net/aspose.threed.profiles/hshape) |
+| [HShape()](/3d/python-net/aspose.threed.profiles/hshape/__init__/#) | Constructor of [`HShape`](/3d/python-net/aspose.threed.profiles/hshape) |
 
 
 ### Properties
@@ -67,10 +67,10 @@ The HShape type exposes the following members:
 
 
 ### See Also
-* module [aspose.threed.profiles](..)
-* class [A3DObject](/3d/python-net/aspose.threed/a3dobject)
-* class [Entity](/3d/python-net/aspose.threed/entity)
-* class [HShape](/3d/python-net/aspose.threed.profiles/hshape)
-* class [ParameterizedProfile](/3d/python-net/aspose.threed.profiles/parameterizedprofile)
-* class [Profile](/3d/python-net/aspose.threed.profiles/profile)
-* class [SceneObject](/3d/python-net/aspose.threed/sceneobject)
+* module [`aspose.threed.profiles`](..)
+* class [`A3DObject`](/3d/python-net/aspose.threed/a3dobject)
+* class [`Entity`](/3d/python-net/aspose.threed/entity)
+* class [`HShape`](/3d/python-net/aspose.threed.profiles/hshape)
+* class [`ParameterizedProfile`](/3d/python-net/aspose.threed.profiles/parameterizedprofile)
+* class [`Profile`](/3d/python-net/aspose.threed.profiles/profile)
+* class [`SceneObject`](/3d/python-net/aspose.threed/sceneobject)

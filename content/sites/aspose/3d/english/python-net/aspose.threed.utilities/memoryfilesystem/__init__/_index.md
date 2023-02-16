@@ -24,5 +24,5 @@ def __init__(self):
 
 
 ### See Also
-* module [aspose.threed.utilities](../../)
-* class [MemoryFileSystem](/3d/python-net/aspose.threed.utilities/memoryfilesystem)
+* module [`aspose.threed.utilities`](../../)
+* class [`MemoryFileSystem`](/3d/python-net/aspose.threed.utilities/memoryfilesystem)

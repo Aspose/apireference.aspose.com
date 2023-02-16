@@ -33,6 +33,6 @@ def get_bind_point(self, anim, create):
 
 
 ### See Also
-* module [aspose.threed](../../)
-* class [BindPoint](/3d/python-net/aspose.threed.animation/bindpoint)
-* class [Property](/3d/python-net/aspose.threed/property)
+* module [`aspose.threed`](../../)
+* class [`BindPoint`](/3d/python-net/aspose.threed.animation/bindpoint)
+* class [`Property`](/3d/python-net/aspose.threed/property)

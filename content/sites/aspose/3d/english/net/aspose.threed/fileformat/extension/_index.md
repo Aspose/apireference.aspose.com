@@ -14,6 +14,13 @@ Gets the extension name of this type.
 public string Extension { get; }
 ```
 
+### Examples
+
+```csharp
+var format = FileFormat.MayaBinary;
+Console.WriteLine($"Extension of {format} is {format.Extension}");
+```
+
 ### See Also
 
 * class [FileFormat](../../fileformat)

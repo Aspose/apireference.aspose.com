@@ -20,5 +20,5 @@ def animations(self):
 ```
 
 ### See Also
-* module [aspose.threed.animation](../../)
-* class [AnimationClip](/3d/python-net/aspose.threed.animation/animationclip)
+* module [`aspose.threed.animation`](../../)
+* class [`AnimationClip`](/3d/python-net/aspose.threed.animation/animationclip)

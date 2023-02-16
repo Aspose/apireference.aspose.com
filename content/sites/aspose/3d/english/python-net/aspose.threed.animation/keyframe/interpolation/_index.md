@@ -23,6 +23,6 @@ def interpolation(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.animation](../../)
-* class [Interpolation](/3d/python-net/aspose.threed.animation/interpolation)
-* class [KeyFrame](/3d/python-net/aspose.threed.animation/keyframe)
+* module [`aspose.threed.animation`](../../)
+* class [`Interpolation`](/3d/python-net/aspose.threed.animation/interpolation)
+* class [`KeyFrame`](/3d/python-net/aspose.threed.animation/keyframe)

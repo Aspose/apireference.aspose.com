@@ -14,9 +14,9 @@ A skin deformer contains multiple bones to work, each bone blends a part of the 
 
 
 
-**Inheritance:** [SkinDeformer](/3d/python-net/aspose.threed.deformers/skindeformer) → 
-[Deformer](/3d/python-net/aspose.threed.deformers/deformer) → 
-[A3DObject](/3d/python-net/aspose.threed/a3dobject)
+**Inheritance:** [`SkinDeformer`](/3d/python-net/aspose.threed.deformers/skindeformer) → 
+[`Deformer`](/3d/python-net/aspose.threed.deformers/deformer) → 
+[`A3DObject`](/3d/python-net/aspose.threed/a3dobject)
 
 
 
@@ -25,8 +25,8 @@ The SkinDeformer type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [SkinDeformer(name)](/3d/python-net/aspose.threed.deformers/skindeformer/__init__/#str) | Initializes a new instance of the [SkinDeformer](/3d/python-net/aspose.threed.deformers/skindeformer) class. |
-| [SkinDeformer()](/3d/python-net/aspose.threed.deformers/skindeformer/__init__/#) | Initializes a new instance of the [SkinDeformer](/3d/python-net/aspose.threed.deformers/skindeformer) class. |
+| [SkinDeformer(name)](/3d/python-net/aspose.threed.deformers/skindeformer/__init__/#str) | Initializes a new instance of the [`SkinDeformer`](/3d/python-net/aspose.threed.deformers/skindeformer) class. |
+| [SkinDeformer()](/3d/python-net/aspose.threed.deformers/skindeformer/__init__/#) | Initializes a new instance of the [`SkinDeformer`](/3d/python-net/aspose.threed.deformers/skindeformer) class. |
 
 
 ### Properties
@@ -50,7 +50,7 @@ The SkinDeformer type exposes the following members:
 
 
 ### See Also
-* module [aspose.threed.deformers](..)
-* class [A3DObject](/3d/python-net/aspose.threed/a3dobject)
-* class [Deformer](/3d/python-net/aspose.threed.deformers/deformer)
-* class [SkinDeformer](/3d/python-net/aspose.threed.deformers/skindeformer)
+* module [`aspose.threed.deformers`](..)
+* class [`A3DObject`](/3d/python-net/aspose.threed/a3dobject)
+* class [`Deformer`](/3d/python-net/aspose.threed.deformers/deformer)
+* class [`SkinDeformer`](/3d/python-net/aspose.threed.deformers/skindeformer)

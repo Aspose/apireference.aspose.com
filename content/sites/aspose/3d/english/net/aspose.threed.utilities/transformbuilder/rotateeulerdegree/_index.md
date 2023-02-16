@@ -20,6 +20,14 @@ public TransformBuilder RotateEulerDegree(double degX, double degY, double degZ)
 | degY | Double |  |
 | degZ | Double |  |
 
+### Examples
+
+```csharp
+TransformBuilder tb = new TransformBuilder();
+tb.RotateEulerDegree(0, 90, 0);
+Console.WriteLine($"Transform Matrix: {tb.Matrix}");
+```
+
 ### See Also
 
 * class [TransformBuilder](../../transformbuilder)

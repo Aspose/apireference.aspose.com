@@ -14,5 +14,5 @@ is_root: false
 Gets the origin position.
 
 ### See Also
-* module [aspose.threed.utilities](../../)
-* class [Vector3](/3d/python-net/aspose.threed.utilities/vector3)
+* module [`aspose.threed.utilities`](../../)
+* class [`Vector3`](/3d/python-net/aspose.threed.utilities/vector3)

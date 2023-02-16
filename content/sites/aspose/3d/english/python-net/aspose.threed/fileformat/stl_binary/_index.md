@@ -14,5 +14,5 @@ is_root: false
 Binary STL file format
 
 ### See Also
-* module [aspose.threed](../../)
-* class [FileFormat](/3d/python-net/aspose.threed/fileformat)
+* module [`aspose.threed`](../../)
+* class [`FileFormat`](/3d/python-net/aspose.threed/fileformat)

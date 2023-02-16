@@ -10,7 +10,7 @@ is_root: false
 
 ## Node() {#}
 
-Initializes a new instance of the [Node](/3d/python-net/aspose.threed/node) class.
+Initializes a new instance of the [`Node`](/3d/python-net/aspose.threed/node) class.
 
 
 
@@ -24,7 +24,7 @@ def __init__(self):
 
 ## Node(name) {#str}
 
-Initializes a new instance of the [Node](/3d/python-net/aspose.threed/node) class.
+Initializes a new instance of the [`Node`](/3d/python-net/aspose.threed/node) class.
 
 
 
@@ -41,7 +41,7 @@ def __init__(self, name):
 
 ## Node(name, entity) {#str-Entity}
 
-Initializes a new instance of the [Node](/3d/python-net/aspose.threed/node) class.
+Initializes a new instance of the [`Node`](/3d/python-net/aspose.threed/node) class.
 
 
 
@@ -54,10 +54,10 @@ def __init__(self, name, entity):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | name | str | Name. |
-| entity | [Entity](/3d/python-net/aspose.threed/entity) | Default entity. |
+| entity | [`Entity`](/3d/python-net/aspose.threed/entity) | Default entity. |
 
 
 
 ### See Also
-* module [aspose.threed](../../)
-* class [Node](/3d/python-net/aspose.threed/node)
+* module [`aspose.threed`](../../)
+* class [`Node`](/3d/python-net/aspose.threed/node)

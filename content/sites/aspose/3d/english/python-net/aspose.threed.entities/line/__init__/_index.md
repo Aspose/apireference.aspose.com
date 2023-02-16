@@ -10,7 +10,7 @@ is_root: false
 
 ## Line() {#}
 
-Initializes a new instance of the [Line](/3d/python-net/aspose.threed.entities/line) class.
+Initializes a new instance of the [`Line`](/3d/python-net/aspose.threed.entities/line) class.
 
 
 
@@ -24,7 +24,7 @@ def __init__(self):
 
 ## Line(name) {#str}
 
-Initializes a new instance of the [Line](/3d/python-net/aspose.threed.entities/line) class.
+Initializes a new instance of the [`Line`](/3d/python-net/aspose.threed.entities/line) class.
 
 
 
@@ -41,5 +41,5 @@ def __init__(self, name):
 
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [Line](/3d/python-net/aspose.threed.entities/line)
+* module [`aspose.threed.entities`](../../)
+* class [`Line`](/3d/python-net/aspose.threed.entities/line)

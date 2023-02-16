@@ -20,6 +20,6 @@ def render_target(self):
 ```
 
 ### See Also
-* module [aspose.threed.render](../../)
-* class [IRenderTarget](/3d/python-net/aspose.threed.render/irendertarget)
-* class [Renderer](/3d/python-net/aspose.threed.render/renderer)
+* module [`aspose.threed.render`](../../)
+* class [`IRenderTarget`](/3d/python-net/aspose.threed.render/irendertarget)
+* class [`Renderer`](/3d/python-net/aspose.threed.render/renderer)

@@ -10,7 +10,7 @@ is_root: false
 
 ## RenderState() {#}
 
-Constructor of [RenderState](/3d/python-net/aspose.threed.render/renderstate)
+Constructor of [`RenderState`](/3d/python-net/aspose.threed.render/renderstate)
 
 
 
@@ -24,5 +24,5 @@ def __init__(self):
 
 
 ### See Also
-* module [aspose.threed.render](../../)
-* class [RenderState](/3d/python-net/aspose.threed.render/renderstate)
+* module [`aspose.threed.render`](../../)
+* class [`RenderState`](/3d/python-net/aspose.threed.render/renderstate)

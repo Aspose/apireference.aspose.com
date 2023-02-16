@@ -14,9 +14,9 @@ Defines normal vectors for specified components.
 
 
 
-**Inheritance:** [VertexElementNormal](/3d/python-net/aspose.threed.entities/vertexelementnormal) → 
-[VertexElementVector4](/3d/python-net/aspose.threed.entities/vertexelementvector4) → 
-[VertexElement](/3d/python-net/aspose.threed.entities/vertexelement)
+**Inheritance:** [`VertexElementNormal`](/3d/python-net/aspose.threed.entities/vertexelementnormal) → 
+[`VertexElementVector4`](/3d/python-net/aspose.threed.entities/vertexelementvector4) → 
+[`VertexElement`](/3d/python-net/aspose.threed.entities/vertexelement)
 
 
 
@@ -25,13 +25,13 @@ The VertexElementNormal type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [VertexElementNormal()](/3d/python-net/aspose.threed.entities/vertexelementnormal/__init__/#) | Initializes a new instance of the [VertexElementNormal](/3d/python-net/aspose.threed.entities/vertexelementnormal) class. |
+| [VertexElementNormal()](/3d/python-net/aspose.threed.entities/vertexelementnormal/__init__/#) | Initializes a new instance of the [`VertexElementNormal`](/3d/python-net/aspose.threed.entities/vertexelementnormal) class. |
 
 
 ### Properties
 | Property | Description |
 | :- | :- |
-| [vertex_element_type](/3d/python-net/aspose.threed.entities/vertexelementnormal/vertex_element_type) | Gets the type of the [VertexElement](/3d/python-net/aspose.threed.entities/vertexelement) |
+| [vertex_element_type](/3d/python-net/aspose.threed.entities/vertexelementnormal/vertex_element_type) | Gets the type of the [`VertexElement`](/3d/python-net/aspose.threed.entities/vertexelement) |
 | [name](/3d/python-net/aspose.threed.entities/vertexelementnormal/name) | Gets or sets the name. |
 | [mapping_mode](/3d/python-net/aspose.threed.entities/vertexelementnormal/mapping_mode) | Gets or sets how the element is mapped. |
 | [reference_mode](/3d/python-net/aspose.threed.entities/vertexelementnormal/reference_mode) | Gets or sets how the element is referenced. |
@@ -50,7 +50,7 @@ The VertexElementNormal type exposes the following members:
 
 
 ### See Also
-* module [aspose.threed.entities](..)
-* class [VertexElement](/3d/python-net/aspose.threed.entities/vertexelement)
-* class [VertexElementNormal](/3d/python-net/aspose.threed.entities/vertexelementnormal)
-* class [VertexElementVector4](/3d/python-net/aspose.threed.entities/vertexelementvector4)
+* module [`aspose.threed.entities`](..)
+* class [`VertexElement`](/3d/python-net/aspose.threed.entities/vertexelement)
+* class [`VertexElementNormal`](/3d/python-net/aspose.threed.entities/vertexelementnormal)
+* class [`VertexElementVector4`](/3d/python-net/aspose.threed.entities/vertexelementvector4)

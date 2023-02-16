@@ -32,5 +32,5 @@ def get_property(self, property):
 
 
 ### See Also
-* module [aspose.threed.shading](../../)
-* class [PhongMaterial](/3d/python-net/aspose.threed.shading/phongmaterial)
+* module [`aspose.threed.shading`](../../)
+* class [`PhongMaterial`](/3d/python-net/aspose.threed.shading/phongmaterial)

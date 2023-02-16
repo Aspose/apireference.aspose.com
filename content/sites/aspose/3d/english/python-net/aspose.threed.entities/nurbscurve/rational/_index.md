@@ -11,7 +11,7 @@ is_root: false
 ## rational property
 
 
-Gets or sets whether it is rational, this value indicates whether this [NurbsCurve](/3d/python-net/aspose.threed.entities/nurbscurve) is rational spline or non-rational spline.
+Gets or sets whether it is rational, this value indicates whether this [`NurbsCurve`](/3d/python-net/aspose.threed.entities/nurbscurve) is rational spline or non-rational spline.
 Non-rational B-spline is a special case of rational B-splines.
 ### Definition:
 ```python
@@ -24,5 +24,5 @@ def rational(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [NurbsCurve](/3d/python-net/aspose.threed.entities/nurbscurve)
+* module [`aspose.threed.entities`](../../)
+* class [`NurbsCurve`](/3d/python-net/aspose.threed.entities/nurbscurve)

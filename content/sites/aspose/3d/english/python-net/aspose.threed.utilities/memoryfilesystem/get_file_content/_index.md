@@ -33,5 +33,5 @@ def get_file_content(self, file_name):
 
 
 ### See Also
-* module [aspose.threed.utilities](../../)
-* class [MemoryFileSystem](/3d/python-net/aspose.threed.utilities/memoryfilesystem)
+* module [`aspose.threed.utilities`](../../)
+* class [`MemoryFileSystem`](/3d/python-net/aspose.threed.utilities/memoryfilesystem)

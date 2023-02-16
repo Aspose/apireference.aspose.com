@@ -23,6 +23,6 @@ def origin(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [RevolvedAreaSolid](/3d/python-net/aspose.threed.entities/revolvedareasolid)
-* class [Vector3](/3d/python-net/aspose.threed.utilities/vector3)
+* module [`aspose.threed.entities`](../../)
+* class [`RevolvedAreaSolid`](/3d/python-net/aspose.threed.entities/revolvedareasolid)
+* class [`Vector3`](/3d/python-net/aspose.threed.utilities/vector3)

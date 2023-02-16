@@ -25,4 +25,4 @@ The Extrapolation type exposes the following members:
 
 
 ### See Also
-* module [aspose.threed.animation](..)
+* module [`aspose.threed.animation`](..)

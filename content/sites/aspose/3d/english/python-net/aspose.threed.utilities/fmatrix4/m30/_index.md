@@ -14,5 +14,5 @@ is_root: false
 The m30.
 
 ### See Also
-* module [aspose.threed.utilities](../../)
-* class [FMatrix4](/3d/python-net/aspose.threed.utilities/fmatrix4)
+* module [`aspose.threed.utilities`](../../)
+* class [`FMatrix4`](/3d/python-net/aspose.threed.utilities/fmatrix4)

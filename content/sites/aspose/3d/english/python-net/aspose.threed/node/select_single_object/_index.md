@@ -31,7 +31,7 @@ def select_single_object(self, path):
 ### Exceptions
 | Exception | Description |
 | :- | :- |
-| [ParseException](/3d/python-net/aspose.threed.utilities/parseexception) | ParseException will be thrown if the path contains malformed query. |
+| [`ParseException`](/3d/python-net/aspose.threed.utilities/parseexception) | ParseException will be thrown if the path contains malformed query. |
 
 
 
@@ -65,6 +65,6 @@ obj = s.root_node.select_single_object("/")
 
 
 ### See Also
-* module [aspose.threed](../../)
-* class [Node](/3d/python-net/aspose.threed/node)
-* class [ParseException](/3d/python-net/aspose.threed.utilities/parseexception)
+* module [`aspose.threed`](../../)
+* class [`Node`](/3d/python-net/aspose.threed/node)
+* class [`ParseException`](/3d/python-net/aspose.threed.utilities/parseexception)

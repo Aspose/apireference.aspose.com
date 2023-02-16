@@ -14,8 +14,8 @@ The root class of objects that will be stored inside a scene.
 
 
 
-**Inheritance:** [SceneObject](/3d/python-net/aspose.threed/sceneobject) → 
-[A3DObject](/3d/python-net/aspose.threed/a3dobject)
+**Inheritance:** [`SceneObject`](/3d/python-net/aspose.threed/sceneobject) → 
+[`A3DObject`](/3d/python-net/aspose.threed/a3dobject)
 
 
 
@@ -41,6 +41,6 @@ The SceneObject type exposes the following members:
 
 
 ### See Also
-* module [aspose.threed](..)
-* class [A3DObject](/3d/python-net/aspose.threed/a3dobject)
-* class [SceneObject](/3d/python-net/aspose.threed/sceneobject)
+* module [`aspose.threed`](..)
+* class [`A3DObject`](/3d/python-net/aspose.threed/a3dobject)
+* class [`SceneObject`](/3d/python-net/aspose.threed/sceneobject)

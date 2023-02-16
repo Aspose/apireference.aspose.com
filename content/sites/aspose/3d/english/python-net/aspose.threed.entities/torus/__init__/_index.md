@@ -10,7 +10,7 @@ is_root: false
 
 ## Torus() {#}
 
-Initializes a new instance of the [Torus](/3d/python-net/aspose.threed.entities/torus) class.
+Initializes a new instance of the [`Torus`](/3d/python-net/aspose.threed.entities/torus) class.
 
 
 
@@ -24,7 +24,7 @@ def __init__(self):
 
 ## Torus(radius, tube) {#float-float}
 
-Initializes a new instance of the [Torus](/3d/python-net/aspose.threed.entities/torus) class.
+Initializes a new instance of the [`Torus`](/3d/python-net/aspose.threed.entities/torus) class.
 
 
 
@@ -42,7 +42,7 @@ def __init__(self, radius, tube):
 
 ## Torus(radius, tube, arc) {#float-float-float}
 
-Initializes a new instance of the [Torus](/3d/python-net/aspose.threed.entities/torus) class.
+Initializes a new instance of the [`Torus`](/3d/python-net/aspose.threed.entities/torus) class.
 
 
 
@@ -61,7 +61,7 @@ def __init__(self, radius, tube, arc):
 
 ## Torus(name, radius, tube, radial_segments, tubular_segments, arc) {#str-float-float-int-int-float}
 
-Initializes a new instance of the [Torus](/3d/python-net/aspose.threed.entities/torus) class.
+Initializes a new instance of the [`Torus`](/3d/python-net/aspose.threed.entities/torus) class.
 
 
 
@@ -83,5 +83,5 @@ def __init__(self, name, radius, tube, radial_segments, tubular_segments, arc):
 
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [Torus](/3d/python-net/aspose.threed.entities/torus)
+* module [`aspose.threed.entities`](../../)
+* class [`Torus`](/3d/python-net/aspose.threed.entities/torus)

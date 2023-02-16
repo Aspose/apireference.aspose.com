@@ -23,6 +23,6 @@ def start_point(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [EndPoint](/3d/python-net/aspose.threed.entities/endpoint)
-* class [SweptAreaSolid](/3d/python-net/aspose.threed.entities/sweptareasolid)
+* module [`aspose.threed.entities`](../../)
+* class [`EndPoint`](/3d/python-net/aspose.threed.entities/endpoint)
+* class [`SweptAreaSolid`](/3d/python-net/aspose.threed.entities/sweptareasolid)

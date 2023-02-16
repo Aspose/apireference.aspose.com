@@ -29,6 +29,6 @@ def get_entity_renderer_key(self):
 
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [Curve](/3d/python-net/aspose.threed.entities/curve)
-* class [EntityRendererKey](/3d/python-net/aspose.threed.render/entityrendererkey)
+* module [`aspose.threed.entities`](../../)
+* class [`Curve`](/3d/python-net/aspose.threed.entities/curve)
+* class [`EntityRendererKey`](/3d/python-net/aspose.threed.render/entityrendererkey)

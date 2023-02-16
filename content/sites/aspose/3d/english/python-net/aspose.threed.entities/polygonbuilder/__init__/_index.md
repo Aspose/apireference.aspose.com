@@ -10,7 +10,7 @@ is_root: false
 
 ## PolygonBuilder(mesh) {#Mesh}
 
-Initializes a new instance of the [PolygonBuilder](/3d/python-net/aspose.threed.entities/polygonbuilder) class.
+Initializes a new instance of the [`PolygonBuilder`](/3d/python-net/aspose.threed.entities/polygonbuilder) class.
 
 
 
@@ -22,10 +22,10 @@ def __init__(self, mesh):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| mesh | [Mesh](/3d/python-net/aspose.threed.entities/mesh) | On which mesh to build polygon. |
+| mesh | [`Mesh`](/3d/python-net/aspose.threed.entities/mesh) | On which mesh to build polygon. |
 
 
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [PolygonBuilder](/3d/python-net/aspose.threed.entities/polygonbuilder)
+* module [`aspose.threed.entities`](../../)
+* class [`PolygonBuilder`](/3d/python-net/aspose.threed.entities/polygonbuilder)

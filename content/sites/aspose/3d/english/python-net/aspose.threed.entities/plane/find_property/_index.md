@@ -34,5 +34,5 @@ def find_property(self, property_name):
 
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [Plane](/3d/python-net/aspose.threed.entities/plane)
+* module [`aspose.threed.entities`](../../)
+* class [`Plane`](/3d/python-net/aspose.threed.entities/plane)

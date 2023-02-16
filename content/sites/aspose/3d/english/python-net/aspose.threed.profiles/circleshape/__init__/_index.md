@@ -10,7 +10,7 @@ is_root: false
 
 ## CircleShape() {#}
 
-Construct a [CircleShape](/3d/python-net/aspose.threed.profiles/circleshape) profile with default radius(5).
+Construct a [`CircleShape`](/3d/python-net/aspose.threed.profiles/circleshape) profile with default radius(5).
 
 
 
@@ -24,7 +24,7 @@ def __init__(self):
 
 ## CircleShape(radius) {#float}
 
-Construct a [CircleShape](/3d/python-net/aspose.threed.profiles/circleshape) profile with specified radius.
+Construct a [`CircleShape`](/3d/python-net/aspose.threed.profiles/circleshape) profile with specified radius.
 
 
 
@@ -41,5 +41,5 @@ def __init__(self, radius):
 
 
 ### See Also
-* module [aspose.threed.profiles](../../)
-* class [CircleShape](/3d/python-net/aspose.threed.profiles/circleshape)
+* module [`aspose.threed.profiles`](../../)
+* class [`CircleShape`](/3d/python-net/aspose.threed.profiles/circleshape)

@@ -24,5 +24,5 @@ def file_name(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.formats](../../)
-* class [Html5SaveOptions](/3d/python-net/aspose.threed.formats/html5saveoptions)
+* module [`aspose.threed.formats`](../../)
+* class [`Html5SaveOptions`](/3d/python-net/aspose.threed.formats/html5saveoptions)

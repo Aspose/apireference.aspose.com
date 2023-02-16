@@ -36,8 +36,8 @@ def __init__(self, minimum, maximum):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| minimum | [Vector3](/3d/python-net/aspose.threed.utilities/vector3) | The minimum corner |
-| maximum | [Vector3](/3d/python-net/aspose.threed.utilities/vector3) | The maximum corner |
+| minimum | [`Vector3`](/3d/python-net/aspose.threed.utilities/vector3) | The minimum corner |
+| maximum | [`Vector3`](/3d/python-net/aspose.threed.utilities/vector3) | The maximum corner |
 
 
 ## BoundingBox(min_x, min_y, min_z, max_x, max_y, max_z) {#float-float-float-float-float-float}
@@ -64,5 +64,5 @@ def __init__(self, min_x, min_y, min_z, max_x, max_y, max_z):
 
 
 ### See Also
-* module [aspose.threed.utilities](../../)
-* class [BoundingBox](/3d/python-net/aspose.threed.utilities/boundingbox)
+* module [`aspose.threed.utilities`](../../)
+* class [`BoundingBox`](/3d/python-net/aspose.threed.utilities/boundingbox)

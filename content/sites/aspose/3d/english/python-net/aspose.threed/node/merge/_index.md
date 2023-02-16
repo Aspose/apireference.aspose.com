@@ -22,7 +22,7 @@ def merge(self, node):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| node | [Node](/3d/python-net/aspose.threed/node) |  |
+| node | [`Node`](/3d/python-net/aspose.threed/node) |  |
 
 ### Example 
 
@@ -42,5 +42,5 @@ scene1.save("merged.fbx")
 
 
 ### See Also
-* module [aspose.threed](../../)
-* class [Node](/3d/python-net/aspose.threed/node)
+* module [`aspose.threed`](../../)
+* class [`Node`](/3d/python-net/aspose.threed/node)

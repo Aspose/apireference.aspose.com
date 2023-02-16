@@ -14,6 +14,17 @@ Gets whether Aspose.3D supports import scene from current file format.
 public bool CanImport { get; }
 ```
 
+### Examples
+
+The following code shows how to check if importing from specified format is supported.
+
+```csharp
+var outputFormat = ".glb";
+var format = FileFormat.GetFormatByExtension(outputFormat);
+if (format.CanImport)
+    Console.WriteLine($"Can import from {outputFormat}");
+```
+
 ### See Also
 
 * class [FileFormat](../../fileformat)

@@ -10,7 +10,7 @@ is_root: false
 
 ## Html5SaveOptions() {#}
 
-Constructor of [Html5SaveOptions](/3d/python-net/aspose.threed.formats/html5saveoptions) with all default settings.
+Constructor of [`Html5SaveOptions`](/3d/python-net/aspose.threed.formats/html5saveoptions) with all default settings.
 
 
 
@@ -24,5 +24,5 @@ def __init__(self):
 
 
 ### See Also
-* module [aspose.threed.formats](../../)
-* class [Html5SaveOptions](/3d/python-net/aspose.threed.formats/html5saveoptions)
+* module [`aspose.threed.formats`](../../)
+* class [`Html5SaveOptions`](/3d/python-net/aspose.threed.formats/html5saveoptions)

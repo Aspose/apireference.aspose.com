@@ -20,6 +20,6 @@ def file_format(self):
 ```
 
 ### See Also
-* module [aspose.threed.formats](../../)
-* class [FbxLoadOptions](/3d/python-net/aspose.threed.formats/fbxloadoptions)
-* class [FileFormat](/3d/python-net/aspose.threed/fileformat)
+* module [`aspose.threed.formats`](../../)
+* class [`FbxLoadOptions`](/3d/python-net/aspose.threed.formats/fbxloadoptions)
+* class [`FileFormat`](/3d/python-net/aspose.threed/fileformat)

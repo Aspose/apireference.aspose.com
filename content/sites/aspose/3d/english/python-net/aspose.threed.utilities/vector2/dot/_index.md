@@ -27,10 +27,10 @@ def dot(self, rhs):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| rhs | [Vector2](/3d/python-net/aspose.threed.utilities/vector2) | Right hand side value. |
+| rhs | [`Vector2`](/3d/python-net/aspose.threed.utilities/vector2) | Right hand side value. |
 
 
 
 ### See Also
-* module [aspose.threed.utilities](../../)
-* class [Vector2](/3d/python-net/aspose.threed.utilities/vector2)
+* module [`aspose.threed.utilities`](../../)
+* class [`Vector2`](/3d/python-net/aspose.threed.utilities/vector2)

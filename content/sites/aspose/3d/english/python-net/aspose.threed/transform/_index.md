@@ -15,8 +15,8 @@ This is used by local transform.
 
 
 
-**Inheritance:** [Transform](/3d/python-net/aspose.threed/transform) → 
-[A3DObject](/3d/python-net/aspose.threed/a3dobject)
+**Inheritance:** [`Transform`](/3d/python-net/aspose.threed/transform) → 
+[`A3DObject`](/3d/python-net/aspose.threed/a3dobject)
 
 
 
@@ -77,6 +77,6 @@ boxNode.transform.translation = Vector3(10, 0, 0)
 ```
 
 ### See Also
-* module [aspose.threed](..)
-* class [A3DObject](/3d/python-net/aspose.threed/a3dobject)
-* class [Transform](/3d/python-net/aspose.threed/transform)
+* module [`aspose.threed`](..)
+* class [`A3DObject`](/3d/python-net/aspose.threed/a3dobject)
+* class [`Transform`](/3d/python-net/aspose.threed/transform)

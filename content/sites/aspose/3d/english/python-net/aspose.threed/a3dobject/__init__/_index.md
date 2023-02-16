@@ -10,7 +10,7 @@ is_root: false
 
 ## A3DObject() {#}
 
-Initializes a new instance of the [A3DObject](/3d/python-net/aspose.threed/a3dobject) class with no name.
+Initializes a new instance of the [`A3DObject`](/3d/python-net/aspose.threed/a3dobject) class with no name.
 
 
 
@@ -24,7 +24,7 @@ def __init__(self):
 
 ## A3DObject(name) {#str}
 
-Initializes a new instance of the [A3DObject](/3d/python-net/aspose.threed/a3dobject) class.
+Initializes a new instance of the [`A3DObject`](/3d/python-net/aspose.threed/a3dobject) class.
 
 
 
@@ -41,5 +41,5 @@ def __init__(self, name):
 
 
 ### See Also
-* module [aspose.threed](../../)
-* class [A3DObject](/3d/python-net/aspose.threed/a3dobject)
+* module [`aspose.threed`](../../)
+* class [`A3DObject`](/3d/python-net/aspose.threed/a3dobject)

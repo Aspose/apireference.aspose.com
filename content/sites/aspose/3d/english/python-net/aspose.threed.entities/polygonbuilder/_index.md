@@ -10,7 +10,7 @@ is_root: false
 
 ## PolygonBuilder class
 
-A helper class to build polygon for [Mesh](/3d/python-net/aspose.threed.entities/mesh)
+A helper class to build polygon for [`Mesh`](/3d/python-net/aspose.threed.entities/mesh)
 
 
 
@@ -19,7 +19,7 @@ The PolygonBuilder type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [PolygonBuilder(mesh)](/3d/python-net/aspose.threed.entities/polygonbuilder/__init__/#Mesh) | Initializes a new instance of the [PolygonBuilder](/3d/python-net/aspose.threed.entities/polygonbuilder) class. |
+| [PolygonBuilder(mesh)](/3d/python-net/aspose.threed.entities/polygonbuilder/__init__/#Mesh) | Initializes a new instance of the [`PolygonBuilder`](/3d/python-net/aspose.threed.entities/polygonbuilder) class. |
 
 
 ### Methods
@@ -58,9 +58,9 @@ mesh.create_polygon(indices)
 
 ```
 
-If all indices are ready to use, [Mesh.create_polygon(indices, offset, length)](/3d/python-net/aspose.threed.entities/mesh/create_polygon) is preferred, otherwise [PolygonBuilder](/3d/python-net/aspose.threed.entities/polygonbuilder) would be a better choice.
+If all indices are ready to use, [`Mesh.create_polygon(indices, offset, length)`](/3d/python-net/aspose.threed.entities/mesh/create_polygon) is preferred, otherwise [`PolygonBuilder`](/3d/python-net/aspose.threed.entities/polygonbuilder) would be a better choice.
 
 ### See Also
-* module [aspose.threed.entities](..)
-* class [Mesh](/3d/python-net/aspose.threed.entities/mesh)
-* class [PolygonBuilder](/3d/python-net/aspose.threed.entities/polygonbuilder)
+* module [`aspose.threed.entities`](..)
+* class [`Mesh`](/3d/python-net/aspose.threed.entities/mesh)
+* class [`PolygonBuilder`](/3d/python-net/aspose.threed.entities/polygonbuilder)

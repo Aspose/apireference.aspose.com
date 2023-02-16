@@ -19,7 +19,7 @@ The ShaderTechnique type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [ShaderTechnique()](/3d/python-net/aspose.threed.shading/shadertechnique/__init__/#) | Initializes a new instance of the [ShaderTechnique](/3d/python-net/aspose.threed.shading/shadertechnique) class. |
+| [ShaderTechnique()](/3d/python-net/aspose.threed.shading/shadertechnique/__init__/#) | Initializes a new instance of the [`ShaderTechnique`](/3d/python-net/aspose.threed.shading/shadertechnique) class. |
 
 
 ### Properties
@@ -43,5 +43,5 @@ The ShaderTechnique type exposes the following members:
 
 
 ### See Also
-* module [aspose.threed.shading](..)
-* class [ShaderTechnique](/3d/python-net/aspose.threed.shading/shadertechnique)
+* module [`aspose.threed.shading`](..)
+* class [`ShaderTechnique`](/3d/python-net/aspose.threed.shading/shadertechnique)

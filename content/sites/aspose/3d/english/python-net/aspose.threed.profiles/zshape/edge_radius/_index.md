@@ -23,5 +23,5 @@ def edge_radius(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.profiles](../../)
-* class [ZShape](/3d/python-net/aspose.threed.profiles/zshape)
+* module [`aspose.threed.profiles`](../../)
+* class [`ZShape`](/3d/python-net/aspose.threed.profiles/zshape)

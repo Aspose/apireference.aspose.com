@@ -11,7 +11,7 @@ is_root: false
 ## video_for_texture property
 
 
-Gets or sets whether generate a Video instance for [Texture](/3d/python-net/aspose.threed.shading/texture) when exporting as FBX.
+Gets or sets whether generate a Video instance for [`Texture`](/3d/python-net/aspose.threed.shading/texture) when exporting as FBX.
 ### Definition:
 ```python
 @property
@@ -23,6 +23,6 @@ def video_for_texture(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.formats](../../)
-* class [FbxSaveOptions](/3d/python-net/aspose.threed.formats/fbxsaveoptions)
-* class [Texture](/3d/python-net/aspose.threed.shading/texture)
+* module [`aspose.threed.formats`](../../)
+* class [`FbxSaveOptions`](/3d/python-net/aspose.threed.formats/fbxsaveoptions)
+* class [`Texture`](/3d/python-net/aspose.threed.shading/texture)

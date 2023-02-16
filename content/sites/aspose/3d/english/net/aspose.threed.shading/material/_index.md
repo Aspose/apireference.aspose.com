@@ -45,6 +45,19 @@ public abstract class Material : A3DObject, IEnumerable<TextureSlot>
 | const [MapNormal](../../aspose.threed.shading/material/mapnormal) | Used in [`SetTexture`](./settexture) to assign a normal texture mapping. |
 | const [MapSpecular](../../aspose.threed.shading/material/mapspecular) | Used in [`SetTexture`](./settexture) to assign a specular texture mapping. |
 
+### Examples
+
+```csharp
+var mat = new LambertMaterial();
+var tex = new Texture();
+tex.FileName = "diffuse.png";
+mat.SetTexture(Material.MapDiffuse, tex);
+foreach(var slot in mat)
+{
+    Console.WriteLine($"Texture slot {slot.SlotName} = {slot.Texture}");
+}
+```
+
 ### See Also
 
 * class [A3DObject](../../aspose.threed/a3dobject)

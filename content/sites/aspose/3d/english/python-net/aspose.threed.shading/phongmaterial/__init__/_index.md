@@ -10,7 +10,7 @@ is_root: false
 
 ## PhongMaterial() {#}
 
-Initializes a new instance of the [PhongMaterial](/3d/python-net/aspose.threed.shading/phongmaterial) class.
+Initializes a new instance of the [`PhongMaterial`](/3d/python-net/aspose.threed.shading/phongmaterial) class.
 
 
 
@@ -24,7 +24,7 @@ def __init__(self):
 
 ## PhongMaterial(name) {#str}
 
-Initializes a new instance of the [PhongMaterial](/3d/python-net/aspose.threed.shading/phongmaterial) class.
+Initializes a new instance of the [`PhongMaterial`](/3d/python-net/aspose.threed.shading/phongmaterial) class.
 
 
 
@@ -41,5 +41,5 @@ def __init__(self, name):
 
 
 ### See Also
-* module [aspose.threed.shading](../../)
-* class [PhongMaterial](/3d/python-net/aspose.threed.shading/phongmaterial)
+* module [`aspose.threed.shading`](../../)
+* class [`PhongMaterial`](/3d/python-net/aspose.threed.shading/phongmaterial)

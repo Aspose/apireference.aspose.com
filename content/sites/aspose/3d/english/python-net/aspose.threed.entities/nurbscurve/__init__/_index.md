@@ -10,7 +10,7 @@ is_root: false
 
 ## NurbsCurve() {#}
 
-Initializes a new instance of the [NurbsCurve](/3d/python-net/aspose.threed.entities/nurbscurve) class.
+Initializes a new instance of the [`NurbsCurve`](/3d/python-net/aspose.threed.entities/nurbscurve) class.
 
 
 
@@ -24,7 +24,7 @@ def __init__(self):
 
 ## NurbsCurve(name) {#str}
 
-Initializes a new instance of the [NurbsCurve](/3d/python-net/aspose.threed.entities/nurbscurve) class.
+Initializes a new instance of the [`NurbsCurve`](/3d/python-net/aspose.threed.entities/nurbscurve) class.
 
 
 
@@ -41,5 +41,5 @@ def __init__(self, name):
 
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [NurbsCurve](/3d/python-net/aspose.threed.entities/nurbscurve)
+* module [`aspose.threed.entities`](../../)
+* class [`NurbsCurve`](/3d/python-net/aspose.threed.entities/nurbscurve)

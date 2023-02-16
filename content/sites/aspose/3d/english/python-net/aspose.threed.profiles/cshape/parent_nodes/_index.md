@@ -20,5 +20,5 @@ def parent_nodes(self):
 ```
 
 ### See Also
-* module [aspose.threed.profiles](../../)
-* class [CShape](/3d/python-net/aspose.threed.profiles/cshape)
+* module [`aspose.threed.profiles`](../../)
+* class [`CShape`](/3d/python-net/aspose.threed.profiles/cshape)

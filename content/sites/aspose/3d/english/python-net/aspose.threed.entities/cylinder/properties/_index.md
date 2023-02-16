@@ -20,6 +20,6 @@ def properties(self):
 ```
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [Cylinder](/3d/python-net/aspose.threed.entities/cylinder)
-* class [PropertyCollection](/3d/python-net/aspose.threed/propertycollection)
+* module [`aspose.threed.entities`](../../)
+* class [`Cylinder`](/3d/python-net/aspose.threed.entities/cylinder)
+* class [`PropertyCollection`](/3d/python-net/aspose.threed/propertycollection)

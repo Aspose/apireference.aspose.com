@@ -33,5 +33,5 @@ def read_file(self, file_name, options):
 
 
 ### See Also
-* module [aspose.threed.utilities](../../)
-* class [LocalFileSystem](/3d/python-net/aspose.threed.utilities/localfilesystem)
+* module [`aspose.threed.utilities`](../../)
+* class [`LocalFileSystem`](/3d/python-net/aspose.threed.utilities/localfilesystem)

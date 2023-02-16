@@ -10,15 +10,15 @@ is_root: false
 
 ## CompositeCurve class
 
-A [CompositeCurve](/3d/python-net/aspose.threed.entities/compositecurve) is consisting of several curve segments.
+A [`CompositeCurve`](/3d/python-net/aspose.threed.entities/compositecurve) is consisting of several curve segments.
 
 
 
-**Inheritance:** [CompositeCurve](/3d/python-net/aspose.threed.entities/compositecurve) → 
-[Curve](/3d/python-net/aspose.threed.entities/curve) → 
-[Entity](/3d/python-net/aspose.threed/entity) → 
-[SceneObject](/3d/python-net/aspose.threed/sceneobject) → 
-[A3DObject](/3d/python-net/aspose.threed/a3dobject)
+**Inheritance:** [`CompositeCurve`](/3d/python-net/aspose.threed.entities/compositecurve) → 
+[`Curve`](/3d/python-net/aspose.threed.entities/curve) → 
+[`Entity`](/3d/python-net/aspose.threed/entity) → 
+[`SceneObject`](/3d/python-net/aspose.threed/sceneobject) → 
+[`A3DObject`](/3d/python-net/aspose.threed/a3dobject)
 
 
 
@@ -27,7 +27,7 @@ The CompositeCurve type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [CompositeCurve()](/3d/python-net/aspose.threed.entities/compositecurve/__init__/#) | Constructor of [CompositeCurve](/3d/python-net/aspose.threed.entities/compositecurve) |
+| [CompositeCurve()](/3d/python-net/aspose.threed.entities/compositecurve/__init__/#) | Constructor of [`CompositeCurve`](/3d/python-net/aspose.threed.entities/compositecurve) |
 
 
 ### Properties
@@ -58,9 +58,9 @@ The CompositeCurve type exposes the following members:
 
 
 ### See Also
-* module [aspose.threed.entities](..)
-* class [A3DObject](/3d/python-net/aspose.threed/a3dobject)
-* class [CompositeCurve](/3d/python-net/aspose.threed.entities/compositecurve)
-* class [Curve](/3d/python-net/aspose.threed.entities/curve)
-* class [Entity](/3d/python-net/aspose.threed/entity)
-* class [SceneObject](/3d/python-net/aspose.threed/sceneobject)
+* module [`aspose.threed.entities`](..)
+* class [`A3DObject`](/3d/python-net/aspose.threed/a3dobject)
+* class [`CompositeCurve`](/3d/python-net/aspose.threed.entities/compositecurve)
+* class [`Curve`](/3d/python-net/aspose.threed.entities/curve)
+* class [`Entity`](/3d/python-net/aspose.threed/entity)
+* class [`SceneObject`](/3d/python-net/aspose.threed/sceneobject)

@@ -14,11 +14,11 @@ A bounded curve that trimmed the basis curve at both ends.
 
 
 
-**Inheritance:** [TrimmedCurve](/3d/python-net/aspose.threed.entities/trimmedcurve) → 
-[Curve](/3d/python-net/aspose.threed.entities/curve) → 
-[Entity](/3d/python-net/aspose.threed/entity) → 
-[SceneObject](/3d/python-net/aspose.threed/sceneobject) → 
-[A3DObject](/3d/python-net/aspose.threed/a3dobject)
+**Inheritance:** [`TrimmedCurve`](/3d/python-net/aspose.threed.entities/trimmedcurve) → 
+[`Curve`](/3d/python-net/aspose.threed.entities/curve) → 
+[`Entity`](/3d/python-net/aspose.threed/entity) → 
+[`SceneObject`](/3d/python-net/aspose.threed/sceneobject) → 
+[`A3DObject`](/3d/python-net/aspose.threed/a3dobject)
 
 
 
@@ -27,7 +27,7 @@ The TrimmedCurve type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [TrimmedCurve()](/3d/python-net/aspose.threed.entities/trimmedcurve/__init__/#) | Constructor of [TrimmedCurve](/3d/python-net/aspose.threed.entities/trimmedcurve) |
+| [TrimmedCurve()](/3d/python-net/aspose.threed.entities/trimmedcurve/__init__/#) | Constructor of [`TrimmedCurve`](/3d/python-net/aspose.threed.entities/trimmedcurve) |
 
 
 ### Properties
@@ -60,9 +60,9 @@ The TrimmedCurve type exposes the following members:
 
 
 ### See Also
-* module [aspose.threed.entities](..)
-* class [A3DObject](/3d/python-net/aspose.threed/a3dobject)
-* class [Curve](/3d/python-net/aspose.threed.entities/curve)
-* class [Entity](/3d/python-net/aspose.threed/entity)
-* class [SceneObject](/3d/python-net/aspose.threed/sceneobject)
-* class [TrimmedCurve](/3d/python-net/aspose.threed.entities/trimmedcurve)
+* module [`aspose.threed.entities`](..)
+* class [`A3DObject`](/3d/python-net/aspose.threed/a3dobject)
+* class [`Curve`](/3d/python-net/aspose.threed.entities/curve)
+* class [`Entity`](/3d/python-net/aspose.threed/entity)
+* class [`SceneObject`](/3d/python-net/aspose.threed/sceneobject)
+* class [`TrimmedCurve`](/3d/python-net/aspose.threed.entities/trimmedcurve)

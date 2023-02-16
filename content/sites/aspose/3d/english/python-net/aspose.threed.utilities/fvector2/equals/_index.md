@@ -27,10 +27,10 @@ def equals(self, rhs):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| rhs | [FVector2](/3d/python-net/aspose.threed.utilities/fvector2) |  |
+| rhs | [`FVector2`](/3d/python-net/aspose.threed.utilities/fvector2) |  |
 
 
 
 ### See Also
-* module [aspose.threed.utilities](../../)
-* class [FVector2](/3d/python-net/aspose.threed.utilities/fvector2)
+* module [`aspose.threed.utilities`](../../)
+* class [`FVector2`](/3d/python-net/aspose.threed.utilities/fvector2)

@@ -10,7 +10,7 @@ is_root: false
 
 ## AmfSaveOptions() {#}
 
-Constructor of [AmfSaveOptions](/3d/python-net/aspose.threed.formats/amfsaveoptions)
+Constructor of [`AmfSaveOptions`](/3d/python-net/aspose.threed.formats/amfsaveoptions)
 
 
 
@@ -24,5 +24,5 @@ def __init__(self):
 
 
 ### See Also
-* module [aspose.threed.formats](../../)
-* class [AmfSaveOptions](/3d/python-net/aspose.threed.formats/amfsaveoptions)
+* module [`aspose.threed.formats`](../../)
+* class [`AmfSaveOptions`](/3d/python-net/aspose.threed.formats/amfsaveoptions)

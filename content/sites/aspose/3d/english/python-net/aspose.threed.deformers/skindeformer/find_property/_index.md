@@ -34,5 +34,5 @@ def find_property(self, property_name):
 
 
 ### See Also
-* module [aspose.threed.deformers](../../)
-* class [SkinDeformer](/3d/python-net/aspose.threed.deformers/skindeformer)
+* module [`aspose.threed.deformers`](../../)
+* class [`SkinDeformer`](/3d/python-net/aspose.threed.deformers/skindeformer)

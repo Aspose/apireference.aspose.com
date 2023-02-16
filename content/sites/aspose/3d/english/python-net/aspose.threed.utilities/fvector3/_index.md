@@ -19,9 +19,9 @@ The FVector3 type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [FVector3(x, y, z)](/3d/python-net/aspose.threed.utilities/fvector3/__init__/#float-float-float) | Initializes a new instance of the [FVector3](/3d/python-net/aspose.threed.utilities/fvector3). |
-| [FVector3(vec)](/3d/python-net/aspose.threed.utilities/fvector3/__init__/#Vector3) | Initializes a new instance of the [FVector3](/3d/python-net/aspose.threed.utilities/fvector3). |
-| [FVector3(vec)](/3d/python-net/aspose.threed.utilities/fvector3/__init__/#Vector4) | Initializes a new instance of the [FVector4](/3d/python-net/aspose.threed.utilities/fvector4). |
+| [FVector3(x, y, z)](/3d/python-net/aspose.threed.utilities/fvector3/__init__/#float-float-float) | Initializes a new instance of the [`FVector3`](/3d/python-net/aspose.threed.utilities/fvector3). |
+| [FVector3(vec)](/3d/python-net/aspose.threed.utilities/fvector3/__init__/#Vector3) | Initializes a new instance of the [`FVector3`](/3d/python-net/aspose.threed.utilities/fvector3). |
+| [FVector3(vec)](/3d/python-net/aspose.threed.utilities/fvector3/__init__/#Vector4) | Initializes a new instance of the [`FVector4`](/3d/python-net/aspose.threed.utilities/fvector4). |
 | [FVector3()](/3d/python-net/aspose.threed.utilities/fvector3/__init__/#) | Constructs a new instance of FVector3 |
 
 
@@ -44,6 +44,6 @@ The FVector3 type exposes the following members:
 
 
 ### See Also
-* module [aspose.threed.utilities](..)
-* class [FVector3](/3d/python-net/aspose.threed.utilities/fvector3)
-* class [FVector4](/3d/python-net/aspose.threed.utilities/fvector4)
+* module [`aspose.threed.utilities`](..)
+* class [`FVector3`](/3d/python-net/aspose.threed.utilities/fvector3)
+* class [`FVector4`](/3d/python-net/aspose.threed.utilities/fvector4)

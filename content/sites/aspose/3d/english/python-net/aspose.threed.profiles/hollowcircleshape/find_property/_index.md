@@ -34,5 +34,5 @@ def find_property(self, property_name):
 
 
 ### See Also
-* module [aspose.threed.profiles](../../)
-* class [HollowCircleShape](/3d/python-net/aspose.threed.profiles/hollowcircleshape)
+* module [`aspose.threed.profiles`](../../)
+* class [`HollowCircleShape`](/3d/python-net/aspose.threed.profiles/hollowcircleshape)

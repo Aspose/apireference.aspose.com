@@ -23,5 +23,5 @@ def cylinder_radial_segments(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.formats](../../)
-* class [RvmLoadOptions](/3d/python-net/aspose.threed.formats/rvmloadoptions)
+* module [`aspose.threed.formats`](../../)
+* class [`RvmLoadOptions`](/3d/python-net/aspose.threed.formats/rvmloadoptions)

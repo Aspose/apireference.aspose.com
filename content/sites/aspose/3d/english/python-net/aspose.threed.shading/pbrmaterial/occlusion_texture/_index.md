@@ -23,6 +23,6 @@ def occlusion_texture(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.shading](../../)
-* class [PbrMaterial](/3d/python-net/aspose.threed.shading/pbrmaterial)
-* class [TextureBase](/3d/python-net/aspose.threed.shading/texturebase)
+* module [`aspose.threed.shading`](../../)
+* class [`PbrMaterial`](/3d/python-net/aspose.threed.shading/pbrmaterial)
+* class [`TextureBase`](/3d/python-net/aspose.threed.shading/texturebase)

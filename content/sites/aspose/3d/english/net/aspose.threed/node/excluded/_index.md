@@ -14,6 +14,17 @@ Gets or sets whether to exclude this node and all child nodes/entities during ex
 public bool Excluded { get; set; }
 ```
 
+### Examples
+
+The following code shows how to exclude specified node from exporting
+
+```csharp
+Scene scene = new Scene();
+scene.RootNode.CreateChildNode("excluded", new Box()).Excluded = true;
+scene.RootNode.CreateChildNode("not excluded", new Box());
+scene.Save("output.usdz");
+```
+
 ### See Also
 
 * class [Node](../../node)

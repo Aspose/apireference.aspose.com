@@ -20,6 +20,13 @@ public Transform SetScale(double sx, double sy, double sz)
 | sy | Double |  |
 | sz | Double |  |
 
+### Examples
+
+```csharp
+Node node = new Node();
+node.Transform.SetScale(2, 2, 2);
+```
+
 ### See Also
 
 * class [Transform](../../transform)

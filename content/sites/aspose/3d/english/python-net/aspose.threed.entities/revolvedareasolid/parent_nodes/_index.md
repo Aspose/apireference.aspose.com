@@ -20,5 +20,5 @@ def parent_nodes(self):
 ```
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [RevolvedAreaSolid](/3d/python-net/aspose.threed.entities/revolvedareasolid)
+* module [`aspose.threed.entities`](../../)
+* class [`RevolvedAreaSolid`](/3d/python-net/aspose.threed.entities/revolvedareasolid)

@@ -20,5 +20,5 @@ def name(self):
 ```
 
 ### See Also
-* module [aspose.threed.animation](../../)
-* class [AnimationChannel](/3d/python-net/aspose.threed.animation/animationchannel)
+* module [`aspose.threed.animation`](../../)
+* class [`AnimationChannel`](/3d/python-net/aspose.threed.animation/animationchannel)

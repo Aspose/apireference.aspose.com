@@ -14,5 +14,5 @@ is_root: false
 Binary FBX file format, with 7.5.0 version
 
 ### See Also
-* module [aspose.threed.formats](../../)
-* class [PdfFormat](/3d/python-net/aspose.threed.formats/pdfformat)
+* module [`aspose.threed.formats`](../../)
+* class [`PdfFormat`](/3d/python-net/aspose.threed.formats/pdfformat)

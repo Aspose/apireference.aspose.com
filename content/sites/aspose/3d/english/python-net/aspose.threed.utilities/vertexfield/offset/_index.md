@@ -20,5 +20,5 @@ def offset(self):
 ```
 
 ### See Also
-* module [aspose.threed.utilities](../../)
-* class [VertexField](/3d/python-net/aspose.threed.utilities/vertexfield)
+* module [`aspose.threed.utilities`](../../)
+* class [`VertexField`](/3d/python-net/aspose.threed.utilities/vertexfield)

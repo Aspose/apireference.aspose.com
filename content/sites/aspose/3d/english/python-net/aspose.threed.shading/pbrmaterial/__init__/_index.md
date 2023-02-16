@@ -41,5 +41,5 @@ def __init__(self, albedo):
 
 
 ### See Also
-* module [aspose.threed.shading](../../)
-* class [PbrMaterial](/3d/python-net/aspose.threed.shading/pbrmaterial)
+* module [`aspose.threed.shading`](../../)
+* class [`PbrMaterial`](/3d/python-net/aspose.threed.shading/pbrmaterial)

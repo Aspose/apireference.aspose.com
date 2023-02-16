@@ -23,6 +23,6 @@ def polygon_mode(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.render](../../)
-* class [PolygonMode](/3d/python-net/aspose.threed.render/polygonmode)
-* class [RenderState](/3d/python-net/aspose.threed.render/renderstate)
+* module [`aspose.threed.render`](../../)
+* class [`PolygonMode`](/3d/python-net/aspose.threed.render/polygonmode)
+* class [`RenderState`](/3d/python-net/aspose.threed.render/renderstate)

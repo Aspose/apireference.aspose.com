@@ -23,7 +23,7 @@ def rotate_degree(self, angle, axis):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | angle | float | The angle to rotate in degree |
-| axis | [Vector3](/3d/python-net/aspose.threed.utilities/vector3) | The axis to rotate |
+| axis | [`Vector3`](/3d/python-net/aspose.threed.utilities/vector3) | The axis to rotate |
 
 ### Example 
 
@@ -52,11 +52,11 @@ def rotate_degree(self, rot, order):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| rot | [Vector3](/3d/python-net/aspose.threed.utilities/vector3) | Rotation in degrees |
-| order | [RotationOrder](/3d/python-net/aspose.threed.utilities/rotationorder) |  |
+| rot | [`Vector3`](/3d/python-net/aspose.threed.utilities/vector3) | Rotation in degrees |
+| order | [`RotationOrder`](/3d/python-net/aspose.threed.utilities/rotationorder) |  |
 
 
 
 ### See Also
-* module [aspose.threed.utilities](../../)
-* class [TransformBuilder](/3d/python-net/aspose.threed.utilities/transformbuilder)
+* module [`aspose.threed.utilities`](../../)
+* class [`TransformBuilder`](/3d/python-net/aspose.threed.utilities/transformbuilder)

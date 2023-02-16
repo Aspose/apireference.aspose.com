@@ -20,5 +20,5 @@ def parent_nodes(self):
 ```
 
 ### See Also
-* module [aspose.threed.profiles](../../)
-* class [ParameterizedProfile](/3d/python-net/aspose.threed.profiles/parameterizedprofile)
+* module [`aspose.threed.profiles`](../../)
+* class [`ParameterizedProfile`](/3d/python-net/aspose.threed.profiles/parameterizedprofile)

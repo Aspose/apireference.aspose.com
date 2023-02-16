@@ -46,10 +46,10 @@ def create_texture_unit(self, texture_type):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| texture_type | [TextureType](/3d/python-net/aspose.threed.render/texturetype) | Type of the texture |
+| texture_type | [`TextureType`](/3d/python-net/aspose.threed.render/texturetype) | Type of the texture |
 
 
 
 ### See Also
-* module [aspose.threed.render](../../)
-* class [RenderFactory](/3d/python-net/aspose.threed.render/renderfactory)
+* module [`aspose.threed.render`](../../)
+* class [`RenderFactory`](/3d/python-net/aspose.threed.render/renderfactory)

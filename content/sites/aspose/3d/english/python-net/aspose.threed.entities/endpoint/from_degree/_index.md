@@ -32,5 +32,5 @@ def from_degree(self, degree):
 
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [EndPoint](/3d/python-net/aspose.threed.entities/endpoint)
+* module [`aspose.threed.entities`](../../)
+* class [`EndPoint`](/3d/python-net/aspose.threed.entities/endpoint)

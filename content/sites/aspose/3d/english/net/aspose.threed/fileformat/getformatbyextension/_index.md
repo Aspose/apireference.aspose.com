@@ -18,6 +18,24 @@ public static FileFormat GetFormatByExtension(string extensionName)
 | --- | --- | --- |
 | extensionName | String |  |
 
+### Return Value
+
+Instance of [`FileFormat`](../../fileformat), otherwise null returned.
+
+### Examples
+
+The following code shows how to save scene to memory using specified format
+
+```csharp
+Scene scene = new Scene(new Box());
+var outputFormat = ".glb";
+var format = FileFormat.GetFormatByExtension(outputFormat);
+using(var ms = new MemoryStream())
+{
+    scene.Save(ms, format);
+}
+```
+
 ### See Also
 
 * class [FileFormat](../../fileformat)

@@ -32,5 +32,5 @@ def get_channel(self, channel_name):
 
 
 ### See Also
-* module [aspose.threed.animation](../../)
-* class [BindPoint](/3d/python-net/aspose.threed.animation/bindpoint)
+* module [`aspose.threed.animation`](../../)
+* class [`BindPoint`](/3d/python-net/aspose.threed.animation/bindpoint)

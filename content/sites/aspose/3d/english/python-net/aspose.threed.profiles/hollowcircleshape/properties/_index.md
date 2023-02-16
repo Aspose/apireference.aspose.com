@@ -20,6 +20,6 @@ def properties(self):
 ```
 
 ### See Also
-* module [aspose.threed.profiles](../../)
-* class [HollowCircleShape](/3d/python-net/aspose.threed.profiles/hollowcircleshape)
-* class [PropertyCollection](/3d/python-net/aspose.threed/propertycollection)
+* module [`aspose.threed.profiles`](../../)
+* class [`HollowCircleShape`](/3d/python-net/aspose.threed.profiles/hollowcircleshape)
+* class [`PropertyCollection`](/3d/python-net/aspose.threed/propertycollection)

@@ -14,9 +14,9 @@ Save options for glTF format.
 
 
 
-**Inheritance:** [GltfSaveOptions](/3d/python-net/aspose.threed.formats/gltfsaveoptions) → 
-[SaveOptions](/3d/python-net/aspose.threed.formats/saveoptions) → 
-[IOConfig](/3d/python-net/aspose.threed.formats/ioconfig)
+**Inheritance:** [`GltfSaveOptions`](/3d/python-net/aspose.threed.formats/gltfsaveoptions) → 
+[`SaveOptions`](/3d/python-net/aspose.threed.formats/saveoptions) → 
+[`IOConfig`](/3d/python-net/aspose.threed.formats/ioconfig)
 
 
 
@@ -25,8 +25,8 @@ The GltfSaveOptions type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [GltfSaveOptions(content_type)](/3d/python-net/aspose.threed.formats/gltfsaveoptions/__init__/#FileContentType) | Constructor of [GltfSaveOptions](/3d/python-net/aspose.threed.formats/gltfsaveoptions) |
-| [GltfSaveOptions(format)](/3d/python-net/aspose.threed.formats/gltfsaveoptions/__init__/#FileFormat) | Constructor of [GltfSaveOptions](/3d/python-net/aspose.threed.formats/gltfsaveoptions) |
+| [GltfSaveOptions(content_type)](/3d/python-net/aspose.threed.formats/gltfsaveoptions/__init__/#FileContentType) | Constructor of [`GltfSaveOptions`](/3d/python-net/aspose.threed.formats/gltfsaveoptions) |
+| [GltfSaveOptions(format)](/3d/python-net/aspose.threed.formats/gltfsaveoptions/__init__/#FileFormat) | Constructor of [`GltfSaveOptions`](/3d/python-net/aspose.threed.formats/gltfsaveoptions) |
 
 
 ### Properties
@@ -40,8 +40,8 @@ The GltfSaveOptions type exposes the following members:
 | [pretty_print](/3d/python-net/aspose.threed.formats/gltfsaveoptions/pretty_print) | The JSON content of GLTF file is indented for human reading, default value is false |
 | [fallback_normal](/3d/python-net/aspose.threed.formats/gltfsaveoptions/fallback_normal) | When GLTF2 exporter detected an invalid normal, this will be used instead of its original value to bypass the validation.<br/>Default value is (0, 1, 0) |
 | [embed_assets](/3d/python-net/aspose.threed.formats/gltfsaveoptions/embed_assets) | Embed all external assets as base64 into single file in ASCII mode, default value is false. |
-| [image_format](/3d/python-net/aspose.threed.formats/gltfsaveoptions/image_format) | Standard glTF only supports PNG/JPG as its texture format, this option will guide how Aspose.3D<br/>convert the non-standard images to supported format during the exporting.<br/>Default value is [GltfEmbeddedImageFormat.PNG](/3d/python-net/aspose.threed.formats/gltfembeddedimageformat#PNG) |
-| [use_common_materials](/3d/python-net/aspose.threed.formats/gltfsaveoptions/use_common_materials) | Serialize materials using KHR common material extensions, default value is false.<br/>Set this to false will cause Aspose.3D export a set of vertex/fragment shader if [GltfSaveOptions.ExportShaders](/3d/python-net/aspose.threed.formats/gltfsaveoptions) |
+| [image_format](/3d/python-net/aspose.threed.formats/gltfsaveoptions/image_format) | Standard glTF only supports PNG/JPG as its texture format, this option will guide how Aspose.3D<br/>convert the non-standard images to supported format during the exporting.<br/>Default value is [`GltfEmbeddedImageFormat.PNG`](/3d/python-net/aspose.threed.formats/gltfembeddedimageformat#PNG) |
+| [use_common_materials](/3d/python-net/aspose.threed.formats/gltfsaveoptions/use_common_materials) | Serialize materials using KHR common material extensions, default value is false.<br/>Set this to false will cause Aspose.3D export a set of vertex/fragment shader if [`GltfSaveOptions.ExportShaders`](/3d/python-net/aspose.threed.formats/gltfsaveoptions) |
 | [external_draco_encoder](/3d/python-net/aspose.threed.formats/gltfsaveoptions/external_draco_encoder) | Use external draco encoder to accelerate the draco compression speed. |
 | [flip_tex_coord_v](/3d/python-net/aspose.threed.formats/gltfsaveoptions/flip_tex_coord_v) | Flip texture coordinate  v(t) component, default value is true. |
 | [buffer_file](/3d/python-net/aspose.threed.formats/gltfsaveoptions/buffer_file) | The file name of the external buffer file used to store binary data.<br/>If this file is not specified, Aspose.3D will generate a name for you.<br/>This is ignored when export glTF in binary mode. |
@@ -51,7 +51,7 @@ The GltfSaveOptions type exposes the following members:
 
 
 ### See Also
-* module [aspose.threed.formats](..)
-* class [GltfSaveOptions](/3d/python-net/aspose.threed.formats/gltfsaveoptions)
-* class [IOConfig](/3d/python-net/aspose.threed.formats/ioconfig)
-* class [SaveOptions](/3d/python-net/aspose.threed.formats/saveoptions)
+* module [`aspose.threed.formats`](..)
+* class [`GltfSaveOptions`](/3d/python-net/aspose.threed.formats/gltfsaveoptions)
+* class [`IOConfig`](/3d/python-net/aspose.threed.formats/ioconfig)
+* class [`SaveOptions`](/3d/python-net/aspose.threed.formats/saveoptions)

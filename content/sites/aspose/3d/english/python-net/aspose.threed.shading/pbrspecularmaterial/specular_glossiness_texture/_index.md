@@ -23,6 +23,6 @@ def specular_glossiness_texture(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.shading](../../)
-* class [PbrSpecularMaterial](/3d/python-net/aspose.threed.shading/pbrspecularmaterial)
-* class [TextureBase](/3d/python-net/aspose.threed.shading/texturebase)
+* module [`aspose.threed.shading`](../../)
+* class [`PbrSpecularMaterial`](/3d/python-net/aspose.threed.shading/pbrspecularmaterial)
+* class [`TextureBase`](/3d/python-net/aspose.threed.shading/texturebase)

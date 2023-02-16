@@ -14,8 +14,8 @@ Google Draco format
 
 
 
-**Inheritance:** [DracoFormat](/3d/python-net/aspose.threed.formats/dracoformat) → 
-[FileFormat](/3d/python-net/aspose.threed/fileformat)
+**Inheritance:** [`DracoFormat`](/3d/python-net/aspose.threed.formats/dracoformat) → 
+[`FileFormat`](/3d/python-net/aspose.threed/fileformat)
 
 
 
@@ -97,6 +97,6 @@ The DracoFormat type exposes the following members:
 
 
 ### See Also
-* module [aspose.threed.formats](..)
-* class [DracoFormat](/3d/python-net/aspose.threed.formats/dracoformat)
-* class [FileFormat](/3d/python-net/aspose.threed/fileformat)
+* module [`aspose.threed.formats`](..)
+* class [`DracoFormat`](/3d/python-net/aspose.threed.formats/dracoformat)
+* class [`FileFormat`](/3d/python-net/aspose.threed/fileformat)

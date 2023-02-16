@@ -29,5 +29,5 @@ def set_metered_key(self, public_key, private_key):
 
 
 ### See Also
-* module [aspose.threed](../../)
-* class [Metered](/3d/python-net/aspose.threed/metered)
+* module [`aspose.threed`](../../)
+* class [`Metered`](/3d/python-net/aspose.threed/metered)

@@ -24,6 +24,19 @@ public class GlobalTransform
 | [TransformMatrix](../../aspose.threed/globaltransform/transformmatrix) { get; } | Gets the transform matrix. |
 | [Translation](../../aspose.threed/globaltransform/translation) { get; } | Gets the translation |
 
+### Examples
+
+The following code shows how to read node's global transform
+
+```csharp
+Scene scene = new Scene();
+var boxNode = scene.RootNode.CreateChildNode(new Box());
+//place the box at (10, 0, 0)
+boxNode.Transform.Translation = new Vector3(10, 0, 0);
+var global = boxNode.GlobalTransform;
+Console.WriteLine($"The box's position in world coordinate is {global.Translation}");
+```
+
 ### See Also
 
 * namespace [Aspose.ThreeD](../../aspose.threed)

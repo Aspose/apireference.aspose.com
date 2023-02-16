@@ -20,5 +20,5 @@ def capacity(self):
 ```
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [TriMesh](/3d/python-net/aspose.threed.entities/trimesh)
+* module [`aspose.threed.entities`](../../)
+* class [`TriMesh`](/3d/python-net/aspose.threed.entities/trimesh)

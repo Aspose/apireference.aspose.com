@@ -20,6 +20,6 @@ def scene(self):
 ```
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [Scene](/3d/python-net/aspose.threed/scene)
-* class [TransformedCurve](/3d/python-net/aspose.threed.entities/transformedcurve)
+* module [`aspose.threed.entities`](../../)
+* class [`Scene`](/3d/python-net/aspose.threed/scene)
+* class [`TransformedCurve`](/3d/python-net/aspose.threed.entities/transformedcurve)

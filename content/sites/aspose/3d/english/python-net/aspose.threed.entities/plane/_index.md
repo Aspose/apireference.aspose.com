@@ -14,11 +14,11 @@ Parameterized plane.
 
 
 
-**Inheritance:** [Plane](/3d/python-net/aspose.threed.entities/plane) → 
-[Primitive](/3d/python-net/aspose.threed.entities/primitive) → 
-[Entity](/3d/python-net/aspose.threed/entity) → 
-[SceneObject](/3d/python-net/aspose.threed/sceneobject) → 
-[A3DObject](/3d/python-net/aspose.threed/a3dobject)
+**Inheritance:** [`Plane`](/3d/python-net/aspose.threed.entities/plane) → 
+[`Primitive`](/3d/python-net/aspose.threed.entities/primitive) → 
+[`Entity`](/3d/python-net/aspose.threed/entity) → 
+[`SceneObject`](/3d/python-net/aspose.threed/sceneobject) → 
+[`A3DObject`](/3d/python-net/aspose.threed/a3dobject)
 
 
 
@@ -27,9 +27,9 @@ The Plane type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [Plane()](/3d/python-net/aspose.threed.entities/plane/__init__/#) | Initializes a new instance of the [Plane](/3d/python-net/aspose.threed.entities/plane) with default size 1x1. |
-| [Plane(length, width)](/3d/python-net/aspose.threed.entities/plane/__init__/#float-float) | Initializes a new instance of the [Plane](/3d/python-net/aspose.threed.entities/plane). |
-| [Plane(name, length, width, length_segments, width_segments)](/3d/python-net/aspose.threed.entities/plane/__init__/#str-float-float-int-int) | Initializes a new instance of the [Plane](/3d/python-net/aspose.threed.entities/plane). |
+| [Plane()](/3d/python-net/aspose.threed.entities/plane/__init__/#) | Initializes a new instance of the [`Plane`](/3d/python-net/aspose.threed.entities/plane) with default size 1x1. |
+| [Plane(length, width)](/3d/python-net/aspose.threed.entities/plane/__init__/#float-float) | Initializes a new instance of the [`Plane`](/3d/python-net/aspose.threed.entities/plane). |
+| [Plane(name, length, width, length_segments, width_segments)](/3d/python-net/aspose.threed.entities/plane/__init__/#str-float-float-int-int) | Initializes a new instance of the [`Plane`](/3d/python-net/aspose.threed.entities/plane). |
 
 
 ### Properties
@@ -65,9 +65,9 @@ The Plane type exposes the following members:
 
 
 ### See Also
-* module [aspose.threed.entities](..)
-* class [A3DObject](/3d/python-net/aspose.threed/a3dobject)
-* class [Entity](/3d/python-net/aspose.threed/entity)
-* class [Plane](/3d/python-net/aspose.threed.entities/plane)
-* class [Primitive](/3d/python-net/aspose.threed.entities/primitive)
-* class [SceneObject](/3d/python-net/aspose.threed/sceneobject)
+* module [`aspose.threed.entities`](..)
+* class [`A3DObject`](/3d/python-net/aspose.threed/a3dobject)
+* class [`Entity`](/3d/python-net/aspose.threed/entity)
+* class [`Plane`](/3d/python-net/aspose.threed.entities/plane)
+* class [`Primitive`](/3d/python-net/aspose.threed.entities/primitive)
+* class [`SceneObject`](/3d/python-net/aspose.threed/sceneobject)

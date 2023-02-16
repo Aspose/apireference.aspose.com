@@ -10,7 +10,7 @@ is_root: false
 
 ## ZShape() {#}
 
-Constructor of [ZShape](/3d/python-net/aspose.threed.profiles/zshape)
+Constructor of [`ZShape`](/3d/python-net/aspose.threed.profiles/zshape)
 
 
 
@@ -24,5 +24,5 @@ def __init__(self):
 
 
 ### See Also
-* module [aspose.threed.profiles](../../)
-* class [ZShape](/3d/python-net/aspose.threed.profiles/zshape)
+* module [`aspose.threed.profiles`](../../)
+* class [`ZShape`](/3d/python-net/aspose.threed.profiles/zshape)

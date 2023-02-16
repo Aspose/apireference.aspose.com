@@ -15,12 +15,12 @@ The center position of the profile is in the center of the bounding box.
 
 
 
-**Inheritance:** [CShape](/3d/python-net/aspose.threed.profiles/cshape) → 
-[ParameterizedProfile](/3d/python-net/aspose.threed.profiles/parameterizedprofile) → 
-[Profile](/3d/python-net/aspose.threed.profiles/profile) → 
-[Entity](/3d/python-net/aspose.threed/entity) → 
-[SceneObject](/3d/python-net/aspose.threed/sceneobject) → 
-[A3DObject](/3d/python-net/aspose.threed/a3dobject)
+**Inheritance:** [`CShape`](/3d/python-net/aspose.threed.profiles/cshape) → 
+[`ParameterizedProfile`](/3d/python-net/aspose.threed.profiles/parameterizedprofile) → 
+[`Profile`](/3d/python-net/aspose.threed.profiles/profile) → 
+[`Entity`](/3d/python-net/aspose.threed/entity) → 
+[`SceneObject`](/3d/python-net/aspose.threed/sceneobject) → 
+[`A3DObject`](/3d/python-net/aspose.threed/a3dobject)
 
 
 
@@ -29,7 +29,7 @@ The CShape type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [CShape()](/3d/python-net/aspose.threed.profiles/cshape/__init__/#) | Constructor of [CShape](/3d/python-net/aspose.threed.profiles/cshape) |
+| [CShape()](/3d/python-net/aspose.threed.profiles/cshape/__init__/#) | Constructor of [`CShape`](/3d/python-net/aspose.threed.profiles/cshape) |
 
 
 ### Properties
@@ -63,10 +63,10 @@ The CShape type exposes the following members:
 
 
 ### See Also
-* module [aspose.threed.profiles](..)
-* class [A3DObject](/3d/python-net/aspose.threed/a3dobject)
-* class [CShape](/3d/python-net/aspose.threed.profiles/cshape)
-* class [Entity](/3d/python-net/aspose.threed/entity)
-* class [ParameterizedProfile](/3d/python-net/aspose.threed.profiles/parameterizedprofile)
-* class [Profile](/3d/python-net/aspose.threed.profiles/profile)
-* class [SceneObject](/3d/python-net/aspose.threed/sceneobject)
+* module [`aspose.threed.profiles`](..)
+* class [`A3DObject`](/3d/python-net/aspose.threed/a3dobject)
+* class [`CShape`](/3d/python-net/aspose.threed.profiles/cshape)
+* class [`Entity`](/3d/python-net/aspose.threed/entity)
+* class [`ParameterizedProfile`](/3d/python-net/aspose.threed.profiles/parameterizedprofile)
+* class [`Profile`](/3d/python-net/aspose.threed.profiles/profile)
+* class [`SceneObject`](/3d/python-net/aspose.threed/sceneobject)

@@ -42,5 +42,5 @@ node.transform.set_geometric_scaling(2, 2, 2)
 
 
 ### See Also
-* module [aspose.threed](../../)
-* class [Transform](/3d/python-net/aspose.threed/transform)
+* module [`aspose.threed`](../../)
+* class [`Transform`](/3d/python-net/aspose.threed/transform)

@@ -23,5 +23,5 @@ def stencil_bits(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.render](../../)
-* class [RenderParameters](/3d/python-net/aspose.threed.render/renderparameters)
+* module [`aspose.threed.render`](../../)
+* class [`RenderParameters`](/3d/python-net/aspose.threed.render/renderparameters)

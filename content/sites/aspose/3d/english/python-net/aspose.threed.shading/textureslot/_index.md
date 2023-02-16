@@ -10,7 +10,7 @@ is_root: false
 
 ## TextureSlot class
 
-Texture slot in [Material](/3d/python-net/aspose.threed.shading/material), can be enumerated through material instance.
+Texture slot in [`Material`](/3d/python-net/aspose.threed.shading/material), can be enumerated through material instance.
 
 
 
@@ -40,5 +40,5 @@ for slot in mat:
 ```
 
 ### See Also
-* module [aspose.threed.shading](..)
-* class [Material](/3d/python-net/aspose.threed.shading/material)
+* module [`aspose.threed.shading`](..)
+* class [`Material`](/3d/python-net/aspose.threed.shading/material)

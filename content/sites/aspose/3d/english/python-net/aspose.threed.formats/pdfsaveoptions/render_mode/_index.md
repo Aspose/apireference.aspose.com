@@ -23,6 +23,6 @@ def render_mode(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.formats](../../)
-* class [PdfRenderMode](/3d/python-net/aspose.threed.formats/pdfrendermode)
-* class [PdfSaveOptions](/3d/python-net/aspose.threed.formats/pdfsaveoptions)
+* module [`aspose.threed.formats`](../../)
+* class [`PdfRenderMode`](/3d/python-net/aspose.threed.formats/pdfrendermode)
+* class [`PdfSaveOptions`](/3d/python-net/aspose.threed.formats/pdfsaveoptions)

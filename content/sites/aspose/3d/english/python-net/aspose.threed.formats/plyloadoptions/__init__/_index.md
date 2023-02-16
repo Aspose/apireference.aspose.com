@@ -10,7 +10,7 @@ is_root: false
 
 ## PlyLoadOptions() {#}
 
-Constructor of [PlyLoadOptions](/3d/python-net/aspose.threed.formats/plyloadoptions)
+Constructor of [`PlyLoadOptions`](/3d/python-net/aspose.threed.formats/plyloadoptions)
 
 
 
@@ -24,5 +24,5 @@ def __init__(self):
 
 
 ### See Also
-* module [aspose.threed.formats](../../)
-* class [PlyLoadOptions](/3d/python-net/aspose.threed.formats/plyloadoptions)
+* module [`aspose.threed.formats`](../../)
+* class [`PlyLoadOptions`](/3d/python-net/aspose.threed.formats/plyloadoptions)

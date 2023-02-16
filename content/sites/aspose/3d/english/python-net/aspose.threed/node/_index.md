@@ -19,9 +19,9 @@ The entity is an object in itself and is connected to the the Node. This also me
 
 
 
-**Inheritance:** [Node](/3d/python-net/aspose.threed/node) → 
-[SceneObject](/3d/python-net/aspose.threed/sceneobject) → 
-[A3DObject](/3d/python-net/aspose.threed/a3dobject)
+**Inheritance:** [`Node`](/3d/python-net/aspose.threed/node) → 
+[`SceneObject`](/3d/python-net/aspose.threed/sceneobject) → 
+[`A3DObject`](/3d/python-net/aspose.threed/a3dobject)
 
 
 
@@ -30,9 +30,9 @@ The Node type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [Node()](/3d/python-net/aspose.threed/node/__init__/#) | Initializes a new instance of the [Node](/3d/python-net/aspose.threed/node) class. |
-| [Node(name, entity)](/3d/python-net/aspose.threed/node/__init__/#str-Entity) | Initializes a new instance of the [Node](/3d/python-net/aspose.threed/node) class. |
-| [Node(name)](/3d/python-net/aspose.threed/node/__init__/#str) | Initializes a new instance of the [Node](/3d/python-net/aspose.threed/node) class. |
+| [Node()](/3d/python-net/aspose.threed/node/__init__/#) | Initializes a new instance of the [`Node`](/3d/python-net/aspose.threed/node) class. |
+| [Node(name, entity)](/3d/python-net/aspose.threed/node/__init__/#str-Entity) | Initializes a new instance of the [`Node`](/3d/python-net/aspose.threed/node) class. |
+| [Node(name)](/3d/python-net/aspose.threed/node/__init__/#str) | Initializes a new instance of the [`Node`](/3d/python-net/aspose.threed/node) class. |
 
 
 ### Properties
@@ -81,7 +81,7 @@ The Node type exposes the following members:
 
 
 ### See Also
-* module [aspose.threed](..)
-* class [A3DObject](/3d/python-net/aspose.threed/a3dobject)
-* class [Node](/3d/python-net/aspose.threed/node)
-* class [SceneObject](/3d/python-net/aspose.threed/sceneobject)
+* module [`aspose.threed`](..)
+* class [`A3DObject`](/3d/python-net/aspose.threed/a3dobject)
+* class [`Node`](/3d/python-net/aspose.threed/node)
+* class [`SceneObject`](/3d/python-net/aspose.threed/sceneobject)

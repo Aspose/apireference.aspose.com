@@ -10,7 +10,7 @@ is_root: false
 
 ## Box() {#}
 
-Initializes a new instance of the [Box](/3d/python-net/aspose.threed.entities/box) class.
+Initializes a new instance of the [`Box`](/3d/python-net/aspose.threed.entities/box) class.
 
 
 
@@ -24,7 +24,7 @@ def __init__(self):
 
 ## Box(length, width, height) {#float-float-float}
 
-Initializes a new instance of the [Box](/3d/python-net/aspose.threed.entities/box) class.
+Initializes a new instance of the [`Box`](/3d/python-net/aspose.threed.entities/box) class.
 
 
 
@@ -43,7 +43,7 @@ def __init__(self, length, width, height):
 
 ## Box(name, length, width, height, length_segments, width_segments, height_segments) {#str-float-float-float-int-int-int}
 
-Initializes a new instance of the [Box](/3d/python-net/aspose.threed.entities/box) class.
+Initializes a new instance of the [`Box`](/3d/python-net/aspose.threed.entities/box) class.
 
 
 
@@ -66,5 +66,5 @@ def __init__(self, name, length, width, height, length_segments, width_segments,
 
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [Box](/3d/python-net/aspose.threed.entities/box)
+* module [`aspose.threed.entities`](../../)
+* class [`Box`](/3d/python-net/aspose.threed.entities/box)

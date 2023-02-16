@@ -14,5 +14,5 @@ is_root: false
 Siemens JT File Version 8
 
 ### See Also
-* module [aspose.threed.formats](../../)
-* class [PdfFormat](/3d/python-net/aspose.threed.formats/pdfformat)
+* module [`aspose.threed.formats`](../../)
+* class [`PdfFormat`](/3d/python-net/aspose.threed.formats/pdfformat)

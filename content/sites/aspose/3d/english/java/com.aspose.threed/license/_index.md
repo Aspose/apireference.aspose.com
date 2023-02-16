@@ -14,6 +14,8 @@ public class License
 ```
 
 Provides methods to license the component.
+
+To learn more, visit the **Licensing and Subscription** documentation article.
 ## Constructors
 
 | Constructor | Description |
@@ -25,14 +27,11 @@ Provides methods to license the component.
 | --- | --- |
 | [equals(Object arg0)](#equals-java.lang.Object-) |  |
 | [getClass()](#getClass--) |  |
-| [getSubscriptionExpireDate()](#getSubscriptionExpireDate--) | Gets the last date of the subscription. |
 | [hashCode()](#hashCode--) |  |
-| [isLicenseSet()](#isLicenseSet--) | Checks whether valid license has been set. |
 | [notify()](#notify--) |  |
 | [notifyAll()](#notifyAll--) |  |
 | [setLicense(InputStream stream)](#setLicense-java.io.InputStream-) | Licenses the component. |
-| [setLicense(Reader reader)](#setLicense-java.io.Reader-) | Licenses the component. |
-| [setLicense(String licenseFileName)](#setLicense-java.lang.String-) |  |
+| [setLicense(String licenseName)](#setLicense-java.lang.String-) | Licenses the component. |
 | [toString()](#toString--) |  |
 | [wait()](#wait--) |  |
 | [wait(long arg0)](#wait-long-) |  |
@@ -70,16 +69,6 @@ public final native Class<?> getClass()
 
 **Returns:**
 java.lang.Class<?>
-### getSubscriptionExpireDate() {#getSubscriptionExpireDate--}
-```
-public static Date getSubscriptionExpireDate()
-```
-
-
-Gets the last date of the subscription.
-
-**Returns:**
-java.util.Date - the last date of the subscription.
 ### hashCode() {#hashCode--}
 ```
 public native int hashCode()
@@ -90,16 +79,6 @@ public native int hashCode()
 
 **Returns:**
 int
-### isLicenseSet() {#isLicenseSet--}
-```
-public static boolean isLicenseSet()
-```
-
-
-Checks whether valid license has been set.
-
-**Returns:**
-boolean - true if valid license has been set.
 ### notify() {#notify--}
 ```
 public final native void notify()
@@ -124,36 +103,33 @@ public void setLicense(InputStream stream)
 
 Licenses the component.
 
+Use this method to load a license from a stream.
+
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| stream | java.io.InputStream | A stream that contains the license. Use null to switch to evaluation mode. |
+| stream | java.io.InputStream | A stream that contains the license. |
 
-### setLicense(Reader reader) {#setLicense-java.io.Reader-}
+### setLicense(String licenseName) {#setLicense-java.lang.String-}
 ```
-public void setLicense(Reader reader)
+public void setLicense(String licenseName)
 ```
 
 
 Licenses the component.
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| reader | java.io.Reader | A reader that contains the license. Use null to switch to evaluation mode. |
+Tries to find the license in the following locations:
 
-### setLicense(String licenseFileName) {#setLicense-java.lang.String-}
-```
-public void setLicense(String licenseFileName)
-```
+1. Explicit path.
 
+2. The folder that contains the Aspose component JAR file.
 
-
+3. The folder that contains the client's calling JAR file.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| licenseFileName | java.lang.String |  |
+| licenseName | java.lang.String | Can be a full or short file name. Use an empty string to switch to evaluation mode. |
 
 ### toString() {#toString--}
 ```

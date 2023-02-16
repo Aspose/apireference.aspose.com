@@ -37,6 +37,6 @@ def transform(self):
 ```
 
 ### See Also
-* module [aspose.threed](../../)
-* class [Node](/3d/python-net/aspose.threed/node)
-* class [Transform](/3d/python-net/aspose.threed/transform)
+* module [`aspose.threed`](../../)
+* class [`Node`](/3d/python-net/aspose.threed/node)
+* class [`Transform`](/3d/python-net/aspose.threed/transform)

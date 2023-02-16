@@ -14,13 +14,13 @@ IFC compatible hollow circle profile.
 
 
 
-**Inheritance:** [HollowCircleShape](/3d/python-net/aspose.threed.profiles/hollowcircleshape) → 
-[CircleShape](/3d/python-net/aspose.threed.profiles/circleshape) → 
-[ParameterizedProfile](/3d/python-net/aspose.threed.profiles/parameterizedprofile) → 
-[Profile](/3d/python-net/aspose.threed.profiles/profile) → 
-[Entity](/3d/python-net/aspose.threed/entity) → 
-[SceneObject](/3d/python-net/aspose.threed/sceneobject) → 
-[A3DObject](/3d/python-net/aspose.threed/a3dobject)
+**Inheritance:** [`HollowCircleShape`](/3d/python-net/aspose.threed.profiles/hollowcircleshape) → 
+[`CircleShape`](/3d/python-net/aspose.threed.profiles/circleshape) → 
+[`ParameterizedProfile`](/3d/python-net/aspose.threed.profiles/parameterizedprofile) → 
+[`Profile`](/3d/python-net/aspose.threed.profiles/profile) → 
+[`Entity`](/3d/python-net/aspose.threed/entity) → 
+[`SceneObject`](/3d/python-net/aspose.threed/sceneobject) → 
+[`A3DObject`](/3d/python-net/aspose.threed/a3dobject)
 
 
 
@@ -29,7 +29,7 @@ The HollowCircleShape type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [HollowCircleShape()](/3d/python-net/aspose.threed.profiles/hollowcircleshape/__init__/#) | Construct a [CircleShape](/3d/python-net/aspose.threed.profiles/circleshape) profile with default radius(5). |
+| [HollowCircleShape()](/3d/python-net/aspose.threed.profiles/hollowcircleshape/__init__/#) | Construct a [`CircleShape`](/3d/python-net/aspose.threed.profiles/circleshape) profile with default radius(5). |
 
 
 ### Properties
@@ -60,11 +60,11 @@ The HollowCircleShape type exposes the following members:
 
 
 ### See Also
-* module [aspose.threed.profiles](..)
-* class [A3DObject](/3d/python-net/aspose.threed/a3dobject)
-* class [CircleShape](/3d/python-net/aspose.threed.profiles/circleshape)
-* class [Entity](/3d/python-net/aspose.threed/entity)
-* class [HollowCircleShape](/3d/python-net/aspose.threed.profiles/hollowcircleshape)
-* class [ParameterizedProfile](/3d/python-net/aspose.threed.profiles/parameterizedprofile)
-* class [Profile](/3d/python-net/aspose.threed.profiles/profile)
-* class [SceneObject](/3d/python-net/aspose.threed/sceneobject)
+* module [`aspose.threed.profiles`](..)
+* class [`A3DObject`](/3d/python-net/aspose.threed/a3dobject)
+* class [`CircleShape`](/3d/python-net/aspose.threed.profiles/circleshape)
+* class [`Entity`](/3d/python-net/aspose.threed/entity)
+* class [`HollowCircleShape`](/3d/python-net/aspose.threed.profiles/hollowcircleshape)
+* class [`ParameterizedProfile`](/3d/python-net/aspose.threed.profiles/parameterizedprofile)
+* class [`Profile`](/3d/python-net/aspose.threed.profiles/profile)
+* class [`SceneObject`](/3d/python-net/aspose.threed/sceneobject)

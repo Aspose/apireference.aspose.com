@@ -10,7 +10,7 @@ is_root: false
 
 ## to_radian(degree) {#Vector3}
 
-Convert a [Vector3](/3d/python-net/aspose.threed.utilities/vector3) from degree to radian
+Convert a [`Vector3`](/3d/python-net/aspose.threed.utilities/vector3) from degree to radian
 
 
 ### Returns 
@@ -27,7 +27,7 @@ def to_radian(self, degree):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| degree | [Vector3](/3d/python-net/aspose.threed.utilities/vector3) | The degree value. |
+| degree | [`Vector3`](/3d/python-net/aspose.threed.utilities/vector3) | The degree value. |
 
 ### Example 
 
@@ -133,6 +133,6 @@ def to_radian(self, x, y, z):
 
 
 ### See Also
-* module [aspose.threed.utilities](../../)
-* class [MathUtils](/3d/python-net/aspose.threed.utilities/mathutils)
-* class [Vector3](/3d/python-net/aspose.threed.utilities/vector3)
+* module [`aspose.threed.utilities`](../../)
+* class [`MathUtils`](/3d/python-net/aspose.threed.utilities/mathutils)
+* class [`Vector3`](/3d/python-net/aspose.threed.utilities/vector3)

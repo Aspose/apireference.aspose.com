@@ -18,6 +18,16 @@ public Node RootNode { get; }
 
 The root node.
 
+### Examples
+
+The following code shows how to create a node with Box entity attached to the root node.
+
+```csharp
+Scene scene = new Scene();
+scene.RootNode.CreateChildNode(new Box());
+scene.Save("box.stl");
+```
+
 ### See Also
 
 * class [Node](../../node)

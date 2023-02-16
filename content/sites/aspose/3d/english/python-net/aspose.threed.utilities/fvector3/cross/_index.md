@@ -16,7 +16,7 @@ Cross product of two vectors
 ### Returns 
 
 
-Cross product of two [FVector3](/3d/python-net/aspose.threed.utilities/fvector3)s.
+Cross product of two [`FVector3`](/3d/python-net/aspose.threed.utilities/fvector3)s.
 
 
 ```python
@@ -27,10 +27,10 @@ def cross(self, rhs):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| rhs | [FVector3](/3d/python-net/aspose.threed.utilities/fvector3) | Right hand side value. |
+| rhs | [`FVector3`](/3d/python-net/aspose.threed.utilities/fvector3) | Right hand side value. |
 
 
 
 ### See Also
-* module [aspose.threed.utilities](../../)
-* class [FVector3](/3d/python-net/aspose.threed.utilities/fvector3)
+* module [`aspose.threed.utilities`](../../)
+* class [`FVector3`](/3d/python-net/aspose.threed.utilities/fvector3)

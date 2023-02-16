@@ -10,7 +10,7 @@ is_root: false
 
 ## Vertex class
 
-Vertex reference, used to access the raw vertex in [TriMesh](/3d/python-net/aspose.threed.entities/trimesh).
+Vertex reference, used to access the raw vertex in [`TriMesh`](/3d/python-net/aspose.threed.entities/trimesh).
 
 
 
@@ -32,5 +32,5 @@ The Vertex type exposes the following members:
 
 
 ### See Also
-* module [aspose.threed.utilities](..)
-* class [TriMesh](/3d/python-net/aspose.threed.entities/trimesh)
+* module [`aspose.threed.utilities`](..)
+* class [`TriMesh`](/3d/python-net/aspose.threed.entities/trimesh)

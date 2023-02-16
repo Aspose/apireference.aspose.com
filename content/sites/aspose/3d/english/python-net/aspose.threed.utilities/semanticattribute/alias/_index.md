@@ -20,5 +20,5 @@ def alias(self):
 ```
 
 ### See Also
-* module [aspose.threed.utilities](../../)
-* class [SemanticAttribute](/3d/python-net/aspose.threed.utilities/semanticattribute)
+* module [`aspose.threed.utilities`](../../)
+* class [`SemanticAttribute`](/3d/python-net/aspose.threed.utilities/semanticattribute)

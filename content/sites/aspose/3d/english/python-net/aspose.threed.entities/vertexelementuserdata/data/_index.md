@@ -23,5 +23,5 @@ def data(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [VertexElementUserData](/3d/python-net/aspose.threed.entities/vertexelementuserdata)
+* module [`aspose.threed.entities`](../../)
+* class [`VertexElementUserData`](/3d/python-net/aspose.threed.entities/vertexelementuserdata)

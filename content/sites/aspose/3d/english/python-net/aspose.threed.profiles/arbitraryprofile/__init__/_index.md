@@ -10,7 +10,7 @@ is_root: false
 
 ## ArbitraryProfile() {#}
 
-Constructor of [ArbitraryProfile](/3d/python-net/aspose.threed.profiles/arbitraryprofile)
+Constructor of [`ArbitraryProfile`](/3d/python-net/aspose.threed.profiles/arbitraryprofile)
 
 
 
@@ -24,7 +24,7 @@ def __init__(self):
 
 ## ArbitraryProfile(curve) {#aspose.threed.entities.Curve}
 
-Constructor of [ArbitraryProfile](/3d/python-net/aspose.threed.profiles/arbitraryprofile) with an initial curve.
+Constructor of [`ArbitraryProfile`](/3d/python-net/aspose.threed.profiles/arbitraryprofile) with an initial curve.
 
 
 
@@ -41,5 +41,5 @@ def __init__(self, curve):
 
 
 ### See Also
-* module [aspose.threed.profiles](../../)
-* class [ArbitraryProfile](/3d/python-net/aspose.threed.profiles/arbitraryprofile)
+* module [`aspose.threed.profiles`](../../)
+* class [`ArbitraryProfile`](/3d/python-net/aspose.threed.profiles/arbitraryprofile)

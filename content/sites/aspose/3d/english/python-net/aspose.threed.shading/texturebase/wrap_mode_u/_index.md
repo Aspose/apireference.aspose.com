@@ -23,6 +23,6 @@ def wrap_mode_u(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.shading](../../)
-* class [TextureBase](/3d/python-net/aspose.threed.shading/texturebase)
-* class [WrapMode](/3d/python-net/aspose.threed.shading/wrapmode)
+* module [`aspose.threed.shading`](../../)
+* class [`TextureBase`](/3d/python-net/aspose.threed.shading/texturebase)
+* class [`WrapMode`](/3d/python-net/aspose.threed.shading/wrapmode)

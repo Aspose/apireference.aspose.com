@@ -10,7 +10,7 @@ is_root: false
 
 ## EntityRenderer(key) {#str}
 
-Constructor of [EntityRenderer](/3d/python-net/aspose.threed.render/entityrenderer)
+Constructor of [`EntityRenderer`](/3d/python-net/aspose.threed.render/entityrenderer)
 
 
 
@@ -27,7 +27,7 @@ def __init__(self, key):
 
 ## EntityRenderer(key, features) {#str-EntityRendererFeatures}
 
-Constructor of [EntityRenderer](/3d/python-net/aspose.threed.render/entityrenderer)
+Constructor of [`EntityRenderer`](/3d/python-net/aspose.threed.render/entityrenderer)
 
 
 
@@ -40,10 +40,10 @@ def __init__(self, key, features):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | key | str | The key of the entity renderer |
-| features | [EntityRendererFeatures](/3d/python-net/aspose.threed.render/entityrendererfeatures) | The extra features of the entity renderer |
+| features | [`EntityRendererFeatures`](/3d/python-net/aspose.threed.render/entityrendererfeatures) | The extra features of the entity renderer |
 
 
 
 ### See Also
-* module [aspose.threed.render](../../)
-* class [EntityRenderer](/3d/python-net/aspose.threed.render/entityrenderer)
+* module [`aspose.threed.render`](../../)
+* class [`EntityRenderer`](/3d/python-net/aspose.threed.render/entityrenderer)

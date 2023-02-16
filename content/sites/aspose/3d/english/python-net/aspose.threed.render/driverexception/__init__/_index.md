@@ -10,7 +10,7 @@ is_root: false
 
 ## DriverException(code, message) {#int-str}
 
-Initialize an instance of [DriverException](/3d/python-net/aspose.threed.render/driverexception) with specified native driver error code and message.
+Initialize an instance of [`DriverException`](/3d/python-net/aspose.threed.render/driverexception) with specified native driver error code and message.
 
 
 
@@ -28,5 +28,5 @@ def __init__(self, code, message):
 
 
 ### See Also
-* module [aspose.threed.render](../../)
-* class [DriverException](/3d/python-net/aspose.threed.render/driverexception)
+* module [`aspose.threed.render`](../../)
+* class [`DriverException`](/3d/python-net/aspose.threed.render/driverexception)

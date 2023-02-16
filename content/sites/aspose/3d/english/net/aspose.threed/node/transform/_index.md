@@ -18,6 +18,17 @@ public Transform Transform { get; }
 
 The transform.
 
+### Examples
+
+The following code shows how to change the transform of the node:
+
+```csharp
+Scene scene = new Scene();
+var boxNode = scene.RootNode.CreateChildNode(new Box());
+//place the box at (10, 0, 0)
+boxNode.Transform.Translation = new Vector3(10, 0, 0);
+```
+
 ### See Also
 
 * class [Transform](../../transform)

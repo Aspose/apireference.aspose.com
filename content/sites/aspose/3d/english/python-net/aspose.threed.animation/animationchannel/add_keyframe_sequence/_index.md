@@ -22,10 +22,10 @@ def add_keyframe_sequence(self, sequence):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| sequence | [KeyframeSequence](/3d/python-net/aspose.threed.animation/keyframesequence) | The keyframe sequence to add. |
+| sequence | [`KeyframeSequence`](/3d/python-net/aspose.threed.animation/keyframesequence) | The keyframe sequence to add. |
 
 
 
 ### See Also
-* module [aspose.threed.animation](../../)
-* class [AnimationChannel](/3d/python-net/aspose.threed.animation/animationchannel)
+* module [`aspose.threed.animation`](../../)
+* class [`AnimationChannel`](/3d/python-net/aspose.threed.animation/animationchannel)

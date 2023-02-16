@@ -10,7 +10,7 @@ is_root: false
 
 ## CShape() {#}
 
-Constructor of [CShape](/3d/python-net/aspose.threed.profiles/cshape)
+Constructor of [`CShape`](/3d/python-net/aspose.threed.profiles/cshape)
 
 
 
@@ -24,5 +24,5 @@ def __init__(self):
 
 
 ### See Also
-* module [aspose.threed.profiles](../../)
-* class [CShape](/3d/python-net/aspose.threed.profiles/cshape)
+* module [`aspose.threed.profiles`](../../)
+* class [`CShape`](/3d/python-net/aspose.threed.profiles/cshape)

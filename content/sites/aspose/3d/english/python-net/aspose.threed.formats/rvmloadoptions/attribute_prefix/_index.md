@@ -24,5 +24,5 @@ def attribute_prefix(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.formats](../../)
-* class [RvmLoadOptions](/3d/python-net/aspose.threed.formats/rvmloadoptions)
+* module [`aspose.threed.formats`](../../)
+* class [`RvmLoadOptions`](/3d/python-net/aspose.threed.formats/rvmloadoptions)

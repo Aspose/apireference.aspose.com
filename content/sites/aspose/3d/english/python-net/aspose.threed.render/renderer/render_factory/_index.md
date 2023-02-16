@@ -20,6 +20,6 @@ def render_factory(self):
 ```
 
 ### See Also
-* module [aspose.threed.render](../../)
-* class [RenderFactory](/3d/python-net/aspose.threed.render/renderfactory)
-* class [Renderer](/3d/python-net/aspose.threed.render/renderer)
+* module [`aspose.threed.render`](../../)
+* class [`RenderFactory`](/3d/python-net/aspose.threed.render/renderfactory)
+* class [`Renderer`](/3d/python-net/aspose.threed.render/renderer)

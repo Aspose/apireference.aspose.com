@@ -27,4 +27,4 @@ The TextureFilter type exposes the following members:
 
 
 ### See Also
-* module [aspose.threed.shading](..)
+* module [`aspose.threed.shading`](..)

@@ -23,6 +23,6 @@ def parent_node(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.profiles](../../)
-* class [EllipseShape](/3d/python-net/aspose.threed.profiles/ellipseshape)
-* class [Node](/3d/python-net/aspose.threed/node)
+* module [`aspose.threed.profiles`](../../)
+* class [`EllipseShape`](/3d/python-net/aspose.threed.profiles/ellipseshape)
+* class [`Node`](/3d/python-net/aspose.threed/node)

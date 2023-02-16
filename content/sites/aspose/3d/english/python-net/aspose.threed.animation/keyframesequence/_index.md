@@ -14,8 +14,8 @@ The sequence of key-frames, it describes the transformation of a sampled value o
 
 
 
-**Inheritance:** [KeyframeSequence](/3d/python-net/aspose.threed.animation/keyframesequence) → 
-[A3DObject](/3d/python-net/aspose.threed/a3dobject)
+**Inheritance:** [`KeyframeSequence`](/3d/python-net/aspose.threed.animation/keyframesequence) → 
+[`A3DObject`](/3d/python-net/aspose.threed/a3dobject)
 
 
 
@@ -24,8 +24,8 @@ The KeyframeSequence type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [KeyframeSequence(name)](/3d/python-net/aspose.threed.animation/keyframesequence/__init__/#str) | Initializes a new instance of the [KeyframeSequence](/3d/python-net/aspose.threed.animation/keyframesequence) class. |
-| [KeyframeSequence()](/3d/python-net/aspose.threed.animation/keyframesequence/__init__/#) | Initializes a new instance of the [KeyframeSequence](/3d/python-net/aspose.threed.animation/keyframesequence) class. |
+| [KeyframeSequence(name)](/3d/python-net/aspose.threed.animation/keyframesequence/__init__/#str) | Initializes a new instance of the [`KeyframeSequence`](/3d/python-net/aspose.threed.animation/keyframesequence) class. |
+| [KeyframeSequence()](/3d/python-net/aspose.threed.animation/keyframesequence/__init__/#) | Initializes a new instance of the [`KeyframeSequence`](/3d/python-net/aspose.threed.animation/keyframesequence) class. |
 
 
 ### Properties
@@ -54,6 +54,6 @@ The KeyframeSequence type exposes the following members:
 
 
 ### See Also
-* module [aspose.threed.animation](..)
-* class [A3DObject](/3d/python-net/aspose.threed/a3dobject)
-* class [KeyframeSequence](/3d/python-net/aspose.threed.animation/keyframesequence)
+* module [`aspose.threed.animation`](..)
+* class [`A3DObject`](/3d/python-net/aspose.threed/a3dobject)
+* class [`KeyframeSequence`](/3d/python-net/aspose.threed.animation/keyframesequence)

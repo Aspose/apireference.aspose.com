@@ -40,5 +40,5 @@ node.transform.set_pre_rotation(90, 0, 0)
 
 
 ### See Also
-* module [aspose.threed](../../)
-* class [Transform](/3d/python-net/aspose.threed/transform)
+* module [`aspose.threed`](../../)
+* class [`Transform`](/3d/python-net/aspose.threed/transform)

@@ -51,6 +51,6 @@ print(f"The box's global transform matrix is {mat}")
 
 
 ### See Also
-* module [aspose.threed](../../)
-* class [Matrix4](/3d/python-net/aspose.threed.utilities/matrix4)
-* class [Node](/3d/python-net/aspose.threed/node)
+* module [`aspose.threed`](../../)
+* class [`Matrix4`](/3d/python-net/aspose.threed.utilities/matrix4)
+* class [`Node`](/3d/python-net/aspose.threed/node)

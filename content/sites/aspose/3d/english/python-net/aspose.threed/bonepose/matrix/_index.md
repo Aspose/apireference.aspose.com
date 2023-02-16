@@ -23,6 +23,6 @@ def matrix(self, value):
 ```
 
 ### See Also
-* module [aspose.threed](../../)
-* class [BonePose](/3d/python-net/aspose.threed/bonepose)
-* class [Matrix4](/3d/python-net/aspose.threed.utilities/matrix4)
+* module [`aspose.threed`](../../)
+* class [`BonePose`](/3d/python-net/aspose.threed/bonepose)
+* class [`Matrix4`](/3d/python-net/aspose.threed.utilities/matrix4)

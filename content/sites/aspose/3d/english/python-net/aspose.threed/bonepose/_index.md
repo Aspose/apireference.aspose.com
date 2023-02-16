@@ -10,7 +10,7 @@ is_root: false
 
 ## BonePose class
 
-The [BonePose](/3d/python-net/aspose.threed/bonepose) contains the transformation matrix for a bone node
+The [`BonePose`](/3d/python-net/aspose.threed/bonepose) contains the transformation matrix for a bone node
 
 
 
@@ -32,5 +32,5 @@ The BonePose type exposes the following members:
 
 
 ### See Also
-* module [aspose.threed](..)
-* class [BonePose](/3d/python-net/aspose.threed/bonepose)
+* module [`aspose.threed`](..)
+* class [`BonePose`](/3d/python-net/aspose.threed/bonepose)

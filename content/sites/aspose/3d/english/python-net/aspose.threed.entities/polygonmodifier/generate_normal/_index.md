@@ -27,10 +27,10 @@ def generate_normal(self, mesh):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| mesh | [Mesh](/3d/python-net/aspose.threed.entities/mesh) |  |
+| mesh | [`Mesh`](/3d/python-net/aspose.threed.entities/mesh) |  |
 
 
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [PolygonModifier](/3d/python-net/aspose.threed.entities/polygonmodifier)
+* module [`aspose.threed.entities`](../../)
+* class [`PolygonModifier`](/3d/python-net/aspose.threed.entities/polygonmodifier)

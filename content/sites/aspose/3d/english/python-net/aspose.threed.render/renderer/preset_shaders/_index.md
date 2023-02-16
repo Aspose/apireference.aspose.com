@@ -23,6 +23,6 @@ def preset_shaders(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.render](../../)
-* class [PresetShaders](/3d/python-net/aspose.threed.render/presetshaders)
-* class [Renderer](/3d/python-net/aspose.threed.render/renderer)
+* module [`aspose.threed.render`](../../)
+* class [`PresetShaders`](/3d/python-net/aspose.threed.render/presetshaders)
+* class [`Renderer`](/3d/python-net/aspose.threed.render/renderer)

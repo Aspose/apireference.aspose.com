@@ -23,6 +23,6 @@ def mip_filter(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.shading](../../)
-* class [Texture](/3d/python-net/aspose.threed.shading/texture)
-* class [TextureFilter](/3d/python-net/aspose.threed.shading/texturefilter)
+* module [`aspose.threed.shading`](../../)
+* class [`Texture`](/3d/python-net/aspose.threed.shading/texture)
+* class [`TextureFilter`](/3d/python-net/aspose.threed.shading/texturefilter)

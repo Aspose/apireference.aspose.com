@@ -10,7 +10,7 @@ is_root: false
 
 ## LinearExtrusion() {#}
 
-Constructor of instance [LinearExtrusion](/3d/python-net/aspose.threed.entities/linearextrusion).
+Constructor of instance [`LinearExtrusion`](/3d/python-net/aspose.threed.entities/linearextrusion).
 
 
 
@@ -24,7 +24,7 @@ def __init__(self):
 
 ## LinearExtrusion(shape, height) {#aspose.threed.profiles.Profile-float}
 
-Constructor of instance [LinearExtrusion](/3d/python-net/aspose.threed.entities/linearextrusion).
+Constructor of instance [`LinearExtrusion`](/3d/python-net/aspose.threed.entities/linearextrusion).
 
 
 
@@ -42,5 +42,5 @@ def __init__(self, shape, height):
 
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [LinearExtrusion](/3d/python-net/aspose.threed.entities/linearextrusion)
+* module [`aspose.threed.entities`](../../)
+* class [`LinearExtrusion`](/3d/python-net/aspose.threed.entities/linearextrusion)

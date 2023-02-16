@@ -10,7 +10,7 @@ is_root: false
 
 ## MorphTargetChannel() {#}
 
-Initializes a new instance of the [MorphTargetChannel](/3d/python-net/aspose.threed.deformers/morphtargetchannel) class.
+Initializes a new instance of the [`MorphTargetChannel`](/3d/python-net/aspose.threed.deformers/morphtargetchannel) class.
 
 
 
@@ -24,7 +24,7 @@ def __init__(self):
 
 ## MorphTargetChannel(name) {#str}
 
-Initializes a new instance of the [MorphTargetChannel](/3d/python-net/aspose.threed.deformers/morphtargetchannel) class.
+Initializes a new instance of the [`MorphTargetChannel`](/3d/python-net/aspose.threed.deformers/morphtargetchannel) class.
 
 
 
@@ -41,5 +41,5 @@ def __init__(self, name):
 
 
 ### See Also
-* module [aspose.threed.deformers](../../)
-* class [MorphTargetChannel](/3d/python-net/aspose.threed.deformers/morphtargetchannel)
+* module [`aspose.threed.deformers`](../../)
+* class [`MorphTargetChannel`](/3d/python-net/aspose.threed.deformers/morphtargetchannel)

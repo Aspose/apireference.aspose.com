@@ -11,7 +11,7 @@ is_root: false
 ## keep_builtin_global_settings property
 
 
-Gets or sets whether to keep the builtin properties in GlobalSettings which have a native property replacement in [AssetInfo](/3d/python-net/aspose.threed/assetinfo).
+Gets or sets whether to keep the builtin properties in GlobalSettings which have a native property replacement in [`AssetInfo`](/3d/python-net/aspose.threed/assetinfo).
 Set this to true if you want the full properties in GlobalSettings
 Default value is false
 ### Definition:
@@ -25,6 +25,6 @@ def keep_builtin_global_settings(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.formats](../../)
-* class [AssetInfo](/3d/python-net/aspose.threed/assetinfo)
-* class [FbxLoadOptions](/3d/python-net/aspose.threed.formats/fbxloadoptions)
+* module [`aspose.threed.formats`](../../)
+* class [`AssetInfo`](/3d/python-net/aspose.threed/assetinfo)
+* class [`FbxLoadOptions`](/3d/python-net/aspose.threed.formats/fbxloadoptions)

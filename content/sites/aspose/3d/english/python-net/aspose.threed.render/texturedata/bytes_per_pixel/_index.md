@@ -20,5 +20,5 @@ def bytes_per_pixel(self):
 ```
 
 ### See Also
-* module [aspose.threed.render](../../)
-* class [TextureData](/3d/python-net/aspose.threed.render/texturedata)
+* module [`aspose.threed.render`](../../)
+* class [`TextureData`](/3d/python-net/aspose.threed.render/texturedata)

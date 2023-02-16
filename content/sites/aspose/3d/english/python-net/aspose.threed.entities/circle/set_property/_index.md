@@ -28,5 +28,5 @@ def set_property(self, property, value):
 
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [Circle](/3d/python-net/aspose.threed.entities/circle)
+* module [`aspose.threed.entities`](../../)
+* class [`Circle`](/3d/python-net/aspose.threed.entities/circle)

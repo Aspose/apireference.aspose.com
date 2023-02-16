@@ -14,5 +14,5 @@ is_root: false
 Aspose.3D Web format.
 
 ### See Also
-* module [aspose.threed.formats](../../)
-* class [DracoFormat](/3d/python-net/aspose.threed.formats/dracoformat)
+* module [`aspose.threed.formats`](../../)
+* class [`DracoFormat`](/3d/python-net/aspose.threed.formats/dracoformat)

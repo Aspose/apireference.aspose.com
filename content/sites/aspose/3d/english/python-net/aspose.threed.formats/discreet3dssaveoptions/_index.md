@@ -14,9 +14,9 @@ Save options for 3DS file.
 
 
 
-**Inheritance:** [Discreet3dsSaveOptions](/3d/python-net/aspose.threed.formats/discreet3dssaveoptions) → 
-[SaveOptions](/3d/python-net/aspose.threed.formats/saveoptions) → 
-[IOConfig](/3d/python-net/aspose.threed.formats/ioconfig)
+**Inheritance:** [`Discreet3dsSaveOptions`](/3d/python-net/aspose.threed.formats/discreet3dssaveoptions) → 
+[`SaveOptions`](/3d/python-net/aspose.threed.formats/saveoptions) → 
+[`IOConfig`](/3d/python-net/aspose.threed.formats/ioconfig)
 
 
 
@@ -25,7 +25,7 @@ The Discreet3dsSaveOptions type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [Discreet3dsSaveOptions()](/3d/python-net/aspose.threed.formats/discreet3dssaveoptions/__init__/#) | Constructor of [Discreet3dsSaveOptions](/3d/python-net/aspose.threed.formats/discreet3dssaveoptions) |
+| [Discreet3dsSaveOptions()](/3d/python-net/aspose.threed.formats/discreet3dssaveoptions/__init__/#) | Constructor of [`Discreet3dsSaveOptions`](/3d/python-net/aspose.threed.formats/discreet3dssaveoptions) |
 
 
 ### Properties
@@ -49,7 +49,7 @@ The Discreet3dsSaveOptions type exposes the following members:
 
 
 ### See Also
-* module [aspose.threed.formats](..)
-* class [Discreet3dsSaveOptions](/3d/python-net/aspose.threed.formats/discreet3dssaveoptions)
-* class [IOConfig](/3d/python-net/aspose.threed.formats/ioconfig)
-* class [SaveOptions](/3d/python-net/aspose.threed.formats/saveoptions)
+* module [`aspose.threed.formats`](..)
+* class [`Discreet3dsSaveOptions`](/3d/python-net/aspose.threed.formats/discreet3dssaveoptions)
+* class [`IOConfig`](/3d/python-net/aspose.threed.formats/ioconfig)
+* class [`SaveOptions`](/3d/python-net/aspose.threed.formats/saveoptions)

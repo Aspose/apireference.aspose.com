@@ -24,5 +24,5 @@ def reset_scene_cache(self):
 
 
 ### See Also
-* module [aspose.threed.render](../../)
-* class [EntityRenderer](/3d/python-net/aspose.threed.render/entityrenderer)
+* module [`aspose.threed.render`](../../)
+* class [`EntityRenderer`](/3d/python-net/aspose.threed.render/entityrenderer)

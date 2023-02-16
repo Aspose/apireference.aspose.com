@@ -14,5 +14,5 @@ is_root: false
 Siemens PLM Software NX's JT File
 
 ### See Also
-* module [aspose.threed](../../)
-* class [FileFormatType](/3d/python-net/aspose.threed/fileformattype)
+* module [`aspose.threed`](../../)
+* class [`FileFormatType`](/3d/python-net/aspose.threed/fileformattype)

@@ -22,6 +22,22 @@ public bool Accept(NodeVisitor visitor)
 
 true means visitor has broke the walk through.
 
+### Examples
+
+The following code shows how to get all meshes from a scene
+
+```csharp
+Scene scene = Scene.FromFile("input.fbx");
+List<Mesh> meshes = new List<Mesh>();
+scene.RootNode.Accept((node) =>
+{
+    if(node.Entity is Mesh)
+        meshes.Add((Mesh)node.Entity);
+    //continue searching
+    return true;
+});
+```
+
 ### See Also
 
 * delegate [NodeVisitor](../../nodevisitor)

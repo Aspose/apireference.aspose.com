@@ -10,7 +10,7 @@ is_root: false
 
 ## VertexElementWeight() {#}
 
-Initializes a new instance of the [VertexElementWeight](/3d/python-net/aspose.threed.entities/vertexelementweight) class.
+Initializes a new instance of the [`VertexElementWeight`](/3d/python-net/aspose.threed.entities/vertexelementweight) class.
 
 
 
@@ -24,5 +24,5 @@ def __init__(self):
 
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [VertexElementWeight](/3d/python-net/aspose.threed.entities/vertexelementweight)
+* module [`aspose.threed.entities`](../../)
+* class [`VertexElementWeight`](/3d/python-net/aspose.threed.entities/vertexelementweight)

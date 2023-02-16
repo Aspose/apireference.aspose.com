@@ -20,6 +20,6 @@ def type(self):
 ```
 
 ### See Also
-* module [aspose.threed.render](../../)
-* class [ITextureUnit](/3d/python-net/aspose.threed.render/itextureunit)
-* class [TextureType](/3d/python-net/aspose.threed.render/texturetype)
+* module [`aspose.threed.render`](../../)
+* class [`ITextureUnit`](/3d/python-net/aspose.threed.render/itextureunit)
+* class [`TextureType`](/3d/python-net/aspose.threed.render/texturetype)

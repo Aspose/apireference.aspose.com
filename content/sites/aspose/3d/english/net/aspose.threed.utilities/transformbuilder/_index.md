@@ -51,6 +51,18 @@ public class TransformBuilder
 | [Translate](../../aspose.threed.utilities/transformbuilder/translate)(Vector3) | Chain a translation transform |
 | [Translate](../../aspose.threed.utilities/transformbuilder/translate)(double, double, double) | Chain a translation transform |
 
+### Examples
+
+The following code shows how to create a matrix by a set of operation
+
+```csharp
+TransformBuilder tb = new TransformBuilder();
+tb.Translate(10, 20, 0);
+tb.Scale(10, 10, 10);
+tb.RotateEulerDegree(90, 0, 0);
+Console.WriteLine($"Transform Matrix: {tb.Matrix}");
+```
+
 ### See Also
 
 * namespace [Aspose.ThreeD.Utilities](../../aspose.threed.utilities)

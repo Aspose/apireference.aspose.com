@@ -14,5 +14,5 @@ is_root: false
 Microsoft 3D Manufacturing Format
 
 ### See Also
-* module [aspose.threed.formats](../../)
-* class [PlyFormat](/3d/python-net/aspose.threed.formats/plyformat)
+* module [`aspose.threed.formats`](../../)
+* class [`PlyFormat`](/3d/python-net/aspose.threed.formats/plyformat)

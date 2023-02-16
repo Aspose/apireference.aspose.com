@@ -18,6 +18,14 @@ public Material Material { get; set; }
 
 The material.
 
+### Examples
+
+```csharp
+Scene scene = new Scene();
+var node = scene.RootNode.CreateChildNode(new Box());
+node.Material = new LambertMaterial();
+```
+
 ### See Also
 
 * class [Material](../../../aspose.threed.shading/material)

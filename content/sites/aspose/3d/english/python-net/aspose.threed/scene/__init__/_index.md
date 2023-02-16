@@ -10,7 +10,7 @@ is_root: false
 
 ## Scene() {#}
 
-Initializes a new instance of the [Scene](/3d/python-net/aspose.threed/scene) class.
+Initializes a new instance of the [`Scene`](/3d/python-net/aspose.threed/scene) class.
 
 
 
@@ -24,7 +24,7 @@ def __init__(self):
 
 ## Scene(entity) {#Entity}
 
-Initializes a new instance of the [Scene](/3d/python-net/aspose.threed/scene) class with an entity attached to a new node.
+Initializes a new instance of the [`Scene`](/3d/python-net/aspose.threed/scene) class with an entity attached to a new node.
 
 
 
@@ -36,12 +36,12 @@ def __init__(self, entity):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| entity | [Entity](/3d/python-net/aspose.threed/entity) | The initial entity that attached to the scene |
+| entity | [`Entity`](/3d/python-net/aspose.threed/entity) | The initial entity that attached to the scene |
 
 ### Example 
 
 
-The following code shows how to create a [Scene](/3d/python-net/aspose.threed/scene) directly from an [Entity](/3d/python-net/aspose.threed/entity):
+The following code shows how to create a [`Scene`](/3d/python-net/aspose.threed/scene) directly from an [`Entity`](/3d/python-net/aspose.threed/entity):
 
 ```python
 from aspose.threed import Scene
@@ -54,8 +54,8 @@ scene = Scene(Box())
 
 ## Scene(file_name) {#str}
 
-Initializes a new instance of the [Scene](/3d/python-net/aspose.threed/scene) class and open the file immediately.
-This is an obsoleted constructor, please use [Scene.from_file(file_name)](/3d/python-net/aspose.threed/scene/from_file).
+Initializes a new instance of the [`Scene`](/3d/python-net/aspose.threed/scene) class and open the file immediately.
+This is an obsoleted constructor, please use [`Scene.from_file(file_name)`](/3d/python-net/aspose.threed/scene/from_file).
 
 
 
@@ -72,7 +72,7 @@ def __init__(self, file_name):
 
 ## Scene(parent_scene, name) {#Scene-str}
 
-Initializes a new instance of the [Scene](/3d/python-net/aspose.threed/scene) class as a sub-scene.
+Initializes a new instance of the [`Scene`](/3d/python-net/aspose.threed/scene) class as a sub-scene.
 
 
 
@@ -84,12 +84,12 @@ def __init__(self, parent_scene, name):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| parent_scene | [Scene](/3d/python-net/aspose.threed/scene) | The parent scene. |
+| parent_scene | [`Scene`](/3d/python-net/aspose.threed/scene) | The parent scene. |
 | name | str | Scene's name. |
 
 
 
 ### See Also
-* module [aspose.threed](../../)
-* class [Entity](/3d/python-net/aspose.threed/entity)
-* class [Scene](/3d/python-net/aspose.threed/scene)
+* module [`aspose.threed`](../../)
+* class [`Entity`](/3d/python-net/aspose.threed/entity)
+* class [`Scene`](/3d/python-net/aspose.threed/scene)

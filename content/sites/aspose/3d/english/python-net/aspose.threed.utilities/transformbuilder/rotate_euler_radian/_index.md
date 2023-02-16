@@ -22,7 +22,7 @@ def rotate_euler_radian(self, r):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| r | [Vector3](/3d/python-net/aspose.threed.utilities/vector3) |  |
+| r | [`Vector3`](/3d/python-net/aspose.threed.utilities/vector3) |  |
 
 ### Example 
 
@@ -70,5 +70,5 @@ print(f"Transform Matrix: {tb.matrix}")
 
 
 ### See Also
-* module [aspose.threed.utilities](../../)
-* class [TransformBuilder](/3d/python-net/aspose.threed.utilities/transformbuilder)
+* module [`aspose.threed.utilities`](../../)
+* class [`TransformBuilder`](/3d/python-net/aspose.threed.utilities/transformbuilder)

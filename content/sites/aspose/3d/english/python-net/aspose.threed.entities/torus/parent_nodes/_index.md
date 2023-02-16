@@ -20,5 +20,5 @@ def parent_nodes(self):
 ```
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [Torus](/3d/python-net/aspose.threed.entities/torus)
+* module [`aspose.threed.entities`](../../)
+* class [`Torus`](/3d/python-net/aspose.threed.entities/torus)

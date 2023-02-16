@@ -10,7 +10,7 @@ is_root: false
 
 ## LambertMaterial() {#}
 
-Initializes a new instance of the [LambertMaterial](/3d/python-net/aspose.threed.shading/lambertmaterial) class.
+Initializes a new instance of the [`LambertMaterial`](/3d/python-net/aspose.threed.shading/lambertmaterial) class.
 
 
 
@@ -24,7 +24,7 @@ def __init__(self):
 
 ## LambertMaterial(name) {#str}
 
-Initializes a new instance of the [LambertMaterial](/3d/python-net/aspose.threed.shading/lambertmaterial) class.
+Initializes a new instance of the [`LambertMaterial`](/3d/python-net/aspose.threed.shading/lambertmaterial) class.
 
 
 
@@ -41,5 +41,5 @@ def __init__(self, name):
 
 
 ### See Also
-* module [aspose.threed.shading](../../)
-* class [LambertMaterial](/3d/python-net/aspose.threed.shading/lambertmaterial)
+* module [`aspose.threed.shading`](../../)
+* class [`LambertMaterial`](/3d/python-net/aspose.threed.shading/lambertmaterial)

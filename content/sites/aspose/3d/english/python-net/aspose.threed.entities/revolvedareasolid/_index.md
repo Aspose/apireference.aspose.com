@@ -14,10 +14,10 @@ This class represents a solid model by revolving a cross section provided by a p
 
 
 
-**Inheritance:** [RevolvedAreaSolid](/3d/python-net/aspose.threed.entities/revolvedareasolid) → 
-[Entity](/3d/python-net/aspose.threed/entity) → 
-[SceneObject](/3d/python-net/aspose.threed/sceneobject) → 
-[A3DObject](/3d/python-net/aspose.threed/a3dobject)
+**Inheritance:** [`RevolvedAreaSolid`](/3d/python-net/aspose.threed.entities/revolvedareasolid) → 
+[`Entity`](/3d/python-net/aspose.threed/entity) → 
+[`SceneObject`](/3d/python-net/aspose.threed/sceneobject) → 
+[`A3DObject`](/3d/python-net/aspose.threed/a3dobject)
 
 
 
@@ -55,13 +55,13 @@ The RevolvedAreaSolid type exposes the following members:
 | [find_property(property_name)](/3d/python-net/aspose.threed.entities/revolvedareasolid/find_property/#str) | Finds the property.<br/>It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) <br/>or native property(Identified by its name) |
 | [get_bounding_box()](/3d/python-net/aspose.threed.entities/revolvedareasolid/get_bounding_box/#) | Gets the bounding box of current entity in its object space coordinate system. |
 | [get_entity_renderer_key()](/3d/python-net/aspose.threed.entities/revolvedareasolid/get_entity_renderer_key/#) | Gets the key of the entity renderer registered in the renderer |
-| [to_mesh()](/3d/python-net/aspose.threed.entities/revolvedareasolid/to_mesh/#) | Convert the [RevolvedAreaSolid](/3d/python-net/aspose.threed.entities/revolvedareasolid) into a mesh. |
+| [to_mesh()](/3d/python-net/aspose.threed.entities/revolvedareasolid/to_mesh/#) | Convert the [`RevolvedAreaSolid`](/3d/python-net/aspose.threed.entities/revolvedareasolid) into a mesh. |
 
 
 
 ### See Also
-* module [aspose.threed.entities](..)
-* class [A3DObject](/3d/python-net/aspose.threed/a3dobject)
-* class [Entity](/3d/python-net/aspose.threed/entity)
-* class [RevolvedAreaSolid](/3d/python-net/aspose.threed.entities/revolvedareasolid)
-* class [SceneObject](/3d/python-net/aspose.threed/sceneobject)
+* module [`aspose.threed.entities`](..)
+* class [`A3DObject`](/3d/python-net/aspose.threed/a3dobject)
+* class [`Entity`](/3d/python-net/aspose.threed/entity)
+* class [`RevolvedAreaSolid`](/3d/python-net/aspose.threed.entities/revolvedareasolid)
+* class [`SceneObject`](/3d/python-net/aspose.threed/sceneobject)

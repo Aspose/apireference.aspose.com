@@ -32,5 +32,5 @@ def get_property(self, property):
 
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [Mesh](/3d/python-net/aspose.threed.entities/mesh)
+* module [`aspose.threed.entities`](../../)
+* class [`Mesh`](/3d/python-net/aspose.threed.entities/mesh)

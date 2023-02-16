@@ -14,5 +14,5 @@ is_root: false
 The x component.
 
 ### See Also
-* module [aspose.threed.utilities](../../)
-* class [Vector4](/3d/python-net/aspose.threed.utilities/vector4)
+* module [`aspose.threed.utilities`](../../)
+* class [`Vector4`](/3d/python-net/aspose.threed.utilities/vector4)

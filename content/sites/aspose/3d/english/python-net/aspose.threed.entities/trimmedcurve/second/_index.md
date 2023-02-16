@@ -23,6 +23,6 @@ def second(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [EndPoint](/3d/python-net/aspose.threed.entities/endpoint)
-* class [TrimmedCurve](/3d/python-net/aspose.threed.entities/trimmedcurve)
+* module [`aspose.threed.entities`](../../)
+* class [`EndPoint`](/3d/python-net/aspose.threed.entities/endpoint)
+* class [`TrimmedCurve`](/3d/python-net/aspose.threed.entities/trimmedcurve)

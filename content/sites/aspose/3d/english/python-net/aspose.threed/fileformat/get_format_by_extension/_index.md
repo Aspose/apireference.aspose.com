@@ -17,7 +17,7 @@ The extension name should starts with a dot('.').
 ### Returns 
 
 
-Instance of [FileFormat](/3d/python-net/aspose.threed/fileformat), otherwise null returned.
+Instance of [`FileFormat`](/3d/python-net/aspose.threed/fileformat), otherwise null returned.
 
 
 ```python
@@ -51,5 +51,5 @@ with BytesIO() as ms:
 
 
 ### See Also
-* module [aspose.threed](../../)
-* class [FileFormat](/3d/python-net/aspose.threed/fileformat)
+* module [`aspose.threed`](../../)
+* class [`FileFormat`](/3d/python-net/aspose.threed/fileformat)

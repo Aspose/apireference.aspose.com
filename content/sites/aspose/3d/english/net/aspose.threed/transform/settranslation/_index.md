@@ -20,6 +20,13 @@ public Transform SetTranslation(double tx, double ty, double tz)
 | ty | Double |  |
 | tz | Double |  |
 
+### Examples
+
+```csharp
+Node node = new Node();
+node.Transform.SetTranslation(10, 0, 0);
+```
+
 ### See Also
 
 * class [Transform](../../transform)

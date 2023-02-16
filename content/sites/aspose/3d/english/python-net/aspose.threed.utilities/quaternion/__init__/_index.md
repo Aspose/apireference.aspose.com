@@ -24,7 +24,7 @@ def __init__(self):
 
 ## Quaternion(w, x, y, z) {#float-float-float-float}
 
-Initializes a new instance of the [Quaternion](/3d/python-net/aspose.threed.utilities/quaternion) class.
+Initializes a new instance of the [`Quaternion`](/3d/python-net/aspose.threed.utilities/quaternion) class.
 
 
 
@@ -44,5 +44,5 @@ def __init__(self, w, x, y, z):
 
 
 ### See Also
-* module [aspose.threed.utilities](../../)
-* class [Quaternion](/3d/python-net/aspose.threed.utilities/quaternion)
+* module [`aspose.threed.utilities`](../../)
+* class [`Quaternion`](/3d/python-net/aspose.threed.utilities/quaternion)

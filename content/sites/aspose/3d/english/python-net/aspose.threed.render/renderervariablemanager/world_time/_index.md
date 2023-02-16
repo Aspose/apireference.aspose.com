@@ -20,5 +20,5 @@ def world_time(self):
 ```
 
 ### See Also
-* module [aspose.threed.render](../../)
-* class [RendererVariableManager](/3d/python-net/aspose.threed.render/renderervariablemanager)
+* module [`aspose.threed.render`](../../)
+* class [`RendererVariableManager`](/3d/python-net/aspose.threed.render/renderervariablemanager)

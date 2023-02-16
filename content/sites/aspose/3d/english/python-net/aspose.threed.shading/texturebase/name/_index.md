@@ -23,5 +23,5 @@ def name(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.shading](../../)
-* class [TextureBase](/3d/python-net/aspose.threed.shading/texturebase)
+* module [`aspose.threed.shading`](../../)
+* class [`TextureBase`](/3d/python-net/aspose.threed.shading/texturebase)

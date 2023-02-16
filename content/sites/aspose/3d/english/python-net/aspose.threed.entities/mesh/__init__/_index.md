@@ -10,7 +10,7 @@ is_root: false
 
 ## Mesh() {#}
 
-Initializes a new instance of the [Mesh](/3d/python-net/aspose.threed.entities/mesh) class.
+Initializes a new instance of the [`Mesh`](/3d/python-net/aspose.threed.entities/mesh) class.
 
 
 
@@ -43,7 +43,7 @@ def __init__(self, height_map):
 
 ## Mesh(name) {#str}
 
-Initializes a new instance of the [Mesh](/3d/python-net/aspose.threed.entities/mesh) class.
+Initializes a new instance of the [`Mesh`](/3d/python-net/aspose.threed.entities/mesh) class.
 
 
 
@@ -101,5 +101,5 @@ def __init__(self, height_map, tri_mesh, transform):
 
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [Mesh](/3d/python-net/aspose.threed.entities/mesh)
+* module [`aspose.threed.entities`](../../)
+* class [`Mesh`](/3d/python-net/aspose.threed.entities/mesh)

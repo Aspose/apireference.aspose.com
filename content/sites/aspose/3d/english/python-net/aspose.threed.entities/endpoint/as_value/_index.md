@@ -20,5 +20,5 @@ def as_value(self):
 ```
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [EndPoint](/3d/python-net/aspose.threed.entities/endpoint)
+* module [`aspose.threed.entities`](../../)
+* class [`EndPoint`](/3d/python-net/aspose.threed.entities/endpoint)

@@ -20,9 +20,9 @@ The Matrix4 type exposes the following members:
 | Constructor | Description |
 | :- | :- |
 | [Matrix4(r0, r1, r2, r3)](/3d/python-net/aspose.threed.utilities/matrix4/__init__/#Vector4-Vector4-Vector4-Vector4) | Constructs matrix from 4 rows. |
-| [Matrix4(m00, m01, m02, m03, m10, m11, m12, m13, m20, m21, m22, m23, m30, m31, m32, m33)](/3d/python-net/aspose.threed.utilities/matrix4/__init__/#float-float-float-float-float-float-float-float-float-float-float-float-float-float-float-float) | Initializes a new instance of the [Matrix4](/3d/python-net/aspose.threed.utilities/matrix4) struct. |
-| [Matrix4(m)](/3d/python-net/aspose.threed.utilities/matrix4/__init__/#FMatrix4) | Construct [Matrix4](/3d/python-net/aspose.threed.utilities/matrix4) from an [FMatrix4](/3d/python-net/aspose.threed.utilities/fmatrix4) instance |
-| [Matrix4(m)](/3d/python-net/aspose.threed.utilities/matrix4/__init__/#list) | Initializes a new instance of the [Matrix4](/3d/python-net/aspose.threed.utilities/matrix4) struct. |
+| [Matrix4(m00, m01, m02, m03, m10, m11, m12, m13, m20, m21, m22, m23, m30, m31, m32, m33)](/3d/python-net/aspose.threed.utilities/matrix4/__init__/#float-float-float-float-float-float-float-float-float-float-float-float-float-float-float-float) | Initializes a new instance of the [`Matrix4`](/3d/python-net/aspose.threed.utilities/matrix4) struct. |
+| [Matrix4(m)](/3d/python-net/aspose.threed.utilities/matrix4/__init__/#FMatrix4) | Construct [`Matrix4`](/3d/python-net/aspose.threed.utilities/matrix4) from an [`FMatrix4`](/3d/python-net/aspose.threed.utilities/fmatrix4) instance |
+| [Matrix4(m)](/3d/python-net/aspose.threed.utilities/matrix4/__init__/#list) | Initializes a new instance of the [`Matrix4`](/3d/python-net/aspose.threed.utilities/matrix4) struct. |
 | [Matrix4()](/3d/python-net/aspose.threed.utilities/matrix4/__init__/#) | Constructs a new instance of Matrix4 |
 
 
@@ -86,6 +86,6 @@ transformed = transform * pos
 ```
 
 ### See Also
-* module [aspose.threed.utilities](..)
-* class [FMatrix4](/3d/python-net/aspose.threed.utilities/fmatrix4)
-* class [Matrix4](/3d/python-net/aspose.threed.utilities/matrix4)
+* module [`aspose.threed.utilities`](..)
+* class [`FMatrix4`](/3d/python-net/aspose.threed.utilities/fmatrix4)
+* class [`Matrix4`](/3d/python-net/aspose.threed.utilities/matrix4)

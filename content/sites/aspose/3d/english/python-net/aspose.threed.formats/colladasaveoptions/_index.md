@@ -14,9 +14,9 @@ Save options for collada
 
 
 
-**Inheritance:** [ColladaSaveOptions](/3d/python-net/aspose.threed.formats/colladasaveoptions) → 
-[SaveOptions](/3d/python-net/aspose.threed.formats/saveoptions) → 
-[IOConfig](/3d/python-net/aspose.threed.formats/ioconfig)
+**Inheritance:** [`ColladaSaveOptions`](/3d/python-net/aspose.threed.formats/colladasaveoptions) → 
+[`SaveOptions`](/3d/python-net/aspose.threed.formats/saveoptions) → 
+[`IOConfig`](/3d/python-net/aspose.threed.formats/ioconfig)
 
 
 
@@ -25,7 +25,7 @@ The ColladaSaveOptions type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [ColladaSaveOptions()](/3d/python-net/aspose.threed.formats/colladasaveoptions/__init__/#) | Constructor of [ColladaSaveOptions](/3d/python-net/aspose.threed.formats/colladasaveoptions) |
+| [ColladaSaveOptions()](/3d/python-net/aspose.threed.formats/colladasaveoptions/__init__/#) | Constructor of [`ColladaSaveOptions`](/3d/python-net/aspose.threed.formats/colladasaveoptions) |
 
 
 ### Properties
@@ -42,7 +42,7 @@ The ColladaSaveOptions type exposes the following members:
 
 
 ### See Also
-* module [aspose.threed.formats](..)
-* class [ColladaSaveOptions](/3d/python-net/aspose.threed.formats/colladasaveoptions)
-* class [IOConfig](/3d/python-net/aspose.threed.formats/ioconfig)
-* class [SaveOptions](/3d/python-net/aspose.threed.formats/saveoptions)
+* module [`aspose.threed.formats`](..)
+* class [`ColladaSaveOptions`](/3d/python-net/aspose.threed.formats/colladasaveoptions)
+* class [`IOConfig`](/3d/python-net/aspose.threed.formats/ioconfig)
+* class [`SaveOptions`](/3d/python-net/aspose.threed.formats/saveoptions)

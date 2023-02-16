@@ -20,6 +20,14 @@ public TransformBuilder Translate(double tx, double ty, double tz)
 | ty | Double |  |
 | tz | Double |  |
 
+### Examples
+
+```csharp
+TransformBuilder tb = new TransformBuilder();
+tb.Translate(0, 10, 0);
+Console.WriteLine($"Transform Matrix: {tb.Matrix}");
+```
+
 ### See Also
 
 * class [TransformBuilder](../../transformbuilder)
@@ -39,6 +47,14 @@ public TransformBuilder Translate(Vector3 v)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | v | Vector3 |  |
+
+### Examples
+
+```csharp
+TransformBuilder tb = new TransformBuilder();
+tb.Translate(new Vector3(0, 10, 0));
+Console.WriteLine($"Transform Matrix: {tb.Matrix}");
+```
 
 ### See Also
 

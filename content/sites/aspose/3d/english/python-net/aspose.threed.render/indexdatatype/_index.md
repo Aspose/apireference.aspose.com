@@ -10,7 +10,7 @@ is_root: false
 
 ## IndexDataType enumeration
 
-The data type of the elements in [IIndexBuffer](/3d/python-net/aspose.threed.render/iindexbuffer)
+The data type of the elements in [`IIndexBuffer`](/3d/python-net/aspose.threed.render/iindexbuffer)
 
 
 
@@ -25,5 +25,5 @@ The IndexDataType type exposes the following members:
 
 
 ### See Also
-* module [aspose.threed.render](..)
-* class [IIndexBuffer](/3d/python-net/aspose.threed.render/iindexbuffer)
+* module [`aspose.threed.render`](..)
+* class [`IIndexBuffer`](/3d/python-net/aspose.threed.render/iindexbuffer)

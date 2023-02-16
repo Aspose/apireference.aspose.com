@@ -28,5 +28,5 @@ def add_binding(self, property, shader_parameter):
 
 
 ### See Also
-* module [aspose.threed.shading](../../)
-* class [ShaderTechnique](/3d/python-net/aspose.threed.shading/shadertechnique)
+* module [`aspose.threed.shading`](../../)
+* class [`ShaderTechnique`](/3d/python-net/aspose.threed.shading/shadertechnique)

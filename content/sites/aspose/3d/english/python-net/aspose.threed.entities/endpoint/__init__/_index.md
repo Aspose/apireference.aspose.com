@@ -24,7 +24,7 @@ def __init__(self):
 
 ## EndPoint(point) {#aspose.threed.utilities.Vector3}
 
-Construct a [EndPoint](/3d/python-net/aspose.threed.entities/endpoint) from a Cartesian point.
+Construct a [`EndPoint`](/3d/python-net/aspose.threed.entities/endpoint) from a Cartesian point.
 
 
 
@@ -41,7 +41,7 @@ def __init__(self, point):
 
 ## EndPoint(v) {#float}
 
-Construct a [EndPoint](/3d/python-net/aspose.threed.entities/endpoint) from a real parameter.
+Construct a [`EndPoint`](/3d/python-net/aspose.threed.entities/endpoint) from a real parameter.
 
 
 
@@ -58,5 +58,5 @@ def __init__(self, v):
 
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [EndPoint](/3d/python-net/aspose.threed.entities/endpoint)
+* module [`aspose.threed.entities`](../../)
+* class [`EndPoint`](/3d/python-net/aspose.threed.entities/endpoint)

@@ -59,6 +59,18 @@ public Matrix4(double m00, double m01, double m02, double m03, double m10, doubl
 | m32 | Double | M32. |
 | m33 | Double | M33. |
 
+### Examples
+
+```csharp
+var mat = new Matrix4(
+    1, 0, 0, 0,
+    0, 1, 0, 0,
+    0, 0, 1, 0,
+    10, 20, 0, 1);
+var pos = new Vector3(10, 0, -1);
+var transformed = mat * pos;
+```
+
 ### See Also
 
 * struct [Matrix4](../../matrix4)

@@ -10,12 +10,12 @@ is_root: false
 
 ## LocalFileSystem class
 
-The [LocalFileSystem](/3d/python-net/aspose.threed.utilities/localfilesystem) will maps the read/write operations to local directory.
+The [`LocalFileSystem`](/3d/python-net/aspose.threed.utilities/localfilesystem) will maps the read/write operations to local directory.
 
 
 
-**Inheritance:** [LocalFileSystem](/3d/python-net/aspose.threed.utilities/localfilesystem) → 
-[FileSystem](/3d/python-net/aspose.threed.utilities/filesystem)
+**Inheritance:** [`LocalFileSystem`](/3d/python-net/aspose.threed.utilities/localfilesystem) → 
+[`FileSystem`](/3d/python-net/aspose.threed.utilities/filesystem)
 
 
 
@@ -24,7 +24,7 @@ The LocalFileSystem type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [LocalFileSystem(directory)](/3d/python-net/aspose.threed.utilities/localfilesystem/__init__/#str) | Initialize a new [LocalFileSystem](/3d/python-net/aspose.threed.utilities/localfilesystem) with specified base directory. |
+| [LocalFileSystem(directory)](/3d/python-net/aspose.threed.utilities/localfilesystem/__init__/#str) | Initialize a new [`LocalFileSystem`](/3d/python-net/aspose.threed.utilities/localfilesystem) with specified base directory. |
 
 
 ### Methods
@@ -36,6 +36,6 @@ The LocalFileSystem type exposes the following members:
 
 
 ### See Also
-* module [aspose.threed.utilities](..)
-* class [FileSystem](/3d/python-net/aspose.threed.utilities/filesystem)
-* class [LocalFileSystem](/3d/python-net/aspose.threed.utilities/localfilesystem)
+* module [`aspose.threed.utilities`](..)
+* class [`FileSystem`](/3d/python-net/aspose.threed.utilities/filesystem)
+* class [`LocalFileSystem`](/3d/python-net/aspose.threed.utilities/localfilesystem)

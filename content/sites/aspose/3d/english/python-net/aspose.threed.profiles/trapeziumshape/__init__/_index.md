@@ -10,7 +10,7 @@ is_root: false
 
 ## TrapeziumShape() {#}
 
-Constructor of [TrapeziumShape](/3d/python-net/aspose.threed.profiles/trapeziumshape)
+Constructor of [`TrapeziumShape`](/3d/python-net/aspose.threed.profiles/trapeziumshape)
 
 
 
@@ -24,5 +24,5 @@ def __init__(self):
 
 
 ### See Also
-* module [aspose.threed.profiles](../../)
-* class [TrapeziumShape](/3d/python-net/aspose.threed.profiles/trapeziumshape)
+* module [`aspose.threed.profiles`](../../)
+* class [`TrapeziumShape`](/3d/python-net/aspose.threed.profiles/trapeziumshape)

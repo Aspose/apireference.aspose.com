@@ -23,5 +23,5 @@ def verbose(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.formats](../../)
-* class [ObjSaveOptions](/3d/python-net/aspose.threed.formats/objsaveoptions)
+* module [`aspose.threed.formats`](../../)
+* class [`ObjSaveOptions`](/3d/python-net/aspose.threed.formats/objsaveoptions)

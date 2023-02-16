@@ -15,12 +15,12 @@ The center position of the profile is in the center of the bounding box.
 
 
 
-**Inheritance:** [EllipseShape](/3d/python-net/aspose.threed.profiles/ellipseshape) → 
-[ParameterizedProfile](/3d/python-net/aspose.threed.profiles/parameterizedprofile) → 
-[Profile](/3d/python-net/aspose.threed.profiles/profile) → 
-[Entity](/3d/python-net/aspose.threed/entity) → 
-[SceneObject](/3d/python-net/aspose.threed/sceneobject) → 
-[A3DObject](/3d/python-net/aspose.threed/a3dobject)
+**Inheritance:** [`EllipseShape`](/3d/python-net/aspose.threed.profiles/ellipseshape) → 
+[`ParameterizedProfile`](/3d/python-net/aspose.threed.profiles/parameterizedprofile) → 
+[`Profile`](/3d/python-net/aspose.threed.profiles/profile) → 
+[`Entity`](/3d/python-net/aspose.threed/entity) → 
+[`SceneObject`](/3d/python-net/aspose.threed/sceneobject) → 
+[`A3DObject`](/3d/python-net/aspose.threed/a3dobject)
 
 
 
@@ -60,10 +60,10 @@ The EllipseShape type exposes the following members:
 
 
 ### See Also
-* module [aspose.threed.profiles](..)
-* class [A3DObject](/3d/python-net/aspose.threed/a3dobject)
-* class [EllipseShape](/3d/python-net/aspose.threed.profiles/ellipseshape)
-* class [Entity](/3d/python-net/aspose.threed/entity)
-* class [ParameterizedProfile](/3d/python-net/aspose.threed.profiles/parameterizedprofile)
-* class [Profile](/3d/python-net/aspose.threed.profiles/profile)
-* class [SceneObject](/3d/python-net/aspose.threed/sceneobject)
+* module [`aspose.threed.profiles`](..)
+* class [`A3DObject`](/3d/python-net/aspose.threed/a3dobject)
+* class [`EllipseShape`](/3d/python-net/aspose.threed.profiles/ellipseshape)
+* class [`Entity`](/3d/python-net/aspose.threed/entity)
+* class [`ParameterizedProfile`](/3d/python-net/aspose.threed.profiles/parameterizedprofile)
+* class [`Profile`](/3d/python-net/aspose.threed.profiles/profile)
+* class [`SceneObject`](/3d/python-net/aspose.threed/sceneobject)

@@ -20,6 +20,20 @@ public static Mesh EncodeWatermark(Mesh input, string text, string password)
 | text | String | Text to encode to the mesh |
 | password | String | Password to protect the watermark, it's optional |
 
+### Return Value
+
+A new mesh instance with blind watermark encoded
+
+### Examples
+
+The following code shows how to encode a blind watermark into a mesh and save to ply file
+
+```csharp
+Mesh mesh = (new Cylinder()).ToMesh();
+var encodedMesh = Watermark.EncodeWatermark(mesh, "Hello", "password");
+new Scene(encodedMesh).Save("test.ply");
+```
+
 ### See Also
 
 * class [Mesh](../../../aspose.threed.entities/mesh)

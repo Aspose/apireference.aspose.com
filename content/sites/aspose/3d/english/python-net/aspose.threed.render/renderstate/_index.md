@@ -20,14 +20,14 @@ The RenderState type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [RenderState()](/3d/python-net/aspose.threed.render/renderstate/__init__/#) | Constructor of [RenderState](/3d/python-net/aspose.threed.render/renderstate) |
+| [RenderState()](/3d/python-net/aspose.threed.render/renderstate/__init__/#) | Constructor of [`RenderState`](/3d/python-net/aspose.threed.render/renderstate) |
 
 
 ### Properties
 | Property | Description |
 | :- | :- |
 | [blend](/3d/python-net/aspose.threed.render/renderstate/blend) | Enable or disable the fragment blending. |
-| [blend_color](/3d/python-net/aspose.threed.render/renderstate/blend_color) | Gets or sets the blend color where used in [BlendFactor.CONSTANT_COLOR](/3d/python-net/aspose.threed.render/blendfactor#CONSTANT_COLOR) |
+| [blend_color](/3d/python-net/aspose.threed.render/renderstate/blend_color) | Gets or sets the blend color where used in [`BlendFactor.CONSTANT_COLOR`](/3d/python-net/aspose.threed.render/blendfactor#CONSTANT_COLOR) |
 | [source_blend_factor](/3d/python-net/aspose.threed.render/renderstate/source_blend_factor) | Gets or sets how the color is blended. |
 | [destination_blend_factor](/3d/python-net/aspose.threed.render/renderstate/destination_blend_factor) | Gets or sets how the color is blended. |
 | [cull_face](/3d/python-net/aspose.threed.render/renderstate/cull_face) | Enable or disable cull face |
@@ -54,5 +54,5 @@ The RenderState type exposes the following members:
 
 
 ### See Also
-* module [aspose.threed.render](..)
-* class [RenderState](/3d/python-net/aspose.threed.render/renderstate)
+* module [`aspose.threed.render`](..)
+* class [`RenderState`](/3d/python-net/aspose.threed.render/renderstate)

@@ -23,6 +23,6 @@ def shader_set(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.render](../../)
-* class [Renderer](/3d/python-net/aspose.threed.render/renderer)
-* class [ShaderSet](/3d/python-net/aspose.threed.render/shaderset)
+* module [`aspose.threed.render`](../../)
+* class [`Renderer`](/3d/python-net/aspose.threed.render/renderer)
+* class [`ShaderSet`](/3d/python-net/aspose.threed.render/shaderset)

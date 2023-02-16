@@ -14,8 +14,8 @@ The base class to configure options in file saving for different types
 
 
 
-**Inheritance:** [SaveOptions](/3d/python-net/aspose.threed.formats/saveoptions) → 
-[IOConfig](/3d/python-net/aspose.threed.formats/ioconfig)
+**Inheritance:** [`SaveOptions`](/3d/python-net/aspose.threed.formats/saveoptions) → 
+[`IOConfig`](/3d/python-net/aspose.threed.formats/ioconfig)
 
 
 
@@ -33,6 +33,6 @@ The SaveOptions type exposes the following members:
 
 
 ### See Also
-* module [aspose.threed.formats](..)
-* class [IOConfig](/3d/python-net/aspose.threed.formats/ioconfig)
-* class [SaveOptions](/3d/python-net/aspose.threed.formats/saveoptions)
+* module [`aspose.threed.formats`](..)
+* class [`IOConfig`](/3d/python-net/aspose.threed.formats/ioconfig)
+* class [`SaveOptions`](/3d/python-net/aspose.threed.formats/saveoptions)

@@ -44,5 +44,5 @@ def indices_to_array(self, result):
 
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [TriMesh](/3d/python-net/aspose.threed.entities/trimesh)
+* module [`aspose.threed.entities`](../../)
+* class [`TriMesh`](/3d/python-net/aspose.threed.entities/trimesh)

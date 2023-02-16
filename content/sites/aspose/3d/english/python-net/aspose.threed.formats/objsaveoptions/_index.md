@@ -14,9 +14,9 @@ Save options for wavefront obj file
 
 
 
-**Inheritance:** [ObjSaveOptions](/3d/python-net/aspose.threed.formats/objsaveoptions) → 
-[SaveOptions](/3d/python-net/aspose.threed.formats/saveoptions) → 
-[IOConfig](/3d/python-net/aspose.threed.formats/ioconfig)
+**Inheritance:** [`ObjSaveOptions`](/3d/python-net/aspose.threed.formats/objsaveoptions) → 
+[`SaveOptions`](/3d/python-net/aspose.threed.formats/saveoptions) → 
+[`IOConfig`](/3d/python-net/aspose.threed.formats/ioconfig)
 
 
 
@@ -25,7 +25,7 @@ The ObjSaveOptions type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [ObjSaveOptions()](/3d/python-net/aspose.threed.formats/objsaveoptions/__init__/#) | Constructor of [ObjSaveOptions](/3d/python-net/aspose.threed.formats/objsaveoptions) |
+| [ObjSaveOptions()](/3d/python-net/aspose.threed.formats/objsaveoptions/__init__/#) | Constructor of [`ObjSaveOptions`](/3d/python-net/aspose.threed.formats/objsaveoptions) |
 
 
 ### Properties
@@ -45,7 +45,7 @@ The ObjSaveOptions type exposes the following members:
 
 
 ### See Also
-* module [aspose.threed.formats](..)
-* class [IOConfig](/3d/python-net/aspose.threed.formats/ioconfig)
-* class [ObjSaveOptions](/3d/python-net/aspose.threed.formats/objsaveoptions)
-* class [SaveOptions](/3d/python-net/aspose.threed.formats/saveoptions)
+* module [`aspose.threed.formats`](..)
+* class [`IOConfig`](/3d/python-net/aspose.threed.formats/ioconfig)
+* class [`ObjSaveOptions`](/3d/python-net/aspose.threed.formats/objsaveoptions)
+* class [`SaveOptions`](/3d/python-net/aspose.threed.formats/saveoptions)

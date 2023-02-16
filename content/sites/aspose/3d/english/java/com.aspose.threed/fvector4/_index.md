@@ -23,6 +23,7 @@ A float vector with four components.
 | --- | --- |
 | [FVector4(float x, float y, float z, float w)](#FVector4-float-float-float-float-) | Initializes a new instance of the [FVector4](../../com.aspose.threed/fvector4). |
 | [FVector4(float x, float y, float z)](#FVector4-float-float-float-) | Initializes a new instance of the [FVector4](../../com.aspose.threed/fvector4). |
+| [FVector4(Color color)](#FVector4-java.awt.Color-) | Initializes a new instance of the [FVector4](../../com.aspose.threed/fvector4). |
 | [FVector4(Vector4 vec)](#FVector4-com.aspose.threed.Vector4-) | Initializes a new instance of the [FVector4](../../com.aspose.threed/fvector4). |
 | [FVector4(Vector3 vec)](#FVector4-com.aspose.threed.Vector3-) | Initializes a new instance of the [FVector4](../../com.aspose.threed/fvector4). |
 | [FVector4(Vector3 vec, float w)](#FVector4-com.aspose.threed.Vector3-float-) | Initializes a new instance of the [FVector4](../../com.aspose.threed/fvector4). |
@@ -84,6 +85,19 @@ Initializes a new instance of the [FVector4](../../com.aspose.threed/fvector4).
 | x | float |  |
 | y | float |  |
 | z | float |  |
+
+### FVector4(Color color) {#FVector4-java.awt.Color-}
+```
+public FVector4(Color color)
+```
+
+
+Initializes a new instance of the [FVector4](../../com.aspose.threed/fvector4).
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| color | java.awt.Color |  |
 
 ### FVector4(Vector4 vec) {#FVector4-com.aspose.threed.Vector4-}
 ```

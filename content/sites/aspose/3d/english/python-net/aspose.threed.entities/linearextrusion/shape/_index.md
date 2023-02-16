@@ -23,6 +23,6 @@ def shape(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [LinearExtrusion](/3d/python-net/aspose.threed.entities/linearextrusion)
-* class [Profile](/3d/python-net/aspose.threed.profiles/profile)
+* module [`aspose.threed.entities`](../../)
+* class [`LinearExtrusion`](/3d/python-net/aspose.threed.entities/linearextrusion)
+* class [`Profile`](/3d/python-net/aspose.threed.profiles/profile)

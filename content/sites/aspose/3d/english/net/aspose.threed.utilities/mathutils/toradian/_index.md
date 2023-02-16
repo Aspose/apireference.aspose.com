@@ -22,6 +22,13 @@ public static Vector3 ToRadian(Vector3 degree)
 
 The radian value.
 
+### Examples
+
+```csharp
+Vector3 radians = MathUtils.ToRadian(new Vector3(90, 134, 0));
+Console.WriteLine($"Radians = {radians}");
+```
+
 ### See Also
 
 * struct [Vector3](../../vector3)
@@ -47,6 +54,13 @@ public static float ToRadian(float degree)
 
 The radian value.
 
+### Examples
+
+```csharp
+var rad = MathUtils.ToRadian(0.3);
+Console.WriteLine($"Radian = {rad}");
+```
+
 ### See Also
 
 * class [MathUtils](../../mathutils)
@@ -70,6 +84,13 @@ public static double ToRadian(double degree)
 ### Return Value
 
 The radian value.
+
+### Examples
+
+```csharp
+var rad = MathUtils.ToRadian(0.3);
+Console.WriteLine($"Radian = {rad}");
+```
 
 ### See Also
 

@@ -14,11 +14,11 @@ Box.
 
 
 
-**Inheritance:** [Box](/3d/python-net/aspose.threed.entities/box) → 
-[Primitive](/3d/python-net/aspose.threed.entities/primitive) → 
-[Entity](/3d/python-net/aspose.threed/entity) → 
-[SceneObject](/3d/python-net/aspose.threed/sceneobject) → 
-[A3DObject](/3d/python-net/aspose.threed/a3dobject)
+**Inheritance:** [`Box`](/3d/python-net/aspose.threed.entities/box) → 
+[`Primitive`](/3d/python-net/aspose.threed.entities/primitive) → 
+[`Entity`](/3d/python-net/aspose.threed/entity) → 
+[`SceneObject`](/3d/python-net/aspose.threed/sceneobject) → 
+[`A3DObject`](/3d/python-net/aspose.threed/a3dobject)
 
 
 
@@ -27,9 +27,9 @@ The Box type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [Box()](/3d/python-net/aspose.threed.entities/box/__init__/#) | Initializes a new instance of the [Box](/3d/python-net/aspose.threed.entities/box) class. |
-| [Box(length, width, height)](/3d/python-net/aspose.threed.entities/box/__init__/#float-float-float) | Initializes a new instance of the [Box](/3d/python-net/aspose.threed.entities/box) class. |
-| [Box(name, length, width, height, length_segments, width_segments, height_segments)](/3d/python-net/aspose.threed.entities/box/__init__/#str-float-float-float-int-int-int) | Initializes a new instance of the [Box](/3d/python-net/aspose.threed.entities/box) class. |
+| [Box()](/3d/python-net/aspose.threed.entities/box/__init__/#) | Initializes a new instance of the [`Box`](/3d/python-net/aspose.threed.entities/box) class. |
+| [Box(length, width, height)](/3d/python-net/aspose.threed.entities/box/__init__/#float-float-float) | Initializes a new instance of the [`Box`](/3d/python-net/aspose.threed.entities/box) class. |
+| [Box(name, length, width, height, length_segments, width_segments, height_segments)](/3d/python-net/aspose.threed.entities/box/__init__/#str-float-float-float-int-int-int) | Initializes a new instance of the [`Box`](/3d/python-net/aspose.threed.entities/box) class. |
 
 
 ### Properties
@@ -66,9 +66,9 @@ The Box type exposes the following members:
 
 
 ### See Also
-* module [aspose.threed.entities](..)
-* class [A3DObject](/3d/python-net/aspose.threed/a3dobject)
-* class [Box](/3d/python-net/aspose.threed.entities/box)
-* class [Entity](/3d/python-net/aspose.threed/entity)
-* class [Primitive](/3d/python-net/aspose.threed.entities/primitive)
-* class [SceneObject](/3d/python-net/aspose.threed/sceneobject)
+* module [`aspose.threed.entities`](..)
+* class [`A3DObject`](/3d/python-net/aspose.threed/a3dobject)
+* class [`Box`](/3d/python-net/aspose.threed.entities/box)
+* class [`Entity`](/3d/python-net/aspose.threed/entity)
+* class [`Primitive`](/3d/python-net/aspose.threed.entities/primitive)
+* class [`SceneObject`](/3d/python-net/aspose.threed/sceneobject)

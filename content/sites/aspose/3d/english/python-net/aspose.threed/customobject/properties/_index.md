@@ -20,6 +20,6 @@ def properties(self):
 ```
 
 ### See Also
-* module [aspose.threed](../../)
-* class [CustomObject](/3d/python-net/aspose.threed/customobject)
-* class [PropertyCollection](/3d/python-net/aspose.threed/propertycollection)
+* module [`aspose.threed`](../../)
+* class [`CustomObject`](/3d/python-net/aspose.threed/customobject)
+* class [`PropertyCollection`](/3d/python-net/aspose.threed/propertycollection)

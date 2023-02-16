@@ -14,5 +14,5 @@ is_root: false
 The infinite bounding box
 
 ### See Also
-* module [aspose.threed.utilities](../../)
-* class [BoundingBox2D](/3d/python-net/aspose.threed.utilities/boundingbox2d)
+* module [`aspose.threed.utilities`](../../)
+* class [`BoundingBox2D`](/3d/python-net/aspose.threed.utilities/boundingbox2d)

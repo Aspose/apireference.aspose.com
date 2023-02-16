@@ -22,6 +22,16 @@ public Node GetChild(int index)
 
 The child.
 
+### Examples
+
+The following code shows how to get a child node at specified index.
+
+```csharp
+Scene scene = Scene.FromFile("input.fbx");
+var node = scene.RootNode.GetChild(0);
+Console.WriteLine($"The first node of the file is {node.Name}");
+```
+
 ### See Also
 
 * class [Node](../../node)
@@ -45,6 +55,16 @@ public Node GetChild(string nodeName)
 ### Return Value
 
 The child.
+
+### Examples
+
+The following code shows how to get a child node with specified name
+
+```csharp
+Scene scene = Scene.FromFile("input.fbx");
+var node = scene.RootNode.GetChild("box");
+Console.WriteLine($"The box node's translation is {node.Transform.Translation}");
+```
 
 ### See Also
 

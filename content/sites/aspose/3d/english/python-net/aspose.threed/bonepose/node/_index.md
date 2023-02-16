@@ -23,6 +23,6 @@ def node(self, value):
 ```
 
 ### See Also
-* module [aspose.threed](../../)
-* class [BonePose](/3d/python-net/aspose.threed/bonepose)
-* class [Node](/3d/python-net/aspose.threed/node)
+* module [`aspose.threed`](../../)
+* class [`BonePose`](/3d/python-net/aspose.threed/bonepose)
+* class [`Node`](/3d/python-net/aspose.threed/node)

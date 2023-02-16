@@ -14,8 +14,8 @@ The compiled shader in SPIR-V format.
 
 
 
-**Inheritance:** [SPIRVSource](/3d/python-net/aspose.threed.render/spirvsource) → 
-[ShaderSource](/3d/python-net/aspose.threed.render/shadersource)
+**Inheritance:** [`SPIRVSource`](/3d/python-net/aspose.threed.render/spirvsource) → 
+[`ShaderSource`](/3d/python-net/aspose.threed.render/shadersource)
 
 
 
@@ -39,6 +39,6 @@ The SPIRVSource type exposes the following members:
 
 
 ### See Also
-* module [aspose.threed.render](..)
-* class [SPIRVSource](/3d/python-net/aspose.threed.render/spirvsource)
-* class [ShaderSource](/3d/python-net/aspose.threed.render/shadersource)
+* module [`aspose.threed.render`](..)
+* class [`SPIRVSource`](/3d/python-net/aspose.threed.render/spirvsource)
+* class [`ShaderSource`](/3d/python-net/aspose.threed.render/shadersource)

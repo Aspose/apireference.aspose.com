@@ -23,5 +23,5 @@ def height(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [LinearExtrusion](/3d/python-net/aspose.threed.entities/linearextrusion)
+* module [`aspose.threed.entities`](../../)
+* class [`LinearExtrusion`](/3d/python-net/aspose.threed.entities/linearextrusion)

@@ -23,6 +23,6 @@ def emissive_color(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.shading](../../)
-* class [PbrSpecularMaterial](/3d/python-net/aspose.threed.shading/pbrspecularmaterial)
-* class [Vector3](/3d/python-net/aspose.threed.utilities/vector3)
+* module [`aspose.threed.shading`](../../)
+* class [`PbrSpecularMaterial`](/3d/python-net/aspose.threed.shading/pbrspecularmaterial)
+* class [`Vector3`](/3d/python-net/aspose.threed.utilities/vector3)

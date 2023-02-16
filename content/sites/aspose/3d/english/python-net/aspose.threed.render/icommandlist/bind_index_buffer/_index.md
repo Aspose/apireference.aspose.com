@@ -22,10 +22,10 @@ def bind_index_buffer(self, index_buffer):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| index_buffer | [IIndexBuffer](/3d/python-net/aspose.threed.render/iindexbuffer) |  |
+| index_buffer | [`IIndexBuffer`](/3d/python-net/aspose.threed.render/iindexbuffer) |  |
 
 
 
 ### See Also
-* module [aspose.threed.render](../../)
-* class [ICommandList](/3d/python-net/aspose.threed.render/icommandlist)
+* module [`aspose.threed.render`](../../)
+* class [`ICommandList`](/3d/python-net/aspose.threed.render/icommandlist)

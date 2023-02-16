@@ -16,7 +16,14 @@ public Vector3 AmbientColor { get; set; }
 
 ### Property Value
 
-The ambient.
+The
+
+```csharp
+var mat = new LambertMaterial();
+mat.AmbientColor = new Vector3(1, 1, 1);
+```
+
+ambient.
 
 ### See Also
 

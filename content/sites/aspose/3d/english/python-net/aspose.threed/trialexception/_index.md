@@ -20,7 +20,7 @@ The TrialException type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [TrialException(msg)](/3d/python-net/aspose.threed/trialexception/__init__/#str) | Constructor of [TrialException](/3d/python-net/aspose.threed/trialexception) |
+| [TrialException(msg)](/3d/python-net/aspose.threed/trialexception/__init__/#str) | Constructor of [`TrialException`](/3d/python-net/aspose.threed/trialexception) |
 
 
 ### Properties
@@ -31,5 +31,5 @@ The TrialException type exposes the following members:
 
 
 ### See Also
-* module [aspose.threed](..)
-* class [TrialException](/3d/python-net/aspose.threed/trialexception)
+* module [`aspose.threed`](..)
+* class [`TrialException`](/3d/python-net/aspose.threed/trialexception)

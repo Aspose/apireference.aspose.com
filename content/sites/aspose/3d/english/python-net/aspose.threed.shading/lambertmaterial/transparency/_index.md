@@ -25,5 +25,5 @@ def transparency(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.shading](../../)
-* class [LambertMaterial](/3d/python-net/aspose.threed.shading/lambertmaterial)
+* module [`aspose.threed.shading`](../../)
+* class [`LambertMaterial`](/3d/python-net/aspose.threed.shading/lambertmaterial)

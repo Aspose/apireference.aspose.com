@@ -14,11 +14,11 @@ Parameterized rectangular torus.
 
 
 
-**Inheritance:** [RectangularTorus](/3d/python-net/aspose.threed.entities/rectangulartorus) → 
-[Primitive](/3d/python-net/aspose.threed.entities/primitive) → 
-[Entity](/3d/python-net/aspose.threed/entity) → 
-[SceneObject](/3d/python-net/aspose.threed/sceneobject) → 
-[A3DObject](/3d/python-net/aspose.threed/a3dobject)
+**Inheritance:** [`RectangularTorus`](/3d/python-net/aspose.threed.entities/rectangulartorus) → 
+[`Primitive`](/3d/python-net/aspose.threed.entities/primitive) → 
+[`Entity`](/3d/python-net/aspose.threed/entity) → 
+[`SceneObject`](/3d/python-net/aspose.threed/sceneobject) → 
+[`A3DObject`](/3d/python-net/aspose.threed/a3dobject)
 
 
 
@@ -27,8 +27,8 @@ The RectangularTorus type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [RectangularTorus()](/3d/python-net/aspose.threed.entities/rectangulartorus/__init__/#) | Constructor of [RectangularTorus](/3d/python-net/aspose.threed.entities/rectangulartorus) |
-| [RectangularTorus(name)](/3d/python-net/aspose.threed.entities/rectangulartorus/__init__/#str) | Constructor of [RectangularTorus](/3d/python-net/aspose.threed.entities/rectangulartorus) |
+| [RectangularTorus()](/3d/python-net/aspose.threed.entities/rectangulartorus/__init__/#) | Constructor of [`RectangularTorus`](/3d/python-net/aspose.threed.entities/rectangulartorus) |
+| [RectangularTorus(name)](/3d/python-net/aspose.threed.entities/rectangulartorus/__init__/#str) | Constructor of [`RectangularTorus`](/3d/python-net/aspose.threed.entities/rectangulartorus) |
 
 
 ### Properties
@@ -60,15 +60,15 @@ The RectangularTorus type exposes the following members:
 | [find_property(property_name)](/3d/python-net/aspose.threed.entities/rectangulartorus/find_property/#str) | Finds the property.<br/>It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) <br/>or native property(Identified by its name) |
 | [get_bounding_box()](/3d/python-net/aspose.threed.entities/rectangulartorus/get_bounding_box/#) | Gets the bounding box of current entity in its object space coordinate system. |
 | [get_entity_renderer_key()](/3d/python-net/aspose.threed.entities/rectangulartorus/get_entity_renderer_key/#) | Gets the key of the entity renderer registered in the renderer |
-| [to_mesh()](/3d/python-net/aspose.threed.entities/rectangulartorus/to_mesh/#) | Convert this primitive to [Mesh](/3d/python-net/aspose.threed.entities/mesh) |
+| [to_mesh()](/3d/python-net/aspose.threed.entities/rectangulartorus/to_mesh/#) | Convert this primitive to [`Mesh`](/3d/python-net/aspose.threed.entities/mesh) |
 
 
 
 ### See Also
-* module [aspose.threed.entities](..)
-* class [A3DObject](/3d/python-net/aspose.threed/a3dobject)
-* class [Entity](/3d/python-net/aspose.threed/entity)
-* class [Mesh](/3d/python-net/aspose.threed.entities/mesh)
-* class [Primitive](/3d/python-net/aspose.threed.entities/primitive)
-* class [RectangularTorus](/3d/python-net/aspose.threed.entities/rectangulartorus)
-* class [SceneObject](/3d/python-net/aspose.threed/sceneobject)
+* module [`aspose.threed.entities`](..)
+* class [`A3DObject`](/3d/python-net/aspose.threed/a3dobject)
+* class [`Entity`](/3d/python-net/aspose.threed/entity)
+* class [`Mesh`](/3d/python-net/aspose.threed.entities/mesh)
+* class [`Primitive`](/3d/python-net/aspose.threed.entities/primitive)
+* class [`RectangularTorus`](/3d/python-net/aspose.threed.entities/rectangulartorus)
+* class [`SceneObject`](/3d/python-net/aspose.threed/sceneobject)

@@ -20,5 +20,5 @@ def extensions(self):
 ```
 
 ### See Also
-* module [aspose.threed.formats](../../)
-* class [PlyFormat](/3d/python-net/aspose.threed.formats/plyformat)
+* module [`aspose.threed.formats`](../../)
+* class [`PlyFormat`](/3d/python-net/aspose.threed.formats/plyformat)

@@ -23,6 +23,6 @@ def parent_node(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [Node](/3d/python-net/aspose.threed/node)
-* class [PointCloud](/3d/python-net/aspose.threed.entities/pointcloud)
+* module [`aspose.threed.entities`](../../)
+* class [`Node`](/3d/python-net/aspose.threed/node)
+* class [`PointCloud`](/3d/python-net/aspose.threed.entities/pointcloud)

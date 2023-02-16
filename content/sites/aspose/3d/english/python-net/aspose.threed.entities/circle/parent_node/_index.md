@@ -23,6 +23,6 @@ def parent_node(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [Circle](/3d/python-net/aspose.threed.entities/circle)
-* class [Node](/3d/python-net/aspose.threed/node)
+* module [`aspose.threed.entities`](../../)
+* class [`Circle`](/3d/python-net/aspose.threed.entities/circle)
+* class [`Node`](/3d/python-net/aspose.threed/node)

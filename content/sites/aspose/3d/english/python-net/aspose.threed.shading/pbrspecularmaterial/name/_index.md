@@ -23,5 +23,5 @@ def name(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.shading](../../)
-* class [PbrSpecularMaterial](/3d/python-net/aspose.threed.shading/pbrspecularmaterial)
+* module [`aspose.threed.shading`](../../)
+* class [`PbrSpecularMaterial`](/3d/python-net/aspose.threed.shading/pbrspecularmaterial)

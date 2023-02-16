@@ -32,6 +32,6 @@ def transform_matrix(self):
 ```
 
 ### See Also
-* module [aspose.threed](../../)
-* class [GlobalTransform](/3d/python-net/aspose.threed/globaltransform)
-* class [Matrix4](/3d/python-net/aspose.threed.utilities/matrix4)
+* module [`aspose.threed`](../../)
+* class [`GlobalTransform`](/3d/python-net/aspose.threed/globaltransform)
+* class [`Matrix4`](/3d/python-net/aspose.threed.utilities/matrix4)

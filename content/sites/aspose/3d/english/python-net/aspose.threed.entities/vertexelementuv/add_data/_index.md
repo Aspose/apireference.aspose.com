@@ -44,5 +44,5 @@ def add_data(self, data):
 
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [VertexElementUV](/3d/python-net/aspose.threed.entities/vertexelementuv)
+* module [`aspose.threed.entities`](../../)
+* class [`VertexElementUV`](/3d/python-net/aspose.threed.entities/vertexelementuv)

@@ -61,7 +61,7 @@ def render(self, camera, bitmap, options):
 | :- | :- | :- |
 | camera | aspose.threed.entities.Camera | From which camera's perspective to render the scene |
 | bitmap | aspose.pydrawing.Bitmap | Target of the rendered result |
-| options | [ImageRenderOptions](/3d/python-net/aspose.threed/imagerenderoptions) | The option to customize some internal settings. |
+| options | [`ImageRenderOptions`](/3d/python-net/aspose.threed/imagerenderoptions) | The option to customize some internal settings. |
 
 
 ## render(camera, file_name, size, format) {#aspose.threed.entities.Camera-str-aspose.pydrawing.Size-aspose.pydrawing.imaging.ImageFormat}
@@ -102,10 +102,10 @@ def render(self, camera, file_name, size, format, options):
 | file_name | str | The file name of output file |
 | size | aspose.pydrawing.Size | The size of final rendered image |
 | format | aspose.pydrawing.imaging.ImageFormat | The image format of the output file |
-| options | [ImageRenderOptions](/3d/python-net/aspose.threed/imagerenderoptions) | The option to customize some internal settings. |
+| options | [`ImageRenderOptions`](/3d/python-net/aspose.threed/imagerenderoptions) | The option to customize some internal settings. |
 
 
 
 ### See Also
-* module [aspose.threed](../../)
-* class [Scene](/3d/python-net/aspose.threed/scene)
+* module [`aspose.threed`](../../)
+* class [`Scene`](/3d/python-net/aspose.threed/scene)

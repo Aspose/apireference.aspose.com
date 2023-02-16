@@ -14,9 +14,9 @@ Save options for STL
 
 
 
-**Inheritance:** [StlSaveOptions](/3d/python-net/aspose.threed.formats/stlsaveoptions) → 
-[SaveOptions](/3d/python-net/aspose.threed.formats/saveoptions) → 
-[IOConfig](/3d/python-net/aspose.threed.formats/ioconfig)
+**Inheritance:** [`StlSaveOptions`](/3d/python-net/aspose.threed.formats/stlsaveoptions) → 
+[`SaveOptions`](/3d/python-net/aspose.threed.formats/saveoptions) → 
+[`IOConfig`](/3d/python-net/aspose.threed.formats/ioconfig)
 
 
 
@@ -25,8 +25,8 @@ The StlSaveOptions type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [StlSaveOptions()](/3d/python-net/aspose.threed.formats/stlsaveoptions/__init__/#) | Initializes of a new [StlSaveOptions](/3d/python-net/aspose.threed.formats/stlsaveoptions) instance. |
-| [StlSaveOptions(content_type)](/3d/python-net/aspose.threed.formats/stlsaveoptions/__init__/#FileContentType) | Initializes of a new [StlSaveOptions](/3d/python-net/aspose.threed.formats/stlsaveoptions) instance. |
+| [StlSaveOptions()](/3d/python-net/aspose.threed.formats/stlsaveoptions/__init__/#) | Initializes of a new [`StlSaveOptions`](/3d/python-net/aspose.threed.formats/stlsaveoptions) instance. |
+| [StlSaveOptions(content_type)](/3d/python-net/aspose.threed.formats/stlsaveoptions/__init__/#FileContentType) | Initializes of a new [`StlSaveOptions`](/3d/python-net/aspose.threed.formats/stlsaveoptions) instance. |
 
 
 ### Properties
@@ -42,7 +42,7 @@ The StlSaveOptions type exposes the following members:
 
 
 ### See Also
-* module [aspose.threed.formats](..)
-* class [IOConfig](/3d/python-net/aspose.threed.formats/ioconfig)
-* class [SaveOptions](/3d/python-net/aspose.threed.formats/saveoptions)
-* class [StlSaveOptions](/3d/python-net/aspose.threed.formats/stlsaveoptions)
+* module [`aspose.threed.formats`](..)
+* class [`IOConfig`](/3d/python-net/aspose.threed.formats/ioconfig)
+* class [`SaveOptions`](/3d/python-net/aspose.threed.formats/saveoptions)
+* class [`StlSaveOptions`](/3d/python-net/aspose.threed.formats/stlsaveoptions)

@@ -100,7 +100,7 @@ def create_child_node(self, entity):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| entity | [Entity](/3d/python-net/aspose.threed/entity) | Default entity attached to the node |
+| entity | [`Entity`](/3d/python-net/aspose.threed/entity) | Default entity attached to the node |
 
 ### Example 
 
@@ -138,7 +138,7 @@ def create_child_node(self, node_name, entity):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | node_name | str | The new child node's name |
-| entity | [Entity](/3d/python-net/aspose.threed/entity) | Default entity attached to the node |
+| entity | [`Entity`](/3d/python-net/aspose.threed/entity) | Default entity attached to the node |
 
 
 ## create_child_node(node_name, entity, material) {#str-Entity-aspose.threed.shading.Material}
@@ -161,11 +161,11 @@ def create_child_node(self, node_name, entity, material):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | node_name | str | The new child node's name |
-| entity | [Entity](/3d/python-net/aspose.threed/entity) | Default entity attached to the node |
+| entity | [`Entity`](/3d/python-net/aspose.threed/entity) | Default entity attached to the node |
 | material | aspose.threed.shading.Material | The material attached to the node |
 
 
 
 ### See Also
-* module [aspose.threed](../../)
-* class [Node](/3d/python-net/aspose.threed/node)
+* module [`aspose.threed`](../../)
+* class [`Node`](/3d/python-net/aspose.threed/node)

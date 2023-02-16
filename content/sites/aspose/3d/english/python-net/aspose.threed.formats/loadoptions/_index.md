@@ -14,8 +14,8 @@ The base class to configure options in file loading for different types
 
 
 
-**Inheritance:** [LoadOptions](/3d/python-net/aspose.threed.formats/loadoptions) → 
-[IOConfig](/3d/python-net/aspose.threed.formats/ioconfig)
+**Inheritance:** [`LoadOptions`](/3d/python-net/aspose.threed.formats/loadoptions) → 
+[`IOConfig`](/3d/python-net/aspose.threed.formats/ioconfig)
 
 
 
@@ -33,6 +33,6 @@ The LoadOptions type exposes the following members:
 
 
 ### See Also
-* module [aspose.threed.formats](..)
-* class [IOConfig](/3d/python-net/aspose.threed.formats/ioconfig)
-* class [LoadOptions](/3d/python-net/aspose.threed.formats/loadoptions)
+* module [`aspose.threed.formats`](..)
+* class [`IOConfig`](/3d/python-net/aspose.threed.formats/ioconfig)
+* class [`LoadOptions`](/3d/python-net/aspose.threed.formats/loadoptions)

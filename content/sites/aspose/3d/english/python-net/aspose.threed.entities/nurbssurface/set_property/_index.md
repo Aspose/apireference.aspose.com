@@ -28,5 +28,5 @@ def set_property(self, property, value):
 
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [NurbsSurface](/3d/python-net/aspose.threed.entities/nurbssurface)
+* module [`aspose.threed.entities`](../../)
+* class [`NurbsSurface`](/3d/python-net/aspose.threed.entities/nurbssurface)

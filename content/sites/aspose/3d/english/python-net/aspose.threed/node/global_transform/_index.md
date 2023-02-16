@@ -39,6 +39,6 @@ def global_transform(self):
 ```
 
 ### See Also
-* module [aspose.threed](../../)
-* class [GlobalTransform](/3d/python-net/aspose.threed/globaltransform)
-* class [Node](/3d/python-net/aspose.threed/node)
+* module [`aspose.threed`](../../)
+* class [`GlobalTransform`](/3d/python-net/aspose.threed/globaltransform)
+* class [`Node`](/3d/python-net/aspose.threed/node)

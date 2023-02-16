@@ -10,7 +10,7 @@ is_root: false
 
 ## make_default_indices() {#}
 
-Generate the sequence 0,1,2,3....[Geometry.control_points](/3d/python-net/aspose.threed.entities/geometry#control_points).Length-1 to [Line.segments](/3d/python-net/aspose.threed.entities/line#segments) so the ControlPoints can be used as a single line
+Generate the sequence 0,1,2,3....[`Geometry.control_points`](/3d/python-net/aspose.threed.entities/geometry#control_points).Length-1 to [`Line.segments`](/3d/python-net/aspose.threed.entities/line#segments) so the ControlPoints can be used as a single line
 
 
 
@@ -24,5 +24,5 @@ def make_default_indices(self):
 
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [Line](/3d/python-net/aspose.threed.entities/line)
+* module [`aspose.threed.entities`](../../)
+* class [`Line`](/3d/python-net/aspose.threed.entities/line)

@@ -10,7 +10,7 @@ is_root: false
 
 ## NurbsSurface() {#}
 
-Initializes a new instance of the [NurbsSurface](/3d/python-net/aspose.threed.entities/nurbssurface) class.
+Initializes a new instance of the [`NurbsSurface`](/3d/python-net/aspose.threed.entities/nurbssurface) class.
 
 
 
@@ -24,7 +24,7 @@ def __init__(self):
 
 ## NurbsSurface(name) {#str}
 
-Initializes a new instance of the [NurbsSurface](/3d/python-net/aspose.threed.entities/nurbssurface) class.
+Initializes a new instance of the [`NurbsSurface`](/3d/python-net/aspose.threed.entities/nurbssurface) class.
 
 
 
@@ -41,5 +41,5 @@ def __init__(self, name):
 
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [NurbsSurface](/3d/python-net/aspose.threed.entities/nurbssurface)
+* module [`aspose.threed.entities`](../../)
+* class [`NurbsSurface`](/3d/python-net/aspose.threed.entities/nurbssurface)

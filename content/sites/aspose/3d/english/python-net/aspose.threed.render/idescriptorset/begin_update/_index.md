@@ -29,5 +29,5 @@ def begin_update(self):
 
 
 ### See Also
-* module [aspose.threed.render](../../)
-* class [IDescriptorSet](/3d/python-net/aspose.threed.render/idescriptorset)
+* module [`aspose.threed.render`](../../)
+* class [`IDescriptorSet`](/3d/python-net/aspose.threed.render/idescriptorset)

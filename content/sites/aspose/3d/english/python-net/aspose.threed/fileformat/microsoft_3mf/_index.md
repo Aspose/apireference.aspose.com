@@ -14,5 +14,5 @@ is_root: false
 Microsoft 3D Manufacturing Format
 
 ### See Also
-* module [aspose.threed](../../)
-* class [FileFormat](/3d/python-net/aspose.threed/fileformat)
+* module [`aspose.threed`](../../)
+* class [`FileFormat`](/3d/python-net/aspose.threed/fileformat)

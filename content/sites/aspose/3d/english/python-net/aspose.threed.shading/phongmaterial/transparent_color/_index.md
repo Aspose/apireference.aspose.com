@@ -23,6 +23,6 @@ def transparent_color(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.shading](../../)
-* class [PhongMaterial](/3d/python-net/aspose.threed.shading/phongmaterial)
-* class [Vector3](/3d/python-net/aspose.threed.utilities/vector3)
+* module [`aspose.threed.shading`](../../)
+* class [`PhongMaterial`](/3d/python-net/aspose.threed.shading/phongmaterial)
+* class [`Vector3`](/3d/python-net/aspose.threed.utilities/vector3)

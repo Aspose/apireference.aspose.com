@@ -18,6 +18,15 @@ public AssetInfo AssetInfo { get; set; }
 
 The document info.
 
+### Examples
+
+The following code shows how to read the application information from a FBX file:
+
+```csharp
+Scene scene = Scene.FromFile("test.fbx");
+Console.WriteLine($"The FBX file is created by {scene.AssetInfo.ApplicationName} {scene.AssetInfo.ApplicationVersion}");
+```
+
 ### See Also
 
 * class [AssetInfo](../../assetinfo)

@@ -27,10 +27,10 @@ def compare_to(self, other):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| other | [RenderState](/3d/python-net/aspose.threed.render/renderstate) |  |
+| other | [`RenderState`](/3d/python-net/aspose.threed.render/renderstate) |  |
 
 
 
 ### See Also
-* module [aspose.threed.render](../../)
-* class [RenderState](/3d/python-net/aspose.threed.render/renderstate)
+* module [`aspose.threed.render`](../../)
+* class [`RenderState`](/3d/python-net/aspose.threed.render/renderstate)

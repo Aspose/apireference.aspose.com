@@ -10,7 +10,7 @@ is_root: false
 
 ## Cylinder() {#}
 
-Initializes a new instance of the [Cylinder](/3d/python-net/aspose.threed.entities/cylinder) class.
+Initializes a new instance of the [`Cylinder`](/3d/python-net/aspose.threed.entities/cylinder) class.
 
 
 
@@ -24,7 +24,7 @@ def __init__(self):
 
 ## Cylinder(radius, height) {#float-float}
 
-Initializes a new instance of the [Cylinder](/3d/python-net/aspose.threed.entities/cylinder) class.
+Initializes a new instance of the [`Cylinder`](/3d/python-net/aspose.threed.entities/cylinder) class.
 
 
 
@@ -42,7 +42,7 @@ def __init__(self, radius, height):
 
 ## Cylinder(radius_top, radius_bottom, height) {#float-float-float}
 
-Initializes a new instance of the [Cylinder](/3d/python-net/aspose.threed.entities/cylinder) class.
+Initializes a new instance of the [`Cylinder`](/3d/python-net/aspose.threed.entities/cylinder) class.
 
 
 
@@ -61,7 +61,7 @@ def __init__(self, radius_top, radius_bottom, height):
 
 ## Cylinder(radius_top, radius_bottom, height, radial_segments, height_segments, open_ended) {#float-float-float-int-int-bool}
 
-Initializes a new instance of the [Cylinder](/3d/python-net/aspose.threed.entities/cylinder) class.
+Initializes a new instance of the [`Cylinder`](/3d/python-net/aspose.threed.entities/cylinder) class.
 
 
 
@@ -83,7 +83,7 @@ def __init__(self, radius_top, radius_bottom, height, radial_segments, height_se
 
 ## Cylinder(name, radius_top, radius_bottom, height, radial_segments, height_segments, open_ended, theta_start, theta_length) {#str-float-float-float-int-int-bool-float-float}
 
-Initializes a new instance of the [Cylinder](/3d/python-net/aspose.threed.entities/cylinder) class.
+Initializes a new instance of the [`Cylinder`](/3d/python-net/aspose.threed.entities/cylinder) class.
 
 
 
@@ -108,5 +108,5 @@ def __init__(self, name, radius_top, radius_bottom, height, radial_segments, hei
 
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [Cylinder](/3d/python-net/aspose.threed.entities/cylinder)
+* module [`aspose.threed.entities`](../../)
+* class [`Cylinder`](/3d/python-net/aspose.threed.entities/cylinder)

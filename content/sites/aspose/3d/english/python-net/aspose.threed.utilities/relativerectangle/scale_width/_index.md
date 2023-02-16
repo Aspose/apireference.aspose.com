@@ -23,5 +23,5 @@ def scale_width(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.utilities](../../)
-* class [RelativeRectangle](/3d/python-net/aspose.threed.utilities/relativerectangle)
+* module [`aspose.threed.utilities`](../../)
+* class [`RelativeRectangle`](/3d/python-net/aspose.threed.utilities/relativerectangle)

@@ -14,9 +14,9 @@ Options for PDF loading
 
 
 
-**Inheritance:** [PdfLoadOptions](/3d/python-net/aspose.threed.formats/pdfloadoptions) → 
-[LoadOptions](/3d/python-net/aspose.threed.formats/loadoptions) → 
-[IOConfig](/3d/python-net/aspose.threed.formats/ioconfig)
+**Inheritance:** [`PdfLoadOptions`](/3d/python-net/aspose.threed.formats/pdfloadoptions) → 
+[`LoadOptions`](/3d/python-net/aspose.threed.formats/loadoptions) → 
+[`IOConfig`](/3d/python-net/aspose.threed.formats/ioconfig)
 
 
 
@@ -25,7 +25,7 @@ The PdfLoadOptions type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [PdfLoadOptions()](/3d/python-net/aspose.threed.formats/pdfloadoptions/__init__/#) | Constructor of [PdfLoadOptions](/3d/python-net/aspose.threed.formats/pdfloadoptions) |
+| [PdfLoadOptions()](/3d/python-net/aspose.threed.formats/pdfloadoptions/__init__/#) | Constructor of [`PdfLoadOptions`](/3d/python-net/aspose.threed.formats/pdfloadoptions) |
 
 
 ### Properties
@@ -41,7 +41,7 @@ The PdfLoadOptions type exposes the following members:
 
 
 ### See Also
-* module [aspose.threed.formats](..)
-* class [IOConfig](/3d/python-net/aspose.threed.formats/ioconfig)
-* class [LoadOptions](/3d/python-net/aspose.threed.formats/loadoptions)
-* class [PdfLoadOptions](/3d/python-net/aspose.threed.formats/pdfloadoptions)
+* module [`aspose.threed.formats`](..)
+* class [`IOConfig`](/3d/python-net/aspose.threed.formats/ioconfig)
+* class [`LoadOptions`](/3d/python-net/aspose.threed.formats/loadoptions)
+* class [`PdfLoadOptions`](/3d/python-net/aspose.threed.formats/pdfloadoptions)

@@ -11,7 +11,7 @@ is_root: false
 ## field_of_view property
 
 
-Gets or sets the camera's field of view in degrees, this property is used only when ApertureMode is [ApertureMode.HORIZONTAL](/3d/python-net/aspose.threed.entities/aperturemode#HORIZONTAL) or [ApertureMode.VERTICAL](/3d/python-net/aspose.threed.entities/aperturemode#VERTICAL)
+Gets or sets the camera's field of view in degrees, this property is used only when ApertureMode is [`ApertureMode.HORIZONTAL`](/3d/python-net/aspose.threed.entities/aperturemode#HORIZONTAL) or [`ApertureMode.VERTICAL`](/3d/python-net/aspose.threed.entities/aperturemode#VERTICAL)
 ### Definition:
 ```python
 @property
@@ -23,5 +23,5 @@ def field_of_view(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [Camera](/3d/python-net/aspose.threed.entities/camera)
+* module [`aspose.threed.entities`](../../)
+* class [`Camera`](/3d/python-net/aspose.threed.entities/camera)

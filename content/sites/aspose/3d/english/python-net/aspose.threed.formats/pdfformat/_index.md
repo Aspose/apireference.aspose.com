@@ -14,8 +14,8 @@ Adobe's Portable Document Format
 
 
 
-**Inheritance:** [PdfFormat](/3d/python-net/aspose.threed.formats/pdfformat) → 
-[FileFormat](/3d/python-net/aspose.threed/fileformat)
+**Inheritance:** [`PdfFormat`](/3d/python-net/aspose.threed.formats/pdfformat) → 
+[`FileFormat`](/3d/python-net/aspose.threed/fileformat)
 
 
 
@@ -97,6 +97,6 @@ The PdfFormat type exposes the following members:
 
 
 ### See Also
-* module [aspose.threed.formats](..)
-* class [FileFormat](/3d/python-net/aspose.threed/fileformat)
-* class [PdfFormat](/3d/python-net/aspose.threed.formats/pdfformat)
+* module [`aspose.threed.formats`](..)
+* class [`FileFormat`](/3d/python-net/aspose.threed/fileformat)
+* class [`PdfFormat`](/3d/python-net/aspose.threed.formats/pdfformat)

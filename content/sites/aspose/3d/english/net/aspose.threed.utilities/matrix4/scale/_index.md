@@ -18,6 +18,16 @@ public static Matrix4 Scale(Vector3 s)
 | --- | --- | --- |
 | s | Vector3 | Scaling factories applies to the x-axis, the y-axis and the z-axis |
 
+### Examples
+
+The following code shows how to create a matrix for scale operation.
+
+```csharp
+var t = Matrix4.Scale(new Vector3(10, 10, 10));
+var pos = new Vector3(1, 1, 10);
+Console.WriteLine($"Transformed: {t * pos}");
+```
+
 ### See Also
 
 * struct [Vector3](../../vector3)
@@ -38,6 +48,16 @@ public static Matrix4 Scale(double s)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | s | Double | Scaling factories applies to all axex |
+
+### Examples
+
+The following code shows how to create a matrix for scale operation.
+
+```csharp
+var t = Matrix4.Scale(10);
+var pos = new Vector3(1, 1, 10);
+Console.WriteLine($"Transformed: {t * pos}");
+```
 
 ### See Also
 
@@ -60,6 +80,16 @@ public static Matrix4 Scale(double sx, double sy, double sz)
 | sx | Double | Scaling factories applies to the x-axis |
 | sy | Double | Scaling factories applies to the y-axis |
 | sz | Double | Scaling factories applies to the z-axis |
+
+### Examples
+
+The following code shows how to create a matrix for scale operation.
+
+```csharp
+var t = Matrix4.Scale(10, 20, 10);
+var pos = new Vector3(1, 1, 10);
+Console.WriteLine($"Transformed: {t * pos}");
+```
 
 ### See Also
 

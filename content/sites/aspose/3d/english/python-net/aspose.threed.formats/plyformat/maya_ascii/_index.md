@@ -14,5 +14,5 @@ is_root: false
 Autodesk Maya in ASCII format
 
 ### See Also
-* module [aspose.threed.formats](../../)
-* class [PlyFormat](/3d/python-net/aspose.threed.formats/plyformat)
+* module [`aspose.threed.formats`](../../)
+* class [`PlyFormat`](/3d/python-net/aspose.threed.formats/plyformat)

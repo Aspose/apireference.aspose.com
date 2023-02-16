@@ -19,8 +19,8 @@ The FVector2 type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [FVector2(x, y)](/3d/python-net/aspose.threed.utilities/fvector2/__init__/#float-float) | Initializes a new instance of the [FVector2](/3d/python-net/aspose.threed.utilities/fvector2). |
-| [FVector2(vec)](/3d/python-net/aspose.threed.utilities/fvector2/__init__/#Vector2) | Initializes a new instance of the [FVector2](/3d/python-net/aspose.threed.utilities/fvector2). |
+| [FVector2(x, y)](/3d/python-net/aspose.threed.utilities/fvector2/__init__/#float-float) | Initializes a new instance of the [`FVector2`](/3d/python-net/aspose.threed.utilities/fvector2). |
+| [FVector2(vec)](/3d/python-net/aspose.threed.utilities/fvector2/__init__/#Vector2) | Initializes a new instance of the [`FVector2`](/3d/python-net/aspose.threed.utilities/fvector2). |
 | [FVector2()](/3d/python-net/aspose.threed.utilities/fvector2/__init__/#) | Constructs a new instance of FVector2 |
 
 
@@ -39,5 +39,5 @@ The FVector2 type exposes the following members:
 
 
 ### See Also
-* module [aspose.threed.utilities](..)
-* class [FVector2](/3d/python-net/aspose.threed.utilities/fvector2)
+* module [`aspose.threed.utilities`](..)
+* class [`FVector2`](/3d/python-net/aspose.threed.utilities/fvector2)

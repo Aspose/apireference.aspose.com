@@ -14,6 +14,13 @@ Gets or sets the post-rotation represented in degree
 public Vector3 PostRotation { get; set; }
 ```
 
+### Examples
+
+```csharp
+Node node = new Node();
+node.Transform.PostRotation = new Vector3(90, 0, 0);
+```
+
 ### See Also
 
 * struct [Vector3](../../../aspose.threed.utilities/vector3)

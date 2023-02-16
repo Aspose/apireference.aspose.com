@@ -50,6 +50,17 @@ public class Transform : A3DObject
 | [SetScale](../../aspose.threed/transform/setscale)(double, double, double) | Sets the scale of current transform. |
 | [SetTranslation](../../aspose.threed/transform/settranslation)(double, double, double) | Sets the translation of current transform. |
 
+### Examples
+
+The following code shows how to change the transform of the node:
+
+```csharp
+Scene scene = new Scene();
+var boxNode = scene.RootNode.CreateChildNode(new Box());
+//place the box at (10, 0, 0)
+boxNode.Transform.Translation = new Vector3(10, 0, 0);
+```
+
 ### See Also
 
 * class [A3DObject](../a3dobject)

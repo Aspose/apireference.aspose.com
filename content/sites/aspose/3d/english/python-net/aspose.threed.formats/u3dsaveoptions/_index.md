@@ -14,9 +14,9 @@ Save options for universal 3d
 
 
 
-**Inheritance:** [U3dSaveOptions](/3d/python-net/aspose.threed.formats/u3dsaveoptions) → 
-[SaveOptions](/3d/python-net/aspose.threed.formats/saveoptions) → 
-[IOConfig](/3d/python-net/aspose.threed.formats/ioconfig)
+**Inheritance:** [`U3dSaveOptions`](/3d/python-net/aspose.threed.formats/u3dsaveoptions) → 
+[`SaveOptions`](/3d/python-net/aspose.threed.formats/saveoptions) → 
+[`IOConfig`](/3d/python-net/aspose.threed.formats/ioconfig)
 
 
 
@@ -25,7 +25,7 @@ The U3dSaveOptions type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [U3dSaveOptions()](/3d/python-net/aspose.threed.formats/u3dsaveoptions/__init__/#) | Constructor of [U3dSaveOptions](/3d/python-net/aspose.threed.formats/u3dsaveoptions) |
+| [U3dSaveOptions()](/3d/python-net/aspose.threed.formats/u3dsaveoptions/__init__/#) | Constructor of [`U3dSaveOptions`](/3d/python-net/aspose.threed.formats/u3dsaveoptions) |
 
 
 ### Properties
@@ -47,7 +47,7 @@ The U3dSaveOptions type exposes the following members:
 
 
 ### See Also
-* module [aspose.threed.formats](..)
-* class [IOConfig](/3d/python-net/aspose.threed.formats/ioconfig)
-* class [SaveOptions](/3d/python-net/aspose.threed.formats/saveoptions)
-* class [U3dSaveOptions](/3d/python-net/aspose.threed.formats/u3dsaveoptions)
+* module [`aspose.threed.formats`](..)
+* class [`IOConfig`](/3d/python-net/aspose.threed.formats/ioconfig)
+* class [`SaveOptions`](/3d/python-net/aspose.threed.formats/saveoptions)
+* class [`U3dSaveOptions`](/3d/python-net/aspose.threed.formats/u3dsaveoptions)

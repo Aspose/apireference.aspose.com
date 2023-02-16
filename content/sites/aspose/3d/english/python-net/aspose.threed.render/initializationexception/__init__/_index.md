@@ -10,7 +10,7 @@ is_root: false
 
 ## InitializationException() {#}
 
-Initialize an [InitializationException](/3d/python-net/aspose.threed.render/initializationexception) instance
+Initialize an [`InitializationException`](/3d/python-net/aspose.threed.render/initializationexception) instance
 
 
 
@@ -24,7 +24,7 @@ def __init__(self):
 
 ## InitializationException(msg) {#str}
 
-Initialize an [InitializationException](/3d/python-net/aspose.threed.render/initializationexception) instance with specified exception message.
+Initialize an [`InitializationException`](/3d/python-net/aspose.threed.render/initializationexception) instance with specified exception message.
 
 
 
@@ -41,5 +41,5 @@ def __init__(self, msg):
 
 
 ### See Also
-* module [aspose.threed.render](../../)
-* class [InitializationException](/3d/python-net/aspose.threed.render/initializationexception)
+* module [`aspose.threed.render`](../../)
+* class [`InitializationException`](/3d/python-net/aspose.threed.render/initializationexception)

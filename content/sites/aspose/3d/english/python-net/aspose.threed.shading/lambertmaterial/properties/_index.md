@@ -20,6 +20,6 @@ def properties(self):
 ```
 
 ### See Also
-* module [aspose.threed.shading](../../)
-* class [LambertMaterial](/3d/python-net/aspose.threed.shading/lambertmaterial)
-* class [PropertyCollection](/3d/python-net/aspose.threed/propertycollection)
+* module [`aspose.threed.shading`](../../)
+* class [`LambertMaterial`](/3d/python-net/aspose.threed.shading/lambertmaterial)
+* class [`PropertyCollection`](/3d/python-net/aspose.threed/propertycollection)

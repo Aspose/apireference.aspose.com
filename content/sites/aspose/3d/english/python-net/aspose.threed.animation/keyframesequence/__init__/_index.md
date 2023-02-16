@@ -10,7 +10,7 @@ is_root: false
 
 ## KeyframeSequence() {#}
 
-Initializes a new instance of the [KeyframeSequence](/3d/python-net/aspose.threed.animation/keyframesequence) class.
+Initializes a new instance of the [`KeyframeSequence`](/3d/python-net/aspose.threed.animation/keyframesequence) class.
 
 
 
@@ -24,7 +24,7 @@ def __init__(self):
 
 ## KeyframeSequence(name) {#str}
 
-Initializes a new instance of the [KeyframeSequence](/3d/python-net/aspose.threed.animation/keyframesequence) class.
+Initializes a new instance of the [`KeyframeSequence`](/3d/python-net/aspose.threed.animation/keyframesequence) class.
 
 
 
@@ -41,5 +41,5 @@ def __init__(self, name):
 
 
 ### See Also
-* module [aspose.threed.animation](../../)
-* class [KeyframeSequence](/3d/python-net/aspose.threed.animation/keyframesequence)
+* module [`aspose.threed.animation`](../../)
+* class [`KeyframeSequence`](/3d/python-net/aspose.threed.animation/keyframesequence)

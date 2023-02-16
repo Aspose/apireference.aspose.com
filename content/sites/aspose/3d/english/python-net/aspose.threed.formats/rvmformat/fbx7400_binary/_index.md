@@ -14,5 +14,5 @@ is_root: false
 Binary FBX file format, with 7.4.0 version
 
 ### See Also
-* module [aspose.threed.formats](../../)
-* class [RvmFormat](/3d/python-net/aspose.threed.formats/rvmformat)
+* module [`aspose.threed.formats`](../../)
+* class [`RvmFormat`](/3d/python-net/aspose.threed.formats/rvmformat)

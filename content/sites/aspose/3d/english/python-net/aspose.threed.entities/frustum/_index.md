@@ -10,14 +10,14 @@ is_root: false
 
 ## Frustum class
 
-The base class of [Camera](/3d/python-net/aspose.threed.entities/camera) and [Light](/3d/python-net/aspose.threed.entities/light)
+The base class of [`Camera`](/3d/python-net/aspose.threed.entities/camera) and [`Light`](/3d/python-net/aspose.threed.entities/light)
 
 
 
-**Inheritance:** [Frustum](/3d/python-net/aspose.threed.entities/frustum) → 
-[Entity](/3d/python-net/aspose.threed/entity) → 
-[SceneObject](/3d/python-net/aspose.threed/sceneobject) → 
-[A3DObject](/3d/python-net/aspose.threed/a3dobject)
+**Inheritance:** [`Frustum`](/3d/python-net/aspose.threed.entities/frustum) → 
+[`Entity`](/3d/python-net/aspose.threed/entity) → 
+[`SceneObject`](/3d/python-net/aspose.threed/sceneobject) → 
+[`A3DObject`](/3d/python-net/aspose.threed/a3dobject)
 
 
 
@@ -32,15 +32,15 @@ The Frustum type exposes the following members:
 | [parent_nodes](/3d/python-net/aspose.threed.entities/frustum/parent_nodes) | Gets all parent nodes, an entity can be attached to multiple parent nodes for geometry instancing |
 | [excluded](/3d/python-net/aspose.threed.entities/frustum/excluded) | Gets or sets whether to exclude this entity during exporting. |
 | [parent_node](/3d/python-net/aspose.threed.entities/frustum/parent_node) | Gets or sets the first parent node, if set the first parent node, this entity will be detached from other parent nodes. |
-| [rotation_mode](/3d/python-net/aspose.threed.entities/frustum/rotation_mode) | Gets or sets the frustum's orientation mode<br/>This property only works when the [Frustum.target](/3d/python-net/aspose.threed.entities/frustum#target) is null.<br/>If the value is [RotationMode.FIXED_TARGET](/3d/python-net/aspose.threed.entities/rotationmode#FIXED_TARGET), the direction is always calculated by the property [Frustum.look_at](/3d/python-net/aspose.threed.entities/frustum#look_at)<br/>Otherwise the [Frustum.look_at](/3d/python-net/aspose.threed.entities/frustum#look_at) is always calculated by the [Frustum.direction](/3d/python-net/aspose.threed.entities/frustum#direction) |
+| [rotation_mode](/3d/python-net/aspose.threed.entities/frustum/rotation_mode) | Gets or sets the frustum's orientation mode<br/>This property only works when the [`Frustum.target`](/3d/python-net/aspose.threed.entities/frustum#target) is null.<br/>If the value is [`RotationMode.FIXED_TARGET`](/3d/python-net/aspose.threed.entities/rotationmode#FIXED_TARGET), the direction is always calculated by the property [`Frustum.look_at`](/3d/python-net/aspose.threed.entities/frustum#look_at)<br/>Otherwise the [`Frustum.look_at`](/3d/python-net/aspose.threed.entities/frustum#look_at) is always calculated by the [`Frustum.direction`](/3d/python-net/aspose.threed.entities/frustum#direction) |
 | [near_plane](/3d/python-net/aspose.threed.entities/frustum/near_plane) | Gets or sets the frustum's near plane distance. |
 | [far_plane](/3d/python-net/aspose.threed.entities/frustum/far_plane) | Gets or sets the frustum's far plane distance. |
 | [aspect](/3d/python-net/aspose.threed.entities/frustum/aspect) | Gets or sets the aspect ratio of the frustum |
 | [ortho_height](/3d/python-net/aspose.threed.entities/frustum/ortho_height) | Gets or sets the height when frustum in orthographic projection. |
 | [up](/3d/python-net/aspose.threed.entities/frustum/up) | Gets or sets the up direction of the camera |
 | [look_at](/3d/python-net/aspose.threed.entities/frustum/look_at) | Gets or sets the the interested position that the camera is looking at. |
-| [direction](/3d/python-net/aspose.threed.entities/frustum/direction) | Gets or sets the direction that the camera is looking at.<br/>Changes on this property will also affects the [Frustum.look_at](/3d/python-net/aspose.threed.entities/frustum#look_at) and [Frustum.target](/3d/python-net/aspose.threed.entities/frustum#target). |
-| [target](/3d/python-net/aspose.threed.entities/frustum/target) | Gets or sets the target that the camera is looking at.<br/>If the user supports this property, it should be prior to [Frustum.look_at](/3d/python-net/aspose.threed.entities/frustum#look_at) property. |
+| [direction](/3d/python-net/aspose.threed.entities/frustum/direction) | Gets or sets the direction that the camera is looking at.<br/>Changes on this property will also affects the [`Frustum.look_at`](/3d/python-net/aspose.threed.entities/frustum#look_at) and [`Frustum.target`](/3d/python-net/aspose.threed.entities/frustum#target). |
+| [target](/3d/python-net/aspose.threed.entities/frustum/target) | Gets or sets the target that the camera is looking at.<br/>If the user supports this property, it should be prior to [`Frustum.look_at`](/3d/python-net/aspose.threed.entities/frustum#look_at) property. |
 
 
 ### Methods
@@ -57,10 +57,10 @@ The Frustum type exposes the following members:
 
 
 ### See Also
-* module [aspose.threed.entities](..)
-* class [A3DObject](/3d/python-net/aspose.threed/a3dobject)
-* class [Camera](/3d/python-net/aspose.threed.entities/camera)
-* class [Entity](/3d/python-net/aspose.threed/entity)
-* class [Frustum](/3d/python-net/aspose.threed.entities/frustum)
-* class [Light](/3d/python-net/aspose.threed.entities/light)
-* class [SceneObject](/3d/python-net/aspose.threed/sceneobject)
+* module [`aspose.threed.entities`](..)
+* class [`A3DObject`](/3d/python-net/aspose.threed/a3dobject)
+* class [`Camera`](/3d/python-net/aspose.threed.entities/camera)
+* class [`Entity`](/3d/python-net/aspose.threed/entity)
+* class [`Frustum`](/3d/python-net/aspose.threed.entities/frustum)
+* class [`Light`](/3d/python-net/aspose.threed.entities/light)
+* class [`SceneObject`](/3d/python-net/aspose.threed/sceneobject)

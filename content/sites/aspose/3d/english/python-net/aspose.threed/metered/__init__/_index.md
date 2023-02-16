@@ -24,5 +24,5 @@ def __init__(self):
 
 
 ### See Also
-* module [aspose.threed](../../)
-* class [Metered](/3d/python-net/aspose.threed/metered)
+* module [`aspose.threed`](../../)
+* class [`Metered`](/3d/python-net/aspose.threed/metered)

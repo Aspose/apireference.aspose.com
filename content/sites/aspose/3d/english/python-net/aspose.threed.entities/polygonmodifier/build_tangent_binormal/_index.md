@@ -24,7 +24,7 @@ def build_tangent_binormal(self, scene):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| scene | [Scene](/3d/python-net/aspose.threed/scene) |  |
+| scene | [`Scene`](/3d/python-net/aspose.threed/scene) |  |
 
 
 ## build_tangent_binormal(mesh) {#Mesh}
@@ -43,10 +43,10 @@ def build_tangent_binormal(self, mesh):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| mesh | [Mesh](/3d/python-net/aspose.threed.entities/mesh) |  |
+| mesh | [`Mesh`](/3d/python-net/aspose.threed.entities/mesh) |  |
 
 
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [PolygonModifier](/3d/python-net/aspose.threed.entities/polygonmodifier)
+* module [`aspose.threed.entities`](../../)
+* class [`PolygonModifier`](/3d/python-net/aspose.threed.entities/polygonmodifier)

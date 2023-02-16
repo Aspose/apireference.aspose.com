@@ -22,7 +22,7 @@ def rotate(self, q):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| q | [Quaternion](/3d/python-net/aspose.threed.utilities/quaternion) |  |
+| q | [`Quaternion`](/3d/python-net/aspose.threed.utilities/quaternion) |  |
 
 ### Example 
 
@@ -39,5 +39,5 @@ print(f"Transform Matrix: {tb.matrix}")
 
 
 ### See Also
-* module [aspose.threed.utilities](../../)
-* class [TransformBuilder](/3d/python-net/aspose.threed.utilities/transformbuilder)
+* module [`aspose.threed.utilities`](../../)
+* class [`TransformBuilder`](/3d/python-net/aspose.threed.utilities/transformbuilder)

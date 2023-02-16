@@ -23,5 +23,5 @@ def lookup_paths(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.formats](../../)
-* class [PlySaveOptions](/3d/python-net/aspose.threed.formats/plysaveoptions)
+* module [`aspose.threed.formats`](../../)
+* class [`PlySaveOptions`](/3d/python-net/aspose.threed.formats/plysaveoptions)

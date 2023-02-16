@@ -23,6 +23,6 @@ def pose_type(self, value):
 ```
 
 ### See Also
-* module [aspose.threed](../../)
-* class [Pose](/3d/python-net/aspose.threed/pose)
-* class [PoseType](/3d/python-net/aspose.threed/posetype)
+* module [`aspose.threed`](../../)
+* class [`Pose`](/3d/python-net/aspose.threed/pose)
+* class [`PoseType`](/3d/python-net/aspose.threed/posetype)

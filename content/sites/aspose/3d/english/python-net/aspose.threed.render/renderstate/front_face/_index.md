@@ -23,6 +23,6 @@ def front_face(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.render](../../)
-* class [FrontFace](/3d/python-net/aspose.threed.render/frontface)
-* class [RenderState](/3d/python-net/aspose.threed.render/renderstate)
+* module [`aspose.threed.render`](../../)
+* class [`FrontFace`](/3d/python-net/aspose.threed.render/frontface)
+* class [`RenderState`](/3d/python-net/aspose.threed.render/renderstate)

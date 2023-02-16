@@ -34,5 +34,5 @@ def load_vertices_from_bytes(self, vertices_in_bytes):
 
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [TriMesh](/3d/python-net/aspose.threed.entities/trimesh)
+* module [`aspose.threed.entities`](../../)
+* class [`TriMesh`](/3d/python-net/aspose.threed.entities/trimesh)

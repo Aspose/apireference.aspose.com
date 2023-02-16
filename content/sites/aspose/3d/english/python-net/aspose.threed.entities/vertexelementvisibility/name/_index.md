@@ -23,5 +23,5 @@ def name(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [VertexElementVisibility](/3d/python-net/aspose.threed.entities/vertexelementvisibility)
+* module [`aspose.threed.entities`](../../)
+* class [`VertexElementVisibility`](/3d/python-net/aspose.threed.entities/vertexelementvisibility)

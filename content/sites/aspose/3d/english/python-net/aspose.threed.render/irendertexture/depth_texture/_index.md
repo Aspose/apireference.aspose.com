@@ -20,6 +20,6 @@ def depth_texture(self):
 ```
 
 ### See Also
-* module [aspose.threed.render](../../)
-* class [IRenderTexture](/3d/python-net/aspose.threed.render/irendertexture)
-* class [ITextureUnit](/3d/python-net/aspose.threed.render/itextureunit)
+* module [`aspose.threed.render`](../../)
+* class [`IRenderTexture`](/3d/python-net/aspose.threed.render/irendertexture)
+* class [`ITextureUnit`](/3d/python-net/aspose.threed.render/itextureunit)

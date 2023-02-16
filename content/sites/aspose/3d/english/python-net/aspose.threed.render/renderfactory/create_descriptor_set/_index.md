@@ -27,10 +27,10 @@ def create_descriptor_set(self, shader):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| shader | [ShaderProgram](/3d/python-net/aspose.threed.render/shaderprogram) | The shader program |
+| shader | [`ShaderProgram`](/3d/python-net/aspose.threed.render/shaderprogram) | The shader program |
 
 
 
 ### See Also
-* module [aspose.threed.render](../../)
-* class [RenderFactory](/3d/python-net/aspose.threed.render/renderfactory)
+* module [`aspose.threed.render`](../../)
+* class [`RenderFactory`](/3d/python-net/aspose.threed.render/renderfactory)

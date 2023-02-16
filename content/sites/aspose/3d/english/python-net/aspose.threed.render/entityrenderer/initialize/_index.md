@@ -22,10 +22,10 @@ def initialize(self, renderer):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| renderer | [Renderer](/3d/python-net/aspose.threed.render/renderer) |  |
+| renderer | [`Renderer`](/3d/python-net/aspose.threed.render/renderer) |  |
 
 
 
 ### See Also
-* module [aspose.threed.render](../../)
-* class [EntityRenderer](/3d/python-net/aspose.threed.render/entityrenderer)
+* module [`aspose.threed.render`](../../)
+* class [`EntityRenderer`](/3d/python-net/aspose.threed.render/entityrenderer)

@@ -20,6 +20,6 @@ def vertex_declaration(self):
 ```
 
 ### See Also
-* module [aspose.threed.render](../../)
-* class [IVertexBuffer](/3d/python-net/aspose.threed.render/ivertexbuffer)
-* class [VertexDeclaration](/3d/python-net/aspose.threed.utilities/vertexdeclaration)
+* module [`aspose.threed.render`](../../)
+* class [`IVertexBuffer`](/3d/python-net/aspose.threed.render/ivertexbuffer)
+* class [`VertexDeclaration`](/3d/python-net/aspose.threed.utilities/vertexdeclaration)

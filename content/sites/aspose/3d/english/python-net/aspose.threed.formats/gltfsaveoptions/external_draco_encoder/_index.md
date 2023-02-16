@@ -28,5 +28,5 @@ def external_draco_encoder(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.formats](../../)
-* class [GltfSaveOptions](/3d/python-net/aspose.threed.formats/gltfsaveoptions)
+* module [`aspose.threed.formats`](../../)
+* class [`GltfSaveOptions`](/3d/python-net/aspose.threed.formats/gltfsaveoptions)

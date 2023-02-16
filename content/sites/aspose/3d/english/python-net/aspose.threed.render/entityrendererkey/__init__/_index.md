@@ -10,7 +10,7 @@ is_root: false
 
 ## EntityRendererKey(name) {#str}
 
-Constructor of [EntityRendererKey](/3d/python-net/aspose.threed.render/entityrendererkey)
+Constructor of [`EntityRendererKey`](/3d/python-net/aspose.threed.render/entityrendererkey)
 
 
 
@@ -27,5 +27,5 @@ def __init__(self, name):
 
 
 ### See Also
-* module [aspose.threed.render](../../)
-* class [EntityRendererKey](/3d/python-net/aspose.threed.render/entityrendererkey)
+* module [`aspose.threed.render`](../../)
+* class [`EntityRendererKey`](/3d/python-net/aspose.threed.render/entityrendererkey)

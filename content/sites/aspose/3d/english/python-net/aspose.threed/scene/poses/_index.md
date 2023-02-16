@@ -11,7 +11,7 @@ is_root: false
 ## poses property
 
 
-Gets all [Pose](/3d/python-net/aspose.threed/pose) used in this scene.
+Gets all [`Pose`](/3d/python-net/aspose.threed/pose) used in this scene.
 ### Definition:
 ```python
 @property
@@ -20,6 +20,6 @@ def poses(self):
 ```
 
 ### See Also
-* module [aspose.threed](../../)
-* class [Pose](/3d/python-net/aspose.threed/pose)
-* class [Scene](/3d/python-net/aspose.threed/scene)
+* module [`aspose.threed`](../../)
+* class [`Pose`](/3d/python-net/aspose.threed/pose)
+* class [`Scene`](/3d/python-net/aspose.threed/scene)

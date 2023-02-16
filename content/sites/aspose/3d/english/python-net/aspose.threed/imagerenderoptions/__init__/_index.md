@@ -10,7 +10,7 @@ is_root: false
 
 ## ImageRenderOptions() {#}
 
-Initialize an instance of [ImageRenderOptions](/3d/python-net/aspose.threed/imagerenderoptions)
+Initialize an instance of [`ImageRenderOptions`](/3d/python-net/aspose.threed/imagerenderoptions)
 
 
 
@@ -24,5 +24,5 @@ def __init__(self):
 
 
 ### See Also
-* module [aspose.threed](../../)
-* class [ImageRenderOptions](/3d/python-net/aspose.threed/imagerenderoptions)
+* module [`aspose.threed`](../../)
+* class [`ImageRenderOptions`](/3d/python-net/aspose.threed/imagerenderoptions)

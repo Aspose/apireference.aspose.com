@@ -14,5 +14,5 @@ is_root: false
 AVEVA Plant Design Management System Model in text format
 
 ### See Also
-* module [aspose.threed.formats](../../)
-* class [PlyFormat](/3d/python-net/aspose.threed.formats/plyformat)
+* module [`aspose.threed.formats`](../../)
+* class [`PlyFormat`](/3d/python-net/aspose.threed.formats/plyformat)

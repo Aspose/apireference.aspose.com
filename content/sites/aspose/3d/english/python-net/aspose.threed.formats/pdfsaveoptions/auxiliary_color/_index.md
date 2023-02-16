@@ -12,7 +12,7 @@ is_root: false
 
 
 Gets or sets the auxiliary color to be used  when rendering the 3D content.
-The interpretation of this color depends on the [PdfSaveOptions.render_mode](/3d/python-net/aspose.threed.formats/pdfsaveoptions#render_mode)
+The interpretation of this color depends on the [`PdfSaveOptions.render_mode`](/3d/python-net/aspose.threed.formats/pdfsaveoptions#render_mode)
 ### Definition:
 ```python
 @property
@@ -24,6 +24,6 @@ def auxiliary_color(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.formats](../../)
-* class [PdfSaveOptions](/3d/python-net/aspose.threed.formats/pdfsaveoptions)
-* class [Vector3](/3d/python-net/aspose.threed.utilities/vector3)
+* module [`aspose.threed.formats`](../../)
+* class [`PdfSaveOptions`](/3d/python-net/aspose.threed.formats/pdfsaveoptions)
+* class [`Vector3`](/3d/python-net/aspose.threed.utilities/vector3)

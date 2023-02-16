@@ -14,6 +14,13 @@ Sets the geometric scaling. Geometric transformation only affects the entities a
 public Transform SetGeometricScaling(double sx, double sy, double sz)
 ```
 
+### Examples
+
+```csharp
+Node node = new Node();
+node.Transform.SetGeometricScaling(2, 2, 2);
+```
+
 ### See Also
 
 * class [Transform](../../transform)

@@ -35,5 +35,5 @@ def can_import(self):
 ```
 
 ### See Also
-* module [aspose.threed.formats](../../)
-* class [PdfFormat](/3d/python-net/aspose.threed.formats/pdfformat)
+* module [`aspose.threed.formats`](../../)
+* class [`PdfFormat`](/3d/python-net/aspose.threed.formats/pdfformat)

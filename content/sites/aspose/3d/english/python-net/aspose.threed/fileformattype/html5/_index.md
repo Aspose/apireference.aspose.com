@@ -14,5 +14,5 @@ is_root: false
 HTML5 File
 
 ### See Also
-* module [aspose.threed](../../)
-* class [FileFormatType](/3d/python-net/aspose.threed/fileformattype)
+* module [`aspose.threed`](../../)
+* class [`FileFormatType`](/3d/python-net/aspose.threed/fileformattype)

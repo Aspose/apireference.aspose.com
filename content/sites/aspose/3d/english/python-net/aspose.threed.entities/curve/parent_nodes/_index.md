@@ -20,5 +20,5 @@ def parent_nodes(self):
 ```
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [Curve](/3d/python-net/aspose.threed.entities/curve)
+* module [`aspose.threed.entities`](../../)
+* class [`Curve`](/3d/python-net/aspose.threed.entities/curve)

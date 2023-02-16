@@ -12,7 +12,7 @@ is_root: false
 
 
 Gets or sets whether the texture defines the alpha channel.
-Default value is [AlphaSource.NONE](/3d/python-net/aspose.threed.shading/alphasource#NONE)
+Default value is [`AlphaSource.NONE`](/3d/python-net/aspose.threed.shading/alphasource#NONE)
 ### Definition:
 ```python
 @property
@@ -24,6 +24,6 @@ def alpha_source(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.shading](../../)
-* class [AlphaSource](/3d/python-net/aspose.threed.shading/alphasource)
-* class [Texture](/3d/python-net/aspose.threed.shading/texture)
+* module [`aspose.threed.shading`](../../)
+* class [`AlphaSource`](/3d/python-net/aspose.threed.shading/alphasource)
+* class [`Texture`](/3d/python-net/aspose.threed.shading/texture)

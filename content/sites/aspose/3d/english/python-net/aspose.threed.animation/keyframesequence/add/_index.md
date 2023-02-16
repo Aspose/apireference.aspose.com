@@ -42,10 +42,10 @@ def add(self, time, value, interpolation):
 | :- | :- | :- |
 | time | float | Time position(measured in seconds) |
 | value | float | The value at this time position |
-| interpolation | [Interpolation](/3d/python-net/aspose.threed.animation/interpolation) | The interpolation type of this key frame |
+| interpolation | [`Interpolation`](/3d/python-net/aspose.threed.animation/interpolation) | The interpolation type of this key frame |
 
 
 
 ### See Also
-* module [aspose.threed.animation](../../)
-* class [KeyframeSequence](/3d/python-net/aspose.threed.animation/keyframesequence)
+* module [`aspose.threed.animation`](../../)
+* class [`KeyframeSequence`](/3d/python-net/aspose.threed.animation/keyframesequence)

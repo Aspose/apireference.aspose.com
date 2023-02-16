@@ -28,5 +28,5 @@ def set_property(self, property, value):
 
 
 ### See Also
-* module [aspose.threed.profiles](../../)
-* class [HShape](/3d/python-net/aspose.threed.profiles/hshape)
+* module [`aspose.threed.profiles`](../../)
+* class [`HShape`](/3d/python-net/aspose.threed.profiles/hshape)

@@ -14,5 +14,5 @@ is_root: false
 Khronos Group's glTF
 
 ### See Also
-* module [aspose.threed.formats](../../)
-* class [PdfFormat](/3d/python-net/aspose.threed.formats/pdfformat)
+* module [`aspose.threed.formats`](../../)
+* class [`PdfFormat`](/3d/python-net/aspose.threed.formats/pdfformat)

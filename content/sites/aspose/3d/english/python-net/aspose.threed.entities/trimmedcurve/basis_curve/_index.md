@@ -23,6 +23,6 @@ def basis_curve(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [Curve](/3d/python-net/aspose.threed.entities/curve)
-* class [TrimmedCurve](/3d/python-net/aspose.threed.entities/trimmedcurve)
+* module [`aspose.threed.entities`](../../)
+* class [`Curve`](/3d/python-net/aspose.threed.entities/curve)
+* class [`TrimmedCurve`](/3d/python-net/aspose.threed.entities/trimmedcurve)

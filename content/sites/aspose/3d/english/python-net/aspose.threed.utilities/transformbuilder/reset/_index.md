@@ -24,5 +24,5 @@ def reset(self):
 
 
 ### See Also
-* module [aspose.threed.utilities](../../)
-* class [TransformBuilder](/3d/python-net/aspose.threed.utilities/transformbuilder)
+* module [`aspose.threed.utilities`](../../)
+* class [`TransformBuilder`](/3d/python-net/aspose.threed.utilities/transformbuilder)

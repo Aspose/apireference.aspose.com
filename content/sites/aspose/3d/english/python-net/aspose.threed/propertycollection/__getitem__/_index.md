@@ -18,5 +18,5 @@ is_root: false
 
 
 ### See Also
-* module [aspose.threed](../../)
-* class [PropertyCollection](/3d/python-net/aspose.threed/propertycollection)
+* module [`aspose.threed`](../../)
+* class [`PropertyCollection`](/3d/python-net/aspose.threed/propertycollection)

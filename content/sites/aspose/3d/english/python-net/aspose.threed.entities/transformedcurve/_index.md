@@ -10,16 +10,16 @@ is_root: false
 
 ## TransformedCurve class
 
-A [TransformedCurve](/3d/python-net/aspose.threed.entities/transformedcurve) gives a curve a placement by using a transformation matrix.
-This allows to perform a transformation inside a [TrimmedCurve](/3d/python-net/aspose.threed.entities/trimmedcurve) or [CompositeCurve](/3d/python-net/aspose.threed.entities/compositecurve).
+A [`TransformedCurve`](/3d/python-net/aspose.threed.entities/transformedcurve) gives a curve a placement by using a transformation matrix.
+This allows to perform a transformation inside a [`TrimmedCurve`](/3d/python-net/aspose.threed.entities/trimmedcurve) or [`CompositeCurve`](/3d/python-net/aspose.threed.entities/compositecurve).
 
 
 
-**Inheritance:** [TransformedCurve](/3d/python-net/aspose.threed.entities/transformedcurve) → 
-[Curve](/3d/python-net/aspose.threed.entities/curve) → 
-[Entity](/3d/python-net/aspose.threed/entity) → 
-[SceneObject](/3d/python-net/aspose.threed/sceneobject) → 
-[A3DObject](/3d/python-net/aspose.threed/a3dobject)
+**Inheritance:** [`TransformedCurve`](/3d/python-net/aspose.threed.entities/transformedcurve) → 
+[`Curve`](/3d/python-net/aspose.threed.entities/curve) → 
+[`Entity`](/3d/python-net/aspose.threed/entity) → 
+[`SceneObject`](/3d/python-net/aspose.threed/sceneobject) → 
+[`A3DObject`](/3d/python-net/aspose.threed/a3dobject)
 
 
 
@@ -28,8 +28,8 @@ The TransformedCurve type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [TransformedCurve()](/3d/python-net/aspose.threed.entities/transformedcurve/__init__/#) | The constructor of [TransformedCurve](/3d/python-net/aspose.threed.entities/transformedcurve) |
-| [TransformedCurve(basis_curve, transformation)](/3d/python-net/aspose.threed.entities/transformedcurve/__init__/#Curve-aspose.threed.utilities.Matrix4) | The constructor of [TransformedCurve](/3d/python-net/aspose.threed.entities/transformedcurve) |
+| [TransformedCurve()](/3d/python-net/aspose.threed.entities/transformedcurve/__init__/#) | The constructor of [`TransformedCurve`](/3d/python-net/aspose.threed.entities/transformedcurve) |
+| [TransformedCurve(basis_curve, transformation)](/3d/python-net/aspose.threed.entities/transformedcurve/__init__/#Curve-aspose.threed.utilities.Matrix4) | The constructor of [`TransformedCurve`](/3d/python-net/aspose.threed.entities/transformedcurve) |
 
 
 ### Properties
@@ -60,11 +60,11 @@ The TransformedCurve type exposes the following members:
 
 
 ### See Also
-* module [aspose.threed.entities](..)
-* class [A3DObject](/3d/python-net/aspose.threed/a3dobject)
-* class [CompositeCurve](/3d/python-net/aspose.threed.entities/compositecurve)
-* class [Curve](/3d/python-net/aspose.threed.entities/curve)
-* class [Entity](/3d/python-net/aspose.threed/entity)
-* class [SceneObject](/3d/python-net/aspose.threed/sceneobject)
-* class [TransformedCurve](/3d/python-net/aspose.threed.entities/transformedcurve)
-* class [TrimmedCurve](/3d/python-net/aspose.threed.entities/trimmedcurve)
+* module [`aspose.threed.entities`](..)
+* class [`A3DObject`](/3d/python-net/aspose.threed/a3dobject)
+* class [`CompositeCurve`](/3d/python-net/aspose.threed.entities/compositecurve)
+* class [`Curve`](/3d/python-net/aspose.threed.entities/curve)
+* class [`Entity`](/3d/python-net/aspose.threed/entity)
+* class [`SceneObject`](/3d/python-net/aspose.threed/sceneobject)
+* class [`TransformedCurve`](/3d/python-net/aspose.threed.entities/transformedcurve)
+* class [`TrimmedCurve`](/3d/python-net/aspose.threed.entities/trimmedcurve)

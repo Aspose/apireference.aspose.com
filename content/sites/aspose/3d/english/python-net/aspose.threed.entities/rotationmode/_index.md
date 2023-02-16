@@ -25,4 +25,4 @@ The RotationMode type exposes the following members:
 
 
 ### See Also
-* module [aspose.threed.entities](..)
+* module [`aspose.threed.entities`](..)

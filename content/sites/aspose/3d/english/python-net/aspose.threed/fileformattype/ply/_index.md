@@ -14,5 +14,5 @@ is_root: false
 Polygon File Format or Stanford Triangle Format
 
 ### See Also
-* module [aspose.threed](../../)
-* class [FileFormatType](/3d/python-net/aspose.threed/fileformattype)
+* module [`aspose.threed`](../../)
+* class [`FileFormatType`](/3d/python-net/aspose.threed/fileformattype)

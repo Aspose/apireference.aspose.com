@@ -19,6 +19,15 @@ public void SetTexture(string slotName, TextureBase texture)
 | slotName | String | Slot name. |
 | texture | TextureBase | Texture. |
 
+### Examples
+
+```csharp
+var mat = new LambertMaterial();
+var tex = new Texture();
+tex.FileName = "diffuse.png";
+mat.SetTexture(Material.MapNormal, tex);
+```
+
 ### See Also
 
 * class [TextureBase](../../texturebase)

@@ -23,6 +23,6 @@ def parent_node(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [Dish](/3d/python-net/aspose.threed.entities/dish)
-* class [Node](/3d/python-net/aspose.threed/node)
+* module [`aspose.threed.entities`](../../)
+* class [`Dish`](/3d/python-net/aspose.threed.entities/dish)
+* class [`Node`](/3d/python-net/aspose.threed/node)

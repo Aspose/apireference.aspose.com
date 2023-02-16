@@ -10,7 +10,7 @@ is_root: false
 
 ## Plane() {#}
 
-Initializes a new instance of the [Plane](/3d/python-net/aspose.threed.entities/plane) with default size 1x1.
+Initializes a new instance of the [`Plane`](/3d/python-net/aspose.threed.entities/plane) with default size 1x1.
 
 
 
@@ -24,7 +24,7 @@ def __init__(self):
 
 ## Plane(length, width) {#float-float}
 
-Initializes a new instance of the [Plane](/3d/python-net/aspose.threed.entities/plane).
+Initializes a new instance of the [`Plane`](/3d/python-net/aspose.threed.entities/plane).
 
 
 
@@ -42,7 +42,7 @@ def __init__(self, length, width):
 
 ## Plane(name, length, width, length_segments, width_segments) {#str-float-float-int-int}
 
-Initializes a new instance of the [Plane](/3d/python-net/aspose.threed.entities/plane).
+Initializes a new instance of the [`Plane`](/3d/python-net/aspose.threed.entities/plane).
 
 
 
@@ -63,5 +63,5 @@ def __init__(self, name, length, width, length_segments, width_segments):
 
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [Plane](/3d/python-net/aspose.threed.entities/plane)
+* module [`aspose.threed.entities`](../../)
+* class [`Plane`](/3d/python-net/aspose.threed.entities/plane)

@@ -86,5 +86,5 @@ def __init__(self, name, xbottom, ybottom, xtop, ytop, height):
 
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [Pyramid](/3d/python-net/aspose.threed.entities/pyramid)
+* module [`aspose.threed.entities`](../../)
+* class [`Pyramid`](/3d/python-net/aspose.threed.entities/pyramid)

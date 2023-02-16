@@ -27,13 +27,13 @@ def create_pipeline(self, shader, render_state, vertex_declaration, draw_operati
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| shader | [ShaderProgram](/3d/python-net/aspose.threed.render/shaderprogram) | The shader used in the rendering |
-| render_state | [RenderState](/3d/python-net/aspose.threed.render/renderstate) | The render state used in the rendering |
+| shader | [`ShaderProgram`](/3d/python-net/aspose.threed.render/shaderprogram) | The shader used in the rendering |
+| render_state | [`RenderState`](/3d/python-net/aspose.threed.render/renderstate) | The render state used in the rendering |
 | vertex_declaration | aspose.threed.utilities.VertexDeclaration | The vertex declaration of input vertex data |
-| draw_operation | [DrawOperation](/3d/python-net/aspose.threed.render/drawoperation) | Draw operation |
+| draw_operation | [`DrawOperation`](/3d/python-net/aspose.threed.render/drawoperation) | Draw operation |
 
 
 
 ### See Also
-* module [aspose.threed.render](../../)
-* class [RenderFactory](/3d/python-net/aspose.threed.render/renderfactory)
+* module [`aspose.threed.render`](../../)
+* class [`RenderFactory`](/3d/python-net/aspose.threed.render/renderfactory)

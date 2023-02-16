@@ -19,10 +19,10 @@ The EntityRendererKey type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [EntityRendererKey(name)](/3d/python-net/aspose.threed.render/entityrendererkey/__init__/#str) | Constructor of [EntityRendererKey](/3d/python-net/aspose.threed.render/entityrendererkey) |
+| [EntityRendererKey(name)](/3d/python-net/aspose.threed.render/entityrendererkey/__init__/#str) | Constructor of [`EntityRendererKey`](/3d/python-net/aspose.threed.render/entityrendererkey) |
 
 
 
 ### See Also
-* module [aspose.threed.render](..)
-* class [EntityRendererKey](/3d/python-net/aspose.threed.render/entityrendererkey)
+* module [`aspose.threed.render`](..)
+* class [`EntityRendererKey`](/3d/python-net/aspose.threed.render/entityrendererkey)

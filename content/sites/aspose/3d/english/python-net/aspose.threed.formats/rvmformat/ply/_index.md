@@ -14,5 +14,5 @@ is_root: false
 Polygon File Format or Stanford Triangle Format
 
 ### See Also
-* module [aspose.threed.formats](../../)
-* class [RvmFormat](/3d/python-net/aspose.threed.formats/rvmformat)
+* module [`aspose.threed.formats`](../../)
+* class [`RvmFormat`](/3d/python-net/aspose.threed.formats/rvmformat)

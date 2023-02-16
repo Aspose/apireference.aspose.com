@@ -15,8 +15,8 @@ File system will be disposed after the open/save operation.
 
 
 
-**Inheritance:** [ZipArchiveFileSystem](/3d/python-net/aspose.threed.utilities/ziparchivefilesystem) → 
-[FileSystem](/3d/python-net/aspose.threed.utilities/filesystem)
+**Inheritance:** [`ZipArchiveFileSystem`](/3d/python-net/aspose.threed.utilities/ziparchivefilesystem) → 
+[`FileSystem`](/3d/python-net/aspose.threed.utilities/filesystem)
 
 
 
@@ -25,9 +25,9 @@ The ZipArchiveFileSystem type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [ZipArchiveFileSystem(stream, base_dir)](/3d/python-net/aspose.threed.utilities/ziparchivefilesystem/__init__/#io.RawIOBase-str) | Construct a [ZipArchiveFileSystem](/3d/python-net/aspose.threed.utilities/ziparchivefilesystem) through a stream. |
-| [ZipArchiveFileSystem(stream)](/3d/python-net/aspose.threed.utilities/ziparchivefilesystem/__init__/#io.RawIOBase) | Construct a [ZipArchiveFileSystem](/3d/python-net/aspose.threed.utilities/ziparchivefilesystem) through a stream. |
-| [ZipArchiveFileSystem(file_name)](/3d/python-net/aspose.threed.utilities/ziparchivefilesystem/__init__/#str) | Construct a [ZipArchiveFileSystem](/3d/python-net/aspose.threed.utilities/ziparchivefilesystem) through a file name. |
+| [ZipArchiveFileSystem(stream, base_dir)](/3d/python-net/aspose.threed.utilities/ziparchivefilesystem/__init__/#io.RawIOBase-str) | Construct a [`ZipArchiveFileSystem`](/3d/python-net/aspose.threed.utilities/ziparchivefilesystem) through a stream. |
+| [ZipArchiveFileSystem(stream)](/3d/python-net/aspose.threed.utilities/ziparchivefilesystem/__init__/#io.RawIOBase) | Construct a [`ZipArchiveFileSystem`](/3d/python-net/aspose.threed.utilities/ziparchivefilesystem) through a stream. |
+| [ZipArchiveFileSystem(file_name)](/3d/python-net/aspose.threed.utilities/ziparchivefilesystem/__init__/#str) | Construct a [`ZipArchiveFileSystem`](/3d/python-net/aspose.threed.utilities/ziparchivefilesystem) through a file name. |
 
 
 ### Methods
@@ -39,6 +39,6 @@ The ZipArchiveFileSystem type exposes the following members:
 
 
 ### See Also
-* module [aspose.threed.utilities](..)
-* class [FileSystem](/3d/python-net/aspose.threed.utilities/filesystem)
-* class [ZipArchiveFileSystem](/3d/python-net/aspose.threed.utilities/ziparchivefilesystem)
+* module [`aspose.threed.utilities`](..)
+* class [`FileSystem`](/3d/python-net/aspose.threed.utilities/filesystem)
+* class [`ZipArchiveFileSystem`](/3d/python-net/aspose.threed.utilities/ziparchivefilesystem)

@@ -10,7 +10,7 @@ is_root: false
 
 ## to_mesh() {#}
 
-Convert this primitive to [Mesh](/3d/python-net/aspose.threed.entities/mesh)
+Convert this primitive to [`Mesh`](/3d/python-net/aspose.threed.entities/mesh)
 
 
 ### Returns 
@@ -29,6 +29,6 @@ def to_mesh(self):
 
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [Mesh](/3d/python-net/aspose.threed.entities/mesh)
-* class [RectangularTorus](/3d/python-net/aspose.threed.entities/rectangulartorus)
+* module [`aspose.threed.entities`](../../)
+* class [`Mesh`](/3d/python-net/aspose.threed.entities/mesh)
+* class [`RectangularTorus`](/3d/python-net/aspose.threed.entities/rectangulartorus)

@@ -11,7 +11,7 @@ is_root: false
 ## v property
 
 
-Gets or sets the V component if the [Vector2](/3d/python-net/aspose.threed.utilities/vector2) is used as a mapping coordinate.
+Gets or sets the V component if the [`Vector2`](/3d/python-net/aspose.threed.utilities/vector2) is used as a mapping coordinate.
 It's an alias of y component.
 ### Definition:
 ```python
@@ -24,5 +24,5 @@ def v(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.utilities](../../)
-* class [Vector2](/3d/python-net/aspose.threed.utilities/vector2)
+* module [`aspose.threed.utilities`](../../)
+* class [`Vector2`](/3d/python-net/aspose.threed.utilities/vector2)

@@ -10,7 +10,7 @@ is_root: false
 
 ## ColladaSaveOptions() {#}
 
-Constructor of [ColladaSaveOptions](/3d/python-net/aspose.threed.formats/colladasaveoptions)
+Constructor of [`ColladaSaveOptions`](/3d/python-net/aspose.threed.formats/colladasaveoptions)
 
 
 
@@ -24,5 +24,5 @@ def __init__(self):
 
 
 ### See Also
-* module [aspose.threed.formats](../../)
-* class [ColladaSaveOptions](/3d/python-net/aspose.threed.formats/colladasaveoptions)
+* module [`aspose.threed.formats`](../../)
+* class [`ColladaSaveOptions`](/3d/python-net/aspose.threed.formats/colladasaveoptions)

@@ -10,7 +10,7 @@ is_root: false
 
 ## RectangularTorus() {#}
 
-Constructor of [RectangularTorus](/3d/python-net/aspose.threed.entities/rectangulartorus)
+Constructor of [`RectangularTorus`](/3d/python-net/aspose.threed.entities/rectangulartorus)
 
 
 
@@ -24,7 +24,7 @@ def __init__(self):
 
 ## RectangularTorus(name) {#str}
 
-Constructor of [RectangularTorus](/3d/python-net/aspose.threed.entities/rectangulartorus)
+Constructor of [`RectangularTorus`](/3d/python-net/aspose.threed.entities/rectangulartorus)
 
 
 
@@ -41,5 +41,5 @@ def __init__(self, name):
 
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [RectangularTorus](/3d/python-net/aspose.threed.entities/rectangulartorus)
+* module [`aspose.threed.entities`](../../)
+* class [`RectangularTorus`](/3d/python-net/aspose.threed.entities/rectangulartorus)

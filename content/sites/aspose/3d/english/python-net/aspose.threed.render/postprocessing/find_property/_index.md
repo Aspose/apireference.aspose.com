@@ -34,5 +34,5 @@ def find_property(self, property_name):
 
 
 ### See Also
-* module [aspose.threed.render](../../)
-* class [PostProcessing](/3d/python-net/aspose.threed.render/postprocessing)
+* module [`aspose.threed.render`](../../)
+* class [`PostProcessing`](/3d/python-net/aspose.threed.render/postprocessing)

@@ -23,5 +23,5 @@ def name(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [VertexElementWeight](/3d/python-net/aspose.threed.entities/vertexelementweight)
+* module [`aspose.threed.entities`](../../)
+* class [`VertexElementWeight`](/3d/python-net/aspose.threed.entities/vertexelementweight)

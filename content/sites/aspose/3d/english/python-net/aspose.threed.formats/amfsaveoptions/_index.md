@@ -14,9 +14,9 @@ Save options for AMF
 
 
 
-**Inheritance:** [AmfSaveOptions](/3d/python-net/aspose.threed.formats/amfsaveoptions) → 
-[SaveOptions](/3d/python-net/aspose.threed.formats/saveoptions) → 
-[IOConfig](/3d/python-net/aspose.threed.formats/ioconfig)
+**Inheritance:** [`AmfSaveOptions`](/3d/python-net/aspose.threed.formats/amfsaveoptions) → 
+[`SaveOptions`](/3d/python-net/aspose.threed.formats/saveoptions) → 
+[`IOConfig`](/3d/python-net/aspose.threed.formats/ioconfig)
 
 
 
@@ -25,7 +25,7 @@ The AmfSaveOptions type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [AmfSaveOptions()](/3d/python-net/aspose.threed.formats/amfsaveoptions/__init__/#) | Constructor of [AmfSaveOptions](/3d/python-net/aspose.threed.formats/amfsaveoptions) |
+| [AmfSaveOptions()](/3d/python-net/aspose.threed.formats/amfsaveoptions/__init__/#) | Constructor of [`AmfSaveOptions`](/3d/python-net/aspose.threed.formats/amfsaveoptions) |
 
 
 ### Properties
@@ -41,7 +41,7 @@ The AmfSaveOptions type exposes the following members:
 
 
 ### See Also
-* module [aspose.threed.formats](..)
-* class [AmfSaveOptions](/3d/python-net/aspose.threed.formats/amfsaveoptions)
-* class [IOConfig](/3d/python-net/aspose.threed.formats/ioconfig)
-* class [SaveOptions](/3d/python-net/aspose.threed.formats/saveoptions)
+* module [`aspose.threed.formats`](..)
+* class [`AmfSaveOptions`](/3d/python-net/aspose.threed.formats/amfsaveoptions)
+* class [`IOConfig`](/3d/python-net/aspose.threed.formats/ioconfig)
+* class [`SaveOptions`](/3d/python-net/aspose.threed.formats/saveoptions)

@@ -22,10 +22,10 @@ def copy_to(self, target):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| target | [VertexElementVector4](/3d/python-net/aspose.threed.entities/vertexelementvector4) | Target. |
+| target | [`VertexElementVector4`](/3d/python-net/aspose.threed.entities/vertexelementvector4) | Target. |
 
 
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [VertexElementTangent](/3d/python-net/aspose.threed.entities/vertexelementtangent)
+* module [`aspose.threed.entities`](../../)
+* class [`VertexElementTangent`](/3d/python-net/aspose.threed.entities/vertexelementtangent)

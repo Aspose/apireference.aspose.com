@@ -10,7 +10,7 @@ is_root: false
 
 ## Viewport class
 
-A [IRenderTarget](/3d/python-net/aspose.threed.render/irendertarget) contains at least one viewport for rendering the scene.
+A [`IRenderTarget`](/3d/python-net/aspose.threed.render/irendertarget) contains at least one viewport for rendering the scene.
 
 
 
@@ -19,7 +19,7 @@ The Viewport type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [frustum](/3d/python-net/aspose.threed.render/viewport/frustum) | Gets or sets the camera of this [Viewport](/3d/python-net/aspose.threed.render/viewport) |
+| [frustum](/3d/python-net/aspose.threed.render/viewport/frustum) | Gets or sets the camera of this [`Viewport`](/3d/python-net/aspose.threed.render/viewport) |
 | [enabled](/3d/python-net/aspose.threed.render/viewport/enabled) | Enable or disable this viewport. |
 | [render_target](/3d/python-net/aspose.threed.render/viewport/render_target) | Gets the render target that created this viewport. |
 | [area](/3d/python-net/aspose.threed.render/viewport/area) | Gets or sets the area of the viewport in render target. |
@@ -30,6 +30,6 @@ The Viewport type exposes the following members:
 
 
 ### See Also
-* module [aspose.threed.render](..)
-* class [IRenderTarget](/3d/python-net/aspose.threed.render/irendertarget)
-* class [Viewport](/3d/python-net/aspose.threed.render/viewport)
+* module [`aspose.threed.render`](..)
+* class [`IRenderTarget`](/3d/python-net/aspose.threed.render/irendertarget)
+* class [`Viewport`](/3d/python-net/aspose.threed.render/viewport)

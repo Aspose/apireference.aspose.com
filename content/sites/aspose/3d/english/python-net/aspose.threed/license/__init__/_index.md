@@ -30,5 +30,5 @@ in the folder that contains
 
 
 ### See Also
-* module [aspose.threed](../../)
-* class [License](/3d/python-net/aspose.threed/license)
+* module [`aspose.threed`](../../)
+* class [`License`](/3d/python-net/aspose.threed/license)

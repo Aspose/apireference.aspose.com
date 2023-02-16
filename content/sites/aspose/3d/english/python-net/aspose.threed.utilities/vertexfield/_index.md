@@ -21,7 +21,7 @@ The VertexField type exposes the following members:
 | :- | :- |
 | [data_type](/3d/python-net/aspose.threed.utilities/vertexfield/data_type) | Data type of this field. |
 | [semantic](/3d/python-net/aspose.threed.utilities/vertexfield/semantic) | The usage semantic of this field. |
-| [alias](/3d/python-net/aspose.threed.utilities/vertexfield/alias) | Alias annotated by attribute [SemanticAttribute](/3d/python-net/aspose.threed.utilities/semanticattribute) |
+| [alias](/3d/python-net/aspose.threed.utilities/vertexfield/alias) | Alias annotated by attribute [`SemanticAttribute`](/3d/python-net/aspose.threed.utilities/semanticattribute) |
 | [index](/3d/python-net/aspose.threed.utilities/vertexfield/index) | Index of this field in the vertex's layout with same semantic. |
 | [offset](/3d/python-net/aspose.threed.utilities/vertexfield/offset) | The offset in bytes of this field. |
 | [size](/3d/python-net/aspose.threed.utilities/vertexfield/size) | The size in bytes of this field |
@@ -35,5 +35,5 @@ The VertexField type exposes the following members:
 
 
 ### See Also
-* module [aspose.threed.utilities](..)
-* class [SemanticAttribute](/3d/python-net/aspose.threed.utilities/semanticattribute)
+* module [`aspose.threed.utilities`](..)
+* class [`SemanticAttribute`](/3d/python-net/aspose.threed.utilities/semanticattribute)

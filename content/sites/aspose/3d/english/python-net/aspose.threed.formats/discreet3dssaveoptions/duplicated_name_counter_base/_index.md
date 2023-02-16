@@ -23,5 +23,5 @@ def duplicated_name_counter_base(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.formats](../../)
-* class [Discreet3dsSaveOptions](/3d/python-net/aspose.threed.formats/discreet3dssaveoptions)
+* module [`aspose.threed.formats`](../../)
+* class [`Discreet3dsSaveOptions`](/3d/python-net/aspose.threed.formats/discreet3dssaveoptions)

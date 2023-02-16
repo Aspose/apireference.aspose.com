@@ -23,6 +23,6 @@ def shape(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [Profile](/3d/python-net/aspose.threed.profiles/profile)
-* class [RevolvedAreaSolid](/3d/python-net/aspose.threed.entities/revolvedareasolid)
+* module [`aspose.threed.entities`](../../)
+* class [`Profile`](/3d/python-net/aspose.threed.profiles/profile)
+* class [`RevolvedAreaSolid`](/3d/python-net/aspose.threed.entities/revolvedareasolid)

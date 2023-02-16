@@ -23,6 +23,6 @@ def lambert(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.render](../../)
-* class [ShaderProgram](/3d/python-net/aspose.threed.render/shaderprogram)
-* class [ShaderSet](/3d/python-net/aspose.threed.render/shaderset)
+* module [`aspose.threed.render`](../../)
+* class [`ShaderProgram`](/3d/python-net/aspose.threed.render/shaderprogram)
+* class [`ShaderSet`](/3d/python-net/aspose.threed.render/shaderset)

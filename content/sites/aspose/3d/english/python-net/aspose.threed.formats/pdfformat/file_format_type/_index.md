@@ -20,6 +20,6 @@ def file_format_type(self):
 ```
 
 ### See Also
-* module [aspose.threed.formats](../../)
-* class [FileFormatType](/3d/python-net/aspose.threed/fileformattype)
-* class [PdfFormat](/3d/python-net/aspose.threed.formats/pdfformat)
+* module [`aspose.threed.formats`](../../)
+* class [`FileFormatType`](/3d/python-net/aspose.threed/fileformattype)
+* class [`PdfFormat`](/3d/python-net/aspose.threed.formats/pdfformat)

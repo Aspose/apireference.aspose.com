@@ -23,6 +23,6 @@ def depth_function(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.render](../../)
-* class [CompareFunction](/3d/python-net/aspose.threed.render/comparefunction)
-* class [RenderState](/3d/python-net/aspose.threed.render/renderstate)
+* module [`aspose.threed.render`](../../)
+* class [`CompareFunction`](/3d/python-net/aspose.threed.render/comparefunction)
+* class [`RenderState`](/3d/python-net/aspose.threed.render/renderstate)

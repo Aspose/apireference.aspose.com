@@ -14,9 +14,9 @@ The save options in PDF exporting.
 
 
 
-**Inheritance:** [PdfSaveOptions](/3d/python-net/aspose.threed.formats/pdfsaveoptions) → 
-[SaveOptions](/3d/python-net/aspose.threed.formats/saveoptions) → 
-[IOConfig](/3d/python-net/aspose.threed.formats/ioconfig)
+**Inheritance:** [`PdfSaveOptions`](/3d/python-net/aspose.threed.formats/pdfsaveoptions) → 
+[`SaveOptions`](/3d/python-net/aspose.threed.formats/saveoptions) → 
+[`IOConfig`](/3d/python-net/aspose.threed.formats/ioconfig)
 
 
 
@@ -25,7 +25,7 @@ The PdfSaveOptions type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [PdfSaveOptions()](/3d/python-net/aspose.threed.formats/pdfsaveoptions/__init__/#) | Constructor of [PdfSaveOptions](/3d/python-net/aspose.threed.formats/pdfsaveoptions) |
+| [PdfSaveOptions()](/3d/python-net/aspose.threed.formats/pdfsaveoptions/__init__/#) | Constructor of [`PdfSaveOptions`](/3d/python-net/aspose.threed.formats/pdfsaveoptions) |
 
 
 ### Properties
@@ -39,15 +39,15 @@ The PdfSaveOptions type exposes the following members:
 | [render_mode](/3d/python-net/aspose.threed.formats/pdfsaveoptions/render_mode) | Render mode specifies the style in which the 3D artwork is rendered. |
 | [lighting_scheme](/3d/python-net/aspose.threed.formats/pdfsaveoptions/lighting_scheme) | LightingScheme specifies the lighting to apply to 3D artwork. |
 | [background_color](/3d/python-net/aspose.threed.formats/pdfsaveoptions/background_color) | Background color of the 3D view in PDF file. |
-| [face_color](/3d/python-net/aspose.threed.formats/pdfsaveoptions/face_color) | Gets or sets the face color to be used  when rendering the 3D content. <br/>This is only relevant only when the [PdfSaveOptions.render_mode](/3d/python-net/aspose.threed.formats/pdfsaveoptions#render_mode) has a value of Illustration. |
-| [auxiliary_color](/3d/python-net/aspose.threed.formats/pdfsaveoptions/auxiliary_color) | Gets or sets the auxiliary color to be used  when rendering the 3D content.<br/>The interpretation of this color depends on the [PdfSaveOptions.render_mode](/3d/python-net/aspose.threed.formats/pdfsaveoptions#render_mode) |
+| [face_color](/3d/python-net/aspose.threed.formats/pdfsaveoptions/face_color) | Gets or sets the face color to be used  when rendering the 3D content. <br/>This is only relevant only when the [`PdfSaveOptions.render_mode`](/3d/python-net/aspose.threed.formats/pdfsaveoptions#render_mode) has a value of Illustration. |
+| [auxiliary_color](/3d/python-net/aspose.threed.formats/pdfsaveoptions/auxiliary_color) | Gets or sets the auxiliary color to be used  when rendering the 3D content.<br/>The interpretation of this color depends on the [`PdfSaveOptions.render_mode`](/3d/python-net/aspose.threed.formats/pdfsaveoptions#render_mode) |
 | [flip_coordinate_system](/3d/python-net/aspose.threed.formats/pdfsaveoptions/flip_coordinate_system) | Gets or sets to flip the coordinate system of the scene during exporting. |
 | [embed_textures](/3d/python-net/aspose.threed.formats/pdfsaveoptions/embed_textures) | Embed the external textures into the PDF file, default value is false. |
 
 
 
 ### See Also
-* module [aspose.threed.formats](..)
-* class [IOConfig](/3d/python-net/aspose.threed.formats/ioconfig)
-* class [PdfSaveOptions](/3d/python-net/aspose.threed.formats/pdfsaveoptions)
-* class [SaveOptions](/3d/python-net/aspose.threed.formats/saveoptions)
+* module [`aspose.threed.formats`](..)
+* class [`IOConfig`](/3d/python-net/aspose.threed.formats/ioconfig)
+* class [`PdfSaveOptions`](/3d/python-net/aspose.threed.formats/pdfsaveoptions)
+* class [`SaveOptions`](/3d/python-net/aspose.threed.formats/saveoptions)

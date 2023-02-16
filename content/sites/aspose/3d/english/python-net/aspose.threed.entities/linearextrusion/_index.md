@@ -14,10 +14,10 @@ Linear extrusion takes a 2D shape as input and extends the shape in the 3rd dime
 
 
 
-**Inheritance:** [LinearExtrusion](/3d/python-net/aspose.threed.entities/linearextrusion) → 
-[Entity](/3d/python-net/aspose.threed/entity) → 
-[SceneObject](/3d/python-net/aspose.threed/sceneobject) → 
-[A3DObject](/3d/python-net/aspose.threed/a3dobject)
+**Inheritance:** [`LinearExtrusion`](/3d/python-net/aspose.threed.entities/linearextrusion) → 
+[`Entity`](/3d/python-net/aspose.threed/entity) → 
+[`SceneObject`](/3d/python-net/aspose.threed/sceneobject) → 
+[`A3DObject`](/3d/python-net/aspose.threed/a3dobject)
 
 
 
@@ -26,8 +26,8 @@ The LinearExtrusion type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [LinearExtrusion()](/3d/python-net/aspose.threed.entities/linearextrusion/__init__/#) | Constructor of instance [LinearExtrusion](/3d/python-net/aspose.threed.entities/linearextrusion). |
-| [LinearExtrusion(shape, height)](/3d/python-net/aspose.threed.entities/linearextrusion/__init__/#aspose.threed.profiles.Profile-float) | Constructor of instance [LinearExtrusion](/3d/python-net/aspose.threed.entities/linearextrusion). |
+| [LinearExtrusion()](/3d/python-net/aspose.threed.entities/linearextrusion/__init__/#) | Constructor of instance [`LinearExtrusion`](/3d/python-net/aspose.threed.entities/linearextrusion). |
+| [LinearExtrusion(shape, height)](/3d/python-net/aspose.threed.entities/linearextrusion/__init__/#aspose.threed.profiles.Profile-float) | Constructor of instance [`LinearExtrusion`](/3d/python-net/aspose.threed.entities/linearextrusion). |
 
 
 ### Properties
@@ -63,8 +63,8 @@ The LinearExtrusion type exposes the following members:
 
 
 ### See Also
-* module [aspose.threed.entities](..)
-* class [A3DObject](/3d/python-net/aspose.threed/a3dobject)
-* class [Entity](/3d/python-net/aspose.threed/entity)
-* class [LinearExtrusion](/3d/python-net/aspose.threed.entities/linearextrusion)
-* class [SceneObject](/3d/python-net/aspose.threed/sceneobject)
+* module [`aspose.threed.entities`](..)
+* class [`A3DObject`](/3d/python-net/aspose.threed/a3dobject)
+* class [`Entity`](/3d/python-net/aspose.threed/entity)
+* class [`LinearExtrusion`](/3d/python-net/aspose.threed.entities/linearextrusion)
+* class [`SceneObject`](/3d/python-net/aspose.threed/sceneobject)

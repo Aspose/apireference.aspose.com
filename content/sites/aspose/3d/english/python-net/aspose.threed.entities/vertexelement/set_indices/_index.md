@@ -27,5 +27,5 @@ def set_indices(self, data):
 
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [VertexElement](/3d/python-net/aspose.threed.entities/vertexelement)
+* module [`aspose.threed.entities`](../../)
+* class [`VertexElement`](/3d/python-net/aspose.threed.entities/vertexelement)

@@ -10,13 +10,13 @@ is_root: false
 
 ## MorphTargetChannel class
 
-A MorphTargetChannel is used by [MorphTargetDeformer](/3d/python-net/aspose.threed.deformers/morphtargetdeformer) to organize the target geometries.
+A MorphTargetChannel is used by [`MorphTargetDeformer`](/3d/python-net/aspose.threed.deformers/morphtargetdeformer) to organize the target geometries.
 Some file formats like FBX support multiple channels in parallel.
 
 
 
-**Inheritance:** [MorphTargetChannel](/3d/python-net/aspose.threed.deformers/morphtargetchannel) → 
-[A3DObject](/3d/python-net/aspose.threed/a3dobject)
+**Inheritance:** [`MorphTargetChannel`](/3d/python-net/aspose.threed.deformers/morphtargetchannel) → 
+[`A3DObject`](/3d/python-net/aspose.threed/a3dobject)
 
 
 
@@ -25,8 +25,8 @@ The MorphTargetChannel type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [MorphTargetChannel(name)](/3d/python-net/aspose.threed.deformers/morphtargetchannel/__init__/#str) | Initializes a new instance of the [MorphTargetChannel](/3d/python-net/aspose.threed.deformers/morphtargetchannel) class. |
-| [MorphTargetChannel()](/3d/python-net/aspose.threed.deformers/morphtargetchannel/__init__/#) | Initializes a new instance of the [MorphTargetChannel](/3d/python-net/aspose.threed.deformers/morphtargetchannel) class. |
+| [MorphTargetChannel(name)](/3d/python-net/aspose.threed.deformers/morphtargetchannel/__init__/#str) | Initializes a new instance of the [`MorphTargetChannel`](/3d/python-net/aspose.threed.deformers/morphtargetchannel) class. |
+| [MorphTargetChannel()](/3d/python-net/aspose.threed.deformers/morphtargetchannel/__init__/#) | Initializes a new instance of the [`MorphTargetChannel`](/3d/python-net/aspose.threed.deformers/morphtargetchannel) class. |
 
 
 ### Properties
@@ -59,7 +59,7 @@ The MorphTargetChannel type exposes the following members:
 Weight is between 0 and 1.0, and default weight for target is 0.0;
 
 ### See Also
-* module [aspose.threed.deformers](..)
-* class [A3DObject](/3d/python-net/aspose.threed/a3dobject)
-* class [MorphTargetChannel](/3d/python-net/aspose.threed.deformers/morphtargetchannel)
-* class [MorphTargetDeformer](/3d/python-net/aspose.threed.deformers/morphtargetdeformer)
+* module [`aspose.threed.deformers`](..)
+* class [`A3DObject`](/3d/python-net/aspose.threed/a3dobject)
+* class [`MorphTargetChannel`](/3d/python-net/aspose.threed.deformers/morphtargetchannel)
+* class [`MorphTargetDeformer`](/3d/python-net/aspose.threed.deformers/morphtargetdeformer)

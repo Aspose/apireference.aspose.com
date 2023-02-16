@@ -23,5 +23,5 @@ def embed_textures(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.formats](../../)
-* class [PdfSaveOptions](/3d/python-net/aspose.threed.formats/pdfsaveoptions)
+* module [`aspose.threed.formats`](../../)
+* class [`PdfSaveOptions`](/3d/python-net/aspose.threed.formats/pdfsaveoptions)

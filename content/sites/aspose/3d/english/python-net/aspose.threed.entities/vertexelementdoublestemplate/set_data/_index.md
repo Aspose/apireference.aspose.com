@@ -27,5 +27,5 @@ def set_data(self, data):
 
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [VertexElementDoublesTemplate](/3d/python-net/aspose.threed.entities/vertexelementdoublestemplate)
+* module [`aspose.threed.entities`](../../)
+* class [`VertexElementDoublesTemplate`](/3d/python-net/aspose.threed.entities/vertexelementdoublestemplate)

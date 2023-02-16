@@ -23,6 +23,6 @@ def diffuse_color(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.shading](../../)
-* class [LambertMaterial](/3d/python-net/aspose.threed.shading/lambertmaterial)
-* class [Vector3](/3d/python-net/aspose.threed.utilities/vector3)
+* module [`aspose.threed.shading`](../../)
+* class [`LambertMaterial`](/3d/python-net/aspose.threed.shading/lambertmaterial)
+* class [`Vector3`](/3d/python-net/aspose.threed.utilities/vector3)

@@ -11,12 +11,12 @@ is_root: false
 ## Material class
 
 Material defines the parameters necessary for visual appearance of geometry.
-Aspose.3D provides shading model for [LambertMaterial](/3d/python-net/aspose.threed.shading/lambertmaterial), [PhongMaterial](/3d/python-net/aspose.threed.shading/phongmaterial) and [ShaderMaterial](/3d/python-net/aspose.threed.shading/shadermaterial)
+Aspose.3D provides shading model for [`LambertMaterial`](/3d/python-net/aspose.threed.shading/lambertmaterial), [`PhongMaterial`](/3d/python-net/aspose.threed.shading/phongmaterial) and [`ShaderMaterial`](/3d/python-net/aspose.threed.shading/shadermaterial)
 
 
 
-**Inheritance:** [Material](/3d/python-net/aspose.threed.shading/material) → 
-[A3DObject](/3d/python-net/aspose.threed/a3dobject)
+**Inheritance:** [`Material`](/3d/python-net/aspose.threed.shading/material) → 
+[`A3DObject`](/3d/python-net/aspose.threed/a3dobject)
 
 
 
@@ -27,11 +27,11 @@ The Material type exposes the following members:
 | :- | :- |
 | [name](/3d/python-net/aspose.threed.shading/material/name) | Gets or sets the name. |
 | [properties](/3d/python-net/aspose.threed.shading/material/properties) | Gets the collection of all properties. |
-| [MAP_SPECULAR](/3d/python-net/aspose.threed.shading/material/map_specular) | Used in [Material.set_texture(slot_name, texture)](/3d/python-net/aspose.threed.shading/material/set_texture) to assign a specular texture mapping. |
-| [MAP_DIFFUSE](/3d/python-net/aspose.threed.shading/material/map_diffuse) | Used in [Material.set_texture(slot_name, texture)](/3d/python-net/aspose.threed.shading/material/set_texture) to assign a diffuse texture mapping. |
-| [MAP_EMISSIVE](/3d/python-net/aspose.threed.shading/material/map_emissive) | Used in [Material.set_texture(slot_name, texture)](/3d/python-net/aspose.threed.shading/material/set_texture) to assign a emissive texture mapping. |
-| [MAP_AMBIENT](/3d/python-net/aspose.threed.shading/material/map_ambient) | Used in [Material.set_texture(slot_name, texture)](/3d/python-net/aspose.threed.shading/material/set_texture) to assign a ambient texture mapping. |
-| [MAP_NORMAL](/3d/python-net/aspose.threed.shading/material/map_normal) | Used in [Material.set_texture(slot_name, texture)](/3d/python-net/aspose.threed.shading/material/set_texture) to assign a normal texture mapping. |
+| [MAP_SPECULAR](/3d/python-net/aspose.threed.shading/material/map_specular) | Used in [`Material.set_texture(slot_name, texture)`](/3d/python-net/aspose.threed.shading/material/set_texture) to assign a specular texture mapping. |
+| [MAP_DIFFUSE](/3d/python-net/aspose.threed.shading/material/map_diffuse) | Used in [`Material.set_texture(slot_name, texture)`](/3d/python-net/aspose.threed.shading/material/set_texture) to assign a diffuse texture mapping. |
+| [MAP_EMISSIVE](/3d/python-net/aspose.threed.shading/material/map_emissive) | Used in [`Material.set_texture(slot_name, texture)`](/3d/python-net/aspose.threed.shading/material/set_texture) to assign a emissive texture mapping. |
+| [MAP_AMBIENT](/3d/python-net/aspose.threed.shading/material/map_ambient) | Used in [`Material.set_texture(slot_name, texture)`](/3d/python-net/aspose.threed.shading/material/set_texture) to assign a ambient texture mapping. |
+| [MAP_NORMAL](/3d/python-net/aspose.threed.shading/material/map_normal) | Used in [`Material.set_texture(slot_name, texture)`](/3d/python-net/aspose.threed.shading/material/set_texture) to assign a normal texture mapping. |
 
 
 ### Methods
@@ -63,9 +63,9 @@ for slot in mat:
 ```
 
 ### See Also
-* module [aspose.threed.shading](..)
-* class [A3DObject](/3d/python-net/aspose.threed/a3dobject)
-* class [LambertMaterial](/3d/python-net/aspose.threed.shading/lambertmaterial)
-* class [Material](/3d/python-net/aspose.threed.shading/material)
-* class [PhongMaterial](/3d/python-net/aspose.threed.shading/phongmaterial)
-* class [ShaderMaterial](/3d/python-net/aspose.threed.shading/shadermaterial)
+* module [`aspose.threed.shading`](..)
+* class [`A3DObject`](/3d/python-net/aspose.threed/a3dobject)
+* class [`LambertMaterial`](/3d/python-net/aspose.threed.shading/lambertmaterial)
+* class [`Material`](/3d/python-net/aspose.threed.shading/material)
+* class [`PhongMaterial`](/3d/python-net/aspose.threed.shading/phongmaterial)
+* class [`ShaderMaterial`](/3d/python-net/aspose.threed.shading/shadermaterial)

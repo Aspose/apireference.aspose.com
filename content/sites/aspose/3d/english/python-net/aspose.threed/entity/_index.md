@@ -11,13 +11,13 @@ is_root: false
 ## Entity class
 
 The base class of all entities.
-Entity represents a concrete object that attached under a node like [Light](/3d/python-net/aspose.threed.entities/light)/[Geometry](/3d/python-net/aspose.threed.entities/geometry).
+Entity represents a concrete object that attached under a node like [`Light`](/3d/python-net/aspose.threed.entities/light)/[`Geometry`](/3d/python-net/aspose.threed.entities/geometry).
 
 
 
-**Inheritance:** [Entity](/3d/python-net/aspose.threed/entity) → 
-[SceneObject](/3d/python-net/aspose.threed/sceneobject) → 
-[A3DObject](/3d/python-net/aspose.threed/a3dobject)
+**Inheritance:** [`Entity`](/3d/python-net/aspose.threed/entity) → 
+[`SceneObject`](/3d/python-net/aspose.threed/sceneobject) → 
+[`A3DObject`](/3d/python-net/aspose.threed/a3dobject)
 
 
 
@@ -48,9 +48,9 @@ The Entity type exposes the following members:
 
 
 ### See Also
-* module [aspose.threed](..)
-* class [A3DObject](/3d/python-net/aspose.threed/a3dobject)
-* class [Entity](/3d/python-net/aspose.threed/entity)
-* class [Geometry](/3d/python-net/aspose.threed.entities/geometry)
-* class [Light](/3d/python-net/aspose.threed.entities/light)
-* class [SceneObject](/3d/python-net/aspose.threed/sceneobject)
+* module [`aspose.threed`](..)
+* class [`A3DObject`](/3d/python-net/aspose.threed/a3dobject)
+* class [`Entity`](/3d/python-net/aspose.threed/entity)
+* class [`Geometry`](/3d/python-net/aspose.threed.entities/geometry)
+* class [`Light`](/3d/python-net/aspose.threed.entities/light)
+* class [`SceneObject`](/3d/python-net/aspose.threed/sceneobject)

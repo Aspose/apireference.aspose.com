@@ -10,7 +10,7 @@ is_root: false
 
 ## ParseException(msg) {#str}
 
-Constructor of [ParseException](/3d/python-net/aspose.threed.utilities/parseexception)
+Constructor of [`ParseException`](/3d/python-net/aspose.threed.utilities/parseexception)
 
 
 
@@ -27,5 +27,5 @@ def __init__(self, msg):
 
 
 ### See Also
-* module [aspose.threed.utilities](../../)
-* class [ParseException](/3d/python-net/aspose.threed.utilities/parseexception)
+* module [`aspose.threed.utilities`](../../)
+* class [`ParseException`](/3d/python-net/aspose.threed.utilities/parseexception)

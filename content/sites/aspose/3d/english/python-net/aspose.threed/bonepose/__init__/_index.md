@@ -24,5 +24,5 @@ def __init__(self):
 
 
 ### See Also
-* module [aspose.threed](../../)
-* class [BonePose](/3d/python-net/aspose.threed/bonepose)
+* module [`aspose.threed`](../../)
+* class [`BonePose`](/3d/python-net/aspose.threed/bonepose)

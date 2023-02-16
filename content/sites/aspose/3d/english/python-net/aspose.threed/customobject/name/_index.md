@@ -23,5 +23,5 @@ def name(self, value):
 ```
 
 ### See Also
-* module [aspose.threed](../../)
-* class [CustomObject](/3d/python-net/aspose.threed/customobject)
+* module [`aspose.threed`](../../)
+* class [`CustomObject`](/3d/python-net/aspose.threed/customobject)

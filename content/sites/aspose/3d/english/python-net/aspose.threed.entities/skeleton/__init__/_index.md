@@ -10,7 +10,7 @@ is_root: false
 
 ## Skeleton() {#}
 
-Initializes a new instance of the [Skeleton](/3d/python-net/aspose.threed.entities/skeleton) class.
+Initializes a new instance of the [`Skeleton`](/3d/python-net/aspose.threed.entities/skeleton) class.
 
 
 
@@ -24,7 +24,7 @@ def __init__(self):
 
 ## Skeleton(name) {#str}
 
-Initializes a new instance of the [Skeleton](/3d/python-net/aspose.threed.entities/skeleton) class.
+Initializes a new instance of the [`Skeleton`](/3d/python-net/aspose.threed.entities/skeleton) class.
 
 
 
@@ -41,5 +41,5 @@ def __init__(self, name):
 
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [Skeleton](/3d/python-net/aspose.threed.entities/skeleton)
+* module [`aspose.threed.entities`](../../)
+* class [`Skeleton`](/3d/python-net/aspose.threed.entities/skeleton)

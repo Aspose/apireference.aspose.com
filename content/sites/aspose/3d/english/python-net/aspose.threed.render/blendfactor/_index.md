@@ -29,13 +29,13 @@ The BlendFactor type exposes the following members:
 | ONE_MINUS_SRC_ALPHA | The blend factor is vec4(1 - src.a) |
 | DST_ALPHA | The blend factor is vec4(dst.a) |
 | ONE_MINUS_DST_ALPHA | The blend factor is vec4(1 - dst.a) |
-| CONSTANT_COLOR | The blend factor is c where c is specified in [RenderState.blend_color](/3d/python-net/aspose.threed.render/renderstate#blend_color) |
-| ONE_MINUS_CONSTANT_COLOR | The blend factor is vec4(1) - c where c is specified in [RenderState.blend_color](/3d/python-net/aspose.threed.render/renderstate#blend_color) |
-| CONSTANT_ALPHA | The blend factor is vec4(c.a) where c is specified in [RenderState.blend_color](/3d/python-net/aspose.threed.render/renderstate#blend_color) |
-| ONE_MINUS_CONSTANT_ALPHA | The blend factor is vec4(1 - c.a) where c is specified in [RenderState.blend_color](/3d/python-net/aspose.threed.render/renderstate#blend_color) |
+| CONSTANT_COLOR | The blend factor is c where c is specified in [`RenderState.blend_color`](/3d/python-net/aspose.threed.render/renderstate#blend_color) |
+| ONE_MINUS_CONSTANT_COLOR | The blend factor is vec4(1) - c where c is specified in [`RenderState.blend_color`](/3d/python-net/aspose.threed.render/renderstate#blend_color) |
+| CONSTANT_ALPHA | The blend factor is vec4(c.a) where c is specified in [`RenderState.blend_color`](/3d/python-net/aspose.threed.render/renderstate#blend_color) |
+| ONE_MINUS_CONSTANT_ALPHA | The blend factor is vec4(1 - c.a) where c is specified in [`RenderState.blend_color`](/3d/python-net/aspose.threed.render/renderstate#blend_color) |
 | SRC_ALPHA_SATURATE | The blend factor is min(src.a, 1 - dst.a) |
 
 
 
 ### See Also
-* module [aspose.threed.render](..)
+* module [`aspose.threed.render`](..)

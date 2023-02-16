@@ -14,9 +14,9 @@ Load options for STL
 
 
 
-**Inheritance:** [StlLoadOptions](/3d/python-net/aspose.threed.formats/stlloadoptions) → 
-[LoadOptions](/3d/python-net/aspose.threed.formats/loadoptions) → 
-[IOConfig](/3d/python-net/aspose.threed.formats/ioconfig)
+**Inheritance:** [`StlLoadOptions`](/3d/python-net/aspose.threed.formats/stlloadoptions) → 
+[`LoadOptions`](/3d/python-net/aspose.threed.formats/loadoptions) → 
+[`IOConfig`](/3d/python-net/aspose.threed.formats/ioconfig)
 
 
 
@@ -25,8 +25,8 @@ The StlLoadOptions type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [StlLoadOptions()](/3d/python-net/aspose.threed.formats/stlloadoptions/__init__/#) | Initializes of a new [StlLoadOptions](/3d/python-net/aspose.threed.formats/stlloadoptions) instance. |
-| [StlLoadOptions(content_type)](/3d/python-net/aspose.threed.formats/stlloadoptions/__init__/#FileContentType) | Initializes of a new [StlLoadOptions](/3d/python-net/aspose.threed.formats/stlloadoptions) instance. |
+| [StlLoadOptions()](/3d/python-net/aspose.threed.formats/stlloadoptions/__init__/#) | Initializes of a new [`StlLoadOptions`](/3d/python-net/aspose.threed.formats/stlloadoptions) instance. |
+| [StlLoadOptions(content_type)](/3d/python-net/aspose.threed.formats/stlloadoptions/__init__/#FileContentType) | Initializes of a new [`StlLoadOptions`](/3d/python-net/aspose.threed.formats/stlloadoptions) instance. |
 
 
 ### Properties
@@ -43,7 +43,7 @@ The StlLoadOptions type exposes the following members:
 
 
 ### See Also
-* module [aspose.threed.formats](..)
-* class [IOConfig](/3d/python-net/aspose.threed.formats/ioconfig)
-* class [LoadOptions](/3d/python-net/aspose.threed.formats/loadoptions)
-* class [StlLoadOptions](/3d/python-net/aspose.threed.formats/stlloadoptions)
+* module [`aspose.threed.formats`](..)
+* class [`IOConfig`](/3d/python-net/aspose.threed.formats/ioconfig)
+* class [`LoadOptions`](/3d/python-net/aspose.threed.formats/loadoptions)
+* class [`StlLoadOptions`](/3d/python-net/aspose.threed.formats/stlloadoptions)

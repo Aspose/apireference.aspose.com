@@ -23,6 +23,6 @@ def file_system(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.formats](../../)
-* class [FbxSaveOptions](/3d/python-net/aspose.threed.formats/fbxsaveoptions)
-* class [FileSystem](/3d/python-net/aspose.threed.utilities/filesystem)
+* module [`aspose.threed.formats`](../../)
+* class [`FbxSaveOptions`](/3d/python-net/aspose.threed.formats/fbxsaveoptions)
+* class [`FileSystem`](/3d/python-net/aspose.threed.utilities/filesystem)

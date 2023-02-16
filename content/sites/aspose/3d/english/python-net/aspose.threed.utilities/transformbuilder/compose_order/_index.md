@@ -23,6 +23,6 @@ def compose_order(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.utilities](../../)
-* class [ComposeOrder](/3d/python-net/aspose.threed.utilities/composeorder)
-* class [TransformBuilder](/3d/python-net/aspose.threed.utilities/transformbuilder)
+* module [`aspose.threed.utilities`](../../)
+* class [`ComposeOrder`](/3d/python-net/aspose.threed.utilities/composeorder)
+* class [`TransformBuilder`](/3d/python-net/aspose.threed.utilities/transformbuilder)

@@ -28,10 +28,10 @@ def from_angle_axis(self, a, axis):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | a | float | Clockwise rotation in radian |
-| axis | [Vector3](/3d/python-net/aspose.threed.utilities/vector3) | Axis |
+| axis | [`Vector3`](/3d/python-net/aspose.threed.utilities/vector3) | Axis |
 
 
 
 ### See Also
-* module [aspose.threed.utilities](../../)
-* class [Quaternion](/3d/python-net/aspose.threed.utilities/quaternion)
+* module [`aspose.threed.utilities`](../../)
+* class [`Quaternion`](/3d/python-net/aspose.threed.utilities/quaternion)

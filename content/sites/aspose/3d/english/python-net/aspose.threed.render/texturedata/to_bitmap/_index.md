@@ -29,5 +29,5 @@ def to_bitmap(self):
 
 
 ### See Also
-* module [aspose.threed.render](../../)
-* class [TextureData](/3d/python-net/aspose.threed.render/texturedata)
+* module [`aspose.threed.render`](../../)
+* class [`TextureData`](/3d/python-net/aspose.threed.render/texturedata)

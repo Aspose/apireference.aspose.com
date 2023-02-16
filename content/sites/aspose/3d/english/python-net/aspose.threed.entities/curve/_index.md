@@ -14,10 +14,10 @@ The base class of all curve implementations.
 
 
 
-**Inheritance:** [Curve](/3d/python-net/aspose.threed.entities/curve) → 
-[Entity](/3d/python-net/aspose.threed/entity) → 
-[SceneObject](/3d/python-net/aspose.threed/sceneobject) → 
-[A3DObject](/3d/python-net/aspose.threed/a3dobject)
+**Inheritance:** [`Curve`](/3d/python-net/aspose.threed.entities/curve) → 
+[`Entity`](/3d/python-net/aspose.threed/entity) → 
+[`SceneObject`](/3d/python-net/aspose.threed/sceneobject) → 
+[`A3DObject`](/3d/python-net/aspose.threed/a3dobject)
 
 
 
@@ -49,8 +49,8 @@ The Curve type exposes the following members:
 
 
 ### See Also
-* module [aspose.threed.entities](..)
-* class [A3DObject](/3d/python-net/aspose.threed/a3dobject)
-* class [Curve](/3d/python-net/aspose.threed.entities/curve)
-* class [Entity](/3d/python-net/aspose.threed/entity)
-* class [SceneObject](/3d/python-net/aspose.threed/sceneobject)
+* module [`aspose.threed.entities`](..)
+* class [`A3DObject`](/3d/python-net/aspose.threed/a3dobject)
+* class [`Curve`](/3d/python-net/aspose.threed.entities/curve)
+* class [`Entity`](/3d/python-net/aspose.threed/entity)
+* class [`SceneObject`](/3d/python-net/aspose.threed/sceneobject)

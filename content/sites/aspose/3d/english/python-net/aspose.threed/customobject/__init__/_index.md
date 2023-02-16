@@ -10,7 +10,7 @@ is_root: false
 
 ## CustomObject() {#}
 
-Initializes a new instance of the [CustomObject](/3d/python-net/aspose.threed/customobject) class.
+Initializes a new instance of the [`CustomObject`](/3d/python-net/aspose.threed/customobject) class.
 
 
 
@@ -24,7 +24,7 @@ def __init__(self):
 
 ## CustomObject(name) {#str}
 
-Initializes a new instance of the [CustomObject](/3d/python-net/aspose.threed/customobject) class.
+Initializes a new instance of the [`CustomObject`](/3d/python-net/aspose.threed/customobject) class.
 
 
 
@@ -41,5 +41,5 @@ def __init__(self, name):
 
 
 ### See Also
-* module [aspose.threed](../../)
-* class [CustomObject](/3d/python-net/aspose.threed/customobject)
+* module [`aspose.threed`](../../)
+* class [`CustomObject`](/3d/python-net/aspose.threed/customobject)

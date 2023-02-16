@@ -23,6 +23,6 @@ def out_tangent(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.animation](../../)
-* class [KeyFrame](/3d/python-net/aspose.threed.animation/keyframe)
-* class [Vector2](/3d/python-net/aspose.threed.utilities/vector2)
+* module [`aspose.threed.animation`](../../)
+* class [`KeyFrame`](/3d/python-net/aspose.threed.animation/keyframe)
+* class [`Vector2`](/3d/python-net/aspose.threed.utilities/vector2)

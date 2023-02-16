@@ -33,19 +33,19 @@ def get_texture(self, slot_name):
 
 
 ```python
+from aspose import pycore
 from aspose.threed.shading import LambertMaterial, Material, Texture
-import aspose.pycore
 
 mat = LambertMaterial()
 tex = Texture()
 tex.file_name = "diffuse.png"
 mat.set_texture(Material.MAP_DIFFUSE, tex)
-tex = aspose.pycore.cast(Aspose.ThreeD.Shading.Texture, mat.get_texture(Material.MAP_DIFFUSE))
+tex = pycore.cast(Texture, mat.get_texture(Material.MAP_DIFFUSE))
 
 ```
 
 
 
 ### See Also
-* module [aspose.threed.shading](../../)
-* class [PhongMaterial](/3d/python-net/aspose.threed.shading/phongmaterial)
+* module [`aspose.threed.shading`](../../)
+* class [`PhongMaterial`](/3d/python-net/aspose.threed.shading/phongmaterial)

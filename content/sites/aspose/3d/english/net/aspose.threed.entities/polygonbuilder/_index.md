@@ -31,17 +31,19 @@ public sealed class PolygonBuilder
 ### Examples
 
 ```csharp
+Mesh mesh = new Mesh();
 PolygonBuilder builder = new PolygonBuilder(mesh);
 builder.Begin();
 builder.AddVertex(0);
 builder.AddVertex(1);
 builder.AddVertex(2);
-Builder.End();
+builder.End();
 ```
 
 Equals to :
 
 ```csharp
+Mesh mesh = new Mesh();
 int[] indices = new int[] {0, 1, 2};
 mesh.CreatePolygon(indices);
 ```

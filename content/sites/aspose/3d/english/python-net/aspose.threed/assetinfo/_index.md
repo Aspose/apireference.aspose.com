@@ -11,13 +11,13 @@ is_root: false
 ## AssetInfo class
 
 Information of asset.
-Asset information can be attached to a [Scene](/3d/python-net/aspose.threed/scene).
-Child [Scene](/3d/python-net/aspose.threed/scene) can have its own [AssetInfo](/3d/python-net/aspose.threed/assetinfo) to override parent's definition.
+Asset information can be attached to a [`Scene`](/3d/python-net/aspose.threed/scene).
+Child [`Scene`](/3d/python-net/aspose.threed/scene) can have its own [`AssetInfo`](/3d/python-net/aspose.threed/assetinfo) to override parent's definition.
 
 
 
-**Inheritance:** [AssetInfo](/3d/python-net/aspose.threed/assetinfo) → 
-[A3DObject](/3d/python-net/aspose.threed/a3dobject)
+**Inheritance:** [`AssetInfo`](/3d/python-net/aspose.threed/assetinfo) → 
+[`A3DObject`](/3d/python-net/aspose.threed/a3dobject)
 
 
 
@@ -26,8 +26,8 @@ The AssetInfo type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [AssetInfo()](/3d/python-net/aspose.threed/assetinfo/__init__/#) | Initializes a new instance of the [AssetInfo](/3d/python-net/aspose.threed/assetinfo) class. |
-| [AssetInfo(name)](/3d/python-net/aspose.threed/assetinfo/__init__/#str) | Initializes a new instance of the [AssetInfo](/3d/python-net/aspose.threed/assetinfo) class. |
+| [AssetInfo()](/3d/python-net/aspose.threed/assetinfo/__init__/#) | Initializes a new instance of the [`AssetInfo`](/3d/python-net/aspose.threed/assetinfo) class. |
+| [AssetInfo(name)](/3d/python-net/aspose.threed/assetinfo/__init__/#str) | Initializes a new instance of the [`AssetInfo`](/3d/python-net/aspose.threed/assetinfo) class. |
 
 
 ### Properties
@@ -80,7 +80,7 @@ print(f"The file is created at {scene.asset_info.creation_time} by {scene.asset_
 ```
 
 ### See Also
-* module [aspose.threed](..)
-* class [A3DObject](/3d/python-net/aspose.threed/a3dobject)
-* class [AssetInfo](/3d/python-net/aspose.threed/assetinfo)
-* class [Scene](/3d/python-net/aspose.threed/scene)
+* module [`aspose.threed`](..)
+* class [`A3DObject`](/3d/python-net/aspose.threed/a3dobject)
+* class [`AssetInfo`](/3d/python-net/aspose.threed/assetinfo)
+* class [`Scene`](/3d/python-net/aspose.threed/scene)

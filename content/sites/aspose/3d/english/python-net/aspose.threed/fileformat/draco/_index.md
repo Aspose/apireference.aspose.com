@@ -14,6 +14,6 @@ is_root: false
 Google Draco Mesh
 
 ### See Also
-* module [aspose.threed](../../)
-* class [DracoFormat](/3d/python-net/aspose.threed.formats/dracoformat)
-* class [FileFormat](/3d/python-net/aspose.threed/fileformat)
+* module [`aspose.threed`](../../)
+* class [`DracoFormat`](/3d/python-net/aspose.threed.formats/dracoformat)
+* class [`FileFormat`](/3d/python-net/aspose.threed/fileformat)

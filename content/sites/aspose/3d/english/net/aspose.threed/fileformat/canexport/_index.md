@@ -14,6 +14,17 @@ Gets whether Aspose.3D supports export scene to current file format.
 public bool CanExport { get; }
 ```
 
+### Examples
+
+The following code shows how to check if exporting to specified format is supported.
+
+```csharp
+var outputFormat = ".glb";
+var format = FileFormat.GetFormatByExtension(outputFormat);
+if (format.CanExport)
+    Console.WriteLine($"Can export to {outputFormat}");
+```
+
 ### See Also
 
 * class [FileFormat](../../fileformat)

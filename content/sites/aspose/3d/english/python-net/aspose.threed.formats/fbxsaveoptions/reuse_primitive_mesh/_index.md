@@ -24,5 +24,5 @@ def reuse_primitive_mesh(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.formats](../../)
-* class [FbxSaveOptions](/3d/python-net/aspose.threed.formats/fbxsaveoptions)
+* module [`aspose.threed.formats`](../../)
+* class [`FbxSaveOptions`](/3d/python-net/aspose.threed.formats/fbxsaveoptions)

@@ -20,6 +20,6 @@ def properties(self):
 ```
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [LinearExtrusion](/3d/python-net/aspose.threed.entities/linearextrusion)
-* class [PropertyCollection](/3d/python-net/aspose.threed/propertycollection)
+* module [`aspose.threed.entities`](../../)
+* class [`LinearExtrusion`](/3d/python-net/aspose.threed.entities/linearextrusion)
+* class [`PropertyCollection`](/3d/python-net/aspose.threed/propertycollection)

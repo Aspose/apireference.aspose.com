@@ -105,5 +105,5 @@ scene.open("input.fbx", opts)
 
 
 ### See Also
-* module [aspose.threed](../../)
-* class [Scene](/3d/python-net/aspose.threed/scene)
+* module [`aspose.threed`](../../)
+* class [`Scene`](/3d/python-net/aspose.threed/scene)

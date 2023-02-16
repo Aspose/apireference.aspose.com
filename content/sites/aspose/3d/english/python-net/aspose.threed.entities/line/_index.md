@@ -10,17 +10,17 @@ is_root: false
 
 ## Line class
 
-A polyline is a path defined by a set of points with [Geometry.control_points](/3d/python-net/aspose.threed.entities/geometry#control_points), and connected by [Line.segments](/3d/python-net/aspose.threed.entities/line#segments),
+A polyline is a path defined by a set of points with [`Geometry.control_points`](/3d/python-net/aspose.threed.entities/geometry#control_points), and connected by [`Line.segments`](/3d/python-net/aspose.threed.entities/line#segments),
 which means it can also be a set of connected line segments.
-The line is usually a linear object, which means it cannot be used to represent a curve, in order to represent a curve, uses [NurbsCurve](/3d/python-net/aspose.threed.entities/nurbscurve).
+The line is usually a linear object, which means it cannot be used to represent a curve, in order to represent a curve, uses [`NurbsCurve`](/3d/python-net/aspose.threed.entities/nurbscurve).
 
 
 
-**Inheritance:** [Line](/3d/python-net/aspose.threed.entities/line) → 
-[Curve](/3d/python-net/aspose.threed.entities/curve) → 
-[Entity](/3d/python-net/aspose.threed/entity) → 
-[SceneObject](/3d/python-net/aspose.threed/sceneobject) → 
-[A3DObject](/3d/python-net/aspose.threed/a3dobject)
+**Inheritance:** [`Line`](/3d/python-net/aspose.threed.entities/line) → 
+[`Curve`](/3d/python-net/aspose.threed.entities/curve) → 
+[`Entity`](/3d/python-net/aspose.threed/entity) → 
+[`SceneObject`](/3d/python-net/aspose.threed/sceneobject) → 
+[`A3DObject`](/3d/python-net/aspose.threed/a3dobject)
 
 
 
@@ -29,8 +29,8 @@ The Line type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [Line()](/3d/python-net/aspose.threed.entities/line/__init__/#) | Initializes a new instance of the [Line](/3d/python-net/aspose.threed.entities/line) class. |
-| [Line(name)](/3d/python-net/aspose.threed.entities/line/__init__/#str) | Initializes a new instance of the [Line](/3d/python-net/aspose.threed.entities/line) class. |
+| [Line()](/3d/python-net/aspose.threed.entities/line/__init__/#) | Initializes a new instance of the [`Line`](/3d/python-net/aspose.threed.entities/line) class. |
+| [Line(name)](/3d/python-net/aspose.threed.entities/line/__init__/#str) | Initializes a new instance of the [`Line`](/3d/python-net/aspose.threed.entities/line) class. |
 
 
 ### Properties
@@ -57,16 +57,16 @@ The Line type exposes the following members:
 | [find_property(property_name)](/3d/python-net/aspose.threed.entities/line/find_property/#str) | Finds the property.<br/>It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) <br/>or native property(Identified by its name) |
 | [get_bounding_box()](/3d/python-net/aspose.threed.entities/line/get_bounding_box/#) | Gets the bounding box of current entity in its object space coordinate system. |
 | [get_entity_renderer_key()](/3d/python-net/aspose.threed.entities/line/get_entity_renderer_key/#) | Gets the key of the entity renderer registered in the renderer |
-| [from_points(points)](/3d/python-net/aspose.threed.entities/line/from_points/#list) | Construct a [Line](/3d/python-net/aspose.threed.entities/line) instance from a set of points. |
-| [make_default_indices()](/3d/python-net/aspose.threed.entities/line/make_default_indices/#) | Generate the sequence 0,1,2,3....[Geometry.control_points](/3d/python-net/aspose.threed.entities/geometry#control_points).Length-1 to [Line.segments](/3d/python-net/aspose.threed.entities/line#segments) so the ControlPoints can be used as a single line |
+| [from_points(points)](/3d/python-net/aspose.threed.entities/line/from_points/#list) | Construct a [`Line`](/3d/python-net/aspose.threed.entities/line) instance from a set of points. |
+| [make_default_indices()](/3d/python-net/aspose.threed.entities/line/make_default_indices/#) | Generate the sequence 0,1,2,3....[`Geometry.control_points`](/3d/python-net/aspose.threed.entities/geometry#control_points).Length-1 to [`Line.segments`](/3d/python-net/aspose.threed.entities/line#segments) so the ControlPoints can be used as a single line |
 
 
 
 ### See Also
-* module [aspose.threed.entities](..)
-* class [A3DObject](/3d/python-net/aspose.threed/a3dobject)
-* class [Curve](/3d/python-net/aspose.threed.entities/curve)
-* class [Entity](/3d/python-net/aspose.threed/entity)
-* class [Line](/3d/python-net/aspose.threed.entities/line)
-* class [NurbsCurve](/3d/python-net/aspose.threed.entities/nurbscurve)
-* class [SceneObject](/3d/python-net/aspose.threed/sceneobject)
+* module [`aspose.threed.entities`](..)
+* class [`A3DObject`](/3d/python-net/aspose.threed/a3dobject)
+* class [`Curve`](/3d/python-net/aspose.threed.entities/curve)
+* class [`Entity`](/3d/python-net/aspose.threed/entity)
+* class [`Line`](/3d/python-net/aspose.threed.entities/line)
+* class [`NurbsCurve`](/3d/python-net/aspose.threed.entities/nurbscurve)
+* class [`SceneObject`](/3d/python-net/aspose.threed/sceneobject)

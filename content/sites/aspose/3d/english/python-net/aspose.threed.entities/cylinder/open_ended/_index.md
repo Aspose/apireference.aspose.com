@@ -11,7 +11,7 @@ is_root: false
 ## open_ended property
 
 
-Gets or sets a value indicating whether this [Cylinder](/3d/python-net/aspose.threed.entities/cylinder) open ended.
+Gets or sets a value indicating whether this [`Cylinder`](/3d/python-net/aspose.threed.entities/cylinder) open ended.
 The default value is false.
 ### Definition:
 ```python
@@ -24,5 +24,5 @@ def open_ended(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [Cylinder](/3d/python-net/aspose.threed.entities/cylinder)
+* module [`aspose.threed.entities`](../../)
+* class [`Cylinder`](/3d/python-net/aspose.threed.entities/cylinder)

@@ -10,7 +10,7 @@ is_root: false
 
 ## VertexElementSmoothingGroup() {#}
 
-Initializes a new instance of the [VertexElementSmoothingGroup](/3d/python-net/aspose.threed.entities/vertexelementsmoothinggroup) class.
+Initializes a new instance of the [`VertexElementSmoothingGroup`](/3d/python-net/aspose.threed.entities/vertexelementsmoothinggroup) class.
 
 
 
@@ -24,5 +24,5 @@ def __init__(self):
 
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [VertexElementSmoothingGroup](/3d/python-net/aspose.threed.entities/vertexelementsmoothinggroup)
+* module [`aspose.threed.entities`](../../)
+* class [`VertexElementSmoothingGroup`](/3d/python-net/aspose.threed.entities/vertexelementsmoothinggroup)

@@ -19,8 +19,8 @@ The A3DObject type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [A3DObject(name)](/3d/python-net/aspose.threed/a3dobject/__init__/#str) | Initializes a new instance of the [A3DObject](/3d/python-net/aspose.threed/a3dobject) class. |
-| [A3DObject()](/3d/python-net/aspose.threed/a3dobject/__init__/#) | Initializes a new instance of the [A3DObject](/3d/python-net/aspose.threed/a3dobject) class with no name. |
+| [A3DObject(name)](/3d/python-net/aspose.threed/a3dobject/__init__/#str) | Initializes a new instance of the [`A3DObject`](/3d/python-net/aspose.threed/a3dobject) class. |
+| [A3DObject()](/3d/python-net/aspose.threed/a3dobject/__init__/#) | Initializes a new instance of the [`A3DObject`](/3d/python-net/aspose.threed/a3dobject) class with no name. |
 
 
 ### Properties
@@ -42,6 +42,6 @@ The A3DObject type exposes the following members:
 
 
 ### See Also
-* module [aspose.threed](..)
-* class [A3DObject](/3d/python-net/aspose.threed/a3dobject)
-* class [INamedObject](/3d/python-net/aspose.threed/inamedobject)
+* module [`aspose.threed`](..)
+* class [`A3DObject`](/3d/python-net/aspose.threed/a3dobject)
+* class [`INamedObject`](/3d/python-net/aspose.threed/inamedobject)

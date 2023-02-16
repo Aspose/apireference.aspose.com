@@ -23,6 +23,6 @@ def mapping_mode(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [MappingMode](/3d/python-net/aspose.threed.entities/mappingmode)
-* class [VertexElementPolygonGroup](/3d/python-net/aspose.threed.entities/vertexelementpolygongroup)
+* module [`aspose.threed.entities`](../../)
+* class [`MappingMode`](/3d/python-net/aspose.threed.entities/mappingmode)
+* class [`VertexElementPolygonGroup`](/3d/python-net/aspose.threed.entities/vertexelementpolygongroup)

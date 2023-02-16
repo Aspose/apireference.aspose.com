@@ -23,5 +23,5 @@ def name(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [Light](/3d/python-net/aspose.threed.entities/light)
+* module [`aspose.threed.entities`](../../)
+* class [`Light`](/3d/python-net/aspose.threed.entities/light)

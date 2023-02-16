@@ -10,7 +10,7 @@ is_root: false
 
 ## Ellipse() {#}
 
-Constructor of [Ellipse](/3d/python-net/aspose.threed.entities/ellipse)
+Constructor of [`Ellipse`](/3d/python-net/aspose.threed.entities/ellipse)
 
 
 
@@ -24,7 +24,7 @@ def __init__(self):
 
 ## Ellipse(semi_axis1, semi_axis2) {#float-float}
 
-Constructor of [Ellipse](/3d/python-net/aspose.threed.entities/ellipse)
+Constructor of [`Ellipse`](/3d/python-net/aspose.threed.entities/ellipse)
 
 
 
@@ -42,5 +42,5 @@ def __init__(self, semi_axis1, semi_axis2):
 
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [Ellipse](/3d/python-net/aspose.threed.entities/ellipse)
+* module [`aspose.threed.entities`](../../)
+* class [`Ellipse`](/3d/python-net/aspose.threed.entities/ellipse)

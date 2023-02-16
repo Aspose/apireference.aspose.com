@@ -28,11 +28,11 @@ def interpolate(self, t, from_address, to):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | t | float | The coefficient to interpolate. |
-| from_address | [Quaternion](/3d/python-net/aspose.threed.utilities/quaternion) | Source quaternion. |
-| to | [Quaternion](/3d/python-net/aspose.threed.utilities/quaternion) | Target quaternion. |
+| from_address | [`Quaternion`](/3d/python-net/aspose.threed.utilities/quaternion) | Source quaternion. |
+| to | [`Quaternion`](/3d/python-net/aspose.threed.utilities/quaternion) | Target quaternion. |
 
 
 
 ### See Also
-* module [aspose.threed.utilities](../../)
-* class [Quaternion](/3d/python-net/aspose.threed.utilities/quaternion)
+* module [`aspose.threed.utilities`](../../)
+* class [`Quaternion`](/3d/python-net/aspose.threed.utilities/quaternion)

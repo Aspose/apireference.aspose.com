@@ -24,5 +24,5 @@ def __init__(self):
 
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [PatchDirection](/3d/python-net/aspose.threed.entities/patchdirection)
+* module [`aspose.threed.entities`](../../)
+* class [`PatchDirection`](/3d/python-net/aspose.threed.entities/patchdirection)

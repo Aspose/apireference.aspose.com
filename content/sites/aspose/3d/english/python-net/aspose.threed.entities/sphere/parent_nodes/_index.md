@@ -20,5 +20,5 @@ def parent_nodes(self):
 ```
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [Sphere](/3d/python-net/aspose.threed.entities/sphere)
+* module [`aspose.threed.entities`](../../)
+* class [`Sphere`](/3d/python-net/aspose.threed.entities/sphere)

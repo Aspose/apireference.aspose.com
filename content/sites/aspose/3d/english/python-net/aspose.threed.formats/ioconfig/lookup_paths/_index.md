@@ -23,5 +23,5 @@ def lookup_paths(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.formats](../../)
-* class [IOConfig](/3d/python-net/aspose.threed.formats/ioconfig)
+* module [`aspose.threed.formats`](../../)
+* class [`IOConfig`](/3d/python-net/aspose.threed.formats/ioconfig)

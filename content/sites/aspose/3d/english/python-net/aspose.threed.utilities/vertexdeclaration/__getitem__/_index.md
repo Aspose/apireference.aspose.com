@@ -18,5 +18,5 @@ is_root: false
 
 
 ### See Also
-* module [aspose.threed.utilities](../../)
-* class [VertexDeclaration](/3d/python-net/aspose.threed.utilities/vertexdeclaration)
+* module [`aspose.threed.utilities`](../../)
+* class [`VertexDeclaration`](/3d/python-net/aspose.threed.utilities/vertexdeclaration)

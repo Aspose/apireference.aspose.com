@@ -12,12 +12,12 @@ is_root: false
 
 Defines material index for specified components.
 
-A node can have multiple materials, the [VertexElementMaterial](/3d/python-net/aspose.threed.entities/vertexelementmaterial) is used to render different part of the geometry in different materials.
+A node can have multiple materials, the [`VertexElementMaterial`](/3d/python-net/aspose.threed.entities/vertexelementmaterial) is used to render different part of the geometry in different materials.
 
 
 
-**Inheritance:** [VertexElementMaterial](/3d/python-net/aspose.threed.entities/vertexelementmaterial) → 
-[VertexElement](/3d/python-net/aspose.threed.entities/vertexelement)
+**Inheritance:** [`VertexElementMaterial`](/3d/python-net/aspose.threed.entities/vertexelementmaterial) → 
+[`VertexElement`](/3d/python-net/aspose.threed.entities/vertexelement)
 
 
 
@@ -26,13 +26,13 @@ The VertexElementMaterial type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [VertexElementMaterial()](/3d/python-net/aspose.threed.entities/vertexelementmaterial/__init__/#) | Initializes a new instance of the [VertexElementMaterial](/3d/python-net/aspose.threed.entities/vertexelementmaterial) class. |
+| [VertexElementMaterial()](/3d/python-net/aspose.threed.entities/vertexelementmaterial/__init__/#) | Initializes a new instance of the [`VertexElementMaterial`](/3d/python-net/aspose.threed.entities/vertexelementmaterial) class. |
 
 
 ### Properties
 | Property | Description |
 | :- | :- |
-| [vertex_element_type](/3d/python-net/aspose.threed.entities/vertexelementmaterial/vertex_element_type) | Gets the type of the [VertexElement](/3d/python-net/aspose.threed.entities/vertexelement) |
+| [vertex_element_type](/3d/python-net/aspose.threed.entities/vertexelementmaterial/vertex_element_type) | Gets the type of the [`VertexElement`](/3d/python-net/aspose.threed.entities/vertexelement) |
 | [name](/3d/python-net/aspose.threed.entities/vertexelementmaterial/name) | Gets or sets the name. |
 | [mapping_mode](/3d/python-net/aspose.threed.entities/vertexelementmaterial/mapping_mode) | Gets or sets how the element is mapped. |
 | [reference_mode](/3d/python-net/aspose.threed.entities/vertexelementmaterial/reference_mode) | Gets or sets how the element is referenced. |
@@ -48,6 +48,6 @@ The VertexElementMaterial type exposes the following members:
 
 
 ### See Also
-* module [aspose.threed.entities](..)
-* class [VertexElement](/3d/python-net/aspose.threed.entities/vertexelement)
-* class [VertexElementMaterial](/3d/python-net/aspose.threed.entities/vertexelementmaterial)
+* module [`aspose.threed.entities`](..)
+* class [`VertexElement`](/3d/python-net/aspose.threed.entities/vertexelement)
+* class [`VertexElementMaterial`](/3d/python-net/aspose.threed.entities/vertexelementmaterial)

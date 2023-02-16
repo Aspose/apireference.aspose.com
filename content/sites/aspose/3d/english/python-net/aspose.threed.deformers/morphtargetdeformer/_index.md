@@ -11,15 +11,15 @@ is_root: false
 ## MorphTargetDeformer class
 
 MorphTargetDeformer provides per-vertex animation.
-MorphTargetDeformer organize all targets via [MorphTargetChannel](/3d/python-net/aspose.threed.deformers/morphtargetchannel), each channel can organize multiple targets.
+MorphTargetDeformer organize all targets via [`MorphTargetChannel`](/3d/python-net/aspose.threed.deformers/morphtargetchannel), each channel can organize multiple targets.
 A common use of morph target deformer is to apply facial expression to a character.
 More details can be found at https://en.wikipedia.org/wiki/Morph_target_animation
 
 
 
-**Inheritance:** [MorphTargetDeformer](/3d/python-net/aspose.threed.deformers/morphtargetdeformer) → 
-[Deformer](/3d/python-net/aspose.threed.deformers/deformer) → 
-[A3DObject](/3d/python-net/aspose.threed/a3dobject)
+**Inheritance:** [`MorphTargetDeformer`](/3d/python-net/aspose.threed.deformers/morphtargetdeformer) → 
+[`Deformer`](/3d/python-net/aspose.threed.deformers/deformer) → 
+[`A3DObject`](/3d/python-net/aspose.threed/a3dobject)
 
 
 
@@ -28,8 +28,8 @@ The MorphTargetDeformer type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [MorphTargetDeformer(name)](/3d/python-net/aspose.threed.deformers/morphtargetdeformer/__init__/#str) | Initializes a new instance of the [MorphTargetDeformer](/3d/python-net/aspose.threed.deformers/morphtargetdeformer) class. |
-| [MorphTargetDeformer()](/3d/python-net/aspose.threed.deformers/morphtargetdeformer/__init__/#) | Initializes a new instance of the [MorphTargetDeformer](/3d/python-net/aspose.threed.deformers/morphtargetdeformer) class. |
+| [MorphTargetDeformer(name)](/3d/python-net/aspose.threed.deformers/morphtargetdeformer/__init__/#str) | Initializes a new instance of the [`MorphTargetDeformer`](/3d/python-net/aspose.threed.deformers/morphtargetdeformer) class. |
+| [MorphTargetDeformer()](/3d/python-net/aspose.threed.deformers/morphtargetdeformer/__init__/#) | Initializes a new instance of the [`MorphTargetDeformer`](/3d/python-net/aspose.threed.deformers/morphtargetdeformer) class. |
 
 
 ### Properties
@@ -53,8 +53,8 @@ The MorphTargetDeformer type exposes the following members:
 
 
 ### See Also
-* module [aspose.threed.deformers](..)
-* class [A3DObject](/3d/python-net/aspose.threed/a3dobject)
-* class [Deformer](/3d/python-net/aspose.threed.deformers/deformer)
-* class [MorphTargetChannel](/3d/python-net/aspose.threed.deformers/morphtargetchannel)
-* class [MorphTargetDeformer](/3d/python-net/aspose.threed.deformers/morphtargetdeformer)
+* module [`aspose.threed.deformers`](..)
+* class [`A3DObject`](/3d/python-net/aspose.threed/a3dobject)
+* class [`Deformer`](/3d/python-net/aspose.threed.deformers/deformer)
+* class [`MorphTargetChannel`](/3d/python-net/aspose.threed.deformers/morphtargetchannel)
+* class [`MorphTargetDeformer`](/3d/python-net/aspose.threed.deformers/morphtargetdeformer)

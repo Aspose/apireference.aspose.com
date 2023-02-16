@@ -23,6 +23,6 @@ def uv_rotation(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.shading](../../)
-* class [TextureBase](/3d/python-net/aspose.threed.shading/texturebase)
-* class [Vector3](/3d/python-net/aspose.threed.utilities/vector3)
+* module [`aspose.threed.shading`](../../)
+* class [`TextureBase`](/3d/python-net/aspose.threed.shading/texturebase)
+* class [`Vector3`](/3d/python-net/aspose.threed.utilities/vector3)

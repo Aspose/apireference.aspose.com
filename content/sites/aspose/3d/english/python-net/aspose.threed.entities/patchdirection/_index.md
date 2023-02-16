@@ -28,10 +28,10 @@ The PatchDirection type exposes the following members:
 | [type](/3d/python-net/aspose.threed.entities/patchdirection/type) | Gets or sets the patch's type. |
 | [divisions](/3d/python-net/aspose.threed.entities/patchdirection/divisions) | Gets or sets the number of divisions between adjacent control points. |
 | [control_points](/3d/python-net/aspose.threed.entities/patchdirection/control_points) | Gets or sets the count of control points in current direction. |
-| [closed](/3d/python-net/aspose.threed.entities/patchdirection/closed) | Gets or sets a value indicating whether this [PatchDirection](/3d/python-net/aspose.threed.entities/patchdirection) is a closed curve. |
+| [closed](/3d/python-net/aspose.threed.entities/patchdirection/closed) | Gets or sets a value indicating whether this [`PatchDirection`](/3d/python-net/aspose.threed.entities/patchdirection) is a closed curve. |
 
 
 
 ### See Also
-* module [aspose.threed.entities](..)
-* class [PatchDirection](/3d/python-net/aspose.threed.entities/patchdirection)
+* module [`aspose.threed.entities`](..)
+* class [`PatchDirection`](/3d/python-net/aspose.threed.entities/patchdirection)

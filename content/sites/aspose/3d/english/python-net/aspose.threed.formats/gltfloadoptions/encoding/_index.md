@@ -24,5 +24,5 @@ def encoding(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.formats](../../)
-* class [GltfLoadOptions](/3d/python-net/aspose.threed.formats/gltfloadoptions)
+* module [`aspose.threed.formats`](../../)
+* class [`GltfLoadOptions`](/3d/python-net/aspose.threed.formats/gltfloadoptions)

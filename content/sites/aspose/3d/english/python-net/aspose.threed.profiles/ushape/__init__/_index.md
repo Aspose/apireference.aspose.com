@@ -10,7 +10,7 @@ is_root: false
 
 ## UShape() {#}
 
-Constructor of [UShape](/3d/python-net/aspose.threed.profiles/ushape)
+Constructor of [`UShape`](/3d/python-net/aspose.threed.profiles/ushape)
 
 
 
@@ -24,5 +24,5 @@ def __init__(self):
 
 
 ### See Also
-* module [aspose.threed.profiles](../../)
-* class [UShape](/3d/python-net/aspose.threed.profiles/ushape)
+* module [`aspose.threed.profiles`](../../)
+* class [`UShape`](/3d/python-net/aspose.threed.profiles/ushape)

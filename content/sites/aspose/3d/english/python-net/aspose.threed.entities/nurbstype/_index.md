@@ -19,12 +19,12 @@ The NurbsType type exposes the following members:
 ### Fields
 | Field | Description |
 | :- | :- |
-| OPEN | The [NurbsCurve](/3d/python-net/aspose.threed.entities/nurbscurve) is an open curve. |
-| CLOSED | The [NurbsCurve](/3d/python-net/aspose.threed.entities/nurbscurve) is a closed curve has its last control point equals to its first one. |
-| PERIODIC | The [NurbsCurve](/3d/python-net/aspose.threed.entities/nurbscurve) is a periodic curve. |
+| OPEN | The [`NurbsCurve`](/3d/python-net/aspose.threed.entities/nurbscurve) is an open curve. |
+| CLOSED | The [`NurbsCurve`](/3d/python-net/aspose.threed.entities/nurbscurve) is a closed curve has its last control point equals to its first one. |
+| PERIODIC | The [`NurbsCurve`](/3d/python-net/aspose.threed.entities/nurbscurve) is a periodic curve. |
 
 
 
 ### See Also
-* module [aspose.threed.entities](..)
-* class [NurbsCurve](/3d/python-net/aspose.threed.entities/nurbscurve)
+* module [`aspose.threed.entities`](..)
+* class [`NurbsCurve`](/3d/python-net/aspose.threed.entities/nurbscurve)

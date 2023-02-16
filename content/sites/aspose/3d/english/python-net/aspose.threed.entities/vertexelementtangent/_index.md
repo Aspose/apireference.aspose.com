@@ -14,9 +14,9 @@ Defines tangent vectors for specified components.
 
 
 
-**Inheritance:** [VertexElementTangent](/3d/python-net/aspose.threed.entities/vertexelementtangent) → 
-[VertexElementVector4](/3d/python-net/aspose.threed.entities/vertexelementvector4) → 
-[VertexElement](/3d/python-net/aspose.threed.entities/vertexelement)
+**Inheritance:** [`VertexElementTangent`](/3d/python-net/aspose.threed.entities/vertexelementtangent) → 
+[`VertexElementVector4`](/3d/python-net/aspose.threed.entities/vertexelementvector4) → 
+[`VertexElement`](/3d/python-net/aspose.threed.entities/vertexelement)
 
 
 
@@ -25,13 +25,13 @@ The VertexElementTangent type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [VertexElementTangent()](/3d/python-net/aspose.threed.entities/vertexelementtangent/__init__/#) | Initializes a new instance of the [VertexElementTangent](/3d/python-net/aspose.threed.entities/vertexelementtangent) class. |
+| [VertexElementTangent()](/3d/python-net/aspose.threed.entities/vertexelementtangent/__init__/#) | Initializes a new instance of the [`VertexElementTangent`](/3d/python-net/aspose.threed.entities/vertexelementtangent) class. |
 
 
 ### Properties
 | Property | Description |
 | :- | :- |
-| [vertex_element_type](/3d/python-net/aspose.threed.entities/vertexelementtangent/vertex_element_type) | Gets the type of the [VertexElement](/3d/python-net/aspose.threed.entities/vertexelement) |
+| [vertex_element_type](/3d/python-net/aspose.threed.entities/vertexelementtangent/vertex_element_type) | Gets the type of the [`VertexElement`](/3d/python-net/aspose.threed.entities/vertexelement) |
 | [name](/3d/python-net/aspose.threed.entities/vertexelementtangent/name) | Gets or sets the name. |
 | [mapping_mode](/3d/python-net/aspose.threed.entities/vertexelementtangent/mapping_mode) | Gets or sets how the element is mapped. |
 | [reference_mode](/3d/python-net/aspose.threed.entities/vertexelementtangent/reference_mode) | Gets or sets how the element is referenced. |
@@ -50,7 +50,7 @@ The VertexElementTangent type exposes the following members:
 
 
 ### See Also
-* module [aspose.threed.entities](..)
-* class [VertexElement](/3d/python-net/aspose.threed.entities/vertexelement)
-* class [VertexElementTangent](/3d/python-net/aspose.threed.entities/vertexelementtangent)
-* class [VertexElementVector4](/3d/python-net/aspose.threed.entities/vertexelementvector4)
+* module [`aspose.threed.entities`](..)
+* class [`VertexElement`](/3d/python-net/aspose.threed.entities/vertexelement)
+* class [`VertexElementTangent`](/3d/python-net/aspose.threed.entities/vertexelementtangent)
+* class [`VertexElementVector4`](/3d/python-net/aspose.threed.entities/vertexelementvector4)

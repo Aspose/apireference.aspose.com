@@ -20,5 +20,5 @@ def targets(self):
 ```
 
 ### See Also
-* module [aspose.threed.render](../../)
-* class [IRenderTexture](/3d/python-net/aspose.threed.render/irendertexture)
+* module [`aspose.threed.render`](../../)
+* class [`IRenderTexture`](/3d/python-net/aspose.threed.render/irendertexture)

@@ -22,7 +22,7 @@ def push_constants(self, stage, data):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| stage | [ShaderStage](/3d/python-net/aspose.threed.render/shaderstage) | Which shader stage will consume the constant data |
+| stage | [`ShaderStage`](/3d/python-net/aspose.threed.render/shaderstage) | Which shader stage will consume the constant data |
 | data | bytes | The data that will be sent to the shader |
 
 
@@ -40,12 +40,12 @@ def push_constants(self, stage, data, size):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| stage | [ShaderStage](/3d/python-net/aspose.threed.render/shaderstage) | Which shader stage will consume the constant data |
+| stage | [`ShaderStage`](/3d/python-net/aspose.threed.render/shaderstage) | Which shader stage will consume the constant data |
 | data | bytes | The data that will be sent to the shader |
 | size | int | Bytes to write to the pipeline |
 
 
 
 ### See Also
-* module [aspose.threed.render](../../)
-* class [ICommandList](/3d/python-net/aspose.threed.render/icommandlist)
+* module [`aspose.threed.render`](../../)
+* class [`ICommandList`](/3d/python-net/aspose.threed.render/icommandlist)

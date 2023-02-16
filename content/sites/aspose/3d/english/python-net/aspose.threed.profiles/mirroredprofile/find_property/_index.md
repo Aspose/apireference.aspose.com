@@ -34,5 +34,5 @@ def find_property(self, property_name):
 
 
 ### See Also
-* module [aspose.threed.profiles](../../)
-* class [MirroredProfile](/3d/python-net/aspose.threed.profiles/mirroredprofile)
+* module [`aspose.threed.profiles`](../../)
+* class [`MirroredProfile`](/3d/python-net/aspose.threed.profiles/mirroredprofile)

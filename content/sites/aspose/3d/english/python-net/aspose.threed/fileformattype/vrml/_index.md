@@ -14,5 +14,5 @@ is_root: false
 The Virtual Reality Modeling Language
 
 ### See Also
-* module [aspose.threed](../../)
-* class [FileFormatType](/3d/python-net/aspose.threed/fileformattype)
+* module [`aspose.threed`](../../)
+* class [`FileFormatType`](/3d/python-net/aspose.threed/fileformattype)

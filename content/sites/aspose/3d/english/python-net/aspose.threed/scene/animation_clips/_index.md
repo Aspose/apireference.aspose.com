@@ -11,7 +11,7 @@ is_root: false
 ## animation_clips property
 
 
-Gets all [AnimationClip](/3d/python-net/aspose.threed.animation/animationclip) defined in the scene.
+Gets all [`AnimationClip`](/3d/python-net/aspose.threed.animation/animationclip) defined in the scene.
 ### Definition:
 ```python
 @property
@@ -20,6 +20,6 @@ def animation_clips(self):
 ```
 
 ### See Also
-* module [aspose.threed](../../)
-* class [AnimationClip](/3d/python-net/aspose.threed.animation/animationclip)
-* class [Scene](/3d/python-net/aspose.threed/scene)
+* module [`aspose.threed`](../../)
+* class [`AnimationClip`](/3d/python-net/aspose.threed.animation/animationclip)
+* class [`Scene`](/3d/python-net/aspose.threed/scene)

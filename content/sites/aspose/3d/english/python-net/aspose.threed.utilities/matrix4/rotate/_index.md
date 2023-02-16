@@ -27,7 +27,7 @@ def rotate(self, q):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| q | [Quaternion](/3d/python-net/aspose.threed.utilities/quaternion) | Rotation quaternion |
+| q | [`Quaternion`](/3d/python-net/aspose.threed.utilities/quaternion) | Rotation quaternion |
 
 ### Example 
 
@@ -64,7 +64,7 @@ def rotate(self, angle, axis):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | angle | float | Rotate angle in radian |
-| axis | [Vector3](/3d/python-net/aspose.threed.utilities/vector3) | Rotation axis |
+| axis | [`Vector3`](/3d/python-net/aspose.threed.utilities/vector3) | Rotation axis |
 
 ### Example 
 
@@ -83,5 +83,5 @@ print(f"Transformed: {t * pos}")
 
 
 ### See Also
-* module [aspose.threed.utilities](../../)
-* class [Matrix4](/3d/python-net/aspose.threed.utilities/matrix4)
+* module [`aspose.threed.utilities`](../../)
+* class [`Matrix4`](/3d/python-net/aspose.threed.utilities/matrix4)

@@ -14,5 +14,5 @@ is_root: false
 The null bounding box
 
 ### See Also
-* module [aspose.threed.utilities](../../)
-* class [BoundingBox](/3d/python-net/aspose.threed.utilities/boundingbox)
+* module [`aspose.threed.utilities`](../../)
+* class [`BoundingBox`](/3d/python-net/aspose.threed.utilities/boundingbox)

@@ -19,7 +19,7 @@ The Quaternion type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [Quaternion(w, x, y, z)](/3d/python-net/aspose.threed.utilities/quaternion/__init__/#float-float-float-float) | Initializes a new instance of the [Quaternion](/3d/python-net/aspose.threed.utilities/quaternion) class. |
+| [Quaternion(w, x, y, z)](/3d/python-net/aspose.threed.utilities/quaternion/__init__/#float-float-float-float) | Initializes a new instance of the [`Quaternion`](/3d/python-net/aspose.threed.utilities/quaternion) class. |
 | [Quaternion()](/3d/python-net/aspose.threed.utilities/quaternion/__init__/#) | Constructs a new instance of Quaternion |
 
 
@@ -54,5 +54,5 @@ The Quaternion type exposes the following members:
 
 
 ### See Also
-* module [aspose.threed.utilities](..)
-* class [Quaternion](/3d/python-net/aspose.threed.utilities/quaternion)
+* module [`aspose.threed.utilities`](..)
+* class [`Quaternion`](/3d/python-net/aspose.threed.utilities/quaternion)

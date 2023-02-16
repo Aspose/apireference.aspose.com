@@ -32,5 +32,5 @@ def create_uniform_buffer(self, size):
 
 
 ### See Also
-* module [aspose.threed.render](../../)
-* class [RenderFactory](/3d/python-net/aspose.threed.render/renderfactory)
+* module [`aspose.threed.render`](../../)
+* class [`RenderFactory`](/3d/python-net/aspose.threed.render/renderfactory)

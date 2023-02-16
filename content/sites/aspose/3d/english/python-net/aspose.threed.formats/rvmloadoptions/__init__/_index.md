@@ -10,7 +10,7 @@ is_root: false
 
 ## RvmLoadOptions() {#}
 
-Construct a [RvmLoadOptions](/3d/python-net/aspose.threed.formats/rvmloadoptions) instance
+Construct a [`RvmLoadOptions`](/3d/python-net/aspose.threed.formats/rvmloadoptions) instance
 
 
 
@@ -24,7 +24,7 @@ def __init__(self):
 
 ## RvmLoadOptions(content_type) {#FileContentType}
 
-Construct a [RvmLoadOptions](/3d/python-net/aspose.threed.formats/rvmloadoptions) instance
+Construct a [`RvmLoadOptions`](/3d/python-net/aspose.threed.formats/rvmloadoptions) instance
 
 
 
@@ -36,10 +36,10 @@ def __init__(self, content_type):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| content_type | [FileContentType](/3d/python-net/aspose.threed/filecontenttype) |  |
+| content_type | [`FileContentType`](/3d/python-net/aspose.threed/filecontenttype) |  |
 
 
 
 ### See Also
-* module [aspose.threed.formats](../../)
-* class [RvmLoadOptions](/3d/python-net/aspose.threed.formats/rvmloadoptions)
+* module [`aspose.threed.formats`](../../)
+* class [`RvmLoadOptions`](/3d/python-net/aspose.threed.formats/rvmloadoptions)

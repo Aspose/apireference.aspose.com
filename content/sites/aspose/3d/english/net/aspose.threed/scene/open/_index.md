@@ -20,6 +20,18 @@ public void Open(Stream stream, FileFormat format, CancellationToken cancellatio
 | format | FileFormat | File format. |
 | cancellationToken | CancellationToken | Cancellation token to the load task |
 
+### Examples
+
+The following code shows how to open a scene from stream
+
+```csharp
+Scene scene = new Scene();
+using (var stream = new FileStream("input.fbx", FileMode.Open))
+{
+    scene.Open(stream, FileFormat.GLTF2);
+}
+```
+
 ### See Also
 
 * class [FileFormat](../../fileformat)
@@ -43,6 +55,20 @@ public void Open(Stream stream, LoadOptions options, CancellationToken cancellat
 | options | LoadOptions | More detailed configuration to open the stream. |
 | cancellationToken | CancellationToken | Cancellation token to the load task |
 
+### Examples
+
+The following code shows how to open a scene from stream with extra load options
+
+```csharp
+Scene scene = new Scene();
+using (var stream = new FileStream("input.fbx", FileMode.Open))
+{
+    var opt = new FbxLoadOptions();
+    opt.LookupPaths.Add("textures");
+    scene.Open(stream, FileFormat.FBX7400ASCII);
+}
+```
+
 ### See Also
 
 * class [LoadOptions](../../../aspose.threed.formats/loadoptions)
@@ -64,6 +90,18 @@ public void Open(Stream stream)
 | --- | --- | --- |
 | stream | Stream | Input stream, user is responsible for closing the stream. |
 
+### Examples
+
+The following code shows how to open a scene from stream
+
+```csharp
+Scene scene = new Scene();
+using (var stream = new FileStream("input.fbx", FileMode.Open))
+{
+    scene.Open(stream);
+}
+```
+
 ### See Also
 
 * class [Scene](../../scene)
@@ -84,6 +122,19 @@ public void Open(Stream stream, CancellationToken cancellationToken)
 | --- | --- | --- |
 | stream | Stream | Input stream, user is responsible for closing the stream. |
 | cancellationToken | CancellationToken | Cancellation token to the load task |
+
+### Examples
+
+The following code shows how to open a scene from stream with a cancellation token
+
+```csharp
+Scene scene = new Scene();
+CancellationTokenSource cts = new CancellationTokenSource();
+using (var stream = new FileStream("input.fbx", FileMode.Open))
+{
+    scene.Open(stream, cts.Token);
+}
+```
 
 ### See Also
 
@@ -107,6 +158,17 @@ public void Open(string fileName, FileFormat format, CancellationToken cancellat
 | format | FileFormat | File format. |
 | cancellationToken | CancellationToken | Cancellation token to the load task |
 
+### Examples
+
+The following code shows how to open a scene from file name with a cancellation token
+
+```csharp
+Scene scene = new Scene();
+CancellationTokenSource cts = new CancellationTokenSource();
+scene.Open("input.fbx", FileFormat.FBX7400ASCII, cts.Token);
+
+```
+
 ### See Also
 
 * class [FileFormat](../../fileformat)
@@ -128,6 +190,17 @@ public void Open(string fileName, LoadOptions options)
 | --- | --- | --- |
 | fileName | String | File name. |
 | options | LoadOptions | More detailed configuration to open the stream. |
+
+### Examples
+
+The following code shows how to open a scene from file name with extra load options
+
+```csharp
+Scene scene = new Scene();
+var opts = new FbxLoadOptions();
+opts.LookupPaths.Add("textures");
+scene.Open("input.fbx", opts);
+```
 
 ### See Also
 
@@ -152,6 +225,18 @@ public void Open(string fileName, LoadOptions options, CancellationToken cancell
 | options | LoadOptions | More detailed configuration to open the stream. |
 | cancellationToken | CancellationToken | Cancellation token to the load task |
 
+### Examples
+
+The following code shows how to open a scene from file name with extra load options and cancellation token
+
+```csharp
+var cts = new CancellationTokenSource();
+Scene scene = new Scene();
+var opts = new FbxLoadOptions();
+opts.LookupPaths.Add("textures");
+scene.Open("input.fbx", opts, cts.Token);
+```
+
 ### See Also
 
 * class [LoadOptions](../../../aspose.threed.formats/loadoptions)
@@ -173,6 +258,15 @@ public void Open(string fileName)
 | --- | --- | --- |
 | fileName | String | File name. |
 
+### Examples
+
+The following code shows how to open a scene from file name
+
+```csharp
+Scene scene = new Scene();
+scene.Open("input.fbx");
+```
+
 ### See Also
 
 * class [Scene](../../scene)
@@ -193,6 +287,16 @@ public void Open(string fileName, CancellationToken cancellationToken)
 | --- | --- | --- |
 | fileName | String | File name. |
 | cancellationToken | CancellationToken | Cancellation token to the load task |
+
+### Examples
+
+The following code shows how to open a scene from file name and a cancellation token source
+
+```csharp
+var cts = new CancellationTokenSource();
+Scene scene = new Scene();
+scene.Open("input.fbx", cts.Token);
+```
 
 ### See Also
 

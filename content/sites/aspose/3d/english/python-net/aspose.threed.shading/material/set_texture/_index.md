@@ -23,7 +23,7 @@ def set_texture(self, slot_name, texture):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | slot_name | str | Slot name. |
-| texture | [TextureBase](/3d/python-net/aspose.threed.shading/texturebase) | Texture. |
+| texture | [`TextureBase`](/3d/python-net/aspose.threed.shading/texturebase) | Texture. |
 
 ### Example 
 
@@ -41,5 +41,5 @@ mat.set_texture(Material.MAP_NORMAL, tex)
 
 
 ### See Also
-* module [aspose.threed.shading](../../)
-* class [Material](/3d/python-net/aspose.threed.shading/material)
+* module [`aspose.threed.shading`](../../)
+* class [`Material`](/3d/python-net/aspose.threed.shading/material)

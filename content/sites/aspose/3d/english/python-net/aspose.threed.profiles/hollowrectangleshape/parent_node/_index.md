@@ -23,6 +23,6 @@ def parent_node(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.profiles](../../)
-* class [HollowRectangleShape](/3d/python-net/aspose.threed.profiles/hollowrectangleshape)
-* class [Node](/3d/python-net/aspose.threed/node)
+* module [`aspose.threed.profiles`](../../)
+* class [`HollowRectangleShape`](/3d/python-net/aspose.threed.profiles/hollowrectangleshape)
+* class [`Node`](/3d/python-net/aspose.threed/node)

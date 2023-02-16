@@ -10,7 +10,7 @@ is_root: false
 
 ## TransformBuilder class
 
-The [TransformBuilder](/3d/python-net/aspose.threed.utilities/transformbuilder) is used to build transform matrix by a chain of transformations.
+The [`TransformBuilder`](/3d/python-net/aspose.threed.utilities/transformbuilder) is used to build transform matrix by a chain of transformations.
 
 
 
@@ -19,8 +19,8 @@ The TransformBuilder type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [TransformBuilder(initial, order)](/3d/python-net/aspose.threed.utilities/transformbuilder/__init__/#Matrix4-ComposeOrder) | Construct a [TransformBuilder](/3d/python-net/aspose.threed.utilities/transformbuilder) with initial transform matrix and specified compose order |
-| [TransformBuilder(order)](/3d/python-net/aspose.threed.utilities/transformbuilder/__init__/#ComposeOrder) | Construct a [TransformBuilder](/3d/python-net/aspose.threed.utilities/transformbuilder) with initial identity transform matrix and specified compose order |
+| [TransformBuilder(initial, order)](/3d/python-net/aspose.threed.utilities/transformbuilder/__init__/#Matrix4-ComposeOrder) | Construct a [`TransformBuilder`](/3d/python-net/aspose.threed.utilities/transformbuilder) with initial transform matrix and specified compose order |
+| [TransformBuilder(order)](/3d/python-net/aspose.threed.utilities/transformbuilder/__init__/#ComposeOrder) | Construct a [`TransformBuilder`](/3d/python-net/aspose.threed.utilities/transformbuilder) with initial identity transform matrix and specified compose order |
 
 
 ### Properties
@@ -71,5 +71,5 @@ print(f"Transform Matrix: {tb.matrix}")
 ```
 
 ### See Also
-* module [aspose.threed.utilities](..)
-* class [TransformBuilder](/3d/python-net/aspose.threed.utilities/transformbuilder)
+* module [`aspose.threed.utilities`](..)
+* class [`TransformBuilder`](/3d/python-net/aspose.threed.utilities/transformbuilder)

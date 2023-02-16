@@ -33,5 +33,5 @@ def write_file(self, file_name, options):
 
 
 ### See Also
-* module [aspose.threed.utilities](../../)
-* class [DummyFileSystem](/3d/python-net/aspose.threed.utilities/dummyfilesystem)
+* module [`aspose.threed.utilities`](../../)
+* class [`DummyFileSystem`](/3d/python-net/aspose.threed.utilities/dummyfilesystem)

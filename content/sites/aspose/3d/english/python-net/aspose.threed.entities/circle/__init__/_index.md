@@ -10,7 +10,7 @@ is_root: false
 
 ## Circle() {#}
 
-Constructor of [Circle](/3d/python-net/aspose.threed.entities/circle)
+Constructor of [`Circle`](/3d/python-net/aspose.threed.entities/circle)
 
 
 
@@ -24,7 +24,7 @@ def __init__(self):
 
 ## Circle(radius) {#float}
 
-Constructor of [Circle](/3d/python-net/aspose.threed.entities/circle)
+Constructor of [`Circle`](/3d/python-net/aspose.threed.entities/circle)
 
 
 
@@ -41,5 +41,5 @@ def __init__(self, radius):
 
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [Circle](/3d/python-net/aspose.threed.entities/circle)
+* module [`aspose.threed.entities`](../../)
+* class [`Circle`](/3d/python-net/aspose.threed.entities/circle)

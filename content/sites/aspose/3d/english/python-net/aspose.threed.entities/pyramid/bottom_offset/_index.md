@@ -23,6 +23,6 @@ def bottom_offset(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [Pyramid](/3d/python-net/aspose.threed.entities/pyramid)
-* class [Vector3](/3d/python-net/aspose.threed.utilities/vector3)
+* module [`aspose.threed.entities`](../../)
+* class [`Pyramid`](/3d/python-net/aspose.threed.entities/pyramid)
+* class [`Vector3`](/3d/python-net/aspose.threed.utilities/vector3)

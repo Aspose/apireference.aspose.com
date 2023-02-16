@@ -32,5 +32,5 @@ def get_property(self, property):
 
 
 ### See Also
-* module [aspose.threed.profiles](../../)
-* class [TrapeziumShape](/3d/python-net/aspose.threed.profiles/trapeziumshape)
+* module [`aspose.threed.profiles`](../../)
+* class [`TrapeziumShape`](/3d/python-net/aspose.threed.profiles/trapeziumshape)

@@ -20,5 +20,5 @@ def indices(self):
 ```
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [VertexElementDoublesTemplate](/3d/python-net/aspose.threed.entities/vertexelementdoublestemplate)
+* module [`aspose.threed.entities`](../../)
+* class [`VertexElementDoublesTemplate`](/3d/python-net/aspose.threed.entities/vertexelementdoublestemplate)

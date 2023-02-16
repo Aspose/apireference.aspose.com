@@ -20,5 +20,5 @@ def indices(self):
 ```
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [IIndexedVertexElement](/3d/python-net/aspose.threed.entities/iindexedvertexelement)
+* module [`aspose.threed.entities`](../../)
+* class [`IIndexedVertexElement`](/3d/python-net/aspose.threed.entities/iindexedvertexelement)

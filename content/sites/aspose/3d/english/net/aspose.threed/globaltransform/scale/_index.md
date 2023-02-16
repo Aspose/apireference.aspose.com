@@ -14,6 +14,14 @@ Gets the scale
 public Vector3 Scale { get; }
 ```
 
+### Examples
+
+```csharp
+Scene scene = Scene.FromFile("test.fbx");
+var tr = scene.RootNode.GlobalTransform;
+Console.WriteLine($"Scale = {tr.Scale}");
+```
+
 ### See Also
 
 * struct [Vector3](../../../aspose.threed.utilities/vector3)

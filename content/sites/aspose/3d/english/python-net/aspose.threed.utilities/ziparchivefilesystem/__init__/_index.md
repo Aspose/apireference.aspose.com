@@ -10,7 +10,7 @@ is_root: false
 
 ## ZipArchiveFileSystem(stream) {#io.RawIOBase}
 
-Construct a [ZipArchiveFileSystem](/3d/python-net/aspose.threed.utilities/ziparchivefilesystem) through a stream.
+Construct a [`ZipArchiveFileSystem`](/3d/python-net/aspose.threed.utilities/ziparchivefilesystem) through a stream.
 
 
 
@@ -27,7 +27,7 @@ def __init__(self, stream):
 
 ## ZipArchiveFileSystem(file_name) {#str}
 
-Construct a [ZipArchiveFileSystem](/3d/python-net/aspose.threed.utilities/ziparchivefilesystem) through a file name.
+Construct a [`ZipArchiveFileSystem`](/3d/python-net/aspose.threed.utilities/ziparchivefilesystem) through a file name.
 
 
 
@@ -44,7 +44,7 @@ def __init__(self, file_name):
 
 ## ZipArchiveFileSystem(stream, base_dir) {#io.RawIOBase-str}
 
-Construct a [ZipArchiveFileSystem](/3d/python-net/aspose.threed.utilities/ziparchivefilesystem) through a stream.
+Construct a [`ZipArchiveFileSystem`](/3d/python-net/aspose.threed.utilities/ziparchivefilesystem) through a stream.
 
 
 
@@ -62,5 +62,5 @@ def __init__(self, stream, base_dir):
 
 
 ### See Also
-* module [aspose.threed.utilities](../../)
-* class [ZipArchiveFileSystem](/3d/python-net/aspose.threed.utilities/ziparchivefilesystem)
+* module [`aspose.threed.utilities`](../../)
+* class [`ZipArchiveFileSystem`](/3d/python-net/aspose.threed.utilities/ziparchivefilesystem)

@@ -10,7 +10,7 @@ is_root: false
 
 ## VertexElementMaterial() {#}
 
-Initializes a new instance of the [VertexElementMaterial](/3d/python-net/aspose.threed.entities/vertexelementmaterial) class.
+Initializes a new instance of the [`VertexElementMaterial`](/3d/python-net/aspose.threed.entities/vertexelementmaterial) class.
 
 
 
@@ -24,5 +24,5 @@ def __init__(self):
 
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [VertexElementMaterial](/3d/python-net/aspose.threed.entities/vertexelementmaterial)
+* module [`aspose.threed.entities`](../../)
+* class [`VertexElementMaterial`](/3d/python-net/aspose.threed.entities/vertexelementmaterial)

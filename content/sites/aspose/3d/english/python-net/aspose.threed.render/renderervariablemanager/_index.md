@@ -37,4 +37,4 @@ The RendererVariableManager type exposes the following members:
 
 
 ### See Also
-* module [aspose.threed.render](..)
+* module [`aspose.threed.render`](..)

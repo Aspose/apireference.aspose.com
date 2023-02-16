@@ -23,6 +23,6 @@ def color(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [Ellipse](/3d/python-net/aspose.threed.entities/ellipse)
-* class [Vector3](/3d/python-net/aspose.threed.utilities/vector3)
+* module [`aspose.threed.entities`](../../)
+* class [`Ellipse`](/3d/python-net/aspose.threed.entities/ellipse)
+* class [`Vector3`](/3d/python-net/aspose.threed.utilities/vector3)

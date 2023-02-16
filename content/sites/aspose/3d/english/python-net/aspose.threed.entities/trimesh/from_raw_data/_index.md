@@ -16,7 +16,7 @@ Create TriMesh from raw data
 ### Returns 
 
 
-The [TriMesh](/3d/python-net/aspose.threed.entities/trimesh) instance that encapsulated the input byte array.
+The [`TriMesh`](/3d/python-net/aspose.threed.entities/trimesh) instance that encapsulated the input byte array.
 
 
 ```python
@@ -30,13 +30,13 @@ def from_raw_data(self, vd, vertices, indices, generate_vertex_mapping):
 | vd | aspose.threed.utilities.VertexDeclaration | Vertex declaration, must contains at least one field. |
 | vertices | bytes | The input vertex data, the minimum length of the vertices must be greater or equal to vertex declaration's size |
 | indices | list | The triangle indices |
-| generate_vertex_mapping | bool | Generate [Vertex](/3d/python-net/aspose.threed.utilities/vertex) for each vertex, which is not necessary for just serialization/deserialization. |
+| generate_vertex_mapping | bool | Generate [`Vertex`](/3d/python-net/aspose.threed.utilities/vertex) for each vertex, which is not necessary for just serialization/deserialization. |
 ### Remarks
 
 The returned TriMesh will not copy the input byte array for performance, external changes on the array will be reflected to this instance.
 
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [TriMesh](/3d/python-net/aspose.threed.entities/trimesh)
-* class [Vertex](/3d/python-net/aspose.threed.utilities/vertex)
+* module [`aspose.threed.entities`](../../)
+* class [`TriMesh`](/3d/python-net/aspose.threed.entities/trimesh)
+* class [`Vertex`](/3d/python-net/aspose.threed.utilities/vertex)

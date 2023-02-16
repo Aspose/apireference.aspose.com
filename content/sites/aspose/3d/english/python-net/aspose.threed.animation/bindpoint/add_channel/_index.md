@@ -52,5 +52,5 @@ def add_channel(self, name, type, value):
 
 
 ### See Also
-* module [aspose.threed.animation](../../)
-* class [BindPoint](/3d/python-net/aspose.threed.animation/bindpoint)
+* module [`aspose.threed.animation`](../../)
+* class [`BindPoint`](/3d/python-net/aspose.threed.animation/bindpoint)

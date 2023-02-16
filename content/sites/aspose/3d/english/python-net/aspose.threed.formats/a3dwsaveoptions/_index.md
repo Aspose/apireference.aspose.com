@@ -14,9 +14,9 @@ Save options for A3DW format.
 
 
 
-**Inheritance:** [A3dwSaveOptions](/3d/python-net/aspose.threed.formats/a3dwsaveoptions) → 
-[SaveOptions](/3d/python-net/aspose.threed.formats/saveoptions) → 
-[IOConfig](/3d/python-net/aspose.threed.formats/ioconfig)
+**Inheritance:** [`A3dwSaveOptions`](/3d/python-net/aspose.threed.formats/a3dwsaveoptions) → 
+[`SaveOptions`](/3d/python-net/aspose.threed.formats/saveoptions) → 
+[`IOConfig`](/3d/python-net/aspose.threed.formats/ioconfig)
 
 
 
@@ -25,7 +25,7 @@ The A3dwSaveOptions type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [A3dwSaveOptions()](/3d/python-net/aspose.threed.formats/a3dwsaveoptions/__init__/#) | Constructor of [A3dwSaveOptions](/3d/python-net/aspose.threed.formats/a3dwsaveoptions) |
+| [A3dwSaveOptions()](/3d/python-net/aspose.threed.formats/a3dwsaveoptions/__init__/#) | Constructor of [`A3dwSaveOptions`](/3d/python-net/aspose.threed.formats/a3dwsaveoptions) |
 
 
 ### Properties
@@ -42,7 +42,7 @@ The A3dwSaveOptions type exposes the following members:
 
 
 ### See Also
-* module [aspose.threed.formats](..)
-* class [A3dwSaveOptions](/3d/python-net/aspose.threed.formats/a3dwsaveoptions)
-* class [IOConfig](/3d/python-net/aspose.threed.formats/ioconfig)
-* class [SaveOptions](/3d/python-net/aspose.threed.formats/saveoptions)
+* module [`aspose.threed.formats`](..)
+* class [`A3dwSaveOptions`](/3d/python-net/aspose.threed.formats/a3dwsaveoptions)
+* class [`IOConfig`](/3d/python-net/aspose.threed.formats/ioconfig)
+* class [`SaveOptions`](/3d/python-net/aspose.threed.formats/saveoptions)

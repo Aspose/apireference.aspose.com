@@ -29,6 +29,6 @@ def create_save_options(self):
 
 
 ### See Also
-* module [aspose.threed](../../)
-* class [FileFormat](/3d/python-net/aspose.threed/fileformat)
-* class [SaveOptions](/3d/python-net/aspose.threed.formats/saveoptions)
+* module [`aspose.threed`](../../)
+* class [`FileFormat`](/3d/python-net/aspose.threed/fileformat)
+* class [`SaveOptions`](/3d/python-net/aspose.threed.formats/saveoptions)

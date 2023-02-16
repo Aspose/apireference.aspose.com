@@ -27,7 +27,7 @@ def from_euler_angle(self, euler_angle):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| euler_angle | [Vector3](/3d/python-net/aspose.threed.utilities/vector3) | Euler angle in radian |
+| euler_angle | [`Vector3`](/3d/python-net/aspose.threed.utilities/vector3) | Euler angle in radian |
 
 
 ## from_euler_angle(pitch, yaw, roll) {#float-float-float}
@@ -56,5 +56,5 @@ def from_euler_angle(self, pitch, yaw, roll):
 
 
 ### See Also
-* module [aspose.threed.utilities](../../)
-* class [Quaternion](/3d/python-net/aspose.threed.utilities/quaternion)
+* module [`aspose.threed.utilities`](../../)
+* class [`Quaternion`](/3d/python-net/aspose.threed.utilities/quaternion)

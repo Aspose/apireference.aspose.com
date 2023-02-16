@@ -14,6 +14,13 @@ Gets or sets the geometric translation. Geometric transformation only affects th
 public Vector3 GeometricTranslation { get; set; }
 ```
 
+### Examples
+
+```csharp
+Node node = new Node();
+node.Transform.GeometricTranslation = new Vector3(10, 0, 0);
+```
+
 ### See Also
 
 * struct [Vector3](../../../aspose.threed.utilities/vector3)

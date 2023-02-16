@@ -10,7 +10,7 @@ is_root: false
 
 ## RvmSaveOptions() {#}
 
-Constructor of [RvmSaveOptions](/3d/python-net/aspose.threed.formats/rvmsaveoptions)
+Constructor of [`RvmSaveOptions`](/3d/python-net/aspose.threed.formats/rvmsaveoptions)
 
 
 
@@ -24,7 +24,7 @@ def __init__(self):
 
 ## RvmSaveOptions(content_type) {#FileContentType}
 
-Constructor of [RvmSaveOptions](/3d/python-net/aspose.threed.formats/rvmsaveoptions)
+Constructor of [`RvmSaveOptions`](/3d/python-net/aspose.threed.formats/rvmsaveoptions)
 
 
 
@@ -36,10 +36,10 @@ def __init__(self, content_type):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| content_type | [FileContentType](/3d/python-net/aspose.threed/filecontenttype) | Text or binary RVM file? |
+| content_type | [`FileContentType`](/3d/python-net/aspose.threed/filecontenttype) | Text or binary RVM file? |
 
 
 
 ### See Also
-* module [aspose.threed.formats](../../)
-* class [RvmSaveOptions](/3d/python-net/aspose.threed.formats/rvmsaveoptions)
+* module [`aspose.threed.formats`](../../)
+* class [`RvmSaveOptions`](/3d/python-net/aspose.threed.formats/rvmsaveoptions)

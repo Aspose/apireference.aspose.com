@@ -14,6 +14,13 @@ Gets or sets the emissive color
 public Vector3 EmissiveColor { get; set; }
 ```
 
+### Examples
+
+```csharp
+var mat = new LambertMaterial();
+mat.EmissiveColor = new Vector3(1, 1, 1);
+```
+
 ### See Also
 
 * struct [Vector3](../../../aspose.threed.utilities/vector3)

@@ -20,5 +20,5 @@ def indices(self):
 ```
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [VertexElementSmoothingGroup](/3d/python-net/aspose.threed.entities/vertexelementsmoothinggroup)
+* module [`aspose.threed.entities`](../../)
+* class [`VertexElementSmoothingGroup`](/3d/python-net/aspose.threed.entities/vertexelementsmoothinggroup)

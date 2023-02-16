@@ -27,8 +27,8 @@ def encode(self, entity, options):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| entity | [Entity](/3d/python-net/aspose.threed/entity) | The entity to be encoded |
-| options | [DracoSaveOptions](/3d/python-net/aspose.threed.formats/dracosaveoptions) | Extra options for encoding the point cloud |
+| entity | [`Entity`](/3d/python-net/aspose.threed/entity) | The entity to be encoded |
+| options | [`DracoSaveOptions`](/3d/python-net/aspose.threed.formats/dracosaveoptions) | Extra options for encoding the point cloud |
 
 
 ## encode(entity, stream, options) {#Entity-io.RawIOBase-DracoSaveOptions}
@@ -45,9 +45,9 @@ def encode(self, entity, stream, options):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| entity | [Entity](/3d/python-net/aspose.threed/entity) | The entity to be encoded |
+| entity | [`Entity`](/3d/python-net/aspose.threed/entity) | The entity to be encoded |
 | stream | io.RawIOBase | The stream that encoded data will be written to |
-| options | [DracoSaveOptions](/3d/python-net/aspose.threed.formats/dracosaveoptions) | Extra options for encoding the point cloud |
+| options | [`DracoSaveOptions`](/3d/python-net/aspose.threed.formats/dracosaveoptions) | Extra options for encoding the point cloud |
 
 
 ## encode(entity, file_name, options) {#Entity-str-DracoSaveOptions}
@@ -64,12 +64,12 @@ def encode(self, entity, file_name, options):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| entity | [Entity](/3d/python-net/aspose.threed/entity) | The entity to be encoded |
+| entity | [`Entity`](/3d/python-net/aspose.threed/entity) | The entity to be encoded |
 | file_name | str | The file name to be written |
-| options | [DracoSaveOptions](/3d/python-net/aspose.threed.formats/dracosaveoptions) | Extra options for encoding the point cloud |
+| options | [`DracoSaveOptions`](/3d/python-net/aspose.threed.formats/dracosaveoptions) | Extra options for encoding the point cloud |
 
 
 
 ### See Also
-* module [aspose.threed.formats](../../)
-* class [DracoFormat](/3d/python-net/aspose.threed.formats/dracoformat)
+* module [`aspose.threed.formats`](../../)
+* class [`DracoFormat`](/3d/python-net/aspose.threed.formats/dracoformat)

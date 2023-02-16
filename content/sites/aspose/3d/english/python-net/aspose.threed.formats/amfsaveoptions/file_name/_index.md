@@ -24,5 +24,5 @@ def file_name(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.formats](../../)
-* class [AmfSaveOptions](/3d/python-net/aspose.threed.formats/amfsaveoptions)
+* module [`aspose.threed.formats`](../../)
+* class [`AmfSaveOptions`](/3d/python-net/aspose.threed.formats/amfsaveoptions)

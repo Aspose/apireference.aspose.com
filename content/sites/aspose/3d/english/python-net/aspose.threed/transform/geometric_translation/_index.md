@@ -37,6 +37,6 @@ def geometric_translation(self, value):
 ```
 
 ### See Also
-* module [aspose.threed](../../)
-* class [Transform](/3d/python-net/aspose.threed/transform)
-* class [Vector3](/3d/python-net/aspose.threed.utilities/vector3)
+* module [`aspose.threed`](../../)
+* class [`Transform`](/3d/python-net/aspose.threed/transform)
+* class [`Vector3`](/3d/python-net/aspose.threed.utilities/vector3)

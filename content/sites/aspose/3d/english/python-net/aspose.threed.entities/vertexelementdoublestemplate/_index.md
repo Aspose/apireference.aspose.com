@@ -10,12 +10,12 @@ is_root: false
 
 ## VertexElementDoublesTemplate class
 
-A helper class for defining concrete [VertexElement](/3d/python-net/aspose.threed.entities/vertexelement) implementations.
+A helper class for defining concrete [`VertexElement`](/3d/python-net/aspose.threed.entities/vertexelement) implementations.
 
 
 
-**Inheritance:** [VertexElementDoublesTemplate](/3d/python-net/aspose.threed.entities/vertexelementdoublestemplate) → 
-[VertexElement](/3d/python-net/aspose.threed.entities/vertexelement)
+**Inheritance:** [`VertexElementDoublesTemplate`](/3d/python-net/aspose.threed.entities/vertexelementdoublestemplate) → 
+[`VertexElement`](/3d/python-net/aspose.threed.entities/vertexelement)
 
 
 
@@ -24,7 +24,7 @@ The VertexElementDoublesTemplate type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [vertex_element_type](/3d/python-net/aspose.threed.entities/vertexelementdoublestemplate/vertex_element_type) | Gets the type of the [VertexElement](/3d/python-net/aspose.threed.entities/vertexelement) |
+| [vertex_element_type](/3d/python-net/aspose.threed.entities/vertexelementdoublestemplate/vertex_element_type) | Gets the type of the [`VertexElement`](/3d/python-net/aspose.threed.entities/vertexelement) |
 | [name](/3d/python-net/aspose.threed.entities/vertexelementdoublestemplate/name) | Gets or sets the name. |
 | [mapping_mode](/3d/python-net/aspose.threed.entities/vertexelementdoublestemplate/mapping_mode) | Gets or sets how the element is mapped. |
 | [reference_mode](/3d/python-net/aspose.threed.entities/vertexelementdoublestemplate/reference_mode) | Gets or sets how the element is referenced. |
@@ -42,6 +42,6 @@ The VertexElementDoublesTemplate type exposes the following members:
 
 
 ### See Also
-* module [aspose.threed.entities](..)
-* class [VertexElement](/3d/python-net/aspose.threed.entities/vertexelement)
-* class [VertexElementDoublesTemplate](/3d/python-net/aspose.threed.entities/vertexelementdoublestemplate)
+* module [`aspose.threed.entities`](..)
+* class [`VertexElement`](/3d/python-net/aspose.threed.entities/vertexelement)
+* class [`VertexElementDoublesTemplate`](/3d/python-net/aspose.threed.entities/vertexelementdoublestemplate)

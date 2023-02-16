@@ -27,7 +27,7 @@ def scale(self, s):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| s | [Vector3](/3d/python-net/aspose.threed.utilities/vector3) | Scaling factories applies to the x-axis, the y-axis and the z-axis |
+| s | [`Vector3`](/3d/python-net/aspose.threed.utilities/vector3) | Scaling factories applies to the x-axis, the y-axis and the z-axis |
 
 ### Example 
 
@@ -92,5 +92,5 @@ def scale(self, sx, sy, sz):
 
 
 ### See Also
-* module [aspose.threed.utilities](../../)
-* class [Matrix4](/3d/python-net/aspose.threed.utilities/matrix4)
+* module [`aspose.threed.utilities`](../../)
+* class [`Matrix4`](/3d/python-net/aspose.threed.utilities/matrix4)

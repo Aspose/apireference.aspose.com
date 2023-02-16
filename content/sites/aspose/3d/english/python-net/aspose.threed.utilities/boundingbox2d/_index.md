@@ -10,7 +10,7 @@ is_root: false
 
 ## BoundingBox2D class
 
-The axis-aligned bounding box for [Vector2](/3d/python-net/aspose.threed.utilities/vector2)
+The axis-aligned bounding box for [`Vector2`](/3d/python-net/aspose.threed.utilities/vector2)
 
 
 
@@ -42,5 +42,5 @@ The BoundingBox2D type exposes the following members:
 
 
 ### See Also
-* module [aspose.threed.utilities](..)
-* class [Vector2](/3d/python-net/aspose.threed.utilities/vector2)
+* module [`aspose.threed.utilities`](..)
+* class [`Vector2`](/3d/python-net/aspose.threed.utilities/vector2)

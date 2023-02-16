@@ -23,6 +23,6 @@ def type(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [NurbsDirection](/3d/python-net/aspose.threed.entities/nurbsdirection)
-* class [NurbsType](/3d/python-net/aspose.threed.entities/nurbstype)
+* module [`aspose.threed.entities`](../../)
+* class [`NurbsDirection`](/3d/python-net/aspose.threed.entities/nurbsdirection)
+* class [`NurbsType`](/3d/python-net/aspose.threed.entities/nurbstype)

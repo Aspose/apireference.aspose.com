@@ -23,5 +23,5 @@ def internal_fillet_radius(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.profiles](../../)
-* class [CShape](/3d/python-net/aspose.threed.profiles/cshape)
+* module [`aspose.threed.profiles`](../../)
+* class [`CShape`](/3d/python-net/aspose.threed.profiles/cshape)

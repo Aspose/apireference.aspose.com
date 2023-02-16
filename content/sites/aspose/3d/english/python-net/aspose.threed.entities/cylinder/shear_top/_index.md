@@ -23,6 +23,6 @@ def shear_top(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [Cylinder](/3d/python-net/aspose.threed.entities/cylinder)
-* class [Vector2](/3d/python-net/aspose.threed.utilities/vector2)
+* module [`aspose.threed.entities`](../../)
+* class [`Cylinder`](/3d/python-net/aspose.threed.entities/cylinder)
+* class [`Vector2`](/3d/python-net/aspose.threed.utilities/vector2)

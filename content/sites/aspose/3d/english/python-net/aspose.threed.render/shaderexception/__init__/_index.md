@@ -10,7 +10,7 @@ is_root: false
 
 ## ShaderException(message) {#str}
 
-Constructor of [ShaderException](/3d/python-net/aspose.threed.render/shaderexception)
+Constructor of [`ShaderException`](/3d/python-net/aspose.threed.render/shaderexception)
 
 
 
@@ -27,5 +27,5 @@ def __init__(self, message):
 
 
 ### See Also
-* module [aspose.threed.render](../../)
-* class [ShaderException](/3d/python-net/aspose.threed.render/shaderexception)
+* module [`aspose.threed.render`](../../)
+* class [`ShaderException`](/3d/python-net/aspose.threed.render/shaderexception)

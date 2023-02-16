@@ -18,6 +18,17 @@ public Node CreateChildNode()
 
 The new child node.
 
+### Examples
+
+The following code shows how to create a new child node under root node
+
+```csharp
+Scene scene = new Scene();
+Node node = scene.RootNode.CreateChildNode();
+node.Entity = new Box();
+scene.Save("output.fbx");
+```
+
 ### See Also
 
 * class [Node](../../node)
@@ -42,6 +53,17 @@ public Node CreateChildNode(string nodeName)
 
 The new child node.
 
+### Examples
+
+The following code shows how to create a new child node under root node
+
+```csharp
+Scene scene = new Scene();
+Node node = scene.RootNode.CreateChildNode("new node");
+node.Entity = new Box();
+scene.Save("output.fbx");
+```
+
 ### See Also
 
 * class [Node](../../node)
@@ -65,6 +87,16 @@ public Node CreateChildNode(Entity entity)
 ### Return Value
 
 The new child node.
+
+### Examples
+
+The following code shows how to create a new child node under root node
+
+```csharp
+Scene scene = new Scene();
+Node node = scene.RootNode.CreateChildNode(new Box());
+scene.Save("output.fbx");
+```
 
 ### See Also
 

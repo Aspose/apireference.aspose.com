@@ -27,7 +27,7 @@ def from_material(self, material):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| material | [Material](/3d/python-net/aspose.threed.shading/material) |  |
+| material | [`Material`](/3d/python-net/aspose.threed.shading/material) |  |
 
 ### Example 
 
@@ -48,5 +48,5 @@ pbr = PbrMaterial.from_material(mat)
 
 
 ### See Also
-* module [aspose.threed.shading](../../)
-* class [PbrMaterial](/3d/python-net/aspose.threed.shading/pbrmaterial)
+* module [`aspose.threed.shading`](../../)
+* class [`PbrMaterial`](/3d/python-net/aspose.threed.shading/pbrmaterial)

@@ -71,5 +71,5 @@ license.set_license(myStream)
 
 
 ### See Also
-* module [aspose.threed](../../)
-* class [License](/3d/python-net/aspose.threed/license)
+* module [`aspose.threed`](../../)
+* class [`License`](/3d/python-net/aspose.threed/license)

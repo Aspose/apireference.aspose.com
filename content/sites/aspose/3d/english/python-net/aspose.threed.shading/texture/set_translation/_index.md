@@ -28,5 +28,5 @@ def set_translation(self, u, v):
 
 
 ### See Also
-* module [aspose.threed.shading](../../)
-* class [Texture](/3d/python-net/aspose.threed.shading/texture)
+* module [`aspose.threed.shading`](../../)
+* class [`Texture`](/3d/python-net/aspose.threed.shading/texture)

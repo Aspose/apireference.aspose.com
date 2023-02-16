@@ -14,8 +14,8 @@ The post-processing effects
 
 
 
-**Inheritance:** [PostProcessing](/3d/python-net/aspose.threed.render/postprocessing) → 
-[A3DObject](/3d/python-net/aspose.threed/a3dobject)
+**Inheritance:** [`PostProcessing`](/3d/python-net/aspose.threed.render/postprocessing) → 
+[`A3DObject`](/3d/python-net/aspose.threed/a3dobject)
 
 
 
@@ -41,6 +41,6 @@ The PostProcessing type exposes the following members:
 
 
 ### See Also
-* module [aspose.threed.render](..)
-* class [A3DObject](/3d/python-net/aspose.threed/a3dobject)
-* class [PostProcessing](/3d/python-net/aspose.threed.render/postprocessing)
+* module [`aspose.threed.render`](..)
+* class [`A3DObject`](/3d/python-net/aspose.threed/a3dobject)
+* class [`PostProcessing`](/3d/python-net/aspose.threed.render/postprocessing)

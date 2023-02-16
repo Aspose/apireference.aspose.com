@@ -15,8 +15,8 @@ All custom properties are saved as dynamic properties.
 
 
 
-**Inheritance:** [CustomObject](/3d/python-net/aspose.threed/customobject) → 
-[A3DObject](/3d/python-net/aspose.threed/a3dobject)
+**Inheritance:** [`CustomObject`](/3d/python-net/aspose.threed/customobject) → 
+[`A3DObject`](/3d/python-net/aspose.threed/a3dobject)
 
 
 
@@ -25,8 +25,8 @@ The CustomObject type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [CustomObject()](/3d/python-net/aspose.threed/customobject/__init__/#) | Initializes a new instance of the [CustomObject](/3d/python-net/aspose.threed/customobject) class. |
-| [CustomObject(name)](/3d/python-net/aspose.threed/customobject/__init__/#str) | Initializes a new instance of the [CustomObject](/3d/python-net/aspose.threed/customobject) class. |
+| [CustomObject()](/3d/python-net/aspose.threed/customobject/__init__/#) | Initializes a new instance of the [`CustomObject`](/3d/python-net/aspose.threed/customobject) class. |
+| [CustomObject(name)](/3d/python-net/aspose.threed/customobject/__init__/#str) | Initializes a new instance of the [`CustomObject`](/3d/python-net/aspose.threed/customobject) class. |
 
 
 ### Properties
@@ -48,6 +48,6 @@ The CustomObject type exposes the following members:
 
 
 ### See Also
-* module [aspose.threed](..)
-* class [A3DObject](/3d/python-net/aspose.threed/a3dobject)
-* class [CustomObject](/3d/python-net/aspose.threed/customobject)
+* module [`aspose.threed`](..)
+* class [`A3DObject`](/3d/python-net/aspose.threed/a3dobject)
+* class [`CustomObject`](/3d/python-net/aspose.threed/customobject)

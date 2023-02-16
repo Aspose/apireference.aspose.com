@@ -24,5 +24,5 @@ def clear(self):
 
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [VertexElementHole](/3d/python-net/aspose.threed.entities/vertexelementhole)
+* module [`aspose.threed.entities`](../../)
+* class [`VertexElementHole`](/3d/python-net/aspose.threed.entities/vertexelementhole)

@@ -14,5 +14,5 @@ is_root: false
 The w component.
 
 ### See Also
-* module [aspose.threed.utilities](../../)
-* class [Quaternion](/3d/python-net/aspose.threed.utilities/quaternion)
+* module [`aspose.threed.utilities`](../../)
+* class [`Quaternion`](/3d/python-net/aspose.threed.utilities/quaternion)

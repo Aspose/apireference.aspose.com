@@ -21,9 +21,9 @@ The AlphaSource type exposes the following members:
 | :- | :- |
 | NONE | No alpha is defined in the texture |
 | PIXEL_ALPHA | The alpha is defined by pixel's alpha channel |
-| FIXED_VALUE | The Alpha is a fixed value which is defined by [TextureBase.alpha](/3d/python-net/aspose.threed.shading/texturebase#alpha) |
+| FIXED_VALUE | The Alpha is a fixed value which is defined by [`TextureBase.alpha`](/3d/python-net/aspose.threed.shading/texturebase#alpha) |
 
 
 
 ### See Also
-* module [aspose.threed.shading](..)
+* module [`aspose.threed.shading`](..)

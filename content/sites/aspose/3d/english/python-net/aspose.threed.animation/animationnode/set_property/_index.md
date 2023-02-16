@@ -28,5 +28,5 @@ def set_property(self, property, value):
 
 
 ### See Also
-* module [aspose.threed.animation](../../)
-* class [AnimationNode](/3d/python-net/aspose.threed.animation/animationnode)
+* module [`aspose.threed.animation`](../../)
+* class [`AnimationNode`](/3d/python-net/aspose.threed.animation/animationnode)

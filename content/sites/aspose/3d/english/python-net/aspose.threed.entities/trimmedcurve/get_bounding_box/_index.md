@@ -40,6 +40,6 @@ print(f"The bounding box of the entity is {bbox.minimum} ~ {bbox.maximum}")
 
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [BoundingBox](/3d/python-net/aspose.threed.utilities/boundingbox)
-* class [TrimmedCurve](/3d/python-net/aspose.threed.entities/trimmedcurve)
+* module [`aspose.threed.entities`](../../)
+* class [`BoundingBox`](/3d/python-net/aspose.threed.utilities/boundingbox)
+* class [`TrimmedCurve`](/3d/python-net/aspose.threed.entities/trimmedcurve)

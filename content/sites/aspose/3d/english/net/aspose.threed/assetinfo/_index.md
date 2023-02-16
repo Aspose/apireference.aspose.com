@@ -56,6 +56,15 @@ public class AssetInfo : A3DObject
 | [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(string) | Remove the specified property identified by name |
 | [SetProperty](../../aspose.threed/a3dobject/setproperty)(string, object) | Sets the value of specified property |
 
+### Examples
+
+The following code shows how to read asset info from a fbx file:
+
+```csharp
+Scene scene = Scene.FromFile("test.fbx");
+Console.WriteLine($"The file is created at {scene.AssetInfo.CreationTime} by {scene.AssetInfo.ApplicationName} {scene.AssetInfo.ApplicationVersion} ");
+```
+
 ### See Also
 
 * class [A3DObject](../a3dobject)

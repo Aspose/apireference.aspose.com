@@ -10,7 +10,7 @@ is_root: false
 
 ## get_vertex_element_of_uv(texture_mapping) {#TextureMapping}
 
-Gets a [VertexElementUV](/3d/python-net/aspose.threed.entities/vertexelementuv) instance with given texture mapping type
+Gets a [`VertexElementUV`](/3d/python-net/aspose.threed.entities/vertexelementuv) instance with given texture mapping type
 
 
 ### Returns 
@@ -27,11 +27,11 @@ def get_vertex_element_of_uv(self, texture_mapping):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| texture_mapping | [TextureMapping](/3d/python-net/aspose.threed.entities/texturemapping) |  |
+| texture_mapping | [`TextureMapping`](/3d/python-net/aspose.threed.entities/texturemapping) |  |
 
 
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [Patch](/3d/python-net/aspose.threed.entities/patch)
-* class [VertexElementUV](/3d/python-net/aspose.threed.entities/vertexelementuv)
+* module [`aspose.threed.entities`](../../)
+* class [`Patch`](/3d/python-net/aspose.threed.entities/patch)
+* class [`VertexElementUV`](/3d/python-net/aspose.threed.entities/vertexelementuv)

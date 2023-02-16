@@ -76,6 +76,7 @@ public class Mesh : Geometry, IEnumerable<int[]>, IMeshConvertible
 To add a polygon in mesh:
 
 ```csharp
+Mesh mesh = new Mesh();
 int[] indices = new int[] {0, 1, 2};
 mesh.CreatePolygon(indices);
 ```
@@ -83,6 +84,7 @@ mesh.CreatePolygon(indices);
 Travel through all polygons in mesh:
 
 ```csharp
+Mesh mesh = new Mesh();
 foreach(int[] polygon in mesh)
 {
     //deal with polygon

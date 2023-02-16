@@ -14,9 +14,9 @@ Defines the vertex color for specified components
 
 
 
-**Inheritance:** [VertexElementVertexColor](/3d/python-net/aspose.threed.entities/vertexelementvertexcolor) → 
-[VertexElementVector4](/3d/python-net/aspose.threed.entities/vertexelementvector4) → 
-[VertexElement](/3d/python-net/aspose.threed.entities/vertexelement)
+**Inheritance:** [`VertexElementVertexColor`](/3d/python-net/aspose.threed.entities/vertexelementvertexcolor) → 
+[`VertexElementVector4`](/3d/python-net/aspose.threed.entities/vertexelementvector4) → 
+[`VertexElement`](/3d/python-net/aspose.threed.entities/vertexelement)
 
 
 
@@ -25,13 +25,13 @@ The VertexElementVertexColor type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [VertexElementVertexColor()](/3d/python-net/aspose.threed.entities/vertexelementvertexcolor/__init__/#) | Initializes a new instance of the [VertexElementVertexColor](/3d/python-net/aspose.threed.entities/vertexelementvertexcolor) class. |
+| [VertexElementVertexColor()](/3d/python-net/aspose.threed.entities/vertexelementvertexcolor/__init__/#) | Initializes a new instance of the [`VertexElementVertexColor`](/3d/python-net/aspose.threed.entities/vertexelementvertexcolor) class. |
 
 
 ### Properties
 | Property | Description |
 | :- | :- |
-| [vertex_element_type](/3d/python-net/aspose.threed.entities/vertexelementvertexcolor/vertex_element_type) | Gets the type of the [VertexElement](/3d/python-net/aspose.threed.entities/vertexelement) |
+| [vertex_element_type](/3d/python-net/aspose.threed.entities/vertexelementvertexcolor/vertex_element_type) | Gets the type of the [`VertexElement`](/3d/python-net/aspose.threed.entities/vertexelement) |
 | [name](/3d/python-net/aspose.threed.entities/vertexelementvertexcolor/name) | Gets or sets the name. |
 | [mapping_mode](/3d/python-net/aspose.threed.entities/vertexelementvertexcolor/mapping_mode) | Gets or sets how the element is mapped. |
 | [reference_mode](/3d/python-net/aspose.threed.entities/vertexelementvertexcolor/reference_mode) | Gets or sets how the element is referenced. |
@@ -50,7 +50,7 @@ The VertexElementVertexColor type exposes the following members:
 
 
 ### See Also
-* module [aspose.threed.entities](..)
-* class [VertexElement](/3d/python-net/aspose.threed.entities/vertexelement)
-* class [VertexElementVector4](/3d/python-net/aspose.threed.entities/vertexelementvector4)
-* class [VertexElementVertexColor](/3d/python-net/aspose.threed.entities/vertexelementvertexcolor)
+* module [`aspose.threed.entities`](..)
+* class [`VertexElement`](/3d/python-net/aspose.threed.entities/vertexelement)
+* class [`VertexElementVector4`](/3d/python-net/aspose.threed.entities/vertexelementvector4)
+* class [`VertexElementVertexColor`](/3d/python-net/aspose.threed.entities/vertexelementvertexcolor)

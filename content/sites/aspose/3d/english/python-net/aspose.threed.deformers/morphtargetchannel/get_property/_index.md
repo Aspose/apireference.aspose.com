@@ -32,5 +32,5 @@ def get_property(self, property):
 
 
 ### See Also
-* module [aspose.threed.deformers](../../)
-* class [MorphTargetChannel](/3d/python-net/aspose.threed.deformers/morphtargetchannel)
+* module [`aspose.threed.deformers`](../../)
+* class [`MorphTargetChannel`](/3d/python-net/aspose.threed.deformers/morphtargetchannel)

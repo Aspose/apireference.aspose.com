@@ -23,5 +23,5 @@ def receive_shadows(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [Mesh](/3d/python-net/aspose.threed.entities/mesh)
+* module [`aspose.threed.entities`](../../)
+* class [`Mesh`](/3d/python-net/aspose.threed.entities/mesh)

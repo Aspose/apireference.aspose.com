@@ -15,11 +15,11 @@ This profile defines a new profile by mirroring the base profile about the y axi
 
 
 
-**Inheritance:** [MirroredProfile](/3d/python-net/aspose.threed.profiles/mirroredprofile) → 
-[Profile](/3d/python-net/aspose.threed.profiles/profile) → 
-[Entity](/3d/python-net/aspose.threed/entity) → 
-[SceneObject](/3d/python-net/aspose.threed/sceneobject) → 
-[A3DObject](/3d/python-net/aspose.threed/a3dobject)
+**Inheritance:** [`MirroredProfile`](/3d/python-net/aspose.threed.profiles/mirroredprofile) → 
+[`Profile`](/3d/python-net/aspose.threed.profiles/profile) → 
+[`Entity`](/3d/python-net/aspose.threed/entity) → 
+[`SceneObject`](/3d/python-net/aspose.threed/sceneobject) → 
+[`A3DObject`](/3d/python-net/aspose.threed/a3dobject)
 
 
 
@@ -28,7 +28,7 @@ The MirroredProfile type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [MirroredProfile(base_profile)](/3d/python-net/aspose.threed.profiles/mirroredprofile/__init__/#Profile) | Construct a new [MirroredProfile](/3d/python-net/aspose.threed.profiles/mirroredprofile) from an existing profile. |
+| [MirroredProfile(base_profile)](/3d/python-net/aspose.threed.profiles/mirroredprofile/__init__/#Profile) | Construct a new [`MirroredProfile`](/3d/python-net/aspose.threed.profiles/mirroredprofile) from an existing profile. |
 
 
 ### Properties
@@ -57,9 +57,9 @@ The MirroredProfile type exposes the following members:
 
 
 ### See Also
-* module [aspose.threed.profiles](..)
-* class [A3DObject](/3d/python-net/aspose.threed/a3dobject)
-* class [Entity](/3d/python-net/aspose.threed/entity)
-* class [MirroredProfile](/3d/python-net/aspose.threed.profiles/mirroredprofile)
-* class [Profile](/3d/python-net/aspose.threed.profiles/profile)
-* class [SceneObject](/3d/python-net/aspose.threed/sceneobject)
+* module [`aspose.threed.profiles`](..)
+* class [`A3DObject`](/3d/python-net/aspose.threed/a3dobject)
+* class [`Entity`](/3d/python-net/aspose.threed/entity)
+* class [`MirroredProfile`](/3d/python-net/aspose.threed.profiles/mirroredprofile)
+* class [`Profile`](/3d/python-net/aspose.threed.profiles/profile)
+* class [`SceneObject`](/3d/python-net/aspose.threed/sceneobject)

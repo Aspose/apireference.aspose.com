@@ -10,7 +10,7 @@ is_root: false
 
 ## U3dLoadOptions() {#}
 
-Constructor of [U3dLoadOptions](/3d/python-net/aspose.threed.formats/u3dloadoptions)
+Constructor of [`U3dLoadOptions`](/3d/python-net/aspose.threed.formats/u3dloadoptions)
 
 
 
@@ -24,5 +24,5 @@ def __init__(self):
 
 
 ### See Also
-* module [aspose.threed.formats](../../)
-* class [U3dLoadOptions](/3d/python-net/aspose.threed.formats/u3dloadoptions)
+* module [`aspose.threed.formats`](../../)
+* class [`U3dLoadOptions`](/3d/python-net/aspose.threed.formats/u3dloadoptions)

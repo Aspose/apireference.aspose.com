@@ -10,7 +10,7 @@ is_root: false
 
 ## TransformedCurve() {#}
 
-The constructor of [TransformedCurve](/3d/python-net/aspose.threed.entities/transformedcurve)
+The constructor of [`TransformedCurve`](/3d/python-net/aspose.threed.entities/transformedcurve)
 
 
 
@@ -24,7 +24,7 @@ def __init__(self):
 
 ## TransformedCurve(basis_curve, transformation) {#Curve-aspose.threed.utilities.Matrix4}
 
-The constructor of [TransformedCurve](/3d/python-net/aspose.threed.entities/transformedcurve)
+The constructor of [`TransformedCurve`](/3d/python-net/aspose.threed.entities/transformedcurve)
 
 
 
@@ -36,11 +36,11 @@ def __init__(self, basis_curve, transformation):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| basis_curve | [Curve](/3d/python-net/aspose.threed.entities/curve) |  |
+| basis_curve | [`Curve`](/3d/python-net/aspose.threed.entities/curve) |  |
 | transformation | aspose.threed.utilities.Matrix4 |  |
 
 
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [TransformedCurve](/3d/python-net/aspose.threed.entities/transformedcurve)
+* module [`aspose.threed.entities`](../../)
+* class [`TransformedCurve`](/3d/python-net/aspose.threed.entities/transformedcurve)

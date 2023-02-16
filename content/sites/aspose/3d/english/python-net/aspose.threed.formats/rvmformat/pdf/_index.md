@@ -14,5 +14,5 @@ is_root: false
 Adobe's Portable Document Format
 
 ### See Also
-* module [aspose.threed.formats](../../)
-* class [RvmFormat](/3d/python-net/aspose.threed.formats/rvmformat)
+* module [`aspose.threed.formats`](../../)
+* class [`RvmFormat`](/3d/python-net/aspose.threed.formats/rvmformat)

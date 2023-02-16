@@ -14,9 +14,9 @@ Save options for HTML5
 
 
 
-**Inheritance:** [Html5SaveOptions](/3d/python-net/aspose.threed.formats/html5saveoptions) → 
-[SaveOptions](/3d/python-net/aspose.threed.formats/saveoptions) → 
-[IOConfig](/3d/python-net/aspose.threed.formats/ioconfig)
+**Inheritance:** [`Html5SaveOptions`](/3d/python-net/aspose.threed.formats/html5saveoptions) → 
+[`SaveOptions`](/3d/python-net/aspose.threed.formats/saveoptions) → 
+[`IOConfig`](/3d/python-net/aspose.threed.formats/ioconfig)
 
 
 
@@ -25,7 +25,7 @@ The Html5SaveOptions type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [Html5SaveOptions()](/3d/python-net/aspose.threed.formats/html5saveoptions/__init__/#) | Constructor of [Html5SaveOptions](/3d/python-net/aspose.threed.formats/html5saveoptions) with all default settings. |
+| [Html5SaveOptions()](/3d/python-net/aspose.threed.formats/html5saveoptions/__init__/#) | Constructor of [`Html5SaveOptions`](/3d/python-net/aspose.threed.formats/html5saveoptions) with all default settings. |
 
 
 ### Properties
@@ -50,7 +50,7 @@ The Html5SaveOptions type exposes the following members:
 
 
 ### See Also
-* module [aspose.threed.formats](..)
-* class [Html5SaveOptions](/3d/python-net/aspose.threed.formats/html5saveoptions)
-* class [IOConfig](/3d/python-net/aspose.threed.formats/ioconfig)
-* class [SaveOptions](/3d/python-net/aspose.threed.formats/saveoptions)
+* module [`aspose.threed.formats`](..)
+* class [`Html5SaveOptions`](/3d/python-net/aspose.threed.formats/html5saveoptions)
+* class [`IOConfig`](/3d/python-net/aspose.threed.formats/ioconfig)
+* class [`SaveOptions`](/3d/python-net/aspose.threed.formats/saveoptions)

@@ -28,7 +28,7 @@ def angle_between(self, dir):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| dir | [Vector3](/3d/python-net/aspose.threed.utilities/vector3) | The direction vector to compare with |
+| dir | [`Vector3`](/3d/python-net/aspose.threed.utilities/vector3) | The direction vector to compare with |
 
 
 ## angle_between(dir, up) {#Vector3-Vector3}
@@ -51,11 +51,11 @@ def angle_between(self, dir, up):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| dir | [Vector3](/3d/python-net/aspose.threed.utilities/vector3) | The direction vector to compare with |
-| up | [Vector3](/3d/python-net/aspose.threed.utilities/vector3) | The up vector of the two direction's shared plane |
+| dir | [`Vector3`](/3d/python-net/aspose.threed.utilities/vector3) | The direction vector to compare with |
+| up | [`Vector3`](/3d/python-net/aspose.threed.utilities/vector3) | The up vector of the two direction's shared plane |
 
 
 
 ### See Also
-* module [aspose.threed.utilities](../../)
-* class [Vector3](/3d/python-net/aspose.threed.utilities/vector3)
+* module [`aspose.threed.utilities`](../../)
+* class [`Vector3`](/3d/python-net/aspose.threed.utilities/vector3)

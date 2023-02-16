@@ -20,6 +20,6 @@ def properties(self):
 ```
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [PropertyCollection](/3d/python-net/aspose.threed/propertycollection)
-* class [SweptAreaSolid](/3d/python-net/aspose.threed.entities/sweptareasolid)
+* module [`aspose.threed.entities`](../../)
+* class [`PropertyCollection`](/3d/python-net/aspose.threed/propertycollection)
+* class [`SweptAreaSolid`](/3d/python-net/aspose.threed.entities/sweptareasolid)

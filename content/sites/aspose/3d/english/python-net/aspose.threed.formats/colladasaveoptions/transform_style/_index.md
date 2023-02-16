@@ -23,6 +23,6 @@ def transform_style(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.formats](../../)
-* class [ColladaSaveOptions](/3d/python-net/aspose.threed.formats/colladasaveoptions)
-* class [ColladaTransformStyle](/3d/python-net/aspose.threed.formats/colladatransformstyle)
+* module [`aspose.threed.formats`](../../)
+* class [`ColladaSaveOptions`](/3d/python-net/aspose.threed.formats/colladasaveoptions)
+* class [`ColladaTransformStyle`](/3d/python-net/aspose.threed.formats/colladatransformstyle)

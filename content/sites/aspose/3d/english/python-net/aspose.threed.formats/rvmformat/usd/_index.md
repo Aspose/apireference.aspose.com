@@ -14,5 +14,5 @@ is_root: false
 Universal Scene Description
 
 ### See Also
-* module [aspose.threed.formats](../../)
-* class [RvmFormat](/3d/python-net/aspose.threed.formats/rvmformat)
+* module [`aspose.threed.formats`](../../)
+* class [`RvmFormat`](/3d/python-net/aspose.threed.formats/rvmformat)

@@ -10,7 +10,7 @@ is_root: false
 
 ## TextureBase(name) {#str}
 
-Initializes a new instance of the [TextureBase](/3d/python-net/aspose.threed.shading/texturebase) class.
+Initializes a new instance of the [`TextureBase`](/3d/python-net/aspose.threed.shading/texturebase) class.
 
 
 
@@ -27,5 +27,5 @@ def __init__(self, name):
 
 
 ### See Also
-* module [aspose.threed.shading](../../)
-* class [TextureBase](/3d/python-net/aspose.threed.shading/texturebase)
+* module [`aspose.threed.shading`](../../)
+* class [`TextureBase`](/3d/python-net/aspose.threed.shading/texturebase)

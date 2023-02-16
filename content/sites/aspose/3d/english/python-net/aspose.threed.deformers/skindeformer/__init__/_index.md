@@ -10,7 +10,7 @@ is_root: false
 
 ## SkinDeformer() {#}
 
-Initializes a new instance of the [SkinDeformer](/3d/python-net/aspose.threed.deformers/skindeformer) class.
+Initializes a new instance of the [`SkinDeformer`](/3d/python-net/aspose.threed.deformers/skindeformer) class.
 
 
 
@@ -24,7 +24,7 @@ def __init__(self):
 
 ## SkinDeformer(name) {#str}
 
-Initializes a new instance of the [SkinDeformer](/3d/python-net/aspose.threed.deformers/skindeformer) class.
+Initializes a new instance of the [`SkinDeformer`](/3d/python-net/aspose.threed.deformers/skindeformer) class.
 
 
 
@@ -41,5 +41,5 @@ def __init__(self, name):
 
 
 ### See Also
-* module [aspose.threed.deformers](../../)
-* class [SkinDeformer](/3d/python-net/aspose.threed.deformers/skindeformer)
+* module [`aspose.threed.deformers`](../../)
+* class [`SkinDeformer`](/3d/python-net/aspose.threed.deformers/skindeformer)

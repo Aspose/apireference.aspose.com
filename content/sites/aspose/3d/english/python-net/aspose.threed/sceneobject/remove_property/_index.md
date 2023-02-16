@@ -27,7 +27,7 @@ def remove_property(self, property):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| property | [Property](/3d/python-net/aspose.threed/property) | Which property to remove |
+| property | [`Property`](/3d/python-net/aspose.threed/property) | Which property to remove |
 
 
 ## remove_property(property) {#str}
@@ -54,5 +54,5 @@ def remove_property(self, property):
 
 
 ### See Also
-* module [aspose.threed](../../)
-* class [SceneObject](/3d/python-net/aspose.threed/sceneobject)
+* module [`aspose.threed`](../../)
+* class [`SceneObject`](/3d/python-net/aspose.threed/sceneobject)

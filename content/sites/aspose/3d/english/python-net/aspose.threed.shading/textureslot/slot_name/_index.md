@@ -20,5 +20,5 @@ def slot_name(self):
 ```
 
 ### See Also
-* module [aspose.threed.shading](../../)
-* class [TextureSlot](/3d/python-net/aspose.threed.shading/textureslot)
+* module [`aspose.threed.shading`](../../)
+* class [`TextureSlot`](/3d/python-net/aspose.threed.shading/textureslot)

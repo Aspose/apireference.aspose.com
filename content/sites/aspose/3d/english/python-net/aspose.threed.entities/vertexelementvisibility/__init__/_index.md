@@ -10,7 +10,7 @@ is_root: false
 
 ## VertexElementVisibility() {#}
 
-Initializes a new instance of the [VertexElementVisibility](/3d/python-net/aspose.threed.entities/vertexelementvisibility) class.
+Initializes a new instance of the [`VertexElementVisibility`](/3d/python-net/aspose.threed.entities/vertexelementvisibility) class.
 
 
 
@@ -24,5 +24,5 @@ def __init__(self):
 
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [VertexElementVisibility](/3d/python-net/aspose.threed.entities/vertexelementvisibility)
+* module [`aspose.threed.entities`](../../)
+* class [`VertexElementVisibility`](/3d/python-net/aspose.threed.entities/vertexelementvisibility)

@@ -22,10 +22,10 @@ def bind_descriptor_set(self, descriptor_set):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| descriptor_set | [IDescriptorSet](/3d/python-net/aspose.threed.render/idescriptorset) |  |
+| descriptor_set | [`IDescriptorSet`](/3d/python-net/aspose.threed.render/idescriptorset) |  |
 
 
 
 ### See Also
-* module [aspose.threed.render](../../)
-* class [ICommandList](/3d/python-net/aspose.threed.render/icommandlist)
+* module [`aspose.threed.render`](../../)
+* class [`ICommandList`](/3d/python-net/aspose.threed.render/icommandlist)

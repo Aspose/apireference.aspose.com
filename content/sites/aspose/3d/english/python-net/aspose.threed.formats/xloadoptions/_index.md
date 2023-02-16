@@ -14,9 +14,9 @@ The Load options for DirectX X files.
 
 
 
-**Inheritance:** [XLoadOptions](/3d/python-net/aspose.threed.formats/xloadoptions) → 
-[LoadOptions](/3d/python-net/aspose.threed.formats/loadoptions) → 
-[IOConfig](/3d/python-net/aspose.threed.formats/ioconfig)
+**Inheritance:** [`XLoadOptions`](/3d/python-net/aspose.threed.formats/xloadoptions) → 
+[`LoadOptions`](/3d/python-net/aspose.threed.formats/loadoptions) → 
+[`IOConfig`](/3d/python-net/aspose.threed.formats/ioconfig)
 
 
 
@@ -25,7 +25,7 @@ The XLoadOptions type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [XLoadOptions(content_type)](/3d/python-net/aspose.threed.formats/xloadoptions/__init__/#FileContentType) | Constructor of [XLoadOptions](/3d/python-net/aspose.threed.formats/xloadoptions) |
+| [XLoadOptions(content_type)](/3d/python-net/aspose.threed.formats/xloadoptions/__init__/#FileContentType) | Constructor of [`XLoadOptions`](/3d/python-net/aspose.threed.formats/xloadoptions) |
 
 
 ### Properties
@@ -41,7 +41,7 @@ The XLoadOptions type exposes the following members:
 
 
 ### See Also
-* module [aspose.threed.formats](..)
-* class [IOConfig](/3d/python-net/aspose.threed.formats/ioconfig)
-* class [LoadOptions](/3d/python-net/aspose.threed.formats/loadoptions)
-* class [XLoadOptions](/3d/python-net/aspose.threed.formats/xloadoptions)
+* module [`aspose.threed.formats`](..)
+* class [`IOConfig`](/3d/python-net/aspose.threed.formats/ioconfig)
+* class [`LoadOptions`](/3d/python-net/aspose.threed.formats/loadoptions)
+* class [`XLoadOptions`](/3d/python-net/aspose.threed.formats/xloadoptions)

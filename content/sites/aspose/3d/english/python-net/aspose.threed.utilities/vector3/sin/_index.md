@@ -16,7 +16,7 @@ Calculates sine on each component
 ### Returns 
 
 
-Calculated [Vector3](/3d/python-net/aspose.threed.utilities/vector3).
+Calculated [`Vector3`](/3d/python-net/aspose.threed.utilities/vector3).
 
 
 ```python
@@ -29,5 +29,5 @@ def sin(self):
 
 
 ### See Also
-* module [aspose.threed.utilities](../../)
-* class [Vector3](/3d/python-net/aspose.threed.utilities/vector3)
+* module [`aspose.threed.utilities`](../../)
+* class [`Vector3`](/3d/python-net/aspose.threed.utilities/vector3)

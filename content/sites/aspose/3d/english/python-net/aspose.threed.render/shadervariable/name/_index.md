@@ -20,5 +20,5 @@ def name(self):
 ```
 
 ### See Also
-* module [aspose.threed.render](../../)
-* class [ShaderVariable](/3d/python-net/aspose.threed.render/shadervariable)
+* module [`aspose.threed.render`](../../)
+* class [`ShaderVariable`](/3d/python-net/aspose.threed.render/shadervariable)

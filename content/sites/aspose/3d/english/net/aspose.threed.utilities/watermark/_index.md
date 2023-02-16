@@ -21,6 +21,16 @@ public class Watermark
 | static [DecodeWatermark](../../aspose.threed.utilities/watermark/decodewatermark)(Mesh, string) | Decode the watermark from a mesh |
 | static [EncodeWatermark](../../aspose.threed.utilities/watermark/encodewatermark)(Mesh, string, string) | Encode a text into mesh' blind watermark. |
 
+### Examples
+
+The following code shows how to encode a blind watermark into a mesh and decode it.
+
+```csharp
+Mesh mesh = (new Cylinder()).ToMesh();
+var encodedMesh = Watermark.EncodeWatermark(mesh, "Hello", null);
+var watermark = Watermark.DecodeWatermark(encodedMesh, null);
+```
+
 ### See Also
 
 * namespace [Aspose.ThreeD.Utilities](../../aspose.threed.utilities)

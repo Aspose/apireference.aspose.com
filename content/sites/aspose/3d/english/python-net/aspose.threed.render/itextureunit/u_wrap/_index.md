@@ -23,6 +23,6 @@ def u_wrap(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.render](../../)
-* class [ITextureUnit](/3d/python-net/aspose.threed.render/itextureunit)
-* class [WrapMode](/3d/python-net/aspose.threed.shading/wrapmode)
+* module [`aspose.threed.render`](../../)
+* class [`ITextureUnit`](/3d/python-net/aspose.threed.render/itextureunit)
+* class [`WrapMode`](/3d/python-net/aspose.threed.shading/wrapmode)

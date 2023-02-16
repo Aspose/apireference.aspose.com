@@ -18,6 +18,14 @@ public TransformBuilder Scale(double s)
 | --- | --- | --- |
 | s | Double |  |
 
+### Examples
+
+```csharp
+TransformBuilder tb = new TransformBuilder();
+tb.Scale(10);
+Console.WriteLine($"Transform Matrix: {tb.Matrix}");
+```
+
 ### See Also
 
 * class [TransformBuilder](../../transformbuilder)
@@ -40,6 +48,14 @@ public TransformBuilder Scale(double x, double y, double z)
 | y | Double |  |
 | z | Double |  |
 
+### Examples
+
+```csharp
+TransformBuilder tb = new TransformBuilder();
+tb.Scale(10, 10, 10);
+Console.WriteLine($"Transform Matrix: {tb.Matrix}");
+```
+
 ### See Also
 
 * class [TransformBuilder](../../transformbuilder)
@@ -59,6 +75,14 @@ public TransformBuilder Scale(Vector3 s)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | s | Vector3 |  |
+
+### Examples
+
+```csharp
+TransformBuilder tb = new TransformBuilder();
+tb.Scale(new Vector3(10, 10, 10));
+Console.WriteLine($"Transform Matrix: {tb.Matrix}");
+```
 
 ### See Also
 

@@ -23,5 +23,5 @@ def export_meta_data(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.formats](../../)
-* class [UsdSaveOptions](/3d/python-net/aspose.threed.formats/usdsaveoptions)
+* module [`aspose.threed.formats`](../../)
+* class [`UsdSaveOptions`](/3d/python-net/aspose.threed.formats/usdsaveoptions)

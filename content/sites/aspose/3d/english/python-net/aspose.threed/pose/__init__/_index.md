@@ -10,7 +10,7 @@ is_root: false
 
 ## Pose() {#}
 
-Initializes a new instance of the [Pose](/3d/python-net/aspose.threed/pose) class.
+Initializes a new instance of the [`Pose`](/3d/python-net/aspose.threed/pose) class.
 
 
 
@@ -24,7 +24,7 @@ def __init__(self):
 
 ## Pose(name) {#str}
 
-Initializes a new instance of the [Pose](/3d/python-net/aspose.threed/pose) class.
+Initializes a new instance of the [`Pose`](/3d/python-net/aspose.threed/pose) class.
 
 
 
@@ -41,5 +41,5 @@ def __init__(self, name):
 
 
 ### See Also
-* module [aspose.threed](../../)
-* class [Pose](/3d/python-net/aspose.threed/pose)
+* module [`aspose.threed`](../../)
+* class [`Pose`](/3d/python-net/aspose.threed/pose)

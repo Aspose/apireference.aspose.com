@@ -22,12 +22,12 @@ def rearrange(self, new_x, new_y, new_z):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| new_x | [Axis](/3d/python-net/aspose.threed/axis) | The new x component source |
-| new_y | [Axis](/3d/python-net/aspose.threed/axis) | The new y component source |
-| new_z | [Axis](/3d/python-net/aspose.threed/axis) | The new z component source |
+| new_x | [`Axis`](/3d/python-net/aspose.threed/axis) | The new x component source |
+| new_y | [`Axis`](/3d/python-net/aspose.threed/axis) | The new y component source |
+| new_z | [`Axis`](/3d/python-net/aspose.threed/axis) | The new z component source |
 
 
 
 ### See Also
-* module [aspose.threed.utilities](../../)
-* class [TransformBuilder](/3d/python-net/aspose.threed.utilities/transformbuilder)
+* module [`aspose.threed.utilities`](../../)
+* class [`TransformBuilder`](/3d/python-net/aspose.threed.utilities/transformbuilder)

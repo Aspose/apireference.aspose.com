@@ -12,13 +12,13 @@ is_root: false
 
 A scene is a top-level object that contains the nodes, geometries, materials, textures, animation, poses, sub-scenes and etc.
 Scene can have sub-scenes, acts as multiple-document support in files like collada/blender/fbx
-Node hierarchy can be accessed through [Scene.root_node](/3d/python-net/aspose.threed/scene#root_node)[Scene.library](/3d/python-net/aspose.threed/scene#library) is used to keep a reference of unattached objects during serialization(like meta data or custom objects) so it can be used as a library.
+Node hierarchy can be accessed through [`Scene.root_node`](/3d/python-net/aspose.threed/scene#root_node)[`Scene.library`](/3d/python-net/aspose.threed/scene#library) is used to keep a reference of unattached objects during serialization(like meta data or custom objects) so it can be used as a library.
 
 
 
-**Inheritance:** [Scene](/3d/python-net/aspose.threed/scene) → 
-[SceneObject](/3d/python-net/aspose.threed/sceneobject) → 
-[A3DObject](/3d/python-net/aspose.threed/a3dobject)
+**Inheritance:** [`Scene`](/3d/python-net/aspose.threed/scene) → 
+[`SceneObject`](/3d/python-net/aspose.threed/sceneobject) → 
+[`A3DObject`](/3d/python-net/aspose.threed/a3dobject)
 
 
 
@@ -27,10 +27,10 @@ The Scene type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [Scene()](/3d/python-net/aspose.threed/scene/__init__/#) | Initializes a new instance of the [Scene](/3d/python-net/aspose.threed/scene) class. |
-| [Scene(entity)](/3d/python-net/aspose.threed/scene/__init__/#Entity) | Initializes a new instance of the [Scene](/3d/python-net/aspose.threed/scene) class with an entity attached to a new node. |
-| [Scene(parent_scene, name)](/3d/python-net/aspose.threed/scene/__init__/#Scene-str) | Initializes a new instance of the [Scene](/3d/python-net/aspose.threed/scene) class as a sub-scene. |
-| [Scene(file_name)](/3d/python-net/aspose.threed/scene/__init__/#str) | Initializes a new instance of the [Scene](/3d/python-net/aspose.threed/scene) class and open the file immediately.<br/>This is an obsoleted constructor, please use [Scene.from_file(file_name)](/3d/python-net/aspose.threed/scene/from_file). |
+| [Scene()](/3d/python-net/aspose.threed/scene/__init__/#) | Initializes a new instance of the [`Scene`](/3d/python-net/aspose.threed/scene) class. |
+| [Scene(entity)](/3d/python-net/aspose.threed/scene/__init__/#Entity) | Initializes a new instance of the [`Scene`](/3d/python-net/aspose.threed/scene) class with an entity attached to a new node. |
+| [Scene(parent_scene, name)](/3d/python-net/aspose.threed/scene/__init__/#Scene-str) | Initializes a new instance of the [`Scene`](/3d/python-net/aspose.threed/scene) class as a sub-scene. |
+| [Scene(file_name)](/3d/python-net/aspose.threed/scene/__init__/#str) | Initializes a new instance of the [`Scene`](/3d/python-net/aspose.threed/scene) class and open the file immediately.<br/>This is an obsoleted constructor, please use [`Scene.from_file(file_name)`](/3d/python-net/aspose.threed/scene/from_file). |
 
 
 ### Properties
@@ -41,10 +41,10 @@ The Scene type exposes the following members:
 | [scene](/3d/python-net/aspose.threed/scene/scene) | Gets the scene that this object belongs to |
 | [sub_scenes](/3d/python-net/aspose.threed/scene/sub_scenes) | Gets all sub-scenes |
 | [library](/3d/python-net/aspose.threed/scene/library) | Objects that not directly used in scene hierarchy can be defined in Library.<br/>This is useful when you're using sub-scenes and put reusable components under sub-scenes. |
-| [animation_clips](/3d/python-net/aspose.threed/scene/animation_clips) | Gets all [AnimationClip](/3d/python-net/aspose.threed.animation/animationclip) defined in the scene. |
-| [current_animation_clip](/3d/python-net/aspose.threed/scene/current_animation_clip) | Gets or sets the active [AnimationClip](/3d/python-net/aspose.threed.animation/animationclip) |
+| [animation_clips](/3d/python-net/aspose.threed/scene/animation_clips) | Gets all [`AnimationClip`](/3d/python-net/aspose.threed.animation/animationclip) defined in the scene. |
+| [current_animation_clip](/3d/python-net/aspose.threed/scene/current_animation_clip) | Gets or sets the active [`AnimationClip`](/3d/python-net/aspose.threed.animation/animationclip) |
 | [asset_info](/3d/python-net/aspose.threed/scene/asset_info) | Gets or sets the top-level asset information |
-| [poses](/3d/python-net/aspose.threed/scene/poses) | Gets all [Pose](/3d/python-net/aspose.threed/pose) used in this scene. |
+| [poses](/3d/python-net/aspose.threed/scene/poses) | Gets all [`Pose`](/3d/python-net/aspose.threed/pose) used in this scene. |
 | [root_node](/3d/python-net/aspose.threed/scene/root_node) | Gets the root node of the scene. |
 
 
@@ -69,17 +69,17 @@ The Scene type exposes the following members:
 | [get_property(property)](/3d/python-net/aspose.threed/scene/get_property/#str) | Get the value of specified property |
 | [set_property(property, value)](/3d/python-net/aspose.threed/scene/set_property/#str-any) | Sets the value of specified property |
 | [find_property(property_name)](/3d/python-net/aspose.threed/scene/find_property/#str) | Finds the property.<br/>It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) <br/>or native property(Identified by its name) |
-| [get_animation_clip(name)](/3d/python-net/aspose.threed/scene/get_animation_clip/#str) | Gets a named [AnimationClip](/3d/python-net/aspose.threed.animation/animationclip) |
+| [get_animation_clip(name)](/3d/python-net/aspose.threed/scene/get_animation_clip/#str) | Gets a named [`AnimationClip`](/3d/python-net/aspose.threed.animation/animationclip) |
 | [clear()](/3d/python-net/aspose.threed/scene/clear/#) | Clears the scene content and restores the default settings. |
-| [create_animation_clip(name)](/3d/python-net/aspose.threed/scene/create_animation_clip/#str) | A shorthand function to create and register the [AnimationClip](/3d/python-net/aspose.threed.animation/animationclip)<br/>The first [AnimationClip](/3d/python-net/aspose.threed.animation/animationclip) will be assigned to the [Scene.current_animation_clip](/3d/python-net/aspose.threed/scene#current_animation_clip) |
+| [create_animation_clip(name)](/3d/python-net/aspose.threed/scene/create_animation_clip/#str) | A shorthand function to create and register the [`AnimationClip`](/3d/python-net/aspose.threed.animation/animationclip)<br/>The first [`AnimationClip`](/3d/python-net/aspose.threed.animation/animationclip) will be assigned to the [`Scene.current_animation_clip`](/3d/python-net/aspose.threed/scene#current_animation_clip) |
 | [from_file(file_name)](/3d/python-net/aspose.threed/scene/from_file/#str) | Opens the scene from given path |
 
 
 
 ### See Also
-* module [aspose.threed](..)
-* class [A3DObject](/3d/python-net/aspose.threed/a3dobject)
-* class [AnimationClip](/3d/python-net/aspose.threed.animation/animationclip)
-* class [Pose](/3d/python-net/aspose.threed/pose)
-* class [Scene](/3d/python-net/aspose.threed/scene)
-* class [SceneObject](/3d/python-net/aspose.threed/sceneobject)
+* module [`aspose.threed`](..)
+* class [`A3DObject`](/3d/python-net/aspose.threed/a3dobject)
+* class [`AnimationClip`](/3d/python-net/aspose.threed.animation/animationclip)
+* class [`Pose`](/3d/python-net/aspose.threed/pose)
+* class [`Scene`](/3d/python-net/aspose.threed/scene)
+* class [`SceneObject`](/3d/python-net/aspose.threed/sceneobject)

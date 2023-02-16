@@ -24,5 +24,5 @@ def file_name(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.formats](../../)
-* class [ColladaSaveOptions](/3d/python-net/aspose.threed.formats/colladasaveoptions)
+* module [`aspose.threed.formats`](../../)
+* class [`ColladaSaveOptions`](/3d/python-net/aspose.threed.formats/colladasaveoptions)

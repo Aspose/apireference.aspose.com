@@ -23,6 +23,6 @@ def type(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [PatchDirection](/3d/python-net/aspose.threed.entities/patchdirection)
-* class [PatchDirectionType](/3d/python-net/aspose.threed.entities/patchdirectiontype)
+* module [`aspose.threed.entities`](../../)
+* class [`PatchDirection`](/3d/python-net/aspose.threed.entities/patchdirection)
+* class [`PatchDirectionType`](/3d/python-net/aspose.threed.entities/patchdirectiontype)

@@ -23,5 +23,5 @@ def cast_shadows(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [Geometry](/3d/python-net/aspose.threed.entities/geometry)
+* module [`aspose.threed.entities`](../../)
+* class [`Geometry`](/3d/python-net/aspose.threed.entities/geometry)

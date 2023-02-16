@@ -10,7 +10,7 @@ is_root: false
 
 ## VertexElementSpecular() {#}
 
-Initializes a new instance of the [VertexElementSpecular](/3d/python-net/aspose.threed.entities/vertexelementspecular) class.
+Initializes a new instance of the [`VertexElementSpecular`](/3d/python-net/aspose.threed.entities/vertexelementspecular) class.
 
 
 
@@ -24,5 +24,5 @@ def __init__(self):
 
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [VertexElementSpecular](/3d/python-net/aspose.threed.entities/vertexelementspecular)
+* module [`aspose.threed.entities`](../../)
+* class [`VertexElementSpecular`](/3d/python-net/aspose.threed.entities/vertexelementspecular)

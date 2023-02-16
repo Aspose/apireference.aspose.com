@@ -25,5 +25,5 @@ def flat(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.animation](../../)
-* class [KeyFrame](/3d/python-net/aspose.threed.animation/keyframe)
+* module [`aspose.threed.animation`](../../)
+* class [`KeyFrame`](/3d/python-net/aspose.threed.animation/keyframe)

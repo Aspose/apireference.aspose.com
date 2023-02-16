@@ -32,5 +32,5 @@ def from_control_points(self, control_points):
 
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [Shape](/3d/python-net/aspose.threed.entities/shape)
+* module [`aspose.threed.entities`](../../)
+* class [`Shape`](/3d/python-net/aspose.threed.entities/shape)

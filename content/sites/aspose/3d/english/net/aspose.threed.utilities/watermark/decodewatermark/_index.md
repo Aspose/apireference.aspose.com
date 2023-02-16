@@ -19,11 +19,24 @@ public static string DecodeWatermark(Mesh input, string password)
 | input | Mesh | The mesh to extract watermark |
 | password | String | The password to decrypt the watermark |
 
+### Return Value
+
+Blind watermark or null if no watermark decoded.
+
 ### Exceptions
 
 | exception | condition |
 | --- | --- |
 | UnauthorizedAccessException | The mesh is protected by password, and provided password is incorrect. |
+
+### Examples
+
+The following code shows how to decode a blind watermark from a mesh saved in 3D file
+
+```csharp
+Mesh mesh = (Mesh)FileFormat.PLY.Decode("test.ply");
+String watermark = Watermark.DecodeWatermark(mesh, "password");
+```
 
 ### See Also
 

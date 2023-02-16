@@ -50,6 +50,6 @@ Scene(encodedMesh).save("test.ply")
 
 
 ### See Also
-* module [aspose.threed.utilities](../../)
-* class [Mesh](/3d/python-net/aspose.threed.entities/mesh)
-* class [Watermark](/3d/python-net/aspose.threed.utilities/watermark)
+* module [`aspose.threed.utilities`](../../)
+* class [`Mesh`](/3d/python-net/aspose.threed.entities/mesh)
+* class [`Watermark`](/3d/python-net/aspose.threed.utilities/watermark)

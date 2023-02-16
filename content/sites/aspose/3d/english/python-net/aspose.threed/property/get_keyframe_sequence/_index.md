@@ -33,6 +33,6 @@ def get_keyframe_sequence(self, anim, create):
 
 
 ### See Also
-* module [aspose.threed](../../)
-* class [KeyframeSequence](/3d/python-net/aspose.threed.animation/keyframesequence)
-* class [Property](/3d/python-net/aspose.threed/property)
+* module [`aspose.threed`](../../)
+* class [`KeyframeSequence`](/3d/python-net/aspose.threed.animation/keyframesequence)
+* class [`Property`](/3d/python-net/aspose.threed/property)

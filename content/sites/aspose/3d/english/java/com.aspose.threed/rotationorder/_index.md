@@ -18,12 +18,12 @@ The order controls which rx ry rz are applied in the transformation matrix.
 
 | Field | Description |
 | --- | --- |
-| [XYZ](#XYZ) |  |
-| [XZY](#XZY) |  |
-| [YXZ](#YXZ) |  |
-| [YZX](#YZX) |  |
-| [ZXY](#ZXY) |  |
-| [ZYX](#ZYX) |  |
+| [XYZ](#XYZ) | Rotate in X,Y,Z order |
+| [XZY](#XZY) | Rotate in X,Z,Y order |
+| [YXZ](#YXZ) | Rotate in Y,X,Z order |
+| [YZX](#YZX) | Rotate in Y,Z,X order |
+| [ZXY](#ZXY) | Rotate in Z,X,Y order |
+| [ZYX](#ZYX) | Rotate in Z,Y,X order |
 ## Methods
 
 | Method | Description |
@@ -51,11 +51,15 @@ public static final RotationOrder XYZ
 ```
 
 
+Rotate in X,Y,Z order
+
 ### XZY {#XZY}
 ```
 public static final RotationOrder XZY
 ```
 
+
+Rotate in X,Z,Y order
 
 ### YXZ {#YXZ}
 ```
@@ -63,11 +67,15 @@ public static final RotationOrder YXZ
 ```
 
 
+Rotate in Y,X,Z order
+
 ### YZX {#YZX}
 ```
 public static final RotationOrder YZX
 ```
 
+
+Rotate in Y,Z,X order
 
 ### ZXY {#ZXY}
 ```
@@ -75,11 +83,15 @@ public static final RotationOrder ZXY
 ```
 
 
+Rotate in Z,X,Y order
+
 ### ZYX {#ZYX}
 ```
 public static final RotationOrder ZYX
 ```
 
+
+Rotate in Z,Y,X order
 
 ### <T>valueOf(Class<T> arg0, String arg1) {#-T-valueOf-java.lang.Class-T--java.lang.String-}
 ```

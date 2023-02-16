@@ -79,5 +79,5 @@ def create_viewport(self, camera, background_color, rect):
 
 
 ### See Also
-* module [aspose.threed.render](../../)
-* class [IRenderTexture](/3d/python-net/aspose.threed.render/irendertexture)
+* module [`aspose.threed.render`](../../)
+* class [`IRenderTexture`](/3d/python-net/aspose.threed.render/irendertexture)

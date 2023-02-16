@@ -10,12 +10,12 @@ is_root: false
 
 ## MemoryFileSystem class
 
-The [MemoryFileSystem](/3d/python-net/aspose.threed.utilities/memoryfilesystem) will maps the read/write operations to memory.
+The [`MemoryFileSystem`](/3d/python-net/aspose.threed.utilities/memoryfilesystem) will maps the read/write operations to memory.
 
 
 
-**Inheritance:** [MemoryFileSystem](/3d/python-net/aspose.threed.utilities/memoryfilesystem) → 
-[FileSystem](/3d/python-net/aspose.threed.utilities/filesystem)
+**Inheritance:** [`MemoryFileSystem`](/3d/python-net/aspose.threed.utilities/memoryfilesystem) → 
+[`FileSystem`](/3d/python-net/aspose.threed.utilities/filesystem)
 
 
 
@@ -71,6 +71,6 @@ materialFile = mfs.get_file_content("test.mtl")
 ```
 
 ### See Also
-* module [aspose.threed.utilities](..)
-* class [FileSystem](/3d/python-net/aspose.threed.utilities/filesystem)
-* class [MemoryFileSystem](/3d/python-net/aspose.threed.utilities/memoryfilesystem)
+* module [`aspose.threed.utilities`](..)
+* class [`FileSystem`](/3d/python-net/aspose.threed.utilities/filesystem)
+* class [`MemoryFileSystem`](/3d/python-net/aspose.threed.utilities/memoryfilesystem)

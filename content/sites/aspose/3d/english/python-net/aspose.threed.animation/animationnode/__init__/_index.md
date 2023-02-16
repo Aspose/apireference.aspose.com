@@ -10,7 +10,7 @@ is_root: false
 
 ## AnimationNode() {#}
 
-Initializes a new instance of the [AnimationNode](/3d/python-net/aspose.threed.animation/animationnode) class.
+Initializes a new instance of the [`AnimationNode`](/3d/python-net/aspose.threed.animation/animationnode) class.
 
 
 
@@ -24,7 +24,7 @@ def __init__(self):
 
 ## AnimationNode(name) {#str}
 
-Initializes a new instance of the [AnimationNode](/3d/python-net/aspose.threed.animation/animationnode) class.
+Initializes a new instance of the [`AnimationNode`](/3d/python-net/aspose.threed.animation/animationnode) class.
 
 
 
@@ -41,5 +41,5 @@ def __init__(self, name):
 
 
 ### See Also
-* module [aspose.threed.animation](../../)
-* class [AnimationNode](/3d/python-net/aspose.threed.animation/animationnode)
+* module [`aspose.threed.animation`](../../)
+* class [`AnimationNode`](/3d/python-net/aspose.threed.animation/animationnode)

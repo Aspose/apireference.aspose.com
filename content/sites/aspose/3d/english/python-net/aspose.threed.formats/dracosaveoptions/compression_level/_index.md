@@ -11,7 +11,7 @@ is_root: false
 ## compression_level property
 
 
-Compression level, default value is [DracoCompressionLevel.STANDARD](/3d/python-net/aspose.threed.formats/dracocompressionlevel#STANDARD)
+Compression level, default value is [`DracoCompressionLevel.STANDARD`](/3d/python-net/aspose.threed.formats/dracocompressionlevel#STANDARD)
 ### Definition:
 ```python
 @property
@@ -23,6 +23,6 @@ def compression_level(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.formats](../../)
-* class [DracoCompressionLevel](/3d/python-net/aspose.threed.formats/dracocompressionlevel)
-* class [DracoSaveOptions](/3d/python-net/aspose.threed.formats/dracosaveoptions)
+* module [`aspose.threed.formats`](../../)
+* class [`DracoCompressionLevel`](/3d/python-net/aspose.threed.formats/dracocompressionlevel)
+* class [`DracoSaveOptions`](/3d/python-net/aspose.threed.formats/dracosaveoptions)

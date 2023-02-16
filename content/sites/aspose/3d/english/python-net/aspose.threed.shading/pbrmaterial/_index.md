@@ -14,9 +14,9 @@ Material for physically based rendering based on albedo color/metallic/roughness
 
 
 
-**Inheritance:** [PbrMaterial](/3d/python-net/aspose.threed.shading/pbrmaterial) → 
-[Material](/3d/python-net/aspose.threed.shading/material) → 
-[A3DObject](/3d/python-net/aspose.threed/a3dobject)
+**Inheritance:** [`PbrMaterial`](/3d/python-net/aspose.threed.shading/pbrmaterial) → 
+[`Material`](/3d/python-net/aspose.threed.shading/material) → 
+[`A3DObject`](/3d/python-net/aspose.threed/a3dobject)
 
 
 
@@ -34,11 +34,11 @@ The PbrMaterial type exposes the following members:
 | :- | :- |
 | [name](/3d/python-net/aspose.threed.shading/pbrmaterial/name) | Gets or sets the name. |
 | [properties](/3d/python-net/aspose.threed.shading/pbrmaterial/properties) | Gets the collection of all properties. |
-| [MAP_SPECULAR](/3d/python-net/aspose.threed.shading/pbrmaterial/map_specular) | Used in [Material.set_texture(slot_name, texture)](/3d/python-net/aspose.threed.shading/material/set_texture) to assign a specular texture mapping. |
-| [MAP_DIFFUSE](/3d/python-net/aspose.threed.shading/pbrmaterial/map_diffuse) | Used in [Material.set_texture(slot_name, texture)](/3d/python-net/aspose.threed.shading/material/set_texture) to assign a diffuse texture mapping. |
-| [MAP_EMISSIVE](/3d/python-net/aspose.threed.shading/pbrmaterial/map_emissive) | Used in [Material.set_texture(slot_name, texture)](/3d/python-net/aspose.threed.shading/material/set_texture) to assign a emissive texture mapping. |
-| [MAP_AMBIENT](/3d/python-net/aspose.threed.shading/pbrmaterial/map_ambient) | Used in [Material.set_texture(slot_name, texture)](/3d/python-net/aspose.threed.shading/material/set_texture) to assign a ambient texture mapping. |
-| [MAP_NORMAL](/3d/python-net/aspose.threed.shading/pbrmaterial/map_normal) | Used in [Material.set_texture(slot_name, texture)](/3d/python-net/aspose.threed.shading/material/set_texture) to assign a normal texture mapping. |
+| [MAP_SPECULAR](/3d/python-net/aspose.threed.shading/pbrmaterial/map_specular) | Used in [`Material.set_texture(slot_name, texture)`](/3d/python-net/aspose.threed.shading/material/set_texture) to assign a specular texture mapping. |
+| [MAP_DIFFUSE](/3d/python-net/aspose.threed.shading/pbrmaterial/map_diffuse) | Used in [`Material.set_texture(slot_name, texture)`](/3d/python-net/aspose.threed.shading/material/set_texture) to assign a diffuse texture mapping. |
+| [MAP_EMISSIVE](/3d/python-net/aspose.threed.shading/pbrmaterial/map_emissive) | Used in [`Material.set_texture(slot_name, texture)`](/3d/python-net/aspose.threed.shading/material/set_texture) to assign a emissive texture mapping. |
+| [MAP_AMBIENT](/3d/python-net/aspose.threed.shading/pbrmaterial/map_ambient) | Used in [`Material.set_texture(slot_name, texture)`](/3d/python-net/aspose.threed.shading/material/set_texture) to assign a ambient texture mapping. |
+| [MAP_NORMAL](/3d/python-net/aspose.threed.shading/pbrmaterial/map_normal) | Used in [`Material.set_texture(slot_name, texture)`](/3d/python-net/aspose.threed.shading/material/set_texture) to assign a normal texture mapping. |
 | [transparency](/3d/python-net/aspose.threed.shading/pbrmaterial/transparency) | Gets or sets the transparency factor.<br/>The factor should be ranged between 0(0%, fully opaque) and 1(100%, fully transparent)<br/>Any invalid factor value will be clamped. |
 | [normal_texture](/3d/python-net/aspose.threed.shading/pbrmaterial/normal_texture) | Gets or sets the texture of normal mapping |
 | [specular_texture](/3d/python-net/aspose.threed.shading/pbrmaterial/specular_texture) | Gets or sets the texture for specular color |
@@ -68,7 +68,7 @@ The PbrMaterial type exposes the following members:
 
 
 ### See Also
-* module [aspose.threed.shading](..)
-* class [A3DObject](/3d/python-net/aspose.threed/a3dobject)
-* class [Material](/3d/python-net/aspose.threed.shading/material)
-* class [PbrMaterial](/3d/python-net/aspose.threed.shading/pbrmaterial)
+* module [`aspose.threed.shading`](..)
+* class [`A3DObject`](/3d/python-net/aspose.threed/a3dobject)
+* class [`Material`](/3d/python-net/aspose.threed.shading/material)
+* class [`PbrMaterial`](/3d/python-net/aspose.threed.shading/pbrmaterial)

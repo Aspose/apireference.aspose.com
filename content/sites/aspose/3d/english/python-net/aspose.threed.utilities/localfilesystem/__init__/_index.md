@@ -10,7 +10,7 @@ is_root: false
 
 ## LocalFileSystem(directory) {#str}
 
-Initialize a new [LocalFileSystem](/3d/python-net/aspose.threed.utilities/localfilesystem) with specified base directory.
+Initialize a new [`LocalFileSystem`](/3d/python-net/aspose.threed.utilities/localfilesystem) with specified base directory.
 
 
 
@@ -27,5 +27,5 @@ def __init__(self, directory):
 
 
 ### See Also
-* module [aspose.threed.utilities](../../)
-* class [LocalFileSystem](/3d/python-net/aspose.threed.utilities/localfilesystem)
+* module [`aspose.threed.utilities`](../../)
+* class [`LocalFileSystem`](/3d/python-net/aspose.threed.utilities/localfilesystem)

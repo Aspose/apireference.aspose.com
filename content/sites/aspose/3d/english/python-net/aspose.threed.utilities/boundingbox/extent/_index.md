@@ -20,6 +20,6 @@ def extent(self):
 ```
 
 ### See Also
-* module [aspose.threed.utilities](../../)
-* class [BoundingBox](/3d/python-net/aspose.threed.utilities/boundingbox)
-* class [BoundingBoxExtent](/3d/python-net/aspose.threed.utilities/boundingboxextent)
+* module [`aspose.threed.utilities`](../../)
+* class [`BoundingBox`](/3d/python-net/aspose.threed.utilities/boundingbox)
+* class [`BoundingBoxExtent`](/3d/python-net/aspose.threed.utilities/boundingboxextent)

@@ -16,7 +16,7 @@ Gets a vertex element with specified type
 ### Returns 
 
 
-[VertexElement](/3d/python-net/aspose.threed.entities/vertexelement) instance if found, otherwise null will be returned.
+[`VertexElement`](/3d/python-net/aspose.threed.entities/vertexelement) instance if found, otherwise null will be returned.
 
 
 ```python
@@ -27,11 +27,11 @@ def get_element(self, type):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| type | [VertexElementType](/3d/python-net/aspose.threed.entities/vertexelementtype) | which vertex element type to find |
+| type | [`VertexElementType`](/3d/python-net/aspose.threed.entities/vertexelementtype) | which vertex element type to find |
 
 
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [Mesh](/3d/python-net/aspose.threed.entities/mesh)
-* class [VertexElement](/3d/python-net/aspose.threed.entities/vertexelement)
+* module [`aspose.threed.entities`](../../)
+* class [`Mesh`](/3d/python-net/aspose.threed.entities/mesh)
+* class [`VertexElement`](/3d/python-net/aspose.threed.entities/vertexelement)

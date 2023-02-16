@@ -15,10 +15,10 @@ This class is a utility to help to construct a mesh that only contains per-verte
 
 
 
-**Inheritance:** [TriMesh](/3d/python-net/aspose.threed.entities/trimesh) → 
-[Entity](/3d/python-net/aspose.threed/entity) → 
-[SceneObject](/3d/python-net/aspose.threed/sceneobject) → 
-[A3DObject](/3d/python-net/aspose.threed/a3dobject)
+**Inheritance:** [`TriMesh`](/3d/python-net/aspose.threed.entities/trimesh) → 
+[`Entity`](/3d/python-net/aspose.threed/entity) → 
+[`SceneObject`](/3d/python-net/aspose.threed/sceneobject) → 
+[`A3DObject`](/3d/python-net/aspose.threed/a3dobject)
 
 
 
@@ -27,7 +27,7 @@ The TriMesh type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [TriMesh(name, declaration)](/3d/python-net/aspose.threed.entities/trimesh/__init__/#str-aspose.threed.utilities.VertexDeclaration) | Initialize an instance of [TriMesh](/3d/python-net/aspose.threed.entities/trimesh) |
+| [TriMesh(name, declaration)](/3d/python-net/aspose.threed.entities/trimesh/__init__/#str-aspose.threed.utilities.VertexDeclaration) | Initialize an instance of [`TriMesh`](/3d/python-net/aspose.threed.entities/trimesh) |
 
 
 ### Properties
@@ -39,10 +39,10 @@ The TriMesh type exposes the following members:
 | [parent_nodes](/3d/python-net/aspose.threed.entities/trimesh/parent_nodes) | Gets all parent nodes, an entity can be attached to multiple parent nodes for geometry instancing |
 | [excluded](/3d/python-net/aspose.threed.entities/trimesh/excluded) | Gets or sets whether to exclude this entity during exporting. |
 | [parent_node](/3d/python-net/aspose.threed.entities/trimesh/parent_node) | Gets or sets the first parent node, if set the first parent node, this entity will be detached from other parent nodes. |
-| [vertex_declaration](/3d/python-net/aspose.threed.entities/trimesh/vertex_declaration) | The vertex layout of the [TriMesh](/3d/python-net/aspose.threed.entities/trimesh). |
-| [vertices_count](/3d/python-net/aspose.threed.entities/trimesh/vertices_count) | The count of vertices in this [TriMesh](/3d/python-net/aspose.threed.entities/trimesh) |
-| [indices_count](/3d/python-net/aspose.threed.entities/trimesh/indices_count) | The count of indices in this [TriMesh](/3d/python-net/aspose.threed.entities/trimesh) |
-| [unmerged_vertices_count](/3d/python-net/aspose.threed.entities/trimesh/unmerged_vertices_count) | The count of unmerged vertices that passed in by [TriMesh.begin_vertex()](/3d/python-net/aspose.threed.entities/trimesh/begin_vertex) and [TriMesh.end_vertex()](/3d/python-net/aspose.threed.entities/trimesh/end_vertex). |
+| [vertex_declaration](/3d/python-net/aspose.threed.entities/trimesh/vertex_declaration) | The vertex layout of the [`TriMesh`](/3d/python-net/aspose.threed.entities/trimesh). |
+| [vertices_count](/3d/python-net/aspose.threed.entities/trimesh/vertices_count) | The count of vertices in this [`TriMesh`](/3d/python-net/aspose.threed.entities/trimesh) |
+| [indices_count](/3d/python-net/aspose.threed.entities/trimesh/indices_count) | The count of indices in this [`TriMesh`](/3d/python-net/aspose.threed.entities/trimesh) |
+| [unmerged_vertices_count](/3d/python-net/aspose.threed.entities/trimesh/unmerged_vertices_count) | The count of unmerged vertices that passed in by [`TriMesh.begin_vertex()`](/3d/python-net/aspose.threed.entities/trimesh/begin_vertex) and [`TriMesh.end_vertex()`](/3d/python-net/aspose.threed.entities/trimesh/end_vertex). |
 | [capacity](/3d/python-net/aspose.threed.entities/trimesh/capacity) | The capacity of pre-allocated vertices. |
 | [vertices_size_in_bytes](/3d/python-net/aspose.threed.entities/trimesh/vertices_size_in_bytes) | The total size of all vertices in bytes |
 
@@ -61,7 +61,7 @@ The TriMesh type exposes the following members:
 | [find_property(property_name)](/3d/python-net/aspose.threed.entities/trimesh/find_property/#str) | Finds the property.<br/>It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) <br/>or native property(Identified by its name) |
 | [get_bounding_box()](/3d/python-net/aspose.threed.entities/trimesh/get_bounding_box/#) | Gets the bounding box of current entity in its object space coordinate system. |
 | [get_entity_renderer_key()](/3d/python-net/aspose.threed.entities/trimesh/get_entity_renderer_key/#) | Gets the key of the entity renderer registered in the renderer |
-| [copy_from(input, vd)](/3d/python-net/aspose.threed.entities/trimesh/copy_from/#TriMesh-aspose.threed.utilities.VertexDeclaration) | Copy the [TriMesh](/3d/python-net/aspose.threed.entities/trimesh) from input with new vertex layout |
+| [copy_from(input, vd)](/3d/python-net/aspose.threed.entities/trimesh/copy_from/#TriMesh-aspose.threed.utilities.VertexDeclaration) | Copy the [`TriMesh`](/3d/python-net/aspose.threed.entities/trimesh) from input with new vertex layout |
 | [begin_vertex()](/3d/python-net/aspose.threed.entities/trimesh/begin_vertex/#) | Begin adding vertex |
 | [end_vertex()](/3d/python-net/aspose.threed.entities/trimesh/end_vertex/#) | End adding vertex |
 | [write_vertices_to(stream)](/3d/python-net/aspose.threed.entities/trimesh/write_vertices_to/#io.RawIOBase) | Write vertices data to the specified stream |
@@ -82,8 +82,8 @@ The TriMesh type exposes the following members:
 
 
 ### See Also
-* module [aspose.threed.entities](..)
-* class [A3DObject](/3d/python-net/aspose.threed/a3dobject)
-* class [Entity](/3d/python-net/aspose.threed/entity)
-* class [SceneObject](/3d/python-net/aspose.threed/sceneobject)
-* class [TriMesh](/3d/python-net/aspose.threed.entities/trimesh)
+* module [`aspose.threed.entities`](..)
+* class [`A3DObject`](/3d/python-net/aspose.threed/a3dobject)
+* class [`Entity`](/3d/python-net/aspose.threed/entity)
+* class [`SceneObject`](/3d/python-net/aspose.threed/sceneobject)
+* class [`TriMesh`](/3d/python-net/aspose.threed.entities/trimesh)

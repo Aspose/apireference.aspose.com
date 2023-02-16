@@ -10,12 +10,12 @@ is_root: false
 
 ## Deformer class
 
-Base class for [SkinDeformer](/3d/python-net/aspose.threed.deformers/skindeformer) and [MorphTargetDeformer](/3d/python-net/aspose.threed.deformers/morphtargetdeformer)
+Base class for [`SkinDeformer`](/3d/python-net/aspose.threed.deformers/skindeformer) and [`MorphTargetDeformer`](/3d/python-net/aspose.threed.deformers/morphtargetdeformer)
 
 
 
-**Inheritance:** [Deformer](/3d/python-net/aspose.threed.deformers/deformer) → 
-[A3DObject](/3d/python-net/aspose.threed/a3dobject)
+**Inheritance:** [`Deformer`](/3d/python-net/aspose.threed.deformers/deformer) → 
+[`A3DObject`](/3d/python-net/aspose.threed/a3dobject)
 
 
 
@@ -41,8 +41,8 @@ The Deformer type exposes the following members:
 
 
 ### See Also
-* module [aspose.threed.deformers](..)
-* class [A3DObject](/3d/python-net/aspose.threed/a3dobject)
-* class [Deformer](/3d/python-net/aspose.threed.deformers/deformer)
-* class [MorphTargetDeformer](/3d/python-net/aspose.threed.deformers/morphtargetdeformer)
-* class [SkinDeformer](/3d/python-net/aspose.threed.deformers/skindeformer)
+* module [`aspose.threed.deformers`](..)
+* class [`A3DObject`](/3d/python-net/aspose.threed/a3dobject)
+* class [`Deformer`](/3d/python-net/aspose.threed.deformers/deformer)
+* class [`MorphTargetDeformer`](/3d/python-net/aspose.threed.deformers/morphtargetdeformer)
+* class [`SkinDeformer`](/3d/python-net/aspose.threed.deformers/skindeformer)

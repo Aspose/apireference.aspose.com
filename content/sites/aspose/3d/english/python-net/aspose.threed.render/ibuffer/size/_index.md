@@ -20,5 +20,5 @@ def size(self):
 ```
 
 ### See Also
-* module [aspose.threed.render](../../)
-* class [IBuffer](/3d/python-net/aspose.threed.render/ibuffer)
+* module [`aspose.threed.render`](../../)
+* class [`IBuffer`](/3d/python-net/aspose.threed.render/ibuffer)

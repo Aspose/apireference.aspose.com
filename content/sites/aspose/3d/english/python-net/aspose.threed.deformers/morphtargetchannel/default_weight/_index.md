@@ -14,5 +14,5 @@ is_root: false
 Default weight for morph target.
 
 ### See Also
-* module [aspose.threed.deformers](../../)
-* class [MorphTargetChannel](/3d/python-net/aspose.threed.deformers/morphtargetchannel)
+* module [`aspose.threed.deformers`](../../)
+* class [`MorphTargetChannel`](/3d/python-net/aspose.threed.deformers/morphtargetchannel)

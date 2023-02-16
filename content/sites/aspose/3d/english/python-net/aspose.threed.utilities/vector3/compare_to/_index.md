@@ -27,10 +27,10 @@ def compare_to(self, other):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| other | [Vector3](/3d/python-net/aspose.threed.utilities/vector3) |  |
+| other | [`Vector3`](/3d/python-net/aspose.threed.utilities/vector3) |  |
 
 
 
 ### See Also
-* module [aspose.threed.utilities](../../)
-* class [Vector3](/3d/python-net/aspose.threed.utilities/vector3)
+* module [`aspose.threed.utilities`](../../)
+* class [`Vector3`](/3d/python-net/aspose.threed.utilities/vector3)

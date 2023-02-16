@@ -23,6 +23,6 @@ def min_filter(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.shading](../../)
-* class [TextureBase](/3d/python-net/aspose.threed.shading/texturebase)
-* class [TextureFilter](/3d/python-net/aspose.threed.shading/texturefilter)
+* module [`aspose.threed.shading`](../../)
+* class [`TextureBase`](/3d/python-net/aspose.threed.shading/texturebase)
+* class [`TextureFilter`](/3d/python-net/aspose.threed.shading/texturefilter)

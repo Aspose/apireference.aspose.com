@@ -21,7 +21,7 @@ The StencilAction type exposes the following members:
 | :- | :- |
 | KEEP | Keep the current value |
 | ZERO | Sets the stencil buffer value to 0 |
-| REPLACE | Sets the stencil buffer to ref where defined in [RenderState.stencil_reference](/3d/python-net/aspose.threed.render/renderstate#stencil_reference) |
+| REPLACE | Sets the stencil buffer to ref where defined in [`RenderState.stencil_reference`](/3d/python-net/aspose.threed.render/renderstate#stencil_reference) |
 | INCREMENT | Increments the current stencil buffer value, clamps to maximum value. |
 | INCREMENT_WRAP | Increments the current stencil buffer value and wrap it to zero when it reaches maximum value. |
 | DECREMENT | Increments the current stencil buffer value, clamps to 0. |
@@ -31,4 +31,4 @@ The StencilAction type exposes the following members:
 
 
 ### See Also
-* module [aspose.threed.render](..)
+* module [`aspose.threed.render`](..)

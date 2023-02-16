@@ -10,7 +10,7 @@ is_root: false
 
 ## to_mesh() {#}
 
-Convert the [RevolvedAreaSolid](/3d/python-net/aspose.threed.entities/revolvedareasolid) into a mesh.
+Convert the [`RevolvedAreaSolid`](/3d/python-net/aspose.threed.entities/revolvedareasolid) into a mesh.
 
 
 ### Returns 
@@ -29,5 +29,5 @@ def to_mesh(self):
 
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [RevolvedAreaSolid](/3d/python-net/aspose.threed.entities/revolvedareasolid)
+* module [`aspose.threed.entities`](../../)
+* class [`RevolvedAreaSolid`](/3d/python-net/aspose.threed.entities/revolvedareasolid)

@@ -34,6 +34,6 @@ def content_type(self):
 ```
 
 ### See Also
-* module [aspose.threed](../../)
-* class [FileContentType](/3d/python-net/aspose.threed/filecontenttype)
-* class [FileFormat](/3d/python-net/aspose.threed/fileformat)
+* module [`aspose.threed`](../../)
+* class [`FileContentType`](/3d/python-net/aspose.threed/filecontenttype)
+* class [`FileFormat`](/3d/python-net/aspose.threed/fileformat)

@@ -115,5 +115,5 @@ def write(self, x, y, z, w):
 
 
 ### See Also
-* module [aspose.threed.render](../../)
-* class [PushConstant](/3d/python-net/aspose.threed.render/pushconstant)
+* module [`aspose.threed.render`](../../)
+* class [`PushConstant`](/3d/python-net/aspose.threed.render/pushconstant)

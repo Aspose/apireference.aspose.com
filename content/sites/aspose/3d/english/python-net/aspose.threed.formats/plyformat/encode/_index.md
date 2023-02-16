@@ -22,7 +22,7 @@ def encode(self, entity, stream):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| entity | [Entity](/3d/python-net/aspose.threed/entity) |  |
+| entity | [`Entity`](/3d/python-net/aspose.threed/entity) |  |
 | stream | io.RawIOBase |  |
 
 
@@ -40,7 +40,7 @@ def encode(self, entity, file_name):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| entity | [Entity](/3d/python-net/aspose.threed/entity) |  |
+| entity | [`Entity`](/3d/python-net/aspose.threed/entity) |  |
 | file_name | str |  |
 
 
@@ -58,9 +58,9 @@ def encode(self, entity, stream, opt):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| entity | [Entity](/3d/python-net/aspose.threed/entity) | The entity to encode |
+| entity | [`Entity`](/3d/python-net/aspose.threed/entity) | The entity to encode |
 | stream | io.RawIOBase | The stream to write to, this method will not close this stream |
-| opt | [PlySaveOptions](/3d/python-net/aspose.threed.formats/plysaveoptions) | Save options |
+| opt | [`PlySaveOptions`](/3d/python-net/aspose.threed.formats/plysaveoptions) | Save options |
 
 
 ## encode(entity, file_name, opt) {#Entity-str-PlySaveOptions}
@@ -77,12 +77,12 @@ def encode(self, entity, file_name, opt):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| entity | [Entity](/3d/python-net/aspose.threed/entity) | The entity to encode |
+| entity | [`Entity`](/3d/python-net/aspose.threed/entity) | The entity to encode |
 | file_name | str | The file to write to |
-| opt | [PlySaveOptions](/3d/python-net/aspose.threed.formats/plysaveoptions) | Save options |
+| opt | [`PlySaveOptions`](/3d/python-net/aspose.threed.formats/plysaveoptions) | Save options |
 
 
 
 ### See Also
-* module [aspose.threed.formats](../../)
-* class [PlyFormat](/3d/python-net/aspose.threed.formats/plyformat)
+* module [`aspose.threed.formats`](../../)
+* class [`PlyFormat`](/3d/python-net/aspose.threed.formats/plyformat)

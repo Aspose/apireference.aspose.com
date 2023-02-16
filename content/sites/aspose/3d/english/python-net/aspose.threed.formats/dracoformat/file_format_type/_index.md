@@ -20,6 +20,6 @@ def file_format_type(self):
 ```
 
 ### See Also
-* module [aspose.threed.formats](../../)
-* class [DracoFormat](/3d/python-net/aspose.threed.formats/dracoformat)
-* class [FileFormatType](/3d/python-net/aspose.threed/fileformattype)
+* module [`aspose.threed.formats`](../../)
+* class [`DracoFormat`](/3d/python-net/aspose.threed.formats/dracoformat)
+* class [`FileFormatType`](/3d/python-net/aspose.threed/fileformattype)

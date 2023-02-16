@@ -24,5 +24,5 @@ def begin(self):
 
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [PolygonBuilder](/3d/python-net/aspose.threed.entities/polygonbuilder)
+* module [`aspose.threed.entities`](../../)
+* class [`PolygonBuilder`](/3d/python-net/aspose.threed.entities/polygonbuilder)

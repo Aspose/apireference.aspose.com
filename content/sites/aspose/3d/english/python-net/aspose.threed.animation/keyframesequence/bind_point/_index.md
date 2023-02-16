@@ -20,6 +20,6 @@ def bind_point(self):
 ```
 
 ### See Also
-* module [aspose.threed.animation](../../)
-* class [BindPoint](/3d/python-net/aspose.threed.animation/bindpoint)
-* class [KeyframeSequence](/3d/python-net/aspose.threed.animation/keyframesequence)
+* module [`aspose.threed.animation`](../../)
+* class [`BindPoint`](/3d/python-net/aspose.threed.animation/bindpoint)
+* class [`KeyframeSequence`](/3d/python-net/aspose.threed.animation/keyframesequence)

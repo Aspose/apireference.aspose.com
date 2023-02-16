@@ -10,7 +10,7 @@ is_root: false
 
 ## MorphTargetDeformer() {#}
 
-Initializes a new instance of the [MorphTargetDeformer](/3d/python-net/aspose.threed.deformers/morphtargetdeformer) class.
+Initializes a new instance of the [`MorphTargetDeformer`](/3d/python-net/aspose.threed.deformers/morphtargetdeformer) class.
 
 
 
@@ -24,7 +24,7 @@ def __init__(self):
 
 ## MorphTargetDeformer(name) {#str}
 
-Initializes a new instance of the [MorphTargetDeformer](/3d/python-net/aspose.threed.deformers/morphtargetdeformer) class.
+Initializes a new instance of the [`MorphTargetDeformer`](/3d/python-net/aspose.threed.deformers/morphtargetdeformer) class.
 
 
 
@@ -41,5 +41,5 @@ def __init__(self, name):
 
 
 ### See Also
-* module [aspose.threed.deformers](../../)
-* class [MorphTargetDeformer](/3d/python-net/aspose.threed.deformers/morphtargetdeformer)
+* module [`aspose.threed.deformers`](../../)
+* class [`MorphTargetDeformer`](/3d/python-net/aspose.threed.deformers/morphtargetdeformer)

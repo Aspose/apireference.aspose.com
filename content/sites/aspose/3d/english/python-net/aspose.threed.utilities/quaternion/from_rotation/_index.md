@@ -27,11 +27,11 @@ def from_rotation(self, orig, dest):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| orig | [Vector3](/3d/python-net/aspose.threed.utilities/vector3) | Original direction |
-| dest | [Vector3](/3d/python-net/aspose.threed.utilities/vector3) | Destination direction |
+| orig | [`Vector3`](/3d/python-net/aspose.threed.utilities/vector3) | Original direction |
+| dest | [`Vector3`](/3d/python-net/aspose.threed.utilities/vector3) | Destination direction |
 
 
 
 ### See Also
-* module [aspose.threed.utilities](../../)
-* class [Quaternion](/3d/python-net/aspose.threed.utilities/quaternion)
+* module [`aspose.threed.utilities`](../../)
+* class [`Quaternion`](/3d/python-net/aspose.threed.utilities/quaternion)

@@ -10,7 +10,7 @@ is_root: false
 
 ## Sphere() {#}
 
-Initializes a new instance of the [Sphere](/3d/python-net/aspose.threed.entities/sphere) with default radius 1.
+Initializes a new instance of the [`Sphere`](/3d/python-net/aspose.threed.entities/sphere) with default radius 1.
 
 
 
@@ -24,7 +24,7 @@ def __init__(self):
 
 ## Sphere(radius) {#float}
 
-Initializes a new instance of the [Sphere](/3d/python-net/aspose.threed.entities/sphere) class with specified radius.
+Initializes a new instance of the [`Sphere`](/3d/python-net/aspose.threed.entities/sphere) class with specified radius.
 
 
 
@@ -41,7 +41,7 @@ def __init__(self, radius):
 
 ## Sphere(radius, width_segments, height_segments) {#float-int-int}
 
-Initializes a new instance of the [Sphere](/3d/python-net/aspose.threed.entities/sphere) class with specified radius, width segments and height segments.
+Initializes a new instance of the [`Sphere`](/3d/python-net/aspose.threed.entities/sphere) class with specified radius, width segments and height segments.
 
 
 
@@ -60,7 +60,7 @@ def __init__(self, radius, width_segments, height_segments):
 
 ## Sphere(name, radius, width_segments, height_segments, phi_start, phi_length, theta_start, theta_length) {#str-float-int-int-float-float-float-float}
 
-Initializes a new instance of the [Sphere](/3d/python-net/aspose.threed.entities/sphere) class.
+Initializes a new instance of the [`Sphere`](/3d/python-net/aspose.threed.entities/sphere) class.
 
 
 
@@ -84,5 +84,5 @@ def __init__(self, name, radius, width_segments, height_segments, phi_start, phi
 
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [Sphere](/3d/python-net/aspose.threed.entities/sphere)
+* module [`aspose.threed.entities`](../../)
+* class [`Sphere`](/3d/python-net/aspose.threed.entities/sphere)

@@ -20,5 +20,5 @@ def viewports(self):
 ```
 
 ### See Also
-* module [aspose.threed.render](../../)
-* class [IRenderTarget](/3d/python-net/aspose.threed.render/irendertarget)
+* module [`aspose.threed.render`](../../)
+* class [`IRenderTarget`](/3d/python-net/aspose.threed.render/irendertarget)

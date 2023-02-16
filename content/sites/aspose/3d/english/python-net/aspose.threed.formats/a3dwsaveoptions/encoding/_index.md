@@ -24,5 +24,5 @@ def encoding(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.formats](../../)
-* class [A3dwSaveOptions](/3d/python-net/aspose.threed.formats/a3dwsaveoptions)
+* module [`aspose.threed.formats`](../../)
+* class [`A3dwSaveOptions`](/3d/python-net/aspose.threed.formats/a3dwsaveoptions)

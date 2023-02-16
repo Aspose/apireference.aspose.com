@@ -12,7 +12,7 @@ is_root: false
 
 
 Serialize materials using KHR common material extensions, default value is false.
-Set this to false will cause Aspose.3D export a set of vertex/fragment shader if [GltfSaveOptions.ExportShaders](/3d/python-net/aspose.threed.formats/gltfsaveoptions)
+Set this to false will cause Aspose.3D export a set of vertex/fragment shader if [`GltfSaveOptions.ExportShaders`](/3d/python-net/aspose.threed.formats/gltfsaveoptions)
 ### Definition:
 ```python
 @property
@@ -24,5 +24,5 @@ def use_common_materials(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.formats](../../)
-* class [GltfSaveOptions](/3d/python-net/aspose.threed.formats/gltfsaveoptions)
+* module [`aspose.threed.formats`](../../)
+* class [`GltfSaveOptions`](/3d/python-net/aspose.threed.formats/gltfsaveoptions)

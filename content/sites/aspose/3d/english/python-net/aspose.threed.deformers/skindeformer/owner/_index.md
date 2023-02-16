@@ -20,6 +20,6 @@ def owner(self):
 ```
 
 ### See Also
-* module [aspose.threed.deformers](../../)
-* class [Geometry](/3d/python-net/aspose.threed.entities/geometry)
-* class [SkinDeformer](/3d/python-net/aspose.threed.deformers/skindeformer)
+* module [`aspose.threed.deformers`](../../)
+* class [`Geometry`](/3d/python-net/aspose.threed.entities/geometry)
+* class [`SkinDeformer`](/3d/python-net/aspose.threed.deformers/skindeformer)

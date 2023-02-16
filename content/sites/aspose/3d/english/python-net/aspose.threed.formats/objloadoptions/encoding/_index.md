@@ -24,5 +24,5 @@ def encoding(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.formats](../../)
-* class [ObjLoadOptions](/3d/python-net/aspose.threed.formats/objloadoptions)
+* module [`aspose.threed.formats`](../../)
+* class [`ObjLoadOptions`](/3d/python-net/aspose.threed.formats/objloadoptions)

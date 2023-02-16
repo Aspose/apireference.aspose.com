@@ -22,11 +22,11 @@ def __init__(self, curve, time):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| curve | [KeyframeSequence](/3d/python-net/aspose.threed.animation/keyframesequence) | The curve that the key frame will be created on |
+| curve | [`KeyframeSequence`](/3d/python-net/aspose.threed.animation/keyframesequence) | The curve that the key frame will be created on |
 | time | float | The time position of the key frame |
 
 
 
 ### See Also
-* module [aspose.threed.animation](../../)
-* class [KeyFrame](/3d/python-net/aspose.threed.animation/keyframe)
+* module [`aspose.threed.animation`](../../)
+* class [`KeyFrame`](/3d/python-net/aspose.threed.animation/keyframe)

@@ -23,5 +23,5 @@ def semi_axis2(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.profiles](../../)
-* class [EllipseShape](/3d/python-net/aspose.threed.profiles/ellipseshape)
+* module [`aspose.threed.profiles`](../../)
+* class [`EllipseShape`](/3d/python-net/aspose.threed.profiles/ellipseshape)

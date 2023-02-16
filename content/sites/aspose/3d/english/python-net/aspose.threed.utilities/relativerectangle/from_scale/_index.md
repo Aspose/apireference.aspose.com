@@ -10,7 +10,7 @@ is_root: false
 
 ## from_scale(scale_x, scale_y, scale_width, scale_height) {#float-float-float-float}
 
-Construct a [RelativeRectangle](/3d/python-net/aspose.threed.utilities/relativerectangle) with all offset fields zero and scale fields from given parameters.
+Construct a [`RelativeRectangle`](/3d/python-net/aspose.threed.utilities/relativerectangle) with all offset fields zero and scale fields from given parameters.
 
 
 ### Returns 
@@ -35,5 +35,5 @@ def from_scale(self, scale_x, scale_y, scale_width, scale_height):
 
 
 ### See Also
-* module [aspose.threed.utilities](../../)
-* class [RelativeRectangle](/3d/python-net/aspose.threed.utilities/relativerectangle)
+* module [`aspose.threed.utilities`](../../)
+* class [`RelativeRectangle`](/3d/python-net/aspose.threed.utilities/relativerectangle)

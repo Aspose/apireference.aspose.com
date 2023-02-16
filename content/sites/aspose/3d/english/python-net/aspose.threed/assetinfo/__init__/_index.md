@@ -10,7 +10,7 @@ is_root: false
 
 ## AssetInfo() {#}
 
-Initializes a new instance of the [AssetInfo](/3d/python-net/aspose.threed/assetinfo) class.
+Initializes a new instance of the [`AssetInfo`](/3d/python-net/aspose.threed/assetinfo) class.
 
 
 
@@ -24,7 +24,7 @@ def __init__(self):
 
 ## AssetInfo(name) {#str}
 
-Initializes a new instance of the [AssetInfo](/3d/python-net/aspose.threed/assetinfo) class.
+Initializes a new instance of the [`AssetInfo`](/3d/python-net/aspose.threed/assetinfo) class.
 
 
 
@@ -41,5 +41,5 @@ def __init__(self, name):
 
 
 ### See Also
-* module [aspose.threed](../../)
-* class [AssetInfo](/3d/python-net/aspose.threed/assetinfo)
+* module [`aspose.threed`](../../)
+* class [`AssetInfo`](/3d/python-net/aspose.threed/assetinfo)

@@ -10,7 +10,7 @@ is_root: false
 
 ## load_data(mesh) {#aspose.threed.entities.TriMesh}
 
-Load vertex data from [TriMesh](/3d/python-net/aspose.threed.entities/trimesh)
+Load vertex data from [`TriMesh`](/3d/python-net/aspose.threed.entities/trimesh)
 
 
 
@@ -61,6 +61,6 @@ def load_data(self, data):
 
 
 ### See Also
-* module [aspose.threed.render](../../)
-* class [IVertexBuffer](/3d/python-net/aspose.threed.render/ivertexbuffer)
-* class [TriMesh](/3d/python-net/aspose.threed.entities/trimesh)
+* module [`aspose.threed.render`](../../)
+* class [`IVertexBuffer`](/3d/python-net/aspose.threed.render/ivertexbuffer)
+* class [`TriMesh`](/3d/python-net/aspose.threed.entities/trimesh)

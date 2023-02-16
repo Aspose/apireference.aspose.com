@@ -24,5 +24,5 @@ def file_name(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.formats](../../)
-* class [FbxLoadOptions](/3d/python-net/aspose.threed.formats/fbxloadoptions)
+* module [`aspose.threed.formats`](../../)
+* class [`FbxLoadOptions`](/3d/python-net/aspose.threed.formats/fbxloadoptions)

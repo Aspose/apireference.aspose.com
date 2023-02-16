@@ -18,6 +18,17 @@ public void AddChildNode(Node node)
 | --- | --- | --- |
 | node | Node | The child node to be attached |
 
+### Examples
+
+The following code shows how to get all meshes from a scene
+
+```csharp
+Scene scene = Scene.FromFile("input.fbx");
+var newNode = new Node();
+//add a new node manually
+scene.RootNode.AddChildNode(newNode);
+```
+
 ### See Also
 
 * class [Node](../../node)

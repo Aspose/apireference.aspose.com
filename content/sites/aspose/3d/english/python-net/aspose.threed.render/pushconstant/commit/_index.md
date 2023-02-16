@@ -22,11 +22,11 @@ def commit(self, stage, command_list):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| stage | [ShaderStage](/3d/python-net/aspose.threed.render/shaderstage) |  |
-| command_list | [ICommandList](/3d/python-net/aspose.threed.render/icommandlist) |  |
+| stage | [`ShaderStage`](/3d/python-net/aspose.threed.render/shaderstage) |  |
+| command_list | [`ICommandList`](/3d/python-net/aspose.threed.render/icommandlist) |  |
 
 
 
 ### See Also
-* module [aspose.threed.render](../../)
-* class [PushConstant](/3d/python-net/aspose.threed.render/pushconstant)
+* module [`aspose.threed.render`](../../)
+* class [`PushConstant`](/3d/python-net/aspose.threed.render/pushconstant)

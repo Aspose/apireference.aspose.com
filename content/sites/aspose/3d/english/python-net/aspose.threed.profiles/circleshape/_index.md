@@ -10,16 +10,16 @@ is_root: false
 
 ## CircleShape class
 
-IFC compatible circle profile, which can be used to construct a mesh through [LinearExtrusion](/3d/python-net/aspose.threed.entities/linearextrusion)
+IFC compatible circle profile, which can be used to construct a mesh through [`LinearExtrusion`](/3d/python-net/aspose.threed.entities/linearextrusion)
 
 
 
-**Inheritance:** [CircleShape](/3d/python-net/aspose.threed.profiles/circleshape) → 
-[ParameterizedProfile](/3d/python-net/aspose.threed.profiles/parameterizedprofile) → 
-[Profile](/3d/python-net/aspose.threed.profiles/profile) → 
-[Entity](/3d/python-net/aspose.threed/entity) → 
-[SceneObject](/3d/python-net/aspose.threed/sceneobject) → 
-[A3DObject](/3d/python-net/aspose.threed/a3dobject)
+**Inheritance:** [`CircleShape`](/3d/python-net/aspose.threed.profiles/circleshape) → 
+[`ParameterizedProfile`](/3d/python-net/aspose.threed.profiles/parameterizedprofile) → 
+[`Profile`](/3d/python-net/aspose.threed.profiles/profile) → 
+[`Entity`](/3d/python-net/aspose.threed/entity) → 
+[`SceneObject`](/3d/python-net/aspose.threed/sceneobject) → 
+[`A3DObject`](/3d/python-net/aspose.threed/a3dobject)
 
 
 
@@ -28,8 +28,8 @@ The CircleShape type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [CircleShape()](/3d/python-net/aspose.threed.profiles/circleshape/__init__/#) | Construct a [CircleShape](/3d/python-net/aspose.threed.profiles/circleshape) profile with default radius(5). |
-| [CircleShape(radius)](/3d/python-net/aspose.threed.profiles/circleshape/__init__/#float) | Construct a [CircleShape](/3d/python-net/aspose.threed.profiles/circleshape) profile with specified radius. |
+| [CircleShape()](/3d/python-net/aspose.threed.profiles/circleshape/__init__/#) | Construct a [`CircleShape`](/3d/python-net/aspose.threed.profiles/circleshape) profile with default radius(5). |
+| [CircleShape(radius)](/3d/python-net/aspose.threed.profiles/circleshape/__init__/#float) | Construct a [`CircleShape`](/3d/python-net/aspose.threed.profiles/circleshape) profile with specified radius. |
 
 
 ### Properties
@@ -59,11 +59,11 @@ The CircleShape type exposes the following members:
 
 
 ### See Also
-* module [aspose.threed.profiles](..)
-* class [A3DObject](/3d/python-net/aspose.threed/a3dobject)
-* class [CircleShape](/3d/python-net/aspose.threed.profiles/circleshape)
-* class [Entity](/3d/python-net/aspose.threed/entity)
-* class [LinearExtrusion](/3d/python-net/aspose.threed.entities/linearextrusion)
-* class [ParameterizedProfile](/3d/python-net/aspose.threed.profiles/parameterizedprofile)
-* class [Profile](/3d/python-net/aspose.threed.profiles/profile)
-* class [SceneObject](/3d/python-net/aspose.threed/sceneobject)
+* module [`aspose.threed.profiles`](..)
+* class [`A3DObject`](/3d/python-net/aspose.threed/a3dobject)
+* class [`CircleShape`](/3d/python-net/aspose.threed.profiles/circleshape)
+* class [`Entity`](/3d/python-net/aspose.threed/entity)
+* class [`LinearExtrusion`](/3d/python-net/aspose.threed.entities/linearextrusion)
+* class [`ParameterizedProfile`](/3d/python-net/aspose.threed.profiles/parameterizedprofile)
+* class [`Profile`](/3d/python-net/aspose.threed.profiles/profile)
+* class [`SceneObject`](/3d/python-net/aspose.threed/sceneobject)

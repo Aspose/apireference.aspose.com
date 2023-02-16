@@ -24,5 +24,5 @@ def clear(self):
 
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [VertexElementSpecular](/3d/python-net/aspose.threed.entities/vertexelementspecular)
+* module [`aspose.threed.entities`](../../)
+* class [`VertexElementSpecular`](/3d/python-net/aspose.threed.entities/vertexelementspecular)

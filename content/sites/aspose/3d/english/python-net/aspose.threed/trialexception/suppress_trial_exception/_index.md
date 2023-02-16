@@ -25,5 +25,5 @@ def suppress_trial_exception(self, value):
 ```
 
 ### See Also
-* module [aspose.threed](../../)
-* class [TrialException](/3d/python-net/aspose.threed/trialexception)
+* module [`aspose.threed`](../../)
+* class [`TrialException`](/3d/python-net/aspose.threed/trialexception)

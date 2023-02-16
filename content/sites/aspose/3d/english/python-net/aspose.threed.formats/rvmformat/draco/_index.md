@@ -14,5 +14,5 @@ is_root: false
 Google Draco Mesh
 
 ### See Also
-* module [aspose.threed.formats](../../)
-* class [RvmFormat](/3d/python-net/aspose.threed.formats/rvmformat)
+* module [`aspose.threed.formats`](../../)
+* class [`RvmFormat`](/3d/python-net/aspose.threed.formats/rvmformat)

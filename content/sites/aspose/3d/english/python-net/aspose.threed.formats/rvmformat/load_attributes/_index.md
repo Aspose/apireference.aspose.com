@@ -22,7 +22,7 @@ def load_attributes(self, scene, file_name, prefix):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| scene | [Scene](/3d/python-net/aspose.threed/scene) | The scene where the attributes will be applied to |
+| scene | [`Scene`](/3d/python-net/aspose.threed/scene) | The scene where the attributes will be applied to |
 | file_name | str | The file's name that contains the attributes |
 | prefix | str | The prefix of the attributes that used to avoid conflict of names, default value is "rvm:" |
 
@@ -41,12 +41,12 @@ def load_attributes(self, scene, stream, prefix):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| scene | [Scene](/3d/python-net/aspose.threed/scene) | The scene where the attributes will be applied to |
+| scene | [`Scene`](/3d/python-net/aspose.threed/scene) | The scene where the attributes will be applied to |
 | stream | io.RawIOBase | The stream that contains the attributes |
 | prefix | str | The prefix of the attributes that used to avoid conflict of names, default value is "rvm:" |
 
 
 
 ### See Also
-* module [aspose.threed.formats](../../)
-* class [RvmFormat](/3d/python-net/aspose.threed.formats/rvmformat)
+* module [`aspose.threed.formats`](../../)
+* class [`RvmFormat`](/3d/python-net/aspose.threed.formats/rvmformat)

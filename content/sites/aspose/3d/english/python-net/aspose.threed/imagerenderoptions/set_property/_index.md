@@ -28,5 +28,5 @@ def set_property(self, property, value):
 
 
 ### See Also
-* module [aspose.threed](../../)
-* class [ImageRenderOptions](/3d/python-net/aspose.threed/imagerenderoptions)
+* module [`aspose.threed`](../../)
+* class [`ImageRenderOptions`](/3d/python-net/aspose.threed/imagerenderoptions)

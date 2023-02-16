@@ -14,6 +14,13 @@ Gets or sets the rotation represented in quaternion.
 public Quaternion Rotation { get; set; }
 ```
 
+### Examples
+
+```csharp
+Node node = new Node();
+node.Transform.Rotation = new Quaternion(1, 0, 0, 0);
+```
+
 ### See Also
 
 * struct [Quaternion](../../../aspose.threed.utilities/quaternion)

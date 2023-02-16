@@ -22,10 +22,10 @@ def load(self, bitmap):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| bitmap | [TextureData](/3d/python-net/aspose.threed.render/texturedata) |  |
+| bitmap | [`TextureData`](/3d/python-net/aspose.threed.render/texturedata) |  |
 
 
 
 ### See Also
-* module [aspose.threed.render](../../)
-* class [ITexture2D](/3d/python-net/aspose.threed.render/itexture2d)
+* module [`aspose.threed.render`](../../)
+* class [`ITexture2D`](/3d/python-net/aspose.threed.render/itexture2d)

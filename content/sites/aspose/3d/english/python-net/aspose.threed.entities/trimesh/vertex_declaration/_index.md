@@ -11,7 +11,7 @@ is_root: false
 ## vertex_declaration property
 
 
-The vertex layout of the [TriMesh](/3d/python-net/aspose.threed.entities/trimesh).
+The vertex layout of the [`TriMesh`](/3d/python-net/aspose.threed.entities/trimesh).
 ### Definition:
 ```python
 @property
@@ -20,6 +20,6 @@ def vertex_declaration(self):
 ```
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [TriMesh](/3d/python-net/aspose.threed.entities/trimesh)
-* class [VertexDeclaration](/3d/python-net/aspose.threed.utilities/vertexdeclaration)
+* module [`aspose.threed.entities`](../../)
+* class [`TriMesh`](/3d/python-net/aspose.threed.entities/trimesh)
+* class [`VertexDeclaration`](/3d/python-net/aspose.threed.utilities/vertexdeclaration)

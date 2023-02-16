@@ -14,9 +14,9 @@ This class defines the texture from an external file.
 
 
 
-**Inheritance:** [Texture](/3d/python-net/aspose.threed.shading/texture) → 
-[TextureBase](/3d/python-net/aspose.threed.shading/texturebase) → 
-[A3DObject](/3d/python-net/aspose.threed/a3dobject)
+**Inheritance:** [`Texture`](/3d/python-net/aspose.threed.shading/texture) → 
+[`TextureBase`](/3d/python-net/aspose.threed.shading/texturebase) → 
+[`A3DObject`](/3d/python-net/aspose.threed/a3dobject)
 
 
 
@@ -25,8 +25,8 @@ The Texture type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [Texture()](/3d/python-net/aspose.threed.shading/texture/__init__/#) | Initializes a new instance of the [Texture](/3d/python-net/aspose.threed.shading/texture) class. |
-| [Texture(name)](/3d/python-net/aspose.threed.shading/texture/__init__/#str) | Initializes a new instance of the [Texture](/3d/python-net/aspose.threed.shading/texture) class. |
+| [Texture()](/3d/python-net/aspose.threed.shading/texture/__init__/#) | Initializes a new instance of the [`Texture`](/3d/python-net/aspose.threed.shading/texture) class. |
+| [Texture(name)](/3d/python-net/aspose.threed.shading/texture/__init__/#str) | Initializes a new instance of the [`Texture`](/3d/python-net/aspose.threed.shading/texture) class. |
 
 
 ### Properties
@@ -34,8 +34,8 @@ The Texture type exposes the following members:
 | :- | :- |
 | [name](/3d/python-net/aspose.threed.shading/texture/name) | Gets or sets the name. |
 | [properties](/3d/python-net/aspose.threed.shading/texture/properties) | Gets the collection of all properties. |
-| [alpha](/3d/python-net/aspose.threed.shading/texture/alpha) | Gets or sets the default alpha value of the texture<br/>This is valid when the [TextureBase.alpha_source](/3d/python-net/aspose.threed.shading/texturebase#alpha_source) is [AlphaSource.PIXEL_ALPHA](/3d/python-net/aspose.threed.shading/alphasource#PIXEL_ALPHA)<br/>Default value is 1.0, valid value range is between 0 and 1 |
-| [alpha_source](/3d/python-net/aspose.threed.shading/texture/alpha_source) | Gets or sets whether the texture defines the alpha channel.<br/>Default value is [AlphaSource.NONE](/3d/python-net/aspose.threed.shading/alphasource#NONE) |
+| [alpha](/3d/python-net/aspose.threed.shading/texture/alpha) | Gets or sets the default alpha value of the texture<br/>This is valid when the [`TextureBase.alpha_source`](/3d/python-net/aspose.threed.shading/texturebase#alpha_source) is [`AlphaSource.PIXEL_ALPHA`](/3d/python-net/aspose.threed.shading/alphasource#PIXEL_ALPHA)<br/>Default value is 1.0, valid value range is between 0 and 1 |
+| [alpha_source](/3d/python-net/aspose.threed.shading/texture/alpha_source) | Gets or sets whether the texture defines the alpha channel.<br/>Default value is [`AlphaSource.NONE`](/3d/python-net/aspose.threed.shading/alphasource#NONE) |
 | [wrap_mode_u](/3d/python-net/aspose.threed.shading/texture/wrap_mode_u) | Gets or sets the texture wrap modes in U. |
 | [wrap_mode_v](/3d/python-net/aspose.threed.shading/texture/wrap_mode_v) | Gets or sets the texture wrap modes in V. |
 | [wrap_mode_w](/3d/python-net/aspose.threed.shading/texture/wrap_mode_w) | Gets or sets the texture wrap modes in W. |
@@ -65,7 +65,7 @@ The Texture type exposes the following members:
 
 
 ### See Also
-* module [aspose.threed.shading](..)
-* class [A3DObject](/3d/python-net/aspose.threed/a3dobject)
-* class [Texture](/3d/python-net/aspose.threed.shading/texture)
-* class [TextureBase](/3d/python-net/aspose.threed.shading/texturebase)
+* module [`aspose.threed.shading`](..)
+* class [`A3DObject`](/3d/python-net/aspose.threed/a3dobject)
+* class [`Texture`](/3d/python-net/aspose.threed.shading/texture)
+* class [`TextureBase`](/3d/python-net/aspose.threed.shading/texturebase)

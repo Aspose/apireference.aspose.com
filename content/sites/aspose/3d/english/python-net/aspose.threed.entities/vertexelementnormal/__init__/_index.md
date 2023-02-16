@@ -10,7 +10,7 @@ is_root: false
 
 ## VertexElementNormal() {#}
 
-Initializes a new instance of the [VertexElementNormal](/3d/python-net/aspose.threed.entities/vertexelementnormal) class.
+Initializes a new instance of the [`VertexElementNormal`](/3d/python-net/aspose.threed.entities/vertexelementnormal) class.
 
 
 
@@ -24,5 +24,5 @@ def __init__(self):
 
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [VertexElementNormal](/3d/python-net/aspose.threed.entities/vertexelementnormal)
+* module [`aspose.threed.entities`](../../)
+* class [`VertexElementNormal`](/3d/python-net/aspose.threed.entities/vertexelementnormal)

@@ -23,5 +23,5 @@ def depth_clear(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.render](../../)
-* class [Viewport](/3d/python-net/aspose.threed.render/viewport)
+* module [`aspose.threed.render`](../../)
+* class [`Viewport`](/3d/python-net/aspose.threed.render/viewport)

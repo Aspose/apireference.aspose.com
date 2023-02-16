@@ -10,15 +10,15 @@ is_root: false
 
 ## Circle class
 
-A [Circle](/3d/python-net/aspose.threed.entities/circle) curve consists of a set of points in the edge of the circle shape.
+A [`Circle`](/3d/python-net/aspose.threed.entities/circle) curve consists of a set of points in the edge of the circle shape.
 
 
 
-**Inheritance:** [Circle](/3d/python-net/aspose.threed.entities/circle) → 
-[Curve](/3d/python-net/aspose.threed.entities/curve) → 
-[Entity](/3d/python-net/aspose.threed/entity) → 
-[SceneObject](/3d/python-net/aspose.threed/sceneobject) → 
-[A3DObject](/3d/python-net/aspose.threed/a3dobject)
+**Inheritance:** [`Circle`](/3d/python-net/aspose.threed.entities/circle) → 
+[`Curve`](/3d/python-net/aspose.threed.entities/curve) → 
+[`Entity`](/3d/python-net/aspose.threed/entity) → 
+[`SceneObject`](/3d/python-net/aspose.threed/sceneobject) → 
+[`A3DObject`](/3d/python-net/aspose.threed/a3dobject)
 
 
 
@@ -27,8 +27,8 @@ The Circle type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [Circle()](/3d/python-net/aspose.threed.entities/circle/__init__/#) | Constructor of [Circle](/3d/python-net/aspose.threed.entities/circle) |
-| [Circle(radius)](/3d/python-net/aspose.threed.entities/circle/__init__/#float) | Constructor of [Circle](/3d/python-net/aspose.threed.entities/circle) |
+| [Circle()](/3d/python-net/aspose.threed.entities/circle/__init__/#) | Constructor of [`Circle`](/3d/python-net/aspose.threed.entities/circle) |
+| [Circle(radius)](/3d/python-net/aspose.threed.entities/circle/__init__/#float) | Constructor of [`Circle`](/3d/python-net/aspose.threed.entities/circle) |
 
 
 ### Properties
@@ -58,9 +58,9 @@ The Circle type exposes the following members:
 
 
 ### See Also
-* module [aspose.threed.entities](..)
-* class [A3DObject](/3d/python-net/aspose.threed/a3dobject)
-* class [Circle](/3d/python-net/aspose.threed.entities/circle)
-* class [Curve](/3d/python-net/aspose.threed.entities/curve)
-* class [Entity](/3d/python-net/aspose.threed/entity)
-* class [SceneObject](/3d/python-net/aspose.threed/sceneobject)
+* module [`aspose.threed.entities`](..)
+* class [`A3DObject`](/3d/python-net/aspose.threed/a3dobject)
+* class [`Circle`](/3d/python-net/aspose.threed.entities/circle)
+* class [`Curve`](/3d/python-net/aspose.threed.entities/curve)
+* class [`Entity`](/3d/python-net/aspose.threed/entity)
+* class [`SceneObject`](/3d/python-net/aspose.threed/sceneobject)

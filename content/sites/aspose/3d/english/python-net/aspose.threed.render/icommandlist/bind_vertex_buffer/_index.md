@@ -22,10 +22,10 @@ def bind_vertex_buffer(self, vertex_buffer):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| vertex_buffer | [IVertexBuffer](/3d/python-net/aspose.threed.render/ivertexbuffer) |  |
+| vertex_buffer | [`IVertexBuffer`](/3d/python-net/aspose.threed.render/ivertexbuffer) |  |
 
 
 
 ### See Also
-* module [aspose.threed.render](../../)
-* class [ICommandList](/3d/python-net/aspose.threed.render/icommandlist)
+* module [`aspose.threed.render`](../../)
+* class [`ICommandList`](/3d/python-net/aspose.threed.render/icommandlist)

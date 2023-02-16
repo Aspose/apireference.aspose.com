@@ -14,11 +14,11 @@ This class allows you to construct a 2D profile directly from arbitrary curve.
 
 
 
-**Inheritance:** [ArbitraryProfile](/3d/python-net/aspose.threed.profiles/arbitraryprofile) → 
-[Profile](/3d/python-net/aspose.threed.profiles/profile) → 
-[Entity](/3d/python-net/aspose.threed/entity) → 
-[SceneObject](/3d/python-net/aspose.threed/sceneobject) → 
-[A3DObject](/3d/python-net/aspose.threed/a3dobject)
+**Inheritance:** [`ArbitraryProfile`](/3d/python-net/aspose.threed.profiles/arbitraryprofile) → 
+[`Profile`](/3d/python-net/aspose.threed.profiles/profile) → 
+[`Entity`](/3d/python-net/aspose.threed/entity) → 
+[`SceneObject`](/3d/python-net/aspose.threed/sceneobject) → 
+[`A3DObject`](/3d/python-net/aspose.threed/a3dobject)
 
 
 
@@ -27,8 +27,8 @@ The ArbitraryProfile type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [ArbitraryProfile()](/3d/python-net/aspose.threed.profiles/arbitraryprofile/__init__/#) | Constructor of [ArbitraryProfile](/3d/python-net/aspose.threed.profiles/arbitraryprofile) |
-| [ArbitraryProfile(curve)](/3d/python-net/aspose.threed.profiles/arbitraryprofile/__init__/#aspose.threed.entities.Curve) | Constructor of [ArbitraryProfile](/3d/python-net/aspose.threed.profiles/arbitraryprofile) with an initial curve. |
+| [ArbitraryProfile()](/3d/python-net/aspose.threed.profiles/arbitraryprofile/__init__/#) | Constructor of [`ArbitraryProfile`](/3d/python-net/aspose.threed.profiles/arbitraryprofile) |
+| [ArbitraryProfile(curve)](/3d/python-net/aspose.threed.profiles/arbitraryprofile/__init__/#aspose.threed.entities.Curve) | Constructor of [`ArbitraryProfile`](/3d/python-net/aspose.threed.profiles/arbitraryprofile) with an initial curve. |
 
 
 ### Properties
@@ -57,9 +57,9 @@ The ArbitraryProfile type exposes the following members:
 
 
 ### See Also
-* module [aspose.threed.profiles](..)
-* class [A3DObject](/3d/python-net/aspose.threed/a3dobject)
-* class [ArbitraryProfile](/3d/python-net/aspose.threed.profiles/arbitraryprofile)
-* class [Entity](/3d/python-net/aspose.threed/entity)
-* class [Profile](/3d/python-net/aspose.threed.profiles/profile)
-* class [SceneObject](/3d/python-net/aspose.threed/sceneobject)
+* module [`aspose.threed.profiles`](..)
+* class [`A3DObject`](/3d/python-net/aspose.threed/a3dobject)
+* class [`ArbitraryProfile`](/3d/python-net/aspose.threed.profiles/arbitraryprofile)
+* class [`Entity`](/3d/python-net/aspose.threed/entity)
+* class [`Profile`](/3d/python-net/aspose.threed.profiles/profile)
+* class [`SceneObject`](/3d/python-net/aspose.threed/sceneobject)

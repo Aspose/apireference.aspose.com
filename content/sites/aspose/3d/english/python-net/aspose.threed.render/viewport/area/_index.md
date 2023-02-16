@@ -23,6 +23,6 @@ def area(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.render](../../)
-* class [RelativeRectangle](/3d/python-net/aspose.threed.utilities/relativerectangle)
-* class [Viewport](/3d/python-net/aspose.threed.render/viewport)
+* module [`aspose.threed.render`](../../)
+* class [`RelativeRectangle`](/3d/python-net/aspose.threed.utilities/relativerectangle)
+* class [`Viewport`](/3d/python-net/aspose.threed.render/viewport)

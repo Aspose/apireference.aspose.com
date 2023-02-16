@@ -10,7 +10,7 @@ is_root: false
 
 ## VertexElementVertexColor() {#}
 
-Initializes a new instance of the [VertexElementVertexColor](/3d/python-net/aspose.threed.entities/vertexelementvertexcolor) class.
+Initializes a new instance of the [`VertexElementVertexColor`](/3d/python-net/aspose.threed.entities/vertexelementvertexcolor) class.
 
 
 
@@ -24,5 +24,5 @@ def __init__(self):
 
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [VertexElementVertexColor](/3d/python-net/aspose.threed.entities/vertexelementvertexcolor)
+* module [`aspose.threed.entities`](../../)
+* class [`VertexElementVertexColor`](/3d/python-net/aspose.threed.entities/vertexelementvertexcolor)

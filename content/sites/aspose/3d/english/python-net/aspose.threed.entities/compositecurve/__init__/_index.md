@@ -10,7 +10,7 @@ is_root: false
 
 ## CompositeCurve() {#}
 
-Constructor of [CompositeCurve](/3d/python-net/aspose.threed.entities/compositecurve)
+Constructor of [`CompositeCurve`](/3d/python-net/aspose.threed.entities/compositecurve)
 
 
 
@@ -24,5 +24,5 @@ def __init__(self):
 
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [CompositeCurve](/3d/python-net/aspose.threed.entities/compositecurve)
+* module [`aspose.threed.entities`](../../)
+* class [`CompositeCurve`](/3d/python-net/aspose.threed.entities/compositecurve)

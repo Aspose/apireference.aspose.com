@@ -10,7 +10,7 @@ is_root: false
 
 ## Light() {#}
 
-Initializes a new instance of the [Light](/3d/python-net/aspose.threed.entities/light) class.
+Initializes a new instance of the [`Light`](/3d/python-net/aspose.threed.entities/light) class.
 
 
 
@@ -24,7 +24,7 @@ def __init__(self):
 
 ## Light(name) {#str}
 
-Initializes a new instance of the [Light](/3d/python-net/aspose.threed.entities/light) class.
+Initializes a new instance of the [`Light`](/3d/python-net/aspose.threed.entities/light) class.
 
 
 
@@ -41,7 +41,7 @@ def __init__(self, name):
 
 ## Light(name, type) {#str-LightType}
 
-Initializes a new instance of the [Light](/3d/python-net/aspose.threed.entities/light) class.
+Initializes a new instance of the [`Light`](/3d/python-net/aspose.threed.entities/light) class.
 
 
 
@@ -54,10 +54,10 @@ def __init__(self, name, type):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | name | str | Name |
-| type | [LightType](/3d/python-net/aspose.threed.entities/lighttype) | New light's type |
+| type | [`LightType`](/3d/python-net/aspose.threed.entities/lighttype) | New light's type |
 
 
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [Light](/3d/python-net/aspose.threed.entities/light)
+* module [`aspose.threed.entities`](../../)
+* class [`Light`](/3d/python-net/aspose.threed.entities/light)

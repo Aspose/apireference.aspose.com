@@ -24,5 +24,5 @@ def __init__(self):
 
 
 ### See Also
-* module [aspose.threed.utilities](../../)
-* class [DummyFileSystem](/3d/python-net/aspose.threed.utilities/dummyfilesystem)
+* module [`aspose.threed.utilities`](../../)
+* class [`DummyFileSystem`](/3d/python-net/aspose.threed.utilities/dummyfilesystem)

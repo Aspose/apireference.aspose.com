@@ -10,7 +10,7 @@ is_root: false
 
 ## create_element_uv(uv_mapping) {#TextureMapping}
 
-Creates a [VertexElementUV](/3d/python-net/aspose.threed.entities/vertexelementuv) with given texture mapping type.
+Creates a [`VertexElementUV`](/3d/python-net/aspose.threed.entities/vertexelementuv) with given texture mapping type.
 
 
 ### Returns 
@@ -27,12 +27,12 @@ def create_element_uv(self, uv_mapping):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| uv_mapping | [TextureMapping](/3d/python-net/aspose.threed.entities/texturemapping) | Which texture mapping type to create |
+| uv_mapping | [`TextureMapping`](/3d/python-net/aspose.threed.entities/texturemapping) | Which texture mapping type to create |
 
 
 ## create_element_uv(uv_mapping, mapping_mode, reference_mode) {#TextureMapping-MappingMode-ReferenceMode}
 
-Creates a [VertexElementUV](/3d/python-net/aspose.threed.entities/vertexelementuv) with given texture mapping type.
+Creates a [`VertexElementUV`](/3d/python-net/aspose.threed.entities/vertexelementuv) with given texture mapping type.
 
 
 ### Returns 
@@ -49,13 +49,13 @@ def create_element_uv(self, uv_mapping, mapping_mode, reference_mode):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| uv_mapping | [TextureMapping](/3d/python-net/aspose.threed.entities/texturemapping) | Which texture mapping type to create |
-| mapping_mode | [MappingMode](/3d/python-net/aspose.threed.entities/mappingmode) | Default mapping mode |
-| reference_mode | [ReferenceMode](/3d/python-net/aspose.threed.entities/referencemode) | Default reference mode |
+| uv_mapping | [`TextureMapping`](/3d/python-net/aspose.threed.entities/texturemapping) | Which texture mapping type to create |
+| mapping_mode | [`MappingMode`](/3d/python-net/aspose.threed.entities/mappingmode) | Default mapping mode |
+| reference_mode | [`ReferenceMode`](/3d/python-net/aspose.threed.entities/referencemode) | Default reference mode |
 
 
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [Patch](/3d/python-net/aspose.threed.entities/patch)
-* class [VertexElementUV](/3d/python-net/aspose.threed.entities/vertexelementuv)
+* module [`aspose.threed.entities`](../../)
+* class [`Patch`](/3d/python-net/aspose.threed.entities/patch)
+* class [`VertexElementUV`](/3d/python-net/aspose.threed.entities/vertexelementuv)

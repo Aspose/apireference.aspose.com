@@ -10,15 +10,15 @@ is_root: false
 
 ## Ellipse class
 
-An [Ellipse](/3d/python-net/aspose.threed.entities/ellipse) defines a set of points that form the shape of ellipse.
+An [`Ellipse`](/3d/python-net/aspose.threed.entities/ellipse) defines a set of points that form the shape of ellipse.
 
 
 
-**Inheritance:** [Ellipse](/3d/python-net/aspose.threed.entities/ellipse) → 
-[Curve](/3d/python-net/aspose.threed.entities/curve) → 
-[Entity](/3d/python-net/aspose.threed/entity) → 
-[SceneObject](/3d/python-net/aspose.threed/sceneobject) → 
-[A3DObject](/3d/python-net/aspose.threed/a3dobject)
+**Inheritance:** [`Ellipse`](/3d/python-net/aspose.threed.entities/ellipse) → 
+[`Curve`](/3d/python-net/aspose.threed.entities/curve) → 
+[`Entity`](/3d/python-net/aspose.threed/entity) → 
+[`SceneObject`](/3d/python-net/aspose.threed/sceneobject) → 
+[`A3DObject`](/3d/python-net/aspose.threed/a3dobject)
 
 
 
@@ -27,8 +27,8 @@ The Ellipse type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [Ellipse()](/3d/python-net/aspose.threed.entities/ellipse/__init__/#) | Constructor of [Ellipse](/3d/python-net/aspose.threed.entities/ellipse) |
-| [Ellipse(semi_axis1, semi_axis2)](/3d/python-net/aspose.threed.entities/ellipse/__init__/#float-float) | Constructor of [Ellipse](/3d/python-net/aspose.threed.entities/ellipse) |
+| [Ellipse()](/3d/python-net/aspose.threed.entities/ellipse/__init__/#) | Constructor of [`Ellipse`](/3d/python-net/aspose.threed.entities/ellipse) |
+| [Ellipse(semi_axis1, semi_axis2)](/3d/python-net/aspose.threed.entities/ellipse/__init__/#float-float) | Constructor of [`Ellipse`](/3d/python-net/aspose.threed.entities/ellipse) |
 
 
 ### Properties
@@ -59,9 +59,9 @@ The Ellipse type exposes the following members:
 
 
 ### See Also
-* module [aspose.threed.entities](..)
-* class [A3DObject](/3d/python-net/aspose.threed/a3dobject)
-* class [Curve](/3d/python-net/aspose.threed.entities/curve)
-* class [Ellipse](/3d/python-net/aspose.threed.entities/ellipse)
-* class [Entity](/3d/python-net/aspose.threed/entity)
-* class [SceneObject](/3d/python-net/aspose.threed/sceneobject)
+* module [`aspose.threed.entities`](..)
+* class [`A3DObject`](/3d/python-net/aspose.threed/a3dobject)
+* class [`Curve`](/3d/python-net/aspose.threed.entities/curve)
+* class [`Ellipse`](/3d/python-net/aspose.threed.entities/ellipse)
+* class [`Entity`](/3d/python-net/aspose.threed/entity)
+* class [`SceneObject`](/3d/python-net/aspose.threed/sceneobject)

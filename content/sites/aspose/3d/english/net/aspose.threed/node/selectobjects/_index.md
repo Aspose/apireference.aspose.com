@@ -24,6 +24,24 @@ public List<object> SelectObjects(string path)
 | --- | --- |
 | [ParseException](../../../aspose.threed.utilities/parseexception) | ParseException will be thrown if the path contains malformed query. |
 
+### Examples
+
+Select a single node using XPath-like expression
+
+```csharp
+//Create a scene for testing
+Scene s = new Scene();
+var a = s.RootNode.CreateChildNode("a");
+a.CreateChildNode("a1");
+a.CreateChildNode("a2");
+s.RootNode.CreateChildNode("b");
+var c = s.RootNode.CreateChildNode("c");
+c.CreateChildNode("c1").AddEntity(new Camera("cam"));
+c.CreateChildNode("c2").AddEntity(new Light("light"));
+//select objects that has type Camera or name is 'light' whatever it's located.
+var objects = s.RootNode.SelectObjects("//*[(@Type = 'Camera') or (@Name = 'light')]");
+```
+
 ### See Also
 
 * class [Node](../../node)

@@ -36,6 +36,6 @@ def asset_info(self, value):
 ```
 
 ### See Also
-* module [aspose.threed](../../)
-* class [AssetInfo](/3d/python-net/aspose.threed/assetinfo)
-* class [Scene](/3d/python-net/aspose.threed/scene)
+* module [`aspose.threed`](../../)
+* class [`AssetInfo`](/3d/python-net/aspose.threed/assetinfo)
+* class [`Scene`](/3d/python-net/aspose.threed/scene)

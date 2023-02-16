@@ -10,7 +10,7 @@ is_root: false
 
 ## ShaderVariable(name) {#str}
 
-Constructor of [ShaderVariable](/3d/python-net/aspose.threed.render/shadervariable)
+Constructor of [`ShaderVariable`](/3d/python-net/aspose.threed.render/shadervariable)
 
 
 
@@ -27,7 +27,7 @@ def __init__(self, name):
 
 ## ShaderVariable(name, shader_stage) {#str-ShaderStage}
 
-Constructor of [ShaderVariable](/3d/python-net/aspose.threed.render/shadervariable)
+Constructor of [`ShaderVariable`](/3d/python-net/aspose.threed.render/shadervariable)
 
 
 
@@ -40,10 +40,10 @@ def __init__(self, name, shader_stage):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | name | str |  |
-| shader_stage | [ShaderStage](/3d/python-net/aspose.threed.render/shaderstage) | Which shader stage will this variable be used |
+| shader_stage | [`ShaderStage`](/3d/python-net/aspose.threed.render/shaderstage) | Which shader stage will this variable be used |
 
 
 
 ### See Also
-* module [aspose.threed.render](../../)
-* class [ShaderVariable](/3d/python-net/aspose.threed.render/shadervariable)
+* module [`aspose.threed.render`](../../)
+* class [`ShaderVariable`](/3d/python-net/aspose.threed.render/shadervariable)

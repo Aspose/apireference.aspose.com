@@ -20,5 +20,5 @@ def name(self):
 ```
 
 ### See Also
-* module [aspose.threed](../../)
-* class [INamedObject](/3d/python-net/aspose.threed/inamedobject)
+* module [`aspose.threed`](../../)
+* class [`INamedObject`](/3d/python-net/aspose.threed/inamedobject)

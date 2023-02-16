@@ -14,9 +14,9 @@ Defines the vertex crease for specified components
 
 
 
-**Inheritance:** [VertexElementVertexCrease](/3d/python-net/aspose.threed.entities/vertexelementvertexcrease) → 
-[VertexElementDoublesTemplate](/3d/python-net/aspose.threed.entities/vertexelementdoublestemplate) → 
-[VertexElement](/3d/python-net/aspose.threed.entities/vertexelement)
+**Inheritance:** [`VertexElementVertexCrease`](/3d/python-net/aspose.threed.entities/vertexelementvertexcrease) → 
+[`VertexElementDoublesTemplate`](/3d/python-net/aspose.threed.entities/vertexelementdoublestemplate) → 
+[`VertexElement`](/3d/python-net/aspose.threed.entities/vertexelement)
 
 
 
@@ -25,13 +25,13 @@ The VertexElementVertexCrease type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [VertexElementVertexCrease()](/3d/python-net/aspose.threed.entities/vertexelementvertexcrease/__init__/#) | Initializes a new instance of the [VertexElementVertexCrease](/3d/python-net/aspose.threed.entities/vertexelementvertexcrease) class. |
+| [VertexElementVertexCrease()](/3d/python-net/aspose.threed.entities/vertexelementvertexcrease/__init__/#) | Initializes a new instance of the [`VertexElementVertexCrease`](/3d/python-net/aspose.threed.entities/vertexelementvertexcrease) class. |
 
 
 ### Properties
 | Property | Description |
 | :- | :- |
-| [vertex_element_type](/3d/python-net/aspose.threed.entities/vertexelementvertexcrease/vertex_element_type) | Gets the type of the [VertexElement](/3d/python-net/aspose.threed.entities/vertexelement) |
+| [vertex_element_type](/3d/python-net/aspose.threed.entities/vertexelementvertexcrease/vertex_element_type) | Gets the type of the [`VertexElement`](/3d/python-net/aspose.threed.entities/vertexelement) |
 | [name](/3d/python-net/aspose.threed.entities/vertexelementvertexcrease/name) | Gets or sets the name. |
 | [mapping_mode](/3d/python-net/aspose.threed.entities/vertexelementvertexcrease/mapping_mode) | Gets or sets how the element is mapped. |
 | [reference_mode](/3d/python-net/aspose.threed.entities/vertexelementvertexcrease/reference_mode) | Gets or sets how the element is referenced. |
@@ -49,7 +49,7 @@ The VertexElementVertexCrease type exposes the following members:
 
 
 ### See Also
-* module [aspose.threed.entities](..)
-* class [VertexElement](/3d/python-net/aspose.threed.entities/vertexelement)
-* class [VertexElementDoublesTemplate](/3d/python-net/aspose.threed.entities/vertexelementdoublestemplate)
-* class [VertexElementVertexCrease](/3d/python-net/aspose.threed.entities/vertexelementvertexcrease)
+* module [`aspose.threed.entities`](..)
+* class [`VertexElement`](/3d/python-net/aspose.threed.entities/vertexelement)
+* class [`VertexElementDoublesTemplate`](/3d/python-net/aspose.threed.entities/vertexelementdoublestemplate)
+* class [`VertexElementVertexCrease`](/3d/python-net/aspose.threed.entities/vertexelementvertexcrease)

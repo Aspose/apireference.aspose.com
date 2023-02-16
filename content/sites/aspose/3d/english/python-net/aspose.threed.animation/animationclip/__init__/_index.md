@@ -10,7 +10,7 @@ is_root: false
 
 ## AnimationClip() {#}
 
-Initializes a new instance of the [AnimationClip](/3d/python-net/aspose.threed.animation/animationclip) class.
+Initializes a new instance of the [`AnimationClip`](/3d/python-net/aspose.threed.animation/animationclip) class.
 
 
 
@@ -24,7 +24,7 @@ def __init__(self):
 
 ## AnimationClip(name) {#str}
 
-Initializes a new instance of the [AnimationClip](/3d/python-net/aspose.threed.animation/animationclip) class.
+Initializes a new instance of the [`AnimationClip`](/3d/python-net/aspose.threed.animation/animationclip) class.
 
 
 
@@ -41,5 +41,5 @@ def __init__(self, name):
 
 
 ### See Also
-* module [aspose.threed.animation](../../)
-* class [AnimationClip](/3d/python-net/aspose.threed.animation/animationclip)
+* module [`aspose.threed.animation`](../../)
+* class [`AnimationClip`](/3d/python-net/aspose.threed.animation/animationclip)

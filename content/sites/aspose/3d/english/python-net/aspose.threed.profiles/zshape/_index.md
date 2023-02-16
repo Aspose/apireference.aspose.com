@@ -14,12 +14,12 @@ IFC compatible Z-shape profile defined by parameters.
 
 
 
-**Inheritance:** [ZShape](/3d/python-net/aspose.threed.profiles/zshape) → 
-[ParameterizedProfile](/3d/python-net/aspose.threed.profiles/parameterizedprofile) → 
-[Profile](/3d/python-net/aspose.threed.profiles/profile) → 
-[Entity](/3d/python-net/aspose.threed/entity) → 
-[SceneObject](/3d/python-net/aspose.threed/sceneobject) → 
-[A3DObject](/3d/python-net/aspose.threed/a3dobject)
+**Inheritance:** [`ZShape`](/3d/python-net/aspose.threed.profiles/zshape) → 
+[`ParameterizedProfile`](/3d/python-net/aspose.threed.profiles/parameterizedprofile) → 
+[`Profile`](/3d/python-net/aspose.threed.profiles/profile) → 
+[`Entity`](/3d/python-net/aspose.threed/entity) → 
+[`SceneObject`](/3d/python-net/aspose.threed/sceneobject) → 
+[`A3DObject`](/3d/python-net/aspose.threed/a3dobject)
 
 
 
@@ -28,7 +28,7 @@ The ZShape type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [ZShape()](/3d/python-net/aspose.threed.profiles/zshape/__init__/#) | Constructor of [ZShape](/3d/python-net/aspose.threed.profiles/zshape) |
+| [ZShape()](/3d/python-net/aspose.threed.profiles/zshape/__init__/#) | Constructor of [`ZShape`](/3d/python-net/aspose.threed.profiles/zshape) |
 
 
 ### Properties
@@ -63,10 +63,10 @@ The ZShape type exposes the following members:
 
 
 ### See Also
-* module [aspose.threed.profiles](..)
-* class [A3DObject](/3d/python-net/aspose.threed/a3dobject)
-* class [Entity](/3d/python-net/aspose.threed/entity)
-* class [ParameterizedProfile](/3d/python-net/aspose.threed.profiles/parameterizedprofile)
-* class [Profile](/3d/python-net/aspose.threed.profiles/profile)
-* class [SceneObject](/3d/python-net/aspose.threed/sceneobject)
-* class [ZShape](/3d/python-net/aspose.threed.profiles/zshape)
+* module [`aspose.threed.profiles`](..)
+* class [`A3DObject`](/3d/python-net/aspose.threed/a3dobject)
+* class [`Entity`](/3d/python-net/aspose.threed/entity)
+* class [`ParameterizedProfile`](/3d/python-net/aspose.threed.profiles/parameterizedprofile)
+* class [`Profile`](/3d/python-net/aspose.threed.profiles/profile)
+* class [`SceneObject`](/3d/python-net/aspose.threed/sceneobject)
+* class [`ZShape`](/3d/python-net/aspose.threed.profiles/zshape)

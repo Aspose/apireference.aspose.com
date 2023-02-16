@@ -22,6 +22,20 @@ public abstract class FileSystem : IDisposable
 | abstract [ReadFile](../../aspose.threed.utilities/filesystem/readfile)(string, IOConfig) | Create a stream for reading dependencies. |
 | abstract [WriteFile](../../aspose.threed.utilities/filesystem/writefile)(string, IOConfig) | Create a stream for writing dependencies. |
 
+### Examples
+
+The following code shows how to import file, and provide dependent files in a given directory
+
+```csharp
+var inputFile = "input.fbx";
+var format = FileFormat.Detect(inputFile);
+//create a load options instance and specify a zip file system
+var opt = format.CreateLoadOptions();
+opt.FileSystem = new LocalFileSystem("textures/");
+//load the file
+var scene = Scene.FromFile(inputFile, opt);
+```
+
 ### See Also
 
 * namespace [Aspose.ThreeD.Utilities](../../aspose.threed.utilities)

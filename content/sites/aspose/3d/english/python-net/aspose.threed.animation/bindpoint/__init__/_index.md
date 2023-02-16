@@ -10,7 +10,7 @@ is_root: false
 
 ## BindPoint(scene, prop) {#Scene-Property}
 
-Initializes a new instance of the [BindPoint](/3d/python-net/aspose.threed.animation/bindpoint) class.
+Initializes a new instance of the [`BindPoint`](/3d/python-net/aspose.threed.animation/bindpoint) class.
 
 
 
@@ -22,11 +22,11 @@ def __init__(self, scene, prop):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| scene | [Scene](/3d/python-net/aspose.threed/scene) | The scene that contains the animation. |
-| prop | [Property](/3d/python-net/aspose.threed/property) | Property. |
+| scene | [`Scene`](/3d/python-net/aspose.threed/scene) | The scene that contains the animation. |
+| prop | [`Property`](/3d/python-net/aspose.threed/property) | Property. |
 
 
 
 ### See Also
-* module [aspose.threed.animation](../../)
-* class [BindPoint](/3d/python-net/aspose.threed.animation/bindpoint)
+* module [`aspose.threed.animation`](../../)
+* class [`BindPoint`](/3d/python-net/aspose.threed.animation/bindpoint)

@@ -23,6 +23,6 @@ def background_color(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.formats](../../)
-* class [PdfSaveOptions](/3d/python-net/aspose.threed.formats/pdfsaveoptions)
-* class [Vector3](/3d/python-net/aspose.threed.utilities/vector3)
+* module [`aspose.threed.formats`](../../)
+* class [`PdfSaveOptions`](/3d/python-net/aspose.threed.formats/pdfsaveoptions)
+* class [`Vector3`](/3d/python-net/aspose.threed.utilities/vector3)

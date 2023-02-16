@@ -22,13 +22,13 @@ def prepare_render_queue(self, renderer, queue, node, entity):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| renderer | [Renderer](/3d/python-net/aspose.threed.render/renderer) | The current renderer instance |
-| queue | [IRenderQueue](/3d/python-net/aspose.threed.render/irenderqueue) | The render queue used to manage render tasks |
-| node | [Node](/3d/python-net/aspose.threed/node) | Current node |
-| entity | [Entity](/3d/python-net/aspose.threed/entity) | The entity that need to be rendered |
+| renderer | [`Renderer`](/3d/python-net/aspose.threed.render/renderer) | The current renderer instance |
+| queue | [`IRenderQueue`](/3d/python-net/aspose.threed.render/irenderqueue) | The render queue used to manage render tasks |
+| node | [`Node`](/3d/python-net/aspose.threed/node) | Current node |
+| entity | [`Entity`](/3d/python-net/aspose.threed/entity) | The entity that need to be rendered |
 
 
 
 ### See Also
-* module [aspose.threed.render](../../)
-* class [EntityRenderer](/3d/python-net/aspose.threed.render/entityrenderer)
+* module [`aspose.threed.render`](../../)
+* class [`EntityRenderer`](/3d/python-net/aspose.threed.render/entityrenderer)

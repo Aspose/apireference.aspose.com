@@ -22,11 +22,11 @@ def load(self, face, data):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| face | [CubeFace](/3d/python-net/aspose.threed.render/cubeface) |  |
-| data | [TextureData](/3d/python-net/aspose.threed.render/texturedata) |  |
+| face | [`CubeFace`](/3d/python-net/aspose.threed.render/cubeface) |  |
+| data | [`TextureData`](/3d/python-net/aspose.threed.render/texturedata) |  |
 
 
 
 ### See Also
-* module [aspose.threed.render](../../)
-* class [ITextureCubemap](/3d/python-net/aspose.threed.render/itexturecubemap)
+* module [`aspose.threed.render`](../../)
+* class [`ITextureCubemap`](/3d/python-net/aspose.threed.render/itexturecubemap)

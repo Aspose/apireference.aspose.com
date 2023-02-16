@@ -14,8 +14,8 @@ The RVM Format
 
 
 
-**Inheritance:** [RvmFormat](/3d/python-net/aspose.threed.formats/rvmformat) → 
-[FileFormat](/3d/python-net/aspose.threed/fileformat)
+**Inheritance:** [`RvmFormat`](/3d/python-net/aspose.threed.formats/rvmformat) → 
+[`FileFormat`](/3d/python-net/aspose.threed/fileformat)
 
 
 
@@ -94,6 +94,6 @@ The RvmFormat type exposes the following members:
 
 
 ### See Also
-* module [aspose.threed.formats](..)
-* class [FileFormat](/3d/python-net/aspose.threed/fileformat)
-* class [RvmFormat](/3d/python-net/aspose.threed.formats/rvmformat)
+* module [`aspose.threed.formats`](..)
+* class [`FileFormat`](/3d/python-net/aspose.threed/fileformat)
+* class [`RvmFormat`](/3d/python-net/aspose.threed.formats/rvmformat)

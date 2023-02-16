@@ -20,6 +20,6 @@ def texture(self):
 ```
 
 ### See Also
-* module [aspose.threed.shading](../../)
-* class [TextureBase](/3d/python-net/aspose.threed.shading/texturebase)
-* class [TextureSlot](/3d/python-net/aspose.threed.shading/textureslot)
+* module [`aspose.threed.shading`](../../)
+* class [`TextureBase`](/3d/python-net/aspose.threed.shading/texturebase)
+* class [`TextureSlot`](/3d/python-net/aspose.threed.shading/textureslot)

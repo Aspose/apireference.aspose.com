@@ -12,12 +12,12 @@ is_root: false
 
 Aspose.3D's supports animation hierarchy, each animation can be composed by several animations and animation's key-frame definition.
 
-[AnimationNode](/3d/python-net/aspose.threed.animation/animationnode) defines the transformation of a property value over time, for example, animation node can be used to control a node's transformation or other [A3DObject](/3d/python-net/aspose.threed/a3dobject) object's numerical properties.
+[`AnimationNode`](/3d/python-net/aspose.threed.animation/animationnode) defines the transformation of a property value over time, for example, animation node can be used to control a node's transformation or other [`A3DObject`](/3d/python-net/aspose.threed/a3dobject) object's numerical properties.
 
 
 
-**Inheritance:** [AnimationNode](/3d/python-net/aspose.threed.animation/animationnode) → 
-[A3DObject](/3d/python-net/aspose.threed/a3dobject)
+**Inheritance:** [`AnimationNode`](/3d/python-net/aspose.threed.animation/animationnode) → 
+[`A3DObject`](/3d/python-net/aspose.threed/a3dobject)
 
 
 
@@ -26,8 +26,8 @@ The AnimationNode type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [AnimationNode(name)](/3d/python-net/aspose.threed.animation/animationnode/__init__/#str) | Initializes a new instance of the [AnimationNode](/3d/python-net/aspose.threed.animation/animationnode) class. |
-| [AnimationNode()](/3d/python-net/aspose.threed.animation/animationnode/__init__/#) | Initializes a new instance of the [AnimationNode](/3d/python-net/aspose.threed.animation/animationnode) class. |
+| [AnimationNode(name)](/3d/python-net/aspose.threed.animation/animationnode/__init__/#str) | Initializes a new instance of the [`AnimationNode`](/3d/python-net/aspose.threed.animation/animationnode) class. |
+| [AnimationNode()](/3d/python-net/aspose.threed.animation/animationnode/__init__/#) | Initializes a new instance of the [`AnimationNode`](/3d/python-net/aspose.threed.animation/animationnode) class. |
 
 
 ### Properties
@@ -56,6 +56,6 @@ The AnimationNode type exposes the following members:
 
 
 ### See Also
-* module [aspose.threed.animation](..)
-* class [A3DObject](/3d/python-net/aspose.threed/a3dobject)
-* class [AnimationNode](/3d/python-net/aspose.threed.animation/animationnode)
+* module [`aspose.threed.animation`](..)
+* class [`A3DObject`](/3d/python-net/aspose.threed/a3dobject)
+* class [`AnimationNode`](/3d/python-net/aspose.threed.animation/animationnode)

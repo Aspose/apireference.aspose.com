@@ -15,9 +15,9 @@ The scene can have one or more animation clips.
 
 
 
-**Inheritance:** [AnimationClip](/3d/python-net/aspose.threed.animation/animationclip) → 
-[SceneObject](/3d/python-net/aspose.threed/sceneobject) → 
-[A3DObject](/3d/python-net/aspose.threed/a3dobject)
+**Inheritance:** [`AnimationClip`](/3d/python-net/aspose.threed.animation/animationclip) → 
+[`SceneObject`](/3d/python-net/aspose.threed/sceneobject) → 
+[`A3DObject`](/3d/python-net/aspose.threed/a3dobject)
 
 
 
@@ -26,8 +26,8 @@ The AnimationClip type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [AnimationClip()](/3d/python-net/aspose.threed.animation/animationclip/__init__/#) | Initializes a new instance of the [AnimationClip](/3d/python-net/aspose.threed.animation/animationclip) class. |
-| [AnimationClip(name)](/3d/python-net/aspose.threed.animation/animationclip/__init__/#str) | Initializes a new instance of the [AnimationClip](/3d/python-net/aspose.threed.animation/animationclip) class. |
+| [AnimationClip()](/3d/python-net/aspose.threed.animation/animationclip/__init__/#) | Initializes a new instance of the [`AnimationClip`](/3d/python-net/aspose.threed.animation/animationclip) class. |
+| [AnimationClip(name)](/3d/python-net/aspose.threed.animation/animationclip/__init__/#str) | Initializes a new instance of the [`AnimationClip`](/3d/python-net/aspose.threed.animation/animationclip) class. |
 
 
 ### Properties
@@ -55,7 +55,7 @@ The AnimationClip type exposes the following members:
 
 
 ### See Also
-* module [aspose.threed.animation](..)
-* class [A3DObject](/3d/python-net/aspose.threed/a3dobject)
-* class [AnimationClip](/3d/python-net/aspose.threed.animation/animationclip)
-* class [SceneObject](/3d/python-net/aspose.threed/sceneobject)
+* module [`aspose.threed.animation`](..)
+* class [`A3DObject`](/3d/python-net/aspose.threed/a3dobject)
+* class [`AnimationClip`](/3d/python-net/aspose.threed.animation/animationclip)
+* class [`SceneObject`](/3d/python-net/aspose.threed/sceneobject)

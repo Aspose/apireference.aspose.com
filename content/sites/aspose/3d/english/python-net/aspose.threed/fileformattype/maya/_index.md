@@ -14,5 +14,5 @@ is_root: false
 Autodesk Maya format type
 
 ### See Also
-* module [aspose.threed](../../)
-* class [FileFormatType](/3d/python-net/aspose.threed/fileformattype)
+* module [`aspose.threed`](../../)
+* class [`FileFormatType`](/3d/python-net/aspose.threed/fileformattype)

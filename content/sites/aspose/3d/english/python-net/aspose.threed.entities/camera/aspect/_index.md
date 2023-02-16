@@ -23,5 +23,5 @@ def aspect(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [Camera](/3d/python-net/aspose.threed.entities/camera)
+* module [`aspose.threed.entities`](../../)
+* class [`Camera`](/3d/python-net/aspose.threed.entities/camera)

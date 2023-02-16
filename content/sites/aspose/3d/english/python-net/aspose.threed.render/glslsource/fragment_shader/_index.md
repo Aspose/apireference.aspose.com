@@ -23,5 +23,5 @@ def fragment_shader(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.render](../../)
-* class [GLSLSource](/3d/python-net/aspose.threed.render/glslsource)
+* module [`aspose.threed.render`](../../)
+* class [`GLSLSource`](/3d/python-net/aspose.threed.render/glslsource)

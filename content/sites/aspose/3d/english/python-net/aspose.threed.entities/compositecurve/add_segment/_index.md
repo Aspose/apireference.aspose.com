@@ -22,11 +22,11 @@ def add_segment(self, curve, same_direction):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| curve | [Curve](/3d/python-net/aspose.threed.entities/curve) |  |
+| curve | [`Curve`](/3d/python-net/aspose.threed.entities/curve) |  |
 | same_direction | bool |  |
 
 
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [CompositeCurve](/3d/python-net/aspose.threed.entities/compositecurve)
+* module [`aspose.threed.entities`](../../)
+* class [`CompositeCurve`](/3d/python-net/aspose.threed.entities/compositecurve)

@@ -14,5 +14,5 @@ is_root: false
 Gets the type of this texture unit.
 
 ### See Also
-* module [aspose.threed.render](../../)
-* class [ITextureCubemap](/3d/python-net/aspose.threed.render/itexturecubemap)
+* module [`aspose.threed.render`](../../)
+* class [`ITextureCubemap`](/3d/python-net/aspose.threed.render/itexturecubemap)

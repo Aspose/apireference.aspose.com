@@ -49,5 +49,5 @@ def set(self, new_x, new_y, new_z, new_w):
 
 
 ### See Also
-* module [aspose.threed.utilities](../../)
-* class [Vector4](/3d/python-net/aspose.threed.utilities/vector4)
+* module [`aspose.threed.utilities`](../../)
+* class [`Vector4`](/3d/python-net/aspose.threed.utilities/vector4)

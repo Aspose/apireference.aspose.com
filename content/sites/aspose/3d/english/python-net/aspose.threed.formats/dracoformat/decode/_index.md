@@ -16,7 +16,7 @@ Decode the point cloud or mesh from specified file name
 ### Returns 
 
 
-A [Mesh](/3d/python-net/aspose.threed.entities/mesh) or [PointCloud](/3d/python-net/aspose.threed.entities/pointcloud) instance depends on the file content
+A [`Mesh`](/3d/python-net/aspose.threed.entities/mesh) or [`PointCloud`](/3d/python-net/aspose.threed.entities/pointcloud) instance depends on the file content
 
 
 ```python
@@ -38,7 +38,7 @@ Decode the point cloud or mesh from memory data
 ### Returns 
 
 
-A [Mesh](/3d/python-net/aspose.threed.entities/mesh) or [PointCloud](/3d/python-net/aspose.threed.entities/pointcloud) instance depends on the content
+A [`Mesh`](/3d/python-net/aspose.threed.entities/mesh) or [`PointCloud`](/3d/python-net/aspose.threed.entities/pointcloud) instance depends on the content
 
 
 ```python
@@ -54,8 +54,8 @@ def decode(self, data):
 
 
 ### See Also
-* module [aspose.threed.formats](../../)
-* class [DracoFormat](/3d/python-net/aspose.threed.formats/dracoformat)
-* class [Geometry](/3d/python-net/aspose.threed.entities/geometry)
-* class [Mesh](/3d/python-net/aspose.threed.entities/mesh)
-* class [PointCloud](/3d/python-net/aspose.threed.entities/pointcloud)
+* module [`aspose.threed.formats`](../../)
+* class [`DracoFormat`](/3d/python-net/aspose.threed.formats/dracoformat)
+* class [`Geometry`](/3d/python-net/aspose.threed.entities/geometry)
+* class [`Mesh`](/3d/python-net/aspose.threed.entities/mesh)
+* class [`PointCloud`](/3d/python-net/aspose.threed.entities/pointcloud)

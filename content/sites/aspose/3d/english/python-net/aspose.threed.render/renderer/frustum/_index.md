@@ -23,6 +23,6 @@ def frustum(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.render](../../)
-* class [Frustum](/3d/python-net/aspose.threed.entities/frustum)
-* class [Renderer](/3d/python-net/aspose.threed.render/renderer)
+* module [`aspose.threed.render`](../../)
+* class [`Frustum`](/3d/python-net/aspose.threed.entities/frustum)
+* class [`Renderer`](/3d/python-net/aspose.threed.render/renderer)

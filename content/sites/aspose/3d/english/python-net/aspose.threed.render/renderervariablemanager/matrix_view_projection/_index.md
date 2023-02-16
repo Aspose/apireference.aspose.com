@@ -20,6 +20,6 @@ def matrix_view_projection(self):
 ```
 
 ### See Also
-* module [aspose.threed.render](../../)
-* class [FMatrix4](/3d/python-net/aspose.threed.utilities/fmatrix4)
-* class [RendererVariableManager](/3d/python-net/aspose.threed.render/renderervariablemanager)
+* module [`aspose.threed.render`](../../)
+* class [`FMatrix4`](/3d/python-net/aspose.threed.utilities/fmatrix4)
+* class [`RendererVariableManager`](/3d/python-net/aspose.threed.render/renderervariablemanager)

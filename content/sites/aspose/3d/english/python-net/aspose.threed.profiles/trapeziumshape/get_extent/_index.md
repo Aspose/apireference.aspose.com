@@ -29,6 +29,6 @@ def get_extent(self):
 
 
 ### See Also
-* module [aspose.threed.profiles](../../)
-* class [TrapeziumShape](/3d/python-net/aspose.threed.profiles/trapeziumshape)
-* class [Vector2](/3d/python-net/aspose.threed.utilities/vector2)
+* module [`aspose.threed.profiles`](../../)
+* class [`TrapeziumShape`](/3d/python-net/aspose.threed.profiles/trapeziumshape)
+* class [`Vector2`](/3d/python-net/aspose.threed.utilities/vector2)

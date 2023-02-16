@@ -10,7 +10,7 @@ is_root: false
 
 ## Discreet3dsSaveOptions() {#}
 
-Constructor of [Discreet3dsSaveOptions](/3d/python-net/aspose.threed.formats/discreet3dssaveoptions)
+Constructor of [`Discreet3dsSaveOptions`](/3d/python-net/aspose.threed.formats/discreet3dssaveoptions)
 
 
 
@@ -24,5 +24,5 @@ def __init__(self):
 
 
 ### See Also
-* module [aspose.threed.formats](../../)
-* class [Discreet3dsSaveOptions](/3d/python-net/aspose.threed.formats/discreet3dssaveoptions)
+* module [`aspose.threed.formats`](../../)
+* class [`Discreet3dsSaveOptions`](/3d/python-net/aspose.threed.formats/discreet3dssaveoptions)

@@ -10,7 +10,7 @@ is_root: false
 
 ## Bone() {#}
 
-Initializes a new instance of the [Bone](/3d/python-net/aspose.threed.deformers/bone) class.
+Initializes a new instance of the [`Bone`](/3d/python-net/aspose.threed.deformers/bone) class.
 
 
 
@@ -24,7 +24,7 @@ def __init__(self):
 
 ## Bone(name) {#str}
 
-Initializes a new instance of the [Bone](/3d/python-net/aspose.threed.deformers/bone) class.
+Initializes a new instance of the [`Bone`](/3d/python-net/aspose.threed.deformers/bone) class.
 
 
 
@@ -41,5 +41,5 @@ def __init__(self, name):
 
 
 ### See Also
-* module [aspose.threed.deformers](../../)
-* class [Bone](/3d/python-net/aspose.threed.deformers/bone)
+* module [`aspose.threed.deformers`](../../)
+* class [`Bone`](/3d/python-net/aspose.threed.deformers/bone)

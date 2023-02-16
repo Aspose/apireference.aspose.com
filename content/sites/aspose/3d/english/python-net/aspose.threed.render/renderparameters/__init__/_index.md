@@ -10,7 +10,7 @@ is_root: false
 
 ## RenderParameters(double_buffering, color_bits, depth_bits, stencil_bits) {#bool-int-int-int}
 
-Initialize an instance of [PixelFormat](/3d/python-net/aspose.threed.render/pixelformat)
+Initialize an instance of [`PixelFormat`](/3d/python-net/aspose.threed.render/pixelformat)
 
 
 
@@ -30,6 +30,6 @@ def __init__(self, double_buffering, color_bits, depth_bits, stencil_bits):
 
 
 ### See Also
-* module [aspose.threed.render](../../)
-* class [PixelFormat](/3d/python-net/aspose.threed.render/pixelformat)
-* class [RenderParameters](/3d/python-net/aspose.threed.render/renderparameters)
+* module [`aspose.threed.render`](../../)
+* class [`PixelFormat`](/3d/python-net/aspose.threed.render/pixelformat)
+* class [`RenderParameters`](/3d/python-net/aspose.threed.render/renderparameters)

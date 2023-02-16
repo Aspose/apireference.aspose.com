@@ -35,6 +35,6 @@ def rotation(self, value):
 ```
 
 ### See Also
-* module [aspose.threed](../../)
-* class [Quaternion](/3d/python-net/aspose.threed.utilities/quaternion)
-* class [Transform](/3d/python-net/aspose.threed/transform)
+* module [`aspose.threed`](../../)
+* class [`Quaternion`](/3d/python-net/aspose.threed.utilities/quaternion)
+* class [`Transform`](/3d/python-net/aspose.threed/transform)

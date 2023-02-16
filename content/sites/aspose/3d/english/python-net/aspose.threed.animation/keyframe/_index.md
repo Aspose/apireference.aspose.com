@@ -12,7 +12,7 @@ is_root: false
 
 A key frame is mainly defined by a time and a value, for some interpolation types, tangent/tension/bias/continuity is also used by calculating the final sampled value.
 Sampled values in a non-key-frame time position is interpolated by key-frames between the previous and next key-frames
-Value before/after the first/last key-frame are calculated by the [Extrapolation](/3d/python-net/aspose.threed.animation/extrapolation) class.
+Value before/after the first/last key-frame are calculated by the [`Extrapolation`](/3d/python-net/aspose.threed.animation/extrapolation) class.
 
 
 
@@ -30,8 +30,8 @@ The KeyFrame type exposes the following members:
 | [time](/3d/python-net/aspose.threed.animation/keyframe/time) | Gets or sets the time position of list.data[index] key frame, measured in seconds. |
 | [value](/3d/python-net/aspose.threed.animation/keyframe/value) | Gets or sets the key-frame's value. |
 | [interpolation](/3d/python-net/aspose.threed.animation/keyframe/interpolation) | Gets or sets the key's interpolation type, list.data[index] defines the algorithm how the sampled value is calculated. |
-| [tangent_weight_mode](/3d/python-net/aspose.threed.animation/keyframe/tangent_weight_mode) | Gets or sets the key's tangent weight mode.<br/>The out tangent or the next in tangent can be customized by select correct [WeightedMode](/3d/python-net/aspose.threed.animation/weightedmode) |
-| [step_mode](/3d/python-net/aspose.threed.animation/keyframe/step_mode) | Gets or sets the key's step mode.<br/>If the interpolation type is [Interpolation.CONSTANT](/3d/python-net/aspose.threed.animation/interpolation#CONSTANT), list.data[index] decides which key-frame's value will be used during interpolation.  <br/>A [StepMode.PREVIOUS_VALUE](/3d/python-net/aspose.threed.animation/stepmode#PREVIOUS_VALUE) means the left key-frame's value will be used  <br/>A [StepMode.NEXT_VALUE](/3d/python-net/aspose.threed.animation/stepmode#NEXT_VALUE) means the next right key-frame's value will be used |
+| [tangent_weight_mode](/3d/python-net/aspose.threed.animation/keyframe/tangent_weight_mode) | Gets or sets the key's tangent weight mode.<br/>The out tangent or the next in tangent can be customized by select correct [`WeightedMode`](/3d/python-net/aspose.threed.animation/weightedmode) |
+| [step_mode](/3d/python-net/aspose.threed.animation/keyframe/step_mode) | Gets or sets the key's step mode.<br/>If the interpolation type is [`Interpolation.CONSTANT`](/3d/python-net/aspose.threed.animation/interpolation#CONSTANT), list.data[index] decides which key-frame's value will be used during interpolation.  <br/>A [`StepMode.PREVIOUS_VALUE`](/3d/python-net/aspose.threed.animation/stepmode#PREVIOUS_VALUE) means the left key-frame's value will be used  <br/>A [`StepMode.NEXT_VALUE`](/3d/python-net/aspose.threed.animation/stepmode#NEXT_VALUE) means the next right key-frame's value will be used |
 | [next_in_tangent](/3d/python-net/aspose.threed.animation/keyframe/next_in_tangent) | Gets or sets the next in(left) tangent on this key frame. |
 | [out_tangent](/3d/python-net/aspose.threed.animation/keyframe/out_tangent) | Gets or sets the out(right) tangent on this key frame. |
 | [out_weight](/3d/python-net/aspose.threed.animation/keyframe/out_weight) | Gets or sets the out(right) weight on this key frame. |
@@ -46,6 +46,6 @@ The KeyFrame type exposes the following members:
 
 
 ### See Also
-* module [aspose.threed.animation](..)
-* class [Extrapolation](/3d/python-net/aspose.threed.animation/extrapolation)
-* class [WeightedMode](/3d/python-net/aspose.threed.animation/weightedmode)
+* module [`aspose.threed.animation`](..)
+* class [`Extrapolation`](/3d/python-net/aspose.threed.animation/extrapolation)
+* class [`WeightedMode`](/3d/python-net/aspose.threed.animation/weightedmode)

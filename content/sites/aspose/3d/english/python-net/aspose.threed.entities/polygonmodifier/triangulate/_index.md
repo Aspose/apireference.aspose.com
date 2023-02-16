@@ -22,7 +22,7 @@ def triangulate(self, scene):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| scene | [Scene](/3d/python-net/aspose.threed/scene) | The scene to process |
+| scene | [`Scene`](/3d/python-net/aspose.threed/scene) | The scene to process |
 
 
 ## triangulate(mesh) {#Mesh}
@@ -44,7 +44,7 @@ def triangulate(self, mesh):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| mesh | [Mesh](/3d/python-net/aspose.threed.entities/mesh) | The original non-triangle mesh |
+| mesh | [`Mesh`](/3d/python-net/aspose.threed.entities/mesh) | The original non-triangle mesh |
 
 
 ## triangulate(control_points) {#list}
@@ -122,5 +122,5 @@ def triangulate(self, control_points, polygons, generate_normals, nor_out):
 
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [PolygonModifier](/3d/python-net/aspose.threed.entities/polygonmodifier)
+* module [`aspose.threed.entities`](../../)
+* class [`PolygonModifier`](/3d/python-net/aspose.threed.entities/polygonmodifier)

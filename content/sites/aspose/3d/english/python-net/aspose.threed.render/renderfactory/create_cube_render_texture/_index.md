@@ -27,12 +27,12 @@ def create_cube_render_texture(self, parameters, width, height):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| parameters | [RenderParameters](/3d/python-net/aspose.threed.render/renderparameters) | Render parameters to create the render texture |
+| parameters | [`RenderParameters`](/3d/python-net/aspose.threed.render/renderparameters) | Render parameters to create the render texture |
 | width | int | The width of the render texture |
 | height | int | The height of the render texture |
 
 
 
 ### See Also
-* module [aspose.threed.render](../../)
-* class [RenderFactory](/3d/python-net/aspose.threed.render/renderfactory)
+* module [`aspose.threed.render`](../../)
+* class [`RenderFactory`](/3d/python-net/aspose.threed.render/renderfactory)

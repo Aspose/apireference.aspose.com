@@ -10,7 +10,7 @@ is_root: false
 
 ## U3dSaveOptions() {#}
 
-Constructor of [U3dSaveOptions](/3d/python-net/aspose.threed.formats/u3dsaveoptions)
+Constructor of [`U3dSaveOptions`](/3d/python-net/aspose.threed.formats/u3dsaveoptions)
 
 
 
@@ -24,5 +24,5 @@ def __init__(self):
 
 
 ### See Also
-* module [aspose.threed.formats](../../)
-* class [U3dSaveOptions](/3d/python-net/aspose.threed.formats/u3dsaveoptions)
+* module [`aspose.threed.formats`](../../)
+* class [`U3dSaveOptions`](/3d/python-net/aspose.threed.formats/u3dsaveoptions)

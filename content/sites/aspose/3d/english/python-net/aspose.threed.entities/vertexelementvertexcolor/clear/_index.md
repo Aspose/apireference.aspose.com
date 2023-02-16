@@ -24,5 +24,5 @@ def clear(self):
 
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [VertexElementVertexColor](/3d/python-net/aspose.threed.entities/vertexelementvertexcolor)
+* module [`aspose.threed.entities`](../../)
+* class [`VertexElementVertexColor`](/3d/python-net/aspose.threed.entities/vertexelementvertexcolor)

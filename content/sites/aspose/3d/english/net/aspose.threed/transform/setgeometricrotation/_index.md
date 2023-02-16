@@ -14,6 +14,13 @@ Sets the geometric Euler rotation(measured in degree). Geometric transformation 
 public Transform SetGeometricRotation(double rx, double ry, double rz)
 ```
 
+### Examples
+
+```csharp
+Node node = new Node();
+node.Transform.SetGeometricRotation(90, 0, 0);
+```
+
 ### See Also
 
 * class [Transform](../../transform)

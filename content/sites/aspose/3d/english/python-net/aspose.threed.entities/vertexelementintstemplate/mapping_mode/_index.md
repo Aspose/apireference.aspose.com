@@ -23,6 +23,6 @@ def mapping_mode(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [MappingMode](/3d/python-net/aspose.threed.entities/mappingmode)
-* class [VertexElementIntsTemplate](/3d/python-net/aspose.threed.entities/vertexelementintstemplate)
+* module [`aspose.threed.entities`](../../)
+* class [`MappingMode`](/3d/python-net/aspose.threed.entities/mappingmode)
+* class [`VertexElementIntsTemplate`](/3d/python-net/aspose.threed.entities/vertexelementintstemplate)

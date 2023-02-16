@@ -23,6 +23,6 @@ def reference_mode(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [ReferenceMode](/3d/python-net/aspose.threed.entities/referencemode)
-* class [VertexElement](/3d/python-net/aspose.threed.entities/vertexelement)
+* module [`aspose.threed.entities`](../../)
+* class [`ReferenceMode`](/3d/python-net/aspose.threed.entities/referencemode)
+* class [`VertexElement`](/3d/python-net/aspose.threed.entities/vertexelement)

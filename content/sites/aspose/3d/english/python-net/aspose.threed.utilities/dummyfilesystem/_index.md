@@ -14,8 +14,8 @@ Read/write operations are dummy operations.
 
 
 
-**Inheritance:** [DummyFileSystem](/3d/python-net/aspose.threed.utilities/dummyfilesystem) → 
-[FileSystem](/3d/python-net/aspose.threed.utilities/filesystem)
+**Inheritance:** [`DummyFileSystem`](/3d/python-net/aspose.threed.utilities/dummyfilesystem) → 
+[`FileSystem`](/3d/python-net/aspose.threed.utilities/filesystem)
 
 
 
@@ -62,6 +62,6 @@ with BytesIO() as ms:
 ```
 
 ### See Also
-* module [aspose.threed.utilities](..)
-* class [DummyFileSystem](/3d/python-net/aspose.threed.utilities/dummyfilesystem)
-* class [FileSystem](/3d/python-net/aspose.threed.utilities/filesystem)
+* module [`aspose.threed.utilities`](..)
+* class [`DummyFileSystem`](/3d/python-net/aspose.threed.utilities/dummyfilesystem)
+* class [`FileSystem`](/3d/python-net/aspose.threed.utilities/filesystem)

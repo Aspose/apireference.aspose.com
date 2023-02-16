@@ -24,5 +24,5 @@ def clear(self):
 
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [VertexElementIntsTemplate](/3d/python-net/aspose.threed.entities/vertexelementintstemplate)
+* module [`aspose.threed.entities`](../../)
+* class [`VertexElementIntsTemplate`](/3d/python-net/aspose.threed.entities/vertexelementintstemplate)

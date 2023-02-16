@@ -14,5 +14,5 @@ is_root: false
 Size of this buffer in bytes
 
 ### See Also
-* module [aspose.threed.render](../../)
-* class [IVertexBuffer](/3d/python-net/aspose.threed.render/ivertexbuffer)
+* module [`aspose.threed.render`](../../)
+* class [`IVertexBuffer`](/3d/python-net/aspose.threed.render/ivertexbuffer)

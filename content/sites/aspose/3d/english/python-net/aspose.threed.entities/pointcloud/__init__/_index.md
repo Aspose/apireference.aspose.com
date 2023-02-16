@@ -10,7 +10,7 @@ is_root: false
 
 ## PointCloud() {#}
 
-Constructor of [PointCloud](/3d/python-net/aspose.threed.entities/pointcloud)
+Constructor of [`PointCloud`](/3d/python-net/aspose.threed.entities/pointcloud)
 
 
 
@@ -24,7 +24,7 @@ def __init__(self):
 
 ## PointCloud(name) {#str}
 
-Constructor of [PointCloud](/3d/python-net/aspose.threed.entities/pointcloud)
+Constructor of [`PointCloud`](/3d/python-net/aspose.threed.entities/pointcloud)
 
 
 
@@ -41,5 +41,5 @@ def __init__(self, name):
 
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [PointCloud](/3d/python-net/aspose.threed.entities/pointcloud)
+* module [`aspose.threed.entities`](../../)
+* class [`PointCloud`](/3d/python-net/aspose.threed.entities/pointcloud)

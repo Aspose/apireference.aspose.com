@@ -10,7 +10,7 @@ is_root: false
 
 ## HollowRectangleShape() {#}
 
-Constructor of [RectangleShape](/3d/python-net/aspose.threed.profiles/rectangleshape)
+Constructor of [`RectangleShape`](/3d/python-net/aspose.threed.profiles/rectangleshape)
 
 
 
@@ -24,6 +24,6 @@ def __init__(self):
 
 
 ### See Also
-* module [aspose.threed.profiles](../../)
-* class [HollowRectangleShape](/3d/python-net/aspose.threed.profiles/hollowrectangleshape)
-* class [RectangleShape](/3d/python-net/aspose.threed.profiles/rectangleshape)
+* module [`aspose.threed.profiles`](../../)
+* class [`HollowRectangleShape`](/3d/python-net/aspose.threed.profiles/hollowrectangleshape)
+* class [`RectangleShape`](/3d/python-net/aspose.threed.profiles/rectangleshape)

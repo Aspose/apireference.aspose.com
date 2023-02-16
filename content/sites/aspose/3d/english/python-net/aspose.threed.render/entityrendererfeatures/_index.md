@@ -20,12 +20,12 @@ The EntityRendererFeatures type exposes the following members:
 | Field | Description |
 | :- | :- |
 | DEFAULT | No extra features |
-| FRAME_BEGIN | The [EntityRenderer](/3d/python-net/aspose.threed.render/entityrenderer) will watch for FrameBegin callback before rendering each scene frame |
-| FRAME_END | The [EntityRenderer](/3d/python-net/aspose.threed.render/entityrenderer) will watch for FrameBegin callback after rendering each scene frame |
+| FRAME_BEGIN | The [`EntityRenderer`](/3d/python-net/aspose.threed.render/entityrenderer) will watch for FrameBegin callback before rendering each scene frame |
+| FRAME_END | The [`EntityRenderer`](/3d/python-net/aspose.threed.render/entityrenderer) will watch for FrameBegin callback after rendering each scene frame |
 | SHADOWMAP | This renderer can work in shadowmap mode |
 
 
 
 ### See Also
-* module [aspose.threed.render](..)
-* class [EntityRenderer](/3d/python-net/aspose.threed.render/entityrenderer)
+* module [`aspose.threed.render`](..)
+* class [`EntityRenderer`](/3d/python-net/aspose.threed.render/entityrenderer)

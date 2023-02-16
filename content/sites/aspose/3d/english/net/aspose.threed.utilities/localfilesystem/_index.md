@@ -28,6 +28,20 @@ public class LocalFileSystem : FileSystem
 | override [ReadFile](../../aspose.threed.utilities/localfilesystem/readfile)(string, IOConfig) | Create a stream for reading dependencies. |
 | override [WriteFile](../../aspose.threed.utilities/localfilesystem/writefile)(string, IOConfig) | Create a stream for writing dependencies. |
 
+### Examples
+
+The following code shows how to import file, and provide dependent files in a given directory
+
+```csharp
+var inputFile = "input.fbx";
+var format = FileFormat.Detect(inputFile);
+//create a load options instance and specify a zip file system
+var opt = format.CreateLoadOptions();
+opt.FileSystem = new LocalFileSystem("textures/");
+//load the file
+var scene = Scene.FromFile(inputFile, opt);
+```
+
 ### See Also
 
 * class [FileSystem](../filesystem)

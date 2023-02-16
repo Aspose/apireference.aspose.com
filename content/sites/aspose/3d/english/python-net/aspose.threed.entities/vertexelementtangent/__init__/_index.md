@@ -10,7 +10,7 @@ is_root: false
 
 ## VertexElementTangent() {#}
 
-Initializes a new instance of the [VertexElementTangent](/3d/python-net/aspose.threed.entities/vertexelementtangent) class.
+Initializes a new instance of the [`VertexElementTangent`](/3d/python-net/aspose.threed.entities/vertexelementtangent) class.
 
 
 
@@ -24,5 +24,5 @@ def __init__(self):
 
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [VertexElementTangent](/3d/python-net/aspose.threed.entities/vertexelementtangent)
+* module [`aspose.threed.entities`](../../)
+* class [`VertexElementTangent`](/3d/python-net/aspose.threed.entities/vertexelementtangent)

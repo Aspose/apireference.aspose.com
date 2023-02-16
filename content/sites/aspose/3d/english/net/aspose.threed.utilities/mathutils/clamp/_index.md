@@ -24,6 +24,16 @@ public static double Clamp(double val, double min, double max)
 
 The value between [min, max]
 
+### Examples
+
+```csharp
+var val = 195;
+//Clamp value to [0, 100]
+var clampedValue = MathUtils.Clamp(val, 0, 100);
+//This will output 100
+Console.WriteLine($"Value = {val}");
+```
+
 ### See Also
 
 * class [MathUtils](../../mathutils)

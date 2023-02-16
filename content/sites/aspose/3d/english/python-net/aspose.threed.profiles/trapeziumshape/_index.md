@@ -14,12 +14,12 @@ IFC compatible Trapezium shape defined by parameters.
 
 
 
-**Inheritance:** [TrapeziumShape](/3d/python-net/aspose.threed.profiles/trapeziumshape) → 
-[ParameterizedProfile](/3d/python-net/aspose.threed.profiles/parameterizedprofile) → 
-[Profile](/3d/python-net/aspose.threed.profiles/profile) → 
-[Entity](/3d/python-net/aspose.threed/entity) → 
-[SceneObject](/3d/python-net/aspose.threed/sceneobject) → 
-[A3DObject](/3d/python-net/aspose.threed/a3dobject)
+**Inheritance:** [`TrapeziumShape`](/3d/python-net/aspose.threed.profiles/trapeziumshape) → 
+[`ParameterizedProfile`](/3d/python-net/aspose.threed.profiles/parameterizedprofile) → 
+[`Profile`](/3d/python-net/aspose.threed.profiles/profile) → 
+[`Entity`](/3d/python-net/aspose.threed/entity) → 
+[`SceneObject`](/3d/python-net/aspose.threed/sceneobject) → 
+[`A3DObject`](/3d/python-net/aspose.threed/a3dobject)
 
 
 
@@ -28,7 +28,7 @@ The TrapeziumShape type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [TrapeziumShape()](/3d/python-net/aspose.threed.profiles/trapeziumshape/__init__/#) | Constructor of [TrapeziumShape](/3d/python-net/aspose.threed.profiles/trapeziumshape) |
+| [TrapeziumShape()](/3d/python-net/aspose.threed.profiles/trapeziumshape/__init__/#) | Constructor of [`TrapeziumShape`](/3d/python-net/aspose.threed.profiles/trapeziumshape) |
 
 
 ### Properties
@@ -61,10 +61,10 @@ The TrapeziumShape type exposes the following members:
 
 
 ### See Also
-* module [aspose.threed.profiles](..)
-* class [A3DObject](/3d/python-net/aspose.threed/a3dobject)
-* class [Entity](/3d/python-net/aspose.threed/entity)
-* class [ParameterizedProfile](/3d/python-net/aspose.threed.profiles/parameterizedprofile)
-* class [Profile](/3d/python-net/aspose.threed.profiles/profile)
-* class [SceneObject](/3d/python-net/aspose.threed/sceneobject)
-* class [TrapeziumShape](/3d/python-net/aspose.threed.profiles/trapeziumshape)
+* module [`aspose.threed.profiles`](..)
+* class [`A3DObject`](/3d/python-net/aspose.threed/a3dobject)
+* class [`Entity`](/3d/python-net/aspose.threed/entity)
+* class [`ParameterizedProfile`](/3d/python-net/aspose.threed.profiles/parameterizedprofile)
+* class [`Profile`](/3d/python-net/aspose.threed.profiles/profile)
+* class [`SceneObject`](/3d/python-net/aspose.threed/sceneobject)
+* class [`TrapeziumShape`](/3d/python-net/aspose.threed.profiles/trapeziumshape)

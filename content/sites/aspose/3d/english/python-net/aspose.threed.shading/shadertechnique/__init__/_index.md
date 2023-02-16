@@ -10,7 +10,7 @@ is_root: false
 
 ## ShaderTechnique() {#}
 
-Initializes a new instance of the [ShaderTechnique](/3d/python-net/aspose.threed.shading/shadertechnique) class.
+Initializes a new instance of the [`ShaderTechnique`](/3d/python-net/aspose.threed.shading/shadertechnique) class.
 
 
 
@@ -24,5 +24,5 @@ def __init__(self):
 
 
 ### See Also
-* module [aspose.threed.shading](../../)
-* class [ShaderTechnique](/3d/python-net/aspose.threed.shading/shadertechnique)
+* module [`aspose.threed.shading`](../../)
+* class [`ShaderTechnique`](/3d/python-net/aspose.threed.shading/shadertechnique)

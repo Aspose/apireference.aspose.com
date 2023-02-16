@@ -10,16 +10,16 @@ is_root: false
 
 ## Skeleton class
 
-The [Skeleton](/3d/python-net/aspose.threed.entities/skeleton) is mainly used by CAD software to help designer to manipulate the transformation of skeletal structure, it's usually useless outside the CAD softwares.
-To make the skeleton hierarchy acts like one object in CAD software, it's necessary to mark the top [Skeleton](/3d/python-net/aspose.threed.entities/skeleton) node as the root one by setting [Skeleton.type](/3d/python-net/aspose.threed.entities/skeleton#type) to [SkeletonType.SKELETON](/3d/python-net/aspose.threed.entities/skeletontype#SKELETON),
-and all children set to [SkeletonType.BONE](/3d/python-net/aspose.threed.entities/skeletontype#BONE)
+The [`Skeleton`](/3d/python-net/aspose.threed.entities/skeleton) is mainly used by CAD software to help designer to manipulate the transformation of skeletal structure, it's usually useless outside the CAD softwares.
+To make the skeleton hierarchy acts like one object in CAD software, it's necessary to mark the top [`Skeleton`](/3d/python-net/aspose.threed.entities/skeleton) node as the root one by setting [`Skeleton.type`](/3d/python-net/aspose.threed.entities/skeleton#type) to [`SkeletonType.SKELETON`](/3d/python-net/aspose.threed.entities/skeletontype#SKELETON),
+and all children set to [`SkeletonType.BONE`](/3d/python-net/aspose.threed.entities/skeletontype#BONE)
 
 
 
-**Inheritance:** [Skeleton](/3d/python-net/aspose.threed.entities/skeleton) → 
-[Entity](/3d/python-net/aspose.threed/entity) → 
-[SceneObject](/3d/python-net/aspose.threed/sceneobject) → 
-[A3DObject](/3d/python-net/aspose.threed/a3dobject)
+**Inheritance:** [`Skeleton`](/3d/python-net/aspose.threed.entities/skeleton) → 
+[`Entity`](/3d/python-net/aspose.threed/entity) → 
+[`SceneObject`](/3d/python-net/aspose.threed/sceneobject) → 
+[`A3DObject`](/3d/python-net/aspose.threed/a3dobject)
 
 
 
@@ -28,8 +28,8 @@ The Skeleton type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [Skeleton()](/3d/python-net/aspose.threed.entities/skeleton/__init__/#) | Initializes a new instance of the [Skeleton](/3d/python-net/aspose.threed.entities/skeleton) class. |
-| [Skeleton(name)](/3d/python-net/aspose.threed.entities/skeleton/__init__/#str) | Initializes a new instance of the [Skeleton](/3d/python-net/aspose.threed.entities/skeleton) class. |
+| [Skeleton()](/3d/python-net/aspose.threed.entities/skeleton/__init__/#) | Initializes a new instance of the [`Skeleton`](/3d/python-net/aspose.threed.entities/skeleton) class. |
+| [Skeleton(name)](/3d/python-net/aspose.threed.entities/skeleton/__init__/#str) | Initializes a new instance of the [`Skeleton`](/3d/python-net/aspose.threed.entities/skeleton) class. |
 
 
 ### Properties
@@ -59,8 +59,8 @@ The Skeleton type exposes the following members:
 
 
 ### See Also
-* module [aspose.threed.entities](..)
-* class [A3DObject](/3d/python-net/aspose.threed/a3dobject)
-* class [Entity](/3d/python-net/aspose.threed/entity)
-* class [SceneObject](/3d/python-net/aspose.threed/sceneobject)
-* class [Skeleton](/3d/python-net/aspose.threed.entities/skeleton)
+* module [`aspose.threed.entities`](..)
+* class [`A3DObject`](/3d/python-net/aspose.threed/a3dobject)
+* class [`Entity`](/3d/python-net/aspose.threed/entity)
+* class [`SceneObject`](/3d/python-net/aspose.threed/sceneobject)
+* class [`Skeleton`](/3d/python-net/aspose.threed.entities/skeleton)

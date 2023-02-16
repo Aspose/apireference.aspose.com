@@ -19,11 +19,11 @@ The Vector3 type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [Vector3(x, y, z)](/3d/python-net/aspose.threed.utilities/vector3/__init__/#float-float-float) | Initializes a new instance of the [Vector3](/3d/python-net/aspose.threed.utilities/vector3) struct. |
-| [Vector3(vec)](/3d/python-net/aspose.threed.utilities/vector3/__init__/#FVector3) | Initializes a new instance of the [Vector3](/3d/python-net/aspose.threed.utilities/vector3) struct. |
-| [Vector3(color)](/3d/python-net/aspose.threed.utilities/vector3/__init__/#aspose.pydrawing.Color) | Initializes a new instance of the [Vector3](/3d/python-net/aspose.threed.utilities/vector3) struct. |
-| [Vector3(v)](/3d/python-net/aspose.threed.utilities/vector3/__init__/#float) | Initializes a new instance of the [Vector3](/3d/python-net/aspose.threed.utilities/vector3) struct. |
-| [Vector3(vec4)](/3d/python-net/aspose.threed.utilities/vector3/__init__/#Vector4) | Initializes a new instance of the [Vector3](/3d/python-net/aspose.threed.utilities/vector3) struct. |
+| [Vector3(x, y, z)](/3d/python-net/aspose.threed.utilities/vector3/__init__/#float-float-float) | Initializes a new instance of the [`Vector3`](/3d/python-net/aspose.threed.utilities/vector3) struct. |
+| [Vector3(vec)](/3d/python-net/aspose.threed.utilities/vector3/__init__/#FVector3) | Initializes a new instance of the [`Vector3`](/3d/python-net/aspose.threed.utilities/vector3) struct. |
+| [Vector3(color)](/3d/python-net/aspose.threed.utilities/vector3/__init__/#aspose.pydrawing.Color) | Initializes a new instance of the [`Vector3`](/3d/python-net/aspose.threed.utilities/vector3) struct. |
+| [Vector3(v)](/3d/python-net/aspose.threed.utilities/vector3/__init__/#float) | Initializes a new instance of the [`Vector3`](/3d/python-net/aspose.threed.utilities/vector3) struct. |
+| [Vector3(vec4)](/3d/python-net/aspose.threed.utilities/vector3/__init__/#Vector4) | Initializes a new instance of the [`Vector3`](/3d/python-net/aspose.threed.utilities/vector3) struct. |
 | [Vector3()](/3d/python-net/aspose.threed.utilities/vector3/__init__/#) | Constructs a new instance of Vector3 |
 
 
@@ -58,5 +58,5 @@ The Vector3 type exposes the following members:
 
 
 ### See Also
-* module [aspose.threed.utilities](..)
-* class [Vector3](/3d/python-net/aspose.threed.utilities/vector3)
+* module [`aspose.threed.utilities`](..)
+* class [`Vector3`](/3d/python-net/aspose.threed.utilities/vector3)

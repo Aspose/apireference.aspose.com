@@ -19,7 +19,7 @@ The RenderParameters type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [RenderParameters(double_buffering, color_bits, depth_bits, stencil_bits)](/3d/python-net/aspose.threed.render/renderparameters/__init__/#bool-int-int-int) | Initialize an instance of [PixelFormat](/3d/python-net/aspose.threed.render/pixelformat) |
+| [RenderParameters(double_buffering, color_bits, depth_bits, stencil_bits)](/3d/python-net/aspose.threed.render/renderparameters/__init__/#bool-int-int-int) | Initialize an instance of [`PixelFormat`](/3d/python-net/aspose.threed.render/pixelformat) |
 
 
 ### Properties
@@ -33,5 +33,5 @@ The RenderParameters type exposes the following members:
 
 
 ### See Also
-* module [aspose.threed.render](..)
-* class [PixelFormat](/3d/python-net/aspose.threed.render/pixelformat)
+* module [`aspose.threed.render`](..)
+* class [`PixelFormat`](/3d/python-net/aspose.threed.render/pixelformat)

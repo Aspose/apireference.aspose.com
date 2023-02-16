@@ -23,6 +23,6 @@ def curve(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.profiles](../../)
-* class [ArbitraryProfile](/3d/python-net/aspose.threed.profiles/arbitraryprofile)
-* class [Curve](/3d/python-net/aspose.threed.entities/curve)
+* module [`aspose.threed.profiles`](../../)
+* class [`ArbitraryProfile`](/3d/python-net/aspose.threed.profiles/arbitraryprofile)
+* class [`Curve`](/3d/python-net/aspose.threed.entities/curve)

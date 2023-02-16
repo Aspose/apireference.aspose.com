@@ -10,7 +10,7 @@ is_root: false
 
 ## Discreet3dsLoadOptions() {#}
 
-Constructor of [Discreet3dsLoadOptions](/3d/python-net/aspose.threed.formats/discreet3dsloadoptions)
+Constructor of [`Discreet3dsLoadOptions`](/3d/python-net/aspose.threed.formats/discreet3dsloadoptions)
 
 
 
@@ -24,5 +24,5 @@ def __init__(self):
 
 
 ### See Also
-* module [aspose.threed.formats](../../)
-* class [Discreet3dsLoadOptions](/3d/python-net/aspose.threed.formats/discreet3dsloadoptions)
+* module [`aspose.threed.formats`](../../)
+* class [`Discreet3dsLoadOptions`](/3d/python-net/aspose.threed.formats/discreet3dsloadoptions)

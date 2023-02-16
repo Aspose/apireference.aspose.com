@@ -20,6 +20,6 @@ def file_format(self):
 ```
 
 ### See Also
-* module [aspose.threed.formats](../../)
-* class [FileFormat](/3d/python-net/aspose.threed/fileformat)
-* class [XLoadOptions](/3d/python-net/aspose.threed.formats/xloadoptions)
+* module [`aspose.threed.formats`](../../)
+* class [`FileFormat`](/3d/python-net/aspose.threed/fileformat)
+* class [`XLoadOptions`](/3d/python-net/aspose.threed.formats/xloadoptions)

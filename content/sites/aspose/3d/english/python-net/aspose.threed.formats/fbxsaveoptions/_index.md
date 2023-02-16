@@ -14,9 +14,9 @@ Save options for Fbx file.
 
 
 
-**Inheritance:** [FbxSaveOptions](/3d/python-net/aspose.threed.formats/fbxsaveoptions) → 
-[SaveOptions](/3d/python-net/aspose.threed.formats/saveoptions) → 
-[IOConfig](/3d/python-net/aspose.threed.formats/ioconfig)
+**Inheritance:** [`FbxSaveOptions`](/3d/python-net/aspose.threed.formats/fbxsaveoptions) → 
+[`SaveOptions`](/3d/python-net/aspose.threed.formats/saveoptions) → 
+[`IOConfig`](/3d/python-net/aspose.threed.formats/ioconfig)
 
 
 
@@ -25,8 +25,8 @@ The FbxSaveOptions type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [FbxSaveOptions(format)](/3d/python-net/aspose.threed.formats/fbxsaveoptions/__init__/#FileFormat) | Initializes a [FbxSaveOptions](/3d/python-net/aspose.threed.formats/fbxsaveoptions) |
-| [FbxSaveOptions(content_type)](/3d/python-net/aspose.threed.formats/fbxsaveoptions/__init__/#FileContentType) | Initialize a [FbxSaveOptions](/3d/python-net/aspose.threed.formats/fbxsaveoptions) using latest supported version. |
+| [FbxSaveOptions(format)](/3d/python-net/aspose.threed.formats/fbxsaveoptions/__init__/#FileFormat) | Initializes a [`FbxSaveOptions`](/3d/python-net/aspose.threed.formats/fbxsaveoptions) |
+| [FbxSaveOptions(content_type)](/3d/python-net/aspose.threed.formats/fbxsaveoptions/__init__/#FileContentType) | Initialize a [`FbxSaveOptions`](/3d/python-net/aspose.threed.formats/fbxsaveoptions) using latest supported version. |
 
 
 ### Properties
@@ -41,16 +41,16 @@ The FbxSaveOptions type exposes the following members:
 | [enable_compression](/3d/python-net/aspose.threed.formats/fbxsaveoptions/enable_compression) | Compression large binary data in the FBX file(e.g. animation data, control points, vertex element data, indices), default value is true. |
 | [fold_repeated_curve_data](/3d/python-net/aspose.threed.formats/fbxsaveoptions/fold_repeated_curve_data) | Gets or sets whether reuse repeated curve data by increasing last data's ref count |
 | [export_legacy_material_properties](/3d/python-net/aspose.threed.formats/fbxsaveoptions/export_legacy_material_properties) | Gets or sets whether export legacy material properties, used for back compatibility.<br/>This option is turned on by default. |
-| [video_for_texture](/3d/python-net/aspose.threed.formats/fbxsaveoptions/video_for_texture) | Gets or sets whether generate a Video instance for [Texture](/3d/python-net/aspose.threed.shading/texture) when exporting as FBX. |
-| [embed_textures](/3d/python-net/aspose.threed.formats/fbxsaveoptions/embed_textures) | Gets or sets whether to embed the texture to the final output file.<br/>FBX Exporter will try to find the texture's raw data from [IOConfig.file_system](/3d/python-net/aspose.threed.formats/ioconfig#file_system), and embed the file to final FBX file.<br/>Default value is false. |
-| [generate_vertex_element_material](/3d/python-net/aspose.threed.formats/fbxsaveoptions/generate_vertex_element_material) | Gets or sets whether always generate a [VertexElementMaterial](/3d/python-net/aspose.threed.entities/vertexelementmaterial) for geometries if the attached node contains materials.<br/>This is turned off by default. |
+| [video_for_texture](/3d/python-net/aspose.threed.formats/fbxsaveoptions/video_for_texture) | Gets or sets whether generate a Video instance for [`Texture`](/3d/python-net/aspose.threed.shading/texture) when exporting as FBX. |
+| [embed_textures](/3d/python-net/aspose.threed.formats/fbxsaveoptions/embed_textures) | Gets or sets whether to embed the texture to the final output file.<br/>FBX Exporter will try to find the texture's raw data from [`IOConfig.file_system`](/3d/python-net/aspose.threed.formats/ioconfig#file_system), and embed the file to final FBX file.<br/>Default value is false. |
+| [generate_vertex_element_material](/3d/python-net/aspose.threed.formats/fbxsaveoptions/generate_vertex_element_material) | Gets or sets whether always generate a [`VertexElementMaterial`](/3d/python-net/aspose.threed.entities/vertexelementmaterial) for geometries if the attached node contains materials.<br/>This is turned off by default. |
 
 
 
 ### See Also
-* module [aspose.threed.formats](..)
-* class [FbxSaveOptions](/3d/python-net/aspose.threed.formats/fbxsaveoptions)
-* class [IOConfig](/3d/python-net/aspose.threed.formats/ioconfig)
-* class [SaveOptions](/3d/python-net/aspose.threed.formats/saveoptions)
-* class [Texture](/3d/python-net/aspose.threed.shading/texture)
-* class [VertexElementMaterial](/3d/python-net/aspose.threed.entities/vertexelementmaterial)
+* module [`aspose.threed.formats`](..)
+* class [`FbxSaveOptions`](/3d/python-net/aspose.threed.formats/fbxsaveoptions)
+* class [`IOConfig`](/3d/python-net/aspose.threed.formats/ioconfig)
+* class [`SaveOptions`](/3d/python-net/aspose.threed.formats/saveoptions)
+* class [`Texture`](/3d/python-net/aspose.threed.shading/texture)
+* class [`VertexElementMaterial`](/3d/python-net/aspose.threed.entities/vertexelementmaterial)

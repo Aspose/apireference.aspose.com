@@ -10,7 +10,7 @@ is_root: false
 
 ## StlSaveOptions() {#}
 
-Initializes of a new [StlSaveOptions](/3d/python-net/aspose.threed.formats/stlsaveoptions) instance.
+Initializes of a new [`StlSaveOptions`](/3d/python-net/aspose.threed.formats/stlsaveoptions) instance.
 
 
 
@@ -24,7 +24,7 @@ def __init__(self):
 
 ## StlSaveOptions(content_type) {#FileContentType}
 
-Initializes of a new [StlSaveOptions](/3d/python-net/aspose.threed.formats/stlsaveoptions) instance.
+Initializes of a new [`StlSaveOptions`](/3d/python-net/aspose.threed.formats/stlsaveoptions) instance.
 
 
 
@@ -36,10 +36,10 @@ def __init__(self, content_type):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| content_type | [FileContentType](/3d/python-net/aspose.threed/filecontenttype) |  |
+| content_type | [`FileContentType`](/3d/python-net/aspose.threed/filecontenttype) |  |
 
 
 
 ### See Also
-* module [aspose.threed.formats](../../)
-* class [StlSaveOptions](/3d/python-net/aspose.threed.formats/stlsaveoptions)
+* module [`aspose.threed.formats`](../../)
+* class [`StlSaveOptions`](/3d/python-net/aspose.threed.formats/stlsaveoptions)

@@ -254,7 +254,7 @@ Evaluate the global transform, include the geometric transform or not.
 | withGeometricTransform | boolean | Whether the geometric transform is needed. |
 
 **Returns:**
-[Matrix4](../../com.aspose.threed/matrix4)
+[Matrix4](../../com.aspose.threed/matrix4) - The global transform matrix.
 ### findProperty(String propertyName) {#findProperty-java.lang.String-}
 ```
 public Property findProperty(String propertyName)

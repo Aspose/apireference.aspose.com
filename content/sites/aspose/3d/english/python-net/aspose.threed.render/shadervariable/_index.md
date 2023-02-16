@@ -19,8 +19,8 @@ The ShaderVariable type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [ShaderVariable(name)](/3d/python-net/aspose.threed.render/shadervariable/__init__/#str) | Constructor of [ShaderVariable](/3d/python-net/aspose.threed.render/shadervariable) |
-| [ShaderVariable(name, shader_stage)](/3d/python-net/aspose.threed.render/shadervariable/__init__/#str-ShaderStage) | Constructor of [ShaderVariable](/3d/python-net/aspose.threed.render/shadervariable) |
+| [ShaderVariable(name)](/3d/python-net/aspose.threed.render/shadervariable/__init__/#str) | Constructor of [`ShaderVariable`](/3d/python-net/aspose.threed.render/shadervariable) |
+| [ShaderVariable(name, shader_stage)](/3d/python-net/aspose.threed.render/shadervariable/__init__/#str-ShaderStage) | Constructor of [`ShaderVariable`](/3d/python-net/aspose.threed.render/shadervariable) |
 
 
 ### Properties
@@ -31,5 +31,5 @@ The ShaderVariable type exposes the following members:
 
 
 ### See Also
-* module [aspose.threed.render](..)
-* class [ShaderVariable](/3d/python-net/aspose.threed.render/shadervariable)
+* module [`aspose.threed.render`](..)
+* class [`ShaderVariable`](/3d/python-net/aspose.threed.render/shadervariable)

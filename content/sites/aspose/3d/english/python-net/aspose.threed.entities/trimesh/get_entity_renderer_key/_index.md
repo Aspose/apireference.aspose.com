@@ -29,6 +29,6 @@ def get_entity_renderer_key(self):
 
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [EntityRendererKey](/3d/python-net/aspose.threed.render/entityrendererkey)
-* class [TriMesh](/3d/python-net/aspose.threed.entities/trimesh)
+* module [`aspose.threed.entities`](../../)
+* class [`EntityRendererKey`](/3d/python-net/aspose.threed.render/entityrendererkey)
+* class [`TriMesh`](/3d/python-net/aspose.threed.entities/trimesh)

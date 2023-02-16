@@ -23,6 +23,6 @@ def magnification(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [Camera](/3d/python-net/aspose.threed.entities/camera)
-* class [Vector2](/3d/python-net/aspose.threed.utilities/vector2)
+* module [`aspose.threed.entities`](../../)
+* class [`Camera`](/3d/python-net/aspose.threed.entities/camera)
+* class [`Vector2`](/3d/python-net/aspose.threed.utilities/vector2)

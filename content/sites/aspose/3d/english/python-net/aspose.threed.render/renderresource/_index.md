@@ -12,7 +12,7 @@ is_root: false
 
 The abstract class of all render resources
 All render resources will be disposed when the renderer is released.
-Classes like [Mesh](/3d/python-net/aspose.threed.entities/mesh)/[Texture](/3d/python-net/aspose.threed.shading/texture) will have a corresponding RenderResource
+Classes like [`Mesh`](/3d/python-net/aspose.threed.entities/mesh)/[`Texture`](/3d/python-net/aspose.threed.shading/texture) will have a corresponding RenderResource
 
 
 
@@ -20,6 +20,6 @@ The RenderResource type exposes the following members:
 
 
 ### See Also
-* module [aspose.threed.render](..)
-* class [Mesh](/3d/python-net/aspose.threed.entities/mesh)
-* class [Texture](/3d/python-net/aspose.threed.shading/texture)
+* module [`aspose.threed.render`](..)
+* class [`Mesh`](/3d/python-net/aspose.threed.entities/mesh)
+* class [`Texture`](/3d/python-net/aspose.threed.shading/texture)

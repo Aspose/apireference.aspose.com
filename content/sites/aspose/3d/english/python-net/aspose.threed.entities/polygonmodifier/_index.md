@@ -32,9 +32,9 @@ The PolygonModifier type exposes the following members:
 | [scale(node, scale)](/3d/python-net/aspose.threed.entities/polygonmodifier/scale/#Node-aspose.threed.utilities.Vector3) | Scale all geometries(Scale the control points not the transformation matrix) in this node |
 | [generate_uv(mesh, normals)](/3d/python-net/aspose.threed.entities/polygonmodifier/generate_uv/#Mesh-VertexElementNormal) | Generate UV data from the given input mesh and specified normal data. |
 | [generate_uv(mesh)](/3d/python-net/aspose.threed.entities/polygonmodifier/generate_uv/#Mesh) | Generate UV data from the given input mesh |
-| [split_mesh(node, policy, create_child_nodes, remove_old_mesh)](/3d/python-net/aspose.threed.entities/polygonmodifier/split_mesh/#Node-SplitMeshPolicy-bool-bool) | Split mesh into sub-meshes by [VertexElementMaterial](/3d/python-net/aspose.threed.entities/vertexelementmaterial).<br/>Each sub-mesh will use only one material.<br/>Perform mesh splitting on a node |
-| [split_mesh(scene, policy, remove_old_mesh)](/3d/python-net/aspose.threed.entities/polygonmodifier/split_mesh/#Scene-SplitMeshPolicy-bool) | Split mesh into sub-meshes by [VertexElementMaterial](/3d/python-net/aspose.threed.entities/vertexelementmaterial).<br/>Each sub-mesh will use only one material.<br/>Perform mesh splitting on all nodes of the scene. |
-| [split_mesh(mesh, policy)](/3d/python-net/aspose.threed.entities/polygonmodifier/split_mesh/#Mesh-SplitMeshPolicy) | Split mesh into sub-meshes by [VertexElementMaterial](/3d/python-net/aspose.threed.entities/vertexelementmaterial).<br/>Each sub-mesh will use only one material.<br/>The original mesh will not get changed. |
+| [split_mesh(node, policy, create_child_nodes, remove_old_mesh)](/3d/python-net/aspose.threed.entities/polygonmodifier/split_mesh/#Node-SplitMeshPolicy-bool-bool) | Split mesh into sub-meshes by [`VertexElementMaterial`](/3d/python-net/aspose.threed.entities/vertexelementmaterial).<br/>Each sub-mesh will use only one material.<br/>Perform mesh splitting on a node |
+| [split_mesh(scene, policy, remove_old_mesh)](/3d/python-net/aspose.threed.entities/polygonmodifier/split_mesh/#Scene-SplitMeshPolicy-bool) | Split mesh into sub-meshes by [`VertexElementMaterial`](/3d/python-net/aspose.threed.entities/vertexelementmaterial).<br/>Each sub-mesh will use only one material.<br/>Perform mesh splitting on all nodes of the scene. |
+| [split_mesh(mesh, policy)](/3d/python-net/aspose.threed.entities/polygonmodifier/split_mesh/#Mesh-SplitMeshPolicy) | Split mesh into sub-meshes by [`VertexElementMaterial`](/3d/python-net/aspose.threed.entities/vertexelementmaterial).<br/>Each sub-mesh will use only one material.<br/>The original mesh will not get changed. |
 | [build_tangent_binormal(scene)](/3d/python-net/aspose.threed.entities/polygonmodifier/build_tangent_binormal/#Scene) | This will create tangent and binormal on all meshes of the scene<br/>Normal is required, if normal is not existing on the mesh, it will also create the normal data from position.<br/>UV is also required, the mesh will be ignored if no UV is defined. |
 | [build_tangent_binormal(mesh)](/3d/python-net/aspose.threed.entities/polygonmodifier/build_tangent_binormal/#Mesh) | This will create tangent and binormal on the mesh<br/>Normal is required, if normal is not existing on the mesh, it will also create the normal data from position.<br/>UV is also required, an exception will be raised if no UV found. |
 | [generate_normal(mesh)](/3d/python-net/aspose.threed.entities/polygonmodifier/generate_normal/#Mesh) | Generate normal data from Mesh definition |
@@ -42,5 +42,5 @@ The PolygonModifier type exposes the following members:
 
 
 ### See Also
-* module [aspose.threed.entities](..)
-* class [VertexElementMaterial](/3d/python-net/aspose.threed.entities/vertexelementmaterial)
+* module [`aspose.threed.entities`](..)
+* class [`VertexElementMaterial`](/3d/python-net/aspose.threed.entities/vertexelementmaterial)

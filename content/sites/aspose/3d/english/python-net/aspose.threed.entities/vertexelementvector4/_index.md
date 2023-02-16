@@ -10,12 +10,12 @@ is_root: false
 
 ## VertexElementVector4 class
 
-A helper class for defining concrete [VertexElement](/3d/python-net/aspose.threed.entities/vertexelement) implementations.
+A helper class for defining concrete [`VertexElement`](/3d/python-net/aspose.threed.entities/vertexelement) implementations.
 
 
 
-**Inheritance:** [VertexElementVector4](/3d/python-net/aspose.threed.entities/vertexelementvector4) → 
-[VertexElement](/3d/python-net/aspose.threed.entities/vertexelement)
+**Inheritance:** [`VertexElementVector4`](/3d/python-net/aspose.threed.entities/vertexelementvector4) → 
+[`VertexElement`](/3d/python-net/aspose.threed.entities/vertexelement)
 
 
 
@@ -24,7 +24,7 @@ The VertexElementVector4 type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [vertex_element_type](/3d/python-net/aspose.threed.entities/vertexelementvector4/vertex_element_type) | Gets the type of the [VertexElement](/3d/python-net/aspose.threed.entities/vertexelement) |
+| [vertex_element_type](/3d/python-net/aspose.threed.entities/vertexelementvector4/vertex_element_type) | Gets the type of the [`VertexElement`](/3d/python-net/aspose.threed.entities/vertexelement) |
 | [name](/3d/python-net/aspose.threed.entities/vertexelementvector4/name) | Gets or sets the name. |
 | [mapping_mode](/3d/python-net/aspose.threed.entities/vertexelementvector4/mapping_mode) | Gets or sets how the element is mapped. |
 | [reference_mode](/3d/python-net/aspose.threed.entities/vertexelementvector4/reference_mode) | Gets or sets how the element is referenced. |
@@ -43,6 +43,6 @@ The VertexElementVector4 type exposes the following members:
 
 
 ### See Also
-* module [aspose.threed.entities](..)
-* class [VertexElement](/3d/python-net/aspose.threed.entities/vertexelement)
-* class [VertexElementVector4](/3d/python-net/aspose.threed.entities/vertexelementvector4)
+* module [`aspose.threed.entities`](..)
+* class [`VertexElement`](/3d/python-net/aspose.threed.entities/vertexelement)
+* class [`VertexElementVector4`](/3d/python-net/aspose.threed.entities/vertexelementvector4)

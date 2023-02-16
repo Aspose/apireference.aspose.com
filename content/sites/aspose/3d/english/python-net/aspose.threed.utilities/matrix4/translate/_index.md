@@ -27,7 +27,7 @@ def translate(self, t):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| t | [Vector3](/3d/python-net/aspose.threed.utilities/vector3) | Translate offset |
+| t | [`Vector3`](/3d/python-net/aspose.threed.utilities/vector3) | Translate offset |
 
 ### Example 
 
@@ -70,5 +70,5 @@ def translate(self, tx, ty, tz):
 
 
 ### See Also
-* module [aspose.threed.utilities](../../)
-* class [Matrix4](/3d/python-net/aspose.threed.utilities/matrix4)
+* module [`aspose.threed.utilities`](../../)
+* class [`Matrix4`](/3d/python-net/aspose.threed.utilities/matrix4)

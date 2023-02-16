@@ -53,7 +53,7 @@ def save(self, stream, format):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | stream | io.RawIOBase | Input stream, user is responsible for closing the stream. |
-| format | [FileFormat](/3d/python-net/aspose.threed/fileformat) | Format. |
+| format | [`FileFormat`](/3d/python-net/aspose.threed/fileformat) | Format. |
 
 ### Example 
 
@@ -122,7 +122,7 @@ def save(self, file_name, format):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | file_name | str | File name. |
-| format | [FileFormat](/3d/python-net/aspose.threed/fileformat) | Format. |
+| format | [`FileFormat`](/3d/python-net/aspose.threed/fileformat) | Format. |
 
 ### Example 
 
@@ -174,5 +174,5 @@ scene.save("output.usdz", opts)
 
 
 ### See Also
-* module [aspose.threed](../../)
-* class [Scene](/3d/python-net/aspose.threed/scene)
+* module [`aspose.threed`](../../)
+* class [`Scene`](/3d/python-net/aspose.threed/scene)

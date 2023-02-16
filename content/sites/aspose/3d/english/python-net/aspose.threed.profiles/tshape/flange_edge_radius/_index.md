@@ -23,5 +23,5 @@ def flange_edge_radius(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.profiles](../../)
-* class [TShape](/3d/python-net/aspose.threed.profiles/tshape)
+* module [`aspose.threed.profiles`](../../)
+* class [`TShape`](/3d/python-net/aspose.threed.profiles/tshape)

@@ -10,7 +10,7 @@ is_root: false
 
 ## VertexElementUserData() {#}
 
-Initializes a new instance of the [VertexElementUserData](/3d/python-net/aspose.threed.entities/vertexelementuserdata) class.
+Initializes a new instance of the [`VertexElementUserData`](/3d/python-net/aspose.threed.entities/vertexelementuserdata) class.
 
 
 
@@ -24,5 +24,5 @@ def __init__(self):
 
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [VertexElementUserData](/3d/python-net/aspose.threed.entities/vertexelementuserdata)
+* module [`aspose.threed.entities`](../../)
+* class [`VertexElementUserData`](/3d/python-net/aspose.threed.entities/vertexelementuserdata)

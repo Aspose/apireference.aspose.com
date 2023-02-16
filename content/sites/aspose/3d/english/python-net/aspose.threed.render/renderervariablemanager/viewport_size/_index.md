@@ -20,6 +20,6 @@ def viewport_size(self):
 ```
 
 ### See Also
-* module [aspose.threed.render](../../)
-* class [FVector2](/3d/python-net/aspose.threed.utilities/fvector2)
-* class [RendererVariableManager](/3d/python-net/aspose.threed.render/renderervariablemanager)
+* module [`aspose.threed.render`](../../)
+* class [`FVector2`](/3d/python-net/aspose.threed.utilities/fvector2)
+* class [`RendererVariableManager`](/3d/python-net/aspose.threed.render/renderervariablemanager)

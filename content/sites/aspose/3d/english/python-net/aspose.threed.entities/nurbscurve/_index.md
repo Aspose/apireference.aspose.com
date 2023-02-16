@@ -11,16 +11,16 @@ is_root: false
 ## NurbsCurve class
 
 [NURBS curve](https://en.wikipedia.org/wiki/Non-uniform_rational_B-spline) is a curve represented by NURBS(Non-uniform rational basis spline),
-A NURBS curve is defined by its [NurbsCurve.order](/3d/python-net/aspose.threed.entities/nurbscurve#order), a set of weighted [Geometry.control_points](/3d/python-net/aspose.threed.entities/geometry#control_points) and a [NurbsCurve.KnotVectors](/3d/python-net/aspose.threed.entities/nurbscurve)
-The w component in control point is used as control point's weight, whatever it is a [CurveDimension.TWO_DIMENSIONAL](/3d/python-net/aspose.threed.entities/curvedimension#TWO_DIMENSIONAL) or [CurveDimension.THREE_DIMENSIONAL](/3d/python-net/aspose.threed.entities/curvedimension#THREE_DIMENSIONAL)
+A NURBS curve is defined by its [`NurbsCurve.order`](/3d/python-net/aspose.threed.entities/nurbscurve#order), a set of weighted [`Geometry.control_points`](/3d/python-net/aspose.threed.entities/geometry#control_points) and a [`NurbsCurve.KnotVectors`](/3d/python-net/aspose.threed.entities/nurbscurve)
+The w component in control point is used as control point's weight, whatever it is a [`CurveDimension.TWO_DIMENSIONAL`](/3d/python-net/aspose.threed.entities/curvedimension#TWO_DIMENSIONAL) or [`CurveDimension.THREE_DIMENSIONAL`](/3d/python-net/aspose.threed.entities/curvedimension#THREE_DIMENSIONAL)
 
 
 
-**Inheritance:** [NurbsCurve](/3d/python-net/aspose.threed.entities/nurbscurve) → 
-[Curve](/3d/python-net/aspose.threed.entities/curve) → 
-[Entity](/3d/python-net/aspose.threed/entity) → 
-[SceneObject](/3d/python-net/aspose.threed/sceneobject) → 
-[A3DObject](/3d/python-net/aspose.threed/a3dobject)
+**Inheritance:** [`NurbsCurve`](/3d/python-net/aspose.threed.entities/nurbscurve) → 
+[`Curve`](/3d/python-net/aspose.threed.entities/curve) → 
+[`Entity`](/3d/python-net/aspose.threed/entity) → 
+[`SceneObject`](/3d/python-net/aspose.threed/sceneobject) → 
+[`A3DObject`](/3d/python-net/aspose.threed/a3dobject)
 
 
 
@@ -29,8 +29,8 @@ The NurbsCurve type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [NurbsCurve()](/3d/python-net/aspose.threed.entities/nurbscurve/__init__/#) | Initializes a new instance of the [NurbsCurve](/3d/python-net/aspose.threed.entities/nurbscurve) class. |
-| [NurbsCurve(name)](/3d/python-net/aspose.threed.entities/nurbscurve/__init__/#str) | Initializes a new instance of the [NurbsCurve](/3d/python-net/aspose.threed.entities/nurbscurve) class. |
+| [NurbsCurve()](/3d/python-net/aspose.threed.entities/nurbscurve/__init__/#) | Initializes a new instance of the [`NurbsCurve`](/3d/python-net/aspose.threed.entities/nurbscurve) class. |
+| [NurbsCurve(name)](/3d/python-net/aspose.threed.entities/nurbscurve/__init__/#str) | Initializes a new instance of the [`NurbsCurve`](/3d/python-net/aspose.threed.entities/nurbscurve) class. |
 
 
 ### Properties
@@ -46,7 +46,7 @@ The NurbsCurve type exposes the following members:
 | [order](/3d/python-net/aspose.threed.entities/nurbscurve/order) | Gets or sets the order of a NURBS curve, it defines the number of nearby control points that influence any given point on the curve. |
 | [dimension](/3d/python-net/aspose.threed.entities/nurbscurve/dimension) | Gets or sets the curve's dimension. |
 | [curve_type](/3d/python-net/aspose.threed.entities/nurbscurve/curve_type) | Gets or sets the type of the curve. |
-| [rational](/3d/python-net/aspose.threed.entities/nurbscurve/rational) | Gets or sets whether it is rational, this value indicates whether this [NurbsCurve](/3d/python-net/aspose.threed.entities/nurbscurve) is rational spline or non-rational spline.<br/>Non-rational B-spline is a special case of rational B-splines. |
+| [rational](/3d/python-net/aspose.threed.entities/nurbscurve/rational) | Gets or sets whether it is rational, this value indicates whether this [`NurbsCurve`](/3d/python-net/aspose.threed.entities/nurbscurve) is rational spline or non-rational spline.<br/>Non-rational B-spline is a special case of rational B-splines. |
 
 
 ### Methods
@@ -65,9 +65,9 @@ The NurbsCurve type exposes the following members:
 
 
 ### See Also
-* module [aspose.threed.entities](..)
-* class [A3DObject](/3d/python-net/aspose.threed/a3dobject)
-* class [Curve](/3d/python-net/aspose.threed.entities/curve)
-* class [Entity](/3d/python-net/aspose.threed/entity)
-* class [NurbsCurve](/3d/python-net/aspose.threed.entities/nurbscurve)
-* class [SceneObject](/3d/python-net/aspose.threed/sceneobject)
+* module [`aspose.threed.entities`](..)
+* class [`A3DObject`](/3d/python-net/aspose.threed/a3dobject)
+* class [`Curve`](/3d/python-net/aspose.threed.entities/curve)
+* class [`Entity`](/3d/python-net/aspose.threed/entity)
+* class [`NurbsCurve`](/3d/python-net/aspose.threed.entities/nurbscurve)
+* class [`SceneObject`](/3d/python-net/aspose.threed/sceneobject)

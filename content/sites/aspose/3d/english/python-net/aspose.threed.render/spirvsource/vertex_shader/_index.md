@@ -23,5 +23,5 @@ def vertex_shader(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.render](../../)
-* class [SPIRVSource](/3d/python-net/aspose.threed.render/spirvsource)
+* module [`aspose.threed.render`](../../)
+* class [`SPIRVSource`](/3d/python-net/aspose.threed.render/spirvsource)

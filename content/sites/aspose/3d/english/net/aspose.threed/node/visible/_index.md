@@ -14,6 +14,17 @@ Gets or sets to show the node
 public bool Visible { get; set; }
 ```
 
+### Examples
+
+The following code shows how to create a invisible node
+
+```csharp
+Scene scene = new Scene();
+Node node = scene.RootNode.CreateChildNode("test-node", new Box());
+node.Visible = false;
+scene.Save("output.fbx");
+```
+
 ### See Also
 
 * class [Node](../../node)

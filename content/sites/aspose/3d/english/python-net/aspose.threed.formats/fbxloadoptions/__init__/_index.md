@@ -10,7 +10,7 @@ is_root: false
 
 ## FbxLoadOptions() {#}
 
-Constructor of [FbxLoadOptions](/3d/python-net/aspose.threed.formats/fbxloadoptions)
+Constructor of [`FbxLoadOptions`](/3d/python-net/aspose.threed.formats/fbxloadoptions)
 
 
 
@@ -24,7 +24,7 @@ def __init__(self):
 
 ## FbxLoadOptions(format) {#FileFormat}
 
-Constructor of [FbxLoadOptions](/3d/python-net/aspose.threed.formats/fbxloadoptions)
+Constructor of [`FbxLoadOptions`](/3d/python-net/aspose.threed.formats/fbxloadoptions)
 
 
 
@@ -36,10 +36,10 @@ def __init__(self, format):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| format | [FileFormat](/3d/python-net/aspose.threed/fileformat) |  |
+| format | [`FileFormat`](/3d/python-net/aspose.threed/fileformat) |  |
 
 
 
 ### See Also
-* module [aspose.threed.formats](../../)
-* class [FbxLoadOptions](/3d/python-net/aspose.threed.formats/fbxloadoptions)
+* module [`aspose.threed.formats`](../../)
+* class [`FbxLoadOptions`](/3d/python-net/aspose.threed.formats/fbxloadoptions)

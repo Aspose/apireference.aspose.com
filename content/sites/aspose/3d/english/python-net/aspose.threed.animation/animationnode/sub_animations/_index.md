@@ -20,5 +20,5 @@ def sub_animations(self):
 ```
 
 ### See Also
-* module [aspose.threed.animation](../../)
-* class [AnimationNode](/3d/python-net/aspose.threed.animation/animationnode)
+* module [`aspose.threed.animation`](../../)
+* class [`AnimationNode`](/3d/python-net/aspose.threed.animation/animationnode)

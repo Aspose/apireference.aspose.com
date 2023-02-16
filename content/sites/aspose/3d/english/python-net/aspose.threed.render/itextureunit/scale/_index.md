@@ -23,6 +23,6 @@ def scale(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.render](../../)
-* class [ITextureUnit](/3d/python-net/aspose.threed.render/itextureunit)
-* class [Vector2](/3d/python-net/aspose.threed.utilities/vector2)
+* module [`aspose.threed.render`](../../)
+* class [`ITextureUnit`](/3d/python-net/aspose.threed.render/itextureunit)
+* class [`Vector2`](/3d/python-net/aspose.threed.utilities/vector2)

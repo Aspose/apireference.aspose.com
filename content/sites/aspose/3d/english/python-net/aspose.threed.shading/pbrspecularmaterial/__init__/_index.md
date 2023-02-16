@@ -10,7 +10,7 @@ is_root: false
 
 ## PbrSpecularMaterial() {#}
 
-Constructor of the [PbrSpecularMaterial](/3d/python-net/aspose.threed.shading/pbrspecularmaterial)
+Constructor of the [`PbrSpecularMaterial`](/3d/python-net/aspose.threed.shading/pbrspecularmaterial)
 
 
 
@@ -24,5 +24,5 @@ def __init__(self):
 
 
 ### See Also
-* module [aspose.threed.shading](../../)
-* class [PbrSpecularMaterial](/3d/python-net/aspose.threed.shading/pbrspecularmaterial)
+* module [`aspose.threed.shading`](../../)
+* class [`PbrSpecularMaterial`](/3d/python-net/aspose.threed.shading/pbrspecularmaterial)

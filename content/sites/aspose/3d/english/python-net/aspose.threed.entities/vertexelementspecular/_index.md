@@ -14,9 +14,9 @@ Defines specular color for specified components.
 
 
 
-**Inheritance:** [VertexElementSpecular](/3d/python-net/aspose.threed.entities/vertexelementspecular) → 
-[VertexElementVector4](/3d/python-net/aspose.threed.entities/vertexelementvector4) → 
-[VertexElement](/3d/python-net/aspose.threed.entities/vertexelement)
+**Inheritance:** [`VertexElementSpecular`](/3d/python-net/aspose.threed.entities/vertexelementspecular) → 
+[`VertexElementVector4`](/3d/python-net/aspose.threed.entities/vertexelementvector4) → 
+[`VertexElement`](/3d/python-net/aspose.threed.entities/vertexelement)
 
 
 
@@ -25,13 +25,13 @@ The VertexElementSpecular type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [VertexElementSpecular()](/3d/python-net/aspose.threed.entities/vertexelementspecular/__init__/#) | Initializes a new instance of the [VertexElementSpecular](/3d/python-net/aspose.threed.entities/vertexelementspecular) class. |
+| [VertexElementSpecular()](/3d/python-net/aspose.threed.entities/vertexelementspecular/__init__/#) | Initializes a new instance of the [`VertexElementSpecular`](/3d/python-net/aspose.threed.entities/vertexelementspecular) class. |
 
 
 ### Properties
 | Property | Description |
 | :- | :- |
-| [vertex_element_type](/3d/python-net/aspose.threed.entities/vertexelementspecular/vertex_element_type) | Gets the type of the [VertexElement](/3d/python-net/aspose.threed.entities/vertexelement) |
+| [vertex_element_type](/3d/python-net/aspose.threed.entities/vertexelementspecular/vertex_element_type) | Gets the type of the [`VertexElement`](/3d/python-net/aspose.threed.entities/vertexelement) |
 | [name](/3d/python-net/aspose.threed.entities/vertexelementspecular/name) | Gets or sets the name. |
 | [mapping_mode](/3d/python-net/aspose.threed.entities/vertexelementspecular/mapping_mode) | Gets or sets how the element is mapped. |
 | [reference_mode](/3d/python-net/aspose.threed.entities/vertexelementspecular/reference_mode) | Gets or sets how the element is referenced. |
@@ -50,7 +50,7 @@ The VertexElementSpecular type exposes the following members:
 
 
 ### See Also
-* module [aspose.threed.entities](..)
-* class [VertexElement](/3d/python-net/aspose.threed.entities/vertexelement)
-* class [VertexElementSpecular](/3d/python-net/aspose.threed.entities/vertexelementspecular)
-* class [VertexElementVector4](/3d/python-net/aspose.threed.entities/vertexelementvector4)
+* module [`aspose.threed.entities`](..)
+* class [`VertexElement`](/3d/python-net/aspose.threed.entities/vertexelement)
+* class [`VertexElementSpecular`](/3d/python-net/aspose.threed.entities/vertexelementspecular)
+* class [`VertexElementVector4`](/3d/python-net/aspose.threed.entities/vertexelementvector4)

@@ -23,6 +23,6 @@ def target(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [IOrientable](/3d/python-net/aspose.threed.entities/iorientable)
-* class [Node](/3d/python-net/aspose.threed/node)
+* module [`aspose.threed.entities`](../../)
+* class [`IOrientable`](/3d/python-net/aspose.threed.entities/iorientable)
+* class [`Node`](/3d/python-net/aspose.threed/node)

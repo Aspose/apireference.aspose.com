@@ -22,11 +22,11 @@ def execute(self, post_processing, result):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| post_processing | [PostProcessing](/3d/python-net/aspose.threed.render/postprocessing) |  |
-| result | [IRenderTarget](/3d/python-net/aspose.threed.render/irendertarget) |  |
+| post_processing | [`PostProcessing`](/3d/python-net/aspose.threed.render/postprocessing) |  |
+| result | [`IRenderTarget`](/3d/python-net/aspose.threed.render/irendertarget) |  |
 
 
 
 ### See Also
-* module [aspose.threed.render](../../)
-* class [Renderer](/3d/python-net/aspose.threed.render/renderer)
+* module [`aspose.threed.render`](../../)
+* class [`Renderer`](/3d/python-net/aspose.threed.render/renderer)

@@ -20,5 +20,5 @@ def parent_nodes(self):
 ```
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [LinearExtrusion](/3d/python-net/aspose.threed.entities/linearextrusion)
+* module [`aspose.threed.entities`](../../)
+* class [`LinearExtrusion`](/3d/python-net/aspose.threed.entities/linearextrusion)

@@ -10,7 +10,7 @@ is_root: false
 
 ## ReferenceMode enumeration
 
-[ReferenceMode](/3d/python-net/aspose.threed.entities/referencemode) defines how mapping information is stored and referenced by.
+[`ReferenceMode`](/3d/python-net/aspose.threed.entities/referencemode) defines how mapping information is stored and referenced by.
 
 
 
@@ -21,11 +21,11 @@ The ReferenceMode type exposes the following members:
 | :- | :- |
 | DIRECT | Data is directly referenced |
 | INDEX | Data is referenced by index |
-| INDEX_TO_DIRECT | Data is referenced by index, then accessed by index in [VertexElement](/3d/python-net/aspose.threed.entities/vertexelement)'s data list. |
+| INDEX_TO_DIRECT | Data is referenced by index, then accessed by index in [`VertexElement`](/3d/python-net/aspose.threed.entities/vertexelement)'s data list. |
 
 
 
 ### See Also
-* module [aspose.threed.entities](..)
-* class [ReferenceMode](/3d/python-net/aspose.threed.entities/referencemode)
-* class [VertexElement](/3d/python-net/aspose.threed.entities/vertexelement)
+* module [`aspose.threed.entities`](..)
+* class [`ReferenceMode`](/3d/python-net/aspose.threed.entities/referencemode)
+* class [`VertexElement`](/3d/python-net/aspose.threed.entities/vertexelement)

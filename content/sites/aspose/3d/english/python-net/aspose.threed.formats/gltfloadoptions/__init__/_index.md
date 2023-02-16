@@ -10,7 +10,7 @@ is_root: false
 
 ## GltfLoadOptions() {#}
 
-Constructor of [GltfLoadOptions](/3d/python-net/aspose.threed.formats/gltfloadoptions)
+Constructor of [`GltfLoadOptions`](/3d/python-net/aspose.threed.formats/gltfloadoptions)
 
 
 
@@ -24,5 +24,5 @@ def __init__(self):
 
 
 ### See Also
-* module [aspose.threed.formats](../../)
-* class [GltfLoadOptions](/3d/python-net/aspose.threed.formats/gltfloadoptions)
+* module [`aspose.threed.formats`](../../)
+* class [`GltfLoadOptions`](/3d/python-net/aspose.threed.formats/gltfloadoptions)

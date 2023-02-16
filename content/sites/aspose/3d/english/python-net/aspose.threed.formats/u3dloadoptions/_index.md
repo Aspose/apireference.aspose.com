@@ -14,9 +14,9 @@ Load options for universal 3d
 
 
 
-**Inheritance:** [U3dLoadOptions](/3d/python-net/aspose.threed.formats/u3dloadoptions) → 
-[LoadOptions](/3d/python-net/aspose.threed.formats/loadoptions) → 
-[IOConfig](/3d/python-net/aspose.threed.formats/ioconfig)
+**Inheritance:** [`U3dLoadOptions`](/3d/python-net/aspose.threed.formats/u3dloadoptions) → 
+[`LoadOptions`](/3d/python-net/aspose.threed.formats/loadoptions) → 
+[`IOConfig`](/3d/python-net/aspose.threed.formats/ioconfig)
 
 
 
@@ -25,7 +25,7 @@ The U3dLoadOptions type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [U3dLoadOptions()](/3d/python-net/aspose.threed.formats/u3dloadoptions/__init__/#) | Constructor of [U3dLoadOptions](/3d/python-net/aspose.threed.formats/u3dloadoptions) |
+| [U3dLoadOptions()](/3d/python-net/aspose.threed.formats/u3dloadoptions/__init__/#) | Constructor of [`U3dLoadOptions`](/3d/python-net/aspose.threed.formats/u3dloadoptions) |
 
 
 ### Properties
@@ -41,7 +41,7 @@ The U3dLoadOptions type exposes the following members:
 
 
 ### See Also
-* module [aspose.threed.formats](..)
-* class [IOConfig](/3d/python-net/aspose.threed.formats/ioconfig)
-* class [LoadOptions](/3d/python-net/aspose.threed.formats/loadoptions)
-* class [U3dLoadOptions](/3d/python-net/aspose.threed.formats/u3dloadoptions)
+* module [`aspose.threed.formats`](..)
+* class [`IOConfig`](/3d/python-net/aspose.threed.formats/ioconfig)
+* class [`LoadOptions`](/3d/python-net/aspose.threed.formats/loadoptions)
+* class [`U3dLoadOptions`](/3d/python-net/aspose.threed.formats/u3dloadoptions)

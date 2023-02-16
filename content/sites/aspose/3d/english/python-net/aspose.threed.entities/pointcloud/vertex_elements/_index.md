@@ -20,5 +20,5 @@ def vertex_elements(self):
 ```
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [PointCloud](/3d/python-net/aspose.threed.entities/pointcloud)
+* module [`aspose.threed.entities`](../../)
+* class [`PointCloud`](/3d/python-net/aspose.threed.entities/pointcloud)

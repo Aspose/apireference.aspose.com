@@ -22,7 +22,7 @@ def scale(self, scene, scale):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| scene | [Scene](/3d/python-net/aspose.threed/scene) | The scene to scale |
+| scene | [`Scene`](/3d/python-net/aspose.threed/scene) | The scene to scale |
 | scale | aspose.threed.utilities.Vector3 | The scale factor |
 
 
@@ -40,11 +40,11 @@ def scale(self, node, scale):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| node | [Node](/3d/python-net/aspose.threed/node) | The node to scale |
+| node | [`Node`](/3d/python-net/aspose.threed/node) | The node to scale |
 | scale | aspose.threed.utilities.Vector3 | The scale factor |
 
 
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [PolygonModifier](/3d/python-net/aspose.threed.entities/polygonmodifier)
+* module [`aspose.threed.entities`](../../)
+* class [`PolygonModifier`](/3d/python-net/aspose.threed.entities/polygonmodifier)

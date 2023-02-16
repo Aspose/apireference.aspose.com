@@ -10,7 +10,7 @@ is_root: false
 
 ## Texture() {#}
 
-Initializes a new instance of the [Texture](/3d/python-net/aspose.threed.shading/texture) class.
+Initializes a new instance of the [`Texture`](/3d/python-net/aspose.threed.shading/texture) class.
 
 
 
@@ -24,7 +24,7 @@ def __init__(self):
 
 ## Texture(name) {#str}
 
-Initializes a new instance of the [Texture](/3d/python-net/aspose.threed.shading/texture) class.
+Initializes a new instance of the [`Texture`](/3d/python-net/aspose.threed.shading/texture) class.
 
 
 
@@ -41,5 +41,5 @@ def __init__(self, name):
 
 
 ### See Also
-* module [aspose.threed.shading](../../)
-* class [Texture](/3d/python-net/aspose.threed.shading/texture)
+* module [`aspose.threed.shading`](../../)
+* class [`Texture`](/3d/python-net/aspose.threed.shading/texture)

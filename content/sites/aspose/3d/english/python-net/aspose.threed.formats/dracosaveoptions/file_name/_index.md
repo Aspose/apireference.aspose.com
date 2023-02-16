@@ -24,5 +24,5 @@ def file_name(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.formats](../../)
-* class [DracoSaveOptions](/3d/python-net/aspose.threed.formats/dracosaveoptions)
+* module [`aspose.threed.formats`](../../)
+* class [`DracoSaveOptions`](/3d/python-net/aspose.threed.formats/dracosaveoptions)

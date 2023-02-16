@@ -22,6 +22,13 @@ public static Vector3 ToDegree(Vector3 radian)
 
 The degree value.
 
+### Examples
+
+```csharp
+Vector3 degrees = MathUtils.ToDegree(new Vector3(0.34, 0.9, 0.2));
+Console.WriteLine($"Degrees = {degrees}");
+```
+
 ### See Also
 
 * struct [Vector3](../../vector3)
@@ -47,6 +54,13 @@ public static float ToDegree(float radian)
 
 The degree value.
 
+### Examples
+
+```csharp
+var deg = MathUtils.ToDegree(0.3);
+Console.WriteLine($"Degree = {deg}");
+```
+
 ### See Also
 
 * class [MathUtils](../../mathutils)
@@ -70,6 +84,13 @@ public static double ToDegree(double radian)
 ### Return Value
 
 The degree value.
+
+### Examples
+
+```csharp
+var deg = MathUtils.ToDegree(0.3);
+Console.WriteLine($"Degree = {deg}");
+```
 
 ### See Also
 

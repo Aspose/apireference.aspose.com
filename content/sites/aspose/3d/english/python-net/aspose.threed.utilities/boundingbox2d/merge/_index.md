@@ -22,7 +22,7 @@ def merge(self, pt):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| pt | [Vector2](/3d/python-net/aspose.threed.utilities/vector2) |  |
+| pt | [`Vector2`](/3d/python-net/aspose.threed.utilities/vector2) |  |
 
 
 ## merge(bb) {#BoundingBox2D}
@@ -39,10 +39,10 @@ def merge(self, bb):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| bb | [BoundingBox2D](/3d/python-net/aspose.threed.utilities/boundingbox2d) |  |
+| bb | [`BoundingBox2D`](/3d/python-net/aspose.threed.utilities/boundingbox2d) |  |
 
 
 
 ### See Also
-* module [aspose.threed.utilities](../../)
-* class [BoundingBox2D](/3d/python-net/aspose.threed.utilities/boundingbox2d)
+* module [`aspose.threed.utilities`](../../)
+* class [`BoundingBox2D`](/3d/python-net/aspose.threed.utilities/boundingbox2d)

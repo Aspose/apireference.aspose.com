@@ -44,7 +44,7 @@ Decode the watermark from a mesh
 | password | java.lang.String | The password to decrypt the watermark |
 
 **Returns:**
-java.lang.String
+java.lang.String - Blind watermark or null if no watermark decoded.
 ### encodeWatermark(Mesh input, String text, String password) {#encodeWatermark-com.aspose.threed.Mesh-java.lang.String-java.lang.String-}
 ```
 public static Mesh encodeWatermark(Mesh input, String text, String password)
@@ -61,7 +61,7 @@ Encode a text into mesh' blind watermark.
 | password | java.lang.String | Password to protect the watermark, it's optional |
 
 **Returns:**
-[Mesh](../../com.aspose.threed/mesh)
+[Mesh](../../com.aspose.threed/mesh) - A new mesh instance with blind watermark encoded
 ### equals(Object arg0) {#equals-java.lang.Object-}
 ```
 public boolean equals(Object arg0)

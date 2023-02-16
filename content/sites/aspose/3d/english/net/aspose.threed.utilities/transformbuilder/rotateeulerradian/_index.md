@@ -20,6 +20,14 @@ public TransformBuilder RotateEulerRadian(double x, double y, double z)
 | y | Double |  |
 | z | Double |  |
 
+### Examples
+
+```csharp
+TransformBuilder tb = new TransformBuilder();
+tb.RotateEulerRadian(0, Math.PI, 0);
+Console.WriteLine($"Transform Matrix: {tb.Matrix}");
+```
+
 ### See Also
 
 * class [TransformBuilder](../../transformbuilder)
@@ -39,6 +47,14 @@ public TransformBuilder RotateEulerRadian(Vector3 r)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | r | Vector3 |  |
+
+### Examples
+
+```csharp
+TransformBuilder tb = new TransformBuilder();
+tb.RotateEulerRadian(new Vector3(0, Math.PI, 0));
+Console.WriteLine($"Transform Matrix: {tb.Matrix}");
+```
 
 ### See Also
 

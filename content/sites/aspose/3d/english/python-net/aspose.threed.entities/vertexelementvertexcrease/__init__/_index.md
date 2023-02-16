@@ -10,7 +10,7 @@ is_root: false
 
 ## VertexElementVertexCrease() {#}
 
-Initializes a new instance of the [VertexElementVertexCrease](/3d/python-net/aspose.threed.entities/vertexelementvertexcrease) class.
+Initializes a new instance of the [`VertexElementVertexCrease`](/3d/python-net/aspose.threed.entities/vertexelementvertexcrease) class.
 
 
 
@@ -24,5 +24,5 @@ def __init__(self):
 
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [VertexElementVertexCrease](/3d/python-net/aspose.threed.entities/vertexelementvertexcrease)
+* module [`aspose.threed.entities`](../../)
+* class [`VertexElementVertexCrease`](/3d/python-net/aspose.threed.entities/vertexelementvertexcrease)

@@ -14,9 +14,9 @@ Save options for exporting scene as PLY file.
 
 
 
-**Inheritance:** [PlySaveOptions](/3d/python-net/aspose.threed.formats/plysaveoptions) → 
-[SaveOptions](/3d/python-net/aspose.threed.formats/saveoptions) → 
-[IOConfig](/3d/python-net/aspose.threed.formats/ioconfig)
+**Inheritance:** [`PlySaveOptions`](/3d/python-net/aspose.threed.formats/plysaveoptions) → 
+[`SaveOptions`](/3d/python-net/aspose.threed.formats/saveoptions) → 
+[`IOConfig`](/3d/python-net/aspose.threed.formats/ioconfig)
 
 
 
@@ -25,8 +25,8 @@ The PlySaveOptions type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [PlySaveOptions()](/3d/python-net/aspose.threed.formats/plysaveoptions/__init__/#) | Constructor of [PlySaveOptions](/3d/python-net/aspose.threed.formats/plysaveoptions) |
-| [PlySaveOptions(content_type)](/3d/python-net/aspose.threed.formats/plysaveoptions/__init__/#FileContentType) | Constructor of [PlySaveOptions](/3d/python-net/aspose.threed.formats/plysaveoptions) |
+| [PlySaveOptions()](/3d/python-net/aspose.threed.formats/plysaveoptions/__init__/#) | Constructor of [`PlySaveOptions`](/3d/python-net/aspose.threed.formats/plysaveoptions) |
+| [PlySaveOptions(content_type)](/3d/python-net/aspose.threed.formats/plysaveoptions/__init__/#FileContentType) | Constructor of [`PlySaveOptions`](/3d/python-net/aspose.threed.formats/plysaveoptions) |
 
 
 ### Properties
@@ -46,7 +46,7 @@ The PlySaveOptions type exposes the following members:
 
 
 ### See Also
-* module [aspose.threed.formats](..)
-* class [IOConfig](/3d/python-net/aspose.threed.formats/ioconfig)
-* class [PlySaveOptions](/3d/python-net/aspose.threed.formats/plysaveoptions)
-* class [SaveOptions](/3d/python-net/aspose.threed.formats/saveoptions)
+* module [`aspose.threed.formats`](..)
+* class [`IOConfig`](/3d/python-net/aspose.threed.formats/ioconfig)
+* class [`PlySaveOptions`](/3d/python-net/aspose.threed.formats/plysaveoptions)
+* class [`SaveOptions`](/3d/python-net/aspose.threed.formats/saveoptions)

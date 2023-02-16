@@ -43,5 +43,5 @@ The ITextureCubemap type exposes the following members:
 
 
 ### See Also
-* module [aspose.threed.render](..)
-* class [ITextureUnit](/3d/python-net/aspose.threed.render/itextureunit)
+* module [`aspose.threed.render`](..)
+* class [`ITextureUnit`](/3d/python-net/aspose.threed.render/itextureunit)

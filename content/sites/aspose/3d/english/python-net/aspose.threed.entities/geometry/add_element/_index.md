@@ -22,10 +22,10 @@ def add_element(self, element):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| element | [VertexElement](/3d/python-net/aspose.threed.entities/vertexelement) | The vertex element to add |
+| element | [`VertexElement`](/3d/python-net/aspose.threed.entities/vertexelement) | The vertex element to add |
 
 
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [Geometry](/3d/python-net/aspose.threed.entities/geometry)
+* module [`aspose.threed.entities`](../../)
+* class [`Geometry`](/3d/python-net/aspose.threed.entities/geometry)

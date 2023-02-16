@@ -23,6 +23,6 @@ def lighting_scheme(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.formats](../../)
-* class [PdfLightingScheme](/3d/python-net/aspose.threed.formats/pdflightingscheme)
-* class [PdfSaveOptions](/3d/python-net/aspose.threed.formats/pdfsaveoptions)
+* module [`aspose.threed.formats`](../../)
+* class [`PdfLightingScheme`](/3d/python-net/aspose.threed.formats/pdflightingscheme)
+* class [`PdfSaveOptions`](/3d/python-net/aspose.threed.formats/pdfsaveoptions)

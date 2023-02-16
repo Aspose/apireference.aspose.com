@@ -28,5 +28,5 @@ def set_property(self, property, value):
 
 
 ### See Also
-* module [aspose.threed.shading](../../)
-* class [Material](/3d/python-net/aspose.threed.shading/material)
+* module [`aspose.threed.shading`](../../)
+* class [`Material`](/3d/python-net/aspose.threed.shading/material)

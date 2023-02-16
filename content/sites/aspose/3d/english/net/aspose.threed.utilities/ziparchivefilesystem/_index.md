@@ -30,6 +30,20 @@ public class ZipArchiveFileSystem : FileSystem
 | override [ReadFile](../../aspose.threed.utilities/ziparchivefilesystem/readfile)(string, IOConfig) | Open file for reading |
 | override [WriteFile](../../aspose.threed.utilities/ziparchivefilesystem/writefile)(string, IOConfig) | Open file for writing, not implemented in this class. |
 
+### Examples
+
+The following code shows how to import file, and provide dependent files in a zip archive file.
+
+```csharp
+var inputFile = "input.fbx";
+var format = FileFormat.Detect(inputFile);
+//create a load options instance and specify a zip file system
+var opt = format.CreateLoadOptions();
+opt.FileSystem = new ZipArchiveFileSystem("textures.zip");
+//load the file
+var scene = Scene.FromFile(inputFile, opt);
+```
+
 ### See Also
 
 * class [FileSystem](../filesystem)

@@ -23,6 +23,6 @@ def fallback_entity_renderer(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.render](../../)
-* class [EntityRenderer](/3d/python-net/aspose.threed.render/entityrenderer)
-* class [Renderer](/3d/python-net/aspose.threed.render/renderer)
+* module [`aspose.threed.render`](../../)
+* class [`EntityRenderer`](/3d/python-net/aspose.threed.render/entityrenderer)
+* class [`Renderer`](/3d/python-net/aspose.threed.render/renderer)

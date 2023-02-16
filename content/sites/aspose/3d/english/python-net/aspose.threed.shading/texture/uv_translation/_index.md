@@ -23,6 +23,6 @@ def uv_translation(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.shading](../../)
-* class [Texture](/3d/python-net/aspose.threed.shading/texture)
-* class [Vector2](/3d/python-net/aspose.threed.utilities/vector2)
+* module [`aspose.threed.shading`](../../)
+* class [`Texture`](/3d/python-net/aspose.threed.shading/texture)
+* class [`Vector2`](/3d/python-net/aspose.threed.utilities/vector2)

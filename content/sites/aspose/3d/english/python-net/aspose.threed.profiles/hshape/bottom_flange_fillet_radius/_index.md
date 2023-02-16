@@ -23,5 +23,5 @@ def bottom_flange_fillet_radius(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.profiles](../../)
-* class [HShape](/3d/python-net/aspose.threed.profiles/hshape)
+* module [`aspose.threed.profiles`](../../)
+* class [`HShape`](/3d/python-net/aspose.threed.profiles/hshape)

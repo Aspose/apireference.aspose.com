@@ -14,8 +14,8 @@ The PLY format.
 
 
 
-**Inheritance:** [PlyFormat](/3d/python-net/aspose.threed.formats/plyformat) → 
-[FileFormat](/3d/python-net/aspose.threed/fileformat)
+**Inheritance:** [`PlyFormat`](/3d/python-net/aspose.threed.formats/plyformat) → 
+[`FileFormat`](/3d/python-net/aspose.threed/fileformat)
 
 
 
@@ -100,6 +100,6 @@ The PlyFormat type exposes the following members:
 
 
 ### See Also
-* module [aspose.threed.formats](..)
-* class [FileFormat](/3d/python-net/aspose.threed/fileformat)
-* class [PlyFormat](/3d/python-net/aspose.threed.formats/plyformat)
+* module [`aspose.threed.formats`](..)
+* class [`FileFormat`](/3d/python-net/aspose.threed/fileformat)
+* class [`PlyFormat`](/3d/python-net/aspose.threed.formats/plyformat)

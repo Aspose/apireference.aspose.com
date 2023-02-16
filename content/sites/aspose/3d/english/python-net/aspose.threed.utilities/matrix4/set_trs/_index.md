@@ -22,12 +22,12 @@ def set_trs(self, translation, rotation, scale):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| translation | [Vector3](/3d/python-net/aspose.threed.utilities/vector3) | Translation. |
-| rotation | [Vector3](/3d/python-net/aspose.threed.utilities/vector3) | Euler angles for rotation, fields are in degree. |
-| scale | [Vector3](/3d/python-net/aspose.threed.utilities/vector3) | Scale. |
+| translation | [`Vector3`](/3d/python-net/aspose.threed.utilities/vector3) | Translation. |
+| rotation | [`Vector3`](/3d/python-net/aspose.threed.utilities/vector3) | Euler angles for rotation, fields are in degree. |
+| scale | [`Vector3`](/3d/python-net/aspose.threed.utilities/vector3) | Scale. |
 
 
 
 ### See Also
-* module [aspose.threed.utilities](../../)
-* class [Matrix4](/3d/python-net/aspose.threed.utilities/matrix4)
+* module [`aspose.threed.utilities`](../../)
+* class [`Matrix4`](/3d/python-net/aspose.threed.utilities/matrix4)

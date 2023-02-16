@@ -10,7 +10,7 @@ is_root: false
 
 ## from_geometry(geometry, use_float) {#aspose.threed.entities.Geometry-bool}
 
-Create a [VertexDeclaration](/3d/python-net/aspose.threed.utilities/vertexdeclaration) based on a [Geometry](/3d/python-net/aspose.threed.entities/geometry)'s layout.
+Create a [`VertexDeclaration`](/3d/python-net/aspose.threed.utilities/vertexdeclaration) based on a [`Geometry`](/3d/python-net/aspose.threed.entities/geometry)'s layout.
 
 
 ### Returns 
@@ -33,6 +33,6 @@ def from_geometry(self, geometry, use_float):
 
 
 ### See Also
-* module [aspose.threed.utilities](../../)
-* class [Geometry](/3d/python-net/aspose.threed.entities/geometry)
-* class [VertexDeclaration](/3d/python-net/aspose.threed.utilities/vertexdeclaration)
+* module [`aspose.threed.utilities`](../../)
+* class [`Geometry`](/3d/python-net/aspose.threed.entities/geometry)
+* class [`VertexDeclaration`](/3d/python-net/aspose.threed.utilities/vertexdeclaration)

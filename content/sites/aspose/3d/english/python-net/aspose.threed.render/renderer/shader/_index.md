@@ -23,6 +23,6 @@ def shader(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.render](../../)
-* class [Renderer](/3d/python-net/aspose.threed.render/renderer)
-* class [ShaderProgram](/3d/python-net/aspose.threed.render/shaderprogram)
+* module [`aspose.threed.render`](../../)
+* class [`Renderer`](/3d/python-net/aspose.threed.render/renderer)
+* class [`ShaderProgram`](/3d/python-net/aspose.threed.render/shaderprogram)

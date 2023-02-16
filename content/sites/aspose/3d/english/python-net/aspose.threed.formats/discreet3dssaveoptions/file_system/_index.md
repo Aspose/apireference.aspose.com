@@ -23,6 +23,6 @@ def file_system(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.formats](../../)
-* class [Discreet3dsSaveOptions](/3d/python-net/aspose.threed.formats/discreet3dssaveoptions)
-* class [FileSystem](/3d/python-net/aspose.threed.utilities/filesystem)
+* module [`aspose.threed.formats`](../../)
+* class [`Discreet3dsSaveOptions`](/3d/python-net/aspose.threed.formats/discreet3dssaveoptions)
+* class [`FileSystem`](/3d/python-net/aspose.threed.utilities/filesystem)

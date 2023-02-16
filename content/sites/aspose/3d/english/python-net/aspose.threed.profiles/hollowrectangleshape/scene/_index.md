@@ -20,6 +20,6 @@ def scene(self):
 ```
 
 ### See Also
-* module [aspose.threed.profiles](../../)
-* class [HollowRectangleShape](/3d/python-net/aspose.threed.profiles/hollowrectangleshape)
-* class [Scene](/3d/python-net/aspose.threed/scene)
+* module [`aspose.threed.profiles`](../../)
+* class [`HollowRectangleShape`](/3d/python-net/aspose.threed.profiles/hollowrectangleshape)
+* class [`Scene`](/3d/python-net/aspose.threed/scene)

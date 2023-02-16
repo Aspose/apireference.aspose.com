@@ -23,6 +23,6 @@ def pass_action(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.render](../../)
-* class [StencilAction](/3d/python-net/aspose.threed.render/stencilaction)
-* class [StencilState](/3d/python-net/aspose.threed.render/stencilstate)
+* module [`aspose.threed.render`](../../)
+* class [`StencilAction`](/3d/python-net/aspose.threed.render/stencilaction)
+* class [`StencilState`](/3d/python-net/aspose.threed.render/stencilstate)

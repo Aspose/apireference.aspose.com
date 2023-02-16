@@ -10,12 +10,12 @@ is_root: false
 
 ## ImageRenderOptions class
 
-Options for [Scene.render(camera, file_name)](/3d/python-net/aspose.threed/scene/render) and  [Scene.render(camera, file_name)](/3d/python-net/aspose.threed/scene/render)
+Options for [`Scene.render(camera, file_name)`](/3d/python-net/aspose.threed/scene/render) and  [`Scene.render(camera, file_name)`](/3d/python-net/aspose.threed/scene/render)
 
 
 
-**Inheritance:** [ImageRenderOptions](/3d/python-net/aspose.threed/imagerenderoptions) → 
-[A3DObject](/3d/python-net/aspose.threed/a3dobject)
+**Inheritance:** [`ImageRenderOptions`](/3d/python-net/aspose.threed/imagerenderoptions) → 
+[`A3DObject`](/3d/python-net/aspose.threed/a3dobject)
 
 
 
@@ -24,7 +24,7 @@ The ImageRenderOptions type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [ImageRenderOptions()](/3d/python-net/aspose.threed/imagerenderoptions/__init__/#) | Initialize an instance of [ImageRenderOptions](/3d/python-net/aspose.threed/imagerenderoptions) |
+| [ImageRenderOptions()](/3d/python-net/aspose.threed/imagerenderoptions/__init__/#) | Initialize an instance of [`ImageRenderOptions`](/3d/python-net/aspose.threed/imagerenderoptions) |
 
 
 ### Properties
@@ -49,6 +49,6 @@ The ImageRenderOptions type exposes the following members:
 
 
 ### See Also
-* module [aspose.threed](..)
-* class [A3DObject](/3d/python-net/aspose.threed/a3dobject)
-* class [ImageRenderOptions](/3d/python-net/aspose.threed/imagerenderoptions)
+* module [`aspose.threed`](..)
+* class [`A3DObject`](/3d/python-net/aspose.threed/a3dobject)
+* class [`ImageRenderOptions`](/3d/python-net/aspose.threed/imagerenderoptions)

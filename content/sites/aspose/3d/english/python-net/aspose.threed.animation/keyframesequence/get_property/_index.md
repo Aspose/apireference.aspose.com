@@ -32,5 +32,5 @@ def get_property(self, property):
 
 
 ### See Also
-* module [aspose.threed.animation](../../)
-* class [KeyframeSequence](/3d/python-net/aspose.threed.animation/keyframesequence)
+* module [`aspose.threed.animation`](../../)
+* class [`KeyframeSequence`](/3d/python-net/aspose.threed.animation/keyframesequence)

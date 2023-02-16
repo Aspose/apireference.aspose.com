@@ -14,11 +14,11 @@ Parameterized pyramid.
 
 
 
-**Inheritance:** [Pyramid](/3d/python-net/aspose.threed.entities/pyramid) → 
-[Primitive](/3d/python-net/aspose.threed.entities/primitive) → 
-[Entity](/3d/python-net/aspose.threed/entity) → 
-[SceneObject](/3d/python-net/aspose.threed/sceneobject) → 
-[A3DObject](/3d/python-net/aspose.threed/a3dobject)
+**Inheritance:** [`Pyramid`](/3d/python-net/aspose.threed.entities/pyramid) → 
+[`Primitive`](/3d/python-net/aspose.threed.entities/primitive) → 
+[`Entity`](/3d/python-net/aspose.threed/entity) → 
+[`SceneObject`](/3d/python-net/aspose.threed/sceneobject) → 
+[`A3DObject`](/3d/python-net/aspose.threed/a3dobject)
 
 
 
@@ -65,9 +65,9 @@ The Pyramid type exposes the following members:
 
 
 ### See Also
-* module [aspose.threed.entities](..)
-* class [A3DObject](/3d/python-net/aspose.threed/a3dobject)
-* class [Entity](/3d/python-net/aspose.threed/entity)
-* class [Primitive](/3d/python-net/aspose.threed.entities/primitive)
-* class [Pyramid](/3d/python-net/aspose.threed.entities/pyramid)
-* class [SceneObject](/3d/python-net/aspose.threed/sceneobject)
+* module [`aspose.threed.entities`](..)
+* class [`A3DObject`](/3d/python-net/aspose.threed/a3dobject)
+* class [`Entity`](/3d/python-net/aspose.threed/entity)
+* class [`Primitive`](/3d/python-net/aspose.threed.entities/primitive)
+* class [`Pyramid`](/3d/python-net/aspose.threed.entities/pyramid)
+* class [`SceneObject`](/3d/python-net/aspose.threed/sceneobject)

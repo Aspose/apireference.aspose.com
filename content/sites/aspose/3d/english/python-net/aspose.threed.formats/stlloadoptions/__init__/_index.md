@@ -10,7 +10,7 @@ is_root: false
 
 ## StlLoadOptions() {#}
 
-Initializes of a new [StlLoadOptions](/3d/python-net/aspose.threed.formats/stlloadoptions) instance.
+Initializes of a new [`StlLoadOptions`](/3d/python-net/aspose.threed.formats/stlloadoptions) instance.
 
 
 
@@ -24,7 +24,7 @@ def __init__(self):
 
 ## StlLoadOptions(content_type) {#FileContentType}
 
-Initializes of a new [StlLoadOptions](/3d/python-net/aspose.threed.formats/stlloadoptions) instance.
+Initializes of a new [`StlLoadOptions`](/3d/python-net/aspose.threed.formats/stlloadoptions) instance.
 
 
 
@@ -36,10 +36,10 @@ def __init__(self, content_type):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| content_type | [FileContentType](/3d/python-net/aspose.threed/filecontenttype) |  |
+| content_type | [`FileContentType`](/3d/python-net/aspose.threed/filecontenttype) |  |
 
 
 
 ### See Also
-* module [aspose.threed.formats](../../)
-* class [StlLoadOptions](/3d/python-net/aspose.threed.formats/stlloadoptions)
+* module [`aspose.threed.formats`](../../)
+* class [`StlLoadOptions`](/3d/python-net/aspose.threed.formats/stlloadoptions)

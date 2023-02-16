@@ -27,5 +27,5 @@ def __init__(self, msg):
 
 
 ### See Also
-* module [aspose.threed](../../)
-* class [ExportException](/3d/python-net/aspose.threed/exportexception)
+* module [`aspose.threed`](../../)
+* class [`ExportException`](/3d/python-net/aspose.threed/exportexception)

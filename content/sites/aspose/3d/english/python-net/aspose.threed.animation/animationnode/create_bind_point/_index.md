@@ -27,11 +27,11 @@ def create_bind_point(self, obj, prop_name):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| obj | [A3DObject](/3d/python-net/aspose.threed/a3dobject) | Object. |
+| obj | [`A3DObject`](/3d/python-net/aspose.threed/a3dobject) | Object. |
 | prop_name | str | Property name. |
 
 
 
 ### See Also
-* module [aspose.threed.animation](../../)
-* class [AnimationNode](/3d/python-net/aspose.threed.animation/animationnode)
+* module [`aspose.threed.animation`](../../)
+* class [`AnimationNode`](/3d/python-net/aspose.threed.animation/animationnode)

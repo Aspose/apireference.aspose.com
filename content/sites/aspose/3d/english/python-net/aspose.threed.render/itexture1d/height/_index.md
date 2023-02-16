@@ -14,5 +14,5 @@ is_root: false
 Gets the height of this texture.
 
 ### See Also
-* module [aspose.threed.render](../../)
-* class [ITexture1D](/3d/python-net/aspose.threed.render/itexture1d)
+* module [`aspose.threed.render`](../../)
+* class [`ITexture1D`](/3d/python-net/aspose.threed.render/itexture1d)

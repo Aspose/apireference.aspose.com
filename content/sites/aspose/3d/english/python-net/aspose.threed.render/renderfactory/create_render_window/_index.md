@@ -27,11 +27,11 @@ def create_render_window(self, parameters, handle):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| parameters | [RenderParameters](/3d/python-net/aspose.threed.render/renderparameters) | Render parameters to create the render window |
-| handle | [WindowHandle](/3d/python-net/aspose.threed.render/windowhandle) | The handle of the window to render |
+| parameters | [`RenderParameters`](/3d/python-net/aspose.threed.render/renderparameters) | Render parameters to create the render window |
+| handle | [`WindowHandle`](/3d/python-net/aspose.threed.render/windowhandle) | The handle of the window to render |
 
 
 
 ### See Also
-* module [aspose.threed.render](../../)
-* class [RenderFactory](/3d/python-net/aspose.threed.render/renderfactory)
+* module [`aspose.threed.render`](../../)
+* class [`RenderFactory`](/3d/python-net/aspose.threed.render/renderfactory)

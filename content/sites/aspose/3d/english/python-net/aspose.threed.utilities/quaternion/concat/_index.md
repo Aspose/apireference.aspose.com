@@ -27,10 +27,10 @@ def concat(self, rhs):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| rhs | [Quaternion](/3d/python-net/aspose.threed.utilities/quaternion) |  |
+| rhs | [`Quaternion`](/3d/python-net/aspose.threed.utilities/quaternion) |  |
 
 
 
 ### See Also
-* module [aspose.threed.utilities](../../)
-* class [Quaternion](/3d/python-net/aspose.threed.utilities/quaternion)
+* module [`aspose.threed.utilities`](../../)
+* class [`Quaternion`](/3d/python-net/aspose.threed.utilities/quaternion)

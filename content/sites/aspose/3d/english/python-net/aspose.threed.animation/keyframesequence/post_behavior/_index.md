@@ -20,6 +20,6 @@ def post_behavior(self):
 ```
 
 ### See Also
-* module [aspose.threed.animation](../../)
-* class [Extrapolation](/3d/python-net/aspose.threed.animation/extrapolation)
-* class [KeyframeSequence](/3d/python-net/aspose.threed.animation/keyframesequence)
+* module [`aspose.threed.animation`](../../)
+* class [`Extrapolation`](/3d/python-net/aspose.threed.animation/extrapolation)
+* class [`KeyframeSequence`](/3d/python-net/aspose.threed.animation/keyframesequence)

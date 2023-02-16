@@ -28,5 +28,5 @@ def set_property(self, property, value):
 
 
 ### See Also
-* module [aspose.threed.profiles](../../)
-* class [ArbitraryProfile](/3d/python-net/aspose.threed.profiles/arbitraryprofile)
+* module [`aspose.threed.profiles`](../../)
+* class [`ArbitraryProfile`](/3d/python-net/aspose.threed.profiles/arbitraryprofile)

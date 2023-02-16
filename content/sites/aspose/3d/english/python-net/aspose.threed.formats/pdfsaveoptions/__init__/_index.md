@@ -10,7 +10,7 @@ is_root: false
 
 ## PdfSaveOptions() {#}
 
-Constructor of [PdfSaveOptions](/3d/python-net/aspose.threed.formats/pdfsaveoptions)
+Constructor of [`PdfSaveOptions`](/3d/python-net/aspose.threed.formats/pdfsaveoptions)
 
 
 
@@ -24,5 +24,5 @@ def __init__(self):
 
 
 ### See Also
-* module [aspose.threed.formats](../../)
-* class [PdfSaveOptions](/3d/python-net/aspose.threed.formats/pdfsaveoptions)
+* module [`aspose.threed.formats`](../../)
+* class [`PdfSaveOptions`](/3d/python-net/aspose.threed.formats/pdfsaveoptions)

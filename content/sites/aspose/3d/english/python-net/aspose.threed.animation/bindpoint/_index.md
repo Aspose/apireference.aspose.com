@@ -10,13 +10,13 @@ is_root: false
 
 ## BindPoint class
 
-A [BindPoint](/3d/python-net/aspose.threed.animation/bindpoint) is usually created on an object's property, some property types contains multiple component fields(like a Vector3 field),
-[BindPoint](/3d/python-net/aspose.threed.animation/bindpoint) will generate channel for each component field and connects the field to one or more keyframe sequence instance(s) through the channels.
+A [`BindPoint`](/3d/python-net/aspose.threed.animation/bindpoint) is usually created on an object's property, some property types contains multiple component fields(like a Vector3 field),
+[`BindPoint`](/3d/python-net/aspose.threed.animation/bindpoint) will generate channel for each component field and connects the field to one or more keyframe sequence instance(s) through the channels.
 
 
 
-**Inheritance:** [BindPoint](/3d/python-net/aspose.threed.animation/bindpoint) → 
-[A3DObject](/3d/python-net/aspose.threed/a3dobject)
+**Inheritance:** [`BindPoint`](/3d/python-net/aspose.threed.animation/bindpoint) → 
+[`A3DObject`](/3d/python-net/aspose.threed/a3dobject)
 
 
 
@@ -25,7 +25,7 @@ The BindPoint type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [BindPoint(scene, prop)](/3d/python-net/aspose.threed.animation/bindpoint/__init__/#Scene-Property) | Initializes a new instance of the [BindPoint](/3d/python-net/aspose.threed.animation/bindpoint) class. |
+| [BindPoint(scene, prop)](/3d/python-net/aspose.threed.animation/bindpoint/__init__/#Scene-Property) | Initializes a new instance of the [`BindPoint`](/3d/python-net/aspose.threed.animation/bindpoint) class. |
 
 
 ### Properties
@@ -57,6 +57,6 @@ The BindPoint type exposes the following members:
 
 
 ### See Also
-* module [aspose.threed.animation](..)
-* class [A3DObject](/3d/python-net/aspose.threed/a3dobject)
-* class [BindPoint](/3d/python-net/aspose.threed.animation/bindpoint)
+* module [`aspose.threed.animation`](..)
+* class [`A3DObject`](/3d/python-net/aspose.threed/a3dobject)
+* class [`BindPoint`](/3d/python-net/aspose.threed.animation/bindpoint)

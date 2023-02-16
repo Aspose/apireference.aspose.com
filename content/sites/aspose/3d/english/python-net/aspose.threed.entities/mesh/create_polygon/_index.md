@@ -11,7 +11,7 @@ is_root: false
 ## create_polygon(indices) {#list}
 
 Creates a new polygon with all vertices defined in `indices`.
-To create polygon vertex by vertex, please use [PolygonBuilder](/3d/python-net/aspose.threed.entities/polygonbuilder).
+To create polygon vertex by vertex, please use [`PolygonBuilder`](/3d/python-net/aspose.threed.entities/polygonbuilder).
 
 
 
@@ -39,7 +39,7 @@ mesh.create_polygon(indices)
 ## create_polygon(indices, offset, length) {#list-int-int}
 
 Creates a new polygon with all vertices defined in `indices`.
-To create polygon vertex by vertex, please use [PolygonBuilder](/3d/python-net/aspose.threed.entities/polygonbuilder).
+To create polygon vertex by vertex, please use [`PolygonBuilder`](/3d/python-net/aspose.threed.entities/polygonbuilder).
 
 
 
@@ -107,6 +107,6 @@ def create_polygon(self, v1, v2, v3, v4):
 
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [Mesh](/3d/python-net/aspose.threed.entities/mesh)
-* class [PolygonBuilder](/3d/python-net/aspose.threed.entities/polygonbuilder)
+* module [`aspose.threed.entities`](../../)
+* class [`Mesh`](/3d/python-net/aspose.threed.entities/mesh)
+* class [`PolygonBuilder`](/3d/python-net/aspose.threed.entities/polygonbuilder)

@@ -22,10 +22,10 @@ def to_bitmap(self, side):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| side | [CubeFace](/3d/python-net/aspose.threed.render/cubeface) |  |
+| side | [`CubeFace`](/3d/python-net/aspose.threed.render/cubeface) |  |
 
 
 
 ### See Also
-* module [aspose.threed.render](../../)
-* class [ITextureCubemap](/3d/python-net/aspose.threed.render/itexturecubemap)
+* module [`aspose.threed.render`](../../)
+* class [`ITextureCubemap`](/3d/python-net/aspose.threed.render/itexturecubemap)

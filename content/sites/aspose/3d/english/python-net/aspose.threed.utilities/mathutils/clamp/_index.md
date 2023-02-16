@@ -34,5 +34,5 @@ def clamp(self, val, min, max):
 
 
 ### See Also
-* module [aspose.threed.utilities](../../)
-* class [MathUtils](/3d/python-net/aspose.threed.utilities/mathutils)
+* module [`aspose.threed.utilities`](../../)
+* class [`MathUtils`](/3d/python-net/aspose.threed.utilities/mathutils)

@@ -23,5 +23,5 @@ def wall_thickness(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.profiles](../../)
-* class [HollowCircleShape](/3d/python-net/aspose.threed.profiles/hollowcircleshape)
+* module [`aspose.threed.profiles`](../../)
+* class [`HollowCircleShape`](/3d/python-net/aspose.threed.profiles/hollowcircleshape)

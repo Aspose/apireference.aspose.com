@@ -19,10 +19,10 @@ The ParseException type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [ParseException(msg)](/3d/python-net/aspose.threed.utilities/parseexception/__init__/#str) | Constructor of [ParseException](/3d/python-net/aspose.threed.utilities/parseexception) |
+| [ParseException(msg)](/3d/python-net/aspose.threed.utilities/parseexception/__init__/#str) | Constructor of [`ParseException`](/3d/python-net/aspose.threed.utilities/parseexception) |
 
 
 
 ### See Also
-* module [aspose.threed.utilities](..)
-* class [ParseException](/3d/python-net/aspose.threed.utilities/parseexception)
+* module [`aspose.threed.utilities`](..)
+* class [`ParseException`](/3d/python-net/aspose.threed.utilities/parseexception)

@@ -14,9 +14,9 @@ Save options for USD/USDZ formats.
 
 
 
-**Inheritance:** [UsdSaveOptions](/3d/python-net/aspose.threed.formats/usdsaveoptions) → 
-[SaveOptions](/3d/python-net/aspose.threed.formats/saveoptions) → 
-[IOConfig](/3d/python-net/aspose.threed.formats/ioconfig)
+**Inheritance:** [`UsdSaveOptions`](/3d/python-net/aspose.threed.formats/usdsaveoptions) → 
+[`SaveOptions`](/3d/python-net/aspose.threed.formats/saveoptions) → 
+[`IOConfig`](/3d/python-net/aspose.threed.formats/ioconfig)
 
 
 
@@ -25,8 +25,8 @@ The UsdSaveOptions type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [UsdSaveOptions()](/3d/python-net/aspose.threed.formats/usdsaveoptions/__init__/#) | Initialize a new [UsdSaveOptions](/3d/python-net/aspose.threed.formats/usdsaveoptions) with [FileFormat.USD](/3d/python-net/aspose.threed/fileformat) format |
-| [UsdSaveOptions(file_format)](/3d/python-net/aspose.threed.formats/usdsaveoptions/__init__/#FileFormat) | Initialize a new [UsdSaveOptions](/3d/python-net/aspose.threed.formats/usdsaveoptions) with specified USD/USDZ format. |
+| [UsdSaveOptions()](/3d/python-net/aspose.threed.formats/usdsaveoptions/__init__/#) | Initialize a new [`UsdSaveOptions`](/3d/python-net/aspose.threed.formats/usdsaveoptions) with [`FileFormat.USD`](/3d/python-net/aspose.threed/fileformat) format |
+| [UsdSaveOptions(file_format)](/3d/python-net/aspose.threed.formats/usdsaveoptions/__init__/#FileFormat) | Initialize a new [`UsdSaveOptions`](/3d/python-net/aspose.threed.formats/usdsaveoptions) with specified USD/USDZ format. |
 
 
 ### Properties
@@ -43,7 +43,7 @@ The UsdSaveOptions type exposes the following members:
 
 
 ### See Also
-* module [aspose.threed.formats](..)
-* class [IOConfig](/3d/python-net/aspose.threed.formats/ioconfig)
-* class [SaveOptions](/3d/python-net/aspose.threed.formats/saveoptions)
-* class [UsdSaveOptions](/3d/python-net/aspose.threed.formats/usdsaveoptions)
+* module [`aspose.threed.formats`](..)
+* class [`IOConfig`](/3d/python-net/aspose.threed.formats/ioconfig)
+* class [`SaveOptions`](/3d/python-net/aspose.threed.formats/saveoptions)
+* class [`UsdSaveOptions`](/3d/python-net/aspose.threed.formats/usdsaveoptions)

@@ -32,5 +32,5 @@ def from_geometry(self, geometry):
 
 
 ### See Also
-* module [aspose.threed.utilities](../../)
-* class [BoundingBox](/3d/python-net/aspose.threed.utilities/boundingbox)
+* module [`aspose.threed.utilities`](../../)
+* class [`BoundingBox`](/3d/python-net/aspose.threed.utilities/boundingbox)

@@ -37,6 +37,6 @@ def material(self, value):
 ```
 
 ### See Also
-* module [aspose.threed](../../)
-* class [Material](/3d/python-net/aspose.threed.shading/material)
-* class [Node](/3d/python-net/aspose.threed/node)
+* module [`aspose.threed`](../../)
+* class [`Material`](/3d/python-net/aspose.threed.shading/material)
+* class [`Node`](/3d/python-net/aspose.threed/node)

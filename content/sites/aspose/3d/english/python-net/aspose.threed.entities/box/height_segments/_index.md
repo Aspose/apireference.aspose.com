@@ -23,5 +23,5 @@ def height_segments(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [Box](/3d/python-net/aspose.threed.entities/box)
+* module [`aspose.threed.entities`](../../)
+* class [`Box`](/3d/python-net/aspose.threed.entities/box)

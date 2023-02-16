@@ -10,7 +10,7 @@ is_root: false
 
 ## DescriptorSetUpdater class
 
-This class allows to update the [IDescriptorSet](/3d/python-net/aspose.threed.render/idescriptorset) in a chain operation.
+This class allows to update the [`IDescriptorSet`](/3d/python-net/aspose.threed.render/idescriptorset) in a chain operation.
 
 
 
@@ -29,5 +29,5 @@ The DescriptorSetUpdater type exposes the following members:
 
 
 ### See Also
-* module [aspose.threed.render](..)
-* class [IDescriptorSet](/3d/python-net/aspose.threed.render/idescriptorset)
+* module [`aspose.threed.render`](..)
+* class [`IDescriptorSet`](/3d/python-net/aspose.threed.render/idescriptorset)

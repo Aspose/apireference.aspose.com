@@ -23,5 +23,5 @@ def flip_coordinate_system(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.formats](../../)
-* class [U3dLoadOptions](/3d/python-net/aspose.threed.formats/u3dloadoptions)
+* module [`aspose.threed.formats`](../../)
+* class [`U3dLoadOptions`](/3d/python-net/aspose.threed.formats/u3dloadoptions)

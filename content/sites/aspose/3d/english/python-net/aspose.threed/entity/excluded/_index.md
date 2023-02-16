@@ -23,5 +23,5 @@ def excluded(self, value):
 ```
 
 ### See Also
-* module [aspose.threed](../../)
-* class [Entity](/3d/python-net/aspose.threed/entity)
+* module [`aspose.threed`](../../)
+* class [`Entity`](/3d/python-net/aspose.threed/entity)

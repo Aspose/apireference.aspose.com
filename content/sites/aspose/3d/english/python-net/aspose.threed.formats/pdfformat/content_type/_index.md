@@ -34,6 +34,6 @@ def content_type(self):
 ```
 
 ### See Also
-* module [aspose.threed.formats](../../)
-* class [FileContentType](/3d/python-net/aspose.threed/filecontenttype)
-* class [PdfFormat](/3d/python-net/aspose.threed.formats/pdfformat)
+* module [`aspose.threed.formats`](../../)
+* class [`FileContentType`](/3d/python-net/aspose.threed/filecontenttype)
+* class [`PdfFormat`](/3d/python-net/aspose.threed.formats/pdfformat)

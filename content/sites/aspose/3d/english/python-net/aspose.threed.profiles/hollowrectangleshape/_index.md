@@ -14,13 +14,13 @@ IFC compatible hollow rectangular shape with both inner/outer rounding corners.
 
 
 
-**Inheritance:** [HollowRectangleShape](/3d/python-net/aspose.threed.profiles/hollowrectangleshape) → 
-[RectangleShape](/3d/python-net/aspose.threed.profiles/rectangleshape) → 
-[ParameterizedProfile](/3d/python-net/aspose.threed.profiles/parameterizedprofile) → 
-[Profile](/3d/python-net/aspose.threed.profiles/profile) → 
-[Entity](/3d/python-net/aspose.threed/entity) → 
-[SceneObject](/3d/python-net/aspose.threed/sceneobject) → 
-[A3DObject](/3d/python-net/aspose.threed/a3dobject)
+**Inheritance:** [`HollowRectangleShape`](/3d/python-net/aspose.threed.profiles/hollowrectangleshape) → 
+[`RectangleShape`](/3d/python-net/aspose.threed.profiles/rectangleshape) → 
+[`ParameterizedProfile`](/3d/python-net/aspose.threed.profiles/parameterizedprofile) → 
+[`Profile`](/3d/python-net/aspose.threed.profiles/profile) → 
+[`Entity`](/3d/python-net/aspose.threed/entity) → 
+[`SceneObject`](/3d/python-net/aspose.threed/sceneobject) → 
+[`A3DObject`](/3d/python-net/aspose.threed/a3dobject)
 
 
 
@@ -29,7 +29,7 @@ The HollowRectangleShape type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [HollowRectangleShape()](/3d/python-net/aspose.threed.profiles/hollowrectangleshape/__init__/#) | Constructor of [RectangleShape](/3d/python-net/aspose.threed.profiles/rectangleshape) |
+| [HollowRectangleShape()](/3d/python-net/aspose.threed.profiles/hollowrectangleshape/__init__/#) | Constructor of [`RectangleShape`](/3d/python-net/aspose.threed.profiles/rectangleshape) |
 
 
 ### Properties
@@ -63,11 +63,11 @@ The HollowRectangleShape type exposes the following members:
 
 
 ### See Also
-* module [aspose.threed.profiles](..)
-* class [A3DObject](/3d/python-net/aspose.threed/a3dobject)
-* class [Entity](/3d/python-net/aspose.threed/entity)
-* class [HollowRectangleShape](/3d/python-net/aspose.threed.profiles/hollowrectangleshape)
-* class [ParameterizedProfile](/3d/python-net/aspose.threed.profiles/parameterizedprofile)
-* class [Profile](/3d/python-net/aspose.threed.profiles/profile)
-* class [RectangleShape](/3d/python-net/aspose.threed.profiles/rectangleshape)
-* class [SceneObject](/3d/python-net/aspose.threed/sceneobject)
+* module [`aspose.threed.profiles`](..)
+* class [`A3DObject`](/3d/python-net/aspose.threed/a3dobject)
+* class [`Entity`](/3d/python-net/aspose.threed/entity)
+* class [`HollowRectangleShape`](/3d/python-net/aspose.threed.profiles/hollowrectangleshape)
+* class [`ParameterizedProfile`](/3d/python-net/aspose.threed.profiles/parameterizedprofile)
+* class [`Profile`](/3d/python-net/aspose.threed.profiles/profile)
+* class [`RectangleShape`](/3d/python-net/aspose.threed.profiles/rectangleshape)
+* class [`SceneObject`](/3d/python-net/aspose.threed/sceneobject)

@@ -14,6 +14,13 @@ Gets or sets the transform matrix.
 public Matrix4 TransformMatrix { get; set; }
 ```
 
+### Examples
+
+```csharp
+Node node = new Node();
+node.Transform.TransformMatrix = Matrix4.Identity;
+```
+
 ### See Also
 
 * struct [Matrix4](../../../aspose.threed.utilities/matrix4)

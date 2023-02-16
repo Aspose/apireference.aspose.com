@@ -23,6 +23,6 @@ def aperture_mode(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [ApertureMode](/3d/python-net/aspose.threed.entities/aperturemode)
-* class [Camera](/3d/python-net/aspose.threed.entities/camera)
+* module [`aspose.threed.entities`](../../)
+* class [`ApertureMode`](/3d/python-net/aspose.threed.entities/aperturemode)
+* class [`Camera`](/3d/python-net/aspose.threed.entities/camera)

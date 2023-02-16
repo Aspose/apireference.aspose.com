@@ -16,7 +16,14 @@ public double Transparency { get; set; }
 
 ### Property Value
 
-The transparency factor.
+The
+
+```csharp
+var mat = new LambertMaterial();
+mat.Transparency = 0.3;
+```
+
+transparency factor.
 
 ### See Also
 

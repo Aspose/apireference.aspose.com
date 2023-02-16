@@ -14,12 +14,12 @@ IFC compatible L-shape profile that defined by parameters.
 
 
 
-**Inheritance:** [LShape](/3d/python-net/aspose.threed.profiles/lshape) → 
-[ParameterizedProfile](/3d/python-net/aspose.threed.profiles/parameterizedprofile) → 
-[Profile](/3d/python-net/aspose.threed.profiles/profile) → 
-[Entity](/3d/python-net/aspose.threed/entity) → 
-[SceneObject](/3d/python-net/aspose.threed/sceneobject) → 
-[A3DObject](/3d/python-net/aspose.threed/a3dobject)
+**Inheritance:** [`LShape`](/3d/python-net/aspose.threed.profiles/lshape) → 
+[`ParameterizedProfile`](/3d/python-net/aspose.threed.profiles/parameterizedprofile) → 
+[`Profile`](/3d/python-net/aspose.threed.profiles/profile) → 
+[`Entity`](/3d/python-net/aspose.threed/entity) → 
+[`SceneObject`](/3d/python-net/aspose.threed/sceneobject) → 
+[`A3DObject`](/3d/python-net/aspose.threed/a3dobject)
 
 
 
@@ -28,7 +28,7 @@ The LShape type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [LShape()](/3d/python-net/aspose.threed.profiles/lshape/__init__/#) | Constructor of [LShape](/3d/python-net/aspose.threed.profiles/lshape) |
+| [LShape()](/3d/python-net/aspose.threed.profiles/lshape/__init__/#) | Constructor of [`LShape`](/3d/python-net/aspose.threed.profiles/lshape) |
 
 
 ### Properties
@@ -62,10 +62,10 @@ The LShape type exposes the following members:
 
 
 ### See Also
-* module [aspose.threed.profiles](..)
-* class [A3DObject](/3d/python-net/aspose.threed/a3dobject)
-* class [Entity](/3d/python-net/aspose.threed/entity)
-* class [LShape](/3d/python-net/aspose.threed.profiles/lshape)
-* class [ParameterizedProfile](/3d/python-net/aspose.threed.profiles/parameterizedprofile)
-* class [Profile](/3d/python-net/aspose.threed.profiles/profile)
-* class [SceneObject](/3d/python-net/aspose.threed/sceneobject)
+* module [`aspose.threed.profiles`](..)
+* class [`A3DObject`](/3d/python-net/aspose.threed/a3dobject)
+* class [`Entity`](/3d/python-net/aspose.threed/entity)
+* class [`LShape`](/3d/python-net/aspose.threed.profiles/lshape)
+* class [`ParameterizedProfile`](/3d/python-net/aspose.threed.profiles/parameterizedprofile)
+* class [`Profile`](/3d/python-net/aspose.threed.profiles/profile)
+* class [`SceneObject`](/3d/python-net/aspose.threed/sceneobject)

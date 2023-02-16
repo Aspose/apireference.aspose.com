@@ -19,7 +19,7 @@ The PushConstant type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [PushConstant()](/3d/python-net/aspose.threed.render/pushconstant/__init__/#) | Constructor of the [PushConstant](/3d/python-net/aspose.threed.render/pushconstant) |
+| [PushConstant()](/3d/python-net/aspose.threed.render/pushconstant/__init__/#) | Constructor of the [`PushConstant`](/3d/python-net/aspose.threed.render/pushconstant) |
 
 
 ### Methods
@@ -36,5 +36,5 @@ The PushConstant type exposes the following members:
 
 
 ### See Also
-* module [aspose.threed.render](..)
-* class [PushConstant](/3d/python-net/aspose.threed.render/pushconstant)
+* module [`aspose.threed.render`](..)
+* class [`PushConstant`](/3d/python-net/aspose.threed.render/pushconstant)

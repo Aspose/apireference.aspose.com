@@ -14,5 +14,5 @@ is_root: false
 Gets or sets the filter mode for minification.
 
 ### See Also
-* module [aspose.threed.render](../../)
-* class [ITextureCubemap](/3d/python-net/aspose.threed.render/itexturecubemap)
+* module [`aspose.threed.render`](../../)
+* class [`ITextureCubemap`](/3d/python-net/aspose.threed.render/itexturecubemap)

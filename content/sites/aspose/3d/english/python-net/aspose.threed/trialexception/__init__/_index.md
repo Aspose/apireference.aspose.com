@@ -10,7 +10,7 @@ is_root: false
 
 ## TrialException(msg) {#str}
 
-Constructor of [TrialException](/3d/python-net/aspose.threed/trialexception)
+Constructor of [`TrialException`](/3d/python-net/aspose.threed/trialexception)
 
 
 
@@ -27,5 +27,5 @@ def __init__(self, msg):
 
 
 ### See Also
-* module [aspose.threed](../../)
-* class [TrialException](/3d/python-net/aspose.threed/trialexception)
+* module [`aspose.threed`](../../)
+* class [`TrialException`](/3d/python-net/aspose.threed/trialexception)

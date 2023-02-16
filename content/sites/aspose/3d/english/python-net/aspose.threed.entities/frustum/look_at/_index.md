@@ -23,6 +23,6 @@ def look_at(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [Frustum](/3d/python-net/aspose.threed.entities/frustum)
-* class [Vector3](/3d/python-net/aspose.threed.utilities/vector3)
+* module [`aspose.threed.entities`](../../)
+* class [`Frustum`](/3d/python-net/aspose.threed.entities/frustum)
+* class [`Vector3`](/3d/python-net/aspose.threed.utilities/vector3)

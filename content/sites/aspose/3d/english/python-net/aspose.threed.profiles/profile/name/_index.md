@@ -23,5 +23,5 @@ def name(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.profiles](../../)
-* class [Profile](/3d/python-net/aspose.threed.profiles/profile)
+* module [`aspose.threed.profiles`](../../)
+* class [`Profile`](/3d/python-net/aspose.threed.profiles/profile)

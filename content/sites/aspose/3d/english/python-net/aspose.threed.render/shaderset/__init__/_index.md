@@ -10,7 +10,7 @@ is_root: false
 
 ## ShaderSet() {#}
 
-Construct the instance of [ShaderSet](/3d/python-net/aspose.threed.render/shaderset)
+Construct the instance of [`ShaderSet`](/3d/python-net/aspose.threed.render/shaderset)
 
 
 
@@ -24,5 +24,5 @@ def __init__(self):
 
 
 ### See Also
-* module [aspose.threed.render](../../)
-* class [ShaderSet](/3d/python-net/aspose.threed.render/shaderset)
+* module [`aspose.threed.render`](../../)
+* class [`ShaderSet`](/3d/python-net/aspose.threed.render/shaderset)

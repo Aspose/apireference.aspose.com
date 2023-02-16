@@ -23,6 +23,6 @@ def bone_transform(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.deformers](../../)
-* class [Bone](/3d/python-net/aspose.threed.deformers/bone)
-* class [Matrix4](/3d/python-net/aspose.threed.utilities/matrix4)
+* module [`aspose.threed.deformers`](../../)
+* class [`Bone`](/3d/python-net/aspose.threed.deformers/bone)
+* class [`Matrix4`](/3d/python-net/aspose.threed.utilities/matrix4)

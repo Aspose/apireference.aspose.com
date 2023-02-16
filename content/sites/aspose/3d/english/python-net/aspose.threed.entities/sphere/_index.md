@@ -14,11 +14,11 @@ Parameterized sphere.
 
 
 
-**Inheritance:** [Sphere](/3d/python-net/aspose.threed.entities/sphere) → 
-[Primitive](/3d/python-net/aspose.threed.entities/primitive) → 
-[Entity](/3d/python-net/aspose.threed/entity) → 
-[SceneObject](/3d/python-net/aspose.threed/sceneobject) → 
-[A3DObject](/3d/python-net/aspose.threed/a3dobject)
+**Inheritance:** [`Sphere`](/3d/python-net/aspose.threed.entities/sphere) → 
+[`Primitive`](/3d/python-net/aspose.threed.entities/primitive) → 
+[`Entity`](/3d/python-net/aspose.threed/entity) → 
+[`SceneObject`](/3d/python-net/aspose.threed/sceneobject) → 
+[`A3DObject`](/3d/python-net/aspose.threed/a3dobject)
 
 
 
@@ -27,10 +27,10 @@ The Sphere type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [Sphere()](/3d/python-net/aspose.threed.entities/sphere/__init__/#) | Initializes a new instance of the [Sphere](/3d/python-net/aspose.threed.entities/sphere) with default radius 1. |
-| [Sphere(radius)](/3d/python-net/aspose.threed.entities/sphere/__init__/#float) | Initializes a new instance of the [Sphere](/3d/python-net/aspose.threed.entities/sphere) class with specified radius. |
-| [Sphere(radius, width_segments, height_segments)](/3d/python-net/aspose.threed.entities/sphere/__init__/#float-int-int) | Initializes a new instance of the [Sphere](/3d/python-net/aspose.threed.entities/sphere) class with specified radius, width segments and height segments. |
-| [Sphere(name, radius, width_segments, height_segments, phi_start, phi_length, theta_start, theta_length)](/3d/python-net/aspose.threed.entities/sphere/__init__/#str-float-int-int-float-float-float-float) | Initializes a new instance of the [Sphere](/3d/python-net/aspose.threed.entities/sphere) class. |
+| [Sphere()](/3d/python-net/aspose.threed.entities/sphere/__init__/#) | Initializes a new instance of the [`Sphere`](/3d/python-net/aspose.threed.entities/sphere) with default radius 1. |
+| [Sphere(radius)](/3d/python-net/aspose.threed.entities/sphere/__init__/#float) | Initializes a new instance of the [`Sphere`](/3d/python-net/aspose.threed.entities/sphere) class with specified radius. |
+| [Sphere(radius, width_segments, height_segments)](/3d/python-net/aspose.threed.entities/sphere/__init__/#float-int-int) | Initializes a new instance of the [`Sphere`](/3d/python-net/aspose.threed.entities/sphere) class with specified radius, width segments and height segments. |
+| [Sphere(name, radius, width_segments, height_segments, phi_start, phi_length, theta_start, theta_length)](/3d/python-net/aspose.threed.entities/sphere/__init__/#str-float-int-int-float-float-float-float) | Initializes a new instance of the [`Sphere`](/3d/python-net/aspose.threed.entities/sphere) class. |
 
 
 ### Properties
@@ -68,9 +68,9 @@ The Sphere type exposes the following members:
 
 
 ### See Also
-* module [aspose.threed.entities](..)
-* class [A3DObject](/3d/python-net/aspose.threed/a3dobject)
-* class [Entity](/3d/python-net/aspose.threed/entity)
-* class [Primitive](/3d/python-net/aspose.threed.entities/primitive)
-* class [SceneObject](/3d/python-net/aspose.threed/sceneobject)
-* class [Sphere](/3d/python-net/aspose.threed.entities/sphere)
+* module [`aspose.threed.entities`](..)
+* class [`A3DObject`](/3d/python-net/aspose.threed/a3dobject)
+* class [`Entity`](/3d/python-net/aspose.threed/entity)
+* class [`Primitive`](/3d/python-net/aspose.threed.entities/primitive)
+* class [`SceneObject`](/3d/python-net/aspose.threed/sceneobject)
+* class [`Sphere`](/3d/python-net/aspose.threed.entities/sphere)

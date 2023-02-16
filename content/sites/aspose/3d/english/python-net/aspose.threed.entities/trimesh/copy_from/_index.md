@@ -10,7 +10,7 @@ is_root: false
 
 ## copy_from(input, vd) {#TriMesh-aspose.threed.utilities.VertexDeclaration}
 
-Copy the [TriMesh](/3d/python-net/aspose.threed.entities/trimesh) from input with new vertex layout
+Copy the [`TriMesh`](/3d/python-net/aspose.threed.entities/trimesh) from input with new vertex layout
 
 
 ### Returns 
@@ -27,11 +27,11 @@ def copy_from(self, input, vd):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| input | [TriMesh](/3d/python-net/aspose.threed.entities/trimesh) | The input TriMesh for copying |
+| input | [`TriMesh`](/3d/python-net/aspose.threed.entities/trimesh) | The input TriMesh for copying |
 | vd | aspose.threed.utilities.VertexDeclaration | The new vertex declaration of the output TriMesh |
 
 
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [TriMesh](/3d/python-net/aspose.threed.entities/trimesh)
+* module [`aspose.threed.entities`](../../)
+* class [`TriMesh`](/3d/python-net/aspose.threed.entities/trimesh)

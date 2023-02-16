@@ -14,12 +14,12 @@ IFC compatible U-shape defined by parameters.
 
 
 
-**Inheritance:** [UShape](/3d/python-net/aspose.threed.profiles/ushape) → 
-[ParameterizedProfile](/3d/python-net/aspose.threed.profiles/parameterizedprofile) → 
-[Profile](/3d/python-net/aspose.threed.profiles/profile) → 
-[Entity](/3d/python-net/aspose.threed/entity) → 
-[SceneObject](/3d/python-net/aspose.threed/sceneobject) → 
-[A3DObject](/3d/python-net/aspose.threed/a3dobject)
+**Inheritance:** [`UShape`](/3d/python-net/aspose.threed.profiles/ushape) → 
+[`ParameterizedProfile`](/3d/python-net/aspose.threed.profiles/parameterizedprofile) → 
+[`Profile`](/3d/python-net/aspose.threed.profiles/profile) → 
+[`Entity`](/3d/python-net/aspose.threed/entity) → 
+[`SceneObject`](/3d/python-net/aspose.threed/sceneobject) → 
+[`A3DObject`](/3d/python-net/aspose.threed/a3dobject)
 
 
 
@@ -28,7 +28,7 @@ The UShape type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [UShape()](/3d/python-net/aspose.threed.profiles/ushape/__init__/#) | Constructor of [UShape](/3d/python-net/aspose.threed.profiles/ushape) |
+| [UShape()](/3d/python-net/aspose.threed.profiles/ushape/__init__/#) | Constructor of [`UShape`](/3d/python-net/aspose.threed.profiles/ushape) |
 
 
 ### Properties
@@ -63,10 +63,10 @@ The UShape type exposes the following members:
 
 
 ### See Also
-* module [aspose.threed.profiles](..)
-* class [A3DObject](/3d/python-net/aspose.threed/a3dobject)
-* class [Entity](/3d/python-net/aspose.threed/entity)
-* class [ParameterizedProfile](/3d/python-net/aspose.threed.profiles/parameterizedprofile)
-* class [Profile](/3d/python-net/aspose.threed.profiles/profile)
-* class [SceneObject](/3d/python-net/aspose.threed/sceneobject)
-* class [UShape](/3d/python-net/aspose.threed.profiles/ushape)
+* module [`aspose.threed.profiles`](..)
+* class [`A3DObject`](/3d/python-net/aspose.threed/a3dobject)
+* class [`Entity`](/3d/python-net/aspose.threed/entity)
+* class [`ParameterizedProfile`](/3d/python-net/aspose.threed.profiles/parameterizedprofile)
+* class [`Profile`](/3d/python-net/aspose.threed.profiles/profile)
+* class [`SceneObject`](/3d/python-net/aspose.threed/sceneobject)
+* class [`UShape`](/3d/python-net/aspose.threed.profiles/ushape)

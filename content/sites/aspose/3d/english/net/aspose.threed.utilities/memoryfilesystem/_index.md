@@ -35,6 +35,28 @@ public class MemoryFileSystem : FileSystem
 | override [ReadFile](../../aspose.threed.utilities/memoryfilesystem/readfile)(string, IOConfig) | Create a stream for reading dependencies. |
 | override [WriteFile](../../aspose.threed.utilities/memoryfilesystem/writefile)(string, IOConfig) | Create a stream for writing dependencies. |
 
+### Examples
+
+The following code shows how to export file to memory, includes the dependent file by using MemoryFileSystem.
+
+```csharp
+//create a scene with material
+Scene scene = new Scene();
+scene.RootNode.CreateChildNode(new Box()).Material = new LambertMaterial();
+//create a save option and specify the file system, so the dependent file will be written to memory
+var opt = FileFormat.WavefrontOBJ.CreateSaveOptions();
+var mfs = new MemoryFileSystem();
+opt.FileSystem = mfs;
+//obj's material file name is associated with the obj's file name, so we need a explicit name.
+opt.FileName = "test.obj";
+using (var ms = new MemoryStream())
+{
+    scene.Save(ms, opt);
+}
+//the test.obj was written to variable ms, and we can also get the test.mtl file content by
+var materialFile = mfs.GetFileContent("test.mtl");
+```
+
 ### See Also
 
 * class [FileSystem](../filesystem)

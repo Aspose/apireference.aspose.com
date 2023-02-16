@@ -14,9 +14,9 @@ Save options for Google draco files
 
 
 
-**Inheritance:** [DracoSaveOptions](/3d/python-net/aspose.threed.formats/dracosaveoptions) → 
-[SaveOptions](/3d/python-net/aspose.threed.formats/saveoptions) → 
-[IOConfig](/3d/python-net/aspose.threed.formats/ioconfig)
+**Inheritance:** [`DracoSaveOptions`](/3d/python-net/aspose.threed.formats/dracosaveoptions) → 
+[`SaveOptions`](/3d/python-net/aspose.threed.formats/saveoptions) → 
+[`IOConfig`](/3d/python-net/aspose.threed.formats/ioconfig)
 
 
 
@@ -40,13 +40,13 @@ The DracoSaveOptions type exposes the following members:
 | [texture_coordinate_bits](/3d/python-net/aspose.threed.formats/dracosaveoptions/texture_coordinate_bits) | Quantization bits for texture coordinate, default value is 12 |
 | [color_bits](/3d/python-net/aspose.threed.formats/dracosaveoptions/color_bits) | Quantization bits for vertex color, default value is 10 |
 | [normal_bits](/3d/python-net/aspose.threed.formats/dracosaveoptions/normal_bits) | Quantization bits for normal vectors, default value is 10 |
-| [compression_level](/3d/python-net/aspose.threed.formats/dracosaveoptions/compression_level) | Compression level, default value is [DracoCompressionLevel.STANDARD](/3d/python-net/aspose.threed.formats/dracocompressionlevel#STANDARD) |
+| [compression_level](/3d/python-net/aspose.threed.formats/dracosaveoptions/compression_level) | Compression level, default value is [`DracoCompressionLevel.STANDARD`](/3d/python-net/aspose.threed.formats/dracocompressionlevel#STANDARD) |
 | [point_cloud](/3d/python-net/aspose.threed.formats/dracosaveoptions/point_cloud) | Export the scene as point cloud, default value is false. |
 
 
 
 ### See Also
-* module [aspose.threed.formats](..)
-* class [DracoSaveOptions](/3d/python-net/aspose.threed.formats/dracosaveoptions)
-* class [IOConfig](/3d/python-net/aspose.threed.formats/ioconfig)
-* class [SaveOptions](/3d/python-net/aspose.threed.formats/saveoptions)
+* module [`aspose.threed.formats`](..)
+* class [`DracoSaveOptions`](/3d/python-net/aspose.threed.formats/dracosaveoptions)
+* class [`IOConfig`](/3d/python-net/aspose.threed.formats/ioconfig)
+* class [`SaveOptions`](/3d/python-net/aspose.threed.formats/saveoptions)

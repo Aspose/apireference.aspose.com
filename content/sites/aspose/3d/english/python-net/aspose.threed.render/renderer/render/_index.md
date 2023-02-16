@@ -22,10 +22,10 @@ def render(self, render_target):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| render_target | [IRenderTarget](/3d/python-net/aspose.threed.render/irendertarget) |  |
+| render_target | [`IRenderTarget`](/3d/python-net/aspose.threed.render/irendertarget) |  |
 
 
 
 ### See Also
-* module [aspose.threed.render](../../)
-* class [Renderer](/3d/python-net/aspose.threed.render/renderer)
+* module [`aspose.threed.render`](../../)
+* class [`Renderer`](/3d/python-net/aspose.threed.render/renderer)

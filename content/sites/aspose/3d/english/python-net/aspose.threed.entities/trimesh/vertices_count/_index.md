@@ -11,7 +11,7 @@ is_root: false
 ## vertices_count property
 
 
-The count of vertices in this [TriMesh](/3d/python-net/aspose.threed.entities/trimesh)
+The count of vertices in this [`TriMesh`](/3d/python-net/aspose.threed.entities/trimesh)
 ### Definition:
 ```python
 @property
@@ -20,5 +20,5 @@ def vertices_count(self):
 ```
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [TriMesh](/3d/python-net/aspose.threed.entities/trimesh)
+* module [`aspose.threed.entities`](../../)
+* class [`TriMesh`](/3d/python-net/aspose.threed.entities/trimesh)

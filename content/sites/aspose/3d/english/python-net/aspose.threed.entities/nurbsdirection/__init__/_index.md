@@ -24,5 +24,5 @@ def __init__(self):
 
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [NurbsDirection](/3d/python-net/aspose.threed.entities/nurbsdirection)
+* module [`aspose.threed.entities`](../../)
+* class [`NurbsDirection`](/3d/python-net/aspose.threed.entities/nurbsdirection)

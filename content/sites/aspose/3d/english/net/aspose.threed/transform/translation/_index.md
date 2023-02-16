@@ -14,6 +14,13 @@ Gets or sets the translation
 public Vector3 Translation { get; set; }
 ```
 
+### Examples
+
+```csharp
+Node node = new Node();
+node.Transform.Translation = new Vector3(10, 0, 0);
+```
+
 ### See Also
 
 * struct [Vector3](../../../aspose.threed.utilities/vector3)

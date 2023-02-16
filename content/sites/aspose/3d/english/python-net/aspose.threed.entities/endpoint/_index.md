@@ -19,8 +19,8 @@ The EndPoint type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [EndPoint(point)](/3d/python-net/aspose.threed.entities/endpoint/__init__/#aspose.threed.utilities.Vector3) | Construct a [EndPoint](/3d/python-net/aspose.threed.entities/endpoint) from a Cartesian point. |
-| [EndPoint(v)](/3d/python-net/aspose.threed.entities/endpoint/__init__/#float) | Construct a [EndPoint](/3d/python-net/aspose.threed.entities/endpoint) from a real parameter. |
+| [EndPoint(point)](/3d/python-net/aspose.threed.entities/endpoint/__init__/#aspose.threed.utilities.Vector3) | Construct a [`EndPoint`](/3d/python-net/aspose.threed.entities/endpoint) from a Cartesian point. |
+| [EndPoint(v)](/3d/python-net/aspose.threed.entities/endpoint/__init__/#float) | Construct a [`EndPoint`](/3d/python-net/aspose.threed.entities/endpoint) from a real parameter. |
 | [EndPoint()](/3d/python-net/aspose.threed.entities/endpoint/__init__/#) | Constructs a new instance of EndPoint |
 
 
@@ -41,5 +41,5 @@ The EndPoint type exposes the following members:
 
 
 ### See Also
-* module [aspose.threed.entities](..)
-* class [EndPoint](/3d/python-net/aspose.threed.entities/endpoint)
+* module [`aspose.threed.entities`](..)
+* class [`EndPoint`](/3d/python-net/aspose.threed.entities/endpoint)

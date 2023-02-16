@@ -27,7 +27,7 @@ def rotate_from_euler(self, eul):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| eul | [Vector3](/3d/python-net/aspose.threed.utilities/vector3) | Rotation in radian |
+| eul | [`Vector3`](/3d/python-net/aspose.threed.utilities/vector3) | Rotation in radian |
 
 ### Example 
 
@@ -70,5 +70,5 @@ def rotate_from_euler(self, rx, ry, rz):
 
 
 ### See Also
-* module [aspose.threed.utilities](../../)
-* class [Matrix4](/3d/python-net/aspose.threed.utilities/matrix4)
+* module [`aspose.threed.utilities`](../../)
+* class [`Matrix4`](/3d/python-net/aspose.threed.utilities/matrix4)

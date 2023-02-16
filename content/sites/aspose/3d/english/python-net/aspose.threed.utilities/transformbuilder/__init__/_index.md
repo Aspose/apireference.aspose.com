@@ -10,7 +10,7 @@ is_root: false
 
 ## TransformBuilder(order) {#ComposeOrder}
 
-Construct a [TransformBuilder](/3d/python-net/aspose.threed.utilities/transformbuilder) with initial identity transform matrix and specified compose order
+Construct a [`TransformBuilder`](/3d/python-net/aspose.threed.utilities/transformbuilder) with initial identity transform matrix and specified compose order
 
 
 
@@ -22,12 +22,12 @@ def __init__(self, order):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| order | [ComposeOrder](/3d/python-net/aspose.threed.utilities/composeorder) |  |
+| order | [`ComposeOrder`](/3d/python-net/aspose.threed.utilities/composeorder) |  |
 
 
 ## TransformBuilder(initial, order) {#Matrix4-ComposeOrder}
 
-Construct a [TransformBuilder](/3d/python-net/aspose.threed.utilities/transformbuilder) with initial transform matrix and specified compose order
+Construct a [`TransformBuilder`](/3d/python-net/aspose.threed.utilities/transformbuilder) with initial transform matrix and specified compose order
 
 
 
@@ -39,11 +39,11 @@ def __init__(self, initial, order):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| initial | [Matrix4](/3d/python-net/aspose.threed.utilities/matrix4) |  |
-| order | [ComposeOrder](/3d/python-net/aspose.threed.utilities/composeorder) |  |
+| initial | [`Matrix4`](/3d/python-net/aspose.threed.utilities/matrix4) |  |
+| order | [`ComposeOrder`](/3d/python-net/aspose.threed.utilities/composeorder) |  |
 
 
 
 ### See Also
-* module [aspose.threed.utilities](../../)
-* class [TransformBuilder](/3d/python-net/aspose.threed.utilities/transformbuilder)
+* module [`aspose.threed.utilities`](../../)
+* class [`TransformBuilder`](/3d/python-net/aspose.threed.utilities/transformbuilder)

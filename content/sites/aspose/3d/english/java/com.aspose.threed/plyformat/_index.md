@@ -753,7 +753,7 @@ Gets the preferred file format from the file extension name The extension name s
 | extensionName | java.lang.String |  |
 
 **Returns:**
-[FileFormat](../../com.aspose.threed/fileformat)
+[FileFormat](../../com.aspose.threed/fileformat) - Instance of [FileFormat](../../com.aspose.threed/fileformat), otherwise null returned.
 ### getVersion() {#getVersion--}
 ```
 public Version getVersion()

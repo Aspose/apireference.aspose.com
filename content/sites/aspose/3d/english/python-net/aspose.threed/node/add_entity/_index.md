@@ -22,10 +22,10 @@ def add_entity(self, entity):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| entity | [Entity](/3d/python-net/aspose.threed/entity) | The entity to be attached to the node |
+| entity | [`Entity`](/3d/python-net/aspose.threed/entity) | The entity to be attached to the node |
 
 
 
 ### See Also
-* module [aspose.threed](../../)
-* class [Node](/3d/python-net/aspose.threed/node)
+* module [`aspose.threed`](../../)
+* class [`Node`](/3d/python-net/aspose.threed/node)

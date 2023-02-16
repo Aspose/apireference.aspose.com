@@ -63,5 +63,5 @@ def __init__(self, name, radius, height, width_segments, height_segments):
 
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [Dish](/3d/python-net/aspose.threed.entities/dish)
+* module [`aspose.threed.entities`](../../)
+* class [`Dish`](/3d/python-net/aspose.threed.entities/dish)

@@ -36,11 +36,11 @@ def __init__(self, minimum, maximum):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| minimum | [Vector2](/3d/python-net/aspose.threed.utilities/vector2) | The minimum corner |
-| maximum | [Vector2](/3d/python-net/aspose.threed.utilities/vector2) | The maximum corner |
+| minimum | [`Vector2`](/3d/python-net/aspose.threed.utilities/vector2) | The minimum corner |
+| maximum | [`Vector2`](/3d/python-net/aspose.threed.utilities/vector2) | The maximum corner |
 
 
 
 ### See Also
-* module [aspose.threed.utilities](../../)
-* class [BoundingBox2D](/3d/python-net/aspose.threed.utilities/boundingbox2d)
+* module [`aspose.threed.utilities`](../../)
+* class [`BoundingBox2D`](/3d/python-net/aspose.threed.utilities/boundingbox2d)

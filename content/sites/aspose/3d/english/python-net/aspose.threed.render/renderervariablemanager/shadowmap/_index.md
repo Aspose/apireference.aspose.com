@@ -23,6 +23,6 @@ def shadowmap(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.render](../../)
-* class [ITextureUnit](/3d/python-net/aspose.threed.render/itextureunit)
-* class [RendererVariableManager](/3d/python-net/aspose.threed.render/renderervariablemanager)
+* module [`aspose.threed.render`](../../)
+* class [`ITextureUnit`](/3d/python-net/aspose.threed.render/itextureunit)
+* class [`RendererVariableManager`](/3d/python-net/aspose.threed.render/renderervariablemanager)

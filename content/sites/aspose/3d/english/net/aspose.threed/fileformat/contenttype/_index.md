@@ -14,6 +14,16 @@ Gets file format content type
 public FileContentType ContentType { get; }
 ```
 
+### Examples
+
+```csharp
+var format = FileFormat.MayaBinary;
+if (format.ContentType == FileContentType.Binary)
+    Console.WriteLine($"{format} is binary format");
+else
+    Console.WriteLine($"{format} is text-based format");
+```
+
 ### See Also
 
 * enum [FileContentType](../../filecontenttype)

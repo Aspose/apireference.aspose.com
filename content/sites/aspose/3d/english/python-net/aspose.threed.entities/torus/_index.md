@@ -14,11 +14,11 @@ Parameterized torus.
 
 
 
-**Inheritance:** [Torus](/3d/python-net/aspose.threed.entities/torus) → 
-[Primitive](/3d/python-net/aspose.threed.entities/primitive) → 
-[Entity](/3d/python-net/aspose.threed/entity) → 
-[SceneObject](/3d/python-net/aspose.threed/sceneobject) → 
-[A3DObject](/3d/python-net/aspose.threed/a3dobject)
+**Inheritance:** [`Torus`](/3d/python-net/aspose.threed.entities/torus) → 
+[`Primitive`](/3d/python-net/aspose.threed.entities/primitive) → 
+[`Entity`](/3d/python-net/aspose.threed/entity) → 
+[`SceneObject`](/3d/python-net/aspose.threed/sceneobject) → 
+[`A3DObject`](/3d/python-net/aspose.threed/a3dobject)
 
 
 
@@ -27,10 +27,10 @@ The Torus type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [Torus()](/3d/python-net/aspose.threed.entities/torus/__init__/#) | Initializes a new instance of the [Torus](/3d/python-net/aspose.threed.entities/torus) class. |
-| [Torus(radius, tube)](/3d/python-net/aspose.threed.entities/torus/__init__/#float-float) | Initializes a new instance of the [Torus](/3d/python-net/aspose.threed.entities/torus) class. |
-| [Torus(radius, tube, arc)](/3d/python-net/aspose.threed.entities/torus/__init__/#float-float-float) | Initializes a new instance of the [Torus](/3d/python-net/aspose.threed.entities/torus) class. |
-| [Torus(name, radius, tube, radial_segments, tubular_segments, arc)](/3d/python-net/aspose.threed.entities/torus/__init__/#str-float-float-int-int-float) | Initializes a new instance of the [Torus](/3d/python-net/aspose.threed.entities/torus) class. |
+| [Torus()](/3d/python-net/aspose.threed.entities/torus/__init__/#) | Initializes a new instance of the [`Torus`](/3d/python-net/aspose.threed.entities/torus) class. |
+| [Torus(radius, tube)](/3d/python-net/aspose.threed.entities/torus/__init__/#float-float) | Initializes a new instance of the [`Torus`](/3d/python-net/aspose.threed.entities/torus) class. |
+| [Torus(radius, tube, arc)](/3d/python-net/aspose.threed.entities/torus/__init__/#float-float-float) | Initializes a new instance of the [`Torus`](/3d/python-net/aspose.threed.entities/torus) class. |
+| [Torus(name, radius, tube, radial_segments, tubular_segments, arc)](/3d/python-net/aspose.threed.entities/torus/__init__/#str-float-float-int-int-float) | Initializes a new instance of the [`Torus`](/3d/python-net/aspose.threed.entities/torus) class. |
 
 
 ### Properties
@@ -66,9 +66,9 @@ The Torus type exposes the following members:
 
 
 ### See Also
-* module [aspose.threed.entities](..)
-* class [A3DObject](/3d/python-net/aspose.threed/a3dobject)
-* class [Entity](/3d/python-net/aspose.threed/entity)
-* class [Primitive](/3d/python-net/aspose.threed.entities/primitive)
-* class [SceneObject](/3d/python-net/aspose.threed/sceneobject)
-* class [Torus](/3d/python-net/aspose.threed.entities/torus)
+* module [`aspose.threed.entities`](..)
+* class [`A3DObject`](/3d/python-net/aspose.threed/a3dobject)
+* class [`Entity`](/3d/python-net/aspose.threed/entity)
+* class [`Primitive`](/3d/python-net/aspose.threed.entities/primitive)
+* class [`SceneObject`](/3d/python-net/aspose.threed/sceneobject)
+* class [`Torus`](/3d/python-net/aspose.threed.entities/torus)

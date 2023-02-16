@@ -23,10 +23,10 @@ def bind_keyframe_sequence(self, channel_name, sequence):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | channel_name | str | Which channel the keyframe sequence will be bound to |
-| sequence | [KeyframeSequence](/3d/python-net/aspose.threed.animation/keyframesequence) | The keyframe sequence to bind |
+| sequence | [`KeyframeSequence`](/3d/python-net/aspose.threed.animation/keyframesequence) | The keyframe sequence to bind |
 
 
 
 ### See Also
-* module [aspose.threed.animation](../../)
-* class [BindPoint](/3d/python-net/aspose.threed.animation/bindpoint)
+* module [`aspose.threed.animation`](../../)
+* class [`BindPoint`](/3d/python-net/aspose.threed.animation/bindpoint)

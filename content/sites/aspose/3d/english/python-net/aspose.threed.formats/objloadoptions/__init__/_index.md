@@ -10,7 +10,7 @@ is_root: false
 
 ## ObjLoadOptions() {#}
 
-Constructor of [ObjLoadOptions](/3d/python-net/aspose.threed.formats/objloadoptions)
+Constructor of [`ObjLoadOptions`](/3d/python-net/aspose.threed.formats/objloadoptions)
 
 
 
@@ -24,5 +24,5 @@ def __init__(self):
 
 
 ### See Also
-* module [aspose.threed.formats](../../)
-* class [ObjLoadOptions](/3d/python-net/aspose.threed.formats/objloadoptions)
+* module [`aspose.threed.formats`](../../)
+* class [`ObjLoadOptions`](/3d/python-net/aspose.threed.formats/objloadoptions)

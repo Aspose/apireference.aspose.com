@@ -23,5 +23,5 @@ def name(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [VertexElementMaterial](/3d/python-net/aspose.threed.entities/vertexelementmaterial)
+* module [`aspose.threed.entities`](../../)
+* class [`VertexElementMaterial`](/3d/python-net/aspose.threed.entities/vertexelementmaterial)

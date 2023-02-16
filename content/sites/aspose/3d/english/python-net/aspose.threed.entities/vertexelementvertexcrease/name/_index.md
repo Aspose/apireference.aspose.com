@@ -23,5 +23,5 @@ def name(self, value):
 ```
 
 ### See Also
-* module [aspose.threed.entities](../../)
-* class [VertexElementVertexCrease](/3d/python-net/aspose.threed.entities/vertexelementvertexcrease)
+* module [`aspose.threed.entities`](../../)
+* class [`VertexElementVertexCrease`](/3d/python-net/aspose.threed.entities/vertexelementvertexcrease)
