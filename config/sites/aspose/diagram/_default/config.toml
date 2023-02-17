@@ -51,36 +51,42 @@ defaultContentLang = 'en'
     languageCode = "zh"
     flag = "flag-cn"
     weight = 12
+  [languages.ar]
+    contentDir = 'content/sites/aspose/diagram/arabic'
+    languageName = "عربي"
+    languageCode = "ar"
+    flag = "flag-sa"
+    weight = 13
   [languages.fr]
     contentDir = 'content/sites/aspose/diagram/french'
     languageName = "Français"
     languageCode = "fr"
     flag = "flag-fr"
-    weight = 13
+    weight = 14
   [languages.de]
     contentDir = 'content/sites/aspose/diagram/german'
     languageName = "Deutsch"
     languageCode = "de"
     flag = "flag-de"
-    weight = 14
+    weight = 15
   [languages.es]
     contentDir = 'content/sites/aspose/diagram/spanish'
     languageName = "Español"
     languageCode = "es"
     flag = "flag-es"
-    weight = 15
+    weight = 16
   [languages.tr]
     contentDir = 'content/sites/aspose/diagram/turkish'
     languageName = "Türkçe"
     languageCode = "tr"
     flag = "flag-tr"
-    weight = 16
+    weight = 17
   [languages.ja]
     contentDir = 'content/sites/aspose/diagram/japanese'
     languageName = "日本語"
     languageCode = "ja"
     flag = "flag-jp"
-    weight = 17
+    weight = 18
 
 
 disableKinds = ["taxonomy", "taxonomyTerm"]
