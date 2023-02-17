@@ -69,12 +69,18 @@ defaultContentLang = 'en'
     languageCode = "es"
     flag = "flag-es"
     weight = 15
+  [languages.tr]
+    contentDir = 'content/sites/aspose/diagram/turkish'
+    languageName = "Türkçe"
+    languageCode = "tr"
+    flag = "flag-tr"
+    weight = 16
   [languages.ja]
     contentDir = 'content/sites/aspose/diagram/japanese'
     languageName = "日本語"
     languageCode = "ja"
     flag = "flag-jp"
-    weight = 16
+    weight = 17
 
 
 disableKinds = ["taxonomy", "taxonomyTerm"]
