@@ -69,24 +69,36 @@ defaultContentLang = 'en'
     languageCode = "de"
     flag = "flag-de"
     weight = 15
+  [languages.it]
+    contentDir = 'content/sites/aspose/diagram/italian'
+    languageName = "Italiano"
+    languageCode = "it"
+    flag = "flag-it"
+    weight = 16
   [languages.es]
     contentDir = 'content/sites/aspose/diagram/spanish'
     languageName = "Español"
     languageCode = "es"
     flag = "flag-es"
-    weight = 16
+    weight = 17
+  [languages.sv]
+    contentDir = 'content/sites/aspose/diagram/swedish'
+    languageName = "Svenska"
+    languageCode = "sv"
+    flag = "flag-se"
+    weight = 18
   [languages.tr]
     contentDir = 'content/sites/aspose/diagram/turkish'
     languageName = "Türkçe"
     languageCode = "tr"
     flag = "flag-tr"
-    weight = 17
+    weight = 19
   [languages.ja]
     contentDir = 'content/sites/aspose/diagram/japanese'
     languageName = "日本語"
     languageCode = "ja"
     flag = "flag-jp"
-    weight = 18
+    weight = 20
 
 
 disableKinds = ["taxonomy", "taxonomyTerm"]
