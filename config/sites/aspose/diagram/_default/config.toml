@@ -99,7 +99,12 @@ defaultContentLang = 'en'
     languageCode = "ja"
     flag = "flag-jp"
     weight = 20
-
+  [languages.hi]
+    contentDir = 'content/sites/aspose/diagram/indian'
+    languageName = "हिन्दी"
+    languageCode = "hi"
+    flag = "flag-in"
+    weight = 21
 
 disableKinds = ["taxonomy", "taxonomyTerm"]
 ignoreFiles = ["(?i:readme.md)", '\.spin$']
