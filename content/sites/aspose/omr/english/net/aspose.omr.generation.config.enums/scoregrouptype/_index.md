@@ -3,7 +3,7 @@ title: ScoreGroupType
 second_title: Aspose.OMR for .NET API Reference
 description: Type of score Group. Impacts drawing of score group element
 type: docs
-weight: 370
+weight: 400
 url: /net/aspose.omr.generation.config.enums/scoregrouptype/
 ---
 ## ScoreGroupType enumeration

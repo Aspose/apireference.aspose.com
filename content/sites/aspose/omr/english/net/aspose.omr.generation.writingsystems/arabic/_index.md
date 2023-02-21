@@ -3,7 +3,7 @@ title: Arabic
 second_title: Aspose.OMR for .NET API Reference
 description: Arabic Culture preset. RightToLeft and ١٢٣
 type: docs
-weight: 150
+weight: 140
 url: /net/aspose.omr.generation.writingsystems/arabic/
 ---
 ## Arabic class
