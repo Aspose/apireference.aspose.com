@@ -3,7 +3,7 @@ title: ImageSaveOptions
 second_title: Aspose.TeX for .NET API Reference
 description: Basic class representing options of saving to PDF.
 type: docs
-weight: 310
+weight: 380
 url: /net/aspose.tex.presentation.image/imagesaveoptions/
 ---
 ## ImageSaveOptions class

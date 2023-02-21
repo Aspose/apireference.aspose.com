@@ -3,7 +3,7 @@ title: IInteractiveDevice
 second_title: Aspose.TeX for .NET API Reference
 description: The interface defining interactive features processing methods.
 type: docs
-weight: 280
+weight: 350
 url: /net/aspose.tex.presentation/iinteractivedevice/
 ---
 ## IInteractiveDevice interface

@@ -3,7 +3,7 @@ title: BmpSaveOptions
 second_title: Aspose.TeX for .NET API Reference
 description: Class representing options of saving to bitmap image.
 type: docs
-weight: 290
+weight: 360
 url: /net/aspose.tex.presentation.image/bmpsaveoptions/
 ---
 ## BmpSaveOptions class

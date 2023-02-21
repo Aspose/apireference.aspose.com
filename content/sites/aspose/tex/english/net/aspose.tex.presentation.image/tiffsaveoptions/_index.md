@@ -3,7 +3,7 @@ title: TiffSaveOptions
 second_title: Aspose.TeX for .NET API Reference
 description: Class representing options of saving to TIFF image.
 type: docs
-weight: 340
+weight: 410
 url: /net/aspose.tex.presentation.image/tiffsaveoptions/
 ---
 ## TiffSaveOptions class

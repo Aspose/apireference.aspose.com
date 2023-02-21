@@ -3,7 +3,7 @@ title: InputConsoleTerminal
 second_title: Aspose.TeX for .NET API Reference
 description: Provides the console as a terminal input source. Wrapper for In.
 type: docs
-weight: 130
+weight: 200
 url: /net/aspose.tex.io/inputconsoleterminal/
 ---
 ## InputConsoleTerminal class

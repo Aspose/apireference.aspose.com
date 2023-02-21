@@ -3,7 +3,7 @@ title: TextColor
 second_title: Aspose.TeX for .NET API Reference
 description: Gets/sets the formula text color.
 type: docs
-weight: 80
+weight: 20
 url: /net/aspose.tex.features/mathrendereroptions/textcolor/
 ---
 ## MathRendererOptions.TextColor property
