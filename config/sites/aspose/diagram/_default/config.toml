@@ -111,6 +111,12 @@ defaultContentLang = 'en'
     languageCode = "ko"
     flag = "flag-kr"
     weight = 22
+  [languages.el]
+    contentDir = 'content/sites/aspose/diagram/greece'
+    languageName = "  Ελληνικά"
+    languageCode = "el"
+    flag = "flag-gr"
+    weight = 23
 
 disableKinds = ["taxonomy", "taxonomyTerm"]
 ignoreFiles = ["(?i:readme.md)", '\.spin$']
