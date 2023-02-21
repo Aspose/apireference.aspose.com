@@ -3,7 +3,7 @@ title: GlyphData
 second_title: Aspose.TeX for .NET API Reference
 description: Container class for glyph data required for precise typesetting of a text string.
 type: docs
-weight: 260
+weight: 330
 url: /net/aspose.tex.presentation/glyphdata/
 ---
 ## GlyphData class

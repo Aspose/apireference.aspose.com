@@ -3,7 +3,7 @@ title: OutputMemoryTerminal
 second_title: Aspose.TeX for .NET API Reference
 description: Provides a memory stream as a terminal output destination.
 type: docs
-weight: 200
+weight: 270
 url: /net/aspose.tex.io/outputmemoryterminal/
 ---
 ## OutputMemoryTerminal class

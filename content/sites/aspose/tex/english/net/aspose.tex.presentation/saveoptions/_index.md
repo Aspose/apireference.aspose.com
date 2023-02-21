@@ -3,7 +3,7 @@ title: SaveOptions
 second_title: Aspose.TeX for .NET API Reference
 description: Basic class for document saving options.
 type: docs
-weight: 410
+weight: 480
 url: /net/aspose.tex.presentation/saveoptions/
 ---
 ## SaveOptions class

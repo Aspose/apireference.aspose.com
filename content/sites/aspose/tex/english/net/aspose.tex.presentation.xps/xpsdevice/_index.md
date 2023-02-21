@@ -3,7 +3,7 @@ title: XpsDevice
 second_title: Aspose.TeX for .NET API Reference
 description: Implements the interface for outputting text and graphic content to XPS document.
 type: docs
-weight: 440
+weight: 510
 url: /net/aspose.tex.presentation.xps/xpsdevice/
 ---
 ## XpsDevice class

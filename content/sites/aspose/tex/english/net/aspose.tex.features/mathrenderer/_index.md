@@ -3,7 +3,7 @@ title: MathRenderer
 second_title: Aspose.TeX for .NET API Reference
 description: Implements rendering of math formula.
 type: docs
-weight: 20
+weight: 50
 url: /net/aspose.tex.features/mathrenderer/
 ---
 ## MathRenderer class

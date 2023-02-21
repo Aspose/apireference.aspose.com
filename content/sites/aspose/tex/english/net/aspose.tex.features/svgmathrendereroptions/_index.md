@@ -3,7 +3,7 @@ title: SvgMathRendererOptions
 second_title: Aspose.TeX for .NET API Reference
 description: Math formula SVG rendering options.
 type: docs
-weight: 70
+weight: 140
 url: /net/aspose.tex.features/svgmathrendereroptions/
 ---
 ## SvgMathRendererOptions class
@@ -24,12 +24,13 @@ public class SvgMathRendererOptions : MathRendererOptions
 
 | Name | Description |
 | --- | --- |
-| [BackgroundColor](../../aspose.tex.features/mathrendereroptions/backgroundcolor) { get; set; } | Gets/sets the background color. |
-| [ErrorReport](../../aspose.tex.features/mathrendereroptions/errorreport) { get; } | Gets the error report. |
-| [LogStream](../../aspose.tex.features/mathrendereroptions/logstream) { get; set; } | Gets/set the stream to write log output to. |
-| [Preamble](../../aspose.tex.features/mathrendereroptions/preamble) { get; set; } | Gets/sets LaTeX document preamble. |
-| [Scale](../../aspose.tex.features/mathrendereroptions/scale) { get; set; } | Gets/set the scale. 1000 means 100%, 1200 means 120%, etc. |
-| [ShowTerminal](../../aspose.tex.features/mathrendereroptions/showterminal) { get; set; } | The flag that controls terminal output. If |
+| [BackgroundColor](../../aspose.tex.features/figurerendereroptions/backgroundcolor) { get; set; } |  |
+| [ErrorReport](../../aspose.tex.features/figurerendereroptions/errorreport) { get; } |  |
+| [LogStream](../../aspose.tex.features/figurerendereroptions/logstream) { get; set; } |  |
+| [Preamble](../../aspose.tex.features/figurerendereroptions/preamble) { get; set; } |  |
+| [RequiredInputDirectory](../../aspose.tex.features/figurerendereroptions/requiredinputdirectory) { get; set; } |  |
+| [Scale](../../aspose.tex.features/figurerendereroptions/scale) { get; set; } |  |
+| [ShowTerminal](../../aspose.tex.features/figurerendereroptions/showterminal) { get; set; } |  |
 | [TextColor](../../aspose.tex.features/mathrendereroptions/textcolor) { get; set; } | Gets/sets the formula text color. |
 
 ### See Also

@@ -3,7 +3,7 @@ title: XpsSaveOptions
 second_title: Aspose.TeX for .NET API Reference
 description: Class representing options of saving to XPS.
 type: docs
-weight: 450
+weight: 520
 url: /net/aspose.tex.presentation.xps/xpssaveoptions/
 ---
 ## XpsSaveOptions class

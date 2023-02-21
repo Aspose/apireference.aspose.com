@@ -3,7 +3,7 @@ title: OutputConsoleTerminal
 second_title: Aspose.TeX for .NET API Reference
 description: Provides the console as a terminal output destination. Wrapper for Out.
 type: docs
-weight: 170
+weight: 240
 url: /net/aspose.tex.io/outputconsoleterminal/
 ---
 ## OutputConsoleTerminal class

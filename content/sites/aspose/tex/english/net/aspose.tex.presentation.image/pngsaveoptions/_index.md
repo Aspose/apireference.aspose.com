@@ -3,7 +3,7 @@ title: PngSaveOptions
 second_title: Aspose.TeX for .NET API Reference
 description: Class representing options of saving to PNG image.
 type: docs
-weight: 330
+weight: 400
 url: /net/aspose.tex.presentation.image/pngsaveoptions/
 ---
 ## PngSaveOptions class

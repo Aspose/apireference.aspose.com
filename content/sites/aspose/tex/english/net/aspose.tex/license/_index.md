@@ -3,7 +3,7 @@ title: License
 second_title: Aspose.TeX for .NET API Reference
 description: Provides methods to license the component.
 type: docs
-weight: 230
+weight: 300
 url: /net/aspose.tex/license/
 ---
 ## License class

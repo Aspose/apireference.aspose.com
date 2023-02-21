@@ -3,7 +3,7 @@ title: NondisposableMemoryStream
 second_title: Aspose.TeX for .NET API Reference
 description: The class that encapsulates a stream that cannot be disposed by calling the Dispose method whether explicitly or implicitly.
 type: docs
-weight: 160
+weight: 230
 url: /net/aspose.tex.io/nondisposablememorystream/
 ---
 ## NondisposableMemoryStream class

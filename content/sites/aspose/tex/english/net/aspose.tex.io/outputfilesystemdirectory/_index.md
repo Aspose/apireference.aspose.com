@@ -3,7 +3,7 @@ title: OutputFileSystemDirectory
 second_title: Aspose.TeX for .NET API Reference
 description: Implements the regular file systems method for getting a file stream to write to.
 type: docs
-weight: 180
+weight: 250
 url: /net/aspose.tex.io/outputfilesystemdirectory/
 ---
 ## OutputFileSystemDirectory class
