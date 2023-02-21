@@ -117,6 +117,12 @@ defaultContentLang = 'en'
     languageCode = "el"
     flag = "flag-gr"
     weight = 23
+  [languages.id]
+    contentDir = 'content/sites/aspose/diagram/indonesian'
+    languageName = "Indonesian"
+    languageCode = "id"
+    flag = "flag-id"
+    weight = 24
 
 disableKinds = ["taxonomy", "taxonomyTerm"]
 ignoreFiles = ["(?i:readme.md)", '\.spin$']
