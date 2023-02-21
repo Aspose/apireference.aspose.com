@@ -3,7 +3,7 @@ title: OutputConsoleTerminal
 second_title: Aspose.TeX for Java API Reference
 description: Provides the console as a terminal output destination.
 type: docs
-weight: 20
+weight: 22
 url: /java/com.aspose.tex/outputconsoleterminal/
 ---
 **Inheritance:**

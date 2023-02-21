@@ -3,7 +3,7 @@ title: Size2D
 second_title: Aspose.TeX for Java API Reference
 description: The Size2D class describes dimensions w x h.
 type: docs
-weight: 27
+weight: 31
 url: /java/com.aspose.tex/size2d/
 ---
 **Inheritance:**

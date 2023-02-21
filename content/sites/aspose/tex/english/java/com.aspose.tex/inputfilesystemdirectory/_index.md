@@ -3,7 +3,7 @@ title: InputFileSystemDirectory
 second_title: Aspose.TeX for Java API Reference
 description: Implements the regular file systems method for getting a file stream to read from.
 type: docs
-weight: 12
+weight: 14
 url: /java/com.aspose.tex/inputfilesystemdirectory/
 ---
 **Inheritance:**

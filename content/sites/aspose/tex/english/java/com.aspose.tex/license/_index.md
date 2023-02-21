@@ -3,7 +3,7 @@ title: License
 second_title: Aspose.TeX for Java API Reference
 description: Provides methods to license the component.
 type: docs
-weight: 14
+weight: 16
 url: /java/com.aspose.tex/license/
 ---
 **Inheritance:**

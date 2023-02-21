@@ -3,7 +3,7 @@ title: PngMathRenderer
 second_title: Aspose.TeX for Java API Reference
 description: Implements rendering of math formula to PNG.
 type: docs
-weight: 25
+weight: 29
 url: /java/com.aspose.tex/pngmathrenderer/
 ---
 **Inheritance:**

@@ -3,7 +3,7 @@ title: OutputFileSystemDirectory
 second_title: Aspose.TeX for Java API Reference
 description: Implements the regular file systems method for getting a file stream to write to.
 type: docs
-weight: 21
+weight: 23
 url: /java/com.aspose.tex/outputfilesystemdirectory/
 ---
 **Inheritance:**

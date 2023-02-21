@@ -3,7 +3,7 @@ title: MathRenderer
 second_title: Aspose.TeX for Java API Reference
 description: Implements rendering of math formula.
 type: docs
-weight: 15
+weight: 17
 url: /java/com.aspose.tex/mathrenderer/
 ---
 **Inheritance:**
