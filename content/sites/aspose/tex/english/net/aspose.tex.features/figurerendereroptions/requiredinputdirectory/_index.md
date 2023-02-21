@@ -1,12 +1,14 @@
 ---
 title: RequiredInputDirectory
 second_title: Aspose.TeX for .NET API Reference
-description: 
+description: Gets/sets the directory for the required input e.g. packages that are beyond Aspose.TeXs LaTeX support.
 type: docs
 weight: 60
 url: /net/aspose.tex.features/figurerendereroptions/requiredinputdirectory/
 ---
 ## FigureRendererOptions.RequiredInputDirectory property
+
+Gets/sets the directory for the required input, e.g., packages that are beyond Aspose.TeX's LaTeX support.
 
 ```csharp
 public IInputWorkingDirectory RequiredInputDirectory { get; set; }

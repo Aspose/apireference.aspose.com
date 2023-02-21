@@ -1,12 +1,14 @@
 ---
 title: PngFigureRenderer
 second_title: Aspose.TeX for .NET API Reference
-description: 
+description: Implements rendering of some LaTeX compact content supposed to fit one page and then cropping it from the page as a PNG image.
 type: docs
 weight: 70
 url: /net/aspose.tex.features/pngfigurerenderer/
 ---
 ## PngFigureRenderer class
+
+Implements rendering of some LaTeX compact content (supposed to fit one page) and then cropping it from the page as a PNG image.
 
 ```csharp
 public sealed class PngFigureRenderer : FigureRenderer
@@ -16,13 +18,13 @@ public sealed class PngFigureRenderer : FigureRenderer
 
 | Name | Description |
 | --- | --- |
-| [PngFigureRenderer](pngfigurerenderer)() | The default constructor. |
+| [PngFigureRenderer](pngfigurerenderer)() | Creates a new instance. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Render](../../aspose.tex.features/figurerenderer/render)(string, Stream, FigureRendererOptions, out SizeF) |  |
+| [Render](../../aspose.tex.features/figurerenderer/render)(string, Stream, FigureRendererOptions, out SizeF) | Renders some LaTeX code. |
 
 ### See Also
 

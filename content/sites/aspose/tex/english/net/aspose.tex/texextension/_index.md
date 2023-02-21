@@ -18,7 +18,7 @@ public class TeXExtension
 
 | Name | Description |
 | --- | --- |
-| static readonly [ObjectTeX](../../aspose.tex/texextension/objecttex) | ObjectTeX extensions. |
+| static readonly [ObjectTeX](../../aspose.tex/texextension/objecttex) | ObjectTeX extension. |
 
 ### See Also
 

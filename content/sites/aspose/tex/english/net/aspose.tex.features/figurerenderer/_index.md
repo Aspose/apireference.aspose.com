@@ -1,12 +1,14 @@
 ---
 title: FigureRenderer
 second_title: Aspose.TeX for .NET API Reference
-description: 
+description: Implements rendering of some LaTeX compact content supposed to fit one page and then cropping it from the page.
 type: docs
 weight: 20
 url: /net/aspose.tex.features/figurerenderer/
 ---
 ## FigureRenderer class
+
+Implements rendering of some LaTeX compact content (supposed to fit one page) and then cropping it from the page.
 
 ```csharp
 public abstract class FigureRenderer
@@ -16,13 +18,13 @@ public abstract class FigureRenderer
 
 | Name | Description |
 | --- | --- |
-| [FigureRenderer](figurerenderer)() | The default constructor. |
+| [FigureRenderer](figurerenderer)() | Creates a new instance. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Render](../../aspose.tex.features/figurerenderer/render)(string, Stream, FigureRendererOptions, out SizeF) |  |
+| [Render](../../aspose.tex.features/figurerenderer/render)(string, Stream, FigureRendererOptions, out SizeF) | Renders some LaTeX code. |
 
 ### See Also
 

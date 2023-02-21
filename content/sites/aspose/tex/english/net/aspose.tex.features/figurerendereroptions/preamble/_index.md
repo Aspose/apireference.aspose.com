@@ -1,12 +1,14 @@
 ---
 title: Preamble
 second_title: Aspose.TeX for .NET API Reference
-description: 
+description: Gets/sets LaTeX document preamble.
 type: docs
 weight: 50
 url: /net/aspose.tex.features/figurerendereroptions/preamble/
 ---
 ## FigureRendererOptions.Preamble property
+
+Gets/sets LaTeX document preamble.
 
 ```csharp
 public string Preamble { get; set; }

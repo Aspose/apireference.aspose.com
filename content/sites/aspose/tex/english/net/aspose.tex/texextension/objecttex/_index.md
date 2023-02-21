@@ -1,14 +1,14 @@
 ---
 title: ObjectTeX
 second_title: Aspose.TeX for .NET API Reference
-description: ObjectTeX extensions.
+description: ObjectTeX extension.
 type: docs
 weight: 10
 url: /net/aspose.tex/texextension/objecttex/
 ---
 ## TeXExtension.ObjectTeX field
 
-ObjectTeX extensions.
+ObjectTeX extension.
 
 ```csharp
 public static readonly TeXExtension ObjectTeX;

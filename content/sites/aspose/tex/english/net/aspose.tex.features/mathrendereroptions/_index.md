@@ -24,13 +24,13 @@ public class MathRendererOptions : FigureRendererOptions
 
 | Name | Description |
 | --- | --- |
-| [BackgroundColor](../../aspose.tex.features/figurerendereroptions/backgroundcolor) { get; set; } |  |
-| [ErrorReport](../../aspose.tex.features/figurerendereroptions/errorreport) { get; } |  |
-| [LogStream](../../aspose.tex.features/figurerendereroptions/logstream) { get; set; } |  |
-| [Preamble](../../aspose.tex.features/figurerendereroptions/preamble) { get; set; } |  |
-| [RequiredInputDirectory](../../aspose.tex.features/figurerendereroptions/requiredinputdirectory) { get; set; } |  |
-| [Scale](../../aspose.tex.features/figurerendereroptions/scale) { get; set; } |  |
-| [ShowTerminal](../../aspose.tex.features/figurerendereroptions/showterminal) { get; set; } |  |
+| [BackgroundColor](../../aspose.tex.features/figurerendereroptions/backgroundcolor) { get; set; } | Gets/sets the background color. |
+| [ErrorReport](../../aspose.tex.features/figurerendereroptions/errorreport) { get; } | Gets the error report. |
+| [LogStream](../../aspose.tex.features/figurerendereroptions/logstream) { get; set; } | Gets/set the stream to write log output to. |
+| [Preamble](../../aspose.tex.features/figurerendereroptions/preamble) { get; set; } | Gets/sets LaTeX document preamble. |
+| [RequiredInputDirectory](../../aspose.tex.features/figurerendereroptions/requiredinputdirectory) { get; set; } | Gets/sets the directory for the required input, e.g., packages that are beyond Aspose.TeX's LaTeX support. |
+| [Scale](../../aspose.tex.features/figurerendereroptions/scale) { get; set; } | Gets/set the scale. 1000 means 100%, 1200 means 120%, etc. |
+| [ShowTerminal](../../aspose.tex.features/figurerendereroptions/showterminal) { get; set; } | The flag that controls terminal output. If |
 | [TextColor](../../aspose.tex.features/mathrendereroptions/textcolor) { get; set; } | Gets/sets the formula text color. |
 
 ### See Also
