@@ -3,7 +3,7 @@ title: Metered
 second_title: Aspose.TeX for Java API Reference
 description: Provides methods to set metered key.
 type: docs
-weight: 17
+weight: 19
 url: /java/com.aspose.tex/metered/
 ---
 **Inheritance:**

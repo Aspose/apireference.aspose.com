@@ -3,7 +3,7 @@ title: NondisposableInputStream
 second_title: Aspose.TeX for Java API Reference
 description: The class that encapsulates a stream that cannot be closed by calling the InputStream.close method.
 type: docs
-weight: 18
+weight: 20
 url: /java/com.aspose.tex/nondisposableinputstream/
 ---
 **Inheritance:**

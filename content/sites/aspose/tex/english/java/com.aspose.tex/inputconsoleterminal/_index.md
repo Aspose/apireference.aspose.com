@@ -3,7 +3,7 @@ title: InputConsoleTerminal
 second_title: Aspose.TeX for Java API Reference
 description: Provides the console as a terminal input source.
 type: docs
-weight: 11
+weight: 13
 url: /java/com.aspose.tex/inputconsoleterminal/
 ---
 **Inheritance:**

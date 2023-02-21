@@ -3,7 +3,7 @@ title: FormatProvider
 second_title: Aspose.TeX for Java API Reference
 description: Class providing TeX format.
 type: docs
-weight: 10
+weight: 12
 url: /java/com.aspose.tex/formatprovider/
 ---
 **Inheritance:**

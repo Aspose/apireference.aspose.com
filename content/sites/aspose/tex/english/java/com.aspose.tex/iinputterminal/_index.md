@@ -3,7 +3,7 @@ title: IInputTerminal
 second_title: Aspose.TeX for Java API Reference
 description: Interface for abstract input terminal.
 type: docs
-weight: 36
+weight: 42
 url: /java/com.aspose.tex/iinputterminal/
 ---```
 public interface IInputTerminal

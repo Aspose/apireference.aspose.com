@@ -3,7 +3,7 @@ title: NondisposableOutputStream
 second_title: Aspose.TeX for Java API Reference
 description: The class that encapsulates a stream that cannot be closed by calling the OutputStream.close method.
 type: docs
-weight: 19
+weight: 21
 url: /java/com.aspose.tex/nondisposableoutputstream/
 ---
 **Inheritance:**

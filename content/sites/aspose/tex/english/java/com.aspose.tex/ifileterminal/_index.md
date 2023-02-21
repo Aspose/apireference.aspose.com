@@ -3,7 +3,7 @@ title: IFileTerminal
 second_title: Aspose.TeX for Java API Reference
 description: Interface of terminals which actually are files.
 type: docs
-weight: 35
+weight: 41
 url: /java/com.aspose.tex/ifileterminal/
 ---```
 public interface IFileTerminal

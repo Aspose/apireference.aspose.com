@@ -3,7 +3,7 @@ title: Interaction
 second_title: Aspose.TeX for Java API Reference
 description: Represents increasing amounts of user interaction.
 type: docs
-weight: 40
+weight: 47
 url: /java/com.aspose.tex/interaction/
 ---
 **Inheritance:**
