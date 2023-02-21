@@ -3,7 +3,7 @@ title: Directionality
 second_title: Aspose.OMR for .NET API Reference
 description: Direction of drawing elements and text.
 type: docs
-weight: 320
+weight: 350
 url: /net/aspose.omr.generation.config.enums/directionality/
 ---
 ## Directionality enumeration

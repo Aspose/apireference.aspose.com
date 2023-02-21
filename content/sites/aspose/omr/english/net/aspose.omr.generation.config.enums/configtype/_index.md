@@ -3,7 +3,7 @@ title: ConfigType
 second_title: Aspose.OMR for .NET API Reference
 description: Type of Omr Element
 type: docs
-weight: 290
+weight: 320
 url: /net/aspose.omr.generation.config.enums/configtype/
 ---
 ## ConfigType enumeration
@@ -35,15 +35,15 @@ public enum ConfigType
 | Question | `15` | [`QuestionConfig`](../../aspose.omr.generation.config.elements.table/questionconfig) |
 | TableTitle | `16` | [`TableTitleConfig`](../../aspose.omr.generation.config.elements.table/tabletitleconfig) |
 | Content | `17` | [`ContentConfig`](../../aspose.omr.generation.config.elements/contentconfig) |
-| Column | `177` | Alias. Content |
+| Column | `177` | Alias. [`ContentConfig`](../../aspose.omr.generation.config.elements/contentconfig) |
 | TableAnswer | `18` | [`TableAnswerConfig`](../../aspose.omr.generation.config.elements.table/tableanswerconfig) |
 | TableHeader | `19` | [`TableHeaderConfig`](../../aspose.omr.generation.config.elements.table/tableheaderconfig) |
-| Header | `199` | Alias. TableHeader |
+| Header | `199` | Alias. [`TableHeaderConfig`](../../aspose.omr.generation.config.elements.table/tableheaderconfig) |
 | Answer | `20` | [`AnswerConfig`](../../aspose.omr.generation.config.elements.parents/answerconfig) |
 | VerticalChoiceBox | `21` | [`VerticalChoiceBoxConfig`](../../aspose.omr.generation.config.elements.parents/verticalchoiceboxconfig) |
 | InputGroup | `22` | [`InputGroup`](../../aspose.omr.generation.config.elements/inputgroup) |
-| CustomAnswerSheet | `23` | !:Elements.Parents.CustomAnswerSheetConfig |
-| CustomRow | `24` | !:Elements.Parents.CustomRowConfig |
+| CustomAnswerSheet | `23` | [`CustomAnswerSheetConfig`](../../aspose.omr.generation.config.elements.customanswersheet/customanswersheetconfig) |
+| CustomRow | `24` | [`CustomRowConfig`](../../aspose.omr.generation.config.elements.customanswersheet/customrowconfig) |
 | BubbleArray | `200` | [`BubbleArrayConfig`](../../aspose.omr.generation.config.elements.customanswersheet/bubblearrayconfig) |
 | ScoreGroup | `201` | [`ScoreGroupConfig`](../../aspose.omr.generation.config.elements.scoregroup/scoregroupconfig) |
 | ScoreQuestion | `202` | [`ScoreQuestionConfig`](../../aspose.omr.generation.config.elements.scoregroup/scorequestionconfig) |
