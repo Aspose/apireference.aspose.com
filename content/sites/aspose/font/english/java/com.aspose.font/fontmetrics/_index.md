@@ -35,7 +35,6 @@ Represents font metrics.
 | [getFontMatrix()](#getFontMatrix--) | Gets FontMatrix value. |
 | [getUnitsPerEM()](#getUnitsPerEM--) | Gets UnitsPerEM value. |
 | [setUnitsPerEM(long value)](#setUnitsPerEM-long-) | Sets UnitsPerEM value. |
-| [getKerningValue(GlyphId prevGlyphId, GlyphId nextGlyphId)](#getKerningValue-com.aspose.font.GlyphId-com.aspose.font.GlyphId-) | Returns kerning value for the glyph pair. |
 | [getAscender(double fontSize)](#getAscender-double-) | Returns ascender for specific Font size. |
 | [getDescender(double fontSize)](#getDescender-double-) | Returns descender for specific Font size. |
 | [getTypoDescender(double fontSize)](#getTypoDescender-double-) | Returns typographic descender for specific font size |
@@ -43,6 +42,7 @@ Represents font metrics.
 | [getTypoLineGap(double fontSize)](#getTypoLineGap-double-) | Returns line gap for specific Font size. |
 | [getGlyphWidth(GlyphId glyphId)](#getGlyphWidth-com.aspose.font.GlyphId-) | Returns glyph width. |
 | [getGlyphBBox(GlyphId glyphId)](#getGlyphBBox-com.aspose.font.GlyphId-) | Returns glyph Bbox. |
+| [getKerningValue(GlyphId prevGlyphId, GlyphId nextGlyphId)](#getKerningValue-com.aspose.font.GlyphId-com.aspose.font.GlyphId-) | Returns kerning value for the glyph pair. |
 | [measureString(String unicode, double fontSize)](#measureString-java.lang.String-double-) | Measures string and returns string width. |
 ### getAscender() {#getAscender--}
 ```
@@ -209,22 +209,6 @@ Sets UnitsPerEM value.
 | --- | --- | --- |
 | value | long | UnitsPerEM value. |
 
-### getKerningValue(GlyphId prevGlyphId, GlyphId nextGlyphId) {#getKerningValue-com.aspose.font.GlyphId-com.aspose.font.GlyphId-}
-```
-public double getKerningValue(GlyphId prevGlyphId, GlyphId nextGlyphId)
-```
-
-
-Returns kerning value for the glyph pair.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| prevGlyphId | [GlyphId](../../com.aspose.font/glyphid) | First glyph in pair. |
-| nextGlyphId | [GlyphId](../../com.aspose.font/glyphid) | Font size. |
-
-**Returns:**
-double - Kerning value.
 ### getAscender(double fontSize) {#getAscender-double-}
 ```
 public double getAscender(double fontSize)
@@ -332,6 +316,22 @@ Returns glyph Bbox. Returns FontBBox if BBox was not defined for the glyph. May 
 
 **Returns:**
 [FontBBox](../../com.aspose.font/fontbbox) - Glyph BBox.
+### getKerningValue(GlyphId prevGlyphId, GlyphId nextGlyphId) {#getKerningValue-com.aspose.font.GlyphId-com.aspose.font.GlyphId-}
+```
+public double getKerningValue(GlyphId prevGlyphId, GlyphId nextGlyphId)
+```
+
+
+Returns kerning value for the glyph pair.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| prevGlyphId | [GlyphId](../../com.aspose.font/glyphid) | First glyph in pair. |
+| nextGlyphId | [GlyphId](../../com.aspose.font/glyphid) | Font size. |
+
+**Returns:**
+double - Kerning value.
 ### measureString(String unicode, double fontSize) {#measureString-java.lang.String-double-}
 ```
 public abstract double measureString(String unicode, double fontSize)

@@ -22,6 +22,7 @@ Represents multi language string.
 
 | Method | Description |
 | --- | --- |
+| [isEmpty()](#isEmpty--) | True, if MultiLanguageString don't have strings of languages. |
 | [addLanguageString(String str, int languageId)](#addLanguageString-java.lang.String-int-) | Adds string of specific language |
 | [containsString(String str)](#containsString-java.lang.String-) | Returns true if the string is present inside all the language strings. |
 | [getAllStrings()](#getAllStrings--) | Returns all strings of all languages. |
@@ -42,6 +43,16 @@ public MultiLanguageString()
 
 Creates empty multi language string.
 
+### isEmpty() {#isEmpty--}
+```
+public boolean isEmpty()
+```
+
+
+True, if MultiLanguageString don't have strings of languages.
+
+**Returns:**
+boolean - True, if MultiLanguageString don't have strings of languages.
 ### addLanguageString(String str, int languageId) {#addLanguageString-java.lang.String-int-}
 ```
 public void addLanguageString(String str, int languageId)
