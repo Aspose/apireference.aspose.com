@@ -1,7 +1,7 @@
 ---
 title: NameRecord
 second_title: Aspose.Font for Java API Reference
-description: 
+description: Represents NameRecord structure of the name table
 type: docs
 weight: 53
 url: /java/com.aspose.font/namerecord/
@@ -11,6 +11,8 @@ java.lang.Object
 ```
 public class NameRecord
 ```
+
+Represents NameRecord structure of the 'name' table
 ## Constructors
 
 | Constructor | Description |

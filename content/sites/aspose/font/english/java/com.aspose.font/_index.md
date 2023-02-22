@@ -57,7 +57,7 @@ The **com.aspose.font** is a root package for all classes that deal with fonts.
 | [Metered](../com.aspose.font/metered) | Provides methods to set metered key. |
 | [MoveTo](../com.aspose.font/moveto) | Represents MoveTo operation. |
 | [MultiLanguageString](../com.aspose.font/multilanguagestring) | Represents multi language string. |
-| [NameRecord](../com.aspose.font/namerecord) |  |
+| [NameRecord](../com.aspose.font/namerecord) | Represents NameRecord structure of the 'name' table |
 | [NameToCodeMap](../com.aspose.font/nametocodemap) | Represents name to code map. |
 | [PathSegmentCollection](../com.aspose.font/pathsegmentcollection) | Represents a path segments collection. |
 | [SegmentPath](../com.aspose.font/segmentpath) | Represents rendering path. |
