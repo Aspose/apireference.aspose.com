@@ -104,6 +104,12 @@ defaultContentLang = 'en'
     languageCode = "hi"
     flag = "flag-in"
     weight = 21
+  [languages.ko]
+    contentDir = 'content/sites/aspose/tasks/korean'
+    languageName = " 한국인"
+    languageCode = "ko"
+    flag = "flag-kr"
+    weight = 22
 
 
 disableKinds = ["taxonomy", "taxonomyTerm"]
