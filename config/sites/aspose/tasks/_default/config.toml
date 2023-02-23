@@ -98,6 +98,12 @@ defaultContentLang = 'en'
     languageCode = "ja"
     flag = "flag-jp"
     weight = 20
+  [languages.hi]
+    contentDir = 'content/sites/aspose/tasks/indian'
+    languageName = "हिन्दी"
+    languageCode = "hi"
+    flag = "flag-in"
+    weight = 21
 
 
 disableKinds = ["taxonomy", "taxonomyTerm"]
