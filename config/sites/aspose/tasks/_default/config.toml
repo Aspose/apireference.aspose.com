@@ -116,6 +116,12 @@ defaultContentLang = 'en'
     languageCode = "el"
     flag = "flag-gr"
     weight = 23
+  [languages.id]
+    contentDir = 'content/sites/aspose/tasks/indonesian'
+    languageName = "Indonesian"
+    languageCode = "id"
+    flag = "flag-id"
+    weight = 24
 
 
 disableKinds = ["taxonomy", "taxonomyTerm"]
