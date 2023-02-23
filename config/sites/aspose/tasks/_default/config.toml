@@ -110,6 +110,12 @@ defaultContentLang = 'en'
     languageCode = "ko"
     flag = "flag-kr"
     weight = 22
+  [languages.el]
+    contentDir = 'content/sites/aspose/tasks/greece'
+    languageName = "  Ελληνικά"
+    languageCode = "el"
+    flag = "flag-gr"
+    weight = 23
 
 
 disableKinds = ["taxonomy", "taxonomyTerm"]
