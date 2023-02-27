@@ -92,6 +92,42 @@ defaultContentLang = 'en'
     languageCode = "tr"
     flag = "flag-tr"
     weight = 19
+  [languages.ja]
+    contentDir = 'content/sites/aspose/tasks/japanese'
+    languageName = "日本語"
+    languageCode = "ja"
+    flag = "flag-jp"
+    weight = 20
+  [languages.hi]
+    contentDir = 'content/sites/aspose/tasks/indian'
+    languageName = "हिन्दी"
+    languageCode = "hi"
+    flag = "flag-in"
+    weight = 21
+  [languages.ko]
+    contentDir = 'content/sites/aspose/tasks/korean'
+    languageName = " 한국인"
+    languageCode = "ko"
+    flag = "flag-kr"
+    weight = 22
+  [languages.el]
+    contentDir = 'content/sites/aspose/tasks/greece'
+    languageName = "  Ελληνικά"
+    languageCode = "el"
+    flag = "flag-gr"
+    weight = 23
+  [languages.id]
+    contentDir = 'content/sites/aspose/tasks/indonesian'
+    languageName = "Indonesian"
+    languageCode = "id"
+    flag = "flag-id"
+    weight = 24
+  [languages.nl]
+    contentDir = 'content/sites/aspose/tasks/netherlands'
+    languageName = "Nederlands"
+    languageCode = "nl"
+    flag = "flag-nl"
+    weight = 25
 
 
 disableKinds = ["taxonomy", "taxonomyTerm"]
