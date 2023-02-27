@@ -93,7 +93,18 @@ defaultContentLang = 'en'
     languageCode = "tr"
     flag = "flag-tr"
     weight = 19
-
+  [languages.ja]
+    contentDir = 'content/sites/aspose/ocr/japanese'
+    languageName = "日本語"
+    languageCode = "ja"
+    flag = "flag-jp"
+    weight = 20
+  [languages.hi]
+    contentDir = 'content/sites/aspose/ocr/indian'
+    languageName = "हिन्दी"
+    languageCode = "hi"
+    flag = "flag-in"
+    weight = 21
 
 
 disableKinds = ["taxonomy", "taxonomyTerm"]
