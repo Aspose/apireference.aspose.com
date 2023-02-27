@@ -1,9 +1,9 @@
 ---
-title: RecognitionResult
+title: Class RecognitionResult
 second_title: Aspose.OCR für .NET-API-Referenz
-description: Die Ergebnisse der Bilderkennung. Enthält Elemente mit Erkennungsinformationen und Methoden für den Ergebnisexport.
+description: Aspose.OCR.RecognitionResult klas. Die Ergebnisse der Bilderkennung. Enthält Elemente mit Erkennungsinformationen und Methoden für den Ergebnisexport.
 type: docs
-weight: 110
+weight: 220
 url: /de/net/aspose.ocr/recognitionresult/
 ---
 ## RecognitionResult class
@@ -18,35 +18,36 @@ public class RecognitionResult
 
 | Name | Beschreibung |
 | --- | --- |
-| [RecognitionAreasRectangles](../../aspose.ocr/recognitionresult/recognitionareasrectangles) { get; } | Ruft Rechteckkoordinaten ab. |
-| [RecognitionAreasText](../../aspose.ocr/recognitionresult/recognitionareastext) { get; } | Ruft Listenerkennungsergebnisse einer Liste von Bereichen (Rechtecke) ab. |
-| [RecognitionCharactersList](../../aspose.ocr/recognitionresult/recognitioncharacterslist) { get; } | Eine Reihe von Zeichen, die vom Erkennungsalgorithmus gefunden und in absteigender Reihenfolge der Wahrscheinlichkeit angeordnet sind. |
-| [RecognitionLinesResult](../../aspose.ocr/recognitionresult/recognitionlinesresult) { get; } | Ruft eine Liste der Erkennungsergebnisse mit einer Liste von Zeilen (Rechtecke) ab. |
-| [RecognitionText](../../aspose.ocr/recognitionresult/recognitiontext) { get; } | Ruft das Erkennungsergebnis in einer Zeichenfolge ab. |
-| [Skew](../../aspose.ocr/recognitionresult/skew) { get; } | Ruft den Neigungswinkel ab. |
-| [Warnings](../../aspose.ocr/recognitionresult/warnings) { get; } | Ruft eine Liste der Warnmeldungen ab, die nicht kritische Fehler beschreiben, die während der Generierung aufgetreten sind. |
+| [Image](../../aspose.ocr/recognitionresult/image/) { get; set; } | Ruft Bild für die PDF-Erstellung ab oder legt es fest. |
+| [RecognitionAreasRectangles](../../aspose.ocr/recognitionresult/recognitionareasrectangles/) { get; } | Ruft Rechteckkoordinaten ab. |
+| [RecognitionAreasText](../../aspose.ocr/recognitionresult/recognitionareastext/) { get; } | Ruft Listenerkennungsergebnisse einer Liste von Bereichen (Rechtecke) ab. |
+| [RecognitionCharactersList](../../aspose.ocr/recognitionresult/recognitioncharacterslist/) { get; } | Eine Reihe von Zeichen, die vom Erkennungsalgorithmus gefunden und in absteigender Reihenfolge der Wahrscheinlichkeit angeordnet sind. |
+| [RecognitionLinesResult](../../aspose.ocr/recognitionresult/recognitionlinesresult/) { get; } | Ruft eine Liste der Erkennungsergebnisse mit einer Liste von Zeilen (Rechtecke) ab. |
+| [RecognitionText](../../aspose.ocr/recognitionresult/recognitiontext/) { get; } | Ruft das Erkennungsergebnis in einer Zeichenfolge ab. |
+| [Skew](../../aspose.ocr/recognitionresult/skew/) { get; } | Ruft den Neigungswinkel ab. |
+| [Warnings](../../aspose.ocr/recognitionresult/warnings/) { get; } | Ruft eine Liste der Warnmeldungen ab, die nicht kritische Fehler beschreiben, die während der Generierung aufgetreten sind. |
 
 ## Methoden
 
 | Name | Beschreibung |
 | --- | --- |
-| [GetJson](../../aspose.ocr/recognitionresult/getjson)(bool) | JSON-Zeichenfolge mit Erkennungsergebnissen bilden. |
-| [GetSpellCheckCorrectedText](../../aspose.ocr/recognitionresult/getspellcheckcorrectedtext)(SpellCheckLanguage, string) | Korrigiert Text (ersetzt falsch geschriebene Wörter). |
-| [GetSpellCheckErrorList](../../aspose.ocr/recognitionresult/getspellcheckerrorlist)(SpellCheckLanguage, string) | Finden Sie die falsch geschriebenen Wörter mit vorgeschlagenen Schreibweisen für einen bestimmten Eingabetext. |
-| [GetXml](../../aspose.ocr/recognitionresult/getxml)() | Formular-XML-String mit Erkennungsergebnissen. |
-| [Save](../../aspose.ocr/recognitionresult/save#save)(MemoryStream, SaveFormat, bool, SpellCheckLanguage, string) | Speichert das Dokument als einfaches Text-, PDF- oder Microsoft Word-Dokument. |
-| [Save](../../aspose.ocr/recognitionresult/save#save_1)(string, SaveFormat, bool, SpellCheckLanguage, string) | Speichert das Dokument als einfaches Text-, PDF- oder Microsoft Word-Dokument. |
-| [operator +](../../aspose.ocr/recognitionresult/op_addition) | Um das vollständige Ergebnis aus erkannten Fragmenten (Linien) zu vervollständigen. |
+| [GetJson](../../aspose.ocr/recognitionresult/getjson/)(bool) | JSON-Zeichenfolge mit Erkennungsergebnissen bilden. |
+| [GetSpellCheckCorrectedText](../../aspose.ocr/recognitionresult/getspellcheckcorrectedtext/)(SpellCheckLanguage, string) | Korrigiert Text (ersetzt falsch geschriebene Wörter). |
+| [GetSpellCheckErrorList](../../aspose.ocr/recognitionresult/getspellcheckerrorlist/)(SpellCheckLanguage, string) | Finden Sie die falsch geschriebenen Wörter mit vorgeschlagenen Schreibweisen für einen bestimmten Eingabetext. |
+| [GetXml](../../aspose.ocr/recognitionresult/getxml/)() | Formular-XML-String mit Erkennungsergebnissen. |
+| [Save](../../aspose.ocr/recognitionresult/save/#save)(MemoryStream, SaveFormat, bool, SpellCheckLanguage, string) | Speichert das Dokument als einfaches Text-, PDF- oder Microsoft Word-Dokument. |
+| [Save](../../aspose.ocr/recognitionresult/save/#save_1)(string, SaveFormat, bool, SpellCheckLanguage, string) | Speichert das Dokument als einfaches Text-, PDF- oder Microsoft Word-Dokument. |
+| [operator +](../../aspose.ocr/recognitionresult/op_addition/) | Um das vollständige Ergebnis aus erkannten Fragmenten (Linien) zu vervollständigen. |
 
 ## Andere Mitglieder
 
 | Name | Beschreibung |
 | --- | --- |
-| class [LinesResult](recognitionresult.linesresult) | Erkannter Text aus Zeile mit Zeilenkoordinaten. |
+| class [LinesResult](recognitionresult.linesresult/) | Erkannter Text aus Zeile mit Zeilenkoordinaten. |
 
 ### Siehe auch
 
-* namensraum [Aspose.OCR](../../aspose.ocr)
+* namensraum [Aspose.OCR](../../aspose.ocr/)
 * Montage [Aspose.OCR](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.OCR.dll -->
+

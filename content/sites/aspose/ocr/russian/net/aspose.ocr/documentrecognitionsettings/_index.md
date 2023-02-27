@@ -1,9 +1,9 @@
 ---
-title: DocumentRecognitionSettings
+title: Class DocumentRecognitionSettings
 second_title: Справочник по Aspose.OCR для .NET API
-description: Настройки для распознавания pdf. Содержит элементы позволяющие настроить процесс распознавания.
+description: Aspose.OCR.DocumentRecognitionSettings сорт. Настройки для распознавания pdf. Содержит элементы позволяющие настроить процесс распознавания.
 type: docs
-weight: 50
+weight: 70
 url: /ru/net/aspose.ocr/documentrecognitionsettings/
 ---
 ## DocumentRecognitionSettings class
@@ -11,37 +11,40 @@ url: /ru/net/aspose.ocr/documentrecognitionsettings/
 Настройки для распознавания pdf. Содержит элементы, позволяющие настроить процесс распознавания.
 
 ```csharp
-public class DocumentRecognitionSettings
+public class DocumentRecognitionSettings : BaseRecognitionSettings
 ```
 
 ## Конструкторы
 
 | Имя | Описание |
 | --- | --- |
-| [DocumentRecognitionSettings](documentrecognitionsettings#constructor)(int, int) | Инициализирует новый экземпляр[`DocumentRecognitionSettings`](../documentrecognitionsettings) класс с коротким набором свойств. |
-| [DocumentRecognitionSettings](documentrecognitionsettings#constructor_1)(int, int, Language, bool, bool, int) | Инициализирует новый экземпляр[`DocumentRecognitionSettings`](../documentrecognitionsettings) класс с полным набором свойств. |
+| [DocumentRecognitionSettings](documentrecognitionsettings/#constructor)(int, int) | Инициализирует новый экземпляр`DocumentRecognitionSettings` класс с коротким набором свойств. |
+| [DocumentRecognitionSettings](documentrecognitionsettings/#constructor_1)(int, int, Language, bool, bool, int) | Инициализирует новый экземпляр`DocumentRecognitionSettings`класс с полным набором свойств. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [Allowed](../../aspose.ocr/documentrecognitionsettings/allowed) { get; set; } | Установлены допустимые символы. Определяет тип символов, разрешенных для результата распознавания. |
-| [AutoContrast](../../aspose.ocr/documentrecognitionsettings/autocontrast) { get; set; } | Позволяет использовать дополнительный алгоритм коррекции контраста изображения перед распознаванием. |
-| [AutoDenoising](../../aspose.ocr/documentrecognitionsettings/autodenoising) { get; set; } | Позволяет использовать дополнительную нейронную сеть для улучшения изображения — уменьшения шума. Полезно для изображений с артефактами сканирования, искажениями, пятнами, бликами, градиентами, посторонними элементами. |
-| [AutoSkew](../../aspose.ocr/documentrecognitionsettings/autoskew) { set; } | Получает или задает флаг, указывающий, следует ли включить автоматическую коррекцию перекоса изображения. Включено (true) по умолчанию. |
-| [DetectAreas](../../aspose.ocr/documentrecognitionsettings/detectareas) { set; } | Получает или задает флаг, указывающий, следует ли включить автоматическое обнаружение текстовых областей.  Включает модуль распознавания структуры документа. Это требует больше времени и памяти для обработки изображения, , но обеспечивает более точные результаты в сложных случаях. Отключите (установите значение false) для более быстрой обработки изображения или в случае изображений с простой структурой. |
-| [DetectAreasMode](../../aspose.ocr/documentrecognitionsettings/detectareasmode) { get; set; } | Позволяет выбрать оптимальный режим для областей типа документа: документ, фотография, обычный текст, столбец, изображение. |
-| [IgnoredCharacters](../../aspose.ocr/documentrecognitionsettings/ignoredcharacters) { get; set; } | Устанавливает черный список для символов распознавания. |
-| [Language](../../aspose.ocr/documentrecognitionsettings/language) { set; } | Получает или задает язык, используемый для OCR.  Определяет алфавит, используемый при распознавании. Многоязычный по умолчанию. |
-| [LinesFiltration](../../aspose.ocr/documentrecognitionsettings/linesfiltration) { get; set; } | Позволяет распознавать текст в таблицах (области, окруженные строками). |
-| [PagesNumber](../../aspose.ocr/documentrecognitionsettings/pagesnumber) { get; set; } | Установить количество страниц для распознавания многостраничного файла pdf. |
-| [StartPage](../../aspose.ocr/documentrecognitionsettings/startpage) { get; set; } | Установить первую страницу для распознавания. |
-| [ThreadsCount](../../aspose.ocr/documentrecognitionsettings/threadscount) { set; } | Получает или задает количество потоков для обработки. По умолчанию 0 означает, что изображение будет обрабатываться количеством потоков, равным количеству ваших процессоров. ThreadsCount = 1 означает, что изображение будет обрабатываться в основном потоке. |
-| [ThresholdValue](../../aspose.ocr/documentrecognitionsettings/thresholdvalue) { set; } | Получает или задает пользовательское пороговое значение для бинаризации изображения. Диапазон значений от 1 до 255. |
+| [AllowedCharacters](../../aspose.ocr/baserecognitionsettings/allowedcharacters/) { get; set; } | Установлены допустимые символы. Определяет тип символов, разрешенных для результата распознавания. |
+| [AutoContrast](../../aspose.ocr/baserecognitionsettings/autocontrast/) { get; set; } | Позволяет использовать дополнительный алгоритм коррекции контраста изображения перед распознаванием. |
+| [AutoDenoising](../../aspose.ocr/baserecognitionsettings/autodenoising/) { get; set; } | Позволяет использовать дополнительную нейронную сеть для улучшения изображения — уменьшения шума. Полезно для изображений с артефактами сканирования, искажениями, пятнами, бликами, градиентами, посторонними элементами. |
+| [AutoSkew](../../aspose.ocr/baserecognitionsettings/autoskew/) { set; } | Получает или задает флаг, указывающий, следует ли включить автоматическую коррекцию перекоса изображения. Включено (true) по умолчанию. |
+| [DetectAreasMode](../../aspose.ocr/baserecognitionsettings/detectareasmode/) { get; set; } | Позволяет выбрать оптимальный режим для областей типа документа: документ, фотография, обычный текст, столбец, изображение. |
+| [IgnoredCharacters](../../aspose.ocr/baserecognitionsettings/ignoredcharacters/) { get; set; } | Устанавливает черный список для символов распознавания. |
+| [Language](../../aspose.ocr/baserecognitionsettings/language/) { set; } | Получает или задает язык, используемый для OCR.  Определяет алфавит, используемый при распознавании. Многоязычный по умолчанию. |
+| [LinesFiltration](../../aspose.ocr/baserecognitionsettings/linesfiltration/) { get; set; } | Позволяет распознавать текст в таблицах (области, окруженные строками). |
+| [PagesNumber](../../aspose.ocr/documentrecognitionsettings/pagesnumber/) { get; set; } | Установить количество страниц для распознавания многостраничного файла pdf. |
+| [PreprocessingFilters](../../aspose.ocr/baserecognitionsettings/preprocessingfilters/) { get; set; } | Позволяет подготовить изображение к распознаванию путем настройки методов предварительной обработки. |
+| [SkewAngle](../../aspose.ocr/baserecognitionsettings/skewangle/) { set; } | Получает или задает угол поворота изображения в градусах.  Установка этого значения отключит[`AutoSkew`](../baserecognitionsettings/autoskew/) свойство, чтобы автоматическая коррекция перекоса не применялась. По умолчанию ноль. |
+| [StartPage](../../aspose.ocr/documentrecognitionsettings/startpage/) { get; set; } | Установить первую страницу для распознавания. |
+| [ThreadsCount](../../aspose.ocr/baserecognitionsettings/threadscount/) { set; } | Получает или задает количество потоков для обработки. По умолчанию 0 означает, что изображение будет обрабатываться количеством потоков, равным количеству ваших процессоров. ThreadsCount = 1 означает, что изображение будет обрабатываться в основном потоке. |
+| [ThresholdValue](../../aspose.ocr/baserecognitionsettings/thresholdvalue/) { set; } | Получает или задает пользовательское пороговое значение для бинаризации изображения. Диапазон значений от 1 до 255. |
+| [UpscaleSmallFont](../../aspose.ocr/baserecognitionsettings/upscalesmallfont/) { get; set; } | Позволяет использовать дополнительные алгоритмы специально для распознавания мелкого шрифта. Полезно для изображений с символами небольшого размера. |
 
 ### Смотрите также
 
-* пространство имен [Aspose.OCR](../../aspose.ocr)
+* class [BaseRecognitionSettings](../baserecognitionsettings/)
+* пространство имен [Aspose.OCR](../../aspose.ocr/)
 * сборка [Aspose.OCR](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.OCR.dll -->
+

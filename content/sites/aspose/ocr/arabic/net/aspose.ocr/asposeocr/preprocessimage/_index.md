@@ -1,14 +1,14 @@
 ---
-title: PreprocessImage
+title: AsposeOcr.PreprocessImage
 second_title: Aspose.OCR لمرجع .NET API
-description: استخدم المعالجة المسبقة للصور لتحسين دقة OCR. قم بإنشاء قائمة بالفلاتر التي سيتم تطبيقها على صورة الإدخال بالترتيب الذي تحدده. مثال لإنشاء عوامل التصفية PreprocessingFilter filter  new PreprocessingFilter  PreprocessingFilter.  تصفية المعالجة المسبقة. الحد الفاصل 150 PreprocessingFilter.Binarize  PreprocessingFilter.Rotate 180 PreprocessingFilter.Resize 30003000 Asprose.OCR.FilterFilters.Inarize  PreprocessingFilter.Dilate   أنت لست بحاجة إلى كل منهم. قم بتعيين ما تحتاجه فقط.
+description: AsposeOcr طريقة. استخدم المعالجة المسبقة للصور لتحسين دقة التعرف الضوئي على الحروف . أنشئ قائمة بالفلاتر التي سيتم تطبيقها على صورة الإدخال بالترتيب الذي تحدده. مثال لإنشاء عوامل التصفية PreprocessingFilter filter  new PreprocessingFilter  PreprocessingFilter.  تصفية المعالجة المسبقة. الحد الفاصل 150 PreprocessingFilter.Binarize  PreprocessingFilter.Rotate 180 PreprocessingFilter.Resize 30003000 Asprose.OCR.FilterFilters.Inarize  PreprocessingFilter.Dilate   أنت لست بحاجة إلى كل منهم. قم بتعيين ما تحتاجه فقط.
 type: docs
-weight: 60
+weight: 100
 url: /ar/net/aspose.ocr/asposeocr/preprocessimage/
 ---
 ## PreprocessImage(string, PreprocessingFilter) {#preprocessimage_1}
 
-استخدم المعالجة المسبقة للصور لتحسين دقة OCR. قم بإنشاء قائمة بالفلاتر التي سيتم تطبيقها على صورة الإدخال بالترتيب الذي تحدده. مثال لإنشاء عوامل التصفية: PreprocessingFilter filter = new PreprocessingFilter { PreprocessingFilter. ، تصفية المعالجة المسبقة. الحد الفاصل (150)، PreprocessingFilter.Binarize ()، PreprocessingFilter.Rotate (180)، PreprocessingFilter.Resize (3000،3000، Asprose.OCR.FilterFilters.Inarize) )، PreprocessingFilter.Dilate () }؛ أنت لست بحاجة إلى كل منهم. قم بتعيين ما تحتاجه فقط.
+استخدم المعالجة المسبقة للصور لتحسين دقة التعرف الضوئي على الحروف . أنشئ قائمة بالفلاتر التي سيتم تطبيقها على صورة الإدخال بالترتيب الذي تحدده. مثال لإنشاء عوامل التصفية: PreprocessingFilter filter = new PreprocessingFilter { PreprocessingFilter. ، تصفية المعالجة المسبقة. الحد الفاصل (150)، PreprocessingFilter.Binarize ()، PreprocessingFilter.Rotate (180)، PreprocessingFilter.Resize (3000،3000، Asprose.OCR.FilterFilters.Inarize) )، PreprocessingFilter.Dilate () }؛ أنت لست بحاجة إلى كل منهم. قم بتعيين ما تحتاجه فقط.
 
 ```csharp
 public MemoryStream PreprocessImage(string fullPath, PreprocessingFilter filters)
@@ -17,7 +17,7 @@ public MemoryStream PreprocessImage(string fullPath, PreprocessingFilter filters
 | معامل | يكتب | وصف |
 | --- | --- | --- |
 | fullPath | String | المسار الكامل للصورة. |
-| filters | PreprocessingFilter | مرشحات تحسين الصورة[`PreprocessingFilter`](../../../aspose.ocr.models.preprocessingfilters/preprocessingfilter). |
+| filters | PreprocessingFilter | مرشحات تحسين الصورة[`PreprocessingFilter`](../../../aspose.ocr.models.preprocessingfilters/preprocessingfilter/). |
 
 ### قيمة الإرجاع
 
@@ -25,16 +25,16 @@ public MemoryStream PreprocessImage(string fullPath, PreprocessingFilter filters
 
 ### أنظر أيضا
 
-* class [PreprocessingFilter](../../../aspose.ocr.models.preprocessingfilters/preprocessingfilter)
-* class [AsposeOcr](../../asposeocr)
-* مساحة الاسم [Aspose.OCR](../../asposeocr)
+* class [PreprocessingFilter](../../../aspose.ocr.models.preprocessingfilters/preprocessingfilter/)
+* class [AsposeOcr](../)
+* مساحة الاسم [Aspose.OCR](../../asposeocr/)
 * المجسم [Aspose.OCR](../../../)
 
 ---
 
 ## PreprocessImage(MemoryStream, PreprocessingFilter) {#preprocessimage}
 
-استخدم المعالجة المسبقة للصور لتحسين دقة OCR. قم بإنشاء قائمة بالفلاتر التي سيتم تطبيقها على صورة الإدخال بالترتيب الذي تحدده. مثال لإنشاء عوامل التصفية: PreprocessingFilter filter = new PreprocessingFilter { PreprocessingFilter. ، تصفية المعالجة المسبقة. الحد الفاصل (150)، PreprocessingFilter.Binarize ()، PreprocessingFilter.Rotate (180)، PreprocessingFilter.Resize (3000،3000، Asprose.OCR.FilterFilters.Inarize) )، PreprocessingFilter.Dilate () }؛ أنت لست بحاجة إلى كل منهم. قم بتعيين ما تحتاجه فقط.
+استخدم المعالجة المسبقة للصور لتحسين دقة التعرف الضوئي على الحروف . أنشئ قائمة بالفلاتر التي سيتم تطبيقها على صورة الإدخال بالترتيب الذي تحدده. مثال لإنشاء عوامل التصفية: PreprocessingFilter filter = new PreprocessingFilter { PreprocessingFilter. ، تصفية المعالجة المسبقة. الحد الفاصل (150)، PreprocessingFilter.Binarize ()، PreprocessingFilter.Rotate (180)، PreprocessingFilter.Resize (3000،3000، Asprose.OCR.FilterFilters.Inarize) )، PreprocessingFilter.Dilate () }؛ أنت لست بحاجة إلى كل منهم. قم بتعيين ما تحتاجه فقط.
 
 ```csharp
 public MemoryStream PreprocessImage(MemoryStream stream, PreprocessingFilter filters)
@@ -43,7 +43,7 @@ public MemoryStream PreprocessImage(MemoryStream stream, PreprocessingFilter fil
 | معامل | يكتب | وصف |
 | --- | --- | --- |
 | stream | MemoryStream | تيار الذاكرة الذي يحتوي على الصورة. |
-| filters | PreprocessingFilter | مرشحات تحسين الصورة[`PreprocessingFilter`](../../../aspose.ocr.models.preprocessingfilters/preprocessingfilter). |
+| filters | PreprocessingFilter | مرشحات تحسين الصورة[`PreprocessingFilter`](../../../aspose.ocr.models.preprocessingfilters/preprocessingfilter/). |
 
 ### قيمة الإرجاع
 
@@ -51,9 +51,9 @@ public MemoryStream PreprocessImage(MemoryStream stream, PreprocessingFilter fil
 
 ### أنظر أيضا
 
-* class [PreprocessingFilter](../../../aspose.ocr.models.preprocessingfilters/preprocessingfilter)
-* class [AsposeOcr](../../asposeocr)
-* مساحة الاسم [Aspose.OCR](../../asposeocr)
+* class [PreprocessingFilter](../../../aspose.ocr.models.preprocessingfilters/preprocessingfilter/)
+* class [AsposeOcr](../)
+* مساحة الاسم [Aspose.OCR](../../asposeocr/)
 * المجسم [Aspose.OCR](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.OCR.dll -->
+

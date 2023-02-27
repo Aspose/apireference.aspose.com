@@ -1,17 +1,18 @@
 ---
-title: RecognizeMultipleImages
+title: AsposeOcr.RecognizeMultipleImages
 second_title: Referencia de API de Aspose.OCR para .NET
-description: Reconoce varias imágenes de la lista.  No se admiten archivos ni carpetas. La cantidad máxima de imágenes procesadas es 20. Admite GIF PNG JPEG BMP TIFF.
+description: AsposeOcr método. Reconoce varias imágenes de la lista.  No se admiten archivos ni carpetas. La cantidad máxima de imágenes procesadas es 20. Admite GIF PNG JPEG BMP TIFF JFIF.
 type: docs
-weight: 120
+weight: 200
 url: /es/net/aspose.ocr/asposeocr/recognizemultipleimages/
 ---
 ## RecognizeMultipleImages(List&lt;string&gt;, RecognitionSettings) {#recognizemultipleimages_1}
 
-Reconoce varias imágenes de la lista.  No se admiten archivos ni carpetas. La cantidad máxima de imágenes procesadas es 20. Admite GIF, PNG, JPEG, BMP, TIFF.
+Reconoce varias imágenes de la lista.  No se admiten archivos ni carpetas. La cantidad máxima de imágenes procesadas es 20. Admite GIF, PNG, JPEG, BMP, TIFF, JFIF.
 
 ```csharp
-public RecognitionResult[] RecognizeMultipleImages(List<string> files, RecognitionSettings settings)
+public List<RecognitionResult> RecognizeMultipleImages(List<string> files, 
+    RecognitionSettings settings)
 ```
 
 | Parámetro | Escribe | Descripción |
@@ -21,24 +22,24 @@ public RecognitionResult[] RecognizeMultipleImages(List<string> files, Recogniti
 
 ### Valor_devuelto
 
-Gama de[`RecognitionResult`](../../recognitionresult) objetos con resultados de reconocimiento para cada imagen procesada.
+Gama de[`RecognitionResult`](../../recognitionresult/) objetos con resultados de reconocimiento para cada imagen procesada.
 
 ### Ver también
 
-* class [RecognitionResult](../../recognitionresult)
-* class [RecognitionSettings](../../recognitionsettings)
-* class [AsposeOcr](../../asposeocr)
-* espacio de nombres [Aspose.OCR](../../asposeocr)
+* class [RecognitionResult](../../recognitionresult/)
+* class [RecognitionSettings](../../recognitionsettings/)
+* class [AsposeOcr](../)
+* espacio de nombres [Aspose.OCR](../../asposeocr/)
 * asamblea [Aspose.OCR](../../../)
 
 ---
 
 ## RecognizeMultipleImages(List&lt;string&gt;) {#recognizemultipleimages}
 
-Reconoce varias imágenes de la lista con la configuración predeterminada.  No se admiten archivos ni carpetas. La cantidad máxima de imágenes procesadas es 20. Admite GIF, PNG, JPEG, BMP, TIFF.
+Reconoce varias imágenes de la lista con la configuración predeterminada.  No se admiten archivos ni carpetas. La cantidad máxima de imágenes procesadas es 20. Admite GIF, PNG, JPEG, BMP, TIFF, JFIF.
 
 ```csharp
-public RecognitionResult[] RecognizeMultipleImages(List<string> files)
+public List<RecognitionResult> RecognizeMultipleImages(List<string> files)
 ```
 
 | Parámetro | Escribe | Descripción |
@@ -47,23 +48,23 @@ public RecognitionResult[] RecognizeMultipleImages(List<string> files)
 
 ### Valor_devuelto
 
-Gama de[`RecognitionResult`](../../recognitionresult) objetos con resultados de reconocimiento para cada imagen procesada.
+Gama de[`RecognitionResult`](../../recognitionresult/) objetos con resultados de reconocimiento para cada imagen procesada.
 
 ### Ver también
 
-* class [RecognitionResult](../../recognitionresult)
-* class [AsposeOcr](../../asposeocr)
-* espacio de nombres [Aspose.OCR](../../asposeocr)
+* class [RecognitionResult](../../recognitionresult/)
+* class [AsposeOcr](../)
+* espacio de nombres [Aspose.OCR](../../asposeocr/)
 * asamblea [Aspose.OCR](../../../)
 
 ---
 
 ## RecognizeMultipleImages(string, RecognitionSettings) {#recognizemultipleimages_3}
 
-Reconoce varias imágenes empaquetadas en un archivo ZIP o desde una carpeta.  Los archivos y carpetas anidados no son compatibles. La cantidad máxima de imágenes procesadas es 20. Admite GIF, PNG, JPEG, BMP, TIFF.
+Reconoce varias imágenes empaquetadas en un archivo ZIP o desde una carpeta.  Los archivos y carpetas anidados no son compatibles. La cantidad máxima de imágenes procesadas es 20. Admite GIF, PNG, JPEG, BMP, TIFF, JFIF.
 
 ```csharp
-public RecognitionResult[] RecognizeMultipleImages(string path, RecognitionSettings settings)
+public List<RecognitionResult> RecognizeMultipleImages(string path, RecognitionSettings settings)
 ```
 
 | Parámetro | Escribe | Descripción |
@@ -73,24 +74,24 @@ public RecognitionResult[] RecognizeMultipleImages(string path, RecognitionSetti
 
 ### Valor_devuelto
 
-Gama de[`RecognitionResult`](../../recognitionresult) objetos con resultados de reconocimiento para cada imagen procesada.
+Gama de[`RecognitionResult`](../../recognitionresult/) objetos con resultados de reconocimiento para cada imagen procesada.
 
 ### Ver también
 
-* class [RecognitionResult](../../recognitionresult)
-* class [RecognitionSettings](../../recognitionsettings)
-* class [AsposeOcr](../../asposeocr)
-* espacio de nombres [Aspose.OCR](../../asposeocr)
+* class [RecognitionResult](../../recognitionresult/)
+* class [RecognitionSettings](../../recognitionsettings/)
+* class [AsposeOcr](../)
+* espacio de nombres [Aspose.OCR](../../asposeocr/)
 * asamblea [Aspose.OCR](../../../)
 
 ---
 
 ## RecognizeMultipleImages(string) {#recognizemultipleimages_2}
 
-Reconoce varias imágenes empaquetadas en un archivo ZIP o desde una carpeta con la configuración predeterminada.  Los archivos y carpetas anidados no son compatibles. La cantidad máxima de imágenes procesadas es 20. Admite GIF, PNG, JPEG, BMP, TIFF.
+Reconoce varias imágenes empaquetadas en un archivo ZIP o desde una carpeta con la configuración predeterminada.  Los archivos y carpetas anidados no son compatibles. La cantidad máxima de imágenes procesadas es 20. Admite GIF, PNG, JPEG, BMP, TIFF, JFIF.
 
 ```csharp
-public RecognitionResult[] RecognizeMultipleImages(string path)
+public List<RecognitionResult> RecognizeMultipleImages(string path)
 ```
 
 | Parámetro | Escribe | Descripción |
@@ -99,13 +100,13 @@ public RecognitionResult[] RecognizeMultipleImages(string path)
 
 ### Valor_devuelto
 
-Gama de[`RecognitionResult`](../../recognitionresult) objetos con resultados de reconocimiento para cada imagen procesada.
+Gama de[`RecognitionResult`](../../recognitionresult/) objetos con resultados de reconocimiento para cada imagen procesada.
 
 ### Ver también
 
-* class [RecognitionResult](../../recognitionresult)
-* class [AsposeOcr](../../asposeocr)
-* espacio de nombres [Aspose.OCR](../../asposeocr)
+* class [RecognitionResult](../../recognitionresult/)
+* class [AsposeOcr](../)
+* espacio de nombres [Aspose.OCR](../../asposeocr/)
 * asamblea [Aspose.OCR](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.OCR.dll -->
+

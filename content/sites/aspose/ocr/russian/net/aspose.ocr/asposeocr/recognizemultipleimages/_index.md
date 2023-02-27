@@ -1,17 +1,18 @@
 ---
-title: RecognizeMultipleImages
+title: AsposeOcr.RecognizeMultipleImages
 second_title: Справочник по Aspose.OCR для .NET API
-description: Распознает несколько изображений из списка.  Архивы и папки не поддерживаются. Максимальное количество обрабатываемых изображений 20. Поддерживает GIF PNG JPEG BMP TIFF.
+description: AsposeOcr метод. Распознает несколько изображений из списка.  Архивы и папки не поддерживаются. Максимальное количество обрабатываемых изображений 20. Поддерживает GIF PNG JPEG BMP TIFF JFIF.
 type: docs
-weight: 120
+weight: 200
 url: /ru/net/aspose.ocr/asposeocr/recognizemultipleimages/
 ---
 ## RecognizeMultipleImages(List&lt;string&gt;, RecognitionSettings) {#recognizemultipleimages_1}
 
-Распознает несколько изображений из списка.  Архивы и папки не поддерживаются. Максимальное количество обрабатываемых изображений 20. Поддерживает GIF, PNG, JPEG, BMP, TIFF.
+Распознает несколько изображений из списка.  Архивы и папки не поддерживаются. Максимальное количество обрабатываемых изображений 20. Поддерживает GIF, PNG, JPEG, BMP, TIFF, JFIF.
 
 ```csharp
-public RecognitionResult[] RecognizeMultipleImages(List<string> files, RecognitionSettings settings)
+public List<RecognitionResult> RecognizeMultipleImages(List<string> files, 
+    RecognitionSettings settings)
 ```
 
 | Параметр | Тип | Описание |
@@ -21,24 +22,24 @@ public RecognitionResult[] RecognizeMultipleImages(List<string> files, Recogniti
 
 ### Возвращаемое значение
 
-Массив[`RecognitionResult`](../../recognitionresult) объекты с результатами распознавания для каждого обработанного изображения.
+Массив[`RecognitionResult`](../../recognitionresult/) объекты с результатами распознавания для каждого обработанного изображения.
 
 ### Смотрите также
 
-* class [RecognitionResult](../../recognitionresult)
-* class [RecognitionSettings](../../recognitionsettings)
-* class [AsposeOcr](../../asposeocr)
-* пространство имен [Aspose.OCR](../../asposeocr)
+* class [RecognitionResult](../../recognitionresult/)
+* class [RecognitionSettings](../../recognitionsettings/)
+* class [AsposeOcr](../)
+* пространство имен [Aspose.OCR](../../asposeocr/)
 * сборка [Aspose.OCR](../../../)
 
 ---
 
 ## RecognizeMultipleImages(List&lt;string&gt;) {#recognizemultipleimages}
 
-Распознает несколько изображений из списка с настройками по умолчанию.  Архивы и папки не поддерживаются. Максимальное количество обрабатываемых изображений 20. Поддерживает GIF, PNG, JPEG, BMP, TIFF.
+Распознает несколько изображений из списка с настройками по умолчанию.  Архивы и папки не поддерживаются. Максимальное количество обрабатываемых изображений 20. Поддерживает GIF, PNG, JPEG, BMP, TIFF, JFIF.
 
 ```csharp
-public RecognitionResult[] RecognizeMultipleImages(List<string> files)
+public List<RecognitionResult> RecognizeMultipleImages(List<string> files)
 ```
 
 | Параметр | Тип | Описание |
@@ -47,23 +48,23 @@ public RecognitionResult[] RecognizeMultipleImages(List<string> files)
 
 ### Возвращаемое значение
 
-Массив[`RecognitionResult`](../../recognitionresult) объекты с результатами распознавания для каждого обработанного изображения.
+Массив[`RecognitionResult`](../../recognitionresult/) объекты с результатами распознавания для каждого обработанного изображения.
 
 ### Смотрите также
 
-* class [RecognitionResult](../../recognitionresult)
-* class [AsposeOcr](../../asposeocr)
-* пространство имен [Aspose.OCR](../../asposeocr)
+* class [RecognitionResult](../../recognitionresult/)
+* class [AsposeOcr](../)
+* пространство имен [Aspose.OCR](../../asposeocr/)
 * сборка [Aspose.OCR](../../../)
 
 ---
 
 ## RecognizeMultipleImages(string, RecognitionSettings) {#recognizemultipleimages_3}
 
-Распознает несколько изображений, упакованных в ZIP-архив или из папки.  Вложенные архивы и папки не поддерживаются. Максимальное количество обрабатываемых изображений 20. Поддерживает GIF, PNG, JPEG, BMP, TIFF.
+Распознает несколько изображений, упакованных в ZIP-архив или из папки.  Вложенные архивы и папки не поддерживаются. Максимальное количество обрабатываемых изображений 20. Поддерживает GIF, PNG, JPEG, BMP, TIFF, JFIF.
 
 ```csharp
-public RecognitionResult[] RecognizeMultipleImages(string path, RecognitionSettings settings)
+public List<RecognitionResult> RecognizeMultipleImages(string path, RecognitionSettings settings)
 ```
 
 | Параметр | Тип | Описание |
@@ -73,24 +74,24 @@ public RecognitionResult[] RecognizeMultipleImages(string path, RecognitionSetti
 
 ### Возвращаемое значение
 
-Массив[`RecognitionResult`](../../recognitionresult) объекты с результатами распознавания для каждого обработанного изображения.
+Массив[`RecognitionResult`](../../recognitionresult/) объекты с результатами распознавания для каждого обработанного изображения.
 
 ### Смотрите также
 
-* class [RecognitionResult](../../recognitionresult)
-* class [RecognitionSettings](../../recognitionsettings)
-* class [AsposeOcr](../../asposeocr)
-* пространство имен [Aspose.OCR](../../asposeocr)
+* class [RecognitionResult](../../recognitionresult/)
+* class [RecognitionSettings](../../recognitionsettings/)
+* class [AsposeOcr](../)
+* пространство имен [Aspose.OCR](../../asposeocr/)
 * сборка [Aspose.OCR](../../../)
 
 ---
 
 ## RecognizeMultipleImages(string) {#recognizemultipleimages_2}
 
-Распознает несколько изображений, упакованных в ZIP-архив или из папки с настройками по умолчанию.  Вложенные архивы и папки не поддерживаются. Максимальное количество обрабатываемых изображений 20. Поддерживает GIF, PNG, JPEG, BMP, TIFF.
+Распознает несколько изображений, упакованных в ZIP-архив или из папки с настройками по умолчанию.  Вложенные архивы и папки не поддерживаются. Максимальное количество обрабатываемых изображений 20. Поддерживает GIF, PNG, JPEG, BMP, TIFF, JFIF.
 
 ```csharp
-public RecognitionResult[] RecognizeMultipleImages(string path)
+public List<RecognitionResult> RecognizeMultipleImages(string path)
 ```
 
 | Параметр | Тип | Описание |
@@ -99,13 +100,13 @@ public RecognitionResult[] RecognizeMultipleImages(string path)
 
 ### Возвращаемое значение
 
-Массив[`RecognitionResult`](../../recognitionresult) объекты с результатами распознавания для каждого обработанного изображения.
+Массив[`RecognitionResult`](../../recognitionresult/) объекты с результатами распознавания для каждого обработанного изображения.
 
 ### Смотрите также
 
-* class [RecognitionResult](../../recognitionresult)
-* class [AsposeOcr](../../asposeocr)
-* пространство имен [Aspose.OCR](../../asposeocr)
+* class [RecognitionResult](../../recognitionresult/)
+* class [AsposeOcr](../)
+* пространство имен [Aspose.OCR](../../asposeocr/)
 * сборка [Aspose.OCR](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.OCR.dll -->
+

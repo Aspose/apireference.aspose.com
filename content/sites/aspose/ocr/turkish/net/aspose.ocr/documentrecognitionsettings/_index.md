@@ -1,47 +1,50 @@
 ---
-title: DocumentRecognitionSettings
+title: Class DocumentRecognitionSettings
 second_title: Aspose.OCR for .NET API Referansı
-description: PDF tanıma ayarları. Tanıma sürecinin özelleştirilmesine izin veren öğeleri içerir.
+description: Aspose.OCR.DocumentRecognitionSettings sınıf. PDF tanıma ayarları. Tanıma işleminin özelleştirilmesine izin veren öğeler içerir.
 type: docs
-weight: 50
+weight: 70
 url: /tr/net/aspose.ocr/documentrecognitionsettings/
 ---
 ## DocumentRecognitionSettings class
 
-PDF tanıma ayarları. Tanıma sürecinin özelleştirilmesine izin veren öğeleri içerir.
+PDF tanıma ayarları. Tanıma işleminin özelleştirilmesine izin veren öğeler içerir.
 
 ```csharp
-public class DocumentRecognitionSettings
+public class DocumentRecognitionSettings : BaseRecognitionSettings
 ```
 
 ## yapıcılar
 
 | İsim | Tanım |
 | --- | --- |
-| [DocumentRecognitionSettings](documentrecognitionsettings#constructor)(int, int) | Yeni bir örneğini başlatır[`DocumentRecognitionSettings`](../documentrecognitionsettings) kısa özelliklere sahip sınıf. |
-| [DocumentRecognitionSettings](documentrecognitionsettings#constructor_1)(int, int, Language, bool, bool, int) | Yeni bir örneğini başlatır[`DocumentRecognitionSettings`](../documentrecognitionsettings) tüm özelliklere sahip sınıf. |
+| [DocumentRecognitionSettings](documentrecognitionsettings/#constructor)(int, int) | Yeni bir örneğini başlatır.`DocumentRecognitionSettings` kısa özellik kümesine sahip sınıf. |
+| [DocumentRecognitionSettings](documentrecognitionsettings/#constructor_1)(int, int, Language, bool, bool, int) | Yeni bir örneğini başlatır.`DocumentRecognitionSettings`tam özelliklere sahip sınıf. |
 
 ## Özellikleri
 
 | İsim | Tanım |
 | --- | --- |
-| [Allowed](../../aspose.ocr/documentrecognitionsettings/allowed) { get; set; } | İzin verilen karakter kümesi. Tanıma sonucu için izin verilen karakter türünü belirler. |
-| [AutoContrast](../../aspose.ocr/documentrecognitionsettings/autocontrast) { get; set; } | Tanımadan önce görüntü için ek bir kontrast düzeltme algoritması kullanılmasına izin verir. |
-| [AutoDenoising](../../aspose.ocr/documentrecognitionsettings/autodenoising) { get; set; } | Görüntüyü iyileştirmek - paraziti azaltmak için ek bir sinir ağının kullanılmasını sağlar. Tarama yapaylıkları, bozulma, noktalar, parlamalar, gradyanlar, yabancı öğeler içeren görüntüler için kullanışlıdır. |
-| [AutoSkew](../../aspose.ocr/documentrecognitionsettings/autoskew) { set; } | Otomatik görüntü eğriliği düzeltmenin etkinleştirilip etkinleştirilmeyeceğini belirten bir bayrak alır veya ayarlar. Varsayılan olarak Etkin (true). |
-| [DetectAreas](../../aspose.ocr/documentrecognitionsettings/detectareas) { set; } | Otomatik metin alanları algılamanın etkinleştirilip etkinleştirilmeyeceğini belirten bir bayrak alır veya ayarlar.  Belge Yapısı Tanıma modülünü etkinleştirir. Bu, bir görüntüyü işlemek için daha fazla zaman ve bellek gerektirir, ancak karmaşık durumlarda daha doğru sonuçlar sağlar. Daha hızlı görüntü işleme için veya basit yapıya sahip görüntüler için Devre Dışı Bırak (yanlış olarak ayarlayın). |
-| [DetectAreasMode](../../aspose.ocr/documentrecognitionsettings/detectareasmode) { get; set; } | Belge türü alanları için en uygun modun seçilmesini sağlar: belge, fotoğraf, düz metin, sütun, resim. |
-| [IgnoredCharacters](../../aspose.ocr/documentrecognitionsettings/ignoredcharacters) { get; set; } | Tanıma sembolleri için kara liste ayarlar. |
-| [Language](../../aspose.ocr/documentrecognitionsettings/language) { set; } | OCR için kullanılan dili alır veya ayarlar.  Tanıma sırasında kullanılan alfabeyi belirler. Varsayılan olarak çoklu dil. |
-| [LinesFiltration](../../aspose.ocr/documentrecognitionsettings/linesfiltration) { get; set; } | Tablolardaki metnin tanınmasına izin verir (çizgilerle çevrili bölgeler). |
-| [PagesNumber](../../aspose.ocr/documentrecognitionsettings/pagesnumber) { get; set; } | Çok sayfalı tanıma pdf dosyası için sayfa sayısını ayarlayın. |
-| [StartPage](../../aspose.ocr/documentrecognitionsettings/startpage) { get; set; } | Tanıma için ilk sayfayı ayarlayın. |
-| [ThreadsCount](../../aspose.ocr/documentrecognitionsettings/threadscount) { set; } | İşlenecek iş parçacığı sayısını alır veya ayarlar. Varsayılan olarak 0, görüntünün işlemci sayınıza eşit sayıda iş parçacığıyla işleneceği anlamına gelir. ThreadsCount = 1, görüntünün ana iş parçacığında işleneceği anlamına gelir. |
-| [ThresholdValue](../../aspose.ocr/documentrecognitionsettings/thresholdvalue) { set; } | Görüntü ikilileştirme için özel eşik değeri alır veya ayarlar. 1 ile 255 arasında aralık. |
+| [AllowedCharacters](../../aspose.ocr/baserecognitionsettings/allowedcharacters/) { get; set; } | İzin verilen karakterler ayarlandı. Tanıma sonucu için izin verilen karakterlerin türünü belirler. |
+| [AutoContrast](../../aspose.ocr/baserecognitionsettings/autocontrast/) { get; set; } | Tanıma öncesinde görüntü için ek bir kontrast düzeltme algoritması kullanılmasına izin verir. |
+| [AutoDenoising](../../aspose.ocr/baserecognitionsettings/autodenoising/) { get; set; } | Görüntüyü iyileştirmek için ek bir sinir ağının kullanılmasını sağlar - gürültüyü azaltır. Tarama yapaylıkları, bozulma, noktalar, parlamalar, gradyanlar, yabancı öğeler içeren görüntüler için kullanışlıdır. |
+| [AutoSkew](../../aspose.ocr/baserecognitionsettings/autoskew/) { set; } | Otomatik görüntü eğim düzeltmesinin etkinleştirilip etkinleştirilmeyeceğini belirten bir bayrak alır veya ayarlar. Varsayılan olarak etkindir (doğru). |
+| [DetectAreasMode](../../aspose.ocr/baserecognitionsettings/detectareasmode/) { get; set; } | Belge türü alanları için en uygun modun seçilmesine izin verir: belge, fotoğraf, düz metin, sütun, resim. |
+| [IgnoredCharacters](../../aspose.ocr/baserecognitionsettings/ignoredcharacters/) { get; set; } | Tanıma sembolleri için kara liste ayarlar. |
+| [Language](../../aspose.ocr/baserecognitionsettings/language/) { set; } | OCR için kullanılan dili alır veya ayarlar.  Tanıma sırasında kullanılan alfabeyi belirler. Varsayılan olarak çoklu dil. |
+| [LinesFiltration](../../aspose.ocr/baserecognitionsettings/linesfiltration/) { get; set; } | Tablolardaki metni tanımaya izin verir (çizgilerle çevrili bölgeler). |
+| [PagesNumber](../../aspose.ocr/documentrecognitionsettings/pagesnumber/) { get; set; } | Çok sayfalı pdf dosyasının tanınması için sayfa sayısını ayarlayın. |
+| [PreprocessingFilters](../../aspose.ocr/baserecognitionsettings/preprocessingfilters/) { get; set; } | Ön işleme yöntemlerini ayarlayarak görüntüyü OCR için hazırlamayı sağlar. |
+| [SkewAngle](../../aspose.ocr/baserecognitionsettings/skewangle/) { set; } | Görüntü döndürme için açıyı derece cinsinden alır veya ayarlar.  Bu değerin ayarlanması,[`AutoSkew`](../baserecognitionsettings/autoskew/) otomatik eğim düzeltmesi uygulanmaz. Varsayılan olarak sıfır. |
+| [StartPage](../../aspose.ocr/documentrecognitionsettings/startpage/) { get; set; } | Tanıma için ilk sayfayı ayarlayın. |
+| [ThreadsCount](../../aspose.ocr/baserecognitionsettings/threadscount/) { set; } | İşlenecek iş parçacığı sayısını alır veya ayarlar. Varsayılan olarak 0, görüntünün işlemci sayınıza eşit sayıda iş parçacığı ile işleneceği anlamına gelir. ThreadsCount = 1, görüntünün ana iş parçacığında işleneceği anlamına gelir. |
+| [ThresholdValue](../../aspose.ocr/baserecognitionsettings/thresholdvalue/) { set; } | Görüntü ikilileştirme için özel eşik değeri alır veya ayarlar. 1 ile 255 arasında değişir. |
+| [UpscaleSmallFont](../../aspose.ocr/baserecognitionsettings/upscalesmallfont/) { get; set; } | Özellikle küçük yazı tipi tanıma için ek algoritmalar kullanmanıza izin verir. Küçük boyutlu karakterleri olan resimler için kullanışlıdır. |
 
 ### Ayrıca bakınız
 
-* ad alanı [Aspose.OCR](../../aspose.ocr)
+* class [BaseRecognitionSettings](../baserecognitionsettings/)
+* ad alanı [Aspose.OCR](../../aspose.ocr/)
 * toplantı [Aspose.OCR](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.OCR.dll -->
+

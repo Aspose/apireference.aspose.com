@@ -1,17 +1,18 @@
 ---
-title: RecognizeMultipleImages
+title: AsposeOcr.RecognizeMultipleImages
 second_title: Aspose.OCR für .NET-API-Referenz
-description: Erkennt mehrere Bilder aus der Liste.  Archive und Ordner werden nicht unterstützt. Maximal 20 verarbeitete Bilder. Unterstützt GIF PNG JPEG BMP TIFF.
+description: AsposeOcr methode. Erkennt mehrere Bilder aus der Liste.  Archive und Ordner werden nicht unterstützt. Die maximale Anzahl verarbeiteter Bilder beträgt 20. Unterstützt GIF PNG JPEG BMP TIFF JFIF.
 type: docs
-weight: 120
+weight: 200
 url: /de/net/aspose.ocr/asposeocr/recognizemultipleimages/
 ---
 ## RecognizeMultipleImages(List&lt;string&gt;, RecognitionSettings) {#recognizemultipleimages_1}
 
-Erkennt mehrere Bilder aus der Liste.  Archive und Ordner werden nicht unterstützt. Maximal 20 verarbeitete Bilder. Unterstützt GIF, PNG, JPEG, BMP, TIFF.
+Erkennt mehrere Bilder aus der Liste.  Archive und Ordner werden nicht unterstützt. Die maximale Anzahl verarbeiteter Bilder beträgt 20. Unterstützt GIF, PNG, JPEG, BMP, TIFF, JFIF.
 
 ```csharp
-public RecognitionResult[] RecognizeMultipleImages(List<string> files, RecognitionSettings settings)
+public List<RecognitionResult> RecognizeMultipleImages(List<string> files, 
+    RecognitionSettings settings)
 ```
 
 | Parameter | Typ | Beschreibung |
@@ -21,24 +22,24 @@ public RecognitionResult[] RecognizeMultipleImages(List<string> files, Recogniti
 
 ### Rückgabewert
 
-Anordnung von[`RecognitionResult`](../../recognitionresult) Objekte mit Erkennungsergebnissen für jedes verarbeitete Bild.
+Anordnung von[`RecognitionResult`](../../recognitionresult/) Objekte mit Erkennungsergebnissen für jedes verarbeitete Bild.
 
 ### Siehe auch
 
-* class [RecognitionResult](../../recognitionresult)
-* class [RecognitionSettings](../../recognitionsettings)
-* class [AsposeOcr](../../asposeocr)
-* namensraum [Aspose.OCR](../../asposeocr)
+* class [RecognitionResult](../../recognitionresult/)
+* class [RecognitionSettings](../../recognitionsettings/)
+* class [AsposeOcr](../)
+* namensraum [Aspose.OCR](../../asposeocr/)
 * Montage [Aspose.OCR](../../../)
 
 ---
 
 ## RecognizeMultipleImages(List&lt;string&gt;) {#recognizemultipleimages}
 
-Erkennt mehrere Bilder aus der Liste mit Standardeinstellungen.  Archive und Ordner werden nicht unterstützt. Maximal 20 verarbeitete Bilder. Unterstützt GIF, PNG, JPEG, BMP, TIFF.
+Erkennt mehrere Bilder aus der Liste mit Standardeinstellungen.  Archive und Ordner werden nicht unterstützt. Die maximale Anzahl verarbeiteter Bilder beträgt 20. Unterstützt GIF, PNG, JPEG, BMP, TIFF, JFIF.
 
 ```csharp
-public RecognitionResult[] RecognizeMultipleImages(List<string> files)
+public List<RecognitionResult> RecognizeMultipleImages(List<string> files)
 ```
 
 | Parameter | Typ | Beschreibung |
@@ -47,23 +48,23 @@ public RecognitionResult[] RecognizeMultipleImages(List<string> files)
 
 ### Rückgabewert
 
-Anordnung von[`RecognitionResult`](../../recognitionresult) Objekte mit Erkennungsergebnissen für jedes verarbeitete Bild.
+Anordnung von[`RecognitionResult`](../../recognitionresult/) Objekte mit Erkennungsergebnissen für jedes verarbeitete Bild.
 
 ### Siehe auch
 
-* class [RecognitionResult](../../recognitionresult)
-* class [AsposeOcr](../../asposeocr)
-* namensraum [Aspose.OCR](../../asposeocr)
+* class [RecognitionResult](../../recognitionresult/)
+* class [AsposeOcr](../)
+* namensraum [Aspose.OCR](../../asposeocr/)
 * Montage [Aspose.OCR](../../../)
 
 ---
 
 ## RecognizeMultipleImages(string, RecognitionSettings) {#recognizemultipleimages_3}
 
-Erkennt mehrere Bilder, die in einem ZIP-Archiv oder aus einem Ordner gepackt sind.  Verschachtelte Archive und Ordner werden nicht unterstützt. Maximal 20 verarbeitete Bilder. Unterstützt GIF, PNG, JPEG, BMP, TIFF.
+Erkennt mehrere Bilder, die in einem ZIP-Archiv oder aus einem Ordner gepackt sind.  Verschachtelte Archive und Ordner werden nicht unterstützt. Maximal 20 verarbeitete Bilder. Unterstützt GIF, PNG, JPEG, BMP, TIFF, JFIF.
 
 ```csharp
-public RecognitionResult[] RecognizeMultipleImages(string path, RecognitionSettings settings)
+public List<RecognitionResult> RecognizeMultipleImages(string path, RecognitionSettings settings)
 ```
 
 | Parameter | Typ | Beschreibung |
@@ -73,24 +74,24 @@ public RecognitionResult[] RecognizeMultipleImages(string path, RecognitionSetti
 
 ### Rückgabewert
 
-Anordnung von[`RecognitionResult`](../../recognitionresult) Objekte mit Erkennungsergebnissen für jedes verarbeitete Bild.
+Anordnung von[`RecognitionResult`](../../recognitionresult/) Objekte mit Erkennungsergebnissen für jedes verarbeitete Bild.
 
 ### Siehe auch
 
-* class [RecognitionResult](../../recognitionresult)
-* class [RecognitionSettings](../../recognitionsettings)
-* class [AsposeOcr](../../asposeocr)
-* namensraum [Aspose.OCR](../../asposeocr)
+* class [RecognitionResult](../../recognitionresult/)
+* class [RecognitionSettings](../../recognitionsettings/)
+* class [AsposeOcr](../)
+* namensraum [Aspose.OCR](../../asposeocr/)
 * Montage [Aspose.OCR](../../../)
 
 ---
 
 ## RecognizeMultipleImages(string) {#recognizemultipleimages_2}
 
-Erkennt mehrere Bilder, die in einem ZIP-Archiv oder aus einem Ordner mit Standardeinstellungen gepackt sind.  Verschachtelte Archive und Ordner werden nicht unterstützt. Maximal 20 verarbeitete Bilder. Unterstützt GIF, PNG, JPEG, BMP, TIFF.
+Erkennt mehrere Bilder, die in einem ZIP-Archiv oder aus einem Ordner mit Standardeinstellungen gepackt sind.  Verschachtelte Archive und Ordner werden nicht unterstützt. Maximal 20 verarbeitete Bilder. Unterstützt GIF, PNG, JPEG, BMP, TIFF, JFIF.
 
 ```csharp
-public RecognitionResult[] RecognizeMultipleImages(string path)
+public List<RecognitionResult> RecognizeMultipleImages(string path)
 ```
 
 | Parameter | Typ | Beschreibung |
@@ -99,13 +100,13 @@ public RecognitionResult[] RecognizeMultipleImages(string path)
 
 ### Rückgabewert
 
-Anordnung von[`RecognitionResult`](../../recognitionresult) Objekte mit Erkennungsergebnissen für jedes verarbeitete Bild.
+Anordnung von[`RecognitionResult`](../../recognitionresult/) Objekte mit Erkennungsergebnissen für jedes verarbeitete Bild.
 
 ### Siehe auch
 
-* class [RecognitionResult](../../recognitionresult)
-* class [AsposeOcr](../../asposeocr)
-* namensraum [Aspose.OCR](../../asposeocr)
+* class [RecognitionResult](../../recognitionresult/)
+* class [AsposeOcr](../)
+* namensraum [Aspose.OCR](../../asposeocr/)
 * Montage [Aspose.OCR](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.OCR.dll -->
+

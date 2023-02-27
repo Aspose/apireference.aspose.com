@@ -1,9 +1,9 @@
 ---
-title: DocumentRecognitionSettings
+title: Class DocumentRecognitionSettings
 second_title: Aspose.OCR für .NET-API-Referenz
-description: Einstellungen für die PDF-Erkennung. Enthält Elemente mit denen der Erkennungsprozess angepasst werden kann.
+description: Aspose.OCR.DocumentRecognitionSettings klas. Einstellungen für die PDFErkennung. Enthält Elemente mit denen der Erkennungsprozess angepasst werden kann.
 type: docs
-weight: 50
+weight: 70
 url: /de/net/aspose.ocr/documentrecognitionsettings/
 ---
 ## DocumentRecognitionSettings class
@@ -11,37 +11,40 @@ url: /de/net/aspose.ocr/documentrecognitionsettings/
 Einstellungen für die PDF-Erkennung. Enthält Elemente, mit denen der Erkennungsprozess angepasst werden kann.
 
 ```csharp
-public class DocumentRecognitionSettings
+public class DocumentRecognitionSettings : BaseRecognitionSettings
 ```
 
 ## Konstrukteure
 
 | Name | Beschreibung |
 | --- | --- |
-| [DocumentRecognitionSettings](documentrecognitionsettings#constructor)(int, int) | Initialisiert eine neue Instanz von[`DocumentRecognitionSettings`](../documentrecognitionsettings) Klasse mit kurzen Eigenschaften. |
-| [DocumentRecognitionSettings](documentrecognitionsettings#constructor_1)(int, int, Language, bool, bool, int) | Initialisiert eine neue Instanz von[`DocumentRecognitionSettings`](../documentrecognitionsettings) Klasse mit vollständigem Satz von Eigenschaften. |
+| [DocumentRecognitionSettings](documentrecognitionsettings/#constructor)(int, int) | Initialisiert eine neue Instanz von`DocumentRecognitionSettings` Klasse mit kurzen Eigenschaften. |
+| [DocumentRecognitionSettings](documentrecognitionsettings/#constructor_1)(int, int, Language, bool, bool, int) | Initialisiert eine neue Instanz von`DocumentRecognitionSettings`Klasse mit vollständigem Satz von Eigenschaften. |
 
 ## Eigenschaften
 
 | Name | Beschreibung |
 | --- | --- |
-| [Allowed](../../aspose.ocr/documentrecognitionsettings/allowed) { get; set; } | Erlaubter Zeichensatz. Legt den für das Erkennungsergebnis zulässigen Zeichentyp fest. |
-| [AutoContrast](../../aspose.ocr/documentrecognitionsettings/autocontrast) { get; set; } | Ermöglicht die Verwendung eines zusätzlichen Kontrastkorrekturalgorithmus für das Bild vor der Erkennung. |
-| [AutoDenoising](../../aspose.ocr/documentrecognitionsettings/autodenoising) { get; set; } | Ermöglicht die Verwendung eines zusätzlichen neuronalen Netzwerks zur Verbesserung des Bildes – Reduzierung von Rauschen. Nützlich für Bilder mit Scanartefakten, Verzerrungen, Flecken, Lichtreflexen, Farbverläufen und Fremdelementen. |
-| [AutoSkew](../../aspose.ocr/documentrecognitionsettings/autoskew) { set; } | Ruft ein Flag ab oder setzt es, das angibt, ob die automatische Korrektur der Bildneigung aktiviert werden soll. Standardmäßig aktiviert (true). |
-| [DetectAreas](../../aspose.ocr/documentrecognitionsettings/detectareas) { set; } | Ruft ein Flag ab oder setzt es, das angibt, ob die automatische Erkennung von Textbereichen aktiviert werden soll.  Aktiviert das Dokumentstruktur-Erkennungsmodul. Dies erfordert mehr Zeit und Speicher, um ein Bild zu verarbeiten, liefert aber in komplexen Fällen genauere Ergebnisse. Deaktivieren (auf „false“ setzen) für eine schnellere Bildverarbeitung oder bei Bildern mit einfacher Struktur. |
-| [DetectAreasMode](../../aspose.ocr/documentrecognitionsettings/detectareasmode) { get; set; } | Ermöglicht die Auswahl des optimalen Modus für Dokumenttypbereiche: Dokument, Foto, einfacher Text, Spalte, Bild. |
-| [IgnoredCharacters](../../aspose.ocr/documentrecognitionsettings/ignoredcharacters) { get; set; } | Legt eine schwarze Liste für Erkennungssymbole fest. |
-| [Language](../../aspose.ocr/documentrecognitionsettings/language) { set; } | Ruft die für OCR verwendete Sprache ab oder legt sie fest.  Legt das während der Erkennung verwendete Alphabet fest. Standardmäßig mehrsprachig. |
-| [LinesFiltration](../../aspose.ocr/documentrecognitionsettings/linesfiltration) { get; set; } | Ermöglicht das Erkennen von Text in den Tabellen (Bereiche umgeben von Linien). |
-| [PagesNumber](../../aspose.ocr/documentrecognitionsettings/pagesnumber) { get; set; } | Legen Sie die Anzahl der Seiten für die Erkennung mehrseitiger PDF-Dateien fest. |
-| [StartPage](../../aspose.ocr/documentrecognitionsettings/startpage) { get; set; } | Legen Sie die erste Seite für die Erkennung fest. |
-| [ThreadsCount](../../aspose.ocr/documentrecognitionsettings/threadscount) { set; } | Ruft die Anzahl der zu verarbeitenden Threads ab oder legt sie fest. Standardmäßig bedeutet 0, dass das Bild mit der Anzahl von Threads verarbeitet wird, die Ihrer Anzahl von Prozessoren entspricht. ThreadsCount = 1 bedeutet, dass das Bild im Hauptthread verarbeitet wird. |
-| [ThresholdValue](../../aspose.ocr/documentrecognitionsettings/thresholdvalue) { set; } | Ruft einen benutzerdefinierten Schwellenwert für die Bildbinarisierung ab oder legt ihn fest. Bereich von 1 bis 255. |
+| [AllowedCharacters](../../aspose.ocr/baserecognitionsettings/allowedcharacters/) { get; set; } | Erlaubter Zeichensatz. Legt den für das Erkennungsergebnis zulässigen Zeichentyp fest. |
+| [AutoContrast](../../aspose.ocr/baserecognitionsettings/autocontrast/) { get; set; } | Ermöglicht die Verwendung eines zusätzlichen Kontrastkorrekturalgorithmus für das Bild vor der Erkennung. |
+| [AutoDenoising](../../aspose.ocr/baserecognitionsettings/autodenoising/) { get; set; } | Ermöglicht die Verwendung eines zusätzlichen neuronalen Netzwerks zur Verbesserung des Bildes – Reduzierung von Rauschen. Nützlich für Bilder mit Scanartefakten, Verzerrungen, Flecken, Lichtreflexen, Farbverläufen und Fremdelementen. |
+| [AutoSkew](../../aspose.ocr/baserecognitionsettings/autoskew/) { set; } | Ruft ein Flag ab oder setzt es, das angibt, ob die automatische Korrektur der Bildneigung aktiviert werden soll. Standardmäßig aktiviert (true). |
+| [DetectAreasMode](../../aspose.ocr/baserecognitionsettings/detectareasmode/) { get; set; } | Ermöglicht die Auswahl des optimalen Modus für Dokumenttypbereiche: Dokument, Foto, einfacher Text, Spalte, Bild. |
+| [IgnoredCharacters](../../aspose.ocr/baserecognitionsettings/ignoredcharacters/) { get; set; } | Legt eine schwarze Liste für Erkennungssymbole fest. |
+| [Language](../../aspose.ocr/baserecognitionsettings/language/) { set; } | Ruft die für OCR verwendete Sprache ab oder legt sie fest.  Legt das während der Erkennung verwendete Alphabet fest. Standardmäßig mehrsprachig. |
+| [LinesFiltration](../../aspose.ocr/baserecognitionsettings/linesfiltration/) { get; set; } | Ermöglicht das Erkennen von Text in den Tabellen (Bereiche umgeben von Linien). |
+| [PagesNumber](../../aspose.ocr/documentrecognitionsettings/pagesnumber/) { get; set; } | Legen Sie die Anzahl der Seiten für die Erkennung mehrseitiger PDF-Dateien fest. |
+| [PreprocessingFilters](../../aspose.ocr/baserecognitionsettings/preprocessingfilters/) { get; set; } | Ermöglicht die Vorbereitung des Bildes für OCR durch Anpassung der Vorverarbeitungsmethoden. |
+| [SkewAngle](../../aspose.ocr/baserecognitionsettings/skewangle/) { set; } | Ermittelt oder legt den Winkel in Grad für die Bilddrehung fest.  Das Setzen dieses Werts deaktiviert die[`AutoSkew`](../baserecognitionsettings/autoskew/) -Eigenschaft, sodass die automatische Schräglagenkorrektur nicht angewendet wird. Standardmäßig Null. |
+| [StartPage](../../aspose.ocr/documentrecognitionsettings/startpage/) { get; set; } | Legen Sie die erste Seite für die Erkennung fest. |
+| [ThreadsCount](../../aspose.ocr/baserecognitionsettings/threadscount/) { set; } | Ruft die Anzahl der Threads zur Verarbeitung ab oder legt sie fest. Standardmäßig bedeutet 0, dass das Bild mit der Anzahl von Threads verarbeitet wird, die Ihrer Anzahl von Prozessoren entspricht. ThreadsCount = 1 bedeutet, dass das Bild im Hauptthread verarbeitet wird. |
+| [ThresholdValue](../../aspose.ocr/baserecognitionsettings/thresholdvalue/) { set; } | Ruft einen benutzerdefinierten Schwellenwert für die Bildbinarisierung ab oder legt ihn fest. Bereich von 1 bis 255. |
+| [UpscaleSmallFont](../../aspose.ocr/baserecognitionsettings/upscalesmallfont/) { get; set; } | Ermöglicht die Verwendung zusätzlicher Algorithmen speziell für die Erkennung kleiner Schriften. Nützlich für Bilder mit kleinen Zeichen. |
 
 ### Siehe auch
 
-* namensraum [Aspose.OCR](../../aspose.ocr)
+* class [BaseRecognitionSettings](../baserecognitionsettings/)
+* namensraum [Aspose.OCR](../../aspose.ocr/)
 * Montage [Aspose.OCR](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.OCR.dll -->
+
