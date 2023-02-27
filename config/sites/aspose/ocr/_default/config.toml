@@ -23,6 +23,7 @@ id = "aspose-id"
 it = "aspose-it"
 ja = "aspose-ja"
 ko = "aspose-ko"
+nl = "aspose-nl"
 pl = "aspose-pl"
 pt = "aspose-pt"
 sv = "aspose-sv"
@@ -105,6 +106,30 @@ defaultContentLang = 'en'
     languageCode = "hi"
     flag = "flag-in"
     weight = 21
+  [languages.ko]
+    contentDir = 'content/sites/aspose/ocr/korean'
+    languageName = " 한국인"
+    languageCode = "ko"
+    flag = "flag-kr"
+    weight = 22
+  [languages.el]
+    contentDir = 'content/sites/aspose/ocr/greece'
+    languageName = "  Ελληνικά"
+    languageCode = "el"
+    flag = "flag-gr"
+    weight = 23
+  [languages.id]
+    contentDir = 'content/sites/aspose/ocr/indonesian'
+    languageName = "Indonesian"
+    languageCode = "id"
+    flag = "flag-id"
+    weight = 24
+  [languages.nl]
+    contentDir = 'content/sites/aspose/ocr/netherlands'
+    languageName = "Nederlands"
+    languageCode = "nl"
+    flag = "flag-nl"
+    weight = 25
 
 
 disableKinds = ["taxonomy", "taxonomyTerm"]
