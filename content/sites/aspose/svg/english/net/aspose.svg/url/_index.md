@@ -3,7 +3,7 @@ title: Url
 second_title: Aspose.SVG for .NET API Reference
 description: Provides an object representation of a universal identifier URL.
 type: docs
-weight: 3800
+weight: 3810
 url: /net/aspose.svg/url/
 ---
 ## Url class

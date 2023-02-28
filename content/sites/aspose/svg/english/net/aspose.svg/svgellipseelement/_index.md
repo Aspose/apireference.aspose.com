@@ -3,7 +3,7 @@ title: SVGEllipseElement
 second_title: Aspose.SVG for .NET API Reference
 description: The SVGEllipseElement interface corresponds to the ellipse element.
 type: docs
-weight: 3210
+weight: 3220
 url: /net/aspose.svg/svgellipseelement/
 ---
 ## SVGEllipseElement class

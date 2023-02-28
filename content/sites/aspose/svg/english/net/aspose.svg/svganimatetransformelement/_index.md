@@ -3,7 +3,7 @@ title: SVGAnimateTransformElement
 second_title: Aspose.SVG for .NET API Reference
 description: The SVGAnimateTransformElement interface corresponds to the animateTransform element. Object-oriented access to the attributes of the animateTransform element via the SVG DOM is not available.
 type: docs
-weight: 3100
+weight: 3110
 url: /net/aspose.svg/svganimatetransformelement/
 ---
 ## SVGAnimateTransformElement class

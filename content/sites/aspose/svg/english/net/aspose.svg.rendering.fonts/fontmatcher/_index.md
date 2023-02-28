@@ -3,7 +3,7 @@ title: FontMatcher
 second_title: Aspose.SVG for .NET API Reference
 description: This class allows you to control some parts of the font matching algorithm.
 type: docs
-weight: 2760
+weight: 2770
 url: /net/aspose.svg.rendering.fonts/fontmatcher/
 ---
 ## FontMatcher class

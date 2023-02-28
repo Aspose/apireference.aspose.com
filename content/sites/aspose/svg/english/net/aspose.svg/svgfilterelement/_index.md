@@ -3,7 +3,7 @@ title: SVGFilterElement
 second_title: Aspose.SVG for .NET API Reference
 description: The SVGFilterElement interface corresponds to the filter element.
 type: docs
-weight: 3230
+weight: 3240
 url: /net/aspose.svg/svgfilterelement/
 ---
 ## SVGFilterElement class
