@@ -41,6 +41,7 @@ Base class for image processing commands.
 | [Median()](#Median--) | The median filter run through each element of the image and replace each pixel with the median of its neighboring pixels. |
 | [Median(Rectangle area)](#Median-java.awt.Rectangle-) | The median filter run through each element of the part of the image and replace each pixel with the median of its neighboring pixels. |
 | [AutoDenoising()](#AutoDenoising--) | Enables the use of an additional neural network to improve the image - reduce noise. |
+| [AutoDewarping()](#AutoDewarping--) | Automatically corrects geometric distortions in the image. |
 | [AutoDenoising(Rectangle area)](#AutoDenoising-java.awt.Rectangle-) | Enables the use of an additional neural network to improve the part of the image - reduce noise. |
 | [AutoSkew()](#AutoSkew--) | Enables the automatic image skew correction. |
 | [AutoSkew(Rectangle area)](#AutoSkew-java.awt.Rectangle-) | Enables the automatic image part skew correction. |
@@ -299,6 +300,16 @@ Enables the use of an additional neural network to improve the image - reduce no
 
 **Returns:**
 [PreprocessingFilter](../../com.aspose.ocr/preprocessingfilter) - AutoDenoisingFilter object.
+### AutoDewarping() {#AutoDewarping--}
+```
+public static PreprocessingFilter AutoDewarping()
+```
+
+
+Automatically corrects geometric distortions in the image. Extremely resource intensive!
+
+**Returns:**
+[PreprocessingFilter](../../com.aspose.ocr/preprocessingfilter) - AutoDewarpingFilter object.
 ### AutoDenoising(Rectangle area) {#AutoDenoising-java.awt.Rectangle-}
 ```
 public static PreprocessingFilter AutoDenoising(Rectangle area)
