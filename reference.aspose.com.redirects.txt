@@ -1,3 +1,4 @@
+rewrite /java/com.aspose.pdf/idocumentfontutilities$ https://reference.aspose.com/pdf/java/com.aspose.pdf/document.idocumentfontutilities/ permanent;
 rewrite /words/cpp/index/?$ https://reference.aspose.com/words/cpp/ permanent;
 rewrite /words/cpp/namespace/aspose/?$ https://reference.aspose.com/words/cpp/ permanent;
 rewrite /words/cpp/namespaces/?$ https://reference.aspose.com/words/cpp/ permanent;
