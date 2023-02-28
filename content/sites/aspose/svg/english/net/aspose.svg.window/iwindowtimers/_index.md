@@ -3,7 +3,7 @@ title: IWindowTimers
 second_title: Aspose.SVG for .NET API Reference
 description: Allows authors to schedule timer-based callbacks.
 type: docs
-weight: 3830
+weight: 3840
 url: /net/aspose.svg.window/iwindowtimers/
 ---
 ## IWindowTimers interface

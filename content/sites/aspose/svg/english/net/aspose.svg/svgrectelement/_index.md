@@ -3,7 +3,7 @@ title: SVGRectElement
 second_title: Aspose.SVG for .NET API Reference
 description: The SVGRectElement interface corresponds to the rect element.
 type: docs
-weight: 3410
+weight: 3420
 url: /net/aspose.svg/svgrectelement/
 ---
 ## SVGRectElement class

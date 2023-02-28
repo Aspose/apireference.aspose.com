@@ -3,7 +3,7 @@ title: GlyphInfo
 second_title: Aspose.SVG for .NET API Reference
 description: Contains glyph related information.
 type: docs
-weight: 2780
+weight: 2790
 url: /net/aspose.svg.rendering/glyphinfo/
 ---
 ## GlyphInfo structure

@@ -3,7 +3,7 @@ title: SVGLinearGradientElement
 second_title: Aspose.SVG for .NET API Reference
 description: The SVGLinearGradientElement interface corresponds to the linearGradient element.
 type: docs
-weight: 3310
+weight: 3320
 url: /net/aspose.svg/svglineargradientelement/
 ---
 ## SVGLinearGradientElement class

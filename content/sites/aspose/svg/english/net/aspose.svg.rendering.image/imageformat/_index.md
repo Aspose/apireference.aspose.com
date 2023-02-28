@@ -3,7 +3,7 @@ title: ImageFormat
 second_title: Aspose.SVG for .NET API Reference
 description: Specifies the file format of the image.
 type: docs
-weight: 2840
+weight: 2850
 url: /net/aspose.svg.rendering.image/imageformat/
 ---
 ## ImageFormat enumeration

@@ -13,6 +13,7 @@ The **Aspose.Svg.Rendering** namespace consists of numerous renderer objects as 
 | Class | Description |
 | --- | --- |
 | [CssOptions](./cssoptions/) | Represents css rendering options. |
+| [Device](./device/) | Represents a base class for implementing rendering devices that are used to draw graphics in various formats and environments. |
 | [Device&lt;TGraphicContext,TRenderingOptions&gt;](./device-2/) | Represents base class for implementation particular rendering devices. |
 | [GraphicContext](./graphiccontext/) | Holds current graphics control parameters. These parameters define the global framework within which the graphics operators execute. |
 | [PageSetup](./pagesetup/) | Represents a page setup object is used for configuration output page-set. |

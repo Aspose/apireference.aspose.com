@@ -3,7 +3,7 @@ title: PdfEncryptionAlgorithm
 second_title: Aspose.SVG for .NET API Reference
 description: Encryption mode enum. Describe using algorithm and key length. This enum is extended in order to be able to further increase functionality. This enum implements Base-to-Core pattern.
 type: docs
-weight: 2900
+weight: 2910
 url: /net/aspose.svg.rendering.pdf.encryption/pdfencryptionalgorithm/
 ---
 ## PdfEncryptionAlgorithm enumeration

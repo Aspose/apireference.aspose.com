@@ -3,7 +3,7 @@ title: PdfRenderingOptions
 second_title: Aspose.SVG for .NET API Reference
 description: Represents rendering options for PdfDevice./pdfdevice/.
 type: docs
-weight: 2970
+weight: 2980
 url: /net/aspose.svg.rendering.pdf/pdfrenderingoptions/
 ---
 ## PdfRenderingOptions class
