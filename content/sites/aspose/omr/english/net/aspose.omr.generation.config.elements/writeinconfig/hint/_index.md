@@ -3,7 +3,7 @@ title: Hint
 second_title: Aspose.OMR for .NET API Reference
 description: Text after write-in area. By default used write-in
 type: docs
-weight: 60
+weight: 70
 url: /net/aspose.omr.generation.config.elements/writeinconfig/hint/
 ---
 ## WriteInConfig.Hint property

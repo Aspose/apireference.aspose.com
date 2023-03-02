@@ -34,9 +34,13 @@ public class BlockConfig : ParentConfig
 | [BorderType](../../aspose.omr.generation.config.elements.parents/blockconfig/bordertype) { get; set; } | Type of drawn border |
 | override [Children](../../aspose.omr.generation.config.elements.parents/blockconfig/children) { get; set; } | Child omr elements. In most cases positioned inside of parent or below. |
 | [Column](../../aspose.omr.generation.config.elements.parents/blockconfig/column) { get; set; } | When placed in multi-column container - represent position in parent |
+| [Height](../../aspose.omr.generation.config.elements.parents/blockconfig/height) { get; set; } | Maximum height allowed for this element and all of its children. Set in pixels |
+| [HorizontalPadding](../../aspose.omr.generation.config.elements.parents/blockconfig/horizontalpadding) { get; set; } | Size between border and content of this block set in pixels |
 | [IsClipped](../../aspose.omr.generation.config.elements.parents/blockconfig/isclipped) { get; set; } | If true block, and all it's content will be clipped as picture upon recognition |
 | override [Name](../../aspose.omr.generation.config.elements.parents/blockconfig/name) { get; set; } | Name of Block element |
+| [Overflow](../../aspose.omr.generation.config.elements.parents/blockconfig/overflow) { get; set; } | Describes behaviour in case any of child elements overflow Block size. Overwrites global preset at [`Overflow`](../../aspose.omr.generation/globalpagesettings/overflow) |
 | override [Type](../../aspose.omr.generation.config.elements.parents/blockconfig/type) { get; set; } | Type of omr element. Required field for JSON serialization. |
+| [VerticalPadding](../../aspose.omr.generation.config.elements.parents/blockconfig/verticalpadding) { get; set; } | Size between border and content of this block set in pixels |
 
 ### See Also
 

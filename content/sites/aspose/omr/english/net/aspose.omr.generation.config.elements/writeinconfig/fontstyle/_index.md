@@ -3,7 +3,7 @@ title: FontStyle
 second_title: Aspose.OMR for .NET API Reference
 description: The style of the Hintaspose.omr.generation.config.elements/writeinconfig/hint
 type: docs
-weight: 50
+weight: 60
 url: /net/aspose.omr.generation.config.elements/writeinconfig/fontstyle/
 ---
 ## WriteInConfig.FontStyle property
