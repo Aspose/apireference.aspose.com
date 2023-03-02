@@ -1,7 +1,7 @@
 ---
-title: VectorMapLayer
+title: VectorMapLayer.VectorMapLayer
 second_title: Aspose.GIS لمرجع .NET API
-description: إنشاء مثيل جديد برمز افتراضي.
+description: VectorMapLayer البناء. إنشاء مثيل جديد برمز افتراضي.
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.rendering/vectormaplayer/vectormaplayer/
@@ -26,9 +26,9 @@ public VectorMapLayer(FeaturesSequence featuresSequence)
 
 ### أنظر أيضا
 
-* class [FeaturesSequence](../../../aspose.gis/featuressequence)
-* class [VectorMapLayer](../../vectormaplayer)
-* مساحة الاسم [Aspose.Gis.Rendering](../../vectormaplayer)
+* class [FeaturesSequence](../../../aspose.gis/featuressequence/)
+* class [VectorMapLayer](../)
+* مساحة الاسم [Aspose.Gis.Rendering](../../vectormaplayer/)
 * المجسم [Aspose.GIS](../../../)
 
 ---
@@ -44,7 +44,7 @@ public VectorMapLayer(FeaturesSequence featuresSequence, VectorSymbolizer symbol
 | معامل | يكتب | وصف |
 | --- | --- | --- |
 | featuresSequence | FeaturesSequence | تسلسل الميزات. |
-| symbolizer | VectorSymbolizer | Symbolizer لاستخدامه في عرض الطبقة. إذا`null`، سيتم استخدام الرمز الافتراضي. |
+| symbolizer | VectorSymbolizer | Symbolizer لاستخدامه في عرض الطبقة. لو`null`، سيتم استخدام الرمز الافتراضي. |
 
 ### استثناءات
 
@@ -54,10 +54,10 @@ public VectorMapLayer(FeaturesSequence featuresSequence, VectorSymbolizer symbol
 
 ### أنظر أيضا
 
-* class [FeaturesSequence](../../../aspose.gis/featuressequence)
-* class [VectorSymbolizer](../../../aspose.gis.rendering.symbolizers/vectorsymbolizer)
-* class [VectorMapLayer](../../vectormaplayer)
-* مساحة الاسم [Aspose.Gis.Rendering](../../vectormaplayer)
+* class [FeaturesSequence](../../../aspose.gis/featuressequence/)
+* class [VectorSymbolizer](../../../aspose.gis.rendering.symbolizers/vectorsymbolizer/)
+* class [VectorMapLayer](../)
+* مساحة الاسم [Aspose.Gis.Rendering](../../vectormaplayer/)
 * المجسم [Aspose.GIS](../../../)
 
 ---
@@ -74,8 +74,8 @@ public VectorMapLayer(FeaturesSequence featuresSequence, VectorSymbolizer symbol
 | معامل | يكتب | وصف |
 | --- | --- | --- |
 | featuresSequence | FeaturesSequence | تسلسل الميزات. |
-| symbolizer | VectorSymbolizer | Symbolizer لاستخدامه في عرض الطبقة. إذا`null`، سيتم استخدام الرمز الافتراضي. |
-| labeling | Labeling | وضع العلامات لاستخدامه في تسمية المعالم في الطبقة. إذا`null` ، إفتراضي[`NullLabeling`](../../../aspose.gis.rendering.labelings/nulllabeling) سوف تستخدم. |
+| symbolizer | VectorSymbolizer | Symbolizer لاستخدامه في عرض الطبقة. لو`null`، سيتم استخدام الرمز الافتراضي. |
+| labeling | Labeling | وضع العلامات لاستخدامه في تسمية المعالم في الطبقة. لو`null` ، تقصير[`NullLabeling`](../../../aspose.gis.rendering.labelings/nulllabeling/) سوف تستخدم. |
 
 ### استثناءات
 
@@ -85,11 +85,11 @@ public VectorMapLayer(FeaturesSequence featuresSequence, VectorSymbolizer symbol
 
 ### أنظر أيضا
 
-* class [FeaturesSequence](../../../aspose.gis/featuressequence)
-* class [VectorSymbolizer](../../../aspose.gis.rendering.symbolizers/vectorsymbolizer)
-* class [Labeling](../../../aspose.gis.rendering.labelings/labeling)
-* class [VectorMapLayer](../../vectormaplayer)
-* مساحة الاسم [Aspose.Gis.Rendering](../../vectormaplayer)
+* class [FeaturesSequence](../../../aspose.gis/featuressequence/)
+* class [VectorSymbolizer](../../../aspose.gis.rendering.symbolizers/vectorsymbolizer/)
+* class [Labeling](../../../aspose.gis.rendering.labelings/labeling/)
+* class [VectorMapLayer](../)
+* مساحة الاسم [Aspose.Gis.Rendering](../../vectormaplayer/)
 * المجسم [Aspose.GIS](../../../)
 
 ---
@@ -105,7 +105,7 @@ public VectorMapLayer(VectorLayer layer, bool keepOpen = true)
 | معامل | يكتب | وصف |
 | --- | --- | --- |
 | layer | VectorLayer | طبقة المتجهات. |
-| keepOpen | Boolean | `true` لترك الطبقة مفتوحة بعد[`VectorMapLayer`](../../vectormaplayer) يتم التخلص من الكائن خلاف ذلك،`false` . |
+| keepOpen | Boolean | `true` لترك الطبقة مفتوحة بعد[`VectorMapLayer`](../) يتم التخلص من الكائن خلاف ذلك،`false` . |
 
 ### استثناءات
 
@@ -115,9 +115,9 @@ public VectorMapLayer(VectorLayer layer, bool keepOpen = true)
 
 ### أنظر أيضا
 
-* class [VectorLayer](../../../aspose.gis/vectorlayer)
-* class [VectorMapLayer](../../vectormaplayer)
-* مساحة الاسم [Aspose.Gis.Rendering](../../vectormaplayer)
+* class [VectorLayer](../../../aspose.gis/vectorlayer/)
+* class [VectorMapLayer](../)
+* مساحة الاسم [Aspose.Gis.Rendering](../../vectormaplayer/)
 * المجسم [Aspose.GIS](../../../)
 
 ---
@@ -133,8 +133,8 @@ public VectorMapLayer(VectorLayer layer, VectorSymbolizer symbolizer, bool keepO
 | معامل | يكتب | وصف |
 | --- | --- | --- |
 | layer | VectorLayer | طبقة المتجهات. |
-| symbolizer | VectorSymbolizer | Symbolizer لاستخدامه في عرض الطبقة. إذا`null`، سيتم استخدام الرمز الافتراضي. |
-| keepOpen | Boolean | `true` لترك الطبقة مفتوحة بعد[`VectorMapLayer`](../../vectormaplayer) يتم التخلص من الكائن خلاف ذلك،`false` . |
+| symbolizer | VectorSymbolizer | Symbolizer لاستخدامه في عرض الطبقة. لو`null`، سيتم استخدام الرمز الافتراضي. |
+| keepOpen | Boolean | `true` لترك الطبقة مفتوحة بعد[`VectorMapLayer`](../) يتم التخلص من الكائن خلاف ذلك،`false` . |
 
 ### استثناءات
 
@@ -144,10 +144,10 @@ public VectorMapLayer(VectorLayer layer, VectorSymbolizer symbolizer, bool keepO
 
 ### أنظر أيضا
 
-* class [VectorLayer](../../../aspose.gis/vectorlayer)
-* class [VectorSymbolizer](../../../aspose.gis.rendering.symbolizers/vectorsymbolizer)
-* class [VectorMapLayer](../../vectormaplayer)
-* مساحة الاسم [Aspose.Gis.Rendering](../../vectormaplayer)
+* class [VectorLayer](../../../aspose.gis/vectorlayer/)
+* class [VectorSymbolizer](../../../aspose.gis.rendering.symbolizers/vectorsymbolizer/)
+* class [VectorMapLayer](../)
+* مساحة الاسم [Aspose.Gis.Rendering](../../vectormaplayer/)
 * المجسم [Aspose.GIS](../../../)
 
 ---
@@ -164,9 +164,9 @@ public VectorMapLayer(VectorLayer layer, VectorSymbolizer symbolizer, Labeling l
 | معامل | يكتب | وصف |
 | --- | --- | --- |
 | layer | VectorLayer | طبقة المتجهات. |
-| symbolizer | VectorSymbolizer | Symbolizer لاستخدامه في عرض الطبقة. إذا`null`، سيتم استخدام الرمز الافتراضي. |
-| labeling | Labeling | وضع العلامات لاستخدامه في تسمية المعالم في الطبقة. إذا`null` ، إفتراضي[`NullLabeling`](../../../aspose.gis.rendering.labelings/nulllabeling) سوف تستخدم. |
-| keepOpen | Boolean | `true` لترك الطبقة مفتوحة بعد[`VectorMapLayer`](../../vectormaplayer) يتم التخلص من الكائن خلاف ذلك،`false` . |
+| symbolizer | VectorSymbolizer | Symbolizer لاستخدامه في عرض الطبقة. لو`null`، سيتم استخدام الرمز الافتراضي. |
+| labeling | Labeling | وضع العلامات لاستخدامه في تسمية المعالم في الطبقة. لو`null` ، تقصير[`NullLabeling`](../../../aspose.gis.rendering.labelings/nulllabeling/) سوف تستخدم. |
+| keepOpen | Boolean | `true` لترك الطبقة مفتوحة بعد[`VectorMapLayer`](../) يتم التخلص من الكائن خلاف ذلك،`false` . |
 
 ### استثناءات
 
@@ -176,11 +176,11 @@ public VectorMapLayer(VectorLayer layer, VectorSymbolizer symbolizer, Labeling l
 
 ### أنظر أيضا
 
-* class [VectorLayer](../../../aspose.gis/vectorlayer)
-* class [VectorSymbolizer](../../../aspose.gis.rendering.symbolizers/vectorsymbolizer)
-* class [Labeling](../../../aspose.gis.rendering.labelings/labeling)
-* class [VectorMapLayer](../../vectormaplayer)
-* مساحة الاسم [Aspose.Gis.Rendering](../../vectormaplayer)
+* class [VectorLayer](../../../aspose.gis/vectorlayer/)
+* class [VectorSymbolizer](../../../aspose.gis.rendering.symbolizers/vectorsymbolizer/)
+* class [Labeling](../../../aspose.gis.rendering.labelings/labeling/)
+* class [VectorMapLayer](../)
+* مساحة الاسم [Aspose.Gis.Rendering](../../vectormaplayer/)
 * المجسم [Aspose.GIS](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.GIS.dll -->
+

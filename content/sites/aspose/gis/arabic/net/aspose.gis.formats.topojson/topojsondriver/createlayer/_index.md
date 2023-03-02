@@ -1,14 +1,14 @@
 ---
-title: CreateLayer
+title: TopoJsonDriver.CreateLayer
 second_title: Aspose.GIS لمرجع .NET API
-description: ينشئ طبقة ويفتحها لإضافة معالم جديدة.
+description: TopoJsonDriver طريقة. ينشئ طبقة ويفتحها لإضافة معالم جديدة .
 type: docs
 weight: 40
 url: /ar/net/aspose.gis.formats.topojson/topojsondriver/createlayer/
 ---
 ## CreateLayer(string, TopoJsonOptions) {#createlayer_9}
 
-ينشئ طبقة ويفتحها لإضافة معالم جديدة.
+ينشئ طبقة ويفتحها لإضافة معالم جديدة .
 
 ```csharp
 public VectorLayer CreateLayer(string path, TopoJsonOptions options)
@@ -21,7 +21,7 @@ public VectorLayer CreateLayer(string path, TopoJsonOptions options)
 
 ### قيمة الإرجاع
 
-مثال على[`VectorLayer`](../../../aspose.gis/vectorlayer).
+مثال على[`VectorLayer`](../../../aspose.gis/vectorlayer/).
 
 ### استثناءات
 
@@ -31,17 +31,17 @@ public VectorLayer CreateLayer(string path, TopoJsonOptions options)
 
 ### أنظر أيضا
 
-* class [VectorLayer](../../../aspose.gis/vectorlayer)
-* class [TopoJsonOptions](../../topojsonoptions)
-* class [TopoJsonDriver](../../topojsondriver)
-* مساحة الاسم [Aspose.Gis.Formats.TopoJson](../../topojsondriver)
+* class [VectorLayer](../../../aspose.gis/vectorlayer/)
+* class [TopoJsonOptions](../../topojsonoptions/)
+* class [TopoJsonDriver](../)
+* مساحة الاسم [Aspose.Gis.Formats.TopoJson](../../topojsondriver/)
 * المجسم [Aspose.GIS](../../../)
 
 ---
 
 ## CreateLayer(AbstractPath, TopoJsonOptions) {#createlayer_3}
 
-ينشئ طبقة ويفتحها لإضافة معالم جديدة.
+ينشئ طبقة ويفتحها لإضافة معالم جديدة .
 
 ```csharp
 public VectorLayer CreateLayer(AbstractPath path, TopoJsonOptions options)
@@ -54,7 +54,7 @@ public VectorLayer CreateLayer(AbstractPath path, TopoJsonOptions options)
 
 ### قيمة الإرجاع
 
-مثال على[`VectorLayer`](../../../aspose.gis/vectorlayer).
+مثال على[`VectorLayer`](../../../aspose.gis/vectorlayer/).
 
 ### استثناءات
 
@@ -64,18 +64,18 @@ public VectorLayer CreateLayer(AbstractPath path, TopoJsonOptions options)
 
 ### أنظر أيضا
 
-* class [VectorLayer](../../../aspose.gis/vectorlayer)
-* class [AbstractPath](../../../aspose.gis/abstractpath)
-* class [TopoJsonOptions](../../topojsonoptions)
-* class [TopoJsonDriver](../../topojsondriver)
-* مساحة الاسم [Aspose.Gis.Formats.TopoJson](../../topojsondriver)
+* class [VectorLayer](../../../aspose.gis/vectorlayer/)
+* class [AbstractPath](../../../aspose.gis/abstractpath/)
+* class [TopoJsonOptions](../../topojsonoptions/)
+* class [TopoJsonDriver](../)
+* مساحة الاسم [Aspose.Gis.Formats.TopoJson](../../topojsondriver/)
 * المجسم [Aspose.GIS](../../../)
 
 ---
 
 ## CreateLayer(AbstractPath, DriverOptions, SpatialReferenceSystem) {#createlayer_2}
 
-ينشئ طبقة ويفتحها لإضافة معالم جديدة.
+ينشئ طبقة ويفتحها لإضافة معالم جديدة .
 
 ```csharp
 public override VectorLayer CreateLayer(AbstractPath path, DriverOptions options, 
@@ -90,7 +90,7 @@ public override VectorLayer CreateLayer(AbstractPath path, DriverOptions options
 
 ### قيمة الإرجاع
 
-مثال على[`VectorLayer`](../../../aspose.gis/vectorlayer).
+مثال على[`VectorLayer`](../../../aspose.gis/vectorlayer/).
 
 ### استثناءات
 
@@ -100,19 +100,19 @@ public override VectorLayer CreateLayer(AbstractPath path, DriverOptions options
 
 ### أنظر أيضا
 
-* class [VectorLayer](../../../aspose.gis/vectorlayer)
-* class [AbstractPath](../../../aspose.gis/abstractpath)
-* class [DriverOptions](../../../aspose.gis/driveroptions)
-* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem)
-* class [TopoJsonDriver](../../topojsondriver)
-* مساحة الاسم [Aspose.Gis.Formats.TopoJson](../../topojsondriver)
+* class [VectorLayer](../../../aspose.gis/vectorlayer/)
+* class [AbstractPath](../../../aspose.gis/abstractpath/)
+* class [DriverOptions](../../../aspose.gis/driveroptions/)
+* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem/)
+* class [TopoJsonDriver](../)
+* مساحة الاسم [Aspose.Gis.Formats.TopoJson](../../topojsondriver/)
 * المجسم [Aspose.GIS](../../../)
 
 ---
 
 ## CreateLayer(AbstractPath, TopoJsonOptions, SpatialReferenceSystem) {#createlayer_4}
 
-ينشئ طبقة ويفتحها لإضافة معالم جديدة.
+ينشئ طبقة ويفتحها لإضافة معالم جديدة .
 
 ```csharp
 public VectorLayer CreateLayer(AbstractPath path, TopoJsonOptions options, 
@@ -127,7 +127,7 @@ public VectorLayer CreateLayer(AbstractPath path, TopoJsonOptions options,
 
 ### قيمة الإرجاع
 
-مثال على[`VectorLayer`](../../../aspose.gis/vectorlayer).
+مثال على[`VectorLayer`](../../../aspose.gis/vectorlayer/).
 
 ### استثناءات
 
@@ -138,12 +138,12 @@ public VectorLayer CreateLayer(AbstractPath path, TopoJsonOptions options,
 
 ### أنظر أيضا
 
-* class [VectorLayer](../../../aspose.gis/vectorlayer)
-* class [AbstractPath](../../../aspose.gis/abstractpath)
-* class [TopoJsonOptions](../../topojsonoptions)
-* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem)
-* class [TopoJsonDriver](../../topojsondriver)
-* مساحة الاسم [Aspose.Gis.Formats.TopoJson](../../topojsondriver)
+* class [VectorLayer](../../../aspose.gis/vectorlayer/)
+* class [AbstractPath](../../../aspose.gis/abstractpath/)
+* class [TopoJsonOptions](../../topojsonoptions/)
+* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem/)
+* class [TopoJsonDriver](../)
+* مساحة الاسم [Aspose.Gis.Formats.TopoJson](../../topojsondriver/)
 * المجسم [Aspose.GIS](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.GIS.dll -->
+

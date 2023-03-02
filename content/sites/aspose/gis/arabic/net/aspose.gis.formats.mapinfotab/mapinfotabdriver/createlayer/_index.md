@@ -1,14 +1,14 @@
 ---
-title: CreateLayer
+title: MapInfoTabDriver.CreateLayer
 second_title: Aspose.GIS لمرجع .NET API
-description: ينشئ طبقة ويفتحها لإضافة معالم جديدة.
+description: MapInfoTabDriver طريقة. ينشئ طبقة ويفتحها لإضافة معالم جديدة .
 type: docs
 weight: 40
 url: /ar/net/aspose.gis.formats.mapinfotab/mapinfotabdriver/createlayer/
 ---
 ## CreateLayer(string, MapInfoTabOptions) {#createlayer_9}
 
-ينشئ طبقة ويفتحها لإضافة معالم جديدة.
+ينشئ طبقة ويفتحها لإضافة معالم جديدة .
 
 ```csharp
 public VectorLayer CreateLayer(string path, MapInfoTabOptions options)
@@ -21,7 +21,7 @@ public VectorLayer CreateLayer(string path, MapInfoTabOptions options)
 
 ### قيمة الإرجاع
 
-مثال على[`VectorLayer`](../../../aspose.gis/vectorlayer).
+مثال على[`VectorLayer`](../../../aspose.gis/vectorlayer/).
 
 ### استثناءات
 
@@ -31,17 +31,17 @@ public VectorLayer CreateLayer(string path, MapInfoTabOptions options)
 
 ### أنظر أيضا
 
-* class [VectorLayer](../../../aspose.gis/vectorlayer)
-* class [MapInfoTabOptions](../../mapinfotaboptions)
-* class [MapInfoTabDriver](../../mapinfotabdriver)
-* مساحة الاسم [Aspose.Gis.Formats.MapInfoTab](../../mapinfotabdriver)
+* class [VectorLayer](../../../aspose.gis/vectorlayer/)
+* class [MapInfoTabOptions](../../mapinfotaboptions/)
+* class [MapInfoTabDriver](../)
+* مساحة الاسم [Aspose.Gis.Formats.MapInfoTab](../../mapinfotabdriver/)
 * المجسم [Aspose.GIS](../../../)
 
 ---
 
 ## CreateLayer(AbstractPath, MapInfoTabOptions) {#createlayer_3}
 
-ينشئ طبقة ويفتحها لإضافة معالم جديدة.
+ينشئ طبقة ويفتحها لإضافة معالم جديدة .
 
 ```csharp
 public VectorLayer CreateLayer(AbstractPath path, MapInfoTabOptions options)
@@ -54,7 +54,7 @@ public VectorLayer CreateLayer(AbstractPath path, MapInfoTabOptions options)
 
 ### قيمة الإرجاع
 
-مثال على[`VectorLayer`](../../../aspose.gis/vectorlayer).
+مثال على[`VectorLayer`](../../../aspose.gis/vectorlayer/).
 
 ### استثناءات
 
@@ -64,18 +64,18 @@ public VectorLayer CreateLayer(AbstractPath path, MapInfoTabOptions options)
 
 ### أنظر أيضا
 
-* class [VectorLayer](../../../aspose.gis/vectorlayer)
-* class [AbstractPath](../../../aspose.gis/abstractpath)
-* class [MapInfoTabOptions](../../mapinfotaboptions)
-* class [MapInfoTabDriver](../../mapinfotabdriver)
-* مساحة الاسم [Aspose.Gis.Formats.MapInfoTab](../../mapinfotabdriver)
+* class [VectorLayer](../../../aspose.gis/vectorlayer/)
+* class [AbstractPath](../../../aspose.gis/abstractpath/)
+* class [MapInfoTabOptions](../../mapinfotaboptions/)
+* class [MapInfoTabDriver](../)
+* مساحة الاسم [Aspose.Gis.Formats.MapInfoTab](../../mapinfotabdriver/)
 * المجسم [Aspose.GIS](../../../)
 
 ---
 
 ## CreateLayer(AbstractPath, DriverOptions, SpatialReferenceSystem) {#createlayer_2}
 
-ينشئ طبقة ويفتحها لإضافة معالم جديدة.
+ينشئ طبقة ويفتحها لإضافة معالم جديدة .
 
 ```csharp
 public override VectorLayer CreateLayer(AbstractPath path, DriverOptions options, 
@@ -90,7 +90,7 @@ public override VectorLayer CreateLayer(AbstractPath path, DriverOptions options
 
 ### قيمة الإرجاع
 
-مثال على[`VectorLayer`](../../../aspose.gis/vectorlayer).
+مثال على[`VectorLayer`](../../../aspose.gis/vectorlayer/).
 
 ### استثناءات
 
@@ -100,19 +100,19 @@ public override VectorLayer CreateLayer(AbstractPath path, DriverOptions options
 
 ### أنظر أيضا
 
-* class [VectorLayer](../../../aspose.gis/vectorlayer)
-* class [AbstractPath](../../../aspose.gis/abstractpath)
-* class [DriverOptions](../../../aspose.gis/driveroptions)
-* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem)
-* class [MapInfoTabDriver](../../mapinfotabdriver)
-* مساحة الاسم [Aspose.Gis.Formats.MapInfoTab](../../mapinfotabdriver)
+* class [VectorLayer](../../../aspose.gis/vectorlayer/)
+* class [AbstractPath](../../../aspose.gis/abstractpath/)
+* class [DriverOptions](../../../aspose.gis/driveroptions/)
+* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem/)
+* class [MapInfoTabDriver](../)
+* مساحة الاسم [Aspose.Gis.Formats.MapInfoTab](../../mapinfotabdriver/)
 * المجسم [Aspose.GIS](../../../)
 
 ---
 
 ## CreateLayer(AbstractPath, MapInfoTabOptions, SpatialReferenceSystem) {#createlayer_4}
 
-ينشئ طبقة ويفتحها لإضافة معالم جديدة.
+ينشئ طبقة ويفتحها لإضافة معالم جديدة .
 
 ```csharp
 public VectorLayer CreateLayer(AbstractPath path, MapInfoTabOptions options, 
@@ -127,7 +127,7 @@ public VectorLayer CreateLayer(AbstractPath path, MapInfoTabOptions options,
 
 ### قيمة الإرجاع
 
-مثال على[`VectorLayer`](../../../aspose.gis/vectorlayer).
+مثال على[`VectorLayer`](../../../aspose.gis/vectorlayer/).
 
 ### استثناءات
 
@@ -138,12 +138,12 @@ public VectorLayer CreateLayer(AbstractPath path, MapInfoTabOptions options,
 
 ### أنظر أيضا
 
-* class [VectorLayer](../../../aspose.gis/vectorlayer)
-* class [AbstractPath](../../../aspose.gis/abstractpath)
-* class [MapInfoTabOptions](../../mapinfotaboptions)
-* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem)
-* class [MapInfoTabDriver](../../mapinfotabdriver)
-* مساحة الاسم [Aspose.Gis.Formats.MapInfoTab](../../mapinfotabdriver)
+* class [VectorLayer](../../../aspose.gis/vectorlayer/)
+* class [AbstractPath](../../../aspose.gis/abstractpath/)
+* class [MapInfoTabOptions](../../mapinfotaboptions/)
+* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem/)
+* class [MapInfoTabDriver](../)
+* مساحة الاسم [Aspose.Gis.Formats.MapInfoTab](../../mapinfotabdriver/)
 * المجسم [Aspose.GIS](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.GIS.dll -->
+

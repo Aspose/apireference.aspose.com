@@ -1,7 +1,7 @@
 ---
-title: CreateDataset
+title: FileGdbDriver.CreateDataset
 second_title: Aspose.GIS لمرجع .NET API
-description: لإنشاء مجموعة بيانات .
+description: FileGdbDriver طريقة. لإنشاء مجموعة بيانات .
 type: docs
 weight: 50
 url: /ar/net/aspose.gis.formats.filegdb/filegdbdriver/createdataset/
@@ -21,7 +21,7 @@ public Dataset CreateDataset(string path, FileGdbOptions options)
 
 ### قيمة الإرجاع
 
-مثال على[`Dataset`](../../../aspose.gis/dataset).
+مثال على[`Dataset`](../../../aspose.gis/dataset/).
 
 ### استثناءات
 
@@ -29,17 +29,17 @@ public Dataset CreateDataset(string path, FileGdbOptions options)
 | --- | --- |
 | ArgumentException | كائن الخيارات له نوع غير صحيح لبرنامج التشغيل هذا. |
 | ArgumentNullException | الطريق`null`. |
-| [GisException](../../../aspose.gis/gisexception) | خطأ في قراءة مجموعة البيانات. |
+| [GisException](../../../aspose.gis/gisexception/) | خطأ في قراءة مجموعة البيانات. |
 | IOException | حدث خطأ في الإدخال / الإخراج. |
-| NotSupportedException | لا يمكن للسائق فتح مجموعات البيانات (انظر[`CanOpenDatasets`](../../../aspose.gis/filedriver/canopendatasets)). |
+| NotSupportedException | لا يمكن للسائق فتح مجموعات البيانات (انظر[`CanOpenDatasets`](../../../aspose.gis/filedriver/canopendatasets/)). |
 | InvalidOperationException | مجموعة البيانات موجودة بالفعل. |
 
 ### أنظر أيضا
 
-* class [Dataset](../../../aspose.gis/dataset)
-* class [FileGdbOptions](../../filegdboptions)
-* class [FileGdbDriver](../../filegdbdriver)
-* مساحة الاسم [Aspose.Gis.Formats.FileGdb](../../filegdbdriver)
+* class [Dataset](../../../aspose.gis/dataset/)
+* class [FileGdbOptions](../../filegdboptions/)
+* class [FileGdbDriver](../)
+* مساحة الاسم [Aspose.Gis.Formats.FileGdb](../../filegdbdriver/)
 * المجسم [Aspose.GIS](../../../)
 
 ---
@@ -59,7 +59,7 @@ public override Dataset CreateDataset(AbstractPath path, DriverOptions options)
 
 ### قيمة الإرجاع
 
-مثال على[`Dataset`](../../../aspose.gis/dataset).
+مثال على[`Dataset`](../../../aspose.gis/dataset/).
 
 ### استثناءات
 
@@ -67,18 +67,18 @@ public override Dataset CreateDataset(AbstractPath path, DriverOptions options)
 | --- | --- |
 | ArgumentException | كائن الخيارات له نوع غير صحيح لبرنامج التشغيل هذا. |
 | ArgumentNullException | الطريق`null`. |
-| [GisException](../../../aspose.gis/gisexception) | خطأ في قراءة مجموعة البيانات. |
+| [GisException](../../../aspose.gis/gisexception/) | خطأ في قراءة مجموعة البيانات. |
 | IOException | حدث خطأ في الإدخال / الإخراج. |
-| NotSupportedException | لا يمكن للسائق فتح مجموعات البيانات (انظر[`CanOpenDatasets`](../../../aspose.gis/filedriver/canopendatasets)). |
+| NotSupportedException | لا يمكن للسائق فتح مجموعات البيانات (انظر[`CanOpenDatasets`](../../../aspose.gis/filedriver/canopendatasets/)). |
 | InvalidOperationException | مجموعة البيانات موجودة بالفعل. |
 
 ### أنظر أيضا
 
-* class [Dataset](../../../aspose.gis/dataset)
-* class [AbstractPath](../../../aspose.gis/abstractpath)
-* class [DriverOptions](../../../aspose.gis/driveroptions)
-* class [FileGdbDriver](../../filegdbdriver)
-* مساحة الاسم [Aspose.Gis.Formats.FileGdb](../../filegdbdriver)
+* class [Dataset](../../../aspose.gis/dataset/)
+* class [AbstractPath](../../../aspose.gis/abstractpath/)
+* class [DriverOptions](../../../aspose.gis/driveroptions/)
+* class [FileGdbDriver](../)
+* مساحة الاسم [Aspose.Gis.Formats.FileGdb](../../filegdbdriver/)
 * المجسم [Aspose.GIS](../../../)
 
 ---
@@ -98,7 +98,7 @@ public Dataset CreateDataset(AbstractPath path, FileGdbOptions options)
 
 ### قيمة الإرجاع
 
-مثال على[`Dataset`](../../../aspose.gis/dataset).
+مثال على[`Dataset`](../../../aspose.gis/dataset/).
 
 ### استثناءات
 
@@ -106,18 +106,18 @@ public Dataset CreateDataset(AbstractPath path, FileGdbOptions options)
 | --- | --- |
 | ArgumentException | كائن الخيارات له نوع غير صحيح لبرنامج التشغيل هذا. |
 | ArgumentNullException | الطريق`null`. |
-| [GisException](../../../aspose.gis/gisexception) | خطأ في قراءة مجموعة البيانات. |
+| [GisException](../../../aspose.gis/gisexception/) | خطأ في قراءة مجموعة البيانات. |
 | IOException | حدث خطأ في الإدخال / الإخراج. |
-| NotSupportedException | لا يمكن للسائق فتح مجموعات البيانات (انظر[`CanOpenDatasets`](../../../aspose.gis/filedriver/canopendatasets)). |
+| NotSupportedException | لا يمكن للسائق فتح مجموعات البيانات (انظر[`CanOpenDatasets`](../../../aspose.gis/filedriver/canopendatasets/)). |
 | InvalidOperationException | مجموعة البيانات موجودة بالفعل. |
 
 ### أنظر أيضا
 
-* class [Dataset](../../../aspose.gis/dataset)
-* class [AbstractPath](../../../aspose.gis/abstractpath)
-* class [FileGdbOptions](../../filegdboptions)
-* class [FileGdbDriver](../../filegdbdriver)
-* مساحة الاسم [Aspose.Gis.Formats.FileGdb](../../filegdbdriver)
+* class [Dataset](../../../aspose.gis/dataset/)
+* class [AbstractPath](../../../aspose.gis/abstractpath/)
+* class [FileGdbOptions](../../filegdboptions/)
+* class [FileGdbDriver](../)
+* مساحة الاسم [Aspose.Gis.Formats.FileGdb](../../filegdbdriver/)
 * المجسم [Aspose.GIS](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.GIS.dll -->
+

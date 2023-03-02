@@ -1,14 +1,14 @@
 ---
-title: ProjectedSpatialReferenceSystemParameters
+title: Class ProjectedSpatialReferenceSystemParameters
 second_title: Aspose.GIS لمرجع .NET API
-description: معلمات لإنشاء SRS المتوقع. تحتوي بعض المعلمات على قيم افتراضية . بعض المعلمات لها قيم افتراضية معقولة  لذلك لا يتعين عليك تعيينها فقط.null لهذه المعلمات  سيتم استخدام قيمة افتراضية.ProjectionMethodName./projectedspatialreferencesystemparameters/projectionmethodname وBase./projectedspatialreferencesystemparameters/base ليس لديك افتراضيات  عليك تعيين بعض غيرnull قيمة لهذه الخصائص .
+description: Aspose.Gis.SpatialReferencing.ProjectedSpatialReferenceSystemParameters فصل. معلمات لإنشاء SRS المتوقع. تحتوي بعض المعلمات على قيم افتراضية . بعض المعلمات لها قيم افتراضية معقولة  لذلك لا يتعين عليك تعيينها فقط.null لهذه المعلمات  سيتم استخدام قيمة افتراضية.ProjectionMethodName وBase ليس لديك افتراضيات  عليك تعيين بعض غيرnull قيمة لهذه الخصائص .
 type: docs
-weight: 2130
+weight: 2230
 url: /ar/net/aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/
 ---
 ## ProjectedSpatialReferenceSystemParameters class
 
-معلمات لإنشاء SRS المتوقع. تحتوي بعض المعلمات على قيم افتراضية . بعض المعلمات لها قيم افتراضية معقولة ، لذلك لا يتعين عليك تعيينها فقط.`null` لهذه المعلمات ، سيتم استخدام قيمة افتراضية.[`ProjectionMethodName`](./projectionmethodname) و[`Base`](./base) ليس لديك افتراضيات - عليك تعيين بعض غير`null` قيمة لهذه الخصائص .
+معلمات لإنشاء SRS المتوقع. تحتوي بعض المعلمات على قيم افتراضية . بعض المعلمات لها قيم افتراضية معقولة ، لذلك لا يتعين عليك تعيينها فقط.`null` لهذه المعلمات ، سيتم استخدام قيمة افتراضية.[`ProjectionMethodName`](./projectionmethodname/) و[`Base`](./base/) ليس لديك افتراضيات - عليك تعيين بعض غير`null` قيمة لهذه الخصائص .
 
 ```csharp
 public class ProjectedSpatialReferenceSystemParameters
@@ -18,31 +18,31 @@ public class ProjectedSpatialReferenceSystemParameters
 
 | اسم | وصف |
 | --- | --- |
-| [ProjectedSpatialReferenceSystemParameters](projectedspatialreferencesystemparameters)() | Default_Constructor |
+| [ProjectedSpatialReferenceSystemParameters](projectedspatialreferencesystemparameters/)() | Default_Constructor |
 
 ## الخصائص
 
 | اسم | وصف |
 | --- | --- |
-| [AxisesOrder](../../aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/axisesorder) { get; set; } | ترتيب المحاور. افتراضات إلىXY . |
-| [Base](../../aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/base) { get; set; } | SRS الجغرافي الأساسي (SRS الذي يتم تطبيق الإسقاط عليه) . يجب عليك تعيين هذه الخاصية على "لا"`null` لإنشاء SRS صالح ، لا تحتوي هذه الخاصية على أي افتراضي. |
-| [LinearUnit](../../aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/linearunit) { get; set; } | الوحدات التي سيتم استخدامها في SRS. الافتراضي هو[`Meter`](../unit/meter) . |
-| [Name](../../aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/name) { get; set; } | اسم SRS المتوقع. الافتراضي هو "بدون اسم" . |
-| [ProjectionMethodIdentifier](../../aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/projectionmethodidentifier) { get; set; } | معرف طريقة الإسقاط. لا توجد قيمة افتراضية ، يمكنك تعيين هذه المعلمة على "لا"`null` القيمة ، إذا كنت تريد إرفاق معرف بالإسقاط. إذا قمت بذلك - فالأمر متروك لك للتأكد من أن المعرف في طريقة إسقاط متسقة name (لن يتغير اسم طريقة الإسقاط عند تعيين هذه الخاصية) . |
-| [ProjectionMethodName](../../aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/projectionmethodname) { get; set; } | اسم طريقة الإسقاط. لا يوجد افتراضي ويجب عليك تعيين هذه المعلمة على لا`null` القيمة ، منذ SRS المتوقع بدون اسم إسقاط غير مجدية. |
-| [XAxis](../../aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/xaxis) { get; set; } | المحور الذي يصف البعد X (الأفقي). افتراضات للمحور باتجاه الشرق . |
-| [YAxis](../../aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/yaxis) { get; set; } | المحور الذي يصف البعد Y (الرأسي). افتراضات على المحور ذي الاتجاه الشمالي . |
+| [AxisesOrder](../../aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/axisesorder/) { get; set; } | ترتيب المحاور. افتراضات إلىXY . |
+| [Base](../../aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/base/) { get; set; } | SRS الجغرافي الأساسي (SRS الذي يتم تطبيق الإسقاط عليه) . يجب عليك تعيين هذه الخاصية على "لا"`null` لإنشاء SRS صالح ، لا تحتوي هذه الخاصية على أي افتراضي. |
+| [LinearUnit](../../aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/linearunit/) { get; set; } | الوحدات التي سيتم استخدامها في SRS. الافتراضي هو[`Meter`](../unit/meter/) . |
+| [Name](../../aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/name/) { get; set; } | اسم SRS المتوقع. الافتراضي هو "بدون اسم" . |
+| [ProjectionMethodIdentifier](../../aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/projectionmethodidentifier/) { get; set; } | معرف طريقة الإسقاط. لا توجد قيمة افتراضية ، يمكنك تعيين هذه المعلمة على "لا"`null` القيمة ، إذا كنت تريد إرفاق معرف بالإسقاط. إذا قمت بذلك - فالأمر متروك لك للتأكد من أن المعرف في طريقة إسقاط متسقة name (لن يتغير اسم طريقة الإسقاط عند تعيين هذه الخاصية) . |
+| [ProjectionMethodName](../../aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/projectionmethodname/) { get; set; } | اسم طريقة الإسقاط. لا يوجد افتراضي ويجب عليك تعيين هذه المعلمة على لا`null` القيمة ، منذ SRS المتوقع بدون اسم إسقاط غير مجدية. |
+| [XAxis](../../aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/xaxis/) { get; set; } | المحور الذي يصف البعد X (الأفقي). افتراضات للمحور باتجاه الشرق . |
+| [YAxis](../../aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/yaxis/) { get; set; } | المحور الذي يصف البعد Y (الرأسي). افتراضات على المحور ذي الاتجاه الشمالي . |
 
 ## طُرق
 
 | اسم | وصف |
 | --- | --- |
-| [AddProjectionParameter](../../aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/addprojectionparameter)(string, double) | يضيف معلمة الإسقاط إلى SRS. إذا تمت إضافة معلمة بهذا الاسم بالفعل - قم بتحديثها . |
-| [GetProjectionParameter](../../aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/getprojectionparameter)(string) | يحصل على معلمة الإسقاط بالاسم المحدد. |
+| [AddProjectionParameter](../../aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/addprojectionparameter/)(string, double) | إضافة معلمة الإسقاط إلى SRS هذا. إذا تمت إضافة معلمة بهذا الاسم بالفعل - قم بتحديثها . |
+| [GetProjectionParameter](../../aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/getprojectionparameter/)(string) | يحصل على معلمة الإسقاط بالاسم المحدد. |
 
 ### أنظر أيضا
 
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../aspose.gis.spatialreferencing)
+* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../aspose.gis.spatialreferencing/)
 * المجسم [Aspose.GIS](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.GIS.dll -->
+

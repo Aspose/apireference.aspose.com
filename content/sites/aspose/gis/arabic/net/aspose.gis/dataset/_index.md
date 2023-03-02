@@ -1,14 +1,14 @@
 ---
-title: Dataset
+title: Class Dataset
 second_title: Aspose.GIS لمرجع .NET API
-description: مجموعة البيانات هي مجموعةVectorLayer./vectorlayer مثيلات .
+description: Aspose.Gis.Dataset فصل. مجموعة البيانات هي مجموعةVectorLayer مثيلات .
 type: docs
-weight: 70
+weight: 80
 url: /ar/net/aspose.gis/dataset/
 ---
 ## Dataset class
 
-مجموعة البيانات هي مجموعة[`VectorLayer`](../vectorlayer) مثيلات .
+مجموعة البيانات هي مجموعة[`VectorLayer`](../vectorlayer/) مثيلات .
 
 ```csharp
 public abstract class Dataset : IDisposable
@@ -18,40 +18,40 @@ public abstract class Dataset : IDisposable
 
 | اسم | وصف |
 | --- | --- |
-| virtual [CanCreateLayers](../../aspose.gis/dataset/cancreatelayers) { get; } | يحصل على قيمة تشير إلى ما إذا كانت مجموعة البيانات هذه يمكنها إنشاء طبقات متجهة. |
-| virtual [CanRemoveLayers](../../aspose.gis/dataset/canremovelayers) { get; } | يحصل على قيمة تشير إلى ما إذا كانت مجموعة البيانات هذه يمكنها إزالة الطبقات المتجهة. |
-| abstract [Driver](../../aspose.gis/dataset/driver) { get; } | يحصل على ملف[`Driver`](./driver) الذي أنشأ مجموعة البيانات هذه. |
-| abstract [LayersCount](../../aspose.gis/dataset/layerscount) { get; } | الحصول على عدد الطبقات في مجموعة البيانات هذه. |
+| virtual [CanCreateLayers](../../aspose.gis/dataset/cancreatelayers/) { get; } | الحصول على قيمة تشير إلى ما إذا كانت مجموعة البيانات هذه يمكنها إنشاء طبقات متجهة. |
+| virtual [CanRemoveLayers](../../aspose.gis/dataset/canremovelayers/) { get; } | يحصل على قيمة تشير إلى ما إذا كانت مجموعة البيانات هذه يمكنها إزالة الطبقات المتجهة. |
+| abstract [Driver](../../aspose.gis/dataset/driver/) { get; } | يحصل على ملف[`Driver`](./driver/) الذي أنشأ مجموعة البيانات هذه. |
+| abstract [LayersCount](../../aspose.gis/dataset/layerscount/) { get; } | الحصول على عدد الطبقات في مجموعة البيانات هذه. |
 
 ## طُرق
 
 | اسم | وصف |
 | --- | --- |
-| static [Create](../../aspose.gis/dataset/create#create)(AbstractPath, FileDriver) | لإنشاء مجموعة بيانات . |
-| static [Create](../../aspose.gis/dataset/create#create_2)(string, FileDriver) | لإنشاء مجموعة بيانات . |
-| static [Create](../../aspose.gis/dataset/create#create_1)(AbstractPath, FileDriver, DriverOptions) | لإنشاء مجموعة بيانات . |
-| static [Create](../../aspose.gis/dataset/create#create_3)(string, FileDriver, DriverOptions) | لإنشاء مجموعة بيانات . |
-| static [Open](../../aspose.gis/dataset/open#open)(AbstractPath, FileDriver) | يفتح مجموعة البيانات . |
-| static [Open](../../aspose.gis/dataset/open#open_2)(IDbConnection, DatabaseDriver) | يفتح مجموعة البيانات . |
-| static [Open](../../aspose.gis/dataset/open#open_3)(string, FileDriver) | يفتح مجموعة البيانات . |
-| static [Open](../../aspose.gis/dataset/open#open_1)(AbstractPath, FileDriver, DriverOptions) | يفتح مجموعة البيانات . |
-| static [Open](../../aspose.gis/dataset/open#open_4)(string, FileDriver, DriverOptions) | يفتح مجموعة البيانات . |
-| virtual [CreateLayer](../../aspose.gis/dataset/createlayer#createlayer)() | ينشئ طبقة متجه جديدة ويفتحها للإلحاق. |
-| virtual [CreateLayer](../../aspose.gis/dataset/createlayer#createlayer_2)(SpatialReferenceSystem) | ينشئ طبقة متجه جديدة ويفتحها للإلحاق. |
-| virtual [CreateLayer](../../aspose.gis/dataset/createlayer#createlayer_1)(DriverOptions, SpatialReferenceSystem) | ينشئ طبقة متجه جديدة ويفتحها للإلحاق. |
-| virtual [CreateLayer](../../aspose.gis/dataset/createlayer#createlayer_4)(string, SpatialReferenceSystem) | ينشئ طبقة متجه جديدة باسم محدد ويفتحها للإلحاق. |
-| virtual [CreateLayer](../../aspose.gis/dataset/createlayer#createlayer_3)(string, DriverOptions, SpatialReferenceSystem) | ينشئ طبقة متجه جديدة باسم محدد ويفتحها للإلحاق. |
-| [Dispose](../../aspose.gis/dataset/dispose)() | يقوم بإصدار الموارد التي يستخدمها ملف[`Dataset`](../dataset) . |
-| abstract [EditLayer](../../aspose.gis/dataset/editlayer)(string, DriverOptions, SpatialReferenceSystem) | لفتح الطبقة ذات الاسم المحدد للتحرير. |
-| abstract [GetLayerName](../../aspose.gis/dataset/getlayername)(int) | يحصل على اسم الطبقة في الفهرس المحدد. |
-| abstract [OpenLayer](../../aspose.gis/dataset/openlayer)(string, DriverOptions) | لفتح الطبقة ذات الاسم المحدد للقراءة. |
-| abstract [OpenLayerAt](../../aspose.gis/dataset/openlayerat)(int, DriverOptions) | يفتح الطبقة في الفهرس المحدد للقراءة. |
-| virtual [RemoveLayer](../../aspose.gis/dataset/removelayer)(string) | يزيل الطبقة المتجهة ذات الاسم المحدد. |
-| virtual [RemoveLayerAt](../../aspose.gis/dataset/removelayerat)(int) | يزيل طبقة المتجه في الفهرس المحدد. |
+| static [Create](../../aspose.gis/dataset/create/#create)(AbstractPath, FileDriver) | لإنشاء مجموعة بيانات . |
+| static [Create](../../aspose.gis/dataset/create/#create_2)(string, FileDriver) | لإنشاء مجموعة بيانات . |
+| static [Create](../../aspose.gis/dataset/create/#create_1)(AbstractPath, FileDriver, DriverOptions) | لإنشاء مجموعة بيانات . |
+| static [Create](../../aspose.gis/dataset/create/#create_3)(string, FileDriver, DriverOptions) | لإنشاء مجموعة بيانات . |
+| static [Open](../../aspose.gis/dataset/open/#open)(AbstractPath, FileDriver) | يفتح مجموعة البيانات . |
+| static [Open](../../aspose.gis/dataset/open/#open_2)(IDbConnection, DatabaseDriver) | يفتح مجموعة البيانات . |
+| static [Open](../../aspose.gis/dataset/open/#open_3)(string, FileDriver) | يفتح مجموعة البيانات . |
+| static [Open](../../aspose.gis/dataset/open/#open_1)(AbstractPath, FileDriver, DriverOptions) | يفتح مجموعة البيانات . |
+| static [Open](../../aspose.gis/dataset/open/#open_4)(string, FileDriver, DriverOptions) | يفتح مجموعة البيانات . |
+| virtual [CreateLayer](../../aspose.gis/dataset/createlayer/#createlayer)() | ينشئ طبقة متجه جديدة ويفتحها للإلحاق. |
+| virtual [CreateLayer](../../aspose.gis/dataset/createlayer/#createlayer_2)(SpatialReferenceSystem) | ينشئ طبقة متجه جديدة ويفتحها للإلحاق. |
+| virtual [CreateLayer](../../aspose.gis/dataset/createlayer/#createlayer_1)(DriverOptions, SpatialReferenceSystem) | ينشئ طبقة متجه جديدة ويفتحها للإلحاق. |
+| virtual [CreateLayer](../../aspose.gis/dataset/createlayer/#createlayer_4)(string, SpatialReferenceSystem) | ينشئ طبقة متجه جديدة باسم محدد ويفتحها للإلحاق. |
+| virtual [CreateLayer](../../aspose.gis/dataset/createlayer/#createlayer_3)(string, DriverOptions, SpatialReferenceSystem) | ينشئ طبقة متجه جديدة باسم محدد ويفتحها للإلحاق. |
+| [Dispose](../../aspose.gis/dataset/dispose/)() | يقوم بإصدار الموارد المستخدمة بواسطة ملف`Dataset` . |
+| abstract [EditLayer](../../aspose.gis/dataset/editlayer/)(string, DriverOptions, SpatialReferenceSystem) | لفتح الطبقة ذات الاسم المحدد للتحرير. |
+| abstract [GetLayerName](../../aspose.gis/dataset/getlayername/)(int) | يحصل على اسم الطبقة في الفهرس المحدد. |
+| abstract [OpenLayer](../../aspose.gis/dataset/openlayer/)(string, DriverOptions) | يفتح الطبقة ذات الاسم المحدد للقراءة. |
+| abstract [OpenLayerAt](../../aspose.gis/dataset/openlayerat/)(int, DriverOptions) | يفتح الطبقة في الفهرس المحدد للقراءة. |
+| virtual [RemoveLayer](../../aspose.gis/dataset/removelayer/)(string) | يزيل الطبقة المتجهة ذات الاسم المحدد. |
+| virtual [RemoveLayerAt](../../aspose.gis/dataset/removelayerat/)(int) | يزيل طبقة المتجه في الفهرس المحدد. |
 
 ### أنظر أيضا
 
-* مساحة الاسم [Aspose.Gis](../../aspose.gis)
+* مساحة الاسم [Aspose.Gis](../../aspose.gis/)
 * المجسم [Aspose.GIS](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.GIS.dll -->
+
