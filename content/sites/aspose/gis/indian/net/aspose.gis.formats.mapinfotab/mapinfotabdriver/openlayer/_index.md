@@ -1,0 +1,90 @@
+---
+title: MapInfoTabDriver.OpenLayer
+second_title: .NET API संदर्भ के लिए Aspose.GIS
+description: MapInfoTabDriver तरक. पढ़ने के लए एक परत खलत है.
+type: docs
+weight: 50
+url: /hi/net/aspose.gis.formats.mapinfotab/mapinfotabdriver/openlayer/
+---
+## OpenLayer(string, MapInfoTabOptions) {#openlayer_5}
+
+पढ़ने के लिए एक परत खोलता है.
+
+```csharp
+public VectorLayer OpenLayer(string path, MapInfoTabOptions options)
+```
+
+| पैरामीटर | प्रकार | विवरण |
+| --- | --- | --- |
+| path | String | फ़ाइल का पथ। |
+| options | MapInfoTabOptions | चालक-विशिष्ट विकल्प। |
+
+### प्रतिलाभ की मात्रा
+
+का एक उदाहरण[`VectorLayer`](../../../aspose.gis/vectorlayer/).
+
+### यह सभी देखें
+
+* class [VectorLayer](../../../aspose.gis/vectorlayer/)
+* class [MapInfoTabOptions](../../mapinfotaboptions/)
+* class [MapInfoTabDriver](../)
+* नाम स्थान [Aspose.Gis.Formats.MapInfoTab](../../mapinfotabdriver/)
+* सभा [Aspose.GIS](../../../)
+
+---
+
+## OpenLayer(AbstractPath, DriverOptions) {#openlayer_1}
+
+पढ़ने के लिए एक परत खोलता है.
+
+```csharp
+public override VectorLayer OpenLayer(AbstractPath path, DriverOptions options)
+```
+
+| पैरामीटर | प्रकार | विवरण |
+| --- | --- | --- |
+| path | AbstractPath | फ़ाइल का पथ। |
+| options | DriverOptions | चालक-विशिष्ट विकल्प। |
+
+### प्रतिलाभ की मात्रा
+
+का एक उदाहरण[`VectorLayer`](../../../aspose.gis/vectorlayer/).
+
+### यह सभी देखें
+
+* class [VectorLayer](../../../aspose.gis/vectorlayer/)
+* class [AbstractPath](../../../aspose.gis/abstractpath/)
+* class [DriverOptions](../../../aspose.gis/driveroptions/)
+* class [MapInfoTabDriver](../)
+* नाम स्थान [Aspose.Gis.Formats.MapInfoTab](../../mapinfotabdriver/)
+* सभा [Aspose.GIS](../../../)
+
+---
+
+## OpenLayer(AbstractPath, MapInfoTabOptions) {#openlayer_2}
+
+पढ़ने के लिए एक परत खोलता है.
+
+```csharp
+public VectorLayer OpenLayer(AbstractPath path, MapInfoTabOptions options)
+```
+
+| पैरामीटर | प्रकार | विवरण |
+| --- | --- | --- |
+| path | AbstractPath | फ़ाइल का पथ। |
+| options | MapInfoTabOptions | चालक-विशिष्ट विकल्प। |
+
+### प्रतिलाभ की मात्रा
+
+का एक उदाहरण[`VectorLayer`](../../../aspose.gis/vectorlayer/).
+
+### यह सभी देखें
+
+* class [VectorLayer](../../../aspose.gis/vectorlayer/)
+* class [AbstractPath](../../../aspose.gis/abstractpath/)
+* class [MapInfoTabOptions](../../mapinfotaboptions/)
+* class [MapInfoTabDriver](../)
+* नाम स्थान [Aspose.Gis.Formats.MapInfoTab](../../mapinfotabdriver/)
+* सभा [Aspose.GIS](../../../)
+
+

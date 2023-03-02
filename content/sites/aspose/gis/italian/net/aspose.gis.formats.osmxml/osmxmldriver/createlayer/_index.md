@@ -1,14 +1,14 @@
 ---
-title: CreateLayer
+title: OsmXmlDriver.CreateLayer
 second_title: Riferimento API Aspose.GIS per .NET
-description: Crea un livello e lo apre per aggiungere nuove funzionalità.
+description: OsmXmlDriver metodo. Crea un livello e lo apre per laggiunta di nuove funzionalità.
 type: docs
 weight: 40
 url: /it/net/aspose.gis.formats.osmxml/osmxmldriver/createlayer/
 ---
 ## CreateLayer(string, OsmXmlOptions) {#createlayer_7}
 
-Crea un livello e lo apre per aggiungere nuove funzionalità.
+Crea un livello e lo apre per l'aggiunta di nuove funzionalità.
 
 ```csharp
 public VectorLayer CreateLayer(string path, OsmXmlOptions options)
@@ -17,11 +17,11 @@ public VectorLayer CreateLayer(string path, OsmXmlOptions options)
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
 | path | String | Percorso del file. |
-| options | OsmXmlOptions | Opzioni specifiche del driver. |
+| options | OsmXmlOptions | Opzioni specifiche del conducente. |
 
 ### Valore di ritorno
 
-Un'istanza di[`VectorLayer`](../../../aspose.gis/vectorlayer).
+Un'istanza di[`VectorLayer`](../../../aspose.gis/vectorlayer/).
 
 ### Eccezioni
 
@@ -31,17 +31,17 @@ Un'istanza di[`VectorLayer`](../../../aspose.gis/vectorlayer).
 
 ### Guarda anche
 
-* class [VectorLayer](../../../aspose.gis/vectorlayer)
-* class [OsmXmlOptions](../../osmxmloptions)
-* class [OsmXmlDriver](../../osmxmldriver)
-* spazio dei nomi [Aspose.Gis.Formats.OsmXml](../../osmxmldriver)
+* class [VectorLayer](../../../aspose.gis/vectorlayer/)
+* class [OsmXmlOptions](../../osmxmloptions/)
+* class [OsmXmlDriver](../)
+* spazio dei nomi [Aspose.Gis.Formats.OsmXml](../../osmxmldriver/)
 * assemblea [Aspose.GIS](../../../)
 
 ---
 
 ## CreateLayer(AbstractPath, DriverOptions, SpatialReferenceSystem) {#createlayer_2}
 
-Crea un livello e lo apre per aggiungere nuove funzionalità.
+Crea un livello e lo apre per l'aggiunta di nuove funzionalità.
 
 ```csharp
 public override VectorLayer CreateLayer(AbstractPath path, DriverOptions options, 
@@ -51,12 +51,12 @@ public override VectorLayer CreateLayer(AbstractPath path, DriverOptions options
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
 | path | AbstractPath | Percorso del file. |
-| options | DriverOptions | Opzioni specifiche del driver. |
+| options | DriverOptions | Opzioni specifiche del conducente. |
 | spatialReferenceSystem | SpatialReferenceSystem | Sistema di riferimento spaziale. |
 
 ### Valore di ritorno
 
-Un'istanza di[`VectorLayer`](../../../aspose.gis/vectorlayer).
+Un'istanza di[`VectorLayer`](../../../aspose.gis/vectorlayer/).
 
 ### Eccezioni
 
@@ -66,19 +66,19 @@ Un'istanza di[`VectorLayer`](../../../aspose.gis/vectorlayer).
 
 ### Guarda anche
 
-* class [VectorLayer](../../../aspose.gis/vectorlayer)
-* class [AbstractPath](../../../aspose.gis/abstractpath)
-* class [DriverOptions](../../../aspose.gis/driveroptions)
-* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem)
-* class [OsmXmlDriver](../../osmxmldriver)
-* spazio dei nomi [Aspose.Gis.Formats.OsmXml](../../osmxmldriver)
+* class [VectorLayer](../../../aspose.gis/vectorlayer/)
+* class [AbstractPath](../../../aspose.gis/abstractpath/)
+* class [DriverOptions](../../../aspose.gis/driveroptions/)
+* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem/)
+* class [OsmXmlDriver](../)
+* spazio dei nomi [Aspose.Gis.Formats.OsmXml](../../osmxmldriver/)
 * assemblea [Aspose.GIS](../../../)
 
 ---
 
 ## CreateLayer(string, OsmXmlOptions, SpatialReferenceSystem) {#createlayer_8}
 
-Crea un livello e lo apre per aggiungere nuove funzionalità.
+Crea un livello e lo apre per l'aggiunta di nuove funzionalità.
 
 ```csharp
 public VectorLayer CreateLayer(string path, OsmXmlOptions options, 
@@ -88,12 +88,12 @@ public VectorLayer CreateLayer(string path, OsmXmlOptions options,
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
 | path | String | Percorso del file. |
-| options | OsmXmlOptions | Opzioni specifiche del driver. |
+| options | OsmXmlOptions | Opzioni specifiche del conducente. |
 | spatialReferenceSystem | SpatialReferenceSystem | Sistema di riferimento spaziale. |
 
 ### Valore di ritorno
 
-Un'istanza di[`VectorLayer`](../../../aspose.gis/vectorlayer).
+Un'istanza di[`VectorLayer`](../../../aspose.gis/vectorlayer/).
 
 ### Eccezioni
 
@@ -104,11 +104,11 @@ Un'istanza di[`VectorLayer`](../../../aspose.gis/vectorlayer).
 
 ### Guarda anche
 
-* class [VectorLayer](../../../aspose.gis/vectorlayer)
-* class [OsmXmlOptions](../../osmxmloptions)
-* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem)
-* class [OsmXmlDriver](../../osmxmldriver)
-* spazio dei nomi [Aspose.Gis.Formats.OsmXml](../../osmxmldriver)
+* class [VectorLayer](../../../aspose.gis/vectorlayer/)
+* class [OsmXmlOptions](../../osmxmloptions/)
+* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem/)
+* class [OsmXmlDriver](../)
+* spazio dei nomi [Aspose.Gis.Formats.OsmXml](../../osmxmldriver/)
 * assemblea [Aspose.GIS](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.GIS.dll -->
+

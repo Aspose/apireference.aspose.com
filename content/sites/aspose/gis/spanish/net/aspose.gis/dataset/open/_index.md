@@ -1,7 +1,7 @@
 ---
-title: Open
+title: Dataset.Open
 second_title: Referencia de API de Aspose.GIS para .NET
-description: Abre el conjunto de datos.
+description: Dataset método. Abre el conjunto de datos.
 type: docs
 weight: 20
 url: /es/net/aspose.gis/dataset/open/
@@ -21,21 +21,21 @@ public static Dataset Open(string path, FileDriver driver)
 
 ### Valor_devuelto
 
-una instancia de[`Dataset`](../../dataset).
+una instancia de[`Dataset`](../).
 
 ### Excepciones
 
 | excepción | condición |
 | --- | --- |
 | ArgumentNullException | el camino es`null`. |
-| [GisException](../../gisexception) | Error al leer el conjunto de datos. |
+| [GisException](../../gisexception/) | Error al leer el conjunto de datos. |
 | IOException | Se produjo un error de E/S. |
 
 ### Ver también
 
-* class [FileDriver](../../filedriver)
-* class [Dataset](../../dataset)
-* espacio de nombres [Aspose.Gis](../../dataset)
+* class [FileDriver](../../filedriver/)
+* class [Dataset](../)
+* espacio de nombres [Aspose.Gis](../../dataset/)
 * asamblea [Aspose.GIS](../../../)
 
 ---
@@ -55,22 +55,22 @@ public static Dataset Open(AbstractPath path, FileDriver driver)
 
 ### Valor_devuelto
 
-una instancia de[`Dataset`](../../dataset).
+una instancia de[`Dataset`](../).
 
 ### Excepciones
 
 | excepción | condición |
 | --- | --- |
 | ArgumentNullException | el camino es`null`. |
-| [GisException](../../gisexception) | Error al leer el conjunto de datos. |
+| [GisException](../../gisexception/) | Error al leer el conjunto de datos. |
 | IOException | Se produjo un error de E/S. |
 
 ### Ver también
 
-* class [AbstractPath](../../abstractpath)
-* class [FileDriver](../../filedriver)
-* class [Dataset](../../dataset)
-* espacio de nombres [Aspose.Gis](../../dataset)
+* class [AbstractPath](../../abstractpath/)
+* class [FileDriver](../../filedriver/)
+* class [Dataset](../)
+* espacio de nombres [Aspose.Gis](../../dataset/)
 * asamblea [Aspose.GIS](../../../)
 
 ---
@@ -91,7 +91,7 @@ public static Dataset Open(string path, FileDriver driver, DriverOptions options
 
 ### Valor_devuelto
 
-una instancia de[`Dataset`](../../dataset).
+una instancia de[`Dataset`](../).
 
 ### Excepciones
 
@@ -99,15 +99,15 @@ una instancia de[`Dataset`](../../dataset).
 | --- | --- |
 | ArgumentException | El objeto de opciones tiene un tipo incorrecto para este controlador. |
 | ArgumentNullException | el camino es`null`. |
-| [GisException](../../gisexception) | Error al leer el conjunto de datos. |
+| [GisException](../../gisexception/) | Error al leer el conjunto de datos. |
 | IOException | Se produjo un error de E/S. |
 
 ### Ver también
 
-* class [FileDriver](../../filedriver)
-* class [DriverOptions](../../driveroptions)
-* class [Dataset](../../dataset)
-* espacio de nombres [Aspose.Gis](../../dataset)
+* class [FileDriver](../../filedriver/)
+* class [DriverOptions](../../driveroptions/)
+* class [Dataset](../)
+* espacio de nombres [Aspose.Gis](../../dataset/)
 * asamblea [Aspose.GIS](../../../)
 
 ---
@@ -128,7 +128,7 @@ public static Dataset Open(AbstractPath path, FileDriver driver, DriverOptions o
 
 ### Valor_devuelto
 
-una instancia de[`Dataset`](../../dataset).
+una instancia de[`Dataset`](../).
 
 ### Excepciones
 
@@ -136,16 +136,16 @@ una instancia de[`Dataset`](../../dataset).
 | --- | --- |
 | ArgumentException | El objeto de opciones tiene un tipo incorrecto para este controlador. |
 | ArgumentNullException | el camino es`null`. |
-| [GisException](../../gisexception) | Error al leer el conjunto de datos. |
+| [GisException](../../gisexception/) | Error al leer el conjunto de datos. |
 | IOException | Se produjo un error de E/S. |
 
 ### Ver también
 
-* class [AbstractPath](../../abstractpath)
-* class [FileDriver](../../filedriver)
-* class [DriverOptions](../../driveroptions)
-* class [Dataset](../../dataset)
-* espacio de nombres [Aspose.Gis](../../dataset)
+* class [AbstractPath](../../abstractpath/)
+* class [FileDriver](../../filedriver/)
+* class [DriverOptions](../../driveroptions/)
+* class [Dataset](../)
+* espacio de nombres [Aspose.Gis](../../dataset/)
 * asamblea [Aspose.GIS](../../../)
 
 ---
@@ -165,7 +165,7 @@ public static Dataset Open(IDbConnection connection, DatabaseDriver driver)
 
 ### Valor_devuelto
 
-una instancia de[`Dataset`](../../dataset).
+una instancia de[`Dataset`](../).
 
 ### Excepciones
 
@@ -173,14 +173,14 @@ una instancia de[`Dataset`](../../dataset).
 | --- | --- |
 | ArgumentException | El objeto de opciones tiene un tipo incorrecto para este controlador. |
 | ArgumentNullException | el camino es`null`. |
-| [GisException](../../gisexception) | Error al leer el conjunto de datos. |
+| [GisException](../../gisexception/) | Error al leer el conjunto de datos. |
 | IOException | Se produjo un error de E/S. |
 
 ### Ver también
 
-* class [DatabaseDriver](../../databasedriver)
-* class [Dataset](../../dataset)
-* espacio de nombres [Aspose.Gis](../../dataset)
+* class [DatabaseDriver](../../databasedriver/)
+* class [Dataset](../)
+* espacio de nombres [Aspose.Gis](../../dataset/)
 * asamblea [Aspose.GIS](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.GIS.dll -->
+

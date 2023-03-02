@@ -1,14 +1,14 @@
 ---
-title: SimpleMarker
+title: Class SimpleMarker
 second_title: Riferimento API Aspose.GIS per .NET
-description: Simbolizzatore punto semplice.
+description: Aspose.Gis.Rendering.Symbolizers.SimpleMarker classe. Simbolo punto semplice.
 type: docs
-weight: 1860
+weight: 1960
 url: /it/net/aspose.gis.rendering.symbolizers/simplemarker/
 ---
 ## SimpleMarker class
 
-Simbolizzatore punto semplice.
+Simbolo punto semplice.
 
 ```csharp
 public class SimpleMarker : VectorSymbolizer
@@ -18,39 +18,39 @@ public class SimpleMarker : VectorSymbolizer
 
 | Nome | Descrizione |
 | --- | --- |
-| [SimpleMarker](simplemarker#constructor)() | Inizializza una nuova istanza di[`SimpleMarker`](../simplemarker) classe. |
-| [SimpleMarker](simplemarker#constructor_1)(SimpleMarker) | Inizializza una nuova istanza di[`SimpleMarker`](../simplemarker) classe. |
+| [SimpleMarker](simplemarker/#constructor)() | Inizializza una nuova istanza di`SimpleMarker` classe. |
+| [SimpleMarker](simplemarker/#constructor_1)(SimpleMarker) | Inizializza una nuova istanza di`SimpleMarker` classe. |
 
 ## Proprietà
 
 | Nome | Descrizione |
 | --- | --- |
-| [FeatureBasedConfiguration](../../aspose.gis.rendering.symbolizers/simplemarker/featurebasedconfiguration) { get; set; } | Un callback utilizzato per configurare questo simbolizzatore prima del rendering di una funzione. |
-| [FillColor](../../aspose.gis.rendering.symbolizers/simplemarker/fillcolor) { get; set; } | Specifica il colore e la trasparenza per il riempimento. |
-| [HorizontalAnchorPoint](../../aspose.gis.rendering.symbolizers/simplemarker/horizontalanchorpoint) { get; set; } | Specifica quale lato della forma di un indicatore verrà allineato orizzontalmente con la posizione del punto. |
-| [HorizontalOffset](../../aspose.gis.rendering.symbolizers/simplemarker/horizontaloffset) { get; set; } | Specifica l'offset orizzontale da una posizione di un punto al punto di ancoraggio della forma. |
-| [Rotation](../../aspose.gis.rendering.symbolizers/simplemarker/rotation) { get; set; } | Specifica la rotazione del simbolo rispetto al suo punto centrale, in gradi decimali. I valori positivi indicano la rotazione in senso orario, i valori negativi indicano la rotazione in senso antiorario. |
-| [ShapeType](../../aspose.gis.rendering.symbolizers/simplemarker/shapetype) { get; set; } | Specifica la forma dell'indicatore. |
-| [Size](../../aspose.gis.rendering.symbolizers/simplemarker/size) { get; set; } | Specifica la dimensione dell'indicatore. |
-| [StrokeColor](../../aspose.gis.rendering.symbolizers/simplemarker/strokecolor) { get; set; } | Specifica il colore e la trasparenza dati alla linea. |
-| [StrokeDashOffset](../../aspose.gis.rendering.symbolizers/simplemarker/strokedashoffset) { get; set; } | Specifica la distanza dall'inizio di una linea all'inizio di una serie di trattini. |
-| [StrokeDashPattern](../../aspose.gis.rendering.symbolizers/simplemarker/strokedashpattern) { get; set; } | Specifica una matrice di distanze che specifica le lunghezze di trattini e spazi alternati in linee tratteggiate. |
-| [StrokeLineJoin](../../aspose.gis.rendering.symbolizers/simplemarker/strokelinejoin) { get; set; } | Determina la modalità di rendering delle linee all'intersezione dei segmenti di linea. |
-| [StrokeStyle](../../aspose.gis.rendering.symbolizers/simplemarker/strokestyle) { get; set; } | Specifica come devono essere tracciate le linee dei simboli. |
-| [StrokeWidth](../../aspose.gis.rendering.symbolizers/simplemarker/strokewidth) { get; set; } | Specifica la larghezza della linea. |
-| [VerticalAnchorPoint](../../aspose.gis.rendering.symbolizers/simplemarker/verticalanchorpoint) { get; set; } | Specifica quale lato della forma di un indicatore verrà allineato verticalmente con la posizione del punto. |
-| [VerticalOffset](../../aspose.gis.rendering.symbolizers/simplemarker/verticaloffset) { get; set; } | Specifica l'offset verticale da una posizione di un punto al punto di ancoraggio della forma. |
+| [FeatureBasedConfiguration](../../aspose.gis.rendering.symbolizers/simplemarker/featurebasedconfiguration/) { get; set; } | Un callback utilizzato per configurare questo simbolizzatore prima di eseguire il rendering di una funzione. |
+| [FillColor](../../aspose.gis.rendering.symbolizers/simplemarker/fillcolor/) { get; set; } | Specifica il colore e la trasparenza per il riempimento. |
+| [HorizontalAnchorPoint](../../aspose.gis.rendering.symbolizers/simplemarker/horizontalanchorpoint/) { get; set; } | Specifica quale lato della forma di un indicatore verrà allineato orizzontalmente con la posizione del punto. |
+| [HorizontalOffset](../../aspose.gis.rendering.symbolizers/simplemarker/horizontaloffset/) { get; set; } | Specifica l'offset orizzontale da una posizione punto al punto di ancoraggio della forma. |
+| [Rotation](../../aspose.gis.rendering.symbolizers/simplemarker/rotation/) { get; set; } | Specifica la rotazione del simbolo attorno al suo punto centrale, in gradi decimali. I valori positivi indicano la rotazione in senso orario, i valori negativi indicano la rotazione in senso antiorario. |
+| [ShapeType](../../aspose.gis.rendering.symbolizers/simplemarker/shapetype/) { get; set; } | Specifica la forma dell'indicatore. |
+| [Size](../../aspose.gis.rendering.symbolizers/simplemarker/size/) { get; set; } | Specifica la dimensione dell'indicatore. |
+| [StrokeColor](../../aspose.gis.rendering.symbolizers/simplemarker/strokecolor/) { get; set; } | Specifica il colore e la trasparenza dati alla linea. |
+| [StrokeDashOffset](../../aspose.gis.rendering.symbolizers/simplemarker/strokedashoffset/) { get; set; } | Specifica la distanza dall'inizio di una linea all'inizio di un motivo tratteggiato. |
+| [StrokeDashPattern](../../aspose.gis.rendering.symbolizers/simplemarker/strokedashpattern/) { get; set; } | Specifica un array di distanze che specifica la lunghezza di trattini e spazi alternati in linee tratteggiate. |
+| [StrokeLineJoin](../../aspose.gis.rendering.symbolizers/simplemarker/strokelinejoin/) { get; set; } | Determina la modalità di rendering delle linee all'intersezione dei segmenti di linea. |
+| [StrokeStyle](../../aspose.gis.rendering.symbolizers/simplemarker/strokestyle/) { get; set; } | Specifica come devono essere disegnate le linee dei simboli. |
+| [StrokeWidth](../../aspose.gis.rendering.symbolizers/simplemarker/strokewidth/) { get; set; } | Specifica la larghezza della linea. |
+| [VerticalAnchorPoint](../../aspose.gis.rendering.symbolizers/simplemarker/verticalanchorpoint/) { get; set; } | Specifica quale lato della forma di un indicatore verrà allineato verticalmente con la posizione del punto. |
+| [VerticalOffset](../../aspose.gis.rendering.symbolizers/simplemarker/verticaloffset/) { get; set; } | Specifica l'offset verticale da una posizione punto al punto di ancoraggio della forma. |
 
 ## Metodi
 
 | Nome | Descrizione |
 | --- | --- |
-| [Clone](../../aspose.gis.rendering.symbolizers/simplemarker/clone)() | Clona questa istanza. |
+| [Clone](../../aspose.gis.rendering.symbolizers/simplemarker/clone/)() | Clona questa istanza. |
 
 ### Guarda anche
 
-* class [VectorSymbolizer](../vectorsymbolizer)
-* spazio dei nomi [Aspose.Gis.Rendering.Symbolizers](../../aspose.gis.rendering.symbolizers)
+* class [VectorSymbolizer](../vectorsymbolizer/)
+* spazio dei nomi [Aspose.Gis.Rendering.Symbolizers](../../aspose.gis.rendering.symbolizers/)
 * assemblea [Aspose.GIS](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.GIS.dll -->
+

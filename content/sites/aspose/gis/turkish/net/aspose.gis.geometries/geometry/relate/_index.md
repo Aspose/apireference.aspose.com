@@ -1,14 +1,14 @@
 ---
-title: Relate
+title: Geometry.Relate
 second_title: Aspose.GIS for .NET API Referansı
-description: Bu geometrinin DE9IM kesişim matrisi ile belirtilen bir geometrinin sağlanan desenle eşleşip eşleşmediğini belirler.
+description: Geometry yöntem. Bu geometrinin ve belirli bir geometrinin DE9IM kesişim matrisinin sağlanan desenle eşleşip eşleşmediğini belirler.
 type: docs
 weight: 300
 url: /tr/net/aspose.gis.geometries/geometry/relate/
 ---
 ## Geometry.Relate method
 
-Bu geometrinin DE-9IM kesişim matrisi ile belirtilen bir geometrinin sağlanan desenle eşleşip eşleşmediğini belirler.
+Bu geometrinin ve belirli bir geometrinin DE-9IM kesişim matrisinin sağlanan desenle eşleşip eşleşmediğini belirler.
 
 ```csharp
 public bool Relate(IGeometry other, string intersectionPatternMatrix)
@@ -17,27 +17,27 @@ public bool Relate(IGeometry other, string intersectionPatternMatrix)
 | Parametre | Tip | Tanım |
 | --- | --- | --- |
 | other | IGeometry | Bir geometri. |
-| intersectionPatternMatrix | String | Eşleşecek bir kalıp. Bu, uzunluğu 9. olan bir dize olmalıdır. Dizenin her karakteri bir kesişimin beklenen boyutunu temsil eder: karakter 0 - geometrilerin iç kısımları arasında.karakter 1 - bu geometrinin içi ile başka bir geometrinin sınırı arasında.karakter 2 - bu geometrinin içi ile başka bir geometrinin dışı arasında.karakter 3 - bu geometrinin sınırı ile başka bir geometrinin içi arasında.karakter 4 - geometrilerin sınırları arasında.karakter 5 - bu geometrinin sınırı ile başka bir geometrinin dışı arasında.karakter 6 - bu geometrinin dışı ile başka bir geometrinin içi arasında.karakter 7 - bu geometrinin dışı ile başka bir geometrinin sınırı arasında.karakter 8 - geometrilerin dış kısımları arasında. Her karakterin olası değerleri şunlardır: * - herhangi bir değer;F - kavşak yok;T - herhangi bir kavşak;0 - nokta kesişimi (örneğin paylaşılan nokta);1 - çizgi kesişimi (örneğin, paylaşılan çizgi bölümü);2 - alan kesişimi (örneğin, çokgenin paylaşılan kısmı); Örneğin, bir kesişim modeli "F0*******", geometriler arasında kesişme olmaması gerektiği anlamına gelir. Interiors ve geometri sınırları arasındaki kesişme noktası bir nokta olmalıdır. Kavşak matrisi hakkında daha fazla ayrıntı için bkz. OpenGIS Basit Özellikler Spesifikasyonu desen. |
+| intersectionPatternMatrix | String | Eşleşecek bir bilmece. Bu, 9'a eşit uzunlukta bir dize olmalıdır. Dizinin her karakteri, bir kesişmenin beklenen boyutunu temsil eder: karakter 0 - geometrilerin içleri arasında.karakter 1 - bu geometrinin içi ile başka bir geometrinin sınırı arasında.karakter 2 - bu geometrinin içi ile başka bir geometrinin dışı arasında.karakter 3 - bu geometrinin sınırı ile başka bir geometrinin içi arasında.karakter 4 - geometrilerin sınırları arasında.karakter 5 - bu geometrinin sınırı ile başka bir geometrinin dışı arasında.karakter 6 - bu geometrinin dışı ile başka bir geometrinin içi arasında.karakter 7 - bu geometrinin dışı ile başka bir geometrinin sınırı arasında.karakter 8 - geometrilerin dışları arasında. Her karakterin olası değerleri: * - herhangi bir değer;F - kesişme yok;T - herhangi bir kavşak;0 - nokta kesişimi (örn. ortak nokta);1 - hat kesişimi (örneğin, hattın paylaşılan bölümü);2 - alan kesişimi (örneğin, çokgenin paylaşılan kısmı); Örneğin, "F0******" bir kesişme modeli, interiors geometrileri arasında kesişme olmaması gerektiği ve geometriler arasındaki kesişme sınırlarının bir nokta olması gerektiği anlamına gelir. Kesişim matrisi hakkında daha fazla ayrıntı için OpenGIS Basit Özellikler Spesifikasyonuna bakın. desen. |
 
 ### Geri dönüş değeri
 
-`true` bu kesişim matrisi kalıpla eşleşirse;`false` aksi halde.
+`true` bu kesişim matrisi pıtırtı ile eşleşirse;`false` aksi halde.
 
 ### istisnalar
 
 | istisna | şart |
 | --- | --- |
 | ArgumentNullException | *other* dır-dir`null`. |
-| ArgumentException | İşlem tamamlanamayacak şekilde geometrilerden biri geçersiz. |
-| ArgumentException | [`SpatialReferenceSystem`](../../igeometry/spatialreferencesystem) geometrilerin sayısı eşdeğer değil. Kullanabilirsiniz[`SpatialReferenceSystemTransformation`](../../../aspose.gis.spatialreferencing/spatialreferencesystemtransformation) geometrileri aynı uzamsal referans sistemine dönüştürmek için. |
+| ArgumentException | Geometrilerden biri, işlemin tamamlanamayacağı şekilde geçersiz. |
+| ArgumentException | [`SpatialReferenceSystem`](../../igeometry/spatialreferencesystem/) geometrilerin eşdeğer değil. Kullanabilirsiniz[`SpatialReferenceSystemTransformation`](../../../aspose.gis.spatialreferencing/spatialreferencesystemtransformation/) geometrileri aynı uzamsal referans sistemine dönüştürmek için. |
 
 ### Notlar
 
-Bu yöntem, DE-9IM kesişim matrisi oluşturur ve onu pattern ile eşleştirir_ DE-9IM kesişim matrisi hakkında daha fazla ayrıntı için bkz. OpenGIS Basit Özellikler Spesifikasyonu.
+Bu yöntem, DE-9IM kesişim matrisini oluşturur ve bunu pattern ile eşleştirir. DE-9IM kesişim matrisi hakkında daha fazla ayrıntı için OpenGIS Basit Özellikler Spesifikasyonuna bakın.
 
 ### Örnekler
 
-Aşağıdaki kod:  geometrilerin uzamsal olarak eşit olup olmadığını algılar.
+Şu kod:  , geometrilerin uzamsal olarak eşit olup olmadığını algılar.
 
 ```csharp
 geometry.Relate(other, "T*F**FFF*");
@@ -45,9 +45,9 @@ geometry.Relate(other, "T*F**FFF*");
 
 ### Ayrıca bakınız
 
-* interface [IGeometry](../../igeometry)
-* class [Geometry](../../geometry)
-* ad alanı [Aspose.Gis.Geometries](../../geometry)
+* interface [IGeometry](../../igeometry/)
+* class [Geometry](../)
+* ad alanı [Aspose.Gis.Geometries](../../geometry/)
 * toplantı [Aspose.GIS](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.GIS.dll -->
+

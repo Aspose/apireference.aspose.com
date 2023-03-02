@@ -1,7 +1,7 @@
 ---
-title: CreateLayer
+title: Dataset.CreateLayer
 second_title: Aspose.GIS för .NET API Referens
-description: Skapar ett nytt vektorlager och öppnar det för tillägg.
+description: Dataset metod. Skapar ett nytt vektorlager och öppnar det för tillägg.
 type: docs
 weight: 70
 url: /sv/net/aspose.gis/dataset/createlayer/
@@ -16,13 +16,13 @@ public virtual VectorLayer CreateLayer()
 
 ### Returvärde
 
-A[`VectorLayer`](../../vectorlayer) öppnat för skrivning.
+A[`VectorLayer`](../../vectorlayer/) öppnat för skrivning.
 
 ### Se även
 
-* class [VectorLayer](../../vectorlayer)
-* class [Dataset](../../dataset)
-* namnutrymme [Aspose.Gis](../../dataset)
+* class [VectorLayer](../../vectorlayer/)
+* class [Dataset](../)
+* namnutrymme [Aspose.Gis](../../dataset/)
 * hopsättning [Aspose.GIS](../../../)
 
 ---
@@ -41,14 +41,14 @@ public virtual VectorLayer CreateLayer(SpatialReferenceSystem spatialReferenceSy
 
 ### Returvärde
 
-A[`VectorLayer`](../../vectorlayer) öppnat för skrivning.
+A[`VectorLayer`](../../vectorlayer/) öppnat för skrivning.
 
 ### Se även
 
-* class [VectorLayer](../../vectorlayer)
-* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem)
-* class [Dataset](../../dataset)
-* namnutrymme [Aspose.Gis](../../dataset)
+* class [VectorLayer](../../vectorlayer/)
+* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem/)
+* class [Dataset](../)
+* namnutrymme [Aspose.Gis](../../dataset/)
 * hopsättning [Aspose.GIS](../../../)
 
 ---
@@ -69,7 +69,7 @@ public virtual VectorLayer CreateLayer(DriverOptions options,
 
 ### Returvärde
 
-A[`VectorLayer`](../../vectorlayer) öppnat för skrivning.
+A[`VectorLayer`](../../vectorlayer/) öppnat för skrivning.
 
 ### Undantag
 
@@ -77,15 +77,15 @@ A[`VectorLayer`](../../vectorlayer) öppnat för skrivning.
 | --- | --- |
 | NotSupportedException | Skapande av lager stöds inte för denna datauppsättning. |
 | IOException | Ett I/O-fel uppstod. |
-| [GisException](../../gisexception) | Fel när lagret skapades. |
+| [GisException](../../gisexception/) | Fel när lagret skapades. |
 
 ### Se även
 
-* class [VectorLayer](../../vectorlayer)
-* class [DriverOptions](../../driveroptions)
-* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem)
-* class [Dataset](../../dataset)
-* namnutrymme [Aspose.Gis](../../dataset)
+* class [VectorLayer](../../vectorlayer/)
+* class [DriverOptions](../../driveroptions/)
+* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem/)
+* class [Dataset](../)
+* namnutrymme [Aspose.Gis](../../dataset/)
 * hopsättning [Aspose.GIS](../../../)
 
 ---
@@ -106,7 +106,7 @@ public virtual VectorLayer CreateLayer(string name,
 
 ### Returvärde
 
-A[`VectorLayer`](../../vectorlayer) öppnat för skrivning.
+A[`VectorLayer`](../../vectorlayer/) öppnat för skrivning.
 
 ### Undantag
 
@@ -114,14 +114,14 @@ A[`VectorLayer`](../../vectorlayer) öppnat för skrivning.
 | --- | --- |
 | NotSupportedException | Skapande av lager stöds inte för denna datauppsättning. |
 | IOException | Ett I/O-fel uppstod. |
-| [GisException](../../gisexception) | Fel när lagret skapades. |
+| [GisException](../../gisexception/) | Fel när lagret skapades. |
 
 ### Se även
 
-* class [VectorLayer](../../vectorlayer)
-* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem)
-* class [Dataset](../../dataset)
-* namnutrymme [Aspose.Gis](../../dataset)
+* class [VectorLayer](../../vectorlayer/)
+* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem/)
+* class [Dataset](../)
+* namnutrymme [Aspose.Gis](../../dataset/)
 * hopsättning [Aspose.GIS](../../../)
 
 ---
@@ -143,7 +143,7 @@ public virtual VectorLayer CreateLayer(string name, DriverOptions options,
 
 ### Returvärde
 
-A[`VectorLayer`](../../vectorlayer) öppnat för skrivning.
+A[`VectorLayer`](../../vectorlayer/) öppnat för skrivning.
 
 ### Undantag
 
@@ -151,15 +151,15 @@ A[`VectorLayer`](../../vectorlayer) öppnat för skrivning.
 | --- | --- |
 | NotSupportedException | Skapande av lager stöds inte för denna datauppsättning. |
 | IOException | Ett I/O-fel uppstod. |
-| [GisException](../../gisexception) | Fel när lagret skapades. |
+| [GisException](../../gisexception/) | Fel när lagret skapades. |
 
 ### Se även
 
-* class [VectorLayer](../../vectorlayer)
-* class [DriverOptions](../../driveroptions)
-* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem)
-* class [Dataset](../../dataset)
-* namnutrymme [Aspose.Gis](../../dataset)
+* class [VectorLayer](../../vectorlayer/)
+* class [DriverOptions](../../driveroptions/)
+* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem/)
+* class [Dataset](../)
+* namnutrymme [Aspose.Gis](../../dataset/)
 * hopsättning [Aspose.GIS](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.GIS.dll -->
+

@@ -1,14 +1,14 @@
 ---
-title: VectorMapLayer
+title: Class VectorMapLayer
 second_title: Referencia de API de Aspose.GIS para .NET
-description: Una capa dentroMap./map que representa una capa vectorial data.
+description: Aspose.Gis.Rendering.VectorMapLayer clase. Una capa dentroMap que representa una capa vectorial data.
 type: docs
-weight: 1900
+weight: 2000
 url: /es/net/aspose.gis.rendering/vectormaplayer/
 ---
 ## VectorMapLayer class
 
-Una capa dentro[`Map`](../map) que representa una capa vectorial data.
+Una capa dentro[`Map`](../map/) que representa una capa vectorial data.
 
 ```csharp
 public class VectorMapLayer : MapLayer
@@ -18,35 +18,35 @@ public class VectorMapLayer : MapLayer
 
 | Nombre | Descripción |
 | --- | --- |
-| [VectorMapLayer](vectormaplayer#constructor)(FeaturesSequence) | Crea una nueva instancia con el símbolo predeterminado. |
-| [VectorMapLayer](vectormaplayer#constructor_1)(FeaturesSequence, VectorSymbolizer) | Crea una nueva instancia con el símbolo predeterminado. |
-| [VectorMapLayer](vectormaplayer#constructor_5)(VectorLayer, bool) | Crea una nueva instancia con el símbolo predeterminado. |
-| [VectorMapLayer](vectormaplayer#constructor_2)(FeaturesSequence, VectorSymbolizer, Labeling) | Crea una nueva instancia con el símbolo predeterminado. |
-| [VectorMapLayer](vectormaplayer#constructor_4)(VectorLayer, VectorSymbolizer, bool) | Crea nueva instancia. |
-| [VectorMapLayer](vectormaplayer#constructor_3)(VectorLayer, VectorSymbolizer, Labeling, bool) | Crea nueva instancia. |
+| [VectorMapLayer](vectormaplayer/#constructor)(FeaturesSequence) | Crea una nueva instancia con el símbolo predeterminado. |
+| [VectorMapLayer](vectormaplayer/#constructor_1)(FeaturesSequence, VectorSymbolizer) | Crea una nueva instancia con el símbolo predeterminado. |
+| [VectorMapLayer](vectormaplayer/#constructor_5)(VectorLayer, bool) | Crea una nueva instancia con el símbolo predeterminado. |
+| [VectorMapLayer](vectormaplayer/#constructor_2)(FeaturesSequence, VectorSymbolizer, Labeling) | Crea una nueva instancia con el símbolo predeterminado. |
+| [VectorMapLayer](vectormaplayer/#constructor_4)(VectorLayer, VectorSymbolizer, bool) | Crea nueva instancia. |
+| [VectorMapLayer](vectormaplayer/#constructor_3)(VectorLayer, VectorSymbolizer, Labeling, bool) | Crea nueva instancia. |
 
 ## Propiedades
 
 | Nombre | Descripción |
 | --- | --- |
-| [FeaturesSequence](../../aspose.gis.rendering/vectormaplayer/featuressequence) { get; } | La secuencia de características representada por este`VectorMapaCapa` . |
-| [Labeling](../../aspose.gis.rendering/vectormaplayer/labeling) { get; set; } | Especifica las opciones de deformación de la capa del mapa. |
-| [Opacity](../../aspose.gis.rendering/maplayer/opacity) { get; set; } | Opacidad de la capa. |
-| [Symbolizer](../../aspose.gis.rendering/vectormaplayer/symbolizer) { get; set; } | Simbolizador a usar para renderizar características de la capa. |
+| [FeaturesSequence](../../aspose.gis.rendering/vectormaplayer/featuressequence/) { get; } | La secuencia de características representada por este`VectorMapaCapa` . |
+| [Labeling](../../aspose.gis.rendering/vectormaplayer/labeling/) { get; set; } | Especifica las opciones de deformación de la capa del mapa. |
+| [Opacity](../../aspose.gis.rendering/maplayer/opacity/) { get; set; } | Opacidad de la capa. |
+| [Symbolizer](../../aspose.gis.rendering/vectormaplayer/symbolizer/) { get; set; } | Simbolizador a usar para renderizar características de la capa. |
 
 ## Métodos
 
 | Nombre | Descripción |
 | --- | --- |
-| override [Dispose](../../aspose.gis.rendering/vectormaplayer/dispose)() | Elimina recursos. |
-| [ImportSld](../../aspose.gis.rendering/vectormaplayer/importsld#importsld)(AbstractPath, SldImportOptions) | Importa el estilo del archivo Styled Layer Descriptor ubicado en la ruta especificada. |
-| [ImportSld](../../aspose.gis.rendering/vectormaplayer/importsld#importsld_1)(string, SldImportOptions) | Importa el estilo del archivo Styled Layer Descriptor ubicado en la ruta especificada. |
-| [ImportSldFromString](../../aspose.gis.rendering/vectormaplayer/importsldfromstring)(string, SldImportOptions) | Importa el estilo de la cadena de descriptor de capa con estilo especificada. |
+| override [Dispose](../../aspose.gis.rendering/vectormaplayer/dispose/)() | Elimina recursos. |
+| [ImportSld](../../aspose.gis.rendering/vectormaplayer/importsld/#importsld)(AbstractPath, SldImportOptions) | Importa el estilo del archivo Styled Layer Descriptor ubicado en la ruta especificada. |
+| [ImportSld](../../aspose.gis.rendering/vectormaplayer/importsld/#importsld_1)(string, SldImportOptions) | Importa el estilo del archivo Styled Layer Descriptor ubicado en la ruta especificada. |
+| [ImportSldFromString](../../aspose.gis.rendering/vectormaplayer/importsldfromstring/)(string, SldImportOptions) | Importa el estilo de la cadena de descriptor de capa con estilo especificada. |
 
 ### Ver también
 
-* class [MapLayer](../maplayer)
-* espacio de nombres [Aspose.Gis.Rendering](../../aspose.gis.rendering)
+* class [MapLayer](../maplayer/)
+* espacio de nombres [Aspose.Gis.Rendering](../../aspose.gis.rendering/)
 * asamblea [Aspose.GIS](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.GIS.dll -->
+

@@ -1,7 +1,7 @@
 ---
-title: OpenLayer
+title: RasterDriver.OpenLayer
 second_title: Aspose.GIS för .NET API Referens
-description: Öppnar lagret för läsning.
+description: RasterDriver metod. Öppnar lagret för läsning.
 type: docs
 weight: 20
 url: /sv/net/aspose.gis/rasterdriver/openlayer/
@@ -21,7 +21,7 @@ public abstract RasterLayer OpenLayer(AbstractPath path, RasterDriverOptions opt
 
 ### Returvärde
 
-Ett exempel på[`RasterLayer`](../../../aspose.gis.raster/rasterlayer).
+Ett exempel på[`RasterLayer`](../../../aspose.gis.raster/rasterlayer/).
 
 ### Undantag
 
@@ -30,15 +30,15 @@ Ett exempel på[`RasterLayer`](../../../aspose.gis.raster/rasterlayer).
 | ArgumentException | Options-objektet har en felaktig typ för den här drivrutinen. |
 | ArgumentNullException | Vägen är`null`. |
 | IOException | Ett I/O-fel uppstod. |
-| NotSupportedException | Drivrutinen kan inte öppna rasterlager (se[`CanOpenLayers`](../canopenlayers)). |
+| NotSupportedException | Drivrutinen kan inte öppna rasterlager (se[`CanOpenLayers`](../canopenlayers/)). |
 
 ### Se även
 
-* class [RasterLayer](../../../aspose.gis.raster/rasterlayer)
-* class [AbstractPath](../../abstractpath)
-* class [RasterDriverOptions](../../rasterdriveroptions)
-* class [RasterDriver](../../rasterdriver)
-* namnutrymme [Aspose.Gis](../../rasterdriver)
+* class [RasterLayer](../../../aspose.gis.raster/rasterlayer/)
+* class [AbstractPath](../../abstractpath/)
+* class [RasterDriverOptions](../../rasterdriveroptions/)
+* class [RasterDriver](../)
+* namnutrymme [Aspose.Gis](../../rasterdriver/)
 * hopsättning [Aspose.GIS](../../../)
 
 ---
@@ -57,7 +57,7 @@ public RasterLayer OpenLayer(string path)
 
 ### Returvärde
 
-Ett exempel på[`RasterLayer`](../../../aspose.gis.raster/rasterlayer).
+Ett exempel på[`RasterLayer`](../../../aspose.gis.raster/rasterlayer/).
 
 ### Undantag
 
@@ -65,13 +65,13 @@ Ett exempel på[`RasterLayer`](../../../aspose.gis.raster/rasterlayer).
 | --- | --- |
 | ArgumentNullException | Vägen är`null`. |
 | IOException | Ett I/O-fel uppstod. |
-| NotSupportedException | Drivrutinen kan inte öppna rasterlager (se[`CanOpenLayers`](../canopenlayers)). |
+| NotSupportedException | Drivrutinen kan inte öppna rasterlager (se[`CanOpenLayers`](../canopenlayers/)). |
 
 ### Se även
 
-* class [RasterLayer](../../../aspose.gis.raster/rasterlayer)
-* class [RasterDriver](../../rasterdriver)
-* namnutrymme [Aspose.Gis](../../rasterdriver)
+* class [RasterLayer](../../../aspose.gis.raster/rasterlayer/)
+* class [RasterDriver](../)
+* namnutrymme [Aspose.Gis](../../rasterdriver/)
 * hopsättning [Aspose.GIS](../../../)
 
 ---
@@ -90,7 +90,7 @@ public RasterLayer OpenLayer(AbstractPath path)
 
 ### Returvärde
 
-Ett exempel på[`RasterLayer`](../../../aspose.gis.raster/rasterlayer).
+Ett exempel på[`RasterLayer`](../../../aspose.gis.raster/rasterlayer/).
 
 ### Undantag
 
@@ -98,14 +98,14 @@ Ett exempel på[`RasterLayer`](../../../aspose.gis.raster/rasterlayer).
 | --- | --- |
 | ArgumentNullException | Vägen är`null`. |
 | IOException | Ett I/O-fel uppstod. |
-| NotSupportedException | Drivrutinen kan inte öppna rasterlager (se[`CanOpenLayers`](../canopenlayers)). |
+| NotSupportedException | Drivrutinen kan inte öppna rasterlager (se[`CanOpenLayers`](../canopenlayers/)). |
 
 ### Se även
 
-* class [RasterLayer](../../../aspose.gis.raster/rasterlayer)
-* class [AbstractPath](../../abstractpath)
-* class [RasterDriver](../../rasterdriver)
-* namnutrymme [Aspose.Gis](../../rasterdriver)
+* class [RasterLayer](../../../aspose.gis.raster/rasterlayer/)
+* class [AbstractPath](../../abstractpath/)
+* class [RasterDriver](../)
+* namnutrymme [Aspose.Gis](../../rasterdriver/)
 * hopsättning [Aspose.GIS](../../../)
 
 ---
@@ -125,7 +125,7 @@ public RasterLayer OpenLayer(string path, RasterDriverOptions options)
 
 ### Returvärde
 
-Ett exempel på[`RasterLayer`](../../../aspose.gis.raster/rasterlayer).
+Ett exempel på[`RasterLayer`](../../../aspose.gis.raster/rasterlayer/).
 
 ### Undantag
 
@@ -134,14 +134,14 @@ Ett exempel på[`RasterLayer`](../../../aspose.gis.raster/rasterlayer).
 | ArgumentException | Options-objektet har en felaktig typ för den här drivrutinen. |
 | ArgumentNullException | Vägen är`null`. |
 | IOException | Ett I/O-fel uppstod. |
-| NotSupportedException | Drivrutinen kan inte öppna rasterlager (se[`CanOpenLayers`](../canopenlayers)). |
+| NotSupportedException | Drivrutinen kan inte öppna rasterlager (se[`CanOpenLayers`](../canopenlayers/)). |
 
 ### Se även
 
-* class [RasterLayer](../../../aspose.gis.raster/rasterlayer)
-* class [RasterDriverOptions](../../rasterdriveroptions)
-* class [RasterDriver](../../rasterdriver)
-* namnutrymme [Aspose.Gis](../../rasterdriver)
+* class [RasterLayer](../../../aspose.gis.raster/rasterlayer/)
+* class [RasterDriverOptions](../../rasterdriveroptions/)
+* class [RasterDriver](../)
+* namnutrymme [Aspose.Gis](../../rasterdriver/)
 * hopsättning [Aspose.GIS](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.GIS.dll -->
+

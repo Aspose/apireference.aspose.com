@@ -1,7 +1,7 @@
 ---
-title: AsImage
+title: IGeometry.AsImage
 second_title: Aspose.GIS för .NET API Referens
-description: Exportera denna geometri till en bildrepresentation.
+description: IGeometry metod. Exportera denna geometri till en bildrepresentation.
 type: docs
 weight: 110
 url: /sv/net/aspose.gis.geometries/igeometry/asimage/
@@ -20,7 +20,7 @@ public void AsImage(AbstractPath outputPath, Measurement width, Measurement heig
 | outputPath | AbstractPath | Sökväg till utdatabilden. |
 | width | Measurement | Kartans bredd. |
 | height | Measurement | Kartans höjd. |
-| renderer | Renderer | Renderare att använda. |
+| renderer | Renderer | Renderer att använda. |
 | symbolizer | VectorSymbolizer | En symboliserare att använda för rendering. Om`null`, standardsymboliseraren används. |
 
 ### Undantag
@@ -29,18 +29,18 @@ public void AsImage(AbstractPath outputPath, Measurement width, Measurement heig
 | --- | --- |
 | ArgumentNullException | Vilket argument som helst`null`. |
 | IOException | Ett I/O-fel uppstod. |
-| [GisException](../../../aspose.gis/gisexception) | Ett fel vid bearbetning eller läsning av GIS-data. |
+| [GisException](../../../aspose.gis/gisexception/) | Ett fel vid bearbetning eller läsning av GIS-data. |
 | ArgumentException | Enhet för bredd eller höjd är!:SpatialReferencing.Unit.MapUnits . |
 | ArgumentOutOfRangeException | Bredd eller höjd är negativ eller noll. |
 
 ### Se även
 
-* class [AbstractPath](../../../aspose.gis/abstractpath)
-* struct [Measurement](../../../aspose.gis.rendering/measurement)
-* class [Renderer](../../../aspose.gis.rendering/renderer)
-* class [VectorSymbolizer](../../../aspose.gis.rendering.symbolizers/vectorsymbolizer)
-* interface [IGeometry](../../igeometry)
-* namnutrymme [Aspose.Gis.Geometries](../../igeometry)
+* class [AbstractPath](../../../aspose.gis/abstractpath/)
+* struct [Measurement](../../../aspose.gis.rendering/measurement/)
+* class [Renderer](../../../aspose.gis.rendering/renderer/)
+* class [VectorSymbolizer](../../../aspose.gis.rendering.symbolizers/vectorsymbolizer/)
+* interface [IGeometry](../)
+* namnutrymme [Aspose.Gis.Geometries](../../igeometry/)
 * hopsättning [Aspose.GIS](../../../)
 
 ---
@@ -59,7 +59,7 @@ public void AsImage(string outputPath, Measurement width, Measurement height, Re
 | outputPath | String | Sökväg till utdatabilden. |
 | width | Measurement | Kartans bredd. |
 | height | Measurement | Kartans höjd. |
-| renderer | Renderer | Renderare att använda. |
+| renderer | Renderer | Renderer att använda. |
 | symbolizer | VectorSymbolizer | En symboliserare att använda för rendering. Om`null`, standardsymboliseraren används. |
 
 ### Undantag
@@ -68,17 +68,17 @@ public void AsImage(string outputPath, Measurement width, Measurement height, Re
 | --- | --- |
 | ArgumentNullException | Vilket argument som helst`null`. |
 | IOException | Ett I/O-fel uppstod. |
-| [GisException](../../../aspose.gis/gisexception) | Ett fel vid bearbetning eller läsning av GIS-data. |
+| [GisException](../../../aspose.gis/gisexception/) | Ett fel vid bearbetning eller läsning av GIS-data. |
 | ArgumentException | Enhet för bredd eller höjd är!:SpatialReferencing.Unit.MapUnits . |
 | ArgumentOutOfRangeException | Bredd eller höjd är negativ eller noll. |
 
 ### Se även
 
-* struct [Measurement](../../../aspose.gis.rendering/measurement)
-* class [Renderer](../../../aspose.gis.rendering/renderer)
-* class [VectorSymbolizer](../../../aspose.gis.rendering.symbolizers/vectorsymbolizer)
-* interface [IGeometry](../../igeometry)
-* namnutrymme [Aspose.Gis.Geometries](../../igeometry)
+* struct [Measurement](../../../aspose.gis.rendering/measurement/)
+* class [Renderer](../../../aspose.gis.rendering/renderer/)
+* class [VectorSymbolizer](../../../aspose.gis.rendering.symbolizers/vectorsymbolizer/)
+* interface [IGeometry](../)
+* namnutrymme [Aspose.Gis.Geometries](../../igeometry/)
 * hopsättning [Aspose.GIS](../../../)
 
 ---
@@ -96,7 +96,7 @@ public Stream AsImage(Measurement width, Measurement height, Renderer renderer,
 | --- | --- | --- |
 | width | Measurement | Kartans bredd. |
 | height | Measurement | Kartans höjd. |
-| renderer | Renderer | Renderare att använda. |
+| renderer | Renderer | Renderer att använda. |
 | symbolizer | VectorSymbolizer | En symboliserare att använda för rendering. Om`null`, standardsymboliseraren används. |
 
 ### Returvärde
@@ -109,17 +109,17 @@ Bilden som ström
 | --- | --- |
 | ArgumentNullException | Vilket argument som helst`null`. |
 | IOException | Ett I/O-fel uppstod. |
-| [GisException](../../../aspose.gis/gisexception) | Ett fel vid bearbetning eller läsning av GIS-data. |
+| [GisException](../../../aspose.gis/gisexception/) | Ett fel vid bearbetning eller läsning av GIS-data. |
 | ArgumentException | Enhet för bredd eller höjd är!:SpatialReferencing.Unit.MapUnits . |
 | ArgumentOutOfRangeException | Bredd eller höjd är negativ eller noll. |
 
 ### Se även
 
-* struct [Measurement](../../../aspose.gis.rendering/measurement)
-* class [Renderer](../../../aspose.gis.rendering/renderer)
-* class [VectorSymbolizer](../../../aspose.gis.rendering.symbolizers/vectorsymbolizer)
-* interface [IGeometry](../../igeometry)
-* namnutrymme [Aspose.Gis.Geometries](../../igeometry)
+* struct [Measurement](../../../aspose.gis.rendering/measurement/)
+* class [Renderer](../../../aspose.gis.rendering/renderer/)
+* class [VectorSymbolizer](../../../aspose.gis.rendering.symbolizers/vectorsymbolizer/)
+* interface [IGeometry](../)
+* namnutrymme [Aspose.Gis.Geometries](../../igeometry/)
 * hopsättning [Aspose.GIS](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.GIS.dll -->
+

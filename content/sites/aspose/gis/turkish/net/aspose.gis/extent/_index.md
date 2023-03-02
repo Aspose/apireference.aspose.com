@@ -1,14 +1,14 @@
 ---
-title: Extent
+title: Class Extent
 second_title: Aspose.GIS for .NET API Referansı
-description: İki boyutlu bir uzamsal sınırlayıcı kutu.
+description: Aspose.Gis.Extent sınıf. İki boyutlu uzamsal sınırlayıcı kutu.
 type: docs
-weight: 110
+weight: 120
 url: /tr/net/aspose.gis/extent/
 ---
 ## Extent class
 
-İki boyutlu bir uzamsal sınırlayıcı kutu.
+İki boyutlu uzamsal sınırlayıcı kutu.
 
 ```csharp
 public class Extent : IEquatable<Extent>
@@ -18,51 +18,51 @@ public class Extent : IEquatable<Extent>
 
 | İsim | Tanım |
 | --- | --- |
-| [Extent](extent#constructor)() | Yeni örnek oluşturur. |
-| [Extent](extent#constructor_1)(SpatialReferenceSystem) | Yeni örnek oluşturur. |
-| [Extent](extent#constructor_2)(double, double, double, double, SpatialReferenceSystem) | Yeni örnek oluşturur. |
+| [Extent](extent/#constructor)() | Yeni örnek oluşturur. |
+| [Extent](extent/#constructor_1)(SpatialReferenceSystem) | Yeni örnek oluşturur. |
+| [Extent](extent/#constructor_2)(double, double, double, double, SpatialReferenceSystem) | Yeni örnek oluşturur. |
 
 ## Özellikleri
 
 | İsim | Tanım |
 | --- | --- |
-| [Center](../../aspose.gis/extent/center) { get; } | Kapsamın merkezi. |
-| [Height](../../aspose.gis/extent/height) { get; } | Kapsamın yüksekliği. |
-| [IsValid](../../aspose.gis/extent/isvalid) { get; } | Bunun olup olmadığını belirler.[`Extent`](../extent) geçerlidir. |
-| [SpatialReferenceSystem](../../aspose.gis/extent/spatialreferencesystem) { get; set; } | [`SpatialReferenceSystem`](../../aspose.gis.spatialreferencing/spatialreferencesystem) bu kapsamla ilişkili. Olabilir`null` eğer[`SpatialReferenceSystem`](./spatialreferencesystem)bilinmiyor. Kullanım[`GetTransformed`](./gettransformed) fark uzamsal referans sistemleri arasındaki kapsamı dönüştürmek için. |
-| [Width](../../aspose.gis/extent/width) { get; } | Kapsamın genişliği. |
-| [XMax](../../aspose.gis/extent/xmax) { get; set; } | X koordinatının maksimum değeri. |
-| [XMin](../../aspose.gis/extent/xmin) { get; set; } | X koordinatının minimum değeri. |
-| [YMax](../../aspose.gis/extent/ymax) { get; set; } | Y koordinatının maksimum değeri. |
-| [YMin](../../aspose.gis/extent/ymin) { get; set; } | Y koordinatının minimum değeri. |
+| [Center](../../aspose.gis/extent/center/) { get; } | Kapsamın merkezi. |
+| [Height](../../aspose.gis/extent/height/) { get; } | Kapsamın yüksekliği. |
+| [IsValid](../../aspose.gis/extent/isvalid/) { get; } | Bunun olup olmadığını belirler`Extent` geçerlidir. |
+| [SpatialReferenceSystem](../../aspose.gis/extent/spatialreferencesystem/) { get; set; } | [`SpatialReferenceSystem`](../../aspose.gis.spatialreferencing/spatialreferencesystem/) bu kapsamla ilişkili. Olabilir`null` eğer[`SpatialReferenceSystem`](./spatialreferencesystem/) bilinmiyor. Kullanım[`GetTransformed`](./gettransformed/) fark uzamsal referans sistemleri arasındaki kapsamı dönüştürmek için. |
+| [Width](../../aspose.gis/extent/width/) { get; } | Kapsamın genişliği. |
+| [XMax](../../aspose.gis/extent/xmax/) { get; set; } | X koordinatının maksimum değeri. |
+| [XMin](../../aspose.gis/extent/xmin/) { get; set; } | X koordinatının minimum değeri. |
+| [YMax](../../aspose.gis/extent/ymax/) { get; set; } | Y koordinatının maksimum değeri. |
+| [YMin](../../aspose.gis/extent/ymin/) { get; set; } | Y koordinatının minimum değeri. |
 
 ## yöntemler
 
 | İsim | Tanım |
 | --- | --- |
-| [Clone](../../aspose.gis/extent/clone)() | Bu örneği klonlar. |
-| [Contains](../../aspose.gis/extent/contains#contains)(Extent) | Bu kapsamın bağımsız değişkeni içerip içermediğini belirler. |
-| [Contains](../../aspose.gis/extent/contains#contains_1)(IGeometry) | Bu kapsamın bağımsız değişkeni içerip içermediğini belirler. |
-| [Contains](../../aspose.gis/extent/contains#contains_2)(double, double) | Bu kapsamın bağımsız değişkenler tarafından tanımlanan bir koordinat içerip içermediğini belirler. |
-| [Equals](../../aspose.gis/extent/equals#equals)(Extent) | Geçerli nesnenin aynı türdeki başka bir nesneye eşit olup olmadığını gösterir. |
-| override [Equals](../../aspose.gis/extent/equals#equals_1)(object) | Belirtilen nesnenin geçerli nesneye eşit olup olmadığını belirler. |
-| override [GetHashCode](../../aspose.gis/extent/gethashcode)() | Varsayılan karma işlevi olarak hizmet eder. |
-| [GetTransformed](../../aspose.gis/extent/gettransformed)(SpatialReferenceSystem) | Belirtilen boyutta yeni kapsam döndürür[`SpatialReferenceSystem`](../../aspose.gis.spatialreferencing/spatialreferencesystem) bu kapsamı içeren. |
-| [Grow](../../aspose.gis/extent/grow#grow)(Extent) | Bu kapsamı büyütür, böylece argümanı içerir. |
-| [Grow](../../aspose.gis/extent/grow#grow_1)(double, double) | Belirtilen noktayı içerecek şekilde bu ölçüde büyür. |
-| [GrowX](../../aspose.gis/extent/growx)(double) | Belirtilen değeri içerecek şekilde X ekseni boyunca bu kapsamı büyütür. |
-| [GrowY](../../aspose.gis/extent/growy)(double) | Belirtilen değeri içerecek şekilde Y ekseni boyunca bu kapsamı büyütür. |
-| [Intersects](../../aspose.gis/extent/intersects#intersects)(Extent) | Bu kapsamın bağımsız değişkenle kesişip kesişmediğini belirler. |
-| [Intersects](../../aspose.gis/extent/intersects#intersects_1)(IGeometry) | Bu kapsamın bağımsız değişkenle kesişip kesişmediğini belirler. |
-| [Normalize](../../aspose.gis/extent/normalize)() | Takas[`XMin`](./xmin) ile birlikte[`XMax`](./xmax) eğer[`Width`](./width) negatif ve [`YMin`](./ymin) ile birlikte[`YMax`](./ymax) eğer[`Height`](./height) negatif. |
-| [ToPolygon](../../aspose.gis/extent/topolygon)() | Bu kapsamı, onu temsil eden dikdörtgen bir çokgene dönüştürür. |
-| override [ToString](../../aspose.gis/extent/tostring)() | Geçerli nesneyi temsil eden bir dize döndürür. |
-| [operator ==](../../aspose.gis/extent/op_equality) | '==' operatörünü uygular. |
-| [operator !=](../../aspose.gis/extent/op_inequality) | '!=' operatörünü uygular. |
+| [Clone](../../aspose.gis/extent/clone/)() | Bu örneği klonlar. |
+| [Contains](../../aspose.gis/extent/contains/#contains)(Extent) | Bu kapsamın bağımsız değişkeni içerip içermediğini belirler. |
+| [Contains](../../aspose.gis/extent/contains/#contains_1)(IGeometry) | Bu kapsamın bağımsız değişkeni içerip içermediğini belirler. |
+| [Contains](../../aspose.gis/extent/contains/#contains_2)(double, double) | Bu kapsamın bağımsız değişkenler tarafından tanımlanan bir koordinat içerip içermediğini belirler. |
+| [Equals](../../aspose.gis/extent/equals/#equals)(Extent) | Geçerli nesnenin aynı türden başka bir nesneye eşit olup olmadığını gösterir. |
+| override [Equals](../../aspose.gis/extent/equals/#equals_1)(object) | Belirtilen nesnenin geçerli nesneye eşit olup olmadığını belirler. |
+| override [GetHashCode](../../aspose.gis/extent/gethashcode/)() | Varsayılan karma işlevi olarak işlev görür. |
+| [GetTransformed](../../aspose.gis/extent/gettransformed/)(SpatialReferenceSystem) | Belirtilen yeni kapsamı döndürür[`SpatialReferenceSystem`](../../aspose.gis.spatialreferencing/spatialreferencesystem/) bu kapsamı içeren. |
+| [Grow](../../aspose.gis/extent/grow/#grow)(Extent) | Argümanı içerecek şekilde bu kapsamı büyütür. |
+| [Grow](../../aspose.gis/extent/grow/#grow_1)(double, double) | Belirtilen noktayı içerecek şekilde bu ölçüde büyür. |
+| [GrowX](../../aspose.gis/extent/growx/)(double) | Belirtilen değeri içermesi için bu kapsamı X ekseni boyunca büyütür. |
+| [GrowY](../../aspose.gis/extent/growy/)(double) | Belirtilen değeri içerecek şekilde bu kapsamı Y ekseni boyunca büyütür. |
+| [Intersects](../../aspose.gis/extent/intersects/#intersects)(Extent) | Bu kapsamın bağımsız değişkenle kesişip kesişmediğini belirler. |
+| [Intersects](../../aspose.gis/extent/intersects/#intersects_1)(IGeometry) | Bu kapsamın bağımsız değişkenle kesişip kesişmediğini belirler. |
+| [Normalize](../../aspose.gis/extent/normalize/)() | Takaslar[`XMin`](./xmin/) ile[`XMax`](./xmax/) eğer[`Width`](./width/) negatif ve [`YMin`](./ymin/) ile[`YMax`](./ymax/) eğer[`Height`](./height/) negatif. |
+| [ToPolygon](../../aspose.gis/extent/topolygon/)() | Bu uzantıyı, onu temsil eden bir dikdörtgen çokgene dönüştürür. |
+| override [ToString](../../aspose.gis/extent/tostring/)() | Geçerli nesneyi temsil eden bir dize döndürür. |
+| [operator ==](../../aspose.gis/extent/op_equality/) | '==' operatörünü uygular. |
+| [operator !=](../../aspose.gis/extent/op_inequality/) | '!=' operatörünü uygular. |
 
 ### Ayrıca bakınız
 
-* ad alanı [Aspose.Gis](../../aspose.gis)
+* ad alanı [Aspose.Gis](../../aspose.gis/)
 * toplantı [Aspose.GIS](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.GIS.dll -->
+

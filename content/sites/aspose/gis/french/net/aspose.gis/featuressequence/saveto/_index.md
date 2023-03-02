@@ -1,7 +1,7 @@
 ---
-title: SaveTo
+title: FeaturesSequence.SaveTo
 second_title: Référence de l'API Aspose.GIS pour .NET
-description: Enregistre la séquence dentités dans la couche.
+description: FeaturesSequence méthode. Enregistre la séquence dentités dans la couche.
 type: docs
 weight: 50
 url: /fr/net/aspose.gis/featuressequence/saveto/
@@ -24,15 +24,15 @@ public void SaveTo(string destinationPath, FileDriver destinationDriver)
 | exception | condition |
 | --- | --- |
 | ArgumentNullException | Tout argument est`null`. |
-| [GisException](../../gisexception) | Erreur lors de la lecture ou de l'écriture de la fonctionnalité vers/depuis le fichier. |
+| [GisException](../../gisexception/) | Erreur lors de la lecture ou de l'écriture de la fonctionnalité vers/depuis le fichier. |
 | IOException | Une erreur d'E/S s'est produite. |
-| [TransformationException](../../../aspose.gis.spatialreferencing/transformationexception) | Échec de la transformation de la géométrie des entités du système de référence spatiale source vers le système de référence spatiale cible. |
+| [TransformationException](../../../aspose.gis.spatialreferencing/transformationexception/) | Échec de la transformation de la géométrie des entités du système de référence spatiale source vers le système de référence spatiale cible. |
 
 ### Voir également
 
-* class [FileDriver](../../filedriver)
-* class [FeaturesSequence](../../featuressequence)
-* espace de noms [Aspose.Gis](../../featuressequence)
+* class [FileDriver](../../filedriver/)
+* class [FeaturesSequence](../)
+* espace de noms [Aspose.Gis](../../featuressequence/)
 * Assemblée [Aspose.GIS](../../../)
 
 ---
@@ -54,16 +54,16 @@ public void SaveTo(AbstractPath destinationPath, FileDriver destinationDriver)
 
 | exception | condition |
 | --- | --- |
-| [GisException](../../gisexception) | Erreur lors de la lecture ou de l'écriture de la fonctionnalité vers/depuis le fichier. |
+| [GisException](../../gisexception/) | Erreur lors de la lecture ou de l'écriture de la fonctionnalité vers/depuis le fichier. |
 | IOException | Une erreur d'E/S s'est produite. |
-| [TransformationException](../../../aspose.gis.spatialreferencing/transformationexception) | Échec de la transformation de la géométrie des entités du système de référence spatiale source vers le système de référence spatiale cible. |
+| [TransformationException](../../../aspose.gis.spatialreferencing/transformationexception/) | Échec de la transformation de la géométrie des entités du système de référence spatiale source vers le système de référence spatiale cible. |
 
 ### Voir également
 
-* class [AbstractPath](../../abstractpath)
-* class [FileDriver](../../filedriver)
-* class [FeaturesSequence](../../featuressequence)
-* espace de noms [Aspose.Gis](../../featuressequence)
+* class [AbstractPath](../../abstractpath/)
+* class [FileDriver](../../filedriver/)
+* class [FeaturesSequence](../)
+* espace de noms [Aspose.Gis](../../featuressequence/)
 * Assemblée [Aspose.GIS](../../../)
 
 ---
@@ -86,17 +86,17 @@ public void SaveTo(string destinationPath, FileDriver destinationDriver, SavingO
 
 | exception | condition |
 | --- | --- |
-| [GisException](../../gisexception) | Erreur lors de la lecture ou de l'écriture de la fonctionnalité vers/depuis le fichier. |
+| [GisException](../../gisexception/) | Erreur lors de la lecture ou de l'écriture de la fonctionnalité vers/depuis le fichier. |
 | IOException | Une erreur d'E/S s'est produite. |
-| [TransformationException](../../../aspose.gis.spatialreferencing/transformationexception) | Échec de la transformation de la géométrie des entités du système de référence spatiale source vers le système de référence spatiale cible. |
-| NotSupportedException | Système de référence spatiale spécifié dans*options*n'est pas pris en charge par*destinationDriver* . |
+| [TransformationException](../../../aspose.gis.spatialreferencing/transformationexception/) | Échec de la transformation de la géométrie des entités du système de référence spatiale source vers le système de référence spatiale cible. |
+| NotSupportedException | Système de référence spatiale spécifié dans*options* n'est pas pris en charge par*destinationDriver* . |
 
 ### Voir également
 
-* class [FileDriver](../../filedriver)
-* class [SavingOptions](../../savingoptions)
-* class [FeaturesSequence](../../featuressequence)
-* espace de noms [Aspose.Gis](../../featuressequence)
+* class [FileDriver](../../filedriver/)
+* class [SavingOptions](../../savingoptions/)
+* class [FeaturesSequence](../)
+* espace de noms [Aspose.Gis](../../featuressequence/)
 * Assemblée [Aspose.GIS](../../../)
 
 ---
@@ -120,18 +120,18 @@ public void SaveTo(AbstractPath destinationPath, FileDriver destinationDriver,
 
 | exception | condition |
 | --- | --- |
-| [GisException](../../gisexception) | Erreur lors de la lecture ou de l'écriture de la fonctionnalité vers/depuis le fichier. |
+| [GisException](../../gisexception/) | Erreur lors de la lecture ou de l'écriture de la fonctionnalité vers/depuis le fichier. |
 | IOException | Une erreur d'E/S s'est produite. |
-| [TransformationException](../../../aspose.gis.spatialreferencing/transformationexception) | Échec de la transformation de la géométrie des entités du système de référence spatiale source vers le système de référence spatiale cible. |
-| NotSupportedException | Système de référence spatiale spécifié dans*options*n'est pas pris en charge par*destinationDriver* . |
+| [TransformationException](../../../aspose.gis.spatialreferencing/transformationexception/) | Échec de la transformation de la géométrie des entités du système de référence spatiale source vers le système de référence spatiale cible. |
+| NotSupportedException | Système de référence spatiale spécifié dans*options* n'est pas pris en charge par*destinationDriver* . |
 
 ### Voir également
 
-* class [AbstractPath](../../abstractpath)
-* class [FileDriver](../../filedriver)
-* class [SavingOptions](../../savingoptions)
-* class [FeaturesSequence](../../featuressequence)
-* espace de noms [Aspose.Gis](../../featuressequence)
+* class [AbstractPath](../../abstractpath/)
+* class [FileDriver](../../filedriver/)
+* class [SavingOptions](../../savingoptions/)
+* class [FeaturesSequence](../)
+* espace de noms [Aspose.Gis](../../featuressequence/)
 * Assemblée [Aspose.GIS](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.GIS.dll -->
+

@@ -1,9 +1,9 @@
 ---
-title: Ellipsoid
+title: Class Ellipsoid
 second_title: Aspose.GIS för .NET API Referens
-description: Ellipsoid representerar en ellipsoid som approximerar jorden.
+description: Aspose.Gis.SpatialReferencing.Ellipsoid klass. Ellipsoid representerar en ellipsoid som approximerar jorden.
 type: docs
-weight: 1970
+weight: 2070
 url: /sv/net/aspose.gis.spatialreferencing/ellipsoid/
 ---
 ## Ellipsoid class
@@ -18,37 +18,37 @@ public class Ellipsoid : IdentifiableObject
 
 | namn | Beskrivning |
 | --- | --- |
-| [Ellipsoid](ellipsoid)(string, double, double, Identifier) | Skapar ny Ellipsoid. |
+| [Ellipsoid](ellipsoid/)(string, double, double, Identifier) | Skapar ny Ellipsoid. |
 
 ## Egenskaper
 
 | namn | Beskrivning |
 | --- | --- |
-| static [Airy](../../aspose.gis.spatialreferencing/ellipsoid/airy) { get; } | Luftig ellipsoid. |
-| static [Grs80](../../aspose.gis.spatialreferencing/ellipsoid/grs80) { get; } | GRS 1980 Ellipsoid. |
-| static [Wgs72](../../aspose.gis.spatialreferencing/ellipsoid/wgs72) { get; } | WGS 72 Ellipsoid. |
-| static [Wgs84](../../aspose.gis.spatialreferencing/ellipsoid/wgs84) { get; } | WGS 84 Ellipsoid. |
-| [EpsgCode](../../aspose.gis.spatialreferencing/identifiableobject/epsgcode) { get; } | Om denna objektidentifierare är EPSG-identifierare - returnera dess kod. Annars - returnera -1. |
-| [Identifier](../../aspose.gis.spatialreferencing/identifiableobject/identifier) { get; } | Identifierare för detta identifierbara objekt. |
-| [InverseFlattening](../../aspose.gis.spatialreferencing/ellipsoid/inverseflattening) { get; } | Omvänd tillplattning av ellipsoid. 0 om detta är en sfär. |
-| [IsSphere](../../aspose.gis.spatialreferencing/ellipsoid/issphere) { get; } | Detekterar om denna ellipsoid är en sfär. |
-| [IsValid](../../aspose.gis.spatialreferencing/ellipsoid/isvalid) { get; } | Upptäcker om ellipsoiden är giltig: dess semi-storaxel är mer än 0 och invers utjämning är positiv eller lika med 0. |
-| [Name](../../aspose.gis.spatialreferencing/identifiableobject/name) { get; } | Namn på detta objekt. |
-| [SemiMajorAxis](../../aspose.gis.spatialreferencing/ellipsoid/semimajoraxis) { get; } | Ellipsoidens halvstora axel. |
-| [SemiMinorAxis](../../aspose.gis.spatialreferencing/ellipsoid/semiminoraxis) { get; } | Ellipsoidens halvmollaxel. Lika med halvstor axel om detta är en sfär. |
+| static [Airy](../../aspose.gis.spatialreferencing/ellipsoid/airy/) { get; } | Luftig ellipsoid. |
+| static [Grs80](../../aspose.gis.spatialreferencing/ellipsoid/grs80/) { get; } | GRS 1980 Ellipsoid. |
+| static [Wgs72](../../aspose.gis.spatialreferencing/ellipsoid/wgs72/) { get; } | WGS 72 Ellipsoid. |
+| static [Wgs84](../../aspose.gis.spatialreferencing/ellipsoid/wgs84/) { get; } | WGS 84 Ellipsoid. |
+| [EpsgCode](../../aspose.gis.spatialreferencing/identifiableobject/epsgcode/) { get; } | Om denna objektidentifierare är EPSG-identifierare - returnera dess kod. Annars - returnera -1. |
+| [Identifier](../../aspose.gis.spatialreferencing/identifiableobject/identifier/) { get; } | Identifierare för detta identifierbara objekt. |
+| [InverseFlattening](../../aspose.gis.spatialreferencing/ellipsoid/inverseflattening/) { get; } | Omvänd tillplattning av ellipsoid. 0 om detta är en sfär. |
+| [IsSphere](../../aspose.gis.spatialreferencing/ellipsoid/issphere/) { get; } | Detekterar om denna ellipsoid är en sfär. |
+| [IsValid](../../aspose.gis.spatialreferencing/ellipsoid/isvalid/) { get; } | Upptäcker om ellipsoiden är giltig: dess semi-storaxel är mer än 0 och invers utjämning är positiv eller lika med 0. |
+| [Name](../../aspose.gis.spatialreferencing/identifiableobject/name/) { get; } | Namn på detta objekt. |
+| [SemiMajorAxis](../../aspose.gis.spatialreferencing/ellipsoid/semimajoraxis/) { get; } | Ellipsoidens halvstora axel. |
+| [SemiMinorAxis](../../aspose.gis.spatialreferencing/ellipsoid/semiminoraxis/) { get; } | Ellipsoidens halvmollaxel. Lika med halvstor axel om detta är en sfär. |
 
 ## Metoder
 
 | namn | Beskrivning |
 | --- | --- |
-| [IsEquivalent](../../aspose.gis.spatialreferencing/ellipsoid/isequivalent)(Ellipsoid) | Bestämmer om två ellipsoider är ekvivalenta. Om ellipsoid A är ekvivalent med ellipsoid B, så har de samma semi-storaxel och invers avplattning. |
-| override [ToString](../../aspose.gis.spatialreferencing/identifiableobject/tostring)() | Returnerar en sträng som representerar det aktuella objektet. |
-| static [IsEquivalent](../../aspose.gis.spatialreferencing/ellipsoid/isequivalent)(Ellipsoid, Ellipsoid) | Bestämmer om två ellipsoider är ekvivalenta. Om ellipsoid A är ekvivalent med ellipsoid B, så har de samma semi-storaxel och invers avplattning. |
+| [IsEquivalent](../../aspose.gis.spatialreferencing/ellipsoid/isequivalent/)(Ellipsoid) | Bestämmer om två ellipsoider är ekvivalenta. Om ellipsoid A är ekvivalent med ellipsoid B, så har de samma semi-storaxel och invers avplattning. |
+| override [ToString](../../aspose.gis.spatialreferencing/identifiableobject/tostring/)() | Returnerar en sträng som representerar det aktuella objektet. |
+| static [IsEquivalent](../../aspose.gis.spatialreferencing/ellipsoid/isequivalent/)(Ellipsoid, Ellipsoid) | Bestämmer om två ellipsoider är ekvivalenta. Om ellipsoid A är ekvivalent med ellipsoid B, så har de samma semi-storaxel och invers avplattning. |
 
 ### Se även
 
-* class [IdentifiableObject](../identifiableobject)
-* namnutrymme [Aspose.Gis.SpatialReferencing](../../aspose.gis.spatialreferencing)
+* class [IdentifiableObject](../identifiableobject/)
+* namnutrymme [Aspose.Gis.SpatialReferencing](../../aspose.gis.spatialreferencing/)
 * hopsättning [Aspose.GIS](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.GIS.dll -->
+

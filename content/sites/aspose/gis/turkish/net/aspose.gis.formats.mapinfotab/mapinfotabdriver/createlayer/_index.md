@@ -1,14 +1,14 @@
 ---
-title: CreateLayer
+title: MapInfoTabDriver.CreateLayer
 second_title: Aspose.GIS for .NET API Referansı
-description: Bir katman oluşturur ve onu yeni özellikler eklemek için açar.
+description: MapInfoTabDriver yöntem. Bir katman oluşturur ve yeni özellikler eklemek için açar.
 type: docs
 weight: 40
 url: /tr/net/aspose.gis.formats.mapinfotab/mapinfotabdriver/createlayer/
 ---
 ## CreateLayer(string, MapInfoTabOptions) {#createlayer_9}
 
-Bir katman oluşturur ve onu yeni özellikler eklemek için açar.
+Bir katman oluşturur ve yeni özellikler eklemek için açar.
 
 ```csharp
 public VectorLayer CreateLayer(string path, MapInfoTabOptions options)
@@ -21,7 +21,7 @@ public VectorLayer CreateLayer(string path, MapInfoTabOptions options)
 
 ### Geri dönüş değeri
 
-bir örneği[`VectorLayer`](../../../aspose.gis/vectorlayer).
+bir örneği[`VectorLayer`](../../../aspose.gis/vectorlayer/).
 
 ### istisnalar
 
@@ -31,17 +31,17 @@ bir örneği[`VectorLayer`](../../../aspose.gis/vectorlayer).
 
 ### Ayrıca bakınız
 
-* class [VectorLayer](../../../aspose.gis/vectorlayer)
-* class [MapInfoTabOptions](../../mapinfotaboptions)
-* class [MapInfoTabDriver](../../mapinfotabdriver)
-* ad alanı [Aspose.Gis.Formats.MapInfoTab](../../mapinfotabdriver)
+* class [VectorLayer](../../../aspose.gis/vectorlayer/)
+* class [MapInfoTabOptions](../../mapinfotaboptions/)
+* class [MapInfoTabDriver](../)
+* ad alanı [Aspose.Gis.Formats.MapInfoTab](../../mapinfotabdriver/)
 * toplantı [Aspose.GIS](../../../)
 
 ---
 
 ## CreateLayer(AbstractPath, MapInfoTabOptions) {#createlayer_3}
 
-Bir katman oluşturur ve onu yeni özellikler eklemek için açar.
+Bir katman oluşturur ve yeni özellikler eklemek için açar.
 
 ```csharp
 public VectorLayer CreateLayer(AbstractPath path, MapInfoTabOptions options)
@@ -54,7 +54,7 @@ public VectorLayer CreateLayer(AbstractPath path, MapInfoTabOptions options)
 
 ### Geri dönüş değeri
 
-bir örneği[`VectorLayer`](../../../aspose.gis/vectorlayer).
+bir örneği[`VectorLayer`](../../../aspose.gis/vectorlayer/).
 
 ### istisnalar
 
@@ -64,18 +64,18 @@ bir örneği[`VectorLayer`](../../../aspose.gis/vectorlayer).
 
 ### Ayrıca bakınız
 
-* class [VectorLayer](../../../aspose.gis/vectorlayer)
-* class [AbstractPath](../../../aspose.gis/abstractpath)
-* class [MapInfoTabOptions](../../mapinfotaboptions)
-* class [MapInfoTabDriver](../../mapinfotabdriver)
-* ad alanı [Aspose.Gis.Formats.MapInfoTab](../../mapinfotabdriver)
+* class [VectorLayer](../../../aspose.gis/vectorlayer/)
+* class [AbstractPath](../../../aspose.gis/abstractpath/)
+* class [MapInfoTabOptions](../../mapinfotaboptions/)
+* class [MapInfoTabDriver](../)
+* ad alanı [Aspose.Gis.Formats.MapInfoTab](../../mapinfotabdriver/)
 * toplantı [Aspose.GIS](../../../)
 
 ---
 
 ## CreateLayer(AbstractPath, DriverOptions, SpatialReferenceSystem) {#createlayer_2}
 
-Bir katman oluşturur ve onu yeni özellikler eklemek için açar.
+Bir katman oluşturur ve yeni özellikler eklemek için açar.
 
 ```csharp
 public override VectorLayer CreateLayer(AbstractPath path, DriverOptions options, 
@@ -90,7 +90,7 @@ public override VectorLayer CreateLayer(AbstractPath path, DriverOptions options
 
 ### Geri dönüş değeri
 
-bir örneği[`VectorLayer`](../../../aspose.gis/vectorlayer).
+bir örneği[`VectorLayer`](../../../aspose.gis/vectorlayer/).
 
 ### istisnalar
 
@@ -100,19 +100,19 @@ bir örneği[`VectorLayer`](../../../aspose.gis/vectorlayer).
 
 ### Ayrıca bakınız
 
-* class [VectorLayer](../../../aspose.gis/vectorlayer)
-* class [AbstractPath](../../../aspose.gis/abstractpath)
-* class [DriverOptions](../../../aspose.gis/driveroptions)
-* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem)
-* class [MapInfoTabDriver](../../mapinfotabdriver)
-* ad alanı [Aspose.Gis.Formats.MapInfoTab](../../mapinfotabdriver)
+* class [VectorLayer](../../../aspose.gis/vectorlayer/)
+* class [AbstractPath](../../../aspose.gis/abstractpath/)
+* class [DriverOptions](../../../aspose.gis/driveroptions/)
+* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem/)
+* class [MapInfoTabDriver](../)
+* ad alanı [Aspose.Gis.Formats.MapInfoTab](../../mapinfotabdriver/)
 * toplantı [Aspose.GIS](../../../)
 
 ---
 
 ## CreateLayer(AbstractPath, MapInfoTabOptions, SpatialReferenceSystem) {#createlayer_4}
 
-Bir katman oluşturur ve onu yeni özellikler eklemek için açar.
+Bir katman oluşturur ve yeni özellikler eklemek için açar.
 
 ```csharp
 public VectorLayer CreateLayer(AbstractPath path, MapInfoTabOptions options, 
@@ -127,23 +127,23 @@ public VectorLayer CreateLayer(AbstractPath path, MapInfoTabOptions options,
 
 ### Geri dönüş değeri
 
-bir örneği[`VectorLayer`](../../../aspose.gis/vectorlayer).
+bir örneği[`VectorLayer`](../../../aspose.gis/vectorlayer/).
 
 ### istisnalar
 
 | istisna | şart |
 | --- | --- |
 | InvalidOperationException | Katman zaten var. |
-| NotSupportedException | Mekansal referans sistemi sürücü tarafından desteklenmiyor. |
+| NotSupportedException | Uzamsal referans sistemi sürücü tarafından desteklenmiyor. |
 
 ### Ayrıca bakınız
 
-* class [VectorLayer](../../../aspose.gis/vectorlayer)
-* class [AbstractPath](../../../aspose.gis/abstractpath)
-* class [MapInfoTabOptions](../../mapinfotaboptions)
-* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem)
-* class [MapInfoTabDriver](../../mapinfotabdriver)
-* ad alanı [Aspose.Gis.Formats.MapInfoTab](../../mapinfotabdriver)
+* class [VectorLayer](../../../aspose.gis/vectorlayer/)
+* class [AbstractPath](../../../aspose.gis/abstractpath/)
+* class [MapInfoTabOptions](../../mapinfotaboptions/)
+* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem/)
+* class [MapInfoTabDriver](../)
+* ad alanı [Aspose.Gis.Formats.MapInfoTab](../../mapinfotabdriver/)
 * toplantı [Aspose.GIS](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.GIS.dll -->
+

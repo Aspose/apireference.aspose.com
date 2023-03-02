@@ -1,7 +1,7 @@
 ---
-title: Open
+title: Dataset.Open
 second_title: Aspose.GIS for .NET API Referansı
-description: Veri kümesini açar.
+description: Dataset yöntem. Veri kümesini açar.
 type: docs
 weight: 20
 url: /tr/net/aspose.gis/dataset/open/
@@ -16,26 +16,26 @@ public static Dataset Open(string path, FileDriver driver)
 
 | Parametre | Tip | Tanım |
 | --- | --- | --- |
-| path | String | Veri kümesine giden yol. |
+| path | String | Veri kümesinin yolu. |
 | driver | FileDriver | Kullanılacak sürücü. |
 
 ### Geri dönüş değeri
 
-bir örneği[`Dataset`](../../dataset).
+bir örneği[`Dataset`](../).
 
 ### istisnalar
 
 | istisna | şart |
 | --- | --- |
 | ArgumentNullException | yol`null`. |
-| [GisException](../../gisexception) | Veri kümesi okunurken hata oluştu. |
+| [GisException](../../gisexception/) | Veri kümesi okunurken hata oluştu. |
 | IOException | Bir G/Ç hatası oluştu. |
 
 ### Ayrıca bakınız
 
-* class [FileDriver](../../filedriver)
-* class [Dataset](../../dataset)
-* ad alanı [Aspose.Gis](../../dataset)
+* class [FileDriver](../../filedriver/)
+* class [Dataset](../)
+* ad alanı [Aspose.Gis](../../dataset/)
 * toplantı [Aspose.GIS](../../../)
 
 ---
@@ -50,27 +50,27 @@ public static Dataset Open(AbstractPath path, FileDriver driver)
 
 | Parametre | Tip | Tanım |
 | --- | --- | --- |
-| path | AbstractPath | Veri kümesine giden yol. |
+| path | AbstractPath | Veri kümesinin yolu. |
 | driver | FileDriver | Kullanılacak sürücü. |
 
 ### Geri dönüş değeri
 
-bir örneği[`Dataset`](../../dataset).
+bir örneği[`Dataset`](../).
 
 ### istisnalar
 
 | istisna | şart |
 | --- | --- |
 | ArgumentNullException | yol`null`. |
-| [GisException](../../gisexception) | Veri kümesi okunurken hata oluştu. |
+| [GisException](../../gisexception/) | Veri kümesi okunurken hata oluştu. |
 | IOException | Bir G/Ç hatası oluştu. |
 
 ### Ayrıca bakınız
 
-* class [AbstractPath](../../abstractpath)
-* class [FileDriver](../../filedriver)
-* class [Dataset](../../dataset)
-* ad alanı [Aspose.Gis](../../dataset)
+* class [AbstractPath](../../abstractpath/)
+* class [FileDriver](../../filedriver/)
+* class [Dataset](../)
+* ad alanı [Aspose.Gis](../../dataset/)
 * toplantı [Aspose.GIS](../../../)
 
 ---
@@ -85,29 +85,29 @@ public static Dataset Open(string path, FileDriver driver, DriverOptions options
 
 | Parametre | Tip | Tanım |
 | --- | --- | --- |
-| path | String | Veri kümesine giden yol. |
+| path | String | Veri kümesinin yolu. |
 | driver | FileDriver | Kullanılacak sürücü. |
 | options | DriverOptions | Sürücüye özel seçenekler. |
 
 ### Geri dönüş değeri
 
-bir örneği[`Dataset`](../../dataset).
+bir örneği[`Dataset`](../).
 
 ### istisnalar
 
 | istisna | şart |
 | --- | --- |
-| ArgumentException | Seçenekler nesnesi, bu sürücü için yanlış bir türe sahip. |
+| ArgumentException | Seçenekler nesnesi bu sürücü için yanlış bir türe sahip. |
 | ArgumentNullException | yol`null`. |
-| [GisException](../../gisexception) | Veri kümesi okunurken hata oluştu. |
+| [GisException](../../gisexception/) | Veri kümesi okunurken hata oluştu. |
 | IOException | Bir G/Ç hatası oluştu. |
 
 ### Ayrıca bakınız
 
-* class [FileDriver](../../filedriver)
-* class [DriverOptions](../../driveroptions)
-* class [Dataset](../../dataset)
-* ad alanı [Aspose.Gis](../../dataset)
+* class [FileDriver](../../filedriver/)
+* class [DriverOptions](../../driveroptions/)
+* class [Dataset](../)
+* ad alanı [Aspose.Gis](../../dataset/)
 * toplantı [Aspose.GIS](../../../)
 
 ---
@@ -122,30 +122,30 @@ public static Dataset Open(AbstractPath path, FileDriver driver, DriverOptions o
 
 | Parametre | Tip | Tanım |
 | --- | --- | --- |
-| path | AbstractPath | Veri kümesine giden yol. |
+| path | AbstractPath | Veri kümesinin yolu. |
 | driver | FileDriver | Kullanılacak sürücü. |
 | options | DriverOptions | Sürücüye özel seçenekler. |
 
 ### Geri dönüş değeri
 
-bir örneği[`Dataset`](../../dataset).
+bir örneği[`Dataset`](../).
 
 ### istisnalar
 
 | istisna | şart |
 | --- | --- |
-| ArgumentException | Seçenekler nesnesi, bu sürücü için yanlış bir türe sahip. |
+| ArgumentException | Seçenekler nesnesi bu sürücü için yanlış bir türe sahip. |
 | ArgumentNullException | yol`null`. |
-| [GisException](../../gisexception) | Veri kümesi okunurken hata oluştu. |
+| [GisException](../../gisexception/) | Veri kümesi okunurken hata oluştu. |
 | IOException | Bir G/Ç hatası oluştu. |
 
 ### Ayrıca bakınız
 
-* class [AbstractPath](../../abstractpath)
-* class [FileDriver](../../filedriver)
-* class [DriverOptions](../../driveroptions)
-* class [Dataset](../../dataset)
-* ad alanı [Aspose.Gis](../../dataset)
+* class [AbstractPath](../../abstractpath/)
+* class [FileDriver](../../filedriver/)
+* class [DriverOptions](../../driveroptions/)
+* class [Dataset](../)
+* ad alanı [Aspose.Gis](../../dataset/)
 * toplantı [Aspose.GIS](../../../)
 
 ---
@@ -160,27 +160,27 @@ public static Dataset Open(IDbConnection connection, DatabaseDriver driver)
 
 | Parametre | Tip | Tanım |
 | --- | --- | --- |
-| connection | IDbConnection | Veritabanına bağlantı açıldı. |
+| connection | IDbConnection | Veritabanı bağlantısı açıldı. |
 | driver | DatabaseDriver | Kullanılacak sürücü. |
 
 ### Geri dönüş değeri
 
-bir örneği[`Dataset`](../../dataset).
+bir örneği[`Dataset`](../).
 
 ### istisnalar
 
 | istisna | şart |
 | --- | --- |
-| ArgumentException | Seçenekler nesnesi, bu sürücü için yanlış bir türe sahip. |
+| ArgumentException | Seçenekler nesnesi bu sürücü için yanlış bir türe sahip. |
 | ArgumentNullException | yol`null`. |
-| [GisException](../../gisexception) | Veri kümesi okunurken hata oluştu. |
+| [GisException](../../gisexception/) | Veri kümesi okunurken hata oluştu. |
 | IOException | Bir G/Ç hatası oluştu. |
 
 ### Ayrıca bakınız
 
-* class [DatabaseDriver](../../databasedriver)
-* class [Dataset](../../dataset)
-* ad alanı [Aspose.Gis](../../dataset)
+* class [DatabaseDriver](../../databasedriver/)
+* class [Dataset](../)
+* ad alanı [Aspose.Gis](../../dataset/)
 * toplantı [Aspose.GIS](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.GIS.dll -->
+

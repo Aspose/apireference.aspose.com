@@ -1,0 +1,33 @@
+---
+title: Geometry.RoundZ
+second_title: .NET API संदर्भ के लिए Aspose.GIS
+description: Geometry तरक. रउंड Z आंशक अंकं क एक नर्दष्ट संख्य के लए समन्वय करत है
+type: docs
+weight: 340
+url: /hi/net/aspose.gis.geometries/geometry/roundz/
+---
+## Geometry.RoundZ method
+
+राउंड Z आंशिक अंकों की एक निर्दिष्ट संख्या के लिए समन्वय करता है।
+
+```csharp
+public void RoundZ(int digits)
+```
+
+| पैरामीटर | प्रकार | विवरण |
+| --- | --- | --- |
+| digits | Int32 | भिन्नात्मक अंकों की संख्या। |
+
+### अपवाद
+
+| अपवाद | स्थिति |
+| --- | --- |
+| ArgumentOutOfRangeException | *digits* 0 से कम या 15. से अधिक है |
+
+### यह सभी देखें
+
+* class [Geometry](../)
+* नाम स्थान [Aspose.Gis.Geometries](../../geometry/)
+* सभा [Aspose.GIS](../../../)
+
+

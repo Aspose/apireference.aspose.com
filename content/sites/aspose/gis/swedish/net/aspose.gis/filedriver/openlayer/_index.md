@@ -1,7 +1,7 @@
 ---
-title: OpenLayer
+title: FileDriver.OpenLayer
 second_title: Aspose.GIS för .NET API Referens
-description: Öppnar lagret för läsning.
+description: FileDriver metod. Öppnar lagret för läsning.
 type: docs
 weight: 90
 url: /sv/net/aspose.gis/filedriver/openlayer/
@@ -20,22 +20,22 @@ public VectorLayer OpenLayer(string path)
 
 ### Returvärde
 
-Ett exempel på[`VectorLayer`](../../vectorlayer).
+Ett exempel på[`VectorLayer`](../../vectorlayer/).
 
 ### Undantag
 
 | undantag | skick |
 | --- | --- |
 | ArgumentNullException | Vägen är`null`. |
-| [GisException](../../gisexception) | Det gick inte att läsa funktionen från filen. |
+| [GisException](../../gisexception/) | Det gick inte att läsa funktionen från filen. |
 | IOException | Ett I/O-fel uppstod. |
-| NotSupportedException | Drivrutinen kan inte öppna vektorlager (se[`CanOpenLayers`](../canopenlayers)). |
+| NotSupportedException | Drivrutinen kan inte öppna vektorlager (se[`CanOpenLayers`](../canopenlayers/)). |
 
 ### Se även
 
-* class [VectorLayer](../../vectorlayer)
-* class [FileDriver](../../filedriver)
-* namnutrymme [Aspose.Gis](../../filedriver)
+* class [VectorLayer](../../vectorlayer/)
+* class [FileDriver](../)
+* namnutrymme [Aspose.Gis](../../filedriver/)
 * hopsättning [Aspose.GIS](../../../)
 
 ---
@@ -54,23 +54,23 @@ public VectorLayer OpenLayer(AbstractPath path)
 
 ### Returvärde
 
-Ett exempel på[`VectorLayer`](../../vectorlayer).
+Ett exempel på[`VectorLayer`](../../vectorlayer/).
 
 ### Undantag
 
 | undantag | skick |
 | --- | --- |
 | ArgumentNullException | Vägen är`null`. |
-| [GisException](../../gisexception) | Det gick inte att läsa funktionen från filen. |
+| [GisException](../../gisexception/) | Det gick inte att läsa funktionen från filen. |
 | IOException | Ett I/O-fel uppstod. |
-| NotSupportedException | Drivrutinen kan inte öppna vektorlager (se[`CanOpenLayers`](../canopenlayers)). |
+| NotSupportedException | Drivrutinen kan inte öppna vektorlager (se[`CanOpenLayers`](../canopenlayers/)). |
 
 ### Se även
 
-* class [VectorLayer](../../vectorlayer)
-* class [AbstractPath](../../abstractpath)
-* class [FileDriver](../../filedriver)
-* namnutrymme [Aspose.Gis](../../filedriver)
+* class [VectorLayer](../../vectorlayer/)
+* class [AbstractPath](../../abstractpath/)
+* class [FileDriver](../)
+* namnutrymme [Aspose.Gis](../../filedriver/)
 * hopsättning [Aspose.GIS](../../../)
 
 ---
@@ -90,7 +90,7 @@ public VectorLayer OpenLayer(string path, DriverOptions options)
 
 ### Returvärde
 
-Ett exempel på[`VectorLayer`](../../vectorlayer).
+Ett exempel på[`VectorLayer`](../../vectorlayer/).
 
 ### Undantag
 
@@ -98,16 +98,16 @@ Ett exempel på[`VectorLayer`](../../vectorlayer).
 | --- | --- |
 | ArgumentException | Options-objektet har en felaktig typ för den här drivrutinen. |
 | ArgumentNullException | Vägen är`null`. |
-| [GisException](../../gisexception) | Det gick inte att läsa funktionen från filen. |
+| [GisException](../../gisexception/) | Det gick inte att läsa funktionen från filen. |
 | IOException | Ett I/O-fel uppstod. |
-| NotSupportedException | Drivrutinen kan inte öppna vektorlager (se[`CanOpenLayers`](../canopenlayers)). |
+| NotSupportedException | Drivrutinen kan inte öppna vektorlager (se[`CanOpenLayers`](../canopenlayers/)). |
 
 ### Se även
 
-* class [VectorLayer](../../vectorlayer)
-* class [DriverOptions](../../driveroptions)
-* class [FileDriver](../../filedriver)
-* namnutrymme [Aspose.Gis](../../filedriver)
+* class [VectorLayer](../../vectorlayer/)
+* class [DriverOptions](../../driveroptions/)
+* class [FileDriver](../)
+* namnutrymme [Aspose.Gis](../../filedriver/)
 * hopsättning [Aspose.GIS](../../../)
 
 ---
@@ -127,7 +127,7 @@ public abstract VectorLayer OpenLayer(AbstractPath path, DriverOptions options)
 
 ### Returvärde
 
-Ett exempel på[`VectorLayer`](../../vectorlayer).
+Ett exempel på[`VectorLayer`](../../vectorlayer/).
 
 ### Undantag
 
@@ -135,17 +135,17 @@ Ett exempel på[`VectorLayer`](../../vectorlayer).
 | --- | --- |
 | ArgumentException | Options-objektet har en felaktig typ för den här drivrutinen. |
 | ArgumentNullException | Vägen är`null`. |
-| [GisException](../../gisexception) | Det gick inte att läsa funktionen från filen. |
+| [GisException](../../gisexception/) | Det gick inte att läsa funktionen från filen. |
 | IOException | Ett I/O-fel uppstod. |
-| NotSupportedException | Drivrutinen kan inte öppna vektorlager (se[`CanOpenLayers`](../canopenlayers)). |
+| NotSupportedException | Drivrutinen kan inte öppna vektorlager (se[`CanOpenLayers`](../canopenlayers/)). |
 
 ### Se även
 
-* class [VectorLayer](../../vectorlayer)
-* class [AbstractPath](../../abstractpath)
-* class [DriverOptions](../../driveroptions)
-* class [FileDriver](../../filedriver)
-* namnutrymme [Aspose.Gis](../../filedriver)
+* class [VectorLayer](../../vectorlayer/)
+* class [AbstractPath](../../abstractpath/)
+* class [DriverOptions](../../driveroptions/)
+* class [FileDriver](../)
+* namnutrymme [Aspose.Gis](../../filedriver/)
 * hopsättning [Aspose.GIS](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.GIS.dll -->
+

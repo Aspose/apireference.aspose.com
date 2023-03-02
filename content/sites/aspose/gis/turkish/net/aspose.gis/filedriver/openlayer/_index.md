@@ -1,14 +1,14 @@
 ---
-title: OpenLayer
+title: FileDriver.OpenLayer
 second_title: Aspose.GIS for .NET API Referansı
-description: Okuma için katmanı açar.
+description: FileDriver yöntem. Okumak için katmanı açar.
 type: docs
 weight: 90
 url: /tr/net/aspose.gis/filedriver/openlayer/
 ---
 ## OpenLayer(string) {#openlayer_2}
 
-Okuma için katmanı açar.
+Okumak için katmanı açar.
 
 ```csharp
 public VectorLayer OpenLayer(string path)
@@ -20,29 +20,29 @@ public VectorLayer OpenLayer(string path)
 
 ### Geri dönüş değeri
 
-bir örneği[`VectorLayer`](../../vectorlayer).
+bir örneği[`VectorLayer`](../../vectorlayer/).
 
 ### istisnalar
 
 | istisna | şart |
 | --- | --- |
 | ArgumentNullException | yol`null`. |
-| [GisException](../../gisexception) | Dosyadan özellik okunurken hata oluştu. |
+| [GisException](../../gisexception/) | Dosyadan özellik okunurken hata oluştu. |
 | IOException | Bir G/Ç hatası oluştu. |
-| NotSupportedException | Sürücü vektör katmanlarını açamıyor (bkz.[`CanOpenLayers`](../canopenlayers)). |
+| NotSupportedException | Sürücü vektör katmanlarını açamıyor (bkz.[`CanOpenLayers`](../canopenlayers/)). |
 
 ### Ayrıca bakınız
 
-* class [VectorLayer](../../vectorlayer)
-* class [FileDriver](../../filedriver)
-* ad alanı [Aspose.Gis](../../filedriver)
+* class [VectorLayer](../../vectorlayer/)
+* class [FileDriver](../)
+* ad alanı [Aspose.Gis](../../filedriver/)
 * toplantı [Aspose.GIS](../../../)
 
 ---
 
 ## OpenLayer(AbstractPath) {#openlayer}
 
-Okuma için katmanı açar.
+Okumak için katmanı açar.
 
 ```csharp
 public VectorLayer OpenLayer(AbstractPath path)
@@ -54,30 +54,30 @@ public VectorLayer OpenLayer(AbstractPath path)
 
 ### Geri dönüş değeri
 
-bir örneği[`VectorLayer`](../../vectorlayer).
+bir örneği[`VectorLayer`](../../vectorlayer/).
 
 ### istisnalar
 
 | istisna | şart |
 | --- | --- |
 | ArgumentNullException | yol`null`. |
-| [GisException](../../gisexception) | Dosyadan özellik okunurken hata oluştu. |
+| [GisException](../../gisexception/) | Dosyadan özellik okunurken hata oluştu. |
 | IOException | Bir G/Ç hatası oluştu. |
-| NotSupportedException | Sürücü vektör katmanlarını açamıyor (bkz.[`CanOpenLayers`](../canopenlayers)). |
+| NotSupportedException | Sürücü vektör katmanlarını açamıyor (bkz.[`CanOpenLayers`](../canopenlayers/)). |
 
 ### Ayrıca bakınız
 
-* class [VectorLayer](../../vectorlayer)
-* class [AbstractPath](../../abstractpath)
-* class [FileDriver](../../filedriver)
-* ad alanı [Aspose.Gis](../../filedriver)
+* class [VectorLayer](../../vectorlayer/)
+* class [AbstractPath](../../abstractpath/)
+* class [FileDriver](../)
+* ad alanı [Aspose.Gis](../../filedriver/)
 * toplantı [Aspose.GIS](../../../)
 
 ---
 
 ## OpenLayer(string, DriverOptions) {#openlayer_3}
 
-Okuma için katmanı açar.
+Okumak için katmanı açar.
 
 ```csharp
 public VectorLayer OpenLayer(string path, DriverOptions options)
@@ -90,31 +90,31 @@ public VectorLayer OpenLayer(string path, DriverOptions options)
 
 ### Geri dönüş değeri
 
-bir örneği[`VectorLayer`](../../vectorlayer).
+bir örneği[`VectorLayer`](../../vectorlayer/).
 
 ### istisnalar
 
 | istisna | şart |
 | --- | --- |
-| ArgumentException | Seçenekler nesnesi, bu sürücü için yanlış bir türe sahip. |
+| ArgumentException | Seçenekler nesnesi bu sürücü için yanlış bir türe sahip. |
 | ArgumentNullException | yol`null`. |
-| [GisException](../../gisexception) | Dosyadan özellik okunurken hata oluştu. |
+| [GisException](../../gisexception/) | Dosyadan özellik okunurken hata oluştu. |
 | IOException | Bir G/Ç hatası oluştu. |
-| NotSupportedException | Sürücü vektör katmanlarını açamıyor (bkz.[`CanOpenLayers`](../canopenlayers)). |
+| NotSupportedException | Sürücü vektör katmanlarını açamıyor (bkz.[`CanOpenLayers`](../canopenlayers/)). |
 
 ### Ayrıca bakınız
 
-* class [VectorLayer](../../vectorlayer)
-* class [DriverOptions](../../driveroptions)
-* class [FileDriver](../../filedriver)
-* ad alanı [Aspose.Gis](../../filedriver)
+* class [VectorLayer](../../vectorlayer/)
+* class [DriverOptions](../../driveroptions/)
+* class [FileDriver](../)
+* ad alanı [Aspose.Gis](../../filedriver/)
 * toplantı [Aspose.GIS](../../../)
 
 ---
 
 ## OpenLayer(AbstractPath, DriverOptions) {#openlayer_1}
 
-Okuma için katmanı açar.
+Okumak için katmanı açar.
 
 ```csharp
 public abstract VectorLayer OpenLayer(AbstractPath path, DriverOptions options)
@@ -127,25 +127,25 @@ public abstract VectorLayer OpenLayer(AbstractPath path, DriverOptions options)
 
 ### Geri dönüş değeri
 
-bir örneği[`VectorLayer`](../../vectorlayer).
+bir örneği[`VectorLayer`](../../vectorlayer/).
 
 ### istisnalar
 
 | istisna | şart |
 | --- | --- |
-| ArgumentException | Seçenekler nesnesi, bu sürücü için yanlış bir türe sahip. |
+| ArgumentException | Seçenekler nesnesi bu sürücü için yanlış bir türe sahip. |
 | ArgumentNullException | yol`null`. |
-| [GisException](../../gisexception) | Dosyadan özellik okunurken hata oluştu. |
+| [GisException](../../gisexception/) | Dosyadan özellik okunurken hata oluştu. |
 | IOException | Bir G/Ç hatası oluştu. |
-| NotSupportedException | Sürücü vektör katmanlarını açamıyor (bkz.[`CanOpenLayers`](../canopenlayers)). |
+| NotSupportedException | Sürücü vektör katmanlarını açamıyor (bkz.[`CanOpenLayers`](../canopenlayers/)). |
 
 ### Ayrıca bakınız
 
-* class [VectorLayer](../../vectorlayer)
-* class [AbstractPath](../../abstractpath)
-* class [DriverOptions](../../driveroptions)
-* class [FileDriver](../../filedriver)
-* ad alanı [Aspose.Gis](../../filedriver)
+* class [VectorLayer](../../vectorlayer/)
+* class [AbstractPath](../../abstractpath/)
+* class [DriverOptions](../../driveroptions/)
+* class [FileDriver](../)
+* ad alanı [Aspose.Gis](../../filedriver/)
 * toplantı [Aspose.GIS](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.GIS.dll -->
+

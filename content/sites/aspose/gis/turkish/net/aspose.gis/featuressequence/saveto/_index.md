@@ -1,14 +1,14 @@
 ---
-title: SaveTo
+title: FeaturesSequence.SaveTo
 second_title: Aspose.GIS for .NET API Referansı
-description: Özellikler sırasını katmana kaydeder.
+description: FeaturesSequence yöntem. Unsur sırasını katmana kaydeder.
 type: docs
 weight: 50
 url: /tr/net/aspose.gis/featuressequence/saveto/
 ---
 ## SaveTo(string, FileDriver) {#saveto_2}
 
-Özellikler sırasını katmana kaydeder.
+Unsur sırasını katmana kaydeder.
 
 ```csharp
 public void SaveTo(string destinationPath, FileDriver destinationDriver)
@@ -16,7 +16,7 @@ public void SaveTo(string destinationPath, FileDriver destinationDriver)
 
 | Parametre | Tip | Tanım |
 | --- | --- | --- |
-| destinationPath | String | Çıktı katmanına giden yol. |
+| destinationPath | String | Çıkış katmanına giden yol. |
 | destinationDriver | FileDriver | Çıkış katmanı için biçim sürücüsü. |
 
 ### istisnalar
@@ -24,22 +24,22 @@ public void SaveTo(string destinationPath, FileDriver destinationDriver)
 | istisna | şart |
 | --- | --- |
 | ArgumentNullException | Herhangi bir argüman`null`. |
-| [GisException](../../gisexception) | Özellik dosyadan/dosyadan okunurken veya yazılırken hata oluştu. |
+| [GisException](../../gisexception/) | Özelliği dosyaya/dosyadan okurken veya yazarken hata oluştu. |
 | IOException | Bir G/Ç hatası oluştu. |
-| [TransformationException](../../../aspose.gis.spatialreferencing/transformationexception) | Unsur geometrisinin kaynak uzamsal referans sisteminden hedef uzamsal referans sistemine dönüştürülmesi başarısız oldu. |
+| [TransformationException](../../../aspose.gis.spatialreferencing/transformationexception/) | Öznitelik geometrisinin kaynak uzamsal referans sisteminden hedef uzamsal referans sistemine dönüştürülmesi başarısız oldu. |
 
 ### Ayrıca bakınız
 
-* class [FileDriver](../../filedriver)
-* class [FeaturesSequence](../../featuressequence)
-* ad alanı [Aspose.Gis](../../featuressequence)
+* class [FileDriver](../../filedriver/)
+* class [FeaturesSequence](../)
+* ad alanı [Aspose.Gis](../../featuressequence/)
 * toplantı [Aspose.GIS](../../../)
 
 ---
 
 ## SaveTo(AbstractPath, FileDriver) {#saveto}
 
-Özellikler sırasını katmana kaydeder.
+Unsur sırasını katmana kaydeder.
 
 ```csharp
 public void SaveTo(AbstractPath destinationPath, FileDriver destinationDriver)
@@ -47,30 +47,30 @@ public void SaveTo(AbstractPath destinationPath, FileDriver destinationDriver)
 
 | Parametre | Tip | Tanım |
 | --- | --- | --- |
-| destinationPath | AbstractPath | Çıktı katmanına giden yol. |
+| destinationPath | AbstractPath | Çıkış katmanına giden yol. |
 | destinationDriver | FileDriver | Çıkış katmanı için biçim sürücüsü. |
 
 ### istisnalar
 
 | istisna | şart |
 | --- | --- |
-| [GisException](../../gisexception) | Özellik dosyadan/dosyadan okunurken veya yazılırken hata oluştu. |
+| [GisException](../../gisexception/) | Özelliği dosyaya/dosyadan okurken veya yazarken hata oluştu. |
 | IOException | Bir G/Ç hatası oluştu. |
-| [TransformationException](../../../aspose.gis.spatialreferencing/transformationexception) | Unsur geometrisinin kaynak uzamsal referans sisteminden hedef uzamsal referans sistemine dönüştürülmesi başarısız oldu. |
+| [TransformationException](../../../aspose.gis.spatialreferencing/transformationexception/) | Öznitelik geometrisinin kaynak uzamsal referans sisteminden hedef uzamsal referans sistemine dönüştürülmesi başarısız oldu. |
 
 ### Ayrıca bakınız
 
-* class [AbstractPath](../../abstractpath)
-* class [FileDriver](../../filedriver)
-* class [FeaturesSequence](../../featuressequence)
-* ad alanı [Aspose.Gis](../../featuressequence)
+* class [AbstractPath](../../abstractpath/)
+* class [FileDriver](../../filedriver/)
+* class [FeaturesSequence](../)
+* ad alanı [Aspose.Gis](../../featuressequence/)
 * toplantı [Aspose.GIS](../../../)
 
 ---
 
 ## SaveTo(string, FileDriver, SavingOptions) {#saveto_3}
 
-Özellikler sırasını katmana kaydeder.
+Unsur sırasını katmana kaydeder.
 
 ```csharp
 public void SaveTo(string destinationPath, FileDriver destinationDriver, SavingOptions options)
@@ -78,7 +78,7 @@ public void SaveTo(string destinationPath, FileDriver destinationDriver, SavingO
 
 | Parametre | Tip | Tanım |
 | --- | --- | --- |
-| destinationPath | String | Çıktı katmanına giden yol. |
+| destinationPath | String | Çıkış katmanına giden yol. |
 | destinationDriver | FileDriver | Çıkış katmanı için biçim sürücüsü. |
 | options | SavingOptions | Kaydetme prosedürü için seçenekler. |
 
@@ -86,24 +86,24 @@ public void SaveTo(string destinationPath, FileDriver destinationDriver, SavingO
 
 | istisna | şart |
 | --- | --- |
-| [GisException](../../gisexception) | Özellik dosyadan/dosyadan okunurken veya yazılırken hata oluştu. |
+| [GisException](../../gisexception/) | Özelliği dosyaya/dosyadan okurken veya yazarken hata oluştu. |
 | IOException | Bir G/Ç hatası oluştu. |
-| [TransformationException](../../../aspose.gis.spatialreferencing/transformationexception) | Unsur geometrisinin kaynak uzamsal referans sisteminden hedef uzamsal referans sistemine dönüştürülmesi başarısız oldu. |
-| NotSupportedException | Şurada belirtilen uzamsal referans sistemi*options*tarafından desteklenmiyor*destinationDriver* . |
+| [TransformationException](../../../aspose.gis.spatialreferencing/transformationexception/) | Öznitelik geometrisinin kaynak uzamsal referans sisteminden hedef uzamsal referans sistemine dönüştürülmesi başarısız oldu. |
+| NotSupportedException | Belirtilen uzamsal referans sistemi*options* tarafından desteklenmiyor*destinationDriver* . |
 
 ### Ayrıca bakınız
 
-* class [FileDriver](../../filedriver)
-* class [SavingOptions](../../savingoptions)
-* class [FeaturesSequence](../../featuressequence)
-* ad alanı [Aspose.Gis](../../featuressequence)
+* class [FileDriver](../../filedriver/)
+* class [SavingOptions](../../savingoptions/)
+* class [FeaturesSequence](../)
+* ad alanı [Aspose.Gis](../../featuressequence/)
 * toplantı [Aspose.GIS](../../../)
 
 ---
 
 ## SaveTo(AbstractPath, FileDriver, SavingOptions) {#saveto_1}
 
-Özellikler sırasını katmana kaydeder.
+Unsur sırasını katmana kaydeder.
 
 ```csharp
 public void SaveTo(AbstractPath destinationPath, FileDriver destinationDriver, 
@@ -112,7 +112,7 @@ public void SaveTo(AbstractPath destinationPath, FileDriver destinationDriver,
 
 | Parametre | Tip | Tanım |
 | --- | --- | --- |
-| destinationPath | AbstractPath | Çıktı katmanına giden yol. |
+| destinationPath | AbstractPath | Çıkış katmanına giden yol. |
 | destinationDriver | FileDriver | Çıkış katmanı için biçim sürücüsü. |
 | options | SavingOptions | Kaydetme prosedürü için seçenekler. |
 
@@ -120,18 +120,18 @@ public void SaveTo(AbstractPath destinationPath, FileDriver destinationDriver,
 
 | istisna | şart |
 | --- | --- |
-| [GisException](../../gisexception) | Özellik dosyadan/dosyadan okunurken veya yazılırken hata oluştu. |
+| [GisException](../../gisexception/) | Özelliği dosyaya/dosyadan okurken veya yazarken hata oluştu. |
 | IOException | Bir G/Ç hatası oluştu. |
-| [TransformationException](../../../aspose.gis.spatialreferencing/transformationexception) | Unsur geometrisinin kaynak uzamsal referans sisteminden hedef uzamsal referans sistemine dönüştürülmesi başarısız oldu. |
-| NotSupportedException | Şurada belirtilen uzamsal referans sistemi*options*tarafından desteklenmiyor*destinationDriver* . |
+| [TransformationException](../../../aspose.gis.spatialreferencing/transformationexception/) | Öznitelik geometrisinin kaynak uzamsal referans sisteminden hedef uzamsal referans sistemine dönüştürülmesi başarısız oldu. |
+| NotSupportedException | Belirtilen uzamsal referans sistemi*options* tarafından desteklenmiyor*destinationDriver* . |
 
 ### Ayrıca bakınız
 
-* class [AbstractPath](../../abstractpath)
-* class [FileDriver](../../filedriver)
-* class [SavingOptions](../../savingoptions)
-* class [FeaturesSequence](../../featuressequence)
-* ad alanı [Aspose.Gis](../../featuressequence)
+* class [AbstractPath](../../abstractpath/)
+* class [FileDriver](../../filedriver/)
+* class [SavingOptions](../../savingoptions/)
+* class [FeaturesSequence](../)
+* ad alanı [Aspose.Gis](../../featuressequence/)
 * toplantı [Aspose.GIS](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.GIS.dll -->
+

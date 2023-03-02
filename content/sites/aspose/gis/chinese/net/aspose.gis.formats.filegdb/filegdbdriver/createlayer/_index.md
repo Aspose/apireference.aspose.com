@@ -1,14 +1,14 @@
 ---
-title: CreateLayer
+title: FileGdbDriver.CreateLayer
 second_title: Aspose.GIS for .NET API 参考
-description: 创建一个图层并打开它以添加新功能
+description: FileGdbDriver 方法. 创建图层并打开它以添加新功能
 type: docs
 weight: 60
 url: /zh/net/aspose.gis.formats.filegdb/filegdbdriver/createlayer/
 ---
 ## CreateLayer(string, FileGdbOptions) {#createlayer_8}
 
-创建一个图层并打开它以添加新功能。
+创建图层并打开它以添加新功能。
 
 ```csharp
 public VectorLayer CreateLayer(string path, FileGdbOptions options)
@@ -21,27 +21,27 @@ public VectorLayer CreateLayer(string path, FileGdbOptions options)
 
 ### 返回值
 
-一个实例[`VectorLayer`](../../../aspose.gis/vectorlayer).
+的实例[`VectorLayer`](../../../aspose.gis/vectorlayer/).
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| InvalidOperationException | 该图层已存在。 |
+| InvalidOperationException | 该层已存在。 |
 
 ### 也可以看看
 
-* class [VectorLayer](../../../aspose.gis/vectorlayer)
-* class [FileGdbOptions](../../filegdboptions)
-* class [FileGdbDriver](../../filegdbdriver)
-* 命名空间 [Aspose.Gis.Formats.FileGdb](../../filegdbdriver)
+* class [VectorLayer](../../../aspose.gis/vectorlayer/)
+* class [FileGdbOptions](../../filegdboptions/)
+* class [FileGdbDriver](../)
+* 命名空间 [Aspose.Gis.Formats.FileGdb](../../filegdbdriver/)
 * 部件 [Aspose.GIS](../../../)
 
 ---
 
 ## CreateLayer(string, FileGdbOptions, SpatialReferenceSystem) {#createlayer_9}
 
-创建一个图层并打开它以进行附加。
+创建一个图层并打开它以进行追加。
 
 ```csharp
 public VectorLayer CreateLayer(string path, FileGdbOptions options, 
@@ -56,29 +56,29 @@ public VectorLayer CreateLayer(string path, FileGdbOptions options,
 
 ### 返回值
 
-一个实例[`VectorLayer`](../../../aspose.gis/vectorlayer).
+的实例[`VectorLayer`](../../../aspose.gis/vectorlayer/).
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| InvalidOperationException | 该图层已存在。 |
+| InvalidOperationException | 该层已存在。 |
 | NotSupportedException | 驱动程序不支持空间参考系统。 |
 
 ### 也可以看看
 
-* class [VectorLayer](../../../aspose.gis/vectorlayer)
-* class [FileGdbOptions](../../filegdboptions)
-* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem)
-* class [FileGdbDriver](../../filegdbdriver)
-* 命名空间 [Aspose.Gis.Formats.FileGdb](../../filegdbdriver)
+* class [VectorLayer](../../../aspose.gis/vectorlayer/)
+* class [FileGdbOptions](../../filegdboptions/)
+* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem/)
+* class [FileGdbDriver](../)
+* 命名空间 [Aspose.Gis.Formats.FileGdb](../../filegdbdriver/)
 * 部件 [Aspose.GIS](../../../)
 
 ---
 
 ## CreateLayer(AbstractPath, DriverOptions, SpatialReferenceSystem) {#createlayer_2}
 
-创建一个图层并打开它以进行附加。
+创建一个图层并打开它以进行追加。
 
 ```csharp
 public override VectorLayer CreateLayer(AbstractPath path, DriverOptions options, 
@@ -93,30 +93,30 @@ public override VectorLayer CreateLayer(AbstractPath path, DriverOptions options
 
 ### 返回值
 
-一个实例[`VectorLayer`](../../../aspose.gis/vectorlayer).
+的实例[`VectorLayer`](../../../aspose.gis/vectorlayer/).
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| InvalidOperationException | 该图层已存在。 |
+| InvalidOperationException | 该层已存在。 |
 | NotSupportedException | 驱动程序不支持空间参考系统。 |
 
 ### 也可以看看
 
-* class [VectorLayer](../../../aspose.gis/vectorlayer)
-* class [AbstractPath](../../../aspose.gis/abstractpath)
-* class [DriverOptions](../../../aspose.gis/driveroptions)
-* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem)
-* class [FileGdbDriver](../../filegdbdriver)
-* 命名空间 [Aspose.Gis.Formats.FileGdb](../../filegdbdriver)
+* class [VectorLayer](../../../aspose.gis/vectorlayer/)
+* class [AbstractPath](../../../aspose.gis/abstractpath/)
+* class [DriverOptions](../../../aspose.gis/driveroptions/)
+* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem/)
+* class [FileGdbDriver](../)
+* 命名空间 [Aspose.Gis.Formats.FileGdb](../../filegdbdriver/)
 * 部件 [Aspose.GIS](../../../)
 
 ---
 
 ## CreateLayer(AbstractPath, FileGdbOptions, SpatialReferenceSystem) {#createlayer_3}
 
-创建一个图层并打开它以进行附加。
+创建一个图层并打开它以进行追加。
 
 ```csharp
 public VectorLayer CreateLayer(AbstractPath path, FileGdbOptions options, 
@@ -131,23 +131,23 @@ public VectorLayer CreateLayer(AbstractPath path, FileGdbOptions options,
 
 ### 返回值
 
-一个实例[`VectorLayer`](../../../aspose.gis/vectorlayer).
+的实例[`VectorLayer`](../../../aspose.gis/vectorlayer/).
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| InvalidOperationException | 该图层已存在。 |
+| InvalidOperationException | 该层已存在。 |
 | NotSupportedException | 驱动程序不支持空间参考系统。 |
 
 ### 也可以看看
 
-* class [VectorLayer](../../../aspose.gis/vectorlayer)
-* class [AbstractPath](../../../aspose.gis/abstractpath)
-* class [FileGdbOptions](../../filegdboptions)
-* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem)
-* class [FileGdbDriver](../../filegdbdriver)
-* 命名空间 [Aspose.Gis.Formats.FileGdb](../../filegdbdriver)
+* class [VectorLayer](../../../aspose.gis/vectorlayer/)
+* class [AbstractPath](../../../aspose.gis/abstractpath/)
+* class [FileGdbOptions](../../filegdboptions/)
+* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem/)
+* class [FileGdbDriver](../)
+* 命名空间 [Aspose.Gis.Formats.FileGdb](../../filegdbdriver/)
 * 部件 [Aspose.GIS](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.GIS.dll -->
+

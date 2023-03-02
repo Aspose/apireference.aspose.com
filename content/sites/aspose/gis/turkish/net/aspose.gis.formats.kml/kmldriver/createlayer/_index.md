@@ -1,14 +1,14 @@
 ---
-title: CreateLayer
+title: KmlDriver.CreateLayer
 second_title: Aspose.GIS for .NET API Referansı
-description: Bir katman oluşturur ve onu yeni özellikler eklemek için açar.
+description: KmlDriver yöntem. Bir katman oluşturur ve yeni özellikler eklemek için açar.
 type: docs
 weight: 40
 url: /tr/net/aspose.gis.formats.kml/kmldriver/createlayer/
 ---
 ## CreateLayer(string, KmlOptions) {#createlayer_9}
 
-Bir katman oluşturur ve onu yeni özellikler eklemek için açar.
+Bir katman oluşturur ve yeni özellikler eklemek için açar.
 
 ```csharp
 public VectorLayer CreateLayer(string path, KmlOptions options)
@@ -21,7 +21,7 @@ public VectorLayer CreateLayer(string path, KmlOptions options)
 
 ### Geri dönüş değeri
 
-bir örneği[`VectorLayer`](../../../aspose.gis/vectorlayer).
+bir örneği[`VectorLayer`](../../../aspose.gis/vectorlayer/).
 
 ### istisnalar
 
@@ -31,17 +31,17 @@ bir örneği[`VectorLayer`](../../../aspose.gis/vectorlayer).
 
 ### Ayrıca bakınız
 
-* class [VectorLayer](../../../aspose.gis/vectorlayer)
-* class [KmlOptions](../../kmloptions)
-* class [KmlDriver](../../kmldriver)
-* ad alanı [Aspose.Gis.Formats.Kml](../../kmldriver)
+* class [VectorLayer](../../../aspose.gis/vectorlayer/)
+* class [KmlOptions](../../kmloptions/)
+* class [KmlDriver](../)
+* ad alanı [Aspose.Gis.Formats.Kml](../../kmldriver/)
 * toplantı [Aspose.GIS](../../../)
 
 ---
 
 ## CreateLayer(AbstractPath, KmlOptions) {#createlayer_3}
 
-Bir katman oluşturur ve onu yeni özellikler eklemek için açar.
+Bir katman oluşturur ve yeni özellikler eklemek için açar.
 
 ```csharp
 public VectorLayer CreateLayer(AbstractPath path, KmlOptions options)
@@ -54,7 +54,7 @@ public VectorLayer CreateLayer(AbstractPath path, KmlOptions options)
 
 ### Geri dönüş değeri
 
-bir örneği[`VectorLayer`](../../../aspose.gis/vectorlayer).
+bir örneği[`VectorLayer`](../../../aspose.gis/vectorlayer/).
 
 ### istisnalar
 
@@ -64,18 +64,18 @@ bir örneği[`VectorLayer`](../../../aspose.gis/vectorlayer).
 
 ### Ayrıca bakınız
 
-* class [VectorLayer](../../../aspose.gis/vectorlayer)
-* class [AbstractPath](../../../aspose.gis/abstractpath)
-* class [KmlOptions](../../kmloptions)
-* class [KmlDriver](../../kmldriver)
-* ad alanı [Aspose.Gis.Formats.Kml](../../kmldriver)
+* class [VectorLayer](../../../aspose.gis/vectorlayer/)
+* class [AbstractPath](../../../aspose.gis/abstractpath/)
+* class [KmlOptions](../../kmloptions/)
+* class [KmlDriver](../)
+* ad alanı [Aspose.Gis.Formats.Kml](../../kmldriver/)
 * toplantı [Aspose.GIS](../../../)
 
 ---
 
 ## CreateLayer(AbstractPath, DriverOptions, SpatialReferenceSystem) {#createlayer_2}
 
-Bir katman oluşturur ve onu yeni özellikler eklemek için açar.
+Bir katman oluşturur ve yeni özellikler eklemek için açar.
 
 ```csharp
 public override VectorLayer CreateLayer(AbstractPath path, DriverOptions options, 
@@ -90,7 +90,7 @@ public override VectorLayer CreateLayer(AbstractPath path, DriverOptions options
 
 ### Geri dönüş değeri
 
-bir örneği[`VectorLayer`](../../../aspose.gis/vectorlayer).
+bir örneği[`VectorLayer`](../../../aspose.gis/vectorlayer/).
 
 ### istisnalar
 
@@ -100,19 +100,19 @@ bir örneği[`VectorLayer`](../../../aspose.gis/vectorlayer).
 
 ### Ayrıca bakınız
 
-* class [VectorLayer](../../../aspose.gis/vectorlayer)
-* class [AbstractPath](../../../aspose.gis/abstractpath)
-* class [DriverOptions](../../../aspose.gis/driveroptions)
-* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem)
-* class [KmlDriver](../../kmldriver)
-* ad alanı [Aspose.Gis.Formats.Kml](../../kmldriver)
+* class [VectorLayer](../../../aspose.gis/vectorlayer/)
+* class [AbstractPath](../../../aspose.gis/abstractpath/)
+* class [DriverOptions](../../../aspose.gis/driveroptions/)
+* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem/)
+* class [KmlDriver](../)
+* ad alanı [Aspose.Gis.Formats.Kml](../../kmldriver/)
 * toplantı [Aspose.GIS](../../../)
 
 ---
 
 ## CreateLayer(AbstractPath, KmlOptions, SpatialReferenceSystem) {#createlayer_4}
 
-Bir katman oluşturur ve onu yeni özellikler eklemek için açar.
+Bir katman oluşturur ve yeni özellikler eklemek için açar.
 
 ```csharp
 public VectorLayer CreateLayer(AbstractPath path, KmlOptions options, 
@@ -127,23 +127,23 @@ public VectorLayer CreateLayer(AbstractPath path, KmlOptions options,
 
 ### Geri dönüş değeri
 
-bir örneği[`VectorLayer`](../../../aspose.gis/vectorlayer).
+bir örneği[`VectorLayer`](../../../aspose.gis/vectorlayer/).
 
 ### istisnalar
 
 | istisna | şart |
 | --- | --- |
 | InvalidOperationException | Katman zaten var. |
-| NotSupportedException | Mekansal referans sistemi sürücü tarafından desteklenmiyor. |
+| NotSupportedException | Uzamsal referans sistemi sürücü tarafından desteklenmiyor. |
 
 ### Ayrıca bakınız
 
-* class [VectorLayer](../../../aspose.gis/vectorlayer)
-* class [AbstractPath](../../../aspose.gis/abstractpath)
-* class [KmlOptions](../../kmloptions)
-* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem)
-* class [KmlDriver](../../kmldriver)
-* ad alanı [Aspose.Gis.Formats.Kml](../../kmldriver)
+* class [VectorLayer](../../../aspose.gis/vectorlayer/)
+* class [AbstractPath](../../../aspose.gis/abstractpath/)
+* class [KmlOptions](../../kmloptions/)
+* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem/)
+* class [KmlDriver](../)
+* ad alanı [Aspose.Gis.Formats.Kml](../../kmldriver/)
 * toplantı [Aspose.GIS](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.GIS.dll -->
+

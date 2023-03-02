@@ -1,14 +1,14 @@
 ---
-title: Map
+title: Class Map
 second_title: Référence de l'API Aspose.GIS pour .NET
-description: Map est une collection de couches qui peuvent être rendues les unes sur les autres viaRenderer./renderer .
+description: Aspose.Gis.Rendering.Map classe. Map est une collection de couches qui peuvent être rendues les unes sur les autres viaRenderer .
 type: docs
-weight: 1620
+weight: 1720
 url: /fr/net/aspose.gis.rendering/map/
 ---
 ## Map class
 
-Map est une collection de couches qui peuvent être rendues les unes sur les autres via[`Renderer`](../renderer) .
+Map est une collection de couches qui peuvent être rendues les unes sur les autres via[`Renderer`](../renderer/) .
 
 ```csharp
 public class Map : IDisposable, IReadOnlyList<MapLayer>
@@ -18,43 +18,43 @@ public class Map : IDisposable, IReadOnlyList<MapLayer>
 
 | Nom | La description |
 | --- | --- |
-| [Map](map)(Measurement, Measurement) | Crée une nouvelle instance du`Carte` classe. |
+| [Map](map/)(Measurement, Measurement) | Crée une nouvelle instance du`Carte` classe. |
 
 ## Propriétés
 
 | Nom | La description |
 | --- | --- |
-| [BackgroundColor](../../aspose.gis.rendering/map/backgroundcolor) { get; set; } | Couleur de fond de la carte. Par défaut àTransparent . |
-| [Count](../../aspose.gis.rendering/map/count) { get; } | Obtient le nombre de couches dans la carte. |
-| [Extent](../../aspose.gis.rendering/map/extent) { get; set; } | Spécifie les limites de la carte à rendre. Si défini sur`null` , l'étendue est calculée lors du rendu pour inclure toutes les géométries dans toutes les couches. |
-| [Height](../../aspose.gis.rendering/map/height) { get; set; } | Hauteur visuelle de la carte. |
-| [Item](../../aspose.gis.rendering/map/item) { get; } | Obtient la couche à l'index spécifié. |
-| [Padding](../../aspose.gis.rendering/map/padding) { get; set; } | Spécifie le rembourrage à ajouter à l'étendue. |
-| [Resolution](../../aspose.gis.rendering/map/resolution) { get; set; } | Résolution à utiliser pour rendre cette carte et pour convertir entre[`Measurement`](../measurement) . La valeur par défaut est 96. |
-| [SpatialReferenceSystem](../../aspose.gis.rendering/map/spatialreferencesystem) { get; set; } | [`SpatialReferenceSystem`](./spatialreferencesystem) de la carte. |
-| [Width](../../aspose.gis.rendering/map/width) { get; set; } | Largeur visuelle de la carte. |
+| [BackgroundColor](../../aspose.gis.rendering/map/backgroundcolor/) { get; set; } | Couleur de fond de la carte. Par défaut àTransparent . |
+| [Count](../../aspose.gis.rendering/map/count/) { get; } | Obtient le nombre de couches dans la carte. |
+| [Extent](../../aspose.gis.rendering/map/extent/) { get; set; } | Spécifie les limites de la carte à rendre. Si défini sur`null` , l'étendue est calculée lors du rendu pour inclure toutes les géométries dans toutes les couches. |
+| [Height](../../aspose.gis.rendering/map/height/) { get; set; } | Hauteur visuelle de la carte. |
+| [Item](../../aspose.gis.rendering/map/item/) { get; } | Obtient la couche à l'index spécifié. |
+| [Padding](../../aspose.gis.rendering/map/padding/) { get; set; } | Spécifie le rembourrage à ajouter à l'étendue. |
+| [Resolution](../../aspose.gis.rendering/map/resolution/) { get; set; } | Résolution à utiliser pour rendre cette carte et pour convertir entre[`Measurement`](../measurement/) . La valeur par défaut est 96. |
+| [SpatialReferenceSystem](../../aspose.gis.rendering/map/spatialreferencesystem/) { get; set; } | [`SpatialReferenceSystem`](./spatialreferencesystem/) de la carte. |
+| [Width](../../aspose.gis.rendering/map/width/) { get; set; } | Largeur visuelle de la carte. |
 
 ## Méthodes
 
 | Nom | La description |
 | --- | --- |
-| [Add](../../aspose.gis.rendering/map/add#add)(FeaturesSequence) | Crée et ajoute un[`VectorMapLayer`](../vectormaplayer) à la carte. Les calques sont rendus dans l'ordre supplémentaire. |
-| [Add](../../aspose.gis.rendering/map/add#add_4)(MapLayer) | Ajoute une couche à la carte. Les calques sont rendus dans l'ordre supplémentaire. |
-| [Add](../../aspose.gis.rendering/map/add#add_1)(FeaturesSequence, VectorSymbolizer) | Crée et ajoute un[`VectorMapLayer`](../vectormaplayer) à la carte. Les calques sont rendus dans l'ordre supplémentaire. |
-| [Add](../../aspose.gis.rendering/map/add#add_7)(VectorLayer, bool) | Crée un[`VectorMapLayer`](../vectormaplayer) avec le symboliseur par défaut et l'ajoute à la carte. Les calques sont rendus dans l'ordre supplémentaire. |
-| [Add](../../aspose.gis.rendering/map/add#add_2)(FeaturesSequence, VectorSymbolizer, Labeling) | Crée et ajoute un[`VectorMapLayer`](../vectormaplayer) à la carte. Les calques sont rendus dans l'ordre supplémentaire. |
-| [Add](../../aspose.gis.rendering/map/add#add_3)(RasterLayer, RasterColorizer, bool) | Crée un[`RasterMapLayer`](../rastermaplayer) avec le coloriseur par défaut et l'ajoute à la carte. |
-| [Add](../../aspose.gis.rendering/map/add#add_6)(VectorLayer, VectorSymbolizer, bool) | Crée et ajoute un[`VectorMapLayer`](../vectormaplayer) à la carte. Les calques sont rendus dans l'ordre supplémentaire. |
-| [Add](../../aspose.gis.rendering/map/add#add_5)(VectorLayer, VectorSymbolizer, Labeling, bool) | Crée et ajoute un[`VectorMapLayer`](../vectormaplayer) à la carte. Les calques sont rendus dans l'ordre supplémentaire. |
-| [Dispose](../../aspose.gis.rendering/map/dispose)() | Dispose des ressources. |
-| [GetEnumerator](../../aspose.gis.rendering/map/getenumerator)() | Retourne un énumérateur qui parcourt les couches de la carte. |
-| [Render](../../aspose.gis.rendering/map/render#render)(AbstractPath, Renderer) | Rend la carte dans un fichier. |
-| [Render](../../aspose.gis.rendering/map/render#render_1)(string, Renderer) | Rend la carte dans un fichier. |
+| [Add](../../aspose.gis.rendering/map/add/#add)(FeaturesSequence) | Crée et ajoute un[`VectorMapLayer`](../vectormaplayer/) à la carte. Les calques sont rendus dans l'ordre supplémentaire. |
+| [Add](../../aspose.gis.rendering/map/add/#add_4)(MapLayer) | Ajoute une couche à la carte. Les calques sont rendus dans l'ordre supplémentaire. |
+| [Add](../../aspose.gis.rendering/map/add/#add_1)(FeaturesSequence, VectorSymbolizer) | Crée et ajoute un[`VectorMapLayer`](../vectormaplayer/) à la carte. Les calques sont rendus dans l'ordre supplémentaire. |
+| [Add](../../aspose.gis.rendering/map/add/#add_7)(VectorLayer, bool) | Crée un[`VectorMapLayer`](../vectormaplayer/) avec le symboliseur par défaut et l'ajoute à la carte. Les calques sont rendus dans l'ordre supplémentaire. |
+| [Add](../../aspose.gis.rendering/map/add/#add_2)(FeaturesSequence, VectorSymbolizer, Labeling) | Crée et ajoute un[`VectorMapLayer`](../vectormaplayer/) à la carte. Les calques sont rendus dans l'ordre supplémentaire. |
+| [Add](../../aspose.gis.rendering/map/add/#add_3)(RasterLayer, RasterColorizer, bool) | Crée un[`RasterMapLayer`](../rastermaplayer/) avec le coloriseur par défaut et l'ajoute à la carte. |
+| [Add](../../aspose.gis.rendering/map/add/#add_6)(VectorLayer, VectorSymbolizer, bool) | Crée et ajoute un[`VectorMapLayer`](../vectormaplayer/) à la carte. Les calques sont rendus dans l'ordre supplémentaire. |
+| [Add](../../aspose.gis.rendering/map/add/#add_5)(VectorLayer, VectorSymbolizer, Labeling, bool) | Crée et ajoute un[`VectorMapLayer`](../vectormaplayer/) à la carte. Les calques sont rendus dans l'ordre supplémentaire. |
+| [Dispose](../../aspose.gis.rendering/map/dispose/)() | Dispose des ressources. |
+| [GetEnumerator](../../aspose.gis.rendering/map/getenumerator/)() | Retourne un énumérateur qui parcourt les couches de la carte. |
+| [Render](../../aspose.gis.rendering/map/render/#render)(AbstractPath, Renderer) | Rend la carte dans un fichier. |
+| [Render](../../aspose.gis.rendering/map/render/#render_1)(string, Renderer) | Rend la carte dans un fichier. |
 
 ### Voir également
 
-* class [MapLayer](../maplayer)
-* espace de noms [Aspose.Gis.Rendering](../../aspose.gis.rendering)
+* class [MapLayer](../maplayer/)
+* espace de noms [Aspose.Gis.Rendering](../../aspose.gis.rendering/)
 * Assemblée [Aspose.GIS](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.GIS.dll -->
+

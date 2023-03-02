@@ -1,9 +1,9 @@
 ---
-title: GeocentricSpatialReferenceSystemParameters
+title: Class GeocentricSpatialReferenceSystemParameters
 second_title: Referencia de API de Aspose.GIS para .NET
-description: Parámetros para crear SRS geocéntrico. Los parámetros tienen valores predeterminados razonables por lo que deberá asignar solo algunos de ellos. Si asignanull a cualquier parámetro se utilizará un valor predeterminado.
+description: Aspose.Gis.SpatialReferencing.GeocentricSpatialReferenceSystemParameters clase. Parámetros para crear SRS geocéntrico. Los parámetros tienen valores predeterminados razonables por lo que deberá asignar solo algunos de ellos. Si asignanull a cualquier parámetro se utilizará un valor predeterminado.
 type: docs
-weight: 2000
+weight: 2100
 url: /es/net/aspose.gis.spatialreferencing/geocentricspatialreferencesystemparameters/
 ---
 ## GeocentricSpatialReferenceSystemParameters class
@@ -18,24 +18,24 @@ public class GeocentricSpatialReferenceSystemParameters
 
 | Nombre | Descripción |
 | --- | --- |
-| [GeocentricSpatialReferenceSystemParameters](geocentricspatialreferencesystemparameters)() | Constructor predeterminado |
+| [GeocentricSpatialReferenceSystemParameters](geocentricspatialreferencesystemparameters/)() | Constructor predeterminado |
 
 ## Propiedades
 
 | Nombre | Descripción |
 | --- | --- |
-| [AxisesOrder](../../aspose.gis.spatialreferencing/geocentricspatialreferencesystemparameters/axisesorder) { get; set; } | Orden de los ejes. Predeterminado aXYZ . |
-| [Datum](../../aspose.gis.spatialreferencing/geocentricspatialreferencesystemparameters/datum) { get; set; } | Datum de SRS geocéntrico. El valor predeterminado es[`Wgs84`](../geographicdatum/wgs84) . |
-| [LinearUnit](../../aspose.gis.spatialreferencing/geocentricspatialreferencesystemparameters/linearunit) { get; set; } | Unidades a utilizar en este SRS. Predeterminado a[`Meter`](../unit/meter) . |
-| [Name](../../aspose.gis.spatialreferencing/geocentricspatialreferencesystemparameters/name) { get; set; } | Nombre del SRS geocéntrico. El valor predeterminado es "Sin nombre". |
-| [PrimeMeridian](../../aspose.gis.spatialreferencing/geocentricspatialreferencesystemparameters/primemeridian) { get; set; } | Primer meridiano de este SRS. El valor predeterminado es[`Greenwich`](../primemeridian/greenwich) . |
-| [XAxis](../../aspose.gis.spatialreferencing/geocentricspatialreferencesystemparameters/xaxis) { get; set; } | Eje del SRS geocéntrico que describe la dimensión 'X' (eje que apunta al meridiano principal). |
-| [YAxis](../../aspose.gis.spatialreferencing/geocentricspatialreferencesystemparameters/yaxis) { get; set; } | Eje del SRS geocéntrico que describe la dimensión 'Y' (eje que apunta a la izquierda o a la derecha del eje X en el plano ecuatorial). Por defecto es el eje conEast dirección. |
-| [ZAxis](../../aspose.gis.spatialreferencing/geocentricspatialreferencesystemparameters/zaxis) { get; set; } | Eje del SRS geocéntrico que describe la dimensión 'Z' (eje que apunta al polo norte o sur). Por defecto es el eje conNorth dirección. |
+| [AxisesOrder](../../aspose.gis.spatialreferencing/geocentricspatialreferencesystemparameters/axisesorder/) { get; set; } | Orden de los ejes. Predeterminado aXYZ . |
+| [Datum](../../aspose.gis.spatialreferencing/geocentricspatialreferencesystemparameters/datum/) { get; set; } | Datum de SRS geocéntrico. El valor predeterminado es[`Wgs84`](../geographicdatum/wgs84/) . |
+| [LinearUnit](../../aspose.gis.spatialreferencing/geocentricspatialreferencesystemparameters/linearunit/) { get; set; } | Unidades a utilizar en este SRS. Predeterminado a[`Meter`](../unit/meter/) . |
+| [Name](../../aspose.gis.spatialreferencing/geocentricspatialreferencesystemparameters/name/) { get; set; } | Nombre del SRS geocéntrico. El valor predeterminado es "Sin nombre". |
+| [PrimeMeridian](../../aspose.gis.spatialreferencing/geocentricspatialreferencesystemparameters/primemeridian/) { get; set; } | Primer meridiano de este SRS. El valor predeterminado es[`Greenwich`](../primemeridian/greenwich/) . |
+| [XAxis](../../aspose.gis.spatialreferencing/geocentricspatialreferencesystemparameters/xaxis/) { get; set; } | Eje del SRS geocéntrico que describe la dimensión 'X' (eje que apunta al meridiano principal). |
+| [YAxis](../../aspose.gis.spatialreferencing/geocentricspatialreferencesystemparameters/yaxis/) { get; set; } | Eje del SRS geocéntrico que describe la dimensión 'Y' (eje que apunta a la izquierda o a la derecha del eje X en el plano ecuatorial). Por defecto es el eje conEast dirección. |
+| [ZAxis](../../aspose.gis.spatialreferencing/geocentricspatialreferencesystemparameters/zaxis/) { get; set; } | Eje del SRS geocéntrico que describe la dimensión 'Z' (eje que apunta al polo norte o sur). Por defecto es el eje conNorth dirección. |
 
 ### Ver también
 
-* espacio de nombres [Aspose.Gis.SpatialReferencing](../../aspose.gis.spatialreferencing)
+* espacio de nombres [Aspose.Gis.SpatialReferencing](../../aspose.gis.spatialreferencing/)
 * asamblea [Aspose.GIS](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.GIS.dll -->
+

@@ -1,9 +1,9 @@
 ---
-title: FileGdbOptions
+title: Class FileGdbOptions
 second_title: Справочник по Aspose.GIS for .NET API
-description: Параметры драйвера для формата FileGDB.
+description: Aspose.Gis.Formats.FileGdb.FileGdbOptions сорт. Параметры драйвера для формата FileGDB.
 type: docs
-weight: 240
+weight: 270
 url: /ru/net/aspose.gis.formats.filegdb/filegdboptions/
 ---
 ## FileGdbOptions class
@@ -18,36 +18,36 @@ public sealed class FileGdbOptions : DriverOptions
 
 | Имя | Описание |
 | --- | --- |
-| [FileGdbOptions](filegdboptions)() | Создать новый экземпляр. |
+| [FileGdbOptions](filegdboptions/)() | Создать новый экземпляр. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [CloseLinearRing](../../aspose.gis/driveroptions/closelinearring) { get; set; } | Определяет, закрывается ли незакрытыйLinearRing в каждой геометрии. По умолчанию`false` . |
-| [CoordinatePrecisionGrid](../../aspose.gis.formats.filegdb/filegdboptions/coordinateprecisiongrid) { get; set; } | Точная координатная сетка для использования в новом слое. |
-| [CreateMidpoints](../../aspose.gis/driveroptions/createmidpoints) { get; set; } | Определяет, добавлять ли новую точку посередине к каждому сегменту геометрии. По умолчанию`false` . |
-| [DeleteNearPoints](../../aspose.gis/driveroptions/deletenearpoints) { get; set; } | Определяет, удалять ли ближайшие точки в каждой геометрии. По умолчанию`false` . |
-| [DeleteNearPointsDistance](../../aspose.gis/driveroptions/deletenearpointsdistance) { get; set; } | Определяет расстояние для[`DeleteNearPoints`](../../aspose.gis/driveroptions/deletenearpoints) . По умолчанию`0` . |
-| [EnsureValidCoordinatesRange](../../aspose.gis.formats.filegdb/filegdboptions/ensurevalidcoordinatesrange) { get; set; } | Должны ли координаты быть в допустимом диапазоне. |
-| [GeometryFieldName](../../aspose.gis.formats.filegdb/filegdboptions/geometryfieldname) { get; set; } | Имя поля геометрии. |
-| [LinearizationTolerance](../../aspose.gis/driveroptions/linearizationtolerance) { get; set; } | Допуск, используемый для линеаризации геометрии кривой. |
-| [MPrecisionModel](../../aspose.gis/driveroptions/mprecisionmodel) { get; set; } | А[`PrecisionModel`](../../aspose.gis/precisionmodel) который будет применен к координате M при добавлении геометрий в[`VectorLayer`](../../aspose.gis/vectorlayer) или когда они читаются из[`VectorLayer`](../../aspose.gis/vectorlayer) . Значение по умолчанию:[`Exact`](../../aspose.gis/precisionmodel/exact) . |
-| [MTolerance](../../aspose.gis.formats.filegdb/filegdboptions/mtolerance) { get; set; } | Допуск привязки M. |
-| [ObjectIdFieldName](../../aspose.gis.formats.filegdb/filegdboptions/objectidfieldname) { get; set; } | Имя поля идентификатора объекта. |
-| [SimplifySegments](../../aspose.gis/driveroptions/simplifysegments) { get; set; } | Определяет, удаляются ли точки, лежащие на одном и том же сегменте в каждой геометрии. По умолчанию`false` . |
-| [SimplifySegmentsDistance](../../aspose.gis/driveroptions/simplifysegmentsdistance) { get; set; } | Определяет расстояние для[`SimplifySegments`](../../aspose.gis/driveroptions/simplifysegments) . По умолчанию`0` . |
-| [ValidateGeometriesOnWrite](../../aspose.gis/driveroptions/validategeometriesonwrite) { get; set; } | Определяет, следует ли проверять геометрию при добавлении в слой. Если установлено значение`true` ,[`IsValid`](../../aspose.gis.geometries/geometry/isvalid)вызывается для геометрии each , когда она добавляется к слою, и если проверка не пройдена ([`IsValid`](../../aspose.gis.geometries/geometry/isvalid) является`false` ),[`GisException`](../../aspose.gis/gisexception) брошен. |
-| [WritePolygonsAsLines](../../aspose.gis/driveroptions/writepolygonsaslines) { get; set; } | Определяет, разрешено ли преобразование полигона или мультиполигона в линию. По умолчанию`false` . |
-| [XYPrecisionModel](../../aspose.gis/driveroptions/xyprecisionmodel) { get; set; } | А[`PrecisionModel`](../../aspose.gis/precisionmodel)который будет применяться к координатам X и Y при добавлении геометрии в[`VectorLayer`](../../aspose.gis/vectorlayer) или когда они читаются из[`VectorLayer`](../../aspose.gis/vectorlayer) . Значение по умолчанию:[`Exact`](../../aspose.gis/precisionmodel/exact) . |
-| [XYTolerance](../../aspose.gis.formats.filegdb/filegdboptions/xytolerance) { get; set; } | Допуск привязки по осям X и Y. |
-| [ZPrecisionModel](../../aspose.gis/driveroptions/zprecisionmodel) { get; set; } | А[`PrecisionModel`](../../aspose.gis/precisionmodel) который будет применен к координате Z при добавлении геометрии в[`VectorLayer`](../../aspose.gis/vectorlayer) или когда они читаются из[`VectorLayer`](../../aspose.gis/vectorlayer) . Значение по умолчанию:[`Exact`](../../aspose.gis/precisionmodel/exact) . |
-| [ZTolerance](../../aspose.gis.formats.filegdb/filegdboptions/ztolerance) { get; set; } | Допуск привязки Z. |
+| [CloseLinearRing](../../aspose.gis/driveroptions/closelinearring/) { get; set; } | Определяет, закрывается ли незакрытыйLinearRing в каждой геометрии. По умолчанию`false` . |
+| [CoordinatePrecisionGrid](../../aspose.gis.formats.filegdb/filegdboptions/coordinateprecisiongrid/) { get; set; } | Точная координатная сетка для использования в новом слое. |
+| [CreateMidpoints](../../aspose.gis/driveroptions/createmidpoints/) { get; set; } | Определяет, добавлять ли новую точку посередине к каждому сегменту геометрии. По умолчанию`false` . |
+| [DeleteNearPoints](../../aspose.gis/driveroptions/deletenearpoints/) { get; set; } | Определяет, удалять ли ближайшие точки в каждой геометрии. По умолчанию`false` . |
+| [DeleteNearPointsDistance](../../aspose.gis/driveroptions/deletenearpointsdistance/) { get; set; } | Определяет расстояние для[`DeleteNearPoints`](../../aspose.gis/driveroptions/deletenearpoints/) . По умолчанию`0` . |
+| [EnsureValidCoordinatesRange](../../aspose.gis.formats.filegdb/filegdboptions/ensurevalidcoordinatesrange/) { get; set; } | Должны ли координаты быть в допустимом диапазоне. |
+| [GeometryFieldName](../../aspose.gis.formats.filegdb/filegdboptions/geometryfieldname/) { get; set; } | Имя поля геометрии. |
+| [LinearizationTolerance](../../aspose.gis/driveroptions/linearizationtolerance/) { get; set; } | Допуск, используемый для линеаризации геометрии кривой. |
+| [MPrecisionModel](../../aspose.gis/driveroptions/mprecisionmodel/) { get; set; } | А[`PrecisionModel`](../../aspose.gis/precisionmodel/) который будет применен к координате M при добавлении геометрий в[`VectorLayer`](../../aspose.gis/vectorlayer/) или когда они читаются из[`VectorLayer`](../../aspose.gis/vectorlayer/) . Значение по умолчанию:[`Exact`](../../aspose.gis/precisionmodel/exact/) . |
+| [MTolerance](../../aspose.gis.formats.filegdb/filegdboptions/mtolerance/) { get; set; } | Допуск привязки M. |
+| [ObjectIdFieldName](../../aspose.gis.formats.filegdb/filegdboptions/objectidfieldname/) { get; set; } | Имя поля идентификатора объекта. |
+| [SimplifySegments](../../aspose.gis/driveroptions/simplifysegments/) { get; set; } | Определяет, удаляются ли точки, лежащие на одном и том же сегменте в каждой геометрии. По умолчанию`false` . |
+| [SimplifySegmentsDistance](../../aspose.gis/driveroptions/simplifysegmentsdistance/) { get; set; } | Определяет расстояние для[`SimplifySegments`](../../aspose.gis/driveroptions/simplifysegments/) . По умолчанию`0` . |
+| [ValidateGeometriesOnWrite](../../aspose.gis/driveroptions/validategeometriesonwrite/) { get; set; } | Определяет, следует ли проверять геометрию при добавлении в слой. Если установлено значение`true` ,[`IsValid`](../../aspose.gis.geometries/geometry/isvalid/) вызывается для геометрии each , когда она добавляется к слою, и если проверка не пройдена ([`IsValid`](../../aspose.gis.geometries/geometry/isvalid/) является`false` ),[`GisException`](../../aspose.gis/gisexception/) брошен. |
+| [WritePolygonsAsLines](../../aspose.gis/driveroptions/writepolygonsaslines/) { get; set; } | Определяет, разрешено ли преобразование полигона или мультиполигона в линию. По умолчанию`false` . |
+| [XYPrecisionModel](../../aspose.gis/driveroptions/xyprecisionmodel/) { get; set; } | А[`PrecisionModel`](../../aspose.gis/precisionmodel/) который будет применяться к координатам X и Y при добавлении геометрии в[`VectorLayer`](../../aspose.gis/vectorlayer/) или когда они читаются из[`VectorLayer`](../../aspose.gis/vectorlayer/) . Значение по умолчанию:[`Exact`](../../aspose.gis/precisionmodel/exact/) . |
+| [XYTolerance](../../aspose.gis.formats.filegdb/filegdboptions/xytolerance/) { get; set; } | Допуск привязки по осям X и Y. |
+| [ZPrecisionModel](../../aspose.gis/driveroptions/zprecisionmodel/) { get; set; } | А[`PrecisionModel`](../../aspose.gis/precisionmodel/) который будет применен к координате Z при добавлении геометрии в[`VectorLayer`](../../aspose.gis/vectorlayer/) или когда они читаются из[`VectorLayer`](../../aspose.gis/vectorlayer/) . Значение по умолчанию:[`Exact`](../../aspose.gis/precisionmodel/exact/) . |
+| [ZTolerance](../../aspose.gis.formats.filegdb/filegdboptions/ztolerance/) { get; set; } | Допуск привязки Z. |
 
 ### Смотрите также
 
-* class [DriverOptions](../../aspose.gis/driveroptions)
-* пространство имен [Aspose.Gis.Formats.FileGdb](../../aspose.gis.formats.filegdb)
+* class [DriverOptions](../../aspose.gis/driveroptions/)
+* пространство имен [Aspose.Gis.Formats.FileGdb](../../aspose.gis.formats.filegdb/)
 * сборка [Aspose.GIS](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.GIS.dll -->
+

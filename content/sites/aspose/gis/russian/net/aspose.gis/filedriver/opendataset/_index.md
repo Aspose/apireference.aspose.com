@@ -1,7 +1,7 @@
 ---
-title: OpenDataset
+title: FileDriver.OpenDataset
 second_title: Справочник по Aspose.GIS for .NET API
-description: Открывает набор данных.
+description: FileDriver метод. Открывает набор данных.
 type: docs
 weight: 80
 url: /ru/net/aspose.gis/filedriver/opendataset/
@@ -20,22 +20,22 @@ public Dataset OpenDataset(string path)
 
 ### Возвращаемое значение
 
-Экземпляр[`Dataset`](../../dataset).
+Экземпляр[`Dataset`](../../dataset/).
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
 | ArgumentNullException | Путь`null`. |
-| [GisException](../../gisexception) | Ошибка чтения набора данных. |
+| [GisException](../../gisexception/) | Ошибка чтения набора данных. |
 | IOException | Произошла ошибка ввода/вывода. |
-| NotSupportedException | Драйвер не может открыть наборы данных (см.[`CanOpenDatasets`](../canopendatasets)). |
+| NotSupportedException | Драйвер не может открыть наборы данных (см.[`CanOpenDatasets`](../canopendatasets/)). |
 
 ### Смотрите также
 
-* class [Dataset](../../dataset)
-* class [FileDriver](../../filedriver)
-* пространство имен [Aspose.Gis](../../filedriver)
+* class [Dataset](../../dataset/)
+* class [FileDriver](../)
+* пространство имен [Aspose.Gis](../../filedriver/)
 * сборка [Aspose.GIS](../../../)
 
 ---
@@ -54,23 +54,23 @@ public Dataset OpenDataset(AbstractPath path)
 
 ### Возвращаемое значение
 
-Экземпляр[`Dataset`](../../dataset).
+Экземпляр[`Dataset`](../../dataset/).
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
 | ArgumentNullException | Путь`null`. |
-| [GisException](../../gisexception) | Ошибка чтения набора данных. |
+| [GisException](../../gisexception/) | Ошибка чтения набора данных. |
 | IOException | Произошла ошибка ввода/вывода. |
-| NotSupportedException | Драйвер не может открыть наборы данных (см.[`CanOpenDatasets`](../canopendatasets)). |
+| NotSupportedException | Драйвер не может открыть наборы данных (см.[`CanOpenDatasets`](../canopendatasets/)). |
 
 ### Смотрите также
 
-* class [Dataset](../../dataset)
-* class [AbstractPath](../../abstractpath)
-* class [FileDriver](../../filedriver)
-* пространство имен [Aspose.Gis](../../filedriver)
+* class [Dataset](../../dataset/)
+* class [AbstractPath](../../abstractpath/)
+* class [FileDriver](../)
+* пространство имен [Aspose.Gis](../../filedriver/)
 * сборка [Aspose.GIS](../../../)
 
 ---
@@ -90,7 +90,7 @@ public Dataset OpenDataset(string path, DriverOptions options)
 
 ### Возвращаемое значение
 
-Экземпляр[`Dataset`](../../dataset).
+Экземпляр[`Dataset`](../../dataset/).
 
 ### Исключения
 
@@ -98,16 +98,16 @@ public Dataset OpenDataset(string path, DriverOptions options)
 | --- | --- |
 | ArgumentException | Объект параметров имеет неверный тип для этого драйвера. |
 | ArgumentNullException | Путь`null`. |
-| [GisException](../../gisexception) | Ошибка чтения набора данных. |
+| [GisException](../../gisexception/) | Ошибка чтения набора данных. |
 | IOException | Произошла ошибка ввода/вывода. |
-| NotSupportedException | Драйвер не может открыть наборы данных (см.[`CanOpenDatasets`](../canopendatasets)). |
+| NotSupportedException | Драйвер не может открыть наборы данных (см.[`CanOpenDatasets`](../canopendatasets/)). |
 
 ### Смотрите также
 
-* class [Dataset](../../dataset)
-* class [DriverOptions](../../driveroptions)
-* class [FileDriver](../../filedriver)
-* пространство имен [Aspose.Gis](../../filedriver)
+* class [Dataset](../../dataset/)
+* class [DriverOptions](../../driveroptions/)
+* class [FileDriver](../)
+* пространство имен [Aspose.Gis](../../filedriver/)
 * сборка [Aspose.GIS](../../../)
 
 ---
@@ -127,7 +127,7 @@ public virtual Dataset OpenDataset(AbstractPath path, DriverOptions options)
 
 ### Возвращаемое значение
 
-Экземпляр[`Dataset`](../../dataset).
+Экземпляр[`Dataset`](../../dataset/).
 
 ### Исключения
 
@@ -135,17 +135,17 @@ public virtual Dataset OpenDataset(AbstractPath path, DriverOptions options)
 | --- | --- |
 | ArgumentException | Объект параметров имеет неверный тип для этого драйвера. |
 | ArgumentNullException | Путь`null`. |
-| [GisException](../../gisexception) | Ошибка чтения набора данных. |
+| [GisException](../../gisexception/) | Ошибка чтения набора данных. |
 | IOException | Произошла ошибка ввода/вывода. |
-| NotSupportedException | Драйвер не может открыть наборы данных (см.[`CanOpenDatasets`](../canopendatasets)). |
+| NotSupportedException | Драйвер не может открыть наборы данных (см.[`CanOpenDatasets`](../canopendatasets/)). |
 
 ### Смотрите также
 
-* class [Dataset](../../dataset)
-* class [AbstractPath](../../abstractpath)
-* class [DriverOptions](../../driveroptions)
-* class [FileDriver](../../filedriver)
-* пространство имен [Aspose.Gis](../../filedriver)
+* class [Dataset](../../dataset/)
+* class [AbstractPath](../../abstractpath/)
+* class [DriverOptions](../../driveroptions/)
+* class [FileDriver](../)
+* пространство имен [Aspose.Gis](../../filedriver/)
 * сборка [Aspose.GIS](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.GIS.dll -->
+

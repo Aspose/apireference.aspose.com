@@ -1,9 +1,9 @@
 ---
-title: RasterLayer
+title: Class RasterLayer
 second_title: Справочник по Aspose.GIS for .NET API
-description: Представляет растровый слой.
+description: Aspose.Gis.Raster.RasterLayer сорт. Представляет растровый слой.
 type: docs
-weight: 1290
+weight: 1390
 url: /ru/net/aspose.gis.raster/rasterlayer/
 ---
 ## RasterLayer class
@@ -18,36 +18,37 @@ public abstract class RasterLayer : IDisposable
 
 | Имя | Описание |
 | --- | --- |
-| abstract [BandCount](../../aspose.gis.raster/rasterlayer/bandcount) { get; } | Получает количество каналов в растровом слое. |
-| [Bounds](../../aspose.gis.raster/rasterlayer/bounds) { get; } | Получает границы растра. |
-| abstract [CellSize](../../aspose.gis.raster/rasterlayer/cellsize) { get; } | Получает размер ячейки или пикселя растра. |
-| abstract [Driver](../../aspose.gis.raster/rasterlayer/driver) { get; } | Получает[`Driver`](./driver) который создал этот слой. |
-| abstract [Height](../../aspose.gis.raster/rasterlayer/height) { get; } | Получает высоту растра в пикселях. Также это известно как количество строк. |
-| abstract [NoDataValues](../../aspose.gis.raster/rasterlayer/nodatavalues) { get; } | Получает значения, представляющие фон или "нет данных" растра. |
-| abstract [SpatialReferenceSystem](../../aspose.gis.raster/rasterlayer/spatialreferencesystem) { get; } | Получает систему пространственной привязки растра. Может быть`null` если неизвестно. |
-| abstract [UpperLeftX](../../aspose.gis.raster/rasterlayer/upperleftx) { get; } | Получает x-координату левого верхнего угла растра. |
-| abstract [UpperLeftY](../../aspose.gis.raster/rasterlayer/upperlefty) { get; } | Получает координату y верхнего левого угла растра. |
-| abstract [Width](../../aspose.gis.raster/rasterlayer/width) { get; } | Получает ширину растра в пикселях. Также это известно как количество столбцов. |
+| abstract [BandCount](../../aspose.gis.raster/rasterlayer/bandcount/) { get; } | Получает количество каналов в растровом слое. |
+| [Bounds](../../aspose.gis.raster/rasterlayer/bounds/) { get; } | Получает границы растра. |
+| abstract [CellSize](../../aspose.gis.raster/rasterlayer/cellsize/) { get; } | Получает размер ячейки или пикселя растра. |
+| abstract [Driver](../../aspose.gis.raster/rasterlayer/driver/) { get; } | Получает[`Driver`](./driver/) который создал этот слой. |
+| abstract [Height](../../aspose.gis.raster/rasterlayer/height/) { get; } | Получает высоту растра в пикселях. Также это известно как количество строк. |
+| abstract [NoDataValues](../../aspose.gis.raster/rasterlayer/nodatavalues/) { get; } | Получает значения, представляющие фон или "нет данных" растра. |
+| abstract [SpatialReferenceSystem](../../aspose.gis.raster/rasterlayer/spatialreferencesystem/) { get; } | Получает систему пространственной привязки растра. Может быть`null` если неизвестно. |
+| abstract [UpperLeftX](../../aspose.gis.raster/rasterlayer/upperleftx/) { get; } | Получает x-координату левого верхнего угла растра. |
+| abstract [UpperLeftY](../../aspose.gis.raster/rasterlayer/upperlefty/) { get; } | Получает координату y верхнего левого угла растра. |
+| abstract [Width](../../aspose.gis.raster/rasterlayer/width/) { get; } | Получает ширину растра в пикселях. Также это известно как количество столбцов. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| [Crop](../../aspose.gis.raster/rasterlayer/crop)(IGeometry) | Обрезает растровый слой, используя форму формы. |
-| [Dispose](../../aspose.gis.raster/rasterlayer/dispose)() | Освобождает ресурсы, используемые[`RasterLayer`](../rasterlayer) . |
-| abstract [GetBand](../../aspose.gis.raster/rasterlayer/getband)(int) | Получает бэнд по указанному индексу. |
-| virtual [GetExtent](../../aspose.gis.raster/rasterlayer/getextent)() | Вычисляет пространственный экстент этого слоя. |
-| [GetSpatialPoint](../../aspose.gis.raster/rasterlayer/getspatialpoint)(int, int) | Преобразует указанный столбец и строку в пространственную координату. |
-| [GetStatistics](../../aspose.gis.raster/rasterlayer/getstatistics)(int, bool) | Вычислить сводную статистику, состоящую из количества, суммы, среднего, минимума, максимума. |
-| [GetValues](../../aspose.gis.raster/rasterlayer/getvalues)(int, int) | Считывает значения в указанной ячейке. |
-| [GetValuesDump](../../aspose.gis.raster/rasterlayer/getvaluesdump)(RasterRect) | Считывает значения в указанном блоке как одномерный массив. |
-| [GetValuesOnExpression](../../aspose.gis.raster/rasterlayer/getvaluesonexpression)(RasterRect, RasterReadExpression) | Читает и обрабатывает значения бэнда в выражении. |
-| override [ToString](../../aspose.gis.raster/rasterlayer/tostring)() | Возвращает строку, которая представляет текущий объект. |
-| [Warp](../../aspose.gis.raster/rasterlayer/warp)(WarpOptions) | Деформирует растровый слой на другой. |
+| [Crop](../../aspose.gis.raster/rasterlayer/crop/#crop_1)(double[]) | Обрезает растровый слой с помощью полосовой маски). |
+| [Crop](../../aspose.gis.raster/rasterlayer/crop/#crop)(IGeometry, double[]) | Обрезает растровый слой, используя форму формы (и полосовую маску). |
+| [Dispose](../../aspose.gis.raster/rasterlayer/dispose/)() | Освобождает ресурсы, используемые`RasterLayer` . |
+| abstract [GetBand](../../aspose.gis.raster/rasterlayer/getband/)(int) | Получает бэнд по указанному индексу. |
+| virtual [GetExtent](../../aspose.gis.raster/rasterlayer/getextent/)() | Вычисляет пространственный экстент этого слоя. |
+| [GetSpatialPoint](../../aspose.gis.raster/rasterlayer/getspatialpoint/)(int, int) | Преобразует указанный столбец и строку в пространственную координату. |
+| [GetStatistics](../../aspose.gis.raster/rasterlayer/getstatistics/)(int, bool) | Вычислить сводную статистику, состоящую из количества, суммы, среднего, минимума, максимума. |
+| [GetValues](../../aspose.gis.raster/rasterlayer/getvalues/)(int, int) | Считывает значения в указанной ячейке. |
+| [GetValuesDump](../../aspose.gis.raster/rasterlayer/getvaluesdump/)(RasterRect) | Считывает значения в указанном блоке как одномерный массив. |
+| [GetValuesOnExpression](../../aspose.gis.raster/rasterlayer/getvaluesonexpression/)(RasterRect, RasterReadExpression) | Читает и обрабатывает значения бэнда в выражении. |
+| override [ToString](../../aspose.gis.raster/rasterlayer/tostring/)() | Возвращает строку, которая представляет текущий объект. |
+| [Warp](../../aspose.gis.raster/rasterlayer/warp/)(WarpOptions) | Деформирует растровый слой на другой. |
 
 ### Смотрите также
 
-* пространство имен [Aspose.Gis.Raster](../../aspose.gis.raster)
+* пространство имен [Aspose.Gis.Raster](../../aspose.gis.raster/)
 * сборка [Aspose.GIS](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.GIS.dll -->
+

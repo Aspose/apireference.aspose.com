@@ -1,7 +1,7 @@
 ---
-title: CreateDataset
+title: FileGdbDriver.CreateDataset
 second_title: Справочник по Aspose.GIS for .NET API
-description: Создает набор данных.
+description: FileGdbDriver метод. Создает набор данных.
 type: docs
 weight: 50
 url: /ru/net/aspose.gis.formats.filegdb/filegdbdriver/createdataset/
@@ -21,7 +21,7 @@ public Dataset CreateDataset(string path, FileGdbOptions options)
 
 ### Возвращаемое значение
 
-Экземпляр[`Dataset`](../../../aspose.gis/dataset).
+Экземпляр[`Dataset`](../../../aspose.gis/dataset/).
 
 ### Исключения
 
@@ -29,17 +29,17 @@ public Dataset CreateDataset(string path, FileGdbOptions options)
 | --- | --- |
 | ArgumentException | Объект параметров имеет неверный тип для этого драйвера. |
 | ArgumentNullException | Путь`null`. |
-| [GisException](../../../aspose.gis/gisexception) | Ошибка чтения набора данных. |
+| [GisException](../../../aspose.gis/gisexception/) | Ошибка чтения набора данных. |
 | IOException | Произошла ошибка ввода/вывода. |
-| NotSupportedException | Драйвер не может открыть наборы данных (см.[`CanOpenDatasets`](../../../aspose.gis/filedriver/canopendatasets)). |
+| NotSupportedException | Драйвер не может открыть наборы данных (см.[`CanOpenDatasets`](../../../aspose.gis/filedriver/canopendatasets/)). |
 | InvalidOperationException | Набор данных уже существует. |
 
 ### Смотрите также
 
-* class [Dataset](../../../aspose.gis/dataset)
-* class [FileGdbOptions](../../filegdboptions)
-* class [FileGdbDriver](../../filegdbdriver)
-* пространство имен [Aspose.Gis.Formats.FileGdb](../../filegdbdriver)
+* class [Dataset](../../../aspose.gis/dataset/)
+* class [FileGdbOptions](../../filegdboptions/)
+* class [FileGdbDriver](../)
+* пространство имен [Aspose.Gis.Formats.FileGdb](../../filegdbdriver/)
 * сборка [Aspose.GIS](../../../)
 
 ---
@@ -59,7 +59,7 @@ public override Dataset CreateDataset(AbstractPath path, DriverOptions options)
 
 ### Возвращаемое значение
 
-Экземпляр[`Dataset`](../../../aspose.gis/dataset).
+Экземпляр[`Dataset`](../../../aspose.gis/dataset/).
 
 ### Исключения
 
@@ -67,18 +67,18 @@ public override Dataset CreateDataset(AbstractPath path, DriverOptions options)
 | --- | --- |
 | ArgumentException | Объект параметров имеет неверный тип для этого драйвера. |
 | ArgumentNullException | Путь`null`. |
-| [GisException](../../../aspose.gis/gisexception) | Ошибка чтения набора данных. |
+| [GisException](../../../aspose.gis/gisexception/) | Ошибка чтения набора данных. |
 | IOException | Произошла ошибка ввода/вывода. |
-| NotSupportedException | Драйвер не может открыть наборы данных (см.[`CanOpenDatasets`](../../../aspose.gis/filedriver/canopendatasets)). |
+| NotSupportedException | Драйвер не может открыть наборы данных (см.[`CanOpenDatasets`](../../../aspose.gis/filedriver/canopendatasets/)). |
 | InvalidOperationException | Набор данных уже существует. |
 
 ### Смотрите также
 
-* class [Dataset](../../../aspose.gis/dataset)
-* class [AbstractPath](../../../aspose.gis/abstractpath)
-* class [DriverOptions](../../../aspose.gis/driveroptions)
-* class [FileGdbDriver](../../filegdbdriver)
-* пространство имен [Aspose.Gis.Formats.FileGdb](../../filegdbdriver)
+* class [Dataset](../../../aspose.gis/dataset/)
+* class [AbstractPath](../../../aspose.gis/abstractpath/)
+* class [DriverOptions](../../../aspose.gis/driveroptions/)
+* class [FileGdbDriver](../)
+* пространство имен [Aspose.Gis.Formats.FileGdb](../../filegdbdriver/)
 * сборка [Aspose.GIS](../../../)
 
 ---
@@ -98,7 +98,7 @@ public Dataset CreateDataset(AbstractPath path, FileGdbOptions options)
 
 ### Возвращаемое значение
 
-Экземпляр[`Dataset`](../../../aspose.gis/dataset).
+Экземпляр[`Dataset`](../../../aspose.gis/dataset/).
 
 ### Исключения
 
@@ -106,18 +106,18 @@ public Dataset CreateDataset(AbstractPath path, FileGdbOptions options)
 | --- | --- |
 | ArgumentException | Объект параметров имеет неверный тип для этого драйвера. |
 | ArgumentNullException | Путь`null`. |
-| [GisException](../../../aspose.gis/gisexception) | Ошибка чтения набора данных. |
+| [GisException](../../../aspose.gis/gisexception/) | Ошибка чтения набора данных. |
 | IOException | Произошла ошибка ввода/вывода. |
-| NotSupportedException | Драйвер не может открыть наборы данных (см.[`CanOpenDatasets`](../../../aspose.gis/filedriver/canopendatasets)). |
+| NotSupportedException | Драйвер не может открыть наборы данных (см.[`CanOpenDatasets`](../../../aspose.gis/filedriver/canopendatasets/)). |
 | InvalidOperationException | Набор данных уже существует. |
 
 ### Смотрите также
 
-* class [Dataset](../../../aspose.gis/dataset)
-* class [AbstractPath](../../../aspose.gis/abstractpath)
-* class [FileGdbOptions](../../filegdboptions)
-* class [FileGdbDriver](../../filegdbdriver)
-* пространство имен [Aspose.Gis.Formats.FileGdb](../../filegdbdriver)
+* class [Dataset](../../../aspose.gis/dataset/)
+* class [AbstractPath](../../../aspose.gis/abstractpath/)
+* class [FileGdbOptions](../../filegdboptions/)
+* class [FileGdbDriver](../)
+* пространство имен [Aspose.Gis.Formats.FileGdb](../../filegdbdriver/)
 * сборка [Aspose.GIS](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.GIS.dll -->
+

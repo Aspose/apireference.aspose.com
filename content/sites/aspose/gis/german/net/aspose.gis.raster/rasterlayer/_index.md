@@ -1,9 +1,9 @@
 ---
-title: RasterLayer
+title: Class RasterLayer
 second_title: Aspose.GIS für .NET-API-Referenz
-description: Stellt eine Rasterebene dar.
+description: Aspose.Gis.Raster.RasterLayer klas. Stellt eine Rasterebene dar.
 type: docs
-weight: 1290
+weight: 1390
 url: /de/net/aspose.gis.raster/rasterlayer/
 ---
 ## RasterLayer class
@@ -18,36 +18,37 @@ public abstract class RasterLayer : IDisposable
 
 | Name | Beschreibung |
 | --- | --- |
-| abstract [BandCount](../../aspose.gis.raster/rasterlayer/bandcount) { get; } | Ruft die Anzahl der Bänder in der Rasterebene ab. |
-| [Bounds](../../aspose.gis.raster/rasterlayer/bounds) { get; } | Ruft die Rastergrenzen ab. |
-| abstract [CellSize](../../aspose.gis.raster/rasterlayer/cellsize) { get; } | Ruft die Zellen- oder Pixelgröße des Rasters ab. |
-| abstract [Driver](../../aspose.gis.raster/rasterlayer/driver) { get; } | Ruft die ab[`Driver`](./driver) die diese Ebene instanziiert hat. |
-| abstract [Height](../../aspose.gis.raster/rasterlayer/height) { get; } | Ruft die Höhe des Rasters in Pixel ab. Es ist auch als Zeilenanzahl bekannt. |
-| abstract [NoDataValues](../../aspose.gis.raster/rasterlayer/nodatavalues) { get; } | Ruft die Werte ab, die den Hintergrund oder „keine Daten“ des Rasters darstellen. |
-| abstract [SpatialReferenceSystem](../../aspose.gis.raster/rasterlayer/spatialreferencesystem) { get; } | Ruft ein räumliches Bezugssystem des Rasters ab. Kann sein`null` wenn es unbekannt ist. |
-| abstract [UpperLeftX](../../aspose.gis.raster/rasterlayer/upperleftx) { get; } | Ruft die x-Koordinate der oberen linken Ecke des Rasters ab. |
-| abstract [UpperLeftY](../../aspose.gis.raster/rasterlayer/upperlefty) { get; } | Ruft die y-Koordinate der oberen linken Ecke des Rasters ab. |
-| abstract [Width](../../aspose.gis.raster/rasterlayer/width) { get; } | Ruft die Breite des Rasters in Pixel ab. Es ist auch als Spaltenanzahl bekannt. |
+| abstract [BandCount](../../aspose.gis.raster/rasterlayer/bandcount/) { get; } | Ruft die Anzahl der Bänder in der Rasterebene ab. |
+| [Bounds](../../aspose.gis.raster/rasterlayer/bounds/) { get; } | Ruft die Rastergrenzen ab. |
+| abstract [CellSize](../../aspose.gis.raster/rasterlayer/cellsize/) { get; } | Ruft die Zellen- oder Pixelgröße des Rasters ab. |
+| abstract [Driver](../../aspose.gis.raster/rasterlayer/driver/) { get; } | Ruft die ab[`Driver`](./driver/) die diese Ebene instanziiert hat. |
+| abstract [Height](../../aspose.gis.raster/rasterlayer/height/) { get; } | Ruft die Höhe des Rasters in Pixel ab. Es ist auch als Zeilenanzahl bekannt. |
+| abstract [NoDataValues](../../aspose.gis.raster/rasterlayer/nodatavalues/) { get; } | Ruft die Werte ab, die den Hintergrund oder „keine Daten“ des Rasters darstellen. |
+| abstract [SpatialReferenceSystem](../../aspose.gis.raster/rasterlayer/spatialreferencesystem/) { get; } | Ruft ein räumliches Bezugssystem des Rasters ab. Kann sein`null` wenn es unbekannt ist. |
+| abstract [UpperLeftX](../../aspose.gis.raster/rasterlayer/upperleftx/) { get; } | Ruft die x-Koordinate der oberen linken Ecke des Rasters ab. |
+| abstract [UpperLeftY](../../aspose.gis.raster/rasterlayer/upperlefty/) { get; } | Ruft die y-Koordinate der oberen linken Ecke des Rasters ab. |
+| abstract [Width](../../aspose.gis.raster/rasterlayer/width/) { get; } | Ruft die Breite des Rasters in Pixel ab. Es ist auch als Spaltenanzahl bekannt. |
 
 ## Methoden
 
 | Name | Beschreibung |
 | --- | --- |
-| [Crop](../../aspose.gis.raster/rasterlayer/crop)(IGeometry) | Beschneidet die Rasterebene mithilfe eines Formformulars. |
-| [Dispose](../../aspose.gis.raster/rasterlayer/dispose)() | Gibt die von der verwendeten Ressourcen frei[`RasterLayer`](../rasterlayer) . |
-| abstract [GetBand](../../aspose.gis.raster/rasterlayer/getband)(int) | Ruft ein Band nach dem angegebenen Index ab. |
-| virtual [GetExtent](../../aspose.gis.raster/rasterlayer/getextent)() | Berechnet eine räumliche Ausdehnung dieses Layers. |
-| [GetSpatialPoint](../../aspose.gis.raster/rasterlayer/getspatialpoint)(int, int) | Konvertiert die angegebene Spalte und Zeile in die räumliche Koordinate. |
-| [GetStatistics](../../aspose.gis.raster/rasterlayer/getstatistics)(int, bool) | Berechnen Sie zusammenfassende Statistiken bestehend aus Anzahl, Summe, Mittelwert, Min., Max. |
-| [GetValues](../../aspose.gis.raster/rasterlayer/getvalues)(int, int) | Liest die Werte in der angegebenen Zelle. |
-| [GetValuesDump](../../aspose.gis.raster/rasterlayer/getvaluesdump)(RasterRect) | Liest die Werte im angegebenen Block als eindimensionales Array. |
-| [GetValuesOnExpression](../../aspose.gis.raster/rasterlayer/getvaluesonexpression)(RasterRect, RasterReadExpression) | Liest und verarbeitet Bandwerte in einem Ausdruck. |
-| override [ToString](../../aspose.gis.raster/rasterlayer/tostring)() | Gibt eine Zeichenfolge zurück, die das aktuelle Objekt darstellt. |
-| [Warp](../../aspose.gis.raster/rasterlayer/warp)(WarpOptions) | Verzerrt die Rasterebene zu einer anderen. |
+| [Crop](../../aspose.gis.raster/rasterlayer/crop/#crop_1)(double[]) | Beschneidet die Rasterebene mit einer Bandmaske). |
+| [Crop](../../aspose.gis.raster/rasterlayer/crop/#crop)(IGeometry, double[]) | Beschneidet die Rasterebene mithilfe einer Form (und einer Bandmaske). |
+| [Dispose](../../aspose.gis.raster/rasterlayer/dispose/)() | Gibt die von der verwendeten Ressourcen frei`RasterLayer` . |
+| abstract [GetBand](../../aspose.gis.raster/rasterlayer/getband/)(int) | Ruft ein Band nach dem angegebenen Index ab. |
+| virtual [GetExtent](../../aspose.gis.raster/rasterlayer/getextent/)() | Berechnet eine räumliche Ausdehnung dieses Layers. |
+| [GetSpatialPoint](../../aspose.gis.raster/rasterlayer/getspatialpoint/)(int, int) | Konvertiert die angegebene Spalte und Zeile in die räumliche Koordinate. |
+| [GetStatistics](../../aspose.gis.raster/rasterlayer/getstatistics/)(int, bool) | Berechnen Sie zusammenfassende Statistiken bestehend aus Anzahl, Summe, Mittelwert, Min., Max. |
+| [GetValues](../../aspose.gis.raster/rasterlayer/getvalues/)(int, int) | Liest die Werte in der angegebenen Zelle. |
+| [GetValuesDump](../../aspose.gis.raster/rasterlayer/getvaluesdump/)(RasterRect) | Liest die Werte im angegebenen Block als eindimensionales Array. |
+| [GetValuesOnExpression](../../aspose.gis.raster/rasterlayer/getvaluesonexpression/)(RasterRect, RasterReadExpression) | Liest und verarbeitet Bandwerte in einem Ausdruck. |
+| override [ToString](../../aspose.gis.raster/rasterlayer/tostring/)() | Gibt eine Zeichenfolge zurück, die das aktuelle Objekt darstellt. |
+| [Warp](../../aspose.gis.raster/rasterlayer/warp/)(WarpOptions) | Verzerrt die Rasterebene zu einer anderen. |
 
 ### Siehe auch
 
-* namensraum [Aspose.Gis.Raster](../../aspose.gis.raster)
+* namensraum [Aspose.Gis.Raster](../../aspose.gis.raster/)
 * Montage [Aspose.GIS](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.GIS.dll -->
+

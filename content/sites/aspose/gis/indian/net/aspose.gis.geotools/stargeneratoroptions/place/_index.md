@@ -1,0 +1,24 @@
+---
+title: StarGeneratorOptions.Place
+second_title: .NET API संदर्भ के लिए Aspose.GIS
+description: StarGeneratorOptions संपत्त. जनरेट कए गए सेल में प्लेसंग मड.
+type: docs
+weight: 50
+url: /hi/net/aspose.gis.geotools/stargeneratoroptions/place/
+---
+## StarGeneratorOptions.Place property
+
+जनरेट किए गए सेल में प्लेसिंग मोड.
+
+```csharp
+public GeneratorPlaces Place { get; set; }
+```
+
+### यह सभी देखें
+
+* enum [GeneratorPlaces](../../generatorplaces/)
+* class [StarGeneratorOptions](../)
+* नाम स्थान [Aspose.Gis.GeoTools](../../stargeneratoroptions/)
+* सभा [Aspose.GIS](../../../)
+
+

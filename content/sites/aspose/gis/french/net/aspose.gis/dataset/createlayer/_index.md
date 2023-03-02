@@ -1,7 +1,7 @@
 ---
-title: CreateLayer
+title: Dataset.CreateLayer
 second_title: Référence de l'API Aspose.GIS pour .NET
-description: Crée un nouveau calque vectoriel et louvre pour lajout.
+description: Dataset méthode. Crée un nouveau calque vectoriel et louvre pour lajout.
 type: docs
 weight: 70
 url: /fr/net/aspose.gis/dataset/createlayer/
@@ -16,13 +16,13 @@ public virtual VectorLayer CreateLayer()
 
 ### Return_Value
 
-UN[`VectorLayer`](../../vectorlayer) ouvert pour l'écriture.
+UN[`VectorLayer`](../../vectorlayer/) ouvert pour l'écriture.
 
 ### Voir également
 
-* class [VectorLayer](../../vectorlayer)
-* class [Dataset](../../dataset)
-* espace de noms [Aspose.Gis](../../dataset)
+* class [VectorLayer](../../vectorlayer/)
+* class [Dataset](../)
+* espace de noms [Aspose.Gis](../../dataset/)
 * Assemblée [Aspose.GIS](../../../)
 
 ---
@@ -41,14 +41,14 @@ public virtual VectorLayer CreateLayer(SpatialReferenceSystem spatialReferenceSy
 
 ### Return_Value
 
-UN[`VectorLayer`](../../vectorlayer) ouvert pour l'écriture.
+UN[`VectorLayer`](../../vectorlayer/) ouvert pour l'écriture.
 
 ### Voir également
 
-* class [VectorLayer](../../vectorlayer)
-* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem)
-* class [Dataset](../../dataset)
-* espace de noms [Aspose.Gis](../../dataset)
+* class [VectorLayer](../../vectorlayer/)
+* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem/)
+* class [Dataset](../)
+* espace de noms [Aspose.Gis](../../dataset/)
 * Assemblée [Aspose.GIS](../../../)
 
 ---
@@ -69,7 +69,7 @@ public virtual VectorLayer CreateLayer(DriverOptions options,
 
 ### Return_Value
 
-UN[`VectorLayer`](../../vectorlayer) ouvert pour l'écriture.
+UN[`VectorLayer`](../../vectorlayer/) ouvert pour l'écriture.
 
 ### Exceptions
 
@@ -77,15 +77,15 @@ UN[`VectorLayer`](../../vectorlayer) ouvert pour l'écriture.
 | --- | --- |
 | NotSupportedException | La création de couches n'est pas prise en charge pour ce jeu de données. |
 | IOException | Une erreur d'E/S s'est produite. |
-| [GisException](../../gisexception) | Erreur lors de la création du calque. |
+| [GisException](../../gisexception/) | Erreur lors de la création du calque. |
 
 ### Voir également
 
-* class [VectorLayer](../../vectorlayer)
-* class [DriverOptions](../../driveroptions)
-* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem)
-* class [Dataset](../../dataset)
-* espace de noms [Aspose.Gis](../../dataset)
+* class [VectorLayer](../../vectorlayer/)
+* class [DriverOptions](../../driveroptions/)
+* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem/)
+* class [Dataset](../)
+* espace de noms [Aspose.Gis](../../dataset/)
 * Assemblée [Aspose.GIS](../../../)
 
 ---
@@ -106,7 +106,7 @@ public virtual VectorLayer CreateLayer(string name,
 
 ### Return_Value
 
-UN[`VectorLayer`](../../vectorlayer) ouvert pour l'écriture.
+UN[`VectorLayer`](../../vectorlayer/) ouvert pour l'écriture.
 
 ### Exceptions
 
@@ -114,14 +114,14 @@ UN[`VectorLayer`](../../vectorlayer) ouvert pour l'écriture.
 | --- | --- |
 | NotSupportedException | La création de couches n'est pas prise en charge pour ce jeu de données. |
 | IOException | Une erreur d'E/S s'est produite. |
-| [GisException](../../gisexception) | Erreur lors de la création du calque. |
+| [GisException](../../gisexception/) | Erreur lors de la création du calque. |
 
 ### Voir également
 
-* class [VectorLayer](../../vectorlayer)
-* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem)
-* class [Dataset](../../dataset)
-* espace de noms [Aspose.Gis](../../dataset)
+* class [VectorLayer](../../vectorlayer/)
+* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem/)
+* class [Dataset](../)
+* espace de noms [Aspose.Gis](../../dataset/)
 * Assemblée [Aspose.GIS](../../../)
 
 ---
@@ -143,7 +143,7 @@ public virtual VectorLayer CreateLayer(string name, DriverOptions options,
 
 ### Return_Value
 
-UN[`VectorLayer`](../../vectorlayer) ouvert pour l'écriture.
+UN[`VectorLayer`](../../vectorlayer/) ouvert pour l'écriture.
 
 ### Exceptions
 
@@ -151,15 +151,15 @@ UN[`VectorLayer`](../../vectorlayer) ouvert pour l'écriture.
 | --- | --- |
 | NotSupportedException | La création de couches n'est pas prise en charge pour ce jeu de données. |
 | IOException | Une erreur d'E/S s'est produite. |
-| [GisException](../../gisexception) | Erreur lors de la création du calque. |
+| [GisException](../../gisexception/) | Erreur lors de la création du calque. |
 
 ### Voir également
 
-* class [VectorLayer](../../vectorlayer)
-* class [DriverOptions](../../driveroptions)
-* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem)
-* class [Dataset](../../dataset)
-* espace de noms [Aspose.Gis](../../dataset)
+* class [VectorLayer](../../vectorlayer/)
+* class [DriverOptions](../../driveroptions/)
+* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem/)
+* class [Dataset](../)
+* espace de noms [Aspose.Gis](../../dataset/)
 * Assemblée [Aspose.GIS](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.GIS.dll -->
+

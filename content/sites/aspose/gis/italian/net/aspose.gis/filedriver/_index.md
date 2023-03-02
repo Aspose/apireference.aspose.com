@@ -1,14 +1,14 @@
 ---
-title: FileDriver
+title: Class FileDriver
 second_title: Riferimento API Aspose.GIS per .NET
-description: Un driver per un formato basato su file specifico.
+description: Aspose.Gis.FileDriver classe. Un driver per uno specifico formato basato su file.
 type: docs
-weight: 170
+weight: 180
 url: /it/net/aspose.gis/filedriver/
 ---
 ## FileDriver class
 
-Un driver per un formato basato su file specifico.
+Un driver per uno specifico formato basato su file.
 
 ```csharp
 public abstract class FileDriver : Driver
@@ -18,43 +18,43 @@ public abstract class FileDriver : Driver
 
 | Nome | Descrizione |
 | --- | --- |
-| abstract [CanCreateDatasets](../../aspose.gis/filedriver/cancreatedatasets) { get; } | Ottiene un valore che indica se questo driver può creare set di dati. |
-| abstract [CanCreateLayers](../../aspose.gis/filedriver/cancreatelayers) { get; } | Ottiene un valore che indica se questo driver può creare livelli vettoriali. |
-| virtual [CanOpenDatasets](../../aspose.gis/filedriver/canopendatasets) { get; } | Ottiene un valore che indica se questo driver può aprire set di dati. |
-| abstract [CanOpenLayers](../../aspose.gis/filedriver/canopenlayers) { get; } | Ottiene un valore che indica se questo driver può aprire livelli vettoriali. |
+| abstract [CanCreateDatasets](../../aspose.gis/filedriver/cancreatedatasets/) { get; } | Ottiene un valore che indica se questo driver può creare set di dati. |
+| abstract [CanCreateLayers](../../aspose.gis/filedriver/cancreatelayers/) { get; } | Ottiene un valore che indica se questo driver può creare layer vettoriali. |
+| virtual [CanOpenDatasets](../../aspose.gis/filedriver/canopendatasets/) { get; } | Ottiene un valore che indica se questo driver può aprire set di dati. |
+| abstract [CanOpenLayers](../../aspose.gis/filedriver/canopenlayers/) { get; } | Ottiene un valore che indica se questo driver può aprire layer vettoriali. |
 
 ## Metodi
 
 | Nome | Descrizione |
 | --- | --- |
-| [CreateDataset](../../aspose.gis/filedriver/createdataset#createdataset)(AbstractPath) | Crea un set di dati. |
-| [CreateDataset](../../aspose.gis/filedriver/createdataset#createdataset_2)(string) | Crea un set di dati. |
-| virtual [CreateDataset](../../aspose.gis/filedriver/createdataset#createdataset_1)(AbstractPath, DriverOptions) | Crea un set di dati. |
-| [CreateDataset](../../aspose.gis/filedriver/createdataset#createdataset_3)(string, DriverOptions) | Crea un set di dati. |
-| [CreateLayer](../../aspose.gis/filedriver/createlayer#createlayer)(AbstractPath) | Crea il livello e lo apre per aggiungerlo. |
-| [CreateLayer](../../aspose.gis/filedriver/createlayer#createlayer_4)(string) | Crea il livello e lo apre per aggiungerlo. |
-| [CreateLayer](../../aspose.gis/filedriver/createlayer#createlayer_1)(AbstractPath, DriverOptions) | Crea il livello e lo apre per aggiungerlo. |
-| [CreateLayer](../../aspose.gis/filedriver/createlayer#createlayer_3)(AbstractPath, SpatialReferenceSystem) | Crea il livello e lo apre per aggiungerlo. |
-| [CreateLayer](../../aspose.gis/filedriver/createlayer#createlayer_5)(string, DriverOptions) | Crea il livello e lo apre per aggiungerlo. |
-| [CreateLayer](../../aspose.gis/filedriver/createlayer#createlayer_7)(string, SpatialReferenceSystem) | Crea il livello e lo apre per aggiungerlo. |
-| abstract [CreateLayer](../../aspose.gis/filedriver/createlayer#createlayer_2)(AbstractPath, DriverOptions, SpatialReferenceSystem) | Crea il livello e lo apre per aggiungerlo. |
-| [CreateLayer](../../aspose.gis/filedriver/createlayer#createlayer_6)(string, DriverOptions, SpatialReferenceSystem) | Crea il livello e lo apre per aggiungerlo. |
-| virtual [EditLayer](../../aspose.gis/filedriver/editlayer#editlayer)(AbstractPath, DriverOptions) | Apre un livello per la modifica. |
-| [EditLayer](../../aspose.gis/filedriver/editlayer#editlayer_1)(string, DriverOptions) | Apre un livello per la modifica. |
-| [OpenDataset](../../aspose.gis/filedriver/opendataset#opendataset)(AbstractPath) | Apre il set di dati. |
-| [OpenDataset](../../aspose.gis/filedriver/opendataset#opendataset_2)(string) | Apre il set di dati. |
-| virtual [OpenDataset](../../aspose.gis/filedriver/opendataset#opendataset_1)(AbstractPath, DriverOptions) | Apre il set di dati. |
-| [OpenDataset](../../aspose.gis/filedriver/opendataset#opendataset_3)(string, DriverOptions) | Apre il set di dati. |
-| [OpenLayer](../../aspose.gis/filedriver/openlayer#openlayer)(AbstractPath) | Apre il livello per la lettura. |
-| [OpenLayer](../../aspose.gis/filedriver/openlayer#openlayer_2)(string) | Apre il livello per la lettura. |
-| abstract [OpenLayer](../../aspose.gis/filedriver/openlayer#openlayer_1)(AbstractPath, DriverOptions) | Apre il livello per la lettura. |
-| [OpenLayer](../../aspose.gis/filedriver/openlayer#openlayer_3)(string, DriverOptions) | Apre il livello per la lettura. |
-| abstract [SupportsSpatialReferenceSystem](../../aspose.gis/filedriver/supportsspatialreferencesystem)(SpatialReferenceSystem) | Determina se il sistema di riferimento spaziale specificato è supportato dal driver. |
+| [CreateDataset](../../aspose.gis/filedriver/createdataset/#createdataset)(AbstractPath) | Crea un set di dati. |
+| [CreateDataset](../../aspose.gis/filedriver/createdataset/#createdataset_2)(string) | Crea un set di dati. |
+| virtual [CreateDataset](../../aspose.gis/filedriver/createdataset/#createdataset_1)(AbstractPath, DriverOptions) | Crea un set di dati. |
+| [CreateDataset](../../aspose.gis/filedriver/createdataset/#createdataset_3)(string, DriverOptions) | Crea un set di dati. |
+| [CreateLayer](../../aspose.gis/filedriver/createlayer/#createlayer)(AbstractPath) | Crea il livello e lo apre per l'aggiunta. |
+| [CreateLayer](../../aspose.gis/filedriver/createlayer/#createlayer_4)(string) | Crea il livello e lo apre per l'aggiunta. |
+| [CreateLayer](../../aspose.gis/filedriver/createlayer/#createlayer_1)(AbstractPath, DriverOptions) | Crea il livello e lo apre per l'aggiunta. |
+| [CreateLayer](../../aspose.gis/filedriver/createlayer/#createlayer_3)(AbstractPath, SpatialReferenceSystem) | Crea il livello e lo apre per l'aggiunta. |
+| [CreateLayer](../../aspose.gis/filedriver/createlayer/#createlayer_5)(string, DriverOptions) | Crea il livello e lo apre per l'aggiunta. |
+| [CreateLayer](../../aspose.gis/filedriver/createlayer/#createlayer_7)(string, SpatialReferenceSystem) | Crea il livello e lo apre per l'aggiunta. |
+| abstract [CreateLayer](../../aspose.gis/filedriver/createlayer/#createlayer_2)(AbstractPath, DriverOptions, SpatialReferenceSystem) | Crea il livello e lo apre per l'aggiunta. |
+| [CreateLayer](../../aspose.gis/filedriver/createlayer/#createlayer_6)(string, DriverOptions, SpatialReferenceSystem) | Crea il livello e lo apre per l'aggiunta. |
+| virtual [EditLayer](../../aspose.gis/filedriver/editlayer/#editlayer)(AbstractPath, DriverOptions) | Apre un livello per la modifica. |
+| [EditLayer](../../aspose.gis/filedriver/editlayer/#editlayer_1)(string, DriverOptions) | Apre un livello per la modifica. |
+| [OpenDataset](../../aspose.gis/filedriver/opendataset/#opendataset)(AbstractPath) | Apre il set di dati. |
+| [OpenDataset](../../aspose.gis/filedriver/opendataset/#opendataset_2)(string) | Apre il set di dati. |
+| virtual [OpenDataset](../../aspose.gis/filedriver/opendataset/#opendataset_1)(AbstractPath, DriverOptions) | Apre il set di dati. |
+| [OpenDataset](../../aspose.gis/filedriver/opendataset/#opendataset_3)(string, DriverOptions) | Apre il set di dati. |
+| [OpenLayer](../../aspose.gis/filedriver/openlayer/#openlayer)(AbstractPath) | Apre il livello per la lettura. |
+| [OpenLayer](../../aspose.gis/filedriver/openlayer/#openlayer_2)(string) | Apre il livello per la lettura. |
+| abstract [OpenLayer](../../aspose.gis/filedriver/openlayer/#openlayer_1)(AbstractPath, DriverOptions) | Apre il livello per la lettura. |
+| [OpenLayer](../../aspose.gis/filedriver/openlayer/#openlayer_3)(string, DriverOptions) | Apre il livello per la lettura. |
+| abstract [SupportsSpatialReferenceSystem](../../aspose.gis/filedriver/supportsspatialreferencesystem/)(SpatialReferenceSystem) | Determina se il sistema di riferimento spaziale specificato è supportato dal driver. |
 
 ### Guarda anche
 
-* class [Driver](../driver)
-* spazio dei nomi [Aspose.Gis](../../aspose.gis)
+* class [Driver](../driver/)
+* spazio dei nomi [Aspose.Gis](../../aspose.gis/)
 * assemblea [Aspose.GIS](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.GIS.dll -->
+

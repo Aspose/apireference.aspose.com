@@ -1,9 +1,9 @@
 ---
-title: RasterImageMarker
+title: Class RasterImageMarker
 second_title: Référence de l'API Aspose.GIS pour .NET
-description: Ce symboliseur rend une image raster fournie.
+description: Aspose.Gis.Rendering.Symbolizers.RasterImageMarker classe. Ce symboliseur rend une image raster fournie.
 type: docs
-weight: 1800
+weight: 1900
 url: /fr/net/aspose.gis.rendering.symbolizers/rasterimagemarker/
 ---
 ## RasterImageMarker class
@@ -18,34 +18,34 @@ public class RasterImageMarker : VectorSymbolizer
 
 | Nom | La description |
 | --- | --- |
-| [RasterImageMarker](rasterimagemarker#constructor)(AbstractPath) | Initialise une nouvelle instance du[`RasterImageMarker`](../rasterimagemarker) classer. |
-| [RasterImageMarker](rasterimagemarker#constructor_1)(RasterImageMarker) | Initialise une nouvelle instance du[`RasterImageMarker`](../rasterimagemarker) classer. |
-| [RasterImageMarker](rasterimagemarker#constructor_2)(string) | Initialise une nouvelle instance du[`RasterImageMarker`](../rasterimagemarker) classer. |
+| [RasterImageMarker](rasterimagemarker/#constructor)(AbstractPath) | Initialise une nouvelle instance du`RasterImageMarker` classe. |
+| [RasterImageMarker](rasterimagemarker/#constructor_1)(RasterImageMarker) | Initialise une nouvelle instance du`RasterImageMarker` classe. |
+| [RasterImageMarker](rasterimagemarker/#constructor_2)(string) | Initialise une nouvelle instance du`RasterImageMarker` classe. |
 
 ## Propriétés
 
 | Nom | La description |
 | --- | --- |
-| [FeatureBasedConfiguration](../../aspose.gis.rendering.symbolizers/rasterimagemarker/featurebasedconfiguration) { get; set; } | Un rappel utilisé pour configurer ce symboliseur avant de rendre une entité. |
-| [Height](../../aspose.gis.rendering.symbolizers/rasterimagemarker/height) { get; set; } | Spécifie la hauteur du marqueur. |
-| [HorizontalAnchorPoint](../../aspose.gis.rendering.symbolizers/rasterimagemarker/horizontalanchorpoint) { get; set; } | spécifie quel côté d'une forme de marqueur sera aligné horizontalement avec l'emplacement du point. |
-| [HorizontalOffset](../../aspose.gis.rendering.symbolizers/rasterimagemarker/horizontaloffset) { get; set; } | Spécifie le décalage horizontal entre un emplacement de point et le point d'ancrage de la forme. |
-| [Opacity](../../aspose.gis.rendering.symbolizers/rasterimagemarker/opacity) { get; set; } | Opacité du calque. La valeur par défaut est 1,0. |
-| [Rotation](../../aspose.gis.rendering.symbolizers/rasterimagemarker/rotation) { get; set; } | Spécifie la rotation du symbole autour de son point central, en degrés décimaux. Les valeurs positives indiquent une rotation dans le sens des aiguilles d'une montre, les valeurs négatives indiquent une rotation dans le sens inverse des aiguilles d'une montre. |
-| [VerticalAnchorPoint](../../aspose.gis.rendering.symbolizers/rasterimagemarker/verticalanchorpoint) { get; set; } | Spécifie le côté d'une forme de marqueur qui sera aligné verticalement avec l'emplacement du point. |
-| [VerticalOffset](../../aspose.gis.rendering.symbolizers/rasterimagemarker/verticaloffset) { get; set; } | Spécifie le décalage vertical entre un emplacement de point et le point d'ancrage de la forme. |
-| [Width](../../aspose.gis.rendering.symbolizers/rasterimagemarker/width) { get; set; } | Spécifie la largeur du marqueur. |
+| [FeatureBasedConfiguration](../../aspose.gis.rendering.symbolizers/rasterimagemarker/featurebasedconfiguration/) { get; set; } | Un rappel utilisé pour configurer ce symboliseur avant de rendre une entité. |
+| [Height](../../aspose.gis.rendering.symbolizers/rasterimagemarker/height/) { get; set; } | Spécifie la hauteur du marqueur. |
+| [HorizontalAnchorPoint](../../aspose.gis.rendering.symbolizers/rasterimagemarker/horizontalanchorpoint/) { get; set; } | spécifie quel côté d'une forme de marqueur sera aligné horizontalement avec l'emplacement du point. |
+| [HorizontalOffset](../../aspose.gis.rendering.symbolizers/rasterimagemarker/horizontaloffset/) { get; set; } | Spécifie le décalage horizontal entre un emplacement de point et le point d'ancrage de la forme. |
+| [Opacity](../../aspose.gis.rendering.symbolizers/rasterimagemarker/opacity/) { get; set; } | Opacité du calque. La valeur par défaut est 1,0. |
+| [Rotation](../../aspose.gis.rendering.symbolizers/rasterimagemarker/rotation/) { get; set; } | Spécifie la rotation du symbole autour de son point central, en degrés décimaux. Les valeurs positives indiquent une rotation dans le sens des aiguilles d'une montre, les valeurs négatives indiquent une rotation dans le sens inverse des aiguilles d'une montre. |
+| [VerticalAnchorPoint](../../aspose.gis.rendering.symbolizers/rasterimagemarker/verticalanchorpoint/) { get; set; } | Spécifie le côté d'une forme de marqueur qui sera aligné verticalement avec l'emplacement du point. |
+| [VerticalOffset](../../aspose.gis.rendering.symbolizers/rasterimagemarker/verticaloffset/) { get; set; } | Spécifie le décalage vertical entre un emplacement de point et le point d'ancrage de la forme. |
+| [Width](../../aspose.gis.rendering.symbolizers/rasterimagemarker/width/) { get; set; } | Spécifie la largeur du marqueur. |
 
 ## Méthodes
 
 | Nom | La description |
 | --- | --- |
-| [Clone](../../aspose.gis.rendering.symbolizers/rasterimagemarker/clone)() | Clone cette instance. |
+| [Clone](../../aspose.gis.rendering.symbolizers/rasterimagemarker/clone/)() | Clone cette instance. |
 
 ### Voir également
 
-* class [VectorSymbolizer](../vectorsymbolizer)
-* espace de noms [Aspose.Gis.Rendering.Symbolizers](../../aspose.gis.rendering.symbolizers)
+* class [VectorSymbolizer](../vectorsymbolizer/)
+* espace de noms [Aspose.Gis.Rendering.Symbolizers](../../aspose.gis.rendering.symbolizers/)
 * Assemblée [Aspose.GIS](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.GIS.dll -->
+

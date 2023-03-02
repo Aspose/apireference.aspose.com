@@ -1,9 +1,9 @@
 ---
-title: OsmXmlOptions
+title: Class OsmXmlOptions
 second_title: Aspose.GIS för .NET API Referens
-description: Drivrutinsspecifika alternativ för OSM XMLformat.
+description: Aspose.Gis.Formats.OsmXml.OsmXmlOptions klass. Drivrutinsspecifika alternativ för OSM XMLformat.
 type: docs
-weight: 560
+weight: 630
 url: /sv/net/aspose.gis.formats.osmxml/osmxmloptions/
 ---
 ## OsmXmlOptions class
@@ -18,32 +18,32 @@ public class OsmXmlOptions : DriverOptions
 
 | namn | Beskrivning |
 | --- | --- |
-| [OsmXmlOptions](osmxmloptions)() | Skapa ny instans. |
+| [OsmXmlOptions](osmxmloptions/)() | Skapa ny instans. |
 
 ## Egenskaper
 
 | namn | Beskrivning |
 | --- | --- |
-| [CloseLinearRing](../../aspose.gis/driveroptions/closelinearring) { get; set; } | Bestämmer om stänga en ostängdLinearRing i varje geometri. Standard till`false` . |
-| [CreateMidpoints](../../aspose.gis/driveroptions/createmidpoints) { get; set; } | Bestämmer om lägga till en ny punkt i mitten till varje segment av geometri. Standard till`false` . |
-| [DeleteNearPoints](../../aspose.gis/driveroptions/deletenearpoints) { get; set; } | Bestämmer om radera nära punkter i varje geometri. Standard till`false` . |
-| [DeleteNearPointsDistance](../../aspose.gis/driveroptions/deletenearpointsdistance) { get; set; } | Bestämmer avstånd för[`DeleteNearPoints`](../../aspose.gis/driveroptions/deletenearpoints) . Standard till`0` . |
-| [LinearizationTolerance](../../aspose.gis/driveroptions/linearizationtolerance) { get; set; } | En tolerans att använda för att linjärisera kurvgeometrier. |
-| [MPrecisionModel](../../aspose.gis/driveroptions/mprecisionmodel) { get; set; } | A[`PrecisionModel`](../../aspose.gis/precisionmodel) som kommer att tillämpas på M coordinate när geometrier läggs till[`VectorLayer`](../../aspose.gis/vectorlayer) eller när de läses från[`VectorLayer`](../../aspose.gis/vectorlayer) . Standardvärdet är[`Exact`](../../aspose.gis/precisionmodel/exact) . |
-| [ReportAllNodes](../../aspose.gis.formats.osmxml/osmxmloptions/reportallnodes) { get; set; } | Rapportera alla noder som funktioner, även om de inte har några betydande taggar. |
-| [ReportAllWays](../../aspose.gis.formats.osmxml/osmxmloptions/reportallways) { get; set; } | Rapportera alla sätt som funktioner, även om de inte har några betydande taggar eller inte har några noder. |
-| [ReportCommonAttributes](../../aspose.gis.formats.osmxml/osmxmloptions/reportcommonattributes) { get; set; } | Rapportera vanliga OSM-attribut: synlig, version, ändringsuppsättning, tidsstämpel, användare och uid. Vanliga attribut kommer att rapporteras som funktionsattribut med prefixet "osm_", t.ex. osm_user, osm_timestamp, etc. |
-| [SimplifySegments](../../aspose.gis/driveroptions/simplifysegments) { get; set; } | Bestämmer om raderingspunkter som ligger på samma segment i varje geometri. Standard till`false` . |
-| [SimplifySegmentsDistance](../../aspose.gis/driveroptions/simplifysegmentsdistance) { get; set; } | Bestämmer avstånd för[`SimplifySegments`](../../aspose.gis/driveroptions/simplifysegments) . Standard till`0` . |
-| [ValidateGeometriesOnWrite](../../aspose.gis/driveroptions/validategeometriesonwrite) { get; set; } | Bestämmer om geometrier ska valideras när de läggs till i lagret. Om satt till`true` ,[`IsValid`](../../aspose.gis.geometries/geometry/isvalid)anropas för each geometri när den läggs till i lagret och om valideringen misslyckas ([`IsValid`](../../aspose.gis.geometries/geometry/isvalid) är`false` ),[`GisException`](../../aspose.gis/gisexception) kastas. |
-| [WritePolygonsAsLines](../../aspose.gis/driveroptions/writepolygonsaslines) { get; set; } | Bestämmer om transformation av polygon eller multipolygon till linjesträng är tillåten. Standard till`false` . |
-| [XYPrecisionModel](../../aspose.gis/driveroptions/xyprecisionmodel) { get; set; } | A[`PrecisionModel`](../../aspose.gis/precisionmodel)som kommer att tillämpas på X- och Y-koordinater när geometrier läggs till[`VectorLayer`](../../aspose.gis/vectorlayer) eller när de läses från[`VectorLayer`](../../aspose.gis/vectorlayer) . Standardvärdet är[`Exact`](../../aspose.gis/precisionmodel/exact) . |
-| [ZPrecisionModel](../../aspose.gis/driveroptions/zprecisionmodel) { get; set; } | A[`PrecisionModel`](../../aspose.gis/precisionmodel) som kommer att tillämpas på Z coordinate när geometrier läggs till[`VectorLayer`](../../aspose.gis/vectorlayer) eller när de läses från[`VectorLayer`](../../aspose.gis/vectorlayer) . Standardvärdet är[`Exact`](../../aspose.gis/precisionmodel/exact) . |
+| [CloseLinearRing](../../aspose.gis/driveroptions/closelinearring/) { get; set; } | Bestämmer om stänga en ostängdLinearRing i varje geometri. Standard till`false` . |
+| [CreateMidpoints](../../aspose.gis/driveroptions/createmidpoints/) { get; set; } | Bestämmer om lägga till en ny punkt i mitten till varje segment av geometri. Standard till`false` . |
+| [DeleteNearPoints](../../aspose.gis/driveroptions/deletenearpoints/) { get; set; } | Bestämmer om radera nära punkter i varje geometri. Standard till`false` . |
+| [DeleteNearPointsDistance](../../aspose.gis/driveroptions/deletenearpointsdistance/) { get; set; } | Bestämmer avstånd för[`DeleteNearPoints`](../../aspose.gis/driveroptions/deletenearpoints/) . Standard till`0` . |
+| [LinearizationTolerance](../../aspose.gis/driveroptions/linearizationtolerance/) { get; set; } | En tolerans att använda för att linjärisera kurvgeometrier. |
+| [MPrecisionModel](../../aspose.gis/driveroptions/mprecisionmodel/) { get; set; } | A[`PrecisionModel`](../../aspose.gis/precisionmodel/) som kommer att tillämpas på M coordinate när geometrier läggs till[`VectorLayer`](../../aspose.gis/vectorlayer/) eller när de läses från[`VectorLayer`](../../aspose.gis/vectorlayer/) . Standardvärdet är[`Exact`](../../aspose.gis/precisionmodel/exact/) . |
+| [ReportAllNodes](../../aspose.gis.formats.osmxml/osmxmloptions/reportallnodes/) { get; set; } | Rapportera alla noder som funktioner, även om de inte har några betydande taggar. |
+| [ReportAllWays](../../aspose.gis.formats.osmxml/osmxmloptions/reportallways/) { get; set; } | Rapportera alla sätt som funktioner, även om de inte har några betydande taggar eller inte har några noder. |
+| [ReportCommonAttributes](../../aspose.gis.formats.osmxml/osmxmloptions/reportcommonattributes/) { get; set; } | Rapportera vanliga OSM-attribut: synlig, version, ändringsuppsättning, tidsstämpel, användare och uid. Vanliga attribut kommer att rapporteras som funktionsattribut med prefixet "osm_", t.ex. osm_user, osm_timestamp, etc. |
+| [SimplifySegments](../../aspose.gis/driveroptions/simplifysegments/) { get; set; } | Bestämmer om raderingspunkter som ligger på samma segment i varje geometri. Standard till`false` . |
+| [SimplifySegmentsDistance](../../aspose.gis/driveroptions/simplifysegmentsdistance/) { get; set; } | Bestämmer avstånd för[`SimplifySegments`](../../aspose.gis/driveroptions/simplifysegments/) . Standard till`0` . |
+| [ValidateGeometriesOnWrite](../../aspose.gis/driveroptions/validategeometriesonwrite/) { get; set; } | Bestämmer om geometrier ska valideras när de läggs till i lagret. Om satt till`true` ,[`IsValid`](../../aspose.gis.geometries/geometry/isvalid/) anropas för each geometri när den läggs till i lagret och om valideringen misslyckas ([`IsValid`](../../aspose.gis.geometries/geometry/isvalid/) är`false` ),[`GisException`](../../aspose.gis/gisexception/) kastas. |
+| [WritePolygonsAsLines](../../aspose.gis/driveroptions/writepolygonsaslines/) { get; set; } | Bestämmer om transformation av polygon eller multipolygon till linjesträng är tillåten. Standard till`false` . |
+| [XYPrecisionModel](../../aspose.gis/driveroptions/xyprecisionmodel/) { get; set; } | A[`PrecisionModel`](../../aspose.gis/precisionmodel/) som kommer att tillämpas på X- och Y-koordinater när geometrier läggs till[`VectorLayer`](../../aspose.gis/vectorlayer/) eller när de läses från[`VectorLayer`](../../aspose.gis/vectorlayer/) . Standardvärdet är[`Exact`](../../aspose.gis/precisionmodel/exact/) . |
+| [ZPrecisionModel](../../aspose.gis/driveroptions/zprecisionmodel/) { get; set; } | A[`PrecisionModel`](../../aspose.gis/precisionmodel/) som kommer att tillämpas på Z coordinate när geometrier läggs till[`VectorLayer`](../../aspose.gis/vectorlayer/) eller när de läses från[`VectorLayer`](../../aspose.gis/vectorlayer/) . Standardvärdet är[`Exact`](../../aspose.gis/precisionmodel/exact/) . |
 
 ### Se även
 
-* class [DriverOptions](../../aspose.gis/driveroptions)
-* namnutrymme [Aspose.Gis.Formats.OsmXml](../../aspose.gis.formats.osmxml)
+* class [DriverOptions](../../aspose.gis/driveroptions/)
+* namnutrymme [Aspose.Gis.Formats.OsmXml](../../aspose.gis.formats.osmxml/)
 * hopsättning [Aspose.GIS](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.GIS.dll -->
+

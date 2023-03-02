@@ -1,14 +1,14 @@
 ---
-title: CreateLayer
+title: MapInfoTabDriver.CreateLayer
 second_title: Riferimento API Aspose.GIS per .NET
-description: Crea un livello e lo apre per aggiungere nuove funzionalità.
+description: MapInfoTabDriver metodo. Crea un livello e lo apre per laggiunta di nuove funzionalità.
 type: docs
 weight: 40
 url: /it/net/aspose.gis.formats.mapinfotab/mapinfotabdriver/createlayer/
 ---
 ## CreateLayer(string, MapInfoTabOptions) {#createlayer_9}
 
-Crea un livello e lo apre per aggiungere nuove funzionalità.
+Crea un livello e lo apre per l'aggiunta di nuove funzionalità.
 
 ```csharp
 public VectorLayer CreateLayer(string path, MapInfoTabOptions options)
@@ -17,11 +17,11 @@ public VectorLayer CreateLayer(string path, MapInfoTabOptions options)
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
 | path | String | Percorso del file. |
-| options | MapInfoTabOptions | Opzioni specifiche del driver. |
+| options | MapInfoTabOptions | Opzioni specifiche del conducente. |
 
 ### Valore di ritorno
 
-Un'istanza di[`VectorLayer`](../../../aspose.gis/vectorlayer).
+Un'istanza di[`VectorLayer`](../../../aspose.gis/vectorlayer/).
 
 ### Eccezioni
 
@@ -31,17 +31,17 @@ Un'istanza di[`VectorLayer`](../../../aspose.gis/vectorlayer).
 
 ### Guarda anche
 
-* class [VectorLayer](../../../aspose.gis/vectorlayer)
-* class [MapInfoTabOptions](../../mapinfotaboptions)
-* class [MapInfoTabDriver](../../mapinfotabdriver)
-* spazio dei nomi [Aspose.Gis.Formats.MapInfoTab](../../mapinfotabdriver)
+* class [VectorLayer](../../../aspose.gis/vectorlayer/)
+* class [MapInfoTabOptions](../../mapinfotaboptions/)
+* class [MapInfoTabDriver](../)
+* spazio dei nomi [Aspose.Gis.Formats.MapInfoTab](../../mapinfotabdriver/)
 * assemblea [Aspose.GIS](../../../)
 
 ---
 
 ## CreateLayer(AbstractPath, MapInfoTabOptions) {#createlayer_3}
 
-Crea un livello e lo apre per aggiungere nuove funzionalità.
+Crea un livello e lo apre per l'aggiunta di nuove funzionalità.
 
 ```csharp
 public VectorLayer CreateLayer(AbstractPath path, MapInfoTabOptions options)
@@ -50,11 +50,11 @@ public VectorLayer CreateLayer(AbstractPath path, MapInfoTabOptions options)
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
 | path | AbstractPath | Percorso del file. |
-| options | MapInfoTabOptions | Opzioni specifiche del driver. |
+| options | MapInfoTabOptions | Opzioni specifiche del conducente. |
 
 ### Valore di ritorno
 
-Un'istanza di[`VectorLayer`](../../../aspose.gis/vectorlayer).
+Un'istanza di[`VectorLayer`](../../../aspose.gis/vectorlayer/).
 
 ### Eccezioni
 
@@ -64,18 +64,18 @@ Un'istanza di[`VectorLayer`](../../../aspose.gis/vectorlayer).
 
 ### Guarda anche
 
-* class [VectorLayer](../../../aspose.gis/vectorlayer)
-* class [AbstractPath](../../../aspose.gis/abstractpath)
-* class [MapInfoTabOptions](../../mapinfotaboptions)
-* class [MapInfoTabDriver](../../mapinfotabdriver)
-* spazio dei nomi [Aspose.Gis.Formats.MapInfoTab](../../mapinfotabdriver)
+* class [VectorLayer](../../../aspose.gis/vectorlayer/)
+* class [AbstractPath](../../../aspose.gis/abstractpath/)
+* class [MapInfoTabOptions](../../mapinfotaboptions/)
+* class [MapInfoTabDriver](../)
+* spazio dei nomi [Aspose.Gis.Formats.MapInfoTab](../../mapinfotabdriver/)
 * assemblea [Aspose.GIS](../../../)
 
 ---
 
 ## CreateLayer(AbstractPath, DriverOptions, SpatialReferenceSystem) {#createlayer_2}
 
-Crea un livello e lo apre per aggiungere nuove funzionalità.
+Crea un livello e lo apre per l'aggiunta di nuove funzionalità.
 
 ```csharp
 public override VectorLayer CreateLayer(AbstractPath path, DriverOptions options, 
@@ -85,12 +85,12 @@ public override VectorLayer CreateLayer(AbstractPath path, DriverOptions options
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
 | path | AbstractPath | Percorso del file. |
-| options | DriverOptions | Opzioni specifiche del driver. |
+| options | DriverOptions | Opzioni specifiche del conducente. |
 | spatialReferenceSystem | SpatialReferenceSystem | Sistema di riferimento spaziale. |
 
 ### Valore di ritorno
 
-Un'istanza di[`VectorLayer`](../../../aspose.gis/vectorlayer).
+Un'istanza di[`VectorLayer`](../../../aspose.gis/vectorlayer/).
 
 ### Eccezioni
 
@@ -100,19 +100,19 @@ Un'istanza di[`VectorLayer`](../../../aspose.gis/vectorlayer).
 
 ### Guarda anche
 
-* class [VectorLayer](../../../aspose.gis/vectorlayer)
-* class [AbstractPath](../../../aspose.gis/abstractpath)
-* class [DriverOptions](../../../aspose.gis/driveroptions)
-* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem)
-* class [MapInfoTabDriver](../../mapinfotabdriver)
-* spazio dei nomi [Aspose.Gis.Formats.MapInfoTab](../../mapinfotabdriver)
+* class [VectorLayer](../../../aspose.gis/vectorlayer/)
+* class [AbstractPath](../../../aspose.gis/abstractpath/)
+* class [DriverOptions](../../../aspose.gis/driveroptions/)
+* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem/)
+* class [MapInfoTabDriver](../)
+* spazio dei nomi [Aspose.Gis.Formats.MapInfoTab](../../mapinfotabdriver/)
 * assemblea [Aspose.GIS](../../../)
 
 ---
 
 ## CreateLayer(AbstractPath, MapInfoTabOptions, SpatialReferenceSystem) {#createlayer_4}
 
-Crea un livello e lo apre per aggiungere nuove funzionalità.
+Crea un livello e lo apre per l'aggiunta di nuove funzionalità.
 
 ```csharp
 public VectorLayer CreateLayer(AbstractPath path, MapInfoTabOptions options, 
@@ -122,12 +122,12 @@ public VectorLayer CreateLayer(AbstractPath path, MapInfoTabOptions options,
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
 | path | AbstractPath | Percorso del file. |
-| options | MapInfoTabOptions | Opzioni specifiche del driver. |
+| options | MapInfoTabOptions | Opzioni specifiche del conducente. |
 | spatialReferenceSystem | SpatialReferenceSystem | Sistema di riferimento spaziale. |
 
 ### Valore di ritorno
 
-Un'istanza di[`VectorLayer`](../../../aspose.gis/vectorlayer).
+Un'istanza di[`VectorLayer`](../../../aspose.gis/vectorlayer/).
 
 ### Eccezioni
 
@@ -138,12 +138,12 @@ Un'istanza di[`VectorLayer`](../../../aspose.gis/vectorlayer).
 
 ### Guarda anche
 
-* class [VectorLayer](../../../aspose.gis/vectorlayer)
-* class [AbstractPath](../../../aspose.gis/abstractpath)
-* class [MapInfoTabOptions](../../mapinfotaboptions)
-* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem)
-* class [MapInfoTabDriver](../../mapinfotabdriver)
-* spazio dei nomi [Aspose.Gis.Formats.MapInfoTab](../../mapinfotabdriver)
+* class [VectorLayer](../../../aspose.gis/vectorlayer/)
+* class [AbstractPath](../../../aspose.gis/abstractpath/)
+* class [MapInfoTabOptions](../../mapinfotaboptions/)
+* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem/)
+* class [MapInfoTabDriver](../)
+* spazio dei nomi [Aspose.Gis.Formats.MapInfoTab](../../mapinfotabdriver/)
 * assemblea [Aspose.GIS](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.GIS.dll -->
+

@@ -1,9 +1,9 @@
 ---
-title: FileGdbCoordinatePrecisionGrid
+title: Class FileGdbCoordinatePrecisionGrid
 second_title: Aspose.GIS för .NET API Referens
-description: Ett koordinatprecisionsrutnät inuti ett FileGDBlager.
+description: Aspose.Gis.Formats.FileGdb.FileGdbCoordinatePrecisionGrid klass. Ett koordinatprecisionsrutnät inuti ett FileGDBlager.
 type: docs
-weight: 220
+weight: 250
 url: /sv/net/aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/
 ---
 ## FileGdbCoordinatePrecisionGrid class
@@ -18,29 +18,29 @@ public sealed class FileGdbCoordinatePrecisionGrid
 
 | namn | Beskrivning |
 | --- | --- |
-| [FileGdbCoordinatePrecisionGrid](filegdbcoordinateprecisiongrid)() | Default_Constructor |
+| [FileGdbCoordinatePrecisionGrid](filegdbcoordinateprecisiongrid/)() | Default_Constructor |
 
 ## Egenskaper
 
 | namn | Beskrivning |
 | --- | --- |
-| [MOrigin](../../aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/morigin) { get; set; } | Hämtar eller ställer in ursprunget för M-koordinaten. Om inställt på`null` standarden används. |
-| [MScale](../../aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/mscale) { get; set; } | Hämtar eller ställer in skalan för M-koordinaten. Om inställt på`null` standarden används. |
-| [XOrigin](../../aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/xorigin) { get; set; } | Hämtar eller ställer in ursprunget för X-koordinaten. Om inställt på`null` standarden används. |
-| [XYScale](../../aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/xyscale) { get; set; } | Hämtar eller ställer in skalan för X- och Y-koordinater. Om inställt på`null` standarden används. |
-| [YOrigin](../../aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/yorigin) { get; set; } | Hämtar eller ställer in ursprunget för Y-koordinaten. Om inställt på`null` standarden används. |
-| [ZOrigin](../../aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/zorigin) { get; set; } | Hämtar eller ställer in ursprunget för Z-koordinaten. Om inställt på`null` standarden används. |
-| [ZScale](../../aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/zscale) { get; set; } | Hämtar eller ställer in skalan för Z-koordinaten. Om inställt på`null` standarden används. |
+| [MOrigin](../../aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/morigin/) { get; set; } | Hämtar eller ställer in ursprunget för M-koordinaten. Om inställt på`null` standarden används. |
+| [MScale](../../aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/mscale/) { get; set; } | Hämtar eller ställer in skalan för M-koordinaten. Om inställt på`null` standarden används. |
+| [XOrigin](../../aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/xorigin/) { get; set; } | Hämtar eller ställer in ursprunget för X-koordinaten. Om inställt på`null` standarden används. |
+| [XYScale](../../aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/xyscale/) { get; set; } | Hämtar eller ställer in skalan för X- och Y-koordinater. Om inställt på`null` standarden används. |
+| [YOrigin](../../aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/yorigin/) { get; set; } | Hämtar eller ställer in ursprunget för Y-koordinaten. Om inställt på`null` standarden används. |
+| [ZOrigin](../../aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/zorigin/) { get; set; } | Hämtar eller ställer in ursprunget för Z-koordinaten. Om inställt på`null` standarden används. |
+| [ZScale](../../aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/zscale/) { get; set; } | Hämtar eller ställer in skalan för Z-koordinaten. Om inställt på`null` standarden används. |
 
 ## Metoder
 
 | namn | Beskrivning |
 | --- | --- |
-| static [CreateFromRectangle](../../aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/createfromrectangle)(IPoint, IPoint) | Skapar nytt`FileGdbCoordinatePrecisionGrid` så att alla värden inom en rektangel är representerbara. |
+| static [CreateFromRectangle](../../aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/createfromrectangle/)(IPoint, IPoint) | Skapar nytt`FileGdbCoordinatePrecisionGrid` så att alla värden inom en rektangel är representerbara. |
 
 ### Anmärkningar
 
-Koordinatprecisionsrutnätet definierar den giltiga domänen och upplösningen av koordinater i FileGDB-lagret. Origin definierar sökvägen för att koordinera precisionsrutnätet i rymden. Skala definierar upplösningen (ju större skalan är, desto mer exakta värden skrivs). Precisionsrutnät anger det giltiga värdeintervallet för koordinater: Varje koordinat i[`VectorLayer`](../../aspose.gis/vectorlayer) måste vara inom detta intervall. Koordinater som ligger utanför intervallet kan orsaka läsfel senare och kommer att bearbetas fel av ArcGIS. Om du inte anger några egenskaper (behåll dem`null` ) standardvärdena kommer att användas. Standardvärden beror på[`SpatialReferenceSystem`](../../aspose.gis.spatialreferencing/spatialreferencesystem) av[`VectorLayer`](../../aspose.gis/vectorlayer) . För geografiskt[`SpatialReferenceSystem`](../../aspose.gis.spatialreferencing/spatialreferencesystem) standardvärden är: För projicerad[`SpatialReferenceSystem`](../../aspose.gis.spatialreferencing/spatialreferencesystem) standardvärden är: var`XYTolerans` ,`ZTolerans` och`MTolerans` är värden från[`FileGdbOptions`](../filegdboptions) .
+Koordinatprecisionsrutnätet definierar den giltiga domänen och upplösningen av koordinater i FileGDB-lagret. Origin definierar sökvägen för att koordinera precisionsrutnätet i rymden. Skala definierar upplösningen (ju större skalan är, desto mer exakta värden skrivs). Precisionsrutnät anger det giltiga värdeintervallet för koordinater: Varje koordinat i[`VectorLayer`](../../aspose.gis/vectorlayer/)måste vara inom detta intervall. Koordinater som ligger utanför intervallet kan orsaka läsfel senare och kommer att bearbetas fel av ArcGIS. Om du inte anger några egenskaper (behåll dem`null` ) standardvärdena kommer att användas. Standardvärden beror på[`SpatialReferenceSystem`](../../aspose.gis.spatialreferencing/spatialreferencesystem/) av[`VectorLayer`](../../aspose.gis/vectorlayer/) . För geografisk[`SpatialReferenceSystem`](../../aspose.gis.spatialreferencing/spatialreferencesystem/) standardvärden är: För projicerad[`SpatialReferenceSystem`](../../aspose.gis.spatialreferencing/spatialreferencesystem/) standardvärden är: var`XYTolerans` ,`ZTolerans` och`MTolerans` är värden från[`FileGdbOptions`](../filegdboptions/) .
 
 ```csharp
 XMin = XOrigin
@@ -75,7 +75,7 @@ MScale  = 1 / MTolerance  * 10
 
 ### Se även
 
-* namnutrymme [Aspose.Gis.Formats.FileGdb](../../aspose.gis.formats.filegdb)
+* namnutrymme [Aspose.Gis.Formats.FileGdb](../../aspose.gis.formats.filegdb/)
 * hopsättning [Aspose.GIS](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.GIS.dll -->
+

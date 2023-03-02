@@ -1,14 +1,14 @@
 ---
-title: CreateLayer
+title: GmlDriver.CreateLayer
 second_title: Riferimento API Aspose.GIS per .NET
-description: Crea un livello e lo apre per aggiungere nuove funzionalità.
+description: GmlDriver metodo. Crea un livello e lo apre per laggiunta di nuove funzionalità.
 type: docs
 weight: 40
 url: /it/net/aspose.gis.formats.gml/gmldriver/createlayer/
 ---
 ## CreateLayer(string, GmlOptions) {#createlayer_7}
 
-Crea un livello e lo apre per aggiungere nuove funzionalità.
+Crea un livello e lo apre per l'aggiunta di nuove funzionalità.
 
 ```csharp
 public VectorLayer CreateLayer(string path, GmlOptions options)
@@ -17,11 +17,11 @@ public VectorLayer CreateLayer(string path, GmlOptions options)
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
 | path | String | Percorso del file. |
-| options | GmlOptions | Opzioni specifiche del driver. |
+| options | GmlOptions | Opzioni specifiche del conducente. |
 
 ### Valore di ritorno
 
-Un'istanza di[`VectorLayer`](../../../aspose.gis/vectorlayer).
+Un'istanza di[`VectorLayer`](../../../aspose.gis/vectorlayer/).
 
 ### Eccezioni
 
@@ -31,17 +31,17 @@ Un'istanza di[`VectorLayer`](../../../aspose.gis/vectorlayer).
 
 ### Guarda anche
 
-* class [VectorLayer](../../../aspose.gis/vectorlayer)
-* class [GmlOptions](../../gmloptions)
-* class [GmlDriver](../../gmldriver)
-* spazio dei nomi [Aspose.Gis.Formats.Gml](../../gmldriver)
+* class [VectorLayer](../../../aspose.gis/vectorlayer/)
+* class [GmlOptions](../../gmloptions/)
+* class [GmlDriver](../)
+* spazio dei nomi [Aspose.Gis.Formats.Gml](../../gmldriver/)
 * assemblea [Aspose.GIS](../../../)
 
 ---
 
 ## CreateLayer(AbstractPath, DriverOptions, SpatialReferenceSystem) {#createlayer_2}
 
-Crea un livello e lo apre per aggiungere nuove funzionalità.
+Crea un livello e lo apre per l'aggiunta di nuove funzionalità.
 
 ```csharp
 public override VectorLayer CreateLayer(AbstractPath path, DriverOptions options, 
@@ -51,12 +51,12 @@ public override VectorLayer CreateLayer(AbstractPath path, DriverOptions options
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
 | path | AbstractPath | Percorso del file. |
-| options | DriverOptions | Opzioni specifiche del driver. |
+| options | DriverOptions | Opzioni specifiche del conducente. |
 | spatialReferenceSystem | SpatialReferenceSystem | Sistema di riferimento spaziale. |
 
 ### Valore di ritorno
 
-Un'istanza di[`VectorLayer`](../../../aspose.gis/vectorlayer).
+Un'istanza di[`VectorLayer`](../../../aspose.gis/vectorlayer/).
 
 ### Eccezioni
 
@@ -66,19 +66,19 @@ Un'istanza di[`VectorLayer`](../../../aspose.gis/vectorlayer).
 
 ### Guarda anche
 
-* class [VectorLayer](../../../aspose.gis/vectorlayer)
-* class [AbstractPath](../../../aspose.gis/abstractpath)
-* class [DriverOptions](../../../aspose.gis/driveroptions)
-* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem)
-* class [GmlDriver](../../gmldriver)
-* spazio dei nomi [Aspose.Gis.Formats.Gml](../../gmldriver)
+* class [VectorLayer](../../../aspose.gis/vectorlayer/)
+* class [AbstractPath](../../../aspose.gis/abstractpath/)
+* class [DriverOptions](../../../aspose.gis/driveroptions/)
+* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem/)
+* class [GmlDriver](../)
+* spazio dei nomi [Aspose.Gis.Formats.Gml](../../gmldriver/)
 * assemblea [Aspose.GIS](../../../)
 
 ---
 
 ## CreateLayer(string, GmlOptions, SpatialReferenceSystem) {#createlayer_8}
 
-Crea un livello e lo apre per aggiungere nuove funzionalità.
+Crea un livello e lo apre per l'aggiunta di nuove funzionalità.
 
 ```csharp
 public VectorLayer CreateLayer(string path, GmlOptions options, 
@@ -88,12 +88,12 @@ public VectorLayer CreateLayer(string path, GmlOptions options,
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
 | path | String | Percorso del file. |
-| options | GmlOptions | Opzioni specifiche del driver. |
+| options | GmlOptions | Opzioni specifiche del conducente. |
 | spatialReferenceSystem | SpatialReferenceSystem | Sistema di riferimento spaziale. |
 
 ### Valore di ritorno
 
-Un'istanza di[`VectorLayer`](../../../aspose.gis/vectorlayer).
+Un'istanza di[`VectorLayer`](../../../aspose.gis/vectorlayer/).
 
 ### Eccezioni
 
@@ -104,11 +104,11 @@ Un'istanza di[`VectorLayer`](../../../aspose.gis/vectorlayer).
 
 ### Guarda anche
 
-* class [VectorLayer](../../../aspose.gis/vectorlayer)
-* class [GmlOptions](../../gmloptions)
-* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem)
-* class [GmlDriver](../../gmldriver)
-* spazio dei nomi [Aspose.Gis.Formats.Gml](../../gmldriver)
+* class [VectorLayer](../../../aspose.gis/vectorlayer/)
+* class [GmlOptions](../../gmloptions/)
+* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem/)
+* class [GmlDriver](../)
+* spazio dei nomi [Aspose.Gis.Formats.Gml](../../gmldriver/)
 * assemblea [Aspose.GIS](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.GIS.dll -->
+

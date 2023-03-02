@@ -1,7 +1,7 @@
 ---
-title: CreateLayer
+title: FileDriver.CreateLayer
 second_title: Aspose.GIS for .NET API 参考
-description: 创建图层并打开它以进行附加
+description: FileDriver 方法. 创建图层并打开它以进行附加
 type: docs
 weight: 60
 url: /zh/net/aspose.gis/filedriver/createlayer/
@@ -20,22 +20,22 @@ public VectorLayer CreateLayer(string path)
 
 ### 返回值
 
-一个实例[`VectorLayer`](../../vectorlayer).
+的实例[`VectorLayer`](../../vectorlayer/).
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
 | ArgumentNullException | 路径是`null`. |
-| [GisException](../../gisexception) | 将功能写入文件时出错。 |
+| [GisException](../../gisexception/) | 将特征写入文件时出错。 |
 | IOException | 发生 I/O 错误。 |
-| NotSupportedException | 驱动程序无法创建矢量图层（请参阅[`CanCreateLayers`](../cancreatelayers)）。 |
+| NotSupportedException | 驱动程序无法创建矢量图层（请参阅[`CanCreateLayers`](../cancreatelayers/)). |
 
 ### 也可以看看
 
-* class [VectorLayer](../../vectorlayer)
-* class [FileDriver](../../filedriver)
-* 命名空间 [Aspose.Gis](../../filedriver)
+* class [VectorLayer](../../vectorlayer/)
+* class [FileDriver](../)
+* 命名空间 [Aspose.Gis](../../filedriver/)
 * 部件 [Aspose.GIS](../../../)
 
 ---
@@ -54,23 +54,23 @@ public VectorLayer CreateLayer(AbstractPath path)
 
 ### 返回值
 
-一个实例[`VectorLayer`](../../vectorlayer).
+的实例[`VectorLayer`](../../vectorlayer/).
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
 | ArgumentNullException | 路径是`null`. |
-| [GisException](../../gisexception) | 将功能写入文件时出错。 |
+| [GisException](../../gisexception/) | 将特征写入文件时出错。 |
 | IOException | 发生 I/O 错误。 |
-| NotSupportedException | 驱动程序无法创建矢量图层（请参阅[`CanCreateLayers`](../cancreatelayers)）。 |
+| NotSupportedException | 驱动程序无法创建矢量图层（请参阅[`CanCreateLayers`](../cancreatelayers/)). |
 
 ### 也可以看看
 
-* class [VectorLayer](../../vectorlayer)
-* class [AbstractPath](../../abstractpath)
-* class [FileDriver](../../filedriver)
-* 命名空间 [Aspose.Gis](../../filedriver)
+* class [VectorLayer](../../vectorlayer/)
+* class [AbstractPath](../../abstractpath/)
+* class [FileDriver](../)
+* 命名空间 [Aspose.Gis](../../filedriver/)
 * 部件 [Aspose.GIS](../../../)
 
 ---
@@ -90,7 +90,7 @@ public VectorLayer CreateLayer(string path, DriverOptions options)
 
 ### 返回值
 
-一个实例[`VectorLayer`](../../vectorlayer).
+的实例[`VectorLayer`](../../vectorlayer/).
 
 ### 例外
 
@@ -98,16 +98,16 @@ public VectorLayer CreateLayer(string path, DriverOptions options)
 | --- | --- |
 | ArgumentNullException | 路径是`null`. |
 | ArgumentException | 此驱动程序的选项对象类型不正确。 |
-| [GisException](../../gisexception) | 将功能写入文件时出错。 |
+| [GisException](../../gisexception/) | 将特征写入文件时出错。 |
 | IOException | 发生 I/O 错误。 |
-| NotSupportedException | 驱动程序无法创建矢量图层（请参阅[`CanCreateLayers`](../cancreatelayers)）。 |
+| NotSupportedException | 驱动程序无法创建矢量图层（请参阅[`CanCreateLayers`](../cancreatelayers/)). |
 
 ### 也可以看看
 
-* class [VectorLayer](../../vectorlayer)
-* class [DriverOptions](../../driveroptions)
-* class [FileDriver](../../filedriver)
-* 命名空间 [Aspose.Gis](../../filedriver)
+* class [VectorLayer](../../vectorlayer/)
+* class [DriverOptions](../../driveroptions/)
+* class [FileDriver](../)
+* 命名空间 [Aspose.Gis](../../filedriver/)
 * 部件 [Aspose.GIS](../../../)
 
 ---
@@ -127,7 +127,7 @@ public VectorLayer CreateLayer(AbstractPath path, DriverOptions options)
 
 ### 返回值
 
-一个实例[`VectorLayer`](../../vectorlayer).
+的实例[`VectorLayer`](../../vectorlayer/).
 
 ### 例外
 
@@ -135,17 +135,17 @@ public VectorLayer CreateLayer(AbstractPath path, DriverOptions options)
 | --- | --- |
 | ArgumentNullException | 路径是`null`. |
 | ArgumentException | 此驱动程序的选项对象类型不正确。 |
-| [GisException](../../gisexception) | 将功能写入文件时出错。 |
+| [GisException](../../gisexception/) | 将特征写入文件时出错。 |
 | IOException | 发生 I/O 错误。 |
-| NotSupportedException | 驱动程序无法创建矢量图层（请参阅[`CanCreateLayers`](../cancreatelayers)）。 |
+| NotSupportedException | 驱动程序无法创建矢量图层（请参阅[`CanCreateLayers`](../cancreatelayers/)). |
 
 ### 也可以看看
 
-* class [VectorLayer](../../vectorlayer)
-* class [AbstractPath](../../abstractpath)
-* class [DriverOptions](../../driveroptions)
-* class [FileDriver](../../filedriver)
-* 命名空间 [Aspose.Gis](../../filedriver)
+* class [VectorLayer](../../vectorlayer/)
+* class [AbstractPath](../../abstractpath/)
+* class [DriverOptions](../../driveroptions/)
+* class [FileDriver](../)
+* 命名空间 [Aspose.Gis](../../filedriver/)
 * 部件 [Aspose.GIS](../../../)
 
 ---
@@ -165,23 +165,23 @@ public VectorLayer CreateLayer(string path, SpatialReferenceSystem spatialRefere
 
 ### 返回值
 
-一个实例[`VectorLayer`](../../vectorlayer).
+的实例[`VectorLayer`](../../vectorlayer/).
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
 | ArgumentNullException | 路径是`null`. |
-| [GisException](../../gisexception) | 将功能写入文件时出错。 |
+| [GisException](../../gisexception/) | 将特征写入文件时出错。 |
 | IOException | 发生 I/O 错误。 |
-| NotSupportedException | 驱动程序不支持空间参考系统。 使用[`SupportsSpatialReferenceSystem`](../supportsspatialreferencesystem)检查是否支持空间参考系统。 |
+| NotSupportedException | 驱动程序不支持空间参考系统。 使用[`SupportsSpatialReferenceSystem`](../supportsspatialreferencesystem/)检查是否支持空间参考系统。 |
 
 ### 也可以看看
 
-* class [VectorLayer](../../vectorlayer)
-* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem)
-* class [FileDriver](../../filedriver)
-* 命名空间 [Aspose.Gis](../../filedriver)
+* class [VectorLayer](../../vectorlayer/)
+* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem/)
+* class [FileDriver](../)
+* 命名空间 [Aspose.Gis](../../filedriver/)
 * 部件 [Aspose.GIS](../../../)
 
 ---
@@ -201,24 +201,24 @@ public VectorLayer CreateLayer(AbstractPath path, SpatialReferenceSystem spatial
 
 ### 返回值
 
-一个实例[`VectorLayer`](../../vectorlayer).
+的实例[`VectorLayer`](../../vectorlayer/).
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
 | ArgumentNullException | 路径是`null`. |
-| [GisException](../../gisexception) | 将功能写入文件时出错。 |
+| [GisException](../../gisexception/) | 将特征写入文件时出错。 |
 | IOException | 发生 I/O 错误。 |
-| NotSupportedException | 驱动程序不支持空间参考系统。 使用[`SupportsSpatialReferenceSystem`](../supportsspatialreferencesystem)检查是否支持空间参考系统。 |
+| NotSupportedException | 驱动程序不支持空间参考系统。 使用[`SupportsSpatialReferenceSystem`](../supportsspatialreferencesystem/)检查是否支持空间参考系统。 |
 
 ### 也可以看看
 
-* class [VectorLayer](../../vectorlayer)
-* class [AbstractPath](../../abstractpath)
-* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem)
-* class [FileDriver](../../filedriver)
-* 命名空间 [Aspose.Gis](../../filedriver)
+* class [VectorLayer](../../vectorlayer/)
+* class [AbstractPath](../../abstractpath/)
+* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem/)
+* class [FileDriver](../)
+* 命名空间 [Aspose.Gis](../../filedriver/)
 * 部件 [Aspose.GIS](../../../)
 
 ---
@@ -240,7 +240,7 @@ public VectorLayer CreateLayer(string path, DriverOptions options,
 
 ### 返回值
 
-一个实例[`VectorLayer`](../../vectorlayer).
+的实例[`VectorLayer`](../../vectorlayer/).
 
 ### 例外
 
@@ -248,18 +248,18 @@ public VectorLayer CreateLayer(string path, DriverOptions options,
 | --- | --- |
 | ArgumentNullException | 路径是`null`. |
 | ArgumentException | 此驱动程序的选项对象类型不正确。 |
-| [GisException](../../gisexception) | 将功能写入文件时出错。 |
+| [GisException](../../gisexception/) | 将特征写入文件时出错。 |
 | IOException | 发生 I/O 错误。 |
-| NotSupportedException | 驱动程序不支持空间参考系统。 使用[`SupportsSpatialReferenceSystem`](../supportsspatialreferencesystem)检查是否支持空间参考系统。 |
-| NotSupportedException | 驱动程序无法创建矢量图层（请参阅[`CanCreateLayers`](../cancreatelayers)）。 |
+| NotSupportedException | 驱动程序不支持空间参考系统。 使用[`SupportsSpatialReferenceSystem`](../supportsspatialreferencesystem/)检查是否支持空间参考系统。 |
+| NotSupportedException | 驱动程序无法创建矢量图层（请参阅[`CanCreateLayers`](../cancreatelayers/)). |
 
 ### 也可以看看
 
-* class [VectorLayer](../../vectorlayer)
-* class [DriverOptions](../../driveroptions)
-* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem)
-* class [FileDriver](../../filedriver)
-* 命名空间 [Aspose.Gis](../../filedriver)
+* class [VectorLayer](../../vectorlayer/)
+* class [DriverOptions](../../driveroptions/)
+* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem/)
+* class [FileDriver](../)
+* 命名空间 [Aspose.Gis](../../filedriver/)
 * 部件 [Aspose.GIS](../../../)
 
 ---
@@ -281,7 +281,7 @@ public abstract VectorLayer CreateLayer(AbstractPath path, DriverOptions options
 
 ### 返回值
 
-一个实例[`VectorLayer`](../../vectorlayer).
+的实例[`VectorLayer`](../../vectorlayer/).
 
 ### 例外
 
@@ -289,19 +289,19 @@ public abstract VectorLayer CreateLayer(AbstractPath path, DriverOptions options
 | --- | --- |
 | ArgumentNullException | 路径是`null`. |
 | ArgumentException | 此驱动程序的选项对象类型不正确。 |
-| [GisException](../../gisexception) | 将功能写入文件时出错。 |
+| [GisException](../../gisexception/) | 将特征写入文件时出错。 |
 | IOException | 发生 I/O 错误。 |
-| NotSupportedException | 驱动程序不支持空间参考系统。 使用[`SupportsSpatialReferenceSystem`](../supportsspatialreferencesystem)检查是否支持空间参考系统。 |
-| NotSupportedException | 驱动程序无法创建矢量图层（请参阅[`CanCreateLayers`](../cancreatelayers)）。 |
+| NotSupportedException | 驱动程序不支持空间参考系统。 使用[`SupportsSpatialReferenceSystem`](../supportsspatialreferencesystem/)检查是否支持空间参考系统。 |
+| NotSupportedException | 驱动程序无法创建矢量图层（请参阅[`CanCreateLayers`](../cancreatelayers/)). |
 
 ### 也可以看看
 
-* class [VectorLayer](../../vectorlayer)
-* class [AbstractPath](../../abstractpath)
-* class [DriverOptions](../../driveroptions)
-* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem)
-* class [FileDriver](../../filedriver)
-* 命名空间 [Aspose.Gis](../../filedriver)
+* class [VectorLayer](../../vectorlayer/)
+* class [AbstractPath](../../abstractpath/)
+* class [DriverOptions](../../driveroptions/)
+* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem/)
+* class [FileDriver](../)
+* 命名空间 [Aspose.Gis](../../filedriver/)
 * 部件 [Aspose.GIS](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.GIS.dll -->
+

@@ -1,14 +1,14 @@
 ---
-title: ProjectedSpatialReferenceSystemParameters
+title: Class ProjectedSpatialReferenceSystemParameters
 second_title: Référence de l'API Aspose.GIS pour .NET
-description: Paramètres pour créer le SRS projeté. Certains paramètres ont des valeurs par défaut. Certains paramètres ont des valeurs par défaut raisonnables vous navez donc pas à les affecter uniquement. Si vous affecteznull à ces paramètres une valeur par défaut sera utilisée. ProjectionMethodName./projectedspatialreferencesystemparameters/projectionmethodname etBase./projectedspatialreferencesystemparameters/base nont pas de valeurs par défaut  vous devez attribuer des nonnull valeur à ces propriétés.
+description: Aspose.Gis.SpatialReferencing.ProjectedSpatialReferenceSystemParameters classe. Paramètres pour créer le SRS projeté. Certains paramètres ont des valeurs par défaut. Certains paramètres ont des valeurs par défaut raisonnables vous navez donc pas à les affecter uniquement. Si vous affecteznull à ces paramètres une valeur par défaut sera utilisée. ProjectionMethodName etBase nont pas de valeurs par défaut  vous devez attribuer des nonnull valeur à ces propriétés.
 type: docs
-weight: 2130
+weight: 2230
 url: /fr/net/aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/
 ---
 ## ProjectedSpatialReferenceSystemParameters class
 
-Paramètres pour créer le SRS projeté. Certains paramètres ont des valeurs par défaut. Certains paramètres ont des valeurs par défaut raisonnables, vous n'avez donc pas à les affecter uniquement. Si vous affectez`null` à ces paramètres, une valeur par défaut sera utilisée. [`ProjectionMethodName`](./projectionmethodname) et[`Base`](./base) n'ont pas de valeurs par défaut - vous devez attribuer des non`null` valeur à ces propriétés.
+Paramètres pour créer le SRS projeté. Certains paramètres ont des valeurs par défaut. Certains paramètres ont des valeurs par défaut raisonnables, vous n'avez donc pas à les affecter uniquement. Si vous affectez`null` à ces paramètres, une valeur par défaut sera utilisée. [`ProjectionMethodName`](./projectionmethodname/) et[`Base`](./base/) n'ont pas de valeurs par défaut - vous devez attribuer des non`null` valeur à ces propriétés.
 
 ```csharp
 public class ProjectedSpatialReferenceSystemParameters
@@ -18,31 +18,31 @@ public class ProjectedSpatialReferenceSystemParameters
 
 | Nom | La description |
 | --- | --- |
-| [ProjectedSpatialReferenceSystemParameters](projectedspatialreferencesystemparameters)() | Default_Constructor |
+| [ProjectedSpatialReferenceSystemParameters](projectedspatialreferencesystemparameters/)() | Default_Constructor |
 
 ## Propriétés
 
 | Nom | La description |
 | --- | --- |
-| [AxisesOrder](../../aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/axisesorder) { get; set; } | Ordre des axes. Par défaut àXY . |
-| [Base](../../aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/base) { get; set; } | SRS géographique de base (SRS auquel la projection est appliquée). Vous DEVEZ définir cette propriété sur non`null` valeur afin de créer un SRS valide, cette propriété n'a pas de valeur par défaut. |
-| [LinearUnit](../../aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/linearunit) { get; set; } | Unités à utiliser dans ce SRS. La valeur par défaut est[`Meter`](../unit/meter) . |
-| [Name](../../aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/name) { get; set; } | Nom du SRS projeté. La valeur par défaut est "Sans nom". |
-| [ProjectionMethodIdentifier](../../aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/projectionmethodidentifier) { get; set; } | Identifiant de la méthode de projection. Il n'y a pas de valeur par défaut, vous pouvez définir ce paramètre sur non`null` value, si vous souhaitez attacher un identifiant à la projection. Si vous le faites, c'est à vous de vous assurer que l'identifiant est cohérent avec le nom de la méthode de projection (le nom de la méthode de projection ne changera pas lorsque vous définirez cette propriété). |
-| [ProjectionMethodName](../../aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/projectionmethodname) { get; set; } | Nom de la méthode de projection. Il n'y a pas de valeur par défaut et vous DEVEZ définir ce paramètre sur non`null` valeur, puisque le SRS projeté sans nom de projection est inutile. |
-| [XAxis](../../aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/xaxis) { get; set; } | Axe qui décrit la dimension X (horizontale). Par défaut, axe avec direction est. |
-| [YAxis](../../aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/yaxis) { get; set; } | Axe décrivant la dimension Y (verticale). Par défaut, axe avec direction nord. |
+| [AxisesOrder](../../aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/axisesorder/) { get; set; } | Ordre des axes. Par défaut àXY . |
+| [Base](../../aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/base/) { get; set; } | SRS géographique de base (SRS auquel la projection est appliquée). Vous DEVEZ définir cette propriété sur non`null` valeur afin de créer un SRS valide, cette propriété n'a pas de valeur par défaut. |
+| [LinearUnit](../../aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/linearunit/) { get; set; } | Unités à utiliser dans ce SRS. La valeur par défaut est[`Meter`](../unit/meter/) . |
+| [Name](../../aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/name/) { get; set; } | Nom du SRS projeté. La valeur par défaut est "Sans nom". |
+| [ProjectionMethodIdentifier](../../aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/projectionmethodidentifier/) { get; set; } | Identifiant de la méthode de projection. Il n'y a pas de valeur par défaut, vous pouvez définir ce paramètre sur non`null` value, si vous souhaitez attacher un identifiant à la projection. Si vous le faites, c'est à vous de vous assurer que l'identifiant est cohérent avec le nom de la méthode de projection (le nom de la méthode de projection ne changera pas lorsque vous définirez cette propriété). |
+| [ProjectionMethodName](../../aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/projectionmethodname/) { get; set; } | Nom de la méthode de projection. Il n'y a pas de valeur par défaut et vous DEVEZ définir ce paramètre sur non`null` valeur, puisque le SRS projeté sans nom de projection est inutile. |
+| [XAxis](../../aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/xaxis/) { get; set; } | Axe qui décrit la dimension X (horizontale). Par défaut, axe avec direction est. |
+| [YAxis](../../aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/yaxis/) { get; set; } | Axe décrivant la dimension Y (verticale). Par défaut, axe avec direction nord. |
 
 ## Méthodes
 
 | Nom | La description |
 | --- | --- |
-| [AddProjectionParameter](../../aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/addprojectionparameter)(string, double) | Ajoute un paramètre de projection à ce SRS. Si un paramètre avec un tel nom a déjà été ajouté - mettez-le à jour. |
-| [GetProjectionParameter](../../aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/getprojectionparameter)(string) | Obtient le paramètre de projection avec le nom spécifié. |
+| [AddProjectionParameter](../../aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/addprojectionparameter/)(string, double) | Ajoute un paramètre de projection à ce SRS. Si un paramètre avec un tel nom a déjà été ajouté - mettez-le à jour. |
+| [GetProjectionParameter](../../aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/getprojectionparameter/)(string) | Obtient le paramètre de projection avec le nom spécifié. |
 
 ### Voir également
 
-* espace de noms [Aspose.Gis.SpatialReferencing](../../aspose.gis.spatialreferencing)
+* espace de noms [Aspose.Gis.SpatialReferencing](../../aspose.gis.spatialreferencing/)
 * Assemblée [Aspose.GIS](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.GIS.dll -->
+

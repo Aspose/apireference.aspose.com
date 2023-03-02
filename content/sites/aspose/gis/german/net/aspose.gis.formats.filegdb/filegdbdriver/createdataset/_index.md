@@ -1,7 +1,7 @@
 ---
-title: CreateDataset
+title: FileGdbDriver.CreateDataset
 second_title: Aspose.GIS für .NET-API-Referenz
-description: Erstellt einen Datensatz.
+description: FileGdbDriver methode. Erstellt einen Datensatz.
 type: docs
 weight: 50
 url: /de/net/aspose.gis.formats.filegdb/filegdbdriver/createdataset/
@@ -21,7 +21,7 @@ public Dataset CreateDataset(string path, FileGdbOptions options)
 
 ### Rückgabewert
 
-Eine Instanz von[`Dataset`](../../../aspose.gis/dataset).
+Eine Instanz von[`Dataset`](../../../aspose.gis/dataset/).
 
 ### Ausnahmen
 
@@ -29,17 +29,17 @@ Eine Instanz von[`Dataset`](../../../aspose.gis/dataset).
 | --- | --- |
 | ArgumentException | Das Optionsobjekt hat einen falschen Typ für diesen Treiber. |
 | ArgumentNullException | Der Weg ist`null`. |
-| [GisException](../../../aspose.gis/gisexception) | Fehler beim Lesen des Datensatzes. |
+| [GisException](../../../aspose.gis/gisexception/) | Fehler beim Lesen des Datensatzes. |
 | IOException | Ein E/A-Fehler ist aufgetreten. |
-| NotSupportedException | Treiber kann Datensätze nicht öffnen (siehe[`CanOpenDatasets`](../../../aspose.gis/filedriver/canopendatasets)). |
+| NotSupportedException | Treiber kann Datensätze nicht öffnen (siehe[`CanOpenDatasets`](../../../aspose.gis/filedriver/canopendatasets/)). |
 | InvalidOperationException | Datensatz ist bereits vorhanden. |
 
 ### Siehe auch
 
-* class [Dataset](../../../aspose.gis/dataset)
-* class [FileGdbOptions](../../filegdboptions)
-* class [FileGdbDriver](../../filegdbdriver)
-* namensraum [Aspose.Gis.Formats.FileGdb](../../filegdbdriver)
+* class [Dataset](../../../aspose.gis/dataset/)
+* class [FileGdbOptions](../../filegdboptions/)
+* class [FileGdbDriver](../)
+* namensraum [Aspose.Gis.Formats.FileGdb](../../filegdbdriver/)
 * Montage [Aspose.GIS](../../../)
 
 ---
@@ -59,7 +59,7 @@ public override Dataset CreateDataset(AbstractPath path, DriverOptions options)
 
 ### Rückgabewert
 
-Eine Instanz von[`Dataset`](../../../aspose.gis/dataset).
+Eine Instanz von[`Dataset`](../../../aspose.gis/dataset/).
 
 ### Ausnahmen
 
@@ -67,18 +67,18 @@ Eine Instanz von[`Dataset`](../../../aspose.gis/dataset).
 | --- | --- |
 | ArgumentException | Das Optionsobjekt hat einen falschen Typ für diesen Treiber. |
 | ArgumentNullException | Der Weg ist`null`. |
-| [GisException](../../../aspose.gis/gisexception) | Fehler beim Lesen des Datensatzes. |
+| [GisException](../../../aspose.gis/gisexception/) | Fehler beim Lesen des Datensatzes. |
 | IOException | Ein E/A-Fehler ist aufgetreten. |
-| NotSupportedException | Treiber kann Datensätze nicht öffnen (siehe[`CanOpenDatasets`](../../../aspose.gis/filedriver/canopendatasets)). |
+| NotSupportedException | Treiber kann Datensätze nicht öffnen (siehe[`CanOpenDatasets`](../../../aspose.gis/filedriver/canopendatasets/)). |
 | InvalidOperationException | Datensatz ist bereits vorhanden. |
 
 ### Siehe auch
 
-* class [Dataset](../../../aspose.gis/dataset)
-* class [AbstractPath](../../../aspose.gis/abstractpath)
-* class [DriverOptions](../../../aspose.gis/driveroptions)
-* class [FileGdbDriver](../../filegdbdriver)
-* namensraum [Aspose.Gis.Formats.FileGdb](../../filegdbdriver)
+* class [Dataset](../../../aspose.gis/dataset/)
+* class [AbstractPath](../../../aspose.gis/abstractpath/)
+* class [DriverOptions](../../../aspose.gis/driveroptions/)
+* class [FileGdbDriver](../)
+* namensraum [Aspose.Gis.Formats.FileGdb](../../filegdbdriver/)
 * Montage [Aspose.GIS](../../../)
 
 ---
@@ -98,7 +98,7 @@ public Dataset CreateDataset(AbstractPath path, FileGdbOptions options)
 
 ### Rückgabewert
 
-Eine Instanz von[`Dataset`](../../../aspose.gis/dataset).
+Eine Instanz von[`Dataset`](../../../aspose.gis/dataset/).
 
 ### Ausnahmen
 
@@ -106,18 +106,18 @@ Eine Instanz von[`Dataset`](../../../aspose.gis/dataset).
 | --- | --- |
 | ArgumentException | Das Optionsobjekt hat einen falschen Typ für diesen Treiber. |
 | ArgumentNullException | Der Weg ist`null`. |
-| [GisException](../../../aspose.gis/gisexception) | Fehler beim Lesen des Datensatzes. |
+| [GisException](../../../aspose.gis/gisexception/) | Fehler beim Lesen des Datensatzes. |
 | IOException | Ein E/A-Fehler ist aufgetreten. |
-| NotSupportedException | Treiber kann Datensätze nicht öffnen (siehe[`CanOpenDatasets`](../../../aspose.gis/filedriver/canopendatasets)). |
+| NotSupportedException | Treiber kann Datensätze nicht öffnen (siehe[`CanOpenDatasets`](../../../aspose.gis/filedriver/canopendatasets/)). |
 | InvalidOperationException | Datensatz ist bereits vorhanden. |
 
 ### Siehe auch
 
-* class [Dataset](../../../aspose.gis/dataset)
-* class [AbstractPath](../../../aspose.gis/abstractpath)
-* class [FileGdbOptions](../../filegdboptions)
-* class [FileGdbDriver](../../filegdbdriver)
-* namensraum [Aspose.Gis.Formats.FileGdb](../../filegdbdriver)
+* class [Dataset](../../../aspose.gis/dataset/)
+* class [AbstractPath](../../../aspose.gis/abstractpath/)
+* class [FileGdbOptions](../../filegdboptions/)
+* class [FileGdbDriver](../)
+* namensraum [Aspose.Gis.Formats.FileGdb](../../filegdbdriver/)
 * Montage [Aspose.GIS](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.GIS.dll -->
+

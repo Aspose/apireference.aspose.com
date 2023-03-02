@@ -1,14 +1,14 @@
 ---
-title: Create
+title: VectorLayer.Create
 second_title: Riferimento API Aspose.GIS per .NET
-description: Crea il livello e lo apre per aggiungere nuove funzionalità.
+description: VectorLayer metodo. Crea il layer e lo apre per laggiunta di nuove feature.
 type: docs
 weight: 10
 url: /it/net/aspose.gis/vectorlayer/create/
 ---
 ## Create(string, FileDriver) {#create_4}
 
-Crea il livello e lo apre per aggiungere nuove funzionalità.
+Crea il layer e lo apre per l'aggiunta di nuove feature.
 
 ```csharp
 public static VectorLayer Create(string path, FileDriver driver)
@@ -28,22 +28,22 @@ Un livello di sola scrittura.
 | eccezione | condizione |
 | --- | --- |
 | ArgumentNullException | Il percorso è`null`. |
-| ArgumentException | L'oggetto Opzioni ha un tipo errato per questo driver. |
-| [GisException](../../gisexception) | Errore durante la scrittura della funzione nel file. |
+| ArgumentException | L'oggetto Opzioni ha un tipo non corretto per questo driver. |
+| [GisException](../../gisexception/) | Errore durante la scrittura dell'elemento nel file. |
 | IOException | Si è verificato un errore di I/O. |
 
 ### Guarda anche
 
-* class [FileDriver](../../filedriver)
-* class [VectorLayer](../../vectorlayer)
-* spazio dei nomi [Aspose.Gis](../../vectorlayer)
+* class [FileDriver](../../filedriver/)
+* class [VectorLayer](../)
+* spazio dei nomi [Aspose.Gis](../../vectorlayer/)
 * assemblea [Aspose.GIS](../../../)
 
 ---
 
 ## Create(string, FileDriver, DriverOptions) {#create_5}
 
-Crea il livello e lo apre per aggiungere nuove funzionalità.
+Crea il layer e lo apre per l'aggiunta di nuove feature.
 
 ```csharp
 public static VectorLayer Create(string path, FileDriver driver, DriverOptions options)
@@ -53,7 +53,7 @@ public static VectorLayer Create(string path, FileDriver driver, DriverOptions o
 | --- | --- | --- |
 | path | String | Percorso del file. |
 | driver | FileDriver | Driver da usare. |
-| options | DriverOptions | Opzioni specifiche del driver. |
+| options | DriverOptions | Opzioni specifiche del conducente. |
 
 ### Valore di ritorno
 
@@ -64,23 +64,23 @@ Un livello di sola scrittura.
 | eccezione | condizione |
 | --- | --- |
 | ArgumentNullException | Il percorso è`null`. |
-| ArgumentException | L'oggetto Opzioni ha un tipo errato per questo driver. |
-| [GisException](../../gisexception) | Errore durante la scrittura della funzione nel file. |
+| ArgumentException | L'oggetto Opzioni ha un tipo non corretto per questo driver. |
+| [GisException](../../gisexception/) | Errore durante la scrittura dell'elemento nel file. |
 | IOException | Si è verificato un errore di I/O. |
 
 ### Guarda anche
 
-* class [FileDriver](../../filedriver)
-* class [DriverOptions](../../driveroptions)
-* class [VectorLayer](../../vectorlayer)
-* spazio dei nomi [Aspose.Gis](../../vectorlayer)
+* class [FileDriver](../../filedriver/)
+* class [DriverOptions](../../driveroptions/)
+* class [VectorLayer](../)
+* spazio dei nomi [Aspose.Gis](../../vectorlayer/)
 * assemblea [Aspose.GIS](../../../)
 
 ---
 
 ## Create(AbstractPath, FileDriver) {#create}
 
-Crea il livello e lo apre per aggiungere nuove funzionalità.
+Crea il layer e lo apre per l'aggiunta di nuove feature.
 
 ```csharp
 public static VectorLayer Create(AbstractPath path, FileDriver driver)
@@ -100,23 +100,23 @@ Un livello di sola scrittura.
 | eccezione | condizione |
 | --- | --- |
 | ArgumentNullException | Il percorso è`null`. |
-| ArgumentException | L'oggetto Opzioni ha un tipo errato per questo driver. |
-| [GisException](../../gisexception) | Errore durante la scrittura della funzione nel file. |
+| ArgumentException | L'oggetto Opzioni ha un tipo non corretto per questo driver. |
+| [GisException](../../gisexception/) | Errore durante la scrittura dell'elemento nel file. |
 | IOException | Si è verificato un errore di I/O. |
 
 ### Guarda anche
 
-* class [AbstractPath](../../abstractpath)
-* class [FileDriver](../../filedriver)
-* class [VectorLayer](../../vectorlayer)
-* spazio dei nomi [Aspose.Gis](../../vectorlayer)
+* class [AbstractPath](../../abstractpath/)
+* class [FileDriver](../../filedriver/)
+* class [VectorLayer](../)
+* spazio dei nomi [Aspose.Gis](../../vectorlayer/)
 * assemblea [Aspose.GIS](../../../)
 
 ---
 
 ## Create(AbstractPath, FileDriver, DriverOptions) {#create_1}
 
-Crea il livello e lo apre per aggiungere nuove funzionalità.
+Crea il layer e lo apre per l'aggiunta di nuove feature.
 
 ```csharp
 public static VectorLayer Create(AbstractPath path, FileDriver driver, DriverOptions options)
@@ -126,7 +126,7 @@ public static VectorLayer Create(AbstractPath path, FileDriver driver, DriverOpt
 | --- | --- | --- |
 | path | AbstractPath | Percorso del file. |
 | driver | FileDriver | Driver da usare. |
-| options | DriverOptions | Opzioni specifiche del driver. |
+| options | DriverOptions | Opzioni specifiche del conducente. |
 
 ### Valore di ritorno
 
@@ -137,24 +137,24 @@ Un livello di sola scrittura.
 | eccezione | condizione |
 | --- | --- |
 | ArgumentNullException | Il percorso è`null`. |
-| ArgumentException | L'oggetto Opzioni ha un tipo errato per questo driver. |
-| [GisException](../../gisexception) | Errore durante la scrittura della funzione nel file. |
+| ArgumentException | L'oggetto Opzioni ha un tipo non corretto per questo driver. |
+| [GisException](../../gisexception/) | Errore durante la scrittura dell'elemento nel file. |
 | IOException | Si è verificato un errore di I/O. |
 
 ### Guarda anche
 
-* class [AbstractPath](../../abstractpath)
-* class [FileDriver](../../filedriver)
-* class [DriverOptions](../../driveroptions)
-* class [VectorLayer](../../vectorlayer)
-* spazio dei nomi [Aspose.Gis](../../vectorlayer)
+* class [AbstractPath](../../abstractpath/)
+* class [FileDriver](../../filedriver/)
+* class [DriverOptions](../../driveroptions/)
+* class [VectorLayer](../)
+* spazio dei nomi [Aspose.Gis](../../vectorlayer/)
 * assemblea [Aspose.GIS](../../../)
 
 ---
 
 ## Create(string, FileDriver, SpatialReferenceSystem) {#create_7}
 
-Crea il livello e lo apre per aggiungerlo.
+Crea il livello e lo apre per l'aggiunta.
 
 ```csharp
 public static VectorLayer Create(string path, FileDriver driver, 
@@ -169,30 +169,30 @@ public static VectorLayer Create(string path, FileDriver driver,
 
 ### Valore di ritorno
 
-Un'istanza di[`VectorLayer`](../../vectorlayer).
+Un'istanza di[`VectorLayer`](../).
 
 ### Eccezioni
 
 | eccezione | condizione |
 | --- | --- |
 | ArgumentNullException | Il percorso è`null`. |
-| [GisException](../../gisexception) | Errore durante la lettura o la scrittura della funzione nel/dal file. |
+| [GisException](../../gisexception/) | Errore durante la lettura o la scrittura dell'elemento nel/dal file. |
 | IOException | Si è verificato un errore di I/O. |
-| NotSupportedException | Il sistema di riferimento spaziale non è supportato dal driver. Utilizzare[`SupportsSpatialReferenceSystem`](../../filedriver/supportsspatialreferencesystem) per verificare se il sistema di riferimento spaziale è supportato. |
+| NotSupportedException | Il sistema di riferimento spaziale non è supportato dal driver. Utilizzare[`SupportsSpatialReferenceSystem`](../../filedriver/supportsspatialreferencesystem/) per verificare se il sistema di riferimento spaziale è supportato. |
 
 ### Guarda anche
 
-* class [FileDriver](../../filedriver)
-* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem)
-* class [VectorLayer](../../vectorlayer)
-* spazio dei nomi [Aspose.Gis](../../vectorlayer)
+* class [FileDriver](../../filedriver/)
+* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem/)
+* class [VectorLayer](../)
+* spazio dei nomi [Aspose.Gis](../../vectorlayer/)
 * assemblea [Aspose.GIS](../../../)
 
 ---
 
 ## Create(AbstractPath, FileDriver, SpatialReferenceSystem) {#create_3}
 
-Crea il livello e lo apre per aggiungerlo.
+Crea il livello e lo apre per l'aggiunta.
 
 ```csharp
 public static VectorLayer Create(AbstractPath path, FileDriver driver, 
@@ -207,31 +207,31 @@ public static VectorLayer Create(AbstractPath path, FileDriver driver,
 
 ### Valore di ritorno
 
-Un'istanza di[`VectorLayer`](../../vectorlayer).
+Un'istanza di[`VectorLayer`](../).
 
 ### Eccezioni
 
 | eccezione | condizione |
 | --- | --- |
 | ArgumentNullException | Il percorso è`null`. |
-| [GisException](../../gisexception) | Errore durante la lettura o la scrittura della funzione nel/dal file. |
+| [GisException](../../gisexception/) | Errore durante la lettura o la scrittura dell'elemento nel/dal file. |
 | IOException | Si è verificato un errore di I/O. |
-| NotSupportedException | Il sistema di riferimento spaziale non è supportato dal driver. Utilizzare[`SupportsSpatialReferenceSystem`](../../filedriver/supportsspatialreferencesystem) per verificare se il sistema di riferimento spaziale è supportato. |
+| NotSupportedException | Il sistema di riferimento spaziale non è supportato dal driver. Utilizzare[`SupportsSpatialReferenceSystem`](../../filedriver/supportsspatialreferencesystem/) per verificare se il sistema di riferimento spaziale è supportato. |
 
 ### Guarda anche
 
-* class [AbstractPath](../../abstractpath)
-* class [FileDriver](../../filedriver)
-* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem)
-* class [VectorLayer](../../vectorlayer)
-* spazio dei nomi [Aspose.Gis](../../vectorlayer)
+* class [AbstractPath](../../abstractpath/)
+* class [FileDriver](../../filedriver/)
+* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem/)
+* class [VectorLayer](../)
+* spazio dei nomi [Aspose.Gis](../../vectorlayer/)
 * assemblea [Aspose.GIS](../../../)
 
 ---
 
 ## Create(string, FileDriver, DriverOptions, SpatialReferenceSystem) {#create_6}
 
-Crea il livello e lo apre per aggiungerlo.
+Crea il livello e lo apre per l'aggiunta.
 
 ```csharp
 public static VectorLayer Create(string path, FileDriver driver, DriverOptions options, 
@@ -242,37 +242,37 @@ public static VectorLayer Create(string path, FileDriver driver, DriverOptions o
 | --- | --- | --- |
 | path | String | Percorso del file. |
 | driver | FileDriver | Driver da usare. |
-| options | DriverOptions | Opzioni specifiche del driver. |
+| options | DriverOptions | Opzioni specifiche del conducente. |
 | spatialReferenceSystem | SpatialReferenceSystem | Sistema di riferimento spaziale. |
 
 ### Valore di ritorno
 
-Un'istanza di[`VectorLayer`](../../vectorlayer).
+Un'istanza di[`VectorLayer`](../).
 
 ### Eccezioni
 
 | eccezione | condizione |
 | --- | --- |
 | ArgumentNullException | Il percorso è`null`. |
-| ArgumentException | L'oggetto Opzioni ha un tipo errato per questo driver. |
-| [GisException](../../gisexception) | Errore durante la lettura o la scrittura della funzione nel/dal file. |
+| ArgumentException | L'oggetto Opzioni ha un tipo non corretto per questo driver. |
+| [GisException](../../gisexception/) | Errore durante la lettura o la scrittura dell'elemento nel/dal file. |
 | IOException | Si è verificato un errore di I/O. |
-| NotSupportedException | Il sistema di riferimento spaziale non è supportato dal driver. Utilizzare[`SupportsSpatialReferenceSystem`](../../filedriver/supportsspatialreferencesystem) per verificare se il sistema di riferimento spaziale è supportato. |
+| NotSupportedException | Il sistema di riferimento spaziale non è supportato dal driver. Utilizzare[`SupportsSpatialReferenceSystem`](../../filedriver/supportsspatialreferencesystem/) per verificare se il sistema di riferimento spaziale è supportato. |
 
 ### Guarda anche
 
-* class [FileDriver](../../filedriver)
-* class [DriverOptions](../../driveroptions)
-* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem)
-* class [VectorLayer](../../vectorlayer)
-* spazio dei nomi [Aspose.Gis](../../vectorlayer)
+* class [FileDriver](../../filedriver/)
+* class [DriverOptions](../../driveroptions/)
+* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem/)
+* class [VectorLayer](../)
+* spazio dei nomi [Aspose.Gis](../../vectorlayer/)
 * assemblea [Aspose.GIS](../../../)
 
 ---
 
 ## Create(AbstractPath, FileDriver, DriverOptions, SpatialReferenceSystem) {#create_2}
 
-Crea il livello e lo apre per aggiungerlo.
+Crea il livello e lo apre per l'aggiunta.
 
 ```csharp
 public static VectorLayer Create(AbstractPath path, FileDriver driver, DriverOptions options, 
@@ -283,31 +283,31 @@ public static VectorLayer Create(AbstractPath path, FileDriver driver, DriverOpt
 | --- | --- | --- |
 | path | AbstractPath | Percorso del file. |
 | driver | FileDriver | Driver da usare. |
-| options | DriverOptions | Opzioni specifiche del driver. |
+| options | DriverOptions | Opzioni specifiche del conducente. |
 | spatialReferenceSystem | SpatialReferenceSystem | Sistema di riferimento spaziale. |
 
 ### Valore di ritorno
 
-Un'istanza di[`VectorLayer`](../../vectorlayer).
+Un'istanza di[`VectorLayer`](../).
 
 ### Eccezioni
 
 | eccezione | condizione |
 | --- | --- |
 | ArgumentNullException | Il percorso è`null`. |
-| ArgumentException | L'oggetto Opzioni ha un tipo errato per questo driver. |
-| [GisException](../../gisexception) | Errore durante la lettura o la scrittura della funzione nel/dal file. |
+| ArgumentException | L'oggetto Opzioni ha un tipo non corretto per questo driver. |
+| [GisException](../../gisexception/) | Errore durante la lettura o la scrittura dell'elemento nel/dal file. |
 | IOException | Si è verificato un errore di I/O. |
-| NotSupportedException | Il sistema di riferimento spaziale non è supportato dal driver. Utilizzare[`SupportsSpatialReferenceSystem`](../../filedriver/supportsspatialreferencesystem) per verificare se il sistema di riferimento spaziale è supportato. |
+| NotSupportedException | Il sistema di riferimento spaziale non è supportato dal driver. Utilizzare[`SupportsSpatialReferenceSystem`](../../filedriver/supportsspatialreferencesystem/) per verificare se il sistema di riferimento spaziale è supportato. |
 
 ### Guarda anche
 
-* class [AbstractPath](../../abstractpath)
-* class [FileDriver](../../filedriver)
-* class [DriverOptions](../../driveroptions)
-* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem)
-* class [VectorLayer](../../vectorlayer)
-* spazio dei nomi [Aspose.Gis](../../vectorlayer)
+* class [AbstractPath](../../abstractpath/)
+* class [FileDriver](../../filedriver/)
+* class [DriverOptions](../../driveroptions/)
+* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem/)
+* class [VectorLayer](../)
+* spazio dei nomi [Aspose.Gis](../../vectorlayer/)
 * assemblea [Aspose.GIS](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.GIS.dll -->
+

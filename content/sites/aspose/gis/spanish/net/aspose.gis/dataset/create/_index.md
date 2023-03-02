@@ -1,7 +1,7 @@
 ---
-title: Create
+title: Dataset.Create
 second_title: Referencia de API de Aspose.GIS para .NET
-description: Crea un conjunto de datos.
+description: Dataset método. Crea un conjunto de datos.
 type: docs
 weight: 10
 url: /es/net/aspose.gis/dataset/create/
@@ -21,7 +21,7 @@ public static Dataset Create(string path, FileDriver driver)
 
 ### Valor_devuelto
 
-una instancia de[`Dataset`](../../dataset).
+una instancia de[`Dataset`](../).
 
 ### Excepciones
 
@@ -29,16 +29,16 @@ una instancia de[`Dataset`](../../dataset).
 | --- | --- |
 | ArgumentException | El objeto de opciones tiene un tipo incorrecto para este controlador. |
 | ArgumentNullException | el camino es`null`. |
-| [GisException](../../gisexception) | Error al crear el conjunto de datos. |
+| [GisException](../../gisexception/) | Error al crear el conjunto de datos. |
 | IOException | Se produjo un error de E/S. |
 | NotSupportedException | El controlador no puede abrir conjuntos de datos. |
 | InvalidOperationException | El conjunto de datos ya existe. |
 
 ### Ver también
 
-* class [FileDriver](../../filedriver)
-* class [Dataset](../../dataset)
-* espacio de nombres [Aspose.Gis](../../dataset)
+* class [FileDriver](../../filedriver/)
+* class [Dataset](../)
+* espacio de nombres [Aspose.Gis](../../dataset/)
 * asamblea [Aspose.GIS](../../../)
 
 ---
@@ -58,7 +58,7 @@ public static Dataset Create(AbstractPath path, FileDriver driver)
 
 ### Valor_devuelto
 
-una instancia de[`Dataset`](../../dataset).
+una instancia de[`Dataset`](../).
 
 ### Excepciones
 
@@ -66,17 +66,17 @@ una instancia de[`Dataset`](../../dataset).
 | --- | --- |
 | ArgumentException | El objeto de opciones tiene un tipo incorrecto para este controlador. |
 | ArgumentNullException | el camino es`null`. |
-| [GisException](../../gisexception) | Error al crear el conjunto de datos. |
+| [GisException](../../gisexception/) | Error al crear el conjunto de datos. |
 | IOException | Se produjo un error de E/S. |
 | NotSupportedException | El controlador no puede abrir conjuntos de datos. |
 | InvalidOperationException | El conjunto de datos ya existe. |
 
 ### Ver también
 
-* class [AbstractPath](../../abstractpath)
-* class [FileDriver](../../filedriver)
-* class [Dataset](../../dataset)
-* espacio de nombres [Aspose.Gis](../../dataset)
+* class [AbstractPath](../../abstractpath/)
+* class [FileDriver](../../filedriver/)
+* class [Dataset](../)
+* espacio de nombres [Aspose.Gis](../../dataset/)
 * asamblea [Aspose.GIS](../../../)
 
 ---
@@ -97,7 +97,7 @@ public static Dataset Create(string path, FileDriver driver, DriverOptions optio
 
 ### Valor_devuelto
 
-una instancia de[`Dataset`](../../dataset).
+una instancia de[`Dataset`](../).
 
 ### Excepciones
 
@@ -105,17 +105,17 @@ una instancia de[`Dataset`](../../dataset).
 | --- | --- |
 | ArgumentException | El objeto de opciones tiene un tipo incorrecto para este controlador. |
 | ArgumentNullException | el camino es`null`. |
-| [GisException](../../gisexception) | Error al crear el conjunto de datos. |
+| [GisException](../../gisexception/) | Error al crear el conjunto de datos. |
 | IOException | Se produjo un error de E/S. |
 | NotSupportedException | El controlador no puede abrir conjuntos de datos. |
 | InvalidOperationException | El conjunto de datos ya existe. |
 
 ### Ver también
 
-* class [FileDriver](../../filedriver)
-* class [DriverOptions](../../driveroptions)
-* class [Dataset](../../dataset)
-* espacio de nombres [Aspose.Gis](../../dataset)
+* class [FileDriver](../../filedriver/)
+* class [DriverOptions](../../driveroptions/)
+* class [Dataset](../)
+* espacio de nombres [Aspose.Gis](../../dataset/)
 * asamblea [Aspose.GIS](../../../)
 
 ---
@@ -136,7 +136,7 @@ public static Dataset Create(AbstractPath path, FileDriver driver, DriverOptions
 
 ### Valor_devuelto
 
-una instancia de[`Dataset`](../../dataset).
+una instancia de[`Dataset`](../).
 
 ### Excepciones
 
@@ -144,18 +144,18 @@ una instancia de[`Dataset`](../../dataset).
 | --- | --- |
 | ArgumentException | El objeto de opciones tiene un tipo incorrecto para este controlador. |
 | ArgumentNullException | el camino es`null`. |
-| [GisException](../../gisexception) | Error al crear el conjunto de datos. |
+| [GisException](../../gisexception/) | Error al crear el conjunto de datos. |
 | IOException | Se produjo un error de E/S. |
 | NotSupportedException | El controlador no puede abrir conjuntos de datos. |
 | InvalidOperationException | El conjunto de datos ya existe. |
 
 ### Ver también
 
-* class [AbstractPath](../../abstractpath)
-* class [FileDriver](../../filedriver)
-* class [DriverOptions](../../driveroptions)
-* class [Dataset](../../dataset)
-* espacio de nombres [Aspose.Gis](../../dataset)
+* class [AbstractPath](../../abstractpath/)
+* class [FileDriver](../../filedriver/)
+* class [DriverOptions](../../driveroptions/)
+* class [Dataset](../)
+* espacio de nombres [Aspose.Gis](../../dataset/)
 * asamblea [Aspose.GIS](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.GIS.dll -->
+

@@ -1,7 +1,7 @@
 ---
-title: CreateDataset
+title: FileDriver.CreateDataset
 second_title: Справочник по Aspose.GIS for .NET API
-description: Создает набор данных.
+description: FileDriver метод. Создает набор данных.
 type: docs
 weight: 50
 url: /ru/net/aspose.gis/filedriver/createdataset/
@@ -20,23 +20,23 @@ public Dataset CreateDataset(string path)
 
 ### Возвращаемое значение
 
-Экземпляр[`Dataset`](../../dataset).
+Экземпляр[`Dataset`](../../dataset/).
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
 | ArgumentNullException | Путь`null`. |
-| [GisException](../../gisexception) | Ошибка при создании набора данных. |
+| [GisException](../../gisexception/) | Ошибка при создании набора данных. |
 | IOException | Произошла ошибка ввода/вывода. |
-| NotSupportedException | Драйвер не может открыть наборы данных (см.[`CanOpenDatasets`](../canopendatasets)). |
+| NotSupportedException | Драйвер не может открыть наборы данных (см.[`CanOpenDatasets`](../canopendatasets/)). |
 | InvalidOperationException | Набор данных уже существует. |
 
 ### Смотрите также
 
-* class [Dataset](../../dataset)
-* class [FileDriver](../../filedriver)
-* пространство имен [Aspose.Gis](../../filedriver)
+* class [Dataset](../../dataset/)
+* class [FileDriver](../)
+* пространство имен [Aspose.Gis](../../filedriver/)
 * сборка [Aspose.GIS](../../../)
 
 ---
@@ -55,24 +55,24 @@ public Dataset CreateDataset(AbstractPath path)
 
 ### Возвращаемое значение
 
-Экземпляр[`Dataset`](../../dataset).
+Экземпляр[`Dataset`](../../dataset/).
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
 | ArgumentNullException | Путь`null`. |
-| [GisException](../../gisexception) | Ошибка при создании набора данных. |
+| [GisException](../../gisexception/) | Ошибка при создании набора данных. |
 | IOException | Произошла ошибка ввода/вывода. |
-| NotSupportedException | Драйвер не может открыть наборы данных (см.[`CanOpenDatasets`](../canopendatasets)). |
+| NotSupportedException | Драйвер не может открыть наборы данных (см.[`CanOpenDatasets`](../canopendatasets/)). |
 | InvalidOperationException | Набор данных уже существует. |
 
 ### Смотрите также
 
-* class [Dataset](../../dataset)
-* class [AbstractPath](../../abstractpath)
-* class [FileDriver](../../filedriver)
-* пространство имен [Aspose.Gis](../../filedriver)
+* class [Dataset](../../dataset/)
+* class [AbstractPath](../../abstractpath/)
+* class [FileDriver](../)
+* пространство имен [Aspose.Gis](../../filedriver/)
 * сборка [Aspose.GIS](../../../)
 
 ---
@@ -92,7 +92,7 @@ public Dataset CreateDataset(string path, DriverOptions options)
 
 ### Возвращаемое значение
 
-Экземпляр[`Dataset`](../../dataset).
+Экземпляр[`Dataset`](../../dataset/).
 
 ### Исключения
 
@@ -100,17 +100,17 @@ public Dataset CreateDataset(string path, DriverOptions options)
 | --- | --- |
 | ArgumentException | Объект параметров имеет неверный тип для этого драйвера. |
 | ArgumentNullException | Путь`null`. |
-| [GisException](../../gisexception) | Ошибка при создании набора данных. |
+| [GisException](../../gisexception/) | Ошибка при создании набора данных. |
 | IOException | Произошла ошибка ввода/вывода. |
-| NotSupportedException | Драйвер не может открыть наборы данных (см.[`CanOpenDatasets`](../canopendatasets)). |
+| NotSupportedException | Драйвер не может открыть наборы данных (см.[`CanOpenDatasets`](../canopendatasets/)). |
 | InvalidOperationException | Набор данных уже существует. |
 
 ### Смотрите также
 
-* class [Dataset](../../dataset)
-* class [DriverOptions](../../driveroptions)
-* class [FileDriver](../../filedriver)
-* пространство имен [Aspose.Gis](../../filedriver)
+* class [Dataset](../../dataset/)
+* class [DriverOptions](../../driveroptions/)
+* class [FileDriver](../)
+* пространство имен [Aspose.Gis](../../filedriver/)
 * сборка [Aspose.GIS](../../../)
 
 ---
@@ -130,7 +130,7 @@ public virtual Dataset CreateDataset(AbstractPath path, DriverOptions options)
 
 ### Возвращаемое значение
 
-Экземпляр[`Dataset`](../../dataset).
+Экземпляр[`Dataset`](../../dataset/).
 
 ### Исключения
 
@@ -138,18 +138,18 @@ public virtual Dataset CreateDataset(AbstractPath path, DriverOptions options)
 | --- | --- |
 | ArgumentException | Объект параметров имеет неверный тип для этого драйвера. |
 | ArgumentNullException | Путь`null`. |
-| [GisException](../../gisexception) | Ошибка при создании набора данных. |
+| [GisException](../../gisexception/) | Ошибка при создании набора данных. |
 | IOException | Произошла ошибка ввода/вывода. |
-| NotSupportedException | Драйвер не может открыть наборы данных (см.[`CanOpenDatasets`](../canopendatasets)). |
+| NotSupportedException | Драйвер не может открыть наборы данных (см.[`CanOpenDatasets`](../canopendatasets/)). |
 | InvalidOperationException | Набор данных уже существует. |
 
 ### Смотрите также
 
-* class [Dataset](../../dataset)
-* class [AbstractPath](../../abstractpath)
-* class [DriverOptions](../../driveroptions)
-* class [FileDriver](../../filedriver)
-* пространство имен [Aspose.Gis](../../filedriver)
+* class [Dataset](../../dataset/)
+* class [AbstractPath](../../abstractpath/)
+* class [DriverOptions](../../driveroptions/)
+* class [FileDriver](../)
+* пространство имен [Aspose.Gis](../../filedriver/)
 * сборка [Aspose.GIS](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.GIS.dll -->
+

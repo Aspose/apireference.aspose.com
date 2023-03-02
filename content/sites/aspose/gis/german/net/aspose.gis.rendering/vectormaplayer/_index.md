@@ -1,14 +1,14 @@
 ---
-title: VectorMapLayer
+title: Class VectorMapLayer
 second_title: Aspose.GIS für .NET-API-Referenz
-description: Eine Schicht nach innenMap./map die eine Vektorebene data. darstellt
+description: Aspose.Gis.Rendering.VectorMapLayer klas. Eine Schicht nach innenMap die eine Vektorebene data. darstellt
 type: docs
-weight: 1900
+weight: 2000
 url: /de/net/aspose.gis.rendering/vectormaplayer/
 ---
 ## VectorMapLayer class
 
-Eine Schicht nach innen[`Map`](../map) die eine Vektorebene data. darstellt
+Eine Schicht nach innen[`Map`](../map/) die eine Vektorebene data. darstellt
 
 ```csharp
 public class VectorMapLayer : MapLayer
@@ -18,35 +18,35 @@ public class VectorMapLayer : MapLayer
 
 | Name | Beschreibung |
 | --- | --- |
-| [VectorMapLayer](vectormaplayer#constructor)(FeaturesSequence) | Erstellt eine neue Instanz mit dem Standardsymbolisierer. |
-| [VectorMapLayer](vectormaplayer#constructor_1)(FeaturesSequence, VectorSymbolizer) | Erstellt eine neue Instanz mit dem Standardsymbolisierer. |
-| [VectorMapLayer](vectormaplayer#constructor_5)(VectorLayer, bool) | Erstellt eine neue Instanz mit dem Standardsymbolisierer. |
-| [VectorMapLayer](vectormaplayer#constructor_2)(FeaturesSequence, VectorSymbolizer, Labeling) | Erstellt eine neue Instanz mit dem Standardsymbolisierer. |
-| [VectorMapLayer](vectormaplayer#constructor_4)(VectorLayer, VectorSymbolizer, bool) | Erstellt eine neue Instanz. |
-| [VectorMapLayer](vectormaplayer#constructor_3)(VectorLayer, VectorSymbolizer, Labeling, bool) | Erstellt eine neue Instanz. |
+| [VectorMapLayer](vectormaplayer/#constructor)(FeaturesSequence) | Erstellt eine neue Instanz mit dem Standardsymbolisierer. |
+| [VectorMapLayer](vectormaplayer/#constructor_1)(FeaturesSequence, VectorSymbolizer) | Erstellt eine neue Instanz mit dem Standardsymbolisierer. |
+| [VectorMapLayer](vectormaplayer/#constructor_5)(VectorLayer, bool) | Erstellt eine neue Instanz mit dem Standardsymbolisierer. |
+| [VectorMapLayer](vectormaplayer/#constructor_2)(FeaturesSequence, VectorSymbolizer, Labeling) | Erstellt eine neue Instanz mit dem Standardsymbolisierer. |
+| [VectorMapLayer](vectormaplayer/#constructor_4)(VectorLayer, VectorSymbolizer, bool) | Erstellt eine neue Instanz. |
+| [VectorMapLayer](vectormaplayer/#constructor_3)(VectorLayer, VectorSymbolizer, Labeling, bool) | Erstellt eine neue Instanz. |
 
 ## Eigenschaften
 
 | Name | Beschreibung |
 | --- | --- |
-| [FeaturesSequence](../../aspose.gis.rendering/vectormaplayer/featuressequence) { get; } | Die hierdurch dargestellte Merkmalsfolge`VektorMapLayer` . |
-| [Labeling](../../aspose.gis.rendering/vectormaplayer/labeling) { get; set; } | Gibt Warp-Optionen der Kartenebene an. |
-| [Opacity](../../aspose.gis.rendering/maplayer/opacity) { get; set; } | Deckkraft der Ebene. |
-| [Symbolizer](../../aspose.gis.rendering/vectormaplayer/symbolizer) { get; set; } | Symbolisierer zum Rendern von Features des Layers. |
+| [FeaturesSequence](../../aspose.gis.rendering/vectormaplayer/featuressequence/) { get; } | Die hierdurch dargestellte Merkmalssequenz`VektorMapLayer` . |
+| [Labeling](../../aspose.gis.rendering/vectormaplayer/labeling/) { get; set; } | Gibt Warp-Optionen der Kartenebene an. |
+| [Opacity](../../aspose.gis.rendering/maplayer/opacity/) { get; set; } | Deckkraft der Ebene. |
+| [Symbolizer](../../aspose.gis.rendering/vectormaplayer/symbolizer/) { get; set; } | Symbolisierer zum Rendern von Features des Layers. |
 
 ## Methoden
 
 | Name | Beschreibung |
 | --- | --- |
-| override [Dispose](../../aspose.gis.rendering/vectormaplayer/dispose)() | Gibt Ressourcen frei. |
-| [ImportSld](../../aspose.gis.rendering/vectormaplayer/importsld#importsld)(AbstractPath, SldImportOptions) | Importiert den Stil aus der Stilebenen-Deskriptordatei, die sich im angegebenen Pfad befindet. |
-| [ImportSld](../../aspose.gis.rendering/vectormaplayer/importsld#importsld_1)(string, SldImportOptions) | Importiert den Stil aus der Stilebenen-Deskriptordatei, die sich im angegebenen Pfad befindet. |
-| [ImportSldFromString](../../aspose.gis.rendering/vectormaplayer/importsldfromstring)(string, SldImportOptions) | Importiert den Stil aus der angegebenen Stilebenen-Deskriptorzeichenfolge. |
+| override [Dispose](../../aspose.gis.rendering/vectormaplayer/dispose/)() | Gibt Ressourcen frei. |
+| [ImportSld](../../aspose.gis.rendering/vectormaplayer/importsld/#importsld)(AbstractPath, SldImportOptions) | Importiert den Stil aus der Stilebenen-Deskriptordatei, die sich im angegebenen Pfad befindet. |
+| [ImportSld](../../aspose.gis.rendering/vectormaplayer/importsld/#importsld_1)(string, SldImportOptions) | Importiert den Stil aus der Stilebenen-Deskriptordatei, die sich im angegebenen Pfad befindet. |
+| [ImportSldFromString](../../aspose.gis.rendering/vectormaplayer/importsldfromstring/)(string, SldImportOptions) | Importiert den Stil aus der angegebenen Stilebenen-Deskriptorzeichenfolge. |
 
 ### Siehe auch
 
-* class [MapLayer](../maplayer)
-* namensraum [Aspose.Gis.Rendering](../../aspose.gis.rendering)
+* class [MapLayer](../maplayer/)
+* namensraum [Aspose.Gis.Rendering](../../aspose.gis.rendering/)
 * Montage [Aspose.GIS](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.GIS.dll -->
+

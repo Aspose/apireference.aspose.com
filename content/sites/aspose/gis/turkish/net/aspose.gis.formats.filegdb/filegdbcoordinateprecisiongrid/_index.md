@@ -1,14 +1,14 @@
 ---
-title: FileGdbCoordinatePrecisionGrid
+title: Class FileGdbCoordinatePrecisionGrid
 second_title: Aspose.GIS for .NET API Referansı
-description: FileGDB katmanı içinde bir koordinat hassas ızgarası.
+description: Aspose.Gis.Formats.FileGdb.FileGdbCoordinatePrecisionGrid sınıf. Bir FileGDB katmanı içinde bir koordinat kesinlik ızgarası.
 type: docs
-weight: 220
+weight: 250
 url: /tr/net/aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/
 ---
 ## FileGdbCoordinatePrecisionGrid class
 
-FileGDB katmanı içinde bir koordinat hassas ızgarası.
+Bir FileGDB katmanı içinde bir koordinat kesinlik ızgarası.
 
 ```csharp
 public sealed class FileGdbCoordinatePrecisionGrid
@@ -18,29 +18,29 @@ public sealed class FileGdbCoordinatePrecisionGrid
 
 | İsim | Tanım |
 | --- | --- |
-| [FileGdbCoordinatePrecisionGrid](filegdbcoordinateprecisiongrid)() | Default_Constructor |
+| [FileGdbCoordinatePrecisionGrid](filegdbcoordinateprecisiongrid/)() | Default_Constructor |
 
 ## Özellikleri
 
 | İsim | Tanım |
 | --- | --- |
-| [MOrigin](../../aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/morigin) { get; set; } | M koordinatının orijinini alır veya ayarlar. olarak ayarlanırsa`null` varsayılan kullanılır. |
-| [MScale](../../aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/mscale) { get; set; } | M koordinatının ölçeğini alır veya ayarlar. olarak ayarlanırsa`null` varsayılan kullanılır. |
-| [XOrigin](../../aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/xorigin) { get; set; } | X koordinatının orijinini alır veya ayarlar. olarak ayarlanırsa`null` varsayılan kullanılır. |
-| [XYScale](../../aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/xyscale) { get; set; } | X ve Y koordinatlarının ölçeğini alır veya ayarlar. olarak ayarlanırsa`null` varsayılan kullanılır. |
-| [YOrigin](../../aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/yorigin) { get; set; } | Y koordinatının orijinini alır veya ayarlar. olarak ayarlanırsa`null` varsayılan kullanılır. |
-| [ZOrigin](../../aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/zorigin) { get; set; } | Z koordinatının orijinini alır veya ayarlar. olarak ayarlanırsa`null` varsayılan kullanılır. |
-| [ZScale](../../aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/zscale) { get; set; } | Z koordinatının ölçeğini alır veya ayarlar. olarak ayarlanırsa`null` varsayılan kullanılır. |
+| [MOrigin](../../aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/morigin/) { get; set; } | M koordinatının orijinini alır veya ayarlar. olarak ayarlanırsa`null` varsayılan kullanılır. |
+| [MScale](../../aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/mscale/) { get; set; } | M koordinatının ölçeğini alır veya ayarlar. olarak ayarlanırsa`null` varsayılan kullanılır. |
+| [XOrigin](../../aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/xorigin/) { get; set; } | X koordinatının orijinini alır veya ayarlar. olarak ayarlanırsa`null` varsayılan kullanılır. |
+| [XYScale](../../aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/xyscale/) { get; set; } | X ve Y koordinatlarının ölçeğini alır veya ayarlar. olarak ayarlanırsa`null` varsayılan kullanılır. |
+| [YOrigin](../../aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/yorigin/) { get; set; } | Y koordinatının orijinini alır veya ayarlar. olarak ayarlanırsa`null` varsayılan kullanılır. |
+| [ZOrigin](../../aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/zorigin/) { get; set; } | Z koordinatının orijinini alır veya ayarlar. olarak ayarlanırsa`null` varsayılan kullanılır. |
+| [ZScale](../../aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/zscale/) { get; set; } | Z koordinatının ölçeğini alır veya ayarlar. olarak ayarlanırsa`null` varsayılan kullanılır. |
 
 ## yöntemler
 
 | İsim | Tanım |
 | --- | --- |
-| static [CreateFromRectangle](../../aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/createfromrectangle)(IPoint, IPoint) | Yeni oluşturur`DosyaGdbKoordinatHassasGrid` öyle ki bir dikdörtgen içindeki tüm değerler gösterilebilir. |
+| static [CreateFromRectangle](../../aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/createfromrectangle/)(IPoint, IPoint) | Yeni oluşturur`FileGdbCoordinatePrecisionGrid` öyle ki bir dikdörtgen içindeki tüm değerler temsil edilebilir. |
 
 ### Notlar
 
-Koordinat kesinlik ızgarası, FileGDB katmanındaki koordinatların geçerli etki alanını ve çözünürlüğünü tanımlar. Origin, uzayda hassas ızgarayı koordine etmek için Yolu tanımlar. Ölçek çözünürlüğü tanımlar (ölçek ne kadar büyük olursa ölçek o kadar kesin değerler yazılır). Kesinlik ızgarası, koordinatlar için geçerli değer aralığını belirtir: İçindeki her koordinat[`VectorLayer`](../../aspose.gis/vectorlayer) bu aralık içinde olmalıdır. Aralık dışındaki koordinatlar daha sonra okuma hatalarına neden olabilir ve ArcGIS tarafından yanlış işlenir. Herhangi bir özellik belirtmezseniz (bunları saklayın)`null` ) varsayılan değerler kullanılacaktır. Varsayılan değerler şunlara bağlıdır:[`SpatialReferenceSystem`](../../aspose.gis.spatialreferencing/spatialreferencesystem) arasında[`VectorLayer`](../../aspose.gis/vectorlayer) . Coğrafi için[`SpatialReferenceSystem`](../../aspose.gis.spatialreferencing/spatialreferencesystem) varsayılanlar: Öngörülen için[`SpatialReferenceSystem`](../../aspose.gis.spatialreferencing/spatialreferencesystem) varsayılanlar: nerede`XYTolerans` ,`ZTolerans` ve`MTolerans` değerler[`FileGdbOptions`](../filegdboptions) .
+Koordinat kesinlik ızgarası, FileGDB katmanındaki koordinatların geçerli etki alanını ve çözünürlüğünü tanımlar. Kaynak, uzayda koordinat kesinlik ızgarasının yolunu tanımlar. Ölçek, çözünürlüğü tanımlar (ölçek ne kadar büyükse, değerler o kadar kesin yazılır). Kesinlik ızgarası, koordinatlar için geçerli değer aralığını belirtir: Her koordinat[`VectorLayer`](../../aspose.gis/vectorlayer/)bu aralık içinde olmalıdır. Aralık dışında kalan koordinatlar daha sonra okuma hatalarına neden olabilir ve ArcGIS tarafından yanlış işlenir. Herhangi bir özellik belirtmezseniz (bunları saklayın)`null` ) varsayılan değerler kullanılacaktır. Varsayılan değerler şunlara bağlıdır:[`SpatialReferenceSystem`](../../aspose.gis.spatialreferencing/spatialreferencesystem/) arasında[`VectorLayer`](../../aspose.gis/vectorlayer/) . Coğrafi için[`SpatialReferenceSystem`](../../aspose.gis.spatialreferencing/spatialreferencesystem/) varsayılanlar: Öngörülen için[`SpatialReferenceSystem`](../../aspose.gis.spatialreferencing/spatialreferencesystem/) varsayılanlar: nerede`XY Toleransı` ,`ZTolerans` Ve`MTolerans` gelen değerler[`FileGdbOptions`](../filegdboptions/) .
 
 ```csharp
 XMin = XOrigin
@@ -75,7 +75,7 @@ MScale  = 1 / MTolerance  * 10
 
 ### Ayrıca bakınız
 
-* ad alanı [Aspose.Gis.Formats.FileGdb](../../aspose.gis.formats.filegdb)
+* ad alanı [Aspose.Gis.Formats.FileGdb](../../aspose.gis.formats.filegdb/)
 * toplantı [Aspose.GIS](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.GIS.dll -->
+

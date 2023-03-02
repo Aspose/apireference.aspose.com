@@ -1,7 +1,7 @@
 ---
-title: CreateLayer
+title: Dataset.CreateLayer
 second_title: Aspose.GIS für .NET-API-Referenz
-description: Erstellt eine neue Vektorebene und öffnet sie zum Anhängen.
+description: Dataset methode. Erstellt eine neue Vektorebene und öffnet sie zum Anhängen.
 type: docs
 weight: 70
 url: /de/net/aspose.gis/dataset/createlayer/
@@ -16,13 +16,13 @@ public virtual VectorLayer CreateLayer()
 
 ### Rückgabewert
 
-EIN[`VectorLayer`](../../vectorlayer) zum Schreiben geöffnet.
+A[`VectorLayer`](../../vectorlayer/) zum Schreiben geöffnet.
 
 ### Siehe auch
 
-* class [VectorLayer](../../vectorlayer)
-* class [Dataset](../../dataset)
-* namensraum [Aspose.Gis](../../dataset)
+* class [VectorLayer](../../vectorlayer/)
+* class [Dataset](../)
+* namensraum [Aspose.Gis](../../dataset/)
 * Montage [Aspose.GIS](../../../)
 
 ---
@@ -41,14 +41,14 @@ public virtual VectorLayer CreateLayer(SpatialReferenceSystem spatialReferenceSy
 
 ### Rückgabewert
 
-EIN[`VectorLayer`](../../vectorlayer) zum Schreiben geöffnet.
+A[`VectorLayer`](../../vectorlayer/) zum Schreiben geöffnet.
 
 ### Siehe auch
 
-* class [VectorLayer](../../vectorlayer)
-* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem)
-* class [Dataset](../../dataset)
-* namensraum [Aspose.Gis](../../dataset)
+* class [VectorLayer](../../vectorlayer/)
+* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem/)
+* class [Dataset](../)
+* namensraum [Aspose.Gis](../../dataset/)
 * Montage [Aspose.GIS](../../../)
 
 ---
@@ -69,7 +69,7 @@ public virtual VectorLayer CreateLayer(DriverOptions options,
 
 ### Rückgabewert
 
-EIN[`VectorLayer`](../../vectorlayer) zum Schreiben geöffnet.
+A[`VectorLayer`](../../vectorlayer/) zum Schreiben geöffnet.
 
 ### Ausnahmen
 
@@ -77,15 +77,15 @@ EIN[`VectorLayer`](../../vectorlayer) zum Schreiben geöffnet.
 | --- | --- |
 | NotSupportedException | Layer-Erstellung wird für dieses Dataset nicht unterstützt. |
 | IOException | Ein E/A-Fehler ist aufgetreten. |
-| [GisException](../../gisexception) | Fehler beim Erstellen der Ebene. |
+| [GisException](../../gisexception/) | Fehler beim Erstellen der Ebene. |
 
 ### Siehe auch
 
-* class [VectorLayer](../../vectorlayer)
-* class [DriverOptions](../../driveroptions)
-* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem)
-* class [Dataset](../../dataset)
-* namensraum [Aspose.Gis](../../dataset)
+* class [VectorLayer](../../vectorlayer/)
+* class [DriverOptions](../../driveroptions/)
+* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem/)
+* class [Dataset](../)
+* namensraum [Aspose.Gis](../../dataset/)
 * Montage [Aspose.GIS](../../../)
 
 ---
@@ -106,7 +106,7 @@ public virtual VectorLayer CreateLayer(string name,
 
 ### Rückgabewert
 
-EIN[`VectorLayer`](../../vectorlayer) zum Schreiben geöffnet.
+A[`VectorLayer`](../../vectorlayer/) zum Schreiben geöffnet.
 
 ### Ausnahmen
 
@@ -114,14 +114,14 @@ EIN[`VectorLayer`](../../vectorlayer) zum Schreiben geöffnet.
 | --- | --- |
 | NotSupportedException | Layer-Erstellung wird für dieses Dataset nicht unterstützt. |
 | IOException | Ein E/A-Fehler ist aufgetreten. |
-| [GisException](../../gisexception) | Fehler beim Erstellen der Ebene. |
+| [GisException](../../gisexception/) | Fehler beim Erstellen der Ebene. |
 
 ### Siehe auch
 
-* class [VectorLayer](../../vectorlayer)
-* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem)
-* class [Dataset](../../dataset)
-* namensraum [Aspose.Gis](../../dataset)
+* class [VectorLayer](../../vectorlayer/)
+* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem/)
+* class [Dataset](../)
+* namensraum [Aspose.Gis](../../dataset/)
 * Montage [Aspose.GIS](../../../)
 
 ---
@@ -143,7 +143,7 @@ public virtual VectorLayer CreateLayer(string name, DriverOptions options,
 
 ### Rückgabewert
 
-EIN[`VectorLayer`](../../vectorlayer) zum Schreiben geöffnet.
+A[`VectorLayer`](../../vectorlayer/) zum Schreiben geöffnet.
 
 ### Ausnahmen
 
@@ -151,15 +151,15 @@ EIN[`VectorLayer`](../../vectorlayer) zum Schreiben geöffnet.
 | --- | --- |
 | NotSupportedException | Layer-Erstellung wird für dieses Dataset nicht unterstützt. |
 | IOException | Ein E/A-Fehler ist aufgetreten. |
-| [GisException](../../gisexception) | Fehler beim Erstellen der Ebene. |
+| [GisException](../../gisexception/) | Fehler beim Erstellen der Ebene. |
 
 ### Siehe auch
 
-* class [VectorLayer](../../vectorlayer)
-* class [DriverOptions](../../driveroptions)
-* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem)
-* class [Dataset](../../dataset)
-* namensraum [Aspose.Gis](../../dataset)
+* class [VectorLayer](../../vectorlayer/)
+* class [DriverOptions](../../driveroptions/)
+* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem/)
+* class [Dataset](../)
+* namensraum [Aspose.Gis](../../dataset/)
 * Montage [Aspose.GIS](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.GIS.dll -->
+

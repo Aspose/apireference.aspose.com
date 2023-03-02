@@ -12,44 +12,45 @@ url: /es/net/aspose.gis/
 
 | Clase | Descripción |
 | --- | --- |
-| [AbstractPath](./abstractpath) | Un`ruta abstracta` es una clase base para clases que especifican una ubicación única en un entorno similar a un sistema de archivos, como un sistema de archivos local, un almacenamiento de archivos remoto o un archivo ZIP, entre otros. |
-| [AttributesConverterActions](./attributesconverteractions) | Acciones opcionales con atributos de la capa de destino. |
-| [ConversionOptions](./conversionoptions) | Opciones para convertir datos entre formatos. |
-| [DatabaseDriver](./databasedriver) | Un controlador para un formato basado en base de datos específico. |
-| [DatabaseDriverOptions](./databasedriveroptions) | Opciones para un[`DatabaseDriver`](../aspose.gis/databasedriver) . |
-| [Dataset](./dataset) | Un conjunto de datos es la colección de[`VectorLayer`](../aspose.gis/vectorlayer) instancias. |
-| [Driver](./driver) | Una clase base para controladores de datos GIS. |
-| [DriverOptions](./driveroptions) | Opciones para un[`Driver`](../aspose.gis/driver) . |
-| [Drivers](./drivers) | Controladores para todos los formatos admitidos. |
-| [Extent](./extent) | Un cuadro delimitador espacial bidimensional. |
-| [Feature](./feature) | Una característica geográfica compuesta por una geometría y atributos definidos por el usuario. |
-| [FeatureAttribute](./featureattribute) | Un atributo de un[`Feature`](../aspose.gis/feature) . |
-| [FeatureAttributeCollection](./featureattributecollection) | A[`FeatureAttributeCollection`](../aspose.gis/featureattributecollection) define qué atributos están disponibles para un[`Feature`](../aspose.gis/feature) . |
-| [FeaturesSequence](./featuressequence) | [`FeaturesSequence`](../aspose.gis/featuressequence) representa un conjunto de características vectoriales. |
-| [FeatureStyle](./featurestyle) | La clase raíz abstracta de la jerarquía de estilos de entidad. |
-| [FileDriver](./filedriver) | Un controlador para un formato basado en archivo específico. |
-| [GeoConvert](./geoconvert) | Convierte coordenadas a/desde los diferentes formatos. |
-| [GisException](./gisexception) | La excepción que se genera cuando se produce un error durante el procesamiento de datos GIS. |
-| [License](./license) | Proporciona métodos para licenciar el componente. |
-| [Metered](./metered) | Proporciona métodos para configurar la clave medida. |
-| [NumericFormat](./numericformat) | [`NumericFormat`](../aspose.gis/numericformat) se utilizan para formatear tipos numéricos comunes en text. |
-| [PrecisionModel](./precisionmodel) | [`PrecisionModel`](../aspose.gis/precisionmodel) especifica un número de dígitos significativos en una coordenada. |
-| [RasterDriver](./rasterdriver) | Un controlador para un formato basado en ráster específico. |
-| [RasterDriverOptions](./rasterdriveroptions) | Opciones para un[`RasterDriver`](../aspose.gis/rasterdriver) . |
-| [SavingOptions](./savingoptions) | Opciones para guardar[`FeaturesSequence`](../aspose.gis/featuressequence) al archivo. |
-| [VectorLayer](./vectorlayer) | Representa una capa vectorial. Una capa vectorial es una colección de características geográficas almacenadas en un archivo. |
+| [AbstractPath](./abstractpath/) | Un`ruta abstracta` es una clase base para clases que especifican una ubicación única en un entorno similar a un sistema de archivos, como un sistema de archivos local, un almacenamiento de archivos remoto o un archivo ZIP, entre otros. |
+| [AttributesConverterActions](./attributesconverteractions/) | Acciones opcionales con atributos de la capa de destino. |
+| [ConversionOptions](./conversionoptions/) | Opciones para convertir datos entre formatos. |
+| [DatabaseDriver](./databasedriver/) | Un controlador para un formato basado en base de datos específico. |
+| [DatabaseDriverOptions](./databasedriveroptions/) | Opciones para un[`DatabaseDriver`](../aspose.gis/databasedriver/) . |
+| [Dataset](./dataset/) | Un conjunto de datos es la colección de[`VectorLayer`](../aspose.gis/vectorlayer/) instancias. |
+| [Driver](./driver/) | Una clase base para controladores de datos GIS. |
+| [DriverOptions](./driveroptions/) | Opciones para un[`Driver`](../aspose.gis/driver/) . |
+| [Drivers](./drivers/) | Controladores para todos los formatos admitidos. |
+| [Extent](./extent/) | Un cuadro delimitador espacial bidimensional. |
+| [Feature](./feature/) | Una característica geográfica compuesta por una geometría y atributos definidos por el usuario. |
+| [FeatureAttribute](./featureattribute/) | Un atributo de un[`Feature`](../aspose.gis/feature/) . |
+| [FeatureAttributeCollection](./featureattributecollection/) | A[`FeatureAttributeCollection`](../aspose.gis/featureattributecollection/) define qué atributos están disponibles para un[`Feature`](../aspose.gis/feature/) . |
+| [FeaturesSequence](./featuressequence/) | [`FeaturesSequence`](../aspose.gis/featuressequence/) representa un conjunto de características vectoriales. |
+| [FeatureStyle](./featurestyle/) | La clase raíz abstracta de la jerarquía de estilos de entidad. |
+| [FileDriver](./filedriver/) | Un controlador para un formato basado en archivo específico. |
+| [GeoConvert](./geoconvert/) | Convierte coordenadas a/desde los diferentes formatos. |
+| [GisException](./gisexception/) | La excepción que se genera cuando se produce un error durante el procesamiento de datos GIS. |
+| [License](./license/) | Proporciona métodos para licenciar el componente. |
+| [Metered](./metered/) | Proporciona métodos para configurar la clave medida. |
+| [NumericFormat](./numericformat/) | [`NumericFormat`](../aspose.gis/numericformat/) se utilizan para formatear tipos numéricos comunes en text. |
+| [PrecisionModel](./precisionmodel/) | [`PrecisionModel`](../aspose.gis/precisionmodel/) especifica un número de dígitos significativos en una coordenada. |
+| [RasterDriver](./rasterdriver/) | Un controlador para un formato basado en ráster específico. |
+| [RasterDriverOptions](./rasterdriveroptions/) | Opciones para un[`RasterDriver`](../aspose.gis/rasterdriver/) . |
+| [SavingOptions](./savingoptions/) | Opciones para guardar[`FeaturesSequence`](../aspose.gis/featuressequence/) al archivo. |
+| [VectorLayer](./vectorlayer/) | Representa una capa vectorial. Una capa vectorial es una colección de características geográficas almacenadas en un archivo. |
 ## Interfaces
 
 | Interfaz | Descripción |
 | --- | --- |
-| [IAttributesConverter](./iattributesconverter) | Un convertidor personalizado para atributos de capa. |
-| [IFeatureStyle](./ifeaturestyle) | La clase raíz de interfaz de la jerarquía de estilos de entidad. |
+| [IAttributesConverter](./iattributesconverter/) | Un convertidor personalizado para atributos de capa. |
+| [IFeatureStyle](./ifeaturestyle/) | La clase raíz de interfaz de la jerarquía de estilos de entidad. |
 ## Enumeración
 
 | Enumeración | Descripción |
 | --- | --- |
-| [AttributeDataType](./attributedatatype) | El tipo de datos de un atributo de entidad. |
-| [PointFormats](./pointformats) | [`PointFormats`](../aspose.gis/pointformats) se utilizan para convertir coordenadas en texto. |
-| [SpatialReferenceSystemMode](./spatialreferencesystemmode) | Especifica un modo de escritura del Sistema de referencia espacial (SRS) en la base de datos si es un SRS desconocido. |
+| [AttributeDataType](./attributedatatype/) | El tipo de datos de un atributo de entidad. |
+| [AutoIds](./autoids/) | ID de generación automática. |
+| [PointFormats](./pointformats/) | [`PointFormats`](../aspose.gis/pointformats/) se utilizan para convertir coordenadas en texto. |
+| [SpatialReferenceSystemMode](./spatialreferencesystemmode/) | Especifica un modo de escritura del Sistema de referencia espacial (SRS) en la base de datos si es un SRS desconocido. |
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.GIS.dll -->
+

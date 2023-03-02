@@ -1,14 +1,14 @@
 ---
-title: Identifier
+title: Class Identifier
 second_title: Aspose.GIS for .NET API Referansı
-description: Bir tanımlayıcıyı temsil eder  bir nesnenin harici açıklamasına bir başvuru. WKTden bir SRS oluşturursanızIdentifier./identifier AUTHORITY anahtar kelimesine karşılık gelir.
+description: Aspose.Gis.SpatialReferencing.Identifier sınıf. Bir tanımlayıcıyı temsil eder  bir nesnenin harici açıklamasına bir referans. WKTden bir SRS oluşturursanızIdentifier AUTHORITY anahtar sözcüğüne karşılık gelir.
 type: docs
-weight: 2060
+weight: 2160
 url: /tr/net/aspose.gis.spatialreferencing/identifier/
 ---
 ## Identifier class
 
-Bir tanımlayıcıyı temsil eder - bir nesnenin harici açıklamasına bir başvuru. WKT'den bir SRS oluşturursanız,[`Identifier`](../identifier) "AUTHORITY" anahtar kelimesine karşılık gelir.
+Bir tanımlayıcıyı temsil eder - bir nesnenin harici açıklamasına bir referans. WKT'den bir SRS oluşturursanız,`Identifier` "AUTHORITY" anahtar sözcüğüne karşılık gelir.
 
 ```csharp
 public class Identifier : IEquatable<Identifier>
@@ -18,30 +18,30 @@ public class Identifier : IEquatable<Identifier>
 
 | İsim | Tanım |
 | --- | --- |
-| [Identifier](identifier)(string, string) | Yeni örnek oluştur. |
+| [Identifier](identifier/)(string, string) | Yeni örnek oluştur. |
 
 ## Özellikleri
 
 | İsim | Tanım |
 | --- | --- |
-| [AuthorityName](../../aspose.gis.spatialreferencing/identifier/authorityname) { get; } | [`AuthorityUniqueIdentifier`](./authorityuniqueidentifier) . |
-| [AuthorityUniqueIdentifier](../../aspose.gis.spatialreferencing/identifier/authorityuniqueidentifier) { get; } | Bir nesne içindeki bir nesneyi temsil etmenin benzersiz bir yolu[`AuthorityName`](./authorityname) . |
+| [AuthorityName](../../aspose.gis.spatialreferencing/identifier/authorityname/) { get; } | Veren bir otorite adı[`AuthorityUniqueIdentifier`](./authorityuniqueidentifier/) . |
+| [AuthorityUniqueIdentifier](../../aspose.gis.spatialreferencing/identifier/authorityuniqueidentifier/) { get; } | İçinde bir nesneyi temsil etmenin benzersiz bir yolu[`AuthorityName`](./authorityname/) . |
 
 ## yöntemler
 
 | İsim | Tanım |
 | --- | --- |
-| static [Epsg](../../aspose.gis.spatialreferencing/identifier/epsg)(int) | Kodlu EPSG tanımlayıcısını temsil eden yeni Tanımlayıcı oluşturur*epsgCode* . |
-| [Equals](../../aspose.gis.spatialreferencing/identifier/equals#equals)(Identifier) | Geçerli nesnenin aynı türdeki başka bir nesneye eşit olup olmadığını gösterir. |
-| override [Equals](../../aspose.gis.spatialreferencing/identifier/equals#equals_1)(object) | Belirtilen nesnenin geçerli nesneye eşit olup olmadığını belirler. |
-| [GetEpsgCode](../../aspose.gis.spatialreferencing/identifier/getepsgcode)() | Bu nesne geçerli bir EPSG tanımlayıcısını temsil ediyorsa (örneğin - yetkili adı "EPSG" ve yetkili benzersiz tanımlayıcısı tamsayıysa) - onu döndür. Aksi takdirde - -1. döndürün |
-| override [GetHashCode](../../aspose.gis.spatialreferencing/identifier/gethashcode)() | Varsayılan karma işlevi olarak hizmet eder. |
-| [operator ==](../../aspose.gis.spatialreferencing/identifier/op_equality) | ==. operatörünü uygular |
-| [operator !=](../../aspose.gis.spatialreferencing/identifier/op_inequality) | Operatörünü uygular !=. |
+| static [Epsg](../../aspose.gis.spatialreferencing/identifier/epsg/)(int) | Kodlu EPSG tanımlayıcısını temsil eden yeni Tanımlayıcı oluşturur*epsgCode* . |
+| [Equals](../../aspose.gis.spatialreferencing/identifier/equals/#equals)(Identifier) | Geçerli nesnenin aynı türden başka bir nesneye eşit olup olmadığını gösterir. |
+| override [Equals](../../aspose.gis.spatialreferencing/identifier/equals/#equals_1)(object) | Belirtilen nesnenin geçerli nesneye eşit olup olmadığını belirler. |
+| [GetEpsgCode](../../aspose.gis.spatialreferencing/identifier/getepsgcode/)() | Bu nesne geçerli bir EPSG tanımlayıcısını temsil ediyorsa (örn. - yetki adı "EPSG" ve yetki benzersiz tanımlayıcısı tam sayıdır) - onu döndürür. Aksi takdirde - -1. döndür |
+| override [GetHashCode](../../aspose.gis.spatialreferencing/identifier/gethashcode/)() | Varsayılan karma işlevi olarak işlev görür. |
+| [operator ==](../../aspose.gis.spatialreferencing/identifier/op_equality/) | ==. operatörünü uygular |
+| [operator !=](../../aspose.gis.spatialreferencing/identifier/op_inequality/) | !=. operatörünü uygular |
 
 ### Örnekler
 
-WGS 84 Uzamsal referans sistemi, 4326 EPSG koduna sahiptir, bu nedenle şu tanımlayıcıyı içerebilir: WGS 84 Elipsoid 7030 EPSG koduna sahiptir ve şu tanımlayıcıyı içerebilir:
+WGS 84 Mekansal referans sistemi EPSG kodu 4326'ya sahiptir, dolayısıyla tanımlayıcı: içerebilir WGS 84 Elipsoid, EPSG kodu 7030'a sahiptir ve tanımlayıcı: içerebilir
 
 ```csharp
 new  {  = "EPSG",  = 4326 };
@@ -53,7 +53,7 @@ new  {  = "EPSG",  = 7030 };
 
 ### Ayrıca bakınız
 
-* ad alanı [Aspose.Gis.SpatialReferencing](../../aspose.gis.spatialreferencing)
+* ad alanı [Aspose.Gis.SpatialReferencing](../../aspose.gis.spatialreferencing/)
 * toplantı [Aspose.GIS](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.GIS.dll -->
+

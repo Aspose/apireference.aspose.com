@@ -1,9 +1,9 @@
 ---
-title: SimpleFill
+title: Class SimpleFill
 second_title: Aspose.GIS für .NET-API-Referenz
-description: Einfacher Polygonsymbolisierer.
+description: Aspose.Gis.Rendering.Symbolizers.SimpleFill klas. Einfacher Polygonsymbolisierer.
 type: docs
-weight: 1840
+weight: 1940
 url: /de/net/aspose.gis.rendering.symbolizers/simplefill/
 ---
 ## SimpleFill class
@@ -18,35 +18,35 @@ public class SimpleFill : VectorSymbolizer
 
 | Name | Beschreibung |
 | --- | --- |
-| [SimpleFill](simplefill#constructor)() | Erstellt eine neue Instanz. |
-| [SimpleFill](simplefill#constructor_1)(SimpleFill) | Initialisiert eine neue Instanz von[`SimpleFill`](../simplefill) Klasse. |
+| [SimpleFill](simplefill/#constructor)() | Erstellt eine neue Instanz. |
+| [SimpleFill](simplefill/#constructor_1)(SimpleFill) | Initialisiert eine neue Instanz von`SimpleFill` Klasse. |
 
 ## Eigenschaften
 
 | Name | Beschreibung |
 | --- | --- |
-| [FeatureBasedConfiguration](../../aspose.gis.rendering.symbolizers/simplefill/featurebasedconfiguration) { get; set; } | Ein Rückruf, der verwendet wird, um diesen Symbolisierer zu konfigurieren, bevor ein Feature gerendert wird. |
-| [FillColor](../../aspose.gis.rendering.symbolizers/simplefill/fillcolor) { get; set; } | Gibt Farbe und Transparenz zum Füllen an. |
-| [FillStyle](../../aspose.gis.rendering.symbolizers/simplefill/fillstyle) { get; set; } | Gibt den Füllstil an. |
-| [HorizontalOffset](../../aspose.gis.rendering.symbolizers/simplefill/horizontaloffset) { get; set; } | Gibt den horizontalen Versatz von einer Punktposition zur gerenderten Form an. |
-| [StrokeColor](../../aspose.gis.rendering.symbolizers/simplefill/strokecolor) { get; set; } | Gibt die Farbe und Transparenz der Linie an. |
-| [StrokeDashOffset](../../aspose.gis.rendering.symbolizers/simplefill/strokedashoffset) { get; set; } | Gibt den Abstand vom Anfang einer Linie zum Anfang eines Strichmusters an. |
-| [StrokeDashPattern](../../aspose.gis.rendering.symbolizers/simplefill/strokedashpattern) { get; set; } | Gibt ein Array von Abständen an, das die Längen abwechselnder Bindestriche und Leerzeichen in gestrichelten Linien angibt. |
-| [StrokeLineJoin](../../aspose.gis.rendering.symbolizers/simplefill/strokelinejoin) { get; set; } | Legt fest, wie Linien am Schnittpunkt von Liniensegmenten gerendert werden. |
-| [StrokeStyle](../../aspose.gis.rendering.symbolizers/simplefill/strokestyle) { get; set; } | Gibt an, wie die Symbollinien gezeichnet werden sollen. |
-| [StrokeWidth](../../aspose.gis.rendering.symbolizers/simplefill/strokewidth) { get; set; } | Gibt die Breite der Linie an. |
-| [VerticalOffset](../../aspose.gis.rendering.symbolizers/simplefill/verticaloffset) { get; set; } | Gibt den vertikalen Versatz von einer Polygonposition zur gerenderten Form an. |
+| [FeatureBasedConfiguration](../../aspose.gis.rendering.symbolizers/simplefill/featurebasedconfiguration/) { get; set; } | Ein Rückruf, der verwendet wird, um diesen Symbolisierer zu konfigurieren, bevor ein Feature gerendert wird. |
+| [FillColor](../../aspose.gis.rendering.symbolizers/simplefill/fillcolor/) { get; set; } | Gibt Farbe und Transparenz zum Füllen an. |
+| [FillStyle](../../aspose.gis.rendering.symbolizers/simplefill/fillstyle/) { get; set; } | Gibt den Füllstil an. |
+| [HorizontalOffset](../../aspose.gis.rendering.symbolizers/simplefill/horizontaloffset/) { get; set; } | Gibt den horizontalen Versatz von einer Punktposition zur gerenderten Form an. |
+| [StrokeColor](../../aspose.gis.rendering.symbolizers/simplefill/strokecolor/) { get; set; } | Gibt die Farbe und Transparenz der Linie an. |
+| [StrokeDashOffset](../../aspose.gis.rendering.symbolizers/simplefill/strokedashoffset/) { get; set; } | Gibt den Abstand vom Anfang einer Linie zum Anfang eines Strichmusters an. |
+| [StrokeDashPattern](../../aspose.gis.rendering.symbolizers/simplefill/strokedashpattern/) { get; set; } | Gibt ein Array von Abständen an, das die Längen abwechselnder Bindestriche und Leerzeichen in gestrichelten Linien angibt. |
+| [StrokeLineJoin](../../aspose.gis.rendering.symbolizers/simplefill/strokelinejoin/) { get; set; } | Legt fest, wie Linien am Schnittpunkt von Liniensegmenten gerendert werden. |
+| [StrokeStyle](../../aspose.gis.rendering.symbolizers/simplefill/strokestyle/) { get; set; } | Gibt an, wie die Symbollinien gezeichnet werden sollen. |
+| [StrokeWidth](../../aspose.gis.rendering.symbolizers/simplefill/strokewidth/) { get; set; } | Gibt die Breite der Linie an. |
+| [VerticalOffset](../../aspose.gis.rendering.symbolizers/simplefill/verticaloffset/) { get; set; } | Gibt den vertikalen Versatz von einer Polygonposition zur gerenderten Form an. |
 
 ## Methoden
 
 | Name | Beschreibung |
 | --- | --- |
-| [Clone](../../aspose.gis.rendering.symbolizers/simplefill/clone)() | Klont diese Instanz. |
+| [Clone](../../aspose.gis.rendering.symbolizers/simplefill/clone/)() | Klont diese Instanz. |
 
 ### Siehe auch
 
-* class [VectorSymbolizer](../vectorsymbolizer)
-* namensraum [Aspose.Gis.Rendering.Symbolizers](../../aspose.gis.rendering.symbolizers)
+* class [VectorSymbolizer](../vectorsymbolizer/)
+* namensraum [Aspose.Gis.Rendering.Symbolizers](../../aspose.gis.rendering.symbolizers/)
 * Montage [Aspose.GIS](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.GIS.dll -->
+

@@ -1,14 +1,14 @@
 ---
-title: OpenLayer
+title: RasterDriver.OpenLayer
 second_title: Aspose.GIS for .NET API Referansı
-description: Okuma için katmanı açar.
+description: RasterDriver yöntem. Okumak için katmanı açar.
 type: docs
 weight: 20
 url: /tr/net/aspose.gis/rasterdriver/openlayer/
 ---
 ## OpenLayer(AbstractPath, RasterDriverOptions) {#openlayer_1}
 
-Okuma için katmanı açar.
+Okumak için katmanı açar.
 
 ```csharp
 public abstract RasterLayer OpenLayer(AbstractPath path, RasterDriverOptions options)
@@ -21,31 +21,31 @@ public abstract RasterLayer OpenLayer(AbstractPath path, RasterDriverOptions opt
 
 ### Geri dönüş değeri
 
-bir örneği[`RasterLayer`](../../../aspose.gis.raster/rasterlayer).
+bir örneği[`RasterLayer`](../../../aspose.gis.raster/rasterlayer/).
 
 ### istisnalar
 
 | istisna | şart |
 | --- | --- |
-| ArgumentException | Seçenekler nesnesi, bu sürücü için yanlış bir türe sahip. |
+| ArgumentException | Seçenekler nesnesi bu sürücü için yanlış bir türe sahip. |
 | ArgumentNullException | yol`null`. |
 | IOException | Bir G/Ç hatası oluştu. |
-| NotSupportedException | Sürücü tarama katmanlarını açamıyor (bkz.[`CanOpenLayers`](../canopenlayers)). |
+| NotSupportedException | Sürücü tarama katmanlarını açamıyor (bkz.[`CanOpenLayers`](../canopenlayers/)). |
 
 ### Ayrıca bakınız
 
-* class [RasterLayer](../../../aspose.gis.raster/rasterlayer)
-* class [AbstractPath](../../abstractpath)
-* class [RasterDriverOptions](../../rasterdriveroptions)
-* class [RasterDriver](../../rasterdriver)
-* ad alanı [Aspose.Gis](../../rasterdriver)
+* class [RasterLayer](../../../aspose.gis.raster/rasterlayer/)
+* class [AbstractPath](../../abstractpath/)
+* class [RasterDriverOptions](../../rasterdriveroptions/)
+* class [RasterDriver](../)
+* ad alanı [Aspose.Gis](../../rasterdriver/)
 * toplantı [Aspose.GIS](../../../)
 
 ---
 
 ## OpenLayer(string) {#openlayer_2}
 
-Okuma için katmanı açar.
+Okumak için katmanı açar.
 
 ```csharp
 public RasterLayer OpenLayer(string path)
@@ -57,7 +57,7 @@ public RasterLayer OpenLayer(string path)
 
 ### Geri dönüş değeri
 
-bir örneği[`RasterLayer`](../../../aspose.gis.raster/rasterlayer).
+bir örneği[`RasterLayer`](../../../aspose.gis.raster/rasterlayer/).
 
 ### istisnalar
 
@@ -65,20 +65,20 @@ bir örneği[`RasterLayer`](../../../aspose.gis.raster/rasterlayer).
 | --- | --- |
 | ArgumentNullException | yol`null`. |
 | IOException | Bir G/Ç hatası oluştu. |
-| NotSupportedException | Sürücü tarama katmanlarını açamıyor (bkz.[`CanOpenLayers`](../canopenlayers)). |
+| NotSupportedException | Sürücü tarama katmanlarını açamıyor (bkz.[`CanOpenLayers`](../canopenlayers/)). |
 
 ### Ayrıca bakınız
 
-* class [RasterLayer](../../../aspose.gis.raster/rasterlayer)
-* class [RasterDriver](../../rasterdriver)
-* ad alanı [Aspose.Gis](../../rasterdriver)
+* class [RasterLayer](../../../aspose.gis.raster/rasterlayer/)
+* class [RasterDriver](../)
+* ad alanı [Aspose.Gis](../../rasterdriver/)
 * toplantı [Aspose.GIS](../../../)
 
 ---
 
 ## OpenLayer(AbstractPath) {#openlayer}
 
-Okuma için katmanı açar.
+Okumak için katmanı açar.
 
 ```csharp
 public RasterLayer OpenLayer(AbstractPath path)
@@ -90,7 +90,7 @@ public RasterLayer OpenLayer(AbstractPath path)
 
 ### Geri dönüş değeri
 
-bir örneği[`RasterLayer`](../../../aspose.gis.raster/rasterlayer).
+bir örneği[`RasterLayer`](../../../aspose.gis.raster/rasterlayer/).
 
 ### istisnalar
 
@@ -98,21 +98,21 @@ bir örneği[`RasterLayer`](../../../aspose.gis.raster/rasterlayer).
 | --- | --- |
 | ArgumentNullException | yol`null`. |
 | IOException | Bir G/Ç hatası oluştu. |
-| NotSupportedException | Sürücü tarama katmanlarını açamıyor (bkz.[`CanOpenLayers`](../canopenlayers)). |
+| NotSupportedException | Sürücü tarama katmanlarını açamıyor (bkz.[`CanOpenLayers`](../canopenlayers/)). |
 
 ### Ayrıca bakınız
 
-* class [RasterLayer](../../../aspose.gis.raster/rasterlayer)
-* class [AbstractPath](../../abstractpath)
-* class [RasterDriver](../../rasterdriver)
-* ad alanı [Aspose.Gis](../../rasterdriver)
+* class [RasterLayer](../../../aspose.gis.raster/rasterlayer/)
+* class [AbstractPath](../../abstractpath/)
+* class [RasterDriver](../)
+* ad alanı [Aspose.Gis](../../rasterdriver/)
 * toplantı [Aspose.GIS](../../../)
 
 ---
 
 ## OpenLayer(string, RasterDriverOptions) {#openlayer_3}
 
-Okuma için katmanı açar.
+Okumak için katmanı açar.
 
 ```csharp
 public RasterLayer OpenLayer(string path, RasterDriverOptions options)
@@ -125,23 +125,23 @@ public RasterLayer OpenLayer(string path, RasterDriverOptions options)
 
 ### Geri dönüş değeri
 
-bir örneği[`RasterLayer`](../../../aspose.gis.raster/rasterlayer).
+bir örneği[`RasterLayer`](../../../aspose.gis.raster/rasterlayer/).
 
 ### istisnalar
 
 | istisna | şart |
 | --- | --- |
-| ArgumentException | Seçenekler nesnesi, bu sürücü için yanlış bir türe sahip. |
+| ArgumentException | Seçenekler nesnesi bu sürücü için yanlış bir türe sahip. |
 | ArgumentNullException | yol`null`. |
 | IOException | Bir G/Ç hatası oluştu. |
-| NotSupportedException | Sürücü tarama katmanlarını açamıyor (bkz.[`CanOpenLayers`](../canopenlayers)). |
+| NotSupportedException | Sürücü tarama katmanlarını açamıyor (bkz.[`CanOpenLayers`](../canopenlayers/)). |
 
 ### Ayrıca bakınız
 
-* class [RasterLayer](../../../aspose.gis.raster/rasterlayer)
-* class [RasterDriverOptions](../../rasterdriveroptions)
-* class [RasterDriver](../../rasterdriver)
-* ad alanı [Aspose.Gis](../../rasterdriver)
+* class [RasterLayer](../../../aspose.gis.raster/rasterlayer/)
+* class [RasterDriverOptions](../../rasterdriveroptions/)
+* class [RasterDriver](../)
+* ad alanı [Aspose.Gis](../../rasterdriver/)
 * toplantı [Aspose.GIS](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.GIS.dll -->
+

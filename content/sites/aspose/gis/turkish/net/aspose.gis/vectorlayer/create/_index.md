@@ -1,7 +1,7 @@
 ---
-title: Create
+title: VectorLayer.Create
 second_title: Aspose.GIS for .NET API Referansı
-description: Katmanı oluşturur ve yeni özellikler eklemek için açar.
+description: VectorLayer yöntem. Katmanı oluşturur ve yeni özellikler eklemek için açar.
 type: docs
 weight: 10
 url: /tr/net/aspose.gis/vectorlayer/create/
@@ -21,22 +21,22 @@ public static VectorLayer Create(string path, FileDriver driver)
 
 ### Geri dönüş değeri
 
-Salt okunur bir katman.
+Salt yazılır bir katman.
 
 ### istisnalar
 
 | istisna | şart |
 | --- | --- |
 | ArgumentNullException | yol`null`. |
-| ArgumentException | Seçenekler nesnesi, bu sürücü için yanlış bir türe sahip. |
-| [GisException](../../gisexception) | Özellik dosyaya yazılırken hata oluştu. |
+| ArgumentException | Seçenekler nesnesi bu sürücü için yanlış bir türe sahip. |
+| [GisException](../../gisexception/) | Özelliği dosyaya yazarken hata oluştu. |
 | IOException | Bir G/Ç hatası oluştu. |
 
 ### Ayrıca bakınız
 
-* class [FileDriver](../../filedriver)
-* class [VectorLayer](../../vectorlayer)
-* ad alanı [Aspose.Gis](../../vectorlayer)
+* class [FileDriver](../../filedriver/)
+* class [VectorLayer](../)
+* ad alanı [Aspose.Gis](../../vectorlayer/)
 * toplantı [Aspose.GIS](../../../)
 
 ---
@@ -57,23 +57,23 @@ public static VectorLayer Create(string path, FileDriver driver, DriverOptions o
 
 ### Geri dönüş değeri
 
-Salt okunur bir katman.
+Salt yazılır bir katman.
 
 ### istisnalar
 
 | istisna | şart |
 | --- | --- |
 | ArgumentNullException | yol`null`. |
-| ArgumentException | Seçenekler nesnesi, bu sürücü için yanlış bir türe sahip. |
-| [GisException](../../gisexception) | Özellik dosyaya yazılırken hata oluştu. |
+| ArgumentException | Seçenekler nesnesi bu sürücü için yanlış bir türe sahip. |
+| [GisException](../../gisexception/) | Özelliği dosyaya yazarken hata oluştu. |
 | IOException | Bir G/Ç hatası oluştu. |
 
 ### Ayrıca bakınız
 
-* class [FileDriver](../../filedriver)
-* class [DriverOptions](../../driveroptions)
-* class [VectorLayer](../../vectorlayer)
-* ad alanı [Aspose.Gis](../../vectorlayer)
+* class [FileDriver](../../filedriver/)
+* class [DriverOptions](../../driveroptions/)
+* class [VectorLayer](../)
+* ad alanı [Aspose.Gis](../../vectorlayer/)
 * toplantı [Aspose.GIS](../../../)
 
 ---
@@ -93,23 +93,23 @@ public static VectorLayer Create(AbstractPath path, FileDriver driver)
 
 ### Geri dönüş değeri
 
-Salt okunur bir katman.
+Salt yazılır bir katman.
 
 ### istisnalar
 
 | istisna | şart |
 | --- | --- |
 | ArgumentNullException | yol`null`. |
-| ArgumentException | Seçenekler nesnesi, bu sürücü için yanlış bir türe sahip. |
-| [GisException](../../gisexception) | Özellik dosyaya yazılırken hata oluştu. |
+| ArgumentException | Seçenekler nesnesi bu sürücü için yanlış bir türe sahip. |
+| [GisException](../../gisexception/) | Özelliği dosyaya yazarken hata oluştu. |
 | IOException | Bir G/Ç hatası oluştu. |
 
 ### Ayrıca bakınız
 
-* class [AbstractPath](../../abstractpath)
-* class [FileDriver](../../filedriver)
-* class [VectorLayer](../../vectorlayer)
-* ad alanı [Aspose.Gis](../../vectorlayer)
+* class [AbstractPath](../../abstractpath/)
+* class [FileDriver](../../filedriver/)
+* class [VectorLayer](../)
+* ad alanı [Aspose.Gis](../../vectorlayer/)
 * toplantı [Aspose.GIS](../../../)
 
 ---
@@ -130,31 +130,31 @@ public static VectorLayer Create(AbstractPath path, FileDriver driver, DriverOpt
 
 ### Geri dönüş değeri
 
-Salt okunur bir katman.
+Salt yazılır bir katman.
 
 ### istisnalar
 
 | istisna | şart |
 | --- | --- |
 | ArgumentNullException | yol`null`. |
-| ArgumentException | Seçenekler nesnesi, bu sürücü için yanlış bir türe sahip. |
-| [GisException](../../gisexception) | Özellik dosyaya yazılırken hata oluştu. |
+| ArgumentException | Seçenekler nesnesi bu sürücü için yanlış bir türe sahip. |
+| [GisException](../../gisexception/) | Özelliği dosyaya yazarken hata oluştu. |
 | IOException | Bir G/Ç hatası oluştu. |
 
 ### Ayrıca bakınız
 
-* class [AbstractPath](../../abstractpath)
-* class [FileDriver](../../filedriver)
-* class [DriverOptions](../../driveroptions)
-* class [VectorLayer](../../vectorlayer)
-* ad alanı [Aspose.Gis](../../vectorlayer)
+* class [AbstractPath](../../abstractpath/)
+* class [FileDriver](../../filedriver/)
+* class [DriverOptions](../../driveroptions/)
+* class [VectorLayer](../)
+* ad alanı [Aspose.Gis](../../vectorlayer/)
 * toplantı [Aspose.GIS](../../../)
 
 ---
 
 ## Create(string, FileDriver, SpatialReferenceSystem) {#create_7}
 
-Katmanı oluşturur ve ekleme için açar.
+Katmanı oluşturur ve eklemek için açar.
 
 ```csharp
 public static VectorLayer Create(string path, FileDriver driver, 
@@ -169,30 +169,30 @@ public static VectorLayer Create(string path, FileDriver driver,
 
 ### Geri dönüş değeri
 
-bir örneği[`VectorLayer`](../../vectorlayer).
+bir örneği[`VectorLayer`](../).
 
 ### istisnalar
 
 | istisna | şart |
 | --- | --- |
 | ArgumentNullException | yol`null`. |
-| [GisException](../../gisexception) | Özellik dosyadan/dosyadan okunurken veya yazılırken hata oluştu. |
+| [GisException](../../gisexception/) | Özelliği dosyaya/dosyadan okurken veya yazarken hata oluştu. |
 | IOException | Bir G/Ç hatası oluştu. |
-| NotSupportedException | Mekansal referans sistemi sürücü tarafından desteklenmiyor. Kullanım[`SupportsSpatialReferenceSystem`](../../filedriver/supportsspatialreferencesystem) uzamsal referans sisteminin desteklenip desteklenmediğini kontrol etmek için. |
+| NotSupportedException | Uzamsal referans sistemi sürücü tarafından desteklenmiyor. Kullanım[`SupportsSpatialReferenceSystem`](../../filedriver/supportsspatialreferencesystem/) uzamsal referans sisteminin desteklenip desteklenmediğini kontrol etmek için. |
 
 ### Ayrıca bakınız
 
-* class [FileDriver](../../filedriver)
-* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem)
-* class [VectorLayer](../../vectorlayer)
-* ad alanı [Aspose.Gis](../../vectorlayer)
+* class [FileDriver](../../filedriver/)
+* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem/)
+* class [VectorLayer](../)
+* ad alanı [Aspose.Gis](../../vectorlayer/)
 * toplantı [Aspose.GIS](../../../)
 
 ---
 
 ## Create(AbstractPath, FileDriver, SpatialReferenceSystem) {#create_3}
 
-Katmanı oluşturur ve ekleme için açar.
+Katmanı oluşturur ve eklemek için açar.
 
 ```csharp
 public static VectorLayer Create(AbstractPath path, FileDriver driver, 
@@ -207,31 +207,31 @@ public static VectorLayer Create(AbstractPath path, FileDriver driver,
 
 ### Geri dönüş değeri
 
-bir örneği[`VectorLayer`](../../vectorlayer).
+bir örneği[`VectorLayer`](../).
 
 ### istisnalar
 
 | istisna | şart |
 | --- | --- |
 | ArgumentNullException | yol`null`. |
-| [GisException](../../gisexception) | Özellik dosyadan/dosyadan okunurken veya yazılırken hata oluştu. |
+| [GisException](../../gisexception/) | Özelliği dosyaya/dosyadan okurken veya yazarken hata oluştu. |
 | IOException | Bir G/Ç hatası oluştu. |
-| NotSupportedException | Mekansal referans sistemi sürücü tarafından desteklenmiyor. Kullanım[`SupportsSpatialReferenceSystem`](../../filedriver/supportsspatialreferencesystem) uzamsal referans sisteminin desteklenip desteklenmediğini kontrol etmek için. |
+| NotSupportedException | Uzamsal referans sistemi sürücü tarafından desteklenmiyor. Kullanım[`SupportsSpatialReferenceSystem`](../../filedriver/supportsspatialreferencesystem/) uzamsal referans sisteminin desteklenip desteklenmediğini kontrol etmek için. |
 
 ### Ayrıca bakınız
 
-* class [AbstractPath](../../abstractpath)
-* class [FileDriver](../../filedriver)
-* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem)
-* class [VectorLayer](../../vectorlayer)
-* ad alanı [Aspose.Gis](../../vectorlayer)
+* class [AbstractPath](../../abstractpath/)
+* class [FileDriver](../../filedriver/)
+* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem/)
+* class [VectorLayer](../)
+* ad alanı [Aspose.Gis](../../vectorlayer/)
 * toplantı [Aspose.GIS](../../../)
 
 ---
 
 ## Create(string, FileDriver, DriverOptions, SpatialReferenceSystem) {#create_6}
 
-Katmanı oluşturur ve ekleme için açar.
+Katmanı oluşturur ve eklemek için açar.
 
 ```csharp
 public static VectorLayer Create(string path, FileDriver driver, DriverOptions options, 
@@ -247,32 +247,32 @@ public static VectorLayer Create(string path, FileDriver driver, DriverOptions o
 
 ### Geri dönüş değeri
 
-bir örneği[`VectorLayer`](../../vectorlayer).
+bir örneği[`VectorLayer`](../).
 
 ### istisnalar
 
 | istisna | şart |
 | --- | --- |
 | ArgumentNullException | yol`null`. |
-| ArgumentException | Seçenekler nesnesi, bu sürücü için yanlış bir türe sahip. |
-| [GisException](../../gisexception) | Özellik dosyadan/dosyadan okunurken veya yazılırken hata oluştu. |
+| ArgumentException | Seçenekler nesnesi bu sürücü için yanlış bir türe sahip. |
+| [GisException](../../gisexception/) | Özelliği dosyaya/dosyadan okurken veya yazarken hata oluştu. |
 | IOException | Bir G/Ç hatası oluştu. |
-| NotSupportedException | Mekansal referans sistemi sürücü tarafından desteklenmiyor. Kullanım[`SupportsSpatialReferenceSystem`](../../filedriver/supportsspatialreferencesystem) uzamsal referans sisteminin desteklenip desteklenmediğini kontrol etmek için. |
+| NotSupportedException | Uzamsal referans sistemi sürücü tarafından desteklenmiyor. Kullanım[`SupportsSpatialReferenceSystem`](../../filedriver/supportsspatialreferencesystem/) uzamsal referans sisteminin desteklenip desteklenmediğini kontrol etmek için. |
 
 ### Ayrıca bakınız
 
-* class [FileDriver](../../filedriver)
-* class [DriverOptions](../../driveroptions)
-* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem)
-* class [VectorLayer](../../vectorlayer)
-* ad alanı [Aspose.Gis](../../vectorlayer)
+* class [FileDriver](../../filedriver/)
+* class [DriverOptions](../../driveroptions/)
+* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem/)
+* class [VectorLayer](../)
+* ad alanı [Aspose.Gis](../../vectorlayer/)
 * toplantı [Aspose.GIS](../../../)
 
 ---
 
 ## Create(AbstractPath, FileDriver, DriverOptions, SpatialReferenceSystem) {#create_2}
 
-Katmanı oluşturur ve ekleme için açar.
+Katmanı oluşturur ve eklemek için açar.
 
 ```csharp
 public static VectorLayer Create(AbstractPath path, FileDriver driver, DriverOptions options, 
@@ -288,26 +288,26 @@ public static VectorLayer Create(AbstractPath path, FileDriver driver, DriverOpt
 
 ### Geri dönüş değeri
 
-bir örneği[`VectorLayer`](../../vectorlayer).
+bir örneği[`VectorLayer`](../).
 
 ### istisnalar
 
 | istisna | şart |
 | --- | --- |
 | ArgumentNullException | yol`null`. |
-| ArgumentException | Seçenekler nesnesi, bu sürücü için yanlış bir türe sahip. |
-| [GisException](../../gisexception) | Özellik dosyadan/dosyadan okunurken veya yazılırken hata oluştu. |
+| ArgumentException | Seçenekler nesnesi bu sürücü için yanlış bir türe sahip. |
+| [GisException](../../gisexception/) | Özelliği dosyaya/dosyadan okurken veya yazarken hata oluştu. |
 | IOException | Bir G/Ç hatası oluştu. |
-| NotSupportedException | Mekansal referans sistemi sürücü tarafından desteklenmiyor. Kullanım[`SupportsSpatialReferenceSystem`](../../filedriver/supportsspatialreferencesystem) uzamsal referans sisteminin desteklenip desteklenmediğini kontrol etmek için. |
+| NotSupportedException | Uzamsal referans sistemi sürücü tarafından desteklenmiyor. Kullanım[`SupportsSpatialReferenceSystem`](../../filedriver/supportsspatialreferencesystem/) uzamsal referans sisteminin desteklenip desteklenmediğini kontrol etmek için. |
 
 ### Ayrıca bakınız
 
-* class [AbstractPath](../../abstractpath)
-* class [FileDriver](../../filedriver)
-* class [DriverOptions](../../driveroptions)
-* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem)
-* class [VectorLayer](../../vectorlayer)
-* ad alanı [Aspose.Gis](../../vectorlayer)
+* class [AbstractPath](../../abstractpath/)
+* class [FileDriver](../../filedriver/)
+* class [DriverOptions](../../driveroptions/)
+* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem/)
+* class [VectorLayer](../)
+* ad alanı [Aspose.Gis](../../vectorlayer/)
 * toplantı [Aspose.GIS](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.GIS.dll -->
+

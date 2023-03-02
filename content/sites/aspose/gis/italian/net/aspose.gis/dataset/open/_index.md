@@ -1,7 +1,7 @@
 ---
-title: Open
+title: Dataset.Open
 second_title: Riferimento API Aspose.GIS per .NET
-description: Apre il set di dati.
+description: Dataset metodo. Apre il set di dati.
 type: docs
 weight: 20
 url: /it/net/aspose.gis/dataset/open/
@@ -21,21 +21,21 @@ public static Dataset Open(string path, FileDriver driver)
 
 ### Valore di ritorno
 
-Un'istanza di[`Dataset`](../../dataset).
+Un'istanza di[`Dataset`](../).
 
 ### Eccezioni
 
 | eccezione | condizione |
 | --- | --- |
 | ArgumentNullException | Il percorso è`null`. |
-| [GisException](../../gisexception) | Errore durante la lettura del set di dati. |
+| [GisException](../../gisexception/) | Errore durante la lettura del set di dati. |
 | IOException | Si è verificato un errore di I/O. |
 
 ### Guarda anche
 
-* class [FileDriver](../../filedriver)
-* class [Dataset](../../dataset)
-* spazio dei nomi [Aspose.Gis](../../dataset)
+* class [FileDriver](../../filedriver/)
+* class [Dataset](../)
+* spazio dei nomi [Aspose.Gis](../../dataset/)
 * assemblea [Aspose.GIS](../../../)
 
 ---
@@ -55,22 +55,22 @@ public static Dataset Open(AbstractPath path, FileDriver driver)
 
 ### Valore di ritorno
 
-Un'istanza di[`Dataset`](../../dataset).
+Un'istanza di[`Dataset`](../).
 
 ### Eccezioni
 
 | eccezione | condizione |
 | --- | --- |
 | ArgumentNullException | Il percorso è`null`. |
-| [GisException](../../gisexception) | Errore durante la lettura del set di dati. |
+| [GisException](../../gisexception/) | Errore durante la lettura del set di dati. |
 | IOException | Si è verificato un errore di I/O. |
 
 ### Guarda anche
 
-* class [AbstractPath](../../abstractpath)
-* class [FileDriver](../../filedriver)
-* class [Dataset](../../dataset)
-* spazio dei nomi [Aspose.Gis](../../dataset)
+* class [AbstractPath](../../abstractpath/)
+* class [FileDriver](../../filedriver/)
+* class [Dataset](../)
+* spazio dei nomi [Aspose.Gis](../../dataset/)
 * assemblea [Aspose.GIS](../../../)
 
 ---
@@ -87,27 +87,27 @@ public static Dataset Open(string path, FileDriver driver, DriverOptions options
 | --- | --- | --- |
 | path | String | Percorso del set di dati. |
 | driver | FileDriver | Driver da usare. |
-| options | DriverOptions | Opzioni specifiche del driver. |
+| options | DriverOptions | Opzioni specifiche del conducente. |
 
 ### Valore di ritorno
 
-Un'istanza di[`Dataset`](../../dataset).
+Un'istanza di[`Dataset`](../).
 
 ### Eccezioni
 
 | eccezione | condizione |
 | --- | --- |
-| ArgumentException | L'oggetto Opzioni ha un tipo errato per questo driver. |
+| ArgumentException | L'oggetto Opzioni ha un tipo non corretto per questo driver. |
 | ArgumentNullException | Il percorso è`null`. |
-| [GisException](../../gisexception) | Errore durante la lettura del set di dati. |
+| [GisException](../../gisexception/) | Errore durante la lettura del set di dati. |
 | IOException | Si è verificato un errore di I/O. |
 
 ### Guarda anche
 
-* class [FileDriver](../../filedriver)
-* class [DriverOptions](../../driveroptions)
-* class [Dataset](../../dataset)
-* spazio dei nomi [Aspose.Gis](../../dataset)
+* class [FileDriver](../../filedriver/)
+* class [DriverOptions](../../driveroptions/)
+* class [Dataset](../)
+* spazio dei nomi [Aspose.Gis](../../dataset/)
 * assemblea [Aspose.GIS](../../../)
 
 ---
@@ -124,28 +124,28 @@ public static Dataset Open(AbstractPath path, FileDriver driver, DriverOptions o
 | --- | --- | --- |
 | path | AbstractPath | Percorso del set di dati. |
 | driver | FileDriver | Driver da usare. |
-| options | DriverOptions | Opzioni specifiche del driver. |
+| options | DriverOptions | Opzioni specifiche del conducente. |
 
 ### Valore di ritorno
 
-Un'istanza di[`Dataset`](../../dataset).
+Un'istanza di[`Dataset`](../).
 
 ### Eccezioni
 
 | eccezione | condizione |
 | --- | --- |
-| ArgumentException | L'oggetto Opzioni ha un tipo errato per questo driver. |
+| ArgumentException | L'oggetto Opzioni ha un tipo non corretto per questo driver. |
 | ArgumentNullException | Il percorso è`null`. |
-| [GisException](../../gisexception) | Errore durante la lettura del set di dati. |
+| [GisException](../../gisexception/) | Errore durante la lettura del set di dati. |
 | IOException | Si è verificato un errore di I/O. |
 
 ### Guarda anche
 
-* class [AbstractPath](../../abstractpath)
-* class [FileDriver](../../filedriver)
-* class [DriverOptions](../../driveroptions)
-* class [Dataset](../../dataset)
-* spazio dei nomi [Aspose.Gis](../../dataset)
+* class [AbstractPath](../../abstractpath/)
+* class [FileDriver](../../filedriver/)
+* class [DriverOptions](../../driveroptions/)
+* class [Dataset](../)
+* spazio dei nomi [Aspose.Gis](../../dataset/)
 * assemblea [Aspose.GIS](../../../)
 
 ---
@@ -165,22 +165,22 @@ public static Dataset Open(IDbConnection connection, DatabaseDriver driver)
 
 ### Valore di ritorno
 
-Un'istanza di[`Dataset`](../../dataset).
+Un'istanza di[`Dataset`](../).
 
 ### Eccezioni
 
 | eccezione | condizione |
 | --- | --- |
-| ArgumentException | L'oggetto Opzioni ha un tipo errato per questo driver. |
+| ArgumentException | L'oggetto Opzioni ha un tipo non corretto per questo driver. |
 | ArgumentNullException | Il percorso è`null`. |
-| [GisException](../../gisexception) | Errore durante la lettura del set di dati. |
+| [GisException](../../gisexception/) | Errore durante la lettura del set di dati. |
 | IOException | Si è verificato un errore di I/O. |
 
 ### Guarda anche
 
-* class [DatabaseDriver](../../databasedriver)
-* class [Dataset](../../dataset)
-* spazio dei nomi [Aspose.Gis](../../dataset)
+* class [DatabaseDriver](../../databasedriver/)
+* class [Dataset](../)
+* spazio dei nomi [Aspose.Gis](../../dataset/)
 * assemblea [Aspose.GIS](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.GIS.dll -->
+

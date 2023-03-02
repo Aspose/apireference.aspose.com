@@ -1,14 +1,14 @@
 ---
-title: AsImage
+title: IGeometry.AsImage
 second_title: Aspose.GIS for .NET API Referansı
-description: Bu geometriyi bir görüntü temsiline aktarın.
+description: IGeometry yöntem. Bu geometriyi bir görüntü sunumuna aktarın.
 type: docs
 weight: 110
 url: /tr/net/aspose.gis.geometries/igeometry/asimage/
 ---
 ## AsImage(AbstractPath, Measurement, Measurement, Renderer, VectorSymbolizer) {#asimage_1}
 
-Bu geometriyi bir görüntü temsiline aktarın.
+Bu geometriyi bir görüntü sunumuna aktarın.
 
 ```csharp
 public void AsImage(AbstractPath outputPath, Measurement width, Measurement height, 
@@ -17,37 +17,37 @@ public void AsImage(AbstractPath outputPath, Measurement width, Measurement heig
 
 | Parametre | Tip | Tanım |
 | --- | --- | --- |
-| outputPath | AbstractPath | Çıktı görüntüsünün yolu. |
+| outputPath | AbstractPath | Çıkış görüntüsünün yolu. |
 | width | Measurement | Haritanın genişliği. |
 | height | Measurement | Haritanın yüksekliği. |
 | renderer | Renderer | Kullanılacak oluşturucu. |
-| symbolizer | VectorSymbolizer | Render için kullanılacak bir sembolleştirici. Eğer`null`, varsayılan sembolleştirici kullanılır. |
+| symbolizer | VectorSymbolizer | İşleme için kullanılacak bir sembolleştirici. Eğer`null`, varsayılan simgeleyici kullanılır. |
 
 ### istisnalar
 
 | istisna | şart |
 | --- | --- |
-| ArgumentNullException | herhangi bir argüman`null`. |
+| ArgumentNullException | Herhangi bir argüman`null`. |
 | IOException | Bir G/Ç hatası oluştu. |
-| [GisException](../../../aspose.gis/gisexception) | GIS verileri işlenirken veya okunurken bir hata oluştu. |
+| [GisException](../../../aspose.gis/gisexception/) | CBS verilerini işlerken veya okurken bir hata oluştu. |
 | ArgumentException | Genişlik veya yükseklik birimi!:SpatialReferencing.Unit.MapUnits . |
 | ArgumentOutOfRangeException | Genişlik veya yükseklik negatif veya sıfırdır. |
 
 ### Ayrıca bakınız
 
-* class [AbstractPath](../../../aspose.gis/abstractpath)
-* struct [Measurement](../../../aspose.gis.rendering/measurement)
-* class [Renderer](../../../aspose.gis.rendering/renderer)
-* class [VectorSymbolizer](../../../aspose.gis.rendering.symbolizers/vectorsymbolizer)
-* interface [IGeometry](../../igeometry)
-* ad alanı [Aspose.Gis.Geometries](../../igeometry)
+* class [AbstractPath](../../../aspose.gis/abstractpath/)
+* struct [Measurement](../../../aspose.gis.rendering/measurement/)
+* class [Renderer](../../../aspose.gis.rendering/renderer/)
+* class [VectorSymbolizer](../../../aspose.gis.rendering.symbolizers/vectorsymbolizer/)
+* interface [IGeometry](../)
+* ad alanı [Aspose.Gis.Geometries](../../igeometry/)
 * toplantı [Aspose.GIS](../../../)
 
 ---
 
 ## AsImage(string, Measurement, Measurement, Renderer, VectorSymbolizer) {#asimage_2}
 
-Bu geometriyi bir görüntü temsiline aktarın.
+Bu geometriyi bir görüntü sunumuna aktarın.
 
 ```csharp
 public void AsImage(string outputPath, Measurement width, Measurement height, Renderer renderer, 
@@ -56,36 +56,36 @@ public void AsImage(string outputPath, Measurement width, Measurement height, Re
 
 | Parametre | Tip | Tanım |
 | --- | --- | --- |
-| outputPath | String | Çıktı görüntüsünün yolu. |
+| outputPath | String | Çıkış görüntüsünün yolu. |
 | width | Measurement | Haritanın genişliği. |
 | height | Measurement | Haritanın yüksekliği. |
 | renderer | Renderer | Kullanılacak oluşturucu. |
-| symbolizer | VectorSymbolizer | Render için kullanılacak bir sembolleştirici. Eğer`null`, varsayılan sembolleştirici kullanılır. |
+| symbolizer | VectorSymbolizer | İşleme için kullanılacak bir sembolleştirici. Eğer`null`, varsayılan simgeleyici kullanılır. |
 
 ### istisnalar
 
 | istisna | şart |
 | --- | --- |
-| ArgumentNullException | herhangi bir argüman`null`. |
+| ArgumentNullException | Herhangi bir argüman`null`. |
 | IOException | Bir G/Ç hatası oluştu. |
-| [GisException](../../../aspose.gis/gisexception) | GIS verileri işlenirken veya okunurken bir hata oluştu. |
+| [GisException](../../../aspose.gis/gisexception/) | CBS verilerini işlerken veya okurken bir hata oluştu. |
 | ArgumentException | Genişlik veya yükseklik birimi!:SpatialReferencing.Unit.MapUnits . |
 | ArgumentOutOfRangeException | Genişlik veya yükseklik negatif veya sıfırdır. |
 
 ### Ayrıca bakınız
 
-* struct [Measurement](../../../aspose.gis.rendering/measurement)
-* class [Renderer](../../../aspose.gis.rendering/renderer)
-* class [VectorSymbolizer](../../../aspose.gis.rendering.symbolizers/vectorsymbolizer)
-* interface [IGeometry](../../igeometry)
-* ad alanı [Aspose.Gis.Geometries](../../igeometry)
+* struct [Measurement](../../../aspose.gis.rendering/measurement/)
+* class [Renderer](../../../aspose.gis.rendering/renderer/)
+* class [VectorSymbolizer](../../../aspose.gis.rendering.symbolizers/vectorsymbolizer/)
+* interface [IGeometry](../)
+* ad alanı [Aspose.Gis.Geometries](../../igeometry/)
 * toplantı [Aspose.GIS](../../../)
 
 ---
 
 ## AsImage(Measurement, Measurement, Renderer, VectorSymbolizer) {#asimage}
 
-Bu geometriyi bir görüntü temsiline aktarın.
+Bu geometriyi bir görüntü sunumuna aktarın.
 
 ```csharp
 public Stream AsImage(Measurement width, Measurement height, Renderer renderer, 
@@ -97,7 +97,7 @@ public Stream AsImage(Measurement width, Measurement height, Renderer renderer,
 | width | Measurement | Haritanın genişliği. |
 | height | Measurement | Haritanın yüksekliği. |
 | renderer | Renderer | Kullanılacak oluşturucu. |
-| symbolizer | VectorSymbolizer | Render için kullanılacak bir sembolleştirici. Eğer`null`, varsayılan sembolleştirici kullanılır. |
+| symbolizer | VectorSymbolizer | İşleme için kullanılacak bir sembolleştirici. Eğer`null`, varsayılan simgeleyici kullanılır. |
 
 ### Geri dönüş değeri
 
@@ -107,19 +107,19 @@ Akış olarak görüntü
 
 | istisna | şart |
 | --- | --- |
-| ArgumentNullException | herhangi bir argüman`null`. |
+| ArgumentNullException | Herhangi bir argüman`null`. |
 | IOException | Bir G/Ç hatası oluştu. |
-| [GisException](../../../aspose.gis/gisexception) | GIS verileri işlenirken veya okunurken bir hata oluştu. |
+| [GisException](../../../aspose.gis/gisexception/) | CBS verilerini işlerken veya okurken bir hata oluştu. |
 | ArgumentException | Genişlik veya yükseklik birimi!:SpatialReferencing.Unit.MapUnits . |
 | ArgumentOutOfRangeException | Genişlik veya yükseklik negatif veya sıfırdır. |
 
 ### Ayrıca bakınız
 
-* struct [Measurement](../../../aspose.gis.rendering/measurement)
-* class [Renderer](../../../aspose.gis.rendering/renderer)
-* class [VectorSymbolizer](../../../aspose.gis.rendering.symbolizers/vectorsymbolizer)
-* interface [IGeometry](../../igeometry)
-* ad alanı [Aspose.Gis.Geometries](../../igeometry)
+* struct [Measurement](../../../aspose.gis.rendering/measurement/)
+* class [Renderer](../../../aspose.gis.rendering/renderer/)
+* class [VectorSymbolizer](../../../aspose.gis.rendering.symbolizers/vectorsymbolizer/)
+* interface [IGeometry](../)
+* ad alanı [Aspose.Gis.Geometries](../../igeometry/)
 * toplantı [Aspose.GIS](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.GIS.dll -->
+

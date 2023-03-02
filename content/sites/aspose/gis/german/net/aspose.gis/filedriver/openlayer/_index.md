@@ -1,7 +1,7 @@
 ---
-title: OpenLayer
+title: FileDriver.OpenLayer
 second_title: Aspose.GIS für .NET-API-Referenz
-description: Öffnet die Ebene zum Lesen.
+description: FileDriver methode. Öffnet die Ebene zum Lesen.
 type: docs
 weight: 90
 url: /de/net/aspose.gis/filedriver/openlayer/
@@ -20,22 +20,22 @@ public VectorLayer OpenLayer(string path)
 
 ### Rückgabewert
 
-Eine Instanz von[`VectorLayer`](../../vectorlayer).
+Eine Instanz von[`VectorLayer`](../../vectorlayer/).
 
 ### Ausnahmen
 
 | Ausnahme | Bedingung |
 | --- | --- |
 | ArgumentNullException | Der Weg ist`null`. |
-| [GisException](../../gisexception) | Fehler beim Lesen des Features aus der Datei. |
+| [GisException](../../gisexception/) | Fehler beim Lesen des Features aus der Datei. |
 | IOException | Ein E/A-Fehler ist aufgetreten. |
-| NotSupportedException | Treiber kann Vektorebenen nicht öffnen (siehe[`CanOpenLayers`](../canopenlayers)). |
+| NotSupportedException | Treiber kann Vektorebenen nicht öffnen (siehe[`CanOpenLayers`](../canopenlayers/)). |
 
 ### Siehe auch
 
-* class [VectorLayer](../../vectorlayer)
-* class [FileDriver](../../filedriver)
-* namensraum [Aspose.Gis](../../filedriver)
+* class [VectorLayer](../../vectorlayer/)
+* class [FileDriver](../)
+* namensraum [Aspose.Gis](../../filedriver/)
 * Montage [Aspose.GIS](../../../)
 
 ---
@@ -54,23 +54,23 @@ public VectorLayer OpenLayer(AbstractPath path)
 
 ### Rückgabewert
 
-Eine Instanz von[`VectorLayer`](../../vectorlayer).
+Eine Instanz von[`VectorLayer`](../../vectorlayer/).
 
 ### Ausnahmen
 
 | Ausnahme | Bedingung |
 | --- | --- |
 | ArgumentNullException | Der Weg ist`null`. |
-| [GisException](../../gisexception) | Fehler beim Lesen des Features aus der Datei. |
+| [GisException](../../gisexception/) | Fehler beim Lesen des Features aus der Datei. |
 | IOException | Ein E/A-Fehler ist aufgetreten. |
-| NotSupportedException | Treiber kann Vektorebenen nicht öffnen (siehe[`CanOpenLayers`](../canopenlayers)). |
+| NotSupportedException | Treiber kann Vektorebenen nicht öffnen (siehe[`CanOpenLayers`](../canopenlayers/)). |
 
 ### Siehe auch
 
-* class [VectorLayer](../../vectorlayer)
-* class [AbstractPath](../../abstractpath)
-* class [FileDriver](../../filedriver)
-* namensraum [Aspose.Gis](../../filedriver)
+* class [VectorLayer](../../vectorlayer/)
+* class [AbstractPath](../../abstractpath/)
+* class [FileDriver](../)
+* namensraum [Aspose.Gis](../../filedriver/)
 * Montage [Aspose.GIS](../../../)
 
 ---
@@ -90,7 +90,7 @@ public VectorLayer OpenLayer(string path, DriverOptions options)
 
 ### Rückgabewert
 
-Eine Instanz von[`VectorLayer`](../../vectorlayer).
+Eine Instanz von[`VectorLayer`](../../vectorlayer/).
 
 ### Ausnahmen
 
@@ -98,16 +98,16 @@ Eine Instanz von[`VectorLayer`](../../vectorlayer).
 | --- | --- |
 | ArgumentException | Das Optionsobjekt hat einen falschen Typ für diesen Treiber. |
 | ArgumentNullException | Der Weg ist`null`. |
-| [GisException](../../gisexception) | Fehler beim Lesen des Features aus der Datei. |
+| [GisException](../../gisexception/) | Fehler beim Lesen des Features aus der Datei. |
 | IOException | Ein E/A-Fehler ist aufgetreten. |
-| NotSupportedException | Treiber kann Vektorebenen nicht öffnen (siehe[`CanOpenLayers`](../canopenlayers)). |
+| NotSupportedException | Treiber kann Vektorebenen nicht öffnen (siehe[`CanOpenLayers`](../canopenlayers/)). |
 
 ### Siehe auch
 
-* class [VectorLayer](../../vectorlayer)
-* class [DriverOptions](../../driveroptions)
-* class [FileDriver](../../filedriver)
-* namensraum [Aspose.Gis](../../filedriver)
+* class [VectorLayer](../../vectorlayer/)
+* class [DriverOptions](../../driveroptions/)
+* class [FileDriver](../)
+* namensraum [Aspose.Gis](../../filedriver/)
 * Montage [Aspose.GIS](../../../)
 
 ---
@@ -127,7 +127,7 @@ public abstract VectorLayer OpenLayer(AbstractPath path, DriverOptions options)
 
 ### Rückgabewert
 
-Eine Instanz von[`VectorLayer`](../../vectorlayer).
+Eine Instanz von[`VectorLayer`](../../vectorlayer/).
 
 ### Ausnahmen
 
@@ -135,17 +135,17 @@ Eine Instanz von[`VectorLayer`](../../vectorlayer).
 | --- | --- |
 | ArgumentException | Das Optionsobjekt hat einen falschen Typ für diesen Treiber. |
 | ArgumentNullException | Der Weg ist`null`. |
-| [GisException](../../gisexception) | Fehler beim Lesen des Features aus der Datei. |
+| [GisException](../../gisexception/) | Fehler beim Lesen des Features aus der Datei. |
 | IOException | Ein E/A-Fehler ist aufgetreten. |
-| NotSupportedException | Treiber kann Vektorebenen nicht öffnen (siehe[`CanOpenLayers`](../canopenlayers)). |
+| NotSupportedException | Treiber kann Vektorebenen nicht öffnen (siehe[`CanOpenLayers`](../canopenlayers/)). |
 
 ### Siehe auch
 
-* class [VectorLayer](../../vectorlayer)
-* class [AbstractPath](../../abstractpath)
-* class [DriverOptions](../../driveroptions)
-* class [FileDriver](../../filedriver)
-* namensraum [Aspose.Gis](../../filedriver)
+* class [VectorLayer](../../vectorlayer/)
+* class [AbstractPath](../../abstractpath/)
+* class [DriverOptions](../../driveroptions/)
+* class [FileDriver](../)
+* namensraum [Aspose.Gis](../../filedriver/)
 * Montage [Aspose.GIS](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.GIS.dll -->
+

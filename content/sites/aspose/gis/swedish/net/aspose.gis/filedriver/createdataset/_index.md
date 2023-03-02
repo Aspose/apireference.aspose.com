@@ -1,7 +1,7 @@
 ---
-title: CreateDataset
+title: FileDriver.CreateDataset
 second_title: Aspose.GIS för .NET API Referens
-description: Skapar en datauppsättning.
+description: FileDriver metod. Skapar en datauppsättning.
 type: docs
 weight: 50
 url: /sv/net/aspose.gis/filedriver/createdataset/
@@ -20,23 +20,23 @@ public Dataset CreateDataset(string path)
 
 ### Returvärde
 
-Ett exempel på[`Dataset`](../../dataset).
+Ett exempel på[`Dataset`](../../dataset/).
 
 ### Undantag
 
 | undantag | skick |
 | --- | --- |
 | ArgumentNullException | Vägen är`null`. |
-| [GisException](../../gisexception) | Det gick inte att skapa datauppsättningen. |
+| [GisException](../../gisexception/) | Det gick inte att skapa datauppsättningen. |
 | IOException | Ett I/O-fel uppstod. |
-| NotSupportedException | Drivrutinen kan inte öppna datauppsättningar (se[`CanOpenDatasets`](../canopendatasets)). |
+| NotSupportedException | Drivrutinen kan inte öppna datauppsättningar (se[`CanOpenDatasets`](../canopendatasets/)). |
 | InvalidOperationException | Datauppsättningen finns redan. |
 
 ### Se även
 
-* class [Dataset](../../dataset)
-* class [FileDriver](../../filedriver)
-* namnutrymme [Aspose.Gis](../../filedriver)
+* class [Dataset](../../dataset/)
+* class [FileDriver](../)
+* namnutrymme [Aspose.Gis](../../filedriver/)
 * hopsättning [Aspose.GIS](../../../)
 
 ---
@@ -55,24 +55,24 @@ public Dataset CreateDataset(AbstractPath path)
 
 ### Returvärde
 
-Ett exempel på[`Dataset`](../../dataset).
+Ett exempel på[`Dataset`](../../dataset/).
 
 ### Undantag
 
 | undantag | skick |
 | --- | --- |
 | ArgumentNullException | Vägen är`null`. |
-| [GisException](../../gisexception) | Det gick inte att skapa datauppsättningen. |
+| [GisException](../../gisexception/) | Det gick inte att skapa datauppsättningen. |
 | IOException | Ett I/O-fel uppstod. |
-| NotSupportedException | Drivrutinen kan inte öppna datauppsättningar (se[`CanOpenDatasets`](../canopendatasets)). |
+| NotSupportedException | Drivrutinen kan inte öppna datauppsättningar (se[`CanOpenDatasets`](../canopendatasets/)). |
 | InvalidOperationException | Datauppsättningen finns redan. |
 
 ### Se även
 
-* class [Dataset](../../dataset)
-* class [AbstractPath](../../abstractpath)
-* class [FileDriver](../../filedriver)
-* namnutrymme [Aspose.Gis](../../filedriver)
+* class [Dataset](../../dataset/)
+* class [AbstractPath](../../abstractpath/)
+* class [FileDriver](../)
+* namnutrymme [Aspose.Gis](../../filedriver/)
 * hopsättning [Aspose.GIS](../../../)
 
 ---
@@ -92,7 +92,7 @@ public Dataset CreateDataset(string path, DriverOptions options)
 
 ### Returvärde
 
-Ett exempel på[`Dataset`](../../dataset).
+Ett exempel på[`Dataset`](../../dataset/).
 
 ### Undantag
 
@@ -100,17 +100,17 @@ Ett exempel på[`Dataset`](../../dataset).
 | --- | --- |
 | ArgumentException | Options-objektet har en felaktig typ för den här drivrutinen. |
 | ArgumentNullException | Vägen är`null`. |
-| [GisException](../../gisexception) | Det gick inte att skapa datauppsättningen. |
+| [GisException](../../gisexception/) | Det gick inte att skapa datauppsättningen. |
 | IOException | Ett I/O-fel uppstod. |
-| NotSupportedException | Drivrutinen kan inte öppna datauppsättningar (se[`CanOpenDatasets`](../canopendatasets)). |
+| NotSupportedException | Drivrutinen kan inte öppna datauppsättningar (se[`CanOpenDatasets`](../canopendatasets/)). |
 | InvalidOperationException | Datauppsättningen finns redan. |
 
 ### Se även
 
-* class [Dataset](../../dataset)
-* class [DriverOptions](../../driveroptions)
-* class [FileDriver](../../filedriver)
-* namnutrymme [Aspose.Gis](../../filedriver)
+* class [Dataset](../../dataset/)
+* class [DriverOptions](../../driveroptions/)
+* class [FileDriver](../)
+* namnutrymme [Aspose.Gis](../../filedriver/)
 * hopsättning [Aspose.GIS](../../../)
 
 ---
@@ -130,7 +130,7 @@ public virtual Dataset CreateDataset(AbstractPath path, DriverOptions options)
 
 ### Returvärde
 
-Ett exempel på[`Dataset`](../../dataset).
+Ett exempel på[`Dataset`](../../dataset/).
 
 ### Undantag
 
@@ -138,18 +138,18 @@ Ett exempel på[`Dataset`](../../dataset).
 | --- | --- |
 | ArgumentException | Options-objektet har en felaktig typ för den här drivrutinen. |
 | ArgumentNullException | Vägen är`null`. |
-| [GisException](../../gisexception) | Det gick inte att skapa datauppsättningen. |
+| [GisException](../../gisexception/) | Det gick inte att skapa datauppsättningen. |
 | IOException | Ett I/O-fel uppstod. |
-| NotSupportedException | Drivrutinen kan inte öppna datauppsättningar (se[`CanOpenDatasets`](../canopendatasets)). |
+| NotSupportedException | Drivrutinen kan inte öppna datauppsättningar (se[`CanOpenDatasets`](../canopendatasets/)). |
 | InvalidOperationException | Datauppsättningen finns redan. |
 
 ### Se även
 
-* class [Dataset](../../dataset)
-* class [AbstractPath](../../abstractpath)
-* class [DriverOptions](../../driveroptions)
-* class [FileDriver](../../filedriver)
-* namnutrymme [Aspose.Gis](../../filedriver)
+* class [Dataset](../../dataset/)
+* class [AbstractPath](../../abstractpath/)
+* class [DriverOptions](../../driveroptions/)
+* class [FileDriver](../)
+* namnutrymme [Aspose.Gis](../../filedriver/)
 * hopsättning [Aspose.GIS](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.GIS.dll -->
+

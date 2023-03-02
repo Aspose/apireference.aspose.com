@@ -1,7 +1,7 @@
 ---
-title: CreateDataset
+title: FileDriver.CreateDataset
 second_title: Riferimento API Aspose.GIS per .NET
-description: Crea un set di dati.
+description: FileDriver metodo. Crea un set di dati.
 type: docs
 weight: 50
 url: /it/net/aspose.gis/filedriver/createdataset/
@@ -20,23 +20,23 @@ public Dataset CreateDataset(string path)
 
 ### Valore di ritorno
 
-Un'istanza di[`Dataset`](../../dataset).
+Un'istanza di[`Dataset`](../../dataset/).
 
 ### Eccezioni
 
 | eccezione | condizione |
 | --- | --- |
 | ArgumentNullException | Il percorso è`null`. |
-| [GisException](../../gisexception) | Errore durante la creazione del set di dati. |
+| [GisException](../../gisexception/) | Errore durante la creazione del set di dati. |
 | IOException | Si è verificato un errore di I/O. |
-| NotSupportedException | Il driver non può aprire i set di dati (vedi[`CanOpenDatasets`](../canopendatasets)). |
+| NotSupportedException | Il driver non può aprire i set di dati (vedere[`CanOpenDatasets`](../canopendatasets/)). |
 | InvalidOperationException | Il set di dati esiste già. |
 
 ### Guarda anche
 
-* class [Dataset](../../dataset)
-* class [FileDriver](../../filedriver)
-* spazio dei nomi [Aspose.Gis](../../filedriver)
+* class [Dataset](../../dataset/)
+* class [FileDriver](../)
+* spazio dei nomi [Aspose.Gis](../../filedriver/)
 * assemblea [Aspose.GIS](../../../)
 
 ---
@@ -55,24 +55,24 @@ public Dataset CreateDataset(AbstractPath path)
 
 ### Valore di ritorno
 
-Un'istanza di[`Dataset`](../../dataset).
+Un'istanza di[`Dataset`](../../dataset/).
 
 ### Eccezioni
 
 | eccezione | condizione |
 | --- | --- |
 | ArgumentNullException | Il percorso è`null`. |
-| [GisException](../../gisexception) | Errore durante la creazione del set di dati. |
+| [GisException](../../gisexception/) | Errore durante la creazione del set di dati. |
 | IOException | Si è verificato un errore di I/O. |
-| NotSupportedException | Il driver non può aprire i set di dati (vedi[`CanOpenDatasets`](../canopendatasets)). |
+| NotSupportedException | Il driver non può aprire i set di dati (vedere[`CanOpenDatasets`](../canopendatasets/)). |
 | InvalidOperationException | Il set di dati esiste già. |
 
 ### Guarda anche
 
-* class [Dataset](../../dataset)
-* class [AbstractPath](../../abstractpath)
-* class [FileDriver](../../filedriver)
-* spazio dei nomi [Aspose.Gis](../../filedriver)
+* class [Dataset](../../dataset/)
+* class [AbstractPath](../../abstractpath/)
+* class [FileDriver](../)
+* spazio dei nomi [Aspose.Gis](../../filedriver/)
 * assemblea [Aspose.GIS](../../../)
 
 ---
@@ -88,29 +88,29 @@ public Dataset CreateDataset(string path, DriverOptions options)
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
 | path | String | Percorso del set di dati. |
-| options | DriverOptions | Opzioni specifiche del driver. |
+| options | DriverOptions | Opzioni specifiche del conducente. |
 
 ### Valore di ritorno
 
-Un'istanza di[`Dataset`](../../dataset).
+Un'istanza di[`Dataset`](../../dataset/).
 
 ### Eccezioni
 
 | eccezione | condizione |
 | --- | --- |
-| ArgumentException | L'oggetto Opzioni ha un tipo errato per questo driver. |
+| ArgumentException | L'oggetto Opzioni ha un tipo non corretto per questo driver. |
 | ArgumentNullException | Il percorso è`null`. |
-| [GisException](../../gisexception) | Errore durante la creazione del set di dati. |
+| [GisException](../../gisexception/) | Errore durante la creazione del set di dati. |
 | IOException | Si è verificato un errore di I/O. |
-| NotSupportedException | Il driver non può aprire i set di dati (vedi[`CanOpenDatasets`](../canopendatasets)). |
+| NotSupportedException | Il driver non può aprire i set di dati (vedere[`CanOpenDatasets`](../canopendatasets/)). |
 | InvalidOperationException | Il set di dati esiste già. |
 
 ### Guarda anche
 
-* class [Dataset](../../dataset)
-* class [DriverOptions](../../driveroptions)
-* class [FileDriver](../../filedriver)
-* spazio dei nomi [Aspose.Gis](../../filedriver)
+* class [Dataset](../../dataset/)
+* class [DriverOptions](../../driveroptions/)
+* class [FileDriver](../)
+* spazio dei nomi [Aspose.Gis](../../filedriver/)
 * assemblea [Aspose.GIS](../../../)
 
 ---
@@ -126,30 +126,30 @@ public virtual Dataset CreateDataset(AbstractPath path, DriverOptions options)
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
 | path | AbstractPath | Percorso del set di dati. |
-| options | DriverOptions | Opzioni specifiche del driver. |
+| options | DriverOptions | Opzioni specifiche del conducente. |
 
 ### Valore di ritorno
 
-Un'istanza di[`Dataset`](../../dataset).
+Un'istanza di[`Dataset`](../../dataset/).
 
 ### Eccezioni
 
 | eccezione | condizione |
 | --- | --- |
-| ArgumentException | L'oggetto Opzioni ha un tipo errato per questo driver. |
+| ArgumentException | L'oggetto Opzioni ha un tipo non corretto per questo driver. |
 | ArgumentNullException | Il percorso è`null`. |
-| [GisException](../../gisexception) | Errore durante la creazione del set di dati. |
+| [GisException](../../gisexception/) | Errore durante la creazione del set di dati. |
 | IOException | Si è verificato un errore di I/O. |
-| NotSupportedException | Il driver non può aprire i set di dati (vedi[`CanOpenDatasets`](../canopendatasets)). |
+| NotSupportedException | Il driver non può aprire i set di dati (vedere[`CanOpenDatasets`](../canopendatasets/)). |
 | InvalidOperationException | Il set di dati esiste già. |
 
 ### Guarda anche
 
-* class [Dataset](../../dataset)
-* class [AbstractPath](../../abstractpath)
-* class [DriverOptions](../../driveroptions)
-* class [FileDriver](../../filedriver)
-* spazio dei nomi [Aspose.Gis](../../filedriver)
+* class [Dataset](../../dataset/)
+* class [AbstractPath](../../abstractpath/)
+* class [DriverOptions](../../driveroptions/)
+* class [FileDriver](../)
+* spazio dei nomi [Aspose.Gis](../../filedriver/)
 * assemblea [Aspose.GIS](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.GIS.dll -->
+

@@ -1,7 +1,7 @@
 ---
-title: Create
+title: Dataset.Create
 second_title: Aspose.GIS for .NET API Referansı
-description: Bir veri kümesi oluşturur.
+description: Dataset yöntem. Bir veri kümesi oluşturur.
 type: docs
 weight: 10
 url: /tr/net/aspose.gis/dataset/create/
@@ -16,29 +16,29 @@ public static Dataset Create(string path, FileDriver driver)
 
 | Parametre | Tip | Tanım |
 | --- | --- | --- |
-| path | String | Veri kümesine giden yol. |
+| path | String | Veri kümesinin yolu. |
 | driver | FileDriver | Kullanılacak sürücü. |
 
 ### Geri dönüş değeri
 
-bir örneği[`Dataset`](../../dataset).
+bir örneği[`Dataset`](../).
 
 ### istisnalar
 
 | istisna | şart |
 | --- | --- |
-| ArgumentException | Seçenekler nesnesi, bu sürücü için yanlış bir türe sahip. |
+| ArgumentException | Seçenekler nesnesi bu sürücü için yanlış bir türe sahip. |
 | ArgumentNullException | yol`null`. |
-| [GisException](../../gisexception) | Veri kümesi oluşturulurken hata oluştu. |
+| [GisException](../../gisexception/) | Veri kümesi oluşturulurken hata oluştu. |
 | IOException | Bir G/Ç hatası oluştu. |
-| NotSupportedException | Sürücü veri kümelerini açamıyor. |
+| NotSupportedException | Sürücü veri kümelerini açamaz. |
 | InvalidOperationException | Veri kümesi zaten var. |
 
 ### Ayrıca bakınız
 
-* class [FileDriver](../../filedriver)
-* class [Dataset](../../dataset)
-* ad alanı [Aspose.Gis](../../dataset)
+* class [FileDriver](../../filedriver/)
+* class [Dataset](../)
+* ad alanı [Aspose.Gis](../../dataset/)
 * toplantı [Aspose.GIS](../../../)
 
 ---
@@ -53,30 +53,30 @@ public static Dataset Create(AbstractPath path, FileDriver driver)
 
 | Parametre | Tip | Tanım |
 | --- | --- | --- |
-| path | AbstractPath | Veri kümesine giden yol. |
+| path | AbstractPath | Veri kümesinin yolu. |
 | driver | FileDriver | Kullanılacak sürücü. |
 
 ### Geri dönüş değeri
 
-bir örneği[`Dataset`](../../dataset).
+bir örneği[`Dataset`](../).
 
 ### istisnalar
 
 | istisna | şart |
 | --- | --- |
-| ArgumentException | Seçenekler nesnesi, bu sürücü için yanlış bir türe sahip. |
+| ArgumentException | Seçenekler nesnesi bu sürücü için yanlış bir türe sahip. |
 | ArgumentNullException | yol`null`. |
-| [GisException](../../gisexception) | Veri kümesi oluşturulurken hata oluştu. |
+| [GisException](../../gisexception/) | Veri kümesi oluşturulurken hata oluştu. |
 | IOException | Bir G/Ç hatası oluştu. |
-| NotSupportedException | Sürücü veri kümelerini açamıyor. |
+| NotSupportedException | Sürücü veri kümelerini açamaz. |
 | InvalidOperationException | Veri kümesi zaten var. |
 
 ### Ayrıca bakınız
 
-* class [AbstractPath](../../abstractpath)
-* class [FileDriver](../../filedriver)
-* class [Dataset](../../dataset)
-* ad alanı [Aspose.Gis](../../dataset)
+* class [AbstractPath](../../abstractpath/)
+* class [FileDriver](../../filedriver/)
+* class [Dataset](../)
+* ad alanı [Aspose.Gis](../../dataset/)
 * toplantı [Aspose.GIS](../../../)
 
 ---
@@ -91,31 +91,31 @@ public static Dataset Create(string path, FileDriver driver, DriverOptions optio
 
 | Parametre | Tip | Tanım |
 | --- | --- | --- |
-| path | String | Veri kümesine giden yol. |
+| path | String | Veri kümesinin yolu. |
 | driver | FileDriver | Kullanılacak sürücü. |
 | options | DriverOptions | Sürücüye özel seçenekler. |
 
 ### Geri dönüş değeri
 
-bir örneği[`Dataset`](../../dataset).
+bir örneği[`Dataset`](../).
 
 ### istisnalar
 
 | istisna | şart |
 | --- | --- |
-| ArgumentException | Seçenekler nesnesi, bu sürücü için yanlış bir türe sahip. |
+| ArgumentException | Seçenekler nesnesi bu sürücü için yanlış bir türe sahip. |
 | ArgumentNullException | yol`null`. |
-| [GisException](../../gisexception) | Veri kümesi oluşturulurken hata oluştu. |
+| [GisException](../../gisexception/) | Veri kümesi oluşturulurken hata oluştu. |
 | IOException | Bir G/Ç hatası oluştu. |
-| NotSupportedException | Sürücü veri kümelerini açamıyor. |
+| NotSupportedException | Sürücü veri kümelerini açamaz. |
 | InvalidOperationException | Veri kümesi zaten var. |
 
 ### Ayrıca bakınız
 
-* class [FileDriver](../../filedriver)
-* class [DriverOptions](../../driveroptions)
-* class [Dataset](../../dataset)
-* ad alanı [Aspose.Gis](../../dataset)
+* class [FileDriver](../../filedriver/)
+* class [DriverOptions](../../driveroptions/)
+* class [Dataset](../)
+* ad alanı [Aspose.Gis](../../dataset/)
 * toplantı [Aspose.GIS](../../../)
 
 ---
@@ -130,32 +130,32 @@ public static Dataset Create(AbstractPath path, FileDriver driver, DriverOptions
 
 | Parametre | Tip | Tanım |
 | --- | --- | --- |
-| path | AbstractPath | Veri kümesine giden yol. |
+| path | AbstractPath | Veri kümesinin yolu. |
 | driver | FileDriver | Kullanılacak sürücü. |
 | options | DriverOptions | Sürücüye özel seçenekler. |
 
 ### Geri dönüş değeri
 
-bir örneği[`Dataset`](../../dataset).
+bir örneği[`Dataset`](../).
 
 ### istisnalar
 
 | istisna | şart |
 | --- | --- |
-| ArgumentException | Seçenekler nesnesi, bu sürücü için yanlış bir türe sahip. |
+| ArgumentException | Seçenekler nesnesi bu sürücü için yanlış bir türe sahip. |
 | ArgumentNullException | yol`null`. |
-| [GisException](../../gisexception) | Veri kümesi oluşturulurken hata oluştu. |
+| [GisException](../../gisexception/) | Veri kümesi oluşturulurken hata oluştu. |
 | IOException | Bir G/Ç hatası oluştu. |
-| NotSupportedException | Sürücü veri kümelerini açamıyor. |
+| NotSupportedException | Sürücü veri kümelerini açamaz. |
 | InvalidOperationException | Veri kümesi zaten var. |
 
 ### Ayrıca bakınız
 
-* class [AbstractPath](../../abstractpath)
-* class [FileDriver](../../filedriver)
-* class [DriverOptions](../../driveroptions)
-* class [Dataset](../../dataset)
-* ad alanı [Aspose.Gis](../../dataset)
+* class [AbstractPath](../../abstractpath/)
+* class [FileDriver](../../filedriver/)
+* class [DriverOptions](../../driveroptions/)
+* class [Dataset](../)
+* ad alanı [Aspose.Gis](../../dataset/)
 * toplantı [Aspose.GIS](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.GIS.dll -->
+

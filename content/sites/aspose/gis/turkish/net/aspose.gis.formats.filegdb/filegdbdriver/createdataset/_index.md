@@ -1,7 +1,7 @@
 ---
-title: CreateDataset
+title: FileGdbDriver.CreateDataset
 second_title: Aspose.GIS for .NET API Referansı
-description: Bir veri kümesi oluşturur.
+description: FileGdbDriver yöntem. Bir veri kümesi oluşturur.
 type: docs
 weight: 50
 url: /tr/net/aspose.gis.formats.filegdb/filegdbdriver/createdataset/
@@ -16,30 +16,30 @@ public Dataset CreateDataset(string path, FileGdbOptions options)
 
 | Parametre | Tip | Tanım |
 | --- | --- | --- |
-| path | String | Veri kümesine giden yol. |
+| path | String | Veri kümesinin yolu. |
 | options | FileGdbOptions | Sürücüye özel seçenekler. |
 
 ### Geri dönüş değeri
 
-bir örneği[`Dataset`](../../../aspose.gis/dataset).
+bir örneği[`Dataset`](../../../aspose.gis/dataset/).
 
 ### istisnalar
 
 | istisna | şart |
 | --- | --- |
-| ArgumentException | Seçenekler nesnesi, bu sürücü için yanlış bir türe sahip. |
+| ArgumentException | Seçenekler nesnesi bu sürücü için yanlış bir türe sahip. |
 | ArgumentNullException | yol`null`. |
-| [GisException](../../../aspose.gis/gisexception) | Veri kümesi okunurken hata oluştu. |
+| [GisException](../../../aspose.gis/gisexception/) | Veri kümesi okunurken hata oluştu. |
 | IOException | Bir G/Ç hatası oluştu. |
-| NotSupportedException | Sürücü veri kümelerini açamaz (bkz.[`CanOpenDatasets`](../../../aspose.gis/filedriver/canopendatasets)). |
+| NotSupportedException | Sürücü veri kümelerini açamaz (bkz.[`CanOpenDatasets`](../../../aspose.gis/filedriver/canopendatasets/)). |
 | InvalidOperationException | Veri kümesi zaten var. |
 
 ### Ayrıca bakınız
 
-* class [Dataset](../../../aspose.gis/dataset)
-* class [FileGdbOptions](../../filegdboptions)
-* class [FileGdbDriver](../../filegdbdriver)
-* ad alanı [Aspose.Gis.Formats.FileGdb](../../filegdbdriver)
+* class [Dataset](../../../aspose.gis/dataset/)
+* class [FileGdbOptions](../../filegdboptions/)
+* class [FileGdbDriver](../)
+* ad alanı [Aspose.Gis.Formats.FileGdb](../../filegdbdriver/)
 * toplantı [Aspose.GIS](../../../)
 
 ---
@@ -54,31 +54,31 @@ public override Dataset CreateDataset(AbstractPath path, DriverOptions options)
 
 | Parametre | Tip | Tanım |
 | --- | --- | --- |
-| path | AbstractPath | Veri kümesine giden yol. |
+| path | AbstractPath | Veri kümesinin yolu. |
 | options | DriverOptions | Sürücüye özel seçenekler. |
 
 ### Geri dönüş değeri
 
-bir örneği[`Dataset`](../../../aspose.gis/dataset).
+bir örneği[`Dataset`](../../../aspose.gis/dataset/).
 
 ### istisnalar
 
 | istisna | şart |
 | --- | --- |
-| ArgumentException | Seçenekler nesnesi, bu sürücü için yanlış bir türe sahip. |
+| ArgumentException | Seçenekler nesnesi bu sürücü için yanlış bir türe sahip. |
 | ArgumentNullException | yol`null`. |
-| [GisException](../../../aspose.gis/gisexception) | Veri kümesi okunurken hata oluştu. |
+| [GisException](../../../aspose.gis/gisexception/) | Veri kümesi okunurken hata oluştu. |
 | IOException | Bir G/Ç hatası oluştu. |
-| NotSupportedException | Sürücü veri kümelerini açamaz (bkz.[`CanOpenDatasets`](../../../aspose.gis/filedriver/canopendatasets)). |
+| NotSupportedException | Sürücü veri kümelerini açamaz (bkz.[`CanOpenDatasets`](../../../aspose.gis/filedriver/canopendatasets/)). |
 | InvalidOperationException | Veri kümesi zaten var. |
 
 ### Ayrıca bakınız
 
-* class [Dataset](../../../aspose.gis/dataset)
-* class [AbstractPath](../../../aspose.gis/abstractpath)
-* class [DriverOptions](../../../aspose.gis/driveroptions)
-* class [FileGdbDriver](../../filegdbdriver)
-* ad alanı [Aspose.Gis.Formats.FileGdb](../../filegdbdriver)
+* class [Dataset](../../../aspose.gis/dataset/)
+* class [AbstractPath](../../../aspose.gis/abstractpath/)
+* class [DriverOptions](../../../aspose.gis/driveroptions/)
+* class [FileGdbDriver](../)
+* ad alanı [Aspose.Gis.Formats.FileGdb](../../filegdbdriver/)
 * toplantı [Aspose.GIS](../../../)
 
 ---
@@ -93,31 +93,31 @@ public Dataset CreateDataset(AbstractPath path, FileGdbOptions options)
 
 | Parametre | Tip | Tanım |
 | --- | --- | --- |
-| path | AbstractPath | Veri kümesine giden yol. |
+| path | AbstractPath | Veri kümesinin yolu. |
 | options | FileGdbOptions | Sürücüye özel seçenekler. |
 
 ### Geri dönüş değeri
 
-bir örneği[`Dataset`](../../../aspose.gis/dataset).
+bir örneği[`Dataset`](../../../aspose.gis/dataset/).
 
 ### istisnalar
 
 | istisna | şart |
 | --- | --- |
-| ArgumentException | Seçenekler nesnesi, bu sürücü için yanlış bir türe sahip. |
+| ArgumentException | Seçenekler nesnesi bu sürücü için yanlış bir türe sahip. |
 | ArgumentNullException | yol`null`. |
-| [GisException](../../../aspose.gis/gisexception) | Veri kümesi okunurken hata oluştu. |
+| [GisException](../../../aspose.gis/gisexception/) | Veri kümesi okunurken hata oluştu. |
 | IOException | Bir G/Ç hatası oluştu. |
-| NotSupportedException | Sürücü veri kümelerini açamaz (bkz.[`CanOpenDatasets`](../../../aspose.gis/filedriver/canopendatasets)). |
+| NotSupportedException | Sürücü veri kümelerini açamaz (bkz.[`CanOpenDatasets`](../../../aspose.gis/filedriver/canopendatasets/)). |
 | InvalidOperationException | Veri kümesi zaten var. |
 
 ### Ayrıca bakınız
 
-* class [Dataset](../../../aspose.gis/dataset)
-* class [AbstractPath](../../../aspose.gis/abstractpath)
-* class [FileGdbOptions](../../filegdboptions)
-* class [FileGdbDriver](../../filegdbdriver)
-* ad alanı [Aspose.Gis.Formats.FileGdb](../../filegdbdriver)
+* class [Dataset](../../../aspose.gis/dataset/)
+* class [AbstractPath](../../../aspose.gis/abstractpath/)
+* class [FileGdbOptions](../../filegdboptions/)
+* class [FileGdbDriver](../)
+* ad alanı [Aspose.Gis.Formats.FileGdb](../../filegdbdriver/)
 * toplantı [Aspose.GIS](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.GIS.dll -->
+

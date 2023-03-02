@@ -1,14 +1,14 @@
 ---
-title: FeaturesSequence
+title: Class FeaturesSequence
 second_title: Aspose.GIS för .NET API Referens
-description: FeaturesSequence./featuressequence representerar en uppsättning vektoregenskaper.
+description: Aspose.Gis.FeaturesSequence klass. FeaturesSequence representerar en uppsättning vektoregenskaper.
 type: docs
-weight: 160
+weight: 170
 url: /sv/net/aspose.gis/featuressequence/
 ---
 ## FeaturesSequence class
 
-[`FeaturesSequence`](../featuressequence) representerar en uppsättning vektoregenskaper.
+`FeaturesSequence` representerar en uppsättning vektoregenskaper.
 
 ```csharp
 public abstract class FeaturesSequence : IEnumerable<Feature>
@@ -18,37 +18,38 @@ public abstract class FeaturesSequence : IEnumerable<Feature>
 
 | namn | Beskrivning |
 | --- | --- |
-| abstract [Attributes](../../aspose.gis/featuressequence/attributes) { get; } | Får samlingen av anpassade attribut för funktioner i detta[`VectorLayer`](../vectorlayer) . |
-| abstract [SpatialReferenceSystem](../../aspose.gis/featuressequence/spatialreferencesystem) { get; } | Hämtar rumsligt referenssystem för denna funktionssekvens. |
+| abstract [Attributes](../../aspose.gis/featuressequence/attributes/) { get; } | Får samlingen av anpassade attribut för funktioner i detta[`VectorLayer`](../vectorlayer/) . |
+| abstract [SpatialReferenceSystem](../../aspose.gis/featuressequence/spatialreferencesystem/) { get; } | Hämtar rumsligt referenssystem för denna funktionssekvens. |
 
 ## Metoder
 
 | namn | Beskrivning |
 | --- | --- |
-| abstract [GetEnumerator](../../aspose.gis/featuressequence/getenumerator)() | Returnerar en uppräkning som itererar genom samlingen. |
-| virtual [GetExtent](../../aspose.gis/featuressequence/getextent)() | Får en rumslig utsträckning av detta lager. |
-| [SaveTo](../../aspose.gis/featuressequence/saveto#saveto)(AbstractPath, FileDriver) | Sparar funktioner sekvens till lager. |
-| [SaveTo](../../aspose.gis/featuressequence/saveto#saveto_2)(string, FileDriver) | Sparar funktioner sekvens till lager. |
-| [SaveTo](../../aspose.gis/featuressequence/saveto#saveto_1)(AbstractPath, FileDriver, SavingOptions) | Sparar funktioner sekvens till lager. |
-| [SaveTo](../../aspose.gis/featuressequence/saveto#saveto_3)(string, FileDriver, SavingOptions) | Sparar funktioner sekvens till lager. |
-| virtual [WhereEqual&lt;T&gt;](../../aspose.gis/featuressequence/whereequal)(string, T) | Väljer funktioner med attributvärde lika med det angivna värdet. |
-| virtual [WhereGreater&lt;T&gt;](../../aspose.gis/featuressequence/wheregreater)(string, T) | Väljer funktioner med ett attributvärde som är större än det angivna värdet. |
-| virtual [WhereGreaterOrEqual&lt;T&gt;](../../aspose.gis/featuressequence/wheregreaterorequal)(string, T) | Väljer funktioner med ett attributvärde som är större eller lika med det angivna värdet. |
-| virtual [WhereIntersects](../../aspose.gis/featuressequence/whereintersects#whereintersects)(Extent) | Filtrerar funktioner baserat på omfattningen. |
-| [WhereIntersects](../../aspose.gis/featuressequence/whereintersects#whereintersects_1)(FeaturesSequence) | Filtrerar funktioner baserat på föreningen av alla geometrier i andra funktioners sekvens. |
-| virtual [WhereIntersects](../../aspose.gis/featuressequence/whereintersects#whereintersects_2)(IGeometry) | Filtrerar funktioner baserat på den tillhandahållna geometrin. |
-| virtual [WhereNotEqual&lt;T&gt;](../../aspose.gis/featuressequence/wherenotequal)(string, T) | Väljer funktioner med ett attributvärde som inte är lika med det angivna värdet. |
-| virtual [WhereNotNull](../../aspose.gis/featuressequence/wherenotnull)(string) | Väljer funktioner med attribut som inte är lika med null. |
-| virtual [WhereNull](../../aspose.gis/featuressequence/wherenull)(string) | Väljer funktioner med attribut lika med null. |
-| virtual [WhereSet](../../aspose.gis/featuressequence/whereset)(string) | Väljer funktioner med attributuppsättning. |
-| virtual [WhereSmaller&lt;T&gt;](../../aspose.gis/featuressequence/wheresmaller)(string, T) | Väljer funktioner med ett attributvärde som är mindre än det angivna värdet. |
-| virtual [WhereSmallerOrEqual&lt;T&gt;](../../aspose.gis/featuressequence/wheresmallerorequal)(string, T) | Väljer funktioner med ett attributvärde som är mindre eller lika med det angivna värdet. |
-| virtual [WhereUnset](../../aspose.gis/featuressequence/whereunset)(string) | Väljer funktioner där specificerat attribut inte är inställt. |
+| abstract [GetEnumerator](../../aspose.gis/featuressequence/getenumerator/)() | Returnerar en uppräkning som itererar genom samlingen. |
+| virtual [GetExtent](../../aspose.gis/featuressequence/getextent/)() | Får en rumslig utsträckning av detta lager. |
+| [SaveTo](../../aspose.gis/featuressequence/saveto/#saveto)(AbstractPath, FileDriver) | Sparar funktioner sekvens till lager. |
+| [SaveTo](../../aspose.gis/featuressequence/saveto/#saveto_2)(string, FileDriver) | Sparar funktioner sekvens till lager. |
+| [SaveTo](../../aspose.gis/featuressequence/saveto/#saveto_1)(AbstractPath, FileDriver, SavingOptions) | Sparar funktioner sekvens till lager. |
+| [SaveTo](../../aspose.gis/featuressequence/saveto/#saveto_3)(string, FileDriver, SavingOptions) | Sparar funktioner sekvens till lager. |
+| [SplitTo](../../aspose.gis/featuressequence/splitto/)() | Dela upp funktioner efter geometrityp. |
+| virtual [WhereEqual&lt;T&gt;](../../aspose.gis/featuressequence/whereequal/)(string, T) | Väljer funktioner med attributvärde lika med det angivna värdet. |
+| virtual [WhereGreater&lt;T&gt;](../../aspose.gis/featuressequence/wheregreater/)(string, T) | Väljer funktioner med ett attributvärde som är större än det angivna värdet. |
+| virtual [WhereGreaterOrEqual&lt;T&gt;](../../aspose.gis/featuressequence/wheregreaterorequal/)(string, T) | Väljer funktioner med ett attributvärde som är större eller lika med det angivna värdet. |
+| virtual [WhereIntersects](../../aspose.gis/featuressequence/whereintersects/#whereintersects)(Extent) | Filtrerar funktioner baserat på omfattningen. |
+| [WhereIntersects](../../aspose.gis/featuressequence/whereintersects/#whereintersects_1)(FeaturesSequence) | Filtrerar funktioner baserat på föreningen av alla geometrier i andra funktioners sekvens. |
+| virtual [WhereIntersects](../../aspose.gis/featuressequence/whereintersects/#whereintersects_2)(IGeometry) | Filtrerar funktioner baserat på den tillhandahållna geometrin. |
+| virtual [WhereNotEqual&lt;T&gt;](../../aspose.gis/featuressequence/wherenotequal/)(string, T) | Väljer funktioner med ett attributvärde som inte är lika med det angivna värdet. |
+| virtual [WhereNotNull](../../aspose.gis/featuressequence/wherenotnull/)(string) | Väljer funktioner med attribut som inte är lika med null. |
+| virtual [WhereNull](../../aspose.gis/featuressequence/wherenull/)(string) | Väljer funktioner med attribut lika med null. |
+| virtual [WhereSet](../../aspose.gis/featuressequence/whereset/)(string) | Väljer funktioner med attributuppsättning. |
+| virtual [WhereSmaller&lt;T&gt;](../../aspose.gis/featuressequence/wheresmaller/)(string, T) | Väljer funktioner med ett attributvärde som är mindre än det angivna värdet. |
+| virtual [WhereSmallerOrEqual&lt;T&gt;](../../aspose.gis/featuressequence/wheresmallerorequal/)(string, T) | Väljer funktioner med ett attributvärde som är mindre eller lika med det angivna värdet. |
+| virtual [WhereUnset](../../aspose.gis/featuressequence/whereunset/)(string) | Väljer funktioner där specificerat attribut inte är inställt. |
 
 ### Se även
 
-* class [Feature](../feature)
-* namnutrymme [Aspose.Gis](../../aspose.gis)
+* class [Feature](../feature/)
+* namnutrymme [Aspose.Gis](../../aspose.gis/)
 * hopsättning [Aspose.GIS](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.GIS.dll -->
+

@@ -1,7 +1,7 @@
 ---
-title: CreateDataset
+title: FileGdbDriver.CreateDataset
 second_title: Référence de l'API Aspose.GIS pour .NET
-description: Crée un ensemble de données.
+description: FileGdbDriver méthode. Crée un ensemble de données.
 type: docs
 weight: 50
 url: /fr/net/aspose.gis.formats.filegdb/filegdbdriver/createdataset/
@@ -21,7 +21,7 @@ public Dataset CreateDataset(string path, FileGdbOptions options)
 
 ### Return_Value
 
-Un exemple de[`Dataset`](../../../aspose.gis/dataset).
+Un exemple de[`Dataset`](../../../aspose.gis/dataset/).
 
 ### Exceptions
 
@@ -29,17 +29,17 @@ Un exemple de[`Dataset`](../../../aspose.gis/dataset).
 | --- | --- |
 | ArgumentException | L'objet Options a un type incorrect pour ce pilote. |
 | ArgumentNullException | Le chemin est`null`. |
-| [GisException](../../../aspose.gis/gisexception) | Erreur lors de la lecture de l'ensemble de données. |
+| [GisException](../../../aspose.gis/gisexception/) | Erreur lors de la lecture de l'ensemble de données. |
 | IOException | Une erreur d'E/S s'est produite. |
-| NotSupportedException | Le pilote ne peut pas ouvrir les ensembles de données (voir[`CanOpenDatasets`](../../../aspose.gis/filedriver/canopendatasets)). |
+| NotSupportedException | Le pilote ne peut pas ouvrir les ensembles de données (voir[`CanOpenDatasets`](../../../aspose.gis/filedriver/canopendatasets/)). |
 | InvalidOperationException | L'ensemble de données existe déjà. |
 
 ### Voir également
 
-* class [Dataset](../../../aspose.gis/dataset)
-* class [FileGdbOptions](../../filegdboptions)
-* class [FileGdbDriver](../../filegdbdriver)
-* espace de noms [Aspose.Gis.Formats.FileGdb](../../filegdbdriver)
+* class [Dataset](../../../aspose.gis/dataset/)
+* class [FileGdbOptions](../../filegdboptions/)
+* class [FileGdbDriver](../)
+* espace de noms [Aspose.Gis.Formats.FileGdb](../../filegdbdriver/)
 * Assemblée [Aspose.GIS](../../../)
 
 ---
@@ -59,7 +59,7 @@ public override Dataset CreateDataset(AbstractPath path, DriverOptions options)
 
 ### Return_Value
 
-Un exemple de[`Dataset`](../../../aspose.gis/dataset).
+Un exemple de[`Dataset`](../../../aspose.gis/dataset/).
 
 ### Exceptions
 
@@ -67,18 +67,18 @@ Un exemple de[`Dataset`](../../../aspose.gis/dataset).
 | --- | --- |
 | ArgumentException | L'objet Options a un type incorrect pour ce pilote. |
 | ArgumentNullException | Le chemin est`null`. |
-| [GisException](../../../aspose.gis/gisexception) | Erreur lors de la lecture de l'ensemble de données. |
+| [GisException](../../../aspose.gis/gisexception/) | Erreur lors de la lecture de l'ensemble de données. |
 | IOException | Une erreur d'E/S s'est produite. |
-| NotSupportedException | Le pilote ne peut pas ouvrir les ensembles de données (voir[`CanOpenDatasets`](../../../aspose.gis/filedriver/canopendatasets)). |
+| NotSupportedException | Le pilote ne peut pas ouvrir les ensembles de données (voir[`CanOpenDatasets`](../../../aspose.gis/filedriver/canopendatasets/)). |
 | InvalidOperationException | L'ensemble de données existe déjà. |
 
 ### Voir également
 
-* class [Dataset](../../../aspose.gis/dataset)
-* class [AbstractPath](../../../aspose.gis/abstractpath)
-* class [DriverOptions](../../../aspose.gis/driveroptions)
-* class [FileGdbDriver](../../filegdbdriver)
-* espace de noms [Aspose.Gis.Formats.FileGdb](../../filegdbdriver)
+* class [Dataset](../../../aspose.gis/dataset/)
+* class [AbstractPath](../../../aspose.gis/abstractpath/)
+* class [DriverOptions](../../../aspose.gis/driveroptions/)
+* class [FileGdbDriver](../)
+* espace de noms [Aspose.Gis.Formats.FileGdb](../../filegdbdriver/)
 * Assemblée [Aspose.GIS](../../../)
 
 ---
@@ -98,7 +98,7 @@ public Dataset CreateDataset(AbstractPath path, FileGdbOptions options)
 
 ### Return_Value
 
-Un exemple de[`Dataset`](../../../aspose.gis/dataset).
+Un exemple de[`Dataset`](../../../aspose.gis/dataset/).
 
 ### Exceptions
 
@@ -106,18 +106,18 @@ Un exemple de[`Dataset`](../../../aspose.gis/dataset).
 | --- | --- |
 | ArgumentException | L'objet Options a un type incorrect pour ce pilote. |
 | ArgumentNullException | Le chemin est`null`. |
-| [GisException](../../../aspose.gis/gisexception) | Erreur lors de la lecture de l'ensemble de données. |
+| [GisException](../../../aspose.gis/gisexception/) | Erreur lors de la lecture de l'ensemble de données. |
 | IOException | Une erreur d'E/S s'est produite. |
-| NotSupportedException | Le pilote ne peut pas ouvrir les ensembles de données (voir[`CanOpenDatasets`](../../../aspose.gis/filedriver/canopendatasets)). |
+| NotSupportedException | Le pilote ne peut pas ouvrir les ensembles de données (voir[`CanOpenDatasets`](../../../aspose.gis/filedriver/canopendatasets/)). |
 | InvalidOperationException | L'ensemble de données existe déjà. |
 
 ### Voir également
 
-* class [Dataset](../../../aspose.gis/dataset)
-* class [AbstractPath](../../../aspose.gis/abstractpath)
-* class [FileGdbOptions](../../filegdboptions)
-* class [FileGdbDriver](../../filegdbdriver)
-* espace de noms [Aspose.Gis.Formats.FileGdb](../../filegdbdriver)
+* class [Dataset](../../../aspose.gis/dataset/)
+* class [AbstractPath](../../../aspose.gis/abstractpath/)
+* class [FileGdbOptions](../../filegdboptions/)
+* class [FileGdbDriver](../)
+* espace de noms [Aspose.Gis.Formats.FileGdb](../../filegdbdriver/)
 * Assemblée [Aspose.GIS](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.GIS.dll -->
+

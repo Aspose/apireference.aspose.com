@@ -1,14 +1,14 @@
 ---
-title: DriverOptions
+title: Class DriverOptions
 second_title: Référence de l'API Aspose.GIS pour .NET
-description: Options pour unDriver./driver .
+description: Aspose.Gis.DriverOptions classe. Options pour unDriver .
 type: docs
-weight: 90
+weight: 100
 url: /fr/net/aspose.gis/driveroptions/
 ---
 ## DriverOptions class
 
-Options pour un[`Driver`](../driver) .
+Options pour un[`Driver`](../driver/) .
 
 ```csharp
 public abstract class DriverOptions
@@ -18,22 +18,22 @@ public abstract class DriverOptions
 
 | Nom | La description |
 | --- | --- |
-| [CloseLinearRing](../../aspose.gis/driveroptions/closelinearring) { get; set; } | Détermine si fermer un non ferméLinearRing dans chaque géométrie. Par défaut à`false` . |
-| [CreateMidpoints](../../aspose.gis/driveroptions/createmidpoints) { get; set; } | Détermine si ajouter un nouveau point au milieu à chaque segment de géométrie. Par défaut à`false` . |
-| [DeleteNearPoints](../../aspose.gis/driveroptions/deletenearpoints) { get; set; } | Détermine si supprimer les points proches dans chaque géométrie. Par défaut à`false` . |
-| [DeleteNearPointsDistance](../../aspose.gis/driveroptions/deletenearpointsdistance) { get; set; } | Détermine la distance pour[`DeleteNearPoints`](./deletenearpoints) . Par défaut à`0` . |
-| [LinearizationTolerance](../../aspose.gis/driveroptions/linearizationtolerance) { get; set; } | Une tolérance à utiliser pour linéariser les géométries de courbe. |
-| [MPrecisionModel](../../aspose.gis/driveroptions/mprecisionmodel) { get; set; } | A[`PrecisionModel`](../precisionmodel) qui sera appliqué à la coordonnée M lorsque des géométries seront ajoutées au[`VectorLayer`](../vectorlayer) ou lorsqu'ils sont lus à partir du[`VectorLayer`](../vectorlayer) . La valeur par défaut est[`Exact`](../precisionmodel/exact) . |
-| [SimplifySegments](../../aspose.gis/driveroptions/simplifysegments) { get; set; } | Détermine si supprimer des points se trouvant sur le même segment dans chaque géométrie. Par défaut à`false` . |
-| [SimplifySegmentsDistance](../../aspose.gis/driveroptions/simplifysegmentsdistance) { get; set; } | Détermine la distance pour[`SimplifySegments`](./simplifysegments) . Par défaut à`0` . |
-| [ValidateGeometriesOnWrite](../../aspose.gis/driveroptions/validategeometriesonwrite) { get; set; } | Détermine si les géométries doivent être validées lorsqu'elles sont ajoutées au calque. Si défini sur`true` ,[`IsValid`](../../aspose.gis.geometries/geometry/isvalid)est appelée pour chaque géométrie lorsqu'elle est ajoutée à la couche, et si la validation échoue ([`IsValid`](../../aspose.gis.geometries/geometry/isvalid) est`false` ),[`GisException`](../gisexception) est lancé. |
-| [WritePolygonsAsLines](../../aspose.gis/driveroptions/writepolygonsaslines) { get; set; } | Détermine si la transformation d'un polygone ou d'un multipolygone en ligne est autorisée. Par défaut à`false` . |
-| [XYPrecisionModel](../../aspose.gis/driveroptions/xyprecisionmodel) { get; set; } | A[`PrecisionModel`](../precisionmodel)qui sera appliqué aux coordonnées X et Y lorsque des géométries seront ajoutées au[`VectorLayer`](../vectorlayer) ou lorsqu'ils sont lus à partir du[`VectorLayer`](../vectorlayer) . La valeur par défaut est[`Exact`](../precisionmodel/exact) . |
-| [ZPrecisionModel](../../aspose.gis/driveroptions/zprecisionmodel) { get; set; } | A[`PrecisionModel`](../precisionmodel) qui sera appliqué à la coordonnée Z lorsque des géométries seront ajoutées au[`VectorLayer`](../vectorlayer) ou lorsqu'ils sont lus à partir du[`VectorLayer`](../vectorlayer) . La valeur par défaut est[`Exact`](../precisionmodel/exact) . |
+| [CloseLinearRing](../../aspose.gis/driveroptions/closelinearring/) { get; set; } | Détermine si fermer un non ferméLinearRing dans chaque géométrie. Par défaut à`false` . |
+| [CreateMidpoints](../../aspose.gis/driveroptions/createmidpoints/) { get; set; } | Détermine si ajouter un nouveau point au milieu à chaque segment de géométrie. Par défaut à`false` . |
+| [DeleteNearPoints](../../aspose.gis/driveroptions/deletenearpoints/) { get; set; } | Détermine si supprimer les points proches dans chaque géométrie. Par défaut à`false` . |
+| [DeleteNearPointsDistance](../../aspose.gis/driveroptions/deletenearpointsdistance/) { get; set; } | Détermine la distance pour[`DeleteNearPoints`](./deletenearpoints/) . Par défaut à`0` . |
+| [LinearizationTolerance](../../aspose.gis/driveroptions/linearizationtolerance/) { get; set; } | Une tolérance à utiliser pour linéariser les géométries de courbe. |
+| [MPrecisionModel](../../aspose.gis/driveroptions/mprecisionmodel/) { get; set; } | A[`PrecisionModel`](../precisionmodel/) qui sera appliqué à la coordonnée M lorsque des géométries seront ajoutées au[`VectorLayer`](../vectorlayer/) ou lorsqu'ils sont lus à partir du[`VectorLayer`](../vectorlayer/) . La valeur par défaut est[`Exact`](../precisionmodel/exact/) . |
+| [SimplifySegments](../../aspose.gis/driveroptions/simplifysegments/) { get; set; } | Détermine si supprimer des points se trouvant sur le même segment dans chaque géométrie. Par défaut à`false` . |
+| [SimplifySegmentsDistance](../../aspose.gis/driveroptions/simplifysegmentsdistance/) { get; set; } | Détermine la distance pour[`SimplifySegments`](./simplifysegments/) . Par défaut à`0` . |
+| [ValidateGeometriesOnWrite](../../aspose.gis/driveroptions/validategeometriesonwrite/) { get; set; } | Détermine si les géométries doivent être validées lorsqu'elles sont ajoutées au calque. Si défini sur`true` ,[`IsValid`](../../aspose.gis.geometries/geometry/isvalid/) est appelée pour chaque géométrie lorsqu'elle est ajoutée à la couche, et si la validation échoue ([`IsValid`](../../aspose.gis.geometries/geometry/isvalid/) est`false` ),[`GisException`](../gisexception/) est lancé. |
+| [WritePolygonsAsLines](../../aspose.gis/driveroptions/writepolygonsaslines/) { get; set; } | Détermine si la transformation d'un polygone ou d'un multipolygone en ligne est autorisée. Par défaut à`false` . |
+| [XYPrecisionModel](../../aspose.gis/driveroptions/xyprecisionmodel/) { get; set; } | A[`PrecisionModel`](../precisionmodel/) qui sera appliqué aux coordonnées X et Y lorsque des géométries seront ajoutées au[`VectorLayer`](../vectorlayer/) ou lorsqu'ils sont lus à partir du[`VectorLayer`](../vectorlayer/) . La valeur par défaut est[`Exact`](../precisionmodel/exact/) . |
+| [ZPrecisionModel](../../aspose.gis/driveroptions/zprecisionmodel/) { get; set; } | A[`PrecisionModel`](../precisionmodel/) qui sera appliqué à la coordonnée Z lorsque des géométries seront ajoutées au[`VectorLayer`](../vectorlayer/) ou lorsqu'ils sont lus à partir du[`VectorLayer`](../vectorlayer/) . La valeur par défaut est[`Exact`](../precisionmodel/exact/) . |
 
 ### Voir également
 
-* espace de noms [Aspose.Gis](../../aspose.gis)
+* espace de noms [Aspose.Gis](../../aspose.gis/)
 * Assemblée [Aspose.GIS](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.GIS.dll -->
+

@@ -1,14 +1,14 @@
 ---
-title: SimpleMarker
+title: Class SimpleMarker
 second_title: Aspose.GIS for .NET API 参考
-description: 简单点符号器
+description: Aspose.Gis.Rendering.Symbolizers.SimpleMarker 班级. 简单的点符号
 type: docs
-weight: 1860
+weight: 1960
 url: /zh/net/aspose.gis.rendering.symbolizers/simplemarker/
 ---
 ## SimpleMarker class
 
-简单点符号器。
+简单的点符号。
 
 ```csharp
 public class SimpleMarker : VectorSymbolizer
@@ -18,39 +18,39 @@ public class SimpleMarker : VectorSymbolizer
 
 | 姓名 | 描述 |
 | --- | --- |
-| [SimpleMarker](simplemarker#constructor)() | 初始化[`SimpleMarker`](../simplemarker)类. |
-| [SimpleMarker](simplemarker#constructor_1)(SimpleMarker) | 初始化[`SimpleMarker`](../simplemarker)类. |
+| [SimpleMarker](simplemarker/#constructor)() | 初始化一个新的实例`SimpleMarker`类. |
+| [SimpleMarker](simplemarker/#constructor_1)(SimpleMarker) | 初始化一个新的实例`SimpleMarker`类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [FeatureBasedConfiguration](../../aspose.gis.rendering.symbolizers/simplemarker/featurebasedconfiguration) { get; set; } | 用于在渲染特征之前配置此符号器的回调。 |
-| [FillColor](../../aspose.gis.rendering.symbolizers/simplemarker/fillcolor) { get; set; } | 指定填充的颜色和透明度。 |
-| [HorizontalAnchorPoint](../../aspose.gis.rendering.symbolizers/simplemarker/horizontalanchorpoint) { get; set; } | 指定标记形状的哪一侧将与点位置水平对齐。 |
-| [HorizontalOffset](../../aspose.gis.rendering.symbolizers/simplemarker/horizontaloffset) { get; set; } | 指定从点位置到形状锚点的水平偏移。 |
-| [Rotation](../../aspose.gis.rendering.symbolizers/simplemarker/rotation) { get; set; } | 指定符号围绕其中心点的旋转，以十进制度为单位。 正值表示顺时针方向旋转，负值表示逆时针方向旋转。 |
-| [ShapeType](../../aspose.gis.rendering.symbolizers/simplemarker/shapetype) { get; set; } | 指定标记的形状。 |
-| [Size](../../aspose.gis.rendering.symbolizers/simplemarker/size) { get; set; } | 指定标记的大小。 |
-| [StrokeColor](../../aspose.gis.rendering.symbolizers/simplemarker/strokecolor) { get; set; } | 指定赋予线条的颜色和透明度。 |
-| [StrokeDashOffset](../../aspose.gis.rendering.symbolizers/simplemarker/strokedashoffset) { get; set; } | 指定从线的起点到虚线图案的起点的距离。 |
-| [StrokeDashPattern](../../aspose.gis.rendering.symbolizers/simplemarker/strokedashpattern) { get; set; } | 指定一个距离数组，以虚线指定交替短划线和空格的长度 。 |
-| [StrokeLineJoin](../../aspose.gis.rendering.symbolizers/simplemarker/strokelinejoin) { get; set; } | 确定线段的交点处如何渲染线。 |
-| [StrokeStyle](../../aspose.gis.rendering.symbolizers/simplemarker/strokestyle) { get; set; } | 指定应如何绘制符号线。 |
-| [StrokeWidth](../../aspose.gis.rendering.symbolizers/simplemarker/strokewidth) { get; set; } | 指定线条的宽度。 |
-| [VerticalAnchorPoint](../../aspose.gis.rendering.symbolizers/simplemarker/verticalanchorpoint) { get; set; } | 指定标记形状的哪一侧将与点位置垂直对齐。 |
-| [VerticalOffset](../../aspose.gis.rendering.symbolizers/simplemarker/verticaloffset) { get; set; } | 指定从点位置到形状锚点的垂直偏移。 |
+| [FeatureBasedConfiguration](../../aspose.gis.rendering.symbolizers/simplemarker/featurebasedconfiguration/) { get; set; } | 用于在呈现特征之前配置此符号器的回调。 |
+| [FillColor](../../aspose.gis.rendering.symbolizers/simplemarker/fillcolor/) { get; set; } | 指定填充的颜色和透明度。 |
+| [HorizontalAnchorPoint](../../aspose.gis.rendering.symbolizers/simplemarker/horizontalanchorpoint/) { get; set; } | 指定标记形状的哪一侧将与点位置水平对齐。 |
+| [HorizontalOffset](../../aspose.gis.rendering.symbolizers/simplemarker/horizontaloffset/) { get; set; } | 指定从点位置到形状锚点的水平偏移。 |
+| [Rotation](../../aspose.gis.rendering.symbolizers/simplemarker/rotation/) { get; set; } | 指定符号围绕其中心点的旋转，以十进制表示。 正值表示顺时针方向旋转，负值表示逆时针旋转。 |
+| [ShapeType](../../aspose.gis.rendering.symbolizers/simplemarker/shapetype/) { get; set; } | 指定标记的形状。 |
+| [Size](../../aspose.gis.rendering.symbolizers/simplemarker/size/) { get; set; } | 指定标记的大小。 |
+| [StrokeColor](../../aspose.gis.rendering.symbolizers/simplemarker/strokecolor/) { get; set; } | 指定赋予线条的颜色和透明度。 |
+| [StrokeDashOffset](../../aspose.gis.rendering.symbolizers/simplemarker/strokedashoffset/) { get; set; } | 指定从直线起点到虚线图案起点的距离。 |
+| [StrokeDashPattern](../../aspose.gis.rendering.symbolizers/simplemarker/strokedashpattern/) { get; set; } | 指定一个距离数组，该数组指定虚线中交替破折号和空格的长度 。 |
+| [StrokeLineJoin](../../aspose.gis.rendering.symbolizers/simplemarker/strokelinejoin/) { get; set; } | 确定如何在线段的交点处呈现线条。 |
+| [StrokeStyle](../../aspose.gis.rendering.symbolizers/simplemarker/strokestyle/) { get; set; } | 指定应如何绘制符号线。 |
+| [StrokeWidth](../../aspose.gis.rendering.symbolizers/simplemarker/strokewidth/) { get; set; } | 指定线条的宽度。 |
+| [VerticalAnchorPoint](../../aspose.gis.rendering.symbolizers/simplemarker/verticalanchorpoint/) { get; set; } | 指定标记形状的哪一侧将与点位置垂直对齐。 |
+| [VerticalOffset](../../aspose.gis.rendering.symbolizers/simplemarker/verticaloffset/) { get; set; } | 指定从点位置到形状锚点的垂直偏移。 |
 
 ## 方法
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Clone](../../aspose.gis.rendering.symbolizers/simplemarker/clone)() | 克隆此实例。 |
+| [Clone](../../aspose.gis.rendering.symbolizers/simplemarker/clone/)() | 克隆此实例。 |
 
 ### 也可以看看
 
-* class [VectorSymbolizer](../vectorsymbolizer)
-* 命名空间 [Aspose.Gis.Rendering.Symbolizers](../../aspose.gis.rendering.symbolizers)
+* class [VectorSymbolizer](../vectorsymbolizer/)
+* 命名空间 [Aspose.Gis.Rendering.Symbolizers](../../aspose.gis.rendering.symbolizers/)
 * 部件 [Aspose.GIS](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.GIS.dll -->
+

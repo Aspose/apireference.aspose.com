@@ -1,7 +1,7 @@
 ---
-title: VectorMapLayer
+title: VectorMapLayer.VectorMapLayer
 second_title: Référence de l'API Aspose.GIS pour .NET
-description: Crée une nouvelle instance avec le symboliseur par défaut.
+description: VectorMapLayer constructeur. Crée une nouvelle instance avec le symboliseur par défaut.
 type: docs
 weight: 10
 url: /fr/net/aspose.gis.rendering/vectormaplayer/vectormaplayer/
@@ -26,9 +26,9 @@ public VectorMapLayer(FeaturesSequence featuresSequence)
 
 ### Voir également
 
-* class [FeaturesSequence](../../../aspose.gis/featuressequence)
-* class [VectorMapLayer](../../vectormaplayer)
-* espace de noms [Aspose.Gis.Rendering](../../vectormaplayer)
+* class [FeaturesSequence](../../../aspose.gis/featuressequence/)
+* class [VectorMapLayer](../)
+* espace de noms [Aspose.Gis.Rendering](../../vectormaplayer/)
 * Assemblée [Aspose.GIS](../../../)
 
 ---
@@ -54,10 +54,10 @@ public VectorMapLayer(FeaturesSequence featuresSequence, VectorSymbolizer symbol
 
 ### Voir également
 
-* class [FeaturesSequence](../../../aspose.gis/featuressequence)
-* class [VectorSymbolizer](../../../aspose.gis.rendering.symbolizers/vectorsymbolizer)
-* class [VectorMapLayer](../../vectormaplayer)
-* espace de noms [Aspose.Gis.Rendering](../../vectormaplayer)
+* class [FeaturesSequence](../../../aspose.gis/featuressequence/)
+* class [VectorSymbolizer](../../../aspose.gis.rendering.symbolizers/vectorsymbolizer/)
+* class [VectorMapLayer](../)
+* espace de noms [Aspose.Gis.Rendering](../../vectormaplayer/)
 * Assemblée [Aspose.GIS](../../../)
 
 ---
@@ -75,7 +75,7 @@ public VectorMapLayer(FeaturesSequence featuresSequence, VectorSymbolizer symbol
 | --- | --- | --- |
 | featuresSequence | FeaturesSequence | Séquence de fonctionnalités. |
 | symbolizer | VectorSymbolizer | Symboliseur à utiliser pour rendre la couche. Si`null`, le symboliseur par défaut sera utilisé. |
-| labeling | Labeling | Étiquetage à utiliser pour étiqueter les entités dans la couche. Si`null` , défaut[`NullLabeling`](../../../aspose.gis.rendering.labelings/nulllabeling) sera utilisé. |
+| labeling | Labeling | Étiquetage à utiliser pour étiqueter les entités dans la couche. Si`null` , défaut[`NullLabeling`](../../../aspose.gis.rendering.labelings/nulllabeling/) sera utilisé. |
 
 ### Exceptions
 
@@ -85,11 +85,11 @@ public VectorMapLayer(FeaturesSequence featuresSequence, VectorSymbolizer symbol
 
 ### Voir également
 
-* class [FeaturesSequence](../../../aspose.gis/featuressequence)
-* class [VectorSymbolizer](../../../aspose.gis.rendering.symbolizers/vectorsymbolizer)
-* class [Labeling](../../../aspose.gis.rendering.labelings/labeling)
-* class [VectorMapLayer](../../vectormaplayer)
-* espace de noms [Aspose.Gis.Rendering](../../vectormaplayer)
+* class [FeaturesSequence](../../../aspose.gis/featuressequence/)
+* class [VectorSymbolizer](../../../aspose.gis.rendering.symbolizers/vectorsymbolizer/)
+* class [Labeling](../../../aspose.gis.rendering.labelings/labeling/)
+* class [VectorMapLayer](../)
+* espace de noms [Aspose.Gis.Rendering](../../vectormaplayer/)
 * Assemblée [Aspose.GIS](../../../)
 
 ---
@@ -105,7 +105,7 @@ public VectorMapLayer(VectorLayer layer, bool keepOpen = true)
 | Paramètre | Taper | La description |
 | --- | --- | --- |
 | layer | VectorLayer | Couche vectorielle. |
-| keepOpen | Boolean | `true` pour laisser le calque ouvert après le[`VectorMapLayer`](../../vectormaplayer) l'objet est éliminé ; Par ailleurs,`false` . |
+| keepOpen | Boolean | `true` pour laisser le calque ouvert après le[`VectorMapLayer`](../) l'objet est éliminé ; sinon,`false` . |
 
 ### Exceptions
 
@@ -115,9 +115,9 @@ public VectorMapLayer(VectorLayer layer, bool keepOpen = true)
 
 ### Voir également
 
-* class [VectorLayer](../../../aspose.gis/vectorlayer)
-* class [VectorMapLayer](../../vectormaplayer)
-* espace de noms [Aspose.Gis.Rendering](../../vectormaplayer)
+* class [VectorLayer](../../../aspose.gis/vectorlayer/)
+* class [VectorMapLayer](../)
+* espace de noms [Aspose.Gis.Rendering](../../vectormaplayer/)
 * Assemblée [Aspose.GIS](../../../)
 
 ---
@@ -134,7 +134,7 @@ public VectorMapLayer(VectorLayer layer, VectorSymbolizer symbolizer, bool keepO
 | --- | --- | --- |
 | layer | VectorLayer | Couche vectorielle. |
 | symbolizer | VectorSymbolizer | Symboliseur à utiliser pour rendre la couche. Si`null`, le symboliseur par défaut sera utilisé. |
-| keepOpen | Boolean | `true` pour laisser le calque ouvert après le[`VectorMapLayer`](../../vectormaplayer) l'objet est éliminé ; Par ailleurs,`false` . |
+| keepOpen | Boolean | `true` pour laisser le calque ouvert après le[`VectorMapLayer`](../) l'objet est éliminé ; sinon,`false` . |
 
 ### Exceptions
 
@@ -144,10 +144,10 @@ public VectorMapLayer(VectorLayer layer, VectorSymbolizer symbolizer, bool keepO
 
 ### Voir également
 
-* class [VectorLayer](../../../aspose.gis/vectorlayer)
-* class [VectorSymbolizer](../../../aspose.gis.rendering.symbolizers/vectorsymbolizer)
-* class [VectorMapLayer](../../vectormaplayer)
-* espace de noms [Aspose.Gis.Rendering](../../vectormaplayer)
+* class [VectorLayer](../../../aspose.gis/vectorlayer/)
+* class [VectorSymbolizer](../../../aspose.gis.rendering.symbolizers/vectorsymbolizer/)
+* class [VectorMapLayer](../)
+* espace de noms [Aspose.Gis.Rendering](../../vectormaplayer/)
 * Assemblée [Aspose.GIS](../../../)
 
 ---
@@ -165,8 +165,8 @@ public VectorMapLayer(VectorLayer layer, VectorSymbolizer symbolizer, Labeling l
 | --- | --- | --- |
 | layer | VectorLayer | Couche vectorielle. |
 | symbolizer | VectorSymbolizer | Symboliseur à utiliser pour rendre le calque. Si`null` le symboliseur par défaut sera utilisé. |
-| labeling | Labeling | Étiquetage à utiliser pour étiqueter les entités dans la couche. Si`null` , défaut[`NullLabeling`](../../../aspose.gis.rendering.labelings/nulllabeling) sera utilisé. |
-| keepOpen | Boolean | `true` pour laisser le calque ouvert après le[`VectorMapLayer`](../../vectormaplayer) l'objet est éliminé ; Par ailleurs,`false` . |
+| labeling | Labeling | Étiquetage à utiliser pour étiqueter les entités dans la couche. Si`null` , défaut[`NullLabeling`](../../../aspose.gis.rendering.labelings/nulllabeling/) sera utilisé. |
+| keepOpen | Boolean | `true` pour laisser le calque ouvert après le[`VectorMapLayer`](../) l'objet est éliminé ; sinon,`false` . |
 
 ### Exceptions
 
@@ -176,11 +176,11 @@ public VectorMapLayer(VectorLayer layer, VectorSymbolizer symbolizer, Labeling l
 
 ### Voir également
 
-* class [VectorLayer](../../../aspose.gis/vectorlayer)
-* class [VectorSymbolizer](../../../aspose.gis.rendering.symbolizers/vectorsymbolizer)
-* class [Labeling](../../../aspose.gis.rendering.labelings/labeling)
-* class [VectorMapLayer](../../vectormaplayer)
-* espace de noms [Aspose.Gis.Rendering](../../vectormaplayer)
+* class [VectorLayer](../../../aspose.gis/vectorlayer/)
+* class [VectorSymbolizer](../../../aspose.gis.rendering.symbolizers/vectorsymbolizer/)
+* class [Labeling](../../../aspose.gis.rendering.labelings/labeling/)
+* class [VectorMapLayer](../)
+* espace de noms [Aspose.Gis.Rendering](../../vectormaplayer/)
 * Assemblée [Aspose.GIS](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.GIS.dll -->
+

@@ -1,0 +1,28 @@
+---
+title: VectorLayer.Attributes
+second_title: .NET API संदर्भ के लिए Aspose.GIS
+description: VectorLayer संपत्त. इसमें सुवधओं के लए कस्टम वशेषतओं क संग्रह प्रप्त करत हैVectorLayer .
+type: docs
+weight: 30
+url: /hi/net/aspose.gis/vectorlayer/attributes/
+---
+## VectorLayer.Attributes property
+
+इसमें सुविधाओं के लिए कस्टम विशेषताओं का संग्रह प्राप्त करता है[`VectorLayer`](../) .
+
+```csharp
+public override FeatureAttributeCollection Attributes { get; }
+```
+
+### संपत्ति मूल्य
+
+गुणों का संग्रह।
+
+### यह सभी देखें
+
+* class [FeatureAttributeCollection](../../featureattributecollection/)
+* class [VectorLayer](../)
+* नाम स्थान [Aspose.Gis](../../vectorlayer/)
+* सभा [Aspose.GIS](../../../)
+
+

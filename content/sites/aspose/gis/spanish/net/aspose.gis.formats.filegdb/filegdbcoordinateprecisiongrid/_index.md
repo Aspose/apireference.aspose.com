@@ -1,9 +1,9 @@
 ---
-title: FileGdbCoordinatePrecisionGrid
+title: Class FileGdbCoordinatePrecisionGrid
 second_title: Referencia de API de Aspose.GIS para .NET
-description: Una cuadrícula de precisión de coordenadas dentro de una capa FileGDB.
+description: Aspose.Gis.Formats.FileGdb.FileGdbCoordinatePrecisionGrid clase. Una cuadrícula de precisión de coordenadas dentro de una capa FileGDB.
 type: docs
-weight: 220
+weight: 250
 url: /es/net/aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/
 ---
 ## FileGdbCoordinatePrecisionGrid class
@@ -18,29 +18,29 @@ public sealed class FileGdbCoordinatePrecisionGrid
 
 | Nombre | Descripción |
 | --- | --- |
-| [FileGdbCoordinatePrecisionGrid](filegdbcoordinateprecisiongrid)() | Constructor predeterminado |
+| [FileGdbCoordinatePrecisionGrid](filegdbcoordinateprecisiongrid/)() | Constructor predeterminado |
 
 ## Propiedades
 
 | Nombre | Descripción |
 | --- | --- |
-| [MOrigin](../../aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/morigin) { get; set; } | Obtiene o establece el origen de la coordenada M. Si se establece en`null` se usa el predeterminado. |
-| [MScale](../../aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/mscale) { get; set; } | Obtiene o establece la escala de la coordenada M. Si se establece en`null` se usa el predeterminado. |
-| [XOrigin](../../aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/xorigin) { get; set; } | Obtiene o establece el origen de la coordenada X. Si se establece en`null` se usa el predeterminado. |
-| [XYScale](../../aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/xyscale) { get; set; } | Obtiene o establece la escala de las coordenadas X e Y. Si se establece en`null` se usa el predeterminado. |
-| [YOrigin](../../aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/yorigin) { get; set; } | Obtiene o establece el origen de la coordenada Y. Si se establece en`null` se usa el predeterminado. |
-| [ZOrigin](../../aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/zorigin) { get; set; } | Obtiene o establece el origen de la coordenada Z. Si se establece en`null` se usa el predeterminado. |
-| [ZScale](../../aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/zscale) { get; set; } | Obtiene o establece la escala de la coordenada Z. Si se establece en`null` se usa el predeterminado. |
+| [MOrigin](../../aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/morigin/) { get; set; } | Obtiene o establece el origen de la coordenada M. Si se establece en`null` se usa el predeterminado. |
+| [MScale](../../aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/mscale/) { get; set; } | Obtiene o establece la escala de la coordenada M. Si se establece en`null` se usa el predeterminado. |
+| [XOrigin](../../aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/xorigin/) { get; set; } | Obtiene o establece el origen de la coordenada X. Si se establece en`null` se usa el predeterminado. |
+| [XYScale](../../aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/xyscale/) { get; set; } | Obtiene o establece la escala de las coordenadas X e Y. Si se establece en`null` se usa el predeterminado. |
+| [YOrigin](../../aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/yorigin/) { get; set; } | Obtiene o establece el origen de la coordenada Y. Si se establece en`null` se usa el predeterminado. |
+| [ZOrigin](../../aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/zorigin/) { get; set; } | Obtiene o establece el origen de la coordenada Z. Si se establece en`null` se usa el predeterminado. |
+| [ZScale](../../aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/zscale/) { get; set; } | Obtiene o establece la escala de la coordenada Z. Si se establece en`null` se usa el predeterminado. |
 
 ## Métodos
 
 | Nombre | Descripción |
 | --- | --- |
-| static [CreateFromRectangle](../../aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/createfromrectangle)(IPoint, IPoint) | Crea nuevo`FileGdbCoordinatePrecisionGrid` tal que todos los valores dentro de un rectángulo son representables. |
+| static [CreateFromRectangle](../../aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/createfromrectangle/)(IPoint, IPoint) | Crea nuevo`FileGdbCoordinatePrecisionGrid` tal que todos los valores dentro de un rectángulo son representables. |
 
 ### Observaciones
 
-La cuadrícula de precisión de coordenadas define el dominio válido y la resolución de las coordenadas en la capa FileGDB. Origin define la Ruta para coordinar la cuadrícula de precisión en el espacio. La escala define la resolución (cuanto mayor es la escala , más precisos se escriben los valores). La cuadrícula de precisión especifica el rango válido de valores para las coordenadas: Cada coordenada en el[`VectorLayer`](../../aspose.gis/vectorlayer) deben estar dentro de este rango. Las coordenadas que están fuera del rango pueden causar errores de lectura más adelante y ArcGIS las procesará incorrectamente. Si no especifica ninguna propiedad (manténgalas`null` ) se utilizarán los valores predeterminados. Los valores predeterminados dependen de[`SpatialReferenceSystem`](../../aspose.gis.spatialreferencing/spatialreferencesystem) del[`VectorLayer`](../../aspose.gis/vectorlayer) . Para geográfica[`SpatialReferenceSystem`](../../aspose.gis.spatialreferencing/spatialreferencesystem) los valores predeterminados son: Para proyectado[`SpatialReferenceSystem`](../../aspose.gis.spatialreferencing/spatialreferencesystem) los valores predeterminados son: donde`XYTolerancia` ,`Tolerancia Z` y`MTolerancia` son valores de[`FileGdbOptions`](../filegdboptions) .
+La cuadrícula de precisión de coordenadas define el dominio válido y la resolución de las coordenadas en la capa FileGDB. Origen define la Ruta para coordinar la cuadrícula de precisión en el espacio. La escala define la resolución (cuanto mayor es la escala , más precisos se escriben los valores). La cuadrícula de precisión especifica el rango válido de valores para las coordenadas: Cada coordenada en el[`VectorLayer`](../../aspose.gis/vectorlayer/)deben estar dentro de este rango. Las coordenadas que están fuera del rango pueden causar errores de lectura más adelante y ArcGIS las procesará incorrectamente. Si no especifica ninguna propiedad (manténgalas`null` ) se utilizarán los valores predeterminados. Los valores predeterminados dependen de[`SpatialReferenceSystem`](../../aspose.gis.spatialreferencing/spatialreferencesystem/) del[`VectorLayer`](../../aspose.gis/vectorlayer/) . Para geográfica[`SpatialReferenceSystem`](../../aspose.gis.spatialreferencing/spatialreferencesystem/) los valores predeterminados son: Para proyectado[`SpatialReferenceSystem`](../../aspose.gis.spatialreferencing/spatialreferencesystem/) los valores predeterminados son: donde`XYTolerancia` ,`Tolerancia Z` y`MTolerancia` son valores de[`FileGdbOptions`](../filegdboptions/) .
 
 ```csharp
 XMin = XOrigin
@@ -75,7 +75,7 @@ MScale  = 1 / MTolerance  * 10
 
 ### Ver también
 
-* espacio de nombres [Aspose.Gis.Formats.FileGdb](../../aspose.gis.formats.filegdb)
+* espacio de nombres [Aspose.Gis.Formats.FileGdb](../../aspose.gis.formats.filegdb/)
 * asamblea [Aspose.GIS](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.GIS.dll -->
+

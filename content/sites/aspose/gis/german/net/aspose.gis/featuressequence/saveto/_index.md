@@ -1,7 +1,7 @@
 ---
-title: SaveTo
+title: FeaturesSequence.SaveTo
 second_title: Aspose.GIS für .NET-API-Referenz
-description: Speichert die FeatureSequenz im Layer.
+description: FeaturesSequence methode. Speichert die FeatureSequenz im Layer.
 type: docs
 weight: 50
 url: /de/net/aspose.gis/featuressequence/saveto/
@@ -24,15 +24,15 @@ public void SaveTo(string destinationPath, FileDriver destinationDriver)
 | Ausnahme | Bedingung |
 | --- | --- |
 | ArgumentNullException | Jedes Argument ist`null`. |
-| [GisException](../../gisexception) | Fehler beim Lesen oder Schreiben des Features in/aus der Datei. |
+| [GisException](../../gisexception/) | Fehler beim Lesen oder Schreiben des Features in/aus der Datei. |
 | IOException | Ein E/A-Fehler ist aufgetreten. |
-| [TransformationException](../../../aspose.gis.spatialreferencing/transformationexception) | Transformation der Feature-Geometrie vom Raumbezugssystem der Quelle zum Raumbezugssystem des Ziels fehlgeschlagen. |
+| [TransformationException](../../../aspose.gis.spatialreferencing/transformationexception/) | Transformation der Feature-Geometrie vom Raumbezugssystem der Quelle zum Raumbezugssystem des Ziels fehlgeschlagen. |
 
 ### Siehe auch
 
-* class [FileDriver](../../filedriver)
-* class [FeaturesSequence](../../featuressequence)
-* namensraum [Aspose.Gis](../../featuressequence)
+* class [FileDriver](../../filedriver/)
+* class [FeaturesSequence](../)
+* namensraum [Aspose.Gis](../../featuressequence/)
 * Montage [Aspose.GIS](../../../)
 
 ---
@@ -54,16 +54,16 @@ public void SaveTo(AbstractPath destinationPath, FileDriver destinationDriver)
 
 | Ausnahme | Bedingung |
 | --- | --- |
-| [GisException](../../gisexception) | Fehler beim Lesen oder Schreiben des Features in/aus der Datei. |
+| [GisException](../../gisexception/) | Fehler beim Lesen oder Schreiben des Features in/aus der Datei. |
 | IOException | Ein E/A-Fehler ist aufgetreten. |
-| [TransformationException](../../../aspose.gis.spatialreferencing/transformationexception) | Transformation der Feature-Geometrie vom Raumbezugssystem der Quelle zum Raumbezugssystem des Ziels fehlgeschlagen. |
+| [TransformationException](../../../aspose.gis.spatialreferencing/transformationexception/) | Transformation der Feature-Geometrie vom Raumbezugssystem der Quelle zum Raumbezugssystem des Ziels fehlgeschlagen. |
 
 ### Siehe auch
 
-* class [AbstractPath](../../abstractpath)
-* class [FileDriver](../../filedriver)
-* class [FeaturesSequence](../../featuressequence)
-* namensraum [Aspose.Gis](../../featuressequence)
+* class [AbstractPath](../../abstractpath/)
+* class [FileDriver](../../filedriver/)
+* class [FeaturesSequence](../)
+* namensraum [Aspose.Gis](../../featuressequence/)
 * Montage [Aspose.GIS](../../../)
 
 ---
@@ -86,17 +86,17 @@ public void SaveTo(string destinationPath, FileDriver destinationDriver, SavingO
 
 | Ausnahme | Bedingung |
 | --- | --- |
-| [GisException](../../gisexception) | Fehler beim Lesen oder Schreiben des Features in/aus der Datei. |
+| [GisException](../../gisexception/) | Fehler beim Lesen oder Schreiben des Features in/aus der Datei. |
 | IOException | Ein E/A-Fehler ist aufgetreten. |
-| [TransformationException](../../../aspose.gis.spatialreferencing/transformationexception) | Transformation der Feature-Geometrie vom Raumbezugssystem der Quelle zum Raumbezugssystem des Ziels fehlgeschlagen. |
-| NotSupportedException | Räumliches Bezugssystem angegeben in*options*wird nicht unterstützt von*destinationDriver* . |
+| [TransformationException](../../../aspose.gis.spatialreferencing/transformationexception/) | Transformation der Feature-Geometrie vom Raumbezugssystem der Quelle zum Raumbezugssystem des Ziels fehlgeschlagen. |
+| NotSupportedException | Räumliches Bezugssystem angegeben in*options* wird nicht unterstützt von*destinationDriver* . |
 
 ### Siehe auch
 
-* class [FileDriver](../../filedriver)
-* class [SavingOptions](../../savingoptions)
-* class [FeaturesSequence](../../featuressequence)
-* namensraum [Aspose.Gis](../../featuressequence)
+* class [FileDriver](../../filedriver/)
+* class [SavingOptions](../../savingoptions/)
+* class [FeaturesSequence](../)
+* namensraum [Aspose.Gis](../../featuressequence/)
 * Montage [Aspose.GIS](../../../)
 
 ---
@@ -120,18 +120,18 @@ public void SaveTo(AbstractPath destinationPath, FileDriver destinationDriver,
 
 | Ausnahme | Bedingung |
 | --- | --- |
-| [GisException](../../gisexception) | Fehler beim Lesen oder Schreiben des Features in/aus der Datei. |
+| [GisException](../../gisexception/) | Fehler beim Lesen oder Schreiben des Features in/aus der Datei. |
 | IOException | Ein E/A-Fehler ist aufgetreten. |
-| [TransformationException](../../../aspose.gis.spatialreferencing/transformationexception) | Transformation der Feature-Geometrie vom Raumbezugssystem der Quelle zum Raumbezugssystem des Ziels fehlgeschlagen. |
-| NotSupportedException | Räumliches Bezugssystem angegeben in*options*wird nicht unterstützt von*destinationDriver* . |
+| [TransformationException](../../../aspose.gis.spatialreferencing/transformationexception/) | Transformation der Feature-Geometrie vom Raumbezugssystem der Quelle zum Raumbezugssystem des Ziels fehlgeschlagen. |
+| NotSupportedException | Räumliches Bezugssystem angegeben in*options* wird nicht unterstützt von*destinationDriver* . |
 
 ### Siehe auch
 
-* class [AbstractPath](../../abstractpath)
-* class [FileDriver](../../filedriver)
-* class [SavingOptions](../../savingoptions)
-* class [FeaturesSequence](../../featuressequence)
-* namensraum [Aspose.Gis](../../featuressequence)
+* class [AbstractPath](../../abstractpath/)
+* class [FileDriver](../../filedriver/)
+* class [SavingOptions](../../savingoptions/)
+* class [FeaturesSequence](../)
+* namensraum [Aspose.Gis](../../featuressequence/)
 * Montage [Aspose.GIS](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.GIS.dll -->
+

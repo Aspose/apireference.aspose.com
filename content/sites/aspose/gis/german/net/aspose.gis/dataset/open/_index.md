@@ -1,7 +1,7 @@
 ---
-title: Open
+title: Dataset.Open
 second_title: Aspose.GIS für .NET-API-Referenz
-description: Öffnet den Datensatz.
+description: Dataset methode. Öffnet den Datensatz.
 type: docs
 weight: 20
 url: /de/net/aspose.gis/dataset/open/
@@ -21,21 +21,21 @@ public static Dataset Open(string path, FileDriver driver)
 
 ### Rückgabewert
 
-Eine Instanz von[`Dataset`](../../dataset).
+Eine Instanz von[`Dataset`](../).
 
 ### Ausnahmen
 
 | Ausnahme | Bedingung |
 | --- | --- |
 | ArgumentNullException | Der Weg ist`null`. |
-| [GisException](../../gisexception) | Fehler beim Lesen des Datensatzes. |
+| [GisException](../../gisexception/) | Fehler beim Lesen des Datensatzes. |
 | IOException | Ein E/A-Fehler ist aufgetreten. |
 
 ### Siehe auch
 
-* class [FileDriver](../../filedriver)
-* class [Dataset](../../dataset)
-* namensraum [Aspose.Gis](../../dataset)
+* class [FileDriver](../../filedriver/)
+* class [Dataset](../)
+* namensraum [Aspose.Gis](../../dataset/)
 * Montage [Aspose.GIS](../../../)
 
 ---
@@ -55,22 +55,22 @@ public static Dataset Open(AbstractPath path, FileDriver driver)
 
 ### Rückgabewert
 
-Eine Instanz von[`Dataset`](../../dataset).
+Eine Instanz von[`Dataset`](../).
 
 ### Ausnahmen
 
 | Ausnahme | Bedingung |
 | --- | --- |
 | ArgumentNullException | Der Weg ist`null`. |
-| [GisException](../../gisexception) | Fehler beim Lesen des Datensatzes. |
+| [GisException](../../gisexception/) | Fehler beim Lesen des Datensatzes. |
 | IOException | Ein E/A-Fehler ist aufgetreten. |
 
 ### Siehe auch
 
-* class [AbstractPath](../../abstractpath)
-* class [FileDriver](../../filedriver)
-* class [Dataset](../../dataset)
-* namensraum [Aspose.Gis](../../dataset)
+* class [AbstractPath](../../abstractpath/)
+* class [FileDriver](../../filedriver/)
+* class [Dataset](../)
+* namensraum [Aspose.Gis](../../dataset/)
 * Montage [Aspose.GIS](../../../)
 
 ---
@@ -91,7 +91,7 @@ public static Dataset Open(string path, FileDriver driver, DriverOptions options
 
 ### Rückgabewert
 
-Eine Instanz von[`Dataset`](../../dataset).
+Eine Instanz von[`Dataset`](../).
 
 ### Ausnahmen
 
@@ -99,15 +99,15 @@ Eine Instanz von[`Dataset`](../../dataset).
 | --- | --- |
 | ArgumentException | Das Optionsobjekt hat einen falschen Typ für diesen Treiber. |
 | ArgumentNullException | Der Weg ist`null`. |
-| [GisException](../../gisexception) | Fehler beim Lesen des Datensatzes. |
+| [GisException](../../gisexception/) | Fehler beim Lesen des Datensatzes. |
 | IOException | Ein E/A-Fehler ist aufgetreten. |
 
 ### Siehe auch
 
-* class [FileDriver](../../filedriver)
-* class [DriverOptions](../../driveroptions)
-* class [Dataset](../../dataset)
-* namensraum [Aspose.Gis](../../dataset)
+* class [FileDriver](../../filedriver/)
+* class [DriverOptions](../../driveroptions/)
+* class [Dataset](../)
+* namensraum [Aspose.Gis](../../dataset/)
 * Montage [Aspose.GIS](../../../)
 
 ---
@@ -128,7 +128,7 @@ public static Dataset Open(AbstractPath path, FileDriver driver, DriverOptions o
 
 ### Rückgabewert
 
-Eine Instanz von[`Dataset`](../../dataset).
+Eine Instanz von[`Dataset`](../).
 
 ### Ausnahmen
 
@@ -136,16 +136,16 @@ Eine Instanz von[`Dataset`](../../dataset).
 | --- | --- |
 | ArgumentException | Das Optionsobjekt hat einen falschen Typ für diesen Treiber. |
 | ArgumentNullException | Der Weg ist`null`. |
-| [GisException](../../gisexception) | Fehler beim Lesen des Datensatzes. |
+| [GisException](../../gisexception/) | Fehler beim Lesen des Datensatzes. |
 | IOException | Ein E/A-Fehler ist aufgetreten. |
 
 ### Siehe auch
 
-* class [AbstractPath](../../abstractpath)
-* class [FileDriver](../../filedriver)
-* class [DriverOptions](../../driveroptions)
-* class [Dataset](../../dataset)
-* namensraum [Aspose.Gis](../../dataset)
+* class [AbstractPath](../../abstractpath/)
+* class [FileDriver](../../filedriver/)
+* class [DriverOptions](../../driveroptions/)
+* class [Dataset](../)
+* namensraum [Aspose.Gis](../../dataset/)
 * Montage [Aspose.GIS](../../../)
 
 ---
@@ -165,7 +165,7 @@ public static Dataset Open(IDbConnection connection, DatabaseDriver driver)
 
 ### Rückgabewert
 
-Eine Instanz von[`Dataset`](../../dataset).
+Eine Instanz von[`Dataset`](../).
 
 ### Ausnahmen
 
@@ -173,14 +173,14 @@ Eine Instanz von[`Dataset`](../../dataset).
 | --- | --- |
 | ArgumentException | Das Optionsobjekt hat einen falschen Typ für diesen Treiber. |
 | ArgumentNullException | Der Weg ist`null`. |
-| [GisException](../../gisexception) | Fehler beim Lesen des Datensatzes. |
+| [GisException](../../gisexception/) | Fehler beim Lesen des Datensatzes. |
 | IOException | Ein E/A-Fehler ist aufgetreten. |
 
 ### Siehe auch
 
-* class [DatabaseDriver](../../databasedriver)
-* class [Dataset](../../dataset)
-* namensraum [Aspose.Gis](../../dataset)
+* class [DatabaseDriver](../../databasedriver/)
+* class [Dataset](../)
+* namensraum [Aspose.Gis](../../dataset/)
 * Montage [Aspose.GIS](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.GIS.dll -->
+

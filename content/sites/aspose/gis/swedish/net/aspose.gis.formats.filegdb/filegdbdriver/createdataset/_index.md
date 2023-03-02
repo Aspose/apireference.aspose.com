@@ -1,7 +1,7 @@
 ---
-title: CreateDataset
+title: FileGdbDriver.CreateDataset
 second_title: Aspose.GIS för .NET API Referens
-description: Skapar en datauppsättning.
+description: FileGdbDriver metod. Skapar en datauppsättning.
 type: docs
 weight: 50
 url: /sv/net/aspose.gis.formats.filegdb/filegdbdriver/createdataset/
@@ -21,7 +21,7 @@ public Dataset CreateDataset(string path, FileGdbOptions options)
 
 ### Returvärde
 
-Ett exempel på[`Dataset`](../../../aspose.gis/dataset).
+Ett exempel på[`Dataset`](../../../aspose.gis/dataset/).
 
 ### Undantag
 
@@ -29,17 +29,17 @@ Ett exempel på[`Dataset`](../../../aspose.gis/dataset).
 | --- | --- |
 | ArgumentException | Options-objektet har en felaktig typ för den här drivrutinen. |
 | ArgumentNullException | Vägen är`null`. |
-| [GisException](../../../aspose.gis/gisexception) | Det gick inte att läsa datauppsättningen. |
+| [GisException](../../../aspose.gis/gisexception/) | Det gick inte att läsa datauppsättningen. |
 | IOException | Ett I/O-fel uppstod. |
-| NotSupportedException | Drivrutinen kan inte öppna datauppsättningar (se[`CanOpenDatasets`](../../../aspose.gis/filedriver/canopendatasets)). |
+| NotSupportedException | Drivrutinen kan inte öppna datauppsättningar (se[`CanOpenDatasets`](../../../aspose.gis/filedriver/canopendatasets/)). |
 | InvalidOperationException | Datauppsättningen finns redan. |
 
 ### Se även
 
-* class [Dataset](../../../aspose.gis/dataset)
-* class [FileGdbOptions](../../filegdboptions)
-* class [FileGdbDriver](../../filegdbdriver)
-* namnutrymme [Aspose.Gis.Formats.FileGdb](../../filegdbdriver)
+* class [Dataset](../../../aspose.gis/dataset/)
+* class [FileGdbOptions](../../filegdboptions/)
+* class [FileGdbDriver](../)
+* namnutrymme [Aspose.Gis.Formats.FileGdb](../../filegdbdriver/)
 * hopsättning [Aspose.GIS](../../../)
 
 ---
@@ -59,7 +59,7 @@ public override Dataset CreateDataset(AbstractPath path, DriverOptions options)
 
 ### Returvärde
 
-Ett exempel på[`Dataset`](../../../aspose.gis/dataset).
+Ett exempel på[`Dataset`](../../../aspose.gis/dataset/).
 
 ### Undantag
 
@@ -67,18 +67,18 @@ Ett exempel på[`Dataset`](../../../aspose.gis/dataset).
 | --- | --- |
 | ArgumentException | Options-objektet har en felaktig typ för den här drivrutinen. |
 | ArgumentNullException | Vägen är`null`. |
-| [GisException](../../../aspose.gis/gisexception) | Det gick inte att läsa datauppsättningen. |
+| [GisException](../../../aspose.gis/gisexception/) | Det gick inte att läsa datauppsättningen. |
 | IOException | Ett I/O-fel uppstod. |
-| NotSupportedException | Drivrutinen kan inte öppna datauppsättningar (se[`CanOpenDatasets`](../../../aspose.gis/filedriver/canopendatasets)). |
+| NotSupportedException | Drivrutinen kan inte öppna datauppsättningar (se[`CanOpenDatasets`](../../../aspose.gis/filedriver/canopendatasets/)). |
 | InvalidOperationException | Datauppsättningen finns redan. |
 
 ### Se även
 
-* class [Dataset](../../../aspose.gis/dataset)
-* class [AbstractPath](../../../aspose.gis/abstractpath)
-* class [DriverOptions](../../../aspose.gis/driveroptions)
-* class [FileGdbDriver](../../filegdbdriver)
-* namnutrymme [Aspose.Gis.Formats.FileGdb](../../filegdbdriver)
+* class [Dataset](../../../aspose.gis/dataset/)
+* class [AbstractPath](../../../aspose.gis/abstractpath/)
+* class [DriverOptions](../../../aspose.gis/driveroptions/)
+* class [FileGdbDriver](../)
+* namnutrymme [Aspose.Gis.Formats.FileGdb](../../filegdbdriver/)
 * hopsättning [Aspose.GIS](../../../)
 
 ---
@@ -98,7 +98,7 @@ public Dataset CreateDataset(AbstractPath path, FileGdbOptions options)
 
 ### Returvärde
 
-Ett exempel på[`Dataset`](../../../aspose.gis/dataset).
+Ett exempel på[`Dataset`](../../../aspose.gis/dataset/).
 
 ### Undantag
 
@@ -106,18 +106,18 @@ Ett exempel på[`Dataset`](../../../aspose.gis/dataset).
 | --- | --- |
 | ArgumentException | Options-objektet har en felaktig typ för den här drivrutinen. |
 | ArgumentNullException | Vägen är`null`. |
-| [GisException](../../../aspose.gis/gisexception) | Det gick inte att läsa datauppsättningen. |
+| [GisException](../../../aspose.gis/gisexception/) | Det gick inte att läsa datauppsättningen. |
 | IOException | Ett I/O-fel uppstod. |
-| NotSupportedException | Drivrutinen kan inte öppna datauppsättningar (se[`CanOpenDatasets`](../../../aspose.gis/filedriver/canopendatasets)). |
+| NotSupportedException | Drivrutinen kan inte öppna datauppsättningar (se[`CanOpenDatasets`](../../../aspose.gis/filedriver/canopendatasets/)). |
 | InvalidOperationException | Datauppsättningen finns redan. |
 
 ### Se även
 
-* class [Dataset](../../../aspose.gis/dataset)
-* class [AbstractPath](../../../aspose.gis/abstractpath)
-* class [FileGdbOptions](../../filegdboptions)
-* class [FileGdbDriver](../../filegdbdriver)
-* namnutrymme [Aspose.Gis.Formats.FileGdb](../../filegdbdriver)
+* class [Dataset](../../../aspose.gis/dataset/)
+* class [AbstractPath](../../../aspose.gis/abstractpath/)
+* class [FileGdbOptions](../../filegdboptions/)
+* class [FileGdbDriver](../)
+* namnutrymme [Aspose.Gis.Formats.FileGdb](../../filegdbdriver/)
 * hopsättning [Aspose.GIS](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.GIS.dll -->
+

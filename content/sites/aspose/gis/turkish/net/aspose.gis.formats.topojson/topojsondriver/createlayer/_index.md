@@ -1,14 +1,14 @@
 ---
-title: CreateLayer
+title: TopoJsonDriver.CreateLayer
 second_title: Aspose.GIS for .NET API Referansı
-description: Bir katman oluşturur ve onu yeni özellikler eklemek için açar.
+description: TopoJsonDriver yöntem. Bir katman oluşturur ve yeni özellikler eklemek için açar.
 type: docs
 weight: 40
 url: /tr/net/aspose.gis.formats.topojson/topojsondriver/createlayer/
 ---
 ## CreateLayer(string, TopoJsonOptions) {#createlayer_9}
 
-Bir katman oluşturur ve onu yeni özellikler eklemek için açar.
+Bir katman oluşturur ve yeni özellikler eklemek için açar.
 
 ```csharp
 public VectorLayer CreateLayer(string path, TopoJsonOptions options)
@@ -21,7 +21,7 @@ public VectorLayer CreateLayer(string path, TopoJsonOptions options)
 
 ### Geri dönüş değeri
 
-bir örneği[`VectorLayer`](../../../aspose.gis/vectorlayer).
+bir örneği[`VectorLayer`](../../../aspose.gis/vectorlayer/).
 
 ### istisnalar
 
@@ -31,17 +31,17 @@ bir örneği[`VectorLayer`](../../../aspose.gis/vectorlayer).
 
 ### Ayrıca bakınız
 
-* class [VectorLayer](../../../aspose.gis/vectorlayer)
-* class [TopoJsonOptions](../../topojsonoptions)
-* class [TopoJsonDriver](../../topojsondriver)
-* ad alanı [Aspose.Gis.Formats.TopoJson](../../topojsondriver)
+* class [VectorLayer](../../../aspose.gis/vectorlayer/)
+* class [TopoJsonOptions](../../topojsonoptions/)
+* class [TopoJsonDriver](../)
+* ad alanı [Aspose.Gis.Formats.TopoJson](../../topojsondriver/)
 * toplantı [Aspose.GIS](../../../)
 
 ---
 
 ## CreateLayer(AbstractPath, TopoJsonOptions) {#createlayer_3}
 
-Bir katman oluşturur ve onu yeni özellikler eklemek için açar.
+Bir katman oluşturur ve yeni özellikler eklemek için açar.
 
 ```csharp
 public VectorLayer CreateLayer(AbstractPath path, TopoJsonOptions options)
@@ -54,7 +54,7 @@ public VectorLayer CreateLayer(AbstractPath path, TopoJsonOptions options)
 
 ### Geri dönüş değeri
 
-bir örneği[`VectorLayer`](../../../aspose.gis/vectorlayer).
+bir örneği[`VectorLayer`](../../../aspose.gis/vectorlayer/).
 
 ### istisnalar
 
@@ -64,18 +64,18 @@ bir örneği[`VectorLayer`](../../../aspose.gis/vectorlayer).
 
 ### Ayrıca bakınız
 
-* class [VectorLayer](../../../aspose.gis/vectorlayer)
-* class [AbstractPath](../../../aspose.gis/abstractpath)
-* class [TopoJsonOptions](../../topojsonoptions)
-* class [TopoJsonDriver](../../topojsondriver)
-* ad alanı [Aspose.Gis.Formats.TopoJson](../../topojsondriver)
+* class [VectorLayer](../../../aspose.gis/vectorlayer/)
+* class [AbstractPath](../../../aspose.gis/abstractpath/)
+* class [TopoJsonOptions](../../topojsonoptions/)
+* class [TopoJsonDriver](../)
+* ad alanı [Aspose.Gis.Formats.TopoJson](../../topojsondriver/)
 * toplantı [Aspose.GIS](../../../)
 
 ---
 
 ## CreateLayer(AbstractPath, DriverOptions, SpatialReferenceSystem) {#createlayer_2}
 
-Bir katman oluşturur ve onu yeni özellikler eklemek için açar.
+Bir katman oluşturur ve yeni özellikler eklemek için açar.
 
 ```csharp
 public override VectorLayer CreateLayer(AbstractPath path, DriverOptions options, 
@@ -90,7 +90,7 @@ public override VectorLayer CreateLayer(AbstractPath path, DriverOptions options
 
 ### Geri dönüş değeri
 
-bir örneği[`VectorLayer`](../../../aspose.gis/vectorlayer).
+bir örneği[`VectorLayer`](../../../aspose.gis/vectorlayer/).
 
 ### istisnalar
 
@@ -100,19 +100,19 @@ bir örneği[`VectorLayer`](../../../aspose.gis/vectorlayer).
 
 ### Ayrıca bakınız
 
-* class [VectorLayer](../../../aspose.gis/vectorlayer)
-* class [AbstractPath](../../../aspose.gis/abstractpath)
-* class [DriverOptions](../../../aspose.gis/driveroptions)
-* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem)
-* class [TopoJsonDriver](../../topojsondriver)
-* ad alanı [Aspose.Gis.Formats.TopoJson](../../topojsondriver)
+* class [VectorLayer](../../../aspose.gis/vectorlayer/)
+* class [AbstractPath](../../../aspose.gis/abstractpath/)
+* class [DriverOptions](../../../aspose.gis/driveroptions/)
+* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem/)
+* class [TopoJsonDriver](../)
+* ad alanı [Aspose.Gis.Formats.TopoJson](../../topojsondriver/)
 * toplantı [Aspose.GIS](../../../)
 
 ---
 
 ## CreateLayer(AbstractPath, TopoJsonOptions, SpatialReferenceSystem) {#createlayer_4}
 
-Bir katman oluşturur ve onu yeni özellikler eklemek için açar.
+Bir katman oluşturur ve yeni özellikler eklemek için açar.
 
 ```csharp
 public VectorLayer CreateLayer(AbstractPath path, TopoJsonOptions options, 
@@ -127,23 +127,23 @@ public VectorLayer CreateLayer(AbstractPath path, TopoJsonOptions options,
 
 ### Geri dönüş değeri
 
-bir örneği[`VectorLayer`](../../../aspose.gis/vectorlayer).
+bir örneği[`VectorLayer`](../../../aspose.gis/vectorlayer/).
 
 ### istisnalar
 
 | istisna | şart |
 | --- | --- |
 | InvalidOperationException | Katman zaten var. |
-| NotSupportedException | Mekansal referans sistemi sürücü tarafından desteklenmiyor. |
+| NotSupportedException | Uzamsal referans sistemi sürücü tarafından desteklenmiyor. |
 
 ### Ayrıca bakınız
 
-* class [VectorLayer](../../../aspose.gis/vectorlayer)
-* class [AbstractPath](../../../aspose.gis/abstractpath)
-* class [TopoJsonOptions](../../topojsonoptions)
-* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem)
-* class [TopoJsonDriver](../../topojsondriver)
-* ad alanı [Aspose.Gis.Formats.TopoJson](../../topojsondriver)
+* class [VectorLayer](../../../aspose.gis/vectorlayer/)
+* class [AbstractPath](../../../aspose.gis/abstractpath/)
+* class [TopoJsonOptions](../../topojsonoptions/)
+* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem/)
+* class [TopoJsonDriver](../)
+* ad alanı [Aspose.Gis.Formats.TopoJson](../../topojsondriver/)
 * toplantı [Aspose.GIS](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.GIS.dll -->
+

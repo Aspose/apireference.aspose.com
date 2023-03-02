@@ -1,7 +1,7 @@
 ---
-title: Create
+title: VectorLayer.Create
 second_title: Aspose.GIS för .NET API Referens
-description: Skapar lagret och öppnar det för att lägga till nya funktioner.
+description: VectorLayer metod. Skapar lagret och öppnar det för att lägga till nya funktioner.
 type: docs
 weight: 10
 url: /sv/net/aspose.gis/vectorlayer/create/
@@ -29,14 +29,14 @@ Ett skrivskyddslager.
 | --- | --- |
 | ArgumentNullException | Vägen är`null`. |
 | ArgumentException | Options-objektet har en felaktig typ för den här drivrutinen. |
-| [GisException](../../gisexception) | Det gick inte att skriva funktionen till filen. |
+| [GisException](../../gisexception/) | Det gick inte att skriva funktionen till filen. |
 | IOException | Ett I/O-fel uppstod. |
 
 ### Se även
 
-* class [FileDriver](../../filedriver)
-* class [VectorLayer](../../vectorlayer)
-* namnutrymme [Aspose.Gis](../../vectorlayer)
+* class [FileDriver](../../filedriver/)
+* class [VectorLayer](../)
+* namnutrymme [Aspose.Gis](../../vectorlayer/)
 * hopsättning [Aspose.GIS](../../../)
 
 ---
@@ -65,15 +65,15 @@ Ett skrivskyddslager.
 | --- | --- |
 | ArgumentNullException | Vägen är`null`. |
 | ArgumentException | Options-objektet har en felaktig typ för den här drivrutinen. |
-| [GisException](../../gisexception) | Det gick inte att skriva funktionen till filen. |
+| [GisException](../../gisexception/) | Det gick inte att skriva funktionen till filen. |
 | IOException | Ett I/O-fel uppstod. |
 
 ### Se även
 
-* class [FileDriver](../../filedriver)
-* class [DriverOptions](../../driveroptions)
-* class [VectorLayer](../../vectorlayer)
-* namnutrymme [Aspose.Gis](../../vectorlayer)
+* class [FileDriver](../../filedriver/)
+* class [DriverOptions](../../driveroptions/)
+* class [VectorLayer](../)
+* namnutrymme [Aspose.Gis](../../vectorlayer/)
 * hopsättning [Aspose.GIS](../../../)
 
 ---
@@ -101,15 +101,15 @@ Ett skrivskyddslager.
 | --- | --- |
 | ArgumentNullException | Vägen är`null`. |
 | ArgumentException | Options-objektet har en felaktig typ för den här drivrutinen. |
-| [GisException](../../gisexception) | Det gick inte att skriva funktionen till filen. |
+| [GisException](../../gisexception/) | Det gick inte att skriva funktionen till filen. |
 | IOException | Ett I/O-fel uppstod. |
 
 ### Se även
 
-* class [AbstractPath](../../abstractpath)
-* class [FileDriver](../../filedriver)
-* class [VectorLayer](../../vectorlayer)
-* namnutrymme [Aspose.Gis](../../vectorlayer)
+* class [AbstractPath](../../abstractpath/)
+* class [FileDriver](../../filedriver/)
+* class [VectorLayer](../)
+* namnutrymme [Aspose.Gis](../../vectorlayer/)
 * hopsättning [Aspose.GIS](../../../)
 
 ---
@@ -138,16 +138,16 @@ Ett skrivskyddslager.
 | --- | --- |
 | ArgumentNullException | Vägen är`null`. |
 | ArgumentException | Options-objektet har en felaktig typ för den här drivrutinen. |
-| [GisException](../../gisexception) | Det gick inte att skriva funktionen till filen. |
+| [GisException](../../gisexception/) | Det gick inte att skriva funktionen till filen. |
 | IOException | Ett I/O-fel uppstod. |
 
 ### Se även
 
-* class [AbstractPath](../../abstractpath)
-* class [FileDriver](../../filedriver)
-* class [DriverOptions](../../driveroptions)
-* class [VectorLayer](../../vectorlayer)
-* namnutrymme [Aspose.Gis](../../vectorlayer)
+* class [AbstractPath](../../abstractpath/)
+* class [FileDriver](../../filedriver/)
+* class [DriverOptions](../../driveroptions/)
+* class [VectorLayer](../)
+* namnutrymme [Aspose.Gis](../../vectorlayer/)
 * hopsättning [Aspose.GIS](../../../)
 
 ---
@@ -169,23 +169,23 @@ public static VectorLayer Create(string path, FileDriver driver,
 
 ### Returvärde
 
-Ett exempel på[`VectorLayer`](../../vectorlayer).
+Ett exempel på[`VectorLayer`](../).
 
 ### Undantag
 
 | undantag | skick |
 | --- | --- |
 | ArgumentNullException | Vägen är`null`. |
-| [GisException](../../gisexception) | Det gick inte att läsa eller skriva funktionen till/från filen. |
+| [GisException](../../gisexception/) | Det gick inte att läsa eller skriva funktionen till/från filen. |
 | IOException | Ett I/O-fel uppstod. |
-| NotSupportedException | Rumsligt referenssystem stöds inte av drivrutinen. Använd[`SupportsSpatialReferenceSystem`](../../filedriver/supportsspatialreferencesystem) för att kontrollera om det rumsliga referenssystemet stöds. |
+| NotSupportedException | Rumsligt referenssystem stöds inte av drivrutinen. Använd[`SupportsSpatialReferenceSystem`](../../filedriver/supportsspatialreferencesystem/) för att kontrollera om det rumsliga referenssystemet stöds. |
 
 ### Se även
 
-* class [FileDriver](../../filedriver)
-* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem)
-* class [VectorLayer](../../vectorlayer)
-* namnutrymme [Aspose.Gis](../../vectorlayer)
+* class [FileDriver](../../filedriver/)
+* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem/)
+* class [VectorLayer](../)
+* namnutrymme [Aspose.Gis](../../vectorlayer/)
 * hopsättning [Aspose.GIS](../../../)
 
 ---
@@ -207,24 +207,24 @@ public static VectorLayer Create(AbstractPath path, FileDriver driver,
 
 ### Returvärde
 
-Ett exempel på[`VectorLayer`](../../vectorlayer).
+Ett exempel på[`VectorLayer`](../).
 
 ### Undantag
 
 | undantag | skick |
 | --- | --- |
 | ArgumentNullException | Vägen är`null`. |
-| [GisException](../../gisexception) | Det gick inte att läsa eller skriva funktionen till/från filen. |
+| [GisException](../../gisexception/) | Det gick inte att läsa eller skriva funktionen till/från filen. |
 | IOException | Ett I/O-fel uppstod. |
-| NotSupportedException | Rumsligt referenssystem stöds inte av drivrutinen. Använd[`SupportsSpatialReferenceSystem`](../../filedriver/supportsspatialreferencesystem) för att kontrollera om det rumsliga referenssystemet stöds. |
+| NotSupportedException | Rumsligt referenssystem stöds inte av drivrutinen. Använd[`SupportsSpatialReferenceSystem`](../../filedriver/supportsspatialreferencesystem/) för att kontrollera om det rumsliga referenssystemet stöds. |
 
 ### Se även
 
-* class [AbstractPath](../../abstractpath)
-* class [FileDriver](../../filedriver)
-* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem)
-* class [VectorLayer](../../vectorlayer)
-* namnutrymme [Aspose.Gis](../../vectorlayer)
+* class [AbstractPath](../../abstractpath/)
+* class [FileDriver](../../filedriver/)
+* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem/)
+* class [VectorLayer](../)
+* namnutrymme [Aspose.Gis](../../vectorlayer/)
 * hopsättning [Aspose.GIS](../../../)
 
 ---
@@ -247,7 +247,7 @@ public static VectorLayer Create(string path, FileDriver driver, DriverOptions o
 
 ### Returvärde
 
-Ett exempel på[`VectorLayer`](../../vectorlayer).
+Ett exempel på[`VectorLayer`](../).
 
 ### Undantag
 
@@ -255,17 +255,17 @@ Ett exempel på[`VectorLayer`](../../vectorlayer).
 | --- | --- |
 | ArgumentNullException | Vägen är`null`. |
 | ArgumentException | Options-objektet har en felaktig typ för den här drivrutinen. |
-| [GisException](../../gisexception) | Det gick inte att läsa eller skriva funktionen till/från filen. |
+| [GisException](../../gisexception/) | Det gick inte att läsa eller skriva funktionen till/från filen. |
 | IOException | Ett I/O-fel uppstod. |
-| NotSupportedException | Rumsligt referenssystem stöds inte av drivrutinen. Använd[`SupportsSpatialReferenceSystem`](../../filedriver/supportsspatialreferencesystem) för att kontrollera om det rumsliga referenssystemet stöds. |
+| NotSupportedException | Rumsligt referenssystem stöds inte av drivrutinen. Använd[`SupportsSpatialReferenceSystem`](../../filedriver/supportsspatialreferencesystem/) för att kontrollera om det rumsliga referenssystemet stöds. |
 
 ### Se även
 
-* class [FileDriver](../../filedriver)
-* class [DriverOptions](../../driveroptions)
-* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem)
-* class [VectorLayer](../../vectorlayer)
-* namnutrymme [Aspose.Gis](../../vectorlayer)
+* class [FileDriver](../../filedriver/)
+* class [DriverOptions](../../driveroptions/)
+* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem/)
+* class [VectorLayer](../)
+* namnutrymme [Aspose.Gis](../../vectorlayer/)
 * hopsättning [Aspose.GIS](../../../)
 
 ---
@@ -288,7 +288,7 @@ public static VectorLayer Create(AbstractPath path, FileDriver driver, DriverOpt
 
 ### Returvärde
 
-Ett exempel på[`VectorLayer`](../../vectorlayer).
+Ett exempel på[`VectorLayer`](../).
 
 ### Undantag
 
@@ -296,18 +296,18 @@ Ett exempel på[`VectorLayer`](../../vectorlayer).
 | --- | --- |
 | ArgumentNullException | Vägen är`null`. |
 | ArgumentException | Options-objektet har en felaktig typ för den här drivrutinen. |
-| [GisException](../../gisexception) | Det gick inte att läsa eller skriva funktionen till/från filen. |
+| [GisException](../../gisexception/) | Det gick inte att läsa eller skriva funktionen till/från filen. |
 | IOException | Ett I/O-fel uppstod. |
-| NotSupportedException | Rumsligt referenssystem stöds inte av drivrutinen. Använd[`SupportsSpatialReferenceSystem`](../../filedriver/supportsspatialreferencesystem) för att kontrollera om det rumsliga referenssystemet stöds. |
+| NotSupportedException | Rumsligt referenssystem stöds inte av drivrutinen. Använd[`SupportsSpatialReferenceSystem`](../../filedriver/supportsspatialreferencesystem/) för att kontrollera om det rumsliga referenssystemet stöds. |
 
 ### Se även
 
-* class [AbstractPath](../../abstractpath)
-* class [FileDriver](../../filedriver)
-* class [DriverOptions](../../driveroptions)
-* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem)
-* class [VectorLayer](../../vectorlayer)
-* namnutrymme [Aspose.Gis](../../vectorlayer)
+* class [AbstractPath](../../abstractpath/)
+* class [FileDriver](../../filedriver/)
+* class [DriverOptions](../../driveroptions/)
+* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem/)
+* class [VectorLayer](../)
+* namnutrymme [Aspose.Gis](../../vectorlayer/)
 * hopsättning [Aspose.GIS](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.GIS.dll -->
+
