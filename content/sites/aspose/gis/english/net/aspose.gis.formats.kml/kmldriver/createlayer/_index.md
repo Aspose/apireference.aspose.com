@@ -1,12 +1,12 @@
 ---
-title: CreateLayer
+title: KmlDriver.CreateLayer
 second_title: Aspose.GIS for .NET API Reference
-description: 
+description: KmlDriver method. Creates a layer and opens it for adding new features.
 type: docs
 weight: 40
 url: /net/aspose.gis.formats.kml/kmldriver/createlayer/
 ---
-## KmlDriver.CreateLayer method (1 of 4)
+## CreateLayer(string, KmlOptions) {#createlayer_9}
 
 Creates a layer and opens it for adding new features.
 
@@ -19,9 +19,9 @@ public VectorLayer CreateLayer(string path, KmlOptions options)
 | path | String | Path to the file. |
 | options | KmlOptions | Driver-specific options. |
 
-## Return Value
+### Return Value
 
-An instance of [`VectorLayer`](../../../aspose.gis/vectorlayer).
+An instance of [`VectorLayer`](../../../aspose.gis/vectorlayer/).
 
 ### Exceptions
 
@@ -31,15 +31,15 @@ An instance of [`VectorLayer`](../../../aspose.gis/vectorlayer).
 
 ### See Also
 
-* class [VectorLayer](../../../aspose.gis/vectorlayer)
-* class [KmlOptions](../../kmloptions)
-* class [KmlDriver](../../kmldriver)
-* namespace [Aspose.Gis.Formats.Kml](../../kmldriver)
+* class [VectorLayer](../../../aspose.gis/vectorlayer/)
+* class [KmlOptions](../../kmloptions/)
+* class [KmlDriver](../)
+* namespace [Aspose.Gis.Formats.Kml](../../kmldriver/)
 * assembly [Aspose.GIS](../../../)
 
 ---
 
-## KmlDriver.CreateLayer method (2 of 4)
+## CreateLayer(AbstractPath, KmlOptions) {#createlayer_3}
 
 Creates a layer and opens it for adding new features.
 
@@ -52,9 +52,9 @@ public VectorLayer CreateLayer(AbstractPath path, KmlOptions options)
 | path | AbstractPath | Path to the file. |
 | options | KmlOptions | Driver-specific options. |
 
-## Return Value
+### Return Value
 
-An instance of [`VectorLayer`](../../../aspose.gis/vectorlayer).
+An instance of [`VectorLayer`](../../../aspose.gis/vectorlayer/).
 
 ### Exceptions
 
@@ -64,16 +64,16 @@ An instance of [`VectorLayer`](../../../aspose.gis/vectorlayer).
 
 ### See Also
 
-* class [VectorLayer](../../../aspose.gis/vectorlayer)
-* class [AbstractPath](../../../aspose.gis/abstractpath)
-* class [KmlOptions](../../kmloptions)
-* class [KmlDriver](../../kmldriver)
-* namespace [Aspose.Gis.Formats.Kml](../../kmldriver)
+* class [VectorLayer](../../../aspose.gis/vectorlayer/)
+* class [AbstractPath](../../../aspose.gis/abstractpath/)
+* class [KmlOptions](../../kmloptions/)
+* class [KmlDriver](../)
+* namespace [Aspose.Gis.Formats.Kml](../../kmldriver/)
 * assembly [Aspose.GIS](../../../)
 
 ---
 
-## KmlDriver.CreateLayer method (3 of 4)
+## CreateLayer(AbstractPath, DriverOptions, SpatialReferenceSystem) {#createlayer_2}
 
 Creates a layer and opens it for adding new features.
 
@@ -88,9 +88,9 @@ public override VectorLayer CreateLayer(AbstractPath path, DriverOptions options
 | options | DriverOptions | Driver-specific options. |
 | spatialReferenceSystem | SpatialReferenceSystem | Spatial reference system. |
 
-## Return Value
+### Return Value
 
-An instance of [`VectorLayer`](../../../aspose.gis/vectorlayer).
+An instance of [`VectorLayer`](../../../aspose.gis/vectorlayer/).
 
 ### Exceptions
 
@@ -100,17 +100,17 @@ An instance of [`VectorLayer`](../../../aspose.gis/vectorlayer).
 
 ### See Also
 
-* class [VectorLayer](../../../aspose.gis/vectorlayer)
-* class [AbstractPath](../../../aspose.gis/abstractpath)
-* class [DriverOptions](../../../aspose.gis/driveroptions)
-* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem)
-* class [KmlDriver](../../kmldriver)
-* namespace [Aspose.Gis.Formats.Kml](../../kmldriver)
+* class [VectorLayer](../../../aspose.gis/vectorlayer/)
+* class [AbstractPath](../../../aspose.gis/abstractpath/)
+* class [DriverOptions](../../../aspose.gis/driveroptions/)
+* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem/)
+* class [KmlDriver](../)
+* namespace [Aspose.Gis.Formats.Kml](../../kmldriver/)
 * assembly [Aspose.GIS](../../../)
 
 ---
 
-## KmlDriver.CreateLayer method (4 of 4)
+## CreateLayer(AbstractPath, KmlOptions, SpatialReferenceSystem) {#createlayer_4}
 
 Creates a layer and opens it for adding new features.
 
@@ -125,9 +125,9 @@ public VectorLayer CreateLayer(AbstractPath path, KmlOptions options,
 | options | KmlOptions | Driver-specific options. |
 | spatialReferenceSystem | SpatialReferenceSystem | Spatial reference system. |
 
-## Return Value
+### Return Value
 
-An instance of [`VectorLayer`](../../../aspose.gis/vectorlayer).
+An instance of [`VectorLayer`](../../../aspose.gis/vectorlayer/).
 
 ### Exceptions
 
@@ -138,12 +138,12 @@ An instance of [`VectorLayer`](../../../aspose.gis/vectorlayer).
 
 ### See Also
 
-* class [VectorLayer](../../../aspose.gis/vectorlayer)
-* class [AbstractPath](../../../aspose.gis/abstractpath)
-* class [KmlOptions](../../kmloptions)
-* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem)
-* class [KmlDriver](../../kmldriver)
-* namespace [Aspose.Gis.Formats.Kml](../../kmldriver)
+* class [VectorLayer](../../../aspose.gis/vectorlayer/)
+* class [AbstractPath](../../../aspose.gis/abstractpath/)
+* class [KmlOptions](../../kmloptions/)
+* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem/)
+* class [KmlDriver](../)
+* namespace [Aspose.Gis.Formats.Kml](../../kmldriver/)
 * assembly [Aspose.GIS](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.GIS.dll -->
+

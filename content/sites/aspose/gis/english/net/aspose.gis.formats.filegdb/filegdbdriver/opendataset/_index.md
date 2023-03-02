@@ -1,12 +1,12 @@
 ---
-title: OpenDataset
+title: FileGdbDriver.OpenDataset
 second_title: Aspose.GIS for .NET API Reference
-description: 
+description: FileGdbDriver method. Opens the dataset.
 type: docs
 weight: 70
 url: /net/aspose.gis.formats.filegdb/filegdbdriver/opendataset/
 ---
-## FileGdbDriver.OpenDataset method (1 of 3)
+## OpenDataset(string, FileGdbOptions) {#opendataset_5}
 
 Opens the dataset.
 
@@ -19,9 +19,9 @@ public Dataset OpenDataset(string path, FileGdbOptions options)
 | path | String | Path to the dataset. |
 | options | FileGdbOptions | Driver-specific options. |
 
-## Return Value
+### Return Value
 
-An instance of [`Dataset`](../../../aspose.gis/dataset).
+An instance of [`Dataset`](../../../aspose.gis/dataset/).
 
 ### Exceptions
 
@@ -29,21 +29,21 @@ An instance of [`Dataset`](../../../aspose.gis/dataset).
 | --- | --- |
 | ArgumentException | Options object has an incorrect type for this driver. |
 | ArgumentNullException | The path is `null`. |
-| [GisException](../../../aspose.gis/gisexception) | Error reading the layer from the dataset. |
+| [GisException](../../../aspose.gis/gisexception/) | Error reading the layer from the dataset. |
 | IOException | An I/O error occurred. |
-| NotSupportedException | Driver can not open datasets (see [`CanOpenDatasets`](../canopendatasets)). |
+| NotSupportedException | Driver can not open datasets (see [`CanOpenDatasets`](../canopendatasets/)). |
 
 ### See Also
 
-* class [Dataset](../../../aspose.gis/dataset)
-* class [FileGdbOptions](../../filegdboptions)
-* class [FileGdbDriver](../../filegdbdriver)
-* namespace [Aspose.Gis.Formats.FileGdb](../../filegdbdriver)
+* class [Dataset](../../../aspose.gis/dataset/)
+* class [FileGdbOptions](../../filegdboptions/)
+* class [FileGdbDriver](../)
+* namespace [Aspose.Gis.Formats.FileGdb](../../filegdbdriver/)
 * assembly [Aspose.GIS](../../../)
 
 ---
 
-## FileGdbDriver.OpenDataset method (2 of 3)
+## OpenDataset(AbstractPath, DriverOptions) {#opendataset_1}
 
 Opens the dataset.
 
@@ -56,9 +56,9 @@ public override Dataset OpenDataset(AbstractPath path, DriverOptions options)
 | path | AbstractPath | Path to the dataset. |
 | options | DriverOptions | Driver-specific options. |
 
-## Return Value
+### Return Value
 
-An instance of [`Dataset`](../../../aspose.gis/dataset).
+An instance of [`Dataset`](../../../aspose.gis/dataset/).
 
 ### Exceptions
 
@@ -66,22 +66,22 @@ An instance of [`Dataset`](../../../aspose.gis/dataset).
 | --- | --- |
 | ArgumentException | Options object has an incorrect type for this driver. |
 | ArgumentNullException | The path is `null`. |
-| [GisException](../../../aspose.gis/gisexception) | Error reading the layer from the dataset. |
+| [GisException](../../../aspose.gis/gisexception/) | Error reading the layer from the dataset. |
 | IOException | An I/O error occurred. |
-| NotSupportedException | Driver can not open datasets (see [`CanOpenDatasets`](../canopendatasets)). |
+| NotSupportedException | Driver can not open datasets (see [`CanOpenDatasets`](../canopendatasets/)). |
 
 ### See Also
 
-* class [Dataset](../../../aspose.gis/dataset)
-* class [AbstractPath](../../../aspose.gis/abstractpath)
-* class [DriverOptions](../../../aspose.gis/driveroptions)
-* class [FileGdbDriver](../../filegdbdriver)
-* namespace [Aspose.Gis.Formats.FileGdb](../../filegdbdriver)
+* class [Dataset](../../../aspose.gis/dataset/)
+* class [AbstractPath](../../../aspose.gis/abstractpath/)
+* class [DriverOptions](../../../aspose.gis/driveroptions/)
+* class [FileGdbDriver](../)
+* namespace [Aspose.Gis.Formats.FileGdb](../../filegdbdriver/)
 * assembly [Aspose.GIS](../../../)
 
 ---
 
-## FileGdbDriver.OpenDataset method (3 of 3)
+## OpenDataset(AbstractPath, FileGdbOptions) {#opendataset_2}
 
 Opens the dataset.
 
@@ -94,9 +94,9 @@ public Dataset OpenDataset(AbstractPath path, FileGdbOptions options)
 | path | AbstractPath | Path to the dataset. |
 | options | FileGdbOptions | Driver-specific options. |
 
-## Return Value
+### Return Value
 
-An instance of [`Dataset`](../../../aspose.gis/dataset).
+An instance of [`Dataset`](../../../aspose.gis/dataset/).
 
 ### Exceptions
 
@@ -104,17 +104,17 @@ An instance of [`Dataset`](../../../aspose.gis/dataset).
 | --- | --- |
 | ArgumentException | Options object has an incorrect type for this driver. |
 | ArgumentNullException | The path is `null`. |
-| [GisException](../../../aspose.gis/gisexception) | Error reading the layer from the dataset. |
+| [GisException](../../../aspose.gis/gisexception/) | Error reading the layer from the dataset. |
 | IOException | An I/O error occurred. |
-| NotSupportedException | Driver can not open datasets (see [`CanOpenDatasets`](../canopendatasets)). |
+| NotSupportedException | Driver can not open datasets (see [`CanOpenDatasets`](../canopendatasets/)). |
 
 ### See Also
 
-* class [Dataset](../../../aspose.gis/dataset)
-* class [AbstractPath](../../../aspose.gis/abstractpath)
-* class [FileGdbOptions](../../filegdboptions)
-* class [FileGdbDriver](../../filegdbdriver)
-* namespace [Aspose.Gis.Formats.FileGdb](../../filegdbdriver)
+* class [Dataset](../../../aspose.gis/dataset/)
+* class [AbstractPath](../../../aspose.gis/abstractpath/)
+* class [FileGdbOptions](../../filegdboptions/)
+* class [FileGdbDriver](../)
+* namespace [Aspose.Gis.Formats.FileGdb](../../filegdbdriver/)
 * assembly [Aspose.GIS](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.GIS.dll -->
+

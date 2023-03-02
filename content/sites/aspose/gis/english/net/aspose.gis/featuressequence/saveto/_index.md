@@ -1,12 +1,12 @@
 ---
-title: SaveTo
+title: FeaturesSequence.SaveTo
 second_title: Aspose.GIS for .NET API Reference
-description: 
+description: FeaturesSequence method. Saves features sequence to layer.
 type: docs
 weight: 50
 url: /net/aspose.gis/featuressequence/saveto/
 ---
-## FeaturesSequence.SaveTo method (1 of 4)
+## SaveTo(string, FileDriver) {#saveto_2}
 
 Saves features sequence to layer.
 
@@ -24,20 +24,20 @@ public void SaveTo(string destinationPath, FileDriver destinationDriver)
 | exception | condition |
 | --- | --- |
 | ArgumentNullException | Any argument is `null`. |
-| [GisException](../../gisexception) | Error reading or writing the feature to/from the file. |
+| [GisException](../../gisexception/) | Error reading or writing the feature to/from the file. |
 | IOException | An I/O error occurred. |
-| [TransformationException](../../../aspose.gis.spatialreferencing/transformationexception) | Transformation of features geometry from source spatial reference system to target spatial reference system failed. |
+| [TransformationException](../../../aspose.gis.spatialreferencing/transformationexception/) | Transformation of features geometry from source spatial reference system to target spatial reference system failed. |
 
 ### See Also
 
-* class [FileDriver](../../filedriver)
-* class [FeaturesSequence](../../featuressequence)
-* namespace [Aspose.Gis](../../featuressequence)
+* class [FileDriver](../../filedriver/)
+* class [FeaturesSequence](../)
+* namespace [Aspose.Gis](../../featuressequence/)
 * assembly [Aspose.GIS](../../../)
 
 ---
 
-## FeaturesSequence.SaveTo method (2 of 4)
+## SaveTo(AbstractPath, FileDriver) {#saveto}
 
 Saves features sequence to layer.
 
@@ -54,21 +54,21 @@ public void SaveTo(AbstractPath destinationPath, FileDriver destinationDriver)
 
 | exception | condition |
 | --- | --- |
-| [GisException](../../gisexception) | Error reading or writing the feature to/from the file. |
+| [GisException](../../gisexception/) | Error reading or writing the feature to/from the file. |
 | IOException | An I/O error occurred. |
-| [TransformationException](../../../aspose.gis.spatialreferencing/transformationexception) | Transformation of features geometry from source spatial reference system to target spatial reference system failed. |
+| [TransformationException](../../../aspose.gis.spatialreferencing/transformationexception/) | Transformation of features geometry from source spatial reference system to target spatial reference system failed. |
 
 ### See Also
 
-* class [AbstractPath](../../abstractpath)
-* class [FileDriver](../../filedriver)
-* class [FeaturesSequence](../../featuressequence)
-* namespace [Aspose.Gis](../../featuressequence)
+* class [AbstractPath](../../abstractpath/)
+* class [FileDriver](../../filedriver/)
+* class [FeaturesSequence](../)
+* namespace [Aspose.Gis](../../featuressequence/)
 * assembly [Aspose.GIS](../../../)
 
 ---
 
-## FeaturesSequence.SaveTo method (3 of 4)
+## SaveTo(string, FileDriver, SavingOptions) {#saveto_3}
 
 Saves features sequence to layer.
 
@@ -86,22 +86,22 @@ public void SaveTo(string destinationPath, FileDriver destinationDriver, SavingO
 
 | exception | condition |
 | --- | --- |
-| [GisException](../../gisexception) | Error reading or writing the feature to/from the file. |
+| [GisException](../../gisexception/) | Error reading or writing the feature to/from the file. |
 | IOException | An I/O error occurred. |
-| [TransformationException](../../../aspose.gis.spatialreferencing/transformationexception) | Transformation of features geometry from source spatial reference system to target spatial reference system failed. |
+| [TransformationException](../../../aspose.gis.spatialreferencing/transformationexception/) | Transformation of features geometry from source spatial reference system to target spatial reference system failed. |
 | NotSupportedException | Spatial reference system specified in *options* is not supported by *destinationDriver*. |
 
 ### See Also
 
-* class [FileDriver](../../filedriver)
-* class [SavingOptions](../../savingoptions)
-* class [FeaturesSequence](../../featuressequence)
-* namespace [Aspose.Gis](../../featuressequence)
+* class [FileDriver](../../filedriver/)
+* class [SavingOptions](../../savingoptions/)
+* class [FeaturesSequence](../)
+* namespace [Aspose.Gis](../../featuressequence/)
 * assembly [Aspose.GIS](../../../)
 
 ---
 
-## FeaturesSequence.SaveTo method (4 of 4)
+## SaveTo(AbstractPath, FileDriver, SavingOptions) {#saveto_1}
 
 Saves features sequence to layer.
 
@@ -120,18 +120,18 @@ public void SaveTo(AbstractPath destinationPath, FileDriver destinationDriver,
 
 | exception | condition |
 | --- | --- |
-| [GisException](../../gisexception) | Error reading or writing the feature to/from the file. |
+| [GisException](../../gisexception/) | Error reading or writing the feature to/from the file. |
 | IOException | An I/O error occurred. |
-| [TransformationException](../../../aspose.gis.spatialreferencing/transformationexception) | Transformation of features geometry from source spatial reference system to target spatial reference system failed. |
+| [TransformationException](../../../aspose.gis.spatialreferencing/transformationexception/) | Transformation of features geometry from source spatial reference system to target spatial reference system failed. |
 | NotSupportedException | Spatial reference system specified in *options* is not supported by *destinationDriver*. |
 
 ### See Also
 
-* class [AbstractPath](../../abstractpath)
-* class [FileDriver](../../filedriver)
-* class [SavingOptions](../../savingoptions)
-* class [FeaturesSequence](../../featuressequence)
-* namespace [Aspose.Gis](../../featuressequence)
+* class [AbstractPath](../../abstractpath/)
+* class [FileDriver](../../filedriver/)
+* class [SavingOptions](../../savingoptions/)
+* class [FeaturesSequence](../)
+* namespace [Aspose.Gis](../../featuressequence/)
 * assembly [Aspose.GIS](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.GIS.dll -->
+

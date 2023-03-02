@@ -1,12 +1,12 @@
 ---
-title: OpenDataset
+title: FileDriver.OpenDataset
 second_title: Aspose.GIS for .NET API Reference
-description: 
+description: FileDriver method. Opens the dataset.
 type: docs
 weight: 80
 url: /net/aspose.gis/filedriver/opendataset/
 ---
-## FileDriver.OpenDataset method (1 of 4)
+## OpenDataset(string) {#opendataset_2}
 
 Opens the dataset.
 
@@ -18,29 +18,29 @@ public Dataset OpenDataset(string path)
 | --- | --- | --- |
 | path | String | Path to the dataset. |
 
-## Return Value
+### Return Value
 
-An instance of [`Dataset`](../../dataset).
+An instance of [`Dataset`](../../dataset/).
 
 ### Exceptions
 
 | exception | condition |
 | --- | --- |
 | ArgumentNullException | The path is `null`. |
-| [GisException](../../gisexception) | Error reading the dataset. |
+| [GisException](../../gisexception/) | Error reading the dataset. |
 | IOException | An I/O error occurred. |
-| NotSupportedException | Driver can not open datasets (see [`CanOpenDatasets`](../canopendatasets)). |
+| NotSupportedException | Driver can not open datasets (see [`CanOpenDatasets`](../canopendatasets/)). |
 
 ### See Also
 
-* class [Dataset](../../dataset)
-* class [FileDriver](../../filedriver)
-* namespace [Aspose.Gis](../../filedriver)
+* class [Dataset](../../dataset/)
+* class [FileDriver](../)
+* namespace [Aspose.Gis](../../filedriver/)
 * assembly [Aspose.GIS](../../../)
 
 ---
 
-## FileDriver.OpenDataset method (2 of 4)
+## OpenDataset(AbstractPath) {#opendataset}
 
 Opens the dataset.
 
@@ -52,30 +52,30 @@ public Dataset OpenDataset(AbstractPath path)
 | --- | --- | --- |
 | path | AbstractPath | Path to the dataset. |
 
-## Return Value
+### Return Value
 
-An instance of [`Dataset`](../../dataset).
+An instance of [`Dataset`](../../dataset/).
 
 ### Exceptions
 
 | exception | condition |
 | --- | --- |
 | ArgumentNullException | The path is `null`. |
-| [GisException](../../gisexception) | Error reading the dataset. |
+| [GisException](../../gisexception/) | Error reading the dataset. |
 | IOException | An I/O error occurred. |
-| NotSupportedException | Driver can not open datasets (see [`CanOpenDatasets`](../canopendatasets)). |
+| NotSupportedException | Driver can not open datasets (see [`CanOpenDatasets`](../canopendatasets/)). |
 
 ### See Also
 
-* class [Dataset](../../dataset)
-* class [AbstractPath](../../abstractpath)
-* class [FileDriver](../../filedriver)
-* namespace [Aspose.Gis](../../filedriver)
+* class [Dataset](../../dataset/)
+* class [AbstractPath](../../abstractpath/)
+* class [FileDriver](../)
+* namespace [Aspose.Gis](../../filedriver/)
 * assembly [Aspose.GIS](../../../)
 
 ---
 
-## FileDriver.OpenDataset method (3 of 4)
+## OpenDataset(string, DriverOptions) {#opendataset_3}
 
 Opens the dataset.
 
@@ -88,9 +88,9 @@ public Dataset OpenDataset(string path, DriverOptions options)
 | path | String | Path to the dataset. |
 | options | DriverOptions | Driver-specific options. |
 
-## Return Value
+### Return Value
 
-An instance of [`Dataset`](../../dataset).
+An instance of [`Dataset`](../../dataset/).
 
 ### Exceptions
 
@@ -98,21 +98,21 @@ An instance of [`Dataset`](../../dataset).
 | --- | --- |
 | ArgumentException | Options object has an incorrect type for this driver. |
 | ArgumentNullException | The path is `null`. |
-| [GisException](../../gisexception) | Error reading the dataset. |
+| [GisException](../../gisexception/) | Error reading the dataset. |
 | IOException | An I/O error occurred. |
-| NotSupportedException | Driver can not open datasets (see [`CanOpenDatasets`](../canopendatasets)). |
+| NotSupportedException | Driver can not open datasets (see [`CanOpenDatasets`](../canopendatasets/)). |
 
 ### See Also
 
-* class [Dataset](../../dataset)
-* class [DriverOptions](../../driveroptions)
-* class [FileDriver](../../filedriver)
-* namespace [Aspose.Gis](../../filedriver)
+* class [Dataset](../../dataset/)
+* class [DriverOptions](../../driveroptions/)
+* class [FileDriver](../)
+* namespace [Aspose.Gis](../../filedriver/)
 * assembly [Aspose.GIS](../../../)
 
 ---
 
-## FileDriver.OpenDataset method (4 of 4)
+## OpenDataset(AbstractPath, DriverOptions) {#opendataset_1}
 
 Opens the dataset.
 
@@ -125,9 +125,9 @@ public virtual Dataset OpenDataset(AbstractPath path, DriverOptions options)
 | path | AbstractPath | Path to the dataset. |
 | options | DriverOptions | Driver-specific options. |
 
-## Return Value
+### Return Value
 
-An instance of [`Dataset`](../../dataset).
+An instance of [`Dataset`](../../dataset/).
 
 ### Exceptions
 
@@ -135,17 +135,17 @@ An instance of [`Dataset`](../../dataset).
 | --- | --- |
 | ArgumentException | Options object has an incorrect type for this driver. |
 | ArgumentNullException | The path is `null`. |
-| [GisException](../../gisexception) | Error reading the dataset. |
+| [GisException](../../gisexception/) | Error reading the dataset. |
 | IOException | An I/O error occurred. |
-| NotSupportedException | Driver can not open datasets (see [`CanOpenDatasets`](../canopendatasets)). |
+| NotSupportedException | Driver can not open datasets (see [`CanOpenDatasets`](../canopendatasets/)). |
 
 ### See Also
 
-* class [Dataset](../../dataset)
-* class [AbstractPath](../../abstractpath)
-* class [DriverOptions](../../driveroptions)
-* class [FileDriver](../../filedriver)
-* namespace [Aspose.Gis](../../filedriver)
+* class [Dataset](../../dataset/)
+* class [AbstractPath](../../abstractpath/)
+* class [DriverOptions](../../driveroptions/)
+* class [FileDriver](../)
+* namespace [Aspose.Gis](../../filedriver/)
 * assembly [Aspose.GIS](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.GIS.dll -->
+

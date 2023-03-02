@@ -1,12 +1,12 @@
 ---
-title: Create
+title: Dataset.Create
 second_title: Aspose.GIS for .NET API Reference
-description: 
+description: Dataset method. Creates a dataset.
 type: docs
 weight: 10
 url: /net/aspose.gis/dataset/create/
 ---
-## Dataset.Create method (1 of 4)
+## Create(string, FileDriver) {#create_2}
 
 Creates a dataset.
 
@@ -19,9 +19,9 @@ public static Dataset Create(string path, FileDriver driver)
 | path | String | Path to the dataset. |
 | driver | FileDriver | Driver to use. |
 
-## Return Value
+### Return Value
 
-An instance of [`Dataset`](../../dataset).
+An instance of [`Dataset`](../).
 
 ### Exceptions
 
@@ -29,21 +29,21 @@ An instance of [`Dataset`](../../dataset).
 | --- | --- |
 | ArgumentException | Options object has an incorrect type for this driver. |
 | ArgumentNullException | The path is `null`. |
-| [GisException](../../gisexception) | Error while creating the dataset. |
+| [GisException](../../gisexception/) | Error while creating the dataset. |
 | IOException | An I/O error occurred. |
 | NotSupportedException | Driver can not open datasets. |
 | InvalidOperationException | Dataset already exists. |
 
 ### See Also
 
-* class [FileDriver](../../filedriver)
-* class [Dataset](../../dataset)
-* namespace [Aspose.Gis](../../dataset)
+* class [FileDriver](../../filedriver/)
+* class [Dataset](../)
+* namespace [Aspose.Gis](../../dataset/)
 * assembly [Aspose.GIS](../../../)
 
 ---
 
-## Dataset.Create method (2 of 4)
+## Create(AbstractPath, FileDriver) {#create}
 
 Creates a dataset.
 
@@ -56,9 +56,9 @@ public static Dataset Create(AbstractPath path, FileDriver driver)
 | path | AbstractPath | Path to the dataset. |
 | driver | FileDriver | Driver to use. |
 
-## Return Value
+### Return Value
 
-An instance of [`Dataset`](../../dataset).
+An instance of [`Dataset`](../).
 
 ### Exceptions
 
@@ -66,22 +66,22 @@ An instance of [`Dataset`](../../dataset).
 | --- | --- |
 | ArgumentException | Options object has an incorrect type for this driver. |
 | ArgumentNullException | The path is `null`. |
-| [GisException](../../gisexception) | Error while creating the dataset. |
+| [GisException](../../gisexception/) | Error while creating the dataset. |
 | IOException | An I/O error occurred. |
 | NotSupportedException | Driver can not open datasets. |
 | InvalidOperationException | Dataset already exists. |
 
 ### See Also
 
-* class [AbstractPath](../../abstractpath)
-* class [FileDriver](../../filedriver)
-* class [Dataset](../../dataset)
-* namespace [Aspose.Gis](../../dataset)
+* class [AbstractPath](../../abstractpath/)
+* class [FileDriver](../../filedriver/)
+* class [Dataset](../)
+* namespace [Aspose.Gis](../../dataset/)
 * assembly [Aspose.GIS](../../../)
 
 ---
 
-## Dataset.Create method (3 of 4)
+## Create(string, FileDriver, DriverOptions) {#create_3}
 
 Creates a dataset.
 
@@ -95,9 +95,9 @@ public static Dataset Create(string path, FileDriver driver, DriverOptions optio
 | driver | FileDriver | Driver to use. |
 | options | DriverOptions | Driver-specific options. |
 
-## Return Value
+### Return Value
 
-An instance of [`Dataset`](../../dataset).
+An instance of [`Dataset`](../).
 
 ### Exceptions
 
@@ -105,22 +105,22 @@ An instance of [`Dataset`](../../dataset).
 | --- | --- |
 | ArgumentException | Options object has an incorrect type for this driver. |
 | ArgumentNullException | The path is `null`. |
-| [GisException](../../gisexception) | Error while creating the dataset. |
+| [GisException](../../gisexception/) | Error while creating the dataset. |
 | IOException | An I/O error occurred. |
 | NotSupportedException | Driver can not open datasets. |
 | InvalidOperationException | Dataset already exists. |
 
 ### See Also
 
-* class [FileDriver](../../filedriver)
-* class [DriverOptions](../../driveroptions)
-* class [Dataset](../../dataset)
-* namespace [Aspose.Gis](../../dataset)
+* class [FileDriver](../../filedriver/)
+* class [DriverOptions](../../driveroptions/)
+* class [Dataset](../)
+* namespace [Aspose.Gis](../../dataset/)
 * assembly [Aspose.GIS](../../../)
 
 ---
 
-## Dataset.Create method (4 of 4)
+## Create(AbstractPath, FileDriver, DriverOptions) {#create_1}
 
 Creates a dataset.
 
@@ -134,9 +134,9 @@ public static Dataset Create(AbstractPath path, FileDriver driver, DriverOptions
 | driver | FileDriver | Driver to use. |
 | options | DriverOptions | Driver-specific options. |
 
-## Return Value
+### Return Value
 
-An instance of [`Dataset`](../../dataset).
+An instance of [`Dataset`](../).
 
 ### Exceptions
 
@@ -144,18 +144,18 @@ An instance of [`Dataset`](../../dataset).
 | --- | --- |
 | ArgumentException | Options object has an incorrect type for this driver. |
 | ArgumentNullException | The path is `null`. |
-| [GisException](../../gisexception) | Error while creating the dataset. |
+| [GisException](../../gisexception/) | Error while creating the dataset. |
 | IOException | An I/O error occurred. |
 | NotSupportedException | Driver can not open datasets. |
 | InvalidOperationException | Dataset already exists. |
 
 ### See Also
 
-* class [AbstractPath](../../abstractpath)
-* class [FileDriver](../../filedriver)
-* class [DriverOptions](../../driveroptions)
-* class [Dataset](../../dataset)
-* namespace [Aspose.Gis](../../dataset)
+* class [AbstractPath](../../abstractpath/)
+* class [FileDriver](../../filedriver/)
+* class [DriverOptions](../../driveroptions/)
+* class [Dataset](../)
+* namespace [Aspose.Gis](../../dataset/)
 * assembly [Aspose.GIS](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.GIS.dll -->
+

@@ -1,12 +1,12 @@
 ---
-title: CreateLayer
+title: Dataset.CreateLayer
 second_title: Aspose.GIS for .NET API Reference
-description: 
+description: Dataset method. Creates a new vector layer and opens it for appending.
 type: docs
 weight: 70
 url: /net/aspose.gis/dataset/createlayer/
 ---
-## Dataset.CreateLayer method (1 of 5)
+## CreateLayer() {#createlayer}
 
 Creates a new vector layer and opens it for appending.
 
@@ -14,20 +14,20 @@ Creates a new vector layer and opens it for appending.
 public virtual VectorLayer CreateLayer()
 ```
 
-## Return Value
+### Return Value
 
-A [`VectorLayer`](../../vectorlayer) opened for writing.
+A [`VectorLayer`](../../vectorlayer/) opened for writing.
 
 ### See Also
 
-* class [VectorLayer](../../vectorlayer)
-* class [Dataset](../../dataset)
-* namespace [Aspose.Gis](../../dataset)
+* class [VectorLayer](../../vectorlayer/)
+* class [Dataset](../)
+* namespace [Aspose.Gis](../../dataset/)
 * assembly [Aspose.GIS](../../../)
 
 ---
 
-## Dataset.CreateLayer method (2 of 5)
+## CreateLayer(SpatialReferenceSystem) {#createlayer_2}
 
 Creates a new vector layer and opens it for appending.
 
@@ -39,21 +39,21 @@ public virtual VectorLayer CreateLayer(SpatialReferenceSystem spatialReferenceSy
 | --- | --- | --- |
 | spatialReferenceSystem | SpatialReferenceSystem | Spatial reference system of the new layer. |
 
-## Return Value
+### Return Value
 
-A [`VectorLayer`](../../vectorlayer) opened for writing.
+A [`VectorLayer`](../../vectorlayer/) opened for writing.
 
 ### See Also
 
-* class [VectorLayer](../../vectorlayer)
-* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem)
-* class [Dataset](../../dataset)
-* namespace [Aspose.Gis](../../dataset)
+* class [VectorLayer](../../vectorlayer/)
+* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem/)
+* class [Dataset](../)
+* namespace [Aspose.Gis](../../dataset/)
 * assembly [Aspose.GIS](../../../)
 
 ---
 
-## Dataset.CreateLayer method (3 of 5)
+## CreateLayer(DriverOptions, SpatialReferenceSystem) {#createlayer_1}
 
 Creates a new vector layer and opens it for appending.
 
@@ -67,9 +67,9 @@ public virtual VectorLayer CreateLayer(DriverOptions options,
 | options | DriverOptions | Open options. |
 | spatialReferenceSystem | SpatialReferenceSystem | Spatial reference system of the new layer. |
 
-## Return Value
+### Return Value
 
-A [`VectorLayer`](../../vectorlayer) opened for writing.
+A [`VectorLayer`](../../vectorlayer/) opened for writing.
 
 ### Exceptions
 
@@ -77,20 +77,20 @@ A [`VectorLayer`](../../vectorlayer) opened for writing.
 | --- | --- |
 | NotSupportedException | Layer creation is not supported for this dataset. |
 | IOException | An I/O error occurred. |
-| [GisException](../../gisexception) | Error while creating the layer. |
+| [GisException](../../gisexception/) | Error while creating the layer. |
 
 ### See Also
 
-* class [VectorLayer](../../vectorlayer)
-* class [DriverOptions](../../driveroptions)
-* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem)
-* class [Dataset](../../dataset)
-* namespace [Aspose.Gis](../../dataset)
+* class [VectorLayer](../../vectorlayer/)
+* class [DriverOptions](../../driveroptions/)
+* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem/)
+* class [Dataset](../)
+* namespace [Aspose.Gis](../../dataset/)
 * assembly [Aspose.GIS](../../../)
 
 ---
 
-## Dataset.CreateLayer method (4 of 5)
+## CreateLayer(string, SpatialReferenceSystem) {#createlayer_4}
 
 Creates a new vector layer with specified name and opens it for appending.
 
@@ -104,9 +104,9 @@ public virtual VectorLayer CreateLayer(string name,
 | name | String | Name of the layer. |
 | spatialReferenceSystem | SpatialReferenceSystem | Spatial reference system of the new layer. |
 
-## Return Value
+### Return Value
 
-A [`VectorLayer`](../../vectorlayer) opened for writing.
+A [`VectorLayer`](../../vectorlayer/) opened for writing.
 
 ### Exceptions
 
@@ -114,19 +114,19 @@ A [`VectorLayer`](../../vectorlayer) opened for writing.
 | --- | --- |
 | NotSupportedException | Layer creation is not supported for this dataset. |
 | IOException | An I/O error occurred. |
-| [GisException](../../gisexception) | Error while creating the layer. |
+| [GisException](../../gisexception/) | Error while creating the layer. |
 
 ### See Also
 
-* class [VectorLayer](../../vectorlayer)
-* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem)
-* class [Dataset](../../dataset)
-* namespace [Aspose.Gis](../../dataset)
+* class [VectorLayer](../../vectorlayer/)
+* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem/)
+* class [Dataset](../)
+* namespace [Aspose.Gis](../../dataset/)
 * assembly [Aspose.GIS](../../../)
 
 ---
 
-## Dataset.CreateLayer method (5 of 5)
+## CreateLayer(string, DriverOptions, SpatialReferenceSystem) {#createlayer_3}
 
 Creates a new vector layer with specified name and opens it for appending.
 
@@ -141,9 +141,9 @@ public virtual VectorLayer CreateLayer(string name, DriverOptions options,
 | options | DriverOptions | Open options. |
 | spatialReferenceSystem | SpatialReferenceSystem | Spatial reference system of the new layer. |
 
-## Return Value
+### Return Value
 
-A [`VectorLayer`](../../vectorlayer) opened for writing.
+A [`VectorLayer`](../../vectorlayer/) opened for writing.
 
 ### Exceptions
 
@@ -151,15 +151,15 @@ A [`VectorLayer`](../../vectorlayer) opened for writing.
 | --- | --- |
 | NotSupportedException | Layer creation is not supported for this dataset. |
 | IOException | An I/O error occurred. |
-| [GisException](../../gisexception) | Error while creating the layer. |
+| [GisException](../../gisexception/) | Error while creating the layer. |
 
 ### See Also
 
-* class [VectorLayer](../../vectorlayer)
-* class [DriverOptions](../../driveroptions)
-* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem)
-* class [Dataset](../../dataset)
-* namespace [Aspose.Gis](../../dataset)
+* class [VectorLayer](../../vectorlayer/)
+* class [DriverOptions](../../driveroptions/)
+* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem/)
+* class [Dataset](../)
+* namespace [Aspose.Gis](../../dataset/)
 * assembly [Aspose.GIS](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.GIS.dll -->
+
