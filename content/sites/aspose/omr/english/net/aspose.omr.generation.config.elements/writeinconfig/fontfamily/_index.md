@@ -3,7 +3,7 @@ title: FontFamily
 second_title: Aspose.OMR for .NET API Reference
 description: The font family of the Hintaspose.omr.generation.config.elements/writeinconfig/hint
 type: docs
-weight: 30
+weight: 40
 url: /net/aspose.omr.generation.config.elements/writeinconfig/fontfamily/
 ---
 ## WriteInConfig.FontFamily property

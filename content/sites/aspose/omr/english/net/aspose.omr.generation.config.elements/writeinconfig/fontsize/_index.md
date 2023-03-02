@@ -3,7 +3,7 @@ title: FontSize
 second_title: Aspose.OMR for .NET API Reference
 description: The size of the Hintaspose.omr.generation.config.elements/writeinconfig/hint font
 type: docs
-weight: 40
+weight: 50
 url: /net/aspose.omr.generation.config.elements/writeinconfig/fontsize/
 ---
 ## WriteInConfig.FontSize property

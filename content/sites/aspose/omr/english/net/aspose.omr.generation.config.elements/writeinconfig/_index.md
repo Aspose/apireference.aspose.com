@@ -24,6 +24,7 @@ public class WriteInConfig : BaseConfig
 
 | Name | Description |
 | --- | --- |
+| [Adaptive](../../aspose.omr.generation.config.elements/writeinconfig/adaptive) { get; set; } | Set drawing behavior to adaptive. Adaptive behavior draw writeIn based on parent height |
 | [Color](../../aspose.omr.generation.config.elements/writeinconfig/color) { get; set; } | The color of the [`Hint`](./hint) |
 | [FontFamily](../../aspose.omr.generation.config.elements/writeinconfig/fontfamily) { get; set; } | The font family of the [`Hint`](./hint) |
 | [FontSize](../../aspose.omr.generation.config.elements/writeinconfig/fontsize) { get; set; } | The size of the [`Hint`](./hint) font |
