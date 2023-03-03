@@ -4,7 +4,7 @@ additionalTitle: Aspose API References
 description: Examples and code-snippets of Aspose.Words product family. It includes basic and advance examples of usage of Aspose.Words.
 type: docs
 weight: 10
-url: /words
+url: /words/
 ---
 
 ## Aspose.Words for .NET Examples and Code-snippets
@@ -13,4 +13,4 @@ Aspose.Words for .NET examples and code-snippets for creating, editing, converti
 {{% /alert %}}
 
 These are links to some useful resources:
-[Aspose.Words for .NET Examples](/words/net/)
+- [Aspose.Words for .NET Examples](/words/net/)
